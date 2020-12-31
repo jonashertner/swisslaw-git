@@ -1,0 +1,539 @@
+---
+canton: BE
+number: "922.111"
+title: Ordonnance sur la chasse
+short: OCh
+language: fr
+version: 2018-07-01
+valid_until: 2021-03-31
+version_adopted: 2018-05-23
+adopted: 2003-02-26
+in_force: 2003-05-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.111"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1464/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la chasse
+
+(OCh)
+
+du 26.02.2003 (état au 01.07.2018)
+
+Le Conseil-exécutif du canton de Berne,
+
+vu l'article 7, alinéa 4 et l'article 34 de la loi du 25 mars 2002 sur la chasse et la protection de la faune sauvage (LCh)[^ingress-1],
+
+sur proposition de la Direction de l'économie publique,
+
+arrête:
+
+[^ingress-1]: RSB 922.11
+
+## 1 Planification de la chasse
+
+#### Art. 1
+
+**Zones de gestion du gibier**
+
+<sup>1</sup> La planification de la chasse a lieu dans des zones de gestion du gibier.
+
+<sup>2</sup> Les zones de gestion du gibier sont des périmètres délimités sur la base de considérations relatives à la biologie de la faune sauvage et de don-nées géographiques en vue de la gestion du gibier à grande échelle.
+
+#### Art. 2
+
+**Espèces animales concernées par la planification de la chasse**
+
+<sup>1</sup> La planification de la chasse est exécutée pour les chevreuils, les chamois et les cerfs nobles.
+
+<sup>2</sup> Une planification de la chasse est exécutée pour d'autres espèces animales lorsqu'elle s'avère nécessaire pour la conservation des espèces, la limitation des dommages causés par la faune sauvage ou la lutte contre les épizooties.
+
+#### Art. 3
+
+**Bases et contenu**
+
+<sup>1</sup> La planification de la chasse s'appuie sur les bases suivantes:
+
+- a les populations de gibier printanières estimées sans les jeunes,
+- b l'ampleur des dommages causés par la faune sauvage,
+- c l'influence des prédateurs sur les populations de gibier pouvant être chassées,
+- d les chiffres du gibier tiré et tombé des années précédentes,
+- e la situation des biotopes.
+
+<sup>2</sup> Elle indique pour chaque zone de gestion du gibier:
+
+- a les populations à atteindre et leurs structures,
+- b la limite visée des dommages causés par la faune sauvage,
+- c les tableaux de chasse nécessaires par catégorie de gibier (contingents de chasse),
+- d les mesures spéciales valables pour certaines zones,
+- e le nombre probablement nécessaire de patentes et de patentes supplémentaires.
+
+#### Art. 4
+
+**Exécution de la planification de la chasse**
+
+<sup>1</sup> L'Inspection de la chasse constate chaque année, d'entente avec les services concernés, pour chaque zone de gestion du gibier si sont intervenues des modifications essentielles des bases de la planification de la chasse au sens de l'article 3, alinéa 1, qui rendent nécessaires une adaptation de la planification de la chasse.
+
+<sup>2</sup> Là où tel est le cas, l'Inspection de la chasse exécute la planification de la chasse avec la participation des milieux de la chasse, des forêts, de l'agriculture et de la protection de la nature.
+
+<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la Commission de la chasse et de la protection de la faune sauvage (CCPFS), la Direction de l'économie publique fixe les contingents de chasse annuels. Elle peut interdire entièrement ou partiellement la chasse pour de justes motifs.
+
+<sup>4</sup> L'Inspection de la chasse prend d'autres mesures nécessaires pour atteindre les objectifs de la planification de la chasse dans son propre domaine de compétence ou les indique aux services compétents.
+
+#### Art. 5
+
+**Information**
+
+<sup>1</sup> L'Inspection de la chasse informe la population sur l'exécution de la chasse et sur ses fonctions.
+
+## 2 Droit de chasse
+
+#### Art. 6
+
+**Reconnaissance d'examens de chasse**
+
+<sup>1</sup> Sont considérés comme reconnus les examens de chasse des cantons.
+
+<sup>2</sup> L'Inspection de la chasse reconnaît sur demande les examens de chasse étrangers lorsque les exigences de ces examens sont comparables à celles du canton de Berne. Elle tient une liste des pays dont les examens de chasse sont reconnus.
+
+#### Art. 7
+
+**Autorisations spéciales**
+
+<sup>1</sup> L'Inspection de la chasse peut attribuer des autorisations de chasse spéciales, limitées dans le temps et l'espace, pour des animaux isolés ou des espèces particulières ainsi que pour la fauconnerie à des organes de surveillance et à des personnes ou groupes de personnes autorisés à se procurer une patente de chasse.
+
+<sup>2</sup> Elle fixe dans l'autorisation les dispositions dérogeant aux prescriptions générales sur la chasse et la manière d'établir le rapport.
+
+<sup>3</sup> Pour les autorisations spéciales, un émolument peut être perçu dont le montant dépend de l'importance de l'autorisation pour la gestion de la faune sauvage et de la valeur qu'elle représente pour le ou la titulaire de l'autorisation.
+
+#### Art. 8
+
+**Mesures de défense personnelle autorisées**
+
+<sup>1</sup> Une personne capable d'exercer les droits civils dont les animaux domestiques, les cultures agricoles ou les propriétés foncières exploitées en propre subissent des dommages causés par les renards, les blaireaux, les fouines et les martres, les ratons laveurs, les corneilles noires, les corbeaux freux, les pies, les geais, les tourterelles turques, les étourneaux, les merles et les pigeons domestiques retournés à l'état sauvage, est autorisée à effaroucher ou, si nécessaire, à tirer ou à capturer puis à tuer les animaux causant ces dommages.
+
+<sup>2</sup> Elle prend toutes les précautions pour épargner à l'animal des souffrances inutiles et protéger sa dignité, ainsi que pour ménager les femelles pendant la période de reproduction et de dépendance.
+
+<sup>3</sup> Seules des armes de chasse et munitions autorisées peuvent être utilisées pour le tir. Les fouines, les martres et les oiseaux peuvent aussi être tirés avec des fusils de petit calibre.
+
+<sup>4</sup> Des personnes qui ont réussi un examen de chasse reconnu peuvent prêter assistance lors de l'exécution des mesures de défense personnelle.
+
+<sup>5</sup> Les renards, les blaireaux, les fouines et les martres, ainsi que les ratons laveurs tirés dans le cadre de la défense personnelle doivent être annoncés dans les deux jours au ou à la garde-faune.
+
+#### Art. 9
+
+**Mesures de défense personnelle interdites**
+
+<sup>1</sup> Il est interdit
+
+- a de pratiquer la défense personnelle dans des zones caractérisées par une interdiction de chasser et dans les forêts,
+- b de tirer des tourterelles turques, des étourneaux et des merles pendant la période du 1<sup>er</sup> mars au 15 juin,
+- c de tirer des renards, des blaireaux, des fouines et des martres ainsi que des ratons laveurs hors d'un rayon de 100 mètres autour des bâtiments habités, et de les capturer à l'extérieur des bâtiments et loin des avant-toits,
+- d d'utiliser des chiens et des appâts, à l'exception de l'emploi d'appâts dans des chatières.
+
+## 3 Exercice de la chasse
+
+### 3.1 Espèces pouvant être chassées et périodes de chasse
+
+#### Art. 10
+
+**Espèces animales pouvant être chassées, périodes de chasse et jours de relâche**
+
+<sup>1</sup> L'annexe 1 à la présente ordonnance fixe pour chaque type de patente les espèces animales pouvant être chassées, les périodes de chasse et les jours de relâche.
+
+<sup>2</sup> La Direction de l'économie publique peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, prolonger la chasse au sanglier jusqu'à fin février, si la CCPFS le propose en se fondant sur les objectifs et les mesures de la planification de la chasse.
+
+<sup>3</sup> Dans les régions confrontées à d'intolérables dommages causés par la faune sauvage, elle peut autoriser, pour une saison de chasse donnée, la chasse à l'affût des chevreuils le jeudi.
+
+#### Art. 11
+
+**Protection des femelles en lactation, tirs par méprise**
+
+<sup>1</sup> Les chèvres de chamois et les biches en lactation ne peuvent pas être tirées.
+
+<sup>2</sup> Lorsque, malgré une identification soigneuse, une chèvre de chamois ou une biche en lactation n'est pas reconnue et est tirée, le chasseur ou la chasseuse doit inscrire l'animal dans le carnet de contrôle du gibier tiré et s'acquitter de l'émolument fixé à l'annexe 2.
+
+<sup>3</sup> Se fondant sur les objectifs et les mesures de la planification de la chasse et après consultation de la CCPFS, la Direction de l'économie publique peut, pour une saison de chasse donnée et certaines zones de gestion du gibier présentant une population que le nombre de ses individus rend intolérable, autoriser le tir de biches en lactation, à la condition impérative que la mère et son faon soient tirés ensemble et présentés simultanément au contrôle.
+
+#### Art. 12
+
+**Infractions aux règles de l'éthique de la chasse**
+
+<sup>1</sup> Enfreint les règles de l'éthique de la chasse la personne qui
+
+- a tire des chèvres de chamois, biches ou laies accompagnées de leurs petits,
+- b s'abstient de rechercher le gibier blessé en temps utile et dans les règles,
+- c inflige des souffrances inutiles à des animaux sauvages.
+
+### 3.2 Restrictions de chasse
+
+#### Art. 13
+
+**Restrictions de temps 1. Jours de fête et de relâche**
+
+<sup>1</sup> Il ne peut pas être chassé les jours suivants:
+
+- a le dimanche,
+- b à Nouvel An et le 2 janvier,
+- c à Noël et le 26 décembre,
+- d les jours de relâche selon l'annexe 1.
+
+#### Art. 14
+
+**2. Heures de tir**
+
+<sup>1</sup> Il est permis de tirer seulement par visibilité suffisante, d’une heure avant le lever du soleil à une heure après le coucher du soleil.
+
+<sup>2</sup> A partir du 16 novembre, il est permis de tirer par visibilité suffisante de 5 heures à 21 heures.
+
+<sup>2a</sup> Du 2 août au 31 octobre, il est permis, au cours de la chasse à l'affût des sangliers, de tirer par visibilité suffisante jusqu'à deux heures après le coucher du soleil.
+
+<sup>3</sup> L'affût de nuit est réservé.[^14-1]
+
+[^14-1]: Ancien alinéa 2
+
+#### Art. 15
+
+**Restrictions de lieu**
+
+<sup>1</sup> La chasse est interdite
+
+- a dans les zones de protection de la faune sauvage ou dans les réserves naturelles caractérisées par une interdiction de chasser, désignées de manière particulière dans l'ordonnance du 26 février 2003 sur la protection de la faune sauvage (OPFS)[^15-1],
+- b dans les zones désignées par la Direction de l'économie publique sur la base de l'article 36 et dans les aires d'accès aux ouvrages de passage à faune,
+- c sous réserve de l’alinéa 4, dans un rayon de 100 mètres autour des bâtiments habités en permanence, pour autant qu’aucune forêt, aucun peuplement de type forestier ni aucune haie réduisant la visibilité ne se trouve entre le bâtiment et la personne autorisée à chasser.
+
+<sup>2</sup> Les défenses d'accès militaires ou d'autre type doivent être respectées.
+
+<sup>3</sup> La chasse sur la partie neuchâteloise du lac de Bienne est autorisée pour les titulaires d'une patente de chasse bernoise.
+
+<sup>4</sup> Les titulaires d’une autorisation de chasser peuvent chasser le renard, le blaireau, la fouine, le chien viverrin ou le raton laveur avec le consentement des habitants et habitantes des bâtiments habités en permanence concernés, y compris à l’intérieur du rayon de 100 mètres visé à l’alinéa 1, lettre c.
+
+[^15-1]: RSB 922.63
+
+#### Art. 16
+
+**Exceptions**
+
+<sup>1</sup> Aucune restriction de temps ou de lieu n'est applicable lorsqu'il s'agit de rechercher, d'achever un animal ainsi que de s'approprier le gibier tombé ou régulièrement tiré.
+
+<sup>2</sup> Le ou la garde-faune doit être immédiatement informé(e) des actes au sens de l'alinéa 1, qui ont lieu dans le cadre des restrictions en vigueur.
+
+#### Art. 16a
+
+**Restrictions de chasse au terrier**
+
+<sup>1</sup> La chasse avec des chiens dans les terriers des animaux sauvages (chasse au terrier) n’est autorisée qu’avec les restrictions suivantes:
+
+- a la chasse au terrier ne peut être exercée que jusqu’à fin décembre;
+- b il peut être utilisé au plus un chien de terrier par terrier;
+- c chaque chien de terrier doit porter un système de localisation;
+- d avant l’exercice de la chasse au terrier, le chasseur ou la chasseuse doit en annoncer le lieu et la date au ou à la garde-faune compétent(e).
+
+<sup>2</sup> Les animaux sauvages blessés et les chiens de chasse restés dans les terriers ne peuvent être dégagés qu’avec le concours du ou de la garde-faune.
+
+### 3.3 Interdiction de chiens impropres à la chasse
+
+#### Art. 17
+
+<sup>1</sup> Le ou la garde-faune peut contester l'aptitude d'un chien de chasse à des types de chasse déterminés et notifier par écrit au détenteur ou à la détentrice cette décision en indiquant la possibilité de recourir auprès de la Direction de l'économie publique.
+
+<sup>2</sup> Lors de la procédure de recours, la Direction de l'économie publique peut faire appel, pour l'examen spécialisé, à un groupe d'experts composé d'au maximum trois spécialistes, nommé par la CCPFS.
+
+<sup>3</sup> Les membres du groupe d'experts perçoivent la même indemnisation que les membres de la CCPFS.
+
+### 3.4 Utilisation d'armes, munitions et trappes
+
+#### Art. 17a
+
+**Sûreté du tir**
+
+<sup>1</sup> Avant chaque saison de chasse, le chasseur ou la chasseuse doit établir la sûreté du tir des types d'armes qu'il ou elle utilise pour la chasse.
+
+<sup>2</sup> Le programme de tir suivant doit avoir été rempli :
+
+- a effectuer des tirs à balle à 100 mètres de distance au moins
+  - 1\. sur une cible graduée jusqu'à dix, sachant que quatre coups consécutifs doivent avoir touché au moins la zone huit, ou
+  - 2\. sur une cible saint-galloise, sachant que quatre coups consécutifs doivent avoir touché le champ prévu à cet effet (Trefferfeld);
+- b effectuer des tirs à grenaille à une distance de 25 à 35 mètres
+  - 1\. sur une cible basculante à trois pièces (lièvre), sachant que la partie avant ou centrale doit avoir été touchée quatre fois de suite, ou
+  - 2\. sur un rabbit, qui doit avoir été touché quatre fois de suite, sachant que les doublés sont permis.
+
+<sup>3</sup> Le programme de tir peut être répété à volonté jusqu'à ce qu'il soit réussi.
+
+<sup>4</sup> Le lieu et la date du contrôle de la sûreté du tir doivent être inscrits avant la première sortie en chasse avec l'arme de chasse utilisée à cette fin dans le carnet de contrôle des animaux tirés.
+
+<sup>5</sup> Sur demande, la sûreté du tir doit être établie en présentant une attestation émanant de la société de chasseurs ou de tir.
+
+#### Art. 18
+
+**Distances de tir**
+
+<sup>1</sup> Les distances maximales de tir sont:
+
+- a 35 mètres pour le tir à grenaille et à balle pour canons lisses,
+- b 200 mètres pour le tir à balle.
+
+<sup>2</sup> Lors de l'estimation des distances de tir, une erreur d'au maximum dix pour cent peut être admise.
+
+#### Art. 19
+
+**Port et transport d’armes à feu**
+
+<sup>1</sup> En dehors de la période de chasse, de l’exécution de mesures de défense personnelle conformément à l’article 5, alinéa 2 LCh ou de la chasse sur la base d’une autorisation spéciale, le port d’une arme, qu’elle soit chargée ou non, n’est autorisé que dans le cadre de la législation sur les armes. L’alinéa 2 est réservé.
+
+<sup>2</sup> Il est permis d’amener à pied l’arme non chargée dans le territoire de chasse ou de la remporter non chargée la veille ou le lendemain d’un jour de chasse en empruntant les chemins ordinaires.
+
+<sup>3</sup> Les armes à feu et les munitions ne peuvent être transportées que séparément dans le véhicule, y compris pendant la période de chasse, l’exécution de mesures de défense personnelle conformément à l’article 5, alinéa 2 LCh ou la chasse sur la base d’une autorisation spéciale.
+
+#### Art. 20
+
+**Utilisation de trappes**
+
+<sup>1</sup> L'utilisation de trappes de tout genre est interdite.
+
+<sup>2</sup> Dans le cadre de la défense personnelle, il est toutefois permis d'utiliser des chatières à l'intérieur de bâtiments ainsi que sous les avant-toits.
+
+<sup>3</sup> Les chatières doivent être contrôlées au moins deux fois par jour.
+
+### 3.5 Utilisation de véhicules à moteur
+
+#### Art. 21
+
+**Heures de circulation et routes ouvertes aux véhicules**
+
+<sup>1</sup> En cas d'utilisation d'un véhicule à moteur privé pendant les périodes suivantes, il n'est plus possible d'exercer la chasse durant ces mêmes périodes:
+
+<table>
+<tr><th>Date</th><th>matin</th><th>après-midi</th><th>soir</th></tr>
+<tr><td>Août</td><td>07.00 - 12.30</td><td>14.00 - 18.00</td><td>20.00 - 23.00</td></tr>
+<tr><td>Septembre</td><td>07.00 - 12.30</td><td>14.00 - 17.00</td><td>18.00 - 23.00</td></tr>
+<tr><td>Du 1<sup>er</sup> octobre jusqu'à la fin de l'heure d'été</td><td>09.00 - 12.30</td><td>14.00 - 17.00</td><td>18.00 - 21.00</td></tr>
+<tr><td>Fin de l'heure d'été jusqu'au 15 novembre</td><td>09.00 - 12.30</td><td>14.00 - 16.00</td><td>17.00 - 21.00</td></tr>
+</table>
+
+<sup>2</sup> A l'extérieur de la forêt, l'utilisation d'un véhicule à moteur privé en septembre pour l'exercice de la chasse avec la patente de base et la patente E n'est soumise à aucune restriction quant aux heures de circulation.
+
+<sup>3</sup> Les routes forestières peuvent être empruntées du 1<sup>er</sup> septembre au 30 novembre pour l'exercice de la chasse.
+
+<sup>4</sup> Les véhicules à moteur utilisés pour la chasse doivent être marqués à un endroit bien visible au moyen de la vignette délivrée par l'Inspection de la chasse.
+
+<sup>5</sup> En partant de son domicile permanent, la personne autorisée à chasser peut se rendre à la chasse à toute heure si elle n'utilise pas un véhicule à moteur privé.
+
+#### Art. 22
+
+**Tir à partir d'un véhicule à moteur**
+
+<sup>1</sup> Il est interdit de tirer depuis l'intérieur d'un véhicule.
+
+<sup>2</sup> Il est permis de tirer à partir d'un bateau à condition que le moteur ait été enlevé.
+
+<sup>3</sup> Les pêcheurs et pêcheuses professionnels autorisés à chasser peuvent tirer depuis un bateau à moteur pour éviter tout endommagement des engins de pêche déployés.
+
+### 3.6 Saisie électronique des données
+
+#### Art. 22a
+
+<sup>1</sup> Afin de faciliter le contrôle de l'exercice de la chasse par la voie électronique, l'Inspection exploite une banque de données indépendante de tout autre système, notamment pour la gestion des patentes de chasse et l'enregistrement des peines infligées et des mesures ordonnées en vertu de la législation sur la chasse.
+
+<sup>2</sup> La banque de données décrite à l'alinéa 1 ne doit pas pouvoir être consultée par d'autres offices ou par des tiers.
+
+<sup>3</sup> Les droits d'accès à la banque de données doivent être attribués nommément au sein de l'Inspection de la chasse.
+
+## 4 Gibier tombé
+
+#### Art. 23
+
+<sup>1</sup> Sont réputés gibier tombé le gibier mort, malade, blessé ou des parties de ce gibier, ainsi que les jeunes sujets abandonnés ou orphelins.
+
+<sup>2</sup> Le gibier tombé doit être immédiatement annoncé au ou à la garde-faune ou à la police cantonale.
+
+<sup>3</sup> L'Inspection de la chasse décide de son utilisation ultérieure.
+
+<sup>4</sup> …
+
+<sup>5</sup> Le gibier tombé ne peut être enlevé que moyennant annonce immédiate au ou à la garde-faune. Le gibier tombé inutilisable peut être laissé à celui ou celle qui l'a trouvé, pour autant qu'il ne soit pas utilisé par le canton.
+
+## 5 Aspects financiers
+
+### 5.1 Création et gestion de la Caisse pour la protection de la faune sauvage
+
+#### Art. 24
+
+**Création et placement du patrimoine**
+
+<sup>1</sup> Le service chargé par l'Office de l'agriculture et de la nature de la gestion de la Caisse pour la protection de la faune sauvage fait ouvrir pour les transactions financières un compte sous le nom «Caisse pour la protection de la faune sauvage du canton de Berne» auprès d'une institution bancaire de son choix.
+
+<sup>2</sup> Il place le patrimoine de manière à ce que soient garantis la sécurité, un rendement conforme au marché, une répartition appropriée des risques ainsi que des liquidités.
+
+<sup>3</sup> Il concède au canton des possibilités appropriées d'intervention auprès de l'institution bancaire afin que les droits du mandant et les devoirs de surveillance puissent être garantis.
+
+#### Art. 25
+
+**Fixation du supplément destiné à la protection et du patrimoine de la Caisse**
+
+<sup>1</sup> La Direction de l'économie publique fixe, après consultation du service mandaté, le montant du supplément destiné à la protection de la faune sauvage de manière à ce que le patrimoine de la Caisse pour la protection de la faune sauvage soit, à la fin de l'exercice annuel, d'au moins 100'000 francs et au maximum de 500'000 francs.
+
+#### Art. 26
+
+**Mesures donnant droit à des contributions, bénéficiaires**
+
+<sup>1</sup> Peuvent être financés par la Caisse pour la protection de la faune sauvage:
+
+- a les mesures de conservation ou de restauration des biotopes et de la biodiversité,
+- b les frais découlant de l'aide à la recherche du gibier,
+- c les mesures ciblées en faveur de la faune sauvage, telles que la préparation de places d'affouragement ou de nichoirs appropriés, les actions de sauvetage de faons et de prévention des accidents de la circulation,
+- d la prise en charge des animaux sauvages orphelins, malades ou blessés et les soins qui leur sont dispensés,
+- e l'information du public sur les prestations de la chasse en faveur de la protection de la faune sauvage,
+- f les dépenses pour la protection de la faune sauvage reconnues par le service mandaté,
+- g les frais de gestion de la Caisse pour la protection de la faune sauvage.
+
+<sup>2</sup> Peuvent être bénéficiaires de contributions tous les organes responsables de droit privé ou tous les particuliers qui exécutent des mesures de protection de la faune sauvage au sens de l'alinéa 1.
+
+#### Art. 27
+
+**Conditions et charges**
+
+<sup>1</sup> Le service chargé de la gestion de la Caisse pour la protection de la faune sauvage peut lier le versement des contributions à des conditions et charges en rapport avec l'objet de la mesure.
+
+#### Art. 28
+
+**Décompte final**
+
+<sup>1</sup> Par le décompte final annuel, le ou la bénéficiaire rend compte de l'affectation des contributions touchées.
+
+#### Art. 29
+
+**Garantie de l'objectif des contributions**
+
+<sup>1</sup> Les dispositions de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^29-1] sont applicables par analogie pour la garantie de l'objectif des contributions.
+
+[^29-1]: RSB 641.1
+
+### 5.2 Diverses prestations financières et remboursement
+
+#### Art. 30
+
+**Montant du supplément pour les dommages causés par la faune sauvage**
+
+<sup>1</sup> La Direction de l'économie publique fixe chaque année le montant du supplément pour les dommages causés par la faune sauvage.
+
+#### Art. 31
+
+**Emoluments de tir**
+
+<sup>1</sup> Les émoluments de tir sont fixés dans l'annexe 2 à la présente ordonnance.
+
+#### Art. 32
+
+**Remboursement de la valeur du gibier**
+
+<sup>1</sup> La valeur du gibier tiré, tué ou enlevé illicitement sera remboursée au canton selon les tarifs de l'annexe 3.
+
+<sup>2</sup> Lorsque le remboursement est lié à un acte punissable, sa valeur doit être fixée dans le jugement pénal. Lorsque l'animal tué illicitement peut être saisi, le produit de sa vente sera déduit de la somme due.
+
+<sup>3</sup> Lorsque la créance en remboursement n'a aucun lien avec un acte punissable, elle est fixée lors d'une procédure administrative.
+
+#### Art. 33
+
+**Remboursement et réduction**
+
+<sup>1</sup> Les émoluments de patente sont remboursés, sous déduction des frais administratifs, pour autant que la patente concernée ait été restituée à l'Inspection de la chasse avant le début de sa validité.
+
+<sup>2</sup> En cas de ventes insuffisantes de patentes supplémentaires, la Direction de l'économie publique peut réduire de 40 francs au maximum la taxe régalienne par patente supplémentaire.
+
+## 6 Commission de la chasse et de la protection de la faune sauvage (CCPFS)
+
+#### Art. 34
+
+<sup>1</sup> La Direction de l'économie publique nomme pour une durée de quatre ans la CCPFS, composée de représentants et représentantes
+
+- a de la chasse (cinq personnes),
+- b de la protection de la nature et des oiseaux (une personne par domaine),
+- c de l'économie forestière (deux personnes),
+- d de l'agriculture (une personne),
+- e de la protection des animaux (une personne).
+
+<sup>2</sup> Les membres de la CCPFS sont choisis de manière à ce que les intérêts du sport et du tourisme soient aussi représentés.
+
+<sup>2a</sup> La Direction de l’économie publique octroie au Conseil du Jura bernois et au Conseil des affaires francophones du district bilingue de Bienne le droit de proposer en priorité un candidat ou une candidate.
+
+<sup>3</sup> La CCPFS est l'organe d'expertise et de consultation de la Direction de l'économie publique dans les domaines de la chasse, de la planification de la chasse, du gibier, des dommages causés par la faune sauvage et de la protection des animaux. Elle apporte son soutien à l'Office de l'agriculture et de la nature et à l'Inspection de la chasse et les conseille.
+
+<sup>4</sup> Elle se constitue elle-même.
+
+<sup>5</sup> L'Inspection de la chasse assure le secrétariat de la CCPFS.
+
+## 7 Surveillance volontaire de la chasse
+
+#### Art. 35
+
+<sup>1</sup> Pour soutenir les gardes-faune, l'Office de l'agriculture et de la nature nomme au besoin des surveillants ou des surveillantes volontaires de la chasse qualifiés.
+
+<sup>2</sup> Il édicte un règlement de service sur les droits et les obligations des surveillants et des surveillantes volontaires de la chasse et règle leur formation et leur perfectionnement.
+
+## 8 Prescriptions d'exécution
+
+#### Art. 36
+
+<sup>1</sup> La Direction de l'économie publique édictera dans une ordonnance de direction d'autres prescriptions d'exécution, en particulier sur
+
+- a les catégories d'animaux pouvant être chassés,
+- b l'émission d'autorisations de chasser,
+- c l'affût de nuit,
+- d l'utilisation de chiens de chasse,
+- e les armes autorisées, les munitions, les pièges et les appâts,
+- f l'exercice de la chasse en groupe,
+- g la recherche du gibier,
+- h le contrôle des animaux tirés et l'obligation de présenter les pièces,
+- i les animaux inutilisables,
+- k les examens,
+- l les émoluments de tir pour tirs d'assainissement.
+
+## 9 Dispositions transitoires et dispositions finales
+
+#### Art. 37
+
+**Examens de chasse relevant de l'ancien droit**
+
+<sup>1</sup> Les chasseurs et les chasseuses qui possédaient déjà une patente de chasse bernoise avant l'entrée en vigueur des présentes prescriptions sont autorisés à continuer d'exercer la chasse dans le canton de Berne.
+
+#### Art. 38
+
+**Modification d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont modifiés:
+
+- 1\. Ordonnance du 22 novembre 1995 concernant la prévention et l'indemnisation des dommages causés par le gibier (Ordonnance sur les dommages causés par le gibier; ODG)[^38-1]:
+- 2\. Ordonnance du 10 novembre 1993 sur la protection de la nature (OPN)[^38-2] :
+
+[^38-1]: BSG 922.51
+[^38-2]: BSG 426.111
+
+#### Art. 39
+
+**Abrogation d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont abrogés:
+
+- 1\. ordonnance du 25 mars 1992 sur la chasse et sur la protection du gibier et des oiseaux (OCh) (RSB 922.111),
+- 2\. ordonnance du 4 juin 1975 concernant les examens d'aptitude des chasseurs (RSB 922.21),
+- 3\. ordonnance du 14 octobre 1992 sur l'examen complémentaire pour les chasseurs (OECC) (RSB 922.25).
+
+#### Art. 40
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2003.
+
+Berne, le 26 février 2003
+
+Au nom du Conseil-exécutif,
+
+la présidente: Zölch
+
+le chancelier: Nuspliger
+
+Approuvée par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 26 mars 2003
+
+03-29

@@ -1,0 +1,239 @@
+---
+canton: BE
+number: "922.63"
+title: Ordonnance sur la protection de la faune sauvage
+short: OPFS
+language: fr
+version: 2020-08-01
+valid_until: 2023-02-28
+version_adopted: 2020-03-18
+adopted: 2003-02-26
+in_force: 2003-05-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.63"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1862/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la protection de la faune sauvage
+
+(OPFS)
+
+du 26.02.2003 (état au 01.08.2020)
+
+Le Conseil-exécutif du canton de Berne,
+
+vu l'article 21, alinéa 2 et l'article 34 de la loi du 25 mars 2002 sur la chasse et la protection de la faune sauvage (LCh)[^ingress-1],
+
+sur proposition de la Direction de l'économie publique,
+
+arrête:
+
+[^ingress-1]: RSB 922.11
+
+## 1 Protection de la faune sauvage contre les dérangements
+
+### 1.1 Obligation générale et information
+
+#### Art. 1
+
+<sup>1</sup> Toute personne a, lors de travaux, d'activités de loisirs et de manifestations ainsi que lors de la planification, de la construction ou de l'exploitation d'ouvrages et d'installations, l'obligation de prendre en considération les besoins des animaux sauvages concernés et de les protéger dûment contre les dérangements, les blessures et la mort.
+
+<sup>2</sup> L'Inspection de la chasse informe la population sur le mode de vie de la faune sauvage, ses besoins et ses exigences en matière d'environnement ainsi que sur les effets des dérangements.
+
+<sup>3</sup> En tant que service cantonal spécialisé, elle prend position, dans le cadre de procédures d'autorisation et de corapport, sur des projets qui touchent la faune sauvage et conseille les autorités et les particuliers.
+
+### 1.2 Zones de protection de la faune sauvage
+
+#### Art. 2
+
+**Notion et instauration**
+
+<sup>1</sup> Les zones de protection de la faune sauvage sont des biotopes d'importance particulière sur le plan de l'écologie de la faune sauvage et suffisamment grands pour protéger cette dernière contre les dérangements.
+
+<sup>2</sup> Entrent dans la notion des zones de protection de la faune sauvage d'importance correspondante, sous réserve de prescriptions particulières:
+
+- a–b …
+- c les réserves ornithologiques cantonales,
+- d les zones cantonales de protection de la faune sauvage,
+- e les zones de protection de la faune sauvage contre les dérangements instaurées par les communes dans les régions touristiques.
+
+<sup>3</sup> Les zones cantonales de protection de la faune sauvage sont instaurées par la présente ordonnance et sont énumérées à l'annexe 1.
+
+<sup>4</sup> Les milieux concernés et intéressés doivent au préalable être consultés.
+
+<sup>5</sup> La délimitation de zones de protection de la faune sauvage ne porte pas atteinte aux droits découlant de la propriété foncière.
+
+#### Art. 3
+
+**Mesures de protection contre les dérangements**
+
+<sup>1</sup> Les catégories suivantes de mesures de protection de la faune sauvage contre les dérangements peuvent être prises dans les zones cantonales de protection de la faune sauvage:
+
+- a interdiction totale de chasser les animaux sauvages (catégorie A),
+- b interdiction de chasser la sauvagine (catégorie B),
+- c interdiction de chasser certaines espèces ou de chasser lors de certaines périodes (catégorie C),
+- d interdiction de quitter les chemins balisés (catégorie D), sauf pour les personnes habilitées à accéder aux bâtiments et dans le cadre de l'exploitation agricole ou forestière,
+- e obligation de tenir les chiens en laisse (catégorie E), sauf en cas d'intervention de chiens de service, de chiens de protection et de conduite des troupeaux ainsi que de chiens à la recherche de gibier blessé,
+- f limitation des activités dérangeantes, en particulier de celles liées aux loisirs, au sport, au tourisme et au service militaire (catégorie F).
+
+<sup>2</sup> Les mesures de protection de la faune sauvage contre les dérangements dans une zone de protection particulière sont décrites dans l'annexe 2, pour autant qu'elles ne découlent pas du droit fédéral ou d'arrêtés de protection du Conseil-exécutif.
+
+<sup>3</sup> Le canton est seul habilité à édicter des interdictions de chasser.
+
+<sup>4</sup> Les mesures de protection de la faune sauvage contre les dérangements doivent être adaptées lorsqu'elles ne paraissent plus appropriées en raison d'un changement des conditions.
+
+<sup>5</sup> Les dispositifs de protection de la faune sauvage mis en place par les exploitants et exploitantes d'installations à câble et visibles sur le terrain doivent être respectés.
+
+#### Art. 3a
+
+**Mesures préventives**
+
+<sup>1</sup> Si les besoins concernant la protection de la faune sauvage changent du fait d'événements naturels ou de maladies, l'Inspection de la chasse ordonne les mesures préventives nécessaires.
+
+#### Art. 4
+
+**Limites des zones cantonales de protection de la faune sauvage**
+
+<sup>1</sup> Les zones cantonales de protection de la faune sauvage sont délimitées dans l'annexe 2 au moyen de géodonnées numériques et de descriptions.
+
+#### Art. 5
+
+**Tirs dans des zones avec interdiction de chasser, pénétration avec armes**
+
+<sup>1</sup> Les tirs dans des zones caractérisées par une interdiction de chasser ne sont autorisés que s'ils sont nécessaires pour maintenir des populations équilibrées d'animaux sauvages ou pour éviter des dommages insupportables causés par la faune sauvage.
+
+<sup>2</sup> Les gardes-faune et les personnes titulaires d'une autorisation spéciale correspondante sont autorisés à tirer.
+
+<sup>3</sup> Les prescriptions de la Confédération relatives aux aux districts francs s'appliquent par analogie au port d'armes dans des zones de protection de la faune sauvage caractérisées par une interdiction totale de chasser.
+
+#### Art. 6
+
+**Manifestations**
+
+<sup>1</sup> Dans les zones cantonales de protection de la faune sauvage, l'organisation de réunions sportives et d'autres manifestations collectives n'est admise que si celles-ci ne peuvent compromettre le but visé par la protection. Les organisateurs et organisatrices doivent obtenir une autorisation de l'Office de l'agriculture et de la nature.
+
+<sup>2</sup> On considère en général qu'il est porté atteinte au but de protection visé lorsque
+
+- a la manifestation a lieu pendant la période de reproduction et de dépendance (du 1<sup>er</sup> avril au 31 juillet),
+- b du terrain situé à l'écart de chemins et de places déjà fortement utilisés est à son tour sollicité,
+- c une zone qui est déjà dérangée par d'autres activités subit des dérangements supplémentaires.
+
+<sup>3</sup> Les manifestations à but commercial doivent en outre être organisées en un lieu de la zone de protection de la faune sauvage imposé par leur destination.
+
+### 1.3 Dérangement de la faune sauvage par des chiens et des chats
+
+#### Art. 7
+
+**Chiens errants**
+
+<sup>1</sup> Il est interdit de laisser errer des chiens sans surveillance.
+
+<sup>2</sup> Les chiens ne peuvent errer à l'écart des maisons, dans les champs ou la forêt que
+
+- a s'ils peuvent à tout moment être maîtrisés par la personne qui les accompagne ou
+- b s'il s'agit de chiens de chasse appropriés pendant la saison de chasse.
+
+#### Art. 8
+
+**Manifestations cynologiques**
+
+<sup>1</sup> Les examens ou d'autres manifestations cynologiques nécessitent une autorisation de l'Office de l'agriculture et de la nature, lorsque
+
+- a ces activités ont lieu pendant la période de reproduction et de dépendance (du 1<sup>er</sup> avril au 31 juillet),
+- b plus de vingt chiens y participent,
+- c des animaux sauvages vivants sont chassés,
+- d ces activités se déroulent de manière répétée au même endroit,
+- e des zones de protection de la faune sauvage, des réserves naturelles, des biotopes d'importance nationale inventoriés par la Confédération dans des ordonnances ou des réserves forestières sont concernés, ou
+- f des véhicules motorisés doivent emprunter des routes forestières en vue de l'exécution de ces activités.
+
+<sup>2</sup> L'autorisation peut être refusée lorsque des atteintes sont portées à la végétation ou lorsque des animaux sauvages sont considérablement dérangés ou encore lorsque la zone est déjà fortement sollicitée par d'autres manifestations.
+
+<sup>3</sup> Pendant la période de reproduction et de dépendance, des manifestations sont permises sans autorisation si elles ont lieu dans les zones habitées ou le long de routes et de chemins praticables, ou si les chiens sont tenus en laisse.
+
+#### Art. 9
+
+**Tir de chiens et de chats harets**
+
+<sup>1</sup> Les gardes-faune sont autorisés à tirer des chiens
+
+- a trouvés en train de chasser,
+- b trouvés à l'écart des maisons et non accompagnés, bien que le ou la propriétaire ait été averti(e) ou dénoncé(e) à plusieurs reprises.
+
+<sup>2</sup> Le tir de chiens de chasse dont l'utilisation est autorisée n'est permis qu'en dehors de la période de chasse.
+
+<sup>3</sup> Les gardes-faune sont autorisés à tirer des chats harets dans les forêts et à l'écart de maisons habitées.
+
+## 2 Mise en réseau des biotopes
+
+#### Art. 10
+
+**Perméabilité des voies de communication**
+
+<sup>1</sup> Le canton et les communes veillent à la perméabilité suffisante des voies de communication pour les animaux sauvages.
+
+<sup>2</sup> Ils veillent à ce que cette perméabilité soit incluse tôt dans la phase de planification des voies de communication.
+
+#### Art. 11
+
+**Garantie de la fonction des passages à faune**
+
+<sup>1</sup> Au moyen de dispositions communales ou cantonales appropriées, le canton ou les communes veillent à ce que, dans l'aire d'accès à des ouvrages de passage à faune, la fonction de l'ouvrage ne soit pas entravée ultérieurement par des constructions, installations, équipements ou des modes d'exploitation.
+
+<sup>2</sup> Est considéré comme aire d'accès un demi-cercle situé de chaque côté de l'ouvrage, d'un rayon correspondant à au moins quatre fois la largeur du passage à faune et en aucun cas inférieur à 100 mètres.
+
+## 3 Détention d'animaux sauvages
+
+#### Art. 12
+
+<sup>1</sup> S'il s'agit d'animaux sauvages indigènes ou allogènes, le Service vétérinaire cantonal statue, sur proposition de l'Inspection de la chasse, sur les autorisations concernant la déten-tion d'animaux sauvages à des fins privées ou lucratives.
+
+## 4 Procédure d'autorisation
+
+#### Art. 13
+
+<sup>1</sup> Les demandes contenant toutes les informations nécessaires doivent être envoyées à l'Office de l'agriculture et de la nature au plus tard trois mois avant la date d'exécution prévue.
+
+<sup>2</sup> Lorsqu'une manifestation qui concerne la forêt doit aussi être autorisée par le Service forestier, l'Office de l'agriculture et de la nature coordonne les procédures et prend une décision globale.
+
+## 5 Dispositions transitoires et dispositions finales
+
+#### Art. 14
+
+**Disposition transitoire**
+
+<sup>1</sup> L'Office de l'agriculture et de la nature peut désigner des zones de protection de la faune sauvage dans lesquelles des manifestations au sens de l'article 6 peuvent avoir lieu jusqu'à nouvel ordre sans autorisation.
+
+<sup>2</sup> Il y aura lieu de statuer définitivement sur la suppression du régime de l'autorisation, au plus tard lors de la prochaine révision des dispositions de protection d'une zone.
+
+#### Art. 15
+
+**Modification d'un acte législatif**
+
+<sup>1</sup> L'ordonnance cantonale sur les forêts du 29 octobre 1997 (OCFo)[^15-1] est modifiée comme suit:
+
+[^15-1]: RSB 921.111
+
+#### Art. 16
+
+**Abrogation d'un acte législatif**
+
+<sup>1</sup> L'ordonnance du 5 août 1992 sur les refuges de chasse et les réserves (ORCR) (RSB 922.63) est abrogée.
+
+#### Art. 17
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2003.
+
+Berne, le 26 février 2003
+
+Au nom du Conseil-exécutif,
+
+la présidente: Zölch
+
+le chancelier: Nuspliger
+
+Approuvée par le Département fédéral de l'environnement, des transports, de l'énergie et de la communication le 26 mars 2003.
+
+03-30

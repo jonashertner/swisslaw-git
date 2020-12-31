@@ -1,0 +1,158 @@
+---
+canton: BE
+number: "761.612.1"
+title: Ordonnance sur la gestion des places de stationnement du canton
+short: OGPS
+language: fr
+version: 2005-01-01
+version_adopted: 2004-10-20
+adopted: 1995-10-25
+in_force: 1996-01-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/761.612.1"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/375/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la gestion des places de stationnement du canton
+
+(OGPS)
+
+du 25.10.1995 (état au 01.01.2005)
+
+Le Conseil-exécutif du canton de Berne,
+
+vu l'article 39, 4<sup>e</sup> alinéa de la loi du 5 novembre 1992 sur le statut général de la fonction publique (loi sur le personnel, LPers)[^ingress-1], les articles 11, 12 et 36 de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement[^ingress-2](LPE) et l'article 35 de l'ordonnance fédérale du 16 décembre 1985 sur la protection de l'air[^ingress-3] (OPair), sur proposition de la Direction des travaux publics, des transports et de l'énergie, de la Direction de l'économie publique et de la Direction des finances,
+
+arrête:
+
+[^ingress-1]: Abrogée par L du 16.9.2004 sur le personnel (LPers); RSB 153.01
+[^ingress-2]: RS 814.01
+[^ingress-3]: RS 814.318.142.1
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> La présente ordonnance règle la gestion et l'utilisation des places de stationnement de surface, des parkings couverts et des garages destinés aux véhicules automobiles (places de stationnement), pour autant que le canton puisse en disposer.
+
+#### Art. 2
+
+**Absence de droit**
+
+<sup>1</sup> Nul ne peut se prévaloir en principe du droit d'utiliser une place de stationnement.
+
+#### Art. 3
+
+**Taxes 1. Assujettissement**
+
+<sup>1</sup> L'utilisation des places de stationnement est soumise à une taxe.
+
+<sup>2</sup> Le montant des taxes est fixé suivant l'usage local.
+
+#### Art. 4
+
+**2. Exemptions**
+
+<sup>1</sup> Aucune taxe n'est due pour
+
+- a les places de stationnement réservées aux véhicules des services de piquet ou aux véhicules de fonction qui appartiennent au canton,
+- b les places de stationnement des personnes
+  - 1\. qui sont tributaires de l'utilisation d'un véhicule particulier en raison d'un handicap physique;
+  - 2\. qui, en raison d'horaires irréguliers, ne disposent pas d'un moyen de transport public pour leurs déplacements professionnels aux heures déterminantes;
+  - 3\. qui doivent régulièrement et majoritairement utiliser leur véhicule particulier pour les besoins du service et qui disposent à cet effet d'une autorisation à durée indéterminée de l'autorité dont ils relèvent;
+- c les places de stationnement situées dans les zones qui ne sont pas classées dans une catégorie de desserte au sens de l'article 6 de l'ordonnance du 29 juin 1994 sur l'aménagement de places de stationnement dans les secteurs concernés par les plans de mesures de protection de l'air[^4-1];
+- d les places de stationnement réservées aux visiteurs et visiteuses des autorités, lorsqu'il n'y a pas de halte d'un moyen de transport public, desservie à intervalles brefs, située à une distance de moins de 500 m (longueur du chemin) et que les piétons ne peuvent pas y accéder sans danger, ou lorsqu'aucun service régulier de desserte n'est assuré en permanence jusqu'à la halte la plus proche. Sont aussi exemptées de la taxe les places de stationnement réservées aux visiteurs et visiteuses des autorités dans les communes qui n'ont pas instauré de gestion des places de stationnement.
+
+[^4-1]: Abrogée par O du 6.3.1985 sur les constructions; RSB 721.1 (ROB 00–12)
+
+#### Art. 5
+
+**Facturation au sein de l'administration**
+
+<sup>1</sup> Une taxe représentant quatre-vingts pour cent du loyer conforme à l'usage local est facturée aux autorités pour les places de stationnement qui sont mises à leur disposition par l’Office des immeubles et des constructions et qui ne tombent pas sous le coup de l'article 4. Les recettes excédentaires sont portées à leur crédit.
+
+#### Art. 6
+
+**Compétences 1. de l’Office des immeubles et des constructions**
+
+<sup>1</sup> L’Office des immeubles et des constructions, qui gère les places de stationnement, les met à la disposition des autorités pour qu'elles en assurent elles-mêmes la gestion ou louent à des tiers les places de stationnement inutilisées par les autorités.
+
+<sup>2</sup> L’Office des immeubles et des constructions
+
+- a fixe en concertation avec les autorités le montant des taxes d'utilisation des places de stationnement;
+- b conclut, au nom du canton, les contrats de location avec les tiers, et veille à leur exécution;
+- c convient avec les autorités des conditions auxquelles les places de stationnement sont mises à leur disposition;
+- d facture chaque année aux autorités les places de stationnement mises à leur disposition conformément à l'article 5.
+- e établit, dans la limite des moyens disponibles, les marquages et les dispositifs nécessaires à la gestion des places de stationnement;
+- f veille à l’entretien des places de stationnement.
+
+<sup>3</sup> Si les places de stationnement font partie intégrante des routes au sens de la loi du 2 février 1964 sur la construction et l'entretien des routes[^6-1], les compétences prévues au 1<sup>er</sup> et au 2<sup>e</sup> alinéas reviennent par analogie à l'Office cantonal des ponts et chaussées.
+
+[^6-1]: Abrogée par L du 4.6.2008 sur les routes (LR); RSB 732.11
+
+#### Art. 7
+
+**2. des autorités**
+
+<sup>1</sup> Les autorités établissent si nécessaire un schéma de gestion des places de stationnement.
+
+<sup>2</sup> Les autorités gèrent les places de stationnement mises à leur disposition,
+
+- a en délimitant les places de stationnement au sens de l'article 4;
+- b en déterminant les places de stationnement réservées aux visiteurs et en exigeant une taxe conforme à l'usage local;
+- c en louant les autres places de stationnement à leurs membres ou à leur personnel moyennant une taxe conforme à l'usage local;
+- d en délivrant, dans des cas dûment motivés, des autorisations à durée indéterminée au sens de l'article 4, lettre b, chiffre 3.
+
+<sup>3</sup> Elles peuvent déléguer ces compétences aux unités administratives ou aux unités organisationnelles qui leur sont assimilées.
+
+<sup>4</sup> Si une autorité dispose des moyens techniques nécessaires, elle peut accomplir elle-même les tâches prévues par l’article 6, alinéa 2, lettres e et f.
+
+#### Art. 8
+
+**…**
+
+#### Art. 9
+
+**Places de stationnement affectées à des logements de service**
+
+<sup>1</sup> Les places de stationnement qui sont affectées à titre permanent à un logement de service sont régies par les dispositions de l'article 57 ss de l'ordonnance du 12 mai 1993 sur le personnel[^9-1].
+
+[^9-1]: Abrogée par L du 16.9.2004 sur le personnel (LPers); RSB 153.01; actuellement O du 18.5.2005 sur le personnel (OPers); RSB 153.011.1
+
+#### Art. 10
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 1996.
+
+#### Art. 11
+
+**Exécution**
+
+<sup>1</sup> Au plus tard un an après l'entrée en vigueur de la présente ordonnance, les autorités
+
+- a édictent les prescriptions nécessaires à l'exécution de la présente ordonnance et
+- b établissent les schémas de gestion des places de stationnement au sens de l'article 7, 1<sup>er</sup> alinéa,
+
+<sup>2</sup> Si l'autorité apporte la preuve qu'elle n'est pas en mesure, sans qu'il y ait faute de sa part, d'exécuter à temps la présente ordonnance, le délai fixé au 1<sup>er</sup> alinéa peut être prolongé.
+
+#### Art. 12
+
+**Dispositions transitoires**
+
+<sup>1</sup> L'arrêté du Conseil-exécutif n° 3838 du 19 novembre 1981 reste applicable jusqu'à ce que l'autorité ait rempli ses obligations au sens de l'article 11, 1<sup>er</sup> alinéa.
+
+<sup>2</sup> Les autorités peuvent prélever des taxes d'utilisation dès l'entrée en vigueur de la présente ordonnance. Elles y sont tenues à partir du 1<sup>er</sup> janvier 1997.
+
+<sup>3</sup> La facturation interne des places de stationnement au sens de l'article 5 sera établie à partir de l'exercice 1997 au plus tard.
+
+Berne, le 25 octobre 1995
+
+Au nom du Conseil-exécutif,
+
+la présidente: Schaer
+
+le chancelier: Nuspliger
+
+95-104

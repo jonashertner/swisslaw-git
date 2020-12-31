@@ -1,0 +1,135 @@
+---
+canton: BE
+number: 411.232.12-1
+title: "Convention entre les Etats de Berne et de Soleure concernant la situation confessionnelle des paroisses réformées évangéliques du Bucheggberg et des districts de Soleure, Lebern et Kriegstetten du 23 décembre 1958"
+language: fr
+version: 1959-02-18
+version_adopted: 1959-02-18
+adopted: 1959-02-18
+in_force: 1959-02-18
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/411.232.12-1"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1612/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Convention entre les Etats de Berne et de Soleure concernant la situation confessionnelle des paroisses réformées évangéliques du Bucheggberg et des districts de Soleure, Lebern et Kriegstetten du 23 décembre 1958
+
+du 18.02.1959 (état au 18.02.1959)
+
+Considérant que l'union confessionnelle des paroisses d'Oberwil, Messen, Lüsslingen et Aetingen, dans le Bucheggberg, pour autant qu'elles font partie de l'Etat de Soleure, avec l'Eglise évangélique réformée du canton de Berne, a existé de tout temps et promet aussi de produire pour l'avenir les mêmes bons effets que par le passé, notamment en ce qui concerne le maintien et l'affermissement des liens d'amitié,
+
+considérant en outre que depuis l'entrée en vigueur de l'actuelle Constitution fédérale, notamment par la Convention de 1875, la paroisse réformée évangélique de Soleure et les fidèles disséminés des districts du haut du canton de Soleure ont été compris dans ces rapports conventionnels,
+
+voulant mettre les dispositions du concordat en vigueur jusqu'à ce jour en harmonie avec les modifications apportées aux relations par la nouvelle législation des deux cantons,
+
+les délégués des Etats de Berne et de Soleure sont tombés unanimement d'accord, sous réserve de la ratification des autorités compétentes de ces deux cantons, sur les points ci-après,
+
+et ont arrêté ce qui suit:
+
+#### Art. 1
+
+<sup>1</sup> Les paroisses soleuroises désignées au préambule de la présente convention font partie de l'Union synodale de l'Eglise évangélique réformée du canton de Berne en ce qui concerne leurs affaires cultuelles. Elles doivent, en conséquence,
+
+- 1\. se faire représenter par des délégués, de la manière déterminée à l'article 2 ci-après, aux séances du synode ecclésiastique bernois;
+- 2\. se conformer, dans toutes les affaires ecclésiastiques intérieures qui concernent la doctrine chrétienne, le culte et les fonctions pastorales, aux décisions et ordonnances du Synode cantonal bernois et de son Conseil synodal.
+
+#### Art. 2
+
+<sup>1</sup> Il est formé quatre cercles électoraux pour l'élection des délégués au Synode cantonal bernois, savoir:
+
+- 1\. le cercle du Bucheggberg, lequel comprend les paroisses de Messen (bernoise et soleuroise), d'Oberwil (bernoise et soleuroise), d'Aetingen (soleuroise) et de Lüsslingen (soleuroise);
+- 2\. le cercle de Kriegstetten, comprenant les paroisses du district de ce nom;
+- 3\. le cercle de Soleure, lequel comprend la paroisse réformée de Soleure et les communes affiliées du district Lebern;
+- 4\. le cercle de Lebern, dans la mesure où il ne fait pas partie de la paroisse de Soleure.
+
+<sup>2</sup> Les dispositions des lois bernoises sont applicables au nombre des délégués à élire dans chacun de ces cercles électoraux, à la durée de leurs fonctions et au mode de procéder aux élections, y compris la vérification de la validité de celles-ci.
+
+<sup>3</sup> Le droit de vote et l'éligibilité sont réglés pour les citoyens bernois d'après les lois bernoises, pour les citoyens soleurois par les lois soleuroises.
+
+<sup>4</sup> Les délégués des cercles électoraux soleurois siègent et votent au sein du Synode cantonal bernois de la même manière que les délégués bernois.
+
+#### Art. 3
+
+<sup>1</sup> Les paroisses des cercles soleurois mentionnés ci-dessus constituent ensemble le synode de l'arrondissement de Soleure.
+
+#### Art. 4
+
+<sup>1</sup> Les ecclésiastiques éligibles selon le droit bernois peuvent seuls être nommés aux postes de pasteurs, pasteurs auxiliaires et vicaires des paroisses bernoises et soleuroises de Messen et Oberwil. Dans les autres paroisses peuvent également être nommés, à titre exceptionnel, des candidats ayant subi leurs examens au dehors. Avant de postuler un emploi ecclésiastique, ils devront toutefois faire examiner les conditions de leur admission dans le clergé bernois par la commission d'examen de théologie évangélique du canton de Berne et s'y faire admettre dans le délai d'une année dès leur élection.
+
+<sup>2</sup> Le diaconat d'arrondissement de Büren-Soleure est à la disposition des paroisses soleuroises.
+
+#### Art. 5
+
+<sup>1</sup> Les pasteurs, pasteurs auxiliaires et vicaires réformés sont élus conformément à la législation soleuroise.
+
+<sup>2</sup> Les gouvernements des deux Etats contractants ont toutefois le droit de reconnaître ou de confirmer ces élections en conformité des lois cantonales régissant cette matière.
+
+#### Art. 6
+
+<sup>1</sup> La constitution et l'organisation des paroisses des arrondissements soleurois mentionnés ci-dessus ont lieu selon le droit soleurois.
+
+#### Art. 7
+
+<sup>1</sup> Les gouvernements des Etats de Berne et de Soleure statuent quant aux exceptions relatives aux dispositions des articles 5 et 6.
+
+#### Art. 8
+
+<sup>1</sup> L'état actuel des conditions juridiques des biens d'église, jouissances et entretien des cures et de leurs dépendances est garanti par les deux gouvernements contractants, tel qu'il a été établi par les registres terriers, par l'usage, par des conventions antérieures, ainsi que par la Constitution et les actes législatifs émanant des autorités des deux cantons.
+
+<sup>2</sup> Le droit soleurois s'applique à la surveillance à exercer sur les biens d'église et leur utilisation dans les paroisses soleuroises, y compris celle de Messen. En ce qui concerne la paroisse d'Oberwil, cette surveillance s'exerce selon le droit bernois.
+
+#### Art. 9
+
+<sup>1</sup> La garantie dont il est fait mention à l'article 8, 1 er alinéa ci-dessus est, en particulier, renouvelée comme suit, pour autant que les droits en question n'ont pas été rachetés, modifiés ou remplacés:
+
+- 1\. La paroisse d'Oberwil demeure régie par la convention du 13 février 1851[^9-1].
+- 2\. La part de l'Etat de Berne au traitement des pasteurs de Messen et Aetingen, ainsi qu'à l'entretien des bâtiments curiaux, reste la même qu'auparavant. En outre, les deux pasteurs jouissent du produit des fonds paroissiaux soleurois, y compris le libre usage du domaine curial et de droit d'affouage dans la commune selon les clauses du registre terrier.
+- 3\. Le pasteur de Lüsslingen a la jouissance du fonds paroissial conformément au registre terrier et à la convention du 15 septembre 1871.
+- 4\. Le droit de la paroisse de Soleure à la contribution de l'Etat de Berne est garanti.
+
+[^9-1]: RSB 411.232.11
+
+#### Art. 10
+
+<sup>1</sup> Les fonds d'église des paroisses ne peuvent être administrés et utilisés que conformément à leur but et à leur destination.
+
+#### Art. 11
+
+<sup>1</sup> Les deux Etats se réservent le droit d'apporter en commun à la présente convention les modifications que pourraient exiger les circonstances.
+
+#### Art. 12
+
+<sup>1</sup> La présente convention est soumise à l'approbation du Grand Conseil du canton de Berne et du Grand Conseil du canton de Soleure. Elle entrera en vigueur dès cette approbation et sera insérée au Bulletin des lois des deux cantons. Elle abroge la convention du 17 février 1875, ainsi que les compléments et modifications des 29 juillet 1884/20 août 1884 et 28 novembre 1939.
+
+<sup>2</sup> Ainsi arrêté à la conférence des délégués du 23 décembre 1958 à Soleure.
+
+Berne, 18 février 1959
+
+Soleure, 30 juin 1959
+
+Les délégués
+
+de l'Etat de Berne: Moser
+
+de l'Etat de Soleure: Dietschi
+
+Approuvé par le Grand Conseil du canton de Berne
+
+Berne, 18 février 1959
+
+Le président: Schlappach
+
+Le chancelier: Schneider
+
+Approuvé par le Grand Conseil du canton de Soleure
+
+Soleure, 30 juin 1959
+
+Le président: von Arx
+
+Le chancelier: Schmid
+
+Approuvé par le Conseil fédéral le 25 septembre 1959
+
+1959 d 21 | f 20

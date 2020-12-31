@@ -1,0 +1,316 @@
+---
+canton: BE
+number: "213.221"
+title: Verordnung über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen
+short: IBV
+language: de
+version: 2020-11-01
+version_adopted: 2020-09-02
+adopted: 2014-10-29
+in_force: 2015-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/213.221"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1963/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen
+
+(IBV)
+
+vom 29.10.2014 (Stand 01.11.2020)
+
+Der Regierungsrat des Kantons Bern,
+
+gestützt auf Artikel 4 Absatz 1 Buchstabe c und Artikel 14 Absatz 1 des Gesetzes vom 6. Februar 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen[^ingress-1],
+
+auf Antrag der Justiz-, Gemeinde- und Kirchendirektion,
+
+beschliesst:
+
+[^ingress-1]: BSG 213.22
+
+## 1 Inkassohilfe
+
+#### Art. 1
+
+**Unterhaltsanspruch des Kindes**
+
+<sup>1</sup> Das Gesuch um Inkassohilfe für minderjährige Kinder sowie für Volljährige, die sich in Ausbildung befinden, wird schriftlich und begründet bei der zuständigen Gemeindebehörde am Wohnsitz der berechtigten Person eingereicht. Mündlich eingegangene Anträge sind schriftlich festzuhalten und unterzeichnen zu lassen.
+
+<sup>2</sup> Dem Gesuch sind folgende Unterlagen beizulegen:
+
+- a der rechtskräftige Unterhaltstitel (Original oder beglaubigte Kopie, gegebenenfalls mit Vollstreckbarkeitserklärung),
+- b eine Inkasso- und Prozessvollmacht,
+- c eine Aufstellung der rückständigen Unterhaltsbeiträge.
+
+#### Art. 2
+
+**Unterhaltsanspruch der geschiedenen Person bzw. des verheirateten, obhutsberechtigten Elternteils**
+
+<sup>1</sup> Eine geschiedene Person hat dem Gesuch um Inkassohilfe folgende Unterlagen beizulegen:
+
+- a der rechtskräftige Unterhaltstitel (Original oder beglaubigte Kopie, gegebenenfalls mit Vollstreckbarkeitserklärung),
+- b eine Inkasso- und Prozessvollmacht,
+- c eine Aufstellung der rückständigen Unterhaltsbeiträge,
+- d einen Auszug aus dem Steuerregister.
+
+<sup>2</sup> Der verheiratete, obhutsberechtigte Elternteil kann, unter Beilage der in Absatz 1 genannten Unterlagen, gleichzeitig mit der Einreichung eines Gesuchs um Inkassohilfe für Unterhaltsansprüche seines Kindes ein Gesuch um Inkassohilfe für ihm persönlich zustehende Unterhaltsansprüche stellen. Die Inkassohilfe kann in diesem Fall gewährt werden, wenn sich die Vollstreckung gegen den gleichen Schuldner richtet.
+
+#### Art. 3
+
+**Übertragung der Inkassohilfe**
+
+<sup>1</sup> Die Übertragung der Inkassohilfe durch den Gemeinderat an einen regionalen Sozialdienst, eine andere geeignete Behörde oder eine gemeinnützige Stelle bedarf eines begründeten Beschlusses. Sie bedarf der Genehmigung des Kantonalen Jugendamtes (KJA).
+
+<sup>2</sup> Die Übertragung darf nur erfolgen, wenn die ordnungsgemässe Erfüllung der anfallenden administrativen Arbeiten sichergestellt ist. Die Inkassohilfe durch die beauftragte Stelle muss unter Vorbehalt von Artikel 1a Absatz 4 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen unentgeltlich und in der Region des Wohnsitzes der Gesuchstellerin oder des Gesuchstellers gewährt werden.
+
+## 2 Bevorschussung von Unterhaltsbeiträgen
+
+#### Art. 4
+
+**Grundsatz**
+
+<sup>1</sup> Das schriftliche Gesuch um Bevorschussung von Unterhaltsbeiträgen für Kinder (Alimentenbevorschussung) ist zu begründen und mit folgenden Unterlagen einzureichen:
+
+- a Rechtskräftiger Unterhaltstitel (Original oder beglaubigte Kopie, gegebenenfalls mit Vollstreckbarkeitserklärung),
+- b Rückstandsberechnung,
+- c Abtretungserklärung,
+- d Zustimmung zur Verrechnung im Sinne von Artikel 11 Absatz 2 Satz 1 des Gesetzes,
+- e letzte vollständige und rechtskräftige Steuerveranlagung,
+- f im Falle eines hohen Vermögensverzehrs nach Artikel 11 aktuelle Bankauszüge und Vermögensbelege,
+- g im Falle einer Veränderung des Einkommens nach Artikel 14 Lohnabrechnungen und Einkommensbelege der letzten sechs Monate.
+
+#### Art. 5
+
+**Übertragung der Bevorschussung**
+
+<sup>1</sup> Für die Übertragung der Alimentenbevorschussung an einen regionalen Sozialdienst, eine andere geeignete Behörde oder eine gemeinnützige Stelle gelten die in Artikel 3 genannten Voraussetzungen und Formerfordernisse.
+
+<sup>2</sup> Bei einer Übertragung behält die Gemeinde die Verantwortung für die Alimentenbevorschussung. Sie hat ein Recht auf Einsichtnahme in die Rechnungsführung der beauftragten Stelle sowie ein umfassendes Akteneinsichtsrecht.
+
+<sup>3</sup> Die beauftragte Stelle ist zur Abfassung eines Jahresberichts sowie zur ordnungsgemässen Aktenaufbewahrung verpflichtet.
+
+#### Art. 6
+
+**Verfahren**
+
+<sup>1</sup> Die zuständige Gemeindebehörde prüft das Gesuch und hat, soweit erforderlich, weitere Untersuchungen anzustellen. Sie ist an den Antrag der abklärenden Stelle nicht gebunden.
+
+<sup>2</sup> Die zuständige Gemeindebehörde ist befugt, bei der kommunalen Steuerbehörde einen Auszug aus dem Steuerregister zu verlangen. Die Einwohnerkontrolle und die Fremdenkontrolle sind verpflichtet, die notwendigen Auskünfte über die Familienverhältnisse der Gesuchstellerin oder des Gesuchstellers zu erteilen.
+
+<sup>3</sup> Die Anhörung der oder des Unterhaltspflichtigen richtet sich nach Artikel 7 Absatz 2 Satz 1 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen. Sie oder er ist darauf aufmerksam zu machen, dass der Unterhaltsanspruch auf das Gemeinwesen übergeht (Art. 289 Abs. 2 des Schweizerischen Zivilgesetzbuches [ZGB][^6-1]).
+
+<sup>4</sup> Die Auszahlung der Vorschüsse erfolgt nach Erlass der Verfügung rückwirkend auf den Eingang des Gesuchs.
+
+[^6-1]: SR 210
+
+#### Art. 7
+
+**Zweistufige Anspruchsprüfung**
+
+<sup>1</sup> Die zuständige Gemeindebehörde prüft in einem zweistufigen Verfahren zuerst die Vermögens- und anschliessend die Einkommensverhältnisse.
+
+<sup>2</sup> Überschreitet das Vermögen die Grenze nach Artikel 9 bzw. 10, besteht kein Anspruch auf Bevorschussung und die Prüfung des Einkommens entfällt
+
+#### Art. 8
+
+**Haushaltsgrösse**
+
+<sup>1</sup> Die Vermögens- und Einkommensgrenzen werden in Abhängigkeit von der Grösse des Haushalts der Gesuchstellerin oder des Gesuchstellers festgelegt.
+
+<sup>2</sup> Zum Haushalt zählen das gesuchstellende Kind, dessen Elternteil, die Ehegattin bzw. der Ehegatte sowie weitere minderjährige und volljährige Kinder.
+
+#### Art. 9
+
+**Vermögensgrenze minderjährige Kinder**
+
+<sup>1</sup> Kein Anspruch auf Bevorschussung besteht, wenn das Vermögen eines Zwei-Personen-Haushalts den Betrag von 30\`000 Franken übersteigt. Für jede weitere Person im gleichen Haushalt im Sinne von Artikel 8 Absatz 2 erhöht sich die Vermögensgrenze um 10\`000 Franken.
+
+<sup>2</sup> Zum Vermögen des Elternteils wird dasjenige der neuen Ehegattin bzw. des neuen Ehegatten hinzugerechnet.
+
+<sup>3</sup> Massgebend ist das steuerbare Vermögen gemäss der letzten rechtskräftigen Steuerveranlagung.
+
+<sup>4</sup> Besteht aufgrund der Vermögensgrenze kein Anspruch auf Bevorschussung, entfällt die Prüfung des Einkommens nach den Artikeln 12 und 13.
+
+#### Art. 10
+
+**Vermögensgrenze volljährige Kinder**
+
+<sup>1</sup> Volljährige Kinder, die im Haushalt eines Elternteils leben, haben keinen Anspruch auf Bevorschussung, wenn das steuerbare Vermögen des Zwei-Personen-Haushalts den Betrag von 30\`000 Franken übersteigt. Für jede weitere Person im gleichen Haushalt im Sinne von Artikel 8 Absatz 2 erhöht sich die Vermögensgrenze um 10\`000 Franken.
+
+<sup>2</sup> Zum steuerbaren Vermögen des Kindes und des Elternteils wird dasjenige der neuen Ehegattin bzw. des neuen Ehegatten des Elternteils hinzugerechnet.
+
+<sup>3</sup> Bei nicht mehr im Haushalt eines Elternteils wohnenden volljährigen Kindern ist nur deren Vermögen massgebend. Die Vermögensgrenze beträgt in diesem Fall 20\`000 Franken.
+
+<sup>4</sup> Massgebend ist das steuerbare Vermögen gemäss der letzten rechtskräftigen Steuerveranlagung.
+
+#### Art. 11
+
+**Hoher Vermögensverzehr**
+
+<sup>1</sup> Liegt das Vermögen gemäss der letzten rechtskräftigen Steuerveranlagung über dem Grenzbetrag gemäss Artikel 9 bzw. 10 und kann die Gesuchstellerin oder der Gesuchsteller belegen, dass sich das Vermögen seither um mindestens 20 Prozent reduziert hat, wird der Anspruch auf Bevorschussung weiter geprüft.
+
+<sup>2</sup> Kein Anspruch besteht und die Prüfung des Einkommens nach den Artikeln 12 und 13 entfällt, sofern das aktuelle Vermögen zum Zeitpunkt der Gesuchseinreichung über dem Grenzbetrag gemäss Artikel 9 bzw. 10 liegt.
+
+<sup>3</sup> Zur Ermittlung des aktuellen Vermögens wird die Differenz zwischen dem effektiven Vermögen zum Zeitpunkt des Gesuchs und dem Reinvermögen gemäss der letzten Steuerveranlagung berechnet. Dieser Betrag wird vom letzten steuerbaren Vermögen abgezogen.
+
+#### Art. 12
+
+**Einkommensgrenze minderjährige Kinder**
+
+<sup>1</sup> Kein Anspruch auf Bevorschussung besteht, wenn das monatliche steuerbare Einkommen des Elternteils, in dessen Haushalt das Kind lebt, das Dreifache des Grundbedarfs für den Lebensunterhalt gemäss Artikel 8 Absatz 2 Buchstaben a bis f der Verordnung vom 24. Oktober 2001 über die öffentliche Sozialhilfe (Sozialhilfeverordnung, SHV)[^12-1] übersteigt.
+
+<sup>2</sup> …
+
+<sup>3</sup> Für die Berechnung des steuerbaren Einkommens wird dasjenige der neuen Ehegattin bzw. des neuen Ehegatten des Elternteils, in dessen Haushalt das Kind wohnt, hinzugezählt.
+
+<sup>4</sup> Massgebend für die Haushaltsgrösse ist Artikel 8.
+
+<sup>5</sup> Massgebend ist das steuerbare Einkommen gemäss der letzten rechtskräftigen Steuerveranlagung.
+
+[^12-1]: BSG 860.111
+
+#### Art. 13
+
+**Einkommensgrenze volljährige Kinder**
+
+<sup>1</sup> Volljährige Kinder haben keinen Anspruch auf Bevorschussung, wenn deren monatliches steuerbares Einkommen das Dreifache des Grundbedarfs für den Lebensunterhalt im Sinne von Artikel 12 Absatz 1 übersteigt.
+
+<sup>2</sup> Zum Einkommen des Kindes wird dasjenige des Elternteils, in dessen Haushalt es lebt, hinzugezählt. Das Gleiche gilt für das Einkommen der neuen Ehegattin bzw. des neuen Ehegatten des Elternteils.
+
+<sup>3</sup> Massgebend für die Haushaltsgrösse ist Artikel 8.
+
+<sup>4</sup> Bei nicht mehr im Haushalt eines Elternteils wohnenden volljährigen Kindern ist nur deren Einkommen massgebend.
+
+<sup>5</sup> Im Übrigen findet Artikel 12 Absatz 5 Anwendung.
+
+#### Art. 14
+
+**Einkommenseinbusse**
+
+<sup>1</sup> Liegt das steuerbare Einkommen gemäss der letzten rechtskräftigen Steuerveranlagung über dem Grenzbetrag gemäss den Artikeln 12 bzw. 13, hat die gesuchstellende Person Anspruch auf Bevorschussung, sofern das aktuelle Einkommen zum Zeitpunkt der Gesuchseinreichung den Grenzbetrag nicht überschreitet.
+
+<sup>2</sup> Der Anspruch wird nur geprüft, wenn die Gesuchstellerin oder der Gesuchsteller belegt, dass das aktuelle Einkommen mindestens 20 Prozent tiefer ist als das Einkommen gemäss der letzten rechtskräftigen Steuerveranlagung.
+
+<sup>3</sup> Zur Ermittlung des aktuellen Einkommens nach Absatz 1 wird die prozentuale Differenz zwischen dem Nettoeinkommen aus der letzten rechtskräftigen Steuerveranlagung und dem durchschnittlich erzielten und auf ein Jahr hochgerechneten Nettoeinkommen der letzten sechs Monate berechnet. Das steuerbare Einkommen gemäss der letzten rechtskräftigen Steuerveranlagung wird um diesen Prozentsatz reduziert.
+
+#### Art. 15
+
+**Verhältnis zur Inkassohilfe**
+
+<sup>1</sup> Ergibt die Prüfung des Gesuchs, dass aufgrund der Vermögens- und Einkommensverhältnisse kein Vorschuss ausgerichtet werden kann, ist die Gesuchstellerin oder der Gesuchsteller auf die Möglichkeit der Inkassohilfe hinzuweisen.
+
+#### Art. 16
+
+**Verhältnis zur Sozialhilfe**
+
+<sup>1</sup> Erfüllt das berechtigte Kind oder der berechtigte Elternteil zum Zeitpunkt der Prüfung des Gesuchs die Voraussetzungen für den Anspruch auf Sozialhilfe, so wird eine Bevorschussung ausgerichtet, sofern damit eine ergänzende oder vollständige Unterstützung durch die Sozialhilfe verhindert werden kann.
+
+<sup>2</sup> Der zuständige Sozialdienst hat zuhanden der zuständigen Gemeindebehörde den Anspruch auf wirtschaftliche Hilfe zu bestätigen.
+
+#### Art. 17
+
+**Zeitliche Geltung der Verfügung**
+
+<sup>1</sup> Die Verfügung, in der eine Bevorschussung gewährt wird, gilt für längstens zwölf Monate. Die zuständige Gemeindebehörde weist die berechtigte Person drei Monate vor Ablauf der Bevorschussung auf die Möglichkeit eines neuen Gesuchs hin.
+
+<sup>2</sup> Die zuständige Gemeindebehörde überprüft auf Gesuch hin, ob der Anspruch weiter besteht, und erlässt eine neue Verfügung. Die Gesuchstellerin oder der Gesuchsteller hat die Unterlagen gemäss Artikel 4 Buchstaben e bis g einzureichen.
+
+<sup>3</sup> Die Bevorschussung wird während des Jahres eingestellt oder angepasst, wenn dafür ein zivilrechtlicher Grund oder eine der anderen Voraussetzungen von Artikel 4 Absätze 1 und 2 des Gesetzes über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen vorliegt. Die Gesuchstellerin oder der Gesuchsteller ist verpflichtet, Änderungen mitzuteilen.
+
+#### Art. 18
+
+**Vertraglich festgelegte Unterhaltsbeiträge**
+
+<sup>1</sup> Vertraglich festgelegte Unterhaltsbeiträge für ein minderjähriges Kind werden nur dann zur Grundlage der Bevorschussung genommen, wenn die in Artikel 287 Absatz 1 ZGB vorgesehene Genehmigung durch die Kindes- und Erwachsenenschutzbehörde vorliegt.
+
+<sup>2</sup> Unterhaltsverträge zwischen volljährigen Kindern und ihren Eltern können nur dann als Grundlage für die Alimentenbevorschussung dienen, wenn sie nicht in rechtsmissbräuchlicher Absicht abgeschlossen wurden.
+
+<sup>3</sup> Unterhaltsverpflichtungen in Vereinbarungen betreffend die Aufhebung des gemeinsamen Haushaltes müssen für die Gewährung einer Bevorschussung gerichtlich genehmigt sein.
+
+#### Art. 19
+
+**Höhe der Bevorschussung**
+
+<sup>1</sup> Die gerichtlich oder vertraglich festgelegten Unterhaltsbeiträge werden höchstens bis zum Betrag der maximalen einfachen Waisenrente gemäss Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^19-1] bevorschusst.
+
+<sup>2</sup> Der Anspruch auf Bevorschussung entfällt in dem Umfang, als das Einkommen der berechtigten Person zusammen mit dem Vorschuss den Grenzbetrag gemäss Artikel 12 Absatz 1 bzw. Artikel 13 Absatz 1 überschreitet. In diesem Fall ist nur soviel zu bevorschussen, bis die berechtigte Person damit ein Einkommen in der Höhe des Grenzbetrages erreicht (Teilbevorschussung).
+
+<sup>3</sup> Erhält ein Elternteil Vorschüsse für mehrere Kinder, werden diese zur Berechnung der Teilbevorschussung gemäss Absatz 2 zusammengezählt.
+
+[^19-1]: SR 831.10
+
+#### Art. 20
+
+**Familienzulagen**
+
+<sup>1</sup> Familienzulagen werden nicht bevorschusst.
+
+#### Art. 21
+
+**Inkasso**
+
+<sup>1</sup> Die zuständige Gemeindebehörde fordert die ausgerichteten Vorschüsse von der oder dem Unterhaltspflichtigen ein.
+
+<sup>2</sup> Die nach Artikel 3 Absatz 1 bzw. Artikel 5 Absatz 1 zuständige Stelle belangt die Unterhaltspflichtige oder den Unterhaltspflichtigen auf den Totalbetrag des Unterhaltsbeitrags und überweist die bei ihr eingegangenen Zahlungen der Gemeinde zur Anrechnung an die im entsprechenden Zeitraum geleisteten Vorschüsse. Die Inkassokosten sind vorher abzuziehen. Ein allfälliger Überschuss ist der oder dem Unterhaltsberechtigten abzuliefern.
+
+#### Art. 22
+
+**Lastenverteilung**
+
+<sup>1</sup> Die Abrechnung der Gemeinden über ihre Aufwendungen auf dem Gebiet der Inkassohilfe und Alimentenbevorschussung mit der Gesundheits-, Sozial- und Integrationsdirektion für die Erstellung der Lastenverteilungsrechnung erfolgt nach deren Weisungen.
+
+## 3 Beratung und Verfahren
+
+#### Art. 23
+
+**Kantonales Jugendamt**
+
+<sup>1</sup> Das kantonale Jugendamt berät die Gemeinden, regionalen Sozialdienste und gemeinnützigen Stellen auf dem Gebiet der Inkassohilfe und der Alimentenbevorschussung. Es kann Weisungen erlassen.
+
+#### Art. 24
+
+**VRPG**
+
+<sup>1</sup> Soweit das Gesetz über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen und diese Verordnung keine abweichenden Bestimmungen enthalten, ist das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^24-1] anwendbar.
+
+[^24-1]: BSG 155.21
+
+## 4 Übergangs- und Schlussbestimmungen
+
+#### Art. 25
+
+**Übergangsrecht**
+
+<sup>1</sup> Verfügungen über Bevorschussungen, die vor Inkrafttreten dieser Verordnung erlassen wurden, gelten bis zum 30. Juni 2016.
+
+<sup>2</sup> Gesuche um Bevorschussung, die bei Inkrafttreten dieser Verordnung bei der zuständigen Gemeindebehörde hängig waren, werden nach bisherigem Recht beurteilt. Die Verfügung gilt bis zum 30. Juni 2016.
+
+<sup>3</sup> Sämtliche Verfügungen über Bevorschussungen gemäss den Absätzen 1 und 2, die am 30. Juni 2016 gültig sind, werden per 1. Juli 2016 neu verfügt. Die zuständige Gemeindebehörde teilt dies den Berechtigten im letzten Quartal des Jahres 2015 mit und fordert diese auf, bis am 31. März 2016 die Unterlagen nach Artikel 4 einzureichen.
+
+<sup>4</sup> Gesuche um Bevorschussung, die zwischen dem Inkrafttreten dieser Verordnung und dem 30. Juni 2016 bei der zuständigen Gemeindebehörde gestellt werden, werden nach bisherigem Recht beurteilt. Die Verfügung gilt bis zum 30. Juni 2016 und wird per 1. Juli 2016 erneuert. Mit dem Gesuch sind die Unterlagen nach Artikel 4 Buchstaben e bis g einzureichen, falls eine Erneuerung der Bevorschussung per 1. Juli 2016 beantragt wird.
+
+<sup>5</sup> Gesuche um Bevorschussung, die nach dem 1. Juli 2016 bei der zuständigen Gemeindebehörde gestellt werden, werden nach neuem Recht beurteilt.
+
+#### Art. 26
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 10. September 1980 über Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen für Kinder (BSG 213.221) wird aufgehoben.
+
+#### Art. 27
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2015 in Kraft.
+
+Bern, 29. Oktober 2014
+
+m Namen des Regierungsrates
+
+Die Präsidentin: Egger-Jenzer
+
+Der Staatsschreiber: Auer
+
+14-102

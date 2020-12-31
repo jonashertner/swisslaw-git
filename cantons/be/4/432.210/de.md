@@ -1,0 +1,1376 @@
+---
+canton: BE
+number: "432.210"
+title: Volksschulgesetz
+short: VSG
+language: de
+version: 2020-07-01
+valid_until: 2021-06-30
+version_adopted: 2019-12-09
+adopted: 1992-03-19
+in_force: 1993-08-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.210"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1889/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Volksschulgesetz
+
+(VSG)
+
+vom 19.03.1992 (Stand 01.07.2020)
+
+Der Grosse Rat des Kantons Bern,
+
+gestützt auf Artikel 87 der Staatsverfassung[^ingress-1],
+
+auf Antrag des Regierungsrates,
+
+beschliesst:
+
+[^ingress-1]: Aufgehoben durch Verfassung des Kantons Bern vom 6.6.1993; BSG 101.1
+
+## 1 Geltungsbereich
+
+#### Art. 1
+
+<sup>1</sup> Dieses Gesetz gilt für die Volksschule, umfassend den Kindergarten, die Primarstufe und die Sekundarstufe I.
+
+<sup>2</sup> Für das erste Jahr des gymnasialen Bildungsgangs, das an kantonalen Gymnasien angeboten wird, gilt dieses Gesetz nur, sofern es selber und seine Ausführungserlasse oder die Mittelschulgesetzgebung dies ausdrücklich vorsehen.
+
+## 2 Die Volksschule
+
+#### Art. 2
+
+**Aufgaben der Volksschule 1 im Allgemeinen**
+
+<sup>1</sup> Die Volksschule unterstützt die Familie in der Erziehung der Kinder.
+
+<sup>2</sup> Sie trägt, ausgehend von der christlich-abendländischen und demokratischen Überlieferung, zur harmonischen Entwicklung der Fähigkeiten der jungen Menschen bei.
+
+<sup>3</sup> Sie fördert das physische, psychische und soziale Wohlbefinden der Schülerinnen und Schüler und schützt ihre seelisch-geistige und körperliche Integrität. Sie sorgt für ein Klima von Achtung und Vertrauen.
+
+<sup>4</sup> Sie weckt in ihnen den Willen zur Toleranz und zu verantwortungsbewusstem Handeln gegenüber Mitmenschen und Umwelt sowie das Verständnis für andere Sprachen und Kulturen.
+
+<sup>5</sup> Die Volksschule vermittelt jene Kenntnisse und Fertigkeiten, welche die Grundlage für die berufliche Ausbildung, für den Besuch weiterführender Schulen und für das lebenslange Lernen darstellen.
+
+#### Art. 2a
+
+**2 des Kindergartens**
+
+<sup>1</sup> Der Kindergarten hat zum Ziel, das Kind in seiner Entwicklung zu fördern, es in eine erweiterte Gemeinschaft einzuführen und ihm damit den Übertritt in die Primarstufe zu erleichtern.
+
+#### Art. 3
+
+**Gliederung, Begriffe**
+
+<sup>1</sup> Die Volksschule dauert in der Regel elf Jahre.
+
+<sup>2</sup> Der Kindergarten dauert zwei Jahre, die Primarstufe sechs Jahre und die Sekundarstufe I drei Jahre.
+
+<sup>3</sup> Die Sekundarstufe I gliedert sich in die Realschule und die Sekundarschule bzw. in Real- und Sekundarklassen oder in deren Verbindungen.
+
+<sup>4</sup> Sekundarklassen können organisatorisch einem Gymnasium angegliedert sein.
+
+<sup>5</sup> Der Kindergarten und die Primarstufe entsprechen der Primarstufe im Sinne von Artikel 6 der Interkantonalen Vereinbarung vom 27. September 2009 über die Harmonisierung der Volksschule (HarmoS-Konkordat)[^3-1] und von Artikel 5 der Westschweizer Schulvereinbarung vom 8. September 2008[^3-2].
+
+[^3-1]: BSG 439.60
+[^3-2]: BSG 439.61
+
+#### Art. 4
+
+**Freiheits- und Elternrechte**
+
+<sup>1</sup> Die öffentliche Volksschule ist konfessionell neutral. Sie darf die Glaubens- und Gewissensfreiheit sowie die im Zivilgesetzbuch[^4-1] geordneten Elternrechte nicht beeinträchtigen.
+
+[^4-1]: SR 210
+
+#### Art. 5
+
+**Träger**
+
+<sup>1</sup> Das Volksschulwesen ist eine gemeinsame Aufgabe der Einwohner- und der gemischten Gemeinden sowie des Kantons. Die Gemeinden sorgen dafür, dass jedes Kind die Volksschule besuchen kann.
+
+<sup>2</sup> Die Einwohnergemeinden und gemischten Gemeinden können diese Aufgabe an Unterabteilungen übertragen, sich zu ihrer Erfüllung mit andern Gemeinden vertraglich verbinden oder sich zu Gemeindeverbänden zusammenschliessen.
+
+<sup>3</sup> Die Träger der Volksschule werden im weiteren als Gemeinden bezeichnet.
+
+#### Art. 6–6a
+
+**…**
+
+#### Art. 7
+
+**Schulungsort**
+
+<sup>1</sup> Jedes Kind besucht die öffentliche Volksschule an seinem Aufenthaltsort. Die Gemeinden können unter sich abweichende Vereinbarungen treffen.
+
+<sup>2</sup> Aus wichtigen Gründen, insbesondere wenn der Schulweg dadurch wesentlich erleichtert wird, können Kinder die Schule eines andern Kreises oder einer andern Gemeinde besuchen.
+
+<sup>3</sup> Sind Trägergemeinden von Sekundarschulen nicht bereit, Schülerinnen und Schüler aus anderen Gemeinden, die keinen Sekundarschulunterricht führen, aufzunehmen, verfügt die zuständige Stelle der Bildungs- und Kulturdirektion auf Gesuch hin über die Zuweisung oder über die Einführung eines entsprechenden Unterrichtsangebotes.
+
+<sup>4</sup> Die Trägergemeinden von französischsprachigen Volksschulen regeln die Organisation des ersten Jahrs des gymnasialen Bildungsgangs. Bietet eine Gemeinde dieses erste Jahr des gymnasialen Bildungsgangs nicht an, regelt sie dessen Besuch in einer anderen kommunalen Volksschule oder, in besonderen Fällen, in einem kantonalen Gymnasium durch Vertrag.
+
+<sup>5–6</sup> …
+
+#### Art. 7a
+
+**Spezifischstrukturierte Ausbildungsgänge für Hochbegabte**
+
+<sup>1</sup> In einen spezifischstrukturierten Ausbildungsgang für Hochbegabte nach den Bestimmungen der Interkantonalen Vereinbarung vom 20. Februar 2003 für Schulen mit spezifischstrukturierten Angeboten für Hochbegabte[^7a-1] kann nur aufgenommen werden, wer über eine Kostengutsprache derjenigen bernischen Gemeinde verfügt, in der sie oder er den zivilrechtlichen Wohnsitz hat.
+
+<sup>2</sup> Die Wohnsitzgemeinde leistet eine Kostengutsprache, wenn der spezifischstrukturierte Ausbildungsgang die Vereinbarkeit von schulischer Ausbildung und Hochbegabungsförderung besser erlaubt als die ordentliche öffentliche Schule am Aufenthaltsort und wenn die Schülerin oder der Schüler eine qualifizierte Bestätigung ihrer oder seiner Hochbegabung vorweist.
+
+<sup>3</sup> …
+
+[^7a-1]: BSG 439.38
+
+#### Art. 8
+
+**Kindergarten- oder Schuljahr, Kindergarten- oder Schulzeit und Ferien**
+
+<sup>1</sup> Das Kindergarten- oder Schuljahr beginnt administrativ am 1. August.
+
+<sup>2</sup> Die Kindergarten- oder Schulzeit beträgt 38 bis 39 Wochen pro Jahr.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion legt unter Berücksichtigung der regionalen Unterschiede die Ferienzeiten fest.
+
+<sup>4</sup> Im Übrigen ist die Schulkommission im Rahmen der Bestimmungen dieses Gesetzes, der Lehrpläne und der Ferienfestlegung in der Verteilung der Kindergarten- oder Schulzeit und der Ferienzeit frei.
+
+#### Art. 8a
+
+**…**
+
+#### Art. 9
+
+**Unterrichtsformen und -anforderungen**
+
+<sup>1</sup> Im Kindergarten werden spielerische Tätigkeiten und systematisches Lernen miteinander verknüpft. Unterschiedliche Lernvoraussetzungen und Fähigkeiten sowie das Lerntempo werden berücksichtigt.
+
+<sup>2</sup> An der Primarstufe und der Sekundarstufe I werden obligatorische und fakultative Fächer unterrichtet. Der Unterricht umfasst auch fächerübergreifende Inhalte und Unterrichtsformen.
+
+<sup>3</sup> Die Unterrichtsinhalte sind im Hinblick auf die Übertritte von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Mittelschulen und die Berufsbildung zwischen den beteiligten Schulstufen abzustimmen.
+
+<sup>4</sup> Mit geeigneten Lernformen ist anzustreben, dass Schülerinnen und Schüler die Fähigkeit zu selbständigem Arbeiten und Lernen sowie zur Zusammenarbeit erwerben.
+
+#### Art. 9a
+
+**Unterrichtssprache**
+
+<sup>1</sup> Unterrichtssprache ist
+
+- a Französisch in den Gemeinden des französischsprachigen Kantonsteils und in der kantonalen Schule französischer Sprache,
+- b Französisch oder Deutsch in den Gemeinden Biel-Bienne und Leubringen,
+- c Deutsch in den übrigen Gemeinden.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion kann Ausnahmen aus historischen Gründen bewilligen.
+
+<sup>3</sup> Die Schulkommissionen können die andere Landessprache als Unterrichtssprache in einzelnen Fächern zulassen, wenn die Lehrkräfte über die notwendigen Qualifikationen verfügen.
+
+<sup>4</sup> Die Bildungs- und Kulturdirektion legt die Rahmenbedingungen für den Unterricht in der anderen Landessprache im Lehrplan fest.
+
+#### Art. 10
+
+**Obligatorischer und fakultativer Unterricht**
+
+<sup>1</sup> Der obligatorische Unterricht an der Primarstufe und der Sekundarstufe I umfasst Inhalte aus den folgenden Bereichen:
+
+- a Sprachen: eine umfassende Grundbildung in der lokalen Standardsprache (mündliche und schriftliche Sprachbeherrschung) und grundlegende Kompetenzen in einer zweiten Landessprache und mindestens einer weiteren Fremdsprache;
+- b Mathematik und Naturwissenschaften: eine Grundbildung, welche zur Anwendung von grundlegenden mathematischen Konzepten und Verfahren sowie zu Einsichten in naturwissenschaftliche und technische Zusammenhänge befähigt;
+- c Sozial- und Geisteswissenschaften: eine Grundbildung, welche dazu befähigt, die grundlegenden Zusammenhänge des sozialen und politischen Umfeldes sowie von Mensch und Umwelt zu kennen und zu verstehen;
+- d Musik, Kunst und Gestaltung: eine auch praktische Grundbildung in verschiedenen künstlerischen und gestalterischen Bereichen, ausgerichtet auf die Förderung von Kreativität, manuellem Geschick und ästhetischem Sinn sowie auf die Vermittlung von Kenntnissen in Kunst und Kultur;
+- e Bewegung und Gesundheit: eine Bewegungs- und Gesundheitserziehung, ausgerichtet auf die Entwicklung von motorischen Fähigkeiten und körperlicher Leistungsfähigkeit sowie auf die Förderung des physischen und psychischen Wohlbefindens.
+
+<sup>2–3</sup> …
+
+<sup>4</sup> Der fakultative Unterricht dient der Festigung, Vertiefung und Erweiterung der Kompetenzen, die im obligatorischen Unterricht erworben werden.
+
+<sup>5</sup> …
+
+#### Art. 11
+
+**Niveau- und Förderunterricht**
+
+<sup>1</sup> Auf Antrag der Gemeinden können an der Sekundarstufe I folgende Unterrichtsformen in einzelnen Fächern eingeführt werden:
+
+- a Niveauunterricht mit unterschiedlichen Anforderungen je nach Begabung und Leistungsfähigkeit der Schülerinnen und Schüler.
+- b Förderunterricht für Schülerinnen und Schüler, die fähig sind, in einen höhern Leistungskurs oder von der Realschule in die Sekundarschule bzw. von einer Realklasse in eine Sekundarklasse überzutreten.
+
+#### Art. 11a
+
+**Blockzeiten**
+
+<sup>1</sup> Der Unterricht findet von Montag bis Freitag statt.
+
+<sup>2</sup> Der Unterricht findet soweit als möglich in Blockzeiten statt.
+
+<sup>3</sup> Die Blockzeiten umfassen mindestens vier Lektionen an den Vormittagen.
+
+<sup>4</sup> Innerhalb einer Gemeinde gelten die gleichen Blockzeiten.
+
+<sup>5</sup> Die Schulkommission kann Abweichungen von den Blockzeiten in folgenden Fällen zulassen:
+
+- a für lokale Feiertage oder zur Verlängerung von Feiertagswochenenden,
+- b für besondere Anlässe wie Weiterbildung des Lehrerkollegiums,
+- c wenn die Schülertransporte es erfordern,
+- d auf der Sekundarstufe I.
+
+#### Art. 12
+
+**Lehrpläne für die deutschsprachigen Volksschulen**
+
+<sup>1</sup> Der Regierungsrat umschreibt in den Lehrplänen für die deutschsprachigen Volksschulen die Fächer sowie die Ziele und Inhalte für den Unterricht im Rahmen der Bestimmungen der Artikel 9 bis 11. Er berücksichtigt die Ergebnisse der interkantonalen Zusammenarbeit zu den Lehrplänen.
+
+<sup>2</sup> Er erlässt die für den Kanton Bern notwendigen zusätzlichen Lehrplanteile, insbesondere
+
+- a zum obligatorischen und fakultativen Unterricht,
+- b zur Unterrichtsorganisation,
+- c zum Lehren und Lernen,
+- d zur Unterrichtszeit für die Fachbereiche.
+
+<sup>3</sup> …
+
+#### Art. 12a
+
+**Lehrplan für die französischsprachigen Volksschulen**
+
+<sup>1</sup> Der Inhalt und die Befugnis zum Erlass des Lehrplans für die französischsprachigen Volksschulen richten sich nach den interkantonalen Bestimmungen.
+
+<sup>2</sup> Der Regierungsrat erlässt die für den Kanton Bern notwendigen zusätzlichen Lehrplanteile, insbesondere
+
+- a zum obligatorischen und fakultativen Unterricht,
+- b zur Unterrichtsorganisation,
+- c zum Lehren und Lernen,
+- d zur Unterrichtszeit für die Fachbereiche.
+
+#### Art. 13
+
+**Unentgeltlichkeit**
+
+<sup>1</sup> An der öffentlichen Volksschule ist der Unterricht unentgeltlich.
+
+<sup>2</sup> Die Gemeinde gibt den Schülerinnen und Schülern die individuellen Lehrmittel und Schulmaterialien unentgeltlich ab. Sie ist ebenfalls für die Beschaffung und Bereitstellung der notwendigen allgemeinen Lehrmittel und der für den Unterricht notwendigen Geräte und Apparate verantwortlich.
+
+#### Art. 14
+
+**Lehrmittel und Medien 1 Angebot**
+
+<sup>1</sup> Der Kanton sichert ein ausreichendes Angebot an geeigneten Lehrmitteln für die öffentlichen Volksschulen des Kantons Bern.
+
+<sup>2</sup> Dazu kann er sich insbesondere an Verlagsunternehmen beteiligen, Verträge mit Dritten abschliessen oder Lehrmittel bewerten und auszeichnen.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion beschliesst die erforderlichen Massnahmen. Vorbehalten bleiben die ordentlichen Ausgabenbefugnisse.
+
+#### Art. 14a
+
+**2 Verwendung**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion kann Lehrmittel zur Verwendung obligatorisch erklären, wenn die Ideen und Ziele des Lehrplans oder die Koordination es erfordern.
+
+<sup>2</sup> Sie kann Lehrmittel von der Verwendung ausschliessen, wenn diese
+
+- a allgemein anerkannte didaktische oder pädagogische Prinzipien nicht beachten,
+- b nicht mit den Ideen und Zielen des Lehrplans übereinstimmen oder
+- c die interkantonale Koordination erheblich erschweren.
+
+#### Art. 14b
+
+**…**
+
+#### Art. 14c
+
+**Kommissionen für Lehrplan- und Lehrmittelfragen**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion ernennt für den deutsch- und den französischsprachigen Kantonsteil je eine Kommission für Lehrplan- und Lehrmittelfragen.
+
+<sup>2</sup> Die Kommissionen beraten die Bildungs- und Kulturdirektion in Lehrplan- und Lehrmittelfragen.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion ernennt die Mitglieder und bestimmt die Aufgaben.
+
+#### Art. 14d
+
+**Tagesschule 1 Angebot**
+
+<sup>1</sup> Tagesschulangebote tragen zur Erfüllung der Aufgaben der Volksschule bei.
+
+<sup>2</sup> Als Tagesschulangebote gelten:
+
+- a Morgenbetreuung,
+- b Mittagsbetreuung mit Verpflegung,
+- c Aufgabenbetreuung,
+- d Nachmittagsbetreuung.
+
+<sup>3</sup> Die Gemeinden haben mindestens diejenigen Tagesschulangebote zu führen, für die eine genügende Nachfrage besteht.
+
+<sup>4</sup> Sie können die Führung der Tagesschulangebote ganz oder teilweise an Private übertragen, sofern die Aufsicht durch die Schulkommission und die Zusammenarbeit mit der Schulleitung gewährleistet sind.
+
+<sup>5</sup> Der Regierungsrat regelt durch Verordnung, ab wann die Nachfrage im Sinne von Absatz 3 genügend ist. Er erlässt zudem Minimalvorschriften über die Qualitätsstandards, insbesondere über die Ausbildung des Personals und die Räume, sowie das Qualitätsmanagement.
+
+#### Art. 14e
+
+**2 Kosten**
+
+<sup>1</sup> Die Normlohnkosten abzüglich der anrechenbaren Erträge werden gemäss dem Lastenausgleich Lehrergehälter vom Kanton und von den Gemeinden getragen.
+
+<sup>2</sup> Der Regierungsrat legt die Normlohnkosten und die anrechenbaren Erträge durch Verordnung fest. Er kann für Tagesschulen mit tiefem pädagogischem Anspruch andere Ansätze festlegen.
+
+<sup>3</sup> Zur Erhaltung eines ausgeglichenen Finanzhaushalts kann der Regierungsrat den maximalen Umfang des Tagesschulangebots festlegen, das die Gemeinden anzubieten haben und das gemäss dem Lastenausgleich finanziert wird. Er berücksichtigt dabei eine wirksame und optimale Aufgabenerfüllung und Organisation der Volksschule.
+
+#### Art. 14f
+
+**3 Beschränkung des Angebots**
+
+<sup>1</sup> Übersteigt die Nachfrage das gemäss dem Lastenausgleich finanzierte Tagesschulangebot (Art. 14e Abs. 3), kann die Gemeinde die Zulassung beschränken.
+
+<sup>2</sup> Ist die Zulassung beschränkt, werden Kinder bevorzugt, deren Integration in die Volksschule durch den Besuch des Tagesschulangebots nachweislich unterstützt werden kann oder deren Eltern
+
+- a zur Existenzsicherung auf ein Tagesschulangebot angewiesen sind oder
+- b berufstätig sind oder
+- c in einer Erstausbildung stehen.
+
+<sup>3</sup> Der Regierungsrat regelt die Zulassung im Weiteren durch Verordnung.
+
+#### Art. 14g
+
+**4 Freiwilligkeit der Nutzung**
+
+<sup>1</sup> Es steht den Eltern frei, das Tagesschulangebot zu nutzen.
+
+#### Art. 14h
+
+**5 Gebühren**
+
+<sup>1</sup> Für die Nutzung des Tagesschulangebots erheben die Gemeinden Gebühren von den Eltern.
+
+<sup>2</sup> Die Gebühren bemessen sich nach dem Aufwand und berücksichtigen die Einkommens- und die Vermögenssituation der Eltern sowie die Familiengrösse.
+
+<sup>3</sup> Der Regierungsrat regelt die Gebühren durch Verordnung.
+
+#### Art. 15
+
+**Fürsorgemassnahmen, Berufswahlvorbereitung**
+
+<sup>1</sup> Der Regierungsrat kann die Mitwirkung der Schule bei Fürsorgemassnahmen und die Zusammenarbeit der Schule mit der Berufsberatung durch Verordnung regeln.
+
+#### Art. 16
+
+**Kirchlicher Unterricht**
+
+<sup>1</sup> Im Abschlussjahr des kirchlichen Unterrichts ist der Stundenplan so zu gestalten, dass für diesen Unterricht zwei Lektionen pro Woche während der ordentlichen Schulzeit frei bleiben. Die obligatorische Lektionenzahl pro Woche gemäss Lehrplan darf für die einzelnen Schülerinnen und Schüler jedoch nicht unterschritten werden.
+
+<sup>2</sup> Zwischen den örtlichen Kirchenbehörden und der Schulleitung kann eine andere Ordnung getroffen werden, wobei die von der Schule freizuhaltende Unterrichtszeit gemäss Absatz 1 insgesamt nicht überschritten werden darf. Wenn keine Einigung erreicht wird, entscheidet die zuständige Stelle der Bildungs- und Kulturdirektion.
+
+<sup>3</sup> Die Gemeinden stellen den anerkannten Landeskirchen für deren kirchlichen Unterricht nötigenfalls Schulräume zur Verfügung. Bei Meinungsverschiedenheiten entscheidet die zuständige Stelle der Bildungs- und Kulturdirektion.
+
+<sup>4</sup> Auf Gesuch der zuständigen kirchlichen Instanzen gibt die Schulleitung den Schülerinnen und Schülern im Rahmen des kirchlichen Unterrichts an der Primarstufe insgesamt bis zu zwei Tagen, an der Sekundarstufe I insgesamt bis zu drei Tagen frei. Die auf der Primarstufe unbeanspruchten Tage sind nicht übertragbar. Auf die schulorganisatorischen Verhältnisse ist angemessen Rücksicht zu nehmen.
+
+<sup>5</sup> …
+
+#### Art. 16a
+
+**Kurse in heimatlicher Sprache und Kultur**
+
+<sup>1</sup> Der Kanton und die Gemeinden unterstützen die Kurse in heimatlicher Sprache und Kultur im Sinne von Artikel 4 Absatz 4 des HarmoS-Konkordats durch organisatorische Massnahmen und Beratung.
+
+## 3
+
+#### Art. 17
+
+**Integration und besondere Massnahmen**
+
+<sup>1</sup> Schülerinnen und Schülern, deren schulische Ausbildung durch Störungen und Behinderungen oder durch Probleme bei der sprachlichen und kulturellen Integration erschwert wird, sowie Schülerinnen und Schülern mit ausserordentlichen Begabungen soll in der Regel der Besuch der ordentlichen Bildungsgänge ermöglicht werden.
+
+<sup>2</sup> Die Bildungsziele werden soweit nötig durch besondere Massnahmen wie Spezialunterricht, besondere Förderung oder Schulung in besonderen Klassen, die grundsätzlich in Schulen mit Regelklassen zu integrieren sind, angestrebt.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung, insbesondere
+
+- a die Organisation des Spezialunterrichts und der besonderen Klassen,
+- b die Massnahmen zur besonderen Förderung,
+- c die Zuweisungsverfahren.
+
+#### Art. 17a
+
+**Klassen im Asyl- und Flüchtlingsbereich**
+
+<sup>1</sup> Aus wichtigen Gründen kann die Bildungs- und Kulturdirektion den Gemeinden bewilligen, für die Schulung von schulpflichtigen Kindern aus dem Asyl- und Flüchtlingsbereich zusätzliche Klassen zu führen oder andere schulische Massnahmen im Hinblick auf den Verbleib der Kinder in der Schweiz oder auf deren Rückkehr zu treffen.
+
+<sup>2</sup> Die Bewilligung ist zu befristen.
+
+<sup>3</sup> Auf begründetes Gesuch der Gemeinde kann der Kanton für schulpflichtige Kinder, die sich in den Zentren des Bundes sowie in den kantonalen Kollektivunterkünften, in denen nur die Nothilfe gewährt wird, aufhalten, die Klassen führen oder Dritte mit der Führung beauftragen.
+
+<sup>4</sup> Der Regierungsrat kann durch Verordnung für Klassen nach Absatz 1 und 3 Abweichungen von den Bestimmungen dieses Gesetzes vorsehen, insbesondere zum Schuljahr oder zur Schulzeit, zur Unterrichtssprache, zum obligatorischen und fakultativen Unterricht, zum Lehrplan sowie zur Beurteilung.
+
+<sup>5</sup> Die Lehrergehaltskosten werden, nach Abzug der Beiträge des Bundes nach Artikel 80 Absatz 4 des Asylgesetzes vom 26. Juni 1998 (AsylG)[^17a-1], gemäss dem Lastenausgleich Lehrergehälter vom Kanton und von den Gemeinden getragen. Die übrigen Kosten werden vom Kanton getragen.
+
+[^17a-1]: SR 142.31
+
+#### Art. 18
+
+**Andere Schulung**
+
+<sup>1</sup> Kinder, die nicht in Regelklassen oder besonderen Klassen geschult werden können, müssen in Sonderschulen oder Heimen geschult werden oder erhalten auf andere Weise Pflege, Erziehung, Förderung und angemessene Ausbildung.
+
+<sup>2</sup> Das regionale Schulinspektorat bewilligt eine anderweitige Schulung oder Förderung nach Anhören der Eltern, der Lehrerschaft und der Schulleitung sowie auf Grund eines begründeten Antrages einer kantonalen Erziehungsberatungsstelle, gegebenenfalls des Kinder- und Jugendpsychiatrischen Dienstes oder des schulärztlichen Dienstes.
+
+<sup>3</sup> Die Schulkommission wacht darüber, dass die Eltern des Kindes innert nützlicher Frist das Nötige anordnen. Sind diese säumig, benachrichtigt sie die Kindes- und Erwachsenenschutzbehörde.
+
+#### Art. 19
+
+**Besondere Vorschriften, Fürsorgegesetzgebung**
+
+<sup>1</sup> Über den Unterricht an Sonderschulen und in Heimen, die Wählbarkeit der Lehrkräfte und die Aufsicht über die Sonderschulen und Heime erlässt der Regierungsrat die nötigen Verordnungen. Im übrigen unterstehen die Sonderschulen und Heime der Gesetzgebung über das Fürsorgewesen.
+
+#### Art. 20
+
+**Unterricht für hospitalisierte Kinder**
+
+<sup>1</sup> Erholungsheime, Heilstätten und Spitäler, die Kinder für längere Zeit aufnehmen, haben für einen den besonderen Verhältnissen angepassten Unterricht zu sorgen.
+
+<sup>2</sup> Der Kanton trägt im Rahmen des Voranschlages der für die Institution jeweils zuständigen Direktion die Kosten dieses Unterrichtes.
+
+<sup>3</sup> Der Kanton kann im Inselspital eine Patientenschule führen.
+
+#### Art. 20a
+
+**Schulsozialarbeit**
+
+<sup>1</sup> Der Kanton leistet Beiträge an die Kosten der Gemeinden für die Schulsozialarbeit.
+
+<sup>2</sup> Der Beitrag beträgt höchstens 30 Prozent der Lohnkosten. Er kann pauschaliert werden.
+
+<sup>3</sup> Beiträge von geringer Höhe werden nicht gewährt.
+
+<sup>4</sup> Der Regierungsrat beschliesst abschliessend über die zur Verfügung stehenden Mittel für Beiträge an die Schulsozialarbeitskosten der Gemeinden. Die zuständige Stelle der Bildungs- und Kulturdirektion verfügt den einzelnen Beitrag im Rahmen der bewilligten Mittel.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+## 4
+
+#### Art. 21
+
+**…**
+
+## 5 Die Schülerinnen und Schüler
+
+#### Art. 22
+
+**Eintrittsalter und Volksschulpflicht**
+
+<sup>1</sup> Jedes Kind, das bis zum 31. Juli das vierte Altersjahr zurückgelegt hat, tritt auf den darauffolgenden 1. August in den Kindergarten ein.
+
+<sup>2</sup> Die Eltern können ihr Kind ein Jahr später in das erste Kindergartenjahr eintreten lassen.
+
+#### Art. 23
+
+**…**
+
+#### Art. 24
+
+**Vorzeitige Entlassung, zusätzliches Schuljahr**
+
+<sup>1</sup> Liegen zwingende Gründe vor, kann die Schulkommission auf Gesuch der Eltern oder auf Antrag der Schulleitung und nach Anhören der Eltern Schülerinnen und Schüler vom Abschluss des zweitletzten Schuljahres hinweg aus der Schulpflicht entlassen. Die Lehrerschaft und in der Regel eine kantonale Erziehungsberatungsstelle sind vorgängig anzuhören.
+
+<sup>2</sup> Haben Schülerinnen und Schüler bereits elf Jahre Volksschule absolviert und sind sie nicht mehr lernbereit oder bereiten sie durch ihr Verhalten besondere Schwierigkeiten, kann die Schulkommission ihnen den Besuch der letzten Klasse der Volksschule sowohl vor als auch nach Beginn des Schuljahrs verweigern.
+
+<sup>3</sup> …
+
+#### Art. 25
+
+**Laufbahn**
+
+<sup>1</sup> Die Zeit für das Durchlaufen der Volksschule ist im Einzelfall vom Entwicklungsstand der Schülerin oder des Schülers abhängig. Ausnahmsweise kann sie ein oder höchstens zwei Jahre länger oder kürzer dauern.
+
+<sup>2</sup> Den Schülerinnen und Schülern werden periodisch Berichte oder Zeugnisse ausgestellt, ab dem dritten Primarschuljahr auch mit Noten; sie dienen der Schülerbeurteilung und sind Grundlage für die weitere Schulung.
+
+<sup>3</sup> Der Regierungsrat erlässt nähere Bestimmungen.
+
+#### Art. 26
+
+**Übertritt in die Sekundarstufe I, Durchlässigkeit**
+
+<sup>1</sup> Für den Übertritt in die Sekundarstufe I gelten folgende Voraussetzungen:
+
+- a für den Eintritt in eine Realklasse das absolvierte Pensum der Primarstufe,
+- b für den Eintritt in eine Sekundarklasse das erfolgreiche Ergebnis aus dem Übertrittsverfahren,
+- c für den Eintritt in Zusammenarbeitsformen gemäss Artikel 46 Absatz 4 die Zuweisung aufgrund der Ergebnisse des Übertrittsverfahrens.
+
+<sup>2</sup> In eine Sekundarklasse werden Schülerinnen und Schüler aufgenommen, bei denen sich begründet annehmen lässt, dass sie den erhöhten Anforderungen des Unterrichts genügen werden.
+
+<sup>3</sup> Für den ganzen Kanton gilt ein einheitlich gestaltetes Übertrittsverfahren. Das Nähere, insbesondere den Beizug der Eltern, die Mitwirkung der Lehrerschaft der vorbereitenden und der weiterführenden Klassen oder Schulen bei den Eignungsabklärungen sowie das Vorgehen beim Übertrittsentscheid, regelt der Regierungsrat .
+
+<sup>4</sup> Der Regierungsrat regelt den Schultypenwechsel und die Zulassung zum Vorbereitungsunterricht für den Übertritt in die Sekundarstufe II. Die Mittelschulgesetzgebung bleibt vorbehalten.
+
+#### Art. 27
+
+**Absenzen, Dispensation**
+
+<sup>1</sup> Die Schülerinnen und Schüler haben den Unterricht im zeitlichen Rahmen des Stundenplans zu besuchen.
+
+<sup>2</sup> In jeder Klasse ist eine Kontrolle der Absenzen zu führen.
+
+<sup>3</sup> Die Eltern sind berechtigt, ihre Kinder nach vorgängiger Benachrichtigung der Schule an höchstens fünf Halbtagen pro Kindergarten- oder Schuljahr nicht in die Volksschule zu schicken.
+
+<sup>4</sup> Sie sind überdies berechtigt, ihre Kinder während des ersten Kindergartenjahrs den Kindergarten mit einem reduzierten Pensum besuchen zu lassen.
+
+<sup>5</sup> Zusätzlich kann die Schulleitung in begründeten Fällen Schülerinnen und Schüler teilweise oder vorübergehend ganz vom Schulbesuch befreien.
+
+<sup>6</sup> Der Regierungsrat regelt die Absenzen und Dispensationen durch Verordnung.
+
+#### Art. 28
+
+**Disziplin, Massnahmen**
+
+<sup>1</sup> Die Volksschule sorgt für einen geordneten Schulbetrieb und ein förderliches Lernklima. Die Schülerinnen und Schüler haben die Regeln der Schule für das Zusammenleben einzuhalten sowie die Anordnungen der Lehrerschaft und der Schulleitung zu befolgen.
+
+<sup>2</sup> Die Lehrerschaft und die Schulleitung sind ermächtigt, gegenüber fehlbaren Schülerinnen und Schülern diejenigen Massnahmen zu ergreifen, die zur Aufrechterhaltung des geordneten Schulbetriebes nötig sind.
+
+<sup>3</sup> Die Volksschule orientiert frühzeitig die Schulkommission und zieht Fachstellen bei, nötigenfalls werden Massnahmen wie Versetzung in eine andere Klasse, in ein anderes Schulhaus oder an eine Schule einer anderen Gemeinde veranlasst.
+
+<sup>4</sup> Die Schulkommission kann bei wiederholten oder schweren Verstössen der Schülerin oder dem Schüler einen schriftlichen Verweis erteilen oder einen Ausschluss gemäss Absatz 5 schriftlich androhen.
+
+<sup>5</sup> Schülerinnen und Schüler, welche durch ihr Verhalten den ordentlichen Schulbetrieb erheblich beeinträchtigen, können von der Schulkommission während höchstens zwölf Schulwochen pro Kindergarten- oder Schuljahr teilweise oder vollständig vom Unterricht ausgeschlossen werden.
+
+<sup>6</sup> Bei einem Ausschluss sorgt die von der Gemeinde beauftragte Fachstelle in Zusammenarbeit mit den Eltern und mit Hilfe der Lehrerschaft und der Schulleitung für eine angemessene Beschäftigung. Die Volksschule plant rechtzeitig die Wiedereingliederung.
+
+<sup>7</sup> Die betroffenen Schülerinnen und Schüler sowie ihre Eltern sind vor einer Verfügung gemäss den Absätzen 3 bis 5 anzuhören. Die Schulkommission kann allfälligen Beschwerden die aufschiebende Wirkung entziehen.
+
+<sup>8</sup> Die Würde der Schülerinnen und Schüler und die Rechte der Eltern sind zu wahren.
+
+#### Art. 29
+
+**Mängel in Erziehung und Pflege**
+
+<sup>1</sup> Sind Anzeichen für Mängel in der Erziehung oder Pflege oder für eine anderweitige Gefährdung der Schülerinnen und Schüler vorhanden, informiert die Lehrerschaft oder die Schulleitung die Eltern.
+
+<sup>2</sup> Nötigenfalls benachrichtigt die Schulkommission die Kindes- und Erwachsenenschutzbehörde. Zum Schutz des Kindes kann in Ausnahmefällen die Benachrichtigung der Kindes- und Erwachsenenschutzbehörde ohne vorgängige Information der Eltern erfolgen.
+
+#### Art. 30
+
+**…**
+
+## 6 Die Eltern
+
+#### Art. 31
+
+**Zusammenarbeit, Elternmitsprache**
+
+<sup>1</sup> Die in diesem Gesetz den Eltern übertragenen Rechte und Pflichten werden durch die im Zivilgesetzbuch[^31-1] bezeichneten Personen und nach dessen Bestimmungen ausgeübt.
+
+<sup>2</sup> Schulkommission, Schulleitung, Lehrerschaft und Eltern sind gegenseitig zur Zusammenarbeit verpflichtet.
+
+<sup>3</sup> Die Eltern sind von der Volksschule regelmässig und in angemessener Weise über die schulische Entwicklung und das Verhalten ihrer Kinder sowie über wichtige Geschehnisse und Vorhaben im Zusammenhang mit dem Unterricht und dem Schulbetrieb zu informieren.
+
+<sup>4</sup> Die Eltern werden einzeln oder als Gesamtheit auf ihr Verlangen durch die betreffenden Lehrkräfte, die Schulleitung oder die Schulkommission angehört und beraten. Sie haben das Recht, den Unterricht ihrer Kinder gelegentlich zu besuchen. Im besonderen besteht die Informations- und Anhörungspflicht der Schule gegenüber den Eltern während des Vorbereitungsverfahrens zu Übertritten und bei Übertrittsentscheiden innerhalb der Volksschule.
+
+<sup>5</sup> Die Gemeinde kann weitere Formen der Mitsprache und Mitwirkung der Eltern vorsehen.
+
+[^31-1]: SR 210
+
+#### Art. 32
+
+**Verantwortlichkeit für den Schulbesuch**
+
+<sup>1</sup> Die Eltern sind verpflichtet, ihre Kinder in die Volksschule zu schicken.
+
+<sup>2</sup> Wer ein Kind, für dessen Schulbesuch er verantwortlich ist, schuldhaft nicht in die Volksschule schickt, ist strafbar. Die Schulkommission hat in diesem Fall nach Anhören der Betroffenen Anzeige zu erstatten.
+
+<sup>3</sup> Die Eltern helfen mit, gute Lernvoraussetzungen zu schaffen, insbesondere indem sie ihre Kinder ausgeruht und ernährt in die Volksschule schicken.
+
+#### Art. 33
+
+**Strafe bei Schulversäumnis, Massnahmen**
+
+<sup>1</sup> Die Strafe bei Schulversäumnis ist Busse. Bei deren Bemessung berücksichtigt das Gericht im Rahmen der allgemeinen Strafzumessungsgrundsätze insbesondere die versäumte Unterrichtszeit.
+
+<sup>2</sup> Die Urteile sind nach Eintritt der Rechtskraft unverzüglich der Schulkommission und der Schulleitung zuzustellen. Die eingegangenen Bussen sind den Gemeinden zu überweisen.
+
+<sup>3</sup> Stellt das Gericht fest, dass eine Schülerin oder ein Schüler gefährdet oder verwahrlost ist, benachrichtigt es die zuständige Kindes- und Erwachsenenschutzbehörde; hievon gibt es der zuständigen Schulkommission und der Schulleitung Kenntnis.
+
+## 7 Organisation und Führung der Volkschulen
+
+#### Art. 34
+
+**Organisation**
+
+<sup>1</sup> Die Gemeinden legen die Volksschulen als die Organisationseinheiten fest, die die Aufgaben der Volksschule erfüllen.
+
+<sup>2</sup> Die Volksschulen werden von Schulkommissionen beaufsichtigt und von Schulleitungen geführt. Vorbehalten bleibt Absatz 3.
+
+<sup>3</sup> Die Gemeinden können Aufgaben und Befugnisse, die die Volksschulgesetzgebung oder die Lehreranstellungsgesetzgebung den Schulkommissionen zuweist, der Schulleitung oder anderen Gemeindebehörden übertragen. Die Trennung zwischen der Aufsicht durch politische Gemeindebehörden und der pädagogischen und betrieblichen Führung der Volksschulen durch die Schulleitungen ist jedoch zu beachten.
+
+#### Art. 35
+
+**Schulkommissionen**
+
+<sup>1</sup> Die Schulkommissionen stellen die gute Führung der Volksschulen sicher.
+
+<sup>2</sup> Die Schulkommissionen
+
+- a sorgen dafür, dass jedes Kind die Volksschule gemäss der kantonalen Gesetzgebung besucht,
+- b sorgen für die Verankerung der Schulen in der Gemeinde,
+- c legen die strategische Ausrichtung der Schulen fest,
+- d nehmen die übrigen Aufgaben und Befugnisse gemäss der Volksschulgesetzgebung, der Lehreranstellungsgesetzgebung und den Bestimmungen der Gemeinde wahr.
+
+#### Art. 36
+
+**Schulleitungen**
+
+<sup>1</sup> Den Schulleitungen obliegt die pädagogische und die betriebliche Führung der Volksschulen.
+
+#### Art. 37–42
+
+**…**
+
+#### Art. 43
+
+**Lehrkräfte**
+
+<sup>1</sup> Die Lehrkräfte tragen mit ihrer Tätigkeit massgeblich dazu bei, dass die Aufgaben der Volksschule erfüllt werden.
+
+<sup>2</sup> Die Mitwirkung und die Information der Lehrkräfte werden mit Gemeindeerlass gewährleistet.
+
+<sup>3</sup> …
+
+#### Art. 44
+
+**Lehrerkonferenzen**
+
+<sup>1</sup> Die Lehrerkonferenzen beraten und unterstützen die Schulleitungen.
+
+<sup>2</sup> Sie befassen sich insbesondere mit pädagogischen Fragen und mit Fragen der Schulentwicklung.
+
+<sup>3</sup> Sie können Stellung nehmen zu den Anträgen der Schulleitung an die Schulkommission.
+
+## 8
+
+#### Art. 45
+
+**…**
+
+#### Art. 46
+
+**Klassen**
+
+<sup>1</sup> Die Schülerinnen und Schüler werden in Kindergartenklassen, in Primarklassen sowie in Real- und Sekundarklassen unterrichtet.
+
+<sup>2</sup> Wo die örtlichen Verhältnisse dies erfordern, können Schülerinnen und Schüler der Primar- und der Realklassen gemeinsam unterrichtet werden.
+
+<sup>3</sup> Wo die wohnortsnahe Schulung es erfordert, können Schülerinnen und Schüler des Kindergartens und der ersten Jahre der Primarstufe ausnahmsweise ganz oder teilweise gemeinsam unterrichtet werden.
+
+<sup>4</sup> Die Gemeinden können durch Reglement bestimmen, dass Schülerinnen und Schüler der Sekundarstufe I teilweise oder durchwegs gemeinsam unterrichtet werden. Dabei sind besondere unterrichtliche Massnahmen zu treffen. Das Nähere regelt der Regierungsrat.
+
+<sup>5</sup> Die Vorbereitung innerhalb der Sekundarstufe I auf weiterführende Schulen erfolgt in speziellen Klassen oder durch zusätzlichen Unterricht. Die Organisation des ersten Jahrs des gymnasialen Bildungsgangs richtet sich nach der Mittelschulgesetzgebung.
+
+#### Art. 46a
+
+**Basisstufe und cycle élémentaire**
+
+<sup>1</sup> Die Gemeinden können beschliessen, dass Schülerinnen und Schüler des Kindergartens und des ersten und zweiten Primarschuljahrs ganz oder teilweise gemeinsam unterrichtet werden, sofern
+
+- a längerfristig eine genügende Anzahl Kinder den gemeinsamen Unterricht besuchen wird,
+- b geeignete Räumlichkeiten vorhanden sind,
+- c besondere unterrichtliche Massnahmen getroffen werden,
+- d eine hinreichende pädagogische Qualität gewährleistet ist und
+- e genügend personelle Ressourcen von Kanton und Gemeinden zur Verfügung gestellt werden können.
+
+<sup>2</sup> Beschlüsse gemäss Absatz 1 unterliegen der Genehmigung der zuständigen Stelle der Bildungs- und Kulturdirektion.
+
+<sup>3</sup> Zur Erhaltung eines ausgeglichenen Finanzhaushalts des Kantons kann der Regierungsrat die personellen Ressourcen, die für den gemeinsamen Unterricht gemäss Absatz 1 zur Verfügung gestellt werden, kontingentieren. Er regelt die Kriterien für die Vergabe des Kontingents, wobei die wohnortsnahe Schulung der Kinder, die Optimierung der Schulorganisation sowie die regionale Verteilung der Angebote zu berücksichtigen sind.
+
+#### Art. 47
+
+**Gemeindebeschlüsse**
+
+<sup>1</sup> Die Gemeinden beschliessen über
+
+- a die Schaffung oder Aufhebung von Kindergarten-, Primar-, Real- und Sekundarklassen,
+- b die Einführung und Aufhebung von fakultativem Unterricht,
+- c die Einführung und Aufhebung von Bildungsangeboten gemäss Artikel 17 Absatz 2.
+
+<sup>2</sup> Der Gemeinderat ist für Beschlüsse gemäss Absatz 1 Buchstabe a zuständig, wenn die Gemeinde keine andere Regelung trifft.
+
+<sup>3</sup> Beschlüsse gemäss Absatz 1 unterliegen der Genehmigung durch die zuständige Stelle der Bildungs- und Kulturdirektion. Der Regierungsrat kann anstelle von Einzelgenehmigungen Rahmenbestimmungen über Klassen- und Lektionenzahlen erlassen, innerhalb deren die Gemeinde ihre Beschlüsse gemäss Absatz 1 selbständig fasst.
+
+<sup>4</sup> Für die Bereiche gemäss Absatz 1 kann der Regierungsrat Richtlinien erlassen, insbesondere auch für die Schülerzahlen.
+
+<sup>5</sup> Die Bildungs- und Kulturdirektion kann anstelle der Gemeinde verfügen, sofern deren Beschlüsse gemäss Absatz 1 nicht den Richtlinien entsprechen.
+
+<sup>6</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion entscheidet auf Antrag der Gemeinde über die Einführung und Aufhebung von Förder- und Niveauunterricht an der Sekundarstufe I.
+
+#### Art. 48
+
+**Schulanlagen**
+
+<sup>1</sup> Die Gemeinden sorgen für Erstellung, Unterhalt und Betrieb der Schulanlagen und deren Ausrüstung. Für den Turn- und Sportunterricht der Schulen sollen geeignete Anlagen zur Verfügung stehen.
+
+<sup>2</sup> Die regionalen Schulinspektorate stehen den Gemeinden beratend zur Verfügung.
+
+<sup>3</sup> Zur Sicherstellung des Unterrichts erlässt der Regierungsrat Minimalvorschriften für den Neu- und Umbau von Schul- und Schulsportanlagen.
+
+<sup>4</sup> Schul- und Schulsportanlagen sind in angemessener Weise auch für ausserschulische Zwecke zur Verfügung zu stellen.
+
+<sup>5</sup> Die Schulgebäude sind rauchfrei.
+
+#### Art. 48a
+
+**Schulsekretariat**
+
+<sup>1</sup> Die Gemeinden stellen den Volksschulen Sekretariatsressourcen zur Verfügung.
+
+## 9 Kantonsbeiträge
+
+### 9.1 Schulbibliotheken und Schulmediatheken
+
+#### Art. 49
+
+<sup>1</sup> Der Kanton kann den Gemeinden Beiträge an ihre Schulbibliotheken und -mediotheken ausrichten. Das Nähere regelt der Regierungsrat durch Verordnung.
+
+<sup>2</sup> Die Beiträge bewilligt der Regierungsrat unter Vorbehalt der Ausgabenbefugnis der Bildungs- und Kulturdirektion abschliessend.
+
+<sup>3–4</sup> …
+
+### 9.2 Schülertransporte
+
+#### Art. 49a
+
+<sup>1</sup> Der Kanton kann Beiträge leisten an Gemeinden, die durch Schülertransportkosten erheblich belastet sind. Er berücksichtigt dabei insbesondere den Anteil der Schülerinnen und Schüler mit unzumutbaren Schulwegen, die topographischen Voraussetzungen und die Siedlungsstruktur.
+
+<sup>2</sup> Die Beiträge betragen 30 bis 50 Prozent der Kosten von effizient durchgeführten Schülertransporten.
+
+<sup>3</sup> In Einzelfällen kann die zuständige Stelle der Bildungs- und Kulturdirektion die Beiträge erhöhen oder den Kreis der berechtigten Gemeinden ausweiten, wenn
+
+- a eine Anpassung der Schulstruktur Einsparungen für den Kanton zur Folge hat oder
+- b extreme Verhältnisse bezüglich der Kriterien nach Absatz 1 vorliegen.
+
+<sup>4</sup> Der Kanton kann die Beiträge zur Erhaltung eines ausgeglichenen Finanzhaushalts plafonieren. Eine allfällige Priorisierung richtet sich nach den Kriterien gemäss Absatz 1.
+
+<sup>5</sup> Der Regierungsrat bewilligt die Beiträge unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend.
+
+<sup>6</sup> Er regelt die Berechtigung für Beiträge, die Beitragsbemessung und den Vollzug durch Verordnung.
+
+### 9.3 Betreuung während der Ferienzeit
+
+#### Art. 49a1
+
+**Voraussetzungen**
+
+<sup>1</sup> Der Kanton kann Beiträge an die Kosten der anbietenden Gemeinden für die Betreuung von volksschulpflichtigen Kindern während der Ferienzeit leisten, wenn
+
+- a die Betreuung ganztags und ausschliesslich tagsüber angeboten wird,
+- b der Beitrag der anbietenden Gemeinde für Kinder, die dort ihren zivilrechtlichen Wohnsitz haben, mindestens gleich hoch ist wie der Beitrag des Kantons und
+- c die anbietende Gemeinde für die Betreuung bei den Eltern Gebühren erhebt.
+
+<sup>2</sup> Die Beiträge werden für die volksschulpflichtigen Kinder mit zivilrechtlichem Wohnsitz im Kanton Bern geleistet, die das Betreuungsangebot in Anspruch nehmen.
+
+<sup>3</sup> Die Beiträge können auch geleistet werden, wenn die Gemeinden untereinander zusammen arbeiten, oder wenn sie die Betreuung ganz oder teilweise an Private, insbesondere Tageseltern oder Vereine übertragen und die Aufsicht gewährleisten.
+
+<sup>4</sup> Der Regierungsrat regelt die Vorgaben, insbesondere im Bereich der Qualität, durch Verordnung.
+
+#### Art. 49a2
+
+**Bemessung und Zuständigkeit**
+
+<sup>1</sup> Der Beitrag wird pauschaliert und beträgt höchstens 30 Prozent der Normkosten.
+
+<sup>2</sup> Der Regierungsrat
+
+- a bewilligt die Beiträge unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend und
+- b regelt insbesondere die Höhe des Pauschalbeitrags durch Verordnung.
+
+<sup>3</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion gewährt die Beiträge des Kantons an die einzelnen Gemeinden.
+
+## 9a Kantonale Schule französischer Sprache
+
+#### Art. 49b
+
+**Grundsatz**
+
+<sup>1</sup> Der Kanton führt die kantonale Schule französischer Sprache in Bern.
+
+#### Art. 49c
+
+**Zweck**
+
+<sup>1</sup> Die kantonale Schule französischer Sprache trägt zur Stärkung der Zweisprachigkeit des Kantons und der Mehrsprachigkeit des Bundes bei.
+
+<sup>2</sup> Sie ermöglicht den französischsprachigen Schülerinnen und Schülern, ihre Identität zu bewahren sowie ihre sprachliche und kulturelle Eigenart zu erhalten.
+
+<sup>3</sup> Sie ermöglicht den Mitarbeiterinnen und Mitarbeitern des Kantons und des Bundes sowie den Mitarbeiterinnen und Mitarbeitern der Organisationen im Interesse des Bundes, ihre Kinder eine französischsprachige Volksschule besuchen zu lassen.
+
+#### Art. 49d
+
+**Aufgaben**
+
+<sup>1</sup> Die kantonale Schule französischer Sprache gewährleistet ein französischsprachiges Volksschulangebot.
+
+<sup>2</sup> Sie erbringt weitere Dienstleistungen, die diese Aufgaben unterstützen.
+
+#### Art. 49e
+
+**Aufnahme**
+
+<sup>1</sup> Die kantonale Schule französischer Sprache nimmt Kinder französisch-, italienisch- oder romanischsprachiger Eltern auf, sofern genügend Plätze vorhanden sind. Sie kann ausnahmsweise von der Voraussetzung der Sprache der Eltern abweichen.
+
+<sup>2</sup> Der Regierungsrat regelt durch Verordnung, nach welchen Kriterien Kinder aufgenommen werden, wenn nicht genügend Plätze vorhanden sind. Er berücksichtigt insbesondere das Arbeitsverhältnis der Eltern mit dem Kanton oder dem Bund sowie die Verankerung der Kinder in der französischen Sprache und ihrer kulturellen Eigenart.
+
+#### Art. 49f
+
+**Organisation**
+
+<sup>1</sup> Der Regierungsrat regelt die Grundsätze der Organisation der kantonalen Schule französischer Sprache durch Verordnung. Er berücksichtigt eine angemessene Selbständigkeit der kantonalen Schule französischer Sprache.
+
+<sup>2</sup> Die nähere Organisation sowie die Aufgaben und Befugnisse der Schulorgane werden in einem Schulreglement geregelt, das von der Bildungs- und Kulturdirektion genehmigt wird.
+
+#### Art. 49g
+
+**Schulkommission**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion setzt eine Schulkommission ein, wobei die Interessen des Bundes angemessen zu berücksichtigen sind.
+
+<sup>2</sup> Die Schulkommission stellt die gute Führung der kantonalen Schule französischer Sprache sicher. Sie
+
+- a nimmt die Schülerinnen und Schüler auf,
+- b sorgt für die Verankerung der Schule in der französischsprachigen Bevölkerung,
+- c erlässt unter Vorbehalt der Genehmigung durch die Bildungs- und Kulturdirektion das Schulreglement,
+- d legt die strategische Ausrichtung fest und genehmigt insbesondere das Leitbild,
+- e ernennt und führt die Schulleitung,
+- f stellt den Steuerungskreislauf sicher,
+- g nimmt die übrigen Aufgaben und Befugnisse gemäss dem Schulreglement wahr.
+
+#### Art. 49h
+
+**Schulleitung**
+
+<sup>1</sup> Der Schulleitung obliegt die pädagogische und die betriebliche Führung der Schule.
+
+#### Art. 49i
+
+**Bedarfserhebung, Planung und Angebot**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion erhebt und analysiert regelmässig den Bedarf an Ausbildungsplätzen.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion beschliesst, wie viele Ausbildungsplätze angeboten werden.
+
+#### Art. 49k
+
+**Leistungsvereinbarung**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion schliesst mit der kantonalen Schule französischer Sprache eine Leistungsvereinbarung ab und sorgt für eine regelmässige Berichterstattung und das Controlling.
+
+<sup>2</sup> Die Leistungsvereinbarung regelt die zu erbringenden Ausbildungsangebote, die damit verbundenen Qualitätsvorgaben und finanziellen Mittel sowie die Verantwortlichkeiten.
+
+#### Art. 49l
+
+**Finanzierung**
+
+<sup>1</sup> Die Lehrergehaltskosten werden, nach Abzug der Beiträge des Bundes, gemäss dem Lastenausgleich Lehrergehälter vom Kanton und von den Gemeinden getragen.
+
+<sup>2</sup> Die übrigen Kosten der kantonalen Schule französischer Sprache werden vom Kanton getragen.
+
+<sup>3</sup> Die allfälligen Schülertransportkosten werden von den Eltern getragen.
+
+## 10 Steuerung, Zuständigkeiten, Aufsicht und Kommunikation
+
+### 10.1 Steuerung
+
+#### Art. 50
+
+**Kanton**
+
+<sup>1</sup> Der Kanton legt die Inhalte, die Ziele und die Rahmenbedingungen der Volksschule fest und sorgt für ein in allen Gemeinden vergleichbares Volksschulangebot.
+
+<sup>2</sup> Er kann den Gemeinden Hilfsmittel zur Vereinfachung oder Vereinheitlichung des Vollzugs dieses Gesetzes zur Verfügung stellen.
+
+#### Art. 51
+
+**Gemeinde**
+
+<sup>1</sup> Die Gemeinde stellt das Volksschulangebot nach der Gesetzgebung bereit.
+
+<sup>2</sup> Die Gemeinde
+
+- a konkretisiert die Inhalte und die Ziele,
+- b ergänzt und konkretisiert die Rahmenbedingungen,
+- c ist verantwortlich für die Umsetzung,
+- d überprüft die Ergebnisse und trifft die erforderlichen Massnahmen.
+
+<sup>3</sup> Sie erstattet dem Kanton regelmässig strukturiert Bericht über die Ergebnisprüfung und die getroffenen Massnahmen.
+
+#### Art. 51a
+
+**Qualitätssicherung**
+
+<sup>1</sup> Der Kanton beurteilt die Ergebnisse aus der Berichterstattung der Gemeinde und gibt dieser eine Rückmeldung über die Beurteilung.
+
+<sup>2</sup> Er kann Massnahmen zur Verbesserung der Qualität vorschlagen. Im Übrigen gilt Artikel 52a.
+
+<sup>3</sup> Er kann Datenerhebungen in den Gemeinden durchführen oder auf Daten der Gemeinden greifen.
+
+#### Art. 51b
+
+**Kantonale Evaluation**
+
+<sup>1</sup> Der Kanton kann die Qualität der Erfüllung der Aufgaben durch die Gemeinde und die einzelnen Schulen beurteilen.
+
+<sup>2</sup> Er erstattet der Gemeinde Bericht über das Ergebnis der Beurteilung und schlägt gegebenenfalls Massnahmen vor zur Verbesserung der Aufgabenerfüllung.
+
+### 10.2 Zuständigkeiten, Aufsicht und Kommunikation
+
+#### Art. 52
+
+**Beratung und Qualitätssicherung**
+
+<sup>1</sup> Den regionalen Schulinspektoraten obliegen die Beratung der Gemeinden und der Vollzug der Qualitätssicherung.
+
+#### Art. 52a
+
+**Kantonale Aufsicht**
+
+<sup>1</sup> Die regionalen Schulinspektorate nehmen die kantonale Aufsicht über die Gemeinden im Volksschulwesen wahr.
+
+<sup>2</sup> Im Übrigen gelten die Artikel 85 bis 91 des Gemeindegesetzes vom 16. März 1998 (GG[^52a-1]).
+
+[^52a-1]: BSG 170.11
+
+#### Art. 53
+
+**Vollzug**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion vollzieht die Volksschulgesetzgebung, soweit dieses Gesetz nichts anderes bestimmt.
+
+#### Art. 54
+
+**Kommunikation und amtliches Publikationsorgan**
+
+<sup>1</sup> Der Kanton informiert die Gemeinden und die Schulen regelmässig, insbesondere über aktuelle Entwicklungen in der Volksschule und kantonale Unterstützungsangebote.
+
+<sup>2</sup> Er kann ein amtliches Publikationsorgan für das Bildungswesen herausgeben. Der Regierungsrat bewilligt die notwendigen Ausgaben zur Finanzierung des Publikationsorgans.
+
+#### Art. 55
+
+**[^55-1]**
+
+[^55-1]: Die Artikel 55 und 55a der Änderung vom 16. Juni 1997 des Volksschulgesetzes vom 19. März 1992 (BAG 97-137) werden gar nie in Kraft gesetzt, sondern mit diesem Gesetz bereits wieder aufgehoben.
+
+#### Art. 56
+
+**Schulversuche**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion kann Schulversuche gestatten oder veranlassen, so insbesondere mit neuen Lehrmitteln, neuen Methoden, neuen Fächern oder neuen Schulformen.
+
+<sup>2</sup> Der Kanton übernimmt die zusätzlich anfallenden Kosten für Schulversuche, die von der Bildungs- und Kulturdirektion veranlasst werden. An die zusätzlichen Kosten für gestattete Schulversuche werden Beiträge ausgerichtet.
+
+<sup>3</sup> Der Regierungsrat entscheidet im Rahmen des Voranschlages und unter Vorbehalt der Finanzkompetenz der Bildungs- und Kulturdirektion abschliessend über die Übernahme der zusätzlichen Kosten.
+
+<sup>4</sup> Die Bildungs- und Kulturdirektion begleitet die Schulversuche und wertet sie aus.
+
+## 11 Verschiedenes
+
+### 11.1 Zusammenarbeit mit Dritten
+
+#### Art. 57
+
+<sup>1</sup> Der Kanton kann zur gemeinsamen Lösung von Aufgaben im Bildungswesen interkantonalen Vereinbarungen beitreten und mit privaten oder öffentlichen Institutionen zusammenarbeiten.
+
+<sup>2</sup> Im Interesse der interkantonalen Zusammenarbeit kann der Regierungsrat durch Verordnung für den französischsprachigen Kantonsteil Abweichungen von den Bestimmungen dieses Gesetzes vorsehen.
+
+### 11.2 Interkantonaler Schulbesuch
+
+#### Art. 58
+
+**Grundsätze**
+
+<sup>1</sup> Der interkantonale Schulbesuch richtet sich nach den interkantonalen Vereinbarungen und ergänzend nach den nachfolgenden Bestimmungen
+
+<sup>2</sup> Aus wichtigen Gründen kann die zuständige Stelle der Bildungs- und Kulturdirektion den Besuch eines ausserkantonalen Volksschulangebots bewilligen und eine Kostengutsprache für die verlangten Schulgeldbeiträge leisten.
+
+<sup>3</sup> Sie kann Schülerinnen und Schülern mit zivilrechtlichem Wohnsitz ausserhalb des Kantons den Besuch eines Volksschulangebots im Rahmen der verfügbaren Plätze bewilligen, wenn sichergestellt ist, dass der Wohnsitzkanton die Schulgeldbeiträge übernimmt. Vorbehalten bleibt Absatz 4.
+
+<sup>4</sup> Der Besuch eines Volksschulangebots durch Pflegekinder, die wegen Kindesschutzmassnahmen Aufenthalt im Kanton Bern haben, ist weder bewilligungspflichtig noch werden dafür Schulgeldbeiträge verlangt.
+
+<sup>5</sup> Die Schulgeldbeiträge für Schülerinnen und Schüler mit zivilrechtlichem Wohnsitz ausserhalb des Kantons richten sich nach den Tarifen des Regionalen Schulabkommens vom 23. November 2007 über die gegenseitige Aufnahme von Auszubildenden und Ausrichtung von Beiträgen (RSA 2009)[^58-1]. Die Schulgeldbeiträge können auf denjenigen Betrag reduziert werden, den der Wohnsitzkanton seinerseits für die Aufnahme von bernischen Schülerinnen und Schülern verlangt.
+
+<sup>6</sup> Die kantonsinterne Verteilung der bezahlten und eingenommenen Schulgeldbeiträge richtet sich nach der Gesetzgebung über den Finanz- und Lastenausgleich.
+
+<sup>7</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+[^58-1]: BSG 439.14
+
+#### Art. 58a
+
+**Schulgeldvereinbarungen**
+
+<sup>1</sup> Der Regierungsrat kann mit andern Kantonen Vereinbarungen über Schulgeldbeiträge abschliessen.
+
+### 11.3 Gesundheits- und Beratungsdienste
+
+#### Art. 59
+
+**Schulärztlicher Dienst**
+
+<sup>1</sup> Der schulärztliche Dienst ist Sache der Gemeinden. Er überwacht die gesundheitlichen Verhältnisse an den öffentlichen und privaten Volksschulen und trifft die notwendigen Massnahmen. Der Gesundheitszustand der Schülerinnen und Schüler, der Lehrkräfte sowie des Personals wird durch periodisch durchzuführende schulärztliche Untersuchungen überprüft.
+
+<sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 60
+
+**Schulzahnärztlicher Dienst**
+
+<sup>1</sup> Der schulzahnärztliche Dienst bezweckt die Gesunderhaltung der Kauorgane und deren kostengünstige Behandlung.
+
+<sup>2</sup> Die Gemeinden führen für die öffentlichen und privaten Volksschulen den schulzahnärztlichen Dienst durch.
+
+<sup>3</sup> Die Aufgaben des schulzahnärztlichen Dienstes umfassen
+
+- a die erforderliche Prophylaxe:
+  - 1\. jährliche Kontrolluntersuchung,
+  - 2\. regelmässige vorbeugende Massnahmen in der Volksschule unter Beizug von Fachpersonal,
+- b das kostengünstige Angebot für die Behandlung kranker Kauorgane und anomaler Gebisse durch
+  - 1\. Ernennen von Schulzahnärztinnen und Schulzahnärzten,
+  - 2\. Anwenden des Schulzahnpflegetarifs.
+
+<sup>4</sup> Die Wohnsitzgemeinden tragen die Kosten der Prophylaxe, unterstützen minderbemittelte Eltern und können weitere Behandlungskostenbeiträge ausrichten.
+
+<sup>5</sup> Die Bildungs- und Kulturdirektion erlässt Empfehlungen.
+
+#### Art. 61
+
+**Erziehungsberatung, Kinder- und jugendpsychiatrischer Dienst**
+
+<sup>1</sup> Das Errichten und Führen von regionalen Erziehungsberatungsstellen sowie des Kinder- und Jugendpsychiatrischen Dienstes ist Aufgabe des Kantons.
+
+<sup>2</sup> Die Erziehungsberatung stellt die kinder- und jugendpsychologische sowie die schulpsychologische Versorgung in den Volksschulen, in den Berufsfachschulen und den Mittelschulen sicher. Sie fördert alle Massnahmen zur Verbesserung der Erziehungs-, Schulungs- und Entwicklungsverhältnisse.
+
+<sup>3</sup> Der Kinder- und Jugendpsychiatrische Dienst ergänzt die private kinder- und jugendpsychiatrische Versorgung.
+
+<sup>4</sup> Beide Dienste unterstützen Eltern, Familien, Lehrkräfte, andere Erziehende, Behörden und Institutionen mit Rat und Anleitung.
+
+<sup>5</sup> Abklärungen, Beratungen und Behandlungen durch die Erziehungsberatungsstellen sowie Abklärungen beim Kinder- und Jugendpsychiatrischen Dienst sind für die Eltern unentgeltlich. Ausgenommen sind die ordentlichen und die allfälligen zwischen Eltern und Krankenkassen vereinbarten Franchisen.
+
+<sup>6</sup> …
+
+<sup>7</sup> Der Regierungsrat regelt das Nähere durch Verordnung, insbesondere
+
+- a die Aufgaben, die Organisation und die Zusammenarbeit der Erziehungsberatung und des Kinder- und Jugendpsychiatrischen Dienstes,
+- b die Ausbildung und Diplomierung der Erziehungsberaterinnen und Erziehungsberater,
+- c die Voraussetzungen der Anstellung als Erziehungsberaterin oder Erziehungsberater.
+- d …
+
+#### Art. 61a
+
+**Befreiung von der Anzeigepflicht**
+
+<sup>1</sup> Die Gesundheits- und Beratungsdienste sowie die Lehrkräfte und ihre Aufsichtsbehörden sind von der Anzeigepflicht für von Amtes wegen zu verfolgende Verbrechen an die zuständige Strafverfolgungsbehörde gemäss Artikel 48 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^61a-1] befreit, soweit das Wohl des Kindes dies erfordert.
+
+[^61a-1]: BSG 271.1
+
+### 11.4 Allgemeine Bildungsbestrebungen
+
+#### Art. 62
+
+<sup>1</sup> Der Kanton kann allgemeine Bildungsbestrebungen wie kulturelle Veranstaltungen von und für Volksschulen, Klassenlektüre, Klassenaustausch unterstützen.
+
+<sup>2</sup> Er kann Urheberrechtsabgaben für die diesem Gesetz unterstehenden Volksschulen ganz oder teilweise übernehmen.
+
+<sup>3</sup> Er fördert insbesondere den Unterrichtsbesuch von Schülerinnen und Schülern des deutschsprachigen Sprachgebiets im französischsprachigen und umgekehrt.
+
+### 11.5 Schweizerschulen im Ausland
+
+#### Art. 63
+
+<sup>1</sup> Der Kanton kann Schweizerschulen im Ausland, für die er das Patronat übernommen hat, unterstützen, insbesondere mit Beiträgen und Beratung.
+
+## 12 Private Schulung
+
+### 12.1 Grundsatz
+
+#### Art. 64
+
+<sup>1</sup> Die Volksschulpflicht kann auch im Rahmen einer Privatschule oder durch Privatunterricht erfüllt werden.
+
+### 12.2 Privatschulen
+
+#### Art. 65
+
+**Bewilligung**
+
+<sup>1</sup> Privatschulen, in denen Kinder ihre Volksschulpflicht erfüllen, bedürfen einer Bewilligung der Bildungs- und Kulturdirektion.
+
+#### Art. 66
+
+**Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Die Bewilligung wird erteilt, wenn die Privatschule gewährleistet, dass
+
+- a die Aufgaben gemäss Artikel 2 oder Artikel 2a erfüllt werden,
+- b pädagogisch ausgebildete Personen diejenigen Personen anleiten und überwachen, die den Unterricht erteilen,
+- c genügende Schuleinrichtungen vorhanden sind,
+- d die für die öffentlichen Kindergarten-, Primar- und Realklassen geltenden Unterrichtsinhalte und -ziele im Rahmen der Schulstufen erreicht werden und
+- e die Unterrichtssprache sich unter Vorbehalt von Absatz 2 nach der Amtssprache der Region richtet.
+
+<sup>2</sup> Eine andere Unterrichtssprache in einzelnen Fächern kann bewilligt werden, wenn die Privatschule gewährleistet, dass die unterrichtenden Personen über die notwendigen Qualifikationen verfügen.
+
+#### Art. 66a
+
+**Bewilligungsvoraussetzungen für spezielle Privatschulen**
+
+<sup>1</sup> Privatschulen mit einer internationalen Ausrichtung, in denen Kinder unterrichtet werden, die keiner Integration bedürfen, wird die Bewilligung erteilt, wenn die Privatschule gewährleistet, dass
+
+- a die Aufgaben gemäss Artikel 2 oder Artikel 2a erfüllt werden,
+- b pädagogisch ausgebildetes Personal den Unterricht verantwortet,
+- c genügende Schuleinrichtungen vorhanden sind und
+- d die Unterrichtsinhalte und -ziele den Übertritt in die öffentlichen Ausbildungsgänge anderer Staaten ermöglichen.
+
+#### Art. 66b
+
+**Aufsicht und Entzug**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion beaufsichtigt die Privatschulen.
+
+<sup>2</sup> Privatschulen erstatten der Aufsichtsbehörde periodisch Bericht über das Einhalten der Bewilligungsvoraussetzungen.
+
+<sup>3</sup> Sie sind verpflichtet, der Aufsichtsbehörde Auskünfte zu erteilen, Einsicht in Akten zu gewähren, Zutritt zu den Schuleinrichtungen zu verschaffen und sie in allen Belangen zu unterstützen, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist. Sie können sich gegenüber der Aufsichtsbehörde nicht auf gesetzliche Geheimhaltungspflichten berufen.
+
+<sup>4</sup> Werden die Bewilligungsvoraussetzungen nicht eingehalten oder die Auskunfts- und Mitteilungspflichten verletzt, entzieht die Bildungs- und Kulturdirektion die Bewilligung.
+
+#### Art. 67
+
+**Beiträge**
+
+<sup>1</sup> Der Kanton kann Beiträge an Privatschulen leisten, sofern diese
+
+- a Schülerinnen und Schüler aufnehmen, ohne sie namentlich aufgrund ihrer kulturellen oder religiösen Herkunft auszugrenzen,
+- b nicht gewinnorientiert sind,
+- c das Einhalten von Qualitätsvorgaben gewährleisten und
+- d die Voraussetzungen gemäss Absatz 2 erfüllen.
+
+<sup>2</sup> Beiträge werden nur an Privatschulen gewährt, die
+
+- a die Attraktivität des Kantons als Standort internationaler Unternehmen massgeblich unterstützen oder
+- b eine angemessene Grösse aufweisen sowie seit längerem bestehen und damit eine nachhaltige Nachfrage dokumentieren.
+
+<sup>3</sup> Die Beiträge sind Finanzhilfen im Sinne der Staatsbeitragsgesetzgebung.
+
+<sup>4</sup> Sie werden pauschal pro Schülerin und Schüler ausgerichtet und betragen höchstens 20 Prozent der entsprechenden Kosten der öffentlichen Schule.
+
+<sup>5</sup> Der Regierungsrat bewilligt die Beiträge unter Vorbehalt der Ausgabenbefugnisse der Bildungs- und Kulturdirektion abschliessend.
+
+#### Art. 67a
+
+**Leistungsverträge**
+
+<sup>1</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion schliesst mit den beitragsberechtigten Privatschulen Leistungsverträge ab.
+
+<sup>2</sup> Die Leistungsverträge regeln die zu erbringenden Leistungen, die damit verbundenen Qualitätsvorgaben sowie die Berichterstattung und das Controlling.
+
+#### Art. 68
+
+**Kontrolle des Schulbesuches**
+
+<sup>1</sup> Der Schulbesuch ist in der Privatschule von der Schulleitung wie in der öffentlichen Schule zu überwachen. Sie hat strafbares unentschuldigtes Fernbleiben vom Unterricht der zuständigen Schulkommission zu melden. Im weiteren gelten die Artikel 32 und 33.
+
+#### Art. 69
+
+**Ein- und Austritt**
+
+<sup>1</sup> Die Inhaber von Privatschulen haben jährlich bis spätestens vier Wochen nach Beginn des Kindergarten- oder Schuljahres der Schulkommission der Gemeinde, in der ein Kind schulpflichtig ist, ein Verzeichnis der ihre Schule besuchenden Kinder, mit Angabe des Geburtsjahres der Kinder sowie der Namen und Adressen der Eltern, einzusenden.
+
+<sup>2</sup> Wenn sie im Laufe des Kindergarten- oder Schuljahres schulpflichtige Kinder aufnehmen oder entlassen, haben sie dies innert einer Woche der betreffenden Schulkommission schriftlich mitzuteilen.
+
+<sup>3</sup> Die Inhaber der Privatschulen sind für die Folgen der Nichtbeachtung dieser Vorschriften verantwortlich.
+
+#### Art. 70
+
+**Führung und Besuch einer nicht bewilligten Schule**
+
+<sup>1</sup> Wer ohne Bewilligung eine Privatschule führt, wird mit Busse bis 40'000 Franken bestraft.
+
+<sup>2</sup> Eltern, welche ihre Kinder schuldhaft in eine nicht bewilligte Schule oder Klasse schicken, werden gemäss den Artikeln 32 und 33 bestraft.
+
+### 12.3 Privatunterricht
+
+#### Art. 71
+
+**Bewilligung**
+
+<sup>1</sup> Eltern, die ihre Kinder selbst oder privat unterrichten lassen, bedürfen einer Bewilligung der zuständigen Stelle der Bildungs- und Kulturdirektion.
+
+#### Art. 71a
+
+**Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Die Bewilligung wird erteilt, wenn die Eltern gewährleisten, dass
+
+- a die Aufgaben gemäss Artikel 2 oder Artikel 2a erfüllt werden,
+- b pädagogisch ausgebildete Personen diejenigen Personen anleiten, die den Unterricht erteilen,
+- c genügende Einrichtungen für den Unterricht vorhanden sind,
+- d die für die öffentlichen Kindergarten-, Primar- und Realklassen geltenden Unterrichtsinhalte und -ziele im Rahmen der Schulstufen erreicht werden und
+- e die Unterrichtssprache sich unter Vorbehalt von Absatz 2 nach der Amtssprache der Region richtet.
+
+<sup>2</sup> Eine andere Unterrichtssprache kann bewilligt werden, wenn die Eltern gewährleisten, dass die unterrichtenden Personen über die notwendigen Qualifikationen verfügen.
+
+#### Art. 71b
+
+**Aufsicht und Entzug**
+
+<sup>1</sup> Für die Aufsicht über den Privatunterricht und den Entzug der Bewilligung gilt Artikel 66b sinngemäss.
+
+## 13 Rechtspflege und Datenschutz
+
+#### Art. 72
+
+**Rechtspflege**
+
+<sup>1</sup> Die regionalen Schulinspektorate beurteilen Beschwerden gegen Verfügungen, die Gemeindebehörden aufgrund dieses Gesetzes erlassen.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion beurteilt Beschwerden gegen Verfügungen und Beschwerdeentscheide der regionalen Schulinspektorate.
+
+<sup>3</sup> Über Beschwerden, die den Übertritt in die Sekundarstufe I betreffen, entscheidet das Schulinspektorat ohne Verzug.
+
+<sup>4</sup> Mit Beschwerde gegen Zeugnisnoten und Prüfungsergebnisse können nur Rechtsfehler gerügt werden.
+
+<sup>5</sup> Im Übrigen gilt das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^72-1]).
+
+[^72-1]: BSG 155.21
+
+#### Art. 73
+
+**Datenschutz**
+
+<sup>1</sup> Die Bearbeitung und die Bekanntgabe von Personendaten von Schülerinnen und Schülern richten sich nach der Datenschutzgesetzgebung.
+
+<sup>2</sup> Zusätzlich können die mit dem Vollzug dieses Gesetzes betrauten Personen einander im Einzelfall Daten von Schülerinnen und Schülern, einschliesslich besonders schützenswerter Daten, bekannt geben, wenn diese zur Erfüllung der jeweiligen gesetzlichen Aufgabe zwingend erforderlich sind. Besondere Geheimhaltungspflichten bleiben vorbehalten.
+
+<sup>3</sup> Zusätzlich können die mit dem Vollzug dieses Gesetzes betrauten Personen Daten von Schülerinnen und Schülern, einschliesslich besonders schützenswerter Daten, bekannt geben an die Behörden der abgebenden oder aufnehmenden Schulen, wenn die Bekanntgabe der Qualitätssicherung der Schullaufbahnentscheide dient.
+
+<sup>4</sup> Die Datenbearbeitung und -bekanntgabe in der interinstitutionellen Zusammenarbeit (IIZ) richten sich nach der kantonalen Arbeitsmarktgesetzgebung.
+
+<sup>5</sup> Der Regierungsrat regelt die Bearbeitung nicht besonders schützenswerter Personendaten durch Verordnung.
+
+## 14 Übergangs- und Schlussbestimmungen
+
+#### Art. 74
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat erlässt die notwendigen Vollzugsbestimmungen.
+
+<sup>2</sup> Er kann seine Befugnisse gemäss Artikel 12 Absätze 1 und 2, Artikel 12a Absatz 2, Artikel 17 Absatz 3, Artikel 17a Absatz 4, Artikel 25 Absatz 3, Artikel 26 Absätze 3 und 4, Artikel 27 Absatz 6, Artikel 46 Absatz 4, Artikel 46a Absatz 3, Artikel 47 Absätze 3 und 4, Artikel 49a Absatz 6, Artikel 49a1 Absatz 4, Artikel 49a2 Absatz 2, Artikel 49f Absatz 1, Artikel 54 Absatz 2 sowie Artikel 61 Absatz 7 ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 75
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die notwendigen Übergangsbestimmungen. Dabei gilt insbesondere:
+
+- a Inhaberinnen und Inhaber eines bernischen Primarlehrerpatentes oder eines entsprechenden Wahlfähigkeitsausweises können unbefristet an Primar- und Realklassen angestellt werden. Inhaberinnen und Inhaber eines bernischen Sekundarlehrerpatentes oder eines andern als gleichwertig anerkannten Ausweises können unbefristet an Sekundar- und Realklassen sowie an Klassen des 5. und 6. Schuljahres der Primarschule angestellt werden.
+- b Lehrerinnen und Lehrer, die an einem Schultyp der Volksschule bisher definitiv gewählt waren, können ausnahmsweise und ergänzend bis zu einem vollen Pensum am andern Volksschultyp unbefristet angestellt werden, wobei für die Besoldung jedoch die Buchstaben d und e gelten.
+- c An Klassen, in denen Real- und Sekundarschülerinnen und -schüler gemeinsam unterrichtet werden, können Inhaberinnen und Inhaber eines bernischen Primar- oder Sekundarlehrerpatentes unbefristet angestellt werden. Die Erziehungsdirektion kann ausnahmsweise für Personen mit anderen Lehrausweisen die unbefristete Anstellung zulassen.
+- d Bezüglich der Besoldungen sind die entsprechenden Vorschriften massgebend, wobei in Fällen nach Artikel 46 Absatz 3 für gemeinsamen Unterricht von Real- und Sekundarschülerinnen und -schülern für die Besoldungseinstufung die Ausbildung der Lehrkraft massgebend ist.
+- e …
+
+<sup>2</sup> Die Sekundarschulkommissionen setzen sich in Zusammenarbeit mit den betroffenen Primarschulkommissionen dafür ein, dass Lehrkräfte, die nicht mehr an der Sekundarschule beschäftigt werden können, an anderen Schulen weiter unterrichten können. In Härtefällen kann die Erziehungsdirektion für Lehrkräfte, die nicht mehr weiter unterrichten können, besondere Massnahmen für ihre weitere Beschäftigung treffen.
+
+#### Art. 76
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden geändert:
+
+- 1\. Gesetz vom 3. März 1957 über die Mittelschulen[^76-1]:
+- 2\. Kindergartengesetz vom 23. November 1983[^76-2]:
+
+[^76-1]: Aufgehoben; jetzt Mittelschulgesetz vom 27.3.2007, BSG 433.12
+[^76-2]: Aufgehoben durch Änderung vom 21.3.2012 dieses Gesetzes, BAG 12–61
+
+#### Art. 77
+
+**Aufhebung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
+
+- 1\. Gesetz vom 24. Juni 1856 über die Organisation des Schulwesens im Kanton Bern,
+- 2\. Gesetz vom 2. Dezember 1951 über die Primarschule,
+- 3\. Dekret vom 16. November 1971 über die Schulungskostenbeiträge für in Heimen und Krankenanstalten untergebrachte und für behinderte Kinder,
+- 4\. Dekret vom 7. November 1989 über die besonderen unterrichtlichen Massnahmen im 5. und 6. Schuljahr der Primarschule.
+
+#### Art. 78
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz wird vom Regierungsrat, nach Bedarf zeitlich gestaffelt, in Kraft gesetzt.
+
+<sup>2</sup> Bei zeitlich gestaffelter Inkraftsetzung bezeichnet der Regierungsrat im Inkraftsetzungsbeschluss die aufgehobenen Artikel des Primarschulgesetzes und des Mittelschulgesetzes.
+
+## T1 Übergangsbestimmung der Änderung vom 05.09.2001
+
+#### Art. T1-1
+
+<sup>1</sup> Für Beitragsgesuche, die vor Inkrafttreten der Aufhebung des Schulbaudekrets eingereicht worden sind, erfolgt die Beitragsberechnung gemäss den aufgehobenen Bestimmungen.
+
+## T2 Übergangsbestimmungen der Änderung vom 29.01.2008
+
+#### Art. T2-1
+
+<sup>1</sup> Die Amtsdauer der Mitglieder der Schulkommission der kantonalen Schule französischer Sprache endet am 31. Juli 2008.Die Erziehungsdirektion wählt die Schulkommission nach dieser Änderung erstmals auf den 1. August 2008. Schülerinnen und Schüler, die am 31. Juli 2008 die kantonale französischsprachige Schule besuchen, können diese weiterhin besuchen.
+
+<sup>2</sup> Die Erziehungsdirektion legt die Ferienzeiten erstmals für das Schuljahr 2010/2011 fest.
+
+<sup>3</sup> Die Gemeinden führen die Blockzeiten nach dieser Änderung auf den 1. August 2009 ein.
+
+<sup>4</sup> Die Gemeinden passen ihre Bestimmungen spätestens auf den 1. August 2010 dieser Änderung an. Vorbehalten bleibt Abs. 5.
+
+<sup>5</sup> Ab Inkrafttreten dieser Änderung können die Gemeinden Tagesschulangebote nach der Volksschulgesetzgebung führen. Die Gemeinden führen die Tagesschulangebote nach der Volksschulgesetzgebung spätestens ab dem 1. August 2010. Die Gemeinden, die bei Inkrafttreten dieser Änderung eine Tagesschule, einen Mittagstisch oder einen Tageshort nach den Bestimmungen der Sozialhilfegesetzgebung führen, führen Tagesschulangebote nach der Volksschulgesetzgebung auf den Beginn eines Schuljahres ein, frühestens aber auf den 1. August 2009. Die bei Inkrafttreten dieser Änderung geltenden, von der Gesundheits- und Fürsorgedirektion ausgestellten Ermächtigungen können jeweils nur auf das Ende eines Schuljahres beendet werden. Die Beendigung ist der Gesundheits- und Fürsorgedirektion sechs Monate im Voraus anzukündigen. Werden die Ermächtigungen nicht vorher beendet, so gelten sie bis am 31. Juli 2010. Neueröffnungen oder Ausbau von Tagesschulen, Mittagstischen und Tageshorten nach der Sozialhilfegesetzgebung werden ab Inkrafttreten dieser Änderung nicht mehr bewilligt.
+
+<sup>6</sup> Privatschulen mit einer Bewilligung nach bisherigem Recht haben bis am 31. Juli 2009 eine Bewilligung gemäss diesem Gesetz einzuholen. Beiträge können frühestens ab dem 1. August 2009 und nur an Privatschulen ausgerichtet werden, die über eine Bewilligung gemäss dieser Änderung verfügen.
+
+<sup>7</sup> Hängige Verfahren werden von der nach bisherigem Recht zuständigen Behörde erledigt. Die Rechtsmittel richten sich nach dieser Änderung.
+
+<sup>8</sup> Gegen Beschwerdeentscheide der regionalen Schulinspektorate, die vor dem 1. Januar 2009 ergehen, kann beim Regierungsrat Verwaltungsbeschwerde geführt werden, soweit nicht die Verwaltungsgerichtsbeschwerde an das Verwaltungsgericht möglich ist.
+
+## T3 Übergangsbestimmungen der Änderung vom 21.03.2012
+
+#### Art. T3-1
+
+<sup>1</sup> Die Gemeinden haben den zweijährigen Kindergarten ab dem Zeitpunkt des Inkrafttretens dieser Änderung anzubieten.
+
+<sup>2</sup> Am 1. August 2013 bzw. am 1. August 2014 treten diejenigen Kinder in den Kindergarten ein, welche das vierte Altersjahr vor dem 1. Mai des betreffenden Jahres vollendet haben. Kinder, welche das vierte Altersjahr vor dem 31. Juli vollendet haben, können in den Kindergarten eintreten, wenn die Gemeinde diese Möglichkeit vorsieht.
+
+<sup>3</sup> Privatschulen haben für den Kindergarten bis am 31. Juli 2014 eine Bewilligung gemäss diesem Gesetz einzuholen.
+
+Bern, 10. Juni 2014
+
+Im Namen des Grossen Rates
+
+Die Präsidentin: Struchen
+
+Der Generalsekretär: Trees
+
+RRB Nr. 1940 vom 19. Mai 1993:
+
+\1. Das Volksschulgesetz vom 19. März 1992 (VSG) wird wie folgt in Kraft gesetzt:
+
+a auf den 1. August 1993: die Artikel 45, 50, 51 und 75;die Gemeinden passen die Organisation der Schulbehörden in ihren Reglementen bis spätestens 1. August 1996 an.
+
+b auf den 1. August 1994: die Artikel 1 bis 7, 12 Absatz 2 Buchstaben d und i, 13, 15 bis 24, 26 bis 44, 47 bis 49, 53 bis 74;
+
+c auf den 1. August 1996: die Artikel 8 bis 12, 14, 25, 46, 52, 76 Ziffer 2, 77.
+
+\2. Das Gesetz vom 2. Dezember 1951 über die Primarschule (PSG) wird wie folgt ausser Kraft gesetzt:
+
+a auf den 1. August 1993: die Artikel 8, 82 bis 88a;
+
+b auf den 1. August 1994: die Artikel 1 bis 7, 9 bis 13, 15 bis 25, 28a bis 44, 46 bis 55, 55b, 57 bis 72, 74 bis 81, 89, 95 bis 103;
+
+c auf den 1. August 1996: die Artikel 14, 25a bis 28, 45, 55a, 55c, 56, 73, 90 bis 94.
+
+\3. Das Gesetz vom 3. März 1957 über die Mittelschulen (MSG) wird gemäss Artikel 76 Ziffer 1 VSG wie folgt ausser Kraft gesetzt bzw. geändert:
+
+a auf den 1. August 1993: der Artikel 79;
+
+b auf den 1. August 1994: die Artikel 13 bis 13b, 14b, 14e bis 18, 22, 27 bis 32, 37 bis 43, 46, 49, 53, 57, 62 bis 65, 67, 83;
+
+c auf den 1. August 1996: die Artikel 1, 10, 14c, 14d, 20, 21, 23 bis 26, 33 bis 36, 68, 69, 71 bis 74.
+
+1992 d 80 | f 82

@@ -1,0 +1,219 @@
+---
+canton: BE
+number: "811.011"
+title: Verordnung über die Rechte und Pflichten der Patientinnen und Patienten und der Gesundheitsfachpersonen
+short: "Patientenrechtsverordnung, PatV"
+language: de
+version: 2013-01-01
+valid_until: 2021-02-28
+version_adopted: 2012-10-24
+adopted: 2002-10-23
+in_force: 2003-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.011"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/346/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Rechte und Pflichten der Patientinnen und Patienten und der Gesundheitsfachpersonen
+
+(Patientenrechtsverordnung, PatV)
+
+vom 23.10.2002 (Stand 01.01.2013)
+
+Der Regierungsrat des Kantons Bern,
+
+gestützt auf die Artikel 38 und 40c des Gesundheitsgesetzes vom 2. Dezember 1984 (GesG)[^ingress-1],
+
+auf Antrag der Gesundheits- und Fürsorgedirektion,
+
+beschliesst:
+
+[^ingress-1]: BSG 811.01
+
+## 1 Geltungsbereich
+
+#### Art. 1
+
+<sup>1</sup> Diese Verordnung regelt, in Ergänzung der Bestimmungen des GesG,
+
+- a die Rechte und Pflichten der Patientinnen und Patienten sowie der Gesundheitsfachpersonen,
+- b …
+- c die Rechte und Pflichten der Patientinnen und Patienten in den öffentlich-rechtlichen Institutionen des Gesundheitswesens des Kantons.
+
+<sup>2</sup> Anwendbar sind im Übrigen die Vorschriften des GesG und des Gesetzes vom 2. Dezember 1973 über Spitäler und Schulen für Spitalberufe (Spitalgesetz, SpG)[^1-1]sowie des Datenschutzgesetzes vom 19. Februar 1986[^1-2].
+
+<sup>3</sup> Hinsichtlich der Anordnung von Zwangsmassnahmen sind die Vorschriften des schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB)[^1-3] und des Gesetzes vom 1. Februar 2012 über den Kindes- und Erwachsenenschutz (KESG)[^1-4] anwendbar.
+
+<sup>4</sup> Soweit dieser Verordnung oder den Erlassen gemäss Absatz 2 keine Vorschrift entnommen werden kann, gelten die einschlägigen Vorschriften des ZGB und des Bundesgesetzes vom 30. März 1911 betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches[^1-5] (Obligationenrecht).
+
+[^1-1]: Aufgehoben, jetzt Spitalversorgungsgesetz vom 13.6.2013; BSG 812.11
+[^1-2]: BSG 152.04
+[^1-3]: SR 210
+[^1-4]: BSG 213.316
+[^1-5]: SR 220
+
+## 2 Allgemeine Bestimmungen
+
+#### Art. 2
+
+**Zuständigkeit**
+
+<sup>1</sup> Das Kantonsarztamt ist die zuständige Stelle für die Anordnung der Ersatzvornahme nach Artikel 26 Absatz 5 GesG.
+
+#### Art. 3
+
+**Formen der Behandlungsdokumentation**
+
+<sup>1</sup> Die Behandlungsdokumentationen nach Artikel 26 GesG können sowohl handschriftlich als auch in anderer geeigneter Form, insbesondere elektronisch, geführt werden.
+
+#### Art. 4
+
+**Elektronische Behandlungsdokumentation**
+
+<sup>1</sup> Das bei elektronischen Behandlungsdokumentationen eingesetzte Informatiksystem muss insbesondere sicherstellen, dass
+
+- a die Daten ihrem Ursprung zugeordnet werden können (Authentizität),
+- b die Daten während der Bearbeitung unverfälscht, vollständig und widerspruchsfrei bleiben (Integrität),
+- c dokumentiert wird, wer welche Daten zu welchem Zeitpunkt im System eingegeben, verändert oder gelöscht hat (Revisionsfähigkeit),
+- d die Daten für die Einsichtnahme und Herausgabe nach Artikel 39a GesG verfügbar sind.
+
+<sup>2</sup> Elektronische Behandlungsdokumentationen sind durch angemessene organisatorische und technische Massnahmen insbesondere zu schützen vor
+
+- a äusseren Einwirkungen,
+- b unerlaubter Veränderung,
+- c Zugriff durch und Übermittlung an unbefugte Personen.
+
+<sup>3</sup> Die datenbearbeitende Stelle legt schriftlich fest, welche Grundschutzmassnahmen und welche zusätzlichen Schutzmassnahmen zu treffen sind.
+
+#### Art. 5
+
+**Zugriff auf Behandlungsdokumentationen und Einsichtnahme**
+
+<sup>1</sup> Die Behandlungsdokumentationen sind so aufzubewahren, dass Unbefugte sie nicht einsehen können.
+
+<sup>2</sup> Innerhalb von Institutionen muss der Zugriff auf die Behandlungsdokumentationen so geregelt sein, dass die Einsichtnahme auf den Teil der Behandlungsdokumentation beschränkt wird, der für die jeweilige Aufgabenerfüllung nötig ist.
+
+<sup>3</sup> Die Einsichtnahme durch Patientinnen und Patienten sowie die Herausgabe der Behandlungsdokumentation richten sich nach Artikel 39a GesG.
+
+#### Art. 6
+
+**Aufbewahrungspflicht**
+
+<sup>1</sup> Die Behandlungsdokumentationen sind so lange aufzubewahren, als sie für die Gesundheit der Patientin oder des Patienten von Interesse sind, mindestens aber während zehn Jahren nach Abschluss der Behandlung.
+
+<sup>2</sup> Während mindestens zwanzig Jahren aufzubewahren sind:
+
+- a Behandlungsdokumentationen von Kindern und Jugendlichen bis 18 Jahren,
+- b den Geburtsverlauf betreffende Behandlungsdokumentationen.
+
+<sup>3</sup> Für Behandlungsdokumentationen, die über Behandlungen erstellt werden, deren Risiken sich nach dem gewöhnlichen Lauf der Dinge erst spät verwirklichen können, ist eine angemessen längere Aufbewahrungsfrist vorzusehen.
+
+## 3
+
+#### Art. 7–10
+
+**…**
+
+## 4 Information der Bevölkerung über die Entnahme von Organen und Gewebe bei Verstorbenen
+
+#### Art. 11
+
+<sup>1</sup> Das Kantonsarztamt orientiert die Bevölkerung regelmässig über die Voraussetzungen der Entnahme von Organen und Gewebe bei Verstorbenen, insbesondere durch Publikationen in den amtlichen Anzeigern.
+
+## 5 Rechte und Pflichten der Patientinnen und Patienten und des Personals in öffentlich-rechtlichen Institutionen des Gesundheitswesens des Kantons
+
+#### Art. 12
+
+**Elektronische Datenbearbeitung durch Dritte**
+
+<sup>1</sup> Werden zur elektronischen Datenverarbeitung Personen oder Organisationen beigezogen, die nicht der Institution angehören (Outsourcing), so muss die Institution mit den beauftragten Personen und Organisationen einen schriftlichen Vertrag über die Datenbearbeitung abzuschliessen.
+
+<sup>2</sup> Der Vertrag muss insbesondere folgende Punkte enthalten:
+
+- a Umfang der Datenbearbeitung,
+- b Bestimmungen über die Schweigepflicht,
+- c Auflagen und Vereinbarungen betreffend Datensicherheit und Datenschutz.
+
+<sup>3</sup> Die Gesundheits- und Fürsorgedirektion kann Vorschriften über die Aufnahme bestimmter Vertragsbestimmungen erlassen.
+
+#### Art. 13
+
+**Information des Personals**
+
+<sup>1</sup> Das mit der Behandlung und Pflege betraute Personal ist über seine Rechte und Pflichten nach den Vorschriften des Gesundheitsgesetzes (Art. 22 bis 38) und seiner Ausführungsverordnungen zu informieren.
+
+#### Art. 14
+
+**Wegleitung**
+
+<sup>1</sup> Patientinnen und Patienten sind bei Eintritt in die Institution über ihre Rechte und Pflichten nach den Vorschriften des Gesundheitsgesetzes und dieser Verordnung durch eine schriftliche, allgemein verständliche Wegleitung zu informieren.
+
+<sup>2</sup> Die Wegleitung enthält insbesondere Hinweise über
+
+- a die einschlägigen Gesetzes- und Verordnungsbestimmungen, insbesondere über Obduktion und Entnahme von Organen und Gewebe, soweit diese in der betreffenden Institution durchgeführt werden,
+- b die Patientenberatungsstellen,
+- c die Aufbewahrungsdauer der Behandlungsdokumentation sowie über das Recht auf Einsichtnahme und Herausgabe derselben nach GesG.
+
+<sup>3</sup> Zusammen mit der Wegleitung sind den Patientinnen und Patienten Informationen über die Organisation der Institution, den Tagesablauf sowie die Regeln der Institution zu übergeben.
+
+#### Art. 15
+
+**Privatsphäre**
+
+<sup>1</sup> Die Privatsphäre der Patientinnen und Patienten ist zu wahren.
+
+<sup>2</sup> Die Patientinnen und Patienten haben das Recht, während der dafür festgelegten Zeiten Besuche zu empfangen. Soweit es die Organisation der Institution zulässt, ist den Patientinnen und Patienten auch zu gestatten, ausserhalb der festgelegten Besuchszeiten Besuche zu empfangen.
+
+<sup>3</sup> Auf die Wünsche der Patientinnen und Patienten, ihrer gesetzlichen Vertreterinnen und Vertreter, ihrer Angehörigen und ihnen nahe stehenden Personen ist angemessen Rücksicht zu nehmen, soweit dies in ärztlicher, pflegerischer und betrieblicher Hinsicht erforderlich und möglich ist.
+
+#### Art. 16
+
+**Pflichten**
+
+<sup>1</sup> Die Patientinnen und Patienten haben nach Möglichkeit zu einem erfolgreichen Verlauf der Behandlung beizutragen. Sie haben insbesondere
+
+- a den zuständigen Fachpersonen die für die Behandlung erforderlichen Auskünfte über bereits erfolgte oder vorgesehene Massnahmen zu erteilen,
+- b die Regeln des Hauses zu befolgen,
+- c auf Mitpatientinnen und Mitpatienten sowie das Personal Rücksicht zu nehmen,
+- d zu einer klaren Verständigung mit dem Personal beizutragen.
+
+#### Art. 17
+
+**Entlassung**
+
+<sup>1</sup> Beim Entscheid über die Entlassung von pflegebedürftigen Patientinnen und Patienten ist angemessen zu berücksichtigen, ob und wie die Betreuung nach der Entlassung gewährleistet ist.
+
+<sup>2</sup> Bestehen die Patientinnen und Patienten entgegen fachlichem Rat und nach erfolgter Aufklärung über Risiken und mögliche Folgen auf der Entlassung, so haben sie dies schriftlich zu bestätigen. Wenn sie die Unterschrift verweigern, wird ein entsprechender Vermerk in die Behandlungsdokumentation aufgenommen.
+
+## 6 Übergangs- und Schlussbestimmungen
+
+#### Art. 18
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Das nach Artikel 4 Absatz 3 erforderliche Schutzmassnahmenkonzept für elektronische Behandlungsdokumentationen ist innert zwölf Monaten nach Inkraftreten dieser Verordnung zu erstellen.
+
+#### Art. 19
+
+**Änderung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 11. August 1993 über die Amtsanzeiger (AnzV)[^19-1] wird wie folgt geändert:
+
+[^19-1]: Aufgehoben durch Änderung Gemeindeverordnung, BSG 170.111; BAG 10–68
+
+#### Art. 20
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2003 in Kraft.
+
+Bern, 23. Oktober 2002
+
+Im Namen des Regierungsrates
+
+Die Präsidentin: Zölch-Balmer
+
+Der Staatsschreiber: Nuspliger
+
+02-74

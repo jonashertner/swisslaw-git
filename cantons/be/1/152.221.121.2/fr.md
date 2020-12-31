@@ -1,0 +1,192 @@
+---
+canton: BE
+number: "152.221.121.2"
+title: "Ordonnance de Direction sur la délégation de compétences de la Direction de la santé, des affaires sociales et de l’intégration *"
+short: ODél DSSI
+language: fr
+version: 2020-01-01
+valid_until: 2021-07-31
+version_adopted: 2019-11-26
+adopted: 2001-01-17
+in_force: 2001-02-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121.2"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1761/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance de Direction sur la délégation de compétences de la Direction de la santé, des affaires sociales et de l’intégration
+
+(ODél DSSI)
+
+du 17.01.2001 (état au 01.01.2020)
+
+La Direction de la santé, des affaires sociales et de l’intégration du canton de Berne,
+
+vu l’article 43 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^ingress-1], l’article 5, alinéa 2 de l’ordonnance du 29 novembre 2000 sur l’organisation et les tâches de la Direction de la santé, des affaires sociales et de l’intégration (ordonnance d’organisation DSSI, OO DSSI)[^ingress-2], l’article 19, alinéa 2 de la loi du 16 septembre 2004 sur le personnel (LPers)[^ingress-3], les articles 2, alinéa 2, 8, alinéa 2, 12, alinéa 1, 84f, alinéa 1, 99, alinéa 1, 113, alinéa 1, 132, 156, 157, alinéa 1 et 175, alinéa 2, lettre b de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^ingress-4] et l’article 153, alinéa 1 de l’ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^ingress-5],
+
+arrête:
+
+[^ingress-1]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
+[^ingress-2]: RSB [152.221.121](https://www.belex.sites.be.ch/data/152.221.121/fr)
+[^ingress-3]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+[^ingress-4]: RSB [153.011.1](https://www.belex.sites.be.ch/data/153.011.1/fr)
+[^ingress-5]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
+
+## 1 Champ d'application
+
+#### Art. 1
+
+<sup>1</sup> La présente ordonnance règle la délégation de compétences de la Direction de la santé, des affaires sociales et de l’intégration en matière de personnel et d'autorisation de dépenses aux unités de l'administration qui lui sont subordonnées et aux unités administratives assimilées.
+
+<sup>2</sup> Les règles de compétence selon le droit de rang supérieur ainsi que les droits d'autres Directions de participer aux décisions et de donner leur accord prévus par la législation spéciale sont réservés.
+
+## 2 Compétences en matière de personnel
+
+### 2.1
+
+#### Art. 2
+
+**Création et résiliation des rapports de service 1. Conseil-exécutif**
+
+<sup>1</sup> Le Conseil-exécutif est compétent pour créer et résilier les rapports de service des titulaires des postes de cadre cités à l'article 20 OO DSSI.
+
+#### Art. 3
+
+**2. Directeur ou la directrice de la santé, des affaires sociales et de l’intégration**
+
+<sup>1</sup> Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration est compétente pour créer et résilier les rapports de service des titulaires des autres postes, pour autant que cette compétence ne soit pas déléguée par la présente ordonnance.
+
+#### Art. 4
+
+**3. Administration centrale**
+
+<sup>1</sup> Le secrétaire général ou la secrétaire générale et les chefs ou cheffes d'offices sont compétents pour créer et résilier les rapports de service de leurs collaborateurs et collaboratrices de l'administration centrale jusqu'à la classe de traitement 20.
+
+<sup>2</sup> Le secrétaire général ou la secrétaire générale et les chefs ou cheffes d’offices sont compétents pour créer et résilier les rapports de service à durée déterminée des collaborateurs et collaboratrices respectivement du Secrétariat général et des offices jusqu’à la classe de traitement 20, à l’exception des contrats concernant les postes de cadres au sens de l’article 2 de la présente ordonnance.
+
+<sup>3</sup> …
+
+#### Art. 5
+
+**4. Unités administratives assimilées**
+
+<sup>1</sup> Au sein des unités administratives assimilées, la création et la résiliation des rapports de service relèvent
+
+- a du directeur ou de la directrice du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee, du Foyer scolaire du Château de Cerlier et du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz,
+- b …
+
+#### Art. 6
+
+**Collaboration de la Division Personnel et organisation**
+
+<sup>1</sup> Pour la création d’un rapport de service, la Division Personnel et organisation du Secrétariat général sollicite l’accord de l’Office du personnel si le traitement de départ s’écarte des plages de valeurs fixées à l’annexe II de l’OPers.
+
+### 2.2
+
+#### Art. 7
+
+**Gestion de l’état des postes**
+
+<sup>1</sup> La gestion de l’état des postes et le déblocage de mutations de postes à l’intention de la Direction des finances incombent
+
+- a à la Division Personnel et organisation du Secrétariat général pour le Secrétariat général et les offices de l’administration centrale,
+- b …
+- c au directeur ou à la directrice du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee, du Foyer scolaire du Château de Cerlier et du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz, après approbation de l’Office des personnes âgées et handicapées.
+
+#### Art. 8
+
+**Autorisations relevant du droit du personnel**
+
+<sup>1</sup> La compétence d’accorder les autorisations suivantes relevant du droit du personnel est déléguée au secrétaire général ou à la secrétaire générale pour ce qui est du personnel du Secrétariat général, aux chefs et cheffes d’office pour ce qui est du personnel des offices, et à l’organe compétent des unités administratives assimilées selon leur règlement interne pour ce qui est de leur personnel:
+
+- a autorisation de travailler en dehors des locaux de service (art. 8, al. 2 OPers);
+- b …
+- c autorisation de conversion de la prime de fidélité en rémunération (art. 99, al. 1 OPers);
+- d autorisation d’utiliser des véhicules automobiles privés pour raisons de service (art. 113, al. 1 OPers);
+- e décision d’ordonner un service de garde (art. 84f, al. 1 OPers);
+- f décision d’ordonner des heures supplémentaires (art. 132 OPers);
+- g autorisation de congés payés de courte durée (art. 156 OPers);
+- h autorisation de congés non payés n’excédant pas un mois (art. 157, al. 1 OPers).
+
+<sup>2</sup> L’autorisation de congés pour la participation à un cours de perfectionnement externe relève de la compétence
+
+- a du chef ou de la cheffe d’office pour les congés d’une durée maximale de 10 jours ouvrés par cours (art. 175, al. 2, lit. a OPers),
+- b du secrétaire général ou de la secrétaire générale pour ce qui est du personnel du Secrétariat général et pour ce qui est du personnel des offices pour les congés de plus de 10 jours ouvrés par cours (art. 175, al. 2, lit. b et c O
+- c de l’organe compétent des unités administratives assimilées selon leur règlement interne pour ce qui est de leur personnel (art. 175, al. 2, lit. b et c OPers).
+
+## 3 Compétences en matière d'autorisation de dépenses
+
+#### Art. 9
+
+**Directeur ou la directrice de la santé, des affaires sociales et de l’intégration**
+
+<sup>1</sup> Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration autorise toutes les dépenses dont l’autorisation relève de la compétence de la Direction en vertu de l’article 152, alinéa 1 OFP ou selon les dispositions de la législation spéciale, pour autant que cette compétence n’ait pas été déléguée à des unités administratives subordonnées ou à des unités administratives assimilées en vertu des articles 10 et 11 de la présente ordonnance.
+
+#### Art. 10
+
+**Secrétariat général et offices**
+
+<sup>1</sup> Le secrétaire général ou la secrétaire générale ainsi que les chefs et cheffes d’office autorisent, sous réserve de l’alinéa 3, les crédits d’engagement suivants relevant de leurs domaines de compétence:
+
+- a dépenses nouvelles uniques inférieures ou égales à 200 000 francs,
+- b dépenses nouvelles périodiques inférieures ou égales à 50 000 francs,
+- c dépenses liées uniques inférieures ou égales à 500 000 francs,
+- d dépenses liées périodiques inférieures ou égales à 100 000 francs.
+
+<sup>2</sup> Le secrétaire général ou la secrétaire générale ainsi que les chefs et cheffes d’office peuvent déléguer, dans le règlement interne de leur unité administrative, tout ou partie de cette compétence à leurs suppléants et suppléantes ainsi qu’aux responsables des secteurs et services qui leur sont subordonnés.
+
+<sup>3</sup> Les chefs et cheffes d'office autorisent tous les crédits d’engagement relevant de leurs domaines de compétence pour des subventions d’exploitation versées à des organismes responsables proposant des prestations d’aide sociale institutionnelle, dans la mesure où il leur incombe de conclure les contrats ou mandats de prestations avec lesdits organismes responsables. L'alinéa 4 est réservé.
+
+<sup>4</sup> Ils soumettent périodiquement au directeur ou à la directrice de la santé, des affaires sociales et de l’intégration une liste des crédits d’engagement visés à l’alinéa 3 qui sont prévus. Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration peut refuser certains crédits d’engagement dans le délai convenu avec le chef ou la cheffe d’office.
+
+#### Art. 11
+
+**Unités administratives assimilées**
+
+<sup>1</sup> Le directeur ou la directrice du Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee, du Foyer scolaire du Château de Cerlier et du Centre de pédagogie spécialisée Landorf Köniz-Schlössli Kehrsatz autorisent les crédits d’engagements suivants relevant de leurs domaines de compétence:
+
+- a dépenses nouvelles uniques inférieures ou égales à 500 000 francs,
+- b dépenses nouvelles périodiques inférieures ou égales à 100 000 francs,
+- c dépenses liées uniques inférieures ou égales à 1 000 000 francs,
+- d dépenses liées périodiques inférieures ou égales à 200 000 francs.
+
+<sup>2</sup> Le règlement interne peut prévoir que tout ou partie de ces compétences soient déléguées aux suppléants ou suppléantes ou aux responsables des secteurs et services subordonnés.
+
+#### Art. 12–13
+
+**…**
+
+## 4 Compétences en matière de signature
+
+#### Art. 14
+
+<sup>1</sup> La répartition des compétences en matière de signature est analogue à celle des compétences en matière de personnel et d'autorisation de dépenses.
+
+<sup>2</sup> En cas d'empêchement, la compétence revient au suppléant ou à la suppléante.
+
+## 5 Dispositions transitoires et dispositions finales
+
+#### Art. 15
+
+**Disposition transitoire**
+
+<sup>1</sup> La présente ordonnance s'applique à tous les rapports de service existants et à toutes les procédures d'engagement en cours au moment de son entrée en vigueur.
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2001.
+
+<sup>2</sup> Elle est publiée en application des articles 7 et 8 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^16-1] (publication extraordinaire).
+
+[^16-1]: RSB 103.1
+
+Berne, le 17 janvier 2001
+
+Le directeur de la santé publique
+
+et de la prévoyance sociale: Bhend
+
+01-14

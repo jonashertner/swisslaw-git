@@ -1,0 +1,1214 @@
+---
+canton: BE
+number: "436.11"
+title: Gesetz über die Universität
+short: UniG
+language: de
+version: 2020-07-01
+valid_until: 2022-12-31
+version_adopted: 2020-04-22
+adopted: 1996-09-05
+in_force: 1998-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.11"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1855/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Universität
+
+(UniG)
+
+vom 05.09.1996 (Stand 01.07.2020)
+
+Der Grosse Rat des Kantons Bern,
+
+in Ausführung von Artikel 44 der Kantonsverfassung[^ingress-1],
+
+auf Antrag des Regierungsrates,
+
+beschliesst:
+
+[^ingress-1]: BSG 101.1
+
+## 1 Grundlagen
+
+#### Art. 1
+
+**Grundsätzliches**
+
+<sup>1</sup> Der Kanton unterhält eine Universität.
+
+<sup>2</sup> Die Universität Bern ist eine öffentlichrechtliche Anstalt mit eigener Rechtspersönlichkeit. Sie ist innerhalb der Grenzen von Verfassung und Gesetz autonom.
+
+<sup>3</sup> Sie erfüllt ihre Aufgaben im Dienst der Allgemeinheit. Sie achtet und schützt die Würde des Menschen und der Natur.
+
+#### Art. 2
+
+**Kernaufgaben**
+
+<sup>1</sup> Die Universität
+
+- a bildet die Studierenden wissenschaftlich aus und bereitet sie auf die Tätigkeit in akademischen Berufen vor;
+- b wirkt an der Lehrerinnen- und Lehrerbildung sowie an weiteren Bildungsgängen mit;
+- c bildet den wissenschaftlichen Nachwuchs heran;
+- d wirkt an der Weiter- und Fortbildung mit.
+
+<sup>2</sup> Sie fördert durch Forschung die wissenschaftliche Erkenntnis.
+
+<sup>3</sup> Sie fördert die fächerübergreifende Forschung und Lehre sowie die Reflexion der Voraussetzungen und Wirkungen wissenschaftlicher Tätigkeit.
+
+<sup>4</sup> Sie erbringt Dienstleistungen, die im Zusammenhang mit ihrer Bildungs- und Forschungsaufgabe stehen.
+
+<sup>5</sup> Sie fördert den Wissens- und Innovationstransfer und leistet einen wirkungsvollen Beitrag zur Nachhaltigen Entwicklung.
+
+<sup>6</sup> Sie führt eine wissenschaftliche Bibliothek, die ihren Angehörigen und der Öffentlichkeit zugänglich ist.
+
+#### Art. 3
+
+**Statut, Leitbild**
+
+<sup>1</sup> Die Universität erlässt das Universitätsstatut.
+
+<sup>2</sup> Sie gibt sich ein Leitbild.
+
+<sup>3</sup> Sie erlässt die zur Erfüllung ihrer Aufgaben erforderlichen Reglemente.
+
+#### Art. 4
+
+**Titel, Bescheinigungen**
+
+<sup>1</sup> Die Universität verleiht
+
+- a Bachelor- und Mastertitel sowie Lizenziate und Diplome,
+- b Doktorate,
+- c die Habilitation.
+
+<sup>2</sup> Sie kann verleihen
+
+- a das Ehrendoktorat für hervorragende Leistungen in Wissenschaft oder Beruf,
+- b …
+- c die Honorarprofessur für Persönlichkeiten in wissenschaftlichem Beruf oder öffentlicher Stellung.
+
+<sup>3</sup> Sie kann im Universitätsstatut weitere Titel schaffen.
+
+<sup>4</sup> Sie entzieht einen Titel
+
+- a bei Erwerb durch Täuschung oder Irrtum,
+- b bei Begehung einer schweren Straftat in Ausübung der wissenschaftlichen Tätigkeit.
+
+<sup>5</sup> Sie stellt für erbrachte Studienleistungen Bescheinigungen aus.
+
+#### Art. 5
+
+**Qualitätssicherung und -entwicklung**
+
+<sup>1</sup> Die Universität überprüft, sichert und entwickelt regelmässig die Qualität von Lehre, Forschung und Dienstleistung.
+
+<sup>2</sup> Der Regierungsrat regelt die Grundzüge.
+
+#### Art. 6
+
+**Zusammenarbeit**
+
+<sup>1</sup> Die Universität arbeitet mit Dritten zusammen, namentlich mit
+
+- a kantonalen, schweizerischen und ausländischen Hochschulen,
+- b Institutionen und Organisationen aus Forschung, Wissenschaft und Bildung,
+- c Wirtschaft und Verwaltung,
+- d Gymnasien.
+
+<sup>2</sup> Sie arbeitet mit den Universitätsspitälern sowie mit weiteren Spitälern zusammen.
+
+<sup>3</sup> Sie fördert den Austausch von Studierenden, Forschenden und Lehrenden aus dem In- und Ausland.
+
+<sup>4</sup> Sie fördert die gegenseitige Anerkennung von Studienleistungen und Abschlüssen aus dem In- und Ausland.
+
+#### Art. 7
+
+**Koordination**
+
+<sup>1</sup> Die Universität koordiniert ihre Lehrangebote, Forschungsbereiche und Dienstleistungen.
+
+<sup>2</sup> Sie wirkt an den kantonalen und schweizerischen Bestrebungen zur Koordination und Aufgabenteilung in Lehre und Forschung mit.
+
+#### Art. 8
+
+**Beziehungen zur Öffentlichkeit**
+
+<sup>1</sup> Die Universität fördert das Verständnis der Öffentlichkeit für ihre wissenschaftlichen Ziele. Namentlich informiert sie regelmässig über Schwerpunkte und Ergebnisse ihrer Tätigkeit.
+
+<sup>2</sup> Sie führt Veranstaltungen zur allgemeinen Bildung durch.
+
+## 2 Angehörige der Universität
+
+### 2.1 Gemeinsame Bestimmungen
+
+#### Art. 9
+
+**Begriff**
+
+<sup>1</sup> Angehörige der Universität sind die Studierenden sowie die Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter sind
+
+- a die Dozentinnen und Dozenten,
+- b die Assistentinnen und Assistenten,
+- c die weiteren Mitarbeiterinnen und Mitarbeiter.
+
+#### Art. 10
+
+**Freiheit und Verantwortung der Wissenschaft**
+
+<sup>1</sup> Die Freiheit von Forschung und Lehre ist gewährleistet.
+
+<sup>2</sup> Die Studierenden werden darauf vorbereitet, nach wissenschaftlichen Methoden und Erkenntnissen sowie nach ethischen Grundsätzen zu handeln.
+
+<sup>3</sup> Lernfreiheit besteht im Rahmen der Studienreglemente und Studienpläne.
+
+#### Art. 11
+
+**Sprachen**
+
+<sup>1</sup> Die deutsche und französische Landessprache sind gleichberechtigt.
+
+<sup>2</sup> Unterrichtssprachen sind Deutsch und nach Bedarf und Möglichkeit Französisch. Es können auch Veranstaltungen in anderen Sprachen durchgeführt werden.
+
+<sup>3</sup> Die Studierenden haben das Recht, Studienleistungen, namentlich Prüfungen und Arbeiten, auf deutsch oder französisch zu erbringen.
+
+#### Art. 12
+
+**Gleichstellung von Frau und Mann**
+
+<sup>1</sup> Frauen und Männer sind an der Universität gleichberechtigt.
+
+<sup>2</sup> Die Universität fördert durch geeignete Massnahmen die tatsächliche Gleichstellung von Frauen und Männern, namentlich eine ausgewogene Vertretung beider Geschlechter auf allen Stufen und in allen Gremien.
+
+<sup>3</sup> Das Universitätsstatut regelt die Ausgestaltung.
+
+#### Art. 13
+
+**Mitwirkung und Mitbestimmung**
+
+<sup>1</sup> Die Angehörigen der Universität haben grundsätzlich das Recht auf Mitwirkung und Mitbestimmung. Sie sind insbesondere im Senat, in den ständigen Kommissionen und in den Fakultätskollegien vertreten.
+
+<sup>2</sup> Das Universitätsstatut regelt die Ausgestaltung. Es gewährleistet die Mitwirkung und Mitbestimmung insbesondere bei
+
+- a der Neuordnung der Studien,
+- b der Qualitätssicherung und -entwicklung sowie
+- c der Vorbereitung der Anstellung von ordentlichen und ausserordentlichen Professorinnen und Professoren.
+
+#### Art. 14
+
+**Information, Anträge**
+
+<sup>1</sup> Die Angehörigen der Universität werden durch die Universitätsleitung, die Dekanate, die Institute und die übrigen zuständigen Stellen über ihre Angelegenheiten informiert. Sie können Anfragen und Anträge an diese Stellen richten.
+
+#### Art. 15
+
+**Soziale und kulturelle Einrichtungen**
+
+<sup>1</sup> Die Universität kann für ihre Angehörigen soziale und kulturelle Einrichtungen führen oder solche Einrichtungen unterstützen.
+
+<sup>2</sup> Das Universitätsstatut regelt das Nähere.
+
+#### Art. 16
+
+**Beratung**
+
+<sup>1</sup> Die Universität bietet Beratung und Information an zur Studiengestaltung, zum wirksamen Lernen und Lehren sowie zur Bewältigung von Schwierigkeiten im Studium.
+
+#### Art. 17
+
+**Wissenschaftliche Veröffentlichungen**
+
+<sup>1</sup> In Veröffentlichungen werden als Mitautorinnen und Mitautoren alle Personen aufgeführt, die einen eigenen wissenschaftlichen Beitrag geleistet haben.
+
+### 2.2 Mitarbeiterinnen und Mitarbeiter
+
+### 2.2.1 Allgemeine Bestimmungen
+
+#### Art. 18
+
+**Personalrecht, Gehalt, Anstellung**
+
+<sup>1</sup> Soweit dieses Gesetz und seine Ausführungsbestimmungen keine besonderen Vorschriften über die Anstellung der Mitarbeiterinnen und Mitarbeiter enthalten, gilt die Personalgesetzgebung.
+
+<sup>2</sup> …
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere zum Gehalt und zur Anstellung sowie die Zuständigkeiten durch Verordnung. Er kann für die in Forschung und Lehre tätigen Mitarbeiterinnen und Mitarbeiter Regelungen vorsehen, die von der Personalgesetzgebung abweichen; dies gilt für
+
+- a die Befristung des Angestelltenverhältnisses,
+- b die Bemessung des Gehalts innerhalb der gesetzlichen Höchstbeträge,
+- c die Fristen und Termine für die Beendigung des Angestelltenverhältnisses,
+- d die Folgen der Beendigung des Angestelltenverhältnisses,
+- e die Regelungen betreffend finanzielle Abgeltung von Ferien- und Zeitguthaben,
+- f die Regelungen betreffend Langzeitkonti.
+
+#### Art. 19
+
+**Nebenbeschäftigung**
+
+<sup>1</sup> Nebenbeschäftigungen sind bewilligungspflichtig. Sie dürfen die dienstliche Tätigkeit und den Universitätsbetrieb nicht beeinträchtigen.
+
+<sup>2</sup> Als Nebenbeschäftigung gilt eine Tätigkeit, die nicht zum Grundauftrag der Mitarbeiterin oder des Mitarbeiters gehört und zu wesentlichen Teilen persönlich ausgeführt wird.
+
+<sup>3</sup> Die Nebenbeschäftigungen, die zeitliche Belastung und die Erträge sind jährlich in Form einer Selbstdeklaration zu melden.
+
+<sup>4</sup> Wird bei einer Nebenbeschäftigung die Infrastruktur der Universität beansprucht, so sind die Kosten abzugelten.
+
+<sup>5</sup> Bei dauernder erheblicher Belastung wird die Bewilligung grundsätzlich an die Bedingung geknüpft, den Beschäftigungsgrad herabzusetzen.
+
+#### Art. 20
+
+**Didaktische und Führungsfähigkeiten**
+
+<sup>1</sup> Die Universität fördert
+
+- a die didaktischen Fähigkeiten ihrer in der Lehre tätigen Mitarbeiterinnen und Mitarbeiter,
+- b die Führungsfähigkeiten ihrer Mitarbeiterinnen und Mitarbeiter mit Führungsverantwortung,
+- c die fachliche und fächerübergreifende Fortbildung ihrer Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Bei ungenügenden didaktischen Fähigkeiten wird die Dozentin oder der Dozent zu einer entsprechenden Fortbildung verpflichtet.
+
+### 2.2.2 Dozentinnen und Dozenten
+
+#### Art. 21
+
+**Kategorien**
+
+<sup>1</sup> Dozentinnen und Dozenten sind
+
+- a die ordentlichen Professorinnen und Professoren,
+- b die ausserordentlichen Professorinnen und Professoren,
+- c die hauptamtlichen Dozentinnen und Dozenten,
+- d die Assistenzprofessorinnen und Assistenzprofessoren,
+- e die Lehrbeauftragten,
+- f die Gastdozentinnen und Gastdozenten.
+
+<sup>2</sup> Der Regierungsrat kann, soweit erforderlich, die Kategorien weiter unterscheiden, bestehende Kategorien aufheben oder neue schaffen.
+
+#### Art. 22
+
+**Forschungs- und Bildungsurlaube**
+
+<sup>1</sup> Die Universität kann Dozentinnen und Dozenten Forschungs- oder Bildungsurlaube gewähren.
+
+<sup>2</sup> Über den Forschungs- oder Bildungsurlaub ist Rechenschaft abzulegen.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere, insbesondere die Einzelheiten zur Gewährung von Forschungs- und Bildungsurlauben sowie den Umfang der Gehaltskürzung und der Rückzahlungspflicht, durch Verordnung.
+
+#### Art. 23
+
+**Ordentliche und ausserordentliche Professorinnen und Professoren**
+
+<sup>1</sup> Die Besetzung einer ordentlichen oder ausserordentlichen Professur setzt einen Bedarfsnachweis voraus.
+
+<sup>2</sup> Die Fakultät schlägt geeignete Kandidatinnen oder Kandidaten vor. Bei nichtfakultären ordentlichen oder ausserordentlichen Professuren bestimmt das Universitätsstatut, welches Organ oder welche Kommission für die Vorbereitung zuständig ist.
+
+<sup>3</sup> …
+
+#### Art. 24
+
+**2 Beitrag an den Einkauf in eine Pensionskasse**
+
+<sup>1</sup> Bei der Anstellung von ordentlichen oder ausserordentlichen Professorinnen und Professoren kann die Universität ausnahmsweise Beiträge für den Einkauf in eine Pensionskasse gewähren.
+
+<sup>2</sup> Der Beitrag darf 200'000 Franken und den selbst geleisteten Einkauf der anzustellenden Person nicht überschreiten.
+
+<sup>3</sup> Der gewährte Beitrag ist bei Auflösung des Anstellungsverhältnisses während der ersten drei Jahre nach der Anstellung vollständig zurückzuzahlen. Bei einer späteren Auflösung des Anstellungsverhältnisses vermindert sich die rückzahlungspflichtige Summe je vollendetes Dienstjahr um fünf Prozent des gewährten Beitrags.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 25
+
+**Assistenzprofessorinnen und Assistenzprofessoren**
+
+<sup>1</sup> Die Dauer der Anstellung von Assistenzprofessorinnen und Assistenzprofessoren ist befristet.
+
+#### Art. 26
+
+**Interessenvertretung**
+
+<sup>1</sup> Die Dozentinnen und Dozenten gemäss Artikel 21 Absatz 1 Buchstaben c bis f können sich zur Wahrung ihrer Interessen in einem Verein zusammenschliessen. Dieser nimmt ihre Mitwirkungs- und Mitbestimmungsrechte wahr.
+
+### 2.2.3 Assistentinnen und Assistenten
+
+#### Art. 27
+
+**Grundsätze**
+
+<sup>1</sup> Die Assistentinnen und Assistenten wirken an Lehre, Forschung und Dienstleistung mit.
+
+<sup>2</sup> Sie sind befugt, einen angemessenen Teil ihrer Arbeitszeit für Fortbildung und eigene wissenschaftliche Arbeiten zu verwenden, namentlich für Promotion und Habilitation.
+
+<sup>3</sup> Die Dauer der Anstellung von Assistentinnen und Assistenten ist befristet.
+
+<sup>4</sup> Der Regierungsrat legt die Kategorien der Assistentinnen und Assistenten fest.
+
+#### Art. 28
+
+**Interessenvertretung**
+
+<sup>1</sup> Die Assistentinnen und Assistenten können sich zur Wahrung ihrer Interessen in einem Verein zusammenschliessen. Dieser nimmt ihre Mitwirkungs- und Mitbestimmungsrechte wahr.
+
+### 2.3 Studierende
+
+#### Art. 29
+
+**Zulassung zum Bachelor- und zum Master-Studiengang**
+
+<sup>1</sup> Als Studentin oder Student wird zu einem Bachelor-Studiengang zugelassen, wer
+
+- a einen eidgenössischen oder eidgenössisch anerkannten Maturitätsausweis besitzt,
+- b Inhaberin oder Inhaber eines Bachelortitels einer schweizerischen universitären Hochschule, Fachhochschule oder pädagogischen Hochschule ist,
+- c sich über eine als gleichwertig anerkannte Vorbildung ausweist,
+- d einen Berufsmaturitätsausweis zusammen mit dem Ausweis über bestandene Ergänzungsprüfungen der Schweizerischen Maturitätskommission besitzt,
+- e sich über eine teilweise anerkannte Vorbildung ausweist und die Aufnahmeprüfung bestanden hat oder,
+- f das 30. Lebensjahr vollendet hat und in einem Aufnahmeverfahren nachweist, über die Hochschulreife für den gewählten Studiengang zu verfügen.
+
+<sup>2</sup> Die Universität regelt die Aufnahmebedingungen und das Aufnahmeverfahren gemäss Absatz 1 Buchstabe f durch Reglement.
+
+<sup>3</sup> Ein Bachelortitel einer schweizerischen universitären Hochschule oder ein gleichwertiger Abschluss berechtigen zur Zulassung zu allen Master-Studiengängen in der entsprechenden Studienrichtung.
+
+<sup>4</sup> Ein Bachelortitel einer schweizerischen universitären Hochschule oder ein gleichwertiger Abschluss berechtigen zur Zulassung zu allen Master-Studiengängen in einer anderen Studienrichtung, sofern die in den Studienreglementen gestellten zusätzlichen Anforderungen erfüllt werden.
+
+<sup>5</sup> Ein endgültiger Ausschluss in einem Studiengang infolge Nichtbestehens von Leistungskontrollen an einer anderen Hochschule schliesst eine Zulassung zum Studium im gleichen Studiengang aus. Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
+
+<sup>6</sup> Die Zulassungsvoraussetzungen nach Bundesrecht bleiben vorbehalten.
+
+<sup>7</sup> Die Universität regelt das Nähere zur Gleichwertigkeit gemäss den Absätzen 1, 3 und 4 durch Reglement.
+
+#### Art. 29a
+
+**Zulassung zur Weiterbildung**
+
+<sup>1</sup> Die Universität regelt die Zulassung zu ihren Weiterbildungsangeboten in den Weiterbildungsreglementen.
+
+#### Art. 29b
+
+**Verfahren**
+
+<sup>1</sup> Das Universitätsstatut regelt das Verfahren der Anmeldung und der Immatrikulation sowie das Verfahren der Exmatrikulation.
+
+#### Art. 29c
+
+**Zulassungsbeschränkungen 1 Grundsatz**
+
+<sup>1</sup> Die Zulassung kann für die Studiengänge der Medizin sowie der Sportwissenschaften beschränkt werden, sofern
+
+- a die Universität geeignete Massnahmen zur Vermeidung von Beschränkungen ergriffen hat,
+- b die Ressourcen des Kantons und der Universität eine Verbesserung der Aufnahmefähigkeit nicht zulassen,
+- c ein ordnungsgemässes Studium nicht mehr sichergestellt werden kann und
+- d die Koordination mit den anderen Universitäten gewährleistet ist.
+
+<sup>2</sup> Die Beschränkungen dürfen nur so lange andauern und nur so weit gehen, als dies die vorhandenen Kapazitäten in den betroffenen Studiengängen erfordern.
+
+#### Art. 29d
+
+**2 Eignung**
+
+<sup>1</sup> Bei Zulassungsbeschränkungen zum Bachelor-Studiengang entscheidet die Eignung der Studienanwärterinnen und Studienanwärter über die Zulassung.
+
+<sup>2</sup> Die Eignungsabklärung erfolgt vor Aufnahme des Bachelor-Studiengangs durch fachbezogene Eignungsverfahren.
+
+<sup>3</sup> Bei Zulassungsbeschränkungen zum Master-Studiengang entscheidet in erster Linie der Studienort des Bachelor-Studiengangs über die Zulassung.
+
+<sup>4</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 29e
+
+**3 Anordnung**
+
+<sup>1</sup> Der Regierungsrat beschliesst die Zulassungsbeschränkungen auf Antrag der Universitätsleitung jeweils für ein Jahr.
+
+<sup>2</sup> Die Vereinigung der Studierenden ist anzuhören.
+
+#### Art. 29f
+
+**4 Ausländische Studienanwärterinnen und Studienanwärter**
+
+<sup>1</sup> Bei Zulassungsbeschränkungen können für ausländische Studienanwärterinnen und Studienanwärter ohne Niederlassungsbewilligung besondere Zulassungsbedingungen festgelegt werden, insbesondere betreffend Wohnsitz, Ausländerstatus und Vorbildungsausweis.
+
+<sup>2</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 30
+
+**Studiendauer**
+
+<sup>1</sup> Die Studienpläne sind so auszugestalten, dass Vollzeitstudierende ihr Studium in der Regelzeit, die durch die Studienreglemente vorgesehen ist, abschliessen können.
+
+<sup>2</sup> Die Studienreglemente können die Dauer der einzelnen Studiengänge und Studienabschnitte beschränken. Sie sehen Fristverlängerungen aus wichtigen Gründen vor.
+
+<sup>3</sup> Sie können den Ausschluss vom betreffenden Studiengang vorsehen, wenn eine Frist ohne wichtigen Grund überschritten wird.
+
+#### Art. 31
+
+**Vereinigung der Studierenden 1 Grundsatz**
+
+<sup>1</sup> Die immatrikulierten Studierenden bilden die Vereinigung der Studierenden. Wer dieser Vereinigung nicht angehören will, teilt dies der Universitätsleitung schriftlich mit.
+
+<sup>2</sup> Die Vereinigung der Studierenden ist eine öffentlichrechtliche Körperschaft mit eigener Rechtspersönlichkeit.
+
+<sup>3</sup> Sie kann sich in Fachschaften gliedern. Sie kann Mitglied eines schweizerischen Dachverbandes der Studierenden sein.
+
+#### Art. 32
+
+**2 Aufgaben, Finanzierung**
+
+<sup>1</sup> Die Vereinigung der Studierenden vertritt die auf die Ausbildung bezogenen Anliegen und Interessen der Studierenden. Sie ist dabei parteipolitisch und konfessionell neutral.
+
+<sup>2</sup> Sie kann den Studierenden und weiteren Angehörigen der Universität Dienstleistungen und kulturelle Veranstaltungen anbieten.
+
+<sup>3</sup> Die Universität erhebt von den Mitgliedern der Vereinigung der Studierenden eine Gebühr zur Finanzierung der Vereinigung der Studierenden.
+
+## 3 Organisation
+
+### 3.1 Allgemeine Bestimmungen
+
+#### Art. 33
+
+**Gliederung der Universität**
+
+<sup>1</sup> Die Universität besteht aus folgenden Organisationseinheiten:
+
+- a Gesamtuniversität,
+- b Fakultäten,
+- c Instituten,
+- d weiteren Organisationseinheiten.
+
+<sup>2</sup> Der Regierungsrat beschliesst über die Schaffung und Aufhebung von Fakultäten.
+
+<sup>3</sup> Im Übrigen regelt die Universität die Organisation im Universitätsstatut und in den Reglementen.
+
+#### Art. 34
+
+**Organe**
+
+<sup>1</sup> Die Organe der Universität sind
+
+- a der Senat,
+- b die Universitätsleitung,
+- c die Rektorin oder der Rektor,
+- d die Fakultätskollegien,
+- e die Dekaninnen oder Dekane,
+- f ...[^34-1]
+- g die Rekurskommission.
+
+<sup>2</sup> Das Universitätsstatut kann weitere Organe einsetzen.
+
+[^34-1]: Artikel 34 Absatz 1 Buchstabe f des Gesetzes vom 5. September 1996 über die Universität wird gar nie in Kraft gesetzt, sondern mit diesem Gesetz bereits wieder aufgehoben; BAG 05–65 (Art. 81)
+
+### 3.2 Gesamtuniversität
+
+### 3.2.1 Senat
+
+#### Art. 35
+
+**Stellung, Zusammensetzung**
+
+<sup>1</sup> Der Senat ist das oberste rechtsetzende Organ der Universität und unterstützt die Universitätsleitung bei der Erfüllung des Leistungsauftrags des Regierungsrates.
+
+<sup>2</sup> Dem Senat gehören an
+
+- a die Rektorin oder der Rektor,
+- b die Dekaninnen oder Dekane,
+- c je eine weitere Delegierte oder ein weiterer Delegierter der grossen Fakultäten,
+- d eine Delegierte oder ein Delegierter der interfakultären und gesamtuniversitären Einheiten,
+- e vier Delegierte der Studentinnen und Studenten, wobei pro Fakultät nur eine Person Einsitz nimmt,
+- f je zwei Delegierte der Dozentinnen und Dozenten gemäss Artikel 21 Absatz 1 Buchstaben c bis e und der Assistentinnen und Assistenten.
+
+<sup>3</sup> Kleine Fakultäten können anstelle der Dekanin oder des Dekans eine andere Delegierte oder einen anderen Delegierten in den Senat entsenden.
+
+<sup>4</sup> Die Rektorin oder der Rektor führt den Vorsitz im Senat.
+
+<sup>5</sup> Die übrigen Mitglieder der Universitätsleitung nehmen mit beratender Stimme an den Sitzungen teil.
+
+#### Art. 36
+
+**Zuständigkeiten**
+
+<sup>1</sup> Der Senat
+
+- a erlässt das Universitätsstatut,
+- b erlässt die gesamtuniversitären Reglemente, namentlich über die Finanzen,
+- c erlässt das Leitbild,
+- d genehmigt die Weiterbildungsreglemente der Fakultäten,
+- e genehmigt die Fakultätsreglemente,
+- f genehmigt den Mehrjahresplan der Universität,
+- g nimmt Stellung zum Leistungsauftrag des Regierungsrates an die Universität,
+- h genehmigt den Geschäftsbericht,
+- i nimmt Kenntnis von den weiteren Berichten gemäss Artikel 60,
+- k nimmt Stellung zu Fragen von gesamtuniversitärer Bedeutung,
+- l wirkt bei der Wahl oder Anstellung der Mitglieder der Universitätsleitung mit,
+- m wählt die Mitglieder der ständigen Kommissionen und genehmigt deren Geschäftsordnungen,
+- n wählt die Delegierten in wissenschafts- und hochschulpolitische Gremien,
+- o genehmigt die Statuten der Vereinigung der Studierenden,
+- p verleiht die Honorarprofessur,
+- q schafft weitere Titel,
+- r entzieht Titel.
+
+<sup>2</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Universitätsgesetzgebung übertragen sind.
+
+### 3.2.2 Universitätsleitung
+
+#### Art. 37
+
+**Stellung, Zusammensetzung**
+
+<sup>1</sup> Die Universitätsleitung ist das Führungs- und Koordinationsorgan der Universität.
+
+<sup>2</sup> Sie ist gegenüber dem Regierungsrat für die Erfüllung des Leistungsauftrags verantwortlich.
+
+<sup>3</sup> Sie besteht aus höchstens sieben Mitgliedern. Sie setzt sich zusammen aus
+
+- a der Rektorin oder dem Rektor,
+- b den Vizerektorinnen oder Vizerektoren und
+- c der Verwaltungsdirektorin oder dem Verwaltungsdirektor.
+
+#### Art. 38
+
+**Wahl und Amtsdauer**
+
+<sup>1</sup> Der Regierungsrat stellt die Verwaltungsdirektorin oder den Verwaltungsdirektor an und wählt die übrigen Mitglieder der Universitätsleitung für eine Amtsdauer von vier Jahren.
+
+<sup>2</sup> Wiederwahl ist möglich.
+
+<sup>3</sup> Die Bildungs- und Kulturdirektion bestimmt das Verfahren für die Anstellung oder die Wahl der Mitglieder der Universitätsleitung. Die Bildungs- und Kulturdirektion und der Senat stellen gemeinsam Antrag für die Anstellung oder die Wahl der Mitglieder der Universitätsleitung.
+
+<sup>4</sup> Bezüglich Rücktritt, Abberufung und Nichtwiederwahl gelten die Bestimmungen der Personalgesetzgebung sinngemäss, wobei das Verwaltungsgericht die Abberufung von gewählten Mitgliedern der Universitätsleitung auf Antrag des Regierungsrates verfügt.
+
+#### Art. 39
+
+**Zuständigkeiten 1 Universitätsleitung**
+
+<sup>1</sup> Die Universitätsleitung
+
+- a setzt den Leistungsauftrag des Regierungsrates um,
+- b koordiniert Lehre, Forschung und Dienstleistung,
+- c vollzieht die Beschlüsse des Senats,
+- d beschliesst den Mehrjahresplan der Universität,
+- e beschliesst den Geschäftsbericht,
+- f beschliesst die weiteren Berichte gemäss Artikel 60,
+- g führt den Finanzhaushalt der Universität,
+- h stellt die Mitarbeiterinnen und Mitarbeiter an,
+- i beschliesst über die Schaffung, Veränderung und Aufhebung von Stellen,
+- k beschliesst über die Organisation, soweit dieses Gesetz nicht andere Zuständigkeiten vorsieht,
+- l genehmigt die Studienpläne,
+- m stellt ein fächerübergreifendes Lehrangebot sicher,
+- n erteilt die Lehrbefugnis und verleiht Titel, soweit die Universitätsgesetzgebung dies vorsieht,
+- o schliesst mit den Fakultäten Leistungsvereinbarungen gestützt auf den Leistungsauftrag des Regierungsrates ab,
+- p beschliesst über die Zulassung zum Studium.
+
+<sup>2</sup> Sie erfüllt die weiteren Aufgaben, die ihr durch die Universitätsgesetzgebung übertragen sind.
+
+#### Art. 40
+
+**2 Rektorin oder Rektor**
+
+<sup>1</sup> Die Rektorin oder der Rektor führt den Vorsitz in der Universitätsleitung und vertritt die Universität gegen aussen.
+
+<sup>2</sup> Sie oder er ist für alle gesamtuniversitären Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
+
+### 3.2.3 Ständige Kommissionen
+
+#### Art. 41
+
+<sup>1</sup> Ständige Kommissionen bestehen für Geschäftsbereiche von gesamtuniversitärem Interesse wie Aufgaben, Hochschulplanung und Finanzierung, Zulassung zum Studium sowie fächerübergreifende Fragen der Wissenschaft.
+
+<sup>2</sup> Das Universitätsstatut bestimmt die Bereiche, für die ständige Kommissionen bestehen, und regelt deren Stellung und Zusammensetzung. Es kann die Wahl nichtuniversitärer Mitglieder vorsehen.
+
+<sup>3</sup> Mitglieder der Universitätsleitung führen in der Regel den Vorsitz in den ständigen Kommissionen.
+
+### 3.3 Fakultäten
+
+#### Art. 42
+
+**Grundsatz**
+
+<sup>1</sup> Die Fakultät fasst Institute mit verwandten Forschungs- und Lehrgebieten zusammen.
+
+<sup>2</sup> Sie arbeitet mit anderen Fakultäten und weiteren Organisationseinheiten zusammen und unterstützt die gesamtuniversitären Bestrebungen zur Koordination.
+
+#### Art. 43
+
+**Fakultätskollegium 1 Stellung, Zusammensetzung**
+
+<sup>1</sup> Das Fakultätskollegium ist das oberste Organ der Fakultät.
+
+<sup>2</sup> Das Universitätsstatut regelt die Zusammensetzung des Fakultätskollegiums.
+
+<sup>3</sup> Die Dekanin oder der Dekan führt den Vorsitz im Fakultätskollegium.
+
+#### Art. 44
+
+**2 Zuständigkeiten**
+
+<sup>1</sup> Das Fakultätskollegium
+
+- a wählt die Dekanin oder den Dekan,
+- b erlässt das Fakultätsreglement,
+- c erlässt die Studienreglemente,
+- d erlässt die Weiterbildungsreglemente,
+- e verleiht Bachelor- und Mastertitel sowie Lizenziate, Diplome und Doktorate,
+- f stellt Antrag für die Lehrbefugnis und die Verleihung weiterer Titel,
+- g ist verantwortlich für die Umsetzung der Leistungsvereinbarung mit der Universitätsleitung.
+
+<sup>2</sup> Es erfüllt die weiteren Aufgaben, die ihm durch die Universitätsgesetzgebung übertragen sind.
+
+#### Art. 45
+
+**Dekanin oder Dekan**
+
+<sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
+
+<sup>2</sup> Sie oder er ist für alle fakultären Angelegenheiten zuständig, die keinem anderen Organ übertragen sind.
+
+<sup>3</sup> Die Amtsdauer der Dekanin oder des Dekans beträgt mindestens zwei Jahre. Wiederwahl ist möglich.
+
+<sup>4</sup> Das Fakultätsreglement regelt die Entlastung der Dekanin oder des Dekans.
+
+### 3.4 Institute
+
+#### Art. 46
+
+<sup>1</sup> Das Institut ist für Forschung, Lehre und Dienstleistung in seinem Fachgebiet verantwortlich. Es erfüllt seine Aufgaben in Zusammenarbeit mit der Fakultät.
+
+<sup>2</sup> Vergleichbare Einheiten, namentlich die Kliniken, sind den Instituten gleichgestellt.
+
+### 3.5 Weitere Organisationseinheiten
+
+#### Art. 47
+
+**Departemente**
+
+<sup>1</sup> Institute oder andere Organisationseinheiten können für die bessere Erfüllung ihrer Aufgaben zu Departementen zusammengefasst werden.
+
+#### Art. 48
+
+**Interfakultäre und gesamtuniversitäre Einheiten**
+
+<sup>1</sup> Die interfakultäre oder gesamtuniversitäre Einheit erfüllt ihre Aufgaben in Zusammenarbeit mit dem Organ oder der Kommission, dem oder der sie zugeordnet ist.
+
+<sup>2</sup> Das Universitätsstatut bestimmt die Zuordnung. Es regelt die Zuständigkeiten des Organs oder der Kommission, insbesondere ob es oder sie Reglemente erlassen oder Titel verleihen kann.
+
+<sup>3</sup> Die wissenschaftlich tätige interfakultäre oder gesamtuniversitäre Einheit ist dem Institut gleichgestellt.
+
+<sup>4</sup> Der Senat kann interfakultäre und gesamtuniversitäre Einheiten sowie die für sie zuständigen Organe oder Kommissionen zu einer Konferenz zusammenfassen. Er bestimmt deren Zuständigkeiten.
+
+#### Art. 49
+
+**Eigenständige Einheiten**
+
+<sup>1</sup> Die Einheit mit besonderem Auftrag kann verselbständigt und als eigenständige Einheit der Universität angegliedert werden.
+
+#### Art. 50
+
+**...[^50-1]**
+
+[^50-1]: Artikel 50 des Gesetzes vom 5. September 1996 über die Universität wird gar nie in Kraft gesetzt, sondern mit diesem Gesetz bereits wieder aufgehoben; BAG 05–65 (Art. 81)
+
+## 4 Zusammenarbeit der Universität mit Dritten
+
+#### Art. 51
+
+**Vereinbarungen, Beteiligungen**
+
+<sup>1</sup> Die Universität kann, soweit der Erfüllung der universitären Aufgaben dienlich,
+
+- a Vereinbarungen mit Dritten abschliessen,
+- b sich an Organisationen und Unternehmen beteiligen.
+
+#### Art. 52
+
+**Aufträge und Beiträge, ständige Dienstleistungen**
+
+<sup>1</sup> Die Universität, ihre Organisationseinheiten sowie Mitarbeiterinnen und Mitarbeiter können Forschungs- und Dienstleistungsaufträge sowie Forschungsbeiträge und weitere Beiträge annehmen.
+
+<sup>2</sup> Aufträge und Beiträge dürfen die Erfüllung der universitären Aufgaben sowie die Unabhängigkeit von Forschung und Lehre nicht beeinträchtigen.
+
+<sup>3</sup> Das Finanzreglement kann bei Aufträgen ab einer bestimmten Auftragssumme eine Genehmigungspflicht der Universitätsleitung vorsehen.
+
+<sup>4</sup> …
+
+#### Art. 53
+
+**Universitätsspitäler 1 Aufgabenübertragung**
+
+<sup>1</sup> Die Universität schliesst mit den bernischen Universitätsspitälern oder mit andern Leistungserbringern unter den Voraussetzungen der Spitalversorgungsgesetzgebung Verträge über die Übertragung von Aufgaben in Lehre und Forschung ab.
+
+<sup>2</sup> Die Verträge bedürfen zu ihrer Gültigkeit der Genehmigung durch den Regierungsrat.
+
+<sup>3</sup> Können sich die Universität und die Universitätsspitäler nicht einigen, entscheidet der Regierungsrat.
+
+#### Art. 54
+
+**2 Verhältnis zur Universität**
+
+<sup>1</sup> Die Universitätsspitäler unterstehen der Spitalgesetzgebung.
+
+<sup>2</sup> Für die Anstellung und das Angestelltenverhältnis der an den Universitätsspitälern tätigen ordentlichen und ausserordentlichen Professorinnen und Professoren gilt dieses Gesetz. Die medizinische Dienstleistungs- und Führungsfunktion richtet sich nach den für die Universitätsspitäler geltenden Erlassen.
+
+<sup>3</sup> Für die Anstellung und das Angestelltenverhältnis der in den Universitätsspitälern tätigen Mitarbeiterinnen und Mitarbeiter mit universitärem Auftrag gelten die Bestimmungen der Universitätsspitäler. Das Universitätsstatut regelt das Verhältnis dieser Mitarbeiterinnen und Mitarbeiter zur Universität, insbesondere bezüglich der Mitwirkung und Mitbestimmung.
+
+<sup>4</sup> Die Universitätsleitung beschliesst im Einvernehmen mit dem betroffenen Universitätsspital über die Schaffung, Veränderung und Aufhebung sowie über die Besetzung von ordentlichen und ausserordentlichen Professuren mit einem medizinischen Dienstleistungsauftrag an einem Universitätsspital.
+
+<sup>5</sup> Die Spitalleitungen beschliessen über die Schaffung, Veränderung und Aufhebung der übrigen Stellen mit universitärem Auftrag im Rahmen ihres Leistungsauftrags.
+
+#### Art. 55
+
+**3. Vertrag zwischen Universität und Universitätsspitälern**
+
+<sup>1</sup> Die Universität und die Universitätsspitäler regeln ihre Beziehungen untereinander in den Verträgen gemäss Artikel 53. Sie legen das Verfahren bei Uneinigkeit fest und regeln das Zusammenwirken, insbesondere bei
+
+- a der Anstellung der ordentlichen und ausserordentlichen Professorinnen und Professoren mit medizinischem Dienstleistungsauftrag an einem Universitätsspital sowie bei der Auflösung der Anstellung,
+- b der Gewährung von Forschungs- und Bildungsurlauben.
+
+#### Art. 56
+
+**…**
+
+## 5 Planung, Steuerung und Finanzierung
+
+#### Art. 57
+
+**…**
+
+#### Art. 58
+
+**Grundsatz**
+
+<sup>1</sup> Die Planung, Steuerung und Finanzierung ist eine gemeinsame Aufgabe von Kanton und Universität.
+
+<sup>2</sup> Die Vorgaben des Bundes und der interkantonalen Organe sind zu berücksichtigen.
+
+<sup>3</sup> Die Steuerung erfolgt durch Leistungsauftrag des Regierungsrates.
+
+<sup>4</sup> …
+
+#### Art. 59
+
+**Leistungsauftrag des Regierungsrates**
+
+<sup>1</sup> Der Regierungsrat beschliesst periodisch den Leistungsauftrag für die Universität. Der Leistungsauftrag wird in der Regel für einen Zeitraum von vier Jahren beschlossen.
+
+<sup>2</sup> Der Leistungsauftrag bestimmt
+
+- a die Ziele für die Universität,
+- b den Umfang des Lehrangebotes,
+- c die finanziellen Eckwerte für die Leistungserbringung, unter Vorbehalt der Genehmigung des Voranschlags durch den Grossen Rat.
+
+<sup>3</sup> Er berücksichtigt die strategischen Zielsetzungen des Kantons in den anderen öffentlichen Aufgabenbereichen, namentlich im Medizinalbereich und in der Wirtschaftsförderung.
+
+#### Art. 60
+
+**Berichterstattung**
+
+<sup>1</sup> Die Universität legt der Bildungs- und Kulturdirektion vor:
+
+- a jährlich den Geschäftsbericht (Tätigkeitsschwerpunkte, Jahresrechnung, Bericht der Revisionsstelle),
+- b periodisch den Zwischenbericht über den Stand der Erfüllung des Leistungsauftrags des Regierungsrates,
+- c im Jahr vor Ablauf des Leistungsauftrags des Regierungsrates den Leistungsbericht über dessen Erfüllung.
+
+<sup>2</sup> Der periodische Zwischenbericht über den Stand der Erfüllung des Leistungsauftrags des Regierungsrates ist nicht öffentlich.
+
+#### Art. 60a
+
+**Controlling**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion führt das Controlling durch.
+
+<sup>2</sup> Sie beurteilt die jährliche und die periodische Berichterstattung der Universität und bringt dem Regierungsrat die Ergebnisse der Beurteilung zur Kenntnis.
+
+<sup>3</sup> Sie erstattet der Universität Bericht über das Ergebnis der Beurteilung und schlägt gegebenenfalls Massnahmen zur Verbesserung der Auftragserfüllung vor. Aufsichtsrechtliche Massnahmen bleiben vorbehalten.
+
+#### Art. 61
+
+**Stellenbewirtschaftung**
+
+<sup>1</sup> Die Universität bewirtschaftet die Stellen ihrer Mitarbeiterinnen und Mitarbeiter im Rahmen der verfügbaren Mittel nach eigenem System.
+
+#### Art. 62
+
+**Finanzierung**
+
+<sup>1</sup> Der Kanton leistet der Universität einen Beitrag auf der Grundlage des vom Regierungsrat beschlossenen Leistungsauftrags. Die Beiträge sind Abgeltungen im Sinne der Staatsbeitragsgesetzgebung.
+
+<sup>2</sup> Mit dem Kantonsbeitrag wird die Leistungserbringung der Universität in Lehre, Forschung und Entwicklung sowie Dienstleistung pauschal abgegolten.
+
+<sup>3</sup> Bei der Festlegung des Kantonsbeitrags für die Erfüllung des Leistungsauftrags des Regierungsrates werden insbesondere die interkantonalen Vergleichsgrössen, die allgemeine Finanzsituation der Universität sowie jene des Kantons berücksichtigt.
+
+<sup>4</sup> Die Universität erschliesst weitere Finanzierungsquellen.
+
+#### Art. 62a
+
+**Rechnungslegung**
+
+<sup>1</sup> Die Rechnungslegung der Universität richtet sich nach allgemein anerkannten Standards.
+
+<sup>2</sup> Die Universität führt eine eigene Rechnung.
+
+<sup>3</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 62b
+
+**Tresorerie**
+
+<sup>1</sup> Die Verwaltung der finanziellen Mittel der Universität kann durch den Kanton erfolgen.
+
+#### Art. 62c
+
+**Prüfung und Genehmigung der Rechnung**
+
+<sup>1</sup> Die Finanzkontrolle des Kantons ist die Revisionsstelle.
+
+<sup>2</sup> Sie prüft die Rechnung der Universität und beurteilt das finanzielle Risiko für den Kanton.
+
+<sup>3</sup> Der Regierungsrat genehmigt die Rechnung der Universität.
+
+#### Art. 63
+
+**Liegenschaften**
+
+<sup>1</sup> Der Kanton ist Eigentümer oder Mieter der Liegenschaften, die durch die Universität benutzt werden.
+
+<sup>2</sup> Er stellt die Liegenschaften rechtzeitig und bedürfnisgerecht zur Verfügung.
+
+<sup>3</sup> Die Universität kann Eigentümerin von Liegenschaften sein, die ihr durch Legate oder Schenkungen übertragen worden sind.
+
+<sup>4</sup> Sie kann für die Erfüllung von Aufträgen Dritter und zu Lasten der entsprechenden Mittel ein befristetes Mietverhältnis begründen.
+
+<sup>5</sup> Der Regierungsrat regelt das Nähere durch Verordnung.
+
+#### Art. 64
+
+**Vereinbarungen über Hochschulbeiträge**
+
+<sup>1</sup> Der Regierungsrat schliesst mit anderen Kantonen Vereinbarungen über Hochschulbeiträge ab.
+
+<sup>2</sup> Die Beiträge sind unter angemessener Berücksichtigung der Kosten der einzelnen Studiengänge und der Standortvorteile grundsätzlich kostendeckend festzulegen.
+
+#### Art. 64a
+
+**Gebühren 1 Für das Eignungsverfahren**
+
+<sup>1</sup> Bei Zulassungsbeschränkungen kann von den Studienanwärterinnen und Studienanwärtern für das fachbezogene Eignungsverfahren eine Gebühr von 100 bis 500 Franken erhoben werden.
+
+<sup>2</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 65
+
+**2 Studiengebühren**
+
+<sup>1</sup> Die Universität erhebt für ihre Leistungen in der Ausbildung Gebühren.
+
+<sup>2</sup> Die Studiengebühren betragen 500 bis 1000 Franken pro Semester.
+
+<sup>3</sup> Für Studierende, welche die durch das Studienreglement vorgesehene Studiendauer ohne wichtigen Grund überschreiten, können die Studiengebühren höchstens bis zur Kostendeckung erhöht werden.
+
+<sup>4</sup> Für Ergänzungskurse in Fächern, die für die Zulassung zu einem Studiengang erforderlich sind, können zusätzliche, grundsätzlich kostendeckende und marktgerechte Gebühren erhoben werden.
+
+<sup>5</sup> Für ausländische Studierende ohne Niederlassungsbewilligung können unter Berücksichtigung internationaler Abkommen kostendeckende Gebühren erhoben werden.
+
+<sup>6</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 65a
+
+**3 Doktorats- und Auskultantengebühren**
+
+<sup>1</sup> Die Doktoratsgebühren betragen 100 bis 500 Franken pro Semester.
+
+<sup>2</sup> Die Gebühren für Auskultantinnen und Auskultanten betragen höchstens 150 Franken pro Semesterwochenstunde und höchstens 1200 Franken pro Semester.
+
+<sup>3</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 65b
+
+**4 Prüfungs-, Promotions- und Habilitationsgebühren**
+
+<sup>1</sup> Die Gebühren für das Ablegen sämtlicher Leistungskontrollen betragen für einen Studiengang höchstens 600 Franken.
+
+<sup>2</sup> Die Gebühren für die Promotion und die Habilitation betragen je höchstens 600 Franken.
+
+<sup>3</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 66
+
+**Kursgelder**
+
+<sup>1</sup> Die Universität erhebt für ihre Leistungen in der Weiter- und Fortbildung Kursgelder. Diese sind grundsätzlich kostendeckend und marktgerecht festzulegen.
+
+<sup>2</sup> Die Trägerschaft des Weiter- oder Fortbildungsangebots legt die Höhe des Kursgeldes fest.
+
+#### Art. 67
+
+**Gebühren für soziale und kulturelle Einrichtungen**
+
+<sup>1</sup> Die Universität kann von den Benützerinnen und Benützern sowie von ihren Angehörigen Gebühren für soziale und kulturelle Einrichtungen sowie den Sport erheben.
+
+<sup>2</sup> Für die Mitarbeiterinnen und Mitarbeiter der Universität beträgt die Gebühr pro Jahr höchstens ein Promille des Jahresgehalts.
+
+<sup>3</sup> Für die Studierenden beträgt die Gebühr pro Semester zusätzlich zu den Studiengebühren höchstens vier Prozent der Studiengebühren.
+
+<sup>4</sup> Der Regierungsrat bezeichnet durch Verordnung die entsprechenden Einrichtungen und regelt die Gebühren. Er kann diese Befugnis ganz oder teilweise der Bildungs- und Kulturdirektion übertragen.
+
+#### Art. 68
+
+**Ständige Dienstleistungen 1 Gebühren**
+
+<sup>1</sup> Die Universität erhebt für die ständigen Dienstleistungen Gebühren. Diese sind in der Regel kostendeckend und marktgerecht festzulegen.
+
+<sup>2</sup> Ist eine Dienstleistung für Forschung und Lehre wichtig und können bei einem kostendeckenden Preis nachweislich nicht genügend Dienstleistungsaufträge erzielt werden, kann vom Grundsatz der Kostendeckung abgewichen werden.
+
+<sup>3</sup> Der Regierungsrat regelt die Gebühren durch Verordnung. Er kann Tarifvereinbarungen verbindlich erklären, die zwischen Tarifpartnerinnen und Tarifpartnern im Gesundheitswesen und in der Tiermedizin getroffen werden. Er kann diese Befugnisse ganz oder teilweise der Bildungs- und Kulturdirektion oder der Universitätsleitung übertragen.
+
+<sup>4</sup> …
+
+#### Art. 68a
+
+**2 Leistungsentgelte, Voraussetzungen**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern von Instituten mit ständigem Dienstleistungsauftrag kann ein persönliches Leistungsentgelt ausgerichtet werden, wenn
+
+- a die Wettbewerbsfähigkeit der Universität auf dem Arbeitsmarkt im betreffenden Fachbereich sonst nicht gewährleistet werden kann,
+- b das Institut einen finanziellen Überschuss gemäss Artikel 68b Absatz 2 erzielt und
+- c die Mitarbeiterin oder der Mitarbeiter eine besondere Verantwortung für die Erfüllung des Leistungsauftrags des Instituts im Dienstleistungsbereich trägt und besondere Leistungen erbringt.
+
+#### Art. 68b
+
+**3 Leistungsentgelte, Höhe**
+
+<sup>1</sup> Die Grundlage für die Berechnung der Leistungsentgelte ist die Kostenrechnung des Instituts, bezogen auf die Dienstleistung.
+
+<sup>2</sup> Die Universitätsleitung legt, gestützt auf den Leistungsauftrag des Regierungsrates, die massgebliche Deckungsbeitragsstufe des Instituts sowie den Anteil des Überschusses fest, der dem Institut insgesamt für Leistungsentgelte höchstens zur Verfügung steht.
+
+<sup>3</sup> Die Höhe des persönlichen Leistungsentgelts beträgt höchstens die Hälfte des Jahresgehalts der betreffenden Mitarbeiterin oder des betreffenden Mitarbeiters.
+
+#### Art. 69
+
+**…**
+
+#### Art. 70
+
+**Geistiges Eigentum**
+
+<sup>1</sup> Immaterielle Arbeitsergebnisse, welche die Mitarbeiterinnen und Mitarbeiter in Erfüllung ihrer dienstrechtlichen Verpflichtungen sowie in Ausübung der beruflichen Tätigkeit schaffen, gelten ohne Weiteres als der Universität abgetreten.
+
+<sup>2</sup> Ist das Urheber- oder Patentrecht im Rahmen einer Nebenbeschäftigung entstanden, so werden die Erträge aus der Verwertung wie Erträge aus Nebenbeschäftigungen behandelt.
+
+<sup>3</sup> Bei einer dienstrechtlichen Verpflichtung für verschiedene Arbeitgeberinnen oder Arbeitgeber wird das Recht an den immateriellen Arbeitsergebnissen vertraglich geregelt.
+
+#### Art. 71
+
+**Legate und unselbständige Stiftungen**
+
+<sup>1</sup> Legate und unselbstständige Stiftungen, die Private der Universität freiwillig für einen bestimmten Verwendungszweck übertragen, sind deren Vermögen ohne eigene Rechtspersönlichkeit.
+
+<sup>2</sup> Die Universitätsleitung ist für die Annahme zuständig.
+
+<sup>3</sup> Legate und unselbstständige Stiftungen, deren Zweckbestimmung entfällt oder nicht mehr sachgerecht verfolgt werden kann, können durch die Bildungs- und Kulturdirektion auf Antrag der Universitätsleitung mit anderen Legaten oder unselbstständigen Stiftungen mit ähnlicher Zweckbestimmung zusammengelegt werden.
+
+<sup>4</sup> Die Bildungs- und Kulturdirektion kann auf Antrag der Universitätsleitung in den Fällen von Absatz 3 die Zweckbestimmung von Legaten und unselbstständigen Stiftungen ändern oder ergänzen, wenn eine Zusammenlegung nach Absatz 3 nicht möglich ist.
+
+## 6 Kantonale Behörden
+
+#### Art. 72
+
+**Grosser Rat**
+
+<sup>1</sup> Der Grosse Rat übt die Oberaufsicht aus.
+
+<sup>2</sup> Er nimmt Kenntnis vom Geschäftsbericht der Universität und erfüllt die weiteren Aufgaben, die ihm durch dieses Gesetz übertragen sind.
+
+#### Art. 73
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat übt die Aufsicht über die Universität aus.
+
+<sup>2</sup> Der Regierungsrat beschliesst den jährlichen Kantonsbeitrag an die Universität. Er kann diese Befugnis durch Verordnung an die Bildungs- und Kulturdirektion übertragen.
+
+<sup>3</sup> Er erfüllt die weiteren Aufgaben, die ihm durch die Universitätsgesetzgebung übertragen sind.
+
+#### Art. 74
+
+**Bildungs- und Kulturdirektion**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion übt die direkte Aufsicht über die Universität aus. Die Universität ist verpflichtet, der Bildungs- und Kulturdirektion Auskünfte zu erteilen, Einsicht in sämtliche Akten zu gewähren, Zutritt zu den Einrichtungen zu verschaffen und sie in allen Belangen zu unterstützen, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist.
+
+<sup>2</sup> Die Bildungs- und Kulturdirektion genehmigt die Studienreglemente.
+
+<sup>3</sup> Sie erfüllt die weiteren Aufgaben, die ihr durch die Universitätsgesetzgebung übertragen sind.
+
+<sup>4</sup> Sie ist für alle Angelegenheiten zuständig, die nicht der Universität oder einer anderen kantonalen oder eidgenössischen Behörde übertragen sind.
+
+## 7 Verfahren, Rechtspflege, Straf- und Disziplinarrecht
+
+#### Art. 75
+
+**Verfahren**
+
+<sup>1</sup> Soweit dieses Gesetz keine besonderen Vorschriften enthält, gilt das Gesetz über die Verwaltungsrechtspflege[^75-1].
+
+[^75-1]: BSG 155.21
+
+#### Art. 76
+
+**Rechtsweg**
+
+<sup>1</sup> Gegen Verfügungen der Organe der Fakultäten und der weiteren Organisationseinheiten kann Beschwerde bei einer Rekurskommission erhoben werden.
+
+<sup>2</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
+
+<sup>3</sup> Gegen Verfügungen des Senats, der Universitätsleitung und der Rektorin oder des Rektors kann Beschwerde bei der Bildungs- und Kulturdirektion geführt werden.
+
+<sup>4</sup> Bei Beschwerden gegen Ergebnisse von Prüfungen ist die Rüge der Unangemessenheit unzulässig.
+
+#### Art. 77
+
+**Öffentlichrechtliche Verträge**
+
+<sup>1</sup> Das Verwaltungsgericht beurteilt auf Klage hin als einzige Instanz Streitigkeiten aus öffentlichrechtlichen Verträgen der Universität.
+
+#### Art. 78
+
+**Strafbestimmung**
+
+<sup>1</sup> Wer unbefugt eine Einrichtung als Universität bezeichnet oder einen Titel gemäss Artikel 4 führt, wird mit Busse bestraft.
+
+#### Art. 78a
+
+**Disziplinarrecht**
+
+<sup>1</sup> Zur Gewährleistung eines geordneten Hochschulbetriebs regelt der Regierungsrat das Disziplinarrecht der Universität durch Verordnung.
+
+<sup>2</sup> Die Universitätsleitung kann gegen Studierende, die schwer oder wiederholt gegen die Disziplinarordnung oder gegen den Grundsatz der Lauterkeit der Wissenschaft verstossen, folgende Sanktionen ergreifen:
+
+- a Ausschluss von einzelnen Lehrveranstaltungen sowie von der Benützung einzelner Universitätseinrichtungen für die Dauer von einem oder mehreren Semestern,
+- b vorübergehender oder dauerhafter Ausschluss vom Studium an der Universität.
+
+## 8 Übergangs- und Schlussbestimmungen
+
+#### Art. 79
+
+**Bestehende Angestelltenverhältnisse**
+
+<sup>1</sup> Bei Inkrafttreten dieses Gesetzes bestehende Angestelltenverhältnisse werden ohne weiteres nach dem neuen Recht weitergeführt.
+
+#### Art. 80
+
+**Übergangsrecht**
+
+<sup>1</sup> Der Regierungsrat erlässt die notwendigen Übergangsbestimmungen.
+
+#### Art. 81
+
+**Verordnungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die Ausführungsbestimmungen.
+
+<sup>2</sup> Er erlässt insbesondere Bestimmungen über
+
+- a die Grundzüge der Qualitätssicherung und -entwicklung,
+- b die Anstellung und die berufliche Vorsorge der Mitarbeiterinnen und Mitarbeiter,
+- c die Nebenbeschäftigungen,
+- d das Verfahren für die Anstellung der ordentlichen und ausserordentlichen Professorinnen und Professoren,
+- e die Planung, Steuerung und Finanzierung,
+- f die Organisation der Rekurskommission und die Wahl ihrer Mitglieder,
+- g–k …
+
+#### Art. 82
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden geändert:
+
+- 1\. Gesetz vom 7. Februar 1954 über die Universität [^82-1] :
+- 2\. Gesetz vom 10. November 1987 über den Finanzhaushalt [^82-2] (Finanzhaushaltgesetz, FHG):
+
+[^82-1]: Aufgehoben durch Änderung Gesetz über die Universität, BSG 436.11; BAG 11–11
+[^82-2]: Aufgehoben durch G vom 26. 3. 2002 über die Steuerung von Finanzen und Leistungen, BSG 620.0
+
+#### Art. 83
+
+**Aufhebung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
+
+- 1\. Dekret vom 27. Juni 1991 über die Stellenschaffung in der Universitätsverwaltung,
+- 2\. Dekret vom 10. Dezember 1991 über die Dienstleistungen und Drittmittel der Universität,
+- 3\. Dekret vom 10. Dezember 1991 über die Besoldung und Versicherung der Dozentinnen und Dozenten der Universität.
+
+#### Art. 84
+
+**Inkraftsetzung**
+
+<sup>1</sup> Der Regierungsrat setzt dieses Gesetz, nach Bedarf zeitlich gestaffelt, in Kraft.
+
+<sup>2</sup> Er bezeichnet bei zeitlich gestaffelter Inkraftsetzung im Inkraftsetzungsbeschluss die aufgehobenen Artikel in bestehenden Erlassen.
+
+## T1 Übergangsbestimmungen vom 5.09.1996
+
+#### Art. T1-1
+
+<sup>1</sup> Der Senat beschliesst in seiner konstituierenden Sitzung den Antrag für die Wahl der Rektorin oder des Rektors und der Vizerektorinnen oder Vizerektoren gemäss Artikel 36 Absatz 1 Buchstabe h UniG zuhanden des Regierungsrates.
+
+<sup>2</sup> Die Vertretung der Lehrerinnen- und Lehrerbildung im Senat gemäss Artikel 35 Absatz 2 Buchstabe e UniG wird bis zur Schaffung der Kantonalen Konferenz der Lehrerinnen- und Lehrerbildung gemäss Artikel 47 bis 49 des Gesetzes vom 9. Mai 1995 über die Lehrerinnen- und Lehrerbildung durch die Konferenz der Lehrerbildungsinstitutionen gemäss Artikel 4 Absatz 2 des Gesetzes vom 7. Februar 1954 über die Universität wahrgenommen.
+
+<sup>3</sup> Die Überführung der vollamtlichen und nebenamtlichen ausserordentlichen Professorinnen und Professoren gemäss Artikel 16 Buchstaben b und c des Gesetzes vom 7. Februar 1954 über die Universität in die Professorenkategorien gemäss Artikel 21 UniG erfolgt mit separaten Beschlüssen. Nebenamtlichen ausserordentlichen Professorinnen und Professoren ab eines bestimmten Alters kann die Weiterführung ihres Titels erlaubt werden.
+
+## T2 Übergangsbestimmungen der Änderung vom 03.06.2010
+
+#### Art. T2-1
+
+<sup>1</sup> Die Zuständigkeiten für laufende Anstellungsverfahren für ordentliche und ausserordentliche Professorinnen und Professoren der Universität richten sich ab Inkrafttreten dieser Änderung nach dem neuen Recht.
+
+<sup>2</sup> Die nach bisherigem Recht besetzten Funktionen innerhalb der Universitätsleitung entsprechen bis zum Ende der laufenden Amtszeit den Funktionen nach dem neuen Recht.
+
+<sup>3</sup> Die Leistungsaufträge an die Universität, die Berner Fachhochschule und die Pädagogische Hochschule gemäss dem bisherigen Recht gelten für die vorgesehene Geltungsdauer sinngemäss weiter.
+
+<sup>4</sup> Der Regierungsrat legt für die Universität, die Berner Fachhochschule und die Pädagogische Hochschule den jeweiligen Zeitpunkt des Übergangs zu der Finanzierung gemäss dieser Änderung fest. Die Verbindlicherklärung des Finanzplans wird auf diesen Zeitpunkt aufgehoben.
+
+<sup>5</sup> Er beschliesst auf den Zeitpunkt des Übergangs zur Finanzierung nach dieser Änderung die Eröffnungsbilanzen der jeweiligen Hochschule. Darin werden die Rücklagen gemäss Besonderer Rechnung ausgewiesen.
+
+<sup>6</sup> Die im Jahr des Übergangs gemäss Ziffer 5 eingereichten Geschäftsberichte richten sich nach dem bisherigen Recht und werden gemäss dem bisherigen Recht geprüft und behandelt.
+
+<sup>7</sup> Die Zuständigkeiten für den Beschluss und die Genehmigung des Statuts und der Reglemente, die nach dem Inkrafttreten dieser Änderung in Kraft treten, richten sich nach dem neuen Recht.
+
+#### Art. T2-3
+
+**RRB Nr. 1349/2012 (BAG 12–74)**
+
+<sup>2</sup> Der Zeitpunkt des Übergangs zur neuen Finanzierung gemäss Ziffer 4 der Übergangsbestimmungen wird für die Universität auf den 1. Januar 2013 festgelegt.
+
+<sup>3</sup> Die Eröffnungsbilanz der Universität gemäss Ziffer 5 der Übergangsbestimmungen wird vom Regierungsrat im Frühjahr/Sommer 2013 beschlossen.
+
+Bern, 5. September 1996
+
+Im Namen des Grossen Rates
+
+Der Präsident: Kaufmann
+
+Der Vizestaatsschreiber: Krähenbühl
+
+Inkraftsetzung: Das Gesetz vom 5. September 1996 über die Universität (UniG) wird wie folgt in Kraft gesetzt:
+
+\1. Am 1. September 1997: Artikel 1 bis 21, 25 bis 28, 30 bis 34 Absatz 1 Buchstaben a bis e und g sowie Absatz 2, Artikel 35 bis 49, 51 bis 54 Absätze 1, 2 und 4, Artikel 55 bis 62, 64 bis 75, 77 bis 81, 82 Ziffer 2, Artikel 83 Ziffer 1, Artikel 84.
+
+\2. Am 1. September 1998: Artikel 22 bis 24, 29, Artikel 54 Absatz 3, Artikel 63, 76, 83 Ziffer 3.
+
+\3. Artikel 34 Absatz 1 Buchstabe f, Artikel 50 und 83 Ziffer 2 werden mit separatem Beschluss in Kraft gesetzt.
+
+\4. Artikel 82 Ziffer 1 betreffend Änderung des Gesetzes vom 7. Februar 1954 über die Universität tritt wie folgt in Kraft:
+
+a) Am 1. September 1997: Aufhebung von Artikel 1 und 2 Absätze 1, 2, 4 und 5, Artikel 3 und 4 Absätze 1 und 4, Artikel 5 bis 10, 12 bis 16, 18, 21 bis 25, 27, 28a Absätze 1 und 3, Artikel 28b, 29 und 30 Absätze 1 und 3, Artikel 31 Absatz 1 Ziffer 1, 2, 4, 5, 7 bis 10 und Absatz 2, Artikel 32 und 33 Buchstaben a bis d und f, Artikel 33a, 34 bis 36, 36a, 37, 38, 38a, 39 bis 43a Absatz 1, 2 und 4, Artikel 44 bis 48.
+
+b) Am 1. September 1998: Aufhebung von Artikel 11, 18a, 19 und 20, 28, 28a Absatz 2, Artikel 30 Absatz 2, Artikel 31 Absatz 1 Ziffer 6, Artikel 43a Absatz 3.
+
+c) Inkraftsetzung des neuen Titels und Aufhebung von Artikel 2 Absatz 3, Artikel 4 Absätze 2 und 3, Artikel 31 Absatz 1 Ziffer 3, Artikel 33 Buchstabe e erfolgen mit separatem Beschluss.
+
+RRB Nr. 1987 vom 27. Juni 2001
+
+Artikel 83 Ziffer 2 des Gesetzes vom 5. September 1996 über die Universität (Aufhebung des Dekretes vom 10. Dezember 1991 über die Dienstleistungen und Drittmittel der Universität) wird auf den 1. Januar 2002 in Kraft gesetzt.
+
+97-66

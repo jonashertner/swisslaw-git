@@ -1,0 +1,500 @@
+---
+canton: BE
+number: "931.1"
+title: Gesetz über das Bergregal und die Sondernutzung des öffentlichen Untergrunds
+short: BRSG
+language: de
+version: 2020-08-01
+valid_until: 2021-11-30
+version_adopted: 2019-11-26
+adopted: 2003-06-18
+in_force: 2004-03-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/931.1"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1899/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über das Bergregal und die Sondernutzung des öffentlichen Untergrunds
+
+(BRSG)
+
+vom 18.06.2003 (Stand 01.08.2020)
+
+Der Grosse Rat des Kantons Bern,
+
+in Ausführung von Artikel 52 Absatz 1 Buchstabe c der Kantonsverfassung (KV)[^ingress-1], gestützt auf Artikel 664 Absatz 3 des Schweizerischen Zivilgesetzbuches (ZGB)[^ingress-2],
+
+auf Antrag des Regierungsrates,
+
+beschliesst:
+
+[^ingress-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
+[^ingress-2]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+## 1 Allgemeines
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Gesetz regelt
+
+- a die Nutzung der mineralischen Rohstoffe,
+- b die Nutzung der Erdwärme, ohne die Nutzung der Wärme aus dem Grundwasser,
+- c die Sondernutzung des öffentlichen Untergrunds.
+
+#### Art. 2
+
+**Regalrecht**
+
+<sup>1</sup> Der Kanton hat das Regal zum Abbau der mineralischen Rohstoffe und zur Nutzung der Erdwärme aus tiefen Erdschichten (Bergregal). Er kann dieses Recht selber ausüben oder Dritten übertragen.
+
+<sup>2</sup> Die Regelung über den Umfang des Eigentums in Artikel 667 ZGB bleibt vorbehalten.
+
+#### Art. 3
+
+**Begriffe**
+
+<sup>1</sup> Mineralische Rohstoffe im Sinne dieses Gesetzes sind Energierohstoffe (Erdöl, Erdgas, Kohle, Uran), Erze (metallische mineralische Rohstoffe und Edelmetalle) sowie Edelsteine.
+
+<sup>2</sup> Unter der Nutzung von Erdwärme aus tiefen Erdschichten wird der Entzug von Erdwärme aus mehr als 500 Metern Tiefe verstanden.
+
+<sup>3</sup> Als öffentlicher Untergrund gilt das Erdinnere ausserhalb des nach Privatrecht geschützten Eigentumsbereichs.
+
+#### Art. 4
+
+**Bewilligung und Konzession**
+
+<sup>1</sup> Einer Bewilligung bedürfen Vorbereitungsmassnahmen (Art. 10 bis 13) für
+
+- a das Aufsuchen und den Abbau mineralischer Rohstoffe,
+- b die Nutzung der Erdwärme aus tiefen Erdschichten,
+- c die Sondernutzung des öffentlichen Untergrunds.
+
+<sup>2</sup> Einer Konzession (Art. 14 bis 18) bedürfen
+
+- a der Abbau mineralischer Rohstoffe,
+- b die Nutzung der Erdwärme aus tiefen Erdschichten,
+- c die Sondernutzung des öffentlichen Untergrunds.
+
+<sup>3</sup> Keiner Bewilligung oder Konzession nach diesem Gesetz bedürfen
+
+- a das Aufsuchen oder der Abbau von mineralischen Rohstoffen, wenn diese nicht wirtschaftlich genutzt werden,
+- b die Sondernutzung des öffentlichen Untergrunds, wenn diese im Zusammenhang mit einer Tätigkeit steht, die einer Konzession nach einem anderen Gesetz bedarf.
+
+#### Art. 4a
+
+**Fracking-Verbot**
+
+<sup>1</sup> Das Gewinnen und das Fördern von Kohlenwasserstoffen, insbesondere Erdöl und Erdgas, aus nichtkonventionellen Lagerstätten sind verboten.
+
+#### Art. 5
+
+**Allgemeine Verfahrensbestimmungen**
+
+<sup>1</sup> Das Bewilligungs- und Konzessionsverfahren richtet sich nach den Bestimmungen des Koordinationsgesetzes vom 21. März 1994 (KoG)[^5-1] und des Gesetzes über die Verwaltungsrechtspflege vom 23. Mai 1989 (VRPG)[^5-2], soweit das vorliegende Gesetz keine Regelung enthält.
+
+[^5-1]: BSG 724.1
+[^5-2]: BSG 155.21
+
+#### Art. 6
+
+**Enteignung**
+
+<sup>1</sup> Die Behörde verleiht gleichzeitig mit der Konzession das Enteignungsrecht für die dinglichen Rechte, die für den Bau oder den Betrieb der Anlagen notwendig sind, sofern der freihändige Erwerb des Grundeigentums oder ausreichender Dienstbarkeiten (Baurecht usw.) nicht möglich und die Konzession zur Erfüllung von Bedürfnissen des allgemeinen Wohls notwendig ist.
+
+<sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 3. Oktober 1965 über die Enteignung[^6-1].
+
+[^6-1]: BSG 711.0
+
+#### Art. 7
+
+**Duldung von Eingriffen für Vorbereitungsmassnahmen**
+
+<sup>1</sup> Dinglich Berechtigte haben Eingriffe in ihr Privateigentum, die für Vorbereitungsmassnahmen im Sinne der Artikel 10 und 12 notwendig sind, zu dulden.
+
+<sup>2</sup> Wer solche Eingriffe vornimmt, hat den Betroffenen Kultur- und Sachschaden zu ersetzen und sie bei erheblichen Nachteilen in der Benützung oder Bewirtschaftung ihrer Grundstücke zu entschädigen.
+
+<sup>3</sup> Streitigkeiten über den Bestand, den Umfang oder die Art der Ausübung des Rechts auf Inanspruchnahme von Privateigentum für Vorbereitungsmassnahmen entscheidet die Bau- und Verkehrsdirektion.
+
+<sup>4</sup> Entschädigungsstreitigkeiten werden von der Enteignungsschätzungskommission unter Vorbehalt der Appellation an das Verwaltungsgericht beurteilt.
+
+#### Art. 8
+
+**Sicherheitsleistungen**
+
+<sup>1</sup> Die Bewilligungs- bzw. die Konzessionsbehörde kann von den Gesuchstellenden oder Nutzungsberechtigten eine Sicherheitsleistung verlangen für
+
+- a die Deckung des Schadens, den die Vorbereitungsmassnahmen bei den betroffenen Grundeigentümerinnen und Grundeigentümern verursachen,
+- b die Einhaltung der Auflagen und Bedingungen,
+- c die Kosten für die Wiederherstellung des vorherigen Zustandes im Falle eines Widerrufs oder bei Verzicht auf das Recht,
+- d die Kosten für die Stilllegung und für den Abbruch des Werkes sowie für die Wiederherstellung des vorherigen oder des in der Konzession angeordneten Zustandes.
+
+#### Art. 9
+
+**Berichterstattung**
+
+<sup>1</sup> Die Bewilligungs- und Konzessionsinhaberinnen und -inhaber sind verpflichtet, dem Kanton periodisch über die bewilligten Tätigkeiten schriftlich Bericht zu erstatten.
+
+<sup>2</sup> Die Ergebnisse aus den Untersuchungen und Bohrungen im Untergrund sind dem Kanton zur Verfügung zu stellen. Er kann die daraus abgeleiteten Erkenntnisse für seine Aufgaben verwenden.
+
+<sup>3</sup> Die Ergebnisse aus Vorbereitungsmassnahmen dürfen ohne Zustimmung der Bewilligungsinhaberinnen und Bewilligungsinhaber erst nach fünf Jahren an Dritte weitergegeben werden. Für Resultate von nutzungsspezifischen Versuchen wird die Frist auf zehn Jahre verlängert.
+
+<sup>4</sup> In der Bewilligung bzw. in der Konzession können konkrete Pflichten zur Berichterstattung vorgeschrieben werden.
+
+## 2 Vorbereitungsmassnahmen
+
+### 2.1 Schürfbewilligung
+
+#### Art. 10
+
+**Grundsätze**
+
+<sup>1</sup> Wer oberflächengeologische oder geophysikalische Untersuchungen und damit in Zusammenhang stehende Grabungen oder Bohrungen für das Auffinden von mineralischen Rohstoffen durchführen will, bedarf einer Schürfbewilligung der Bau- und Verkehrsdirektion.
+
+<sup>2</sup> Die Schürfbewilligung gibt das ausschliessliche Recht, innerhalb eines bestimmten Gebietes Arbeiten im Sinn von Absatz 1 auszuführen.
+
+#### Art. 11
+
+**Verfahren und Voraussetzungen**
+
+<sup>1</sup> Das Gesuch um Erteilung einer Schürfbewilligung ist im Amtsblatt zu veröffentlichen mit dem Hinweis, dass weitere Interessierte für dasselbe Schürfgebiet innerhalb von drei Monaten ebenfalls Gesuche einreichen können.
+
+<sup>2</sup> Die Gesuchstellenden haben sich über die erforderlichen Kenntnisse und die Finanzierung auszuweisen.
+
+<sup>3</sup> Die Schürfbewilligung wird erteilt, wenn alle massgeblichen Vorschriften des öffentlichen Rechts eingehalten sind und wenn keine überwiegenden öffentlichen Interessen entgegenstehen.
+
+<sup>4</sup> Bei mehreren Interessierten ist in der Regel derjenigen Person der Vorzug zu geben, die in technischer und finanzieller Hinsicht die beste Gewähr für eine umfassende und rasche Ausführung der Arbeiten bietet.
+
+<sup>5</sup> Die Schürfbewilligung ist zu befristen. Die Geltungsdauer kann in begründeten Fällen angemessen verlängert werden.
+
+### 2.2 Erschliessungsbewilligung
+
+#### Art. 12
+
+**Grundsätze**
+
+<sup>1</sup> Eine Erschliessungsbewilligung der Bau- und Verkehrsdirektion benötigt, wer
+
+- a Bohrungen und damit im Zusammenhang stehende Arbeiten zum Auffinden von mineralischen Rohstoffen oder zum Abklären der Ausdehnung und der Abbaumöglichkeiten eines solchen Vorkommens oder einer Lagerstätte durchführen oder
+- b Vorbereitungsmassnahmen für die Nutzung der Erdwärme aus tiefen Erdschichten oder für die Sondernutzung des öffentlichen Untergrunds treffen will.
+
+<sup>2</sup> Die Erschliessungsbewilligung gibt das ausschliessliche Recht, innerhalb eines bestimmten Gebietes Arbeiten im Sinn von Absatz 1 auszuführen.
+
+#### Art. 13
+
+**Verfahren und Voraussetzungen**
+
+<sup>1</sup> Das Gesuch um Erteilung einer Erschliessungsbewilligung ist mit dem Hinweis auf die Einsprachemöglichkeit zu veröffentlichen. Für die Veröffentlichung und die Einsprachebefugnis gilt die Regelung des Baugesetzes vom 9. Juni 1985 (BauG)[^13-1].
+
+<sup>2</sup> Die Gesuchstellenden haben sich über die erforderlichen Kenntnisse und die Finanzierung auszuweisen.
+
+<sup>3</sup> Die Erschliessungsbewilligung wird erteilt, wenn alle massgeblichen Vorschriften des öffentlichen Rechts eingehalten sind und wenn keine überwiegenden öffentlichen Interessen entgegenstehen.
+
+<sup>4</sup> Die Erschliessungsbewilligung wird in der Regel der Person erteilt, die bereits über eine Schürfbewilligung im beantragten Erschliessungsgebiet verfügt.
+
+<sup>4a</sup> Wurde keine Schürfbewilligung erteilt, ist sinngemäss nach Artikel 11 Absätze 1 und 4 vorzugehen.
+
+<sup>5</sup> Die Erschliessungsbewilligung ist zu befristen. Die Geltungsdauer kann in begründeten Fällen angemessen verlängert werden.
+
+[^13-1]: BSG 721.0
+
+## 3 Konzession
+
+#### Art. 14
+
+**Grundsätze**
+
+<sup>1</sup> Der Abbau mineralischer Rohstoffe bedarf einer Abbaukonzession.
+
+<sup>2</sup> Die Nutzung der Erdwärme aus tiefen Erdschichten bedarf einer Erdwärmekonzession.
+
+<sup>2a</sup> Die Sondernutzung des öffentlichen Untergrunds bedarf einer Sondernutzungskonzession.
+
+<sup>3</sup> Auf die Erteilung einer Konzession besteht kein Rechtsanspruch.
+
+#### Art. 15
+
+**Voraussetzungen, Befristung**
+
+<sup>1</sup> Eine Konzession kann einer natürlichen oder juristischen Person des öffentlichen oder privaten Rechts oder einer Personengemeinschaft erteilt werden, wenn die gesetzlichen Voraussetzungen erfüllt sind und keine überwiegenden öffentlichen Interessen entgegenstehen.
+
+<sup>2</sup> Waren für den Abbau mineralischer Rohstoffe, die Nutzung der Erdwärme aus tiefen Erdschichten oder die Sondernutzung des öffentlichen Untergrunds bewilligungspflichtige Vorbereitungsmassnahmen notwendig und bewerben sich mehrere Personen um dieselbe Konzession, so hat den Vorrang, wer im Besitz einer Bewilligung nach den Artikeln 10 ff. ist.
+
+<sup>2a</sup> Wurde keine Bewilligung nach den Artikeln 10 ff. erteilt, ist der Eingang eines Konzessionsgesuchs im Amtsblatt zu veröffentlichen mit dem Hinweis, dass weitere Interessierte innert angemessener Frist für dieselbe Nutzung ebenfalls Gesuche einreichen können.
+
+<sup>2b</sup> Bei mehreren Interessierten ist derjenigen Person der Vorzug zu geben, deren Vorhaben dem öffentlichen Wohl in grösserem Masse dient.
+
+<sup>3</sup> Wer eine Konzession beantragt, muss insbesondere nachweisen, dass
+
+- a die geplanten Anlagen einwandfrei erstellt, betrieben und unterhalten werden können,
+- b die Finanzierung und der Betrieb der Anlagen sichergestellt sind und
+- c eine genügende Haftpflichtversicherung abgeschlossen ist.
+
+<sup>4</sup> Die Konzession wird für höchstens 80 Jahre erteilt.
+
+#### Art. 16
+
+**Nebenbestimmungen**
+
+<sup>1</sup> Die Konzession kann mit Nebenbestimmungen verbunden werden, insbesondere darüber, wie Erdoberfläche und Untergrund nach Ablauf der Konzession hergerichtet werden müssen.
+
+#### Art. 17
+
+**Erteilung der Konzession**
+
+<sup>1</sup> Der Grosse Rat ist zuständig für die Erteilung von Abbaukonzessionen für jährlich
+
+- a mehr als 500'000 Kubikmeter feste mineralische Rohstoffe (Rohaushub),
+- b mehr als 3'000'000 Barrel Erdöl,
+- c mehr als 2'000'000 Kubikmeter Erdgas.
+
+<sup>2</sup> Der Regierungsrat ist zuständig für die Erteilung von Sondernutzungskonzessionen sowie für Abbaukonzessionen für jährlich
+
+- a 200'000 bis 500'000 Kubikmeter feste mineralische Rohstoffe (Rohaushub),
+- b 1'500'000 bis 3'000'000 Barrel Erdöl,
+- c 1'000'000 bis 2'000'000 Kubikmeter Erdgas.
+
+<sup>3</sup> Die Bau- und Verkehrsdirektion ist zuständig für die Erteilung von Erdwärmekonzessionen sowie für Abbaukonzessionen für jährlich
+
+- a weniger als 200'000 Kubikmeter feste mineralische Rohstoffe (Rohaushub),
+- b weniger als 1'500'000 Barrel Erdöl,
+- c weniger als 1'000'000 Kubikmeter Erdgas.
+
+#### Art. 18
+
+**Erneuerung, Änderung und Übertragung der Konzession**
+
+<sup>1</sup> Für die Erneuerung oder die wesentliche Änderung einer Konzession gelten die Bestimmungen über die erstmalige Erteilung des Rechts.
+
+<sup>2</sup> Als wesentliche Änderung gilt insbesondere die Erhöhung der Abbaumenge und die Beanspruchung anderer Grundstücke.
+
+<sup>3</sup> Zuständig für die übrigen Konzessionsänderungen ist die Bau- und Verkehrsdirektion.
+
+<sup>4</sup> Die Konzessionsübertragung bedarf der Zustimmung der Konzessionsbehörde.
+
+## 4 Bau, Betrieb und Unterhalt der Anlagen
+
+#### Art. 19
+
+**Grundsatz**
+
+<sup>1</sup> Die Anlagen sind nach dem jeweiligen Stand der Technik zu erstellen, zu betreiben und zu unterhalten.
+
+#### Art. 20
+
+**Werkabnahme**
+
+<sup>1</sup> Anlagen zum Abbau mineralischer Rohstoffe, für die Nutzung der Erdwärme aus tiefen Erdschichten oder die Sondernutzung des öffentlichen Untergrunds dürfen erst in Betrieb genommen werden, nachdem die zuständige Stelle der Bau- und Verkehrsdirektion oder von ihr beauftragte Dritte sie abgenommen haben.
+
+#### Art. 21
+
+**Vollzug**
+
+<sup>1</sup> Die zuständige Stelle der Bau- und Verkehrsdirektion vollzieht in Zusammenarbeit mit den übrigen Fachstellen des Kantons die Vorschriften und Verfügungen über den Bau, den Unterhalt und den Betrieb der Anlagen.
+
+<sup>2</sup> Zur dringenden Gefahrenabwehr kann sie Massnahmen zu Lasten der Nutzungsberechtigten anordnen, durch Dritte durchführen lassen oder selbst vornehmen.
+
+<sup>3</sup> Ihr Personal sowie beauftragte Dritte sind berechtigt, die Anlagen jederzeit zu betreten und zu überprüfen.
+
+## 5 Ende der Bewilligung oder der Konzession
+
+#### Art. 22
+
+**Erlöschen**
+
+<sup>1</sup> Die Bewilligung und die Konzession erlöschen mit ihrem Ablauf, dem Untergang der Anlagen oder dem Verzicht durch die Berechtigten.
+
+<sup>2</sup> Die zuständige Stelle der Bau- und Verkehrsdirektion stellt das Erlöschen mit Verfügung fest.
+
+#### Art. 23
+
+**Widerruf**
+
+<sup>1</sup> Die Bewilligung oder die Konzession kann widerrufen werden, wenn
+
+- a die Berechtigten öffentlich-rechtliche Bestimmungen oder die verfügten Nebenbestimmungen trotz Mahnung wiederholt oder schwerwiegend verletzen oder verletzt haben,
+- b die Voraussetzungen für die Erteilung nicht mehr erfüllt sind,
+- c die Bewilligung oder die Konzession mit unwahren Angaben erwirkt worden ist oder
+- d von der Bewilligung oder der Konzession innert festgelegter Frist nicht Gebrauch gemacht wird.
+
+<sup>2</sup> Soll eine Bewilligung oder eine Konzession widerrufen werden, droht die zuständige Stelle der Bau- und Verkehrsdirektion dies den Berechtigten vorgängig an und setzt ihnen eine Frist zum Beheben des Widerrufgrundes.
+
+#### Art. 24
+
+**Stilllegung des Werks**
+
+<sup>1</sup> Endet die Bewilligung oder die Konzession durch Zeitablauf, Verzicht oder Widerruf, haben die Berechtigten auf ihre Kosten alle Massnahmen zu treffen, die zur Stilllegung und zum Abbruch des Werks sowie zur Wiederherstellung des vorherigen oder des in der Bewilligung oder Konzession angeordneten Zustandes nötig sind.
+
+<sup>2</sup> Die zuständige Stelle der Bau- und Verkehrsdirektion überprüft die rechtmässige Stilllegung des Werks.
+
+#### Art. 25
+
+**Heimfall**
+
+<sup>1</sup> Läuft die Konzession ab und wird sie nicht erneuert, kann die Konzessionsbehörde anstelle der Stilllegung des Werks den Heimfall der konzessionspflichtigen Anlagen an den Kanton gegen eine nach Zeit- und Zustandswert bemessene Entschädigung verlangen.
+
+<sup>2</sup> Will die Konzessionsbehörde den Heimfall geltend machen, kündigt sie dies den Nutzungsberechtigten mindestens fünf Jahre im Voraus an.
+
+<sup>3</sup> Die Anlagen sind von den Nutzungsberechtigten bis zum Heimfall in gutem Zustand zu halten.
+
+## 6 Abgaben
+
+#### Art. 26
+
+**Grundsatz**
+
+<sup>1</sup> Inhaberinnen und Inhaber von Schürf- oder Erschliessungsbewilligungen für mineralische Rohstoffe schulden Oberflächengebühren.
+
+<sup>1a</sup> Für den Abbau mineralischer Rohstoffe und die Sondernutzung des öffentlichen Untergrunds sind Konzessionsabgaben geschuldet.
+
+<sup>2</sup> Keine Oberflächengebühren und Konzessionsabgaben schuldet, wer Erdwärme nutzt.
+
+#### Art. 27
+
+**Oberflächengebühr**
+
+<sup>1</sup> Die Oberflächengebühr beträgt für jedes angefangene Jahr 10 Franken pro Quadratkilometer des Gebietes, für das die Schürf- oder Erschliessungsbewilligung erteilt worden ist.
+
+#### Art. 28
+
+**Einmalige Konzessionsabgabe**
+
+<sup>1</sup> Die Nutzungsberechtigten schulden für die Erteilung, Erneuerung oder Änderung einer Abbaukonzession eine einmalige Abgabe. Diese beträgt fünf Prozent des Marktwertes der jährlich maximal bewilligten Abbau- bzw. Fördermenge.
+
+#### Art. 29
+
+**Wiederkehrende Konzessionsabgaben**
+
+<sup>1</sup> Für die Gewinnung von Erdgas beträgt die jährliche Konzessionsabgabe
+
+- a für die ersten 20 Millionen Kubikmeter zwei Prozent des Marktwertes der geförderten Menge,
+- b für die folgenden 30 Millionen Kubikmeter drei Prozent des Marktwertes der geförderten Menge,
+- c für die folgenden 50 Millionen Kubikmeter vier Prozent des Marktwertes der geförderten Menge,
+- d für die folgenden 100 Millionen Kubikmeter fünf Prozent des Marktwertes der geförderten Menge,
+- e für jede zusätzliche Tranche von 100 Millionen Kubikmeter steigt die jährliche Abgabe um ein Prozent bis höchstens 15 Prozent.
+
+<sup>2</sup> Für die Gewinnung von Erdöl beträgt die jährliche Konzessionsabgabe
+
+- a für die ersten 120'000 Barrel zwei Prozent des Marktwertes der geförderten Menge,
+- b für die folgenden 180'000 Barrel drei Prozent des Marktwertes der geförderten Menge,
+- c für die folgenden 300'000 Barrel vier Prozent des Marktwertes der geförderten Menge,
+- d für die folgenden 600'000 Barrel fünf Prozent des Marktwertes der geförderten Menge,
+- e für jede zusätzliche Tranche von 600'000 Barrel steigt die jährliche Abgabe um ein Prozent bis höchstens 15 Prozent.
+
+<sup>3</sup> Für den Abbau fester mineralischer Rohstoffe beträgt die jährliche Konzessionsabgabe 15 Prozent des Marktwertes der abgebauten Rohstoffe.
+
+#### Art. 29a
+
+**Konzessionsabgabe für die Sondernutzung des öffentlichen Untergrunds**
+
+<sup>1</sup> Für die Sondernutzung des öffentlichen Untergrunds ist eine jährliche Konzessionsabgabe geschuldet.
+
+<sup>2</sup> Für den Abbau von Materialien beträgt die Abgabe 15 Prozent des Marktwerts des abgebauten Materials.
+
+<sup>3</sup> Für die Nutzung als Deponie beträgt die Abgabe 15 Prozent des marktüblichen Entsorgungspreises des abgelagerten Materials.
+
+<sup>4</sup> Für andere Nutzungen ist die Abgabe aufgrund der Wirtschaftlichkeit der konzessionierten Nutzung festzulegen.
+
+#### Art. 30
+
+**Reduktion**
+
+<sup>1</sup> Die Konzessionsbehörde kann in der Konzession die Abgaben reduzieren, wenn der Kanton am Abbau oder an der Sondernutzung ein besonderes Interesse hat.
+
+#### Art. 30a
+
+**Entschädigung betroffener Gemeinden**
+
+<sup>1</sup> Die Konzessionsbehörde kann vorsehen, dass unmittelbar betroffene Gemeinden zur Abgeltung von erheblichen Nachteilen aus der konzessionierten Tätigkeit einen Teil der Konzessionsabgaben erhalten.
+
+## 7 Ausführungsbestimmungen
+
+#### Art. 31
+
+<sup>1</sup> Der Regierungsrat erlässt die erforderlichen Ausführungsbestimmungen.
+
+<sup>2</sup> Er kann eine Fachkommission einsetzen.
+
+## 8 Strafbestimmungen und Rechtspflege
+
+### 8.1 Strafbestimmungen
+
+#### Art. 32
+
+**Tatbestände**
+
+<sup>1</sup> Mit Busse bis zu 100'000 Franken wird bestraft, wer vorsätzlich
+
+- a Handlungen gemäss den Artikeln 10 oder 12 vornimmt, ohne über die notwendigen Bewilligungen zu verfügen,
+- b ohne die erforderliche Konzession mineralische Rohstoffe abbaut, Erdwärme nutzt oder den öffentlichen Untergrund nutzt,
+- c in anderer Weise gesetzlichen Verboten oder gestützt auf dieses Gesetz erlassenen Verfügungen zuwiderhandelt.
+
+<sup>2</sup> Handelt die Täterschaft fahrlässig, beträgt die Strafe Busse bis zu 50'000 Franken.
+
+#### Art. 33
+
+**Organ-, Vertretungs- und Vertragsverhältnisse**
+
+<sup>1</sup> Wer die Widerhandlung in der Eigenschaft als Organ einer juristischen Person, in Vertretung einer dritten Person oder in Erfüllung eines Vertragsverhältnisses begeht, ist für die Tat selber verantwortlich.
+
+<sup>2</sup> Die Organe einer juristischen Person oder die Vertretenen, die es vorsätzlich oder fahrlässig in Verletzung einer Rechtspflicht unterlassen, eine Widerhandlung gemäss Artikel 32 abzuwenden oder in ihrer Wirkung aufzuheben, unterstehen den gleichen Strafbestimmungen wie die Täterschaft.
+
+<sup>3</sup> Die juristischen Personen sowie Kollektiv- und Kommanditgesellschaften haften für Bussen, die in Anwendung der Absätze 1 und 2 auferlegt werden, solidarisch mit der Täterschaft. Im Strafverfahren stehen ihnen die Rechte einer Partei zu.
+
+### 8.2 Rechtspflege
+
+#### Art. 34
+
+**Zuständigkeiten**
+
+<sup>1</sup> Streitigkeiten zwischen mehreren Berechtigten über Rechte und Pflichten aus den Bewilligungen oder den Konzessionen entscheidet auf Klage hin das Verwaltungsgericht. Im Übrigen gelten die Bestimmungen des VRPG.
+
+#### Art. 35
+
+**Rechtsweg**
+
+<sup>1</sup> Gestützt auf dieses Gesetz erlassene Verfügungen können nach den Bestimmungen des KoG und des VRPG angefochten werden.
+
+<sup>2</sup> Gegen Verfügungen des Grossen Rates ist die Verwaltungsgerichtsbeschwerde zulässig.
+
+## 9 Schlussbestimmungen
+
+#### Art. 36
+
+**Aufhebung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
+
+- 1\. Gesetz vom 4. November 1962 über die Gewinnung mineralischer Rohstoffe (Bergwerkgesetz, BSG 931.1),
+- 2\. Verordnung vom 11. September 1968 über die Durchführung von Erdölbohrungen (Bohrverordnung, BSG 931.41),
+- 3\. Dekret vom 4. September 1968 betreffend die Bergwerksgebühren (BSG 931.61).
+
+#### Art. 37
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+## T1 Übergangsbestimmung der Änderung vom 26.11.2019
+
+#### Art. T1-1
+
+**Hängige Verfahren**
+
+<sup>1</sup> Verfahren betreffend die Sondernutzung des öffentlichen Untergrunds, die zum Zeitpunkt des Inkrafttretens dieser Änderung hängig sind, werden nach neuem Recht weitergeführt.
+
+Bern, 18. Juni 2003
+
+Im Namen des Grossen Rates
+
+Der Präsident: Rychiger
+
+Der Staatsschreiber: Nuspliger
+
+RRB Nr. 3598 vom 17. Dezember 2003:
+
+Inkraftsetzung auf den 1. März 2004
+
+04-2

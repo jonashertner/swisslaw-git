@@ -1,0 +1,324 @@
+---
+canton: BE
+number: "215.321.2"
+title: "Ordonnance concernant le registre foncier cantonal et l'introduction du registre foncier fédéral"
+language: fr
+version: 2020-11-01
+valid_until: 2022-12-31
+version_adopted: 2020-09-02
+adopted: 1911-12-09
+in_force: 1911-12-09
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/215.321.2"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1967/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Ordonnance concernant le registre foncier cantonal et l'introduction du registre foncier fédéral
+
+du 09.12.1911 (état au 01.11.2020)
+
+Le Conseil-exécutif du canton de Berne,
+
+vu l'article 171 de la loi du 28 mai 1911[^ingress-1] sur l'introduction du Code civil suisse[^ingress-2] (LiCCS),
+
+sur proposition de la Direction de la justice,
+
+arrête:
+
+[^ingress-1]: RSB 211.1
+[^ingress-2]: RS 210
+
+## 1 ...
+
+#### Art. 1–5
+
+**…**
+
+## 2
+
+#### Art. 6–26
+
+**…**
+
+## 3 Etablissement du registre foncier fédéral
+
+#### Art. 27
+
+**En général 1 Base du registre**
+
+<sup>1</sup> Le registre foncier fédéral est établi sur la base du cadastre des communes et du nouveau registre foncier cantonal.
+
+#### Art. 28
+
+**2 Etat des immeubles**
+
+<sup>1</sup> Dans les communes qui n'ont pas de cadastre, les feuillets du registre foncier cantonal valent comme état des immeubles au sens de l'article 40 du Titre final du Code civil suisse. De pareils états pourront être dressés si les circonstances l'exigent.
+
+<sup>2</sup> Les organes des communes sont tenus de faire les complètements et les constatations nécessaires.
+
+#### Art. 29
+
+**3 Rapport des inscriptions**
+
+<sup>1</sup> Les immatriculations et inscriptions du registre foncier cantonal, une fois que le bureau du registre foncier les a vérifiées à fond conformément aux dispositions ci-après, sont reportées par commune sur les formules établies pour le registre foncier fédéral.
+
+<sup>2</sup> La Direction de l’intérieur et de la justice décide quel genre de formule il faut employer pour chaque commune (voir circulaire du Conseil fédéral du 22 mars 1910).
+
+#### Art. 30
+
+**4 Droits réels inadmissibles**
+
+<sup>1</sup> Les droits réels qui ne peuvent plus être constitués à teneur du Code civil suisse sont reportés sur la nouvelle formule dans la colonne des «mentions», lorsque les intéressés ne parviennent pas, dans le délai de trois mois imparti par le bureau du registre foncier, à s'entendre pour les transformer en droits réels admissibles (par exemple, quand il s'agit d'étages d'une maison appartenant à divers propriétaires, les droits de ceux-ci peuvent être remplacés par la copropriété du sol attribuée à tous et un droit de servitude transmissible accordé à chacun d'eux; la propriété d'arbres plantés dans le fonds d'autrui ou le droit d'y ramasser la fane peut être transformé en copropriété du sol).
+
+#### Art. 31
+
+**5 Révision des inscriptions**
+
+<sup>1</sup> Le bureau du registre foncier effectuera la vérification prévue à l'article 29 ci-dessus en collationnant en particulier les inscriptions avec les actes de production, et il les rectifiera au besoin. Si c'est nécessaire, il indiquera par des renvois les corrélations qui existent avec les feuillets des registres fonciers d'autres districts.
+
+#### Art. 32
+
+**Propriété 1 Vérification**
+
+<sup>1</sup> Le bureau du registre foncier vérifiera l'acquisition de la propriété en recherchant si le propriétaire indiqué est bien celui que donne le dernier titre transcrit dans les anciens registres fonciers. Il établira la corrélation entre ceux-ci et le nouveau registre en mentionnant le numéro du feuillet de ce dernier en marge de l'ancienne inscription.
+
+#### Art. 33
+
+**2 Nouveaux feuillets**
+
+<sup>1</sup> Le bureau du registre foncier établira des feuillets pour les immeubles du domaine privé ou pour ceux du domaine public de l'Etat ou des communes qui n'en auraient pas encore et il en informera le propriétaire. Les organes des communes feront gratuitement les complèments nécessaires.
+
+#### Art. 34
+
+**3 Accessoires**
+
+<sup>1</sup> Les objets mobiliers qui, à teneur de l'ancienne loi, ont été affectés d'un droit de gage comme accessoires d'un immeuble seront portés d'office dans la colonne des «mentions». Lorsqu'un inventaire spécial en a été dressé, il suffit d'y renvoyer.
+
+#### Art. 35
+
+**Servitudes 1 Vérification**
+
+<sup>1</sup> Si comme titre d'une servitude on a indiqué un acte figurant dans l'ancien registre foncier, le bureau du registre foncier se convaincra de l'exactitude de cette indication; le cas échéant, il procédera à la rectification nécessaire.
+
+<sup>2</sup> Il rayera les inscriptions manifestement superflues.
+
+#### Art. 36
+
+**2 Rang des inscriptions**
+
+<sup>1</sup> Les servitudes seront reportées au registre foncier fédéral dans l'ordre des dates où elles ont été constituées.
+
+#### Art. 37
+
+**3 Classement**
+
+<sup>1</sup> Le bureau du registre foncier distinguera entre celles qui, à teneur du CCS, doivent être seulement annotées ou mentionnées au registre foncier fédéral et celles qui sont à y inscrire comme servitudes ou charges foncières. Il exigera des intéressés, le cas échéant, les complèments nécessaires. Il n'opérera le report qu'après avoir fait ce classement.
+
+#### Art. 38
+
+**4 Plans d'alignement**
+
+<sup>1</sup> Le bureau du registre foncier invite les organes des communes à lui remettre dans les trois mois une production indiquant les restrictions apportées à la propriété foncière par les plans d’alignement conformément à la législation sur les constructions.
+
+<sup>2</sup> La production précisera en quoi consiste la restriction du droit de propriété et contiendra pour chaque parcelle grevée et son propriétaire les indications voulues; elle sera signée par les organes compétents de la commune.
+
+<sup>3</sup> Sur le vu de la production et du plan d'alignement sanctionné par le Conseil-exécutif, le bureau du registre foncier procède aux mentions nécessaires, dont il donne ensuite connaissance aux propriétaires qu'elles concernent.
+
+<sup>4</sup> Le tracé des lignes de construction dans les copies de plan cadastral appartenant à la commune peut être ordonné par l'autorité communale, lorsque cela paraît utile, indépendamment de la mention au registre foncier.
+
+#### Art. 39
+
+**Charges foncières**
+
+<sup>1</sup> En reportant une charge foncière au registre fédéral le bureau du registre foncier en indiquera la valeur par une somme déterminée. Si le contrat constitutif est muet sur ce point (art. 783, 2<sup>e</sup> al., CCS) et à défaut d'entente entre les parties, il fixera cette somme.
+
+#### Art. 40
+
+**Droits distincts et permanents 1 En général**
+
+<sup>1</sup> Si des feuillets ont été établis pour des droits qui ne sont pas distincts et permanents, il remettra les choses en ordre en faisant le report des inscriptions dans le registre foncier fédéral. Dans le cas où le propriétaire du fonds grevé a reconnu le droit comme distinct et permanent soit par déclaration expresse soit en n'y formant pas opposition, le feuillet sera maintenu, à moins que le mode de tenir le registre ne s'y prête pas.
+
+#### Art. 41
+
+**2 Droits de superficie**
+
+<sup>1</sup> Pour les bâtiments de tout genre établis sur le fonds d'autrui et qui n'ont pas un caractère mobilier (art. 677 CCS), tels que chalets, étables, lessiveries, greniers, etc., on inscrira d'office des droits de superficie distincts et permanents sur des feuillets à part, en tant du moins que ces bâtiments sont grevés de droits de gage immobilier. Les intéressés seront informés de l'inscription.
+
+#### Art. 42
+
+**3 Concessions hydrauliques**
+
+<sup>1</sup> Il sera procédé de même à l'inscription des concessions hydrauliques baillées en gage. L'inscription se fait sur la base de l'acte de concession et du cadastre des eaux.
+
+#### Art. 43–44
+
+**…**
+
+#### Art. 45
+
+**2 Droits de gage inadmissibles**
+
+<sup>1</sup> Les droits de gage qui portent sur la propriété d'arbres plantés dans le fonds d'autrui ou le droit d'y ramasser la fane ou sur l'un des étages d'une maison appartenant à divers propriétaires doivent être rachetés; le bureau du registre foncier en avisera les intéressés. Ces droits seront mentionnés sur le feuillet établi pour le fonds servant.
+
+#### Art. 46
+
+**3 Droits de gage collectif**
+
+<sup>1</sup> Le droit de gage qui affecte plusieurs immeubles sera, sauf convention contraire des intéressés, inscrit pour la somme totale garantie, sur tous les feuillets établis pour les fonds grevés (art. 26 Titre final CCS).
+
+<sup>2</sup> Pour chaque inscription on renverra sous la rubrique «Observations» aux autres immeubles grevés.
+
+<sup>3</sup> Par immeubles il ne faut entendre ici qu'une parcelle entière ayant son feuillet propre.
+
+#### Art. 47
+
+**4 Disjonction d'immeubles réunis**
+
+<sup>1</sup> Lorsque plusieurs immeubles qui étaient grevés chacun de droits de gage ont été réunis au cadastre ou dans le nouveau registre foncier en une seule parcelle, l'ancien état de choses sera rétabli si c'est possible et sauf convention contraire des intéressés. Les frais de l'opération sont à la charge du débiteur. La disjonction faite, il sera établi un feuillet pour chaque ancienne parcelle.
+
+<sup>2</sup> Si la disjonction n'est pas possible, il faut alors appliquer les dispositions sur le droit de gage partiel.
+
+#### Art. 48
+
+**5 Droit de gage partiel 5.1 En général**
+
+<sup>1</sup> Quand le droit de gage n'affecte qu'une portion d'immeuble, le bureau du registre foncier somme les intéressés de la dégrever dans les trois mois.
+
+<sup>2</sup> Si le dégrèvement n'a pas lieu dans ce délai, le droit de gage sera, par convention des intéressés, ou par décision du bureau du registre foncier, étendu à tout l'immeuble et reporté en conséquence.
+
+#### Art. 49
+
+**5.2 Dégrèvement de petites portions aliénées**
+
+<sup>1</sup> Dans le cas où une portion distraite d’un immeuble grevé a une valeur inférieure au vingtième de la créance, le créancier ne peut refuser le dégrèvement, dès qu’un acompte proportionné lui est payé ou que le reste de l’immeuble lui offre une garantie suffisante (art. 811 CCS).
+
+#### Art. 50
+
+**6 Case hypothécaire**
+
+<sup>1</sup> Avant de reporter les droits de gage sur les nouveaux feuillets, il faut déterminer leur rang ou leur case hypothécaire à teneur des inscriptions figurant à l'ancien registre foncier cantonal. Lorsque le rang ne peut être fixé exactement ou qu'il a subi un changement par suite de l'extension du droit de gage opérée en conformité de l'article 48, il sera réglé, à défaut d'entente entre les intéressés, par le bureau du registre foncier. La même case peut être attribuée à plusieurs droits de gage, si les circonstances le justifient.
+
+#### Art. 51
+
+**7 Mention des conventions**
+
+<sup>1</sup> Les conventions intervenues entre les intéressés en conformité des articles 46 à 50 seront portées au pied des titres de créance ou de gage. Elles seront notées convenablement au registre foncier, là où figurent les droits qu'elles concernent. Dans l'ancienne partie du canton, transcription en sera faite au registre des cessions ou des libérations. L'inscription au nouveau registre n'aura lieu que sur production du titre.
+
+#### Art. 52
+
+**8 Mention des décisions du secrétaire de préfecture**
+
+<sup>1</sup> Toute décision prise par le bureau du registre foncier en conformité des articles 48 et 50 sera inscrite au pied des titres de gage et notée au registre foncier et transcrite dans les registres accessoires comme les conventions des intéressés. Ces derniers seront sommés de présenter leurs titres à cette fin dans les trente jours. L'inscription au registre foncier aura lieu seulement après qu'ils l'auront fait. A défaut de cette production, le droit de gage sera annoté (art. 961 CCS).
+
+#### Art. 53
+
+**9 Opposition**
+
+<sup>1</sup> Le créancier qui n'accepte pas les mesures prises quant aux droits de gage en conformité des articles 48 et 50 peut, dans les trente jours de la signification, dénoncer sa volonté d'être remboursé dans l'année (art. 833 CCS).
+
+#### Art. 54
+
+**Signification des décisions**
+
+<sup>1</sup> Le bureau du registre foncier donnera connaissance aux intéressés de toutes les décisions prises en conformité des dispositions qui précèdent.
+
+<sup>2</sup> Dans la réglementation des rapports entre les gages immobiliers, cette signification se fera en même temps que la sommation de présenter les titres.
+
+#### Art. 55
+
+**Contestations 1 Recours**
+
+<sup>1</sup> Les intéressés peuvent se pourvoir devant la Direction de l’intérieur et de la justice contre la décision du bureau du registre foncier dans les 30 jours de sa signification.
+
+<sup>2</sup> Ladite Direction procède d'office à l'enquête nécessaire et statue en prononçant en même temps sur les frais.
+
+#### Art. 56
+
+**2 Action en justice**
+
+<sup>1</sup> Celui qui s'estime lésé dans ses droits matériels par l'arrêt de la Direction de l’intérieur et de la justice peut, dans les trente jours de la signification de cet arrêt, intenter en justice une action en opposition contre les intéressés.
+
+<sup>2</sup> Le litige sera vidé conformément aux dispositions des articles 22 et suivants appliquées par analogie.
+
+<sup>3</sup> Si action n'est pas intentée, l'arrêt rendu sur le pourvoi fait règle quant à l'inscription au registre foncier. Il en est de même de la décision du bureau du registre foncier quand pourvoi n'a pas été formé contre elle.
+
+#### Art. 57
+
+**Application du droit fédéral**
+
+<sup>1</sup> Les règles du droit fédéral sur le registre foncier et le mode de le tenir sont applicables par analogie aux opérations que nécessite le report des inscriptions du registre foncier cantonal au registre fédéral.
+
+## 4 Introduction du registre foncier fédéral
+
+#### Art. 58
+
+**Epoque de l'introduction**
+
+<sup>1</sup> La Direction de l’intérieur et de la justice fixe la date de l’introduction du registre foncier fédéral pour chaque commune, en tenant compte des conditions particulières de celle-ci. Ladite Direction fera préalablement vérifier les immatriculations et inscriptions faites dans le registre nouvellement établi.
+
+#### Art. 59
+
+**Publication**
+
+<sup>1</sup> Cette introduction sera publiée six mois d'avance au moins. La publication se fera, par les soins du bureau du registre foncier et par trois fois, dans la Feuille officielle cantonale, dans la feuille d'avis autorisée par l'Etat ainsi que de toute autre manière accoutumée.
+
+#### Art. 60
+
+**Changements de propriétaires**
+
+<sup>1</sup> Les propriétaires d'immeubles qui n'auront pas fait inscrire leur droit de propriété dans le registre foncier cantonal conformément à la loi seront sommés par lettre du bureau du registre foncier de le faire dans les trois mois à compter de la première des publications prévues par l'article précédent. Les organes des communes sont tenus de fournir gratuitement audit fonctionnaire tous les renseignements nécessaires pour découvrir ces propriétaires.
+
+<sup>2</sup> Le délai écoulé, le conseil municipal de la commune où sont situés les immeubles requerra d'office l'inscription aux frais du propriétaire.
+
+#### Art. 61
+
+**Eléments du registre foncier**
+
+<sup>1</sup> Les productions de droits réels faites pendant la révision des registres fonciers et avant l'introduction du registre fédéral, ainsi que les pièces justificatives des inscriptions au registre foncier cantonal (art. 16 de la loi du 27 juin 1909) forment partie intégrante de ce registre. Il en est de même des inscriptions figurant à l'ancien registre foncier (rôle foncier, registre des transcriptions et registre des inscriptions hypothécaires) auxquelles renvoie le nouveau registre.
+
+#### Art. 62
+
+**Pièces justificatives 1 Teneur**
+
+<sup>1</sup> Après l'introduction du registre foncier fédéral les contrats concernant les droits réels immobiliers n'énonceront que les droits et charges qui résultent de ce registre.
+
+#### Art. 63
+
+**2 Format**
+
+<sup>1</sup> Les pièces justificatives concernant la transmission de la propriété ainsi que la constitution de gages, de servitudes et de charges foncières seront dressées sur papier de format uniforme que l'Etat fournira au prix coûtant.
+
+#### Art. 64
+
+**3 Classement et conservation**
+
+<sup>1</sup> Les pièces justificatives seront conservées dans l'ordre chronologique et par district. La Direction de l’intérieur et de la justice réglera dans le détail le mode de les numéroter et de les classer.
+
+## 5 Dispositions finales et transitoires
+
+#### Art. 65
+
+**Registre foncier cantonal Continuation**
+
+<sup>1</sup> Dans les communes où, après les reports effectués sur les formules du registre foncier fédéral, les circonstances ne permettent pas encore de l'introduire, le registre ainsi constitué vaudra et sera continué comme registre foncier cantonal.
+
+#### Art. 66
+
+**Instructions de la Direction de la justice, des affaires communales et des affaires ecclésiastiques**
+
+<sup>1</sup> La Direction de la justice, des affaires communales et des affaires ecclésiastiques donnera aux bureaux du registre foncier les ordres et instructions nécessaires pour exécuter les opérations prévues ci-dessus.
+
+#### Art. 67
+
+<sup>1</sup> La présente ordonnance entre immédiatement en vigueur et sera insérée dans le Bulletin des lois.
+
+Berne, 9 décembre 1911
+
+Au nom du Conseil-exécutif,
+
+le président: Burren
+
+le chancelier: Kistler
+
+II d 548 | II f 477

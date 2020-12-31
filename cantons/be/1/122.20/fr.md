@@ -1,0 +1,549 @@
+---
+canton: BE
+number: "122.20"
+title: "Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration"
+short: Li LFAE
+language: fr
+version: 2020-07-01
+valid_until: 2022-10-31
+version_adopted: 2019-12-09
+adopted: 2019-12-09
+in_force: 2020-07-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/122.20"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2352/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Loi portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers et l'intégration
+
+(Li LFAE)
+
+du 09.12.2019 (état au 01.07.2020)
+
+Le Grand Conseil du canton de Berne,
+
+en application de l'article 12 de la Constitution fédérale (Cst.)[^ingress-1] et de l'article 29, alinéas 1 et 2 de la Constitution cantonale (ConstC)[^ingress-2], vu les articles 86, alinéa 1, 98, alinéa 3 et 124, alinéa 2 de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI)[^ingress-3], les articles 46, alinéas 1 et 1<sup>bis</sup> et 80a à 82 de la loi fédérale du 26 juin 1998 sur l'asile (LAsi)[^ingress-4] et l'article 88, alinéa 1 de l'ordonnance fédérale du 24 octobre 2007 relative à l'admission, au séjour et à l'exercice d'une activité lucrative (OASA)[^ingress-5],
+
+sur proposition du Conseil-exécutif,
+
+arrête:
+
+[^ingress-1]: RS [101](https://db.clex.ch/link/Bund/101/fr)
+[^ingress-2]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+[^ingress-3]: RS [142.20](https://db.clex.ch/link/Bund/142.20/fr)
+[^ingress-4]: RS [142.31](https://db.clex.ch/link/Bund/142.31/fr)
+[^ingress-5]: RS [142.201](https://db.clex.ch/link/Bund/142.201/fr)
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente loi règle l'exécution de la LEI et de la LAsi dans le canton de Berne.
+
+<sup>2</sup> L'octroi de l'aide sociale dans le domaine de l'asile et des réfugiés est régi par les dispositions de la loi du 3 décembre 2019 sur l'aide sociale dans le domaine de l'asile et des réfugiés (LAAR)[^1-1].
+
+[^1-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
+
+#### Art. 2
+
+**But**
+
+<sup>1</sup> La présente loi a pour but
+
+- a d'assurer une exécution efficace de la LEI;
+- b de garantir l'aide d'urgence prévue par la Constitution pour les personnes dans le besoin visées à l'article 6, alinéa 1;
+- c d'exécuter systématiquement et rapidement le renvoi des personnes visées à l'article 6, alinéa 1;
+- d d'encourager le départ volontaire de personnes sans droit de séjour ou sans perspectives en ce sens;
+- e d'édicter les réglementations concernant les autorisations d'exercer une activité lucrative et les cas de rigueur selon les possibilités du canton.
+
+## 2 Tâches et compétences relatives à l'exécution de la LEI
+
+#### Art. 3
+
+**Tâches du canton**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité exécute la LEI, dans la mesure où la présente loi ou un autre acte législatif ne prévoit pas d'autres compétences.
+
+<sup>2</sup> Le service compétent de la Direction de l'économie, de l'énergie et de l'environnement rend les décisions préalables en matière de marché du travail. Le Conseil-exécutif peut lui attribuer d'autres tâches dans ce contexte.
+
+<sup>3</sup> Le Conseil-exécutif désigne par voie d'ordonnance les services de la Direction de la sécurité et de la Direction de l'économie, de l'énergie et de l'environnement qui ont compétence pour exécuter la LEI.
+
+#### Art. 4
+
+**Tâches des communes**
+
+<sup>1</sup> Les communes soutiennent les autorités cantonales dans l'application de la LEI.
+
+<sup>2</sup> Le Conseil-exécutif détermine les tâches par voie d'ordonnance.
+
+#### Art. 5
+
+**Surveillance**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité exerce la surveillance, dans son domaine de spécialité, sur les communes.
+
+<sup>2</sup> Il assure une application du droit aussi uniforme que possible et peut édicter des directives en ce sens.
+
+## 3 Aide d'urgence pour les personnes relevant du domaine de l'asile
+
+### 3.1 Principes
+
+#### Art. 6
+
+**Personnes ayant droit à l'aide d'urgence**
+
+<sup>1</sup> Les personnes suivantes sont exclues de l'aide sociale et ont droit à l'aide d'urgence si elles en font la demande et qu'elles sont dans le besoin:
+
+- a personnes qui font l'objet d'une décision de renvoi exécutoire, à qui un délai de départ a été imparti et pour qui le délai visé à l'article 38, alinéa 2 LAAR a expiré;
+- b personnes en cours de procédure selon l'article 82, alinéa 2 LAsi.
+
+<sup>2</sup> Les personnes dans le besoin sont celles
+
+- a qui ne peuvent pas subvenir à leur entretien d’une manière suffisante ou à temps par leurs propres moyens et
+- b qui ne reçoivent pas d'aide de tiers ou pour qui cette aide viendrait trop tard.
+
+#### Art. 7
+
+**Obligations**
+
+<sup>1</sup> Les personnes visées à l'article 6, alinéa 1 sont tenues
+
+- a de se conformer aux directives;
+- b de collaborer à tous les actes officiels des autorités, en particulier pour l'obtention de documents d'identité;
+- c de communiquer au service compétent les informations requises concernant leur situation personnelle et économique et de signaler spontanément et immédiatement tout changement;
+- d de respecter le règlement interne du lieu où elles sont hébergées;
+- e de s'abstenir de toute action susceptible de troubler ou de compromettre le bon déroulement de la vie communautaire au lieu où elles sont hébergées;
+- f d'exécuter les travaux communautaires et de nettoyage qui leur sont confiés.
+
+### 3.2 Exécution
+
+### 3.2.1 Compétences et procédure
+
+#### Art. 8
+
+<sup>1</sup> Le Conseil-exécutif désigne par voie d'ordonnance le service compétent de la Direction de la sécurité pour l'octroi de l'aide d'urgence.
+
+<sup>2</sup> Il fixe par voie d'ordonnance les conditions régissant l'accès à l'aide d'urgence et la procédure d'octroi.
+
+#### Art. 9
+
+**Demande d’autorisation pour cas de rigueur ou prolongation du délai de départ**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité demande au service compétent de la Confédération qu’en application de l’article 14, alinéa 2 et de l’article 45, alinéa 2<sup>bis</sup> LAsi les personnes faisant l’objet d’une décision de renvoi exécutoire à l’issue de plusieurs années de procédure d’asile puissent achever leur apprentissage. Il convient à cet égard de tenir compte des conditions du droit fédéral.
+
+### 3.2.2 Délégation de tâches
+
+#### Art. 10
+
+**Portée et prestataire externe**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité peut déléguer entièrement ou partiellement l'octroi de l'aide d'urgence à un organisme public ou privé approprié en concluant avec lui un contrat de prestations.
+
+#### Art. 11
+
+**Conditions**
+
+<sup>1</sup> La délégation de tâches selon l'article 10, alinéa 1 nécessite
+
+- a que la direction et le personnel disposent des compétences nécessaires et
+- b que l'activité puisse être garantie.
+
+<sup>2</sup> Le Conseil-exécutif peut définir d'autres exigences et conditions applicables aux contrats de prestations par voie d'ordonnance.
+
+#### Art. 12
+
+**Attribution et procédure**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité assigne les personnes visées à l'article 6, alinéa 1 aux organismes.
+
+<sup>2</sup> Les organismes peuvent rendre des décisions dans la limite des compétences qui leur sont déléguées.
+
+<sup>3</sup> La Direction de la sécurité statue sur les recours.
+
+<sup>4</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^12-1] s'appliquent.
+
+[^12-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+
+#### Art. 13
+
+**Surveillance**
+
+<sup>1</sup> La surveillance des organismes incombe au service compétent de la Direction de la sécurité.
+
+<sup>2</sup> Le Conseil-exécutif règle les détails par voie d'ordonnance.
+
+#### Art. 14
+
+**Examen et contrôle**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité examine à intervalles réguliers si les organismes respectent les exigences légales et fournissent des prestations efficaces et de bonne qualité.
+
+#### Art. 15
+
+**Obligations**
+
+<sup>1</sup> Lorsque l'exercice de la surveillance l'exige, les organismes doivent, sans avoir besoin d'être déliés d'éventuelles obligations particulières de garder le secret,
+
+- a fournir des renseignements au service compétent de la Direction de la sécurité;
+- b l'autoriser à consulter des dossiers;
+- c lui donner des informations quant à l'exploitation, aux prestations et à la qualité;
+- d lui signaler toute modification en lien avec les exigences légales inhérentes aux contrats de prestations;
+- e lui garantir l'accès à leurs installations et à leurs locaux;
+- f lui prêter l'assistance nécessaire à l'exercice de la surveillance.
+
+### 3.3 Portée
+
+#### Art. 16
+
+**Teneur et limites**
+
+<sup>1</sup> Les prestations d'aide d'urgence se limitent en principe au minimum prévu par la Constitution.
+
+<sup>2</sup> En règle générale, elles sont octroyées sous forme de prestations en nature et comprennent
+
+- a l'hébergement dans une structure collective;
+- b la remise de denrées alimentaires et d'articles d'hygiène dans des quantités réduites au minimum prévu par la législation en matière d'aide sociale dans le domaine de l'asile et des réfugiés;
+- c les prestations couvertes par l'assurance-maladie obligatoire selon la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)[^16-1];
+- d des vêtements et autres objets en cas de besoin urgent et attesté.
+
+<sup>3</sup> L'octroi rétroactif de prestations est exclu.
+
+[^16-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
+
+#### Art. 17
+
+**Besoins particuliers**
+
+<sup>1</sup> Les prestations d'aide d'urgence pour les mineurs non accompagnés et les autres personnes particulièrement vulnérables sont définies au cas par cas en fonction des besoins particuliers, notamment en ce qui concerne l'hébergement et l'encadrement.
+
+<sup>2</sup> Pour les mineurs non accompagnés, il faut tenir compte de leurs besoins particuliers et des exigences liées au bien de l'enfant.
+
+#### Art. 18
+
+**Solutions avantageuses**
+
+<sup>1</sup> Concernant l'octroi de l'aide d'urgence et des prestations conformément aux articles 16 et 17, les solutions les plus avantageuses doivent être privilégiées.
+
+### 3.4 Hébergement
+
+#### Art. 19
+
+**Situation normale**
+
+<sup>1</sup> En collaboration avec la Direction de la santé, des affaires sociales et de l'intégration et les organismes, le service compétent de la Direction de la sécurité veille à ce qu'un nombre suffisant de places adaptées à l'hébergement temporaire ou durable des personnes bénéficiaires de l'aide d'urgence soient disponibles et prévoit des réserves appropriées.
+
+<sup>2</sup> Il se fonde pour ce faire sur les prévisions établies par les autorités fédérales sur l'évolution du nombre de demandes d'asile.
+
+<sup>3</sup> Les communes ainsi que les préfets et préfètes sont intégrés à un stade précoce à la recherche d'hébergements et y participent activement.
+
+<sup>4</sup> Le Conseil-exécutif peut déléguer aux préfets et préfètes les tâches visées à l'alinéa 1 et la coordination visée à l'article 23, alinéa 1.
+
+#### Art. 20
+
+**Situation tendue**
+
+<sup>1</sup> Les mesures à prendre dans des situations tendues sont régies par l'article 30 LAAR.
+
+<sup>2</sup> Le Conseil-exécutif tient compte du nombre de places requises dans le domaine de l'aide d'urgence.
+
+#### Art. 21
+
+**Situation d'urgence**
+
+<sup>1</sup> Les dispositions de la loi cantonale du 19 mars 2014 sur la protection de la population et la protection civile (LCPPCi)[^21-1] s'appliquent en situation d'urgence.
+
+[^21-1]: RSB [521.1](https://www.belex.sites.be.ch/data/521.1/fr)
+
+#### Art. 22
+
+**Exigences**
+
+<sup>1</sup> Les structures d'hébergement d'urgence doivent, par leur situation, leur taille et leur conception,
+
+- a permettre un hébergement approprié des personnes visées à l'article 6, alinéa 1 et
+- b former des unités aussi pertinentes que possible d'un point de vue économique.
+
+<sup>2</sup> Le Conseil-exécutif règle les détails par voie d'ordonnance et peut définir d'autres critères concernant l'hébergement des personnes visées à l'article 6, alinéa 1.
+
+#### Art. 23
+
+**Informations et coordination**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité fournit aux communes les informations nécessaires et coordonne la collaboration.
+
+### 3.5 Coûts
+
+#### Art. 24
+
+**Indemnisation**
+
+<sup>1</sup> Le canton verse aux communes une indemnité appropriée pour l'utilisation de leurs infrastructures servant à l'hébergement des personnes visées à l'article 6, alinéa 1.
+
+#### Art. 25
+
+**Remboursement des coûts à des tiers**
+
+<sup>1</sup> Quiconque fournit une aide ou une prestation médicale en faveur des personnes visées à l'article 6, alinéa 1 sans en être chargé par le canton n'a pas droit au remboursement des coûts.
+
+<sup>2</sup> Les prestations pour des urgences médicales peuvent être facturées au service compétent de la Direction de la sécurité.
+
+#### Art. 26
+
+**Financement**
+
+<sup>1</sup> Les coûts de l'aide d'urgence découlant de l'exécution de la présente loi selon les articles 16 et 17 sont admis à la compensation des charges de l'aide sociale, dans la mesure où ils ne sont pas couverts par des subventions fédérales.
+
+<sup>2</sup> Le Conseil-exécutif a seul la compétence d'autoriser les dépenses pour les prestations d'aide d'urgence au sens de l'article 16 et pour la sécurité dans les hébergements au sens de l'article 16, alinéa 2, lettre a. La commission compétente du Grand Conseil doit être informée périodiquement de manière appropriée.
+
+<sup>3</sup> Les dispositions des articles 42 et 43 LAAR s'appliquent par analogie aux dépenses et prestations selon l'article 17.
+
+#### Art. 27
+
+**Remboursement de l'aide d'urgence**
+
+<sup>1</sup> Le remboursement de prestations d'aide d'urgence perçues est régi par les dispositions de la loi du 11 juin 2001 sur l'aide sociale (LASoc)[^27-1].
+
+[^27-1]: RSB [860.1](https://www.belex.sites.be.ch/data/860.1/fr)
+
+## 4 Encouragement au départ volontaire et aide au retour
+
+#### Art. 28
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité encourage le départ volontaire des personnes dont la décision de renvoi est exécutoire et le délai de départ expiré.
+
+<sup>2</sup> Il peut proposer à ces personnes des prestations particulières pour préparer et faciliter leur retour dans leur pays d'origine.
+
+<sup>3</sup> Il peut déléguer entièrement ou partiellement les tâches prévues aux alinéas 1 et 2 à un organisme approprié en concluant un contrat de prestations. Les articles 10 à 15 s'appliquent par analogie.
+
+## 5 Décision de renvoi ou d'expulsion et mesures de contraintes
+
+#### Art. 29
+
+**Compétence**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité selon l'article 3, alinéa 1 ordonne le renvoi ou l'expulsion, la perquisition et les mesures de contrainte prévues aux articles 73 à 81 LEI.
+
+<sup>2</sup> Si le Conseil-exécutif délègue la compétence de décision en matière d'exécution de la LEI selon l'article 43, alinéa 1 aux communes, il peut aussi déléguer la compétence d'ordonner le renvoi ou l'expulsion et les mesures de contrainte.
+
+#### Art. 30
+
+**Procédure**
+
+<sup>1</sup> Les mesures de contrainte sont ordonnées et motivées par écrit.
+
+<sup>2</sup> Les personnes étrangères placées en détention suite à une mesure de contrainte doivent être informées, dans une langue qu'elles comprennent, de leurs droits et des motifs de la détention.
+
+<sup>3</sup> Les parents accompagnés de leurs enfants et adolescents de moins de 15 ans ne sont pas mis en détention.
+
+#### Art. 31
+
+**Protection juridique**
+
+<sup>1</sup> L'autorité judiciaire compétente au sens des articles 70 et 73 à 81 LEI est le Tribunal cantonal des mesures de contrainte.
+
+<sup>2</sup> Les décisions rendues par le Tribunal cantonal des mesures de contrainte sont susceptibles de recours devant le Tribunal administratif.
+
+<sup>3</sup> La procédure devant le Tribunal administratif est régie par la LPJA, sous réserve des dispositions suivantes:
+
+- a le délai de recours est de dix jours,
+- b le recours n'a pas d'effet suspensif.
+
+## 6 Exécution de mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté
+
+#### Art. 32
+
+**Exécution**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité exécute les mesures de contrainte relevant du droit des étrangers et requérant la privation de liberté dans des infrastructures appropriées.
+
+<sup>2</sup> Les dispositions de la législation sur l'exécution judiciaire sont applicables dans la mesure où elles sont compatibles avec le but de la privation de liberté et que la présente loi ne contient pas de dispositions particulières.
+
+#### Art. 33
+
+**Droits des personnes détenues**
+
+<sup>1</sup> Les personnes détenues ont le droit de séjourner à l'air libre quotidiennement pendant au moins une heure.
+
+<sup>2</sup> Pour autant qu'aucun motif lié à la sécurité et à l'ordre ne s'y oppose, elles ont par ailleurs droit
+
+- a à un hébergement en commun et à des contacts sociaux,
+- b à des contacts non surveillés avec l'extérieur, par téléphone et par écrit, et à la réception de visites sans surveillance.
+
+<sup>3</sup> Si la privation de liberté excède deux mois, un travail approprié leur est proposé.
+
+<sup>4</sup> L'aménagement de l'exécution doit tenir compte des besoins des personnes visées à l'article 17, alinéa 1 et des familles avec enfants.
+
+#### Art. 34
+
+**Sécurité et ordre**
+
+<sup>1</sup> Les dispositions de la législation sur l'exécution judiciaire relatives à la sécurité et à l'ordre sont applicables dans la mesure où elles sont compatibles avec le but de la privation de liberté.
+
+<sup>2</sup> Les articles 28, 30 et 40 de la loi du 23 janvier 2018 sur l'exécution judiciaire (LEJ)[^34-1] ne sont pas applicables.
+
+[^34-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
+
+#### Art. 35
+
+**Protection juridique**
+
+<sup>1</sup> Les personnes détenues peuvent former recours devant la Direction de la sécurité contre les décisions rendues par la direction de l'établissement d'exécution.
+
+<sup>2</sup> Les décisions rendues par la Direction de la sécurité peuvent être contestées devant le Tribunal administratif.
+
+<sup>3</sup> Le recours n'a pas d'effet suspensif.
+
+#### Art. 36
+
+**Dispositions d'exécution**
+
+<sup>1</sup> Le Conseil-exécutif règle les détails par voie d'ordonnance.
+
+## 7 Protection des données
+
+#### Art. 37
+
+**Traitement des données personnelles**
+
+<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'accomplissement des tâches au sens de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent traiter ou confier pour traitement des données personnelles, y compris des données particulièrement dignes de protection, de personnes étrangères ou de tiers participant à une procédure selon la présente loi, pour autant que cela soit nécessaire à l'accomplissement des tâches qui leur incombent de par la loi.
+
+#### Art. 38
+
+**Communication des données**
+
+<sup>1</sup> Les services cantonaux et communaux ayant compétence pour l'exécution de la présente loi et les organismes auxquels des tâches sont déléguées dans le cadre de la présente loi peuvent, au cas par cas, s'échanger des données personnelles traitées en lien avec l'exécution de la présente loi, y compris des données particulièrement dignes de protection, ou les communiquer à d'autres autorités, pour autant que cela soit nécessaire à l'accomplissement des tâches qui incombent de par la loi aux destinataires de ces données.
+
+<sup>2</sup> Au surplus, la communication de données personnelles par les autorités ayant compétence pour l'exécution de la présente loi est régie par les dispositions de la législation fédérale sur les étrangers et sur l'asile et de la législation cantonale en matière de protection des données.
+
+#### Art. 39
+
+**Obligation de garder le secret, communications à des tiers et obligation de renseigner**
+
+<sup>1</sup> Les dispositions de la LASoc relatives à l'obligation de garder le secret, à la transmission de renseignements à des autorités et des particuliers et à l'obligation de renseigner sont applicables par analogie à l'octroi de l'aide d'urgence dans le cadre de la présente loi.
+
+#### Art. 40
+
+**Systèmes de traitement des données**
+
+<sup>1</sup> Les données personnelles relatives à l'octroi de l'aide d'urgence et de l'aide au retour sont traitées dans le système selon l'article 48 LAAR.
+
+<sup>2</sup> L'utilisation, les droits d'accès électroniques, les responsabilités et la protection des données sont soumis aux dispositions de la LAAR et de la législation relative à la sécurité de l'information et à la protection des données.
+
+<sup>3</sup> Au surplus, les systèmes de traitement des données servant à l'exécution de la LEI et de la LAsi sont soumis aux prescriptions du droit fédéral.
+
+## 8 Procédure et protection juridique
+
+#### Art. 41
+
+<sup>1</sup> La procédure et la protection juridique sont régies par les dispositions de la LPJA, sauf prescription contraire de la présente loi.
+
+<sup>2</sup> Un recours contre le transfert d'une personne hébergée dans une structure particulière au sens de l'article 17, alinéa 1 dans une structure au sens de l'article 16, alinéa 2, lettre a n'a pas d'effet suspensif.
+
+## 9 Dispositions d'exécution
+
+#### Art. 42
+
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions nécessaires à l'exécution de la présente loi.
+
+## 10 Dispositions transitoires
+
+### 10.1 Exécution de la LEI
+
+#### Art. 43
+
+**Compétence de décision**
+
+<sup>1</sup> Le Conseil-exécutif peut prévoir par voie d'ordonnance que les communes auxquelles il avait, par voie d'ordonnance et avant l'entrée en vigueur de la présente loi, délégué entièrement ou partiellement la compétence de rendre des décisions en matière d'exécution de la LEI gardent leur compétence de décision, pour autant qu'elles disposent des ressources et des connaissances nécessaires.
+
+<sup>2</sup> Les communes ne peuvent prétendre à la délégation des tâches selon l'alinéa 1. Une éventuelle délégation n'est pas indemnisée par le canton.
+
+<sup>3</sup> Les décisions rendues par les communes peuvent être contestées devant la Direction de la sécurité. Au surplus, les dispositions de la LPJA sont applicables à la procédure de recours.
+
+#### Art. 44
+
+**Autres compétences**
+
+<sup>1</sup> Les communes auxquelles des compétences au sens de l'article 43, alinéa 1 ont été déléguées et qui disposaient d'un corps de police communal au 31 décembre 2007 peuvent procéder, en coordination avec la Police cantonale et aux fins d'exécuter la LEI, à des auditions conformément à l'article 142, alinéa 2 du Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^44-1], en tenant compte des prescriptions de procédure pénale, et décerner des mandats de comparution de police selon l'article 206 CPP à cet effet.
+
+<sup>2</sup> Les employés et employées communaux qui exécutent des mesures au sens de l'alinéa 1 doivent avoir suivi une formation policière ou équivalente. Ils doivent être annoncés auprès du service compétent de la Direction de la sécurité.
+
+[^44-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+
+#### Art. 45
+
+**Surveillance**
+
+<sup>1</sup> La surveillance est régie par l'article 5.
+
+### 10.2 Octroi de l'aide d'urgence
+
+#### Art. 46
+
+**Examen de structures d'hébergement particulières**
+
+<sup>1</sup> Le service compétent de la Direction de la sécurité examine, dans les six mois à compter de l'entrée en vigueur de la présente loi, la situation des personnes visées à l'article 6, alinéa 1 qui perçoivent des prestations d'aide d'urgence dépassant considérablement la limite prévue à l'article 16, alinéas 1 et 2 en raison notamment d'un hébergement individuel ou spécialisé.
+
+<sup>2</sup> Les personnes visées à l'article 6, alinéa 1 peuvent rester dans les structures d'hébergement particulier jusqu'au terme de cet examen.
+
+<sup>3</sup> Les recours contre les transferts d'une structure d'hébergement à une autre n'ont pas d'effet suspensif.
+
+#### Art. 47
+
+**Contrats de prestations**
+
+<sup>1</sup> Les contrats de prestations conclus selon l'ancien droit conservent leur validité à l'entrée en vigueur de la présente loi jusqu'à la date d'échéance convenue dans le contrat.
+
+#### Art. 48
+
+**Compensation des transferts de charges**
+
+<sup>1</sup> Le montant du transfert de charges entre le canton et les communes, d'un million de francs par année, résultant de la réglementation prévue à l'article 26, alinéa 1 est admis à la compensation des charges à compter de l'entrée en vigueur de la présente loi, conformément à l'article 29b de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^48-1].
+
+[^48-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+## 11 Dispositions finales
+
+#### Art. 49
+
+**Modification d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont modifiés:
+
+- a loi du 11 juin 2009 sur l'organisation des autorités judiciaires et du Ministère public (LOJM)[^49-1],
+- b loi du 19 mars 1992 sur l'école obligatoire (LEO)[^49-2],
+- c loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^49-3].
+
+[^49-1]: RSB [161.1](https://www.belex.sites.be.ch/data/161.1/fr)
+[^49-2]: RSB [432.210](https://www.belex.sites.be.ch/data/432.210/fr)
+[^49-3]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+#### Art. 50
+
+**Abrogation d'un acte législatif**
+
+<sup>1</sup> La loi du 20 janvier 2009 portant introduction de la loi fédérale sur l'asile et de la loi fédérale sur les étrangers (LiLFAE; RSB 122.20) est abrogée.
+
+#### Art. 51
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
+
+<sup>2</sup> Il coordonne son entrée en vigueur avec celle de la LAAR.
+
+Berne, le 9 décembre 2019
+
+Au nom du Grand Conseil,
+
+le président: Zaugg-Graf
+
+le secrétaire général: Trees
+
+ACE n° 592 du 20 mai 2020:
+
+entrée en vigueur le 1<sup>er</sup> juillet 2020
+
+20-055

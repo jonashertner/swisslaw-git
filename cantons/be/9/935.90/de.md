@@ -1,0 +1,384 @@
+---
+canton: BE
+number: "935.90"
+title: Gesetz über das Prostitutionsgewerbe
+short: PGG
+language: de
+version: 2013-04-01
+valid_until: 2021-03-31
+version_adopted: 2012-06-07
+adopted: 2012-06-07
+in_force: 2013-04-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.90"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/615/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über das Prostitutionsgewerbe
+
+(PGG)
+
+vom 07.06.2012 (Stand 01.04.2013)
+
+Der Grosse Rat des Kantons Bern,
+
+in Ausführung von Artikel 37 der Kantonsverfassung[^ingress-1],
+
+auf Antrag des Regierungsrates
+
+beschliesst:
+
+[^ingress-1]: BSG 101.1
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Gesetz soll
+
+- a Personen, welche die Prostitution ausüben, vor Ausbeutung und Missbrauch, insbesondere der Einschränkung ihrer Handlungs- und Entscheidungsfreiheit, schützen und sicherstellen, dass die Arbeitsbedingungen im Prostitutionsgewerbe der Gesetzgebung entsprechen,
+- b sicherstellen, dass präventive, soziale und gesundheitsfördernde Massnahmen umgesetzt werden,
+- c die Bevölkerung vor mit der Prostitution einhergehenden stören- den Begleiterscheinungen schützen.
+
+#### Art. 2
+
+**Prostitution**
+
+<sup>1</sup> Unter Prostitution ist die Tätigkeit einer Person zu verstehen, die Handlungen sexueller Art für eine bestimmte oder unbestimmte Anzahl von Personen gegen Entgelt erbringt.
+
+<sup>2</sup> Die Vornahme von sexuellen Handlungen gegen Entgelt ist zulässig. Die Forderung auf Leistung der Handlung kann nicht abgetreten werden, wohl aber die Forderung auf Leistung der Entschädigung.
+
+<sup>3</sup> Die unselbständige Tätigkeit im Prostitutionsgewerbe ist im Rahmen des Bundesrechts zulässig.
+
+## 2 Strassenprostitution
+
+#### Art. 3
+
+**Begriff**
+
+<sup>1</sup> Als Strassenprostitution gilt die Form der Prostitution, bei der sich eine Person auf öffentlichem Grund oder an Orten, die der Öffentlichkeit zugänglich sind oder die von dieser eingesehen werden können, mit der Absicht der Ausübung der Prostitution aufhält.
+
+#### Art. 4
+
+**Einschränkungen**
+
+<sup>1</sup> Die Ausübung der Strassenprostitution ist verboten
+
+- a in Zonen, die vorwiegend dem Wohnen dienen,
+- b an Haltestellen öffentlicher Verkehrsmittel und in deren unmittelbaren Umgebung während der Betriebszeiten,
+- c in der unmittelbaren Umgebung von religiösen Stätten, Friedhöfen, Kindertagesstätten, Schulen, Spitälern und Heimen.
+
+<sup>2</sup> Die Gemeinden können die Ausübung der Strassenprostitution an weiteren Orten und zu Zeiten verbieten, wo sie die öffentliche Ruhe und Ordnung stören, den Verkehr behindern, andere Störungen verursachen oder den Anstand verletzen kann.
+
+<sup>3</sup> Sie können an einzelnen, genau bezeichneten Orten Ausnahmen vom Verbot gemäss Absatz 1 vorsehen.
+
+## 3 Zurverfügungstellen von Räumlichkeiten und Vermitteln von Kontakten
+
+#### Art. 5
+
+**Bewilligungspflichtige Tätigkeiten**
+
+<sup>1</sup> Eine Bewilligung braucht, wer
+
+- a Räumlichkeiten zur Verfügung stellt, die für die Ausübung der Prostitution bestimmt sind,
+- b zwischen der die Prostitution ausübenden Person und potentiellen Kunden Kontakte vermittelt.
+
+<sup>2</sup> Die Bestimmungen des Gastgewerbegesetzes vom 11. November 1993 (GGG)[^5-1] bleiben vorbehalten.
+
+[^5-1]: BSG 935.11
+
+#### Art. 6
+
+**Ausnahmen von der Bewilligungspflicht**
+
+<sup>1</sup> Im Fall von Artikel 5 Absatz 1 Buchstabe a ist keine Bewilligung erforderlich, wenn die Vermieterin oder der Vermieter nicht mehr als eine für die Ausübung der Prostitution bestimmte Räumlichkeit vermietet und die Prostitution ausschliesslich durch die Person ausgeübt wird, auf deren Namen der schriftliche Mietvertrag lautet.
+
+<sup>2</sup> Der Regierungsrat kann durch Verordnung weitere Ausnahmen vorsehen.
+
+#### Art. 7
+
+**Bewilligung**
+
+<sup>1</sup> Die Bewilligung wird für eine bestimmte Tätigkeit, einen bestimmten Ort und bestimmte Räumlichkeiten ausgestellt. Sie kann mit Auflagen und Bedingungen verbunden werden.
+
+<sup>2</sup> Sie ist persönlich und nicht übertragbar.
+
+<sup>3</sup> Juristische Personen, die eine nach diesem Gesetz bewilligungspflichtige Tätigkeit ausüben wollen, haben eine natürliche Person als verantwortlich zu bezeichnen.
+
+#### Art. 8
+
+**Voraussetzungen für die Bewilligungserteilung**
+
+<sup>1</sup> Die Bewilligung wird einer Person erteilt, wenn
+
+- a sie handlungsfähig ist,
+- b sie in eigener Verantwortung oder in leitender Stellung eine Tätigkeit nach Artikel 5 Absatz 1 ausübt,
+- c die Tätigkeit mit dem Straf- und Ausländerrecht vereinbar ist und
+- d ihr Vorleben und bisheriges Verhalten Gewähr für eine rechtskonforme Ausübung der Tätigkeit bieten.
+
+<sup>2</sup> Die Voraussetzung nach Absatz 1 Buchstabe d erfüllt insbesondere nicht, wer wegen eines Verbrechens gegen die Freiheit oder die sexuelle Integrität (Schweizerisches Strafgesetzbuch [StGB[^8-1]] 2. Buch, 4. und 5. Titel) verurteilt wurde oder sonst in schwerwiegender Weise gegen die öffentliche Sicherheit und Ordnung in der Schweiz oder im Ausland verstossen hat oder diese gefährdet.
+
+[^8-1]: SR 311.0
+
+#### Art. 9
+
+**Dauer**
+
+<sup>1</sup> Die Bewilligung wird für eine Dauer von fünf Jahren erteilt. Sie kann auf Gesuch hin erneuert werden.
+
+<sup>2</sup> Die Gültigkeitsdauer der Bewilligung kann beschränkt werden, wenn besondere Umstände es erfordern.
+
+<sup>3</sup> Die Bewilligung erlischt vorzeitig mit der Aufgabe der Tätigkeit gemäss Artikel 5 Absatz 1 oder mit dem Entzug der Bewilligung.
+
+#### Art. 10
+
+**Pflichten der Bewilligungsinhaberin oder des Bewilligungsinhabers 1. Registerführung**
+
+<sup>1</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber führt und aktualisiert ein Register über die Identität der Personen, die in ihrem oder seinem Verantwortungsbereich im Sinne von Artikel 5 Absatz 1 die Prostitution ausüben.
+
+<sup>2</sup> Das Register hat zudem über das wirtschaftliche Verhältnis zwischen der Bewilligungsinhaberin oder dem Bewilligungsinhaber und der Person, welche die Prostitution ausübt, Auskunft zu geben.
+
+<sup>3</sup> Die im Register aufgeführten Daten müssen nach Beendigung der Tätigkeit zwei Jahre lang aufbewahrt werden. Anschliessend sind sie zu vernichten.
+
+#### Art. 11
+
+**2. Weitere Pflichten**
+
+<sup>1</sup> Die Bewilligungsinhaberin oder der Bewilligungsinhaber hat im Rahmen ihrer oder seiner Tätigkeit gemäss Artikel 5 Absatz 1
+
+- a sicherzustellen, dass die Bedingungen für die Ausübung der Prostitution nicht den Vorschriften des Schweizerischen Strafgesetzbuchs widersprechen, insbesondere, dass alle Personen, welche die Prostitution ausüben, dies freiwillig und ohne Duldung irgendeiner Form von Zwang tun,
+- b sicherzustellen, dass keine minderjährige Person die Prostitution ausübt,
+- c sicherzustellen, dass die Räumlichkeiten den in der Gesetzgebung vorgesehenen Anforderungen für Sicherheit, Sauberkeit und Hygiene genügen,
+- d sicherzustellen, dass Personen, die die Prostitution ausüben, ausländerrechtlich dazu berechtigt sind,
+- e jeder übermässigen Beeinträchtigung der öffentlichen Ruhe und Ordnung vorzubeugen,
+- f sicherzustellen, dass die Leistungserbringer gemäss Artikel 58 Absatz 2 des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^11-1], die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, jederzeit Zutritt zu den Räumlichkeiten haben, die für die Ausübung der Prostitution bestimmt sind oder damit im Zusammenhang stehen,
+- g sicherzustellen, dass die zuständigen Behörden gemäss Artikel 18 jederzeit Kontrollen gemäss Artikel 12 Absatz 1 durchführen können,
+- h der Bewilligungsbehörde umgehend jede Änderung in den persönlichen Voraussetzungen gemäss Artikel 8 mitzuteilen,
+- i bei einer Abwesenheit von mehr als einem Monat eine geeignete Stellvertreterin oder einen geeigneten Stellvertreter zu bestimmen und deren oder dessen Personalien der Bewilligungsbehörde mitzuteilen, wobei sie oder er für die Einhaltung aller massgebenden Bestimmungen verantwortlich bleibt,
+- k sicherzustellen, dass Personen, die die Prostitution ausüben, Zugang zu Informationen über Angebote nach Artikel 16 Absatz 1 haben.
+
+[^11-1]: BSG 860.1
+
+#### Art. 12
+
+**Kontrollen**
+
+<sup>1</sup> Die zuständigen Behörden gemäss Artikel 18 können, soweit es zur Erfüllung ihrer jeweiligen Aufgaben notwendig ist, jederzeit
+
+- a Kontrollen auf den Grundstücken und in den Räumlichkeiten durchführen, die für die Ausübung der Prostitution bestimmt sind oder damit im Zusammenhang stehen,
+- b die Identität der sich darin befindenden Personen überprüfen,
+- c die Register nach Artikel 10 Absatz 1 einsehen.
+
+<sup>2</sup> Die Kontrollen sind unter den zuständigen Behörden soweit wie möglich zu koordinieren.
+
+#### Art. 13
+
+**Entzug**
+
+<sup>1</sup> Die Bewilligung wird entzogen, wenn
+
+- a die Inhaberin oder der Inhaber die von diesem Gesetz oder seinen Ausführungsbestimmungen auferlegten Pflichten nicht erfüllt,
+- b eine der Voraussetzungen für ihre Erteilung nicht mehr erfüllt ist.
+
+<sup>2</sup> In leichten Fällen der Nichterfüllung von Pflichten gemäss Absatz 1 Buchstabe a kann an Stelle des Bewilligungsentzugs eine Verwarnung ausgesprochen werden.
+
+<sup>3</sup> Wird die Bewilligung gestützt auf Absatz 1 Buchstabe a oder auf Buchstabe b in Verbindung mit Artikel 8 Absatz 1 Buchstabe d entzogen, legt die Bewilligungsbehörde einen Zeitraum von einem bis fünf Jahren fest, während dem die Inhaberin oder der Inhaber kein neues Bewilligungsgesuch stellen kann. Die Frist beginnt an dem Tag zu laufen, an dem der Entzug vollstreckbar ist.
+
+#### Art. 14
+
+**Vorsorgliche Massnahme**
+
+<sup>1</sup> Die zuständigen Stellen der Gemeinden und die Kantonspolizei können die Ausübung der Tätigkeiten nach Artikel 5 Absatz 1 Buchstaben a und b vorsorglich unterbinden, wenn Gefahr in Verzug ist oder Ruhe und Ordnung schwerwiegend gestört sind.
+
+<sup>2</sup> Die Bewilligungsbehörde ist umgehend zu benachrichtigen.
+
+<sup>3</sup> Sie hebt die Anordnung auf oder erlässt eine Verfügung gemäss Artikel 13. Die Aufhebung der Anordnung kann mit Auflagen und Bedingungen gemäss Artikel 7 Absatz 1 verbunden werden.
+
+#### Art. 15
+
+**Gebühren**
+
+<sup>1</sup> Die Bewilligungsbehörde erhebt eine Gebühr für die Erteilung, die Verweigerung oder den Entzug der Bewilligung sowie für die Verwarnung.
+
+<sup>2</sup> Die Gemeinden können eine Gebühr von der um Bewilligung ersuchenden Person für die Prüfung gemäss Artikel 18 Absatz 2 sowie von der Bewilligungsinhaberin oder dem Bewilligungsinhaber für ihre weiteren Dienstleistungen nach diesem Gesetz erheben. Für Kontrollen gemäss Artikel 12 Absatz 1 sind nur jährliche Pauschalgebühren zulässig.
+
+## 4 Prävention und Information
+
+#### Art. 16
+
+**Bereitstellung von Angeboten**
+
+<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt Angebote zur Prävention und zur gesundheitlichen und sozialen Betreuung für Personen bereit, die im Kanton die Prostitution ausüben.
+
+<sup>2</sup> Im Übrigen gelten die Bestimmungen des SHG.
+
+#### Art. 17
+
+**Information der Personen, welche die Prostitution ausüben**
+
+<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss Artikel 58 Absatz 2 SHG sorgen dafür, dass die Personen, welche die Prostitution ausüben, ausreichend über ihre Rechte und Pflichten informiert werden.
+
+## 5 Zuständigkeiten, Zusammenarbeit und Datenschutz
+
+#### Art. 18
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist Bewilligungsbehörde gemäss diesem Gesetz.
+
+<sup>2</sup> Bewilligungsgesuche sind bei der zuständigen Stelle der Standortgemeinde einzureichen; diese prüft und leitet sie mit ihrer Stellungnahme an die Bewilligungsbehörde weiter.
+
+<sup>3</sup> Die Gemeinden überwachen die Einhaltung dieses Gesetzes. Sie be-zeichnen eine für die Erfüllung der Aufgaben nach diesem Gesetz zustän-dige Stelle. Vorbehalten bleibt die Zuständigkeit der Kantonspolizei nach den Bestimmungen des Polizeigesetzes vom 8. Juni 1997 (PolG)[^18-1].
+
+<sup>4</sup> Die Migrationsbehörden können für bestimmte Aufgaben beigezogen werden. Sie und die Kantonspolizei können eigenständig Kontrollen gemäss Artikel 12 durchführen.
+
+[^18-1]: BSG 551.1
+
+#### Art. 19
+
+**Zusammenarbeit**
+
+<sup>1</sup> Die zuständigen Behörden und Leistungserbringer gemäss Artikel 58 Absatz 2 SHG arbeiten zusammen, um eine einheitliche Umsetzung dieses Gesetzes zu gewährleisten.
+
+<sup>2</sup> Der Regierungsrat kann zu diesem Zweck eine Kommission als beratendes Fachorgan des Kantons und der Gemeinden einsetzen, der Aufgaben im Bereich der Evaluation übertragen werden können.
+
+<sup>3</sup> Er regelt die Zusammensetzung und Arbeitsweise der Kommission durch Verordnung.
+
+#### Art. 20
+
+**Weitergabe von Informationen 1. Durch Leistungserbringer**
+
+<sup>1</sup> Leistungserbringer gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, dürfen Daten bekannt geben, soweit das SHG dies vorsieht.
+
+<sup>2</sup> Die Befreiung der Leistungserbringer von der Anzeigepflicht an die Staatsanwaltschaft gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^20-1] richtet sich sinngemäss nach dem SHG.
+
+<sup>3</sup> Die Leistungserbringer sind zur Anzeige berechtigt, wenn sie im Zusammenhang mit ihrer Tätigkeit Wahrnehmungen machen, die den Verdacht auf eine Widerhandlung gegen Artikel 27 Absatz 2 begründen.
+
+[^20-1]: BSG 271.1
+
+#### Art. 21
+
+**2. Durch übrige Behörden**
+
+<sup>1</sup> Die Bekanntgabe von Personendaten durch die übrigen für den Vollzug dieses Gesetzes zuständigen Behörden richten sich nach der Gesetzgebung über den Datenschutz.
+
+<sup>2</sup> Die übrigen für den Vollzug dieses Gesetzes zuständigen Behörden dürfen untereinander im Einzelfall zum Vollzug dieses Gesetzes bearbeitete Personendaten einschliesslich besonders schützenswerter Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe zwingend erforderlich sind.
+
+<sup>3</sup> Sie dürfen zudem von sich aus im Einzelfall Personendaten einschliesslich besonders schützenswerter Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber sowie über Personen, welche die Prostitution ausüben, an Leistungserbringer gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen, bekannt geben, wenn die Daten für die Empfängerin oder den Empfänger zur Erfüllung ihrer oder seiner gesetzlichen Aufgabe zwingend erforderlich sind.
+
+#### Art. 22
+
+**3. Betreffend Widerhandlungen gegen die Bestimmungen dieses Gesetzes**
+
+<sup>1</sup> Die Behörden von Kanton und Gemeinden können der Bewilligungsbehörde unaufgefordert Informationen betreffend Widerhandlungen gegen die Bestimmungen dieses Gesetzes zukommen lassen.
+
+<sup>2</sup> Die Behörden gemäss Artikel 18 sind zur Datenbekanntgabe verpflichtet.
+
+<sup>3</sup> Vorbehalten bleiben besondere gesetzliche Geheimhaltungspflichten.
+
+#### Art. 23
+
+**Elektronisches Abrufverfahren**
+
+<sup>1</sup> Die Bewilligungsbehörde kann die von ihr nach diesem Gesetz bearbeiteten Daten durch ein elektronisches Abrufverfahren den folgenden Stellen zugänglich machen:
+
+- a der Kantonspolizei,
+- b der für den Bereich der Migration zuständigen Stelle der Polizei- und Militärdirektion,
+- c den zum Vollzug dieses Gesetzes zuständigen Stellen der Gemeinden,
+- d den Leistungserbringern gemäss Artikel 58 Absatz 2 SHG, die Aufgaben nach Artikel 71 Buchstabe e SHG ausführen.
+
+<sup>2</sup> Die zum Abruf berechtigten Stellen dürfen die Daten zur Erfüllung der jeweiligen ihnen von diesem Gesetz zugewiesenen Aufgaben verwenden. Der Zugriff ist örtlich und sachlich auf diejenigen Daten zu beschränken, die zur Aufgabenerfüllung erforderlich sind.
+
+<sup>3</sup> Die Bewilligungsbehörde kann der kantonalen Steuerverwaltung zum Vollzug dieses Gesetzes bearbeitete Personendaten über Bewilligungsinhaberinnen und Bewilligungsinhaber sowie Angaben über die Aufnahme und Beendigung einer Tätigkeit nach Artikel 5 Absatz 1 bekannt geben und im elektronischen Abrufverfahren zugänglich machen, wenn die Daten für die kantonale Steuerverwaltung zur Erfüllung ihrer gesetzlichen Aufgabe erforderlich sind.
+
+<sup>4</sup> Besonders schützenswerte Personendaten dürfen im elektronischen Abrufverfahren nicht zugänglich gemacht werden.
+
+#### Art. 24
+
+**Datenaufbewahrung und -vernichtung**
+
+<sup>1</sup> Nicht mehr benötigte Daten sind spätestens nach zehn Jahren zu vernichten.
+
+<sup>2</sup> Besondere gesetzliche Aufbewahrungspflichten bleiben vorbehalten.
+
+## 6 Vollzug, Rechtspflege und Strafbestimmungen
+
+#### Art. 25
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Ausführungsbestimmungen.
+
+<sup>2</sup> Er kann im Bereich der Prostitution Bestimmungen über die Sicherheit, Sauberkeit und Hygiene erlassen.
+
+<sup>3</sup> Er erlässt nähere Bestimmungen über
+
+- a die Registerführungspflicht und den Inhalt des Registers,
+- b die elektronische Datensammlung,
+- c das elektronische Abrufverfahren,
+- d die Berechtigungen der einzelnen Stellen,
+- e die Informationssicherheit.
+
+#### Art. 26
+
+**Rechtspflege**
+
+<sup>1</sup> Gegen Verfügungen der Regierungsstatthalterinnen und Regierungsstatthalter, die gestützt auf dieses Gesetz erlassen werden, kann bei der Polizei- und Militärdirektion Beschwerde geführt werden.
+
+<sup>2</sup> Beschwerden gegen Verfügungen gemäss Artikel 13 Absatz 1 kommt keine aufschiebende Wirkung zu, sofern in der Verfügung nichts anderes angeordnet wird.
+
+<sup>3</sup> Für das Verfahren und den Rechtsschutz gelten im Übrigen die Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^26-1].
+
+[^26-1]: BSG 155.21
+
+#### Art. 27
+
+**Strafbestimmungen**
+
+<sup>1</sup> Wer gegen die kantonalen oder kommunalen Bestimmungen zur Einschränkung der Ausübung der Strassenprostitution verstösst, wird nach Massgabe von Artikel 199 StGB mit Busse bestraft.
+
+<sup>2</sup> Wer eine nach diesem Gesetz bewilligungspflichtige Tätigkeit ausübt, ohne im Besitz der erforderlichen Bewilligung zu sein, oder gegen die Pflichten nach den Artikeln 10 und 11 verstösst, wird mit einer Busse bis 50'000 Franken bestraft, sofern nicht ein mit einer höheren Strafe bedrohtes Verbrechen oder Vergehen nach Bundesrecht vorliegt. Versuch und Gehilfenschaft sind strafbar.
+
+<sup>3</sup> Die gestützt auf das vorliegende Gesetz ausgefällten Strafurteile sind der Bewilligungsbehörde mitzuteilen.
+
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 28
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Für Tätigkeiten nach Artikel 5 Absatz 1, die bei Inkrafttreten dieses Gesetzes bereits ausgeübt werden, ist der Bewilligungsbehörde innert drei Monaten ein Gesuch um Bewilligung zu unterbreiten.
+
+<sup>2</sup> Während der Dauer des Bewilligungsverfahrens können die bisher bereits ausgeübten Tätigkeiten vorläufig weitergeführt werden.
+
+#### Art. 29
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden geändert:
+
+- 1\. Gesetz vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG):
+- 2\. Gastgewerbegesetz vom 11. November 1993 (GGG):
+
+#### Art. 30
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+Bern, 7. Juni 2012
+
+Im Namen des Grossen Rates
+
+Die Präsidentin: Rufer-Wüthrich
+
+Die Vizestaatsschreiberin: Aeschmann
+
+RRB Nr. 1730 vom 5. Dezember 2012:
+
+Inkraftsetzung auf den 1. April 2013
+
+13-1

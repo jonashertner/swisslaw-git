@@ -1,0 +1,2341 @@
+---
+canton: BE
+number: "433.121.1"
+title: Mittelschuldirektionsverordnung
+short: MiSDV
+language: de
+version: 2020-08-01
+valid_until: 2021-07-31
+version_adopted: 2020-07-09
+adopted: 2017-06-16
+in_force: 2017-08-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121.1"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1935/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Mittelschuldirektionsverordnung
+
+(MiSDV)
+
+vom 16.06.2017 (Stand 01.08.2020)
+
+Die Erziehungsdirektion des Kantons Bern,
+
+gestützt auf Artikel 88 Absatz 1 der Mittelschulverordnung vom 7. November 2007 (MiSV)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: BSG 433.121
+
+## 1 Allgemeines
+
+### 1.1 Geltungsbereich
+
+#### Art. 1
+
+<sup>1</sup> Diese Direktionsverordnung gilt für die Bildungsgänge kantonaler Anbieter.
+
+<sup>2</sup> Für Bildungsgänge mit anerkannten Abschlüssen privater Anbieter gelten die Bestimmungen für die anerkannten Maturitäts-, Fachmittelschul- und Fachmaturitätsabschlüsse sowie für die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
+
+### 1.2 Leistungsbeurteilungen
+
+#### Art. 2
+
+**Noten**
+
+<sup>1</sup> Bei Aufnahmeprüfungen, in Zeugnissen und bei Abschlussprüfungen werden die Leistungen mit Noten von 1 bis 6 bewertet.
+
+<sup>2</sup> 1 ist die tiefste, 6 die höchste Note. Noten unter 4 bezeichnen ungenügende Leistungen.
+
+<sup>3</sup> Unter Vorbehalt von Artikel 102 Absatz 3 werden ganz- und halbzahlige Noten gesetzt.
+
+#### Art. 3
+
+**Beurteilungsperioden bei mehrjährigen Bildungsgängen**
+
+<sup>1</sup> Bei mehrjährigen Bildungsgängen gilt jedes Schuljahr als Beurteilungsperiode.
+
+<sup>2</sup> Zusätzlich gilt das erste Semester des ersten Jahrs als Beurteilungsperiode, ausser es handelt sich um ein Wiederholungsjahr.
+
+<sup>3</sup> Vorbehalten bleibt Artikel 58.
+
+#### Art. 4
+
+**Zeugnisnoten**
+
+<sup>1</sup> Mit der Zeugnisnote wird die Leistung in einem Fach oder einem Lernbereich während einer ganzen Beurteilungsperiode bewertet. Die Zeugnisnoten errechnen sich aufgrund erteilter Einzelnoten in schriftlichen, mündlichen oder praktischen Arbeiten sowie der Beiträge im Unterricht.
+
+<sup>2</sup> Die Zeugnisnoten der Fächer oder Lernbereiche, die aus mehreren Teilfächern zusammengesetzt sind, werden wie folgt berechnet:
+
+- a sofern Noten für Teilfächer erteilt werden, zählen alle mit gleichem Gewicht, sie werden auf eine Nachkommastelle gerundet und die Gesamtnote entspricht dem arithmetischen Mittel der Teilnoten,
+- b sofern keine Teilnoten erteilt werden, orientiert sich das Gewicht der Teilfächer an der Anzahl der Unterrichtslektionen.
+
+<sup>3</sup> In einer Beurteilungsperiode von einem Semester müssen verteilt auf die ganze Beurteilungsperiode in allen Fächern mindestens zwei Einzelnoten vorliegen.
+
+<sup>4</sup> In einer Beurteilungsperiode von einem Jahr müssen verteilt auf die ganze Beurteilungsperiode
+
+- a in Fächern mit bis zu zwei Wochenlektionen mindestens drei Einzelnoten vorliegen,
+- b in Fächern mit mehr als zwei Wochenlektionen mindestens vier Einzelnoten vorliegen.
+
+<sup>5</sup> Bei spezieller Unterrichtsorganisation wie Blockunterricht gelten die Absätze 3 und 4 sinngemäss.
+
+<sup>6</sup> Werden in einem Fach Arbeiten trotz Mahnung und ohne wichtige Gründe nicht ausgeführt oder nicht fristgerecht abgegeben, kann keine Beurteilung erfolgen und es wird keine Zeugnisnote gesetzt.
+
+<sup>7</sup> Liegen wichtige Gründe vor, kann der Termin für die Leistungserbringung aufgeschoben werden, damit eine Zeugnisnote gesetzt werden kann.
+
+### 1.3 Prüfungen
+
+#### Art. 5
+
+**Öffentlichkeit**
+
+<sup>1</sup> Die Prüfungen sind nicht öffentlich.
+
+<sup>2</sup> Ein Besuchsrecht haben
+
+- a Mitglieder der Schulleitung,
+- b Mitglieder der Schulkommission,
+- c Lehrkräfte der Schule,
+- d bei den Abschlussprüfungen weitere am Unterricht im Prüfungsfach beteiligte Personen und
+- e bei den Abschlussprüfungen die Mitglieder der für die Prüfung zuständigen Prüfungskommissionen oder die von diesen beauftragten Personen sowie die Mitglieder der für die schweizerische Anerkennung zuständigen Kommissionen.
+
+#### Art. 6
+
+**Einsichtsrecht**
+
+<sup>1</sup> Die zuständigen Schulen gewährleisten das rechtliche Gehör. Insbesondere haben die Kandidatinnen und Kandidaten das Recht, während der Rechtsmittelfrist ihre Prüfungsarbeiten einzusehen. Es können kostenpflichtige Kopien der Arbeiten erstellt werden.
+
+#### Art. 7
+
+**Aufbewahrungspflicht**
+
+<sup>1</sup> Die zuständigen Schulen bewahren die Aufnahmeakten, die schriftlichen Aufnahmeprüfungsarbeiten und die schriftlichen Abschlussprüfungsarbeiten bis zum Ablauf der Beschwerdefrist bzw. bis zur rechtskräftigen Erledigung allfälliger Beschwerden auf.
+
+#### Art. 8
+
+**Unredlichkeiten**
+
+<sup>1</sup> Unredlichkeiten bei den Prüfungen, insbesondere die Benützung, Bereitstellung oder Vermittlung unerlaubter Hilfen, sind sofort der Prüfungsleitung bzw. der Präsidentin oder dem Präsidenten der zuständigen Prüfungskommission zu melden.
+
+<sup>2</sup> Die Prüfungsleitung bzw. die Präsidentin oder der Präsident der zuständigen Prüfungskommission erklärt die ganze Prüfung fehlbarer Kandidatinnen oder Kandidaten als nicht bestanden.
+
+#### Art. 9
+
+**Fernbleiben von der Prüfung, Prüfungsabbruch**
+
+<sup>1</sup> Hat sich eine Kandidatin oder ein Kandidat nicht termingerecht abgemeldet und tritt sie oder er ohne wichtigen Grund nicht zur Prüfung an, so gilt die ganze Prüfung als nicht bestanden.
+
+<sup>2</sup> Wer zur Prüfung antritt, gilt als prüfungsfähig. Vorbehalten bleibt Absatz 4.
+
+<sup>3</sup> Wird die Prüfung ohne wichtigen Grund abgebrochen, so gilt die ganze Prüfung als nicht bestanden.
+
+<sup>4</sup> Wird die Prüfung aus einem wichtigen Grund wie Unfall oder Krankheit abgebrochen, wird die Kandidatin oder der Kandidat zu einer Nachprüfung aufgeboten.
+
+### 1.4 Abschlussprüfungen
+
+#### Art. 10
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die für eine Abschlussprüfung zuständige Prüfungskommission trägt die Gesamtverantwortung für die Abschlussprüfungen.
+
+<sup>2</sup> Die Präsidentin oder der Präsident der Prüfungskommission bestimmt im Einvernehmen mit den Schulleitungen den Zeitpunkt der Prüfungen und den Prüfungsplan.
+
+<sup>3</sup> Die Schulleitung ist für die ordnungsgemässe Durchführung der schriftlichen Prüfungen verantwortlich.
+
+<sup>4</sup> Die Expertin oder der Experte ist für die ordnungsgemässe Durchführung der mündlichen Prüfung verantwortlich. Sie oder er stellt durch geeignete Massnahmen sicher, dass der Ablauf der Prüfung in einem Beschwerdefall dargelegt werden kann.
+
+<sup>5</sup> Die mündliche Prüfung wird von den Lehrkräften in Anwesenheit der Expertin oder des Experten abgenommen. Diese oder dieser ist berechtigt, den Kandidatinnen und Kandidaten im Rahmen der Prüfungszeit ergänzende Fragen zu stellen. Artikel 110 Absatz 2a bleibt vorbehalten.
+
+<sup>6</sup> Die Bewertung der schriftlichen wie der mündlichen Prüfung erfolgt gemeinsam durch die Lehrkraft und die Expertin oder den Experten.
+
+#### Art. 11
+
+**Sonderregelungen**
+
+<sup>1</sup> Die Präsidentin oder der Präsident der Prüfungskommission kann Sonderregelungen für die Prüfung einzelner Kandidatinnen und Kandidaten bewilligen, insbesondere
+
+- a individuelle Abschlussziele in der Erst- und Zweitsprache des mehrjährigen Bildungsgangs für Kandidatinnen und Kandidaten mit geringen Kenntnissen in diesen Sprachen,
+- b Massnahmen zum Ausgleich von Benachteiligungen für Kandidatinnen und Kandidaten mit einer Behinderung,
+- c Aufteilung der Prüfung für besonders begabte Kandidatinnen und Kandidaten.
+
+<sup>2</sup> Entsprechende begründete Gesuche für Sonderregelungen sind der Schulleitung zuhanden der Prüfungskommission so früh wie möglich, spätestens aber ein Jahr vor Prüfungsbeginn einzureichen.
+
+#### Art. 12
+
+**Feststellung der Ergebnisse**
+
+<sup>1</sup> Im Anschluss an die Prüfung findet eine Sitzung eines Ausschusses der Prüfungskommission mit den prüfenden Lehrkräften sowie auf deren Wunsch mit den Expertinnen und Experten statt. An dieser Sitzung wird festgestellt, dass die Prüfungsergebnisse nach den Bestimmungen dieser Verordnung zustande gekommen sind. Vorbehalten bleibt Absatz 3.
+
+<sup>2</sup> Die Schulleitung eröffnet die Ergebnisse im Namen der Prüfungskommission durch Verfügung.
+
+<sup>3</sup> Die Ergebnisse der Fachmaturität Gesundheit sowie Soziale Arbeit werden ohne Sitzung gemäss Absatz 1 erwahrt.
+
+### 1.5 Aufnahmen
+
+#### Art. 13
+
+**Ordentliche Aufnahmen und Altersgrenzen**
+
+<sup>1</sup> Ordentliche Aufnahmen in mehrjährige Bildungsgänge erfolgen auf den Beginn der Ausbildung und auf den Beginn des zweitletzten Ausbildungsjahres. Im französischsprachigen Kantonsteil erfolgt zudem eine ordentliche Aufnahme auf das zweite Jahr des gymnasialen Bildungsgangs.
+
+<sup>2</sup> Aufnahmen in Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind, erfolgen gemäss Artikel 49.
+
+<sup>3</sup> Aufnahmen in die weiteren Bildungsgänge erfolgen auf den Beginn der Ausbildung.
+
+<sup>4</sup> Ein Aufnahmeentscheid gilt nur für den nächstmöglichen Aufnahmezeitpunkt.
+
+<sup>5</sup> Zum Aufnahmeverfahren in den gymnasialen Bildungsgang und den Fachmittelschulbildungsgang (FMS-Bildungsgang) werden Kandidatinnen und Kandidaten zugelassen, die
+
+- a das 17. Altersjahr nicht vor dem 1. Mai desjenigen Jahrs vollendet haben, in dem sie im deutschsprachigen Kantonsteil in das erste Jahr des gymnasialen Bildungsgangs eintreten wollen,
+- b das 18. Altersjahr nicht vor dem 1. Mai desjenigen Jahrs vollendet haben, in dem sie in den FMS-Bildungsgang oder im französischsprachigen Kantonsteil in das zweite Jahr des gymnasialen Bildungsgangs eintreten wollen,
+- c das 19. Altersjahr nicht vor dem 1. Mai desjenigen Jahrs vollendet haben, in dem sie in das zweitletzte Jahr des Bildungsgangs eintreten wollen.
+
+<sup>6</sup> Bei Aufnahmen in den FMS-Bildungsgang kann aus wichtigen Gründen von den Bestimmungen in Absatz 5 abgewichen werden.
+
+<sup>7</sup> Zum Aufnahmeverfahren für gymnasiale Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind, werden in der Regel Kandidatinnen und Kandidaten zugelassen, die das 19. Altersjahr bei Ausbildungsbeginn vollendet haben.
+
+#### Art. 14
+
+**Ausserordentliche Aufnahmen**
+
+<sup>1</sup> Ausserhalb der vorgegebenen Aufnahmezeitpunkte sind Aufnahmen nur möglich, wenn die Schülerin oder der Schüler den gleichen Bildungsgang in einer Schule mit schweizerisch anerkanntem Abschluss oder eine ausländische Schule, die auf die gleichen abnehmenden Bildungsinstitutionen vorbereitet, besucht und weiterhin besuchen kann und
+
+- a der Schulwechsel aus wichtigen persönlichen Gründen, insbesondere bei Wohnortswechsel erfolgt, oder
+- b die Voraussetzungen für den Besuch eines Bildungsgangs, der besondere Begabungen unterstützt, nicht mehr erfüllt sind.
+
+<sup>2</sup> Aufnahmeentscheide anderer Kantone werden anerkannt. Bei Übertritten aus einem Gymnasium mit schweizerisch anerkanntem Maturitätsausweis wird der Promotionsentscheid der abgebenden Schule übernommen.
+
+<sup>3</sup> Für Schülerinnen und Schüler mit ausserkantonalem stipendienrechtlichen Wohnsitz kann zudem eine Aufnahme nur erfolgen, falls eine Kostengutsprache vorliegt und freie Ausbildungsplätze vorhanden sind. Schulgeldabkommen bleiben vorbehalten.
+
+<sup>4</sup> Für Schülerinnen und Schüler, welche die Bedingung gemäss Absatz 1 nicht erfüllen, kann die Schulleitung in begründeten Fällen nach einer Abklärung der Eignung eine Aufnahme sur dossier vornehmen.
+
+<sup>5</sup> Die Altersgrenzen gelten bei ausserordentlichen Aufnahmen sinngemäss.
+
+<sup>6</sup> Die Schulleitung entscheidet, in welches Jahr des Bildungsgangs die Schülerin oder der Schüler aufgenommen wird. Die Schülerin oder der Schüler wird angehört.
+
+#### Art. 15
+
+**Probezeit**
+
+<sup>1</sup> Ordentliche Aufnahmen auf den Beginn eines mehrjährigen Bildungsgangs erfolgen mit einer Probezeit von einem Semester.
+
+<sup>2</sup> Am Ende der Probezeit wird die Gesamtleistung der Schülerinnen und Schüler in einem Semesterzeugnis beurteilt. Ist dieses genügend, erfolgt die definitive Aufnahme.
+
+<sup>3</sup> Ist das Semesterzeugnis ungenügend, so wird die Probezeit um ein Semester verlängert. Ist das Zeugnis für die das ganze erste Jahr umfassende Beurteilungsperiode genügend, erfolgt die definitive Aufnahme. Andernfalls muss die Schülerin oder der Schüler aus dem Bildungsgang austreten.
+
+<sup>4</sup> Ordentliche Aufnahmen in das zweitletzte Jahr von mehrjährigen Bildungsgängen erfolgen mit einer Probezeit von einem Jahr. Ist das Zeugnis für die Probezeit genügend, so erfolgt eine definitive Aufnahme, ist das Zeugnis ungenügend, so muss die Schülerin oder der Schüler aus dem Bildungsgang austreten.
+
+<sup>5</sup> Ausserordentliche Aufnahmen in mehrjährige Bildungsgänge erfolgen mit einer Probezeit. Die Schulleitung legt die Probezeit fest. Sie dauert in der Regel höchstens ein Jahr. Ist das Zeugnis für die Probezeit genügend, so erfolgt eine definitive Aufnahme, ist das Zeugnis ungenügend, so muss die Schülerin oder der Schüler aus dem Bildungsgang austreten.
+
+<sup>6</sup> Vorbehalten bleiben die Bestimmungen für den französischsprachigen Kantonsteil und für den gymnasialen Bildungsgang für Erwachsene.
+
+<sup>7</sup> Die Zeugnisbemerkungen richten sich nach Anhang 1.
+
+#### Art. 16
+
+**Hospitium**
+
+<sup>1</sup> In besonderen Fällen, insbesondere wenn fehlende Sprachkenntnisse das Verständnis des Unterrichts erheblich erschweren, kann eine Schülerin oder ein Schüler als Hospitantin oder als Hospitant in einen mehrjährigen Bildungsgang aufgenommen werden. Die Aufnahme in ein Hospitium erfolgt in der Regel für die Dauer eines Jahrs.
+
+<sup>2</sup> Nach der Hälfte des Hospitiums werden die Schülerinnen und Schüler sowie deren Eltern über den Stand der Leistungen orientiert.
+
+<sup>3</sup> Am Ende des Hospitiums entscheidet die Schulleitung über die Aufnahme mit Probezeit oder den Austritt.
+
+<sup>4</sup> Das Hospitium kann von der Schulleitung um ein Jahr verlängert werden.
+
+<sup>5</sup> Im dritten und vierten Jahr des gymnasialen Bildungsgangs ist kein Hospitium möglich.
+
+#### Art. 17
+
+**Gastschülerinnen und Gastschüler**
+
+<sup>1</sup> Gastschülerinnen und Gastschüler können einen mehrjährigen Bildungsgang bis zu einem Jahr besuchen.
+
+<sup>2</sup> Der Unterrichtsbesuch wird bestätigt. Auf Wunsch kann der Gastschülerin oder dem Gastschüler ein Bericht über die erbrachten Leistungen ausgestellt werden.
+
+### 1.6 Promotionen
+
+#### Art. 18
+
+**Promotionen**
+
+<sup>1</sup> Promotionen erfolgen in mehrjährigen Bildungsgängen nach der definitiven Aufnahme am Ende jedes Jahrs abgestützt auf die Beurteilung der Gesamtleistung in dieser Beurteilungsperiode. Am Ende des letzten Jahrs erfolgt keine Promotion mehr.
+
+<sup>2</sup> Die Schulleitung entscheidet über die Promotionen.
+
+<sup>3</sup> Schülerinnen und Schüler mit genügender Gesamtleistung im Schuljahr werden promoviert und treten ins nächste Jahr des Bildungsgangs über.
+
+<sup>4</sup> Schülerinnen und Schüler mit ungenügender Gesamtleistung im Schuljahr werden nicht promoviert und müssen ein Jahr wiederholen oder austreten.
+
+<sup>5</sup> Fehlen für die Promotion massgebende Zeugnisnoten, ohne dass dafür wichtige Gründe vorliegen, muss die Schülerin oder der Schüler aus dem Bildungsgang austreten. Liegen wichtige Gründe vor, kann die Schulleitung entscheiden, dass der Zeugnistermin verschoben wird oder ein Schuljahr wiederholt werden darf. Diese Wiederholung wird nicht an die ordentlichen Wiederholungsmöglichkeiten angerechnet.
+
+<sup>6</sup> Die Zeugnisbemerkungen richten sich nach Anhang 1.
+
+#### Art. 19
+
+**Wiederholungsmöglichkeit und Austritt**
+
+<sup>1</sup> Schülerinnen und Schüler haben nach der definitiven Aufnahme das Recht, einmal ein Jahr zu wiederholen.
+
+<sup>2</sup> Die Schulleitung kann eine weitere Wiederholung bewilligen, wenn die Nichtpromotion auf wichtige unterrichtsfremde Gründe zurückzuführen ist.
+
+<sup>3</sup> Ist die Gesamtleistung am Ende des wiederholten Schuljahrs ungenügend, muss die Schülerin oder der Schüler aus dem Bildungsgang austreten. Am Ende des letzten Ausbildungsjahrs bleibt eine ungenügende Gesamtleistung ohne Wirkung.
+
+#### Art. 19a
+
+**Zuweisung in anderes Schuljahr**
+
+<sup>1</sup> Die Schulleitung kann eine Schülerin oder einen Schüler aus wichtigen Gründen einem anderen Schuljahr des Bildungsgangs zuweisen.
+
+<sup>2</sup> Als wichtige Gründe gelten insbesondere längere Abwesenheiten wegen Krankheit oder Unfall.
+
+<sup>3</sup> Eine Zuweisung aus wichtigen Gründen ist unabhängig von Probezeit- und Promotionsvorschriften auch während des Schuljahrs möglich.
+
+<sup>4</sup> Eine Wiederholung wird nicht an die ordentlichen Wiederholungsmöglichkeiten angerechnet.
+
+### 1.7 Zeugnisse und Berichte
+
+#### Art. 20
+
+**Zeugnis**
+
+<sup>1</sup> Bei mehrjährigen Bildungsgängen wird der Schülerin oder dem Schüler für jede Beurteilungsperiode ein Zeugnis ausgestellt.
+
+<sup>2</sup> Das Zeugnis enthält
+
+- a die Zeugnisnoten der Fächer, die zur Bewertung der Gesamtleistung massgebend sind,
+- b gegebenenfalls bei einzelnen Fächern den Hinweis «Bewertet nach individuellen Lernzielen»,
+- c gegebenenfalls im gymnasialen Bildungsgang beim Fach Sport der Hinweis «dispensiert», falls eine Dispensation aus medizinischen Gründen notwendig ist oder falls im Rahmen der Förderung besonders Begabter eine Dispensation vom Fach gesprochen wurde,
+- d die Zeugnisnoten oder die Bestätigung des Besuchs für weiteren obligatorischen Unterricht und Fakultativfächer,
+- e die Bemerkung, „Zeugnis genügend“ bzw. „Zeugnis ungenügend“ in Abhängigkeit von der Beurteilung der Gesamtleistung sowie den Promotionsentscheid gemäss Artikel 18,
+- f die Anzahl der entschuldigten und unentschuldigten Absenzen gemäss Artikel 131 bis 133,
+- g eine Rechtsmittelbelehrung und
+- h die Unterschriften der Schulleitung als verfügender Behörde und der Klassenlehrkraft.
+
+<sup>3</sup> Das Zeugnis kann zudem enthalten
+
+- a Noten von Teilfächern,
+- b Bemerkungen zum Arbeits- und Lernverhalten,
+- c den Vermerk zur zweisprachigen Matur,
+- d einen Vermerk zum Besuch eines Begabtenförderungsprogramms.
+
+<sup>4</sup> Die mündige Schülerin oder der mündige Schüler oder die Eltern bestätigen die Einsichtnahme durch Unterschrift.
+
+<sup>5</sup> Die Schule bewahrt das Zeugnis auf und händigt es der Inhaberin oder dem Inhaber bei Schulaustritt aus.
+
+#### Art. 21
+
+**Zwischenbericht und formative Beurteilung**
+
+<sup>1</sup> Nach dem ersten Semester von mehrjährigen Bildungsgängen erhalten die Schülerinnen und Schüler neben dem Zeugnis ebenfalls eine formative Beurteilung gemäss Absatz 4.
+
+<sup>2</sup> Ab dem zweiten Ausbildungsjahr wird den Schülerinnen und Schülern am Ende des ersten Semesters ein Zwischenbericht ausgestellt. Dieser enthält den bis dahin erreichten Notenstand und eine formative Beurteilung.
+
+<sup>3</sup> Bis zum Zwischenbericht liegt in den bis dahin unterrichteten Fächern mindestens eine Einzelnote pro Fach vor.
+
+<sup>4</sup> Eine formative Beurteilung erfolgt mindestens in den Fächern mit bis dahin ungenügendem Notenstand.
+
+#### Art. 22
+
+**Aufbewahrungsfristen**
+
+<sup>1</sup> Die Schulen bewahren wichtige Dokumente während folgenden Fristen auf:
+
+- a Maturaarbeiten, Selbstständige Arbeiten der Fachmittelschule und Fachmaturarbeiten zehn Jahre,
+- b Semester- und Jahreszeugnisse 15 Jahre,
+- c Abschlusszeugnisse (Maturitätsausweise, Fachmittelschulausweise, Fachmaturitätszeugnisse, Ausweise über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses) 70 Jahre.
+
+## 2 Gymnasiale Bildungsgänge
+
+### 2.1 Aufnahmen
+
+### 2.1.1 Aufnahmen aus dem zweiten und dritten Jahr der Sekundarstufe I von öffentlichen Schulen des Kantons Bern auf den Beginn des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil
+
+#### Art. 23
+
+**Aufnahmeverfahren, Anmeldung**
+
+<sup>1</sup> Die Aufnahmen aus dem zweiten und dritten Jahr der Sekundarstufe I einer öffentlichen Schule des Kantons Bern in das erste Jahr des gymnasialen Bildungsgangs erfolgen aufgrund einer Empfehlung der zuständigen Behörde der abgebenden Schule oder einer Aufnahmeprüfung.
+
+<sup>2</sup> Die Eltern melden Schülerinnen und Schüler bis Anfang Dezember auf einem besonderen Formular bei der Schulleitung der abgebenden Schule an.
+
+<sup>3</sup> Eltern von Schülerinnen und Schüler, die nicht eine öffentliche Schule besuchen oder nicht am Empfehlungsverfahren einer öffentlichen Schule teilgenommen haben, melden diese bis Mitte Februar auf einem besonderen Formular direkt beim zuständigen Gymnasium zur Aufnahmeprüfung an.
+
+#### Art. 24
+
+**Empfehlungsverfahren**
+
+<sup>1</sup> Die Aufnahme aufgrund einer Empfehlung für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs erfolgt gestützt auf die Beurteilung der fachlichen Kompetenzen sowie der methodischen und personalen Kompetenzen in folgenden Fächern:
+
+- a Erstsprache (Deutsch),
+- b zweite Landessprache (Französisch),
+- c Mathematik,
+- d Natur-Mensch-Gesellschaft im Hinblick auf den Unterricht in Biologie, Chemie, Physik, Geschichte und Geographie.
+
+<sup>2</sup> Die zuständige Behörde der abgebenden öffentlichen Schule eröffnet den Eltern am Ende des ersten Semesters des zweiten oder dritten Jahrs der Sekundarstufe I die Aufnahme in den gymnasialen Bildungsgang aufgrund der Empfehlung durch Verfügung.
+
+<sup>3</sup> Erfolgt keine Empfehlung, meldet sie die Schülerin oder den Schüler auf Antrag der Eltern bis Mitte Februar beim zuständigen Gymnasium zur Aufnahmeprüfung an.
+
+<sup>4</sup> Die Einzelheiten zum Empfehlungsverfahren finden sich in Anhang 2.
+
+#### Art. 25
+
+**Aufnahmeprüfung**
+
+<sup>1</sup> In den Regionen Bern-Mittelland, Biel-Seeland, Emmental-Oberaargau und Oberland finden vor Ende März gleichzeitig kantonsweit einheitliche Prüfungen statt.
+
+<sup>2</sup> Die Bestimmungen zum Prüfungsverfahren finden sich in Anhang 3.
+
+#### Art. 26
+
+**Aufnahmeentscheid aufgrund der Prüfung**
+
+<sup>1</sup> Über die Aufnahme gestützt auf das Ergebnis der Aufnahmeprüfung entscheidet:
+
+- a die zuständige Behörde der abgebenden öffentlichen Schule oder
+- b die Schulleitung der prüfungsleitenden Schule in den Fällen von Artikel 23 Absatz 3.
+
+<sup>2</sup> Der Aufnahmeentscheid wird den Eltern durch Verfügung eröffnet.
+
+### 2.1.2 Übrige Aufnahmen auf den Beginn des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil
+
+#### Art. 27
+
+**Aufnahmeverfahren, Anmeldung**
+
+<sup>1</sup> Schülerinnen und Schüler, die nicht ein zweites oder drittes Jahr der Sekundarstufe I einer öffentlichen Schule des Kantons Bern besuchen, absolvieren die Aufnahmeprüfung.
+
+<sup>2</sup> Die Eltern melden Schülerinnen und Schüler bis Mitte Februar auf einem besonderen Formular beim zuständigen Gymnasium zur Prüfung an.
+
+#### Art. 28
+
+**Aufnahmeentscheid**
+
+<sup>1</sup> Die Schulleitung der prüfungsleitenden Schule ist die für die Aufnahmeprüfung zuständige kantonale Behörde.
+
+<sup>2</sup> Sie entscheidet über die Aufnahme gestützt auf das Ergebnis der Aufnahmeprüfung.
+
+<sup>3</sup> Sie eröffnet den Eltern den Aufnahmeentscheid durch Verfügung.
+
+### 2.1.3 Beurteilung im zweiten und dritten Jahr der Sekundarstufe I von öffentlichen Schulen des Kantons Bern und Aufnahme in den gymnasialen Bildungsgang im französischsprachigen Kantonsteil
+
+#### Art. 29
+
+<sup>1</sup> Die Beurteilung und die Schullaufbahnentscheide im zweiten und dritten Schuljahr der Sekundarstufe I einer öffentlichen Schule des Kantons Bern sind in der Direktionsverordnung vom 6. März 2018 über die Beurteilung und Schullaufbahnentscheide in der Volksschule (DVBS)[^29-1] geregelt und definieren für die «sections préparant aux écoles de maturité (section p)» die Aufnahme in den gymnasialen Bildungsgang auf den Beginn des dritten Jahrs der Sekundarstufe I.
+
+[^29-1]: BSG [432.213.11](https://www.belex.sites.be.ch/data/432.213.11/de)
+
+### 2.1.4 Übertritte aus dem dritten Jahr der Sekundarstufe I von öffentlichen Schulen des Kantons Bern in das zweite Jahr des gymnasialen Bildungsgangs im französischsprachigen Kantonsteil
+
+#### Art. 30
+
+**Übertrittsverfahren, Anmeldung**
+
+<sup>1</sup> Die Aufnahmen aus dem dritten Jahr der Sekundarstufe I einer öffentlichen Schule des Kantons Bern in das zweite Jahr des gymnasialen Bildungsgangs erfolgen aufgrund einer Beurteilung der zuständigen Behörde der abgebenden Schule oder einer Aufnahmeprüfung.
+
+<sup>2</sup> Schülerinnen und Schüler, die in das zweite Jahr eines gymnasialen Bildungsgangs übertreten wollen, müssen vorgängig den Unterricht in einer «section préparant aux écoles de maturité (section p)» besuchen oder eine Aufnahmeprüfung absolvieren.
+
+<sup>3</sup> Die Eltern melden Schülerinnen und Schüler bis Ende Januar auf einem besonderen Formular bei der Schulleitung der abgebenden Schule an.
+
+#### Art. 31
+
+**Beurteilung**
+
+<sup>1</sup> Die Beurteilung im dritten Jahr der Sekundarstufe I einer öffentlichen Schule im Hinblick auf den Übertritt in das zweite Jahr des gymnasialen Bildungsgangs erfolgt gestützt auf
+
+- a die Sachkompetenz in den Fächern Französisch, Deutsch und Mathematik,
+- b die Sachkompetenz in den anderen Fächern,
+- c das Arbeits- und Lernverhalten.
+
+#### Art. 32
+
+**Prüfungsfreier Übertritt, Anmeldung zur Aufnahmeprüfung**
+
+<sup>1</sup> Schülerinnen und Schüler aus dem dritten Jahr einer «section préparant aux écoles de maturité (section p)» treten aufgrund der Beurteilung in das zweite Jahr des gymnasialen Bildungsgangs über, wenn die Leistungen am Ende des ersten Semesters des dritten Jahrs der Sekundarstufe I folgenden Anforderungen genügen:
+
+- a in Französisch, Deutsch und Mathematik: drei Niveaus A (davon mindestens eines mit Note 5 oder besser, wenn keine der anderen Noten ungenügend ist; aber mindestens mit zwei Noten 5 oder besser, wenn die dritte ungenügend ist) oder zwei Niveaus A (jeweils mit der Note 5 oder besser) und ein Niveau B (mit einer genügenden Note),
+- b in der Mehrheit der übrigen obligatorischen Fächern mindestens die Note 4,5 und
+- c in nicht mehr als einem der übrigen obligatorischen Fächer eine Note unter 4.
+
+<sup>2</sup> Sie treten mit einer Probezeit von einem Semester über. Vorbehalten bleibt Artikel 33.
+
+<sup>3</sup> Erfolgt kein prüfungsfreier Übertritt, meldet die Schulleitung der abgebenden Schule die Schülerin oder den Schüler auf Antrag der Eltern bis Mitte Februar beim Gymnase français de Bienne zur Aufnahmeprüfung an.
+
+#### Art. 33
+
+**Definitive Aufnahme**
+
+<sup>1</sup> Gemäss Artikel 32 Absätze 1 und 2 aufgenommene Schülerinnen und Schüler treten definitiv in das zweite Jahr des gymnasialen Bildungsgangs über, wenn die Leistungen am Ende des zweiten Semesters des dritten Jahrs der Sekundarstufe I den Anforderungen gemäss Artikel 32 Absatz 1 genügen.
+
+#### Art. 34
+
+**Übertrittsakten**
+
+<sup>1</sup> Die öffentliche Schule erstellt am Ende des ersten Semesters des dritten Jahrs der Sekundastufe I für alle angemeldeten Schülerinnen und Schüler Übertrittsakten zuhanden der Schulleitung des zuständigen Gymnasiums.
+
+<sup>2</sup> Darin enthalten sind das Anmeldeformular, die Beurteilungsberichte des zweiten Semesters des zweiten Jahrs der Sekundarstufe I und des ersten Semesters des dritten Jahrs des Sekundarstufe I; für Schülerinnen und Schüler, die für die Aufnahmeprüfung angemeldet sind, zusätzlich die Empfehlung der Schulleitung gemäss Anhang 4.
+
+### 2.1.5 Übrige Aufnahmen in das zweite Jahr des gymnasialen Bildungsgangs im französischsprachigen Kantonsteil
+
+#### Art. 35
+
+**Aufnahmeprüfung**
+
+<sup>1</sup> Schülerinnen und Schüler, die nicht das dritte Jahr der Sekundarstufe I an einer öffentlichen Schule besuchen, melden sich bis Mitte Februar beim Gymnase français de Bienne zur Aufnahmeprüfung an.
+
+<sup>2</sup> Die Aufnahmeprüfung findet vor Ende März in der Region Bienne-Jura bernois statt.
+
+<sup>3</sup> Die Bestimmungen zum Prüfungsverfahren finden sich im Anhang 4.
+
+<sup>4</sup> Die Schulleitung der prüfungsleitenden Schule entscheidet über die Aufnahme. Sie eröffnet den Entscheid den Eltern durch Verfügung.
+
+<sup>5</sup> Die Aufnahme in das zweite Jahr des gymnasialen Bildungsgangs erfolgt mit einer Probezeit von einem Semester.
+
+#### Art. 36
+
+**Probezeit und definitive Aufnahme**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die gemäss Artikel 33 definitiv in das zweite Jahr des gymnasialen Bildungsgangs aufgenommen wurden, gelten die ordentlichen Bestimmungen zur Promotion.
+
+<sup>2</sup> Schülerinnen und Schüler,die mit einer Probezeit in das zweite Jahr des gymnasialen Bildungsgangs aufgenommen wurden, werden nach der Hälfte des ersten Semesters über den Stand der Leistungen orientiert. Schülerinnen und Schüler, deren Gesamtleistung am Ende der Probezeit ungenügend ist, müssen aus dem Bildungsgang austreten.
+
+<sup>3</sup> Die Schulleitung kann in begründeten Fällen auf Gesuch hin die Probezeit auf das ganze Schuljahr ausdehnen. Ist die Gesamtleistung am Ende des Schuljahrs ungenügend, muss die Schülerin oder der Schüler aus dem Bildungsgang austreten.
+
+### 2.1.6 Übertritte auf den Beginn des zweisprachigen gymnasialen Bildungsgangs der Gymnasien der Region Biel-Seeland und Bienne-Jura bernois von Schülerinnen und Schülern des französischsprachigen Kantonsteils
+
+#### Art. 37
+
+**Übertrittsverfahren, Anmeldung**
+
+<sup>1</sup> Die Aufnahme aus dem zweiten Jahr «section préparant aux écoles de maturité (section p)» einer öffentlichen Schule des Kantons Bern in das erste Jahr des zweisprachigen gymnasialen Bildungsgangs der Gymnasien der Region Biel-Seeland und Bienne-Jura bernois erfolgt aufgrund der Beurteilung der abgebenden Schule.
+
+<sup>2</sup> Schülerinnen und Schüler müssen zudem zivilrechtlichen Wohnsitz in einer Gemeinde haben, die einen entsprechenden Vertrag mit dem Kanton abgeschlossen hat.
+
+<sup>3</sup> Die Eltern melden Schülerinnen und Schüler bis Ende Januar auf einem besonderen Formular bei der Schulleitung der abgebenden Schule an.
+
+#### Art. 38
+
+**Prüfungsfreier Übertritt aus dem zweiten Jahr der Sekundarstufe I**
+
+<sup>1</sup> Schülerinnen und Schüler aus dem zweiten Jahr einer «section préparant aux écoles de maturité (section p)» treten prüfungsfrei in das erste Jahr des zweisprachigen gymnasialen Bildungsgangs über, wenn die Leistungen am Ende des ersten Semesters des vorhergehenden Schuljahrs folgenden Anforderungen genügen:
+
+- a in Französisch, Deutsch und Mathematik: drei Niveaus A (davon mindestens eines mit Note 5 oder besser, wenn keine der anderen Noten ungenügend ist; aber mindestens mit zwei Noten 5 oder besser, wenn die dritte ungenügend ist) oder zwei Niveaus A (jeweils mit der Note 5 oder besser) und ein Niveau B (mit einer genügenden Note),
+- b in Deutsch: Niveau A mit mindestens der Note 4,
+- c in der Mehrheit der übrigen obligatorischen Fächern mindestens die Note 4,5 und
+- d in nicht mehr als einem der übrigen obligatorischen Fächer eine Note unter 4.
+
+<sup>2</sup> Es finden keine Aufnahmeprüfungen statt.
+
+<sup>3</sup> Die zuständige Behörde der öffentlichen Schule erstellt am Ende des ersten Semesters des zweiten Jahrs der Sekundarstufe I für alle angemeldeten Schülerinnen und Schüler Übertrittsakten gemäss Artikel 34 zuhanden der Schulleitung des zuständigen Gymnasiums.
+
+<sup>4</sup> Die Schülerinnen und Schüler treten mit einer Probezeit in das erste Jahr des gymnasialen Bildungsgangs über.
+
+#### Art. 39
+
+**Übertritt aus dem dritten Jahr der Sekundarstufe I**
+
+<sup>1</sup> Die Übertritte aus dem dritten Jahr der Sekundarstufe I einer öffentlichen Schule des Kantons Bern erfolgen in das erste Jahr des zweisprachigen gymnasialen Bildungsgangs. Es gelten die Bestimmungen gemäss Artikel 30 bis 35.
+
+<sup>2</sup> Schülerinnen und Schüler müssen zudem zivilrechtlichen Wohnsitz in einer Gemeinde haben, die einen entsprechenden Vertrag mit dem Kanton abgeschlossen hat.
+
+#### Art. 40
+
+**Probezeit, definitive Aufnahme, Promotion in das zweite Jahr des Bildungsgangs und Wechsel des Bildungsgangs**
+
+<sup>1</sup> Für die Probezeit und die definitive Aufnahme gelten die Bestimmungen von Artikel 15.
+
+<sup>2</sup> Für die Promotion in das zweite Jahr des gymnasialen Bildungsgangs gelten die Bestimmungen von Artikel 18.
+
+<sup>3</sup> Ein prüfungsfreier Wechsel in den einsprachigen Bildungsgang ist frühestens auf das dritte Jahr des gymnasialen Bildungsgangs möglich. Ein Wechsel auf das zweite Jahr des gymnasialen Bildungsgangs erfolgt mit einer Aufnahmeprüfung gemäss Artikel 35.
+
+<sup>4</sup> Für den Wechsel in den FMS-Bildungsgang oder in den Bildungsgang an einer Handelsmittelschule gelten für den prüfungsfreien Übertritt die Bestimmungen für den deutschsprachigen Kantonsteil. Die Aufnahmeprüfung erfolgt gemäss den Bestimmungen für den französischsprachigen Kantonsteil.
+
+### 2.1.7 Aufnahmen auf den Beginn des dritten Jahrs des gymnasialen Bildungsgangs
+
+#### Art. 41
+
+**Aufnahmeverfahren, Anmeldung**
+
+<sup>1</sup> Werden die Aufnahmebedingungen gemäss Artikel 14 erfüllt, erfolgt die Aufnahme mit Prüfung. Vorbehalten bleibt Artikel 43.
+
+<sup>2</sup> Die Eltern melden Schülerinnen und Schüler bis Mitte Februar auf einem besonderen Formular beim prüfungsleitenden Gymnasium zur Aufnahmeprüfung an.
+
+#### Art. 42
+
+**Aufnahmeprüfung**
+
+<sup>1</sup> Die Aufnahmeprüfung findet vor Ende März mit pro Sprachgebiet gleichen Aufgaben und unter Anwendung der gleichen Bewertungskriterien statt.
+
+<sup>2</sup> Die Bestimmungen zum Prüfungsverfahren finden sich im Anhang 5.
+
+#### Art. 43
+
+**Passerellenlösungen auf den Beginn des dritten Jahrs des gymnasialen Bildungsgangs**
+
+<sup>1</sup> Inhaberinnen und Inhaber von anerkannten Berufsmaturitätsausweisen werden auf den Beginn des dritten Jahrs des gymnasialen Bildungsgangs prüfungsfrei aufgenommen.
+
+<sup>2</sup> Inhaberinnen und Inhaber von Fachmittelschulausweisen werden auf den Beginn des dritten Jahrs des gymnasialen Bildungsgangs prüfungsfrei aufgenommen,
+
+- a sofern der Abschluss von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkannt ist und
+- b eine entsprechende Empfehlung der Fachmittelschule vorliegt.
+
+<sup>3</sup> Inhaberinnen und Inhaber von andern Mittelschulabschlüssen werden auf den Beginn des dritten Jahrs des gymnasialen Bildungsgangs prüfungsfrei aufgenommen, wenn
+
+- a der Bildungsgang nachobligatorisch mindestens drei Jahre umfasst,
+- b der Bildungsgang während mindestens fünf Jahren an der betreffenden Schule besucht worden ist und
+- c eine entsprechende Empfehlung der Schule vorliegt.
+
+<sup>4</sup> Der prüfungsfreie Übertritt ist nur direkt nach den Abschlüssen gemäss den Absätzen 1 bis 3 möglich.
+
+#### Art. 44
+
+**Aufnahmeentscheid**
+
+<sup>1</sup> Die Schulleitung der prüfungsleitenden aufnehmenden Schule entscheidet über die Aufnahme und eröffnet diese durch Verfügung.
+
+### 2.1.8 Aufnahmen in gymnasiale Bildungsgänge mit besonderen Aufgaben
+
+#### Art. 45
+
+**Aufnahmen in Bildungsgänge, die zu einer zweisprachigen Maturität führen**
+
+<sup>1</sup> Die Aufnahmen in Bildungsgänge, die zu einer zweisprachigen Maturität führen, erfolgen in der Regel auf den Beginn des ersten Jahrs des gymnasialen Bildungsgangs. Es gelten die Aufnahmebedingungen für den ordentlichen gymnasialen Bildungsgang des deutsch- bzw. französischsprachigen Kantonsteils. Vorbehalten bleiben Artikel 37 bis 40.
+
+<sup>2</sup> Die Schulleitung der aufnehmenden Schule kann eine spätere Aufnahme in einen zweisprachigen Bildungsgang bewilligen, falls die Promotionsbedingungen erfüllt sind und wichtige Gründe vorliegen.
+
+#### Art. 46
+
+**Zulassungsbeschränkungen**
+
+<sup>1</sup> Im Falle von Zulassungsbeschränkungen für die Aufnahme in Bildungsgänge, die zu einer zweisprachigen Maturität führen, sind folgende Kriterien massgebend:
+
+- a im deutschsprachigen Kantonsteil der höhere Durchschnitt der Zeugnisnoten in Deutsch, Französisch und Mathematik im ersten Semester des der Aufnahme vorhergehenden Schuljahrs der Sekundarstufe I,
+- b im französischsprachigen Kantonsteil die bessere Beurteilung im ersten Semester des der Aufnahme vorhergehenden Schuljahrs in der «section préparant aux écoles de maturité (section p)».
+
+<sup>2</sup> Für die Zulassung in Bildungsgänge, die besondere Begabungen unterstützen, sind in erster Linie die Ergebnisse der Eignungsabklärung und in zweiter Linie die Kriterien gemäss Absatz 1 massgebend.
+
+#### Art. 47
+
+**Aufnahmen in Bildungsgänge, die besondere Begabungen unterstützen**
+
+<sup>1</sup> Die Aufnahmen in Bildungsgänge, die besondere Begabungen unterstützen, erfolgen auf den Beginn des ersten Jahrs des gymnasialen Bildungsgangs. Es gelten die Aufnahmebedingungen für den ordentlichen gymnasialen Bildungsgang des deutsch- bzw. französischsprachigen Kantonsteils.
+
+<sup>2</sup> Zusätzlich müssen die Schülerinnen und Schüler folgende Aufnahmebedingungen erfüllen:
+
+- a für Aufnahmen und Übertritte im Begabungsbereich Musik ein positives Ergebnis der Eignungsabklärung, die unter Einbezug von Expertinnen und Experten des entsprechenden Fachbereichs einer Hochschule stattfindet,
+- b für die Aufnahmen und Übertritte im Begabungsbereich Gestaltung und Kunst ein positives Ergebnis der Eignungsabklärung, die unter Einbezug von Expertinnen und Experten des entsprechenden Fachbereichs einer Hochschule stattfindet,
+- c für Aufnahmen und Übertritte im Begabungsbereich Sport der Nachweis, dass das Potenzial für eine nationale Karriere vorhanden ist, und ein positives Ergebnis der Abklärung, dass Schule und Training sinnvoll vereinbart werden können.
+
+<sup>3</sup> Die Schulleitung der aufnehmenden Schule kann aus wichtigen Gründen eine spätere Aufnahme in einen Bildungsgang, der besondere Begabungen unterstützt, bewilligen, falls die Promotionsbedingungen sowie die Bedingungen gemäss Absatz 2 erfüllt sind.
+
+#### Art. 48
+
+**Besonders Begabte in ordentlichen Bildungsgängen**
+
+<sup>1</sup> Besondere Begabungen können im ordentlichen gymnasialen Bildungsgang unterstützt werden, wenn die Schülerinnen und Schüler die Bedingungen gemäss Artikel 47 Absatz 2 erfüllen.
+
+#### Art. 49
+
+**Aufnahmen in Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind**
+
+<sup>1</sup> Aufnahmen können auf den Beginn des ersten bis vierten Semesters erfolgen.
+
+<sup>2</sup> Aufnahmen auf den Beginn des ersten Semesters sind prüfungsfrei. Die Aufnahmen in das zweite und dritte Semester erfolgen mit einer Aufnahmeprüfung. Die Bestimmungen zum Prüfungsverfahren finden sich in den Anhängen 6a und 6b.
+
+<sup>3</sup> Auf den Beginn des vierten Semesters werden Inhaberinnen und Inhaber eines anerkannten Berufsmaturitäts- oder Fachmittelschulausweises aufgenommen. Die Aufnahme erfolgt prüfungsfrei mit einer Probezeit von einem Semester.
+
+### 2.2 Zeugnisnoten, Zeugnis und Promotionen
+
+### 2.2.1 Ordentliche gymnasiale Bildungsgänge
+
+#### Art. 50
+
+**Für die Bewertung der Gesamtleistung massgebende Zeugnisnoten**
+
+<sup>1</sup> Die Zeugnisnoten der folgenden Fächer legen fest, ob die Gesamtleistung in einer Beurteilungsperiode genügend oder ungenügend ist:
+
+- a Erstsprache,
+- b zweite Landessprache,
+- c dritte Sprache (Englisch oder Italienisch oder Latein),
+- d Mathematik,
+- e Biologie,
+- f Chemie,
+- g Physik,
+- g1 Informatik
+- h Geschichte,
+- i Geographie,
+- k Wirtschaft und Recht,
+- l Bildnerisches Gestalten oder Musik,
+- m Schwerpunktfach,
+- n Ergänzungsfach.
+
+<sup>2</sup> Die Gesamtleistung ist genügend, wenn von den Noten gemäss Absatz 1
+
+- a die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
+- b nicht mehr als vier Noten unter 4 erteilt werden.
+
+<sup>3</sup> Im Übrigen richtet sich die Promotion nach Artikel 18.
+
+#### Art. 50a
+
+**Fachwechsel**
+
+<sup>1</sup> Aus wichtigen Gründen sind am Ende des ersten Semesters des ersten Jahrs oder am Ende des ersten und des zweiten Jahrs auf Gesuch hin folgende Fachwechsel möglich:
+
+- a Wechsel zu einem anderen Schwerpunktfach,
+- b Wechsel zwischen den Fächern Bildnerisches Gestalten und Musik sowie
+- c Wechsel zu einer anderen dritten Sprache.
+
+<sup>2</sup> Die Schulleitung kann den Wechsel bewilligen, wenn
+
+- a die Schülerin oder der Schüler den Nachweis erbringt, dass der bis dahin unterrichtete Schulstoff des neuen Fachs erworben wurde, und
+- b in einer Klasse mit einem entsprechenden Angebot noch freie Plätze vorhanden sind.
+
+<sup>3</sup> Wer auf Ende des ersten Semesters des ersten Jahrs das Fach wechselt, muss über den Schulstoff des ersten Semesters eine Prüfung ablegen.
+
+<sup>4</sup> Die Schulleitung eröffnet ihren Entscheid mit Verfügung.
+
+### 2.2.2 Bildungsgänge, die zu einer zweisprachigen Maturität führen
+
+#### Art. 51
+
+<sup>1</sup> Für Bildungsgänge, die zu einer zweisprachigen Maturität führen, gelten die Vorgaben für Zeugnisse und Promotionen des ordentlichen gymnasialen Bildungsgangs unter Vorbehalt der folgenden Absätze.
+
+<sup>2</sup> Ein ungenügendes Zeugnis führt zum Ausschluss aus dem Bildungsgang, der zu einer zweisprachigen Maturität führt. In diesem Fall kann das Ausbildungsjahr im entsprechenden ordentlichen gymnasialen Bildungsgang unter den Bedingungen von Artikel 19 wiederholt werden. Diese Wiederholung wird an die ordentlichen Wiederholungsmöglichkeiten angerechnet.
+
+<sup>3</sup> Die Schulleitung kann höchstens eine Wiederholung im besonderen Bildungsgang aus wichtigen Gründen wie längere Krankheit oder wichtige persönliche Umstände bewilligen.
+
+<sup>4</sup> Die Immersionssprache und die in der Immersionssprache unterrichteten Fächer werden im Zeugnis festgehalten.
+
+### 2.2.3 Bildungsgänge, die besondere Begabungen unterstützen
+
+#### Art. 52
+
+**Grundsätzliches**
+
+<sup>1</sup> In Bildungsgängen, die besondere Begabungen unterstützen, gelten die Vorgaben für Zeugnis und Promotionen des ordentlichen gymnasialen Bildungsgangs unter Vorbehalt der folgenden Bestimmungen.
+
+#### Art. 53
+
+**Begabungsbereiche Musik bzw. Gestaltung und Kunst**
+
+<sup>1</sup> Die Teilfächer im Begabungsbereich Musik bzw. Gestaltung und Kunst, die benotet werden, sind in einem besonderen Lehrplan festgelegt.
+
+<sup>2</sup> Die Zeugnisnote im Schwerpunktfach entspricht dem Durchschnitt der Teilnoten im besonderen Begabungsbereich.
+
+<sup>3</sup> Die Leistungen bzw. Fortschritte im Begabungsbereich werden in allen Teilfächern von den zuständigen Lehrkräften der Hochschule der Künste und des besuchten Gymnasiums nach den Standards der professionellen Ausbildung beurteilt.
+
+<sup>4</sup> Die Schülerin oder der Schüler ist für die Ausbildung im besonderen Bildungsgang promoviert, wenn im betreffenden Begabungsbereich der Durchschnitt der massgebenden Teilnoten mindestens 4,5 beträgt.
+
+<sup>5</sup> In begründeten Fällen ist eine Promotion auch dann möglich, wenn die Promotionsbestimmungen der beteiligten Hochschule nicht erfüllt sind. Die Schulleitung des Gymnasiums entscheidet.
+
+#### Art. 54
+
+**Begabungsbereich Sport**
+
+<sup>1</sup> Die Leistungen bzw. Fortschritte in der betreffenden sportlichen Disziplin werden nach den Standards des Sportverbands jährlich beurteilt. Sie werden durch die Nachwuchsverantwortliche in Bilanzgesprächen zusammen mit den Verantwortlichen der Schule erfasst und festgehalten. Aus den Bilanzgesprächen geht insbesondere die Aussicht für eine erfolgreiche weitere sportliche Laufbahn der Schülerin oder des Schülers hervor.
+
+<sup>2</sup> Die Schülerin oder der Schüler ist für die Ausbildung im besonderen Bildungsgang promoviert, wenn die Leistungen und Fortschritte in der betreffenden sportlichen Disziplin eine erfolgreiche weitere sportliche Laufbahn der Schülerin oder des Schülers erwarten lässt.
+
+#### Art. 55
+
+**Nichtpromotion**
+
+<sup>1</sup> Nicht promovierte Schülerinnen und Schüler können in den ordentlichen Bildungsgang übertreten. Dabei ist das bisher belegte Schwerpunktfach in der Regel beizubehalten.
+
+<sup>2</sup> Ist das Zeugnis gemäss den Bedingungen für den ordentlichen gymnasialen Bildungsgang ungenügend, ist eine Wiederholung im Sinne von Artikel 19 möglich. Die Schulleitung entscheidet über die Einstufung im ordentlichen Bildungsgang.
+
+<sup>3</sup> Ist die Nichtpromotion nur auf die Beurteilung im Begabungsbereich zurückzuführen, entscheidet die Schulleitung im Sinne von Artikel 19 über die Einstufung im ordentlichen Bildungsgang.
+
+<sup>4</sup> Die Schulleitung kann eine Wiederholung im besonderen Bildungsgang bewilligen, wenn die Nichtpromotion auf wichtige Gründe wie längere Krankheit, besonders hohe Belastung im Begabungsbereich oder wichtige persönliche Umstände zurückzuführen ist.
+
+#### Art. 56
+
+**Promotion besonders Begabter in ordentlichen Bildungsgängen**
+
+<sup>1</sup> Werden besondere Begabungen von Schülerinnen und Schülern im ordentlichen gymnasialen Bildungsgang unterstützt, gelten Artikel 52 bis 55 sinngemäss.
+
+<sup>2</sup> In ordentlichen Bildungsgängen müssen bei einer Verlängerung der Ausbildung auf mehr als vier Schuljahre zur Förderung besonderer Begabungen nicht in jedem Schuljahr in allen gemäss Lektionentafel vorgesehenen Fächern Zeugnisnoten gesetzt werden.
+
+<sup>3</sup> Die detaillierten Promotionsbestimmungen sind vorgängig in einer Vereinbarung zwischen der Schülerin oder dem Schüler bzw. den Eltern und der Schulleitung schriftlich festzuhalten.
+
+### 2.2.4 Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind
+
+#### Art. 57
+
+**Grundsätzliches**
+
+<sup>1</sup> Für Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind, gelten die Vorgaben für Zeugnisse und Promotionen des ordentlichen gymnasialen Bildungsgangs unter Vorbehalt der folgenden Bestimmungen.
+
+<sup>2</sup> Eine formative Beurteilung erfolgt bei Bedarf.
+
+#### Art. 58
+
+**Promotion**
+
+<sup>1</sup> In Bildungsgängen, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind, wird in das zweite und dritte Semester promoviert, wer die Prüfung gemäss Anhang 6a bzw. 6b bestanden hat.
+
+<sup>2</sup> In das vierte Semester wird definitiv promoviert, wer für das dritte Semester ein genügendes Zeugnis aufweist und den Unterricht in jedem Fach regelmässig besucht hat. Dispensationen gemäss Artikel 132 bleiben vorbehalten.
+
+<sup>3</sup> Eine Promotion in das vierte Semester erfolgt mit einer Probezeit von einem Semester. Die Schulleitung kann auf ein begründetes Gesuch hin zudem eine Promotion in das vierte Semester mit Probezeit bewilligen für Schülerinnen und Schüler mit einem ungenügenden Zeugnis im dritten Semester.
+
+<sup>4</sup> Für Schülerinnen und Schüler, die mit einer Probezeit ins vierte Semester promoviert wurden, wird die Gesamtleistung in diesem Semester beurteilt. Ist die Gesamtleistung genügend, so erfolgt die definitive Aufnahme. Ist die Gesamtleistung ungenügend, müssen sie aus dem Bildungsgang austreten. Die Schulleitung kann auf Gesuch hin einen Verbleib an der Schule bewilligen:
+
+- a für Schülerinnen und Schüler, die auf das vierte Semester gemäss Artikel 49 Absatz 3 aufgenommen wurden: durch eine Ausdehnung der Probezeit auf die das ganze Schuljahr umfassende Beurteilungsperiode oder durch eine Wiederholung ab Beginn des dritten Semesters;
+- b für Schülerinnen und Schüler, die mit einem ungenügenden Zeugnis des dritten Semesters in das vierte Semester übergetreten sind: durch eine Wiederholung ab Beginn des dritten Semesters.
+
+<sup>5</sup> Am Ende des fünften Semesters wird ein Zeugnis mit einer Beurteilungsperiode, die das vierte und fünfte Semester umfasst, ausgestellt. Am Ende des siebten Semesters wird ein Zeugnis mit einer Beurteilungsperiode, die das sechste und siebte Semester umfasst, ausgestellt.
+
+<sup>6</sup> In das sechste Semester wird promoviert, wer in der vorangegangenen Beurteilungsperiode, bestehend aus dem vierten und fünften Semester, eine genügende Gesamtleistung aufweist und den Unterricht in jedem Fach regelmässig besucht hat. Dispensationen gemäss Artikel 132 bleiben vorbehalten.
+
+#### Art. 59
+
+**Wiederholungsmöglichkeit**
+
+<sup>1</sup> Die Prüfung in das zweite und dritte Semester kann je einmal wiederholt werden.
+
+<sup>2</sup> Vom Beginn des dritten Semesters an haben vorgängig definitiv aufgenommene, nicht promovierte Schülerinnen und Schüler das Recht, einmal ein Jahr zu wiederholen, wobei eine Wiederholung gemäss Artikel 58 Absatz 4 mitgezählt wird.
+
+### 2.2.5 Basale fachliche Studierkompetenzen
+
+#### Art. 59a
+
+<sup>1</sup> Die basalen fachlichen Studierkompetenzen gemäss dem je gültigen kantonalen Lehrplan für den gymnasialen Bildungsgang dienen einem erfolgreichen Einstieg in einen Hochschulstudiengang.
+
+<sup>2</sup> Die Schülerinnen und Schüler streben an, diese Kompetenzen im Verlauf der gymnasialen Ausbildung zu erwerben, und erhalten dazu von der Schule Unterstützung.
+
+<sup>3</sup> Jede Schule regelt in einem Konzept
+
+- a die Zeitpunkte, zu welchen die Schülerinnen und Schüler den Erwerb der Kompetenzen nachweisen müssen,
+- b ob und in welchem Umfang das Ergebnis dieser Kompetenznachweise in die Fachnoten einfliesst und
+- c die zur Unterstützung vorgesehenen Förderangebote.
+
+<sup>4</sup> Schülerinnen und Schüler, die den Kompetenznachweis nicht erbringen, sind verpflichtet, die entsprechenden Förderangebote der Schule zu besuchen.
+
+<sup>5</sup> Wird der Kompetenznachweis in der Folge wiederum nicht erbracht, besucht die Schülerin oder der Schüler das Förderangebot nochmals; wird nach mehrmaligem Besuch des Förderangebots der Kompetenznachweis nicht erbracht, so führt die Schulleitung mit der Schülerin oder dem Schüler und bei Minderjährigen mit den Eltern ein Standortgespräch zu den Perspektiven für die Fortsetzung des Bildungsgangs.
+
+### 2.3 Maturaarbeit und Maturitätsprüfungen
+
+#### Art. 60
+
+**Maturaarbeit**
+
+<sup>1</sup> Die Note für die Maturaarbeit wird aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt.
+
+<sup>2</sup> Sie wird den Kandidatinnen und Kandidaten spätestens sechs Wochen vor Beginn der Maturitätsprüfungen durch Verfügung eröffnet.
+
+#### Art. 61
+
+**Anmeldung zu den Maturitätsprüfungen**
+
+<sup>1</sup> Die Kandidatinnen und Kandidaten melden sich bis Ende März bei der Schulleitung zu den Maturitätsprüfungen an und bezahlen gleichzeitig die Prüfungsgebühr.
+
+<sup>2</sup> Eine Abmeldung ist bis 14 Tage vor Beginn der Maturitätsprüfungen möglich.
+
+#### Art. 62
+
+**Zulassung zu den Maturitätsprüfungen**
+
+<sup>1</sup> Zu den Maturitätsprüfungen wird zugelassen, wer
+
+- a die Schule mindestens während des letzten Schuljahrs besucht hat,
+- b für dieses Schuljahr ein vollständiges Zeugnis erhalten hat,
+- c eine bewertbare Maturaarbeit abgegeben hat und
+- d die Prüfungsgebühr bezahlt hat.
+
+<sup>2</sup> Über die Prüfungszulassung entscheidet die Schulleitung.
+
+#### Art. 63
+
+**Wiederholung der Maturitätsprüfungen**
+
+<sup>1</sup> Kandidatinnen und Kandidaten, welche die Maturitätsprüfungen ein erstes Mal nicht bestanden haben, können das letzte Schuljahr an der bisher besuchten oder einer anderen Schule direkt anschliessend wiederholen. Ein Wechsel in einen Bildungsgang, der spezifisch auf die Bedürfnisse Erwachsener ausgerichtet ist, wird nur aus wichtigen Gründen durch dessen Schulleitung bewilligt.
+
+<sup>2</sup> Die Kandidatinnen und Kandidaten werden zur Prüfungswiederholung zugelassen, wenn sie
+
+- a den Unterricht des letzten Schuljahrs an der betreffenden Schule wiederholt und dafür ein vollständiges Zeugnis erhalten haben,
+- b auf Weisung der Schulleitung eine neue Maturaarbeit geschrieben und präsentiert oder die erste Arbeit in wesentlichen Bereichen erweitert und wiederum präsentiert haben und
+- c die Prüfungsgebühr bezahlt haben.
+
+<sup>3</sup> Über die Prüfungszulassung entscheidet die Schulleitung der Schule, an der das Schuljahr wiederholt wurde.
+
+<sup>4</sup> Wer zweimal eine schweizerisch anerkannte Maturitätsprüfung nicht bestanden hat, wird zu keiner weiteren Maturitätsprüfung unter Aufsicht des Kantons zugelassen.
+
+#### Art. 64
+
+**Kantonale Maturitätskommission**
+
+<sup>1</sup> Die Kantonale Maturitätskommission (KMK) ist die für die Maturitätsprüfungen zuständige Prüfungskommission.
+
+<sup>2</sup> Sie erlässt Weisungen zum Prüfungsablauf, zum Prüfungsumfang und zu Prüfungsschwerpunkten.
+
+#### Art. 65
+
+**Umfang der Maturitätsprüfungen**
+
+<sup>1</sup> Die Maturitätsprüfungen sollen ermitteln, ob die Kandidatinnen und Kandidaten die allgemeine Hochschulreife (Art. 5 der Verordnung des Bundesrates / des Reglements der EDK vom 16. Januar / 15. Februar 1995 über die Anerkennung der gymnasialen Maturitätsausweise [MAR][^65-1]) erlangt haben.
+
+<sup>2</sup> Einerseits ist die Fähigkeit zu logischem, intuitivem, analogem sowie vernetztem Denken, andererseits die Beherrschung von grundlegenden Kenntnissen, Fähigkeiten und Fertigkeiten zu prüfen. In den Maturitätsprüfungen ist auf einen klaren sprachlichen Ausdruck der Kandidatinnen und Kandidaten zu achten.
+
+<sup>3</sup> Die Maturitätsprüfungen erstrecken sich schwergewichtig auf das Unterrichtspensum der zwei letzten Schuljahre.
+
+<sup>4</sup> Besteht ein Prüfungsfach aus mehreren Teilfächern, sind bei den Maturitätsprüfungen und der Bewertung alle Teilfächer zu berücksichtigen.
+
+[^65-1]: BSG 439.181.1
+
+#### Art. 66
+
+**Maturitätsfächer**
+
+<sup>1</sup> Maturitätsfächer sind die im MAR festgelegten Grundlagenfächer, das Schwerpunktfach, das Ergänzungsfach und die Maturaarbeit.
+
+#### Art. 67
+
+**Prüfungsfächer, Prüfungsart und Prüfungsdauer**
+
+<sup>1</sup> Die Prüfungsfächer sowie die Prüfungsart und die Prüfungsdauer finden sich in Anhang 8.
+
+<sup>2</sup> Die Schülerin oder der Schüler wählt im fünften Prüfungsfach zwischen Ergänzungsfach und dritter Sprache.
+
+#### Art. 68
+
+**Bildungsgänge mit besonderen Aufgaben**
+
+<sup>1</sup> In Bildungsgängen, die zu einer zweisprachigen Maturität führen, werden die Immersionsfächer in der Immersionssprache geprüft.
+
+<sup>2</sup> In Bildungsgängen, die besondere Begabungen unterstützen, werden die Maturitätsprüfungen in zwei Teilprüfungen aufgeteilt. Die erste Teilprüfung in den Fächern, die gemäss Lektionentafel zu diesem Zeitpunkt abgeschlossen werden, findet ein Jahr vor Abschluss des Bildungsgangs statt.
+
+<sup>3</sup> Werden die besonderen Begabungen in einem ordentlichen Bildungsgang unterstützt, können die Maturitätsprüfungen in zwei Teilprüfungen aufgeteilt werden.
+
+<sup>4</sup> Finden die Maturitätsprüfungen in zwei Teilprüfungen statt, werden Erstsprache und Mathematik in der zweiten Teilprüfung geprüft.
+
+<sup>5</sup> Die Maturitätsprüfungen werden auch bei Aufteilung in zwei Teilprüfungen als Einheit betrachtet.
+
+<sup>6</sup> Kandidatinnen und Kandidaten, welche die Maturitätsprüfung nicht bestehen, wiederholen das letzte Ausbildungsjahr im entsprechenden ordentlichen gymnasialen Bildungsgang.
+
+#### Art. 69
+
+**Erfahrungs- und Prüfungsnoten**
+
+<sup>1</sup> Für jedes Maturitätsfach mit Ausnahme der Maturaarbeit wird eine Erfahrungsnote ermittelt.
+
+<sup>1a</sup> Die Erfahrungsnote ist die Zeugnisnote des letzten Schuljahrs, in dem das Fach unterrichtet worden ist.
+
+<sup>1b</sup> Werden Semesterzeugnisse von Mittelschulen privater Anbieter mit anerkanntem Maturitätsabschluss ausgestellt, so wird die Erfahrungsnote aus den während des letzten Schuljahrs erteilten Einzelnoten ermittelt. Die Berechnung richtet sich nach Artikel 4 Absätze 1, 2 und 4.
+
+<sup>2</sup> An Mittelschulen privater Anbieter mit anerkanntem Maturitätsabschluss legt die Schulleitung die Erfahrungsnoten vor Beginn der Maturitätsprüfungen durch Verfügung fest.
+
+<sup>3</sup> Die Prüfungsnote ist das ungerundete arithmetische Mittel der schriftlichen und mündlichen Prüfungsnote eines Fachs.
+
+#### Art. 70
+
+**Maturitätsnoten**
+
+<sup>1</sup> Die Maturitätsnote in den fünf Prüfungsfächern entspricht dem auf eine ganze oder halbe Zahl gerundeten arithmetischen Mittel aus der Erfahrungs- und Prüfungsnote. X,25 und X,75 werden aufgerundet.
+
+<sup>2</sup> Die Maturitätsnote für die Maturaarbeit ist die gemäss Artikel 60 Absatz 2 verfügte Note.
+
+<sup>3</sup> Die Maturitätsnote in den übrigen Maturitätsfächern ist die auf eine ganze oder halbe Zahl gerundete Erfahrungsnote. X,25 und X,75 werden aufgerundet.
+
+#### Art. 71
+
+**Bestehensnorm**
+
+<sup>1</sup> Die Maturitätsprüfungen sind bestanden, wenn in den Maturitätsnoten der Maturitätsfächer gemäss Artikel 66
+
+- a die doppelte Summe aller Notenabweichungen von 4 nach unten nicht grösser ist als die Summe aller Notenabweichungen von 4 nach oben und
+- b nicht mehr als vier Noten unter 4 erteilt werden.
+
+#### Art. 72
+
+**Maturitätsausweis**
+
+<sup>1</sup> Die Schule stellt den Maturitätsausweis gemäss Artikel 20 MAR aus.
+
+<sup>2</sup> Er enthält bei Schülerinnen und Schülern, die einen gymnasialen Bildungsgang mit besonderen Aufgaben abschliessen, eine entsprechende Bemerkung.
+
+<sup>3</sup> Er enthält bei Schülerinnen und Schülern mit einer Sonderregelung gemäss Artikel 11 Absatz 1 Buchstabe a eine entsprechende Bemerkung.
+
+<sup>4</sup> Er enthält bei Schülerinnen und Schülern, die weitere Fächer auf Maturitätsniveau abschliessen, eine entsprechende Bemerkung.
+
+<sup>5</sup> Der Maturitätsausweis wird von der Erziehungsdirektorin oder dem Erziehungsdirektor, von der Präsidentin oder dem Präsidenten der KMK sowie von dem Schulleitungsmitglied, das die Schule gegen aussen vertritt, als Rektorin oder Rektor unterschrieben.
+
+#### Art. 73
+
+**Duplikate**
+
+<sup>1</sup> Abhandengekommene Maturitätsausweise werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen ersetzt.
+
+## 3 Fachmittelschulbildungsgänge
+
+### 3.1 FMS-Bildungsgang
+
+### 3.1.1 Aufnahmen
+
+### 3.1.1.1 Aufnahmen aus dem dritten Jahr der Sekundarstufe I auf den Beginn des FMS-Bildungsgangs
+
+#### Art. 74
+
+**Aufnahmeverfahren, Anmeldung**
+
+<sup>1</sup> Die Aufnahmen aus dem dritten Jahr der Sekundarstufe I einer öffentlichen Schule erfolgen
+
+- a im deutschsprachigen Kantonsteil aufgrund einer Empfehlung der öffentlichen Schule oder einer Aufnahmeprüfung und
+- b im französischsprachigen Kantonsteil aufgrund der Beurteilung der öffentlichen Schule oder einer Aufnahmeprüfung.
+
+<sup>2</sup> Schülerinnen und Schüler aus einer privaten Schule können aufgrund einer Empfehlung nur aufgenommen werden, wenn sie diese private Schule zum Zeitpunkt der Empfehlung seit mindestens drei Semestern besucht haben. Andernfalls müssen sie eine Aufnahmeprüfung absolvieren.
+
+<sup>3</sup> Die Eltern melden Schülerinnen und Schüler, die einen FMS-Bildungsgang besuchen wollen, auf dem entsprechenden Formular bei der Schulleitung der abgebenden Schule an,
+
+- a im deutschsprachigen Kantonsteil bis Anfang Dezember und
+- b im französischsprachigen Kantonsteil bis Ende Januar.
+
+#### Art. 75
+
+**Empfehlungsverfahren im deutschsprachigen Kantonsteil**
+
+<sup>1</sup> Die Aufnahme aufgrund einer Empfehlung für den Besuch eines FMS-Bildungsgangs erfolgt gestützt auf die Beurteilung
+
+- a der fachlichen Kompetenzen in den Fächern Deutsch, Französisch, Mathematik und Natur-Mensch-Gesellschaft,
+- b der methodischen und personalen Kompetenzen in den Fächern Deutsch und Mathematik und
+- c der Eignung für den Bildungsgang und die Berufsfelder.
+
+<sup>2</sup> Die Eignung für den Bildungsgang und die Berufsfelder umfasst eine Beurteilung
+
+- a der Selbst- und Sozialkompetenz sowie
+- b der Qualität der Auseinandersetzung mit dem Bildungsgang und den Berufsfeldern im Rahmen des Berufswahlprozesses.
+
+<sup>3</sup> Im Übrigen gelten die Bestimmungen für das Empfehlungsverfahren für den Besuch des gymnasialen Bildungsgangs sinngemäss (Anhang 2).
+
+<sup>4</sup> Die zuständige Behörde der abgebenden öffentlichen Schule eröffnet den Eltern am Ende des ersten Semesters des dritten Jahrs der Sekundarstufe I die Aufnahme durch Verfügung.
+
+<sup>5</sup> Die Schulleitung der abgebenden privaten Schule fällt am Ende des ersten Semesters des dritten Jahrs der Sekundarstufe I den Empfehlungsentscheid und eröffnet diesen den Eltern.
+
+<sup>6</sup> Erfolgt keine Empfehlung, können die Eltern die Schülerin oder den Schüler bis Mitte Februar bei der zuständigen FMS zur Aufnahmeprüfung anmelden.
+
+#### Art. 76
+
+**Beurteilung und prüfungsfreie Aufnahme im französischsprachigen Kantonsteil**
+
+<sup>1</sup> Die Beurteilung erfolgt auf Sekundarschulniveau (section moderne [section m] oder section préparant aux écoles de maturité [section p]) in den Fächern Französisch, Deutsch und Mathematik.
+
+<sup>2</sup> Schülerinnen und Schüler werden aufgrund der Beurteilung prüfungsfrei aufgenommen, wenn sie im Zeugnis am Ende des ersten Semesters des dritten Jahrs der Sekundarstufe I ohne ungenügende Note in den entsprechenden Fächern folgende Punktzahl erreichen:
+
+- a Niveau AAA: 12,5 Notenpunkte,
+- b Niveau AAB: 13 Notenpunkte,
+- c Niveau AAC/ABB: 13,5 Notenpunkte,
+- d Niveau BBB: 14 Notenpunkte.
+
+<sup>3</sup> Falls eine oder mehrere Noten ungenügend sind, erfolgt eine Aufnahme, wenn das oben verlangte Total mit dem oder den daraus folgenden niedrigeren Niveaus erreicht wird.
+
+<sup>4</sup> Sie werden mit einer Probezeit von einem Semester aufgenommen.
+
+<sup>5</sup> Die zuständige Behörde der abgebenden öffentlichen Schule fällt den Entscheid aufgrund der Beurteilung und eröffnet diesen den Eltern durch Verfügung.
+
+<sup>6</sup> Erfolgt keine prüfungsfreie Aufnahme, können die Eltern die Schülerin oder den Schüler bis Mitte Februar bei der zuständigen Fachmittelschule zur Aufnahmeprüfung anmelden.
+
+#### Art. 77
+
+**Definitive Aufnahme im französischsprachigen Kantonsteil**
+
+<sup>1</sup> Gemäss Artikel 76 Absätze 1 bis 4 aufgenommene Schülerinnen und Schüler treten definitiv in den FMS-Bildungsgang über, wenn die Leistungen am Ende des zweiten Semesters des dritten Jahrs der Sekundarstufe I den Anforderungen gemäss Artikel 76 Absätze 1 bis 3 genügen.
+
+#### Art. 78
+
+**Aufnahmeprüfung**
+
+<sup>1</sup> Die sprachregional einheitlichen Aufnahmeprüfungen finden vor Ende März statt.
+
+<sup>2</sup> Die Bestimmungen zum Prüfungsverfahren finden sich in Anhang 7a für den deutschsprachigen und in Anhang 7c für den französischsprachigen Kantonsteil.
+
+<sup>3</sup> Die Schulleitung der prüfungsleitenden Fachmittelschule entscheidet über die Aufnahme gestützt auf das Ergebnis der Aufnahmeprüfung.
+
+<sup>4</sup> Sie eröffnet den Eltern den Aufnahmeentscheid durch Verfügung.
+
+#### Art. 79
+
+**Zulassungsbeschränkung**
+
+<sup>1</sup> Im Falle von Zulassungsbeschränkungen zum FMS-Bildungsgang gemäss Artikel 21 Absatz 2 MiSV erhalten Kandidatinnen und Kandidaten mit positivem Empfehlungsentscheid bei der Aufnahmeprüfung eine Gutschrift von einem Punkt.
+
+<sup>2</sup> Übersteigt die Zahl der aufzunehmenden Schülerinnen und Schüler die Aufnahmekapazität, werden diejenigen Kandidatinnen und Kandidaten mit den schlechtesten Prüfungsergebnissen nicht aufgenommen.
+
+#### Art. 80
+
+**Probezeit und definitive Aufnahme**
+
+<sup>1</sup> Schülerinnen und Schüler im deutschsprachigen Kantonsteil treten mit einer Probezeit in den FMS-Bildungsgang über. Es gelten die Bestimmungen von Artikel 15.
+
+<sup>2</sup> Für Schülerinnen und Schüler im französischsprachigen Kantonsteil, die gemäss Artikel 77 definitiv in den FMS-Bildungsgang aufgenommen wurden, gelten die ordentlichen Bestimmungen zur Promotion.
+
+<sup>3</sup> Schülerinnen und Schüler, die im französischprachigen Kantonsteil mit einer Probezeit in den FMS-Bildungsgang aufgenommen wurden, werden nach der Hälfte des ersten Semesters über den Stand der Leistungen orientiert. Schülerinnen und Schüler, deren Gesamtleistung am Ende der Probezeit ungenügend ist, müssen aus dem Bildungsgang austreten.
+
+<sup>4</sup> Die Schulleitung kann in begründeten Fällen auf Gesuch hin die Probezeit auf das ganze Schuljahr ausdehnen. Ist die Gesamtleistung am Ende des Schuljahrs ungenügend, muss die Schülerin oder der Schüler aus dem Bildungsgang austreten.
+
+#### Art. 81
+
+**Übrige Ausnahmen**
+
+<sup>1</sup> Aufnahmen von Kandidatinnen und Kandidaten, die nicht das dritte Jahr der Sekundarstufe I an einer öffentlichen Schule besuchen oder die eine private Schule weniger lang als drei Semester besucht haben, erfolgen aufgrund einer Aufnahmeprüfung.
+
+<sup>2</sup> Die Eltern melden Schülerinnen und Schüler bis Mitte Februar auf dem entsprechenden Formular bei der zuständigen Fachmittelschule zur Aufnahmeprüfung an.
+
+### 3.1.1.2 Aufnahmen auf den Beginn des zweiten Jahrs des FMS-Bildungsgangs
+
+#### Art. 82
+
+<sup>1</sup> Schülerinnen und Schüler aus andern Bildungsgängen können in das zweite Jahr eines FMS-Bildungsgangs aufgenommen werden, sofern in der bestehenden Klasse noch freie Plätze vorhanden sind.
+
+<sup>2</sup> Die Aufnahmen erfolgen aufgrund einer Aufnahmeprüfung. Die Bestimmungen zum Prüfungsverfahren finden sich in Anhang 7b für den deutschsprachigen und in Anhang 7c für den französischsprachigen Kantonsteil. Die Artikel 78 bis 80 gelten sinngemäss.
+
+### 3.1.1.3 Aufnahmen besonders Begabter in ordentliche FMS-Bildungsgänge
+
+#### Art. 83
+
+<sup>1</sup> Für die spezielle Förderung besonders Begabter in ordentlichen FMS-Bildungsgängen gelten die Bestimmungen von Artikel 47 sinngemäss.
+
+### 3.1.2 Zeugnisnoten, Zeugnis und Promotionen
+
+#### Art. 84
+
+**Ordentliche FMS-Bildungsgänge**
+
+<sup>1</sup> Die Zeugnisnoten der folgenden Fächer oder Lernbereiche legen fest, ob die erbrachte Gesamtleistung in einer Beurteilungsperiode genügend oder ungenügend ist:
+
+- a erste Landessprache,
+- b zweite Landessprache,
+- c dritte Sprache,
+- d Mathematik,
+- e Lernbereich Naturwissenschaften,
+- f Lernbereich Sozialwissenschaften,
+- g Lernbereich Musische Aktivitäten und Sport.
+
+<sup>2</sup> Im deutschsprachigen Kantonsteil sind im zweiten und dritten Jahr des FMS-Bildungsgangs zusätzlich die Zeugnisnoten in den Lernbereichen Berufsfeld Gesundheit und Berufsfeld Soziale Arbeit massgebend.
+
+<sup>3</sup> Im französischsprachigen Kantonsteil ist im zweiten und dritten Ausbildungsjahr je nach Wahl der Schülerinnen und Schüler zusätzlich die Zeugnisnote im Lernbereich Berufsfeld Gesundheit oder im Lernbereich Berufsfeld Pädagogik und Soziale Arbeit massgebend.
+
+<sup>4</sup> Die Gesamtleistung ist genügend, wenn von den Noten gemäss den Absätzen 1 bis 3
+
+- a der Durchschnitt aller Noten mindestens 4,0 beträgt,
+- b die Summe der Notenabweichungen von 4 nach unten nicht grösser als 2 ist und
+- c in den Fächern gemäss Absatz 1 Buchstaben a bis d sowie den Teilfächern der Lernbereiche gemäss den Buchstaben e bis g und den Absätzen 2 bzw. 3 nicht mehr als drei Noten unter 4 auftreten.
+
+<sup>5</sup> Im Übrigen richtet sich die Promotion nach Artikel 18.
+
+#### Art. 85
+
+**Besonders Begabte im ordentlichen FMS-Bildungsgang**
+
+<sup>1</sup> Werden besondere Begabungen von Schülerinnen und Schüler im ordentlichen FMS-Bildungsgang unterstützt, gelten die Vorgaben für Zeugnis und Promotionen des ordentlichen FMS-Bildungsgangs unter Vorbehalt der folgenden Bestimmungen.
+
+<sup>2</sup> Die Promotion besonders begabter Schülerinnen und Schüler im ordentlichen FMS-Bildungsgang richtet sich sinngemäss nach Artikel 53 bis 55.
+
+<sup>3</sup> Es müssen bei einer Verlängerung der Ausbildung auf mehr als drei Schuljahre zur Förderung besonderer Begabungen nicht in jedem Schuljahr in allen gemäss Lektionentafel vorgesehenen Fächern Zeugnisnoten gesetzt werden.
+
+<sup>4</sup> Die detaillierten Promotionsbestimmungen sind vorgängig in einer Vereinbarung zwischen der Schülerin oder dem Schüler bzw. den Eltern und der Schulleitung schriftlich festzuhalten.
+
+<sup>5</sup> Für besonders begabte Schülerinnen und Schüler im französischsprachigen Kantonsteil kann die Berufsfeldnote durch die Note für den Unterricht im Begabungsbereich ersetzt werden.
+
+### 3.1.3 Selbstständige Arbeit und Fachmittelschulausweisprüfungen (FMS-Ausweisprüfungen)
+
+#### Art. 86
+
+**Selbstständige Arbeit**
+
+<sup>1</sup> Die Note für die Selbstständige Arbeit wird aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt.
+
+<sup>2</sup> Sie wird den Kandidatinnen und Kandidaten spätestens sechs Wochen vor Beginn der FMS-Ausweisprüfungen durch Verfügung eröffnet.
+
+#### Art. 87
+
+**Anmeldung zu den FMS-Ausweisprüfungen**
+
+<sup>1</sup> Die Kandidatinnen und Kandidaten melden sich bis Ende Januar bei der Schulleitung zu den FMS-Ausweisprüfungen an und bezahlen gleichzeitig die Prüfungsgebühr.
+
+<sup>2</sup> Eine Abmeldung ist bis 14 Tage vor Beginn der FMS-Ausweisprüfungen möglich.
+
+#### Art. 88
+
+**Zulassung zu den FMS-Ausweisprüfungen**
+
+<sup>1</sup> Zu den FMS-Ausweisprüfungen wird zugelassen, wer
+
+- a den Unterricht während des letzten Schuljahrs besucht hat,
+- b für dieses Schuljahr ein vollständiges Zeugnis erhalten hat,
+- c eine bewertbare Selbstständige Arbeit abgegeben hat,
+- d die obligatorischen Praktika abgeschlossen hat und
+- e die Prüfungsgebühr bezahlt hat.
+
+<sup>2</sup> Über die Prüfungszulassung entscheidet die Schulleitung.
+
+#### Art. 89
+
+**Wiederholung der FMS-Ausweisprüfungen**
+
+<sup>1</sup> Kandidatinnen und Kandidaten, die die FMS-Ausweisprüfungen ein erstes Mal nicht bestanden haben, können das letzte Schuljahr an der bisher besuchten oder einer anderen Schule direkt anschliessend wiederholen.
+
+<sup>2</sup> Sie werden zur Prüfungswiederholung zugelassen, wenn sie
+
+- a den Unterricht des letzten Schuljahrs an der betreffenden Schule wiederholt und dafür ein vollständiges Zeugnis erhalten haben,
+- b auf Weisung der Schulleitung eine neue selbstständige Arbeit geschrieben und präsentiert oder die erste Arbeit in wesentlichen Bereichen erweitert und wiederum präsentiert haben und
+- c die Prüfungsgebühr bezahlt haben.
+
+<sup>3</sup> Über die Prüfungszulassung entscheidet die Schulleitung der Schule, an der das Schuljahr wiederholt wurde.
+
+<sup>4</sup> Wer zweimal eine schweizerisch anerkannte FMS-Ausweisprüfung nicht bestanden hat, wird zu keiner weiteren kantonal anerkannten FMS-Ausweisprüfung zugelassen.
+
+#### Art. 90
+
+**Kantonale Prüfungskommission Fachmittelschulen**
+
+<sup>1</sup> Die Kantonale Prüfungskommission Fachmittelschulen (KPFMS) ist die für die FMS-Ausweisprüfungen zuständige Prüfungskommission.
+
+<sup>2</sup> Sie erlässt Weisungen zum Prüfungsablauf, zum Prüfungsumfang und zu Prüfungsschwerpunkten.
+
+#### Art. 91
+
+**Umfang der FMS-Ausweisprüfungen**
+
+<sup>1</sup> Die FMS-Ausweisprüfungen sollen ermitteln, ob die Kandidatinnen und Kandidaten ausreichend auf höhere Fachschulen im gewählten Berufsfeld bzw. in den gewählten Berufsfeldern vorbereitet sind und bezüglich ihrer Allgemeinbildung die Fachhochschulreife erlangt haben.
+
+<sup>2</sup> Einerseits ist die Fähigkeit zu logischem, analogem sowie vernetztem Denken, andererseits die Beherrschung von grundlegenden Kenntnissen, Fähigkeiten und Fertigkeiten zu prüfen. In der Prüfung ist auf klaren sprachlichen Ausdruck der Kandidatinnen und Kandidaten zu achten.
+
+<sup>3</sup> Die FMS-Ausweisprüfungen erstrecken sich schwergewichtig auf das Unterrichtspensum der zwei letzten Schuljahre.
+
+<sup>4</sup> Besteht ein Prüfungsfach aus mehreren Teilfächern, sind bei der Prüfung und Bewertung alle Teilfächer zu berücksichtigen.
+
+#### Art. 92
+
+**Fachmittelschulausweisfächer**
+
+<sup>1</sup> Fachmittelschulausweisfächer (FMS-Ausweisfächer) in beiden Kantonsteilen sind:
+
+- a erste Landessprache (Deutsch oder Französisch),
+- b zweite Landessprache (Französisch oder Deutsch),
+- c dritte Sprache (Englisch),
+- d Mathematik,
+- e Lernbereich Naturwissenschaften,
+- f Lernbereich Sozialwissenschaften und
+- g Lernbereich Musische Aktivitäten und Sport.
+
+<sup>2</sup> Weitere FMS-Ausweisfächer im deutschsprachigen Kantonsteil sind:
+
+- a Lernbereich Berufsfeld Gesundheit und
+- b Lernbereich Berufsfeld Soziale Arbeit.
+
+<sup>3</sup> Weitere FMS-Ausweisfächer im französischsprachigen Kantonsteil sind:
+
+- a Lernbereich Berufsfeld Gesundheit oder
+- b Lernbereich Berufsfeld Pädagogik und Soziale Arbeit.
+
+<sup>4</sup> Für jedes FMS-Ausweisfach und für die selbstständige Arbeit wird eine Fachmittelschulausweisnote (FMS-Ausweisnote) ermittelt.
+
+#### Art. 93
+
+**Prüfungsfächer, Prüfungsart und Prüfungsdauer**
+
+<sup>1</sup> Die Prüfungsfächer, die Prüfungsart und die Prüfungsdauer finden sich in Anhang 9.
+
+<sup>2</sup> Stehen zwei Fächer zur Auswahl, erfolgt die Wahl durch die Schülerin oder den Schüler.
+
+#### Art. 94
+
+**Erfahrungs- und Prüfungsnoten**
+
+<sup>1</sup> Für jedes FMS-Ausweisfach wird eine Erfahrungsnote ermittelt.
+
+<sup>1a</sup> Die Erfahrungsnote ist das ungerundete arithmetische Mittel aller zum FMS-Ausweisfach gehörenden massgebenden Zeugnisnoten des letzten Schuljahrs.
+
+<sup>1b</sup> Werden Semesterzeugnisse von Mittelschulen privater Anbieter mit anerkanntem Fachmittelschulabschluss ausgestellt, so wird zuerst pro für das Zeugnis massgebende Fach eine Note aus den während des letzten Schuljahrs erteilten Einzelnoten ermittelt, und die Erfahrungsnote ist dann das arithmetische Mittel dieser Noten. Die Berechnung richtet sich nach Artikel 4 Absätze 1, 2 und 4.
+
+<sup>2</sup> An Mittelschulen privater Anbieter mit anerkanntem Fachmittelschulabschluss legt die Schulleitung die Erfahrungsnoten vor Beginn der FMS-Ausweisprüfungen durch Verfügung fest.
+
+<sup>3</sup> Die Prüfungsnote ist das ungerundete arithmetische Mittel der schriftlichen und mündlichen Prüfungsnote eines Fachs.
+
+#### Art. 95
+
+**FMS-Ausweisnoten**
+
+<sup>1</sup> Die FMS-Ausweisnote in den sechs Prüfungsfächern ist das auf eine ganze oder halbe Zahl gerundete arithmetische Mittel aus der Erfahrungs- und Prüfungsnote. X,25 und X,75 werden aufgerundet.
+
+<sup>2</sup> Die FMS-Ausweisnote für die selbstständige Arbeit ist die gemäss Artikel 86 verfügte Note.
+
+<sup>3</sup> Die FMS-Ausweisnote in den übrigen FMS-Ausweisfächern ist die auf eine ganze oder halbe Zahl gerundete Erfahrungsnote. X,25 und X,75 werden aufgerundet.
+
+#### Art. 96
+
+**Bestehensnorm**
+
+<sup>1</sup> Die FMS-Ausweisprüfungen sind bestanden, wenn
+
+- a der ungerundete Durchschnitt aller FMS-Ausweisnoten mindestens 4 beträgt,
+- b nicht mehr als drei FMS-Ausweisnoten unter 4 erteilt werden und
+- c die Summe aller Notenabweichungen von 4 nach unten nicht grösser als 2 ist.
+
+#### Art. 97
+
+**Fachmittelausweis**
+
+<sup>1</sup> Die Schule stellt den Fachmittelschulausweis gemäss Artikel 16 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen[^97-1] aus.
+
+<sup>2</sup> Der Fachmittelschulausweis enthält bei Schülerinnen und Schülern mit einer Sonderregelung gemäss Artikel 11 Absatz 1 Buchstabe a eine entsprechende Bemerkung.
+
+<sup>3</sup> Der Fachmittelschulausweis wird von der Erziehungsdirektorin oder dem Erziehungsdirektor, von der Präsidentin oder dem Präsidenten der KPFMS sowie dem für die Fachmittelschulbildungsgänge verantwortlichen Schulleitungsmitglied unterschrieben.
+
+[^97-1]: BSG [439.181.1](https://www.belex.sites.be.ch/data/439.181.1/de)
+
+#### Art. 98
+
+**Duplikate**
+
+<sup>1</sup> Abhandengekommene Fachmittelschulausweise werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen ersetzt.
+
+### 3.2 Fachmaturitätsbildungsgang
+
+### 3.2.1 Aufnahmen
+
+#### Art. 99
+
+**Anmeldung und Aufnahmeverfahren**
+
+<sup>1</sup> Bewerberinnen und Bewerber für eine Fachmaturität melden sich bis Mitte Februar bei der bisher besuchten Fachmittelschule an. Die Schulleitung der Fachmittelschule kann in begründeten Fällen abweichende Termine festlegen.
+
+<sup>2</sup> Die Aufnahme in den Fachmaturitätsbildungsgang Gesundheit oder Soziale Arbeit erfolgt unter der Voraussetzung, dass
+
+- a ein Fachmittelschulausweis mit dem entsprechenden Berufsfeld vorliegt,
+- b die Fachmittelschulausweisnote im entsprechenden Berufsfeld genügend ist,
+- c die Aufnahme spätestens ein Jahr nach dem Erwerb des Fachmittelschulausweises erfolgt und
+- d bis spätestens zu Beginn des Bildungsgangs ein Vertrag für den Besuch eines anerkannten Praktikums oder die Zulassung zu einer tertiären Ausbildung mit integriertem äquivalentem Praktikum vorliegt.
+
+<sup>3</sup> Die Aufnahme in den Fachmaturitätsbildungsgang Pädagogik erfolgt im deutschsprachigen Kantonsteil unter der Voraussetzung, dass
+
+- a ein Fachmittelschulausweis mit beiden Berufsfeldern Gesundheit und Soziale Arbeit vorliegt,
+- b die Summe der Fachmittelschulausweisnoten für die Fächer erste Landessprache, zweite Landessprache, Mathematik und den Lernbereich Naturwissenschaften mindestens 16 Notenpunkte beträgt, wobei keine Einzelnote unter 3,5 liegen darf, und
+- c die Aufnahme spätestens ein Jahr nach dem Erwerb des Fachmittelschulausweises erfolgt.
+
+<sup>4</sup> Die Aufnahme in die Fachmaturitätsbildungsgang Pädagogik erfolgt im französischsprachigen Kantonsteil unter der Voraussetzung, dass
+
+- a ein Fachmittelschulausweis mit den Berufsfeldern Pädagogik und Soziale Arbeit oder Gesundheit vorliegt,
+- b die Summe der Fachmittelschulausweisnoten für die Fächer erste Landessprache, zweite Landessprache, Mathematik und den Lernbereich Naturwissenschaften mindestens 16 Notenpunkte beträgt, wobei keine Einzelnote unter 3,5 liegen darf, und
+- c die Aufnahme spätestens ein Jahr nach dem Erwerb des Fachmittelschulausweises erfolgt.
+
+<sup>5</sup> Die Aufnahme in den Fachmaturitätsbildungsgang eines Berufsfelds, für das kein Fachmittelschulausweis vorliegt, erfolgt unter Vorbehalt von Kompensationsleistungen gemäss Lehrplan.
+
+<sup>6</sup> Aus wichtigen Gründen können Ausnahmen von Absatz 2 Buchstabe c, Absatz 3 Buchstabe c und Absatz 4 Buchstabe c bewilligt werden.
+
+<sup>7</sup> Eine Kandidatin oder ein Kandidat kann höchstens zweimal in einen Fachmaturitätsbildungsgang aufgenommen werden.
+
+### 3.2.2 Anforderungen an das Praktikum in den Berufsfeldern Gesundheit und Sozial Arbeit
+
+#### Art. 100
+
+<sup>1</sup> Das Praktikum für das Berufsfeld Gesundheit in einer Institution des Bereichs Gesundheit besteht aus
+
+- a einem Vorbereitungskurs und mindestens 24 Wochen Praktikum oder
+- b aus den in das erste Ausbildungsjahr einer tertiären Ausbildung integrierten Praktika vergleichbarer Dauer.
+
+<sup>2</sup> Das bewertete Praktikum für das Berufsfeld Soziale Arbeit muss direkten Kontakt zu betreuenden Personen sicherstellen und mindestens zwölf Wochen dauern.
+
+<sup>3</sup> Über die Anerkennung des Praktikums entscheidet die Schulleitung der Fachmittelschule.
+
+### 3.2.3 Bewertung während des Fachmaturitätsbildungsgangs
+
+#### Art. 101
+
+**Leistungsbewertung**
+
+<sup>1</sup> Im Fachmaturitätsbildungsgang Pädagogik werden die schriftliche Fachmaturitätsarbeit sowie deren Präsentation bewertet.
+
+<sup>2</sup> Im Fachmaturitätsbildungsgang Gesundheit oder Soziale Arbeit werden die schriftliche Fachmaturitätsarbeit und die Leistungen im Praktikum bewertet.
+
+#### Art. 102
+
+**Bewertung des Praktikums im Fachmaturitätsbildungsgang Gesundheit oder Soziale Arbeit**
+
+<sup>1</sup> Wenn die Fachmaturität Gesundheit nicht integriert im ersten Ausbildungsjahr einer tertiären Ausbildung erworben wird, kann das Praktikum nur anerkannt und bewertet werden, wenn der dazu gehörige Vorbereitungskurs vollständig absolviert wurde.
+
+<sup>2</sup> Die Bewertung des Praktikums für die Berufsfelder Gesundheit und Soziale Arbeit bezieht sich auf die Fähigkeit, auf die zu betreuenden bzw. zu pflegenden Personen eingehen, sich abgrenzen, sich in den Betrieb einfügen und Zusammenhänge verstehen zu können.
+
+<sup>3</sup> Die Leistungen im Praktikum werden in Abweichung zu Artikel 2 mit ganzzahligen Noten aufgrund der Skala des Praktikumsbetriebs bewertet.
+
+<sup>4</sup> Die Bewertung des Praktikumsanbieters wird durch die Fachmittelschule durch Verfügung eröffnet.
+
+#### Art. 103
+
+**Bewertung der schriftlichen Fachmaturitätsarbeit - Allgemeines**
+
+<sup>1</sup> Die schriftliche Fachmaturitätsarbeit umfasst die Definition einer praxisrelevanten Problemstellung, die Formulierung einer geeigneten Leitfrage und eines Ziels, die Darstellung der Problemlösung und die Überprüfung der Resultate mit einer Schlussfolgerung. Sie orientiert sich an den Kriterien wissenschaftlichen Schreibens.
+
+<sup>2</sup> Das Nichteinhalten von Terminen oder formalen Vorgaben wird bei der Beurteilung des Teilbereichs Arbeitsprozess berücksichtigt. Im Wiederholungsfall kann die FMS-Leitung den Ausschluss aus dem Fachmaturitätsbildungsgang verfügen.
+
+<sup>3</sup> Eine als ungenügend bewertete schriftliche Fachmaturitätsarbeit kann innert vier Wochen einmal nachgebessert werden. Die nachgebesserte Arbeit kann höchstens mit der Note 4 bewertet werden.
+
+<sup>4</sup> Die Fachmittelschule eröffnet die Bewertung der schriftlichen Fachmaturitätsarbeit durch Verfügung.
+
+#### Art. 104
+
+**Bewertung der Fachmaturitätsarbeit für das Berufsfeld Pädagogik**
+
+<sup>1</sup> Die schriftliche Fachmaturitätsarbeit für das Berufsfeld Pädagogik wird mündlich präsentiert.
+
+<sup>2</sup> Die Gesamtnote der Fachmaturitätsarbeit berechnet sich aus der Bewertung der schriftlichen Fachmaturitätsarbeit und deren mündlichen Präsentation, wobei der schriftliche Teil zu zwei Dritteln, der mündliche Teil zu einem Drittel gewichtet wird.
+
+<sup>3</sup> Die Gesamtnote für die Fachmaturitätsarbeit wird durch die Fachmittelschule durch Verfügung eröffnet.
+
+#### Art. 105
+
+**Bewertung der schriftlichen Fachmaturitätsarbeit für die Berufsfelder Gesundheit oder Soziale Arbeit**
+
+<sup>1</sup> Die schriftliche Fachmaturitätsarbeit für die Berufsfelder Gesundheit oder Soziale Arbeit einreichen kann, wer ein mindestens als genügend bewertetes Praktikum im Berufsfeld absolviert hat.
+
+<sup>2</sup> Die Bewertung der schriftlichen Fachmaturitätsarbeit erfolgt durch die betreuende Lehrperson der Fachmittelschule und eine Expertin oder einen Experten aus dem betreffenden Berufsfeld.
+
+### 3.2.4 Fachmaturitätsprüfungen
+
+#### Art. 106
+
+**Anmeldung**
+
+<sup>1</sup> Die Anmeldung zu den Fachmaturitätsprüfungen Pädagogik erfolgt spätestens bis 31. Januar.
+
+<sup>2</sup> Die Anmeldung zu den Fachmaturitätsprüfungen Gesundheit oder Soziale Arbeit erfolgt unmittelbar nach der Verfügung der Note für die schriftliche Fachmaturitätsarbeit und spätestens ein Jahr nach Beginn des Fachmaturitätsbildungsgangs gemäss den Weisungen der KPFMS.
+
+#### Art. 107
+
+**Zulassung**
+
+<sup>1</sup> Die Kandidatin oder der Kandidat für eine Fachmaturität Gesundheit oder Soziale Arbeit wird zu den Fachmaturitätsprüfungen zugelassen, wenn das Praktikum und die schriftliche Fachmaturitätsarbeit mindestens als genügend bewertet wurden und die Prüfungsgebühr entrichtet wurde.
+
+<sup>2</sup> Die Kandidatin oder der Kandidat wird im deutschsprachigen Kantonsteil zu den Fachmaturitätsprüfungen für die Fachmaturität Pädagogik zugelassen, wenn
+
+- a das pädagogische Vorpraktikum von sechs Wochen absolviert wurde,
+- b in jedem Prüfungs- und Teilfach sowie im Intensivkurs im Kunstfach eine Präsenzzeit pro Fach von je mindestens 90 Prozent erreicht wurde,
+- c die Gesamtnote für die Fachmaturitätsarbeit mindestens genügend ist und
+- d die Prüfungsgebühr entrichtet wurde.
+
+<sup>3</sup> Die Kandidatin oder der Kandidat wird im französischsprachigen Kantonsteil zu den Fachmaturitätsprüfungen für die Fachmaturität Pädagogik zugelassen, wenn
+
+- a der vierwöchige Fremdsprachenaufenthalt in einer deutschsprachigen Region nachgewiesen wird,
+- b das pädagogische Vorpraktikum von vier Wochen für Kandidatinnen und Kandidaten mit Fachmittelschulausweis mit Berufsfeld Pädagogik und Soziale Arbeit bzw. sechs Wochen für Kandidatinnen und Kandidaten mit einem Fachmittelschulausweis mit einem anderen Berufsfeld absolviert wurde,
+- b1 in jedem Prüfungs- und Teilfach sowie im Kunstfach eine Präsenzzeit pro Fach von je mindestens 90 Prozent erreicht wurde,
+- c die Gesamtnote für die Fachmaturitätsarbeit mindestens genügend ist und
+- d die Prüfungsgebühr entrichtet wurde.
+
+<sup>4</sup> Werden aus zwingenden Gründen keine genügenden Präsenzzeiten erreicht, kann eine Kandidatin oder ein Kandidat dennoch zugelassen werden, wenn sie oder er entsprechende Zusatzleistungen erbringt.
+
+#### Art. 108
+
+**Wiederholung der Fachmaturitätsprüfungen**
+
+<sup>1</sup> Kandidatinnen und Kandidaten, die die Fachmaturitätsprüfungen ein erstes Mal nicht bestanden haben, haben das Recht, den Fachmaturitätsbildungsgang an der bisher besuchten oder einer anderen Schule zu wiederholen. Dies gilt auch, wenn bereits von der Wiederholung gemäss Artikel 110 Absatz 4 Gebrauch gemacht worden ist.
+
+<sup>2</sup> Sie dürfen die Fachmaturitätsprüfungen ein zweites Mal ablegen, unter der Voraussetzung, dass sie
+
+- a für die Fachmaturität Pädagogik den Unterricht in sämtlichen Fächern wiederholt haben,
+- b für die Fachmaturität Gesundheit oder Soziale Arbeit den gesamten Bildungsgang wiederholen und die zugehörigen Bedingungen erfüllen.
+
+<sup>3</sup> Wer eine schweizerisch anerkannte Fachmaturitätsprüfung zweimal nicht bestanden hat, wird zu keiner weiteren kantonal anerkannten Fachmaturitätsprüfung zugelassen.
+
+#### Art. 109
+
+**Kantonale Prüfungskommission Fachmittelschulen (KPFMS)**
+
+<sup>1</sup> Die KPFMS ist die für die Fachmaturitätsprüfungen zuständige Prüfungskommission.
+
+<sup>2</sup> Sie kann Weisungen zum Prüfungsablauf, zum Prüfungsumfang und zu Prüfungsschwerpunkten erlassen.
+
+#### Art. 110
+
+**Fachmaturitätsprüfungen für die Fachmaturität Gesundheit oder Soziale Arbeit**
+
+<sup>1</sup> Die Fachmaturitätsprüfungen für die Fachmaturität Gesundheit oder Soziale Arbeit bestehen aus einer mündlichen Präsentation der schriftlichen Fachmaturitätsarbeit und einem Prüfungsgespräch.
+
+<sup>2</sup> Die mündliche Präsentation und das Prüfungsgespräch dauern zusammen 30 Minuten.
+
+<sup>2a</sup> Die Fachmaturitätsprüfungen werden von einer Lehrkraft und einer Expertin oder einem Experten gemeinsam abgenommen.
+
+<sup>3</sup> Bewertet werden insbesondere die Klarheit der Präsentation und die Darstellung der Zusammenhänge und Problemfelder sowie die überzeugende Argumentation im Prüfungsgespräch.
+
+<sup>4</sup> Werden die Fachmaturitätsprüfungen als ungenügend bewertet, können sie innert vier Wochen einmal wiederholt und höchstens mit der Note 4 bewertet werden.
+
+#### Art. 111
+
+**Fachmaturitätsprüfungen für die Fachmaturität Pädagogik**
+
+<sup>1</sup> Die Prüfungsfächer, die Prüfungsart und die Prüfungsdauer finden sich in Anhang 10.
+
+<sup>2</sup> Die Noten der fünf Prüfungsfächer setzen sich aus den Teilnoten der einzelnen Prüfungen zusammen. Sie werden auf ganze oder halbe Noten gerundet.
+
+<sup>3</sup> Die Fachmaturitätsprüfungen sind bestanden, wenn
+
+- a der Durchschnitt aller fünf Noten der Prüfungsfächer und der Fachmaturitätsarbeit mindestens 4 beträgt,
+- b höchstens zwei Noten der Prüfungsfächer ungenügend sind und
+- c die Summe der Notenabweichung der fünf Prüfungsfächer von 4 nach unten nicht mehr als einen Notenpunkt beträgt.
+
+#### Art. 112
+
+**Fachmaturitätsausweis**
+
+<sup>1</sup> Die Fachmittelschule stellt den Fachmaturitätsausweis gemäss Artikel 18 des Reglements der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren vom 12. Juni 2003 über die Anerkennung der Abschlüsse von Fachmittelschulen aus.
+
+<sup>2</sup> Die Gesamtnote der Fachmaturitätsarbeit berechnet sich für die Fachmaturität Gesundheit oder Soziale Arbeit aus der Bewertung der schriftlichen Fachmaturitätsarbeit und der mündlichen Prüfung, wobei der schriftliche Teil zu zwei Dritteln, der mündliche Teil zu einem Drittel gewichtet wird.
+
+<sup>3</sup> Der Fachmittelschulausweis enthält bei Schülerinnen und Schülern mit einer Sonderregelung gemäss Artikel 11 Absatz 1 Buchstabe a eine entsprechende Bemerkung.
+
+<sup>4</sup> Für das Berufsfeld Soziale Arbeit wird das Fachmaturitätszeugnis erst ausgehändigt, wenn die Kandidatin oder der Kandidat zusätzlich zu den Anforderungen an das Praktikum gemäss Artikel 100 Absatz 2 eine Arbeitswelterfahrung von 32 Wochen Dauer nachgewiesen hat.
+
+<sup>5</sup> Fachmaturitätsausweise werden von der Erziehungsdirektorin oder dem Erziehungsdirektor, von der Präsidentin oder dem Präsidenten der KPFMS sowie dem für die Fachmittelschulbildungsgänge verantwortlichen Schulleitungsmitglied unterschrieben.
+
+#### Art. 113
+
+**Duplikate**
+
+<sup>1</sup> Abhandengekommene Fachmaturitätsausweise werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen ersetzt.
+
+## 4 Weitere allgemeinbildende Bildungsgänge mit anerkannten Abschlüssen der Sekundarstufe II und spezielle Bildungsgänge, die auf den Eintritt in bestimmte Hochschulstudiengänge vorbereiten
+
+### 4.1 Passerelle Berufs- und Fachmaturität-universitäre Hochschule
+
+#### Art. 114
+
+**Aufnahmen**
+
+<sup>1</sup> In den Vorbereitungskurs auf die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen (Passerelle Berufs- und Fachmaturität-universitäre Hochschule) werden nur Studierende mit einem eidgenössischen Berufsmaturitätszeugnis oder einem gesamtschweizerisch anerkannten Fachmaturitätszeugnis aufgenommen.
+
+#### Art. 115
+
+**Anmeldung, Einschreibegebühr**
+
+<sup>1</sup> Die Kandidatinnen und Kandidaten für die kantonalen Bildungsgänge melden sich auf einem besonderen Formular bis Mitte März bei der entsprechenden Schulleitung an. Mit der Anmeldung wird die Einschreibegebühr fällig.
+
+<sup>2</sup> Als definitiv angemeldet gilt, wer bis Mitte Mai die Anmeldung schriftlich bestätigt hat.
+
+#### Art. 116
+
+**Lehrplan**
+
+<sup>1</sup> Der Unterricht des Vorbereitungskurses auf die Ergänzungsprüfung richtet sich nach den Vorgaben zu den Prüfungsbereichen der Richtlinien der Schweizerischen Maturitätskommission gemäss der eidgenössischen Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^116-1].
+
+[^116-1]: SR [413.14](https://db.clex.ch/link/Bund/413.14/de)
+
+#### Art. 117
+
+**Zulassung zur Ergänzungsprüfung**
+
+<sup>1</sup> Zur Ergänzungsprüfung an der betreffenden Schule wird zugelassen, wer
+
+- a den Unterricht regelmässig besucht und
+- b die im Rahmen des Unterrichts verlangten Arbeiten vollständig erledigt hat.
+
+#### Art. 118
+
+**Ergänzungsprüfung**
+
+<sup>1</sup> Die Ergänzungsprüfungen an der betreffenden Schule richten sich nach den Bestimmungen der eidgenössischen Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen.
+
+<sup>2</sup> Die KMK ist die für die Ergänzungsprüfungen zuständige Prüfungskommission.
+
+<sup>3</sup> Sie kann Weisungen zum Prüfungsablauf, zum Prüfungsumfang und zu Prüfungsschwerpunkten erlassen.
+
+#### Art. 119
+
+**Ausweis über die Ergänzungsprüfung**
+
+<sup>1</sup> Die Schulleitung stellt den Ausweis über die Ergänzungsprüfung gemäss Artikel 12 der eidgenössischen Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen aus.
+
+<sup>2</sup> Dieser Ausweis wird von der Präsidentin oder dem Präsidenten der KMK sowie von dem Schulleitungsmitglied, das die Schule gegen aussen vertritt, als Rektorin oder Rektor unterschrieben
+
+#### Art. 120
+
+**Duplikate**
+
+<sup>1</sup> Abhandengekommene Ausweise über die Ergänzungsprüfung werden durch ein Duplikat mit Unterschrift der Vorsteherin oder des Vorstehers der Abteilung Mittelschulen ersetzt.
+
+### 4.2 Vorbereitungskurse auf den Eintritt in bestimmte Hochschulstudiengänge
+
+#### Art. 121
+
+**Aufnahmeverfahren für Vorbereitungskurse Gestaltung und Kunst**
+
+<sup>1</sup> Im Aufnahmeverfahren für die Vorbereitungskurse Gestaltung und Kunst wird abgeklärt, ob das entsprechende Potenzial für ein Hochschulstudium vorhanden ist.
+
+<sup>2</sup> Zur Aufnahmeprüfung wird zugelassen, wer mit einer Hausarbeit zu einem vorgegebenen Thema eine genügende Bewertung erzielt und über einen zum Hochschulstudium berechtigenden allgemeinbildenden Abschluss der Sekundarstufe II verfügt.
+
+<sup>3</sup> In der Aufnahmeprüfung wird durch das Lösen von gestalterischen Aufgaben sowie durch Aufnahmegespräch die besondere Eignung abgeklärt. Die Bewertung der Aufnahmeprüfung erfolgt in Punkten.
+
+<sup>4</sup> Die aufnehmende Schule eröffnet den Kandidatinnen und Kandidaten den Aufnahmeentscheid durch Verfügung.
+
+<sup>5</sup> Bei Misserfolg kann die Aufnahmeprüfung zweimal wiederholt werden.
+
+#### Art. 122
+
+**Aufnahmeverfahren für Vorbereitungskurse Musik**
+
+<sup>1</sup> Im Aufnahmeverfahren für die Vorbereitungskurse Musik wird abgeklärt, ob das entsprechende Potenzial für ein Hochschulstudium vorhanden ist.
+
+#### Art. 123
+
+**Übertritt in die Hochschulstudiengänge**
+
+<sup>1</sup> Der Übertritt in die Hochschulstudiengänge erfolgt gemäss der entsprechenden Hochschulgesetzgebung.
+
+## 5 Kantonale Mittelschulen
+
+### 5.1 Unterricht, Schuljahrsbeginn, Unterrichts- und Klassenorganisation
+
+#### Art. 124
+
+**Schuljahrsbeginn**
+
+<sup>1</sup> An Mittelschulen beginnt das Schuljahr administrativ in der Regel am 1. August.
+
+#### Art. 125
+
+**Unterrichtsfreie Schulhalbtage**
+
+<sup>1</sup> Die Schulleitung kann höchstens vier unterrichtsfreie Schulhalbtage pro Schuljahr bestimmen, um in besonderen Fällen schulorganisatorisch sinnvolle Lösungen zu treffen. Der Bildungserfolg darf dadurch nicht gefährdet werden.
+
+#### Art. 126
+
+**Umteilungen von Schülerinnen und Schülern**
+
+<sup>1</sup> Liegen für einen Schulungsort mehr Anmeldungen vor, als Plätze verfügbar sind, so werden in erster Linie die Erreichbarkeit der Schulen sowie wichtige persönliche Gründe als Entscheidungsgrundlage für die Umteilung hinzugezogen.
+
+### 5.2 Stützmassnahmen
+
+#### Art. 127
+
+**Integration von Schülerinnen und Schülern mit geringen Kenntnissen in der Erst- bzw. Zweitsprache**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die den Unterricht in der Erst- bzw. Zweitsprache erst seit dem letzten Schuljahr der Primarstufe oder später besucht haben, wird das entsprechende Aufnahmeverfahren angepasst. Anträge auf Anpassungen sind zusammen mit der Anmeldung einzureichen.
+
+<sup>2</sup> Die Schulleitung kann nach Anhören der Lehrkräfte in höchstens zwei Sprachfächern individuelle Lernziele verfügen.
+
+<sup>3</sup> Sofern individuelle Lernziele verfügt worden sind, die bis zur Abschlussprüfung nicht hinfällig werden, weist die Schulleitung die betroffenen Schülerinnen und Schüler rechtzeitig auf die Möglichkeit eines Gesuchs um Sonderregelungen für die Abschlussprüfung gemäss Artikel 11 hin.
+
+<sup>4</sup> Die Abteilung Mittelschulen kann auf Antrag der Schulleitung pro Schülerin oder Schüler höchstens 40 Stützlektionen bewilligen.
+
+#### Art. 128
+
+**Integration von Schülerinnen und Schülern mit einer Behinderung**
+
+<sup>1</sup> Für Schülerinnen und Schüler mit einer Behinderung kann die zuständige Schulleitung beim Aufnahmeverfahren Massnahmen zum Ausgleich von Benachteiligungen gewähren. Anträge auf Massnahmen sind zusammen mit der Anmeldung einzureichen.
+
+<sup>2</sup> Die Schulleitung kann nach Anhören der Lehrkräfte für Leistungsüberprüfungen während des Bildungsgangs Massnahmen zum Ausgleich von Benachteiligungen bewilligen. Insbesondere kann sie besondere Hilfsmittel erlauben sowie die Prüfungsorganisation und die Prüfungsdauer anpassen. Sie kann auch die Dauer des Bildungsgangs individuell verlängern. Diese Sonderregelungen werden schriftlich festgehalten.
+
+<sup>3</sup> Die Schulleitung weist die betroffenen Schülerinnen und Schüler rechtzeitig auf die Möglichkeit eines Gesuchs um Sonderregelungen für die Abschlussprüfung gemäss Artikel 11 hin.
+
+### 5.3 Absenzen und Dispensationen
+
+#### Art. 129
+
+**Erstes Jahr des gymnasialen Bildungsgangs**
+
+<sup>1</sup> Die Absenzen und Dispensationen im ersten Jahr des gymnasialen Bildungsgangs richten sich nach der Volksschulgesetzgebung.
+
+<sup>2</sup> Wird das erste Jahr des gymnasialen Bildungsgangs an einer Volksschule angeboten, richten sich die Zuständigkeiten nach der Volksschulgesetzgebung.
+
+#### Art. 130
+
+**Freie Halbtage**
+
+<sup>1</sup> Die Schülerinnen und Schüler sind berechtigt, an höchstens fünf Halbtagen pro Schuljahr dem Unterricht fernzubleiben.
+
+<sup>2</sup> Die Halbtage können einzeln oder zusammenhängend bezogen werden.
+
+<sup>3</sup> Der Bezug ist nicht zulässig an Halbtagen, an denen eine angekündigte schriftliche Prüfung oder eine schulische Sonderveranstaltung stattfindet oder an denen die Schülerin oder der Schüler einen geplanten Unterrichtsteil leisten muss.
+
+<sup>4</sup> Der Bezug ist der Klassenlehrkraft sobald als möglich, jedoch spätestens zwei Tage im Voraus mitzuteilen.
+
+<sup>5</sup> Ordnungsgemäss bezogene freie Halbtage gelten als entschuldigte Absenzen.
+
+#### Art. 131
+
+**Absenzen**
+
+<sup>1</sup> Absenzen sind Abwesenheiten vom Unterricht, die nicht auf begründetes Gesuch hin vorgängig von der Schulleitung bewilligt werden, unabhängig davon, ob sie vorhersehbar sind.
+
+<sup>2</sup> Sie sind der Klassenlehrkraft so bald als möglich zu melden. Spätestens innert acht Tagen nach Wiederaufnahme des Unterrichts sind Absenzen schriftlich der Klassenlehrkraft zu begründen.
+
+<sup>3</sup> Sie gelten insbesondere bei Fehlen aus folgenden Gründen als entschuldigt:
+
+- a Krankheit,
+- b Unfall,
+- c Arzt- oder Zahnarztbesuch,
+- d Todesfall in der Familie.
+
+<sup>4</sup> In strittigen Fällen entscheidet die Schulleitung. Diese kann Arztzeugnisse oder andere Bestätigungen einfordern.
+
+<sup>5</sup> Häufen sich bei unmündigen Schülerinnen und Schülern Absenzen oder Verspätungen, nimmt die Klassenlehrkraft mit den Eltern Rücksprache.
+
+#### Art. 132
+
+**Dispensationen**
+
+<sup>1</sup> Dispensationen sind im Voraus zu planende und mit begründetem Gesuch zu beantragende Freistellungen vom Unterricht.
+
+<sup>2</sup> Dispensationsgesuche sind so bald als möglich, in der Regel spätestens acht Tage im Voraus schriftlich und begründet bei der Schulleitung einzureichen.
+
+<sup>3</sup> Dispensationen sind insbesondere möglich
+
+- a bei Prüfungsaufgeboten,
+- b bei Aufgeboten durch Amts- oder Dienststellen,
+- c bei Umzug,
+- d bei Mutterschaft,
+- e für die Teilnahme an Beerdigungen,
+- f für die Teilnahme an Austauschjahren,
+- g für den Besuch von Schnupperlehren,
+- h wegen religiöser Gebote,
+- i wegen gesundheitlicher Einschränkungen oder körperlicher Behinderungen,
+- k für die individuelle zeitliche Entlastung zur Förderung ausserordentlicher intellektueller, sportlicher oder musischer Begabungen,
+- l für den Besuch von Kursen,
+- m für die Teilnahme an besonderen oder wichtigen Veranstaltungen namentlich in den Bereichen Kultur, Politik und Sport,
+- n für die Übernahme spezieller Verpflichtungen im Auftrag der Schule.
+
+<sup>4</sup> Dispensationen werden in der Regel befristet.
+
+<sup>5</sup> Die Schulleitung kann freie Halbtage gemäss Artikel 130 an Dispensationen anrechnen.
+
+<sup>6</sup> Die Schulleitung entscheidet.
+
+#### Art. 133
+
+**Folgen bei unentschuldigten und nicht begründeten Absenzen**
+
+<sup>1</sup> Sind Absenzen nicht gemäss Artikel 131 begründet oder werden sie der Klassenlehrkraft nicht ordnungsgemäss gemeldet, gelten sie als unentschuldigt.
+
+<sup>2</sup> Wird eine Dispensation nicht gewährt und bleibt die Schülerin oder der Schüler dennoch dem Unterricht fern oder treten unentschuldigte Absenzen auf, kann die Schulleitung Massnahmen gemäss Artikel 44 des Mittelschulgesetzes vom 27. März 2007 (MiSG)[^133-1] ergreifen.
+
+[^133-1]: BSG [433.12](https://www.belex.sites.be.ch/data/433.12/de)
+
+#### Art. 134
+
+**Bildungsgänge, die spezifisch auf die Bedürfnisse Erwachsener ausgerichtet sind**
+
+<sup>1</sup> Für spezifisch auf die Bedürfnisse Erwachsener ausgerichtete Bildungsgänge und für weitere allgemeinbildende Bildungsgänge mit anerkannten Abschlüssen der Sekundarstufe II und spezielle Bildungsgänge, die auf den Eintritt in bestimmte Hochschulstudiengänge vorbereiten, gelten Artikel 131 bis Artikel 133 sinngemäss.
+
+## 6 Finanzierung der kantonalen Bildungsangebote
+
+### 6.1 Finanzierung von Mensen und Internaten
+
+#### Art. 135
+
+<sup>1</sup> Zum Entscheid, ob eine Mensa kostendeckend geführt werden kann, werden folgende Kennzahlen erhoben:
+
+- a Warenaufwand im Verhältnis zum Umsatz,
+- b Personalaufwand im Verhältnis zum Umsatz und
+- c Aufwand Unternehmungsführung und Unternehmensgewinn im Verhältnis zum Umsatz.
+
+<sup>2</sup> Die Werte der Kennzahlen müssen in den branchenüblichen Bandbreiten liegen. Lokale Besonderheiten können berücksichtigt werden.
+
+<sup>3</sup> Die Berechnung des Kostendeckungsgrads ist gemäss einem vorgegebenen Kalkulationsschema einzureichen.
+
+<sup>4</sup> Bei Internaten müssen die direkten Kosten (ohne Mietwert) gedeckt sein.
+
+### 6.2 Entschädigungen und Spesen
+
+#### Art. 135a
+
+**…**
+
+#### Art. 136
+
+**Prüfungskommissionen**
+
+<sup>1</sup> Der Präsidentin oder dem Präsidenten der KMK werden die Taggelder und Spesen nach der Verordnung vom 2. Juli 1980 über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^136-1] sowie pro Jahr eine Entschädigung von 3000 Franken für die Betreuung der gymnasialen Maturitätsprüfung sowie von 900 Franken für die Betreuung der Ergänzungsprüfung ausgerichtet.
+
+<sup>2</sup> Der Präsidentin oder dem Präsidenten der KPFMS werden die Taggelder und Spesen nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen sowie pro Jahr eine Entschädigung von insgesamt 2200 Franken für die Betreuung der FMS-Ausweis- und Fachmaturitätsprüfungen ausgerichtet.
+
+<sup>3</sup> Der Hauptexpertin oder dem Hauptexperten für die Fachmaturitätsprüfungen Gesundheit bzw. Soziale Arbeit werden die Taggelder und Spesen nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen sowie eine Entschädigung von 2200 Franken pro Jahr ausgerichtet.
+
+<sup>4</sup> Den Hauptexpertinnen und Hauptexperten für die weiteren Prüfungsfächer werden die Taggelder und Spesen nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen sowie jährlich folgende nach Anzahl der zu Prüfenden im betreuten Fach abgestufte Entschädigung ausgerichtet:
+
+- a für 1 bis 100 zu Prüfende: 900 Franken,
+- b für 101 bis 800 zu Prüfende: 1500 Franken,
+- c für 801 bis 1800 zu Prüfende: 2200 Franken,
+- d für mehr als 1800 zu Prüfende: 3000 Franken.
+
+<sup>5</sup> Die Entschädigung weiterer Mitglieder der Prüfungskommissionen richtet sich nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen.
+
+[^136-1]: BSG [152.256](https://www.belex.sites.be.ch/data/152.256/de)
+
+#### Art. 137
+
+**Expertinnen und Experten**
+
+<sup>1</sup> Die Entschädigung der von der Prüfungskommission eingesetzten Expertinnen und Experten beträgt pro Kandidatin oder Kandidat 14 Franken für eine zweistündige Prüfung, 20 Franken für eine dreistündige Prüfung und 26 Franken für eine vierstündige Prüfung. Es wird mindestens der Betrag für acht Prüfungen ausgerichtet.
+
+<sup>2</sup> Die Entschädigung der Expertinnen und Experten beträgt für alle mündlich geprüften Fächer pro Kandidatin oder Kandidaten 18 Franken, wobei pro Prüfungshalbtag mindestens der Betrag für sechs Prüfungen ausgerichtet wird. Pro Schule wird mindestens die Entschädigung für acht Prüfungen ausgerichtet.
+
+<sup>3</sup> Die Entschädigung der Expertinnen und Experten für die Korrektur der Fachmaturitätsarbeit und die Teilnahme an der Fachmaturitätsprüfung in den Berufsfeldern Gesundheit oder Soziale Arbeit beträgt pauschal 250 Franken pro Kandidatin oder Kandidaten.
+
+<sup>4</sup> Für den Ersatz der Spesen gelten die Bestimmungen für das Kantonspersonal.
+
+#### Art. 138
+
+**Weitere Entschädigungen**
+
+<sup>1</sup> Für Besprechungen, die von einer Hauptexpertin oder einem Hauptexperten einberufen werden, richtet sich die Entschädigung der Expertinnen und Experten nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen.
+
+<sup>2</sup> Für von der Prüfungskommission oder der zuständigen Stelle der Erziehungsdirektion angeordnete Evaluationsberichte wird pro Prüfungsserie eine Entschädigung von 300 Franken ausgerichtet.
+
+<sup>3</sup> Für deutlich über die normale Beanspruchung hinausgehende Experten- oder Hauptexpertentätigkeiten, insbesondere im Zusammenhang mit Beschwerdeverfahren, kann durch die Präsidentin oder den Präsidenten der Prüfungskommission bzw. durch die Hauptexpertin oder den Hauptexperten eine Entschädigung von 30 Franken pro Stunde ausgerichtet werden.
+
+#### Art. 139
+
+**Entschädigung an Schweizerschulen im Ausland**
+
+<sup>1</sup> Die Expertentätigkeit an Schweizerschulen im Ausland wird pauschal mit 3000 Franken entschädigt. Diese Entschädigung umfasst Korrektur und Teilnahme an schriftlichen und mündlichen Prüfungen sowie das Verfassen eines Berichts zuhanden der KMK. Zusätzlich werden die effektiven Spesen vergütet.
+
+#### Art. 140
+
+**Ergänzungsprüfungen Passerelle Berufsmaturität-universitäre Hochschule**
+
+<sup>1</sup> Die Entschädigung der Expertinnen und Experten sowie der prüfenden Lehrkräfte erfolgt gemäss Artikel 137.
+
+#### Art. 141
+
+**Konferenz der Schulleitungen der Gymnasien**
+
+<sup>1</sup> Der Präsidentin oder dem Präsidenten der Konferenz der Schulleitungen der Gymnasien wird eine Entschädigung von 3000 Franken pro Jahr ausgerichtet.
+
+<sup>2</sup> Der Sekretärin oder dem Sekretär wird eine Entschädigung von 1500 Franken pro Jahr ausgerichtet.
+
+#### Art. 142
+
+**Schulkommissionen**
+
+<sup>1</sup> Den Präsidentinnen und Präsidenten der Schulkommissionen werden die Taggelder und Spesen nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen sowie eine Entschädigung von 900 Franken pro Jahr ausgerichtet.
+
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 143
+
+**Aufnahmen**
+
+<sup>1</sup> Die Aufnahmen in das zweite Jahr des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil für das Schuljahr 2017/18 erfolgen nach bisherigem Recht.
+
+#### Art. 144
+
+**Promotionen**
+
+<sup>1</sup> Wer einen Bildungsgang nach bisherigem Recht begonnen hat, untersteht den Promotionsbestimmungen nach bisherigem Recht.
+
+<sup>2</sup> Wer ein Schuljahr wiederholt oder nach einem einjährigen Urlaub wieder in das direkt anschliessende Jahr des gymnasialen Bildungsgangs eintritt, untersteht den Promotionsbestimmungen nach neuem Recht.
+
+#### Art. 145
+
+**Änderung eines Erlasses**
+
+<sup>1</sup> Die Direktionsverordnung vom 14. Mai 2013 über Beurteilung und Schullaufbahnentscheide in der Volksschule (DVBS)[^145-1] wird geändert:
+
+[^145-1]: BSG [432.213.11](https://www.belex.sites.be.ch/data/432.213.11/de)
+
+#### Art. 146
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Mittelschuldirektionsverordnung vom 27. Mai 2008 (MiSDV)[^146-1] wird aufgehoben.
+
+[^146-1]: BSG 433.121.1
+
+#### Art. 147
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Direktionsverordnung tritt am 1. August 2017 in Kraft.
+
+## T1 Übergangsbestimmungen der Änderung vom 26.06.2019
+
+#### Art. T1-1
+
+<sup>1</sup> Die Aufnahmebestimmungen gemäss dieser Änderung sind ab dem 1. August 2020 anwendbar für
+
+- a die Aufnahmen aus dem dritten Jahr der Sekundarstufe I von öffentlichen Schulen des Kantons Bern auf den Beginn des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil,
+- b die Aufnahmen aus dem dritten Jahr der Sekundarstufe I auf den Beginn des FMS-Bildungsgangs im deutschsprachigen Kantonsteil.
+
+<sup>2</sup> Die Bestimmung zum Fach Informatik (Art. 50 Abs. 1 Bst. g1) ist wie folgt anwendbar:
+
+- a für das erste gymnasiale Ausbildungsjahr im deutschsprachigen Kantonsteil: ab dem 1. August 2019,
+- b für das zweite gymnasiale Ausbildungsjahr: ab dem 1. August 2020.
+
+<sup>3</sup> Die Bestimmung zu den basalen fachlichen Studierkompetenzen (Art. 59a) ist wie folgt anwendbar:
+
+- a für das erste gymnasiale Ausbildungsjahr im deutschsprachigen Kantonsteil: ab dem 1. August 2019,
+- b für das zweite gymnasiale Ausbildungsjahr: ab dem 1. August 2020,
+- c für das dritte gymnasiale Ausbildungsjahr: ab dem 1. August 2021,
+- d für das vierte gymnasiale Ausbildungsjahr: ab dem 1. August 2022.
+
+## A1 Anhang 1: Zeugnisbemerkungen (Artikel 15 und Artikel 18)
+
+#### Art. A1-1
+
+<sup>1</sup> Die Zeugnisbemerkungen in mehrjährigen Bildungsgängen sind die folgenden:
+
+<table>
+<tr><th>Zeitpunkt</th><th>Zeugnis genügend</th><th>Zeugnis ungenügend</th></tr>
+<tr><td>Einsemestrige Probezeit</td><td>«Zeugnis genügend, definitiv aufgenommen»</td><td>«Zeugnis ungenügend, Probezeit verlängert»</td></tr>
+<tr><td>Einjährige Probezeit</td><td>«Zeugnis genügend, definitiv aufgenommen»</td><td>«Zeugnis ungenügend, Austritt»</td></tr>
+<tr><td>Letztes Jahr des Bildungsgangs</td><td>«Zeugnis genügend»</td><td>«Zeugnis ungenügend»</td></tr>
+<tr><td>Übrige Jahre des Bildungsgangs ohne vorherige Wiederholung</td><td>«Zeugnis genügend, promoviert»</td><td>«Zeugnis ungenügend, nicht promoviert»</td></tr>
+<tr><td>Übrige Jahre des Bildungsgangs nach vorheriger Wiederholung</td><td>«Zeugnis genügend, promoviert»</td><td>«Zeugnis ungenügend, Austritt»</td></tr>
+</table>
+
+<sup>2</sup> Die Zeugnisbemerkung bei unvollständigem Zeugnis lautet: «Zeugnis unvollständig, Austritt».
+
+<sup>3</sup> Die Bestimmungen zu den Zeugnisbemerkungen bei Bildungsgängen, die speziell auf die Bedürfnisse von Erwachsenen ausgerichtet sind, gelten sinngemäss.
+
+## A2 Anhang 2: Einzelheiten zum Empfehlungsverfahren für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 24)
+
+#### Art. A2-1
+
+**Allgemeines**
+
+<sup>1</sup> Die Beurteilung der Eignung für den Besuch des ersten Jahrs des gymnasialen Bildungsgangs richtet sich nach folgenden Grundsätzen:
+
+- a Massgebend ist die Beurteilung der fachlichen Kompetenzen (Beurteilung des Leistungsstands) sowie der methodischen und personalen Kompetenzen in den in Artikel 24 aufgeführten Fächern.
+- b Die Beurteilung umfasst jeweils die Zeitspanne vom 1. August bis Mitte Januar des betreffenden Schuljahrs.
+- c Die Beurteilung der fachlichen Kompetenzen sowie der methodischen und personalen Kompetenzen erfolgt auf den offiziellen Beurteilungsdokumenten durch die Lehrkräfte, welche die Schülerinnen und Schüler in den genannten Fächern unterrichten.
+- d Die Beurteilung der Fachlehrkräfte in den Bereichen fachliche Kompetenzen sowie methodische und personale Kompetenzen mündet je in eine Empfehlung mit folgenden Stufen (ohne Zwischenstufen):
+  - 1\. Empfohlen,
+  - 2\. Nicht empfohlen.
+
+<sup>2</sup> Diese Grundsätze entbinden die Lehrkräfte nicht von der Verpflichtung, im Rahmen der Beurteilung den einzelnen Fall sorgfältig zu prüfen und gegebenenfalls zu begründen.
+
+#### Art. A2-2
+
+**Empfehlung im Bereich fachliche Kompetenzen**
+
+<sup>1</sup> Massgebend für die Empfehlung sind die Anforderungen im Hinblick auf den gymnasialen Unterricht im entsprechenden Fach. Die Empfehlung im jeweiligen Fach ist direkt auf dem offiziellen Beurteilungsdokument festzuhalten.
+
+<sup>2</sup> Für Schülerinnen und Schüler, die einen Teil der Volksschule in einer anderen Sprache als der Unterrichtssprache absolviert bzw. weniger als drei Jahre Unterricht in der zweiten Landessprache besucht haben, ist dies bei der Beurteilung der fachlichen Kompetenzen in der Erstsprache bzw. der zweiten Landessprache angemessen zu berücksichtigen.
+
+#### Art. A2-3
+
+**Empfehlung im Bereich methodische und personale Kompetenzen**
+
+<sup>1</sup> Die Empfehlung setzt sich aus sechs Einzelbeurteilungen in jedem Fach zusammen. Die Einzelbeurteilungen beziehen sich auf
+
+- a Einsatzfreude und Lernbereitschaft,
+- b Planung und Reflexion des Lernprozesses,
+- c Gelerntes mit eigenen Worten wiedergeben,
+- d Erkennen von Fehlern und Nutzung von Förderhinweisen,
+- e Einsatz von Strategien zum Bearbeiten komplexer Fragestellungen,
+- f selbstständiges, zielorientiertes und konzentriertes Arbeiten.
+
+<sup>2</sup> Jede Einzelbeurteilung ergibt ein «Empfohlen» oder ein «Nicht empfohlen».
+
+<sup>3</sup> Für die Ermittlung der Empfehlung im Bereich methodische und personale Kompetenzen werden pro Fach die sechs Einzelbeurteilungen berücksichtigt.
+
+<sup>4</sup> Für eine Gesamtbewertung «Empfohlen» in einem Fach sind mindestens vier Teilbewertungen «Empfohlen» nötig.
+
+<sup>5</sup> Die Empfehlung im jeweiligen Fach ist auf dem offiziellen Beurteilungsdokument festzuhalten.
+
+#### Art. A2-4
+
+**Ermittlung des Antrags zur Aufnahme in den gymnasialen Bildungsgang**
+
+<sup>1</sup> Die Ermittlung des Antrags stützt sich auf die Einzelempfehlungen in den Bereichen fachliche Kompetenzen sowie methodische und personale Kompetenzen.
+
+<sup>2</sup> Die Empfehlungen in den vier Fächern bezüglich fachliche Kompetenzen sowie methodische und personale Kompetenzen werden aufsummiert.
+
+<sup>3</sup> Für eine Qualifikation zum ersten Jahr des gymnasialen Bildungsgangs muss in mindestens sechs von acht Teilbereichen ein «Empfohlen» stehen.
+
+## A3 Anhang 3: Prüfungsverfahren für die Aufnahme in das erste Jahr des gymnasialen Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 25)
+
+#### Art. A3-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Deutsch[^A31-1]</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>2</td><td>Französisch[^A31-2]</td><td>60 Min.</td><td>5 Min.[^A31-3]</td></tr>
+<tr><td>3</td><td>Mathematik 1[^A31-4]</td><td>60 Min.</td><td>-</td></tr>
+<tr><td>4</td><td>Mathematik 2[^A31-5]</td><td>60 Min.</td><td>-</td></tr>
+</table>
+
+[^A31-1]: Kandidatinnen und Kandidaten mit geringen Deutschkenntnissen (Unterricht in der Erstsprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie nur in «Texte schreiben» geprüft werden sollen, wobei die Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A31-2]: Kandidatinnen und Kandidaten mit geringen Französischkenntnissen (Unterricht in der zweiten Landessprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie in Französisch oder in Englisch geprüft werden sollen.
+[^A31-3]: Prüfung in einer Dreiergruppe während 15 Minuten; vorbehalten ist Art. A3-2.
+[^A31-4]: Prüfung von Operieren und Benennen.
+[^A31-5]: Prüfung von Erforschen und Argumentieren sowie Mathematisieren und Darstellen.
+
+#### Art. A3-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Alle Kandidatinnen und Kandidaten werden in den vier Prüfungsfächern schriftlich und in Französisch je nach Ergebnis der schriftlichen Prüfung zusätzlich mündlich geprüft.
+
+<sup>2</sup> In Französisch wird zur mündlichen Prüfung zugelassen, wer mit den Noten in Deutsch, Mathematik 1, Mathematik 2 und dem arithmetischen Mittel aus der Note der schriftlichen Aufnahmeprüfung Französisch und einer hypothetischen Note 6 für eine mündliche Aufnahmeprüfung in Französisch
+
+- a mindestens 16 Punkte erreicht und
+- b nicht mehr als zwei Noten unter 4 hat.
+
+<sup>3</sup> Die Prüfungsnote in Französisch ist
+
+- a für Kandidatinnen und Kandidaten, die nicht zur mündlichen Prüfung zugelassen sind, die Note der schriftlichen Prüfung,
+- b für Kandidatinnen und Kandidaten, die zur mündlichen Prüfung zugelassen sind, das arithmetische Mittel der Noten der schriftlichen und der mündlichen Prüfung (0,25 und 0,75 werden aufgerundet).
+
+<sup>4</sup> Wer mindestens 16 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird in den gymnasialen Bildungsgang aufgenommen.
+
+#### Art. A3-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen richten sich nach dem Lehrplan der Volksschule Primarstufe und Sekundarstufe I und orientieren sich an den Anforderungen des Sekundarschulniveaus. Sie werden jährlich publiziert.
+
+<sup>2</sup> Die Prüfungspensen berücksichtigen
+
+- a für Schülerinnen und Schüler des zweiten Schuljahrs der Sekundarstufe I, dass die Ziele und Inhalte des Lehrplans für dieses Schuljahr zum Zeitpunkt der Aufnahmeprüfung erst zur Hälfte erarbeitet wurden,
+- b für Schülerinnen und Schüler des dritten Schuljahrs der Sekundarstufe I, dass die Ziele und Inhalte des Lehrplans für dieses Schuljahr zum Zeitpunkt der Prüfung mindestens zur Hälfte erarbeitet wurden.
+
+<sup>3</sup> Eine besondere Prüfungsvorbereitung seitens der Lehrkräfte ist nicht vorgesehen.
+
+## A4 Anhang 4: Prüfungsverfahren für die Aufnahme in den gymnasialen Bildungsgang und die Übertritte aus den «sections préparant aux écoles de maturité (section p)» auf den Beginn des zweiten Jahrs des gymnasialen Bildungsgangs im französischsprachigen Kantonsteil (Artikel 35)
+
+#### Art. A4-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>mündlich[^A41-1]</th></tr>
+<tr><td>1</td><td>Erstsprache (Französisch)[^A41-2]</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Deutsch)[^A41-3]</td><td>60 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>120 Min.</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Alle Kandidatinnen und Kandidaten werden in den drei Prüfungsfächern schriftlich und je nach Ergebnis der schriftlichen Prüfung zusätzlich mündlich geprüft.
+
+[^A41-1]: Es kann eine Vorbereitungszeit von 15 Minuten vorgesehen werden.
+[^A41-2]: Kandidatinnen und Kandidaten mit geringen Französischkenntnissen (Unterricht in der Erstsprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie nur in «Texte schreiben» geprüft werden sollen, wobei die Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A41-3]: Kandidatinnen und Kandidaten mit geringen Deutschkenntnissen (Unterricht in der zweiten Landessprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie in Deutsch oder in Englisch geprüft werden sollen.
+
+#### Art. A4-2
+
+**Empfehlung**
+
+<sup>1</sup> Für Schülerinnen und Schüler der «sections préparant aux écoles de maturité (section p)», die nicht prüfungsfrei in das zweite Jahr des gymnasialen Bildungsgangs übertreten können, kann die Schulleitung auf Antrag der Klassenlehrkraft eine Empfehlung für den weiteren Besuch des gymnasialen Bildungsgangs aussprechen, falls abgestützt auf Lernmotivation, Fähigkeiten beim Auffassen und Verstehen sowie Leistungen beim Anwenden und Übertragen angenommen werden kann, dass die Schülerin oder der Schüler die Voraussetzungen für den gymnasialen Bildungsgang mit sich bringt.
+
+#### Art. A4-3
+
+**Aufnahme- bzw. Übertrittsbedingungen**
+
+<sup>1</sup> Wer in den schriftlichen Prüfungen mit den Noten in den drei Prüfungsfächern zuzüglich von zwei Punkten bei gesprochener Empfehlung weniger als elf Punkte erreicht, wird abgewiesen. Alle übrigen Kandidatinnen und Kandidaten werden in allen drei Prüfungsfächern zusätzlich mündlich geprüft. Aus den schriftlichen und mündlichen Prüfungen ergeben sich sechs Noten. Wer mit den sechs Prüfungsnoten zuzüglich von zwei Punkten bei gesprochener Empfehlung mindestens 26 Punkte erreicht, wird aufgenommen.
+
+#### Art. A4-4
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen richten sich nach dem «plan d'études pour les écoles secondaires de langue française» und entsprechen den Anforderungen von Niveau A. Sie werden jährlich publiziert.
+
+<sup>2</sup> Die Prüfungspensen berücksichtigen, dass die Ziele und Inhalte des Lehrplans für das letzte Schuljahr der Sekundarstufe I zum Zeitpunkt der Aufnahmeprüfung erst zur Hälfte bearbeitet wurden.
+
+## A5 Anhang 5: Prüfungsverfahren für die Aufnahme in das dritte Jahr des gymnasialen Bildungsgangs (Artikel 42)
+
+#### Art. A5-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung[^A51-1]</th></tr>
+<tr><td>1</td><td>Erstsprache (Deutsch oder Französisch)[^A51-2]</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Französisch oder Deutsch)[^A51-3]</td><td>-</td><td>20 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>4</td><td>Schwerpunktfach</td><td>-</td><td>20 Min.</td></tr>
+</table>
+
+[^A51-1]: Es kann eine Vorbereitungszeit von 15 Minuten vorgesehen werden.
+[^A51-2]: Kandidatinnen und Kandidaten mit geringen Kenntnissen in der Erstsprache (Unterricht seit Beginn der Sekundarstufe I oder später) können wählen, ob sie nur in «Texte schreiben» geprüft werden sollen, wobei die Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A51-3]: Kandidatinnen und Kandidaten mit geringen Kenntnissen in der zweiten Landessprache (Unterricht seit Beginn der Sekundarstufe I oder später) können wählen, ob sie in der zweiten Landessprache oder in Englisch geprüft werden sollen.
+
+#### Art. A5-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Wer in den Aufnahmeprüfungen mit den Noten in den vier Prüfungsfächern mindestens 16 Punkte erreicht, wird aufgenommen.
+
+#### Art. A5-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen richten sich im deutschsprachigen und im französischsprachigen Kantonsteil nach dem je gültigen kantonalen Lehrplan für den gymnasialen Bildungsgang.
+
+<sup>2</sup> Sie umfassen den Stoff bis und mit des zweiten Jahrs des gymnasialen Bildungsgangs.
+
+## A6a Anhang 6a: Prüfungsverfahren für Aufnahme und Promotionen im gymnasialen Bildungsgang, der spezifisch auf die Bedürfnisse Erwachsener ausgerichtet ist (Artikel 49): Zweites Semester
+
+#### Art. A6a-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Französisch</td><td>60 Min.</td><td>-</td></tr>
+<tr><td>2</td><td>Mathematik</td><td>90 Min.</td><td>-</td></tr>
+<tr><td>3</td><td>Biologie</td><td>60 Min.</td><td>-</td></tr>
+<tr><td>4</td><td>Geschichte</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+#### Art. A6a-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Wer in den Aufnahmeprüfungen mit den vier Prüfungsnoten mindestens 16 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird aufgenommen.
+
+#### Art. A6a-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen werden von der Schule auf Anfrage hin bekannt gegeben. Sie entsprechen dem im ersten Semester erarbeiteten Stoff.
+
+## A6b Anhang 6b: Prüfungsverfahren für Aufnahme und Promotionen im gymnasialen Bildungsgang, der spezifisch auf die Bedürfnisse Erwachsener ausgerichtet ist (Artikel 49): Drittes Semester
+
+#### Art. A6b-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Deutsch</td><td>60 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td>Französisch</td><td>60 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td>Englisch</td><td>60 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Mathematik</td><td>90 Min.</td><td>15 Min.</td></tr>
+<tr><td>5</td><td>Chemie</td><td>60 Min.</td><td>15 Min.</td></tr>
+<tr><td>6</td><td>Geographie</td><td>60 Min.</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Alle Kandidatinnen und Kandidaten werden in den sechs Prüfungsfächern schriftlich und je nach Ergebnis der schriftlichen Prüfung zusätzlich mündlich geprüft.
+
+#### Art. A6b-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Wer in der schriftlichen Prüfung mit den sechs Prüfungsnoten mindestens 24 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird aufgenommen.
+
+<sup>2</sup> Wer in der schriftlichen Prüfung mit den sechs Prüfungsnoten weniger als 22,5 Punkte erreicht, wird abgewiesen.
+
+<sup>3</sup> Alle übrigen Kandidatinnen und Kandidaten werden in allen sechs Prüfungsfächern zusätzlich mündlich geprüft. Danach ergeben die ungerundeten Durchschnitte aus schriftlicher und mündlicher Prüfung die Fachnote. Wer mit den sechs Fachnoten mindestens 24 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird aufgenommen.
+
+#### Art. A6b-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen werden von der Schule auf Anfrage hin bekannt gegeben. Sie entsprechen dem in den ersten beiden Semestern erarbeiteten Stoff.
+
+## A7a Anhang 7a: Prüfungsverfahren für die Aufnahme in den Fachmittelschulbildungsgang auf den Beginn des ersten Jahrs des FMS-Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 78)
+
+#### Art. A7a-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Erstsprache (Deutsch)[^A7a1-1]</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Französisch)[^A7a1-2]</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>4</td><td>Berufsfeldeignung</td><td>-</td><td>15 min.</td></tr>
+</table>
+
+[^A7a1-1]: Bei Kandidatinnen und Kandidaten mit geringen Deutschkenntnissen (Unterricht in der Erstsprache seit dem letzten Schuljahr der Primarstufe oder später) wird bei der Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A7a1-2]: Kandidatinnen und Kandidaten mit geringen Französischkenntnissen (Unterricht in der zweiten Landessprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie in Französisch oder in Englisch geprüft werden sollen.
+
+#### Art. A7a-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Aus der Aufnahmeprüfung ergeben sich vier Noten. Wer mindestens 16 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird aufgenommen.
+
+#### Art. A7a-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen richten sich nach dem Lehrplan Volksschule bis und mit dem ersten Semester des dritten Schuljahrs der Sekundarstufe I und orientieren sich an den Anforderungen des Sekundarschulniveaus. Für Kandidatinnen und Kandidaten, welche die Sekundarstufe I abgeschlossen haben, ist der gesamte Stoff des dritten Schuljahrs der Sekundarstufe I Prüfungspensum.
+
+## A7b Anhang 7b: Prüfungsverfahren für die Aufnahme in den Fachmittelschulbildungsgang auf den Beginn des zweiten Jahrs des FMS-Bildungsgangs im deutschsprachigen Kantonsteil (Artikel 82)
+
+#### Art. A7b-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Erstsprache (Deutsch)[^A7b1-1]</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Französisch)[^A7b1-2]</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>4</td><td>Biologie</td><td>60 Min.</td><td>-</td></tr>
+<tr><td>5</td><td>Berufsfeldeignung</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+[^A7b1-1]: Bei Kandidatinnen und Kandidaten mit geringen Deutschkenntnissen (Unterricht in der Erstsprache seit dem letzten Schuljahr der Primarstufe oder später) wird bei der Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A7b1-2]: Kandidatinnen und Kandidaten mit geringen Französischkenntnissen (Unterricht in der zweiten Landessprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie in Französisch oder in Englisch geprüft werden sollen.
+
+#### Art. A7b-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Aus der Aufnahmeprüfung ergeben sich fünf Noten. Wer mindestens 20 Punkte erreicht und nicht mehr als zwei Noten unter 4 aufweist, wird aufgenommen.
+
+#### Art. A7b-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen entsprechen dem kantonalen Lehrplan für die Fachmittelschulen für das erste Jahr des FMS-Bildungsgangs.
+
+## A7c Anhang 7c: Prüfungsverfahren für die Aufnahme in den FMS-Bildungsgang auf den Beginn des ersten bzw. zweiten Schuljahrs im französischsprachigen Kantonsteil (Artikel 78 und 82)
+
+#### Art. A7c-1
+
+**Prüfungsart, Prüfungsdauer**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th></tr>
+<tr><td>1</td><td>Erstsprache (Französisch)[^A7c1-1]</td><td>90 Min.</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Deutsch)[^A7c1-2]</td><td>60 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>90 Min.</td></tr>
+</table>
+
+[^A7c1-1]: Kandidatinnen und Kandidaten mit geringen Französischkenntnissen (Unterricht in der Erstsprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie nur in «Texte schreiben» geprüft werden sollen, wobei die Beurteilung die Dauer des Unterrichts in der Erstsprache berücksichtigt.
+[^A7c1-2]: Kandidatinnen und Kandidaten mit geringen Deutschkenntnissen (Unterricht in der zweiten Landessprache seit dem letzten Schuljahr der Primarstufe oder später) können wählen, ob sie in Deutsch oder in Englisch geprüft werden sollen.
+
+#### Art. A7c-2
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> Aus der Aufnahmeprüfung ergeben sich drei Noten. Wer mindestens zwölf Punkte erreicht, wird aufgenommen.
+
+#### Art. A7c-3
+
+**Prüfungspensen**
+
+<sup>1</sup> Die Prüfungspensen für Aufnahmeprüfungen in das erste Schuljahr des FMS-Bildungsgangs richten sich nach dem Lehrplan Volksschule bis und mit dem ersten Semester des dritten Schuljahrs der Sekundarstufe I und orientieren sich an den Anforderungen des Niveaus B. Für Kandidatinnen und Kandidaten, welche die Sekundarstufe I abgeschlossen haben, ist der gesamte Stoff des dritten Schuljahrs der Sekundarstufe I Prüfungspensum.
+
+<sup>2</sup> Die Prüfungspensen für Aufnahmeprüfungen in das zweite Schuljahr des FMS-Bildungsgangs entsprechen dem kantonalen Lehrplan für die Fachmittelschulen für das erste Jahr des FMS-Bildungsgangs.
+
+## A8 Anhang 8: Prüfungsfächer, Prüfungsart und Prüfungsdauer der Maturitätsprüfungen (Artikel 67)
+
+#### Art. A8-1
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Erstsprache (Deutsch bzw. Französisch)</td><td>240 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td>Zweite Landessprache (Französisch bzw. Deutsch)</td><td>180 Min.</td><td>15 Min.[^A81-1]</td></tr>
+<tr><td>3</td><td>Mathematik</td><td>240 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Schwerpunktfach</td><td>180 Min.[^A81-2]</td><td>15 Min.[^A81-3]</td></tr>
+<tr><td>5</td><td>Ergänzungsfach oder dritte Sprache (Englisch bzw. Italienisch bzw. Latein)</td><td>120 Min.[^A81-4] oder 180 Min. (dritte Sprache)</td><td>15 Min.[^A81-5]</td></tr>
+</table>
+
+<sup>2</sup> Vorbehalten bleiben Sonderregelungen für die Prüfungen gemäss Artikel 11.
+
+[^A81-1]: Bei Durchführung der mündlichen Prüfung in den modernen Fremdsprachen als Gruppenprüfung wird die Prüfungsdauer für die Gruppe so festgelegt, dass pro Kandidatin oder Kandidat 15 Minuten zur Verfügung stehen.
+[^A81-2]: Die schriftliche Prüfung für Bildnerisches Gestalten als Schwerpunktfach oder als Ergänzungsfach dauert 240 Minuten.
+[^A81-3]: Wird die mündliche Prüfung praktisch durchgeführt, dauert sie 20 Minuten.
+[^A81-4]: Die schriftliche Prüfung für Bildnerisches Gestalten als Schwerpunktfach oder als Ergänzungsfach dauert 240 Minuten.
+[^A81-5]: Wird die mündliche Prüfung praktisch durchgeführt, dauert sie 20 Minuten.
+
+## A9 Anhang 9: Prüfungsfächer, Prüfungsart und Prüfungsdauer der FMS-Ausweisprüfungen (Artikel 93)
+
+### A9.1 Deutschsprachiger Kantonsteil
+
+#### Art. A9-1
+
+**FMS-Ausweisprüfungen mit den beiden Berufsfeldern Gesundheit und Soziale Arbeit**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Lernbereich</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td></td><td>Deutsch</td><td>240 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td></td><td>Französisch oder Englisch</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td></td><td>Mathematik</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Naturwissenschaften</td><td>Biologie</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>5</td><td>Berufsfeld Gesundheit</td><td>Physik oder Humanbiologie</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>6</td><td>Berufsfeld Soziale Arbeit</td><td>Allgemeine Psychologie oder Pädagogik / Entwicklungspsychologie</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Vorbehalten bleiben Sonderregelungen für die Prüfungen gemäss Artikel 11.
+
+### A9.2 Französischsprachiger Kantonsteil
+
+#### Art. A9-2
+
+**FMS-Ausweisprüfungen mit Berufsfeld Gesundheit**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Lernbereich</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td></td><td>Französisch</td><td>240 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td></td><td>Deutsch oder Englisch</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td></td><td>Mathematik</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Naturwissenschaften</td><td>Chemie</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>5</td><td>Sozialwissenschaften</td><td>Psychologie</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>6</td><td>Berufsfeld Gesundheit</td><td>Humanbiologie</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Vorbehalten bleiben Sonderregelungen für die Prüfungen gemäss Artikel 11.
+
+#### Art. A9-3
+
+**FMS-Ausweisprüfungen mit Berufsfeld Pädagogik und Soziale Arbeit**
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Lernbereich</th><th>Prüfungsfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td></td><td>Französisch</td><td>240 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td></td><td>Deutsch oder Englisch</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td></td><td>Mathematik</td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Naturwissenschaften</td><td>Biologie</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>5</td><td>Sozialwissenschaften</td><td>Psychologie</td><td>120 Min.</td><td>-</td></tr>
+<tr><td>6</td><td>Berufsfeld Soziale Arbeit</td><td>Soziologie oder Pädagogik</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Vorbehalten bleiben Sonderregelungen für die Prüfungen gemäss Artikel 11.
+
+## A10 Anhang 10: Prüfungsfächer, Prüfungsart und Prüfungsdauer der Fachmaturitätsprüfungen Pädagogik (Artikel 111)
+
+#### Art. A10-1
+
+<sup>1</sup>
+
+<table>
+<tr><th>Nr.</th><th>Lernbereich/Prüfungsfach</th><th>Teilfach</th><th>Schriftliche Prüfung</th><th>Mündliche Prüfung</th></tr>
+<tr><td>1</td><td>Erstsprache</td><td></td><td>180 Min.</td><td>15 Min.</td></tr>
+<tr><td>2</td><td>Zweite Landessprache</td><td></td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>3</td><td>Mathematik</td><td></td><td>120 Min.</td><td>15 Min.</td></tr>
+<tr><td>4</td><td>Naturwissenschaften</td><td>Biologie</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>5</td><td></td><td>Chemie</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>6</td><td></td><td>Physik</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>7</td><td>Sozialwissenschaften</td><td>Geschichte</td><td>-</td><td>15 Min.</td></tr>
+<tr><td>8</td><td></td><td>Geografie</td><td>-</td><td>15 Min.</td></tr>
+</table>
+
+<sup>2</sup> Vorbehalten bleiben Sonderregelungen für die Prüfungen gemäss Artikel 11.
+
+Bern,
+
+Der Erziehungsdirektor: Pulver
+
+17-033

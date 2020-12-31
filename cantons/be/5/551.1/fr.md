@@ -1,0 +1,2076 @@
+---
+canton: BE
+number: "551.1"
+title: Loi sur la police
+short: LPol
+language: fr
+version: 2020-01-01
+valid_until: 2021-03-31
+version_adopted: 2019-02-10
+adopted: 2019-02-10
+in_force: 2020-01-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.1"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1958/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Loi sur la police
+
+(LPol)
+
+du 10.02.2019 (état au 01.01.2020)
+
+Le Grand Conseil du canton de Berne,
+
+en application de l'article 37 de la Constitution cantonale[^ingress-1],
+
+sur proposition du Conseil-exécutif,
+
+arrête:
+
+[^ingress-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
+
+## 1 Objet et champ d'application
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente loi régit
+
+- a les tâches de la Police cantonale;
+- b les tâches de police dévolues à d'autres autorités cantonales et aux communes, dans la mesure où elles ne découlent pas d'autres lois;
+- c le mode d'exécution des tâches de police.
+
+<sup>2</sup> Elle régit l'organisation et le statut du personnel de la Police cantonale.
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> La présente loi s'applique aux autorités suivantes:
+
+- a à la Police cantonale,
+- b à d'autres autorités cantonales et aux communes, dans le cadre des tâches ou compétences qui leur sont attribuées par la présente loi.
+
+<sup>2</sup> Les poursuites pénales sont régies par les législations spéciales fédérale et cantonale, notamment par le Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure pénale, CPP)[^2-1].
+
+[^2-1]: RS [312.0](https://db.clex.ch/link/Bund/312.0/fr)
+
+## 2 Principes régissant l'accomplissement des tâches de police
+
+#### Art. 3
+
+**Fondements et limites**
+
+<sup>1</sup> Les principes de légalité et de proportionnalité et l'intérêt public constituent le fondement et la limite de l'accomplissement des tâches de police.
+
+<sup>2</sup> Les autorités visées à l'article 2, alinéa 1 respectent les droits constitutionnels et la dignité humaine.
+
+<sup>3</sup> En accomplissant leur devoir de fonction et leur devoir professionnel comme la loi l'ordonne ou l'autorise, les collaborateurs et collaboratrices des autorités visées à l'article 2, alinéa 1 agissent de manière conforme au droit, même si l'acte est punissable en vertu du Code pénal suisse du 21 décembre 1937 (CP)[^3-1] ou d'une autre loi.
+
+[^3-1]: RS [311.0](https://db.clex.ch/link/Bund/311.0/fr)
+
+#### Art. 4
+
+**Clause générale de police**
+
+<sup>1</sup> Les autorités visées à l'article 2, alinéa 1 prennent, même sans base légale particulière, les mesures d'urgence indispensables pour parer à des troubles graves menaçant de manière imminente la sécurité et l'ordre public ou pour rétablir la sécurité et l'ordre en cas de troubles graves.
+
+#### Art. 5
+
+**Proportionnalité**
+
+<sup>1</sup> L'action de la police doit être appropriée, nécessaire et raisonnablement exigible.
+
+<sup>2</sup> Les autorités visées à l'article 2, alinéa 1 sont tenues de choisir, entre plusieurs mesures appropriées, celle qui paraît devoir porter le moins atteinte aux personnes et à la collectivité. Une mesure ne doit pas causer un préjudice visiblement disproportionné par rapport au résultat recherché.
+
+<sup>3</sup> Une mesure doit être levée lorsque son but est atteint ou qu'il se révèle impossible à atteindre.
+
+<sup>4</sup> Les autorités visées à l'article 2, alinéa 1 tiennent compte des besoins particuliers des personnes à protéger, notamment lorsqu'elles font usage de la contrainte.
+
+#### Art. 6
+
+**Destinataires de l'action policière 1. Principe du perturbateur**
+
+<sup>1</sup> L'action de la police est dirigée contre la personne qui menace ou trouble directement la sécurité et l'ordre public ou qui est responsable du comportement d'un tiers causant une menace ou un trouble de cette nature.
+
+<sup>2</sup> Si un trouble ou une menace contre la sécurité et l'ordre public émane d'un animal ou d'une chose, l'action de la police est dirigée contre cet animal ou cette chose ou contre la personne qui en est propriétaire ou qui en a la responsabilité et la maîtrise effective à un autre titre.
+
+<sup>3</sup> L'action de la police peut aussi être dirigée contre la personne qui, par un acte ou une omission, provoque un trouble ou une mise en danger de la sécurité et de l'ordre public par des tiers ou en prend le risque.
+
+#### Art. 7
+
+**2. Mesures à l'égard de tiers (état de nécessité de police)**
+
+<sup>1</sup> L'action de la police peut être dirigée contre d'autres personnes lorsque
+
+- a la loi le prévoit ou qu'il s'agit de réprimer un trouble grave ou d'écarter un danger immédiat et sérieux menaçant la sécurité et l'ordre public et
+- b qu'il est impossible de prendre des mesures contre la personne responsable au sens de l'article 6, que de telles mesures ne peuvent être prises à temps ou n'ont aucune chance de succès.
+
+<sup>2</sup> Les mesures doivent être raisonnablement exigibles et leurs conséquences supportables pour les personnes concernées.
+
+## 3 Tâches et compétences
+
+### 3.1 Police cantonale et communes
+
+#### Art. 8
+
+**Tâches conjointes de la Police cantonale et des communes**
+
+<sup>1</sup> La Police cantonale et les communes veillent au maintien de la sécurité et de l'ordre public par des mesures appropriées, par l'information et par des prestations de conseil.
+
+<sup>2</sup> Elles assument en particulier les tâches suivantes, sous réserve des articles 9 à 12:
+
+- a prendre les mesures propres à identifier et écarter les dangers concrets pour la sécurité et l'ordre public, pour les personnes, les animaux et pour l'environnement, et à réprimer les troubles;
+- b porter secours aux personnes dont la vie ou l'intégrité corporelle est directement menacée;
+- c adopter, lors de catastrophes et d'autres événements extraordinaires, les mesures d'urgence prévues par les législations fédérale et cantonale;
+- d œuvrer à la prévention dans des domaines d'actualité relevant du travail de la police en informant les parties prenantes et en les conseillant;
+- e exécuter d'autres tâches qui leur sont attribuées par la loi.
+
+<sup>3</sup> La protection de droits privés n'incombe à la Police cantonale et aux communes que
+
+- a si l'existence de tels droits est établie de manière plausible;
+- b qu'aucune protection judiciaire ne peut être obtenue à temps et
+- c que sans assistance policière, l'exercice de ces droits pourrait être empêché ou rendu très difficile.
+
+#### Art. 9
+
+**Tâches incombant à la Police cantonale**
+
+<sup>1</sup> La Police cantonale assume en outre en particulier les tâches suivantes:
+
+- a prendre des mesures propres à déceler, prévenir et poursuivre les actes punissables;
+- b prendre des mesures visant à maintenir et à rehausser la sécurité du trafic routier et de la navigation sur les lacs et cours d'eau publics;
+- c accomplir des tâches de police auprès des tribunaux et du Ministère public, si la sécurité l'exige;
+- d exploiter la centrale cantonale d'alarme et d'engagement, un centre cantonal de situation et un réseau sécurisé de radiocommunication unique destiné à toutes les organisations de sécurité et de sauvetage qui opèrent sur le territoire cantonal et assurer l'information à la population ainsi que la réception et la transmission des messages d'alarme et avis de sinistre au sein du réseau suisse;
+- e fournir l'entraide administrative et l'assistance à l'exécution aux autorités judiciaires ou administratives dans la mesure où la loi le prévoit ou si le respect de l'ordre juridique l'exige;
+- f assurer l'éducation routière du jardin d'enfant jusqu'au terme de l'enseignement primaire, y compris l'examen de vélo;
+- g s'acquitter des obligations attribuées au canton par la législation fédérale en matière de sécurité de l'Etat.
+
+<sup>2</sup> Elle accomplit par ailleurs les tâches qui lui incombent en vertu du droit fédéral, du droit intercantonal ou de dispositions cantonales.
+
+<sup>3</sup> L'alinéa 1, lettre d ne s'applique pas aux tâches, compétences et responsabilités découlant de la législation spéciale sur les organisations de sécurité et de sauvetage.
+
+#### Art. 10
+
+**Tâches incombant aux communes**
+
+<sup>1</sup> Les communes sont compétentes pour accomplir les tâches de police de sécurité (art. 8, al. 2, lit. a à d et al. 3).
+
+<sup>2</sup> En outre, elles assument en particulier les tâches suivantes:
+
+- a garantir sur demande l'entraide administrative et l'assistance à l'exécution au profit d'autres communes, des préfectures, des offices des poursuites et des faillites, et des tribunaux régionaux;
+- b assurer, parallèlement à l'exécution des tâches visées à l'article 8, alinéa 2, lettre a, la sécurité du trafic routier, la réglementation temporaire du trafic et la mise en place temporaire de la signalisation sur les routes cantonales, et exercer les compétences que leur confère la législation cantonale sur la circulation routière;
+- c octroyer des autorisations au plan communal, notamment pour des manifestations politiques et d'autre nature sur le domaine public, moyennant la consultation de la Police cantonale avant l'octroi de l'autorisation si le déroulement de ces manifestations exige que des dispositions préventives ou des mesures soient prises;
+- d réglementer les inhumations et les cimetières, sous réserve de la législation cantonale sur la santé.
+
+#### Art. 11
+
+**Principe de subsidiarité**
+
+<sup>1</sup> La Police cantonale et les communes n'agissent que si aucune autre autorité n'est compétente ou que l'autorité compétente ne peut agir à temps.
+
+#### Art. 12
+
+**Monopole de la puissance publique de la Police cantonale**
+
+<sup>1</sup> Si l'exécution des tâches requiert la commination ou l'usage de la contrainte, la Police cantonale est seule compétente.
+
+<sup>2</sup> Seuls les collaborateurs et collaboratrices de la Police cantonale expressément formés à cet effet sont habilités à accomplir des actes de police requérant la commination ou l'usage de la contrainte.
+
+<sup>3</sup> Des exceptions au monopole de la puissance publique conféré à la Police cantonale sont admissibles dans la mesure où l'autorisation d'exécuter des mesures de police est attribuée par la loi à une autre autorité.
+
+### 3.2 Autres autorités cantonales
+
+#### Art. 13
+
+**Principe**
+
+<sup>1</sup> D'autres autorités cantonales exécutent les tâches de police qui leur sont attribuées en vertu de la présente loi ou de la législation spéciale.
+
+#### Art. 14
+
+**Préfets et préfètes**
+
+<sup>1</sup> Les préfets et préfètes peuvent requérir l'intervention de la Police cantonale et des communes et leur confier des missions particulières dans la mesure où cela est nécessaire pour l'accomplissement des tâches leur incombant en matière de police de sécurité conformément à l'article 11 de la loi du 28 mars 2006 sur les préfets et les préfètes (LPr)[^14-1].
+
+<sup>2</sup> La Police cantonale et les communes sont tenues d'agir dans le cadre des missions confiées et de leurs possibilités.
+
+[^14-1]: RSB [152.321](https://www.belex.sites.be.ch/data/152.321/fr)
+
+#### Art. 15
+
+**Service cantonal de lutte contre la violence domestique**
+
+<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires prend des mesures contre la violence domestique par
+
+- a la coordination et la promotion de la collaboration entre autorités et spécialistes chargés de ces questions,
+- b un travail d'information et de prévention,
+- c l'organisation de programmes destinés aux personnes exerçant cette violence, aux fins de la prévenir.
+
+<sup>2</sup> Les collaborateurs et collaboratrices du service visé à l'alinéa 1 et les spécialistes mandatés par ses soins sont libérés des obligations de dénoncer prévues à l'article 48 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^15-1], dans la mesure où il est question d'un acte punissable commis au préjudice d'une personne dont émane un danger et qui recourt à une offre de prévention de la violence domestique, et que l'accomplissement des tâches dudit service l'exige.
+
+[^15-1]: RSB [271.1](https://www.belex.sites.be.ch/data/271.1/fr)
+
+#### Art. 16
+
+**Autorité cantonale de surveillance en matière de protection de l'Etat**
+
+<sup>1</sup> Le directeur ou la directrice de la police et des affaires militaires exerce, dans le cadre du droit fédéral, la surveillance visée à l'article 9, alinéa 1, lettre g sur les activités de la Police cantonale.
+
+<sup>2</sup> La Direction de la police et des affaires militaires est dotée d'un état-major interne qui soutient le directeur ou la directrice dans l'exercice de sa surveillance hiérarchique sur l'organe d'exécution cantonal de la protection de l'Etat, notamment pour contrôler les activités de cet organe sous l’angle de leur légalité, de leur adéquation, de leur opportunité et de leur efficacité.
+
+<sup>3</sup> Le directeur ou la directrice de la police et des affaires militaires informe le Conseil-exécutif au moins une fois par an des activités de l'organe d'exécution cantonal de la protection de l'Etat.
+
+<sup>4</sup> Il ou elle rend compte par écrit à l'autorité de haute surveillance parlementaire une fois par an des activités de l'organe d'exécution cantonal de la protection de l'Etat et de l'exercice de sa surveillance hiérarchique.
+
+<sup>5</sup> Le Conseil-exécutif précise, par voie d'ordonnance,
+
+- a les tâches incombant à l'organe cantonal d'exécution de la protection de l'Etat,
+- b les tâches et les priorités de l'état-major interne,
+- c les exigences en matière de compte rendu à l'intention de la surveillance parlementaire.
+
+### 3.3 Tâches déléguées à des personnes privées et à des organisations externes à l'administration
+
+#### Art. 17
+
+<sup>1</sup> La Police cantonale peut déléguer à des personnes privées ou à des organisations externes à l'administration des tâches qui lui sont attribuées par la présente loi, pour autant que l'exécution correcte de ces dernières soit assurée, notamment dans les domaines suivants:
+
+- a les services de circulation et le contrôle des véhicules en stationnement, y compris la perception d'amendes et l'établissement de dénonciations,
+- b l'exploitation et la maintenance d'installations techniques et de systèmes de traitement de données,
+- c les activités et services manuels et techniques tels que services de remorquage, de serrurerie et prestations analogues,
+- d les interventions de sauvetage dans des zones impliquant des difficultés particulières,
+- e la prévention.
+
+<sup>2</sup> Les communes peuvent déléguer les tâches visées à l'alinéa 1, lettres a, b et e aux mêmes conditions.
+
+<sup>3</sup> La mise en œuvre de mesures de police et l'usage de la contrainte sont réservés dans tous les cas à la Police cantonale.
+
+<sup>4</sup> La Police cantonale peut soumettre des personnes privées et organisations extérieures à l'administration à un contrôle de sécurité relatif aux personnes si, dans le cadre des tâches qui leur sont confiées et des prestations à fournir, ces dernières ont accès à des installations et locaux de la police ou acquièrent des connaissances approfondies du travail policier. La procédure prévue par les articles 160 et suivants est applicable par analogie.
+
+### 3.4 Utilisation de signes distinctifs et de dénominations
+
+#### Art. 18
+
+<sup>1</sup> Il est interdit aux membres d'administrations communales et aux tiers
+
+- a d'utiliser des uniformes, des éléments d'uniformes et des insignes qui peuvent être confondus avec ceux de la Police cantonale et
+- b d'utiliser dans l'accomplissement de leurs tâches les dénominations «Police», «Polizei», «Police cantonale» ou d'autres signes distinctifs pouvant amener à les confondre avec les membres de la Police cantonale.
+
+## 4 Collaboration entre la Police cantonale et les communes
+
+### 4.1 Généralités
+
+#### Art. 19
+
+**Objet de la collaboration**
+
+<sup>1</sup> La collaboration entre la Police cantonale et les communes a notamment pour objet
+
+- a les contrats portant sur l'acquisition de prestations au sens de la section 4.2, en particulier de la présence policière à des fins de prévention (présence préventive),
+- b la maîtrise d'événements et de manifestations au sens de la section 4.3,
+- c l'entraide administrative et l'assistance à l'exécution au sens de la section 4.3 et du chapitre 6.
+
+#### Art. 20
+
+**Information et coordination**
+
+<sup>1</sup> La Police cantonale et les communes se tiennent mutuellement informées de tous les faits nécessaires à l'accomplissement de leurs tâches respectives. Si elles communiquent des données personnelles, elles tiennent compte des articles 144 à 146.
+
+<sup>2</sup> Elles coordonnent les mesures à prendre.
+
+#### Art. 21
+
+**Consultation de communes**
+
+<sup>1</sup> La Police cantonale consulte les villes de Berne, Bienne, Thoune, Langenthal et Berthoud avant d'engager une personne de contact pour lesdites communes. Elle s'efforce de trouver une solution consensuelle avec ces dernières.
+
+### 4.2 Collaboration réglée par contrat
+
+### 4.2.1 Objet et conclusion du contrat
+
+#### Art. 22
+
+**Acquisition de prestations auprès de la Police cantonale**
+
+<sup>1</sup> Les communes peuvent acquérir des prestations auprès de la Police cantonale.
+
+<sup>2</sup> Elles passent à cette fin avec le canton, agissant par la Direction de la police et des affaires militaires, un contrat sur les ressources ou un contrat sur des points sensibles.
+
+<sup>3</sup> Elles sont tenues d'indemniser la Police cantonale pour les prestations qu'elles lui ont commandées.
+
+#### Art. 23
+
+**Régionalisation**
+
+<sup>1</sup> Les communes peuvent convenir avec la Direction de la police et des affaires militaires de l'exécution commune de tâches relevant de l'article 22, s'il existe un rapport géographique et matériel et que l'exécution des tâches policières n'en est pas entravée.
+
+<sup>2</sup> Elles désignent l'organe qui assume envers le canton les compétences découlant du contrat.
+
+#### Art. 24
+
+**Conclusion de contrats**
+
+<sup>1</sup> La Direction de la police et des affaires militaires est tenue, dans le cadre des ressources en personnel disponibles, de conclure des contrats dès lors qu'aucun motif objectif ni invoqué à bon droit par la Police cantonale ne s'y oppose.
+
+### 4.2.2 Contrat sur les ressources
+
+#### Art. 25
+
+**Contenu**
+
+<sup>1</sup> Le contrat sur les ressources a pour objet la mise à disposition de ressources par la Police cantonale si les prestations acquises auprès d'elle dépassent un engagement moyen de deux unités de personnel par an.
+
+<sup>2</sup> Il n'est pas possible de définir plus de trois points sensibles par contrat sur les ressources.
+
+<sup>3</sup> Des prestations d'assistance à l'exécution qui ne s'imposent pas d'un point de vue strictement policier et la maîtrise de manifestations prévue aux articles 50 à 53 peuvent faire l'objet d'un contrat sur les ressources.
+
+#### Art. 26
+
+**Durée et adaptation**
+
+<sup>1</sup> Les contrats sur les ressources sont de durée indéterminée.
+
+<sup>2</sup> Leur délai de résiliation est de deux ans, pour le 30 avril ou le 30 septembre.
+
+<sup>3</sup> Un contrat doit être modifié s'il apparaît que le volume des prestations en faisant l'objet diffère durablement de ce qui est prévu.
+
+#### Art. 27
+
+**Planification annuelle et pilotage**
+
+<sup>1</sup> Lors de la planification annuelle, la commune informe la Police cantonale des priorités, des objectifs et des conditions générales.
+
+<sup>2</sup> Elle fixe, d'entente avec la Police cantonale, les modalités d'évaluation et de controlling des prestations.
+
+<sup>3</sup> La Police cantonale fixe le cadre opérationnel et tactique, en particulier l'ampleur de l'intervention et les moyens à engager.
+
+<sup>4</sup> Si les mesures à prendre en fonction des exigences de la commune dépassent le cadre fixé, la Police cantonale l'en informe. Elle arrête d'entente avec la commune un ordre de priorité et prend les mesures possibles à l'aide des moyens à disposition.
+
+<sup>5</sup> La commune peut, en tout temps, déterminer des priorités pour améliorer la situation face à des phénomènes particuliers touchant la sécurité et requérir de la Police cantonale des mesures appropriées.
+
+#### Art. 28
+
+**Indemnisation des prestations**
+
+<sup>1</sup> La rémunération des prestations est calculée en fonction des heures de travail commandées à la Police cantonale et effectivement fournies par cette dernière, selon un tarif horaire couvrant l'intégralité des frais.
+
+<sup>2</sup> Ce tarif horaire s'élève à 105,20 francs par heure et il est adapté annuellement à la progression des traitements du personnel cantonal.
+
+<sup>3</sup> Le montant actualisé est publié par la Direction de la police et des affaires militaires.
+
+#### Art. 29
+
+**Déduction des forfaits**
+
+<sup>1</sup> Les forfaits visés à l'article 48 sont déduits du montant d'acquisition.
+
+### 4.2.3 Contrat sur des points sensibles
+
+#### Art. 30
+
+**Contenu**
+
+<sup>1</sup> Les contrats sur des points sensibles ont pour objet des problèmes déterminés et concrets relatifs à la sécurité ou à l'ordre public au sein d'une commune, que la Police cantonale traite avec des moyens appropriés.
+
+<sup>2</sup> Il n'est pas possible de définir plus de deux points sensibles simultanément.
+
+#### Art. 31
+
+**Durée**
+
+<sup>1</sup> La durée de tels contrats est fixée au cas par cas.
+
+#### Art. 32
+
+**Planification et pilotage**
+
+<sup>1</sup> La Police cantonale et les communes définissent ensemble le point sensible et fixent les objectifs à atteindre.
+
+<sup>2</sup> La Police cantonale définit le cadre opérationnel et tactique, notamment l'ampleur de l'intervention et les moyens à engager.
+
+<sup>3</sup> Les prestations fournies par la Police cantonale pour traiter le point sensible et les rapports y afférents sont axés sur les résultats. La Police cantonale et la commune se consultent régulièrement sur le traitement du point sensible.
+
+#### Art. 33
+
+**Indemnisation des prestations**
+
+<sup>1</sup> L'indemnisation est calculée en fonction des heures de travail effectuées par la Police cantonale.
+
+<sup>2</sup> Le tarif horaire visé à l'article 28, alinéa 2 est déterminant.
+
+### 4.2.4 Délégation de tâches
+
+#### Art. 34
+
+**Véhicules en stationnement**
+
+<sup>1</sup> La Direction de la police et des affaires militaires délègue à la commune la surveillance des véhicules en stationnement, y compris la perception d'amendes et les dénonciations pénales, si la commune en fait la demande et que les conditions visées à l'article 38 sont remplies.
+
+#### Art. 35
+
+**Installations de contrôle de la vitesse et des feux de signalisation**
+
+<sup>1</sup> La commune qui conclut un contrat sur les ressources au sens des articles 25 et suivants peut, en des emplacements déterminants pour la sécurité, exploiter des installations fixes non surveillées de contrôle de la vitesse et des feux de signalisation, percevoir des amendes et effectuer des dénonciations pénales, si elle en fait la demande et que les conditions visées à l'article 38 sont remplies. La Police cantonale doit approuver l'emplacement de ces installations.
+
+<sup>2</sup> Les recettes dégagées par la procédure d'amende d'ordre reviennent à la commune.
+
+<sup>3</sup> Le volume des amendes encaissées par la commune ne doit pas être manifestement disproportionné par rapport aux moyens qu'elle engage pour assurer la sécurité publique.
+
+<sup>4</sup> La commune qui a conclu un contrat sur les ressources lors de l'introduction de la police unique reçoit le rendement moyen des amendes perçues lors des contrôles de vitesse mobiles des cinq dernières années. En contrepartie, elle doit acquérir auprès du canton des prestations d'un montant au moins équivalent à ce qu'elle dépensait auparavant en matière de police judiciaire.
+
+#### Art. 36
+
+**Ordre public**
+
+<sup>1</sup> La commune qui conclut un contrat sur les ressources au sens des articles 25 et suivants peut, selon les dispositions fédérales et cantonales, lors d'atteintes à l'ordre public au sens de l'article 75, alinéa 1, percevoir des amendes et procéder à des dénonciations, si elle en fait la demande et que les conditions visées à l'article 38 sont remplies.
+
+#### Art. 37
+
+**Migration et police industrielle**
+
+<sup>1</sup> La Direction de la police et des affaires militaires peut déléguer à la commune par contrat l'accomplissement de tâches prévues au chapitre 3 de la présente loi dans les domaines de la migration et de la police industrielle.
+
+#### Art. 38
+
+**Conditions**
+
+<sup>1</sup> Le Conseil-exécutif règle par voie d'ordonnance les conditions applicables à la délégation de tâches visée aux articles 34 à 37, notamment les formations et perfectionnements appropriés.
+
+<sup>2</sup> Il peut habiliter la Direction de la police et des affaires militaires à préciser certains détails par voie d'ordonnance de Direction.
+
+#### Art. 39
+
+**Recettes**
+
+<sup>1</sup> Les recettes dégagées par la procédure d'amende d'ordre découlant de l'exécution des tâches prévues aux articles 34, 36 et 37 reviennent à la commune.
+
+#### Art. 40
+
+**Surveillance**
+
+<sup>1</sup> La Direction de la police et des affaires militaires surveille l'accomplissement des tâches déléguées à la commune et peut édicter des instructions techniques.
+
+<sup>2</sup> Elle peut déléguer ces compétences à la Police cantonale.
+
+#### Art. 41
+
+**Révocation**
+
+<sup>1</sup> La Direction de la police et des affaires militaires peut révoquer la délégation si la commune ne remplit plus les conditions prévues aux articles 34 à 38.
+
+### 4.2.5 Élimination des divergences
+
+#### Art. 42
+
+**Réduction des prestations et litiges contractuels**
+
+<sup>1</sup> Si la commune résilie le contrat d'acquisition de prestations, qu'elle diminue le volume de ces dernières ou décide de ne pas les augmenter alors que la situation l'exigerait du point de vue de la sécurité, la Police cantonale est fondée à diminuer les prestations qu'elle fournit dans la commune concernée, notamment en termes de présence préventive.
+
+<sup>2</sup> Si l'acquisition de prestations par une commune ayant une fonction de centre urbain apparaît indûment inférieure aux prestations fournies par la Police cantonale, une séance de conciliation présidée par le préfet ou la préfète a lieu avec le concours du commandant ou de la commandante de cette dernière et d'autres personnes dont la présence est appropriée.
+
+<sup>3</sup> Si la conciliation échoue, la Direction de la police et des affaires militaires rend une décision administrative par laquelle elle fixe l'indemnisation à charge du centre urbain.
+
+<sup>4</sup> S'il subsiste un désaccord entre la Police cantonale et une commune quant à un contrat conclu, une séance de conciliation au sens de l'alinéa 2 a lieu. Si cette tentative échoue, et sur demande des parties, la Direction de la police et des affaires militaires rend une décision administrative.
+
+<sup>5</sup> Les décisions de la Direction de la police et des affaires militaires selon les alinéas 3 et 4 peuvent faire l'objet d'un recours devant le Tribunal administratif. La procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^42-1].
+
+[^42-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+
+#### Art. 43
+
+**Conflits de compétence**
+
+<sup>1</sup> En l'absence de contrat au sens des articles 22 et suivants avec le canton, le préfet ou la préfète connaît des conflits de compétence entre la Police cantonale et la commune en ce qui concerne la sécurité publique, la circulation et l'assistance à l'exécution fournie aux communes.
+
+### 4.3 Événements, assistance à l'exécution et manifestations
+
+### 4.3.1 Événements et assistance à l'exécution
+
+#### Art. 44
+
+<sup>1</sup> Dans le cadre des compétences découlant des articles 8, 9, 11 et 12, la Police cantonale agit pour maîtriser des événements et soutenir les communes dans le cadre de l'assistance à l'exécution.
+
+### 4.3.2 Pilotage d'événements et de manifestations à caractère sensible
+
+#### Art. 45
+
+**Compétence de la commune**
+
+<sup>1</sup> La commune décide, dans le cadre de ses compétences, des conditions générales régissant les interventions lors de situations délicates, telles que des manifestations, des événements d'envergure et des interventions touchant des installations publiques communales ou pouvant entraîner des restrictions pour une large part de la population.
+
+<sup>2</sup> Elle consulte préalablement la Police cantonale.
+
+<sup>3</sup> Elle s'assure qu'une personne ou un service compétent puisse être joint en tout temps par la Police cantonale.
+
+#### Art. 46
+
+**Compétence de la Police cantonale**
+
+<sup>1</sup> La Police cantonale fixe le cadre opérationnel et tactique, en particulier l'ampleur de l'intervention et les moyens à engager.
+
+<sup>2</sup> Elle peut agir de son propre chef en cas de danger immédiat ou d'urgence.
+
+<sup>3</sup> En cas de situation extraordinaire de portée régionale, cantonale ou intercantonale, elle décide des mesures à prendre.
+
+<sup>4</sup> Les compétences de décision communales visées à l'article 45, alinéa 1 doivent être prises en compte dans toute la mesure possible.
+
+#### Art. 47
+
+**Informations**
+
+<sup>1</sup> Si une commune désire examiner le déroulement d'une intervention de police concrète au sens de l'article 45, alinéa 1, les responsables de la Police cantonale lui fournissent les informations requises, oralement et par écrit.
+
+<sup>2</sup> Dans les communes pourvues d'un service de médiation communal, ce dernier dispose du droit à l'information dans la mesure où un règlement communal le prévoit.
+
+### 4.3.3 Prise en charge des frais liés à des événements et à l'assistance à l'exécution
+
+#### Art. 48
+
+**Montants forfaitaires**
+
+<sup>1</sup> Les communes participent aux frais découlant de la maîtrise des événements et de l'assistance à l'exécution par la Police cantonale (frais d'intervention) en versant un montant forfaitaire annuel.
+
+<sup>2</sup> Les montants forfaitaires sont calculés selon une contribution pondérée par habitant.
+
+<sup>3</sup> Le Conseil-exécutif fixe les montants forfaitaires par voie d'ordonnance, en tenant compte de la valeur de départ prévue à l'annexe 1.
+
+#### Art. 49
+
+**Adaptation du montant**
+
+<sup>1</sup> Le Conseil-exécutif peut, si les frais d'intervention ou les effectifs de la police connaissent des évolutions notables, adapter le montant forfaitaire. Une telle adaptation ne peut avoir lieu que tous les quatre ans.
+
+<sup>2</sup> Le Conseil-exécutif consulte préalablement les associations de communes.
+
+<sup>3</sup> La population résidante est déterminée conformément à l'article 7 de la loi du 27 novembre 2000 sur la péréquation financière et la compensation des charges (LPFC)[^49-1].
+
+[^49-1]: RSB [631.1](https://www.belex.sites.be.ch/data/631.1/fr)
+
+### 4.3.4 Prise en charge des frais liés à des manifestations, en général
+
+#### Art. 50
+
+**Principe régissant la prise en charge des frais**
+
+<sup>1</sup> La Police cantonale facture aux communes les prestations commandées ou requises en vue de la maîtrise de manifestations.
+
+#### Art. 51
+
+**Contrats sur les ressources**
+
+<sup>1</sup> Pour les communes ayant conclu un contrat sur les ressources avec la Direction de la police et des affaires militaires, l'indemnisation des prestations policières relatives aux manifestations, en particulier celles qui ont lieu périodiquement, est prévue dans ce contrat.
+
+<sup>2</sup> En sont exclues les manifestations uniques qui n'ont pas été prises en compte dans la planification annuelle et dont le caractère est essentiellement commercial ou qui exigent un engagement policier supérieur à la moyenne sur le terrain.
+
+<sup>3</sup> Les interventions selon l'alinéa 2 sont facturées séparément à la commune concernée, dans la mesure où le travail engendré ne peut être compensé au moyen des ressources acquises par cette commune.
+
+#### Art. 52
+
+**Remise et répercussion des frais**
+
+<sup>1</sup> Lors de manifestations d'envergure cantonale, nationale ou internationale, l'organe cantonal compétent en matière d'autorisation de dépenses peut remettre tout ou partie de ces frais aux communes.
+
+<sup>2</sup> Le Conseil-exécutif peut prévoir des exceptions par voie d'ordonnance.
+
+<sup>3</sup> Les communes peuvent répercuter les frais découlant de l'intervention policière sur la personne organisant la manifestation ou les lui remettre en tout ou partie.
+
+### 4.3.5 Prise en charge des frais lors de manifestations concernant plusieurs communes
+
+#### Art. 53
+
+<sup>1</sup> Si une manifestation a lieu dans plusieurs communes, la Police cantonale facture à l'organisateur ou l'organisatrice tout ou partie des frais découlant des prestations nécessaires pour en assurer la maîtrise.
+
+<sup>2</sup> Les communes sont généralement tenues de participer aux frais de manière appropriée. Elles se concertent et désignent une personne de contact.
+
+<sup>3</sup> La Direction de la police et des affaires militaires, les communes et l'organisateur ou l'organisatrice conviennent préalablement de la répartition des frais de police.
+
+<sup>4</sup> Les dispositions prévues aux articles 51 et 52 sont applicables par analogie.
+
+<sup>5</sup> La procédure prévue par l'article 42 s'applique par analogie aux litiges portant sur la répartition des frais.
+
+### 4.3.6 Prise en charge des frais lors de manifestations émaillées d'actes de violence
+
+#### Art. 54
+
+**Principe**
+
+<sup>1</sup> Lors de manifestations durant lesquelles des actes de violence ont été commis contre des personnes ou des biens, la commune peut facturer à l'organisateur ou l'organisatrice et aux personnes ayant participé aux actes de violence les frais d'intervention de la police dès le début des violences, en sus de l'indemnisation prévue par les articles 51 et 52.
+
+#### Art. 55
+
+**Conditions**
+
+<sup>1</sup> L'organisateur ou l'organisatrice ne peut être appelée à payer des frais que s'il ou elle ne dispose pas de l'autorisation requise ou en a enfreint les charges intentionnellement ou par négligence grave.
+
+<sup>2</sup> La personne participant à la manifestation mais qui se retire sur sommation de l'autorité sans avoir commis de violences ni provoqué à en commettre ne sera pas appelée à payer des frais.
+
+#### Art. 56
+
+**Bases de calcul**
+
+<sup>1</sup> Le montant des frais facturés à l'organisateur ou l'organisatrice dépend de la mesure dans laquelle les charges de son autorisation n'ont pas été respectées.
+
+<sup>2</sup> Le montant des frais facturés à une personne qui a participé aux actes de violence dépend de sa participation personnelle aux actes délictueux et de sa responsabilité individuelle par rapport à l'intervention de police visée à l'article 54.
+
+#### Art. 57
+
+**Limitation de la prise en charge des frais**
+
+<sup>1</sup> Les frais d'intervention de la police visés à l'article 54 sont facturés au maximum à hauteur de 40 pour cent à l'organisateur ou l'organisatrice et de 60 pour cent à la personne ayant participé aux actes de violence.
+
+<sup>2</sup> L'organisateur ou l'organisatrice et la personne qui a participé aux actes de violence se verront facturer un montant maximal de 10'000 francs et, dans des cas particulièrement graves, un montant maximal de 30'000 francs.
+
+### 4.4 Groupe sécurité canton-communes
+
+#### Art. 58
+
+**Fonction**
+
+<sup>1</sup> Un groupe sécurité canton-communes est constitué pour agir en tant qu'organe spécialisé consultatif du canton et des communes.
+
+<sup>2</sup> Il traite des questions essentielles de collaboration entre canton et communes en vue de la mise en œuvre de la présente loi.
+
+#### Art. 59
+
+**Activité**
+
+<sup>1</sup> Le groupe sécurité canton-communes peut procéder à des évaluations, à des audits ou au controlling des prestations.
+
+<sup>2</sup> Il émet des recommandations à l'intention de la Direction de la police et des affaires militaires.
+
+#### Art. 60
+
+**Composition**
+
+<sup>1</sup> Le groupe sécurité canton-communes se compose paritairement d'au plus dix représentants ou représentantes du canton et des communes nommés par le Conseil-exécutif.
+
+<sup>2</sup> Il est dirigé par le directeur ou la directrice de la police et des affaires militaires.
+
+<sup>3</sup> Son secrétariat est rattaché administrativement à la Direction de la police et des affaires militaires.
+
+## 5 Collaboration entre la Police cantonale et d'autres autorités, et avec des personnes privées
+
+### 5.1 Principe
+
+#### Art. 61
+
+<sup>1</sup> La Police cantonale coopère avec des autorités de l'étranger, de la Confédération et d'autres cantons, et avec d'autres autorités cantonales et communales.
+
+### 5.2 Conventions
+
+#### Art. 62
+
+<sup>1</sup> Le Conseil-exécutif peut conclure avec la Confédération et avec d'autres cantons des conventions sur la coopération en matière de police et sur les interventions policières extracantonales.
+
+### 5.3 Interventions policières extracantonales
+
+#### Art. 63
+
+**Compétence**
+
+<sup>1</sup> Le Conseil-exécutif peut requérir auprès d'autres cantons l'intervention de forces de police dans le canton de Berne ou ordonner sur requête l'intervention de la Police cantonale hors du canton.
+
+<sup>2</sup> En cas d'urgence, la compétence revient au commandant ou à la commandante de la Police cantonale ou à la personne assurant sa suppléance.
+
+#### Art. 64
+
+**Droit applicable**
+
+<sup>1</sup> L'action de la police est régie par le droit du lieu d'intervention, sauf disposition contraire du droit fédéral ou d'une convention intercantonale.
+
+<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale sont en tous les cas soumis aux dispositions de la législation bernoise sur le statut de la fonction publique et sur les assurances sociales.
+
+#### Art. 65
+
+**Prise en charge des frais**
+
+<sup>1</sup> L'intervention extracantonale de forces de police bernoises ne peut en règle générale être ordonnée que si le canton requérant s'est engagé à en supporter les frais, y compris les obligations qui découlent de la réparation de dommages et les prestations en cas de maladie, d'accident, d'invalidité ou de décès des collaborateurs et collaboratrices de la Police cantonale.
+
+<sup>2</sup> Le canton de Berne couvre les frais des cantons qui, à sa requête, mettent à sa disposition leurs forces de police, sauf disposition contraire d'une convention au sens de l'article 62.
+
+### 5.4 Alarme et planification d'intervention
+
+#### Art. 66
+
+<sup>1</sup> Les organisations de sécurité et de sauvetage qui opèrent sur le territoire cantonal peuvent, d'entente avec la Police cantonale, dépêcher à la centrale cantonale d'alarme et d'engagement visée à l'article 9, alinéa 1, lettre d des collaborateurs et collaboratrices disposant des connaissances techniques requises.
+
+<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale et des organisations visées à l'alinéa 1 actifs au sein de la centrale cantonale d'alarme et d'engagement peuvent, au cas par cas, se transmettre des données personnelles, y compris des données particulièrement dignes de protection, ou les communiquer à des tiers, dans la mesure où une telle divulgation est nécessaire à l'accomplissement de leurs tâches ou de celles du ou de la destinataire.
+
+<sup>3</sup> Ils sont soumis au secret de fonction.
+
+### 5.5 Obligations incombant à des personnes privées
+
+#### Art. 67
+
+<sup>1</sup> Les détectives privés et les personnes privées qui, à titre professionnel, assurent la protection de personnes ou la garde de biens-fonds, de bâtiments, de marchandises dangereuses ou de transports de valeurs (entreprises de sécurité privées) ont l'obligation
+
+- a de renseigner la Police cantonale sur les mesures prises ou prévues et de l'informer de tous les faits particuliers;
+- b de garder le secret sur toute observation faite dans le cadre de l'activité de la Police cantonale;
+- c de s'abstenir de tout comportement pouvant gêner l'accomplissement des tâches de police.
+
+<sup>2</sup> Les détectives privés et les entreprises de sécurité privées s'abstiennent de tout comportement qui puisse amener à les confondre avec les organes de la Police cantonale ou avec des organes communaux.
+
+<sup>3</sup> La violation des obligations visées à l'alinéa 1 ou 2 est punie de l'amende.
+
+## 6 Assistance à l'exécution
+
+#### Art. 68
+
+**Compétence de la Police cantonale**
+
+<sup>1</sup> Sur requête, la Police cantonale prête assistance à l'exécution aux autorités administratives et aux autorités judiciaires, si la mise en œuvre de mesures de police ou l'usage de la contrainte directe sont prévus par la loi ou, selon les circonstances du cas d'espèce, paraissent nécessaires à l'accomplissement des tâches incombant à l'autorité requérante et que cette dernière ne peut mettre ces mesures en œuvre autrement.
+
+<sup>2</sup> La licéité de la mesure à mettre en œuvre est déterminée par le droit régissant l'activité de l'autorité requérante, tandis que la mise en œuvre de l'assistance à l'exécution est soumise au droit applicable à la Police cantonale.
+
+<sup>3</sup> La Police cantonale fixe le cadre opérationnel et tactique, en particulier l'ampleur de l'intervention et les moyens à engager.
+
+<sup>4</sup> Les requêtes d'assistance à l'exécution sont formulées par écrit ou, en cas d'urgence, par oral puis confirmées par écrit. Elles doivent mentionner la base légale pertinente et le motif de l'usage de la contrainte.
+
+<sup>5</sup> Lors de requêtes d'assistance à l'exécution ayant pour objet une privation de liberté, la décision de l'autorité compétente doit être transmise à la Police cantonale. Les mesures prises par cette dernière dans des cas d'urgence en vue d'écarter un danger sont réservées.
+
+#### Art. 69
+
+**Prise en charge des frais**
+
+<sup>1</sup> Les frais découlant de l'assistance à l'exécution opérée par la Police cantonale en faveur des communes font partie intégrante des montants forfaitaires que ces dernières doivent acquitter conformément à l'article 48.
+
+<sup>2</sup> La Police cantonale peut facturer ses prestations à des autorités d'autres cantons.
+
+#### Art. 70
+
+**Réserve de la législation spéciale**
+
+<sup>1</sup> Les dispositions spéciales réglant l'assistance judiciaire, l'assistance à l'exécution et l'entraide administrative sont réservées.
+
+## 7 Mesures de police et contrainte
+
+### 7.1 Principes
+
+#### Art. 71
+
+**Droit déterminant**
+
+<sup>1</sup> Les dispositions ci-après sur les mesures de police et la contrainte régissent l'accomplissement des tâches de la police. Les dispositions de la législation spéciale sont réservées.
+
+<sup>2</sup> La poursuite d'infractions ainsi que les mesures provisoires en vue d'une poursuite pénale efficace sont régies par le CPP.
+
+#### Art. 72
+
+**Enquêtes policières préliminaires**
+
+<sup>1</sup> La Police cantonale mène, sur la base d'indices ou de faits qu'elle a constatés, des enquêtes préliminaires afin d'établir s'il y a lieu d'élucider ou de prévenir une infraction.
+
+<sup>2</sup> Les enquêtes policières préliminaires sont soumises à la présente loi.
+
+### 7.2 Mesures de police
+
+### 7.2.1 Contrôles de personnes et contrôles d'identité par la Police cantonale
+
+#### Art. 73
+
+**Principe**
+
+<sup>1</sup> La Police cantonale peut appréhender une personne, en contrôler l'identité et établir si elle, des animaux, son véhicule ou d'autres choses se trouvant en sa possession sont recherchés, pour autant que cela soit nécessaire à l'accomplissement de ses tâches légales.
+
+#### Art. 74
+
+**Déroulement**
+
+<sup>1</sup> La personne appréhendée doit, sur demande, décliner son identité, présenter les papiers d'identité et autorisations qu'elle a sur elle, montrer les choses en sa possession et ouvrir à cet effet véhicules et contenants.
+
+<sup>2</sup> Elle peut être conduite à un poste de police ou dans les locaux d'un autre service approprié
+
+- a si son identité ne peut pas être établie sur place de manière sûre ou que le contrôle serait lié à des difficultés considérables ou
+- b s'il y a lieu de mettre en doute l'exactitude des indications fournies, l'authenticité des papiers d'identité ou la légitimité de la détention d'animaux, d'un véhicule ou d'autres choses.
+
+### 7.2.2 Contrôles de personnes et contrôles d'identité par la commune
+
+#### Art. 75
+
+**Principe**
+
+<sup>1</sup> Les communes peuvent, aux fins de maintenir l'ordre public dans des domaines déterminés par voie d'ordonnance du Conseil-exécutif, demander à des personnes de décliner leur identité lorsqu'elles se trouvent dans des situations visées à l'article 6.
+
+<sup>2</sup> Les communes disposent de la même compétence en vue de l'accomplissement de leurs tâches de police du commerce.
+
+#### Art. 76
+
+**Compétence**
+
+<sup>1</sup> La commune désigne par voie d'acte législatif l'organe communal ou les membres de l'administration communale devant accomplir ces tâches.
+
+<sup>2</sup> Le Conseil-exécutif fixe les exigences de formation et de perfectionnement par voie d'ordonnance.
+
+#### Art. 77
+
+**Interdiction**
+
+<sup>1</sup> La commination et l'usage de la contrainte sont interdits.
+
+<sup>2</sup> La délégation de compétence à des personnes privées en vue de mesures d'identification est exclue.
+
+#### Art. 78
+
+**Déroulement**
+
+<sup>1</sup> Les personnes chargées de la tâche prévue à l'article 75, alinéa 1 sont tenues de se légitimer et d'attester spontanément de leurs attributions en présentant une pièce d'identité émise par la commune.
+
+<sup>2</sup> Les personnes auxquelles il est demandé de décliner leur identité sont tenues de le faire.
+
+<sup>3</sup> Le refus de décliner son identité est punissable en vertu de l'article 15 de la loi du 9 avril 2009 sur le droit pénal cantonal (LDPén)[^78-1].
+
+[^78-1]: RSB [311.1](https://www.belex.sites.be.ch/data/311.1/fr)
+
+### 7.2.3 Mandat de comparution, mandat d'amener, garde
+
+#### Art. 79
+
+**Mandat de comparution et mandat d'amener**
+
+<sup>1</sup> La Police cantonale peut convoquer une personne sans formalités mais en lui signifiant le motif, en particulier dans le but de l'interroger, d'établir son identité ou de prendre des mesures d'identification ou de restituer des animaux ou des choses.
+
+<sup>2</sup> Elle peut décerner un mandat d'amener à l'encontre d'une personne qui, sans motifs suffisants, n'a pas donné suite à une convocation et a été avisée par écrit qu'elle pourrait faire l'objet d'un tel mandat.
+
+<sup>3</sup> Une personne peut faire l'objet d'un mandat d'amener sans convocation préalable s'il y a péril en la demeure et qu'il faut craindre qu'elle ne donne pas suite à la convocation.
+
+#### Art. 80
+
+**Garde de personnes mineures**
+
+<sup>1</sup> La Police cantonale et les organes communaux compétents peuvent prendre sous leur garde des personnes mineures pour les remettre aux personnes en ayant la garde ou à l'autorité compétente de protection de l'enfant et de l'adulte.
+
+### 7.2.4 Mesures d'identification
+
+#### Art. 81
+
+<sup>1</sup> La Police cantonale peut procéder à des mesures d'identification au sens du CPP à l'encontre
+
+- a de personnes dont l'identité ne peut être contrôlée autrement ou qu'au prix de difficultés considérables;
+- b de personnes condamnées à une peine privative de liberté ou faisant l'objet d'une mesure entraînant une privation de liberté au sens du CP;
+- c de personnes faisant l'objet d'une mesure privative de liberté ne relevant pas du droit pénal;
+- d de personnes faisant l'objet d'une décision d'expulsion ou d'une interdiction d'entrée;
+- e de personnes faisant l'objet d'une décision de renvoi ou placées en détention administrative en vertu du droit des étrangers.
+
+<sup>2</sup> Sous réserve de dispositions légales particulières, les données recueillies à des fins d'identification sont détruites dès que l'identité de la personne a été établie ou que le motif des mesures d'identification a disparu.
+
+### 7.2.5 Interrogatoire
+
+#### Art. 82
+
+<sup>1</sup> La Police cantonale est habilitée à interroger une personne sur des faits sans formalités, si cela est nécessaire à l'accomplissement de ses tâches légales.
+
+<sup>2</sup> En cas de soupçon d'une infraction, l'interrogatoire est soumis aux dispositions du CPP.
+
+### 7.2.6 Renvoi et interdiction d'accès
+
+#### Art. 83
+
+**En général 1. Conditions et contenu**
+
+<sup>1</sup> La Police cantonale peut renvoyer temporairement une ou plusieurs personnes d'un lieu ou leur en interdire l'accès si
+
+- a la sécurité et l'ordre public sont troublés ou menacés, en particulier en raison d'un attroupement;
+- b des tiers sont considérablement importunés ou mis en danger;
+- c ces personnes entravent, troublent ou menacent des interventions visant au rétablissement de la sécurité et de l'ordre public ou des actions de sauvetage, menées en particulier par les forces de police, les sapeurs-pompiers et les services de sauvetage;
+- d elles empêchent ou gênent la Police cantonale dans l'application d'ordonnances exécutoires ou qu'elles s'ingèrent dans son action;
+- e elles sont menacées d'un danger grave et imminent;
+- f elles portent atteinte à l'intégrité physique, psychique ou sexuelle d'une autre personne, menacent cette dernière ou l'importunent de manière répétée, en particulier en la harcelant, notamment dans des cas de violence domestique;
+- g une telle mesure est propre à préserver les droits des personnes, en particulier à protéger la dignité ou
+- h ces personnes campent sans autorisation sur le terrain d'un particulier ou d'une collectivité publique.[^83-1]
+
+<sup>2</sup> Elle ordonne, conjointement au renvoi ou à l'interdiction d'accès, les mesures nécessaires à son exécution.
+
+<sup>3</sup> Dans les cas visés à l'alinéa 1, lettre f, une interdiction de contact et de périmètre peut en outre être prononcée.
+
+[^83-1]: Abrogée par l'[ATF 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollec-tion_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), cf. [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=fr)
+
+#### Art. 84
+
+**2. Forme**
+
+<sup>1</sup> Les mesures prévues à l'article 83, alinéa 1 sont ordonnées sous commination de la peine prévue à l'article 292 CP en cas de non-respect.[^84-1]
+
+<sup>2</sup> La décision visée à l'article 83, alinéa 1, lettre f est aussi communiquée à la victime.
+
+<sup>3</sup> Les décisions de renvoi ou d'interdiction d'accès dont la durée ne dépasse pas 48 heures peuvent être prononcées oralement. Leurs destinataires peuvent exiger ultérieurement une notification écrite.
+
+<sup>4</sup> Les décisions de renvoi visées à l'article 83, alinéa 1, lettre h sont notifiées sur place par écrit. Si leurs destinataires n'y ont pas donné suite dans les 24 heures, la Police cantonale peut faire évacuer le terrain, pour autant qu'une aire de transit soit disponible.[^84-2]
+
+[^84-1]: Abrogé par l'[ATF 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), cf. [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=fr)
+[^84-2]: Abrogé par l'[ATF 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), cf. [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=fr)
+
+#### Art. 85
+
+**Violence domestique 1. Conditions**
+
+<sup>1</sup> La notion de violence domestique désigne la violence, la menace de violence ou le harcèlement qui porte atteinte à l'intégrité physique, psychique ou sexuelle, exercé par une personne envers une autre avec laquelle elle est ou était liée par une relation de couple ou familiale, ou envers une personne proche de celle-ci.
+
+#### Art. 86
+
+**2. Mesures**
+
+<sup>1</sup> Dans les cas de violence domestique, le renvoi et l'interdiction d'accès peuvent porter sur le domicile commun, le lieu de travail et d'autres lieux où les personnes en danger et leurs proches se tiennent régulièrement, et leurs abords immédiats.
+
+#### Art. 87
+
+**3. Consultation**
+
+<sup>1</sup> La personne dont émane le danger et celle qui y est exposée sont informées des offres de consultation, la seconde l'étant également des voies de droit en matière civile.
+
+<sup>2</sup> La Police cantonale informe les autorités compétentes et transmet la décision et, si nécessaire, d'autres documents à un centre de consultation pour personnes en danger.
+
+#### Art. 88
+
+**4. Durée**
+
+<sup>1</sup> Le renvoi du domicile commun et l'interdiction d'accès à ce dernier sont prononcés pour une durée maximale de 20 jours.
+
+<sup>2</sup> Si, dans les 14 jours suivant la décision de renvoi ou d'interdiction d'accès, la victime a déposé une demande de mesures de protection devant le tribunal civil, le renvoi, l'interdiction d'accès et le cas échéant les autres mesures prononcées dans ce contexte sont prolongés d'office jusqu'à la décision du tribunal, mais pour 14 jours au plus, pour autant que ledit tribunal n'en décide pas autrement.
+
+<sup>3</sup> Le tribunal civil informe la Police cantonale du dépôt d'une demande, et les personnes concernées et la Police cantonale de l'éventuelle prolongation des mesures.
+
+#### Art. 89
+
+**Retrait de l'effet suspensif**
+
+<sup>1</sup> Le recours contre une décision de renvoi ou d'interdiction d'accès n'a pas d'effet suspensif à moins que l'autorité chargée de l'instruction ne l'accorde sur requête.
+
+### 7.2.7 Éloignement et enlèvement d'animaux, de véhicules et d'autres choses
+
+#### Art. 90
+
+<sup>1</sup> La Police cantonale et les communes peuvent éloigner, enlever ou faire enlever des animaux, des véhicules et d'autres choses si ces derniers
+
+- a ont été laissés sur le domaine public en violation des prescriptions applicables;
+- b entravent ou compromettent des travaux publics ou l'utilisation de lieux publics conforme à leur affectation ou
+- c représentent un grave danger pour des personnes, des animaux ou des choses de grande valeur.
+
+<sup>2</sup> La mesure est précédée d'une commination à la personne responsable. Lorsqu'il y a urgence ou qu'il n'est pas possible de joindre ladite personne en temps utile, l'autorité peut renoncer à la commination.
+
+<sup>3</sup> La restitution peut être subordonnée au règlement des frais.
+
+### 7.2.8 Garde
+
+#### Art. 91
+
+**Garde 1. Conditions**
+
+<sup>1</sup> La Police cantonale peut placer une personne sous sa garde
+
+- a lorsqu'elle se met en danger ou met en danger des tiers, des animaux ou des choses;
+- b lorsque cette mesure sert à prévenir la commission imminente d'un crime ou d'un délit ou à l'interrompre;
+- c lorsque la personne s'est soustraite par la fuite à l'exécution d'une peine ou d'une mesure privative de liberté ou
+- d lorsque cette mesure sert à garantir l'exécution d'un renvoi, d'une comparution, d'une garde, d'une expulsion, d'une extradition ou d'une expulsion pénale ordonnée par l'autorité compétente.
+
+#### Art. 92
+
+**2. Voies de droit et procédure**
+
+<sup>1</sup> Le tribunal régional des mesures de contrainte examine sur requête la légalité de la mesure de garde prononcée.
+
+<sup>2</sup> L'examen est en règle générale soumis à la procédure écrite.
+
+#### Art. 93
+
+**3. Libération**
+
+<sup>1</sup> La personne placée sous la garde de la police est relâchée
+
+- a dès que le motif de cette mesure a disparu;
+- b si l'autorité judiciaire décide que le maintien de la mesure est injustifié;
+- c dans tous les cas après 24 heures, si aucune prolongation de la privation de liberté n'a été requise préalablement auprès du tribunal régional des mesures de contrainte.
+
+#### Art. 94
+
+**Garde prolongée 1. Conditions**
+
+<sup>1</sup> La garde peut être prolongée pendant 14 jours au plus à compter de l'appréhension lorsqu'une personne représente un danger sérieux pour l'intégrité physique, psychique ou sexuelle d'une ou de plusieurs autres personnes.
+
+#### Art. 95
+
+**2. Procédure**
+
+<sup>1</sup> La Police cantonale requiert du tribunal régional des mesures de contrainte d'ordonner la garde prolongée dans les 24 heures à compter de l'appréhension.
+
+<sup>2</sup> Le tribunal des mesures de contrainte statue dans les 48 heures suivant le dépôt de la requête par la Police cantonale, en procédure orale.
+
+<sup>3</sup> Il peut ordonner des mesures de substitution.
+
+<sup>4</sup> Si la garde prolongée est demandée, la garde policière se poursuit jusqu'à la décision du tribunal régional des mesures de contrainte.
+
+#### Art. 96
+
+**Traitement des personnes placées sous la garde policière**
+
+<sup>1</sup> Si la police place une personne sous sa garde en vertu de la présente loi, elle doit
+
+- a lui communiquer sans délai le motif de la privation de liberté et
+- b lui octroyer au plus vite la possibilité de mandater un avocat ou une avocate et, pour autant que le but de la mesure n'en soit pas compromis, d'aviser ou de faire aviser une personne de confiance.
+
+<sup>2</sup> Si la personne est mineure, elle doit avertir sans délai une personne ou un service détenant l'autorité parentale ou exerçant le droit de garde.
+
+<sup>3</sup> Les autorités compétentes doivent prendre immédiatement toute mesure utile pour réduire la privation de liberté au strict minimum.
+
+<sup>4</sup> La Police cantonale peut reconduire à son domicile une personne qu'elle a placée sous sa garde puis relâchée, ou la faire reconduire chez elle aux frais de celle-ci.
+
+### 7.2.9 Fouille
+
+#### Art. 97
+
+**Fouille de personnes**
+
+<sup>1</sup> La Police cantonale peut fouiller une personne
+
+- a si une telle mesure paraît nécessaire pour assurer la protection de cette dernière, des collaborateurs et collaboratrices de la Police cantonale ou de tiers;
+- b s'il se justifie de la retenir sous la garde de la Police cantonale en vertu de la présente ou d'une autre loi;
+- c s'il y a des raisons sérieuses de soupçonner qu'elle détient des choses devant être mises en sûreté;
+- d si l'identification de cette dernière l'exige.
+
+<sup>2</sup> La fouille est la recherche de choses ou de traces dans ou sur les vêtements de la personne concernée, à la surface ou dans les orifices et cavités du corps qu'il est possible d'examiner sans l'aide d'un instrument.
+
+<sup>3</sup> Le déshabillage de la personne n'est admissible que dans les cas prévus à l'alinéa 1, lettres a et c.
+
+<sup>4</sup> La fouille est effectuée par une personne du même sexe, sauf cas d'urgence.
+
+<sup>5</sup> La Police cantonale charge un médecin ou du personnel médical qualifié des examens corporels plus approfondis.
+
+#### Art. 98
+
+**Fouille de choses mobilières**
+
+<sup>1</sup> La Police cantonale peut fouiller des véhicules ou d'autres choses mobilières
+
+- a s'ils se trouvent en la possession d'une personne susceptible d'être fouillée au sens de l'article 97;
+- b qu'il y ait des raisons de soupçonner qu'une personne est retenue illicitement à l'intérieur de la chose ou qu'elle doit être placée sous la garde de la Police cantonale ou
+- c qu'il y ait des raisons de soupçonner que ces choses contiennent elles-mêmes des objets qui doivent être mis en sûreté.
+
+<sup>2</sup> Les dispositions du CPP sont applicables par analogie à l'analyse d'enregistrements.
+
+<sup>3</sup> La fouille est, dans la mesure du possible, effectuée en présence de la personne qui a la maîtrise de la chose. En son absence, un procès-verbal de la fouille est établi et remis à cette personne.
+
+### 7.2.10 Accès aux immeubles et aux locaux privés
+
+#### Art. 99
+
+**Accès aux immeubles**
+
+<sup>1</sup> La Police cantonale et les communes sont habilitées à pénétrer dans un immeuble privé si l'accomplissement de leurs tâches de police l'exige.
+
+#### Art. 100
+
+**Perquisition**
+
+<sup>1</sup> La Police cantonale ne peut pénétrer dans une maison, un appartement ou un local sans l'accord de l'ayant droit et perquisitionner, hormis dans les cas prévus à l'article 107, alinéa 1, lettre d, que
+
+- a pour écarter un danger immédiat menaçant gravement la sécurité et l'ordre public;
+- b s'il y a des raisons de soupçonner qu'une personne y est retenue illicitement;
+- c s'il y a des raisons de soupçonner qu'une personne devant être arrêtée ou placée sous la garde de la Police cantonale s'y trouve ou
+- d s'il y a des raisons de penser qu'une personne a besoin d'aide pour la protection de sa vie ou de son intégrité corporelle.
+
+<sup>2</sup> La perquisition a lieu en présence de la personne qui a la maîtrise de l'objet. En son absence, il convient de s'assurer la présence d'une autre personne, si la situation le permet. Un procès-verbal de la fouille est établi et remis à qui de droit.
+
+<sup>3</sup> La Police cantonale est tenue d'obtenir un mandat écrit du préfet ou de la préfète qui a compétence à raison du lieu lorsque, dans les cas prévus à l'alinéa 1, lettres a à d, l'accord de l'ayant droit n'a pu être obtenu, sauf s'il y a péril en la demeure. Si elle agit sans mandat écrit, elle doit consigner les démarches effectuées et leur motivation dans un procès-verbal distinct.
+
+### 7.2.11 Mise en sûreté
+
+#### Art. 101
+
+**Conditions et procédure**
+
+<sup>1</sup> La Police cantonale peut mettre un animal ou une chose en sûreté
+
+- a pour écarter un danger menaçant la sécurité et l'ordre public;
+- b pour protéger contre la détérioration ou la perte de l'animal ou de la chose la personne qui a qualité de propriétaire ou de possesseur légitime;
+- c s'il y a lieu de croire que l'animal ou la chose pourrait servir à la commission d'une infraction ou
+- d pour protéger des animaux dont les conditions de détention enfreignent notablement les prescriptions applicables, dans la mesure où l'autorité compétente ne peut prendre de mesures à temps.
+
+<sup>2</sup> La personne dont l'animal ou la chose a été mis en sûreté est informée du motif de cette mesure.
+
+<sup>3</sup> Les animaux et les choses mis en sûreté sont consignés dans un inventaire dont les personnes concernées reçoivent copie.
+
+<sup>4</sup> Les animaux et les choses sont pourvus d'une marque distinctive et conservés par l'autorité. Les animaux sont confiés à la garde de personnes compétentes.
+
+<sup>5</sup> Les dispositions de la législation spéciale fédérale, notamment du droit des armes, sont réservées.
+
+#### Art. 102
+
+**Restitution d'animaux et de choses mis en sûreté ou du produit de leur réalisation**
+
+<sup>1</sup> Dès que les conditions préalables à la mise en sûreté ont disparu, les animaux et les choses, pour autant qu'elles ne doivent pas être détruites, sont restitués à la personne à laquelle ils ont été enlevés, sauf s'il subsiste un doute quant au droit que cette personne a sur eux.
+
+<sup>2</sup> Si, dans le cas prévu par l'article 101, alinéa 1, lettre b, plusieurs personnes font valoir un droit sur un animal ou une chose à restituer ou qu'il subsiste un doute quant à leur droit sur ledit objet ou ledit animal, un délai est imparti aux intéressés pour obtenir une décision judiciaire quant à leur droit à la restitution. Sans production d'un tel document à l'échéance de ce délai, l'animal ou la chose est restituée à la personne à laquelle il avait été enlevé.
+
+<sup>3</sup> Si la chose a été réalisée, la restitution porte sur le produit de sa réalisation.
+
+#### Art. 103
+
+**Réalisation**
+
+<sup>1</sup> Une chose mise en sûreté en application de l'article 101 peut être réalisée
+
+- a si l'ayant droit, sommé de la retirer sous commination de réalisation, ne s'est pas exécuté dans un délai approprié;
+- b si personne ne fait valoir de droit sur la chose;
+- c si la chose perd rapidement de sa valeur ou
+- d si sa conservation ou son entretien entraînent des frais ou des difficultés disproportionnés.
+
+<sup>2</sup> La Police cantonale entend préalablement la personne concernée.
+
+<sup>3</sup> Le Conseil-exécutif désigne par voie d'ordonnance l'autorité habilitée à procéder à la réalisation.
+
+#### Art. 104
+
+**Destruction**
+
+<sup>1</sup> Des choses peuvent être détruites sans indemnisation, lorsque
+
+- a les conditions de leur réalisation sont réunies et que les frais de conservation et de réalisation sont manifestement supérieurs au produit attendu;
+- b leur destruction paraît nécessaire afin d'écarter un danger pour la sécurité et l'ordre public;
+- c leur nature est illégale et que cela a été confirmé par écrit par l'Institut de médecine légale ou un autre service spécialisé.
+
+<sup>2</sup> La Police cantonale entend préalablement la personne concernée.
+
+#### Art. 105
+
+**Coûts**
+
+<sup>1</sup> Les dépenses engendrées par la mise en sûreté et la conservation ainsi que les frais de réalisation ou de destruction sont couverts par l'ayant droit.
+
+<sup>2</sup> La restitution de l'animal, de la chose ou du produit de sa réalisation peut être subordonnée au règlement des frais.
+
+<sup>3</sup> Si le paiement n'intervient pas dans un délai raisonnable imparti à cet effet, la chose peut être réalisée ou détruite.
+
+### 7.2.12 Recherches
+
+#### Art. 106
+
+**Avis de recherche**
+
+<sup>1</sup> La Police cantonale lance un avis de recherche au sujet d'une personne dont le lieu de séjour est inconnu, lorsque
+
+- a la législation le prévoit;
+- b le comportement de la personne laisse soupçonner à juste titre qu'elle va commettre un crime ou un délit ou en prépare la commission;
+- c les conditions du placement sous la garde ou la garde prolongée de la Police cantonale sont remplies;
+- d la personne est portée disparue;
+- e la personne s'est évadée ou échappée ou
+- f les conditions d'une convocation sont remplies et qu'à plusieurs reprises, la personne n'y a pas donné suite.
+
+<sup>2</sup> L'avis de recherche est révoqué dès qu'il devient sans objet.
+
+#### Art. 107
+
+**Recherche de personnes portées disparues et évadées**
+
+<sup>1</sup> Si d'autres méthodes d'investigation sont restées sans résultat ou n'ont aucune chance d'aboutir, la Police cantonale peut rechercher une personne portée disparue ou évadée
+
+- a en lançant un avis de recherche conformément à l'article 106, alinéa 1, lettres d et e;
+- b en ordonnant la surveillance de la correspondance par télécommunication en dehors d'une procédure pénale conformément aux dispositions de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT)[^107-1];[^107-2]
+- c en menant une recherche publique avec photographie et indications sur la personne concernée;
+- d en pénétrant dans des immeubles et en les perquisitionnant pour rechercher la personne ou des éléments d'information sur son lieu de résidence, dans le respect de l'article 100, alinéa 2;
+- e en consultant des enregistrements de la personne concernée, s'il y a lieu de supposer qu'elle y trouvera des éléments d'information sur son lieu de résidence;
+- f en exigeant la remise d'enregistrements provenant d'appareils publics ou privés de vidéosurveillance ou
+- g en recueillant des données bancaires.
+
+<sup>2</sup> Les mesures prévues à l'alinéa 1, lettres b, e, f et g doivent être approuvées par le tribunal cantonal des mesures de contrainte.
+
+[^107-1]: RS [780.1](https://db.clex.ch/link/Bund/780.1/fr)
+[^107-2]: Rectifiée par la Commission de rédaction le 17 mai 2019 en application de l'article 25 de la loi sur les publications officielles.
+
+#### Art. 108
+
+**Recherches publiques en cas de danger**
+
+<sup>1</sup> La Police cantonale peut ordonner une recherche publique avec photographie et indications sur la personne concernée
+
+- a s'il y a des raisons sérieuses de soupçonner que la personne recherchée représente un danger considérable pour elle-même ou des tiers et
+- b que d'autres méthodes d'investigation soient restées sans résultat ou n'aient aucune chance d'aboutir.
+
+#### Art. 109
+
+**Recherches automatisées de véhicules**
+
+<sup>1</sup> La Police cantonale peut procéder à la saisie automatisée de plaques de contrôles de véhicules aux fins de comparaisons dans des bases de données.
+
+<sup>2</sup> La comparaison automatisée des données est admissible
+
+- a avec les systèmes policiers de recherches informatisées de personnes et d'objets;
+- b avec les listes établies par la Police cantonale comportant les plaques de contrôle des véhicules dont les détenteurs et détentrices se sont vu retirer ou refuser le permis de conduire et
+- c avec les mandats de recherche concrets de la Police cantonale.
+
+<sup>3</sup> Les données saisies automatiquement sont détruites
+
+- a immédiatement, dans les cas où la comparaison avec les bases de données n'a donné aucun résultat;
+- b dans les délais prévus par les dispositions de la procédure administrative ou pénale concernée, lorsqu'une concordance est établie.
+
+### 7.2.13 Surveillance discrète et contrôle ciblé
+
+#### Art. 110
+
+<sup>1</sup> Des données relatives à des personnes, des véhicules, des embarcations, des aéronefs et des conteneurs peuvent être saisies dans des systèmes de recherche aux fins de surveillance discrète ou de contrôle ciblé.
+
+<sup>2</sup> Un tel avis de recherche est admissible dans le cadre de la procédure pénale et pour prévenir un danger pour la sécurité publique ou maintenir la sûreté intérieure
+
+- a si des éléments concrets indiquent que la personne concernée prépare ou commet une infraction grave;
+- b que l'évaluation générale d'une personne, notamment les infractions qu'elle a déjà commises, laisse supposer qu'elle commettra à l'avenir des infractions graves ou
+- c que des éléments concrets laissent supposer qu'une menace grave pour la sûreté intérieure émane de la personne concernée.
+
+<sup>3</sup> Dans le cadre d'un contrôle ciblé mené aux fins prévues par l'alinéa 2, la personne, le véhicule qu'elle utilise le cas échéant ou les choses qu'elle porte ou a avec soi peuvent être fouillés.
+
+### 7.2.14 Recherches secrètes dans le cadre d'une enquête préliminaire
+
+#### Art. 111
+
+**Conditions**
+
+<sup>1</sup> Afin de déceler et de prévenir des crimes ou des délits, la Police cantonale peut ordonner des recherches secrètes au sens de l'article 298a CPP si
+
+- a elle dispose d'indices sérieux laissant présumer que des crimes ou des délits vont être commis et que
+- b d'autres mesures de recherche d'informations n'aient aucune chance d'aboutir ou revêtent un degré de difficulté disproportionné.
+
+#### Art. 112
+
+**Autorisation**
+
+<sup>1</sup> La poursuite des recherches secrètes au-delà d'un mois est soumise à l'approbation du tribunal cantonal des mesures de contrainte.
+
+#### Art. 113
+
+**Application du CPP par analogie et voies de droit**
+
+<sup>1</sup> Les dispositions des articles 298c et 298d CPP sont applicables par analogie.
+
+<sup>2</sup> Les voies de droit sont régies par l'article 184.
+
+### 7.2.15 Enquête préliminaire secrète et identité d'emprunt
+
+#### Art. 114
+
+**Conditions**
+
+<sup>1</sup> Afin de déceler et de prévenir des infractions, la Police cantonale peut ordonner une enquête préliminaire secrète
+
+- a si l'une des infractions visées par l'article 286, alinéa 2 CPP va être commise;
+- b que la gravité de cette infraction justifie une enquête préliminaire secrète et que
+- c d'autres mesures de recherche d'informations n'aient aucune chance d'aboutir ou revêtent un degré de difficulté disproportionné.
+
+#### Art. 115
+
+**Couverture préparatoire**
+
+<sup>1</sup> Le commandant ou la commandante de la Police cantonale peut, aux fins de préparer une enquête préliminaire secrète au sens de l'article 114 ou une investigation secrète selon les dispositions du CPP, doter des personnes d'une couverture dissimulant leur véritable identité.
+
+<sup>2</sup> Des documents officiels peuvent être établis ou modifiés pour constituer ou assurer une telle couverture.
+
+<sup>3</sup> Il ne pourra être fait usage d'une telle couverture qu'après l'approbation d'une enquête préliminaire secrète conformément à l'article 116, alinéa 1 ou d'une investigation secrète selon le CPP.
+
+#### Art. 116
+
+**Autorisation**
+
+<sup>1</sup> L'intervention d'agents ou d'agentes infiltrés requiert l'approbation du tribunal cantonal des mesures de contrainte.
+
+<sup>2</sup> La Police cantonale lui adresse sa demande au plus tard 24 heures après avoir ordonné l'enquête préliminaire secrète.
+
+#### Art. 117
+
+**Application du CPP par analogie et voies de droit**
+
+<sup>1</sup> Les articles 141, 151 et 285a à 298, alinéas 1 et 2 CPP sont applicables par analogie.
+
+<sup>2</sup> Les voies de droit sont régies par l'article 184.
+
+### 7.2.16 Observation
+
+#### Art. 118
+
+**Conditions et contenu**
+
+<sup>1</sup> Afin de déceler et de prévenir des crimes ou des délits ou d'écarter des dangers, la Police cantonale peut observer secrètement des personnes et des choses dans des lieux librement accessibles et effectuer des enregistrements de son et d'images
+
+- a si elle dispose d'indices sérieux laissant présumer que des crimes ou des délits vont être commis et
+- b si d'autres mesures de recherche d'informations n'ont aucune chance d'aboutir ou revêtent un degré de difficulté disproportionné.
+
+<sup>2</sup> Elle peut utiliser à cette fin des dispositifs techniques de surveillance pour localiser une personne ou une chose.[^118-1]
+
+[^118-1]: Abrogé par l'[ATF 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), cf. [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=fr)
+
+#### Art. 119
+
+**Autorisation**
+
+<sup>1</sup> La poursuite d'une observation au-delà d'un mois est soumise à l'approbation du tribunal cantonal des mesures de contrainte.
+
+#### Art. 120
+
+**Application du CPP par analogie et voies de droit**
+
+<sup>1</sup> Les articles 141 et 283 CPP sont applicables par analogie.
+
+<sup>2</sup> Les voies de droit sont régies par l'article 184.
+
+### 7.2.17 Surveillance vidéo et audio
+
+#### Art. 121
+
+**Surveillance vidéo et audio ne portant sur aucune personne particulière**
+
+<sup>1</sup> La Police cantonale peut, pour accomplir ses tâches, surveiller le domaine librement accessible au public au moyen d'appareils vidéo et audio prévus à cet effet, à condition que les personnes ne puissent pas être identifiées.
+
+#### Art. 122
+
+**Surveillance vidéo et audio lors de manifestations de masse**
+
+<sup>1</sup> Lors de manifestations publiques ou dans le contexte de telles manifestations, la Police cantonale peut filmer ou photographier des personnes ou des groupes de personnes et enregistrer leurs propos au moyen d'appareils vidéo et audio de surveillance si des indices concrets justifient l'hypothèse que des actes punissables pourraient être commis au préjudice de personnes, d'animaux ou de biens.
+
+#### Art. 123
+
+**Vidéosurveillance 1. Lieux publics**
+
+<sup>1</sup> Avec l'approbation de la Police cantonale, les communes peuvent utiliser des appareils de vidéosurveillance dans des lieux publics déterminés librement accessibles pour prévenir ou poursuivre des infractions si de tels actes y ont été commis ou s'il faut s'attendre à ce qu'il en soit commis.
+
+<sup>2</sup> Le conseil communal a la compétence d'ordonner la vidéosurveillance au sens de l'alinéa 1.
+
+#### Art. 124
+
+**2. Protection de bâtiments publics**
+
+<sup>1</sup> Après concertation avec la Police cantonale, les personnes responsables des locaux peuvent procéder à la vidéosurveillance interne et externe de bâtiments cantonaux s'il existe un besoin de protection accru et que cette mesure soit requise pour protéger les bâtiments et les personnes qui les utilisent.
+
+<sup>2</sup> Aux conditions décrites à l'alinéa 1, une commune peut protéger ses bâtiments librement accessibles au public. Elle définit les compétences en la matière.
+
+#### Art. 125
+
+**3. Voies de droit**
+
+<sup>1</sup> L'autorité compétente ordonne la vidéosurveillance par voie de décision.
+
+<sup>2</sup> La décision doit être publiée. Elle peut être contestée par un recours auprès de la Direction de la police et des affaires militaires.
+
+<sup>3</sup> L'autorité de surveillance compétente en matière de protection des données a qualité pour recourir.
+
+#### Art. 126
+
+**4. Signalisation**
+
+<sup>1</sup> La vidéosurveillance prévue aux articles 123 et 124 doit être signalée clairement.
+
+#### Art. 127
+
+**5. Analyse**
+
+<sup>1</sup> Les enregistrements vidéo sont analysés en cas de dénonciation ou de plainte pénale ou d'indices concrets de la commission d'une infraction et s'il faut s'attendre à ce qu'ils puissent servir de preuve. Dans le cas contraire, ils ne sont pas traités et sont détruits après 100 jours.
+
+<sup>2</sup> Les images sont analysées par la Police cantonale.
+
+<sup>3</sup> Si l'analyse fait apparaître des indices concrets de la commission d'autres infractions qui ne sont pas en rapport avec le fait à élucider, les données correspondantes seront également analysées.
+
+<sup>4</sup> Après analyse, les images sont traitées conformément aux dispositions du CPP.
+
+#### Art. 128
+
+**6. Ordonnance**
+
+<sup>1</sup> Le Conseil-exécutif règle les modalités d'application par voie d'ordonnance. Il fixe en particulier
+
+- a la procédure d'approbation selon l'article 123,
+- b l'obligation de signalisation,
+- c l'évaluation de l'efficacité de la vidéosurveillance,
+- d l'obligation d'informer incombant aux communes,
+- e la vérification technique des appareils de vidéosurveillance,
+- f les mesures techniques et organisationnelles requises pour assurer la protection des données et
+- g la gestion d'un cadastre accessible au public des caméras de surveillance installées sur le territoire du canton.
+
+### 7.2.18 Vérification de fiches d'hôtel
+
+#### Art. 129
+
+<sup>1</sup> La Police cantonale peut exiger des établissements d'hôtellerie l'accès aux données de leur clientèle.
+
+<sup>2</sup> Dans la mesure où ces établissements saisissent ces données électroniquement, la Police cantonale peut demander et consulter, par voie électronique, les informations nécessaires à l'identification de personnes, aux fins d'écarter un danger, de mener des poursuites pénales ou d'assurer l'exécution de jugements pénaux, et effectuer des vérifications automatiques dans les systèmes de police.
+
+### 7.2.19 Collaboration avec des personnes privées
+
+#### Art. 130
+
+<sup>1</sup> La Police cantonale peut collaborer avec des personnes privées pour écarter un danger menaçant la sécurité et l'ordre public et pour déceler et prévenir des infractions.
+
+<sup>2</sup> Avant le début de la collaboration, les personnes privées doivent être averties qu'elles ne jouissent d'aucune prérogative de puissance publique et, qu'en aucun cas, elles ne sont en droit de commettre des infractions, ni d'en être les instigatrices ou les complices.
+
+<sup>3</sup> La Police cantonale peut indemniser les personnes privées pour les frais encourus. Le commandant ou la commandante de la Police cantonale peut décider au cas par cas de verser une prime pour des informations particulièrement précieuses.
+
+### 7.2.20 Mesures de protection des personnes hors de la procédure
+
+#### Art. 131
+
+<sup>1</sup> La Police cantonale peut prendre des mesures pour protéger des personnes en dehors de la procédure pénale.
+
+<sup>2</sup> Elle peut en particulier doter des personnes d'une identité d'emprunt en vertu de l'article 288, alinéa 1 CPP et leur fournir les documents officiels nécessaires à cet égard. Cette mesure requiert l'approbation du tribunal cantonal des mesures de contrainte.
+
+<sup>3</sup> Si le besoin de protection n'existe plus ou que la personne menacée ne respecte pas les conditions fixées, la Police cantonale lève la mesure. Elle communique la levée de la mesure visée à l'alinéa 2 au tribunal cantonal des mesures de contrainte.
+
+### 7.3 Contrainte policière
+
+### 7.3.1 Contrainte directe
+
+#### Art. 132
+
+<sup>1</sup> La Police cantonale peut recourir à la contrainte directe contre les personnes, les animaux ou les choses pour accomplir ses tâches légales, en se servant des moyens et instruments appropriés.
+
+<sup>2</sup> Le recours à la contrainte directe doit être précédé d'une commination, si le but et les circonstances de l'action l'autorisent.
+
+### 7.3.2 Emploi de liens
+
+#### Art. 133
+
+<sup>1</sup> La Police cantonale peut entraver une personne au moyen de liens
+
+- a si cette dernière oppose une résistance;
+- b qu'elle donne lieu à des soupçons fondés selon lesquels elle s'apprête à agresser des personnes ou à causer des dommages à des animaux ou à des choses;
+- c qu'elle adopte un comportement laissant soupçonner à juste titre qu'elle va prendre la fuite ou qu'il y a lieu de craindre qu'elle soit libérée par des tiers ou qu'elle libère des tiers;
+- d qu'elle profère des menaces à l'égard de personnes présentes et qu'il faut craindre qu'elle les mette à exécution;
+- e qu'elle soit réputée dangereuse ou donne une telle impression;
+- f qu'elle adopte un comportement laissant soupçonner à juste titre qu'elle se blesse ou
+- g qu'elle soit en mesure d'altérer des biens ou des moyens de preuve ou de se soustraire à une mesure de saisie.
+
+<sup>2</sup> L'emploi de liens est admissible pendant les transports pour assurer la sécurité.
+
+### 7.3.3 Recours aux armes à feu
+
+#### Art. 134
+
+**Conditions**
+
+<sup>1</sup> Lorsque les autres moyens de contrainte disponibles ne suffisent pas, la Police cantonale peut recourir aux armes à feu d'une manière proportionnée aux circonstances, en particulier
+
+- a lorsque ses collaborateurs et collaboratrices ou d'autres personnes font l'objet d'une attaque dangereuse ou qu'une telle attaque est imminente;
+- b lorsque des personnes ayant commis ou étant fortement soupçonnées d'avoir commis une infraction grave tentent de se soustraire par la fuite à une appréhension ou à une arrestation;
+- c lorsque des personnes faisant courir à autrui un danger grave et imminent pour la vie et l'intégrité corporelle tentent de se soustraire par la fuite à une appréhension ou à une arrestation;
+- d pour libérer un otage ou
+- e pour empêcher une infraction grave et imminente, en particulier sur des installations servant la collectivité ou constituant un danger particulier pour la collectivité en raison de leur vulnérabilité ou du danger potentiel qu'elles présentent.
+
+<sup>2</sup> Si les circonstances l'exigent, une arme à feu peut également être utilisée contre des animaux et des choses.
+
+#### Art. 135
+
+**Sommation et coup de semonce**
+
+<sup>1</sup> L'usage de l'arme à feu est précédé d'une sommation claire, dans la mesure où la mission et les circonstances le permettent.
+
+<sup>2</sup> Dans les cas où l'usage de l'arme à feu est indiqué, il est possible de tirer un coup de semonce si la sommation est restée sans effet ou que les circonstances en font d'emblée apparaître l'inutilité.
+
+### 7.3.4 Secours aux blessés
+
+#### Art. 136
+
+<sup>1</sup> Il est immédiatement porté assistance aux personnes qui ont été blessées lors du recours à la contrainte directe et un secours médical leur est dispensé, pour autant que cela soit nécessaire et que les circonstances le permettent.
+
+## 8 Facturation des prestations policières
+
+#### Art. 137
+
+**A des tiers**
+
+<sup>1</sup> La Police cantonale peut exiger le remboursement de tout ou partie des frais découlant de ses prestations
+
+- a de la part du perturbateur ou de la perturbatrice agissant intentionnellement ou par négligence;
+- b de la part de la personne responsable si elle a causé, intentionnellement ou par négligence grave, un surcroît de travail nécessitant l'engagement de ressources policières ou d'interventions spéciales;
+- c de la part de la personne requérant la protection d'intérêts privés prépondérants;
+- d de la part de la personne exploitant un système d'alarme pour une intervention en cas de fausse alarme ou
+- e dans les cas prévus par la présente ou une autre loi.
+
+<sup>2</sup> Elle peut répercuter les frais découlant de prestations fournies par des tiers mandatés dans l'accomplissement de prestations qui lui incombent.
+
+<sup>3</sup> Lorsque les prestations de la Police cantonale dans le cadre d'interventions sont indemnisées en application du présent article, la participation aux frais de la commune prévue à la sous-section 4.3.3 est réduite.
+
+#### Art. 138
+
+**A des unités administratives du canton**
+
+<sup>1</sup> La Police cantonale peut facturer des prestations conformément à l'article 41 de la loi du 26 mars 2002 sur le pilotage des finances et des prestations (LFP)[^138-1].
+
+<sup>2</sup> Le Conseil-exécutif désigne par voie d'ordonnance les prestations pouvant être facturées et les bases de calcul applicables ou le montant des émoluments.
+
+[^138-1]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
+
+#### Art. 139
+
+**Dans le cadre de l'alarme et de la planification d'intervention**
+
+<sup>1</sup> La Police cantonale prélève, auprès des collectivités et organismes publics dont dépendent les organisations de sécurité et de sauvetage qui opèrent sur le territoire cantonal, un montant approprié pour les prestations visées à l'article 9, alinéa 1, lettre d.
+
+<sup>2</sup> Le montant de la contribution financière est déterminé au pro rata de l'utilisation et peut être fixé de manière forfaitaire par contrat.
+
+#### Art. 140
+
+**Droit complémentaire**
+
+<sup>1</sup> Au surplus, les dispositions de la LFP sont applicables.
+
+## 9 Protection et traitement des données
+
+#### Art. 141
+
+**Traitement des données**
+
+<sup>1</sup> Le traitement des données est régi par les dispositions de la loi du 19 février 1986 sur la protection des données (LCPD)[^141-1], pour autant que la présente loi n'en dispose pas autrement. Le droit fédéral et la législation spéciale sont réservés.
+
+<sup>2</sup> Les autorités visées à l'article 2, alinéa 1 sont autorisées à traiter des données personnelles, y compris des données particulièrement dignes de protection, dans la mesure où cela est nécessaire à l'accomplissement des tâches qui leur sont attribuées par la présente loi.
+
+<sup>3</sup> La Police cantonale peut procéder au profilage, s'il y a lieu de croire qu'une personne a commis, commet ou planifie un crime ou un délit, ou qu'elle expose la sécurité publique à un danger concret ou l'a fait dans le passé.
+
+[^141-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
+
+#### Art. 142
+
+**Destruction des données**
+
+<sup>1</sup> Les données sont détruites dans les cinq ans, pour autant que
+
+- a la législation n'en dispose pas autrement ou que
+- b les intérêts des personnes concernées ou des intérêts prépondérants de police judiciaire ou de sécurité ne s'y opposent pas.
+
+#### Art. 143
+
+**Exploitation de systèmes de traitement de données**
+
+<sup>1</sup> La Police cantonale se sert des systèmes de traitement de données nécessaires à l'accomplissement de ses tâches légales et au contrôle de la gestion de ses affaires.
+
+<sup>2</sup> Elle veille au respect des dispositions cantonales pertinentes sur la sûreté de l'information et la protection des données. Elle peut y déroger si ladite protection s'en trouve accrue.
+
+<sup>3</sup> Si elle traite des données personnelles dans un système de traitement de données de la Confédération, les dispositions du droit fédéral sont applicables.
+
+#### Art. 144
+
+**Transmission de données personnelles 1. Par la Police cantonale**
+
+<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles, y compris des données particulièrement dignes de protection, à des autorités de la Confédération ou d'autres cantons et à d'autres autorités du canton et des communes, dans la mesure où cela est nécessaire à l'accomplissement, par elle-même ou par l'autorité destinataire, de tâches au sens de la présente loi.
+
+<sup>2</sup> En matière internationale, les dispositions spéciales du droit fédéral, notamment celles du CPP relatives à l'entraide judiciaire et celles de la loi fédérale du 20 mars 1981 sur l'entraide internationale en matière pénale (loi sur l'entraide pénale internationale, EIMP)[^144-1], sont réservées.
+
+<sup>3</sup> L'échange direct de données, sur demande ou spontané, avec des autorités étrangères de police ou de poursuite pénale liées à la Suisse par l'un des accords d'association à Schengen (Etats Schengen) est régi par la loi fédérale du 12 juin 2009 sur l'échange d'informations entre les autorités de poursuite pénale de la Confédération et celles des autres Etats Schengen (loi sur l'échange d'informations Schengen, LEIS)[^144-2] et l'article 355c CP.
+
+[^144-1]: RS [351.1](https://db.clex.ch/link/Bund/351.1/fr)
+[^144-2]: RS [362.2](https://db.clex.ch/link/Bund/362.2/fr)
+
+#### Art. 145
+
+**2. Par d'autres autorités cantonales et par des autorités communales**
+
+<sup>1</sup> Les autorités visées à l'article 2, alinéa 1, lettre b peuvent, au cas par cas, communiquer des données personnelles, y compris des données particulièrement dignes de protection, dans la mesure où cela est nécessaire à l'accomplissement, par elles-mêmes ou par l'autorité destinataire, de tâches au sens de la présente loi.
+
+#### Art. 146
+
+**3. Droits et obligations généraux de transmission**
+
+<sup>1</sup> Les autorités cantonales et communales sont habilitées, sous réserve d'obligations particulières de garder le secret, à communiquer des données personnelles, y compris des données particulièrement dignes de protection, à la Police cantonale et aux organes de police des communes en vue de l'accomplissement de tâches au sens de la présente loi.
+
+<sup>2</sup> Lorsque des biens juridiques de première importance tels que la vie ou l'intégrité corporelle sont menacés ou qu'une telle menace est imminente, les autorités cantonales et communales sont tenues de le communiquer immédiatement à la Police cantonale sans égard à l'obligation de garder le secret.
+
+#### Art. 147
+
+**4. Échange de données par voie électronique**
+
+<sup>1</sup> La Police cantonale peut collaborer par voie électronique avec les autorités de police de la Confédération et des cantons pour transmettre des données personnelles au sens de l'article 144, alinéa 1 ainsi que pour déceler et réprimer des crimes ou des délits ou pour rechercher des personnes portées disparues ou évadées.
+
+<sup>2</sup> Elle peut, dans la mesure où cela est nécessaire à l'accomplissement de ses tâches,
+
+- a créer des connexions techniques entre ses propres systèmes de traitement de données et ceux de la Confédération et d'autres cantons, et
+- b exploiter des systèmes de traitement de données partagés avec les autorités de police de la Confédération et d'autres cantons.
+
+<sup>3</sup> Elle peut octroyer l'accès par une procédure d'appel à certains de ses systèmes de traitement de données à d'autres autorités de police, aux autorités de poursuite pénale ou aux autorités judiciaires, aux communes, aux organisations visées à l'article 66, alinéa 1, à l'Office de la circulation routière et de la navigation et à l'Institut de médecine légale de l'Université de Berne pour consulter des données, dans la mesure où cela est nécessaire à l'accomplissement de leurs tâches.
+
+<sup>4</sup> Les droits d'accès, les restrictions et les modalités de détail sont soumis aux dispositions cantonales régissant la sûreté de l'information et la protection des données, pour autant que le droit supérieur n'en dispose pas autrement.
+
+#### Art. 148
+
+**5. Communication à des personnes privées**
+
+<sup>1</sup> La Police cantonale peut, au cas par cas, communiquer des données personnelles à des personnes privées, y compris des données particulièrement dignes de protection, dans la mesure nécessaire et pour autant
+
+- a que la personne concernée ou son représentant légal ou sa représentante légale ait expressément consenti à une telle communication ou qu'elle soit dans son intérêt;
+- b que cela soit nécessaire à la personne destinataire pour écarter un danger menaçant la sécurité et l'ordre public ou
+- c que cela soit nécessaire à l'accomplissement des tâches légales de la Police cantonale.
+
+<sup>2</sup> L'alinéa 1 est applicable par analogie aux autorités visées à l'article 2, alinéa 1, lettre b.
+
+#### Art. 149
+
+**Sécurité des données**
+
+<sup>1</sup> La Police cantonale veille à la protection électronique des données qu'elle traite contre les manipulations, l'utilisation abusive et le vol, par la mise en œuvre de mesures organisationnelles et techniques appropriées et adaptées à l'état actuel de la technique.
+
+<sup>2</sup> Elle garantit la sécurité physique de ses installations techniques et systèmes de traitement des données.
+
+<sup>3</sup> Les autorités visées à l'article 2, alinéa 1, lettre b veillent à la sécurité des données traitées par elles conformément aux alinéas 1 et 2.
+
+<sup>4</sup> La Police cantonale peut soumettre à un contrôle de sécurité relatif aux personnes les personnes privées qui, dans le cadre des tâches ou prestations qui leur sont déléguées, sont autorisées à accéder directement ou à traiter ou consulter de manière autonome les données traitées par la Police cantonale. La procédure prévue aux articles 160 et suivants est applicable par analogie.
+
+#### Art. 150
+
+**Surveillance**
+
+<sup>1</sup> La personne chargée de la protection des données au sein de la Police cantonale surveille l'organisation, la procédure et les installations techniques utilisées en matière de traitement des données et veille au respect des principes de légalité et d'opportunité.
+
+<sup>2</sup> Elle n'est pas liée par des instructions dans l'accomplissement de cette fonction.
+
+#### Art. 151
+
+**Attestation de capacité civile et certificat de bonnes mœurs**
+
+<sup>1</sup> Sur requête, l'autorité de protection de l'enfant et de l'adulte établit une attestation de capacité civile
+
+- a pour la personne concernée elle-même;
+- b pour les autorités, dans la mesure où la loi le prévoit ou que l'autorité prouve qu'une telle attestation est indispensable à l'accomplissement de ses tâches légales.
+
+<sup>2</sup> L'attestation de capacité civile contient les indications suivantes:
+
+- a identité de la personne (nom, prénoms, sexe, date de naissance, état civil, adresse),
+- b durée de résidence dans la commune,
+- c exercice des droits civils.
+
+<sup>3</sup> Dans les cas prévus par la loi, la commune établit un certificat de bonnes mœurs avec les informations complémentaires définies dans la loi.
+
+#### Art. 152
+
+**Rapport d'informations**
+
+<sup>1</sup> La Police cantonale établit des rapports d'information à l'intention des autorités pénales et des services civils et militaires qui les requièrent, si la loi le prévoit ou si l'accomplissement des tâches légales de l'autorité requérante l'exige impérativement.
+
+<sup>2</sup> La requête expose le but du rapport et la nature des informations demandées et fait état des bases légales.
+
+<sup>3</sup> En cas de doute, la Direction de la police et des affaires militaires décide s'il convient d'établir le rapport demandé.
+
+<sup>4</sup> Si le droit d'être entendu n'est pas accordé par l'autorité requérante, la Police cantonale entend la personne concernée.
+
+## 10 Dispositions sur l'organisation et le personnel de la Police cantonale
+
+### 10.1 Dispositions générales
+
+#### Art. 153
+
+**Organisation et moyens**
+
+<sup>1</sup> La Police cantonale est dirigée par le commandant ou la commandante.
+
+<sup>2</sup> Les moyens en personnel et en matériel nécessaires sont mis à la disposition de la Police cantonale pour l'accomplissement de ses tâches.
+
+<sup>3</sup> La Police cantonale dispose de postes de police décentralisés et tient compte, dans leur répartition à l'échelle régionale, des différentes situations en termes de sécurité.
+
+#### Art. 154
+
+**Principes régissant la politique du personnel**
+
+<sup>1</sup> La Police cantonale
+
+- a s'engage à agir sans préjugés;
+- b s'engage activement dans la prévention des discriminations;
+- c encourage l'égalité des chances et la diversité au sein de ses services et
+- d veille à disposer à tout échelon d'un nombre approprié de collaborateurs et collaboratrices de langue française.
+
+#### Art. 155
+
+**Catégories de personnel**
+
+<sup>1</sup> La Police cantonale se compose
+
+- a d'agents et agentes de police,
+- b d'assistants et d'assistantes de sécurité,
+- c d'aspirants et aspirantes et
+- d de collaborateurs et collaboratrices sans formation policière.
+
+<sup>2</sup> Le Conseil-exécutif peut définir d'autres catégories par voie d'ordonnance.
+
+<sup>3</sup> Les agents et agentes de police disposent d'un brevet fédéral de policier ou d'un diplôme au moins équivalent obtenu au terme d'un examen professionnel supérieur. Les assistants et assistantes de sécurité sont titulaires d'un brevet. Le commandant ou la commandante de la Police cantonale peut prévoir des exceptions.
+
+#### Art. 156
+
+**Statut de policier et plan de la police**
+
+<sup>1</sup> Les collaborateurs et collaboratrices mentionnés à l'article 155, alinéa 3 et les aspirants et aspirantes disposent en principe du statut de policier, à l'exception des assistants et assistantes de sécurité engagés dans le service de circulation. Le commandant ou la commandante de la Police cantonale peut conférer ce statut à d'autres personnes, dans la mesure où leur activité est soumise à des exigences comparables. Il ou elle en informe le Conseil-exécutif.
+
+<sup>2</sup> Les collaborateurs et collaboratrices disposant du statut de policier sont intégrés au plan de la police de la Caisse de pension bernoise.
+
+<sup>3</sup> En cas de changement de fonctions au sein de la Police cantonale, le commandant ou la commandante décide, en fonction des circonstances, s'il y a lieu de maintenir le statut de policier.
+
+<sup>4</sup> Toute personne quittant la Police cantonale perd ce statut.
+
+#### Art. 157
+
+**Encouragement d'activités développées dans l'intérêt de la Police cantonale**
+
+<sup>1</sup> Le commandant ou la commandante de la Police cantonale peut accorder des soutiens financiers à des associations réservées aux membres de la police ou à des activités servant les intérêts de la Police cantonale.
+
+### 10.2 Dispositions relatives à l'engagement du personnel
+
+### 10.2.1 Rapport au droit cantonal du personnel
+
+#### Art. 158
+
+<sup>1</sup> La législation cantonale sur le personnel s'applique aux collaborateurs et collaboratrices de la Police cantonale, sauf dispositions contraires de la législation sur la police.
+
+### 10.2.2 Conditions générales d'engagement
+
+#### Art. 159
+
+<sup>1</sup> Une bonne réputation est indispensable à un engagement au sein de la Police cantonale.
+
+<sup>2</sup> Les agents et agentes de police et assistants et assistantes de sécurité doivent, outre satisfaire à la condition visée à l'alinéa 1, avoir accompli avec succès leur formation à l'école de police ou le cursus d'assistant de sécurité (formation de base dans une école de police).
+
+<sup>3</sup> Les candidats et candidates à l'école de police ou au cursus d'assistant de sécurité visés à l'alinéa 2 doivent être de nationalité suisse et disposer des qualités mentales et physiques, de la personnalité et des aptitudes en communication requises.
+
+<sup>4</sup> Les agents et agentes de police et les assistants et assistantes de sécurité sont engagés à l'essai pour toute la durée de l'école de police ou du cursus d'assistant de sécurité et pour les six mois suivant leur intégration à titre de collaborateurs et collaboratrices dans le service de police. Dans des cas exceptionnels, la période d'essai peut être prolongée de six mois.
+
+### 10.2.3 Contrôle de sécurité relatif aux personnes
+
+#### Art. 160
+
+**Conditions**
+
+<sup>1</sup> La Police cantonale peut soumettre en tout temps ses collaborateurs et collaboratrices et les personnes avec lesquelles elle envisage d'instaurer des rapports de travail à un contrôle de sécurité relatif aux personnes pour s'assurer qu'ils ont une bonne réputation et sont dignes de confiance lorsque, dans le cadre de leurs activités,
+
+- a ils ont accès à des données personnelles particulièrement dignes de protection, dont la révélation pourrait porter un grave préjudice aux droits individuels des personnes concernées ou
+- b qu'ils ont une connaissance approfondie d'importants dossiers de la politique de sécurité sur lesquels ils peuvent exercer une influence.
+
+<sup>2</sup> La personne faisant l'objet du contrôle doit donner son consentement et apporter son concours à l'établissement des faits.
+
+#### Art. 161
+
+**Objet**
+
+<sup>1</sup> Le contrôle de sécurité relatif aux personnes consiste à recueillir des données pertinentes pour la sécurité touchant au mode de vie de la personne concernée, notamment à d'éventuelles activités pénalement répréhensibles et à sa situation financière.
+
+<sup>2</sup> Les données peuvent être recueillies
+
+- a dans les systèmes de traitement de données prévus à l'article 143, exploités par la Police cantonale;
+- b dans les systèmes de traitement de données de la Confédération ou des cantons, dans la mesure où la Police cantonale s'est vu conférer un accès direct conformément à l'article 147;
+- c dans les registres des autorités des poursuites et faillites des cantons et des bureaux du contrôle des habitants ou
+- d en interrogeant des tiers et la personne concernée, si cette dernière y consent.
+
+#### Art. 162
+
+**Protection juridique et conséquences**
+
+<sup>1</sup> La Police cantonale communique les résultats du contrôle de sécurité relatif aux personnes à la personne concernée.
+
+<sup>2</sup> La personne qui a fait l'objet du contrôle peut consulter le dossier correspondant dans les dix jours et demander la rectification de données inexactes.
+
+<sup>3</sup> Si des informations s'opposent à l'engagement d'une personne au sein de la Police cantonale, il est possible
+
+- a de renoncer à la conclusion d'un contrat de travail;
+- b de se départir d'une promesse d'engagement orale ou écrite ou
+- c de prendre des mesures relevant du droit du personnel, si les rapports de travail sont déjà établis.
+
+### 10.2.4 Autorité d'engagement et assermentation
+
+#### Art. 163
+
+<sup>1</sup> Le commandant ou la commandante ainsi que la personne assurant sa suppléance sont nommés par le Conseil-exécutif. L'engagement des autres collaborateurs et collaboratrices de la Police cantonale ressortit à la Direction de la police et des affaires militaires.
+
+<sup>2</sup> Les collaborateurs et collaboratrices de la Police cantonale qui ont le statut de policier sont assermentés par le directeur ou la directrice de la police et des affaires militaires. Le commandant ou la commandante peut prévoir l'assermentation d'autres services ou l'assermentation de certains collaborateurs et collaboratrices.
+
+<sup>3</sup> L'assermentation implique un serment ou une promesse solennelle, dont la teneur est la suivante: «Je jure / Je promets de respecter les droits et libertés de chacun, d'observer strictement la Constitution et les lois constitutionnelles, et de remplir fidèlement et consciencieusement les devoirs de ma charge.»
+
+### 10.2.5 Non-entrée en service
+
+#### Art. 164
+
+<sup>1</sup> Avant l'entrée en service, les rapports de travail peuvent être résiliés moyennant un préavis de sept jours après notification de la décision, si les conditions d'admission ou d'engagement ne sont plus remplies ou que, pour des motifs pertinents, la personne concernée n'est pas en mesure de prendre ses fonctions.
+
+### 10.2.6 Dispositions spéciales
+
+#### Art. 165
+
+**Accomplissement du service et équipement**
+
+<sup>1</sup> Les agents et les agentes de police ainsi que les assistants et assistantes de sécurité accomplissent en règle générale leur service en uniforme et armés, sauf décision contraire du commandant ou de la commandante.
+
+<sup>2</sup> L'équipement de base nécessaire à l'accomplissement du service, y compris les armes, leur est remis aux frais du canton, à titre de prêt.
+
+#### Art. 166
+
+**Légitimation**
+
+<sup>1</sup> Les agents et les agentes de police ainsi que les assistants et assistantes de sécurité attestent de leur droit à accomplir des activités policières par le port de l'uniforme ou en présentant leur carte de légitimation.
+
+<sup>2</sup> Les collaborateurs et collaboratrices ne portant pas l'uniforme attestent de leur statut en présentant leur carte de légitimation avant l'accomplissement de l'acte de police. Lorsque les circonstances ne le permettent pas, la carte est présentée dès que possible.
+
+#### Art. 167
+
+**Stationnement**
+
+<sup>1</sup> Le commandant ou la commandante peut ordonner le stationnement, si les besoins du service ou une répartition appropriée et efficace des tâches au sein du personnel l'exigent. La situation personnelle des intéressés est prise en considération dans la mesure du possible.
+
+#### Art. 168
+
+**Obligation de domicile**
+
+<sup>1</sup> Les agents et agentes de la Police cantonale sont en principe libres de choisir leur lieu de domicile, sous réserve des alinéas 2 et 3.
+
+<sup>2</sup> Dans des cas fondés par les besoins du service, le commandant ou la commandante peut contraindre des agents et agentes de la Police cantonale à élire domicile dans le canton de Berne ou dans ses alentours immédiats.
+
+<sup>3</sup> Il ou elle peut, pour des motifs importants inhérents au service, définir une obligation de domicile plus stricte.
+
+#### Art. 169
+
+**Disponibilité et prestations particulières**
+
+<sup>1</sup> Lors d'événements extraordinaires, le commandant ou la commandante peut mettre tous les agents et toutes les agentes de la Police cantonale ou certains d'entre eux en état d'alerte.
+
+<sup>2</sup> Lors d'événements particuliers, les agents et les agentes de la Police cantonale peuvent être mobilisés même en dehors de leurs heures de service.
+
+<sup>3</sup> Le service de piquet est en principe compensé par une allocation. Lorsque les circonstances le justifient, les collaborateurs et collaboratrices fréquemment de piquet peuvent recevoir une bonification en temps.
+
+<sup>4</sup> Le Conseil-exécutif fixe par voie d'ordonnance les dispositions relatives à des prestations particulières telles que le service de piquet, les frais, les allocations et le bonus-temps, lorsqu'elles dérogent au droit ordinaire du personnel; ce faisant, il tient compte de manière appropriée des exigences, des besoins et des contraintes propres au service de police. Il peut déléguer sa compétence à la Direction de la police et des affaires militaires.
+
+<sup>5</sup> Il édicte des dispositions dérogatoires en particulier pour
+
+- a l'exécution, pour une durée déterminée ou indéterminée, de tâches supplémentaires et d'activités et fonctions particulières,
+- b le volume de l'indemnité et du bonus-temps pour les services de piquet, notamment durant les fins de semaine,
+- c les repas et le logement,
+- d le bonus-temps pour le travail effectué en fin de semaine et de nuit,
+- e les interventions spéciales de police présentant un danger potentiel,
+- f l'exercice de fonctions particulières relevant du service d'ordre,
+- g la mise à disposition de véhicules privés et leur stationnement en vue d'interventions policières,
+- h la disponibilité en dehors des périodes de service et de piquet,
+- i l'entrée en service volontaire durant les périodes de vacances ou le temps libre lors d'événements extraordinaires non planifiables.
+
+#### Art. 170
+
+**Intervention en dehors du service**
+
+<sup>1</sup> Les collaborateurs et collaboratrices avec le statut de policier sont habilités à intervenir également en dehors de leur service sur l'ensemble du territoire cantonal en cas de crime, de délit ou de danger lorsque les collaborateurs et collaboratrices de la police en service ne peuvent pas se rendre sur place en temps utile.
+
+#### Art. 171
+
+**Communication d'observations concernant un collaborateur ou une collaboratrice**
+
+<sup>1</sup> Les observations issues d'une enquête de police sur un collaborateur ou une collaboratrice de la Police cantonale doivent être communiquées à l'autorité d'engagement.
+
+<sup>2</sup> L'enquête selon l'alinéa 1 doit concerner un crime, un délit ou une contravention répétée.
+
+#### Art. 172
+
+**Obligations d'informer**
+
+<sup>1</sup> Les membres de la Police cantonale contre lesquels une poursuite pénale est ouverte pour un crime ou un délit sont tenus d'en informer l'autorité d'engagement.
+
+<sup>2</sup> Ils informent leurs supérieurs si, pour d'autres raisons, ils sont empêchés d'exécuter leur service ou en sont entravés notablement.
+
+#### Art. 173
+
+**Localisation**
+
+<sup>1</sup> La Police cantonale peut, pour conserver la vue d'ensemble en intervention, faire usage d'appareils permettant de localiser les collaborateurs et collaboratrices sur le terrain, dans la mesure où leur protection ou la complexité de l'intervention l'exige.
+
+### 10.2.7 Respect des devoirs de service et mesures en cas de violation
+
+#### Art. 174
+
+**Principes**
+
+<sup>1</sup> Les collaborateurs et collaboratrices de la Police cantonale sont tenus d'exécuter en tout temps leurs devoirs de service, de respecter la discipline et de veiller à la bonne image de la Police cantonale.
+
+<sup>2</sup> Des mesures de droit du personnel et d'autres mesures prévues par la présente loi peuvent être prises à l'encontre des collaborateurs et collaboratrices de la Police cantonale qui enfreignent, intentionnellement ou par négligence, leurs devoirs de service.
+
+#### Art. 175
+
+**Autres mesures**
+
+<sup>1</sup> D'autres mesures au sens de l'article 174, alinéa 2 sont
+
+- a l'avertissement,
+- b l'ordre de prendre des congés pour diminuer le solde horaire,
+- c la mutation pour une durée déterminée ou indéterminée, le cas échéant avec diminution du traitement.
+
+<sup>2</sup> Les mesures au sens de l'alinéa 1 peuvent être combinées et assorties de charges et de conditions.
+
+<sup>3</sup> Il incombe à l'autorité d'engagement de prononcer ces mesures.
+
+<sup>4</sup> Lorsqu'une procédure est en cours, il est possible d'ajourner un changement de fonctions annoncé ou une promotion imminente.
+
+<sup>5</sup> La résiliation des rapports de travail au sens des articles 22 et 25 et suivant de la loi du 16 septembre 2004 sur le personnel (LPers)[^175-1] est réservée.
+
+[^175-1]: RSB [153.01](https://www.belex.sites.be.ch/data/153.01/fr)
+
+### 10.2.8 Dispositions d'exécution
+
+#### Art. 176
+
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution nécessaires par voie d'ordonnance.
+
+<sup>2</sup> Il règle en particulier les conditions d'engagement, et peut notamment prévoir des exceptions à l'obligation d'être titulaire de la nationalité suisse et d'avoir accompli avec succès une formation de base dans une école de police.
+
+<sup>3</sup> Il peut déléguer tout ou partie de ses compétences à la Direction de la police et des affaires militaires.
+
+## 11 Responsabilité
+
+#### Art. 177
+
+**Principes**
+
+<sup>1</sup> La responsabilité du canton et la procédure sont en principe régies par la LPers.
+
+<sup>2</sup> La responsabilité des communes et la procédure sont en principe régies par les dispositions de la loi du 16 mars 1998 sur les communes (LCo)[^177-1].
+
+<sup>3</sup> La responsabilité personnelle d'organes cantonaux et communaux est exclue.
+
+[^177-1]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
+
+#### Art. 178
+
+**Règles particulières en matière de responsabilité 1. Envers les personnes lésées**
+
+<sup>1</sup> La responsabilité et la réparation morale sont exclues dans le cas de mesures licites exécutées contre des personnes au sens de l'article 6 par les organes de police du canton et les organes communaux chargés de l'ordre.
+
+<sup>2</sup> Pour des raisons d'équité, le canton ou la commune peut répondre du dommage licite causé par les organes de police ou les organes communaux chargés de l'ordre à des personnes, s'il ne peut être exigé de ces dernières qu'elles supportent elles-mêmes le dommage subi. La présente disposition ne s'applique pas aux personnes visées par l'article 6.
+
+#### Art. 179
+
+**2. Assistance de tiers**
+
+<sup>1</sup> Les tiers qui prêtent assistance aux autorités de police dans l'accomplissement de leurs tâches ont un droit à la réparation du dommage subi de ce fait.
+
+<sup>2</sup> Les prétentions opposables le cas échéant aux auteurs et auteures de dommages sont cédées de par la loi au canton ou à la commune pour le montant des dommages-intérêts versés.
+
+#### Art. 180
+
+**3. Interventions hors du canton**
+
+<sup>1</sup> Le canton prend à sa charge le supplément de frais que les collaborateurs et collaboratrices de la Police cantonale, répondant de dommages qu'ils ont causés, doivent assumer en raison de dispositions juridiques différentes en un lieu d'intervention situé hors du canton.
+
+#### Art. 181
+
+**Dommages matériels et personnels subis par les collaborateurs et collaboratrices de la Police cantonale**
+
+<sup>1</sup> L'article 54 LPers s'applique aux dommages personnels et matériels subis par les collaborateurs et collaboratrices de la Police cantonale.
+
+<sup>2</sup> Lors de circonstances particulières, la Police cantonale peut verser des prestations supplémentaires aux personnes lésées ou à leurs parents survivants, sur demande de leur part, dans la mesure où le dommage subi n'est pas réparé d'une autre manière.
+
+<sup>3</sup> Le canton est subrogé à l'agent ou à l'agente dans ses prétentions envers les tiers répondant du dommage.
+
+#### Art. 182
+
+**Protection juridique en faveur des collaborateurs et collaboratrices de la Police cantonale**
+
+<sup>1</sup> Lorsque des collaborateurs ou collaboratrices de la Police cantonale sont impliqués dans une procédure de par l'exercice de leurs fonctions ou sont amenés à faire valoir leurs droits, le canton prend en charge, à leur demande, les frais de justice et d'avocat.
+
+<sup>2</sup> La demande de protection juridique peut être rejetée
+
+- a si la Police cantonale a dénoncé le collaborateur ou la collaboratrice en question ou si le canton est partie adverse;
+- b si l'autorité d'engagement a engagé une procédure relevant du droit du personnel à l'encontre de ce collaborateur ou de cette collaboratrice ou
+- c s'il s'agit d'un cas de peu de gravité.
+
+<sup>3</sup> Le remboursement de tout ou partie des frais peut être exigé en cas de violation des devoirs de manière intentionnelle ou par négligence grave.
+
+## 12 Exécution et voies de droit
+
+#### Art. 183
+
+**Dispositions d'exécution**
+
+<sup>1</sup> Le Conseil-exécutif édicte les dispositions nécessaires à l'exécution de la présente loi.
+
+#### Art. 184
+
+**Voies de droit**
+
+<sup>1</sup> Les voies de droit sont régies par la LPJA, à moins que la présente loi n'en dispose autrement.
+
+<sup>2</sup> Le Tribunal administratif du canton de Berne statue sur les recours formés contre la communication de recherches secrètes dans le cadre de l'enquête préliminaire au sens des articles 111 et suivants, d'enquêtes préliminaires secrètes au sens des articles 114 et suivants et de mesures d'observation au sens des articles 118 et suivants.
+
+## 13 Dispositions transitoires et dispositions finales
+
+#### Art. 185
+
+**Répercussions sur les contrats sur les ressources en vigueur**
+
+<sup>1</sup> Les contrats sur les ressources entre la Direction de la police et des affaires militaires et une commune qui existent à la date d'entrée en vigueur de la présente loi restent valables et sont soumis à l'ancien droit.
+
+<sup>2</sup> Le montant forfaitaire à payer prévu à l'article 48 est déduit du montant d'achat prévu dans le contrat sur les ressources.
+
+<sup>3</sup> Des adaptations ou des compléments aux contrats sur les ressources visés à l'alinéa 1 peuvent faire l'objet d'avenants soumis au nouveau droit.
+
+#### Art. 186
+
+**Répercussions sur les autres contrats en vigueur**
+
+<sup>1</sup> Les contrats sur la délégation de compétences de police judiciaire entre la Direction de la police et des affaires militaires et une commune qui existent à la date d'entrée en vigueur de la présente loi restent valables.
+
+<sup>2</sup> L'entrée en vigueur de la présente loi emporte résiliation des contrats qui existent entre la Direction de la police et des affaires militaires et une commune sur les interventions policières (contrats d'intervention) et sur les prestations de patrouille de police (contrats de patrouille), lesquels font l'objet d'un décompte au pro rata.
+
+#### Art. 187
+
+**Modification d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont modifiés:
+
+- 1\. Loi du 9 avril 2009 sur le droit pénal cantonal (LDPén)[^187-1],
+- 2\. Loi du 4 juin 2008 sur les routes (LR)[^187-2],
+- 3\. Loi du 20 janvier 1994 sur la protection contre le feu et sur les sapeurs-pompiers (LPFSP)[^187-3].
+
+[^187-1]: RSB [311.1](https://www.belex.sites.be.ch/data/311.1/fr)
+[^187-2]: RSB [732.11](https://www.belex.sites.be.ch/data/732.11/fr)
+[^187-3]: RSB [871.11](https://www.belex.sites.be.ch/data/871.11/fr)
+
+#### Art. 188
+
+**Abrogation d'actes législatifs**
+
+<sup>1</sup> Les actes législatifs suivants sont abrogés:
+
+- 1\. loi du 8 juin 1997 sur la police (LPol; RSB 551.1),
+- 2\. loi du 20 juin 1996 sur la Police cantonale (LPC; RSB 552.1).
+
+#### Art. 189
+
+<sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur de la présente loi.
+
+## A1 Annexe 1 à l'article 48
+
+#### Art. A1-1
+
+**Montants forfaitaires pour les coûts d'intervention**
+
+<sup>1</sup> Les montants forfaitaires initiaux prévus par l'article 48 sont fixés comme suit:
+
+- a pour les communes comptant jusqu'à 1000 habitants: 0,60 franc,
+- b pour les communes comptant entre 1001 et 2000 habitants: 1 franc,
+- c pour les communes comptant entre 2001 et 4000 habitants: 2,30 francs,
+- d pour les communes comptant entre 4001 et 10'000 habitants: 4 francs,
+- e pour les communes comptant plus de 10'000 habitants: 5 francs,
+- f pour la Ville de Thoune: 7,80 francs,
+- g pour la Ville de Bienne: 17 francs,
+- h pour la Ville de Berne: 17,30 francs.
+
+Berne, le 27 mars 2018
+
+Au nom du Grand Conseil,
+
+la présidente: Zybach
+
+le secrétaire général: Trees
+
+Extrait du procès-verbal du Conseil-exécutif du 6 mars 2019
+
+Le Conseil-exécutif, après récapitulation des procès-verbaux de la votation populaire du 10 février 2019, constate:
+
+La loi sur la police (LPol) a été acceptée par 209'383 voix contre 64'555.
+
+Certifié exact
+
+Le chancelier: Auer
+
+ACE n° 1272 du 20 novembre 2019:
+
+\1. La loi du 10 février 2019 sur la police entre en vigueur le 1<sup>er</sup> janvier 2020.
+
+\2. Les articles 54 à 57, 83, alinéa 1, lettre h, 84, alinéa 4 et 118 à 120 ne seront applicables qu'à partir d'une date ultérieure qui sera arrêtée par le Conseil-exécutif.[^footer-1]
+
+\3. L'article 35a de la loi du 8 juin 1997 sur la police reste applicable jusqu'à une date ultérieure qui sera arrêtée par le Conseil-exécutif.[^footer-2]
+
+19-077
+
+[^footer-1]: ACE n° 542 du 13 mai 2020, [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents)
+[^footer-2]: Applicable jusqu'au 31 mai 2020, [ROB 20-048](https://www.belex.sites.be.ch/frontend/change_documents)

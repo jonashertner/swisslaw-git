@@ -1,0 +1,852 @@
+---
+canton: BE
+number: "725.1"
+title: "Décret concernant la procédure d'octroi du permis de construire"
+short: DPC
+language: fr
+version: 2020-08-01
+valid_until: 2022-02-28
+version_adopted: 2020-06-24
+adopted: 1994-03-22
+in_force: 1995-01-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/725.1"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/1919/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Décret concernant la procédure d'octroi du permis de construire
+
+(DPC)
+
+du 22.03.1994 (état au 01.08.2020)
+
+Le Grand Conseil du canton de Berne,
+
+vu l’article 143, alinéa 1, lettre b de la loi du 9 juin 1985 sur les constructions (LC)[^ingress-1] et l’article 99 de l’ordonnance fédérale du 5 septembre 1979 sur la signalisation routière (OSR)[^ingress-2],
+
+sur proposition du Conseil-exécutif,
+
+décrète:
+
+[^ingress-1]: RSB 721.0
+[^ingress-2]: RS 741.21
+
+## 1 Généralités
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> Le présent décret règle la procédure d'octroi du permis de construire applicable aux constructions, installations et mesures projetées sur la surface du sol, au-dessous de celle-ci ou dans les eaux (appelées ci-après projets).
+
+<sup>2</sup> Sauf disposition contraire du présent décret, la loi sur la procédure et la juridiction administratives est applicable.
+
+<sup>3</sup> Lorsqu'en plus du permis de construire, un projet requiert d'autres décisions rendues par des autorités, la loi de coordination est également applicable, à moins qu'une petite commune (art. 33, 2<sup>e</sup> al. LC[^1-1]) ne dirige la procédure d'octroi du permis de construire.
+
+[^1-1]: RSB 721.0
+
+#### Art. 2
+
+**Début des travaux**
+
+<sup>1</sup> Les projets exigeant un permis de construire ne peuvent être exécutés qu'une fois qu'ils ont été autorisés par décision entrée en force ou que le début anticipé des travaux a été autorisé.
+
+<sup>2</sup> Un projet est réputé commencé
+
+- a dès la réception du banquetage;
+- b si une réception du banquetage n'est pas nécessaire, par l'exécution de travaux, de changement d'affectation ou d'autres mesures qui, à eux seuls, nécessiteraient un permis de construire.
+
+#### Art. 3
+
+**Autorité communale**
+
+<sup>1</sup> L'autorité communale au sens du présent décret est le conseil communal ou tout autre organe désigné par le règlement communal.
+
+## 2 Régime du permis de construire
+
+#### Art. 4
+
+**Projets exigeant un permis**
+
+<sup>1</sup> Un permis de construire est nécessaire pour les constructions, installations et aménagements au sens de l’article 1a LC sous réserve des dispositions suivantes.
+
+#### Art. 5
+
+**Projets de construction non soumis à l’octroi d’un permis de construire 1. Généralités**
+
+<sup>1</sup> Ne sont pas soumis à l’octroi d’un permis de construire
+
+- a les projets de construction qui, en vertu de la législation fédérale, ne relèvent pas de la souveraineté du canton en matière de constructions;
+- b les projets de construction qui sont réglés de manière exhaustive par d’autres dispositions légales et font l’objet d’une procédure d’autorisation prévoyant le droit d’opposition conformément à la législation sur les constructions.
+
+#### Art. 6
+
+**2. Projets de construction spécifiques**
+
+<sup>1</sup> Ne sont pas soumis à l’octroi d’un permis de construire, sous réserve de l’article 7,
+
+- a les constructions non chauffées qui ne sont ni habitables ni utilisées à des fins artisanales ou commerciales, qui présentent un lien fonctionnel avec une construction principale et dont la superficie n’excède pas dix mètres carrés et la hauteur 2,50 mètres;
+- b les petites installations annexes telles que clôtures mobiles, parois pare-vue d’une hauteur de deux mètres au plus, abribus des transports publics, foyers, terrasses de jardin non couvertes et ouvertes sur deux côtés; piscines non chauffées d’une surface de 15 mètres carrés au plus, piscines chauffées d’une contenance de huit mètres cubes au plus, pergolas, cheminées de jardin, fontaines, pièces d’eau, sculptures, bacs à sable pour enfants, enclos ou clapiers pour petits animaux;
+- c l’entretien et la modification (y compris le changement d’affectation) de constructions et d’installations, lorsque ces mesures ne touchent à aucun élément déterminant du point de vue du droit des constructions ou de la protection de l’environnement;
+- d les modifications apportées à l’intérieur d’un bâtiment qui ne sont pas liées à un changement d’affectation soumis à l’octroi d’un permis de construire et qui n’ont pas d’incidence sur la sécurité en matière d’incendies;
+- e les antennes paraboliques d’une surface de 0,8 mètre carré au plus et de même couleur que la façade où elles sont installées;
+- f les installations destinées à capter des énergies renouvelables, lorsqu’elles sont aménagées sur des bâtiments ou qu’elles constituent de petites installations annexes à des constructions, et qu’elles respectent les directives cantonales;
+- g les fenêtres en pente d’une surface de 0,8 mètre carré au maximum, à raison de deux au plus par pan principal du toit;
+- h la démolition de constructions et d’installations non soumises à l’octroi d’un permis de construire;
+- i les clôtures, les murs de soutènement, les rampes obliques et les modifications de terrain à titre d’aménagement des abords d’un volume de 100 mètres cubes au plus, à condition que ces installations ne dépassent pas une hauteur de 1,20 mètre;
+- k l’installation d’équipements mobiles destinés à la production agricole tributaire du sol (tunnels de plastique non chauffés, bâches de protection et autres installations similaires), pour une durée de neuf mois au plus par année civile;
+- l les distributeurs automatiques ainsi que les récipients tels que «robidogs », composteurs, armoires de distribution d’électricité, etc., d’une contenance de deux mètres cubes au plus;
+- m l’installation de constructions mobilières telles que halles de fêtes, chapiteaux de cirque ou tribunes, ainsi que l’entreposage de matériel pour une durée de trois mois au plus par année civile;
+- n le dépôt, sur des lieux de stationnement, de mobile homes, de caravanes ou de bateaux isolés, pendant la morte-saison;
+- o l’installation de petites constructions mobilières telles que points de ravitaillement et de vente, postes d’entretien du matériel de sport et de loisirs ou petits téléskis pour une durée de six mois au plus par année civile;
+- p le stationnement de véhicules de gens du voyage pour une durée de six mois au plus par année civile, aux endroits autorisés par l’autorité communale avec l’assentiment des propriétaires fonciers;
+- q les conduites souterraines servant au raccordement des maisons;
+- r les plantations;
+- s les installations mobiles de ventilation, de refroidissement et de climatisation;
+- t les chauffages mobiles à l’extérieur pour les terrasses, les rampes, les coins-jardins et autres choses semblables.
+
+<sup>2</sup> Ne sont pas non plus soumis à l’octroi d’un permis de construire les projets dont le degré d’importance est équivalent ou inférieur à celui des projets énumérés à l’alinéa 1.
+
+#### Art. 6a
+
+**3. Réclames routières**
+
+<sup>1</sup> Ne sont pas soumis à l’octroi d’un permis de construire, sous réserve de l’article 7,
+
+- a les enseignes ou les emblèmes d’entreprises d’une surface totale ne dépassant pas 1,2 mètre carré par façade, s’ils sont fixés à plat sur la façade ou placés juste devant et parallèlement à cette dernière;
+- b dans les localités, un drapeau par exploitation portant l’enseigne ou l’emblème de l’entreprise;
+- c les drapeaux et les fanions, dans la mesure où il s’agit de signes de souveraineté;
+- d les réclames placées dans les vitrines des locaux commerciaux et les vitrines publicitaires;
+- e les réclames pour compte propre d’une surface totale ne dépassant pas 1,2 mètre carré par façade, si elles sont fixées à plat sur la façade ou placées juste devant et parallèlement à cette dernière;
+- f les panneaux indiquant les marchandises et prestations offertes placés à l’entrée des entreprises, dans la mesure où ils ne sont placés là que durant les heures d’ouverture;
+- g les installations publicitaires d’une surface ne dépassant pas 1,2 mètre carré au total par exploitation agricole et informant de la vente ou des prestations de service de cette exploitation;
+- h sur les terrains à bâtir dans les localités, les réclames d’entreprises et les réclames concernant la location ou la vente d’immeubles si elles ne dépassent pas douze mètres carrés, pour une période allant du début des travaux jusqu’à six mois au plus après la réception de l’ouvrage;
+- i dans les localités, les réclames informant sur des manifestations, des votations ou des élections pendant au maximum six semaines avant et cinq jours après la manifestation.
+
+<sup>2</sup> Ne sont pas non plus soumis à l’octroi d’un permis de construire les projets dont le degré d’importance est équivalent ou inférieur à celui des projets énumérés à l’alinéa 1.
+
+#### Art. 7
+
+**Restrictions posées à l’exemption du permis de construire**
+
+<sup>1</sup> Si un projet de construction au sens des articles 6 ou 6a est sis hors de la zone à bâtir et qu’il est susceptible d’avoir une incidence sur l’affectation du sol, telle qu’une modification sensible de l’espace extérieur, une sollicitation importante des équipements techniques ou une atteinte à l’environnement, il est soumis à l’octroi d’un permis de construire.
+
+<sup>2</sup> Si un projet de construction au sens des articles 6 et 6a concerne l’espace réservé aux eaux, la forêt, une réserve naturelle, une zone de protection des sites, un objet naturel protégé, un monument historique ou l’environnement de ce dernier, et qu’il touche l’intérêt correspondant, il est soumis à l’octroi d’un permis de construire.
+
+<sup>3</sup> Les installations destinées à capter des énergies renouvelables au sens de l’article 6, alinéa 1, lettre f et placées sur des monuments historiques dignes de protection ou dignes de conservation au sens de l’article 10c, première phrase LC, sont soumises à l’octroi d’un permis de construire.
+
+#### Art. 7a
+
+**Obligation d’annoncer les installations solaires**
+
+<sup>1</sup> Les maîtres d’ouvrage annoncent la construction d’installations solaires non soumises au régime du permis de construire à l’autorité de police des constructions au plus tard sept jours ouvrés avant le début des travaux.
+
+<sup>2</sup> Ils communiquent les informations suivantes:
+
+- a l’emplacement de l’installation,
+- b le type de l’installation,
+- c la taille de l’installation.
+
+<sup>3</sup> Un plan indiquant l’échelle et la direction du nord doit être joint.
+
+<sup>4</sup> L’annonce est effectuée au moyen du formulaire officiel.
+
+## 3 Compétence
+
+#### Art. 8
+
+**Principe**
+
+<sup>1</sup> Sont compétents pour l'octroi du permis de construire le préfet ou la préfète de l’arrondissement administratif dans lequel est prévue la réalisation du projet, ou les communes selon l'article 33 de la loi sur les constructions[^8-1].
+
+<sup>2</sup> Sont toujours du ressort du préfet ou de la préfète
+
+- a les projets relatifs à l’hôtellerie et à la restauration,
+- b les projets relatifs à l’exercice de la prostitution,
+- c les projets prévoyant la réalisation de constructions sur les eaux qui ne sont soumises à la souveraineté d’aucune commune,
+- d les projets propres à la commune.
+
+<sup>3</sup> Le préfet ou la préfète est en outre compétent(e) lorsque sont réunies les conditions mentionnées à l'article 9, 2<sup>e</sup> alinéa.
+
+[^8-1]: RSB 721.0
+
+#### Art. 9
+
+**Compétence des petites communes**
+
+<sup>1</sup> La compétence des petites communes au sens de l’article 33, alinéa 2 LC d’octroyer le permis de construire se limite aux projets qui, outre ce permis, ne nécessitent pas plus que
+
+- a le raccordement à la route, aux réseaux de distribution d'énergie et d'eau ainsi qu'aux canalisations,
+- b le raccordement aux installations de télécommunication, antennes collectives, etc.,
+- c l'autorisation en matière de protection des eaux,
+- d la concession de prélèvement de chaleur dans des eaux publiques,
+- e les installations techniques intérieures,
+- f le certificat de conformité aux normes énergétiques,
+- g l'examen des questions techniques relatives à la police du feu et à la protection civile,
+- h la dérogation pour la construction hors de la zone à bâtir au sens de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire (loi sur l’aménagement du territoire, LAT)[^9-1],
+- i la décision sur la conformité à l'affectation de la zone de constructions hors de la zone à bâtir,
+- k la dérogation au sens des articles 26 ou 28 LC, de l’article 81 de la loi du 4 juin 2008 sur les routes (LR)[^9-2] ou de l’article 62, alinéa 3 de la loi cantonale du 15 mai 2011 sur l’énergie (LCEn)[^9-3],
+- l l’approbation de l’Office fédéral des routes (OFROU) concernant les réclames situées sur le domaine des routes nationales au sens de l’article 99, alinéa 1 OSR.
+
+<sup>2</sup> La compétence d'octroyer le permis de construire passe de la petite commune au préfet ou à la préfète lorsqu'un projet requiert une étude d'impact sur l'environnement ou que sa réalisation revient à plus d'un million de francs. La Direction de l’intérieur et de la justice peut adapter ce montant à l'indice des coûts de la construction.
+
+<sup>3</sup> Si elle n'est pas manifestement compétente, la petite commune remet au préfet ou à la préfète une copie de la demande de permis de construire et du plan de situation dans les sept jours ouvrables qui suivent la réception de ces documents. Si l'affaire n'est pas du ressort de la commune, le préfet ou la préfète se déclare compétent dans un délai de sept jours ouvrables.
+
+<sup>4</sup> Lorsqu'une petite commune est autorité d'octroi du permis de construire, elle sollicite le rapport officiel du préfet ou de la préfète en cas de demande de dérogation aux prescriptions cantonales.
+
+[^9-1]: RS 700
+[^9-2]: RSB 732.11
+[^9-3]: RSB 741.1
+
+## 4 Présentation de la demande de permis de construire
+
+#### Art. 10
+
+**Demande 1. Forme**
+
+<sup>1</sup> La demande de permis de construire est adressée à l'administration communale.
+
+<sup>2</sup> Le requérant ou la requérante utilisera la formule officielle, qui portera la signature du maître de l'ouvrage, de l'auteur du projet et, en outre, du propriétaire foncier ou de la propriétaire foncière pour les constructions à établir sur sol d'autrui.
+
+<sup>3</sup> Le plan de situation (art. 12 et 13), les plans du projet (art. 14) et d'éventuels autres documents nécessaires (art. 15) seront joints à la demande. Tous les plans seront datés; ils porteront la signature du requérant ou de la requérante et de l'auteur du projet.
+
+<sup>3a</sup> Le formulaire relatif aux mesures parasismiques ainsi que les documents devant y être joints doivent être déposés pour tous les projets de construction.
+
+<sup>4</sup> Si le projet nécessite l'octroi d'une dérogation, une requête correspondante sera jointe à la demande de permis. Il convient de la motiver.
+
+<sup>5</sup> Si le projet est soumis à la législation sur l'énergie ou à celle sur la protection de l'environnement, les documents requis seront joints à la demande.
+
+<sup>6</sup> Toutes les pièces du dossier doivent être remises en un nombre suffisant de copies, mais au minimum en double exemplaire. L'autorité d'octroi du permis de construire peut en exiger davantage.
+
+#### Art. 11
+
+**2. Contenu**
+
+<sup>1</sup> La demande comprendra
+
+- a les noms et adresses du propriétaire foncier ou de la propriétaire foncière, du maître de l’ouvrage (le cas échéant de son représentant ou de sa représentante), de l’auteur du projet ainsi que de la personne responsable de la déclaration spontanée en matière de police des constructions;
+- b la parcelle à bâtir et l'indication de son emplacement exact ou de ses coordonnées ainsi que la zone d'affectation;
+- c le but du projet;
+- d les dimensions principales des constructions et installations, le type de construction, l'indication des matériaux les plus importants, le genre et la couleur des façades et de la toiture;
+- e les coûts de construction, y compris pour les travaux exécutés à titre personnel, mais sans les frais d'élaboration du projet, d'acquisition du terrain, d'équipement et les intérêts du crédit de construction (l'autorité peut demander la production des devis en cas de doute);
+- f pour les terrains de camping, les lieux d'extraction de matériaux et lieux de dépôt, leur surface, la hauteur des remblais, la profondeur du creusage, le genre de matériaux à en tirer ou à y déposer;
+- g pour les constructions artisanales et industrielles, le nombre probable des personnes qui y seront occupées;
+- h pour les entreprises d'engraissement et d'élevage, le genre et l'importance de la détention d'animaux;
+- i l'accès de la plus proche route publique à l'immeuble en question et la manière dont il est garanti juridiquement en cas de mise à contribution du terrain d'autrui;
+- k la situation, l'aménagement des places de stationnement pour véhicules, et la manière dont ces places sont garanties juridiquement, les places de jeu et les aires de loisirs;
+- l le degré de l’affectation, si celui-ci est limité par les prescriptions en matière de construction; le calcul sera présenté de manière à pouvoir être vérifié.
+
+<sup>2</sup> La demande indiquera en outre si le projet concerne un monument historique, un objet archéologique ou un autre objet relevant de la protection particulière du paysage en vertu d'un inventaire (art. 10d LC[^11-1]) ou d'un plan d'affectation (art. 64a LC).
+
+[^11-1]: RSB 721.0
+
+#### Art. 12
+
+**Plan de situation 1. Forme**
+
+<sup>1</sup> Le plan de situation sera, sur le territoire cantonal ayant fait l’objet de mensurations officielles, établi sur une copie du plan du registre foncier signée par le géomètre conservateur ou la géomètre conservatrice. Là où la mensuration officielle fait encore défaut, l’auteur du projet dessinera le plan de situation en y portant les éléments correspondant à ceux d’un plan du registre foncier.
+
+<sup>2</sup> L’auteur du projet fera figurer dans le plan de situation les indications relatives à la police des constructions exigées à l’article 13; ces indications se distingueront nettement, par l’utilisation d’une couleur spéciale, des inscriptions certifiées conformes par le géomètre conservateur ou la géomètre conservatrice.
+
+<sup>3</sup> L'organe communal compétent atteste sur le plan l'exactitude et l'exhaustivité des indications relatives à la police des constructions; dans le territoire n'ayant pas fait l'objet de mensurations cadastrales, il confirme l'exactitude du plan de situation dans son ensemble.
+
+#### Art. 13
+
+**2. Contenu**
+
+<sup>1</sup> Le plan de situation indiquera notamment
+
+- a les limites et les numéros de la parcelle à bâtir et des parcelles voisines, les noms de leurs propriétaires, ainsi que les constructions et installations existantes ou déjà autorisées sur ces parcelles;
+- b la zone d’affectation dans laquelle se trouve le terrain concerné, les zones de danger, les zones à protéger, les espaces réservés aux eaux, les zones de nuisances ou les espaces de transition (art. 6, 86, 87 LC et art. 4a LAE)[^13-1];
+- c l'échelle et l'indication du nord ainsi que les noms des routes et des lieux-dits;
+- d l'alignement de la forêt; à défaut, le tracé effectif des lisières de celle-ci, pour autant qu'elles soient éloignées de moins de 30 m des constructions et installations projetées;
+- e les monuments historiques, objets archéologiques ou autres objets relevant de la protection particulière du paysage qui se trouvent sur la parcelle à bâtir et sur les parcelles voisines;
+- f la situation et la superficie du projet, ses distances en chiffres par rapport aux routes et aux limites d'immeubles et de bâtiments voisins, ainsi que les limites extérieures du bâtiment, la position du point fixe ainsi que celle du point de mesure si la hauteur totale est indiquée;
+- g l'accès, les places de stationnement pour véhicules et, où elle est prescrite (art. 22, 2<sup>e</sup> al., et 23 LC[^13-2]), la possibilité d'un accès en fauteuil roulant;
+- h les alignements des constructions et des routes, les périmètres d’évolution, les cotes de niveau et les conduites publiques inscrites dans les plans de quartier ou dans les plans de route existants ou déposés publiquement;
+- i les eaux, les alignements par rapport aux eaux et les zones inondables (art. 7, 2<sup>e</sup> al. LAE).
+
+[^13-1]: RSB 751.11
+[^13-2]: RSB 721.0
+
+#### Art. 14
+
+**Plans**
+
+<sup>1</sup> A la demande seront joints les plans suivants, à l'échelle 1:100 ou 1:50:
+
+- a les plans de tous les niveaux. Seront mentionnés l'affectation des locaux avec l'indication en chiffres de leur largeur et longueur, l'épaisseur des murs extérieurs et de leur isolation, ainsi que l'épaisseur approximative des autres murs, les foyers et canaux d'évacuation de la fumée ainsi que la surface des sols et celle des parties vitrées en mètres carrés;
+- b les coupes nécessaires à la compréhension du projet, avec l’indication des dimensions principales, de la hauteur d’étage, de l’épaisseur approximative des planchers, de la hauteur du mur de combles. Seront en outre indiquées la cote du sol fini des rez-de-chaussée au-dessus d’un point fixe porté sur le plan de situation et l’épaisseur de l’isolation du toit. La position des coupes sera indiquée sur le plan de situation ou sur le plan du rez-de-chaussée;
+- c les plans de toutes les façades avec indication de la cote du sol fini au rez-de-chaussée, et de la hauteur de la façade ou de la hauteur totale. En cas de construction en ordre contigu, les façades des bâtiments contigus seront esquissées si nécessaire;
+- d un plan d'aménagement des abords lorsqu'il existe des prescriptions particulières sur l'aménagement des abords (art. 14 LC[^14-1]), lorsque le projet implique la création de places de jeux pour enfants, de grandes surfaces de jeux ou d'aires de loisirs (art. 15 LC) ou lorsqu'il concerne un monument historique, un objet archéologique ou un autre objet relevant de la protection particulière du paysage (art. 9a à 10b LC).
+
+<sup>2</sup> Sur les plans des coupes et des façades, on indiquera en pointillé le terrain de référence et par une ligne continue le terrain tel qu’il se présente après l’achèvement des travaux. Des indications seront inscrites le long de ces lignes.
+
+<sup>3</sup> Les plans doivent en outre permettre de constater la structure prévue du terrain (raccordement des bâtiments, talus, murs de soutènement), ainsi que les clôtures fixes.
+
+<sup>4</sup> En cas de modification telle que transformation, construction d'annexes ou agrandissement, les plans feront ressortir quelles parties du bâtiment subsistent, lesquelles seront démolies et lesquelles seront reconstruites.
+
+[^14-1]: RSB 721.0
+
+#### Art. 15
+
+**Exigences particulières; facilités**
+
+<sup>1</sup> L'autorité peut exiger d'autres pièces telles qu'indications sur la construction, le déroulement des travaux et les mesures de sécurité, montages photographiques, maquettes, indications détaillées concernant le degré d’affectation, les calculs et les diagrammes d'ombre.
+
+<sup>2</sup> L'autorité peut
+
+- a admettre des plans à l'échelle 1:200 pour des projets de très grande envergure;
+- b renoncer à exiger la production de plans ou d'autres pièces s'il s'agit de projets de peu d'importance;
+- c prescrire le dépôt d'un plan d'aménagement des abords lorsque les prescriptions du règlement communal des constructions le prévoient de manière générale ou pour certains périmètres.
+
+<sup>3</sup> Dans des cas particuliers, notamment s’il s’agit de constructions et d’installations de durée limitée, une présentation du projet différente de celle qui est décrite aux articles 10 à 14 peut être autorisée, à condition qu’elle permette de juger si le projet est conforme aux prescriptions à examiner dans le cadre de la procédure d’octroi du permis de construire. Est compétente en la matière
+
+- a l'autorité qui approuve un plan de quartier ayant valeur de permis de construire (art. 88, al. 6 LC), ou
+- b l'autorité d'octroi du permis de construire, avec le consentement de l'Office des affaires communales et de l'organisation du territoire.
+
+#### Art. 16
+
+**Gabarit**
+
+<sup>1</sup> Parallèlement au dépôt de la demande de permis, le requérant ou la requérante doit piqueter et marquer par un gabarit dans le terrain les limites extérieures des constructions et installations projetées. Le gabarit indiquera, notamment dans les angles des bâtiments, la hauteur des façades et l’inclinaison des lignes du toit; pour les toits plats, il indiquera la hauteur du garde-corps ou du bord du toit ainsi que, éventuellement, la hauteur totale au point de référence. La cote du sol fini des rez-de-chaussée sera marquée au moyen d’une latte transversale.
+
+<sup>2</sup> Le gabarit sera maintenu jusqu'à l'entrée en force de la décision sur le projet.
+
+<sup>3</sup> L'autorité compétente pour l'octroi du permis de construire peut, pour de justes motifs, prévoir des mesures spéciales ou accorder des facilités quant au gabarit. Il convient d'assurer une information suffisante des voisins et du public.
+
+<sup>4</sup> Si une construction projetée n'est pas piquetée conformément aux prescriptions au moment de la publication, ou si le gabarit diffère considérablement des plans, la publication sera répétée une fois le vice corrigé, et le délai d'opposition prolongé d'autant.
+
+## 5 Examen provisoire
+
+#### Art. 17
+
+**Examen formel effectué par l'administration communale**
+
+<sup>1</sup> Dans les sept jours ouvrables qui suivent la réception de la demande de permis de construire et dès l'établissement du gabarit, l'administration communale procède à l'examen formel provisoire des demandes de permis de construire et de dérogation et les transmet à l'autorité d'octroi du permis de construire en indiquant les vices non éliminés. Elle peut les faire supprimer préalablement s'ils sont peu importants.
+
+<sup>2</sup> Si l'examen provisoire révèle que la décision est du ressort de la petite commune, il convient de procéder conformément à l'article 9, 3<sup>e</sup> et 4<sup>e</sup> alinéas.
+
+<sup>3</sup> Dans tous les cas, l'administration communale fait immédiatement rectifier tout gabarit inexact ou insuffisant.
+
+#### Art. 18
+
+**Examen effectué par l'autorité d'octroi du permis de construire**
+
+<sup>1</sup> Si, lors de l'examen provisoire, l'autorité d'octroi du permis de construire constate des vices formels, elle retourne la demande au requérant ou à la requérante pour correction. Elle précise que cette même demande sera considérée comme ayant été retirée si elle n'est pas renvoyée dans le délai imparti.
+
+<sup>2</sup> S'il est visible d'emblée que, d'après les prescriptions de droit public, le projet ne peut être accepté ou ne peut l'être que par le biais de dérogations qui n'ont pas été demandées, l'autorité d'octroi du permis de construire informe le requérant ou la requérante des vices constatés et lui impartit un délai de trois mois pour les corriger. Elle lui indique que si la demande n'est pas soumise à nouveau avant l'expiration du délai, elle sera considérée comme ayant été retirée.
+
+<sup>3</sup> Le renvoi de la demande pour correction conformément aux 1<sup>er</sup> et 2<sup>e</sup> alinéas se fait dans un délai de dix jours ouvrables à compter de la réception par l'autorité d'octroi du permis de construire.
+
+<sup>4</sup> L'autorité d'octroi du permis de construire n'entre pas en matière lorsqu'une demande présentée pour la seconde fois est entachée de vices formels. En cas de vices matériels manifestes qui sont de son ressort, elle rejette la demande dans un délai de 30 jours.
+
+## 6 Examen matériel
+
+#### Art. 19
+
+**Projets de construction hors de la zone à bâtir**
+
+<sup>1</sup> Lorsqu'une demande concerne un projet de construction hors de la zone à bâtir, l'autorité d'octroi du permis de construire la transmet pour décision au service compétent de la Direction de l’intérieur et de la justice, qui statue sur la conformité à l'affectation de la zone.
+
+#### Art. 20
+
+**Préparation de la décision 1. Audition de la commune**
+
+<sup>1</sup> En sa qualité d'autorité d'octroi du permis de construire, le préfet ou la préfète invite l'autorité communale à se prononcer. Celle-ci soumet une proposition en relevant notamment les faits qui s'opposent à l'octroi du permis de construire.
+
+#### Art. 21
+
+**2. Consultation d'autres autorités**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire demande les rapports officiels accompagnés des propositions, les décisions ou les prises de position des autorités fédérales et cantonales compétentes.
+
+#### Art. 22
+
+**3. Réserves ou objections de nature particulière**
+
+<sup>1</sup> L’autorité d’octroi du permis de construire consulte les services cantonaux spécialisés selon la liste du service compétent de la Direction de l’intérieur et de la justice lorsqu’un projet fait l’objet des réserves ou des objections de nature particulière énoncées ci-après qui n’apparaissent pas manifestement injustifiées:
+
+- a atteinte au site ou au paysage,
+- b mise en danger de la sécurité ou de la santé publique,
+- c aspects de la police du feu,
+- d inobservation des prescriptions relatives aux mesures à prendre en faveur des handicapés,
+- e infraction aux prescriptions relatives à l'environnement,
+- f exposition à des dangers naturels pouvant se produire dans des zones de danger rouges ou bleues, dans des zones présentant un danger de degré encore indéterminé ou, s’agissant de constructions particulièrement sensibles, dans des zones de danger jaunes.
+
+<sup>2</sup> Les organes spécialisés locaux peuvent être consultés s'ils sont efficaces.
+
+<sup>3</sup> Si un projet concerne un objet ou les abords d'un objet figurant dans un inventaire ou une liste du canton ou de la Confédération, l'autorité d'octroi du permis de construire associe dans tous les cas les services spécialisés cantonaux concernés à la procédure. Les projets portant sur des monuments historiques dignes de conservation au sens de l'article 10c, deuxième phrase LC[^22-1] sont réservés.
+
+[^22-1]: RSB 721.0
+
+#### Art. 22a
+
+**4. Commission de protection des sites et du paysage**
+
+<sup>1</sup> L’autorité d’octroi du permis de construire consulte la Commission de protection des sites et du paysage (CPS) lorsqu’un projet dont la réalisation est susceptible d’avoir un impact considérable sur le site ou le paysage suscite des réserves ou des objections de nature esthétique n’apparaissant pas manifestement injustifiées ou pourrait porter atteinte au site ou au paysage, en particulier lorsqu’il est prévu dans
+
+- a un périmètre compris dans l’inventaire fédéral des paysages, sites et monuments naturels d’importance nationale (IFP),
+- b un périmètre compris dans l’inventaire fédéral des sites construits à protéger en Suisse (ISOS) ou
+- c une zone de protection des sites ou du paysage au sens de l’article 86 LC.
+
+<sup>2</sup> La CPS n’est pas consultée lorsque le projet de construction a déjà été examiné par la Commission fédérale pour la protection de la nature et du paysage, le Service cantonal des monuments historiques ou un service spécialisé local compétent ou quand il est issu d’un concours de projets organisé conformément à des règles de procédure reconnues.
+
+#### Art. 23
+
+**5. Examens supplémentaires**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire peut faire appel au service d'experts et ordonner des études pédologiques, des essais de matériaux et de charge, des calculs de statique ou d'autres mesures semblables.
+
+#### Art. 24
+
+**Refus sans publication**
+
+<sup>1</sup> Si l'autorité d'octroi du permis de construire conclut que le projet ne peut pas être autorisé, elle le communique au requérant ou à la requérante en lui impartissant un délai pour prendre position.
+
+<sup>2</sup> Si le requérant ou la requérante maintient sa demande, l'autorité d'octroi du permis de construire la rejette sans publication, à moins qu'elle n'ait modifié son appréciation.
+
+## 7 Publication, dépôt public
+
+#### Art. 25
+
+**Moment de la publication**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire peut attendre la fin de l'examen matériel de la demande avant de publier cette dernière, à moins que le maître de l'ouvrage n'exige qu'il y soit procédé plus tôt.
+
+#### Art. 26
+
+**Publication**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire procède à la publication de la demande. L'article 27 est réservé.
+
+<sup>2</sup> La publication a lieu dans deux numéros consécutifs de la feuille officielle d'avis. La publication dans la Feuille officielle cantonale est réservée pour les cas où la législation la prévoit.
+
+<sup>3</sup> La publication contiendra
+
+- a le nom du requérant ou de la requérante et de l'auteur du projet,
+- b la désignation de la parcelle, son emplacement exact ou ses coordonnées ainsi que la description générale du projet,
+- c la zone d'affectation et, le cas échéant, le plan de quartier,
+- d les zones ou périmètres protégés et les objets protégés désignés dans le plan d'affectation, dans des inventaires ou dans des listes,
+- e l'indication des dérogations demandées en faveur du projet,
+- f l'indication du lieu et de la date du dépôt du dossier, de la possibilité de faire opposition et de l'autorité auprès de laquelle celle-ci doit être déposée, du délai d'opposition ainsi que
+- g la communication du délai de péremption des prétentions à compensation des charges qui ne seraient pas annoncées à l'autorité communale dans le délai d'opposition (art. 31, 4<sup>e</sup> al., lit. a LC[^26-1]),
+- h la communication, en cas d’oppositions collectives et d’oppositions multicopiées ou en grande partie identiques, de l’obligation d’indiquer le nom de la personne autorisée à représenter valablement le groupe d’opposants,
+- i la communication selon laquelle l’autorité peut publier les décisions et les décisions sur recours dans la feuille officielle d’avis ou la feuille officielle cantonale si la notification par la poste implique des frais excessifs en raison du nombre élevé d’oppositions.
+
+[^26-1]: RSB 721.0
+
+#### Art. 27
+
+**Petit permis de construire non publié**
+
+<sup>1</sup> Si un projet de construction soumis à l’octroi d’un permis de construire touche uniquement les voisins, une communication à ces derniers suffit. Sous réserve de l’alinéa 5, sont notamment considérés comme tels les projets suivants:
+
+- a les petites constructions,
+- b les travaux d’entretien et les modifications,
+- c les clôtures, les murs de soutènement, les rampes obliques et les modifications de terrain,
+- d les constructions mobilières,
+- e les installations aménagées à la surface du sol qui servent à l’équipement technique des terrains à bâtir,
+- f les réclames routières.
+
+<sup>2</sup> Si un projet de construction soumis à l’octroi d’un permis de construire concerne uniquement des détails d’architecture intérieure, l’agencement des pièces et l’équipement fixe de monuments historiques dignes de protection, ou l’agencement des pièces de monuments historiques dignes de conservation, il suffit de procéder à une communication au service cantonal spécialisé et aux organisations privées au sens de l’article 38, alinéa 1, lettre b de la loi du 8 septembre 1999 sur la protection du patrimoine (LPat)[^27-1].
+
+<sup>3</sup> La communication aux voisins et aux voisines ainsi qu’aux organisations privées est notifiée par lettre recommandée et contient les indications énumérées à l’article 26, alinéa 3. La communication au service cantonal spécialisé s’effectue par courrier ordinaire et contient une copie des documents de la demande.
+
+<sup>4</sup> La communication n’est pas nécessaire si les voisins et les voisines concernés, les organisations privées et le service cantonal spécialisé ont donné leur accord écrit au projet. Dans ce cas, l’autorité d’octroi du permis de construire statue dans les 30 jours dès réception des pièces nécessaires et une fois en possession des autres décisions, rapports officiels et rapports techniques. L’article 2a, alinéa 2, lettre b LC est réservé.
+
+<sup>5</sup> L’octroi d’un petit permis de construire n’est pas possible lorsque
+
+- a le cercle des voisins et des voisines concernés ou les organisations privées ne peuvent être déterminés avec certitude;
+- b lorsque la législation prévoit une publication;
+- c d’autres intérêts publics prépondérants que ceux énumérés à l’alinéa 2 sont touchés, notamment des intérêts relevant de la protection de la nature, des sites ou du paysage, de la sécurité routière, de l’accessibilité ou de l’aménagement local.
+
+[^27-1]: RSB 426.41
+
+#### Art. 28
+
+**Dépôt public**
+
+<sup>1</sup> La demande, les plans et les autres pièces du dossier sont déposés publiquement auprès de l'administration communale jusqu'à l'expiration du délai d'opposition selon l'article 31.
+
+## 8 Opposition, réserves de droit
+
+#### Art. 29–30
+
+**…**
+
+#### Art. 31
+
+**Délai et forme**
+
+<sup>1</sup> Le délai d'opposition est de 30 jours à compter de la première publication ou de la date d'envoi de la communication écrite.
+
+<sup>2</sup> Les oppositions, dûment motivées, doivent être envoyées en double exemplaire à l'autorité d'octroi du permis de construire.
+
+<sup>3</sup> …
+
+#### Art. 32
+
+**Réserve de droit**
+
+<sup>1</sup> La déclaration de réserve de droit a pour but de renseigner le requérant ou la requérante et les autorités sur les droits privés qui sont touchés par le projet, ainsi que sur les prétentions en indemnités qui pourraient en découler.
+
+<sup>2</sup> Toute personne ayant la jouissance et l'exercice des droits civils a qualité pour présenter une réserve de droit.
+
+<sup>3</sup> Les dispositions sur la compensation des charges sont réservées (art. 30 et 31 LC[^32-1]).
+
+[^32-1]: RSB 721.0
+
+#### Art. 33
+
+**Instruction 1. Généralités**
+
+<sup>1</sup> Dans les sept jours ouvrables qui suivent l'expiration du délai d'opposition, l'autorité d'octroi du permis de construire envoie une copie des oppositions et des réserves de droit au requérant ou à la requérante et aux autorités concernées.
+
+<sup>2</sup> Ceux-ci peuvent prendre position par écrit dans les dix jours ou au plus tard jusqu'aux pourparlers de conciliation dans le cas où ces derniers sont organisés.
+
+<sup>3</sup> En cas d'oppositions manifestement irrecevables ou non motivées, l'autorité d'octroi du permis de construire peut renoncer à demander des prises de position.
+
+#### Art. 34
+
+**2. Pourparlers de conciliation**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire peut organiser des pourparlers de conciliation si les participants n'y renoncent pas.
+
+<sup>2</sup> Les pourparlers sont consignés dans un procès-verbal qui mentionne leurs résultats et, en conclusion, les oppositions non vidées. Ce document est signé par tous les participants à la procédure.
+
+## 9 Décision
+
+#### Art. 35
+
+**Décision 1. Conditions, charges, objet**
+
+<sup>1</sup> Le permis de construire est octroyé lorsque le projet est conforme aux dispositions de la législation sur les constructions et sur l'aménagement du territoire ainsi qu'aux prescriptions d'autres lois à examiner dans le cadre de la procédure d'octroi du permis de construire, qu'il ne compromet pas l'ordre public et que rien ne s'y oppose au titre de l'aménagement du territoire au sens des articles 36 et 62 de la loi sur les constructions[^35-1]. Dans le cas contraire, la demande de permis est rejetée.
+
+<sup>2</sup> L’autorité d’octroi du permis de construire apprécie librement le résultat de l’administration des preuves. Elle peut s’écarter des rapports officiels et des rapports techniques des services spécialisés. Elle doit toutefois motiver ces divergences dans la décision.
+
+<sup>3</sup> Le permis de construire peut être assorti de conditions et de charges.[^35-2]
+
+<sup>4</sup> L'autorité d'octroi du permis de construire désigne les plans auxquels se réfère la décision.[^35-3]
+
+[^35-1]: RSB 721.0
+[^35-2]: Anciens alinéas 2 et 3
+[^35-3]: Anciens alinéas 2 et 3
+
+#### Art. 36
+
+**2. Contenu**
+
+<sup>1</sup> La décision comprend les considérants, un dispositif et l'indication des voies de recours.
+
+<sup>2</sup> Les considérants comprennent
+
+- a les motifs des conditions et charges dont le permis de construire est assorti,
+- b les motifs du rejet de la demande et
+- c la prise de position relative aux oppositions.
+
+<sup>3</sup> Le dispositif comprend
+
+- a l'octroi ou le rejet des dérogations demandées,
+- b l'octroi ou le rejet du permis de construire,
+- c les conditions et les charges dont le permis de construire est assorti,
+- d les autres autorisations requises avant le début des travaux (art. 2a LC[^36-1]),
+- e en cas de permis partiel, les objets qui restent à autoriser,
+- f la mention des réserves de droit et
+- g les frais à payer.
+
+<sup>4</sup> L'indication des voies de recours comprend
+
+- a l'indication du délai et de la forme du recours ainsi que de l'autorité à laquelle il peut être adressé;
+- b l'indication selon laquelle il ne pourra être fait usage du permis de construire qu'au moment où
+  - 1\. le délai de recours sera expiré sans avoir été utilisé,
+  - 2\. toutes les personnes habilitées à recourir auront renoncé à le faire ou que
+  - 3\. l'autorité compétente aura permis le début anticipé des travaux.
+
+[^36-1]: RSB 721.0
+
+#### Art. 37
+
+**3. Notification**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire notifie sa décision au requérant ou à la requérante, aux opposants dont l'opposition n'a pas été vidée et à la commune.
+
+<sup>2</sup> Elle la porte également à la connaissance des services spécialisés consultés selon l'article 22 et des personnes ayant fait valoir une réserve de droit.
+
+<sup>3</sup> L'autorité d'octroi du permis de construire envoie au géomètre conservateur ou à la géomètre conservatrice une copie des permis de construire et des plans de situation, sauf si le projet concerne des travaux exécutés à l'intérieur de bâtiments ou d'installations existants.
+
+## 10 Portée et durée de validité du permis de construire
+
+#### Art. 38
+
+**Portée, validité**
+
+<sup>1</sup> Le permis de construire donne droit à l'exécution du projet dès que lui-même et les autres autorisations requises ne peuvent plus être contestés.
+
+<sup>2</sup> Il est valable pour le requérant ou la requérante et le ou la propriétaire de l'immeuble; il ne l'est pour leurs ayants cause que s'il n'avait pas été accordé eu égard à des conditions particulières prouvées.
+
+#### Art. 39
+
+**Début anticipé des travaux**
+
+<sup>1</sup> L’autorité d’octroi du permis de construire peut autoriser le commencement des travaux dès l’expiration du délai d’opposition, pour autant que l’issue de la procédure ne puisse pas les influencer.
+
+<sup>2</sup> Si le projet doit être examiné par plusieurs autorités, celles-ci doivent toutes autoriser le début anticipé des travaux.
+
+<sup>3</sup> Si le projet est fondé sur des prescriptions de construction non encore approuvées, le début anticipé des travaux n'est autorisé qu'avec l'accord du service compétent de la Direction de l’intérieur et de la justice.
+
+<sup>4</sup> Les travaux d'excavation du terrain à bâtir, la pose de conduites et d'autres travaux de ce genre peuvent être autorisés par l'autorité communale dès réception de la demande de permis de construire, s'il n'y a pas risque de préjudice pour les eaux et si le requérant ou la requérante s'engage, pour le cas où le permis serait refusé, à rétablir l'état antérieur des lieux. L'autorisation peut être assortie de la condition que le requérant ou la requérante fournisse des sûretés convenables en vue de l'exécution de cette obligation.
+
+#### Art. 40
+
+**Délai 1. Modalités du délai**
+
+<sup>1</sup> …
+
+<sup>2</sup> Le délai de validité du permis de construire ne commence pas à courir ou est suspendu lorsque, pour des raisons juridiques, le permis ne peut pas être utilisé et que le maître de l’ouvrage entreprend les démarches qu’il peut être attendu de lui pour écarter ce qui empêche l’exécution.
+
+<sup>3</sup> Le délai court encore au moins un an après la suppression de l'empêchement.
+
+#### Art. 41
+
+**2. Prolongation de la durée de validité**
+
+<sup>1</sup> …
+
+<sup>2</sup> La requête en prolongation d'un permis de construire est publiée si elle est susceptible de toucher des intérêts publics importants. S'il n'est procédé à aucune publication, la requête est communiquée par écrit aux voisins et aux anciens opposants concernés par la prolongation.
+
+<sup>3</sup> Les oppositions ne peuvent être formulées que contre la prolongation. L'autorité d'octroi du permis de construire les étudie avant de rendre sa décision sur la requête en prolongation. Il n'y a pas de pourparlers de conciliation.
+
+<sup>4</sup> La décision concernant la prolongation est susceptible de recours au même titre que l'est celle qui porte sur l'octroi du permis de construire.
+
+## 11 Prescriptions particulières
+
+#### Art. 42
+
+**Demande de permis de construire général**
+
+<sup>1</sup> La demande de permis de construire général (art. 32d LC[^42-1]) est soumise aux dispositions suivantes:
+
+- a La demande peut notamment avoir pour objet l'affectation prévue, l'équipement du terrain à bâtir, la situation et la forme extérieure de la construction, son intégration dans les environs immédiats ainsi que des éléments analogues.
+- b Le permis de construire général n'est valable que pour les éléments du projet désignés expressément, dans la demande, comme objet de la procédure d'octroi.
+- c Le plan de situation et les plans requis dressés à l'échelle 1:100 ou 1:200 seront joints à la demande.
+- d Le délai de remise de la demande d'exécution n'est pas suspendu par le fait d'empêchements de droit privé.
+- e Le projet d'exécution ne sera publié que s'il touche des intérêts publics dans une plus large mesure que la demande de permis général. S'il ne fait pas l'objet d'une publication, sa mise en dépôt public est communiquée par écrit aux personnes concernées.
+
+[^42-1]: RSB 721.0
+
+#### Art. 43
+
+**Modification du projet pendant la procédure et durant l'exécution**
+
+<sup>1</sup> Au sens de la présente disposition, il y a modification du projet lorsque ce dernier reste le même dans ses éléments fondamentaux.
+
+<sup>2</sup> L'autorité d'octroi du permis de construire peut, après avoir entendu les participants et les tiers touchés par la modification d'un projet, poursuivre la procédure sans nouvelle publication ou autoriser ladite modification sans nouvelle procédure de demande de permis, pour autant que des intérêts publics ou des intérêts prépondérants des voisins n'en soient pas touchés.
+
+<sup>3</sup> Si le projet est modifié durant la procédure de recours, il convient d'entendre la commune, la partie opposée et les tiers touchés par la modification. L'autorité de recours peut renvoyer l'affaire à l'instance inférieure pour qu'elle en continue le traitement.
+
+<sup>4</sup> Toute modification est exclue en cours de procédure de recours devant le Tribunal administratif. La compétence de ce dernier de renvoyer l'affaire à l'instance inférieure pour examen d'une modification de projet ou de liquider la procédure de recours par transaction est réservée.
+
+<sup>5</sup> Si le projet est modifié pendant les travaux de réalisation, la compétence est déterminée en fonction de cette seule modification. Il convient d'appliquer le droit en vigueur au moment où la demande de modification du projet a été présentée.
+
+#### Art. 44
+
+**Demande de dérogation a posteriori**
+
+<sup>1</sup> Les demandes de dérogation déposées a posteriori dans le cadre d'une procédure ordinaire d'octroi du permis de construire font l'objet d'une publication.
+
+<sup>2</sup> Si la demande de dérogation n'est présentée qu'au cours de la procédure de recours, il est statué à son sujet dans la décision sur recours.
+
+<sup>3</sup> En procédure de recours devant le Tribunal administratif, il n'est pas entré en matière sur les demandes de dérogation déposées a posteriori. La compétence du Tribunal administratif de renvoyer l'affaire à l'instance inférieure pour appréciation de la demande de dérogation ou de liquider la procédure de recours par transaction est réservée.
+
+#### Art. 45
+
+**Plan de quartier 1. Conditions**
+
+<sup>1</sup> Le plan de quartier a valeur de permis de construire s'il définit le projet avec la précision d'un tel permis. Lors de la publication, il convient d'indiquer les objets pour lesquels il tient lieu de permis général ou de permis ordinaire.
+
+<sup>2</sup> La décision d'approbation désigne les objets pour lesquels le plan de quartier a valeur de permis de construire général ou de permis de construire ordinaire.
+
+<sup>3</sup> Cette partie du plan de quartier peut également être attaquée selon l'article 61a de la loi sur les constructions[^45-1].
+
+[^45-1]: RSB 721.0
+
+#### Art. 46
+
+**2. Durée de validité**
+
+<sup>1</sup> Tant qu'il est en vigueur, le plan de quartier a valeur de permis de construire général ou ordinaire selon la décision d'approbation.
+
+<sup>2</sup> Toutefois, si le maître de l'ouvrage n'a pas fait usage de son droit dans les cinq ans qui suivent l'entrée en vigueur du plan de quartier, il fait part, par écrit, à la commune de son intention de présenter une demande d'exécution du permis de construire ou d'entreprendre les travaux.
+
+<sup>3</sup> Si la commune ne crée pas de zone réservée dans un délai de trois mois, le maître de l'ouvrage peut, pendant une nouvelle période de cinq ans, présenter une demande d'exécution du permis de construire ou entreprendre les travaux.
+
+## 12 Police des constructions
+
+#### Art. 47
+
+**Obligations de l'autorité communale de police des constructions**
+
+<sup>1</sup> L’autorité communale de police des constructions veille à ce que les prescriptions légales ainsi que les dispositions, charges et conditions du permis de construire soient observées lors de l’exécution du projet.
+
+<sup>2</sup> Elle contrôle l’exécution du projet de construction en se basant sur la déclaration spontanée en matière de police des constructions établie par la personne responsable.
+
+<sup>3</sup> Elle peut s’adjoindre les services cantonaux spécialisés si leurs compétences sont nécessaires au contrôle.
+
+<sup>4</sup> Elle a l’obligation de contrôler sur place
+
+- a le banquetage,
+- b le raccordement des conduites d’eaux usées au réseau public,
+- c les installations d’infiltration.
+
+<sup>5</sup> Si elle n’a pas octroyé elle-même le permis de construire, elle remet un double du procès-verbal de réception des contrôles à l’autorité d’octroi du permis de construire.
+
+<sup>6</sup> Elle veille à faire rétablir l'état conforme à la loi lorsque les travaux de construction sont illicites ou que des prescriptions en matière de construction ou de conditions et charges n'ont pas été observées ultérieurement (art. 46 et 47 LC[^47-1]). A cet égard, elle respecte les principes de la proportionnalité et de la protection de la bonne foi.[^47-2]
+
+<sup>7</sup> Elle veille à l'élimination des perturbations de l'ordre public dues à des constructions et installations inachevées, entretenues de manière négligente ou contraires de toute autre façon à la réglementation (art. 45, 2<sup>e</sup> al. lit. c et art. 47 LC)[^47-3].[^47-4]
+
+<sup>8</sup> Elle communique le début des travaux, par acte judiciaire ou lettre recommandée, aux personnes qui ont annoncé une demande en compensation des charges (art. 31, 2<sup>e</sup> al. LC)[^47-5].[^47-6]
+
+[^47-1]: RSB 721.0
+[^47-2]: Anciens alinéas 2 à 4
+[^47-3]: RSB 721.0
+[^47-4]: Anciens alinéas 2 à 4
+[^47-5]: RSB 721.0
+[^47-6]: Anciens alinéas 2 à 4
+
+#### Art. 47a
+
+**Déclaration spontanée en matière de police des constructions**
+
+<sup>1</sup> Avant le commencement des travaux et après leur achèvement, la personne responsable de la déclaration spontanée fournit à l’autorité communale de police des constructions des explications concernant le respect des dispositions, conditions et charges du permis de construire. Elle utilise à cet effet les formules officielles.
+
+<sup>2</sup> Elle informe l’autorité communale de police des constructions lorsque les contrôles obligatoires peuvent être effectués et elle veille à ce que l’avancement des travaux n’empêche ni n’entrave le bon déroulement de ces contrôles.
+
+<sup>3</sup> Elle est tenue d’avertir l’autorité communale de police des constructions dès qu’apparaissent, pendant les travaux, des modifications s’écartant des dispositions, conditions et charges du permis de construire et qui sont soumises à l’octroi d’un permis de construire.
+
+<sup>4</sup> L’autorité communale de police des constructions peut en tout temps contrôler les chantiers ou, au besoin, les bâtiments et installations existants, ainsi qu’exiger les informations et documents nécessaires.
+
+<sup>5</sup> La déclaration spontanée en matière de police des constructions ne mentionne pas les contrôles incombant au préfet ou à la préfète et aux services cantonaux spécialisés. Ces contrôles sont réservés.
+
+#### Art. 48
+
+**Compétences préfectorales**
+
+<sup>1</sup> Le préfet ou la préfète exerce la surveillance de la police communale des constructions et impartit des délais appropriés aux autorités communales de la police des constructions et aux autorités d'octroi du permis de construire lorsqu'elles tardent à remplir leurs obligations légales. Il ou elle ordonne, au besoin, les mesures nécessaires.
+
+<sup>2</sup> Le préfet ou la préfète a en particulier les attributions suivantes:
+
+- a il ou elle décide, en cas de doute, si un projet nécessite un permis de construire et quelle en est la nature (art. 32 LC);
+- b il ou elle tranche les litiges portant sur les exigences particulières ou sur les facilités au sens des articles 15 et 16, 3<sup>e</sup> alinéa.
+
+<sup>3</sup> …
+
+#### Art. 49
+
+**Information**
+
+<sup>1</sup> Le service compétent de la Direction de l’intérieur et de la justice conseille les autorités des communes ainsi que les préfets et les préfètes dans les affaires relevant de l'octroi du permis de construire. Il prend notamment position sur les questions relatives au régime du permis de construire et au régime de la dérogation, à la procédure d'octroi du permis de construire, aux prescriptions en matière de police des constructions et au calcul des mesures d’utilisation du sol.
+
+#### Art. 50
+
+**Infractions**
+
+<sup>1</sup> Les infractions aux dispositions du présent décret ainsi qu'aux ordonnances édictées et décisions rendues sur la base de ce dernier sont passibles des peines prévues à l'article 50 de la loi sur les constructions[^50-1] (amende de 40'000 francs au plus; dans les cas graves, de 100'000 francs au plus; dans les cas de peu de gravité, amende de 1000 francs au plus).
+
+[^50-1]: RSB 721.0
+
+## 13 Frais
+
+#### Art. 51
+
+**Principe**
+
+<sup>1</sup> Les frais de procédure (frais officiels) se composent des émoluments et des dépenses que la commune peut facturer pour son activité en procédure d'octroi du permis de construire et pour les opérations qu'elle accomplit en matière de police des constructions.
+
+<sup>2</sup> Les dépenses comprennent les indemnités de déplacement, les indemnités des témoins, les frais d'examens techniques, les honoraires d'experts, les taxes postales, téléphoniques et télégraphiques, les frais d'annonce, mais non pas les coûts résultant des actions entreprises selon l'article 33a, 2<sup>e</sup> alinéa de la loi sur les constructions[^51-1].
+
+<sup>3</sup> La commune édicte un tarif des émoluments.
+
+[^51-1]: RSB 721.0
+
+#### Art. 52
+
+**Frais à assumer dans le cadre de la procédure d'octroi du permis de construire**
+
+<sup>1</sup> Le requérant ou la requérante supporte les frais officiels de la procédure d'octroi du permis de construire. Il n'est pas alloué de dépens.
+
+<sup>2</sup> Le montant des frais de la procédure tient équitablement compte de l'importance du projet; pour les petits projets ou si des frais d'expertise relativement élevés ont été engagés notamment, il est possible de renoncer à répercuter la totalité des frais sur le requérant ou la requérante.
+
+<sup>3</sup> Les frais officiels occasionnés par une opposition manifestement injustifiée peuvent être mis à la charge de son auteur.
+
+#### Art. 53
+
+**Avance de frais et sûreté pour les frais**
+
+<sup>1</sup> L'autorité d'octroi du permis de construire peut exiger du requérant ou de la requérante qu'il ou elle fasse une avance de frais convenable.
+
+<sup>2</sup> Si le requérant ou la requérante ne verse pas l'avance de frais requise, la procédure est, après une suspension de trois mois, rayée du rôle comme étant devenue sans objet.
+
+## 14 Dispositions d'exécution et disposition transitoire
+
+#### Art. 54
+
+**Dispositions d'exécution**
+
+<sup>1</sup> Le Conseil-exécutif peut édicter par voie d'ordonnance d'autres dispositions concernant la procédure d'octroi du permis de construire, la police des constructions et la compensation des charges.
+
+#### Art. 55
+
+**Procédures pendantes**
+
+<sup>1</sup> Les procédures d'octroi du permis de construire, de recours et de compensation des charges pendantes lors de l'entrée en vigueur du présent décret sont menées à terme en application des dispositions de l'ancien droit.
+
+#### Art. 56
+
+**Abrogation d'un acte législatif**
+
+<sup>1</sup> Le décret du 10 février 1970 concernant la procédure d'octroi du permis de construire est abrogé.
+
+#### Art. 57
+
+**Adaptation de prescriptions**
+
+<sup>1</sup> Le décret du 4 février 1987 sur les prestations financières consenties par l'Etat pour l'approvisionnement en énergie[^57-1] est modifié comme suit:
+
+[^57-1]: Abrogé par L cantonale du 15. 5. 2011 sur l'énergie (LCEn); RSB 741.1
+
+#### Art. 58
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil-exécutif fixe la date d'entrée en vigueur du présent décret. Au cas où l'«initiative en faveur des capteurs solaires» ne serait pas retirée, les 2<sup>e</sup> et 3<sup>e</sup> alinéas sont réservés.
+
+<sup>2</sup> Si l'«initiative en faveur des capteurs solaires» est acceptée en votation populaire, les dispositions des articles 6 et 57 seront caduques et l'article 6 sera remplacé par la réglementation suivante:
+
+Art. 6
+
+Aucun permis de construire n'est nécessaire pour
+
+- a les capteurs et les cellules solaires jusqu'à 2 m² de surface au maximum (petites installations);
+- b les capteurs et les cellules solaires d'une surface supérieure à 2 m² s'ils ne sont pas montés sur des bâtiments dignes de protection ou sur des bâtiments sis hors de la zone à bâtir et qu'ils remplissent les conditions suivantes:
+  - a ils recouvrent au maximum les deux tiers de la surface du toit ou de la façade, une surface de 30 m² au minimum étant admise pour les maisons individuelles et de 20 m² au minimum par logement supplémentaire;
+  - b s'ils sont montés sur un toit en pente: ils sont intégrés au toit et présentent une inclinaison maximale de 45° ou sont décollés de 20 cm au maximum par rapport au toit;
+  - c s'ils sont montés sur une façade: ils présentent une inclinaison de 0 à 45° et de 70 à 90° (capteurs verticaux) et sont décollés de 1,0 m au maximum par rapport à la façade;
+  - d s'ils sont montés sur un toit plat: ils dépassent de 1,0 m au maximum par rapport à l'arête supérieure du toit.
+
+<sup>3</sup> Si l'«initiative en faveur des capteurs solaires» est rejetée en votation populaire et que le Conseil-exécutif ait alors déjà mis le décret en vigueur, les articles 6 et 57 entrent en force le lendemain du scrutin. Dans le cas contraire, le Conseil-exécutif les met en vigueur en même temps que le décret.
+
+Berne, le 22 mars 1994
+
+Au nom du Grand Conseil,
+
+le président:Bieri
+
+le chancelier:Nuspliger
+
+ACE n° 2619 du 24 août 1994:
+
+entrée en vigueur le 1<sup>er</sup> janvier 1995
+
+94-77

@@ -1,0 +1,384 @@
+---
+canton: BE
+number: "215.326.2"
+title: Gesetz betreffend die Handänderungssteuer
+short: HG
+language: de
+version: 2020-11-01
+valid_until: 2022-04-30
+version_adopted: 2020-09-02
+adopted: 1992-03-18
+in_force: 1992-10-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/215.326.2"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1969/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz betreffend die Handänderungssteuer
+
+(HG)
+
+vom 18.03.1992 (Stand 01.11.2020)
+
+Der Grosse Rat des Kantons Bern,
+
+auf Antrag des Regierungsrates,
+
+beschliesst:
+
+## 1 Allgemeines und gemeinsame Bestimmungen
+
+#### Art. 1
+
+**Grundsatz**
+
+<sup>1</sup> Beim Erwerb eines Grundstücks ist dem Kanton gemäss den nachfolgenden Bestimmungen eine Steuer zu entrichten.
+
+#### Art. 2
+
+**Steuerpflicht**
+
+<sup>1</sup> Steuerpflichtig für die Handänderungssteuer sind die Rechtserwerberin oder der Rechtserwerber und im Falle von Artikel 5 Absatz 2 Buchstaben c und d die Abtreterin oder der Abtreter der Rechte.
+
+#### Art. 3
+
+**Verjährung**
+
+<sup>1</sup> Die Steuer verjährt zehn Jahre nach Eintritt der Steuerpflicht.
+
+## 2 Die Handänderungssteuer
+
+### 2.1 Begriffsbestimmungen
+
+#### Art. 4
+
+**Grundstücke**
+
+<sup>1</sup> Grundstücke im Sinne dieses Gesetzes sind
+
+- a Liegenschaften und Wasserkräfte,
+- b im Grundbuch aufgenommene selbständige und dauernde Rechte wie Bau-, Quellen- und Ausbeutungsrechte und Wasserrechtsverleihungen,
+- c Kuhrechte,
+- d Bauwerke, die aus einem andern Grund einen besondern Eigentümer haben,
+- e Bergwerke,
+- f Miteigentumsanteile an Grundstücken.
+
+#### Art. 5
+
+**Handänderungen**
+
+<sup>1</sup> Handänderungen von Grundstücken im Sinne dieses Gesetzes sind
+
+- a der zivilrechtliche Eigentumsübergang,
+- b die Errichtung eines selbständigen und dauernden Rechtes zugunsten einer Drittperson,
+- c die Überlassung neuen Landes, die Ersitzung und Aneignung.
+
+<sup>2</sup> Dem zivilrechtlichen Eigentumsübergang werden gleichgestellt
+
+- a die Änderung im Personenbestand oder im Beteiligungsumfang einer Gemeinschaft zu gesamter Hand,
+- b der Erwerb von Anteilsrechten an einer Immobiliengesellschaft, sobald die Erwerberin oder der Erwerber die Mehrheitsbeteiligung erreicht,
+- c die Abtretung der Rechte aus einem Kaufvertrag,
+- d die Übertragung eines Kaufsrechtes.
+
+<sup>3</sup> Im übrigen stellt die Übertragung wirtschaftlicher Verfügungsmacht keine Handänderung dar; die Steuerumgehung bleibt vorbehalten.
+
+### 2.2 Bemessung der Steuer und Ausnahmen von der Steuerpflicht
+
+#### Art. 6
+
+**Bemessungsgrundlagen 1. Grundsatz**
+
+<sup>1</sup> Die Steuer wird auf Grund der Gegenleistung für den Grundstückerwerb bemessen. Diese besteht aus allen vermögensrechtlichen Leistungen, die die Erwerberin oder der Erwerber der Veräusserin oder dem Veräusserer oder Dritten für das Grundstück zu erbringen hat.
+
+#### Art. 6a
+
+**1.a Schlüsselfertige Baute, Verbindung von Kauf- und Werkvertrag**
+
+<sup>1</sup> Bei Kaufverträgen über eine schlüsselfertige Baute oder Stockwerkeinheit und bei Kaufverträgen, die mit einem Werkvertrag so verbunden sind, dass eine schlüsselfertige Baute oder Stockwerkeinheit erworben wird, ist die Steuer auf dem Gesamtpreis (Landpreis und Werklohn) zu bemessen.
+
+#### Art. 7
+
+**2. Wiederkehrende Leistungen**
+
+<sup>1</sup> Sind zeitlich wiederkehrende Leistungen vereinbart, so gilt als Gegenleistung die Summe aller während der ersten 20 Vertragsjahre zu erbringenden Leistungen.
+
+<sup>2</sup> Wurde eine wiederkehrende Leistung bis zum Ableben der berechtigten Person vereinbart, so wird die Jahresleistung mit der Anzahl der Jahre der Lebenserwartung gemäss Rententabelle, höchstens aber mit 20, multipliziert.
+
+#### Art. 8
+
+**3. Tausch**
+
+<sup>1</sup> Beim Tauschvertrag werden alle Leistungen oder Werte zusammengezählt. Werden die Tauschgegenstände ohne Angabe eines Betrages als gleichwertig bezeichnet, so wird der Tauschgegenstand mit dem höheren amtlichen Wert doppelt gerechnet. Er ist zu berichtigen, wenn vorher eingetretene Wertveränderungen noch nicht geschätzt worden sind.
+
+#### Art. 9
+
+**4. Realteilung**
+
+<sup>1</sup> Erfolgt die ganze oder teilweise Aufhebung von gemeinschaftlichem Grundeigentum durch Übertragung von Grundstücken der Gemeinschaft auf einzelne oder alle beteiligten Mitglieder der Gemeinschaft, wird die Handänderungssteuer nur auf den Ausgleichsleistungen erhoben. Änderungen der Beteiligungsquoten gelten nicht als Ausgleichsleistungen. Artikel 5 Absatz 2 Buchstabe a findet in diesem Fall keine Anwendung.
+
+#### Art. 10
+
+**Gesamteigentum**
+
+<sup>1</sup> Gesamteigentum wird zur Berechnung der Steuer wie Miteigentum behandelt.
+
+<sup>2</sup> Ist die Höhe der Anteile nicht bekannt, so wird vermutet, sie seien gleich gross.
+
+#### Art. 11
+
+**Steuersatz**
+
+<sup>1</sup> Die Handänderungssteuer beträgt 1,8 Prozent.
+
+<sup>2</sup> …
+
+<sup>3</sup> Steuern unter 100 Franken werden nicht erhoben.
+
+#### Art. 11a
+
+**Nachträgliche Steuerbefreiung 1. Gesuch, Stundung**
+
+<sup>1</sup> Die Erwerberin oder der Erwerber eines Grundstücks kann bei der Grundbuchanmeldung ein Gesuch um eine nachträgliche Steuerbefreiung stellen, wenn sie oder er das Grundstück als Hauptwohnsitz nutzen will.
+
+<sup>2</sup> Das Grundbuchamt weist das Gesuch ab, wenn dieses im Hinblick auf die Voraussetzungen gemäss Artikel 11b von vornherein aussichtslos erscheint.
+
+<sup>3</sup> In den anderen Fällen stundet das Grundbuchamt die Handänderungssteuer auf den ersten 800 000 Franken der Gegenleistung für den Erwerb des Grundstücks.
+
+<sup>4</sup> Wird die Stundung gewährt und liegen die übrigen Voraussetzungen vor, nimmt das Grundbuchamt den Eintrag im Hauptbuch vor.
+
+<sup>5</sup> Für die gestundete Steuer besteht ein gesetzliches Grundpfandrecht gemäss Artikel 22 Absatz 2.
+
+<sup>6</sup> Für das Verfahren gelten die Artikel 17 ff.
+
+#### Art. 11b
+
+**2. Voraussetzungen**
+
+<sup>1</sup> Die gestundete Steuer gemäss Artikel 11a Absatz 1 wird nicht erhoben, wenn das Grundstück der Erwerberin oder dem Erwerber als Hauptwohnsitz dient. Ein Hauptwohnsitz ist von der Erwerberin oder vom Erwerber während mindestens zweier Jahre ununterbrochen, persönlich und ausschliesslich zum Wohnzweck zu nutzen.
+
+<sup>2</sup> Der Hauptwohnsitz muss innert einem Jahr ab Grundstückserwerb in der entsprechenden Baute begründet werden, wenn diese bereits besteht. Muss die Baute noch erstellt werden, hat der Bezug innert zwei Jahren ab Grundstückserwerb zu erfolgen. In begründeten Ausnahmefällen können diese Fristen durch das Grundbuchamt erstreckt werden.
+
+#### Art. 12
+
+**Ausnahmen von der Steuerpflicht**
+
+<sup>1</sup> Keine Handänderungssteuer ist zu entrichten
+
+- a beim Erwerb durch die Eidgenossenschaft, den Kanton oder durch eine öffentlich-rechtliche Körperschaft mit eigener Rechtspersönlichkeit gemäss Gemeindegesetz vom 16. März 1998 (GG[^12-1]);
+- b beim Ausschluss der Erhebung durch Bundesrecht oder ein kantonales Gesetz;
+- c bei der Umwandlung von Gesamteigentum in Miteigentum und umgekehrt, ohne dass die Personen und der Umfang ihrer Beteiligung ändern;
+- d beim Erwerb durch den andern Ehegatten, die andere eingetragene Partnerin, den andern eingetragenen Partner, Nachkommen, Stiefkinder und Pflegekinder, sofern bei Pflegekindern das Pflegeverhältnis mindestens zwei Jahre gedauert hat; bei der Erbteilung ist das Verhältnis zwischen der Erwerberin oder dem Erwerber und der Erblasserin oder dem Erblasser massgebend;
+- e beim Erbgang, bei der güterrechtlichen Auseinandersetzung und bei der Schenkung;
+- f bei der gemischten Schenkung an Verwandte im Sinne von Artikel 457 ff. ZGB und beim Erbvorbezug, wenn die Leistung der übernehmenden Person ausschliesslich in der Übernahme von aufhaftenden Grundpfandforderungen zugunsten Dritter, in der Vereinbarung einer Verpfründung zugunsten der abtretenden Person oder in der Verpflichtung zu Ausgleichsleistungen an Miterbinnen und Miterben besteht;
+- g bei Handänderungen an juristische Personen, die öffentliche oder gemeinnützige Zwecke verfolgen, sofern das Grundstück ausschliesslich und unwiderruflich diesen Zwecken dient;
+- h bei Leistungen des Kantons an den Erwerb eines Grundstücks oder die damit zu erfüllende Aufgabe;
+- i bei Änderungen im Grundbuch, die durch eine Baulandumlegung bewirkt werden.
+
+[^12-1]: BSG 170.11
+
+## 3
+
+#### Art. 13–15
+
+**…**
+
+## 4 Veranlagung
+
+#### Art. 16
+
+**Veranlagungsbehörde**
+
+<sup>1</sup> Die Steuer wird vom Grundbuchamt veranlagt und schriftlich eröffnet.
+
+#### Art. 17
+
+**Veranlagung bei Grundbuchanmeldung, Stundung bei nachträglicher Steuerbefreiung**
+
+<sup>1</sup> Die Steuer wird aufgrund der Selbstdeklaration der steuerpflichtigen Person und der bei der Grundbuchanmeldung eingereichten Ausweise veranlagt. Das Grundbuchamt kann ergänzende Unterlagen verlangen. Abweichungen von der Selbstdeklaration sind zu begründen.
+
+<sup>2</sup> Stellt die Erwerberin oder der Erwerber ein Gesuch um nachträgliche Steuerbefreiung gemäss Artikel 11a, veranlagt das Grundbuchamt die Steuer auf der gesamten Gegenleistung gemäss Artikel 6 ff. Das Grundbuchamt stundet den auf die ersten 800 000 Franken entfallenden Steuerbetrag für maximal vier Jahre ab Grundstückserwerb. Diese Frist verlängert sich um die Dauer einer allfälligen Erstreckung gemäss Artikel 11b Absatz 2.
+
+#### Art. 17a
+
+**Nachträgliche Steuerbefreiung gemäss Artikel 11a 1. Verfahren**
+
+<sup>1</sup> Die Erwerberin oder der Erwerber hat gegenüber dem Grundbuchamt vor Ablauf der Stundung gemäss Artikel 17 Absatz 2 unaufgefordert den Nachweis zu erbringen, dass alle Voraussetzungen zur Steuerbefreiung gemäss Artikel 11b erfüllt sind oder zum Zeitpunkt des Ablaufs der Stundung erfüllt sein werden. Es sind sämtliche Beweismittel beizulegen.
+
+<sup>2</sup> Sind die Voraussetzungen zur Steuerbefreiung erfüllt, heisst das Grundbuchamt das Gesuch um eine nachträgliche Steuerbefreiung gut, verfügt diese und löscht das gesetzliche Grundpfandrecht gemäss Artikel 11a Absatz 5.
+
+<sup>3</sup> Kommt das Grundbuchamt zum Schluss, dass die Voraussetzungen zur Steuerbefreiung gemäss Artikel 11b nicht erfüllt sind, weist es das Gesuch ab und hebt die Stundung auf.
+
+#### Art. 17b
+
+**2. Bezug der gestundeten Steuer**
+
+<sup>1</sup> Liegt eine rechtskräftige Verfügung gemäss Artikel 17a Absatz 3 vor oder fällt die Stundung gemäss Artikel 17 Absatz 2 infolge Fristablaufs dahin, bezieht das Grundbuchamt die Steuer samt Zins ab dem Zeitpunkt des Grundstückserwerbs. Artikel 21 findet Anwendung.
+
+#### Art. 18
+
+**Veranlagung ohne Grundbuchanmeldung**
+
+<sup>1</sup> In Fällen, in denen kein Grundbucheintrag erfolgt, hat die oder der Pflichtige innert 30 Tagen seit dem Erwerb demjenigen Grundbuchamt, in dessen Region der wertvollere Teil der Grundstücke liegt, den Steuertatbestand zu melden und die nötigen Ausweise vorzulegen.
+
+<sup>2</sup> Die verurkundende Notarin oder der verurkundende Notar und das Handelsregisteramt haben die Parteien auf die Steuer- und Meldepflicht hinzuweisen.
+
+<sup>3</sup> Das Handelsregisteramt hat dem Grundbuchamt von jeder Änderung, die eine Steuerpflicht begründet, Kenntnis zu geben. Die kantonale Steuerverwaltung meldet unverzüglich jede von ihr festgestellte neue Mehrheitsbeteiligung an einer Immobiliengesellschaft; sie hat dem Grundbuchamt die für die Veranlagung erforderlichen Auskünfte zu erteilen.
+
+#### Art. 18a
+
+**Veranlagung nach Ermessen**
+
+<sup>1</sup> Hat die steuerpflichtige Person die verlangten Unterlagen trotz Mahnung nicht eingereicht und kann deswegen mangels zuverlässiger Angaben die Gegenleistung nicht einwandfrei ermittelt werden, so nimmt das Grundbuchamt die Veranlagung nach pflichtgemässem Ermessen vor.
+
+#### Art. 19
+
+**Nachveranlagung**
+
+<sup>1</sup> Ergibt sich aus Tatsachen oder Beweismitteln, die dem Grundbuchamt vorher auch bei pflichtgemässer Sorgfalt nicht bekannt sein konnten, dass eine Veranlagung unvollständig ist, so findet eine Nachveranlagung statt.
+
+## 5 Bezug, Erlass und Stundung
+
+#### Art. 20
+
+**Bezug 1. Grundsatz**
+
+<sup>1</sup> Die Steuer wird bei der Grundbuchanmeldung fällig und ist gleichzeitig aufgrund der Selbstdeklaration zu entrichten. Bei der Veranlagung ohne Grundbuchanmeldung wird die Steuer mit der Eröffnung der Veranlagungsverfügung fällig und ist innert 30 Tagen zu entrichten.
+
+#### Art. 21
+
+**2. Verzinsung**
+
+<sup>1</sup> Zu viel bezahlte Beträge werden mit Zins zurückerstattet. Zu wenig bezogene Beträge werden mit Zins nachgefordert.
+
+<sup>2</sup> Bei verspäteter Zahlung der Steuer ist ein Verzugszins zu entrichten.
+
+<sup>3</sup> Für die Höhe des Verzugs- bzw. des Vergütungszinses gilt der Satz, welcher vom Regierungsrat für den Verzugs- und Vergütungszins bei der direkten Kantonssteuer festgesetzt wird.
+
+#### Art. 22
+
+**3. Sicherung**
+
+<sup>1</sup> Vor der Bezahlung der Steuer darf kein Eintrag ins Hauptbuch erfolgen; Artikel 25 Absatz 3 bleibt vorbehalten.
+
+<sup>2</sup> Für die Steuer besteht ein gesetzliches Grundpfandrecht im Sinne von Artikel 109 Absatz 1 Buchstabe d des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^22-1].
+
+[^22-1]: BSG 211.1
+
+#### Art. 23
+
+**Erlass und Stundung 1. Durch die Direktion für Inneres und Justiz**
+
+<sup>1</sup> Die Direktion für Inneres und Justiz erlässt oder stundet auf Gesuch hin die Steuer ganz oder teilweise, wenn deren Bezahlung für die betreffende Person eine offenbare Härte bedeutet oder sie in ihrer wirtschaftlichen Existenz gefährdet.
+
+<sup>2</sup> Sie stundet auf Gesuch hin die Steuer für die Dauer des Erlassverfahrens.
+
+#### Art. 24
+
+**2. Durch den Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat kann auf Gesuch hin die Steuer ganz oder teilweise erlassen, wenn bedeutende Interessen der bernischen Volkswirtschaft, namentlich die Förderung der Wirtschaft, den Erlass rechtfertigen. Sein Beschluss ist kantonal letztinstanzlich.
+
+#### Art. 24a
+
+**3. Durch die Wirtschafts-, Energie- und Umweltdirektion**
+
+<sup>1</sup> Bei Erlassverfahren gemäss Artikel 24 stundet die Wirtschafts-, Energie- und Umweltdirektion auf Gesuch hin die Steuer für die Dauer des Verfahrens.
+
+#### Art. 25
+
+**4. Gemeinsame Bestimmungen**
+
+<sup>1</sup> Das Erlass- oder Stundungsgesuch ist spätestens innert 30 Tagen seit Eintritt der Rechtskraft der Steuerveranlagung beim Grundbuchamt zuhanden der Stundungs- beziehungsweise Erlassbehörde einzureichen.
+
+<sup>2</sup> An den Erlass oder die Stundung können Bedingungen geknüpft und im Grundbuch angemerkt werden.
+
+<sup>3</sup> Aufgrund der Stundungsverfügung der Wirtschafts-, Energie- und Umweltdirektion oder der Direktion für Inneres und Justiz nimmt das Grundbuchamt den Eintrag im Hauptbuch vor.
+
+## 6 Rechtspflege
+
+#### Art. 26
+
+**Verfahren**
+
+<sup>1</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^26-1] soweit dieses Gesetz nichts Abweichendes bestimmt.
+
+<sup>2</sup> Die Steuerpflichtigen können sich vor den kantonalen Instanzen durch im Notariatsregister des Kantons Bern eingetragene Notarinnen und Notare vertreten lassen.
+
+[^26-1]: BSG 155.21
+
+#### Art. 27
+
+**Rechtsweg**
+
+<sup>1</sup> Gegen die Veranlagung durch das Grundbuchamt kann Einsprache erhoben werden.
+
+<sup>2</sup> Gegen die Einspracheverfügung kann bei der Direktion für Inneres und Justiz Beschwerde erhoben werden.
+
+<sup>3</sup> Gegen den Entscheid der Direktion für Inneres und Justiz kann beim Verwaltungsgericht Beschwerde geführt werden.
+
+<sup>4</sup> Gegen die Erlass- oder Stundungsverfügung der Direktion für Inneres und Justiz kann beim Verwaltungsgericht Beschwerde geführt werden.
+
+## 7 Widerhandlungen und Nachsteuer
+
+#### Art. 28
+
+<sup>1</sup> Die Bestimmungen des Steuergesetzes vom 21. Mai 2000 (StG)[^28-1] über Widerhandlungen und Nachsteuer sind sinngemäss anwendbar.
+
+<sup>2</sup> Zuständige Behörde ist das Grundbuchamt.
+
+<sup>3</sup> Zuständige Behörde im Sinne von Artikel 228 Absatz 2 StG ist die Direktion für Inneres und Justiz.
+
+[^28-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
+
+## 8 Übergangs- und Schlussbestimmungen
+
+#### Art. 29
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes nötigen Vorschriften.
+
+#### Art. 30
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Steuertatbestände, die vor dem Zeitpunkt der Inkraftsetzung dieses Gesetzes verwirklicht wurden, gelten die bisherigen Vorschriften. Das Verfahren richtet sich in jedem Fall nach den neuen Vorschriften.
+
+#### Art. 31
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden geändert:
+
+- 1\. Dekret vom 12. Februar 1985 über die Umlegung von Baugebieten, die Grenzregulierung und die Ablösung oder Verlegung von Dienstbarkeiten (Baulandumlegungsdekret)[^31-1]
+- 2\. Dekret vom 11. November 1980 über die Wohnbaulandsicherung[^31-2]
+
+[^31-1]: BSG 728.1
+[^31-2]: Aufgehoben durch BAG 03–119 Änderung des D über die Wohnbau- und Eigentumsförderung, BSG 854.17
+
+#### Art. 32
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Das Gesetz vom 15. November 1970 betreffend die Handänderungs- und Pfandrechtsabgaben wird aufgehoben.
+
+#### Art. 33
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+Bern, 18. März 1992
+
+In Namen des Grossen Rates
+
+Der Präsident: Suter
+
+Der Vizestaatsschreiber: Krähenbühl
+
+RRB Nr: 3404 vom 2. September 1992:
+
+Inkraftsetzung auf den 1. Oktober 1992
+
+1992 d 67 | f 69

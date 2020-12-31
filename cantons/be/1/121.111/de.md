@@ -1,0 +1,412 @@
+---
+canton: BE
+number: "121.111"
+title: Verordnung über das Kantons- und Gemeindebürgerrecht
+short: "Kantonale Bürgerrechtsverordnung, KBüV"
+language: de
+version: 2018-01-01
+valid_until: 2021-03-31
+version_adopted: 2017-09-20
+adopted: 2017-09-20
+in_force: 2018-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/121.111"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1336/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Kantons- und Gemeindebürgerrecht
+
+(Kantonale Bürgerrechtsverordnung, KBüV)
+
+vom 20.09.2017 (Stand 01.01.2018)
+
+Der Regierungsrat des Kantons Bern,
+
+gestützt auf Artikel 22 Absatz 3 und Artikel 29 des Gesetzes vom 13. Juni 2017 über das Kantons- und Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, KBüG)[^ingress-1],
+
+auf Antrag der Polizei- und Militärdirektion
+
+beschliesst:
+
+[^ingress-1]: BSG [121.1](https://www.belex.sites.be.ch/data/121.1/de)
+
+## 1 Allgemeines
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung enthält die Ausführungsbestimmungen zum KBüG.
+
+<sup>2</sup> Sie regelt insbesondere die Zuständigkeiten und konkretisiert und ergänzt die Voraussetzungen für den Erwerb und den Verlust des Kantons- und Gemeindebürgerrechts sowie das Verfahren.
+
+#### Art. 2
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Polizei- und Militärdirektion ist zuständig für
+
+- a die Erteilung des Kantonsbürgerrechts nach Artikel 22 Absatz 3 KBüG,
+- b die Nichtigerklärung der ordentlichen Einbürgerung (Art. 36 Abs. 3 des Bundesgesetzes vom 20. Juni 2014 über das Schweizer Bürgerrecht [Bürgerrechtsgesetz, BüG][^2-1]).
+
+<sup>2</sup> Das Amt für Migration und Personenstand (MIP) ist zuständig für
+
+- a die Behandlung der Anträge nach Artikel 3 Absatz 2 KBüG und Artikel 31 KBüG,
+- b die Genehmigung des kommunalen Entscheids nach Artikel 8 Absatz 2 KBüG,
+- c die Mitteilung an die Gemeinde nach Artikel 15 Absatz 2 KBüG,
+- d die Verfahrensinstruktion und die Zusicherung des Kantonsbürgerrechts nach Artikel 16 Absatz 1 und 2 KBüG sowie die Koordination des Verfahrens mit der Bundesbehörde und das Einholen der eidgenössischen Einbürgerungsbewilligung (Art. 13 Abs. 2 BüG),
+- e die Stellungnahme gegenüber der Bundesbehörde bei erleichterten Einbürgerungen (Art. 25 BüG) und bei Wiedereinbürgerungen (Art. 29 BüG),
+- f die Bestimmung des Gemeindebürgerrechts bei erleichterten Einbürgerungen (Art. 22 Abs. 2 BüG),
+- g die Erhebungen im Auftrag der Bundesbehörde (Art. 34 BüG),
+- h die Entlassung aus dem Schweizerbürgerrecht nach Artikel 37 Absatz 2 BüG sowie aus dem Kantons- und Gemeindebürgerrecht nach Artikel 23 Absatz 1 KBüG,
+- i die Zustimmung zum Entzug des Schweizer Bürgerrechts (Art. 42 BüG),
+- k die Feststellung des Bürgerrechts, wenn fraglich ist, ob eine Person das Bürgerrecht einer Gemeinde und des Kantons besitzt (Art. 43 Abs. 1 BüG),
+- l die Beschwerdeführung gegen Entscheide der Verwaltungsbehörden des Bundes in Bürgerrechtssachen (Art. 47 Abs. 2 BüG).
+
+[^2-1]: SR [141.0](https://db.clex.ch/link/Bund/141.0/de)
+
+#### Art. 3
+
+**Bürgerrecht nach Gemeindezusammenschlüssen**
+
+<sup>1</sup> Die Anträge nach Artikel 3 Absatz 2 KBüG und Artikel 31 KBüG sind auf dem amtlichen Formular unter Beilage einer Kopie des Reisepasses oder der Identitätskarte schriftlich beim MIP einzureichen.
+
+<sup>2</sup> Personen, die miteinander verheiratet sind oder in eingetragener Partnerschaft leben, können bei gemeinsamem Heimatort den Antrag einzeln oder gemeinsam stellen.
+
+<sup>3</sup> Kinder können in den Antrag der Eltern oder eines Elternteils einbezogen werden, wenn
+
+- a sie zum Zeitpunkt der Antragstellung minderjährig sind,
+- b sie das gleiche Bürgerrecht wie die antragstellenden Eltern oder des antragstellenden Elternteils haben und
+- c die Zustimmung der sorgeberechtigten Personen vorliegt.
+
+<sup>4</sup> Ab dem vollendeten 16. Altersjahr haben minderjährige Kinder ihren eigenen Willen schriftlich zu erklären.
+
+## 2 Ordentliche Einbürgerungen
+
+### 2.1 Schweizerinnen und Schweizer
+
+#### Art. 4
+
+**Gesuch**
+
+<sup>1</sup> Das Einbürgerungsgesuch oder das Einburgerungsgesuch ist auf dem amtlichen Gesuchsformular zusammen mit den erforderlichen Unterlagen bei der Gemeinde einzureichen, um deren Bürgerrecht oder Burgerrecht ersucht wird.
+
+<sup>2</sup> Schweizerinnen und Schweizer sowie die Gemeinden sind verpflichtet, das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+
+<sup>3</sup> Dem Einbürgerungsgesuch oder Einburgerungsgesuch sind folgende Unterlagen beizulegen:
+
+- a Personenstandsausweis (für Einzelpersonen), Familienausweis (für Ehegatten) oder Partnerschaftsausweis (für eingetragene Partnerschaften),
+- b Kopie des Reisepasses oder der Identitätskarte.
+
+<sup>4</sup> Die Gemeinden bestimmen, welche weiteren Unterlagen dem Gesuch beizulegen sind.
+
+#### Art. 5
+
+**Nachweis der engen Verbundenheit**
+
+<sup>1</sup> Schweizerinnen und Schweizer weisen die enge Verbundenheit mit der Gemeinde im amtlichen Gesuchsformular nach.
+
+<sup>2</sup> Die enge Verbundenheit ist namentlich begründet durch
+
+- a langjährigen Wohnsitz,
+- b besondere Verbindung familiärer Art oder
+- c berufliche, kulturelle oder soziale Leistungen.
+
+#### Art. 6
+
+**Kommunaler Entscheid und Aktenweitergabe**
+
+<sup>1</sup> Die Gemeinden halten die für die Einbürgerung oder Einburgerung massgebenden Sachverhalte im Entscheid über die Zusicherung des Gemeindebürgerrechts oder des Gemeindeburgerrechts fest.
+
+<sup>2</sup> Die Gemeinden sind verpflichtet, für den Entscheid über die Zusicherung des Gemeindebürgerrechts oder des Gemeindeburgerrechts das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+
+<sup>3</sup> Die Gemeinden leiten dem MIP sämtliche rechtskräftige verfahrensabschliessende Entscheide mit den vollständigen Verfahrensakten weiter.
+
+### 2.2 Ausländerinnen und Ausländer
+
+### 2.2.1 Materielle Voraussetzungen
+
+#### Art. 7
+
+**Einbürgerungstest im Allgemeinen**
+
+<sup>1</sup> Ausländerinnen und Ausländer haben vor der Gesuchseinreichung bei der Gemeinde einen von dieser organisierten Einbürgerungstest zu absolvieren.
+
+<sup>2</sup> Getestet werden folgende Themen:
+
+- a Geografie, Geschichte, Sprachen, Religionen und Feiertage der Schweiz und des Kantons Bern,
+- b politische und gesellschaftliche Verhältnisse, Demokratie, Föderalismus sowie Rechte und Pflichten der Bürgerinnen und Bürger,
+- c soziale Sicherheit, Gesundheit, Arbeit und Bildung.
+
+<sup>3</sup> Der Einbürgerungstest ist schriftlich und in der Amtssprache nach Artikel 12 Absatz 1 Buchstabe d KBüG zu absolvieren. Er dauert 90 Minuten und gilt als bestanden, wenn mindestens 60 Prozent der Fragen korrekt beantwortet worden sind.
+
+<sup>4</sup> Vom Einbürgerungstest befreit sind
+
+- a Kinder, die zum Zeitpunkt der Gesuchseinreichung unter 16 Jahre alt sind,
+- b Personen, die während mindestens fünf Jahren die obligatorische Schule nach schweizerischem Lehrplan besucht haben,
+- c Personen, die eine Ausbildung auf Sekundarstufe II nach schweizerischem Lehrplan oder Tertiärstufe in der Schweiz abgeschlossen haben.
+
+<sup>5</sup> Die persönlichen Verhältnisse der Ausländerin oder des Ausländers nach Artikel 9 Buchstabe a, b und c Ziffer 1 der Verordnung vom 17. Juni 2016 über das Schweizer Bürgerrecht (eidgenössische Bürgerrechtsverordnung, BüV)[^7-1] sind in klar begründeten Fällen angemessen zu berücksichtigen.
+
+[^7-1]: SR [141.01](https://db.clex.ch/link/Bund/141.01/de)
+
+#### Art. 8
+
+**Durchführung des Einbürgerungstests**
+
+<sup>1</sup> Die Gemeinden sorgen dafür, dass die Einbürgerungstests mindestens dreimal jährlich durchgeführt werden. Sie können diese zusammen mit anderen Gemeinden durchführen oder an öffentliche oder private Anbieterinnen und Anbieter delegieren.
+
+<sup>2</sup> Die Kosten für den Einbürgerungstest gehen vollumfänglich zulasten der Ausländerinnen und Ausländer.
+
+#### Art. 9
+
+**Folgen des Bestehens oder Nichtbestehens des Einbürgerungstests**
+
+<sup>1</sup> Über das erfolgreiche Bestehen des Einbürgerungstests wird eine Bestätigung ausgestellt.
+
+<sup>2</sup> Der Nachweis des erfolgreich bestandenen Einbürgerungstests befreit die Gemeinden und das MIP nicht von der Überprüfung des Vertrautseins mit den schweizerischen und örtlichen Lebensverhältnissen nach Artikel 12 Absatz 1 Buchstabe b KBüG.
+
+<sup>3</sup> Wird der Einbürgerungstest nicht bestanden, wird den Ausländerinnen und Ausländern der Besuch eines Einbürgerungskurses empfohlen.
+
+#### Art. 10
+
+**Schriftliche Erklärung (Selbstdeklaration)**
+
+<sup>1</sup> Ausländerinnen und Ausländer bestätigen durch Unterzeichnung einer schriftlichen Erklärung auf dem amtlichen Formular,
+
+- a dass sie die öffentliche Sicherheit und Ordnung nach Artikel 4 BüV beachten,
+- b dass gegen sie keine strafrechtlichen Verurteilungen im Ausland wegen Vergehen oder Verbrechen vorliegen,
+- c dass sie die Werte der Bundes- und Kantonsverfassung achten und
+- d dass sie die Integration von Familienmitgliedern fördern.
+
+<sup>2</sup> Die Erklärung ist durch Ausländerinnen und Ausländer ab vollendetem 16. Altersjahr zu unterzeichnen.
+
+#### Art. 11
+
+**Beachtung der öffentlichen Sicherheit und Ordnung im Bereich Straffälligkeit**
+
+<sup>1</sup> Einträge im Strafregister-Informationssystem VOSTRA stehen einer Einbürgerung nach Massgabe von Artikel 4 BüV entgegen.
+
+<sup>2</sup> Ausländerinnen und Ausländer zwischen dem vollendeten 10. und 18. Altersjahr gelten zudem nicht als erfolgreich integriert, wenn sie in den letzten drei Jahren vor der Gesuchseinreichung oder während des Einbürgerungsverfahrens ein Vergehen oder Verbrechen begangen haben, zu dem sie rechtskräftig verurteilt worden sind.
+
+<sup>3</sup> Die Gemeinden prüfen die Beachtung der öffentlichen Sicherheit und Ordnung im Bereich Straffälligkeit bei volljährigen Ausländerinnen und Ausländern aufgrund des Strafregisterauszugs für Privatpersonen sowie bei Ausländerinnen und Ausländern zwischen dem vollendeten 10. und 25. Altersjahr aufgrund des Voraktenverzeichnisses der Jugendanwaltschaft.
+
+<sup>4</sup> Die Gemeinden können unter Beilage einer Kopie des Einbürgerungsgesuchs und des eingereichten Strafregisterauszugs für Privatpersonen beim MIP schriftlich Auskunft über allfällige Einträge im Strafregister-Informationssystem VOSTRA verlangen, die für das hängige Einbürgerungsverfahren von Bedeutung sein können.
+
+#### Art. 12
+
+**Sprachkenntnisse und -nachweis**
+
+<sup>1</sup> Gute Kenntnisse der Amtssprache im Sinne von Artikel 12 Absatz 1 Buchstabe d KBüG liegen vor, wenn die Ausländerin oder der Ausländer über Sprachkompetenzen auf dem Niveau B1 (mündlich) und A2 (schriftlich) des Gemeinsamen Europäischen Referenzrahmens für Sprachen des Europarates (GER) verfügt.
+
+<sup>2</sup> Ausländerinnen und Ausländer haben die erforderlichen Sprachkenntnisse im Sinne von Absatz 1 durch einen vom Staatssekretariat für Migration anerkannten Sprachnachweis zu belegen.
+
+<sup>3</sup> Der Sprachnachweis nach Absatz 2 gilt als erbracht, wenn eine der Voraussetzungen nach Artikel 6 Absatz 2 BüV erfüllt wird.
+
+<sup>4</sup> Die persönlichen Verhältnisse der Ausländerin oder des Ausländers nach Artikel 9 Buchstabe a, b und c Ziffer 1 BüV sind in klar begründeten Fällen angemessen zu berücksichtigen.
+
+<sup>5</sup> Die Kosten zur Erlangung des Sprachnachweises gehen vollumfänglich zulasten der Ausländerinnen und Ausländer.
+
+#### Art. 13
+
+**Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung**
+
+<sup>1</sup> Für die Beurteilung der Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung sind Artikel 7 Absatz 1 und 2 BüV sowie Artikel 12 Absatz 1 Buchstabe c KBüG massgebend.
+
+<sup>2</sup> Die persönlichen Verhältnisse der Ausländerinnen und Ausländer nach Artikel 9 Buchstabe a, b und c Ziffer 4 BüV sind in klar begründeten Fällen angemessen zu berücksichtigen. Die persönlichen Verhältnisse nach Artikel 9 Buchstabe c Ziffer 2 und 3 BüV sind nur insoweit zu berücksichtigen, als sie eine Einbürgerung unangemessen lange verunmöglichen, so dass damit eine besondere Härte verbunden ist.
+
+<sup>3</sup> Personen, die miteinander verheiratet sind oder in eingetragener Partnerschaft leben, haften für gemeinsam bezogene Leistungen der Sozialhilfe solidarisch.
+
+<sup>4</sup> Leistungen der Sozialhilfe, die für minderjährige Familienmitglieder bezogen wurden, werden nicht im Sinne von Artikel 12 Absatz 1 Buchstabe c KBüG berücksichtigt.
+
+<sup>5</sup> Zurückbezahlte Leistungen der Sozialhilfe werden an die zuletzt bezogenen Leistungen angerechnet.
+
+#### Art. 14
+
+**Einhaltung der finanziellen Verpflichtungen**
+
+<sup>1</sup> Ausländerinnen und Ausländer haben ihren finanziellen Verpflichtungen nachzukommen. Der Nachweis erfolgt durch Vorlage von Betreibungsregisterauszügen der Aufenthaltsorte der letzten fünf Jahre.
+
+<sup>2</sup> Die Betreibungsregisterauszüge dürfen in den letzten fünf Jahren vor Gesuchseinreichung und während des Einbürgerungsverfahrens keine offenen Verlustscheine und keine offenen Betreibungen aufweisen.
+
+<sup>3</sup> Betreibungen, gegen die Rechtsvorschlag erhoben worden ist, sind nicht zu berücksichtigen, sofern der Rechtsvorschlag vor mehr als einem Jahr erfolgt ist und die Gläubigerin oder der Gläubiger keine Bemühungen unternommen hat, den Rechtsvorschlag zu beseitigen.
+
+<sup>4</sup> Definitiv veranlagte, offene Steuerschulden stehen einer Einbürgerung entgegen, wenn keine Abzahlungsvereinbarung mit der Steuerbehörde vorliegt oder die Vereinbarung nicht eingehalten wird.
+
+<sup>5</sup> Personen, die miteinander verheiratet sind oder in eingetragener Partnerschaft leben, haften für finanzielle Verpflichtungen solidarisch.
+
+### 2.2.2 Verfahren
+
+#### Art. 15
+
+**Gesuch**
+
+<sup>1</sup> Das Einbürgerungsgesuch ist auf dem amtlichen Gesuchsformular zusammen mit den erforderlichen Unterlagen bei der Gemeinde einzureichen, um deren Bürgerrecht ersucht wird.
+
+<sup>2</sup> Ausländerinnen und Ausländer sowie die Gemeinden sind verpflichtet, das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+
+#### Art. 16
+
+**Erforderliche Gesuchsunterlagen**
+
+<sup>1</sup> Dem Einbürgerungsgesuch sind folgende Unterlagen beizulegen:
+
+- a Bestätigung über den registrierten Personenstand für ausländische Staatsangehörige und Staatenlose ausgestellt durch ein schweizerisches Zivilstandsamt,
+- b Kopie der Niederlassungsbewilligung,
+- c Kopie des Reisepasses oder der Identitätskarte,
+- d Wohnsitz- oder Aufenthaltsnachweise für den für die Einbürgerung relevanten Zeitraum nach Artikel 9 BüG und Artikel 11 KBüG unter Nachweis der jeweiligen Aufenthaltstitel,
+- e Strafregisterauszug für Privatpersonen (ab Volljährigkeit),
+- f Auszüge aus den Betreibungsregistern der Aufenthaltsorte der letzten fünf Jahre und, sofern verheiratet oder in eingetragener Partnerschaft lebend, auch von der Ehegattin oder vom Ehegatten bzw. von der eingetragenen Partnerin oder vom eingetragenen Partner (ab Volljährigkeit),
+- g Bestätigung über die Bezahlung der Steuern (ab Volljährigkeit),
+- h Bestätigung über das aktuelle Arbeitsverhältnis, die Ausbildung oder den Bezug von Leistungen der Sozialversicherungen (ab dem vollendeten 15. Altersjahr),
+- i Nachweis über den Bezug oder Nichtbezug von Leistungen der Sozialhilfe in den letzten zehn Jahren vor Gesuchseinreichung oder über deren Rückzahlung (ab Volljährigkeit),
+- k Bestätigung über den erfolgreichen Abschluss des Einbürgerungstests,
+- l Nachweis der guten Kenntnisse der Amtssprache des jeweiligen Verwaltungskreises nach Artikel 12,
+- m unterzeichnete schriftliche Erklärung nach Artikel 10.
+
+<sup>2</sup> Die Gemeinden bestimmen, welche weiteren Unterlagen dem Gesuch beizulegen sind.
+
+#### Art. 17
+
+**Verfahrenssprache**
+
+<sup>1</sup> Die Verfahrenssprache richtet sich nach der für die Einbürgerung massgebenden Amtssprache nach Artikel 12 Absatz 1 Buchstabe d KBüG.
+
+#### Art. 18
+
+**Ablauf**
+
+<sup>1</sup> Die Gemeinden treffen die nach kantonalen Vorgaben für die Integrationsprüfung erforderlichen Erhebungen, führen mit den Ausländerinnen und Ausländern ein Einbürgerungsgespräch und prüfen die Einbürgerungsvoraussetzungen.
+
+<sup>2</sup> Sie halten die für die Einbürgerung massgebenden Sachverhalte im amtlichen Erhebungsbericht fest. Dieser wird auf Verlangen des MIP aktualisiert. Die massgebenden Sachverhalte sind bei minderjährigen Kindern dem Alter und Entwicklungsstand entsprechend im Erhebungsbericht festzuhalten.
+
+<sup>3</sup> Sie leiten die rechtskräftigen Entscheide über die Zusicherung des Gemeindebürgerrechts oder deren Verweigerung mit den vollständigen Verfahrensakten an das MIP weiter.
+
+<sup>4</sup> Das MIP prüft das Gesuch nach kommunalen Zusicherungen, trifft allenfalls weitere Erhebungen und holt die eidgenössische Einbürgerungsbewilligung ein.
+
+<sup>5</sup> Die Gemeinden sind verpflichtet, für den Erhebungsbericht sowie den Entscheid über die Zusicherung des Gemeindebürgerrechts die vom MIP zur Verfügung gestellten amtlichen Formulare zu verwenden.
+
+#### Art. 19
+
+**Einbürgerungsgespräch**
+
+<sup>1</sup> Das Einbürgerungsgespräch wird in den Amtsräumen individuell durchgeführt und ist zu protokollieren.
+
+<sup>2</sup> Es ist bei Kindern ab dem 12. Altersjahr dem Alter und Entwicklungsstand entsprechend durchzuführen.
+
+<sup>3</sup> Die Gemeinde prüft die Identität der Ausländerinnen und Ausländer anhand des Reisepasses, der Identitätskarte oder in Ausnahmefällen auf andere geeignete Weise.
+
+#### Art. 20
+
+**Wegzug während des Verfahrens**
+
+<sup>1</sup> Verlegt eine Ausländerin oder ein Ausländer den Aufenthalt vor Zusicherung des Gemeindebürgerrechts in eine andere Gemeinde, wird das Gesuch gegenstandslos.
+
+<sup>2</sup> Verlegt sie oder er den Aufenthalt nach Zusicherung des Gemeindebürgerrechts in eine andere Gemeinde, bleibt der Kanton Bern für die Erteilung des Kantonsbürgerrechts zuständig.
+
+<sup>3</sup> Mit der Beendigung des Aufenthalts in der Schweiz nach Artikel 33 Absatz 3 BüG wird das Gesuch gegenstandslos.
+
+### 2.3 Gemeinsame Bestimmungen
+
+#### Art. 21
+
+**Behandlungsfristen**
+
+<sup>1</sup> Die Gemeinden entscheiden über die Zusicherung des Bürgerrechts in der Regel innerhalb von zwölf Monaten nach Eingang der vollständigen Gesuchsunterlagen.
+
+<sup>2</sup> Für den Kanton gilt die gleiche Behandlungsfrist ab Erhalt des rechtskräftigen Zusicherungsentscheids sowie der vollständigen Verfahrensakten von den Gemeinden.
+
+<sup>3</sup> Während der Sistierung des Verfahrens und der Gesuchsbehandlung durch die Bundesbehörde ruhen die Behandlungsfristen.
+
+#### Art. 22
+
+**Sistierung**
+
+<sup>1</sup> Die Gemeinden und der Kanton können das Verfahren mit Zustimmung der Gesuchstellerin oder des Gesuchstellers jeweils einmalig für höchstens zwei Jahre sistieren, wenn ein anderes Verfahren Auswirkungen auf die Einbürgerungsvoraussetzungen hat.
+
+#### Art. 23
+
+**Mitteilungen**
+
+<sup>1</sup> Das MIP teilt mit
+
+- a den Einbürgerungsgemeinden oder Einburgerungsgemeinden den rechtskräftigen Entscheid über die Einbürgerung oder Einburgerung,
+- b dem für die Beurkundung zuständigen Zivilstandsamt die rechtskräftige Einbürgerung oder Einburgerung,
+- c dem Staatssekretariat für Migration den rechtskräftigen Entscheid über die Einbürgerung.
+
+<sup>2</sup> Die Gemeinde teilt der Gesuchstellerin oder dem Gesuchsteller die rechtskräftige Einbürgerung oder Einburgerung mit.
+
+## 3 Entlassung
+
+#### Art. 24
+
+**Gesuch**
+
+<sup>1</sup> Das Gesuch um Entlassung aus dem Bürgerrecht einer Einwohnergemeinde oder gemischten Gemeinde ist beim MIP einzureichen.
+
+<sup>2</sup> Das Gesuch um Entlassung aus dem Burgerrecht ist bei der Burgergemeinde einzureichen.
+
+#### Art. 25
+
+**Mitteilungen**
+
+<sup>1</sup> Die Burgergemeinde teilt dem MIP die rechtskräftige Entlassung aus dem Burgerrecht unter Beilage der vollständigen Verfahrensakten mit.
+
+<sup>2</sup> Das MIP teilt dem für die Beurkundung zuständigen Zivilstandsamt die rechtskräftige Entlassung aus dem Bürgerrecht oder Burgerrecht mit.
+
+## 4 Aktenaufbewahrung und -einsicht sowie Gebühren
+
+#### Art. 26
+
+**Aktenaufbewahrung und -einsicht**
+
+<sup>1</sup> Die Akten von Einbürgerungs- und Einburgerungsverfahren sowie von Entlassungsverfahren werden durch das MIP aufbewahrt.
+
+<sup>2</sup> Die Gemeinden können kostenfrei in die Akten Einsicht nehmen, die ihre Gemeinde betreffen.
+
+#### Art. 27
+
+**Gebühren**
+
+<sup>1</sup> Die Gemeinden stellen der Gesuchstellerin oder dem Gesuchsteller die kommunalen und kantonalen Gebühren gemeinsam in Rechnung, nachdem das Gemeindebürgerrecht oder Gemeindeburgerrecht zugesichert worden ist.
+
+<sup>2</sup> Das Einbürgerungsverfahren wird erst dann fortgesetzt, wenn die in Rechnung gestellten Gebühren bezahlt worden sind.
+
+<sup>3</sup> Das MIP fordert mindestens einmal jährlich die von den Gemeinden erhobenen kantonalen Gebühren bei den Gemeinden ein.
+
+<sup>4</sup> Die kantonalen Gebührensätze richten sich nach der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^27-1].
+
+[^27-1]: BSG 154.21
+
+## 5 Schlussbestimmungen
+
+#### Art. 28
+
+**Änderung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^28-1] wird geändert.
+
+[^28-1]: BSG 154.21
+
+#### Art. 29
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung vom 1. März 2006 über das Einbürgerungsverfahren (Einbürgerungsverordnung, EbüV) (BSG 121.111) wird aufgehoben.
+
+#### Art. 30
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2018 in Kraft.
+
+Bern, 20. September 2017
+
+Im Namen des Regierungsrates
+
+Der Präsident: Pulver
+
+Der Staatsschreiber: Auer
+
+17-046

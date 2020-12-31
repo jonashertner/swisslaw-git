@@ -1,0 +1,308 @@
+---
+canton: BE
+number: "162.13"
+title: "Règlement sur l’information par les autorités judiciaires civiles, pénales et des mineurs"
+short: RI CPM
+language: fr
+version: 2016-04-01
+valid_until: 2023-12-31
+version_adopted: 2015-11-20
+adopted: 2010-11-12
+in_force: 2011-01-01
+url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/162.13"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/966/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
+
+# Règlement sur l’information par les autorités judiciaires civiles, pénales et des mineurs
+
+(RI CPM)
+
+du 12.11.2010 (état au 01.04.2016)
+
+La Cour suprême du canton de Berne,
+
+vu les articles 33 et 36, alinéa 2 de la loi du 2 novembre 1993 sur l’information du public (LIn)[^ingress-1] ainsi que les articles 8, 12, alinéa 2, lettre f et 38, alinéa 2, lettre b de la loi du 11 juin 2009 sur l’organisation des autorités judiciaires et du Ministère public (LOJM)[^ingress-2],
+
+sur proposition du directoire,
+
+arrête:
+
+[^ingress-1]: RSB 107.1
+[^ingress-2]: RSB 161.1
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet et domaine d’application**
+
+<sup>1</sup> Le présent règlement régit l’information du public sur l’activité des autorités judiciaires civiles, pénales et des mineurs.
+
+<sup>2</sup> Il s’applique à la Cour suprême, au Tribunal cantonal des mesures de contrainte, au Tribunal pénal économique, au Tribunal des mineurs, aux tribunaux régionaux, aux tribunaux régionaux des mesures de contrainte, ainsi qu’aux autorités de conciliation.
+
+#### Art. 2
+
+**Principes**
+
+<sup>1</sup> Les autorités judiciaires civiles, pénales et des mineurs donnent des informations dans les procédures pendantes, en se fondant sur la législation concernant la procédure et d’autres dispositions légales applicables.
+
+<sup>2</sup> Pour ce faire, elles prennent en considération les intérêts dignes de protection des personnes participant à la procédure, en particulier leur sphère privée.
+
+<sup>3</sup> Le contenu des décisions judiciaires ne fait pas l’objet de commentaires de la part des autorités judiciaires.
+
+#### Art. 3
+
+**Services d’information**
+
+<sup>1</sup> Chaque autorité judiciaire dispose d’un service d’information. Celui-ci réceptionne les demandes, transmet, coordonne et informe. Les autres compétences, en particulier celles de la direction de la procédure en vertu des articles 13 à 15, sont réservées.
+
+<sup>2</sup> Les services d’information sont assurés par
+
+- a le secrétaire général ou la secrétaire générale pour la Cour suprême,
+- b le ou la juge en chef pour le Tribunal cantonal des mesures de contrainte, le Tribunal pénal économique, ainsi que les autorités régionales de conciliation,
+- c les présidents et les présidentes du Tribunal des mineurs pour le Tribunal des mineurs,
+- d le greffier ou la greffière en chef pour le tribunal régional concerné.
+
+<sup>3</sup> En règle générale, les demandes orales reçoivent des réponses orales, les demandes écrites des réponses écrites.
+
+<sup>4</sup> Si une demande engendre un travail particulier, un émolument peut être perçu sur la base du décret du 24 mars 2010 concernant les frais de procédure et les émoluments administratifs des autorités judiciaires et du Ministère public (décret sur les frais de procédure, DFP)[^3-1].
+
+[^3-1]: RSB 161.12
+
+#### Art. 4
+
+**Recherche, jurisprudence et statistique**
+
+<sup>1</sup> Sur demande de tiers et en tenant compte de la législation sur la protection des données, les autorités judiciaires peuvent communiquer des données personnelles dans un but scientifique qui est sans relation directe avec des personnes.
+
+#### Art. 5
+
+**Administration judiciaire**
+
+<sup>1</sup> Les autorités judiciaires fournissent ouvertement, de manière transparente et dans les limites des dispositions légales des informations concernant les principaux changements organisationnels et de personnel.
+
+<sup>2</sup> Le rapport d’activité annuel de la Cour suprême est publié. Il renseigne sur la marche des affaires des autorités judiciaires civiles, pénales et des mineurs, sur leurs activités administratives, ainsi que sur l’activité de surveillance de la Cour suprême.
+
+#### Art. 6
+
+**Canaux d’information**
+
+<sup>1</sup> Les autorités judiciaires informent via leurs sites internet, ainsi que par les professionnels des médias accrédités.
+
+<sup>2</sup> Lorsque l’intérêt public l’exige, les médias sont informés par l’Office de la communication du canton de Berne (ComBE), indépendamment des accréditations existantes.
+
+<sup>3</sup> Si nécessaire, des communiqués de presse peuvent être diffusés ou des conférences de presse organisées.
+
+<sup>4</sup> L’information répond aux exigences liées au bilinguisme du canton.
+
+## 2 Information d’office
+
+#### Art. 7
+
+**Audiences publiques**
+
+<sup>1</sup> Les audiences devant les autorités judiciaires civiles et pénales sont publiques, dans la mesure où le caractère public n’est pas exclu par des dispositions légales particulières ou par la direction de la procédure.
+
+<sup>2</sup> Les dates et les objets des futures audiences publiques sont publiés sur internet.
+
+#### Art. 8
+
+**Informations concernant la procédure**
+
+<sup>1</sup> Le public peut être informé sur les procédures pendantes ou closes dans le cadre des dispositions légales.
+
+#### Art. 9
+
+**Communication à d’autres autorités**
+
+<sup>1</sup> La direction de la procédure est responsable des communications prévues par la loi, devant être faites aux autres tribunaux ou autorités.
+
+#### Art. 10
+
+**Information concernant la jurisprudence**
+
+<sup>1</sup> La Cour suprême informe le public sur sa jurisprudence en utilisant en particulier les moyens suivants:
+
+- a banque de données des décisions,
+- b collections de décisions,
+- c communiqués de presse,
+- d publications de décisions dans des revues spécialisées et dans des banques de données juridiques.
+
+<sup>2</sup> Le directoire statue sur la collaboration avec des maisons d’édition et sur les moyens de publication appropriés.
+
+<sup>3</sup> Les autorités judiciaires de première instance décident elles-mêmes si elles souhaitent publier les décisions qu’elles ont rendues et qui sont entrées en force.
+
+<sup>4</sup> La publication des décisions a lieu sous une forme anonymisée. En cas de doutes, la direction de la procédure prend les mesures nécessaires relatives à la protection de la personnalité des parties.
+
+#### Art. 10a
+
+**Concept de publication**
+
+<sup>1</sup> La Cour suprême adopte un concept de publication concernant la banque de données des décisions, qui définit notamment
+
+- a quelles sont les décisions qui doivent être publiées;
+- b sous quelle forme les décisions doivent être publiées et
+- c selon quels principes les décisions sont anonymisées.
+
+#### Art. 11
+
+**Communication des décisions de droit civil**
+
+<sup>1</sup> La page de garde et le dispositif de toutes les décisions mettant fin à l’instance du mois précédent peuvent être consultés par le public à partir du quinzième jour du mois, pendant 15 jours ouvrables, au secrétariat du tribunal, à moins que des dispositions légales contraires ou des intérêts prépondérants ne s’y opposent. Les documents peuvent exceptionnellement être disponibles sous une forme anonymisée.
+
+<sup>2</sup> Les décisions rendues dans le cadre de procédures de conciliation, de procédures sommaires écrites, de procédures du droit de la famille, ainsi que celles rendues par l’Autorité de surveillance en matière de poursuite pour dettes et de faillite et par le Tribunal de la protection de l’enfant et de l’adulte ne sont pas rendues accessibles au public.
+
+<sup>3</sup> Sur demande et contre émoluments, les considérants élaborés dans le cadre de décisions qui ne sont pas publiées dans la banque de données des décisions peuvent être remis sous forme anonymisée. La direction de la procédure statue sur la demande.
+
+#### Art. 12
+
+**Communication des décisions de droit pénal**
+
+<sup>1</sup> La page de garde et le dispositif de toutes les décisions mettant fin à l'instance du mois précédent et qui n'ont pas été rendues en audience publique peuvent être consultés par le public à partir du quinzième jour du mois, pendant 15 jours ouvrables, au secrétariat du tribunal, à moins que des dispositions contraires du code de procédure pénale suisse du 5 octobre 2007 (code de procédure pénale, CPP)[^12-1], notamment l’article 69, alinéa 3, de la loi fédérale du 20 mars 2009 sur la procédure applicable aux mineurs (procédure pénale applicable aux mineurs, PPMin)[^12-2], la protection des victimes, d'autres dispositions légales ou des intérêts prépondérants ne s'y opposent. Les documents peuvent exceptionnellement être disponibles sous une forme anonymisée.
+
+<sup>2</sup> Sur demande et contre émoluments, les considérants élaborés dans le cadre de décisions qui ne sont pas publiées dans la banque de données des décisions peuvent être remis sous forme anonymisée. La direction de la procédure statue sur la demande.
+
+[^12-1]: RS 312.0
+[^12-2]: RS 312.1
+
+## 3 Demandes en relation avec la procédure
+
+#### Art. 13
+
+**Renseignements concernant les procédures pendantes ou closes**
+
+<sup>1</sup> La direction de la procédure est compétente pour décider de fournir à des tiers des renseignements spécifiques à la procédure et de permettre à des tiers de consulter les dossiers.
+
+<sup>2</sup> Sont considérés comme des tiers les personnes qui ne participent pas à la procédure en tant que partie ou représentant ou représentante de partie ou d’autorité, y compris les professionnels des médias, ainsi que les tribunaux et les autorités non concernés par l’affaire.
+
+<sup>3</sup> Les dossiers sont les pièces écrites, les enregistrements électroniques ou autres documents qui ont été remis, édités ou établis dans le cadre d’une procédure devant le tribunal, ainsi que les pièces à conviction.
+
+<sup>4</sup> Les demandes doivent être adressées par écrit avec indication des motifs.
+
+#### Art. 14
+
+**Demandes de tribunaux et d’autorités suisses**
+
+<sup>1</sup> Sur demande motivée, les tribunaux et les autorités suisses sont autorisés à consulter les dossiers, dans la mesure où une disposition légale le prévoit.
+
+#### Art. 15
+
+**Demandes de tribunaux et d’autorités étrangers**
+
+<sup>1</sup> Les demandes de tribunaux et d’autorités étrangers visant à se faire remettre des dossiers, à les consulter ou à obtenir des renseignements concernant une procédure judiciaire doivent être traitées selon les dispositions du droit fédéral ou selon les dispositions des traités sur l’entraide judiciaire internationale. Elles doivent être exécutées selon la procédure prévue à cet effet.
+
+<sup>2</sup> Dans la mesure où, selon les dispositions mentionnées, l’entraide judiciaire n’est pas prévue pour le cas concerné, tout renseignement ainsi que remise de dossiers ou droit de consulter le dossier doivent être refusés.
+
+## 4 Accréditation
+
+#### Art. 16
+
+**Conditions**
+
+<sup>1</sup> Les professionnels des médias qui entendent tenir régulièrement la chronique de l’activité judiciaire des autorités judiciaires civiles, pénales et des mineurs pour les médias paraissant ou établis en Suisse doivent demander leur accréditation par écrit à la Cour suprême.
+
+<sup>2</sup> Le directoire accorde l’autorisation si le requérant ou la requérante remplit les conditions d’inscription au registre professionnel; la demande doit être accompagnée d’un curriculum vitae, d’une photo, de l’adresse électronique, ainsi que d’un dossier contenant la carte de presse, une attestation de l’employeur ou tout autre document équivalent.
+
+<sup>3</sup> L’accréditation peut être refusée lorsqu’il existe des doutes sérieux que celui ou celle qui la sollicite n’est pas digne de confiance.
+
+#### Art. 17
+
+**Liste des accréditations**
+
+<sup>1</sup> Le secrétariat général de la Cour suprême tient une liste des professionnels des médias accrédités.
+
+<sup>2</sup> La liste actualisée est régulièrement communiquée aux autorités judiciaires de première instance.
+
+#### Art. 18
+
+**Accréditations du Tribunal administratif**
+
+<sup>1</sup> Les professionnels des médias accrédités par le Tribunal administratif du canton de Berne sont, sur demande, traités comme les professionnels des médias accrédités par la Cour suprême sur la base du présent règlement.
+
+<sup>2</sup> Les professionnels des médias accrédités par le Tribunal administratif du canton de Berne peuvent, s’ils le demandent et s’ils fournissent les données nécessaires, se faire inscrire sur la liste des professionnels des médias accrédités par la Cour suprême.
+
+#### Art. 19
+
+**Principes**
+
+<sup>1</sup> Quiconque rédige un compte rendu de la jurisprudence des autorités judiciaires civiles, pénales et des mineurs est tenu de veiller au respect des intérêts dignes de protection des parties à la procédure, en particulier de leur sphère privée.
+
+<sup>2</sup> Les noms ne peuvent être cités que si la direction de la procédure compétente l’a autorisé ou si les personnes concernées ont donné leur accord.
+
+#### Art. 20
+
+**Prestations de service des autorités judiciaires**
+
+<sup>1</sup> Les professionnels des médias accrédités bénéficient des prestations de service suivantes:
+
+- a information concernant les dates et les objets, ainsi que les parties à la procédure des audiences publiques par courriel (souhait à déposer auprès de l’autorité judiciaire concernée),
+- b remise de documents (acte d’accusation, présentation de l’état de fait, jugement de première instance, etc.) dans les audiences publiques de procédures complexes,
+- c sur demande individuelle, remise des considérants du jugement non anonymisés selon l’article 11, alinéa 1 et article 12, alinéa 1,
+- d envoi du rapport d’activité de la Justice du canton de Berne,
+- e envoi direct des communiqués de presse par courriel.
+
+<sup>2</sup> Les informations et les envois sont effectuées si possible par voie électronique.
+
+<sup>3</sup> Les autorités judiciaires peuvent prévoir un embargo pour la publication des comptes rendus.
+
+#### Art. 21
+
+**Durée et révocation de l’accréditation, sanctions**
+
+<sup>1</sup> L’accréditation vaut pour une durée de quatre ans ou pour le solde des quatre ans si elle est octroyée en cours de période. Les professionnels des médias doivent présenter leur requête de renouvellement de l’accréditation en temps utile.
+
+<sup>2</sup> Le directoire révoque l’accréditation si les conditions posées à son octroi ne sont plus réunies.
+
+<sup>3</sup> Les professionnels des médias accrédités qui enfreignent les dispositions du présent règlement peuvent recevoir un avertissement. Dans les cas graves, l’accréditation sera provisoirement ou durablement retirée. Les tribunaux communiquent à la Cour suprême les infractions constatées.
+
+<sup>4</sup> Les professionnels des médias accrédités sont également responsables du respect des dispositions du présent règlement lorsque des tiers non accrédités traitent les informations reçues des autorités judiciaires à leur place.
+
+#### Art. 22
+
+**Autorisation dans un cas particulier**
+
+<sup>1</sup> La direction de la procédure peut autoriser, pour une procédure déterminée, des professionnels des médias qui s’identifient au moyen d’une carte de presse et d’une attestation de l’employeur et leur fournir pour cette procédure les mêmes prestations de service que celles mentionnées à l’article 20.
+
+<sup>2</sup> Les professionnels des médias qui n’ont pas d’accréditation doivent respecter les mêmes obligations que les professionnels des médias au bénéfice d’une accréditation, notamment les principes de l’article 19.
+
+<sup>3</sup> Les documents d’identification présentés selon l’alinéa 1 ou les copies de ces documents sont consignés dans le dossier.
+
+#### Art. 23
+
+**Prises de vue et de son**
+
+<sup>1</sup> Les prises de vue et de son dans le bâtiment du tribunal ou aux abords de ses entrées, de même que lors d’actes de procédure en dehors du bâtiment sont interdites.
+
+## 5 Dispositions transitoires et dispositions finales
+
+#### Art. 24
+
+**Accréditations selon l’ancien droit**
+
+<sup>1</sup> Les professionnels des médias accrédités avant le 31 décembre 2010 selon l’ancien droit ne reçoivent que les prestations de service selon ce droit.
+
+#### Art. 25
+
+**Abrogation d’un acte législatif**
+
+<sup>1</sup> Le règlement du 9 décembre 1996 sur l’information du public par les tribunaux civils et pénaux (RSB 162.13) est abrogé.
+
+#### Art. 26
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur le 1er janvier 2011.
+
+<sup>2</sup> Il est publié dans le Recueil officiel des lois bernoises.
+
+Berne, le 12 novembre 2010
+
+Au nom de la Cour suprême,
+
+le président: Trenkel
+
+le secrétaire général: Kohler
+
+11-72

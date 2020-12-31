@@ -1,0 +1,613 @@
+---
+canton: BE
+number: "913.111"
+title: Verordnung über das Verfahren bei Boden- und Waldverbesserungen
+short: VBWV
+language: de
+version: 2020-01-01
+valid_until: 2021-03-31
+version_adopted: 2019-10-23
+adopted: 1997-11-05
+in_force: 1998-01-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/913.111"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1783/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Verfahren bei Boden- und Waldverbesserungen
+
+(VBWV)
+
+vom 05.11.1997 (Stand 01.01.2020)
+
+Der Regierungsrat des Kantons Bern,
+
+gestützt auf Artikel 33 des Kantonalen Landwirtschaftsgesetzes vom 16. Juni 1997 (KLwG[^ingress-1]), Artikel 17 des Kantonalen Waldgesetzes vom 5. Mai 1997 (KWaG[^ingress-2]) und Artikel 34 des Gesetzes vom 16. Juni 1997 über das Verfahren bei Boden- und Waldverbesserungen (VBWG[^ingress-3]),
+
+auf Antrag der Volkswirtschaftsdirektion,
+
+beschliesst:
+
+[^ingress-1]: BSG 910.1
+[^ingress-2]: BSG 921.11
+[^ingress-3]: BSG 913.1
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung gilt für alle unter amtlicher Mitwirkung durchgeführten Boden- und Waldverbesserungen.
+
+#### Art. 2
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Abteilung Strukturverbesserungen und Produktion (ASP) ist die zuständige Stelle der Volkswirtschaftsdirektion für Bodenverbesserungen.
+
+<sup>2</sup> Das Amt für Wald und Naturgefahren (AWN) ist die zuständige Stelle der Volkswirtschaftsdirektion für Waldverbesserungen.
+
+<sup>3</sup> Bei gemischten Unternehmen bezeichnen die beiden Amtsstellen nach gegenseitiger Absprache die zuständige Stelle.
+
+#### Art. 3
+
+**Amtliche Mitwirkung**
+
+<sup>1</sup> Die amtliche Mitwirkung wird unter Vorbehalt von Artikel 4 Absatz 3 gewährt bei Boden- und Waldverbesserungen,
+
+- a welche mit öffentlichen Beiträgen unterstützt werden sollen;
+- b welche von Gemeinden, Bäuerten und anderen bereits bestehenden Körperschaften durchgeführt werden, sofern Grundstücke Dritter einbezogen werden;
+- c welche auf Artikel 703 des Zivilgesetzbuches[^3-1] beruhen oder
+- d welche als freiwillige Güterzusammenlegungen im Sinne der Bundesgesetzgebung gelten.
+
+<sup>2</sup> Die zuständige Stelle kann die amtliche Mitwirkung auch den Initiantinnen und Initianten anderer Unternehmen zusichern.
+
+[^3-1]: SR 210
+
+#### Art. 4
+
+**Zusicherung**
+
+<sup>1</sup> Für jedes Unternehmen, das nach dem VBWG[^4-1] durchgeführt werden soll, ist der zuständigen Stelle eine Vorstudie einzureichen.
+
+<sup>2</sup> Die zuständige Stelle prüft die Vorstudie, zieht bei Bedarf besonders betroffene kantonale Fachstellen bei und erstattet den Initiantinnen und Initianten innert 60 Tagen Bericht. Die Ordnungsfrist beginnt, sobald die zuständige Stelle über die nötigen Unterlagen verfügt.
+
+<sup>3</sup> Die zuständige Stelle sichert die amtliche Mitwirkung zu, wenn sich das geplante Unternehmen nach vorläufiger Prüfung als zweckmässig, wirtschaftlich und rechtlich zulässig erweist, den Anforderungen von Artikel 33 KLwG[^4-2] beziehungsweise Artikel 16 KWaG[^4-3] entspricht und die Durchführung im öffentlichen Interesse liegt.
+
+[^4-1]: BSG 913.1
+[^4-2]: BSG 910.1
+[^4-3]: BSG 921.11
+
+#### Art. 5
+
+**Zeitplan**
+
+<sup>1</sup> Zu Beginn des Verfahrens bestimmt die zuständige Stelle in Zusammenarbeit mit den Initiantinnen und Initianten den voraussichtlichen Zeitplan; dieser ist in den Beitragsbeschluss des finanzkompetenten kantonalen Organs aufzunehmen.
+
+<sup>2</sup> Soweit dies im Zeitplan vorgesehen ist, richtet die zuständige Stelle gestützt auf Teilabrechnungen im Verhältnis zum Realisierungsgrad Teilzahlungen aus.
+
+<sup>3</sup> Bei zeitgerechter Durchführung ist die Teilzahlung innert einer Frist von zwei Monaten auszurichten. Die Ordnungsfrist beginnt, sobald die zuständige Stelle über die nötigen Unterlagen verfügt.
+
+#### Art. 6
+
+**Aufsicht des Kantons**
+
+<sup>1</sup> Die zuständige Stelle ist mit der Durchführung, Leitung und Überwachung der Bodenverbesserungen und ihres Unterhalts betraut, soweit diese Aufgaben nicht der Trägerin des Unternehmens oder deren Organen zufallen.
+
+<sup>2</sup> Mit Abschluss des Werkes endet die administrative Aufsicht der zuständigen Stelle über die Trägerin; vorbehalten bleiben Weisungen über den Betrieb und den Unterhalt des Werkes.
+
+#### Art. 7
+
+**Kostenbefreiung**
+
+<sup>1</sup> Für die Tätigkeiten der zuständigen Stelle und der anderen mit der Leitung eines Unternehmens betrauten Verwaltungsorgane werden keine Gebühren erhoben.
+
+<sup>2</sup> Die Bereinigung der Grundpfandrechte nach Abschluss des Unternehmens durch das zuständige Grundbuchamt erfolgt gebührenfrei.
+
+#### Art. 8
+
+**Arbeitsvergabe**
+
+<sup>1</sup> Die Vergabe von Arbeiten und Aufträgen durch die Trägerin einer Boden- oder Waldverbesserung, welche der Kanton mit Beiträgen unterstützt, richtet sich nach den kantonalen Submissionsbestimmungen.
+
+#### Art. 9
+
+**Feststellung der dinglichen Rechte**
+
+<sup>1</sup> Differenzen zwischen Grundbuch, Vermessungswerk und den tatsächlichen Verhältnissen sind nach Möglichkeit zu berichtigen.
+
+#### Art. 10
+
+**Notariatsarbeiten**
+
+<sup>1</sup> Die der Notarin oder dem Notar zugewiesenen Arbeiten im Rahmen des Boden- und Waldverbesserungsunternehmens sind ihr oder ihm von der Trägerin unter Berücksichtigung des Arbeitsaufwandes und der Bedeutung der einzelnen Verrichtungen gemäss einer im Einvernehmen mit der ASP ausgearbeiteten speziellen Honorarordnung des Verbandes bernischer Notarinnen und Notare angemessen zu vergüten.
+
+#### Art. 11
+
+**…**
+
+#### Art. 12
+
+**2. Verfahren**
+
+<sup>1</sup> Die oder der Vorsitzende bestimmt und instruiert das Verfahren.
+
+<sup>2</sup> Die Bodenverbesserungskommission entscheidet nach Anhörung der Parteien; die zuständige Stelle und die Trägerin, soweit sie nicht selber Partei ist, sind zur Vernehmlassung einzuladen.
+
+<sup>3</sup> Einfache und klare Fälle können auf dem Zirkulationsweg erledigt werden. Stimmt ein Mitglied nicht zu oder wünscht es eine Besprechung, ordnet die oder der Vorsitzende eine Verhandlung an.
+
+#### Art. 13
+
+**3. Administration**
+
+<sup>1</sup> Die Gerichtsschreiberin oder der Gerichtsschreiber ist berechtigt, im Auftrage der oder des Vorsitzenden Instruktionsverfügungen zu unterzeichnen.
+
+<sup>2</sup> Sie oder er führt das Verhandlungsprotokoll und fertigt nach den Erwägungen der Kommission und den Weisungen der oder des Vorsitzenden die Entscheide aus.
+
+<sup>3</sup> …
+
+#### Art. 14
+
+**4. Ausstand und Ablehnung**
+
+<sup>1</sup> Für Ausstand und Ablehnung eines Mitgliedes der Kommission, der Gerichtsschreiberin oder des Gerichtsschreibers gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^14-1]).
+
+[^14-1]: BSG 155.21
+
+#### Art. 15
+
+**…**
+
+## 2 Vorbereitung des Unternehmens
+
+#### Art. 16
+
+**Beizugsgebiet**
+
+<sup>1</sup> Grundsätzlich ist für alle gemeinschaftlichen Unternehmen, mit Ausnahme von kleineren Projekten und Wasserversorgungen, ein Beizugsgebiet auszuscheiden.
+
+<sup>2</sup> Das Beizugsgebiet kann auf mehrere Gemeinden ausgedehnt oder in Sektionen unterteilt werden.
+
+<sup>3</sup> Ein Grundstück kann gleichzeitig mehreren Beizugsgebieten zugewiesen werden.
+
+#### Art. 17
+
+**Vorarbeiten 1. Projekt**
+
+<sup>1</sup> Die Initiantinnen und Initianten leiten das Verfahren ein, indem sie um die amtliche Mitwirkung nachsuchen und ein Projekt ausarbeiten.
+
+<sup>2</sup> Für die Kosten des Projektes und des Gründungsverfahrens haften die Initiantinnen und Initianten, sofern sie nicht von der Gemeinde zu tragen sind.
+
+<sup>3</sup> Die Gemeinde trägt die Kosten der Projektauflage und der Eigentümerversammlungen bis und mit der Genossenschaftsgründung.
+
+#### Art. 18
+
+**2. Auflage**
+
+<sup>1</sup> Ist die amtliche Mitwirkung zugesichert, so legt die zuständige Gemeinde folgende Akten gemäss Artikel 30 VBWG[^18-1] während 30 Tagen öffentlich auf:
+
+- a den Plan des Beizugsgebietes (Perimeterplan),
+- b das Verzeichnis der bekannten Eigentümerinnen und Eigentümer der beigezogenen Grundstücke und deren Fläche im Beizugsgebiet (Eigentümer- und Flächenverzeichnis),
+- c den Statutenentwurf zur Orientierung und
+- d das Projekt mit einem Voranschlag der mutmasslichen Gesamtkosten zur öffentlichen Mitwirkung.
+
+<sup>2</sup> Sofern es zweckmässig ist, sind ausserdem aufzulegen:
+
+- a die Bauprojekte und
+- b der auf Prozentangaben beschränkte Kostenverteiler, aus dem der voraussichtliche Anteil der öffentlichen Beiträge ersichtlich sein soll.
+
+<sup>3</sup> Bei Zusammenlegungen sind die Beteiligten auf die mit der Planauflage verbundenen Verfügungsbeschränkungen gemäss Artikel 26 VBWG aufmerksam zu machen. Ein Doppel des Perimeterplanes ist den zuständigen Grundbuchämtern zuzustellen.
+
+[^18-1]: BSG 913.1
+
+#### Art. 19
+
+**3. Orientierungsversammlung**
+
+<sup>1</sup> Spätestens in der ersten Hälfte der Auflagefrist führt die Gemeinde eine Orientierungsversammlung durch.
+
+<sup>2</sup> Sie lädt dazu die Einwohnerinnen und Einwohner im Beizugsgebiet sowie die bekannten Eigentümerinnen und Eigentümer von Grundstücken im Beizugsgebiet ein.
+
+<sup>3</sup> Sind mehrere Gemeinden am Unternehmen beteiligt, so übernimmt die Gemeinde mit der grössten Beizugsfläche die Leitung.
+
+#### Art. 20
+
+**Verfahren vor dem Durchführungsbeschluss**
+
+<sup>1</sup> Sofern es zweckmässig ist, hat die zuständige Stelle im Einvernehmen mit den Initiantinnen und Initianten eine Kommission einzusetzen, die bis zur Wahl der Schätzungskommission deren Aufgaben übernimmt.
+
+#### Art. 21
+
+**Beschlussfassung bei nicht körperschaftlich organisierten Personen**
+
+<sup>1</sup> Nach Abschluss der Vorarbeiten werden die Stimmberechtigten durch die Gemeinde nach Absprache mit der zuständigen Stelle mit eingeschriebenem Brief und durch einmalige Veröffentlichung im amtlichen Anzeiger zur Abstimmungsversammlung eingeladen.
+
+<sup>2</sup> Die Versammlungsleitung wird durch den Gemeinderat bestimmt. Bei grossen, sich über mehrere Gemeinden erstreckenden Perimetern können die Genossenschaftsversammlungen sektionsweise durchgeführt werden; für die Beschlussfassung ist der Gesamtperimeter massgebend.
+
+<sup>3</sup> Wird dem Unternehmen zugestimmt, so wählt die Versammlung nach Beratung und Annahme der Statuten die darin vorgesehenen Organe.
+
+#### Art. 22
+
+**Anordnung**
+
+<sup>1</sup> Wird die Durchführung eines Unternehmens von Amtes wegen angeordnet, so gründen die betroffenen Grundeigentümerinnen und Grundeigentümer in der Regel eine Boden- oder Waldverbesserungsgenossenschaft.
+
+<sup>2</sup> Die Vorschriften über die Durchführung des Unternehmens sind sinngemäss anwendbar. Die zuständige Stelle kann besondere, dem Unternehmen angepasste Durchführungsvorschriften erlassen.
+
+#### Art. 23
+
+**Anmerkung im Grundbuch**
+
+<sup>1</sup> Die zuständige Stelle ordnet die Anmerkung binnen 30 Tagen nach der Beschlussfassung oder der Anordnung von Amtes wegen an.
+
+#### Art. 24
+
+**Genehmigung**
+
+<sup>1</sup> Mit der Genehmigung gehen alle Rechte und Pflichten der Initiantinnen und Initianten und der Gemeinschaft mit befreiender Wirkung für diese auf die Genossenschaft über.
+
+<sup>2</sup> Der Genehmigungsbeschluss verpflichtet alle Beteiligten zur Mitwirkung.
+
+<sup>3</sup> Vorhaben von Gemeinden, Bäuerten, Korporationen und anderen Körperschaften, bei denen auch Grundstücke Dritter beigezogen werden, sowie von Alpkorporationen im Sinne von Artikel 103 und 104 des Einführungsgesetzes zum Zivilgesetzbuch[^24-1] bedürfen der Genehmigung durch die Volkswirtschaftsdirektion wie ein genossenschaftliches Unternehmen.
+
+[^24-1]: BSG 211.1
+
+## 3 Die Boden- oder Waldverbesserungsgenossenschaft
+
+#### Art. 25
+
+**Organe 1. Genossenschaftsversammlung**
+
+<sup>1</sup> Der Genossenschaftsversammlung stehen insbesondere die Änderung der Statuten sowie Wahlen und Abstimmungen zu.
+
+<sup>2</sup> Die Befugnisse der Genossenschaftsversammlung können durch schriftliche Stimmabgabe (Urabstimmung) der Genossenschafterinnen und Genossenschafter ausgeübt werden.
+
+<sup>3</sup> Das Resultat einer Abstimmung oder einer Wahl ist gültig, wenn die Versammlung ordnungsgemäss einberufen oder die schriftliche Stimmabgabe nach den Vorschriften der Statuten durchgeführt wurde.
+
+#### Art. 26
+
+<sup>1</sup> Jedes Mitglied hat ohne Rücksicht auf den Umfang seines Eigentums eine Stimme. Beschlüsse und Wahlen werden grundsätzlich mit dem relativen Mehr der vertretenen Stimmen gefasst.
+
+<sup>2</sup> Die Präsidentin oder der Präsident ist in jedem Fall stimmberechtigt.
+
+<sup>3</sup> Ein Mitglied der Genossenschaft kann sich an einer Versammlung mit schriftlicher Vollmacht durch ein anderes Mitglied, die Pächterin oder den Pächter oder einen handlungsfähigen Angehörigen der Familie vertreten lassen. Die Übernahme mehrerer Stellvertretungen ist unzulässig.
+
+#### Art. 27
+
+**2. Vorstand**
+
+<sup>1</sup> Dem Vorstand der Genossenschaft obliegt die ganze Geschäftsführung, soweit diese in den Statuten nicht ausdrücklich der Genossenschaftsversammlung vorbehalten ist.
+
+<sup>2</sup> Als Präsidentin oder Präsident, Sekretärin oder Sekretär und Kassiererin oder Kassierer können auch Personen gewählt werden, die nicht Eigentümerinnen oder Eigentümer von beigezogenen Grundstücken sind.
+
+<sup>3</sup> Familienangehörige und Pächterinnen und Pächter können als bevollmächtigte Vertretung der Grundeigentümerinnen und Grundeigentümer in den Vorstand gewählt werden.
+
+#### Art. 28
+
+**3. Schätzungskommission**
+
+<sup>1</sup> Der Schätzungskommission, bestehend aus mindestens drei unabhängigen sachverständigen Personen, obliegen insbesondere
+
+- a die Vornahme der mit dem Unternehmen zusammenhängenden Bewertungen und Schätzungen und die Festsetzung der Entschädigungen,
+- b die Beratung der Projektleitung in land-, forst- und betriebswirtschaftlichen Fragen,
+- c die Mitwirkung bei der Neuordnung des Grundeigentums und der anderen dinglichen Rechte,
+- d das Aufstellen des Kostenverteilers,
+- e die Schätzungen und Bewertungen nach Abschluss des Unternehmens und
+- f die Entscheide über die Einsprachen bei öffentlichen Auflagen und Einzelverfügungen ausser bei Perimetereinsprachen.
+
+<sup>2</sup> Genossenschaftsmitglieder können nicht in die Schätzungskommission gewählt werden.
+
+<sup>3</sup> Zur Behandlung der Geschäfte hat die Schätzungskommission die Projektleitung beizuziehen. Sie kann die zuständige Stelle beiladen und in besonderen Fällen Sachverständige beauftragen.
+
+<sup>4</sup> Die Schätzungskommission hat bei allen Schätzungen und Bewertungen klare, zum voraus bestimmte Methoden anzuwenden. Die einzelnen Ergebnisse müssen überprüfbar sein.
+
+#### Art. 28a
+
+**4. Rechnungsrevisorinnen und -revisoren**
+
+<sup>1</sup> Die Rechnungsrevisorinnen und -revisoren überprüfen die Genossenschaftsrechnung auf Vollständigkeit und Nachvollziehbarkeit.
+
+<sup>2</sup> Sie erstatten der Genossenschaftsversammlung Bericht.
+
+#### Art. 29
+
+**Statuten**
+
+<sup>1</sup> Die Statuten müssen Bestimmungen enthalten über:
+
+- a Zweck, Umfang und allfällige Sektionen des Unternehmens,
+- b Rechte und Pflichten der Genossenschaftsmitglieder,
+- c Organisation,
+- d Wahl der Projektleitung und der übrigen Beauftragten,
+- e Ausführung des Unternehmens,
+- f Vorgehen bei Projektänderungen,
+- g Unterhalt des Unternehmens,
+- h Kostenverteilung für Bau und Unterhalt,
+- i Buchführung und Rechnungslegung und
+- k Rechnungsprüfung.
+
+#### Art. 30
+
+**Ausstand, Altersgrenze**
+
+<sup>1</sup> Die Bestimmungen des Gemeindegesetzes über den Ausstand gelten auch für den Vorstand, die Schätzungskommission und die Rechnungsrevisorinnen oder -revisoren.
+
+<sup>2</sup> Der Rücktritt der Mitglieder des Vorstandes und der Schätzungskommission sowie der Rechnungsrevisorinnen oder -revisoren hat in jedem Fall spätestens auf das Ende des 70. Altersjahres zu erfolgen.
+
+#### Art. 31
+
+**Verantwortlichkeit, Abberufung**
+
+<sup>1</sup> Die Haftung der Organe, ihrer Mitglieder und der übrigen Beauftragten gegenüber der Genossenschaft richtet sich nach den Vorschriften des Genossenschaftsrechts, soweit in einzelnen Fällen nicht strengere Haftungsbestimmungen anwendbar sind.
+
+<sup>2</sup> Für Mängel des Werkes haftet die Genossenschaft den Grundeigentümerinnen und Grundeigentümern gemäss den Vorschriften des Obligationenrechts. Der Rückgriff auf weitere Haftpflichtige bleibt vorbehalten.
+
+<sup>3</sup> Die Genossenschaftsversammlung kann die Organe, deren Mitglieder und die übrigen Beauftragten jederzeit aus wichtigen Gründen abberufen.
+
+#### Art. 31a
+
+**Steuerbefreiung**
+
+<sup>1</sup> Genossenschaften, deren Organisation sich nach der Strukturverbesserungsgesetzgebung bestimmt, gelten ohne Weiteres als steuerbefreit.
+
+<sup>2</sup> Sie haben den zuständigen Steuerbehörden auf Verlangen eine Bestätigung der ASP über die Massgeblichkeit der Strukturverbesserungsgesetzgebung vorzulegen.
+
+#### Art. 32
+
+**Änderungen**
+
+<sup>1</sup> Boden- und Waldverbesserungsgenossenschaften können sich mit anderen zu einer neuen Genossenschaft vereinigen, andere Genossenschaften übernehmen, sich aufteilen, Teilgebiete entlassen oder sich solche angliedern.
+
+<sup>2</sup> Perimeteränderungen können von den davon betroffenen Grundeigentümerinnen und Grundeigentümern, dem Vorstand der Genossenschaft oder der Schätzungskommission beantragt werden.
+
+<sup>3</sup> Bei unwesentlichen Perimeteränderungen genügt an Stelle der Auflage die schriftliche Zustimmung der direkt beteiligten Grundeigentümerinnen und Grundeigentümer. Als unwesentlich gelten Änderungen, die weniger als zehn Prozent der Perimeterfläche ausmachen, die Anpassung des Perimeterrandes an bauliche Massnahmen sowie Grenzbereinigungen.
+
+<sup>4</sup> Die nach Absatz 1 gefassten Beschlüsse und die wesentlichen Perimeteränderungen bedürfen der Genehmigung durch die Volkswirtschaftsdirektion.
+
+<sup>5</sup> Die zuständige Stelle genehmigt unwesentliche Perimeteränderungen.
+
+## 4 Durchführung des Unternehmens
+
+### 4.1 Allgemeines
+
+#### Art. 33
+
+**Landbeschaffung**
+
+<sup>1</sup> Um die Durchführung des Unternehmens zu erleichtern, kann die Trägerin Grundstücke und beschränkte dingliche Rechte freihändig erwerben.
+
+<sup>2</sup> Die Volkswirtschaftsdirektion kann die Verpflichtung zu einer späteren Landabtretung für die genannten Werke als öffentlichrechtliche Eigentumsbeschränkung im Grundbuch anmerken lassen.
+
+#### Art. 34
+
+**Dienstbarkeiten**
+
+<sup>1</sup> Soweit es das Unternehmen erfordert, können Dienstbarkeiten und Grundlasten errichtet, gelöscht oder den veränderten Verhältnissen angepasst werden.
+
+<sup>2</sup> Unter der gleichen Voraussetzung können öffentlich-rechtliche Eigentumsbeschränkungen (Durchgangsrechte, Reckwege, Reistrechte und dergleichen) angeordnet oder übertragen werden.
+
+#### Art. 35
+
+**Gemeinsame Anlagen**
+
+<sup>1</sup> Die gemeinsamen Anlagen, wie Feld- und Waldwege, Wasserläufe, technische Anlagen und dergleichen, sind in der Regel der Trägerin zuzuteilen.
+
+<sup>2</sup> Die Übernahme dieser Anlagen durch Gemeinden oder andere Körperschaften bleibt vorbehalten.
+
+<sup>3</sup> Soweit zweckmässig, ist bei Weganlagen, Wasserbauten und dergleichen das anstossende Grundeigentum neu zu ordnen.
+
+#### Art. 36
+
+**Nachträgliche Änderungen**
+
+<sup>1</sup> Zur Behebung nachträglich festgestellter Mängel oder bei veränderten Verhältnissen kann die Volkswirtschaftsdirektion rechtskräftige Pläne bis zur Genehmigung von Amtes wegen abändern.
+
+<sup>2</sup> Das Einspracherecht der betroffenen Grundeigentümerinnen und Grundeigentümer bleibt gewahrt.
+
+#### Art. 37
+
+**Genehmigung abgeschlossener Unternehmen**
+
+<sup>1</sup> Die Volkswirtschaftsdirektion kann ausnahmsweise die Genehmigung nur für einzelne Teile des Beizugsgebietes, für einzelne Grundstücke oder für spätere baubedingte Grenzänderungen verfügen.
+
+<sup>2</sup> Die genehmigten Akten sind durch die zuständige Stelle innert 30 Tagen nach der Genehmigung dem Grundbuchamt für die Aufnahme des Neuzustandes und der damit zusammenhängenden Rechtsänderungen einzureichen.
+
+#### Art. 38
+
+**Rückgabe von übriggebliebenem Land**
+
+<sup>1</sup> Bleibt nach Abschluss des Unternehmens Land übrig und ist es für den Unterhalt entbehrlich, soll es übernahmewilligen Mitgliedern der Trägerin gegen angemessenes Entgelt abgegeben werden. Ausnahmsweise kann die Trägerin anders beschliessen.
+
+### 4.2 Besondere Vorschriften für Zusammenlegungen
+
+#### Art. 39
+
+**Aufnahme und Bewertung des alten Besitzstandes**
+
+<sup>1</sup> Die vorhandenen Grundbuchvermessungen, die Grundbucheintragungen und die öffentlich-rechtlichen Eigentumsbeschränkungen bilden die Grundlage für die Bewertung des alten Besitzstandes.
+
+<sup>2</sup> Die Schätzungskommission bereitet die für das Unternehmen massgebenden Bonitierungsvorschriften vor.
+
+<sup>3</sup> Grundlage für die Bonitierung von Kulturland und Wald bildet in der Regel die Bodenwertkarte, für den Wald zusätzlich der Bestandeswert (Wert der Bestockung).
+
+<sup>4</sup> Ausgehend von der Bodenwertkarte ermittelt die Schätzungskommission die Bonitierungswerte.
+
+<sup>5</sup> Über den Bestand bestrittener privater Rechte und Lasten urteilt das zuständige Regionalgericht. Bestrittene Rechte sind als bestehend zu betrachten, wenn die Einsprecherin oder der Einsprecher innert der von der Schätzungskommission gesetzten Frist keine Klage einreicht.
+
+#### Art. 40
+
+**Neuzuteilung**
+
+<sup>1</sup> Die Projektleitung stellt zusammen mit der Schätzungskommission die für die Neuzuteilung massgebenden Grundsätze auf.
+
+<sup>2</sup> Soweit es dem Unternehmen dient, darf mit Zustimmung der Eigentümerinnen oder der Eigentümer gemeinschaftliches Eigentum aufgeteilt oder neu gebildet werden.
+
+<sup>3</sup> Die Schätzungskommission und die Projektleitung nehmen die Wünsche der Grundeigentümerinnen und Grundeigentümer entgegen und besprechen die Neuzuteilungsvorschläge mit den Beteiligten, deren Besitzstand verändert wird.
+
+#### Art. 41
+
+**Dienstbarkeitsbereinigung**
+
+<sup>1</sup> Die öffentlich aufgelegten Dienstbarkeiten, Grundlasten, Vor- und Anmerkungen der alten Grundstücke gehen auf die neuen Grundstücke über, die übrigen erlöschen.
+
+#### Art. 42
+
+**Mehr- und Minderwerte**
+
+<sup>1</sup> Mehr- und Minderwerte (Nutzholz, Obstbäume, Reben, Leitungsstangen und dergleichen) werden in Geld ausgeglichen.
+
+#### Art. 43
+
+**Entschädigung**
+
+<sup>1</sup> Die beteiligten Grundeigentümerinnen und Grundeigentümer haben Anspruch auf eine Entschädigung in Geld, wenn
+
+- a Wertunterschiede zwischen dem Anspruch auf Neuzuteilung und den neu zugewiesenen Grundstücken auszugleichen sind;
+- b nur ein kleines Grundstück von geringem Wert eingeworfen wurde und kein entsprechender Realersatz geleistet werden kann;
+- c keine anspruchsgerechte Zuteilung möglich ist und die angebotene Minderzuteilung als unzumutbar erscheint;
+- d sie besondere Leistungen zu erbringen haben, die nicht durch Realersatz abgegolten werden können oder
+- e sie andere Nachteile erleiden, die nach den Grundsätzen des Enteignungsrechts einen Entschädigungsanspruch begründen. Vorbehalten bleibt der Ausgleich im Rahmen der Kostenverteilung.
+
+<sup>2</sup> Im Falle einer Mehrzuteilung gemäss Absatz 1 Buchstabe a oder wenn ihr oder ihm aus dem Unternehmen auf andere Weise besondere Vorteile erwachsen, hat die Grundeigentümerin oder der Grundeigentümer der Trägerin eine Entschädigung zu leisten.
+
+<sup>3</sup> Beim Ausgleich einer Mehr- oder Minderzuteilung ist der Bonitätswert nebst einem angemessenen Zuschlag bis zur Höhe des Verkehrswertes zu entschädigen. In den anderen Fällen ist der Verkehrswert massgebend. Dieser ist nach Grundsätzen des Enteignungsrechts zu ermitteln.
+
+#### Art. 44
+
+**Antritt des neuen Besitzstandes**
+
+<sup>1</sup> Die zuständige Stelle kann für einzelne Grundstücke oder Sektionen eine vorzeitige Besitzeinweisung anordnen. Die Rechte der Einsprecherinnen und Einsprecher und der durch die Einspracheerledigung betroffenen Grundeigentümerinnen und Grundeigentümer bleiben in jedem Fall gewahrt.
+
+<sup>2</sup> Gibt eine Grundeigentümerin oder ein Grundeigentümer den bisherigen Besitz nicht frei oder vernachlässigt die Pflichten zur Vorbereitung der Übergabe, so kann die zuständige Stelle geeignete Massnahmen zur Sicherung des Antritts treffen.
+
+## 5 Sicherung der Boden- oder Waldverbesserung
+
+#### Art. 45
+
+**Unterhalt, Bewirtschaftung, Benützung 1. Allgemein**
+
+<sup>1</sup> Die zuständige Stelle überwacht den Unterhalt der Anlagen und deren Benützung.
+
+#### Art. 46
+
+**2. Gemeinschaftliche Unternehmen**
+
+<sup>1</sup> Bei gemeinschaftlichen Unternehmen hat sich die Trägerin spätestens nach Abschluss desselben im Hinblick auf den Unterhalt, die Benützung und die Verwaltung des Werks zu organisieren.
+
+<sup>2</sup> Das Unterhalts- und Benützungsreglement unterliegt der Genehmigung durch die zuständige Stelle. Sie bestimmt im Einzelfall, ob und in welchem Umfang ein Unterhaltsfonds zu äufnen ist.
+
+<sup>3</sup> Übernimmt eine Gemeinde oder eine Dritte oder ein Dritter den Unterhalt, so bezeichnet die zuständige Stelle die zu dessen Sicherung erforderlichen Massnahmen.
+
+<sup>4</sup> Ein Benutzungsanspruch besteht nur im Rahmen der Leistungsfähigkeit der Anlage; neue Benutzerinnen und Benutzer sind zugelassen, soweit die Anlage nicht bereits ausgelastet ist.
+
+<sup>5</sup> Wird eine Anlage auf Begehren Dritter verändert, darf sie in ihrer Wirkung nicht beeinträchtigt werden. Die Trägerin kann verlangen, dass die Anlage so zu ändern ist, dass sich Leistung oder Betrieb verbessern oder sich Mängel beheben lassen.
+
+#### Art. 47
+
+**Ersatzvornahme**
+
+<sup>1</sup> Vernachlässigt die oder der Pflichtige die Bewirtschaftung oder den Unterhalt oder schafft einen gesetzwidrigen Zustand, so setzt die zuständige Stelle unter Androhung der Ersatzvornahme eine Frist zur Erfüllung oder zur Wiederherstellung des gesetzmässigen Zustandes.
+
+<sup>2</sup> Kommt die oder der Pflichtige der Aufforderung nicht oder nur ungenügend nach, so verfügt und vollzieht die zuständige Stelle die Ersatzvornahme auf ihre oder seine Kosten.
+
+<sup>3</sup> Weitergehende Schadenersatzansprüche bleiben vorbehalten.
+
+#### Art. 48
+
+**Anmerkung im Grundbuch**
+
+<sup>1</sup> Die Rückerstattungspflicht und wichtige, an die Beitragsgewährung geknüpfte Bedingungen und Auflagen werden im Grundbuch angemerkt.
+
+<sup>2</sup> Nach Auflösung der Genossenschaft, nach dem Ausscheiden von einzelnen Beteiligten und nach der Rückerstattung von Beiträgen bleiben jene Anmerkungen bestehen, die der Sicherung nicht erloschener Verpflichtungen dienen.
+
+#### Art. 49
+
+**Garantieerklärung**
+
+<sup>1</sup> Ist die Gemeinde Bauherrin, kann sie anstelle der Grundbuchanmerkung eine Garantieverpflichtung für die Rückerstattungen im Sinne der eidgenössischen Bodenverbesserungsverordnung eingehen.
+
+<sup>2</sup> Eine Baubewilligung darf erst erteilt werden, wenn die Rückerstattung erfolgt ist. Das zuständige Gemeindeorgan macht die Baubewilligungsbehörde auf die Rückerstattungspflicht aufmerksam.
+
+<sup>3</sup> Der Anschluss nicht landwirtschaftlich genutzter Liegenschaften an eine mit Boden- oder Waldverbesserungsbeiträgen errichtete Wasserversorgung ist erst zulässig, wenn der zurückzuerstattende Betrag bezahlt ist.
+
+#### Art. 50
+
+**Verjährung**
+
+<sup>1</sup> Die Rückerstattungsforderung des Kantons verjährt nach den Vorschriften des Bundesrechtes.
+
+<sup>2</sup> Die Frist beginnt zu laufen, sobald die zuständige Stelle vom Entstehen des Rückerstattungsanspruchs Kenntnis erhalten hat.
+
+## 6 Rechtspflege
+
+#### Art. 51
+
+**Auflage**
+
+<sup>1</sup> Bei Auflagen sind den bekannten Grundeigentümerinnen und Grundeigentümern, bei der Neuordnung der beschränkten dinglichen Rechte auch den bekannten dinglich Berechtigten, die vorgesehenen Massnahmen unter Hinweis auf die Einsprachemöglichkeit schriftlich mitzuteilen, jedoch ohne dass die Gültigkeit der Auflage von dieser Mitteilung abhängt. Bei umfangreichen Auflageakten, die in ihrer Gesamtheit eingesehen werden, genügt der schriftliche Hinweis auf die Auflage.
+
+<sup>2</sup> Die öffentlichen Auflagen finden auf der Gemeindeschreiberei statt; ist die Gemeindeschreiberei als Auflageort ungeeignet oder berührt das Beizugsgebiet mehrere Gemeinden, so bestimmt die zuständige Stelle, nach Anhören der Gemeinden, wo aufzulegen ist.
+
+<sup>3</sup> Die Auflage ist für die Gründung des Unternehmens vom Gemeinderat und in den übrigen Fällen vom Vorstand im amtlichen Anzeiger bekannt zu machen mit dem Hinweis, dass Einsprachen während der Auflagefrist von 30 Tagen schriftlich mit Begründung bei der Gemeindeschreiberei einzureichen sind.
+
+<sup>4</sup> Bei Unternehmen, die der Umweltverträglichkeitsprüfung unterliegen, ist in jedem Fall zusätzlich der Umweltverträglichkeitsbericht und der Bericht des Amts für Umweltkoordination und Energie aufzulegen.
+
+#### Art. 52
+
+**Einsprache 1. Allgemeines**
+
+<sup>1</sup> Die zuständige Gemeinde überweist die Einsprachen der zuständigen Stelle, welche sie an die entscheidende Behörde weiterleitet.
+
+<sup>2</sup> Die Schätzungskommission versucht, zusammen mit der Projektleitung, der Einsprecherin oder dem Einsprecher sowie allfällig weiteren von der Einsprache betroffenen Grundeigentümerinnen und Grundeigentümern eine gütliche Einigung herbeizuführen. Die zuständige Stelle ist zur Einigungsverhandlung einzuladen.
+
+<sup>3</sup> Bei Behandlung der Einsprachen gegen die Neuordnung der beschränkten dinglichen Rechte und der Vor- und Anmerkungen hat die beauftragte Notarin oder der beauftragte Notar mitzuwirken.
+
+<sup>4</sup> Kann keine Einigung erzielt werden, erlässt die Trägerin eine beschwerdefähige Verfügung.
+
+#### Art. 53
+
+**2. Einsprache gegen das Beizugsgebiet**
+
+<sup>1</sup> Sofern eine Kommission im Sinne von Artikel 20 eingesetzt wurde, so versucht diese bei Einsprachen gegen das Beizugsgebiet eine gütliche Einigung zu erzielen.
+
+<sup>2</sup> Sofern sich im Zeitpunkt der Einsprache keine Trägerin konstituiert hat und keine Kommission im Sinne von Artikel 20 eingesetzt wurde, versucht die zuständige Stelle eine gütliche Einigung herbeizuführen.
+
+<sup>3</sup> Kann keine Einigung erzielt werden, überweist die zuständige Stelle die Einsprache der Bodenverbesserungskommission.
+
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 54
+
+**Altersgrenze**
+
+<sup>1</sup> Für Mitglieder des Vorstandes und der Schätzungskommission sowie Rechnungsrevisorinnen und -revisoren, welche beim Inkrafttreten dieser Verordnung bereits im Amt sind, gilt die Altersgrenze nach Artikel 30 Absatz 2 erst ab dem 1. Januar 2002.
+
+#### Art. 55
+
+**Aufhebung von Erlassen**
+
+<sup>1</sup> Folgende Erlasse werden aufgehoben:
+
+- 1\. Meliorationsverordnung vom 6. Juni 1979,
+- 2\. Verordnung vom 27. April 1994 über die Geschäftsführung der Bodenverbesserungskommission,
+- 3\. Verordnung vom 31. Juli 1964 über das Verfahren bei Anmeldung und Vollzug einer Güterzusammenlegung im Grundbuch und die Obliegenheiten des beigezogenen Notars.
+
+#### Art. 56
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 1998 in Kraft.
+
+Bern, 5. November 1997
+
+Im Namen des Regierungsrates
+
+Die Präsidentin: Zölch
+
+Der Staatsschreiber: Nuspliger
+
+Vom Eidgenössischen Justiz- und Polizeidepartement genehmigt am 21. November 1997.
+
+97-114

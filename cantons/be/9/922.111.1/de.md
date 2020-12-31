@@ -1,0 +1,425 @@
+---
+canton: BE
+number: "922.111.1"
+title: Direktionsverordnung über die Jagd
+short: JaDV
+language: de
+version: 2020-03-01
+valid_until: 2023-02-28
+version_adopted: 2019-12-02
+adopted: 2003-03-27
+in_force: 2003-06-01
+url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.111.1"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/1799/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Direktionsverordnung über die Jagd
+
+(JaDV)
+
+vom 27.03.2003 (Stand 01.03.2020)
+
+Die Volkswirtschaftsdirektion des Kantons Bern,
+
+gestützt auf Artikel 36 der Jagdverordnung vom 26. Februar 2003 (JaV)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: BSG 922.111
+
+## 1 Kategorien von jagdbaren Tierarten
+
+#### Art. 1
+
+<sup>1</sup> Der Abschuss von Gämsen mit dem Patent A kann für folgende Kategorien bewilligt werden:
+
+- a Gämsbock älter als 2 Jahre (Kategorie A1),
+- b Gämsgeiss älter als 2 Jahre (Kategorie A2),
+- c Gämsjährling (Kategorie A3).
+
+<sup>2</sup> Der Abschuss von Rehen mit dem Patent B kann für folgende Kategorien bewilligt werden:
+
+- a Rehbock (Kategorie B1),
+- b Rehgeiss (Kategorie B2),
+- c Rehkitz (Kategorie B3).
+
+<sup>3</sup> Der Abschuss von Rothirschen mit dem Patent C kann für folgende Kategorien bewilligt werden:
+
+- a Kronenhirsch mit beidseitiger Krone (Kategorie C1),
+- b Spiesser (Kategorie C2),
+- c übrige Stiere (Kategorie C3),
+- d Hirschkuh (Kategorie C4),
+- e Hirschkalb (Kategorie C5).
+
+<sup>4</sup> Der Abschuss von Wildschweinen mit dem Patent D kann für folgende Kategorien bewilligt werden:
+
+- a Keiler schwerer als 40 Kilogramm (Kategorie D1),
+- b Bache schwerer als 40 Kilogramm (Kategorie D2),
+- c Wildschweine bis 40 Kilogramm (Kategorie D3).
+
+<sup>5</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann mit der Festlegung der jährlichen Jagdkontingente weitere Auflagen machen.
+
+## 2 Ausgabe von Jagdbewilligungen
+
+#### Art. 2
+
+**Patentgesuche**
+
+<sup>1</sup> Jagdpatente können ab dem 1. Juli und spätestens bis zum 15. August mit dem amtlichen Formular beim Jagdinspektorat beantragt werden.
+
+<sup>2</sup> Wer erstmals ein Patent beantragt, legt dem Formular eine Kopie des Ausweises über die bestandene Jagdprüfung bei.
+
+<sup>3</sup> Massgebend für den Wohnsitz im Sinne der Jagdvorschriften ist der im Niederlassungsausweis angegebene Ort.
+
+<sup>4</sup> Im Antrag für Zusatzpatente ist anzugeben, welche Wildräume bevorzugt werden.
+
+<sup>5</sup> Nach Behandlung aller Patentanträge noch vorhandene, nicht ausgegebene Zusatzpatente können bis spätestens zehn Tage vor Jagdende beim Jagdinspektorat nachbestellt werden.
+
+#### Art. 3
+
+**Ausgabe von Zusatzpatenten**
+
+<sup>1</sup> Die Zusatzpatente werden für bestimmte Wildräume und Wildtierkategorien ausgegeben.
+
+<sup>2</sup> Übersteigt die voraussichtliche Nachfrage nach Zusatzpatenten das Angebot, kann das Jagdinspektorat die Vergabe nach folgenden Kriterien vornehmen:
+
+- a pro Patent A oder B vorerst nur ein Zusatzpatent,
+- b Reihenfolge der Bestellungen,
+- c besondere, in der jährlichen Jagdplanung festgelegte Kriterien.
+
+<sup>3</sup> Um die Nachfrage nach Zusatzpatenten in bestimmten Wildräumen ohne Einschränkungen im Sinne von Absatz 2 befriedigen zu können, darf die festgelegte Anzahl Zusatzpatente um bis zu 30 Prozent überschritten werden.
+
+#### Art. 4
+
+**Gästekarten**
+
+<sup>1</sup> Die Gästekarte ist nur gültig, wenn vor Jagdbeginn alle verlangten Angaben mit Kugelschreiber wahrheitsgetreu eingetragen und mit den Unterschriften bestätigt worden sind.
+
+<sup>2</sup> Der Gast muss sich jederzeit über eine anerkannte Jagdprüfung ausweisen können.
+
+<sup>3</sup> Die mit der Ausgabe von Gästekarten beauftragte Organisation bezeichnet die Ausgabestellen.
+
+<sup>4</sup> Sie ist berechtigt, für die Ausgabe der Gästekarten einen Zuschlag von höchstens zehn Franken als Abgeltung für den eigenen Verwaltungsaufwand zu verlangen.
+
+## 3 Ausübung der Jagd
+
+### 3.1 Nachtansitz
+
+#### Art. 5
+
+<sup>1</sup> Vom 16. November bis Ende Februar kann im Zeitraum von sechs Nächten vor bis vier Nächten nach dem Vollmond (Vollmondperiode) der Nachtansitz auf Wildschwein, Fuchs, Dachs, Edelmarder, Steinmarder (beide Marderarten ausserhalb des Waldes), Waschbär und Marderhund ausgeübt werden, soweit eine Jagdberechtigung für diese Tierarten besteht.
+
+<sup>2</sup> Je Vollmondperiode darf der Ansitz an zwei Orten ausgeübt werden, sofern sie vor der erstmöglichen Ansitznacht bis 18 Uhr der örtlich zuständigen Wildhüterin oder dem örtlich zuständigen Wildhüter gemeldet worden sind.
+
+<sup>3</sup> Während der Vollmondperiode darf höchstens einer der Ansitzorte gewechselt werden, sofern der Wechsel spätestens bis 18 Uhr des Vorabends gemeldet worden ist.
+
+<sup>4</sup> Auf dem Nachtansitz ist die Schussabgabe bei genügender Sicht von 21 Uhr bis 5 Uhr gestattet. Dies gilt auch an den Schontagen im November.
+
+### 3.2 Einsatz von Jagdhunden
+
+#### Art. 6
+
+**Jagdhunde**
+
+<sup>1</sup> Als Jagdhunderassen zugelassen sind die nach Definition des Internationalen Kynologischen Verbandes (FCI) in folgende Gruppen eingeteilten Hunderassen:
+
+- a Terrier (Gruppe 3),
+- b Dachshunde (Gruppe 4),
+- c Lauf- und Schweisshunde (Gruppe 6),
+- d Vorstehhunde (Gruppe 7),
+- e Apportier-, Stöber- und Wasserhunde (Gruppe 8).
+
+<sup>2</sup> Für die Jagd ungeeignet und somit nicht zugelassen sind:
+
+- a Rehhetzer,
+- b stumm jagende Jagdhunde für die Jagd auf Schalen- und Haarraubwild,
+- c Mischlinge aus jagdlich ungeeigneten Kreuzungen,
+- d Jagdhunde, die ausserhalb der ordentlichen Rehjagd vorwiegend Rehwild jagen,
+- e Jagdhunde, die während der Rehjagd vorwiegend Gämsen oberhalb der Waldgrenze jagen.
+
+<sup>3</sup> Das Jagdinspektorat erlässt ergänzende Richtlinien.
+
+#### Art. 7
+
+**Einsatz und Mitführen von Jagdhunden**
+
+<sup>1</sup> Der Einsatz von Jagdhunden ist vorbehältlich der zusätzlichen Einschränkungen für die Bodenjagd nach Artikel 16a Absatz 1 Buchstaben b und c JaV nur unter Einhaltung folgender allgemeinen Voraussetzungen erlaubt:
+
+- a Pro Jägerin oder Jäger dürfen gleichzeitig höchstens zwei geeignete Jagdhunde, gleichgültig welcher Jagdhunderasse, eingesetzt werden.
+- b Für jeden dreijährigen oder älteren Jagdhund muss ein Ausweis über die bestandene Gehorsamsprüfung des Berner Jägerverbandes oder eine vom Jagdinspektorat anerkannte gleichwertige Bestätigung mitgeführt werden.
+
+<sup>2</sup> Für die Jagd auf Haarraubwild und Wildschweine dürfen in den Monaten Dezember und Januar in einer Jagdgruppe insgesamt nicht mehr als zwei Jagdhunde gleichzeitig eingesetzt werden.
+
+<sup>3</sup> Der Einsatz von Jagdhunden ist verboten für die Jagd
+
+- a mit Patent A (Gämse) und C (Hirsch),
+- b mit dem Basispatent und dem Patent D (Wildschwein) in der Zeit vom 2. August bis zum 30. September, soweit es sich nicht um einen geprüften Apporteur zum Bringen des erlegten Wildes nach dem Schuss handelt, gleichgültig welcher Jagdhunderasse,
+- c auf Schwimmvögel mit dem Patent E, soweit es sich nicht um einen geprüften Apporteur handelt, gleichgültig welcher Jagdhunderasse,
+- d am Dienstag, Donnerstag und Freitag in den Monaten Dezember und Januar, ausgenommen die Jagd mit dem Patent E,
+- e im Februar, mit Ausnahme des Einsatzes von geprüften Apporteuren zum Bringen des erlegten Wildes nach dem Schuss.
+
+<sup>4</sup> Das Mitführen von Jagdhunden und der Einsatz eines auf Schweiss geprüften Hundes ist während der ganzen Jagdzeit sowie bei allen Jagdarten gestattet.
+
+#### Art. 8
+
+**Annehmen von Jagdhunden in Gebieten mit Jagdverbot**
+
+<sup>1</sup> Jagdhunde, welche Wildtiere in ein Gebiet mit Jagdverbot hinein verfolgen, dürfen dort nur unter Zurücklassung der Waffe angenommen werden.
+
+#### Art. 9
+
+**Anlernen von jungen Jagdhunden**
+
+<sup>1</sup> Das Anlernen von jungen Jagdhunden ist einzeln an Werktagen im September mit Bewilligung der örtlich zuständigen Wildhüterin oder des örtlich zuständigen Wildhüters gestattet.
+
+<sup>2</sup> Die Bewilligung legt das Gebiet, den Zeitpunkt, die Dauer und die Auflagen des Hundeeinsatzes fest.
+
+### 3.3 Waffen, Munition, Fallen und Lockmittel
+
+#### Art. 10
+
+**Jagdwaffen**
+
+<sup>1</sup> Als Jagdwaffen dürfen verwendet werden
+
+- a ein- oder mehrläufige Kugelgewehre,
+- b Repetierkugelgewehre,
+- c kombinierte Waffen mit je einem oder zwei Kugel- und Schrotläufen,
+- d ein- oder mehrläufige Schrotflinten,
+- e höchstens zweischüssige, repetierbare und selbstladende Schrotflinten,
+- f Faustfeuerwaffen, Einsteckläufe und Fangschussgeber für den Fangschuss auf kurze Distanz,
+- g Einsteckläufe, welche die Anforderungen nach den Artikeln 11 und 12 erfüllen (Kugelpatrone, Schrotpatrone).
+
+#### Art. 11
+
+**Kugelpatronen**
+
+<sup>1</sup> Bei der Jagd auf folgende Tierarten beträgt die zulässige Minimalenergie für Kugelpatronen:
+
+<table>
+<tr><th>Tierart</th><th>Minimalenergie</th><th>Entfernung in Metern</th></tr>
+<tr><td>Rothirsch, Wildschwein, Damhirsch, Sikahirsch, Mufflon</td><td>200 mkg (1962 J)</td><td>200</td></tr>
+<tr><td>Gämse</td><td>150 mkg (1472 J)</td><td>150</td></tr>
+<tr><td>Reh</td><td>100 mkg (981 J)</td><td>100</td></tr>
+<tr><td>Murmeltier</td><td>30 mkg (295 J)</td><td>100</td></tr>
+</table>
+
+<sup>2</sup> Die Wahl der Kugelpatronen für das Erlegen der übrigen Wildarten richtet sich nach den weidmännischen Grundsätzen.
+
+<sup>3</sup> Vollmantelgeschosse und Randfeuerpatronen dürfen nur für den Fangschuss auf kurze Distanz verwendet werden.
+
+#### Art. 12
+
+**Schrotpatronen**
+
+<sup>1</sup> Die Wahl der Schrotkorngrösse für das Erlegen der verschiedenen Wildarten richtet sich nach den weidmännischen Grundsätzen.
+
+<sup>2</sup> Patronen mit Schrotkörnern von mehr als 4½ mm Durchmesser dürfen nicht verwendet werden.
+
+<sup>3</sup> Das Beschiessen von Rothirschen, Wildschweinen, Damhirschen, Sikahirschen, Mufflons, Gämsen und Murmeltieren mit Schrot ist untersagt.
+
+<sup>4</sup> Flintenlaufgeschosse sind nur auf Wildschweine gestattet.
+
+#### Art. 13
+
+**Anlegen von Luderplätzen**
+
+<sup>1</sup> Abseits von Wegen ist das Anlegen von geordneten Luderplätzen für die Fuchsjagd gestattet; es darf jedoch kein Schweinefleisch ausgelegt werden.
+
+### 3.4 Gemeinsame Jagd
+
+#### Art. 14
+
+**Jagdgruppen, Gäste und Dritte**
+
+<sup>1</sup> Die Jagd darf wie folgt in Gruppen ausgeübt werden:
+
+- a Vom 1. September bis Ende November: höchstens fünf Jagdberechtigte; zusätzlich dürfen sich höchstens zwei Personen aktiv an der Jagd beteiligen,
+  - 1\. die eine Gästekarte besitzen,
+  - 2\. welche die persönlichen Voraussetzungen zum Erhalt einer Jagdbewilligung erfüllen und über kein gültiges Basispatent verfügen, oder
+  - 3\. die sich in der jagdlichen Ausbildung befinden.
+- b Vom 1. Dezember bis Ende Februar: Unbeschränkte Anzahl Jagdberechtigte; zusätzlich dürfen sich auf je fünf Jagdberechtigte höchstens zwei Personen aktiv an der Jagd beteiligen, die entweder eine Gästekarte besitzen oder sich in der jagdlichen Ausbildung befinden, und eine weitere Person darf als Treiberin oder Treiber eingesetzt werden.
+
+<sup>2</sup> Innerhalb einer Gruppe ist der Abschuss von Rehen zu Lasten eines anderen Gruppenmitgliedes gestattet.
+
+<sup>3</sup> Zur Erfüllung besonderer Aufgaben, insbesondere für Massnahmen zur Begrenzung von Wildschäden, kann das Jagdinspektorat Ausnahmen bewilligen.
+
+<sup>4</sup> Nimmt eine Person als Hundeführerin oder als Hundeführer im Rahmen der offiziellen Nachsucheorganisation an einer Nachsuche teil, so bleibt der Abschuss von Rehen zu ihren Lasten innerhalb der Gruppe gestattet.
+
+#### Art. 15
+
+**Gesellschaftsjagden**
+
+<sup>1</sup> Das Jagdinspektorat kann den Jägervereinen auf schriftliches Gesuch hin Gesellschaftsjagden bewilligen.
+
+<sup>2</sup> Das Gesuch ist bis spätestens zwei Wochen vor der Gesellschaftsjagd einzureichen unter Angabe des Datums, des Jagdgebietes, der zu bejagenden Wildarten sowie der verantwortlichen Jagdleitung. Falls die Gesellschaftsjagd ausserhalb des eigenen Vereinsgebietes durchgeführt werden soll, ist dem Gesuch das schriftliche Einverständnis des anderen Vereins beizulegen.
+
+<sup>3</sup> Der Abschuss von Rehen zu Lasten einer anderen jadgberechtigten Person der Jagdgesellschaft ist gestattet.
+
+### 3.5 Pflichten nach dem Schuss
+
+#### Art. 16
+
+**Besondere Nachsuchevorschriften**
+
+<sup>1</sup> Auf beschossene Wildtiere ist zeit- und fachgerecht nachzusuchen.
+
+<sup>2</sup> Bleiben Säugetiere nicht im Feuer, ist die jagdberechtigte Person verpflichtet, sofort nach dem Schuss ihren eigenen Standort sowie denjenigen des beschossenen Säugetieres und dessen Fluchtrichtung deutlich zu kennzeichnen. Beim Nachtansitz auf Haarraubwild können diese Massnahmen auch erst mit dem Jagdabbruch getroffen werden.
+
+<sup>3</sup> Auf beschossenes Schalenwild muss die Nachsuche mit einem auf Schweiss geprüften Hund durchgeführt werden. Bei klaren Fehlschüssen kann die Wildhüterin oder der Wildhüter die Jägerin oder den Jäger von dieser Pflicht entbinden.
+
+<sup>3a</sup> Auf beschossene Wasservögel muss die Nachsuche mit einem geprüften Apporteur durchgeführt werden.
+
+<sup>4</sup> Erfolglose Nachsuchen auf Säugetiere und Wasservögel sind der Wildhüterin oder dem Wildhüter am Tag der Schussabgabe zu melden.
+
+<sup>5</sup> Wird das ordnungsgemäss nachgesuchte und gemeldete Schalenwild später verendet aufgefunden, wird auf den Einzug der Wildmarke verzichtet.
+
+#### Art. 17
+
+**Abschusskontrolle, Markierung**
+
+<sup>1</sup> Alle erlegten Wildtiere sind vor Besitzergreifung unter Angabe aller verlangten Informationen mit Kugelschreiber in das Abschusskontrollheft einzutragen und die Richtigkeit der Eintragung mit Unterschrift zu bestätigen.
+
+<sup>2</sup> Erlegte Rehe und Gämsen müssen noch am Abschussort vorschriftsgemäss mit einer gültigen Wildmarke versehen werden. Mit dem Anbringen der Wildmarke müssen Abschusstag und -monat durch Abtrennen der entsprechend beschrifteten Laschen angegeben werden.
+
+<sup>3</sup> Das persönliche, mit allen erforderlichen Eintragungen versehene und unterzeichnete Abschusskontrollheft ist spätestens bis zum 10. März an das Jagdinspektorat einzusenden.
+
+#### Art. 18
+
+**Vorweisungspflicht**
+
+<sup>1</sup> Rothirsche und nicht der vorgeschriebenen Kategorie entsprechend erlegte Gämsen, Rehe und Wildschweine sowie erlegte Muttertiere gemäss Artikel 11 JaV[^18-1] sind der Wildhüterin oder dem Wildhüter innert 24 Stunden zu melden und der Kontrollstelle (Wildhüterin oder Wildhüter bzw. freiwillige Jagdaufseherin oder freiwilliger Jagdaufseher) vorzuweisen.
+
+<sup>2</sup> Die Wildtiere sind ganz ausgeweidet, ohne Lunge, Herz und Leber vorzuweisen. Jeder weitere Eingriff am Tierkörper ist untersagt.
+
+[^18-1]: BSG 922.111
+
+#### Art. 18a
+
+**Meldepflicht und Datenerhebung**
+
+<sup>1</sup> Alle nicht gemäss Artikel 18 vorweisungspflichtigen Gämsen sind innert 24 Stunden nach dem Erlegen zwecks Datenerhebung zu einer vom Jagdinspektorat bezeichneten Stelle zu bringen.
+
+<sup>2</sup> Ist dies ausnahmsweise nicht möglich, ist die Wildhüterin oder der Wildhüter innert der gleichen Frist über den Abschuss zu informieren. Die Tiere sind anschliessend innert 24 Stunden zu einer vom Jagdinspektorat bezeichneten Stelle zu bringen.
+
+<sup>3</sup> Die Wildtiere sind ganz ausgeweidet, ohne Lunge, Herz und Leber zu einer vom Jagdinspektorat bezeichneten Stelle zu bringen. Jeder weitere Eingriff am Tierkörper ist untersagt.
+
+#### Art. 19
+
+**Nicht verwertbare Tiere, Ersatz von Wildmarken**
+
+<sup>1</sup> Infolge Absturzes zerschlagene, nicht mehr verwertbare, kranke, verletzte, von Jagdhunden zerrissene oder widerrechtlich erlegte Tiere müssen in die Abschusskontrolle der jagdberechtigten Person eingetragen und mit der Wildmarke versehen werden.
+
+<sup>2</sup> Beim Abschuss von kranken oder besonders schwachen Tieren kann die Wildhüterin oder der Wildhüter die Wildmarke ersetzen und den Eintrag in der Abschusskontrolle korrigieren.
+
+## 4 Abschussgebühren für Hegeabschüsse
+
+#### Art. 20
+
+<sup>1</sup> Für Hegeabschüsse von Steinwild werden folgende Gebühren erhoben:
+
+- a Grundgebühr Spezialbewilligung: — CHF 100
+- b Abschussgebühr für Jungtiere, 1- bis 2-jährig: — CHF 100
+- c Abschussgebühr für Geissen, 3-jährig oder älter: — CHF 150
+- d Abschussgebühr für Böcke I, 3- bis 5-jährig: — CHF 300
+- e Abschussgebühr für Böcke II, 6- bis10-jährig: — CHF 450
+- f Abschussgebühr für Böcke III, 11-jährig oder älter: — CHF 500
+
+<sup>2</sup> Für Hegeabschüsse von Gämsen in Wildschutzgebieten werden folgende Gebühren erhoben:
+
+- a Grundgebühr Spezialbewilligung — CHF 50
+- b Abschussgebühr für Gämsbock — CHF 200
+- c Abschussgebühr für Gämsgeiss — CHF 150
+- d Abschussgebühr für Gämsjährling — CHF 100
+
+## 5 Gebiete mit Jagdverboten
+
+#### Art. 21
+
+<sup>1</sup> In den im Anhang 1 aufgeführten Gebieten ausserhalb von Wildschutzgebieten ist die Jagd verboten.
+
+## 6 Schlussbestimmung
+
+#### Art. 22
+
+<sup>1</sup> Diese Direktionsverordnung tritt am 1. Juni 2003 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 17.09.2009
+
+#### Art. T1-1
+
+<sup>1</sup> Jagdhunde, welche am 1. Dezember 2009 das dritte Altersjahr vollendet haben, müssen die Voraussetzung gemäss Artikel 7 Absatz 1 Buchstabe b nicht erfüllen.
+
+## A1 Anhang 1: zu Artikel 21
+
+#### Art. A1-1
+
+**Gebiete mit vollständigem Jagdverbot im Berner Mittelland (Art. 15 Abs. 1 Bst. b JaV[^A11-1])**
+
+<sup>1</sup> Wildquerung Islerenhölzli (Strasse T10 zwischen Ins und Gampelen)
+
+- a LK 1:25 000, Blätter: 1145 Bieler See, 1165 Murten
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+<sup>2</sup> Wildquerungen Birchiwald A17.1 (SBB-Neubaustrecke) und A17.2 (A1 und Kantonsstrasse Nr.1)
+
+- a LK 1:25 000, Blatt: 1147 Burgdorf
+- b Grenzen: Im Umkreis von jeweils 350 Metern von den Scheitelpunkten in der Mitte der Überführungen.
+
+<sup>3</sup> Wildquerung Neu-Ischlag A35 (SBB-Neubaustrecke und A1, bei Utzenstorf)
+
+- a LK 1:25 000, Blatt: 1127 Solothurn
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+<sup>4</sup> Wildquerung Grauholz (A1 zwischen Bern und Schönbühl)
+
+- a LK 1:25 000, Blatt: 1167 Worb
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+<sup>5</sup> Wildquerung Stöck (A5 zwischen Pieterlen und Biel)
+
+- a LK 1:25 000, Blatt: 1126 Büren a. A.
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+[^A11-1]: BSG 922.111
+
+#### Art. A1-2
+
+**Gebiete mit vollständigem Jagdverbot im Berner Jura (Art. 15 Abs. 1 Bst. b JaV[^A12-1])**
+
+<sup>1</sup> Wildquerung Tunnel de Loveresse (N16 zwischen Tavannes und Court)
+
+- a LK 1:25 000, Blatt: 1106 Moutier
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+<sup>2</sup> Wildquerung Galerie de Bévilard (N16 zwischen Tavannes und Court)
+
+- a LK 1:25 000, Blatt: 1106 Moutier
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+<sup>3</sup> Wildquerung Ponts Champ Argent (N16 zwischen Tavannes und Court)
+
+- a LK 1:25 000, Blatt: 1106 Moutier
+- b Grenzen: Im Umkreis von 350 Metern vom Mittelpunkt der Unterführung.
+
+<sup>4</sup> Wildquerung Ponts Fin sous Montoz (N16 zwischen Tavannes und Court)
+
+- a LK 1:25 000, Blatt: 1106 Moutier
+- b Grenzen: Im Umkreis von 350 Metern vom Mittelpunkt der Unterführung.
+
+<sup>5</sup> Wildquerung Galerie de Sorvilier (N16 zwischen Tavannes und Court)
+
+- a LK 1:25 000, Blatt: 1106 Moutier
+- b Grenzen: Im Umkreis von 350 Metern vom Scheitelpunkt in der Mitte der Überführung.
+
+[^A12-1]: BSG 922.111
+
+Bern, 27. März 2003
+
+Die Volkswirtschaftsdirektorin:
+
+Zölch-Balmer
+
+03-36
