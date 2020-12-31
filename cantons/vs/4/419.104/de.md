@@ -1,0 +1,216 @@
+---
+canton: VS
+number: "419.104"
+title: Reglement betreffend Gebühren und finanzielle Beiträge an der Pädagogischen Hochschule Wallis
+short: RGeb-PHVS
+language: de
+version: 2020-08-01
+version_adopted: 2020-07-06
+adopted: 2020-07-06
+in_force: 2020-08-01
+url: "https://lex.vs.ch/app/de/texts_of_law/419.104"
+pdf: "https://lex.vs.ch/api/de/versions/2690/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement betreffend Gebühren und finanzielle Beiträge an der Pädagogischen Hochschule Wallis
+
+(RGeb-PHVS)
+
+vom 06.07.2020 (Stand 01.08.2020)
+
+Der Staatsrat des Kantons Wallis
+
+eingesehen die Interkantonale Fachhochschulvereinbarung ab 2005 vom 12. Juni 2003 (FHV);
+
+eingesehen der Artikel 57 Absatz 1 der Kantonsverfassung vom 8. März 1907;
+
+eingesehen das Gesetz über die Pädagogische Hochschule Wallis vom 4. Oktober 1996 (GPH);
+
+auf Antrag des für die Bildung zuständigen Departements,
+
+verordnet[^ingress-1]:
+
+[^ingress-1]: In dem vorliegenden Reglement gilt jede Bezeichnung der Person, des Status oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeines
+
+#### Art. 1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> In diesem Reglement werden die Grundsätze festgelegt, nach denen die Pädagogische Hochschule Wallis (nachfolgend: PHVS) die Anmelde- und Semestergebühren sowie die finanziellen Beiträge, namentlich im Zusammenhang mit Weiterbildungen, und die Verwaltungsgebühren für die von ihr erbrachten Lehrleistungen erhebt.
+
+<sup>2</sup> Es legt die Beträge dafür fest.
+
+<sup>3</sup> Es wird angewendet auf Bewerber für die Studiengänge der Grundausbildung und Zusatzausbildung der PHVS, auf in diesen Studiengängen angenommene Studierende, auf Teilnehmer an Weiterbildungskursen sowie alle anderen Begünstigten von Lehrleistungen, die durch die PHVS erbracht werden.
+
+## 2 Gebühren
+
+#### Art. 2
+
+**Anmeldegebühr**
+
+<sup>1</sup> Die Anmeldegebühr wird bei jeder Eröffnung oder Wiedereröffnung eines Bewerbungsdossiers für die Studiengänge der Grund- und Zusatzausbildung der PHVS erhoben.
+
+<sup>2</sup> Die Gebühr beträgt 200 Franken pro Zulassungsverfahren.
+
+<sup>3</sup> Die Anmeldegebühr kann nicht zurückerstattet werden.
+
+<sup>4</sup> Das Nichtbezahlen der Anmeldegebühr innerhalb der durch die zweite Mahnung eingeräumten Frist führt zur Ungültigkeit der Anmeldung des Kandidaten.
+
+<sup>5</sup> Die Ungültigkeit der Anmeldung führt nicht zur Annullierung der Rechnung.
+
+#### Art. 3
+
+**Semestergebühr**
+
+<sup>1</sup> Die Semestergebühr ist von allen Studierenden der PHVS zu entrichten, die für einen Studiengang der Grundausbildung immatrikuliert oder für eine Zusatzausbildung an der PHVS angemeldet sind.
+
+<sup>2</sup> Die Semestergebühr trägt zur Deckung von namentlich folgenden Leistungen bei:
+
+- a) Zugang zu den verschiedenen Dienstleistungen, Ressourcen und Infrastrukturen der PHVS, namentlich die akademische und pädagogische Betreuung sowie die Informatik-Ressourcen und -Infrastrukturen der PHVS, und Zugang zur kantonalen Mediathek;
+- b) Bereitstellung und Verwaltung eines Informatik- und eines E-Mail-Kontos;
+- c) Prüfungen, Bewertungen während des Studiums und Teilnahme an der Diplomübergabe;
+- d) Ausstellen einer Zulassungsbescheinigung, einer Immatrikulationsbestätigung pro Semester und einer Exmatrikulationsbestätigung;
+- e) Erstellen einer Übersicht zu den besuchten Kursen und den erreichten ECTS-Punkten;
+- f) Ausstellen des erreichten Titels;
+- g) Ausstellen einer Studentenkarte.
+
+<sup>3</sup> Die Semestergebühr beträgt 500 Franken.
+
+<sup>4</sup> Die Semestergebühr kann nicht zurückerstattet werden.
+
+<sup>5</sup> Bei Exmatrikulation vor dem offiziellen Beginn des betreffenden Semesters wird keine Semestergebühr erhoben. Nach dieser Frist ist der gesamte Betrag der Semestergebühr fällig.
+
+<sup>6</sup> Das Nichtbezahlen der Semestergebühr innerhalb der durch die zweite Mahnung eingeräumten Frist führt zur Exmatrikulation.
+
+<sup>7</sup> Die Exmatrikulation führt nicht zur Annullierung der Rechnung.
+
+<sup>8</sup> Die Direktion der PH-VS (nachfolgend: die Direktion) kann auf begründetes Gesuch von Seiten des Studierenden hin besondere Zahlungsmodalitäten definieren, insbesondere im Hinblick auf eine Ratenzahlung oder eine Verlängerung der Zahlungsfrist für die Semestergebühr.
+
+<sup>9</sup> Im Falle eines neuen Immatrikulationsgesuchs müssen Studierende, die nach Nichtbezahlung der Semestergebühr exmatrikuliert wurden, zuerst ihre Schulden begleichen, falls deren Zahlung noch aussteht.
+
+<sup>10</sup> Der Betrag der Semestergebühr für Ausbildungen, die von der PHVS in Zusammenarbeit mit anderen Institutionen organisiert werden, kann vom Betrag abweichen, der in diesem Reglement vorgesehen ist. Gegebenenfalls wird der Betrag der Semestergebühr von der zuständigen Behörde oder der in der Kooperationsvereinbarung für die betreffende Ausbildung genannten Behörde festgelegt.
+
+<sup>11</sup> In der Semestergebühr ist keine Deckung bei Krankheit und Unfall enthalten, diese liegt in der Verantwortung der Studierenden und geht zu deren Lasten.
+
+<sup>12</sup> Nach Erhalt der Bestätigung betreffend die Zulassung zu einem Studiengang der Grundausbildung oder einer Zusatzausbildung hat der eingeschriebene Student 10 Tage Zeit, seine Anmeldung zu stornieren. Erfolgt die Annullierung nicht innerhalb dieser Frist, wird die Gebühr für das erste Studiensemester in Rechnung gestellt und fällig.
+
+#### Art. 4
+
+**Ermässigung der Semestergebühr**
+
+<sup>1</sup> Studierenden, die sich nachweislich in einer prekären finanziellen Situation befinden, kann eine Ermässigung der Semestergebühr zugestanden werden.
+
+<sup>2</sup> Die PHVS legt die Bedingungen, Prozentsätze oder Beträge der Ermässigung in internen Weisungen fest.
+
+#### Art. 5
+
+**Gasthörer**
+
+<sup>1</sup> Die PHVS bietet unter gewissen, in internen Weisungen definierten Bedingungen die Möglichkeit an, Kurse als Gasthörer zu besuchen.
+
+<sup>2</sup> Für jede neue Dossiereröffnung wird eine einmalige Anmeldegebühr von 200 Franken erhoben.
+
+<sup>3</sup> Personen, die als Gasthörer angemeldet und von der PHVS anerkannt sind, müssen zusätzlich zur Anmeldegebühr nach Absatz 2 eine Semestergebühr von 100 Franken pro Semester entrichten.
+
+<sup>4</sup> Die Zahlungsbedingungen und -fristen der Anmelde- und Semestergebühr sind für Gasthörer gleich wie unter Artikel 2 Absatz 3 und folgenden und unter Artikel 3 Absatz 4 und folgenden dieses Reglements beschrieben.
+
+## 3 Finanziellen Beiträge
+
+#### Art. 6
+
+**Beiträge an die Studienkosten**
+
+<sup>1</sup> Die Beiträge an die Studienkosten werden für gewisse von der PHVS erbrachte Leistungen erhoben, die sich von den unter Artikel 3 Absatz 2 beschriebenen Leistungen unterscheiden.
+
+<sup>2</sup> Die PHVS achtet bei den Beiträgen an die Studienkosten auf die Harmonisierung nach Studiengängen und berücksichtigt dabei die erbrachten Leistungen.
+
+<sup>3</sup> Die Beiträge an die Studienkosten tragen zur Deckung von namentlich folgenden Leistungen bei:
+
+- a) ein Druck-/Kopierguthaben von 500 Clics pro Semester;
+- b) IT-Support im Zusammenhang mit der Nutzung der privaten Informatikausrüstung durch die Studierenden (Bring Your Own Device, BYOD);
+- c) Benutzersupport für die Lernplattform(en) (Moodle);
+- d) spezifisches Schulmaterial, das den Studierenden zur Verfügung steht;
+- e) eine Beteiligung an den Kosten für pädagogische und/oder kulturelle Aktivitäten (zum Beispiel: Ausflüge, Besuche, Extramuros-Tage im Rahmen des Studiums, usw.), ob obligatorisch oder fakultativ;
+- f) eine Beteiligung an den Kosten der Spezialwochen, insbesondere in den Bereichen Sport und nachhaltige Entwicklung;
+- g) eine Beteiligung an den Kosten für einige von der PHVS organisierte Förderkurse;
+- h) ein Pauschalbeitrag, der den Studierenden unter bestimmten Bedingungen zur Unterstützung bei kulturellen Aktivitäten gewährt wird;
+- i) die jährlichen Beiträge der PHVS an die Studentenvereinigung (SVPHVS).
+
+<sup>4</sup> Die Beiträge an die Studienkosten sind wie folgt festgesetzt:
+
+- a) Studierenden, die für den Studiengang Primarstufe immatrikuliert sind: 200 Franken pro Semester;
+- b) Studierenden, die für einen der Studiengänge Sekundarstufen I, II oder I.II immatrikuliert sind: 100 Franken pro Semester;
+- c) Studierende, die an Zusatzleistungen im Bereich Ausbildung für den Unterricht in der Regelschule (ZLRS) gebunden sind, müssen auch einen Beitrag an die Studienkosten entrichten. Der Betrag wird gegebenenfalls von der Direktion festgesetzt.
+
+<sup>5</sup> Die Zahlungsbedingungen und -fristen der Beiträge an die Studienkosten sind gleich wie diejenigen der Semestergebühr, die unter Artikel 3 Absatz 4 und folgenden dieses Reglements vorgesehen sind.
+
+#### Art. 7
+
+**Zusätzliche Beiträge für nicht im Wallis wohnhafte Studierende**
+
+<sup>1</sup> Die Studierenden, deren Studiengebühren gemäss Bestimmung des Wohnsitzkantons unter Artikel 3 und 5 der Interkantonalen Fachhochschulvereinbarung ab 2005 (FHV) nicht von einem anderen Schweizer Kanton oder Liechtenstein übernommen werden, sind unter folgenden Bedingungen zur PHVS zugelassen:
+
+- a) sie erfüllen die geltenden Zulassungsbedingungen der PHVS;
+- b) sie bezahlen die Anmeldegebühr, die Semestergebühren und Beiträge an die Studienkosten;
+- c) sie begleichen persönlich den zusätzlichen Beitrag von 100 Franken pro ECTS-Punkt, der die effektiven Ausbildungskosten teilweise deckt. Der Betrag wird nach Anzahl erzielter ECTS-Punkten berechnet und pro Semester in Rechnung gestellt;
+- d) vorbehalten bleiben die Aufenthaltsbewilligungen.
+
+<sup>2</sup> Die Bestimmungen dieses Artikels gelten auch für Studierende mit Wohnsitz ausserhalb der Schweiz, internationale Übereinkommen vorbehalten.
+
+<sup>3</sup> Es liegt in der Verantwortung der Studierenden, den Nachweis für den Wohnsitzkanton im Sinne der Interkantonalen Fachhochschulvereinbarung ab 2005 (FHV) zu liefern. Studierende, die innert der von der PHVS festgelegten Frist kein aussagekräftiges Dokument einreichen, werden als Studierende betrachtet, deren Studiengebühren nicht von einem Schweizer Kanton oder Liechtenstein übernommen werden.
+
+#### Art. 8
+
+**Andere Beiträge zur Deckung der effektiven Ausbildungskosten**
+
+<sup>1</sup> Der Besuch von Wahlkursen im Rahmen der Grundausbildung zieht normalerweise keine zusätzlichen Kosten für Studierende nach sich. Die Direktion kann aber eine Beteiligung an ausserordentlichen Kosten für einen Kurs festlegen, die beispielsweise zur Deckung von allfälligen Material- oder Fahrkosten dient. Diese Beteiligung darf allerdings nicht mehr als 300 Franken pro Kurs und Semester betragen.
+
+<sup>2</sup> Der Besuch von Förderkursen, die im Rahmen der Grundausbildung angeboten werden, kann eine von der Direktion festgelegte finanzielle Beteiligung seitens der Studierenden nach sich ziehen.
+
+<sup>3</sup> Die zu einer Zusatzausbildung der PHVS oder einer von der PHVS mit anderen Einrichtungen organisierten Zusatzausbildung eingeschriebenen Studierenden können zusätzlich zu den in den Artikeln 2, 3 und 6 dieses Reglements beschriebenen Gebühren und Beiträgen zur Beteiligung an der Deckung der effektiven Ausbildungskosten verpflichtet werden. Die Höhe der Beteiligung wird von der zuständigen Behörde oder bei gemeinsam mit anderen Einrichtungen organsierten Ausbildungen von derjenigen, die in der Kooperationsvereinbarung erwähnt ist, festgelegt.
+
+<sup>4</sup> Studierende, die an Zusatzleistungen im Bereich Ausbildung für den Unterricht in der Regelschule (ZLRS) gebunden sind, können verpflichtet werden, sich an den zusätzlichen Ausbildungskosten zu beteiligen. Die Beteiligung wird von der zuständigen Stelle festgelegt.
+
+<sup>5</sup> Personen, die von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (nachstehend: EDK) oder vom für die Bildung zuständigen Departement (nachstehend: Departement) zu Kompensationsmassnahmen verpflichtet wurden, zahlen einen Beitrag von 400 Franken pro ECTS-Punkt. Der Betrag wird nach Anzahl Punkten, für die sie sich angemeldet haben, berechnet. Vorbehaltlich die von der EDK oder dem Departement festgelegten individuellen Höchstbeträge.
+
+<sup>6</sup> Gesuche für eine Aufnahme sur Dossier und der Verfahren zur Validierung der erworbenen Erfahrungen (VAE) unterliegen einer spezifischen Gebühr, die von den Institutionen, die diese beiden Verfahren koordinieren, gemeinsam festgelegt wird.
+
+<sup>7</sup> Die Lehrpersonen, die nicht vom Staat Wallis angestellt sind und eine Weiterbildung für Lehrpersonen aus dem Katalog der PHVS besuchen möchten, werden zu folgenden Bedingungen zugelassen:
+
+- a) der Kurs ist geplant und er findet statt, sofern die Mindestanzahl Teilnehmerinnen und Teilnehmer erreicht wird;
+- b) externen Teilnehmerinnen und Teilnehmern wird eine Grundpauschale von 50 Franken für die Anmeldung verrechnet;
+- c) zusätzlich wird den externen Teilnehmerinnen und Teilnehmern eine Beteiligung von 20 Franken pro Unterrichtsperiode in Rechnung gestellt. Vorbehalten bleiben Sonderfälle.
+
+<sup>8</sup> Die Teilnehmer von Weiterbildungskursen für Lehrpersonen können verpflichtet werden, sich an effektiven Kosten zu beteiligen, die das Material für einen spezifischen Kurs oder pädagogische und/oder kulturelle Aktivitäten im Rahmen eines Kurses betreffen.
+
+## 4 Verwaltungsgebühren
+
+#### Art. 9
+
+**Verwaltungsgebühren**
+
+<sup>1</sup> Die PHVS erhebt Verwaltungsgebühren zur Deckung der effektiven Kosten, die aus gewissen ausserordentlichen Aufgaben entstehen.
+
+<sup>2</sup> Die Art der Gebühren und die Beträge werden von der PHVS festgelegt.
+
+## 5 Schlussbestimmungen
+
+#### Art. 10
+
+**Außergewöhnliche Situationen**
+
+<sup>1</sup> Die Direktion ist für die Behandlung von außergewöhnlichen Situationen zuständig.
+
+#### Art. 11
+
+**Rechtsmittel**
+
+<sup>1</sup> Die von der PHVS verschickten Rechnungen können innert 30 Tagen ab ihrer Ausstellung bei der Direktion schriftlich und mit Begründung angefochten werden.
+
+<sup>2</sup> Die PHVS stellt dann einen formellen Entscheid aus, der mittels Beschwerde beim Staatsrat innert 30 Tagen angefochten werden kann.
+
+CSW RO/AGS 2020-053

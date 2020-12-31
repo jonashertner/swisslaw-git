@@ -1,0 +1,118 @@
+---
+canton: VS
+number: "451.329"
+title: Décision concernant la protection du haut-marais «Flesch» à Goppisberg
+language: fr
+version: 1997-01-17
+corrected: 2017-09-08
+version_adopted: 1996-12-18
+adopted: 1996-12-18
+in_force: 1997-01-17
+url: "https://lex.vs.ch/app/fr/texts_of_law/451.329"
+pdf: "https://lex.vs.ch/api/fr/versions/435/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Décision concernant la protection du haut-marais «Flesch» à Goppisberg
+
+du 18 décembre 1996
+
+Le Conseil d'Etat du canton du Valais
+
+vu la loi fédérale sur la protection de la nature et du paysage du 1er juillet 1966;
+
+vu l'ordonnance sur la protection des hauts-marais et des marais de transition d'importance nationale du 21 janvier 1991 (objet No 420, Flesch);
+
+vu la loi fédérale sur l'aménagement du territoire du 22 juin 1979;
+
+vu la loi du 23 janvier 1987 concernant l'application de la loi fédérale sur l'aménagement du territoire;
+
+vu les dispositions de l'article 186 de la loi cantonale d'application du Code civil du 12 mai 1912;
+
+sur la proposition du Département de l'environnement et de l'aménagement du territoire,
+
+décide:
+
+#### Article premier
+
+**Site protégé**
+
+<sup>1</sup> Le haut-marais de Flesch, situé sur le territoire de la commune de Goppisberg, comprenant les parcelles nos 176, 177, 178, 180, 181, 182, 184, 207 et 210, est déclaré site naturel protégé. L'extrait du plan cadastral joint à l'original de la présente décision fait foi.
+
+<sup>2</sup> Le site protégé sera indiqué sur des panneaux placés à des endroits bien accessibles et sera affecté, selon l'article 17 LAT, en zone de protection dans le plan d'affectation de zones de la commune.
+
+#### Art. 2
+
+**Buts**
+
+La protection de ce site a pour buts:
+
+- 1\. la conservation de ce biotope humide d'importance nationale;
+
+- 2\. la protection des plantes et animaux typiques de ce biotope;
+
+- 3\. la prévention des atteintes nuisibles notamment le surengraissement;
+
+- 4\. l'information de la population sur les buts et les valeurs de la protection de la nature et du paysage.
+
+#### Art. 3
+
+**Mise en valeur, gestion**
+
+Le département prend les mesures nécessaires à la conservation intégrale du site protégé. Dans ce but, il peut conclure des accords et attribuer des mandats.
+
+#### Art. 4
+
+**Interdictions**
+
+Dans le site protégé sont interdits:
+
+- toutes constructions et travaux;
+
+- l'épandage des engrais artificiels et naturels;
+
+- la pénétration dans le marais;
+
+- les atteintes à la flore et à la faune;
+
+- l'extension ou l'aménagement des cultures;
+
+- le drainage ou l'amenée artificielle de l'eau.
+
+#### Art. 5
+
+**Agriculture**
+
+Le fauchage des prés tel qu'il a été fait jusqu'à présent est autorisé dans la zone périphérique du site protégé.
+
+#### Art. 6
+
+**Dérogations**
+
+Des dérogations peuvent être accordées par le département pour sauvegarder et entretenir le biotope et pour des activités à buts scientifiques.
+
+#### Art. 7
+
+**Surveillance**
+
+Le personnel forestier et de la protection de la nature ainsi que les gardes-chasse et les gardes champêtres sont tenus de dénoncer au Service des forêts et du paysage toute infraction à l'article 4.
+
+#### Art. 8
+
+**Sanctions**
+
+<sup>1</sup> Les infractions à la présente décision seront punies par le département ou par le juge, selon les prescriptions de la loi fédérale sur la protection de la nature et du paysage.
+
+<sup>2</sup> L'auteur des dégâts peut être astreint à prendre en charge les frais de remise en état des lieux.
+
+#### Art. 9
+
+**Entrée en vigueur**
+
+La présente décision entre en vigueur dès sa publication au Bulletin officiel.
+
+Ainsi décidé en Conseil d'Etat, à Sion, le 18 décembre 1996.
+
+Le président du Conseil d'Etat: Serge Sierro Le chancelier d'Etat: Henri v. Roten

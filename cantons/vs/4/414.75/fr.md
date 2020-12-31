@@ -1,0 +1,145 @@
+---
+canton: VS
+number: "414.75"
+title: "Loi d'adhésion à la Convention intercantonale relative au contrôle parlementaire sur la haute école spécialisée de Suisse occidentale"
+short: HES-SO
+language: fr
+version: 2003-10-01
+corrected: 2017-08-12
+version_adopted: 2002-09-27
+adopted: 2002-09-27
+in_force: 2003-10-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/414.75"
+pdf: "https://lex.vs.ch/api/fr/versions/492/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Loi d'adhésion à la Convention intercantonale relative au contrôle parlementaire sur la haute école spécialisée de Suisse occidentale (HES-SO)
+
+du 2 avril 2003
+
+Le Grand Conseil du canton du Valais
+
+vu les articles 48 et 186 alinéa 3 de la Constitution fédérale;
+
+vu l'article 38 alinéa 2 de la Constitution cantonale;
+
+vu l'article 41 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs;
+
+vu le protocole d'accord concernant l'approbation de la Convention intercantonale relative au contrôle parlementaire sur la HES-SO du 28 janvier 2000;
+
+sur la proposition du Conseil d'Etat,
+
+ordonne:
+
+#### Article premier
+
+Le canton du Valais adhère à la Convention intercantonale relative au contrôle parlementaire sur la haute école spécialisée de Suisse occidentale (HES-SO).
+
+#### Art. 2
+
+<sup>1</sup> La présente loi est soumise au référendum facultatif.
+
+<sup>2</sup> Le Conseil d'Etat est chargé de l'exécution de la loi.
+
+<sup>3</sup> Le Conseil d'Etat publie au Bulletin officiel la présente loi ainsi que la convention. Il en fixe l'entrée en vigueur.<sup>1</sup>
+
+Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 2 avril 2003.
+
+Le président du Grand Conseil: Caesar Jaeger Le chef du Service parlementaire: Claude Bumann
+
+<sup>1</sup> Entrée en vigueur le 1er octobre 2003.
+
+## Convention intercantonale relative au contrôle parlementaire de la HES-SO
+
+#### Art. 1
+
+**But**
+
+La présente convention a pour but de coordonner le contrôle parlementaire sur la HES-SO en instaurant à cette fin une commission interparlementaire.
+
+#### Art. 2
+
+**Rapport du Comité stratégique**
+
+<sup>1</sup> Les parlements sont saisis chaque année par les gouvernements d’un rapport d’information établi par le Comité stratégique de la HES-SO, portant sur:
+
+- a) les objectifs stratégiques de la HES-SO et leur réalisation, que ceux-ci soient définis ou non dans un mandat de prestation;
+
+- b) le budget annuel de la HES-SO;
+
+- c) les comptes annuels de la HES-SO;
+
+- d) l’évaluation des résultats obtenus par la HES-SO;
+
+En outre, les parlements sont saisis d’un rapport d’information portant sur:
+
+- e) la planification financière pluriannuelle de la HES-SO;
+
+- f) la 1ère évaluation de l’application du concordat à laquelle doit procéder le Comité stratégique dans un délai de quatre ans.
+
+<sup>2</sup> Quant aux contributions des cantons au budget de la HES-SO, elles sont soumises à l’approbation des parlements, conformément à la procédure.
+
+#### Art. 3
+
+**Commission interparlementaire**
+
+<sup>1</sup> Les cantons concordataires conviennent d’instituer une commission interparlementaire composée de sept députés par canton, désignés par chaque parlement selon la procédure qu’il applique à la désignation de ses commissions.
+
+<sup>2</sup> La commission interparlementaire est chargée d’étudier le rapport annuel du Comité stratégique, le plan financier pluriannuel et la 1ère évaluation par le Comité stratégique de l’application du concordat, avant que ceux-ci ne soient portés à l’ordre du jour des parlements.
+
+<sup>3</sup> La commission interparlementaire se réunit au minimum deux fois l’an. Elle peut également se réunir à la demande d’un tiers de ses membres ou sur proposition de son bureau, sur la base d’un ordre du jour préétabli.
+
+#### Art. 4
+
+**Présidence**
+
+<sup>1</sup> Lors de sa première séance annuelle, la CI se donne un président et un vice-président, qu’elle choisit pour une année et chacun à tour de rôle dans la délégation de chaque canton; en l’absence du président et du vice-président, la commission désigne un président de séance.
+
+<sup>2</sup> La séance inaugurale de la Commission interparlementaire est convoquée à l’initiative du bureau du Parlement du canton qui assume la présidence du Comité stratégique; celui-ci fixe le lieu et la date de la réunion après avoir pris l’avis des bureaux des autres parlements.
+
+<sup>3</sup> Chaque délégation cantonale à la Commission interparlementaire se donne un rapporteur.
+
+#### Art. 5
+
+**Votes**
+
+<sup>1</sup> La Commission interparlementaire prend ses décisions à la majorité des députés présents.
+
+<sup>2</sup> Lorsqu’elle émet une recommandation à l’intention des parlements, le procès-verbal fait mention des résultats du vote au sein de chaque délégation cantonale.
+
+<sup>3</sup> Le résultat de ses travaux est consigné dans un rapport adressé aux parlements.
+
+#### Art. 6
+
+**Représentation du Comité stratégique**
+
+<sup>1</sup> Le Comité stratégique est représenté aux séances de la Commission interparlementaire. Il ne participe cependant pas aux votes.
+
+<sup>2</sup> La Commission interparlementaire peut demander au Comité stratégique toutes informations et procéder avec son assentiment à des auditions.
+
+#### Art. 7
+
+**Examen du rapport du Comité stratégique par les parlements**
+
+<sup>1</sup> Les bureaux des parlements portent chacun à l’ordre du jour de la prochaine assemblée utile le rapport du Comité stratégique, accompagné du rapport de la Commission interparlementaire.
+
+<sup>2</sup> Ces rapports sont remis aux députés avant la session, selon la procédure propre à chaque parlement.
+
+<sup>3</sup> Chaque parlement est invité à prendre acte du rapport du Comité stratégique, selon la procédure qui lui est propre.
+
+#### Art. 8
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente convention est portée à la connaissance du Conseil fédéral.
+
+<sup>2</sup> Elle entrera en vigueur après son approbation par l’ensemble des cantons contractants et sa publication au Recueil officiel des lois de la Confédération, à la date fixée par un arrêté commun des gouvernements des cantons contractants.
+
+#### Art. 9
+
+**Dénonciation**
+
+La présente convention peut être dénoncée par chacun des cantons signataires, moyennant un préavis d’une année pour la fin d’une année scolaire.

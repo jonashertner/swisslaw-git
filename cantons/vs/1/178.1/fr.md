@@ -1,0 +1,1509 @@
+---
+canton: VS
+number: "178.1"
+title: Loi sur le notariat
+short: LN
+language: fr
+version: 2014-03-01
+corrected: 2017-09-04
+version_adopted: 2013-11-15
+adopted: 2004-12-15
+in_force: 2006-01-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/178.1"
+pdf: "https://lex.vs.ch/api/fr/versions/623/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Loi sur le notariat
+
+du 15 décembre 2004
+
+Le Grand Conseil du canton du Valais
+
+vu l'article 55 du Titre final du code civil suisse;
+
+vu les articles 31 alinéa 1 chiffre 1 et 42 alinéa 1 de la Constitution cantonale; vu l'article 196 alinéa 1 de la loi d'application du code civil suisse;
+
+sur la proposition du Conseil d'Etat,
+
+ordonne:
+
+### Chapitre 1: De l'organisation du notariat
+
+### Section 1: Dispositions générales
+
+#### Article premier
+
+**Champ d'application**
+
+<sup>1</sup> La présente loi s'applique:
+
+- a) aux notaires autorisés à exercer;
+
+- b) aux titulaires du brevet de notaire qui sollicitent l'autorisation d'exercer;
+
+- c) aux titulaires d'une licence, d'un doctorat en droit ou d'un titre universitaire équivalent, effectuant un stage de notaire.
+
+<sup>2</sup> Elle ne réglemente pas l'instrumentation simplifiée prévue par la loi d'application du code civil suisse.
+
+<sup>3</sup> Les dispositions du droit fédéral relatives à la forme authentique demeurent réservées.
+
+#### Art. 2
+
+**But**
+
+La présente loi tend à la sauvegarde des garanties offertes par la forme authentique et à la protection de la bonne foi dans les affaires.
+
+#### Art. 3
+
+**Statut juridique du notaire**
+
+<sup>1</sup> Le notaire est un organe de la juridiction gracieuse exerçant une fonction étatique.
+
+<sup>2</sup> Il est un officier public exerçant son ministère de manière indépendante, sous la surveillance de l'Etat; il n'est pas un fonctionnaire public.
+
+#### Art. 4
+
+**Compétence matérielle et territoriale**
+
+<sup>1</sup> Le notaire a seul le droit, sous réserve des attributions conférées par la loi à d'autres officiers publics ou à des autorités, de dresser acte des déclarations et constatations auxquelles les intéressés doivent ou veulent donner un caractère authentique.
+
+<sup>2</sup> Le notaire autorisé à pratiquer en application de la présente loi peut instrumenter sur l'ensemble du territoire cantonal.
+
+<sup>3</sup> Le notaire peut instrumenter un acte hors du canton s'il est autorisé par l'autorité compétente du lieu de stipulation.
+
+<sup>4</sup> Il peut, sans cette autorisation, instrumenter hors du canton les actes relatifs aux droits réels immobiliers qui sont de sa compétence territoriale.
+
+#### Art. 5
+
+**Responsabilité civile - Principes**
+
+<sup>1</sup> Le notaire est civilement responsable de tout dommage qu'il cause, soit de manière illicite, intentionnellement ou par négligence, soit en violation de ses obligations contractuelles:
+
+- a) dans l'exercice de son activité ministérielle;
+
+- b) dans l'exercice de son activité professionnelle connexe à son activité ministérielle.
+
+<sup>2</sup> Il répond du fait de ses auxiliaires.
+
+<sup>3</sup> En cas de légalisation de signatures ou d'authentification de copies, il ne répond pas du contenu des actes, sauf s'il s'agit d'un acte qu'il a instrumenté ou qu'il a contribué à rédiger.
+
+<sup>4</sup> L'Etat ne répond pas des conséquences civiles des fautes commises par le notaire.
+
+<sup>5</sup> Demeure réservée la responsabilité du notaire agissant en qualité d'auxiliaire de justice.
+
+#### Art. 6
+
+**Responsabilité civile - Dispositions applicables et procédure**
+
+<sup>1</sup> Les actions civiles découlant de la responsabilité ministérielle ou professionnelle connexe du notaire sont soumises, à titre de droit cantonal supplétif, aux dispositions du code des obligations sur la responsabilité contractuelle du mandataire (art. 97ss, 127ss, 394ss CO).
+
+<sup>2</sup> Le juge civil connaît de l'action en responsabilité. Le code de procédure civile suisse est applicable.[^6-1]
+
+[^6-1]: Nouvelle teneur selon l'art. 10 ch. 5 de la loi d'application du code de procédure civile suisse (LACPC) du 11 fév. 2009. En vigueur depuis le 1er jan. 2011 (BO No 26/2010)
+
+#### Art. 7
+
+**Association des notaires valaisans - Chambre de surveillance**
+
+<sup>1</sup> L'Association des notaires valaisans est formée de tous les notaires pratiquant dans le canton. Ses statuts sont soumis à l'approbation du Conseil d'Etat.
+
+<sup>2</sup> Elle veille à la sauvegarde des intérêts généraux et de la dignité de la profession; elle donne son avis sur toutes les questions concernant le statut des notaires et l'exercice du notariat qui lui sont soumises par le Conseil d'Etat.
+
+<sup>3</sup> Elle perçoit une cotisation annuelle auprès de ses membres, dont une part sert au financement de la formation conformément aux articles 7 alinéa 5 et 12 alinéa 6.
+
+<sup>4</sup> Elle désigne une Chambre de surveillance composée de cinq à sept de ses membres tenus d'accepter leur désignation pendant une période de quatre ans. Pour le surplus, l'organisation de la Chambre de surveillance est arrêtée par le règlement du Conseil d'Etat et les statuts.
+
+<sup>5</sup> Elle assure la formation continue de ses membres.
+
+#### Art. 8
+
+**Compétence générale et procédure**
+
+<sup>1</sup> Sauf disposition contraire, le département dont relèvent les notaires (ci-après: département) veille à la mise en oeuvre de la présente loi et de la législation d'exécution.
+
+<sup>2</sup> La loi sur la procédure et la juridiction administratives est applicable.
+
+#### Art. 9
+
+**Publications au Bulletin officiel**
+
+L'autorisation d'exercer le notariat, la renonciation à la pratique du notariat, le retrait de l'autorisation de pratiquer, la suspension et la destitution sont publiés au Bulletin officiel.
+
+#### Art. 10
+
+**Egalité entre hommes et femmes**
+
+Toute désignation de personne, de statut, de fonction ou de profession utilisée dans la présente loi s'applique indifféremment aux hommes et aux femmes.
+
+### Section 2: Admission à la profession et fin des fonctions
+
+- a) Stage et examen
+
+#### Art. 11
+
+**Stage - Principes**
+
+<sup>1</sup> Nul ne peut accomplir un stage de notaire sans l'autorisation du département; celle-ci est délivrée au candidat qui:
+
+- a) a l'exercice complet des droits civils;
+
+- b) a accompli des études de droit sanctionnées par une licence ou un doctorat délivré par une université suisse, ou encore par un titre universitaire équivalent;
+
+- c) remplit les conditions prévues à l'article 17 lettres b et c;
+
+- d) présente l'attestation d'un notaire pratiquant dans le canton, confirmant sa volonté de vouloir former le candidat.
+
+<sup>2</sup> Le stage est principalement consacré à la formation professionnelle du notaire.
+
+<sup>3</sup> Il ne peut être cumulé avec le stage d'avocat.
+
+#### Art. 12
+
+**Modalités du stage**
+
+<sup>1</sup> Le stage de notaire dure douze mois, en principe sans interruption.
+
+<sup>2</sup> Une interruption continue de plus de huit semaines n'est pas comptée dans la durée du stage.
+
+<sup>3</sup> La durée maximale du stage ne peut excéder cinq ans.
+
+<sup>4</sup> Le stage se fait en l'étude d'un ou, successivement, de plusieurs notaires du canton.
+
+<sup>5</sup> Une partie de ce stage doit être effectuée dans un office du registre foncier et du registre du commerce. Une partie du stage peut, en outre, se faire auprès d'un service de l'administration cantonale ayant des activités en rapport direct avec l'activité ministérielle du notaire.
+
+<sup>6</sup> Pour être admis à l'examen, le stagiaire doit suivre les cours de formation organisés par l'Association des notaires en collaboration avec le département. Le financement de ces cours est assuré à raison de 30 pour cent par les stagiaires et à raison de 70 pour cent par l'Association des notaires.
+
+<sup>7</sup> Le règlement du Conseil d'Etat fixe la durée et les modalités des stages obligatoires.
+
+#### Art. 13
+
+**Examens - Principes**
+
+<sup>1</sup> L'examen de notaire porte sur les connaissances juridiques nécessaires et sur les règles professionnelles.
+
+<sup>2</sup> Il comprend un examen écrit et un examen oral.
+
+<sup>3</sup> L'échec au troisième examen est définitif. Entre le deuxième et le troisième examens, il doit s'écouler au moins une année.
+
+<sup>4</sup> Les épreuves se déroulent devant une commission cantonale d'examens nommée par le Conseil d'Etat. La commission statue en première instance et ses décisions peuvent faire l'objet d'un recours au Tribunal cantonal. Le règlement arrête la composition et l'organisation de la commission d'examens ainsi que le pouvoir de cognition de l'instance de recours.[^13-1]
+
+<sup>5</sup> Il est perçu un émolument d'examen conformément à un tarif arrêté par le Conseil d'Etat. Cet émolument ne sera toutefois pas supérieur à l'émolument de justice que peut percevoir un département dans les affaires administratives non pécuniaires.
+
+[^13-1]: Modification du 15 novembre 2013; BO No 48/2013, BO No 9/2014; Entrée en vigeur: 01.03.14
+
+#### Art. 14
+
+**Matières d'examen**
+
+<sup>1</sup> L'examen écrit comprend la rédaction de quatre actes ou contrats, authentiques ou non.
+
+<sup>2</sup> L'examen oral porte sur les domaines suivants:
+
+- a) le droit notarial, la déontologie et la gestion d'une étude;
+
+- b) le droit public fédéral et cantonal;
+
+- c) le droit privé fédéral et cantonal;
+
+- d) la poursuite pour dettes et la faillite;
+
+- e) le droit international privé;
+
+- f) la procédure administrative et civile;
+
+- g) les notions générales de comptabilité commerciale.
+
+<sup>3</sup> La commission d'examen établit une liste détaillée des matières pour chaque examen.
+
+#### Art. 15
+
+**Brevet de capacité**
+
+<sup>1</sup> Pour obtenir le brevet de notaire, il faut avoir accompli le stage et réussi l'examen.
+
+<sup>2</sup> Pour le surplus, le Conseil d'Etat précise, par voie de règlement, les modalités et le déroulement du stage et de l'examen.
+
+- b) Autorisation d'exercer le notariat
+
+#### Art. 16
+
+**Principe**
+
+<sup>1</sup> L'exercice de la profession de notaire est soumis à autorisation délivrée par le Conseil d'Etat sur rapport du département constatant que le requérant remplit les exigences posées pour la pratique du notariat.
+
+<sup>2</sup> L'autorisation de pratiquer, qui emporte qualité d'officier public, est délivrée en séance du Conseil d'Etat au cours de laquelle le notaire prête serment; le règlement arrête la procédure d'assermentation.
+
+<sup>3</sup> Le notaire autorisé à pratiquer reçoit un sceau officiel dont l'emploi est arrêté par le règlement.
+
+<sup>4</sup> Le département publie annuellement au Bulletin officiel la liste des notaires-officiers publics.
+
+#### Art. 17
+
+**Conditions d'exercice du notariat**
+
+Celui qui requiert l'autorisation de pratiquer le notariat doit remplir les conditions suivantes:
+
+- a) être citoyen suisse et avoir l'exercice complet des droits civils;
+
+- b) ne pas avoir fait l'objet d'une condamnation pénale pour des faits incompatibles avec l'exercice ou la dignité de la profession dont l'inscription n'est pas radiée du casier judiciaire;
+
+- c) ne pas être en faillite, ni être l'objet d'un acte de défaut de biens provisoire ou définitif;
+
+- d) être domicilié en Valais et avoir une étude dans le canton;
+
+- e) être titulaire du brevet valaisan de notaire;
+
+- f) être au bénéfice d'une assurance responsabilité civile suffisante et avoir fourni les sûretés prévues par la loi;
+
+- g) être membre de l'Association des notaires valaisans.
+
+#### Art. 18
+
+**Etude**
+
+<sup>1</sup> Le notaire doit avoir une étude ouverte au public, se prêtant à l'exercice de la profession et séparée de tout autre bureau, à l'exception de celui d'avocat.
+
+<sup>2</sup> Il peut avoir une étude secondaire si l'intérêt public le justifie.
+
+#### Art. 19
+
+**Assurance responsabilité civile et sûretés**
+
+<sup>1</sup> Pour garantir la réparation des dommages qu'il est susceptible de causer dans l'exercice de son activité ministérielle ou professionnelle connexe, le notaire est tenu a) de conclure une assurance responsabilité civile suffisante;
+
+- b) de fournir des garanties complémentaires suffisantes sous la forme de sûretés.
+
+<sup>2</sup> Le Conseil d'Etat fixe:
+
+- a) le montant minimum de la couverture de l'assurance responsabilité civile;
+
+- b) le montant et les modalités des sûretés, le règlement des prétentions sur les sûretés en cas de pluralité des lésés, et le délai de restitution des sûretés à compter de la fin des fonctions.
+
+#### Art. 20
+
+**Incompatibilités - Règle générale**
+
+<sup>1</sup> La pratique du notariat est incompatible avec toute autre activité lucrative prépondérante, sauf celle d'avocat. Demeurent réservés les articles 21 et 22.
+
+<sup>2</sup> Un notaire ne peut pas instrumenter un acte en relation directe avec une affaire dont lui-même ou un de ses associés s'est occupé comme avocat.
+
+#### Art. 21
+
+**Cas d'incompatibilités**
+
+Sont incompatibles avec la pratique du notariat:
+
+- a) les fonctions et emplois exercés au service des collectivités publiques d'une part, des corporations et établissements de droit public d'autre part;
+
+- b) les fonctions de préposé à l'office des poursuites et faillites, du registre foncier et du registre du commerce ou des employés de ces offices;
+
+- c) la promotion immobilière, le commerce et le courtage professionnel des immeubles;
+
+- d) les opérations bancaires et la gestion de fortune effectuées à titre professionnel;
+
+- e) la jouissance d'une prestation complète de retraite du 2e pilier servie par une caisse publique ou par une caisse privée financée par une collectivité publique;
+
+- f) la jouissance, dès 65 ans révolus, d'une prestation de retraite du 2e pilier servie par une caisse publique ou par une caisse privée financée par une collectivité publique.
+
+#### Art. 22
+
+**Activités compatibles**
+
+<sup>1</sup> La pratique du notariat est notamment compatible avec l'exercice simultané:
+
+- a) d'une charge accessoire d'enseignement;
+
+- b) d'un mandat politique à temps partiel;
+
+- c) de la fonction de juge de commune, de suppléant d'un magistrat de l'ordre judiciaire, ou de membre d'une commission administrative communale, cantonale ou fédérale;
+
+- d) de la fonction de greffier-juriste d'une instance communale, intercommunale ou encore de la chambre de tutelle.
+
+<sup>2</sup> Le notaire est en outre autorisé, pour autant qu'il agisse en son nom propre, à gérer des immeubles et à administrer des biens, officiellement ou par mandat privé.
+
+#### Art. 23
+
+**Association**
+
+<sup>1</sup> Il est interdit au notaire de s'associer pour l'exercice de sa profession, sous quelque forme que ce soit, avec une personne exerçant une autre activité professionnelle que celle de notaire ou d'avocat.
+
+<sup>2</sup> Chaque notaire associé exerce sa fonction sous sa responsabilité personnelle.
+
+<sup>3</sup> En cas d'association, le notaire doit:
+
+- a) tenir séparément ses répertoires, ses minutes, ses testaments olographes et autres documents confiés, ainsi que ses copies d'actes en brevet; il conserve en annexe à ces actes toutes les pièces justificatives qui y sont mentionnées;
+
+- b) tenir séparément la comptabilité de son activité ministérielle et professionnelle (art. 42 et 43).
+
+- c) Fin des fonctions
+
+#### Art. 24
+
+**Motifs**
+
+<sup>1</sup> Le notaire peut en tout temps renoncer à la pratique du notariat; cette renonciation doit être pure et simple. Il en avise par écrit le département et l'Association des notaires.
+
+<sup>2</sup> Pour le surplus, la fin des fonctions survient à l'âge de 70 ans, en cas de décès, de retrait de l'autorisation d'exercer ou de destitution.
+
+#### Art. 25
+
+**Mesures officielles**
+
+<sup>1</sup> Lors de la cessation des fonctions, le département:
+
+- a) ordonne les publications utiles au Bulletin officiel;
+
+- b) désigne l'inspecteur responsable des opérations de sauvegarde et de liquidation.
+
+<sup>2</sup> Sous réserve des attributions du département et du notaire liquidateur, l'inspecteur prend les dispositions appropriées en vue:
+
+- a) de sauvegarder les répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes;
+
+- b) de permettre la liquidation de l'étude.
+
+<sup>3</sup> Dans tous les cas et sans délai, l'inspecteur:
+
+- a) procède au constat de la tenue des répertoires et de la comptabilité;
+
+- b) dresse l'inventaire des actes en suspens et des dossiers pendants;
+
+- c) fait rapport au département.
+
+<sup>4</sup> Sur la base du rapport final de l'inspecteur ou du notaire liquidateur, le département constate, par décision, que les opérations de liquidation sont terminées.
+
+#### Art. 26
+
+**Obligations du notaire**
+
+<sup>1</sup> Lors de la cessation des fonctions, le notaire doit:
+
+- a) fermer l'étude;
+
+- b) liquider les actes en suspens dans un délai approprié;
+
+- c) clôturer le compte de l'étude;
+
+- d) restituer au département le sceau officiel et l'autorisation d'exercer le notariat;
+
+- e) collaborer avec l'inspecteur et le notaire liquidateur.
+
+<sup>2</sup> Il doit remettre à l'inspecteur, dans le délai fixé par le département, les répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes; les actes doivent être rangés dans des boîtes d'archives selon l'ordre de numérotation des répertoires.
+
+<sup>3</sup> En cas de décès du notaire, ses ayants droit doivent tolérer toutes les opérations en vue de la liquidation de l'étude.
+
+#### Art. 27
+
+**Notaire liquidateur - Principes**
+
+<sup>1</sup> Le département désigne un notaire liquidateur:
+
+- a) si le notaire manque à ses obligations en cas de cessation des fonctions;
+
+- b) si la fin des fonctions survient consécutivement au décès, au retrait de l'autorisation d'exercer ou à la destitution.
+
+<sup>2</sup> Tout notaire autorisé à pratiquer est tenu d'accepter le mandat de notaire liquidateur, à moins qu'il ne puisse invoquer de justes motifs.
+
+<sup>3</sup> Le notaire liquidateur accomplit sa mission au nom et pour le compte du notaire suppléé ou de ses ayants cause, et sans que ces derniers puissent s'y opposer ou accomplir valablement eux-mêmes les actes de liquidation. Il a, notamment, le pouvoir de donner quittance et de solder des comptes.
+
+<sup>4</sup> Il est civilement responsable de tout dommage qu'il cause par sa faute dans l'exercice de sa mission; son assurance responsabilité civile s'étend à sa gestion de notaire liquidateur.
+
+#### Art. 28
+
+**Mission du notaire liquidateur**
+
+<sup>1</sup> La mission du notaire liquidateur est conservatoire et ministérielle; elle consiste notamment à:
+
+- a) accomplir toutes formalités nécessaires à la sauvegarde de l'intérêt public;
+
+- b) assurer la conservation des titres, documents et valeurs;
+
+- c) liquider les opérations en cours, en particulier accomplir les formalités consécutives à l'instrumentation des actes;
+
+- d) délivrer aux ayants droit les expéditions et établir les authentifications de copies;
+
+- e) mettre à jour les répertoires;
+
+- f) encaisser les émoluments tarifés pour les actes en suspens;
+
+- g) prélever sur le compte de l'étude le montant provisionné en vue de régulariser un acte déterminé;
+
+- h) tenir la comptabilité à raison des opérations en suspens.
+
+<sup>2</sup> Au terme de sa gestion, le notaire liquidateur fait rapport au département; celui-ci le relève de sa mission lors de l'approbation du rapport.
+
+#### Art. 29
+
+**Rémunération du notaire liquidateur**
+
+<sup>1</sup> Le notaire liquidateur a droit aux émoluments tarifés pour les opérations qu'il effectue lui-même.
+
+<sup>2</sup> En outre, il a droit au remboursement de ses frais et à une rémunération fixée d'après la difficulté et l'ampleur de sa mission ainsi que selon le temps utilement consacré.
+
+<sup>3</sup> Sur la base d'un décompte du notaire liquidateur présentant ses frais et honoraires et après avoir entendu les intéressés, le département fixe la prétention du notaire liquidateur au sens de l'alinéa 2.
+
+<sup>4</sup> Le notaire liquidateur réclame le paiement au notaire suppléé ou à ses ayants droit; en cas d'insolvabilité du débiteur, le département:
+
+- a) paie au notaire liquidateur ses frais et honoraires;
+
+- b) peut exiger du notaire suppléé ou de ses ayants droit le remboursement de ses prestations; l'action en restitution se prescrit par dix ans à compter de la décision du département relevant le notaire liquidateur de sa mission.
+
+#### Art. 30
+
+**Empêchement durable**
+
+Si un notaire est durablement empêché d'exercer ses fonctions, les dispositions sur la fin des fonctions s'appliquent par analogie.
+
+#### Art. 31
+
+**Suspension**
+
+<sup>1</sup> Le notaire suspendu conserve le sceau officiel, la possession des répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que des pièces justificatives mentionnées dans ces actes; il peut délivrer des expéditions.
+
+<sup>2</sup> Les dispositions sur la fin des fonctions s'appliquent par analogie à la liquidation des affaires pendantes.
+
+### Section 3: Devoirs généraux du notaire
+
+#### Art. 32
+
+**Principes**
+
+<sup>1</sup> Le devoir de diligence exige du notaire une qualité d'attention à l'égard des parties à l'acte et une qualité d'application propre à éviter toute négligence, erreur ou omission dans l'accomplissement de ses fonctions ministérielles et dans le respect de l'ordre juridique.
+
+<sup>2</sup> Demeurent réservés les devoirs spécifiques liés à la procédure notariale.
+
+#### Art. 33
+
+**Respect du libre choix du notaire**
+
+<sup>1</sup> Le notaire s'abstient de toute sollicitation de clientèle et de toute démarche publicitaire, quelle qu'en soit la forme. Sont exceptées:
+
+- a) les annonces autorisées par l'usage, notamment en cas d'installation, de changement d'adresse ou d'association;
+
+- b) la publicité collective organisée dans l'intérêt général de la profession par l'Association des notaires.
+
+<sup>2</sup> Il s'abstient également de conclure un accord quelconque ayant pour effet de priver les clients du droit de choisir librement leur notaire.
+
+#### Art. 34
+
+**Obligation de recevoir les actes - Principe**
+
+Le notaire est tenu de prêter son ministère lorsqu'il en est requis pour des objets qui relèvent de sa compétence.
+
+#### Art. 35
+
+**Obligation de recevoir les actes - Exceptions**
+
+<sup>1</sup> Le notaire doit refuser de prêter son ministère:
+
+- a) si la loi lui interdit d'y donner suite;
+
+- b) si le contenu de l'acte est contraire à la loi, à l'ordre public ou aux moeurs ou qu'il s'agit d'un acte simulé ou d'un cas de lésion;
+
+- c) si une personne qui doit concourir à l'acte est, de toute évidence, incapable de discernement.
+
+<sup>2</sup> Le notaire peut refuser son concours lorsque des raisons objectives et importantes l'empêchent d'instrumenter. Il s'agit notamment d'empêchements liés à l'accomplissement d'obligations légales, de maladie ou d'absence justifiée.
+
+#### Art. 36
+
+Obligation de recevoir les actes - Examen de la compétence personnelle
+
+<sup>1</sup> Il est interdit au notaire de recevoir un acte:
+
+- a) dans lequel il est partie intéressée, mandataire, substituant ou autorisant, ou si l'acte contient une disposition en sa faveur, à l'exception du mandat qui lui est confié pour des opérations consécutives à celui-ci ou de sa désignation comme exécuteur testamentaire;
+
+- b) dans lequel les parents ou alliés du notaire en ligne directe à tous les degrés et en ligne collatérale jusqu'au troisième degré inclusivement sont intéressés; les tuteurs, les curateurs et les mandataires ne sont pas considérés comme intéressés;
+
+- c) concernant une société en nom collectif ou une société en commandite dont il est membre ou dont un des associés est son parent ou son allié jusqu'au troisième degré inclusivement;
+
+- d) concernant une personne juridique dont le notaire est seul ou conjointement avec d'autres personnes l'administrateur ou le représentant envers les tiers;
+
+- e) s'il est concerné par l'acte comme membre de l'organe exécutif d'une collectivité publique.
+
+<sup>2</sup> Le notaire ne peut dresser acte des décisions d'assemblée lorsqu'il veut lui-même prendre part au vote ou lorsqu'il agit en faveur de tiers comme représentant légal ou sur la base d'une procuration; demeure en outre réservé le motif d'interdiction retenu à l'alinéa 1 lettre d.
+
+<sup>3</sup> Pour les ventes aux enchères publiques, le notaire ne doit se récuser que dans ses rapports avec le vendeur; un notaire ne peut en outre être lui-même l'adjudicataire ou le représentant de celui-ci dans une vente aux enchères publiques pour laquelle il instrumente.
+
+<sup>4</sup> Les dispositions sur la récusation ne s'appliquent pas à la légalisation de signatures; toutefois, le notaire ne peut légaliser sa propre signature ni celles d'un acte auquel il a adhéré par écrit.
+
+<sup>5</sup> En cas de récusation prévue par la loi, le partage des émoluments est admis.
+
+#### Art. 37
+
+**Devoir de véracité**
+
+<sup>1</sup> Le notaire ne peut authentifier que les déclarations de volonté et les faits dont il a lui-même pris connaissance conformément aux dispositions de la loi.
+
+<sup>2</sup> Il doit en particulier, en utilisant les moyens d'investigation appropriés:
+
+- a) s'assurer de l'identité des parties et de leur capacité civile;
+
+- b) vérifier l'identité, la capacité et les pouvoirs des représentants ou des concourants éventuels;
+
+- c) veiller à établir la réelle volonté des parties et à la consigner exactement;
+
+- d) s'abstenir de toute constatation dont il sait qu'elle est inexacte.
+
+<sup>3</sup> L'acte est conforme à la vérité et rédigé de manière claire.
+
+#### Art. 38
+
+**Devoir d'information et de conseil**
+
+<sup>1</sup> Le notaire informe les parties sur la forme, la nature, la signification, le contenu et la portée juridique de l'acte; il attire leur attention sur les aspects fiscaux des actes à passer, ainsi que sur les émoluments du notaire et les frais d'enregistrement dus à raison des actes signés par elles. En cas d'acte impliquant un transfert de propriété, il rend les parties attentives à la portée et aux conséquences des hypothèques légales relatives à l'acte instrumenté.
+
+<sup>2</sup> Il les renseigne sur son obligation d'annoncer à la centrale valaisanne des testaments et au registre central les testaments instrumentés ou reçus en dépôt, ainsi que les pactes successoraux instrumentés.
+
+<sup>3</sup> Il les rend attentives aux conséquences pénales et fiscales de l'obtention frauduleuse d'une constatation fausse.
+
+<sup>4</sup> Le notaire a un devoir de conseil à l'égard des parties.
+
+#### Art. 39
+
+**Devoir d'impartialité**
+
+<sup>1</sup> Le notaire doit sauvegarder de manière équitable et impartiale les intérêts en présence.
+
+<sup>2</sup> Demeurent réservées les dispositions de cette loi sur le devoir de récusation du notaire.
+
+#### Art. 40
+
+**Secret professionnel**
+
+<sup>1</sup> Le notaire garde secrets les faits et déclarations qui lui sont confiés par les parties ou dont il a eu connaissance en instrumentant pour elles. Il ne peut permettre à des tiers non autorisés de prendre connaissance des documents contenant de tels faits ou déclarations.
+
+<sup>2</sup> Sont également tenus au secret professionnel les collaborateurs du notaire, les traducteurs et les interprètes; le notaire y veille.
+
+<sup>3</sup> Le notaire n'est pas tenu au secret professionnel:
+
+- a) si toutes les parties intéressées l'en délient;
+
+- b) si, à sa requête, il a obtenu du département l'autorisation de révéler un secret. Cette autorisation n'est délivrée que si la révélation est indispensable à la protection d'intérêts prépondérants, publics ou privés;[^40-1]
+
+- c) si, pour qu'il accomplisse correctement son devoir professionnel, des tiers doivent être informés de certains faits.
+
+[^40-1]: Nouvelle teneur selon ch. IX de la loi modifiant le droit judiciaire du 9 nov. 2006. En vigueur depuis le 1er juil. 2007 (RO/VS 2007, 64 et 479)
+
+#### Art. 41
+
+**Réquisitions**
+
+<sup>1</sup> Le notaire est tenu de requérir d'office les opérations, inscriptions, approbations ou homologations que comportent ou nécessitent les actes reçus par lui pour acquérir leur pleine efficacité juridique.
+
+<sup>2</sup> La durée du mandat légal de réquisition est de trois ans (art. 963 al. 3 CCS). Passé ce délai, les réquisitions doivent être confirmées par les parties à l'acte.
+
+<sup>3</sup> Une fois l'acte parfait, les réquisitions utiles doivent être opérées dans un délai maximum de 30 jours.
+
+#### Art. 42
+
+**Obligation de tenir une comptabilité**
+
+<sup>1</sup> Le notaire doit tenir la comptabilité de son activité ministérielle et professionnelle, ainsi que de tous mouvements de fonds effectués pour le compte d'autrui; il tient le compte séparé des émoluments, des débours, des provisions, des avances et des sommes encaissées en raison de l'activité professionnelle connexe à son ministère.
+
+<sup>2</sup> Les fonds confiés à la garde du notaire sans rapport avec son activité ministérielle ne peuvent être déposés sur le compte de l'étude.
+
+<sup>3</sup> Le notaire veille à ce que le compte de l'étude bénéficie de la clause de non-compensation par rapport à la banque.
+
+<sup>4</sup> Les pièces comptables sont conservées pendant dix ans. Le Conseil d'Etat peut arrêter d'autres prescriptions sur la tenue de la comptabilité et la garde des valeurs confiées au notaire dans l'exercice de son ministère.
+
+#### Art. 43
+
+**Dépôts**
+
+<sup>1</sup> La contre-valeur des fonds confiés au notaire à quelque titre que ce soit doit être constamment disponible sous forme de liquidités (caisse, compte courant en banque ou compte de chèques postaux); elle peut être déposée sur un compte spécial ouvert par l'Association des notaires.
+
+<sup>2</sup> Si des fonds appartenant à des clients sont déposés en banque ou en compte de chèques postaux, ils doivent l'être sur un compte non soumis à la compensation, portant expressément la désignation "fonds de clients".
+
+<sup>3</sup> La restitution des fonds doit intervenir d'office, sitôt l'affaire terminée, à défaut d'instructions précises des intéressés.
+
+#### Art. 44
+
+**Notaire - auxiliaire de justice**
+
+<sup>1</sup> Le notaire agit en qualité d'auxiliaire de justice lorsqu'il intervient sur requête du juge ou de l'autorité tutélaire pour l'assister dans une procédure.
+
+<sup>2</sup> La responsabilité du notaire, agissant comme auxiliaire de justice, est régie par la loi sur la responsabilité des collectivités publiques et de leurs agents.
+
+#### Art. 45
+
+**Information du public**
+
+L'Association des notaires ou le département publie périodiquement des informations à l'attention du public relatives aux devoirs généraux du notaire.
+
+### Section 4: Rémunération du notaire
+
+#### Art. 46
+
+**Mode de rétribution**
+
+<sup>1</sup> Le notaire a droit:
+
+- a) à un émolument de base, proportionnel ou fixe;
+
+- b) à un émolument horaire pour les démarches, opérations et formalités exceptionnelles exigées par la passation d'un acte complexe;
+
+- c) au remboursement de ses débours;
+
+- d) au versement d'une provision pour sa rémunération;
+
+- e) à une avance pour les contributions publiques dues.
+
+<sup>2</sup> Demeurent réservés les honoraires perçus sur la base d'un contrat de mandat pour des activités ne relevant pas de son ministère. Ils doivent faire l'objet d'une facturation séparée.
+
+<sup>3</sup> Le Conseil d'Etat arrête le tarif des émoluments et débours dans les limites fixées par la présente loi.
+
+#### Art. 47
+
+**Emolument de base - Principes**
+
+<sup>1</sup> L'émolument de base prévu par le tarif du Conseil d'Etat comprend les démarches préalables, la rédaction de l'acte, son instrumentation et sa conservation, ainsi que les réquisitions et la délivrance de la première expédition aux parties.
+
+<sup>2</sup> L'émolument proportionnel est au minimum de 200 francs.
+
+<sup>3</sup> L'émolument proportionnel se calcule en pour-mille d'une valeur de référence selon une échelle dégressive de 5 à 1 pour mille; le Conseil d'Etat détermine les valeurs de référence des actes nécessitant la forme authentique, ainsi que les circonstances commandant une réduction de l'émolument proportionnel.
+
+<sup>4</sup> L'émolument fixe ne peut excéder 3'000 francs.
+
+#### Art. 48
+
+**Dérogation au tarif**
+
+<sup>1</sup> Il est interdit au notaire de déroger aux normes du tarif.
+
+<sup>2</sup> Aux conditions arrêtées par le règlement, le département peut autoriser une remise de l'émolument dans une décision motivée, communiquée à l'Association des notaires pour information.
+
+#### Art. 49
+
+**Emolument horaire**
+
+<sup>1</sup> Le notaire peut, dans les limites de l'article 46 alinéa 1 lettre b, percevoir un émolument horaire calculé selon l'usage.
+
+<sup>2</sup> L'émolument horaire est dû alors même que l'acte auquel il se rapporte n'a pas été passé.
+
+#### Art. 50
+
+**Emolument maximal**
+
+L'émolument maximal, comprenant à la fois l'émolument de base et l'émolument horaire, ne peut excéder 100'000 francs.
+
+#### Art. 51
+
+**Emolument conventionnel**
+
+Pour les actes ne nécessitant pas la forme authentique, mais auxquels les parties veulent donner cette forme, l'émolument est fixé selon la difficulté de l'affaire, par convention avant l'instrumentation.
+
+#### Art. 52
+
+**Adaptation des émoluments**
+
+Le Conseil d'Etat peut, par voie d'arrêté, adapter les montants des émoluments à l'indice suisse des prix à la consommation.
+
+#### Art. 53
+
+**Débours**
+
+<sup>1</sup> Le notaire a droit au remboursement de ses débours tarifés.
+
+<sup>2</sup> Les débours du notaire s'entendent de ses frais propres, en particulier des frais de copies, de port et de déplacements. Ils se distinguent des contributions publiques perçues par une autorité dans le cadre de la procédure engagée, notamment des droits de mutations, des droits de timbre et des émoluments encaissés lors de la délivrance d'une autorisation.
+
+#### Art. 54
+
+**Note de frais**
+
+<sup>1</sup> Les opérations terminées, le notaire présente sa note d'émoluments, d'émoluments horaires et de débours au client. Le cas échéant, il demande, dans sa note, le remboursement d'avances faites auprès d'une autorité.
+
+<sup>2</sup> La note précisera:
+
+- a) la nature de l'acte, les montants contractuels déterminants et l'émolument de base appliqué;
+
+- b) les émoluments horaires calculés en fonction du temps employé;
+
+- c) les débours.
+
+#### Art. 55
+
+**Paiement des émoluments, émoluments horaires et débours**
+
+Les parties sont solidairement responsables envers le notaire du paiement de ses émoluments, émoluments horaires et débours.
+
+[^55-1]: Nouvelle teneur selon l'art. 10 ch. 5 de la loi d'application du code de procédure civile suisse (LACPC) du 11 fév. 2009. En vigueur depuis le 1er jan. 2011 (BO No 26/2010)
+
+#### Art. 56
+
+**Contestations - Principes[^55-1]**
+
+<sup>1</sup> Le juge civil connaît de l'action du notaire en paiement des émoluments, débours ou en remboursement des avances.
+
+<sup>2</sup> Le code de procédure civile suisse est applicable.
+
+#### Art. 57
+
+**Contestations - Procédure**
+
+...[^57-1]
+
+[^57-1]: Abrogé par l'art. 10 ch. 5 de la loi d'application du code de procédure civile suisse (LACPC) du 11 fév. 2009. En vigueur depuis le 1er jan. 2011 (BO No 26/2010)
+
+#### Art. 58
+
+**Contestations - Décision**
+
+...[^58-1]
+
+[^58-1]: Abrogé par l'art. 10 ch. 5 de la loi d'application du code de procédure civile suisse (LACPC) du 11 fév. 2009. En vigueur depuis le 1er jan. 2011 (BO No 26/2010)
+
+### Section 5: Surveillance administrative
+
+#### Art. 59
+
+**Etendue**
+
+<sup>1</sup> Relèvent de la surveillance administrative:
+
+- a) les conditions d'admission à la profession;
+
+- b) la tenue des répertoires, la délivrance des expéditions et la conservation des minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que des pièces justificatives mentionnées dans ces actes;
+
+- c) le contrôle des actes dont l'inscription n'a pas été requise;
+
+- d) le contrôle de la tenue de la comptabilité et de la garde des valeurs confiées au notaire dans l'exercice de son ministère.
+
+<sup>2</sup> Demeurent réservés:
+
+- a) la surveillance disciplinaire;
+
+- b) la surveillance professionnelle;
+
+- c) le contrôle du conservateur sur la validité du titre (art. 965 al. 3 CCS).
+
+#### Art. 60
+
+**Exercice de la surveillance**
+
+<sup>1</sup> Le département exerce la surveillance administrative:
+
+- a) lorsqu'une information parvient à sa connaissance;
+
+- b) sur plainte;
+
+- c) à réception du rapport de l'inspecteur.
+
+<sup>2</sup> Le service du registre foncier procède aux inspections; il dispose à cet effet d'inspecteurs titulaires du brevet de notaire, dont le nombre est en rapport avec les missions que la loi leur assigne.
+
+<sup>3</sup> Il fait rapport au département.
+
+#### Art. 61
+
+**Objets de l'inspection**
+
+<sup>1</sup> L'inspection a pour objet de vérifier que:
+
+- a) le notaire satisfait aux conditions d'exercice de la profession;
+
+- b) l'étude est organisée d'une manière compatible avec le devoir de confidentialité et l'accomplissement digne des fonctions ministérielles;
+
+- c) les actes sont conservés et les répertoires tenus selon les formes prescrites;
+
+- d) les actes en suspens reposent sur un motif pertinent.
+
+<sup>2</sup> En outre, l'inspecteur s'assure, par sondages, que le notaire:
+
+- a) délivre les expéditions conformément à son obligation de diligence;
+
+- b) facture ses émoluments conformément au tarif;
+
+- c) se conforme aux dispositions de la présente loi traitant de la tenue de la comptabilité et de la garde des valeurs confiées.
+
+#### Art. 62
+
+**Modalités de l'inspection**
+
+<sup>1</sup> L'inspection a lieu chaque année pour l'exercice précédent; elle doit être annoncée 30 jours à l'avance. Elle a lieu à l'étude du notaire.
+
+<sup>2</sup> Le notaire doit assister personnellement à l'inspection et fournir tous renseignements et documents requis.
+
+<sup>3</sup> Il doit présenter ses répertoires, minutes, testaments olographes ou autres documents confiés, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes et permettre tout contrôle destiné à constater la tenue de l'étude. A cette occasion, il remet à l'inspecteur un double des répertoires signé.
+
+<sup>4</sup> Le règlement du Conseil d'Etat arrête les autres modalités de l'inspection.
+
+#### Art. 63
+
+**Rapports d'inspection**
+
+<sup>1</sup> L'inspecteur adresse au département et au notaire concerné le rapport ordinaire d'inspection, 30 jours au plus après le contrôle.
+
+<sup>2</sup> D'office ou sur requête du département, il établit un rapport complémentaire ou un rapport spécial.
+
+<sup>3</sup> Le rapport doit renseigner sur le résultat de l'inspection et indiquer précisément toute inobservation de la loi ou de son règlement d'exécution.
+
+<sup>4</sup> Au terme de l'examen du rapport, le département le classe ou:
+
+- a) il ouvre une procédure administrative en vue d'assurer le respect de la loi (art. 65);
+
+- b) il ouvre une procédure disciplinaire (art. 67ss).
+
+#### Art. 64
+
+**Contrôle spécial de la solvabilité et de l'honorabilité**
+
+<sup>1</sup> Le préposé à l'office des poursuites et faillites, respectivement le juge, communique, sans délai, au département tout acte de défaut de biens provisoire ou définitif, tout jugement de faillite et toute demande de concordat concernant un notaire.
+
+<sup>2</sup> Le service dont relève l'exécution des peines communique, sans délai, au département toute condamnation à l'encontre d'un notaire pour des faits incompatibles avec l'exercice de la profession.
+
+<sup>3</sup> A ces fins, le département adresse périodiquement aux instances susmentionnées la liste des notaires autorisés à pratiquer.
+
+#### Art. 65
+
+**Mesures de surveillance**
+
+Afin de garantir le respect de la loi, le département peut prendre l'une ou l'autre de ces mesures:
+
+- a) l'avertissement;
+
+- b) la sommation de faire ou de s'abstenir;
+
+- c) la sommation de faire ou de s'abstenir assortie d'une sanction pénale pour insoumission au sens de l'article 292 du code pénal suisse;
+
+- d) le retrait de l'autorisation d'exercer;
+
+- e) l'exécution forcée au sens des articles 37 et suivants de la loi sur la procédure et la juridiction administratives.
+
+#### Art. 66
+
+**Mesure provisoire**
+
+Le département peut, exceptionnellement, retirer provisoirement l'autorisation d'exercer d'un notaire qui se trouve dans une situation manifestement incompatible avec la charge officielle dont il est revêtu, notamment en raison:
+
+- a) d'une procédure d'interdiction;
+
+- b) d'une poursuite pénale pour des faits graves (art. 17 lettre , sur proposition du Ministère public;
+
+- c) d'une demande de sursis concordataire, jusqu'à droit connu.
+
+### Section 6: Surveillance disciplinaire
+
+#### Art. 67
+
+**Responsabilité disciplinaire**
+
+<sup>1</sup> Le notaire qui, intentionnellement ou par négligence, enfreint les dispositions de la présente loi ou de la législation d'exécution, est passible d'une sanction disciplinaire, indépendamment des conséquences résultant de sa responsabilité civile ou pénale.
+
+<sup>2</sup> Demeure réservé le contrôle professionnel exercé par la Chambre de surveillance des notaires.
+
+<sup>3</sup> Le fait de renoncer à la pratique du notariat ne met pas fin à la responsabilité disciplinaire.
+
+#### Art. 68
+
+**Sanctions disciplinaires**
+
+<sup>1</sup> L'autorité disciplinaire peut prononcer les sanctions suivantes:
+
+- a) un blâme;
+
+- b) une amende jusqu'à 10'000 francs;
+
+- c) une pénalité financière jusqu'à cinq fois le montant non perçu ou perçu en trop en cas d'acte de concurrence déloyale commis dans l'application du tarif des émoluments;
+
+- d) la suspension de six mois à deux ans;
+
+- e) la destitution, à titre définitif.
+
+<sup>2</sup> La sanction disciplinaire est décidée en fonction du degré de culpabilité du notaire, de ses antécédents et des intérêts menacés ou lésés.
+
+<sup>3</sup> Plusieurs sanctions disciplinaires peuvent être cumulées.
+
+<sup>4</sup> Dans la règle, la destitution ne peut sanctionner qu'une faute grave commise par un notaire récidiviste.
+
+<sup>5</sup> Dans un cas de peu de gravité, il peut être renoncé à toute sanction disciplinaire si un simple rappel à l'ordre laisse présumer que le notaire exercera ses fonctions de manière irréprochable à l'avenir.
+
+#### Art. 69
+
+**Procédure**
+
+<sup>1</sup> Le département est l'autorité disciplinaire de première instance.
+
+<sup>2</sup> La loi sur la procédure et la juridiction administratives s'applique à la procédure disciplinaire.
+
+<sup>3</sup> Le juge et l'autorité administrative signalent au département tout notaire ayant contrevenu aux dispositions de la présente loi ou de la législation d'exécution.
+
+<sup>4</sup> Un tiers peut attirer l'attention du département sur le comportement d'un notaire. Le dénonciateur n'est pas partie à la procédure et n'a pas qualité pour recourir.
+
+<sup>5</sup> Lorsqu'un intérêt public n'est pas compromis ou lorsque le dénonciateur dispose d'une voie de droit pour la défense de ses intérêts, la procédure disciplinaire peut être suspendue.
+
+#### Art. 70
+
+**Prescription de la poursuite disciplinaire**
+
+<sup>1</sup> La poursuite disciplinaire se prescrit par un an dès la connaissance de l'infraction, mais au plus tard par cinq ans dès la commission de l'infraction.
+
+<sup>2</sup> La prescription est interrompue par tout acte d'instruction ou de procédure.
+
+<sup>3</sup> Si les faits à l'origine de la poursuite disciplinaire donnent lieu à l'ouverture d'une procédure civile ou pénale, une sanction disciplinaire peut encore être décidée, passés les délais de prescription de l'alinéa 1, dans les deux ans à compter de l'aboutissement de la procédure judiciaire.
+
+#### Art. 71
+
+**Contrôle professionnel**
+
+<sup>1</sup> La Chambre de surveillance des notaires prend, d'office ou sur plainte, toutes mesures utiles en vue de prévenir ou de réprimer les atteintes à la dignité professionnelle. A cet effet, elle peut prononcer, en cas de manquement fautif:
+
+- a) un blâme;
+
+- b) une amende jusqu'à 10'000 francs à verser sur le compte de l'Etat;
+
+- c) la suspension de six mois à deux ans;
+
+- d) l'exclusion de l'Association des notaires.
+
+<sup>2</sup> Les dispositions de la présente loi sur la procédure disciplinaire et son extinction s'appliquent par analogie.
+
+<sup>3</sup> Le notaire qui, en raison d'un même agissement fautif, contrevient à la loi et se rend coupable d'une atteinte à la dignité professionnelle fait l'objet d'une seule poursuite disciplinaire conduite par le département, qui entendra la Chambre de surveillance.
+
+### Chapitre 2: De la procédure notariale
+
+### Section 1: L'acte authentique
+
+#### Art. 72
+
+**Définition**
+
+Tout acte reçu par le notaire est un acte authentique, y compris l'acte portant sur des faits.
+
+#### Art. 73
+
+**Procédure d'authentification**
+
+Sous réserve d'autres dispositions légales fédérales ou cantonales, l'acte authentique doit être reçu selon les procédures prévues par la présente loi.
+
+#### Art. 74
+
+**Minute**
+
+La minute s'entend de l'acte authentique dont l'original reste déposé chez le notaire, avec les pièces qui s'y rapportent.
+
+#### Art. 75
+
+**Acte en brevet**
+
+<sup>1</sup> L'acte en brevet s'entend de l'acte authentique dont l'original est délivré à l'ayant droit.
+
+<sup>2</sup> Ne peuvent être délivrés en brevet que:
+
+- a) les protêts;
+
+- b) les radiations;
+
+- c) les quittances;
+
+- d) les actes de dépôt;
+
+- e) les légalisations de signatures;
+
+- f) les authentifications de copies;
+
+- g) les procurations;
+
+- h) les constats;
+
+- i) les actes de notoriété;
+
+- j) les déclarations sous serment.
+
+#### Art. 76
+
+**Lieu de réception de l'acte**
+
+<sup>1</sup> En règle générale, l'acte authentique doit être reçu par le notaire dans son étude.
+
+<sup>2</sup> Dans tous les cas, le lieu de réception de l'acte doit se prêter à l'exercice du notariat et garantir la sauvegarde équitable des intérêts des parties.
+
+#### Art. 77
+
+**Temps prohibés**
+
+<sup>1</sup> Le notaire ne peut recevoir aucun acte authentique les dimanches et autres jours fériés prévus par la législation cantonale sur le travail.
+
+<sup>2</sup> Il est fait exception pour:
+
+- a) les actes contenant des dispositions pour cause de mort;
+
+- b) les actes requérant urgence pour cause de maladie; en ce cas, un certificat médical attestant l'urgence doit être annexé à l'acte.
+
+#### Art. 78
+
+**Langue - Principes**
+
+<sup>1</sup> L'acte reçu en minute doit être rédigé en français ou en allemand (langue officielle).
+
+<sup>2</sup> L'acte délivré en brevet peut être dressé dans une autre langue connue du notaire et de la partie qui requiert son concours.
+
+#### Art. 79
+
+**Procédure d'instrumentation dans une langue étrangère**
+
+<sup>1</sup> Une partie peut demander une instrumentation authentique rédigée dans une autre langue que la langue officielle (art. 55 al. 2 du Titre final du CCS). Dans ce cas, l'instrumentation doit également avoir lieu dans une langue officielle. L'acte rédigé en langue étrangère est signé par l'interprète qui atteste par sa signature sa conformité au texte en langue officielle; le notaire authentifie cette formalité et la double lecture en langue étrangère et en langue officielle qui l'a précédée. Si la traduction est assurée par le notaire ou un témoin, ce fait est authentifié dans l'acte.
+
+<sup>2</sup> Lorsqu'une partie le requiert ou lorsqu'une partie ne paraît pas comprendre une langue officielle, l'instrumentation doit également avoir lieu dans une autre langue connue de cette partie.
+
+Le recours à un interprète est nécessaire si le notaire ou un témoin maîtrisant cette langue ne peut assurer la traduction exacte de l'acte. La lecture de l'acte en langue officielle précède la traduction de l'acte dans l'autre langue. Cette formalité ainsi que le concours d'un interprète sont authentifiés dans l'acte.
+
+<sup>3</sup> Les actes en langue officielle et ceux passés dans une autre langue ont la même force probante.
+
+#### Art. 80
+
+**Contenu**
+
+<sup>1</sup> L'acte authentique doit contenir, outre l'objet de l'authentification:
+
+- a) le prénom et le nom du notaire, ainsi que le lieu de son étude;
+
+- b) le lieu et la date (jour, mois, année) de l'instrumentation;
+
+- c) le prénom, le nom, la date de naissance, la filiation, l'état civil, le lieu d'origine ou la nationalité, le domicile et l'adresse des parties à l'acte;
+
+- d) la raison sociale, le siège et la forme juridique des personnes morales, selon l'extrait annexé du registre du commerce ou des statuts;
+
+- e) le prénom, le nom, la date de naissance et le domicile des représentants avec indication du rapport de représentation, ainsi que le prénom, le nom, la date de naissance et le domicile des témoins et des assistants du notaire;
+
+- f) la mention des procurations ainsi que des autorisations, extraits de registres et autres pièces nécessaires;
+
+- g) la consignation des déclarations de volonté des parties ou des constatations faites;
+
+- h) l'attestation de l'accomplissement des formalités prévues pour l'authentification de déclarations de volonté;
+
+- i) la signature de toutes les personnes qui ont concouru à l'acte, sauf exception prévue par la loi.
+
+<sup>2</sup> Lorsque l'acte a pour objet un immeuble, celui-ci doit être désigné avec précision.
+
+#### Art. 81
+
+**Forme**
+
+<sup>1</sup> L'acte authentique est établi par le notaire en caractères inaltérables sur papier, à la main ou par tout autre procédé.
+
+<sup>2</sup> Les pièces justificatives mentionnées dans l'acte sont annexées à ce dernier en original ou en copie.
+
+<sup>3</sup> L'acte authentique est écrit en un seul et même contexte.
+
+<sup>4</sup> La date de l'acte et les indications numériques définissant l'objet de l'acte, les obligations ou les prestations des parties doivent être écrites en toutes lettres et en chiffres au moins une fois; elles peuvent être répétées en chiffres. Si l'acte comporte des opérations arithmétiques, l'énonciation en toutes lettres du résultat est seule obligatoire.
+
+<sup>5</sup> Les abréviations courantes sont autorisées.
+
+<sup>6</sup> Chaque partie appelée à signer appose son paraphe en marge de chaque feuillet de l'acte.
+
+<sup>7</sup> Demeurent réservés le règlement du Conseil d'Etat ainsi que les directives du département, du registre foncier et du registre du commerce à propos des documents nécessaires à l'établissement de l'acte.
+
+#### Art. 82
+
+**Modifications**
+
+<sup>1</sup> Les mots à supprimer sont biffés. Les mots biffés doivent rester lisibles.
+
+<sup>2</sup> Les mots à ajouter le sont au moyen d'apostilles en marge ou de renvois à la fin de l'acte, immédiatement avant la formule de clôture.
+
+<sup>3</sup> Les ajouts, les suppressions, renvois ou apostilles qui ne sont pas conformes aux règles du présent article sont considérés comme ne faisant pas partie de l'acte authentique.
+
+<sup>4</sup> Le notaire et les parties apposent leur paraphe en regard de chaque modification.
+
+#### Art. 83
+
+**Rectifications**
+
+<sup>1</sup> Le notaire peut rectifier en tout temps, sous sa propre responsabilité, les inexactitudes qui résultent d'une inadvertance manifeste, de même que les erreurs d'écriture ou de calcul, qui n'emportent aucune altération de la volonté des parties.
+
+<sup>2</sup> Ces rectifications sont mentionnées, avec leur justification éventuelle, après la formule de clôture et les signatures. Elles ne sont jamais introduites dans le corps de l'acte.
+
+<sup>3</sup> Le notaire en atteste l'authenticité avec son sceau et sa signature.
+
+<sup>4</sup> A défaut d'observer les alinéas 2 et 3, les rectifications sont réputées non écrites.
+
+#### Art. 84
+
+**Confection de l'acte**
+
+Les différents feuillets d'un même acte, ainsi que les pièces justificatives qui sont mentionnées dans l'acte, doivent être réunis en un seul document et former un tout.
+
+#### Art. 85
+
+**Inobservation de la forme authentique - En général**
+
+<sup>1</sup> L'acte notarié ne revêt pas la forme authentique:
+
+- a) s'il est reçu par un notaire non autorisé à pratiquer ou suspendu;
+
+- b) s'il est reçu par un notaire qui n'est pas compétent au sens de l'article 4;
+
+- c) si les dispositions des articles 78, 79 alinéas 1 et 2 2e paragraphe, 80, 81 alinéa 1, 87 alinéa 2, 90, 92, 93, 96 alinéas 1 et 2, 97 alinéas 1, 2 et 6 ainsi que 98 n'ont pas été respectées, ou encore si l'article 195 alinéa 4 de la loi d'application du code civil suisse n'a pas été respecté.
+
+<sup>2</sup> L'acte notarié reçu par un notaire inhabile au sens de l'article 36 alinéas 1, 2 et 4 ou en violation des articles 79 alinéa 2 1er paragraphe, 88 alinéa 2 et 89 alinéa 2 peut être annulé judiciairement dans les deux ans qui suivent l'instrumentation sur requête de l'une des parties à l'acte ou de ses ayants droit.
+
+<sup>3</sup> Sans égard à la validité de l'acte, la violation d'une prescription de forme engage la responsabilité disciplinaire du notaire.
+
+<sup>4</sup> ...[^85-1]
+
+[^85-1]: Abrogé par l'art. 10 ch. 5 de la loi d'application du code de procédure civile suisse (LACPC) du 11 fév. 2009. En vigueur depuis le 1er jan. 2011 (BO No 26/2010)
+
+#### Art. 86
+
+**Inobservation de la forme authentique - Cas particuliers**
+
+La forme authentique est néanmoins considérée comme observée:
+
+- a) si le lieu de passation de l'acte et la date de l'instrumentation ne sont pas désignés conformément à la loi mais que l'acte peut être situé dans le temps ou dans l'espace d'une manière qui exclut toute équivoque;
+
+- b) si la désignation de l'objet de l'acte ou des personnes qui y concourent n'est pas conforme à la loi mais qu'elle est suffisante pour éliminer tout doute à leur sujet;
+
+- c) si la prescription de l'article 80 alinéa 1 lettre f n'a pas été respectée.
+
+### Section 2: Des personnes qui concourent à l'acte
+
+#### Art. 87
+
+**Parties et représentants**
+
+<sup>1</sup> La partie à l'acte est celle qui, par ses déclarations, entend s'obliger ou acquérir un droit.
+
+<sup>2</sup> Les parties doivent assister personnellement à l'instrumentation ou s'y faire représenter.
+
+<sup>3</sup> Le représentant agit selon une procuration produite ou à produire. Cette dernière est soumise aux formes prévues par le droit fédéral.
+
+<sup>4</sup> Lorsque le représentant agit pour une personne dont l'exercice des droits civils est restreint en vertu du droit de la tutelle, il produit la décision le désignant.
+
+<sup>5</sup> La procuration ou l'autorisation est annexée à l'acte en original ou sous forme de copie authentifiée.
+
+<sup>6</sup> Demeurent réservés les cas de représentation légale.
+
+#### Art. 88
+
+**Témoins**
+
+<sup>1</sup> Le concours de témoins n'est nécessaire que dans les cas où l'exige la loi.
+
+<sup>2</sup> Ne peuvent être témoins:
+
+- a) les personnes qui n'ont pas l'exercice des droits civils;
+
+- b) celles qui ne savent ni lire ni écrire;
+
+- c) les descendants, ascendants, frères et soeurs des parties, leurs conjoints et les conjoints des parties ou des comparants.
+
+#### Art. 89
+
+**Assistants du notaire**
+
+<sup>1</sup> Le traducteur et l'interprète peuvent assister le notaire dans l'exercice de ses fonctions.
+
+<sup>2</sup> Ils doivent satisfaire aux mêmes exigences de capacité que les témoins.
+
+<sup>3</sup> Le notaire doit s'assurer, de façon appropriée, de la compétence de ces assistants et les rendre attentifs aux obligations qui leur incombent.
+
+### Section 3: Authentification de déclarations de volonté
+
+#### Art. 90
+
+**Lecture et approbation de l'acte**
+
+<sup>1</sup> Le notaire fait lecture de l'acte aux comparants ou le leur donne à lire en sa présence et s'assure de la lecture.
+
+<sup>2</sup> Lecture faite, les comparants attestent que l'acte contient l'expression de leur volonté et le signent avec le notaire.
+
+<sup>3</sup> Si un comparant déclare ne pouvoir signer, le notaire fait mention de ce fait dans l'acte et en indique la cause; en ce cas, le notaire instrumente l'acte en présence de deux témoins qui le signent avec les comparants et le notaire.
+
+<sup>4</sup> Si les dispositions essentielles de l'acte authentique en sont formellement séparées dans un document distinct auquel l'acte renvoie, ces dispositions ne sont valablement instrumentées que si les formalités des alinéas 1 à 3 sont observées. Le notaire doit attester de ce fait dans l'acte.
+
+#### Art. 91
+
+**Déclaration sous serment**
+
+<sup>1</sup> L'auteur d'une déclaration écrite qui veut la confirmer par serment le fait personnellement en présence du notaire, après avoir signé la déclaration.
+
+<sup>2</sup> Le notaire ajoute à la déclaration du comparant une attestation constatant que celui-ci a signé la déclaration et l'a confirmée par serment.
+
+<sup>3</sup> La forme du serment est arrêtée par le règlement du Conseil d'Etat.
+
+#### Art. 92
+
+**Comparant souffrant d'un handicap**
+
+<sup>1</sup> Si un comparant ne peut ni entendre la lecture de l'acte ni le lire lui-même, un traducteur lui en donne connaissance en présence du notaire.
+
+<sup>2</sup> Le comparant déclare ensuite au notaire qu'il a pris connaissance de l'acte et que ce dernier contient l'expression de sa volonté.
+
+<sup>3</sup> Si un comparant ne peut pas parler, le traducteur certifie par sa signature que le comparant a pris connaissance de l'acte et qu'il l'approuve.
+
+<sup>4</sup> Pour le surplus, il est procédé conformément à l'article 90.
+
+#### Art. 93
+
+**Unité de l'acte**
+
+<sup>1</sup> Sous réserve des dispositions légales contraires, notamment les articles 501 et 502 CCS, les personnes qui concourent à l'acte doivent être présentes pendant toute la durée de l'instrumentation.
+
+<sup>2</sup> La lecture et la signature de l'acte se suivent sans interruption, en présence de tous les comparants.
+
+### Section 4: Authentification de constatations de faits
+
+#### Art. 94
+
+**Légalisation de signatures**
+
+La légalisation de signatures est régie par la loi d'application du code civil suisse.
+
+#### Art. 95
+
+**Authentification de copies**
+
+<sup>1</sup> L'authentification d'une copie consiste pour le notaire à certifier que la copie est conforme au document qui lui est présenté; si la copie ne contient qu'un extrait du document, ce fait sera mentionné.
+
+<sup>2</sup> L'attestation mentionne le caractère de la pièce (original, expédition, copie déjà authentifiée ou non) si cela ne ressort pas de la copie.
+
+#### Art. 96
+
+**Constat d'une date ou d'un fait**
+
+<sup>1</sup> Toute constatation de la date d'un acte sous seing privé est apposée sur cet acte et mentionne le lieu et la date de la constatation ainsi que le nom de la personne qui l'a requise.
+
+<sup>2</sup> La constatation d'un fait contient une description précise du fait et indique le lieu, la date et, au besoin, l'heure de la constatation; elle mentionne en outre l'identité de l'auteur de la requête.
+
+<sup>3</sup> Si la constatation porte sur un immeuble, celui-ci sera désigné avec précision.
+
+#### Art. 97
+
+**Procès-verbal - Instrumentation ordinaire**
+
+<sup>1</sup> Le notaire chargé d'attester les décisions d'une assemblée assiste personnellement à l'assemblée.
+
+<sup>2</sup> L'acte authentique relatif à une assemblée mentionne:
+
+- a) le lieu, la date et les heures auxquels le notaire a assisté à l'assemblée;
+
+- b) les constatations du président concernant la convocation, la constitution et le quorum de l'assemblée, ainsi que les objections éventuelles contre la tenue de l'assemblée;
+
+- c) les décisions prises, avec indication du mode de déroulement et des résultats du vote. Les propositions et autres déclarations ne seront mentionnées dans l'acte qu'à la demande de leur auteur ou sur décision de l'assemblée.
+
+<sup>3</sup> Le notaire signe le procès-verbal avec le président et le secrétaire de l'assemblée.
+
+<sup>4</sup> L'acte authentique relatif à l'assemblée peut être dressé postérieurement à la tenue de celle-ci; le notaire constate ce fait dans l'acte.
+
+<sup>5</sup> S'il n'est tenu qu'un procès-verbal de l'assemblée en la forme authentique, le notaire le mentionne dans l'acte.
+
+<sup>6</sup> Les dispositions du présent article s'appliquent par analogie lorsque le notaire est chargé d'attester les décisions du conseil d'administration.
+
+#### Art. 98
+
+**Procès-verbal - Instrumentation à distance**
+
+Les procès-verbaux d'assemblée générale ou de conseil d'administration peuvent être valablement instrumentés à distance. Le règlement du Conseil d'Etat fixe les modalités de l'instrumentation à distance.
+
+### Section 5: Répertoires, conservation et expéditions
+
+#### Art. 99
+
+**Répertoires - Nature juridique**
+
+Les répertoires que le notaire doit tenir des authentifications qu'il a exécutées constituent des actes authentiques.
+
+#### Art. 100
+
+**Répertoires - Espèces**
+
+<sup>1</sup> Le notaire tient les répertoires suivants:
+
+- a) le répertoire des minutes, dans lequel il inscrit tous les actes dont l'original demeure sous sa garde;
+
+- b) le répertoire des actes en brevet, dans lequel il inscrit tous les actes dont l'original a été délivré aux ayants droit;
+
+- c) le répertoire des actes pour cause de mort, dans lequel il inscrit les testaments publics, les pactes successoraux et les testaments olographes dont la garde lui a été confiée.
+
+<sup>2</sup> N'est pas inscrite au répertoire des actes en brevet la copie certifiée conforme délivrée à l'administration ou celle dont l'original reste en mains du notaire.
+
+#### Art. 101
+
+**Forme et contenu des répertoires**
+
+<sup>1</sup> Les répertoires sont tenus sur papier libre de format A4 et reliés.
+
+<sup>2</sup> La tenue en la forme électronique est autorisée, pour autant que chaque inscription soit signée conformément aux exigences de la loi.
+
+<sup>3</sup> Les répertoires contiennent:
+
+- a) le numéro d'ordre de l'acte suivant l'ordre chronologique;
+
+- b) la date de l'instrumentation de l'acte;
+
+- c) l'identité des parties;
+
+- d) une brève description de l'objet de l'acte;
+
+- e) la valeur de l'objet de l'acte;
+
+- f) les émoluments perçus pour la stipulation de l'acte; s'il y a répartition de ces émoluments, le notaire devra en indiquer le motif et le destinataire.
+
+<sup>4</sup> En outre, le notaire mentionne dans le répertoire prescrit:
+
+- a) la date de l'inscription au registre foncier pour les actes portant sur un droit immobilier;
+
+- b) la date d'avis à la centrale valaisanne des testaments et au registre central des testaments pour les actes pour cause de mort;
+
+- c) la date d'enregistrement pour tous les autres actes.
+
+<sup>5</sup> Pour le surplus, le règlement du Conseil d'Etat arrête les prescriptions quant à la forme et au contenu des répertoires.
+
+#### Art. 102
+
+**Inscription**
+
+<sup>1</sup> Sitôt l'instrumentation terminée, le notaire numérote l'acte par ordre chronologique, l'inscrit de manière ininterrompue dans le répertoire prescrit et signe l'inscription.
+
+<sup>2</sup> Les légalisations de signatures, les authentifications de copies et les constats apposés sur plusieurs exemplaires du même document font l'objet d'une seule inscription, avec l'indication du nombre d'exemplaires visés.
+
+<sup>3</sup> Aucune opération en rapport avec un acte authentique ne doit être faite avant l'inscription de l'acte dans le répertoire prescrit.
+
+<sup>4</sup> L'inscription fait preuve de l'acte en cas de perte de l'original.
+
+#### Art. 103
+
+**Conservation - Principes**
+
+<sup>1</sup> Le notaire conserve la minute des actes délivrés en expédition; il garde copie authentifiée des actes délivrés en brevet.
+
+<sup>2</sup> Il conserve en annexe à la minute et à la copie de l'acte en brevet toutes les pièces justificatives mentionnées dans l'acte en original ou en copie.
+
+<sup>3</sup> Si un document lui est confié pour en assurer la conservation, il établit un acte de dépôt contenant une description sommaire du document; copie de cet acte est annexée au document déposé.
+
+#### Art. 104
+
+**Mode de conservation**
+
+<sup>1</sup> Les répertoires, minutes, copies d'actes en brevet, ainsi que toutes les pièces justificatives mentionnées dans ces actes sont une propriété publique confiée aux soins du notaire.
+
+<sup>2</sup> Ils sont conservés de manière appropriée. L'archivage électronique des actes authentiques est réservé aux conditions fixées par le règlement.
+
+<sup>3</sup> Le règlement du Conseil d'Etat arrête les modalités de conservation.
+
+#### Art. 105
+
+**Interdiction de se dessaisir de la minute**
+
+<sup>1</sup> Le notaire ne peut se dessaisir de la minute ou des documents qui y sont annexés si ce n'est en vue de sa production au registre foncier ou à l'office d'enregistrement.
+
+<sup>2</sup> Par ailleurs, il s'en dessaisit sur décision de l'autorité de surveillance ou du juge.
+
+<sup>3</sup> Avant de se dessaisir de la minute, le notaire établit une expédition qu'il substitue à la minute jusqu'à réintégration de celle-ci; cette expédition mentionne la date et la personne à laquelle la minute est remise.
+
+<sup>4</sup> L'auteur d'un testament peut toujours en retirer la minute; la déclaration de retrait fait l'objet d'un constat authentique qui remplace le testament.
+
+#### Art. 106
+
+**Expéditions - Nature et forme**
+
+<sup>1</sup> L'expédition est le titre délivré pour faire preuve des droits ou des obligations conférés ou des faits constatés dans un acte.
+
+<sup>2</sup> Elle consiste en une copie authentifiée de la minute et porte la désignation d'expédition.
+
+<sup>3</sup> Les modifications et les rectifications apportées à l'original sont introduites dans le corps de l'expédition si le moyen de reproduction le permet; pour le surplus, les formes prévues pour les modifications et les rectifications s'appliquent aux expéditions.
+
+<sup>4</sup> Il peut être fait des expéditions partielles désignées comme telles.
+
+<sup>5</sup> Les documents annexés à la minute sont joints ou reproduits à la suite de l'expédition sous forme de copies authentifiées, dans la mesure où cela est requis en vue de l'utilisation de l'expédition ou prescrit par d'autres dispositions.
+
+#### Art. 107
+
+**Auteur de l'expédition**
+
+<sup>1</sup> Seul peut délivrer l'expédition d'un acte le notaire qui en a signé la minute ou le notaire liquidateur.
+
+<sup>2</sup> L'archiviste délivre les expéditions des actes déposés aux archives, à l'exception des obligations hypothécaires au porteur.
+
+#### Art. 108
+
+**Destinataires de l'expédition**
+
+<sup>1</sup> En principe, le notaire délivre une première expédition à toutes les personnes auxquelles l'acte confère des droits ou des obligations; toutefois, en matière de titre de créance, il ne peut être délivré qu'une expédition au(x) créancier(s).
+
+<sup>2</sup> En matière de testament ou de pacte successoral, il n'est délivré d'expédition qu'au disposant ou aux contractants.
+
+<sup>3</sup> L'expédition fait mention de l'enregistrement et, le cas échéant, de l'inscription au registre foncier.
+
+<sup>4</sup> Le notaire mentionne sur chaque expédition la personne à qui elle est délivrée.
+
+<sup>5</sup> Il note sur la minute la délivrance de chaque expédition avec le nom du destinataire et la date de la remise.
+
+#### Art. 109
+
+**Autres expéditions**
+
+<sup>1</sup> Le notaire peut délivrer d'autres expéditions à condition qu'un intérêt digne de protection soit rendu vraisemblable et qu'aucun abus ne soit à craindre.
+
+<sup>2</sup> Si l'expédition constitue un titre de créance, une autre expédition ne peut être délivrée que sur ordonnance judiciaire; la nouvelle expédition indique qu'elle est un titre de remplacement.
+
+<sup>3</sup> Les dispositions concernant les papiers-valeurs sont réservées.
+
+### Chapitre 3: Dispositions pénales, finales et transitoires
+
+#### Art. 110
+
+**Usurpation du titre de notaire**
+
+<sup>1</sup> Toute personne faisant état du titre de notaire sans y être légitimée est passible d'une amende.
+
+<sup>2</sup> La compétence en première instance relève du département.
+
+<sup>3</sup> Le jugement peut être publié.
+
+#### Art. 111
+
+**Dispositions transitoires - Principes**
+
+<sup>1</sup> Sauf disposition contraire, la présente loi s'applique sans réserve dès son entrée en vigueur.
+
+<sup>2</sup> Le brevet et l'autorisation d'exercer délivrés selon l'ancien droit restent acquis, sous réserve des articles 115 et 116.
+
+<sup>3</sup> Un acte dressé par un notaire avant l'entrée en vigueur de la présente loi est un acte authentique s'il remplit les conditions de validité fixées par l'ancien droit ou par la présente loi.
+
+#### Art. 112
+
+**Dispositions transitoires - Notaire stagiaire**
+
+Le notaire stagiaire dont le stage a débuté avant l'entrée en vigueur de la présente loi est soumis à l'ancien droit.
+
+#### Art. 113
+
+Dispositions transitoires - Assurance responsabilité civile et sûretés Le notaire doit contracter une assurance responsabilité civile et déposer des sûretés satisfaisant aux exigences de l'article 19 dans le délai d'un an dès l'entrée en vigueur de la présente loi.
+
+#### Art. 114
+
+**Dispositions transitoires - Incompatibilités**
+
+Dans un délai de trois ans dès l'entrée en vigueur de la présente loi, le notaire doit:
+
+- a) mettre fin à l'exercice d'une activité devenue incompatible avec la pratique du notariat;
+
+- b) renoncer, dans les limites de l'article 21 lettres e et f, à une rente de retraite du 2e pilier servie par une caisse publique ou par une caisse privée financée par une collectivité publique.
+
+#### Art. 115
+
+**Dispositions transitoires - Surveillance disciplinaire**
+
+L'inobservation des dispositions régissant l'exercice du notariat est jugée selon le droit en vigueur au moment de la commission de l'infraction; si la présente loi prévoit une sanction plus légère, elle s'applique aux infractions commises avant son entrée en vigueur.
+
+#### Art. 116
+
+**Abrogation**
+
+Sont abrogées toutes les dispositions contraires à la présente loi, en particulier la loi sur le notariat du 15 mai 1942.
+
+#### Art. 117
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente loi est soumise au référendum facultatif.
+
+<sup>2</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi et fixe la date de son entrée en vigueur. L'entrée en vigueur de la limite d'âge est différée de trois ans.[^117-1]
+
+Ainsi adopté en deuxième lecture en séance du Grand Conseil, à Sion, le 15 décembre 2004.
+
+Le président du Grand Conseil: Patrice Clivaz Le chef du Service parlementaire: Claude Bumann
+
+[^117-1]: Approuvé par le Département fédéral de justice et police le 1er sept. 2005. Entrée en vigueur le 1er janv. 2006 selon l'arrêté du 9 nov. 2005 (RO/VS 2005, 326)

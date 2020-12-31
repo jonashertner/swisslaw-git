@@ -1,0 +1,586 @@
+---
+canton: VS
+number: "411.200"
+title: Ordonnance concernant les structures suprarégionales du cycle d’orientation
+language: fr
+version: 2012-09-01
+corrected: 2017-09-06
+version_adopted: 2011-01-12
+adopted: 2011-01-12
+in_force: 2011-09-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/411.200"
+pdf: "https://lex.vs.ch/api/fr/versions/545/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Ordonnance concernant les structures suprarégionales du cycle d'orientation
+
+du 12 janvier 2011
+
+Le Conseil d'Etat du canton du Valais vu les articles 8, 43, 56, 58 et 59 de la loi sur le cycle d’orientation du 10 septembre 2009;
+
+sur la proposition du Département de l’éducation, de la culture et du sport, ordonne:
+
+### Section 1: Généralités
+
+#### Art. 1
+
+**Champ d’application**
+
+La présente ordonnance s’applique à l’ensemble des cycles d’orientation du canton du Valais. Elle régit les structures suprarégionales.
+
+#### Art. 2
+
+**Principe**
+
+<sup>1</sup> Chaque élève est scolarisé au cycle d’orientation de sa commune de résidence.
+
+<sup>2</sup> Exceptionnellement, un élève peut être autorisé, voire contraint, par l’autorité compétente, à fréquenter un autre cycle d’orientation.
+
+#### Art. 3
+
+**Définition**
+
+On appelle «structure suprarégionale» toute forme d’organisation scolaire qui nécessite un regroupement d’élèves issus de plusieurs cycles d’orientation ou une coordination entre plusieurs cycles d’orientation afin de répondre à des missions particulières.
+
+#### Art. 4
+
+**Missions et buts**
+
+Une structure suprarégionale a pour mission de répondre à des besoins particuliers et spécifiques soit aux niveaux éducatif, scolaire ou de projets personnels reconnus.
+
+#### Art. 5
+
+**Compétences du canton**
+
+<sup>1</sup> Le Conseil d’Etat décide de la création d’une structure suprarégionale.
+
+<sup>2</sup> Le Conseil d’Etat définit les participations du canton, des communes, des parents et des partenaires.
+
+<sup>3</sup> Le DECS arrête des directives et/ou des mandats de prestations à chaque structure suprarégionale et désigne les cycles d’orientation concernés. <sup>1</sup>
+
+#### Art. 6
+
+<sup>1</sup> Frais d’écolage
+
+Les frais d’écolage sont exclusivement à la charge des communes.
+
+#### Art. 7
+
+**Collaboration**
+
+Le DECS et les communes collaborent à l’organisation des structures suprarégionales.
+
+### Section 2 Structures suprarégionales de développement
+
+personnel
+
+### Chapitre 1: Participation des partenaires
+
+#### Art. 7bis
+
+<sup>1</sup> Participation de la commune de domicile
+
+La commune de domicile verse une participation annuelle de 2000 francs par élève à titre de frais d’écolage à la commune, respectivement à l’association de communes, accueillant des élèves en école partenaire du sport, ci-après EPS, ou en enseignement immersif et paie les frais de transport de l’élève. Elle participe aux frais de repas selon les règles en vigueur au niveau communal.
+
+#### Art. 7ter
+
+<sup>1</sup> Participation du cycle d’orientation d’accueil
+
+<sup>1</sup> Le cycle d’orientation d’accueil supporte les éventuels frais d’écolage supérieurs aux 2000 francs versés par la commune de domicile.
+
+<sup>2</sup> Le cycle d’orientation d’accueil met à disposition des élèves accueillis ses infrastructures ainsi que sa structure administrative.
+
+#### Art. 7quater
+
+<sup>1</sup> Participation des parents
+
+Les parents assument les frais de repas selon la règle en vigueur dans la commune de domicile ainsi que les éventuels autres frais supplémentaires.
+
+### Chapitre 2: Structure Sport – Arts – Formation
+
+#### Art. 8
+
+**Buts**
+
+La structure Sport – Arts – Formation, ci-après SAF, s’adresse à des élèves particulièrement talentueux dans les domaines du sport ou des arts. Elle permet de concilier les exigences liées au suivi d’une scolarité ordinaire avec la pratique d’une activité sportive ou artistique de haut niveau.
+
+#### Art. 9
+
+<sup>1</sup> Mesures SAF
+
+Les mesures SAF possibles sont les « mesures individualisées », ci-après MI, ou la fréquentation d’une EPS.
+
+#### Art. 10
+
+**Mesures Individualisées**
+
+<sup>1</sup> On appelle MI tout aménagement du temps scolaire dont peut bénéficier un élève reconnu particulièrement talentueux dans le domaine du sport ou des arts.
+
+<sup>2</sup> L’octroi de MI est de la compétence de la commission SAF.
+
+<sup>3</sup> Tout cycle d’orientation accueillant un ou des élèves au bénéfice de MI doit mettre sur pied leur organisation. <sup>1</sup>
+
+#### Art. 11
+
+**École Partenaire du Sport**
+
+<sup>1</sup> Le DECS désigne les EPS et leur attribue un mandat de prestations.
+
+<sup>2</sup> La fréquentation d’une EPS ne peut s’effectuer que si les MI ne garantissent pas un développement artistique ou sportif satisfaisant de l’élève concerné.
+
+<sup>3</sup> Le droit de fréquenter une EPS est soumis à l’autorisation de la commission SAF.
+
+<sup>4</sup> L’EPS applique et respecte les clauses du mandat de prestations confié par le DECS. <sup>1</sup>
+
+#### Art. 12
+
+Tâches des associations sportives et des institutions de formation artistique
+
+<sup>1</sup> Les associations sportives et les institutions de formation artistique proposent un concept, qui définit au moins les critères donnant droit à des mesures, à la commission SAF. <sup>1</sup>
+
+<sup>2</sup> Le concept est préavisé par la commission SAF.
+
+<sup>3</sup> Le concept doit être adopté par le DECS.
+
+<sup>4</sup> Les associations sportives et les institutions de formation artistique collaborent d’abord avec la commission SAF, puis avec les directions des cycles d’orientation et les EPS. <sup>1</sup>
+
+#### Art. 13
+
+**Compétences de la commission SAF**
+
+<sup>1</sup> La commission SAF est nommée par le Conseil d’Etat.
+
+<sup>2</sup> Elle se compose de représentants du DECS.
+
+<sup>3</sup> La commission SAF a, notamment, les compétences suivantes : <sup>1</sup> a) elle applique le concept cantonal SAF adopté par le Conseil d’État;
+
+- b) elle préavise les concepts des associations sportives et des institutions de formation artistique à l’intention du DECS;
+
+- c) elle contrôle leur application;
+
+- d) elle décide des mesures applicables à l’élève concerné;
+
+- e) elle assure l’information aux différents partenaires.
+
+#### Art. 14
+
+**à 16 <sup>1</sup>**
+
+Abrogés
+
+#### Art. 17
+
+**Participation du canton**
+
+<sup>1</sup> Le canton alloue, à chaque EPS, des aides afin de créer les conditions favorables à la mise en œuvre des mesures SAF.
+
+<sup>2</sup> Le DECS pondère les effets des départs d’élèves en EPS sur la dotation horaire du CO de domicile de l’élève.
+
+#### Art. 18
+
+**Attitude de l’élève**
+
+<sup>1</sup> L’élève s’engage à respecter le règlement de l’école et à faire preuve d’application aux niveaux scolaire et sportif, respectivement artistique. <sup>1</sup>
+
+<sup>2</sup> Les mesures SAF peuvent être suspendues en cas d’indiscipline ou de démotivation.
+
+<sup>3</sup> Un élève dont les mesures SAF ont été suspendues termine, en principe, son année scolaire dans l’établissement qu’il fréquente à ce moment-là.
+
+#### Art. 19
+
+**Conditions d’admission en structure SAF**
+
+<sup>1</sup> Pour bénéficier de mesures SAF, l’élève doit être reconnu particulièrement talentueux.
+
+<sup>2</sup> Le concept cantonal SAF, approuvé par le Conseil d’Etat, règle les détails d’application.
+
+#### Art. 20
+
+**Information**
+
+L’information au sujet des structures SAF est de la seule compétence de la commission SAF.
+
+#### Art. 21
+
+**Contrôle**
+
+La commission SAF demande à l’inspecteur d’arrondissement d’effectuer des contrôles.
+
+### Chapitre 3: Enseignement immersif
+
+#### Art. 22
+
+**Définition**
+
+On entend par enseignement immersif l’emploi d’une langue étrangère en classe comme outil d’apprentissage de matières scolaires traditionnelles et comme outil de communication.
+
+#### Art. 23
+
+**Objectifs**
+
+<sup>1</sup> L’enseignement immersif a pour mission d’entraîner la pratique et l’apprentissage d’une langue et d’appréhender les particularités culturelles d’une autre région.
+
+<sup>2</sup> Tout élève ayant suivi un enseignement de type immersif reçoit une attestation délivrée par la direction de l’établissement.
+
+#### Art. 24
+
+**Langues cibles autorisées**
+
+<sup>1</sup> Les langues cibles autorisées sont le français, l’allemand et l’anglais.
+
+<sup>2</sup> Un enseignement immersif en anglais n’est possible que sous la forme d’un séjour linguistique, à l’étranger.
+
+#### Art. 25
+
+**Missions du bureau des échanges linguistiques**
+
+Les tâches du Bureau des échanges linguistiques, ci-après BEL, sont notamment les suivantes:
+
+- mettre en contact les différents partenaires afin de favoriser les opportunités de suivre un enseignement immersif;
+
+- assurer l’information à l’intention des partenaires;
+
+- tenir à jour les statistiques.
+
+#### Art. 26
+
+**Formes possibles d’enseignement immersif**
+
+Les formes d’enseignement immersif sont les suivantes: la fréquentation d’une classe d’immersion à plein temps, y compris l’échange linguistique en immersion, le séjour linguistique en immersion, la filière bilingue.
+
+#### Art. 27
+
+**Classe d’immersion**
+
+<sup>1</sup> On entend par classe d’immersion, une classe ordinaire accueillant jusqu’à 4 élèves de l’autre partie linguistique du canton. <sup>1</sup>
+
+<sup>2</sup> Tous les élèves en âge de fréquenter le cycle d’orientation peuvent demander à être admis dans une classe d’immersion.
+
+<sup>3</sup> A la demande des parents, un élève peut prolonger sa scolarité obligatoire en effectuant une dixième année en 3CO en immersion dans l'autre partie linguistique du canton.
+
+<sup>4</sup> La fréquentation d’une classe d’immersion n’est possible, en principe, que dans le canton du Valais.
+
+<sup>5</sup> La durée de fréquentation d’une classe d’immersion est d’une seule année scolaire. Il n’est pas possible d’effectuer une deuxième année en classe d’immersion.
+
+#### Art. 28
+
+**Responsabilités en classe d’immersion**
+
+<sup>1</sup> L’élève est placé sous la responsabilité de l’établissement de la classe d’immersion, qui crée les conditions favorables à l’accueil et à l’intégration de l’élève dans son nouvel environnement scolaire.
+
+<sup>2</sup> Les parents sont responsables des conditions de vie (transport, repas, voire hébergement…) de l’élève fréquentant une classe d’immersion.
+
+#### Art. 29
+
+**Evaluation et conditions de promotion en classe d’immersion**
+
+<sup>1</sup> Sur demande des parents, un entretien d’évaluation peut remplacer la notation chiffrée du 1er semestre, alors les seules notes du deuxième semestre et des examens de fin d’année sont prises en considération pour la promotion.
+
+<sup>2</sup> La langue de passation de l’examen final est celle de la classe d’immersion.
+
+<sup>3</sup> Les conditions de promotion sont les mêmes que pour les autres élèves.
+
+#### Art. 30
+
+**Classe d’immersion sous forme d’échange linguistique**
+
+<sup>1</sup> On parle d’échange linguistique lorsque deux élèves issus de régions linguistiques distinctes fréquentent l’école de leur partenaire. <sup>1</sup>
+
+<sup>2</sup> La procédure d’organisation d’un échange linguistique comprend le préavis de la direction des cycles d’orientation de l’année en cours.
+
+<sup>3</sup> Les familles s’organisent sous leur propre responsabilité.
+
+<sup>4</sup> Une copie du dossier sera transmise au bureau des échanges linguistiques.
+
+<sup>5</sup> Le financement d’un échange linguistique se base sur le principe d’un échange de bons procédés. Il n’y a pas de refacturation entre les communes.
+
+<sup>6</sup> Les autres frais éventuels sont à la charge des parents.
+
+#### Art. 31
+
+<sup>1</sup> Classe d’immersion sans échange
+
+<sup>1</sup> La procédure d’admission en classe d’immersion sans échange comprend le préavis de la direction du cycle d’orientation de l’année en cours, une demande formelle à la direction du cycle d’orientation d’accueil avec copie au BEL. Après avoir consulté le préavis du cycle d’orientation de l’année en cours, après avoir entendu les parents, la direction du CO d’accueil autorise l’élève à fréquenter la classe d’immersion.
+
+Alinéas 2 à 6 abrogés
+
+#### Art. 32
+
+<sup>1</sup> Séjour linguistique en immersion
+
+<sup>1</sup> On entend par séjour linguistique en immersion, un séjour en-dehors du canton du Valais, sans être accompagné de sa famille, débouchant sur l’obtention d’une attestation certifiée par un organe reconnu.
+
+<sup>2</sup> L’attestation sera présentée à la direction du cycle d’orientation au terme du séjour.
+
+<sup>3</sup> Le séjour linguistique en immersion peut s’organiser sous la forme d’un échange.
+
+<sup>4</sup> Les séjours linguistiques en immersion ont lieu en dehors du temps de classe, durant les vacances scolaires.
+
+<sup>5</sup> Pour des raisons d’organisation et d’efficience, des congés peuvent être accordés selon les modalités définies par le DECS et conformément au règlement sur les congés et mesures disciplinaires applicables dans les limites de la scolarité obligatoire. Ils ne peuvent dépasser 27 demi-journées.
+
+<sup>6</sup> Pour obtenir le droit à un congé, un programme du séjour linguistique en immersion sera soumis à l’autorité compétente.
+
+<sup>7</sup> Le BEL informe les directions des écoles des possibilités offertes aux élèves.
+
+<sup>8</sup> L’organisation d’un séjour linguistique en immersion se fait sous la responsabilité des parents de l’élève qui en assument les coûts inhérents.
+
+<sup>9</sup> Seuls les séjours linguistiques en immersion sont régis par la présente ordonnance. D’autres formes d’échanges ou de séjours linguistiques (activités de classe, de groupe, projet d’établissement,…) à l’intérieur du canton, en Suisse ou à l’étranger peuvent être proposés et organisés au cycle d’orientation.
+
+#### Art. 33
+
+**Filières bilingues**
+
+<sup>1</sup> Les filières bilingues sont des projets d’établissement qui englobent l’ensemble de la scolarité obligatoire.
+
+<sup>2</sup> Pour être admis dans une telle structure, l’élève l’aura déjà fréquentée à l’école primaire.
+
+<sup>3</sup> L’enseignement y est dispensé à mi-temps dans la langue de l’autre partie linguistique du canton.
+
+<sup>4</sup> L’admission en classe bilingue est de la compétence de la commune de résidence.
+
+#### Art. 34
+
+**Contrôle**
+
+L’inspecteur d’arrondissement contrôle le bon déroulement des enseignements immersifs, en collaboration avec le BEL, les directions d’établissement et les titulaires de classe.
+
+### Section 3 Structures suprarégionales à visée pédagogique
+
+### Chapitre 1: Classes de préapprentissage
+
+#### Art. 35
+
+**Classes de préapprentissage**
+
+La classe de préapprentissage est une structure suprarégionale relevant de l’office de l’enseignement spécialisé.
+
+#### Art. 36
+
+**Buts**
+
+La classe de préapprentissage doit développer les compétences scolaires des élèves en difficulté et leur permettre une intégration harmonieuse dans le monde professionnel.
+
+#### Art. 37
+
+**Compétences**
+
+<sup>1</sup> Le DECS décide des emplacements des classes de préapprentissage et de leur nombre.
+
+<sup>2</sup> L’organisation et la gestion d’une classe de préapprentissage sont confiées par le DECS à la direction du cycle d’orientation concerné.
+
+#### Art. 38
+
+**Organisation**
+
+<sup>1</sup> Les classes de préapprentissage font partie intégrante de la scolarité obligatoire et ne peuvent être fréquentées que durant une année scolaire.
+
+<sup>2</sup> L’effectif d’une classe de préapprentissage est celui d’une classe d’observation.
+
+<sup>3</sup> Le temps scolaire de la classe de préapprentissage prévoit des jours de classe et des stages en entreprise.
+
+<sup>4</sup> Le stage s’effectuera, dans la mesure du possible, dans la même entreprise afin d’accroître les chances de signer un contrat d’apprentissage.
+
+#### Art. 39
+
+**Personnel enseignant**
+
+Le titulaire d’une classe de préapprentissage est, en principe, un enseignant spécialisé.
+
+#### Art. 40
+
+**Responsabilités**
+
+L’élève est rattaché administrativement et pédagogiquement au cycle d’orientation site de la classe de préapprentissage.
+
+#### Art. 41
+
+**Elèves bénéficiaires**
+
+La classe de préapprentissage s’adresse, en priorité, aux élèves relevant de l’enseignement spécialisé et aux élèves de 2CO, en fin de scolarité obligatoire et en échec.
+
+#### Art. 42
+
+**Admission**
+
+<sup>1</sup> La direction d’établissement propose aux parents et à l’élève concernés de déposer un dossier d’admission en classe de préapprentissage.
+
+<sup>2</sup> Sur préavis de la direction du cycle d’orientation de l’élève, du conseiller en orientation et de l’enseignant de la classe de préapprentissage, l’office de l’enseignement spécialisé décide de l’admission d’un élève en classe de préapprentissage.
+
+#### Art. 43
+
+**Financement**
+
+<sup>1</sup> La commune de résidence de l’élève assume les frais d’écolage dont le montant correspondra à celui payé par les communes du cycle d’orientation site de la classe de préapprentissage.
+
+<sup>2</sup> Les frais de transports jusqu’au lieu de scolarisation sont à la charge de la commune de domicile qui subventionne également le 70 pour cent des frais de repas. <sup>1</sup>
+
+<sup>3</sup> Les frais de transports jusqu’au lieu de stage sont à la charge des parents.
+
+<sup>4</sup> Les parents participent aux frais de repas à hauteur de 30 pour cent. <sup>1</sup>
+
+<sup>5</sup> La commune site de la classe de préapprentissage met à disposition les locaux et son infrastructure administrative.
+
+<sup>6</sup> La direction d’établissement du CO accueillant la classe de préapprentissage informe la commune de domicile ou de résidence de l’élève des frais d’écolage, de transport et de la répartition des frais de repas.
+
+### Chapitre 2: Placement particulier
+
+#### Art. 44
+
+**Placement particulier**
+
+<sup>1</sup> Le placement particulier est une mesure éducative proposée par l’inspecteur d’arrondissement.
+
+<sup>2</sup> Le placement particulier peut prendre la forme d’un placement, pour une durée déterminée en classe relais ou, si la situation l’exige, un transfert dans un autre CO.
+
+<sup>3</sup> D’autres types de mesures peuvent être proposés à l’élève et à ses parents.
+
+<sup>4</sup> Afin de soutenir les directions d’école dans la gestion des élèves au comportement difficile, trois organes sont à leur disposition: les enseignants ressources, la classe relais et l’unité cantonale.
+
+#### Art. 45
+
+**Enseignant ressource**
+
+Un enseignant ressource, sur mandat de l’inspecteur, procède à un premier état des lieux en soutenant la direction et les enseignants face aux difficultés engendrées par l’élève au comportement inadapté.
+
+#### Art. 46
+
+**Unité cantonale**
+
+<sup>1</sup> L’unité cantonale est activée par l’enseignant ressource.
+
+<sup>2</sup> L’unité cantonale est présidée par un conseiller pédagogique et comprend au moins la direction de l’établissement et l’enseignant ressource. Au besoin et selon les cas, elle peut être complétée par des enseignants ou des spécialistes.
+
+#### Art. 47
+
+**Missions de l’unité cantonale**
+
+L’unité cantonale a les missions suivantes:
+
+- offrir une intervention rapide en cas de crise grave;
+
+- conseiller et soutenir les personnes concernées;
+
+- proposer les mesures éducatives;
+
+- coordonner la mise en place des mesures éducatives entre les différents organes concernés.
+
+#### Art. 48
+
+**Classe relais**
+
+<sup>1</sup> La classe relais doit permettre l’accueil temporaire d’élèves au comportement difficile et perturbateur hors de leur lieu de scolarisation habituel.
+
+<sup>2</sup> Elle doit les aider à acquérir de nouvelles attitudes comportementales afin de réintégrer à moyen terme leur lieu de scolarisation habituel.
+
+#### Art. 49
+
+**Organisation de la classe relais**
+
+<sup>1</sup> Le DECS décide de l’ouverture d’une classe relais.
+
+<sup>2</sup> L’effectif de la classe relais est restreint.
+
+<sup>3</sup> La durée de scolarisation en classe relais est comprise entre quatre et neuf semaines.
+
+<sup>4</sup> Un élève ne peut être placé en classe relais plus d’une fois par année scolaire.
+
+<sup>5</sup> Le temps scolaire de la classe relais se partage entre des périodes d’enseignement, des activités sportives et des stages en entreprise, mercredi après-midi compris.
+
+#### Art. 50
+
+**Responsabilités**
+
+<sup>1</sup> Durant le temps de midi, l’élève demeure sous la responsabilité de la classe relais.
+
+<sup>2</sup> Les trajets du domicile à la classe relais se font sous la responsabilité des parents qui communiqueront au titulaire de la classe relais ainsi qu’à la direction du CO de provenance les modalités de transport.
+
+<sup>3</sup> L’élève fréquentant la classe relais demeure rattaché administrativement au CO de provenance.
+
+#### Art. 51
+
+**Admission en classe relais**
+
+<sup>1</sup> Après avoir mis en place les mesures éducatives adéquates, la direction d’un cycle d’orientation signale à l’inspecteur d’arrondissement une situation nécessitant l’intervention de l’enseignant ressource, respectivement de l’unité cantonale.
+
+<sup>2</sup> L’inspecteur d’arrondissement, en collaboration avec l’enseignant ressource, l’unité cantonale et la direction du cycle d’orientation et après avoir entendu les parents et l’élève, propose aux parents le placement de l’élève en classe relais.
+
+<sup>3</sup> En cas de refus parental, le DECS décide.
+
+#### Art. 52
+
+<sup>1</sup> Personnel enseignant de la classe relais et de l’unité cantonale
+
+<sup>1</sup> Le personnel enseignant ressource et le personnel enseignant de la classe relais bénéficie du même statut que celui appliqué aux enseignants de l’école obligatoire. Ils sont placés sous la responsabilité administrative et le contrôle pédagogique de l’office de l’enseignement spécialisé.
+
+<sup>2</sup> Abrogé
+
+#### Art. 53
+
+**Prise en charge des frais d’un placement particulier**
+
+<sup>1</sup> Un placement particulier doit s’effectuer sans préjudice financier pour les parents.
+
+<sup>2</sup> La commune de domicile assume les frais de transports et subventionne les repas à hauteur de 70 pour cent.[^53-1]
+
+<sup>2bis</sup> Les parents paient le 30 pour cent des frais de repas.
+
+<sup>3</sup> Le DECS met à disposition les locaux nécessaires au bon fonctionnement de la classe relais.
+
+<sup>4</sup> Le canton prend sur son budget ordinaire le traitement du personnel enseignant de l’unité cantonale et de la classe relais ainsi que les frais liés à l’accompagnement et à la gestion des élèves.
+
+<sup>5</sup> Le canton défraie une entreprise accueillant, pour un stage, un élève de la classe relais.
+
+[^53-1]: Modification du 20 juin 2012 BO No 27/2012 1.09.2012
+
+#### Art. 54
+
+**Evaluation**
+
+<sup>1</sup> Lorsqu’un élève est placé en classe relais, une évaluation écrite ou chiffrée des branches enseignées à niveau et de la langue II sera transmise au CO de provenance, ceci au terme du placement.
+
+<sup>2</sup> Lorsqu’un élève est transféré dans un autre cycle d’orientation, les résultats intermédiaires sont transmis au nouveau CO qui assume dès lors la responsabilité administrative de l’élève.
+
+#### Art. 55
+
+**Fin d’un placement en classe relais**
+
+Au terme d’un placement en classe relais, un bilan final est effectué en présence d’un représentant de l’unité cantonale, de la direction de l’établissement, du titulaire et des parents. D’autres personnes, selon les besoins, peuvent être associées à ce bilan.
+
+### Section 4: Dispositions finales
+
+#### Art. 56
+
+**Litiges**
+
+<sup>1</sup> Les difficultés qui peuvent résulter de l'interprétation ou de l'application de la présente ordonnance sont tranchées par le DECS sous réserve de recours au Conseil d'Etat dans les trente jours.
+
+<sup>2</sup> La procédure de recours est régie par la loi sur la procédure et la juridiction administratives.
+
+#### Art. 57
+
+**Abrogation**
+
+Le règlement général concernant le cycle d’orientation du 16 septembre 1987 est abrogé.
+
+#### Art. 58
+
+**Date d’entrée en vigueur**
+
+<sup>1</sup> Le département est chargé de l'exécution de la présente ordonnance.
+
+<sup>2</sup> La présente ordonnance est publiée au Bulletin officiel pour entrer en vigueur à la rentrée scolaire 2011-2012.
+
+Ainsi adopté en Conseil d'Etat à Sion, le 12 janvier 2011.
+
+Le président du Conseil d’Etat: Jean-Michel Cina Le chancelier d’Etat: Philipp Spörri
+
+**Entrée en**
+
+### Intitulé et modifications Publication
+
+**1.09.2011**
+
+vigueur BO No 8/2011

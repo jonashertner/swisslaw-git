@@ -1,0 +1,210 @@
+---
+canton: VS
+number: "415.200"
+title: Vollziehungsreglement betreffend das Gesetz über die Gewährung von Kantonsbeiträgen an den Bau und die Erweiterung von Turn und Sportstätten
+language: de
+version: 2012-01-01
+version_adopted: 2011-12-21
+adopted: 1975-03-26
+in_force: 1975-05-28
+url: "https://lex.vs.ch/app/de/texts_of_law/415.200"
+pdf: "https://lex.vs.ch/api/de/versions/2433/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vollziehungsreglement betreffend das Gesetz über die Gewährung von Kantonsbeiträgen an den Bau und die Erweiterung von Turn und Sportstätten
+
+vom 26.03.1975 (Stand 01.01.2012)
+
+Der Staatsrat des Kantons Wallis
+
+eingesehen das oben genannte Gesetz und das Reglement über die Festlegung des Berechnungsmodus der abgestuften Subvention vom 5. September 1967;
+
+auf Antrag des Militärdepartementes,
+
+beschliesst:
+
+## 1 Grundsätze für die Beitragsgewährung
+
+#### Art. 1
+
+**In Betracht fallende Anlagen**
+
+<sup>1</sup> An die Erstellung neuer und an die Erweiterung bestehender Anlagen für sportliche Ausbildung im Freien und in Hallen werden Beiträge ausgerichtet, sofern diese Anlagen:
+
+- a) einem nachgewiesenen Bedürfnis entsprechen;
+- b) einem breiten Benützerkreis offen stehen;
+- c) bezüglich Bau und Betrieb finanziell sichergestellt sind;
+- d) von den Beitragsempfängern selbst oder in ihrem Namen betrieben werden;
+- e) von der Gemeinde beziehungsweise mehreren Gemeinden durch angemessene Beiträge unterstützt werden;
+- f) und den Anforderungen der kantonalen, regionalen und lokalen Planung entsprechen.
+
+#### Art. 2
+
+<sup>1</sup> Jeder Kantonsbeitrag setzt die Gewährung eines Bundesbeitrages voraus.
+
+#### Art. 3
+
+**Ausser Betracht fallende Anlagen**
+
+<sup>1</sup> Keine Beiträge werden ausgerichtet, sofern die Anlagen oder Teile derselben:
+
+- a) ausschliesslich Volks- und Mittelschulen, Betrieben, einem Verein oder Klub sowie ausschliesslich kommerziellen oder touristischen Zwecken oder Schausportveranstaltungen dienen;
+- b) nur gegen Entgelt und in der Absicht, einen Gewinn zu erzielen, zur Verfügung gestellt werden;
+- c) vom Kanton aufgrund anderer Erlasse finanziell unterstützt werden.
+
+#### Art. 4
+
+**Landerwerbskosten**
+
+<sup>1</sup> An die Kosten des Landerwerbs und der Begründung damit verbundener dinglichen Rechte, an kantonale und kommunale abgaben und Gebühren sowie an Kapitalzinsen werden keine Beiträge ausgerichtet.
+
+#### Art. 5
+
+**Planerische und technische Voraussetzungen**
+
+<sup>1</sup> Die Projekte haben sinngemäss zu entsprechen:
+
+- a) der Raumplanung;
+- b) den Richtlinien des Bundes gemäss der "Anleitung für den Bau von Sportanlagen (Normalien)";
+- c) den sporttechnischen Vorschriften der zuständigen Verbände;
+- d) den kantonalen und kommunalen Bauvorschriften;
+- e) den Richtlinien des Eidgenössischen Departementes des Innern über bauliche Vorkehren für Behinderte.
+
+#### Art. 6
+
+<sup>1</sup> Beiträge werden an lokale Anlagen ausgerichtet, sofern die Träger eine Gemeinde oder eine private Institution mit Beteiligung der Gemeinde ist, einen zwingenden Bedarf nachweist und nicht in der Lage ist, diesen Bedarf aus eigenen Mitteln zu decken.
+
+## 2 Verfahren für Beitragsgesuche
+
+#### Art. 7
+
+<sup>1</sup> Gesuchsteller können die Gemeinden oder andere Institutionen des privaten oder öffentlichen Rechts mit Beteiligung der Gemeinden sein.
+
+#### Art. 8
+
+<sup>1</sup> Beitragsgesuche sind an das kantonale Amt "Jugend und Sport" zu richten.
+
+<sup>2</sup> Es sind folgende Unterlagen beizulegen:
+
+- a) in je drei Exemplaren:
+  - 1\. Planungs- und Bedürfnisnachweis,
+  - 2\. Bauprojekt (Situation, Grundrisse, Fassaden, Schnitte),
+  - 3\. Baubeschrieb,
+  - 4\. Kostenvoranschlag;
+- b) in je zwei Exemplaren:
+  - 1\. Bescheinigung über Sicherstellung des Baugrundes (Kaufvertrag, Kaufrechtsvertrag, Baurechtsvertrag),
+  - 2\. Finanzierungsplan,
+  - 3\. Betriebsbudget,
+  - 4\. Provisorischer Belegungsplan,
+  - 5\. Entwurf für Benützungsreglement,
+  - 6\. bei Gesuchen für lokale Anlagen: Nachweis über finanzielle Lage der Trägerschaft.
+
+<sup>3</sup> Beitragsgesuche sind mit den erforderlichen Unterlagen vor Baubeginn dem Kanton einzureichen.
+
+#### Art. 9
+
+<sup>1</sup> Die Beitragsgesuche werden nach Einholung der Stellungnahme der kantonalen Kommission für Leibesübungen und Sport durch das zuständige Departement an den Staatsrat weitergeleitet.
+
+#### Art. 10
+
+<sup>1</sup> Die Entscheide des Bundes und des Kantons werden dem Gesuchsteller durch den Staatsrat mitgeteilt.
+
+<sup>2</sup> Die Arbeiten dürfen nicht begonnen werden, bevor das zuständige Amt die Bewilligung zum Arbeitsbeginn erteilt hat.
+
+#### Art. 11
+
+**Projektänderungen**
+
+<sup>1</sup> An die Kosten von Projektänderungen und -erweiterungen können Beiträge nur bewilligt werden, wenn vor Beginn solcher Arbeiten ein Ergänzungsgesuch eingereicht worden ist.
+
+#### Art. 12
+
+**Veränderte Voraussetzungen**
+
+<sup>1</sup> Bei Abweichungen gegenüber den Beitragsvoraussetzungen wird über den Beitrag neu entschieden (Art. 21 Abs. 2 und 3).
+
+#### Art. 13
+
+**Verfall, Verlängerung**
+
+<sup>1</sup> Die Beitragszusicherungen verfallen, sofern binnen zwei Jahren keine Bescheinigung über den Baubeginn vorliegt.
+
+<sup>2</sup> Beitragszusicherungen können auf Gesuch hin um höchstens ein Jahr verlängert werden.
+
+#### Art. 14
+
+**Bauabrechnung**
+
+<sup>1</sup> Nach Erstellung der Anlagen unterbreitet der Bauherr die endgültige Bauabrechnung mit entsprechenden Unterlagen dem kantonalen Amt für "Jugend und Sport".
+
+#### Art. 15
+
+**Bauliche Überprüfung**
+
+<sup>1</sup> Das kantonale Amt für "Jugend und Sport" prüft, ob die Anlagen dem mit dem Beitragsgesuch eingereichten Projekt entsprechen.
+
+#### Art. 16
+
+**Auszahlungen - Teilzahlungen**
+
+<sup>1</sup> Nach Überprüfung der Bauausführung veranlassen Bund und Kanton die Auszahlung des Beitrages gemäss Beitragszusicherung. Vorbehalten bleibt Artikel 11.
+
+<sup>2</sup> Im Falle von Artikel 12 kann die Auszahlung erst nach dem neuen Entscheid angeordnet werden.
+
+<sup>3</sup> Grundsätzlich wird keine Vorauszahlung auf die gewährten Subventionen gestattet. Im Notfalle und auf Gesuch hin können jedoch nach Massgabe der ausgewiesenen Arbeiten und im Rahmen der verfügbaren Kredite jährliche Teilzahlungen bis zu 60 Prozent des zugesicherten Beitrages geleistet werden.
+
+## 3 Entscheidungs- und Beitragsgrundlagen
+
+#### Art. 17
+
+**Prioritätsordnung**
+
+<sup>1</sup> Die Beitragsgesuche werden periodisch in eine aufgrund der Planung für beitragsberechtigte Sportanlagen aufgestellte Prioritätsordnung eingestuft.
+
+#### Art. 18
+
+**Mittlere Baukosten**
+
+<sup>1</sup> Die Beiträge werden aufgrund von Standardwerten für jede Art von Anlagen errechnet. Diese entsprechen den in den Artikeln 7 und 8 der Verordnung des Eidgenössischen Militärdepartementes vom 27. Februar 1973 erwähnten Werten.
+
+#### Art. 19
+
+**Ausnahmefälle**
+
+<sup>1</sup> Für Bauten, für die keine Standardwerte vorliegen oder bei denen besondere Bauerschwernisse bestehen, erfolgt die Einschätzung aufgrund des eingereichten Kostenvoranschlages.
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+## 4 Rückerstattungspflicht
+
+#### Art. 22
+
+<sup>1</sup> Bei Zweckentfremdung sowie bei grober Vernachlässigung subventionierter Anlagen oder Anlageteile sind die Beiträge zurückzuerstatten. Bei der Veräusserung subventionierter Anlagen oder Anlageteile kann der Antrag auf Übertragung des Beitrages an den Erwerber oder auf ganzen oder teilweisen Erlass der Rückerstattungspflicht gestellt werden.
+
+#### Art. 23
+
+**Meldepflicht**
+
+<sup>1</sup> Das kantonale Amt für "Jugend und Sport" meldet den Grundbuchämtern jene Einrichtungen, für die Bundes- und Kantonsbeiträge geleistet worden sind.
+
+<sup>2</sup> Die Grundbuchverwalter sind verpflichtet, dem Bund und dem kantonalen Amt für "Jugend und Sport" Handänderungen von Anlagen, an deren Erstellung oder Erweiterung Beiträge ausgerichtet worden sind, zu melden.
+
+#### Art. 24
+
+<sup>1</sup> Alle in diesem Reglement nicht vorgesehenen Fälle werden nach den Bestimmungen des Gesetzes vom 15. Mai 1974, der Planung des Staatsrates für beitragsberechtigte Sportanlagen und der auf diesem Gebiet in Kraft stehenden Bundesgesetze und -verordnungen behandelt.
+
+## 5 Übergangs- und Schlussbestimmungen
+
+#### Art. 25
+
+<sup>1</sup> Dieses Reglement hat rückwirkende Kraft zugunsten aller Projekte, soweit und in dem Masse als der Bund diese Beiträge zusichert, ist aber nicht anwendbar auf Anlagen, mit deren Bau vor dem 1. Juli 1972 begonnen wurde.
+
+CSW RO/AGS 1975 f 121 | d 109

@@ -1,0 +1,164 @@
+---
+canton: VS
+number: "725.105"
+title: "725.102"
+language: de
+version: 2010-10-15
+corrected: 2017-12-01
+version_adopted: 2010-10-06
+adopted: 2010-10-06
+in_force: 2010-10-15
+url: "https://lex.vs.ch/app/de/texts_of_law/725.105"
+pdf: "https://lex.vs.ch/api/de/versions/296/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# 725.102
+
+## Reglement über die Wintersperre von kantonalen Strassen und Wegen
+
+vom 6. Oktober 2010
+
+Der Staatsrat des Kantons Wallis
+
+eingesehen die Artikel 3 Absätze 3 und 5 und 106 Absatz 3 des Strassenverkehrsgesetzes vom 19. Dezember 1958 (SVG);
+
+eingesehen die Artikel 1 Buchstabe b und 2 des Ausführungsgesetzes über die Bundesgesetzgebung betreffend den Strassenverkehr vom 30. September 1987 (AGSVG);
+
+eingesehen die Artikel 103 Absatz 3, 137 Absatz 2, 143 und 246 Absatz 1 des Strassengesetzes vom 3. September 1965 (StrG);
+
+auf Antrag des Departements für Verkehr, Bau und Umwelt,
+
+beschliesst:[^hReglementüberdieW-1]
+
+[^hReglementüberdieW-1]: Abl. Nr. 41/2010
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Der Staatsrat verfügt alljährlich zu Beginn des Winters für die bevorstehende Saison und für das gesamte Kantonsgebiet, welche für den allgemeinen Durchgangsverkehr nicht geöffneten Kantonsstrassen und welche kantonalen Wege durch ein allgemeines Fahrverbot für den Motorfahrzeug- und Fahrradverkehr (Art. 3 Abs. 3 SVG) sowie für die übrigen Fahrzeugarten und Strassenbenützer (Reiter, Fussgänger, Wanderer, Skifahrer usw., Art. 3 Abs. 5 SVG) gesperrt werden.
+
+<sup>2</sup> Er erstellt eine Liste aller kantonalen Strassen und Wege, die der Wintersperre unterliegen und die er gegebenenfalls jedes Jahr anpassen kann.
+
+#### Art. 2
+
+**Verfügung**
+
+<sup>1</sup> Aus Gründen der öffentlichen Sicherheit oder aufgrund wirtschaftlicher Überlegungen verfügt der Staatsrat die Sperrung von Verkehrswegen. Er hat dabei den Grundsatz der Verhältnismässigkeit zu berücksichtigen und eine Abwägung aller vorhandenen Interessen vorzunehmen.
+
+<sup>2</sup> Gegen die Sperrverfügung kann innert 30 Tagen seit ihrer Veröffentlichung im Amtsblatt Beschwerde beim Kantonsgericht eingereicht werden.
+
+<sup>3</sup> Eine allfällige Beschwerde hat keine aufschiebende Wirkung.
+
+#### Art. 3
+
+**Veröffentlichung der Verfügung**
+
+Die Liste der kantonalen Strassen und Wege, die der Wintersperre unterliegen, wird alljährlich zu Beginn des Winters im Amtsblatt des Kantons Wallis veröffentlicht.
+
+## 725.102
+
+#### Art. 4
+
+**Vollzug der Verfügung**
+
+<sup>1</sup> Nach Veröffentlichung der Sperrverfügung und Anhörung der kantonalen Kommission für Strassensignalisation nehmen die zuständigen Dienststellen die sachgemässe Anbringung der Signalisation vor.
+
+<sup>2</sup> Die Signalisation wird beim Beginn des zu sperrenden Strassenabschnitts sowie an jeder Zufahrt angebracht, die in diesen einmündet.
+
+<sup>3</sup> Die Signalisation kann durch weitere Vorkehrungen ergänzt werden.
+
+#### Art. 5
+
+**Sanktionen**
+
+<sup>1</sup> Jeder Verstoss gegen die errichtete Signalisation hat nach Artikel 27 Absatz 1 SVG in Verbindung mit Artikel 90 SVG eine strafrechtliche Sanktion zur Folge, es sei denn, es liege eine vom allgemeinen Verkehrsverbot abweichende Ausnahmebewilligung vor.
+
+<sup>2</sup> Das Beschädigen oder Versetzen einer errichteten Signalisation stellt eine strafbare Handlung im Sinne der Artikel 144 StGB, 98 SVG oder 237 StGB dar.
+
+#### Art. 6
+
+**Dauer der Beschränkung**
+
+<sup>1</sup> Die Wiedereröffnung der während des Winters für den Verkehr von Motorfahrzeugen oder Fahrrädern und andere Arten der Benutzung (durch Reiter, Fussgänger, Wanderer oder Skifahrer usw.) gesperrten kantonalen Strassen und Wege erfolgt alljährlich im Frühling, sobald a) es die längerfristigen Witterungsbedingungen erlauben,
+
+- b) keine Gefährdung mehr vorhanden ist und
+
+- c) die für die Wiedereröffnung notwendigen Arbeiten ausgeführt worden sind.
+
+<sup>2</sup> Die zuständigen Dienststellen nehmen die Aufhebung der Beschränkung vor.
+
+#### Art. 7
+
+**Ausnahmebewilligung**
+
+<sup>1</sup> Der Staatsrat kann ausnahmsweise und unter gewissen, genau zu definierenden Bedingungen ein punktuelles Abweichen vom allgemeinen Fahrverbot oder von einem bestimmten Benutzungsverbot bewilligen.
+
+<sup>2</sup> Der Gesuchsteller hat dazu ein begründetes Gesuch beim Rechtsdienst des für den Strassenbau zuständigen Departements einzureichen.
+
+<sup>3</sup> Die Ausnahmebewilligung wird persönlich für eine Strasse oder einen Strassenabschnitt, die genau zu bezeichnen ist, erteilt.
+
+<sup>4</sup> Die Bewilligung ist nicht auf Dritte übertragbar.
+
+<sup>5</sup> Die Bewilligung wird an bestimmte Bedingungen und Auflagen geknüpft, namentlich betreffend:
+
+- a) die Dauer der Bewilligung;
+
+- b) die Erneuerung der Bewilligung;
+
+- c) die Ausschliesslichkeit der Bewilligung;
+
+- d) den Umfang und Zweck der Bewilligung für den Verkehr auf der bezeichneten Strecke;
+
+- e) die Verpflichtung des Bewilligungsnehmers, die Strassenbenützer über den Umfang der Bewilligung zu informieren;
+
+## 725.102
+
+- f) die Verpflichtung des Bewilligungsnehmers, auf der bezeichneten Strecke für die Sicherheit der Personen zu sorgen;
+
+- g) die Verpflichtung des Bewilligungsnehmers, sich bei lokalen oder regionalen Fachpersonen betreffend die Prävention vor Lawinen, Rutschungen, Steinschlägen oder anderen Gefahren zu informieren, sowie die Verpflichtung, die bezeichnete Strecke nur nach Erhalt einer günstigen Vormeinung besagter Fachpersonen zu benutzen;
+
+- h) die Unterhaltskosten für die gesperrte Strecke, die zulasten des Bewilligungsnehmers gehen;
+
+- i) das Überwachungssystem und die Zugangsregelung (Ampeln, Strassenschranken, Absperrvorrichtungen, Meldung der berechtigten Nummernschilder, Signalisation, usw.);
+
+- j) die Kosten für allfällige Interventionen und für die Überwachung sowie gegebenenfalls für bauliche Massnahmen, die aufgrund der bewilligten Benutzung des betroffenen Streckenabschnitts notwendig werden;
+
+- k) die Bedingungen und Auflagen, die von den kantonalen Dienststellen vorgebracht werden;
+
+- l) die Verpflichtung des Bewilligungsnehmers ein Benutzungsprotokoll zu führen;
+
+- m) die zu unterzeichnende Verpflichtungserklärung des Bewilligungsnehmers, dass er die bezeichnete Strecke auf eigene Wag und Gefahr benutzt und die Verantwortung für die Konsequenzen im Falle eines Unfalls übernimmt;
+
+- n) die Rechtsmittel.
+
+<sup>6</sup> Gegen den Entscheid der Ausnahmebewilligung kann innert 30 Tagen Beschwerde beim Kantonsgericht eingereicht werden.
+
+#### Art. 8
+
+**Gebühr**
+
+Der Staatsrat erhebt gestützt auf Artikel 143 StrG eine Gebühr für jeden Entscheid oder jede Amtshandlung, die in Anwendung dieses Reglements erfolgt.
+
+#### Art. 9
+
+**Rückzug der Ausnahmebewilligung**
+
+<sup>1</sup> Der Staatsrat kann die Ausnahmebewilligung zurückziehen, wenn den Bedingungen und Auflagen der Bewilligung nicht Folge geleistet wird.
+
+<sup>2</sup> Gegen den Rückzug der Ausnahmebewilligung kann innert 30 Tagen Beschwerde beim Kantonsgericht eingereicht werden.
+
+#### Art. 10
+
+**Inkrafttreten**
+
+Das vorliegende Reglement tritt mit seiner Veröffentlichung im Amtsblatt in Kraft.[^10-1]
+
+So beschlossen im Staatsrat zu Sitten, den 6. Oktober 2010.
+
+Der Präsident des Staatsrats: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+
+[^10-1]: Inkrafttreten am 15. Oktober 2010

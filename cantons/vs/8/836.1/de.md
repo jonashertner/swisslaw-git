@@ -1,0 +1,802 @@
+---
+canton: VS
+number: "836.1"
+title: Ausführungsgesetz zum Bundesgesetz über die Familienzulagen
+short: AGFamZG
+language: de
+version: 2013-01-01
+corrected: 2018-06-28
+version_adopted: 2012-09-13
+adopted: 2008-09-11
+in_force: 2009-01-01
+url: "https://lex.vs.ch/app/de/texts_of_law/836.1"
+pdf: "https://lex.vs.ch/api/de/versions/175/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Ausführungsgesetz zum Bundesgesetz über die Familienzulagen (AGFamZG)
+
+vom 11. September 2008
+
+Der Grosse Rat des Kantons Wallis
+
+eingesehen die Artikel 31 Absatz 3 und 42 Absatz 2 der Kantonsverfassung; eingesehen das Bundesgesetz über die Familienzulagen vom 24. März 2006 (FamZG);
+
+eingesehen die Verordnung über die Familienzulagen vom 31. Oktober 2007 (FamZV);
+
+auf Antrag des Staatsrates,
+
+verordnet:[^t-1]
+
+[^t-1]: Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau GS/VS 2009, 36 und 1.01.2009
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+### 1. Abschnitt: Anwendungsbereich
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Das vorliegende Gesetz regelt in Anwendung der Bundesgesetzgebung den Anspruch auf Leistungen in Form von Familienzulagen, für jedes Kind, für dessen Unterhalt eine dem Gesetz unterstehende Person aufkommen muss.
+
+<sup>2</sup> Die Bestimmungen des FamZG und des Allgemeinen Teils des Sozialversicherungsgesetzes (ATSG) sind anwendbar.
+
+#### Art. 2
+
+**Unterstellung**
+
+Diesem Gesetz unterstehen:
+
+- a) die bei der AHV beitragspflichtigen Arbeitgeber;
+
+- b) die Arbeitnehmer, deren Arbeitgeber nicht verpflichtet ist, AHV-Beiträge zu bezahlen;
+
+- c) die selbständigerwerbenden Personen nichtlandwirtschaftlicher Berufe, die verpflichtet sind, sich einer AHV-Ausgleichskasse anzuschliessen; <sup>3</sup>
+
+- d) die in der Landwirtschaft selbständigerwerbend tätigen Personen, die verpflichtet sind, sich einer AHV-Ausgleichskasse anzuschliessen;
+
+- e) die nichterwerbstätigen Personen, die als solche in der AHV obligatorisch versichert sind.
+
+### 2. Abschnitt: Anspruchsberechtigte
+
+#### Art. 3
+
+**Anspruchsberechtigte**
+
+<sup>1</sup> Die dem Gesetz unterstellten Personen kommen in den Genuss der im vorliegenden Gesetz vorgesehenen Familienzulagen, sofern das Recht auf die Leistungen durch Artikel 4 FamZG begründet ist.
+
+<sup>2</sup> Das vorliegende Gesetz enthält zum Teil Bestimmungen, die weitergehende Leistungen ermöglichen als im FamZG vorgesehen.
+
+### 3. Abschnitt: Familienzulagen
+
+#### Art. 4
+
+**Begriff, Zweck und Arten von Zulagen**
+
+<sup>1</sup> Familienzulagen sind einmalige oder periodische Geldleistungen, die ausgerichtet werden, um die finanzielle Belastung durch ein oder mehrere Kinder teilweise auszugleichen.
+
+<sup>2</sup> Die Familienzulagen nach diesem Gesetz umfassen:
+
+- a) die Geburtszulage;
+
+- b) die Adoptionszulage;
+
+- c) die Kinderzulage;
+
+- d) die Ausbildungszulage;
+
+- e) die Zusatzleistung ab dem dritten Kind;
+
+- f) die Haushaltszulage des kantonalen Familienfonds.
+
+#### Art. 5
+
+**Geburtszulage**
+
+<sup>1</sup> Die Geburtszulage ist eine einmalige Leistung, die für jedes Kind gemäss den Bedingungen von Artikel 2 FamZV ausgerichtet wird.
+
+<sup>2</sup> Die Geburtszulage beträgt 2'000 Franken. Bei Mehrlingsgeburten beträgt diese Zulage pro Kind 3'000 Franken.
+
+#### Art. 6
+
+**Adoptionszulage**
+
+<sup>1</sup> Die Adoptionszulage ist eine einmalige Leistung, die für jedes minderjährige Kind unter den Bedingungen von Artikel 3 FamZV ausgerichtet wird, das zur späteren Adoption aufgenommen wird.
+
+<sup>2</sup> Die Adoptionszulage beträgt 2'000 Franken. Bei Mehrlingsadoptionen beträgt diese Zulage pro Kind 3'000 Franken.
+
+#### Art. 7
+
+**Kinderzulage**
+
+<sup>1</sup> Die Kinderzulage ist eine monatliche Geldleistung, die ab dem Geburtsmonat des Kindes bis zum Ende des Monat ausgerichtet wird, in dem das Kind das 16. Altersjahr vollendet; ist das Kind erwerbsunfähig, wird die Zulage bis zum vollendeten 20. Altersjahr ausgerichtet.
+
+<sup>2</sup> Die Kinderzulage beträgt 275 Franken pro Monat.
+
+#### Art. 8
+
+**Ausbildungszulage**
+
+<sup>1</sup> Die Ausbildungszulage ist eine monatliche Leistung, die ab dem Ende des Monats, in dem das Kind das 16. Altersjahr vollendet, bis zum Abschluss der Ausbildung ausgerichtet wird, längstens jedoch bis zum Ende des Monats, in dem es das 25. Altersjahr vollendet.
+
+<sup>2</sup> Die Ausbildungszulage ist ebenfalls zu entrichten, wenn die Ausbildung vor dem 16. Altersjahr beginnt.
+
+<sup>3</sup> Die Ausbildungszulage beträgt 425 Franken pro Monat.
+
+#### Art. 9
+
+**Zusatzleistung ab dem dritten Kind**
+
+<sup>1</sup> Die Zusatzleistung zur Kinderzulage und/oder Ausbildungszulage ab dem dritten bezugsberechtigten Kind ist für die kinderreichen Familien bestimmt. Sie ist in die Kinderzulage oder in die Ausbildungszulage unter Berücksichtigung der Rangfolge des Kindes integriert.
+
+<sup>1bis</sup> Spezielle Situationen im Zusammenhang mit Fortsetzungsfamilien, die im gleichen Haushalt im Wallis leben und bei denen die Ansprüche der Kinder gemäss dem vorliegenden Gesetz nicht einem einzigen Bezüger zugeordnet sind, werden in der Verordnung geregelt. <sup>3</sup>
+
+<sup>2</sup> Die Zusatzleistung ab dem dritten bezugsberechtigten Kind beträgt 100 Franken pro Monat.
+
+#### Art. 10
+
+**Haushaltszulage des kantonalen Familienfonds**
+
+<sup>1</sup> Die Haushaltszulage des kantonalen Familienfonds ist eine jährliche Leistung, die im Monat Dezember an die Familien mit niedrigem Einkommen und Kinderlasten ausgerichtet wird, die ihren Wohnsitz im Kanton haben.
+
+<sup>2</sup> Die Haushaltszulage beträgt 1'350 Franken.
+
+#### Art. 11
+
+**Ergänzende kommunale Zulage**
+
+Die Gemeinden können auf dem Reglementsweg eine ergänzende Leistung zugunsten der Familien vorsehen.
+
+#### Art. 12
+
+**Anpassung an die Teuerung**
+
+Der Staatsrat passt die Beträge der in Artikel 4 Absatz 2 vorgesehenen Familienzulagen auf den gleichen Zeitpunkt und zum selben Prozentsatz an, wie es für den Bundesrat in Artikel 5 Absatz 3 FamZG vorgesehen ist.
+
+#### Art. 13
+
+**Doppelbezug, Anspruchskonkurrenz, Unterhaltsbeitrag**
+
+Die entsprechenden Artikel des FamZG sind anwendbar.
+
+#### Art. 14
+
+**Vorausbezahlung der Familienzulagen**
+
+<sup>1</sup> In schwierigen familiären Situationen wie Trennung oder Scheidung schiesst die Kasse desjenigen Elternteils, dessen Lohn der höhere ist, die Zulagen demjenigen Elternteil vor, bei dem die Kinder leben.
+
+<sup>2</sup> Die Kasse, die den Vorschuss leistet, klärt ab, welche Kasse zuständig ist und fordert gegebenenfalls den vorgeschossenen Betrag von ihr zurück.
+
+<sup>3</sup> Das kantonale Amt für Familienzulagen erteilt den Bezugsberechtigten sämtliche zur Bestimmung der zuständigen Kasse notwendigen Auskünfte.
+
+<sup>4</sup> Die Kasse kann die Familienzulagen einem geeigneten Dritten oder einer Behörde ausbezahlen, der oder die der berechtigten Person gegenüber gesetzlich oder sittlich unterstützungspflichtig ist oder diese dauernd fürsorgerisch betreut, sofern die berechtigte Person die Leistungen nicht für den eigenen Unterhalt oder für den Unterhalt von Personen, für die sie zu sorgen hat, verwendet oder dazu nachweisbar nicht im Stande ist.
+
+### 2. Kapitel: Familienzulageordnungen
+
+### 1. Abschnitt: Arbeitnehmer nichtlandwirtschaftlicher Berufe
+
+#### Art. 15
+
+**Organisation**
+
+<sup>1</sup> Die im Kanton tätigen Familienzulagekassen sind:
+
+- a) die vom Staatsrat anerkannten Familienzulagekassen, die ihren Sitz im Kanton Wallis haben;
+
+- b) die von AHV-Ausgleichskassen geführten Familienzulagekassen, die sich angemeldet haben;
+
+- c) die vom Kanton errichtete Kantonale Familienzulagekasse.
+
+<sup>2</sup> Damit sie im Kanton tätig sein dürfen, haben die Kassen die nachfolgenden allgemeinen Bedingungen zu erfüllen:
+
+- a) ihre Verwaltung hat vollkommen unabhängig von den Gründerverbänden sowie von den andern ihnen anvertrauten Aufgaben zu erfolgen;
+
+- b) sie leisten die Zulagen und erheben die Beiträge, die im vorliegenden Gesetz vorgeschrieben sind;
+
+- c) sie beteiligen sich an der Finanzierung des kantonalen Familienfonds;
+
+- d) sie erheben den Beitrag an den Berufsbildungsfonds;
+
+- e) sie beteiligen sich am Ausgleichsfonds;
+
+- f) sie führen eine separate, vom Revisionsorgan als richtig bestätigte Buchhaltung über die gemäss der Walliser Gesetzgebung ausbezahlten Zulagen;
+
+- g) sie verfügen über genügend gesetzliche Reserven, um die Auszahlung der Zulagen gemäss der Walliser Gesetzgebung zu gewährleisten;
+
+- h) sie erstellen den Jahresbericht und die Statistiken gemäss den Weisungen des kantonalen Amtes für Familienzulagen.
+
+#### Art. 16
+
+Anerkennung der beruflichen und zwischenberuflichen Familienzulagekassen
+
+<sup>1</sup> Die beruflichen und zwischenberuflichen Familienzulagekassen werden von Berufsverbänden für bestimmte Berufe oder von Arbeitgebern einer Berufsgruppe errichtet.
+
+<sup>2</sup> In der Regel kann für denselben Beruf nur eine einzige berufliche oder zwischenberufliche Kasse anerkannt werden.
+
+<sup>3</sup> Der Staatsrat kann jedoch in jedem Sprachgebiet des Kantons eine denselben Beruf betreffende Kasse anerkennen.
+
+<sup>4</sup> Die Familienzulagekassen haben eine getreue Geschäftsführung zu gewährleisten, die von einem Verwaltungsrat wahrgenommen wird, in welchem die Arbeitgeber und die Arbeitnehmer in angemessener Weise vertreten sind.
+
+<sup>5</sup> Die Anerkennung ist zudem an die Bedingung geknüpft, dass die Kassen die Auszahlung von Zulagen für mindestens 400 Kinder wahrnehmen.
+
+<sup>6</sup> Die anerkannten Familienzulagekassen stehen den Arbeitgebern des entsprechenden Berufs offen; es besteht für die Arbeitgeber keine Verpflichtung, Mitglieder der Gründerverbände zu werden.
+
+#### Art. 17
+
+**Anerkennungsantrag für die Familienzulagekassen**
+
+<sup>1</sup> Die Familienzulagekassen, die anerkannt werden wollen, richten vor dem 1. September für das nachfolgende Jahr ein schriftliches Gesuch an den Staats-rat. Dem Gesuch sind die Statuten und die notwendigen sachdienlichen Unterlagen gemäss den Artikeln 15 und 16 beizulegen.
+
+<sup>2</sup> Der Staatsrat erlässt einen Anerkennungsentscheid, der solange gilt, als die erforderlichen Bedingungen erfüllt sind.
+
+#### Art. 18
+
+**Entzug der Anerkennung**
+
+<sup>1</sup> Der Staatsrat kann den anerkannten Kassen eine angemessene Frist erteilen, um sich den Erfordernissen des vorliegenden Gesetzes anzupassen. Werden die Bedingungen nicht eingehalten, kann er den betroffenen Kassen die Anerkennung entziehen und die Auflösung der auf kantonaler Ebene errichteten Kassen anordnen, dies unter Vorbehalt der Straffolgen.
+
+<sup>2</sup> Die gesetzlichen Reserven gehen an die neuen Kassen oder, bei Fehlen von solchen, an die kantonale Familienzulagekasse.
+
+#### Art. 19
+
+Bewilligung der Tätigkeit der von AHV-Kassen geführten Familienzulagekassen
+
+<sup>1</sup> Die von AHV-Kassen geführten Familienzulagekassen melden sich vor dem 1. September für das nachfolgende Jahr unter Einreichung eines schriftlichen Gesuchs, der Statuten und einer formellen Erklärung, wonach sie allen in Artikel 15 Absatz 2 festgelegten Anforderungen entsprechen, an.
+
+<sup>2</sup> Der Staatsrat erlässt einen Entscheid auf Grund der Feststellung, dass die Kasse sich angemeldet hat, um eine Tätigkeit im Kanton auszuüben. Dieser Entscheid gilt solange als die Situation unverändert bleibt.
+
+<sup>3</sup> Die von AHV-Kassen geführten Familienzulagekassen stehen nur Arbeitgebern offen, welche der AHV angeschlossen sind.
+
+#### Art. 20
+
+**Entzug der Bewilligung**
+
+<sup>1</sup> Der Staatsrat kann den im Kanton tätigen Kassen eine angemessene Frist erteilen, um sich den Erfordernissen des vorliegenden Gesetzes anzupassen. Werden die Bedingungen nicht eingehalten, kann er den betroffenen Kassen die Bewilligung entziehen und ihre Mitglieder einer anderen im Kanton zugelassenen Kasse zuweisen, dies unter Vorbehalt der Straffolgen.
+
+<sup>2</sup> Die nicht mehr zugelassenen Kassen überweisen ihre gesetzlichen Reserven an die neue Kasse.
+
+#### Art. 21
+
+<sup>2</sup> Kantonale Familienzulagekasse
+
+<sup>1</sup> Die kantonale Familienzulagekasse im Sinne von Artikel 17 Absatz 1 FamZG ist die zwischenberufliche Familienzulagekasse des Wallis (CIVAF), Verein des Zivilrechts, mit Sitz in Sitten.
+
+<sup>2</sup> Die kantonale Familienzulagekasse hat eine Auffangfunktion. Sie schliesst vorrangig die kantonale Verwaltung und die kantonalen Institutionen öffentlichen Rechts an, sowie die Mitglieder, die sich keiner anerkannten, von einem beruflichen oder zwischenberuflichen Verband gegründeten Familienzulagekasse anschliessen können.
+
+<sup>3</sup> Die Organe der kantonalen FZ-Kasse sind:
+
+- a) die Delegiertenversammlung;
+
+- b) der Verwaltungsrat, paritätisch vertreten von den Arbeitgebern und Arbeitnehmern und durch einen Arbeitgebervertreter präsidiert;
+
+- c) die Direktion, durch die Ausgleichskasse des Kantons Wallis geleitet;
+
+- d) das Revisionsorgan.
+
+<sup>4</sup> Ausserdem muss die kantonale Kasse ihre Statuten vom Staatsrat genehmigen lassen, sämtlichen Anforderungen von Artikel 15 Absatz 2 AGFamZG entsprechen und eine getreue Geschäftsführung gewährleisten.
+
+#### Art. 22
+
+**Zusammenschluss und Auflösung von Kassen**
+
+Alle von den zuständigen Organen der Kassen gefällten Entscheide über einen Zusammenschluss oder eine Auflösung von Kassen sind unverzüglich dem Staatsrat zu melden.
+
+#### Art. 23
+
+**Kassenzugehörigkeit**
+
+<sup>1</sup> Jeder Arbeitgeber ist verpflichtet, sich für Familienzulagen einer Kasse anzuschliessen, sei es:
+
+- a) an die anerkannte Familienzulagekasse seines Tätigkeitsbereiches;
+
+- b) an die von seiner AHV-Kasse geführte Familienzulagekasse;
+
+- c) an die kantonale Familienausgleichskasse als Auffangkasse wenn die unter den Buchstaben a und b aufgezählten Möglichkeiten nicht bestehen.
+
+<sup>2</sup> Die Kassen sind verpflichtet, dem kantonalen Amt für Familienzulagen in geeigneter Weise die Liste ihrer Mitglieder sowie alle nachfolgenden Veränderungen mitzuteilen.
+
+<sup>3</sup> Jeder Arbeitgeber, der keiner Kasse angeschlossen ist oder dessen Anschluss vom kantonalen Amt für Familienzulagen nicht anerkannt wird, hat sich innerhalb der festgesetzten Frist einer Kasse gemäss Absatz 1 anzuschliessen.
+
+<sup>4</sup> Bei Nichtbefolgung dieser Pflicht kann das kantonale Amt für Familienzulagen von Amtes wegen den Anschluss an eine geeignete Kasse anordnen.
+
+#### Art. 24
+
+**Wechsel der Kasse**
+
+<sup>1</sup> Kassenwechsel können ab Beitritt nur nach Ablauf einer Frist von zwei Jahren auf das Ende eines Kalenderjahres erfolgen.
+
+<sup>2</sup> Das Mitglied einer anerkannten Familienzulagekasse kann zu der von seiner AHV-Kasse geführten Familienzulagekasse wechseln.
+
+<sup>3</sup> Das Mitglied einer von seiner AHV-Kasse geführten Familienzulagekasse kann zu der für seinen Beruf anerkannten Familienzulagekasse, oder zu einer anderen von seiner neuen AHV-Kasse geführten Familienzulagekasse wechseln.
+
+<sup>4</sup> Das Mitglied der kantonalen Familienausgleichskasse kann zu der für seinen Beruf anerkannten Familienzulagekasse oder zu der von seiner AHV-Kasse geführten Familienzulagekasse wechseln.
+
+#### Art. 25
+
+**Beiträge**
+
+<sup>1</sup> Die Beiträge werden von den Kassen in Prozenten der der AHV unterstellten Löhne festgesetzt und erhoben.
+
+<sup>2</sup> Die Beiträge werden so festgesetzt, dass sie ausschliesslich die Familienzulagen, die Deckung der Verwaltungskosten der Kasse, den Ausgleichsfonds und die Schaffung eines gesetzlichen Reservefonds finanzieren.
+
+<sup>3</sup> Die Arbeitnehmer beteiligen sich an der Finanzierung der Familienzulagen mit einem Beitrag von 0.Prozent der Löhne.
+
+<sup>4</sup> Die Beitragsansätze der Arbeitgeber sind von der Finanzstruktur der Kassen abhängig, d.h. von der Summe der ausgerichteten Zulagen im Verhältnis zum Total der Löhne. Sie müssen zwischen 2.5 und 4.5 Prozent der Löhne festgesetzt werden.
+
+<sup>5</sup> Jede Beitragserhöhung aufgrund von Anpassungen, die entweder nicht vorgesehen waren oder über den vom Bund vorgesehenen Minimalbeträgen liegen, wird von Arbeitgebern und -nehmern paritätisch übernommen.
+
+<sup>6</sup> Die Verwaltungskosten der Kassen, welche im Beitragssatz enthalten sind, dürfen 0.4 Prozent der Löhne nicht übersteigen.
+
+<sup>7</sup> Der Beitrag an den Familienfonds wird zusätzlich zu den Beiträgen von Absatz 2 erhoben.
+
+<sup>8</sup> Die Kassen sind befugt, bei den Arbeitgebern zusätzlich den Ausbildungsbeitrag für den kantonalen Berufsbildungsfonds zu erheben.
+
+<sup>9</sup> Die Familienzulagekassen können zugunsten ihrer Berufsverbände weitere Beiträge erheben.
+
+#### Art. 26
+
+**Arbeitnehmer nicht beitragspflichtiger Arbeitgeber**
+
+<sup>1</sup> Die Arbeitnehmer, deren Arbeitgeber nicht verpflichtet ist, Beiträge gemäss AHVG zu bezahlen, werden der kantonalen Familienzulagekasse angeschlossen.
+
+<sup>2</sup> Die Arbeitnehmer nicht beitragspflichtiger Arbeitgeber bezahlen den Beitrag des Arbeitgebers und denjenigen des Arbeitnehmers.
+
+#### Art. 27
+
+**Reservefonds**
+
+<sup>1</sup> Der gesetzliche Reservefonds muss den in der FamZV festgesetzten Normen entsprechen.
+
+<sup>2</sup> Wenn der gesetzliche Reservefonds das in der FamZV vorgesehene Maximum übersteigt, müssen die Kassen den Beitragsansatz der Arbeitgeber senken.
+
+<sup>3</sup> Die Reserven sind so anzulegen, dass die Kassen im erforderlichen Zeitpunkt die geschuldeten Familienzulagen auszahlen können.
+
+<sup>4</sup> Die statutarischen Reserven der Kassen dürfen nicht durch Beiträge finanziert werden.
+
+<sup>5</sup> Die Familienzulagekassen, die ihren Sitz ausserhalb des Kantons haben, müssen in ihrer Buchhaltung die Reserven, die für die Auszahlung der Familienzulagen im Kanton notwendig sind, separat ausweisen.
+
+#### Art. 28
+
+**Arbeitgeberkontrolle**
+
+<sup>1</sup> Die Kassen führen, mindestens gemäss den Erfordernissen der für die AHV anwendbaren Weisungen, regelmässig Kontrollen über die von ihren Mitgliedern vorgelegten Abrechnungen durch.
+
+<sup>2</sup> Die anerkannten Familienzulagekassen können von den AHV-Kassen gegen Entschädigung deren Berichte zu den Arbeitgeberkontrollen erhalten.
+
+#### Art. 29
+
+**Revision der Kassen**
+
+<sup>1</sup> Jede Kasse wird jährlich durch ein gemäss den Weisungen des kantonalen Amtes für Familienzulagen zugelassenes Revisionsorgan revidiert. Dem Amt ist ein ausführlicher Bericht zu liefern.
+
+<sup>2</sup> Die Revision umfasst auch eine Prüfung der Anwendung der Walliser Gesetzgebung sowie die Richtigkeit der statistischen Angaben, welche die Familienzulagekassen zu liefern haben.
+
+### 2. Abschnitt: Selbständigerwerbende
+
+nichtlandwirtschaftlicher Berufe
+
+#### Art. 30
+
+<sup>3</sup> Organisation
+
+Die Organisationsmodalitäten betreffend die in den Artikeln 15 bis 24 vorgesehenen Familienzulagekassen für die Arbeitnehmer nichtlandwirtschaftlicher Berufe sind analog für die Selbständigerwerbenden nichtlandwirtschaftlicher Berufe anwendbar.
+
+#### Art. 31
+
+<sup>3</sup> Beiträge
+
+<sup>1</sup> Der von den Familienzulagekassen anzuwendende Beitragssatz auf dem AHV-pflichtigen Einkommen aus selbständiger Erwerbstätigkeit beträgt maximal 4,5 Prozent. Die Beitragssätze der Selbstständigerwerbenden und der Arbeitgeber können verschieden sein.
+
+<sup>2</sup> Aufgehoben
+
+<sup>3</sup> Die im Sinne von Artikel 23 Absatz 1 Buchstabe a anerkannten Kassen fordern bei der für die AHV zuständigen Ausgleichskasse die Verfügung über persönliche Beiträge an.
+
+#### Art. 31bis
+
+<sup>3</sup> Zulagen
+
+<sup>1</sup> Für die Zulagen sind die Artikel 4 bis 14 anwendbar.
+
+<sup>2</sup> Die Anspruchskonkurrenz wird in Artikel 7 Absatz 1 FamZG geregelt.
+
+### 3. Abschnitt: Landwirtschaftliche Arbeitnehmer
+
+#### Art. 32
+
+**Ergänzende Zulagen**
+
+<sup>1</sup> Die landwirtschaftlichen Arbeitnehmer haben Anrecht auf die Familienzulagen gemäss dem Bundesgesetz über die Familienzulagen in der Landwirtschaft (FLG).
+
+<sup>2</sup> Der Kanton entrichtet den landwirtschaftlichen Arbeitnehmern:
+
+- a) eine ergänzende Zulage mit dem Zweck, den Unterschied zwischen den in Artikel 7 und 8 festgelegten Zulagen und denjenigen nach Bundesrecht auszugleichen, unter Berücksichtigung der Haushaltszulage und des Zuschlags für Berggebiete;
+
+- b) eine Geburtszulage oder eine Adoptionszulage entsprechend den Artikeln 5 und 6 dieses Gesetzes.
+
+#### Art. 33
+
+**Finanzierung**
+
+Die finanzielle Deckung und die Verwaltungskosten werden vom Kanton übernommen.
+
+#### Art. 34
+
+**Verwaltung**
+
+Die Auszahlung der ergänzenden Leistungen an die landwirtschaftlichen Arbeitnehmer wird der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
+
+### 4. Abschnitt: Selbständigerwerbende Landwirte
+
+#### Art. 35
+
+**Selbständigerwerbende Landwirte**
+
+<sup>1</sup> Dem vorliegenden Gesetz sind unterstellt:
+
+- a) die im Wallis wohnhaften Selbständigerwerbenden, welche im Kanton ihre Haupttätigkeit der Landwirtschaft widmen;
+
+- b) die im Wallis wohnhaften Arbeitnehmer, die nebenberuflich im Kanton eine nennenswerte selbständige Tätigkeit in der Landwirtschaft ausüben.
+
+<sup>2</sup> Die Begriffe landwirtschaftliche Betriebsleiter, hauptberufliche und selbständige Tätigkeit werden in der Verordnung näher umschrieben.
+
+#### Art. 36
+
+**Ergänzende Zulagen**
+
+<sup>1</sup> Die selbständigerwerbenden Landwirte haben Anrecht auf die Familienzulagen gemäss dem Bundesgesetz über die Familienzulagen in der Landwirtschaft (FLG).
+
+<sup>2</sup> Die selbständigerwerbenden Landwirte erhalten:
+
+- a) eine ergänzende Zulage mit dem Zweck, den Unterschied zwischen den in Artikel 7 und 8 festgelegten Zulagen und denjenigen nach Bundesrecht auszugleichen, unter Berücksichtigung des Zuschlags für die Berggebiete;
+
+- b) eine Geburtszulage oder eine Adoptionszulage entsprechend den Artikeln 5 und 6 dieses Gesetzes.
+
+#### Art. 37
+
+**Finanzierung**
+
+Die finanzielle Deckung inklusive Verwaltungskosten erfolgt durch:
+
+- a) die Beiträge der unterstellten Personen, die höchstens 25 Prozent des geschuldeten AHV-Beitrags betragen;
+
+- b) die Subvention des Kantons, die bezweckt, die von den Beiträgen der unterstellten Personen nicht gedeckten Ausgaben zu decken;
+
+- c) die Erträge aus dem Vermögen der Kasse.
+
+#### Art. 38
+
+**Vorbehalt des Subventionsgesetzes**
+
+Die Vorschriften des kantonalen Subventionsgesetzes sind für die im vorliegenden Gesetz vorgesehenen Subventionen anwendbar, sofern dieses nicht ausdrücklich abweicht.
+
+#### Art. 39
+
+**Familienzulagekasse für die selbständigerwerbenden Landwirte**
+
+<sup>1</sup> Die Familienzulagekasse für die selbständigerwerbenden Landwirte (FZS-Kasse) ist eine selbständige öffentliche Anstalt. Sie ist eine juristische Person und verfügt über ihr eigenes Vermögen.
+
+<sup>2</sup> Die Verwaltung der FZS-Kasse ist der AHV-Ausgleichskasse des Kantons Wallis anvertraut.
+
+<sup>3</sup> Die Organisation, die Aufsicht und die Verantwortlichkeit ist durch das Ausführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung sowie durch das Reglement betreffend die Ausgleichskasse des Kantons Wallis und die AHV-Zweigstellen geregelt.
+
+<sup>4</sup> Die FZS-Kasse muss die Beiträge einkassieren und die Zulagen den selbständigerwerbenden Landwirten zahlen.
+
+#### Art. 40
+
+**Reservefonds**
+
+<sup>1</sup> Der gesetzliche Reservefonds muss den in der FamZV festgesetzten Normen entsprechen.
+
+<sup>2</sup> Wenn der gesetzliche Reservefonds das in der FamZV vorgesehene Maximum übersteigt, wird vorerst die kantonale Subvention reduziert und nachher die Beiträge der unterstellten Personen.
+
+<sup>3</sup> Der Staatsrat passt die Beiträge der unterstellten Personen so an, dass die in Absatz 1 vorgegebenen Ziele innerhalb von zehn Jahren nach Inkrafttreten des Gesetzes erreicht werden.
+
+<sup>4</sup> Die Reserven sind so anzulegen, dass die Kassen jederzeit die geschuldeten Familienzulagen auszahlen können.
+
+### 5. Abschnitt: Nichterwerbstätige und Personen mit geringer Erwerbstätigkeit
+
+#### Art. 41
+
+**Zulagen**
+
+<sup>1</sup> Das FamZG regelt das Recht auf Familienzulagen der nichterwerbstätigen Personen, die als solche obligatorisch bei der AHV versichert sind.
+
+<sup>2</sup> Die erwerbstätigen Personen, die keinen Anspruch auf Familienzulagen auf Grund von Artikel 13 Absatz 3 FamZG haben, können sie als Nichterwerbstätige im Sinne des Artikels 19 FamZG beziehen.
+
+<sup>3</sup> Dadurch haben diese Personen, insofern sie ihren Wohnsitz im Kanton haben, Anrecht auf die in Artikel 5 bis 10 vorgesehenen Familienzulagen.
+
+<sup>4</sup> Personen, die aufgrund einer längeren Krankheit an ihrer Arbeitsleistung verhindert sind und gemäss Artikel 13 Absatz 3 FamZG keinen Anspruch mehr auf Familienzulagen haben, können diese als Nichterwerbstätige im Sinne von Artikel 19 FamZG erhalten. In diesem Fall wird die in Artikel 19 Absatz 2 FamZG vorgesehene Einkommensgrenze während maximal 720 Tagen ab Ende des Zulagenanspruchs als Arbeitnehmer nicht angewendet. <sup>3</sup>
+
+#### Art. 42
+
+**Finanzierung**
+
+Die Beträge der an nichterwerbstätige Personen ausbezahlten Familienzulagen und die Verwaltungskosten werden gemäss dem Gesetz über die Harmonisierung der Finanzierung der Sozialsysteme sowie der Systeme für die soziale und berufliche Eingliederung zwischen dem Kanton und den Gemeinden aufgeteilt.
+
+#### Art. 43
+
+**Verwaltung**
+
+Die Verwaltung der Zulagen an die nichterwerbstätigen Personen ist der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
+
+### 3. Kapitel: Kantonaler Familienfonds
+
+#### Art. 44
+
+**Zweck**
+
+<sup>1</sup> Unter der Bezeichnung „Kantonaler Familienfonds“ besteht ein Spezialfonds. Dieser Fonds untersteht der Aufsicht des Kantons und bildet Gegenstand der Verordnung.
+
+<sup>2</sup> Der Fonds bezweckt, alleinstehenden Personen oder Ehepaaren mit bescheidenem Einkommen und Kinderlasten, die ihren Wohnsitz im Kanton haben, eine Sozialhilfe in Form einer Haushaltszulage zu gewähren.
+
+#### Art. 45
+
+**Anspruchsberechtigte**
+
+<sup>1</sup> Zulagen aus dem Fonds können an alleinstehende Personen oder an Ehepaare mit Kinderlasten ausgerichtet werden, die ihren Wohnsitz im Kanton haben und deren Einkommen die vom Staatsrat festgelegten Grenzen nicht übersteigt.
+
+<sup>2</sup> Die Berechnung des massgeblichen Einkommens erfolgt auf gleiche Weise wie für die individuelle Verbilligung der Krankenkassenprämien der Grundversicherung.
+
+<sup>3</sup> Die vom Staatsrat festgelegten Grenzen entsprechen einem Prozentsatz derjenigen die bei der individuellen Verbilligung dieser Krankenkassenprämien der Grundversicherung angewendet werden.
+
+#### Art. 46
+
+**Finanzierung**
+
+<sup>1</sup> Der kantonale Familienfonds wird finanziert durch:
+
+- a) die jährlichen Beiträge der vom Kanton zugelassenen Familienzulagekassen, berechnet in Prozenten der von all ihren angeschlossenen Mitgliedern deklarierten AHV-Löhne und AHV-pflichtigen Einkommen aus einer selbständigen Erwerbstätigkeit; <sup>3</sup>
+
+- b) eine jährliche Zuwendung der kantonalen Familienzulagekasse für die selbständigerwerbenden Landwirte, berechnet in Prozenten der AHV-pflichtigen landwirtschaftlichen Löhne und Einkommen; <sup>3</sup>
+
+- c) die Erträge aus dem Vermögen;
+
+- d) Schenkungen und Vermächtnisse.
+
+<sup>2</sup> Der jährlich vom Staatsrat festgelegte Beitragssatz darf 0.2 Prozent der deklarierten AHV-Löhne nicht übersteigen.
+
+#### Art. 47
+
+**Reservefonds**
+
+Der gesetzliche Reservefonds muss den in der FamZV festgesetzten Normen entsprechen.
+
+#### Art. 48
+
+**Verwaltung**
+
+Die Verwaltung des Fonds wird der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
+
+### 4. Kapitel: Ausgleichsfonds
+
+#### Art. 49
+
+**Ausgleich**
+
+<sup>1</sup> Zwischen den vom Kanton zugelassenen Familienzulagekassen werden die Ausgaben in Zusammenhang mit der Leistung von Familienzulagen ausgeglichen.
+
+<sup>2</sup> Der Ausgleich basiert auf dem Finanzierungssatz, welcher dem Betrag der während des Jahres gesetzlich ausbezahlten Familienzulagen, dividiert durch die Summe der AHV-pflichtigen Löhne entspricht. Für die Familienzulagen der Selbständigerwerbenden wird ein auf dem gleichen Grundsatz beruhender aber separater Ausgleichsmechanismus geschaffen. <sup>3</sup>
+
+<sup>3</sup> Wenn ihr Finanzierungssatz höher ist als der durchschnittliche Satz aller Kassen, hat die Kasse Anspruch auf Subventionen; andernfalls muss sie einen Beitrag in den Ausgleichsfonds einzahlen.
+
+<sup>4</sup> Der Finanzierungssatz, der für eine Kasse bei der Berechnung des Ausgleichs berücksichtigt wird, beträgt höchstens 150 Prozent des durchschnittlichen Finanzierungssatzes aller Kassen.
+
+<sup>5</sup> Der Ausgleichsbetrag einer Kasse entspricht 80 Prozent der Differenz zwischen ihrem Finanzierungssatz und dem durchschnittlichen Finanzierungssatz aller Kassen, multipliziert mit dem eigenen Gesamtbetrag der Löhne.
+
+<sup>6</sup> Der Staatsrat bestimmt die weiteren Einzelheiten in der Verordnung.
+
+#### Art. 50
+
+**Verwaltung**
+
+Die Verwaltung des Fonds wird der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
+
+### 5. Kapitel: Kantonales Amt für Familienzulagen
+
+#### Art. 51
+
+**Aufgaben**
+
+Das kantonale Amt für Familienzulagen übernimmt die folgenden Aufgaben:
+
+- a) es überprüft, ob sämtliche dem Gesetz unterstehenden Personen oder Arbeitgeber bei einer Familienzulagekasse angeschlossen sind;
+
+- b) es regelt Fragen der Kassenzugehörigkeit zwischen den Familienzulagekassen;
+
+- c) es nimmt die Anschlüsse von Amtes wegen an eine Kasse vor;
+
+- d) es informiert die Familienzulagekassen regelmässig über die Entwicklung der Gesetzgebung und der Rechtsprechung;
+
+- e) es erlässt die Weisungen über die Arbeitgeberkontrollen, die Rechnungsprüfung, den Verwaltungsbericht und die von den Familienzulagekassen zu liefernden Statistiken;
+
+- f) es prüft die von den Familienzulagekassen angeforderten Unterlagen und entscheidet über festgestellte Mängel oder Probleme;
+
+- g) es erstellt die Vormeinungen zu den Beschlüssen des Staatsrats betreffend die Anerkennung oder die Zulassung von Familienzulagekassen;
+
+- h) es erstellt die Dossiers zuhanden des Staatsrats zur Entwicklung der Gesetzgebung und zur Anpassung der Beträge der Familienzulagen;
+
+- i) es bereitet die Unterlagen und die Antworten des Staatsrats auf Interventionen im Bereich der Familienzulagen vor.
+
+#### Art. 52
+
+**Verwaltung**
+
+Die Verwaltung des kantonalen Amtes für Familienzulagen wird der Ausgleichskasse des Kantons Wallis übertragen. Sie wird für diese Aufgabe entschädigt.
+
+### 6. Kapitel: Verschiedene Bestimmungen
+
+#### Art. 53
+
+**Aufsichtsrat**
+
+<sup>1</sup> Ein vom Staatsrat ernannter Aufsichtsrat nimmt die Aufsicht über die Ausführung sämtlicher vom Kanton an die Ausgleichskasse des Kantons Wallis im Sinne des vorliegenden Gesetzes übertragenen Aufgaben wahr.
+
+<sup>2</sup> Der Aufsichtsrat besteht aus vier Vertretern der Arbeitnehmer, vier Vertretern der Arbeitgeber und einem Vertreter des Kantons. Letzterer übt im Rat den Vorsitz aus.
+
+#### Art. 54
+
+**Verjährung**
+
+<sup>1</sup> Der Anspruch auf ausstehende Leistungen oder Beiträge erlischt gemäss den im ATSG festgesetzten Verjährungsfristen.
+
+<sup>2</sup> Die Rückerstattung unrechtmässig bezogener Leistungen und die Rückzahlung zuviel bezahlter Beiträge unterliegen den Verjährungsfristen des ATSG.
+
+#### Art. 55
+
+**Rechtspflege**
+
+<sup>1</sup> Die Einspracheentscheide der Zulagekassen gegenüber ihren Versicherten unterstehen der Beschwerde an das Kantonsgericht.
+
+<sup>2</sup> Die Einspracheentscheide des Amtes für Familienzulagen zu Streitfragen betreffend die Kassenzugehörigkeit oder zu Streitfragen zwischen Kassen unterstehen der Beschwerde an das Kantonsgericht.
+
+#### Art. 56
+
+**Schadenersatz**
+
+Die Familienzulagekassen können gegen die Arbeitgeber gemäss FamZG Schadenersatzansprüche im Sinne des AHVG geltend machen.
+
+#### Art. 57
+
+**Steuerfreiheit**
+
+Die Familienzulagekassen und die vom Gesetz errichteten Fonds sind von sämtlichen direkten Kantons- und Gemeindesteuern befreit.
+
+### 7. Kapitel: Übergangs- und Schlussbestimmungen
+
+#### Art. 58
+
+**Aufhebung**
+
+Das Gesetz über die Familienzulagen an die Arbeitnehmer und über den kantonalen Familienfonds vom 20. Mai 1949 sowie das Gesetz über die Familienzulagen an die selbständigerwerbenden Landwirte vom 6. Februar 1958 werden aufgehoben.
+
+#### Art. 59
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Die vor dem Inkrafttreten des neuen Gesetzes bei einer Familienausgleichskasse angeschlossenen Arbeitgeber können dort bleiben, sofern diese Kasse im Kanton tätig ist.
+
+<sup>2</sup> Kassenwechsel können erst nach einer Frist von zwei Jahren nach dem Inkrafttreten des vorliegenden Gesetzes erfolgen.
+
+<sup>3</sup> Die Verordnung kann Bestimmungen vorsehen, die während einer Übergangsperiode den Besitzstand zwischen der alten und der neuen Gesetzgebung gewährleisten.
+
+#### Art. 60
+
+**Änderungen**
+
+<sup>1</sup> Das Gesetz betreffend die Bezüge der Magistraten der vollziehenden Behörde vom 13. Mai 1981 wird wie folgt geändert:
+
+#### Art. 4
+
+Die Besoldung der Staatsräte und des Präsidenten des Staatsrates sowie des Staatskanzlers sind den gleichen Bestimmungen betreffend die Teuerung unterworfen wie jene der kantonalen Beamten. Das gleiche gilt für die Sozialzulagen.
+
+<sup>2</sup> Das Gesetz betreffend das Dienstverhältnis der Beamten und Angestellten des Staates Wallis vom 11. Mai 1983 wird wie folgt geändert:
+
+#### Art. 23
+
+**Abs. 2 Anspruch auf Besoldung**
+
+Das Gesetz bestimmt das Minimum und das Maximum der Grundbesoldung im Rahmen einer Besoldungstabelle und erlässt die Bestimmungen betreffend die personenbezogenen Lohnbestandteile sowie die Sozial-, Teuerungs- und andere Zulagen.
+
+<sup>3</sup> Das Gesetz betreffend die Besoldung der Beamten und Angestellten des Staates Wallis vom 12. November 1982 wird wie folgt geändert:
+
+#### Art. 2
+
+**Abs. 1 Ziff. 5 Anspruch**
+
+- 5\. Sozialzulagen.
+
+#### Art. 19bis
+
+**Abs. 1 Teuerung**
+
+Die Lohnbestandteile mit Ausnahme der Sozialzulagen und der Entschädigungen werden einmal pro Jahr am 1. Januar aufgrund des Landesindexes der Konsumentenpreise des vorherigen Monats Dezember der Teuerung angepasst.
+
+#### Art. 20
+
+**Familienzulagen**
+
+Die Familienzulagen werden durch die Spezialgesetzgebung des Bundes und des Kantons geregelt.
+
+#### Art. 21
+
+**Sozialzulage für erwerbsunfähige Kinder**
+
+<sup>1</sup> Der Beamte erhält eine Sozialzulage für Kinder ab dem erfüllten 20. Altersjahr, die Anrecht auf den Abzug für unterstützungsbedürftige Personen im Sinne von Artikel 213 Absatz 1 Buchstabe b des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer geben.
+
+<sup>2</sup> Der Betrag dieser Zulage entspricht jener der Kinderzulage gemäss der kantonalen Gesetzgebung über die Familienzulagen.
+
+### Beilage 2
+
+Aufgehoben.
+
+<sup>4</sup> Das Gesetz betreffend das Gehalt der Gerichtsbehörden vom 28. Mai 1980 wird wie folgt geändert:
+
+#### Art. 13
+
+**Abs. 7 Verschiedene Bestimmungen**
+
+Die Mitglieder der Gerichtsbehörden erhalten zusätzlich zum Grundgehalt die Sozial- und Teuerungszulagen sowie die Gehaltsansprüche im Krankheitsfall entsprechend den für die Beamten und Angestellten des Staates geltenden Bestimmungen.
+
+<sup>5</sup> Das Gesetz über die Besoldung des Lehrpersonals der Primar-, Orientierungs- und Mittelschulen vom 12. November 1982 wird wie folgt geändert:
+
+#### Art. 4
+
+**Ziff. 4 Anspruch**
+
+- 4\. Sozialzulagen.
+
+#### Art. 7
+
+**Sozialzulagen**
+
+<sup>1</sup> Das Lehrpersonal erhält dieselben Sozialzulagen wie das Personal der kantonalen Verwaltung.
+
+<sup>2-5</sup> Aufgehoben.
+
+#### Art. 8
+
+**Teuerung**
+
+<sup>1</sup> Aufgehoben.
+
+<sup>2</sup> Die verschiedenen Besoldungsbestandteile werden der Teuerung entsprechend den für das Personal der kantonalen Verwaltung geltenden Bestimmungen angepasst.
+
+<sup>6</sup> Das Gesetz über die Besoldung des Lehrpersonals der Lehranstalten für eine höhere berufliche Ausbildung vom 17. November 1988 wird wie folgt geändert:
+
+#### Art. 2
+
+**Ziff. 4 Anspruch**
+
+- 4\. Sozialzulagen.
+
+#### Art. 3b
+
+**Abs. 1 Verschiedene Zulagen**
+
+Das Personal erhält zusätzlich zu seiner Grundbesoldung die Sozial- und Teuerungszulagen, sowie das Gehalt bei Krankheit und Unfall entsprechend den Bestimmungen über die Besoldung der Beamten und Angestellten des Staates Wallis sowie des Personals mit privatrechtlichem Anstellungsverhältnis.
+
+#### Art. 61
+
+**Schlussbestimmungen**
+
+<sup>1</sup> Der Staatsrat erlässt die Ausführungsbestimmungen zum vorliegenden Gesetz.
+
+<sup>2</sup> Das vorliegende Gesetz untersteht dem fakultativen Referendum.
+
+<sup>3</sup> Der Staatsrat setzt den Zeitpunkt des Inkrafttretens des vorliegenden Gesetzes fest.
+
+So angenommen in zweiter Lesung im Grossen Rat in Sitten, den 11.
+
+September 2008.
+
+Der Präsident des Grossen Rates: Paul-André Roux Der Chef des Parlamentsdienstes: Claude Bumann
+
+### Titel und Änderungen Veröffentlichung Inkrafftreten
+
+## Weitere Fussnoten
+
+- [2] Änderung vom 6.05.2010 Abl. Nr. 27/2010 1.01.2011
+- [3] Änderung vom 13.09.2012 Abl. Nr. 39/2012; 1.01.2013

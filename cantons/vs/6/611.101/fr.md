@@ -1,0 +1,206 @@
+---
+canton: VS
+number: "611.101"
+title: "Ordonnance concernant la délégation de compétences financières du Conseil d'Etat aux départements et aux services"
+language: fr
+version: 2005-08-01
+corrected: 2017-06-23
+version_adopted: 2005-06-29
+adopted: 2005-06-29
+in_force: 2005-08-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/611.101"
+pdf: "https://lex.vs.ch/api/fr/versions/375/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Ordonnance concernant la délégation de compétences financières du Conseil d'Etat aux départements et aux services
+
+du 29 juin 2005
+
+Le Conseil d'Etat du canton du Valais
+
+vu les articles 32 et 52 de la loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton, désignés ci-après par LGCAF;
+
+vu l'article 57 alinéa 2 de la Constitution cantonale;
+
+sur la proposition du Département des finances, des institutions et de la sécurité,
+
+ordonne:
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> La présente ordonnance fixe la délégation des compétences financières du Conseil d'Etat aux départements et aux services, à l'exception des domaines du personnel, des crédits d'engagement, des crédits complémentaires et des crédits supplémentaires, qui font l'objet d'ordonnances particulières.
+
+<sup>2</sup> La délégation de compétences en matière financière du Conseil d'Etat s'applique exclusivement dans le cadre des crédits budgétaires. Demeurent réservées les décisions d'engagement de dépenses qui doivent être prises avant l'adoption du budget et qui respectent le cadre de la planification financière pluriannuelle.
+
+<sup>3</sup> Sont assimilés à des services, au sens de la présente ordonnance, les institutions, établissements, ainsi que les postes de délégués et d'état-major directement subordonnés au Conseil d'Etat et aux chefs de département.
+
+#### Art. 2
+
+**Compétences du Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat est seul compétent pour:
+
+- a) tous les domaines de dépenses non expressément délégués;
+
+- b) les demandes de crédits supplémentaires et de dépassement de crédits budgétaires au sens des articles 21 et 22 de la LGCAF.
+
+<sup>2</sup> Demeurent réservées les dispositions particulières relatives aux marchés publics.
+
+#### Art. 3
+
+**Conditions de la délégation**
+
+<sup>1</sup> Chaque délégation de compétence en matière financière, en faveur des services implique une décision écrite. Cette décision précise les limites de compétences pour les domaines de dépenses délégués et désigne les personnes habilitées à engager des dépenses et à signer des ordres de paiement.
+
+<sup>2</sup> Chaque organe reconnu compétent en matière financière remet un spécimen des signatures à l'Administration cantonale des finances et à l'Inspection des finances.
+
+#### Art. 4
+
+**Engagement d'une dépense**
+
+<sup>1</sup> L'engagement d'une dépense est la décision écrite par laquelle l'autorité compétente s'engage envers un tiers.
+
+<sup>2</sup> Aucune dépense ne peut être engagée sans base légale.
+
+#### Art. 5
+
+**Compétences des chefs de département**
+
+<sup>1</sup> Les chefs de département ont la compétence d'engager les dépenses du compte de fonctionnement de manière illimitée.
+
+<sup>2</sup> Ils ont la compétence d'engager des dépenses du compte des investissements et des participations nettes aux investissements de tiers jusqu'à un montant maximum de 200'000 francs.
+
+<sup>3</sup> Demeurent réservées les dispositions légales spéciales et celles de l'article 11 de la présente ordonnance.
+
+#### Art. 6
+
+**Subdélégation**
+
+<sup>1</sup> Les chefs de département peuvent déléguer une partie de leurs compétences aux chefs de service ou à des collaborateurs responsables expressément désignés, en fonction de la nature de la dépense.
+
+<sup>2</sup> Les compétences pouvant être déléguées sont au maximum:
+
+- a) de 50'000 francs pour les dépenses de fonctionnement;
+
+- b) de 50'000 francs pour les dépenses d'investissement.
+
+<sup>3</sup> En ce qui concerne les services de la Présidence, les compétences sont déléguées par le Président du Gouvernement.
+
+<sup>4</sup> Sont réservées les délégations de compétences sectorielles au sens des dispositions de l'article 11 de la présente ordonnance.
+
+#### Art. 7
+
+**Engagements complémentaires**
+
+<sup>1</sup> Pour les engagements complémentaires, la compétence de décision appartient:
+
+- a) lorsque l'engagement initial a été décidé par le Conseil d'Etat:
+
+- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance;
+
+- 2\. au chef de département concerné, entre le montant de la compétence déléguée en application de l'article 6 de la présente ordonnance et 200'000 francs, pour autant que le(s) engagement(s) complémentaire(s) ne dépasse(nt) pas le 40 pour cent de l'engagement initial;
+
+- 3\. au Conseil d'Etat dans les autres cas.
+
+- b) lorsque l'engagement initial a été décidé par un chef de département:
+
+- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance;
+
+- 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs;
+
+- 3\. au Conseil d'Etat dans les autres cas.
+
+- c) lorsque l'engagement initial a été décidé par un chef de service :
+
+- 1\. au chef de service, jusqu'au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance (crédit initial compris);
+
+- 2\. au chef de département concerné, si l'engagement initial plus le(s) engagement(s) complémentaire(s) sont supérieurs au montant de la compétence déléguée en application de l'article 6 de la présente ordonnance mais ne dépassent pas 200'000 francs;
+
+- 3\. au Conseil d'Etat dans les autres cas.
+
+<sup>2</sup> Les engagements complémentaires font l'objet d'une information régulière aux organes ayant pris les engagements initiaux.
+
+#### Art. 8
+
+**Contrôles**
+
+<sup>1</sup> Avant de transmettre un ordre de paiement avec les pièces correspondantes, les services doivent procéder aux contrôles internes, formels et matériels prescrits par l'Inspection des finances.
+
+<sup>2</sup> L'exécution de ces contrôles est confirmée par la signature des responsables désignés.
+
+#### Art. 9
+
+**Signature collective des ordres de paiement**
+
+Tous les ordres de paiement font l'objet d'une signature collective à deux, par le responsable désigné et par le chef de service ou la personne autorisée.
+
+#### Art. 10
+
+**Contresignature des ordres de paiement**
+
+<sup>1</sup> Le chef de département contresigne tous les ordres de paiement supérieurs à 100 000 francs.
+
+<sup>2</sup> Il peut déléguer tout ou partie de cette compétence à un responsable administratif. Il peut en tout temps abaisser la limite de compétence ou exiger de contresigner tous les ordres de paiement d'un de ses services. Ces décisions sont portées à la connaissance de l'Administration des finances et de l'Inspection des finances.
+
+#### Art. 11
+
+**Délégation sectorielle**
+
+<sup>1</sup> Concernant des secteurs particuliers de dépenses et de recettes, le Conseil d'Etat peut, pour des raisons de rationalisation, déléguer des compétences spécifiques et en fixer leur limite soit, entre autres, pour l'achat centralisé du matériel d'exploitation et les recettes d'exploitation spécifiques.
+
+<sup>2</sup> Il porte à la connaissance de l'Administration cantonale des finances et de l'Inspection des finances les cas spéciaux allant au-delà des limites de compétences fixées dans la présente ordonnance.
+
+#### Art. 12
+
+**Critères déterminants pour le calcul des limites de compétence**
+
+<sup>1</sup> Les compétences financières déléguées se basent sur la dépense totale pour un seul objet.
+
+<sup>2</sup> Chaque dépense doit être calculée dans sa globalité. Le fractionnement des coûts d'un même objet, pour rester dans les limites de compétences, n'est pas admis.
+
+<sup>3</sup> Pour la détermination des compétences financières, il est tenu compte de la dépense nette pour les participations et subventions de l'Etat et de la dépense brute pour les propres engagements et dépenses. Pour le calcul de la limite de compétences, les valeurs et objets remis en compensation, ne peuvent être pris en considération.
+
+#### Art. 13
+
+**Contrôle des délégations**
+
+<sup>1</sup> Le Conseil d'Etat et chaque chef de département surveillent le respect de la délégation des compétences.
+
+<sup>2</sup> En outre, l'Inspection des finances veille également au respect des compétences déléguées.
+
+#### Art. 14
+
+**Limitation ou retrait des compétences**
+
+En cas d'abus ou si des circonstances particulières l'exigent, le Conseil d'Etat ou les chefs de département limitent ou retirent les compétences financières qu'ils ont déléguées.
+
+#### Art. 15
+
+**Abrogation**
+
+<sup>1</sup> La présente ordonnance abroge le règlement du 20 mai 1981, ainsi que toutes les dispositions contraires de rang égal et de rang inférieur.
+
+<sup>2</sup> Demeurent réservées les délégations de compétences sectorielles accordées.
+
+#### Art. 16
+
+**Modification**
+
+L'article 33 alinéa 2 de l'ordonnance sur les marchés publics du 11 juin 2003 est modifié comme suit:
+
+...
+
+#### Art. 17
+
+**Entrée en vigueur et publication**
+
+La présente modification sera publiée au Bulletin officiel. S'agissant des délégations de compétences aux chefs de service en matière financière, l'entrée en vigueur de ces dispositions est fixée au 1<sup>er</sup> août 2005 pour l'office des améliorations foncières, le service de la santé publique, la haute école valaisanne, le service de la sécurité civile et militaire, le service des routes et des cours d'eau et le service des bâtiments, monuments et archéologie. Pour les autres services gérés par mandats de prestations, l'entrée en force interviendra dès l'approbation par le Grand Conseil de leur mandat de prestations politiques.
+
+Ainsi adoptée en Conseil d'Etat, le 29 juin 2005.
+
+Le président du Conseil d'Etat: Claude Roch Le chancelier d'Etat: Henri v. Roten

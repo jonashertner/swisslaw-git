@@ -1,0 +1,206 @@
+---
+canton: VS
+number: "611.101"
+title: Verordnung betreffend die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen
+language: de
+version: 2005-08-01
+corrected: 2017-06-23
+version_adopted: 2005-06-29
+adopted: 2005-06-29
+in_force: 2005-08-01
+url: "https://lex.vs.ch/app/de/texts_of_law/611.101"
+pdf: "https://lex.vs.ch/api/de/versions/375/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Verordnung betreffend die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen
+
+vom 29. Juni 2005
+
+Der Staatsrat des Kantons Wallis
+
+eingesehen die Artikel 32 und 52 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle vom 24. Juni 1980 (FHG);
+
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
+
+auf Antrag des Departements für Finanzen, Institutionen und Sicherheit,
+
+verordnet:
+
+#### Art. 1
+
+**Anwendungsbereich**
+
+<sup>1</sup> Die vorliegende Verordnung regelt die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen. Ausgenommen sind der Personalbereich sowie die Verpflichtungs-, Zusatz- und Nachtragskredite, die Gegenstand spezifischer Verordnungen sind.
+
+<sup>2</sup> Die Delegation von finanziellen Kompetenzen des Staatsrates erfolgt ausschliesslich im Rahmen von Voranschlagskrediten. Vorbehalten bleiben die Entscheide über Ausgabenverpflichtungen, die vor der Annahme des Voranschlags gefällt werden müssen und im Einklang mit der mehrjährigen Finanzplanung stehen.
+
+<sup>3</sup> Die Institutionen und Anstalten sowie die direkt dem Staatsrat und den Departementsvorstehern unterstellten Delegierten- und Stabsstellen sind den Dienststellen im Sinne der vorliegenden Verordnung gleichgestellt.
+
+#### Art. 2
+
+**Kompetenzen des Staatsrates**
+
+<sup>1</sup> In der ausschliesslichen Kompetenz des Staatsrates liegen:
+
+- a) alle nicht ausdrücklich delegierten Ausgabenbereiche;
+
+- b) die Begehren um Nachtragskredite und Kreditüberschreitungen im Sinne der Artikel 21 und 22 FHG.
+
+<sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen im Bereich des öffentlichen Beschaffungswesens.
+
+#### Art. 3
+
+**Delegationsvoraussetzungen**
+
+<sup>1</sup> Jede Delegation von finanziellen Kompetenzen an die Dienststellen erfordert einen schriftlichen Entscheid. Dieser Entscheid präzisiert die Kompetenzgrenzen für die delegierten Ausgabenbereiche und bezeichnet die Personen, welche ermächtigt werden, die entsprechenden Ausgabenverpflichtungen einzugehen und die Zahlungsanweisungen zu unterzeichnen.
+
+<sup>2</sup> Jedes finanzkompetente Organ gibt eine Unterschriftsprobe zuhanden der kantonalen Finanzverwaltung und des Finanzinspektorates ab.
+
+#### Art. 4
+
+**Ausgabenverpflichtung**
+
+<sup>1</sup> Eine Ausgabenverpflichtung ist ein schriftlicher Entscheid, durch den sich die zuständige Behörde gegenüber einem Dritten verpflichtet.
+
+<sup>2</sup> Jede Ausgabe muss sich auf eine Gesetzesgrundlage stützen.
+
+#### Art. 5
+
+**Kompetenzen der Departementsvorsteher**
+
+<sup>1</sup> Die Departementsvorsteher sind ermächtigt, Ausgabenverpflichtungen der Laufenden Rechnung in unbegrenzter Höhe einzugehen.
+
+<sup>2</sup> Sie sind ermächtigt, Verpflichtungen für Investitionsausgaben und Nettobeteiligungen an Investitionen Dritter bis zu einem Maximalbetrag von 200'000 Franken einzugehen.
+
+<sup>3</sup> Vorbehalten bleiben die Spezialgesetzgebung sowie Artikel 11 der vorliegenden Verordnung.
+
+#### Art. 6
+
+**Subdelegation**
+
+<sup>1</sup> Die Departementsvorsteher können einen Teil ihrer Kompetenzen je nach Natur der Ausgabe an die Dienstchefs oder an ausdrücklich bezeichnete Mitarbeitende delegieren.
+
+<sup>2</sup> Für die Kompetenzdelegation gelten folgende Maximalbeträge:
+
+- a) 50'000 Franken für Ausgaben der Laufenden Rechnung;
+
+- b) 50'000 Franken für Investitionsausgaben.
+
+<sup>3</sup> Was die Dienststellen des Präsidiums anbelangt, so werden die Kompetenzen vom Regierungspräsidenten delegiert.
+
+<sup>4</sup> Vorbehalten bleiben die sektoriellen Kompetenzdelegationen im Sinne von Artikel 11 der vorliegenden Verordnung.
+
+#### Art. 7
+
+**Zusatzverpflichtungen**
+
+<sup>1</sup> Für Zusatzverpflichtungen liegt die Entscheidungsbefugnis,
+
+- a) sofern die ursprüngliche Verpflichtung vom Staatsrat beschlossen wurde:
+
+- 1\. beim Dienstchef bis zum Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung;
+
+- 2\. beim zuständigen Departementsvorsteher für Beträge zwischen dem Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung und 200'000 Franken, wenn die Zusatzverpflichtung(en) 40 Prozent der ursprünglichen Verpflichtung nicht übersteigt (übersteigen);
+
+- 3\. beim Staatsrat in den übrigen Fällen.
+
+- b) sofern die ursprüngliche Verpflichtung von einem Departementsvorsteher beschlossen wurde:
+
+- 1\. beim Dienstchef bis zum Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung;
+
+- 2\. beim zuständigen Departementsvorsteher, wenn die ursprüngliche Verpflichtung und die Zusatzverpflichtung(en) zusammen den Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung, nicht aber 200'000 Franken übersteigen;
+
+- 3\. beim Staatsrat in allen übrigen Fällen.
+
+- c) sofern die ursprüngliche Verpflichtung von einem Dienstchef beschlossen wurde:
+
+- 1\. beim Dienstchef bis zum Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung (ursprüngliche Verpflichtung eingeschlossen);
+
+- 2\. beim zuständigen Departementsvorsteher, wenn die ursprüngliche Verpflichtung und die Zusatzverpflichtung(en) zusammen den Betrag der Kompetenzdelegation gemäss Artikel 6 der vorliegenden Verordnung, nicht aber 200'000 Franken übersteigen;
+
+- 3\. beim Staatsrat in den übrigen Fällen.
+
+<sup>2</sup> Die Organe, welche die ursprünglichen Verpflichtungen eingegangen sind, werden regelmässig über die Zusatzverpflichtungen informiert.
+
+#### Art. 8
+
+**Kontrollen**
+
+<sup>1</sup> Die Dienststellen haben vor der Übermittlung einer Zahlungsanweisung und der entsprechenden Belege die vom Finanzinspektorat formell und materiell vorgeschriebenen internen Kontrollen durchzuführen.
+
+<sup>2</sup> Die Durchführung dieser Kontrollen wird durch die Unterschrift der Verantwortlichen bestätigt.
+
+#### Art. 9
+
+**Kollektivunterschrift auf Zahlungsanweisungen**
+
+Alle Zahlungsanweisungen sind mit einer Kollektivunterschrift zu zweien des Verantwortlichen sowie des Dienstchefs oder der autorisierten Person zu versehen.
+
+#### Art. 10
+
+**Gegenzeichnung der Zahlungsanweisungen**
+
+<sup>1</sup> Zahlungsanweisungen, die den Betrag von 100'000 Franken übersteigen, werden vom Departementsvorsteher gegengezeichnet.
+
+<sup>2</sup> Er kann diese Kompetenz ganz oder teilweise an einen administrativen Verantwortlichen delegieren. Er kann die Kompetenzlimite jederzeit senken oder verlangen, dass ihm sämtliche Zahlungsanweisungen einer seiner Dienststellen zur Gegenzeichnung unterbreitet werden. Diese Entscheide werden der kantonalen Finanzverwaltung und dem Finanzinspektorat zur Kenntnis gebracht.
+
+#### Art. 11
+
+**Sektorielle Delegation**
+
+<sup>1</sup> Der Staatsrat kann aus Rationalisierungsgründen für sektorielle Ausgaben- und Einnahmenbereiche spezifische Kompetenzdelegation und Kompetenzgrenzen festlegen, so unter anderem für den zentralen Einkauf von Betriebsmaterial und die spezifischen Betriebseinnahmen.
+
+<sup>2</sup> Er informiert die kantonale Finanzverwaltung und das Finanzinspektorat über die Spezialfälle, in denen die in dieser Verordnung festgelegten Kompetenzgrenzen überschritten werden.
+
+#### Art. 12
+
+**Kriterien für die Festlegung der Kompetenzgrenzen**
+
+<sup>1</sup> Die delegierte Finanzkompetenz bestimmt sich nach der Gesamtausgabe für einen einzigen Gegenstand.
+
+<sup>2</sup> Jede Ausgabe wird global berechnet. Eine von der Sache her nicht gebotene Kostenaufteilung zur Erreichung einer Zuständigkeit ist nicht zulässig.
+
+<sup>3</sup> Zur Bestimmung der Finanzkompetenzen ist für Beteiligungen und Subventionen des Staates die Nettoausgabe, für staatseigene Verpflichtungen und Ausgaben die Bruttoausgabe massgebend. An Zahlung gegebene Werte und Gegenstände werden bei der Berechnung der Zuständigkeitsgrenze nicht verrechnet.
+
+#### Art. 13
+
+**Delegationskontrolle**
+
+<sup>1</sup> Der Staatsrat und die einzelnen Departementsvorsteher überwachen die Einhaltung der delegierten Kompetenzen.
+
+<sup>2</sup> Das Finanzinspektorat kontrolliert ebenfalls die Einhaltung der delegierten Kompetenzen.
+
+#### Art. 14
+
+**Beschränkung oder Entzug der Kompetenzen**
+
+Im Falle von Missbrauch oder wenn besondere Umstände es verlangen, beschränken oder entziehen der Staatsrat oder die Departementsvorsteher die von ihnen delegierten Finanzkompetenzen.
+
+#### Art. 15
+
+**Aufhebung**
+
+<sup>1</sup> Die vorliegende Verordnung ersetzt das Reglement vom 20. Mai 1981 sowie sämtliche zuwiderlaufenden Bestimmungen gleichen oder tieferen Ranges.
+
+<sup>2</sup> Vorbehalten bleiben die gewährten sektoriellen Kompetenzdelegationen.
+
+#### Art. 16
+
+**Änderung**
+
+Artikel 33 Absatz 2 der Verordnung über das öffentliche Beschaffungswesen vom 11. Juni 2003 wird wie folgt geändert:
+
+...
+
+#### Art. 17
+
+**In-Kraft-Treten und Veröffentlichung**
+
+Die vorliegende Verordnung wird im Amtsblatt veröffentlicht. Bezüglich der Delegation von finanziellen Kompetenzen an die Dienststellen tritt die Verordnung für das Meliorationsamt, die Dienststelle für Gesundheitswesen, die Hochschule Wallis, die Dienststelle für zivile Sicherheit und Militär, die Dienststelle für Strassen- und Flussbau sowie die Dienststelle für Hochbau, Denkmalpflege und Archäologie am 1. August 2005 in Kraft. Für die andern mittels Leistungsaufträgen geführten Dienststellen erfolgt das In-Kraft-Treten nach der Genehmigung ihrer politischen Leistungsaufträge durch das Parlament.
+
+So angenommen im Staatsrat zu Sitten, den 29. Juni 2005.
+
+Der Präsident des Staatsrates: Claude Roch Der Staatskanzler: Henri v. Roten

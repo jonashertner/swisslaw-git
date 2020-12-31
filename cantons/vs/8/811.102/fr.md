@@ -1,0 +1,288 @@
+---
+canton: VS
+number: "811.102"
+title: Ordonnance sur la surveillance des professions de la santé
+short: OSPS
+language: fr
+version: 2021-01-01
+valid_until: 2024-02-29
+version_adopted: 2020-11-25
+adopted: 2020-11-25
+in_force: 2021-01-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/811.102"
+pdf: "https://lex.vs.ch/api/fr/versions/2778/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la surveillance des professions de la santé
+
+(OSPS)
+
+du 25.11.2020 (état 01.01.2021)
+
+Le Conseil d'Etat du canton du Valais
+
+vu les dispositions de la loi fédérale sur les professions médicales universitaires du 23 juin 2006 (LPMéd);
+
+vu les dispositions de la loi fédérale sur les professions de la santé du 30 septembre 2016 (LPSan);
+
+vu les dispositions de la loi fédérale sur les professions relevant du domaine de la psychologie du 18 mars 2011 (LPsy);
+
+vu les titres troisième, quatrième et neuvième de la loi sur la santé du 12 mars 2020 (LS);
+
+sur la proposition du département en charge de la santé,
+
+ordonne:
+
+## 1 But, autorités et champ d'application
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> La présente ordonnance a pour but, d’une part, d’énoncer les autorités chargées de la surveillance des professions de la santé et de préciser leurs compétences et leurs articulations, et, d’autre part, de définir le cercle des personnes soumises à cette surveillance et d’indiquer les diverses mesures applicables.
+
+#### Art. 2
+
+**Autorités et fonctions (art. 70 et 71 LS)**
+
+<sup>1</sup> Les autorités en charge de la surveillance des professions de la santé instituées par la loi sur la santé (ci-après: LS) sont:
+
+- a) le département dont dépend la santé publique (ci-après: le département);
+- b) le service de la santé publique (ci-après: le SSP).
+
+<sup>2</sup> La commission consultative de surveillance des professions de la santé (ci-après: la CCSPS) est en soutien des autorités mentionnées à l’alinéa 1.
+
+<sup>3</sup> Ces autorités ont pour fonction de veiller:
+
+- a) au respect des prescriptions légales régissant les professions de la santé figurant dans la LS et ses ordonnances;
+- b) au respect des droits des patients.
+
+#### Art. 3
+
+**Champ d’application (art. 45 LS)**
+
+<sup>1</sup> Les personnes soumises à la surveillance des professions de la santé sont les suivantes :
+
+- a) les membres des professions médicales (médecins, dentistes, chiropraticiens, pharmaciens);
+- b) les membres des professions de la santé régies par le droit fédéral (infirmiers, physiothérapeutes, ergothérapeutes, sages-femmes, diététiciens, optométristes, ostéopathes) ainsi que les membres des professions de la psychologie régies par le droit fédéral (psychologues-psychothérapeutes);
+- c) les membres des autres professions de la santé dont le Conseil d'Etat établit périodiquement la liste par voie d'ordonnance;
+- d) les employés des institutions sanitaires qui fournissent des soins;
+- e) les indépendants qui fournissent des soins et les personnes exerçant de la médecine complémentaire ou des pratiques alternatives;
+- f) les responsables et les employés des institutions sanitaires et de structures ambulatoires qui ont un impact sur la prise en charge.
+
+## 2 Mesures
+
+#### Art. 4
+
+**Mesures disciplinaires (art. 154 LS)**
+
+<sup>1</sup> Les mesures disciplinaires susceptibles d’être prononcées en cas de violation des devoirs professionnels, y compris la garantie des droits des patients, ou des dispositions de la LS et de ses ordonnances et règlements sont les suivantes:
+
+- a) l'avertissement;
+- b) le blâme;
+- c) l'amende jusqu'à 20'000 francs;
+- d) l'interdiction temporaire de pratiquer pendant 6 ans au plus;
+- e) l'interdiction définitive de pratiquer pour tout ou partie du champ d'activité.
+
+<sup>2</sup> L'amende peut être prononcée en plus de l'interdiction de pratiquer.
+
+<sup>3</sup> Pendant la procédure disciplinaire, l'autorisation de pratiquer peut être assortie de charges ou retirée.
+
+<sup>4</sup> Pour les professions non soumises à autorisation de pratiquer, les mesures disciplinaires susceptibles d’être prononcées sont le blâme, l’avertissement et l’amende jusqu’à 20'000 francs.
+
+<sup>5</sup> En cas de violation des droits des patients, la décision peut émettre une directive impérative sous la menace des peines prévues à l’article 292 du Code pénal.
+
+#### Art. 5
+
+**Mesures de sécurité (art. 56 al. 1 LS)**
+
+<sup>1</sup> Lorsque les conditions de son octroi ne sont plus réalisées, l’autorisation de pratiquer est limitée ou retirée.
+
+<sup>2</sup> Lorsqu’un professionnel de la santé n’est plus digne de confiance au sens de la loi fédérale sur les professions médicales universitaires (LPMéd), de la loi fédérale sur les professions de la santé (LPSan), de la loi fédérale sur les professions relevant du domaine de la psychologie (LPsy), ou de la LS par renvoi à ces lois, l’autorisation de pratiquer lui est retirée.
+
+<sup>3</sup> La mesure de sécurité visée à l’alinéa 2 peut être cumulée à une mesure disciplinaire lorsque les faits qui en sont la cause constituent une violation des devoirs professionnels. Le département peut dans un tel cas requérir le préavis de la CCSPS.
+
+#### Art. 6
+
+**Mesures provisionnelles**
+
+<sup>1</sup> Indépendamment des mesures susmentionnées, le département ou le bureau des plaintes visé à l’article 15 peuvent prendre contre les personnes soumises à la surveillance toute mesure propre à faire cesser un état de fait contraire au droit ou à sauvegarder des intérêts compromis.
+
+## 3 Organisation et compétences des autorités
+
+#### Art. 7
+
+**Dispositions communes aux autorités de surveillance (art. 70 al. 3 LS; art. 2 al. 3 LIPDA)**
+
+<sup>1</sup> Les autorités compétentes en charge de la surveillance des professions de la santé procèdent, chacune à leur niveau et dans la mesure des dispositions qui suivent, conformément aux dispositions de la loi sur la procédure et la juridiction administratives (LPJA).
+
+<sup>2</sup> En particulier, les dispositions de l’article 10 LPJA sont applicables en matière de récusation.
+
+<sup>3</sup> Lorsqu’une plainte émane d’un patient, les professionnels visés par la plainte sont automatiquement déliés du secret professionnel à l’égard du département, du SSP et de la CCSPS, et le cas échéant du secret de fonction, dans les limites des données nécessaires à l’instruction de la plainte. Dans les autres cas, la procédure ordinaire de levée du secret s’applique.
+
+<sup>4</sup> Les autorités compétentes en charge de la surveillance des professions de la santé n’ont pas la compétence de statuer sur les actions en responsabilité civile ni pour allouer des dommages-intérêts ou des torts moraux. Elles n’ont pas non plus la compétence de modifier ou d’annuler les notes d’honoraires ou factures des praticiens et des institutions sanitaires.
+
+<sup>5</sup> Les fichiers et dossiers des procédures disciplinaires ou administratives des autorités de surveillance ne sont pas soumis aux dispositions sur la protection des données de la loi sur l'information du public, la protection des données et l'archivage (LIPDA) et ne sont en principe pas accessibles au public.
+
+#### Art. 8
+
+**Département**
+
+<sup>1</sup> Le département est l’autorité supérieure de surveillance des professions de la santé.
+
+<sup>2</sup> En cas de violation des devoirs professionnels, y compris la garantie des droits des patients, ou des dispositions de la LS et de ses ordonnances et règlements, le département rend des décisions (mesures disciplinaires) suite aux préavis donnés par la CCSPS.
+
+<sup>3</sup> Le département est également compétent, en principe sans requérir le préavis de la CCSPS, pour ordonner le retrait ou la limitation de l'autorisation de pratiquer des professionnels de la santé pour des motifs de santé publique, en particulier lorsque les conditions de son octroi ne sont plus réalisées (mesures de sécurité).
+
+<sup>4</sup> Le département est compétent pour prononcer d'éventuelles mesures provisionnelles, sans préavis de la CCSPS.
+
+#### Art. 9
+
+**Service de la santé publique**
+
+<sup>1</sup> En cas de violation des devoirs professionnels, y compris la garantie des droits des patients, ou des dispositions de la LS et de ses ordonnances et règlements, le SSP instruit la cause et rédige une proposition de décision de classement ou de sanction.
+
+<sup>2</sup> Le SSP transmet pour préavis à la CCSPS la proposition de décision qu’il a rédigée. Une fois le préavis de la CCSPS rendu, le SSP le transmet au département avec la proposition de décision.
+
+<sup>3</sup> Lorsqu’il constate que les conditions d’octroi d’une autorisation de pratiquer ne sont plus réalisées, le SSP propose au département de limiter ou de retirer l’autorisation.
+
+#### Art. 10
+
+**Commission consultative de surveillance des professions de la santé (art. 71 LS)**
+
+<sup>1</sup> Le Conseil d’Etat nomme, au début de chaque période administrative, les membres de la commission consultative de surveillance (CCSPS) qui siègent dans la composition suivante:
+
+- a) deux membre exerçant une profession médicale;
+- b) deux membres exerçant une profession de la santé régie par le droit fédéral ou une autre profession de la santé;
+- c) deux membres travaillant au sein d'institutions sanitaires;
+- d) deux représentants des patients;
+- e) un juriste qui préside.
+
+<sup>2</sup> Le Conseil d'Etat peut nommer des membres suppléants ou extraordinaires.
+
+<sup>3</sup> La CCSPS exerce en toute indépendance les compétences consultatives que la loi lui confère.
+
+<sup>4</sup> Les membres de la CCSPS jouissent seuls du droit de vote. Ils sont tenus d’observer le secret sur les faits dont ils ont connaissance dans le cadre des activités de la commission.
+
+<sup>5</sup> La CCSPS est chargée de donner un préavis sur toutes les propositions de décision en matière de violation des devoirs professionnels, y compris la garantie des droits des patients, ou des dispositions de la LS et de ses ordonnances et règlements. La violation des devoirs professionnels est constituée par tout agissement professionnel incorrect, notamment un comportement susceptible de mettre en danger ou ayant porté atteinte à l’intégrité physique ou psychique d’un patient.
+
+<sup>6</sup> La CCSPS siège à huis clos avec le concours du responsable des instructions, lequel présente le ou les dossiers et tient le procès-verbal mais n’est pas membre de la commission. La CCSPS ne peut délibérer valablement qu’en présence de 5 de ses membres ayant le droit de vote. La voie du président est prépondérante en cas d’égalité des voix.
+
+<sup>7</sup> La CCSPS rend un rapport d’activité annuel et le rend public.
+
+<sup>8</sup> L'indemnisation des membres de la CCSPS est fixée par le département.
+
+#### Art. 11
+
+**Autres tâches**
+
+<sup>1</sup> La CCSPS peut également être consultée par le département sur toutes les questions liées aux professionnels soumis à la LS. En outre, le SSP peut solliciter l’avis technique d’un membre de la CCSPS sur un dossier en cours d’instruction. Ledit membre ne peut dans la suite prendre part au vote.
+
+## 4 Procédure
+
+#### Art. 12
+
+**Saisine**
+
+<sup>1</sup> Le SSP se saisit d’office ou sur plainte du patient concerné. La plainte peut également émaner du représentant thérapeutique du patient au sens de l’article 370 alinéa 2 du Code civil ou de son représentant légal.
+
+<sup>2</sup> Le SSP peut également exercer sa saisine suite à une communication ou dénonciation des professionnels de la santé, des institutions sanitaires, d’autres autorités ou de particuliers.
+
+#### Art. 13
+
+**Qualité de partie**
+
+<sup>1</sup> Ont qualité de partie au sens de l'article 6 LPJA:
+
+- a) le patient qui en qualité de plaignant saisit le SSP ou une autre autorité en charge de la surveillance des professions de la santé;
+- b) la personne habilitée à décider des soins en son nom;
+- c) le professionnel de la santé ou l’institution sanitaire mis en cause.
+
+<sup>2</sup> Le dénonciateur n'a pas la qualité de partie.
+
+<sup>3</sup> Les parties ne reçoivent ni la proposition de décision du SSP ni le préavis de la CCSPS, lesquels constituent des documents préparatoires internes de l’administration.
+
+#### Art. 14
+
+**Délais**
+
+<sup>1</sup> Les délais de prescription prévus dans les législations sanitaires sont applicables à la poursuite disciplinaire relevant de la surveillance des professions de la santé.
+
+#### Art. 15
+
+**Bureau des plaintes**
+
+<sup>1</sup> Le SSP constitue en son sein un bureau composé du chef de service, du médecin cantonal et du responsable des instructions, chargé de l’examen préalable des plaintes et dénonciations dont il s’est saisi d’office ou qui lui ont été communiquées.
+
+<sup>2</sup> Les tâches du bureau sont les suivantes:
+
+- a) proposer au département le classement des plaintes et dénonciations qui sont manifestement irrecevables ou mal fondées;
+- b) examiner l’opportunité de proposer une médiation;
+- c) proposer au département des mesures provisionnelles ou prendre lui-même de telles mesures;
+- d) décider l’ouverture d’une procédure dont l’instruction est confiée au responsable des instructions.
+
+<sup>3</sup> Le responsable des instructions est désigné par le département parmi les collaborateurs du SSP, auquel il est rattaché administrativement.
+
+#### Art. 16
+
+**Instruction**
+
+<sup>1</sup> Le responsable des instructions conduit l’instruction des procédures de manière autonome. Il est responsable de la bonne instruction des dossiers.
+
+<sup>2</sup> Le responsable des instructions établit d’office les faits pertinents et les moyens de preuve nécessaires aptes à établir l’état de fait, sans être lié par les allégations des parties et les offres de preuves. Il réunit les renseignements et procède aux enquêtes nécessaires, cas échéant en faisant appel à des membres de la CCSPS ou à des experts externes. Ses décisions incidentes ne sont pas séparément susceptibles de recours et ne peuvent être attaquées qu’avec la décision au fond.
+
+<sup>3</sup> S’il faut sauvegarder des intérêts publics ou privés, l’audition des parties ou des témoins peut se dérouler en l’absence de la partie adverse. Cette dernière a alors la possibilité de prendre connaissance du procès-verbal d’audition et de poser à son tour des questions.
+
+<sup>4</sup> Lorsque l’état de fait retenu constitue une base de décision suffisante, le responsable des instructions établit un projet de décision et le transmet pour préavis à la CCSPS avec le dossier.
+
+#### Art. 17
+
+**Emoluments**
+
+<sup>1</sup> Les causes instruites concernant d'éventuelles violations des droits des patients sont gratuites pour les patients, sous réserve de témérité ou de légèreté.
+
+<sup>2</sup> Pour les professionnels de la santé, l'émolument perçu pour les décisions rendues sur instruction est fixé en fonction de l'ampleur et de la difficulté des causes, entre 500 et 2500 francs.
+
+<sup>3</sup> Les frais, notamment d'expertises, s'ajoutent à l'émolument.
+
+<sup>4</sup> Aucun émolument n'est perçu lorsqu'aucune violation des devoirs professionnels n'est retenue.
+
+#### Art. 18
+
+**Procédure abusive**
+
+<sup>1</sup> La partie qui agit de manière téméraire ou celui ou celle qui fait un emploi abusif des procédures peut être condamné à une amende jusqu’à 1000 francs. L’amende est prononcée par le département sur proposition du bureau des plaintes, lequel peut requérir le préavis de la CCSPS.
+
+#### Art. 19
+
+**Notification de la décision**
+
+<sup>1</sup> Les parties au sens de l’article 13 reçoivent notification de la décision.
+
+<sup>2</sup> La décision est communiquée au SSP ainsi qu’à la CCSPS, auxquels il appartient de prendre les mesures nécessaires au maintien de la confidentialité de ces données.
+
+<sup>3</sup> Si un intérêt public le justifie, la direction de l’institution sanitaire concernée est informée de manière appropriée de l’issue de la procédure concernant l’un de ses employés.
+
+#### Art. 20
+
+**Recours**
+
+<sup>1</sup> Les décisions rendues par le département en application de la LS et de la présente ordonnance peuvent faire l’objet, dans un délai de 30 jours, d’un recours au Conseil d’Etat.
+
+<sup>2</sup> Seules les personnes dont les droits et obligations sont directement touchés par une décision ou une mesure ont qualité pour recourir.
+
+<sup>3</sup> Le plaignant ne peut pas recourir contre les sanctions disciplinaires décidées par le département.
+
+## 5 Dispositions transitoires (art. T1-2 LS)
+
+#### Art. 21
+
+**Dispositions transitoires**
+
+<sup>1</sup> A l’entrée en vigueur de la loi sur la santé du 12 mars 2020, les instructions en cours devant la commission de surveillance des professions de la santé (CSPS) sont poursuivies par cette dernière jusqu’au 31 décembre 2021. L’ancienne procédure s’applique.
+
+<sup>2</sup> A l’entrée en vigueur de la loi sur la santé du 12 mars 2020, les nouvelles instructions sont conduites par le SSP selon la présente ordonnance.
+
+RCV RO/AGS 2020-118

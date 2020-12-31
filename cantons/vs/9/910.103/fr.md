@@ -1,0 +1,272 @@
+---
+canton: VS
+number: "910.103"
+title: Règlement fixant le tarif des prestations cantonales en matière agricole
+short: RTPMA
+language: fr
+version: 2018-01-01
+valid_until: 2022-04-30
+version_adopted: 2017-12-06
+adopted: 2017-01-11
+in_force: 2017-02-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/910.103"
+pdf: "https://lex.vs.ch/api/fr/versions/2896/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
+
+# Règlement fixant le tarif des prestations cantonales en matière agricole
+
+(RTPMA)
+
+du 11.01.2017 (état 01.01.2018)
+
+Le Conseil d'Etat du canton du Valais
+
+vu la loi cantonale sur l’agriculture et le développement rural du 8 février 2007 (LcAgr);
+
+vu la loi cantonale fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar);
+
+vu l’ordonnance cantonale concernant les procédures d’encaissement et de recouvrement du 28 juin 2006 (OPER);
+
+vu la directive cantonale relative à la perception des frais dans les affaires administratives du 17 décembre 2015 (DPF);
+
+vu l’arrêté cantonal fixant le barème du droit spécial perçu pour la promotion de la santé et la prévention des maladies du 2 novembre 2016 (ADSPS);
+
+sur proposition du Département de l’économie et de la formation,
+
+ordonne:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> Le présent règlement détermine les frais exigibles dans les procédures en matière agricole.
+
+<sup>2</sup> La loi fixant le tarif des frais et dépens devant les autorités judiciaires ou administratives du 11 février 2009 (LTar) et, en tant que de besoin, l'ordonnance concernant les procédures d'encaissement et de recouvrement du 28 juin 2006 lui sont applicables à titre supplétif.
+
+#### Art. 2
+
+**Emolument**
+
+<sup>1</sup> L'émolument est la taxe perçue en contrepartie de l'intervention de l'autorité administrative, couvrant l'établissement des décisions et les prestations particulières fournies par ses collaborateurs (séances, avis de droit, courriers hors procédure, contrôles, etc.).
+
+<sup>2</sup> Il comprend déjà la taxe sur la valeur ajoutée (TVA), pour autant que la prestation y soit soumise.
+
+#### Art. 3
+
+**Oppositions et recours**
+
+<sup>1</sup> La détermination de l'autorité administrative sur le montant des frais figure dans le dispositif de la décision.
+
+<sup>2</sup> En cas de contestation dirigée exclusivement contre les frais retenus, ceux finalement arrêtés portent intérêt à cinq pour cent dès le 30ème jour à compter de la décision initiale.
+
+<sup>3</sup> L'entrée en force de la décision au fond n'est pas affectée par une contestation dirigée exclusivement contre les frais.
+
+## 2 Barèmes
+
+#### Art. 4
+
+**Emoluments pour la reconnaissance d'exploitation**
+
+<sup>1</sup> L'émolument est perçu selon le barème forfaitaire suivant:
+
+- a) pour la reconnaissance d'une exploitation individuelle — Fr. 400
+- b) pour la reconnaissance de l'exploitation d'une société de personnes — Fr. 600
+- c) pour la reconnaissance de l'exploitation d'une personne morale — Fr. 1'000
+- d) pour la reconnaissance d'une communauté d'exploitation — Fr. 1'000
+- e) pour la reconnaissance d'une communauté partielle d'exploitation — Fr. 1'000
+- f) pour une décision de refus — Fr. 400
+- g) pour un abandon de procédure après signature de la demande officielle — Fr. 400
+
+<sup>2</sup> Si le requérant sollicite une modification de la reconnaissance dans les trois ans qui suivent sa notification pour la même exploitation ou pour le même titulaire, les émoluments sont multipliés par le coefficient 1.5.
+
+<sup>3</sup> Si une reconnaissance doit être révisée d'office, sur ordre de l'autorité plutôt qu'à la demande du requérant, les émoluments sont doublés.
+
+<sup>4</sup> Si un contrôle de reconnaissance est effectué par le canton et qu'à son issue, la reconnaissance antérieure est intégralement confirmée, aucun émolument n'est prélevé.
+
+<sup>5</sup> Si le requérant souhaite que l'instructeur de son dossier de reconnaissance se rende sur son exploitation, la visite sur place est facturée 150 francs.
+
+#### Art. 5
+
+**Emoluments pour la viticulture**
+
+<sup>1</sup> Les émoluments suivants sont perçus en viticulture:
+
+- a) pour la procédure d'autorisation de planter une nouvelle vigne — Fr. 200
+- b) pour la procédure de mise en conformité du registre des vignes:
+  - 1\. surfaces en propriété jusqu'à 1'000 m² — Fr. 200
+  - 2\. surfaces en propriété de 1'001 m² jusqu'à 5'000 m² — Fr. 400
+  - 3\. surfaces en propriété supérieures à 5'000 m² — Fr. 500
+- c) pour la procédure des vignes en friches, mal entretenues ou laissées à l'abandon et qui présentent un risque phytosanitaire pour d'autres vignes:
+  - 1\. surfaces en propriété jusqu'à 1'000 m² — Fr. 200
+  - 2\. surfaces en propriété de 1'001 m² jusqu'à 5'000 m² — Fr. 400
+  - 3\. surfaces en propriété supérieures à 5'000 m² — Fr. 500
+- d) pour la procédure de reconnaissance de dénominations spécifiques telles que: "Clos", "Château", "Domaine" ou "Lieu-dit":
+  - 1\. surfaces jusqu'à 1'000 m² — Fr. 200
+  - 2\. surfaces de 1'001 m² jusqu'à 5'000 m² — Fr. 400
+  - 3\. surfaces supérieures à 5'000 m² — Fr. 500
+- e) pour un extrait supplémentaire du registre des vignes:
+  - 1\. envoi par poste — Fr. 10
+  - 2\. envoi par courriel — gratuit
+- f) pour l'établissement d'un duplicata d'acquit — Fr. 10
+- g) pour une réponse écrite à une demande de renseignements nécessitant des recherches spécifiques ou toutes autres décisions — Fr. 200
+- h) pour la procédure de contrôle de la vendange:
+  - 1\. frais d'ouverture de dossier — Fr. 250
+  - 2\. saisie manuelle des apports de vendange, par ligne d'apport — Fr. 3
+  - 3\. traitement des incohérences, par heure — Fr. 120
+
+<sup>2</sup> Lorsque le traitement d'un dossier en matière viticole (registre des vignes, droits de production, etc.) nécessite des démarches administratives complémentaires, du fait notamment d'indications incomplètes ou inexactes, de dépôt de requête ou de réponse tardifs, un émolument additionnel de 50 francs à 500 francs est perçu afin de couvrir les frais administratifs supplémentaires.
+
+#### Art. 6
+
+**Emoluments pour l'œnologie**
+
+<sup>1</sup> Le laboratoire d'œnologie facture ses émoluments comme suit:
+
+- a) chromatographie — Fr. 6
+- b) acidité totale — Fr. 6
+- c) acide sulfureux libre — Fr. 6
+- d) pH — Fr. 6
+- e) clinitest — Fr. 6
+- f) acide sulfureux total — Fr. 10
+- g) alcool — Fr. 18
+- h) microscope — Fr. 15
+- i) acidité volatile — Fr. 15
+- j) sucres — Fr. 18
+- k) tests troubles — Fr. 12
+- l) essais de collages (par essai) — Fr. 15
+- m) rapport de dégustation (par vin) — Fr. 20
+- n) essais d'assemblage (par essai) — Fr. 12 ou Fr. 120/heure
+- o) test trouble protéique — Fr. 35
+- p) acide malique — Fr. 18
+- q) acide lactique — Fr. 18
+- r) acide tartrique — Fr. 18
+- s) indice formol — Fr. 18
+- t) densité — Fr. 18
+
+<sup>2</sup> Lorsque le traitement d'un dossier par le laboratoire d'œnologie nécessite des démarches administratives complémentaires, du fait notamment d'indications incomplètes ou inexactes, de requête à caractère urgent ou de modifications par rapport à la demande initiale, un émolument additionnel de 50 francs à 500 francs est perçu afin de couvrir les frais administratifs supplémentaires.
+
+#### Art. 7
+
+**Emoluments pour l'arboriculture**
+
+<sup>1</sup> Lorsque l'objet de la procédure porte sur la reconversion ou la modernisation de cultures de fruits ou légumes, l'émolument est perçu en fonction de la subvention accordée, comme suit:
+
+- a) jusqu'à 20'000 francs — Fr. 200
+- b) 20'001 francs à 35'000 francs — Fr. 300
+- c) au-delà de 35'000 francs — Fr. 500
+
+<sup>2</sup> Lorsque le traitement d'une demande de contributions nécessite des démarches administratives complémentaires, du fait notamment d'indications incomplètes ou inexactes, de dépôt de requête tardif ou de modifications par rapport au projet initial, un émolument additionnel de 50 francs à 500 francs est perçu afin de couvrir les frais administratifs supplémentaires.
+
+<sup>3</sup> Pour la procédure des vergers en friches, mal entretenus ou laissés à l'abandon et qui présentent un risque phytosanitaire pour d'autres cultures, l'émolument suivant est prélevé:
+
+- a) surfaces en propriété jusqu'à 1'000m² — Fr. 200
+- b) surfaces en propriété de 1'001m² jusqu’à 5'000m² — Fr. 400
+- c) surfaces en propriété supérieures à 5'000m² — Fr. 500
+
+#### Art. 8
+
+**Emoluments pour les estimations et expertises LDFR**
+
+<sup>1</sup> Lorsque l'objet de la procédure a trait à une estimation ou approbation de la valeur de rendement et de la charge maximale d'un immeuble ou d'une entreprise agricole, les frais de décision perçus se calculent comme suit:
+
+<table>
+<tr><th>Catégorie</th><th>Emolument fixe</th><th>TBC (timbre) fixe</th><th>Débours</th><th>Frais d'expertise</th></tr>
+<tr><td>A (cas simple - uniquement des parcelles agricoles)</td><td>Fr. 120 par page</td><td>Fr. 8 par décision</td><td>Fr. 10 par page</td><td>Fr. 200 la 1<sup>re</sup> parcelle, puis Fr. 30 supplémentaires par No de folio pour les parcelles suivantes</td></tr>
+<tr><td>B (cas complexe - parcelles agricoles avec bâtiments)</td><td>Fr. 120 par page</td><td>Fr. 8 par décision</td><td>Fr. 20 par page</td><td>Fr. 400 la 1<sup>re</sup> parcelle, puis Fr. 30 supplémentaires par No de folio pour les parcelles suivantes</td></tr>
+</table>
+
+#### Art. 9
+
+**Emoluments pour les paiements directs**
+
+<sup>1</sup> Les contrôles sur le terrain des exploitations bénéficiant de contributions d'estivage sont facturés à raison de 50 francs par alpage. L'émolument est perçu chaque année.
+
+<sup>2</sup> Les contrôles sur le terrain des exploitations d'estivage bénéficiant de contributions biodiversité et paysage sont facturés à raison de 4 pour cent du montant des contributions. L'émolument est perçu chaque année.
+
+<sup>3</sup> Les contrôles biodiversité qualité 2 sur les exploitations de base bénéficiant de contributions biodiversité qualité 2 sont facturés à raison de 3 pour cent du montant des contributions. L'émolument est perçu chaque année.
+
+<sup>4</sup> L'évaluation de la qualité de la biodiversité sur les exploitations de base est facturée une seule fois à raison de 100 francs par hectare, mais au moins de 100 francs par exploitation.
+
+<sup>5</sup> L'émolument suivant est prélevé lorsqu'un propriétaire ou un exploitant sollicite une contre-expertise pour contester une évaluation réalisée par l'autorité administrative et que cette contre-expertise aboutit à la confirmation des résultats initiaux:
+
+- a) catégorie A (expertises supplémentaires de la qualité de la biodiversité):
+  - 1\. sur la SAU: Fr. 200 par hectare, mais au minimum Fr. 100 et au maximum Fr. 2'000 par exploitation,
+  - 2\. sur les estivages: Fr. 20 par hectare, mais au minimum Fr. 300 et au maximum Fr. 2'000 par exploitation;
+- b) catégorie B (autres expertises supplémentaires): jusqu’à Fr. 500 par exploitation.
+
+<sup>6</sup> La saisie informatique des déclarations de surfaces pour l'obtention des paiements directs est obligatoire pour tous les exploitants. Le recensement des surfaces sur l'ancien formulaire papier n'est plus valable. L'autorité peut effectuer la saisie informatique à la demande de l'exploitant moyennant un émolument de 150 francs de l'heure.
+
+#### Art. 9a
+
+**Emoluments pour les améliorations structurelles**
+
+<sup>1</sup> Les émoluments suivants sont perçus lors de la notification d'une décision relative à une autorisation de construire:
+
+- a) construction, transformation, rénovation ou changement d'affectation d'un bâtiment, selon les coûts de construction (CFC2):
+  - 1\. jusqu'à un million y compris — 1‰ (minimum 100 francs)
+  - 2\. plus d'un million — 1'500 à 2'000 francs
+- b) travaux de génie rural, selon les coûts effectifs:
+  - 1\. jusqu'à un million y compris — 1‰ (minimum 100 francs)
+  - 2\. plus d'un million — 1'500 à 2'000 francs
+- c) petite construction, selon les coûts effectifs — 50 à 250 francs
+
+<sup>2</sup> Il n'est pas prélevé d'émolument pour les décisions d'autorisation de construire des projets exemptés de mise à l'enquête publique au sens de l’article 53 alinéa 3 LcAgr, notamment les remises en état périodiques.
+
+<sup>3</sup> Les décisions de restitution des contributions en raison de désaffectation, d'aliénation avec profit ou de morcellement d'un immeuble frappé d'une mention AF sont facturées à raison de 120 francs.
+
+<sup>4</sup> L'émolument pour les interventions spéciales des ingénieurs de l'Etat requises par le maître de l'ouvrage dépend de la difficulté du mandat et des principes de la couverture des frais et de l'équivalence des prestations. Il se calcule à un tarif horaire de 150 à 300 francs.
+
+#### Art. 10
+
+**Emoluments pour la formation continue**
+
+<sup>1</sup> Les enseignements dans le cadre de la formation continue (cours et journées d’information) sont dispensés aux prix de:
+
+<table>
+<tr><th>Descriptif</th><th>Sans pause et repas par jour ou unité</th><th>Avec pauses et repas par jour ou unité</th></tr>
+<tr><td>Formation continue &lt; 2 heures</td><td>Fr. 30</td><td>-</td></tr>
+<tr><td>Formation continue pour 1/2 journée</td><td>-</td><td>Fr. 55 (uniquement la pause)</td></tr>
+<tr><td>Formation continue pour 1 journée</td><td>-</td><td>Fr. 120</td></tr>
+<tr><td>Formation continue pour 2 à 5 journées</td><td>-</td><td>Fr. 100</td></tr>
+<tr><td>Formation continue pour plus de 5 jours à 10 jours</td><td>-</td><td>Fr. 90</td></tr>
+<tr><td>Formation continue pour plus de 10 jours</td><td>-</td><td>Fr. 80</td></tr>
+<tr><td>Cours ordonnance sur les paiements directs (forfait)</td><td>Fr. 3'200</td><td>-</td></tr>
+<tr><td>Brevet et maîtrise pour 1/2 journée sans matériel spécifique</td><td>…</td><td>…</td></tr>
+<tr><td>Brevet et maîtrise pour 1 journée sans matériel spécifique</td><td>…</td><td>…</td></tr>
+<tr><td>Brevet et maîtrise pour 1/2 journée avec matériel spécifique ou module spécifique</td><td>…</td><td>…</td></tr>
+<tr><td>Brevet et maîtrise pour 1 journée avec matériel spécifique ou module spécifique</td><td>…</td><td>…</td></tr>
+</table>
+
+<sup>2</sup> Les montants liés aux formations de brevet et de maîtrise sont définis par la Conférence des directeurs des écoles des métiers de la terre et de la nature de Suisse romande et du Tessin et validés par la Conférence des chefs de service de l'agriculture romande.
+
+#### Art. 11
+
+**Emoluments pour les avis de droit et expertises techniques**
+
+<sup>1</sup> Les avis de droit et expertises techniques sollicités par des personnes ou entités privées, ainsi que par des tribunaux statuant sur des litiges opposant des parties privées, peuvent être facturés à raison de 300 francs de l'heure.
+
+## 3 Dispositions finales
+
+#### Art. 12
+
+**Modalités d'encaissement**
+
+<sup>1</sup> Les émoluments au sens du chapitre 2 du présent règlement sont encaissés par voie de facturation ou par prélèvement sur les paiements directs pour les émoluments liés aux paiements directs.
+
+<sup>2</sup> Ils sont payables dans les 30 jours et sujets à intérêts à cinq pour cent dès le 1<sup>er</sup> jour de retard.
+
+<sup>3</sup> Les décisions sur frais prises en application du présent règlement sont assimilées aux jugements exécutoires au sens de l'article 80 de la loi fédérale sur la poursuite pour dettes et la faillite du 11 avril 1889 (LP).
+
+## T1 Disposition transitoire
+
+#### Art. T1-1
+
+**Droit transitoire**
+
+<sup>1</sup> Le présent règlement s'applique aux procédures pendantes, ainsi qu'aux décisions rendues après son entrée en vigueur.
+
+RCV BO/Abl. 3/2017

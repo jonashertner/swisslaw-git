@@ -1,0 +1,591 @@
+---
+canton: VS
+number: "172.200"
+title: "Ordonnance sur le personnel de l'Etat du Valais"
+short: OcPers
+language: fr
+version: 2011-07-01
+corrected: 2018-01-19
+version_adopted: 2011-06-22
+adopted: 2011-06-22
+in_force: 2011-07-01
+url: "https://lex.vs.ch/app/fr/texts_of_law/172.200"
+pdf: "https://lex.vs.ch/api/fr/versions/663/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Ordonnance sur le personnel de l'Etat du Valais
+
+du 22 juin 2011
+
+Le Conseil d'Etat du canton du Valais
+
+vu l'article 57 de la Constitution cantonale;
+
+vu la loi sur le personnel de l’Etat du Valais du 19 novembre 2010;
+
+sur la proposition du Département des finances, des institutions et de la santé,
+
+ordonne:
+
+### Section 1: Dispositions générales
+
+#### Art. 1
+
+**Objet et but de l'ordonnance**
+
+La présente ordonnance a pour but de compléter et de préciser les dispositions de la loi du 19 novembre 2010 sur le personnel de l'Etat du Valais (LPEV) dans les domaines qui ne sont pas couverts par des dispositions particulières.
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> La présente ordonnance régit, sous réserve des dispositions spéciales, le statut de toutes les personnes engagées par l’administration cantonale et les établissements de l’Etat, ainsi que du personnel administratif et des greffiers des tribunaux et du ministère public.
+
+<sup>2</sup> Elle est applicable au corps de la Police cantonale, sous réserve des dispositions spéciales, ainsi que subsidiairement aux enseignants engagés par le Conseil d’Etat. En outre, la législation scolaire règle le statut et le traitement du corps enseignant.
+
+<sup>3</sup> En cas d’application de conventions collectives du travail, celles-ci devront comporter au minimum les principes figurant dans la loi sur le personnel de l’Etat du Valais.
+
+#### Art. 3
+
+**Egalité des sexes**
+
+Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l’homme ou la femme.
+
+### Section 2: Gestion de l'organisation
+
+#### Art. 4
+
+**Organisation de l'administration cantonale**
+
+<sup>1</sup> Le Conseil d'Etat est responsable de l'organisation de l'administration cantonale et il établit un règlement y relatif.
+
+<sup>2</sup> Le service des ressources humaines (SRH) conseille et soutient le Conseil d'Etat notamment dans:
+
+- a) la planification et la gestion des postes de travail;
+
+- b) l’application et le développement d’un système informatisé pour la gestion des organigrammes, des postes de travail et des effectifs;
+
+- c) l'appui méthodologique à tous les départements et/ou services formulant des demandes de développement organisationnel;
+
+- d) l'application standardisée des processus organisationnels, déclarés lignes directrices par le Conseil d'Etat.
+
+#### Art. 5
+
+**Organisation du département**
+
+<sup>1</sup> Le chef de département est compétent pour la répartition des tâches entre les unités organisationnelles et peut en tout temps procéder aux adaptations nécessaires.
+
+<sup>2</sup> La surveillance du Conseil d'Etat demeure réservée; elle porte notamment sur l'approbation des réorganisations dépassant le cadre d'un seul département, modifiant le nombre de services ou ayant des incidences financières supplémentaires.
+
+#### Art. 6
+
+**Organisation du service**
+
+<sup>1</sup> Le chef de service organise son service. Il analyse régulièrement et après chaque départ d'un employé, la nécessité et le besoin de repourvoir le poste. Il optimise régulièrement la structure et les processus du service ainsi que la coordination entre la répartition des tâches et les compétences des employés.
+
+<sup>3</sup> Le chef de service veille à ce que les cahiers des charges des employés soient actualisés, signés et transmis au SRH.
+
+<sup>3</sup> Il garantit l'application standard des processus organisationnels déclarés lignes directrices par le Conseil d'Etat.
+
+#### Art. 7
+
+**Organisation du temps partiel**
+
+<sup>1</sup> Dans le cadre de la conciliation vie professionnelle et familiale, le Conseil d'Etat soutient la possibilité de modifier le taux d'activité de l'employé.
+
+<sup>2</sup> L’autorité d'engagement peut fractionner en plusieurs postes à temps partiel un poste qui a été autorisé si l’organisation du travail le permet et si le rendement de l’unité organisationnelle n’en est pas affecté.
+
+<sup>3</sup> Les employés à temps partiel ne doivent pas être désavantagés par rapport à ceux travaillant à plein temps.
+
+<sup>4</sup> Il n’existe pas de droit à la modification du taux d'activité.
+
+#### Art. 8
+
+**Augmentation du taux d'activité**
+
+<sup>1</sup> L'autorité d'engagement peut augmenter le taux d'activité d'un employé sur demande de ce dernier s’il existe une équivalence dans un poste vacant.
+
+<sup>2</sup> S’il n’existe pas d’équivalence dans un poste vacant, il s'agit d'une création de poste qui sera examinée lors de l'établissement du budget de l'année suivante.
+
+<sup>3</sup> Si un poste vacant doit d'abord être transformé, c'est l'article 10 qui s'applique.
+
+<sup>4</sup> Si plusieurs employés engagés à temps partiel au sein d'un service remplissent le profil et veulent augmenter leur taux d'activité, ce poste doit faire l'objet d'une mise au concours interne au sein du service concerné.
+
+#### Art. 9
+
+**Diminution du taux d'activité**
+
+L’autorité d’engagement peut, sur demande de l’employé ou d’un commun accord, diminuer le taux d’activité de ce dernier, pour autant que l’organisation du service le permette.
+
+#### Art. 10
+
+**Transformation et transfert d'un poste**
+
+<sup>1</sup> Le chef de service est compétent pour transférer et transformer un poste vacant au sein de son service, sans incidence financière dû à un éventuel changement de classe, dans le cadre du taux d'activité fixé dans l’organigramme du service, sous réserve d’un examen par la commission de classification s’il s’agit d’une nouvelle fonction à créer.
+
+<sup>2</sup> Le chef de département est compétent pour transférer et transformer un poste vacant au sein du département, sans incidence financière dû à un éventuel changement de classe, dans le cadre du taux d'activité fixé dans l’organigramme des unités organisationnelles concernées, sous réserve d’un examen par la commission de classification s’il s’agit d’une nouvelle fonction à créer.
+
+<sup>3</sup> Le Conseil d'Etat est compétent pour transformer un poste vacant impliquant des incidences financières dû à un éventuel changement de classe, dans le cadre du taux d'activité fixé dans l’organigramme de l'unité organisationnelle concernée, sous réserve d’un éventuel examen par la commission de classification s’il s’agit d’une nouvelle fonction à créer.
+
+<sup>4</sup> Si le taux d'activité fixé dans l’organigramme est dépassé, il s'agit d'une création de poste, selon l’article 12.
+
+#### Art. 11
+
+**Réorganisation**
+
+<sup>1</sup> Le Conseil d'Etat met en œuvre tous les moyens nécessaires pour que les réorganisations soient supportables.
+
+<sup>2</sup> Les mesures suivantes doivent prévaloir sur la résiliation des rapports de service et seront en principe des éléments compris dans chaque plan social:
+
+- a) affectation de l’employé à un autre poste dans la mesure du possible et pour autant que l’employé donne entière satisfaction au niveau des prestations et du comportement;
+
+<sup>b)</sup> recherche d’emplois en dehors de l’administration cantonale pour les employés menacés de licenciement;
+
+<sup>c)</sup> formation et perfectionnement professionnels;
+
+- d) prise de retraite anticipée et mise à la retraite.
+
+<sup>3</sup> Les employés soutiennent les efforts de l’employeur. Ils collaborent activement aux mesures prises et font preuve d’initiative, notamment dans la recherche d’un nouvel emploi.
+
+<sup>4</sup> Le Conseil d'Etat décide, en cas de besoin, pour quelles unités d’organisation un plan social doit être appliqué. Le Conseil d’Etat est compétent pour élaborer et signer le plan social avec les associations de personnel reconnues.
+
+#### Art. 12
+
+**Postes de travail**
+
+<sup>1</sup> Un organigramme informatisé comprend les postes de travail au sein de l’administration cantonale, la fonction, le rattachement budgétaire, la correspondance en équivalent plein temps ainsi que le taux d’activité du titulaire du poste.
+
+<sup>2</sup> Pour chaque poste de travail, il existe un cahier des charges signé par l’employé, dans lequel sont fixés notamment la dénomination de la fonction, les principales tâches, responsabilités et compétences financières ainsi que les liens hiérarchiques et le remplaçant.
+
+<sup>3</sup> Dans la description de poste sont en principe fixés tous les éléments d'un cahier des charges ainsi que le profil d'exigence pour le titulaire.
+
+<sup>4</sup> La création d'un nouveau poste de travail peut être demandée dans le cadre de l'établissement du budget de l'année suivante.
+
+#### Art. 13
+
+**Organisation des mandats**
+
+<sup>1</sup> Lors d’octroi de mandats dans le cadre des disponibilités budgétaires, le service mandant doit s’assurer que le mandataire est reconnu, pour l’activité à exécuter, comme indépendant au sens de la loi fédérale sur l’assurance-vieillesse et survivants et que les dispositions concernant les marchés publics sont appliquées.
+
+<sup>2</sup> Si le mandataire ne peut pas être considéré comme indépendant, l’attribution de ce mandat doit être traitée comme l’engagement d’un employé selon les dispositions y relatives.
+
+### Section 3: Controlling du personnel
+
+#### Art. 14
+
+**Définition et objectifs**
+
+<sup>1</sup> Le controlling du personnel permet au Conseil d'Etat, sur la base des objectifs et des indicateurs, de piloter l'application et le développement de la politique du personnel au sein de l'Etat du Valais au niveau politique, stratégique et opérationnel.
+
+<sup>2</sup> Le controlling du personnel est un instrument de conduite à disposition de tous les supérieurs permettant, sur la base des objectifs et des indicateurs, notamment de mieux planifier, conduire et développer les prestations et les compétences de son personnel.
+
+#### Art. 15
+
+**Organisation et déroulement**
+
+<sup>1</sup> Le Conseil d’Etat et/ou le Grand Conseil fixent dans les mandats de prestations politiques et/ou stratégiques du SRH, les objectifs et les indicateurs prioritaires pour la politique et la conduite du personnel.
+
+<sup>2</sup> Le Conseil d'Etat et les chefs de départements fixent dans les mandats de prestations stratégiques ou opérationnels de chaque service des objectifs et des indicateurs prioritaires pour la politique et la conduite du personnel.
+
+<sup>3</sup> Le chef de service prend les mesures nécessaires dans son domaine de compétence pour atteindre les objectifs et les indicateurs prioritaires fixés dans ses mandats de prestations pour la politique et la conduite du personnel.
+
+<sup>4</sup> Les indicateurs pour le controlling du personnel sont en principe saisis dans un système informatisé de manière centralisée par le SRH ou de manière décentralisée par les différentes unités organisationnelles.
+
+<sup>5</sup> Le SRH, en collaboration avec les responsables du controlling gouvernemental, départemental et du service, soutient le Conseil d'Etat, les départements et les services dans l'application et le développement du controlling du personnel. Le SRH peut établir des directives.
+
+#### Art. 16
+
+**Instruments du controlling de personnel**
+
+<sup>1</sup> Le Conseil d’Etat arrête comme lignes directrices les processus nécessaires à la gestion standardisée du personnel.
+
+<sup>2</sup> Le SRH réalise périodiquement un sondage de satisfaction auprès des employés afin de pouvoir évaluer la politique du personnel et propose un plan d’action y relatif.
+
+<sup>3</sup> Le supérieur conduit des entretiens d'appréciation avec ses employés, des entretiens de reprise avec les employés ayant été absents pour des raisons de maladie et/ou d'accident et des entretiens de départ.
+
+### Section 4: Engagement et cessation des rapports de service
+
+#### Art. 17
+
+**Statut de l'employé**
+
+<sup>1</sup> Est considérée comme employé, la personne engagée sous rapports de droit public pour une durée indéterminée ou déterminée, rémunérée mensuellement, à l’heure, ou non rémunérée, par l’autorité d’engagement compétente.
+
+<sup>2</sup> Sont considérés comme des subdivisions du statut de l'employé les catégories suivantes:
+
+- a) le statut d’apprenti défini dans le règlement sur les apprentis de l'administration cantonale;
+
+- b) le statut de stagiaire défini par une décision du Conseil d’Etat;
+
+- c) le statut de semi-protégé défini par une directive du Conseil d’Etat.
+
+<sup>3</sup> Les employés payés avec un salaire forfaitaire et les employés payés à l’heure ne sont pas soumis à la procédure d’appréciation et au système de l’augmentation salariale liée à la prestation.
+
+<sup>4</sup> Les personnes rémunérées par les services avec des honoraires, les membres des commissions et les experts ne sont pas considérés comme des employés selon l’article 13 de la loi sur le personnel de l’Etat du Valais. Ces personnes sont soumises à la législation fédérale en matière d’assurances sociales et accidents. Les dispositions pour le traitement en cas de maladie ne s’appliquent pas.
+
+#### Art. 18
+
+**Engagement à durée déterminée ou indéterminée**
+
+<sup>1</sup> Dans les situations ordinaires l’engagement est fait en principe pour une durée indéterminée.
+
+<sup>2</sup> Lorsque les tâches à effectuer présentent un caractère limité dans le temps et que la durée de celles-ci peut faire l’objet d’une estimation, l’engagement sera fait pour une durée déterminée.
+
+<sup>3</sup> Les engagements de durée déterminée ne peuvent être renouvelés ou prolongés plus d’une fois par l’autorité d’engagement compétente, indépendamment de la durée d’engagement.
+
+<sup>4</sup> S’il y a utilité de poursuivre l’engagement au-delà d’un premier renouvellement ou d’une première prolongation, c’est la forme de l’engagement pour une durée indéterminée qui est applicable.
+
+#### Art. 19
+
+**Autorité d'engagement**
+
+<sup>1</sup> Le Conseil d’Etat engage les secrétaires généraux, les chefs de service et les cadres rangés dans les classes de traitement d’aboutissement 1A à 10.
+
+<sup>2</sup> Les chefs de département engagent les employés rangés dans les classes de traitement d’aboutissement 11 à 26.
+
+<sup>3</sup> Les chefs de services engagent les semi-protégés, les stagiaires et les employés pour une durée déterminée, si la durée maximale de l'engagement est d'une année, avec possibilité de prolongation pour une nouvelle année au maximum sous réserve de l’application de l’article 21 alinéa 2.
+
+<sup>4</sup> Le SRH engage les apprentis avec préavis des services concernés.
+
+<sup>5</sup> Les employés ne peuvent en principe être engagés que dans la limite du budget annuel alloué pour les dépenses du personnel et dans le cadre du taux d'activité fixé dans l’organigramme du service.
+
+#### Art. 20
+
+**Principe et processus de la mobilité professionnelle**
+
+<sup>1</sup> La mobilité professionnelle permet aux employés d'évoluer sur le plan professionnel et à l'employeur Etat du Valais d'assurer la relève par des employés de l'interne.
+
+<sup>2</sup> Elle comprend:
+
+- a) un transfert sans changement de traitement suite à une modification du cahier des charges du même niveau de responsabilité dans la même fonction ou dans une nouvelle fonction similaire dans le même service ou dans un autre service;
+
+- b) un transfert avec changement de traitement suite à une modification du cahier des charges d'un niveau de responsabilité supérieur ou inférieur dans une nouvelle fonction dans le même service ou dans un autre service.
+
+<sup>3</sup> En cas de transfert dans un autre service, le transfert intervient par décision de l’autorité d’engagement du nouveau service, suite à un commun accord, mais au plus tard dans un délai de trois mois.
+
+<sup>4</sup> Les processus de recrutement approuvés par le Conseil d'Etat sont appliqués, notamment lorsqu’il y a plusieurs candidatures à évaluer.
+
+<sup>5</sup> Le Conseil d'Etat adopte en tant que lignes directrices des processus sur la promotion de la mobilité professionnelle.
+
+#### Art. 21
+
+**Mise au concours**
+
+<sup>1</sup> Chaque employé engagé nouvellement à l’Etat du Valais pour une durée indéterminée doit être engagé par l’autorité compétente suite à une mise au concours externe.
+
+<sup>2</sup> Pour une durée d'engagement maximum d'une année, lors notamment de remplacement ou de travaux urgents, aucune mise au concours n'est nécessaire. L’engagement des employés sans mise au concours ne peut être prolongé au-delà d’une année, sans mise au concours externe.
+
+<sup>3</sup> Dans le cadre de la mobilité professionnelle, les postes à repourvoir rangés dans les classes de traitement 11 à 26 sont mis au concours à l’interne de l'Administration cantonale via l’intranet du SRH (bourse de mobilité interne) ou peuvent, sur demande de l'autorité d'engagement concernée et d'entente avec le SRH, être seulement mis au concours à l’interne du et par le service. Seuls les employés qui ont été engagés par l’autorité compétente au moyen d'une mise au concours externe peuvent être pris en considération pour les mises au concours internes.
+
+<sup>4</sup> Les postes à repourvoir en externe sont mis au concours par le SRH dans le Bulletin officiel et dans la Bourse de l’emploi électronique du canton. Demeure réservée la publication de la mise au concours dans d'autres moyens de parution. Le SRH peut, sur demande, financer des annonces individuelles notamment quand il s’agit d’une fonction de cadre, de spécialiste ou si le marché du travail le nécessite.
+
+<sup>5</sup> En cas de besoin exceptionnel et dans le cadre des disponibilités financières des départements et des services demandeur, le SRH peut mandater des entreprises spécialisées pour le recrutement d'un cadre.
+
+#### Art. 22
+
+**Exigences d'engagement**
+
+<sup>1</sup> En cas de besoin, le recrutement peut comprendre une évaluation complémentaire psychologique et un contrôle de sécurité (notamment casier judiciaire, extrait des offices des poursuites et faillites). Le SRH édicte des directives sur le déroulement de l'évaluation complémentaire et le contrôle de sécurité, qui tiennent compte de la loi sur l’information, la protection des données et l’archivage du 9 octobre 2008 (LIPDA).
+
+<sup>2</sup> Si le candidat soumis à un test ou à un contrôle au sens de l'alinéa 1 ne donne pas son accord, sa candidature n'est pas prise en considération.
+
+<sup>3</sup> Les données récoltées dans le cadre de ces tests et contrôles sont communiquées au candidat.
+
+#### Art. 23
+
+**Maintien et insertion dans le marché du travail**
+
+<sup>1</sup> L'Etat du Valais favorise le maintien et l'insertion dans le marché du travail avec notamment:
+
+- a) des mesures favorisant le maintien des employés malades ou accidentés à leur place de travail;
+
+- b) des places de stage pour les jeunes et les chômeurs;
+
+- c) des places de travail protégées pour les personnes avec une capacité de prestations réduite.
+
+<sup>2</sup> Le Conseil d’Etat arrête, par voie de directives, de décisions et de processus, les dispositions nécessaires. S’appliquent notamment les directives relatives aux emplois semi-protégés.
+
+#### Art. 24
+
+**Fin des rapports de service pour raison d'âge**
+
+<sup>1</sup> Les rapports de service cessent d’eux-mêmes à la fin du mois durant lequel l'employé atteint l’âge limite.
+
+<sup>2</sup> L’âge limite est fixé de la manière suivante:
+
+<sup>a)</sup> Pour les assurés appartenant à la catégorie 1 de CPVAL: 65 ans pour les hommes, 64 ans pour les femmes.
+
+<sup>b)</sup> Pour les assurés appartenant à la catégorie 2 de CPVAL: 63 ans pour les hommes et pour les femmes.
+
+<sup>3</sup> Exceptionnellement, en cas d’un besoin particulier (marché de travail tendu, profil recherché, etc.) et si l’employé donne entièrement satisfaction par rapport au comportement et aux prestations fournies, l’autorité d’engagement peut prolonger l’engagement d’un employé au-delà de l’âge limite, mais au maximum de deux années. Dans ce cas, l’employé peut choisir si le traitement doit être réduit du montant des rentes versées par CPVAL ou si la rente versée par CPVAL doit être différée jusqu’à la fin de l’engagement.
+
+#### Art. 25
+
+**Résiliation immédiate pour justes motifs**
+
+La procédure tendant à la résiliation des rapports de service pour justes motifs doit être introduite dès la connaissance des justes motifs. La décision doit intervenir dans un délai rapide compte tenu toutefois des nécessités de l’instruction.
+
+#### Art. 26
+
+**Libération de l’obligation de travailler**
+
+<sup>1</sup> Lors de la résiliation des rapports de service dans les délais légaux par l'employeur, ce dernier peut exceptionnellement libérer l'employé de son obligation de travailler lorsque les rapports de confiance sont rompus ou que les circonstances l'exigent.
+
+<sup>2</sup> En cas de libération de l’obligation de travailler, le solde de vacances et des éventuels heures supplémentaires est supprimé.
+
+#### Art. 27
+
+**Conséquences d’une résiliation non fondée juridiquement**
+
+Le montant de l’indemnité est fixé par l’autorité d’engagement dans le cadre posé par la LPEV.
+
+#### Art. 28
+
+Modification et résiliation d’un engagement par contrat de droit public Un engagement par contrat revêt un caractère exceptionnel, réservé à des missions ou des situations particulières. Les modalités de modification ou de résiliation d'un contrat sont définies par celui-ci dans le cadre posé par la LPEV.
+
+### Section 5: Droits et devoirs de l'employé
+
+#### Art. 29
+
+**Instruments de travail, secret de fonction**
+
+<sup>1</sup> L'employé utilise avec soin le matériel et les instruments de travail mis à disposition par l'employeur pour exercer son travail.
+
+<sup>2</sup> Il est interdit à l'employé de communiquer à des tiers ou de conserver à titre personnel, en original ou en copie, des documents de service. Il doit permettre à son supérieur d'accéder aux documents professionnels, notamment informatiques.
+
+<sup>3</sup> Le Conseil d’Etat arrête, par voie de règlements et/ou de directives les dispositions régissant l’utilisation des moyens informatiques et de la téléphonie, notamment les conditions d’utilisation et les mesures de surveillance.
+
+#### Art. 30
+
+**Activité accessoire**
+
+<sup>1</sup> Les activités accessoires qui manifestement ne présentent aucun caractère préjudiciable à la bonne exécution des tâches liées à la fonction sont soumises à autorisation du chef de service.
+
+<sup>2</sup> Les activités qui a priori peuvent présenter un risque de compromettre la bonne exécution des tâches liées à la fonction, ainsi que les activités accessoires présentant certains liens avec la fonction, sont soumises à autorisation de l’autorité d’engagement.
+
+<sup>3</sup> L’autorisation est refusée s’il y a un risque d’un préjudice pour la bonne exécution des tâches liées à la fonction ou si en raison du lien avec la fonction elle peut être considérée comme incompatible avec celle-ci.
+
+<sup>4</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires.
+
+#### Art. 31
+
+**Examen médical**
+
+<sup>1</sup> L’employé en incapacité de travail et dont le terme du droit au traitement est proche est soumis à un examen médical auprès du médecin-conseil de CPVAL.
+
+<sup>2</sup> Par période durable au sens de l’article 28 alinéa 1 LPEV, il faut entendre une période d’une durée de plus de trois mois.
+
+<sup>3</sup> Un motif pertinent au sens de l’article 28 alinéa 4 LPEV existe notamment en cas d’absences répétées, de suspicion d’abus ou de dépendance, de baisse notable des prestations et de comportements inadéquats.
+
+<sup>4</sup> L’Etat du Valais collabore étroitement avec l’AI pour détecter de manière précoce les éventuels problèmes de santé de ses employés, dans l’optique de favoriser leur réinsertion professionnelle.
+
+#### Art. 32
+
+**Commission disciplinaire**
+
+<sup>1</sup> La commission disciplinaire est composée en principe de trois membres ou membres-suppléants et se compose comme suit:
+
+- a) un membre de la Chancellerie d'Etat, en tant que président;
+
+- b) un membre du service des ressources humaines (SRH);
+
+- c) un membre de la Fédération des Magistrats, des Enseignants et des Employés de l’Etat du Valais (FMEP).
+
+<sup>2</sup> Le président doit avoir une formation juridique et la Chancellerie d'Etat assure le secrétariat de la commission.
+
+<sup>3</sup> Le Conseil d’Etat arrête par voie de directives les dispositions nécessaires.
+
+#### Art. 33
+
+**Lieu de travail**
+
+<sup>1</sup> Un lieu de travail est attribué à chaque employé.
+
+<sup>2</sup> Si l’activité l’exige, plusieurs lieux de travail peuvent être attribués à un employé. Ces derniers doivent figurer dans la décision d’engagement.
+
+<sup>3</sup> Le lieu de travail peut être modifié conformément à l’article 54 alinéa 3 LPEV, ce par décision complémentaire de l’autorité d’engagement.
+
+<sup>4</sup> Un lieu de travail devient habituel dès que la durée prévisible d’activité en ce lieu dépasse le mois.
+
+#### Art. 34
+
+**Protection de la personnalité**
+
+<sup>1</sup> L'Etat du Valais prend toutes les mesures nécessaires afin d'assurer la protection des employés qui font l’objet de menaces, d’attaques présumées ou d’autres atteintes à la personnalité dans l'exercice de leur fonction. De même il soutient, dans la mesure nécessaire, les employés ayant l’obligation de dénoncer d’éventuelles infractions pénales qui se poursuivent d’office.
+
+<sup>2</sup> L’autorité d’engagement peut accorder, sur demande formulée dès le début de l’affaire, l’assistance juridique à un employé:
+
+- a) en matière civile, si celui-ci est demandeur en raison d’un dommage subi dans l’exercice de ses fonctions ou s’il est intervenant accessoire dans une action ouverte contre l’Etat;
+
+- b) en matière pénale, s’il est plaignant en raison d’une atteinte subie dans l’exercice de ses fonctions ou s’il est prévenu en raison d’un fait afférent à l’exercice de ses fonctions.
+
+<sup>3</sup> L’assistance juridique peut être accordée après la cessation des rapports de service.
+
+<sup>4</sup> Les frais d’assistance sont mis, par décision de l’autorité d’engagement, totalement ou partiellement à la charge de l’employé si celui-ci est reconnu coupable, pour autant qu’il ait violé intentionnellement ou par négligence grave ses devoirs de service.
+
+<sup>5</sup> Le Conseil d’Etat arrête, par voie de directive ou de décision, les dispositions nécessaires.
+
+#### Art. 35
+
+**Protection de la santé et sécurité**
+
+<sup>1</sup> L'Etat du Valais prévoit les moyens humains, financiers et d’infrastructures nécessaires à la mise en place de mesures de prévention des risques professionnels.
+
+<sup>2</sup> Les mesures de prévention visent à supprimer les dangers ou à réduire les risques, à diagnostiquer précocement des pathologies en lien avec le travail et à éviter l’aggravation des symptômes et à assurer la prise en charge et la réadaptation de personnes présentant des pathologies en lien avec le travail.
+
+<sup>3</sup> Pour mettre en place ces mesures, l'Etat du Valais se dote de compétences internes ou externes appropriées (p.ex. en ergonomie, santé, hygiène, sécurité et médecine du travail).
+
+<sup>4</sup> L’Etat du Valais prévoit pour les employés travaillant régulièrement de nuit des mesures de santé et de sécurité spécifiques.
+
+<sup>5</sup> Le Conseil d’Etat arrête les dispositions nécessaires, par voie de règlement, de directive et de procédure.
+
+#### Art. 36
+
+**Consultation sociale**
+
+<sup>1</sup> La consultation sociale est à la disposition des employés pour les soutenir dans leurs difficultés tant professionnelles que personnelles. Les employés consultent sur le temps de travail.
+
+<sup>2</sup> Le Conseil d’Etat arrête par voie de directives les dispositions nécessaires.
+
+#### Art. 37
+
+**Données relatives à la santé**
+
+<sup>1</sup> Les médecins-conseils traitent confidentiellement les données personnelles relatives à la santé; ils conservent les dossiers médicaux.
+
+<sup>2</sup> Ils communiquent au SRH tous les éléments médicaux pertinents pour l’appréciation de la capacité de travail de l’employé.
+
+#### Art. 38
+
+**Fonds de secours en faveur des employés**
+
+<sup>1</sup> Le fonds de secours est destiné à venir en aide de façon exceptionnelle aux employés ou à la famille d'un employé, se trouvant momentanément dans une situation très difficile.
+
+<sup>2</sup> Il peut être mis à disposition notamment sous forme de prêts sans intérêt et d'avances sur salaire.
+
+<sup>3</sup> Il est alimenté par des dons ou des recettes extraordinaires.
+
+<sup>4</sup> Le SRH est chargé de la gestion financière de ce fonds.
+
+<sup>5</sup> Une commission composée des représentants du SRH et de la FMEP propose au Conseil d’Etat l’utilisation de ce fonds pour chaque cas.
+
+#### Art. 39
+
+**Droit à la consultation et à l’information**
+
+<sup>1</sup> Le Conseil d’Etat informe ses employés régulièrement sur les projets, mesures et décisions les concernant.
+
+<sup>2</sup> Au nom du Conseil d’Etat, la Chancellerie d’Etat par l’information Valais (IVS), le SRH ou une autre unité organisationnelle utilisent des canaux d’information pertinents et appropriés pour communiquer et informer.
+
+<sup>3</sup> Les chefs de service ainsi que les supérieurs doivent faire suivre les informations et donner des explications, si nécessaire et selon les demandes. Ils sont aussi chargés en particulier de transmettre aux employés toutes les informations nécessaires et utiles dans le cadre de la réalisation de leurs activités.
+
+<sup>4</sup> Les employés ont le droit d’être consultés et informés sur les avant-projets de loi et les décisions importantes, ayant un lien avec le personnel. La consultation et l’information peuvent être organisées en collaboration avec la FMEP et/ou les associations de personnel, ou être réalisées par cette dernière.
+
+#### Art. 40
+
+**Respect de l’environnement**
+
+Le Conseil d'Etat prend des mesures afin d'inciter son personnel à adopter un comportement responsable dans le domaine du développement durable et de la protection de l'environnement.
+
+#### Art. 41
+
+Développement personnel, formation et perfectionnement professionnels
+
+<sup>1</sup> La formation du personnel et les mesures de développement du personnel permettent de:
+
+- a) soutenir les employés dans la réalisation de leurs tâches et défis actuels et futurs;
+
+- b) couvrir le besoin en personnel qualifié et motivé, en spécialistes, en gestionnaires de projet, en gestionnaires de conduite;
+
+- c) répondre aux exigences du marché du travail;
+
+- d) maintenir et améliorer la flexibilité et la mobilité offertes aux employés;
+
+- e) contribuer à ce que l’employé acquiert de nouvelles compétences afin d’assumer de nouvelles tâches et fonctions;
+
+- f) participer au développement personnel de l’employé;
+
+- g) accroître la satisfaction des employés et l’attractivité de l'Etat du Valais en tant qu’employeur.
+
+<sup>2</sup> Le Conseil d’Etat arrête, par voie de règlement, les dispositions nécessaires régissant la formation continue.
+
+#### Art. 42
+
+**Egalité des chances**
+
+Les mesures en faveur de l'égalité des chances portent notamment sur l’encouragement à une répartition équilibrée des sexes à tous les échelons de la hiérarchie et dans toutes les fonctions de l’administration cantonale.
+
+#### Art. 43
+
+**Temps partiel et partage du temps de travail**
+
+<sup>1</sup> L’Etat du Valais soutient et favorise la promotion du travail à temps partiel, tant pour les femmes que pour les hommes, ainsi que les formes flexibles de travail par le biais de différentes mesures pour autant que l’organisation et les possibilités du service le permettent.
+
+<sup>2</sup> L’employé à temps partiel s'informe et est informé régulièrement des événements et des évolutions qui se sont passés durant son absence.
+
+#### Art. 44
+
+**Télétravail**
+
+<sup>1</sup> Le télétravail est une forme flexible du travail qui a pour but d’améliorer les prestations et la motivation des employés et de leur permettre de concilier au mieux leur vie professionnelle et familiale.
+
+<sup>2</sup> Les employés peuvent exercer le télétravail au sein de l’administration cantonale pour autant qu’ils aient l’accord de leur chef de service, du SRH, du service cantonal de l’informatique et que la décision soit validée par le chef de département.
+
+<sup>3</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires. Il peut prévoir des dispositions spécifiques pour certaines catégories de personnel.
+
+#### Art. 45
+
+Participation financière aux frais de garde des enfants du personnel de l’Etat
+
+<sup>1</sup> L’Etat du Valais participe financièrement, au maximum à 50 pour cent, aux frais de garde des enfants de son personnel. Le pourcentage est fixé annuellement par une décision du Conseil d’Etat.
+
+<sup>2</sup> Les frais de garde sont remboursés l’année suivante sur la base des décomptes de frais effectifs.
+
+<sup>3</sup> Le Conseil d’Etat arrête, par voie de directives, les dispositions nécessaires.
+
+#### Art. 46
+
+**Garde d'enfants malades/accidentés du personnel**
+
+<sup>1</sup> Les employés bénéficient d’un service de garde en cas de maladie/accident de leurs enfants.
+
+<sup>2</sup> Une convention, réglant les modalités d'application, est établie entre l’Etat du Valais et la Croix-Rouge Valais.
+
+#### Art. 47
+
+**Certificat de travail et entretien de départ**
+
+<sup>1</sup> L'employé peut en tout temps demander un certificat portant sur la nature et la durée des rapports de service, ainsi que sur la qualité de son travail et sur sa conduite.
+
+<sup>2</sup> A la demande expresse de l'employé, le certificat ne porte que sur la nature et la durée des rapports de service.
+
+<sup>3</sup> Avant le départ de l'employé, le supérieur établit un certificat de travail et conduit un entretien de départ avec ce dernier. Le SRH ou un correspondant ou responsable RH peut également conduire un entretien de départ avec l'employé.
+
+<sup>4</sup> Le certificat de travail est en principe remis par le supérieur lors de l'entretien de départ.
+
+<sup>5</sup> Le Conseil d’Etat arrête, par voie de directives et de procédures, les dispositions pour l’établissement standardisé des certificats de travail ainsi que pour la conduite standardisée des entretiens de départ.
+
+### Section 6: Dispositions transitoires et finales
+
+#### Art. 48
+
+**Droit transitoire**
+
+<sup>1</sup> Le passage de l'ancien statut au nouveau statut se fait ex lege, sans nouvelle décision individuelle.
+
+<sup>2</sup> Pour des cas particuliers (renouvellement des rapports de services, nomination provisoire, maladies, changement de la dénomination de la fonction, lieu de domicile, etc.) des décisions individuelles peuvent être prises.
+
+<sup>3</sup> Sous réserve des dispositions de droit transitoire précédentes, toutes les dispositions contraires à la présente ordonnance sont abrogées, notamment le règlement fixant le statut des auxiliaires et du personnel engagé pour une durée indéterminée du 17 décembre 1997.
+
+#### Art. 49
+
+**Entrée en vigueur**
+
+La présente ordonnance sera publiée dans le Bulletin officiel pour entrer en vigueur au 1<sup>er</sup> juillet 2011.
+
+Ainsi adopté en Conseil d'Etat à Sion, le 22 juin 2011.
+
+Le président du Conseil d'Etat: Jacques Melly Le chancelier d'Etat: Philipp Spörri

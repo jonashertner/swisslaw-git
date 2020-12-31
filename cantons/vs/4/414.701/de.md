@@ -1,0 +1,1055 @@
+---
+canton: VS
+number: "414.701"
+title: Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis
+short: HES-SO Valais/Wallis
+language: de
+version: 2016-09-01
+corrected: 2017-09-06
+version_adopted: 2016-08-17
+adopted: 2014-12-16
+in_force: 2015-01-01
+url: "https://lex.vs.ch/app/de/texts_of_law/414.701"
+pdf: "https://lex.vs.ch/api/de/versions/499/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Verordnung betreffend das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis)
+
+vom 16. Dezember 2014
+
+Der Staatsrat des Kantons Wallis
+
+eingesehen Artikel 57 der Kantonsverfassung;
+
+eingesehen die Interkantonale Vereinbarung über die Fachhochschule Westschweiz (HES-SO) vom 26. Mai 2011;
+
+eingesehen das Gesetz über die Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. November 2012;
+
+auf Antrag des Departements für Bildung und Sicherheit, verordnet:
+
+### 1. Kapitel: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand und Zweck der Verordnung**
+
+Die vorliegende Verordnung definiert das Statut des Personals der Fachhochschule Westschweiz Valais/Wallis (nachfolgend: die HES-SO Valais/Wallis). Sie bezweckt die Festlegung der personalpolitischen Grundsätze, der Verwaltung, der Arbeitsverhältnisse sowie der Rechte und Pflichten des Personals.
+
+#### Art. 2
+
+**Anwendungsbereich**
+
+Die vorliegende Verordnung regelt, unter Vorbehalt der namentlich vom Staatsrat erlassenen Sonderbestimmungen, das Statut aller Angestellten der HES-SO Valais/Wallis.
+
+#### Art. 3
+
+**Gleichstellung**
+
+Im vorliegenden Gesetz gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+
+#### Art. 4
+
+**Personalpolitische Grundsätze**
+
+<sup>1</sup> Die Generaldirektion der HES-SO Valais/Wallis (nachfolgend: die Generaldirektion) definiert und vertritt die Grundsätze der Personalpolitik. Diese orientiert sich namentlich an folgenden Grundsätzen:
+
+- a) Sie trägt zu einer leistungsfähigen Schule bei, welche enge Kontakte zur Wirtschaft, der Industrie und der Gesundheits- und Sozialbranche pflegt;
+
+- b) Sie orientiert sich am Arbeitsmarkt und trägt den Möglichkeiten ihres Finanzhaushalts Rechnung;
+
+- c) Sie strebt ein sozialpartnerschaftliches Verhältnis zwischen der HES-SO Valais/Wallis, dem Personal und den Personalverbänden an;
+
+- d) Sie zielt darauf ab, kompetente Mitarbeitende zu gewinnen und zu erhalten, welche qualitätsorientiert, verantwortungsbewusst und kooperativ handeln;
+
+- e) Sie nutzt und entwickelt die Kompetenzen und das Potenzial ihrer Mitarbeitenden, insbesondere durch die Weiterbildung, indem sie diese ihren Eignungen, Fähigkeiten und Bedürfnissen der HES-SO entsprechend einsetzt und fördert;
+
+- f) Sie legt ein wesentliches Augenmerk auf die Auswahl, Ausbildung und Entwicklung der Führungskräfte;
+
+- g) Sie unterstützt die berufliche Flexibilität und Mobilität innerhalb der HES-SO Valais/Wallis und ermöglicht eine dynamische Personalplanung;
+
+- h) Sie fördert die Chancengleichheitinnerhalb ihres Personals;
+
+- i) Sie sorgt für eine angemessene Vertretung beider Amtssprachen;
+
+- j) Sie fördert die Zweisprachigkeit des Personals und legt auf dieses Kriterium bei den Stellenausschreibungen entsprechend Wert;
+
+- k) Sie unterstützt die Vereinbarkeit von Berufs- und Privatleben und fördert flexible Arbeitsformen und Arbeitszeitmodelle;
+
+- l) Sie schützt die Gesundheit der Mitarbeitenden, unterstützt Toleranz und Akzeptanz innerhalb der Teams und verhindert jegliche Form von Diskriminierung;
+
+- m) Sie fördert eine offene Kommunikation und sorgt für eine gezielte und transparente Information der Mitarbeitenden;
+
+- n) Sie bietet Lehrstellen und Ausbildungsplätze an und unterstützt die berufliche Eingliederung von Personen mit reduzierter Leistungsfähigkeit;
+
+- o) Sie trägt dazu bei, Jugendlichen und Arbeitslosen Beschäftigungsmöglichkeiten anzubieten, um deren berufliche Ein- oder Wiedereingliederung zu erleichtern.
+
+<sup>2</sup> Die Generaldirektion sorgt für die Einhaltung der Grundsätze der Personalpolitik und trifft die entsprechenden Massnahmen.
+
+#### Art. 5
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die Dienstverhältnisse des Personals werden durch das öffentliche Recht geregelt.
+
+<sup>2</sup> Die Bestimmungen des Obligationenrechts und die nicht zwingenden Bestimmungen des Bundesgesetzes über die Arbeit vom 13. März 1964 sind bei ausdrücklichem Verweis oder einer Gesetzeslücke als ergänzendes kantonales öffentliches Recht analog anwendbar.
+
+<sup>3</sup> Vorbehalten bleiben die zwingenden Bestimmungen des Bundesgesetzes über die Arbeit.
+
+#### Art. 6
+
+**Sozialpartner**
+
+<sup>1</sup> Die anerkannten Personalverbände müssen von der Generaldirektion über die Entscheide und gesetzliche Bestimmungen, die wesentliche Auswirkungen auf das Personal haben, vorgängig informiert und miteinbezogen werden.
+
+<sup>2</sup> Das mit der Aufsicht über die HES-SO Valais/Wallis beauftragte Departement muss über alle Entscheide informiert werden, die wesentliche Auswirkungen auf das Personal haben.
+
+#### Art. 7
+
+Anwendung der Bestimmungen von Gesamtarbeitsverträgen Die Generaldirektion kann entscheiden, Bestimmungen von Gesamtarbeitsverträgen anzuwenden, die gewisse besondere Bereiche regeln, ohne allerdings an den besagten Verträgen teilzunehmen.
+
+#### Art. 8
+
+**Geschützte Arbeitsplätze**
+
+<sup>1</sup> Die Generaldirektion unterstützt die berufliche Eingliederung und Wiedereingliederung.
+
+<sup>2</sup> Sie stellt im Rahmen der budgetären Möglichkeiten eine beschränkte Anzahl geschützter befristeter und unbefristeter Arbeitsplätze für Personen zur Verfügung, die aus gesundheitlichen Gründen besondere Bedürfnisse in Bezug auf ihre Fähigkeiten und ihre Arbeitsbedingungen haben.
+
+<sup>3</sup> Sie unterstützt den Verbleib beziehungsweise die Eingliederung in den Arbeitsmarkt insbesondere durch:
+
+- a) Massnahmen zur Unterstützung der Beibehaltung der Arbeitsstelle für kranke oder verunfallte Angestellte;
+
+- b) Praktikumsstellen für Jugendliche und Arbeitslose;
+
+- c) geschützte Arbeitsplätze für Personen mit einer verminderter Leistungsfähigkeit.
+
+<sup>4</sup> Die Generaldirektion beschliesst die nötigen Bestimmungen mittels Reglementen und Richtlinien.
+
+### 2. Kapitel: Verwaltung der Organisation
+
+#### Art. 9
+
+**Budget-Verfügbarkeit**
+
+Die Generaldirektion der HES-SO Valais/Wallis ist im Rahmen der budgetären Möglichkeiten für die Verwaltung ihres Personals verantwortlich.
+
+#### Art. 10
+
+**Akademisches Jahr**
+
+Das akademische Jahr beginnt grundsätzlich am 1. September und endet am 31. August.
+
+#### Art. 11
+
+**Organisation der Teilzeitarbeit**
+
+<sup>1</sup> Im Rahmen der Vereinbarkeit von Berufs- und Privatleben unterstützt die Generaldirektion die Möglichkeit, den Beschäftigungsgrad der Angestellten anzupassen.
+
+<sup>2</sup> Die Anstellungsbehörde kann eine Stelle in mehrere Teilzeitstellen aufteilen, sofern die Organisation der Arbeit dies erlaubt und die Arbeitsleistung der Organisationseinheit nicht beeinträchtigt wird.
+
+<sup>3</sup> Teilzeitangestellte dürfen gegenüber Vollzeitangestellten nicht benachteiligt werden.
+
+<sup>4</sup> Es existiert kein Anrecht auf eine Änderung des Beschäftigungsgrades.
+
+#### Art. 12
+
+**Umwandlung und Transfer einer Stelle**
+
+Die Generaldirektion ist für die Umwandlung und den Transfer einer Stelle innerhalb der HES-SO Valais/Wallis zuständig, wobei die Annahme durch die Klassifikationskommission vorbehalten bleibt, falls es sich um eine neuzuschaffende Funktion handelt.
+
+#### Art. 13
+
+**Reorganisation**
+
+<sup>1</sup> Die Generaldirektion setzt im Rahmen der budgetären Möglichkeiten alle notwendigen Mittel ein, um die Auswirkungen von Reorganisationen zu mindern.
+
+<sup>2</sup> Die folgenden Massnahmen müssen einer Kündigung des Dienstverhältnisses vorausgehen und grundsätzlich integrierender Bestandteil eines jeden Sozialplans sein:
+
+- a) Zuteilung einer anderen Stelle für den Angestellten im Rahmen des Möglichen und unter der Bedingung, dass der Angestellte volle Zufriedenheit in Bezug auf die Leistungen und das Verhalten gibt;
+
+- b) Stellensuche ausserhalb der HES-SO Valais/Wallis für Angestellte, denen eine Kündigung droht;
+
+- c) Ausbildung und berufliche Weiterbildung;
+
+- d) Frühpensionierung und Pensionierung.
+
+<sup>3</sup> Die Angestellten unterstützen die Bemühungen des Arbeitgebers. Sie beteiligen sich aktiv an den getroffenen Massnahmen und zeigen Initiative, insbesondere bei der Suche nach einer neuen Arbeitsstelle.
+
+<sup>4</sup> Die Generaldirektion entscheidet falls notwendig, für welche Organisationseinheiten ein Sozialplan angewendet werden muss. Zusammen mit den anerkannten Personalverbänden ist sie für die Ausarbeitung und die Unterzeichnung des Sozialplans zuständig.
+
+<sup>5</sup> Jede Reorganisation muss dem mit der Aufsicht über die HES-SO Valais/Wallis beauftragten Departement gemeldet werden.
+
+#### Art. 14
+
+**Arbeitsplätze und Pflichtenhefte**
+
+<sup>1</sup> Ein informatikgestütztes Organigramm beinhaltet die in der HES-SO Valais/Wallis existierenden Stellen, die Funktion, die Budgetzuteilung, die Vollzeitäquivalenz sowie den Beschäftigungsgrad der Stelleninhaber.
+
+<sup>2</sup> Für jede Arbeitsstelle existiert ein vom Angestellten unterschriebenes Pflichtenheft, in welchem insbesondere die Funktionsbezeichnung, die Hauptaufgaben, die Verantwortungsbereiche und die finanziellen Kompetenzen sowie die hierarchische Unterordnung und die Stellvertretung festgelegt sind.
+
+<sup>3</sup> In der Stellenbeschreibung sind grundsätzlich alle Bestandteile eines Pflichtenheftes sowie zusätzlich das Anforderungsprofil des Stelleninhabers enthalten.
+
+#### Art. 15
+
+**Organisation der Mandate**
+
+<sup>1</sup> Bei der Vergabe von Mandaten im Rahmen des verfügbaren Budgets muss sich die HES-SO Valais/Wallis vergewissern, dass der Mandatsnehmer für die auszuübende Tätigkeit als Selbstständigerwerbender im Sinne des Bundesgesetzes über die Alters- und Hinterlassenenversicherung anerkannt ist und die Bestimmungen über das öffentliche Beschaffungswesen angewendet werden.
+
+<sup>2</sup> Falls der Mandatsnehmer nicht als Selbstständigerwerbender eingestuft werden kann, wird die Vergabe des Mandats wie eine Anstellung eines Mitarbeitenden gemäss den entsprechenden Bestimmungen behandelt.
+
+### 3. Kapitel: Personalführung
+
+#### Art. 16
+
+**Definition und Zielsetzungen**
+
+Die HR-Abteilung der HES-SO Valais/Wallis stellt der Generaldirektion und dem Kader Tools und Indikatoren zur Verfügung, die es erlauben, die Anwendung und die Entwicklung der Personalpolitik innerhalb der HES-SO Valais/Wallis auf strategischer und operationeller Ebene zu steuern.
+
+#### Art. 17
+
+**Führungsinstrumente**
+
+<sup>1</sup> Die Generaldirektion erlässt im Sinne von Leitlinien die fürs integrierte Managementsystem (IMS) nötigen Prozesse.
+
+<sup>2</sup> Sie realisiert periodisch Mitarbeiterzufriedenheitsumfragen, um so die Personalpolitik überprüfen und entsprechende Aktionspläne vorschlagen zu können.
+
+<sup>3</sup> Die Vorgesetzten führen mit ihren Angestellten Beurteilungsgespräche, Wiederaufnahmegespräche nach längerer Abwesenheit infolge Krankheit oder Unfall sowie Austrittsgespräche.
+
+### Abschnitt: Personalkategorien
+
+#### Art. 18
+
+**Statut des Angestellten**
+
+<sup>1</sup> Als Angestellter gilt diejenige Person, die von der zuständigen Anstellungsbehörde in einem öffentlich-rechtlichen Arbeitsverhältnis befristet oder unbefristet angestellt sowie monatlich, stundenweise oder gar nicht entschädigt wird.
+
+<sup>2</sup> Alle Angestellten, welche ein Pauschalgehalt oder einen Stundenlohn erhalten, sind nicht dem Beurteilungsprozess und dem System der leistungsorientierten Lohnerhöhung unterstellt.
+
+<sup>3</sup> Personen, die für ihre Leistungen ein Honorar beziehen, sowie Experten gelten nicht als Angestellte. Diese Personen sind der eidgenössischen Gesetzgebung über die Sozial- und Unfallversicherungen unterstellt. Die Bestimmungen über die Besoldung im Krankheitsfall werden nicht angewendet.
+
+#### Art. 19
+
+**Begriff**
+
+Die HES-SO Valais/Wallis tritt als Arbeitgeber des Personals der Schule auf, zu deren Bestand folgende Kategorien gehören:
+
+- a) die Generaldirektion;
+
+- b) das Lehr- und Forschungspersonal;
+
+- c) das administrative und technische Personal.
+
+### 2. Abschnitt: Generaldirektion
+
+#### Art. 20
+
+**Zusammensetzung**
+
+Die Generaldirektion setzt sich aus dem Direktor der HES-SO Valais/Wallis (nachfolgend: der Direktor) und den Bereichsdirektoren (nachfolgend: die Direktoren der Hochschulen) zusammen.
+
+#### Art. 21
+
+**Anstellungsanforderungen**
+
+Die Kompetenzen und das Pflichtenheft der Direktionsmitglieder werden vom Staatsrat festgelegt.
+
+#### Art. 22
+
+**Aufgaben**
+
+Die Aufgabenbereiche und Zuständigkeiten der Generaldirektion sind im Gesetz über die HES-SO Valais/Wallis vom 16. November 2012 festgelegt.
+
+#### Art. 23
+
+**Funktionsweise**
+
+<sup>1</sup> Die Generaldirektion funktioniert nach dem Kollegialitätsprinzip und respektiert die Organisation, wie sie in der interkantonalen Vereinbarung über die HES-SO definiert ist.
+
+<sup>2</sup> Sie legt ihr Betriebsreglement fest und informiert den Staatsrat darüber.
+
+<sup>3</sup> Die Generaldirektion und der Departementsvorsteher des für tertiäre Bildung zuständigen Departements treffen sich einmal jährlich.
+
+### 3. Abschnitt: Lehr- und Forschungspersonal
+
+#### Art. 24
+
+**Zusammensetzung**
+
+<sup>1</sup> Das Lehr- und Forschungspersonal der HES-SO Valais/Wallis setzt sich zusammen aus:
+
+- a) der Professorenschaft;
+
+- b) dem Mittebau.
+
+<sup>2</sup> Die Funktionen des Lehr- und Forschungspersonals werden vom Staatsrat unter Berücksichtigung der für die Fachhochschule Westschweiz diesbezüglich geltenden Grundsätze und gemeinsamen Regeln (Typologie der Funktionen der HES-SO) festgelegt.
+
+<sup>3</sup> Die für das Lehr- und Forschungspersonal der HES-SO für diese Funktionen geltenden Regeln und gemeinsamen Bestimmungen sind integraler Bestandteil der vorliegenden Verordnung.
+
+### 4. Abschnitt: Administratives und technisches Personal
+
+#### Art. 25
+
+**Zusammensetzung**
+
+Zum administrativen und technischen Personal gehören alle Mitarbeitenden, die nicht als Mitglieder der Generaldirektion noch als Lehr- und Forschungspersonal bezeichnet werden.
+
+#### Art. 26
+
+**Anstellungsanforderungen**
+
+Die Generaldirektion bestimmt die Anstellungsbedingungen der einzelnen Funktionen des administrativen und technischen Personals.
+
+#### Art. 27
+
+**Aufgaben**
+
+Die Aufgaben werden im Pflichtenheft festgehalten, das vom Angestellten unterzeichnet wird.
+
+#### Art. 28
+
+**Bestimmungen zur Arbeitszeit**
+
+Das administrative und technische Personal kann seine Tätigkeit Teilzeit ausüben. Die Generaldirektion kann aufgrund der Besonderheiten einer Funktion einen Mindestbeschäftigungsgrad oder eine Vollzeitbeschäftigung voraussetze
+
+#### Art. 29
+
+**Gehaltsprogression**
+
+<sup>1</sup> Das administrative und technische Personal ist dem Auswahlverfahren unterstellt und muss sich auf intern oder extern ausgeschriebene Stellen bewerben.
+
+<sup>2</sup> Wenn sich die für die Einstufung einer bestehenden Funktion bestimmenden Elemente in erheblicher Weise geändert haben, wird gemäss den Bestimmungen betreffend die Besoldung des Personals der HES-SO Valais/Wallis eine Neubewertung vorgenommen.
+
+#### Art. 30
+
+**Ausbildung**
+
+Mit dem Ziel, die Kompetenzen ihrer Mitarbeitenden zu erhalten und weiterzuentwickeln, können Vorgesetzte diese beim jährlichen Beurteilungsgespräch dazu motivieren, eine Ausbildung zu absolvieren.
+
+#### Art. 31
+
+**Lernende, Praktikanten und halbgeschützte Beschäftigte**
+
+Die Generaldirektion legt in einem internen Reglement die für Lernende, Praktikanten und halbgeschützte Beschäftigte geltenden Bestimmungen fest und stützt sich dabei auf die vom Staatsrat diesbezüglich erlassenen Bestimmungen (Art. 17 Abs. 2 Verordnung über das Personal des Staates Wallis).
+
+### 4. Kapitel: Schaffung von neuen Stellen und Abänderung der Dienstverhältnisse
+
+#### Art. 32
+
+**Grundsatz**
+
+Jede Änderung des Beschäftigungsgrads und jede neue Stelle untersteht der Genehmigung durch die Generaldirektion, wobei diese die Bedürfnisse der Schule und die finanziellen und budgetären Möglichkeiten berücksichtigt.
+
+#### Art. 33
+
+**Stellenausschreibung und Stellenbeschreibung**
+
+<sup>1</sup> Bevor eine neue oder eine vakante Stelle besetzt wird, müssen die Anstellungsbehörde und der direkte Vorgesetzte die Stellenbedarfsentwicklung und die damit verbundenen organisatorischen und persönlichen Massnahmen prüfen.
+
+<sup>2</sup> Die Generaldirektion definiert und garantiert einen methodischen und standardisierten Stellenausschreibungsprozess.
+
+<sup>3</sup> Alle neuen oder vakanten unbefristeten Stellen sowie Lehr- und KBM-Praktikumsstellen werden öffentlich im Amtsblatt und falls nötig in Zeitungen, Fachzeitschriften, auf Online-Portalen oder andern Kommunikationsmedien ausgeschrieben, wobei die Absätze 4, 5 und 6 vorbehalten sind.
+
+<sup>4</sup> Die Stellen von Hilfsdozenten und FH-Assistenten sind von dieser Regel ausgenommen.
+
+<sup>5</sup> Für eine Anstellung von maximal einem Jahr, insbesondere bei Stellvertretungen, dringenden Arbeiten oder der Durchführung von Forschungsprojekten ist keine Ausschreibung notwendig. Die Anstellung von Personen, die ohne Stellenausschreibung angestellt werden, kann ohne externe Stellenausschreibung für maximal 12 Monate verlängert werden. Vorbehalten bleiben die Bestimmungen zu den FH-Assistenten.
+
+<sup>6</sup> Im Rahmen der beruflichen Mobilität können die Stellen des administrativen und technischen Personals der Lohnklassen 11 bis 26 intern auf dem Intranet der HES-SO Valais/Wallis (interne Stellenbörse) ausgeschrieben werden. Für die internen Stellenausschreibungen können lediglich diejenigen Angestellten berücksichtigt werden, welche bereits aufgrund einer externen Stellenausschreibung durch die zuständige Anstellungsbehörde angestellt worden sind.
+
+<sup>7</sup> Die Anstellungsbehörde sorgt dafür, dass für jede ausgeschriebene Stelle und für jeden Angestellten eine Stellenbeschreibung erstellt wird (Profil, Pflichtenheft usw.). Diese ist mit den Aufgaben der Arbeitskollegen zu koordinieren und entspricht den jeweiligen operativen Leistungsaufträgen.
+
+<sup>8</sup> In ausserordentlichen Fällen und im Rahmen der finanziellen Mittel kann die Generaldirektion spezialisierte Unternehmen mit der Rekrutierung eines Kadermitglieds beauftragen.
+
+#### Art. 34
+
+Berufliche Mobilität des administrativen und technischen Personals
+
+<sup>1</sup> Die HES-SO Valais/Wallis fördert die berufliche Mobilität ihres administrativen und technischen Personals. Dies erlaubt den Angestellten, sich beruflich weiterzuentwickeln und gleichzeitig dem Arbeitgeber HES-SO Valais/Wallis die Nachfolge durch interne Angestellte zu sichern.
+
+<sup>2</sup> Die berufliche Mobilität wird insbesondere im Rahmen einer Personalplanung, anlässlich von Reorganisationen, internen Stellenausschreibungen, Einzelgesprächen sowie den jährlichen Beurteilungsgesprächen und Weiterbildungen gefördert.
+
+<sup>3</sup> Sie umfasst:
+
+- a) die Versetzung ohne Lohnklassenwechsel im Anschluss an eine Anpassung des Pflichtenhefts mit dem gleichen Verantwortungsniveau in derselben oder einer neuen ähnlichen Funktion innerhalb der gleichen Abteilung oder einer anderen Abteilung der HES-SO Valais/Wallis;
+
+- b) die Versetzung mit Lohnklassenwechsel im Anschluss an eine Anpassung des Pflichtenhefts mit einem höheren oder tieferen Verantwortungsniveau in einer neuen Funktion innerhalb der gleichen Abteilung oder einer anderen Abteilung der HES-SO Valais/Wallis.
+
+<sup>4</sup> Bei der Prüfung der Wünsche und Möglichkeiten betreffend die berufliche Mobilität werden insbesondere die Leistungen, das Verhalten, die Kompetenzen und das Potenzial der Mitarbeitenden berücksichtigt.
+
+<sup>5</sup> Der Transfer erfolgt auf Entscheid der Anstellungsbehörde.
+
+<sup>6</sup> Die Personalrekrutierungsprozesse sind anwendbar, insbesondere wenn mehrere Bewerbungen zu überprüfen sind.
+
+<sup>7</sup> Die Generaldirektion verabschiedet als Richtlinien Prozesse zur Förderung der beruflichen Mobilität.
+
+#### Art. 35
+
+**Anstellungsbehörde**
+
+<sup>1</sup> Der Staatsrat stellt an:
+
+- a) den Direktor der HES-SO Valais/Wallis, auf Vorschlag des für tertiäre Bildung zuständigen Departements und auf Vormeinung des Rektorats der HES-SO;
+
+- b) die übrigen Mitglieder der Generaldirektion, auf Vorschlag des für die tertiäre Bildung zuständigen Departements und auf Vormeinung des Direktors der HES-SO Valais/Wallis sowie nach Anhörung des betroffenen Bereichsleiters der HES-SO.
+
+2 Die Generaldirektion stellt, auf Vorschlag des Direktors der betroffenen Hochschule oder Zentralstelle, folgende Personen an:
+
+- a) das Lehr- und Forschungspersonal;
+
+- b) das administrative und technische Personal.
+
+#### Art. 36
+
+**Anstellungsverfügung**
+
+Das Personal der HES-SO Valais/Wallis wird per Verwaltungsentscheid angestellt, die den Betroffenen schriftlich eröffnet wird. Der Entscheid enthält unter anderem:
+
+- a) die Art der Anstellung (provisorisch, befristet, unbefristet);
+
+- b) die Dauer der Probezeit;
+
+- c) die zugeteilte Stelle;
+
+- d) den Beschäftigungsgrad, gegebenenfalls die möglichen Schwankungen (Unter-/Obergrenze);
+
+- e) das Datum des Stellenantritts;
+
+- f) die Besoldungsklasse sowie die anfängliche Erhöhung;
+
+- g) die Aufnahme in die Pensionskasse;
+
+- h) der oder die Arbeitsort/e.
+
+#### Art. 37
+
+**Anstellung mit Probezeit**
+
+<sup>1</sup> Die Mitglieder der Generaldirektion und des Lehrkörpers sind einer Probezeit von grundsätzlich zwei Jahren unterworfen.
+
+<sup>2</sup> Ihre Anstellung auf Probe als solche kann, sofern hinreichende Gründe vorhanden sind, für maximal ein Jahr verlängert werden.
+
+<sup>3</sup> Während der Dauer der Probezeit des in Absatz 1 erwähnten Personals ist die Kündigung von beiden Seiten auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von drei Monaten zulässig.
+
+#### Art. 38
+
+**Anstellung auf unbefristete Zeit**
+
+Die zuständige Behörde teilt der betroffenen Person aus der Generaldirektion oder dem Lehrkörper gestützt auf den Bericht ihres Vorgesetzten bis spätestens drei Monate vor Ablauf der Probezeit folgendes mit:
+
+- a) Entscheid über die Anstellung auf unbefristete Zeit oder;
+
+- b) Verlängerung der Anstellung auf Probe;
+
+- c) Entscheid über die Auflösung des Dienstverhältnisses.
+
+#### Art. 39
+
+**Probezeit**
+
+<sup>1</sup> Die Mitglieder des Mittelbaus und das administrative und technische Personal sind einer Probezeit von drei Monaten unterworfen.
+
+<sup>2</sup> Bei Zweifeln über die Eignung, die Leistung oder das Verhalten des Angestellten kann die Anstellungsbehörde entscheiden, die Probezeit um maximal drei Monate zu verlängern.
+
+<sup>3</sup> Im Verlaufe der Probezeit findet mit dem zuständigen Vorgesetzten ein Beurteilungsgespräch statt.
+
+#### Art. 40
+
+**Erhöhung des Beschäftigungsgrads**
+
+<sup>1</sup> Die Anstellungsbehörde kann den Beschäftigungsgrad eines Angestellten nach Absprache mit diesem und dessen Vorgesetzten erhöhen, sofern die budgetären Möglichkeiten dies erlauben.
+
+<sup>2</sup> Falls mehrere Teilzeitangestellte der HES-SO Valais/Wallis das entsprechende Profil besitzen und ihren Beschäftigungsgrad erhöhen möchten, muss diese Stelle innerhalb der Schule intern ausgeschrieben werden.
+
+#### Art. 41
+
+**Herabsetzung des Beschäftigungsgrads**
+
+Die Anstellungsbehörde kann, sofern die Organisation dies zulässt, auf Gesuch des Angestellten oder im gegenseitigen Einvernehmen, den Beschäftigungsgrad desselben herabsetzen.
+
+### 5. Kapitel: Ende des Arbeitsverhältnisses
+
+#### Art. 42
+
+**Beendigung des Arbeitsverhältnisses ohne Kündigung**
+
+Das Dienstverhältnis endet ohne Kündigung:
+
+- a) beim Erreichen der vom Staatsrat festgelegten Altersgrenze;
+
+- b) beim Tod des Angestellten;
+
+- c) drei Monate nach dem Verschwinden des Angestellten in Todesgefahr oder bei Nachrichtenlosigkeit;
+
+- d) bei Ablauf eines zeitlich befristeten Vertrags unter Vorbehalt einer allfälligen Verlängerung.
+
+#### Art. 43
+
+**Kündigung während der Probezeit**
+
+Während der Probezeit kann die Anstellung von beiden Seiten nur wie folgt gekündigt werden:
+
+- a) auf Ende des akademischen Jahrs unter Einhaltung einer Kündigungsfrist von 3 Monaten für die Mitglieder der Generaldirektion und des Lehrkörpers;
+
+- b) auf Ende eines Monats unter Einhaltung einer Kündigungsfrist von zwei Wochen für alle anderen Angestellten.
+
+#### Art. 44
+
+Ordentliche Kündigung einer unbefristeten Anstellung durch den Angestellten
+
+<sup>1</sup> Nach der Probezeit kann der Angestellte seine Kündigung wie folgt einreichen:
+
+- a) unter Wahrung einer Frist von sechs Monaten auf Ende des akademischen Jahrs, falls er Mitglied der Generaldirektion oder des Lehrkörpers ist;
+
+- b) unter Wahrung einer Frist von drei Monaten auf Ende eines Monats, falls er zum übrigen Personal gehört.
+
+<sup>2</sup> Unter Wahrung derselben Frist hat der Angestellte das Recht auf Rücktritt nach Erreichen des vorzeitigen Rücktrittsalters gemäss den Bestimmungen der PKWAL.
+
+<sup>3</sup> In gegenseitigem Einvernehmen zwischen Anstellungsbehörde und Angestelltem können die vorerwähnten Fristen verkürzt werden
+
+#### Art. 45
+
+Ordentliche Kündigung einer unbefristeten Anstellung durch die zuständige Behörde
+
+<sup>1</sup> Bei unbefristeten Anstellungen kann die zuständige Behörde das Arbeitsverhältnis nach der Probezeit aus stichhaltigen objektiven Gründen unter Wahrung der unter Artikel 44 Absatz 1 erwähnten Kündigungsfristen kündigen.
+
+<sup>2</sup> Ein solcher Kündigungsgrund besteht insbesondere in folgenden Fällen:
+
+- a) wiederholte oder dauerhafte Mängel in der Leistung und/oder im Verhalten;
+
+- b) mangelnde Eignung oder Fähigkeit, die mit der Funktion verbundenen Aufgaben zu erfüllen;
+
+- c) Wegfall einer der Anstellungsbedingungen gemäss Verordnung oder Anstellungsentscheid.
+
+<sup>3</sup> Im Falle einer Arbeitsunfähigkeit durch Krankheit oder Unfall während der Kündigungsfrist, wird die in Artikel 44 Absatz 1 der vorliegenden Verordnung erwähnten Kündigungsfrist um die Dauer der effektiven Anzahl Tage der Arbeitsunfähigkeit, höchstens aber um 30 Tage während des ersten Dienstjahres, 90 Tage während des zweiten bis fünften Dienstjahres und 180 Tage ab dem sechsten Dienstjahr verlängert.
+
+<sup>4</sup> Vorbehalten bleibt die Anwendung von Artikel 46, wenn die Arbeitsunfähigkeit bleibend ist und dies den Grund für die Auflösung darstellt.
+
+#### Art. 46
+
+Kündigung einer unbefristeten Anstellung durch die zuständige Anstellungsbehörde infolge Arbeitsunfähigkeit
+
+<sup>1</sup> Bei bleibender Arbeitsunfähigkeit infolge Krankheit oder Unfall kann die Anstellungsbehörde das Dienstverhältnis aus diesem Grund auflösen.
+
+<sup>2</sup> Die Auflösung tritt erst nach Ablauf einer Frist in Kraft, welche dem Datum des Erlöschens des Gehaltsanspruchs entspricht.
+
+<sup>3</sup> Vorbehalten bleibt gegebenenfalls die allfällige gänzliche oder teilweise Wiederanstellung bei gänzlicher oder teilweiser Wiedererlangung der Arbeitsfähigkeit, sofern eine dem Anforderungsprofil des Angestellten entsprechende Stelle frei ist.
+
+#### Art. 47
+
+**Auflösung des Dienstverhältnisses aus Altersgründen**
+
+<sup>1</sup> Das Dienstverhältnis endet am Ende des Monats, in dem der Angestellte die Altersgrenze erreicht.
+
+<sup>2</sup> Bei Versicherten, die der Kategorie 1 der PKWAL angehören, gilt: Die Altersgrenze liegt bei 64 Jahren für Frauen und 65 Jahren für Männer.
+
+<sup>3</sup> Ausnahmsweise, im Falle eines besonderen Bedürfnisses (angespannter Arbeitsmarkt, gesuchtes Profil usw.) und falls der Angestellte volle Zufriedenheit in Bezug auf das Verhalten und die erbrachten Leistungen gibt, kann die Anstellungsbehörde das Arbeitsverhältnis über die Altersgrenze hinaus, aber im Maximum um zwei Jahre verlängern. In diesem Falle kann der Angestellte wählen, ob die Besoldung um den Betrag der von PKWAL bezahlten Renten reduziert werden soll oder ob die von PKWAL bezahlte Rente bis zum Anstellungsende aufgeschoben werden soll.
+
+<sup>4</sup> Die Anstellungsbehörde kann eine gänzliche oder teilweise Versetzung in den Ruhestand vornehmen, wenn der Angestellte das ordentliche Rücktrittsalter im Sinne der Bestimmungen der PKWAL erreicht hat und den Anforderungen an die Funktion bezüglich Leistung, Verhalten oder Eignung nicht mehr vollumfänglich genügt.
+
+<sup>5</sup> Die Versetzung in den Ruhestand bei Erreichen des ordentlichen Rücktrittsalters kann auch bei Aufhebung oder Änderung der Funktion vorgenommen werden.
+
+#### Art. 48
+
+**Aufhebung und Änderung der Funktion**
+
+<sup>1</sup> Wird eine Funktion aufgehoben oder erfolgt eine strukturelle Änderung, so dass der Angestellte sein Pflichtenheft nicht mehr erfüllen kann, wird er im Rahmen verfügbarer Stellen in eine Funktion versetzt, die seiner Ausbildung und seiner Eignung entspricht.
+
+<sup>2</sup> Wenn keine Stelle verfügbar ist, die der Ausbildung und Eignung des Angestellten entspricht, wird das Dienstverhältnis aufgehoben, unter Vorbehalt einer Versetzung in eine tieferrangige Funktion im Einverständnis mit dem Angestellten.
+
+<sup>3</sup> Die Kündigungsfrist beträgt sechs Monate auf Ende eines Monats.
+
+<sup>4</sup> Unter Vorbehalt des nachfolgenden Absatzes hat der Angestellte, dessen Dienstverhältnis aufgehoben wird, Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird und deren Betrag höchstens einem Jahresgehalt entspricht.
+
+<sup>5</sup> Die Entschädigung ist nicht geschuldet, wenn der Angestellte das Angebot einer Stelle, deren Entlöhnung jener der aufgehobenen Stelle entspricht, ausgeschlagen hat, oder wenn die Anstellungsbehörde dem Angestellten eine Stelle mit vergleichbaren Bedingungen wie bisher bei einem anderen öffentlichen oder privaten Arbeitgeber verschafft hat.
+
+<sup>6</sup> Im Falle der Aufhebung mehrerer Stellen in derselben Organisationseinheit erstellt die Generaldirektion nach Verhandlungen mit den anerkannten Personalverbänden einen Sozialplan mit angepassten finanziellen Begleitmassnahmen.
+
+#### Art. 49
+
+**Fristlose Kündigung aus wichtigen Gründen**
+
+<sup>1</sup> Aus wichtigen Gründen kann die zuständige Behörde die Anstellung jederzeit auflösen.
+
+<sup>2</sup> Als wichtiger Grund gilt namentlich jeder Umstand, bei dessen Vorhandensein dem Arbeitgeber nach Treu und Glauben die Fortsetzung des Dienstverhältnisses nicht mehr zugemutet werden kann.
+
+<sup>3</sup> Das Verfahren zur Kündigung aus wichtigen Gründen kann anstelle des Disziplinarverfahrens angewandt werden.
+
+<sup>4</sup> Das Verfahren, das zur Auflösung des Dienstverhältnisses aus wichtigen Gründen führt, muss unmittelbar nach Bekanntwerden der wichtigen Gründe eingeleitet werden. Der Entscheid muss angesichts der Dringlichkeit rasch erfolgen, wobei die Erfordernisse der Untersuchung jedoch zu berücksichtigen sind.
+
+#### Art. 50
+
+**Befreiung von der Arbeitspflicht**
+
+<sup>1</sup> Bei der Auflösung des Dienstverhältnisses innerhalb der gesetzlichen Fristen kann der Arbeitgeber den Angestellten von der Arbeitspflicht befreien, wenn das Vertrauensverhältnis gestört ist oder wenn die Umstände dies erfordern.
+
+<sup>2</sup> Im Falle einer Befreiung von der Arbeitspflicht, wird der Feriensaldo und eventuelle Überstunden gestrichen.
+
+#### Art. 51
+
+**Kündigung einer befristeten Anstellung**
+
+Befristete Anstellungen können vor Ende des Vertrags in gegenseitigem Einvernehmen der Parteien oder falls wichtige Gründe vorliegen, aufgelöst werden.
+
+#### Art. 52
+
+**Zuständigkeit**
+
+Die Anstellungsbehörde gilt als zuständige Behörde für die Kündigung.
+
+#### Art. 53
+
+**Rechtsweg**
+
+<sup>1</sup> Die von der Generaldirektion der HES-SO Valais/Wallis erlassene Verfügung kann innert 30 Tagen ab Eröffnung mittels Verwaltungsbeschwerde beim Staatsrat angefochten werden.
+
+<sup>2</sup> Der vom Staatsrat getroffene Entscheid kann innert 30 Tagen ab Eröffnung mittels Verwaltungsgerichtsbeschwerde bei der öffentlich-rechtlichen Abteilung des Kantonsgerichts angefochten werden.
+
+<sup>3</sup> Die Bestimmungen des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege sind anwendbar.
+
+#### Art. 54
+
+**Folgen einer rechtlich unbegründeten Kündigung**
+
+<sup>1</sup> Erweist sich eine Kündigung als rechtlich unbegründet, wird der Angestellte wieder in die Funktion eingegliedert, falls er selbst und die Anstellungsbehörde dieser Wiedereingliederung zustimmen.
+
+<sup>2</sup> Verweigert eine der Parteien die Wiedereingliederung, hat der Angestellte Anspruch auf eine Entschädigung, die aufgrund des Alters und der Anzahl Dienstjahre berechnet wird, und deren Betrag höchstens einem Jahresgehalt entspricht, falls der Arbeitgeber die Wiedereingliederung ablehnt bzw. Anspruch auf höchstens sechs Monatsgehälter, falls der Angestellte seine Wiedereingliederung ablehnt.
+
+<sup>3</sup> Die Höhe der Entschädigung legt die Anstellungsbehörde im Rahmen des vorangehenden Absatzes des vorliegenden Artikels und der betreffenden Rechentabelle (vgl. Beilage) fest.
+
+#### Art. 55
+
+Abänderung und Auflösung einer Anstellung mit einem öffentlich-rechtlichen Vertrag
+
+<sup>1</sup> Eine vertragliche Anstellung bleibt eine Ausnahme und ist bei besonderen Aufgaben oder Situationen vorbehalten.
+
+<sup>2</sup> Die Bestimmungen des vorliegenden Kapitels finden auf Dienstverhältnisse, die mittels schriftlichem öffentlich-rechtlichem Vertrag abgeschlossen wurden, analoge Anwendung, wobei präzisiert wird, dass die Haltung der Anstellungsbehörde in diesem Fall einer Willenserklärung und nicht einer Verfügung im Sinne des Gesetzes über das Verwaltungsverfahren und die Verwaltungsrechtspflege vom 6. Oktober 1976 gleichkommt.
+
+<sup>3</sup> Bei Streitigkeiten und wenn keine Einigung erfolgt, erlässt die zuständige Behörde eine Verfügung, die gemäss den Bestimmungen des vorerwähnten Gesetzes anfechtbar ist.
+
+### 6. Kapitel: Plichten des Angestellten
+
+#### Art. 56
+
+**Allgemeine Pflichten**
+
+<sup>1</sup> Der Angestellte ist verpflichtet, qualitativ hohe Leistungen zu erbringen. Er erfüllt seine Aufgaben im Bemühen um Wirksamkeit, berufliches Pflichtbewusstsein, Verschwiegenheit, Loyalität und Treue zu seinem Arbeitgeber. Er arbeitet in einer Gesinnung der gegenseitigen Unterstützung und der Zusammenarbeit.
+
+<sup>2</sup> Der Angestellte muss unter allen Umständen professionell und gemäss den Interessen des Staates und des öffentlichen Dienstes in Beachtung der geltenden Normen, Aufgaben, Zielsetzungen und Weisungen seiner Vorgesetzten handeln.
+
+<sup>3</sup> Die Beteiligung an einer Arbeitsniederlegung gilt als Verletzung der Dienstpflicht.
+
+#### Art. 57
+
+**Verhalten und Betragen während der Arbeitszeit**
+
+<sup>1</sup> Der Angestellte muss die gesamte für die Ausübung seiner Funktion vertraglich vorgesehene Zeit auch tatsächlich dafür einsetzen. Unter Vorbehalt von Artikel 9 Absatz 3 des Gesetzes über die HES-SO Valais/Wallis und der Bestimmungen über die Nebenbeschäftigungen sind Aktivitäten, die nichts mit den Aktivitäten der Schule zu tun haben, nicht zulässig.
+
+<sup>2</sup> Der Angestellte darf nicht unter Einfluss von psychoaktiven Substanzen (Alkohol, Drogen, Medikamenten) stehen.
+
+<sup>3</sup> Die Generaldirektion erlässt Weisungen zur Nutzung der Informatikmittel und der Telefonie, namentlich Nutzungsbedingungen und Überwachungsmassnahmen.
+
+#### Art. 58
+
+**Amtsgeheimnis**
+
+<sup>1</sup> Der Angestellte unterliegt dem Amtsgeheimnis für alle Informationen, die er in Ausübung seiner Funktion zur Kenntnis nimmt, sofern das Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung vom 9. Oktober 2008 ihm nicht erlaubt, diese an Dritte weiterzugeben.
+
+<sup>2</sup> Das Amtsgeheimnis findet in denselben Grenzen ebenfalls Anwendung auf die Mitteilung von Dienstunterlagen im Original oder in Kopie an Dritte. Er muss seinem Vorgesetzten den Zugang zu den beruflichen Dokumenten ermöglichen, insbesondere zu den elektronischen Daten.
+
+<sup>3</sup> Die Verpflichtung, das Amtsgeheimnis zu wahren, bleibt auch nach Beendigung des Dienstverhältnisses bestehen.
+
+<sup>4</sup> Der Angestellte darf sich vor Gericht über Wahrnehmungen, die er in Ausübung seines Amtes feststellt, nur mit Ermächtigung der Anstellungsbehörde äussern. Diese Ermächtigung ist auch nach Auflösung des Dienstverhältnisses erforderlich.
+
+<sup>5</sup> Stellt der Angestellte eine möglicherweise strafbare Handlung fest, die von Amtes wegen verfolgt wird, erstattet er sofort der Anstellungsbehörde und der zuständigen Strafverfolgungsbehörde Anzeige.
+
+#### Art. 59
+
+**Planung der Arbeitszeit**
+
+Die für die verschiedenen Tätigkeiten und Aufträge der Professorenschaft eingesetzte Zeit wird mindestens einmal pro Jahr mit Hilfe eines dafür geeigneten Tools individuell geplant. Vorbehalten bleiben die Bestimmungen, welche die HES-SO diesbezüglich festlegen kann.
+
+#### Art. 60
+
+**Arbeitsformen**
+
+Die Generaldirektion kann verschiedene Arbeitsformen vorsehen, an die sich der Angestellte zu halten hat.
+
+#### Art. 61
+
+**Zuwendungen Dritter**
+
+Unter Vorbehalt von vereinbarten Sonderbestimmungen im Zusammenhang mit Forschungsprojekten fallen sämtliche Subventionen oder Beteiligungen an Besoldungen, die vom Bund, dem Kanton oder von Dritten geleistet werden, der HES-SO Valais/Wallis zu. Dasselbe gilt für Vergütungen, die für besondere Arbeiten bezahlt werden sowie für alle erhobenen Gebühren.
+
+#### Art. 62
+
+**Geschenke oder andere Vorteile**
+
+<sup>1</sup> Dem Angestellten ist es untersagt, für sich oder für andere Geschenke oder sonstige Vorteile zu beanspruchen, anzunehmen oder sich versprechen zu lassen, wenn dies auf Grund seiner amtlichen Stellung geschieht.
+
+<sup>2</sup> Es ist ihm überdies untersagt, sich an Warenlieferungen, Submissionen oder Werken, die die HES-SO Valais/Wallis, den Staat Wallis oder seine Anstalten betreffen, mittelbar oder unmittelbar zu beteiligen.
+
+<sup>3</sup> Vorbehalten bleiben die Vorteile und die Leistungen im Zusammenhang mit der Zugehörigkeit zu einem Personalverband.
+
+#### Art. 63
+
+Unterstützung für die Wirtschaft, Organisationen und sozialmedizinischen, kulturellen und wissenschaftlichen Institutionen Die HES-SO Valais/Wallis fördert den Erhalt und die Entwicklung von beruflichen Gutachten durch das Personal in verschiedenen Formen, beispielsweise indem sie das Personal dazu ermutigt, sich im regionalen namentlich sozialmedizinischen oder wirtschaftlichen Gewebe zu engagieren, sofern dieses Engagement der HES-SO Valais/Wallis keinen Schade zufügt.
+
+#### Art. 64
+
+**Nebenbeschäftigung**
+
+<sup>1</sup> Nebenbeschäftigungen des gesamten Personals müssen von der Anstellungsbehörde bewilligt werden.
+
+<sup>2</sup> Die Bewilligung wird abgelehnt, falls ein Risiko besteht, dass die Nebenbeschäftigung der einwandfreien Ausübung der beruflichen Aufgaben schadet oder falls diese infolge Bezugs zur Funktion als unvereinbar befunden wird.
+
+<sup>3</sup> Die Anstellungsbehörde kann falls nötig je nach Art der ausgeübten Nebenbeschäftigung eine Anpassung des Beschäftigungsgrads des Angestellten verlangen.
+
+<sup>4</sup> Die Generaldirektion erlässt die nötigen Bestimmungen.
+
+#### Art. 65
+
+**Öffentliches Amt**
+
+<sup>1</sup> Jeder wahlfähige Angestellte kann sich für ein öffentliches Amt zur Wahl stellen.
+
+<sup>2</sup> Der Angestellte, der für ein öffentliches Amt kandidieren will, hat die Anstellungsbehörde schriftlich darüber zu informieren. Diese nimmt davon Kenntnis, informiert den Angestellten über eine allfällige Unvereinbarkeit und macht ihn auf die daraus folgenden Konsequenzen aufmerksam.
+
+<sup>3</sup> Der gewählte Angestellte muss die Anstellungsbehörde von seiner Wahl und von seiner Annahme der Wahl unterrichten.
+
+<sup>4</sup> Die Anstellungsbehörde beschliesst für das betroffene Personal die notwendigen Massnahmen aufgrund einer allfälligen tatsächlichen oder rechtlichen Unvereinbarkeit.
+
+<sup>5</sup> Die Anstellungsbehörde regelt den Sonderurlaub für die Angestellten, die ein öffentliches Amt bekleiden.
+
+#### Art. 66
+
+**Ärztliche Untersuchung**
+
+<sup>1</sup> Vorbehalten bleiben die Bestimmungen über die berufliche Vorsorge.
+
+<sup>2</sup> Die Anstellungsbehörde kann verlangen, dass der Angestellte sich bei der Anstellung oder während der Anstellungsdauer einer ärztlichen Untersuchung unterzieht, wenn ein triftiger Grund diese Massnahme rechtfertigt, dies unter Vorbehalt der Bestimmungen über den Schutz der Persönlichkeit. Eine solche Massnahme kann namentlich bei wiederholter Abwesenheit, Verdacht auf Missbrauch oder Sucht, bei erheblichem Leistungsabfall und unangebrachtem Verhalten getroffen werden.
+
+<sup>3</sup> Die Weigerung des Angestellten, sich bei der Anstellung oder später dieser ärztlichen Untersuchung zu unterziehen, kann ein Grund für eine sofortige Auflösung der Anstellung darstellen.
+
+<sup>4</sup> Der arbeitsunfähige Angestellte, dessen Lohnanspruch bald zu Ende geht, muss sich einer medizinischen Untersuchung durch den Vertrauensarzt von PKWAL unterziehen.
+
+<sup>5</sup> Die HES-SO Valais/Wallis arbeitet eng mit der IV zusammen zur frühzeitigen Erkennung möglicher gesundheitlicher Probleme seiner Angestellten, um dadurch deren berufliche Wiedereingliederung zu fördern.
+
+### 7. Kapitel: Folgen der Dienstpflichtverletzung
+
+#### Art. 67
+
+**Grundsatz der disziplinarischen Verantwortung**
+
+<sup>1</sup> Der Angestellte, der vorsätzlich oder fahrlässig seine Dienstpflicht verletzt, unterliegt der disziplinarischen Verantwortlichkeit.
+
+<sup>2</sup> Das Recht, Disziplinarstrafen auszusprechen, bleibt unabhängig von der Eröffnung eines Zivil- oder Strafverfahrens, das in Anbetracht derselben Tatsachen eingeleitet wurde, fortbestehen.
+
+<sup>3</sup> Die Bestimmungen betreffend die Disziplinarmassnahmen fürs Personal des Staates Wallis gelten Analog für das Personal der HES-SO Valais/Wallis.
+
+<sup>4</sup> Die zuständige Anstellungsbehörde verhängt die Disziplinarmassnahmen.<sup>1</sup>
+
+#### Art. 68
+
+**Strafrechtliche Verantwortlichkeit**
+
+Für die strafrechtliche Verantwortlichkeit des Angestellten gelten die Bestimmungen der eidgenössischen Strafgesetzgebung, insbesondere des Strafgesetzbuchs, und der kantonalen Strafgesetzgebung.
+
+#### Art. 69
+
+**Zivilrechtliche Verantwortlichkeit**
+
+Die zivilrechtliche Verantwortlichkeit des Angestellten wird von Artikel 41 ff des Obligationenrechts geregelt.
+
+### 8. Kapitel: Rechte des Angestellten
+
+#### Art. 70
+
+**Arbeitsort**
+
+<sup>1</sup> Jedem Angestellten wird ein Arbeitsort zugeteilt.
+
+<sup>2</sup> Falls es die Tätigkeit verlangt, können einem Angestellten mehrere Arbeitsorte zugeteilt werden. Letztere müssen auf dem Anstellungsentscheid aufgeführt sein.
+
+<sup>3</sup> Für die Verantwortlichen der Zentralstellen sowie für die Mitglieder der Generaldirektion und des Lehrkörpers bilden sämtliche Standorte der HES-SO Valais/Wallis den Arbeitsort.
+
+<sup>4</sup> Der Arbeitsort kann durch eine zusätzliche Verfügung der Anstellungsbehörde abgeändert werden.
+
+<sup>5</sup> Ein Arbeitsort wird dann als üblich bezeichnet, wenn die voraussichtliche Dauer der Tätigkeit an diesem Ort einen Monat übersteigt.
+
+#### Art. 71
+
+**Schutz der Persönlichkeit und der Personendaten**
+
+<sup>1</sup> Die HES-SO Valais/Wallis schützt die Persönlichkeit ihrer Angestellten.
+
+<sup>2</sup> In diesem Sinne:
+
+- a) unternimmt sie alle notwendigen Schritte, um Diskriminierungen zwischen den Mitarbeitern zu verhindern, insbesondere in Bezug auf Geschlecht, Rasse, Kultur, Herkunft, Religion und Lebensstil, insbesondere auf die sexuelle Ausrichtung;
+
+- b) trifft sie alle erforderlichen Massnahmen zur Verhütung von Berufsunfällen und Berufskrankheiten, für den Gesundheitsschutz sowie für den Schutz der Angestellten gegen Bedrohungen oder Angriffe im Zusammenhang mit der Ausübung ihrer Funktion;
+
+- c) unterstützt sie falls nötig Angestellte, welche die Pflicht haben eventuelle Straftaten, welche von Amtes wegen geahndet werden, zur Anzeige zu bringen;
+
+- d) trifft sie alle Massnahmen, um den Schutz der persönlichen Daten zu gewährleisten;
+
+- e) stellt sie den Angestellten einen Rechtsschutz zur Verfügung;
+
+- f) bietet sie ihren Mitarbeitenden Unterstützungs-, Hilfs- und Beratungsleistungen an.
+
+<sup>3</sup> Der Angestellte, der Opfer eines widerrechtlichen Angriffs durch andere Angestellte der HES-SO Valais/Wallis wurde, hat auf seinen Wunsch Parteistellung im Disziplinarverfahren gegen den Urheber des Angriffs.
+
+<sup>4</sup> Die Anstellungsbehörde kann einem Angestellten Rechtsbeistand gewähren, sofern der Antrag zu Beginn der Streitsache gestellt wurde. Dies:
+
+- a) im Zivilrecht, wenn sie diesen aufgrund eines erlittenen Schadens in der Ausübung ihrer Funktion beantragt oder sie in einer Klage gegen die HES-SO Valais/Wallis als Nebenintervenient auftritt;
+
+- b) im Strafrecht, wenn sie aufgrund einer erlittenen Rechtsverletzung in der Ausübung ihrer Funktion als Kläger auftritt oder wenn sie als Angeklagter einer Streitsache im Zusammenhang mit der Ausübung ihrer Funktion auftritt.
+
+<sup>5</sup> Der Rechtsbeistand kann auch nach Beendigung des Dienstverhältnisses gewährt werden.
+
+<sup>6</sup> Durch Entscheid der Anstellungsbehörde gehen die Kosten des Rechtsbeistandes ganz oder teilweise zu Lasten des Angestellten, wenn dieser schuldig gesprochen wird und sofern er seine Dienstpflichten vorsätzlich oder grobfahrlässig verletzt hat.
+
+#### Art. 72
+
+**Schutz der Gesundheit und der Sicherheit**
+
+<sup>1</sup> Die HES-SO Valais/Wallis sieht die notwendigen personellen, finanziellen und infrastrukturellen Mittel vor, welche notwendig sind, um Massnahmen zum Schutz der Gesundheit und zur Vorbeugung beruflicher Gefahren (Krankheiten und Berufsunfälle) umzusetzen.
+
+<sup>2</sup> Diese Massnahmen zielen darauf ab Gefahren zu beseitigen bzw. Risiken zu vermindern, arbeitsbedingte Erkrankungen frühzeitig zu diagnostizieren und einer Verschlechterung der Symptome vorzubeugen sowie die Betreuung und die Eingliederung der Personen mit arbeitsbedingten Erkrankungen zu gewährleisten.
+
+<sup>3</sup> Um diese Massnahmen umzusetzen, stattet sich die HES-SO Valais/Wallis mit den entsprechenden internen und externen Kompetenzen aus (z.B. in den Bereichen der Ergonomie, der Gesundheit, der Hygiene, der Sicherheit und der Arbeitsmedizin).
+
+<sup>4</sup> Die Generaldirektion erlässt die nötigen Bestimmungen.
+
+#### Art. 73
+
+**Sozialberatung**
+
+<sup>1</sup> Die Sozialberatung steht den Angestellten zur Verfügung, um sie bei beruflichen oder persönlichen Schwierigkeiten zu unterstützen. Die Angestellten werden während der Arbeitszeit beraten.
+
+<sup>2</sup> Die Generaldirektion stellt eine entsprechende Struktur bereit und erlässt die nötigen Bestimmungen. Sie kann ausserdem eine Partnerschaft mit einer externen Struktur eingehen.
+
+#### Art. 74
+
+**Recht auf Konsultation und Information**
+
+<sup>1</sup> Die Generaldirektion informiert ihre Angestellten regelmässig über die Projekte, Massnahmen und wichtigen Entscheide, von denen sie betroffen sind.
+
+<sup>2</sup> Sie nutzt die geeigneten, sachdienlichen Informationskanäle zur Kommunikation und Information.
+
+<sup>3</sup> Die Vorgesetzten müssen die Informationen weiterleiten und falls notwendig und bei Rückfragen Erklärungen abgeben. Sie sind insbesondere auch beauftragt, den Angestellten alle notwendigen und nützlichen Informationen im Rahmen der Ausführung ihrer Tätigkeiten zu übermitteln.
+
+<sup>4</sup> Die Angestellten sind berechtigt, über Gesetzesvorentwürfe und wichtige Informationen im Zusammenhang mit dem Personal befragt und informiert zu werden. Die Umfrage und die Informationen können in Zusammenarbeit mit den anerkannten Personalverbänden durchgeführt oder durch diese realisiert werden.
+
+#### Art. 75
+
+**Umweltschutz**
+
+Die Generaldirektion trifft Massnahmen, um ihr Personal im Bereich der nachhaltigen Entwicklung und des Umweltschutzes zu einem verantwortungsbewussten Verhalten anzuregen.
+
+.
+
+#### Art. 76
+
+**Persönliche Entwicklung, berufliche Aus- und Weiterbildung**
+
+<sup>1</sup> Die Ausbildung des Personals und die Personalentwicklungsmassnahmen erlauben:
+
+- a) die Angestellten in der Realisierung ihrer jetzigen und zukünftigen Aufgaben und Herausforderungen zu unterstützen;
+
+- b) den Bedarf an qualifiziertem und motiviertem Personal, Spezialisten, Projekt- und Führungsmanagern zu decken;
+
+- c) den Anforderungen des Arbeitsmarktes zu entsprechen;
+
+- d) das technologische, wissenschaftliche und methodische Monitoring zu fördern;
+
+- e) die den Angestellten gebotene Flexibilität und Mobilität zu wahren und zu verbessern;
+
+- f) den Angestellten im Erwerb neuer Kompetenzen zu unterstützen, damit er neue Aufgaben und Funktionen übernehmen kann;
+
+- g) an der persönlichen Entwicklung des Angestellten teilzuhaben;
+
+- h) die Zufriedenheit der Angestellten und die Attraktivität der HES-SO Valais/Wallis als Arbeitgeber zu fördern.
+
+<sup>2</sup> Die Generaldirektion schafft die Voraussetzungen für eine nachhaltige persönliche und berufliche Entwicklung.
+
+<sup>3</sup> Die Anstellungsbehörde legt die Bestimmungen für die individuelle berufliche Fort- und Weiterbildung fest und fördert die persönlichen, fachlichen, sozialen und führungsrelevanten Kompetenzen.
+
+<sup>4</sup> Sie stellt gemäss den finanziellen Möglichkeiten die notwendigen Mittel zur Verfügung, um eine angemessene Personalentwicklung zu gewährleisten.
+
+#### Art. 77
+
+**Erfindungen und geistiges Eigentum**
+
+<sup>1</sup> Die Generaldirektion fördert Erfindungen und Vorschläge des Personals.
+
+<sup>2</sup> Es gelten die Bestimmungen der interkantonalen Vereinbarung der Fachhochschule der Westschweiz (HES-SO) vom 26. Mai 2011 über das geistige Eigentum.
+
+<sup>3</sup> Für das Personal der HES-SO Valais/Wallis wird die unter Artikel 15 Absatz 4 der oben genannten Vereinbarung erwähnte Entschädigung von der Anstellungsbehörde festgelegt, dies unter Vorbehalt der Bestimmungen der HES-SO.
+
+<sup>4</sup> Die Bestimmungen des Obligationenrechts finden ergänzend zum kantonalen öffentlichen Recht Anwendung auf Erfindungen, die Angestellte während ihrer Arbeitsverrichtung machen.
+
+#### Art. 78
+
+**Anerkennung der Diensttreue**
+
+<sup>1</sup> Die HES-SO Valais/Wallis anerkennt die Treue ihrer Angestellten durch materielle und/oder immaterielle Massnahmen.
+
+<sup>2</sup> Die Anstellungsbehörde legt auf dem Reglementsweg die Kompetenzen und Modalitäten zur Gewährung der Anerkennung der Diensttreue fest, wozu sie sich an den für das Personal des Staates Wallis geltenden Grundsätzen orientiert.
+
+#### Art. 79
+
+**Chancengleichheit**
+
+<sup>1</sup> Die HES-SO Valais/Wallis fördert die Chancengleichheit zwischen Frauen und Männern und unterstützt in diesem Sinne angemessene materielle und immaterielle Massnahmen.
+
+<sup>2</sup> Die Massnahmen zu Gunsten der Chancengleichheit bestehen insbesondere in der Ermutigung zu einer ausgeglichenen Geschlechterverteilung auf allen Hierarchieebenen und in allen Funktionen der HES-SO Valais/Wallis.
+
+#### Art. 80
+
+**Vereinbarkeit von Berufs- und Privatleben**
+
+<sup>1</sup> Die HES-SO Valais/Wallis unterstützt und fördert die Vereinbarkeit von Berufs- und Privatleben durch angemessene materielle und immaterielle Massnahmen. Sie informiert die Angestellten über die im Rahmen der budgetären und organisatorischen Möglichkeiten angebotenen Leistungen und legt die Modalitäten auf dem Reglementsweg fest.
+
+<sup>2</sup> Die Massnahmen sind in den Anwendungs- und Ausführungsbestimmungen definiert und beinhalten insbesondere folgende Aspekte:
+
+- a) die flexiblen Arbeitsbedingungen, -zeiten und -formen;
+
+- b) der bezahlte und unbezahlte Urlaub;
+
+- c) die erzieherischen Aufgaben bei der Festlegung der Besoldung;
+
+- d) die Massnahmen zur beruflichen (Wieder-)Eingliederung;
+
+- e) die finanzielle Beteiligung an den Kosten der Kinderbetreuung;
+
+- f) die Unterstützung der Angestellten in Notfallsituationen ihrer Kinder oder Angehörigen;
+
+- g) die Bedingungen und Modalitäten betreffend die berufliche Vorsorge.
+
+#### Art. 81
+
+**Arbeitszeugnis und Austrittsgespräch**
+
+<sup>1</sup> Der Angestellte kann jederzeit ein Zeugnis über die Art und die Dauer des Dienstverhältnisses sowie über die Qualität seiner Arbeit und sein Arbeitsverhalten verlangen.
+
+<sup>2</sup> Auf ausdrücklichen Wunsch des Angestellten kann das Zeugnis nur über die Art und die Dauer des Dienstverhältnisses Auskunft geben.
+
+<sup>3</sup> Vor dem Austritt des Angestellten teilt der Vorgesetzte der HR-Abteilung die für das Erstellen des Arbeitszeugnisses nötigen Angaben mit. Er führt mit dem Angestellten ein Austrittsgespräch. Ein Angestellter der HR-Abteilung kann mit dem Angestellten ebenfalls ein Austrittsgespräch führen.
+
+<sup>4</sup> Das Arbeitszeugnis wird grundsätzlich durch den Vorgesetzten beim Austrittsgespräch übergeben.
+
+<sup>5</sup> Die Generaldirektion erlässt Bestimmungen zu einer standardisierten Erstellung von Arbeitszeugnissen sowie zur standardisierten Führung von Austrittsgesprächen.
+
+#### Art. 82
+
+**Wohnort**
+
+1 Die Angestellten sind grundsätzlich frei ihren Wohnort dort zu wählen, wo es ihnen beliebt.
+
+<sup>2</sup> Die Anstellungsbehörde kann von einem Angestellten allerdings verlangen, seinen Wohnsitz an einem bestimmten Ort oder in einer bestimmten Region zu haben, wenn die Ausübung seiner Berufstätigkeit dies erfordert.
+
+#### Art. 83
+
+**Berufliche Vorsorge**
+
+Unter Vorbehalt der Spezialgesetzgebung sind die Angestellten gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod bei der PKWAL versichert.
+
+### 9. Kapitel: Aufsicht des Staates
+
+#### Art. 84
+
+**Aufsichtsbehörde**
+
+<sup>1</sup> Die HES-SO Valais/Wallis untersteht der Oberaufsicht des Staatsrats; dieser übt sie über das für tertiäre Bildung zuständige Departement (nachfolgend: das Departement) aus.
+
+<sup>2</sup> Das Departement überträgt der für die tertiäre Bildung zuständigen Dienststelle die Aufsicht über die HES-SO Valais/Wallis.
+
+<sup>3</sup> Die Aufsichtsbehörde vergewissert sich, dass die Aktivitäten der HES-SO Valais/Wallis gemäss den Bestimmungen übers Personal, den eidgenössischen und kantonalen Gesetzesgrundlage sowie den Zielvereinbarungen und Leistungsverträgen zwischen dem Staat Wallis und der HES-SO Valais/Wallis ausgeführt werden.
+
+<sup>4</sup> Die Intervention der Aufsichtsbehörde befreit die Organe der HES-SO Valais/Wallis nicht von ihrer Verantwortlichkeit.
+
+#### Art. 85
+
+**Dienstverhältnis**
+
+<sup>1</sup> Im Rahmen der Ausführung ihres Mandats berichtet die Aufsichtsbehörde dem Departementsvorsteher über die Ergebnisse ihrer Arbeit, wobei dieser den Rapport an den Staatsrat weiterleitet.
+
+<sup>2</sup> Sie untersteht dem Amtsgeheimnis.
+
+#### Art. 86
+
+**Dokumentation und Auskünfte**
+
+<sup>1</sup> Die Generaldirektion legt der Aufsichtsbehörde sämtliche für das Personal geltenden Ausführungsbestimmungen wie Reglemente und Richtlinien offen.
+
+<sup>2</sup> Die Generaldirektion sowie die der Kontrolle unterworfenen Einheiten sind dazu verpflichtet, der Behörde jede Unterstützung zukommen zu lassen, damit diese ihren Auftrag ausführen kann. Zu diesem Zweck sind sie ausdrücklich vom Amtsgeheimnis befreit.
+
+<sup>3</sup> Die Aufsichtsbehörde kann Sachverständige, insbesondere aus den kantonalen Dienststellen für Finanzen und Personalmanagement hinzuziehen, wenn ein Kontrollauftrag besonderes Fachwissen erfordert.
+
+### 10. Kapitel: Übergangs- und Schlussbestimmungen
+
+#### Art. 87
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Der Übergang vom alten zum neuen Statut erfolgt ex lege, ohne neuen individuellen Entscheid.
+
+<sup>2</sup> Für Sonderfälle, so wie insbesondere Anstellung auf Probe, Krankheiten, Änderung der Funktionsbezeichnung, Änderung der Gehaltsklasse können individuelle Entscheide getroffen werden.
+
+<sup>3</sup> Die Bezeichnungen der Funktionen gemäss altem Recht bleiben bis zum Festlegen von neuen Funktionen und der Inkraftsetzung von gemeinsamen Regeln für das unter Artikel 24 der vorliegenden Verordnung definierte Lehr- und Forschungspersonal der HES-SO durch den Staatsrat in Kraft.
+
+<sup>4</sup> Die Funktion des in Artikel 33 Absatz 4 der vorliegenden Verordnung erwähnten Hilfsdozenten wird beim Inkrafttreten der für das Lehr- und Forschungspersonal der HES-SO geltenden gemeinsamen Regeln durch die entsprechende neue Funktion ersetzt.
+
+#### Art. 88
+
+**Bestehende Dienstverhältnisse**
+
+Vor Inkrafttreten der vorliegenden Verordnung bereits bestehende Dienstverhältnisse werden automatisch gemäss den neuen Gesetzesbestimmungen übernommen, ausser wenn sie aufgrund des alten Gesetzes durch eine Auflösung aufgehoben wurden.
+
+#### Art. 89
+
+**Hängige Verfahren**
+
+Die beim Inkrafttreten der vorliegenden Verordnung hängigen Verfahren werden nach altem Recht zu Ende geführt.
+
+#### Art. 90
+
+**Ausführungsbestimmungen**
+
+Die Generaldirektion erlässt sämtliche Bestimmungen im Hinblick auf die Anwendung und Ausführung der vorliegenden Verordnung und informiert die Aufsichtsbehörde darüber.
+
+#### Art. 91
+
+**Aufhebung**
+
+Die vorliegende Verordnung hebt sämtliche zuwiderlaufenden kantonalen Bestimmungen auf.
+
+#### Art. 92
+
+**Inkrafttreten**
+
+Die vorliegende Verordnung wird im Amtsblatt publiziert und tritt gleichzeitig mit dem Gesetz über die Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. November 2012 in Kraft.
+
+So angenommen im Staatsrat zu Sitten, den 16. Dezember 2014.
+
+Der Präsident des Staatsrates: Jean-Michel Cina Der Staatskanzler: Philipp Spörri
+
+### Titel und Änderungen Veröffentlichung Inkrafftreten
+
+Verordnung betreffend das Statut des Abl. Nr. 52/2014 01.01.2015
+
+### Personals der Fachhochschule Westschweiz Valais/Wallis (HES-SO Valais/Wallis) vom 16. Dezember 2014
+
+## Anhang
+
+**einer rechtlich unbegründeten**
+
+### Rechentabelle zur Festlegung der bei Kündigung ausbezahlten Entschädigung
+
+Betrag der Entschädigung in Lohnmonaten Bedingungen und Berechnungsgrundlage Die Bezahlung einer Entschädigung, welche bei einer rechtlich unbegründeten Kündigung entrichtet wird, erfolgt nur bei einer sich in Kraft befindenden Verfügung einer Verwaltungsbehörde oder eines Gerichtes. Der monatliche Bruttolohn wird unter Berücksichtigung einer allfälligen Leistungsprämie sowie des durchschnittlichen Anstellungsgrades während der fünf letzten Jahre festgelegt. Der 13. Monatslohn und die allfälligen Zulagen und Entschädigungen werden bei der Berechnung der Entschädigung nicht berücksichtigt. Diese Entschädigung, die in einer einzigen Summe ausbezahlt wird, unterliegt nicht den Abzügen durch die Sozialversicherungen einschliesslich der beruflichen Vorsorge).
+
+## Weitere Fussnoten
+
+- [1] Änderung vom 17. August 2016 Abl. Nr. 35/2016 01.09.2016
