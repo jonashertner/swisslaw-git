@@ -1,0 +1,242 @@
+---
+canton: NW
+number: "268.111"
+title: Reglement über die öffentliche Beurkundung
+short: "Beurkundungsreglement, BeurkR"
+language: de
+version: 2015-01-01
+version_adopted: 2014-10-28
+adopted: 1975-02-19
+in_force: 1975-03-03
+url: "https://gesetze.nw.ch/app/de/texts_of_law/268.111"
+pdf: "https://gesetze.nw.ch/api/de/versions/643/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über die öffentliche Beurkundung
+
+(Beurkundungsreglement, BeurkR)
+
+vom 19.02.1975 (Stand 01.01.2015)
+
+Die Beurkundungskommission,
+
+gestützt auf § 5 der Vollziehungsverordnung zum Gesetz über die öffentliche Beurkundung vom 9. November 1974 (Beurkundungsverordnung)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: NG 268.11
+
+## 1 Organisation
+
+#### § 1
+
+**Beurkundungskommission**
+
+<sup>1</sup> Die Beurkundungskommission bestimmt das Vizepräsidium.
+
+<sup>2</sup> Das Sekretariat der Beurkundungskommission führt Verzeichnisse über:
+
+- 1\. die ausgestellten Befähigungsausweise;
+- 2\. den Bezug der Stempel und Urkundenregister;
+- 3\. die Disziplinarfälle.
+
+<sup>3</sup> Das Sekretariat ist zuständig für die Eintragung der im Kanton Nidwalden zugelassenen Urkundspersonen in das schweizerische Register der Urkundspersonen gemäss Art. 7 ff. der Verordnung über die elektronische öffentliche Beurkundung (EÖBV)[^1-1].
+
+[^1-1]: SR 943.033
+
+## 2 Beurkundungsprüfung
+
+#### § 2
+
+**Gesuch**
+
+<sup>1</sup> Wer die Beurkundungsprüfung ablegen will, hat der Beurkundungskommission ein schriftliches Gesuch um Zulassung zur Prüfung einzureichen.
+
+<sup>2</sup> Er hat sich über die Handlungsfähigkeit auszuweisen.
+
+#### § 3
+
+**Zulassung**
+
+<sup>1</sup> Die Beurkundungskommission entscheidet über die Zulassung zur Beurkundungsprüfung.
+
+#### § 4
+
+**Organisation**
+
+<sup>1</sup> Die Beurkundungskommission bestimmt die Experten für die einzelnen Prüfungsfächer, die Prüfungstermine sowie den zu leistenden Kostenvorschuss.
+
+<sup>2</sup> Die Prüfung findet in der Regel frühestens acht Wochen nach dem Zulassungsentscheid statt.
+
+#### § 5
+
+**Prüfungsfächer**
+
+<sup>1</sup> Prüfungsfächer sind:
+
+- 1\. die Beurkundungsgesetzgebung;
+- 2\. die Grundzüge der kantonalen Behördenorganisation;
+- 3\. die für die Urkundspersonen wesentlichen Bestimmungen:
+  - a) des Zivilgesetzbuches[^5-1] und des kantonalen Einführungsgesetzes[^5-2];
+  - b) des Obligationenrechts[^5-3];
+  - c) des eidgenössischen[^5-4] und kantonalen Rechts über den bäuerlichen Grundbesitz[^5-5];
+  - d) des Bundesgesetzes über das internationale Privatrecht[^5-6];
+  - e) des eidgenössischen[^5-7] und kantonalen Rechts über die Bewilligungspflicht für den Erwerb von Grundstücken durch Personen im Ausland[^5-8];
+  - f) des eidgenössischen und kantonalen Grundbuchrechts[^5-9];
+  - g) des eidgenössischen und kantonalen Abgaberechts.
+
+[^5-1]: SR 210
+[^5-2]: NG 211.1
+[^5-3]: SR 220
+[^5-4]: SR 211.412
+[^5-5]: NG 821, 825
+[^5-6]: SR 291
+[^5-7]: SR 211.412.4
+[^5-8]: NG 211.3
+[^5-9]: SR 211.432; NG 214
+
+#### § 6
+
+**Schriftliche Prüfung**
+
+<sup>1</sup> Die schriftliche Prüfung umfasst mindestens eine Klausurarbeit über praxisbezogene Fragen des Beurkundungsrechts.
+
+<sup>2</sup> Die Benützung der einschlägigen Gesetzgebung ist gestattet.
+
+<sup>3</sup> Eine Klausurarbeit dauert in der Regel acht Stunden.
+
+#### § 7
+
+**Mündliche Prüfung**
+
+<sup>1</sup> Die mündliche Prüfung wird in der Regel frühestens zehn Tage nach bestandener schriftlicher Prüfung abgenommen.
+
+<sup>2</sup> Während der ganzen Prüfung müssen mindestens drei Kommissionsmitglieder anwesend sein.
+
+#### § 8
+
+**Wiederholung**
+
+<sup>1</sup> Ist das Prüfungsergebnis nur in einzelnen Prüfungsfächern ungenügend, kann eine Wiederholung der Prüfung in den betreffenden Fächern angeordnet werden, die frühestens nach zwei Monaten stattfinden kann.
+
+#### § 9
+
+**Rechtsanwälte**
+
+<sup>1</sup> Für Rechtsanwälte kann die Prüfung mit der Anwaltsprüfung verbunden werden.
+
+## 3 Gebühren
+
+#### § 10
+
+**Allgemein**
+
+<sup>1</sup> Alle Gebühren sind vom Bewerber vorschussweise zu entrichten.
+
+<sup>2</sup> Besondere Auslagen können zusätzlich zu den Gebühren berechnet werden.
+
+#### § 11
+
+**Beurkundungsprüfung**
+
+<sup>1</sup> Die Gebühren für die Beurkundungsprüfung sind so festzulegen, dass sie die Kosten des Kantons gemäss Behördenverordnung[^11-1] decken; sie betragen:
+
+- 1\. für den Entscheid über die Zulassung: — Fr. 200.– bis 300.–;
+- 2\. für die schriftliche Prüfung: — Fr. 300.– bis 600.–;
+- 3\. für die mündliche Prüfung: — Fr. 400.– bis 800.–.
+
+<sup>2</sup> Für die Wiederholung einer ganzen Prüfung sind die gleichen Gebühren zu entrichten; bei Wiederholung eines Teils der Prüfung sind sie durch die Beurkundungskommission entsprechend festzulegen.
+
+<sup>3</sup> Für kantonale Beamte entfallen die Gebühren.
+
+[^11-1]: NG 161.11
+
+#### § 12
+
+**Disziplinarverfahren**
+
+<sup>1</sup> Die Gebühren für Disziplinarverfahren gemäss § 60 der Beurkundungsverordnung werden nach Art und Umfang der Bemühungen festgesetzt und betragen in der Regel Fr. 50.– bis Fr. 1'000.–.
+
+## 4 Stempel und Urkundenregister
+
+#### § 13
+
+**Bezug und Rückgabe**
+
+<sup>1</sup> Stempel und Urkundenregister sind gegen Entschädigung bei der Gerichtskanzlei zu beziehen; sie werden nur den Urkundspersonen nach § 6 der Beurkundungsverordnung abgegeben.
+
+<sup>2</sup> Sie sind der Gerichtskanzlei nach Erlöschen der Beurkundungsbefugnis zurückzugeben; das gleiche gilt für das Urkundenprotokoll, welches an das Staatsarchiv weiterzuleiten ist.
+
+#### § 14
+
+**Urkundenregister 1. Inhalt**
+
+<sup>1</sup> Das Urkundenregister hat Buchform und enthält folgende Rubriken:
+
+- 1\. Ordnungsnummer;
+- 2\. Name, Vorname und Wohnsitz bzw. Firma und Sitz der Parteien;
+- 3\. Gegenstand der Beurkundung;
+- 4\. Ort der Beurkundung;
+- 5\. Datum der Beurkundung;
+- 6\. Gebühr;
+- 7\. Allfällige Bemerkungen;
+- 8\. Unterschrift der Urkundsperson.
+
+#### § 15
+
+**2. Ordnungsnummer**
+
+<sup>1</sup> Jede Beurkundung ist mit einer Ordnungsnummer (fortlaufende Numerierung oder Jahreszahl mit Nummer innerhalb des Jahres) im Urkundenregister einzutragen.
+
+<sup>2</sup> Mehrere gleichzeitig errichtete Ausfertigungen derselben öffentlichen Urkunde erhalten die gleiche Ordnungsnummer.
+
+<sup>3</sup> Die Ordnungsnummer ist anlässlich der Beurkundung auf den Urkunden anzubringen.
+
+#### § 16
+
+**3. Allfällige Bemerkungen**
+
+<sup>1</sup> Die Rubrik «Allfällige Bemerkungen» enthält insbesondere:
+
+- 1\. den Grund für eine im ausserordentlichen Verfahren erstellte Urkunde;
+- 2\. die Genehmigung oder Rückweisung durch die zuständige Behörde oder Amtsstelle;
+- 3\. den Grund für eine allfällige Reduktion der Beurkundungsgebühr.
+
+<sup>2</sup> Die Eintragungen bei allen andern Rubriken sind jedesmal vorzunehmen.
+
+## 5 Haftpflichtversicherung der Rechtsanwälte
+
+#### § 17
+
+**Anforderungen**
+
+<sup>1</sup> Der von den Rechtsanwälten für ihre Tätigkeit als Urkundspersonen abzuschliessende Versicherungsvertrag hat folgenden Anforderungen zu genügen:
+
+- 1\. Die Versicherungssumme muss mindestens 2 Mio. Franken betragen; sie darf als Einmalgarantie je Jahr beschränkt sein. Bei einer Anwaltsgemeinschaft muss jede Urkundsperson für mindestens 2 Mio. Franken versichert sein.
+- 2\. Der Selbstbehalt darf 10% und maximal folgende Beträge nicht übersteigen:
+  - a) Fr. 10'000.– bei einer Versicherungssumme von weniger als 3 Mio. Franken;
+  - b) Fr. 25'000.– bei einer Versicherungssumme von 3 Mio. bis weniger als 5 Mio. Franken;
+  - c) Fr. 50'000.– bei einer Versicherungssumme von 5 Mio. Franken und mehr.
+- 3\. Die besonderen Bestimmungen müssen folgenden Text enthalten: «Der Versicherungsnehmer verpflichtet den Versicherer, das Aussetzen oder Aufhören der Versicherung der Beurkundungskommission des Kantons Nidwalden mitzuteilen.»
+
+## 6 Übergangs- und Schlussbestimmungen
+
+#### § 18
+
+**Gebühr für Befähigungsausweis**
+
+<sup>1</sup> Die Gebühr für die Erteilung des Befähigungsausweises gemäss § 61 der Beurkundungsverordnung beträgt Fr. 30.–.
+
+<sup>2</sup> § 11 Abs. 3 bleibt vorbehalten.
+
+#### § 19
+
+**Rechtskraft**
+
+<sup>1</sup> Dieses Reglement tritt unter Vorbehalt der Genehmigung durch den Regierungsrat sofort in Kraft[^19-1].
+
+[^19-1]: Vom Regierungsrat genehmigt am 3. März 1975
+
+A 1975, 303

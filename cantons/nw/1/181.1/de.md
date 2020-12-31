@@ -1,0 +1,381 @@
+---
+canton: NW
+number: "181.1"
+title: "Gesetz über das Korporationsbürgerrecht, die Organisation und Verwaltung der Korporationen sowie die Nutzung des Korporationsvermögens"
+short: Korporationsgesetz
+language: de
+version: 1992-04-26
+version_adopted: 1992-04-26
+adopted: 1992-04-26
+in_force: 1992-04-26
+url: "https://gesetze.nw.ch/app/de/texts_of_law/181.1"
+pdf: "https://gesetze.nw.ch/api/de/versions/822/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über das Korporationsbürgerrecht, die Organisation und Verwaltung der Korporationen sowie die Nutzung des Korporationsvermögens
+
+(Korporationsgesetz)
+
+vom 26.04.1992 (Stand 26.04.1992)
+
+Die Korporationslandsgemeinde,
+
+gestützt auf Art. 56 und 91 der Kantonsverfassung,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz regelt das Korporationsbürgerrecht, die Organisation und Verwaltung der Korporationen sowie die Nutzung des Korporationsvermögens.
+
+<sup>2</sup> Als Korporationen im Sinne dieses Gesetzes gelten Genossenkorporationen, Ürtekorporationen und Ürten.
+
+#### Art. 2
+
+**Selbständigkeit**
+
+<sup>1</sup> Die Korporationen ordnen und verwalten im Rahmen der Bestimmungen der Kantonsverfassung und dieses Gesetzes ihre Angelegenheiten selbständig.
+
+<sup>2</sup> Es steht ihnen frei, für ihre Organe die überlieferten Bezeichnungen zu verwenden.
+
+#### Art. 3
+
+**Bestand**
+
+<sup>1</sup> Innerhalb des Kantonsgebietes bestehen die folgenden Korporationen:
+
+- 1\. Stans
+- 2\. Ennetmoos
+- 3\. Dallenwil
+- 4\. Stansstad
+- 5\. Büren nid dem Bach
+- 6\. Waltersberg
+- 7\. Buochs
+- 8\. Ennetbürgen
+- 9\. Büren ob dem Bach (Plätzet-Ürte)
+- 10\. Boden
+- 11\. Altzellen
+- 12\. Oberrickenbach
+- 13\. Beckenried
+- 14\. Hergiswil
+- 15\. Emmetten.
+
+#### Art. 4
+
+**Errichtung, Auflösung und Vereinigung**
+
+<sup>1</sup> Die Errichtung, Auflösung und Vereinigung von Korporationen bedarf der Zustimmung der betroffenen Korporationsgemeinden sowie der Genehmigung durch den Landrat.
+
+#### Art. 5
+
+**Erlasse**
+
+<sup>1</sup> Die Korporationsgemeinde erlässt unter dem Vorbehalt der Genehmigung durch den Regierungsrat ein Grundgesetz; dieses umschreibt im Rahmen der Gesetzgebung die Organisation und Verwaltung der Korporation.
+
+<sup>2</sup> Sie erlässt die zur Erfüllung der Korporationsaufgaben erforderlichen Verordnungen und Reglemente.
+
+#### Art. 6
+
+**Aufgaben der Korporationen**
+
+<sup>1</sup> Die Korporationen haben das Korporationsvermögen im gegenwärtigen und zukünftigen Interesse der Korporationsbürger zu erhalten, zu verwalten und zu nutzen.
+
+#### Art. 7
+
+**Ergänzende Bestimmungen**
+
+<sup>1</sup> Soweit dieses Gesetz und das Grundgesetz der betreffenden Korporation keine Bestimmungen bezüglich der Wahl, der Zugehörigkeit, des Verfahrens sowie der Rechte und Pflichten der Korporationsbehörden enthalten, sind die Bestimmungen der Kantonsverfassung und des Behördengesetzes[^7-1] sinngemäss anwendbar.
+
+[^7-1]: NG 161.1
+
+## 2 Korporationsbürgerrecht
+
+#### Art. 8
+
+**Erwerb 1. Voraussetzungen**
+
+<sup>1</sup> Der Erwerb und die Beibehaltung des Korporationsbürgerrechts setzen voraus:
+
+- 1\. Führung des Namens eines Korporationsbürgergeschlechtes (Art. 9) aufgrund eines Kindesverhältnisses (Art. 10 oder Art. 11); sowie
+- 2\. Bürgerrecht der zuständigen politischen Gemeinde.
+
+<sup>2</sup> Korporationsbürgerinnen, die durch Heirat ihren angestammten Korporationsbürgernamen verlieren, sind weiterhin vollberechtigte Korporationsbürgerinnen der betreffenden Korporation.
+
+#### Art. 9
+
+**2. Korporationsbürgergeschlechter**
+
+<sup>1</sup> Das Korporationsbürgerrecht wird durch folgende alte Nidwaldner Geschlechter vermittelt:
+
+Achermann, Agner, Ambauen, Amstad, Amstutz, Adacher, Baggenstos, Barmettler, Baumgartner, Berlinger, Bircher, Bläsi, Blättler, Blum, Bucher, Bünter, Businger, Christen, Denier, Denner, Dönni, Durrer, Engelberger, Ettlin, Feller, Filliger, Fischer, Flüeler, Flühler, Fluri, Flury, Frank, Gabriel, Gander, Gröbli, Gut, Hermann, Hug, Hummel, Huser, Imboden, Jann, Joller, Kaeslin, Käslin, Kaiser, Kayser, Keiser, Leuw, Liem, Liembd, Lussi, Mathis, Meyer, Murer, Näpflin, Niederberger, Odermatt, Peter, Rengger, Risi, Rothenfluh, Scheuber, Schmitter, Selm, Stalder, Stulz, Traxler, Vokinger, von Büren, von Holzen, von Matt, Wagner, Waser, Würsch, Wyrsch, Wymann, Zelger, Zibung, Zimmermann, Z’Rotz, Zrotz, Zumbach, Zumbühl.
+
+<sup>2</sup> Diese Aufzählung ist unter dem Vorbehalt anderer Nachweise abschliessend.
+
+<sup>3</sup> Jede Korporation bezeichnet in ihrem Grundgesetz die in ihrer Korporation vertretenen Korporationsbürgergeschlechter beziehungsweise die Stämme der Korporationsbürgergeschlechter.
+
+#### Art. 10
+
+**3. Abstammung**
+
+<sup>1</sup> Sind die Eltern miteinander verheiratet, erhält das Kind das Korporationsbürgerrecht des Vaters.
+
+<sup>2</sup> Sind die Eltern nicht miteinander verheiratet, erhält das Kind das Korporationsbürgerrecht der Mutter.
+
+<sup>3</sup> Ein unmündiges Kind erwirbt das Korporationsbürgerrecht des Vaters, der nachträglich die Mutter heiratet (Art. 259 ZGB[^10-1]); das gleiche gilt, wenn das Kind unverheirateter Eltern den Familiennamen und das Bürgerrecht des Vaters erwirbt (Art. 271 Abs. 3 ZGB).
+
+[^10-1]: SR 210
+
+#### Art. 11
+
+**4. Adoption**
+
+<sup>1</sup> Das unmündige Adoptivkind erhält das Korporationsbürgerrecht des Adoptivvaters; bei einer Einzeladoption (Art. 264 b ZGB) erhält das unmündige Adoptivkind das Korporationsbürgerrecht des Adoptierenden.
+
+#### Art. 12
+
+**Verlust**
+
+<sup>1</sup> Wird das Kindesverhältnis zum Elternteil, der dem Kind das Korporationsbürgerrecht vermittelt hat, aufgehoben, verliert das Kind das vom aufgehobenen Kindesverhältnis hergeleitete Korporationsbürgerrecht.
+
+<sup>2</sup> Ist eine Person aufgrund einer Namensänderung gemäss Art. 30 ZGB nicht mehr Träger eines Korporationsbürgernamens der betreffenden Korporation, verliert sie das Korporationsbürgerrecht.
+
+#### Art. 13
+
+**Wiedereinbürgerung**
+
+<sup>1</sup> Ist eine Person oder einer ihrer Vorfahren des Korporationsbürgerrechts verlustig gegangen, kann sie vom Korporationsrat die Wiedereinbürgerung verlangen, wenn sie die Voraussetzungen gemäss Art. 8 erfüllt und im Kanton Nidwalden wohnt.
+
+#### Art. 14
+
+**Feststellungsentscheid**
+
+<sup>1</sup> Wenn es fraglich ist, ob eine Person das Korporationsbürgerrecht besitzt, hat der Korporationsrat auf Antrag oder von Amtes wegen einen Feststellungsentscheid zu erlassen.
+
+<sup>2</sup> Gegen den Feststellungsentscheid des Korporationsrates kann binnen 20 Tagen nach erfolgter Zustellung beim Regierungsrat Beschwerde eingereicht werden.
+
+## 3 Rechte und Pflichten der Korporationsbürger
+
+#### Art. 15
+
+**Meldepflicht 1. Grundsatz**
+
+<sup>1</sup> Wer das Stimm- und Wahlrecht ausüben will, hat sich bei seiner Korporation anzumelden.
+
+<sup>2</sup> Wer das Korporationsnutzungsrecht antreten will, hat sich vor dem 15. März des betreffenden Jahres anzumelden; die Korporation kann im Grundgesetz eine Einschussgebühr vorsehen.
+
+#### Art. 16
+
+**2. Verletzung**
+
+<sup>1</sup> Unterlässt eine Person die Anmeldung, ist sie nicht berechtigt, das Stimm- und Wahlrecht auszuüben beziehungsweise den Korporationsnutzen geltend zu machen.
+
+#### Art. 17
+
+**Stimm- und Wahlrecht**
+
+<sup>1</sup> Das Stimmrecht sowie das aktive und passive Wahlrecht hat unter dem Vorbehalt von Art. 15 Abs. 1 jede im Korporationskreis wohnhafte Person, die das Korporationsbürgerrecht besitzt, das 18. Altersjahr zurückgelegt hat und der nicht durch die kantonale Gesetzgebung das Aktivbürgerrecht entzogen ist.
+
+#### Art. 18
+
+**Korporationsnutzen 1. allgemein**
+
+<sup>1</sup> Personen, die das Korporationsbürgerrecht besitzen, bis zum 15. März das 25. Altersjahr erfüllt haben und im Korporationskreis wohnen (Art. 23–26 ZGB), sind unter dem Vorbehalt von Art. 15 Abs. 2 berechtigt, den Korporationsnutzen zu beziehen.
+
+<sup>2</sup> Sind beide Ehegatten nutzungsberechtigt, erhält jeder Ehegatte den Korporationsnutzen.
+
+#### Art. 19
+
+**2. Waisenkinder**
+
+<sup>1</sup> Hinterlässt eine nutzungsberechtigte Person Kinder, die im Korporationskreis wohnen, sind sie gemeinsam berechtigt, den Korporationsnutzen bis zum erfüllten 25. Altersjahr zu beziehen; Vollwaisen sind gemeinsam berechtigt, den Korporationsnutzen sowohl des nutzungsberechtigten Vaters als auch der nutzungsberechtigten Mutter bis zum erfüllten 25. Alterjahr zu beziehen.
+
+#### Art. 20
+
+**3. Ergänzende Bestimmungen**
+
+<sup>1</sup> Jede Korporation ist zuständig, im Grundgesetz die Bestimmungen betreffend die Bezugsberechtigung für den Korporationsnutzen zu erweitern.
+
+#### Art. 21
+
+**4. Entzug**
+
+<sup>1</sup> Personen, welche die Bestimmungen über die Berechtigung zum Bezug des Korporationsnutzens verletzen oder umgehen, hat der Korporationsrat das Recht zum Bezug des Korporationsnutzens des betreffenden Jahres ganz oder teilweise zu entziehen.
+
+## 4 Organisation
+
+#### Art. 22
+
+**Korporationsgemeinde 1. Aufgaben und Zuständigkeit**
+
+<sup>1</sup> Die Korporationsgemeinde ist das oberste Organ der Korporation; sie übt die Aufsicht über sämtliche Zweige der Korporationsverwaltung aus.
+
+<sup>2</sup> Sie ist zuständig für:
+
+- 1\. Erlass des Grundgesetzes sowie der erforderlichen Verordnungen und Reglemente gemäss Art. 5;
+- 2\. Wahl des Korporationsrates von drei bis sieben Mitgliedern und aus dessen Mitte des Korporationspräsidenten;
+- 3\. Wahl des Korporationsschreibers;
+- 4\. Wahl der Rechnungsrevisoren;
+- 5\. Genehmigung der Jahresrechnung und Entgegennahme des Jahresberichtes;
+- 6\. Bestimmung des Korporationsnutzens;
+- 7\. Beschlussfassung über einmalige und jährlich wiederkehrende Ausgaben, welche die Finanzkompetenzen des Korporationsrates übersteigen;
+- 8\. Verfügung über Grundstücke (Liegenschaften, in das Grundbuch aufgenommene selbständige und dauernde Rechte, Miteigentumsanteile an Grundstücken usw.) der Korporation sowie Beschlussfassung betreffend den Erwerb von Grundstücken;
+- 9\. alle weiteren Geschäfte, die durch das Grundgesetz oder durch Beschluss des Korporationsrates der Korporationsgemeinde zugewiesen werden.
+
+#### Art. 23
+
+**2. Beschlussfassung**
+
+<sup>1</sup> Die Zustimmung von zwei Dritteln der Stimmenden ist erforderlich bei folgenden Schlussabstimmungen:
+
+- 1\. Totalrevision oder Teilrevision des Grundgesetzes;
+- 2\. Errichtung, Auflösung und Vereinigung von Korporationen;
+- 3\. Verfügung über Grundstücke.
+
+<sup>2</sup> Die Beschlüsse der Korporationsgemeinde werden in allen übrigen Fällen mit der Mehrheit der Stimmenden gefasst; bei Stimmengleichheit entscheidet bei Wahlen das Los, bei Sachgeschäften sowie bei Verordnungen und Reglementen gilt der Antrag als abgelehnt.
+
+#### Art. 24
+
+**Korporationsrat**
+
+<sup>1</sup> Der Korporationsrat ist die vollziehende und verwaltende Behörde der Korporation; er vertritt die Korporation nach aussen.
+
+<sup>2</sup> Er ist für alle Korporationsangelegenheiten zuständig, soweit diese nicht ausdrücklich einem andern Organ der Korporation zugewiesen werden.
+
+<sup>3</sup> Er ist insbesondere zuständig für:
+
+- 1\. Einberufung der Korporationsgemeinde;
+- 2\. Vorbereitung aller Geschäfte, die von der Korporationsgemeinde zu behandeln sind;
+- 3\. Feststellung des Korporationsbürgerrechts und Wiedereinbürgerung;
+- 4\. Verwaltung des Korporationsvermögens und Verfügung darüber im Rahmen seiner Finanzkompetenzen;
+- 5\. Abschluss und Auflösung von Miet- und Pachtverträgen;
+- 6\. Abschluss von Dienstbarkeitsverträgen;
+- 7\. Beschlussfassung über einmalige und jährlich wiederkehrende Ausgaben im Rahmen seiner Finanzkompetenzen;
+- 8\. Wahl von Kommissionen für bestimmte Verwaltungszweige sowie für die Vorbereitung einzelner Geschäfte.
+
+#### Art. 25
+
+**Korporationspräsident**
+
+<sup>1</sup> Der Korporationspräsident leitet die Tätigkeit des Korporationsrates.
+
+<sup>2</sup> Er ist zuständig für:
+
+- 1\. Leitung der Korporationsgemeinde und der Sitzungen des Korporationsrates;
+- 2\. Erlass von Präsidialverfügungen:
+  - a) sofern unverzüglich Massnahmen zu treffen sind und die Einberufung einer Sitzung des Korporationsrates nicht möglich ist;
+  - b) bei Geschäften von geringer Bedeutung.
+
+<sup>3</sup> Der Korporationsrat ist an der nächstfolgenden Sitzung über die Präsidialverfügungen in Kenntnis zu setzen; er kann sie aufheben.
+
+## 5 Verwaltung des Korporationsvermögens
+
+#### Art. 26
+
+**Korporationsvermögen 1. Begriff**
+
+<sup>1</sup> Das Korporationsvermögen besteht aus Grundstücken, Wertschriften und dem Erlös von Vermögensteilen.
+
+<sup>2</sup> Es untersteht hinsichtlich des Eigentums dem Zivilrecht; die Verwaltung und Nutzung des Korporationsvermögens richtet sich nach der Korporationsgesetzgebung.
+
+#### Art. 27
+
+**2. Erhaltung**
+
+<sup>1</sup> Das Korporationsvermögen ist in seinem Bestand zu erhalten; es darf in keinem Fall an die Korporationsbürger verteilt werden.
+
+<sup>2</sup> Die Ausrichtung eines Korporationsnutzens darf nur beschlossen werden, wenn die Bestandesrechnung des Vorjahres keinen Bilanzfehlbetrag ausweist und wenn die Korporation in der Lage ist, die Investitionen mittelfristig in angemessener Weise selber zu finanzieren und zu amortisieren.
+
+<sup>3</sup> Eine unentgeltliche Abtretung von Grundstücken, Dienstbarkeiten oder Grundlasten an Korporationsbürger oder Dritte ist unzulässig; vorbehalten bleiben Zuwendungen im öffentlichen Interesse.
+
+#### Art. 28
+
+**Verfügung über Grundstücke der Korporation 1. Zulässigkeit**
+
+<sup>1</sup> Die Verfügung über Grundstücke (Liegenschaften, in das Grundbuch aufgenommene selbständige und dauernde Rechte, Miteigentumsanteile an Grundstücken usw.) ist nur zulässig:
+
+- 1\. für die Erfüllung öffentlicher Zwecke;
+- 2\. für Bauplätze;
+- 3\. für kleinere Arrondierungen;
+- 4\. für gleichwertigen Grundstückabtausch.
+
+<sup>2</sup> Verfügungen über Grundstücke im Ausmass von mehr als 1'000 m² sind unter dem Vorbehalt der Genehmigung durch den Regierungsrat zulässig, wenn es im allgemeinen Interesse steht.
+
+#### Art. 29
+
+**2. Zuständigkeit**
+
+<sup>1</sup> Für die Verfügung über ein Grundstück der Korporation ist die Korporationsgemeinde zuständig.
+
+#### Art. 30
+
+**3. Erlös**
+
+<sup>1</sup> Der Erlös aus Verfügungen über Grundstücke der Korporation ist so zu verwenden, dass die Erhaltung des Korporationsvermögens nicht beeinträchtigt wird.
+
+## 6 Aufsicht des Kantons
+
+#### Art. 31
+
+**Allgemein**
+
+<sup>1</sup> Die Korporationen stehen im Rahmen der Gesetzgebung unter der Aufsicht des Kantons.
+
+<sup>2</sup> Aufsichtsbehörde ist der Regierungsrat; vorbehalten bleiben die Befugnisse des Landrates gemäss Art. 4.
+
+#### Art. 32
+
+**Ergänzende Bestimmungen**
+
+<sup>1</sup> Die Befugnisse des Regierungsrates bei vorschriftswidrigen Zuständen richten sich sinngemäss nach Art. 207–211 des Gemeindegesetzes[^32-1].
+
+[^32-1]: NG 171.1
+
+#### Art. 33
+
+**Beschwerde**
+
+<sup>1</sup> Gegen Beschlüsse des Korporationsrates und der Korporationsgemeinde kann wegen Verletzung der Vorschriften dieses Gesetzes und der Gesetzgebung der betreffenden Korporation sowie wegen Rechtsverweigerung oder Rechtsverzögerung beim Regierungsrat Beschwerde erhoben werden.
+
+<sup>2</sup> Richtet sich die Beschwerde gegen einen Beschluss oder eine bestimmte Handlung, ist sie binnen 20 Tagen seit der Mitteilung oder Kenntnisnahme einzureichen; in andern Fällen ist sie solange zulässig, als ein rechtliches oder tatsächliches schutzwürdiges Interesse des Beschwerdeführers besteht.
+
+<sup>3</sup> Ansprüche sachenrechtlicher oder ähnlicher Art entscheidet, unter Ausschluss der Beschwerde an den Regierungsrat, der Zivilrichter.
+
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 34
+
+**Korporationsbürgerrecht verheirateter, verwitweter oder geschiedener Schweizerinnen**
+
+<sup>1</sup> Verheiratete, verwitwete oder geschiedene Schweizerinnen, die aufgrund des bis zum 31. Dezember 1987 geltenden Artikels 161 ZGB das Bürgerrecht der betreffenden politischen Gemeinde verloren haben, besitzen weiterhin das Korporationsbürgerrecht, das sie als ledig hatten.
+
+#### Art. 35
+
+**Korporationsbürgerrecht von Personen, die adoptiert wurden**
+
+<sup>1</sup> Personen, die aufgrund der seit dem 1. April 1973 geltenden Bestimmungen des Schweizerischen Zivilgesetzbuches und des Bundesgesetzes über Erwerb und Verlust des Schweizer Bürgerrechts (Bürgerrechtsgesetz[^35-1]) adoptiert worden sind oder deren Adoption den neuen Bestimmungen (Art. 264–269c ZGB; Art. 57 Abs. 5 Bürgerrechtsgesetz) unterstellt worden ist, haben gemäss Art. 11 das Korporationsbürgerrecht des Adoptierenden erworben.
+
+[^35-1]: SR 141.0
+
+#### Art. 36
+
+**Anspruch auf den Korporationsnutzen**
+
+<sup>1</sup> Personen, die gemäss Art. 18 und Art. 19 neu berechtigt sind, den Korporationsnutzen zu beziehen, können diesen Anspruch erstmals für das Nutzungsjahr 1993 geltend machen.
+
+#### Art. 37
+
+**Rechtskraft**
+
+<sup>1</sup> Dieses Gesetz tritt mit der Annahme durch die Korporationslandsgemeinde in Kraft.
+
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen und in die Gesetzessammlung aufzunehmen.
+
+<sup>3</sup> Alle mit ihm in Widerspruch stehenden Bestimmungen sind aufgehoben, insbesondere das Gesetz vom 9. Mai 1875 betreffend die Korporationsnutzung.
+
+A 1992, 709
