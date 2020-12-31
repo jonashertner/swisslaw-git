@@ -1,0 +1,890 @@
+---
+canton: LU
+number: "1"
+title: Verfassung des Kantons Luzern
+short: KV
+language: de
+version: 2014-07-01
+version_adopted: 2013-06-17
+adopted: 2007-06-17
+in_force: 2008-01-01
+url: "https://srl.lu.ch/app/de/texts_of_law/1"
+pdf: "https://srl.lu.ch/api/de/versions/3784/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verfassung des Kantons Luzern
+
+(KV)
+
+vom 17.06.2007 (Stand 01.07.2014)
+
+Die Luzernerinnen und Luzerner,
+
+in Verantwortung vor Gott, gegenüber den Mitmenschen und der Natur und im Bestreben, Luzern als starken Kanton weiterzuentwickeln,
+
+geben sich folgende Verfassung:[^ingress-1]
+
+[^ingress-1]: Nach Einsicht in die Botschaft vom 22. November 2005 (GR 2006 1693) hat der Grosse Rat den Entwurf der Kantonsverfassung am 30. Januar 2007 beschlossen. Die Verfassung wurde in der Volksabstimmung vom 17. Juni 2007 angenommen (K 2007 1772). Am 12. Juni 2008 haben die eidgenössischen Räte die Verfassung gewährleistet (BBl 2008 5789).
+
+## 1 Allgemeines
+
+#### § 1
+
+**Kanton Luzern**
+
+<sup>1</sup> Der Kanton Luzern ist ein freiheitlicher, demokratischer und sozialer Rechtsstaat.
+
+<sup>2</sup> Er ist ein Kanton der Schweizerischen Eidgenossenschaft.
+
+#### § 2
+
+**Grundsätze staatlichen Handelns**
+
+<sup>1</sup> Grundlage und Schranke staatlichen Handelns ist das Recht.
+
+<sup>2</sup> Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
+
+<sup>3</sup> Staatliche Organe und Private handeln nach Treu und Glauben.
+
+#### § 3
+
+**Individuelle Verantwortung**
+
+<sup>1</sup> Jede Person hat die Pflichten zu erfüllen, die ihr durch die Rechtsordnung auferlegt werden.
+
+<sup>2</sup> Sie trägt Verantwortung für sich selbst und Mitverantwortung für die Gemeinschaft und die Erhaltung der Lebensgrundlagen.
+
+<sup>3</sup> Sie trägt nach ihren Kräften zur Bewältigung der Aufgaben in Staat und Gesellschaft bei.
+
+#### § 4
+
+**Solidarität und Subsidiarität**
+
+<sup>1</sup> Kanton und Gemeinden beachten den Grundsatz der Solidarität. Sie setzen sich für den Ausgleich in der Gesellschaft und zwischen den Kantonsteilen ein. Wer Ausgleichsleistungen in Anspruch nehmen will, hat selbst alles Zumutbare zu unternehmen, um seine Lage zu verbessern.
+
+<sup>2</sup> Kanton und Gemeinden handeln nach dem Grundsatz der Subsidiarität. Sie übernehmen Aufgaben von öffentlichem Interesse, soweit Einzelne oder Organisationen sie nicht angemessen erfüllen. Der Kanton übernimmt jene Aufgaben, welche die Kraft der Gemeinden übersteigen oder die einer einheitlichen Regelung bedürfen.
+
+#### § 5
+
+**Zusammenarbeit mit Bund und Kantonen**
+
+<sup>1</sup> Der Kanton wirkt an der Gestaltung des Bundes mit und unterstützt ihn bei der Erfüllung seiner Aufgaben.
+
+<sup>2</sup> Er wahrt seine Interessen beim Bund.
+
+<sup>3</sup> Er nimmt seinen Gestaltungsspielraum bei der Erfüllung der Aufgaben wahr, die ihm der Bund überträgt.
+
+<sup>4</sup> Er arbeitet mit den anderen Kantonen zusammen.
+
+#### § 6
+
+**Gliederung des Kantons**
+
+<sup>1</sup> Das Kantonsgebiet gliedert sich in Gemeinden.
+
+<sup>2</sup> Es wird in Wahlkreise aufgeteilt.
+
+<sup>3</sup> Zur dezentralen Erfüllung von Gerichts- und Verwaltungsaufgaben werden weitere Einteilungen gebildet.
+
+#### § 7
+
+**Amtssprache**
+
+<sup>1</sup> Die Amtssprache ist Deutsch.
+
+#### § 8
+
+**Wappen**
+
+<sup>1</sup> Das Wappen des Kantons ist hälftig gespalten in Blau und Weiss.
+
+#### § 9
+
+**Hauptort**
+
+<sup>1</sup> Hauptort des Kantons ist die Stadt Luzern.
+
+## 2 Grundrechte
+
+#### § 10
+
+**Gewährleistung der Grundrechte**
+
+<sup>1</sup> Die Würde des Menschen ist zu achten und zu schützen.
+
+<sup>2</sup> Die Grundrechte sind nach Massgabe der Bundesverfassung[^10-1] gewährleistet.
+
+[^10-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
+
+## 3 Aufgaben von Kanton und Gemeinden
+
+#### § 11
+
+**Aufgaben**
+
+<sup>1</sup> Kanton und Gemeinden nehmen die Aufgaben wahr, die ihnen durch die Gesetzgebung übertragen sind, namentlich in den Bereichen
+
+- a. öffentliche Sicherheit und Ordnung,
+- b. wirtschaftliche Entwicklung,
+- c. Bildung,
+- d. Gesundheit,
+- e. soziale Sicherheit,
+- f. Raumplanung,
+- g. Verkehr und Infrastruktur,
+- h. Umweltschutz und Energie,
+- i. Kultur,
+- j. Sport.
+
+#### § 12
+
+**Grundsätze**
+
+<sup>1</sup> Kanton und Gemeinden beachten bei der Erfüllung ihrer Aufgaben, dass Würde, Rechte und Freiheiten der Menschen geschützt werden und dass die öffentliche Ordnung gewahrt bleibt.
+
+<sup>2</sup> Sie achten darauf, dass die Familie als Grundgemeinschaft der Gesellschaft geschützt und in Ergänzung zu persönlicher Verantwortung und privater Initiative gefördert wird, insbesondere durch finanzielle Ausgleichsleistungen und familienergänzende Kinderbetreuung.
+
+<sup>3</sup> Sie achten darauf, dass die natürlichen Lebensgrundlagen erhalten werden und dass die wirtschaftliche Entwicklung allen dient.
+
+#### § 13
+
+**Erfüllung der Aufgaben**
+
+<sup>1</sup> Kanton und Gemeinden erfüllen ihre Aufgaben bevölkerungsnah, wirksam und kostenbewusst.
+
+<sup>2</sup> Der Kanton erfüllt seine Aufgaben dezentral, wenn sie sich dafür eignen und der wirtschaftliche Einsatz der Mittel es erlaubt.
+
+#### § 14
+
+**Übertragung von Aufgaben**
+
+<sup>1</sup> Kanton und Gemeinden können die Erfüllung von Aufgaben im Rahmen der Gesetzgebung Personen und Organisationen des öffentlichen oder des privaten Rechts übertragen.
+
+<sup>2</sup> Sie können Organisationen des öffentlichen und des privaten Rechts schaffen oder sich daran beteiligen.
+
+<sup>3</sup> Das Gesetz stellt den Rechtsschutz und die Aufsicht sicher.
+
+#### § 15
+
+**Überprüfung der Aufgaben**
+
+<sup>1</sup> Die Aufgaben sind regelmässig daraufhin zu überprüfen, ob sie notwendig und finanziell tragbar sind und ob sie wirksam, wirtschaftlich und vom geeigneten Leistungserbringer erfüllt werden.
+
+## 4 Politische Rechte und Bürgerrecht
+
+### 4.1 Politische Rechte
+
+### 4.1.1 Stimmrecht
+
+#### § 16
+
+**Stimmberechtigung**
+
+<sup>1</sup> Das Stimmrecht steht allen Schweizerinnen und Schweizern zu, die im Kanton Luzern politischen Wohnsitz haben und in eidgenössischen Angelegenheiten stimmberechtigt sind.
+
+#### § 17
+
+**Inhalt des Stimmrechts**
+
+<sup>1</sup> Das Stimmrecht umfasst das Recht, an Wahlen und Abstimmungen teilzunehmen, Initiativen und Referenden zu unterzeichnen und, unter Vorbehalt besonderer Wählbarkeitsvoraussetzungen, gewählt zu werden.
+
+### 4.1.2 Wahlen
+
+#### § 18
+
+**Volkswahlen**
+
+<sup>1</sup> Die Stimmberechtigten wählen
+
+- a. den Kantonsrat,
+- b. den Regierungsrat,
+- c. die Luzerner Mitglieder des Nationalrates und des Ständerates,
+- d. den Gemeinderat,
+- e. die Mitglieder des Gemeindeparlamentes, sofern ein solches besteht,
+- f. weitere in der Rechtsordnung bezeichnete Behörden.
+
+#### § 19
+
+**Wahlverfahren und Wahlkreise**
+
+<sup>1</sup> Der Kantonsrat wird nach dem Proporzverfahren gewählt.
+
+<sup>2</sup> Das Gesetz bestimmt mindestens fünf Wahlkreise. Eine angemessene Vertretung der Kantonsteile ist zu gewährleisten.
+
+<sup>3</sup> Die Sitze werden nach der Bevölkerungszahl auf die Wahlkreise verteilt.
+
+<sup>4</sup> Der Regierungsrat und die Mitglieder des Ständerates werden nach dem Majorzverfahren gewählt. Dabei bildet der Kanton einen einzigen Wahlkreis.
+
+### 4.1.3 Initiativen
+
+#### § 20
+
+**Verfassungsinitiative**
+
+<sup>1</sup> 5000 Stimmberechtigte können die Einleitung des Verfahrens zur Totalrevision oder die Änderung einzelner Teile der Kantonsverfassung verlangen.
+
+#### § 21
+
+**Gesetzesinitiative**
+
+<sup>1</sup> 4000 Stimmberechtigte können den Erlass, die Änderung oder die Aufhebung eines Gesetzes verlangen.
+
+#### § 22
+
+**Verfahrensbestimmungen**
+
+<sup>1</sup> Die Frist zur Einreichung der Unterschriften beträgt ein Jahr seit der amtlichen Veröffentlichung des Begehrens.
+
+<sup>2</sup> Der Kantonsrat beschliesst die Annahme oder die Ablehnung der Initiative.
+
+<sup>3</sup> Für die Initiative auf Teilrevision der Kantonsverfassung und die Gesetzesinitiative gilt:
+
+- a. Die Begehren können in der Form der allgemeinen Anregung oder des ausgearbeiteten Entwurfes eingereicht werden.
+- b. Sie müssen die Einheit der Form und die Einheit der Materie beachten.
+- c. Einer Initiative kann der Kantonsrat einen Gegenentwurf gegenüberstellen.
+
+### 4.1.4 Referenden
+
+#### § 23
+
+**Obligatorisches Referendum**
+
+<sup>1</sup> Den Stimmberechtigten sind zur Abstimmung vorzulegen:
+
+- a. der Beschluss über die Einleitung der Totalrevision der Kantonsverfassung und Änderungen der Kantonsverfassung,
+- b. Gesetze und Beschlüsse des Kantonsrates, mit denen freibestimmbare Ausgaben für Vorhaben im Gesamtbetrag von mehr als 25 Millionen Franken bewilligt werden; bei wiederkehrenden Ausgaben ist vom Gesamtbetrag der einzelnen Betreffnisse auszugehen; ist dieser nicht feststellbar, ist der zehnfache Betrag einer Jahresausgabe massgebend,
+- c. interkantonale und andere Verträge, die für den Kanton freibestimmbare Ausgaben von mehr als 25 Millionen Franken zur Folge haben,
+- d. Vorlagen, die dem fakultativen Referendum unterliegen, wenn der Kantonsrat dies beschliesst,
+- e. Initiativen, die der Kantonsrat ablehnt,
+- f. Änderungen des Kantonsgebietes, ausgenommen Grenzbereinigungen,
+- g. weitere, im Gesetz vorgesehene Beschlüsse des Kantonsrates.
+
+#### § 24
+
+**Fakultatives Referendum**
+
+<sup>1</sup> Den Stimmberechtigten sind auf Verlangen zur Abstimmung vorzulegen:
+
+- a. Gesetze,
+- b. Beschlüsse des Kantonsrates, mit denen freibestimmbare Ausgaben für Vorhaben im Gesamtbetrag von 3 bis 25 Millionen Franken bewilligt werden; bei wiederkehrenden Ausgaben ist vom Gesamtbetrag der einzelnen Betreffnisse auszugehen; ist dieser nicht feststellbar, ist der zehnfache Betrag einer Jahresausgabe massgebend,
+- c. interkantonale und andere Verträge, die für den Kanton freibestimmbare Ausgaben von 3 bis 25 Millionen Franken zur Folge haben oder Gesetzesrecht beinhalten,
+- d. Vereinigungen oder Aufteilungen von Gemeinden, die der Kantonsrat beschliesst,
+- e. weitere, im Gesetz vorgesehene Beschlüsse des Kantonsrates.
+
+#### § 25
+
+**Verfahrensbestimmungen zum fakultativen Referendum**
+
+<sup>1</sup> 3000 Stimmberechtigte oder ein Viertel der Gemeinden können eine Volksabstimmung verlangen.
+
+<sup>2</sup> Die Frist zur Einreichung der Unterschriften beträgt 60 Tage seit der amtlichen Veröffentlichung der Vorlage.
+
+### 4.1.5 Mitwirkung
+
+#### § 26
+
+**Parteien**
+
+<sup>1</sup> Die politischen Parteien wirken bei der Meinungs- und Willensbildung mit.
+
+<sup>2</sup> Kanton und Gemeinden können sie in dieser Aufgabe unterstützen.
+
+#### § 27
+
+**Vernehmlassungen**
+
+<sup>1</sup> Jede Person hat das Recht, im Rahmen von Vernehmlassungen zu kantonalen Verfassungs- und Gesetzesentwürfen sowie zu weiteren kantonalen Vorhaben von allgemeiner Tragweite Stellung zu nehmen.
+
+<sup>2</sup> Die politischen Parteien, die Gemeinden und die interessierten Kreise werden zur Stellungnahme eingeladen.
+
+### 4.2 Bürgerrecht
+
+#### § 28
+
+<sup>1</sup> Wer das Bürgerrecht einer Luzerner Gemeinde besitzt, ist Bürger oder Bürgerin des Kantons.
+
+<sup>2</sup> Das Gesetz regelt die Einbürgerung.
+
+## 5 Kantonale Behörden
+
+### 5.1 Gemeinsame Bestimmungen
+
+#### § 29
+
+**Grundsätze**
+
+<sup>1</sup> Der Kantonsrat, der Regierungsrat und das Kantonsgericht nehmen die Aufgaben wahr, die ihnen Verfassung und Gesetz zuweisen.
+
+<sup>2</sup> Keine Behörde übt ihre Macht unbegrenzt und unkontrolliert aus.
+
+<sup>3</sup> Die Behörden wirken zusammen und stimmen ihre Tätigkeiten aufeinander ab.
+
+#### § 30
+
+**Wählbarkeit**
+
+<sup>1</sup> In den Kantonsrat, in den Regierungsrat und in die Gerichte ist wählbar, wer in kantonalen Angelegenheiten stimmberechtigt ist.
+
+<sup>2</sup> Das Gesetz kann für die Mitglieder der Gerichte weitere Wählbarkeitsvoraussetzungen festlegen.
+
+#### § 31
+
+**Amtsdauer**
+
+<sup>1</sup> Die Mitglieder des Kantonsrates, des Regierungsrates und der Gerichte werden für vier Jahre gewählt.
+
+<sup>2</sup> Die Wahlen des Kantonsrates und des Regierungsrates finden gleichzeitig statt.
+
+#### § 32
+
+**Eid und Gelübde**
+
+<sup>1</sup> Jedes Mitglied des Kantonsrates, des Regierungsrates und der Gerichte legt vor Amtsantritt den Eid oder das Gelübde ab.
+
+<sup>2</sup> Wer den Eid oder das Gelübde nicht ablegt, verzichtet auf das Amt.
+
+#### § 33
+
+**Unvereinbarkeiten**
+
+<sup>1</sup> Die Mitglieder des Kantonsrates, des Regierungsrates und des Kantonsgerichtes können nur einer dieser Behörden angehören.
+
+<sup>2</sup> Das Gesetz bestimmt, welche weiteren Funktionen in der Kantonsverwaltung und in den Gerichten mit der Mitgliedschaft in diesen Behörden nicht vereinbar sind.
+
+<sup>3</sup> Es legt weitere Unvereinbarkeiten fest.
+
+#### § 34
+
+**Immunität**
+
+<sup>1</sup> Wer von seinem Rederecht im Kantonsrat und in dessen Kommissionen Gebrauch macht, kann für seine Äusserungen rechtlich nicht verantwortlich gemacht werden.
+
+#### § 35
+
+**Information**
+
+<sup>1</sup> Die Behörden informieren die Öffentlichkeit rechtzeitig über ihre Ziele und Tätigkeiten.
+
+### 5.2 Kantonsrat
+
+### 5.2.1 Organisation
+
+#### § 36
+
+**Stellung und Zusammensetzung**
+
+<sup>1</sup> Der Kantonsrat ist die gesetzgebende Behörde des Kantons und führt die Oberaufsicht.
+
+<sup>2</sup> Er besteht aus 120 Mitgliedern.
+
+#### § 37
+
+**Amtsantritt**
+
+<sup>1</sup> Nach der Neuwahl treten die Mitglieder des Kantonsrates vor Ende Juni zur konstituierenden Sitzung zusammen.
+
+#### § 38
+
+**Sitzungen**
+
+<sup>1</sup> Der Kantonsrat versammelt sich regelmässig zu Sitzungen.
+
+<sup>2</sup> Ein Viertel seiner Mitglieder können eine ausserordentliche Sitzung verlangen.
+
+<sup>3</sup> Die Sitzungen des Kantonsrates sind öffentlich. Aus wichtigen Gründen kann die Öffentlichkeit ausgeschlossen werden.
+
+<sup>4</sup> Der Kantonsratspräsident oder die Kantonsratspräsidentin hat den Vorsitz.
+
+#### § 39
+
+**Beschlussfassung**
+
+<sup>1</sup> Der Kantonsrat ist beschlussfähig, wenn die Mehrheit seiner Mitglieder anwesend ist.
+
+<sup>2</sup> Verfassungsänderungen und Gesetze sind zweimal zu beraten.
+
+<sup>3</sup> Im Kantonsrat entscheidet die Mehrheit der gültig abgegebenen Stimmen. Das Gesetz kann für bestimmte Geschäfte eine andere Stimmenzahl festlegen.
+
+#### § 40
+
+**Unabhängigkeit der Mitglieder**
+
+<sup>1</sup> Die Mitglieder des Kantonsrates beraten und stimmen ohne Weisungen.
+
+<sup>2</sup> Sie legen ihre Interessenbindungen offen.
+
+#### § 41
+
+**Kommissionen**
+
+<sup>1</sup> Der Kantonsrat bildet aus seiner Mitte Kommissionen.
+
+<sup>2</sup> Die Kommissionen beraten die Geschäfte vor, treffen Abklärungen, erstatten dem Kantonsrat Bericht und stellen Antrag. Zur Erfüllung ihrer Aufgaben verfügen sie über die vom Gesetz bezeichneten Verfahrensrechte und besonderen Untersuchungsbefugnisse.
+
+<sup>3</sup> Die Sitzungen der Kommissionen sind nicht öffentlich. Die Kommissionen können Ausnahmen beschliessen.
+
+#### § 42
+
+**Fraktionen**
+
+<sup>1</sup> Die Mitglieder des Kantonsrates können sich zu Fraktionen zusammenschliessen.
+
+<sup>2</sup> Fraktionen bestehen aus mindestens fünf Kantonsratsmitgliedern.
+
+#### § 43
+
+**Verhältnis zum Regierungsrat**
+
+<sup>1</sup> Der Kantonsrat kann vom Regierungsrat die Vorbereitung von Geschäften verlangen, deren Behandlung in seiner Zuständigkeit liegt.
+
+<sup>2</sup> Arbeitet der Kantonsrat ein Geschäft selbst aus, legt er es dem Regierungsrat zur Stellungnahme vor.
+
+### 5.2.2 Aufgaben
+
+#### § 44
+
+**Wahlen**
+
+<sup>1</sup> Der Kantonsrat wählt
+
+- a. aus seiner Mitte einen Präsidenten oder eine Präsidentin und einen Vizepräsidenten oder eine Vizepräsidentin für ein Jahr,
+- b. seine Kommissionen,
+- c. den Regierungspräsidenten oder die Regierungspräsidentin und den Vizepräsidenten oder die Vizepräsidentin für ein Jahr,
+- d. auf Antrag des Regierungsrates den Staatsschreiber oder die Staatsschreiberin für vier Jahre,
+- e. die Mitglieder der Gerichte und für zwei Jahre das Präsidium des Kantonsgerichtes.
+
+<sup>2</sup> Das Gesetz kann weitere Wahlzuständigkeiten festlegen.
+
+<sup>3</sup> Bei seinen Wahlen berücksichtigt der Kantonsrat die Vertretung der politischen Parteien in angemessener Weise.
+
+#### § 45
+
+**Rechtsetzung**
+
+<sup>1</sup> Der Kantonsrat erlässt die wichtigen Rechtssätze in der Form des Gesetzes.
+
+<sup>2</sup> Zu den wichtigen Rechtssätzen gehören insbesondere die Bestimmungen, für welche die Kantonsverfassung ausdrücklich ein Gesetz vorsieht, und die wesentlichen Bestimmungen über
+
+- a. die Rechtsstellung Einzelner, namentlich bei der Ausübung der politischen Rechte,
+- b. die Organisation der Behörden und die Verfahren,
+- c. die Aufgaben des Kantons und Zweck, Art und Umfang seiner Leistungen,
+- d. den Gegenstand von Abgaben, die Grundsätze ihrer Bemessung und den Kreis der Abgabepflichtigen mit Ausnahme von Gebühren in geringer Höhe.
+
+<sup>3</sup> Das Gesetz kann die Befugnis, Rechtssätze zu erlassen, dem Regierungsrat, dem Kantonsgericht oder den mit der Erfüllung öffentlicher Aufgaben beauftragten weiteren Personen und Organisationen übertragen, soweit dies nicht durch die Kantonsverfassung ausgeschlossen wird.
+
+<sup>4</sup> Der Kantonsrat kann in den Bereichen Organisation und Personal Verordnungen erlassen, soweit das Gesetz dies vorsieht.
+
+#### § 46
+
+**Planung**
+
+<sup>1</sup> Der Kantonsrat behandelt grundlegende Planungsvorlagen.
+
+#### § 47
+
+**Finanzgeschäfte**
+
+<sup>1</sup> Der Kantonsrat beschliesst über
+
+- a. die jährliche Festsetzung des Voranschlags und des Steuerfusses,
+- b. die Ausgaben, welche die Befugnisse des Regierungsrates übersteigen,
+- c. die Genehmigung der Jahresrechnung und weiterer Rechnungen, soweit das Gesetz dies vorsieht.
+
+#### § 48
+
+**Verträge**
+
+<sup>1</sup> Der Kantonsrat genehmigt interkantonale Verträge und Verträge mit rechtsetzendem Inhalt, soweit nicht der Regierungsrat allein für den Abschluss zuständig ist.
+
+<sup>2</sup> Der Regierungsrat konsultiert die Kommissionen des Kantonsrates zu Verhandlungen im Hinblick auf den Abschluss genehmigungspflichtiger Verträge.
+
+#### § 49
+
+**Weitere Geschäfte**
+
+<sup>1</sup> Der Kantonsrat
+
+- a. übt die Rechte auf Einreichung des fakultativen Referendums und der Kantonsinitiative beim Bund aus,
+- b. entscheidet Zuständigkeitskonflikte zwischen dem Kantonsrat, dem Regierungsrat und dem Kantonsgericht,
+- c. beschliesst über Amnestien und Begnadigungen,
+- d. behandelt Petitionen,
+- e. entscheidet über die Gültigkeit von Volksinitiativen,
+- f. behandelt weitere Geschäfte, die ihm das Gesetz zuweist.
+
+#### § 50
+
+**Oberaufsicht**
+
+<sup>1</sup> Der Kantonsrat hat die Oberaufsicht über den Regierungsrat, die Verwaltung und andere Träger öffentlicher Aufgaben sowie über die Geschäftsführung des Kantonsgerichtes.
+
+<sup>2</sup> Er behandelt namentlich die Rechenschaftsberichte.
+
+### 5.3 Regierungsrat
+
+### 5.3.1 Organisation
+
+#### § 51
+
+**Stellung und Zusammensetzung**
+
+<sup>1</sup> Der Regierungsrat ist die oberste leitende und vollziehende Behörde des Kantons.
+
+<sup>2</sup> Er besteht aus fünf Mitgliedern.
+
+<sup>3</sup> Der Regierungspräsident oder die Regierungspräsidentin hat den Vorsitz.
+
+#### § 52
+
+**Amtsantritt**
+
+<sup>1</sup> Nach der Gesamterneuerungswahl treten die Mitglieder des Regierungsrates ihr Amt am 1. Juli an.
+
+#### § 53
+
+**Kollegialprinzip**
+
+<sup>1</sup> Der Regierungsrat fasst und vertritt seine Beschlüsse als Kollegialbehörde.
+
+#### § 54
+
+**Verhältnis zum Kantonsrat**
+
+<sup>1</sup> Der Regierungsrat bereitet die Geschäfte des Kantonsrates vor, sofern dieser sie nicht selbständig ausarbeitet.
+
+<sup>2</sup> Die Mitglieder des Regierungsrates nehmen beratend an den Sitzungen des Kantonsrates und seiner Kommissionen teil und können Anträge stellen. Das Gesetz kann für die Sitzungsteilnahme Ausnahmen vorsehen.
+
+<sup>3</sup> Der Staatsschreiber oder die Staatsschreiberin stellt die Koordination zwischen dem Regierungsrat und dem Kantonsrat sicher und leitet die Staatskanzlei.
+
+### 5.3.2 Aufgaben
+
+#### § 55
+
+**Regierungstätigkeit**
+
+<sup>1</sup> Der Regierungsrat
+
+- a. plant und koordiniert die Ziele und Mittel für die Erfüllung der kantonalen Aufgaben,
+- b. vertritt den Kanton nach innen und aussen,
+- c. pflegt die Beziehungen mit den Behörden inner- und ausserhalb des Kantons.
+
+#### § 56
+
+**Rechtsetzung**
+
+<sup>1</sup> Der Regierungsrat erlässt Vollzugsverordnungen und, soweit ihn das Gesetz dazu ermächtigt, weitere Verordnungen.
+
+<sup>2</sup> Er kann in Fällen zeitlicher Dringlichkeit Verordnungen zur Einführung übergeordneten Rechts erlassen. Diese Verordnungen sind innert zweier Jahre in das ordentliche Recht zu überführen.
+
+<sup>3</sup> Um ausserordentlichen Lagen, wie unmittelbar drohenden erheblichen Störungen der öffentlichen Sicherheit oder sozialen Notständen, zu begegnen, kann der Regierungsrat die notwendigen Verordnungen erlassen. Diese Verordnungen fallen spätestens zwei Jahre nach ihrem Inkrafttreten dahin.
+
+#### § 57
+
+**Führung der Verwaltung**
+
+<sup>1</sup> Der Regierungsrat führt die kantonale Verwaltung und bestimmt ihre Aufgaben.
+
+<sup>2</sup> Die Mitglieder des Regierungsrates stehen je einem Departement vor.
+
+#### § 58
+
+**Finanzgeschäfte**
+
+<sup>1</sup> Der Regierungsrat entwirft den Voranschlag und erstellt die Jahresrechnung sowie weitere Rechnungen.
+
+<sup>2</sup> Er beschliesst über
+
+- a. einmalige freibestimmbare Ausgaben bis zu dem im Gesetz festgelegten Betrag,
+- b. nicht im Voranschlag enthaltene gebundene Ausgaben,
+- c. die Bewirtschaftung der Anlagen des Finanzvermögens,
+- d. die Beschaffung der für die Finanzierung notwendigen Mittel.
+
+#### § 59
+
+**Verträge**
+
+<sup>1</sup> Der Regierungsrat führt die Verhandlungen bei interkantonalen und anderen Verträgen.
+
+<sup>2</sup> Er schliesst Verträge unter Vorbehalt des Genehmigungsrechtes des Kantonsrates ab.
+
+<sup>3</sup> Er ist allein für den Abschluss zuständig
+
+- a. innerhalb seiner Finanz- und Rechtsetzungsbefugnisse,
+- b. wenn ihn ein Gesetz oder ein genehmigter Vertrag dazu ermächtigt.
+
+#### § 60
+
+**Weitere Geschäfte**
+
+<sup>1</sup> Der Regierungsrat
+
+- a. sorgt für die Umsetzung der Gesetzgebung und der Beschlüsse des Kantonsrates sowie für die Umsetzung und Durchsetzung der rechtskräftigen Urteile,
+- b. entscheidet über Beschwerden, soweit das Gesetz dies vorsieht,
+- c. trifft Massnahmen zur Wahrung der öffentlichen Ordnung und Sicherheit,
+- d. legt Rechenschaft über die kantonale Verwaltung ab,
+- e. übt die Mitwirkung im Bund aus, soweit nicht der Kantonsrat zuständig ist,
+- f. behandelt weitere Geschäfte, die ihm die Rechtsordnung zuweist.
+
+### 5.4 Gerichte
+
+#### § 61
+
+**Grundsätze**
+
+<sup>1</sup> Der Kanton gewährleistet eine unabhängige, unparteiische und verlässliche Rechtsprechung.
+
+<sup>2</sup> Wo es die Art der Rechtssache zulässt, soll Vermittlung angeboten und Verständigung angestrebt werden.
+
+#### § 62
+
+**Aufgabe und Organisation**
+
+<sup>1</sup> Die Gerichte entscheiden über Rechtsstreitigkeiten in Zivil-, Straf- und Verwaltungssachen.
+
+<sup>2</sup> Das Gesetz regelt Organisation, Zuständigkeit und Verfahren und bezeichnet die weiteren Justizbehörden.
+
+<sup>3</sup> Es können interkantonale Justizbehörden geschaffen werden.
+
+#### § 63
+
+**Kantonsgericht**
+
+<sup>1</sup> Das Kantonsgericht ist die oberste richterliche Behörde des Kantons.
+
+<sup>2</sup> Es urteilt in Abteilungen, denen Sachgebiete zugewiesen sind.
+
+<sup>3</sup> Das Gesetz bestimmt die Wahl- und die Rechtsetzungsbefugnisse.
+
+#### § 64
+
+**Erstinstanzliche Gerichtsbarkeit**
+
+<sup>1</sup> Das Gesetz sieht erstinstanzliche Gerichte für Zivil- und Strafsachen vor und bezeichnet die erstinstanzlichen richterlichen Behörden für Verwaltungssachen.
+
+<sup>2</sup> Es regelt die richterlichen Aufgaben der Strafverfolgungsbehörden und die Strafbefugnis von Verwaltungsbehörden des Kantons und der Gemeinden.
+
+#### § 65
+
+**Gerichtsverwaltung**
+
+<sup>1</sup> Das Kantonsgericht leitet die Gerichtsverwaltung.
+
+<sup>2</sup> Es stellt dem Kantonsrat und dem Regierungsrat Anträge und vertritt alle ihm unterstellten Justizbehörden.
+
+<sup>3</sup> Es erstattet dem Kantonsrat Bericht.
+
+#### § 66
+
+**Aufsicht**
+
+<sup>1</sup> Das Kantonsgericht übt die Aufsicht über die übrigen Gerichte und die anderen ihm unterstellten Justizbehörden aus.
+
+<sup>2</sup> Durch Gesetz können weitere Aufsichtsorgane eingesetzt werden.
+
+### 5.5 Ombudsstelle
+
+#### § 67
+
+<sup>1</sup> Durch Gesetz kann eine Ombudsstelle geschaffen werden. Sie vermittelt in Konflikten zwischen Privaten und Behörden.
+
+## 6 Gemeinden
+
+#### § 68
+
+**Stellung**
+
+<sup>1</sup> Die Gemeinden sind öffentlich-rechtliche Gebietskörperschaften und haben im Rahmen des kantonalen Rechts Rechtsetzungs- und Entscheidungsbefugnisse.
+
+<sup>2</sup> Die Autonomie der Gemeinden ist gewährleistet. Die Gesetzgebung bestimmt ihren Umfang und gewährt einen möglichst grossen Handlungsspielraum.
+
+#### § 69
+
+**Aufgaben**
+
+<sup>1</sup> Die Gemeinden erfüllen ihre eigenen und die ihnen vom Kanton übertragenen Aufgaben.
+
+#### § 70
+
+**Organisation**
+
+<sup>1</sup> Die Gemeinden geben sich eine demokratische Organisation und legen deren Grundzüge in einer Gemeindeordnung fest.
+
+<sup>2</sup> Organe der Gemeinden sind insbesondere die Stimmberechtigten und der Gemeinderat. Die Gemeinden können ein Parlament einsetzen.
+
+#### § 71
+
+**Zusammenarbeit der Gemeinden**
+
+<sup>1</sup> Die Gemeinden können zusammenarbeiten. Die Mitwirkungsrechte der Stimmberechtigten sind zu wahren.
+
+<sup>2</sup> Das Gesetz kann Gemeinden zur Zusammenarbeit verpflichten, wenn eine Aufgabe nur so zweckmässig erfüllt werden kann.
+
+<sup>3</sup> Der Kanton ermöglicht die Zusammenarbeit mit Gemeinden benachbarter Kantone.
+
+#### § 72
+
+**Zusammenarbeit zwischen Kanton und Gemeinden**
+
+<sup>1</sup> Kanton und Gemeinden arbeiten partnerschaftlich zusammen.
+
+<sup>2</sup> Der Kanton fördert die Gemeinden mit dem Ziel, ihre Leistungsfähigkeit und Wirtschaftlichkeit zu steigern. Er unterstützt insbesondere die Zusammenarbeit der Gemeinden und kann Gebietsreformen fördern.
+
+#### § 73
+
+**Aufsicht**
+
+<sup>1</sup> Die Gemeinden sorgen bei der Aufgabenerfüllung und der Festlegung ihrer Organisation für eine wirksame Kontrolle und Steuerung.
+
+<sup>2</sup> Der Kanton bezeichnet die Behörden, welche die Gemeinden unter Respektierung ihres Gestaltungsfreiraumes beaufsichtigen. Das Gesetz regelt die aufsichtsrechtlichen Massnahmen. [^73-1]
+
+<sup>3</sup> Die Gemeindeerlasse sind dem Kanton zur Genehmigung zu unterbreiten, sofern das Gesetz dies vorsieht. Wenn das Gesetz nichts anderes festlegt, beschränkt sich die Prüfung der Erlasse auf deren Rechtmässigkeit.
+
+[^73-1]: Änderung in der Volksabstimmung am 24. November 2013 angenommen, von den eidgenössischen Räten am 3. März 2016 gewährleistet (vgl. Änderungstabellen am Schluss).
+
+#### § 74
+
+**Veränderungen in Bestand und Gebiet der Gemeinden**
+
+<sup>1</sup> Über Veränderungen im Bestand und im Gebiet von Gemeinden beschliessen deren Stimmberechtigte.
+
+<sup>2</sup> Vereinigungen und Aufteilungen von Gemeinden bedürfen der Genehmigung des Kantonsrates, Verlegungen von Gemeindegrenzen jener des Regierungsrates.
+
+<sup>3</sup> Auf Antrag einer betroffenen Gemeinde kann der Kantonsrat die Vereinigung oder die Aufteilung von Gemeinden beschliessen, sofern eine wirksame und wirtschaftliche Aufgabenerfüllung dies erfordert. Die betroffenen Gemeinden sind anzuhören. Der Beschluss unterliegt dem fakultativen Referendum.
+
+<sup>4</sup> Haben Bestandes- oder Gebietsveränderungen einen Kantonswechsel zur Folge, bedürfen sie der Zustimmung der Stimmberechtigten der betroffenen Gemeinden und des Kantons.
+
+#### § 75
+
+**Korporationen**
+
+<sup>1</sup> Korporationen sind öffentlich-rechtliche Körperschaften nach kantonalem Recht. Das Gesetz regelt das Nähere.
+
+## 7 Finanzordnung
+
+#### § 76
+
+**Finanzhaushalt**
+
+<sup>1</sup> Kanton und Gemeinden verwenden die öffentlichen Mittel wirtschaftlich und wirksam.
+
+<sup>2</sup> Das Gesetz stellt sicher, dass die Finanzhaushalte von Kanton und Gemeinden ausgeglichen sind und allfällige Fehlbeträge innert einer angemessenen Frist abgetragen werden.
+
+<sup>3</sup> Die Finanzhaushalte von Kanton und Gemeinden sind unabhängig und fachkundig zu prüfen.
+
+#### § 77
+
+**Beschaffung von Mitteln**
+
+<sup>1</sup> Kanton und Gemeinden beschaffen ihre Mittel insbesondere
+
+- a. durch Erhebung von Steuern und anderen Abgaben,
+- b. aus Leistungen des Bundes und Dritter,
+- c. aus Anlagen und ihren Erträgen,
+- d. durch Aufnahme von Darlehen und von Anleihen.
+
+#### § 78
+
+**Finanzausgleich**
+
+<sup>1</sup> Der Kanton sorgt für einen angemessenen Ausgleich der finanziellen Leistungsfähigkeit der Gemeinden.
+
+<sup>2</sup> Er stärkt ihre finanzielle Autonomie, insbesondere indem er ihnen ausreichende Finanzierungsquellen belässt.
+
+## 8 Religionsgemeinschaften
+
+#### § 79
+
+**Öffentlich-rechtliche Anerkennung**
+
+<sup>1</sup> Die römisch-katholische, die evangelisch-reformierte und die christkatholische Landeskirche sind anerkannte Körperschaften des öffentlichen Rechts.
+
+<sup>2</sup> Der Kantonsrat kann weitere Religionsgemeinschaften als öffentlich-rechtliche Körperschaften anerkennen. Das Gesetz regelt die Voraussetzungen und das Verfahren.
+
+#### § 80
+
+**Organisation und Finanzierung**
+
+<sup>1</sup> Die öffentlich-rechtlichen Körperschaften sind autonom. Sie regeln das Stimm- und Wahlrecht ihrer Mitglieder und die Grundzüge ihrer Organisation in einem Erlass, der ihren Stimmberechtigten zur Abstimmung vorzulegen ist.
+
+<sup>2</sup> Der Erlass kann eine Gliederung in öffentlich-rechtliche Gebietskörperschaften vorsehen.
+
+<sup>3</sup> Die Körperschaften sind berechtigt, bei ihren Mitgliedern und bei juristischen Personen Steuern zu erheben.
+
+<sup>4</sup> Die Erträge der Besteuerung juristischer Personen sind für soziale und kulturelle Tätigkeiten einzusetzen.
+
+<sup>5</sup> Das Gesetz regelt das Nähere.
+
+## 9 Änderung der Kantonsverfassung
+
+#### § 81
+
+**Grundsatz**
+
+<sup>1</sup> Die Kantonsverfassung kann jederzeit ganz oder teilweise geändert werden.
+
+#### § 82
+
+**Teilrevision**
+
+<sup>1</sup> Mit einer Teilrevision können einzelne Verfassungsbestimmungen oder mehrere sachlich zusammenhängende Verfassungsbestimmungen geändert werden.
+
+## 10 Schlussbestimmungen
+
+#### § 83
+
+**Aufhebung der Staatsverfassung**
+
+<sup>1</sup> Die Staatsverfassung des Kantons Luzern vom 29. Januar 1875[^83-1] wird aufgehoben.
+
+[^83-1]: G VI 79 und Z I 41 (SRL Nr. 1). Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.
+
+#### § 84
+
+**Beschränkte Weitergeltung bisherigen Rechts**
+
+<sup>1</sup> Erlasse, die von einer Behörde beschlossen wurden, die nicht mehr zuständig ist, oder die in einem Verfahren beschlossen wurden, das nicht mehr gleich geregelt ist, bleiben in Kraft. Ihre Änderung richtet sich nach neuem Recht.
+
+<sup>2</sup> Die Mitglieder der Behörden bleiben bis zum Ablauf der Amtsperiode nach bisherigem Recht im Amt.
+
+<sup>3</sup> Bis zur gesetzlichen Neuordnung der obersten richterlichen Behörde nach den §§ 63, 65 und 66 gelten die §§ 73, 77 und 86<sup>bis</sup> der Staatsverfassung von 1875[^84-1]. Die übrigen Bestimmungen dieser Verfassung über die Gerichte gelten sinngemäss für das Obergericht und das Verwaltungsgericht.
+
+<sup>4</sup> Bis zu einer neuen gesetzlichen Regelung bilden die Stadt Luzern, die übrigen Gemeinden des Amtes Luzern, die Gemeinden des Amtes Hochdorf, jene des Amtes Sursee, jene des Amtes Willisau und jene des Amtes Entlebuch je einen Wahlkreis nach bisherigem Recht.
+
+<sup>5</sup> Für Initiativen und Referenden, bei denen im Zeitpunkt des Inkrafttretens dieser Verfassung die Sammelfrist läuft oder bei denen die Volksabstimmung ausstehend ist, gilt bisheriges Recht.
+
+<sup>6</sup> Bis zum Inkrafttreten einer gesetzlichen Regelung gelten die §§ 17, 45 Absatz 3[^84-2], 75 Absatz 1, 85[^84-3], 91 und 92 der Staatsverfassung von 1875[^84-4] weiter.
+
+[^84-1]: Das Gesetz über die Schaffung des Kantonsgerichtes vom 14. Mai 2012 trat am 1. Juni 2013 in Kraft (G 2012 189).
+[^84-2]: Weitergeltung beendet durch Änderung des Stimmrechtsgesetzes vom 25. Januar 2010, in Kraft seit dem 26. September 2010 (G 2010 217).
+[^84-3]: Weitergeltung beendet durch Gesetz über die Organisation der Gerichte und Behörden in Zivil- und Strafverfahren vom 10. Mai 2010, in Kraft seit dem 1. Januar 2011 (G 2010 129).
+[^84-4]: siehe Anhang 2
+
+#### § 85
+
+**Neuwahlen**
+
+<sup>1</sup> Die nächsten Neuwahlen der Gemeinderäte und der Gemeindeparlamente sowie der Amtsgerichte finden im Jahr 2008 statt.
+
+<sup>2</sup> Die nächsten Neuwahlen des Kantonsrates, des Regierungsrates und der Luzerner Mitglieder des Ständerates finden im Jahr 2011 statt.
+
+<sup>3</sup> Die Wahl der Mitglieder des Ständerates findet gleichzeitig mit der Neuwahl des Nationalrates statt.
+
+#### § 86
+
+**Referendum der Gemeinden**
+
+<sup>1</sup> Die Stimmberechtigten oder, wenn ein solches besteht, das Gemeindeparlament sind zuständig, für die Gemeinde das Referendum zu ergreifen, sofern in der Gemeindeordnung kein anderes Organ bestimmt ist.
+
+#### § 87
+
+**Formelle Anpassung von Teilrevisionen**
+
+<sup>1</sup> Änderungen der Staatsverfassung von 1875 nach Verabschiedung dieser Verfassung durch den Grossen Rat werden formal an diese Verfassung angepasst. Die entsprechenden Beschlüsse des Grossen Rates unterliegen nicht dem Referendum.
+
+#### § 88
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verfassung tritt am 1. Januar 2008 in Kraft.
+
+K 2007 253 | G 2007 189

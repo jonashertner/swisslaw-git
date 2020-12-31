@@ -1,0 +1,97 @@
+---
+canton: LU
+number: "415"
+title: Verordnung über die kommunalen Musikschulen
+language: de
+version: 2020-08-01
+valid_until: 2023-07-31
+version_adopted: 2020-03-10
+adopted: 2010-04-27
+in_force: 2010-08-01
+url: "https://srl.lu.ch/app/de/texts_of_law/415"
+pdf: "https://srl.lu.ch/api/de/versions/3610/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die kommunalen Musikschulen
+
+vom 27.04.2010 (Stand 01.08.2020)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf § 56 Absatz 5 des Gesetzes über die Volksschulbildung vom 22. März 1999[^ingress-1],
+
+auf Antrag des Bildungs- und Kulturdepartementes,
+
+beschliesst:
+
+[^ingress-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de)
+
+#### § 1
+
+**Kommunale Organisation**
+
+<sup>1</sup> Die zuständige kommunale Behörde bezeichnet ein verantwortliches Gremium für die Belange der Musikschule, erlässt eine Verordnung oder ein Reglement für die Musikschule und legt den Leistungsauftrag fest.
+
+<sup>2</sup> Jede Musikschule wird von einer Musikschulleitung geführt. Die Musikschule gibt sich ein Leitbild.
+
+#### § 2
+
+**Anerkennung durch den Kanton**
+
+<sup>1</sup> Musikschulen, welche die Vorgaben gemäss den §§ 1, 3 und 4 erfüllen und eine sinnvolle Grösse aufweisen, werden von der Dienststelle Volksschulbildung anerkannt. Die Anerkennung ist Voraussetzung für die Beitragsberechtigung.
+
+#### § 3
+
+**Qualitätssicherung und -entwicklung**
+
+<sup>1</sup> Die Dienststelle Volksschulbildung unterstützt die Musikschulleitungen bei der Qualitätssicherung und -entwicklung durch geeignete Instrumente und Weiterbildungskurse. Sie überwacht die Einhaltung der kantonalen Vorgaben.
+
+#### § 4
+
+**Lehrpersonen**
+
+<sup>1</sup> Lehrpersonen an kommunalen Musikschulen verfügen in der Regel über eine fachgemässe Ausbildung. Ausnahmsweise können Lehrpersonen angestellt werden, welche nicht oder noch nicht über eine fachgemässe Ausbildung verfügen.
+
+<sup>2</sup> Die Besoldungseinreihung erfolgt nach der Besoldungsverordnung für die Lehrpersonen und die Fachpersonen der schulischen Dienste vom 17. Juni 2005[^4-1].
+
+[^4-1]: SRL Nr. [75](https://srl.lu.ch/data/75/de)
+
+#### § 5
+
+**Kantonsbeiträge**
+
+<sup>1</sup> Der Kanton leistet den Trägergemeinden an die Betriebskosten der Musikschulen einen gewichteten Kantonsbeitrag von durchschnittlich 975 Franken pro Lernenden oder Lernende und Schuljahr. Bei der Gewichtung werden die Lektionsdauer, die Art des Unterrichts und die Ausbildung der Lehrpersonen berücksichtigt.
+
+<sup>1<sup>bis</sup></sup> Die Kantonsbeiträge werden für Lernende bis zum Abschluss einer Ausbildung auf der Sekundarstufe II und längstens bis zur Erfüllung des 20. Altersjahres ausgerichtet.
+
+<sup>2</sup> Für die Berechnung der Kantonsbeiträge ist die Anzahl Lernender am 1. November des Vorjahres massgebend.
+
+<sup>3</sup> Die Dienststelle Volksschulbildung berechnet die Beiträge und zahlt sie jeweils im ersten Quartal des Kalenderjahres aus.
+
+#### § 6
+
+**Kantonale Musikschulkommission**
+
+<sup>1</sup> Der Regierungsrat wählt eine kantonale Musikschulkommission mit höchstens sieben Mitgliedern. Diese setzt sich aus mindestens je einem Mitglied des Verbandes Luzerner Gemeinden, der Musikschulen und der Lehrpersonen der Musikschulen sowie einer Vertretung der Hochschule Luzern - Musik zusammen.
+
+<sup>2</sup> Die Kommission hat insbesondere folgende Aufgaben:
+
+- a. Mitwirkung bei der Erarbeitung der Instrumente zur Qualitätssicherung und ‑entwicklung,
+- b. Mitwirkung bei der Erarbeitung des Weiterbildungsangebotes für Musikschullehrpersonen,
+- c. Unterstützung der Dienststelle Volksschulbildung bei der Anerkennung der Musikschulen.
+
+#### § 7
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die Gemeinden haben die kantonalen Vorgaben innert zwei Jahren seit Inkrafttreten dieser Verordnung zu erfüllen.
+
+#### § 8
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verordnung tritt am 1. August 2010 in Kraft. Sie ist zu veröffentlichen.
+
+G 2010 67

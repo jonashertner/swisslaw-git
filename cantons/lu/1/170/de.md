@@ -1,0 +1,934 @@
+---
+canton: LU
+number: "170"
+title: Gesetz über die Korporationen
+language: de
+version: 2018-01-01
+valid_until: 2023-02-28
+version_adopted: 2016-06-20
+adopted: 2013-12-09
+in_force: 2014-07-01
+url: "https://srl.lu.ch/app/de/texts_of_law/170"
+pdf: "https://srl.lu.ch/api/de/versions/3158/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Korporationen
+
+vom 09.12.2013 (Stand 01.01.2018)
+
+Der Kantonsrat des Kantons Luzern,
+
+nach Einsicht in die Botschaft des Regierungsrates vom 25. Juni 2013[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: KR 2013 1722
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz ist anwendbar auf die Korporationen des Kantons Luzern.
+
+#### § 2
+
+**Rechtsstellung der Korporationen**
+
+<sup>1</sup> Die Korporationen sind öffentlich-rechtliche Körperschaften mit Gemeindestatus.
+
+<sup>2</sup> Die Autonomie der Korporationen ist in ihrem Aufgabenbereich gewährleistet. Ihr Umfang wird durch die kantonale und die eidgenössische Gesetzgebung bestimmt.
+
+<sup>3</sup> Die Korporationen haben im Rahmen des übergeordneten Rechts in ihrem Aufgabenbereich hoheitliche Rechtsetzungs- und Entscheidungsbefugnisse.
+
+#### § 3
+
+**Rechtsetzung**
+
+<sup>1</sup> Die Korporation beschliesst im Rahmen des übergeordneten Rechts in ihrem Aufgabenbereich rechtsetzende Erlasse.
+
+<sup>2</sup> Die Stimmberechtigten beschliessen rechtsetzende Erlasse in der Form von Reglementen; der Korporationsrat erlässt Verordnungen.
+
+<sup>3</sup> Die Korporation regelt die Grundzüge ihrer Organisation im Korporationsreglement. Das Korporationsreglement geht dem übrigen Recht der Korporation vor.
+
+## 2 Verwaltung des Korporationsgutes
+
+#### § 4
+
+**Aufgabe**
+
+<sup>1</sup> Die Korporationen verwalten das Korporationsgut nach diesem Gesetz und ihren rechtsetzenden Erlassen.
+
+<sup>2</sup> Sie leisten angemessene Beiträge für öffentliche, gemeinnützige und kulturelle Zwecke.
+
+#### § 5
+
+**Grundsätze**
+
+<sup>1</sup> Die Korporationen sind befugt, innerhalb des gesetzlichen Rahmens die Verwaltung und die Nutzung ihres Vermögens in ihrem Korporationsreglement frei zu regeln.
+
+<sup>2</sup> Dabei sind folgende Grundsätze zu beachten:
+
+- a. Das Korporationsvermögen ist Eigentum der Korporation.
+- b. Die Vermögenssubstanz ist zu erhalten und darf nicht an die Korporationsbürgerinnen und -bürger zu Eigentum verteilt werden.
+- c. Aus dem Ertragsüberschuss des Vermögens sind vor der Ausschüttung eines Bürgernutzens angemessene Beiträge für öffentliche, gemeinnützige und kulturelle Zwecke zu leisten.
+- d. Alle Bürgerinnen und Bürger sind in Bezug auf die Nutzungsberechtigung gleichzubehandeln. Personalkorporationen dürfen die Nutzungsberechtigung im Korporationsreglement aus sachlichen Gründen beschränken.
+
+## 3 Bürgerrecht
+
+### 3.1 Personalkorporation
+
+#### § 6
+
+**Erwerb**
+
+<sup>1</sup> Das Bürgerrecht der Personalkorporation wird durch Abstammung, Adoption oder Einbürgerung erworben.
+
+<sup>2</sup> Es setzt das Bürgerrecht der Gemeinde voraus, zu der die Personalkorporation gebietsmässig gehört.
+
+#### § 7
+
+**Erwerb durch Abstammung und Adoption**
+
+<sup>1</sup> Gibt ein Korporationsbürger oder eine Korporationsbürgerin dem minderjährigen Kind das Gemeindebürgerrecht weiter, so erwirbt dieses gleichzeitig das Korporationsbürgerrecht.
+
+#### § 8
+
+**Erwerb durch Einbürgerung**
+
+<sup>1</sup> Ortsansässige Gemeindebürgerinnen und -bürger können auf Gesuch hin in die in der Gemeinde bestehende Korporation eingebürgert werden.
+
+<sup>2</sup> Das Korporationsreglement kann die Einbürgerung von nicht ortsansässigen Gemeindebürgerinnen und -bürgern vorsehen.
+
+<sup>3</sup> Die Stimmberechtigten der Korporation haben die Einbürgerungsvoraussetzungen in einem rechtsetzenden Erlass zu regeln.
+
+<sup>4</sup> Ehegatten und Kinder von Korporationsbürgerinnen und -bürgern, welche das Gemeindebürgerrecht nachträglich erwerben, werden auf Gesuch hin durch Beschluss des Korporationsrates erleichtert eingebürgert. Sie haben keine Einbürgerungstaxe zu entrichten.
+
+#### § 9
+
+**Einbürgerungstaxe**
+
+<sup>1</sup> Von den Eingebürgerten, mit Ausnahme erleichtert Eingebürgerter nach § 8 Absatz 4, kann eine Einbürgerungstaxe verlangt werden.
+
+<sup>2</sup> Die Einbürgerungstaxe muss zu den ideellen und materiellen Vorteilen, die sich aus dem Erwerb des Korporationsbürgerrechts ergeben, in einem angemessenen Verhältnis stehen.
+
+<sup>3</sup> Die Einbürgerungstaxe für eine Einzelperson darf 5000 Franken nicht überschreiten. Diesem Betrag liegt der Stand des Landesindexes der Konsumentenpreise (Basisindex Dezember 2010 = 100 Punkte) im Zeitpunkt des Inkrafttretens der vorliegenden Bestimmung zugrunde. Erhöht sich dieser Index um mehr als 5 Punkte, kann ab 1. Januar des folgenden Jahres entsprechend von einem höheren Höchstbetrag ausgegangen werden.
+
+#### § 10
+
+**Korporationsbürgerverzeichnis**
+
+<sup>1</sup> Die Korporation führt ein Verzeichnis der Korporationsbürgerinnen und -bürger.
+
+<sup>2</sup> Das Korporationsbürgerverzeichnis enthält mindestens die Namen, Vornamen, Geburtsdaten und Adressen aller stimmberechtigten Korporationsbürgerinnen und -bürger.
+
+<sup>3</sup> Die Einwohnergemeinden liefern der Korporation auf Anfrage die nötigen Angaben zur Führung des Verzeichnisses.
+
+#### § 11
+
+**Verlust des Korporationsbürgerrechts**
+
+<sup>1</sup> Das Korporationsbürgerrecht erlischt mit dem Verlust des Gemeindebürgerrechts oder mit der Entlassung zufolge Verzichts.
+
+#### § 12
+
+**Verfahren**
+
+<sup>1</sup> Der Korporationsrat ist zuständig für die Erteilung des Korporationsbürgerrechts, die Festlegung der Einbürgerungstaxe und die Entscheide über die Entlassung zufolge Verzichts auf das Korporationsbürgerrecht.
+
+<sup>2</sup> Die Stimmberechtigten können das Recht auf Erteilung des Korporationsbürgerrechts – mit Ausnahme der erleichterten Einbürgerung nach § 8 Absatz 4 – der Korporationsversammlung, dem Korporationsparlament oder einer Kommission übertragen.
+
+<sup>3</sup> Die Korporation erhebt für die Bearbeitung der Einbürgerungsgesuche und der Gesuche um Entlassung aus dem Bürgerrecht höchstens kostendeckende Gebühren.
+
+<sup>4</sup> Gegen Entscheide über die Erteilung des Korporationsbürgerrechts, die Festlegung der Einbürgerungstaxe und die Entlassung aus dem Bürgerrecht ist die Verwaltungsbeschwerde an den Regierungsrat zulässig. Beschwerdeentscheide des Regierungsrates sind mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht anfechtbar.
+
+### 3.2 Realkorporation
+
+#### § 13
+
+**Erwerb**
+
+<sup>1</sup> Bürger oder Bürgerin einer Realkorporation ist, wer ein entsprechendes Realrecht besitzt.
+
+#### § 14
+
+**Verzeichnis der Realrechte**
+
+<sup>1</sup> Die Realkorporation führt ein Verzeichnis über die mit einem Realrecht verbundenen Grundstücke, Gebäude oder Gebäudeteile, die Anzahl der dazugehörenden Realrechte (Gerechtigkeiten) und deren Eigentümerinnen und Eigentümer.
+
+<sup>2</sup> Im Verzeichnis sind die den einzelnen Korporationsbürgerinnen und -bürgern zustehenden Stimmrechte anzugeben.
+
+### 3.3 Gemischte Korporation
+
+#### § 15
+
+<sup>1</sup> Bei gemischten Korporationen richtet sich das Bürgerrecht für die Personalberechtigten nach den §§ 6–12 und für die Realberechtigten nach den §§ 13 und 14.
+
+## 4 Organisation
+
+### 4.1 Stimmberechtigte
+
+#### § 16
+
+**Grundsätze**
+
+<sup>1</sup> Die Stimmberechtigten sind das oberste Organ der Korporation.
+
+<sup>2</sup> Soweit sie es in ihrem Reglement nicht anders geregelt haben, führen die Korporationen die Wahlen und Abstimmungen im Versammlungsverfahren durch.
+
+<sup>3</sup> Die Stimmberechtigung und das Verfahren richten sich nach dem Stimmrechtsgesetz vom 25. Oktober 1988[^16-1].
+
+[^16-1]: SRL Nr. [10](https://srl.lu.ch/data/10/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+
+#### § 17
+
+**Befugnisse**
+
+<sup>1</sup> Den Stimmberechtigten stehen mindestens folgende Befugnisse zu:
+
+- a. Wahl
+  - 1\. des Korporationsrates,
+  - 2\. der Rechnungskommission und Bestimmung einer allfälligen Revisionsstelle,
+  - 3\. des Urnenbüros.
+- b. Rechtsetzung
+  - 1\. Beschluss der Reglemente,
+  - 2\. Genehmigung rechtsetzender Verträge sowie der Übertragung von hoheitlichen Befugnissen an Dritte, soweit nicht der Korporationsrat in einem Rechtssatz als zuständig erklärt wird.
+- c. Finanzgeschäfte
+  - 1\. Beschluss über den Voranschlag und die für die Deckung des Finanzbedarfs notwendige Mittelaufnahme,
+  - 2\. Beschluss über Nachtrags-, Sonder- und Zusatzkredite,
+  - 3\. Genehmigung der Rechnung sowie der Abrechnungen über Sonder- und Zusatzkredite,
+  - 4\. Genehmigung folgender Geschäfte, sofern der Wert zehn Prozent der gesamten jährlichen Ausgaben der Korporation oder eine im Korporationsreglement festgelegte andere Grösse übersteigt (die im Voranschlag für das laufende Rechnungsjahr eingesetzten Ausgaben dienen als Grundlage bei der Bestimmung der Zuständigkeitsgrenze):
+  - 4\.1 Erwerb, Veräusserung und Belastung von Grundstücken,
+  - 4\.2 Leistung von Eventualverpflichtungen,
+  - 4\.3 Abschluss von Konzessionsverträgen,
+  - 4\.4 Gründung von oder Beteiligung an privat- oder öffentlich-rechtlichen juristischen Personen oder einfachen Gesellschaften.
+  - 5\. Kenntnisnahme vom Finanzplan.
+- d. Veränderungen im Korporationsbestand: Beschluss über Veränderungen im Korporationsbestand.
+
+#### § 18
+
+**Korporationen mit Parlament**
+
+<sup>1</sup> Die Stimmberechtigten können die Befugnisse nach § 17 in ihrem Korporationsreglement einem Parlament übertragen. Sie wählen das Parlament im Verhältniswahlverfahren nach den Bestimmungen des Stimmrechtsgesetzes alle vier Jahre, im gleichen Jahr wie den Korporationsrat. Im Korporationsreglement können sie vorsehen, dass das Parlament im Mehrheitswahlverfahren gewählt wird. Das neu gewählte Parlament tritt sein Amt am 1. September nach der Wahl an.
+
+<sup>2</sup> Den Stimmberechtigten müssen mindestens folgende Befugnisse vorbehalten bleiben:
+
+- a. Wahl des Korporationsrates,
+- b. Wahl des Parlaments,
+- c. Erlass, Änderung und Aufhebung des Korporationsreglements,
+- d. Beschluss über Veränderungen im Korporationsbestand.
+
+<sup>3</sup> Folgende Geschäfte unterstehen mindestens dem fakultativen Referendum:
+
+- a. Beschluss von Reglementen und Genehmigungen nach § 17 Unterabsatz b,
+- b. Beschlüsse über den Voranschlag und die für die Deckung des Finanzbedarfs notwendige Mittelaufnahme,
+- c. Beschlüsse über Nachtrags-, Sonder- und Zusatzkredite, sofern deren Wert zehn Prozent der gesamten jährlichen Ausgaben der Korporation oder eine im Korporationsreglement festgelegte andere Grösse übersteigt,
+- d. Genehmigung folgender Finanzgeschäfte, sofern der Wert zehn Prozent der gesamten jährlichen Ausgaben der Korporation oder eine im Korporationsreglement festgelegte andere Grösse übersteigt:
+  - 1\. Erwerb, Veräusserung und Belastung von Grundstücken,
+  - 2\. Leistung von Eventualverpflichtungen,
+  - 3\. Abschluss von Konzessionsverträgen,
+  - 4\. Gründung von oder Beteiligung an privat- oder öffentlich-rechtlichen juristischen Personen oder einfachen Gesellschaften.
+
+<sup>4</sup> Das fakultative Referendum kommt zustande, wenn nach den Vorschriften des Stimmrechtsgesetzes innerhalb von 60 Tagen seit Veröffentlichung der Referendumsvorlage die Unterschriften von mindestens einem Zehntel der stimmberechtigten Korporationsbürgerinnen und -bürger beim Korporationsrat eingereicht werden. Im Reglement kann die Unterschriftenzahl abweichend festgesetzt werden.
+
+<sup>5</sup> Die Volksabstimmung ist beim obligatorischen Referendum innert Jahresfrist seit der abschliessenden Beschlussfassung durch das Parlament und beim fakultativen Referendum innert Jahresfrist seit Ablauf der Referendumsfrist durchzuführen.
+
+### 4.2 Korporationsrat
+
+#### § 19
+
+**Aufgaben**
+
+<sup>1</sup> Der Korporationsrat ist verwaltendes und vollziehendes Organ der Korporation.
+
+<sup>2</sup> Er führt die Korporation und erfüllt alle Aufgaben, die ihm entweder durch die Rechtsordnung zugewiesen werden oder keinem anderen Organ der Korporation übertragen sind.
+
+#### § 20
+
+**Organisation**
+
+<sup>1</sup> Der Korporationsrat besteht aus mindestens drei Mitgliedern. Die Mitgliederzahl wird durch das Korporationsreglement bestimmt.
+
+<sup>2</sup> Im Korporationsreglement wird festgehalten, ob für ein bestimmtes Amt im Korporationsrat eine zusätzliche Wahl notwendig ist. Im Übrigen weist der Korporationsrat seinen Mitgliedern die Ämter selbst zu.
+
+<sup>3</sup> Die Sitzungen des Korporationsrates sind nicht öffentlich.
+
+#### § 21
+
+**Wahl**
+
+<sup>1</sup> Die Stimmberechtigten wählen den Korporationsrat nach den Bestimmungen des Stimmrechtsgesetzes alle vier Jahre im gleichen Jahr, wie die Gemeinderatswahlen stattfinden.
+
+<sup>2</sup> Die Wahl im Versammlungsverfahren ist bis spätestens Ende April durchzuführen. Sie wird vom Justiz- und Sicherheitsdepartement angeordnet und ist durch den Regierungsrat zu genehmigen.
+
+<sup>3</sup> Der neu gewählte Korporationsrat tritt das Amt am 1. September nach der Wahl an.
+
+### 4.3 Rechnungsprüfungsorgane
+
+#### § 22
+
+**Grundsätze**
+
+<sup>1</sup> Die Stimmberechtigten wählen für eine Amtsdauer von vier Jahren eine aus mindestens drei Personen bestehende Rechnungskommission.
+
+<sup>2</sup> Die Rechnungskommission amtet als Kollegialbehörde. Sie kann Ausschüsse oder, gestützt auf einen Beschluss der Stimmberechtigten oder des Korporationsrates, Dritte mit einzelnen Prüfungsaufgaben beauftragen.
+
+<sup>3</sup> Zusätzlich zur Rechnungskommission können die Stimmberechtigten eine externe Revisionsstelle bestimmen, welche die Aufgaben nach § 23 Absatz 2 übernimmt.
+
+#### § 23
+
+**Aufgaben**
+
+<sup>1</sup> Die Rechnungskommission erstattet zuhanden des Korporationsrates und der Stimmberechtigten Bericht zum Voranschlag und zum Finanzplan und gibt ihnen eine Empfehlung zur Beschlussfassung ab.
+
+<sup>2</sup> Die Rechnungskommission oder die nach § 22 Absatz 3 bestimmte externe Revisionsstelle überprüft die Rechnung sowie die Rechnungsablage über Sonder- und Zusatzkredite hinsichtlich Richtigkeit und Vollständigkeit und erstattet dazu zuhanden des Korporationsrates und der Stimmberechtigten einen Prüfungsbericht. Sie prüft namentlich
+
+- a. die richtige Kreditverwendung,
+- b. die Ordnungsmässigkeit und Rechtmässigkeit der Buchführung,
+- c. die Übereinstimmung der Rechnungsablage, der Bücher und der dazugehörigen Register mit den Belegen,
+- d. das Vorhandensein der Vermögenswerte und die Einhaltung der Bewertungsgrundsätze.
+
+<sup>3</sup> In Korporationen, in welchen die Grundsätze der wirkungsorientierten Verwaltungsführung (WOV) ganz oder teilweise angewendet werden, erstattet die Rechnungskommission zuhanden des Korporationsrates und der Stimmberechtigten für die WOV-Bereiche zusätzlich einen Rechenschaftsbericht über die Erfüllung der Leistungsaufträge gemäss Voranschlag.
+
+#### § 24
+
+**Akteneinsicht und Auskunftspflicht**
+
+<sup>1</sup> Die Rechnungsprüfungsorgane können zur Erfüllung ihrer Aufgaben Einsicht in Akten der Korporation nehmen.
+
+<sup>2</sup> Die Korporationsorgane sind verpflichtet, den Rechnungsprüfungsorganen zur Erfüllung ihrer Aufgaben Auskunft zu geben.
+
+### 4.4 Verwaltung
+
+#### § 25
+
+**Korporationsschreiber oder -schreiberin**
+
+<sup>1</sup> Der Korporationsschreiber oder die Korporationsschreiberin sorgt dafür, dass die Beschlüsse und die Rechtsgeschäfte der Korporation nach den Weisungen des Korporationsrates nachvollziehbar festgehalten und dokumentiert werden.
+
+<sup>2</sup> Dem Korporationsschreiber oder der Korporationsschreiberin können im Korporationsreglement weitere Funktionen übertragen werden.
+
+<sup>3</sup> Die Korporation kann im Korporationsreglement vorsehen, dass die Aufgaben des Korporationsschreibers oder der Korporationsschreiberin von einem Mitglied des Korporationsrates übernommen werden.
+
+<sup>4</sup> Ist der Korporationsschreiber oder die Korporationsschreiberin nicht Mitglied des Korporationsrates, hat er oder sie an den Sitzungen des Korporationsrates beratende Stimme.
+
+#### § 26
+
+**Archiv**
+
+<sup>1</sup> Jede Korporation ist verpflichtet, ein Archiv mit den archivwürdigen Unterlagen der Korporation zu führen.
+
+<sup>2</sup> Die Korporationen können verlangen, dass ihre Akten gegen angemessenes Entgelt im Archiv der Einwohnergemeinde aufbewahrt werden.
+
+<sup>3</sup> Für die Sicherung und die Benutzung des Archivguts sowie für den dabei zu gewährenden Rechtsschutz und die Strafen gelten die Bestimmungen des Gesetzes über das Archivwesen vom 16. Juni 2003[^26-1].
+
+<sup>4</sup> Der Korporationsschreiber oder die Korporationsschreiberin ist für die ordnungsgemässe Führung des Archivs zuständig.
+
+[^26-1]: SRL Nr. [585](https://srl.lu.ch/data/585/de)
+
+### 4.5 Gemeinsame Bestimmungen
+
+#### § 27
+
+**Wählbarkeit**
+
+<sup>1</sup> In das Korporationsparlament, den Korporationsrat und die Rechnungskommission ist wählbar, wer persönlich in der Korporation stimmberechtigt ist.
+
+<sup>2</sup> In den Realkorporationen und gemischten Korporationen sind zudem die gesetzlichen oder bevollmächtigten Vertreterinnen und Vertreter von nicht stimmfähigen juristischen und natürlichen Personen nach § 7 Absatz 3b–d des Stimmrechtsgesetzes wählbar.
+
+#### § 28
+
+**Unvereinbarkeiten**
+
+<sup>1</sup> Unvereinbar in einer Person ist ein Amt
+
+- a. in einem Rechnungsprüfungsorgan mit einem Amt im Korporationsrat oder einer Anstellung bei der Korporation,
+- b. im Korporationsparlament mit einem Amt im Korporationsrat.
+
+<sup>2</sup> Dem Korporationsrat oder einem Rechnungsprüfungsorgan dürfen nicht gleichzeitig angehören:
+
+- a. Personen, die miteinander verheiratet sind oder die in eingetragener Partnerschaft leben,
+- b. Verwandte in gerader Linie und in der Seitenlinie bis und mit dem dritten Grad,
+- c. Stiefeltern und Stiefkinder sowie Stiefgeschwister, die im selben Haushalt aufgewachsen sind,
+- d. Adoptiveltern und Adoptivkinder,
+- e. Personen, die in gerader Linie verschwägert sind, solange die Ehe oder die eingetragene Partnerschaft besteht.
+
+#### § 29
+
+**Beschlussfassung**
+
+<sup>1</sup> Ein Korporationsorgan ist beschlussfähig, wenn die absolute Mehrheit der Mitglieder anwesend ist.
+
+<sup>2</sup> Die Mitglieder des Korporationsorgans sind zur Stimmabgabe verpflichtet.
+
+<sup>3</sup> Zu einem gültigen Beschluss bedarf es der absoluten Mehrheit der Anwesenden. Kommt wegen Stimmengleichheit kein Beschluss zustande, so ist die Abstimmung zu wiederholen. Bei erneuter Stimmengleichheit gibt die Stimme der vorsitzenden Person, bei deren Abwesenheit die ihrer Stellvertretung den Ausschlag.
+
+<sup>4</sup> Die Korporation kann die Beschlussfassung in einem rechtsetzenden Erlass abweichend regeln.
+
+#### § 30
+
+**Ausstand**
+
+<sup>1</sup> Für die Mitglieder des Korporationsrates und der Korporationsverwaltung gelten die Regeln und Ausstandsgründe nach den §§ 14 ff. des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^30-1].
+
+<sup>2</sup> Bei Sachgeschäften, die bestimmte natürliche oder juristische Personen betreffen, gelten diese Ausstandsgründe auch für
+
+- a. das Korporationsparlament,
+- b. die Rechnungsprüfungsorgane und Kommissionen,
+- c. alle Personen, die bei einem Sachgeschäft in irgendeiner Form mitwirken und auf den Ausgang des Verfahrens Einfluss nehmen können.
+
+<sup>3</sup> Ist ein Korporationsorgan wegen Ausstands oder aus andern Gründen beschlussunfähig, regelt die zuständige kantonale Aufsichtsbehörde das weitere Vorgehen. Sie kann anstelle des Organs handeln.
+
+[^30-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+
+#### § 31
+
+**Zeichnungsbefugnis**
+
+<sup>1</sup> Die Korporation regelt die Zeichnungsbefugnis in einem rechtsetzenden Erlass.
+
+<sup>2</sup> Beschlüsse des Korporationsrates sind mindestens von einem Mitglied des Korporationsrates sowie vom Korporationsschreiber oder von der Korporationsschreiberin beziehungsweise dessen oder deren Stellvertretung zu unterzeichnen.
+
+#### § 32
+
+**Vereidigung**
+
+<sup>1</sup> Die Mitglieder des Korporationsrates, der Rechnungskommission sowie der Korporationsschreiber oder die Korporationsschreiberin und, sofern es das Korporationsreglement vorsieht, das Parlament werden durch die zuständige kantonale Aufsichtsbehörde vereidigt.
+
+<sup>2</sup> Wer den Eid oder das Gelübde nicht leistet, verzichtet auf das Amt.
+
+## 5 Initiative
+
+#### § 33
+
+<sup>1</sup> Ein Zehntel der Stimmberechtigten, abgerundet auf den nächsten Zehner, mindestens aber zehn Stimmberechtigte, können beim Korporationsrat die Abstimmung über ein Sachgeschäft der Korporation verlangen, welches in ihrer Zuständigkeit liegt. Im Korporationsreglement kann die Unterschriftenzahl abweichend festgesetzt werden.
+
+<sup>2</sup> Die Frist zur Einreichung der Unterschriften beträgt 60 Tage seit der Veröffentlichung des Begehrens.
+
+<sup>3</sup> Im Übrigen gelten die Bestimmungen des Gemeindegesetzes vom 4. Mai 2004[^33-1] und des Stimmrechtsgesetzes und zusätzlich für die Korporationen mit Parlament die Bestimmungen des Kantonsratsgesetzes vom 28. Juni 1976[^33-2] sinngemäss.
+
+[^33-1]: SRL Nr. [150](https://srl.lu.ch/data/150/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^33-2]: SRL Nr. [30](https://srl.lu.ch/data/30/de)
+
+## 6 Zusammenarbeit
+
+#### § 34
+
+**Verträge**
+
+<sup>1</sup> Die Korporation kann mit anderen Gemeinwesen oder mit Privaten privatrechtliche und öffentlich-rechtliche Verträge abschliessen. Die Bestimmungen der §§ 46 und 47 des Gemeindegesetzes sind anwendbar.
+
+#### § 35
+
+**Gemeindeverband und Zweckverband**
+
+<sup>1</sup> Für die Gründung oder den Beitritt in einen Gemeinde- oder in einen Zweckverband gelten sinngemäss die Bestimmungen der §§ 48 ff. des Gemeindegesetzes.
+
+#### § 36
+
+**Interkantonale Verhältnisse**
+
+<sup>1</sup> Wenn die Art der Aufgaben und die Interessenlage es erfordern, können Luzerner Korporationen mit Genehmigung des Regierungsrates mit ausserkantonalen Gemeinden Verträge abschliessen oder ausserkantonalen Gemeinde- oder Zweckverbänden beitreten.
+
+## 7 Veränderungen im Korporationsbestand
+
+### 7.1 Vereinigung von Korporationen
+
+#### § 37
+
+**Verfahren in der Korporation**
+
+<sup>1</sup> Über die Vereinigung von Korporationen beschliessen deren Stimmberechtigte.
+
+<sup>2</sup> Die Ausgestaltung und die Nebenfolgen der Vereinigung von Korporationen sind in einem öffentlich-rechtlichen Vertrag zu regeln. Dieser bedarf der Genehmigung durch die Stimmberechtigten.
+
+#### § 38
+
+**Mitwirkung des Kantons**
+
+<sup>1</sup> Vereinigungen von Korporationen bedürfen der Genehmigung durch den Kantonsrat.
+
+<sup>2</sup> Der Kantonsrat erteilt die Genehmigung durch Kantonsratsbeschluss. Er verweigert die Genehmigung, wenn die Vereinigung unzweckmässig ist.
+
+<sup>3</sup> Die Vereinigung kann nicht vor der Genehmigung durch den Kantonsrat in Kraft treten.
+
+#### § 39
+
+**Folgen der Vereinigung**
+
+<sup>1</sup> Die Folgen der Vereinigung von Korporationen richten sich sinngemäss nach den Bestimmungen des Gemeindegesetzes.
+
+### 7.2 Aufhebung von Korporationen
+
+#### § 40
+
+**Verfahren auf Beschluss der Korporation**
+
+<sup>1</sup> Über die Aufhebung der Korporation beschliessen die Stimmberechtigten.
+
+<sup>2</sup> Dabei sind folgende Grundsätze zu beachten:
+
+- a. das Korporationsvermögen hat weiterhin einem öffentlichen Zweck zu dienen,
+- b. die Weiterführung der Aufgaben der Korporation ist sicherzustellen,
+- c. findet sich keine angemessenere Lösung, geht das Korporationsvermögen in das Vermögen der Gemeinde über, der die Korporation gebietsmässig zugehört hat.
+
+<sup>3</sup> Die Aufhebung einer Korporation bedarf der Genehmigung durch den Kantonsrat. Er kann die Aufgaben- und die Vermögensübertragung mit Auflagen und Anordnungen verbinden.
+
+<sup>4</sup> Solange die Aufhebung nicht durch den Kantonsrat genehmigt ist, darf kein Korporationsvermögen übertragen werden.
+
+#### § 41
+
+**Verfahren auf Antrag der kantonalen Aufsichtsbehörde**
+
+<sup>1</sup> Kann sich eine Korporation nicht mehr selber verwalten oder ihre Aufgabe dauerhaft nicht mehr ordnungsgemäss erfüllen, kann sie auf Antrag des Regierungsrates durch Beschluss des Kantonsrates aufgehoben werden.
+
+<sup>2</sup> Der Kantonsrat entscheidet über die Verwendung des Korporationsvermögens nach Aufhebung der Korporation. Dabei sind folgende Grundsätze zu beachten:
+
+- a. das Korporationsvermögen hat weiterhin einem öffentlichen Zweck zu dienen,
+- b. die Weiterführung der Aufgaben der Korporation ist sicherzustellen,
+- c. findet sich keine angemessenere Lösung, geht das Korporationsvermögen in das Vermögen der Gemeinde über, der die Korporation gebietsmässig zugehört hat,
+- d. die Vermögensübertragung kann mit Auflagen und Anordnungen verbunden werden.
+
+<sup>3</sup> Solange die Aufhebung nicht durch den Kantonsrat genehmigt ist, darf kein Korporationsvermögen übertragen werden.
+
+### 7.3 Umwandlung in eine öffentlich-rechtliche Genossenschaft
+
+#### § 42
+
+**Grundsatz**
+
+<sup>1</sup> Korporationen, bei denen der Organisationsaufwand und das Korporationsvermögen in einem offenbaren Missverhältnis stehen, können in öffentlich-rechtliche Genossenschaften umgewandelt werden. Ihre Rechtsverhältnisse werden dadurch nicht verändert.
+
+<sup>2</sup> Wird eine Korporation in eine öffentlich-rechtliche Genossenschaft umgewandelt, besteht ihre Aufgabe weiterhin in der Verwaltung des Korporationsgutes. Die §§ 4 und 5 sind sinngemäss anwendbar.
+
+#### § 43
+
+**Organisation der öffentlich-rechtlichen Genossenschaft**
+
+<sup>1</sup> Die Korporation in Form der öffentlich-rechtlichen Genossenschaft hat in ihrem Namen zusätzlich die Bezeichnung «Genossenschaft» zu führen.
+
+<sup>2</sup> Der Finanzhaushalt kann selbständig geregelt werden. Es ist jedoch mindestens ein Voranschlag zu erstellen und eine doppelte Buchhaltung zu führen.
+
+<sup>3</sup> Die zuständige kantonale Aufsichtsbehörde prüft die Buchhaltung der öffentlich-rechtlichen Genossenschaft alle zwei Jahre auf Rechtmässigkeit. Sie überprüft insbesondere die Einhaltung der Grundsätze nach den §§ 4 und 5.
+
+<sup>4</sup> Die Auflösung richtet sich nach § 21 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 20. November 2000[^43-1]. Anstelle des Departementes handelt der Regierungsrat. Er entscheidet gleichzeitig über die Verwendung des Vermögens. Die Grundsätze von § 41 Absatz 2 dieses Gesetzes sind anwendbar.
+
+<sup>5</sup> Im Übrigen gelten die §§ 17 ff. des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch.
+
+[^43-1]: SRL Nr. [200](https://srl.lu.ch/data/200/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+
+#### § 44
+
+**Verfahren**
+
+<sup>1</sup> Über eine Umwandlung beschliessen die Stimmberechtigten, die gleichzeitig über die Statuten der neu zu gründenden Genossenschaft zu beschliessen haben.
+
+<sup>2</sup> Eine Umwandlung ist vom Kantonsrat zusammen mit den Statuten zu genehmigen. Er verweigert die Genehmigung, wenn die Umwandlung nicht zweckmässig ist.
+
+## 8 Finanzhaushalt
+
+### 8.1 Grundsätze
+
+#### § 45
+
+<sup>1</sup> Die Korporationen führen den Finanzhaushalt nach den Grundsätzen der Gesetzmässigkeit, der Dringlichkeit, der Sparsamkeit und der Wirtschaftlichkeit.
+
+<sup>2</sup> Die Rechnungsführung beruht auf den Grundsätzen der doppelten Buchführung, der Vollständigkeit, der Klarheit, der Stetigkeit, der Wahrheit, der Genauigkeit, der Spezifikation, der Sollverbuchung und des Bruttoprinzips.
+
+<sup>3</sup> Rechnungsjahr ist das Kalenderjahr. Über Ausnahmen entscheidet der Regierungsrat.
+
+<sup>4</sup> Korporationen, welche die Grundsätze der wirkungsorientierten Verwaltungsführung (WOV) für die ganze Verwaltung oder Teile davon anwenden, beachten für jene Teile, die sie nach WOV führen, den Grundsatz der Wirksamkeit. Sie können vom Bruttoprinzip und vom Grundsatz der Spezifikation abweichen.
+
+### 8.2 Finanzordnung
+
+### 8.2.1 Gemeindehaushalt
+
+#### § 46
+
+**Finanzbuchhaltung**
+
+<sup>1</sup> Die Finanzbuchhaltung umfasst
+
+- a. die Verwaltungsrechnung,
+- b. die Bestandesrechnung.
+
+<sup>2</sup> Die Verwaltungsrechnung ist in eine Laufende Rechnung und eine Investitionsrechnung unterteilt.
+
+<sup>3</sup> Die Rechnungen von Anstalten und Betrieben ohne Rechtspersönlichkeit sind in die Gemeinderechnung einzugliedern.
+
+<sup>4</sup> Die zuständige kantonale Aufsichtsbehörde erlässt Weisungen über die Gestaltung der Finanzbuchhaltung.
+
+#### § 47
+
+**Finanz- und Verwaltungsvermögen**
+
+<sup>1</sup> Finanzvermögen sind jene Vermögenswerte, die nicht unmittelbar der Erfüllung öffentlicher Aufgaben dienen und die veräussert werden können, ohne diese zu beeinträchtigen.
+
+<sup>2</sup> Verwaltungsvermögen sind jene Vermögenswerte, die unmittelbar der Erfüllung öffentlicher Aufgaben dienen und die nicht veräussert werden können, ohne diese zu beeinträchtigen.
+
+### 8.2.2 Finanzplan
+
+#### § 48
+
+<sup>1</sup> Der Finanzplan gibt Aufschluss über die voraussichtliche Finanzentwicklung der Korporation in den nächsten fünf Jahren. Er wird jährlich überarbeitet.
+
+<sup>2</sup> Die Angaben zum ersten Jahr der Planungsperiode entsprechen dem Voranschlag.
+
+### 8.2.3 Voranschlag
+
+#### § 49
+
+**Form des Voranschlags**
+
+<sup>1</sup> Der Voranschlag umfasst die Laufende Rechnung und die Investitionsrechnung.
+
+<sup>2</sup> Die Korporationen unterbreiten den Voranschlag in der Form des Harmonisierten Rechnungsmodells (HRM).
+
+<sup>3</sup> Sie können den Voranschlag auch als eine zusammengefasste Form des HRM, ergänzt mit den Konti der Kostenrechnung (Modell Kore) oder als Globalbudget für die ganze Verwaltung oder Teile davon nach den Grundsätzen der WOV vorlegen.
+
+<sup>4</sup> Die zuständige kantonale Aufsichtsbehörde erlässt Weisungen über die Darstellung.
+
+#### § 50
+
+**Vollständigkeit des Voranschlags**
+
+<sup>1</sup> Der Voranschlag hat alle im Rechnungsjahr erwarteten Aufwände und Ausgaben sowie die erwarteten Erträge und Einnahmen zu umfassen. Beträge, die nicht genau feststehen, sind zu schätzen.
+
+<sup>2</sup> Der voraussehbare Aufwand und die voraussehbare Ausgabe eines Sonderkredits sind in den Voranschlag aufzunehmen. Sie sind als solche zu bezeichnen und bleiben bis zur Bewilligung des Sonderkredits gesperrt.
+
+#### § 51
+
+**Haushaltsgleichgewicht**
+
+<sup>1</sup> Der Voranschlag der Laufenden Rechnung ist so zu gestalten, dass sich im Durchschnitt mehrerer Jahre ausgeglichene Rechnungsabschlüsse ergeben.
+
+<sup>2</sup> Der Voranschlag der Investitionsrechnung ist so festzusetzen, dass sich aus den Folgekosten der Investitionen, deren Verzinsung und deren Abschreibung für die Laufende Rechnung eine tragbare Belastung ergibt.
+
+### 8.2.4 Kredite
+
+#### § 52
+
+**Begriff des Kredits und Grundsätze**
+
+<sup>1</sup> Kredit bedeutet die Bewilligung eines Aufwands oder einer Ausgabe. Jeder Aufwand und jede Ausgabe bedürfen eines Kredits.
+
+<sup>2</sup> Alle Kredite erfordern eine Rechtsgrundlage in einem Gesetz oder einen Beschluss der Stimmberechtigten. Die Kredithöhe ist aufgrund des voraussichtlichen Finanzbedarfs sorgfältig zu ermitteln.
+
+<sup>3</sup> Kredite sind für den Zweck zu verwenden, für den sie bewilligt wurden. Nicht beanspruchte Kredite verfallen.
+
+<sup>4</sup> Kredite werden als Voranschlags-, Nachtrags-, Sonder- oder Zusatzkredite gesprochen.
+
+#### § 53
+
+**Freibestimmbare und gebundene Aufwände und Ausgaben**
+
+<sup>1</sup> Ein Aufwand oder eine Ausgabe sind freibestimmbar, wenn die entscheidende Behörde bezüglich Umfang des Aufwands oder der Ausgabe, Zeitpunkt oder anderer Modalitäten eine verhältnismässig grosse Handlungsfreiheit hat.
+
+<sup>2</sup> Ein Aufwand oder eine Ausgabe sind gebunden, wenn sie nicht freibestimmbar im Sinn von Absatz 1 sind.
+
+#### § 54
+
+**Voranschlagskredite**
+
+<sup>1</sup> Voranschlagskredite sind die beschlossenen Aufwand- und Ausgabenposten des Voranschlags. Sie sind für den Korporationsrat verbindlich. Sie verfallen, wenn sie nicht bis zum Jahresende beansprucht werden.
+
+<sup>2</sup> Für Verpflichtungen, die zulasten eines Voranschlagskredits eingegangen wurden, können Kreditübertragungen und Rückstellungen gemacht werden.
+
+<sup>3</sup> In den dafür vorgesehenen Fällen kann der Voranschlagskredit auch als Globalbudget bewilligt werden. Das Globalbudget ist der ausgewiesene Saldo von Aufwand und Ertrag je Leistungsgruppe oder Leistung und muss verbindlich eingehalten werden.
+
+#### § 55
+
+**Nachtragskredite**
+
+<sup>1</sup> Reicht ein Voranschlagskredit nicht aus, ist unter Vorbehalt von Absatz 3 rechtzeitig ein Nachtragskredit zu beantragen.
+
+<sup>2</sup> Bei Nachtragskrediten zu Globalbudgets ist, wenn notwendig, der Leistungsauftrag pro Leistungsgruppe oder Leistung anzupassen.
+
+<sup>3</sup> Nachtragskredite brauchen nicht verlangt zu werden
+
+- a. für teuerungsbedingten Mehraufwand und teuerungsbedingte Mehrausgaben,
+- b. für gebundenen Aufwand und gebundene Ausgaben,
+- c. für freibestimmbaren, nicht voraussehbaren Aufwand und freibestimmbare, nicht voraussehbare Ausgaben im Einzelfall je für einen Betrag bis zu zwei Prozent der jährlichen Ausgaben der Korporation; im Maximum darf der Gesamtbetrag dieses zusätzlichen Aufwands und dieser zusätzlichen Ausgaben im Rechnungsjahr fünf Prozent der jährlichen Ausgaben der Korporation nicht übersteigen,
+- d. für freibestimmbaren Aufwand und freibestimmbare Ausgaben, denen im Rechnungsjahr für denselben Zweck bestimmte Einnahmen in mindestens gleicher Höhe gegenüberstehen.
+
+<sup>4</sup> Die Stimmberechtigten können die in Absatz 3c vorgesehenen Prozentsätze im Korporationsreglement abweichend festlegen.
+
+#### § 56
+
+**Sonderkredite**
+
+<sup>1</sup> Sonderkredite werden ausserhalb des Voranschlags und der Nachtragskredite erteilt. Sie sind erforderlich für freibestimmbare Aufwände oder freibestimmbare Ausgaben, welche
+
+- a. zehn Prozent der jährlichen Ausgaben der Korporation übersteigen oder
+- b. für mehr als ein Rechnungsjahr verbindlich bewilligt werden sollen.
+
+<sup>2</sup> Die Stimmberechtigten können den in Absatz 1a vorgesehenen Prozentsatz in einem rechtsetzenden Erlass abweichend festlegen.
+
+<sup>3</sup> Der Korporationsrat hat über die Beanspruchung der Sonderkredite eine Kontrolle zu führen, aus welcher der Stand der eingegangenen und der zur Vollendung des Vorhabens voraussichtlich erforderlichen Verpflichtungen sowie die geleisteten Zahlungen jederzeit ersichtlich sind.
+
+#### § 57
+
+**Zusatzkredite**
+
+<sup>1</sup> Reicht ein Sonderkredit nicht aus, ist den Stimmberechtigten unter Vorbehalt von Absatz 2 rechtzeitig ein Zusatzkredit zu beantragen.
+
+<sup>2</sup> Zusatzkredite brauchen nicht verlangt zu werden
+
+- a. für teuerungsbedingten Mehraufwand und teuerungsbedingte Mehrausgaben,
+- b. für gebundenen Aufwand und gebundene Ausgabe,
+- c. für freibestimmbaren, nicht voraussehbaren Aufwand und freibestimmbare, nicht voraussehbare Ausgaben, die den Sonderkredit je bis zu zehn Prozent der bewilligten Kreditsumme, höchstens jedoch 250 000 Franken, überschreiten.
+
+<sup>3</sup> Die Stimmberechtigten können die in Absatz 2c vorgesehenen Ansätze im Korporationsreglement abweichend festlegen.
+
+### 8.2.5 Rechnungsablage
+
+#### § 58
+
+**Allgemeines**
+
+<sup>1</sup> Bei der Rechnungsablage sind die Laufende Rechnung und die Investitionsrechnung gleich darzustellen wie im Voranschlag. Weichen Zahlen in der Rechnung wesentlich vom Voranschlag ab, ist dies zu begründen. Zudem ist bei der Rechnungsablage die Bestandesrechnung vorzulegen.
+
+<sup>2</sup> Es sind zusätzlich darzustellen:
+
+- a. die Bestände von Fonds, Stiftungen und Legaten, die durch den Korporationsrat verwaltet werden,
+- b. die Leasing-, Bürgschafts- und andern Eventualverpflichtungen,
+- c. die zugesicherten Beiträge.
+
+<sup>3</sup> Die Aktiven und Passiven, insbesondere die Grundstücke, die Wertschriften, das Fremdkapital und die Rückstellungen, sind in Form besonderer Übersichten zu belegen, soweit sich deren Zusammensetzung nicht bereits aus der Bestandesrechnung ergibt.
+
+<sup>4</sup> In Korporationen, welche ihre ganze Verwaltung oder Teile davon nach den Grundsätzen der WOV führen, enthält die Rechnung für die betreffenden Verwaltungseinheiten zusätzlich folgende Angaben:
+
+- a. die Globalrechnung je Leistungsgruppe beziehungsweise Leistung, die Beiträge und die Investitionen,
+- b. Informationen über die Erfüllung des Grundauftrags der betreffenden Verwaltungseinheiten und die erreichten übergeordneten Ziele,
+- c. Informationen zu allfälligen gewerblichen Leistungen.
+
+#### § 59
+
+**Bewertung und Abschreibung der Aktiven**
+
+<sup>1</sup> Das Finanzvermögen ist höchstens zum Beschaffungs- oder Herstellungswert zu bilanzieren, zum Verkehrswert dann, wenn dieser tiefer ist. Buchmässige Aufwertungen von Finanzvermögen sind unzulässig. Über Ausnahmen entscheidet die zuständige kantonale Aufsichtsbehörde.
+
+<sup>2</sup> Das Verwaltungsvermögen wird entsprechend seiner Nutzungsdauer linear abgeschrieben. Für das Verwaltungsvermögen ist eine Anlagebuchhaltung zu führen, aus der die Investitionen, die Abschreibungsdauer und der Restwert ersichtlich sind.
+
+<sup>3</sup> Darlehen und Beteiligungen sind nach den Vorschriften für das Finanzvermögen zu bewerten.
+
+<sup>4</sup> Jeder zu aktivierende Aufwandüberschuss ist linear in zehn Jahren zulasten der Laufenden Rechnung abzuschreiben.
+
+<sup>5</sup> Die zuständige kantonale Aufsichtsbehörde regelt das Nähere in einer Weisung.
+
+#### § 60
+
+**Rechnungsüberschüsse**
+
+<sup>1</sup> Aufwandüberschüsse sind dem Eigenkapital zu belasten. Ist kein solches vorhanden, sind sie als Bilanzfehlbetrag zu aktivieren.
+
+<sup>2</sup> Ertragsüberschüsse sind zur Abtragung des Bilanzfehlbetrags zu verwenden. Ist kein solcher vorhanden, ist Verwaltungsvermögen zusätzlich abzuschreiben, frei verfügbares Eigenkapital zu bilden oder es sind Vorfinanzierungen zu tätigen.
+
+<sup>3</sup> Bei der Verwendung des Ertragsüberschusses zur Leistung eines Bürgernutzens ist § 5 Absatz 2c zu beachten.
+
+<sup>4</sup> Der Korporationsrat stellt einen Antrag für die Verwendung des Ertragsüberschusses.
+
+#### § 61
+
+**Vermögensanlage und Vermögensverwaltung**
+
+<sup>1</sup> Die Vermögensanlage und die Vermögensverwaltung obliegen unter Vorbehalt der Befugnisse der Stimmberechtigten dem Korporationsrat. Die Vermögensanlage umfasst sämtliche Veränderungen in der Zusammensetzung des Finanzvermögens.
+
+### 8.3 Verfahren
+
+#### § 62
+
+**Verfahren beim Voranschlag**
+
+<sup>1</sup> Über den Voranschlag ist jährlich bis spätestens Ende April des Voranschlagsjahres zu beschliessen. Wird nach dem 1. Januar über ihn beschlossen, darf der Korporationsrat bis zur Beschlussfassung keinen freibestimmbaren Aufwand und keine freibestimmbaren Ausgaben tätigen. Vorbehalten bleibt § 55 Absatz 3c und d.
+
+<sup>2</sup> Wird der Voranschlag abgelehnt, legt der Korporationsrat bis spätestens Ende Juni des Voranschlagsjahres einen überarbeiteten Voranschlag vor.
+
+<sup>3</sup> Wird der Voranschlag bei einer zweiten Abstimmung erneut abgelehnt, unterbreitet der Korporationsrat den Voranschlag dem Regierungsrat zur Festlegung.
+
+#### § 63
+
+**Verfahren bei der Rechnungsablage**
+
+<sup>1</sup> Der Korporationsrat legt die Rechnung den Stimmberechtigten jährlich spätestens im April zur Genehmigung vor.
+
+<sup>2</sup> In Gemeinden, in welchen der Voranschlag vor Jahresbeginn beschlossen wird, ist die Gemeinderechnung spätestens im Juni vorzulegen.
+
+<sup>3</sup> Wird die Rechnung nicht genehmigt, legt der Korporationsrat eine bereinigte und vom zuständigen Rechnungsprüfungsorgan erneut geprüfte Rechnung vor.
+
+<sup>4</sup> Wird die Genehmigung wiederum verweigert, unterbreitet der Korporationsrat die Rechnung der zuständigen kantonalen Aufsichtsbehörde zur Genehmigung.
+
+#### § 64
+
+**Rechnungsablage über Sonder- und Zusatzkredite**
+
+<sup>1</sup> Die Abrechnungen über Sonder- und Zusatzkredite sind den Stimmberechtigten in der Regel spätestens zwei Jahre nach Vollendung des Werks zu unterbreiten.
+
+<sup>2</sup> Wird der Kredit bei der Bewilligung in seiner Höhe definitiv und abschliessend festgelegt, ist keine Abrechnung vorzulegen.
+
+<sup>3</sup> Auf eine separate Rechnungsablage kann verzichtet werden, wenn die Abwicklung des Kredits in einem Rechnungsjahr erfolgt und sich die Kreditbeanspruchung aus der Rechnung der Korporation ergibt.
+
+<sup>4</sup> Wird die Abrechnung nicht genehmigt, legt der Korporationsrat eine bereinigte und vom zuständigen Rechnungsprüfungsorgan geprüfte Abrechnung vor.
+
+<sup>5</sup> Wird die Genehmigung wiederum verweigert, unterbreitet der Korporationsrat die Abrechnung der zuständigen kantonalen Aufsichtsbehörde zur Genehmigung.
+
+## 9 Kantonale Aufsicht
+
+### 9.1 Allgemeines
+
+#### § 65
+
+**Grundsätze**
+
+<sup>1</sup> Jede Korporation stellt sicher, dass sie die demokratischen, rechtsstaatlichen, verwaltungstechnischen und finanziellen Mindestanforderungen nach den gesetzlichen Vorgaben erfüllt.
+
+<sup>2</sup> Die kantonale Aufsicht unterstützt die Korporation bei der eigenverantwortlichen Qualitätssicherung. Die Kontrollberichte der kantonalen Aufsichtsbehörde richten sich in erster Linie an die Korporation. Diese soll die erforderlichen Korrekturmassnahmen rechtzeitig und in eigener Verantwortung vornehmen.
+
+<sup>3</sup> Die kantonale Aufsicht ist ein Instrument zur Durchsetzung der Mindestanforderungen in der Korporation. Erfüllt eine Korporation die Mindestanforderungen nicht rechtzeitig selber, sorgt der Kanton mit aufsichtsrechtlichen Massnahmen für die Behebung der Mängel.
+
+#### § 66
+
+**Dokumentationspflicht**
+
+<sup>1</sup> Die Korporation reicht der kantonalen Aufsichtsbehörde folgende Unterlagen ein:
+
+- a. Voranschlag und Finanzplan,
+- b. Rechnung samt Verhandlungsprotokoll, Berichte der Rechnungsprüfungsorgane mit den Revisionsunterlagen.
+
+#### § 67
+
+**Prüfungsumfang**
+
+<sup>1</sup> Die kantonale Aufsichtsbehörde prüft soweit erforderlich, ob die Organisation mit den Bestimmungen dieses Gesetzes vereinbar ist und ob die Korporation die Mindestanforderungen für die rechtsstaatliche Steuerung erfüllt.
+
+<sup>2</sup> Sie prüft jährlich, ob der Voranschlag sowie die Rechnung mit dem übergeordneten Recht vereinbar sind und ob die Korporation die Mindestanforderungen für eine gesunde Entwicklung des Finanzhaushaltes erfüllt.
+
+<sup>3</sup> Ihr steht keine Prüfung der Zweckmässigkeit zu.
+
+#### § 68
+
+**Massnahmen**
+
+<sup>1</sup> Eine aufsichtsrechtliche Massnahme kann verfügt werden, wenn eine Korporation die Mindestanforderungen nicht erfüllt.
+
+<sup>2</sup> Aufsichtsrechtliche Massnahmen sind:
+
+- a. Weisungen an ein Korporationsorgan, die Stimmberechtigten ausgenommen,
+- b. die ersatzweise Anordnung eines Beschlusses oder einer Handlung eines Korporationsorgans,
+- c. die Amtsenthebung,
+- d. die Einsetzung einer ausserordentlichen Verwaltung, deren Aufgaben vom Regierungsrat umschrieben werden,
+- e. der Antrag an den Kantonsrat um Aufhebung einer Korporation nach § 41.
+
+#### § 69
+
+**Aufsichtsorgane**
+
+<sup>1</sup> Kantonale Aufsichtsorgane sind der Regierungsrat und die von ihm in der Verordnung zum Gemeindegesetz bezeichneten Aufsichtsbehörden.
+
+<sup>2</sup> Der Regierungsrat kann alle aufsichtsrechtlichen Massnahmen gemäss § 68 Absatz 2 verfügen. Die in der Verordnung bezeichnete Aufsichtsbehörde ist für den Erlass von Weisungen zuständig.
+
+#### § 70
+
+**Fachaufsicht**
+
+<sup>1</sup> Die in den Spezialgesetzen vorgesehene Fachaufsicht bleibt vorbehalten.
+
+### 9.2 Verfahren
+
+#### § 71
+
+**Verfahren vor der kantonalen Aufsichtsbehörde**
+
+<sup>1</sup> Die zuständige Aufsichtsbehörde kann von der Korporation Unterlagen verlangen und den aufsichtsrechtlich erheblichen Sachverhalt von Amtes wegen abklären.
+
+<sup>2</sup> In Angelegenheiten der Finanzaufsicht gilt folgendes Verfahren:
+
+- a. Die Aufsichtsbehörde prüft die von der Korporation nach § 66 einzureichenden Unterlagen jährlich. Sind die Unterlagen unvollständig oder zu wenig aussagekräftig, klärt sie den aufsichtsrechtlich erheblichen Sachverhalt ab.
+- b. Stellt die Aufsichtsbehörde keine aufsichtsrechtlich erheblichen Mängel fest, hält sie dies im Kontrollbericht fest und stellt diesen dem Korporationsrat zuhanden der Stimmberechtigten zu.
+- c. Stellt die Aufsichtsbehörde aufsichtsrechtlich erhebliche Mängel fest, hält sie diese nach Gewährung des rechtlichen Gehörs im Kontrollbericht fest. Sie kann Weisungen erlassen. Im Übrigen gilt Absatz 2b.
+- d. Hält die Aufsichtsbehörde andere aufsichtsrechtliche Massnahmen für erforderlich, stellt sie den Kontrollbericht nach Gewährung des rechtlichen Gehörs dem Korporationsrat zuhanden der Stimmberechtigten sowie dem Regierungsrat zu.
+
+#### § 72
+
+**Verfahren vor dem Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat kann das Verfahren einstellen, an die zuständige Aufsichtsbehörde zur Erledigung zurückweisen, weitere Sachverhaltsabklärungen anordnen oder eine aufsichtsrechtliche Massnahme verfügen.
+
+<sup>2</sup> Der Regierungsrat kann das Justiz- und Sicherheitsdepartement mit der Klärung des Sachverhalts beauftragen und falls notwendig eine Administrativuntersuchung anordnen.
+
+<sup>3</sup> Die Korporation trägt die Kosten des Verfahrens vor dem Regierungsrat. Dieser kann auf die Überbindung der Kosten ganz oder teilweise verzichten.
+
+#### § 73
+
+**Amtsenthebung**
+
+<sup>1</sup> Hat eine von den Stimmberechtigten auf Amtsdauer gewählte Person schwere oder wiederholte strafbare Handlungen oder Amtspflichtverletzungen begangen, sodass ihr Verbleiben im Amt mit den öffentlichen Interessen unvereinbar ist, kann sie der Regierungsrat vorläufig im Amt einstellen oder ihres Amtes entheben.
+
+<sup>2</sup> Bei der Amtsenthebung einer Person, die im Mehrheitsverfahren gewählt wurde, setzt der Korporationsrat eine ausserordentliche Neuwahl für den Rest der Amtsdauer an. Für Personen, die im Verhältniswahlverfahren gewählt wurden, bestimmt er die Ersatzperson nach den Regeln für die Nationalratswahlen.
+
+#### § 74
+
+**Gemeindebeschwerde**
+
+<sup>1</sup> Sofern kein anderes Rechtsmittel gegeben ist, können die Beschlüsse der Korporationsorgane beim Regierungsrat mit Gemeindebeschwerde angefochten werden.
+
+<sup>2</sup> Zur Einreichung der Gemeindebeschwerde gegen einen Beschluss ist befugt, wer ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat.
+
+<sup>3</sup> Die Beschwerdefrist beträgt zehn Tage seit der angefochtenen Abstimmung oder seit Zustellung oder öffentlicher Bekanntgabe des angefochtenen Beschlusses.
+
+<sup>4</sup> Die Gemeindebeschwerde hat nur aufschiebende Wirkung, wenn dies die Beschwerdeinstanz oder das instruierende Departement anordnet.
+
+<sup>5</sup> Mit der Gemeindebeschwerde können gerügt werden:
+
+- a. die unrichtige oder unvollständige Feststellung eines Sachverhalts,
+- b. die unrichtige Rechtsanwendung, einschliesslich der Überschreitung und des Missbrauchs des Ermessens.
+
+<sup>6</sup> Im Übrigen ist das Gesetz über die Verwaltungsrechtspflege sinngemäss anwendbar.
+
+## 10 Schlussbestimmungen
+
+#### § 75
+
+**Erlass eines Korporationsreglementes**
+
+<sup>1</sup> Jede Korporation erlässt spätestens auf den 1. Januar 2016 ein Korporationsreglement oder passt ihr bestehendes Reglement den Bestimmungen dieses Gesetzes auf diesen Zeitpunkt hin an.
+
+<sup>2</sup> Kommt eine Korporation dieser Verpflichtung nicht nach, trifft der Regierungsrat an ihrer Stelle und auf ihre Kosten die erforderlichen Massnahmen und Regelungen. Der Korporationsrat ist vor entsprechenden Anordnungen anzuhören. Die Verwaltungsgerichtsbeschwerde gegen die Anordnungen des Regierungsrates ist unzulässig.
+
+<sup>3</sup> Solange und soweit die Korporationen ihr Korporationsreglement nicht angepasst und in Kraft gesetzt haben, gelten die Bestimmungen des Gesetzes über die Korporationsgemeinden vom 9. Oktober 1962[^75-1]. Die Bestimmungen über das Bürgerrecht und die Veränderungen im Korporationsbestand treten sofort in Kraft.
+
+[^75-1]: G XVI 273 (SRL Nr. 177)
+
+#### § 76
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Das Gesetz über die Korporationsgemeinden vom 9. Oktober 1962[^76-1] sowie die am 17. Juni 2013 beschlossenen Änderungen dieses Gesetzes[^76-2] werden aufgehoben.
+
+[^76-1]: G XVI 273 (SRL Nr. 177)
+[^76-2]: G 2014 48
+
+#### § 77
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Das Bürgerrechtsgesetz vom 21. November 1994[^77-1] und weitere Gesetze werden gemäss Anhang[^77-2] geändert.
+
+[^77-1]: SRL Nr. 2
+[^77-2]: Die Erlassänderungen, die der Kantonsrat am 9. Dezember 2013 zusammen mit dem Gesetz über die Korporationen beschlossen hat, bilden gemäss § 77 einen Bestandteil dieses Gesetzes. Sie wurden in einem Anhang wiedergegeben, der am 15. März 2014 in der Gesetzessammlung veröffentlicht wurde (G 2014 78). Bei der vorliegenden Ausgabe wird auf die Wiedergabe dieses Anhangs mit den Erlassänderungen verzichtet.
+
+#### § 78
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt das Inkrafttreten.[^78-1]
+
+<sup>2</sup> Das Gesetz unterliegt dem fakultativen Referendum.[^78-2]
+
+[^78-1]: Der Regierungsrat setzte das Gesetz auf den 1. Juli 2014 in Kraft (K 2014 604).
+[^78-2]: Die Referendumsfrist lief am 12. Februar 2014 unbenützt ab (K 2014 435).
+
+K 2013 3767 | G 2014 53

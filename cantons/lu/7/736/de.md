@@ -1,0 +1,1202 @@
+---
+canton: LU
+number: "736"
+title: Planungs- und Bauverordnung
+short: PBV
+language: de
+version: 2021-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-10-13
+adopted: 2013-10-29
+in_force: 2014-01-01
+url: "https://srl.lu.ch/app/de/texts_of_law/736"
+pdf: "https://srl.lu.ch/api/de/versions/3662/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Planungs- und Bauverordnung
+
+(PBV)
+
+vom 29.10.2013 (Stand 01.01.2021)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf Artikel 52 Absatz 3 des Rohrleitungsgesetzes vom 4. Oktober 1963[^ingress-1], Artikel 28 Absatz 1 der Rohrleitungsverordnung vom 2. Februar 2000[^ingress-2] sowie die §§ 3 Absatz 2, 10a, 29, 35 Absatz 2, 38 Absatz 6, 54 Absatz 4, 61 Absatz 2, 65 Absatz 5, 77 Absatz 4, 100, 105h Absatz 1, 112a Absatz 3, 117b Absatz 3, 133 Absatz 4, 136 Absätze 3 und 4, 139 Absätze 2 und 4, 145 Absätze 1 und 6, 146 Absatz 3, 149, 157 Absatz 5, 174 Absatz 3, 182 Absatz 1, 184 Absatz 3, 188 Absätze 1 und 3, 192a Absatz 4, 193 Absatz 1, 198, 198a und 212 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^ingress-3],
+
+auf Antrag des Bau-, Umwelt- und Wirtschaftsdepartementes,
+
+beschliesst:
+
+[^ingress-1]: SR [746.1](https://db.clex.ch/link/Bund/746.1/de)
+[^ingress-2]: SR [746.11](https://db.clex.ch/link/Bund/746.11/de)
+[^ingress-3]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
+
+## 1 Planung
+
+### 1.1 Richt- und Nutzungsplanung
+
+#### § 1
+
+**Verfahren**
+
+<sup>1</sup> Die genehmigten Richt- und Nutzungspläne sind nach ihrer Bereinigung gemäss den Anordnungen und Korrekturen im Entscheid des Regierungsrates der Dienststelle Raum und Wirtschaft in Papierform und digital einzureichen. Diese legt in Richtlinien die Modalitäten fest.
+
+<sup>2</sup> Werden Richt- und Nutzungspläne oder Bau- und Zonenreglemente geändert, gilt Absatz 1 sinngemäss.
+
+#### § 2
+
+**Kantonaler Nutzungsplan**
+
+<sup>1</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement sorgt für die Veröffentlichung des Erlasses des kantonalen Nutzungsplans und der zugehörigen Vorschriften im Luzerner Kantonsblatt.
+
+#### § 3
+
+**Fruchtfolgeflächen**
+
+<sup>1</sup> Fruchtfolgeflächen sind zu erhalten.
+
+<sup>2</sup> Sollen sie einer anderen als der Landwirtschaftszone zugewiesen werden, muss dies durch überwiegende Interessen gerechtfertigt sein. Im Weiteren gilt, dass solche Zonenfestlegungen
+
+- a. den Vorgaben im kantonalen Richtplan zu entsprechen haben; insbesondere ist die Konzentration der Besiedlung auf die Hauptentwicklungsachsen und Zentren, die Begrenzung des Siedlungsflächenwachstums und die optimale Nutzung der Bauzonen zu beachten,
+- b. im Einklang mit einer geordneten Siedlungsentwicklung, abgestimmt auf ein kommunales Siedlungsleitbild, zu stehen haben; hinzuwirken ist auf eine Konzentration der Besiedlung und auf eine Entwicklung von innen nach aussen; Siedlungslücken sind zu füllen, bestehende Siedlungsteile zu arrondieren sowie neue Siedlungsansätze und -fortsätze zu vermeiden,
+- c. nur bei Nachweis des konkreten Bedarfs zulässig sind; dabei sind die inneren Reserven, wie Baulücken, unternutzte Parzellen, Umnutzungsgebiete, Erneuerungsgebiete, Möglichkeiten zur Erhöhung der baulichen Dichte, zu berücksichtigen.
+
+<sup>3</sup> Ist die Zuweisung von Fruchtfolgeflächen zu einer anderen als der Landwirtschaftszone auch nach der Prüfung von Varianten und Alternativen und allenfalls unter Inkaufnahme von vertretbaren qualitativen Einbussen bezüglich Orts- und Landschaftsbild oder Wohngebieten unausweichlich, sind flächengleiche Ersatzmassnahmen zu leisten.
+
+<sup>4</sup> Ist für Fruchtfolgeflächen Ersatz zu leisten, sind folgende Massnahmen möglich:
+
+- a. Rückzonung von nicht überbautem Land mit der Qualität von Fruchtfolgeflächen in die Landwirtschaftszone,
+- b. Schaffung neuer Fruchtfolgeflächen durch Verbesserung von degradierten Böden, namentlich durch die Wiederverwertung des Bodenmaterials aus den beanspruchten Fruchtfolgeflächen,
+- c. …
+
+<sup>5</sup> Die gewählten Ersatzmassnahmen sind nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes auszuarbeiten und dem Kanton im Vorprüfungsverfahren zusammen mit den übrigen Unterlagen zur Ortsplanungsrevision einzureichen.
+
+#### § 4
+
+**Gemischte Nutzungen**
+
+<sup>1</sup> Sind in bestimmten Zonen gemischte Nutzungen vorgesehen, kann ein zu realisierender Nutzungsanteil namentlich bestimmt werden:
+
+- a. durch die Anzahl der Stockwerke (Geschosse),
+- b. durch die Lage der Nutzung oder
+- c. durch die Zuweisung von Hauptnutzflächen gemäss Schweizer Norm SN 504 421 (Ausgabe 2004).
+
+#### § 5
+
+**Landwirtschaftszone**
+
+<sup>1</sup> Die Gemeinden haben bei der Festlegung der speziellen Landwirtschaftszonen nach § 54 Absatz 3 des Planungs- und Baugesetzes vom 7. März 1989[^5-1] (PBG) auf die in den Artikeln 1 und 3 des Bundesgesetzes über die Raumplanung vom 22. Juni 1979[^5-2] genannten Planungsziele und -grundsätze zu achten und den verschiedenen, in Artikel 16 dieses Gesetzes umschriebenen Funktionen der Landwirtschaftszone Rechnung zu tragen.
+
+<sup>2</sup> Speziallandwirtschaftszonen sind ausgeschlossen
+
+- a. in Natur- und Landschaftsschutzzonen, wenn die in der Speziallandwirtschaftszone zulässige Nutzung mit den Schutzzielen nicht vereinbar ist,
+- b. in schützenswerten Landschaften und im Umfeld von Naturobjekten, wenn diese durch die in der Speziallandwirtschaftszone zulässige Nutzung beeinträchtigt werden,
+- c. in der Umgebung von schützenswerten Ortsbildern und Kulturdenkmälern, wenn diese durch die in der Speziallandwirtschaftszone zulässige Nutzung, namentlich durch Bauten und Anlagen, beeinträchtigt werden,
+- d. innerhalb von Grundwasserschutzarealen und -zonen, wenn die in der Speziallandwirtschaftszone zulässige Nutzung mit dem Zweck der Schutzareale und -zonen nicht vereinbar ist,
+- e. in anderen Fällen, wenn der Ausscheidung der Speziallandwirtschaftszone überwiegende Interessen entgegenstehen.
+
+<sup>3</sup> Will die Gemeinde Speziallandwirtschaftszonen ausscheiden, müssen insbesondere die folgenden Anforderungen erfüllt oder deren Erfüllung sichergestellt sein:
+
+- a. Die Zonenausscheidung darf der angestrebten Nutzungsordnung nicht zuwiderlaufen.
+- b. Die zulässige Nutzung hat sich nach den vorhandenen, allenfalls angemessen ausgebauten Erschliessungsanlagen zu richten.
+- c. Zusätzlich anfallende Infrastrukturkosten sind durch die interessierten Grundeigentümerinnen oder -eigentümer zu tragen. Die Gemeinde kann Beiträge leisten.
+- d. Wohngebiete sind von schädlichen oder lästigen Einwirkungen, insbesondere Lärm oder Luftverschmutzung, möglichst zu verschonen.
+- e. Die Beanspruchung von Fruchtfolgeflächen hat sich auf das Notwendige zu beschränken.
+
+<sup>4</sup> Die Gemeinden können im Bau- und Zonenreglement für die einzelnen Speziallandwirtschaftszonen besondere Bau- und Nutzungsvorschriften vorsehen und die zulässige Nutzung namentlich auf die Tierhaltung, den Gartenbau oder eine andere landwirtschaftliche Produktion beschränken.
+
+[^5-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+[^5-2]: SR [700](https://db.clex.ch/link/Bund/700/de)
+
+#### § 6
+
+**Ortsplanungsverfahren**
+
+<sup>1</sup> Den betroffenen Grundeigentümerinnen und -eigentümern und den Haushaltungen sind der Zonenplan und das Bau- und Zonenreglement mit den erforderlichen Erläuterungen und mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist zuzustellen.
+
+<sup>2</sup> Die Gemeinde kann auf die Zustellung verzichten, wenn sie die Unterlagen gemäss Absatz 1 im Internet zur Einsicht bereitstellt. Die betroffenen Grundeigentümerinnen und -eigentümer und Haushaltungen sind darüber mit dem Hinweis auf die Einsprachemöglichkeit während der Auflagefrist zu orientieren. Die Gemeinde ist verpflichtet, diesen auf Verlangen ein Exemplar der Unterlagen zuzustellen.
+
+#### § 6a
+
+**Kaufrecht der Gemeinde**
+
+<sup>1</sup> Das Kaufrecht der Gemeinde gemäss § 38 Absatz 3 PBG ist von der Gemeinde in ihrem Entscheid betreffend bestimmungsgemässe Nutzung der Bauzone auf zehn Jahre ab Entscheiddatum zu befristen und zusammen mit der Frist zur Überbauung im Grundbuch anzumerken.
+
+<sup>2</sup> Die Gemeinde legt im Entscheid die Modalitäten der Einhaltung der Frist zur Überbauung des Baulandes fest. Der Fristenlauf beginnt mit der Rechtskraft des Entscheids. Die Dauer des Baubewilligungs- und eines allfälligen Beschwerdeverfahrens oder eines Zivilverfahrens ist nicht mitzurechnen.
+
+<sup>3</sup> Die Gemeinde kann das Kaufrecht nach unbenütztem Ablauf der Frist zur Überbauung des Baulandes mit Entscheid ausüben. Vorgängig versucht sie mit dem Grundeigentümer oder der Grundeigentümerin eine vertragliche Einigung zu erzielen. Kommt keine gütliche Einigung über den Verkehrswert des Baulandes zustande, leitet die Gemeinde das Schätzungsverfahren bei der Schätzungskommission ein.
+
+<sup>4</sup> Im Verfahren vor der Schätzungskommission kommen die Bestimmungen des Enteignungsgesetzes vom 29. Juni 1970[^6a-1] sinngemäss zur Anwendung. Die Gemeinde ist sofort nach der Zahlung des ermittelten Kaufpreises und der allenfalls nötigen Vermessung des Grundstücks zur Anmeldung des Rechtserwerbes beim Grundbuchamt ermächtigt.
+
+<sup>5</sup> Die Gemeinde lässt im Grundbuch die Anmerkung der Frist zur Überbauung und ihres befristeten Kaufrechts löschen, wenn die Voraussetzungen dahingefallen sind.
+
+[^6a-1]: SRL Nr. [730](https://srl.lu.ch/data/730/de)
+
+### 1.2 Sondernutzungspläne
+
+#### § 7
+
+**Form und Inhalt**
+
+<sup>1</sup> Der Bebauungs- und der Gestaltungsplan sind in der Regel im Massstab 1:500 anzufertigen. Sie enthalten nach Bedarf namentlich Bestimmungen über
+
+- a. die Erschliessung,
+- b. Baulinien und Baubereiche,
+- c. Zweckbestimmung, Lage und Grundfläche der Bauten,
+- d. Nutzungsziffern,
+- e. Grenz- und Gebäudeabstände, Gesamthöhe, Gebäudelänge und -breite,
+- f. Bauweise, Firstrichtung, Dach- und Fassadengestaltung,
+- f<sup>bis</sup>. dem Aufenthalt dienende Aussengeschoss- und Umgebungsflächen gemäss der Schweizer Norm SN 504 416 (Ausgabe 2003),
+- g. das für öffentliche Bauten und Anlagen, Grünflächen, Spielplätze und Sport- und Freizeitanlagen erforderliche Gebiet,
+- h. Nebenräume, Kindergärten und weitere Gemeinschaftsanlagen wie Energie-, Entsorgungs-, Kompostier- und Hundeversäuberungsanlagen,
+- i. behindertengerechtes Bauen,
+- j. die Erhaltung und Anpflanzung von Grünflächen, Bäumen und Hecken,
+- k. Massnahmen zum sparsamen Umgang mit Energie und zur Verwendung von erneuerbaren Energieträgern,
+- l. Massnahmen zum Schutz vor Lärm, Naturgefahren und Störfallrisiken,
+
+<sup>2</sup> Die Gemeinde kann verlangen, dass mehrere Entwürfe vorgelegt werden und insbesondere die zweckmässige Dimensionierung und Anordnung der Aussengeschoss- und Umgebungsflächen nachgewiesen wird.
+
+#### § 8
+
+**Modell und Profile**
+
+<sup>1</sup> Mit dem Gestaltungsplan ist ein Modell im Massstab 1:500 mit den angrenzenden Bauten und Anlagen einzureichen.
+
+<sup>2</sup> Die Gemeinde kann weitere Unterlagen (Pläne, Fotografien, Grundbuchauszug usw.) verlangen, soweit es zur Überprüfung des Gestaltungsplanes auf seine Übereinstimmung mit den Bau- und Nutzungsvorschriften notwendig ist.
+
+<sup>3</sup> Die Gemeinde kann verlangen, dass exponierte, die Aussicht erheblich beschränkende, anderweitig dominierende oder an Grundstücke Dritter angrenzende Bauten und Anlagen ausgesteckt werden.
+
+#### § 9
+
+**Privatrechtliche Einsprache**
+
+<sup>1</sup> Die Gemeinde verweist die Einsprecherinnen und Einsprecher mit privatrechtlichen Einsprachen an den Zivilrichter.
+
+### 1.3 Regionale Entwicklungsträger
+
+#### § 10
+
+<sup>1</sup> Das gemäss den Statuten der regionalen Entwicklungsträger dafür zuständige Organ kann bestimmen, dass einzelne Inhalte ihrer Planungen und Konzepte von den Gemeinden bei Planungen oder anderen raumwirksamen Tätigkeiten umzusetzen sind.
+
+<sup>2</sup> In diesen Fällen haben die regionalen Entwicklungsträger vorgängig die Stellungnahme der Dienststelle Raum und Wirtschaft einzuholen.
+
+### 1.4 Nutzungsziffern
+
+### 1.4.1 Anrechenbare Grundstücksfläche
+
+#### § 11
+
+**[^11-1]**
+
+<sup>1</sup> Zur anrechenbaren Grundstücksfläche (aGSF) gehören die in der entsprechenden Bauzone liegenden Grundstücksflächen beziehungsweise Grundstücksteile.
+
+<sup>2</sup> Die Flächen der Hauszufahrten werden angerechnet.
+
+<sup>3</sup> Nicht angerechnet werden die Flächen der Grund-, Grob- und Feinerschliessung.
+
+[^11-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+### 1.4.2 Überbauungsziffer
+
+#### § 12
+
+**Berechnung[^12-1]**
+
+<sup>1</sup> Die Überbauungsziffer wird wie folgt berechnet:
+
+Überbauungsziffer (ÜZ) = anrechenbare Gebäudefläche (aGbF) / anrechenbare Grundstücksfläche (aGSF)
+
+<sup>2</sup> Als anrechenbare Gebäudefläche gilt die Fläche innerhalb der projizierten Fassadenlinie.
+
+[^12-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 13
+
+**Zusätzliche Überbauungsziffern[^13-1]**
+
+<sup>1</sup> Die Gemeinde kann im Bau- und Zonenreglement oder im Bebauungsplan für folgende Bauten eine zusätzliche, nur für diese Bauten verwendbare Überbauungsziffer festlegen:
+
+- a. Bauten mit einer geringeren als der zulässigen Gesamthöhe,
+- b. Kleinbauten und Anbauten,
+- c. Unterniveaubauten.
+
+[^13-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 13a
+
+**Einstellhallen[^13a-1]**
+
+<sup>1</sup> Die anrechenbare Gebäudefläche für Einstellhallen bis 3,5 m Gesamthöhe, deren Mantelflächen (gemessen ab Oberkante Boden fertig bis Oberkante Dachfläche) höchstens zur Hälfte über das massgebende respektive über das tiefer gelegte Terrain hinausragen, wird durch eine entsprechende Erhöhung der Überbauungsziffer ausgeglichen.
+
+<sup>2</sup> Auf der Einstellhalle darf eine sichtdurchlässige Absturzsicherung angebracht werden.
+
+[^13a-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 14
+
+**Energiebonus[^14-1]**
+
+<sup>1</sup> Für Gebäude erhöht sich die zonengemässe Überbauungsziffer um 5 Prozent, wenn
+
+- a. bei Neubauten
+  - 1\. der Zielwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
+  - 2\. eine Zertifizierung des Labels Minergie mit dem Zusatz P oder A erreicht wird,
+- b. bei Umbauten
+  - 1\. der Neubaugrenzwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
+  - 2\. eine Zertifizierung des Labels Minergie erreicht wird.
+
+<sup>2</sup> Die höhere maximal mögliche Überbauungsziffer gemäss § 75 Absätze 1 und 2 PBG darf dabei nicht überschritten werden.
+
+[^14-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 14a
+
+**Liftanlagen und Wärmedämmung[^14a-1]**
+
+<sup>1</sup> Bei bestehenden Bauten wird die anrechenbare Gebäudefläche für neue Liftanlagen, die sich nicht im Gebäudeinnern realisieren lassen, und für die nachträgliche Wärmedämmung durch eine entsprechende Erhöhung der Überbauungsziffer ausgeglichen.
+
+[^14a-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 15
+
+**Wasserbau- und Strassenprojekte[^15-1]**
+
+<sup>1</sup> Wird ein Grundstück für Wasserbau- und Strassenprojekte im öffentlichen Interesse beansprucht, wird der Flächenverlust durch eine entsprechende Erhöhung der Überbauungsziffer ausgeglichen.
+
+[^15-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 16
+
+**Übertragung nicht beanspruchter Gebäudeflächen[^16-1]**
+
+<sup>1</sup> Bei Bebauungs- und Gestaltungsplänen kann das Recht auf die durch die jeweils zulässige Gesamthöhe begrenzte anrechenbare Gebäudefläche eines Grundstücks, die nicht beansprucht wird, auf ein anderes Grundstück übertragen werden, wenn der Zonencharakter gewahrt bleibt und die Entfernung der Grundstücke höchstens 100 m beträgt, von Grundstücksgrenze zu Grundstücksgrenze gemessen. Sofern die örtlichen Verhältnisse dies zulassen, müssen die Grundstücke nicht in der gleichen Bauzone liegen.
+
+<sup>2</sup> Die Übertragung des Rechts auf die anrechenbare Gebäudefläche, die nicht beansprucht wird, wird auf Kosten des berechtigten Grundeigentümers oder der berechtigten Grundeigentümerin als öffentlich-rechtliche Eigentumsbeschränkung im kantonalen Datensatz für raumbezogene Daten erfasst.
+
+<sup>3</sup> Die Gemeinde hat der Dienststelle Raum und Wirtschaft den Antrag auf Eintragung des belasteten und des begünstigten Grundstücks in den kantonalen Datensatz für raumbezogene Daten zu stellen. Die für die Eintragung relevanten Daten sind dieser Dienststelle innert zwei Wochen seit dem massgeblichen Entscheid zuzustellen.
+
+<sup>4</sup> Der kantonale Datensatz für raumbezogene Daten wird im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen zugänglich gemacht.
+
+[^16-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 17
+
+**Verbot mehrfacher Berücksichtigung der gleichen Grundstücksfläche[^17-1]**
+
+<sup>1</sup> Eine Grundstücksfläche, die bei einer Baute bereits einmal für die Einhaltung der höchstzulässigen Überbauungsziffer verwendet wurde, darf nicht noch einmal für eine Baute in Anspruch genommen werden.
+
+<sup>2</sup> Ganz oder teilweise überbaute Grundstücke dürfen nur so geteilt werden, dass die Überbauungsziffer sowohl im Einzelnen wie auch im Gesamten eingehalten ist; vorbehalten wird die Regelung bei Gesamt- und Reihenhausüberbauungen.
+
+[^17-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+### 1.4.3 Grünflächenziffer
+
+#### § 18
+
+**Berechnung[^18-1]**
+
+<sup>1</sup> Als anrechenbare Grünfläche gelten natürliche und bepflanzte Bodenflächen eines Grundstücks, die nicht versiegelt sind und die nicht als Abstellflächen dienen.
+
+Grünflächenziffer (GZ) = anrechenbare Grünfläche (AGrf) / anrechenbare Grundstücksfläche (aGSF)
+
+<sup>2</sup> Begrünte und bepflanzte Bodenflächen sind Flächen mit einem natürlichen Bodenaufbau sowie Flächen auf Unterniveaubauten, die mit Humus überdeckt und bepflanzt sind.
+
+<sup>3</sup> Nicht anrechenbar sind bestehende Wälder und öffentliche Gewässer.
+
+<sup>4</sup> Wenn Gewässer offengelegt werden, reduziert sich die Grünflächenziffer im entsprechenden Ausmass.
+
+[^18-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+## 2 Erschliessung
+
+#### § 19
+
+**Übersicht über den Stand der Erschliessung**
+
+<sup>1</sup> Die Gemeinde erstellt die Übersicht über den Stand der Erschliessung nach Artikel 31 der Raumplanungsverordnung vom 28. Juni 2000[^19-1] und führt diese entsprechend der baulichen Entwicklung nach.
+
+<sup>2</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement kann Richtlinien zur einheitlichen Darstellung der Erschliessungs- und Überbauungsübersichten erlassen.
+
+[^19-1]: SR [700.1](https://db.clex.ch/link/Bund/700.1/de)
+
+#### § 20
+
+**Kommunaler Erschliessungsrichtplan**
+
+<sup>1</sup> Der kommunale Erschliessungsrichtplan nennt in Übereinstimmung mit den Festlegungen im Zonenplan die durch die Gemeinde oder die besonders bezeichneten Erschliessungsträger zu erbringenden Erschliessungsleistungen. Wird bei geänderten Verhältnissen der Zonenplan angepasst, ist der kommunale Erschliessungsrichtplan mit der neuen massgebenden Zonenplanung wieder in Übereinstimmung zu bringen.
+
+<sup>2</sup> Im kommunalen Erschliessungsrichtplan ist anzugeben, welche Erschliessungsleistungen die Gemeinde oder die besonders bezeichneten Erschliessungsträger innert 5 Jahren und längerfristig erbringen.
+
+<sup>3</sup> Die mutmasslichen Kosten für die durch die Gemeinde oder die besonders bezeichneten Erschliessungsträger zu erbringenden Erschliessungsleistungen sind gestützt auf Erfahrungswerte und Kostenschätzungen in Pauschalen anzugeben.
+
+#### § 21
+
+**Erschliessung durch Private**
+
+<sup>1</sup> Die Gemeinde prüft auf Gesuch hin, ob die Voraussetzungen erfüllt sind, welche die interessierten Grundeigentümerinnen und -eigentümer dazu berechtigen, die nach Massgabe des kommunalen Erschliessungsrichtplans durch die Gemeinde oder die besonders bezeichneten Erschliessungsträger zu erbringenden Erschliessungsleistungen selber vorzunehmen. Mit ihrem Gesuch haben die interessierten Grundeigentümerinnen und ‑eigentümer die geplanten Massnahmen und deren Finanzierung aufzuzeigen.
+
+<sup>2</sup> Sind die interessierten Grundeigentümerinnen und -eigentümer berechtigt, die Erschliessungsleistungen gemäss Absatz 1 selber vorzunehmen, und die vorgeschlagenen Massnahmen zweckmässig, hat die Gemeinde ihnen die Verwirklichung dieser Massnahmen zu bewilligen. Vorbehalten bleiben die im Einzelnen erforderlichen Plangenehmigungs- und Projektbewilligungsverfahren nach der jeweils massgebenden Spezialgesetzgebung.
+
+<sup>3</sup> Mit dem Entscheid, Erschliessungsleistungen durch die interessierten Grundeigentümerinnen und -eigentümer erbringen zu lassen, ist festzulegen,
+
+- a. ob und gegebenenfalls in welcher Form Erschliessungsanlagen oder Teile davon nach ihrer ordnungsgemässen Erstellung auf die Gemeinde übergehen sollen,
+- b. wann und mit welchen Modalitäten die Gemeinde den interessierten Grundeigentümerinnen und -eigentümern die angefallenen Kosten unter Abzug ihrer eigenen Beiträge zurückzuerstatten hat.
+
+#### § 22
+
+**Bevorschussung der Erschliessungskosten durch Private**
+
+<sup>1</sup> Die Gemeinde prüft auf Gesuch hin, ob die Voraussetzungen erfüllt sind, welche die interessierten Grundeigentümerinnen und -eigentümer dazu berechtigen, die nach Massgabe des kommunalen Erschliessungsrichtplans durch die Gemeinde oder die besonders bezeichneten Erschliessungsträger zu erbringenden Erschliessungsleistungen zu bevorschussen.
+
+<sup>2</sup> Sind die interessierten Grundeigentümerinnen und -eigentümer berechtigt, die Erschliessungsleistungen gemäss Absatz 1 zu bevorschussen, hat die Gemeinde ihnen die Vorauszahlung zu bewilligen sowie die Höhe und die Modalitäten der Zahlung festzulegen. Vorbehalten bleiben die für die Verwirklichung der Erschliessungsanlagen im Einzelnen erforderlichen Plangenehmigungs- und Projektbewilligungsverfahren nach der jeweils massgebenden Spezialgesetzgebung.
+
+<sup>3</sup> Mit dem Entscheid, Erschliessungsleistungen durch die interessierten Grundeigentümerinnen und -eigentümer bevorschussen zu lassen, ist festzulegen, in welchem Zeitraum und mit welchen Modalitäten die Gemeinde den interessierten Grundeigentümerinnen und -eigentümern die an die Erschliessungsanlagen geleisteten Vorauszahlungen unter Abzug ihrer eigenen Beiträge zurückzuerstatten hat.
+
+#### § 23
+
+**Erschliessung durch die Gemeinde**
+
+<sup>1</sup> Erstellt die Gemeinde auf Gesuch hin anstelle der interessierten Grundeigentümerinnen und -eigentümer Erschliessungsanlagen oder einzelne Teile davon, kann sie für die mutmasslichen Kosten vor Beginn der Arbeiten Vorschüsse oder Sicherheiten verlangen.
+
+## 3 Landumlegung
+
+#### § 24
+
+**Einleitung, Anmerkung**
+
+<sup>1</sup> Die Gemeinde teilt den Entscheid zur Einleitung des Landumlegungsverfahrens nach dem Eintritt der Rechtskraft dem Grundbuchamt mit. Dieses merkt allfällige Eigentumsbeschränkungen, die in diesem Entscheid verfügt wurden, im Grundbuch an.
+
+#### § 25
+
+**Massgebender Wert**
+
+<sup>1</sup> Für die Schätzung der innerhalb und ausserhalb der Bauzonen liegenden Grundstücke, Bauten, Bäume und anderer Grundstücksbestandteile, die in das Umlegungsverfahren einbezogen sind, ist der Verkehrswert massgebend.
+
+<sup>2</sup> Der Verkehrswert bestimmt sich nach den Nutzungsmöglichkeiten gemäss rechtskräftigem Nutzungsplan. Wird eine Landumlegung im Hinblick auf einen neuen oder anzupassenden Nutzungsplan durchgeführt, bestimmt er sich nach den zukünftigen Nutzungsmöglichkeiten.
+
+#### § 26
+
+**Fälligkeit von Ausgleichszahlungen**
+
+<sup>1</sup> Ausgleichszahlungen für Mehr- oder Minderwerte, die nicht durch Boden ausgeglichen werden können, für unüberbaubare Grundstücke und für andere Vor- und Nachteile im Sinn von § 93 PBG werden auf den Zeitpunkt des Inkrafttretens des Landumlegungsplanes fällig. Sie sind der Gemeinde zuhanden der Berechtigten zu bezahlen.
+
+<sup>2</sup> Die Ausgleichszahlungen sind ab dem Zeitpunkt der Fälligkeit zu 5 Prozent zu verzinsen.
+
+<sup>3</sup> Ergeben sich bei der Vermessung Korrekturen im Landumlegungsplan, entscheidet die Gemeinde über Nach- und Rückforderungen.
+
+#### § 27
+
+**Bereinigung der Rechte**
+
+<sup>1</sup> Dienstbarkeiten, Grundlasten, Vormerkungen und Anmerkungen können aufgehoben, geändert oder auf neue Grundstücke verlegt werden. Für die Ordnung der Grundpfandverhältnisse finden die Bestimmungen des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907[^27-1], insbesondere die Artikel 802–804 und 811, Anwendung.
+
+[^27-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+
+#### § 28
+
+**Gemeinschaftliches Eigentum, Stockwerkeigentum**
+
+<sup>1</sup> Mit schriftlicher Zustimmung der Eigentümerinnen und Eigentümer kann gemeinschaftliches Eigentum geteilt oder in Form von Miteigentum oder Stockwerkeigentum neu gebildet werden, wenn es dem Zweck der Landumlegung dient.
+
+<sup>2</sup> Absatz 1 gilt nicht für Flächen von Verkehrsanlagen, Spielplätzen und Freizeitanlagen sowie für weitere den gemeinsamen Bedürfnissen des Landumlegungsgebietes dienende Anlagen im Sinn von § 92 PBG.
+
+#### § 29
+
+**Landumlegungsplan**
+
+<sup>1</sup> Der Landumlegungsplan hat neben der grafischen Darstellung der Neuzuteilung, der Gemeinschaftsanlagen usw. die notwendigen textlichen Ergänzungen über die Eigentümerinnen und Eigentümer der neuen Grundstücke, die Begründung, Änderung oder Löschung beschränkter dinglicher und persönlicher Rechte, die Neuordnung der Grundpfandverhältnisse, die Entschädigungen usw. zu enthalten.
+
+#### § 30
+
+**Vermarchung, Vermessung, grundbuchliche Behandlung**
+
+<sup>1</sup> Die Gemeinde lässt den neuen Bestand aufgrund des rechtskräftigen Landumlegungsplans vermarchen und vermessen. Sie meldet die sich aus dem Landumlegungsplan ergebenden Eintragungen, Abänderungen und Löschungen beim Grundbuchamt an.
+
+<sup>2</sup> Der Anmeldung beim Grundbuchamt sind der Landumlegungsplan, der Entscheid der Gemeinde und im ordentlichen Verfahren der Genehmigungsentscheid des Regierungsrates sowie die Ausweise über die Bezahlung der Entschädigungen gemäss § 93 Absätze 2 und 3 PBG beizulegen.
+
+#### § 31
+
+**Kosten**
+
+<sup>1</sup> Die Gemeinde arbeitet einen Kostenverteiler aus, nötigenfalls getrennt für die Kosten
+
+- a. der Ausscheidung von Flächen für Gemeinbedarf gemäss § 92 PBG,
+- b. des Verfahrens.
+
+<sup>2</sup> Als Beteiligte im Sinn von § 99 PBG gelten auch Eigentümerinnen und Eigentümer von ausserhalb des Landumlegungsgebietes gelegenen Grundstücken, sofern ihnen aus der Landumlegung ein Vorteil erwächst.
+
+<sup>3</sup> Sofern die Kosten nicht im Rahmen des Landumlegungsentscheids verlegt werden, gilt das Folgende:
+
+- a. Der Kostenverteiler ist den beteiligten Grundeigentümerinnen und -eigentümern bekannt zu geben.
+- b. Gegen den Kostenverteiler kann innert 30 Tagen schriftlich und begründet Einsprache erhoben werden.
+- c. Die Gemeinde entscheidet über die Einsprachen, sofern sie nicht gütlich erledigt werden können.
+- d. Die Kostenbeiträge werden 30 Tage nach ihrer rechtskräftigen Festsetzung fällig. Sie sind ab diesem Zeitpunkt zu 5 Prozent zu verzinsen.
+
+## 3a Planungsvorteile
+
+#### § 31a
+
+**Erhebliche Änderung und Verkauf bei Stockwerkeigentum**
+
+<sup>1</sup> Als erheblich im Sinn von § 105c Absatz 2a PBG gelten Änderungen an bestehenden Bauten, wenn diese um mehr als 100 m² Hauptnutzfläche gemäss Schweizer Norm SN 504 421 (Ausgabe 2004) erweitert werden.
+
+<sup>2</sup> Stichtag für die Berechnung der Erweiterung ist die Rechtskraft der massgeblichen Planänderung. Ab diesem Zeitpunkt werden Erweiterungen zusammengerechnet, und sobald das Mass nach Absatz 1 erreicht ist, entsteht die Abgabepflicht.
+
+<sup>3</sup> Bei Stockwerkeigentum gilt der Verkauf eines Miteigentumsanteils mit Sonderrecht nicht als Verkauf des Grundstücks im Sinn von § 105c Absatz 2b PBG.
+
+#### § 31b
+
+**Rückerstattung von Entschädigungen und Verfahrenskosten**
+
+<sup>1</sup> Die Gemeinde zeigt dem Bau-, Umwelt- und Wirtschaftsdepartement die Einleitung eines Schätzungsverfahrens an.
+
+<sup>2</sup> Sie reicht dem Bau-, Umwelt- und Wirtschaftsdepartement nach rechtskräftiger Erledigung des Schätzungsverfahrens mit dem Gesuch um Rückerstattung der Entschädigung und der Verfahrenskosten den Entscheid der Schätzungskommission oder das Gerichtsurteil ein. In klaren Fällen bedarf es ausnahmsweise keines Entscheids.
+
+<sup>3</sup> Die Rückerstattung an die Gemeinde erfolgt im Rahmen der verfügbaren Fondsmittel. Der Regierungsrat erlässt einen entsprechenden Entscheid.
+
+<sup>4</sup> Sofern im Fonds nicht genügend Mittel für die Rückerstattung an die Gemeinde vorhanden sind, wird der Gemeinde später eine Nachzahlung des noch offenen Betrags gewährt.
+
+<sup>5</sup> Der Regierungsrat erlässt einen Entscheid zu Beiträgen an kompensatorische Auszonungen im Sinn von § 105d Absatz 2 PBG. Das Bau-, Umwelt- und Wirtschaftsdepartement kann Richtlinien erlassen.
+
+#### § 31c
+
+**Rückverteilung an Gemeinden**
+
+<sup>1</sup> Der Regierungsrat entscheidet alle zwei Jahre gestützt auf den Fondsbestand und die zu erwartenden Erträge und Rückerstattungen an die Gemeinden über die Höhe der überschüssigen Mittel.
+
+<sup>2</sup> Für die Rückverteilung überschüssiger oder nicht benötigter Mittel an die Gemeinden im Sinn von § 105d Absätze 1 und 4 PBG werden deren Einwohnerzahl und Fläche zu je 50 Prozent berücksichtigt.
+
+#### § 31d
+
+**Kantonale Massnahmen der Raumplanung**
+
+<sup>1</sup> Kantonale Massnahmen der Raumplanung im Sinn von § 105d Absatz 1 sind insbesondere:
+
+- a. Erstellung von Grundlagen für die Raumplanung von Kanton und Gemeinden, namentlich im Bereich Bodenkartierung und Aktualisierung des Gewässernetzes,
+- b. übergeordnete Planungen im Interesse der Gemeinden,
+- c. Massnahmen zur besseren Nutzung der brachliegenden oder ungenügend genutzten Flächen in Bauzonen und der Möglichkeiten zur Verdichtung der Siedlungsfläche.
+
+#### § 31e
+
+**Fondsverwaltung**
+
+<sup>1</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement ist verantwortlich für das Controlling des vom Kanton verwalteten Fonds.
+
+#### § 31f
+
+**Vertraglicher Mehrwertausgleich**
+
+<sup>1</sup> Der Wert der zu vereinbarenden vertraglichen Leistungen, die auch in anderer Form als in Geldleistungen erbracht werden können, orientiert sich an der Höhe der Mehrwertabgabe von 20 Prozent. Abweichungen nach unten oder oben sind möglich.
+
+#### § 31g
+
+**Einzonung mit Sondernutzungsplanpflicht**
+
+<sup>1</sup> Wird das eingezonte Areal mit einer Sondernutzungsplanpflicht belegt, gilt der gesamte Mehrwert als durch die Einzonung verursacht, auch wenn der Sondernutzungsplan erst später erlassen wird.
+
+#### § 31gbis
+
+**Kompensatorische Auszonungen (§ 105d Absatz 2 PBG)**
+
+<sup>1</sup> Soweit sich zwar Kanton und Gemeinde bei kompensatorischen Auszonungen im Sinn von § 105d Absatz 2 PBG gütlich einigen, der von der Auszonung betroffene Grundeigentümer oder die betroffene Grundeigentümerin sich jedoch gegen die Auszonung zur Wehr setzt und ihm oder ihr im Schätzungsverfahren zulasten der Gemeinde eine Entschädigung zugesprochen wird, hat die Gemeinde ein Anrecht darauf, maximal im Umfang der aufgrund der Einzonung geschuldeten Abgabe eine Rückerstattung aus dem kantonalen Fonds zu verlangen.
+
+<sup>2</sup> Soweit sich Kanton, Gemeinde und Grundeigentümer oder Grundeigentümerin bei kompensatorischen Auszonungen im Sinn von § 105d Absatz 2 PBG gütlich einigen und das eingezonte und das ausgezonte Grundstück im selben Eigentum sind, ist die Mehrwertabgabe auf der positiven Differenz zwischen dem Mehrwert des eingezonten und dem Minderwert des ausgezonten Grundstücks zu entrichten.
+
+<sup>3</sup> Bei kompensatorischen Auszonungen im Sinn von § 105d Absatz 2 PBG steht der Gemeinde eine Entschädigung für ihren Aufwand nach § 105e Absatz 5 PBG nur für denjenigen Teil des Abgabebetrags zu, der allenfalls in den Fonds einbezahlt wird.
+
+#### § 31h
+
+**Publikation**
+
+<sup>1</sup> Der Status des Grundstücks bezüglich der Mehrwertabgabe, namentlich hinsichtlich Abgabepflicht, Veranlagung, Fälligkeit und Bezahlung, wird als öffentlich-rechtliche Eigentumsbeschränkung im kantonalen Datensatz für raumbezogene Daten erfasst.
+
+<sup>2</sup> Nach der Genehmigung der Planänderung, die zu einem abgabepflichtigen Mehrwert führt, wird das belastete Grundstück in den kantonalen Datensatz für raumbezogene Daten eingetragen. Die Gemeinde meldet bei Einzonungen die Veranlagung, die Fälligkeit und die Bezahlung von Mehrwertabgaben und gegebenenfalls das Vorliegen eines Vertrags anstelle der Veranlagung bei kompensatorischen Auszonungen sowie alle diesbezüglich für die Eintragung relevanten Daten und Entscheide der Dienststelle Raum und Wirtschaft innerhalb von zwei Wochen nach der jeweiligen Festlegung.
+
+<sup>3</sup> Der kantonalen Datensatz für raumbezogene Daten wird im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen zugänglich gemacht.
+
+## 4 Bauvorschriften
+
+### 4.1 Abstände
+
+#### § 32
+
+**Waldabstand**
+
+<sup>1</sup> Die Baubewilligungsbehörde holt, bevor sie Ausnahmen vom gesetzlichen Waldabstand bis minimal 15 m für Wohn- und Arbeitsräume sowie 10 m für die übrigen Bauten und Anlagen bewilligt, die Stellungnahme der Dienststelle Landwirtschaft und Wald ein.
+
+<sup>2</sup> Bauten und Anlagen unterhalb der Minimalabstände nach Absatz 1 bewilligt die Dienststelle Landwirtschaft und Wald, wenn die Voraussetzungen für eine Rodungsbewilligung sinngemäss erfüllt sind. In den übrigen, in § 136 Absatz 4 PBG angeführten Fällen entscheidet das Bau-, Umwelt- und Wirtschaftsdepartement. Vorbehalten bleibt § 192a Absätze 3 und 4 PBG.
+
+#### § 33
+
+**Ausnahmebewilligung**
+
+<sup>1</sup> Vor dem Entscheid über Ausnahmen nach § 133 PBG ist die Stellungnahme der Gebäudeversicherung und interessierter kantonaler Stellen einzuholen.
+
+### 4.2 Höhenmasse
+
+#### § 34
+
+**Gesamthöhe[^34-1]**
+
+<sup>1</sup> Die Oberkante der Dachfläche darf höchstens 50 cm über den für die Gesamthöhe massgebenden höchsten Punkten der Dachkonstruktion liegen. Bei Flachdächern kommt diese Regelung nicht zur Anwendung.
+
+<sup>2</sup> Die Oberkante der Dachkonstruktion darf eine um die Gesamthöhe angehobene Abbildung des massgebenden Terrains nicht überschreiten.
+
+[^34-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 35
+
+**Dachnorm[^35-1]**
+
+<sup>1</sup> Die Dachkonstruktion oder ein zurückversetzter Gebäudeteil darf eine Ebene nicht überschreiten, die von der zulässigen Fassadenhöhe aus mit einem Winkel von 45° ansteigt. Ausgenommen sind Dachaufbauten, welche die Oberkante der Dachfläche und die Hälfte der Dachlänge nicht überschreiten. Die Gemeinde kann im Bau- und Zonenreglement die Länge von Dachaufbauten weiter beschränken oder diese untersagen.
+
+[^35-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+#### § 36
+
+**Zurückversetzung[^36-1]**
+
+<sup>1</sup> Für die Zurückversetzung kann die Gemeinde vorsehen:
+
+- a. die Lage der Zurückversetzung in Bezug auf die Fassaden,
+- b. das minimale Mass der Rückversetzung in Metern,
+- c. das Flächenmass der Rückversetzung in Bezug auf die Grundfläche des obersten Geschosses als Verhältniszahl.
+
+<sup>2</sup> Die Gemeinde kann die Regelung zur Zurückversetzung ausschliessen, wenn die zulässige Gesamthöhe um mindestens 3 m unterschritten wird.
+
+[^36-1]: Bestimmung wird mit Beschluss des Regierungsrates gemeindeweise in Kraft gesetzt (vgl. § 69 und SRL Nr. [736a](https://srl.lu.ch/data/736a/de)).
+
+### 4.3 Sicherheit
+
+#### § 37
+
+**Geländer und Brüstungen**
+
+<sup>1</sup> Für die Anforderungen an Geländer und Brüstungen gilt die Schweizer Norm SN 543 358 (Ausgabe 2010). Über Ausnahmen, namentlich bei schützenswerten Kulturobjekten, entscheidet die Baubewilligungsbehörde.
+
+#### § 38
+
+**Seilbahnen und Skilifte**
+
+<sup>1</sup> Die Dienststelle Raum und Wirtschaft bewilligt den Bau und den Betrieb von nicht konzessionspflichtigen Seilbahnen und Skiliften nach den Bestimmungen des interkantonalen Konkordats über die nicht eidgenössisch konzessionierten Seilbahnen und Skilifte vom 15. Oktober 1951[^38-1]. Vorbehalten bleibt § 192a Absätze 3 und 4 PBG.
+
+[^38-1]: SRL Nr. [786](https://srl.lu.ch/data/786/de)
+
+#### § 39
+
+**Rohrleitungen**
+
+<sup>1</sup> Die Dienststelle Raum und Wirtschaft bewilligt den Bau und den Betrieb von Rohrleitungsanlagen nach Artikel 42 des Rohrleitungsgesetzes vom 4. Oktober 1963[^39-1]. Dabei finden die Vorschriften in den §§ 188 ff. PBG sinngemäss Anwendung. Die Dienststelle Raum und Wirtschaft übt auch die Aufsicht über diese Anlagen aus.
+
+<sup>2</sup> Die Dienststelle Raum und Wirtschaft kann gestützt auf Artikel 28 der Rohrleitungsverordnung vom 2. Februar 2000[^39-2]
+
+- a. die technische Aufsicht über Rohrleitungsanlagen mit einem Betriebsdruck (Überdruck) bis 100 000 Pa (1 bar) den Gaswerkbetreiberinnen und -betreibern übertragen,
+- b. für die technische Aufsicht über Rohrleitungsanlagen mit einem Betriebsdruck (Überdruck) bis 500 000 Pa (5 bar) das Technische Inspektorat des Schweizerischen Gasfachs (TISG) einsetzen,
+- c. für Rohrleitungsanlagen mit einem Betriebsdruck (Überdruck) über 500 000 Pa (5 bar) das Eidgenössische Rohrleitungsinspektorat mit der technischen Aufsicht betrauen.
+
+[^39-1]: SR [746.1](https://db.clex.ch/link/Bund/746.1/de)
+[^39-2]: SR [746.11](https://db.clex.ch/link/Bund/746.11/de)
+
+#### § 40
+
+**Erdbebensicherheit**
+
+<sup>1</sup> Bauten und Anlagen sind nach den für die Erdbebensicherheit anerkannten Regeln der Technik zu erstellen und zu unterhalten.
+
+#### § 41
+
+**Aufzugsanlagen**
+
+<sup>1</sup> Vor dem 1. August 2001 erstellte Aufzugsanlagen sind von den Gemeinden bei wesentlichen Änderungen an Gebäuden im Rahmen des Baubewilligungsverfahrens auf die Einhaltung einer genügenden Anhaltegenauigkeit, auf das Vorhandensein von Kabinenabschlusstüren und auf eine dauerhafte Zweiwegsprechverbindung zu einem Rettungsdienst zu überprüfen.
+
+<sup>2</sup> Eine wesentliche Änderung an einem Gebäude im Sinn von Absatz 1 ist anzunehmen, wenn die Baukosten (ohne Kosten der Lifterneuerung) mehr als 1 Million Franken betragen.
+
+<sup>3</sup> Die Gemeinden ordnen die nötigen Massnahmen an und kontrollieren deren Umsetzung.
+
+#### § 41a
+
+**Schiessanlagen**
+
+<sup>1</sup> Der Bau, der Umbau und der Betrieb von Schiessanlagen, die nicht dem Schiesswesen ausser Dienst zur Verfügung stehen, sind vom eidgenössischen Schiessoffizier des Kantons Luzern auf die Zweckmässigkeit und Sicherheit sowie auf die technischen Anforderungen zu überprüfen und es ist dessen Stellungnahme einzuholen.
+
+<sup>2</sup> Der eidgenössische Schiessoffizier kann zudem für die Abnahme solcher Schiessanlagen und für Vollzugskontrollen beigezogen werden.
+
+#### § 42
+
+**Gefahrenkarte**
+
+<sup>1</sup> Das Bau-, Umwelt- und Wirtschaftsdepartement kann zur Umsetzung der Gefahrenkarte in die Nutzungsplanung Richtlinien erlassen.
+
+<sup>2</sup> Das Gefahrenhinweismodell wird der Ausscheidung der Gefahrenzonen in der Nutzungsplanung gleichstellt und bildet eine öffentlich-rechtliche Eigentumsbeschränkung. Der kantonale Datensatz für raumbezogene Daten wird im Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen zugänglich gemacht.
+
+#### § 42a
+
+**Rückbau**
+
+<sup>1</sup> Abbrucharbeiten sind der zuständigen Behörde nach den Vorgaben der Dienststelle Umwelt und Energie 20 Tage vor Beginn zu melden.
+
+<sup>2</sup> Beim Rückbau von Bauten und Anlagen sind die Materialien im Hinblick auf eine einwandfreie Verwertung und Entsorgung gemäss den Vorgaben der eidgenössischen Abfallverordnung vom 4. Dezember 2015[^42a-1] zu behandeln.
+
+[^42a-1]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
+
+### 4.4 Gesundheit, behindertengerechtes Bauen
+
+#### § 43
+
+**Antennen und vergleichbare Anlagen**
+
+<sup>1</sup> Die Standorte für die Einrichtung von Antennen und vergleichbaren Anlagen sind aufeinander abzustimmen. Bei ihrer Auswahl und Festlegung sind namentlich der Schutz der Orts- und Landschaftsbilder und der Natur- und Kulturobjekte zu beachten und die Auswirkungen auf die Bevölkerung, etwa durch Mehrfachnutzung der Standorte, so gering als möglich zu halten.
+
+#### § 44
+
+**Radonstrahlung**
+
+<sup>1</sup> Die Dienststelle Umwelt und Energie vollzieht die in der Strahlenschutzverordnung vom 22. Juni 1994[^44-1] auf dem Gebiet der Radonstrahlung dem Kanton übertragenen Aufgaben.
+
+<sup>2</sup> Bei Bauten, für deren Erstellung, bauliche Änderung oder Änderung in der Nutzung eine Baubewilligung einzuholen ist, muss bei Räumen mit Bodenkontakt, welche als Wohn- oder Arbeitsräume genutzt werden, auf Radondichtigkeit geachtet werden. Für Wohnnutzungen ist die Unterschreitung des Richtwerts von 300 Bq/m³ anzustreben. Die Baubewilligungsbehörden informieren die Bauherrschaft über Risiken und mögliche Massnahmen. Die Behörden können nach der Erstellung der Bauten Radonmessungen anordnen.
+
+[^44-1]: SR [814.501](https://db.clex.ch/link/Bund/814.501/de)
+
+#### § 45
+
+**Behindertengerechtes Bauen**
+
+<sup>1</sup> Beim behindertengerechten Bauen sind namentlich die Bedürfnisse der Körper-, Hör- und Sehbehinderten zu berücksichtigen. Dabei sind insbesondere die Zugänglichkeit und die Benutzbarkeit der Bauten und Anlagen für Bewohnerinnen und Bewohner, Arbeitnehmerinnen und Arbeitnehmer sowie Besucherinnen und Besucher zu gewährleisten.
+
+<sup>2</sup> Die baulichen Anforderungen an Bauten gemäss § 157 Absätze 1–3 PBG richten sich nach der Schweizer Norm SN 521 500 (Ausgabe 2009) über hindernisfreie Bauten.
+
+<sup>3</sup> Die Baubewilligung für Wohnbauten für Schwerbehinderte, Betagtenzentren, Spitäler und andere gleichartige Bauten kann mit weiteren sachgemässen Auflagen versehen werden.
+
+### 4.5 Einkaufs- und Fachmarktzentren
+
+#### § 46
+
+**Nettofläche**
+
+<sup>1</sup> Beim Umbau oder bei der Erweiterung bestehender Einkaufs- oder Fachmarktzentren können Nettoflächen, die beseitigt werden, bei der Ermittlung der massgebenden Gesamtnettofläche in Abzug gebracht werden.
+
+#### § 47
+
+**Erschliessung**
+
+<sup>1</sup> Als Erschliessungsanlagen für den öffentlichen und den privaten Verkehr sind insbesondere verkehrsgerechte Zu- und Wegfahrten für alle Verkehrsteilnehmer sowie hinreichende Stauräume vorzusehen.
+
+<sup>2</sup> Die Zahl der Abstellplätze für Motorfahrzeuge ist gestützt auf die Schweizer Norm SN 640 281 (Ausgabe 2006) über das Parkieren (Angebot an Parkfeldern für Personenwagen) nach Massgabe der vorgesehenen Nettoflächen und der bestehenden Umweltbelastungen sowie abgestimmt auf die Leistungsfähigkeit und die Verkehrssicherheit des übergeordneten Verkehrsnetzes, jene für Zweiräder gestützt auf die Schweizer Norm SN 640 065 (Ausgabe 1997) über den leichten Zweiradverkehr (Abstellanlagen, Bedarfsermittlung) zu bestimmen.
+
+### 4.6 Camping
+
+#### § 48
+
+**Eignung, Anforderungen**
+
+<sup>1</sup> Land, auf dem Wohnwagen, Wohnmobile, Zelte und dergleichen regelmässig aufgestellt, eingerichtet und bestimmungsgemäss genutzt werden, muss sich örtlich und baulich für ein solches Campieren eignen. Insbesondere darf weder in unmittelbarer Nähe von Kirchen, Schulhäusern, Spitälern und Heimen noch in Gebieten mit einem Campingverbot oder auf öffentlichen Strassen und Plätzen campiert werden.
+
+<sup>2</sup> Bei der Auswahl und Festlegung der Standorte für das Campieren ist insbesondere auf den Schutz der Orts- und Landschaftsbilder zu achten und auf eine gemeinsame Nutzung der jeweiligen Standorte durch mehrere Betreiber hinzuwirken.
+
+<sup>3</sup> Das beanspruchte Land hat nach Massgabe der einschlägigen Vorschriften unter anderem über eine hinreichende Strassenerschliessung und Frischwasserversorgung sowie Abwasser- und Abfallentsorgung zu verfügen.
+
+<sup>4</sup> Soweit für das Campieren aufgrund der Grösse oder der Dauer des Campingbetriebs neben der Baubewilligung eine eigens dafür bestimmte Bauzone und eine Betriebsbewilligung erforderlich sind, müssen
+
+- a. die beanspruchten Landflächen eingezäunt werden, wenn die Verkehrssicherheit, die Interessen der Nachbarn oder andere Gründe dies erfordern,
+- b. geeignete Räume für die Verwaltung, den Postverkehr, die Sanität usw. bereitstehen,
+- c. mindestens 60 Liter Frischwasser pro Person und Tag zur Verfügung stehen,
+- d. genügend gedeckte Waschgelegenheiten und Abwaschanlagen für Geschirr vorhanden sein,
+- e. die Waschplätze im Minimum zu einem Drittel vor Einsicht geschützt sein, wenn keine Duschanlagen bestehen,
+- f. in ausreichender Zahl nach Geschlechtern getrennte, nachts beleuchtete WC-Anlagen mit Wasserspülung, Ablauf und Geruchverschluss zur Benützung bereitstehen,
+- g. für Küchen- und sonstige Abfälle genügend gedeckte Kehrichtbehälter aufgestellt und regelmässig geleert werden.
+
+#### § 49
+
+**Betrieb**
+
+<sup>1</sup> Die Betriebsbewilligung der Gemeinde für die Aufnahme, die Erweiterung oder die Änderung eines Campingbetriebs darf erst erteilt werden, wenn
+
+- a. die Anlagen vorschriftsgemäss erstellt und betriebsbereit sind,
+- b. die nötigen Sicherheitsmassnahmen für Notfälle (Bereitstellung von Rettungs- und Feuerlöschmaterial, Bekanntmachung der Telefonstandorte, Notfallnummern und ‑adressen) getroffen sind,
+- c. eine Haftpflichtversicherung abgeschlossen ist,
+- d. die Kehrichtbehälter aufgestellt sind und die ordnungsgemässe Kehrichtbeseitigung sichergestellt ist,
+- e. eine Platzordnung vorliegt, die insbesondere durch Vorschriften über das Aufnahmeverfahren, die Taxen, das Verhalten auf dem Platz, die Nachtruhe, das Spielen, die Hundehaltung und die Sanktionen Gewähr für den ordentlichen Betrieb des Platzes bietet.
+
+<sup>2</sup> Die Inhaberinnen oder Inhaber der Betriebsbewilligung oder die der Gemeinde gemeldeten Platzverantwortlichen haben
+
+- a. für die Einhaltung der Platzordnung zu sorgen,
+- b. mit Meldescheinen eine Gästekontrolle zu führen, diese Scheine während fünf Jahren aufzubewahren und auf Verlangen der Luzerner Polizei zur Verfügung zu stellen,
+- c. für die Kehrichtbeseitigung zu sorgen,
+- d. das Auftreten von ansteckenden Krankheiten unverzüglich einem Arzt zu melden,
+- e. die Kurtaxe zu erheben, soweit die Gemeinde eine solche erhebt, und sie der Gemeinde weiterzuleiten.
+
+#### § 50
+
+**Aufsicht, Vollzug**
+
+<sup>1</sup> Die Gemeinde übt die Aufsicht über das Campingwesen aus.
+
+<sup>2</sup> Der Gemeinde und den kantonalen Aufsichts- und Polizeiorganen steht insbesondere die Befugnis zur Kontrolle des Campingbetriebs zu.
+
+<sup>3</sup> Die Gemeinde kann bei mangelhaftem Unterhalt, vorschriftswidrigem Betrieb oder ungenügender Verwaltung die Betriebsbewilligung widerrufen oder andere geeignete Anordnungen treffen.
+
+### 4.7 Bauvorhaben ausserhalb der Bauzonen
+
+#### § 51
+
+**Zuständige Behörde**
+
+<sup>1</sup> Die Dienststelle Raum und Wirtschaft entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung gemäss den §§ 180 oder 181 PBG erteilt werden kann. Vorbehalten bleibt § 192a Absätze 3 und 4 PBG.
+
+#### § 52
+
+**Schützenswerte Bauten und Anlagen**
+
+<sup>1</sup> Schützenswerte Bauten und Anlagen gemäss § 181 Absatz 1c PBG gelten als unter Schutz gestellt, wenn
+
+- a. sie im kantonalen Denkmalverzeichnis eingetragen sind,
+- b. sie im Zonenplan, im Bau- und Zonenreglement oder in einem Bebauungsplan als schützenswerte Kulturobjekte angeführt sind,
+- c. dies die Gemeinde auf Gesuch hin gestützt auf einen zustimmenden Entscheid der Dienststelle Raum und Wirtschaft im Einzelfall so verfügt; die Dienststelle Raum und Wirtschaft holt dazu die Stellungnahme der Dienststelle Hochschulbildung und Kultur ein.
+
+<sup>2</sup> Über das Gesuch nach Absatz 1c entscheiden die Gemeinde und die Dienststelle Raum und Wirtschaft im Baubewilligungsverfahren. Sie können vorweg auch nur über das Gesuch befinden.
+
+## 5 Baubewilligungspflicht und Baubewilligungsverfahren
+
+### 5.1 Baubewilligungspflicht
+
+#### § 53
+
+**Baubewilligungspflichtige Bauten und Anlagen**
+
+<sup>1</sup> Als Bauten oder Anlagen, für deren Erstellung, bauliche Änderung oder Änderung in der Nutzung eine Baubewilligung einzuholen ist, gelten namentlich
+
+- a. Wohnbauten,
+- b. Industrie-, Gewerbe- und Dienstleistungsbauten,
+- c. öffentliche Bauten und Anlagen (Kirchen, Schulhäuser, Spitäler, Heime, Sport- und Freizeitanlagen usw.),
+- d. landwirtschaftliche Bauten und Anlagen,
+- e. Bauten und Anlagen für Gärtnereien und den Gartenbau,
+- f. Erschliessungsanlagen, einschliesslich Verkehrsanlagen, sofern dafür nicht ein Bewilligungsverfahren nach dem Strassengesetz durchgeführt wird,
+- g. Lager- und Abstellplätze,
+- h. Abfallanlagen,
+- i. Bauten und Anlagen in der Nähe von Gewässern, sofern dafür nicht ein Bewilligungsverfahren nach dem Wasserbaugesetz durchgeführt wird.
+
+<sup>2</sup> Wenn keine wesentlichen öffentlichen oder privaten Interessen dagegensprechen, kann im vereinfachten Baubewilligungsverfahren nach § 198 PBG entschieden werden über
+
+- a. Solaranlagen,
+- b. Heizungs-, Lüftungs- und Klimatisierungsanlagen ausserhalb des Gebäudes,
+- c. energetische Sanierung der Gebäudehülle,
+- d. wesentliche Veränderungen der Fassaden in Gestaltung oder Farbe,
+- e. Bauten, Anlagen oder Änderungen mit Baukosten unter 80 000 Franken,
+- f. zeitlich befristete Bauten, Anlagen und Änderungen,
+- g. zonenkonforme Nutzungsänderungen,
+- h. Mauern und Einfriedungen,
+- i. Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen,
+- j. andere Bauten, Anlagen oder Änderungen, wenn sich dies bei der Prüfung im Einzelfall rechtfertigt.
+
+<sup>3</sup> Sind neben der Baubewilligung in der gleichen Sache weitere Bewilligungen oder Verfügungen erforderlich und gebieten es die Grundsätze der Koordination, ist auch für die in Absatz 2 angeführten Bauten, Anlagen und Änderungen ein ordentliches Baubewilligungsverfahren durchzuführen.
+
+#### § 54
+
+**Baubewilligungsfreie Bauten und Anlagen**
+
+<sup>1</sup> Von der Baubewilligungspflicht ausgenommen sind Bauten und Anlagen oder Änderungen derselben, für die nach dem gewöhnlichen Lauf der Dinge kein Interesse der Öffentlichkeit oder der Nachbarn besteht, die Übereinstimmung mit den öffentlich-rechtlichen Bau- und Nutzungsvorschriften vorgängig zu kontrollieren.
+
+<sup>2</sup> Keiner Baubewilligung bedürfen in der Regel
+
+- a. der Gebäudehülle und der Umgebung angepasste oder direkt auf dem Boden aufgestellte Solaranlagen bis zu 20 m² Fläche, ausser in ortsbildgeschützten Gebieten oder an inventarisierten, schützenswerten Gebäuden,
+- b. Solaranlagen über 20 m² nach Massgabe des Bundesrechts (Art. 18a RPG); sie sind der zuständigen Behörde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Erstellung zu melden,
+- c. Erdwärmenutzungsanlagen bis 400 m unter Terrain,
+- d. Heizungs-, Lüftungs- und Klimatisierungsanlagen innerhalb des Gebäudes,
+- e. bis zu zwei höchstens je 1,2 m² grosse Dachflächenfenster pro Hauptdachfläche, ausser in ortsbildgeschützten Gebieten oder an inventarisierten, schützenswerten Gebäuden,
+- f. der Gebäudehülle und der Umgebung angepasste Parabolantennen bis zu 0,8 m Durchmesser oder solche, die direkt auf dem Boden aufgestellt sind,
+- g. nicht gewerblichen Zwecken dienende bauliche Anlagen der Garten- oder Aussenraumgestaltung wie Pergolen, Gartenwege und -treppen, Sitzplatzbefestigungen, Sandkästen und saisonal aufgestellte Gartenpools von maximal 10 m² Fläche und 1,5 m Höhe, Feuerstellen und Gartencheminées, Brunnen, Teiche, künstlerische Plastiken, Fahnenmasten, Ställe oder Gehege für einzelne Kleintiere,
+- h. Mauern und Einfriedungen bis 1,5 m Höhe ab massgebendem Terrain,
+- i. Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen innerhalb der Bauzonen bis 1,5 m Höhe ab massgebendem Terrain, welche nicht mehr als 150 m³ umfassen,
+- i<sup>bis</sup>. einmalige Terrainveränderungen wie Böschungen, Abgrabungen und Aufschüttungen ausserhalb der Bauzonen bis 0,4 m Höhe ab massgebendem Terrain, welche nicht mehr als 80 m³ unbelasteten Oberboden umfassen, unter Vorbehalt abweichender Vorschriften für bestimmte Schutzzonen; sie sind der zuständigen Behörde nach den Vorgaben des Bau-, Umwelt- und Wirtschaftsdepartementes 20 Tage vor der Ausführung zu melden,
+- j. Kleinstbauvorhaben wie Treib- und Gartenhäuschen mit maximal 4 m² Grundfläche, Werkzeugtruhen, einzelne Automaten,
+- k. Fahrnisbauten wie Festhütten, Zirkuszelte, Tribünen sowie Materiallager bis zu einer Dauer von höchstens einem Monat,
+- l. das Abstellen einzelner Wohnmobile, Wohnwagen oder Boote während der Nichtbetriebszeit auf bestehenden privaten Abstellflächen oder die anderweitige ähnliche Nutzung solcher Abstellflächen, sofern und solange ausreichend Abstellplätze für Motorfahrzeuge übrig bleiben und weder Umgebung noch Aussenbereiche erheblich beeinträchtigt werden,
+- m. das Aufstellen von Reklamen für örtliche Veranstaltungen sowie für Wahlen und Abstimmungen, die gemäss § 6 Absätze 1d und e sowie 2 der Reklameverordnung vom 3. Juni 1997[^54-1] keiner Bewilligung bedürfen.
+
+[^54-1]: SRL Nr. [739](https://srl.lu.ch/data/739/de)
+
+### 5.2 Baubewilligungsverfahren
+
+#### § 55
+
+**Baugesuch und Beilagen**
+
+<sup>1</sup> Das Baugesuch ist mit dem kantonalen Formular dreifach einzureichen. Die Gemeinde kann weitere Exemplare verlangen, soweit dies für die Beurteilung des Bauvorhabens erforderlich ist. Das Baugesuch kann zusätzlich elektronisch eingereicht werden, sofern die Gemeinde über die nötige Infrastruktur verfügt.
+
+<sup>2</sup> Mit dem Baugesuch sind die für eine umfassende und abschliessende Prüfung und Beurteilung des Bauvorhabens notwendigen Unterlagen einzureichen, mindestens jedoch
+
+- a. ein aktueller Situationsplan, in der Regel im Massstab 1:500, in dem das geplante Vorhaben, die Nachbargebäude, die massgebenden Abstände (Grenz-, Gebäude-, Strassen-, Gewässer- und Waldabstände), die Baulinien und die Zu- und Wegfahrten eingezeichnet und vermasst sind,
+- b. die Grundrisspläne aller Geschosse, die Fassaden- und Schnittpläne, alle im Mindestmassstab 1:100; die Pläne müssen vollständige Angaben enthalten über Erdgeschoss-, Fassaden- und Gesamthöhen in Metern über Meer, Innen- und Aussenmasse, Art der Fundation, Mauerstärken, Geschoss- und lichte Raumhöhen, Dachkonstruktionen, Fensterflächen, Bodenflächen, Zweckbestimmung der Räume, Feuerstellen und Kamine, Tankanlagen sowie den bestehenden und projektierten Terrainverlauf mit den wichtigsten Höhenkoten,
+- c. ein Plan über die Umgebungsgestaltung im Massstab 1:100, in dem namentlich die Abstellflächen für Fahrzeuge, die interne Erschliessung, die vorhandenen und geplanten Leitungen und die Spielplätze und Freizeitanlagen eingezeichnet und vermasst sind,
+- d. der Nachweis der energetischen Massnahmen gemäss den §§ 11–18 des Kantonalen Energiegesetzes vom 14. Dezember 2017[^55-1] (Energienachweis); liegen diese Unterlagen, die den Vorgaben der Dienststelle Umwelt und Energie zu entsprechen haben, noch nicht vor, sind sie spätestens vor Baubeginn nachzureichen,
+- e. die Pläne für die Abwasseranlagen im Massstab 1:100 mit Vermassung, Höhenkoten und Angaben zum Gefälle und dem verwendeten Material,
+- f. ein Übersichtsplan im Massstab 1:500 bis 1:2000 mit der weiteren Umgebung, ein Modell und ein Schattenwurfdiagramm bei Hochhäusern,
+- g. die «Deklaration Erdbebensicherheit Kanton Luzern» mit den darin geforderten Beilagen,
+- h. Brandschutzpläne für Bauten, die infolge ihrer Nutzung ein erhöhtes Risiko aufweisen, nach den Vorgaben der Gebäudeversicherung,
+- i. detaillierte Berechnungen zum Nachweis der Einhaltung der vorgeschriebenen Bauziffern,
+- j. Nachweis der Bodenverwertung gemäss eidgenössischer Abfallverordnung[^55-2],
+- k. Angaben über die Art, die Qualität und die Menge der anfallenden Abfälle und über die vorgesehene Verwertung und Entsorgung nach den Vorgaben der Dienststelle Umwelt und Energie.
+
+<sup>3</sup> Die Gemeinde kann weitere für die Prüfung und Beurteilung des Bauvorhabens notwendige Unterlagen (Fotografien, Grundbuchauszüge, Modelle usw.) einverlangen.
+
+<sup>4</sup> Bei Um-, An- und Ausbauten oder anderen Änderungen sind bestehende Bauteile schwarz oder grau, neue rot und abzubrechende gelb zu kennzeichnen.
+
+<sup>5</sup> Die Beilagen sind zu datieren und die Pläne mit einer Nummer zu versehen. Beilagen und Pläne sind von der Bauherrschaft, den Verfasserinnen und Verfassern sowie den Grundeigentümerinnen und -eigentümern zu unterzeichnen.
+
+[^55-1]: SRL Nr. [773](https://srl.lu.ch/data/773/de)
+[^55-2]: SR [814.600](https://db.clex.ch/link/Bund/814.600/de)
+
+#### § 56
+
+**Unterzeichnung des Baugesuchs**
+
+<sup>1</sup> Das Baugesuch ist eigenhändig zu unterzeichnen. Das allenfalls zusätzlich elektronisch eingereichte Baugesuch ist mit elektronischer Unterschrift nach Artikel 14 Absatz 2<sup>bis</sup> des Schweizerischen Obligationenrechts vom 30. März 1911[^56-1] zu versehen.
+
+<sup>2</sup> Bei gemeinschaftlichem Eigentum ist die nach Massgabe des Zivilrechts erforderliche Zustimmung der Gesamt-, Mit- oder Stockwerkeigentümerschaft nachzuweisen.
+
+[^56-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+#### § 57
+
+**Planverfasserinnen und -verfasser**
+
+<sup>1</sup> Die Planverfasserinnen und -verfasser sind qualifizierte Fachleute im Sinn von § 188 Absatz 3 PBG, wenn sie über ein einschlägiges Diplom einer schweizerischen Hoch- oder Fachhochschule oder einer ehemaligen schweizerischen höheren technischen Lehranstalt verfügen oder im schweizerischen Register der Architekten, Ingenieure und Techniker (REG A oder REG B) eingetragen sind. Als solche Fachleute gelten ebenso die Inhaberinnen und Inhaber von gleichwertigen ausländischen Diplomen.
+
+<sup>2</sup> Diese Anforderungen nicht zu erfüllen haben Architektinnen und Architekten sowie Ingenieurinnen und Ingenieure, die ihren Beruf mindestens seit dem 1. Januar 1990 ausüben.
+
+<sup>3</sup> Pläne für landwirtschaftliche Bauten, Einfamilien-, Doppeleinfamilien- und Zweifamilienhäuser können Baufachleute verfassen, die ihren Beruf bei Einreichung des Baugesuchs seit mindestens fünf Jahren ausüben.
+
+<sup>4</sup> Pläne für Bauten und Anlagen, über die im vereinfachten Baubewilligungsverfahren nach § 198 PBG entschieden wird, kann jedermann verfassen.
+
+#### § 58
+
+**Öffentliche Bekanntmachung und Auflage**
+
+<sup>1</sup> Die Gemeinde hat Baugesuche gleichzeitig ortsüblich, im Internet und – falls erforderlich – in anderer Form, insbesondere im Kantonsblatt, öffentlich bekannt zu machen.
+
+<sup>2</sup> Wird das Baugesuch zusätzlich elektronisch eingereicht, hat die Gemeinde das Gesuchsformular mit sämtlichen Beilagen während der öffentlichen Auflage im Internet zur Einsicht bereitzustellen, sofern sie über die nötige Infrastruktur verfügt.
+
+<sup>3</sup> In der Bekanntmachung ist auf die Einsprachemöglichkeit während der Auflagefrist hinzuweisen.
+
+#### § 59
+
+**Vernehmlassung**
+
+<sup>1</sup> Den interessierten kantonalen Stellen und, bei Bauten im Sinn von § 157 PBG, der Beratungsstelle für behindertengerechtes Bauen ist mit Beginn der öffentlichen Bekanntmachung Gelegenheit zu geben, zum Baugesuch innert der gesetzten Frist Stellung zu nehmen.
+
+#### § 60
+
+**Kantonale Entscheidsbehörde**
+
+<sup>1</sup> Ist das Nutzungsplanungs- oder Baubewilligungsverfahren das Leitverfahren, erlässt die erforderlichen Bewilligungen und Verfügungen aller kantonalen Stellen in einem Entscheid
+
+- a. das Bau-, Umwelt- und Wirtschaftsdepartement, wenn die Baubewilligung mit Bewilligungen oder Verfügungen mindestens eines Departementes zu koordinieren ist; dabei handelt die Dienststelle Raum und Wirtschaft als Instruktionsinstanz,
+- b. die Dienststelle Raum und Wirtschaft in den übrigen Fällen.
+
+#### § 61
+
+**Koordination**
+
+<sup>1</sup> Die Leitbehörde sorgt, gegebenenfalls in Absprache mit der kantonalen Entscheidsbehörde, insbesondere für
+
+- a. eine zweckmässige Information der am Verfahren Beteiligten,
+- b. eine gemeinsame öffentliche Auflage aller Gesuchsunterlagen,
+- c. die Durchführung der zur Klärung des Sachverhalts notwendigen Beweismassnahmen,
+- d. die Einberufung von Koordinationssitzungen, wenn dazu ein Bedarf besteht.
+
+<sup>2</sup> Die kantonale Leit- oder Entscheidsbehörde stellt die mitwirkenden kantonalen Behörden fest und bestimmt die Fristen und die Form für deren Berichte. Sie wirkt im Weiteren auf die inhaltliche Abstimmung der Berichte der mitwirkenden kantonalen Behörden sowie der kommunalen Baubewilligung mit dem kantonalen Entscheid hin, der alle in der gleichen Sache erforderlichen Bewilligungen und Verfügungen umfasst.
+
+<sup>3</sup> Bei Streitigkeiten über die Notwendigkeit, die Baubewilligung mit weiteren Bewilligungen und Verfügungen in der gleichen Sache zu koordinieren, trifft die Leitbehörde einen verfahrensleitenden Entscheid. Wenn über die inhaltliche Ausgestaltung des kantonalen Entscheids, der alle in der gleichen Sache erforderlichen Bewilligungen und Verfügungen umfasst, unter den mitwirkenden kantonalen Behörden Uneinigkeit besteht und ein Bereinigungsgespräch erfolglos bleibt, entscheidet
+
+- a. der Regierungsrat, wenn er Leitbehörde ist,
+- b. das Bau-, Umwelt- und Wirtschaftsdepartement in den übrigen Fällen.
+
+<sup>4</sup> Kann die Baubewilligung oder eine der weiteren in der gleichen Sache erforderlichen Bewilligungen oder Verfügungen wegen offensichtlicher Rechtsverletzung nicht erteilt werden, entscheidet die Baubewilligungs- oder die kantonale Leit- oder Entscheidsbehörde darüber vorweg mit separater Verfügung.
+
+#### § 62
+
+**Entscheid**
+
+<sup>1</sup> Der Entscheid über das Baugesuch und die Einsprachen oder, wenn in der gleichen Sache weitere Bewilligungen und Verfügungen erforderlich sind, alle Entscheide gleichzeitig und gemeinsam sind der Dienststelle Raum und Wirtschaft in der jeweils verlangten Anzahl, mindestens aber dreifach zuzustellen.
+
+<sup>2</sup> Die Gemeinde verweist die Einsprecherinnen und Einsprecher mit privatrechtlichen Einsprachen an den Zivilrichter.
+
+#### § 63
+
+**Fristen**
+
+<sup>1</sup> Bei vereinfachten Baubewilligungsverfahren nach § 198 PBG sind 80 Prozent der Fälle im Jahr innert 25 Arbeitstagen nach Eingang des Baugesuchs mit Entscheid abzuschliessen.
+
+<sup>2</sup> Bei ordentlichen Baubewilligungsverfahren sind 80 Prozent der Fälle im Jahr innert 40 Arbeitstagen nach Eingang des Baugesuchs mit Entscheid abzuschliessen.
+
+<sup>3</sup> Bei der Ermittlung der Behandlungsdauer der einzelnen Fälle sind die für die Behebung von gerügten Mängeln des Baugesuchs benötigten Arbeitstage und solche während Sistierungen nicht mitzurechnen.
+
+<sup>4</sup> Werden die in den Absätzen 1 und 2 vorgegebenen Erreichungsgrade unterschritten, sind organisatorische Massnahmen vorzusehen.
+
+## 6 Kosten
+
+#### § 64
+
+**Einsprachen**
+
+<sup>1</sup> Bei einer Kostenpflicht nach § 212 Absatz 2 PBG betragen die Spruchgebühren im erstinstanzlichen Baubewilligungs- und Gestaltungsplanverfahren in der Regel höchstens 2000 Franken pro Einsprache. Sie können auf maximal 5000 Franken erhöht werden, wenn ausserordentliche Umstände, namentlich komplexe Bauvorhaben oder einen besonders hohen Aufwand verursachende Einsprachen, dies rechtfertigen.
+
+<sup>2</sup> Die amtlichen Kosten können erlassen oder angemessen reduziert werden, wenn die Einsprache zurückgezogen wird.
+
+<sup>3</sup> Im Übrigen gilt für die Kostenfreiheit und -ermässigung § 200 des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^64-1].
+
+[^64-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+
+#### § 65
+
+**Gebühren**
+
+<sup>1</sup> Die kantonalen Behörden erheben für Vorabklärungen, Stellungnahmen und Auskünfte in Bau- und Planungssachen Gebühren gemäss § 2 des Gebührentarifs und der Kostenverordnung für die Staatsverwaltung vom 28. Mai 1982[^65-1].
+
+<sup>1<sup>bis</sup></sup> Für Vorprüfungen von Richtplänen, Bau- und Zonenordnungen sowie Bebauungsplänen wird eine Gebühr von 1000 bis 5000 Franken erhoben. Innerhalb des Gebührenrahmens bemessen sich die Gebühren nach dem Zeitaufwand. Bei besonders aufwendigen Vorprüfungen kann die Gebühr bis zum Anderthalbfachen des Maximalansatzes erhöht werden. Bei besonders geringem Zeitaufwand wird die Gebühr reduziert.
+
+<sup>2</sup> Für Vorprüfungen von Änderungen der Bau- und Zonenordnungen sowie von Bebauungsplänen, die der Realisierung bestimmter, vorwiegend im privaten Interesse liegender Vorhaben dienen, und für weitere, nicht durch Entscheid abzuschliessende Aufgaben im Bereich der Verfahrenskoordination und des Projektmanagements erheben die kantonalen Behörden Gebühren nach Zeitaufwand. Diese betragen pro Stunde 55 bis 275 Franken.
+
+[^65-1]: SRL Nr. [681](https://srl.lu.ch/data/681/de)
+
+## 7 Schlussbestimmungen
+
+#### § 66
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Planungs- und Bauverordnung vom 27. November 2001[^66-1] wird aufgehoben.
+
+[^66-1]: G 2001 385 (SRL Nr. 736)
+
+#### § 67
+
+**Änderung von Erlassen**
+
+<sup>1</sup> Die folgenden Erlasse werden gemäss Anhang[^67-1] zu dieser Totalrevision geändert:
+
+- a. Umweltschutzverordnung vom 15. Dezember 1998[^67-2],
+- b. Verordnung zum Schutze des Mauensees und seiner Ufer vom 28. Mai 1962[^67-3],
+- c. Verordnung über Grundeigentümer-Beiträge an öffentliche Werke (Perimeterverordnung) vom 16. Oktober 1969[^67-4],
+- d. Strassenverordnung vom 19. Januar 1996[^67-5],
+- e. Reglement über die Wasserversorgung in St. Urban vom 15. Juni 2012[^67-6],
+- f. Energieverordnung vom 11. Dezember 1990[^67-7],
+- g. Verordnung zum Gesetz über das Gastgewerbe, den Handel mit alkoholischen Getränken und die Fasnacht (Gastgewerbeverordnung) vom 30. Januar 1998[^67-8].
+
+[^67-1]: Die Erlassänderungen, die der Regierungsrat am 29. Oktober 2013 zusammen mit der Planungs- und Bauverordnung beschlossen hat, bilden gemäss § 67 einen Bestandteil dieser Verordnung. Sie wurden in einem Anhang wiedergegeben, der am 16. November 2013 in der Gesetzessammlung veröffentlicht wurde (G 2013 554). Bei der vorliegenden Ausgabe wird auf die Wiedergabe dieses Anhangs mit den Erlassänderungen verzichtet.
+[^67-2]: SRL Nr. 701
+[^67-3]: SRL Nr. 711b
+[^67-4]: SRL Nr. 732
+[^67-5]: SRL Nr. 756
+[^67-6]: SRL Nr. 771a
+[^67-7]: SRL Nr. 774
+[^67-8]: SRL Nr. 981
+
+#### § 68
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die §§ 8–10 Absatz 1, 11–19, 23–26 und 42 der Planungs- und Bauverordnung vom 27. November 2001, Stand 1. Oktober 2011, haben in den einzelnen Gemeinden bis zum Inkrafttreten der Bestimmungen gemäss § 69 Absatz 2 weiterhin Geltung. Sie sind im Anhang zu dieser Verordnung aufgeführt.
+
+<sup>2</sup> Das Recht auf Realisierung übertragener Ausnützung im Sinn von § 14 der aufgehobenen Planungs- und Bauverordnung verwirkt mit der gemeindeweisen Einführung der Überbauungsziffer.
+
+<sup>3</sup> Bis zur gemeindeweisen Inkraftsetzung der neuen Bestimmungen gemäss § 69 Absatz 2 werden bei der Berechnung der Ausnützungsziffer 5 Prozent der anrechenbaren Geschossflächen nicht angerechnet, wenn
+
+- a. bei Neubauten
+  - 1\. der Zielwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
+  - 2\. eine Zertifizierung des Labels Minergie mit dem Zusatz P oder A erreicht wird,
+- b. bei Umbauten
+  - 1\. der Neubaugrenzwert der Schweizer Norm SN 520 380/1 (Ausgabe 2016) zum Heizwärmebedarf oder
+  - 2\. eine Zertifizierung des Labels Minergie erreicht wird.
+
+#### § 69
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verordnung tritt mit Ausnahme der in Absatz 2 angeführten Paragrafen am 1. Januar 2014 in Kraft. Sie ist zu veröffentlichen.
+
+<sup>2</sup> Die §§ 11–18 sowie 34–36 werden mit separatem Beschluss gemeindeweise in Kraft gesetzt.[^69-1]
+
+[^69-1]: Die Gemeinden, in denen diese Bestimmungen in Kraft sind, sind mit dem Zeitpunkt des jeweiligen Inkrafttretens im Beschluss SRL Nr. [736a](https://srl.lu.ch/data/736a/de) aufgeführt. Der Regierungsrat erlässt den Beschluss mit der Bezeichnung der ersten Gemeinde, in der die neuen Bestimmungen gelten.
+
+## Anhang 1: Weiter geltende Bestimmungen der aufgehobenen Planungs- und Bauverordnung gemäss § 68
+
+[^69-2]
+
+[^69-2]: Der Kanton Luzern trat auf den 1. Januar 2014 der Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe (IVHB) vom 22. September 2005 [SRL Nr. [737](https://srl.lu.ch/data/737/de) (G 2013 481)] bei und passte auf dieses Datum hin das Planungs- und Baugesetz (PBG) (K 2013 1885 und G 2013 490) und mittels Neuerlass die Planungs- und Bauverordnung (PBV) (G 2013 523) an diese Vereinbarung an. Gemäss § 68 PBV vom 29. Oktober 2013 gelten für die Gemeinden die folgenden älteren Bestimmungen der PBV, Stand 1. Oktober 2011, bis zu ihrer gemeindeweisen Aufhebung beziehungsweise der gemeindeweisen Inkraftsetzung von neuen Bestimmungen durch den Regierungsrat (vgl. SRL Nr. [736a](https://srl.lu.ch/data/736a/de)) weiter.
+
+#### § A1-8
+
+**Berechnung**
+
+<sup>1</sup> Die Ausnützungsziffer wird wie folgt berechnet:
+
+Ausnützungsziffer = anrechenbare Geschossflächen / anrechenbare Grundstücksfläche
+
+#### § A1-9
+
+**Anrechenbare Geschossflächen**
+
+<sup>1</sup> Als anrechenbare Geschossflächen gelten die tatsächlichen Flächen des abgeschlossenen Raums aller Geschosse ohne Aussenmauern und ohne die in § 10 Absatz 1 genannten Flächen, multipliziert mit einem Berechnungsfaktor, der für die ein- bis dreigeschossigen Zonen 0,8, ab den viergeschossigen Zonen für alle übrigen Zonen 0,9 beträgt.
+
+<sup>2</sup> Ändert die Gemeinde die Ausnützungsziffer, beträgt der Berechnungsfaktor für die betreffende Zone oder das betreffende Gebiet 1,0, worauf im Bau- und Zonenreglement hinzuweisen ist. Zur Sicherstellung der Änderung der Ausnützungsziffer kann die Gemeinde eine Planungszone (§§ 81 ff. PBG) bestimmen.
+
+#### § A1-10
+
+**Nicht anrechenbare Geschossflächen**
+
+<sup>1</sup> Nicht angerechnet werden die tatsächlichen Flächen der
+
+- a. nicht sichtbaren Untergeschosse und eines sichtbaren, gemäss § 138 Absatz 1 PBG nicht zu den Vollgeschossen zählenden Untergeschosses, jeweils maximal im Umfang der Fläche eines durchschnittlichen Vollgeschosses mit einem Zuschlag von 10 Prozent in den ein- und zweigeschossigen Zonen und von 20 Prozent ab den dreigeschossigen Zonen in allen übrigen Zonen,
+- b. Untergeschosse der durch eine Staffelung versetzten, mindestens zweigeschossigen Gebäudeteile, nach Massgabe von Buchstabe a,
+- c. Brennstofflager- und Heizräume sowie Wärmespeicher in Untergeschossen, die gemäss § 138 Absatz 1 PBG nicht zu den Vollgeschossen zählen,
+- d. verglasten Balkone, Veranden und Wintergärten bis zu 15 Prozent der anrechenbaren Geschossflächen der zugehörigen Wohnung; sie dürfen keine heiztechnischen Einrichtungen haben und müssen gegenüber den anrechenbaren Räumen abgeschlossen sein,
+- e. Räume für Velos und Motorfahrräder sowie für Kinderwagen,
+- f. in der Baubewilligung vorgeschriebenen Pflichtabstellflächen für Motorfahrzeuge, soweit sie nicht gewerblichen Zwecken dienen, sowie der Eingänge und Zufahrten dazu,
+- g. Dachgeschosse, soweit ihre lichte Raumhöhe weniger als 1,5 m beträgt.
+
+<sup>2</sup> …
+
+#### § A1-11
+
+**Abzüge für behindertengerechtes Bauen**
+
+<sup>1</sup> Sind die Anforderungen an die behindertengerechte Bauweise nach § 157 PBG erfüllt, werden die folgenden Geschossflächen nicht angerechnet:
+
+- a. bei Bauten und Anlagen mit Publikumsverkehr
+  - 1\. 1,5 m² für das WC bei Neubauten, Erweiterungen und neubauähnlichen Umbauten,
+  - 2\. 5 m² pro Geschoss für den Lift bei Erweiterungen und neubauähnlichen Umbauten,
+- b. bei grösseren industriellen und gewerblichen Bauten und Anlagen
+  - 1\. 1,5 m² für das WC bei Erweiterungen und neubauähnlichen Umbauten,
+- c. bei Mehrfamilienhäusern
+  - 1\. 5 m² pro Geschoss für den Lift bei Erweiterungen und neubauähnlichen Umbauten und bei Neubauten, die bis zu drei Geschosse aufweisen,
+  - 2\. 1 m² pro Geschoss für den Lift bei Neubauten, die mehr als drei Geschosse aufweisen,
+  - 3\. 1 m² pro Wohnung für das Badezimmer oder das WC bei Neubauten, Erweiterungen und neubauähnlichen Umbauten.
+
+#### § A1-12
+
+**Anrechenbare Grundstücksfläche**
+
+<sup>1</sup> Als anrechenbare Grundstücksfläche gilt die vermessene Fläche des Grundstücks in einer Bauzone ohne
+
+- a. bestehende oder in einem genehmigten Bebauungsplan, Gestaltungsplan, Landumlegungsplan, Strassenplan, Baulinienplan oder Strassenprojekt vorgesehene Fahrbahn- und Trottoirflächen,
+- b. Flächen, die gestützt auf einen genehmigten Zonenplan, Bebauungsplan, Gestal-tungsplan, Landumlegungsplan, Strassenplan, Baulinienplan oder ein genehmigtes Strassen- oder Wasserbauprojekt zu öffentlichen Zwecken abgetreten werden müssen,
+- c. Wälder und Gewässer.
+
+<sup>2</sup> Die für die Erschliessung notwendigen Zu- und Wegfahrten, die Wohnstrassen, die Fusswege und die offenen Pflichtabstellflächen für Fahrzeuge werden angerechnet.
+
+<sup>3</sup> Soweit die in Absatz 1a und b erwähnten Flächen 10 Prozent der vermessenen Grundstücksfläche (ohne Wälder und Gewässer und ohne die Flächen gemäss Absatz 2) nicht übersteigen, dürfen sie für die anrechenbare Grundstücksfläche berücksichtigt werden. Dies gilt im gleichen Ausmass für Flächen, die seit dem 1. Januar 1971 nachweisbar für die genannten Zwecke abgetreten und abparzelliert wurden.
+
+#### § A1-13
+
+**Verbot mehrfacher Berücksichtigung der gleichen Grundstücksfläche**
+
+<sup>1</sup> Eine Grundstücksfläche, die bei einer Baute bereits einmal für die Einhaltung der höchstzulässigen Ausnützungsziffer verwendet wurde, darf nicht noch einmal für eine Baute in Anspruch genommen werden.
+
+<sup>2</sup> Ganz oder teilweise überbaute Grundstücke dürfen nur so geteilt werden, dass die Ausnützungsziffer sowohl im Einzelnen wie auch im Gesamten eingehalten ist; vorbehalten wird die Regelung bei Gesamt- und Reihenhausüberbauungen.
+
+#### § A1-14
+
+**Ausnützungsübertragung**
+
+<sup>1</sup> Das Recht auf die nicht beanspruchte Ausnützung eines Grundstücks kann auf ein anderes Baugrundstück übertragen werden, wenn die beiden Grundstücke benachbart sind, in der gleichen Bauzone liegen und der Zonencharakter gewahrt bleibt.
+
+<sup>2</sup> Im Bereich der Grundstücksgrenze liegende Privatstrassen und Wege sowie kleinere Gewässer hindern eine Ausnützungsübertragung nicht.
+
+<sup>3</sup> Bei Bebauungs- und Gestaltungsplänen kann das Recht auf die nicht beanspruchte Ausnützung übertragen werden, auch wenn
+
+- a. die Grundstücke nicht in der gleichen Bauzone liegen, sofern die örtlichen Verhältnisse dies zulassen,
+- b. die Grundstücke nicht benachbart sind; die Entfernung darf aber höchstens 100 m betragen, von Grundstücksgrenze zu Grundstücksgrenze gemessen.
+
+<sup>4</sup> Die Übertragung des Rechts auf Ausnützung ist im Grundbuch auf Kosten der berechtigten Grundeigentümerin oder des berechtigen Grundeigentümers beim Grundstück, das Ausnützung abgibt, als öffentlich-rechtliche Eigentumsbeschränkung und beim Grundstück, das Ausnützung erhält, anzumerken. Die Gemeinde hat den Antrag auf Anmerkung zu stellen.
+
+#### § A1-15
+
+**Nebenräume**
+
+<sup>1</sup> Wohnbauten haben als Nebenräume nebst Wasch- und Trockenräumen Abstellräume, Keller oder Estriche von insgesamt mindestens 5 m² für Mieterinnen und Mieter von Ein- und Zweizimmerwohnungen und von insgesamt mindestens 7 m² für Mieterinnen und Mieter grösserer Wohnungen aufzuweisen.
+
+#### § A1-16
+
+**Bestehende anrechenbare Geschossflächen**
+
+<sup>1</sup> Bestehende, am 1. Januar 1996 mit der Änderung der Vollzugsverordnung zum Planungs- und Baugesetz vom 19. Dezember 1995[^A116-1] anrechenbar gewordene Geschossflächen dürfen genutzt oder benutzbar gemacht werden, auch wenn infolge dieser Änderung die massgebliche Ausnützungsziffer überschritten ist.
+
+[^A116-1]: G 1995 540
+
+#### § A1-17
+
+**Berechnung**
+
+<sup>1</sup> Die Überbauungsziffer wird wie folgt berechnet:
+
+Überbauungsziffer = überbaubare Grundfläche / anrechenbare Grundstücksfläche gemäss § 12
+
+#### § A1-18
+
+**Überbaubare Grundfläche**
+
+<sup>1</sup> Die überbaubare Grundfläche entspricht jenem Teil des Grundstücks, auf dem Erd- und Obergeschosse das gewachsene oder tiefer gelegte Terrain überragen. Gebäudeteile, die das gewachsene, tiefer gelegte oder aufgeschüttete Terrain nicht oder um weniger als 1 m überragen, sind bei der überbaubaren Grundfläche so weit mitzuberücksichtigen, wie sie natürlich belichtete Wohn- und Arbeitsräume enthalten.
+
+<sup>2</sup> Bei der überbaubaren Grundfläche werden nicht angerechnet
+
+- a. über die Fassade vorspringende offene Gebäudeteile sowie offene Gartenhallen und überdachte offene Hauszugänge,
+- b. die Flächen der unbeheizten Veranden, Windfänge, verglasten Balkone und Wintergärten bis zu 10 Prozent der anrechenbaren Geschossflächen der zugehörigen Wohnung,
+- c. nicht gewerblich genutzte Nebenbauten wie Gewächshäuser, Geräteschuppen, Kleintierställe, Spielhäuschen und Velounterstände,
+- d. Garagenbauten und Einstellhallen mit Pflichtabstellflächen, die mit höchstens zwei Dritteln ihrer Aussenflächen aus dem gewachsenen, tiefer gelegten oder aufgeschütteten Terrain herausragen,
+- e. Liftanbauten bei bestehenden Bauten, sofern sich der Lift nicht im Innern des Gebäudes errichten lässt,
+- f. die zusätzliche Aussenisolation bei bestehenden Bauten.
+
+<sup>3</sup> Die Abzüge für behindertengerechtes Bauen gemäss § 11 gelten sinngemäss.
+
+#### § A1-19
+
+**Verbot mehrfacher Berücksichtigung der gleichen Grundstücksfläche und Übertragung überbaubarer Grundfläche**
+
+<sup>1</sup> Für das Verbot der mehrfachen Berücksichtigung der gleichen Grundstücksfläche finden die Vorschriften in § 13 Anwendung.
+
+<sup>2</sup> Für die Übertragung des Rechts auf die nicht beanspruchte überbaubare Grundfläche eines Grundstücks auf ein anderes Baugrundstück gilt sinngemäss § 14.
+
+#### § A1-23
+
+**Berechnung**
+
+<sup>1</sup> Die Grünflächenziffer wird wie folgt berechnet:
+
+Grünflächenziffer = Grünfläche / anrechenbare Grundstücksfläche gemäss § 12
+
+#### § A1-24
+
+**Grünfläche**
+
+<sup>1</sup> Als Grünflächen gelten Wiesen, Hecken, Rabatten, offene Flächen für Spiel und Erholung, Gärten, Parks sowie Teiche und Weiher.
+
+<sup>2</sup> Als Grünflächen können auch Freizeitanlagen, Wege, begrünte Tiefgaragen, Flächen mit Rasengittersteinen und dergleichen gelten, wenn diese Flächen den Zweck der ordentlichen Grünflächen erfüllen und entsprechend wirken.
+
+<sup>3</sup> Nicht anrechenbar sind bestehende Wälder und öffentliche Gewässer.
+
+#### § A1-25
+
+**Berechnung**
+
+<sup>1</sup> Der Versiegelungsanteil wird wie folgt berechnet:
+
+Versiegelungsanteil = versiegelte Flächen / ganze Grundstücksfläche
+
+#### § A1-26
+
+**Versiegelte und unversiegelte Flächen**
+
+<sup>1</sup> Versiegelte Flächen sind nicht wasserdurchlässig, wie dies namentlich für Flächen mit Ziegeln, Faserzement, Blech, Glas, Kiesklebematerial, Asphalt und Beton zutrifft.
+
+<sup>2</sup> Unversiegelte Flächen sind wasserdurchlässig, wie dies namentlich für Wiesen, Wälder, Parks, Gärten und Flächen mit sickerfähigen Belägen zutrifft.
+
+#### § A1-42
+
+**Mehrlängenzuschlag**
+
+<sup>1</sup> Bei der Ermittlung der gesamten Fassadenlänge zur Berechnung des Mehrlängenzuschlags nach § 122 Absatz 5 PBG bleibt eine zurückgesetzte Fassade um das Mass ihrer Zurücksetzung gegenüber der massgebenden Fassade unberücksichtigt.
+
+G 2013 523

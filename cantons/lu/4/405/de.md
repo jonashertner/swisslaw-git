@@ -1,0 +1,603 @@
+---
+canton: LU
+number: "405"
+title: Verordnung zum Gesetz über die Volksschulbildung
+short: "Volksschulbildungsverordnung, VBV"
+language: de
+version: 2020-08-01
+valid_until: 2022-07-31
+version_adopted: 2020-04-07
+adopted: 2008-12-16
+in_force: 2009-01-01
+url: "https://srl.lu.ch/app/de/texts_of_law/405"
+pdf: "https://srl.lu.ch/api/de/versions/3609/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zum Gesetz über die Volksschulbildung
+
+(Volksschulbildungsverordnung, VBV)
+
+vom 16.12.2008 (Stand 01.08.2020)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf die §§ 37, 61a Absatz 4 und 62 Absatz 6 des Gesetzes über die Volksschulbildung vom 22. März 1999[^ingress-1],
+
+auf Antrag des Bildungs- und Kulturdepartementes,
+
+beschliesst:
+
+[^ingress-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de)
+
+## 1 Schulorganisatorische Bestimmungen
+
+#### § 1
+
+**Schuljahr**
+
+<sup>1</sup> Das Schuljahr beginnt am 1. August eines Kalenderjahres und endet am 31. Juli des folgenden Kalenderjahres.
+
+<sup>2</sup> Die Bildungskommission entscheidet über den Zeitpunkt des Unterrichtsbeginns im Rahmen der kantonalen Vorgaben.
+
+#### § 2
+
+**Ferien und schulfreie Tage**
+
+<sup>1</sup> Pro Schuljahr haben die Lernenden insgesamt 14 Wochen Ferien.
+
+<sup>2</sup> Die Ferien dauern im Herbst zwei oder drei Wochen, an Weihnachten zwei Wochen, in der Fasnachtszeit zwei Wochen nacheinander oder aufgeteilt in eine Woche Fasnachtsferien und eine Woche Sportferien, im Frühjahr zwei Wochen und im Sommer fünf oder sechs Wochen.
+
+<sup>3</sup> Das Bildungs- und Kulturdepartement legt den Ferienplan mit den für alle Gemeinden verbindlichen Weihnachts- und Frühjahrsferien fest und bestimmt für die variablen Ferien im Herbst, in der Fasnachtszeit und im Sommer die Eckdaten. Die Bildungskommission legt auf Antrag der Schulleitung die variablen Ferien fest.
+
+<sup>4</sup> Die Tage nach Auffahrt und Fronleichnam sind unterrichtsfrei.
+
+<sup>5</sup> Die Bildungskommission kann Lernenden erlauben, dem Unterricht während höchstens vier Halbtagen pro Schuljahr ohne Vorliegen von Dispensationsgründen fernzubleiben (Jokertage).
+
+#### § 3
+
+**Unterrichtszeiten**
+
+<sup>1</sup> Die Bildungskommission legt im Rahmen der kantonalen Vorgaben die wöchentlichen Schulhalbtage, die schulfreien Halbtage und allfällige Blockzeiten fest.
+
+<sup>2</sup> Sie legt die täglichen Schulanfangs- und -schlusszeiten, die Pausen sowie die maximalen und die minimalen Unterrichtszeiten pro Halbtag für die verschiedenen Schulstufen und Klassen fest.
+
+<sup>3</sup> Die Unterrichtszeit pro Lektion beträgt 45 Minuten. Zwischen zwei Lektionen ist eine Pause von fünf Minuten einzusetzen. Pausen dürfen nicht an die Lektionsdauer angerechnet werden.
+
+<sup>4</sup> Der Unterricht im Kindergarten und in der Primarschule findet am Vormittag in Blockzeiten statt.
+
+#### § 3a
+
+**Kindergarten**
+
+<sup>1</sup> Der Kindergarten dauert zwei Jahre, wovon ein Jahr obligatorisch und das zweite Jahr freiwillig besucht wird.
+
+<sup>2</sup> Der Unterricht im Kindergarten findet mindestens an fünf Vormittagen und an einem Nachmittag statt.
+
+<sup>3</sup> Der Eintritt in den Kindergarten ist halbjährlich möglich.
+
+#### § 3b
+
+**Basisstufe**
+
+<sup>1</sup> Die Basisstufe umfasst den Kindergarten und die ersten beiden Jahre der Primarschule.
+
+<sup>2</sup> Sie dauert in der Regel vier Jahre. Je nach individueller Entwicklung des oder der Lernenden kann die Dauer drei bis fünf Jahre betragen.
+
+<sup>3</sup> Der Unterricht in der Basisstufe findet mindestens an fünf Vormittagen und an einem Nachmittag statt.
+
+<sup>4</sup> Der Eintritt in die Basisstufe ist halbjährlich möglich.
+
+#### § 3c
+
+**Gliederung und Modelle der Sekundarschule**
+
+<sup>1</sup> Die Sekundarschule gliedert sich in die Niveaus A (höhere Anforderungen), B (erweiterte Anforderungen) und C (grundlegende Anforderungen).
+
+<sup>2</sup> Die Sekundarschule wird im getrennten, im kooperativen oder im integrierten Modell geführt.
+
+<sup>3</sup> Beim getrennten Modell werden die Niveaus A, B und C in eigenen Stammklassen geführt.
+
+<sup>4</sup> Beim kooperativen Modell werden die Niveaus A und B gemeinsam in einer Stammklasse und das Niveau C in einer eigenen Stammklasse geführt.
+
+<sup>5</sup> Beim integrierten Modell werden die Stammklassen niveauübergreifend geführt.
+
+<sup>6</sup> …
+
+#### § 3d
+
+**Organisation der Niveaufächer in der Sekundarschule**
+
+<sup>1</sup> Die Fächer Deutsch, Mathematik, Französisch und Englisch werden in Jahrgangsgruppen und in Niveaugruppen geführt (Niveaufächer).
+
+<sup>1<sup>bis</sup></sup> Das Fach Deutsch oder das Fach Mathematik kann binnendifferenziert (niveauübergreifend) gemeinsam unterrichtet werden.
+
+<sup>2</sup> Bei weniger als 6 Lernenden im Niveau A oder im Niveau B können die Niveaufächer binnendifferenziert gemeinsam unterrichtet oder die Lektionenzahl kann in den beiden Niveaugruppen um je eine Lektion pro Niveaufach reduziert werden. Im Fach Englisch ist die Reduktion der Lektionenzahl nicht möglich.
+
+<sup>2<sup>bis</sup></sup> Im Niveau C werden die Niveaugruppen in den Fächern Englisch und Französisch immer separat geführt. Bei weniger als 6 Lernenden kann die Lektionenzahl um je eine Lektion pro Niveaufach reduziert werden. Im Fach Englisch ist die Reduktion der Lektionenzahl nicht möglich.
+
+<sup>3</sup> …
+
+#### § 3e
+
+**Mindestgrössen für die Modellwahl der Sekundarschule**
+
+<sup>1</sup> Für die Führung des getrennten Modells werden in der Sekundarschule mindestens 70 Lernende pro Jahrgang benötigt.
+
+<sup>2</sup> Für die Führung des kooperativen Modells werden in der Sekundarschule mindestens 40 Lernende pro Jahrgang benötigt.
+
+<sup>3</sup> Für die Führung des integrierten Modells werden in der Sekundarschule mindestens 15 Lernende pro Jahrgang benötigt.
+
+#### § 4
+
+**Schulkreise**
+
+<sup>1</sup> Der Gemeinderat legt auf Antrag der Bildungskommission die Schulkreise für die Kindergartenstufe und die Primarstufe fest.
+
+#### § 5
+
+**Wohnort**
+
+<sup>1</sup> Als Wohnort im Sinn des Gesetzes über die Volksschulbildung vom 22. März 1999[^5-1] gilt der Aufenthaltsort der Lernenden.
+
+[^5-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de). Auf dieses Gesetz wird im Folgenden nicht mehr hingewiesen.
+
+#### § 6
+
+**Eröffnung und Schliessung von Klassen und Zuteilung der Lernenden**
+
+<sup>1</sup> Die Bildungskommission eröffnet und schliesst Klassen im Rahmen der kantonalen Vorgaben und des vom Gemeinderat genehmigten Leistungsauftrages.
+
+<sup>2</sup> Die Schulleitung teilt die Lernenden den Klassen und den Klassen die Klassen- und Fachlehrpersonen zu.
+
+#### § 6a
+
+**Schulpflicht fremdsprachiger Lernender**
+
+<sup>1</sup> In den Kanton Luzern einreisende und sich hier aufhaltende Kinder und Jugendliche sind schulpflichtig, wenn sie zum Zeitpunkt der Einreise das 15. Altersjahr noch nicht vollendet haben. Sie werden grundsätzlich in die dem Jahrgang entsprechende Klasse aufgenommen.
+
+<sup>2</sup> Fremdsprachige Jugendliche, die im Alter von 15 oder 16 Jahren in den Kanton Luzern einreisen, müssen auf Begehren der Erziehungsberechtigten in die Sekundarstufe I aufgenommen werden und gelten dann ebenfalls als schulpflichtig.
+
+<sup>3</sup> Als fremdsprachig gelten Lernende, die aus einem fremdsprachigen Gebiet kommen und keine oder nur ungenügende Deutschkenntnisse besitzen.
+
+<sup>4</sup> Kinder von Asylsuchenden werden bei längerem Aufenthalt in Durchgangsheimen in eine Regelklasse aufgenommen.
+
+#### § 7
+
+**Klassengrössen**
+
+<sup>1</sup> Die Klassengrössen betragen
+
+- a. für Kindergartenklassen mindestens 16 und höchstens 22 Lernende,
+- b. für Basisstufenklassen mindestens 16 und höchstens 24 Lernende,
+- c. für Klassen der Primarschule mindestens 16 und höchstens 22 Lernende,
+- d. für Klassen der Niveaus A und B der Sekundarschule mindestens 15 und höchstens 24 Lernende,
+- e. für Klassen des Niveaus C der Sekundarschule mindestens 12 und höchstens 20 Lernende,
+- f. für Stammklassen im integrierten Modell mindestens 15 und höchstens 22 Lernende,
+- g. im Fach Textiles und Technisches Gestalten ab der 3. Klasse der Primarschule und im Fach Wirtschaft, Arbeit, Haushalt in der 2. Klasse der Sekundarschule sowie im Wahlpflichtfach Wirtschaft, Arbeit, Haushalt in der 3. Klasse der Sekundarschule mindestens 8 und höchstens 16 Lernende, für Klassen des Niveaus C mindestens 6 und höchstens 12 Lernende.
+
+<sup>2</sup> Bei integrativer Sonderschulung von behinderten Kindern gilt der Maximalbestand gemäss Verordnung über die Sonderschulung vom 11. Dezember 2007[^7-1].
+
+<sup>3</sup> 3. bis 6. Klassen der Primarschule erhalten unter den folgenden Voraussetzungen je eine zusätzliche Lektion für den Fremdsprachenunterricht:
+
+- a. 20 und mehr Lernende in der Klasse,
+- b. Anteil fremdsprachiger Kinder über 40 Prozent.
+
+<sup>4</sup> Die Zahl der fremdsprachigen Lernenden mit keinen oder ungenügenden Kenntnissen der deutschen Sprache ist bei der Klassenbildung angemessen zu berücksichtigen.
+
+<sup>5</sup> Die Dienststelle Volksschulbildung kann Ausnahmen von den Höchst- und Mindestbeständen bewilligen.
+
+[^7-1]: SRL Nr. [409](https://srl.lu.ch/data/409/de)
+
+## 2 Betriebliche Bestimmungen
+
+#### § 8
+
+**Lehrmittel, Schulmaterial und Schulveranstaltungen**
+
+<sup>1</sup> Lehrmittel und allgemeines Schulmaterial, die zum Erreichen der Lernziele im Rahmen der Volksschule notwendig sind, sowie obligatorische Schulveranstaltungen sind unentgeltlich.
+
+<sup>2</sup> Lehrmittel wie Bücher und Unterrichtshefte dienen der Gestaltung des Unterrichts und werden den Lernenden von der Schulstandortsgemeinde zum Gebrauch abgegeben.
+
+<sup>3</sup> Das Bildungs- und Kulturdepartement erstellt ein Verzeichnis der obligatorischen, der alternativ-obligatorischen und der fakultativen Lehrmittel. Die Gemeinden können die in diesem Verzeichnis aufgeführten Lehrmittel beim kantonalen Lehrmittelverlag beziehen.
+
+<sup>4</sup> Allgemeines Schulmaterial, wie zum Beispiel Schreibhefte und Bleistifte, oder für bestimmte Fächer notwendiges Unterrichtsmaterial wird von der Schulstandortsgemeinde zur Verfügung gestellt.
+
+<sup>5</sup> Für die Verpflegung der Lernenden im Fach Wirtschaft, Arbeit, Haushalt und während obligatorischen Schulveranstaltungen sowie für die Herstellung von Gegenständen im Textilen und Technischen Gestalten kann von den Erziehungsberechtigen ein angemessener Beitrag verlangt werden.
+
+<sup>6</sup> Die Dienststelle Volksschulbildung erlässt Vorgaben zur Höhe der Gemeindebeiträge an die obligatorischen Schulveranstaltungen.
+
+#### § 8a
+
+**Kantonale Lehrmittelkommission**
+
+<sup>1</sup> Die Kantonale Lehrmittelkommission umfasst sieben bis neun Mitglieder, die durch den Regierungsrat gewählt werden.
+
+<sup>2</sup> Sie plant und koordiniert die gesamte Lehrmittelbeschaffung für die Volksschule und hat insbesondere folgende Aufgaben:
+
+- a. Beurteilung von neuen Lehrmitteln,
+- b. Planung der Einführung neuer Lehrmittel.
+
+#### § 9
+
+**Hausaufgaben**
+
+<sup>1</sup> Die Hausaufgaben müssen von den Lernenden selbständig erledigt werden können.
+
+<sup>2</sup> Umfang, Inhalt, Schwierigkeit und Häufigkeit müssen den Leistungsmöglichkeiten der Lernenden angepasst sein.
+
+#### § 10
+
+**Dispensationen vom Unterricht**
+
+<sup>1</sup> Lernende können auf begründetes Gesuch der Erziehungsberechtigten hin vom Unterricht ganz oder teilweise dispensiert werden.
+
+<sup>1<sup>bis</sup></sup> Dispensationen vom Fremdsprachenunterricht werden nur für eine Fremdsprache und frühestens ab der 5. Klasse der Primarschule bewilligt.
+
+<sup>2</sup> Für Dispensationen vom Unterricht ist bis zu drei Tagen die Klassenlehrperson, für längere Dispensationen sowie für generelle Dispensationen von einzelnen Fächern die Schulleitung zuständig. Die Bildungskommission erlässt Richtlinien.
+
+#### § 11
+
+**Abwesenheiten vom Unterricht**
+
+<sup>1</sup> Unvorhersehbare unvermeidliche Abwesenheiten sind der zuständigen Lehrperson von den Erziehungsberechtigten unter Angabe des Grundes zu melden.
+
+<sup>2</sup> Als unvermeidliche Abwesenheiten gelten Notfälle, die den Besuch der Schule verunmöglichen oder wesentlich erschweren.
+
+<sup>3</sup> Abwesenheiten, die nicht innert vier Tagen seit Beginn begründet werden oder deren Begründung den Anforderungen der Absätze 1 und 2 nicht genügt, gelten als unentschuldigtes Schulversäumnis.
+
+#### § 12
+
+**Sicherheit**
+
+<sup>1</sup> Die Schulleitung ist während der Unterrichtszeit für die betriebliche Sicherheit innerhalb der Schulanlage verantwortlich.
+
+<sup>2</sup> Schwimmen und Baden im schulischen Rahmen, insbesondere während des Schwimmunterrichts, auf Schulreisen, Ausflügen und Anlässen jeder Art, müssen von mindestens einer erwachsenen Person überwacht werden, die über ein Brevet im Rettungsschwimmen der Schweizerischen Lebensrettungs-Gesellschaft (SLRG) verfügt, dessen letzte Erneuerung im Rahmen eines Weiterbildungskurses nicht mehr als vier Jahre zurückliegt.
+
+<sup>3</sup> Die Bildungskommission ordnet auf Antrag der Schulleitung ausserordentliche organisatorische Sicherheitsmassnahmen an.
+
+#### § 13
+
+**Schulweg und Schultransporte**
+
+<sup>1</sup> Für die Lernenden auf dem Schulweg sind die Erziehungsberechtigten verantwortlich. Vorbehalten bleibt der von der Gemeinde organisierte Schultransport.
+
+<sup>2</sup> Bei der Beurteilung der Zumutbarkeit von Schulwegen sind neben der Gesundheitsförderung die konkreten Umstände zu berücksichtigen, wie das Alter der Lernenden und die Länge, die Art und die Beschaffenheit sowie die Gefährlichkeit des Schulwegs.
+
+<sup>3</sup> Die Gemeinden sorgen in ihrem Zuständigkeitsbereich für eine angemessene Verkehrssicherheit auf den regelmässig begangenen Schulwegen.
+
+#### § 14
+
+**Schul- und familienergänzende Tagesstrukturen**
+
+<sup>1</sup> Schul- und familienergänzende Tagesstrukturen sind Angebote, welche die Betreuung der Lernenden während der Schulzeiten ab dem Eintritt in die Volksschule als Ergänzung zum Unterricht und zur Betreuung durch die Familien sicherstellen.
+
+<sup>2</sup> Sie umfassen folgende Betreuungselemente:
+
+- a. Betreuungselement I: Ankunftszeit vor dem Unterricht am Morgen (ab 7.00 Uhr),
+- b. Betreuungselement II: Mittagsverpflegung, Ruhezeit/Bewegungszeit,
+- c. Betreuungselement III: 13.30–15.30 Uhr (inkl. Unterstützung bei den Hausaufgaben),
+- d. Betreuungselement IV: 15.30–18.00 Uhr (inkl. Unterstützung bei den Hausaufgaben).
+
+<sup>3</sup> Die Gemeinden erheben den Bedarf an schul- und familienergänzenden Tagesstrukturen einmal pro Jahr und stellen gestützt auf die Bedarfserhebung entsprechende Angebote zur Verfügung.
+
+<sup>4</sup> Die Gemeinden können die Angebote selbst oder mit anderen Gemeinden erbringen oder durch Private erbringen lassen.
+
+#### § 14a
+
+**Frühe Sprachförderung**
+
+<sup>1</sup> In Gemeinden mit Angeboten der frühen Sprachförderung kann die Schulleitung für Kinder mit unzureichenden Deutschkenntnissen im Hinblick auf den obligatorischen Kindergarteneintritt den Besuch eines Angebots der frühen Sprachförderung verfügen.
+
+<sup>2</sup> Die Dienststelle Volksschulbildung stellt ein Instrument zur Sprachstandserhebung zur Verfügung.
+
+<sup>3</sup> Die Gemeinden können von den Erziehungsberechtigten einen einkommensabhängigen Beitrag verlangen, der höchstens die Hälfte der Kosten deckt.
+
+## 3 Private Anbieterinnen
+
+#### § 15
+
+**Bewilligung**
+
+<sup>1</sup> Die Erteilung von Privatunterricht oder die Errichtung von Privatschulen wird vom Bildungs- und Kulturdepartement bewilligt.
+
+<sup>2</sup> Für die Erteilung einer Bewilligung gemäss Absatz 1 wird vorausgesetzt, dass
+
+- a. die Trägerschaft der Privatschule oder die Privatunterricht erteilende Person die für die Ausübung dieser öffentlichen Aufgabe notwendige Vertrauenswürdigkeit besitzt,
+- b. die Privatunterricht erteilende Person oder die an der Privatschule unterrichtenden Lehrpersonen eine gleichwertige pädagogische Ausbildung vorweisen können wie die der öffentlichen Schulen und
+- c. der Lehrplan den kantonalen Vorschriften entspricht.
+
+<sup>3</sup> Eine Privatunterricht erteilende Person darf nicht mehr als vier Lernende unterrichten.
+
+<sup>4</sup> Die Dienststelle Volksschulbildung prüft, ob das für die öffentlichen Schulen vorgeschriebene Lernziel durch den Unterricht der privaten Anbieterinnen und Anbieter erreicht wird. Bei ungenügendem Unterricht wird die Bewilligung entzogen und die Einweisung der Lernenden in eine öffentliche Schule verfügt.
+
+#### § 16
+
+**Leistungen der öffentlichen Volksschulen**
+
+<sup>1</sup> Lernende, die eine Privatschule besuchen oder privat unterrichtet werden, haben an ihrem Wohnort Anspruch auf die Leistungen der Schuldienste, einschliesslich der dafür notwendigen Abklärungen.
+
+## 4 Disziplinar- und Strafordnung
+
+#### § 17
+
+**Disziplinartatbestand**
+
+<sup>1</sup> Gegen Lernende können Disziplinarmassnahmen verfügt werden, wenn sie den Schulbetrieb stören, mutwillig Sacheigentum der Schule zerstören oder beschädigen, gegen die Schul- oder Hausordnung und ähnliche Bestimmungen oder gegen Anordnungen der zuständigen Organe, Lehrpersonen oder Fachpersonen der Schuldienste verstossen.
+
+#### § 18
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Es können folgende Disziplinarmassnahmen verfügt werden:
+
+- a. Verwarnung,
+- b. kurze Wegweisung vom Unterricht innerhalb des Schulhauses,
+- c. zusätzliche Hausaufgaben,
+- d. zusätzliche Arbeit (z.B. im Sozialbereich) in der schulfreien Zeit,
+- e. schriftlicher Verweis,
+- f. Versetzung in eine andere Klasse,
+- g. Unterrichtsausschluss bis höchstens vier Schulwochen pro Schuljahr bei gleichzeitiger Beschäftigung (Time-out),
+- h. auf mehrere Tage oder Wochen befristeter vollständiger oder teilweiser Schulausschluss.
+
+<sup>2</sup> Beim Time-out sorgt die Schule für eine angemessene Betreuung und Beschäftigung der Lernenden. Die Dienststelle Volksschulbildung erlässt Weisungen.
+
+<sup>3</sup> Der Schulausschluss dauert in der Regel höchstens sechs Schulwochen pro Schuljahr. Über einen vollständigen Ausschluss von mehr als zwei Wochen wird die zuständige Kindes- und Erwachsenenschutzbehörde informiert.
+
+<sup>4</sup> Der oder dem betroffenen Lernenden ist vor Anordnung einer Disziplinarmassnahme das rechtliche Gehör zu gewähren. Bei Disziplinarmassnahmen gemäss Absatz 1 d–h sind die Erziehungsberechtigten ebenfalls anzuhören.
+
+<sup>5</sup> Ist ein sofortiger Schulausschluss angezeigt, kann von einer vorgängigen Anhörung abgesehen werden. Die Anhörung ist so bald als möglich nachzuholen.
+
+#### § 19
+
+**Zuständigkeit und Verfahren**
+
+<sup>1</sup> Die Lehrpersonen und die Fachpersonen der Schuldienste sind befugt, Verwarnungen zu erteilen, Lernende kurz vom Unterricht wegzuweisen, zusätzliche Hausaufgaben oder zusätzliche Arbeiten in der schulfreien Zeit sowie schriftliche Verweise zu verfügen.
+
+<sup>2</sup> Der Schulleitung stehen alle Disziplinarkompetenzen zu.
+
+#### § 20
+
+**Einzug von Gegenständen**
+
+<sup>1</sup> Die Lehrpersonen, die Fachpersonen der Schuldienste und die Schulleitung können Gegenstände einziehen, welche die körperliche, seelische oder geistige Gesundheit der Lernenden gefährden, den Schulbetrieb stören, gegen die Schul- oder Hausordnung verstossen oder als gefährlich eingestuft werden müssen.
+
+<sup>2</sup> Eingezogene Gegenstände sind zur Rückgabe an die Erziehungsberechtigten bereitzuhalten.
+
+#### § 21
+
+**Straftatbestände**
+
+<sup>1</sup> Erziehungsberechtigte, die für unentschuldigte Schulversäumnisse von Lernenden verantwortlich sind oder die nicht an angeordneten Gesprächen teilnehmen, können von der Schulleitung mit einer Ordnungsbusse bis zu 1500 Franken gebüsst werden. Im Wiederholungsfall können die verantwortlichen Erziehungsberechtigten, sofern sie von der Schulleitung bereits mit einer Ordnungsbusse bestraft worden sind, von der Bildungskommission mit einer Busse bis zu 3000 Franken bestraft werden.
+
+<sup>2</sup> Die Trägerschaft oder die Leitung von Privatschulen sowie Privatunterricht erteilende Personen, die gegen die in der Betriebsbewilligung enthaltenen Bedingungen verstossen oder Anordnungen der zuständigen Behörden nicht befolgen, können vom Bildungs- und Kulturdepartement mit einer Busse bis zu 3000 Franken bestraft werden.
+
+## 5 Lehrpersonen
+
+#### § 22
+
+**Ausbildung**
+
+<sup>1</sup> Lehrpersonen verfügen in der Regel über eine stufen- und fachgemässe Ausbildung.
+
+<sup>2</sup> Stellen können ausnahmsweise mit Lehrpersonen besetzt werden, welche nicht oder noch nicht über eine stufen- und fachgemässe Ausbildung verfügen, falls keine qualifizierten und geeigneten Bewerberinnen oder Bewerber vorhanden sind.
+
+<sup>3</sup> Die Dienststelle Volksschulbildung kann die Unterrichtstätigkeit von Lehrpersonen ohne stufen- oder fachgemässe Ausbildung im Einzelfall befristen oder verbieten.
+
+#### § 22a
+
+**Berufliche Weiterbildung**
+
+<sup>1</sup> Der Kanton sorgt für ein ausreichendes und geeignetes Weiterbildungsangebot. Die Dienststelle Volksschulbildung kann bestimmte Angebote für obligatorisch erklären.
+
+<sup>2</sup> Die Schulleitung legt nach Absprache mit der Lehrperson Art und Umfang ihrer Weiterbildung fest.
+
+#### § 22b
+
+**Finanzierung**
+
+<sup>1</sup> Der Kanton und die Gemeinden finanzieren die Weiterbildung je zur Hälfte.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> Die Pädagogische Hochschule Luzern erhebt bei den Kursteilnehmerinnen und Kursteilnehmern einen Kursgeldbeitrag. Sie legt dessen Höhe je nach Art, Dauer und Umfang des Kurses im Rahmen von 7 bis 20 Franken pro Kursstunde und Teilnehmer oder Teilnehmerin fest.
+
+#### § 22c
+
+**Stellvertretungskosten, Besoldung und Rückerstattung**
+
+<sup>1</sup> Die Dienststelle Volksschulbildung bezeichnet die Weiterbildungsangebote, bei deren Besuch die Stellvertretungskosten je zur Hälfte durch den Kanton und die Gemeinden übernommen werden.
+
+<sup>2</sup> Lehrpersonen, die während ihrer Unterrichtszeit an einer Weiterbildung gemäss Absatz 1 teilnehmen, sind im Umfang ihres Unterrichtspensums besoldet.
+
+<sup>3</sup> Lehrpersonen, die drei und mehr Unterrichtswochen für ihre Weiterbildung beanspruchen, können vom Kanton verpflichtet werden, die Kurs- und die Stellvertretungskosten anteilsmässig zurückzuzahlen, wenn sie innerhalb von drei Jahren nach Kursbesuch aus dem luzernischen Schuldienst ausscheiden.
+
+#### § 23
+
+**…**
+
+## 6 Qualitätsmanagement
+
+#### § 23a
+
+**Elemente des Qualitätsmanagements**
+
+<sup>1</sup> Das Qualitätskonzept umfasst die Elemente Qualitätsgruppen, Selbstbeurteilung, Beurteilungs- und Fördergespräch, Leistungsmessungen, interne Evaluation sowie Weiterbildung.
+
+<sup>2</sup> Die Dienststelle Volksschulbildung kann für die einzelnen Elemente Mindeststandards festlegen.
+
+#### § 24
+
+**Interne Evaluation**
+
+<sup>1</sup> Die zuständige Schulleitung führt die interne Evaluation im Rahmen der von der Bildungskommission genehmigten mehrjährigen Planung durch.
+
+<sup>2</sup> Sie berücksichtigt dabei die verschiedenen Bereiche der Schule und bezieht sowohl die an der Schule beteiligten als auch aussenstehende Personen mit ein.
+
+<sup>3</sup> Die Ergebnisse der internen Evaluation werden zusammen mit einem daraus abgeleiteten Massnahmenplan in einem Bericht an die Bildungskommission festgehalten.
+
+#### § 25
+
+**Externe Evaluation**
+
+<sup>1</sup> Die Dienststelle Volksschulbildung führt alle sechs Jahre eine externe Evaluation der einzelnen Schule nach einem von ihr festgelegten Ablauf- und Zeitplan durch.
+
+<sup>2</sup> Die Schulleitung stellt der Dienststelle Volksschulbildung die erforderlichen Unterlagen zur Verfügung und trifft schulintern die nötigen Vorbereitungen für die Durchführung der externen Evaluation.
+
+<sup>3</sup> Die Dienststelle Volksschulbildung erstellt zuhanden der Schulleitung und der Bildungskommission einen Bericht über die Evaluationsergebnisse. Der Bericht ist zu veröffentlichen. Die Dienststelle entscheidet über den Inhalt und die Form der Veröffentlichung.
+
+<sup>4</sup> Gestützt auf die Evaluationsergebnisse setzt die Schulleitung in Absprache mit der Bildungskommission die Entwicklungsziele um.
+
+## 7 Finanzielles
+
+#### § 26
+
+**Berechnungsgrundlagen der Kantonsbeiträge**
+
+<sup>1</sup> Die Kantonsbeiträge werden gestützt auf die gesamten Betriebskosten des vorletzten Jahres von der Dienststelle Volksschulbildung jährlich neu berechnet.
+
+<sup>1<sup>bis</sup></sup> Die Gemeinden ermitteln ihre Betriebskosten nach den folgenden Vorgaben:
+
+- a. Bei den Besoldungen der Lehrpersonen dürfen nur die Kosten berücksichtigt werden, die für kantonal vorgegebene Aufgaben anfallen.
+- b. Für Bereiche mit kantonalen Vorgaben, namentlich die Schulleitungspensen, dürfen nur die Kosten für Aufwände im vorgegebenen Umfang berücksichtigt werden.
+- c. Für Bereiche mit kantonalen Mindestvorgaben, namentlich die Integrative Förderung, dürfen nur die Kosten für Aufwände bis maximal fünf Prozent über der Mindestvorgabe berücksichtigt werden.
+- d. Bei den Kosten für Schulbauten ist ein pauschaler Abzug von zehn Prozent für nichtschulische Zwecke vorzunehmen, sofern die Gemeinde keine direkte Umlage auf andere Aufgabenbereiche ausweist.
+- e. Von den Kosten der allgemeinen Verwaltung, die Leistungen für die Schule erbringt, dürfen fünf Prozent eingerechnet werden, sofern die Gemeinde keine entsprechende Zeit- und Leistungserfassung führt.
+
+<sup>2</sup> Für die Berechnung der Kantonsbeiträge ist die Anzahl Lernender am 1. September des Vorjahres massgebend.
+
+#### § 27
+
+**Kantonsbeiträge**
+
+<sup>1</sup> Die Kantonsbeiträge werden an die Wohnortsgemeinden der Lernenden, welche eine öffentliche Schule besuchen, ausgerichtet.
+
+<sup>2</sup> Für Lernende, die auf das zweite Semester des Schuljahres in den Kindergarten oder die Basisstufe eintreten, wird den Wohnortsgemeinden die Hälfte des jährlichen Kantonsbeitrages ausgerichtet.
+
+<sup>3</sup> Die Beiträge werden monatlich ausgezahlt.
+
+#### § 28
+
+**Beiträge an schul- und familienergänzende Tagesstrukturen**
+
+<sup>1</sup> Der Kanton leistet gestützt auf die Anzahl belegter Plätze (Stichtage 1. September und 1. März) Beiträge an schul- und familienergänzende Tagesstrukturen, sofern die Vorgaben des Gesetzes über die Volksschulbildung und dieser Verordnung und die von der Dienststelle Volksschulbildung erlassenen Richtlinien eingehalten werden.
+
+<sup>2</sup> Die Beiträge werden als Pauschalen geleistet. Die Pauschale für alle vier Betreuungselemente der schul- und familienergänzenden Tagesstrukturen umfasst 20 Anteile und wird wie folgt auf die einzelnen Elemente aufgeteilt:
+
+- a. Betreuungselement I: — 1 Anteil
+- b. Betreuungselement II: — 8 Anteile
+- c. Betreuungselement III: — 5 Anteile
+- d. Betreuungselement IV: — 6 Anteile
+
+<sup>2<sup>bis</sup></sup> Für Lernende, die auf das zweite Semester des Schuljahres in die schul- und familienergänzenden Tagesstrukturen eintreten, wird der Wohnortsgemeinde die Hälfte des jährlichen Kantonsbeitrages ausgerichtet.
+
+<sup>3</sup> Sofern Gemeinden schul- und familienergänzende Tagesstrukturen zusammen mit anderen Gemeinden anbieten, haben die Wohnortsgemeinden die Schulgeldkosten zu übernehmen.
+
+#### § 28a
+
+**Beiträge an die frühe Sprachförderung**
+
+<sup>1</sup> Der Kanton leistet den Gemeinden Beiträge an die frühe Sprachförderung von Kindern, die gemäss Sprachstandserhebung im Hinblick auf den Kindergarten über unzureichende Deutschkenntnisse verfügen und im Jahr vor dem obligatorischen Kindergarteneintritt ein Angebot der frühen Sprachförderung besuchen.
+
+<sup>2</sup> Die Beiträge werden in Form von Pauschalen pro Halbtag geleistet, an dem ein Kind ein Angebot der frühen Sprachförderung gemäss Absatz 1 besucht. Stichtag ist der 1. September.
+
+<sup>3</sup> Die Pauschalen orientieren sich an den Durchschnittskosten entsprechender Angebote und sollen durchschnittlich einen Viertel der Kosten decken.
+
+#### § 28b
+
+**Beiträge an Schulen mit einem hohen Anteil fremdsprachiger Lernender**
+
+<sup>1</sup> Der Kanton leistet Schulen mit einem Anteil von mehr als 35 Prozent fremdsprachigen Lernenden pro Schuljahr (Stichtag 1. September) folgende Zusatzbeiträge:
+
+- a. Schulen mit weniger als 100 Lernenden: 40 000 Franken,
+- b. Schulen mit 100 bis 250 Lernenden: 70 000 Franken,
+- c. Schulen mit mehr als 250 Lernenden: 100 000 Franken.
+
+#### § 29
+
+**…**
+
+#### § 29a
+
+**Gemeindebeiträge**
+
+<sup>1</sup> Die Gemeinden entrichten an die dem Kanton entstehenden Kosten gemäss § 61a Absatz 2 des Gesetzes über die Volksschulbildung Beiträge im Umfang von 50 Prozent.
+
+<sup>2</sup> Die Dienststelle Volksschulbildung berechnet jährlich die voraussichtlichen Kosten gemäss Voranschlag des Kantons. Sie stellt jeder Gemeinde ihren Beitrag nach Massgabe ihrer Einwohnerzahl in Rechnung. Berechnungsgrundlage ist die mittlere Wohnbevölkerung nach der kantonalen Bevölkerungsstatistik.
+
+<sup>3</sup> Die Dienststelle Volksschulbildung erstellt jährlich die definitive Kostenabrechnung. Ein allfälliger Überschuss oder ein Fehlbetrag wird bei der nächsten Rechnungstellung berücksichtigt.
+
+#### § 29b
+
+**Ausgleichzahlungen der Gemeinden**
+
+<sup>1</sup> Die Gemeinden leisten dem Kanton pro Klasse, welche die Vorgaben der Klassengrössen gemäss § 7 unterschreitet, folgende Ausgleichszahlung:
+
+- a. Kindergarten und Basisstufe: 3750 Franken pro Semester,
+- b. Primarschule: 10 000 Franken pro Schuljahr,
+- c. Sekundarschule: 12 500 Franken pro Schuljahr.
+
+<sup>2</sup> Für die Berechnung der Zahlung ist die Anzahl Lernender am 1. September des Schuljahres massgebend. Werden die Mindestvorgaben im Kindergarten und in der Basisstufe im zweiten Semester erfüllt, ist für dieses Semester keine Zahlung zu leisten.
+
+#### § 30
+
+**Beiträge an private Anbieterinnen**
+
+<sup>1</sup> Der Kanton kann Privatschulen auf Gesuch hin Beiträge ausrichten.
+
+<sup>2</sup> Die jährlichen Kantonsbeiträge an Privatschulen betragen pro Lernende und Lernenden
+
+- a. der Kindergartenstufe höchstens 600 Franken,
+- b. der Primarstufe höchstens 800 Franken,
+- c. der Sekundarstufe I höchstens 1000 Franken.
+
+<sup>3</sup> Beiträge können gewährt werden, wenn die Privatschule
+
+- a. einem öffentlichen Bedürfnis entspricht und die Volksschule entlastet,
+- b. die in der Betriebsbewilligung aufgeführten Auflagen erfüllt,
+- c. während mindestens vier Jahren nach Erteilung der Betriebsbewilligung erfolgreich tätig war.
+
+#### § 31
+
+**Spitalschulen**
+
+<sup>1</sup> Besuchen Lernende während eines Spitalaufenthalts den Unterricht in einer Spitalschule, übernehmen der Kanton und die Gesamtheit der Gemeinden die Kosten für den Unterricht gemäss den Bestimmungen zur Finanzierung der Sonderschulung.
+
+## 8 Schlussbestimmungen
+
+#### § 32
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Entscheide im Zusammenhang mit dieser Verordnung kann nach den Bestimmungen des Gesetzes über die Volksschulbildung und des Gesetzes über die Verwaltungsrechtspflege[^32-1] schriftlich und begründet Beschwerde geführt werden.
+
+[^32-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+
+#### § 33
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> § 28 findet Anwendung, sobald die Gemeinden die schul- und familienergänzenden Tagesstrukturen gemäss den §§ 36 und 67 Absatz 4 des Volksschulbildungsgesetzes eingeführt haben.
+
+<sup>2</sup> Die Vorgaben gemäss den §§ 3c, 3d und 3e gelten ab Sekundarschuljahrgang 2012/2013.
+
+<sup>3</sup> Der halbjährliche Eintritt nach § 3a Absatz 3 ist möglich, sobald die Gemeinde den zweijährigen Kindergarten eingeführt hat.
+
+#### § 34
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung zum Gesetz über die Volksschulbildung (Volksschulbildungsverordnung) vom 21. Dezember 1999[^34-1] wird aufgehoben.
+
+[^34-1]: G 1999 369 (SRL Nr. 405)
+
+#### § 35
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verordnung tritt am 1. Januar 2009 in Kraft. Sie ist zu veröffentlichen.
+
+G 2008 478

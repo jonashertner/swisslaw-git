@@ -1,0 +1,401 @@
+---
+canton: LU
+number: 405b
+title: Verordnung über die Übertrittsverfahren in der Volksschule
+language: de
+version: 2019-08-01
+valid_until: 2023-10-31
+version_adopted: 2019-06-11
+adopted: 2007-05-15
+in_force: 2007-08-01
+url: "https://srl.lu.ch/app/de/texts_of_law/405b"
+pdf: "https://srl.lu.ch/api/de/versions/3422/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Übertrittsverfahren in der Volksschule
+
+vom 15.05.2007 (Stand 01.08.2019)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf § 16 Absatz 3 des Gesetzes über die Volksschulbildung vom 22. März 1999[^ingress-1],
+
+auf Antrag des Bildungs- und Kulturdepartementes,
+
+beschliesst:
+
+[^ingress-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de)
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Grundsätze**
+
+<sup>1</sup> Die Übertrittsverfahren bezwecken die eignungsgerechte Zuweisung der Lernenden von der Primarschule in ein Niveau der Sekundarschule oder in das Langzeitgymnasium beziehungsweise von der Sekundarschule in das Kurzzeitgymnasium.
+
+<sup>2</sup> Der Übertritt der Lernenden von der Primarschule in die Sekundarschule oder in das Langzeitgymnasium erfolgt in der Regel nach der 6. Primarklasse, der Übertritt in das Kurzzeitgymnasium nach der 2. oder nach der 3. Klasse der Sekundarschule Niveau A.
+
+<sup>3</sup> Im Rahmen des Übertrittsverfahrens in ein Kurzzeitgymnasium müssen sich die Lernenden über die für das erfolgreiche Durchlaufen des Kurzzeitgymnasiums notwendigen Fähigkeiten gemäss dem Anforderungsprofil ausweisen.
+
+#### § 2
+
+**…**
+
+#### § 3
+
+**Orientierung**
+
+<sup>1</sup> Die Klassenlehrpersonen der 5. Primarklassen orientieren die Lernenden und die Erziehungsberechtigten im 1. Semester der 5. Klasse über das Übertrittsverfahren Primarschule - Sekundarstufe I.
+
+<sup>1<sup>bis</sup></sup> Die Schulen führen für die Lernenden der 6. Klasse und für die Erziehungsberechtigten zwischen den Herbstferien und Ende Januar Informationsveranstaltungen über die Bildungsangebote der Sekundarstufen I und II, deren Anforderungen und mögliche Bildungsabschlüsse durch.
+
+<sup>1<sup>ter</sup></sup> Die Klassenlehrpersonen der 1. und 2. Sekundarklassen orientieren die Lernenden und die Erziehungsberechtigten im 2. Semester der 1. und 2. Klasse der Sekundarschule über das Übertrittsverfahren Sekundarschule - Kurzzeitgymnasium.
+
+<sup>2</sup> Sie geben den an einem Übertritt in ein Kurzzeitgymnasium interessierten Lernenden zuhanden der Erziehungsberechtigten das Anmeldeformular für das Übertrittsverfahren und die entsprechende Informationsschrift ab. Lernende, die am Übertrittsverfahren teilnehmen wollen, haben sich bis Ende August bei der Schulleitung der Sekundarschule anzumelden.
+
+<sup>3</sup> Die Schulleitungen der Gymnasien orientieren die Lernenden und die Erziehungsberechtigten über ihre Schule und deren Angebote.
+
+#### § 4
+
+**Dauer der Übertrittsverfahren**
+
+<sup>1</sup> Das Übertrittsverfahren in die Sekundarschule oder in das Langzeitgymnasium beginnt mit dem Eintritt der Lernenden in die 5. Klasse und endet mit der Bestätigung des Zuweisungsentscheids durch die Schulleitung jener Schule, der die Lernenden zugewiesen werden.
+
+<sup>2</sup> Das Verfahren für den Übertritt in das Kurzzeitgymnasium dauert ein Semester und wird im 1. Semester der 2. oder der 3. Klasse der Sekundarschule durchgeführt.
+
+#### § 5
+
+**Übertrittsentscheid**
+
+<sup>1</sup> Die Klassenlehrperson und die Erziehungsberechtigten entscheiden gestützt auf die Beurteilungsergebnisse gemeinsam über die Zuweisung. Die oder der Lernende wird in den Entscheid miteinbezogen.
+
+<sup>2</sup> Der Übertritt ist von der Schulleitung derjenigen Schule zu bestätigen, welcher die oder der Lernende zugewiesen wird.
+
+<sup>3</sup> Sind sich die Klassenlehrperson und die Erziehungsberechtigten oder die Lernenden über den Übertritt nicht einig, entscheidet auf Antrag der Erziehungsberechtigten die Schulleitung jener Schule, in welche die oder der Lernende aufgenommen werden möchte.
+
+#### § 6
+
+**Beurteilungsgespräch**
+
+<sup>1</sup> Im Beurteilungsgespräch bespricht die Klassenlehrperson die Beurteilungsergebnisse der oder des Lernenden mit den Erziehungsberechtigten. Die Lernenden sind in das Gespräch miteinzubeziehen.
+
+<sup>2</sup> Die Durchführung des Beurteilungsgesprächs wird mit der Unterschrift der Beteiligten bestätigt.
+
+<sup>3</sup> Für den Übertritt in die Sekundarschule oder in das Langzeitgymnasium ist das Beurteilungsgespräch im 2. Semester der 5. Klasse und nach dem 1. Semester der 6. Klasse durchzuführen.
+
+<sup>4</sup> Für den Übertritt in das Kurzzeitgymnasium ist je ein Beurteilungsgespräch gegen Ende des 1. Semesters der 2. oder der 3. Klasse der Sekundarschule durchzuführen.
+
+#### § 7
+
+**Entscheidfindung**
+
+<sup>1</sup> Für den Übertritt in die Sekundarschule oder in das Langzeitgymnasium ermitteln die Klassenlehrperson und die Erziehungsberechtigten nach Abschluss des 1. Semesters der 6. Klasse im Gespräch, welche Zuweisung der Förderung der oder des Lernenden am meisten dient. Sie entscheiden gestützt auf die in § 15 genannten Übertrittsgrundlagen über die geeignete Zuweisung.
+
+<sup>2</sup> Über den Übertritt in ein Kurzzeitgymnasium entscheiden die Klassenlehrperson, die Erziehungsberechtigten und die Lernenden gestützt auf die in § 23 genannten Übertrittsgrundlagen nach Abschluss des 1. Semesters im Schuljahr vor dem geplanten Übertritt.
+
+<sup>3</sup> Der Übertrittsentscheid ist bis Mitte März zu fällen. Die Dienststelle Volksschulbildung legt den genauen Zeitpunkt jährlich fest.
+
+#### § 8
+
+**Übertrittsbestätigung**
+
+<sup>1</sup> Sind sich die Klassenlehrperson, die Erziehungsberechtigten und die oder der Lernende über die Zuweisung einig, unterzeichnen sie diesen Entscheid im Übertrittsdossier. Die Klassenlehrperson leitet das Übertrittsdossier über die eigene Schulleitung zur Bestätigung an die Schulleitung der abnehmenden Schule weiter. Beim Übertritt in das Kurzzeitgymnasium ist zudem der Bogen zur Darstellung der Überlegungen zur Laufbahnwahl weiterzuleiten.
+
+<sup>2</sup> Stimmen die Beurteilungsgrundlagen und der Übertrittsentscheid offensichtlich nicht überein, kann die Schulleitung der abnehmenden Schule die Bestätigung verweigern und die Beurteilungsgrundlagen mit der Empfehlung eines weiteren Gesprächs zwischen den am Entscheid Beteiligten zurückweisen.
+
+<sup>3</sup> Können sich die Klassenlehrperson und die Erziehungsberechtigten oder die Lernenden erneut einigen, kann die Schulleitung die Aufnahme in den gewählten Schultyp verweigern, wenn der Zuweisungsentscheid klar von den entsprechenden Kriterien des Übertrittsverfahrens abweicht. Können sich die Klassenlehrperson und die Erziehungsberechtigten oder die Lernenden nicht einigen, findet § 9 Anwendung.
+
+<sup>4</sup> Kommen Klassenlehrperson, Erziehungsberechtigte und Lernende im Fall einer Zuweisung in das Kurzzeitgymnasium zum Schluss, dass die Voraussetzungen für einen Übertritt nicht gegeben sind, leitet die Klassenlehrperson die Übertrittsakten gemäss Absatz 1 an die Schulleitung der Sekundarschule zur Bestätigung weiter. Gegen diese Bestätigung kann nicht Beschwerde geführt werden.
+
+#### § 9
+
+**Einigungsverfahren**
+
+<sup>1</sup> Können sich die Klassenlehrperson und die Erziehungsberechtigten oder die Lernenden nicht einigen, ist ein weiteres Gespräch durchzuführen. Zu diesem Gespräch können sowohl von der Klassenlehrperson als auch von den Erziehungsberechtigten beratende Personen beigezogen werden. Diese sind den Gesprächspartnern frühzeitig bekannt zu geben. Im Fall einer Einigung wird § 8 angewendet.
+
+<sup>2</sup> Kommt bei diesem Gespräch keine Einigung zustande, wird dies im Übertrittsdossier festgehalten. Die Klassenlehrperson übergibt den Erziehungsberechtigten das Übertrittsdossier und das Fremdbeurteilungsdokument und beim Übertritt in das Kurzzeitgymnasium zusätzlich das Selbstbeurteilungsdokument und den Bogen zur Darstellung der Überlegungen zur Laufbahnwahl. Die Erziehungsberechtigten können der Schulleitung jener Schule, der sie die Lernende oder den Lernenden zuweisen möchten, innerhalb von zehn Tagen die Aufnahme beantragen.
+
+<sup>3</sup> Über die Aufnahme entscheidet die Schulleitung, an die der Antrag gestellt wird, nach Anhörung der Klassenlehrperson und der Erziehungsberechtigten.
+
+#### § 10
+
+**Schulpsychologische Abklärungen**
+
+<sup>1</sup> Eignungsabklärungen im Zusammenhang mit dem Übertrittsverfahren von der Primarschule in das Langzeitgymnasium und in die Sekundarschule werden durch die schulpsychologischen Dienste grundsätzlich nur im Beschwerdeverfahren und im Auftrag der Beschwerdeinstanz durchgeführt. In Ausnahmefällen kann die Schulleitung, an die der Antrag um Aufnahme gestellt wird, eine Eignungsabklärung anordnen.
+
+<sup>2</sup> Eignungsabklärungen im Zusammenhang mit dem Übertrittsverfahren in ein Kurzzeitgymnasium können im Rahmen eines Entscheids gemäss § 9 Absatz 3 auch von der Schulleitung des Kurzzeitgymnasiums angeordnet werden.
+
+#### § 11
+
+**Fremdsprachige Lernende**
+
+<sup>1</sup> Im Übertrittsverfahren in die Sekundarschule oder in das Langzeitgymnasium werden bei fremdsprachigen Lernenden die Zeugnisnoten in den Fächern Deutsch, Mathematik sowie Natur, Mensch, Gesellschaft nur berücksichtigt, wenn die oder der Lernende über genügend Sprachkenntnisse in Deutsch verfügt oder sich länger als drei Jahre im deutschen Sprachgebiet aufgehalten hat.
+
+<sup>2</sup> Beim Übertritt in das Kurzzeitgymnasium ist bei fremdsprachigen Lernenden, die sich seit weniger als drei Jahren im deutschen Sprachgebiet aufhalten, bei der Beurteilung der individuelle Lernfortschritt besonders zu beachten.
+
+#### § 12
+
+**Wechsel der Klassenlehrperson**
+
+<sup>1</sup> Beim Wechsel der Klassenlehrperson während der Dauer des Übertrittsverfahrens sind die Übertrittsakten gemäss den §§ 15 und 23 der neuen Klassenlehrperson zu übergeben.
+
+#### § 13
+
+**Aufbewahrungsfrist für Übertrittsakten**
+
+<sup>1</sup> Beim Übertritt von der Primarschule in die Sekundarschule oder in das Langzeitgymnasium sind die Übertrittsakten von der Klassenlehrperson während dreier Jahre aufzubewahren.
+
+<sup>2</sup> Beim Übertritt in ein Kurzzeitgymnasium sind die Übertrittsakten von der Schulleitung des Kurzzeitgymnasiums und bei Nichtaufnahme von der Schulleitung der Sekundarschule während dreier Jahre aufzubewahren und anschliessend ordnungsgemäss zu vernichten.
+
+## 2 Übertritt in die Sekundarschule oder in das Langzeitgymnasium
+
+#### § 14
+
+**Übertrittsvoraussetzung**
+
+<sup>1</sup> Voraussetzung für den Übertritt von der Primarschule in die Sekundarschule oder in das Langzeitgymnasium ist das Bestehen des entsprechenden Übertrittsverfahrens im Schuljahr vor dem Übertritt.
+
+#### § 15
+
+**Übertrittsgrundlagen**
+
+<sup>1</sup> Die Grundlagen für den Übertrittsentscheid dienen dazu, die Eignung der Lernenden für ein Niveau der Sekundarschule oder für das Langzeitgymnasium festzustellen.
+
+<sup>2</sup> Für den Übertrittsentscheid sind zu berücksichtigen:
+
+- a. die Zeugnisnoten in den Fächern Deutsch, Mathematik sowie Natur, Mensch, Gesellschaft während des 1. und 2. Semesters der 5. Klasse sowie des 1. Semesters der 6. Klasse,
+- b. die Einschätzung der fachlichen Kompetenzen der oder des Lernenden, welche durch die Klassenlehrperson im Fremdbeurteilungsdokument festgehalten wird,
+- c. die Einschätzung der überfachlichen Kompetenzen der oder des Lernenden, welche durch die Klassenlehrperson nach Einbezug der Erziehungsberechtigten im Fremdbeurteilungsdokument festgehalten wird,
+- c<sup>bis</sup>. die aus dem Fremdbeurteilungsdokument ersichtliche Entwicklung der fachlichen und überfachlichen Kompetenzen der oder des Lernenden sowie die künftige Entwicklung der oder des Lernenden, wie sie durch die Erziehungsberechtigten und die Klassenlehrperson begründet eingeschätzt wird,
+- d. die Zeugnisnoten der übrigen Fächer des 1. und 2. Semesters der 5. Klasse sowie des 1. Semesters der 6. Klasse.
+
+<sup>3</sup> Bei Lernenden mit individuell reduzierten Lernzielen wird anstelle der Zeugnisnote der Lernbericht berücksichtigt.
+
+#### § 15a
+
+**Richtwerte für die Zuweisung**
+
+<sup>1</sup> Für die Zuweisung in ein Niveau der getrennt geführten Sekundarschule oder in das Langzeitgymnasium sind in den Fächern Deutsch, Mathematik sowie Natur, Mensch, Gesellschaft folgende Notendurchschnitte als Richtwerte massgebend:
+
+- a. Langzeitgymnasium: 5,2
+- b. Niveau A: 5
+- c. Niveau B: 4,5
+- d. Niveau C: weniger als 4,5 oder individuelle Lernziele in mindestens zwei der drei Fächer
+- e. …
+
+<sup>1<sup>bis</sup></sup> Für die Zuweisung in eine Stammklasse der kooperativen Sekundarschule sind in den Fächern Deutsch, Mathematik sowie Natur, Mensch, Gesellschaft folgende Notendurchschnitte als Richtwerte massgebend:
+
+- a. Niveau A/B: 4,5 und höhere Noten
+- b. Niveau C: weniger als 4,5 oder individuelle Lernziele in mindestens zwei der drei Fächer
+
+<sup>2</sup> Für die Niveauzuteilung in den Niveaufächern sind im kooperativen und im integrierten Modell die Zeugnisnoten in den entsprechenden Fächern im 1. Semester der 6. Klasse massgebend:
+
+- a. Niveau A: 5
+- b. Niveau B: 4,5
+- c. Niveau C: weniger als 4,5
+
+<sup>3</sup> Für die Zuweisung in ein Anforderungsniveau der Fächer Natur und Technik sowie Räume, Zeiten, Gesellschaften der integrierten Sekundarschule sind die Zeugnisnoten im Fach Natur, Mensch, Gesellschaft des 1. Semesters der 6. Klasse massgebend:
+
+- a. Anforderungsprofil A/B: 4,5
+- b. Anforderungsprofil C: weniger als 4,5
+
+#### § 16
+
+**Hilfsmittel**
+
+<sup>1</sup> Das Bildungs- und Kulturdepartement erlässt folgende Hilfsmittel für das Übertrittsverfahren:
+
+- a. Fremdbeurteilungsdokument,
+- b. …
+- c. Gesprächsvorbereitungshilfe für die Erziehungsberechtigten,
+- d. Anforderungsprofile der drei Niveaus der Sekundarschule und des Langzeitgymnasiums.
+
+#### § 17
+
+**Beurteilung der Lernenden**
+
+<sup>1</sup> Während des Übertrittsverfahrens werden festgehalten:
+
+- a. halbjährlich die fachlichen Leistungen in den Zeugnisnoten und
+- b. für die Beurteilungsgespräche im 2. Semester der 5. Klasse und nach dem 1. Semester der 6. Klasse die Leistungen in den fachlichen und den überfachlichen Kompetenzen.
+- c. …
+
+<sup>2</sup> …
+
+<sup>3</sup> Die Einschätzung der Leistungen der oder des Lernenden in den fachlichen Kompetenzen, welche gegen Ende der 5. Klasse und nach dem 1. Semester der 6. Klasse im Fremdbeurteilungsdokument vorzunehmen ist, gründet auf Beobachtungen der Klassenlehrperson oder der entsprechenden Fachlehrperson und auf von ihnen beurteilten Leistungen.
+
+<sup>4</sup> Die Einschätzung der Leistungen in den überfachlichen Kompetenzen, welche gegen Ende der 5. Klasse und nach dem 1. Semester der 6. Klasse im Fremdbeurteilungsdokument vorzunehmen ist, gründet auf Beobachtungen der Klassenlehrperson und auf Feststellungen der Erziehungsberechtigten, die von Klassenlehrperson und Erziehungsberechtigten gemeinsam als richtig erachtet werden; nicht übereinstimmende Beurteilungen sind im Fremdbeurteilungsdokument festzuhalten.
+
+#### § 18
+
+**Ausserordentliche Übertritte**
+
+<sup>1</sup> Bei Lernenden, die erst im Verlauf des 5. oder 6. Schuljahrs in den Kanton Luzern zugezogen sind, wird das Übertrittsverfahren sinngemäss angewendet. Die vorhandenen Zeugnisnoten der 5. und 6. Klasse werden in den Entscheid miteinbezogen.
+
+<sup>2</sup> Bei Lernenden, die ausserordentlicherweise nicht von der 6. Primarklasse in die Sekundarschule oder in das Langzeitgymnasium übertreten sollen, wird das Übertrittsverfahren sinngemäss angewendet.
+
+#### § 19
+
+**Verbleib in einem Schultyp**
+
+<sup>1</sup> Lernende, die in die Sekundarschule oder in das Langzeitgymnasium aufgenommen worden sind, haben grundsätzlich ein Anrecht auf den Besuch eines vollen Schuljahrs in diesem Schultyp.
+
+#### § 20
+
+**Übertritt in eine Privatschule**
+
+<sup>1</sup> Beim Übertritt in eine Privatschule ist auf dem Übertrittsdossier die Zuweisung in der öffentlichen Schule zu vermerken.
+
+#### § 21
+
+**Übertritt vom Langzeitgymnasium in die Sekundarschule**
+
+<sup>1</sup> Bei einem Übertritt aus dem Langzeitgymnasium in die Sekundarschule entscheidet die Schulleitung der Sekundarschule individuell über die Niveauzuteilung.
+
+## 3 Übertritt in das Kurzzeitgymnasium
+
+#### § 22
+
+**Übertrittsvoraussetzung**
+
+<sup>1</sup> Voraussetzung für den Übertritt von der Sekundarschule in das Kurzzeitgymnasium ist das Bestehen des Übertrittsverfahrens im 1. Semester des Schuljahrs vor dem geplanten Übertritt.
+
+#### § 23
+
+**Übertrittsgrundlagen**
+
+<sup>1</sup> Die Grundlagen für den Übertrittsentscheid dienen dazu, die Eignung der Lernenden für das Kurzzeitgymnasium festzustellen.
+
+<sup>2</sup> Grundlagen für den Übertrittsentscheid sind:
+
+- a. die Leistungen der Lernenden in den Niveaufächern (Deutsch, Mathematik, Französisch, Englisch) sowie im Fach Natur und Technik,
+- b. die erworbenen fachlichen Kompetenzen gemäss der Selbstbeurteilung durch die Lernende oder den Lernenden und der Fremdbeurteilung durch die Lehrpersonen mit Hilfe des Selbstbeurteilungsdokumentes und des Fremdbeurteilungsdokumentes,
+- c. die Selbstbeurteilung der Lernenden bezüglich der im Selbstbeurteilungsdokument aufgeführten überfachlichen Kompetenzen und die entsprechende Fremdbeurteilung durch die Lehrpersonen,
+- d. die Leistungsentwicklung, die Überlegungen der Lernenden zur Laufbahnwahl und das Gespräch zwischen den am Entscheid beteiligten Personen.
+
+<sup>3</sup> Für den Übertritt nach der 2. Klasse der Sekundarschule sind als Leistungen gemäss Absatz 2a diejenigen des 1. Semesters der 2. Klasse massgebend, für den Übertritt nach der 3. Klasse die Leistungen des 1. Semesters der 3. Klasse.
+
+#### § 23a
+
+**Richtwerte für den Übertritt**
+
+<sup>1</sup> Im getrennten Modell ist für den Übertritt in das Kurzzeitgymnasium in allen Niveaufächern im Niveau A eine Zeugnisnote von mindestens 4,5 Voraussetzung.
+
+<sup>2</sup> Im kooperativen und im integrierten Modell ist für den Übertritt in das Kurzzeitgymnasium in mindestens drei Niveaufächern des Niveaus A eine Zeugnisnote von mindestens 4,5 und in einem Niveaufach im Niveau B von mindestens 5 Voraussetzung.
+
+<sup>3</sup> In allen Modellen ist für den Übertritt in das Kurzzeitgymnasium im Fach Natur und Technik mindestens die Note 4,5 im Anforderungsniveau A/B Voraussetzung.
+
+#### § 24
+
+**Hilfsmittel**
+
+<sup>1</sup> Als Hilfsmittel für das Übertrittsverfahren erlässt das Bildungs- und Kulturdepartement neben dem Anforderungsprofil ein Selbstbeurteilungsdokument und Fremdbeurteilungsdokument sowie einen Bogen zur Darstellung der Überlegungen zur Laufbahnwahl.
+
+<sup>2</sup> Das Anforderungsprofil Kurzzeitgymnasium enthält die wesentlichen Fähigkeiten und Fertigkeiten, über welche die Lernenden der Sekundarschule verfügen müssen, um in das Kurzzeitgymnasium übertreten zu können.
+
+<sup>3</sup> Der in den fachlichen und überfachlichen Kompetenzen erreichte Stand wird von der oder dem Lernenden im Selbstbeurteilungsdokument und von der Lehrperson im Fremdbeurteilungsdokument eingetragen.
+
+- a. …
+- b. …
+
+<sup>4</sup> Auf dem Bogen zur Darstellung der Überlegungen zur Laufbahnwahl erläutern die Lernenden ihre Motive für die gewünschte Laufbahn, stellen zuvor geprüfte und verworfene andere Ausbildungsmöglichkeiten dar und nennen mögliche Alternativen zur gewünschten Laufbahn.
+
+#### § 25
+
+**Beurteilung der Lernenden**
+
+<sup>1</sup> Für den Übertritt nach der 2. Klasse der Sekundarschule werden am Ende des 1. Semesters der 2. Klasse die fachlichen Leistungen in den Zeugnisnoten sowie die Selbst- und die Fremdbeurteilung der Lernenden im Selbstbeurteilungsdokument und im Fremdbeurteilungsdokument festgehalten. Für den Übertritt nach der 3. Klasse werden die Leistungen und Beurteilungen am Ende des 1. Semesters der 3. Klasse erfasst.
+
+<sup>2</sup> Die Zeugnisnoten ergeben sich aus der Bewertung mehrerer verschiedenartiger Leistungen der Lernenden, welche auf die vom Lehrplan vorgegebenen Kompetenzen ausgerichtet sind.
+
+<sup>3</sup> Die Selbstbeurteilung gründet auf Lernprozessen und Lernergebnissen der Lernenden, die mit den zuständigen Lehrpersonen immer wieder besprochen werden.
+
+<sup>4</sup> Die Fremdbeurteilung der Lernenden durch die Lehrpersonen gründet auf den beobachteten Lernprozessen und den festgestellten Lernergebnissen, welche die Lehrpersonen mit den Lernenden besprochen haben.
+
+<sup>5</sup> Nach dem 1. Semester der 2. beziehungsweise der 3. Klasse halten die Lernenden ihre Überlegungen zur Laufbahnwahl schriftlich fest.
+
+#### § 26
+
+**Wiederholung des Übertrittsverfahrens**
+
+<sup>1</sup> Lernende, die das Übertrittsverfahren bereits einmal in der 2. Klasse der Sekundarschule absolviert haben, jedoch erst nach der 3. Klasse in das Kurzzeitgymnasium übertreten wollen, haben das Verfahren noch einmal zu absolvieren.
+
+## 4 Massnahmen zur Unterstützung der Urteilsfindung
+
+#### § 27
+
+**Massnahmen zum Übertritt**
+
+<sup>1</sup> Zur Unterstützung der Urteilsfindung der Lehrpersonen sind folgende Massnahmen zu treffen:
+
+- a. Die Klassenlehrpersonen werden im Rahmen der Weiterbildung in die Handhabung der Beurteilungsinstrumente eingeführt und in ihrer Arbeit begleitet,
+- b. sie besprechen die Beurteilungsergebnisse mit den Erziehungsberechtigten und den Lernenden,
+- c. die Klassenlehrpersonen der 1. Klassen der Sekundarschule und des Kurzzeitgymnasiums geben jeweils bis Ostern jenen Klassenlehrpersonen eine Rückmeldung, aus deren Klassen ihnen für das laufende Schuljahr Lernende zugewiesen wurden,
+- d. Durchführung von Beurteilungskonferenzen gemäss § 28.
+
+#### § 28
+
+**Beurteilungskonferenzen**
+
+<sup>1</sup> Die Schulleitungen der Sekundarschulen und der Gymnasien führen in ihren Schulkreisen mit den Klassenlehrpersonen der 5. und 6. Klassen der Primarschule beziehungsweise mit jenen der 2. und 3. Klassen der Sekundarschule pro Jahr eine Beurteilungskonferenz durch.
+
+<sup>2</sup> Beurteilungskonferenzen dienen dem Erfahrungsaustausch und der gemeinsamen Erörterung von Schwierigkeiten im Zusammenhang mit den Übertrittsverfahren.
+
+#### § 29
+
+**…**
+
+## 5 Schlussbestimmungen
+
+#### § 30
+
+**Weisungen**
+
+<sup>1</sup> Die Dienststelle Volksschulbildung[^30-1] kann zu dieser Verordnung Weisungen erlassen.
+
+[^30-1]: Gemäss Änderung vom 27. November 2007 der Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen, in Kraft seit dem 1. Januar 2008 (G 2007 383), wurde die Bezeichnung «Amt für Volksschulbildung» durch «Dienststelle Volksschulbildung» ersetzt.
+
+#### § 31
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Entscheide im Zusammenhang mit dieser Verordnung kann nach den Bestimmungen des Gesetzes über die Volksschulbildung vom 22. März 1999[^31-1] und des Gesetzes über die Verwaltungsrechtspflege vom 3. Juli 1972[^31-2] schriftlich und begründet Beschwerde geführt werden.
+
+<sup>2</sup> Die Beschwerdefrist beträgt 20 Tage.
+
+[^31-1]: SRL Nr. [400a](https://srl.lu.ch/data/400a/de)
+[^31-2]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
+
+#### § 32
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Die Verordnung über die Beurteilung der Lernenden in der Volksschule und über die Übertrittsverfahren vom 21. Dezember 1999[^32-1] wird aufgehoben.
+
+[^32-1]: G 1999 410 (SRL Nr. 412)
+
+#### § 33
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> …
+
+#### § 33a
+
+**Übergangsbestimmung der Änderung vom 23. August 2016**
+
+<sup>1</sup> Die Lernenden der 6. Primarklasse und der Sekundarschule im Schuljahr 2017/2018 beenden die Übertrittsverfahren bis zur Beendigung der Volksschule gemäss den Bestimmungen der Verordnung über die Beurteilung der Lernenden in der Volksschule vom 15. Mai 2007 in der Fassung vom 1. August 2012[^33a-1] und der Verordnung über die Übertrittsverfahren vom 15. Mai 2007 in der Fassung vom 1. August 2012[^33a-2].
+
+[^33a-1]: SRL Nr. 405a (G 2012 76)
+[^33a-2]: SRL Nr. 405b (G 2012 78)
+
+#### § 34
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verordnung tritt am 1. August 2007 in Kraft. Sie ist zu veröffentlichen.
+
+G 2007 69

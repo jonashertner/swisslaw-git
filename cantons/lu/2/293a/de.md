@@ -1,0 +1,38 @@
+---
+canton: LU
+number: 293a
+title: "Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Geuensee, Oberkirch und Schenkon zu einem Betreibungskreis"
+language: de
+version: 2016-07-03
+version_adopted: 2016-06-17
+adopted: 2016-06-17
+in_force: 2016-07-03
+url: "https://srl.lu.ch/app/de/texts_of_law/293a"
+pdf: "https://srl.lu.ch/api/de/versions/2847/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Beschluss über die Genehmigung der Vereinigung der Betreibungskreise Geuensee, Oberkirch und Schenkon zu einem Betreibungskreis
+
+vom 17.06.2016 (Stand 03.07.2016)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf § 1 Absatz 2 des Einführungsgesetzes zum Bundesgesetz über Schuldbetreibung und Konkurs vom 22. Oktober 1996[^ingress-1],
+
+auf Antrag des Justiz- und Sicherheitsdepartementes,
+
+beschliesst:
+
+[^ingress-1]: SRL Nr. [290](https://srl.lu.ch/data/290/de)
+
+#### Ziff. 1
+
+<sup>1</sup> Der Beschluss der Gemeinderäte von Geuensee, Oberkirch und Schenkon über die Vereinigung der Betreibungskreise Geuensee, Oberkirch und Schenkon per 1. September 2016 zu einem einzigen Betreibungskreis wird genehmigt.
+
+#### Ziff. 2
+
+<sup>1</sup> Dieser Beschluss ist zu veröffentlichen.
+
+G 2016 111

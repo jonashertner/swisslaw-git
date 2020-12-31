@@ -1,0 +1,194 @@
+---
+canton: LU
+number: 897h
+title: Vollziehungsverordnung zum Dekret über Massnahmen zur Förderung des Wohnungsbaues
+language: de
+version: 2010-01-01
+version_adopted: 2009-12-15
+adopted: 1966-05-31
+in_force: 1966-06-01
+url: "https://srl.lu.ch/app/de/texts_of_law/897h"
+pdf: "https://srl.lu.ch/api/de/versions/2789/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vollziehungsverordnung zum Dekret über Massnahmen zur Förderung des Wohnungsbaues
+
+vom 31.05.1966 (Stand 01.01.2010)
+
+Der Regierungsrat des Kantons Luzern,
+
+gestützt auf § 10 Absatz 1 des Dekretes vom 8. März 1966 über Massnahmen zur Förderung des Wohnungsbaues[^ingress-1] (nachstehend Dekret genannt),
+
+in Hinsicht auf das Bundesgesetz über Massnahmen zur Förderung des Wohnungsbaues vom 19. März 1965[^ingress-2] und die bundesrätliche Vollzugsverordnung II (unmittelbare Bundeshilfe) vom 22. Februar 1966[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: G XVII 35. Aufgehoben durch G über Wohnbau- und Eigentumsförderung vom 28. Juni 1983 (SRL Nr. 897).
+[^ingress-2]: SR [842](https://db.clex.ch/link/Bund/842/de)
+[^ingress-3]: SR 842.2. Auf diese Verordnung wird im Folgenden nicht mehr hingewiesen.
+
+## 1 Allgemeine Bestimmungen
+
+#### § 1
+
+**Zuteilung der Wohnungskontingente**
+
+<sup>1</sup> Die Gemeinden melden dem Finanzdepartement[^1-1] innert einer von diesem festgesetzten Frist die Art, Anzahl und Grösse der mit dieser Wohnbauaktion zu beschaffenden Wohnungen.
+
+<sup>2</sup> Den Gemeinden wird nach Massgabe der verfügbaren Mittel, des nachgewiesenen Bedürfnisses und in billigem Verhältnis zum Gesamtwohnungsbedarf aller teilnehmenden Gemeinden ein Wohnungskontingent zugeteilt.
+
+[^1-1]: Gemäss Änderung des Organisationsgesetzes vom 5. Juni 2000, in Kraft seit dem 1. Januar 2001 (G 2000 273), wurde in den §§ 1 und 15 die Bezeichnung «Baudepartement» durch «Finanzdepartement» ersetzt.
+
+#### § 2
+
+**Zimmerfläche**
+
+<sup>1</sup> Als ganze Zimmer gelten in der Regel Wohn- und Schlafzimmer mit wenigstens 10 m² Grundrissfläche. Die Grundrissfläche des Wohnzimmers muss bei einer Zwei- und Dreizimmerwohnung wenigstens 16 m², bei einer Vierzimmerwohnung wenigstens 17 bis 18 m² und bei einer Fünf- und Mehrzimmerwohnung wenigstens 19 bis 20 m² betragen, beim Elternzimmer in der Regel 14 m².
+
+<sup>2</sup> Als halbe Zimmer werden in der Regel angerechnet:
+
+- a. Wohn- und Schlafräume mit 6 bis 10 m² Grundrissfläche;
+- b. Wohnküchen mit einer Grundrissfläche von wenigstens 12 m² ;
+- c. Wohndielen mit wenigstens 6 m² verkehrsfreier Grundrissfläche mit Fenstern ins Freie;
+- d. Mansarden ausserhalb des Wohnungsabschlusses.
+
+#### § 3
+
+**Anlagekosten**
+
+<sup>1</sup> Die Wohnbauhilfe wird gewährt an Bauvorhaben, deren Bruttoanlagekosten im Sinne von Artikel 11 der Vollzugsverordnung II beim Stand des Baukostenindexes von Ende Juni 1965 folgende Ansätze nicht überschreiten:
+
+- a. 68 000 Franken für die Dreizimmerwohnung im Wirtschaftsraum Luzern mit den Gemeinden Luzern, Ebikon, Emmen, Kriens, Horw und Meggen;
+- b. 60 000 Franken für die Dreizimmerwohnung in allen anderen Gemeinden. Die kantonale Dienststelle Immobilien[^3-1] ist befugt, bei besonderen Verhältnissen und im Einzelfall Überschreitungen bis zur Limite von lit. a zuzulassen.
+
+<sup>2</sup> Für jedes weitere Zimmer erhöht sich die Kostengrenze um 10 000 Franken. Bei Ein- und Zweizimmerwohnungen vermindert sich die Kostengrenze entsprechend.
+
+[^3-1]: Gemäss Änderung vom 16. März 2007 der Verordnung über die Aufgaben der Departemente und der Staatskanzlei sowie die Gliederung der Departemente in Dienststellen, in Kraft seit dem 1. Juli 2007 (G 2007 33), wurde in den §§ 3 und 7–15 die Bezeichnung «Amt für Hochbauten und Immobilien» durch «Dienststelle Immobilien» ersetzt.
+
+#### § 4
+
+**Angemessenheit der Landkosten**
+
+<sup>1</sup> Die Landkosten gelten in der Regel dann als übersetzt, wenn sie mit den Kosten für die Erschliessung der Bauparzelle mehr als 20 % der Bruttoanlagekosten gemäss Artikel 11 der Vollzugsverordnung II betragen.
+
+<sup>2</sup> Für die Bruttoanlagekosten werden grundsätzlich nur die vom Bauherrn wirklich bezahlten Landkosten, einschliesslich aufgelaufene Passivzinsen und Erschliessungskosten, berücksichtigt.
+
+#### § 5
+
+**Bewohnung, Untermiete, Wohnsitz und Arbeitsort**
+
+<sup>1</sup> Als Bewohner von mit Wohnbauhilfe unterstützten Wohnungen sind in erster Linie Familien mit minderjährigen Kindern zu berücksichtigen. Die Zahl der im gemeinsamen Haushalt lebenden Familienglieder soll der Zimmerzahl der Wohnung entsprechen.
+
+<sup>2</sup> Eine Wohnung darf nur von einer Familie bewohnt werden. Untermiete ist grundsätzlich nicht gestattet; bei Vorliegen besonderer Verhältnisse kann die Gemeinde Ausnahmen bewilligen.
+
+<sup>3</sup> Die Gemeinden können den Bezug der mit Wohnbauhilfe erstellten Wohnungen auf Familien beschränken, die seit mindestens zwei Jahren in ihrer Gemeinde Wohnsitz oder Arbeitsort haben.
+
+#### § 5bis
+
+**Finanzielle Verhältnisse**
+
+<sup>1</sup> Bei den seit 1. März 1966 erstellten Bauten im sozialen Wohnungsbau gelten für den Bezug der Wohnungen die Bestimmungen über die finanziellen Verhältnisse der Bewohner gemäss der eidgenössischen Verordnung.
+
+<sup>2</sup> Die für den Bezug der Wohnung anrechenbaren Ansätze für das Einkommen und Vermögen dürfen nachträglich bis höchstens 10 Prozent überschritten werden.
+
+#### § 6
+
+**Nachweis der Finanzierung**
+
+<sup>1</sup> Die Gewährung der Wohnbauhilfe wird vom Nachweis der vollständigen Finanzierung des Bauvorhabens abhängig gemacht.
+
+<sup>2</sup> Der Bauherr hat sich mindestens mit einem Eigenkapital von 10 Prozent der Gesamtinvestitionen an der Finanzierung zu beteiligen und sich darüber auszuweisen, dass er über dieses Kapital verfügt.
+
+<sup>3</sup> Die direkte oder indirekte Heranziehung der an den Wohnbauten beteiligten Handwerker, Unternehmer, Lieferanten und Architekten zu deren Finanzierung, insbesondere die Gewährung von Darlehen und die Eingehung von Bürgschaften, ist unzulässig.
+
+#### § 7
+
+**Festsetzung der Mietzinse**
+
+<sup>1</sup> Alle Gesuche um Genehmigung der Mietzinsfestsetzung sind der kantonalen Dienststelle Immobilien zu unterbreiten.
+
+<sup>2</sup> Als landesüblich im Sinne von Artikel 21 Absatz 2 der Vollzugsverordnung II gelten die jeweiligen Ansätze der Luzerner Kantonalbank.
+
+<sup>3</sup> Der für die Mietzinsberechnung im Sinne von Artikel 21 Absatz 3 zu berücksichtigende Zuschlag darf 2,2 Prozent der anerkannten Bruttoanlagekosten, abzüglich Landwert, nicht überschreiten.
+
+<sup>4</sup> Die nach der Genehmigung der Bauabrechnung ohne vorherige Bewilligung der kantonalen Amtsstelle vorgenommenen Aufwendungen werden im Sinne von Artikel 21 Absatz 5 der Vollzugsverordnung II für die Mietzinsberechnung nicht berücksichtigt.
+
+#### § 8
+
+**Überwachung der Zweckerhaltung**
+
+<sup>1</sup> Die Gemeinden haben die Erhaltung des Zweckes der Wohnbauhilfe im Einzelfall zu überwachen. Sie haben gemäss Artikel 25 der Vollzugsverordnung II mindestens alle zwei Jahre die Einkommens- und Vermögensverhältnisse der Bewohner der begünstigten Wohnbauten zu überprüfen.
+
+<sup>2</sup> Das Prüfungsergebnis ist jeweils an die kantonale Dienststelle Immobilien weiterzuleiten. Gemeinden, die der Kontrollpflicht für diese oder frühere Wohnbauaktionen nicht oder ungenügend nachkommen, können von der Beteiligung an der Wohnbauaktion ausgeschlossen werden.
+
+<sup>3</sup> Bei Feststellung einer Zweckentfremdung trifft die kantonale Dienststelle Immobilien die Massnahmen gemäss Artikel 24 der Vollzugsverordnung II und erstattet gegebenenfalls Meldung an das Eidg. Büro für Wohnungsbau.
+
+#### § 9
+
+**Bürgschaft und Kapitalbeschaffung**
+
+<sup>1</sup> Wird im Sinne von § 7 Absatz 3 des Dekretes[^9-1] die Bürgschaft des Bundes oder werden vom Bund Darlehen für die Finanzierung bestimmter Projekte beansprucht, sind hiefür die einschlägigen Bestimmungen der bundesrätlichen Vollzugsverordnung II massgebend. Die in diesem Zusammenhang vom Kanton zu erfüllenden Aufgaben sind der kantonalen Dienststelle Immobilien übertragen.
+
+[^9-1]: G XVII 35. Aufgehoben durch G über Wohnbau- und Eigentumsförderung vom 28. Juni 1983 (SRL Nr. 897).
+
+## 2 Verfahren, Abrechnung und Zuständigkeit
+
+#### § 10
+
+**Vorabklärung**
+
+<sup>1</sup> Vorgängig der definitiven Gesuchseingabe sollen zur Vorabklärung, ob für ein Bauvorhaben grundsätzlich die Wohnbauhilfe in Betracht kommt, unter Verwendung des amtlichen Formulars der kantonalen Dienststelle Immobilien, die Unterlagen gemäss Artikel 38 der Vollzugsverordnung II eingereicht werden.
+
+#### § 11
+
+**Definitive Gesuche**
+
+<sup>1</sup> 1Die Beitragsgesuche sind der Gemeinde im Sinne von Artikel 39 der Vollzugsverordnung II auf dem amtlichen Formular einzureichen. Die Unterlagen müssen mindestens zwei Monate vor dem vorgesehenen Baubeginn im Besitze der kantonalen Dienststelle Immobilien sein.
+
+<sup>2</sup> Die kantonale Dienststelle Immobilien ist berechtigt, allfällig weitere zur Beurteilung der Beitragsberechtigung des Gesuchstellers und des Bauvorhabens notwendige Unterlagen einzuverlangen.
+
+<sup>3</sup> Sofern in einer Gemeinde die Gesuche das zugeteilte Wohnungskontingent übersteigen, wird zur Auswahl der geeigneten Bauprojekte das Verfahren nach § 10 angewendet. Bei annähernd gleichen Vorzügen werden jene Bauprojekte berücksichtigt, die im Verhältnis zu den dafür aufzuwendenden Mitteln besser geeignet sind, das mit der Aktion verfolgte Ziel zu erreichen.
+
+#### § 12
+
+**Prüfung der Gesuche**
+
+<sup>1</sup> Die Gemeinde hat die eingegangenen Gesuche auf ihr Bedürfnis und die Unterlagen auf deren formelle Richtigkeit zu prüfen. Gesuche, welche die formellen Voraussetzungen dieser Verordnung nicht erfüllen, sind an den Gesuchsteller zur Vervollständigung zurückzuweisen.
+
+<sup>2</sup> Die Gemeinde leitet die Gesuche nach Prüfung und Beschlussfassung unter Beilage der schriftlichen Erklärung bezüglich Übernahme der Gemeindeleistungen an die kantonale Dienststelle Immobilien weiter. Sie hat nicht nur die empfohlenen, sondern alle eingereichten Gesuche weiterzuleiten.
+
+#### § 13
+
+**Beitragszusicherung und Annahmeerklärung**
+
+<sup>1</sup> …
+
+<sup>2</sup> Die Verfügung über die gesamten zugesicherten Leistungen der Gemeinwesen wird dem Gesuchsteller durch die kantonale Dienststelle Immobilien schriftlich eröffnet. Der Gesuchsteller hat dieser innert Monatsfrist seit Eingang der Verfügung Mitteilung zu machen, ob er die an die Zusicherung der Wohnbauhilfe geknüpften Bedingungen annehmen will oder nicht.
+
+#### § 14
+
+**Bauabrechnung**
+
+<sup>1</sup> Nach Bauvollendung hat die Bauherrschaft im Sinne von Artikel 46 der Vollzugsverordnung II der kantonalen Dienststelle Immobilien eine von ihr und vom Bauleiter unterzeichnete Bauabrechnung einzureichen.
+
+<sup>2</sup> Die kantonale Dienststelle Immobilien prüft die Bauabrechnungen auf ihre Richtigkeit und ermittelt die endgültigen Anlagekosten.
+
+## 3 Schlussbestimmungen
+
+#### § 15
+
+**Vollzug**
+
+<sup>1</sup> Mit dem Vollzug des Dekretes[^15-1] und dieser Verordnung werden das kantonale Finanzdepartement und die ihm unterstellte kantonale Dienststelle Immobilien beauftragt.
+
+[^15-1]: G XVII 35. Aufgehoben durch G über Wohnbau- und Eigentumsförderung vom 28. Juni 1983 (SRL Nr. 897).
+
+#### § 16
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Juni 1966 in Kraft. Sie ist zu veröffentlichen.
+
+V XVII 112
