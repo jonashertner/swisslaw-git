@@ -1,0 +1,35 @@
+---
+canton: SO
+number: "931.345.1"
+title: Beteiligung des Kantons Solothurn an der Errichtung und am Betrieb der interkantonalen Försterschule Lyss
+language: de
+version: 1968-06-27
+version_adopted: 1968-06-23
+adopted: 1968-06-23
+in_force: 1968-06-27
+url: "https://bgs.so.ch/app/de/texts_of_law/931.345.1"
+pdf: "https://bgs.so.ch/api/de/versions/706/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Beteiligung des Kantons Solothurn an der Errichtung und am Betrieb der interkantonalen Försterschule Lyss
+
+VB vom 23. Juni 1968
+
+Der Kantonsrat von Solothurn gestützt auf Artikel 17 Ziffer 2 der Kantonsverfassung vom 23. Oktober 1887 nach Kenntnisnahme von Bericht und Antrag des Regierungsrates vom 19. März 1968
+
+beschliesst:
+
+- 1\. Der Kanton Solothurn tritt der interkantonalen Vereinbarung über die Errichtung und den Betrieb der interkantonalen Försterschule Lyss bei.
+
+- 2\. Der Kanton Solothurn verpflichtet sich zu den nach dem Schlussbericht der interkantonalen Kommission für die Errichtung einer Försterschule in Lyss vorgesehenen Leistungen mit einem einmaligen Beitrag an die Errichtungskosten von 187000 Franken an die auf 1,7 Millionen Franken berechneten Gesamtkosten und zu dem ihm laut Berechnungen der Kommission anfallenden jährlichen Beitrag für drei feste Plätze im Betrage von rund 12000 Franken.
+
+- 3\. Der Kantonsrat wird ermächtigt, weitere Kredite, die sich aus der Beteiligung an der Stiftung Försterschule Lyss ergeben, oder die auf die Bauteuerung zurückzuführen sind, endgültig zu beschliessen.
+
+- 4\. Der Regierungsrat wird mit dem Vollzug dieses Beschlusses beauftragt und ermächtigt, die Vereinbarung im Namen des Kantons Solothurn zu unterzeichnen.
+
+- 5\. Dieser Beschluss tritt nach Annahme durch das Volk mit der Publikation des Abstimmungsergebnisses im Amtsblatt in Kraft.
+
+Publiziert im Amtsblatt vom 27. Juni 1968

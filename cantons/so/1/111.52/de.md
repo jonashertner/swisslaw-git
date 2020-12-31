@@ -1,0 +1,37 @@
+---
+canton: SO
+number: "111.52"
+title: "Genehmigung des Übereinkommens zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel- Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen (Karlsruher Übereinkommen)"
+language: de
+version: 1997-09-01
+version_adopted: 1996-10-29
+adopted: 1996-10-29
+in_force: 1997-09-01
+url: "https://bgs.so.ch/app/de/texts_of_law/111.52"
+pdf: "https://bgs.so.ch/api/de/versions/16/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Genehmigung des Übereinkommens zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel- Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen (Karlsruher Übereinkommen)
+
+## Genehmigung des Übereinkommens zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen
+
+(Karlsruher Übereinkommen)
+
+KRB vom 29. Oktober 1996
+
+Der Kantonsrat von Solothurn gestützt auf Artikel 9 und 10 Absatz 1 der Bundesverfassung der schweizerischen Eidgenossenschaft vom 29. Mai 1874, auf Artikel 36 Absatz 1 litera b, 48, 72, 77 und 82 Absatz 1 litera b der Kantonsverfassung vom 8. Juni 1986 nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 2. Juli 1996
+
+beschliesst:
+
+- 1\. Das Übereinkommen zwischen dem Schweizerischen Bundesrat, handelnd im Namen der Kantone Solothurn, Basel-Stadt, Basel-Landschaft, Aargau und Jura, der Regierung der Bundesrepublik Deutschland, der Regierung der Französischen Republik und der Regierung des Grossherzogtums Luxemburg, über die grenzüberschreitende Zusammenarbeit zwischen Gebietskörperschaften und örtlichen öffentlichen Stellen wird genehmigt.
+
+- 2\. Der Regierungsrat wird ermächtigt, das Übereinkommen durch Vermittlung des Bundesrates zu ratifizieren.
+
+- 3\. Der Regierungsrat wird mit dem Vollzug beauftragt.
+
+- 4\. Dieser Beschluss unterliegt dem fakultativen Referendum.
+
+Die Referendumsfrist ist am 20. Februar 1997 unbenutzt abgelaufen. Inkrafttreten am 1. September 1997
