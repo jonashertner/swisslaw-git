@@ -1,0 +1,64 @@
+---
+canton: GE
+number: D 3 08.07
+title: "Règlement concernant la déduction en cas d'activité des 2 conjoints pour les périodes fiscales 2001 à 2009 (RDAC – 2001-2009)"
+short: RDAC – 2001-2009
+language: fr
+version: 2010-12-09
+adopted: 2010-12-01
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_d3_08p07.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement concernant la déduction en cas d'activité des 2 conjoints pour les périodes fiscales 2001 à 2009 (RDAC – 2001-2009)
+du 1<sup>er</sup> décembre 2010
+
+(Entrée en vigueur : 9 décembre 2010)
+
+Le CONSEIL D’ÉTAT de la République et canton de Genève,
+
+vu les articles 9, alinéa 2, lettre k, et 72 de la loi fédérale sur l'harmonisation des impôts directs des cantons et des communes, du 14 décembre 1990 (ci‑après : la loi fédérale);
+
+vu l'arrêt du Tribunal administratif, du 16 février 2010, dans la cause administration fiscale du canton de Genève contre Madame et Monsieur C., déclarant, dans ses considérants, l'article 14, alinéa 1, lettre a, 2<sup>e</sup> phrase, de la loi sur l'imposition des personnes physiques – Détermination du revenu net – Calcul de l'impôt et rabais d'impôt – Compensation des effets de la progression à froid, du 22 septembre 2000 (ci-après : LIPP-V), contraire à la loi fédérale en tant qu'il prévoit un montant pour calculer un rabais d'impôt, au lieu d'une déduction sur le revenu;
+
+vu le prononcé du Tribunal fédéral, du 15 novembre 2010, rejetant le recours formé par l'administration fiscale cantonale contre l'arrêt susmentionné;
+
+vu l'article 36 de la loi sur l'imposition des personnes physiques, du 27 septembre 2009,
+
+arrête :
+
+## Chapitre I Droit applicable pour les périodes fiscales 2001 à 2009
+
+#### Art. 1
+
+**Dérogation à l'application de la LIPP-V**
+
+L'article 14, alinéa 1, lettre a, 2<sup>e</sup> phrase, LIPP-V n'est plus appliqué.
+
+#### Art. 2
+
+**Déduction en cas d'activité lucrative des 2 conjoints**
+
+<sup>1</sup> Lorsque les époux vivent en ménage commun, il est déduit du produit du travail le plus bas qu'obtient l'un des conjoints pour une activité indépendante de la profession, du commerce ou de l'entreprise de l'autre, et à concurrence de ce produit, un montant s'élevant à :
+
+- a) 5 000 francs pour les périodes fiscales 2001 à 2004;
+- b) 5 200 francs pour les périodes fiscales 2005 à 2008;
+- c) 5 500 francs pour la période 2009.
+
+<sup>2</sup> Une déduction analogue est accordée lorsque l'un des conjoints seconde l'autre de manière importante dans sa profession, son commerce ou son entreprise.
+
+## Chapitre II Dispositions finales et transitoires
+
+#### Art. 3
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le lendemain de sa publication dans la Feuille d'avis officielle.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| D 3 08.07 R concernant la déduction en cas d'activité des 2 conjoints pour les périodes fiscales 2001 à 2009 | 01.12.2010 | 09.12.2010 |
+| Modification : néant |  |  |

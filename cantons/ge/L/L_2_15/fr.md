@@ -1,0 +1,143 @@
+---
+canton: GE
+number: L 2 15
+title: "Acte intercantonal concernant la correction et la régularisation de l’écoulement des eaux du Léman entre les cantons de Genève, de Vaud et du Valais (AICRL)"
+short: AICRL
+language: fr
+version: 1985-12-16
+adopted: 1984-09-11
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_l2_15.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Acte intercantonal concernant la correction et la régularisation de l’écoulement des eaux du Léman entre les cantons de Genève, de Vaud et du Valais (AICRL)
+du 11 septembre 1984
+
+(Entrée en vigueur : 16 décembre 1985)<sup>(a)</sup>
+
+Le GRAND CONSEIL de la République et canton de Genève
+
+décrète ce qui suit :
+
+## Chapitre I But
+
+#### Art. 1
+
+<sup>1</sup> Les parties contractantes décident d’unir leurs efforts dans le but de régulariser l’écoulement du lac Léman et les variations de son niveau.
+
+<sup>2</sup> Un nouvel ouvrage de régularisation du niveau du lac Léman remplace les installations vétustes existantes réalisées en vertu de la convention intercantonale concernant la correction et la régularisation de l’écoulement des eaux du lac Léman, du 17 décembre 1884.
+
+## Chapitre II Barrage de régularisation
+
+#### Art. 2
+
+<sup>1</sup> L’Etat de Genève s’engage à réaliser au droit du quai du Seujet l’ouvrage destiné à la régularisation du niveau du lac Léman, conformément aux plans, profils et devis estimatif du projet annexé au présent acte intercantonal. Cet ouvrage constitue toutefois un aménagement combiné, comportant un barrage à vannes mobiles et une usine hydroélectrique. Il assure donc 2 fonctions distinctes :
+
+- a) la régularisation des eaux du lac Léman;
+- b) l’utilisation des forces motrices du Rhône.
+
+Seule la régularisation des eaux du lac Léman concerne les parties contractantes. Elle est effectuée conjointement par les vannes mobiles du barrage et les organes d’obturation de l’usine.
+
+<sup>2</sup> Pour définir la part des coûts de réalisation de l’ouvrage et des charges de maintien, entretien et manoeuvre afférents à la seule régularisation des eaux, les plans, profils et devis estimatif d’un barrage sans usine ont été établis et sont joints au présent acte. Cet ouvrage de référence n’est pas celui qui est exécuté, mais sert à l’application des articles 6 et 7.
+
+#### Art. 3
+
+L’entretien de l’ouvrage susmentionné demeure à la charge de l’Etat de Genève, sous la surveillance de la Confédération, conformément à la loi fédérale sur la police des eaux, du 22 juin 1877. L’article 7, alinéa 2, est réservé.
+
+#### Art. 4
+
+<sup>1</sup> L’Etat de Genève s’engage à ne jamais exécuter aucun travail, à ne jamais accorder aucune concession qui modifie la capacité d’écoulement de l’émissaire du lac Léman.
+
+<sup>2</sup> Sont réservés les travaux à exécuter en conformité de la loi genevoise sur la concession aux Services industriels de Genève de la force motrice hydraulique d’une section du Rhône pour l’exploitation d’une usine hydroélectrique dite du Seujet, située entre les ponts de la Coulouvrenière et de Sous-Terre, du 12 septembre 1984.
+
+## Chapitre III Manœuvres des vannes mobiles et organes d’obturation
+
+#### Art. 5
+
+<sup>1</sup> L’Etat de Genève est chargé de la manœuvre des vannes mobiles et organes d’obturation prévus dans le projet annexé au présent acte.
+
+<sup>2</sup> L’Etat de Genève s’engage à faire exécuter, à ses frais, les manoeuvres des vannes mobiles et organes d’obturation de façon à chercher à maintenir le niveau du lac entre les altitudes 372,30 m s/mer et 371,70 m s/mer (réf. RPN 373,60).
+
+<sup>3</sup> Les manoeuvres sont exécutées conformément au « Règlement de barrage pour la manœuvre de l’ouvrage régissant la régularisation du niveau du lac Léman à Genève ».
+
+<sup>4</sup> Le règlement est soumis à révision tous les 5 ans si la demande en est faite par l’une des parties contractantes.
+
+<sup>5</sup> Toute modification du règlement est soumise à l’approbation du Conseil fédéral et des parties contractantes.
+
+<sup>6</sup> En cas de contestation sur la teneur du règlement, le Conseil fédéral statue en dernier ressort.
+
+<sup>7</sup> Le Conseil fédéral exerce la haute surveillance sur la manoeuvre des vannes mobiles et organes d’obturation en vue de faire observer les dispositions du présent acte et du règlement.
+
+## Chapitre IV Subvention fédérale et participations cantonales
+
+#### Art. 6
+
+<sup>1</sup> L’Etat de Genève prend à sa charge, à ses risques et périls, l’exécution de l’ouvrage prévu dans le projet annexé au présent acte, son maintien et entretien et les manoeuvres des vannes mobiles et organes d’obturation.
+
+<sup>2</sup> Le coût estimatif de l’ouvrage de référence et de la suppression de l’ancien barrage du pont de la Machine est de 45 000 000 de francs (valeur 1982), augmenté du coût des études préliminaires estimées à 4 000 000 de francs.
+
+<sup>3</sup> Pour assurer l’exécution de l’ouvrage :
+
+- a) les parties contractantes demandent en commun à la Confédération, au profit de l’Etat de Genève, une subvention<sup>(b)</sup> correspondant aux 50% du coût de l’ouvrage de référence, du réajustement en fonction des variations économiques et du montant des travaux supplémentaires éventuels indispensables à la sécurité de l’ouvrage;
+- b) les Etats de Vaud et du Valais s’engagent à fournir à l’Etat de Genève une participation correspondant aux 25% du coût de l’ouvrage de référence à concurrence de 23,43% pour l’Etat de Vaud et de 1,57% pour l’Etat du Valais. Ils admettent le réajustement en fonction des variations économiques et du montant des travaux supplémentaires éventuels indispensables à la sécurité de l’ouvrage.
+
+#### Art. 7
+
+<sup>1</sup> Les participations fournies par les Etats de Vaud et du Valais sont payables en 5 annuités, dont la première est exigible un an après l’entrée en vigueur du présent acte intercantonal.
+
+<sup>2</sup> L’Etat de Vaud et l’Etat du Valais acceptent de participer ensemble, à raison de 50%, au coût des travaux de maintien et d’entretien dudit ouvrage de référence, à concurrence de 46,86% pour l’Etat de Vaud et de 3,14% pour l’Etat du Valais.
+
+## Chapitre V Exécution des travaux
+
+#### Art. 8
+
+L’Etat de Genève fait établir les projets définitifs des travaux et les soumet à l’approbation des parties contractantes en même temps que le présent acte.
+
+#### Art. 9
+
+L’exécution de tous les travaux prévus dans le projet annexé au présent acte se fait dans un délai de 8 ans à partir de l’acceptation par l’Etat de Genève de l’arrêté fédéral allouant une subvention au canton de Genève pour la régularisation de l’écoulement des eaux du lac Léman.
+
+#### Art. 10
+
+<sup>1</sup> Aucune modification des travaux tels que prévus dans le projet annexé au présent acte ne peut avoir lieu sans l’assentiment des parties contractantes et l’approbation du Conseil fédéral.
+
+<sup>2</sup> Le canton de Genève est garant vis-à-vis de la Confédération et des autres parties contractantes de l’exécution des travaux dans le délai fixé et du maintien et entretien de l’ouvrage conformément au présent acte.
+
+#### Art. 11
+
+<sup>1</sup> Pendant les travaux, chaque partie contractante peut, s’il y a lieu, présenter des observations sur l’exécution desdits travaux.
+
+<sup>2</sup> En cas de désaccord, le Conseil fédéral tranche.
+
+#### Art. 12
+
+Les travaux étant achevés, les parties contractantes procèdent à la reconnaissance desdits travaux en vue de constater que l’exécution a eu lieu conformément aux principes du présent acte et aux plans approuvés.
+
+## Chapitre VI Subrogation
+
+#### Art. 13
+
+L’Etat de Genève peut, sous sa responsabilité et garantie à l’égard des Etats de Vaud et du Valais, subroger en tout ou partie un établissement de droit public genevois dans les droits et obligations résultant du présent acte.
+
+## Chapitre VII Dispositions finales
+
+#### Art. 14
+
+Le présent acte intercantonal n’entre en vigueur qu’après l’obtention de la subvention fédérale prévue à l’article 6, alinéa 3, lettre a, et après ratification par les parties contractantes.
+
+#### Art. 15
+
+Le présent acte intercantonal abroge la Convention intercantonale concernant la correction et la régularisation de l’écoulement des eaux du lac Léman, du 17 décembre 1884.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| L 2 15 Acte intercantonal concernant la correction et la régularisation de l’écoulement des eaux du Léman entre les cantons de Genève, de Vaud et du Valais | 11.09.1984 | 16.12.1985 |
+| a. approbation par le Conseil fédéral | 03.03.1986 | — |
+| b. ad 6/3a : la Confédération a alloué cette subvention par un arrêté du 16.12.1985 | — | — |
+| Modification : néant |  |  |
+| 1. **Genève** | — | 16.12.1985 |
+| 2. Valais | — | 16.12.1985 |
+| 3. Vaud | — | 16.12.1985 |

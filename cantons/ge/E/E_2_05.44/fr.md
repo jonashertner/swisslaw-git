@@ -1,0 +1,165 @@
+---
+canton: GE
+number: E 2 05.44
+title: Règlement du Tribunal des prud’hommes (RTPH)
+short: RTPH
+language: fr
+version: 2014-08-22
+adopted: 2014-05-22
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_e2_05p44.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Règlement du Tribunal des prud’hommes (RTPH)
+**Refonte**
+
+du 22 mai 2014
+
+(Entrée en vigueur : 22 août 2014)
+
+Le TRIBUNAL DES PRUD’HOMMES,
+
+vu les articles 25 et suivants de la loi sur l'organisation judiciaire, du 26 septembre 2010, et 22 de la loi sur le Tribunal des prud’hommes, du 11 février 2010,
+
+adopte le règlement suivant :
+
+## Titre I Organisation générale
+
+### Chapitre I Séance plénière
+
+#### Art. 1
+
+**Séance plénière**
+
+<sup>1</sup> La séance plénière du Tribunal des prud'hommes au sens de l’article 30 de la loi sur l'organisation judiciaire, du 26 septembre 2010, se compose des 10 présidents et vice-présidents de groupe élus lors des assemblées générales annuelles. Elle est présidée par le président du Tribunal. Les débats ont lieu à huis clos.
+
+<sup>2</sup> Les décisions de la séance plénière sont prises à la majorité et sont collégiales. En cas d'égalité des voix, celle du président du Tribunal est prépondérante. Nul ne peut faire état à l’extérieur de son opinion divergente.
+
+<sup>3</sup> La séance plénière se réunit aussi souvent que nécessaire. Elle se réunit à la demande d’un de ses membres. Le greffier de juridiction, ou l'un de ses adjoints, y participe et dresse le procès-verbal.
+
+<sup>4</sup> L'article 30 de la loi sur l'organisation judiciaire, du 26 septembre 2010, est au surplus applicable.
+
+<sup>5</sup> La séance plénière exerce les attributions que la loi lui confère de même que celles qui sont attribuées au collège des présidents et vice-présidents de groupe.
+
+### Chapitre II Commission de gestion du Tribunal des prud'hommes
+
+#### Art. 2
+
+**Commission de gestion**
+
+<sup>1</sup> La commission de gestion du Tribunal des prud'hommes (ci-après : la commission) se compose des 10 présidents et vice-présidents de groupe élus lors des assemblées générales annuelles, du greffier de juridiction et des greffiers-adjoints. Elle peut s'adjoindre la collaboration de tiers si cela lui paraît opportun. Elle peut déléguer certaines tâches à l’un de ses membres ou à des personnes externes.
+
+<sup>2</sup> La commission siège valablement en présence du président ou du vice‑président du Tribunal qui la préside, du président ou du vice-président de chaque groupe et du greffier de juridiction ou de l'un de ses adjoints.
+
+<sup>3</sup> Les décisions de la commission sont prises à la majorité et sont collégiales. En cas d'égalité des voix, celle du président est prépondérante. Nul ne peut faire état à l’extérieur de son opinion divergente.
+
+<sup>4</sup> La commission se réunit en principe 2 fois par année. Elle se réunit de manière extraordinaire à la demande de l'un de ses membres. Le procès‑verbal est tenu par le greffier de juridiction ou l’un des ses adjoints.
+
+#### Art. 3
+
+**Compétences**
+
+<sup>1</sup> La commission est compétente pour tout ce qui n'est pas de la compétence de la séance plénière, du président ou du greffier de juridiction.
+
+<sup>2</sup> Dans ce cadre, elle règle les questions organisationnelles liées à l'activité judiciaire communes à l'ensemble du Tribunal ou à plusieurs groupes professionnels. Elle est notamment habilitée à :
+
+- a) adopter des directives relatives au fonctionnement des juges prud'hommes favorisant une saine administration de la justice ou une pratique uniforme dans les différents groupes professionnels;
+- b) désigner les présidents amenés à siéger dans un autre groupe professionnel en application de l'article 12, alinéa 3, de la loi sur le Tribunal des prud’hommes, du 11 février 2010.
+
+<sup>3</sup> Elle recueille les besoins en formation des présidents et juges prud'hommes.
+
+#### Art. 4
+
+**Ordre du jour et procès-verbaux**
+
+<sup>1</sup> L'ordre du jour est dressé par le président du Tribunal après consultation des autres membres de la commission.
+
+<sup>2</sup> Les procès-verbaux sont approuvés lors de la séance suivante. Dans des cas particuliers, la commission peut décider de restreindre la distribution des procès-verbaux.
+
+### Chapitre III Présidence et séance de direction
+
+#### Art. 5
+
+**Présidence**
+
+<sup>1</sup> Le président du Tribunal exerce les fonctions qui sont dévolues par la loi.
+
+<sup>2</sup> Il siège dans les divers conseils où sa présence est requise. Il est le porte‑parole de la commission.
+
+<sup>3</sup> En cas de besoin, le président du Tribunal est suppléé par le vice-président ou, subsidiairement, par le plus ancien des présidents ou vice-présidents de groupe. Il peut déléguer une partie de ses tâches.
+
+#### Art. 6
+
+**Séance de direction**
+
+<sup>1</sup> Le président du Tribunal et le greffier de juridiction sont en charge de l'ensemble des tâches et objets concernant la juridiction selon les attributions de chacun.
+
+<sup>2</sup> Ils se réunissent régulièrement en séance de direction. Le greffier de juridiction convoque et anime la séance de direction. Il en dresse l'ordre du jour conjointement avec le président.
+
+## Titre II Formation
+
+#### Art. 7
+
+**Formation continue**
+
+Sont considérés comme présidents au sens de l'article 20 de la loi sur le Tribunal des prud’hommes, du 11 février 2010, tant les présidents élus que les titulaires du brevet de président non élus.
+
+## Titre III Dispositions organisationnelles diverses
+
+#### Art. 8
+
+**Présidents et vice-présidents**
+
+Les présidents et vice-présidents de groupes veillent au bon fonctionnement de leurs groupes professionnels. Dans ce cadre, ils assurent à leurs collègues aide et conseils.
+
+#### Art. 9
+
+**Récusation**
+
+Les cas de récusation prévus à l'article 14, alinéa 3, de la loi sur le Tribunal des prud’hommes, du 11 février 2010, sont attribués au président, ou subsidiairement au vice-président, du groupe dont le chiffre est immédiatement supérieur, le groupe 1 statuant pour le groupe 5.
+
+#### Art. 10
+
+**Juge prud'homme partie à un litige**
+
+Lorsqu'un juge prud'homme est partie dans un litige, la cause est attribuée au groupe professionnel le plus proche et présidée par le président, ou subsidiairement le vice-président, dudit groupe.
+
+#### Art. 11
+
+**Tenue vestimentaire**
+
+Les juges siègent en tenue de ville. La cravate n’est pas obligatoire.
+
+#### Art. 12
+
+**Taxation**
+
+<sup>1</sup> Le Tribunal délègue au président, au sens de l'article 124, alinéa 2, du code de procédure civile, du 19 décembre 2008, les opérations de taxation durant la procédure, soit notamment les demandes d'avances de frais et de sûretés au sens des articles 98 et 99 du code de procédure civile, du 19 décembre 2008.
+
+<sup>2</sup> Le Tribunal délègue également au président la décision sur réduction de l'émolument, en cas de retrait, transaction, jonction.
+
+<sup>3</sup> Le Tribunal statue sur les frais dans sa décision finale.
+
+#### Art. 13
+
+**Conduite du procès, débats d'instruction et ordonnance de preuves**
+
+La conduite du procès et les décisions qui y sont liées, soit notamment les décisions de simplification du procès, de suspension, jonction, division, la conduite des débats d'instruction et la reddition de l'ordonnance de preuves sont déléguées au président de Tribunal, au sens de l'article 124, alinéa 2, du code de procédure civile, du 19 décembre 2008.
+
+## Titre IV Disposition finale et transitoire
+
+#### Art. 14
+
+**Abrogation et entrée en vigueur**
+
+<sup>1</sup> Le présent règlement abroge tout règlement antérieur.
+
+<sup>2</sup> Il entre en vigueur le lendemain de son approbation par la commission de gestion du pouvoir judiciaire. Il en va de même d'éventuelles modifications ultérieures.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| E 2 05.44 R du Tribunal des prud’hommes | 22.05.2014 | 22.08.2014 |
+| Modification : néant |  |  |

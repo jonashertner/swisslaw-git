@@ -1,0 +1,56 @@
+---
+canton: GE
+number: I 1 50.0
+title: Loi concernant la convention intercantonale sur la vente du sel en Suisse (L-CISel)
+short: L-CISel
+language: fr
+version: 1975-02-01
+adopted: 1974-12-20
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_i1_50p0.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi concernant la convention intercantonale sur la vente du sel en Suisse (L-CISel)
+**Texte en vigueur**
+
+**Nouvelle loi**
+
+du 20 décembre 1974
+
+(Entrée en vigueur : 1<sup>er</sup> février 1975)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu l’article 99 de la constitution de la République et canton de Genève, du 24 mai 1847;
+
+vu la loi sur la vente du sel, du 2 février 1968;
+
+vu la convention intercantonale sur la vente du sel en Suisse, du 22 novembre 1973,
+
+décrète ce qui suit :
+
+#### Art. 1
+
+**Adhésion**
+
+La République et canton de Genève adhère à la convention intercantonale sur la vente du sel en Suisse, du 22 novembre 1973.
+
+#### Art. 2
+
+**Exécution**
+
+Le Conseil d’Etat est chargé de l’exécution de la présente loi et en particulier de la transmission, à la Société des salines suisses du Rhin réunies, de la déclaration d’adhésion de la République et canton de Genève à la convention.
+
+#### Art. 3
+
+**Compétence**
+
+Le Conseil d’Etat désigne le département chargé des relations avec les cantons signataires.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| I 1 50.0 L concernant la convention intercantonale sur la vente du sel en Suisse | 20.12.1974 | 01.02.1975 |
+| Modification : néant |  |  |

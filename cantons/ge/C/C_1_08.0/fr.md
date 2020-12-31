@@ -1,0 +1,61 @@
+---
+canton: GE
+number: C 1 08.0
+title: "Loi autorisant le Conseil d'Etat à adhérer à l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (L-AICPS)"
+short: L-AICPS
+language: fr
+version: 2015-03-21
+adopted: 2008-12-18
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_c1_08p0.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi autorisant le Conseil d'Etat à adhérer à l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (L-AICPS)
+**Dernières modifications au 21 mars 2015**
+
+du 18 décembre 2008
+
+(Entrée en vigueur : 24 février 2009)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu les articles 48 et 62, alinéa 3, de la Constitution fédérale, du 18 avril 1999;
+
+vu l'article 20 de la loi fédérale sur l'élimination des inégalités frappant les personnes handicapées, du 13 décembre 2002;
+
+vu l’article 93 de la constitution de la République et canton de Genève, du 14 octobre 2012,<sup>(1)</sup>
+
+décrète ce qui suit :
+
+#### Art. 1
+
+**Adhésion**
+
+Le Conseil d'Etat est autorisé à adhérer, au nom de la République et canton de Genève, à l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée, du 25 octobre 2007, adopté par la Conférence suisse des directeurs cantonaux de l'instruction publique, dont le texte est joint à la présente loi.
+
+#### Art. 2
+
+**Exécution et autorisation**
+
+Le Conseil d'Etat et, sur délégation, le département chargé de l'instruction publique sont chargés de l'exécution de l'accord.
+
+#### Art. 3
+
+**Rapport du Conseil d'Etat au Grand Conseil**
+
+L'application de cette loi fera l'objet d'un rapport présenté par le Conseil d’Etat au Grand Conseil 4 ans après l'entrée en vigueur de l'accord intercantonal.
+
+#### Art. 4
+
+**Entrée en vigueur**
+
+La présente loi entre en vigueur le lendemain de sa promulgation dans la Feuille d'avis officielle.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| C 1 08.0 L autorisant le Conseil d'Etat à adhérer à l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée | 18.12.2008 | 24.02.2009 |
+| Modification : |  |  |
+| 1. *n.t.* : 3°cons. | 23.01.2015 | 21.03.2015 |

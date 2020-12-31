@@ -1,0 +1,82 @@
+---
+canton: GE
+number: F 1 10.0
+title: "Loi autorisant le Conseil d'Etat à adhérer au concordat du 3 avril 2014 réglant la coopération en matière de police en Suisse romande (L-CCPSR)"
+short: L-CCPSR
+language: fr
+version: 2017-09-30
+adopted: 2016-09-23
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_f1_10p0.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi autorisant le Conseil d'Etat à adhérer au concordat du 3 avril 2014 réglant la coopération en matière de police en Suisse romande (L-CCPSR)
+**Texte en vigueur**
+
+**Refonte**
+
+du 23 septembre 2016
+
+(Entrée en vigueur : 30 septembre 2017)
+
+Le GRAND CONSEIL de la République et canton de Genève,
+
+vu les articles 48 et 48a de la Constitution fédérale, du 18 avril 1999;
+
+vu l’article 93 de la constitution de la République et canton de Genève, du 14 octobre 2012;
+
+vu le concordat du 3 avril 2014 réglant la coopération en matière de police en Suisse romande,
+
+décrète ce qui suit :
+
+#### Art. 1
+
+**Adhésion**
+
+Le Conseil d’Etat est autorisé à adhérer, au nom de la République et canton de Genève, au concordat du 3 avril 2014 réglant la coopération en matière de police en Suisse romande (ci-après : concordat), dont le texte est annexé à la présente loi.
+
+#### Art. 2
+
+**Adhésion de cantons non signataires**
+
+Le consentement de la République et canton de Genève à l’adhésion de cantons non signataires selon l’article 1, alinéa 2, du concordat est soumis à l’approbation du Grand Conseil.
+
+#### Art. 3
+
+**Pouvoir d’appréciation du Conseil d’Etat**
+
+<sup>1</sup> Le Conseil d’Etat refuse l’aide concordataire s’il estime que les conditions de son octroi ne sont pas remplies.
+
+<sup>2</sup> Tel est notamment le cas si le Conseil d’Etat estime que la police du canton requérant peut, par ses propres moyens, maîtriser la situation à laquelle elle est confrontée (art. 4 du concordat) ou s’il considère que le canton requérant n’a pas à faire face à une situation de troubles intérieurs graves ou de risques d’émeutes graves (art. 5, lettre c, du concordat).
+
+#### Art. 4
+
+**Exécution**
+
+Le Conseil d’Etat édicte, par voie réglementaire, toutes dispositions complémentaires nécessaires.
+
+#### Art. 5
+
+**Compétence**
+
+Le département auquel ressortit la police est chargé des relations avec les cantons concordataires.
+
+#### Art. 6
+
+**Clause abrogatoire**
+
+La loi concernant le concordat réglant la coopération en matière de police en Suisse romande, du 25 juin 1993, est abrogée.
+
+#### Art. 7
+
+**Entrée en vigueur**
+
+Le Conseil d’Etat fixe l’entrée en vigueur de la présente loi.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| F 1 10.0 L autorisant le Conseil d'Etat à adhérer au concordat du 3 avril 2014 réglant la coopération en matière de police en Suisse romande | 23.09.2016 | 30.09.2017 |
+| Modification : néant |  |  |

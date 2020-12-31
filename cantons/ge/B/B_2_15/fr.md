@@ -1,0 +1,304 @@
+---
+canton: GE
+number: B 2 15
+title: Loi sur les archives publiques (LArch)
+short: LArch
+language: fr
+version: 2018-09-04
+adopted: 2000-12-01
+url: "https://silgeneve.ch/legis/program/books/rsg/htm/rsg_b2_15.htm"
+---
+
+> Reproduction non officielle du recueil systématique du canton GE. Seule la publication officielle du canton fait foi.
+
+# Loi sur les archives publiques (LArch)
+**Dernières modifications au 4 septembre 2018**
+
+du 1<sup>er</sup> décembre 2000
+
+(Entrée en vigueur : 1<sup>er</sup> septembre 2001)
+
+Le GRAND CONSEIL de la République et canton de Genève
+
+décrète ce qui suit :
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Champ d’application**
+
+<sup>1</sup> La présente loi s’applique à l’ensemble des archives publiques genevoises, qui sont formées :
+
+- a) des fonds d’archives et collections réunis aux Archives d’Etat de Genève<sup>(5)</sup> (ci-après : Archives d’Etat), de provenance publique ou privée;
+- b) des archives des institutions publiques suivantes (ci-après : institutions publiques) :
+  - 1° des institutions dépendant de l'ancienne République de Genève ou aux droits desquelles cette dernière a succédé,
+  - 2° des pouvoirs exécutif, législatif et judiciaire cantonaux, ainsi que de leurs administrations et des commissions qui en ont dépendu ou en dépendent,
+  - 3° des communes, ainsi que de leurs administrations et des commissions qui en ont dépendu ou en dépendent,
+  - 4° des établissements et corporations de droit public cantonaux et communaux, ainsi que de leurs administrations et des commissions qui en ont dépendu ou en dépendent,
+  - 5° des groupements formés d’institutions publiques visées aux chiffres 1 à 4,
+  - 6° des personnes physiques ou morales et organismes chargés de remplir des tâches de droit public cantonal ou communal, dans les limites de l’accomplissement desdites tâches.<sup>(2)</sup>
+
+<sup>2</sup> Les archives privées historiques qui méritent d’être protégées peuvent faire l’objet d’un classement conformément à la loi sur la protection des monuments, de la nature et des sites, du 4 juin 1976.
+
+<sup>3</sup> La présente loi s’applique aux archives privées déposées aux Archives d’Etat dans la mesure où une convention de dépôt n’y déroge pas.
+
+<sup>4</sup> La présente loi est appliquée de façon coordonnée avec la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001.<sup>(2)</sup>
+
+#### Art. 2
+
+**Principes**
+
+<sup>1</sup> Tous les documents des institutions publiques qui ont une valeur juridique, politique, économique, historique, sociale ou culturelle sont archivés.
+
+<sup>2</sup> L’archivage contribue à documenter l’activité des institutions publiques, à assurer la continuité et le contrôle de leur gestion, ainsi que la sécurité du droit. Il sauvegarde les intérêts légitimes de personnes touchées ou de tiers, ainsi que ceux de la science et de la recherche. Il crée ainsi les conditions nécessaires à la compréhension de l’histoire.
+
+<sup>3</sup> Les archives publiques sont des biens du domaine public. Elles ne peuvent être acquises par prescription.
+
+<sup>4</sup> Le Conseil d’Etat, soit pour lui la chancellerie d'Etat<sup>(7)</sup> qu’il désigne à cette fin, veille à la conservation des archives publiques et exerce les droits de revendication de l’Etat à l’égard des documents distraits indûment de leurs fonds d’origine. Le versement d’une indemnité au tiers possesseur de bonne foi est réservé.
+
+#### Art. 3
+
+**Définitions**
+
+### Fonds d’archives
+
+<sup>1</sup> On entend par fonds d’archives l’ensemble des documents d’archives reçus et produits par une personne physique ou une personne morale de droit public ou de droit privé, ordonnés et conservés conformément aux principes et dispositions de la présente loi.
+
+### Collections
+
+<sup>2</sup> On entend par collection la réunion de documents de toute provenance, groupés en fonction de leurs sujets ou de toute autre caractéristique commune.
+
+### Documents
+
+<sup>3</sup> On entend par document tous les supports de l’information, quelle que soit leur date, qu’ils se présentent sous forme écrite ou numérisée, visuelle ou sonore.
+
+### Dossiers
+
+<sup>4</sup> On entend par dossier un ensemble de documents assemblés pour le traitement d’une affaire.
+
+### Archives administratives
+
+<sup>5</sup> Les archives administratives sont l’ensemble des documents utiles à l’expédition courante des affaires.
+
+### Archives historiques
+
+<sup>6</sup> Les archives historiques sont l’ensemble des documents qui ne sont plus utiles pour l’expédition courante des affaires et qui sont conservés en raison de leur valeur archivistique définie par les principes et dispositions de la présente loi.
+
+#### Art. 4<sup>(2)</sup>
+
+**Conseil en matière d’archives**
+
+<sup>1</sup> La commission consultative en matière de protection des données, de transparence et d’archives publiques (ci-après : la commission consultative) instituée par la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001, conseille la chancellerie d'Etat<sup>(7)</sup> sur la constitution, la gestion, la conservation et la consultation des archives.
+
+<sup>2</sup> Les restrictions d’accès aux archives prévues par la présente loi ne sont pas opposables à cette commission.
+
+## Chapitre II Organisation de l’archivage
+
+#### Art. 5
+
+**Compétence en matière d’archivage**
+
+<sup>1</sup> Les Archives d’Etat veillent à la constitution, à la gestion et à la conservation des archives publiques dans leur ensemble et plus particulièrement à celles des archives historiques.
+
+<sup>2</sup> Les institutions publiques visées à l’article 1, alinéa 1, lettre b, chiffre 2, ont la garde de leurs archives aussi longtemps qu’elles en ont besoin pour la gestion des affaires courantes, sous réserve des mesures de conservation, de précaution et de surveillance qu’édicte le Conseil d’Etat.
+
+<sup>3</sup> Les institutions publiques visées à l’article 1, alinéa 1, lettre b, chiffres 3 et 4, conservent la propriété et la garde de leurs archives, sous réserve des mesures de conservation, de précaution et de surveillance qu’édicte le Conseil d’Etat.
+
+<sup>4</sup> Les détenteurs d’archives privées qui ont fait l’objet d’un classement conformément à l’article 1, alinéa 2, archivent et gèrent eux-mêmes ces documents conformément aux principes de la présente loi ou en proposent le versement aux Archives d’Etat. La consultation et l’accès à ces archives sont fixés par convention.
+
+#### Art. 6
+
+**Gestion des archives par les institutions publiques**
+
+<sup>1</sup> Les institutions publiques constituent et gèrent leurs archives conformément aux principes et dispositions de la présente loi, de ses règlements d’application et des directives des Archives d’Etat.
+
+<sup>2</sup> Elles ne peuvent détruire des archives administratives susceptibles d’avoir une valeur archivistique au sens de l’article 2, alinéa 1, sans l’autorisation des Archives d’Etat.
+
+<sup>3</sup> Dans les limites fixées par le Conseil d’Etat, les Archives d’Etat édictent à l’intention des institutions publiques des directives sur :
+
+- a) la constitution, la gestion, la conservation et le versement des archives;
+- b) les supports et les méthodes techniques de constitution et d’élaboration des documents.
+
+<sup>4</sup> Les Archives d’Etat veillent au respect de ces dispositions. Elles peuvent se rendre dans les institutions publiques et y contrôler l’état de conservation et le classement des archives.
+
+#### Art. 7
+
+**Obligation de proposer le versement des archives**
+
+Les institutions publiques doivent proposer le versement aux Archives d’Etat de tous les documents dont elles n’ont plus besoin en permanence, pour autant qu’elles ne soient pas chargées de les archiver elles-mêmes.
+
+#### Art. 8
+
+**Appréciation de la valeur archivistique et versement des documents**
+
+<sup>1</sup> Les Archives d’Etat apprécient la valeur archivistique des documents en collaboration avec les institutions publiques.
+
+<sup>2</sup> Les documents ainsi sélectionnés sont versés aux Archives d’Etat.
+
+#### Art. 9
+
+**Destruction des archives historiques**
+
+<sup>1</sup> Le Conseil d’Etat autorise la destruction des archives historiques dont la conservation est jugée inutile.
+
+<sup>2</sup> L’institution publique considérée, les Archives d’Etat et la commission consultative sont consultées au préalable.<sup>(2)</sup>
+
+<sup>3</sup> L’autorisation de détruire un fonds d’archives historiques est publiée dans la Feuille d’avis officielle avec la mention des délais et voies de recours.
+
+#### Art. 10
+
+**Intégrité des archives historiques**
+
+<sup>1</sup> Les archives ne peuvent être modifiées.
+
+<sup>2</sup> Seules des adjonctions explicitement désignées comme telles peuvent être portées à des dossiers d’archives.
+
+## Chapitre III Accès aux archives
+
+#### Art. 11<sup>(2)</sup>
+
+**Principe de la libre consultation**
+
+<sup>1</sup> La libre consultation des archives publiques est garantie par la loi.
+
+<sup>2</sup> La consultation est gratuite. Un émolument peut être perçu pour des prestations particulières selon le tarif fixé par le Conseil d'Etat pour les Archives d'Etat, respectivement par l'autorité communale pour les archives communales.
+
+<sup>3</sup> Un exemplaire justificatif est remis gratuitement aux Archives d'Etat pour tous travaux publiés ou diffusés qui se fondent entièrement ou partiellement sur les fonds et collections d'institutions publiques.
+
+#### Art. 12<sup>(2)</sup>
+
+**Consultation des archives historiques**
+
+<sup>1</sup> Les documents versés aux Archives d'Etat ou que des institutions sont chargées d'archiver elles-mêmes ne peuvent en principe être consultés qu'à l'expiration des délais de protection figurant aux alinéas 3 et 4.
+
+<sup>2</sup> Ils demeurent toutefois accessibles pendant 5 ans dès leur archivage lorsque le requérant aurait pu y avoir accès auparavant en vertu de la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001.
+
+<sup>3</sup> Le délai général de protection est de 25 années à compter de la clôture du dossier. Le dernier apport organique est déterminant pour définir l'année au cours de laquelle les dossiers ont été clos.
+
+<sup>4</sup> Les documents classés selon des noms de personnes et qui contiennent des données personnelles sensibles ou des profils de la personnalité ne peuvent être consultés que 10 ans après le décès de la personne concernée, à moins que celle-ci n'en ait autorisé la consultation. Si la date de la mort est inconnue ou n'est déterminable que moyennant un travail disproportionné, le délai de protection expire 100 ans après la naissance. Si ni la date du décès, ni celle de la naissance ne peuvent être déterminées, le délai de protection expire 100 ans à compter de l'ouverture du dossier.
+
+<sup>5</sup> Le Conseil d’Etat, soit pour lui la chancellerie d'Etat<sup>(7)</sup>, peut autoriser la consultation des archives avant l’expiration des délais prévus aux alinéas 3 et 4, si aucun intérêt public ou privé prépondérant digne de protection ne s’y oppose, en particulier :
+
+- a) si la consultation est faite dans l’intérêt prépondérant de la personne touchée ou de tiers, ou
+- b) si les documents sont nécessaires à l’exécution d’un projet de recherche déterminé; dans ce cas, il peut être exigé que les données personnelles soient rendues anonymes.
+
+<sup>6</sup> La compétence prévue à l’alinéa 5 appartient, pour les archives du pouvoir judiciaire, à la commission de gestion du pouvoir judiciaire, soit pour elle à son président, et, pour les archives communales, au magistrat communal responsable.<sup>(6)</sup>
+
+<sup>7</sup> A l'expiration des délais de protection figurant aux alinéas 3 et 4, l'accès aux archives en question peut encore être limité, par les autorités visées aux alinéas 5 et 6, en considération d'un intérêt public ou privé majeur et manifestement prépondérant qui s'y opposerait.
+
+<sup>8</sup> Restent réservées les restrictions d'accès résultant de conventions de dépôt conclues avec les actuels ou précédents propriétaires d'archives d'origine privée, ou dictées par l'état de conservation des documents.
+
+#### Art. 13
+
+**Consultation par les institutions publiques**
+
+<sup>1</sup> Les institutions publiques qui ont versé des documents peuvent aussi les consulter pendant le délai de protection, dans la mesure où l’exécution de leurs tâches le nécessite.
+
+<sup>2</sup> Les restrictions imposées par d’autres lois sont réservées.
+
+#### Art. 14
+
+**Accès des personnes à leurs données personnelles**
+
+Toute personne a le droit d’accéder aux données personnelles archivées qui la concernent dans la mesure où les archives sont classées par noms de personnes ou que des indications sont fournies permettant de rechercher ces données.
+
+## Chapitre IV Archives d’Etat
+
+#### Art. 15
+
+**Tâches des Archives d’Etat**
+
+En plus des compétences qui leur sont attribuées par les autres dispositions de la présente loi, les Archives d’Etat ont pour tâche de faciliter l’accès aux fonds d’archives, aussi bien pour les besoins administratifs que pour la recherche historique, de participer à la mise en valeur des fonds d’archives et d’encourager la constitution et la conservation de fonds d’archives privées.
+
+#### Art. 15A<sup>(2)</sup>
+
+**Direction**
+
+<sup>1</sup> Les Archives d’Etat sont placées sous la direction de l’archiviste d’Etat.
+
+<sup>2</sup> L’archiviste d’Etat se concerte avec le préposé cantonal à la protection des données et à la transparence lorsque l’application de la présente loi implique celle de la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001.
+
+<sup>3</sup> Il entretient des contacts réguliers avec la commission consultative.
+
+## Chapitre V Interdiction d’accès
+
+#### Art. 16
+
+**Interdiction d’accès**
+
+<sup>1</sup> En cas de violation de la présente loi, de ses règlements d’application et des décisions prises en application de cette législation, le Conseil d’Etat, soit pour lui le chancelier d'Etat<sup>(7)</sup>, peut interdire au contrevenant l’accès aux Archives d’Etat pour une durée maximale d’un an.
+
+<sup>2</sup> La compétence prévue à l’alinéa 1 appartient au magistrat communal responsable ou à l’organe directeur des institutions publiques visées à l’article 1, alinéa 1, lettre b, chiffre 4, en ce qui concerne l’accès à leurs locaux d’archives.
+
+<sup>3</sup> Cette mesure peut être assortie de la menace de la peine prévue à l’article 292 du code pénal suisse, du 21 décembre 1937.
+
+<sup>4</sup> L’interdiction d’accès ne dégage en rien la responsabilité des contrevenants pour les dommages causés à des tiers, ni ne libère des conséquences civiles, pénales et administratives des infractions commises.
+
+## Chapitre VI Décisions
+
+#### Art. 17
+
+**Contenu de la décision**
+
+<sup>1</sup> La décision qui limite ou exclut la consultation des archives ou qui autorise la destruction d’un fonds d’archives historiques, qui ne sont pas consultables en application des articles 11 à 14 de la présente loi, indique le contenu essentiel de ces archives, conformément à l’article 45 de la loi sur la procédure administrative, du 12 septembre 1985.
+
+<sup>2</sup> La décision autorisant la destruction d’un fonds d’archives historiques mentionne en outre le préavis de la commission consultative des archives.
+
+#### Art. 18
+
+**Recours**
+
+<sup>1</sup> Les décisions prises en application de la présente loi et de ses dispositions d’exécution sont sujettes à recours.
+
+<sup>2</sup> Le recours contre les décisions prises par la commission de gestion du pouvoir judiciaire, en vertu de la présente loi ou de ses dispositions d’application, est du ressort de la chambre administrative de la Cour de justice ou, si la décision porte sur les archives de la Cour de justice, de la Cour d’appel du pouvoir judiciaire.<sup>(6)</sup>
+
+<sup>3</sup> Le préposé cantonal à la protection des données et à la transparence a qualité pour recourir lorsque la décision prise suppose l’application coordonnée de la loi sur l’information du public, l’accès aux documents et la protection des données personnelles, du 5 octobre 2001.<sup>(2)</sup>
+
+#### Art. 19
+
+**Qualité pour recourir**
+
+Les associations d’importance cantonale ou actives depuis plus de trois ans qui, aux termes de leurs statuts, se vouent par pur idéal à l’étude de l’histoire ou à la sauvegarde d’archives ont qualité pour recourir contre l’autorisation de détruire un fonds d’archives historiques.
+
+#### Art. 20<sup>(6)</sup>
+
+**Mesures d’instruction**
+
+Dans le cadre de l’instruction du recours, l’autorité de recours peut consulter les archives dont la décision attaquée limite ou exclut la consultation. Elle prend toute mesure utile pour éviter que le recourant ait accès à ces archives avant droit jugé.
+
+## Chapitre VII Dispositions finales et transitoires
+
+#### Art. 21
+
+**Dispositions d’application**
+
+<sup>1</sup> Le Conseil d’Etat édicte les dispositions relatives à l’application de la présente loi.
+
+<sup>2</sup> Il arrête le tarif de l’émolument prévu à l’article 11, alinéa 2, de la présente loi.
+
+#### Art. 22
+
+**Clause abrogatoire**
+
+La loi sur les archives publiques, du 2 décembre 1925, est abrogée.
+
+#### Art. 23
+
+**Entrée en vigueur**
+
+Le Conseil d’Etat fixe la date d’entrée en vigueur de la présente loi.
+
+## Historique
+
+| RSG Intitulé | Date d'adoption | Entrée en vigueur |
+|---|---|---|
+| B 2 15 L sur les archives publiques | 01.12.2000 | 01.09.2001 |
+| Modifications : |  |  |
+| 1. *n.* : 12/1 phr. 3 | 05.10.2001 | 01.03.2002 |
+| 2. *n.* : 1/4, 15A, 18/3; *n.t.* : 1/1b, 4, 9/2, 11, 12; *a.* : 14/2, 14/3, 14/4 | 09.10.2008 | 01.01.2010 |
+| 3. *n.t.* : 12/6, 18/2 | 26.09.2010 | 01.01.2011 |
+| 4. *n.t.* : rectification selon 7C/1, B 2 05 (20) | 01.01.2011 | 01.01.2011 |
+| 5. *n.t.* : rectification selon 7C/1, B 2 05 (1/1a) | 04.03.2013 | 04.03.2013 |
+| 6. *n.t.* : 12/6, 18/2, 20 | 03.11.2017 | 01.02.2018 |
+| 7. *n.t.* : rectification selon 7C/1, B 2 05 (2/4, 4/1, 12/5, 16/1) | 04.09.2018 | 04.09.2018 |
