@@ -1,0 +1,991 @@
+---
+canton: BS
+number: "510.100"
+title: Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt
+short: "Polizeigesetz, PolG"
+language: de
+version: 2021-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-09-18
+adopted: 1996-11-13
+in_force: 1997-07-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/510.100"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5122/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz betreffend die Kantonspolizei des Kantons Basel-Stadt
+
+Polizeigesetz | Polizei
+
+(Polizeigesetz, PolG[^ingress-1])
+
+Vom 13. November 1996 (Stand 1. Januar 2021)
+
+Der Grosse Rat des Kantons Basel-Stadt,
+
+auf Antrag seiner Kommission,
+
+beschliesst:
+
+[^ingress-1]: Titel: Abkürzung redaktionell ergänzt.
+
+## I. Aufgaben und Zuständigkeiten
+
+#### § 1
+
+**Allgemeiner Auftrag**
+
+<sup>1</sup> Die Kantonspolizei sorgt für die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie für die Einhaltung der Gesetze.
+
+<sup>2</sup> Sie steht im Dienste der Bevölkerung und der Behörden und berücksichtigt dabei stets das öffentliche Interesse.
+
+#### § 2
+
+**Aufgaben der Polizei**
+
+<sup>1</sup> Die Kantonspolizei erfüllt folgende Aufgaben:
+
+- 1\. Sie trifft Massnahmen, um unmittelbar drohende Gefährdungen oder eingetretene Störungen der öffentlichen Sicherheit und Ordnung sowie der Umwelt zu verhüten oder abzuwehren.
+- 2\. Sie hilft Menschen, die unmittelbar an Leib und Leben bedroht oder anderweitig in Not sind.
+- 3\. Sie trifft Massnahmen zur Erhöhung der Sicherheit im Strassenverkehr sowie bei grösseren öffentlichen Veranstaltungen.
+- 4\. Sie trifft Massnahmen zur Verhütung und zur Verfolgung von Straftaten sowie vorsorgliche Massnahmen für eine zweckmässige Strafverfolgung.
+- 5\. Sie leistet den Verwaltungs- und Justizbehörden Amts- und Vollzugshilfe, soweit die polizeiliche Mithilfe in Gesetzen und Verordnungen vorgesehen oder zu deren Erfüllung erforderlich ist.
+- 6\. Sie erfüllt weitere ihr durch Gesetz übertragene Aufgaben.
+
+<sup>2</sup> Der Schutz privater Rechte obliegt der Kantonspolizei nur dann, wenn deren Bestand glaubhaft gemacht wird, wenn gerichtlicher Schutz nicht rechtzeitig zu erlangen ist und wenn ohne polizeiliche Hilfe die Verwirklichung des Rechts vereitelt oder wesentlich erschwert werden könnte.
+
+#### § 3
+
+**Katastrophenbewältigung**
+
+<sup>1</sup> Die Kantonspolizei trifft für den Fall von Katastrophen und grossen Unglücksfällen die notwendigen Vorbereitungen und koordiniert diese mit anderen Amtsstellen. Sie trifft im Einsatzfall die Sofortmassnahmen und koordiniert den Einsatz der Mittel.
+
+<sup>2</sup> Das Nähere wird durch den Regierungsrat in einer Verordnung festgelegt.
+
+#### § 4
+
+**Verhältnis zu anderen Behörden**
+
+<sup>1</sup> Ohne gesetzlichen Auftrag wird die Kantonspolizei nur im Rahmen der Gefahrenabwehr tätig, sofern nicht eine andere Behörde zuständig ist oder sofern die zuständige Behörde nicht rechtzeitig handeln kann.
+
+#### § 5
+
+**Einheit der Polizeigewalt**
+
+<sup>1</sup> Nur die Angehörigen des Polizeikorps sind befugt, polizeiliche Handlungen vorzunehmen und Zwang anzuwenden. Vorbehalten bleiben die ausdrücklich anderen Behörden zugewiesenen Befugnisse sowie die gemäss § 68 an Dritte übertragenen Befugnisse.
+
+#### § 6
+
+**Verhältnis zu den Landgemeinden**
+
+<sup>1</sup> Die Kantonspolizei übt die Gesamtheit ihrer Aufgaben auf dem ganzen Kantonsgebiet aus. Vorbehalten bleiben besondere Regelungen über den Erlass von Verkehrsanordnungen in den Landgemeinden.
+
+<sup>2</sup> Die Landgemeinden stellen der Kantonspolizei die geeigneten Räumlichkeiten unentgeltlich zur Verfügung und sorgen für deren Unterhalt.
+
+## II. Grundsätze polizeilichen Handelns
+
+#### § 7
+
+**Rechtmässigkeit**
+
+<sup>1</sup> Die Kantonspolizei erfüllt ihre Aufgaben unter Beachtung der Gesetzmässigkeit und der Verhältnismässigkeit.
+
+<sup>2</sup> Stehen zur Erreichung eines polizeilichen Zwecks mehrere geeignete Massnahmen zur Verfügung, muss diejenige gewählt werden, welche die Einzelnen und die Allgemeinheit voraussichtlich am wenigsten belastet.
+
+#### § 8
+
+**Notrecht**
+
+<sup>1</sup> Um bei hoher zeitlicher und sachlicher Dringlichkeit schwerwiegende Gefährdungen der öffentlichen Sicherheit und Ordnung abzuwenden, kann der Regierungsrat gestützt auf die polizeiliche Generalklausel das Notwendige anordnen.
+
+<sup>2</sup> Macht der Regierungsrat von dieser Befugnis Gebrauch, gelten die Bestimmungen von § 2 des Übertretungsstrafgesetzes.
+
+#### § 9
+
+**Polizeiliche Generalklausel**
+
+<sup>1</sup> Die Kantonspolizei trifft im Einzelfall auch ohne besondere gesetzliche Grundlage unaufschiebbare Massnahmen, um unmittelbar drohende Gefährdungen oder eingetretene Störungen der öffentlichen Sicherheit und Ordnung zu verhüten oder abzuwehren.
+
+#### § 10
+
+**Störerprinzip**
+
+<sup>1</sup> Polizeiliches Handeln richtet sich gegen diejenige Person, die unmittelbar die öffentliche Sicherheit und Ordnung stört, gefährdet oder die für das Verhalten einer dritten Person verantwortlich ist, welches zu einer Störung oder Gefährdung führt.
+
+<sup>2</sup> Geht eine Störung oder Gefährdung der öffentlichen Sicherheit und Ordnung unmittelbar von einem Tier oder einer Sache aus, richtet sich das polizeiliche Handeln gegen diejenige Person, die als Eigentümerin oder Eigentümer oder aus einem anderen Grund die tatsächliche Verfügungsgewalt über das Tier oder die Sache ausübt.
+
+<sup>3</sup> Vorbehalten bleiben anderslautende gesetzliche Bestimmungen.
+
+#### § 11
+
+**Polizeilicher Notstand**
+
+<sup>1</sup> Das polizeiliche Handeln kann sich gegen andere Personen richten, wenn
+
+- 1\. eine schwere Störung oder eine gegenwärtige erhebliche Gefahr abzuwehren ist;
+- 2\. Massnahmen gegen die pflichtigen Personen gemäss § 10 nicht rechtzeitig möglich oder erfolgversprechend sind;
+- 3\. die Personen ohne erhebliche eigene Gefährdung und ohne Verletzung höherwertiger Pflichten in Anspruch genommen werden können.
+
+<sup>2</sup> Solche Massnahmen dürfen nur solange aufrecht erhalten werden, als diese Voraussetzungen gegeben sind.
+
+#### § 12
+
+**Information der Bevölkerung**
+
+<sup>1</sup> Die Kantonspolizei informiert im öffentlichen Interesse und im Rahmen ihrer Zuständigkeit die Bevölkerung, wenn nicht überwiegende, schützenswerte private Interessen entgegenstehen.
+
+<sup>2</sup> Die Information über Strafverfahren richtet sich nach der Strafprozessordnung[^12-1] und der Bundesgesetzgebung.
+
+[^12-1]: § 12 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+
+## III. Zusammenarbeit
+
+#### § 13
+
+**Zusammenarbeit aufgrund des allgemeinen Auftrages**
+
+<sup>1</sup> Die Kantonspolizei arbeitet mit der Staatsanwaltschaft, mit der Polizei anderer Kantone, den Polizei- und Sicherheitsdiensten des Bundes sowie im Rahmen des Bundesrechtes mit Stellen des Auslandes zusammen.
+
+#### § 14
+
+**Amts- und Rechtshilfe**
+
+<sup>1</sup> Die internationale und interkantonale Rechts- und Amtshilfe richten sich nach der Bundesgesetzgebung sowie den Prozessordnungen.
+
+#### § 15
+
+**Vereinbarungen**
+
+<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt der Rechte des Grossen Rates und der Gesamtheit der Stimmberechtigten – mit anderen Kantonen und mit dem Bund Konkordate – sowie im Rahmen von Art. 9 der Bundesverfassung – mit dem Ausland Vereinbarungen über die polizeiliche Zusammenarbeit abschliessen.
+
+#### § 16
+
+**Grenzüberschreitender Polizeieinsatz**
+
+<sup>1</sup> Der Regierungsrat kann – unter Vorbehalt von Art. 16 der Bundesverfassung – andere Kantone um den Einsatz von Polizeikräften im Kanton Basel-Stadt ersuchen oder auf Gesuch hin den Einsatz von Teilen der Kantonspolizei in anderen Kantonen bewilligen.
+
+<sup>2</sup> Bei hoher zeitlicher und sachlicher Dringlichkeit wie etwa bei schweren Unglücksfällen ist für den Einsatz von Teilen der Kantonspolizei in anderen Kantonen sowie im angrenzenden Ausland die Kantonspolizei zuständig. Einsätze im Ausland dürfen nur mit Bewilligung der zuständigen Stellen des Einsatzortes erfolgen.
+
+<sup>3</sup> Kriminalpolizeiliche Einsätze und Ermittlungen in anderen Kantonen und im Ausland dürfen nur mit Einwilligung der zuständigen Stellen des Einsatzortes erfolgen.
+
+<sup>4</sup> Für das polizeiliche Handeln gilt das Recht des Einsatzortes. Vorbehalten bleiben die Bestimmungen des Konkordates über die Rechtshilfe und die interkantonale Zusammenarbeit in Strafsachen.
+
+<sup>5</sup> Haften aufgrund der am Einsatzort geltenden Bestimmungen Angehörige der Kantonspolizei für die von ihnen verursachten Schäden, so tritt der Kanton Basel-Stadt an ihre Stelle. Ein allfälliger Rückgriff richtet sich nach den Bestimmungen des Beamtengesetzes. Für die Angehörigen der Kantonspolizei gelten in jedem Fall die Bestimmungen des Dienst- und Sozialversicherungsrechts des Kantons Basel-Stadt.
+
+<sup>6</sup> Der ausserkantonale Einsatz baselstädtischer Polizeikräfte darf in der Regel erst angeordnet werden, wenn der ersuchende Kanton den Ersatz der Kosten zusichert. Der Kanton Basel-Stadt ersetzt den Kantonen, die auf sein Ersuchen hin Polizeikräfte zur Verfügung stellen, die Kosten.
+
+<sup>7</sup> Vorbehalten bleiben die Bestimmungen über die Nacheile und über die Rechtshilfe gemäss Bundesrecht.
+
+<sup>8</sup> Im Rahmen ihres gesetzlichen Auftrages und der internationalen Kriminalitätskontrolle kann die Kantonspolizei ausländische Beamtinnen und Beamte befristet und mit begrenzten Befugnissen beiziehen.
+
+#### § 17
+
+**Vollzugshilfe**
+
+<sup>1</sup> Die Kantonspolizei leistet anderen Behörden auf Ersuchen Vollzugshilfe, wenn unmittelbarer Zwang notwendig erscheint, die Rechtsgrundlagen genügen und die anderen Behörden ihre Massnahmen nicht auf andere Weise durchsetzen können.
+
+<sup>2</sup> Gesuche um Vollzugshilfe sind schriftlich zu stellen. Sie haben den Grund und die Rechtsgrundlage der Massnahme anzugeben.
+
+<sup>3</sup> In dringenden Fällen kann das Gesuch mündlich gestellt werden. Es ist jedoch unverzüglich schriftlich zu bestätigen.
+
+<sup>4</sup> Die Überprüfung gemäss Abs. 1 entfällt beim Vollzug von Urteilen schweizerischer Gerichte. Die Kantonspolizei hat hinsichtlich der zeitlichen Festsetzung des Urteilsvollzuges übergeordnete öffentliche Interessen zu berücksichtigen.
+
+## IV. Organisation und Dienstrecht
+
+#### § 18
+
+**Organisation**
+
+<sup>1</sup> Die Kantonspolizei steht unter der Aufsicht des Regierungsrates und ist der Vorsteherin bzw. dem Vorsteher des zuständigen Departementes unterstellt. Sie wird von einer Polizeikommandantin oder einem Polizeikommandanten geführt.
+
+#### § 19
+
+**Beamtenrechtliche Bestimmungen**
+
+<sup>1</sup> Für Angehörige des Polizeikorps gelten die beamtenrechtlichen Bestimmungen der kantonalen Gesetzgebung, soweit dieses Gesetz keine abweichenden Bestimmungen enthält.
+
+#### § 20
+
+**Beamten- und Angestelltenkategorien**
+
+<sup>1</sup> Die Kantonspolizei besteht aus:
+
+- 1\. Polizeibeamtinnen und Polizeibeamten (Angehörige des Polizeikorps)
+- 2\. Sicherheitsassistentinnen und Sicherheitsassistenten (Angehörige des Polizeikorps)
+- 3\. Zivilpersonal
+
+<sup>2</sup> Den Polizeibeamtinnen und Polizeibeamten stehen bei der Erfüllung ihrer Aufgaben die gemäss der Gesetzgebung der Kantonspolizei zugewiesenen Befugnisse zu. Sie unterliegen einer besonderen Treuepflicht gegenüber dem Staat und legen ein Gelübde ab.
+
+<sup>3</sup> Die Sicherheitsassistentinnen und Sicherheitsassistenten üben polizeiliche Handlungen in einem Teilbereich aus. Sie legen ein Gelübde ab.
+
+<sup>4</sup> Zivilpersonal kann überall dort eingesetzt werden, wo keine polizeiliche Ausbildung notwendig ist bzw. keine polizeilichen Vollzugsmassnahmen anzuordnen oder auszuführen sind.
+
+#### § 21
+
+**Aufnahmebedingungen**
+
+<sup>1</sup> In das Polizeikorps kann aufgenommen werden, wer die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen erfüllt, die nötige Beziehungsnähe zu unserem Gemeinwesen aufweist und eine polizeiliche Grundschulung mit Erfolg abgeschlossen hat.
+
+<sup>2</sup> Die Vorsteherin oder der Vorsteher des zuständigen Departementes entscheidet endgültig über die Aufnahme von Bewerberinnen und Bewerbern in die Polizeischule.
+
+<sup>3</sup> Personen mit besonderen Fachkenntnissen können auch ohne Absolvierung der Polizeischule in das Polizeikorps aufgenommen werden.
+
+#### § 22
+
+**Gelübde**
+
+<sup>1</sup> ﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿Die Angehörigen des Polizeikorps legen gegenüber der Vorsteherin oder dem Vorsteher des zuständigen Departementes das folgende Gelübde ab:
+
+«Ich gelobe,
+
+– die Grundfreiheiten und die Rechte der Menschen zu achten und zu schützen,
+
+– die Verfassung und die Gesetze ihrem Sinn und Zwecke nach korrekt und gerecht anzuwenden,
+
+– die Anordnungen des Regierungsrates und meiner Vorgesetzten zu befolgen,
+
+– meine Pflichten ohne Ansehen der Person, vorurteilslos und unbestechlich, nach bestem Wissen und Gewissen zu erfüllen,
+
+– mich streng an die Wahrheit zu halten und Verschwiegenheit über alles zu bewahren, was das Amtsgeheimnis und die Persönlichkeitsrechte geheim zu halten gebieten,
+
+– meine Kraft und Initiative zur Erfüllung meiner Aufgaben im Dienste und zum Schutz der Allgemeinheit einzusetzen und
+
+– mit meinem Verhalten stets zum guten Ansehen der Kantonspolizei beizutragen.»
+
+#### § 23
+
+**Wohnsitzpflicht**
+
+<sup>1</sup> Die Angehörigen der Kantonspolizei können zur Wohnsitznahme im Kanton oder in dessen Umgebung verpflichtet werden, wenn sie Polizei-, Ordnungs-, Bereitschafts-, Pikett- oder Katastrophendienst zu leisten haben, der eine dauernde Anwesenheit im Kanton oder in dessen unmittelbarer Nähe erfordert.
+
+#### § 24
+
+**Pflichten ausser Dienst**
+
+<sup>1</sup> Angehörige des Polizeikorps haben wenn nötig einzugreifen, auch wenn sie nicht im Dienst sind.
+
+<sup>2</sup> Sie können auch ausserhalb ihrer Arbeitszeit für besondere Einsätze oder Pikettdienste herangezogen werden.
+
+#### § 25
+
+**Verschwiegenheit**
+
+<sup>1</sup> Die interne und externe Weitergabe von dienstlichen Wahrnehmungen ist nur soweit zulässig, als dies für die Erfüllung einer staatlichen Aufgabe aufgrund gesetzlicher Vorschriften erforderlich ist.
+
+#### § 26
+
+**Aus- und Weiterbildung**
+
+<sup>1</sup> Die Kantonspolizei ist für die Ausbildung der Angehörigen des Polizeikorps und für die Weiterbildung aller Mitarbeiterinnen und Mitarbeiter verantwortlich, soweit sie nicht in die Zuständigkeit der Staatsanwaltschaft fällt.
+
+<sup>2</sup> Beförderungen zu und von Polizeiunteroffizierinnen und -unteroffizieren erfolgen nach Bestehen der entsprechenden Ausbildungskurse.
+
+<sup>3</sup> Die Offiziersausbildung und die fachliche Weiterbildung von Kaderangehörigen sowie Spezialistinnen und Spezialisten erfolgen in enger Zusammenarbeit mit dem Schweizerischen Polizei-Institut sowie weiteren Ausbildungsstätten des In- und Auslandes.
+
+#### § 27
+
+**Entlassung und Austritt aus der Grundausbildung**
+
+<sup>1</sup> In der Grundausbildung Stehende können bei Pflichtverletzungen oder ungenügenden Leistungen durch die Wahlbehörde auf eine Frist von einem Monat entlassen werden. Bei groben Pflichtverletzungen ist eine sofortige Entlassung möglich.
+
+<sup>2</sup> Der oder die Auszubildende kann während der Probezeit jederzeit austreten.
+
+#### § 28
+
+**Erstattung der Ausbildungskosten**
+
+<sup>1</sup> Bei Übertritt in andere Polizei- oder Sicherheitsdienste innerhalb von drei Jahren nach Abschluss der Grundausbildung ist ein Anteil der Ausbildungskosten zurückzuerstatten. Der Regierungsrat bestimmt den Höchstbetrag auf dem Verordnungsweg. Die Höhe der Rückerstattung richtet sich nach der geleisteten Dienstzeit und reduziert sich jährlich um ein Drittel.
+
+#### § 29
+
+**Uniform und Bewaffnung**
+
+<sup>1</sup> Die Beamtinnen und Beamten der Sicherheits-, Grenz- und Verkehrspolizei leisten ihren Dienst uniformiert, diejenigen aus Kriminaldiensten in Zivil. Die Kantonspolizei bestimmt die Ausnahmen.
+
+<sup>2</sup> Die Polizeibeamtinnen und Polizeibeamten versehen ihren Dienst bewaffnet.
+
+<sup>3</sup> Die Sicherheitsassistentinnen und Sicherheitsassistenten leisten den Dienst uniformiert und unbewaffnet. Sicherheitsassistentinnen und Sicherheitsassistenten mit besonderen Aufgaben, namentlich für Bewachung und Transport, leisten den Dienst bewaffnet.
+
+#### § 30
+
+**Rechtsschutz**
+
+<sup>1</sup> Die Kantonspolizei kann Angehörigen des Polizeikorps,
+
+- 1\. gegen die infolge Ausübung ihres Dienstes ein Strafverfahren angestrengt wird,
+- 2\. die Schadenersatz und Genugtuungsansprüche für Schäden, die sie in Ausübung des Dienstes erlitten haben, geltend machen,
+
+<sup>2</sup> Werden Angehörige des Polizeikorps schuldig erkannt, so werden ihnen die Kosten dieses Rechtsschutzes auferlegt, sofern sie ihre Dienstpflichten vorsätzlich oder grobfahrlässig verletzt haben.
+
+## V. Polizeiliche Massnahmen und polizeilicher Zwang
+
+#### § 31
+
+**Grundsätze**
+
+<sup>1</sup> Für die Aufgabenerfüllung der Kantonspolizei gelten die nachstehenden Bestimmungen über die polizeilichen Massnahmen und den polizeilichen Zwang.
+
+<sup>2</sup> Die Voraussetzung für die Anwendung polizeilichen Zwangs im Rahmen der Strafverfolgung werden unter Vorbehalt strafprozessualer Bestimmungen des Bundesrechts in der Strafprozessordnung[^31-1] geregelt.
+
+[^31-1]: § 31 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+
+#### § 32
+
+**Beachtung der Intimsphäre**
+
+<sup>1</sup> Bei polizeilichen Befragungen und Einvernahmen, die den Intimbereich betreffen, haben betroffene Personen Anspruch, von Angehörigen des gleichen Geschlechts befragt oder angehört zu werden.
+
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen der Opferhilfegesetzgebung.
+
+#### § 33
+
+**Legitimation**
+
+<sup>1</sup> Wird die Uniform getragen, so gilt diese grundsätzlich als Legitimation. Uniformierte tragen ein Namensschild; der Regierungsrat bestimmt auf dem Verordnungsweg, wann anstelle des Namensschildes eine andere individualisierende Kennzeichnung oder in besonderen Fällen keine solche Kennzeichnung getragen wird. Korpsangehörige in Zivil haben sich, sofern es die Umstände zulassen, vor Amtshandlungen unaufgefordert auszuweisen.
+
+#### § 33a
+
+**Verdeckte Fahndung**
+
+<sup>1</sup> Verdeckte Fahndung nach diesem Gesetz hat zum Zweck, mit Angehörigen der Polizei, deren wahre Identität und Funktion nicht erkennbar ist, im Rahmen kurzer Einsätze ohne Verwendung einer Legende die Vorbereitung von Verbrechen und Vergehen zu erkennen oder Straftaten zu verhindern.
+
+<sup>2</sup> Die Kantonspolizei kann eine verdeckte Fahndung anordnen, wenn
+
+- a) hinreichende Anzeichen bestehen, dass es zu strafbaren Handlungen kommen könnte; und
+- b) andere Massnahmen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>3</sup> Die Anordnung erfolgt durch die zuständige Gruppenchefin oder den zuständigen Gruppenchef und bedarf innert 48 Stunden der Genehmigung durch eine Polizeioffizierin oder einen Polizeioffizier.
+
+<sup>4</sup> Es werden ausschliesslich vereidigte Angehörige der Kantonspolizei sowie Mitarbeitende der Ermittlungsbehörden zur verdeckten Fahndung eingesetzt. Für die Aufgaben der verdeckten Fahnderinnen und Fahnder gelten die Art. 293 und 294 StPO sinngemäss.
+
+<sup>5</sup> Die Beendigung des Einsatzes erfolgt analog den Bestimmungen von Art. 297 Abs. 1 und 3 und Art. 298 StPO. Wurde der Einsatz nach Abs. 7 durch das Zwangsmassnahmengericht genehmigt, ist diesem die Beendigung zu melden.
+
+<sup>6</sup> Sobald sich im Rahmen einer verdeckten Fahndung ein konkreter Tatverdacht gegen eine bestimmte Person ergibt, ist ein polizeiliches Ermittlungsverfahren nach Art. 306 StPO einzuleiten und, falls die Voraussetzungen nach Art. 307 Abs. 1 StPO erfüllt sind, die Staatsanwaltschaft zu informieren.
+
+<sup>7</sup> Eine verdeckte Fahndung darf 30 Tage nach Beginn ihrer Ausführung nur mit Genehmigung des Zwangsmassnahmengerichts fortgesetzt werden.
+
+<sup>8</sup> Art. 141 StPO ist sinngemäss anwendbar.
+
+#### § 33b
+
+**Verdeckte Ermittlung**
+
+<sup>1</sup> Zur Verhinderung von Verbrechen oder Vergehen kann die Kantonspolizei eine verdeckte Ermittlung anordnen, wenn
+
+- a) eine in Art. 286 Abs. 2 StPO genannte Straftat vor der Ausführung steht;
+- b) die Schwere dieser Straftat die verdeckte Ermittlung rechtfertigt und
+- c) andere Massnahmen zur Informationsbeschaffung aussichtslos wären oder unverhältnismässig erschwert würden.
+
+<sup>2</sup> Die Anordnung erfolgt durch die Polizeikommandantin oder den Polizeikommandanten. Sie oder er kann verdeckte Ermittlerinnen und Ermittler mit einer Legende ausstatten, die ihre wahre Identität verschleiert.
+
+<sup>3</sup> Der Einsatz einer verdeckten Ermittlerin oder eines verdeckten Ermittlers bedarf der Genehmigung durch das Zwangsmassnahmengericht. Die Kantonspolizei stellt den Antrag innert 24 Stunden seit der Anordnung der verdeckten Ermittlung.
+
+<sup>4</sup> Die Art. 141, 151 und 286 bis 298 StPO sind sinngemäss anwendbar.
+
+#### § 34
+
+**Personen- und Fahrzeugkontrolle**
+
+<sup>1</sup> Im Zuge einer Fahndung, zur Abwehr einer Gefahr, zur Durchsetzung der Rechtsordnung oder unter den Voraussetzungen von § 2 Abs. 2 zum Schutz privater Rechte kann die Kantonspolizei die Identität einer Person feststellen und abklären, ob nach ihr oder nach Fahrzeugen oder anderen Sachen, die sich in ihrem Gewahrsam befinden, gefahndet wird oder sie die Rechtsordnung verletzt hat.
+
+<sup>2</sup> Die zu überprüfende Person ist verpflichtet, auf Verlangen ihre Personalien anzugeben, mitgeführte Ausweise vorzulegen, Sachen in ihrem Gewahrsam vorzuzeigen und zu diesem Zweck Fahrzeuge und Behältnisse zu öffnen.
+
+#### § 35
+
+**Anhaltung**
+
+<sup>1</sup> Die gemäss § 34 überprüften Personen können in eine Dienststelle verbracht werden, wenn ihre Identität an Ort und Stelle nicht sicher, nur mit erheblichen Schwierigkeiten oder unter Preisgabe der Diskretion festgestellt werden kann oder wenn Zweifel an der Richtigkeit ihrer Angaben, an der Echtheit der Ausweispapiere oder am rechtmässigen Besitz von Fahrzeugen oder anderen Sachen bestehen.
+
+#### § 36
+
+**Festnahme, vorläufige Festnahme**
+
+<sup>1</sup> Für die Festnahme zum Vollzug von Vorführungs- und Haftbefehlen, die vorläufige Festnahme sowie die Sicherheitshaft gelten die Bestimmungen der Strafprozessordnung[^36-1] sowie des Übertretungsstrafgesetzes.
+
+[^36-1]: § 36: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+
+#### § 37
+
+**Polizeigewahrsam**
+
+<sup>1</sup> Die Kantonspolizei kann vorübergehend in Gewahrsam nehmen:
+
+- 1\. Personen, die andere ernsthaft gefährden;
+- 2\. Personen, die durch ihr Verhalten die öffentliche Sicherheit, Ruhe und Ordnung stören;
+- 3\. Personen, die aus einer Anstalt entwichen sind, in der sie sich aus strafrechtlichen oder fürsorgerischen Gründen aufzuhalten haben;
+- 4\. zur Sicherstellung des Vollzuges einer durch die zuständige Instanz angeordneten Ausweisung, Landesverweisung oder Auslieferung.
+
+<sup>2</sup> Der in Gewahrsam genommenen Person ist der Grund des Gewahrsams anzugeben. Nach Wegfall dieses Grundes, in den Fällen von Ziffern 1 und 2 spätestens nach 24 Stunden, ist die Person zu entlassen oder der erforderlichen Obhut zuzuführen.
+
+#### § 37a
+
+**Häusliche Gewalt**
+
+<sup>1</sup> Häusliche Gewalt liegt vor, wenn eine Person im Rahmen einer bestehenden oder aufgelösten familiären oder partnerschaftlichen Beziehung in ihrer körperlichen, sexuellen oder psychischen Integrität verletzt oder gefährdet wird,
+
+- a) durch Ausübung oder Androhung von Gewalt oder
+- b) durch mehrmaliges Belästigen, Auflauern oder Nachstellen,
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+#### § 37b
+
+**Anordnung von Schutzmassnahmen**
+
+<sup>1</sup> Liegt ein Fall von Häuslicher Gewalt gemäss § 37a dieses Gesetzes vor, stellt die Polizei den Sachverhalt fest und ordnet umgehend die zum Schutz der gefährdeten Person notwendigen Massnahmen an.
+
+<sup>2</sup> Die Polizei kann gegenüber volljährigen gefährdenden Personen folgende Massnahmen anordnen:
+
+- a) Sie weist diese aus der Wohnung oder aus dem Haus weg (Wegweisung);
+- b) Sie untersagt diesen, ein von der Polizei bezeichnetes eng umgrenztes Gebiet zu betreten (Rayonverbot);
+- c) Sie verbietet diesen, mit der gefährdeten Person und deren nahestehenden Personen in irgendeiner Form Kontakt aufzunehmen (Kontaktverbot).
+
+<sup>3</sup> Die Polizei kann gegenüber minderjährigen gefährdenden Personen ein Rayon- und/oder ein Kontaktverbot anordnen, wenn es sich um Gewalt in einer Paarbeziehung handelt.
+
+<sup>4</sup> Die Schutzmassnahmen gelten während 14 Tagen ab Mitteilung an die gefährdende Person.
+
+<sup>5</sup> Die Anordnung von Schutzmassnahmen erfolgt unter Strafandrohung gemäss Art. 292 des Schweizerischen Strafgesetzbuches.
+
+<sup>6</sup> Die Schutzmassnahmen werden durch die Anordnung von anderweitigen polizeilichen oder von strafprozessualen Zwangsmassnahmen nicht aufgehoben.
+
+#### § 37c
+
+**Mitteilung bei Schutzmassnahmen**
+
+<sup>1</sup> Die Polizei teilt die angeordneten Schutzmassnahmen schriftlich mit. In der Regel händigt sie die Verfügung der gefährdenden und der gefährdeten Person zusammen mit einer Information über das weitere Verfahren persönlich aus.
+
+<sup>2</sup> Ist die persönliche Aushändigung an die gefährdende Person trotz sachdienlicher Nachforschungen nicht möglich, wird sie durch geeignete Bekanntmachung am Ort, wo sie wohnt oder sich gewöhnlich aufhält, aufgefordert, sich sofort bei der Polizei zu melden.
+
+<sup>3</sup> Eine im Sinne von § 37b Abs. 2 lit. a weggewiesene Person hat eine Zustelladresse zu bezeichnen. Unterlässt sie dies, können behördliche Zustellungen während der Dauer der Wegweisung durch Hinterlegung bei der Polizei erfolgen und gelten als zugestellt.
+
+#### § 37d
+
+**Informations- und Meldepflichten**
+
+<sup>1</sup> Die Polizei informiert die Parteien über die Tragweite der angeordneten Massnahmen, die Folgen der Missachtung der amtlichen Verfügung, die Beratungsangebote sowie über die Möglichkeiten an das Einzelgericht des Zivilgerichts zu gelangen.
+
+<sup>2</sup> Wurde eine Schutzmassnahme angeordnet, übermittelt die Polizei für die Gefährderansprache und für die Opferansprache den Polizeirapport umgehend von Amtes wegen an die zuständigen Beratungsstellen.
+
+<sup>3</sup> Wurde keine Schutzmassnahme angeordnet, übermittelt die Polizei für die Gefährderansprache von Amtes wegen und für die Opferansprache nach Einwilligung des Opfers den Polizeirapport bei Vorliegen mindestens einer der folgenden Voraussetzungen umgehend an die zuständigen Beratungsstellen:
+
+- a) Es liegt ein Wiederholungsfall von Häuslicher Gewalt vor;
+- b) Es liegt ein Offizialdelikt gemäss Schweizerischem Strafgesetzbuch vor;
+- c) Es liegt ein Antragsdelikt mit Strafantrag vor.
+
+<sup>4</sup> Die übermittelten Informationen dürfen nur von den zuständigen Beratungsstellen, im Umfang ihrer gesetzlichen Aufgaben, bearbeitet werden. Es gelten die Vorgaben des Informations- und Datenschutzgesetzes. Der Regierungsrat kann weitere Vorschriften erlassen.
+
+<sup>5</sup> Wünscht eine Person keine Beratung, werden die von der Polizei übermittelten Daten vernichtet, sobald die Beratungsstelle sie zu ihrer Aufgabenerfüllung nicht mehr benötigt.
+
+<sup>6</sup> Erscheinen andere Massnahmen, insbesondere des Kindes- und Erwachsenenschutzes, angezeigt, so macht die Polizei Meldung an die zuständigen Behörden.
+
+<sup>7</sup> Die polizeilichen Akten werden der zuständigen Kindes- und Erwachsenenschutzbehörde und den Organen der Zivilrechtspflege auf Anfrage zugestellt.
+
+#### § 37e
+
+**Verlängerung der Schutzmassnahmen**
+
+<sup>1</sup> Hat die gefährdete Person innert zehn Tagen seit Anordnung der polizeilichen Schutzmassnahmen beim Zivilgericht um Anordnung von zivilrechtlichen Schutzmassnahmen ersucht, verlängern sich die polizeilichen Schutzmassnahmen bis zum Entscheid des Gerichts, längstens aber um 14 Tage, falls vom Gericht nicht etwas anderes bestimmt wird.
+
+<sup>2</sup> Das Gericht informiert die Polizei über den Eingang des Gesuchs und teilt den Betroffenen die Verlängerung mit.
+
+<sup>3</sup> Die Polizeilichen Schutzmassnahmen fallen bei Anordnung von zivilrechtlichen Schutzmassnahmen dahin.
+
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+#### § 37f
+
+**Rechtspflege**
+
+<sup>1</sup> Die gefährdende Person kann innert fünf Tagen seit Anordnung der Schutzmassnahme beim Einzelgericht des Zivilgerichts schriftlich und begründet Beschwerde erheben.
+
+<sup>2</sup> Die Beschwerde hat keine aufschiebende Wirkung.
+
+<sup>3</sup> Die Überprüfung der Schutzmassnahmenverfügung erfolgt im summarischen Verfahren. Die Anhörung der Parteien kann schriftlich oder mündlich erfolgen. Das Verfahren ist kostenpflichtig.
+
+<sup>4</sup> Das Einzelgericht des Zivilgerichts entscheidet innert drei Arbeitstagen seit Eingang der Beschwerde. Der Entscheid unterliegt dem Rekurs an das Verwaltungsgericht.
+
+<sup>5</sup> Bei Aufhebung der Schutzmassnahmenverfügung fällt eine bereits gewährte Verlängerung der Schutzmassnahme im Sinne von § 37e dahin und später eingereichte Anträge auf Schutzmassnahmen können keine Verlängerung der Verfügung mehr bewirken.
+
+#### § 37g
+
+**Berichterstattung**
+
+<sup>1</sup> Die Polizei liefert der vom Regierungsrat ernannten kantonalen Stelle sämtliche Daten zur Veröffentlichung, welche für die Fortentwicklung und Wirksamkeit der im Rahmen der Häuslichen Gewalt getroffenen Massnahmen notwendig sind. Der Regierungsrat regelt die Einzelheiten.
+
+#### § 38
+
+**Zuführung**
+
+<sup>1</sup> Die Kantonspolizei ist berechtigt, Personen gestützt auf Art. 426 ff. des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 einer für die fürsorgerische Unterbringung zuständigen Stelle zuzuführen.
+
+<sup>2</sup> Die Kantonspolizei ist berechtigt, Unmündige oder Entmündigte, die sich der elterlichen oder der behördlichen Aufsicht entziehen oder von einem ihnen zugewiesenen Pflegeplatz entweichen, der Inhaberin oder dem Inhaber der elterlichen Sorge[^38-1] oder der zuständigen Behörde zuzuführen.
+
+[^38-1]: § 38 Abs. 2: Begriff «elterliche Gewalt» ersetzt durch «elterliche Sorge» anlässlich der Änderung des ZGB vom 26. 6. 1998 (neues Scheidungsrecht).
+
+#### § 39
+
+**Erkennungsdienstliche Behandlung**
+
+<sup>1</sup> Erkennungsdienstliche Massnahmen sind insbesondere die Abnahme von daktyloskopischen Abdrücken, fotografischen Aufnahmen, die Feststellung äusserer körperlicher Merkmale sowie Messungen und Handschriftproben.
+
+<sup>2</sup> Die Kantonspolizei darf erkennungsdienstliche Massnahmen in den nachstehenden Fällen vornehmen:
+
+- 1\. wenn eine Identitätsfeststellung auf andere Weise nicht oder nur unter erheblichen Schwierigkeiten möglich ist;
+- 2\. an Personen, die zu einer Zuchthaus- oder unbedingten Gefängnisstrafe verurteilt sind oder gegen die eine freiheitsentziehende, sichernde Massnahme gemäss Strafgesetzbuch verhängt wurde;
+- 3\. an Personen, die sich in Auslieferungshaft befinden, gerichtlich oder administrativ des Landes verwiesen sind oder gegen die eine Einreisesperre besteht;
+- 4\. wenn andere Rechtsgrundlagen eine erkennungsdienstliche Behandlung vorsehen.
+
+<sup>3</sup> Besteht kein hinreichender Grund zur Registrierung erkennungsdienstlicher Unterlagen, sind diese zu vernichten und entsprechende Registraturhinweise zu löschen. Die Betroffenen können die Vernichtung beantragen.
+
+#### § 40
+
+**Befragung**
+
+<sup>1</sup> Die Kantonspolizei kann eine Person über Sachverhalte befragen, deren Kenntnis zur Erfüllung einer polizeilichen Aufgabe von Bedeutung ist. Eine Pflicht zur Aussage besteht, wenn damit eine Gefahr für Leib und Leben abgewendet werden kann.
+
+<sup>2</sup> Die Person hat keine Auskunftspflicht, soweit sie beschuldigt ist oder ihr sonst ein Zeugnisverweigerungsrecht zukommt. Sie ist darüber aufzuklären.
+
+#### § 41
+
+**Polizeiliche Vorladung**
+
+<sup>1</sup> Die Kantonspolizei kann eine Person schriftlich oder mündlich unter Angabe des Zwecks vorladen, wenn dies für die Durchführung erkennungsdienstlicher Massnahmen oder einer Befragung erforderlich ist.
+
+<sup>2</sup> Leistet eine Person einer Vorladung ohne hinreichenden Grund keine Folge, kann die Kantonspolizei sie vorführen. In diesem Falle muss schriftlich auf die Möglichkeit der Vorführung hingewiesen worden sein.
+
+#### § 42
+
+**Wegweisung und Fernhaltung**
+
+<sup>1</sup> Die Kantonspolizei kann vorübergehend Personen von einem Ort wegweisen oder fernhalten, wenn sie
+
+- 1\. ernsthaft und unmittelbar gefährdet sind;
+- 2\. Einsätze zur Wiederherstellung oder Aufrechterhaltung der öffentlichen Sicherheit und Ordnung, insbesondere durch Polizeikräfte, Feuerwehr oder Rettungsdienste, behindern;
+- 3\. die Kantonspolizei an der Durchsetzung vollstreckbarer Anordnungen hindern.
+
+<sup>2</sup> Sie kann Anwerbende von einzelnen Orten oder generell wegweisen, wenn Anzeichen dafür bestehen, dass bei der Anwerbung widerrechtliche, namentlich täuschende oder unlautere Methoden angewendet, oder Passantinnen und Passanten in unzumutbarer Weise belästigt werden.
+
+#### § 42a
+
+**Befristeter Platzverweis**
+
+<sup>1</sup> Die Kantonspolizei kann eine Person von einem bestimmten öffentlichen Ort für höchstens 72 Stunden wegweisen, wenn diese Person
+
+- 1\. Dritte gefährdet oder Dritten mit einer ernsthaften Gefährdung droht;
+- 2\. durch ihr Verhalten die unmittelbare Gefahr einer gewalttätigen Auseinandersetzung schafft.
+
+<sup>2</sup> Die betroffene Person kann formlos innert 10 Tagen den Erlass einer Verfügung verlangen.
+
+<sup>3</sup> In schwerwiegenden Fällen, namentlich wenn eine Person
+
+- 1\. Dritte in ihrer körperlichen Integrität verletzt;
+- 2\. gefährliche Gegenstände oder Waffen mit sich führt;
+- 3\. an einer gewalttätigen Auseinandersetzung aktiv teilnimmt
+
+<sup>4</sup> Die Polizei informiert die weggewiesene Person über adäquate Beratungsstellen.
+
+#### § 43
+
+**Ausschreibung**
+
+<sup>1</sup> Die Kantonspolizei schreibt – gegebenenfalls gestützt auf eine Verfügung einer dafür zuständigen Behörde – eine Person zur polizeilichen Fahndung aus, deren Aufenthaltsort nicht bekannt ist, wenn
+
+- 1\. die Spezialgesetzgebung dies vorsieht;
+- 2\. die Voraussetzungen für eine Vorführung oder den polizeilichen Gewahrsam gemäss diesem Gesetz gegeben sind;
+- 3\. der dringende Verdacht auf eine strafbare Handlung besteht;
+- 4\. sie aus einer Anstalt entwichen ist, in der sie sich aus strafrechtlichen oder fürsorgerischen Gründen aufzuhalten hat;
+- 5\. ihr eine amtliche Verfügung oder ein amtlicher Entscheid zugestellt werden muss;
+- 6\. sie vermisst wird.
+
+<sup>2</sup> Die Ausschreibung wird widerrufen, sobald der Grund entfallen ist.
+
+#### § 43a
+
+**Notsuche vermisster Personen**
+
+<sup>1</sup> Die Kantonspolizei ist im Rahmen der Suche und Rettung vermisster Personen gemäss Art. 3a des Bundesgesetzes betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) befugt, ausserhalb eines Strafverfahrens die Überwachung des Fernmeldeverkehrs (Teilnehmeridentifikation und Verkehrsdaten) anzuordnen.
+
+<sup>2</sup> Die Kantonspolizei legt die interne Zuständigkeit fest.
+
+<sup>3</sup> Die Anordnung der Notsuche ist nachträglich durch das Zwangsmassnahmengericht zu genehmigen.
+
+#### § 44
+
+**Öffentliche Fahndung**
+
+<sup>1</sup> Eine öffentliche Fahndung (inkl. Bild) ist zulässig, wenn der Verdacht besteht, dass die gesuchte Person verunfallt oder Opfer eines Verbrechens geworden ist, wenn sie sich selbst oder Dritte gefährden könnte oder wenn sie eines schweren Vergehens oder Verbrechens verdächtigt wird.
+
+#### § 45
+
+**Durchsuchung der Kleidung von Personen**
+
+<sup>1</sup> Die Kantonspolizei durchsucht die Kleidung von Personen, wenn
+
+- 1\. dies nach den Umständen zum Schutz der Polizeibeamtin oder des Polizeibeamten oder einer dritten Person erforderlich erscheint;
+- 2\. Gründe für ein polizeiliches Festhalten nach diesem oder einem anderen Gesetz gegeben sind;
+- 3\. begründeter Verdacht besteht, dass sie Sachen in Gewahrsam hat, die von Gesetzes wegen sichergestellt werden dürfen;
+- 4\. dies zur Identitätsfeststellung notwendig ist;
+- 5\. sie sich erkennbar in einem die freie Willensbetätigung aus- schliessenden Zustand befindet und die Durchsuchung zu ihrem Schutz erforderlich ist.
+
+<sup>2</sup> Die Durchsuchung ist von einer Person gleichen Geschlechts vorzunehmen, es sei denn, sie ertrage keinen Aufschub.
+
+#### § 46
+
+**Unmittelbarer Zwang**
+
+<sup>1</sup> Die Kantonspolizei kann zur Erfüllung ihrer Aufgaben und im Rahmen der Verhältnismässigkeit unmittelbaren Zwang gegen Personen oder Sachen anwenden und geeignete Hilfsmittel einsetzen.
+
+<sup>2</sup> Soweit es die Umstände zulassen, ist die Anwendung unmittelbaren Zwangs vorher anzudrohen. Die Androhung hat so rechtzeitig zu erfolgen, dass die betroffenen Personen noch von sich aus den polizeilichen Anordnungen nachkommen können.
+
+#### § 47
+
+**Fesselung**
+
+<sup>1</sup> Eine Person, die nach diesem Gesetz oder anderen Rechtsvorschriften festgehalten wird, darf mit Fesseln gesichert werden, wenn der Verdacht besteht, dass sie
+
+- 1\. Menschen angreifen, Widerstand leisten oder Sachen beschädigen wird;
+- 2\. fliehen wird oder befreit werden soll;
+- 3\. sich töten oder verletzen wird.
+
+#### § 48
+
+**Schusswaffengebrauch**
+
+<sup>1</sup> Die Kantonspolizei hat, wenn andere verfügbare Mittel nicht ausreichen, in einer den Umständen angemessenen Weise, von der Schusswaffe Gebrauch zu machen:
+
+- 1\. Wenn sie mit einem gefährlichen Angriff unmittelbar bedroht oder gefährlich angegriffen wird;
+- 2\. wenn andere Personen mit einem gefährlichen Angriff unmittelbar bedroht oder gefährlich angegriffen werden;
+- 3\. wenn dienstliche Aufgaben nicht anders als durch Waffengebrauch auszuführen sind, und
+  - a) wenn Personen, welche ein schweres Verbrechen oder ein schweres Vergehen begangen haben, mit denen sie andere Menschen an Leib und Leben verletzt, gefährdet oder bedroht haben, oder einer solchen Tat dringend verdächtigt sind, sich der Festnahme oder einem bereits angeordneten Freiheitsentzug durch Flucht zu entziehen versuchen; oder
+  - b) wenn sie aufgrund erhaltener Informationen oder eigener Feststellungen annehmen darf oder muss, dass Personen für andere eine unmittelbare drohende Gefahr an Leib und Leben darstellen und sich der Festnahme oder einem bereits angeordneten Freiheitsentzug durch Flucht zu entziehen versuchen; oder
+  - c) zur Befreiung von Geiseln; oder
+  - d) zur Verhinderung eines unmittelbar drohenden schweren Verbrechens oder schweren Vergehens an Einrichtungen, die der Allgemeinheit dienen oder die für die Allgemeinheit wegen ihrer Verletzlichkeit eine besondere Gefahr bilden.
+
+<sup>2</sup> Dem Schusswaffengebrauch hat ein deutlicher Warnruf vorauszugehen, sofern der Zweck und die Umstände es zulassen.
+
+<sup>3</sup> Ein Warnschuss darf nur abgegeben werden, sofern die Umstände die Wirkung eines Warnrufes vereiteln.
+
+#### § 49
+
+**Hilfeleistung**
+
+<sup>1</sup> Wird unmittelbarer Zwang angewendet, ist Verletzten, soweit es nötig ist und die Umstände es zulassen, unverzüglich Beistand zu leisten und ärztliche Hilfe zu verschaffen.
+
+#### § 50
+
+**Durchsuchung von Sachen**
+
+<sup>1</sup> Die Kantonspolizei kann Fahrzeuge und andere Sachen durchsuchen, wenn
+
+- 1\. sie sich im Gewahrsam einer Person befinden, die gemäss § 45 durchsucht werden darf;
+- 2\. Verdacht besteht, dass sich in ihnen eine Person befindet, die widerrechtlich festgehalten wird, die festgenommen oder in Polizeigewahrsam genommen werden darf;
+- 3\. Verdacht besteht, dass sich in ihnen ein Gegenstand befindet, der sichergestellt werden darf.
+
+<sup>2</sup> Bei der Durchsuchung von Sachen haben die Inhaberinnen oder Inhaber der tatsächlichen Gewalt das Recht, anwesend zu sein. Sind sie abwesend, so sollen eine Vertreterin oder ein Vertreter oder eine andere Zeugin oder ein anderer Zeuge zugezogen werden.
+
+<sup>3</sup> Waren die Inhaberinnen oder Inhaber der tatsächlichen Gewalt bei der Durchsuchung nicht anwesend, so sind sie über die erfolgte Durchsuchung und das Ergebnis zu informieren. Auf Verlangen wird ihnen ein Protokoll erstellt und ausgehändigt.
+
+#### § 51
+
+**Betreten von Grundstücken und Durchsuchen von nicht öffentlichen Räumen**
+
+<sup>1</sup> Wenn es zur Erfüllung der polizeilichen Aufgaben notwendig ist, darf die Kantonspolizei auch nicht öffentliche Räume und private Grundstücke betreten.
+
+<sup>2</sup> Die Kantonspolizei kann solche Räume ohne Einwilligung der berechtigten Person nur durchsuchen
+
+- 1\. zur Abwehr einer gegenwärtigen erheblichen Gefahr;
+- 2\. wenn Verdacht besteht, dass sich dort eine Person befindet, die in Gewahrsam genommen werden darf.
+
+<sup>3</sup> § 50 Abs. 2 gilt sinngemäss.
+
+#### § 52
+
+**Voraussetzungen der Sicherstellung**
+
+<sup>1</sup> Die Kantonspolizei kann eine Sache sicherstellen,
+
+- 1\. um zu verhindern, dass damit eine Straftat begangen wird;
+- 2\. um eine Gefahr abzuwehren;
+- 3\. um Eigentümerin oder Eigentümer, rechtmässige Besitzerin oder Besitzer vor Verlust oder Beschädigung der Sache zu schützen;
+- 4\. wenn anzunehmen ist, dass sie von einer strafbaren Handlung herstammt, zu einer strafbaren Handlung gedient hat oder dazu dienen könnte.
+
+#### § 53
+
+**Durchführung der Sicherstellung**
+
+<sup>1</sup> Der betroffenen Person wird der Grund der Sicherstellung mitgeteilt.
+
+<sup>2</sup> Über die sichergestellten Sachen wird ein Verzeichnis angelegt.
+
+<sup>3</sup> Die Sachen werden gekennzeichnet und in amtliche Verwahrung genommen.
+
+#### § 54
+
+**Verwertung, Vernichtung**
+
+<sup>1</sup> Eine sichergestellte Sache darf – unter Vorbehalt der Bestimmungen der Strafprozessordnung[^54-1] – verwertet werden, wenn
+
+- 1\. sie von der berechtigten Person trotz Aufforderung nicht innert drei Monaten abgeholt wird. Die Verwertungsfolge ist in der Abholungsaufforderung anzudrohen;
+- 2\. niemand Anspruch auf die Sache erhebt;
+- 3\. die Sache schneller Wertverminderung ausgesetzt ist;
+- 4\. ihre Verwahrung, Pflege oder Erhaltung mit unverhältnismässig hohen Kosten oder Schwierigkeiten verbunden ist.
+
+<sup>2</sup> Sachen können vernichtet werden, wenn die Voraussetzungen der Verwertung vorliegen und die Aufwendungen für die Aufbewahrung und Verwertung den erzielbaren Erlös offensichtlich übersteigen.
+
+<sup>3</sup> Für gefährliche Gegenstände finden die Bestimmungen des Waffengesetzes Anwendung.
+
+[^54-1]: § 54 Abs. 1: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+
+#### § 55
+
+**Herausgabe sichergestellter Sachen oder des Erlöses**
+
+<sup>1</sup> Sobald die Voraussetzungen für die Sicherstellung weggefallen sind, ist die Sache an diejenige oder denjenigen herauszugeben, bei der oder bei dem sie sichergestellt worden ist, wenn nicht deren oder dessen Berechtigung zweifelhaft ist.
+
+<sup>2</sup> Im Falle von § 54 Abs. 1 Ziff. 3 erfolgt die Herausgabe an die berechtigte Person. Erheben mehrere Personen Anspruch auf eine herauszugebende Sache oder ist die Berechtigung sonst zweifelhaft, wird den Ansprecherinnen oder Ansprechern eine Frist zur Erwirkung eines richterlichen Herausgabebefehls angesetzt. Nach unbenutztem Ablauf dieser Frist wird die Verwahrung aufgehoben und die Sache der Person zurückgegeben, bei welcher sie sichergestellt worden ist.
+
+<sup>3</sup> Sind die Sachen verwertet worden, ist der Erlös herauszugeben.
+
+#### § 56
+
+**Kosten der Sicherstellung, Verwahrung und Verwertung**
+
+<sup>1</sup> Den Umständen nach erforderliche Aufwendungen für die Sicherstellung und Verwahrung sowie die Kosten einer Verwertung sind von den gemäss § 10 verantwortlichen Personen zu erstatten.
+
+<sup>2</sup> Die Herausgabe der Sache oder des Erlöses kann von der Zahlung der Kosten abhängig gemacht werden. Wird die Bezahlung nach erfolgloser Ansetzung einer angemessenen Frist verweigert, kann eine Verwertung erfolgen.
+
+## VI. Umgang mit personenbezogenen Informationen und Daten
+
+### A. Polizeiliche Daten
+
+#### § 57
+
+**Grundsatz**
+
+<sup>1</sup> Für Akten der Kantonspolizei gelten die Bestimmungen über das Amtsgeheimnis, den Datenschutz und die Akteneinsicht.
+
+<sup>2</sup> Die Bearbeitung und Weitergabe von Personendaten durch die Kantonspolizei sowie das Einsichtsrecht in polizeiliche Datensammlungen richten sich nach den Bestimmungen der Datenschutzgesetzgebung und im interkantonalen sowie internationalen Verkehr nach den Bestimmungen der Bundesgesetzgebung sowie der internationalen Rechtshilfeabkommen.
+
+<sup>3</sup> Polizeilich relevante Informationen dürfen weitergegeben werden, sofern diese der Gefahrenabwehr oder dem Schutz der Polizeigüter dient.
+
+<sup>4</sup> Die Kantonspolizei führt die zur recht- und zweckmässigen Erfüllung ihrer Aufgaben notwendigen Datensammlungen.
+
+#### § 58
+
+**Bild- und Tonaufnahmen zur Beweissicherung**
+
+<sup>1</sup> Die Kantonspolizei kann aus Gründen der Beweissicherung Teilnehmerinnen oder Teilnehmer einer öffentlichen Veranstaltung aufnehmen, sofern die konkrete Gefahr besteht, dass Straftaten begangen werden.
+
+<sup>2</sup> Sie vernichtet, unter Vorbehalt von § 59, die Aufnahmen sobald feststeht, dass diese zur Strafverfolgung nicht mehr benötigt werden.
+
+#### § 59
+
+**Bild- und Tonaufnahmen zu Dokumentations- und Schulungszwecken**
+
+<sup>1</sup> Die Kantonspolizei kann Bild- und Tonaufnahmen zu Dokumentations- und Schulungszwecken verwenden.
+
+<sup>2</sup> Eine personenbezogene Auswertung, Registrierung oder Aufbewahrung ist nicht gestattet.
+
+### B. Polizeiliche Berichte zur Person
+
+#### § 60
+
+**Grundsatz**
+
+<sup>1</sup> Verwaltungsbehörden erheben die zur Erfüllung ihrer Aufgaben notwendigen Personaldaten selber.
+
+#### § 61
+
+**Polizeilicher Informationsbericht**
+
+<sup>1</sup> Die Kantonspolizei erstellt personenbezogene Informationsberichte für Verwaltungszwecke, wenn die anfordernden zivilen oder militärischen Stellen diese
+
+- 1\. zur Erfüllung ihrer gesetzlichen Aufgabe bestimmten Informationen über eine Person benötigen; und
+- 2\. den Zweck des Informationsberichtes, die gesetzliche Grundlage und die Art der verlangten Information angeben.
+
+<sup>2</sup> Informationsberichte müssen sachlich sein. Sie enthalten Wahrnehmungen, Feststellungen und Tatsachen, hingegen keine Wertungen und Meinungsäusserungen.
+
+<sup>3</sup> Polizeiliche Informationsberichte umfassen grundsätzlich nur amtliche Informationen. Befragungen von Drittpersonen sollen nur ausnahmsweise und im ausdrücklichen Auftrag der ersuchenden Behörde vorgenommen werden.
+
+## VII. Rechte und Pflichten Privater
+
+#### § 62
+
+**Bewilligungspflicht für Dienstleistungen im Sicherheitsbereich**
+
+<sup>1</sup> Die Führung eines Gewerbes mit folgenden Tätigkeiten bedarf einer Bewilligung der Kantonspolizei:
+
+- 1\. der bewaffnete Schutz von Personen;
+- 2\. die Bewachung von Grundstücken, Gebäuden, gefährlichen Gütern, Werttransporten und dergleichen;
+- 3\. die Tätigkeit als Privatdetektivin oder Privatdetektiv.
+
+<sup>2</sup> Nicht bewilligungspflichtig sind diese Tätigkeiten, wenn sie zum Selbstschutz durch eigenes Personal ausgeübt werden. § 64 ist jedoch auch auf solche Tätigkeiten anwendbar.
+
+<sup>3</sup> Die unselbständige Tätigkeit als Privatdetektivin oder Privatdetektiv sowie zum Schutz von Personen bedarf einer Bewilligung der Kantonspolizei.
+
+<sup>4</sup> Die Bewilligung verleiht keine hoheitlichen Befugnisse.
+
+<sup>5</sup> Für die Bewilligungserteilung werden Gebühren erhoben.
+
+#### § 63
+
+**Voraussetzungen der Bewilligungserteilung**
+
+<sup>1</sup> Die Bewilligung wird auf Gesuch schweizerischen und ausländischen Personen erteilt, sofern sie handlungsfähig und gut beleumdet sind.
+
+<sup>2</sup> Gleichwertige auswärtige Bewilligungen werden auf Gesuch hin anerkannt.
+
+<sup>3</sup> Bei juristischen Personen ist eine verantwortliche Person in leitender Stellung zu bezeichnen, welche die Voraussetzungen zur Bewilligungserteilung erfüllt.
+
+<sup>4</sup> Die Bewilligung setzt den Nachweis einer Haftpflichtversicherung voraus. Der Regierungsrat bestimmt deren Mindestanforderungen.
+
+#### § 64
+
+**Zusammenarbeit mit der Kantonspolizei**
+
+<sup>1</sup> Überschneidet sich die Tätigkeit mit Aufgaben der Kantonspolizei, sind die Bewilligungsinhaberinnen und -inhaber und ihre Angestellten verpflichtet,
+
+- 1\. der Kantonspolizei Auskunft über getroffene oder geplante Massnahmen zu erteilen und besondere Vorkommnisse zu melden;
+- 2\. alles zu unterlassen, was die Erfüllung der Aufgaben der Kantonspolizei beeinträchtigen könnte.
+
+<sup>2</sup> Die Kantonspolizei kann Privaten untersagen, ihre Tätigkeit weiterzuführen, wenn die öffentliche Sicherheit und Ordnung dies erfordern.
+
+<sup>3</sup> Bewilligungsinhaberinnen und -inhaber haben alles zu unterlassen, was zu Verwechslungen mit Polizeiorganen führen könnte.
+
+<sup>4</sup> Zuwiderhandelnde werden mit Busse bestraft.
+
+#### § 65
+
+**Entzug der Bewilligung**
+
+<sup>1</sup> Die Kantonspolizei kann die Bewilligung entziehen bzw. aberkennen, wenn
+
+- 1\. die Voraussetzungen für die Erteilung nicht mehr gegeben sind oder nachträglich ein Verweigerungsgrund bekannt wird;
+- 2\. Inhaberinnen oder Inhaber oder deren Organe bei der Ausübung ihrer Tätigkeiten zu berechtigten Klagen Anlass geben.
+
+#### § 66
+
+**Bewilligungen für Veranstaltungen auf Privatareal**
+
+<sup>1</sup> Veranstaltungen auf Privatareal mit mehr als 20 000 erwarteten Personen bedürfen einer Bewilligung der Kantonspolizei.
+
+<sup>2</sup> Veranstaltungen auf Privatareal mit weniger als 20 000 erwarteten Personen bedürfen nur dann einer Bewilligung der Kantonspolizei, wenn erhebliche Sicherheitsprobleme zu erwarten sind, welche mit den normalen polizeilichen Mitteln nicht zu bewältigen sind, namentlich wenn
+
+- 1\. eine Gefahr für Leib und Leben eintreten; oder
+- 2\. beträchtlicher Sachschaden entstehen; oder
+- 3\. umfangreiche verkehrspolizeiliche Massnahmen erforderlich sein könnten.
+
+<sup>3</sup> Die Polizei kann nicht bewilligte Veranstaltungen jederzeit aufheben.
+
+#### § 66a
+
+**Bewilligung für Feuerwerk und Schiessen**
+
+<sup>1</sup> Das Abbrennen von pyrotechnischen Gegenständen, namentlich Feuerwerks-, oder Knallkörper, und das Schiessen mit Waffen im Sinne der eidgenössischen Waffengesetzgebung in bewohntem, öffentlichem oder bewohntem, allgemein zugänglichem Gebiet oder an Orten, wo Menschen, Tiere oder Sachen unmittelbar gefährdet sind, bedürfen einer Bewilligung der Kantonspolizei.
+
+<sup>2</sup> Wer ohne die erforderliche Bewilligung pyrotechnische Gegenstände abbrennt oder mit Waffen im Sinne der eidgenössischen Waffengesetzgebung schiesst, wird mit Busse bestraft. Die pyrotechnischen Gegenstände und Waffen können sichergestellt und eingezogen werden.
+
+#### § 66b
+
+**Bewilligung für Lautsprecher**
+
+<sup>1</sup> Der Betrieb von Lautsprecheranlagen oder in elektronischen Geräten verbauten Lautsprechern im öffentlichen Raum an Ruhetagen und von 22.00 bis 07.00 Uhr bedarf einer Bewilligung der Kantonspolizei.
+
+#### § 67
+
+**Private Alarmanlagen**
+
+<sup>1</sup> Private Sicherungseinrichtungen zur direkten Alarmierung der Kantonspolizei bei Überfällen und Einbrüchen bedürfen einer Bewilligung der Kantonspolizei.
+
+<sup>2</sup> Der Regierungsrat legt auf dem Verordnungswege fest,
+
+- 1\. die technischen Aufschaltbedingungen;
+- 2\. bei welchen Risiken eine technisch ausgelöste direkte Alarmierung der Kantonspolizei zulässig ist;
+- 3\. die Massnahmen bei einer Häufung von Fehlalarmen;
+- 4\. die Gebühren.
+
+#### § 67a
+
+**Schliessung von Prostitutionssalons**
+
+<sup>1</sup> Die Kantonspolizei kann nach vorgängiger Androhung die Schliessung eines Prostitutionssalons anordnen, wenn durch dessen Betrieb Anwohnerinnen und Anwohner in unzumutbarer Weise belästigt werden. Bei der Interessenabwägung kommt dem Standort des Salons besondere Bedeutung zu.
+
+#### § 68
+
+**Übertragung von polizeilichen Aufgaben**
+
+<sup>1</sup> Der Regierungsrat kann polizeiliche Aufgaben durch Vertrag an die Landgemeinden übertragen.
+
+<sup>2</sup> Die Kantonspolizei kann im Einzelfall private Organisationen unter ihrer Leitung und Aufsicht mit polizeilichen Aufgaben betrauen.
+
+## VIII. Schaden- und Kostenersatz
+
+#### § 69
+
+**Staatshaftung und persönliche Verantwortlichkeit**
+
+<sup>1</sup> Für Schäden, die bei einer dienstlichen Verrichtung Privaten widerrechtlich zugefügt werden, gelten die Bestimmungen des Beamtengesetzes.
+
+<sup>2</sup> Der Kanton leistet auch für den Schaden Ersatz, den die Kantonspolizei gemäss § 11 rechtmässig verursacht hat, wenn einzelne unverhältnismässig schwer betroffen sind und ihnen nicht zugemutet werden kann, den Schaden selber zu tragen.
+
+<sup>3</sup> Für Verletzungen der körperlichen Integrität und schwere Persönlichkeitsverletzung haben die Geschädigten Anspruch auf eine angemessene Genugtuung.
+
+<sup>4</sup> Ausgenommen sind die Haftung und die Leistung einer Genugtuung für rechtmässige Massnahmen gegen Störerinnen und Störer.
+
+#### § 70
+
+**Hilfeleistung Dritter**
+
+<sup>1</sup> Erleiden Dritte, die von sich aus oder auf Ersuchen von Angehörigen der Kantonspolizei in der Ausübung einer dienstlichen Aufgabe Hilfe leisten, einen Schaden, so kann der Staat Schadenersatz leisten.
+
+#### § 71
+
+**Kostenersatz**
+
+<sup>1</sup> Der Ersatz der Kosten für den Einsatz der Kantonspolizei kann verlangt werden, wenn eine gesetzliche Grundlage dies vorsieht.
+
+<sup>2</sup> Für die Aufwendungen der Kantonspolizei bei Grossveranstaltungen, wie Messen, Kongressen, Openair-Konzerten und Sportveranstaltungen, welche einen aufwendigen Ordnungsdienst, Verkehrsmassnahmen oder Polizeischutz erfordern, kann von den Veranstalterinnen oder Veranstaltern eine Gebühr erhoben werden.
+
+<sup>3</sup> Ausserordentliche Aufwendungen, die bei einem Polizeieinsatz entstehen, namentlich wenn sie vorsätzlich oder grobfahrlässig verursacht werden oder wenn sie in überwiegend privatem Interesse liegen, sind der Verursacherin oder dem Verursacher in Rechnung zu stellen.
+
+<sup>4</sup> Der Regierungsrat regelt in einer Verordnung das Nähere.
+
+## IX. Übergangs- und Schlussbestimmungen
+
+#### § 72
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat erlässt die notwendigen Ausführungsbestimmungen.
+
+<sup>2</sup> Die Kantonspolizei erlässt aufgrund dieses Gesetzes und der Strafprozessordnung[^72-1] die notwendigen Dienstvorschriften.
+
+[^72-1]: § 72 Abs. 2: Diese Ordnung ist aufgehoben. Massgebend sind jetzt die StPO vom 5. 10. 2007 (SR [312.0](https://db.clex.ch/link/Bund/312.0/de)) und das EG StPO vom 13. 10. 2010 (SG [257.100](https://www.gesetzessammlung.bs.ch/data/257.100/de)).
+
+#### § 73
+
+**Strafbestimmungen**
+
+<sup>1</sup> Das Übertretungsstrafgesetz vom 15. Juni 1978 enthält die Strafbestimmungen zu diesem Gesetz.
+
+#### § 74
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Wer eine Tätigkeit nach § 62 ausübt, hat innert einem Jahr nach Inkrafttreten dieses Gesetzes die erforderliche Bewilligung nachzuweisen.
+
+#### § 75
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und wird vom Regierungsrat nach Eintritt der Rechtskraft wirksam erklärt.[^75-1]
+
+[^75-1]: §§ 1–32, 34–37 und 38–75 wirksam seit 1. 7 1997, § 33 wirksam seit 1. 7. 1999.
+
+KB 16.11.1996

@@ -1,0 +1,187 @@
+---
+canton: BS
+number: "212.200"
+title: Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen
+short: "Alimentenbevorschussungsverordnung, ABVV"
+language: de
+version: 2013-01-01
+valid_until: 2021-12-31
+version_adopted: 2012-12-11
+adopted: 2008-11-25
+in_force: 2009-01-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/212.200"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2494/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Inkasso und die Bevorschussung von Unterhaltsbeiträgen
+
+Alimentenbevorschussungsverordnung | Personen- und Familienrecht
+
+(Alimentenbevorschussungsverordnung, ABVV)
+
+Vom 25. November 2008 (Stand 1. Januar 2013)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf § 47 des Gesetzes betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EGzZGB) vom 27. April 1911[^ingress-1] und in Ausführung des Gesetzes über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (Harmonisierungsgesetz Sozialleistungen, SoHaG) vom 25. Juni 2008[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: SG [211.100](https://www.gesetzessammlung.bs.ch/data/211.100/de).
+[^ingress-2]: SG [890.700](https://www.gesetzessammlung.bs.ch/data/890.700/de).
+
+## I. Arten von Leistungen
+
+#### § 1
+
+**Inkassohilfe**
+
+<sup>1</sup> Inkassohilfe wird geleistet für Unterhaltsbeiträge von
+
+- a) minderjährigen Kindern;
+- a)<sup>bis</sup> volljährigen Kindern bis zum ordentlichen Abschluss der Erstausbildung, längstens aber bis zum zurückgelegten 25. Altersjahr;
+- b) volljährigen Kindern gemäss § 47 Ziff. 4 EGzZGB;
+- c) geschiedenen und getrennt lebenden Ehegattinnen bzw. Ehegatten.
+
+<sup>2</sup> Die Inkassohilfe ist unentgeltlich.
+
+<sup>3</sup> Kosten und Auslagen aus der Inkassohilfe für minderjährige und volljährige Kinder werden durch den Kanton getragen.
+
+<sup>4</sup> Kosten und Auslagen aus der Inkassohilfe für geschiedene und getrennt lebende Ehegattinnen bzw. Ehegatten sind von der gesuchstellenden Person zu tragen, es sei denn, sie beziehe Prämienverbilligung gemäss § 17 des Gesetzes über die Krankenversicherung im Kanton Basel-Stadt (GKV), Ergänzungsleistungen zur AHV/IV oder Sozialhilfe.
+
+#### § 2
+
+**Bevorschussung**
+
+<sup>1</sup> Bevorschussung wird geleistet für Unterhaltsbeiträge von Kindern gemäss § 1 Abs. 1 lit. a, a<sup>bis</sup> und b dieser Verordnung.
+
+<sup>2</sup> Kinderzulagen werden nicht bevorschusst.
+
+## II. Leistungsvoraussetzungen
+
+#### § 3
+
+**Rechtstitel**
+
+<sup>1</sup> Inkassohilfe und Bevorschussung werden nur für Unterhaltsbeiträge geleistet, die in einem der folgenden Rechtstitel festgelegt sind:
+
+- a) Rechtskräftige Scheidungs- und Trennungsurteile;
+- b) Vorsorgliche Verfügungen in Eheschutz- und Ehescheidungsverfahren;
+- c) Rechtskräftige Urteile in Unterhaltssachen gemäss Art. 279 Schweizerisches Zivilgesetzbuch (ZGB) vom 10. Dezember 1907 sowie vorsorgliche Verfügungen in solchen Prozessen;
+- d) Von der Kindes- und Erwachsenenschutzbehörde (KESB) genehmigte Vereinbarungen über die Unterhaltspflicht.
+
+#### § 4
+
+**Gesuchstellung**
+
+<sup>1</sup> Inkassohilfe und Bevorschussung von Unterhaltsbeiträgen werden, sofern die gesetzlichen Voraussetzungen erfüllt sind, auf entsprechendes Gesuch hin gewährt.
+
+<sup>2</sup> Das Gesuch um Inkassohilfe und/oder Bevorschussung von Unterhaltsbeiträgen ist zu stellen:
+
+- a) bei minderjährigen Kindern vom obhutsberechtigten Elternteil;
+- b) bei volljährigen Kindern im Sinne von § 1 Abs. 1 lit. a<sup>bis</sup> dieser Verordnung vom bisher obhutsberechtigten Elternteil oder vom volljährigen Kind selbst;
+- c) bei volljährigen Kindern im Sinne von § 1 Abs. 1 lit. b dieser Verordnung vom bisher obhutsberechtigten Elternteil, sofern das volljährige Kind dem Elternteil eine entsprechende Vollmacht erteilt (§ 47 Ziff. 4 EGzZGB);
+- d) bei gemeinsamer elterlicher Sorge vom nicht leistungspflichtigen obhutsberechtigten Elternteil.
+
+#### § 5
+
+**Ermächtigungen und Erklärungen durch die gesuchstellende Person**
+
+<sup>1</sup> Die antragstellende Person hat bei der Gesuchstellung folgende Ermächtigungen und Erklärungen abzugeben:[^5-1]
+
+- a) Abtretungserklärung der Forderung auf Unterhaltsbeiträge gemäss dem in § 3 dieser Verordnung genannten Rechtstitel an den Kanton Basel-Stadt;
+- b) Ermächtigung des Kantons Basel-Stadt bzw. des Amtes für Sozialbeiträge zur Beantragung von richterlichen Massnahmen gemäss Art. 291 und 292 ZGB und zur Einreichung eines Strafantrags gemäss Art. 217 Schweizerisches Strafgesetzbuch (StGB) vom 21. Dezember 1937;
+- c) Einverständniserklärung, dass aus nachträglich bezahlten Unterhaltsbeiträgen der leistungspflichtigen Person, rückwirkend ausbezahlten Sozialversicherungsleistungen usw. zuerst die bevorschussten Unterhaltsbeiträge beglichen werden.
+
+[^5-1]: Softwarebedingte, redaktionelle Einfügung von Gliederungsziffern oder -buchstaben.
+
+## III. Bevorschussung von Unterhaltsbeiträgen: Mindestanspruchshöhe, maximale Bevorschussung, individueller Anspruch, Auszahlungsmodalitäten, Rechtsmittel
+
+#### § 6
+
+**Mindestanspruchshöhe**
+
+<sup>1</sup> Ein Anspruch auf Bevorschussung von Unterhaltsbeiträgen besteht nur, wenn der gemäss dieser Verordnung berechnete individuelle Anspruch der Haushaltseinheit auf Bevorschussung mindestens CHF 600 pro Jahr bzw. CHF 50 pro Monat beträgt.
+
+#### § 7
+
+**Grundlage für die Anspruchsermittlung und -berechnung**
+
+<sup>1</sup> Grundlage für die Ermittlung und Berechnung eines Anspruchs auf Bevorschussung von Unterhaltsbeiträgen bilden das Harmonisierungsgesetz Sozialleistungen (SoHaG) vom 25. Juni 2008 sowie die Verordnung über die Harmonisierung und Koordination von bedarfsabhängigen Sozialleistungen (SoHaV) vom 25. November 2008.
+
+#### § 8
+
+**Freibetrag auf dem massgeblichen Einkommen der Haushaltseinheit**
+
+<sup>1</sup> Auf dem massgeblichen Einkommen der Haushaltseinheit gemäss § 6 Abs. 2 lit. a SoHaG wird ein Freibetrag von 30% des Nettoeinkommens aus selbständiger und/oder unselbständiger Erwerbstätigkeit (ohne Erwerbstätigkeitssurrogate) gewährt.
+
+<sup>2.</sup> Zur Berechnung des in Abs. 1 genannten Freibetrags werden Einkommen minderjähriger Kinder und / oder volljähriger Kinder in Erstausbildung und unter 25 Jahren (§ 3 SoHaV) aus selbständiger und / oder unselbständiger Erwerbstätigkeit nicht zum Einkommen der Haushaltseinheit hinzugerechnet.
+
+#### § 9
+
+**Maximale Bevorschussung**
+
+<sup>1</sup> Der Betrag der maximal möglichen Bevorschussung von Unterhaltsbeiträgen entspricht der Differenz zwischen dem gemäss § 8 dieser Verordnung berechneten Einkommen und
+
+- a) für einen Zweipersonenhaushalt (erwachsene Person mit Kind) der Leistungsgrenze von CHF 45'000
+- b) für Haushalte mit mehr als zwei Personen den gemäss § 11 Abs. 2 SoHaV berechneten Leistungsgrenzen.
+
+#### § 10
+
+**Individueller Anspruch auf Bevorschussung von Unterhaltsbeiträgen**
+
+<sup>1</sup> Die Höhe des individuellen Anspruchs auf Bevorschussung von Unterhaltsbeiträgen (pro anspruchsberechtigtem Kind gemäss § 2 dieser Verordnung) kann jedoch weder den in den Rechtstiteln gemäss § 3 dieser Verordnung festgelegten Unterhaltsbeitrag noch den Betrag der einfachen maximalen Waisenrente gemäss dem Bundesgesetz über die Alters- und Hinterlassenenversicherung (AHVG) vom 20. Dezember 1946 überschreiten.
+
+#### § 11
+
+**Indexierung der Leistungsgrenze**
+
+<sup>1</sup> Die Leistungsgrenze des Zweipersonenhaushalts gemäss § 9 dieser Verordnung wird vom Amt für Sozialbeiträge auf Beginn eines Jahres der Entwicklung des Konsumentenpreises gemäss BFS-Index angepasst, sofern sich der Index seit der letzten Anpassung um mindestens 5% verändert hat. Massgebend ist der Oktoberindex des Vorjahres. Basisindex ist der Oktoberindex 2008.
+
+#### § 12
+
+**Erstmaliger Anspruch**
+
+<sup>1</sup> Der Anspruch auf Bevorschussung von Unterhaltsbeiträgen entsteht erstmals für den Monat, in dem das Gesuch mit den erforderlichen Unterlagen eingereicht worden ist und die gesetzlichen Voraussetzungen für eine Ausrichtung von Unterhaltsbeiträgen erfüllt sind.
+
+#### § 13
+
+**Auszahlungsmodalitäten**
+
+<sup>1</sup> Die bevorschussten Unterhaltsbeiträge werden monatlich im Voraus an die anspruchs- bzw. obhutsberechtigte Person ausbezahlt. Leben anspruchsberechtigte Kinder nicht beim gesuchstellenden Elternteil, können die Zahlungen direkt an Dritte erfolgen.
+
+#### § 14
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Verfügungen betreffend die Bevorschussung von Unterhaltsbeiträgen sowie betreffend die Gebühr wegen Meldepflichtverletzung (§ 39 SoHaV) kann innert 10 Tagen nach Erhalt der Verfügung Rekurs an das Departement für Wirtschaft, Soziales und Umwelt erhoben werden. Innerhalb von 30 Tagen, vom gleichen Zeitpunkt an gerechnet, ist der Rekurs unter Angabe der Beweismittel schriftlich zu begründen.
+
+## IV. Vollzug
+
+#### § 15
+
+<sup>1</sup> Das Departement für Wirtschaft, Soziales und Umwelt (Amt für Sozialbeiträge) wird mit dem Vollzug beauftragt.
+
+## V. Übergangs- und Schlussbestimmungen
+
+#### § 16
+
+**Anwendung bisherigen Rechts**
+
+<sup>1</sup> In Fällen, in denen die vorliegende Verordnung im Zeitpunkt ihres Wirksamwerdens zu einer Abnahme von bestehenden Ansprüchen auf Bevorschussungsleistungen führen würde, werden die betroffenen Ansprüche während einer Übergangsfrist von einem Jahr ab Wirksamwerden dieser Verordnung nach dem bisherigen Recht berechnet. Betroffene Personen werden entsprechend informiert.
+
+#### § 17
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung über das Inkasso und die Bevorschussung von Unterhaltsforderungen (Alimentenbevorschussungsverordnung) vom 20. August 2002 wird aufgehoben.
+
+#### § 18
+
+**Wirksamkeit**
+
+<sup>1</sup> Diese Verordnung ist zu publizieren und wird am 1. Januar 2009 wirksam.
+
+KB 29.11.2008

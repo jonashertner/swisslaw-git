@@ -1,0 +1,64 @@
+---
+canton: BS
+number: "172.600"
+title: "Zusatzabkommen IV zur Vereinbarung vom 24. November/22. Dezember 1925, resp. 26. November/14. Dezember 1926 über die Unterstützung der bürgerlichen Fürsorgeinstitutionen und die Verwendung des Ertrages der Christoph Merian Stiftung"
+language: de
+version: 1973-01-01
+valid_until: 2024-12-31
+version_adopted: 1975-12-22
+adopted: 1975-12-22
+in_force: 1973-01-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/172.600"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3284/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Zusatzabkommen IV zur Vereinbarung vom 24. November/22. Dezember 1925, resp. 26. November/14. Dezember 1926 über die Unterstützung der bürgerlichen Fürsorgeinstitutionen und die Verwendung des Ertrages der Christoph Merian Stiftung
+
+Unterstützung der bürgl. Fürsorgeinst.: Zusatzabkommen IV | Einwohnergemeinde – Bürgergemeinde[^t-1]
+
+Vom 22. Dezember 1975 (Stand 1. Januar 1973)
+
+Die Einwohnergemeinde der Stadt Basel, vertreten durch den Regierungsratdes Kantons Basel-Stadt,
+
+einerseits, und die
+
+Bürgergemeinde der Stadt Basel, vertreten durch den Bürgerrat,
+
+anderseits,
+
+schliessen, gestützt auf § 4 lit. c des Ausscheidungsvertrages vom 6. Juli 1876[^ingress-1], das nachstehende Zusatzabkommen IV zur oben erwähnten Vereinbarung ab:
+
+\1. Die Christoph Merian Stiftung wird ermächtigt, maximal 10% des jährlichen Ertragsüberschusses zur Äufnung ihres Vermögens zurückzustellen mit der Massgabe, dass diese Mittel zuzüglich Zinsen ausschliesslich zum Erwerb, Bau und Umbau von Liegenschaften verwendet werden dürfen, wobei solche Geschäfte der Genehmigung der bürgerlichen Behörden unterliegen.
+
+\2. Aus dem verbleibenden Ertragsüberschuss der Christoph Merian Stiftung ist der Bürgergemeinde die Hälfte zur Verfügung zu stellen. Diese ist hauptsächlich für soziale Zwecke und die bürgerlichen Fürsorgeinstitutionen zu verwenden.
+
+\3. Die andere Hälfte des verbleibenden Ertragsüberschusses ist zur Erfüllung und zur Erleichterung städtischer Aufgaben zu verwenden, wobei die Christoph Merian Stiftung hiefür jeweils die Genehmigung des Regierungsrates als Vertreter der Einwohnergemeinde einzuholen hat.
+
+Sofern die Mittel in Erfüllung städtischer Aufgaben von der Stiftung selbst verwendet werden, ist der Bürgerrat als Aufsichtsbehörde zu orientieren.
+
+\4. Dieses Zusatzabkommen tritt auf den 1. Januar 1973 rückwirkend in Kraft und ersetzt die früheren Zusatzabkommen I vom16./30. Dezember 1958, II vom 29./30. Oktober 1962 sowie III vom 29. Juli 1969.
+
+\5. Das Zusatzabkommen kann, unter Einhaltung einer Kündigungsfrist von zwölf Monaten, frühestens auf 31. Dezember 1984, gekündigt werden.
+
+Basel, den 22. Dezember 1975
+
+Namens des Regierungsrates
+
+Der Präsident: Dr. K. Jenny
+
+Der 2. Staatsschreiber: Dr. S. Scheuring
+
+Basel, den 27. Januar 1976
+
+Namens des Bürgerrates
+
+Der Präsident: H. Keller
+
+Der Bürgerratsschreiber: Dr. H. G. Oeri
+
+[^t-1]: Dieser Erlass trägt ein Doppeldatum: 22. 12. 1975/27. 1. 1976. Aus technischen Gründen kann hier nur ein Datum genannt werden.
+[^ingress-1]: Korrektes Datum des Vertrags: 6. 6. 1876 (SG [172.200](https://www.gesetzessammlung.bs.ch/data/172.200/de)).
+
+KB 12.05.1976

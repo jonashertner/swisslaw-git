@@ -1,0 +1,172 @@
+---
+canton: BS
+number: "427.920"
+title: Verordnung über den Bildungsgang Pflege HF am Bildungszentrum Gesundheit Basel-Stadt
+language: de
+version: 2013-08-12
+version_adopted: 2013-05-28
+adopted: 2013-05-28
+in_force: 2013-08-12
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/427.920"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2601/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über den Bildungsgang Pflege HF am Bildungszentrum Gesundheit Basel-Stadt
+
+Bildungsgang Pflegefach: Verordnung | Ausbildung in einzelnen Berufen
+
+Vom 28. Mai 2013 (Stand 12. August 2013)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf § 74 Abs. 1 und 2 lit. a, b des Schulgesetzes vom 4. April 1929[^ingress-1], auf Antrag des Erziehungsrates,
+
+beschliesst:
+
+[^ingress-1]: SG [410.100](https://www.gesetzessammlung.bs.ch/data/410.100/de).
+
+## I. Allgemeines
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt den am Bildungszentrum Gesundheit Basel-Stadt (BZG) gemäss der Verordnung des WBF (Eidgenössisches Departement für Wirtschaft, Bildung und Forschung) vom 11. März 2005 über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen (MiVO-HF) geführten Bildungsgang Pflege HF.
+
+#### § 2
+
+**Lehrplan**
+
+<sup>1</sup> Der Bildungsgang Pflege HF richtet sich nach dem Rahmenlehrplan für Bildungsgänge der höheren Fachschulen «Pflege» mit dem geschützten Titel «dipl. Pflegefachfrau HF», «dipl. Pflegefachmann HF» der Nationalen Dachorganisation der Arbeitswelt Gesundheit (OdASanté) und des Schweizerischen Verbandes Bildungszentren Gesundheit und Soziales (BGS).
+
+#### § 3
+
+**Unterrichtsform**
+
+<sup>1</sup> Die Ausbildung wird als Vollzeit- oder Teilzeitausbildung durchgeführt.
+
+#### § 4
+
+**Dauer und Umfang**
+
+<sup>1</sup> Die Diplomausbildung kann als Vollzeit- oder Teilzeitausbildung absolviert werden.
+
+<sup>2</sup> Als Vollzeitausbildung dauert sie in der Regel drei Jahre und mindestens 5'400 Lernstunden.
+
+<sup>3</sup> Wird die Diplomausbildung als Teilzeitausbildung absolviert, verlängert sich die Ausbildungsdauer entsprechend dem Anstellungsgrad in der beruflichen Praxis und dauert in der Regel maximal vier Jahre.
+
+<sup>4</sup> Besitzt die auszubildende Person bereits einen Berufsabschluss oder Berufserfahrung im Berufsfeld Gesundheit, kann die Ausbildung um höchstens 1'800 Lernstunden verkürzt werden.
+
+<sup>5</sup> Über die Verkürzung des Bildungsgangs entscheidet die Leitung des Bildungsgangs Pflege.
+
+#### § 5
+
+**Zulassung**
+
+<sup>1</sup> Voraussetzung für die Zulassung in den Bildungsgang Pflege HF ist ein in der Schweiz anerkannter Abschluss der Sekundarstufe II oder ein gleichwertiger Abschluss und eine erfolgreich absolvierte Eignungsabklärung.
+
+## II. Promotionsbestimmungen
+
+#### § 6
+
+**Leistungsbewertung**
+
+<sup>1</sup> Die von den Studierenden erbrachten Leistungen in den Lernbereichen Schule, Berufliche Praxis sowie Training und Transfer (LTT) werden regelmässig beurteilt.
+
+<sup>2</sup> Die Leistungen werden nach folgendem Bewertungsraster beurteilt:
+
+- A = hervorragend
+- B = sehr gut
+- C = gut
+- D = befriedigend
+- E = ausreichend
+- F = nicht bestanden
+
+<sup>3</sup> Eine Leistung wird ebenfalls mit F bewertet, wenn eine Studierende oder ein Studierender:
+
+- a) einen definierten Abgabetermin ohne wichtigen Grund nicht einhält;
+- b) ohne wichtigen Grund von der Leistungserhebung fernbleibt oder diese ohne wichtigen Grund abbricht;
+- c) sich während der Leistungserhebung unlauter verhält.
+
+<sup>4</sup> Die Schulleitung, auf Antrag der Leitung des Bildungsganges Pflege HF, legt Methoden und Formen der Leistungsbewertung in einem Lernförderungs- und Beurteilungskonzept fest.
+
+#### § 7
+
+**Wiederholung von Leistungsnachweisen**
+
+<sup>1</sup> Nicht bestandene Leistungsnachweise können einmal wiederholt werden.
+
+<sup>2</sup> Eine Wiederholung im Lernbereich berufliche Praxis (Praktikum) bedingt eine Versetzung in den nächst folgenden Ausbildungsjahrgang und eine entsprechende Anstellung in einem anerkannten Praktikumsbetrieb. Ein Praktikum kann während der Dauer der Ausbildung nur einmal wiederholt werden.
+
+#### § 8
+
+**Auflösung des Ausbildungsvertrags**
+
+<sup>1</sup> Werden ein oder mehrere Leistungsnachweise in den Lernbereichen Schule, berufliche Praxis und LTT auch nach Wiederholung als nicht bestanden (Bewertung F) beurteilt, wird der Ausbildungsvertrag aufgelöst.
+
+<sup>2</sup> Auf Antrag der oder des Studierenden kann in begründeten Fällen nach wiederholter ungenügender Beurteilung von einem oder mehreren Leistungsnachweisen im Sinne einer Remotion eine Versetzung in den nächst folgenden Ausbildungsjahrgang erfolgen. Diese Möglichkeit ist während der Dauer der Ausbildung nur einmal gegeben. Über eine allfällige Remotion entscheidet die Leitung des Bildungsgangs Pflege HF.
+
+<sup>3</sup> Treten im Verlauf der Ausbildung bei der oder dem Studierenden physische oder psychische Beeinträchtigungen auf, welche die Fortsetzung des Ausbildungsverhältnisses als unverantwortbar erscheinen lassen, kann das Ausbildungsverhältnis aufgelöst werden.
+
+#### § 9
+
+**Zulassung zum abschliessenden Qualifikationsverfahren**
+
+<sup>1</sup> Die Zulassung wird erteilt, wenn
+
+- a) die geforderten Leistungsnachweise in allen drei Lernbereichen der dritten Ausbildungsstufe mit mindestens ausreichend (Bewertung E) beurteilt sind;
+- b) nicht mehr als 10 Prozent der vorgeschriebenen gesamten Ausbildungszeit versäumt wurden.
+
+<sup>2</sup> Wird die vorgeschriebene minimale Ausbildungszeit nicht erreicht, kann die Ausbildung verlängert oder analog dem Verfahren von § 8 Abs. 2 eine Versetzung in den nächst folgendenAusbildungsjahrgang beantragt werden.
+
+## III. Abschliessendes Qualifiktionsverfahren
+
+#### § 10
+
+**Qualifikationselemente**
+
+<sup>1</sup> Das abschliessende Qualifikationsverfahren besteht aus den Leistungsnachweisen in folgenden drei Elementen:
+
+- a) Praxisorientierte Diplomarbeit;
+- b) Praktikumsqualifikation;
+- c) Prüfungsgespräch von mindestens 30 Minuten.
+
+#### § 11
+
+**Diplom**
+
+<sup>1</sup> Das Diplom wird erteilt, wenn jedes der drei Qualifikationselemente mit mindestens ausreichend (Bewertung E) beurteilt wird.
+
+#### § 12
+
+**Wiederholung und definitives Nichtbestehen**
+
+<sup>1</sup> Studierende, welche die Voraussetzungen für die Diplomierung nicht erfüllen, haben folgende Wiederholungsmöglichkeiten:
+
+- a) einmalige Nachbesserung der praxisorientierten Diplomarbeit;
+- b) einmalige Wiederholung der Praktikumsqualifikation;
+- c) einmalige Wiederholung des Prüfungsgesprächs.
+
+<sup>2</sup> Der Zeitpunkt für die Nachbesserung oder die Wiederholung der praxisorientierten Diplomarbeit oder des Prüfungsgesprächs wird von der Leitung des Bildungsgangs Pflege HF festgelegt. Die Praktikumsqualifikation kann frühestens sechs Monate, nachdem sie erstmals durchgeführt wurde, wiederholt werden.
+
+<sup>3</sup> Wird eines der Qualifikationselemente zum zweiten Mal nicht bestanden (Bewertung F), ist das abschliessende Qualifikationsverfahren definitiv nicht bestanden.
+
+#### § 13
+
+**Titel**
+
+<sup>1</sup> Der Bildungsgang Pflege HF wird mit einem eidgenössisch anerkannten Diplom Höhere Fachschule abgeschlossen und berechtigt zum Tragen des Titels «dipl. Pflegefachfrau HF» bzw. «dipl. Pflegefachmann HF».
+
+## IV. Rechtsmittel
+
+#### § 14
+
+<sup>1</sup> Gegen im Rahmen dieser Verordnung erlassene Verfügungen kann nach dem Bestimmungen des Organisationsgesetzes vom 22. April 1976 an die zuständige Departementsvorsteherin oder den zuständigen Departementsvorsteher rekurriert werden.
+
+## V. Schlussbestimmungen
+
+Diese Verordnung ist zu publizieren; sie wird auf den Beginn des Schuljahres 2013/14 am 12. August 2013 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung über den Bildungsgang zur diplomierten Pflegefachfrau HF oder zum diplomierten Pflegefachmann HF vom 11. Dezember 2007 aufgehoben.
+
+KB 01.06.2013

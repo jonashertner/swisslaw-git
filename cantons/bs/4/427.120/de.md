@@ -1,0 +1,131 @@
+---
+canton: BS
+number: "427.120"
+title: "Vereinbarung zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals"
+language: de
+version: 1976-05-20
+version_adopted: 1976-04-28
+adopted: 1976-04-28
+in_force: 1976-05-20
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/427.120"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5226/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vereinbarung zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals
+
+Medizinisches Personal, Ausbildung: Vereinbarung | Ausbildung in einzelnen Berufen[^t-1][^t-2]
+
+Vom 28. April 1976 (Stand 20. Mai 1976)
+
+[^t-1]: Vom Regierungsrat genehmigt am 10. 5. 1977.
+[^t-2]: Dieser Erlass trägt ein Doppeldatum und zwar 20. 5. 1976 / 28. 4. 1976. Systembedingt kann nur ein Datum angezeigt werden.
+
+#### Ziff. 1
+
+**Allgemeines**
+
+<sup>Ziff. 1.1.</sup> Diese Vereinbarung regelt die Beziehungen zwischen den Kantonen und dem Schweizerischen Roten Kreuz betreffend die berufliche Ausbildung des Pflegepersonals, des medizinisch-technischen und des medizinisch-therapeutischen Personals (vgl. Anhang).
+
+Die Kantone und der Bund bestimmen diejenigen Berufe, deren Ausbildung vom Schweizerischen Roten Kreuz geregelt und überwacht wird.
+
+<sup>Ziff. 1.2.</sup> Die Kantone ermächtigen die Schweizerische Sanitätsdirektorenkonferenz, sie bei Verhandlungen mit dem Schweizerischen Roten Kreuz über Fragen von gesamtschweizerischer Bedeutung, die sich aus der vorliegenden Vereinbarung ergeben, zu vertreten.
+
+#### Ziff. 2
+
+**Aufgaben des Schweizerischen Roten Kreuzes**
+
+<sup>Ziff. 2.1.</sup> Das Schweizerische Rote Kreuz regelt, überwacht und fördert im Rahmen der vorliegenden Vereinbarung und gestützt auf die ihm erteilten Aufträge die Grundausbildung, die Zusatz- und Spezialausbildung sowie die Kaderausbildung in den Pflegeberufen, den medizinisch-technischen und medizinisch-therapeutischen Berufen.
+
+Die interessierten Organisationen sind bei der Wahrnehmung dieser Aufgaben in angemessener Weise beizuziehen.
+
+<sup>Ziff. 2.2.</sup> Das Schweizerische Rote Kreuz betreibt Kaderausbildung in den Pflegeberufen sowie im Auftrag der Kantone und im Einverständnis mit den interessierten Organisationen in weiteren Berufen gemäss Ziff. 1.1.
+
+<sup>Ziff. 2.3.</sup> Das Schweizerische Rote Kreuz unterzeichnet und registriert die Ausweise, die von einer anerkannten Ausbildungsstätte für ein vom Schweizerischen Roten Kreuz anerkanntes Ausbildungsprogramm abgegeben werden.
+
+Es registriert die in der Schweiz tätigen Inhaber von ausländischen Ausweisen, sofern diese für eine Ausbildung ausgestellt wurden, die in der Schweiz vom Schweizerischen Roten Kreuz überwacht wird, und der Ausweisinhaber dessen Anforderungen entspricht.
+
+<sup>Ziff. 2.4.</sup> Das Schweizerische Rote Kreuz übt eine Beratungstätigkeit aus bezüglich
+
+– der Planung und Organisation von Ausbildungsstätten,
+
+– der Durchführung von Ausbildungsprogrammen,
+
+– der Schaffung von neuen Berufsausbildungen,
+
+– des praktischen Einsatzes von Angehörigen der in Ziff. 1.1 genannten Berufsgruppen.
+
+<sup>Ziff. 2.5.</sup> Das Schweizerische Rote Kreuz koordiniert und betreibt im Einvernehmen mit der Schweizerischen Sanitätsdirektorenkonferenz und den Kantonen sowie in enger Zusammenarbeit mit den interessierten Organisationen eine gesamtschweizerische Information und Werbung für die Pflegeberufe, die medizinisch-technischen und medizinisch-therapeutischen Berufe.
+
+<sup>Ziff. 2.6.</sup> Das Schweizerische Rote Kreuz unterbreitet der Schweizerischen Sanitätsdirektorenkonferenz jeweils bis zum 15. April den einschlägigen Arbeitsplan für das folgende Jahr zur Genehmigung. Darin sind insbesondere die vorgesehenen Neuerungen und Erweiterungen des Tätigkeitsbereiches aufgeführt.
+
+<sup>Ziff. 2.7.</sup> Das Schweizerische Rote Kreuz unterbreitet der Schweizerischen Sanitätsdirektorenkonferenz jeweils bis zum 15. April das Budget für das folgende Jahr unter Angabe der sich daraus ergebenden Beitragsleistungen der Kantone zur Genehmigung.
+
+<sup>Ziff. 2.8.</sup> Das Schweizerische Rote Kreuz übermittelt der Schweizerischen Sanitätsdirektorenkonferenz jeweils bis zum 30. Juni Jahresbericht und Rechnung des Vorjahres.
+
+<sup>Ziff. 2.9.</sup> Das Schweizerische Rote Kreuz unterbreitet der Schweizerischen Sanitätsdirektorenkonferenz Statutenänderungen zur Stellungnahme, bevor diese von der Delegiertenversammlung des Schweizerischen Roten Kreuzes verabschiedet werden.
+
+<sup>Ziff. 2.10.</sup> Das Schweizerische Rote Kreuz räumt der Schweizerischen Sanitätsdirektorenkonferenz in den leitenden Fachorganen eine angemessene Zahl von Sitzen ein, insbesondere:
+
+– 2 Sitze in der Kommission für Krankenpflege
+
+– 1 Sitz im Schulrat der Rotkreuz-Kaderschule für die Krankenpflege.
+
+Anlässlich der nächsten Revision der Statuten des Schweizerischen Roten Kreuzes wird die Vertretung der Schweizerischen Sanitätsdirektorenkonferenz in den Organen des Schweizerischen Roten Kreuzes definitiv geregelt.
+
+<sup>Ziff. 2.11.</sup> Das Schweizerische Rote Kreuz übernimmt einen Teil der aus dem Vollzug dieser Vereinbarung erwachsenden Kosten. Es verwendet hiefür insbesondere zweckbestimmte Einnahmen und Erträge aus der Verrechnung von erbrachten Dienstleistungen.
+
+<sup>Ziff. 2.12.</sup> Das Schweizerische Rote Kreuz informiert die kantonalen Gesundheitsdirektionen über alle wichtigen, den Kanton betreffenden Weisungen und Massnahmen.
+
+#### Ziff. 3
+
+**Aufgaben der Kantone**
+
+<sup>Ziff. 3.1.</sup> Die Kantone decken im Rahmen ihres Budgets die Kosten der Tätigkeit des Schweizerischen Roten Kreuzes, die sich aus dem Vollzug dieser Vereinbarung ergeben, soweit diese Kosten nicht durch Bundesbeiträge sowie durch die Eigenleistungen des Schweizerischen Roten Kreuzes gemäss Ziff. 2.11 gedeckt werden.
+
+<sup>Ziff. 3.2.</sup> Die Kantone anerkennen die vom Schweizerischen Roten Kreuz unterzeichneten und registrierten Diplome und Fähigkeitsausweise.
+
+<sup>Ziff. 3.3.</sup> Das Schweizerische Rote Kreuz ist an den Sitzungen des Vorstandes sowie an den Jahresversammlungen und Arbeitstagungen der Schweizerischen Sanitätsdirektorenkonferenz mit beratender Stimme vertreten.
+
+<sup>Ziff. 3.4.</sup> Die Kantone unterbreiten dem Schweizerischen Roten Kreuz die Entwürfe von Erlassen betreffend die Ausbildung in den Berufen gemäss Ziff. 1.1 zur vorgängigen Stellungnahme.
+
+<sup>Ziff. 3.5.</sup> Die Kantone übermitteln dem Schweizerischen Roten Kreuz den Text von Erlassen, welche den Bereich der vorliegenden Vereinbarung betreffen.
+
+#### Ziff. 4
+
+**Kündigung**
+
+<sup>1</sup> Diese Vereinbarung kann durch die Kantone oder das Schweizerische Rote Kreuz, bei einer Kündigungsfrist von einem Jahr, jeweils auf Ende eines Kalenderjahres gekündigt werden.
+
+#### Ziff. 5
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Vereinbarung tritt nach Annahme durch die zuständigen Organe des Schweizerischen Roten Kreuzes und durch die Kantone in Kraft.
+
+#### Ziff. 6
+
+<sup>1</sup> Diese Vereinbarung wurde von der Schweizerischen Sanitätsdirektorenkonferenz anlässlich ihrer Versammlung vom 20. Mai 1976 und vom Direktionsrat des Schweizerischen Roten Kreuzes anlässlich seiner Sitzung vom 28. April 1976 genehmigt.
+
+Schweizerische Sanitätsdirektorenkonferenz
+
+Der Präsident: Dr. K. Kennel
+
+Der Sekretär: Dr. P. Hess
+
+Schweizerisches Rotes Kreuz
+
+Der Präsident: Prof. Dr. H. Haug
+
+Der Zentralsekretär: Dr. H. Schindler
+
+Vom Regierungsrat des Kantons Basel-Stadt genehmigt
+
+Basel, den 10. Mai 1977
+
+Der Präsident: sig. Dr. L. Burckhardt
+
+Der Staatsschreiber: sig. Dr. R. Frei
+
+? 28.04.1976

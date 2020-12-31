@@ -1,0 +1,48 @@
+---
+canton: BS
+number: "869.301"
+title: Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten eines Wohn- und Freizeitheimes des Christlichen Vereins junger Frauen Basel am Spalentorweg 10
+language: de
+version: 1964-01-31
+version_adopted: 1964-01-31
+adopted: 1964-01-31
+in_force: 1964-01-31
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/869.301"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4175/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten eines Wohn- und Freizeitheimes des Christlichen Vereins junger Frauen Basel am Spalentorweg 10
+
+Wohn- und Freizeitheim des CVJF: GRB | Heime / Alterswohnungen / Behindertenhilfe
+
+Vom 31. Januar 1964 (Stand 31. Januar 1964)
+
+Der Grosse Rat des Kantons Basel-Stadt, auf den Antrag des Regierungsrates, beschliesst:
+
+¹ Dem Christlichen Verein junger Frauen Basel wird ein Staatsbeitrag von 30% der Baukosten bis zu Fr. 172'500.–[^ingress-1] für die Erstellung eines Wohn- und Freizeitheimes am Spalentorweg 10 zu Lasten der laufenden Rechnung bewilligt.
+
+² An die Subventionierung werden folgende Bedingungen geknüpft:
+
+\1. Ein Beamter des Amtes für Bausubventionen und Zivilschutzbau ist in die Baukommission zu wählen.
+
+\2. Dem Regierungsrat ist die Befugnis einzuräumen, einen Delegierten in den Vorstand abzuordnen.
+
+\3. Soweit an der Verwaltung des Heimes Anstand zu nehmen ist, wird dies der Leitung durch den Regierungsrat zur Kenntnis gebracht. Bei schweren Verstössen gegen die übernommenen Bedingungen, insbesondere bei Zweckentfremdung des Heims, kann der Regierungsrat die Rückzahlung des Staatsbeitrages verlangen. Zur Sicherstellung der Rückzahlung des Staatsbeitrages ist im Grundbuch ein entsprechendes Grundpfandrecht einzutragen.
+
+\4. In konfessionell geführten Heimen sind auch andersdenkende Personen aufzunehmen, wenn Plätze nicht mit Angehörigen der Konfession des Heims, welche die Aufnahmebedingungen erfüllen, besetzt werden können.
+
+\5. Die Arbeiten sind aufgrund von Konkurrenzofferten so weit als möglich an die im Preise günstigste Firma zu vergeben, die ihren Sitz im Kanton Basel-Stadt und die sich unterschriftlich zur Einhaltung der Gesamtarbeitsverträge verpflichtet hat und diese nachweisbar einhält.
+
+\6. Dem Kanton ist einVorkaufsrecht im Sinne von Art. 681 des Zivilgesetzbuches für die Liegenschaft, das Mobiliar und Inventar einzuräumen und durch Eintrag im Grundbuch sicherzustellen.
+
+\7. Die Jahresrechnung des Heims ist jeweilen dem Wirtschafts- und Sozialdepartement einzureichen.
+
+\8. Dem Verein wird das Recht eingeräumt, sich durch Rückzahlung des Staatsbeitrages von den Subventionsbedingungen zu lösen.
+
+Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
+
+[^ingress-1]: Mit GRB vom 26. 2. 1970 (Kantonsblatt 1970 I, S. 125) ist ein zusätzlicher Beitrag von Fr. 25'875.– bewilligt worden.
+
+KB 05.02.1964

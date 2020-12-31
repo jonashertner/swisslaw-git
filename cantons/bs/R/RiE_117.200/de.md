@@ -1,0 +1,96 @@
+---
+canton: BS
+number: RiE 117.200
+title: Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Riehen und Bettingen
+language: de
+version: 1956-08-23
+version_adopted: 1956-03-14
+adopted: 1956-03-14
+in_force: 1956-08-23
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20117.200"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3119/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vertrag betreffend Verlegung der Gemeindegrenze zwischen den Gemeinden Riehen und Bettingen
+
+Gemeindegrenze Riehen/Bettingen: Vertrag | Riehen: Einwohnergemeinde[^t-1][^t-2]
+
+Vom 14. März 1956 (Stand 23. August 1956)
+
+Zwischen
+
+der *Einwohnergemeinde Riehen*, vertreten durch den Gemeinderat, handelnd im Einverständnis des Weiteren Gemeinderates (Beschlussvom 16. Mai 1956), unter Vorbehalt der Zustimmung des Grossen Rates des Kantons Basel-Stadt,
+
+und
+
+der *Einwohnergemeinde Bettingen*, vertreten durch den Gemeinderat, handelnd gemäss Beschluss der Gemeindeversammlung vom 6. Dezember1955, unter Vorbehalt der Zustimmung des Grossen Rates des Kantons Basel-Stadt, wird Folgendes vereinbart:
+
+[^t-1]: Vom Weiteren Gemeinderat genehmigt am 16. 5. 1956.
+[^t-2]: Dieser Erlass trägt ein Doppeldatum: 29. 11. 1955/14. 3. 1956. Aus softwaretechnischen Gründen kann hier nur ein Datum wiedergegeben werden.
+
+#### Artikel 1
+
+<sup>1</sup> Die Gemeindegrenze zwischen der Gemeinde Riehen und der Gemeinde Bettingen wird gemäss dem Grenzbereinigungsplan des Vermessungsamtes Basel-Stadt vom 1. März 1956 verlegt.
+
+#### Artikel 2
+
+<sup>1</sup> Von Seiten der Einwohnergemeinde Riehen wird zur Vereinigung mit dem Gebiet der Gemeinde Bettingen abgetreten:
+
+- 1\. die im Grenzbereinigungsplan vom 1. März 1956 mit A bezeichnete und rot bemalte Fläche, haltend 148,5 m²;
+- 2\. die im oben genannten Plan mit B bezeichnete und rot bemalte Fläche, haltend 359,5 m².
+
+#### Artikel 3
+
+<sup>1</sup> Von Seiten der Einwohnergemeinde Bettingen wird zur Vereinigung mit dem Gebiet der Gemeinde Riehen abgetreten:
+
+die im Grenzbereinigungsplan vom 1. März 1956 mit C bezeichnete und mit gelber Farbe hervorgehobene Fläche, haltend 481,0 m².
+
+#### Artikel 4
+
+<sup>1</sup> Die Flächendifferenz von 27 m² wird der Gemeinde Riehen für die nächste Grenzbereinigung mit der Gemeinde Bettingen gutgeschrieben. Mit Rücksicht darauf, dass die Gemeinde Bettingen mit der Fläche C (gelb) einen Bauplatz an Riehen abtritt, wird die Gemeinde Bettingen bei der nächsten Grenzregulierung, wenn möglich, ein Baugrundstück zugeteilt erhalten.
+
+#### Artikel 5
+
+<sup>1</sup> Die Vermarkung der neuen Gemeindegrenze erfolgt durch das Vermessungsamt des Kantons Basel-Stadt. Die Vermarkungskosten werden von den Parteien je zur Hälfte getragen.
+
+#### Artikel 6
+
+<sup>1</sup> Die Bereinigung der Grundbuchpläne erfolgt von Amtes wegen aufgrund des Grenzbereinigungsplanes des Vermessungsamtes vom 1. März 1956.
+
+<sup>2</sup> Der Regierungsrat von Basel-Stadt wird mit der Anmeldung des Mutationsplanes beauftragt und das Grundbuchamt zu den nötigen Eintragungen ermächtigt.
+
+Bettingen, den 29. November 1955
+
+Für die Einwohnergemeinde Bettingen:
+
+Der Präsident: W. Senn
+
+Der Gemeindeschreiber: W. Nebiker
+
+Von der Einwohnergemeindeversammlung genehmigt:
+
+Bettingen, den 6. Dezember 1955
+
+Riehen, den 14. März 1956
+
+Für die Einwohnergemeinde Riehen: Gemeinderat Riehen
+
+Der Präsident: W. Wenk
+
+Der Gemeindeschreiber: R. Schmid
+
+Vom Weiteren Gemeinderat genehmigt:
+
+Riehen, den 16. Mai 1956
+
+Vom Regierungsrat des Kantons Basel-Stadt genehmigt:
+
+Basel, den 22. Juni 1956
+
+Vom Grossen Rat genehmigt:
+
+Basel, den 6. Juli 1956
+
+KB 11.07.1956

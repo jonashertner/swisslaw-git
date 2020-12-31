@@ -1,0 +1,92 @@
+---
+canton: BS
+number: "123.410"
+title: Verordnung betreffend die Umsetzung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
+language: de
+version: 2010-01-01
+version_adopted: 2009-05-05
+adopted: 2009-05-05
+in_force: 2010-01-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/123.410"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/2804/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung betreffend die Umsetzung des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen
+
+Gewalt anlässlich von Sportveranstaltungen | Innere Sicherheit
+
+Vom 5. Mai 2009 (Stand 1. Januar 2010)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf Art. 4, 6, 8, 9 und 13 des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen vom 15. November 2007[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: SG [123.400](https://www.gesetzessammlung.bs.ch/data/123.400/de).
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Die vorliegende Verordnung bezweckt die Umsetzung der Vorgaben gemäss des Konkordats über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen, namentlich die Bezeichnung der zuständigen kantonalen Behörden sowie der richterlichen Instanz bei den Massnahmen:
+
+- a) Rayonverbot;
+- b) Meldeauflage;
+- c) Polizeigewahrsam.
+
+#### § 2
+
+**Rayonverbot**
+
+<sup>1</sup> Für die Festlegung der verschiedenen Rayons im Kantonsgebiet (genau umschriebenes Gebiet im Umfeld von Sportveranstaltungen) ist die Kantonspolizei zuständig. Sofern nicht ausschliesslich Kantonsgebiet betroffen ist, legt sie die verschiedenen Rayons in Zusammenarbeit mit der zuständigen Behörde des Kantons Basel-Landschaft fest.
+
+<sup>2</sup> Zuständig für die Anordnung eines Rayonverbots ist die Kantonspolizei, sofern die vom Rayonverbot betroffene Person ihren Wohnsitz im Kantonsgebiet hat oder auf Kantonsgebiet an der Gewalttätigkeit beteiligt war.
+
+<sup>3</sup> Ist die Gewalttätigkeit im Kanton Basel-Stadt geschehen, hat die nach Abs. 2 zuständige kantonale Behörde in jedem Fall Vorrang. Sie hat jedoch die zuständige Behörde des Wohnsitzkantons der betroffenen Person umgehend über das auferlegte Rayonverbot zu informieren.
+
+<sup>4</sup> Die Kantonspolizei meldet dem Bundesamt für Polizei, Hauptabteilung Dienst für Analyse und Prävention, die auf dem Kantonsgebiet festgelegten Rayons und übermittelt auch die entsprechenden Pläne. Sie meldet jegliche zukünftige Änderung resp. Anpassung der Rayons und übermittelt auch die entsprechend geänderten resp. angepassten Pläne.
+
+#### § 3
+
+**Meldeauflage**
+
+<sup>1</sup> Für die Verfügung einer Meldeauflage ist die Kantonspolizei zuständig, sofern die von der Meldeauflage betroffene Person ihren Wohnsitz im Kantonsgebiet hat.
+
+<sup>2</sup> Die Kantonspolizei berücksichtigt bei der Bestimmung von Meldeort und Meldezeiten in jedem Fall die persönlichen Umstände der von der Meldeauflage betroffenen Person. Nach Möglichkeit bestimmt die Kantonspolizei als Meldestelle die Polizeistelle am Wohnort der von der Meldeauflage betroffenen Person.
+
+<sup>3</sup> Kann sich die von der Meldeauflage betroffene Person aus wichtigen und belegbaren Gründen nicht ordnungsgemäss bei der zuständigen Polizeistelle melden, muss sie diese unverzüglich und unter Bekanntgabe ihres Aufenthaltsortes informieren. Die zuständige Polizeistelle überprüft daraufhin umgehend den Aufenthaltsort und die Angaben der betroffenen Person.
+
+<sup>4</sup> Die Kantonspolizei meldet dem Bundesamt für Polizei, Hauptabteilung Dienst für Analyse und Prävention, die auf dem Kantonsgebiet verfügten resp. wieder aufgehobenen Meldeauflagen. Sie meldet jegliche Verstösse gegen angeordnete Meldeauflagen sowie die entsprechenden Strafentscheide.
+
+#### § 4
+
+**Polizeigewahrsam**
+
+<sup>1</sup> Für die Anordnung des Polizeigewahrsams ist die Kantonspolizei zuständig, sofern die von der Massnahme betroffene Person ihren Wohnsitz im Kantonsgebiet hat oder sofern die Gewalttätigkeit auf Kantonsgebiet befürchtet wird. Die Kantonspolizei muss in ihrer Verfügung auf das Recht, den Freiheitsentzug richterlich überprüfen zu lassen, hinweisen. Sie muss weiter darauf hinweisen, dass die Betroffene oder der Betroffene innert 5 Tagen den Antrag auf richterliche Überprüfung des Freiheitsentzugs stellen muss.
+
+<sup>2</sup> Wird die Gewalttätigkeit auf Kantonsgebiet befürchtet, hat die nach Abs. 1 zuständige kantonale Behörde in jedem Fall Vorrang.
+
+<sup>3</sup> Die Kantonspolizei muss den angeordneten Polizeigewahrsam unverzüglich beenden, wenn seine Voraussetzungen weggefallen sind, spätestens jedoch in jedem Fall nach 24 Stunden.
+
+<sup>4</sup> Die von der Massnahme betroffene Person muss sich zum bezeichneten Zeitpunkt bei der Polizeistelle ihres Wohnortes oder bei einer anderen in der entsprechenden Anordnungsverfügung genannten Polizeistelle einfinden und hat für die Dauer der Massnahme dort zu bleiben. Erscheint die von der Massnahme betroffene Person nicht bei der bezeichneten Polizeistelle, so kann die Kantonspolizei sie polizeilich der bezeichneten Stelle zuführen.
+
+<sup>5</sup> Die für den Vollzug des Polizeigewahrsams bezeichnete Polizeistelle benachrichtigt die verfügende Polizeistelle über die die Durchführung des Gewahrsams. Bei Fernbleiben der betroffenen Person erfolgt die Benachrichtigung umgehend, damit die polizeiliche Zuführung gemäss Abs. 4 unverzüglich vollzogen werden kann.
+
+<sup>6</sup> Die von der Massnahme betroffene Person kann beantragen, dass die Rechtmässigkeit ihres Freiheitsentzuges richterlich zu überprüfen sei.
+
+<sup>7</sup> Zuständig für die Überprüfung der Rechtmässigkeit des Polizeigewahrsams ist das Verwaltungsgericht.
+
+<sup>8</sup> Die Kantonspolizei meldet dem Bundesamt für Polizei, Hauptabteilung Dienst für Analyse und Prävention, die auf dem Kantonsgebiet verfügten resp. wieder aufgehobenen Polizeigewahrsame. Sie meldet jegliche Verstösse gegen angeordnete Polizeigewahrsame sowie die entsprechenden Strafentscheide.
+
+#### § 5
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Verfügungen gemäss §§ 2 und 3 dieser Verordnung kann die betroffene Person Rekurs erheben. Die einschlägigen Bestimmungen des Organisationsgesetzes sowie des Verwaltungsrechtspflegegesetzes sind analog anwendbar.
+
+Diese Verordnung ist zu publizieren; sie wird gleichzeitig mit dem Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungenvom 15. November 2007 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Einführung des Bundesgesetzes über Massnahmen zur Wahrung der inneren Sicherheit vom 12. Dezember 2006 aufgehoben.
+
+KB 13.01.2010

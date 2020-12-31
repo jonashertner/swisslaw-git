@@ -1,0 +1,63 @@
+---
+canton: BS
+number: "782.420"
+title: Verordnung betreffend Strassenmusik und Strassenkunst
+language: de
+version: 2020-07-01
+version_adopted: 2020-05-05
+adopted: 2012-01-10
+in_force: 2012-03-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/782.420"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4960/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung betreffend Strassenmusik und Strassenkunst
+
+Strassenmusik und -kunst: Verordnung | Lärmschutz
+
+Vom 10. Januar 2012 (Stand 1. Juli 2020)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf §§ 5 und 11 des Übertretungsstrafgesetzes (ÜStG) vom 13. Februar 2019[^ingress-1] sowie auf § 17 der Verordnung über den Strassenverkehr (Strassenverkehrsverordnung, StVO) vom 17. Mai 2011[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: SG [253.100](https://www.gesetzessammlung.bs.ch/data/253.100/de)
+[^ingress-2]: SG [952.200](https://www.gesetzessammlung.bs.ch/data/952.200/de)
+
+#### § 1
+
+<sup>1</sup> Die Darbietung von Strassenmusik bzw. von Strassenkunst, das heisst das mit einer Geldsammlung verbundene Musizieren oder Darbieten von Strassenkunst durch Einzelpersonen oder Gruppen bis maximal vier Personen ist auf dem Gebiet der Stadt Basel nur zu folgenden Zeiten gestattet: Montag bis Samstag, 11.00–12.30 Uhr; 16.00–20.30 Uhr.
+
+<sup>1<sup>bis</sup></sup> Die Darbietung von Strassenmusik bzw. von Strassenkunst in Gruppen von mehr als vier Personen richtet sich nach dem NöRG.
+
+<sup>2</sup> An Sonn- und Feiertagen ist die Darbietung von Strassenmusik bzw. von Strassenkunst verboten mit Ausnahme der verkaufsoffenen Sonntage von 13.00–18.30 Uhr.
+
+<sup>3</sup> Die Darbietungen dürfen erst zur vollen Stunde innerhalb der bewilligten Zeiten beginnen und müssen nach maximal 30 Minuten beendet werden. Zwischen der halben und der vollen Stunde sind Darbietungen verboten.
+
+#### § 2
+
+<sup>1</sup> Am gleichen Ort darf pro Tag und darbietende Einheit nicht mehr als eine halbe Stunde Strassenmusik bzw. -kunst dargeboten werden. Der darauffolgende neue Spielort muss ausserhalb der Hörweite (Radius) des vorangegangenen Spielortes und/oder anderer Darbietungen liegen.
+
+#### § 3
+
+<sup>1</sup> An den Haltestellen der öffentlichen Verkehrsmittel ist das Musizieren bzw. die Darbietung von Strassenkunst gänzlich verboten. In der Nähe von Boulevard-Restaurationsbetrieben bedarf es zur Ausübung von Strassenmusik bzw. von Strassenkunst der ausdrücklichen Zustimmung der verantwortlichen betrieblichen Fachperson.
+
+#### § 4
+
+<sup>1</sup> Lautstarke Instrumente (wie z.B. laut gespielte Schlag- und Blasinstrumente), überlauter Gesang sowie elektronische Tonverstärker sind nicht zulässig.
+
+#### § 5
+
+<sup>1</sup> Die Polizei ist befugt, Strassenmusizierende oder Strassenkünstlerinnen und -künstler wegzuweisen, wenn sie sich nicht an diese Vorschriften halten oder wenn deren Spielweise resp. Lautstärke zu berechtigten Klagen Anlass geben. Ebenso kann die Polizei Personen wegweisen, wenn deren Darbietung zu einer Menschenansammlung mit Verkehrsbehinderung führt.
+
+#### § 6
+
+<sup>1</sup> Zuwiderhandlungen gegen diese Verordnung werden nach den einschlägigen Bestimmungen des Übertretungsstrafgesetzes bestraft.
+
+Diese Verordnung ist zu publizieren; sie wird am 1. März 2012 wirksam. Auf den gleichen Zeitpunkt wird die Verordnung betreffend Strassenmusik und Strassenkunst vom 18. Mai 2010 aufgehoben.
+
+KB 14.01.2012

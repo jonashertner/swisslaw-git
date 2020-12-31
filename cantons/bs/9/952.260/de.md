@@ -1,0 +1,104 @@
+---
+canton: BS
+number: "952.260"
+title: Reglement über Wunschkontrollschilder
+language: de
+version: 2010-08-01
+version_adopted: 2010-07-23
+adopted: 2010-07-23
+in_force: 2010-08-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/952.260"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6805/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über Wunschkontrollschilder
+
+Wunschkontrollschilder: Reglement | Strassenverkehr
+
+Vom 23. Juli 2010 (Stand 1. August 2010)
+
+Die Kantonspolizei Basel-Stadt,
+
+gestützt auf § 40 Buchstabe A Ziff. 14 lit. b der Verordnung über den Strassenverkehr vom 7. Dezember1964[^ingress-1],
+
+erlässt zur Regelung der Abgabe von Wunschkontrollschildern folgendes Reglement:
+
+[^ingress-1]: Massgebend ist jetzt die Strassenverkehrsverordnung vom 17. Mai 2011 (SG [952.200](https://www.gesetzessammlung.bs.ch/data/952.200/de)) § 23 Abs. 1 Buchstabe A Ziff. 13c.
+
+#### § 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Reglement regelt das amtliche Verfahren zur Abgabe von Baselstädtischen Wunschkontrollschildern.
+
+#### § 2
+
+**Grundsatz**
+
+<sup>1</sup> Wunschkontrollschilder bleiben Eigentum der Behörde. Bei den Wunschkontrollschildern wird lediglich die Bezugs- und Nutzungsberechtigung für ein bestimmtes Kontrollschild erworben.
+
+<sup>2</sup> Als Wunschkontrollschilder gelten Kontrollschilder mit weissem Grund für Motorwagen und Motorräder.
+
+#### § 3
+
+**Berechtigung**
+
+<sup>1</sup> Im Rahmen der Verfügbarkeit und innerhalb des für die entsprechende Schilderkategorie festgelegten Zahlenbereiches kann sich jede Person gegen eine besondere Gebühr ein Kontrollschild gemäss Liste zuteilen lassen, bzw. sein bisheriges Kontrollschild dagegen austauschen.
+
+#### § 4
+
+**Zuteilung der Kontrollschilder**
+
+<sup>1</sup> Die Kantonspolizei Basel-Stadt bestimmt, welche Kontrollschildnummern als Wunschkontrollschilder angeboten werden, und legt den Mindestpreis fest.
+
+<sup>2</sup> Der Schilderbereich für Taxi (BS 1001–1999) und für befristete Schilder (BS 7001–9999) sind als Wunschkontrollschilder ausgenommen.
+
+<sup>3</sup> Die aktuelle Liste der für die Zuteilung gemäss § 3 verfügbaren Wunschkontrollschilder kann bei der Motorfahrzeugkontrolle eingesehen werden.
+
+#### § 5
+
+**Kontrollschilderbezug**
+
+<sup>1</sup> Nach der Bestimmung des Wunschkontrollschildes stellt die Motorfahrzeugkontrolle die Rechnung für den Aufpreis zu.
+
+<sup>2</sup> Der Aufpreis ist innert dreissig Tagen nach Rechnungsstellung einzuzahlen.
+
+<sup>3</sup> Die Schilderherausgabe und die Inverkehrsetzung eines Motorfahrzeugs mit den Kontrollschildern erfolgt frühestens nach Zahlungseingang des Aufpreises. Zusätzlich sind die ordentlichen Zulassungsgebühren (Ausweis, Kontrollschild, Verkehrssteuer) geschuldet. Die Rechnung dafür wird nach Erledigung des Geschäftsfalles zugestellt resp. ausgehändigt.
+
+#### § 6
+
+**Übertragung von Wunschkontrollschildern auf andere Halterinnen oder Halter**
+
+<sup>1</sup> Für die Übertragung von Wunschkontrollschildern auf andere Halterinnen oder Halter gelten die üblichen kantonalen Bestimmungen.
+
+#### § 7
+
+**Nichtbezug**
+
+<sup>1</sup> Wird der Aufpreis nicht innert dreissig Tagen nach Rechnungsstellung bezahlt oder wird nicht innerhalb von sechzig Tagen seit Rechnungsstellung ein Motorfahrzeug auf das entsprechende Wunschkontrollschild eingelöst, so erlischt die Bezugs- und Nutzungsberechtigung und das Kontrollschild wird wieder der Liste der verfügbaren Wunschkontrollschilder zugeführt.
+
+<sup>2</sup> Bei Nichtbezug des Wunschkontrollschildes wird der allfällig bereits bezahlte Aufpreis nach Abzug einer Umtriebsentschädigung von CHF 100 zurückerstattet.
+
+#### § 8
+
+**Kontrollschild-Deponierung**
+
+<sup>1</sup> Wird ein Fahrzeug mit Wunschkontrollschildern ausser Verkehr gesetzt und werden die Schilder deponiert, so bleiben sie für die Halterin oder den Halter ein Jahr reserviert. Die Deponierungsfrist kann auf schriftliches Gesuch hin ein Mal um höchstens eine Periode verlängert werden. Wird innerhalb dieser Frist kein Fahrzeug auf das Wunschkontrollschild inVerkehr gesetzt, so erlischt die Nutzungsberechtigung und das Kontrollschild wird erneut der Liste der verfügbaren Wunschkontrollschilder zugeführt. Der Aufpreis wird – auch nicht anteilmässig – nicht rückerstattet.
+
+#### § 9
+
+**Kontrollschild-Verlust**
+
+<sup>1</sup> Verlorene oder abhanden gekommene Kontrollschilderpaare sowie ein verlorenes oder sonst wie abhanden gekommenes Motorradschild werden polizeilich ausgeschrieben und für die Dauer von fünf Jahren gesperrt. Es besteht kein Anspruch auf gleichwertigen Ersatz oder auf Rückerstattung des Aufpreises. Nach Ablauf der Sperrfrist besteht während eines Jahres das Recht auf Wiedererteilung.
+
+<sup>2</sup> Bei Verlust eines Einzelschildes bei Kontrollschilderpaaren kann dieses Schild einmal nachbestellt werden. Bei nochmaligem Schildverlust kann kein weiteres Schild mehr bestellt werden und die Schilder werden für die Dauer von fünf Jahren gesperrt. Es besteht kein Anspruch auf gleichwertigen Ersatz oder auf Rückerstattung des Aufpreises. Nach Ablauf der Sperrfrist besteht während eines Jahres das Recht auf Wiedererteilung.
+
+#### § 10
+
+**Schlussbestimmung**
+
+<sup>1</sup> Dieses Reglement ist zu publizieren; es wird am 1. August 2010 wirksam.
+
+KB 31.07.2010

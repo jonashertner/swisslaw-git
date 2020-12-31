@@ -1,0 +1,74 @@
+---
+canton: BS
+number: BaB 172.900
+title: Testament des Christoph Merian-Burckhardt (Auszug)
+language: de
+version: 1858-08-25
+version_adopted: 1857-03-26
+adopted: 1857-03-26
+in_force: 1858-08-25
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20172.900"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3045/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Testament des Christoph Merian-Burckhardt (Auszug)
+
+Testament des Christoph Merian-Burckhardt | Basel: Bürgergemeinde[^t-1]
+
+Vom 26. März 1857 (Stand 25. August 1858)
+
+In dem Namen Gottes Amen!
+
+Ich Christoph Merian-Burckhardt, Bürger dahier zu Basel, erkläre hiemit, dass ich mich entschlossen, auf mein Gottgefälliges Absterben hin ein Testament zu errichten, da ich weder in aufsteigender noch absteigender Linie Notherben habe und verordne demnach was folgt, nachdem ich allervorderst meine unsterbliche Seele der Barmherzigkeit Gottes empfohlen haben will.
+
+........
+
+\26. (Abs. 1) ........
+
+(Abs. 2) Bei der Vermögensausscheidung der ehelischen Gesammtmasse ist jedoch zu berücksichtigen, dass ich bereits bei meinen Lebzeiten und zwar in dem vollsten Einverständniss mit meiner innigst geliebten Ehegattin und als Ergebniss sowohl ihres Willens wie des meinigen, und dass wir mithin gemeinschaftlich den Neubau der St. Elisabethenkirche und eines Schulhauses anerboten und bereits in Angriff haben nehmen lassen, da nun dieses Werk nach unserm Willen in Bezug auf Solidität, Schönheit und Ausstattung möglichst vollkommen ausgeführt werden soll, so erkläre ich und empfehle, mein diesfalsiger Wunsch soll, wenn mir nicht vergönnt sein sollte, die Vollendung dieser Baute selbst noch zu erleben, nichts destoweniger auch dann genau durchgeführt und sollen daher die Kosten die darauf zu verwenden sind aus ökonomischen Rücksichten nicht karg und diesem Wunsche widersprechend, zugemessen werden, da mir wesentlich daran liegt, dass das Werk, welches wir dadurch gegründet, in diesem Sinne vollendet werde.
+
+(Abs. 3) Auch ist es notwendig, für die gehörige und entsprechende Unterhaltung dieser Gebäulichkeiten ein Kapital zu gründen, aus dessen Zinsen dieselbe jeweilen bestritten werden kann, und daher soll ein solches nach billigem Ermessen und gutfindendenfalls nach dem Rate Sachverständiger aus dem von mir hinterlassenen ganzen Vermögen der Verwaltung des Kirchen- und Schulgutes zugestellt und diesem speziellen Zwecke gewidmet bleiben.
+
+(Abs. 4) ........
+
+(Abs. 5) Da ich aber durchdrungen bin, von der Dankbarkeit, welche ich Gott für die grosse Gnade und die vielen Wohltaten schuldig bin, die er mir während meines ganzen Lebens hat zufliessen lassen, und ich mich dadurch verpflichtet fühle, sowohl nach meiner selbständigen Überzeugung, als wie auch in übereinstimmender Gesinnung mit meiner lieben Gattin diesen Dank zu beurkunden durch Linderung der Not und des Unglückes, sowie beizutragen zur Förderung des Wohles der Menschen und zur Erleichterung der jeweiligen Durchführung der unserm städtischen Gemeinwesen obliegenden notwendigen, oder allgemeinnützlichen und zweckmässigen Einrichtungen überhaupt, so verordne ich ferner:
+
+\27. Dass die Einsetzung meiner geliebten Ehegattin zur Universalerbin meines hinterlassenen Vermögens nur eine zeitweilige sein solle und dass nach ihrem seligen Hinschiede, das von mir bei meinem Tode hinterlassene Vermögen, über welches ich nicht besonders verfügt habe, eigentümlich zufalle meiner lieben Vaterstadt Basel.
+
+Diese zu meinem Nachlass berufene, meiner geliebten Ehegattin nachgesetzte Haupterbin soll das ihr zufallende Vermögen, mit Inbegriff also meiner sämtlichen Güter im Stadtbann und den angrenzenden Bännen der Gemeinden des Kantons Basellandschaft eigentümlich erhalten, mit der ausdrücklichen und unumstösslichen Bedingung jedoch, dass dasselbe stets von dem übrigen städtischen Vermögen getrennt und für sich bestehend bleiben und besonders verwaltet werden soll, für die Unterstützung der städtischen Armenhäuser und für andere städtische Zwecke überhaupt verwendet und dieser ihm von mir hiemit gegebenen Bestimmung, sowie der Stadtgemeinde Basel nie entzogen werden darf.
+
+Die Güter sollen wegen der Sicherheit, die sie als Anlage gewähren, beibehalten und nie verkauft werden.
+
+Es soll daher vom löblichen Stadtrate eine besondere Kommission[^ingress-1] aufgestellt werden, die unter der bei allen Kommissionen üblichen Oberaufsicht des Stadtrates und E. E. grossen Stadtrates die Verwaltung dieser Stiftung besorgen wird.[^ingress-2]
+
+........
+
+Das erforderliche Verwaltungspersonal soll aus dem Ertrage dieses Vermögens auf angemessene Art bezahlt werden.
+
+Mein Wille ist es, dass das Capital ganz erhalten werde, und nur die Zinsen und der Ertrag der Güter für wohltätige und nützliche städtische Zwecke jährlich verwendet werden sollen, was auch bei grössern Unternehmungen durch Verteilung der Ausgaben oder durch allmähliche Amortisation aus dem Ertrage der Stiftung erzielt werden kann.
+
+In der Hoffnung, dass E. E. Stadtrat[^ingress-3] jeweilen in dem Sinne und Geiste der Beweggründe, die mich zu dieser Erbeinsetzung bestimmt haben, handeln werde, und die Schwierigkeiten nicht verkennend, welche spezielle Vorschriften, namentlich im Verlaufe der Zeit hervorrufen, und selbst bessere und zeitgemässere Verwendung der Mittel vereiteln könnten, enthalte ich mich der Vorzeichnung aller weitern Bedingungen und wünsche nur, dass diese Stiftung auch noch spätern Generationen durch Gottes Segen und die Einsicht der Behörden zum Nutzen und Frommen dienen möge.
+
+........
+
+28.[^ingress-4]
+
+........
+
+Basel, den 26. März 1857
+
+sig. Chr. Merian-Burckhardt
+
+als Testierer
+
+(vor Dr. Rud. Schmid, Notar)
+
+[^t-1]: Publiziert am 25. 8. 1858.
+[^ingress-1]: Gemäss vorläufiger Erbteilungsübereinkunft vom 16. 5. 1859 zwischen dem gesetzlichen Vertreter der Frau Wwe Marg. Merian-Burckhardt und dem Basler Stadtrat ist es der Wunsch von Frau Witwe Merian, «dass bei Aufstellung dieser Kommission auf die jeweilige Verwandtschaft ihrer Erben Rücksicht genommen werden möchte und diese Verwandtschaft wenigstens durch ein oder zwei Mitglieder in dieser Verwaltungskommission jeweilen vertreten sein möchte».
+[^ingress-2]: Nach § 4 lit. a des Ausscheidungsvertrages vom 6. 6. 1876 (SG 172.200) steht die Oberaufsicht den Behörden der Bürgergemeinde zu.
+[^ingress-3]: Jetzt Bürgerrat.
+[^ingress-4]: Ziff. 28 enthält unter anderem ein Vermächtnis von Fr. 500'000.– an soziale Institutionen (Siehe: Ausscheidungsvertrag vom 6. 6. 1876, § 4a; SG 172.200). Im Übrigen hier ohne Bedeutung.
+
+25.08.1858

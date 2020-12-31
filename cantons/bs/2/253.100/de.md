@@ -1,0 +1,328 @@
+---
+canton: BS
+number: "253.100"
+title: Übertretungsstrafgesetz
+short: ÜStG
+language: de
+version: 2020-07-01
+valid_until: 2021-08-31
+version_adopted: 2019-02-13
+adopted: 2019-02-13
+in_force: 2020-07-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/253.100"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4908/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Übertretungsstrafgesetz
+
+Übertretungsstrafgesetz | Kantonales Übertretungsstrafrecht[^t-1]
+
+(ÜStG)
+
+Vom 13. Februar 2019 (Stand 1. Juli 2020)
+
+Der Grosse Rat des Kantons Basel-Stadt,
+
+gestützt auf Art. 335 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937[^ingress-1], nach Einsichtnahme in den Ratschlag des Regierungsrates Nr. [17.1336.01](http://www.grosserrat.bs.ch/de/geschaefte-dokumente/datenbank?such_kategorie=1&content_detail=200109047) vom 27. März 2018 und den Bericht der Justiz-, Sicherheits- und Sportkommission Nr. [17.1336.02](http://www.grosserrat.bs.ch/de/geschaefte-dokumente/datenbank?such_kategorie=1&content_detail=200109047) vom 19. Dezember 2018,
+
+beschliesst:
+
+[^t-1]: Angenommen in der Volksabstimmung vom 24. 11. 2019 mit 21'193 Ja-Stimmen gegen 16'581 Nein-Stimmen.
+[^ingress-1]: SR [311.0](https://db.clex.ch/link/Bund/311.0/de)
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Nach diesem Gesetz wird beurteilt, wer eine Handlung oder Unterlassung begeht, die zur Zeit der Tat in diesem oder einem anderen kantonalen Gesetz oder einer kantonalen Verordnung mit Busse bedroht ist.
+
+<sup>2</sup> Die allgemeinen Bestimmungen dieses Gesetzes finden auf alle Übertretungen des kantonalen Rechts Anwendung, soweit die entsprechenden Erlasse keine abweichenden Vorschriften enthalten.
+
+#### § 2
+
+**Anwendbares Recht**
+
+<sup>1</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches und das Bundesgesetz über das Jugendstrafrecht (Jugendstrafgesetz, JStG) vom 20. Juni 2003 finden auf alle Übertretungen des kantonalen Rechts entsprechende Anwendung, soweit dieses Gesetz oder andere kantonale Erlasse nichts anderes bestimmen.
+
+<sup>2</sup> Die Bestimmungen der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007, der Schweizerischen Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO) vom 20. März 2009 sowie der entsprechenden kantonalen Einführungsgesetze gelten für die Verfolgung und Beurteilung aller Übertretungen des kantonalen Rechts, soweit dieses Gesetz oder andere kantonale Erlasse nichts anderes bestimmen.
+
+## 2. Übertretungstatbestände
+
+#### § 3
+
+**Ungebührliches Verhalten**
+
+<sup>1</sup> Mit Busse wird bestraft, wer durch ihr oder sein Verhalten andere Personen ernsthaft gefährdet oder trotz behördlicher Mahnung in unzumutbarer Weise belästigt oder die öffentliche Sicherheit, Ruhe und Ordnung ernsthaft stört, ohne dass eine andere strafbare Handlung vorliegt.
+
+#### § 4
+
+**Diensterschwerung**
+
+<sup>1</sup> Mit Busse wird bestraft, wer Angehörigen der Kantonspolizei oder anderer Organe mit polizeilichen Kompetenzen die Ausübung ihres Dienstes erschwert oder ihren Anordnungen oder Aufforderungen nicht nachkommt, die sie innerhalb ihrer Befugnisse erlassen, namentlich die Angabe ihrer oder seiner Personalien verweigert oder unrichtige Angaben macht.
+
+#### § 5
+
+**Ruhestörung und Lärm**
+
+<sup>1</sup> Mit Busse wird bestraft, wer trotz behördlicher Mahnung vorsätzlich oder fahrlässig:
+
+- a) an Ruhetagen oder während der Nachtruhe Lärm verursacht. Die Nachtruhe dauert von 23.00 bis 07.00 Uhr;
+- b) an Ruhetagen oder von 22.00 bis 07.00 Uhr ohne Bewilligung im öffentlichen Raum Lautsprecheranlagen oder in elektronischen Geräten verbaute Lautsprecher benutzt;
+- c) an Werktagen in der Zeit von 19.00 Uhr bis zum Beginn der Nachtruhe und von 12.00 bis 13.00 Uhr Haus- und Gartenarbeiten oder landwirtschaftliche Arbeiten verrichtet, die übermässigen Lärm verursachen;
+- d) Lärm verursacht, der über das üblicherweise zu tolerierende Mass am fraglichen Ort oder zur fraglichen Zeit hinausgeht.
+
+#### § 6
+
+**Immissionen**
+
+<sup>1</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig durch vermeidbare Einwirkungen, namentlich Erschütterungen, Staub, Russ, Geruch, Abgase oder Licht, trotz behördlicher Mahnung andere Personen ernsthaft gefährdet oder in unzumutbarer Weise belästigt.
+
+#### § 7
+
+**Missachtung von Benützungsvorschriften und Verboten**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) den behördlichen Vorschriften über das Betreten oder Benützen von allgemein zugänglichen Orten, namentlich Hausordnungen öffentlicher Parkhäuser sowie Haus- und Benützungsordnungen öffentlicher Sport- und Bewegungsanlagen, zuwiderhandelt;
+- b) unbefugt Landungsstege der Schiffe, der Fähren, der Feuerlösch- und Polizeiboote sowie Fischergalgen betritt;
+- c) in öffentlichen Gewässern im Bereich von signalisiertem oder markiertem Badeverbot badet;
+- d) in öffentlichen Gewässern nicht eingelöste Schlauchboote oder Strandboote benutzt oder an Schiffe heranschwimmt;
+- e) von den Brücken in öffentliche Gewässer springt.
+
+#### § 8
+
+**Verrichten der Notdurft**
+
+<sup>1</sup> Mit Busse wird bestraft, wer in bewohntem, öffentlichem oder in bewohntem, allgemein zugänglichem Gebiet die Notdurft ausserhalb sanitärer Einrichtungen verrichtet.
+
+#### § 9
+
+**Betteln**
+
+<sup>1</sup> Mit Busse wird bestraft, wer andere Personen zum Betteln schickt oder als Mitglied einer Bande bettelt.
+
+<sup>2</sup> Die durch Betteln erlangten Vermögenswerte können sichergestellt und eingezogen werden.
+
+#### § 10
+
+**Strassen- und Salonprostitution**
+
+<sup>1</sup> Mit Busse wird bestraft, wer im öffentlichen Raum oder an allgemein zugänglichen Orten ausserhalb der in einer Verordnung bezeichneten Örtlichkeiten (Toleranzzonen):
+
+- a) in der erkennbaren Bereitschaft zur Ausübung der Prostitution potentielle Kundschaft anwirbt oder anzuwerben versucht;
+- b) zum Zweck der Inanspruchnahme von Prostitutionsdienstleistungen mit Personen Kontakt aufnimmt, aufzunehmen versucht oder Prostitutionsdienstleistungen in Anspruch nimmt.
+
+<sup>2</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig durch den Betrieb eines Salons Anwohnerinnen und Anwohner in unzumutbarer Weise belästigt.
+
+#### § 11
+
+**Versammlungen, Demonstrationen und Menschenansammlungen**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) ohne Bewilligung oder trotz behördlichem Verbot bewilligungspflichtige Versammlungen oder Demonstrationen im öffentlichen Raum veranlasst oder durchführt;
+- b) eine die öffentliche Sicherheit und Ordnung gefährdende Menschenansammlung im öffentlichen Raum verursacht;
+- c) den behördlichen Auflagen und Anordnungen, die im Interesse der öffentlichen Sicherheit und Ordnung bei Versammlungen, Demonstrationen und sonstigen Menschenansammlungen im öffentlichen Raum getroffen werden, zuwiderhandelt;
+- d) an Versammlungen, Demonstrationen und sonstigen Menschenansammlungen im öffentlichen Raum Waffen oder Gegenstände, die geeignet sind, Menschen zu gefährden oder Sachen zu beschädigen, mit sich führt. Die Waffen und Gegenstände können sichergestellt und eingezogen werden;
+- e) sich bei bewilligungspflichtigen Versammlungen, Demonstrationen und sonstigen Menschenansammlungen im öffentlichen Raum unkenntlich macht. Die zuständige Behörde kann Ausnahmen bewilligen.
+
+#### § 12
+
+**Öffentliche Veranstaltungen**
+
+<sup>1</sup> Mit Busse wird bestraft, wer eine bewilligungspflichtige öffentliche Veranstaltung ohne Bewilligung durchführt oder den behördlichen Auflagen und Anordnungen zuwiderhandelt.
+
+#### § 13
+
+**Fasnacht**
+
+<sup>1</sup> Mit Busse wird bestraft, wer den polizeilichen Vorschriften über die Fasnacht zuwiderhandelt.
+
+#### § 14
+
+**Beeinträchtigung des öffentlichen Raumes und von öffentlichem und privatem Eigentum**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) den öffentlichen Raum oder öffentliches oder privates Eigentum verunreinigt oder verunstaltet;
+- b) unbefugt im öffentlichen Raum oder an öffentlichem oder privatem Eigentum Werbe- oder Informationsmaterial oder andere Anschläge anbringt oder anbringen lässt oder rechtmässig angebrachte Anschläge beschädigt oder verändert. Versuch und Gehilfenschaft sind strafbar. Das Anschlagmaterial kann sichergestellt und eingezogen werden.
+
+<sup>2</sup> Die Beeinträchtigung privaten Eigentums wird nur auf Antrag verfolgt.
+
+#### § 15
+
+**Beeinträchtigung von Sicherheitsvorrichtungen**
+
+<sup>1</sup> Mit Busse wird bestraft, wer öffentliche oder behördlich vorgeschriebene Alarm-, Notrufs-, Rettungs- oder Schutzvorrichtungen unbefugt verwendet oder ausser Betrieb setzt, entfernt, unbrauchbar macht oder nicht fachgerecht wartet.
+
+#### § 16
+
+**Titelanmassung und unbefugte Berufsausübung**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) sich als Inhaberin oder Inhaber eines akademischen Grades oder Titels bezeichnet, ohne diesen rechtmässig erworben zu haben, oder einen Grad oder Titel verwendet, der den Eindruck erweckt, sie oder er habe einen akademischen Grad oder Titel einer anerkannten oder akkreditierten kantonalen oder interkantonalen Hochschule rechtmässig erworben;
+- b) sich öffentlich als Inhaberin oder Inhaber eines Diploms über eine absolvierte Ausbildung oder Befähigung ausgibt, ohne dieses rechtmässig erworben zu haben;
+- c) ohne erforderliche Bewilligung einen Beruf ausübt, ein Gewerbe oder Handelsgeschäft betreibt oder den behördlichen Auflagen und Anordnungen zuwiderhandelt.
+
+#### § 17
+
+**Salzregal**
+
+<sup>1</sup> Mit Busse bis zum Doppelten der hinterzogenen Regalgebühr wird bestraft, wer den Vorschriften über das Salzregal zuwiderhandelt.
+
+<sup>2</sup> Widerrechtlich gewonnenes, eingeführtes oder in den Handel gebrachtes Salz kann sichergestellt und eingezogen werden.
+
+#### § 18
+
+**Parkieren auf Privatboden**
+
+<sup>1</sup> Mit Busse wird bestraft, wer ohne Berechtigung Fahrzeuge auf Privatboden abstellt.
+
+<sup>2</sup> Parkieren auf Privatboden wird nur auf Antrag verfolgt.
+
+#### § 19
+
+**Halten von gefährlichen Tieren**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) ohne Bewilligung gefährliche Tiere hält oder den behördlichen Auflagen und Anordnungen zuwiderhandelt;
+- b) vorsätzlich oder fahrlässig gefährliche Tiere nicht angemessen verwahrt oder unter Kontrolle hält oder Vorsichtsmassnahmen unterlässt, zu denen sie oder er nach den Umständen verpflichtet ist, oder nicht sofort Anzeige macht, wenn ihr oder ihm ein solches Tier entwichen ist.
+
+<sup>2</sup> Die urteilende Behörde kann die Einziehung und fachgerechte Unterbringung, Unschädlichmachung oder Tötung des Tieres anordnen.
+
+#### § 20
+
+**Gefährdung und Belästigung durch Tiere**
+
+<sup>1</sup> Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
+
+- a) durch Reizen oder Scheumachen von Tieren eine Gefahr für Menschen, Tiere oder Sachen herbeiführt;
+- b) ein Tier auf Menschen oder andere Tiere hetzt oder pflichtwidrig von einem Angriff auf Menschen oder Tiere nicht abhält;
+- c) als Eigentümerin oder Eigentümer oder als mindestens vorübergehende Halterin oder vorübergehender Halter von Tieren es unterlässt, dafür zu sorgen, dass andere Personen nicht durch Lärm oder anderweitig in unzumutbarer Weise belästigt werden.
+
+#### § 21
+
+**Füttern von frei lebenden Tauben**
+
+<sup>1</sup> Mit Busse wird bestraft, wer frei lebende Tauben füttert.
+
+## 3. Ordnungsbussenverfahren
+
+#### § 22
+
+**Grundsätze**
+
+<sup>1</sup> Geringfügige Übertretungen des kantonalen Rechts werden in einem vereinfachten Verfahren mit Ordnungsbussen geahndet, wenn die Voraussetzungen von § 24 erfüllt sind.
+
+<sup>2</sup> Der Höchstbetrag für eine Ordnungsbusse beträgt Fr. 300.
+
+<sup>3</sup> Vorleben und persönliche Verhältnisse der fehlbaren Person werden nicht berücksichtigt.
+
+<sup>4</sup> Das Ordnungsbussenverfahren ist kostenlos.
+
+#### § 23
+
+**Zuständige Polizeiorgane**
+
+<sup>1</sup> Ordnungsbussen werden durch uniformierte Angehörige der Kantonspolizei erhoben.
+
+<sup>2</sup> Der Regierungsrat kann für bestimmte Übertretungstatbestände Ausnahmen vom Erfordernis der Dienstuniform bestimmen sowie Angehörige von weiteren in einem Gesetz ausdrücklich bezeichneten Organen mit polizeilichen Kompetenzen zur Ordnungsbussenerhebung ermächtigen. Sie haben sich gegenüber der fehlbaren Person unaufgefordert mit einem Dienstausweis zu legitimieren.
+
+#### § 24
+
+**Voraussetzungen**
+
+<sup>1</sup> Das Ordnungsbussenverfahren wird angewendet, wenn:
+
+- a) der betreffende Übertretungstatbestand auf der Ordnungsbussenliste aufgeführt ist;
+- b) eine Angehörige oder ein Angehöriger des zuständigen Polizeiorgans die Widerhandlung selbst festgestellt hat;
+- c) der Sachverhalt tatsächlich sowie rechtlich klar ist;
+- d) die fehlbare Person dieser Erledigung zustimmt; und
+- e) keine Ausnahmen nach § 25 vorliegen.
+
+<sup>2</sup> Die Angehörigen des zuständigen Polizeiorgans haben der fehlbaren Person mitzuteilen, dass sie das Ordnungsbussenverfahren ablehnen kann.
+
+#### § 25
+
+**Ausnahmen**
+
+<sup>1</sup> Das Ordnungsbussenverfahren wird nicht angewendet, wenn:
+
+- a) die fehlbare Person das 15. Altersjahr nicht vollendet hat;
+- b) die fehlbare Person durch die Widerhandlung andere Personen gefährdet oder verletzt oder Sachschaden verursacht hat;
+- c) der fehlbaren Person zusätzlich eine Widerhandlung vorgeworfen wird, die nicht auf der Ordnungsbussenliste aufgeführt ist;
+- d) die fehlbare Person das Ordnungsbussenverfahren für eine oder mehrere der ihr vorgeworfenen Widerhandlungen ablehnt.
+
+#### § 26
+
+**Zusammentreffen mehrerer Übertretungen**
+
+<sup>1</sup> Erfüllt die fehlbare Person durch eine oder mehrere Widerhandlungen mehrere Ordnungsbussentatbestände, werden die Bussen zusammengezählt, und es wird ihr eine Gesamtbusse auferlegt.
+
+<sup>2</sup> Übersteigt die Summe der Gesamtbusse Fr. 600, werden alle Übertretungen im ordentlichen Verfahren beurteilt.
+
+#### § 27
+
+**Bezahlung**
+
+<sup>1</sup> Die fehlbare Person kann die Ordnungsbusse sofort oder innert 30 Tagen (Bedenkfrist) bezahlen. Die Ordnungsbusse wird mit der Bezahlung rechtskräftig.
+
+<sup>2</sup> Bezahlt sie sofort, wird ihr eine Quittung ausgestellt, die ihre Personalien nicht nennt.
+
+<sup>3</sup> Bezahlt sie nicht sofort, hat sie ihre Personalien anzugeben und erhält ein Bedenkfristformular mit Einzahlungsschein, von dem eine Kopie beim zuständigen Polizeiorgan verbleibt. Bezahlt sie innert Frist, wird die Kopie des Bedenkfristformulars vernichtet.
+
+<sup>4</sup> Wird die Busse nicht innert 30 Tagen bezahlt, wird das ordentliche Verfahren durchgeführt.
+
+#### § 28
+
+**Fehlbare Personen ohne Wohnsitz in der Schweiz**
+
+<sup>1</sup> Bezahlt die fehlbare Person, die über keinen Wohnsitz in der Schweiz verfügt, die Ordnungsbusse nicht sofort oder lehnt sie das Ordnungsbussenverfahren ab, hat sie den Bussenbetrag zu hinterlegen oder eine angemessene Sicherheit zu leisten.
+
+<sup>2</sup> Läuft die Bedenkfrist unbenutzt ab oder akzeptiert die fehlbare Person die Ordnungsbusse innerhalb dieser Frist ausdrücklich, wird der hinterlegte Betrag mit der Ordnungsbusse verrechnet. Die Verrechnung gilt als Bezahlung.
+
+#### § 29
+
+**Haftung der Fahrzeughalterin oder des Fahrzeughalters**
+
+<sup>1</sup> Wird die fehlbare Fahrzeugführerin oder der fehlbare Fahrzeugführer nicht anlässlich einer Widerhandlung, die mit einem Fahrzeug begangen wurde, angetroffen oder angehalten, wird die Ordnungsbusse der oder dem im Fahrzeugausweis eingetragenen Fahrzeughalterin oder Fahrzeughalter auferlegt.
+
+<sup>2</sup> Der Fahrzeughalterin oder dem Fahrzeughalter wird die Ordnungsbusse schriftlich eröffnet. Sie oder er kann sie innert 30 Tagen bezahlen. Wird die Busse nicht innert 30 Tagen bezahlt, wird das ordentliche Verfahren durchgeführt.
+
+<sup>3</sup> Nennt die Fahrzeughalterin oder der Fahrzeughalter Name und Adresse der fehlbaren Fahrzeugführerin oder des fehlbaren Fahrzeugführers, wird gegen diese oder diesen das Verfahren nach Abs. 2 eingeleitet.
+
+<sup>4</sup> Kann mit verhältnismässigem Aufwand nicht festgestellt werden, wer die Widerhandlung begangen hat, hat die Fahrzeughalterin oder der Fahrzeughalter die Ordnungsbusse zu bezahlen, es sei denn, sie oder er macht im ordentlichen Strafverfahren glaubhaft, dass das Fahrzeug gegen ihren oder seinen Willen benutzt wurde und dies trotz entsprechender Sorgfalt nicht verhindert werden konnte.
+
+#### § 30
+
+**Sicherstellung und Einziehung**
+
+<sup>1</sup> Mit der Erhebung der Ordnungsbusse werden Gegenstände und Vermögenswerte sichergestellt, die nach diesem Gesetz oder anderen kantonalen Erlassen oder den Art. 69 und 70 des Schweizerischen Strafgesetzbuches eingezogen werden können und mit der betreffenden Widerhandlung in Zusammenhang stehen.
+
+<sup>2</sup> Die sichergestellten Gegenstände und Vermögenswerte gelten mit der Bezahlung der Ordnungsbusse als eingezogen.
+
+#### § 31
+
+**Ordnungsbusse im ordentlichen Verfahren**
+
+<sup>1</sup> Eine Ordnungsbusse kann auch im ordentlichen Verfahren ausgesprochen werden.
+
+#### § 32
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten des Ordnungsbussenverfahrens in einer Verordnung und erstellt namentlich die Liste der Übertretungen, die mit Ordnungsbussen geahndet werden, mit den entsprechenden Bussenbeträgen (Ordnungsbussenliste).
+
+*Schlussbestimmung*
+
+Dieses Gesetz ist zu publizieren; es unterliegt dem Referendum und der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens[^footer-1]. Auf den gleichen Zeitpunkt wird das Übertretungsstrafgesetz vom 15. Juni 1978 aufgehoben.
+
+KB 16.02.2019
+
+[^footer-1]: In Kraft seit 1. 7. 2020.

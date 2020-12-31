@@ -1,0 +1,176 @@
+---
+canton: BS
+number: "154.125"
+title: "Reglement über das Finanz- und Rechnungswesen, das Inkasso- und das Nachzahlungsverfahren der Gerichte"
+short: Finanzreglement
+language: de
+version: 2019-02-28
+valid_until: 2022-04-25
+version_adopted: 2019-01-23
+adopted: 2019-01-23
+in_force: 2019-02-28
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.125"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4621/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über das Finanz- und Rechnungswesen, das Inkasso- und das Nachzahlungsverfahren der Gerichte
+
+Finanzreglement der Gerichte | Gerichte / Staatsanwaltschaft / Strafverfolgungsbehörden
+
+(Finanzreglement)
+
+Vom 23. Januar 2019 (Stand 28. Februar 2019)
+
+Der Gerichtsrat des Kantons Basel-Stadt,
+
+gestützt auf die § 9 Abs. 2 Ziff. 3 des Gesetzes betreffend die Organisation der Gerichte und der Staatsanwaltschaft (Gerichtsorganisationsgesetz) vom 3. Juni 2015[^ingress-1] sowie auf § 2 des Gesetzes über den kantonalen Finanzhaushalt (Finanzhaushaltsgesetz) vom 14. März 2012[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: SG [154.100](https://www.gesetzessammlung.bs.ch/data/154.100/de).
+[^ingress-2]: SG [610.100](https://www.gesetzessammlung.bs.ch/data/610.100/de).
+
+## I. Rechnungswesen
+
+#### § 1
+
+**Zentrales Rechnungswesen der Gerichte**
+
+<sup>1</sup> Für die Buchhaltung und das Rechnungswesen der Gerichte gemäss § 5 Ziff. 1 bis 6 GOG sowie der Schlichtungsstellen des Zivilgerichts und des Appellationsgerichts ist das Rechnungswesen der Gerichte zuständig. Dieses ist dem Appellationsgericht angegliedert.
+
+<sup>2</sup> Das Rechnungswesen richtet sich nach den Bestimmungen des Finanzhaushaltgesetzes.
+
+<sup>3</sup> Das Rechnungswesen der Gerichte erstellt die Jahresrechnungen zuhanden der einzelnen Gerichte. Die einzelnen Gerichte beschliessen über deren Genehmigung und leiten sie an den Gerichtsrat weiter.
+
+<sup>4</sup> Jedes Gericht führt eine eigene Bargeldkasse. Die Gerichte können Vereinbarungen über eine gemeinsame Führung ihrer Bargeldkassen abschliessen.
+
+#### § 2
+
+**Rechnungswesen im Personalbereich**
+
+<sup>1</sup> Das Rechnungswesen im Personalbereich wird in Absprache mit dem Regierungsrat durch die Personalabteilung eines Departements ausgeführt.
+
+## II. Abrechnung und Inkasso der gerichtlichen Verfahren
+
+#### § 3
+
+**Abrechnung der Verfahren**
+
+<sup>1</sup> Die Kanzleien der einzelnen Gerichte sind zuständig für die Abrechnung der Kostenforderungen (Gebühren, Kosten, Bussen, Verpflichtungen und Honorare) in den einzelnen Verfahren.
+
+#### § 4
+
+**Inkasso**
+
+<sup>1</sup> Das Rechnungswesen der Gerichte übernimmt nach erfolgter Rechnungsstellung durch die jeweilige Kanzlei das Inkasso von Gerichtsforderungen für alle Gerichte, soweit dieses nicht anderen Behörden übertragen wird.
+
+<sup>2</sup> Der Gerichtsrat regelt das Inkassoverfahren und den Beizug von Inkassostellen des Kantons durch eine Richtlinie und sorgt für die notwendigen Vereinbarungen.
+
+#### § 5
+
+**Inkasso in Strafverfahren**
+
+<sup>1</sup> Der Gerichtsrat beauftragt gemäss § 44 des Gesetzes über die Einführung der Schweizerischen Strafprozessordnung (EG StPO) vom 13. Oktober 2010 die Inkassostelle des Justiz- und Sicherheitsdepartements mit dem Inkasso von Verfahrenskosten, Geldstrafen, Bussen sowie weiteren im Zusammenhang mit einem Strafverfahren zu erbringenden finanziellen Leistungen in gerichtlichen Strafverfahren.
+
+#### § 6
+
+**Abschreibungen**
+
+<sup>1</sup> Die Gerichte können Abschreibungen von uneinbringlichen Kostenforderungen zulasten ihrer laufenden Rechnung vornehmen.
+
+<sup>2</sup> Der Gerichtsrat legt durch Richtlinie fest, unter welchen Voraussetzungen Abschreibungen vom Rechnungswesen der Gerichte vorgenommen werden können. Darüber hinaus kann er allgemeine Abschreibungsgrundsätze erlassen. Im Rahmen des Inkassos in Strafverfahren bestimmt sich die Frage nach den Richtlinien betreffend das Inkasso von rechtskräftigen unbedingten Geldstrafen, Bussen und Verfahrenskosten.
+
+<sup>3</sup> Die Verwaltungschefin oder der Verwaltungschef des Appellationsgerichts überprüft die vorgenommenen Abschreibungen periodisch.
+
+#### § 7
+
+**Nachträgliche Kostenentscheide**
+
+<sup>1</sup> Das Rechnungswesen der Gerichte und die Inkassostelle des Justiz- und Sicherheitsdepartements leiten Erlassgesuche und Zustimmungen zu einem Nachlassvertrag rechtskräftig auferlegter Kostenforderungen der Gerichte an das jeweils zuständige Gericht weiter.
+
+#### § 8
+
+**Umwandlung von strafrechtlichen Bussen und Geldstrafen**
+
+<sup>1</sup> Die Umwandlung von Strafen nach erfolglosem Inkasso richtet sich nach den Richtlinien an die Inkassostelle des Justiz- und Sicherheitsdepartements betreffend Inkasso von rechtskräftigen unbedingten Geldstrafen, Bussen und Verfahrenskosten.
+
+#### § 9
+
+**Nachzahlung von Leistungen der unentgeltlichen Rechtspflege**
+
+<sup>1</sup> Die Gerichte prüfen in regelmässigen Abständen, ob Parteien, denen die unentgeltliche Rechtspflege oder die amtliche Verteidigung bewilligt worden ist, zur Nachzahlung oder Rückerstattung im Sinne von Art. 123 der Schweizerischen Zivilprozessordnung (Zivilprozessordnung, ZPO) vom 19. Dezember 2008 bzw. Art. 135 Abs. 4 der Schweizerischen Strafprozessordnung (Strafprozessordnung, StPO) vom 5. Oktober 2007 verpflichtet werden können. Das Verfahren wird vom Gerichtsrat durch eine Richtlinie geregelt.
+
+<sup>2</sup> Leisten Parteien entsprechende Nachforderungen nicht freiwillig, wird das Dossier dem zuständigen Gericht zum nachträglichen Entscheid vorgelegt.
+
+<sup>3</sup> Zuständig zur Beurteilung eines Nachforderungsanspruchs aus dem erstinstanzlichen Verfahren wie auch einem kantonalen Rechtsmittelverfahren ist:
+
+- a) in zivilrechtlichen Verfahren: Das Einzelgericht der ersten Instanz,
+- b) in strafrechtlichen Verfahren: Das Strafgericht als Einzelgericht.
+
+<sup>4</sup> Der Entscheid über Nachforderungen gemäss Art. 123 ZPO erfolgt im summarischen Verfahren, jener gemäss Art. 135 Abs. 4 StPO im Verfahren gemäss Art. 363 ff. StPO.
+
+<sup>5</sup> Rückgefordert werden nach Art. 123 ZPO rückzahlbare Kosten nur, soweit diese einer unentgeltlich prozessierenden Partei mit dem Kostenentscheid auferlegt worden sind.
+
+<sup>6</sup> Das Rechtsmittel gegen Nachzahlungsentscheide richtet sich nach den Regeln der ZPO resp. der StPO.
+
+## III. Hinterlegung und Sicherstellung
+
+#### § 10
+
+<sup>1</sup> Das Rechnungswesen der Gerichte verwahrt Vermögenswerte, die in Verfahren der Gerichte als Hinterlegung oder zur Sicherstellung deponiert werden.
+
+## IV. Budgetprozess
+
+#### § 11
+
+**Budgeteingabe**
+
+<sup>1</sup> Die Gerichte reichen ihr Budget entsprechend den Vorgaben des Gerichtsrats der Verwaltungschefin oder dem Verwaltungschef des Appellationsgerichts ein.
+
+#### § 12
+
+**Budgetbeschluss**
+
+<sup>1</sup> Die Verwaltungschefin oder der Verwaltungschef des Appellationsgerichts bereinigt die eingereichten Budgets aufgrund der Vorgabenplanung. Veränderungen gegenüber dem beantragten Budget erfolgen nach Rücksprache mit dem betreffenden Gericht.
+
+<sup>2</sup> Der Gerichtsrat regelt seine Beschlussfassung über das dem Grossen Rat zu unterbreitende Budget der Gerichte.
+
+#### § 13
+
+**Budgetnachträge und Nachtragskredite**
+
+<sup>1</sup> Die Gerichte beantragen dem Gerichtsrat allfällige Budgetnachträge und/oder Nachtragskredite.
+
+<sup>2</sup> Der Gerichtsrat leitet die von ihm beschlossenen Budgetnachträge und/oder Nachtragskredite an den Grossen Rat weiter.
+
+## V. Internes Kontrollsystem
+
+#### § 14
+
+<sup>1</sup> Die Gerichte sorgen in ihrem Verantwortungsbereich für ein dokumentiertes internes Kontrollsystem.
+
+<sup>2</sup> Der Gerichtsrat legt die Grundsätze für ein zweckmässiges internes Kontrollsystem fest.
+
+## VI. Ausgabenbewilligung, Verpflichtung und Verfügung zulasten der Gerichte
+
+#### § 15
+
+**Verpflichtung**
+
+<sup>1</sup> Die Gerichte regeln, welche Mitglieder und Mitarbeitende in welchem Umfang allein oder zu zweien zur Verpflichtung des Gerichts befugt sind.
+
+<sup>2</sup> Die Befugnis zur Verpflichtung des Gerichts in gerichtlichen Verfahren richtet sich nach der gerichtsorganisatorischen Zuständigkeitsordnung.
+
+#### § 16
+
+**Zahlungsauslösungen**
+
+<sup>1</sup> Die Auslösung von Zahlungen zulasten eines Gerichts bedarf eines doppelten Visums. Die einzelnen Gerichte regeln die entsprechenden Berechtigungen.
+
+*Schlussbestimmung*
+
+Dieses Reglement ist zu publizieren; es tritt am fünften Tag nach der Publikation in Kraft.
+
+KB 23.02.2019

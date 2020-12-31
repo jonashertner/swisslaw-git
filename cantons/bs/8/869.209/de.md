@@ -1,0 +1,52 @@
+---
+canton: BS
+number: "869.209"
+title: Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen des Vereins für Kranken- und Hauspflege St. Matthäus am Bläsiring 98
+language: de
+version: 1964-10-08
+version_adopted: 1964-10-08
+adopted: 1964-10-08
+in_force: 1964-10-08
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/869.209"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4173/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Grossratsbeschluss betreffend Gewährung eines Staatsbeitrages an die Erstellungskosten von Alterswohnungen des Vereins für Kranken- und Hauspflege St. Matthäus am Bläsiring 98
+
+Alterswohnungen St. Matthäus: GRB | Heime / Alterswohnungen / Behindertenhilfe
+
+Vom 8. Oktober 1964 (Stand 8. Oktober 1964)
+
+Der Grosse Rat des Kantons Basel-Stadt, auf den Antrag des Regierungsrates, beschliesst:
+
+¹ Dem Verein für Kranken- und Hauspflege St. Matthäus wird ein Staatsbeitrag von 30% der Baukosten bis zu Fr. 122'000.– für die Erstellung von Alterswohnungen am Bläsiring 98 zu Lasten der laufenden Rechnung bewilligt.
+
+² Sollten die nach dem Indexstand zu Beginn des Jahres 1964 berechneten Baukosten eine Steigerung erfahren, so erhöht sich die vorstehende Leistung entsprechend den teuerungsbedingten Mehrkosten.
+
+³ An die Subventionierung werden folgende Bedingungen geknüpft:
+
+\1. Ein Beamter des Amts für Bausubventionen und Zivilschutzbau ist in die Baukommission zu wählen.
+
+\2. Dem Regierungsrat ist die Befugnis einzuräumen, einen Delegierten in den Vorstand abzuordnen.
+
+\3. Anmeldungen von Basler Bürgern oder seit mindestens 15 Jahren im Kantonsgebiet niedergelassenen alten Männern oder Frauen sind in erster Linie zu berücksichtigen. Andere Bewerber können nur aufgenommen werden, wenn keine Anmeldungen von Baslern oder seit 15 Jahren hier niedergelassenen Personen vorliegen. Gesuchen von Behörden des Kantons oder einer Gemeinde um Aufnahme einer Person, welche diese Bedingungen erfüllt, ist nach Möglichkeit zu entsprechen. Ausländer dürfen nur ausnahmsweise und mit ausdrücklicher Zustimmung des staatlichen Delegierten aufgenommen werden.
+
+\4. Soweit an der Verwaltung eines Heims Anstand zu nehmen ist, wird dies der Leitung durch den Regierungsrat zur Kenntnis gebracht. Bei schweren Verstössen gegen die übernommenen Bedingungen, insbesondere bei Zweckentfremdung des Heims, kann der Regierungsrat die Rückzahlung des Staatsbeitrages verlangen. Zur Sicherstellung der Rückzahlung des Staatsbeitrages ist im Grundbuch ein entsprechendes Grundpfandrecht einzutragen.
+
+\5. Die Arbeiten sind aufgrund von Konkurrenzofferten soweit als möglich an die im Preise günstigste Firma zu vergeben, die ihren Sitz im Kanton Basel-Stadt und die sich unterschriftlich zur Einhaltung der Gesamtarbeitsverträge verpflichtet hat und diese nachweisbar einhält.
+
+\6. Die Landkosten, Baukreditzinsen, Gebühren und dergleichen sowie das Mobiliar sind nicht subventionsberechtigt.
+
+\7. Die Verwaltungshonorare richten sich nach den geltenden Ansätzen im sozialen Wohnungsbau und dürfen nicht überschritten werden.
+
+\8. Dem Kanton ist ein Vorkaufsrecht im Sinne von Art. 681 des Zivilgesetzbuches für Liegenschaft, Mobiliar und Inventar einzuräumen und durch Eintragung im Grundbuch sicherzustellen.
+
+\9. Die Jahresrechnung des Heimes ist jeweilen dem Wirtschafts- und Sozialdepartement einzureichen.
+
+\10. Dem Eigentümer wird das Recht eingeräumt, sich durch Rückzahlung des Staatsbeitrages von den Subventionsbedingungen zu lösen.
+
+Dieser Beschluss ist zu publizieren; er unterliegt dem Referendum.
+
+KB 10.10.1964

@@ -1,0 +1,257 @@
+---
+canton: BS
+number: "832.710"
+title: "Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung"
+short: VELG
+language: de
+version: 2021-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-15
+adopted: 1989-12-12
+in_force: 1990-01-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/832.710"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5184/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung betreffend Ergänzungsleistungen und kantonale Beihilfen zur Alters-, Hinterlassenen- und Invalidenversicherung
+
+Ergänzungsleistungen zur AHV/ IV: Verordnung | AHV und IV / Alters- und Invalidenhilfe[^t-1]
+
+(VELG)
+
+Vom 12. Dezember 1989 (Stand 1. Januar 2021)
+
+Der Regierungsrat des Kantons Basel-Stadt,
+
+gestützt auf das Gesetz über die Einführung des Bundesgesetzes über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie über die Ausrichtung von kantonalen Beihilfen (EG/ELG) vom 11. November 1987[^ingress-1],
+
+beschliesst:
+
+[^t-1]: Genehmigt vom Eidgenössischen Departement des Innern am 2. 2. 1990
+[^ingress-1]: SG [832.700](https://www.gesetzessammlung.bs.ch/data/832.700/de).
+
+## I. Berechnungsgrundlagen
+
+### (I.) I. Anerkannte Ausgaben und anrechenbare Einnahmen
+
+[^t-2]
+
+[^t-2]: Softwarebedingte, redaktionelle Einfügung von Gliederungsbuchstaben oder -ziffern.
+
+#### § 1
+
+<sup>1</sup> Die vom Gesetz anerkannten Ausgaben und anrechenbaren Einnahmen berechnen sich nach Art. 10 und 11 ELG und den Art. 11–18 ELV sowie den §§ 4 und 5 EG/ELG.
+
+### (I.)II. Beträge für den allgemeinen Lebensbedarf
+
+#### § 2
+
+**…**
+
+### (I.)III. Mietzins/Nebenkosten
+
+#### § 3
+
+**…**
+
+### (I.)IV. Spitaltaxen
+
+#### § 4
+
+<sup>1</sup> Als Spitalkosten im Bereich der Langzeitpflege gemäss Art. 49 Abs. 4 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994 werden als Ausgaben die anerkannten Kosten nach Massgabe der geltenden Pflegeheimtaxe für Pension und Betreuung in Vertragsheimen sowie der Eigenbeitrag gemäss Art. 25a Abs. 5 KVG für die Pflege berücksichtigt.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+### (I.)V. Heimtaxen
+
+#### § 5
+
+<sup>1</sup> Als Heimtaxen, welche bei der Berechnung von Ergänzungsleistungen berücksichtigt werden, gelten bei Vertragsheimen mit Alterspflege die vom Kanton anerkannten Kosten für Pension und Betreuung sowie der Eigenbeitrag gemäss Art. 25a Abs. 5 KVG für die Pflege, bei gemäss dem Gesetz über die Behindertenhilfe (BHG) vom 14. September 2016 anerkannten Heimen, für Personen mit Behinderung im Sinne von § 4 BHG die Kosten für die nicht personalen Leistungen und für alle übrigen Personen die Kosten für die personalen und nicht personalen Leistungen und bei den übrigen Heimen (Nichtvertragsheime) die als Höchstbetrag festgesetzten Taxen gemäss § 8 dieser Verordnung.
+
+<sup>2</sup> In den Vertragsheimen mit Alterspflege ist für die Berücksichtigung der Taxen ein Pflegebedürftigkeitsnachweis erforderlich. In den anerkannten Heimen ist eine Bewilligung des Leistungsbezugs gemäss § 14 BHG erforderlich.
+
+<sup>3</sup> Versicherungsleistungen für Pflege, Unterkunft und Verpflegung werden als Einkünfte angerechnet, Hilflosenentschädigungen nur, wenn in der Taxe auch die Kosten für die Pflege einer hilflosen Person enthalten sind.
+
+<sup>4</sup> Solange bei vorübergehendem Aufenthalt im Heim der Betrag für den allgemeinen Lebensbedarf anerkannt wird, wird die berücksichtigte Heimtaxe wie beim vorübergehenden Spitalaufenthalt gemäss § 10 der Verordnung über die Vergütung von Krankheits- und Behinderungskosten bei den Ergänzungsleistungen (KBV) vom 18. Dezember 2007 gekürzt.
+
+#### § 6
+
+**Auswärtiger Heimaufenthalt**
+
+<sup>1</sup> Bei ausserkantonalen Heimaufenthalten, welche aus sozialen oder aus medizinisch pflegerischen Gründen bzw. weil (innert zumutbarer Frist) kein geeigneter Heimplatz in Basel-Stadt zur Verfügung steht, erfolgen, kann anstelle der Taxen gemäss § 8 dieser Verordnung, die von der zuständigen Stelle des Heimkantons genehmigte oder in einer interkantonalen Vereinbarung geregelte Taxe berücksichtigt werden. Zuständig zum Entscheid über das Vorliegen der genannten Voraussetzungen ist bei Betagten die Abteilung Langzeitpflege des Gesundheitsdepartements und bei Behinderten die Abteilung Behindertenhilfe des Departements für Wirtschaft, Soziales und Umwelt.
+
+#### § 7
+
+**Urlaub und Spitalaufenthalt**
+
+<sup>1</sup> Bleibt ein Heimplatz bei Urlaub der Heimbewohnerin oder des Heimbewohners frei, findet während höchstens 30 Tagen die Reservationstaxe (Pensionstaxe abzüglich Verpflegungskosten) Berücksichtigung.
+
+<sup>2</sup> Bleibt ein Heimplatz wegen vorübergehenden Spitalaufenthalts frei, wird während höchstens 60 Tagen die Reservationstaxe berücksichtigt. Längere Freihaltungen werden bei Bezügerinnen und Bezügern von AHV-Leistungen nur mit Zustimmung des Gesundheitsdepartements, Abteilung Langzeitpflege, bei Bezügerinnen und Bezügern von IV-Leistungen nur mit Zustimmung des Departements für Wirtschaft, Soziales und Umwelt, Abteilung Behindertenhilfe, anerkannt.
+
+#### § 8
+
+**Nichtvertragsheime**
+
+<sup>1</sup> Für Aufenthalte in Nichtvertragsheimen können für Unterkunft, Verpflegung und Betreuung höchstens Fr. 130 pro Tag sowie für die Pflege der Eigenbeitrag gemäss Art. 25a Abs. 5 KVG berücksichtigt werden.
+
+<sup>2</sup> Für die Berücksichtigung der Taxen gemäss Abs. 1 ist ein Pflegebedürftigkeitsnachweis erforderlich.
+
+#### § 9
+
+**…**
+
+### (I.)VI. Persönliche Auslagen
+
+#### § 10
+
+<sup>1</sup> Der Betrag für persönliche Auslagen in Heimen und Spitälern wird auf Fr. 400 pro Monat festgesetzt.
+
+### (I.)VII. Taxe für ambulante Pflege
+
+#### § 11
+
+**…**
+
+### (I.)VIII. Beträge für den allgemeinen Lebensbedarf für kantonale Beihilfe an zu Hause Wohnende
+
+#### § 12
+
+<sup>1</sup> Die Beträge für den allgemeinen Lebensbedarf für die kantonale Beihilfe an zu Hause Wohnende gemäss § 18 EG/ELG belaufen sich auf:
+
+- a) Alleinstehende
+  - aa) ohne Kinder — Fr. 20'610
+  - ab) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'260
+  - ac) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 6'840
+  - ad) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'420
+  - ae) 1. Kind vor dem 11. Altersjahr — Fr. 7'200
+  - af) 2. Kind vor dem 11. Altersjahr — Fr. 6'000
+  - ag) 3. Kind vor dem 11. Altersjahr — Fr. 5'000
+  - ah) 4. Kind vor dem 11. Altersjahr — Fr. 4'165
+  - ai) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'470
+- b) Ehepaare und eingetragene Partnerschaften
+  - ba) ohne Kinder — Fr. 30'915
+  - bb) 1. und 2. Kind nach dem 11. Altersjahr je — Fr. 10'260
+  - bc) 3. und 4. Kind nach dem 11. Altersjahr je — Fr. 6'840
+  - bd) 5. und weitere Kinder nach dem 11. Altersjahr je — Fr. 3'420
+  - be) 1. Kind vor dem 11. Altersjahr — Fr. 7'200
+  - bf) 2. Kind vor dem 11. Altersjahr — Fr. 6'000
+  - bg) 3. Kind vor dem 11. Altersjahr — Fr. 5'000
+  - bh) 4. Kind vor dem 11. Altersjahr — Fr. 4'165
+  - bi) 5. und weitere Kinder vor dem 11. Altersjahr je — Fr. 3'470
+- c) Waisen
+  - ca) nach dem 11. Altersjahr — Fr. 10'760
+  - cb) vor dem 11. Altersjahr — Fr. 7'700
+
+### (I.)IX. Pflegebeihilfe
+
+#### § 13
+
+**…**
+
+### (I.)X. Mietzinsbeihilfe
+
+#### § 14
+
+<sup>1</sup> In besonderen Fällen, in denen für Beihilfeberechtigte die Belastung durch Mietzins und Mietnebenkosten zu einer offensichtlichen Härte führt, wird nach Massgabe von § 14 Abs. 3 EG/ELG auf Antrag eine Mietzinsbeihilfe ausgerichtet.
+
+<sup>2</sup> Härtefälle können insbesondere sein:
+
+- a) Der Eintritt in ein Pflegeheim oder in ein Wohnheim für Behinderte.
+- b)
+- c) Der Eintritt des Todes einer im gemeinsamen Haushalt lebenden Ehegattin oder eingetragenen Partnerin oder eines im gemeinsamen Haushalt lebenden Ehegatten oder eingetragenen Partners.
+
+<sup>3</sup> Die Mietzinsbeihilfe wird während längstens insgesamt sechs Monaten ausgerichtet. Auf begründetes Gesuch hin kann sie um höchstens weitere sechs Monate verlängert werden.
+
+<sup>4</sup> Solange ein Anspruch auf Mietzinsbeihilfe besteht, erhöht sich der maximal anerkannte Mietzins einschliesslich Nebenkosten um höchstens Fr. 1'800 pro Jahr bei Alleinstehenden und um höchstens Fr. 3'000 pro Jahr bei Ehepaaren, in eingetragener Partnerschaft lebenden Paaren und Personen mit rentenberechtigten oder an der Rente beteiligten Kindern.
+
+### (I.)XI. Beiträge an die Kosten des Umweltschutzabonnementes
+
+#### § 14a
+
+<sup>1</sup> Die Beiträge an die Kosten des Umweltschutzabonnementes gemäss § 25a EG/ELG werden einmal jährlich in Form einer Teilrückerstattung ausgerichtet. Die Zahlung erfolgt aufgrund der von den Berechtigten im vergangenen Jahr gekauften Umweltschutzabonnemente.
+
+<sup>2</sup> Der Beitrag an das Monatsabonnement beträgt Fr. 6.
+
+## II. Organisation und Verfahren
+
+### (II.)I. Zuständiges Amt
+
+#### § 15
+
+<sup>1</sup> Soweit Gesetz oder Verordnung keine andere Stelle vorsehen, wird das Amt für Sozialbeiträge mit dem Vollzug der Bestimmungen betreffend Ergänzungsleistungen und Beihilfe betraut.
+
+<sup>2</sup> Zuständig für den Abschluss der durch den Regierungsrat zu genehmigenden Subventionsverträge sind für den Bereich der Alters- und Pflegeheime das Gesundheitsdepartement, für den Bereich der Behindertenheime das Departement für Wirtschaft, Soziales und Umwelt.
+
+#### § 16
+
+**Aufsicht**
+
+<sup>1</sup> Das Gesundheitsdepartement überwacht die Leistungen für Pflege, Pension und Betreuung sowie die Einhaltung vertraglicher Abmachungen; es kontrolliert die Voraussetzungen für Leistungen gemäss den Bestimmungen des EG/ELG im Bereich der Alters- und Pflegeheime, der Spitäler sowie der ambulanten Leistungen für Betagte. Das Departement für Wirtschaft, Soziales und Umwelt erfüllt dieselben Funktionen im Bereich der Behindertenheime und der ambulanten Leistungen für Behinderte.
+
+#### § 17
+
+**Pflegeberatung**
+
+<sup>1</sup> Die Pflegeberatung der Abteilung Langzeitpflege des Gesundheitsdepartements führt eine Bedarfsabklärung über die Pflegebedürftigkeit der Betagten durch und stellt einen Pflegebedürftigkeitsnachweis aus. Für Betagte mit Wohnsitz in den Gemeinden Riehen und Bettingen wird der Pflegebedürftigkeitsnachweis durch deren Pflegeberatungsstelle erbracht.
+
+<sup>2</sup> Die Abteilung Langzeitpflege des Gesundheitsdepartements ist berechtigt, die Pflegebedürftigkeit der Betagten, die Sicherstellung der fachgerechten Betreuung und die Angemessenheit der Kosten zu überprüfen.
+
+### (II.)II. Verfahren
+
+#### § 18
+
+**Anmeldung**
+
+<sup>1</sup> Wer Anspruch auf Ergänzungsleistungen/Beihilfe erhebt, hat sich beim zuständigen Amt anzumelden und das Anmeldeformular zu unterzeichnen. Zur Anmeldung sind auch die in Art. 67 Abs. 1 AHVV[^18-1] genannten Personen und Stellen befugt.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+[^18-1]: § 18 Abs. 1: VO über die Alters- und Hinterlassenenversicherung vom 31. 10. 1947 (SR 831.101).
+
+#### § 19
+
+**…**
+
+#### § 20
+
+**Akten**
+
+<sup>1</sup> Die Akten haben über die persönlichen und wirtschaftlichen Verhältnisse der Berechtigten sowie über die Berechnung der Ergänzungsleistungen/Beihilfe in übersichtlicher Weise Aufschluss zu geben.
+
+#### § 21
+
+**Überprüfung der Anspruchsberechtigung**
+
+<sup>1</sup> Das Amt für Sozialbeiträge überprüft periodisch die Anspruchsberechtigung der Ergänzungsleistungs- und Beihilfebezügerinnen und -bezüger. Die massgeblichen Einkommensverhältnisse werden jährlich gegebenenfalls unter Beizug der dafür notwendigen Steuerdaten überprüft; spätestens jedes vierte Jahr findet eine Gesamtüberprüfung statt.
+
+<sup>2</sup> Solange über einen ausländischen Rentenanspruch keine rechtskräftige Verfügung vorliegt, wird der Anspruch auf Ergänzungsleistungen jährlich überprüft. Anträge auf Beihilfe bleiben hängig und werden bei Vorliegen der rechtskräftigen Rentenverfügung rückwirkend zugesprochen.
+
+### (II.)III. Revision
+
+#### § 22
+
+<sup>1</sup> Es ist jährlich eine Revision durchzuführen. Diese hat sich auf die materielle Rechtsanwendung, die Buchhaltung und die allgemeine Geschäftsführung zu erstrecken. Die Durchführung der Revision obliegt der Finanzkontrolle Basel-Stadt. Die Revisionsberichte sind dem Bundesamt für Sozialversicherungen in doppelter Ausfertigung zuzustellen.
+
+## III. Schlussbestimmungen
+
+#### § 23
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Diese Verordnung ersetzt die Verordnung betreffend Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (VELG) vom 16. Dezember 1986.
+
+#### § 24
+
+**Publikation und Wirksamkeit**
+
+<sup>1</sup> Diese Verordnung ist zu publizieren; sie wird auf den 1. Januar 1990 wirksam.
+
+KB 30.12.1989

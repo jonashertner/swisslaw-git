@@ -1,0 +1,194 @@
+---
+canton: BS
+number: BeB 869.100
+title: Statut des Landpfrundhauses Riehen/Bettingen
+language: de
+version: 2008-01-01
+version_adopted: 2008-01-07
+adopted: 2008-01-07
+in_force: 2008-01-01
+url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20869.100"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3136/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Statut des Landpfrundhauses Riehen/Bettingen
+
+Landpfrundhaus Riehen/Bettingen: Statut | Bettingen: Bürgergemeinde[^t-1]
+
+Vom 7. Januar 2008 (Stand 1. Januar 2008)
+
+Die Bürgerräte Riehen und Bettingen sowie der Gemeinderat Riehen
+
+beschliessen für das «Landpfrundhaus Riehen/Bettingen» folgendes Statut:
+
+[^t-1]: Dieser Erlass trägt ein Mehrfachdatum: 18./19. 12. 2007 sowie 7. 1. 2008. Aus softwaretechnischen Gründen kann hier nur ein Datum wiedergegeben werden.
+
+## I. Allgemeines
+
+#### § 1
+
+**Name, Sitz, Rechtsform**
+
+<sup>1</sup> Unter dem Namen «Landpfrundhaus Riehen/Bettingen», im Folgenden Landpfrundhaus genannt, besteht mit Sitz in Riehen eine selbstständige öffentlich-rechtliche Anstalt.
+
+#### § 2
+
+**Rechtsträgerschaft**
+
+<sup>1</sup> Das Landpfrundhaus wird gemeinsam getragen von den Bürgergemeinden Riehen und Bettingen und von der Einwohnergemeinde Riehen.
+
+<sup>2</sup> Der Anteil der Bürgergemeinde Riehen am Landpfrundhaus beträgt 48%, derjenige der Bürgergemeinde Bettingen 23% und derjenige der Einwohnergemeinde Riehen 29%.
+
+#### § 3
+
+**Zweck**
+
+<sup>1</sup> Das Landpfrundhaus bezweckt, zugunsten der Riehener und Bettinger Bevölkerung im Rahmen des gemeinnützigen Wohnungsmarkts Wohnraum insbesondere für ältere Menschen bereit zu stellen.
+
+<sup>2</sup> Die Alterswohnungen stehen betagten Bürgerinnen und Bürgern von Riehen und Bettingen sowie betagten Einwohnerinnen und Einwohnern von Riehen offen. Sind die Wohnungen nicht ausgelastet, können auch andere Personen aufgenommen werden.
+
+<sup>3</sup> Das Landpfrundhaus kann weitere Aufgaben übernehmen, die ihr von den Trägergemeinden zugewiesen werden.
+
+#### § 4
+
+**Eigentumsverhältnisse**
+
+<sup>1</sup> Das Landpfrundhaus ist zum Zeitpunkt der Unterzeichnung dieses Statuts Eigentümerin der nachstehend aufgeführten Liegenschaften:
+
+- 1\. Alterssiedlung Oberdorfstrasse 15 (mit 30 Wohnungen)
+- 2\. Alterssiedlung Bäumliweg 30 (mit 26 Wohnungen)
+- 3\. Liegenschaft Inzlingerstrasse 46 (mit 12 Wohnungen sowie Räumlichkeiten für ein Tagesheim für Betagte)
+- 4\. Mehrfamilienhaus Schützengasse 61 (mit 4 Wohnungen)
+- 5\. Mehrfamilienhaus Hinter Gärten 11 (mit 6 Wohnungen sowie Räumlichkeiten für einen Kindergarten im Haus Nr. 13)
+- 6\. Baurecht: Inzlingerstrasse 48/50
+- 7\. ca. 700 Aren Kulturland
+
+#### § 5
+
+**Prinzip der Eigenständigkeit**
+
+<sup>1</sup> Der Betrieb des Landpfrundhauses soll selbsttragend sein. Die zur Deckung des Aufwands nötigen Mittel sind durch den Ertrag der Liegenschaften sowie durch die übrigen Erträge des Betriebsvermögens aufzubringen.
+
+#### § 6
+
+**Organe**
+
+<sup>1</sup> Organe des Landpfrundhauses sind die Delegiertenversammlung der Trägergemeinden, die Betriebskommission, die Revisionsstelle und die Verwalterin oder der Verwalter.
+
+#### § 7
+
+**Delegiertenversammlung der Trägergemeinden**
+
+<sup>1</sup> Die Trägergemeinden werden durch Delegierte der beiden Bürgerräte bzw. des Gemeinderats vertreten. Dem Bürgerrat Riehen stehen drei Sitze, dem Gemeinderat Riehen zwei Sitze und dem Bürgerrat Bettingen ein Sitz zu. Den Vorsitz übernimmt ein Mitglied des Bürgerrats Riehen; es hat den Stichentscheid.
+
+<sup>2</sup> Die Delegierten treten mindestens zweimal jährlich zusammen. Eine Mehrheit der Delegierten kann zudem die Einberufung einer ausserordentlichen Sitzung beantragen.
+
+<sup>3</sup> Den Delegierten obliegt die Genehmigung des Geschäftsreglements, der jährlichen Sach- und Finanzplanung sowie des Geschäftsberichts mit Jahresrechnung des Landpfrundhauses, ferner die Verabschiedung genehmigungspflichtiger Geschäfte gemäss § 9 sowie von Anträgen zur Änderung des vorliegenden Statuts zuhanden der zuständigen Behörden der drei Trägergemeinden.
+
+<sup>4</sup> Die Delegierten wählen die Mitglieder der Betriebskommission und legen deren Präsidium fest. Sie wählen ferner die Verwalterin oder den Verwalter sowie die Revisionsstelle.
+
+## II. Führung und Verwaltung des Landpfrundhauses
+
+### A. Betriebskommission
+
+#### § 8
+
+**Aufgaben**
+
+<sup>1</sup> Die Betriebskommission hat im Wesentlichen folgende Aufgaben:
+
+- 1\. Regelung, Organisation und Überwachung der Betriebsführung der zum Landpfrundhaus gehörenden Liegenschaften und Betriebe,
+- 2\. Überwachung der Vermögensverwaltung,
+- 3\. Kauf und Verkauf von Liegenschaften,
+- 4\. Verabschiedung von Geschäftsbericht mit Jahresrechnung sowie Budget und Finanzplan zuhanden der Delegiertenversammlung der Trägergemeinden,
+- 5\. Vorbereitung der Wahl der Verwalterin oder des Verwalters durch die Delegiertenversammlung der Trägergemeinden,
+- 6\. Anstellung des übrigen für dieAufgabenerfüllung nötigen Personals,
+- 7\. Vertretung des Landpfrundhauses nach Aussen in strategischen Fragen.
+
+<sup>2</sup> Die Betriebskommission regelt das Nähere in einem Geschäftsreglement. Das Geschäftsreglement bedarf der Genehmigung durch die Delegiertenversammlung der Trägergemeinden.
+
+#### § 9
+
+**Genehmigungspflicht**
+
+<sup>1</sup> Geschäfte mit einem Kostenrahmen von über CHF 500'000 bedürfen der Genehmigung durch die Exekutivbehörden der drei Trägergemeinden. Vorbehalten bleiben die Zuständigkeiten des Einwohnerrats Riehen und der Bürgerversammlungen Riehen und Bettingen gemäss den jeweiligen Gemeindeordnungen.
+
+#### § 10
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Betriebskommission besteht aus fünf von der Delegiertenversammlung der Trägergemeinden gewählten Mitgliedern, einschliesslich Präsidium. Bei der Auswahl der Mitglieder wird darauf geachtet, dass unterschiedliches Fach- und Erfahrungswissen aus den Bereichen Alters- und Sozialpolitik, Betriebswirtschaft und Liegenschaftswesen vertreten ist.
+
+<sup>2</sup> Die Verwalterin oder der Verwalter des Landpfrundhauses nimmt mit beratender Stimme an den Sitzungen der Betriebskommission teil.
+
+#### § 11
+
+**Amtsdauer**
+
+<sup>1</sup> Die Amtsdauer der Betriebskommission beträgt vier Jahre; Wiederwahl ist möglich.
+
+<sup>2</sup> Die vierjährige Amtsperiode beginnt jeweils am 1. Oktober nach der Gesamterneuerung der Behörden der Einwohnergemeinde Riehen.
+
+### B. Verwalterin, Verwalter
+
+#### § 12
+
+**Aufgaben und Kompetenzen**
+
+<sup>1</sup> Die Verwalterin oder der Verwalter ist verantwortlich für die zum Landpfrundhaus gehörenden Liegenschaften. Sie oder er führt die Betreuungsdienste, das Abwartswesen, die Buchhaltung und das Sekretariat und sorgt für den Unterhalt der Liegenschaften.
+
+<sup>2</sup> Aufgaben und Kompetenzen sowie Einzelheiten der Betriebsführung und Verwaltung regelt die Betriebskommission im Geschäftsreglement.
+
+#### § 13
+
+**Dokumentation**
+
+<sup>1</sup> Die Verwalterin oder der Verwalter führt eine Ablage, in der alle Akten während zehn Jahren aufbewahrt werden.
+
+<sup>2</sup> Nach Ablauf von zehn Jahren werden die Akten in die Dokumentationsstelle der Gemeinde Riehen überführt.
+
+### C. Revisionsstelle
+
+#### § 14
+
+<sup>1</sup> Mit der Rechnungsrevision wird eine anerkannte Revisionsstelle beauftragt.
+
+## III. Übergangs- und Schlussbestimmung
+
+#### § 15
+
+**Wirksamkeit und Übergang zum neuen Recht**
+
+<sup>1</sup> Dieses Statut wird publiziert; es wird am 1. Januar 2008 wirksam.[^15-1] Es ersetzt das Statut des Landpfrundhauses Riehen/Bettingen vom 20. September 1985.
+
+<sup>2</sup> Bis zur konstituierenden Sitzung der gemäss diesem Statut zu bildenden Betriebskommission leitet die bisherige Landpfrundhauskommission die Geschäfte.
+
+[^15-1]: Publiziert am 16. 1. 2008.
+
+Bettingen, den 7. Januar 2008
+
+Im Namen des Bürgerrats Bettingen
+
+Der Präsident: Alois Zahner
+
+Die Schreiberin: Martina Kiefer
+
+Riehen, den 19. Dezember 2007
+
+Im Namen des Bürgerrats Riehen
+
+Die Präsidentin: Simone Forcart-Staehelin
+
+Die Schreiberin: Silvia Brändli-Bonsaver
+
+Riehen, den 18. Dezember 2007
+
+Im Namen des Gemeinderats Riehen
+
+Der Vizepräsident: Christoph Bürgenmeier
+
+Der Gemeindeverwalter: Andreas Schuppli
+
+KB 16.01.2008
