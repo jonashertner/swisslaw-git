@@ -1,0 +1,480 @@
+---
+canton: AG
+number: "581.100"
+title: Feuerwehrgesetz
+short: FwG
+language: de
+version: 2013-01-01
+valid_until: 2021-12-31
+version_adopted: 2010-03-16
+adopted: 1971-03-23
+in_force: 1973-01-01
+url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/581.100"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1663/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Feuerwehrgesetz
+
+(FwG)
+
+Vom 23.03.1971 (Stand 01.01.2013)
+
+Der Grosse Rat des Kantons Aargau,
+
+gestützt auf § 27 der Kantonsverfassung,
+
+beschliesst:
+
+## 1. Allgemeines
+
+#### § 1
+
+**Wesen und Aufgabe der Feuerwehr**
+
+<sup>1</sup> Die Feuerwehr ist ein polizeiliches Organ der Einwohnergemeinde, welche in diesem Gesetz als «Gemeinde» bezeichnet ist.
+
+<sup>2</sup> Der Feuerwehr obliegen die Feuerbekämpfung und die Hilfeleistung in Brandfällen. Sie trifft die nötigen vorsorglichen Massnahmen bei Feuer- und Explosionsgefahr. Sie wird bei Elementarereignissen, Unglücksfällen und Katastrophen sowie im Rahmen der Katastrophenorganisation eingesetzt.
+
+<sup>3</sup> Bei besonderen Vorkommnissen oder Veranstaltungen kann der Gemeinderat einzelne Abteilungen der Feuerwehr zu Dienstleistungen heranziehen.
+
+#### § 1a
+
+**Funktions- und Berufsbezeichnungen**
+
+<sup>1</sup> Funktions- und Berufsbezeichnungen in diesem Gesetz beziehen sich auf beide Geschlechter.
+
+#### § 2
+
+**…**
+
+#### § 3
+
+**Aufsicht**
+
+<sup>1</sup> Die Aargauische Gebäudeversicherung sorgt für den Vollzug der gesetzlichen Aufgaben im Bereich des Feuerwehrwesens, unter Aufsicht des Regierungsrates.
+
+## 2. Organisation der Feuerwehr
+
+### 2.1. Allgemeines
+
+#### § 4
+
+**Pflichten der Gemeinden**
+
+<sup>1</sup> Die Gemeinden sind verpflichtet, die ihren Verhältnissen entsprechende Organisation der Feuerwehr und die nötigen Lösch- und Rettungseinrichtungen auf ihre Kosten zu schaffen.
+
+<sup>2</sup> Mit Zustimmung der Aargauischen Gebäudeversicherung können Gemeinden unter sich Abmachungen treffen über die gemeinsame Organisation der Feuerwehr, über den gemeinsamen Einsatz von Mannschaften sowie über die gemeinsame Anschaffung und Verwendung von Feuerwehrfahrzeugen und Gerätschaften.
+
+<sup>3</sup> …
+
+<sup>4</sup> Über die Einnahmen und Ausgaben des Feuerwehrwesens hat die Gemeinde gesondert Rechnung zu führen.
+
+#### § 4a
+
+**…**
+
+#### § 5
+
+**Verantwortlichkeit und Pflichten des Gemeinderates**
+
+<sup>1</sup> Der Gemeinderat ist für den guten Stand des Feuerwehrwesens verantwortlich.
+
+<sup>2</sup> Er wählt eine Feuerwehrkommission, bestehend aus dem Feuerwehrkommandanten, einem Mitglied des Gemeinderates, dem Ortschef bzw. dem Kommandanten der Kriegsfeuerwehr und einem bis sieben weiteren Mitgliedern. Der Gemeinderat bestimmt den Präsidenten.
+
+<sup>3</sup> Er bestimmt die Höhe des Soldes und allfälliger Entschädigungen und entscheidet über die ihm von der Kommission gemäss § 6 Ziff. 5 gestellten Anträge.
+
+#### § 6
+
+**Feuerwehrkommission**
+
+<sup>1</sup> Der Feuerwehrkommission liegen insbesondere ob:
+
+- 1\. Rekrutierung und Einteilung der Mannschaft,
+- 2\. Führung der nötigen Kontrollen,
+- 3\. Aufstellung des Arbeitsprogrammes,
+- 4\. Sorge für die Dienstbereitschaft der Mannschaft sowie der Geräte und Einrichtungen und jährliche Berichterstattung hierüber an den Gemeinderat zuhanden der Aargauischen Gebäudeversicherung,
+- 5\. Anträge an den Gemeinderat betreffend:
+  - a) Organisation und Ausrüstung,
+  - b) Sold und allfällige Entschädigungen,
+  - c) Aufstellung des Feuerwehrbudgets,
+  - d) Versicherung der Feuerwehr,
+  - e) Ernennung von Chargierten,
+  - f) Besuch von Kursen,
+  - g) jährliche schriftliche Orientierung der Bevölkerung über die Feuermeldeorganisation.
+
+#### § 6a
+
+**Kostentragung**
+
+<sup>1</sup> Der Gemeinderat kann verfügen, dass die Kosten notwendiger Einsätze gedeckt werden durch:
+
+- a) Personen, die den Einsatz der Feuerwehr durch eine vorsätzliche und rechtswidrige Handlung oder Unterlassung veranlasst haben;
+- b) Personen, denen mit dem Einsatz bei Unglücksfällen (ausgenommen Feuer-, Explosions- und Elementarereignisse) Hilfe geleistet wurde;
+- c) Eigentümer der Brandmelde- oder Löschanlage bei wiederholtem Fehlalarm;
+- d) Antragsteller für Dienstleistungen bei besonderen Vorkommnissen oder Veranstaltungen.
+
+<sup>2</sup> Eigentümer von Brandmelde- und Löschanlagen haben zu bezahlen:
+
+- a) eine einmalige Gebühr für die Kosten der Bereitstellung des Anschlusses in der Alarmstelle;
+- b) jährlich wiederkehrende Gebühren für den Unterhalt des Anschlusses.
+
+### 2.2. Rekrutierung der Feuerwehr
+
+#### § 7
+
+**Feuerwehrpflicht**
+
+<sup>1</sup> Männer und Frauen sind in ihrer Wohnsitzgemeinde feuerwehrpflichtig.
+
+<sup>2</sup> Die Feuerwehrpflicht beginnt am 1. Januar des Jahres, in dem das 20., und endet am 31. Dezember des Jahres, in dem das 44. Altersjahr vollendet wird.
+
+<sup>3</sup> Zur Sicherstellung der ersten Hilfe kann die Gemeindeversammlung bzw. der Einwohnerrat die Feuerwehrpflicht bis zum 50. Altersjahr ausdehnen oder, wenn ein ausreichender Bestand der Feuerwehr gesichert ist, auf 42 Jahre herabsetzen.
+
+<sup>4</sup> Die Feuerwehrpflicht wird erfüllt durch aktiven Dienst oder durch Leistung des jährlichen Pflichtersatzes.
+
+<sup>5</sup> Die Rekrutierung verpflichtet zur Leistung des aktiven Dienstes.
+
+<sup>6</sup> Nichtpflichtige können freiwillig Feuerwehrdienst leisten.
+
+#### § 8
+
+**Pflichtersatz, Bemessung**
+
+<sup>1</sup> Feuerwehrdienstpflichtige, die keinen Feuerwehrdienst leisten, haben in der Wohnsitzgemeinde einen jährlichen Pflichtersatz zu bezahlen, es sei denn, sie leben mit einem Ehepartner, der Feuerwehrdienst leistet, in tatsächlich und rechtlich ungetrennter Ehe.
+
+<sup>2</sup> Der Pflichtersatz beträgt 2 ‰ des steuerbaren Einkommens, mindestens Fr. 30.–, höchstens Fr. 300.–. Er wird durch die Steuerkommission nach dem für die direkten Steuern geltenden Verfahren festgesetzt.
+
+<sup>3</sup> Er wird bei in tatsächlich und rechtlich ungetrennter Ehe lebenden Ehegatten für beide zusammen vom steuerbaren Einkommen der Ehegatten erhoben. Ist nur ein Ehegatte ersatzabgabepflichtig, wird der Pflichtersatz von der Hälfte des Einkommens der Ehegatten erhoben.
+
+<sup>4</sup> Haben die in rechtlich ungetrennter Ehe lebenden Ehegatten je einen eigenen Wohnsitz, schuldet jeder Ehegatte am Wohnsitz den ordentlichen Pflichtersatz.
+
+<sup>5</sup> Diese Regelungen sind bei eingetragenen Partnerschaften sinngemäss anwendbar.
+
+#### § 9
+
+**Befreiung vom aktiven Feuerwehrdienst**
+
+<sup>1</sup> Vom aktiven Feuerwehrdienst sind befreit:
+
+- a) Mitglieder der eidgenössischen Räte, der eidgenössischen Gerichte, des Regierungsrates, der kantonalen Gerichte, Staatsanwälte, Gemeinderäte und Gemeindeschreiber, Seelsorger der Landeskirchen, Angestellte öffentlicher Verkehrsbetriebe und der Post-, Telefon- und Telegrafenbetriebe sowie Angehörige der Kantons- und Gemeindepolizei;
+- b) Personen, die wegen offensichtlicher körperlicher oder geistiger Gebrechen zum Feuerwehrdienst nicht befähigt sind oder sich nach vertrauensärztlichem Zeugnis nicht für den Feuerwehrdienst eignen;
+- c) werdende Mütter und Personen, die allein oder hauptverantwortlich Kinder bis zum vollendeten 15. Altersjahr, Behinderte, Betagte und Chronischkranke betreuen, soweit die Betreuung nicht in Ausübung einer beruflichen Tätigkeit erfolgt.
+
+#### § 10
+
+**Pflichtersatz, Befreiung und Ermässigung**
+
+<sup>1</sup> Wer durch feuerwehrdienstlich verursachte Umstände (Krankheit oder Unfall) dienstuntauglich geworden ist, ist von der Leistung des Pflichtersatzes befreit.
+
+<sup>2</sup> Ebenso wird vom Pflichtersatz befreit, wer gestützt auf § 9 lit. b dieses Gesetzes keinen aktiven Feuerwehrdienst leistet.
+
+<sup>3</sup> Bei Ausscheiden aus dem aktiven Feuerwehrdienst wird der Pflichtersatz des Dienstpflichtigen oder, falls dieser in tatsächlich und rechtlich ungetrennter Ehe lebt, des Ehepaares wie folgt herabgesetzt:
+
+- a) nach 5 Jahren Dienst um 10 %,
+- b) nach 10 Jahren Dienst um 30 %,
+- c) nach 15 Jahren Dienst um 50 %,
+- d) nach 20 Jahren Dienst um 80 %.
+
+<sup>4</sup> …
+
+#### § 11
+
+**Einteilung der Mannschaft**
+
+<sup>1</sup> Bei der Rekrutierung und Einteilung ist auf die Eignung und nach Möglichkeit auf die Berufsverhältnisse und die persönlichen Wünsche Rücksicht zu nehmen.
+
+<sup>2</sup> Jeder Dienstleistende ist verpflichtet, den ihm aufgetragenen Dienst und die ihm überbundene Charge zu übernehmen sowie die vorgeschriebenen Kurse zu besuchen.
+
+#### § 12
+
+**Krankheit und Unfall, Versicherung**
+
+<sup>1</sup> Die Gemeinden haben alle, die aktiven Dienst leisten, bei der Hilfskasse des Schweizerischen Feuerwehrverbandes oder mit Zustimmung der Aargauischen Gebäudeversicherung bei einem andern Versicherer gegen die Folgen von Krankheit und Unfall zu versichern, wobei die Aargauische Gebäudeversicherung die nähern Bedingungen festsetzt und den Gemeinden an die Prämien einen Beitrag von 50 % gewährt.
+
+<sup>2</sup> Die Aargauische Gebäudeversicherung versichert auf ihre Kosten gegen Unfall die nichtdienstpflichtigen Personen, welche bei Brandfällen, Elementarereignissen und Feuerwehrübungen Hilfe leisten.
+
+#### § 13
+
+**Feuerwehrreglement der Gemeinde**
+
+<sup>1</sup> Der Gemeinderat hat für den Feuerwehrdienst ein Reglement zu erlassen, das insbesondere Bestimmungen zu enthalten hat über:
+
+- a) die Rekrutierung und die Einteilung der Mannschaft,
+- b) die Organisation der Feuerwehr,
+- c) die Löscheinrichtungen,
+- d) die Ausrüstung,
+- e) das Alarmwesen,
+- f) die Dienstbereitschaft,
+- g) den Übungs- und Branddienst,
+- h) das Rapport- und Kontrollwesen,
+- i) die Versicherung der Feuerwehren,
+- k) die Ordnungsbussen.
+
+<sup>2</sup> Das Reglement bedarf der Genehmigung durch die Aargauische Gebäudeversicherung.
+
+#### § 14
+
+**Ordnungsbussen**
+
+<sup>1</sup> Wer aktiven Dienst zu leisten hat und sich diesem ohne genügende Entschuldigung entzieht, wird vom Gemeinderat auf Antrag der Feuerwehrkommission gebüsst.
+
+<sup>2</sup> Die Busse beträgt pro Dienstversäumnis mindestens Fr. 5.–, im Wiederholungsfall innert Jahresfrist höchstens den vierfachen Übungssold, mindestens aber Fr. 20.–.
+
+#### § 15
+
+**Verwendung des Pflichtersatzes und der Bussen**
+
+<sup>1</sup> Der Ertrag des Pflichtersatzes und der Bussen ist für das Feuerwehrwesen zu verwenden.
+
+<sup>2</sup> Ein allfälliger Überschuss ist für Zwecke der Feuerwehr und zur Förderung des Löschwesens zurückzustellen.
+
+### 2.3. Haftpflicht der Gemeinde
+
+#### § 16
+
+**…**
+
+### 2.4. Lösch- und Rettungseinrichtungen
+
+#### § 17
+
+**Lösch- und Rettungseinrichtungen**
+
+<sup>1</sup> Als Löscheinrichtungen im Sinne von § 4 gelten in erster Linie Hydrantenanlagen mit genügend grosser Wasserreserve, ausreichendem Druck und dem erforderlichen Schlauchmaterial samt Zubehör. Speziallöschmittel und Geräte sind im Einvernehmen mit der Aargauischen Gebäudeversicherung zu beschaffen. Der Grösse und Bauart der Häuser entsprechend sind Rettungseinrichtungen, insbesondere Leitern, bereitzustellen.
+
+<sup>2</sup> Wo Hydrantenanlagen nicht genügen oder aus technischen oder finanziellen Gründen nicht erstellt werden können, bestimmt die Aargauische Gebäudeversicherung im Einvernehmen mit der Gemeinde, was allenfalls an deren Stelle treten soll.
+
+#### § 18
+
+**Betriebsbereitschaft**
+
+<sup>1</sup> Das Material und die Einrichtungen sind stets einsatzbereit zu halten und in jederzeit zugänglichen und zweckmässigen Räumen unterzubringen.
+
+<sup>2</sup> Durch die Organisation von Piketten mit besonderen Gruppenalarmeinrichtungen ist der rasche Einsatz sicherzustellen. Soweit möglich sind mehrere Gemeinden in einer Alarmstelle zusammenzufassen.
+
+<sup>3</sup> Die Funktionsfähigkeit der Löscheinrichtungen, insbesondere der Löschreserve und der Alarmeinrichtungen, ist periodisch zu kontrollieren.
+
+#### § 19
+
+**Besondere Löscheinrichtungen**
+
+<sup>1</sup> In grösseren gewerblichen und industriellen Betrieben sowie ohne Rücksicht auf die Betriebsgrösse in allen feuergefährlichen Betrieben, ebenso in allen Bauten und Räumen, die zur Aufnahme einer grösseren Zahl von Personen dienen, hat der Betriebsinhaber nach Anordnung der Aargauischen Gebäudeversicherung die zur ersten Bekämpfung eines Schadenfeuers erforderlichen Löscheinrichtungen anzubringen und für zweckdienliche Rettungsvorrichtungen zu sorgen.
+
+<sup>2</sup> Der Betriebsinhaber ist für die ständige Funktionsbereitschaft der Einrichtungen verantwortlich.
+
+<sup>3</sup> Zu deren Handhabung ist das nötige Bedienungspersonal zu bestellen und auszubilden.
+
+#### § 20
+
+**Betriebsfeuerwehren und Löschgruppen**
+
+<sup>1</sup> Wo es die Aargauische Gebäudeversicherung als notwendig erachtet, sind besondere Betriebsfeuerwehren oder Löschgruppen zu organisieren. Für diese sind Reglemente zu erlassen, welche der Genehmigung durch die Aargauische Gebäudeversicherung bedürfen.
+
+<sup>2</sup> Alle Einrichtungen dieser Art sowie die Übungen der Betriebsfeuerwehren und Löschgruppen unterstehen der Aufsicht und Kontrolle des zuständigen Feuerwehrkommandos.
+
+<sup>3</sup> Die Betriebsfeuerwehren sind den Gemeindefeuerwehren gleichgestellt. Der Dienst in einer Betriebsfeuerwehr gilt als aktiver Dienst im Sinne von § 7 Abs. 3[^20-1].
+
+<sup>4</sup> Die Rekrutierung der Mannschaft der Betriebsfeuerwehr wird von der Leitung des Betriebes im Einvernehmen mit der zuständigen Feuerwehrkommission der Gemeinde vorgenommen. Im Falle von Differenzen über die Zuteilung entscheidet die Aargauische Gebäudeversicherung endgültig.
+
+<sup>5</sup> Löschgruppen werden dort gebildet, wo der Feuerwehreinsatz der Betriebsangehörigen lediglich während der ordentlichen Arbeitszeit sichergestellt ist. Der Dienst in einer Löschgruppe entbindet nicht von der Feuerwehrpflicht in der Wohngemeinde gemäss § 7 Abs. 1.
+
+[^20-1]: Heute: § 7 Abs. 4
+
+### 2.5. Ausbildung der Feuerwehren
+
+#### § 21
+
+**Allgemeines**
+
+<sup>1</sup> Für die Ausbildung der Feuerwehr sind die von der Aargauischen Gebäudeversicherung als anwendbar erklärten Reglemente massgebend.
+
+#### § 22
+
+**Ausbildung der Chargierten und Spezialisten**
+
+<sup>1</sup> Die Aargauische Gebäudeversicherung führt Kurse durch zur Ausbildung von Feuerwehrinstruktoren, Chargierten und mit einer Spezialaufgabe betrauten Feuerwehrpflichtigen. Sie kann hiefür Fachverbände zur Mithilfe beiziehen.
+
+<sup>2</sup> Den Kursteilnehmern wird auf Kosten der Aargauischen Gebäudeversicherung ein Sold ausgerichtet, dessen Höhe vom Verwaltungsrat festgesetzt wird.
+
+<sup>3</sup> Die Gemeinden haben eine angemessene Verdienstausfallentschädigung zu entrichten. Der Regierungsrat erlässt hiefür Richtlinien.
+
+#### § 23
+
+**Inspektionen**
+
+<sup>1</sup> Die Aargauische Gebäudeversicherung ordnet periodisch Inspektionen der Feuerwehren an.
+
+#### § 24
+
+**Übungsdienst**
+
+<sup>1</sup> Die Ausbildung in der Gemeinde obliegt dem Feuerwehrkommandanten und den Chargierten.
+
+<sup>2</sup> Die Feuerwehrkommission hat zu Beginn des Jahres einen Übungsplan aufzustellen. Jährlich sind mindestens folgende Übungen durchzuführen:
+
+- a) vier Instruktionsübungen mit der Mannschaft,
+- b) eine Hauptübung mit dem Korps, verbunden mit einer Inspektion der Geräte und der persönlichen Ausrüstung,
+- c) die für das Kader und die Spezialisten notwendigen Instruktionen,
+- d) periodische Alarmübungen nach Anordnung des Kommandanten,
+
+<sup>3</sup> Die Übungen sind auf das ganze Jahr zu verteilen. Auf die Arbeitszeit der Feuerwehrpflichtigen ist nach Möglichkeit Rücksicht zu nehmen.
+
+<sup>4</sup> Der Besuch sämtlicher von den zuständigen Organen angeordneten Übungen ist obligatorisch.
+
+#### § 25
+
+**Betreten von Liegenschaften**
+
+<sup>1</sup> Die Feuerwehr ist berechtigt, unter möglichster Schonung des Eigentums private und öffentliche Liegenschaften zu betreten.
+
+### 2.6. Brand- und Wehrdienste
+
+#### § 26
+
+**Alarmierung**
+
+<sup>1</sup> Jedermann ist verpflichtet, einen wahrgenommenen Brandausbruch sofort der öffentlich bekannt gemachten Alarmstelle zu melden.
+
+#### § 27
+
+**Art der Alarmierung**
+
+<sup>1</sup> Die Alarmierung der Feuerwehr erfolgt durch den Feuerwehrkommandanten, seinen Stellvertreter oder durch die Alarmstelle. Der Feuerwehrkommandant ist dafür verantwortlich, dass die Alarmierung zu jeder Tages- und Nachtzeit sichergestellt ist.
+
+<sup>2</sup> Über das arbeitsfreie Wochenende sowie an allgemeinen Feiertagen und bei besonderen Anlässen ist ein Pikettdienst zu organisieren.
+
+#### § 28
+
+**Kommandoverhältnisse auf dem Schadenplatz**
+
+<sup>1</sup> Auf dem Schadenplatz führt der Feuerwehrkommandant den Befehl. Jedermann ist verpflichtet, seinen Anordnungen Folge zu leisten. In seiner Abwesenheit übernimmt der auf dem Schadenplatz anwesende höchste Chargierte das Kommando.
+
+<sup>2</sup> Auf dem Schadenplatz anwesende Mitglieder des Gemeinderates sind verpflichtet, das Feuerwehrkommando in seinen Anordnungen zu unterstützen.
+
+#### § 29
+
+**Vermeidung von Gebäudeschäden**
+
+<sup>1</sup> Die Bekämpfung des Feuers hat unter Schonung des Gebäudes und der Fahrnis zu geschehen. Insbesondere ist Wasserschaden möglichst zu vermeiden. Bauteile dürfen nur bei Einsturzgefahr niedergerissen werden.
+
+<sup>2</sup> Der Feuerwehrkommandant hat dafür zu sorgen, dass alle unnötigen Zerstörungen am Brandobjekt unterbleiben.
+
+<sup>3</sup> Das Aufräumen des Schadenplatzes ist Sache der Feuerwehr, soweit es für die völlige Löschung des Feuers oder für die öffentliche Sicherheit erforderlich ist.
+
+<sup>4</sup> Wird die Feuerwehr zu weiter gehender Aufräumungsarbeit zugezogen, hat sich der Kommandant mit dem Gebäudeeigentümer bezüglich der Entschädigung zu verständigen.
+
+#### § 30
+
+**Abklärung der Brandursache**
+
+<sup>1</sup> Die Feuerwehr hat alles zu tun, was der Ermittlung der Brandursache und der Sicherung der Spuren dienlich sein kann.
+
+#### § 31
+
+**Brandwache**
+
+<sup>1</sup> Nach einem Brande muss die Brandstätte durch eine Abteilung der Feuerwehr auf eine den jeweiligen Verhältnissen entsprechende Zeitdauer bewacht werden.
+
+#### § 32
+
+**Rapporte**
+
+<sup>1</sup> Über den Brandfall hat der Feuerwehrkommandant dem Gemeinderat zuhanden der Aargauischen Gebäudeversicherung einen Rapport auf vorgeschriebenem Formular zu erstatten.
+
+<sup>2</sup> Er meldet der Aargauischen Gebäudeversicherung nach Formular die Ereignisse, die zum Einsatz der Feuerwehr Anlass gegeben haben.
+
+#### § 33
+
+**…**
+
+#### § 34
+
+**Nachbarliche Hilfeleistung**
+
+<sup>1</sup> Jede Gemeinde hat bei Wehrdiensten, die nicht weiter als 6 km von ihrer Grenze nötig werden, auf Verlangen mit ihrer Feuerwehr unentgeltliche Hilfe zu leisten.
+
+<sup>2</sup> Ihr Kommandant unterstellt sich dem Feuerwehrkommandanten der vom Schaden betroffenen Gemeinde. Er darf mit seiner Mannschaft nur im Einverständnis mit dem Feuerwehrkommandanten der betroffenen Gemeinde den Schadenplatz verlassen.
+
+<sup>3</sup> Die Aargauische Gebäudeversicherung kann Feuerwehren, welche bei Wehrdiensten durch besonders raschen Einsatz einer anderen Gemeinde Hilfe geleistet haben, eine Prämie bezahlen.
+
+#### § 35
+
+**Stützpunktfeuerwehren für regionalen Einsatz**
+
+<sup>1</sup> Die Aargauische Gebäudeversicherung kann mit Gemeinden vereinbaren, ihre Feuerwehr nötigenfalls für zusätzliche Hilfeleistung in regionalem Rahmen einzusetzen.
+
+<sup>2</sup> Diese Stützpunktfeuerwehren sind personell und technisch zweckentsprechend zu organisieren und auszurüsten.
+
+<sup>3</sup> Die Aargauische Gebäudeversicherung gewährt den Gemeinden Beiträge an die Aufwendungen, welche mit den besonderen Aufgaben einer Stützpunktfeuerwehr verbunden sind.
+
+<sup>4</sup> Bei Katastrophen können auch Stützpunktfeuerwehren ausserhalb der eigenen Region zu Hilfe gerufen werden.
+
+#### § 36
+
+**Transport von Feuerwehrgeräten**
+
+<sup>1</sup> Für den Transport der Feuerwehrgeräte haben die Gemeinden geeignete Motorfahrzeuge anzuschaffen, wenn die Gemeinde nicht durch die Aargauische Gebäudeversicherung aus triftigen Gründen hievon befristet entbunden wird.
+
+<sup>2</sup> Im Notfall ist das Feuerwehrkommando berechtigt, die nötigen Transportmittel gegen Entschädigung zu requirieren. Für allfälligen Schaden haftet die Gemeinde (§ 16).
+
+## 3. Beschwerdeverfahren
+
+#### § 37
+
+**Beschwerdeweg**
+
+<sup>1</sup> Verfügungen und Entscheide der mit dem Vollzug dieses Gesetzes betrauten Behörden und Amtsstellen können mit Beschwerde angefochten werden.
+
+<sup>2</sup> Die Beschwerden sind innert 30 Tagen, von der Zustellung an gerechnet, einzureichen, und zwar gegen Verfügungen und Entscheide:
+
+- a) der Feuerwehrkommission beim Gemeinderat,
+- b) des Gemeinderates beim Amt,
+- c) des Amtes beim Regierungsrat.
+
+## 4. Straf- und Vollzugsbestimmungen
+
+#### § 38
+
+**Strafen**
+
+<sup>1</sup> Wer den Bestimmungen dieses Gesetzes und den dazu erlassenen Vollzugsvorschriften zuwiderhandelt, wird, sofern nicht eine andere Strafbestimmung anwendbar ist, mit Busse bis zu Fr. 1'000.– bestraft.
+
+<sup>2</sup> Wurde eine Widerhandlung im Geschäftsbetrieb einer juristischen Person oder einer Handelsgesellschaft ohne juristische Persönlichkeit begangen, so finden die Strafbestimmungen auf die juristischen Personen oder Handelsgesellschaften Anwendung. Die Mitglieder der Verwaltung einer juristischen Person und die geschäftsführenden Teilhaber einer Handelsgesellschaft ohne juristische Persönlichkeit haften solidarisch mit der juristischen Person oder Handelsgesellschaft für die Bussen und Kosten.
+
+<sup>3</sup> …
+
+#### § 39
+
+**Aufhebung bestehender Vorschriften**
+
+<sup>1</sup> Durch dieses Gesetz sind das Gesetz über das Feuerwehrwesen vom 28. Februar 1905[^39-1], die Vollziehungsverordnung vom 5. Januar 1907[^39-2] zum Gesetz über das Feuerwehrwesen, die Vollziehungsverordnung vom 31. August 1923[^39-3] zu § 16 des Gesetzes über das Feuerwehrwesen sowie alle weitern widersprechenden Vorschriften aufgehoben.
+
+[^39-1]: AGS Bd. 1 S. 518
+[^39-2]: AGS Bd. 1 S. 550
+[^39-3]: AGS Bd. 2 S. 303
+
+#### § 40
+
+**Inkrafttreten und Vollzug**
+
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens dieses Gesetzes. Er ist mit dem Vollzug beauftragt.
+
+Aarau, den 23. März 1971
+
+Präsident des Grossen Rates
+
+Zehnder
+
+Staatsschreiber
+
+Dr. Suter
+
+*Angenommen in der Volksabstimmung vom 21. November 1971.*
+
+*Inkrafttreten: 1. Januar 1973*[^footer-1]
+
+Bd. 8 S. 383
+
+[^footer-1]: § 31 der Vollziehungsverordnung (heute: Verordnung) zum Gesetz über das Feuerwehrwesen vom 18. Dezember 1972 (AGS Bd. 8 S. 407); aufgehoben (AGS 1996 S. 412).
