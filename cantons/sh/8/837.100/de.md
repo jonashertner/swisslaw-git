@@ -1,0 +1,332 @@
+---
+canton: SH
+number: "837.100"
+title: Arbeitslosenhilfegesetz
+short: AHG
+language: de
+version: 2019-12-31
+valid_until: 2024-12-31
+version_adopted: 2019-12-02
+adopted: 1997-02-17
+in_force: 1997-10-01
+url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/837.100"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1704/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Arbeitslosenhilfegesetz
+
+(AHG)
+
+Vom 17.02.1997 (Stand 31.12.2019)
+
+Der Grosse Rat des Kantons Schaffhausen,
+
+in Ausführung des Bundesgesetzes über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung (AVIG) vom 25. Juni 1982,
+
+beschliesst:
+
+## 1 Individuelle und kollektive Leistungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Der Kanton unterstützt arbeitsmarktliche Massnahmen, um drohende Arbeitslosigkeit zu verhüten und bestehende Arbeitslosigkeit zu bekämpfen.
+
+<sup>2</sup> Er kann zeitlich befristet Anschlusstaggelder an Personen in wirtschaftlich bescheidenen Verhältnissen gewähren.
+
+#### Art. 2
+
+**Persönliche Voraussetzungen**
+
+<sup>1</sup> Anspruch auf Leistungen nach diesem Gesetz haben arbeitslose oder von Arbeitslosigkeit bedrohte Personen, die seit mindestens einem Jahr Wohnsitz im Kanton Schaffhausen haben. Die Karenzfrist entfällt gegenüber zugezogenen Personen aus Kantonen, die Gegenrecht halten.
+
+<sup>2</sup> Im Regelfall werden Leistungen aufgrund dieses Gesetzes nur im Anschluss an Leistungen der obligatorischen Arbeitslosenversicherung ausgerichtet. Der Regierungsrat bestimmt die Ausnahmen.
+
+#### Art. 3
+
+**Individuelle Umschulung, Weiterbildung und Eingliederung**
+
+<sup>1</sup> Der Kanton fördert zur Verbesserung der Vermittlungsfähigkeit die Umschulung, Weiterbildung und Eingliederung von Arbeitslosen, deren Vermittlung aus Gründen des Arbeitsmarktes erschwert ist.
+
+<sup>2</sup> Er kann Beiträge an Präventivmassnahmen gemäss Art. 59 ff. AVIG ausrichten, soweit der Erfolg solcher Massnahmen mit den Bundesleistungen allein nicht gewährleistet ist. Zudem kann er weitere Massnahmen, die auf die Förderung der Vermittlungsfähigkeit und die Eingliederung in den Arbeitsprozess gerichtet sind, unterstützen.
+
+<sup>3</sup> Der Regierungsrat regelt Voraussetzungen, Art und Umfang dieser Förderungsmassnahmen sowie das Verfahren.
+
+#### Art. 4
+
+**Kollektive Beratungs-, Umschulungs-, Weiterbildungs- und Eingliederungs-massnahmen**
+
+<sup>1</sup> Der Kanton kann Beiträge an Beratungs-, Umschulungs-, Weiterbildungs- und Eingliederungsmassnahmen von Gemeinden und staatlichen oder privaten Institutionen und Unternehmen ausrichten. Er kann selbst solche Massnahmen durchführen oder sich an Institutionen oder Unternehmen beteiligen, die solche Massnahmen anbieten.
+
+<sup>2</sup> Der Regierungsrat regelt Voraussetzungen, Art und Umfang dieser Massnahmen sowie das Verfahren.
+
+#### Art. 5
+
+**Anstellungsprogramme für Arbeitslose**
+
+<sup>1</sup> Der Kanton unterstützt Programme zur vorübergehenden Anstellung von Arbeitslosen.
+
+<sup>2</sup> Er kann Beiträge an Anstellungsprogramme von Gemeinden und staatlichen oder gemeinnützigen Institutionen und Unternehmen ausrichten. Er kann selbst solche Anstellungsprogramme durchführen oder sich an staatlichen oder gemeinnützigen Institutionen und Unternehmen beteiligen, die solche Anstellungsprogramme durchführen.
+
+<sup>3</sup> Diese Anstellungsprogramme dürfen die private Wirtschaft nicht unmittelbar konkurrenzieren. Der Regierungsrat regelt Voraussetzungen, Art und Umfang dieser Anstellungsprogramme sowie das Verfahren.
+
+#### Art. 6
+
+**Anschlusstaggelder**
+
+<sup>1</sup> Arbeitslose in wirtschaftlich bescheidenen Verhältnissen, deren Bezugsberechtigung bei der obligatorischen Arbeitslosenversicherung erschöpft ist, haben Anspruch auf höchstens 150 Anschlusstaggelder.
+
+<sup>2</sup> Für Arbeitslose, die das 60. Altersjahr zurückgelegt haben und deren Bezugsberechtigung bei der obligatorischen Arbeitslosenversicherung erschöpft ist, kann der Grosse Rat den Anspruch auf höchstens 250 Anschlusstaggelder erhöhen.
+
+<sup>3</sup> Die Anschlusstaggelder dürfen zusammen mit den Taggeldern der obligatorischen Arbeitslosenversicherung 600 Taggelder nicht übersteigen. Diese Begrenzung kann bei zusätzlichen Anschlusstaggeldern gemäss Abs. 2 unberücksichtigt bleiben.
+
+<sup>4</sup> Volle Anschlusstaggelder betragen 90% des zuletzt bezogenen Taggeldes der obligatorischen Arbeitslosenversicherung zuzüglich eines allfälligen Zuschlages für Kinder- und Ausbildungszulagen. Der Regierungsrat kann diesen Zuschlag für im Ausland wohnhafte Kinder beschränken oder aufheben.
+
+<sup>5</sup> Anschlusstaggelder werden nur an Personen ausgerichtet, die bereit sind, an einer zugewiesenen arbeitsmarktlichen Massnahme gemäss Art. 59b AVIG teilzunehmen.
+
+<sup>6</sup> Der Regierungsrat bestimmt die für die Anspruchsberechtigung massgeblichen Einkommens- und Vermögensgrenzen, die Voraussetzungen für den Bezug, den Zuschlag für Kinder- und Ausbildungszulagen, die Anrechnung von Ersatzeinkommen und Stipendien, den Anspruch bei Krankheit, Unfall und Mutterschaft, die Rahmenfristen sowie das Verfahren. Bei der Festlegung der wirtschaftlich bescheidenen Verhältnisse werden die Einkommens- und Vermögensverhältnisse der Ehe- oder Lebenspartnerin oder des Ehe- oder Lebenspartners mitberücksichtigt. Dies gilt auch bei eingetragener Partnerschaft.
+
+#### Art. 7
+
+**Härtefälle**
+
+<sup>1</sup> Zur Vermeidung von Härtefällen können im begründeten Einzelfall Anschlusstaggelder gemäss Art. 6 gewährt werden, auch wenn kein Anspruch auf Taggelder der obligatorischen Arbeitslosenversicherung besteht.
+
+<sup>2</sup> Nicht als Härtefall gilt, wenn der Anspruch auf Anschlusstaggelder bereits ausgeschöpft ist.
+
+## 2 Organisation und Durchführung
+
+#### Art. 8
+
+**Kantonale Arbeitslosenkasse**
+
+<sup>1</sup> Der Kanton führt eine Arbeitslosenkasse als öffentlich-rechtliche Anstalt ohne eigene Rechtspersönlichkeit.
+
+<sup>2</sup> Die kantonale Arbeitslosenkasse erfüllt alle Aufgaben, die ihr durch das AVIG sowie weitere Erlasse des Bundes zugewiesen werden. Sie ist von der kantonalen Verwaltung unabhängig und führt ihre Aufgaben im Rahmen der bundesrechtlichen Aufsicht selbständig durch. Sie bestimmt den erforderlichen Personalbedarf und trifft alle Massnahmen zur zweckmässigen und rationellen Erfüllung der Aufgaben.
+
+<sup>3</sup> Ihr obliegt weiter die Durchführung dieses Gesetzes.
+
+<sup>4</sup> Die Geschäftsführung der kantonalen Arbeitslosenkasse wird der kantonalen AHV-Ausgleichskasse als übertragene Aufgabe gemäss Art. 63 Abs. 4 des Bundesgesetzes über die Alters- und Hinterlassenenversicherung übertragen. Die Buchhaltung und Geschäftsführung der AHV-Ausgleichskasse wird jährlich von einer unabhängigen Revisionsstelle geprüft, soweit Leistungen aus diesem Gesetz betroffen sind. Diese stellt den Bericht der kantonalen Aufsichtsbehörde zu.
+
+<sup>5</sup> Die Rechnungslegung der kantonalen Arbeitslosenkasse inklusive der Verwaltungskosten-Reserve richtet sich nach den geltenden bundesrechtlichen Bestimmungen. Die kantonale Arbeitslosenkasse inklusive der Verwaltungskosten-Reserve ist von der Konsolidierungspflicht gemäss Art. 32 Abs. 1 des Finanzhaushaltsgesetzes ausgenommen.
+
+#### Art. 9
+
+**Kantonale Amtsstelle**
+
+<sup>1</sup> Kantonale Amtsstelle im Sinne von Art. 85 AVIG ist das kantonale Arbeitsamt. Es kann Aufgaben delegieren.
+
+<sup>2</sup> Die kantonale Amtsstelle erfüllt alle Aufgaben, die ihr durch das AVIG zugewiesen werden. Soweit die Kosten für die Durchführung dieser Aufgaben von der obligatorischen Arbeitslosenversicherung getragen werden, bestimmt der Regierungsrat oder das von ihm als zuständig bezeichnete Departement den erforderlichen Personalbedarf und trifft alle Massnahmen zur zweckmässigen und rationellen Erfüllung der Aufgaben.
+
+<sup>3</sup> Leistungen und Beiträge gemäss Art. 3, 4, 5 und 7 bedürfen der Zustimmung durch die kantonale Amtsstelle und die kantonale Arbeitslosenkasse, sofern nicht der Regierungsrat zuständig ist.
+
+#### Art. 10
+
+**Gemeindestellen**
+
+<sup>1</sup> Die Gemeinden bezeichnen die Stelle, bei welcher sich die Versicherten zur Arbeitsvermittlung anmelden müssen. Sie können Aufgaben an die kantonale Amtsstelle delegieren.
+
+<sup>2</sup> Diese Stellen haben beim Vollzug der eidgenössischen und kantonalen Vorschriften nach den Weisungen der kantonalen Amtsstelle und der kantonalen Arbeitslosenkasse mitzuwirken.
+
+#### Art. 11
+
+**Aufsicht kantonale Arbeitslosenkasse**
+
+<sup>1</sup> Kantonale Aufsichtsbehörde ist der Regierungsrat oder das von ihm als zuständig bezeichnete Departement, soweit nicht die Aufsichtsbehörden des Bundes gemäss Art. 110 AVIG zuständig sind.
+
+<sup>2</sup> Der kantonalen Aufsichtsbehörde obliegt insbesondere:
+
+- a) die Bezeichnung der externen Revisionsstelle
+- b) die Vereinbarung mit der AHV-Ausgleichskasse über die Deckung der Verwaltungskosten
+- c) die Genehmigung von Jahresrechnung und Jahresbericht der AHV-Ausgleichskasse betreffend die Durchführung dieses Gesetzes
+- d) die Behandlung von Aufsichtsbeschwerden, welche nicht in die Zuständigkeit der Bundesbehörden fallen
+- e) der Erlass der notwendigen Ausführungsbestimmungen
+- f) die Festlegung des Satzes für die Beiträge der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer gemäss Art. 17 Abs. 1
+- g) die Bestimmung über die Verwendung des Vermögens gemäss Art. 19
+
+#### Art. 12
+
+**Deckung der Verwaltungskosten**
+
+<sup>1</sup> Sämtliche Kosten, die der AHV-Ausgleichskasse und der kantonalen Amtsstelle aus der Durchführung dieses Gesetzes entstehen, werden vergütet. Es kann ein fester Verwaltungskostenbeitrag vereinbart werden.
+
+#### Art. 13
+
+**Zusätzliche Feiertage mit Entschädigungsanspruch**
+
+<sup>1</sup> Der Regierungsrat bestimmt die weiteren Feiertage im Sinne von Art. 19 AVIG.
+
+#### Art. 14
+
+**Auskunfts- und Schweigepflicht**
+
+<sup>1</sup> Personen, die Leistungen aufgrund dieses Gesetzes erhalten, ihre gesetzlichen Vertretungen und die Arbeitgeberinnen und Arbeitgeber müssen den zuständigen Durchführungsstellen alle erforderlichen Auskünfte erteilen und die nötigen Unterlagen vorlegen.
+
+<sup>2</sup> Wer Leistungen aufgrund dieses Gesetzes bezieht, muss den Durchführungsstellen unaufgefordert alles melden, was für die Anspruchsberechtigung oder die Leistungsbemessung von Bedeutung ist.
+
+<sup>3</sup> Personen, die an der Durchführung, der Kontrolle oder Beaufsichtigung dieses Gesetzes beteiligt sind, haben über ihre Wahrnehmungen gegenüber Dritten Schweigen zu bewahren. Wo kein schützenswertes privates oder öffentliches Interesse vorliegt, kann der Regierungsrat Ausnahmen von der Schweigepflicht gestatten.
+
+#### Art. 15
+
+**Anwendbarkeit des AVIG**
+
+<sup>1</sup> Soweit dieses Gesetz nichts anderes bestimmt, gelten sinngemäss die Bestimmungen des AVIG, insbesondere für:
+
+- a) den Bezug und die Berechnung der Beiträge
+- b) die Anspruchsvoraussetzungen
+- c) die Umschreibung der Arbeitslosigkeit und des anrechenbaren Arbeitsausfalls
+- d) die Vermittlungsfähigkeit
+- e) die Zumutbarkeit der Arbeit
+- f) die Pflichten der Arbeitslosen
+- g) die Gewährung von Taggeldern bei vorübergehend fehlender oder verminderter Arbeitsfähigkeit
+- h) die Einstellung in der Anspruchsberechtigung
+- i) den Entzug des Leistungsanspruchs
+- j) die Verpfändung, Abtretung, Verrechnung, Zwecksicherung
+- k) die Rückforderung von Leistungen
+
+## 3 Finanzierung und Finanzkompetenzen
+
+#### Art. 16
+
+**Durchführungsstellen**
+
+<sup>1</sup> Der Sozialfonds trägt die Kosten für:
+
+- a) die Leistungen gemäss Art. 3–7
+- b) die Verwaltungskosten gemäss Art. 12
+- c) die Beiträge, die der Kanton aufgrund der obligatorischen Arbeitslosenversicherung übernehmen muss
+- d) …
+- e) die Beiträge an die Erwerbsersatzleistungen gemäss Art. 32 des Familien- und Sozialzulagengesetzes
+- f) die Beiträge, die der Kanton gemäss Bundesgesetz über die Familienzulage in der Landwirtschaft übernehmen muss
+
+#### Art. 17
+
+**Finanzierung des Sozialfonds**
+
+<sup>1</sup> Der Sozialfonds wird finanziert durch:
+
+- a) das Vermögen des Sozialfonds zum Zeitpunkt des Inkrafttretens dieses Gesetzes
+- b) Beiträge des Kantons
+- c) Beiträge der Gemeinden
+- d) einen jährlichen Beitrag von mindestens 0.03 Prozent und höchstens 0.3 Prozent der Bruttolohnsumme gemäss Art. 2 und Art. 3 AVIG, den Arbeitgeberinnen und Arbeitgeber zu zwei Dritteln, Arbeitnehmerinnen und Arbeitnehmer zu einem Drittel tragen
+- e) Zinserträge und allfällige weitere Zuwendungen
+
+<sup>2</sup> Der Grosse Rat kann den Lohnbeitrag gemäss Abs. 1 lit. d auf insgesamt höchstens 0.5 Prozent erhöhen.
+
+<sup>3</sup> Die Verwaltung des Sozialfonds obliegt der AHV-Ausgleichskasse als übertragene Aufgabe.
+
+<sup>4</sup> Die Rechnungslegung des Sozialfonds richtet sich nach den für die kantonale Arbeitslosenkasse geltenden bundesrechtlichen Bestimmungen. Der Sozialfonds ist von der Konsolidierungspflicht gemäss Art. 32 Abs. 1 des Finanzhaushaltsgesetzes ausgenommen.
+
+#### Art. 18
+
+**Kostenverteiler für Sozialfondsleistungen**
+
+<sup>1</sup> Kosten, die der Sozialfonds gemäss Art. 16 trägt, werden zur Hälfte von den Arbeitgeberinnen und Arbeitgebern, zu einem Viertel von den Arbeitnehmerinnen und Arbeitnehmern und zu je einem Achtel vom Kanton und von den Gemeinden getragen.
+
+<sup>2</sup> Liegt der Beitrag der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer über der Höchstgrenze gemäss Art. 17 Abs. 1 lit. d oder Abs. 2, tragen Kanton und Gemeinden diese überschiessenden Kosten je zur Hälfte. Die Kosten für die Beiträge an die obligatorische Arbeitslosenversicherung, die Kosten für die Leistungen gemäss Art. 32 des Familien- und Sozialzulagengesetzes sowie die Kosten für die Beiträge, die der Kanton gemäss Bundesgesetz über die Familienzulagen in der Landwirtschaft übernehmen muss, werden dabei mitberücksichtigt.
+
+<sup>3</sup> Liegt der Beitrag der Arbeitgeberinnen und Arbeitgeber sowie der Arbeitnehmerinnen und Arbeitnehmer über der Höchstgrenze gemäss Art. 17 Abs. 2, kann der Grosse Rat den Anspruch auf Anschlusstaggelder gemäss Art. 6 einschränken oder aufheben.
+
+<sup>4</sup> Der auf die Gemeinde entfallende Anteil wird nach der Wohnbevölkerung berechnet.
+
+<sup>5</sup> Der Kanton stellt der AHV-Ausgleichskasse die notwendigen Mittel vorschüssig zur Verfügung.
+
+#### Art. 19
+
+**Vermögen des Sozialfonds**
+
+<sup>1</sup> Das Vermögen des Sozialfonds darf Fr. 3'000'000.00 nicht unterschreiten. Beträgt das Vermögen mehr als 100% einer gesamten Jahresausgabe, mindestens jedoch Fr. 8'000'000.00, kann es zur Deckung der laufenden Ausgaben herangezogen werden.
+
+<sup>2</sup> Der Kostenverteiler für Leistungen des Sozialfonds gemäss dem Gesetz über Familien- und Sozialzulagen wird in jenem Gesetz geregelt.
+
+<sup>3</sup> Der Regierungsrat bestimmt, ob das Vermögen gemäss Abs. 1 für die Deckung der laufenden Ausgaben verwendet wird.
+
+#### Art. 20
+
+**Lohnbeiträge an den Sozialfonds**
+
+<sup>1</sup> Die Lohnbeiträge an den kantonalen Sozialfonds gemäss Art. 17 werden von allen Arbeitgeberinnen und Arbeitgebern erhoben, die im Kanton Schaffhausen einen Wohn- oder Geschäftssitz haben oder eine Zweigniederlassung oder Betriebsstätte unterhalten. Hiervon ausgenommen sind die Verwaltungen und öffentlich-rechtlichen Betriebe fremder Staaten sowie die eidgenössischen Verwaltungen und Betriebe mit Einschluss der Schweizerischen Unfallversicherungsanstalt.
+
+<sup>2</sup> Der Regierungsrat regelt den Bezug der Beiträge und das Verfahren.
+
+#### Art. 21
+
+**Finanzkompetenzen**
+
+<sup>1</sup> Der Regierungsrat entscheidet über kollektive Beratungs-, Umschulungs-, Weiterbildungs- und Eingliederungsmassnahmen gemäss Art. 4 und Anstellungsprogramme gemäss Art. 5 bis insgesamt Fr. 1'000'000.00 pro Jahr. Er kann die Kompetenz für den Beschluss solcher Massnahmen im Rahmen der bewilligten Mittel an die kantonale Amtsstelle und die kantonale Arbeitslosenkasse delegieren.
+
+<sup>2</sup> Der Grosse Rat entscheidet endgültig über Massnahmen gemäss Abs. 1, sofern diese Kosten von insgesamt mehr als Fr. 1'000'000.00 pro Jahr zur Folge haben. Er kann bestimmte Massnahmen beschliessen oder den Ausgabenrahmen festlegen.
+
+## 4 Rechtspflege und Strafbestimmungen
+
+#### Art. 22
+
+**Rechtsschutz im Bereich der Arbeitslosenversicherung**
+
+<sup>1</sup> Kantonale Beschwerdeinstanz im Bereich der eidgenössischen Arbeitslosenversicherung ist das Obergericht (Art. 36a VRG).
+
+#### Art. 23
+
+**Rechtsschutz im Bereich der Arbeitslosenhilfe**
+
+<sup>1</sup> Gegen Verfügungen der kantonalen Arbeitslosenkasse und der kantonalen Amtsstelle aufgrund dieses Gesetzes kann innert 30 Tagen seit der Zustellung bei der verfügenden Stelle schriftlich und begründet Einsprache erhoben werden.
+
+<sup>2</sup> Gegen Einspracheentscheide der kantonalen Arbeitslosenkasse und der kantonalen Amtsstelle kann innert 30 Tagen seit der Zustellung beim Obergericht schriftlich und begründet Beschwerde erhoben werden (Art. 36a VRG).
+
+#### Art. 24
+
+**Strafbestimmungen**
+
+<sup>1</sup> Mit Busse wird bestraft, wer:
+
+- a) durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder andere zu Unrecht Leistungen erwirkt
+- b) die Auskunftspflicht verletzt, indem er wissentlich unwahre oder unvollständige Auskunft erteilt oder die Auskunft verweigert
+- c) seine Meldepflicht verletzt
+- d) sich einer von der zuständigen Stelle angeordneten Kontrolle widersetzt oder diese auf andere Weise verunmöglicht
+- e) die vorgeschriebenen Formulare nicht oder nicht wahrheitsgetreu ausfüllt oder
+- f) die Schweigepflicht verletzt
+
+## 5 Schlussbestimmungen
+
+#### Art. 25
+
+**Büsingen**
+
+<sup>1</sup> Der Regierungsrat kann die Leistungen dieses Gesetzes gesamthaft oder teilweise für Arbeitslose mit Wohnsitz in Büsingen, die bereits Leistungen der obligatorischen Arbeitslosenversicherung bezogen haben, als anwendbar erklären, sofern sich das zuständige deutsche Gemeinwesen oder die zuständige Anstalt an diesen Kosten beteiligt. Er schliesst die notwendigen Vereinbarungen mit den zuständigen deutschen Behörden ab.
+
+<sup>2</sup> Diese Leistungen sind auf Personen beschränkt, die vor Eintritt der Arbeitslosigkeit während einer vom Regierungsrat festzulegenden Dauer bei einem Arbeitgeber im Kanton Schaffhausen angestellt waren.
+
+#### Art. 26
+
+**…**
+
+#### Art. 27
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für die Festlegung des Anspruchs und der Höhe von Anschlusstaggeldern gelten die Bestimmungen dieses Gesetzes ab seinem Inkrafttreten.
+
+<sup>2</sup> Die Kosten für arbeitsmarktliche Massnahmen, die aufgrund des Gesetzes über die Arbeitslosenversicherung, Arbeitslosenfürsorge und über Präventivmassnahmen vom 28. November 1983 verfügt, bei Inkrafttreten dieses Gesetzes aber noch nicht abgeschlossen sind, werden im verfügten Umfang noch übernommen.
+
+<sup>3</sup> Die Rechnung des Sozialfonds umfasst 1997 das ganze Kalenderjahr. Insbesondere werden sämtliche Kosten, die der Kanton aufgrund der obligatorischen Arbeitslosenversicherung 1997 übernehmen muss, berücksichtigt.
+
+<sup>4</sup> Der Kostenverteiler gemäss Art. 18 tritt auf den 1. Januar 1998 in Kraft. Der Arbeitgeberbeitrag an den Sozialfonds beträgt 1997 unabhängig vom Datum der Inkraftsetzung 0.2 Prozent der Bruttolohnsumme gemäss Art. 2 und Art. 3 AVIG. Der Beitrag der Arbeitnehmerinnen und Arbeitnehmer wird für 1997 nicht erhoben. Der Kanton und die Gemeinden tragen 1997 je einen Viertel der Ausgaben.
+
+#### Art. 28
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk und der Genehmigung der Ausführungsbestimmungen gemäss Art. 113 Abs. 1 AVIG durch den Bund[^28-1] auf einen vom Regierungsrat festzulegenden Zeitpunkt in Kraft[^28-2].
+
+<sup>2</sup> Es ersetzt das Gesetz über die Arbeitslosenversicherung, Arbeitslosenfürsorge und über die Präventivmassnahmen vom 28. November 1983.
+
+<sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^28-3] und in die kantonale Gesetzessammlung aufzunehmen.
+
+[^28-1]: Vom Eidgenössischen Volkswirtschaftsdepartement genehmigt am 18. Juli 1997.
+[^28-2]: In Kraft getreten am 1. Oktober 1997 (Amtsblatt 1997, S. 1342).
+[^28-3]: Amtsblatt 1997, S. 1331.
+
+Abl. 1997, S. 1331
