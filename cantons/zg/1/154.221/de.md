@@ -1,0 +1,271 @@
+---
+canton: ZG
+number: "154.221"
+title: Verordnung über besondere Entschädigungen
+short: Entschädigungsverordnung
+language: de
+version: 2019-01-01
+valid_until: 2023-12-31
+version_adopted: 2018-12-18
+adopted: 2010-08-10
+in_force: 2010-12-31
+url: "https://bgs.zg.ch/app/de/texts_of_law/154.221"
+pdf: "https://bgs.zg.ch/api/de/versions/1928/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über besondere Entschädigungen
+
+(Entschädigungsverordnung)
+
+Vom 10. August 2010 (Stand 1. Januar 2019)
+
+Der Regierungsrat des Kantons Zug,
+
+gestützt auf §§ 56 und 73 des Gesetzes über das Arbeitsverhältnis des Staatspersonals (Personalgesetz) vom 1. September 1994[^ingress-1] sowie § 20 der Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals (Personalverordnung) vom 12. Dezember 1994[^ingress-2],
+
+beschliesst:
+
+[^ingress-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
+[^ingress-2]: BGS [154.211](https://bgs.zg.ch/data/154.211/de)
+
+## 1. Geltungsbereich und Grundsätze
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Die Verordnung gilt für alle Mitarbeitenden des Kantons und der Gerichte.
+
+#### § 2
+
+**Allgemeine Grundsätze**
+
+<sup>1</sup> Als besondere Entschädigungen gelten gemäss § 56 Personalgesetz die Spesenentschädigungen und die Zulagen für eine ausserordentliche Inanspruchnahme der Mitarbeitenden.
+
+<sup>2</sup> Vorgesetzte und Mitarbeitende achten darauf, die zu entschädigenden Spesen und Zulagen auf das Notwendige zu beschränken.
+
+## 2. Spesenentschädigungen
+
+#### § 3
+
+**Grundsätze für Spesenentschädigungen**
+
+<sup>1</sup> Spesen sind Kosten, die den Mitarbeitenden bei der beruflichen Aufgabenerfüllung notwendigerweise anfallen.
+
+<sup>2</sup> Die Vorgesetzen bewilligen die Spesen.
+
+<sup>3</sup> Die Spesenentschädigungen orientieren sich an den tatsächlich anfallenden Kosten und können wie folgt ausbezahlt werden:
+
+- a) Gemäss den tatsächlich angefallenen Kosten;
+- b) oder nach festen Ansätzen für eine Aufgabe, einen Sachverhalt oder ein Ereignis;
+- c) oder pauschal für eine Aufgabe, einen Sachverhalt oder ein Ereignis.
+
+<sup>4</sup> Spesenentschädigungen werden nur gegen Beleg ausbezahlt und als Sachaufwand verbucht.
+
+#### § 4
+
+**Auswärtige Verpflegung und Unterkunft**
+
+<sup>1</sup> Bei erforderlichen Arbeitseinsätzen ausserhalb des Arbeits- und des Wohnortes werden die Kosten für auswärtige Verpflegung pauschal mit Fr. 30.– pro Hauptmahlzeit entschädigt.
+
+<sup>2</sup> Bei auswärtiger Unterkunft werden die tatsächlichen Übernachtungskosten (inkl. Frühstück) entschädigt. Bei Übernachtungskosten über Fr. 200.– ist die Zustimmung der zuständigen Direktion erforderlich.
+
+<sup>3</sup> Verpflegungskosten für die Einladung Dritter können entschädigt werden, wenn es im betrieblichen Interesse liegt.
+
+#### § 5
+
+**Notwendige Fahrten**
+
+<sup>1</sup> Die Fahrkosten zwischen Wohn- und Arbeitsort werden nicht entschädigt.
+
+<sup>2</sup> Für beruflich notwendige Fahrten sind grundsätzlich öffentliche Verkehrsmittel, Dienst- oder Mobility-Fahrzeuge zu benützen.
+
+<sup>3</sup> Für beruflich notwendige Fahrten mit öffentlichen Verkehrsmitteln werden die Kosten für ein Billett 1. Klasse entschädigt.
+
+<sup>4</sup> Bei regelmässig notwendiger Benützung öffentlicher Verkehrsmittel werden Halbtax- und andere Abonnemente oder Mehrfahrtenkarten zur Verfügung gestellt bzw. entschädigt, sofern diese kostengünstiger sind.
+
+<sup>5</sup> Die zuständigen Direktionen können im Einvernehmen mit dem Personalamt für genau definierte Personalkategorien mit häufigen, beruflich notwendigen Fahrten generelle Bewilligungen für die Benützung privater Motorfahrzeuge erteilen.
+
+<sup>6</sup> Im Einzelfall und nach Bewilligung durch die oder den Vorgesetzten werden die Auslagen für die Benutzung privater Motorfahrzeuge entschädigt, wenn der Nachweis erbracht wird, dass die Benützung öffentlicher Verkehrsmittel unverhältnismässig ist und kein Dienst- oder Mobility-Fahrzeug zur Verfügung steht.
+
+<sup>7</sup> Für das Parkieren der Fahrzeuge werden die tatsächlichen Kosten entschädigt.
+
+#### § 6
+
+**Benützung privater Motorfahrzeuge**
+
+<sup>1</sup> Die Benützung privater Motorfahrzeuge gemäss § 5 Abs. 5 und 6 wird mit folgenden Ansätzen entschädigt:
+
+- a) Für Personenwagen pro km und Kalenderjahr
+  - 1\. bis 2000 km 70 Rp.;
+  - 2\. ab 2000 km 65 Rp.;
+  - 3\. ab 5000 km 55 Rp.
+- b) Für Motorräder pro km 35 Rp.
+
+<sup>2</sup> Mit diesen Entschädigungen sind alle Ansprüche aus der beruflichen Benützung privater Motorfahrzeuge abgegolten, einschliesslich des Kostenanteils für Versicherungen. In Härtefällen können ungedeckte Schäden auf Gesuch hin ausnahmsweise ganz oder teilweise vom Kanton übernommen werden, sofern sie nicht durch grobfahrlässiges Verhalten verursacht wurden.
+
+<sup>3</sup> Ist das private Fahrzeug durch Materialtransporte, Fahrten in schwierigem Gelände und dergleichen regelmässig einer besonders starken Beanspruchung ausgesetzt, kann die zuständige Direktion im Einvernehmen mit dem Personalamt ausnahmsweise auf die Ansätze gemäss Abs. 1 einen Zuschlag von bis zu 20 Rappen pro Kilometer gewähren.
+
+<sup>4</sup> Bei regelmässiger Benützung privater Motorfahrzeuge zu beruflichen Zwecken gemäss § 5 Abs. 5 kann die zuständige Direktion im Einvernehmen mit dem Personalamt anstelle der obigen Ansätze jährliche Pauschalentschädigungen festsetzen.
+
+#### § 7
+
+**Wohnkostenbeitrag**
+
+<sup>1</sup> Mitarbeitenden des Rettungsdienstes, die im Umkreis von acht Minuten Fahrzeit ab Stützpunkt Wohnsitz nehmen, können auf Gesuch hin für die höheren Wohnkosten ganz oder teilweise entschädigt werden.
+
+<sup>2</sup> Der Anspruch auf Wohnungsentschädigung ist auf 20 % des Nettomietzinses beschränkt und beträgt höchstens Fr. 5000.– pro Jahr.
+
+<sup>3</sup> Die Gesuche sind durch die Gesundheitsdirektion zu genehmigen.
+
+#### § 8
+
+**Halten von Hunden**
+
+<sup>1</sup> Mitarbeitenden, die einen für den Polizeidienst ausgebildeten Polizeihund oder einen für die Nachsuche nach verletztem oder getötetem Wild geprüften Jagdhund halten und ihn weisungsgemäss beruflich einsetzen, wird eine Entschädigung von Fr. 3700.– pro Jahr ausgerichtet.
+
+<sup>2</sup> Wurde ein Hund mindestens zwei Jahre beruflich eingesetzt, kann die Hälfte des Anschaffungspreises entschädigt werden. Stirbt der Hund beim Arbeitseinsatz früher, so gilt diese Bedingung als erfüllt.
+
+#### § 9
+
+**Arbeitskleider und Sicherheitsausrüstung**
+
+<sup>1</sup> Den Mitarbeitenden werden je nach Funktion und Aufgabe die für die berufliche Aufgabenerfüllung nötigen speziellen Arbeitskleider sowie die vorgeschriebenen Sicherheitsausrüstungen zur Verfügung gestellt oder entschädigt.
+
+<sup>2</sup> Mitarbeitenden mit regelmässiger Feldarbeit, denen weder spezielle Arbeitskleider abgegeben noch entschädigt werden, kann eine Kleiderentschädigung bis maximal Fr. 80.– pro Monat ausgerichtet werden.
+
+<sup>3</sup> Die zuständigen Direktionen regeln die Einzelheiten und die Entschädigung im Einvernehmen mit dem Personalamt.
+
+#### § 10
+
+**Elektronische Arbeits- und Kommunikationsgeräte**
+
+<sup>1</sup> Elektronische Arbeits- und Kommunikationsgeräte für den beruflich notwendigen Gebrauch werden den Mitarbeitenden entweder zur Verfügung gestellt oder deren Nutzung wird entschädigt.
+
+#### § 11
+
+**Übrige Spesen**
+
+<sup>1</sup> In dieser Verordnung nicht namentlich aufgeführte Spesen werden gemäss den Grundsätzen in § 3 entschädigt.
+
+## 3. Zulagen für ausserordentliche Inanspruchnahme
+
+#### § 12
+
+**Grundsätze für Zulagen für ausserordentliche Inanspruchnahme**
+
+<sup>1</sup> Als Zulagen für ausserordentliche Inanspruchnahme gelten Entschädigungen für Nachteile aufgrund von Pikett-, Nacht- und Schichtdienst, Dienst an Sonn- und Feiertagen sowie ausserordentlicher physischer oder psychischer Belastung.
+
+<sup>2</sup> Mitarbeitende, die funktionsgemäss mit einer gewissen Regelmässigkeit Nachteile gemäss Abs. 1 erfahren, haben, sofern diese nicht mit dem Lohn abgegolten sind, Anspruch auf Abgeltung in Form von Zeitgutschriften oder Zulagen.
+
+<sup>3</sup> Alle Zulagen sind grundsätzlich auf den jeweiligen Sachverhalt bezogen und können fallweise oder pauschal ausgerichtet werden.
+
+<sup>4</sup> Zeitgutschriften oder Zulagen für Überstundenarbeit, Dienst in der Nacht sowie an Sonn- und Feiertagen können nicht kumuliert und geltend gemacht werden.
+
+#### § 13
+
+**Pikettdienst**
+
+<sup>1</sup> Beim Pikettdienst halten sich die Mitarbeitenden ausserhalb des Arbeitsplatzes und der regulären Arbeitszeit für allfällige Arbeitseinsätze bereit.
+
+<sup>2</sup> Für die Beschränkung der Freizeit durch jederzeitige Erreichbarkeit und Einsatzbereitschaft bei angeordnetem und zusammenhängendem Pikettdienst wird eine Entschädigung von Fr. 4.00 pro Stunde ausgerichtet.
+
+<sup>3</sup> Pikettdienst unter 4 Stunden wird nicht entschädigt, wenn die Mitarbeitenden eine Belastungszulage beziehen.
+
+<sup>4</sup> Arbeitseinsätze während des Pikettdienstes gelten als Überstundenarbeit und werden gemäss den Bestimmungen des Personalgesetzes und der Reglemente über die Arbeitszeit bzw. Jahresarbeitszeit abgegolten. Der Arbeitsweg zum Einsatzort wird als Arbeitszeit angerechnet.
+
+#### § 14
+
+**Nachtdienst**
+
+<sup>1</sup> Als Nachtdienst gilt der angeordnete Arbeitseinsatz in der Zeit zwischen 20.00 Uhr und 06.00 Uhr.
+
+<sup>2</sup> Bei Kompensation von Nachtdienst wird ein Zeitzuschlag, bei Entschädigung ein Lohnzuschlag von 25 % gewährt.
+
+#### § 15
+
+**Dienst an Sonn- und Feiertagen**
+
+<sup>1</sup> Als Sonn- und Feiertage gelten die Sonntage und die bezahlten arbeitsfreien Feiertage für Mitarbeitende der kantonalen Verwaltung.
+
+<sup>2</sup> Bei Einteilung zum Dienst an Sonn- und Feiertagen wird bei Kompensation ein Zeitzuschlag, bei Entschädigung ein Lohnzuschlag von 50 % gewährt.
+
+#### § 16
+
+**Schichtdienst**
+
+<sup>1</sup> Bei Einteilung im Schichtdienst werden die Zulagen für den Dienst in der Nacht sowie an Sonn- und Feiertagen pauschal ausgerichtet. Die Entschädigung beträgt Fr. 780.– pro Monat für Mitarbeitende mit einem Beschäftigungsgrad von 100 %. Für Teilzeitmitarbeitende reduziert sich die Entschädigung entsprechend ihrem Beschäftigungsgrad.
+
+<sup>2</sup> Ab dem 50. Altersjahr können anstelle der Entschädigung zwei zusätzliche arbeitsfreie Tage pro Monat gewählt werden.
+
+<sup>3</sup> Mitarbeitenden, die während mindestens 36 Monaten vor dem Ereignis regelmässig Schichtdienst geleistet haben, wird bei Unfall oder Krankheit die Schichtzulage im gleichen Umfang wie die Lohnfortzahlung ausgerichtet.
+
+#### § 17
+
+**Belastungszulage**
+
+<sup>1</sup> Die Belastungszulage ist eine zusätzliche Entschädigung für Mitarbeitende, deren Funktion regelmässig mit ausserordentlichen physischen oder psychischen Belastungen verbunden ist und die nicht bereits mit dem Lohn abgegolten wird.
+
+<sup>2</sup> Bei einem Beschäftigungsgrad von 100 % werden pro Jahr folgende Belastungszulagen ausgerichtet:
+
+- a) Fr. 5700.– für Mitarbeitende der Zuger Polizei und des Rettungsdienstes in Funktionen der Stufe A, Fr. 4800.– in Funktionen der Stufe B und Fr. 1500.– in Funktionen der Stufe C. Mitarbeitende, welche in Funktionen der Stufen A und B neu in den Polizei- oder Rettungsdienst eintreten, erhalten im ersten Jahr eine reduzierte Belastungszulage von Fr. 1800.– und im zweiten Jahr von Fr. 3600.–. Ab dem dritten Berufsjahr erhalten sie die der Funktion entsprechende ganze Belastungszulage. Den Mitarbeitenden, die über eine Ausnahmebewilligung von der Wohnsitzpflicht verfügen, wird die Belastungszulage um Fr. 600.– gekürzt.
+- b) Fr. 3600.– für Mitarbeitende der Abteilung Strassenunterhalt des kantonalen Tiefbauamtes und für das Aufsichts-Personal der Strafanstalt Zug.
+- c) Fr. 2500.– für Försterinnen oder Förster, Forstwartinnen oder Forstwarte und Waldarbeiterinnen oder Waldarbeiter des Kantonsforstamtes sowie für Aufseherinnen oder Aufseher des Amtes für Wald und Wild.
+
+<sup>3</sup> Beim Vorliegen besonderer Verhältnisse können lediglich Teilbeträge festgelegt werden. Für Teilzeitmitarbeitende reduziert sich die Belastungszulage entsprechend ihrem Beschäftigungsgrad.
+
+<sup>4</sup> Sind Mitarbeitende nicht mehr oder nicht mehr im gleichen Ausmass von ausserordentlichen Belastungen betroffen, streicht oder reduziert die zuständige Direktion die Belastungszulage.
+
+<sup>5</sup> Bei Unfall oder Krankheit wird die Belastungszulage im gleichen Umfang wie die Lohnfortzahlung ausgerichtet.
+
+## 4. Schlussbestimmungen
+
+#### § 18
+
+**Anpassung der Entschädigungen**
+
+<sup>1</sup> Der Regierungsrat prüft die Entschädigungen regelmässig und passt sie bei Bedarf an.
+
+#### § 19
+
+**Änderung bisherigen Rechts[^19-1]**
+
+[^19-1]: Die Änderungen sind bei den entsprechenden Erlassen publiziert.
+
+#### § 20
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden alle widersprechenden Vorschriften aufgehoben, insbesondere die folgenden Erlasse:
+
+- a) Reglement über die Nebenbezüge der Zuger Polizei vom 17. Juni 1997[^20-1]
+- b) Reglement über die Nebenbezüge des Strassenunterhaltspersonals vom 17. Juni 1997[^20-2]
+- c) Reglement über die Nebenbezüge des Personals des Kantonsforstamtes und des Amtes für Fischerei und Jagd vom 17. Juni 1997[^20-3]
+- d) Unterstellung des Rettungsdienstes unter das Reglement über die Nebenbezüge der Zuger Polizei vom 22. Juni 2004[^20-4]
+- e) Entschädigung für Spät-, Samstags-, Sonntags- und Pikettdienst beim Betriebspersonal der Liegenschaften vom 17. Juni 1997[^20-5]
+- f) Kleiderentschädigung für das Personal mit regelmässiger Feldarbeit vom 17. Juni 1997[^20-6]
+- g) Nebenzulagen für das Aufsichts-Personal der Strafanstalt Zug vom 17. Juni 1997[^20-7]
+- h) Entschädigung für die Leistung von Pikettdienst durch Angestellte des Amtes für Migration vom 17. Juni 1997[^20-8]
+- i) Reglement über die Nebenbezüge des hauptamtlichen Personals des Zivilschutzes vom 5. November 2002[^20-9]
+- j) Reglement über die Entschädigung für den Notfalldienst durch Mitarbeitende der Ambulanten Psychiatrischen Dienste vom 2. Februar 2010[^20-10]
+
+[^20-1]: GS 25, 587 (BGS [154.221](https://bgs.zg.ch/data/154.221/de))
+[^20-2]: GS 25, 591 (BGS [154.222](https://bgs.zg.ch/data/154.222/de))
+[^20-3]: GS 25, 595 (BGS [154.223](https://bgs.zg.ch/data/154.223/de))
+[^20-4]: GS 28, 115 (BGS [154.225](https://bgs.zg.ch/data/154.225/de))
+[^20-5]: GS 25, 601 (BGS [154.226](https://bgs.zg.ch/data/154.226/de))
+[^20-6]: GS 25, 603 (BGS [154.227](https://bgs.zg.ch/data/154.227/de))
+[^20-7]: GS 25, 605 (BGS [154.228](https://bgs.zg.ch/data/154.228/de))
+[^20-8]: GS 25, 607 (BGS [154.229](https://bgs.zg.ch/data/154.229/de))
+[^20-9]: GS 27, 555 (BGS [154.230](https://bgs.zg.ch/data/154.230/de))
+[^20-10]: GS 30, 439 (BGS [154.232](https://bgs.zg.ch/data/154.232/de))
+
+#### § 21
+
+**Inkrafttreten**
+
+<sup>1</sup> Die Verordnung tritt am 1. Januar 2011 in Kraft.
+
+GS 30, 561

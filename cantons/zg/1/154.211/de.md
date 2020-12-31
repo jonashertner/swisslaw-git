@@ -1,0 +1,535 @@
+---
+canton: ZG
+number: "154.211"
+title: Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
+short: Personalverordnung
+language: de
+version: 2018-01-01
+valid_until: 2022-07-01
+version_adopted: 2017-11-28
+adopted: 1994-12-12
+in_force: 1995-01-01
+url: "https://bgs.zg.ch/app/de/texts_of_law/154.211"
+pdf: "https://bgs.zg.ch/api/de/versions/1716/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Vollziehungsverordnung zum Gesetz über das Arbeitsverhältnis des Staatspersonals
+
+(Personalverordnung)
+
+Vom 12. Dezember 1994 (Stand 1. Januar 2018)
+
+Der Regierungsrat des Kantons Zug,
+
+gestützt auf § 73 des Gesetzes über das Arbeitsverhältnis des Staatspersonals (Personalgesetz) vom 1. September 1994[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Öffentlich-rechtliches Arbeitsverhältnis**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die im Sinne des Personalgesetzes und dieser Verordnung in einem öffentlich-rechtlichen Arbeitsverhältnis stehen, sind
+
+- a) das Verwaltungspersonal einschliesslich der Landschreiberin, des Landschreibers;
+- b) das Lehrpersonal der kantonalen Schulen;
+- c) das Justizpersonal einschliesslich der vom Volk gewählten hauptamtlichen Richterinnen und Richter;
+- d) die Datenschutzbeauftragte, der Datenschutzbeauftragte, deren bzw. dessen Stellvertretung sowie die Mitarbeiterinnen, Mitarbeiter der Datenschutzstelle;
+- e) die Ombudsperson, deren Stellvertretung sowie die Mitarbeiterinnen und Mitarbeiter der Ombudsstelle;
+- f) Praktikantinnen und Praktikanten sowie Auditorinnen und Auditoren;
+- g) Aushilfspersonal;
+- h) Hilfskräfte.
+
+<sup>2</sup> Auf die Mitarbeiterinnen und Mitarbeiter gemäss Abs. 1 Bst. c bis e sind die personalrechtlichen Bestimmungen nur insoweit anwendbar, als es mit den entsprechenden spezialgesetzlichen Regelungen[^1-1] vereinbar ist.
+
+<sup>3</sup> Beim Aushilfspersonal handelt es sich um Personen, die stellvertretend die Arbeit vorübergehend ausfallender Mitarbeiterinnen und Mitarbeiter übernehmen (z. B. bei Krankheit, Militärdienst, Beurlaubung).
+
+<sup>4</sup> Hilfskräfte sind Personen, die zur Erledigung eines vorübergehenden ausserordentlichen Arbeitsanfalls oder im Büroreinigungsdienst und dgl. befristet und/oder stundenweise angestellt sind.
+
+[^1-1]: vgl. BGS [161.1](https://bgs.zg.ch/data/161.1/de), [162.1](https://bgs.zg.ch/data/162.1/de), [157.1](https://bgs.zg.ch/data/157.1/de), [156.1](https://bgs.zg.ch/data/156.1/de)
+
+#### § 2
+
+**Zivilrechtliches Arbeitsverhältnis**
+
+<sup>1</sup> Lernende sind Personen, die befristet zum Zwecke ihrer Ausbildung beim Kanton in einem zivilrechtlichen Arbeitsverhältnis gemäss Art. 344 ff. OR [^2-1] tätig sind.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+[^2-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+#### § 3
+
+**Zuständigkeiten**
+
+<sup>1</sup> Wo in dieser Verordnung von den Direktionen die Rede ist, handelt es sich im Bereich der Justizverwaltung um die Präsidentin/den Präsidenten des Obergerichts bzw. des Verwaltungsgerichts.
+
+<sup>2</sup> Der Regierungsrat, das Obergericht und das Verwaltungsgericht können ihre gesetzlichen Zuständigkeiten an Direktionen sowie an die Ämter und Abteilungen gemäss Gesetz über die Organisation der Staatsverwaltung delegieren. Eine weitergehende Delegation ist nur mit dem Einverständnis des Regierungsrates, im Bereich der Justizverwaltung mit dem Einverständnis des Obergerichts bzw. des Verwaltungsgerichts zulässig.[^3-1] [^3-2]
+
+<sup>3</sup> Die Leiterinnen und Leiter der Ämter sind verantwortlich für die ordnungsgemässe Führung und Aufbewahrung der Personaldossiers ihrer Mitarbeiterinnen und Mitarbeiter. Für die Personaldossiers der Amtsleiterinnen und Amtsleiter ist die zuständige Direktionsvorsteherin bzw. der zuständige Direktionsvorsteher verantwortlich. Die Verantwortlichen können die damit zusammenhängenden Aufgaben delegieren.
+
+<sup>4</sup> Die zuständigen Stellen führen die Personaldossiers nach den Vorgaben und Grundsätzen der Verordnung über die Aktenführung[^3-3]. Die Dossiers werden entweder unter Verwendung des hierfür vom Personalamt zur Verfügung gestellten Systems vollständig elektronisch oder vollständig physisch geführt.
+
+<sup>5</sup> Das Personalamt führt eine Datensammlung mit Kopien der ihm zugestellten gehaltsrelevanten Personalakten.
+
+[^3-1]: Delegation an die Direktionen und die Staatskanzlei für individuelle Personalgeschäfte (§ 2 Abs. 1 und 2 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)). Davon ausgenommene Personalkategorien in § 2 Abs. 2 und 3 der Delegationsverordnung (DelV).
+[^3-2]: Delegation an die Direktionen und die Staatskanzlei für Beförderungen im Rahmen der Richtlinien des Regierungsrats. Keine Delegation ausserordentlicher Gehaltserhöhungen und Zuwendungen. Keine Delegation bei der Anstellung und Entlassung bei den Amtsleiterinnen und Amtsleitern sowie bei den Mitgliedern der Kindes- und Erwachsenenschutzbehörde (§ 2 Abs. 2 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
+[^3-3]: BGS [152.42](https://bgs.zg.ch/data/152.42/de)
+
+#### § 3a
+
+**Koordination**
+
+<sup>1</sup> Der Regierungsrat erlässt Weisungen, die für den rechtsgleichen Vollzug des Personalrechts nötig sind.
+
+<sup>2</sup> Die Direktionen, die Staatskanzlei und die Ämter treffen die personalrelevanten Entscheide nach Rücksprache mit dem Personalamt. Es sind dies insbesondere
+
+- a) Festlegung der Anstellungsbedingungen und Besoldungseinreihungen;
+- b) Beförderungen;
+- c) personalrechtliche Massnahmen;
+- d) Modalitäten einer einvernehmlichen Auflösung;
+- e) Abschluss einer Weiterbildungsvereinbarung.
+
+<sup>2a</sup> Von der Pflicht zur Rücksprache ausgenommen sind personalrelevante Entscheide im Bereich der Justizverwaltung, der Datenschutzstelle sowie der Ombudsstelle.
+
+<sup>3</sup> Stellt das Personalamt im Einzelfall fest, dass personalrechtliche Bestimmungen verletzt oder nicht einheitlich angewendet werden, versucht es, eine Einigung zu erzielen. Gelingt dies nicht, erstattet das Personalamt der Finanzdirektion Bericht. Die Finanzdirektion legt das Geschäft dem Regierungsrat zum Entscheid vor. Zudem entscheidet der Regierungsrat in Fragen grundsätzlicher personalrechtlicher Bedeutung.
+
+<sup>4</sup> Das Personalamt führt ein Personalhandbuch sowie eine Sammlung der wichtigsten personalrechtlichen Entscheide und berichtet der Finanzdirektion zuhanden des Regierungsrats regelmässig über die Einhaltung und die einheitliche Anwendung der personalrechtlichen Bestimmungen.
+
+<sup>5</sup> Um eine einheitliche Anwendung des Personalrechts zu überprüfen, kann das Personalamt kantonale Personal-Datensammlungen auswerten, namentlich im zentralen Personalinformationssystem.
+
+#### § 3b
+
+**Aufgaben des Personalamts**
+
+<sup>1</sup> Das Personalamt
+
+- a) erarbeitet und begutachtet rechtsetzende Erlasse, Richtlinien sowie Weisungen und bearbeitet grundsätzlich Fragen und Massnahmen im Personalwesen;
+- b) stellt die Auslegung und Anwendung des Personalrechts und der Lohnordnung nach rechtsgleichen und wirtschaftlichen Grundsätzen sicher, namentlich durch die Koordination der Praxis zwischen den Direktionen und die Abgabe von Empfehlungen;
+- c) betreibt das zentrale Personalinformationssystem sowie die zentrale Lohnverarbeitung;
+- d) plant und entwickelt in Zusammenarbeit mit weiteren Stellen organisatorische, administrative und technische Hilfsmittel für die Personalführung und -förderung;
+- e) begutachtet Fragen aus den einzelnen Arbeitsverhältnissen und nimmt mittels Mitberichten in personalrechtlichen Rechtsmittelverfahren Stellung;
+- f) plant und organisiert die zentrale Weiterbildung, führt Schulungsmassnahmen durch oder gibt sie Dritten in Auftrag;
+- g) koordiniert und überwacht die Ausbildung von kaufmännischen Lernenden, unterstützt die Berufsbildenden in allen anderen Lehrberufen sowie bei Praktika und berät die Direktionen bei der Schaffung neuer Lehrstellen und Praktikumsplätze;
+- h) sorgt für die angemessene Information und Instruktion der Ämter und des Personals über personelle Angelegenheiten;
+- i) berät und unterstützt im Einvernehmen mit den beteiligten Direktionen die Ämter und das Personal in personellen Angelegenheiten;
+- j) ist im Sinne einer verwaltungsinternen Koordinationspflicht verantwortlich für die Verwirklichung der tatsächlichen und rechtlichen Gleichstellung von Frau und Mann im Personalbereich;
+- k) erledigt weitere ihm vom Regierungsrat oder der Finanzdirektion zugewiesene Aufgaben im Personalbereich.
+
+#### § 4
+
+**Vorbehaltenes und ergänzendes Recht**
+
+<sup>1</sup> Vom Personalgesetz oder dieser Verordnung abweichende Vorschriften oder vertragliche Regelungen dürfen nur erlassen werden, wenn besondere Verhältnisse dies erfordern.
+
+<sup>2</sup> Vorbehalten bleiben abweichende oder ergänzende Vorschriften bzw. Regelungen für:
+
+- a) bestimmte Personalkategorien (z. B. Polizei, Lehrpersonen);
+- b) bestimmte Arbeitsverhältnisse (z. B. Ausbildungs- und Praktikumsverhältnisse, Aushilfen oder Hilfskräfte);
+- c) bestimmte Sachbereiche (z. B. Regelung der Arbeitszeit).
+
+<sup>3</sup> Soweit dem Personalgesetz und dieser Verordnung sowie darauf gestützten weiteren Erlassen für Fragen, zu deren Entscheidung es notwendigerweise eines Rechtssatzes bedarf, keine Regelung entnommen werden kann (echte Lücken), sind die Bestimmungen des Zivilrechts sinngemäss anwendbar.
+
+## 2. Begründung des Arbeitsverhältnisses
+
+#### § 5
+
+**Personalgewinnung**
+
+<sup>1</sup> Offene Stellen sind in der Regel zur freien Bewerbung über das Personalamt in den geeigneten Medien veröffentlichen zu lassen. Sind geeignete Bewerberinnen und Bewerber bekannt, so kann auf eine öffentliche Ausschreibung verzichtet werden und die Anstellung auf dem Berufungswege erfolgen.
+
+<sup>2</sup> Stellenausschreibungen und Personalwerbung sind so zu gestalten, dass sie sich an beide Geschlechter richten.
+
+<sup>3</sup> Der Beizug externer Beratungsstellen für die Personalbeschaffung liegt bis zu einem Kostendach von 2000 Franken in der Verantwortung der jeweiligen Direktion. Weitergehende Kosten bedürfen der Zustimmung der Finanzdirektion.
+
+#### § 6
+
+**Teilzeitbeschäftigung**
+
+<sup>1</sup> Die Ämter und Abteilungen prüfen vor der Besetzung einer Stelle, ob diese auch durch mehrere Mitarbeiterinnen und Mitarbeiter im Teilzeitpensum besetzt werden kann.
+
+<sup>2</sup> Steht der Besetzung einer offenen Stelle durch mehrere Mitarbeiterinnen und Mitarbeiter im Teilzeitpensum nichts entgegen, so ist bei der Stellenausschreibung darauf hinzuweisen.
+
+<sup>3</sup> Mitarbeiterinnen und Mitarbeitern, die sich eine Stelle teilen, ist wenn möglich ein gemeinsamer Arbeitsplatz zuzuweisen.
+
+#### § 7
+
+**Arztzeugnis und Eignungstest**
+
+<sup>1</sup> Die Anstellung kann vom Ergebnis einer ärztlichen Untersuchung sowie von Eignungstests abhängig gemacht werden. Die Kosten trägt der Kanton.
+
+#### § 8
+
+**Probezeit**
+
+<sup>1</sup> Die Verlängerung der Probezeit bis zu 6 Monaten kann entweder vertraglich vereinbart oder nach Anhörung der Betroffenen von der zuständigen Stelle spätestens 2 Wochen vor Ablauf der gesetzlichen Probezeit angeordnet werden.
+
+<sup>2</sup> Die Festsetzung der Probezeit auf über 3 Monate bzw. die Verlängerung der Probezeit bei befristeten Arbeitsverhältnissen ist nur bei mindestens einjähriger Vertragsdauer möglich.
+
+<sup>3</sup> Bei einem Stellenwechsel innerhalb der Kantonsverwaltung kann auf die Ansetzung einer Probezeit verzichtet werden.
+
+## 3. Beendigung des Arbeitsverhältnisses
+
+#### § 9
+
+**Kündigung seitens der Mitarbeiterin/des Mitarbeiters**
+
+<sup>1</sup> Die Kündigung ist der vorgesetzten Stelle schriftlich einzureichen. Adressatin der Kündigung ist die für die Kündigung seitens des Kantons zuständige Stelle.
+
+<sup>2</sup> Arbeitszeugnisse werden von der unmittelbar vorgesetzten Stelle ausgestellt und von der für die Anstellung der betreffenden Mitarbeiterin bzw. des betreffenden Mitarbeiters zuständigen Stelle unterschrieben.
+
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter, die gemäss den Bestimmungen des Personalgesetzes von ihrem Recht auf vorzeitigen Altersrücktritt Gebrauch machen, haben diese Erklärung unter Einhaltung der Kündigungsfrist und des Kündigungstermins der vorgesetzten Stelle zuhanden der zuständigen Direktion schriftlich einzureichen.
+
+<sup>4</sup> Die Länge der Kündigungsfrist richtet sich nach der im Zeitpunkt der Kündigung oder der Mitteilung des vorzeitigen Altersrücktritts massgeblichen Frist.
+
+#### § 10
+
+**Kündigung seitens des Kantons**
+
+<sup>1</sup> Über eine bevorstehende Kündigung müssen die Betroffenen rechtzeitig informiert werden und Gelegenheit zur Stellungnahme erhalten.
+
+<sup>2</sup> …
+
+<sup>3</sup> …
+
+#### § 10a
+
+**Vorsorgliche Massnahmen**
+
+<sup>1</sup> Die für die Kündigung zuständige Stelle kann vorsorgliche Massnahmen anordnen.
+
+<sup>2</sup> Unaufschiebbare vorsorgliche Massnahmen können durch alle vorgesetzten Stellen angeordnet werden. Die Anordnung ist unverzüglich der in Abs. 1 genannten Stelle zur Genehmigung vorzulegen, die auch über die Weiterausrichtung, Kürzung oder den Entzug des Lohns entscheidet.
+
+#### § 10b
+
+**Aufgeschobener Altersrücktritt**
+
+<sup>1</sup> Eine nahtlose Weiterbeschäftigung beim Kanton in gleicher oder anderer Funktion ist nach Erreichen der Altersgrenze in der Regel nur im Rahmen einer aufgeschobenen Pensionierung, das heisst nur bei vollständigem oder teilweisem Aufschub des Bezugs der Altersleistungen, möglich.
+
+<sup>2</sup> Die Mitarbeiterin oder der Mitarbeiter hat der vorgesetzten Stelle mindestens sechs Monate vor Erreichen der Altersgrenze mitzuteilen, dass und unter welchen Bedingungen sie bzw. er gewillt ist, die Pensionierung aufzuschieben.
+
+<sup>3</sup> Die Weiterbeschäftigung nach Erreichen der Altersgrenze erfolgt im Rahmen eines befristeten Arbeitsverhältnisses und nach den hierfür geltenden Bestimmungen. Im Hinblick auf die Ausrichtung der Treue- und Erfahrungszulage und des Dienstaltersgeschenks, sind zur Berechnung der massgebenden Dienstjahre die Dienstzeiten vor und nach Erreichen der Altersgrenze zusammenzuzählen. Bei einer Wiederaufnahme der Tätigkeit im Rahmen eines Arbeitsverhältnisses als Aushilfe oder Hilfskraft nach ordentlicher Pensionierung wird weder die Treue- und Erfahrungszulage noch ein allfälliges Dienstaltersgeschenk ausgerichtet.
+
+## 4. Pflichten und Rechte
+
+### 4.1. Allgemeines
+
+#### § 11
+
+**Amtsgeheimnis**
+
+<sup>1</sup> Bestehen Zweifel, ob an einer Tatsache ein öffentliches oder ein schützenswertes privates Geheimhaltungsinteresse besteht, so wird bis zum Entscheid durch die zuständige Direktion das Bestehen eines Amtsgeheimnisses vermutet.
+
+#### § 12
+
+**Ausstandspflicht**
+
+<sup>1</sup> Bezüglich der Ausstandsgründe gelten die einschlägigen Vorschriften des Verwaltungsrechtspflegegesetzes[^12-1] und der Geschäftsordnung des Regierungsrats[^12-2].
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter, die nach diesen Vorschriften zum Ausstand verpflichtet sind, haben dies der vorgesetzten Stelle zu melden. In Zweifelsfällen entscheidet die zuständige Direktion.
+
+<sup>3</sup> Die Ausstandspflicht der Rechtspflegeorgane regelt die Schweizerische Zivilprozessordnung[^12-3], die Schweizerische Strafprozessordnung[^12-4], das Gerichtsorganisationsgesetz[^12-5] und das Verwaltungsrechtspflegegesetz[^12-6].
+
+[^12-1]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+[^12-2]: BGS [151.1](https://bgs.zg.ch/data/151.1/de)
+[^12-3]: SR [272](https://db.clex.ch/link/Bund/272/de)
+[^12-4]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+[^12-5]: BGS [161.1](https://bgs.zg.ch/data/161.1/de)
+[^12-6]: BGS [162.1](https://bgs.zg.ch/data/162.1/de)
+
+#### § 13
+
+**Stellvertretung**
+
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, sich bei Abwesenheit nach den Weisungen der vorgesetzten Stelle gegenseitig zu vertreten. Daraus entsteht kein Anspruch auf Entschädigung. Vorbehalten bleiben abweichende Beschlüsse des Regierungsrats im Einzelfall bei längerfristigen Absenzen (z. B. langdauernde Krankheit oder Dienstleistung, Mutterschaftsurlaub).
+
+#### § 13a
+
+**Telearbeit**
+
+<sup>1</sup> Mit Genehmigung der Leiterin bzw. des Leiters des Amts können Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung in Form von Telearbeit erbringen. Weder besteht ein Rechtsanspruch auf Telearbeit noch kann diese angeordnet werden.
+
+<sup>2</sup> Telearbeit liegt vor, wenn Mitarbeiterinnen und Mitarbeiter ihre Arbeitsleistung regelmässig ganz oder teilweise an einem auswärtigen, mit der kantonalen Informatikstruktur vernetzten Arbeitsort erbringen.
+
+<sup>3</sup> Nicht als Telearbeit gelten der gelegentliche Fernzugriff auf die Informatiksysteme und das Datennetz der Kantonsverwaltung sowie Tätigkeiten, die sporadisch ausserhalb des ordentlichen Arbeitsplatzes ausgeführt werden.
+
+<sup>4</sup> Das Personalamt regelt das Weitere.
+
+#### § 14
+
+**…**
+
+#### § 14a
+
+**Öffentliches Nebenamt**
+
+<sup>1</sup> Als öffentliches Nebenamt gilt:
+
+- a) eine entgeltliche oder unentgeltliche Tätigkeit als Mitglied eines Parlaments, einer Exekutive, eines Gerichts oder einer Kommission der Eidgenossenschaft, eines Kantons, einer Gemeinde oder einer anderen Körperschaft des öffentlichen Rechts;
+- b) die freiwillige Dienstleistung (Dienstleistung nach Erreichen des Höchstalters für die Feuerwehrpflicht, Dienstleistung trotz Vorliegens eines Befreiungsgrunds) in einer Feuerwehr.
+
+<sup>2</sup> Nicht als öffentliches Nebenamt gilt die bewilligungspflichtige Tätigkeit als Mitglied einer Kommission oder einer Arbeitsgruppe sowie als Organ eines öffentlichen oder gemischtwirtschaftlichen Unternehmens, welche zum Aufgabenbereich einer Stelle gehört bzw. einen direkten Bezug zur Arbeit in der Kantonsverwaltung hat.
+
+<sup>3</sup> Die Bewilligung zur Ausübung eines öffentlichen Nebenamts ist vor der Kandidatur oder im Falle der Berufung vor der Annahme des Amts bei der zuständigen Stelle einzuholen.
+
+<sup>4</sup> Die Ausübung eines öffentlichen Nebenamts einschliesslich aller damit verbundenen Arbeiten soll nach Möglichkeit in der arbeitsfreien Zeit unter Ausnützung der Jahresarbeitszeit erfolgen. Soweit dies nicht möglich ist, besteht Anspruch auf bezahlten Urlaub von höchstens 12 Arbeitstagen pro Jahr. Über die Gewährung des Urlaubs in diesem Rahmen entscheidet die zuständige Stelle.
+
+#### § 14b
+
+**Nebenerwerb**
+
+<sup>1</sup> Als Nebenerwerb gilt eine üblicherweise besoldete Tätigkeit, die ausserhalb des bestehenden Arbeitsverhältnisses mit dem Kanton stattfindet, unabhängig von deren Umfang. Der Nebenerwerb kann wirtschaftlicher, politischer oder ideeller Natur sein.
+
+<sup>2</sup> Nebenerwerbstätigkeiten von Mitarbeiterinnen und Mitarbeitern, welche mit einem Beschäftigungsumfang von unter 50 % angestellt sind, gelten als bewilligt, sofern nicht die Bewilligung innert 20 Arbeitstagen seit der Meldung schriftlich verweigert wird.
+
+#### § 15
+
+**Bewilligung von öffentlichen Nebenämtern und Nebenerwerb**
+
+<sup>1</sup> Wird die dienstliche Aufgabenerfüllung durch die Ausübung eines öffentlichen Nebenamts oder einer Nebenerwerbstätigkeit nicht beeinträchtigt, so besteht Anspruch auf eine entsprechende Bewilligung.
+
+<sup>2</sup> Besteht eine Beeinträchtigung der dienstlichen Aufgabenerfüllung nur in zeitlicher Hinsicht, so kann die Bewilligung von einer Reduktion des Beschäftigungsgrads abhängig gemacht werden.
+
+<sup>3</sup> Die Bewilligung kann unter Bedingungen und Auflagen erteilt werden. Sie kann zurückgezogen werden, wenn die Voraussetzungen der Bewilligungserteilung nicht mehr erfüllt sind.
+
+<sup>4</sup> …
+
+<sup>5</sup> …
+
+<sup>6</sup> Die Direktionen sorgen dafür, dass über die in ihrem Bereich erteilten Bewilligungen ein Verzeichnis geführt wird.
+
+#### § 16
+
+**Meldepflicht**
+
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter sind verpflichtet, den Eintritt und die Änderung sämtlicher Tatsachen, die auf die Berechnung und Ausrichtung des Gehaltes sowie der Zulagen, Entschädigungen und Vergütungen aller Art Einfluss haben, unaufgefordert dem Personalamt zu melden.
+
+<sup>2</sup> Öffentliche Nebenämter und Nebenerwerbstätigkeiten sind bei der Anstellung offen zu legen und von den Mitarbeiterinnen und Mitarbeitern während der Anstellung unaufgefordert der zuständigen Stelle zwecks Bewilligung zu melden.
+
+<sup>3</sup> In besonderen Fällen, namentlich bei Lehrpersonen und beim Reinigungspersonal mit einem Beschäftigungsumfang von weniger als 50 %, können die Direktionen von der unaufgeforderten Pflicht zur Meldung von Nebenerwerbstätigkeiten absehen und eine periodische Meldepflicht einführen.
+
+#### § 17
+
+**Urheberrecht**
+
+<sup>1</sup> Werden von Mitarbeiterinnen und Mitarbeitern in Erfüllung ihrer dienstlichen Obliegenheiten Werke mit wissenschaftlichem, kulturellem oder technischem Inhalt geschaffen (z. B. Abhandlungen, Gutachten, Pläne, Computerprogramme), so stehen die Urheberrechte, insbesondere die Verwendungsbefugnisse, ausschliesslich dem Kanton zu.
+
+### 4.1a. Meldung von Missständen, Korruptionsprävention
+
+#### § 17a
+
+**Meldung von Missständen**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können Missstände im Sinne von § 28<sup>bis</sup> Personalgesetz[^17a-1] der Ombudsstelle des Kantons Zug melden.
+
+<sup>2</sup> Soweit diese Verordnung keine abweichenden Regelungen enthält, sind für das Verfahren zur Meldung von Missständen die Bestimmungen über das Verfahren im Gesetz über die Ombudsstelle[^17a-2] sinngemäss anwendbar.
+
+[^17a-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
+[^17a-2]: BGS [156.1](https://bgs.zg.ch/data/156.1/de)
+
+#### § 17b
+
+**Aufgaben der Meldestelle**
+
+<sup>1</sup> Die Ombudsstelle klärt die meldenden Mitarbeiterinnen und Mitarbeiter über das Verfahren sowie über ihre Rechte und Pflichten bzw. die möglichen Konsequenzen einer treuwidrigen Meldung auf.
+
+<sup>2</sup> Erachtet die Ombudsstelle die Anordnung einer Massnahme als geboten, so informiert sie die unmittelbar vorgesetzte oder eine andere übergeordnete Stelle der vom Missstand betroffenen Verwaltungs-, Gerichts- oder kantonalen Schulabteilung bzw. das zuständige Organ der vom Missstand betroffenen Anstalt über die Meldung.
+
+<sup>3</sup> Wenn keine überwiegenden privaten oder öffentlichen Interessen entgegenstehen, erteilt die Ombudsstelle der meldenden Mitarbeiterin oder dem meldenden Mitarbeiter Auskunft über die Erledigung der Meldung.
+
+#### § 17c
+
+**Mitwirkung der Aufgabenträger**
+
+<sup>1</sup> Die vorgesetzten Stellen der vom Missstand betroffenen Verwaltungs-, Gerichts- oder kantonalen Schuleinheit bzw. das zuständige Organ der betroffenen kantonalen Anstalt informieren die Ombudsstelle sowohl über beabsichtigte als auch über umgesetzte Massnahmen.
+
+#### § 17d
+
+**Geschenkannahmeverbot**
+
+<sup>1</sup> Als Geschenke und Vorteile gelten geldwerte Zuwendungen wie Sach- und Geldleistungen, Einladungen zum Essen oder zu Veranstaltungen, Vergütungen oder Rabatte usw.
+
+<sup>2</sup> Ein Geschenk oder Vorteil von geringem Wert liegt vor und darf angenommen werden, wenn:
+
+- a) der Wert des Geschenks oder Vorteils nicht mehr als 150 Franken beträgt, wobei mehrere Geschenke von der gleichen Geberin bzw. dem gleichen Geber innerhalb eines Jahres zur Bestimmung des Werts zusammenzuzählen sind; und
+- b) das Geschenk oder der Vorteil nicht geeignet ist, einen Beschaffungs- oder Entscheid-Prozess zu beeinflussen; und
+- c) das Geschenk oder der Vorteil eine erbrachte Dienstleistung honoriert oder Ausdruck einer allgemeinen Wertschätzung des Kantons oder seiner Vertreterin bzw. seines Vertreters ist.
+
+<sup>3</sup> Bestehen Zweifel, ob ein Geschenk von geringem Wert vorliegt, entscheidet die vorgesetzte Stelle über die Zulässigkeit der Annahme.
+
+<sup>4</sup> Die Direktionen bzw. das Ober- oder Verwaltungsgericht können das Geschenkannahmeverbot für einzelne Ämter oder Abteilungen weiter einschränken.
+
+### 4.2. Lohn und lohnähnliche Vergütungen
+
+#### § 18
+
+**Auszahlung**
+
+<sup>1</sup> Die Auszahlung von Löhnen und lohnähnlichen Entschädigungen erfolgt auf Bank- oder Postcheckkonti. Barauszahlung ist nur ausnahmsweise beim Vorliegen besonderer Umstände zulässig.
+
+#### § 19
+
+**Dienstaltersgeschenk**
+
+<sup>1</sup> Bei Beendigung des Arbeitsverhältnisses zwischen dem 30. und dem 35. Dienstjahr wird das zweite Dienstaltersgeschenk anteilsmässig zu je einem Fünftel pro vollendetes oder mindestens zur Hälfte erfülltes Dienstjahr ausgerichtet.
+
+<sup>2</sup> Wird die Hälfte des Dienstaltersgeschenks als Urlaub bezogen, so beträgt dieser 11 Arbeitstage. Massgebend für die Anrechnung der Stundenzahl dieser 11 Arbeitstage ist der Durchschnitt aus der Anzahl der täglichen Sollstunden während der letzten fünf Dienstjahre einschliesslich des Monats des Dienstjubiläums. Der Urlaub ist in der Regel spätestens im auf die Entstehung des Anspruchs folgenden Kalenderjahr zu beziehen. Beim Vorliegen besonderer Gründe kann die zuständige Direktion Ausnahmen bewilligen.
+
+#### § 20
+
+**Entgelt für ausserordentliche Inanspruchnahme**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die funktionsgemäss mit einer gewissen Regelmässigkeit während der arbeitsfreien Zeit eingesetzt werden oder deren Dienst mit besonderen Belastungen verbunden ist, haben, sofern diese Beanspruchung nicht mit dem Gehalt abgegolten ist, Anspruch auf besondere Entschädigungen und Zulagen (z. B. Belastungs-, Pikett-, Nacht- und Sonntagsdienst-, Schichtdienstzulagen).
+
+<sup>2</sup> Der Regierungsrat regelt das Nähere.
+
+#### § 21
+
+**…**
+
+#### § 22
+
+**Vergütungen durch Dritte**
+
+<sup>1</sup> Honorare und Entschädigungen Dritter für Leistungen, die zum dienstlichen Aufgabenbereich gehören, namentlich für Tätigkeiten gemäss § 14a Abs. 2, fallen in die Staatskasse.
+
+<sup>2</sup> Vorbehalten bleiben anderslautende gesetzliche Vorschriften oder Verfügungen der Direktionen, z. B. für den Fall, dass die Leistungen ausnahmsweise ausserhalb der Arbeitszeiten erbracht werden. Diese bedürfen der Zustimmung der Finanzdirektion.
+
+### 4.3. Spesenersatz
+
+#### § 23
+
+**…**
+
+#### § 24
+
+**…**
+
+#### § 25
+
+**…**
+
+#### § 26
+
+**…**
+
+#### § 27
+
+**…**
+
+#### § 28
+
+**Fort- und Weiterbildungskosten**
+
+<sup>1</sup> Soweit die Mitarbeiterinnen und Mitarbeiter zur beruflichen Fort- und Weiterbildung bzw. zur Aus- und Zusatzbildung durch Teilnahme an bestimmten Veranstaltungen (Kurse, Seminare, Tagungen zur Fachausbildung, Führungsschulung oder zum Erfahrungsaustausch) verpflichtet werden, trägt der Kanton die Kosten.
+
+<sup>2</sup> An die Kosten der freiwilligen Fort- und Weiterbildung bzw. Zusatzbildung kann ein Beitrag bewilligt werden, sofern die Fort- und Weiterbildung bzw. Zusatzbildung im Interesse des Kantons liegt. Die Beitragsleistung kann für den Fall, dass das Arbeitsverhältnis innerhalb einer bestimmten Frist nach Beendigung der Weiterbildung seitens der Mitarbeiterin oder des Mitarbeiters gekündigt wird, unter dem Vorbehalt der Rückerstattung bewilligt werden.
+
+<sup>3</sup> …
+
+<sup>4</sup> Die Voraussetzungen und den Umfang der Kostenbeteiligung des Kantons sowie der Rückerstattungsverpflichtung der Mitarbeiterinnen und Mitarbeiter legt der Regierungsrat in einem separaten Reglement[^28-1] fest.
+
+[^28-1]: Reglement über die Weiter- oder Zusatzbildung sowie den Studienurlaub des Staatspersonals; BGS [154.215](https://bgs.zg.ch/data/154.215/de)
+
+### 4.4. Rechnungsstellung
+
+#### § 29
+
+**Frist**
+
+<sup>1</sup> Besondere Entschädigungen wie Zulagen, sofern es sich nicht um feste und regelmässig ausbezahlte Entschädigungen handelt, ferner die Entschädigungen für Überstundenarbeit sowie die Spesenentschädigungen sind mit detaillierter Abrechnung in der Regel vierteljährlich, spätestens jedoch am 15. Januar für das vorausgegangene Kalenderjahr geltend zu machen.
+
+#### § 29a
+
+**Rechtsschutz**
+
+<sup>1</sup> Gewähren die Direktionen den Mitarbeiterinnen und Mitarbeitern Rechtsschutz nach § 56<sup>bis</sup> Personalgesetz[^29a-1], so haben diese Anspruch auf:
+
+- a) Deckung bzw. Übernahme der Anwaltskosten für eine Rechtsvertreterin oder einen Rechtsvertreter nach freier Wahl bis zu einem Stundenansatz von maximal 300 Franken.
+- b) Ersatz der ihrer Rechtsvertreterin oder ihrem Rechtsvertreter entstandenen Barauslagen (bezahlte Gerichtskosten, Reisespesen, Porto und Telefonauslagen, Fotokopien etc.). Der Ersatz notwendiger Auslagen kann von der Rechtsvertreterin oder dem Rechtsvertreter pauschal mit 3 % des Honorars, höchstens 1000 Franken, berechnet werden.
+- c) Übernahme der ihnen auferlegten Gerichts- und Parteikosten;
+- d) Übernahme der ihnen auferlegten Prozessentschädigung an die Gegenpartei;
+- e) Übernahme der Kosten für das Inkasso der ihnen aus dem Rechtsfall zustehenden Forderungen;
+- f) Übernahme von Strafkautionen zur Vermeidung der Anordnung von Untersuchungshaft;
+- g) Übernahme der Kosten für das Mediationsverfahren bis zu einem Stundenansatz von maximal 300 Franken.
+- h) Ersatz der der Mediatorin oder dem Mediator entstandenen Barauslagen. Der Ersatz notwendiger Auslagen kann von der Mediatorin oder dem Mediator pauschal mit 3 % des Honorars, höchstens 1000 Franken, berechnet werden.
+
+<sup>2</sup> Ergibt das Verfahren, dass die Mitarbeiterin bzw. der Mitarbeiter die Amtspflichten vorsätzlich verletzt hat, so hat sie bzw. er die übernommenen Kosten vollumfänglich zurückzuerstatten. Hat sie bzw. er grobfahrlässig gehandelt, so hat sie bzw. er die übernommenen Kosten in einem dem Grad des Verschuldens entsprechenden Verhältnis zurückzuerstatten.
+
+[^29a-1]: BGS [154.21](https://bgs.zg.ch/data/154.21/de)
+
+### 4.5. Ferien und Urlaub
+
+#### § 30
+
+**…**
+
+#### § 31
+
+**…**
+
+#### § 32
+
+**…**
+
+#### § 33
+
+**…**
+
+#### § 34
+
+**…**
+
+### 4.6. Verhinderung an der Arbeitsleistung
+
+#### § 35
+
+**…**
+
+#### § 36
+
+**…**
+
+#### § 37
+
+**…**
+
+### 4.7. Schluss- und Übergangsbestimmungen
+
+#### § 38
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 1995 in Kraft.
+
+#### § 39
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden alle widersprechenden Vorschriften aufgehoben, insbesondere die Vollziehungsverordnung zum Gesetz über das Dienstverhältnis und die Besoldung der hauptamtlichen Beamten und Angestellten (Personalverordnung) vom 4. April 1967[^39-1].
+
+[^39-1]: GS 19, 293
+
+#### § 40
+
+**[^40-1]**
+
+[^40-1]: erledigte Übergangsbestimmung
+
+#### § 41
+
+**…**
+
+#### § 42
+
+**…**
+
+GS 24, 591

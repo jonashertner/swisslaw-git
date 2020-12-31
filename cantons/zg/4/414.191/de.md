@@ -1,0 +1,624 @@
+---
+canton: ZG
+number: "414.191"
+title: Reglement über die Abschlussprüfungen an der Fachmittelschule
+language: de
+version: 2020-08-01
+valid_until: 2023-07-31
+version_adopted: 2020-07-20
+adopted: 2008-07-18
+in_force: 2008-08-01
+url: "https://bgs.zg.ch/app/de/texts_of_law/414.191"
+pdf: "https://bgs.zg.ch/api/de/versions/2123/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über die Abschlussprüfungen an der Fachmittelschule
+
+Vom 18. Juli 2008 (Stand 1. August 2020)
+
+Die Direktion für Bildung und Kultur des Kantons Zug,
+
+gestützt auf § 3 Bst. d des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-1] und in Ausführung des Reglements der Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018,
+
+beschliesst:
+
+[^ingress-1]: BGS [414.11](https://bgs.zg.ch/data/414.11/de)
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Durchführung**
+
+<sup>1</sup> Die Prüfungen werden von der Fachmittelschule durchgeführt.
+
+<sup>2</sup> Das Rektorat bezeichnet auf Antrag der Fachlehrpersonen die zulässigen Hilfsmittel. Sie sind den Expertinnen und Experten zur Kenntnis zu bringen.
+
+#### § 2
+
+**Unregelmässigkeiten**
+
+<sup>1</sup> Unregelmässigkeiten im Zusammenhang mit Abschlussarbeiten (z. B. Einreichung eines Plagiats) oder den Abschlussprüfungen (insbesondere Mitbringen oder Gebrauch unerlaubter Hilfsmittel sowie Zuspätkommen oder Nichterscheinen) können mit einem Notenabzug, einem Ausschluss von den Prüfungen oder der Nichtbestanden-Erklärung der Abschlussprüfungen sanktioniert werden.
+
+<sup>2</sup> …
+
+<sup>3</sup> Über jeden Vorfall ist von der Aufsichtsperson sofort ein Protokoll aufzunehmen und an die Schulleitung weiterzuleiten.
+
+<sup>4</sup> Während der Prüfung darf das Prüfungslokal nur ausnahmsweise und mit Zustimmung der Aufsichtsperson verlassen werden.
+
+<sup>5</sup> Es darf nur das von der Schulleitung ausgeteilte Schreibpapier benützt werden.
+
+<sup>6</sup> Die Kandidatinnen und Kandidaten sind vor der ersten Prüfung auf diese Bestimmungen aufmerksam zu machen.
+
+## 2. Organe
+
+#### § 3
+
+**Prüfungskommission**
+
+<sup>1</sup> Die Direktion für Bildung und Kultur wählt die Prüfungskommission. Sie setzt sich zusammen aus der Leiterin oder dem Leiter des Amtes für Mittelschulen und Pädagogische Hochschule (Präsidentin oder Präsident), einer Vertretung der Schulkommission, einer Vertretung der Schulleitung, einer Vertretung der PH Zug sowie einer Vertretung für die Bereiche Gesundheit bzw. Soziale Arbeit.
+
+<sup>2</sup> Die Prüfungskommission hat insbesondere folgende Aufgaben:
+
+- a) Beaufsichtigung der Prüfungen;
+- b) Entscheid über Gesuche betr. Prüfungserleichterungen wegen einer Behinderung;
+- c) Bestimmung der Prüfungsexpertinnen und -experten;
+- d) Entscheid über Sanktionen bei Unregelmässigkeiten;
+- e) Entscheid über das Bestehen der Prüfungen auf Antrag der Rektorin bzw. des Rektors;
+- f) Entscheid über Einsprachen.
+
+<sup>3</sup> In dringenden Fällen bestimmt die Direktion für Bildung und Kultur die Expertinnen und Experten.
+
+#### § 4
+
+**Prüfungskonferenz**
+
+<sup>1</sup> Die Schulleitung leitet die Prüfungskonferenz mit einem Mitglied der Prüfungskommission sowie mit jenen Lehrpersonen, welche die Prüfungen abgenommen und in den für die Abschlussprüfungen relevanten Fächern den abschliessenden Unterricht erteilt haben.
+
+<sup>2</sup> Die Prüfungskonferenz stellt die Ergebnisse fest und prüft diese auf Korrektheit.
+
+<sup>3</sup> Bei einem knappen Verfehlen der Bestehensnormen kann die Prüfungskonferenz entscheiden, ob im Rahmen des pädagogischen Ermessens maximal zwei Fachnoten angehoben werden, bei denen vorgängig leistungsbasiert ein Potential zur Anhebung deklariert wurde, um so der Schülerin bzw. dem Schüler das Bestehen des Abschlusses zu ermöglichen. Der Entscheid zum Bestehen des Abschlusses durch Anhebung von einer oder zwei Fachnoten setzt eine Stimmenmehrheit der Prüfungskonferenz voraus.
+
+#### § 5
+
+**Fachlehrpersonen und Expertinnen bzw. Experten**
+
+<sup>1</sup> Die Fachlehrpersonen nehmen als Examinierende die Prüfungen ab.
+
+<sup>2</sup> Die Expertinnen und Experten sind in der Regel Fachleute des entsprechenden Prüfungsfachs.
+
+<sup>3</sup> Fachlehrperson und Expertin bzw. Experte setzen gemeinsam die Prüfungsnote.
+
+## 3. Fachmittelschulausweis
+
+#### § 6
+
+**Organisation**
+
+<sup>1</sup> Zu den Prüfungen werden Kandidatinnen und Kandidaten zugelassen, die drei Jahreskurse an einer anerkannten Fachmittelschule besucht haben, wovon mindestens die letzten zwei Semester an der Fachmittelschule Zug. Über Ausnahmen entscheidet die Prüfungskommission.
+
+<sup>2</sup> Die Abschlussprüfungen finden grundsätzlich am Ende der dritten Klasse statt. Sie sind Teil der Fachmaturität.
+
+<sup>3</sup> Einzelne Prüfungsfächer können früher abgeschlossen werden. Die Prüfungskommission legt die vorgängig abzuschliessenden Prüfungsfächer fest.
+
+<sup>4</sup> Die Anmeldung ist innerhalb der festgesetzten Frist dem Rektorat einzureichen. Gleichzeitig ist die Prüfungsgebühr zu entrichten.
+
+#### § 7
+
+**Massgebende Fächer**
+
+<sup>1</sup> Der Abschluss mit Fachmittelschulausweis umfasst mindestens 11 Noten, nämlich in
+
+- a) Deutsch/Philosophie
+- b) zwei Fremdsprachen aus Englisch, Französisch, Italienisch
+- c) Mathematik
+- d) Integrierte Naturwissenschaften
+- e) Volkswirtschaft / Betriebswirtschaft / Recht
+- f) Geschichte / Staatslehre
+- g) Sport
+- h) zwei berufsfeldbezogenen Fächern gemäss gewähltem Berufsfeld
+- i) einer selbstständigen Arbeit
+
+<sup>2</sup> Die berufsfeldbezogenen Fächer sind:
+
+- a) im Berufsfeld Gesundheit: berufsfeldbezogene Naturwissenschaften und Sozialwissenschaften
+- b) im Berufsfeld Pädagogik und Soziales: Musische Aktivitäten und Sozialwissenschaften
+
+#### § 8
+
+**Selbstständige Arbeit**
+
+<sup>1</sup> Im Rahmen der selbstständigen Arbeit sollen die Lernenden nachweisen, dass sie fähig sind, eine anspruchsvolle Aufgabenstellung aus den Lernbereichen der Allgemeinbildung oder aus dem berufsfeldbezogenen Bereich selbstständig zu lösen und zu präsentieren.
+
+<sup>2</sup> Die Schulleitung erlässt eine Wegleitung.
+
+<sup>3</sup> Das Verfassen der selbstständigen Arbeit und die Präsentation erfolgen innerhalb eines klar definierten Zeitraums und werden von einer oder mehreren Lehrpersonen begleitet.
+
+#### § 9
+
+**Prüfungsfächer**
+
+<sup>1</sup> Geprüft werden 6 Fächer:
+
+- a) Deutsch
+- b) Französisch oder Italienisch oder Englisch
+- c) Mathematik
+- d) Drei Fächer aus den vier Lernbereichen
+  - 1\. Sprachen
+  - 2\. Naturwissenschaften
+  - 3\. Sozialwissenschaften
+  - 4\. Musische Aktivitäten und Sport.
+
+<sup>2</sup> Mindestens eines und höchstens zwei der Fächer gemäss Bst. d müssen berufsfeldbezogene Fächer sein.
+
+<sup>3</sup> Die Schulleitung legt fest, welche der Lernbereiche und Fächer geprüft werden.
+
+#### § 10
+
+**Inhalte**
+
+<sup>1</sup> Die Schülerinnen und Schüler haben sich durch die Abschlussprüfung über die von der Schule vermittelten Kenntnisse und die von Höheren Fachschulen, Pädagogischen Hochschulen bzw. Fachhochschulen geforderte allgemeine Bildung auszuweisen.
+
+<sup>2</sup> Es sind die Fachkenntnisse und die Selbstständigkeit im Denken zu prüfen.
+
+<sup>3</sup> Inhalte und Anforderungen in den einzelnen Prüfungsfächern entsprechendem Lehrplan und werden von den Fachlehrpersonen festgelegt.
+
+#### § 11
+
+**Form der Prüfungen**
+
+<sup>1</sup> Die Prüfung wird in Deutsch und einer Fremdsprache schriftlich und mündlich, in Mathematik schriftlich, in den übrigen Fächern schriftlich oder mündlich oder praktisch durchgeführt. Die Schulleitung legt die Form der Prüfung fest.
+
+#### § 12
+
+**Schriftliche Prüfungen**
+
+<sup>1</sup> Die Dauer einer schriftlichen oder praktischen Prüfung beträgt mindestens zwei und höchstens vier Stunden. Die Fachlehrpersonen stellen die Aufgaben und stellen diese den Expertinnen und Experten zu.
+
+<sup>2</sup> Die Schulleitung genehmigt auf Antrag der Fachvorstände die zulässigen Hilfsmittel. Sie sind den Expertinnen und Experten ebenso zur Kenntnis zu bringen wie notwendige Erklärungen, die vor Beginn der Prüfungsarbeit abgegeben werden müssen.
+
+<sup>3</sup> Die Schulleitung bezeichnet diejenigen Personen, welche als Aufsichtspersonen für die korrekte Durchführung der Prüfung verantwortlich sind.
+
+<sup>4</sup> Die Fachlehrperson korrigiert und bewertet die schriftlichen Prüfungen. Sie stellt die korrigierten Prüfungen der Expertin bzw. dem Experten rechtzeitig vor den mündlichen Prüfungen zur Begutachtung zu.
+
+#### § 13
+
+**Mündliche Prüfungen**
+
+<sup>1</sup> Der Plan für die mündlichen Prüfungen ist den Expertinnen und Experten rechtzeitig bekannt zu geben.
+
+<sup>2</sup> Die Prüfungen dauern pro Kandidatin bzw. Kandidat und Fach in der Regel 15 Minuten.
+
+<sup>3</sup> Die Kandidatinnen und Kandidaten sind in der Regel in mindestens zwei Teilgebieten zu prüfen.
+
+<sup>4</sup> Die Expertinnen und Experten überwachen den ordnungsgemässen Verlauf der mündlichen Prüfungen. Sie halten den Ablauf der Prüfung schriftlich fest. Die Beteiligung an den Prüfungen erfolgt in Absprache mit der Fachlehrperson.
+
+#### § 14
+
+**Notenskala**
+
+<sup>1</sup> Die Leistungsbewertungen in den Prüfungsfächern werden in Zehntelsnoten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+
+#### § 15
+
+**Noten**
+
+<sup>1</sup> Prüfungsfreie Fächer:
+
+- a) Die Fachnote dieser Fächer entspricht dem arithmetischen Mittel der Einzelwertungen des letzten Jahres, in welchem das jeweilige Fach unterrichtet wurde, gerundet auf ganze und halbe Noten.
+- b) Im Fach Sozialwissenschaften entspricht die Fachnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden Fächer Psychologie und Gesellschaftskunde, gerundet auf ganze und halbe Noten.
+
+<sup>2</sup> Prüfungsfächer:
+
+- a) Die Erfahrungsnote entspricht dem arithmetischen Mittel der Einzelwertungen des letzten Jahres, in welchem das jeweilige Fach unterrichtet wurde, gerundet auf die Dezimalstelle.
+- b) Im Fach Sozialwissenschaften entspricht die Erfahrungsnote dem arithmetischen Mittel der je auf eine Dezimalstelle gerundeten Jahresnoten der beiden Fächer Psychologie und Gesellschaftskunde, gerundet auf die Dezimalstelle.
+- c) Die schriftlichen und mündlichen Prüfungen werden mit Zehntelsnoten bewertet.
+- d) Die Prüfungsnote in den schriftlich und mündlich bzw. praktisch geprüften Fächern entspricht dem arithmetischen Mittel der Noten der schriftlichen und mündlichen Prüfung, gerundet auf die Dezimalstelle.
+- e) Die Fachnote entspricht dem arithmetischen Mittel aus der Erfahrungs- und der Prüfungsnote und wird auf ganze oder halbe Noten gerundet.
+- f) Die Fachnote im Bereich Musische Aktivitäten entspricht dem arithmetischen Mittel aus den Fachnoten für Gestalten/Kunstgeschichte einerseits und für Musik andererseits. Die Prüfung wird in einem der beiden Teilbereiche abgelegt.
+
+<sup>3</sup> Das arithmetische Mittel aller Fachnoten ist die Gesamtnote. Die Gesamtnote wird auf die Dezimalstelle gerundet.
+
+<sup>4</sup> Besondere Fälle: Alle nicht speziell mit diesem Reglement aufgezeigten Fälle werden von der Schulleitung in Rücksprache mit der Leiterin bzw. dem Leiter des Amtes für Mittelschulen geregelt.
+
+#### § 16
+
+**Bestehensnorm**
+
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn gleichzeitig
+
+- a) der Durchschnitt aus allen Fachnoten mindestens 4.0 beträgt,
+- b) höchstens drei Fachnoten ungenügend sind und
+- c) die Summe der Notenabweichungen von 4.0 nach unten nicht mehr als 2.0 Punkte beträgt.
+
+#### § 17
+
+**Wiederholen der Prüfung**
+
+<sup>1</sup> Kandidatinnen und Kandidaten, welchen der Fachmittelschulausweis nicht erteilt werden kann, können sich für die nächste ordentliche Prüfung anmelden, wenn sie den Unterricht der dritten Klasse wiederholt haben.
+
+<sup>2</sup> Nach Bekanntgabe der Abschlussnoten, spätestens aber vor Beginn der Sommerferien, entscheidet die Schülerin bzw. der Schüler über eine allfällige Wiederholung der selbstständigen Arbeit.
+
+<sup>3</sup> In Fächern, in denen die Repetentin bzw. der Repetent mindestens die Note 5 erreicht hat, ist sie bzw. er in der Regel vom Unterrichtsbesuch und den Prüfungen befreit.
+
+#### § 18
+
+**Fachmittelschulausweis**
+
+<sup>1</sup> Der Fachmittelschulausweis wird von der Direktion für Bildung und Kultur ausgestellt und von der Schulleitung mitunterzeichnet.
+
+<sup>2</sup> Der Fachmittelschulausweis enthält:
+
+- a) die Bezeichnung Kanton Zug und den Namen der Schule,
+- b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen,
+- c) den Vermerk «gesamtschweizerisch anerkannter Fachmittelschulausweis»,
+- d) die Bestätigung und Bewertung der Fächer der Allgemeinbildung,
+- e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer,
+- f) das Thema und die Bewertung der selbstständigen Arbeit.
+
+## 4. Fachmaturität Pädagogik
+
+#### § 19
+
+**Organisation**
+
+<sup>1</sup> Zu den Fachmaturitätsprüfungen werden Kandidatinnen und Kandidaten zugelassen, die den Fachmittelschulausweis im Profil Pädagogik erworben, den einsemestrigen Fachmaturitätslehrgang absolviert und die Fachmaturitätsarbeit mindestens mit der Note 4.0 abgeschlossen haben.
+
+#### § 20
+
+**Zweck, Inhalte**
+
+<sup>1</sup> Die Lernenden haben sich durch die Prüfung über die Kenntnisse aus der zusätzlichen Allgemeinbildung auszuweisen, die für das Studium an einer Pädagogischen Hochschule erforderlich sind.
+
+<sup>2</sup> Es sind die Fachkenntnisse und die Selbstständigkeit im Denken zu prüfen.
+
+<sup>3</sup> Inhalte und Anforderungen in den einzelnen Prüfungsfächern entsprechen den Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik im Anhang des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018 und den Lehrplänen der Fachmittelschulrektorenkonferenz der Zentralschweiz vom 8. Mai 2008.
+
+<sup>4</sup> Es können auch einzelne Inhalte aus dem 2. und 3. Jahr der Fachmittelschule geprüft werden.
+
+#### § 21
+
+**Massgebende Fächer**
+
+<sup>1</sup> Für den Erwerb der Fachmaturität im Berufsfeld Pädagogik sind die Leistungen in folgenden Fächern oder Fachbereichen massgebend:
+
+- a) Fächer
+  - 1\. Deutsch
+  - 2\. Französisch oder Englisch
+  - 3\. Mathematik
+  - 4\. Naturwissenschaften (Biologie, Chemie, Physik)
+  - 5\. Geistes- und Sozialwissenschaften (Geschichte und Geografie)
+- b) Fachmaturitätsarbeit
+
+#### § 22
+
+**Fachmaturitätsarbeit**
+
+<sup>1</sup> Mit der Fachmaturitätsarbeit weisen die Lernenden nach, dass sie ein Thema aus dem Bereich der Allgemeinbildung selbstständig bearbeiten, ihre Erkenntnisse reflektieren und präsentieren können.
+
+<sup>2</sup> Die Schule erlässt dazu eine Wegleitung.
+
+<sup>3</sup> Das Verfassen der Fachmaturitätsarbeit und die Präsentation erfolgen innerhalb eines klar definierten Zeitraums und werden von einer Lehrperson begleitet.
+
+<sup>4</sup> Die Fachmaturitätsarbeit wird mit halben und ganzen Noten bewertet.
+
+<sup>5</sup> Ein mit mindestens 4,0 bewerteter schriftlicher Teil ist Voraussetzung für die Zulassung zur mündlichen Präsentation.
+
+<sup>6</sup> Falls der schriftliche Teil ungenügend ist, kann die Arbeit innert einer von der Schule festgelegten Frist verbessert werden.
+
+<sup>7</sup> Die mündliche Präsentation zählt zu einem Drittel für die Note der Fachmaturitätsarbeit.
+
+#### § 23
+
+**Prüfungsfächer und Dauer**
+
+<sup>1</sup> Geprüft wird in folgenden Fächern:
+
+- a) Deutsch; schriftlich und mündlich
+- b) Französisch oder Englisch; Prüfung im Rahmen eines externen Sprachzertifikats; mindestens Niveau B2. Für die Berechnung der Prüfungsnoten sind die Umrechnungstabellen der Eidgenössischen Berufsmaturitätskommission (Aide Mémoire IV) massgebend.
+- c) Mathematik; schriftlich und mündlich
+- d) Naturwissenschaften: Biologie, Chemie, Physik; schriftlich
+- e) Geistes- und Sozialwissenschaften: Geschichte und Geografie; mündlich
+
+<sup>2</sup> Die Dauer der schriftlichen Prüfungen in den Fächern Deutsch und Naturwissenschaften beträgt 180 Minuten, im Fach Mathematik 120 Minuten.
+
+<sup>3</sup> Die Dauer der mündlichen Prüfungen beträgt 15 Minuten pro Einzelfach.
+
+#### § 24
+
+**Noten**
+
+<sup>1</sup> Die schriftlichen bzw. mündlichen Prüfungen werden mit Zehntelsnoten bewertet. Durchschnittsnoten aus schriftlichen und mündlichen Prüfungen werden mathematisch auf halbe bzw. ganze Noten gerundet.
+
+#### § 25
+
+**Bestehensnormen**
+
+<sup>1</sup> Die Fachmaturität wird erteilt, wenn gleichzeitig
+
+- a) der Durchschnitt aller fünf Prüfungsnoten und der Fachmaturitätsarbeit mindestens 4.0 beträgt,
+- b) höchstens zwei Abschlussnoten ungenügend sind,
+- c) die Summe der Notenabweichung von 4.0 nach unten nicht mehr als 1.0 Punkt beträgt.
+
+<sup>2</sup> Zur Feststellung des Prüfungsergebnisses zählen ausser der Note der Fachmaturitätsarbeit ausschliesslich die an der Prüfung erworbenen Noten.
+
+<sup>3</sup> Die Noten aus Geschichte und Geografie werden zu einer Note in Sozialwissenschaften verrechnet.
+
+<sup>4</sup> Die Noten aus Biologie, Chemie und Physik werden zu einer Note in Naturwissenschaften verrechnet.
+
+#### § 26
+
+**Wiederholung der Prüfung**
+
+<sup>1</sup> Wer die Abschlussprüfung nicht bestanden hat oder ausgeschlossen wurde, kann sie einmal an der nächsten Prüfungssession wiederholen.
+
+<sup>2</sup> In diesem Fall legt der bzw. die Lernende die Prüfung in den Fächern mit ungenügenden Noten ab. Die Note der Fachmaturitätsarbeit wird übernommen.
+
+#### § 27
+
+**Expertenwesen**
+
+<sup>1</sup> Die Aufgaben für die schriftlichen Prüfungen werden durch Dozierende einer Pädagogischen Hochschule validiert.
+
+<sup>2</sup> Für die mündlichen Abschlussprüfungen werden Dozierende einer Pädagogischen Hochschule als Expertinnen und Experten eingesetzt.
+
+<sup>3</sup> …
+
+#### § 28
+
+**Fachmaturitätszeugnis**
+
+<sup>1</sup> Das Fachmaturitätszeugnis wird von der Direktion für Bildung und Kultur ausgestellt und von der Schulleitung mitunterzeichnet.
+
+<sup>2</sup> Das Fachmaturitätszeugnis enthält:
+
+- a) die Bezeichnung Kanton Zug und den Namen der Schule,
+- b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen,
+- c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»
+- d) die Bestätigung und Bewertung der Fächer der Allgemeinbildung,
+- e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer,
+- f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit,
+- g) die Bewertungen der Abschlussprüfungen für die Fachmaturität,
+- h) das Thema und die Bewertung der Fachmaturitätsarbeit.
+
+## 5. Fachmaturität Soziale Arbeit
+
+#### § 29
+
+**Organisation**
+
+<sup>1</sup> Zur Fachmaturität Soziale Arbeit werden Kandidatinnen und Kandidaten zugelassen
+
+- a) die den Fachmittelschulausweis im Profil Soziales erworben haben oder
+- b) die den Fachmittelschulausweis in einem anderen Berufsfeld erworben haben und vorweisen können, dass das Fach Psychologie/Pädagogik während zwei Jahren als berufsfeldbezogenes Fach besucht wurde.
+
+<sup>2</sup> Die Fachmaturität Soziale Arbeit umfasst das Absolvieren eines Praktikums, das Verfassen einer Fachmaturitätsarbeit und deren mündliche Präsentation.
+
+#### § 30
+
+**Zweck und Inhalt Praktikum**
+
+<sup>1</sup> Die Lernenden erhalten einen vielfältigen Einblick in die Berufsrealität in einem sozialen Betrieb und machen erste Erfahrungen im Erwerbsleben.
+
+<sup>2</sup> Die Ziele des Praktikums sind in den Rahmenvorgaben zur Fachmaturität Berufsfeld Soziale Arbeit definiert.
+
+<sup>3</sup> Das Praktikum dauert zwölf Monate (inklusive Ferien), wovon mindestens sechs Monate in einem Betrieb mit sozialem Schwerpunkt absolviert werden müssen.
+
+#### § 31
+
+**Zweck und Inhalt Fachmaturitätsarbeit**
+
+<sup>1</sup> Mit der Fachmaturitätsarbeit weisen die Lernenden nach, dass sie eine mit dem Praktikum im sozialen Bereich verknüpfte Fragestellung selbstständig bearbeiten, ihre Erfahrungen und Erkenntnisse reflektieren und vor Publikum präsentieren können.
+
+<sup>2</sup> Die Schulleitung oder die Rektorin bzw. der Rektor erlässt dazu eine Wegleitung.
+
+#### § 32
+
+**Leistungsnachweis Praktikum**
+
+<sup>1</sup> Die Qualifikation der Praktikumsleistungen im sozialen Betrieb erfolgt durch die Praktikumsleitung in Form eines Beurteilungsgesprächs und anhand des Qualifikationsbogens.
+
+<sup>2</sup> Das im nichtsozialen Bereich absolvierte Praktikum muss vom Praktikumsbetrieb schriftlich bestätigt werden.
+
+#### § 33
+
+**Bewertung Fachmaturitätsarbeit**
+
+<sup>1</sup> Die Betreuungsperson der Fachmittelschule und die zuständige Person des Praktikumsbetriebs beurteilen den schriftlichen Teil der Fachmaturitätsarbeit unter Berücksichtigung der vorgegebenen Kriterien.
+
+<sup>2</sup> Der schriftliche Teil der Fachmaturitätsarbeit wird mit einer auf eine Dezimalstelle gerundeten Note bewertet und mit einem schriftlichen Kommentar versehen.
+
+<sup>3</sup> Ein mit mindestens 4,0 bewerteter schriftlicher Teil ist Voraussetzung für die Zulassung zur mündlichen Präsentation.
+
+<sup>4</sup> Die mündliche Präsentation besteht aus einem 15-minütigen Vortrag vor Publikum und aus einem anschliessenden 15-minütigen Prüfungsgespräch, das die Betreuungsperson der Fachmittelschule leitet.
+
+<sup>5</sup> Die Betreuungsperson der Fachmittelschule und die zuständige Person des Praktikumsbetriebs beurteilen die mündliche Präsentation der Fachmaturitätsarbeit im Beisein eines unabhängigen Experten bzw. einer unabhängigen Expertin auf der Grundlage eines Kriterienrasters mit einer auf eine Dezimalstelle gerundeten Note.
+
+<sup>6</sup> Der schriftliche Teil der Fachmaturitätsarbeit zählt zu zwei Dritteln für die Note der Fachmaturitätsarbeit, die mündliche Präsentation zählt zu einem Drittel für die Note der Fachmaturitätsarbeit. Die daraus resultierende Gesamtnote für die Fachmaturitätsarbeit wird auf eine halbe bzw. ganze Note gerundet.
+
+#### § 34
+
+**Bestehensnormen**
+
+<sup>1</sup> Die Fachmaturität wird erteilt, wenn gleichzeitig
+
+- a) das Praktikum im sozialen Bereich mit dem Prädikat «erfüllt» abgeschlossen wurde,
+- b) im Falle einer zweiten Praktikumsstelle im nichtsozialen Bereich die schriftliche Bestätigung des Praktikumsbetriebs vorliegt,
+- c) die Fachmaturitätsarbeit mindestens mit der Gesamtnote von 4.0 bewertet wird.
+
+#### § 35
+
+**Wiederholung des Praktikums**
+
+<sup>1</sup> Bei Abbruch eines Praktikums kann bei grundsätzlicher Eignung der Fachmaturandin/des Fachmaturanden einmal ein Praktikum in einem neuen Betrieb absolviert werden.
+
+<sup>2</sup> Ein Praktikum, welches nicht mit dem Prädikat «erfüllt» abgeschlossen wurde, kann einmal wiederholt werden.
+
+#### § 36
+
+**Wiederholung der Fachmaturitätsarbeit**
+
+<sup>1</sup> Wird der schriftliche Teil der Fachmaturitätsarbeit mit einer ungenügenden Note bewertet, setzt die Schulleitung in Absprache mit den Betreuungspersonen einen neuen Abgabetermin fest.
+
+<sup>2</sup> Im Falle einer Nachbearbeitung des schriftlichen Teils kann die verbesserte Fachmaturitätsarbeit höchstens mit der Note 4.0 bewertet werden.
+
+<sup>3</sup> Führt die Benotung der mündlichen Präsentation zu einer ungenügenden Gesamtnote der Fachmaturitätsarbeit, kann die mündliche Präsentation einmal wiederholt werden.
+
+<sup>4</sup> Im Falle einer Wiederholung der mündlichen Präsentation kann diese höchstens mit der Note 4.0 bewertet werden.
+
+#### § 37
+
+**Expertenwesen**
+
+<sup>1</sup> Für die mündliche Präsentation der Fachmaturitätsarbeiten werden externe Expertinnen und Experten beigezogen.
+
+<sup>2</sup> Die Expertinnen und Experten sind in der Regel externe Fachpersonen des entsprechenden Prüfungsfachs.
+
+<sup>3</sup> Die Expertin bzw. der Experte hat die Aufgabe, eine unabhängige und faire Beurteilung der Präsentation, die Vergleichbarkeit mit der Beurteilung anderer Präsentationen sowie die Einhaltung der formalen Prüfungsbedingungen sicher zu stellen.
+
+#### § 38
+
+**Fachmaturitätszeugnis**
+
+<sup>1</sup> Das Fachmaturitätszeugnis wird von der Direktion für Bildung und Kultur ausgestellt und von der Schulleitung mitunterzeichnet.
+
+<sup>2</sup> Das Fachmaturitätszeugnis enthält:
+
+- a) die Bezeichnung Kanton Zug und den Namen der Schule;
+- b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen;
+- c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- d) die Bestätigung und Bewertung der Allgemeinbildung aus dem Fachmittelschulausweis;
+- e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer aus dem Fachmittelschulausweis;
+- f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit;
+- g) die Bestätigung und Bewertung des Praktikums;
+- h) den Titel und die Bewertung der Fachmaturitätsarbeit sowie
+- i) den Ort und das Datum.
+
+## 6. Fachmaturität Gesundheit
+
+#### § 39
+
+**Organisation**
+
+<sup>1</sup> Zur Fachmaturität Gesundheit werden Kandidatinnen und Kandidaten zugelassen, die den Fachmittelschulausweis im Profil Gesundheit erworben, während mindestens zwei Wochen ein Schnupperpraktikum in einem Betrieb des Gesundheitswesens absolviert haben und eine dem 3. FMS-Ausbildungsmodul «Basiskompetenzen Gesundheitsberufe» gleichwertige Ausbildung vorweisen können. Die Schulleitung entscheidet über die Anerkennung der gleichwertigen Ausbildung.
+
+<sup>2</sup> Die Fachmaturität Gesundheit umfasst das Absolvieren eines Praktikums, das Verfassen einer Fachmaturitätsarbeit und deren mündliche Präsentation.
+
+<sup>3</sup> Die Fachmaturität Gesundheit kann parallel zu einem Studiengang an einer Höheren Fachschule erworben werden. Die Schulleitung regelt die Zusammenarbeit mit den einzelnen Höheren Fachschulen.
+
+#### § 40
+
+**Zweck und Inhalt Praktikum**
+
+<sup>1</sup> Die Lernenden erhalten einen vielfältigen Einblick in die Berufsrealität in einem Betrieb im Gesundheitswesen und machen erste Erfahrungen im Berufsleben.
+
+<sup>2</sup> Die Rahmenvorgaben zur Fachmaturität Berufsfeld Gesundheit geben die Ziele des Praktikums vor.
+
+<sup>3</sup> Das Praktikum dauert 26 Wochen (bei einem Anstellungsgrad von 100 %, inklusive Ferien).
+
+#### § 41
+
+**Zweck und Inhalt Fachmaturitätsarbeit**
+
+<sup>1</sup> Mit der Fachmaturitätsarbeit weisen die Lernenden nach, dass sie eine mit dem Praktikum im Gesundheitswesen verknüpfte Fragestellung selbstständig bearbeiten, ihre Erfahrungen und Erkenntnisse reflektieren und vor Publikum präsentieren können.
+
+<sup>2</sup> Die Schulleitung erlässt dazu eine Wegleitung.
+
+#### § 42
+
+**Leistungsnachweis Praktikum**
+
+<sup>1</sup> Die Qualifikation der Praktikumsleistungen in einem Betrieb des Gesundheitswesens erfolgt durch die Praktikumsleitung in Form eines Beurteilungsgesprächs und anhand des Qualifikationsbogens.
+
+#### § 43
+
+**Bewertung Fachmaturitätsarbeit**
+
+<sup>1</sup> Die Betreuungsperson der Fachmittelschule und die zuständige Person des Praktikumsbetriebs bzw. der Höheren Fachschule beurteilen den schriftlichen Teil der Fachmaturitätsarbeit unter Berücksichtigung der vorgegebenen Kriterien.
+
+<sup>2</sup> Der schriftliche Teil der Fachmaturitätsarbeit wird mit einer auf eine Dezimalstelle gerundeten Note bewertet und mit einem schriftlichen Kommentar versehen.
+
+<sup>3</sup> Ein mit mindestens 4,0 bewerteter schriftlicher Teil ist Voraussetzung für die Zulassung zur mündlichen Präsentation.
+
+<sup>4</sup> Die mündliche Präsentation besteht aus einem 15-minütigen Vortrag vor Publikum und aus einem anschliessenden 15-minütigen Prüfungsgespräch, das die Betreuungsperson der Fachmittelschule leitet.
+
+<sup>5</sup> Die Betreuungsperson der Fachmittelschule und die zuständige Person des Praktikumsbetriebs bzw. der Höheren Fachschule beurteilen die mündliche Präsentation der Fachmaturitätsarbeit im Beisein eines unabhängigen Experten bzw. einer unabhängigen Expertin auf der Grundlage eines Kriterienrasters mit einer auf eine Dezimalstelle gerundeten Note.
+
+<sup>6</sup> Der schriftliche Teil der Fachmaturitätsarbeit zählt zu zwei Dritteln für die Note der Fachmaturitätsarbeit, die mündliche Präsentation zählt zu einem Drittel für die Note der Fachmaturitätsarbeit. Die daraus resultierende Gesamtnote für die Fachmaturitätsarbeit wird auf eine halbe bzw. ganze Note gerundet.
+
+#### § 44
+
+**Bestehensnormen**
+
+<sup>1</sup> Die Fachmaturität wird erteilt, wenn gleichzeitig
+
+- a) das Praktikum in einem Betrieb im Gesundheitswesen mit dem Prädikat «erfüllt» abgeschlossen wurde,
+- b) die Fachmaturitätsarbeit mindestens mit der Gesamtnote von 4.0 bewertet wird.
+
+#### § 45
+
+**Wiederholung des Praktikums**
+
+<sup>1</sup> Bei Abbruch eines Praktikums kann bei grundsätzlicher Eignung der Fachmaturandin bzw. des Fachmaturanden einmal ein Praktikum in einem neuen Betrieb absolviert werden.
+
+<sup>2</sup> Ein Praktikum, welches nicht mit dem Prädikat «erfüllt» abgeschlossen wurde, kann einmal wiederholt werden.
+
+#### § 46
+
+**Wiederholung der Fachmaturitätsarbeit**
+
+<sup>1</sup> Wird der schriftliche Teil der Fachmaturitätsarbeit mit einer ungenügenden Note bewertet, setzt die Schulleitung in Absprache mit den Betreuungspersonen einen neuen Abgabetermin fest.
+
+<sup>2</sup> Im Falle einer Nachbearbeitung des schriftlichen Teils kann die verbesserte Fachmaturitätsarbeit höchstens mit der Note 4.0 bewertet werden.
+
+<sup>3</sup> Führt die Benotung der mündlichen Präsentation zu einer ungenügenden Gesamtnote der Fachmaturitätsarbeit, kann die mündliche Präsentation einmal wiederholt werden.
+
+<sup>4</sup> Im Falle einer Wiederholung der mündlichen Präsentation kann diese höchstens mit der Note 4.0 bewertet werden.
+
+#### § 47
+
+**Expertenwesen**
+
+<sup>1</sup> Für die mündliche Präsentation der Fachmaturitätsarbeiten werden externe Expertinnen und Experten beigezogen.
+
+<sup>2</sup> Die Expertinnen und Experten sind in der Regel Fachpersonen des entsprechenden Prüfungsfachs.
+
+<sup>3</sup> Die Expertin bzw. der Experte hat die Aufgabe, eine unabhängige und faire Beurteilung der Präsentation, die Vergleichbarkeit mit der Beurteilung anderer Präsentationen sowie die Einhaltung der formalen Prüfungsbedingungen sicher zu stellen.
+
+#### § 48
+
+**Fachmaturitätszeugnis**
+
+<sup>1</sup> Das Fachmaturitätszeugnis wird von der Direktion für Bildung und Kultur ausgestellt und von der Schulleitung mitunterzeichnet.
+
+<sup>2</sup> Das Fachmaturitätszeugnis enthält:
+
+- a) die Bezeichnung Kanton Zug und den Namen der Schule;
+- b) Name, Vorname, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit) sowie Geburtsdatum der Absolventin bzw. des Absolventen;
+- c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- d) die Bestätigung und Bewertung der Allgemeinbildung aus dem Fachmittelschulausweis;
+- e) die Bestätigung und Bewertung der belegten berufsfeldbezogenen Fächer aus dem Fachmittelschulausweis;
+- f) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit;
+- g) die Bestätigung und Bewertung des Fachmaturitätspraktikums;
+- h) den Titel und die Bewertung der Fachmaturitätsarbeit sowie
+- i) den Ort und das Datum.
+
+## 7. Schlussbestimmungen
+
+#### § 49
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Das Reglement über die Abschlussprüfungen an der Fachmittelschule vom 1. Oktober 2007[^49-1] wird aufgehoben.
+
+[^49-1]: GS 29, 357
+
+#### § 50
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement tritt am 1. August 2008 in Kraft und findet erstmals Anwendung bei den Abschlussprüfungen für die Fachmaturität im Januar 2009.
+
+GS 29, 887
