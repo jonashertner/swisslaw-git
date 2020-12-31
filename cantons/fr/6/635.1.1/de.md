@@ -1,0 +1,776 @@
+---
+canton: FR
+number: "635.1.1"
+title: Gesetz über die Handänderungs- und Grundpfandrechtssteuern
+short: HGStG
+language: de
+version: 2021-01-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-16
+adopted: 1996-05-01
+in_force: 1997-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/635.1.1"
+pdf: "https://bdlf.fr.ch/api/de/versions/6667/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Handänderungs- und Grundpfandrechtssteuern
+
+Handänderungs- und Grundpfandrechtssteuern – G
+
+(HGStG)
+
+vom 01.05.1996 (Fassung in Kraft getreten am 01.01.2021)
+
+Der Grosse Rat des Kantons Freiburg
+
+gestützt auf den Artikel 15 Abs. 1 der Staatsverfassung des Kantons Freiburg vom 7. Mai 1857;
+
+nach Einsicht in die Botschaft des Staatsrates vom 27. Juni 1995;
+
+auf Antrag dieser Behörde,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Steuerhoheit – Staat**
+
+<sup>1</sup> Der Staat erhebt:
+
+- a) Handänderungssteuern auf den entgeltlichen Grundstücksübertragungen, die Grundstücke im Kanton betreffen (Handänderungssteuern);
+- b) Steuern auf Grundpfandrechten, die zu Lasten von im Kanton gelegenen Grundstücken errichtet werden.
+
+#### Art. 2
+
+**Steuerhoheit – Gemeinden**
+
+<sup>1</sup> Die Gemeinden können für die auf ihrem Gemeindegebiet gelegenen Grundstücke eine Zusatzabgabe auf den Handänderungssteuern erheben.
+
+<sup>2</sup> Betrifft ein Geschäft zwei oder mehrere Gemeinden des Kantons, so werden die Zusatzabgaben nach Massgabe der Bemessungsgrundlagen zur Erhebung der Handänderungssteuern für die betreffenden Grundstücke aufgeteilt.
+
+<sup>3</sup> Entscheide über Handänderungssteuern sind ebenso für die Zusatzabgaben verbindlich.
+
+#### Art. 3
+
+**Grundstücksübertragungen – Im Allgemeinen**
+
+<sup>1</sup> Als Grundstücksübertragungen gelten:
+
+- a) jeder rechtliche Erwerb von Eigentum an einem Grundstück, einschliesslich der Begründung von selbständigen und dauernden Rechten, die im Grundbuch als Grundstücke aufgenommen werden;
+- b) die Begründung von Nutzniessungs- oder Wohnrechten sowie die Begründung und die Abtretung von Baurechten und von Nutzungsrechten an Parkplätzen, Terrassen, Balkonen und Nebenräumen;
+- c) …
+
+<sup>2</sup> Die Erneuerung oder Verlängerung der Rechte nach Absatz 1 gilt als Begründung.
+
+#### Art. 4
+
+**Grundstücksübertragungen – Besondere Fälle**
+
+<sup>1</sup> Den Grundstücksübertragungen werden gleichgestellt:
+
+- a) der Erwerb durch eine Veränderung in der personellen Zusammensetzung einer Gemeinschaft zur gesamten Hand oder durch eine Änderung der Anteile der Personen, die diese Gemeinschaft bilden, namentlich bei einer Teilung;
+- a1) die Ausübung eines zuvor erworbenen Rechts auf Ausbeutung eines Grundstücks, namentlich für Bergwerke, Steinbrüche, Kiesgruben und Torfland;
+- b) der Erwerb eines Bauwerks infolge Untergangs eines Baurechts oder durch Heimfall;
+- c) die Abtretung des Rechts zum Erwerb eines Grundstücks oder eines Teils davon sowie der Verzicht, dieses Recht auszuüben;
+- d) die Abtretung eines Vorkaufsrechts nach Eintritt des Vorkaufsfalles sowie der Verzicht auf ein qualifiziertes Vorkaufsrecht nach Eintritt des Vorkaufsfalles und zugunsten eines Dritten;
+- e) der in einem oder mehreren Geschäften erfolgte Erwerb der direkten oder indirekten Mehrheitsbeteiligung an einer Immobiliengesellschaft; die Steuer wird auch dann erhoben, wenn der Erwerber mit dem Erwerb eines Minderheitsanteils seine Mehrheitsbeteiligung erhöht;
+- f) jedes Rechtsgeschäft, das zwecks Umgehung der Erhebung der Steuern und der Zusatzabgaben durchgeführt wird.
+
+#### Art. 5
+
+**Grundpfandrechte**
+
+<sup>1</sup> Die Grundpfandrechtssteuern werden erhoben:
+
+- a) bei der Begründung einer Grundpfandverschreibung, eines Schuldbriefes oder einer Gült;
+- b) bei der Erhöhung des Pfandbetrages;
+- c) bei der Abtretung eines Grundpfandrechts, das der Sicherung eines vom Bund in Anwendung der Gesetzgebung des Bundes über die Wohnbau- und Eigentumsförderung gewährten Darlehens dient.
+
+#### Art. 6
+
+**Grundstücke**
+
+<sup>1</sup> Grundstücke im Sinne dieses Gesetzes sind die in Artikel 655 des Schweizerischen Zivilgesetzbuches umschriebenen Grundstücke.
+
+#### Art. 7
+
+**Immobiliengesellschaften**
+
+<sup>1</sup> Immobiliengesellschaften sind:
+
+- a) Gesellschaften, deren Haupttätigkeit tatsächlich darin besteht, Grundstücke zu erwerben oder ein oder mehrere Grundstücke, die ihnen gehören, zu verkaufen, zu verwalten oder zu nutzen;
+- b) Gesellschaften, deren Aktiven hauptsächlich aus Grundstücken bestehen;
+- c) Gesellschaften, deren direkte oder indirekte Beteiligung an Gesellschaften nach den Buchstaben a und b für sich allein oder unter Berücksichtigung von Grundstückseigentum die hauptsächlichen Aktiven bildet.
+
+#### Art. 8
+
+**Befreiung von der subjektiven Steuerpflicht**
+
+<sup>1</sup> Nicht steuerpflichtig sind:
+
+- a) der Staat Freiburg;
+- b) die Eidgenossenschaft sowie die eidgenössischen und kantonalen Anstalten, sofern dies in den Spezialgesetzen vorgesehen ist.
+
+#### Art. 9
+
+**Befreiung von der objektiven Steuerpflicht – Grundstücksübertragungen**
+
+<sup>1</sup> Von den Handänderungssteuern befreit sind:
+
+- a) Grundstücksübertragungen an kantonale Anstalten oder kantonale Körperschaften des öffentlichen Rechts oder an Vereinigungen solcher Körperschaften, sofern diese Grundstücke unmittelbar und dauernd für Zwecke des Erziehungs-, des Gesundheits- oder des Sozialhilfe- und Sozialvorsorgewesens bestimmt sind;
+- a1) Grundstücksübertragungen an Gemeinden, Gemeindeverbände, Bürgergemeinden und Agglomerationen, sofern diese Grundstücke unmittelbar und dauernd für öffentliche Zwecke bestimmt sind;
+- b) Grundstücksübertragungen an kirchliche Körperschaften und öffentlich-rechtlich anerkannte juristische Personen des Kirchenrechts, soweit die Grundstücke unmittelbar und unwiderruflich für einen religiösen, erzieherischen oder sozialen Zweck bestimmt sind;
+- c) Grundstücksübertragungen an private Institutionen, soweit die Grundstücke unmittelbar und unwiderruflich für einen gemeinnützigen Zweck im Erziehungs-, im Gesundheits- oder im Sozialhilfe- und Sozialvorsorgewesen bestimmt sind und somit die öffentlichen Körperschaften des Kantons bei der Erfüllung ihrer gesetzlichen Aufgaben unterstützt werden;
+- d) Grundstücksübertragungen als Dotation an eine Einrichtung der beruflichen Vorsorge im Sinne der Spezialgesetzgebung, sofern die betreffenden Objekte dauernd und ausschliesslich für Vorsorgezwecke zugunsten des Personals bestimmt sind;
+- e) Grundstücksübertragungen bei einer Umstrukturierung im Sinne der Artikel 20 Abs. 1 und 103 Abs. 1 und 4 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern; die Handänderungssteuern werden erhoben, wenn die Voraussetzungen für eine nachträgliche Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern erfüllt sind;
+- e<sup>bis</sup>) Grundstücksübertragungen im Sinne von Artikel 4 Bst. e, die Immobiliengesellschaften betreffen, deren Aktiven hauptsächlich aus Grundstücken bestehen, sofern diese Grundstücke ganz oder teilweise dem Handels oder Fabrikationszweck dieser Gesellschaften dienen;
+- f) Grundstücksübertragungen zwischen Verwandten in gerader Linie und zwischen Ehegatten;
+- f1) Grundstücksübertragungen, die einer Teilung zwischen ehemaligen Ehegatten gleichkommen, wenn es dabei um die von einem der geschiedenen Ehegatten bewohnte Wohnung der Familie geht;
+- g) Grundstücksübertragungen, durch die eine Unterhalts- oder Unterstützungspflicht gemäss Familienrecht oder eine Entschädigungspflicht gemäss Scheidungsrecht erfüllt wird;
+- h) Grundstücksübertragungen, die einer vollständigen oder teilweisen Teilung unter Verwandten gleichkommen oder als Folge solcher Operationen vorgenommen werden, sofern Grundstücke aus gerader Linie übertragen werden; diese Übertragungen sind auch von der Steuerpflicht befreit, wenn sie zwischen diesen Verwandten und dem überlebenden Ehegatten vorgenommen werden; sie sind auch befreit, wenn Grundstücke, die aufgrund eines Scheidungsurteils erworben wurden, zwischen diesen Verwandten und dem geschiedenen Ehegatten übertragen werden;
+- i) die Umwandlung von einer Form von gemeinschaftlichem Grundeigentum in eine andere, sofern die Personen und die Anteile nicht ändern;
+- j) die Umwandlung eines Nutzniessungsrechts in ein gleichwertiges Wohnrecht oder umgekehrt;
+- k) die rechtliche Übertragung von Grundstücken einer Immobiliengesellschaft, wenn und soweit eine weitere Steuererhebung für die natürlichen Personen, die direkt oder indirekt die Beteiligungsrechte innehaben, aufgrund einer bereits erfolgten Erhebung nach Artikel 4 Bst. e wirtschaftlich einer Doppelbesteuerung gleichkäme; ferner sind von der Steuerpflicht befreit die rechtlichen Übertragungen von Grundstücken von einer Immobiliengesellschaft an einen Inhaber von Beteiligungsrechten, dem die Eigenschaft einer natürlichen Person zukommt, im Verhältnis seiner Rechte und im Falle der vollständigen Auflösung der Gesellschaft;
+- l) Grundstücksübertragungen im Zusammenhang mit Bodenverbesserungen, die vom für die Bodenverbesserungen zuständigen Amt[^9-1] oder vom Amt für Wald und Natur visiert wurden, sowie Eigentumsübertragungen im Zusammenhang mit katastertechnisch bedingten Grenzbereinigungen von geringer Bedeutung;
+- m) die in anderen gesetzlichen Bestimmungen ausdrücklich vorgesehenen Fälle.
+
+<sup>2</sup> Die Stellung der eingetragenen Partner entspricht derjenigen der Ehegatten.
+
+[^9-1]: Heute: Amt für Landwirtschaft.
+
+#### Art. 10
+
+**Befreiung von der objektiven Steuerpflicht – Grundpfandrechte**
+
+<sup>1</sup> Von den Grundpfandrechtssteuern sind befreit:
+
+- a) die gesetzlichen Grundpfandrechte mit oder ohne Eintragung;
+- b) die vertragliche Grundpfandverschreibung zugunsten des Verkäufers, der Miterben oder Gemeinder, sofern die durch Grundpfand sichergestellte Forderung als nicht abtretbar verurkundet worden ist und das Pfand die Bezahlung des Kaufpreises beziehungsweise den Aufpreis oder die Teilung sicherstellt;
+- c) die Pfandausdehnung und die Aufteilung oder Vereinigung gleichartiger Grundpfandrechte ohne Erhöhung des Gesamtbetrags, sofern das ursprüngliche Pfandrecht auf einem im Kanton gelegenen Grundstück errichtet wurde;
+- d) die in anderen gesetzlichen Bestimmungen ausdrücklich vorgesehenen Fälle.
+
+#### Art. 11
+
+**Schuldner**
+
+<sup>1</sup> Die Steuern und Zusatzabgaben schulden:
+
+- a) der Erwerber bei Grundstücksübertragungen;
+- b) die am Tausch beteiligten Parteien; bei einem Aufpreis die Partei, die diesen schuldet;
+- c) der Begünstigte bei der Begründung beschränkter dinglicher Rechte oder eines Rechts zur Ausbeutung eines Grundstücks sowie der Übernehmer bei der Abtretung solcher Rechte;
+- d) der Abtretende eines Rechts zum Erwerb eines Grundstücks oder eines Teils davon beziehungsweise die Person, die auf ein solches Recht verzichtet, sowie der Abtretende eines Vorkaufsrechts oder die Person, die auf ein solches Recht verzichtet;
+- e) der Pfandeigentümer im Zusammenhang mit Grundpfandrechten.
+
+<sup>2</sup> Mehrere Schuldner haften solidarisch für die Bezahlung der Steuern und Zusatzabgaben.
+
+<sup>3</sup> Die Erben haften bis zur Höhe ihres Erbanteils solidarisch für die Bezahlung der vom Erblasser geschuldeten Steuern und Zusatzabgaben.
+
+## 2 Bemessungsgrundlagen
+
+#### Art. 12
+
+**Grundstücksübertragungen – Grundsätze**
+
+<sup>1</sup> Die Handänderungssteuern berechnen sich auf der Grundlage der vereinbarten Leistungen, sofern sie mindestens dem Verkehrswert des Grundstücks und seiner Bestandteile oder bei Übertragung eines beschränkten dinglichen Rechts dem Realwert entsprechen; vorbehalten sind die Artikel 14 und 15.
+
+<sup>2</sup> Die vereinbarten Leistungen werden als diesen Werten entsprechend vermutet. Dazu werden alle Leistungen gezählt, zu denen sich der Erwerber gegenüber der anderen Partei oder Dritten verpflichtet; auch das Erlöschen einer unvollkommenen Obligation gilt als Leistung.
+
+<sup>3</sup> Bei Zwangsverwertung eines Grundstücks berechnen sich die Handänderungssteuern auf der Grundlage der vereinbarten Leistungen.
+
+#### Art. 13
+
+**Grundstücksübertragungen – Besondere Fälle a) Recht zum Erwerb eines Grundstücks und Vorkaufsrecht**
+
+<sup>1</sup> Für die Abtretung oder den Verzicht auf ein Recht zum Erwerb eines Grundstücks oder auf ein Vorkaufsrecht gilt als Bemessungsgrundlage die Leistung für den Erwerb des Rechts.
+
+#### Art. 14
+
+**Grundstücksübertragungen – Besondere Fälle b) Schlüsselfertig verkaufte Liegenschaften oder Kaufverträge mit Werkvertrag**
+
+<sup>1</sup> Beim Verkauf einer schlüsselfertigen Liegenschaft oder bei einem Kaufvertrag mit Werkvertrag werden die Abgaben auf dem Gesamtpreis erhoben, nämlich dem Preis für das Land und jenem für das Bauwerk. Dem Eintragungsbegehren für das Grundbuch muss in diesen Fällen der Werkvertrag beigelegt werden.
+
+#### Art. 15
+
+**Grundstücksübertragungen – Besondere Fälle c) Kostenbeteiligung**
+
+<sup>1</sup> Beteiligt sich der Erwerber an Infrastruktur- oder Erschliessungskosten für Bauland, so wird als Bemessungsgrundlage der gesamte Wert der Bauarbeiten berücksichtigt, die der Erwerber zu bezahlen hat.
+
+#### Art. 16
+
+**Grundstücksübertragungen – Besondere Fälle d) Periodische Leistungen**
+
+<sup>1</sup> Ist bei einer Grundstücksübertragung die Gegenleistung in periodischen Zahlungen zu erbringen, so gilt als Bemessungsgrundlage der kapitalisierte Wert dieser Leistungen; dabei erfolgt die Kapitalisierung nach den üblichen in Gerichtssachen verwendeten Tabellen; es wird berücksichtigt, ob es sich um eine Zeitrente, eine Leibrente oder um eine ewige Rente handelt. Werden indessen unbefristete, nicht abtretbare, nicht übertragbare und persönliche Rechte an eine juristische Person übertragen, so erfolgt die Kapitalisierung wie für eine Rente auf zwanzig Jahre.
+
+<sup>2</sup> Die für die Kapitalisierung erforderlichen Sätze werden vom Staatsrat festgesetzt.
+
+#### Art. 16a
+
+**Grundstücksübertragungen – Besondere Fälle d1) Ausbeutung eines Grundstücks**
+
+<sup>1</sup> Für die Ausbeutung eines Grundstücks, namentlich für Bergwerke, Steinbrüche, Kiesgruben und Torfland, gilt als Bemessungsgrundlage die Leistung für den Erwerb des Rechts und die Leistung für die Ausübung des Rechts.
+
+<sup>2</sup> Sind die Leistungen für den Erwerb oder die Ausübung des Rechts in periodischen Zahlungen zu erbringen, so werden die Steuern jährlich für jede Steuerperiode erhoben.
+
+<sup>3</sup> Als Steuerperiode gilt das Kalenderjahr oder allenfalls das Geschäftsjahr.
+
+#### Art. 17
+
+**Grundstücksübertragungen – Besondere Fälle e) Gemischte Schenkung**
+
+<sup>1</sup> Steht die Leistung des Erwerbers in einem Missverhältnis zum Wert des erworbenen Objekts, so wird der Erwerb vollständig einer entgeltlichen Übertragung gleichgestellt, sofern die Umstände nicht darauf schliessen lassen, dass diese Wertdifferenz einer Schenkungsabsicht entspricht.
+
+#### Art. 18
+
+**Grundstücksübertragungen – Besondere Fälle f) Tausch**
+
+<sup>1</sup> Werden gleichwertige Objekte getauscht, so gilt als Bemessungsgrundlage der Wert eines Tauschobjekts. Bei unterschiedlichen Werten gilt der höhere Wert als Bemessungsgrundlage. Bei einem Aufpreis werden der tiefere Wert sowie der Aufpreis als Bemessungsgrundlage berücksichtigt.
+
+#### Art. 19
+
+**Grundstücksübertragungen – Besondere Fälle g) Erwerb einer Mehrheitsbeteiligung**
+
+<sup>1</sup> Für den Erwerb oder die Vergrösserung einer Beteiligung an einer Immobiliengesellschaft gilt als Bemessungsgrundlage der Verkehrswert der Grundstücke im Verhältnis der erworbenen Aktien oder Gesellschaftsanteile.
+
+#### Art. 20
+
+**Grundpfandrechte**
+
+<sup>1</sup> Die Grundpfandrechtssteuern werden auf dem im Grundbuch eingetragenen Betrag bzw. auf dessen Erhöhung erhoben.
+
+## 3 Steuersätze
+
+#### Art. 21
+
+**Grundstücksübertragungen – Handänderungssteuern**
+
+<sup>1</sup> Die Handänderungssteuern werden zum Satz von 1,5 % erhoben.
+
+#### Art. 22
+
+**Grundstücksübertragungen – Zusatzabgaben der Gemeinden**
+
+<sup>1</sup> Die Zusatzabgabe darf 100 % der Handänderungssteuer nicht übersteigen.
+
+<sup>2</sup> Anwendbar ist der bei Abschluss des Rechtsgeschäftes geltende Satz.
+
+<sup>3</sup> Die Gemeinden teilen dem Grundbuchamt ihres Bezirks den Satz ihrer Zusatzabgabe und jede Änderung dieses Satzes mit.
+
+#### Art. 23
+
+**Grundpfandrechte**
+
+<sup>1</sup> Die Grundpfandrechtssteuern werden zum Satz von 0,75 % erhoben.
+
+<sup>2</sup> Sie werden für Grundpfandrechte, die der Sicherung eines vom Bund in Anwendung der Gesetzgebung des Bundes über die Wohnbau- und Eigentumsförderung gewährten Darlehens dienen, zum Satz von 0,40 % erhoben.
+
+<sup>3</sup> Werden Grundpfandrechte nach Absatz 2 abgetreten, so wird eine Grundpfandsteuer zum Satz von 0,35 % erhoben.
+
+## 4 Vollzugsbehörden
+
+#### Art. 24
+
+**Behörden**
+
+<sup>1</sup> Die Vollzugsbehörden sind:
+
+- a) der Staatsrat;
+- b) die für die Handänderungssteuer zuständige Direktion[^24-1] (die Direktion);
+- c) die Grundbuchämter;
+- d) der mit dem Inkasso beauftragte Dienst[^24-2].
+
+<sup>2</sup> Das für die direkten Steuern zuständige Amt[^24-3] teilt auf Ersuchen die für die Anwendung dieses Gesetzes erforderlichen Elemente mit. Diese Daten können durch ein elektronisches Abrufverfahren zugänglich gemacht werden.
+
+<sup>3</sup> Das für die direkten Steuern zuständige Amt meldet den zuständigen Grundbuchämtern von Amtes wegen die ihm zur Kenntnis gelangten Fälle von Aktienübertragungen oder Übertragungen von Gesellschaftsanteilen im Sinne von Artikel 4 Abs. 1 Bst. e sowie die Fälle der nachträglichen Besteuerung nach den Artikeln 20 Abs. 2 und 103 Abs. 3 und 5 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern.
+
+<sup>4</sup> Die für die Bau- und Raumplanung zuständige Direktion[^24-4] teilt dem zuständigen Grundbuchamt von Amtes wegen die von ihr ausgestellten Abbaubewilligungen für die Ausbeutung eines Grundstücks mit.
+
+[^24-1]: Heute: Finanzdirektion.
+[^24-2]: Heute: kantonaler Finanzdienst.
+[^24-3]: Heute: Kantonale Steuerverwaltung.
+[^24-4]: Heute: Raumplanungs-, Umwelt- und Baudirektion.
+
+#### Art. 25
+
+**Befugnisse – Staatsrat**
+
+<sup>1</sup> Der Staatsrat erlässt die erforderlichen Ausführungsbestimmungen zu diesem Gesetz und übt die Oberaufsicht aus.
+
+#### Art. 26
+
+**Befugnisse – Direktion**
+
+<sup>1</sup> Die Direktion sorgt für den einheitlichen Vollzug dieses Gesetzes. Sie erteilt die nötigen Weisungen an die mit dem Vollzug dieses Gesetzes beauftragten Verwaltungsorgane und kann Kontrollen durchführen.
+
+<sup>2</sup> Sie entscheidet:
+
+- a) über die Einsprachen in den von diesem Gesetz vorgesehenen Fällen;
+- b) über die Befreiung von der Steuerpflicht in den Fällen nach Artikel 9 Abs. 1 Bst. a–e bis; in diesen Fällen kann vorgängig zur Grundstücksübertragung ein Steuerbefreiungsgesuch eingereicht werden;
+- c) über den Erlass der Steuern.
+
+<sup>3</sup> Sie verfügt die in diesem Gesetz für Übertretungen vorgesehenen Bussen und zeigt dem ordentlichen Strafrichter die Vergehen nach Artikel 58 Abs. 1 an.
+
+#### Art. 27
+
+**Befugnisse – Grundbuchämter**
+
+<sup>1</sup> Die Grundbuchämter sind Veranlagungs- und Nachsteuerbehörde für die Steuern und die Zusatzabgaben, welche die in ihrem Grundbuchkreis gelegenen Grundstücke betreffen.
+
+<sup>2</sup> Betrifft ein Geschäft Grundstücke, die in zwei oder mehreren Bezirken gelegen sind, und können keine getrennten Veranlagungen vorgenommen werden, so führt das Grundbuchamt, dem das Grundstück mit der grössten Fläche zugeordnet ist, die Gesamtveranlagung durch.
+
+<sup>3</sup> Die Grundbuchämter entscheiden von Amtes wegen über die Befreiung von der Steuerpflicht, soweit diese nicht in die Kompetenz der Direktion fällt. Sie entscheiden auch über die Rückerstattungsgesuche.
+
+#### Art. 28
+
+**Befugnisse – Mit dem Inkasso beauftragter Dienst**
+
+<sup>1</sup> Der mit dem Inkasso beauftragte Dienst zieht die Steuern, die Zusatzabgaben, die Verzugszinsen und die Bussen ein und führt darüber Buch.
+
+<sup>2</sup> Er erhebt für den Staat eine Inkassoprovision, die auf dem Betrag der geschuldeten Zusatzabgabe zu einem vom Staatsrat festgesetzten Satz berechnet wird.
+
+<sup>3</sup> Er ist für die Gewährung einer Stundung oder die Bewilligung von Ratenzahlungen sowie die Grundbuchanmeldung des gesetzlichen Grundpfands zuständig.
+
+## 5 Veranlagung
+
+#### Art. 29
+
+**Grundlagen – Bei Grundbucheintrag**
+
+<sup>1</sup> Die Veranlagung erfolgt gestützt auf die der Grundbuchanmeldung beigelegten Belege.
+
+<sup>2</sup> Bei Grundstücksübertragungen müssen diese Belege schriftliche und mit der Unterschrift der Vertragsparteien oder ihrer Vertreter versehene Angaben über den Betrag sämtlicher vereinbarter Leistungen enthalten.
+
+<sup>3</sup> Die Parteien und ihre Vertreter, die Urkundsperson und die betreffende Gemeinde müssen die von ihnen angeforderten zusätzlichen Angaben nachreichen. Im Übrigen gelten die Artikel 142, 149, 159, 160 und 162 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern.
+
+<sup>4</sup> Wird der Betrag der vereinbarten Leistungen nicht angegeben oder stimmen die Leistungen offenbar nicht mit dem Verkehrs- oder Realwert überein oder reichen die Grundlagen nicht aus, so können die Grundbuchämter die Steuern nach eigenem Ermessen aufgrund der Angaben, über die sie verfügen, festsetzen; wenn nötig unterbreiten sie den Fall vorgängig einer Schätzungskommission.
+
+#### Art. 30
+
+**Grundlagen – Ohne Grundbucheintrag**
+
+<sup>1</sup> Ist eine Eintragung in das Grundbuch nicht erforderlich, so ist der Schuldner oder dessen Vertreter verpflichtet, das steuerpflichtige Geschäft oder den Eintritt der die Steuererhebung begründenden Bedingung dem zuständigen Grundbuchamt innert dreissig Tagen nach Abschluss des Rechtsgeschäfts oder seit dem Eintritt der Bedingung zu melden. Ist eine Bewilligung erforderlich, so steht die Frist während des Bewilligungsverfahrens still, und die Meldung muss innert dreissig Tagen nach Erhalt der Bewilligung erfolgen.
+
+<sup>2</sup> Übertragungen von Aktien oder Gesellschaftsanteilen im Sinne von Artikel 4 Bst. e müssen dem Grundbuchamt innert dreissig Tagen nach dem ersten steuerpflichtigen Geschäft gemeldet werden; jedes spätere Geschäft muss ebenfalls innert dreissig Tagen gemeldet werden.
+
+<sup>2a</sup> Die Ausübung des Rechts auf Ausbeutung eines Grundstücks ist dem Grundbuchamt innert dreissig Tagen zu melden. Bei jährlicher Veranlagung reicht die Rechtsinhaberin oder der Rechtsinhaber jedes Jahr innerhalb von drei Monaten nach Ende der Steuerperiode die für die Festlegung der Bemessungsgrundlage erforderlichen Belege, wie etwa die Abrechnung der abgebauten Kubikmeter, ein.
+
+<sup>3</sup> Die Urkundsperson muss den Schuldner oder seinen Vertreter über seine Pflicht zur fristgerechten Meldung in Kenntnis setzen.
+
+<sup>4</sup> Die Veranlagung erfolgt aufgrund der Belege, die bei der Meldung einzureichen sind. Der Artikel 29 Abs. 2–4 gilt ebenfalls.
+
+#### Art. 31
+
+**Form**
+
+<sup>1</sup> Die Veranlagung wird mit einer datierten und unterzeichneten Rechnung eröffnet, auf der die Bemessungsgrundlage sowie der Betrag der Steuern und der Zusatzabgabe aufgeführt sind. Weicht die Veranlagungsbehörde von der Berechnungsgrundlage, die sich aus den von den Vertragsparteien gelieferten Elementen ergibt, ab, so gibt sie die wesentlichen Gründe dafür an.
+
+<sup>2</sup> Die Rechnung wird dem Schuldner unter Angabe der Zahlungsfrist von dreissig Tagen und der in den Artikeln 42 und 43 vorgesehenen Folgen sowie mit einer Rechtsmittelbelehrung zugestellt.
+
+## 6 Rechtsmittel
+
+#### Art. 32
+
+**Einsprache – Anfechtbare Entscheide**
+
+<sup>1</sup> Der Schuldner kann innert dreissig Tagen seit der Zustellung der Rechnung Einsprache erheben.
+
+<sup>2</sup> Eine Einsprache kann innert dreissig Tagen auch gegen Entscheide über Nachsteuern, Übertretungen, Rückerstattungen, die Befreiung von der objektiven Steuerpflicht in Anwendung von Artikel 9 Abs. 1 Bst. a–e<sup>bis</sup> oder über Verzugs- oder Vergütungszinsen erhoben werden.
+
+#### Art. 33
+
+**Einsprache – Behörden**
+
+<sup>1</sup> Die Direktion entscheidet über die Einsprachen gegen Rechnungen und gegen Entscheide über Nachsteuern und Rückerstattungen sowie über die Einsprachen in Zusammenhang mit der Befreiung von der objektiven Steuerpflicht nach Artikel 9 Abs. 1 Bst. a–e<sup>bis</sup>, die Einsprachen in Zusammenhang mit Übertretungen und die Einsprachen in Zusammenhang mit dem Verzugs- oder Vergütungszins.
+
+#### Art. 34
+
+**Einsprache – Form und Inhalt**
+
+<sup>1</sup> Die Einsprache muss schriftlich erhoben und kurz begründet werden sowie die Anträge des Einsprechers enthalten.
+
+<sup>2</sup> Die Einsprachebehörde kann eine zusätzliche Frist zur Ergänzung der Begründung gewähren.
+
+<sup>3</sup> Auf Einsprachen, die weder Anträge noch eine Begründung enthalten, wird nicht eingetreten.
+
+#### Art. 35
+
+**Einsprache – Aufschiebende Wirkung**
+
+<sup>1</sup> Die Einsprache schiebt die Fälligkeit der Forderung auf, hemmt aber den Lauf des Verzugszinses nicht.
+
+#### Art. 36
+
+**Einsprache – Instruktion und Entscheid**
+
+<sup>1</sup> Die Einsprachebehörde verfügt über dieselben Befugnisse wie beim Erlass des angefochtenen Entscheids.
+
+<sup>2</sup> Sie überprüft den Entscheid als Ganzes, ohne dabei durch die Anträge des Einsprechers gebunden zu sein, auch zu dessen Nachteil und ohne Rücksicht auf einen allfälligen Rückzug der Einsprache. Beabsichtigt die Behörde, den Entscheid zum Nachteil des Einsprechers zu ändern, so teilt sie dies dem Einsprecher mit und setzt ihm eine Frist, in der er seine Bemerkungen einreichen und allenfalls neue Beweismittel vorlegen kann.
+
+<sup>3</sup> Der Einspracheentscheid muss begründet sein und eine Rechtsmittelbelehrung enthalten.
+
+#### Art. 37
+
+**Einsprache – Anfechtbare Entscheide**
+
+<sup>1</sup> Gegen Einsprache- und Erlassentscheide kann beim Kantonsgericht Beschwerde geführt werden.
+
+<sup>2</sup> Entscheide über eine Stundung oder eine Ratenzahlung sind nicht mit Beschwerde anfechtbar.
+
+#### Art. 38
+
+**Einsprache – Verfahren**
+
+<sup>1</sup> Das Beschwerdeverfahren richtet sich unter Vorbehalt der nachfolgenden Bestimmungen nach dem Gesetz über die Verwaltungsrechtspflege.
+
+#### Art. 39
+
+**Einsprache – Aufschiebende Wirkung**
+
+<sup>1</sup> Die Beschwerde schiebt die Fälligkeit der Forderung auf, hemmt aber den Lauf des Verzugszinses nicht.
+
+#### Art. 40
+
+**Einsprache – Instruktion und Rückzug der Beschwerde**
+
+<sup>1</sup> Der Präsident der Beschwerdeinstanz instruiert die Beschwerdesache. Er kann seine Befugnisse durch General- oder Spezialvollmacht an ein anderes Mitglied der Beschwerdeinstanz oder an einen Gerichtsschreiber-Berichterstatter delegierten.
+
+<sup>2</sup> Die Instruktionsbehörde verfügt über dieselben Befugnisse wie die erstinstanzliche Behörde.
+
+<sup>3</sup> Beabsichtigt die Behörde, den Entscheid zum Nachteil des Beschwerdeführers zu ändern, so teilt sie dies dem Beschwerdeführer und der Behörde, deren Entscheid angefochten wird, mit und setzt ihnen eine Frist, in der sie ihre Bemerkungen einreichen und allenfalls neue Beweismittel vorlegen können.
+
+<sup>4</sup> Die Behörde ist durch einen allfälligen Rückzug der Beschwerde nicht gebunden.
+
+#### Art. 41
+
+**Revision**
+
+<sup>1</sup> Rechtskräftige Entscheide können aus den Gründen und nach dem Verfahren nach den Artikeln 188, 189 und 190 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern, die sinngemäss gelten, revidiert werden.
+
+## 7 Steuerbezug
+
+#### Art. 42
+
+**Zahlungsfrist, Verzugszins**
+
+<sup>1</sup> Die Steuern und die Zusatzabgaben sind innert einer Frist von 30 Tagen an den mit dem Inkasso beauftragten Dienst zu entrichten.
+
+<sup>2</sup> Auf den nicht fristgemäss bezahlten Steuern und Zusatzabgaben wird vom Zeitpunkt der Fälligkeit an ein Verzugszins zu den von der Direktion festgelegten Bedingungen geschuldet.
+
+#### Art. 43
+
+**Mahnung, Betreibung**
+
+<sup>1</sup> Werden die Steuern und die Zusatzabgaben nicht innert 30 Tagen nach der Fälligkeit entrichtet, so stellt der mit dem Inkasso beauftragte Dienst dem Schuldner eine Mahnung zu.
+
+<sup>2</sup> Erfolgt die Bezahlung nicht in der mit der Mahnung angesetzten Frist, so kann die Betreibung eingeleitet werden.
+
+<sup>3</sup> Hat der Schuldner seinen Wohnsitz nicht in der Schweiz oder wurden alle oder ein Teil seiner Vermögensstücke mit Arrest belegt, so kann die Betreibung ohne vorgängige Mahnung eingeleitet werden.
+
+<sup>4</sup> Die Inkassokosten gehen zu Lasten des Schuldners.
+
+#### Art. 44
+
+**Sicherung**
+
+<sup>1</sup> Die Bezahlung der Steuern, der Zusatzabgabe und der Verzugszinsen wird durch ein gesetzliches Grundpfandrecht sichergestellt (Art. 73 EGZGB).
+
+#### Art. 45
+
+**Stundung und Ratenzahlung**
+
+<sup>1</sup> Ist die fristgerechte Bezahlung der Steuern, der Zusatzabgaben oder der von der Direktion verfügten Busse für den Schuldner mit einer besonderen Härte verbunden, so können auf begründetes Gesuch hin eine Stundung oder Ratenzahlungen gewährt werden.
+
+<sup>2</sup> Die Verzugszinsen bleiben geschuldet.
+
+#### Art. 46
+
+**Erlass**
+
+<sup>1</sup> Ausnahmsweise können einem Schuldner, der sich in einer Notlage befindet oder für den die Bezahlung aus einem anderen Grund eine zu grosse Härte bedeuten würde, Steuern, Zusatzabgaben und Verzugszinsen auf Gesuch hin ganz oder teilweise erlassen werden.
+
+<sup>2</sup> Das Erlassgesuch muss schriftlich begründet und unter Beilage der notwendigen Beweismittel eingereicht werden.
+
+<sup>3</sup> Die Direktion entscheidet, nachdem sie gegebenenfalls die Stellungnahme der Gemeinde eingeholt hat, der die Zusatzabgaben geschuldet werden.
+
+<sup>4</sup> Ein Erlassgesuch schiebt die Einsprachefrist nicht auf.
+
+#### Art. 47
+
+**Nachsteuer**
+
+<sup>1</sup> Ist eine in Rechtskraft erwachsene Veranlagung, auch ohne Verschulden des Schuldners, unvollständig geblieben, weil die zuständige Behörde gewisse Tatsachen und Beweismittel nicht kannte, so erhebt die Veranlagungsbehörde eine Nachsteuer auf den Steuern und Zusatzabgaben.
+
+<sup>2</sup> Die Anwendung der Strafbestimmungen bleibt vorbehalten.
+
+#### Art. 48
+
+**Rückforderung – Bedingungen**
+
+<sup>1</sup> Der Schuldner kann die von ihm bezahlten Steuern, Zusatzabgaben, Verzugszinsen oder Bussen zurückfordern, wenn:
+
+- a) das steuerpflichtige Geschäft gerichtlich für nichtig erklärt wird;
+- b) die Parteien das steuerpflichtige Geschäft rückgängig gemacht haben und der Schuldner den Nachweis erbringt, dass die Voraussetzungen für einen gesetzlichen Nichtigkeits- oder Aufhebungsgrund erfüllt sind;
+- c) der Entscheid, auf Grund dessen die Zahlung erfolgt ist, infolge einer Einsprache, einer Beschwerde oder einer Revision aufgehoben oder abgeändert wird;
+- d) er irrtümlicherweise einen nicht geschuldeten Betrag oder mehr als den geschuldeten Betrag bezahlt hat;
+- e) die Voraussetzungen nach Artikel 86 des Bundesgesetzes vom 11. April 1889 über Schuldbetreibung und Konkurs erfüllt sind.
+
+<sup>2</sup> Eine Rückerstattung wird nicht gewährt, wenn sich herausstellt, dass im Rahmen des steuerpflichtigen Geschäfts vorsätzlich Steuern hinterzogen wurden.
+
+<sup>3</sup> Mit der Rückerstattung wird ein Zins vergütet, der vom Zeitpunkt der Zahlung an zu einem von der Direktion festgesetzten Satz berechnet wird.
+
+#### Art. 49
+
+**Rückforderung – Form, Behörde**
+
+<sup>1</sup> Das Rückforderungsgesuch muss schriftlich und begründet bei der Veranlagungsbehörde eingereicht werden.
+
+#### Art. 50
+
+**…**
+
+## 8 Strafbestimmungen
+
+#### Art. 51
+
+**Übertretungen – Verletzung von Ordnungsvorschriften**
+
+<sup>1</sup> Wer einer Pflicht, die ihm nach den Vorschriften dieses Gesetzes oder nach einer aufgrund dieses Gesetzes getroffenen Anordnung obliegt, trotz Mahnung und ohne sich einer Hinterziehung oder eines Hinterziehungsversuchs schuldig zu machen, vorsätzlich oder fahrlässig nicht nachkommt, wird mit einer Busse bis zu 1000 Franken bestraft.
+
+<sup>2</sup> In schweren Fällen oder bei Rückfall beträgt die Busse bis zu 10'000 Franken.
+
+#### Art. 52
+
+**Übertretungen – Missachtung der Informations- und Sorgfaltspflicht**
+
+<sup>1</sup> Wer vorsätzlich oder fahrlässig und ohne sich der Mitwirkung an einer Hinterziehung schuldig zu machen, den Schuldner oder dessen Vertreter nicht über seine Pflicht informiert, das steuerpflichtige Geschäft fristgemäss zu melden, wird mit Busse bis zu 1000 Franken bestraft.
+
+<sup>2</sup> In schweren Fällen oder bei Rückfall beträgt die Busse bis zu 5000 Franken.
+
+<sup>3</sup> Die Absätze 1 und 2 sind auch auf die Urkundsperson anwendbar, die die besonderen gesetzlichen Bestimmungen über Fristen oder die Sorgfaltspflicht bei einer Grundbuchanmeldung eines steuerpflichtigen Geschäftes nicht einhält.
+
+#### Art. 53
+
+**Übertretungen – Hinterziehung a) Vollendete Hinterziehung**
+
+<sup>1</sup> Der Schuldner, der vorsätzlich oder fahrlässig bewirkt, dass eine Veranlagung zu Unrecht unterbleibt, insbesondere indem er ein Geschäft oder das Eintreten einer Bedingung, die die Steuererhebung begründet, nicht innert der gesetzlichen Frist meldet, dafür sorgt, dass eine rechtskräftige Veranlagung unvollständig ist, oder eine unrechtmässige Rückerstattung oder einen ungerechtfertigten Erlass erwirkt, wird mit einer Busse in der Höhe des ein- bis vierfachen Betrags der hinterzogenen Steuern bestraft.
+
+<sup>2</sup> Bei Selbstanzeige wird die Busse in der Regel bis zur Hälfte des hinterzogenen Steuerbetrags ermässigt.
+
+<sup>3</sup> Die Steuern und Zusatzabgaben werden zusätzlich zur Busse geschuldet.
+
+#### Art. 54
+
+**Übertretungen – Hinterziehung b) Versuch**
+
+<sup>1</sup> Der Schuldner, der vorsätzlich eine Hinterziehung zu begehen versucht, wird mit einer Busse bis zu zwei Dritteln des Betrags bestraft, der bei vollendeter Hinterziehung festzusetzen wäre.
+
+#### Art. 55
+
+**Übertretungen – Hinterziehung c) Anstiftung und Gehilfenschaft**
+
+<sup>1</sup> Wer einen anderen vorsätzlich zu einer Hinterziehung anstiftet oder dazu vorsätzlich Hilfe leistet, wird, sofern es sich um vollendete Hinterziehung handelt, ohne Rücksicht auf die Strafbarkeit des Schuldners mit einer Busse bis zu 10'000 Franken bestraft. In schweren Fällen oder bei Rückfall beträgt die Busse bis zu 20'000 Franken.
+
+<sup>2</sup> Ausserdem kann vom Anstifter oder Gehilfen die solidarische Bezahlung der hinterzogenen Steuern und Zusatzabgaben verlangt werden.
+
+<sup>3</sup> Diese Bestimmung gilt sinngemäss auch für juristische Personen, die in Ausübung ihrer Tätigkeit zu einer von einem Dritten begangenen Hinterziehung angestiftet, dazu Hilfe geleistet oder daran mitgewirkt haben.
+
+#### Art. 56
+
+**Übertretung – Übertretung zugunsten einer juristischen Person**
+
+<sup>1</sup> Wurde eine Übertretung zugunsten einer juristischen Person begangen, so wird diese mit Busse bestraft.
+
+<sup>2</sup> Der Artikel 55 bleibt im übrigen den Organen oder Vertretern der juristischen Person gegenüber vorbehalten.
+
+#### Art. 57
+
+**Übertretung – Verfahren**
+
+<sup>1</sup> Die Direktion setzt den Zuwiderhandelnden über die Eröffnung des Verfahrens in Kenntnis und fordert ihn auf, seine Bemerkungen einzureichen.
+
+<sup>2</sup> Sie setzt die Höhe der Busse unter Berücksichtigung der Schwere des Verschuldens und der Tatumstände sowie der persönlichen Verhältnisse des Zuwiderhandelnden fest.
+
+<sup>3</sup> Sie teilt dem Zuwiderhandelnden ihren Entscheid mit eingeschriebenem Brief mit, der eine Rechtsmittelbelehrung enthält.
+
+#### Art. 58
+
+**Vergehen – Betrug**
+
+<sup>1</sup> Wer zum Zwecke der Hinterziehung von Steuern oder Zusatzabgaben gefälschte, verfälschte oder inhaltlich unwahre Urkunden verwendet, wird mit einer Freiheitsstrafe von höchstens drei Jahren oder mit einer Geldstrafe bestraft.
+
+<sup>2</sup> Die Bestrafung wegen Hinterziehung von Steuern und Zusatzabgaben bleibt vorbehalten.
+
+#### Art. 59
+
+**Vergehen – Behörde und anwendbare Vorschriften**
+
+<sup>1</sup> Für die strafbaren Handlungen nach Artikel 58 Abs. 1 ist der ordentliche Strafrichter zuständig.
+
+<sup>2</sup> Die allgemeinen Bestimmungen des Schweizerischen Strafgesetzbuches und das Justizgesetz gelten unter Vorbehalt der besonderen Bestimmungen in den Artikeln 65 und 66.
+
+## 9 Verjährung und Verwirkung
+
+#### Art. 60
+
+**Steuern und Zusatzabgaben – Veranlagung**
+
+<sup>1</sup> Das Recht auf Veranlagung verjährt fünf Jahre, nachdem das steuerpflichtige Rechtsgeschäft abgeschlossen wurde oder eine die Steuerpflicht begründende Bedingung eingetreten ist.
+
+<sup>2</sup> Dieses Recht ist zehn Jahre nach diesem Zeitpunkt verwirkt. Vorbehalten bleibt eine längere Frist für die Strafverfolgung.
+
+<sup>3</sup> Bei der Ausbeutung eines Grundstücks verjährt das Recht auf jährliche Veranlagung fünf Jahre nach Ende der Steuerperiode. Dieses Recht ist zehn Jahre nach Ende der Steuerperiode verwirkt. Vorbehalten bleibt eine längere Frist für die Strafverfolgung.
+
+#### Art. 61
+
+**Steuern und Zusatzabgaben – Nachsteuer**
+
+<sup>1</sup> Das Recht auf Einforderung der Nachsteuer für Steuern und Zusatzabgaben ist zehn Jahre, nachdem die Veranlagung rechtskräftig geworden ist, verwirkt. Vorbehalten bleibt eine längere Frist für die Strafverfolgung.
+
+#### Art. 62
+
+**Steuern und Zusatzabgaben – Forderungen**
+
+<sup>1</sup> Steuer- und Zusatzabgabenforderungen verjähren fünf Jahre nach Eintritt der Fälligkeit.
+
+<sup>2</sup> Sie sind zehn Jahre nach Eintritt der Fälligkeit verwirkt.
+
+#### Art. 63
+
+**Steuern und Zusatzabgaben – Rückforderung**
+
+<sup>1</sup> Der Rückforderungsanspruch ist 10 Jahre nach der Bezahlung verwirkt.
+
+#### Art. 64
+
+**Steuern und Zusatzabgaben – Stillstand und Unterbrechung der Verjährung**
+
+<sup>1</sup> Der Artikel 151 Abs. 2 und 3 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern gilt sinngemäss für den Stillstand und die Unterbrechung der Verjährung.
+
+#### Art. 65
+
+**Widerhandlungen – Recht auf Strafverfolgung**
+
+<sup>1</sup> Das Recht, eine Strafverfolgung wegen Widerhandlungen im Sinne der Artikel 51 und 52 einzuleiten, ist fünf Jahre, nachdem die Widerhandlung begangen wurde, verwirkt.
+
+<sup>2</sup> Dieses Recht ist für die in den Artikeln 53–59 erwähnten Widerhandlungen nach fünfzehn Jahren verwirkt.
+
+#### Art. 66
+
+**Widerhandlungen – Bussen**
+
+<sup>1</sup> Die in Anwendung der Artikel 51–59 verfügten Bussen verjähren fünf Jahre, nachdem sie rechtskräftig geworden sind. Der Artikel 64 ist anwendbar.
+
+<sup>2</sup> Sie sind nach zehn Jahren, nachdem die Verfügung rechtskräftig geworden ist, verwirkt.
+
+## 10 Übergangs- und Schlussbestimmungen
+
+#### Art. 67
+
+**Übergangsrecht zur Änderung vom 8. Oktober 2013**
+
+<sup>1</sup> Die mit dem Gesetz vom 8. Oktober 2013 eingeführten Änderungen gelten für die ab 1. Januar 2014 abgeschlossenen Rechtsgeschäfte, die die Übertragung begründen.
+
+#### Art. 67a
+
+**Übergangsrecht zur Änderung vom 16. Oktober 2020**
+
+<sup>1</sup> Artikel 9 Abs. 1 Bst. a1 sowie die Artikel 16a, 30 Abs. 2a und 60 Abs. 3 gelten für die vor dem Inkrafttreten der Änderung vom 16. Oktober 2020 dieses Gesetzes abgeschlossenen und noch nicht rechtskräftig veranlagten Rechtsgeschäfte.
+
+#### Art. 68
+
+**Änderungen – Gesetz betreffend die Einregistrierungsgebühren**
+
+<sup>1</sup> Das Gesetz vom 4. Mai 1934 betreffend die Einregistrierungsgebühren (SGF 635.2.1) wird in dem Sinne abgeändert, dass nur die Bestimmungen über die Erhebung verhältnismässiger Gebühren auf den unentgeltlichen Zuwendungen unter Lebenden oder von Todes wegen sowie auf den Stiftungsurkunden weiterhin gelten.
+
+<sup>2</sup> Dieses Gesetz wird ausserdem wie folgt geändert:
+
+...
+
+#### Art. 69
+
+**Änderungen – Tarif der Einregistrierungsgebühren**
+
+<sup>1</sup> Der Tarif der Einregistrierungsgebühren vom 4. Mai 1934 (SGF 635.2.1a) wird wie folgt geändert:
+
+...
+
+#### Art. 70
+
+**Änderungen – Zivilprozessordnung**
+
+<sup>1</sup> Die Zivilprozessordnung vom 28. April 1953 (SGF 270.1) wird wie folgt geändert:
+
+...
+
+#### Art. 71
+
+**Änderungen – Gesetz über die Gemeinde- und Pfarreisteuern**
+
+<sup>1</sup> Das Gesetz vom 10. Mai 1963 über die Gemeinde- und Pfarreisteuern (SGF 632.1) wird wie folgt geändert:
+
+...
+
+#### Art. 72
+
+**Änderungen – Gesetz betreffend besondere Besteuerung der Immobilien von Gesellschaften, Vereinen und Stiftungen**
+
+<sup>1</sup> Das Gesetz vom 23. Mai 1957 betreffend besondere Besteuerung der Immobilien von Gesellschaften, Vereinen und Stiftungen (SGF 635.3.1) wird wie folgt geändert:
+
+...
+
+#### Art. 73
+
+**Änderungen – Dekret betreffend die Baulandreserven**
+
+<sup>1</sup> Das Dekret vom 11. Mai 1977 betreffend die Baulandreserven (SGF 900.4) wird wie folgt geändert:
+
+...
+
+#### Art. 74
+
+**Änderungen – Raumplanungs- und Baugesetz**
+
+<sup>1</sup> Das Raumplanungs- und Baugesetz vom 9. Mai 1983 (SGF 710.1) wird wie folgt geändert:
+
+...
+
+#### Art. 75
+
+**Änderungen – Gesetz über das Grundbuch**
+
+<sup>1</sup> Das Gesetz vom 28. Februar 1986 über das Grundbuch (SGF 214.5.1) wird wie folgt geändert:
+
+...
+
+#### Art. 76
+
+**Änderungen – Gesetz über die Katastervermessung**
+
+<sup>1</sup> Das Gesetz vom 2. Februar 1988 über die Katastervermessung (SGF 214.6.1) wird wie folgt geändert:
+
+...
+
+#### Art. 77
+
+**Änderungen – Gesetz über die Steuer zum Ausgleich der Verminderung des Kulturlandes**
+
+<sup>1</sup> Das Gesetz vom 28. September 1993 über die Steuer zum Ausgleich der Verminderung des Kulturlandes (SGF 635.6.1) wird wie folgt geändert:
+
+...
+
+#### Art. 78
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Staatsrat wird mit dem Vollzug dieses Gesetzes beauftragt. Er bestimmt das Datum des Inkrafttretens.[^78-1]
+
+[^78-1]: Datum des Inkrafttretens: 1. Januar 1997 (StRB 10.09.1996).
+
+**Genehmigung**
+
+Die Änderung vom 08.09.2011 ist vom Eidgenössischen Justiz- und Polizeidepartement am 21.12.2011 genehmigt worden.
+
+BL/AGS 1996 f 185 / d 187

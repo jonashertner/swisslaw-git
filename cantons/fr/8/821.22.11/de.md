@@ -1,0 +1,225 @@
+---
+canton: FR
+number: "821.22.11"
+title: Verordnung über die Betäubungsmittel
+language: de
+version: 2016-04-01
+valid_until: 2022-01-31
+version_adopted: 2016-04-12
+adopted: 2016-04-12
+in_force: 2016-04-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/821.22.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/5489/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Betäubungsmittel
+
+Betäubungsmittel – V
+
+vom 12.04.2016 (Fassung in Kraft getreten am 01.04.2016)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 3. Oktober 1951 über die Betäubungsmittel und die psychotropen Stoffe (BetmG);
+
+gestützt auf das Bundesgesetz vom 15. Dezember 2000 über Arzneimittel und Medizinprodukte (Heilmittelgesetz, HMG);
+
+gestützt auf die eidgenössische Verordnung vom 25. Mai 2011 über die Betäubungsmittelkontrolle (BetmKV);
+
+gestützt auf die eidgenössische Verordnung vom 25. Mai 2011 über Betäubungsmittelsucht und andere suchtbedingte Störungen (BetmSV);
+
+gestützt auf die Verordnung des Eidgenössischen Departements des Innern vom 30. Mai 2011 über die Verzeichnisse der Betäubungsmittel, psychotropen Stoffe, Vorläuferstoffe und Hilfschemikalien (BetmVV-EDI);
+
+gestützt auf die Artikel 9, 11 und 120 des Gesundheitsgesetzes vom 16. November 1999;
+
+auf Antrag der Direktion für Gesundheit und Soziales,
+
+beschliesst:
+
+#### Art. 1
+
+**Zuständige kantonale Behörden – Direktion für Gesundheit und Soziales**
+
+<sup>1</sup> Die Direktion für Gesundheit und Soziales (die Direktion) übt alle Kompetenzen im Gesundheitswesen aus, die von der Bundesgesetzgebung den Kantonen und keinen anderen Behörden oder Organen übertragen werden.
+
+<sup>2</sup> Sie kann namentlich:
+
+- a) Anwendungsrichtlinien zu dieser Verordnung erlassen, insbesondere über die Betäubungsmittelkontrolle und die betäubungsmittelgestützte Behandlung abhängiger Personen (Art. 3e Abs. 1 BetmG);
+- b) die Befugnis der Zahnärztinnen und Zahnärzte in Anwendung von Artikel 9 Abs. 4 BetmG auf bestimmte Betäubungsmittel beschränken;
+- c) einer Medizinalperson, die betäubungsmittelabhängig ist, im Sinne von Artikel 12 BetmG für bestimmte Zeit oder dauernd die Befugnis entziehen, Betäubungsmittel im Rahmen des Heilmittelgesetzes zu beziehen, zu lagern, zu verwenden und abzugeben;
+- d) Krankenanstalten und Instituten, die der wissenschaftlichen Forschung dienen, die Bewilligung erteilen, Betäubungsmittel zu beziehen, zu lagern oder zu verwenden (Art. 14 Abs. 1 und 2 BetmG).
+
+#### Art. 2
+
+**Zuständige kantonale Behörden – Sicherheits- und Justizdirektion**
+
+<sup>1</sup> Die Sicherheits- und Justizdirektion übt folgende Kompetenzen aus:
+
+- a) Sie organisiert die von den Gerichtsbehörden angeordnete Überführung oder Vernichtung von Vorräten verbotener Betäubungsmittel (Art. 8 Abs. 4 BetmG).
+- b) Sie erteilt den kantonalen Behörden und namentlich der Polizei auf Stellungnahme des Generalstaatsanwalts die Bewilligung, Betäubungsmittel zu beziehen, einzuführen, zu lagern, zu verwenden, abzugeben oder auszuführen (Art. 14a Abs. 1<sup>bis</sup> BetmG).
+- c) Sie macht dem Bundesamt für Polizei Mitteilung über jede wegen Widerhandlung gegen die Gesetzgebung über die Betäubungsmittel eingeleitete Strafverfolgung (Art. 29e Abs. 2 BetmG).
+
+#### Art. 3
+
+**Zuständige kantonale Behörden – Kantonsärztin oder Kantonsarzt**
+
+<sup>1</sup> Die Kantonsärztin oder der Kantonsarzt übt folgende Kompetenzen aus:
+
+- a) Sie oder er erteilt die Bewilligung gemäss Artikel 3e Abs. 1 BetmG für die Verschreibung, die Abgabe und die Verabreichung von Betäubungsmitteln zur Behandlung von betäubungsmittelabhängigen Personen.
+- b) Sie oder er befindet über den Abbruch unbegründeter Verschreibungen.
+- c) Sie oder er kann bei begründetem Verdacht beim kantonalen Amt für Strassenverkehr und Schifffahrt (ASS) Personen anzeigen, die Betäubungsmittel missbräuchlich verwenden und die beim Fahren ihr eigenes oder das Leben anderer Verkehrsteilnehmenden gefährden.
+
+#### Art. 4
+
+**Zuständige kantonale Behörden – Kantonsapothekerin oder Kantonsapotheker**
+
+<sup>1</sup> Die Kantonsapothekerin oder der Kantonsapotheker übt folgende Kompetenzen aus:
+
+- a) Sie oder er begutachtet die Entscheide der Direktion gemäss Artikel 1.
+- b) Sie oder er sammelt und überwacht die Meldungen von Verschreibungen und Abgaben von Arzneimitteln mit kontrollierten Substanzen mit einer anderen als der von Swissmedic zugelassenen therapeutischen Indikation (Art. 11 Abs. 1<sup>bis</sup> BetmG), auch dann, wenn die Dosierung diejenige gemäss Zulassung des Arzneimittels überschreitet, sodass sie oder er gegebenenfalls die Entscheide über einen Abbruch unbegründeter Behandlungen vorbereiten kann.
+- c) Sie oder er führt die Kontrollen im Rahmen der kantonalen Kompetenzen durch (Art. 16–18 BetmG und Art. 69 BetmKV) und gibt die entsprechenden Informationen und Ratschläge.
+- d) Sie oder er kann bei begründetem Verdacht beim ASS Personen anzeigen, die Betäubungsmittel missbräuchlich verwenden und die beim Fahren ihr eigenes oder das Leben anderer Verkehrsteilnehmenden gefährden.
+- e) Sie oder er sorgt dafür, dass veränderte, verfallene oder nicht mehr verwendete kontrollierte Substanzen, die von Anbietern von Leistungen der Humanmedizin stammen, entsorgt werden.
+
+#### Art. 5
+
+**Zuständige kantonale Behörden – Kantonstierärztin oder Kantonstierarzt**
+
+<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ist das Vollzugsorgan in Sachen Abgabe, Erwerb, Verwendung und Kontrolle von Tierarzneimitteln mit kontrollierten Substanzen.
+
+#### Art. 6
+
+**Zuständige kantonale Behörden – Gemeinsame Bestimmung**
+
+<sup>1</sup> Die oben erwähnten Behörden treffen die entsprechenden administrativen Massnahmen, um eine missbräuchliche Verwendung kontrollierter Substanzen zu verhindern.
+
+<sup>2</sup> Sie sind dafür zuständig, Verstösse gegen das Bundesgesetz über die Betäubungsmittel und die psychotropen Stoffe und seine Ausführungserlasse bei der Strafbehörde anzuzeigen.
+
+<sup>3</sup> Es gilt das Gesetz über den Datenschutz für den Datenaustausch zwischen den oben erwähnten Behörden; die Bundesgesetzgebung bleibt vorbehalten.
+
+#### Art. 7
+
+**Indikationsgremium**
+
+<sup>1</sup> Das Indikationsgremium ist eine von der Direktion ernannte und dem Kantonsarztamt angegliederte Kommission.
+
+<sup>2</sup> Ihm gehören neun Fachpersonen aus dem kantonalen Suchtdispositiv an. Für Entscheide, die Minderjährige betreffen, kann die Direktion andere Fachpersonen ernennen, die anstelle der Vollmitglieder tagen.
+
+<sup>3</sup> Es erfüllt folgenden Auftrag:
+
+- a) Erhebung der Meldungen von Fällen vorliegender oder drohender suchtbedingter Störungen im Sinne von Artikel 3c BetmG;
+- b) Triage von Situationen, die eine Leistung der staatlich beauftragten Dienststellen und Einrichtungen erfordern (Vor-Abklärung);
+- c) Beurteilung und Weiterleitung komplexer Situationen entsprechend ihrem Schweregrad sowie Empfehlungen für Interventionen oder individuell abgestimmte Therapie-Massnahmen (Abklärung).
+
+<sup>4</sup> Im Rahmen der Gesetzgebung über die Betäubungsmittel und über den Datenschutz kann das Indikationsgremium die für die Umsetzung einer Behandlung erforderlichen Daten erhalten, bearbeiten und weiterleiten.
+
+<sup>5</sup> Die Datenbank des Indikationsgremiums wird vom Kantonsarztamt verwaltet. Sie enthält ausschliesslich Informationen zur Beurteilung des Suchtgrads und der benötigten Hilfe.
+
+#### Art. 8
+
+**Aufsichtsbehörde**
+
+<sup>1</sup> Der Staatsrat übt die allgemeine Aufsicht über die Behörden, Organe und Einrichtungen aus, die mit der Ausführung der eidgenössischen Betäubungsmittelgesetzgebung beauftragt sind.
+
+#### Art. 9
+
+**Fürsorgerische Unterbringung**
+
+<sup>1</sup> Die fürsorgerische Unterbringung, die ambulante Behandlung und die Nachkontrolle von betäubungsmittelabhängigen Personen richten sich nach den Bestimmungen der Gesetzgebung über den Kindes- und Erwachsenenschutz.
+
+#### Art. 10
+
+**Substitutionsbehandlung (Art. 3e BetmG) – Bewilligungsvoraussetzungen**
+
+<sup>1</sup> Der behandelnden Ärztin oder dem behandelnden Arzt kann eine Bewilligung für eine Substitutionsbehandlung erteilt werden, wenn:
+
+- a) die Richtlinien über die Behandlung mit Arzneimitteln mit kontrollierten Substanzen (Art. 1 Abs. 2 Bst. a) eingehalten werden;
+- b) die behandelnde Ärztin oder der behandelnde Arzt das Recht hat, Arzneimittel mit kontrollierten Substanzen zu verwenden (Art. 9 und 12 BetmG).
+
+<sup>2</sup> Die behandelnde Ärztin oder der behandelnde Arzt schickt der Kantonsärztin oder dem Kantonsarzt für alle Patientinnen und Patienten, die für eine Substitutionsbehandlung in Frage kommen, alle erforderlichen Angaben gemäss Artikel 9 BetmSV und begründet die Notwendigkeit der Behandlung.
+
+<sup>3</sup> Die Kantonsärztin oder der Kantonsarzt kann die Behandlung einer Patientin oder eines Patienten an Bedingungen knüpfen oder diese einschränken oder verbieten.
+
+#### Art. 11
+
+**Substitutionsbehandlung (Art. 3e BetmG) – Gültigkeit der Bewilligung**
+
+<sup>1</sup> Die Bewilligung ist zwei Jahre gültig. Sie kann auf begründetes Gesuch hin verlängert werden.
+
+<sup>2</sup> Die Bewilligung ist nicht übertragbar.
+
+#### Art. 12
+
+**Substitutionsbehandlung (Art. 3e BetmG) – Entzug der Bewilligung**
+
+<sup>1</sup> Die Bewilligung kann der Inhaberin oder dem Inhaber entzogen werden, wenn:
+
+- a) die Voraussetzungen aufgrund erheblicher Änderungen der Tatsachen zur Begründung der Bewilligung nicht mehr erfüllt sind;
+- b) der behandelnden Ärztin oder dem behandelnden Arzt die Befugnis entzogen wurde, Arzneimittel mit kontrollierten Substanzen zu verwenden (Art. 12 BetmG).
+
+<sup>2</sup> Die administrativen Behörden führen die zur Aufsicht erforderlichen Verfahren ein.
+
+#### Art. 13
+
+**Zahnärztinnen und Zahnärzte, Tierärztinnen und Tierärzte**
+
+<sup>1</sup> Die Zahnärztinnen und Zahnärzte sowie die Tierärztinnen und Tierärzte können diejenigen Betäubungsmittel, die in der von der Direktion für sie aufgestellten Liste angeführt sind, beziehen, lagern, verwenden und abgeben.
+
+#### Art. 14
+
+**Auskunftspflicht**
+
+<sup>1</sup> Die Verantwortlichen einer öffentlichen Apotheke, eines Spitals oder einer Einrichtung mit kantonaler Bewilligung sowie Ärztinnen und Ärzte, die zum Betrieb einer Privatapotheke ermächtigt sind, schicken der Kantonsapothekerin oder dem Kantonsapotheker jedes Jahr die Daten im Zusammenhang mit der Beschaffung von Substanzen, die in Anhang 2, Verzeichnis a, BetmVV-EDI aufgeführt sind, und geben den Verwendungszweck an.
+
+<sup>2</sup> Auf Ersuchen der Kantonsapothekerin oder des Kantonsapothekers liefern sie die entsprechenden Daten auch für die Substanzen, die in den anderen Anhängen der Verordnung aufgeführt sind.
+
+<sup>3</sup> Auf Ersuchen der Kantonsapothekerin oder des Kantonsapothekers gilt diese Auskunftspflicht auch für wissenschaftliche Institute mit kantonaler Bewilligung.
+
+#### Art. 15
+
+**Gebühren (Art. 29d Abs. 2 BetmG) – Grundsätze**
+
+<sup>1</sup> Die Bewilligungen sind kostenlos, falls die Anträge von Anfang an vollständig sind und ihre Bearbeitung nur einen für die allgemeine Verwaltungstätigkeit üblichen Aufwand erfordert.
+
+<sup>2</sup> Ein Stundentarif gilt für die übrigen Leistungen oder administrativen Schritte, insbesondere für:
+
+- a) Sonderinspektionen und besondere Kontrollaktivitäten, einschliesslich Vorbereitung, einschlägigen Berichts und Reisekosten (Arbeitszeit, Auslagen);
+- b) administrative Massnahmen;
+- c) Disziplinarmassnahmen aufgrund der Nichteinhaltung von Fristen oder Meldepflichten;
+- d) administrative Arbeit aufgrund zurückgezogener Bewilligungsanträge;
+- e) administrative Arbeit im Zusammenhang mit Sonderbewilligungen, die an Bedingungen oder Auflagen geknüpft sind.
+
+#### Art. 16
+
+**Gebühren (Art. 29d Abs. 2 BetmG) – Stundentarif**
+
+<sup>1</sup> Der Stundentarif beträgt:
+
+- a) Mitarbeitende ab Lohnklasse 20: Fr. 180
+- b) Mitarbeitende bis Lohnklasse 19: Fr. 80
+
+<sup>2</sup> Es werden mindestens 80 Franken verrechnet.
+
+#### Art. 17
+
+**Strafbestimmungen**
+
+<sup>1</sup> Zuwiderhandlungen gegen diese Verordnung, die in den Artikeln 19–28 BetmG nicht vorgesehen sind, werden nach dem Justizgesetz verfolgt und beurteilt.
+
+<sup>2</sup> Die Beamtinnen und Beamten der Kantonspolizei sind für die Verhängung der Ordnungsbussen im Sinne von Artikel 28b BetmG zuständig.
+
+#### Art. 18
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Der Ausführungsbeschluss vom 10. Oktober 1978 zur Bundesgesetzgebung über Betäubungsmittel (SGF 821.22.11) wird aufgehoben.
+
+#### Art. 19
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung wird rückwirkend auf den 1. April 2016 in Kraft gesetzt.
+
+2016\_059

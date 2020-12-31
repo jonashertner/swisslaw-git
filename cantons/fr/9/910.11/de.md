@@ -1,0 +1,1173 @@
+---
+canton: FR
+number: "910.11"
+title: Landwirtschaftsreglement
+short: LandwR
+language: de
+version: 2020-05-01
+valid_until: 2021-12-31
+version_adopted: 2020-04-28
+adopted: 2007-03-27
+in_force: 2007-03-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/910.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/6503/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Landwirtschaftsreglement
+
+Landwirtschaftsreglement
+
+(LandwR)
+
+vom 27.03.2007 (Fassung in Kraft getreten am 01.05.2020)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 29. April 1998 über die Landwirtschaft (LwG) und die dazugehörenden Vollzugsverordnungen;
+
+gestützt auf das Landwirtschaftsgesetz vom 3. Oktober 2006 (LandwG);
+
+auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Reglement führt das Bundesgesetz über die Landwirtschaft und die dazugehörenden Verordnungen sowie das kantonale Landwirtschaftsgesetz aus.
+
+<sup>2</sup> In diesem Rahmen legt es insbesondere fest:
+
+- a) die Organisation und die Befugnisse der Vollzugsorgane der Agrarpolitik des Bundes und des Kantons;
+- b) das Evaluationsverfahren für Projekte, für die ein Darlehen aus dem Landwirtschaftsfonds beantragt wurde, die Kriterien und Modalitäten für die Gewährung eines Darlehens für diese Projekte sowie die Kontrolle seiner Verwendung;
+- c) die Vollzugsmodalitäten für Massnahmen zur Förderung und Entwicklung der freiburgischen Landwirtschaft, insbesondere die Evaluation von Projekten zur Förderung landwirtschaftlicher Erzeugnisse und die Umsetzung der Förderungstätigkeiten;
+- d) die Vollzugsmodalitäten der übrigen im Landwirtschaftsgesetz vorgesehenen Massnahmen im Zusammenhang mit den Sömmerungsbeiträgen, der landwirtschaftlichen Innovation, den Anbaumethoden und –techniken und mit der Betriebshilfe für bäuerliche Betriebe in Schwierigkeiten.
+
+#### Art. 2
+
+**Bezeichnungen**
+
+<sup>1</sup> In diesem Reglement bedeuten:
+
+- a) GUB/GGA: Verordnung des Bundes vom 28. Mai 1997 über den Schutz von Ursprungsbezeichnungen und geographischen Angaben für landwirtschaftliche Erzeugnisse und verarbeitete landwirtschaftliche Erzeugnisse;
+- b) LandwG: Landwirtschaftsgesetz vom 3. Oktober 2006;
+- c) LwG: Bundesgesetz vom 29. April 1998 über die Landwirtschaft;
+- d) LIGG: Gesetz vom 23. Juni 2006 über das Landwirtschaftliche Institut des Kantons Freiburg;
+- e) MQV: Milchqualitätsverordnung des Bundes vom 23. November 2005;
+- f) LBV: Verordnung des Bundes vom 7. Dezember 1998 über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen (Landwirtschaftliche Begriffsverordnung)
+- g) SBMV: Verordnung des Bundes vom 26. November 2003 über die sozialen Begleitmassnahmen in der Landwirtschaft (SBMV)
+- h) SV: Verordnung des Bundes vom 26. November 2003 über den Schlachtvieh und Fleischmarkt (Schlachtviehverordnung)
+- i) SVV: Verordnung des Bundes vom 7. Dezember 1998 über die Strukturverbesserungen in der Landwirtschaft (Strukturverbesserungsverordnung)
+- j) VPrP: Verordnung des Bundes vom 23. November 2005 über die Primärproduktion
+- k) Direktion: die Direktion der Institutionen und der Land und Forstwirtschaft;
+- l) Amt: das Amt für Landwirtschaft;
+- m) LIG: das Landwirtschaftliche Institut des Kantons Freiburg in Grangeneuve;
+- n) BLW: das Bundesamt für Landwirtschaft.
+
+#### Art. 3
+
+**Finanzielle Befugnisse**
+
+<sup>1</sup> Bei finanziellen Hilfen in Form von Darlehen oder Investitionskrediten ist für die Festlegung der Entscheidkompetenz die Summe der vom Kanton gewährten Darlehen und Investitionskredite (einschliesslich des Restbetrags früherer Darlehen oder Investitionskredite) massgebend.
+
+<sup>2</sup> Bei einer kombinierten Finanzhilfe (rückzahlbare Finanzhilfen und A-fonds-perdu-Beiträge) werden die A-fonds-perdu-Beiträge zur Summe der rückzahlbaren Finanzhilfen dazugerechnet.
+
+## 2 Umsetzung der Agrarpolitik des Bundes
+
+### 2.1 Rahmenbedingungen für Produktion und Absatz (Art. 7 ff. LwG)
+
+### 2.1.1 Allgemeine wirtschaftliche Bestimmungen (Art. 8 ff. LwG)
+
+#### Art. 4
+
+**Qualitätssicherung (Art. 11 LwG und 12 MQV)**
+
+<sup>1</sup> Die Aufgaben im Zusammenhang mit der Qualitätssicherung werden grundsätzlich vom LIG wahrgenommen.
+
+<sup>2</sup> Die Kontrollen der Hygienevorschriften und der Auflagen im Bereich Tierschutz in den Tierhaltungen müssen mit den übrigen Kontrollen auf dem Betrieb gemäss den Grundsätzen nach Artikel 42 koordiniert werden.
+
+<sup>3</sup> Die kantonale Gesetzgebung über die Kontrolle der Lebensmittelhygiene bleibt vorbehalten.
+
+#### Art. 5
+
+**Kantonale Beteiligung an den Massnahmen zur Marktentlastung (Art. 13 LwG)**
+
+<sup>1</sup> Der Staatsrat entscheidet über die Höhe der kantonalen Beteiligung an den Kosten für punktuelle Massnahmen zur Marktentlastung, an denen sich der Bund beteiligt.
+
+<sup>2</sup> Die kantonale Beteiligung an den Kosten ist nicht höher als die Beteiligung des Bundes.
+
+#### Art. 6
+
+**Ursprungsbezeichnungen, geographische Angaben (Art. 16 LwG und GUB/GGA)**
+
+<sup>1</sup> Die Direktion vertritt den Kanton im Bereich der Ursprungsbezeichnungen und geografischen Angaben für landwirtschaftliche Erzeugnisse und verarbeitete landwirtschaftliche Erzeugnisse.
+
+<sup>2</sup> Sie ist insbesondere ermächtigt, dem BLW die Stellungnahme des Kantons zu den Eintragungsgesuchen abzugeben, eine Eintragung mit Einsprache anzufechten und die Verfahren auf gerichtlicher Ebene weiterzuführen.
+
+### 2.1.2 Viehwirtschaft (Art. 46 ff. LwG)
+
+#### Art. 7
+
+**Fleischmarkt (Art. 49 Abs. 2 LwG und SV) – Bezeichnung der öffentlichen Märkte für Rinder und Schafe**
+
+<sup>1</sup> Die Direktion gibt den vom BLW beauftragten Organisationen die kantonale Stellungnahme zur Bezeichnung der öffentlichen Märkte für Tiere der Rinder- und Schafgattung für das Kalenderjahr ab.
+
+#### Art. 8
+
+**Fleischmarkt (Art. 49 Abs. 2 LwG und SV) – Bundesbeiträge für die öffentlichen Märkte im Berggebiet (Art. 50 Abs. 2 LwG und SV)**
+
+<sup>1</sup> Die Direktion prüft die Gesuche um Infrastrukturbeiträge.
+
+<sup>2</sup> Sie leitet die Beitragsgesuche zusammen mit ihrem Antrag und einer Darlegung eventueller kantonaler Bedingungen und Auflagen an das BLW zum Entscheid weiter.
+
+### 2.1.3 Pflanzenbau (Art. 54 ff. LwG)
+
+#### Art. 9
+
+**Ölsaaten, Körnerleguminosen und Faserpflanzen (Art. 56, 57 und 59 LwG)**
+
+<sup>1</sup> Für Gesuche um Flächen- und Verarbeitungsbeiträge im Ackerbau wird das Verfahren für Direktzahlungen und Beiträge nach Artikel 13 ff. dieses Reglements angewendet.
+
+### 2.1.4 Weinwirtschaft (Art. 60 ff. LwG)
+
+#### Art. 10
+
+**Behörden und Befugnisse – Direktion**
+
+<sup>1</sup> Die Direktion hat insbesondere die folgenden Befugnisse:
+
+- a) Sie definiert und anerkennt die Bezeichnungen von Weinen.
+- b) Sie beschliesst die allgemeinen Bedingungen für die Anerkennung und die Verwendung der kontrollierten Ursprungsbezeichnungen.
+- c) Für die Weine mit Ursprungsbezeichnung legt sie jedes Jahr spätestens Ende Juli für jede Rebsorte die Mindestzuckergehalte der Traubenposten und Höchsterträge pro Flächeneinheit fest.
+- d) Sie bewilligt die Pflanzung neuer Reben und legt die Einzelheiten für die Mitteilung der Erneuerungen fest.
+- e) Sie verfügt die Beseitigung widerrechtlich angepflanzter Reben.
+- f) Sie legt die Einzelheiten zur Führung, Verwaltung und Öffentlichkeit des Rebbaukatasters fest.
+- g) Sie legt die Vorschriften für den Vollzug der Weinlesekontrollen fest.
+
+#### Art. 11
+
+**Behörden und Befugnisse – Amt**
+
+<sup>1</sup> Das Amt führt alle administrativen Tätigkeiten im Zusammenhang mit dem Vollzug der der Direktion übertragenen Aufgaben und Befugnissen aus.
+
+<sup>2</sup> Es ist insbesondere verantwortlich für die Führung und die Nachführung der verschiedenen Register, namentlich des Rebbaukatasters, für die Ergreifung von eidgenössischen Hilfsmassnahmen zugunsten der Weinwirtschaft sowie für die Organisation und die Beaufsichtigung der Weinlesekontrollen.
+
+<sup>3</sup> Es beschliesst die Deklassierung von Traubenposten gemäss Artikel 27 der eidgenössischen Weinverordnung vom 14. November 2007.
+
+#### Art. 12
+
+**Behörden und Befugnisse – Weinbaukommission**
+
+<sup>1</sup> Es wird eine Weinbaukommission mit 7 vom Staatsrat ernannten Mitgliedern eingesetzt. Die Berufsorganisationen für Weinbau und Einkellerung der beiden Rebberge Vully und Cheyres/Font sind mit je 2 Mitgliedern vertreten.
+
+<sup>2</sup> Die Direktionsvorsteherin oder der Direktionsvorsteher führt den Vorsitz der Kommission. Das Amt besorgt das Sekretariat.
+
+<sup>3</sup> Die Weinbaukommissäre nehmen mit beratender Stimme an den Sitzungen der Kommission teil.
+
+<sup>4</sup> In ihrer Funktion als beratendes Organ nimmt die Weinbaukommission zu allen Fragen allgemeiner Tragweite im Zusammenhang mit der Weinwirtschaft Stellung.
+
+<sup>5</sup> Ausserdem gelten die Gesetzgebung über die Dauer der öffentlichen Nebenämter und das Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+
+### 2.2 Direktzahlungen und Beiträge (Art. 56 ff. und 70 ff. LwG und 7 LandwG)
+
+#### Art. 13
+
+**Anmeldung und Bedingungen**
+
+<sup>1</sup> Um die vom Bundesrecht vorgesehenen Direktzahlungen und Beiträge zu erhalten, muss die Bewirtschafterin oder der Bewirtschafter mittels einem vollständig ausgefüllten und unterzeichneten amtlichen Formular ein Gesuch an das Amt stellen.
+
+<sup>2</sup> Das Amt legt die Fristen und die Anmeldungsmodalitäten für Direktzahlungs- und Beitragsgesuche fest.
+
+<sup>3</sup> Es legt gegebenenfalls die Anforderungen im Zusammenhang mit Direktzahlungen und Beiträgen, die das Bundesrecht der Zuständigkeit der Kantone überträgt, fest.
+
+#### Art. 14
+
+**Biodiversitätsbeiträge (Art. 73 LwG) – Allgemein**
+
+<sup>1</sup> Die kantonalen Anforderungen an Vernetzungsprojekte werden von der Direktion der Institutionen und der Land- und Forstwirtschaft erlassen.
+
+#### Art. 14a
+
+**Biodiversitätsbeiträge (Art. 73 LwG) – Konsultativkommission für die Vernetzung**
+
+<sup>1</sup> Für die Vernetzung wird eine Konsultativkommission eingesetzt. Der Kommission gehören 7 vom Staatsrat ernannte Mitglieder an. Vertreten sind:
+
+- a) die Naturschutzorganisationen (zwei Vertreter/innen);
+- b) die Landwirtschaft (zwei Vertreter/innen);
+- c) das Amt (ein/e Vertreter/in);
+- d) das Amt für Wald und Natur (ein/e Vertreter/in);
+- e) das LIG (ein/e Verteter/in).
+
+<sup>2</sup> Die Vertreterin oder der Vertreter des LIG präsidiert die Kommission und führt ihr Sekretariat.
+
+<sup>3</sup> Als beratendes Organ prüft und begutachtet die Kommission die Vernetzungsprojekte.
+
+<sup>4</sup> Die gesetzlichen Bestimmungen über die Dauer der öffentlichen Nebenämter und die Bestimmungen des Reglements über die Organisation und die Funktionsweise der Kommissionen des Staates sind anwendbar.
+
+#### Art. 14b
+
+**Biodiversitätsbeiträge (Art. 73 LwG) – Genehmigung der Vernetzungsprojekte**
+
+<sup>1</sup> Die Vernetzungsprojekte werden unter Einbezug des Gutachtens der Kommission vom Amt genehmigt.
+
+<sup>2</sup> Gegen einen ablehnenden Entscheid kann gemäss Artikel 41 LandwG Einsprache erhoben werden.
+
+#### Art. 15
+
+**Sömmerungsbeiträge (Art. 77 Abs. 3 LwG)**
+
+<sup>1</sup> Die Sömmerungsbeiträge werden nur an Selbstbewirtschafterinnen und Selbstbewirtschafter ausgerichtet.
+
+#### Art. 16
+
+**Kontrollen – Befugnisse**
+
+<sup>1</sup> Das Amt ist für den Vollzug der Kontrollen verantwortlich.
+
+<sup>2</sup> Es verfügt dazu über örtliche Landwirtschaftsverantwortliche und kann für den Vollzug gewisser spezieller Kontrollen die Unterstützung anderer administrativer Einheiten des Staates anfordern.
+
+<sup>3</sup> Es kann einen Teil seiner Kontrollaufgaben durch Vereinbarung an eine oder mehrere Organisationen übertragen, die gemäss den Anforderungen des Bundes akkreditiert sind oder für eine sachgemässe und unabhängige Kontrolle Gewähr bieten.
+
+<sup>4</sup> Artikel 42 bleibt vorbehalten.
+
+#### Art. 17
+
+**…**
+
+#### Art. 18
+
+**Kontrollen – Überwachung der Kontrollen**
+
+<sup>1</sup> Das Amt überwacht den reibungslosen Ablauf der übertragenen Kontrollen, indem es namentlich in den kontrollierten Betrieben stichprobenweise Nachkontrollen durchführt.
+
+#### Art. 19
+
+**Entscheid des Amts**
+
+<sup>1</sup> Das Amt entscheidet, ob die Gesuchstellerin oder der Gesuchsteller Anspruch auf eine Direktzahlung oder einen Beitrag hat, und legt gegebenenfalls den Betrag fest.
+
+<sup>2</sup> …
+
+<sup>3</sup> Ist ein Gesuch missbräuchlich oder macht die Bearbeitung des Gesuchs besondere administrative Schritte erforderlich, namentlich weil das amtliche Formular ungenaue oder unvollständige Angaben enthält oder zu spät eingereicht wird, so kann das Amt eine Gebühr von bis zu 500 Franken erheben.
+
+### 2.3 Soziale Begleitmassnahmen (Art. 78 ff. LwG und 39 LandwG)
+
+#### Art. 20
+
+**Betriebshilfe (Art. 78 ff. LwG und 39 Abs. 2 LandwG) – Zuständigkeit**
+
+<sup>1</sup> Für die Gewährung der von der Bundesgesetzgebung vorgesehenen Betriebshilfe ist die Direktion zuständig.
+
+<sup>2</sup> Die Direktion kann die Befugnis, über Betriebshilfen zu entscheiden, dem Amt übertragen, wenn der Betrag nicht mehr als 50'000 Franken beträgt.
+
+#### Art. 21
+
+**Betriebshilfe (Art. 78 ff. LwG und 39 Abs. 2 LandwG) – Verfahren**
+
+<sup>1</sup> Gesuche um Betriebshilfe werden an das Amt gerichtet, das alle Fragen im Zusammenhang mit den Betriebshilfen abklärt, den Sachverhalt festhält und gegebenenfalls einen Entscheidsentwurf für die Direktion formuliert.
+
+#### Art. 22
+
+**Umschulungsbeihilfe des Bundes für Landwirtinnen und Landwirte (Art. 86a LwG und SBMV)**
+
+<sup>1</sup> Das Amt nimmt die Gesuche der im Kanton Freiburg wohnhaften Landwirtinnen oder Landwirte entgegen und prüft sie, betreut die laufenden Dossier und teilt dem BLW die sachdienlichen Angaben mit.
+
+<sup>2</sup> Es ist namentlich befugt:
+
+- a) Gesuche um Umschulungsbeihilfe entgegenzunehmen und die Stellungnahme des Kantons zuhanden des BLW zu verabschieden;
+- b) die Beihilfen an die Empfänger auszuzahlen;
+- c) die Kürzung oder die Verweigerung der Auszahlung sowie die Rückerstattung der Beihilfen zu verfügen;
+- d) die Eintragung der Anmerkung im Grundbuch zu verlangen;
+- e) zu kontrollieren, ob die Voraussetzung für die Gewährung der Umschulungsbeihilfen, d.h. die Aufgabe des landwirtschaftlichen Betriebs in den kommenden 20 Jahren, eingehalten wird;
+- f) gegebenenfalls die Rückerstattung der Umschulungsbeihilfen von den Direktzahlungen abzuziehen.
+
+### 2.4 Strukturverbesserungen (Art. 87 ff. LwG)
+
+### 2.4.1 Beiträge (Art. 93 ff. LwG und SVV)
+
+#### Art. 23
+
+**Bodenverbesserungen, landwirtschaftliche Gebäude und regionale Entwicklung (Art. 93 ff. LwG)**
+
+<sup>1</sup> Alle Fragen im Zusammenhang mit Bodenverbesserungsprojekten, Projekten zu landwirtschaftlichen Gebäuden und zur regionalen Entwicklung sind in der Gesetzgebung über die Bodenverbesserungen geregelt.
+
+### 2.4.2 Investitionskredite (Art. 105 ff. LwG)
+
+#### Art. 24
+
+**Verfahren – Gesuch**
+
+<sup>1</sup> Gesuche um Investitionskredite müssen rechtzeitig an das Amt gerichtet werden, so dass sie vor Baubeginn oder dem geplanten Erwerb geprüft werden können.
+
+<sup>2</sup> Das Amt prüft, ob für die geplanten Arbeiten oder den geplanten Erwerb ein Investitionskredit in Frage kommt. Wenn dies der Fall ist, lässt es ein Dossier erstellen und legt dessen Inhalt fest.
+
+<sup>3</sup> Das Amt informiert die Gesuch stellende Person, wenn das Gesuch um Investitionskredite den gesetzlichen Anforderungen nicht genügt.
+
+#### Art. 25
+
+**Verfahren – Gewährung des Investitionskredits und vorzeitiger Beginn der Arbeiten oder Erwerb**
+
+<sup>1</sup> Es ist verboten, mit den Arbeiten zu beginnen oder den Erwerb zu tätigen, bevor über die Gewährung des Investitionskredits entschieden wurde, ausser das Amt bewilligt dies ausdrücklich.
+
+<sup>2</sup> Diese vorzeitige Bewilligung begründet keinen Anspruch auf die Gewährung der Investitionskredite.
+
+#### Art. 26
+
+**Verfahren – Garantien und Rang der Garantien**
+
+<sup>1</sup> Investitionskredite sind wenn möglich gegen Realsicherheiten zu gewähren.
+
+<sup>2</sup> Das Amt kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
+
+#### Art. 27
+
+**Mindestbetrag für Investitionskredite**
+
+<sup>1</sup> Für einzelbetriebliche Massnahmen werden keine Investitionskredite unter 20'000 Franken und für gemeinschaftliche Massnahmen keine Investitionskredite unter 30'000 Franken gewährt.
+
+#### Art. 28
+
+**Rückzahlungen**
+
+<sup>1</sup> Die jährlichen Rückzahlungen der Investitionskredite werden mit den Beiträgen des Bundes oder des Kantons an die Kreditnehmerin oder den Kreditnehmer verrechnet.
+
+#### Art. 29
+
+**Entscheid**
+
+<sup>1</sup> Der Staatsrat entscheidet unter Berücksichtigung von Artikel 3 über die Gewährung von Investitionskrediten von über 500'000 Franken.
+
+<sup>2</sup> Die Direktion entscheidet über Gesuche um Beträge unter 500'000 Franken. Sie kann dem Amt die Befugnis übertragen, über Gesuche im Betrag von bis 50'000 Franken zu entscheiden.
+
+<sup>3</sup> Müssen Grundpfandverschreibungen errichtet werden, so gilt der Entscheid als Ausweis zur Eintragung der Grundpfandverschreibung im Grundbuch gemäss Artikel 70 des Einführungsgesetzes vom 10. Februar 2012 zum Schweizerischen Zivilgesetzbuch
+
+#### Art. 30
+
+**Verfahrenskosten (Art. 112 LwG)**
+
+<sup>1</sup> Es werden keine Verfahrenskosten erhoben.
+
+### 2.4.3 Gemeinsame Bestimmungen (Art. 87 ff. LwG)
+
+#### Art. 31
+
+**Belastungsgrenzen (Art. 89 Abs. 1 Bst. d LwG)**
+
+<sup>1</sup> Bei Bedarf lässt das Amt die Belastungsgrenze berechnen. Es kann von der Freiburgischen Landwirtschaftskammer berechnete Belastungsgrenzen anerkennen.
+
+#### Art. 32
+
+**Aufsicht (Art. 92 LwG)**
+
+<sup>1</sup> Das Amt beaufsichtigt die zweckentsprechende Verwendung der für Strukturverbesserungen bezahlten Hilfen.
+
+<sup>2</sup> Soweit als möglich, koordiniert es die Inspektionen mit anderen Kontrollen auf dem Betrieb gemäss Artikel 42.
+
+### 2.5 Forschung und Beratung sowie Förderung der Pflanzen und Tierzucht (Art. 113 ff. LwG)
+
+#### Art. 33
+
+**Beratung (Art. 136 LwG und 8 Abs. 2 LandwG)**
+
+<sup>1</sup> Die Aufgaben im Bereich Beratung werden vom LIG gemäss dem Gesetz über das Landwirtschaftliche Institut des Kantons Freiburg (LIGG) wahrgenommen.
+
+### 2.6 Pflanzenschutz und Produktionsmittel (Art. 148 ff. LwG)
+
+### 2.6.1 Pflanzenschutz (Art. 149 ff. LwG)
+
+#### Art. 34
+
+**Direktion**
+
+<sup>1</sup> Die Direktion fördert und überwacht den Vollzug der Bestimmungen des Bundes über den Pflanzenschutz. Sie erlässt insbesondere die für die Bekämpfung von Schädlingen, Krankheiten, Unkräutern, Schadorganismen und schädlichen Pflanzen nötigen Vollzugsmassnahmen, wenn diese von der Bundesgesetzgebung obligatorisch erklärt wurden.
+
+<sup>2</sup> Sie kann die Bekämpfung anderer Schädlinge, Krankheiten, Unkräuter, Schadorganismen und schädlicher Pflanzen obligatorisch erklären.
+
+<sup>3</sup> Sie kann ausserdem auf dem Verordnungsweg alle anderen für die Vorbeugung und Bekämpfung von Schädlingen, Krankheiten, Unkräutern, Schadorganismen und schädlichen Pflanzen nötigen Massnahmen erlassen.
+
+#### Art. 35
+
+**Pflanzenschutzkommission – Befugnisse**
+
+<sup>1</sup> Die Pflanzenschutzkommission (PSK) ist beratendes Organ im Bereich Pflanzenschutz.
+
+#### Art. 36
+
+**Pflanzenschutzkommission – Zusammensetzung und Organisation**
+
+<sup>1</sup> Die PSK setzt sich aus 9 Mitgliedern zusammen, und zwar aus einer Vertreterin oder einem Vertreter:
+
+- a) des Amts für Landwirtschaft;
+- b) des Amts für Umwelt;
+- c) des Amts für Wald und Natur;
+- d) des Amts für Lebensmittelsicherheit und Veterinärwesen / Kantonschemikerin oder Kantonschemiker;
+- e) des LIG;
+- f) der landwirtschaftlichen Kreise.
+
+<sup>2</sup> Die Vorsteherin oder der Vorsteher des Amts für Landwirtschaft hat das Präsidium der PSK inne.
+
+<sup>3</sup> Das Sekretariat der PSK wird vom LIG geführt.
+
+<sup>4</sup> Im Übrigen richtet sich ihre Arbeitsweise und Organisation nach dem Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+
+#### Art. 37
+
+**LIG**
+
+<sup>1</sup> Das LIG amtet als kantonaler Pflanzenschutzdienst im Sinne der Bundesgesetzgebung.
+
+<sup>2</sup> Es hat namentlich die folgenden Zuständigkeiten und Befugnisse:
+
+- a) Es führt die ihm im Bereich Pflanzenschutz übertragenen Aufgaben aus.
+- b) Es betreibt die wissenschaftliche und technische Forschung im Bereich der Schutz- und Bekämpfungsmassnahmen gegen Krankheiten, Schädlinge und Unkräuter, die eine Gefahr für die Allgemeinheit darstellen.
+- c) Es arbeitet mit den betreffenden eidgenössischen und kantonalen Organen zusammen.
+- d) Es koordiniert die Aktivitäten der anderen administrativen Einheiten der Kantonsverwaltung, sofern diese von den vorgesehenen Massnahmen betroffen sind.
+- e) Es ergreift alle sachdienlichen, von der eidgenössischen oder kantonalen Gesetzgebung vorgeschriebenen Massnahmen zur Aufdeckung, Vorbeugung oder Bekämpfung von Verseuchungen oder Infektionen. Es kann namentlich Umfragen, Kontrollen, Probenahmen und Beschlagnahmungen durchführen.
+
+<sup>3</sup> Bevor es die Massnahmen nach Absatz 2 Bst. e ergreift, konsultiert es wenn nötig:
+
+- a) das Amt für Umwelt;
+- b) das Amt für Wald und Natur;
+- c) …
+- d) die PSK.
+
+### 2.6.2. Produktionsmittel (Art. 158 ff. LwG)
+
+#### Art. 38
+
+**Primärproduktion und Koordination der Kontrollen (Art. 159a und 181 Abs. 1 LwG und VPrP)**
+
+<sup>1</sup> Bei den Kontrollen der Primärproduktion, die auf den Landwirtschaftsbetrieben durchgeführt werden müssen, müssen die Grundsätze nach Artikel 42 berücksichtigt werden.
+
+### 2.7 Besondere Vollzugsaufgaben des LwG (Art. 178 LwG)
+
+### 2.7.1 Betriebs und Gemeinschaftsformen (Art. 29a, 29b, 30 und 30a LBV)
+
+#### Art. 39
+
+**Anerkennungsverfahren**
+
+<sup>1</sup> Das Amt ist für die Anerkennung der Betriebs- und Gemeinschaftsformen zuständig.
+
+<sup>2</sup> Die Gesuche müssen an das Amt gerichtet werden. Sie müssen die nötigen Unterlagen und eine Begründung enthalten.
+
+#### Art. 40
+
+**Überprüfung der Anerkennung**
+
+<sup>1</sup> Das Amt überprüft periodisch, ob die anerkannten Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen noch erfüllen.
+
+<sup>2</sup> Es überprüft unverzüglich die Anerkennung von Betriebsgemeinschaften, namentlich wenn die Umstände vermuten lassen, dass:
+
+- a) ein Wechsel von beteiligten Bewirtschafterinnen und Bewirtschaftern stattgefunden hat, oder
+- b) das bei der Anerkennung bestehende Eigentum an den Produktionsstätten geändert hat, oder
+- c) die bei der Anerkennung bestehenden landwirtschaftlichen Pachtverträge geändert wurden.
+
+#### Art. 41
+
+**Entscheid des Amtes**
+
+<sup>1</sup> Das Amt entscheidet, ob die Betriebe und Betriebsgemeinschaften die Voraussetzungen der Verordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen erfüllen.
+
+<sup>2</sup> Erfüllt ein Betrieb oder eine Betriebsgemeinschaft die Voraussetzungen nicht mehr, so widerruft das Amt die ausdrückliche oder stillschweigende Anerkennung. Es legt in seinem Entscheid fest, ab welchem Datum der Widerruf gilt.
+
+### 2.7.2 Ausführung und Koordination der Kontrollen (Art. 181 Abs. 1 LwG und 7 Abs. 2 LandwG)
+
+#### Art. 42
+
+**Befugnisse**
+
+<sup>1</sup> Das Amt ist für alle Kontrollen zuständig, die auf den Landwirtschaftsbetrieben durchgeführt werden müssen.
+
+<sup>2</sup> Ist für die Kontrollen die Anwesenheit von Fachpersonen erforderlich, so koordiniert das Amt ihre Einsätze auf dem Landwirtschaftsbetrieb. Zu diesem Zweck melden die Facheinheiten die geplanten Einsätze vorgängig dem Amt.
+
+<sup>3</sup> Das gleiche gilt für Kontrollen, die von akkreditierten oder anerkannten Organisationen durchgeführt werden.
+
+<sup>4</sup> Stellen die Kontrolleurinnen oder Kontrolleure schwere Unterlassungen fest, so melden sie dies den Facheinheiten des Staates.
+
+### 2.7.3 Übrige Vollzugsaufgaben
+
+#### Art. 43
+
+**Übertragung von Aufgaben und Befugnissen (Art. 6 und 7 Abs. 2 LandwG)**
+
+<sup>1</sup> Die übrigen Aufgaben und Befugnisse, die dem Kanton vom Bundesgesetz über die Landwirtschaft und seinen Verordnungen übertragen werden, werden in einer Verordnung der Direktion geregelt.
+
+## 3 Umsetzung der kantonalen Landwirtschaftspolitik
+
+### 3.1 Organisation (Art. 5 ff. LandwG)
+
+#### Art. 44
+
+**Staatsrat (Art. 5 und 6 LandwG)**
+
+<sup>1</sup> Die allgemeinen Ziele der kantonalen Agrarpolitik werden aufgrund des Vierjahresprogramms der Agrarpolitik des Bundes festgelegt. Sie müssen innerhalb eines Jahres nach der Festlegung des 4-Jahres-Finanzrahmens durch die eidgenössischen Räte verabschiedet werden.
+
+<sup>2</sup> Das kantonale Vierjahresprogramm enthält insbesondere die folgenden Elemente:
+
+- a) einen Lagebericht;
+- b) einen Überblick über die Entwicklung der Agrarpolitik des Bundes;
+- c) einen Überblick über die Entwicklung der Landwirtschaft im Zusammenhang mit Wirtschaft, Gesellschaft und Umwelt;
+- d) die Entwicklungsperspektiven;
+- e) die Zielsetzungen, die Massnahmen, die ergriffen werden müssen, und die dafür notwendigen Mittel.
+
+<sup>3</sup> Die Aufgaben nach Absatz 2 werden vom LIG ausgeführt.
+
+#### Art. 45
+
+**Kommissionen (Art. 11 und 12 LandwG) – Landwirtschaftskommission**
+
+<sup>1</sup> Der Landwirtschaftskommission (LandwK) gehören neben der Präsidentin oder dem Präsidenten 10 Mitglieder an, und zwar:
+
+- a) 5 Vertreterinnen und Vertreter aus dem Bereich der Agrarproduktion;
+- b) 2 Vertreterinnen und Vertreter aus dem Bereich der Verarbeitung landwirtschaftlicher Produkte;
+- c) eine Vertreterin oder ein Vertreter aus dem Bereich des Umwelt- und Naturschutzes;
+- d) eine Vertreterin oder ein Vertreter aus dem Bereich des Konsumentenschutzes;
+- e) eine Vertreterin oder ein Vertreter der Wirtschaft oder des Tourismus.
+
+#### Art. 46
+
+**Kommissionen (Art. 11 und 12 LandwG) – Kommission für die Strukturverbesserungen in der Landwirtschaft**
+
+<sup>1</sup> Die Mitglieder der Kommission für die Strukturverbesserungen in der Landwirtschaft (KSL) werden aufgrund ihrer fachlichen Kompetenzen in den Bereichen Agrarwissenschaft, Bauwesen, Wirtschaft und Finanzen ausgewählt.
+
+<sup>2</sup> Die Präsidentin oder der Präsident der KSL wird vom Staatsrat bezeichnet.
+
+<sup>3</sup> Die KSL gibt zu den im Gesetz über die Bodenverbesserungen vorgesehenen Gesuchen um A-fonds-perdu-Beiträge sowie zu den Gesuchen um rückzahlbare Finanzhilfen eine Stellungnahme ab, wenn es sich um Beträge von über 150'000 Franken handelt. Bei einer kombinierten Finanzhilfe gibt die KSL ihre Stellungahme ab, wenn der Gesamtbetrag mehr als 250'000 Franken beträgt.
+
+<sup>4</sup> Sie nimmt ausserdem die Befugnisse wahr, die ihr von der Gesetzgebung im Bereich der Bodenverbesserungen übertragen werden.
+
+#### Art. 47
+
+**Organisation und Arbeitsweise der LandwK und der KSL**
+
+<sup>1</sup> Die LandwK und die KSL treten so oft zusammen, wie es die Geschäfte erfordern. Die Sitzungen werden vom Amt oder vom Vorstand einberufen.
+
+<sup>2</sup> Das Amt führt das Sekretariat der LandwK und der KSL.
+
+<sup>3</sup> Im Übrigen richtet sich die Arbeitsweise und die Organisation der LandwK und der KSL nach dem Reglement über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+
+#### Art. 48
+
+**Landwirtschaftliches Institut des Kantons Freiburg (Art. 8 und 15 LandwG)**
+
+<sup>1</sup> Nebst den Aufgaben, die ihm durch die Landwirtschaftsgesetzgebung und die Spezialgesetzgebung übertragen werden, wirkt das LIG auch bei der Prüfung technischer oder wirtschaftlicher Fragen, die besondere Kenntnisse erfordern, mit.
+
+### 3.2 Landwirtschaftsfonds (Art. 16 ff. LandwG)
+
+#### Art. 49
+
+**Bewirtschafterinnen oder Bewirtschafter eines Landwirtschaftsbetriebs – Empfänger**
+
+<sup>1</sup> Die Darlehen werden den Eigentümerinnen oder Eigentümern von Landwirtschaftsbetrieben gewährt, die ihre Betriebe selbst hauptberuflich bewirtschaften, unabhängig davon, ob sie als Einzelpersonen oder als Gemeinschaft auftreten.
+
+<sup>2</sup> Pächterinnen oder Pächter können ein Darlehen erhalten, wenn sie über einen langfristigen Pachtvertrag verfügen. Die Bedingungen von Absatz 1 müssen zudem sinngemäss erfüllt sein.
+
+<sup>3</sup> In den Bergzonen II, III und IV können auch die in den Absätzen 1 und 2 genannten Personen, die einen Landwirtschaftsbetrieb nebenberuflich bewirtschaften, ein Darlehen erhalten, wenn der erforderliche Arbeitsbedarf des Betriebs mindestens 0,75 Standardarbeitskräfte (SAK) beträgt.
+
+#### Art. 50
+
+**Bewirtschafterinnen oder Bewirtschafter eines Landwirtschaftsbetriebs – Bedingungen für die Gewährung der Darlehen**
+
+<sup>1</sup> Die in Artikel 49 genannten Personen können ein Darlehen erhalten, sofern die folgenden Bedingungen erfüllt sind:
+
+- a) Das Zentrum des Landwirtschaftsbetriebs liegt im Kanton Freiburg.
+- b) Der Betrieb wurde unter normalen Umständen erworben oder kann unter normalen Umständen erworben werden.
+- c) Die Gesuchstellerinnen und Gesuchsteller haben ihre eigenen Mittel (Eigenmittel) und Kredit (Normalkredit) bereits so weit zumutbar eingesetzt oder setzen sie so weit zumutbar ein.
+- d) Die Lebensfähigkeit und die landwirtschaftliche Nutzung des Betriebs sind langfristig gewährleistet.
+- e) Die vom Fonds zu fördernde Massnahme ist im Hinblick auf die Strukturentwicklung zweckmässig und wirtschaftlich tragbar.
+- f) Die Gesuchstellerinnen und Gesuchsteller geben die erforderlichen Garantien in Bezug auf die Betriebsführung, insbesondere durch ihre Ausbildung und die Führung einer landwirtschaftlichen Buchhaltung.
+
+#### Art. 51
+
+**Subsidiarität**
+
+<sup>1</sup> Wer ein Darlehen erhalten möchte, muss zuerst die aufgrund anderer eidgenössischer oder kantonaler Gesetzesbestimmungen gewährte Hilfe beantragen. Der Fonds kann nur beansprucht werden, wenn keine oder keine ausreichenden Hilfen gewährt werden.
+
+#### Art. 52
+
+**Mindest- und Höchstbetrag des Darlehens**
+
+<sup>1</sup> Es werden keine Darlehen unter 40'000 Franken gewährt, mit Ausnahme der Darlehen für den Kauf von Land, für die ein Mindestbetrag von 20'000 Franken festgelegt wird.
+
+<sup>1<sup>bis</sup></sup> Pro Projekt darf das Darlehen nach Abzug möglicher anderer öffentlicher Hilfen 40 % der Gesamtinvestition nicht überschreiten. Für Gemeinschaftsprojekte kann dieser Satz jedoch bis zu 50 % und für Projekte im Berggebiet bis zu 70 % ausmachen.
+
+<sup>2</sup> Die Summe der Darlehen, einschliesslich des Restbetrags noch nicht vollständig zurückbezahlter Darlehen, liegt bei höchstens 500'000 Franken. Der Staatsrat kann Ausnahmen beschliessen.
+
+#### Art. 53
+
+**Weitere Bedingungen (Art. 18 und 19 LandwG)**
+
+<sup>1</sup> Bei der Gewährung von Darlehen werden die Anforderungen des Natur- und Landschaftsschutzes, des Umwelt- und Tierschutzes, der Raumplanung und der umweltschonenden Produktion berücksichtigt.
+
+<sup>2</sup> Das Darlehen wird verweigert, wenn Verpflichtungen eingegangen oder Massnahmen ergriffen wurden, bevor ein formeller Entscheid gefällt wird.
+
+#### Art. 54
+
+**Festlegung des Zinssatzes (Art. 16 und 19 Abs. 2 LandwG)**
+
+<sup>1</sup> Die Darlehen werden mit einem reduzierten Zinssatz von mindestens 1 % bis höchstens 3 % gewährt.
+
+<sup>2</sup> Ein über dem Mindestzins nach Absatz 1 liegender reduzierter Zins wird erhoben für:
+
+- a) den Kauf von zusätzlichem Boden,
+- b) den Bau von Anlagen und Infrastrukturen oder
+- c) Projekte für den Bau oder die Renovation von Infrastrukturen für die Verwertung, den Absatz und die Vermarktung landwirtschaftlicher Erzeugnisse.
+
+<sup>3</sup> …
+
+#### Art. 55
+
+**Garantien und Rang der Garantien (Art. 22 LandwG)**
+
+<sup>1</sup> Die Darlehen sind wenn möglich gegen Realsicherheiten zu gewähren. Darlehen können aufgrund anderer Garantien gewährt werden, namentlich aufgrund:
+
+- a) einer Versicherungspolice,
+- b) einer Bürgschaft oder
+- c) einer solidarischen Verpflichtung.
+
+<sup>2</sup> Das Amt kann akzeptieren, dass die Staatsgarantien im Rang hinter die der anderen Gläubiger zurücktreten.
+
+#### Art. 56
+
+**Verfahren (Art. 22 LandwG)**
+
+<sup>1</sup> Die Darlehensgesuche müssen an das Amt gerichtet werden.
+
+<sup>2</sup> Im Entscheid legt die zuständige Behörde insbesondere fest:
+
+- a) die Höhe des Darlehens und die Verzinsung;
+- b) die Art der Garantien;
+- c) die Amortisationsmodalitäten;
+- d) gegebenenfalls weitere Bedingungen und Auflagen, insbesondere eine allfällige vorzeitige Rückzahlung;
+- e) die Einzelheiten der Auszahlung des Darlehens.
+
+<sup>3</sup> Müssen Grundpfandverschreibungen errichtet werden, so gilt der Entscheid als Ausweis zur Eintragung der Grundpfandverschreibung im Grundbuch gemäss Artikel 70 des Einführungsgesetzes vom 10. Februar 2012 zum Schweizerischen Zivilgesetzbuch
+
+<sup>4</sup> …
+
+#### Art. 57
+
+**Entscheid**
+
+<sup>1</sup> Der Staatsrat entscheidet unter Berücksichtigung von Artikel 3 über die Gewährung von Darlehen über 500'000 Franken.
+
+<sup>2</sup> Die Direktion entscheidet über Beträge unter 500'000 Franken. Sie kann dem Amt die Befugnis übertragen, über Beträge bis 50'000 Franken zu entscheiden.
+
+#### Art. 58
+
+**Kontrolle**
+
+<sup>1</sup> Das Amt kann Kontrollen auf dem Betrieb vornehmen, um die Verwendung der Darlehen zu überprüfen. Es koordiniert diese Tätigkeiten mit anderen Kontrollen gemäss den Grundsätzen nach Artikel 42.
+
+#### Art. 59
+
+**Rückzahlung**
+
+<sup>1</sup> Die Rückzahlungsmodalitäten werden je nach Art der vorgeschlagenen Massnahme und unter Berücksichtigung der wirtschaftlichen Verhältnisse der Empfängerin oder des Empfängers festgelegt.
+
+<sup>2</sup> Die Darlehen müssen innerhalb einer Frist von höchsten 15 Jahren zurückbezahlt werden; ausnahmsweise kann diese Frist auf 20 Jahre verlängert werden.
+
+<sup>3</sup> Der jährliche Mindestbetrag für die Rückzahlung der Darlehen wird jedoch auf 3000 Franken für einzelbetriebliche Massnahmen und auf 6000 Franken für gemeinschaftliche Massnahmen festgelegt.
+
+<sup>4</sup> Die jährlichen Rückzahlungen der Darlehen werden mit den Beiträgen des Bundes oder des Kantons an den Kreditnehmer verrechnet.
+
+### 3.3 Förderung und wirtschaftliche Entwicklung (Art. 23 ff. LandwG)
+
+#### Art. 60
+
+**Förderungsmassnahmen – Im Allgemeinen**
+
+<sup>1</sup> Die Leistungen nach Artikel 25 Abs. 1 Bst. b LandwG können in den folgenden Bereichen erbracht werden:
+
+- a) Absatzförderung für landwirtschaftliche Erzeugnisse;
+- b) Unterstützungsbeiträge;
+- c) Veranstaltungen;
+- d) Studien und vorbereitende Arbeiten.
+
+#### Art. 61
+
+**Förderungsmassnahmen – Finanzhilfen für die Absatzförderung landwirtschaftlicher Erzeugnisse**
+
+<sup>1</sup> Die Entwicklung der Absatzförderung landwirtschaftlicher Erzeugnisse kann in Form von Finanzhilfen zugunsten von Erzeugnissen, für die ein grösserer Markt als der lokale angestrebt wird, oder über Entwicklungsprogramme für konsumentennahe landwirtschaftliche Erzeugnisse erfolgen.
+
+<sup>2</sup> Mit den Finanzhilfen für die einen grösseren Markt anstrebenden landwirtschaftlichen Erzeugnisse soll ein Teil der Investitionen für die Entwicklung von Märkten für diese Erzeugnisse, deren wirtschaftliches Potential erwiesen, jedoch noch nicht voll ausgeschöpft ist, finanziert werden können.
+
+<sup>3</sup> Die Finanzhilfen für konsumentennahe Erzeugnisse müssen es Erzeugnissen, die zur örtlichen Ernährungskultur gehören, ermöglichen, Bestandteil des überlieferten Kulturguts zu bleiben, das für das gastronomische und agro-touristische Image unabdingbar ist.
+
+#### Art. 62
+
+**Förderungsmassnahmen – Unterstützungsbeiträge**
+
+<sup>1</sup> Die Unterstützungsbeiträge sollen ermöglichen, die lokale Dynamik und den Einbezug der Produzentinnen und Produzenten in das betreffende Vorgehen zu verstärken. Sie sollen ausserdem zur Imageförderung des Kantons im Bereich der landwirtschaftlichen Erzeugnisse beitragen. Sie können auch zur Promotion von Projekten bei anderen Finanzierungsinstitutionen beitragen.
+
+<sup>2</sup> Sie dienen insbesondere der Unterstützung:
+
+- a) der Bekanntheit der landwirtschaftlichen Erzeugnisse;
+- b) von Veranstaltungen zur Förderung der Zucht und von Selektionstechniken;
+- c) von Veranstaltungen zur Absatzförderung landwirtschaftlicher Erzeugnisse;
+- d) von Initiativen zur qualitativen Verbesserung der landwirtschaftlichen Erzeugnisse;
+- e) von punktuellen Forschungsprojekten im Zusammenhang mit der Förderung landwirtschaftlicher Erzeugnisse.
+
+#### Art. 63
+
+**Förderungsmassnahmen – Veranstaltungen**
+
+<sup>1</sup> Die Veranstaltungen sollen dem Kanton dank seinen Qualitäten im Bereich der landwirtschaftlichen Erzeugnisse, vor allem jenseits der Kantonsgrenzen zu mehr Bekanntheit verhelfen und sein Image stärken. Sie sollen auch eine lokale Dynamik schaffen mit dem Ziel, die landwirtschaftlichen Akteure zu motivieren, ihre Erzeugnisse und deren Förderung zu verbessern.
+
+<sup>2</sup> Als Veranstaltungen kommen namentlich die Organisation von Ausstellungen, Märkten und Messen zur Förderung landwirtschaftlicher Erzeugnisse in Frage.
+
+#### Art. 64
+
+**Förderungsmassnahmen – Studien und vorbereitende Arbeiten**
+
+<sup>1</sup> Die Studien und die vorbereitenden Arbeiten sollen dazu beitragen, dass Initiativen zu strategischen Projekten für die Entwicklung landwirtschaftlicher Erzeugnisse im Kanton gut anlaufen.
+
+#### Art. 65
+
+**Stellung der Gesuchstellerinnen und Gesuchsteller – Empfängerinnen und Empfänger**
+
+<sup>1</sup> Die Förderungsmassnahmen werden vorrangig Vereinigungen, Gruppierungen und juristischen Personen gewährt, die eine Interessengemeinschaft vertreten oder sich aus den verschiedenen Partnern eines Produktionszweiges zusammensetzen.
+
+<sup>2</sup> Die Förderungsmassnahmen können ausnahmsweise Einzelpersonen gewährt werden, jedoch nur zur Unterstützung innovativer Produkte oder der Entwicklung von neuen landwirtschaftlichen Erzeugnissen.
+
+#### Art. 66
+
+**Stellung der Gesuchstellerinnen und Gesuchsteller – Gegenseitige Ergänzung der Förderungsmassnahmen (Art. 93 Abs. 1 Bst. c LwG und 23 Abs. 2 LandwG)**
+
+<sup>1</sup> Die kantonalen Förderungsmassnahmen werden mit den in erster Linie landwirtschaftlichen Förderungsmassnahmen des Bundes koordiniert.
+
+#### Art. 67
+
+**Verfahren – Gesuch**
+
+<sup>1</sup> Das Gesuch wird an das Amt gerichtet.
+
+<sup>2</sup> Ein vollständiges Dossier zur Begründung der beantragten Förderungsmassnahmen muss beigelegt werden.
+
+<sup>3</sup> Grundsätzlich muss ein Gesuch für das folgende Jahr spätestens Ende Jahr eingereicht werden.
+
+#### Art. 68
+
+**Verfahren – Gesuchsdossier**
+
+<sup>1</sup> Das Dossier enthält:
+
+- a) die Ziele des Projekts;
+- b) die Planung seiner Umsetzung;
+- c) die Verwendung der beantragten Hilfen nach Aufgabenbereich;
+- d) der Gesamtbetrag der beantragten Hilfe;
+- e) das Gesamtbudget des Projekts;
+- f) die Finanzierung des Projekts und die persönliche Einlage der Gesuchstellerin oder des Gesuchstellers.
+
+<sup>2</sup> Die Ziele des Projekts müssen:
+
+- a) durch eine Marktstrategie präzisiert werden, wenn es sich um landwirtschaftliche Erzeugnisse handelt, für die ein grösserer Markt angestrebt wird;
+- b) durch eine Gesamtstrategie präzisiert werden, wenn es sich um konsumentennahe landwirtschaftliche Erzeugnisse handelt;
+- c) durch ein Argumentarium präzisiert werden, wenn es sich um Unterstützungsbeiträge, Veranstaltungen, Studien oder vorbereitende Arbeiten handelt.
+
+#### Art. 69
+
+**Verfahren – Prüfung des Gesuchs**
+
+<sup>1</sup> Das Amt prüft, ob die Anforderungen erfüllt sind.
+
+<sup>2</sup> Unter Berücksichtigung der Besonderheiten jedes Interventionsbereiches prüft es jedes Projekt namentlich im Hinblick auf:
+
+- a) die Geschäftsstrategie und die Verkaufsziele;
+- b) das Marktpotential;
+- c) die Produktionskapazitäten;
+- d) das Absatzverfahren;
+- e) die Finanzkraft der Gesuchstellerin oder des Gesuchstellers.
+
+#### Art. 70
+
+**Festlegung der Finanzhilfe**
+
+<sup>1</sup> Die Finanzhilfe beträgt grundsätzlich nicht mehr als 40 % des gesamten für das Projekt budgetierten Betrages.
+
+<sup>2</sup> Die Finanzhilfe kann grundsätzlich 50'000 Franken pro Projekt nicht überschreiten.
+
+#### Art. 71
+
+**Gewährung**
+
+<sup>1</sup> Im Rahmen des vom Staatsrat beschlossenen Vierjahresprogramms legt die Direktion den Betrag für die Finanzhilfe sowie die Einzelheiten für die Gewährung fest. Sie kann dem Amt die Befugnis übertragen, über Gesuche im Betrag bis 50'000 Franken zu entscheiden.
+
+#### Art. 72
+
+**Kontrolle**
+
+<sup>1</sup> Das Amt kann sich jederzeit bei der Empfängerin oder dem Empfänger der Hilfe nach dem Stand des Projekts erkundigen. Zu diesem Zweck kann es am Umsetzungsprozess des Projekts mitwirken.
+
+<sup>2</sup> Nach Abschluss des Projekts legt die Empfängerin oder der Empfänger dem Amt einen Bericht über die Verwirklichung des Projekts und der im Gesuch angekündigten Zielsetzungen vor. Das Amt kann auch sachdienliche Unterlagen verlangen, um diese Untersuchung selbst vorzunehmen.
+
+#### Art. 73
+
+**Kürzung oder Rückerstattung der Finanzhilfe**
+
+<sup>1</sup> Die Direktion kann die gewährte Finanzhilfe in Anwendung des kantonalen Subventionsgesetzes kürzen oder sie ganz oder teilweise zurückverlangen.
+
+### 3.4 Besondere Massnahmen (Art. 30 ff. LandwG)
+
+### 3.4.1 Sömmerungsbeiträge (Art. 30 ff. LandwG)
+
+#### Art. 74
+
+**Bedingungen für die Gewährung der kantonalen Hilfe**
+
+<sup>1</sup> Der kantonale Betrag wird gewährt, wenn:
+
+- a) die Bedingungen des Bundes für die Gewährung von Sömmerungsbeiträgen erfüllt sind;
+- b) die Milchproduktion der Herde auf der Alp verarbeitet, d.h. verkäst wird;
+- c) die Käseproduktion von einem amtlichen Organ oder einer Branchenorganisation, deren Produkt anerkannt ist, bestätigt wird;
+- d) die ganze Alp im Kanton Freiburg und dem gemäss der Bundesgesetzgebung festgelegten Sömmerungsgebiet gelegen ist.
+
+<sup>2</sup> Weiden, die ausserhalb der in Buchstabe d festgelegten Zone liegen, können als Teil der Alp betrachtet werden, wenn sie:
+
+- a) Teil des Sömmerungskomplexes der Alp sind und
+- b) weniger als die Hälfte der Gesamtfläche des Sömmerungsgebiets ausmachen.
+
+#### Art. 75
+
+**Produktionsvolumen**
+
+<sup>1</sup> Das Produktionsvolumen wird aufgrund des der «TSM – Treuhand Stelle Milch» angegebenen Volumens berechnet.
+
+#### Art. 76
+
+**Auskünfte und Kontrollen**
+
+<sup>1</sup> Wer Beiträge erhalten möchte, ermächtigt das Amt, insbesondere bei den zuständigen milchwirtschaftlichen Organisationen die nötigen Auskünfte einzuholen.
+
+<sup>2</sup> Das Amt kann gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen auf dem Betrieb durchführen.
+
+#### Art. 77
+
+**Verfahren und Gewährung**
+
+<sup>1</sup> Das Gesuch wird im Rahmen des Verfahrens für die Direktzahlungen an das Amt gerichtet.
+
+<sup>2</sup> Das Amt teilt den Entscheid über die Gewährung gleichzeitig mit dem Entscheid über die Direktzahlungen mit.
+
+### 3.4.2 Innovation (Art. 34 LandwG)
+
+#### Art. 78
+
+**Organisation**
+
+<sup>1</sup> Die Direktion schreibt den Innovationspreis aus.
+
+<sup>2</sup> Sie lässt die Ausschreibung im Amtsblatt und in anderen geeigneten Medien veröffentlichen.
+
+<sup>3</sup> Der Innovationspreis wird von einer Jury verliehen, die von der Direktion ernannt wird.
+
+<sup>4</sup> Die Vorsteherin oder der Vorsteher der Direktion präsidiert die Jury.
+
+<sup>5</sup> Ausgezeichnet werden das oder die Projekte, die am meisten Stimmen erhalten. Bei Stimmengleichheit hat die Präsidentin oder der Präsident den Stichentscheid.
+
+#### Art. 79
+
+**Gegenstand**
+
+<sup>1</sup> Die Projekte und Leistungen, die für den Innovationspreis angemeldet werden können, müssen namentlich die folgenden Bereiche betreffen:
+
+- a) Einrichtungen und Infrastrukturen landwirtschaftlicher Betriebe, oder
+- b) die Anpassung der Betriebe an die neuen Bedingungen der Produktion, der Vermarktung und der Tierhaltung, oder
+- c) die Verwertung von landwirtschaftlichen Erzeugnissen, oder
+- d) die Verwertung von Erzeugnissen und die Verwendung von nicht der Ernährung dienenden Stoffen insbesondere im Hinblick auf die Entwicklung erneuerbarer Energien, oder
+- e) die Entwicklung des ländlichen Raumes.
+
+<sup>2</sup> Der Innovationspreis ist Projekten vorbehalten, die vorwiegend im Kanton Freiburg verwirklicht oder entwickelt wurden.
+
+#### Art. 80
+
+**Kriterien**
+
+<sup>1</sup> Die Projekte werden nach folgenden Kriterien beurteilt:
+
+- a) Grad der Innovation und Kreativität;
+- b) Machbarkeit;
+- c) technisches, wirtschaftliches und/oder ökologisches Interesse.
+
+#### Art. 81
+
+**Preis**
+
+<sup>1</sup> Der Preis wird alle zwei Jahre für ein oder mehrere Projekte verliehen; er besteht aus einem Barbetrag von insgesamt 20'000 Franken und einem Diplom.
+
+<sup>2</sup> Ist kein Projekt genügend interessant, so kann der Preis nicht verliehen oder gekürzt werden.
+
+### 3.4.3 Anbaumethoden und techniken (Art. 35 ff. LandwG)
+
+#### Art. 82
+
+**Geförderte Anbaumethoden**
+
+<sup>1</sup> Es werden namentlich die folgenden Anbaumethoden gefördert:
+
+- a) die Direktsaat;
+- b) die Streifenfrässaat;
+- c) die Mulchsaat;
+- d) das Anlegen und Belassen von Grasstreifen, solange sie nicht mit Direktzahlungen des Bundes abgegolten werden;
+
+#### Art. 83
+
+**Bedingungen**
+
+<sup>1</sup> Beiträge können den Bewirtschafterinnen und Bewirtschaftern gewährt werden, die mit dem Amt einen Vertrag für mindestens 5 Jahre abgeschlossen haben.
+
+<sup>2</sup> Als Bewirtschafterin oder Bewirtschafter gelten Personen, die der Definition der Bundesverordnung über landwirtschaftliche Begriffe und die Anerkennung von Betriebsformen entsprechen.
+
+<sup>3</sup> Die Bewirtschafterin oder der Bewirtschafter muss sich insbesondere verpflichten, Anbaumethoden zum Schutz landwirtschaftlicher Böden auf Flächen von mindestens folgendem Ausmass anzuwenden:
+
+- a) 1 Hektare bei Direktsaat, Streifenfrässaat und/oder Mulchsaat;
+- b) 25 Aren bei Grasstreifen.
+
+<sup>4</sup> Die Beiträge werden für Parzellen im Talgebiet im Sinn der Bundesgesetzgebung gewährt, deren Bewirtschafterinnen und Bewirtschafter Anrecht auf Direktzahlungen haben.
+
+#### Art. 84
+
+**Festlegung der Beträge**
+
+<sup>1</sup> Der Gesamtbetrag der Beiträge wird im Voranschlag im Rahmen der agrarpolitischen Richtlinien festgelegt.
+
+<sup>2</sup> Die Höhe der Beiträge wird aufgrund des Umfangs der betreffenden Flächen und der voraussichtlichen Auswirkungen der vereinbarten Anbaumethoden und Techniken festgelegt.
+
+#### Art. 85
+
+**Kontrollen und Gewährung**
+
+<sup>1</sup> Das Amt nimmt gemäss dem für Direktzahlungen und Beiträge vorgesehenen Verfahren Kontrollen auf dem Betrieb vor.
+
+<sup>2</sup> Das Amt zahlt die Beiträge grundsätzlich zusammen mit den Direktzahlungen aus.
+
+#### Art. 86
+
+**Widerruf des Entscheids, Kündigung des Vertrags und Rückzahlung des Beitrags**
+
+<sup>1</sup> Das Amt kann gemäss den entsprechenden Bestimmungen des kantonalen Subventionsgesetzes den Entscheid über die Gewährung des Vertrags widerrufen, den öffentlich-rechtlichen Vertrag kündigen, den gewährten Beitrag kürzen oder verlangen, dass der Beitrag ganz oder teilweise zurückerstattet wird.
+
+### 3.4.4 Betriebshilfen für Betriebe in Schwierigkeiten (Art. 39 LandwG und 78 ff LwG)
+
+#### Art. 87
+
+**Gegenstand**
+
+<sup>1</sup> Die finanziellen Massnahmen des Kantons zur Unterstützung von bäuerlichen Betrieben in Schwierigkeiten bestehen in erster Linie in der finanziellen Beteiligung des Kantons an dem in der Bundesgesetzgebung vorgesehenen Betriebshilfeprogramm für bäuerliche Betriebe in Schwierigkeiten nach Artikel 21 dieses Reglements (Art. 39 Abs. 2 LandwG und 78 ff. LwG).
+
+<sup>2</sup> Die kantonalen Massnahmen bestehen in der Beratung und Begleitung von Landwirtschaftsbetrieben in Schwierigkeiten. Sie sollen vor allem verhindern, dass auf Sozialhilfemassnahmen im Sinne der entsprechenden Gesetzgebung zurückgegriffen werden muss (Art. 39 Abs. 1 LandwG).
+
+<sup>3</sup> Diese Begleitmassnahmen sind für Landwirtschaftsbetriebe bestimmt, deren Leiterin oder Leiter oder ihnen nahe stehende Personen zur Führung nicht mehr in der Lage sind. Sie sind auch dazu bestimmt, die Bewirtschafterinnen und Bewirtschafter zu unterstützen, deren Schwierigkeiten nicht mit den üblichen Mitteln und Wegen überwunden werden können.
+
+#### Art. 88
+
+**Kantonale Begleitmassnahmen – Anlaufstelle für Landwirtschaftsbetriebe in Schwierigkeiten**
+
+<sup>1</sup> Es wird eine Anlaufstelle für Landwirtschaftsbetriebe in Schwierigkeiten (Anlaufstelle) eingesetzt.
+
+<sup>2</sup> Die Anlaufstelle setzt sich aus einem Aufsichtsorgan (AO) und einer operativen Koordinationsgruppe (OKG) zusammen.
+
+<sup>2a</sup> Dem AO gehören die Direktorin oder der Direktor des LIG, die Vorsteherin oder der Vorsteher des Amts für Landwirtschaft, die Vorsteherin oder der Vorsteher des Sozialamts und die Vorsteherin oder der Vorsteher des Amts für Lebensmittelsicherheit und Veterinärwesen an.
+
+<sup>2b</sup> Der OKG gehören je eine Vertreterin oder ein Vertreter des LIG, des Amts für Landwirtschaft, des Sozialamts und des Amts für Lebensmittelsicherheit und Veterinärwesen an.
+
+<sup>3</sup> Im Rahmen ihrer Beratung und Begleitung kann die Anlaufstelle Unterstützung anfordern insbesondere:
+
+- a) von medizinischen Diensten;
+- b) vom Psychosozialen Dienst;
+- c) vom betreffenden regionalen Sozialdienst;
+- d) …
+- e) vom Amt für Umwelt;
+- f) von der Kantonspolizei;
+- g) von den Friedensgerichten;
+- h) vom betreffenden Oberamtmann;
+- i) vom betreffenden Betreibungsamt und/oder
+- j) von der Freiburgischen Vereinigung für den landwirtschaftlichen Betriebshelferdienst (SECADA).
+
+<sup>4</sup> Das LIG übernimmt das Präsidium und führt das Sekretariat der Anlaufstelle, sowohl für das AO als auch für die OKG.
+
+#### Art. 89
+
+**Kantonale Begleitmassnahmen – Verfahren**
+
+<sup>1</sup> Die Verwaltungseinheiten des Staates melden der Anlaufstelle unverzüglich, wenn ein Landwirtschaftsbetrieb auf kantonale Begleitmassnahmen angewiesen sein könnte.
+
+<sup>1a</sup> Die Anlaufstelle richtet ein Netz von Brückenpersonen ein, die damit beauftragt sind, Notlagen zu erkennen und zu melden, bildet es aus und unterhält es.
+
+<sup>2</sup> Die Anlaufstelle prüft, ob für den gemeldeten Betrieb Begleitmassnahmen in Frage kommen.
+
+<sup>3</sup> Sie erstellt für Landwirtschaftsbetriebe, für die erwiesenermassen Begleitbedarf besteht, einen Massnahmenplan und informiert die Direktion.
+
+#### Art. 90
+
+**Kantonale Begleitmassnahmen – Umsetzung**
+
+<sup>1</sup> Der Massnahmenplan wird mit der Unterstützung aller betroffenen Verwaltungseinheiten umgesetzt.
+
+<sup>2</sup> Die in der Anlaufstelle vertretenen Verwaltungseinheiten, die gegenüber einem gemeldeten Betrieb einen vollstreckbaren Entscheid zu fällen beabsichtigen, unterrichten die Anlaufstelle vorgängig über die beabsichtigte Massnahme. Dringlichkeitsverfahren bleiben vorbehalten.
+
+<sup>3</sup> Der Stab koordiniert die Einsätze der betreffenden Verwaltungseinheiten Wenn nötig kontaktiert er namentlich die Kantonspolizei, das Friedensgericht, den Oberamtmann, das Betreibungsamt und/oder die Freiburgische Vereinigung für den landwirtschaftlichen Betriebshelferdienst (SECADA).
+
+<sup>4</sup> Falls es für den Massnahmenplan erforderlich ist, ernennt die Anlaufstelle einen Mentor, der den Betrieb in Schwierigkeiten eng begleitet. Der Mentor und die Anlaufstelle unterzeichnen eine Zusammenarbeitsvereinbarung.
+
+#### Art. 90a
+
+**Kantonale Begleitmassnahmen – Zusammenarbeit**
+
+<sup>1</sup> Die Anlaufstelle arbeitet mit der Freiburgischen Vereinigung für den landwirtschaftlichen Betriebshelferdienst (SECADA) zusammen, namentlich indem sie den Bewirtschafterinnen und Bewirtschaftern eine Unterstützung durch diese Vereinigung anbietet.
+
+<sup>2</sup> Diese Vereinigung kann finanziell unterstützt werden, insbesondere für ihre Aufgaben in Notlagen.
+
+## 4 Schlussbestimmungen
+
+#### Art. 91
+
+**Übergangsrecht – Zuchtförderung**
+
+<sup>1</sup> Die vom Bundesgesetz vorgeschriebene kantonale Beteiligung im Bereich der Zuchtförderung (Art. 141 ff. LwG) wird vom Amt ausgezahlt, bis die Ausführungsbestimmungen des Bundes zur Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen (NFA) in Kraft sind.
+
+#### Art. 92
+
+**Übergangsrecht – Autonome Landwirtschaftliche Amortisationskasse und Kantonale Zentralstelle für Agrarkredite**
+
+<sup>1</sup> Alle im Namen der Autonomen Landwirtschaftlichen Amortisationskasse (ALAK) und der Kantonalen Zentralstelle für Agrarkredite (ZAKF) vor Inkrafttreten dieses Reglements gewährten Darlehen sowie Eintragungen im Grundbuch zu ihren Gunsten tragen die folgende Überschrift: Staat Freiburg, Amt für Landwirtschaft.
+
+<sup>2</sup> Für Finanzhilfegesuche in den Bereichen Strukturverbesserungen und soziale Begleitmassnahmen, die zum Zeitpunkt des Inkrafttretens dieses Reglements noch hängig sind, gilt das neue Recht.
+
+#### Art. 92a
+
+**Übergangsrecht – Darlehen aus dem Landwirtschaftsfonds**
+
+<sup>1</sup> Die vor dem Inkrafttreten der Änderung vom 11. November 2013 dieses Reglements gewährten Darlehen aus dem Landwirtschaftsfonds unterstehen bis zum Abschluss des Projekts dem bisherigen Recht.
+
+<sup>2</sup> Darlehensgesuche, die beim Inkrafttreten dieser Änderung hängig sind, unterstehen dem neuen Recht.
+
+#### Art. 93
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Aufgehoben werden:
+
+- a) der Ausführungsbeschluss vom 3. Mai 1994 zur eidgenössischen und kantonalen Gesetzgebung über die agrarpolitischen Massnahmen (SGF 910.21);
+- b) das Ausführungsreglement vom 28. September 2004 zum Gesetz über die örtlichen Landwirtschaftsverantwortlichen (SGF 910.31);
+- c) der Beschluss vom 7. Juli 1998 über den landwirtschaftlichen Innovationspreis (SGF 910.44);
+- d) der Ausführungsbeschluss vom 20. September 1993 zur Bundesgesetzgebung über den Rebbau und die Einfuhr von Wein (SGF 912.4.11);
+- e) das Reglement vom 15. September 1997 über die kontrollierten Ursprungsbezeichnungen der freiburgischen Weine (AOC-Reglement) (SGF 912.4.12);
+- f) der Beschluss vom 12. Juni 2001 über die Bekämpfung des Feuerbrands (SGF 912.5.15);
+- g) der Beschluss vom 1. März 1988 zur Vorbeugung der durch Wühlmäuse verursachten Schäden (SGF 912.5.41);
+- h) der Beschluss vom 29. November 1994 über die Unterstützung des Nutz- und Schlachtviehabsatzes (SGF 913.0.16);
+- i) das Reglement vom 26. Februar 1985 betreffend die amtliche Expertenkommission und das Oberpreisgericht für die Anerkennung und die Herdebuchaufnahme des Rindviehs (SGF 913.1.22);
+- j) die Verordnung vom 30. Oktober 2006 über den kantonalen Sömmerungsbeitrag für 2006 (SGF 913.5.52);
+- k) der Ausführungsbeschluss vom 31. Dezember 1963 zum Gesetz vom 22. November 1963 zur Ergänzung des Einführungsgesetzes vom 27. November 1962 über Investitionskredite und Betriebshilfe in der Landwirtschaft (SGF 915.16);
+- l) die Verordnung vom 14. Mai 1993 über die Ingenieurhonorare für Bodenverbesserungsarbeiten (SGF 917.116).
+
+#### Art. 94
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Kommission für Grundstückerwerb**
+
+<sup>1</sup> Das Regelement vom 28. Dezember 1984 betreffend die Kommission für Grundstückerwerb (SGF 122.93.12) wird wie folgt geändert:
+
+...
+
+#### Art. 95
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Verwaltungseinheiten**
+
+<sup>1</sup> Die Verordnung vom 9. Juli 2002 zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei (SGF 122.0.13) wird wie folgt geändert:
+
+...
+
+#### Art. 96
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Amtliche Vermessung**
+
+<sup>1</sup> Das Reglement vom 22. März 2005 über die amtliche Vermessung (AVR) (SGF 214.6.11) wird wie folgt geändert:
+
+...
+
+#### Art. 97
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Subventionen**
+
+<sup>1</sup> Das Subventionsreglement vom 22. August 2000 (SubR) (SGF 616.11) wird wie folgt geändert:
+
+...
+
+#### Art. 98
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Raumplanung und Bau**
+
+<sup>1</sup> Das Ausführungsreglement vom 18. Dezember 1984 zum Raumplanungs- und Baugesetz vom 9. Mai 1983 (SGF 710.11) wird wie folgt geändert:
+
+...
+
+#### Art. 99
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Beiträge an die Kosten der Feuerschutz- und Feuerbekämpfungsmassnahmen**
+
+<sup>1</sup> Das Reglement vom 29. Dezember 1967 betreffend die Richtlinien für die Gewährung von Beiträgen an die Kosten der Feuerschutz- und Feuerbekämpfungsmassnahmen (SGF 731.0.21) wird wie folgt geändert:
+
+...
+
+#### Art. 100
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Umweltverträglichkeitsprüfungen**
+
+<sup>1</sup> Die Verordnung vom 2. Juli 2002 über die Umweltverträglichkeitsprüfungen und die massgeblichen Verfahren (UVPVV) (SGF 810.15) wird wie folgt geändert:
+
+...
+
+#### Art. 101
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Bodenschutz**
+
+<sup>1</sup> Die Verordnung vom 20. August 2002 über den Bodenschutz (SGF 811.11) wird wie folgt geändert:
+
+...
+
+#### Art. 102
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Lagerung von Hofdünger**
+
+<sup>1</sup> Der Beschluss vom 20. Januar 1998 über die Lagerung von Hofdünger (SGF 812.19) wird wie folgt geändert:
+
+...
+
+#### Art. 103
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Bodenverbesserungen**
+
+<sup>1</sup> Das Ausführungsreglement vom 11. August 1992 zum Gesetz über die Bodenverbesserungen (SGF 917.11) wird wie folgt geändert:
+
+...
+
+#### Art. 104
+
+**Änderungen und terminologische Anpassungen von Reglementen, Beschlüssen und Verordnungen – Kantonsbeiträge an die Bodenverbesserungen**
+
+<sup>1</sup> Der Beschluss vom 19. Dezember 1995 über die Kantonsbeiträge an die Bodenverbesserungen (SGF 917.16) wird wie folgt geändert:
+
+...
+
+#### Art. 105
+
+**Terminologische Anpassungen in den Gesetzen**
+
+<sup>1</sup> Die Vollzugsorgane für die amtlichen Publikationen ersetzen gemäss Artikel 24 des Gesetzes vom 16. Oktober 2001 über die Veröffentlichung der Erlasse (VEG) den Ausdruck «Meliorationsamt» in den folgenden Bestimmungen durch «das für die Bodenverbesserungen zuständige Amt» und nehmen die erforderlichen grammatikalischen Anpassungen vor:
+
+- a) Gesetz vom 1. Mai 1996 über die Handänderungs- und Grundpfandrechtssteuern (SGF 635.1.1): ...
+- b) Ausführungsgesetz vom 14. Februar 1961 zum Bundesgesetz vom 8. März 1960 über die Nationalstrassen (SGF 741.8): ...
+
+#### Art. 106
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement wird rückwirkend auf den 1. März 2007 in Kraft gesetzt.
+
+2007\_044

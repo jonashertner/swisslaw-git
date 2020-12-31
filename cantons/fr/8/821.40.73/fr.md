@@ -1,0 +1,286 @@
+---
+canton: FR
+number: "821.40.73"
+title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
+language: fr
+version: 2020-12-27
+valid_until: 2021-01-08
+version_adopted: 2020-12-22
+adopted: 2020-11-10
+in_force: 2020-11-10
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6707/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
+
+COVID-19, mesures cantonales – O
+
+du 10.11.2020 (version entrée en vigueur le 27.12.2020)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi fédérale du 28 septembre 2012 sur les épidémies (LEp);
+
+Vu l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance fédérale COVID-19 situation particulière);
+
+Vu les articles 123a et suivants de la loi du 16 novembre 1999 sur la santé (LSan);
+
+Vu l'article 10 de la loi du 13 décembre 2007 sur la protection de la population (LProtPop);
+
+Vu l'ordonnance du 28 octobre 2020 déclarant la situation extraordinaire à l'échelon cantonal;
+
+Vu l'arrêté du 28 octobre 2020 relatif à la mise en place de l'Organe cantonal de conduite 2 COVID-19 (OCC 2 COVID-19);
+
+Considérant:
+
+Lors de sa séance extraordinaire du 28 octobre 2020, le Conseil fédéral a fixé de nouvelles mesures pour freiner la propagation du coronavirus.
+
+La Suisse se trouvant en situation particulière au sens de la loi sur les épidémies, les cantons peuvent au surplus prendre des mesures cantonales si le nombre de cas sur leur territoire augmente ou menace d'augmenter.
+
+Compte tenu de la détérioration de la situation sanitaire dans le canton de Fribourg, le Conseil d'Etat a adopté, le 3 novembre 2020, des mesures complémentaires par voie d'arrêté, qu'il convient de transposer dans une ordonnance.
+
+Sur la proposition de la Direction de la sécurité et de la justice et de la Direction de la santé et des affaires sociales,
+
+Arrête:
+
+#### Art. 1
+
+**Objet et but**
+
+<sup>1</sup> La présente ordonnance détermine des mesures visant la population, les organisations, les institutions et les communes dans le but de lutter contre l'épidémie de COVID-19.
+
+<sup>2</sup> Les mesures visent à:
+
+- a) diminuer le nombre de nouvelles contaminations de coronavirus (COVID-19);
+- b) protéger la population la plus à risque;
+- c) prévenir un engorgement du système sanitaire et hospitalier;
+- d) prévenir la propagation du coronavirus (COVID-19) et interrompre les chaînes de transmission.
+
+#### Art. 2
+
+**Rassemblements et manifestations**
+
+<sup>1</sup> Les rassemblements publics ou privés de plus de 10 personnes (enfants compris) dans l'espace privé et dans l'espace public, notamment sur les places, places de jeux, promenades, trottoirs et sentiers ainsi que dans les parcs, sont interdits, y compris lorsqu'ils revêtent un caractère commercial.
+
+<sup>1a</sup> Les manifestations publiques sont interdites.
+
+<sup>2</sup> Ces interdictions ne s'appliquent pas aux manifestations suivantes:
+
+- a) les cérémonies civiles de mariage à huis clos et les cérémonies religieuses de mariage et de baptême jusqu'à 10 participants et participantes, en sus des officiants;
+- b) les célébrations religieuses, en fonction de l'espace et moyennant le respect d'un espace de 4 m² par personne, jusqu'à 50 personnes, en sus des personnes rattachées à l'office religieux;
+- c) les enterrements dans le cercle familial et dans le cercle amical restreint;
+- d) les assemblées statutaires de corporations de droit public ne pouvant être reportées ou ne pouvant être tenues à distance, sur autorisation du préfet;
+- e) les séances du Grand Conseil et de ses commissions ainsi que les séances des conseils communaux et généraux, assemblées communales et de leurs commissions, des conseils paroissiaux et synodaux, assemblées paroissiales ou synodales et de leurs commissions;
+- f) les séances officielles et assemblées qui ne peuvent être reportées, organisées en visioconférence ou par voie de circulation, telles que des partis politiques, associations, fondations et groupements, en vue de la détermination d'une prise de position en cas de votation ou de la présentation d'une liste de candidatures pour une élection, jusqu'à 30 participants et participantes;
+- g) les assemblées et comités de droit privé jusqu'à 30 participants et participantes, s'ils ne peuvent être reportés, organisés en visioconférence ou par voie de circulation;
+- h) les assemblées des organisations syndicales et patronales et les assemblées du personnel, jusqu'à 30 participants et participantes, si elles ne peuvent être reportées, organisées en visioconférence ou par voie de circulation;
+- i) les distributions gratuites de biens de nécessité à la population dans le cadre d'une action sociale;
+- j) les manifestations politiques jusqu'à 30 participants et participantes, sur autorisation du préfet;
+- k) les récoltes de signatures jusqu'à 10 personnes.
+
+<sup>3</sup> Les événements visés à l'alinéa 2 doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et collecter de manière électronique les coordonnées des participants et participantes, les conserver durant quatorze jours, puis les détruire.
+
+<sup>4</sup> Dans des cas exceptionnels, une dérogation peut être accordée par le préfet, en coordination avec le Service du médecin cantonal et la Police cantonale, notamment en cas d'impossibilité absolue de report et de réunion en non-présentiel et à la condition que la manifestation réponde à un intérêt prépondérant.
+
+<sup>5</sup> Le comité d'une association de communes peut, par décision notifiée par écrit ou sous forme électronique au plus tard quatre jours avant l'assemblée de délégué‑e‑s, quel que soit le nombre prévu de participants et participantes, sans respecter le délai de convocation et à la condition que l'objet s'y prête, imposer aux délégué‑e‑s d'exercer leurs droits exclusivement:
+
+- a) par écrit ou sous forme électronique, ou
+- b) par l'intermédiaire d'un ou d'une délégué‑e unique assurant la représentation des voix de la commune.
+
+<sup>6</sup> Lorsque, sur l'espace public et dans une situation de forte affluence, les mesures de prévention ne sont pas respectées, les communes peuvent définir des zones de forte affluence au sens de l'article 3c al. 2 de l'ordonnance fédérale COVID-19 situation particulière, dans lesquelles le port du masque facial est obligatoire en vertu de cette disposition. Elles fixent le périmètre ainsi que les horaires auxquels cette obligation s'applique, en coordination avec la Police cantonale. Les zones concernées ainsi que l'obligation du port du masque facial sont dûment signalées.
+
+#### Art. 2a
+
+**…**
+
+#### Art. 3
+
+**…**
+
+#### Art. 3a
+
+**Etablissements publics**
+
+<sup>1</sup> L'exploitation de tous les établissements publics est interdite, sous réserve des exceptions prévues par l'article 5a al. 2 et 3 de l'ordonnance fédérale COVID-19 situation particulière.
+
+<sup>2</sup> Dans les établissements publics (restaurants et bars) réservés à la clientèle des hôtels au sens de l'article 5a al. 2 let. d de l'ordonnance fédérale COVID-19 situation particulière, seules les personnes séjournant dans la même chambre peuvent s'asseoir à la même table. Les établissements publics concernés ne peuvent accueillir qu'une clientèle assise à table, limitent le nombre de places par table à 4 personnes et respectent la distance de 1,5 m entre chaque table ou installent d'autres mesures de protection efficaces (p. ex. séparations adéquates). Un plan de protection au sens de l'article 4 de l'ordonnance fédérale COVID-19 situation particulière est obligatoire.
+
+<sup>3</sup> Les responsables d'établissements publics (restaurants et bars) autorisés au sens de l'article 5a al. 2 let. b, c et d de l'ordonnance fédérale COVID-19 situation particulière assurent une traçabilité individuelle des personnes présentes. Ils utilisent à cet effet un système de traçage simple et sécurisé enregistrant par voie électronique, en plus des données prévues par le droit fédéral, l'heure d'entrée et l'heure de sortie de chaque personne par un point de passage unique et contrôlé. Une solution alternative est proposée pour les personnes ne disposant pas des moyens techniques permettant ce type de traçage.
+
+<sup>4</sup> Les cantines d'entreprises, des cycles d'orientation et des établissements de formation post-obligatoire sont soumises aux règles des alinéas 2 et 3.
+
+<sup>5</sup> Les modalités de la mise en œuvre de la collecte des données peuvent être précisées par voie d'ordonnance de la Direction de la santé et des affaires sociales ou de la Direction de la sécurité et de la justice, conformément à l'article 5 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
+
+#### Art. 3b
+
+**Autres établissements et installations accessibles au public**
+
+<sup>1</sup> Peuvent rester ouverts, moyennant le respect d'un plan de protection:
+
+- a) les commerces, moyennant le respect des espaces et distances prévus par l'ordonnance fédérale COVID-19 situation particulière;
+- b) les activités de services à la personne telles que coiffeurs, esthéticiens, barbiers et tatoueurs;
+- c) les établissements en libre-service accessibles au public, notamment les stations-service, les installations à utiliser soi-même, les installations automatisées dans une large mesure;
+- d) les installations sportives en plein air, sous réserve de l'article 3b al. 2;
+- e) les domaines skiables, sous réserve des règles de l'ordonnance fédérale COVID-19 situation particulière;
+- f) les institutions de santé et les locaux où exercent les professionnels de la santé au sens des droits fédéral et cantonal, comme notamment les cabinets médicaux et dentaires, les cabinets vétérinaires, les laboratoires médicaux, les cabinets de chiropraticiens, de physiothérapeutes, d'ostéopathes, de podologues, d'ergothérapeutes, de diététiciens, de logopédistes, de psychologues et de sages-femmes;
+- g) les bibliothèques, uniquement pour la consultation d'ouvrages et le prêt d'ouvrages pour les étudiants et étudiantes;
+- h) les hôtels et les établissements parahôteliers, à l'exclusion des hébergements collectifs;
+- i) les services à emporter et de livraison;
+- j) les musées et les galeries d'art, moyennant le respect d'un espace de 10 m² par personne;
+- k) …
+- l) …
+- m) …
+- k1) les patinoires couvertes et en plein air, sous réserve des règles de l'article 12 relatives à la pratique du sport et à l'interdiction des sports de contact;
+- n) …
+- o) …
+- p) les fitness et les installations sportives en intérieur, moyennant le respect d'un espace de 15 m² par personne; les douches et les vestiaires sont fermés.
+
+<sup>1a</sup> Les établissements et installations autorisés à ouvrir selon l'alinéa 1 du présent article se conforment aux heures d'ouvertures cantonales et communales autorisées habituellement, y compris en ce qui concerne les ouvertures dominicales et les jours fériés et les ouvertures nocturnes. Ils ferment toutefois à 23 heures au plus tard.
+
+<sup>2</sup> Les autres établissements et installations accessibles au public sont fermés, en particulier les bibliothèques, sous réserve de l'article 3b al. 1 let. g, les ludothèques, les casinos, les établissements et installations de divertissement et de loisirs, les théâtres et les cinémas, sous réserve de l'article 13 al. 2, les piscines, les bains thermaux et wellness, sauf pour la clientèle des hôtels donnant accès à dites installations.
+
+<sup>3</sup> …
+
+<sup>4</sup> L'exercice de la prostitution et d'activités assimilées est autorisé.
+
+#### Art. 4
+
+**Etablissements de soins**
+
+<sup>1</sup> Les visites dans les établissements de soins sont strictement limitées et encadrées. Les hôpitaux et les maisons de naissance se conforment aux directives de la cellule de coordination hospitalière validées par le Service du médecin cantonal. Les autres établissements, et notamment les établissements médico-sociaux, se conforment aux directives du médecin cantonal. En présence de résidents ou résidentes testés positifs, les établissements médico-sociaux peuvent être interdits aux visites sur avis du médecin cantonal.
+
+#### Art. 5
+
+**Structures d'accueil extrafamilial de jour**
+
+<sup>1</sup> Les structures d'accueil extrafamilial de jour restent ouvertes, moyennant un plan de protection.
+
+#### Art. 6
+
+**Enseignement – Dispositions générales (pour tous les degrés d'enseignement)**
+
+<sup>1</sup> Le port d'un masque facial est obligatoire pour tous les étudiants et étudiantes ainsi que pour tous les élèves dès le niveau du cycle d'orientation sur tout le périmètre de l'établissement de formation, y compris pendant les pauses, ainsi que lors des déplacements entre l'arrêt de transport public et l'établissement de formation lorsque la distance interpersonnelle ne peut pas être respectée.
+
+<sup>2</sup> L'ensemble du personnel (enseignant, pédago-thérapeutique, administratif, technique et d'intendance) ou toute autre personne intervenant ponctuellement dans l'établissement de formation doit porter un masque facial et respecter les règles en matière de distance interpersonnelle dans la mesure du possible, sur tout le périmètre de l'établissement de formation, y compris pendant les pauses.
+
+<sup>3</sup> Les mesures de protection spécifiques de chaque degré voire filière d'enseignement sont fixées par des concepts de protection élaborés et adoptés par la Direction compétente, après consultation du bureau de l'Organe cantonal de conduite (OCC). Les procédures à suivre en cas de suspicion ou de constatation de cas de maladie figurent également dans ces concepts.
+
+<sup>4</sup> Les voyages à l'étranger, autres que les voyages individuels d'échange, sont interdits jusqu'à la fin de l'année scolaire 2020/21. Les stages professionnels individuels à l'étranger peuvent être maintenus.
+
+#### Art. 7
+
+**Enseignement – Scolarité obligatoire et enseignement secondaire supérieur (S2 et formation professionnelle, y compris cours interentreprises)**
+
+<sup>1</sup> L'enseignement présentiel est maintenu, moyennant un plan de protection, au sens de l'article 4 de l'ordonnance fédérale COVID-19 situation particulière.
+
+<sup>2</sup> Sur la proposition des autorités sanitaires, les Directions compétentes peuvent organiser l'enseignement sous une autre forme, notamment en divisant les classes ou en dispensant l'enseignement partiellement ou totalement à distance.
+
+<sup>3</sup> Les camps scolaires et voyages d'étude, ainsi que d'autres activités similaires comprenant une nuitée, sont interdits jusqu'au 31 mars 2021.
+
+<sup>4</sup> Les mesures de protection applicables à l'enseignement de l'éducation physique et du sport sont publiées sur le site Internet du Service du sport.
+
+<sup>5</sup> Dans les transports scolaires organisés par les communes, le port du masque facial est obligatoire dès 12 ans. Selon les circonstances, les communes peuvent rendre le port du masque facial obligatoire pour des élèves plus jeunes.
+
+#### Art. 8
+
+**Enseignement – Tertiaire**
+
+<sup>1</sup> L'enseignement de niveau tertiaire s'effectue conformément aux modalités fixées à l'article 6d de l'ordonnance fédérale COVID-19 situation particulière.
+
+#### Art. 9
+
+**Enseignement – Au sein du Conservatoire**
+
+<sup>1</sup> Le port du masque facial est obligatoire pour l'ensemble du personnel (enseignant, administratif, technique et d'intendance) et les élèves dès 12 ans sur tout le périmètre du Conservatoire, sauf cas particuliers.
+
+#### Art. 10
+
+**Enseignement – Fourniture et prise en charge des masques faciaux**
+
+<sup>1</sup> Les élèves, ou leurs parents, ainsi que les étudiants et étudiantes se procurent les masques faciaux, qui sont des effets personnels, à leurs propres frais.
+
+<sup>2</sup> Sont réservées certaines situations d'enseignement spécifique (p. ex. au sein de la Haute Ecole de santé ou pour des travaux en laboratoire ou en atelier) pour lesquelles les masques faciaux ou tout autre matériel de protection sont fournis par l'école.
+
+<sup>3</sup> Les masques faciaux sont fournis gratuitement au personnel (enseignant, pédago-thérapeutique, administratif, technique et d'intendance).
+
+<sup>4</sup> Les Directions concernées ou le Service de la formation professionnelle sont responsables de la commande des masques faciaux et, le cas échéant, de tout autre matériel de protection pour le personnel ainsi que pour les situations d'enseignement spécifiques au sens de l'alinéa 2 auprès du fournisseur désigné pour elles. En cas de montant insuffisant à leur budget, elles transmettent à leur Direction une demande de crédit complémentaire, conformément à la législation sur les finances de l'Etat.
+
+#### Art. 11
+
+**Autres formations et cours**
+
+<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes de plus de 12 ans, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
+
+<sup>2</sup> En cas d'impossibilité d'assurer un enseignement à distance et si les activités didactiques sont indispensables à la filière de formation certifiante et considérées comme essentielles (sécurité et secours, santé, social et intégration), l'enseignement peut se dérouler en présentiel avec 30 participants et participantes au maximum et moyennant le port du masque facial et le respect de la distance interpersonnelle.
+
+<sup>3</sup> Les leçons particulières et individuelles demeurent autorisées.
+
+<sup>4</sup> Des dérogations peuvent être octroyées en application de l'article 7 de l'ordonnance fédérale COVID-19 situation particulière.
+
+#### Art. 12
+
+**Mesures relatives aux activités sportives et de danse**
+
+<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer la danse et tous les types d'activités sportives, sans aucune restriction et sans port du masque facial. L'activité doit toutefois se dérouler par groupes d'au maximum 10 personnes, incluant le personnel encadrant.
+
+<sup>2</sup> Pour les personnes de plus de 16 ans, les activités sportives et de danse impliquant un contact physique (p. ex. football, hockey, basketball, sports de combat, danse sportive) sont interdites. Pour ces disciplines, les entraînements individuels sans contact physique sont autorisés et les exercices techniques en groupe sans contact physique sont autorisés dans le respect des alinéas 3 à 5 du présent article.
+
+<sup>3</sup> Les activités sportives d'entraînement sans contact physique, à l'exclusion des compétitions, sont autorisées aux conditions suivantes:
+
+- a) les participants et participantes sont répartis au sein d'infrastructures sportives séparées en groupes d'au maximum 5 personnes incluant le personnel encadrant, et
+- b) les participants et participantes à une activité sportive respectent un espace de 15 m² par personne et portent un masque facial.
+
+<sup>4</sup> Le port du masque facial n'est pas obligatoire lorsque l'activité sportive autorisée se déroule en extérieur ou dans de grands locaux aérés (p. ex. halles de tennis). Sont réservés les plans de protection relatifs aux domaines skiables et aux sports de neige.
+
+<sup>5</sup> Les activités sportives, notamment les activités d'entraînement et les compétitions, sont autorisées pour:
+
+- a) les sportifs et sportives de haut niveau appartenant à l'un des cadres nationaux ou l'une des équipes nationales d'une fédération sportive nationale et s'entraînant à titre individuel, en groupes d'au maximum 15 personnes ou dans des équipes de compétition fixes;
+- b) les équipes appartenant à une ligue majoritairement professionnelle.
+
+<sup>6</sup> Les alinéas 3 à 5 ne s'appliquent pas aux cours d'éducation physique dispensés dans le cadre scolaire, sous réserve de l'article 6 al. 1 concernant le port du masque facial et des règles relatives aux sports de contact. Toutefois, un plan de protection est obligatoire.
+
+<sup>7</sup> Les leçons particulières et individuelles demeurent autorisées.
+
+<sup>8</sup> Les activités sportives individuelles à l'extérieur sont autorisées.
+
+#### Art. 13
+
+**Mesures relatives aux activités dans le domaine de la culture (musique, chant et théâtre)**
+
+<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer toutes les activités culturelles, sauf le chant, sans aucune restriction et sans port du masque facial. L'activité doit toutefois se dérouler par groupes d'au maximum 10 personnes, y compris le personnel encadrant.
+
+<sup>2</sup> Dans le domaine de la culture, les activités suivantes, y compris l'utilisation des installations et établissements nécessaires à cette fin, sont autorisées:
+
+- a) dans le domaine non professionnel:
+  - 1\. les répétitions effectuées à titre individuel après 16 ans;
+  - 2\. les répétitions en groupe d'au maximum 5 personnes de plus de 16 ans si les personnes concernées portent un masque facial et respectent la distance interpersonnelle; elles peuvent renoncer au masque facial dans de grands locaux, à condition que des règles supplémentaires en matière de distance interpersonnelle et la limitation des capacités soient appliquées;
+- b) dans le domaine professionnel: les répétitions d'artistes ou d'ensembles ainsi que les concerts et représentations sans public.
+
+<sup>2a</sup> Les représentations et spectacles sont interdits dans le domaine non professionnel.
+
+<sup>3</sup> Les activités de répétition exercées par des chœurs ou impliquant des chanteurs et chanteuses ne sont autorisées que pour les professionnels et si des mesures de protection spécifiques sont mises en place.
+
+<sup>4</sup> Les leçons particulières et individuelles demeurent autorisées.
+
+<sup>5</sup> La pratique du chant dans les classes primaires de 1H à 8H est autorisée.
+
+#### Art. 13a
+
+**Dérogations**
+
+<sup>1</sup> Les allégements visés par l'article 7 de l'ordonnance fédérale COVID-19 situation particulière sont décidés par la Direction de la sécurité et de la justice, sur le préavis du bureau de l'Organe cantonal de conduite et des Directions concernées.
+
+<sup>2</sup> Lorsque des intérêts prépondérants l'exigent, des dérogations aux mesures prévues par la présente ordonnance peuvent être octroyées par la Direction de la sécurité et de la justice, sur le préavis du bureau de l'Organe cantonal de conduite et des Directions concernées.
+
+#### Art. 14
+
+**Durée de validité**
+
+<sup>1</sup> Les présentes mesures portent effet jusqu'au 22 janvier 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+
+<sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
+
+2020\_145

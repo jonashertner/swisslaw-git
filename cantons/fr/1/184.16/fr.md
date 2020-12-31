@@ -1,0 +1,476 @@
+---
+canton: FR
+number: "184.16"
+title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
+language: fr
+version: 2019-08-01
+valid_until: 2021-02-28
+version_adopted: 2019-06-24
+adopted: 2019-06-24
+in_force: 2019-08-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6084/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)
+
+Référentiel cantonal de données – O
+
+du 24.06.2019 (version entrée en vigueur le 01.08.2019)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration (LGCyb), en particulier ses articles 13 à 16 et 21;
+
+Vu le préavis de l'Autorité cantonale de la transparence et de la protection des données du 4 février 2019;
+
+Considérant:
+
+La mise sur pied d'un référentiel cantonal qui contient des données de référence qualifiées et actualisées de personnes et d'organisations en interaction et/ou en relation directe avec les organes de l'Etat représente une étape essentielle dont le but est de poser le socle de la digitalisation de l'administration.
+
+Les dispositions de la LGCyb permettent déjà l'élaboration d'une telle infrastructure, mais elles nécessitent d'être complétées et précisées. En vertu de l'article 21 LGCyb, le Conseil d'Etat peut autoriser le lancement de projets pilotes en matière de digitalisation pour une durée limitée avant l'adoption des bases légales formelles définitives. Celles-ci auront l'avantage d'être plus abouties et plus sûres en termes de densité et de précision.
+
+A terme, ce référentiel a pour objectif de devenir la principale source d'information unifiée et qualifiée de données de référence à la disposition des organes publics du canton de Fribourg.
+
+Sur la proposition de la Direction des finances et de la Chancellerie d'Etat,
+
+Arrête:
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente ordonnance règle la mise en œuvre et l'exploitation d'un référentiel cantonal de données de personnes, organisations et nomenclatures (ci-après: le Référentiel cantonal) durant une phase pilote limitée dans le temps.
+
+<sup>2</sup> Il est constitué à partir d'un ensemble de données communes à plusieurs applications et/ou systèmes d'information.
+
+#### Art. 2
+
+**But du Référentiel cantonal**
+
+<sup>1</sup> Le Référentiel cantonal est une infrastructure numérique dotée d'une gouvernance centrale. Il propose un annuaire de données pouvant être partagées, contenant des données de référence des personnes et organisations qui sont en interaction et/ou en relation directe avec un organe de l'Etat.
+
+<sup>2</sup> Il est destiné aux organes des collectivités publiques ainsi qu'aux personnes privées chargées de l'accomplissement de tâches publiques.
+
+<sup>3</sup> Il soutient la digitalisation des processus de l'ensemble des organes de l'Etat dans une perspective transversale. Il vise à l'application uniforme de nouvelles règles et de nouveaux traitements liés à l'identification, à la disponibilité, à la qualité, à la conformité, à la sécurité des données qui lui sont rattachées ainsi qu'à leur accès.
+
+#### Art. 3
+
+**Données du Référentiel cantonal**
+
+<sup>1</sup> Le Référentiel cantonal traite principalement des données de référence concernant les personnes et les organisations. Par données de référence, on entend des données qui ont pour finalité l'identification, le recensement, la localisation, le contact ou la représentation de la personne ou de l'organisation.
+
+<sup>2</sup> Le Référentiel cantonal peut accueillir d'autres données fournies volontairement par la personne concernée ou par son représentant ou sa représentante conformément à l'article 7.
+
+<sup>3</sup> Le Référentiel cantonal inclut également des données non personnelles qui sont d'utilité générale, comme des informations sur les organes des collectivités publiques (noms et adresses des communes et des unités administratives, etc.), des adresses, la liste des pays, des nomenclatures standardisées (titres civils, genres, nationalités, types de personnes morales, etc.).
+
+<sup>4</sup> Les sources, le périmètre et le catalogue des données du Référentiel cantonal sont décrits dans un document séparé qui est publié sur le site Internet de l'Etat. Ils sont ajustés et mis à jour durant la phase pilote en fonction des besoins et des priorités identifiés.
+
+#### Art. 4
+
+**Gouvernance des données du Référentiel cantonal**
+
+<sup>1</sup> Durant la phase pilote, la gestion et la régulation des processus liés à la mise en œuvre et à l'exploitation du Référentiel cantonal sont supervisées par les organes suivants, qui assurent conjointement la bonne gouvernance des données du Référentiel cantonal:
+
+- a) la Commission de gouvernance des données référentielles (ci-après: la Commission);
+- b) le comité de qualité des données référentielles (ci-après: le comité de qualité);
+- c) le comité de conformité d'utilisation des données référentielles (ci-après: le comité de conformité).
+
+<sup>2</sup> Le Service de l'informatique et des télécommunications (ci-après: le SITel) fournit les ressources nécessaires à la mise en œuvre technique du Référentiel cantonal et à son exploitation. Il assure la sécurité technique du système d'information.
+
+<sup>3</sup> Les rôles et les attributions des organes de la gouvernance sont décrits dans l'Annexe 1 à la présente ordonnance.
+
+#### Art. 5
+
+**Organisation et organes contributeurs de données**
+
+<sup>1</sup> Le Référentiel cantonal peut être alimenté par les données de référence provenant de systèmes d'information d'organes cantonaux et communaux et, dans les limites du droit fédéral, par les données de référence de registres officiels de la Confédération.
+
+<sup>2</sup> Une convention conclue entre l'organe contributeur de données et la Commission règle les droits et les obligations de chaque partie. La convention peut être adaptée en fonction des besoins et des priorités identifiés.
+
+<sup>3</sup> Les organes contributeurs de données du Référentiel cantonal ainsi que les principales exigences relatives à leur organisation sont décrits dans l'Annexe 2 à la présente ordonnance.
+
+#### Art. 6
+
+**Prétraitements de données**
+
+<sup>1</sup> Pour permettre la mise en œuvre et l'exploitation du Référentiel cantonal, la présente ordonnance autorise:
+
+- a) l'attribution systématique d'un identifiant unique au sens de l'article 14 LGCyb à toute personne ou organisation qui est en interaction et/ou en relation avec un organe de l'Etat;
+- b) l'appariement systématique des données de référence provenant des systèmes d'information d'un organe contributeur de données au sens de l'article 5 al. 1.
+
+<sup>2</sup> Les modalités de mise en œuvre des opérations de prétraitement sont précisées dans l'Annexe 3 à la présente ordonnance.
+
+#### Art. 7
+
+**Participation de la personne concernée**
+
+<sup>1</sup> La personne concernée, ou la personne la représentant, peut fournir des données supplémentaires la concernant à des fins déterminées et demander la suppression et la rectification de données personnelles erronées.
+
+<sup>2</sup> L'ajout de données personnelles dans le Référentiel cantonal requiert le consentement libre et éclairé de la personne concernée et doit répondre à un besoin de l'administration qui précise chaque fois la finalité attendue des données.
+
+<sup>3</sup> La personne concernée conserve la possibilité de révoquer son consentement en tout temps et d'exiger que les données qu'elle a transmises soient retirées des données partagées du Référentiel cantonal dans un délai raisonnable.
+
+<sup>4</sup> Les ajouts de données et les demandes de suppression ou de rectification sont traités gratuitement selon une procédure automatisée. La personne concernée est informé‑e de la suite donnée.
+
+#### Art. 8
+
+**Mise en service du Référentiel cantonal et accès aux données**
+
+<sup>1</sup> Le Référentiel cantonal est mis en service avec intégration progressive des organes contributeurs de données et des fonctionnalités proposées. L'organisation de la gouvernance des données est mise en place dès que possible.
+
+<sup>2</sup> Les accès aux données du Référentiel cantonal sont octroyés sur la base d'une convention conclue avec la Commission, conformément à la législation spéciale.
+
+<sup>3</sup> Les modalités de l'accès aux données du Référentiel cantonal et les règles concernant leur utilisation sont précisées dans l'Annexe 4 à la présente ordonnance.
+
+#### Art. 9
+
+**Interdiction de faire du profilage et des appariements de données**
+
+<sup>1</sup> Sous réserve des cas prévus dans l'Annexe 3 à la présente ordonnance, il est strictement interdit à toute personne ou application qui fait usage de l'identifiant unique cantonal ou du Référentiel cantonal d'utiliser ces instruments à des fins de profilage et d'appariement.
+
+#### Art. 10
+
+**Sécurité, protection des données et surveillance**
+
+<sup>1</sup> Les données personnelles sont protégées contre toute atteinte à leur confidentialité et contre tout traitement non autorisé. La protection est assurée lors de chaque phase du traitement des données; elle est appliquée à l'égard de toute personne, à l'intérieur comme à l'extérieur de l'administration.
+
+<sup>2</sup> Durant la phase pilote, l'Autorité cantonale de la transparence et de la protection des données (ci-après: l'ATPrD) est régulièrement consultée au sujet de l'évolution de la mise en œuvre et de l'exploitation du Référentiel cantonal. Elle peut en outre intervenir à tout moment pour exiger le respect des dispositions légales en matière de protection des données.
+
+<sup>3</sup> Les règles concernant la sécurité et la protection des données, ainsi que la surveillance par l'ATPrD, sont précisées dans l'Annexe 5 à la présente ordonnance.
+
+#### Art. 11
+
+**Emoluments**
+
+<sup>1</sup> Il n'est pas perçu d'émoluments pour procéder aux rectifications de données dans les systèmes d'information des organes contributeurs de données, lorsque ces demandes de rectification émanent du comité de qualité afin d'exécuter la présente ordonnance.
+
+<sup>2</sup> Le droit fédéral est réservé.
+
+#### Art. 12
+
+**Mise à jour des annexes**
+
+<sup>1</sup> Les annexes à la présente ordonnance sont mises à jour aussi souvent que nécessaire en fonction de l'avancement et de l'évolution de la mise en œuvre du Référentiel cantonal ainsi que des besoins et des priorités identifiés.
+
+<sup>2</sup> L'ATPrD doit être consultée lors de nouvelles mises à jour.
+
+#### Art. 13
+
+**Evaluation périodique**
+
+<sup>1</sup> Durant la phase pilote, les risques et le choix des mesures concernant la qualité des données et le respect des exigences en matière de protection des données sont évalués périodiquement.
+
+#### Art. 14
+
+**Rapport final d'évaluation**
+
+<sup>1</sup> A l'issue de la phase pilote, la Commission présente au Conseil d'Etat un rapport final d'évaluation sur le déroulement de cette phase expérimentale.
+
+## A1 ANNEXE 1 – Gouvernance (art. 4)
+
+#### Art. A1-1
+
+**Commission de gouvernance des données référentielles**
+
+<sup>1</sup> Durant la phase pilote, la mise en œuvre et l'exploitation du Référentiel cantonal sont placées sous la responsabilité de la Commission. Celle-ci a en particulier les attributions suivantes:
+
+- a) mettre en place une gouvernance cantonale des données partagées du Référentiel cantonal;
+- b) examiner les besoins et les contraintes liés au partage des données exprimés par les organes contributeurs et consommateurs de données ainsi que les possibilités de mise en œuvre;
+- c) nommer les membres des comités de qualité et de conformité et superviser leur travail;
+- d) répondre aux différentes obligations incombant au responsable du fichier au sens de la loi sur la protection des données;
+- e) élaborer et s'assurer de l'adoption des règlements d'utilisation afin de préserver la sécurité et la protection des données et conclure avec les organes contributeurs de données une convention fixant l'objet et les modalités de leur intervention;
+- f) conclure avec les organes consommateurs de données une convention fixant l'objet et les conditions de leur accès aux données du Référentiel cantonal;
+- g) fixer les sources, le périmètre et le catalogue des données contenues dans le Référentiel cantonal ainsi que les modalités de leur partage en accord avec le comité de qualité et le comité de conformité;
+- h) veiller à la bonne coopération entre les organes de la gouvernance, les organes contributeurs de données et les autres entités chargées de la qualité des données en arbitrant, si nécessaire, les éventuels conflits;
+- i) demander des rapports ou évaluations et faire procéder à des audits afin de vérifier la couverture des risques, l'efficience et la conformité des traitements de données liés à la mise en œuvre et à l'exploitation du Référentiel cantonal;
+- j) publier les informations relatives à la mise en œuvre du Référentiel cantonal.
+
+<sup>2</sup> La composition de la Commission peut évoluer en fonction des besoins et des priorités identifiés. Elle compte au moins trois membres et est présidée par le chancelier ou la chancelière d'Etat. Elle est rattachée administrativement à la Chancellerie d'Etat qui assure son secrétariat.
+
+<sup>3</sup> Les membres de la Commission sont nommés par le Conseil d'Etat.
+
+<sup>4</sup> Le ou la préposé‑e à la protection des données assiste aux séances avec voix consultative. Son indépendance est garantie.
+
+#### Art. A1-2
+
+**Comité de qualité des données référentielles**
+
+<sup>1</sup> Durant la phase pilote, le comité de qualité propose les principes visant à assurer la standardisation des données et un taux d'exactitude de celles-ci le plus élevé possible.
+
+<sup>2</sup> Il supervise les activités du réseau d'intendance des données.
+
+<sup>3</sup> Il valide les règles concernant l'intégration des sources et les différentes hiérarchies à mettre en place. Il veille à l'amélioration continue des opérations et traitements de données associés.
+
+<sup>4</sup> Le comité de qualité est composé d'au moins trois membres, dont l'intendant ou l'intendante du Référentiel cantonal mentionné‑e à l'article A2-3. Sa présidence est assurée par la personne responsable des données de registres et projets spéciaux du Service de la statistique (ci-après: le SStat).
+
+#### Art. A1-3
+
+**Comité de conformité d'utilisation des données référentielles**
+
+<sup>1</sup> Durant la phase pilote, le comité de conformité est chargé de veiller à la conformité des traitements, de l'octroi des accès et de l'utilisation des données avec les bonnes pratiques et les exigences légales, en particulier avec la loi sur la protection des données.
+
+<sup>2</sup> Le comité de conformité est consulté dans le cadre de l'élaboration des dispositions légales définitives en lien avec le Référentiel cantonal.
+
+<sup>3</sup> Il est composé d'au moins trois membres, dont le ou la préposé‑e à la protection des données. Sa présidence est assurée par la personne responsable de la gouvernance des données référentielles de la Chancellerie d'Etat.
+
+## A2 ANNEXE 2 – Organisation (art. 5)
+
+#### Art. A2-1
+
+**Organes contributeurs de données**
+
+<sup>1</sup> Le Référentiel cantonal peut être alimenté par les données de référence provenant des systèmes d'information des partenaires cantonaux suivants:
+
+- a) les partenaires pilotes du Référentiel cantonal à obligations étendues:
+  - 1\. le Service cantonal des contributions (SCC);
+  - 2\. l'Administration des finances (AFin);
+  - 3\. le Secrétariat cantonal de cyberadministration de la Chancellerie d'Etat;
+  - 4\. le Centre de compétences Fritic;
+- b) les partenaires à obligations restreintes:
+  - 1\. le Service de la population et des migrants (SPoMi);
+  - 2\. l'Etablissement cantonal des assurances sociales (ECAS);
+  - 3\. le Service du personnel et d'organisation (SPO);
+  - 4\. le Service du registre du commerce (SRC);
+  - 5\. le Service des affaires institutionnelles, des naturalisations et de l'état civil (SAINEC).
+
+<sup>2</sup> Moyennant l'obtention des autorisations adéquates et sur un périmètre autorisé, le Référentiel cantonal peut être alimenté par les données de référence provenant de systèmes d'information fédéraux, en particulier:
+
+- a) le registre informatisé de l'état civil (Infostar);
+- b) le registre fédéral des bâtiments et des logements (RegBL);
+- c) le registre central des assurés (UPI);
+- d) le système d'information central sur la migration (SYMIC);
+- e) le système d'information du Service national d'adresses (NAD);
+- f) le registre des entreprises et des établissements (REE);
+- g) le registre IDE des entreprises suisses.
+
+#### Art. A2-2
+
+**Tâches et responsabilités des partenaires du Référentiel cantonal**
+
+<sup>1</sup> Chaque partenaire du Référentiel cantonal désigné à l'article A2-1 al. 1 met tout en œuvre afin d'assurer la qualité et la conformité des données partagées qui se trouvent dans ses propres systèmes d'information et/ou sur lesquelles il porte une responsabilité légale.
+
+<sup>2</sup> Les droits et les obligations spécifiques de chaque partenaire sont définis dans une convention conclue avec la Commission. Celle-là indique au minimum:
+
+- a) le périmètre et le catalogue des données partagées;
+- b) un descriptif des personnes, des processus et des applications autorisés à traiter les données;
+- c) un descriptif des personnes ou des fonctions impliquées dans les activités liées à la gouvernance des données;
+- d) les mesures de sécurité et de contrôle à respecter.
+
+<sup>3</sup> La convention conclue entre la Commission et l'organe contributeur de données respecte les prescriptions du droit fédéral lorsque celles-ci s'appliquent.
+
+<sup>4</sup> Les partenaires pilotes à obligations étendues sont en outre tenus par les obligations décrites aux articles A2-4 à A2-6.
+
+#### Art. A2-3
+
+**Intendant ou intendante du Référentiel cantonal**
+
+<sup>1</sup> L'intendant ou l'intendante du Référentiel cantonal assure de manière coordonnée avec les intendants et intendantes métier la gestion centrale des données du Référentiel cantonal. Ses tâches consistent en particulier à:
+
+- a) organiser et superviser les opérations d'appariement de données nécessaires à la mise en œuvre et à l'exploitation du Référentiel cantonal;
+- b) élaborer des règles métier permettant de paramétrer les hiérarchies entre les sources de données et d'arbitrer les divergences constatées sur l'identité, le périmètre ou les attributs des personnes;
+- c) assurer la liaison du réseau d'intendance des données avec les organes de la gouvernance et le SITel.
+
+<sup>2</sup> L'intendant ou l'intendante du Référentiel cantonal est rattaché‑e hiérarchiquement au SStat. Il ou elle adresse régulièrement un rapport d'évaluation au comité de qualité sur l'avancement de ses travaux et de ceux du réseau d'intendance des données.
+
+#### Art. A2-4
+
+**Réseau d'intendance des données**
+
+<sup>1</sup> Les partenaires pilotes désignent chacun un intendant ou une intendante des données à l'intérieur de leur métier. Les intendants et intendantes métier ont notamment pour tâches de:
+
+- a) veiller à la qualité des données partagées et des opérations de traitement dans leur domaine spécifique;
+- b) collaborer avec les autres intendants et intendantes en vue d'assurer une bonne coordination des opérations de traitement liées à la mise en œuvre et à l'exploitation du Référentiel cantonal.
+
+<sup>2</sup> Les intendants et intendantes métier forment entre eux un réseau d'intendance qui est chargé de la gestion opérationnelle liée à la consistance et à l'harmonisation des données du Référentiel cantonal et des registres sectoriels.
+
+<sup>3</sup> Le réseau d'intendance est présidé par l'intendant ou l'intendante du Référentiel cantonal. Celui-ci ou celle-ci est habilité‑e à donner aux intendants et intendantes métier des instructions en lien avec le Référentiel cantonal.
+
+<sup>4</sup> Lorsque le réseau d'intendance traite des thématiques qui concernent également les partenaires à obligations restreintes, ces derniers sont invités à prendre part aux discussions et à faire des propositions.
+
+#### Art. A2-5
+
+**Conformité d'utilisation des données**
+
+<sup>1</sup> Les partenaires pilotes désignent un ou une délégué‑e à la protection des données référentielles à l'intérieur de leur métier. Les délégué‑e‑s à la protection des données ont en particulier pour attributions de:
+
+- a) veiller à la conformité des traitements avec les exigences légales en matière de protection des données et les conventions établies à l'intérieur de leur métier;
+- b) collaborer à l'établissement des conventions d'accès aux données référentielles;
+- c) collaborer à l'élaboration de directives, de conventions et de règlements d'utilisation liés au fonctionnement et à l'exploitation du Référentiel cantonal;
+- d) collaborer à l'élaboration des dispositions légales définitives sur le fonctionnement et l'exploitation du Référentiel cantonal;
+- e) rapporter des problèmes spécifiques concernant le traitement des données à l'intérieur de leur métier auprès du comité de conformité;
+- f) annoncer à la Commission ainsi qu'à l'ATPrD les constats d'incidents et de violation des obligations liés à la sécurité et à la protection des données à l'intérieur de leur métier.
+
+<sup>2</sup> Le comité de conformité organise la formation de base afin que les délégué‑e‑s à la protection des données puissent remplir leurs attributions.
+
+#### Art. A2-6
+
+**Représentation des métiers et résolution des conflits**
+
+<sup>1</sup> Les partenaires pilotes désignent chacun un référent ou une référente technique et organisationnel‑le à l'intérieur de leur métier. Les référents et référentes techniques et organisationnels ont pour tâches notamment de:
+
+- a) participer à la fixation des exigences et des objectifs liés à la mise en œuvre et à l'exploitation du Référentiel cantonal et de représenter les utilisateurs et utilisatrices du métier durant la phase pilote;
+- b) résoudre les éventuels conflits internes concernant la gestion et l'utilisation des données référentielles;
+- c) assurer à l'interne la gestion du changement et identifier les besoins de formation.
+
+<sup>2</sup> Les référents et référentes techniques et organisationnels peuvent rapporter des problèmes non résolus aux comités de gouvernance des données lorsqu'ils risquent d'avoir une influence négative importante sur l'organisation interne du métier.
+
+#### Art. A2-7
+
+**Participation des communes**
+
+<sup>1</sup> Des communes peuvent être impliquées dans la phase de mise en œuvre et d'exploitation du Référentiel cantonal.
+
+<sup>2</sup> Elles peuvent en outre faire remonter aux organes de la gouvernance des thématiques et des problèmes liés au Référentiel cantonal qui les concernent directement. Elles peuvent dans ce cadre être invitées à participer aux séances des organes de la gouvernance.
+
+## A3 ANNEXE 3 – Prétraitements de données (art. 6)
+
+#### Art. A3-1
+
+**Attribution et utilisation d'un identifiant unique cantonal**
+
+<sup>1</sup> Un identifiant unique cantonal est attribué aux personnes et organisations qui sont recensées dans un des systèmes d'information d'un des organes contributeurs de données au sens de l'article A2-1. Des dérogations sont possibles, notamment pour certaines catégories de population avec lesquelles l'administration n'entretient pas, faiblement ou plus de contact justifiant l'attribution d'un identifiant cantonal.
+
+<sup>2</sup> L'identifiant unique cantonal est utilisé pour assurer l'interopérabilité et l'interfaçage autorisé entre les systèmes.
+
+<sup>3</sup> Dans la mesure où ils ont déclaré leurs fichiers auprès de l'ATPrD, les organes contributeurs de données au sens de l'article A2-1 al. 1 sont autorisés à:
+
+- a) intégrer l'identifiant unique cantonal dans leurs propres bases de données et à en faire usage dans le cadre de la tenue et de la gestion de leurs bases de données et de leurs échanges avec le Référentiel cantonal;
+- b) transmettre au Référentiel cantonal les identifiants sectoriels des personnes et organisations issus de leurs bases de données métier ainsi que les métadonnées de provenance. Le système ne peut les utiliser que pour assurer des correspondances entre les données métier et les données du Référentiel cantonal à des fins d'arbitrage, d'identification et de mise à jour automatique des données.
+
+<sup>4</sup> L'identifiant unique cantonal et les identifiants sectoriels ainsi que le numéro AVS transmis au Référentiel cantonal par un organe public ne peuvent pas être transmis à un autre organe public ni à tout autre tiers non autorisé.
+
+#### Art. A3-2
+
+**Identification unique**
+
+<sup>1</sup> Le Référentiel cantonal assure l'identification unique des personnes et organisations recensées. Il met en œuvre les traitements nécessaires à cette fin.
+
+#### Art. A3-3
+
+**Utilisation du numéro AVS**
+
+<sup>1</sup> Les organes autorisés à faire usage du numéro AVS ne peuvent l'utiliser dans le cadre de leurs échanges avec le Référentiel cantonal que dans la mesure où le droit fédéral le permet.
+
+<sup>2</sup> Le numéro AVS peut être utilisé aux mêmes conditions à des fins d'identification.
+
+#### Art. A3-4
+
+**Appariements de données pour assurer la gouvernance**
+
+<sup>1</sup> Les données de référence qui proviennent des organes contributeurs de données au sens de l'article A2-1 et pour lesquelles une convention de partage a été conclue sont systématiquement appariées entre elles.
+
+<sup>2</sup> Les opérations d'appariement servent uniquement à:
+
+- a) observer la consistance réelle des données partageables dans les systèmes d'information des organes contributeurs de données;
+- b) apprécier le niveau de maturité en matière de gouvernance des données des organes contributeurs de données;
+- c) faire émerger les divergences et les incohérences des données référentielles en comparant les sources provenant de différents systèmes d'information en vue de procéder au nettoyage des données contradictoires;
+- d) faire émerger plus largement les risques de confusion entre les personnes ou organisations recensées en vue de leur traitement.
+
+<sup>3</sup> Les résultats des appariements réalisés peuvent également être utilisés pour consolider, compléter et mettre à jour les données du Référentiel cantonal ou d'un des systèmes d'information d'un des organes contributeurs de données, à la condition qu'il soit habilité à traiter les données en question conformément à la loi.
+
+#### Art. A3-5
+
+**Exécution et supervision des opérations d'appariement**
+
+<sup>1</sup> En principe, les opérations d'appariement sont réalisées de manière automatique selon les règles et les processus spécifiés par l'intendant ou l'intendante du Référentiel cantonal. Les modalités sont précisées dans un règlement d'utilisation.
+
+<sup>2</sup> Dans des cas d'espèce, l'intendant ou l'intendante du Référentiel cantonal peut procéder manuellement à des opérations d'appariement. Moyennant l'accord préalable de la Commission et de son ou sa supérieur‑e hiérarchique, l'intendant ou l'intendante peut désigner d'autres personnes pour procéder à ces opérations.
+
+<sup>3</sup> Toute personne qui participe aux opérations d'appariement doit jouir d'une réputation irréprochable, ne pas faire l'objet d'un acte de défaut de biens et ne pas avoir été condamnée pénalement pour des faits incompatibles avec cette tâche. Elle doit en outre disposer des connaissances nécessaires garantissant le traitement correct des données des points de vue de la technique et de la méthode.
+
+<sup>4</sup> L'intendant ou l'intendante du Référentiel cantonal ainsi que toute personne qui participe aux opérations d'appariement sont tenus de respecter strictement les exigences en matière de protection des données et de garder le secret sur tous les faits dont ils ont connaissance dans l'accomplissement de leurs tâches.
+
+## A4 ANNEXE 4 – Accès aux données du Référentiel cantonal et utilisation (art. 8)
+
+#### Art. A4-1
+
+**Accès aux données du Référentiel cantonal**
+
+<sup>1</sup> Seuls les personnes, les applications ou les processus autorisés ont accès aux données qui leur sont destinées. Les accès sont accordés individuellement et ne peuvent être ni partagés ni échangés.
+
+<sup>2</sup> Le périmètre et le catalogue des données sont déterminés conformément aux exigences de la législation en matière de protection des données.
+
+<sup>3</sup> L'accès aux données provenant des registres fédéraux se fait aux conditions des bases légales fédérales.
+
+#### Art. A4-2
+
+**Convention d'accès aux données du Référentiel cantonal**
+
+<sup>1</sup> L'accès aux données du Référentiel cantonal est accordé sur la base d'une convention conclue entre l'organe public et la Commission. Le comité de conformité est consulté lorsque cela s'avère nécessaire.
+
+<sup>2</sup> La convention indique au minimum:
+
+- a) le type de données autorisées;
+- b) le périmètre des données autorisées;
+- c) le catalogue des données autorisées;
+- d) un descriptif des personnes, des applications et des processus autorisés à accéder aux données;
+- e) la finalité des accès;
+- f) les mesures de sécurité et de contrôle à respecter.
+
+<sup>3</sup> La convention d'accès est valable jusqu'à la fin de la phase pilote. Elle peut être renouvelée à l'issue de celle-ci conformément à une procédure spécialement établie par la loi.
+
+#### Art. A4-3
+
+**Accès à des données fournies volontairement par la personne concernée**
+
+<sup>1</sup> L'organe public qui souhaite accéder à une donnée personnelle transmise au Référentiel cantonal conformément à l'article 7 al. 2 de l'ordonnance peut adresser une demande à la personne concernée pour que celle-ci lui en accorde l'accès et l'utilisation sur la base de son consentement libre et éclairé. En principe, la procédure est exécutée par le guichet de cyberadministration.
+
+#### Art. A4-4
+
+**Authentification et contrôle d'accès**
+
+<sup>1</sup> L'accès aux données du Référentiel cantonal est protégé par un dispositif comprenant:
+
+- a) une procédure d'authentification adaptée aux standards et bonnes pratiques consistant au moins en une authentification au moyen d'un nom d'utilisateur et d'un mot de passe;
+- b) un système de contrôle individuel des accès.
+
+<sup>2</sup> Les autorisations individuelles d'accès sont attribuées en fonction des rôles et des tâches que les systèmes ainsi que les utilisateurs et utilisatrices sont appelés à exécuter.
+
+#### Art. A4-5
+
+**Droits des utilisateurs et utilisatrices du Référentiel cantonal**
+
+<sup>1</sup> A condition qu'ils aient déclaré leurs fichiers conformément à la loi sur la protection des données, les organes ayant conclu une convention d'accès aux données du Référentiel cantonal disposent, en lien avec leurs propres bases de données, des mêmes droits que ceux qui sont décrits à l'article A3-1.
+
+#### Art. A4-6
+
+**Matrice des droits d'accès aux données du Référentiel cantonal**
+
+<sup>1</sup> Le Référentiel cantonal établit et tient à jour automatiquement la liste des autorisations accordées sur les données qu'il partage.
+
+#### Art. A4-7
+
+**Traitement de données à des fins ne se rapportant pas à la personne**
+
+<sup>1</sup> Sur décision du Conseil d'Etat ou d'une Direction, le SStat est autorisé à traiter les données du Référentiel cantonal à des fins de statistique, de planification ou de recherche scientifique, conformément aux dispositions de la législation sur la statistique et sur la protection des données.
+
+## A5 ANNEXE 5 – Sécurité, protection des données et surveillance (art. 10)
+
+#### Art. A5-1
+
+**En général**
+
+<sup>1</sup> La protection des données du Référentiel cantonal est harmonisée avec les mesures visant à assurer la sécurité de l'information en général ainsi qu'avec les mesures prises à titre de sécurité informatique. Les mesures de sécurité informatique concrètes sont proposées et mises en œuvre par le SITel en fonction des risques et des technologies existantes.
+
+#### Art. A5-2
+
+**Journalisation et traçabilité des opérations de traitement**
+
+<sup>1</sup> Les opérations de traitement sur les données du Référentiel cantonal font l'objet d'une procédure de journalisation permettant d'analyser les accès aux données, de mettre en évidence la survenance de dysfonctionnements et de répondre aux besoins de surveillance.
+
+#### Art. A5-3
+
+**Intervention et préavis de l'Autorité cantonale de la transparence et de la protection des données**
+
+<sup>1</sup> L'ATPrD a accès en tout temps à toutes les informations qu'elle réclame concernant la mise en œuvre, l'exploitation et la maintenance du Référentiel cantonal. Elle peut procéder ou faire procéder à des audits pour vérifier que les exigences en matière de protection des données soient respectées.
+
+<sup>2</sup> L'ATPrD est en outre invitée à donner son préavis à chaque étape clé de la phase pilote. Constituent notamment une étape clé:
+
+- a) l'élaboration de règlements d'utilisation;
+- b) l'élaboration des projets de convention entre la Commission et un organe contributeur ou consommateur de données;
+- c) toute décision d'une certaine importance qui influence de façon décisive le déroulement et l'organisation de la phase pilote.
+
+2019\_053

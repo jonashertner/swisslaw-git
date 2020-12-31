@@ -1,0 +1,304 @@
+---
+canton: FR
+number: "141.1.1"
+title: "Loi relative à l'encouragement aux fusions de communes"
+short: LEFC
+language: fr
+version: 2020-07-01
+version_adopted: 2020-06-25
+adopted: 2010-12-09
+in_force: 2012-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/141.1.1"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7099/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi relative à l'encouragement aux fusions de communes
+
+Encouragement aux fusions de communes – L
+
+(LEFC)
+
+du 09.12.2010 (version entrée en vigueur le 01.07.2020)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu l'article 135 al. 1 de la Constitution du canton de Fribourg du 16 mai 2004;
+
+Vu le message du Conseil d'Etat du 21 septembre 2010;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet et champ d'application**
+
+<sup>1</sup> La présente loi définit notamment les objectifs de l'encouragement aux fusions volontaires de communes ainsi que les moyens mis à disposition par l'Etat.
+
+<sup>1<sup>bis</sup></sup> Elle a également pour objet de promouvoir la fusion des communes du Grand Fribourg.
+
+<sup>2</sup> La procédure de fusions de communes est régie par la loi sur les communes (LCo).
+
+<sup>3</sup> En cas de fusion intercantonale, le Conseil d'Etat convient avec le canton concerné des règles à appliquer et approuve les accords de collaboration (art. 132 al. 2 LCo). La présente loi est applicable à titre supplétif. Les dispositions fédérales restent réservées.
+
+#### Art. 2
+
+**Objectifs de l'encouragement aux fusions**
+
+<sup>1</sup> L'encouragement aux fusions de communes vise les objectifs suivants:
+
+- a) renforcement de l'autonomie communale;
+- b) accroissement des capacités des communes;
+- c) accomplissement efficace des prestations communales;
+- d) renforcement du centre cantonal.
+
+#### Art. 3
+
+**Conseil et assistance**
+
+<sup>1</sup> En cas de besoin, le préfet, le Service chargé des communes[^3-1] (ci-après: le Service) et les autres instances cantonales conseillent, à titre gratuit, les communes désireuses de fusionner.
+
+[^3-1]: Actuellement: Service des communes.
+
+#### Art. 4
+
+**Plan de fusions – Principe**
+
+<sup>1</sup> Les fusions de communes sont proposées sur la base d'un plan de fusions établi dans chaque district.
+
+<sup>2</sup> La Direction en charge des communes[^4-1] (ci-après: la Direction) édicte des directives et recommandations applicables à l'élaboration des plans de fusions.
+
+[^4-1]: Actuellement: Direction des institutions, de l'agriculture et des forêts.
+
+#### Art. 5
+
+**Plan de fusions – Elaboration**
+
+<sup>1</sup> Le préfet soumet toutes les communes de son district à une analyse afin de déterminer, pour chacune d'entre elles, dans quelle mesure elles satisfont aux exigences énoncées à l'article 2. Il élabore en collaboration avec les communes un projet de plan de fusions englobant toutes les communes sur la base de cette évaluation.
+
+<sup>2</sup> Dans un délai maximal de six mois à compter de l'entrée en vigueur de la présente loi, il présente à la Direction un rapport contenant le résultat des évaluations réalisées, ses conclusions et son projet de plan de fusions.
+
+<sup>3</sup> Après consultation des autres Directions du Conseil d'Etat, la Direction peut:
+
+- a) demander au préfet d'approfondir certains aspects de l'évaluation, des conclusions et du projet de plan de fusions présenté;
+- b) compléter le projet de plan de fusions sur la base des documents existants.
+
+#### Art. 6
+
+**Plan de fusions – Plusieurs districts**
+
+<sup>1</sup> Le projet de plan de fusions signale d'éventuelles possibilités de fusions avec une ou des communes d'un district voisin.
+
+<sup>2</sup> Les communes et les préfets des districts voisins collaborent.
+
+#### Art. 7
+
+**Plan de fusions – Détermination des communes et approbation**
+
+<sup>1</sup> Sur mandat de la Direction, le préfet présente aux conseils communaux concernés l'évaluation, les conclusions et le projet de plan de fusions. Tous les membres des conseils communaux sont convoqués à cette présentation.
+
+<sup>2</sup> Chaque conseil communal adresse au préfet sa détermination motivée sur l'évaluation, les conclusions et la ou les fusions proposées.
+
+<sup>3</sup> Après la consultation des communes, la Direction soumet le projet de plan de fusions avec ses recommandations au Conseil d'Etat pour approbation.
+
+<sup>4</sup> Le Conseil général et la population sont informés par le conseil communal, en présence du préfet, des objectifs à atteindre par la commune, de l'évaluation réalisée par le préfet, des conclusions de celui-ci, de la ou des fusions proposées ainsi que de la détermination du conseil communal. Le public a accès aux documents y relatifs.
+
+#### Art. 8
+
+**Plan de fusions – Rapport intermédiaire**
+
+<sup>1</sup> Deux ans après l'approbation du plan de fusions, la Direction évalue son impact. Elle se fonde sur les constatations du préfet qui comprennent notamment:
+
+- a) l'analyse de l'état des procédures de fusions en cours;
+- b) l'analyse des projets de fusions restés sans initiative (art. 133a LCo);
+- c) les conclusions.
+
+<sup>2</sup> Le Conseil d'Etat soumet ensuite au Grand Conseil un rapport intermédiaire.
+
+#### Art. 9
+
+**Aide financière – Principe et champ d'application**
+
+<sup>1</sup> L'Etat encourage les fusions volontaires par le versement d'une aide financière.
+
+<sup>2</sup> Il n'existe aucun droit à l'obtention de l'aide financière.
+
+#### Art. 10
+
+**Aide financière – Calcul**
+
+<sup>1</sup> L'aide financière correspond à la somme des montants obtenus en multipliant, pour chaque commune concernée, le montant de base individuel par le multiplicateur.
+
+#### Art. 11
+
+**Aide financière – Montant de base**
+
+<sup>1</sup> Le montant de base s'élève à 200 francs par commune, multiplié par le chiffre de sa population légale.
+
+<sup>2</sup> Le chiffre de la population légale retenu est celui qui est établi au moment de l'entrée en vigueur de la modification du 25 juin 2020 de la présente loi.
+
+#### Art. 12
+
+**Aide financière – Multiplicateur**
+
+<sup>1</sup> Le multiplicateur équivaut à 1,0 unité.
+
+<sup>2</sup> Lorsque deux communes fusionnent, le multiplicateur n'est pas majoré. Il est majoré de 0,1 unité pour chaque commune supplémentaire.
+
+#### Art. 13
+
+**Aide financière – Octroi unique**
+
+<sup>1</sup> L'aide financière octroyée conformément à la présente loi ne peut être accordée qu'une seule fois par commune.
+
+#### Art. 14
+
+**Aide financière – Procédure**
+
+<sup>1</sup> Les communes qui envisagent une fusion présentent au Conseil d'Etat un projet de convention signé par les conseils communaux intéressés.
+
+<sup>2</sup> Le Conseil d'Etat communique le montant provisoire de l'aide financière.
+
+<sup>3</sup> Une fois acceptée par les communes, la convention de fusion est transmise au Conseil d'Etat. L'approbation de la fusion est décidée par le Grand Conseil, sur la proposition du Conseil d'Etat.
+
+<sup>4</sup> L'aide financière est versée dans l'année qui suit l'entrée en vigueur de la fusion, dans les limites des moyens mis à disposition par la présente loi. Le versement suit l'ordre des décisions des corps électoraux approuvant la convention de fusion.
+
+<sup>5</sup> Les dispositions de la loi sur les subventions (LSub) sont réservées.
+
+#### Art. 15
+
+**Financement**
+
+<sup>1</sup> L'Etat accorde des aides financières pour un montant total de 50 millions de francs.
+
+#### Art. 16
+
+**Modification**
+
+<sup>1</sup> La loi du 25 septembre 1980 sur les communes (RSF 140.1) est modifiée comme il suit:
+
+...
+
+#### Art. 17
+
+**Exécution**
+
+<sup>1</sup> Les communes qui envisagent une fusion et souhaitent bénéficier d'une aide financière doivent transmettre leur demande au Conseil d'Etat, conformément à l'article 14 al. 1. Les votes aux urnes doivent avoir lieu dans les délais prévus par l'article 134d al. 4 et 5 LCo.
+
+<sup>2</sup> Les demandes peuvent être présentées pour des fusions ayant lieu à partir du 1<sup>er</sup> janvier 2011.
+
+## 2 Fusion des communes du Grand Fribourg
+
+#### Art. 17a
+
+**Définition du Grand Fribourg**
+
+<sup>1</sup> Le Grand Fribourg comprend les communes situées dans le périmètre provisoire déterminé par le Conseil d'Etat en application de la présente loi.
+
+<sup>2</sup> Ce périmètre regroupe le territoire de la commune de Fribourg ainsi que le territoire des communes:
+
+- a) qui sont étroitement liées entre elles, notamment des points de vue urbanistique, économique et culturel,
+- b) et réunissent ensemble au moins 50'000 habitants et habitantes.
+
+#### Art. 17b
+
+**Introduction de la procédure**
+
+<sup>1</sup> A la requête des conseils communaux ou de l'organe législatif ou du dixième des citoyens actifs et citoyennes actives d'au moins deux communes, dont la commune de Fribourg et une de ses communes limitrophes, le Conseil d'Etat détermine le périmètre provisoire du Grand Fribourg.
+
+<sup>2</sup> Lorsque la demande émane des citoyens et citoyennes, les règles de la loi sur l'exercice des droits politiques relatives à l'initiative en matière communale sont applicables par analogie dans chaque commune initiatrice, à l'exception de celles qui ont trait au nombre de signatures requises ainsi qu'à la transmission et à la validation de l'initiative. Les initiatives qui ont abouti sont transmises au Conseil d'Etat par le conseil communal de chaque commune ou par le comité d'initiative.
+
+<sup>3</sup> Le Conseil d'Etat consulte notamment toutes les communes susceptibles d'être intégrées au périmètre du Grand Fribourg ainsi que le ou les préfets concernés.
+
+#### Art. 17c
+
+**Assemblée constitutive – Composition**
+
+<sup>1</sup> Chaque commune désignée conformément à l'article précédent a droit à deux délégué-e-s jusqu'à 1000 habitants et habitantes, trois délégué-e-s entre 1001 et 5000 habitants et habitantes, puis à un ou une délégué-e supplémentaire pour chaque tranche ou fraction de 5000 habitants et habitantes. Une commune ne peut disposer de plus de la moitié des délégué-e-s.
+
+<sup>2</sup> Le conseil communal désigne un ou une délégué-e de la commune parmi ses membres. Les autres délégué-e-s sont, dans chaque commune, élus au scrutin populaire.
+
+<sup>3</sup> Le mandat des délégué-e-s court jusqu'à la dissolution de l'assemblée constitutive. Le mandat des délégué-e-s désignés par le conseil communal est toutefois limité à la législature communale; si les travaux se poursuivent au-delà d'une législature, leur mandat doit être renouvelé.
+
+#### Art. 17d
+
+**Assemblée constitutive – Organisation**
+
+<sup>1</sup> Le préfet de la Sarine préside l'assemblée constitutive. Si plusieurs districts sont concernés, le ou les autres préfets participent aux séances de l'assemblée constitutive avec voix consultative.
+
+<sup>2</sup> Pour le surplus, l'assemblée constitutive s'organise elle-même et se donne un règlement. Elle fixe une clé de répartition des frais de constitution du Grand Fribourg entre les communes, avec un soutien financier, logistique et administratif accordé par l'Etat pour son fonctionnement. L'aide financière de l'Etat s'élève à 50% des frais de l'assemblée constitutive, mais au maximum à 200'000 francs par année.
+
+#### Art. 17e
+
+**Assemblée constitutive – Attributions**
+
+<sup>1</sup> L'assemblée constitutive élabore le projet de convention de fusion en arrêtant, en particulier, les aspects financiers, le nom et les armoiries de la nouvelle commune ainsi que les éventuelles clauses dérogatoires et obligations conventionnelles (art. 136a et 142a ss LCo).
+
+<sup>2</sup> Le projet de convention peut prévoir que la nouvelle commune se dotera d'un règlement de portée générale selon lequel elle sera divisée en cercles électoraux au sens de l'article 46a de la loi du 6 avril 2001 sur l'exercice des droits politiques.
+
+<sup>3</sup> Le projet de convention peut prévoir que la nouvelle commune se dotera d'un règlement de portée générale selon lequel elle sera divisée en arrondissements administratifs au sens de l'article 82a LCo.
+
+#### Art. 17f
+
+**Modification du périmètre provisoire**
+
+<sup>1</sup> Le périmètre provisoire déterminé par le Conseil d'Etat peut être modifié par une décision prise à la majorité des deux tiers des délégué-e-s présents.
+
+<sup>2</sup> En outre, une commune qui n'est pas membre de l'assemblée constitutive peut être intégrée dans le périmètre provisoire si elle en a fait la demande à l'assemblée constitutive. Cette demande peut être faite par le conseil communal ou par le dixième des citoyens actifs et citoyennes actives de la commune.
+
+#### Art. 17g
+
+**Approbation par le Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat approuve le projet de convention s'il est conforme aux droits cantonal et fédéral.
+
+#### Art. 17h
+
+**Scrutin populaire**
+
+<sup>1</sup> Le projet de convention approuvé par le Conseil d'Etat est soumis au vote des citoyens et citoyennes des communes comprises dans le périmètre du Grand Fribourg retenu par la convention.
+
+<sup>2</sup> Le président ou la présidente de l'assemblée constitutive fixe la date du scrutin, laquelle doit être la même pour toutes les communes.
+
+<sup>3</sup> Le conseil communal de chaque commune intéressée organise au moins une séance publique d'information sur le projet de convention.
+
+<sup>4</sup> La convention de fusion doit être approuvée par chacune des communes concernées.
+
+<sup>5</sup> Si la convention n'est pas approuvée par chacune des communes concernées, un second projet peut être élaboré et mis en votation populaire dans le délai de deux ans dès le rejet du premier projet. Ce second projet peut concerner un périmètre différent de celui du premier projet. Ce périmètre doit toutefois être soumis à l'approbation préalable du Conseil d'Etat. La composition de l'assemblée constitutive est adaptée en conséquence.
+
+<sup>6</sup> Pour le surplus, les règles de la loi sur les communes s'appliquent par analogie.
+
+#### Art. 17i
+
+**Procédure extraordinaire**
+
+<sup>1</sup> Si le projet de convention ne lui est pas remis pour approbation dans les trois ans dès la détermination du périmètre provisoire du Grand Fribourg, le Conseil d'Etat élabore un projet de convention. Il peut toutefois prolonger ce délai, mais de quatre ans au maximum.
+
+<sup>2</sup> Si un second projet est élaboré, le Conseil d'Etat peut prolonger le délai prévu à l'article 17h al. 5, mais de deux ans au maximum.
+
+<sup>3</sup> Il soumet le projet de convention au scrutin populaire, après avoir entendu les autorités des districts et des communes intéressés.
+
+#### Art. 17j
+
+**Dissolution de l'assemblée constitutive**
+
+<sup>1</sup> L'assemblée constitutive est dissoute à la suite du scrutin populaire. L'article 17h al. 5 est réservé.
+
+## 3 Disposition finale
+
+#### Art. 18
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^18-1]
+
+<sup>2</sup> La présente loi est soumise au referendum financier obligatoire.
+
+[^18-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 2012 (ACE 31.05.2011).
+
+2010\_150

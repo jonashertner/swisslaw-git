@@ -1,0 +1,51 @@
+---
+canton: FR
+number: "842.1.23"
+title: Verordnung zur Festsetzung des Rahmentarifs gemäss Artikel 48 KVG für die Einkaufsgemeinschaft HSK AG
+language: de
+version: 2016-01-01
+version_adopted: 2025-05-13
+adopted: 2025-05-13
+in_force: 2016-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/842.1.23"
+pdf: "https://bdlf.fr.ch/api/de/versions/8191/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zur Festsetzung des Rahmentarifs gemäss Artikel 48 KVG für die Einkaufsgemeinschaft HSK AG
+
+vom 13.05.2025 (Fassung in Kraft getreten am 01.01.2016)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG), insbesondere Artikel 48;
+
+gestützt auf das Preisüberwachungsgesetz vom 20. Dezember 1985 (PüG);
+
+in Erwägung:
+
+Gemäss Art. 48 KVG legt die Genehmigungsbehörde bei der Genehmigung von Tarifverträgen mit Ärzteverbänden und nach Anhörung der Vertragsparteien einen Rahmentarif fest, dessen Mindestansätze unter und dessen Höchstansätze über denjenigen des genehmigten Vertragstarifes liegen. Der Rahmentarif tritt beim Wegfall des Tarifvertrages in Kraft. In seiner Verordnung vom 16. Februar 2016 zur Genehmigung des kantonalen Tarifvertrags TARMED zwischen der Ärztegesellschaft des Kantons Freiburg (MFÄF) und der Einkaufsgemeinschaft HSK AG hatte der Staatsrat jedoch keinen Rahmentarif festgelegt, da er diese Praxis wie viele andere Kantone für überholt hielt.
+
+In einem Urteil vom 12. Juni 2024 (C-2510/2021, C-2513/2021), das den Kanton Waadt betrifft, wies das Bundesverwaltungsgericht jedoch auf die Verpflichtung der Kantone hin, bei Tarifgenehmigungen mit Ärzteverbänden den Rahmentarif festzulegen. Um der Rechtsprechung Rechnung zu tragen, legt der Staatsrat hiermit den Rahmentarif fest, der für die von der Einkaufsgemeinschaft HSK AG vertretenen Krankenversicherer gilt.
+
+Die Vertragsparteien wurden gemäss Artikel 48 Abs. 1 KVG angehört, und ihre Antworten werden in der vorliegenden Verordnung berücksichtigt.
+
+Gemäss PüG wurde die Preisüberwachung zum Tarif angehört. Die zuständige Behörde führt die Stellungnahme der Preisüberwachung in ihrem Entscheid an. Folgt sie ihr nicht, so muss sie dies begründen.
+
+Die Preisüberwachung hat auf eine Empfehlung verzichtet.
+
+Wie im noch immer geltenden Rahmentarif der Verordnung vom 19. Januar 2010 zur Genehmigung des Vertrags über den Taxpunktwert TARMED für 2009 und 2010 zwischen santésuisse und der Ärztegesellschaft des Kantons Freiburg festgelegt wurde, liegt die Untergrenze des Rahmentarifs bei Fr. 0.02 unter dem ausgehandelten Taxpunktwert und die Obergrenze bei Fr. 0.02 darüber.
+
+Auf Antrag der Direktion für Gesundheit und Soziales,
+
+beschliesst:
+
+#### Art. 1
+
+<sup>1</sup> Der Rahmentarif wird wie folgt festgesetzt:
+
+- a) Mindestansatz: Fr. 0.02 unter dem ausgehandelten Taxpunktwert;
+- b) Höchstansatz: Fr. 0.02 über dem ausgehandelten Taxpunktwert.
+
+2025\_026

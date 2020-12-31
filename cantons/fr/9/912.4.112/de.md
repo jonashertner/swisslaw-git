@@ -1,0 +1,119 @@
+---
+canton: FR
+number: "912.4.112"
+title: Verordnung ILFD über die Organisation und die Arbeitsweise der Kommission für die Degustation von Weinen mit kontrollierter Ursprungsbezeichnung
+language: de
+version: 2009-10-01
+valid_until: 2021-12-31
+version_adopted: 2009-10-01
+adopted: 2009-10-01
+in_force: 2009-10-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/912.4.112"
+pdf: "https://bdlf.fr.ch/api/de/versions/5681/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung ILFD über die Organisation und die Arbeitsweise der Kommission für die Degustation von Weinen mit kontrollierter Ursprungsbezeichnung
+
+Kommission für die Degustation von AOC Weinen – V
+
+vom 01.10.2009 (Fassung in Kraft getreten am 01.10.2009)
+
+Die Direktion der Institutionen und der Land- und Forstwirtschaft
+
+gestützt auf die Verordnung vom 1. Oktober 2009 über die Reben und den Wein;
+
+gestützt auf das Reglement vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates (KomR);
+
+beschliesst:
+
+#### Art. 1
+
+**Bezeichnung**
+
+<sup>1</sup> Gemäss Artikel 31 der Verordnung vom 1. Oktober 2009 über die Reben und den Wein werden die Mitglieder der Kommission für die Degustation von Weinen mit kontrollierter Ursprungsbezeichnung AOC (die Kommission) wie folgt bezeichnet:
+
+- a) je zwei Mitglieder und zwei Stellvertreterinnen oder Stellvertreter, die in den Rebbergen Vully bzw. Cheyres/Font beruflich als Winzerin oder Winzer, Weinküferin oder Weinküfer oder Önologin oder Önologe tätig sind;
+- b) zwei Mitglieder und zwei Stellvertreterinnen oder Stellvertreter aus dem Gastgewerbe und aus Konsumentenkreisen.
+
+#### Art. 2
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Kommission ist nur beschlussfähig, wenn nebst der Präsidentin oder dem Präsidenten zwei Mitglieder aus den Rebbergen, aus denen die zur Degustation präsentierten Weine stammen, sowie zwei weitere Mitglieder anwesend sind.
+
+#### Art. 3
+
+**Organisation**
+
+<sup>1</sup> Das Amt für Landwirtschaft führt das Sekretariat der Kommission und organisiert die Degustationen; es untersteht dabei der Aufsicht der Präsidentin oder des Präsidenten. Namentlich für Probenahmen kann es das Fachpersonal des Amts für Lebensmittelsicherheit und Veterinärwesen beiziehen.
+
+#### Art. 4
+
+**Probenahmen**
+
+<sup>1</sup> Die Proben werden nach dem Zufallsprinzip direkt am Ort der Einkellerung entnommen.
+
+<sup>2</sup> Von jedem Wein werden drei Proben entnommen, wobei alle Proben aus demselben Traubenposten stammen müssen, und es wird ein Protokoll erstellt. Jedem Wein, dem eine Probe entnommen wurde, wird eine Nummer zugeteilt.
+
+<sup>3</sup> Es kann jeder Sorte von Wein, der zur Vermarktung bestimmt ist, eine Probe entnommen werden; der Wein, von dem Proben entnommen werden, muss in Flaschen abgefüllt sein.
+
+<sup>4</sup> In jedem Betrieb oder jeder Firma werden im Durchschnitt alle drei Jahre Proben entnommen.
+
+<sup>5</sup> In Betrieben, bei denen im Laufe des Jahres mindestens ein Wein zurückgewiesen wurde, werden im darauffolgenden Jahr zwangsläufig eine oder mehrere Proben entnommen.
+
+<sup>6</sup> Die Kommission kann verlangen, dass Stichproben auch ausserhalb des Weinkellers entnommen werden, z. B. im Handel oder anlässlich von Veranstaltungen.
+
+#### Art. 5
+
+**Degustation und Analyse**
+
+<sup>1</sup> Die Weine werden mit einer Nummer versehen und der Kommission in einer Blinddegustation unterbreitet.
+
+<sup>2</sup> Jede Degustationsteilnehmerin und jeder Degustationsteilnehmer beurteilt die Weine auf einem eigens dafür vorgesehenen Formular wie folgt:
+
+- a) zugelassen (reintönig, gesetzeskonform, verkehrsfähig);
+- b) abgewiesen, mit Begründung.
+
+<sup>3</sup> Die Präsidentin oder der Präsident sichtet die Formulare und teilt der Kommission für jeden Wein die Ergebnisse mit.
+
+<sup>4</sup> Das Amt für Landwirtschaft nimmt die von der Kommission verlangten Analysen vor.
+
+#### Art. 6
+
+**Degustationsergebnisse**
+
+<sup>1</sup> Jede Degustation wird in einem schriftlichen internen Bericht festgehalten, der von der Präsidentin oder dem Präsidenten und einem Kommissionsmitglied, das an der Degustation teilgenommen hat, unterzeichnet wird.
+
+<sup>2</sup> Als qualitativ ungenügend gilt jeder Wein, der von der Mehrheit der Degustationsteilnehmerinnen und –teilnehmer abgewiesen wurde.
+
+<sup>3</sup> Wird ein Wein als qualitativ ungenügend beurteilt, so muss dies im Bericht ausreichend begründet werden.
+
+<sup>4</sup> Das Amt für Landwirtschaft informiert den zuständigen Lieferanten oder den Betrieb, dessen Firmenname auf der Etikette angegeben ist, innerhalb von 10 Tagen nach der Degustation über die Ergebnisse.
+
+<sup>5</sup> Ein abgewiesener Wein kann ein zweites Mal präsentiert werden, wenn er einer geeigneten Behandlung unterzogen worden ist. Das für die erste Degustation vorgesehene Verfahren für die Probenahme und die Degustation gilt auch für die zweite Präsentation.
+
+#### Art. 7
+
+**Rechtsmittel**
+
+<sup>1</sup> Die verantwortliche Person des Betriebs, dessen Wein zurückgewiesen wurde, kann, nachdem sie gegebenenfalls von der Möglichkeit nach Artikel 6 Abs. 5 Gebrauch gemacht hat, den Entscheid der Kommission beim Amt für Landwirtschaft anfechten.
+
+<sup>2</sup> Das Amt für Landwirtschaft lässt eine neue Degustation durchführen, wobei es Expertinnen und Experten wählen kann, die nicht der Kommission angehören.
+
+<sup>3</sup> Der Entscheid des Amts für Landwirtschaft kann gemäss dem Landwirtschaftsgesetz mit Beschwerde angefochten werden.
+
+#### Art. 8
+
+**Ergänzendes Recht**
+
+<sup>1</sup> Im Übrigen gilt das Reglement vom 31. Oktober 2005 über die Organisation und die Arbeitsweise der Kommissionen des Staates.
+
+#### Art. 9
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Oktober 2009 in Kraft.
+
+2009\_114

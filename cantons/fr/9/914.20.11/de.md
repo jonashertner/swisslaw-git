@@ -1,0 +1,281 @@
+---
+canton: FR
+number: "914.20.11"
+title: Ausführungsverordnung zum Gesetz über die Nutztierversicherung
+short: NTVV
+language: de
+version: 2017-05-01
+version_adopted: 2017-03-28
+adopted: 2003-11-03
+in_force: 2004-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/914.20.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/5700/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ausführungsverordnung zum Gesetz über die Nutztierversicherung
+
+Nutztierversicherung – V
+
+(NTVV)
+
+vom 03.11.2003 (Fassung in Kraft getreten am 01.05.2017)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Gesetz vom 13. Februar 2003 über die Nutztierversicherung (NTVG);
+
+auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
+
+beschliesst:
+
+## 1 Sanima
+
+### 1.1 Nutztierversicherung
+
+#### Art. 1
+
+**Ausdehnung des Geltungsbereichs des NTVG (Art. 2 Abs. 2 NTVG)**
+
+<sup>1</sup> Der Geltungsbereich des Gesetzes über die Nutztierversicherung wird auf folgende Gattungen ausgedehnt:
+
+- a) Damhirsche und Rothirsche in Gehegen;
+- b) Lamas und Alpakas.
+
+#### Art. 2
+
+**Ausdehnung der Versicherungsdeckung (Art. 8 Abs. 2 NTVG)**
+
+<sup>1</sup> Bei den unten genannten Seuchen übernimmt die Nutztierversicherungsanstalt (Sanima) die Kosten für die Diagnose, sofern sie in begründeten Fällen vom zuständigen seuchenpolizeilichen Organ angeordnet worden ist, sowie die Entschädigung für den Verlust von Tieren und die Impfkosten wie folgt:
+
+- a) Campylobacteriose (Geflügel, Rinder, Schafe, Ziegen, Schweine): Kosten für Probenahmen und bakteriologische Untersuchungen von Kot und Organen
+- b) Maedi-Visna (Schafe): Kosten für Probenahmen und Laboruntersuchungen
+- c) Chlamydienabort (Schafe, Ziegen): Bei Aborten die Kosten für Probenahmen und Laboruntersuchungen
+- d) Neosporose (Rinder, selten Schafe, Ziegen, Pferde): Bei Aborten die Kosten für Probenahmen und Laboruntersuchungen
+- e) Rauschbrand: Kosten für Probenahmen, Laboruntersuchungen und den Impfstoff; die Tierarztkosten für die Impfung gehen zulasten der Tierhalterin oder des Tierhalters. Nicht geimpfte Tiere, die infolge von Rauschbrand verenden, werden von der Sanima nur entschädigt, wenn der Schaden ausserhalb der Risikozonen nach der Verordnung über die Sömmerungsbedingungen entstanden ist und das Ergebnis der Laboruntersuchung positiv war
+- f) Equine Arteritis (Pferde): Kosten für Probenahmen und Laboruntersuchungen (nur bei Hengsten)
+- g) Salmonella-Infektion (Geflügel, Schweine) (Salmonella Enteritidis und Salmonella Typhimurium): Entschädigung für Tiere, die auf behördliche Anordnung geschlachtet oder abgetan und entsorgt werden müssen, um der Ausbreitung einer Seuche vorzubeugen
+- h) Infektiöse Laryngotracheitis (Hühner): Entschädigung für Tiere, die auf behördliche Anordnung geschlachtet oder abgetan und entsorgt werden müssen, um der Ausbreitung einer Seuche vorzubeugen.
+
+#### Art. 3
+
+**Kostenbeteiligung bei Blitzschlag (Art. 9 Abs. 3 NTVG)**
+
+<sup>1</sup> Die Sanima beteiligt sich an den Kosten für die Entfernung und den Transport von Tieren der Rindergattung, die infolge eines Blitzschlages verenden oder geschlachtet werden, mit einem Pauschalbetrag von 100 Franken. Übersteigen die Kosten in Sonderfällen den Betrag von 300 Franken, so kann die Sanima den darüber liegenden Teil übernehmen. Diese zusätzliche Beteiligung beträgt höchstens 500 Franken pro Schadensfall.
+
+<sup>2</sup> Ein Sonderfall liegt insbesondere vor, wenn der Einsatz eines Helikopters zur Bergung des Tieres notwendig ist.
+
+#### Art. 4
+
+**Kontrollorgan (Art. 18 NTVG)**
+
+<sup>1</sup> Der Staatsrat bezeichnet ein externes Kontrollorgan.
+
+#### Art. 5
+
+**Finanzielle Beteiligung des Staates (Art. 21 Abs. 2 NTVG)**
+
+<sup>1</sup> Die finanzielle Beteiligung des Staates an den Kosten der Bekämpfung von Tierseuchen erstreckt sich auf die Entschädigungen an die Tierhalterinnen und Tierhalter, die Vergütungen an Tierärztinnen und Tierärzte, Bieneninspektorinnen und Bieneninspektoren und Schätzungsexpertinnen und Schätzungsexperten sowie auf die Kosten für Analysen, den Kauf von Impfstoffen, Medikamenten und Desinfektionsmitteln und auf die übrigen Kosten, die mit der Bekämpfung der Tierseuchen verbunden sind.
+
+<sup>2</sup> …
+
+#### Art. 6
+
+**Zählung (Art. 24 NTVG) – Tierhalterinnen und Tierhalter**
+
+<sup>1</sup> Der Zählung unterliegen alle Tierhalterinnen und Tierhalter, die Tiere der Rinder-, der Pferde-, der Schweine-, der Schaf- oder der Ziegengattung sowie Damhirsche oder Rothirsche in Gehegen, Lamas oder Alpakas, Hausgeflügel, Fische in Fischzuchten oder Bienenvölker halten.
+
+#### Art. 7
+
+**Zählung (Art. 24 NTVG) – Zuständigkeit**
+
+<sup>1</sup> Die Zählung erfolgt jährlich im Rahmen der landwirtschaftlichen Erhebungen. Die Direktion der Institutionen und der Land- und Forstwirtschaft (die Direktion) legt die Einzelheiten der Zählung fest.
+
+<sup>2</sup> …
+
+<sup>3</sup> Die Resultate der jährlichen Zählung werden vom Amt für Informatik und Telekommunikation verarbeitet und an die Sanima weitergeleitet.
+
+#### Art. 8
+
+**Zählung (Art. 24 NTVG) – Tierkategorien**
+
+<sup>1</sup> Die gezählten Tiere werden in die folgenden Kategorien eingeteilt:
+
+- a) Tiere der Rindergattung:
+  - 1\. bis 160 Tage alte Tiere;
+  - 2\. 160 bis 730 Tage alte Tiere;
+  - 3\. über 730 Tage alte Tiere.
+- b) Tiere der Pferdegattung:
+  - 1\. Equiden bis 30 Monate sowie Ponys, Kleinpferde und Esel;
+  - 2\. Pferde, Maultiere und Maulesel über 30 Monate.
+- c) Tiere der Schweinegattung:
+  - 1\. Mutterschweine (einschliesslich Saugferkel);
+  - 2\. abgesetzte Ferkel (9–25 kg);
+  - 3\. die übrigen Tiere der Schweinegattung.
+- d) Tiere der Schafgattung:
+  - 1\. Jungschafe bis 1-jährig;
+  - 2\. Schafe und Widder über 1-jährig.
+- e) Tiere der Ziegengattung:
+  - 1\. Jungziegen bis 1-jährig sowie Zwergziegen;
+  - 2\. Ziegen und Ziegenböcke über 1-jährig.
+- e<sup>bis</sup>) Damhirsche und Rothirsche in Gehegen:
+  - 1\. Damhirsche jeden Alters;
+  - 2\. Rothirsche jeden Alters.
+- e<sup>ter</sup>) Lamas und Alpakas:
+  - 1\. Lamas bis 2-jährig;
+  - 2\. Lamas über 2-jährig;
+  - 3\. Alpakas bis 2-jährig;
+  - 4\. Alpakas über 2-jährig.
+- f) Geflügel:
+  - 1\. Truthühner und Gänse jeden Alters;
+  - 2\. Junghennen, Junghähne und Küken (ohne Mastpoulets);
+  - 3\. Legehennen, Zuchthennen und hähne (Lege- und Mastlinien);
+  - 4\. Mastpoulets jeden Alters;
+  - 5\. Wachteln;
+  - 6\. andere Kategorien von Hausgeflügel (in Gefangenschaft gehaltenes Geflügel).
+- g) Alle gezählten Fischmengen aus Fischzuchten.
+- h) Alle Bienenvölker.
+
+#### Art. 9
+
+**Versicherungsperiode (Art. 25 NTVG)**
+
+<sup>1</sup> Die Versicherungsperiode beträgt ein Jahr und dauert vom 1. Januar bis 31. Dezember.
+
+#### Art. 10
+
+**Prämien (Art. 26 NTVG)**
+
+<sup>1</sup> Die Sanima berechnet die Jahresprämie und stellt sie den Tierhalterinnen und Tierhaltern, die der Versicherung unterstellt sind, in Rechnung.
+
+<sup>2</sup> Die Sanima berechnet die von den Viehhändlerinnen und Viehhändlern geschuldete Jahresprämie aufgrund ihres üblichen durchschnittlichen Viehbestands und stellt sie in Rechnung. Die Zuständigkeiten der Sanima in Zusammenhang mit den Viehhandelspatenten und der entsprechenden Gebühr nach Artikel 28 Abs. 2 der Tierseuchenverordnung vom 8. April 2014 bleiben vorbehalten.
+
+<sup>3</sup> Die Sanima kann allen Tierhalterinnen und Tierhaltern eine Minimalprämie in Rechnung stellen.
+
+<sup>4</sup> Die Sanima kann von den Tierhalterinnen und Tierhaltern, die die Prämien nicht innert der festgesetzten Frist bezahlen, Mahnkosten und Verzugszinsen von 5 % einfordern.
+
+### 1.2 ...
+
+#### Art. 11-15
+
+**...**
+
+## 2 Lokale Rinderversicherungskassen
+
+#### Art. 16
+
+**Statuten (Art. 41 NTVG)**
+
+<sup>1</sup> Unter Vorbehalt der Vorschriften des Gesetzes und der vorliegenden Verordnung sind für die lokalen Kassen die Bestimmungen ihrer Statuten massgeblich.
+
+<sup>2</sup> Die Statuten werden der Direktion in 3 Exemplaren zur Genehmigung unterbreitet.
+
+#### Art. 17
+
+**Jahresrechnung (Art. 43 NTVG)**
+
+<sup>1</sup> Der Rechnungsabschluss erfolgt jedes Jahr auf den 31. Dezember.
+
+<sup>2</sup> Die Kassiererin oder der Kassier muss die Jahresrechnung bis zum 1. Februar des auf den Abschluss folgenden Jahres dem Vorstand auf dem dazu vorgesehenen Formular unterbreiten.
+
+<sup>3</sup> Vom Tag der Einberufung der Mitglieder zur Generalversammlung an muss die Rechnung an dem vom Vorstand bezeichneten Ort zur Einsicht aufliegen.
+
+<sup>4</sup> Nach ihrer Genehmigung durch die Generalversammlung, spätestens aber am 1. April, wird die Rechnung der Sanima übermittelt.
+
+## 3 Die Rückversicherung bei der Sanima
+
+#### Art. 18
+
+**Anspruch**
+
+<sup>1</sup> Die lokalen Kassen können alle Tiere der Rindergattung, die sie gegen das Risiko von ungeniessbarem Fleisch versichern, für die Dauer von mindestens einem Jahr bei der Sanima rückversichern.
+
+#### Art. 19
+
+**Rückversicherungsantrag**
+
+<sup>1</sup> Die lokale Kasse, die sich rückversichern lassen will, muss der Sanima bis spätestens 30 Tage vor Beginn der neuen Versicherungsperiode einen schriftlichen Antrag zukommen lassen.
+
+<sup>2</sup> Die lokale Kasse, die eine Rückversicherungsvertrag abgeschlossen hat, muss der Sanima bis spätestens 30 Tage nach dem Stichtag der Zählung eine vollständige Liste der bei ihr versicherten Tierhalterinnen und Tierhalter mit Angabe des versicherten Tierbestandes pro Tierhalterin und Tierhalter vorlegen.
+
+#### Art. 20
+
+**Versicherungsperiode**
+
+<sup>1</sup> Die Versicherungsperiode entspricht derjenigen nach Artikel 9 dieser Verordnung.
+
+#### Art. 21
+
+**Prämie**
+
+<sup>1</sup> Die Sanima berechnet die Jahresprämie und stellt sie der rückversicherten lokalen Kasse in Rechnung.
+
+<sup>2</sup> Die Sanima kann von der lokalen Kasse, die die Jahresprämie nicht innert der festgesetzten Frist bezahlt, Mahnkosten und Verzugszinsen von 5 % einfordern.
+
+#### Art. 22
+
+**Pauschalentschädigung (Art. 38 NTVG) – Anspruch**
+
+<sup>1</sup> Wird das Fleisch offiziell als ungeniessbar erklärt und bezahlt die lokale Kasse dem Tierhalter oder der Tierhalterin eine Entschädigung von mindestens 60 % des Schätzungswertes, so vergütet die Sanima der lokalen Kasse eine Pauschalentschädigung.
+
+<sup>2</sup> Die lokale Kasse muss die Pauschalentschädigungen mit den offiziellen Verlustberichten laufend, jedoch spätestens bis 30 Tage nach Ablauf der Versicherungsperiode geltend machen.
+
+<sup>3</sup> Die Verwaltungskommission legt die Höhe der Pauschalentschädigung für jede Tierkategorie jährlich fest.
+
+#### Art. 23
+
+**Pauschalentschädigung (Art. 38 NTVG) – Kürzung oder Verlust des Entschädigungsanspruchs**
+
+<sup>1</sup> Die Sanima kann den Anspruch auf eine Pauschalentschädigung kürzen, wenn die lokale Kasse die Entschädigung nach Ablauf der Frist nach Artikel 22 Abs. 2 geltend macht.
+
+<sup>2</sup> Der Anspruch auf eine Pauschalentschädigung geht verloren, wenn die lokale Kasse den Anspruch nicht innerhalb von zwei Jahren nach Ablauf der Frist nach Artikel 22 Abs. 2 geltend macht.
+
+<sup>3</sup> Wenn die lokale Kasse vorsätzlich oder fahrlässig falsche Angaben gegenüber der Sanima macht oder gegen Bestimmungen des Vertrags verstösst, kann die Sanima die Entschädigung kürzen oder die Auszahlung einer Entschädigung verweigern.
+
+#### Art. 24
+
+**Kündigung des Rückversicherungsvertrages**
+
+<sup>1</sup> Die lokale Kasse kann den Rückversicherungsvertrag unter Einhaltung einer Kündigungsfrist von 30 Tagen auf Ende der Versicherungsperiode schriftlich kündigen.
+
+<sup>2</sup> Bei schwer wiegendem Verschulden im Sinne von Artikel 23 Abs. 3 kann die Sanima den Rückversicherungsvertrag unter Einhaltung einer Frist von 30 Tagen auf das Ende der Versicherungsperiode schriftlich kündigen.
+
+<sup>3</sup> Wird der Vertrag nicht schriftlich gekündigt, so gilt er als stillschweigend um ein Jahr verlängert.
+
+## 4 Schlussbestimmungen
+
+#### Art. 25
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Es werden aufgehoben:
+
+- a) der Ausführungsbeschluss vom 1. Dezember 1987 zum Gesetz über die Viehversicherung (SGF 914.20.11);
+- b) der Beschluss vom 12. Juli 1968 über das Freiburgische Agro-Lebensmittellabor, Veterinärmedizinische Einheit (SFG 914.10.23);
+- c) der Beschluss vom 15. Februar 1983 betreffend die Infektiöse Rhinotracheitis – Infektiöse Vulvovaginitis (IBR-IPV) (SFG 914.11.31);
+- d) der Beschluss vom 4. März 1998 zur Bekämpfung der Caprinen Arthritis-Encephalitis (SFG 914.11.41);
+- e) die Verordnung vom 6. Januar 1993 über die Ergänzungsmassnahmen gegen die ansteckende Pferdemetritis (SFG 914.12.312);
+- f) der Beschluss vom 8. November 1994 über die Bekämpfung der Infektionen von Hühnern durch die Salmonella Enteritidis (SFG 914.13.31);
+- g) der Beschluss vom 23. September 1966 über die Bekämpfung der Myxomatose der Kaninchen (SFG 914.13.51);
+- h) die Verordnung vom 19. Juni 1989 über die Ausdehnung der Schutzzonen gegen die Varroatose der Bienen auf das ganze Kantonsgebiet (SFG 914.14.322);
+- i) die Verordnung vom 1. August 1995 über die Bekämpfung der Varroatose (SFG 914.14.323);
+- j) der Beschluss vom 21. Dezember 1976 betreffend gewisse Massnahmen zur Bekämpfung der Tollwut (SFG 914.15.12);
+- k) die Verordnung vom 17. Juli 1991 zur Bekämpfung der Tollwut (SFG 914.15.121);
+- l) der Beschluss vom 15. Oktober 1991 betreffend die Übernahme der Kosten für die Vorbeugung und die Bekämpfung von weiteren ansteckenden Krankheiten (SFG 914.20.21).
+
+#### Art. 26
+
+**Änderung bisherigen Rechts**
+
+<sup>1</sup> Der Beschluss vom 28. November 1983 betreffend die Entschädigungen der Mitglieder der Kommissionen der Staatsverwaltung (SFG 122.8.41) wird wie folgt geändert:
+
+...
+
+#### Art. 27
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2004 in Kraft.
+
+2003\_147

@@ -1,0 +1,110 @@
+---
+canton: FR
+number: "87.23"
+title: Ordonnance fixant les limites de revenu et de fortune des locataires donnant droit à un abaissement supplémentaire selon la loi encourageant la construction de logements à caractère social
+language: fr
+version: 2005-04-01
+version_adopted: 2005-03-22
+adopted: 2005-03-22
+in_force: 2005-04-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/87.23"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5762/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance fixant les limites de revenu et de fortune des locataires donnant droit à un abaissement supplémentaire selon la loi encourageant la construction de logements à caractère social
+
+Logements à caractère social, abaissement supplémentaire – O
+
+du 22.03.2005 (version entrée en vigueur le 01.04.2005)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 26 septembre 1985 encourageant la construction de logements à caractère social;
+
+Considérant:
+
+La modification du 12 mars 2004 de l'ordonnance fédérale relative à la loi encourageant la construction et l'accession à la propriété (OLCAP) a introduit, pour les locataires en cours de bail, une majoration de 10 % des limites de revenu et de fortune. Le droit cantonal doit être adapté afin de tenir compte des modifications de la législation fédérale.
+
+Sur la proposition de la Direction de l'économie et de l'emploi,
+
+Arrête:
+
+## 1 Disposition générale
+
+#### Art. 1
+
+<sup>1</sup> Les limites de revenu et de fortune sont différenciées selon la période dans laquelle la promesse de subvention a été faite.
+
+## 2 Immeubles pour lesquels la subvention a été promise avant le 1<sup>er</sup> juillet 1990, avec un abaissement de base de 5,1 %
+
+#### Art. 2
+
+<sup>1</sup> Les limites de revenu donnant droit à l'abaissement supplémentaire sont les suivantes:
+
+- a) pour les logements destinés à des familles, le taux de subvention à fonds perdu (canton et commune) est de 0,6 % du coût de revient du logement lorsque le revenu imposable IFD est situé entre 0 et 50'000 francs;
+- b) pour les logements destinés à des personnes âgées, à des invalides ou à des personnes ayant besoin de soins, le taux de subvention à fonds perdu (canton et commune) est de 1,2 % du coût de revient du logement lorsque le revenu imposable IFD est situé entre 0 et 50'000 francs.
+
+<sup>2</sup> Pour chaque enfant mineur ou dont la formation n'est pas achevée et qui est à la charge de la famille ou d'une personne seule, la limite est augmentée de 2500 francs.
+
+#### Art. 3
+
+<sup>1</sup> Les abaissements supplémentaires sont accordés pour les logements occupés par des personnes dont la fortune totale, après déduction des dettes dont l'existence est prouvée, ne dépasse pas 144'000 francs.
+
+<sup>2</sup> Pour chaque enfant mineur ou dont la formation n'est pas achevée et qui est à la charge de la famille ou d'une personne seule, la limite est augmentée de 16'900 francs.
+
+#### Art. 4
+
+<sup>1</sup> Les limites des articles 2 et 3 s'appliquent aux nouveaux contrats de bail et aux contrats en cours lors des contrôles périodiques.
+
+#### Art. 5
+
+<sup>1</sup> Les limites de revenu et de fortune sur les abaissements supplémentaires de la Confédération sont celles qui sont définies par la législation fédérale.
+
+## 3 Immeubles pour lesquels la subvention a été promise après le 1<sup>er</sup> juillet 1990, avec un abaissement de base de 5,3 % ou de 5,6 %
+
+#### Art. 6
+
+<sup>1</sup> Les limites de revenu donnant droit à l'abaissement supplémentaire sont les suivantes:
+
+- a) pour les logements destinés à des familles, le taux de subvention à fonds perdu (canton et commune) est de:
+  - 1\. 1,2 % du coût de revient du logement lorsque le revenu imposable IFD est situé entre 0 et 42'000 francs;
+  - 2\. 0,6 % du coût de revient du logement lorsque le revenu imposable IFD est situé entre 42'001 et 53'000 francs;
+- b) pour les logements destinés à des personnes âgées, à des invalides ou à des personnes ayant besoin de soins, le taux de subvention à fonds perdu (canton et commune) est de 1,2 % du coût de revient du logement lorsque le revenu imposable IFD est situé entre 0 et 50'000 francs.
+
+<sup>2</sup> Pour chaque enfant mineur ou dont la formation n'est pas achevée et qui est à la charge de la famille ou d'une personne seule, la limite est augmentée de 2500 francs.
+
+#### Art. 7
+
+<sup>1</sup> Les abaissements supplémentaires sont accordés pour les logements occupés par des personnes dont la fortune totale, après déduction des dettes dont l'existence est prouvée, ne dépasse pas 144'000 francs.
+
+<sup>2</sup> Pour chaque enfant mineur ou dont la formation n'est pas achevée et qui est à la charge de la famille ou d'une personne seule, la limite est augmentée de 16'900 francs.
+
+#### Art. 8
+
+<sup>1</sup> Les limites des articles 6 et 7 s'appliquent aux nouveaux contrats de bail et aux contrats en cours lors des contrôles périodiques.
+
+#### Art. 9
+
+<sup>1</sup> Les limites de revenu et de fortune sur les abaissements supplémentaires de la Confédération sont celles qui sont définies par la législation fédérale.
+
+## 4 Dispositions transitoires
+
+#### Art. 10
+
+<sup>1</sup> Les locataires dont le contrat de bail a été signé avant le 1<sup>er</sup> janvier 2003 seront informés lors du prochain contrôle annuel que les limites de revenu et de fortune de la présente ordonnance seront appliquées dès le contrôle annuel suivant. Les limites de l'ordonnance du 9 décembre 2002 s'appliquent à titre transitoire.
+
+<sup>2</sup> Cette disposition s'applique aussi aux personnes en formation dont le contrat de bail a été signé avant le 1<sup>er</sup> août 1998.
+
+## 5 Dispositions finales
+
+#### Art. 11
+
+<sup>1</sup> L'ordonnance du 9 décembre 2002 fixant les limites de revenu et de fortune des locataires donnant droit à un abaissement supplémentaire selon la loi encourageant la construction de logements à caractère social (RSF 87.23) est abrogée, sous réserve des dispositions transitoires de la présente ordonnance.
+
+#### Art. 12
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2005.
+
+2005\_031

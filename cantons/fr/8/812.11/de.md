@@ -1,0 +1,894 @@
+---
+canton: FR
+number: "812.11"
+title: Gewässerreglement
+short: GewR
+language: de
+version: 2019-04-01
+valid_until: 2021-12-31
+version_adopted: 2019-04-02
+adopted: 2011-06-21
+in_force: 2011-07-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/812.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/5986/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gewässerreglement
+
+Gewässerreglement
+
+(GewR)
+
+vom 21.06.2011 (Fassung in Kraft getreten am 01.04.2019)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer (GSchG) und die Gewässerschutzverordnung vom 28. Oktober 1998 (GSchV);
+
+gestützt auf das Bundesgesetz vom 21. Juni 1991 über den Wasserbau (WBG) und die Verordnung vom 2. November 1994 über den Wasserbau (WBV);
+
+gestützt auf das Gewässergesetz vom 18. Dezember 2009 (GewG);
+
+gestützt auf das Raumplanungs- und Baugesetz vom 2. Dezember 2008 (RPBG) und dessen Ausführungsreglement vom 1. Dezember 2009 (RPBR);
+
+auf Antrag der Raumplanungs-, Umwelt- und Baudirektion,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gewässerbewirtschaftung**
+
+<sup>1</sup> Die Gewässerbewirtschaftung folgt den Grundsätzen der nachhaltigen Entwicklung.
+
+### 1.1 Vollzugsorgane
+
+#### Art. 2
+
+**Raumplanungs-, Umwelt- und Baudirektion**
+
+<sup>1</sup> Die Raumplanungs-, Umwelt- und Baudirektion (RUBD) führt alle Aufgaben aus, die nicht ausdrücklich einem anderen Vollzugsorgan übertragen werden.
+
+#### Art. 3
+
+**Koordinationsstelle**
+
+<sup>1</sup> Es wird eine Stelle errichtet, die die verschiedenen Aufgaben im Bereich der Gewässerbewirtschaftung koordiniert; zu diesen Aufgaben gehören namentlich:
+
+- a) die Erstellung der Grundlagen und Sachpläne (Art. 3 GewG);
+- b) die Festlegung des Pflichtenhefts für die Ausarbeitung des Richtplans des Einzugsgebiets (Art. 4 GewG);
+- c) die Aufsicht über den qualitativen und quantitativen Zustand der Gewässer (Art. 5 GewG);
+- d) die Organisation der Gewässerschutzpolizei (Art. 49 GSchG).
+
+<sup>2</sup> Sie setzt sich zusammen aus Vertreterinnen und Vertretern der von der Gewässerbewirtschaftung betroffenen Dienststellen und Organe; den Vorsitz hat die Vertreterin oder der Vertreter der RUBD.
+
+#### Art. 4
+
+**Amt für Umwelt**
+
+<sup>1</sup> Das Amt für Umwelt (AfU) ist die für den Gewässerschutz zuständige Fachstelle. Es ist für den Wasserbau an Fliessgewässern und Seen, die Wasserentnahmen aus Gewässern, die Nutzung der öffentlichen Gewässer, die Sicherstellung angemessener Restwassermengen und die Wasserbaupolizei zuständig.
+
+<sup>2</sup> Es erstellt die Grundlagen und die Sachpläne der kantonalen Planung für die ihm übertragenen Aufgaben (Art. 3 Abs. 1 GewG).
+
+<sup>3</sup> Es führt Erhebungen von kantonalem Interesse über die Qualität der ober- und der unterirdischen Gewässer durch. Zu diesem Zweck verfügt das Amt über ein Laboratorium. Es berücksichtigt die Erhebungen und Analysen, die andere Dienststellen in diesem Bereich auf der Grundlage der Vorgaben des Bundes durchführen (Art. 58 GSchG). Das AfU ist befugt, jederzeit und überall Wasserproben zu entnehmen und zu analysieren.
+
+<sup>3<sup>bis</sup></sup> Es führt Erhebungen von kantonalem Interesse über den Wasserhaushalt (Geschiebetrieb, Wasserstand und Abfluss) und den ökomorphologischen Zustand der Fliessgewässer durch.
+
+<sup>4</sup> Es unterteilt das kantonale Gebiet in Gewässerschutzbereiche und hält diese Unterteilung auf dem neuesten Stand (Art. 15 GewG).
+
+<sup>4<sup>bis</sup></sup> Es legt den Gewässerraum fest (minimaler Raumbedarf der Fliessgewässer nach Artikel 25 GewG).
+
+<sup>5</sup> Es ist in Zusammenarbeit mit anderen Stellen für die Gewässerschutzpolizei (Art. 49 GSchG) zuständig.
+
+<sup>6</sup> Es ist befugt, Verstösse bei der Staatsanwaltschaft anzuzeigen.
+
+<sup>7</sup> Es kann technische Richtlinien oder Empfehlungen erlassen.
+
+<sup>8</sup> Es nimmt die Aufgaben wahr, die ihm dieses Reglement überträgt. Es kann Dritte mit der Ausführung gewisser Aufgaben beauftragen.
+
+#### Art. 5
+
+**…**
+
+#### Art. 6
+
+**Oberamtsperson**
+
+<sup>1</sup> Die Oberamtsperson unterstützt die Bemühungen für die gemeindeübergreifende Zusammenarbeit und die regionale Gewässerbewirtschaftung; dazu gehören insbesondere die Ausarbeitung und die Umsetzung des Richtplans des Einzugsgebiets.
+
+#### Art. 7
+
+**Gemeinden**
+
+<sup>1</sup> Die Gemeinden nehmen die Aufgaben wahr, die ihnen das Gesetz, dieses Reglement und der Richtplan des Einzugsgebiets übertragen.
+
+<sup>2</sup> Sie können sich zusammenschliessen, um gemeinsam eine Fachstelle zu führen, die in der Gewässerbewirtschaftung spezialisiert ist.
+
+#### Art. 8
+
+**Weitere Organe**
+
+<sup>1</sup> Die weiteren betroffenen Organe nehmen die Aufgaben wahr, die ihnen das Gesetz und dieses Reglement übertragen.
+
+### 1.2 Verfügungen im Bereich der Gewässerbewirtschaftung
+
+#### Art. 9
+
+**Verfügungen nach Massgabe des Bundesrechts – Fälle**
+
+<sup>1</sup> Im Bereich des Gewässerschutzes wird in folgenden Fällen eine Verfügung verlangt:
+
+- a) Einleitung oder Versickerung von verschmutztem Abwasser (Art. 7 Abs. 1 GSchG);
+- b) Einleitung von nicht verschmutztem Abwasser (Art. 7 Abs. 2 GSchG);
+- c) Einleitung in die öffentliche Kanalisation (Art. 7 Abs. 1 GSchV);
+- d) Beseitigung von Abwasser, das für die Behandlung in einer zentralen Abwasserreinigungsanlage nicht geeignet ist (Art. 12 Abs. 2 GSchG);
+- e) Einleitung von nicht verschmutztem Abwasser, das stetig anfällt, in die öffentliche Kanalisation (Art. 12 Abs. 3 GSchG);
+- f) Genehmigung der Düngerabnahmeverträge (Art. 14 Abs. 5 GSchG);
+- g) Herabsetzung der Düngergrossvieheinheiten (Art. 14 Abs. 6 GSchG);
+- h) Ausnahmen von den Anforderungen an die Nutzfläche (Art. 25 Abs. 5 GSchV);
+- i) Bau-, Umbau-, Erd- und ähnliche Arbeiten in den besonders gefährdeten Bereichen (Art. 19 Abs. 2 GSchG);
+- j) Zurückgeben von Treibgut bei Stauanlagen (Art. 41 GSchG);
+- k) Entwässerung und Erhaltung von Grundwasservorkommen (Art. 43 Abs. 6 GSchG);
+- l) Ausbeutung von Kies, Sand und anderem Material (Art. 44 Abs. 1, Abs. 2 Bst. a und b sowie Abs. 3 GSchG).
+
+<sup>2</sup> Im Bereich der Gewässer wird in folgenden Fällen eine Verfügung verlangt:
+
+- a) Wasserentnahmen aus Fliessgewässern mit ständiger Wasserführung sowie aus Seen oder Grundwasservorkommen, wenn sie die Wasserführung eines Fliessgewässers mit ständiger Wasserführung wesentlich beeinflussen (Art. 29–35 GSchG);
+- b) Verbauung und Korrektion von Fliessgewässern (Art. 37 Abs. 3 GSchG und Art. 4 Abs. 3 WBG);
+- c) Überdecken oder Eindolen von Fliessgewässern (Art. 38 Abs. 2 GSchG);
+- d) Einbringen fester Stoffe in Seen (Art. 39 Abs. 2 GSchG);
+- e) Betriebliche anstelle von baulichen Massnahmen in Wasserkraftwerken (Art. 39a Abs. 1 GSchG);
+- f) Spülung und Entleerung von Stauräumen (Art. 40 Abs. 2 und 3 GSchG);
+- g) Stauanlagen mit geringer Stauhöhe, mit Ausnahme von bestehenden Anlagen (Art. 43 Abs. 5 GSchG);
+- h) Ausbeutung von Kies, Sand und anderem Material in Fliessgewässern (Art. 44 Abs. 1 und Abs. 2 Bst. c GSchG);
+- i) Sanierung der Fliessgewässer, die durch Wasserentnahmen wesentlich beeinflusst werden (Art. 80 und 81 GSchG);
+- j) Sanierung von Wasserkraftwerken und anderen Anlagen an Gewässern (Art. 83a und 83b GSchG).
+
+<sup>3</sup> Das Bewilligungsgesuch muss alle Angaben enthalten, die für die Beurteilung des Projektes notwendig sind.
+
+<sup>4</sup> Die Verfahren werden nach den Grundsätzen von Artikel 1 RPBR koordiniert.
+
+#### Art. 10
+
+**Verfügungen nach Massgabe des Bundesrechts – Zuständigkeit**
+
+<sup>1</sup> Zuständig für die Verfügung ist:
+
+- a) die Direktion der Institutionen und der Land- und Forstwirtschaft in den Fällen nach Artikel 9 Abs. 1 Bst. f–h;
+- b) die RUBD in allen anderen Fällen.
+
+### 1.3 Planung
+
+#### Art. 11
+
+**Sachplan der Wasserentnahmen aus öffentlichen Gewässern (Art. 11 GewG)**
+
+<sup>1</sup> Der Sachplan der Wasserentnahmen aus öffentlichen Gewässern hat namentlich die Wasserversorgung, die Bewässerung der Kulturen und die Stromerzeugung durch Wasserkraft zum Gegenstand.
+
+<sup>2</sup> Er legt die Planung der Sanierungsmassnahmen (Art. 39a, 43a, 80 und 83b GSchG), die Prioritätsordnung sowie die Fristen für die Umsetzung fest.
+
+#### Art. 11a
+
+**Abgrenzung der Einzugsgebiete (Art. 2 Abs. 3 GewG)**
+
+<sup>1</sup> Das Kantonsgebiet wird in fünfzehn Einzugsgebiete unterteilt, in welchen die Gemeinden zusammenarbeiten (Art. 9 Abs. 2 GewG).
+
+<sup>2</sup> Die Perimeter der Einzugsgebiete werden im Anhang 1 des Reglements festgelegt.
+
+## 2 Gewässerschutz
+
+### 2.1 Allgemeines
+
+#### Art. 12
+
+**Gewässerschutzpolizei (Art. 49 GSchG)**
+
+<sup>1</sup> Die Gewässerschutzpolizei hat namentlich folgende Aufgaben:
+
+- a) die Aufsicht über die ober- und unterirdischen Gewässer;
+- b) die Beaufsichtigung des Vollzugs der Vorschriften im Bereich des Gewässerschutzes;
+- c) die Beaufsichtigung des Vollzugs der von den Behörden angeordneten Massnahmen;
+- d) die Anzeige von Verstössen bei der Staatsanwaltschaft.
+
+#### Art. 13
+
+**Anlagen und Einrichtungen (Art. 15 GSchG)**
+
+<sup>1</sup> Die Anlagen und Einrichtungen müssen zwingend unter der Verantwortung von befähigten Personen sowie nach Massgabe der Normen, Richtlinien und Empfehlungen des Verbands Schweizer Abwasser- und Gewässerschutzfachleute (VSA), des Schweizerischen Ingenieur- und Architektenvereins (SIA) sowie des AfU projektiert, gebaut und unterhalten werden.
+
+#### Art. 14
+
+**Verfahren für die Sanierung einer Anlage oder Einrichtung**
+
+<sup>1</sup> Ist eine Sanierung einer Anlage oder Einrichtung nach Artikel 14 GewG nötig, so unterbreitet die Inhaberin oder der Inhaber der Gemeinde und dem AfU innerhalb kurzer Frist ein Sanierungsprojekt zur Prüfung.
+
+<sup>2</sup> Falls das Projekt vom AfU genehmigt wird oder die Inhaberin beziehungsweise der Inhaber kein Sanierungsprojekt unterbreitet, erlässt die RUBD eine Sanierungsverfügung.
+
+<sup>3</sup> Die Sanierungsverfügung wird der Inhaberin oder dem Inhaber der Anlage zugestellt und nötigenfalls im Amtsblatt veröffentlicht.
+
+<sup>4</sup> Führt die Inhaberin oder der Inhaber die Sanierung nicht aus, lässt sie die RUBD auf deren bzw. dessen Kosten ausführen.
+
+<sup>5</sup> Solange die Sanierung nicht verwirklicht wurde, muss die Inhaberin oder der Inhaber alle Massnahmen ergreifen, die für die Einhaltung der Vorschriften im Bereich des Gewässerschutzes nötig sind.
+
+### 2.2 Ableitung und Behandlung der Abwässer
+
+#### Art. 15
+
+**Abnahme des verschmutzten Abwassers von Siedlungen**
+
+<sup>1</sup> Siedlungen mit fünf oder mehr ständig bewohnten Wohngebäuden, die im Prinzip nicht mehr als 100 Meter auseinanderliegen, müssen Teil des Perimeters sein, in dem öffentliche Kanalisationen erstellt werden müssen.
+
+#### Art. 16
+
+**Umsetzung des generellen Entwässerungsplans (GEP) – Koordination mit der Raumplanung**
+
+<sup>1</sup> Das Erschliessungsprogramm (Art. 42 RPBG) integriert die Vorgaben des GEP (Art. 12 Abs. 2 GewG).
+
+<sup>2</sup> Bei Änderungen des Ortsplans, die Auswirkungen auf den Gewässerschutz haben, wird der GEP gleichzeitig angepasst.
+
+#### Art. 17
+
+**Umsetzung des generellen Entwässerungsplans (GEP) – Groberschliessung**
+
+<sup>1</sup> Die Gemeinde sorgt entsprechend den Vorgaben des GEP für den Bau, den Betrieb, den Unterhalt und die Erneuerung der öffentlichen Anlagen für die Ableitung und Reinigung von Abwasser, die Teil der Groberschliessung sind (Art. 94 und 96 RPBG).
+
+<sup>2</sup> Solange die Anlagen für die Ableitung und Reinigung von Abwasser fehlen, die für einen sachgemässen Gewässerschutz nötig sind, gilt ein Grundstück als nicht vollständig erschlossen (Art. 93 Abs. 2 und 95 RPBG).
+
+#### Art. 18
+
+**Umsetzung des generellen Entwässerungsplans (GEP) – Anschluss der Bauten**
+
+<sup>1</sup> Die Gemeinde prüft die Baubewilligungsgesuche auf deren Übereinstimmung mit dem GEP und mit Artikel 11 GSchV über die Trennung des Abwassers bei Gebäuden.
+
+<sup>2</sup> Bei bebauten Grundstücken weist die Gemeinde die Eigentümerinnen und Eigentümer an, den Anschluss spätestens bei der Änderung des Gemeindenetzes entsprechend den Vorgaben des GEP anzupassen. Die Gemeinde informiert die betroffenen Eigentümerinnen und Eigentümer frühzeitig.
+
+#### Art. 19
+
+**Einleitung in die öffentliche Kanalisation (Art. 7 GSchV)**
+
+<sup>1</sup> Eine Bewilligung für die Einleitung von Industrieabwasser kann nur erteilt werden, wenn die Inhaberinnen und Inhaber der Kanalisation und der Abwasserreinigungsanlage vorgängig bestätigt haben, dass dieses Abwasser den Betrieb ihrer Anlagen weder beeinträchtigt noch stört.
+
+<sup>2</sup> Die grossen Abwassereinleiter (Abwasserbelastung von über 300 Einwohnergleichwerten) und die Inhaberin oder der Inhaber der Kanalisation und der betroffenen Abwasserreinigungsanlage schliessen vorgängig eine Vereinbarung ab, in der namentlich geregelt wird:
+
+- a) die maximalen Frachten, die abzuleiten und zu behandeln sind;
+- b) der Grundsatz für die Berechnung und Erhebung der Gemeindegebühren;
+- c) die Mittel, die nötig sind, um die Einhaltung der Vereinbarung zu kontrollieren.
+
+#### Art. 20
+
+**Konformität der Anlagen und Einrichtungen**
+
+<sup>1</sup> Nach Abschluss der Arbeiten wird der Gemeinde ein Plan der ausgeführten Bauwerke übermittelt, damit diese überprüfen kann, ob die Anlagen und Einrichtungen den rechtlichen und technischen Normen entsprechen (Art. 165 RPBG).
+
+#### Art. 21
+
+**Betrieb und Kontrolle der Anlagen und Einrichtungen (Art. 15 GSchG) – Abwasserreinigungsanlagen**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber der Abwasserreinigungsanlagen erstatten dem AfU gemäss dessen Richtlinien Bericht über den Betrieb.
+
+<sup>2</sup> Sie melden dem AfU regelmässig die Verhältnisse im Einzugsgebiet der Anlage; dazu gehören der Anschlussgrad, der Anteil des nicht verschmutzten Abwassers, das stetig anfällt, und die tatsächliche Abwasserbelastung im Vergleich zur Belastung, die der Bemessung der Anlage zugrunde gelegt worden war.
+
+<sup>3</sup> Sie stellen sicher, dass das Betriebspersonal über die erforderlichen Fachkenntnisse verfügt (Art. 13 GSchV).
+
+#### Art. 22
+
+**Betrieb und Kontrolle der Anlagen und Einrichtungen (Art. 15 GSchG) – Weitere Anlagen für die Vorbehandlung und Reinigung von Abwasser**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber stellen den Betrieb und die Kontrolle dieser Anlagen durch Fachpersonal oder durch den Abschluss eines Servicevertrages sicher; der Vertrag ist der Gemeinde zu übermitteln.
+
+#### Art. 23
+
+**Betrieb und Kontrolle der Anlagen und Einrichtungen (Art. 15 GSchG) – Öffentliche Kanalisation**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber von öffentlichen Kanalisationen führen einen Wartungs- und Kontrollplan für den Betrieb und den Unterhalt des Kanalnetzes und der Spezialbauwerke.
+
+#### Art. 24
+
+**Industrieabwasser-Kataster**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber der Abwasserreinigungsanlagen erstellen einen Kataster des Abwassers aus gewerblichen und industriellen Betrieben sowie des damit vergleichbaren Abwassers und führen ihn nach.
+
+<sup>2</sup> Der Kataster muss den Richtlinien des AfU entsprechen und innert fünf Jahren nach Inkrafttreten des Reglements erstellt werden.
+
+<sup>3</sup> Der Kataster wird überprüft, wenn sich die Situation merklich verändert hat, mindestens aber alle zehn Jahre.
+
+### 2.3 Gewässerschutz in der Landwirtschaft
+
+#### Art. 25
+
+**Bodenbewirtschaftung**
+
+<sup>1</sup> Das Amt für Landwirtschaft (LwA) wird mit dem Vollzug der Bestimmungen über die Bodenbewirtschaftung (Art. 27 GSchG) beauftragt.
+
+#### Art. 26
+
+**Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Richtlinien**
+
+<sup>1</sup> Die Lagerkapazität für Hofdünger und Abwasser wird gemäss den Richtlinien berechnet, die das AfU auf der Grundlage der Vorgaben des Bundes und in Abstimmung mit dem LwA und dem Landwirtschaftlichen Institut des Kantons Freiburg (LIG) aufstellt.
+
+<sup>2</sup> Das LIG wird mit der Düngerberatung (Art. 51 GSchG) beauftragt.
+
+#### Art. 27
+
+**Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Lagerkapazität**
+
+<sup>1</sup> Die Kapazität zur Lagerung von Hofdünger hängt von der Höhe über Meer ab, auf der der Betrieb gelegen ist (Höhe über Meer der wichtigsten Gebäude). Diese beeinflusst die Lagerdauer wie folgt:
+
+<table>
+<tr><th>Höhe ü. M.</th><th>Minimale Lagerdauer</th></tr>
+<tr><td>bis 600 m</td><td>4 Monate</td></tr>
+<tr><td>zwischen 601 und 700 m</td><td>4,5 Monate</td></tr>
+<tr><td>zwischen 701 und 800 m</td><td>5 Monate</td></tr>
+<tr><td>zwischen 801 und 900 m</td><td>5,5 Monate</td></tr>
+<tr><td>über 900 m</td><td>6 Monate</td></tr>
+</table>
+
+<sup>2</sup> Betriebe, die nicht über eine eigene oder gepachtete Nutzfläche verfügen, auf der der im Betrieb anfallende Hofdünger verwertet werden kann, müssen einen Düngerabnahmevertrag abschliessen. Für den Dünger produzierenden Betrieb wird die minimale Lagerdauer um einen Monat erhöht.
+
+<sup>3</sup> Ställe, die nur vorübergehend während der Sömmerungsperiode durch Vieh belegt sind (Alphütten und Unterstände), müssen über Einrichtungen verfügen, mit denen der Hofdünger während mindestens 3 Wochen gelagert werden kann.
+
+#### Art. 28
+
+**Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Nutzfläche**
+
+<sup>1</sup> Die Belastung mit Nährstoffen aus Hofdüngern wird aufgrund einer Nährstoffbilanz gemäss der Bundesverordnung über die Direktzahlungen an die Landwirtschaft (DZV) oder aufgrund der Anzahl Düngergrossvieheinheiten pro Hektare düngbare Fläche (DGVE/ha DF) beurteilt.
+
+<sup>2</sup> Ist die Düngerbilanz nicht ausgeglichen, so beträgt die pro Hektare düngbare Fläche maximal zulässige Anzahl Düngergrossvieheinheiten (Art. 14 Abs. 6 GSchG) in der
+
+- a) Ackerbau- und Übergangszone: 2,5 DGVE/ha DF
+- b) voralpinen Hügelzone: 2,1 DGVE/ha DF
+- c) Bergzone I: 1,8 DGVE/ha DF
+- d) Bergzone II: 1,6 DGVE/ha DF
+- e) Bergzone III: 1,4 DGVE/ha DF
+- f) Bergzone IV: 1,1 DGVE/ha DF
+
+<sup>3</sup> Stickstoffhaltige Dünger dürfen nur zu Zeiten ausgebracht werden, in denen die Pflanzen den Stickstoff aufnehmen können. Erfordern besondere Bedürfnisse des Pflanzenbaus ausserhalb dieser Zeiten dennoch eine Düngung, so dürfen solche Dünger nur ausgebracht werden, wenn keine Beeinträchtigung der Gewässer zu befürchten ist.
+
+<sup>4</sup> Flüssige Dünger dürfen nur ausgebracht werden, wenn der Boden saug- und aufnahmefähig ist.
+
+#### Art. 29
+
+**Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Lagerung von Mist**
+
+<sup>1</sup> Mist muss auf einer befestigten, dichten Platte mit Abfluss in die Güllengrube gelagert werden.
+
+<sup>2</sup> Die Lagerkapazität muss mindestens sechs Monate betragen.
+
+#### Art. 30
+
+**Lagerung von Hofdünger in Betrieben mit Nutztierhaltung – Kontrolle der Lagereinrichtungen für Hofdünger**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber von Lagereinrichtungen für Hofdünger, für die eine Bewilligung erforderlich ist (Art. 19 Abs. 2 GSchG), müssen diese Einrichtungen gemäss Artikel 28 GSchV kontrollieren lassen. Das AfU sorgt mit Inspektionen für eine angemessene Kontrolle.
+
+<sup>2</sup> Die Inspektionen erfolgen gemäss der Verordnung des Bundes über die Koordination der Inspektionen auf Landwirtschaftsbetrieben (VKIL). Das AfU ist in der Koordinationsgruppe vertreten.
+
+### 2.4 Planerischer Schutz
+
+#### Art. 31
+
+**Schutzzonen und -massnahmen**
+
+<sup>1</sup> Für die Bezeichnung der Gewässerschutzbereiche, der Grundwasserschutzzonen und -areale sowie für die Bestimmung der Schutzmassnahmen gilt die Wegleitung des Bundesamts für Umwelt.
+
+#### Art. 32
+
+**Grundwasserschutzareale**
+
+<sup>1</sup> Die Grundwasserschutzareale werden auf der Grundlage des Sachplans der Wasserentnahmen aus öffentlichen Gewässern ausgeschieden mit dem Ziel, ausreichend lokale Wasservorkommen zu sichern.
+
+#### Art. 33
+
+**Massnahmen der Landwirtschaft – Abschwemmung und Auswaschung von Stoffen**
+
+<sup>1</sup> Die Massnahmen, die nötig sind, um die Abschwemmung und Auswaschung von Stoffen zu verhindern, werden in einer Vereinbarung zwischen der Landwirtin oder dem Landwirt, der Inhaberin oder dem Inhaber der Wasserfassung und dem Staat, der durch das AfU und das LwA vertreten ist, festgelegt.
+
+<sup>2</sup> In der Vereinbarung werden namentlich die Abgeltung, die die Landwirtin oder der Landwirt für die Schutzmassnahmen erhält, die Dauer und die Folgen einer Nichteinhaltung der vereinbarten Massnahmen definiert.
+
+<sup>3</sup> Kommt keine Vereinbarung zustande, so kann der Staat die Massnahmen gemäss Artikel 16 GewG mit Verfügung durchsetzen.
+
+<sup>4</sup> Das AfU stellt die Analyse der Wasserqualität sicher.
+
+#### Art. 34
+
+**Massnahmen der Landwirtschaft – Studien, Abgeltungen und Kontrollen**
+
+<sup>1</sup> Das LIG führt vor Abschluss der Vereinbarung die agronomischen Studien durch und informiert das AfU sowie das LwA.
+
+<sup>2</sup> Das LwA überweist die geschuldete Abgeltung und wacht darüber, dass die vereinbarten Massnahmen ausgeführt werden. Gegebenenfalls verhängt es die in der Vereinbarung vorgesehenen Strafen.
+
+### 2.5 Wassergefährdende Stoffe (Art. 13 GewG)
+
+#### Art. 35
+
+**Kataster der Lageranlagen**
+
+<sup>1</sup> Das AfU erstellt den Kataster der bewilligungs- oder meldepflichtigen Lageranlagen mit wassergefährdenden Stoffen und hält ihn auf dem neusten Stand.
+
+<sup>2</sup> Die Gemeinden, die Inhaberinnen und Inhaber von Anlagen und die Revisionsunternehmen erteilen dem AfU die dafür nötigen Auskünfte.
+
+<sup>3</sup> Das Revisionsunternehmen übermittelt der Gemeinde und dem AfU spätestens dreissig Tage nach seiner Intervention eine Kopie der Berichte (Kontrolle, Revision, Nachbesserung, Ausserbetriebsetzung).
+
+#### Art. 36
+
+**Kontrolle von Lageranlagen (Art. 32a GSchV)**
+
+<sup>1</sup> Die Gemeinde sorgt dafür, dass die Anlagen von der Inhaberin oder dem Inhaber periodisch kontrolliert werden.
+
+<sup>2</sup> Das AfU stellt der Gemeinde gestützt auf den Kataster und die ihm übermittelten Berichte (Art. 35) zu:
+
+- a) die Liste der Anlagen, die im laufenden Jahr kontrolliert werden müssen;
+- b) die Liste der Anlagen, die im abgelaufenen Jahr hätten kontrolliert werden sollen, aber nicht kontrolliert wurden.
+
+<sup>3</sup> Nach Empfang der Liste unterrichtet die Gemeinde die betroffenen Inhaberinnen und Inhaber über ihre Pflicht, die Anlagen zu kontrollieren, und setzt eine Frist bis zum 31. Dezember für die Anlagen, die in der Liste nach Absatz 2 Bst. a aufgeführt sind, beziehungsweise von drei Monaten für die Anlagen auf der Liste nach Absatz 2 Bst. b.
+
+<sup>4</sup> Wird die Kontrolle innerhalb der Frist von drei Monaten nach Absatz 3 nicht ausgeführt, so beauftragt die Gemeinde ein Revisionsunternehmen, die Kontrolle auf Kosten der Inhaberin oder des Inhabers durchzuführen.
+
+<sup>5</sup> Das AfU ist anstelle der Gemeinde zuständig für die Kontrolle:
+
+- a) der Anlagen in Grundwasserschutzzonen und -arealen;
+- b) der Funktionstüchtigkeit der Leckanzeigesysteme (Art. 32a Abs. 3 GSchV).
+
+<sup>6</sup> Wird die Kontrolle nicht ausgeführt, so lässt das AfU die Kontrolle auf Kosten der Inhaberin oder des Inhabers ausführen.
+
+### 2.6 Einsatz bei Schadenereignissen (Art. 21 und 55 GewG)
+
+#### Art. 37
+
+**Benachrichtigung**
+
+<sup>1</sup> Zeugen von Verschmutzungen und Unfällen, die eine Bedrohung für Gewässer darstellen, benachrichtigen die Einsatz- und Alarmzentrale der Kantonspolizei (EAZ).
+
+<sup>2</sup> Einsatzkräfte, die direkt über ein Ereignis informiert werden, melden dies unverzüglich der EAZ.
+
+#### Art. 38
+
+**Einsatzarten – Feuerwehrstützpunkt**
+
+<sup>1</sup> Die Feuerwehrstützpunkte (StP) von Freiburg, Bulle und Murten sind zuständig bei Störfällen oder Verschmutzungen infolge von Chemikalien (Chemie-StP).
+
+<sup>2</sup> Die StP von Freiburg, Düdingen, Bulle, Murten, Romont, Estavayer-le-Lac und Châtel-Saint-Denis sind zuständig bei Störfällen und Verschmutzungen mit Kohlenwasserstoffen oder anderen verunreinigenden Flüssigkeiten (Öl-StP).
+
+<sup>3</sup> Der StP Freiburg verfügt über eine Messgruppe. Diese hat die Aufgabe, bei Störfällen oder Verschmutzungen infolge von Chemikalien die Art und das Ausmass anhand von Proben zu bestimmen.
+
+#### Art. 39
+
+**Einsatzarten – Kommando**
+
+<sup>1</sup> Der Kommandant des StP oder der von ihm bezeichnete Offizier leitet den Einsatz, legt die notwendigen Mittel fest und ordnet die erforderlichen Massnahmen an. Über die EAZ kann er die Hilfe anderer Instanzen anfordern.
+
+#### Art. 40
+
+**Einsatzarten – Ausrüstung und Ausbildung**
+
+<sup>1</sup> Staat und Gemeinden rüsten die StP mit dem Material und den Geräten aus, die nötig sind, damit die StP die ihnen in diesem Reglement übertragenen Aufgaben erfüllen können.
+
+<sup>2</sup> Die StP planen die Ausrüstung und Ausbildung und unterbreiten diese Planung der Kantonalen Gebäudeversicherung (KGV) und dem AfU zur Genehmigung.
+
+<sup>3</sup> Die KGV überwacht die Ausbildung und die Einsätze der StP. Sie kann Richtlinien erlassen und stellt die Einsatzbereitschaft der StP sicher.
+
+#### Art. 41
+
+**Einsatzarten – Ortsfeuerwehr**
+
+<sup>1</sup> Die Ortsfeuerwehr greift nur auf Befehl des zuständigen StP ein und führt die Aufgaben aus, die ihr vom StP übertragen werden.
+
+#### Art. 42
+
+**Unterstützungsdienst bei Verschmutzungen**
+
+<sup>1</sup> Innerhalb des AfU wird ein Unterstützungsdienst bei Verschmutzungen (UDV) eingerichtet.
+
+<sup>2</sup> Er hilft bei einer Verschmutzung und berät bei der Wahl der Massnahmen gegen die Umweltverschmutzung und der Sofortmassnahmen zur Abfallentsorgung.
+
+<sup>3</sup> Bei Gewässerverschmutzungen ohne Einsatz eines StP oder der Ortsfeuerwehr legen der UDV und das Amt für Wald und Natur die notwendigen Massnahmen fest.
+
+#### Art. 43
+
+**Verschmutzung auf den Nationalstrassen**
+
+<sup>1</sup> Bei Verschmutzungen auf den Nationalstrassen ist der Beschluss über die Einsätze der Feuerwehren und der Ölwehren auf den Nationalstrassen massgebend.
+
+#### Art. 44
+
+**Einsatzkosten – bei Umweltverschmutzungen**
+
+<sup>1</sup> Die Rechnungen der StP, die vorgängig von den StP kontrollierten Rechnungen der Ortsfeuerwehren, die auf Anordnung eines StP eingesetzt wurden, die Rechnungen der Dienststellen sowie die allenfalls von Dritten ausgestellten Rechnungen werden dem AfU übermittelt, das die Rechnungen kontrolliert und in Form eines Kostenvorschusses begleicht.
+
+<sup>2</sup> Das AfU legt per Verfügung die Kosten zulasten der Störerin oder des Störers fest. Sind mehrere Störerinnen oder Störer beteiligt, so regelt das Amt die Aufteilung der Kosten unter ihnen. Es zieht ausserdem die Kosten ein.
+
+<sup>3</sup> Die Gefahr einer Verunreinigung, die einen Einsatz nach sich zog, wird einer tatsächlichen Umweltverschmutzung gleichgesetzt.
+
+<sup>4</sup> Wird die Einwirkung während der Arbeit durch eine Arbeitnehmerin oder einen Arbeitnehmer oder eine Hilfskraft verursacht, so gehen die Einsatzkosten zulasten des Arbeitgebers (Art. 55 OR).
+
+<sup>5</sup> Ist die Störerin oder der Störer unbekannt oder zahlungsunfähig, konnte der Ursprung nicht präzise einer Gemeinde zugeordnet werden und können sich die Gemeinden nicht einigen, so erlässt die RUBD eine Verfügung, in der die Kosten angemessen unter den betroffenen Gemeinden aufgeteilt werden.
+
+#### Art. 45
+
+**Einsatzkosten – bei Einsätzen auf Strassen und ohne Umweltverschmutzung**
+
+<sup>1</sup> Die Rechnungen der StP, die vorgängig von den StP kontrollierten Rechnungen der Ortsfeuerwehren, die auf Anordnung eines StP eingesetzt wurden, die Rechnungen der Dienststellen sowie die allenfalls von Dritten ausgestellten Rechnungen werden übermittelt an:
+
+- a) die KGV bei einem Einsatz auf einer Nationalstrasse;
+- b) das TBA bei einem Einsatz auf einer Kantonsstrasse;
+- c) die Gemeinde bei einem Einsatz auf einer Gemeindestrasse.
+
+<sup>2</sup> Erfolgt der Einsatz auf Strassen unterschiedlicher Kategorien, so stellt die für die höchstklassierte Strasse zuständige Instanz die administrative Begleitung sicher.
+
+<sup>3</sup> Die Instanz nach Absatz 1 kontrolliert die Rechnungen und begleicht sie in Form eines Kostenvorschusses. Sie erlässt eine Verfügung, in der die Kosten zulasten der Störerin oder des Störers festgelegt werden. Sind mehrere Störerinnen oder Störer beteiligt, so regelt sie die Aufteilung der Kosten unter ihnen.
+
+#### Art. 46
+
+**Aufwendungen des StP**
+
+<sup>1</sup> Die Kosten der StP werden nach Abzug des Beitrags der KGV in der Höhe von 50 % je hälftig zwischen Kanton und Gemeinden aufgeteilt, wobei der Brandversicherungswert der Gebäude auf dem Gebiet der einzelnen Gemeinde als Grundlage für die durch das AfU festgelegte Verteilung auf die Gemeinden dient. Die Finanzverwaltung ist mit dem Einziehen der Kostenanteile der Gemeinden beauftragt.
+
+<sup>2</sup> Die StP stellen die voraussehbaren Ausgaben für Ausbildung, Ausrüstung und Betrieb auf und legen sie der KGV und dem AfU zur Genehmigung vor. Das AfU stellt die voraussehbaren Ausgaben in seinem Voranschlag ein.
+
+<sup>3</sup> Die Unterhalts- und Betriebskosten der StP im Zusammenhang mit diesem Reglement betreffen einzig die Bekämpfung von Verschmutzungen durch Kohlenwasserstoffverbindungen und andere chemische Stoffe. Diese Kosten umfassen:
+
+- a) die Ausbildungskosten einschliesslich der Besoldung des nichtständigen Personals, das die Fahrzeuge in Ausbildungs- und Übungskursen bedient;
+- b) den Kauf und die Erneuerung von Material und Ausrüstung;
+- c) den Unterhalt der Fahrzeuge und die laufenden Reparaturen;
+- d) die Lagerung von Material und Ausrüstung;
+- e) die Haftpflicht- und Kaskoversicherungen für die Fahrzeuge.
+
+<sup>4</sup> Die StP übermitteln die Vierteljahresabrechnungen der KGV; diese prüft die Abrechnungen und leitet sie an das AfU weiter. Das AfU stellt deren Begleichung sicher und beantragt die Subventionen.
+
+### 2.7 Abflussmengen und Wasserentnahmen
+
+#### Art. 47
+
+**Wasserhaushalt**
+
+<sup>1</sup> Der Wasserhaushalt soll naturnahen Verhältnissen entsprechen. Andernfalls ist dieser Zustand nach Möglichkeit wieder herzustellen.
+
+<sup>2</sup> Techniken mit geringem Wasserverbrauch sind vorzuziehen.
+
+#### Art. 48
+
+**Angemessene Restwassermengen**
+
+<sup>1</sup> Wer eine Wasserentnahme betreibt oder plant, liefert die Messungen und Berechnungen, die für die Bestimmungen der Abflussmenge Q347 nötig sind.
+
+<sup>2</sup> Die Abflussmenge Q347 wird vom AfU festgelegt.
+
+<sup>3</sup> Das AfU kann von Nutzniesserinnen und Nutzniessern einer Bewilligung zur Wasserentnahme verlangen, dass sie eine Installation einrichten und betreiben, mit der die Einhaltung der Dotierwassermenge kontrolliert werden kann. Ist der Aufwand nicht zumutbar, so kann der Nachweis durch Berechnung der Wasserbilanz erbracht werden.
+
+#### Art. 49
+
+**Sanierung der bestehenden Wasserentnahmen**
+
+<sup>1</sup> Die Sanierung der bestehenden Wasserentnahmen nach den Artikeln 80–83 GSchG wird von der RUBD nach Anhörung der betroffenen Dienststellen und Organe verfügt.
+
+<sup>2</sup> Bevor die RUBD die Sanierungsmassnahmen verfügt, hört sie die Nutzniesserin oder den Nutzniesser der Bewilligung zur Wasserentnahme und die im Bereich des Gewässerschutzes tätigen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
+
+<sup>3</sup> Die Sanierungsverfügung wird der Nutzniesserin oder dem Nutzniesser der Bewilligung zur Wasserentnahme zugestellt und im Amtsblatt veröffentlicht.
+
+#### Art. 50
+
+**Sanierung bei Schwall und Sunk sowie des Geschiebehaushalts**
+
+<sup>1</sup> Die Sanierung bei Schwall und Sunk sowie des Geschiebehaushalts (Art. 83a GSchG) ist Gegenstand einer Planung, die die RUBD nach Anhörung der betroffenen Dienststellen und Organe verabschiedet.
+
+<sup>2</sup> Die RUBD ordnet nach Anhörung der betroffenen Dienststellen und Organe die zur Umsetzung der Planung erforderlichen Sanierungsmassnahmen an.
+
+<sup>3</sup> Bevor die RUBD die Sanierungsmassnahmen verfügt, hört sie die Inhaberin oder den Inhaber der Anlage und die betroffenen Organisationen an und übermittelt ihnen den Verfügungsentwurf.
+
+<sup>4</sup> Die Sanierungsverfügung wird der Inhaberin oder dem Inhaber der Anlage zugestellt und im Amtsblatt veröffentlicht.
+
+## 3 Wasserbau an Fliessgewässern und Seen
+
+#### Art. 51
+
+**Unterhalt der Fliessgewässer und Seen – Arbeiten**
+
+<sup>1</sup> Der Unterhalt umfasst insbesondere folgende Arbeiten:
+
+- a) Pflege der Vegetation im Bett und an den Ufern (Mähen); Sicherung von Bäumen und Sträuchern, die eine Gefahr darstellen; Verjüngung des Gehölzes (regelmässiges Zurückschneiden und Auslichten); Bestockung mit einheimischen standortgerechten Arten;
+- b) Reinigung der Fliessgewässer, Seen und deren Ufer (Entfernung des Holzes, das zu einer Verklausung der Gerinne führen könnte, Entfernung von Treibgut und Abfällen);
+- c) Räumung und Entleerung (Entleerung der Geschiebesammler, Entfernung von Geschiebeablagerungen, die eine Gefahr darstellen und grosse Schäden anrichten können, Baggerung von Sedimenten);
+- d) Instandsetzungsarbeiten geringen Ausmasses an Wasserbauwerken (kleine Reparaturen);
+- e) Unterhalt des Betts, der Ufer und der Unterhaltswege (kleine Interventionen, mit denen das Abflussprofil sowie stabile Bette und Uferböschungen sichergestellt werden; Massnahmen zur Gewährleistung eines Zugangs, dank dem die Arbeiten rationell und wirtschaftlich ausgeführt werden können).
+
+<sup>2</sup> Mit dem Unterhalt der Fliessgewässer sollen Mängel bei der Sicherheit und der Ökologie behoben werden. Bei den Arbeiten muss der natürliche Zustand des Fliessgewässers bewahrt oder wieder hergestellt werden, und die Auswirkungen auf das Biotop und die Lebensgemeinschaften müssen so gering wie möglich gehalten werden.
+
+#### Art. 52
+
+**Unterhalt der Fliessgewässer und Seen – Verfahren**
+
+<sup>1</sup> Für Unterhaltsarbeiten ist keine Baubewilligung erforderlich. Die in der Spezialgesetzgebung vorgesehenen Bewilligungen bleiben vorbehalten.
+
+<sup>2</sup> Vor Beginn der Arbeiten nach Artikel 51 Abs. 1 Bst. c–e wird das AfU zurate gezogen. Dieses holt das Gutachten der betroffenen Dienststellen und gegebenenfalls die in Absatz 1 erwähnten Bewilligungen ein.
+
+<sup>3</sup> Den Bewilligungsgesuchen für Spülungen und Entleerungen von Stauräumen muss ein Kurzbericht zur Umweltverträglichkeit beigelegt werden.
+
+#### Art. 53
+
+**Hochwasserschutzmassnahmen**
+
+<sup>1</sup> Die baulichen Schutzmassnahmen müssen den Wegleitungen des Bundesamts für Umwelt entsprechen.
+
+#### Art. 54
+
+**Revitalisierung**
+
+<sup>1</sup> Die Revitalisierung der Gewässer und der dafür vorgesehene Zeitplan (Art. 38a Abs. 2 GSchG) werden in den Sachplan für den Wasserbau und den Unterhalt der Fliessgewässer und Seen (Art. 3 Abs. 1 Bst. e GewG) integriert.
+
+<sup>2</sup> Die Revitalisierung kann eine zusätzliche Massnahme am Gewässer im Sinne von Artikel 28 GSchG oder Artikel 5 GewG sein, doch kann sie kein Ersatz für die Massnahmen sein, die beim Verursacher der nachteiligen Einwirkungen getroffen werden müssen.
+
+#### Art. 55
+
+**Verfahren für Wasserbauprojekte**
+
+<sup>1</sup> Die Arbeiten müssen Gegenstand eines Projekts sein, das von einer nach den Artikeln 6 und 7 RPBR befähigten Person ausgearbeitet wurde.
+
+<sup>2</sup> Das Wasserbauprojekt wird entsprechend der Wegleitung des Bundesamts für Umwelt über den Hochwasserschutz an Fliessgewässern ausgearbeitet.
+
+<sup>3</sup> Das AfU wird während der Ausarbeitung des Wasserbauprojekts informiert und angehört. Es legt den betroffenen Dienststellen das Projekt zur Stellungnahme vor. Bei einem Projekt, das ausserhalb der Programmvereinbarungen vom Bund subventioniert wird, hört es zudem das Bundesamt für Umwelt an.
+
+#### Art. 56
+
+**Gewässerraum (Art. 36a GSchG)**
+
+<sup>1</sup> Der Gewässerraum (entspricht dem minimalen Raumbedarf von Fliessgewässern nach Art. 25 GewG) wird je nach der bestehenden Nutzung der betroffenen Grundstücke unterschiedlich geschützt:
+
+- a) Wurden die an den Gewässerraum angrenzenden Grundstücke neu als Bauzone ausgeschieden, so wird der Gewässerraum der Schutzzone zugeteilt.
+- b) Andernfalls wird der Gewässerraum über einen minimalen Bauabstand geschützt, der in die bestehende Zone hineinreicht (besondere Schutzmassnahmen nach Art. 25 Abs. 4 GewG).
+
+<sup>2</sup> Der Gewässerraum muss auch für die eingedolten Fliessgewässer festgelegt werden. Sind die Voraussetzungen nach Artikel 41a Abs. 5 GSchV erfüllt, so kann auf eine Festlegung des Gewässerraums verzichtet werden.
+
+<sup>3</sup> Im Hinblick auf eine spätere Offenlegung des Fliessgewässers kann der Gewässerraum einem Gewässerverlauf folgen, der sich vom Verlauf des eingedolten Fliessgewässers unterscheidet. In einem solchen Fall wird auf beiden Seiten des eingedolten Fliessgewässers die Baugrenze bei je 4 Metern festgelegt, um bis zur Offenlegung des Fliessgewässers den Zugang zum Bauwerk sicherzustellen.
+
+<sup>4</sup> Bei einer Überquerung eines Fliessgewässers durch einen Weg oder eine Strasse ist das Bauwerk so zu gestalten, dass die ökologischen Funktionen des Fliessgewässers gewahrt bleiben und dass das Wasser abfliessen kann, ohne Schäden anzurichten.
+
+<sup>5</sup> Im Wald wird der Gewässerraum nicht festgelegt.
+
+#### Art. 57
+
+**Dringliche Massnahmen (Art. 30 GewG)**
+
+<sup>1</sup> Die dringlichen Massnahmen bestehen in Räumungsarbeiten und in der Wiederinstandstellung der Schutzbauten während des Ereignisses sowie in Arbeiten zur schnellstmöglichen Behebung bestehender Sicherheitsmängel.
+
+<sup>2</sup> Für dringliche Massnahmen gelten folgende Grundsätze:
+
+- a) Priorität haben die Massnahmen, mit denen Risiken und Schäden am wirkungsvollsten reduziert werden können.
+- b) Die dringlichen Massnahmen dürfen langfristige Lösungen nicht beeinträchtigen.
+- c) Bei den betroffenen staatlichen Dienststellen müssen vorgängig die Stellungnahmen und die im Bundesrecht vorgesehenen Bewilligungen eingeholt werden. Für die Massnahmen, die während des Ereignisses oder unmittelbar danach getroffen werden, ist jedoch keine Bewilligung erforderlich. Das AfU muss über die Massnahmen in Kenntnis gesetzt werden.
+
+#### Art. 58
+
+**Materialgewinnung aus öffentlichen Gewässern**
+
+<sup>1</sup> Wer ein Gesuch für eine Materialgewinnung aus öffentlichen Gewässern einreicht, muss genaue Angaben zu Standort, Volumen und Ausmass der Materialentnahmen, zur Bestimmung des Materials und gegebenenfalls zum Geschiebehaushalt machen.
+
+<sup>2</sup> Für eine Materialentnahme muss ein Kurzbericht zur Umweltverträglichkeit verfasst werden. Die RUBD kann je nach Art und Bedeutung des Fliessgewässers und Volumen der Materialentnahme einer Abweichung von diesem Grundsatz zustimmen.
+
+<sup>3</sup> Schlammsammler sind von dieser Pflicht ausgenommen.
+
+<sup>4</sup> Die Baubewilligungspflicht nach der Raumplanungs- und Baugesetzgebung bleibt vorbehalten.
+
+## 4 Finanzierung
+
+### 4.1 Gewässerschutz
+
+#### Art. 59
+
+**Verkehrswege**
+
+<sup>1</sup> Die Inhaberinnen und Inhaber von Verkehrswegen müssen entsprechend dem Verursacherprinzip an der Ausarbeitung der Richtpläne der Einzugsgebiete mitwirken und sich finanziell beteiligen.
+
+### 4.2 Wasserbau an Fliessgewässern und Seen
+
+#### Art. 60
+
+**Subventionen: Grundsätze**
+
+<sup>1</sup> Die Wasserbauarbeiten, für die Subventionen beantragt werden, dürfen erst in Angriff genommen werden, wenn deren Kostendeckung gewährleistet ist.
+
+<sup>2</sup> Die RUBD entscheidet über die Gewährung von Beiträgen bis zu 500'000 Franken pro Projekt.
+
+<sup>3</sup> Damit ein Wasserbauprojekt Anrecht auf Beiträge gibt, müssen folgende Bedingungen erfüllt sein:
+
+- a) Die Investitionen müssen wirtschaftlich gerechtfertigt sein (Kosten-Nutzen-Verhältnis).
+- b) Die ökologische Qualität des Fliessgewässers muss verbessert oder zumindest erhalten werden können.
+- c) Die technische Lösung muss den aktuellen Standards entsprechen und sämtliche festgestellten Mängel (Sicherheit, Ökologie) beheben.
+
+<sup>4</sup> Das Dossier zum Subventionsgesuch muss den Richtlinien des AfU und des Bundesamts für Umwelt entsprechen.
+
+<sup>5</sup> An Massnahmen zum Schutz von Bauzonen, Bauten, Anlagen und Infrastrukturen werden keine Beiträge geleistet, wenn bereits vor der Einzonung oder dem Bau das Vorhandensein einer bedeutenden Gefahr bekannt war und die empfohlenen lokalen Schutzmassnahmen nicht getroffen wurden. Als bekannt gelten sämtliche Gefahren, die gebührend dokumentiert und namentlich in einer Gefahrenkarte festgehalten sind.
+
+<sup>6</sup> Die Subventionsverfügungen tragen den dafür gesprochenen Krediten sowie den Beiträgen Rechnung, die der Staat im Rahmen der Programmvereinbarungen mit dem Bund erhält.
+
+#### Art. 61
+
+**Subventionen für Wasserbauarbeiten**
+
+<sup>1</sup> Der kantonale Höchstsatz nach Artikel 47 Abs. 1 GewG beträgt 32 %.
+
+<sup>2</sup> Der Beitragssatz beträgt 22−32 % und wird nach dem Punktetotal, für das folgende Kriterien massgebend sind, berechnet:
+
+- a) öffentliches Interesse: max. 4 Punkte;
+- b) finanzielle Belastung: max. 4 Punkte;
+- c) Qualität des Projekts und der Massnahmen: max. 4 Punkte.
+
+<sup>3</sup> Aus dem Punktetotal wird der Beitragssatz wie folgt berechnet:
+
+<table>
+<tr><th>Punktetotal (P)</th><th>Beitragssatz</th></tr>
+<tr><td>1 ≤ P ≤ 4</td><td>22 %</td></tr>
+<tr><td>4 &lt; P ≤ 8</td><td>27 %</td></tr>
+<tr><td>8 &lt; P ≤ 12</td><td>32 %</td></tr>
+</table>
+
+<sup>4</sup> Bei Wasserbauprojekten, die Bestandteil von Programmvereinbarungen sind, werden die Beiträge, die der Staat vom Bund erhält, und der Anteil des Staats addiert. Die Höhe des Bundesbeitrags wird aufgrund der in der Programmvereinbarung definierten Regeln festgelegt. Fehlen solche Regeln, so wird der in den Programmvereinbarungen definierte Höchstsatz angewandt.
+
+<sup>5</sup> Für Projekte, die nicht Bestandteil einer Programmvereinbarung sind, ist der Bundesbeitrag Gegenstand eines individuellen Subventionsentscheids des Bundes.
+
+<sup>6</sup> Die dringlichen Massnahmen und die bedeutenden Instandsetzungsarbeiten sind den Wasserbauarbeiten gleichgestellt und werden zum gleichen Satz wie die Wasserbauarbeiten subventioniert.
+
+#### Art. 62
+
+**Subventionen für den Unterhalt**
+
+<sup>1</sup> Der Höchstsatz nach Artikel 47 Abs. 1 GewG beträgt 15 %.
+
+#### Art. 63
+
+**Zusätzliche Subventionen (Art. 48 und 49 GewG)**
+
+<sup>1</sup> Der Satz der zusätzlichen Subvention für Wasserbauarbeiten im Berggebiet beträgt 5 %. Die RUBD legt den Perimeter dieses Gebiets fest. Andernfalls wird das Berggebiet nach den vom Bundesamt für Landwirtschaft definierten landwirtschaftlichen Zonengrenzen festgelegt.
+
+<sup>2</sup> Der Satz der zusätzlichen Subvention für den Erwerb und das Aufteilen von Grundstücken im Rahmen eines Bodenverbesserungsprojekts für Wasserbauarbeiten beträgt 5 %.
+
+<sup>3</sup> Der Satz der zusätzlichen Subvention für Revitalisierungsarbeiten beträgt 10−20 % und wird nach dem Punktetotal, für das folgende Kriterien massgebend sind, berechnet:
+
+- a) Breite des Gewässerraums nach der Revitalisierung: max. 2 Punkte;
+- b) Nutzen für Natur und Landschaft: max. 2 Punkte;
+- c) Länge des revitalisierten Gewässerabschnitts: max. 2 Punkte;
+- d) Nutzen für die Erholung: max. 1 Punkt.
+
+<sup>4</sup> Aus dem Punktetotal wird der Beitragssatz wie folgt berechnet:
+
+<table>
+<tr><th>Punktetotal (P)</th><th>Beitragssatz</th></tr>
+<tr><td>1 ≤ P ≤ 3</td><td>10 %</td></tr>
+<tr><td>3 &lt; P ≤ 5</td><td>15 %</td></tr>
+<tr><td>5 &lt; P ≤ 7</td><td>20 %</td></tr>
+</table>
+
+<sup>5</sup> Der Satz der zusätzlichen Subvention für Unterhaltsarbeiten an naturnahen oder revitalisierten Fliessgewässern beträgt 15 %.
+
+#### Art. 64
+
+**Mindestkosten (Art. 50 GewG)**
+
+<sup>1</sup> Die Mindestkosten der Ausbau-, Instandsetzungs- und Revitalisierungsarbeiten, die Anrecht auf einen Beitrag geben, betragen 20'000 Franken.
+
+<sup>2</sup> Die Mindestkosten der Unterhaltsarbeiten, die Anrecht auf einen Beitrag geben, betragen 2000 Franken pro Objekt und Jahr.
+
+#### Art. 65
+
+**Kostenübernahme bei Projektunterbruch**
+
+<sup>1</sup> Wird ein Wasserbauprojekt nach der Ausarbeitung des Vorprojekts unterbrochen, so werden die Kosten je zur Hälfte auf den Staat und die betroffenen Gemeinden verteilt.
+
+### 4.3 Bauwerke für die konzessionierte Schifffahrt
+
+#### Art. 66
+
+**Kosten**
+
+<sup>1</sup> Stellt ein Hafen oder ein Anlegeplatz für weitere Gemeinden oder Dritte einen besonderen Vorteil dar, so wird deren finanzielle Beteiligung aufgrund der Höhe der entstehenden Vorteile berechnet.
+
+<sup>2</sup> Entsprechend der Entfernung vom Bauwerk werden vier Einflussperimeter festgelegt: bis 1 km, bis 2 km, bis 3 km und bis 4 km. Die finanzielle Beteiligung einer Gemeinde wird aufgrund des Verhältnisses zwischen ihrer Fläche innerhalb der Einflussperimeter und der Gesamtfläche der Perimeter festgelegt.
+
+<sup>3</sup> Vereinbarungen über eine andere Kostenaufteilung bleiben vorbehalten.
+
+#### Art. 67
+
+**Subventionen**
+
+<sup>1</sup> Der Beitragssatz für den Bau, den Wiederaufbau und die Sanierung von Bauwerken für die konzessionierte Schifffahrt beträgt 30 %.
+
+## 5 Zugang zu Daten
+
+#### Art. 68
+
+<sup>1</sup> Dem AfU werden folgende Daten zur Verfügung gestellt:
+
+- a) Die KGV übermittelt zum einen die Daten, die sie über die zum Lagern von wassergefährdenden Flüssigkeiten dienenden Anlagen besitzt und die für die Erstellung des in Artikel 35 vorgesehenen Katasters der Lageranlagen nötig sind (Brandversicherungsnummer, Name, Vorname und Adresse der Eigentümerin oder des Eigentümers), und zum anderen den Brandversicherungswert der Gebäude.
+- b) Das Amt für Strassenverkehr und Schifffahrt übermittelt die Daten zu den Berufsschildern, damit die Gefahren für die Umwelt beurteilt werden können (Art. 23 Abs. 2 der Verkehrsversicherungsverordnung des Bundes vom 20. November 1959, VVV).
+- c) Das LwA übermittelt die im GELAN-System (Gesamtlösung EDV Landwirtschaft) gespeicherten Daten, die für die Umsetzung der Gesetzgebung über die Gewässer nötig sind.
+
+## 6 Schlussbestimmungen
+
+#### Art. 69
+
+**Beiträge**
+
+<sup>1</sup> Ausbauarbeiten an Wasserläufen, die nach bisherigem Recht Anspruch auf einen Beitrag geben, müssen spätestens 5 Jahre nach Inkrafttreten des Gesetzes beendet sein. Nach Ablauf dieser Frist erlischt das Recht auf Beiträge.
+
+#### Art. 69a
+
+**Fristen (Art. 62 Abs. 1 GewG)**
+
+<sup>1</sup> Die Gemeinden eines Einzugsgebiets haben bis Ende 2016 Zeit, sich gemäss Artikel 9 Abs. 2 GewG zusammenzuschliessen.
+
+<sup>2</sup> Die Frist für die kantonale Planung nach Artikel 3 GewG wird ebenfalls bis Ende 2016 erstreckt.
+
+#### Art. 70
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Es werden aufgehoben:
+
+- a) der Beschluss vom 7. April 1981 über die Anwendung von Artikel 41 (Abs. 1 und 2) des Gesetzes vom 26. November 1975 über den Wasserbau (SGF 743.0.12);
+- b) der Beschluss vom 22. Februar 1994 über die Anwendung von Artikel 41<sup>bis</sup> des Gesetzes über den Wasserbau (SGF 743.0.13);
+- c) der Beschluss vom 3. April 1973 betreffend die Interventionskosten bei Katastrophen und Verunreinigungen durch Kohlenwasserstoffe oder andere verunreinigende Flüssigkeiten (SGF 810.42);
+- d) der Beschluss vom 30. Juni 1981 betreffend die Verteilung der Betriebskosten der Alarmzentrale und der Ölwehrstützpunkte für Katastrophenfälle und Gewässerverschmutzung (SGF 810.43);
+- e) der Beschluss vom 15. Dezember 1987 über die Bezeichnung der Stützpunkte für den Fall atomarer oder chemischer Katastrophen und die Verteilung der Kosten (SGF 810.44);
+- f) der Ausführungsbeschluss vom 7. Dezember 1992 zum Bundesgesetz über den Schutz der Gewässer (SGF 812.11);
+- g) der Beschluss vom 2. November 1982 über die Revision, die Instandstellung und die Ausserbetriebsetzung von Anlagen für die Lagerung, den Umschlag und die Beförderung sowie die Herstellung, die Aufbereitung und die Verwertung von wassergefährdenden Flüssigkeiten (SGF 812.12);
+- h) der Beschluss vom 28. November 2000 über die Verringerung der Nitratbelastung aus der landwirtschaftlichen Bodenbewirtschaftung (SGF 812.18);
+- i) der Beschluss vom 20. Januar 1998 über die Lagerung von Hofdünger (SGF 812.19).
+
+#### Art. 71
+
+**Änderung bisherigen Rechts – Raumplanung und Bauwesen**
+
+<sup>1</sup> Das Ausführungsreglement vom 1. Dezember 2009 zum Raumplanungs- und Baugesetz (RPBR) (SGF 710.11) wird wie folgt geändert:
+
+...
+
+#### Art. 72
+
+**Änderung bisherigen Rechts – Feuerwehren und Ölwehren auf den Nationalstrassen**
+
+<sup>1</sup> Der Beschluss vom 15. Oktober 1991 über die Einsätze der Feuerwehren und der Ölwehren auf den Nationalstrassen (SGF 731.3.72) wird wie folgt geändert:
+
+...
+
+#### Art. 73
+
+**Änderung bisherigen Rechts – Abfallbewirtschaftung**
+
+<sup>1</sup> Das Reglement vom 20. Januar 1998 über die Abfallbewirtschaftung (ABR) (SGF 810.21) wird wie folgt abgeändert:
+
+...
+
+#### Art. 74
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement tritt am 1. Juli 2011 in Kraft.
+
+## A1 ANHANG 1 – Abgrenzung der Einzugsgebiete (Art. 11a)
+
+#### Art. A1-1
+
+<sup>1</sup> Die Perimeter der Einzugsgebiete sind:
+
+<table>
+<tr><th>Einzugsgebiete</th><th>Abgrenzug</th></tr>
+<tr><td>1. Broye</td><td>Das Einzugsgebiet Broye umfasst die folgenden Gemeinden: Bussy, Châtonnaye, Cheiry, Cugy, Domdidier, Dompierre, Fétigny, Ménières, Montagny, Les Montets, Morens, Nuvilly, Prévondavaux, Rueyres-les-Prés, Russy, Saint-Aubin, Sévaz, Surpierre, Torny, Vallon, Villeneuve, Vuissens.</td></tr>
+<tr><td>2. Chandon</td><td>Das Einzugsgebiet Chandon umfasst die folgenden Gemeinden: Grolley, Léchelles, Misery-Courtion, Ponthaux, Villarepos, Wallenried.</td></tr>
+<tr><td>3. Glâne-Neirigue</td><td>Das Einzugsgebiet Glâne-Neirigue umfasst die folgenden Gemeinden: Autigny, Billens-Hennens, Le Châtelard, Chénens, Corpataux-Magnedens, Cottens, Farvagny, La Folliaz, Le Glèbe, Grangettes, Massonnens, Mézières, Romont, Rossens, Sâles, Siviriez, Villaz-Saint-Pierre, Villorsonnens, Vuisternens-devant-Romont, Vuisternens-en-Ogoz.</td></tr>
+<tr><td>4. Ärgera</td><td>Das Einzugsgebiet Ärgera umfasst die folgenden Gemeinden: Arconciel, Ependes, Ferpicloz, Giffers, Marly, Le Mouret, Pierrafortscha, Plasselb, Rechthalten, St. Silvester, Senèdes, Tentlingen, Treyvaux, Villarsel-sur-Marly.</td></tr>
+<tr><td>5. Obere Broye</td><td>Das Einzugsgebiet Obere Broye umfasst die folgenden Gemeinden: Attalens, Auboranges, Bossonnens, Chapelle, Ecublens, Le Flon, Granges, Montet, Remaufens, Rue, Saint-Martin, Semsales, Ursy, La Verrerie.</td></tr>
+<tr><td>6. Obere Saane</td><td>Das Einzugsgebiet Obere Saane umfasst die folgenden Gemeinden: Bas-Intyamon, Botterens, Broc, Bulle, Grandvillard, Gruyères, Haut-Intyamon, Le Pâquier.</td></tr>
+<tr><td>7. Jaunbach</td><td>Das Einzugsgebiet Jaunbach umfasst die folgenden Gemeinden: Châtel-sur-Montsalvens, Crésuz, Jaun, Val-de-Charmey.</td></tr>
+<tr><td>8. Greyerzersee</td><td>Das Einzugsgebiet Greyerzersee umfasst die folgenden Gemeinden: Bulle, Corbières, Echarlens, Hauteville, Marsens, Morlon, Pont-en-Ogoz, Pont-la-Ville, Riaz, La Roche, Sorens, Vaulruz, Vuadens.</td></tr>
+<tr><td>9. Neuenburgersee</td><td>Das Einzugsgebiet Neuenburgersee umfasst die folgenden Gemeinden: Châbles, Châtillon, Cheyres, Delley-Portalban, Estavayer-le-Lac, Gletterens, Lully, Murist, Vernay.</td></tr>
+<tr><td>10. Murtensee</td><td>Das Einzugsgebiet Murtensee umfasst die folgenden Gemeinden: Bas-Vully, Courgevaux, Courlevon, Cressier, Fräschels, Galmiz, Gempenach, Greng, Gurmels, Haut-Vully, Jeuss, Kerzers, Lurtigen, Meyriez, Muntelier, Murten/Morat, Ried bei Kerzers, Salvenach, Ulmiz.</td></tr>
+<tr><td>11. Obere Sense</td><td>Das Einzugsgebiet Obere Sense umfasst die folgenden Gemeinden: Brünisried, Oberschrot, Plaffeien, Zumholz.</td></tr>
+<tr><td>12. Saane</td><td>Das Einzugsgebiet Saane umfasst die folgenden Gemeinden: Freiburg/Fribourg, Givisiez, Granges-Paccot, Hauterive (FR), Matran, Neyruz, Villars-sur-Glâne.</td></tr>
+<tr><td>13. Sonnaz-Crausaz</td><td>Das Einzugsgebiet Sonnaz-Crausaz umfasst die folgenden Gemeinden: Autafond, Avry, Barberêche, Belfaux, La Brillaz, Chésopelloz, Corminbœuf, Corserey, Courtepin, Noréaz, Prez-vers-Noréaz, La Sonnaz.</td></tr>
+<tr><td>14. Untere Sense</td><td>Das Einzugsgebiet Untere Sense umfasst die folgenden Gemeinden: Alterswil, Bösingen, Düdingen, Heitenried, Kleinbösingen, St. Antoni, St. Ursen, Schmitten, Tafers, Ueberstorf, Wünnewil-Flamatt.</td></tr>
+<tr><td>15. Vivisbach</td><td>Das Einzugsgebiet Vivisbach umfasst die Gemeinde Châtel-Saint-Denis.</td></tr>
+</table>
+
+2011\_061

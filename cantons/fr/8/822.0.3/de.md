@@ -1,0 +1,191 @@
+---
+canton: FR
+number: "822.0.3"
+title: Gesetz über die Finanzierung der Spitäler und Geburtshäuser
+short: SFiG
+language: de
+version: 2012-01-01
+valid_until: 2022-12-31
+version_adopted: 2011-11-04
+adopted: 2011-11-04
+in_force: 2012-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/822.0.3"
+pdf: "https://bdlf.fr.ch/api/de/versions/5533/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Finanzierung der Spitäler und Geburtshäuser
+
+Spitäler und Geburtshäuser, Finanzierung – G
+
+vom 04.11.2011 (Fassung in Kraft getreten am 01.01.2012)
+
+Der Grosse Rat des Kantons Freiburg
+
+gestützt auf die Änderung vom 21. Dezember 2007 des Bundesgesetzes über die Krankenversicherung (KVG);
+
+gestützt auf die Änderung vom 22. Oktober 2008 der Verordnung des Bundes über die Krankenversicherung (KVV);
+
+gestützt auf die Änderung vom 22. Oktober 2008 der Verordnung über die Kostenermittlung und die Leistungserfassung durch Spitäler, Geburtshäuser und Pflegeheime in der Krankenversicherung (VKL);
+
+nach Einsicht in die Botschaft des Staatsrats vom 17. Mai 2011;
+
+auf Antrag dieser Behörde,
+
+beschliesst:
+
+#### Art. 1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz regelt die Finanzierung der Spitäler und der Geburtshäuser und führt dabei insbesondere die entsprechenden eidgenössischen Bestimmungen aus.
+
+<sup>2</sup> Grundsätze und Zuständigkeiten für die Spitalplanung werden im Gesundheitsgesetz geregelt.
+
+<sup>3</sup> Ebenfalls vorbehalten bleiben die besonderen Bestimmungen der interkantonalen Vereinbarung zwischen den Kantonen Freiburg und Waadt und des interkantonalen Leistungsauftrags.
+
+#### Art. 2
+
+**Kantonsanteil (Art. 49a KVG)**
+
+<sup>1</sup> Der Kantonsanteil an den Kosten der Leistungen für im Kanton Freiburg wohnhafte Patientinnen und Patienten wird vom Staatsrat festgelegt, und zwar spätestens neun Monate vor Beginn des Kalenderjahrs.
+
+<sup>2</sup> Die für Sozialversicherungen zuständige Direktion[^2-1] (die Direktion) vereinbart die Einzelheiten der Entrichtung des Kantonsanteils an die Spitäler und die Geburtshäuser oder gegebenenfalls an die Versicherer.
+
+[^2-1]: Heute: Direktion für Gesundheit und Soziales.
+
+#### Art. 3
+
+**Finanzierungsvoraussetzungen**
+
+<sup>1</sup> Der Staat finanziert die Leistungen der Spitäler und Geburtshäuser, die:
+
+- a) über die notwendige Infrastruktur verfügen, um den Leistungsauftrag langfristig zu erfüllen (Art. 7);
+- b) eine entsprechende Fünfjahresplanung für Investitionen einreichen und die damit einhergehende Finanzierung sicherstellen, namentlich indem sie einen Teil der Abgeltung der stationären Leistungen in einen ausschliesslich zu diesem Zweck vorgesehenen Investitionsfonds einschiessen;
+- c) die Betreuung der Patientinnen und Patienten unabhängig von deren Versicherungsdeckung garantieren;
+- d) eine Finanzbuchhaltung und eine Kosten-Leistung-Rechnung einreichen, in denen die gesamten stationären Leistungen aufgeführt sind und die eine angemessene Differenzierung zwischen diesen Leistungen, den ambulanten Leistungen und den Nebenleistungen garantieren;
+- e) ihren Voranschlag und ihre Jahresrechnung entsprechend dem für die Einrichtung vorgesehenen Kontenplan einreichen;
+- f) alle weiteren Informationen liefern, die der Erstellung des Voranschlages und des Finanzplanes des Staates dienen;
+- g) die Direktion über jegliche Absichten zur Änderung der Tätigkeit, die einen Einfluss auf den kantonalen Leistungsauftrag haben, sowie über Verhandlungen im Hinblick auf andere Leistungsaufträge informieren;
+- h) die Weiterbildung des Personals sicherstellen und die Anzahl Ausbildungsplätze anbieten, die dem Bedarf des Kantons entspricht, und zwar proportional zum Tätigkeitsvolumen;
+- i) über ein Informationssystem verfügen, das zu Qualität, Effizienz, Wirksamkeit und Betreuungssicherheit, zur Sicherstellung der Vergleichbarkeit der gelieferten Daten und zur Anpassung an die nationale eHealth Strategie beiträgt;
+- j) die Untersuchungen und die Behandlungen im eigenen Namen und auf eigene Rechnung liefern;
+- k) soweit es private Einrichtungen ohne verbindliche Gesamtarbeitsverträge sind, dafür sorgen, dass die Arbeitsbedingungen insgesamt mit denjenigen in den öffentlichen Anstalten vergleichbar sind.
+
+<sup>2</sup> Im Ausnahmefall kann der Staat die Leistungen von Einrichtungen finanzieren, die zur Bedarfsdeckung nötig sind, namentlich diejenigen von ausserkantonalen Einrichtungen, auch wenn diese nicht alle Anforderungen nach Absatz 1 erfüllen.
+
+#### Art. 4
+
+**Gemeinwirtschaftliche Leistungen (Art. 49 Abs. 3 KVG)**
+
+<sup>1</sup> Der Staat kann sich an der Finanzierung von als gemeinwirtschaftlich anerkannten Leistungen beteiligen; diese müssen sich namentlich in eine der nachfolgenden Kategorien einteilen lassen:
+
+- a) Aufrechterhaltung von Spitalkapazitäten aus regionalpolitischen Gründen;
+- b) Forschung und universitäre Lehre;
+- c) punktuelle Massnahmen, die zur Verhinderung eines Personalmangels beitragen;
+- d) Seelsorge;
+- e) Liaisonleistungen in den Spitälern;
+- f) Vorbereitung und Prävention für den Fall ausserordentlicher Lagen im Gesundheitsbereich.
+
+<sup>2</sup> Im Interesse der öffentlichen Gesundheit, insbesondere um den Bedarf der Freiburger Bevölkerung zu decken, kann der Staat die Spitäler und Geburtshäuser dazu verpflichten, gemeinwirtschaftliche Leistungen anzubieten. In diesem Falle stellt er die Finanzierung sicher.
+
+#### Art. 5
+
+**Andere Leistungen**
+
+<sup>1</sup> Der Staat kann sich insbesondere zugunsten von Tages- oder Nachtkliniken an der Finanzierung einer ambulanten Tätigkeit beteiligen, deren Kosten von der Krankenversicherung nicht gedeckt werden.
+
+<sup>2</sup> Er kann sich an der Finanzierung von Projekten und Aufträgen beteiligen, die einem spezifischen Bedürfnis der öffentlichen Gesundheit entsprechen.
+
+<sup>3</sup> Er kann eine allfällige Differenz zwischen dem Preis für stationäre Leistungen nach Unfallversicherung, Invalidenversicherung oder Militärversicherung und dem Preis der Krankenversicherung übernehmen.
+
+#### Art. 6
+
+**Finanzierungsmodalitäten**
+
+<sup>1</sup> Die vom Staat verlangten Untersuchungen und Behandlungen sowie die anderen Leistungen im Sinne von Artikel 5 Abs. 3 werden leistungsbezogen finanziert.
+
+<sup>2</sup> Die gemeinwirtschaftlichen Leistungen und die anderen Leistungen nach Artikel 5 Abs. 1 und 2 werden durch Pauschalbeträge und auf der Grundlage einer Kosten-Leistung-Rechnung finanziert.
+
+<sup>3</sup> Die Einzelheiten der Finanzierungsmodalitäten werden im Leistungsauftrag zwischen dem Staatsrat und dem betreffenden Spital bzw. Geburtshaus geregelt.
+
+#### Art. 7
+
+**Leistungsaufträge**
+
+<sup>1</sup> Die Leistungsaufträge enthalten die Verpflichtungen des Staats und der Spitäler. Sie betreffen namentlich:
+
+- a) die vom Staat verlangten stationären Leistungen;
+- b) die gemeinwirtschaftlichen Leistungen und die anderen Leistungen im Sinne von Artikel 5;
+- c) die Berechnungsgrundlagen für den Kantonsanteil und die Einzelheiten für dessen Überweisung;
+- d) den Mindestanteil für Investitionen;
+- e) die Informationen und Ergebnisse, die von den Spitälern und den Geburtshäusern erwartet werden;
+- f) die Einzelheiten in Bezug auf Beurteilung, Kontrolle und Nachkontrolle;
+- g) die Pflichten und Anforderungen an die Spitäler und die Geburtshäuser, sowie die Konsequenzen bei deren Nichteinhaltung.
+
+<sup>2</sup> Die Leistungsaufträge werden längstens für fünf Jahre abgeschlossen und enthalten Zusatzverträge, die jährlich geregelt werden.
+
+<sup>3</sup> Im Übrigen bestimmt der Staatsrat den Inhalt der Leistungsaufträge und regelt die Unterzeichnung.
+
+#### Art. 8
+
+**Besondere Kontrollen**
+
+<sup>1</sup> Die Jahresrechnungen der öffentlichen Spitäler müssen grundsätzlich ausgeglichen sein. Allfällige kumulierte Verluste in der Bilanz, die von den Geschäftsjahren 2012 und folgende stammen, dürfen höchstens 3 % der jährlichen Betriebskosten des letzten Geschäftsjahres ausmachen. In diesem Fall muss die Einrichtung ab dem darauffolgenden Geschäftsjahr Massnahmen treffen, um diese Überschreitung innert dreier Rechnungsjahre zu decken.
+
+#### Art. 9
+
+**Umwandlung der für Investitionen gesprochenen Beträge**
+
+<sup>1</sup> Die Investitionsbeiträge an die öffentlichen Spitäler, die vor Inkrafttreten dieses Gesetzes beschlossen worden sind, werden mit ihrem Wert, der vom Staatsrat bestimmt wurde, erfasst und in ein rückzahlbares und verzinsliches Darlehen umgewandelt.
+
+#### Art. 10
+
+**Ausserkantonale Behandlungen (Art. 41 KVG)**
+
+<sup>1</sup> Die Direktion ist zuständig für die Festlegung des Verfahrens und die Entscheide über die finanzielle Beteiligung des Kantons an den Kosten ausserkantonaler Behandlungen, die nach Artikel 41 KVG medizinisch begründet sind.
+
+<sup>2</sup> Gegen die Beschlüsse der Direktion kann Einsprache erhoben werden; die Einspracheentscheide können beim Kantonsgericht mit Beschwerde angefochten werden.
+
+#### Art. 11
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Sollte eine für die Bedarfsdeckung notwendige Einrichtung nicht in der Lage sein, die Anforderungen nach Artikel 3 Abs. 1 dieses Gesetzes zu erfüllen, so wird im Leistungsauftrag ein Zeitplan für die Anpassung festgelegt.
+
+#### Art. 12
+
+**Änderung bisherigen Rechts – Gesetz über das Freiburger Spitalnetz**
+
+<sup>1</sup> Das Gesetz vom 27. Juni 2006 über das Freiburger Spitalnetz (FSNG) (SGF 822.0.1) wird wie folgt geändert:
+
+...
+
+#### Art. 13
+
+**Änderung bisherigen Rechts – Gesetz über die Organisation der Pflege im Bereich psychische Gesundheit**
+
+<sup>1</sup> Das Gesetz vom 5. Oktober 2006 über die Organisation der Pflege im Bereich psychische Gesundheit (PGG) (SGF 822.2.1) wird wie folgt geändert:
+
+...
+
+#### Art. 14
+
+**Änderung bisherigen Rechts – Ausführungsgesetz zum Bundesgesetz über die Krankenversicherung (ausserkantonale Spitalaufenthalte)**
+
+<sup>1</sup> Das Ausführungsgesetz vom 24. November 1995 zum Bundesgesetz über die Krankenversicherung (KVGG) (SGF 842.1.1) wird wie folgt geändert:
+
+...
+
+#### Art. 15
+
+**Referendum und Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz untersteht dem Gesetzesreferendum. Es untersteht nicht dem Finanzreferendum.
+
+<sup>2</sup> Der Staatsrat bestimmt das Inkrafttreten dieses Gesetzes.[^15-1]
+
+[^15-1]: Datum des Inkrafttretens: 1. Januar 2012 (StRB 10.01.2012).
+
+2011\_122

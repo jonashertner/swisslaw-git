@@ -1,0 +1,199 @@
+---
+canton: FR
+number: "821.40.94"
+title: "Ausführungsverordnung zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Bars, Discos und Restaurants»)"
+short: KWPV-Gastro-COVID-19
+language: de
+version: 2020-12-22
+valid_until: 2021-01-03
+version_adopted: 2020-12-22
+adopted: 2020-11-24
+in_force: 2020-11-24
+url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.94"
+pdf: "https://bdlf.fr.ch/api/de/versions/6709/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ausführungsverordnung zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Bars, Discos und Restaurants»)
+
+COVID-19, Wiederankurbelungsplan – Bars, Discos und Restaurants – V
+
+(KWPV-Gastro-COVID-19)
+
+vom 24.11.2020 (Fassung in Kraft getreten am 22.12.2020)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (COVID-19-Gesetz);
+
+gestützt auf Artikel 3 des Dekrets vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus;
+
+gestützt auf die Verordnung vom 28. Oktober 2020 über die Erklärung der ausserordentlichen Lage auf kantonaler Ebene;
+
+gestützt auf die Verordnung vom 10. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus;
+
+gestützt auf das Gesetz vom 24. September 1991 über die öffentlichen Gaststätten (ÖGG) und sein Ausführungsreglement vom 16. November 1992 (ÖGR);
+
+gestützt auf das Subventionsgesetz vom 17. November 1999 (SubG);
+
+gestützt auf das Gesetz vom 13. Oktober 2005 über den Tourismus (TG);
+
+in Erwägung:
+
+Die Massnahmen, die nach und nach getroffen wurden, um die Verbreitung des Coronavirus (COVID-19) einzudämmen, haben äusserst negative Auswirkungen, namentlich unter dem Gesichtspunkt der Liquidität, auf die Freiburger Wirtschaft, die sich hauptsächlich aus kleinen und mittleren Unternehmen zusammensetzt. Der Bereich der Gastronomie, einschliesslich der Bars und Discos, ist besonders von den Einschränkungen betroffen, die vom Kanton und vom Bund angeordnet wurden.
+
+Am 13. Oktober 2020 hat der Grosse Rat im Rahmen des Plans zur Wiederankurbelung der Wirtschaft per Dekret einen Betrag von 3 Millionen Franken bereitgestellt, um die Bars, Discos und Restaurants zu unterstützen, da er sich der Bedeutung der Gastronomie bewusst ist, die eine wichtige Rolle für den sozialen Zusammenhalt der Freiburgerinnen und Freiburger spielt.
+
+Auf Antrag der Volkswirtschaftsdirektion,
+
+beschliesst:
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Diese Verordnung regelt die Bedingungen, unter denen der Staat Freiburg im Rahmen der Impulsmassnahme zugunsten von Bars, Discos und Restaurants (Massnahme zugunsten der öffentlichen Gaststätten) im Sinne von Artikel 3 des Dekrets vom 13. Oktober 2020 zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus (das Dekret) eine finanzielle Unterstützung gewährt.
+
+<sup>2</sup> Die Massnahme besteht aus einem A-fonds-perdu-Beitrag.
+
+<sup>3</sup> Sie wird einem Individualbeitrag im Sinne von Artikel 5 SubG und einer Subvention im Sinne des Steuerrechts gleichgestellt.
+
+#### Art. 2
+
+**Finanzielle Mittel und Rechnungsführung**
+
+<sup>1</sup> Für diese Massnahme wird gemäss dem Dekret ein Höchstbetrag von 3 Millionen Franken bereitgestellt.
+
+<sup>2</sup> Werden die Gesuche von einem beauftragten Dritten und/oder von zusätzlich angestelltem Personal bearbeitet, so werden die damit verbundenen Kosten über den in Absatz 1 erwähnten Betrag finanziert. Dasselbe gilt für die Kosten für die Bereitstellung und Verwaltung der digitalen Plattform.
+
+<sup>3</sup> Die über diese Verordnung ausgezahlten Beiträge müssen in der Staatsrechnung besonders gekennzeichnet werden. Die Finanzverwaltung erteilt die entsprechenden Anweisungen.
+
+#### Art. 3
+
+**Bedingungen für A-fonds-perdu-Beiträge**
+
+<sup>1</sup> Für den Beitrag gemäss dieser Verordnung gelten die folgenden Bedingungen:
+
+- a) Empfängerkreis: Ein Gesuch stellen kann jede Person, die als Mieter, Pächter oder Eigentümer eine Bar, eine Disco oder ein Restaurant betreibt, die oder das als öffentliche Gaststätte mit einem Patent des Typs A, B, C, D, F, H, I, L oder T im Sinne von Artikel 14 ÖGG gilt, und mit besagter Gaststätte für das Jahr 2019 einen Umsatz von mindestens 200'000 Franken ausweist.
+- b) Einschränkungen nach Patent: Für die folgenden Patente gelten restriktive Vergabebedingungen:
+  - 1\. Patent H: Die gesuchstellende Person verfügt über eine Ausbildung als Wirt/in und ist für die Zubereitung der Speisen der Gaststätte verantwortlich. Diese muss von der Haupttätigkeit, der sie angegliedert ist, unabhängig sein und darf nicht subventioniert sein.
+  - 2\. Patent L: Der Restaurationsbetrieb ist die Haupttätigkeit der gesuchstellenden Person.
+  - 3\. Patent T: Die gesuchstellende Person, die hauptberuflich einen Lebensmittelberuf ausübt, stellt die Zubereitung und Lieferung der Speisen sicher.
+- c) Umsatzrückgang: Die gesuchstellende Person weist infolge der behördlich angeordneten Massnahmen zur Bekämpfung der COVID-19-Epidemie für den Monat, auf den sich das Gesuch bezieht, einen Umsatzrückgang von mindestens 20 % gegenüber dem entsprechenden Monat im Jahr 2019 aus.
+- d) Berechnung des Umsatzes: Falls die gesuchstellende Person ihre Geschäftstätigkeit im Jahr 2019 oder 2020 aufgenommen hat, dient der monatliche Umsatz, der vor dem 29. Februar 2020 generiert wurde, als Berechnungsgrundlage. Liegt kein Umsatz vor, wird dieser anhand eines Businessplans mit einer monatlichen Verteilung der Einnahmen berechnet.
+- e) Gegenstand der Massnahme: Der Beitrag deckt einen Teil der monatlichen Fixkosten, die in direktem Zusammenhang mit dem Betrieb der öffentlichen Gaststätte stehen.
+- f) Umfang des Beitrags: Der Beitrag beläuft sich auf 9 % des eingebüssten Umsatzes nach Buchstabe d für den Monat, auf den sich das Gesuch bezieht; dies entspricht dem von der Branche geschätzten durchschnittlichen Mietaufwand (10 %), von dem 10 % als unternehmerisches Risiko abgezogen werden.
+- g) Begrenzung der Gesuche: Wenn der Eigentümer und der Mieter bzw. Pächter dieselbe Rechtsperson sind oder denselben wirtschaftlich Berechtigten vertreten, ist nur ein Gesuch pro öffentliche Gaststätte zulässig.
+- h) Höchstbetrag: Der Beitrag beläuft sich pro Gaststätte auf höchstens 50'000 Franken für die gesamte Dauer nach Buchstabe i.
+- i) Dauer der Massnahme: Die Massnahme zugunsten der öffentlichen Gaststätten dauert höchstens 6 Monate ab dem Entscheid der Behörden zur Wiedereröffnung der öffentlichen Gaststätten und nur solange, bis die bereitgestellten Mittel gemäss Artikel 2 ausgeschöpft sind. Wird eine gestaffelte Wiedereröffnung nach Patenttyp beschlossen, gilt die Dauer von 6 Monaten jeweils ab der entsprechenden Wiedereröffnung.
+- j) Frist für die Gesuchstellung: Das Gesuch muss bis am letzten Tag des Monats gestellt werden, der auf den betroffenen Zeitraum folgt. Ein Erstgesuch kann für jeden einzelnen Monat während der Geltungsdauer der Massnahme im Sinne des vorangehenden Buchstabens eingereicht werden.
+- k) Kein Zahlungsverzug und keine Kündigung: Die gesuchstellende Person bestätigt, dass kein Miet- oder Pachtzinsverzug vorliegt und keine Kündigung des Miet- oder Pachtvertrags erfolgt ist.
+- l) Sozialversicherungen: Die gesuchstellende Person bestätigt, dass sie die von ihr und ihren Angestellten geschuldeten Sozialversicherungsbeiträge regelmässig gezahlt hat.
+- m) Steuersituation: Die gesuchstellende Person bestätigt, dass sie bei den Steuern nicht im Verzug ist, insbesondere was die Einhaltung der Frist für die Abgabe der Steuererklärung, die Steuerzahlungen und das Inkasso der Quellensteuern der Angestellten betrifft.
+- n) Auskunftspflicht: Der Freiburger Tourismusverband (FTV) und sein Sekretariat des Tourismusförderungs-Fonds (TFF) sind befugt, von der gesuchstellenden Person zu verlangen, dass sie innert einer angemessenen Frist zusätzliche Informationen oder Auskünfte erteilt, die für die Bearbeitung des Gesuchs benötigt werden. Werden die verlangten Auskünfte nicht innerhalb der gesetzten Frist erteilt, so wird dies als Rückzug des Gesuchs gewertet. Diese Auskunftspflicht bleibt über die Dauer des Unterstützungszeitraums hinaus bestehen, damit die nötigen Kontrollen im Sinne von Artikel 6 durchgeführt werden können.
+
+<sup>2</sup> Keinen Beitrag gestützt auf diese Verordnung erhalten öffentliche Gaststätten im Sinne von Absatz 1:
+
+- a) deren Eigentümer oder Mieter-Betreiber öffentliche Körperschaften sind;
+- b) die gestützt auf die Verordnung vom 14. April 2020 über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Tourismusbereich (WMT-COVID-19) bereits einen Beitrag zu 100 % erhalten haben;
+- c) die gestützt auf die Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle (WMHV-COVID-19) einen Beitrag erhalten oder erhalten haben.
+
+<sup>3</sup> Der vom Staat gewährte Beitrag im Sinne dieses Artikels wird in die kaufmännische Buchführung des Empfängers aufgenommen.
+
+#### Art. 4
+
+**Modalitäten**
+
+<sup>1</sup> Für die Einreichung und Bearbeitung der Gesuche nach Artikel 3 dieser Verordnung gelten die folgenden Modalitäten:
+
+- a) Formular: Das Gesuch ist auf elektronischem Weg über eine zu diesem Zweck eingerichtete Website an das Sekretariat des TFF zu richten.
+- b) Erforderliche Angaben: Über das Formular werden namentlich die folgenden Auskünfte verlangt:
+  - 1\. Name(n), Vorname(n) und Adresse der gesuchstellenden Person;
+  - 2\. Name und Adresse der öffentlichen Gaststätte;
+  - 3\. Unternehmensidentifikationsnummer (UID).
+- c) Beilagen: Die folgenden Beilagen zum Formular sind hochzuladen:
+  - 1\. Jahresrechnung 2019, Name des mit der Erstellung des Rechnungsabschlusses beauftragten Treuhandbüros, Revisionsbericht 2019;
+  - 2\. Einnahmen exkl. MWST, mit monatlicher Verteilung (als Excel-Datei);
+  - 3\. Ablesungen der Registrierkassen, welche die Einnahmen des Monats bestätigen inklusive der Debitoren-Rechnungen, ab Oktober 2020;
+  - 4\. MWST-Formulare der betroffenen Quartale und Formulare mit den gemeldeten Einnahmen;
+  - 5\. Beleg der Personalkosten und Abrechnung der für den Zeitraum bezogenen Kurzarbeitsentschädigung;
+  - 6\. Bestätigung, dass die gesuchstellende Person regelmässig die selbst geschuldeten und im Namen der Angestellten zu bezahlenden Sozialversicherungsbeiträge gezahlt hat;
+  - 7\. Bestätigung, dass die gesuchstellende Person ihre Betriebsabgaben gemäss ÖGG regelmässig gezahlt hat;
+  - 8\. Bestätigung, dass die gesuchstellende Person hinsichtlich ihrer Steuersituation auf dem aktuellen Stand ist, insbesondere was die Einhaltung der Frist für die Abgabe der Steuererklärung, die Steuerzahlungen und das Inkasso der Quellensteuern ihrer Angestellten betrifft;
+  - 9\. aktueller Betreibungsregisterauszug.
+
+<sup>2</sup> Mit dem Ausfüllen des Formulars ermächtigt die gesuchstellende Person den FTV, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden (Bund, Kanton und Gemeinde) auszutauschen. Zu diesem Zweck entbindet sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
+
+<sup>3</sup> Der FTV kann für die Verwaltung der digitalen Plattform und die Bearbeitung der Gesuche einen oder mehrere Dritte beauftragen.
+
+<sup>4</sup> Bei Erneuerung des Gesuchs müssen nur die Belege nach Absatz 1 Bst. c Ziff. 2, 3, 4 und 5 für den Monat, auf den sich das Gesuch bezieht, erneut eingereicht werden.
+
+#### Art. 4a
+
+**Vorgezogene Aktivierung der Massnahme in Form einer «Sofortmassnahme»**
+
+<sup>1</sup> In Ergänzung von Artikel 3 und 4 gelten die folgenden Bedingungen für die Bearbeitung der Gesuche infolge der vorgezogenen Aktivierung der Massnahme in Form einer «Sofortmassnahme»:
+
+- a) Empfängerkreis: Ein Gesuch stellen können die Personen im Sinne von Artikel 3 Abs. 1 Bst. a, deren öffentlich zugängliche Einrichtung oder Betrieb im Sinne von Artikel 1 der Verordnung vom 16. November 2020 über die Begleitmassnahmen für Einrichtungen, deren Schliessung infolge der zweiten Coronavirus-Welle angeordnet wurde (BMSV-COVID-19) auf behördliche Anordnung geschlossen wurde.
+- b) Dauer des Beitrags: Die Impulsmassnahme, die in Form einer «Sofortmassnahme» vorgezogen aktiviert wird, gilt ab dem 1. November 2020 bis längstens 22. Januar 2021.
+- c) Gesuchstellung: ab dem 4. Januar 2021.
+- d) Aufhebung von Ausschlussbestimmungen: Artikel 3 Abs. 2 Bst. b und c sind nicht auf die «Sofortmassnahme» nach diesem Artikel anwendbar.
+- e) Ergänzende Unterlagen, Erleichterungen: Die in Artikel 4 Abs. 1 Bst. c Ziff. 5 verlangte Abrechnung der Kurzarbeitsentschädigung muss nicht eingereicht werden.
+- f) Selbstdeklaration: Die Bestätigungen, die mit den ergänzenden Unterlagen nach Artikel 4 Abs. 1 Bst. c Ziff. 6 bis 9 verlangt werden, erfolgen durch Selbstdeklaration.
+
+<sup>2</sup> Der FTV wird Kontrollen durchführen.
+
+<sup>3</sup> Die Anforderungen an den Gesundheitsschutz gemäss der Verordnung vom 10. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus bleiben vorbehalten.
+
+<sup>4</sup> Die zusätzlichen Mittel, die für die Finanzierung des Gesuchs nötig sind, werden in Ergänzung der in Artikel 2 Abs. 1 festgelegten Mittel mit dem Betrag verrechnet, der für Härtefälle im Sinne von Artikel 6 Abs. 3 des Gesetzes vom 14. Oktober 2020 zur Genehmigung der Sofortmassnahmen des Staatsrats zur Bewältigung der COVID-19-Epidemie bestimmt ist.
+
+#### Art. 5
+
+**Entscheid- und Finanzkompetenzen**
+
+<sup>1</sup> Beiträge können nur im Rahmen der nach Artikel 2 zur Verfügung stehenden Mittel vergeben werden.
+
+<sup>2</sup> Die Volkswirtschaftsdirektion (VWD) erlässt einen Entscheid über das Gesuch. Sie kann diese Kompetenz bis zum Höchstbetrag nach Artikel 3 Abs. 1 Bst. h dieser Verordnung dem TFF übertragen.
+
+#### Art. 6
+
+**Kontrollen**
+
+<sup>1</sup> Der FTV überwacht gemäss Artikel 36 Abs.1 SubG die Bearbeitung der Gesuche und die Zahlung der Beiträge.
+
+<sup>2</sup> Ist die Auszahlung eines Betrags zu Unrecht erfolgt, so fordert der Staat den Betrag gestützt auf Artikel 37 SubG ganz oder teilweise zurück.
+
+<sup>3</sup> Im Übrigen gelten die Strafbestimmungen gemäss Artikel 41 SubG.
+
+<sup>4</sup> Das Amt für Gewerbepolizei kann in Zusammenarbeit mit den Gemeinden und dem Finanzinspektorat jederzeit, auch nach Gewährung der Beiträge Kontrollen durchführen.
+
+#### Art. 7
+
+**Datenschutz**
+
+<sup>1</sup> Der FTV sammelt die in Artikel 4 verlangten Daten.
+
+<sup>2</sup> Die gemäss Absatz 1 gesammelten Daten können an andere öffentliche Dienststellen zur Ausübung ihrer gesetzlichen Aufgaben weitergegeben werden, falls eine Gesetzesbestimmung ihnen die Verwendung dieser Daten erlaubt. Kontrollen werden vorgenommen.
+
+<sup>3</sup> Der FTV ist für die Bearbeitung der Daten zuständig. Er kann diese Aufgabe an Dritte übertragen.
+
+<sup>4</sup> Die Datenbearbeitung durch den FTV oder durch einen beauftragten Dritten untersteht der Gesetzgebung über den Datenschutz; das gilt namentlich für die Verwendung und Aufbewahrung von Daten, die technischen und organisatorischen Massnahmen, die Weitergabe und das Hosting von Daten.
+
+#### Art. 8
+
+**Anspruch auf den Beitrag**
+
+<sup>1</sup> Es besteht kein Anspruch auf diesen Beitrag.
+
+<sup>2</sup> Die Pflichten der gesuchstellenden Personen, der Widerruf des Entscheids und die Rückerstattung des Beitrags richten sich nach dem SubG.
+
+#### Art. 9
+
+**Geltungsdauer**
+
+<sup>1</sup> Diese Verordnung gilt für einen Zeitraum von höchstens 6 Monaten ab der letzten beschlossenen Wiedereröffnung.
+
+<sup>2</sup> Sie wird aufgehoben, sobald der in Artikel 2 Abs. 1 erwähnte Betrag ausgeschöpft ist.
+
+2020\_162

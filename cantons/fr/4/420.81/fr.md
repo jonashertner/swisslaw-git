@@ -1,0 +1,162 @@
+---
+canton: FR
+number: "420.81"
+title: "Statuts de l'Association du Centre professionnel cantonal (ACPC)"
+language: fr
+version: 2020-09-22
+valid_until: 2021-09-20
+version_adopted: 2020-06-17
+adopted: 2010-07-05
+in_force: 2010-08-17
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.81"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6605/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Statuts de l'Association du Centre professionnel cantonal (ACPC)
+
+Association du Centre professionnel cantonal – Statuts
+
+du 05.07.2010 (version entrée en vigueur le 22.09.2020)
+
+## 1 Nom et siège
+
+#### Art. 1
+
+<sup>1</sup> Sous le nom d'«Association du Centre professionnel cantonal (ACPC)» (ci-après: l'Association), il est constitué une association au sens des articles 60 et suivants du code civil suisse.
+
+<sup>2</sup> L'Association a son siège à Fribourg.
+
+## 2 But
+
+#### Art. 2
+
+<sup>1</sup> L'Association a pour but d'aider au développement de la formation professionnelle dans le canton de Fribourg, par la construction, l'entretien et l'exploitation des locaux et installations destinés à la formation professionnelle.
+
+<sup>2</sup> Elle détermine en particulier les dépenses visées à l'article 66 al. 1 de la loi du 13 décembre 2007 sur la formation professionnelle (ci-après: LFP).
+
+## 3 Organes de l'Association
+
+#### Art. 3
+
+<sup>1</sup> Les organes de l'Association sont:
+
+- a) l'assemblée des délégué‑e‑s;
+- b) le comité;
+- c) l'organe de révision.
+
+## 4 L'assemblée des délégué‑e‑s
+
+#### Art. 4
+
+<sup>1</sup> …
+
+<sup>1a</sup> L'assemblée des délégué‑e‑s (ci-après: l'assemblée) se compose de vingt-six personnes élues par les représentants et représentantes de l'Etat ainsi que par les membres de l'Association des communes fribourgeoises, des associations patronales et des associations de travailleurs et travailleuses.
+
+<sup>1b</sup> Les délégué‑e‑s exercent le droit de vote au nom de leurs associations respectives. Les voix sont réparties de la manière suivante:
+
+- a) 6 voix pour l'Etat;
+- b) 12 voix pour l'Association des communes fribourgeoises;
+- c) 6 voix pour les associations patronales;
+- d) 2 voix pour les associations de travailleurs et travailleuses.
+
+<sup>2</sup> Elle est présidée d'office par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice dont dépend la formation professionnelle ou, à défaut, par une personne représentant l'Etat.
+
+<sup>3</sup> Le secrétariat est assuré par le ou la chef‑fe du Service de la formation professionnelle (ci-après: le Service).
+
+#### Art. 5
+
+<sup>1</sup> L'assemblée a les attributions suivantes:
+
+- a) déterminer les dépenses relatives à la construction, l'équipement, l'entretien et l'exploitation des locaux et installations destinés à la formation professionnelle;
+- b) approuver les comptes et le budget de l'Association;
+- c) décider la construction d'un bâtiment;
+- d) proposer au comité des améliorations aux bâtiments et aux installations destinés à la formation professionnelle.
+
+<sup>2</sup> Les décisions de l'assemblée sont prises à la majorité des voix représentées. En cas d'égalité, la voix du président ou de la présidente est prépondérante.
+
+<sup>3</sup> Le droit de vote par procuration donné par écrit à un ou une délégué‑e présent‑e est autorisé.
+
+#### Art. 6
+
+<sup>1</sup> L'assemblée est convoquée deux fois par année au moins.
+
+<sup>2</sup> Elle peut, en outre, se réunir en session extraordinaire chaque fois que nécessaire à la demande du comité ou d'un cinquième des voix.
+
+## 5 Le comité
+
+#### Art. 7
+
+<sup>1</sup> Le comité se compose de onze membres répartis comme il suit:
+
+- a) 2 personnes représentant l'Etat, dont le président ou la présidente de l'assemblée;
+- b) …
+- c) …
+- d) 6 personnes représentant les communes;
+- e) 2 personnes représentant les associations professionnelles patronales;
+- f) 1 personne représentant les associations professionnelles de travailleurs et travailleuses.
+
+<sup>2</sup> Le secrétariat est assuré par le ou la chef‑fe du Service.
+
+<sup>3</sup> Les membres du comité sont proposés par les collectivités ou les associations qu'ils représentent. Les personnes représentant les communes sont proposées par le comité de l'Association des communes fribourgeoises. L'assemblée ratifie ces propositions.
+
+<sup>4</sup> La durée du mandat des membres du comité correspond à une période administrative.
+
+#### Art. 8
+
+<sup>1</sup> Le comité a les attributions suivantes:
+
+- a) traiter les affaires courantes de l'Association;
+- b) décider les dépenses relatives à l'entretien courant des locaux et des installations destinés à la formation professionnelle;
+- c) prendre toutes les décisions qui ne sont pas placées dans la compétence de l'assemblée;
+- d) créer les commissions ou groupes de travail nécessaires au bon fonctionnement de l'Association.
+
+<sup>2</sup> Le comité ne peut valablement délibérer que lorsque la majorité des membres au moins est présente.
+
+<sup>3</sup> Les décisions sont prises à la majorité des membres présents. En cas d'égalité, la voix du président ou de la présidente est prépondérante.
+
+## 6 Ressources de l'Association
+
+#### Art. 9
+
+<sup>1</sup> Pour réaliser son but, selon l'article 2 des présents statuts, l'Association peut, outre la répartition fixée par l'article 66 LFP:
+
+- a) procéder à des emprunts;
+- b) demander des garanties à l'Etat et aux communes de domicile des écoles professionnelles;
+- c) demander des contributions à fonds perdu à la Fondation constituée en vue de promouvoir la formation professionnelle (art. 69 al. 1 LFP);
+- d) solliciter d'autres contributions.
+
+## 7 Contrôle
+
+#### Art. 10
+
+<sup>1</sup> Le contrôle est assumé par un organe de révision externe nommé par l'assemblée sur la proposition du comité.
+
+#### Art. 10a
+
+<sup>1</sup> La gestion des activités courantes de l'Association telles que le secrétariat, la comptabilité et la conciergerie est confiée au personnel de l'Association engagé par le Service.
+
+## 8 Dissolution
+
+#### Art. 11
+
+<sup>1</sup> L'Association ne peut être dissoute, à moins que la loi sur la formation professionnelle n'en dispose autrement.
+
+## 9 Entrée en vigueur
+
+#### Art. 12
+
+<sup>1</sup> Les présents statuts entrent en vigueur dès leur adoption par l'assemblée constitutive, composée conformément à l'article 4, et leur approbation par le Conseil d'Etat.
+
+<sup>2</sup> Ils remplacent et abrogent les statuts du 5 juillet 2004 (RSF 423.21).
+
+**Approbation[^footer-1]**
+
+Les présents statuts ont été approuvés par le Conseil d'Etat le 17.08.2010.
+
+Les modifications du 17.06.2020 ont été approuvées par le Conseil d'Etat le 22.09.2020.
+
+2010\_084
+
+[^footer-1]: Acte classé sous 423.21 jusqu'au 31.12.2015.

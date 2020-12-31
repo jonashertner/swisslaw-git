@@ -1,0 +1,279 @@
+---
+canton: FR
+number: "122.72.18"
+title: "Ordonnance sur la garantie de la rémunération en cas de maladie et d'accident du personnel de l'Etat"
+language: fr
+version: 2014-01-01
+valid_until: 2022-12-31
+version_adopted: 2013-09-24
+adopted: 2003-09-16
+in_force: 2004-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.18"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5031/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur la garantie de la rémunération en cas de maladie et d'accident du personnel de l'Etat
+
+Personnel de l'Etat, garantie en cas de maladie et d'accident – O
+
+du 16.09.2003 (version entrée en vigueur le 01.01.2014)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu l'article 110 de la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
+
+Vu l'ordonnance du 25 juin 2002 relative à l'entrée en vigueur de la LPers;
+
+Sur la proposition de la Direction des finances,
+
+Arrête:
+
+## 1 Objet
+
+#### Art. 1
+
+<sup>1</sup> La présente ordonnance règle les conditions de la garantie de la rémunération en cas de maladie ou d'accident telle qu'elle est définie à l'article 110 LPers.
+
+## 2 Garantie de la rémunération sur 730 jours
+
+#### Art. 2
+
+**Personnel bénéficiaire**
+
+<sup>1</sup> Sont bénéficiaires de la garantie de la rémunération sur 730 jours (ci-après: garantie complète) les collaborateurs et collaboratrices sous contrat de travail d'une durée indéterminée ou d'une durée déterminée d'au moins deux ans.
+
+#### Art. 3
+
+**Début et fin de la garantie complète**
+
+<sup>1</sup> La garantie complète entre en vigueur dès le premier jour de l'entrée en fonction fixée par le contrat, mais au plus tard le premier jour de travail effectif. Reste réservé le cas de caducité du contrat d'engagement en application de l'article 28 al. 2 LPers.
+
+<sup>2</sup> La garantie complète prend fin lors de l'extinction des rapports de service.
+
+#### Art. 4
+
+**Prestations – Principe**
+
+<sup>1</sup> En cas d'incapacité de travail pour cause de maladie ou d'accident, le collaborateur ou la collaboratrice bénéficie des prestations liées à la garantie complète durant 730 jours.
+
+<sup>2</sup> Ces prestations sont composées:
+
+- a) d'un droit au traitement pendant les 365 premiers jours d'incapacité de travail du collaborateur ou de la collaboratrice. Ce traitement est défini par l'article 5 (traitement déterminant) et est versé directement par l'Etat;
+- b) du versement d'indemnités journalières du 366<sup>e</sup> jour au 730<sup>e</sup> jour d'incapacité de travail. Ces indemnités sont égales au traitement déterminant, déduction faite du montant correspondant aux cotisations sociales et à la retenue salariale prévue à l'article 10. Les indemnités journalières sont versées par la Caisse de prévoyance du personnel de l'Etat (ci-après: la Caisse de prévoyance).
+
+<sup>3</sup> Le versement des indemnités journalières est subordonné à une demande de prestation AI auprès de l'Office AI.
+
+#### Art. 5
+
+**Prestations – Traitement déterminant**
+
+<sup>1</sup> Le traitement déterminant est celui qui est dû contractuellement lors de la survenance de l'incapacité de travail. Pour le personnel enseignant, le traitement déterminant est celui qui correspond à l'horaire convenu lors de la survenance de l'incapacité de travail.
+
+<sup>2</sup> Le traitement déterminant comprend:
+
+- a) le traitement de base soumis AVS, y compris le treizième salaire;
+- b) la prime de fidélité;
+- c) les indemnités forfaitaires mensuelles soumises AVS;
+- d) dès le début du mois suivant la fin du quatrième mois consécutif d'incapacité, les indemnités ponctuelles dues pour l'accomplissement de l'horaire irrégulier, d'un service de piquet, de garde ou d'un service équivalent, dans la mesure où ces indemnités sont dues régulièrement. Le montant déterminant correspond à la moyenne des montants dus durant les six derniers mois avant la survenance de l'incapacité de travail;
+- e) les allocations familiales et les allocations d'employeur pour enfant.
+
+<sup>3</sup> La part des honoraires rétrocédée aux médecins ainsi que, le cas échéant, l'indemnité compensatoire y relative ne sont pas comprises dans le traitement déterminant garanti.
+
+#### Art. 6
+
+**Prestations – Calcul de la durée**
+
+<sup>1</sup> L'épuisement du droit au traitement se détermine par l'addition des jours d'incapacité de travail totale ou partielle, jusqu'à concurrence de 365 jours, compris dans une période de 547 jours consécutifs calculée rétroactivement à partir de chaque nouveau jour d'incapacité. L'article 7 est réservé.
+
+<sup>2</sup> L'épuisement du droit aux indemnités journalières se détermine par l'addition des jours d'incapacité de travail totale ou partielle, jusqu'à concurrence de 730 jours, déduction faite des jours ayant donné droit au traitement selon l'alinéa 1. Le décompte s'effectue dans une période de 912 jours consécutifs calculée rétroactivement à partir de chaque nouveau jour d'incapacité.
+
+#### Art. 7
+
+**Prestations – En cas de résiliation des rapports de service avant l'échéance des 365 premiers jours d'incapacité**
+
+<sup>1</sup> En cas de résiliation des rapports de service par le collaborateur ou la collaboratrice ou par l'employeur avant l'échéance des 365 premiers jours d'incapacité de travail calculés conformément à l'article 6 al. 1, la Caisse de prévoyance assure le versement des indemnités journalières jusqu'à l'expiration des 730 jours dans une période de 912 jours consécutifs.
+
+#### Art. 8
+
+**Prestations – Fin anticipée**
+
+<sup>1</sup> Dans tous les cas, les prestations prennent fin avant l'échéance des 730 jours d'incapacité:
+
+- a) à la fin du mois suivant le décès du collaborateur ou de la collaboratrice;
+- b) en cas de récupération de la capacité de gain;
+- c) à la date effective de la retraite;
+- d) à l'expiration d'un contrat de durée limitée.
+
+#### Art. 9
+
+**Financement de la garantie complète – Principe**
+
+<sup>1</sup> La garantie complète est financée par l'Etat et par les collaborateurs et collaboratrices.
+
+<sup>2</sup> L'Etat prend à sa charge le financement du droit au traitement.
+
+<sup>3</sup> Les collaborateurs et collaboratrices supportent la charge des indemnités journalières par une retenue salariale, sous déduction des prestations AI de la Caisse de prévoyance et de celles qui découlent de l'article 83 RPers.
+
+#### Art. 10
+
+**Financement de la garantie complète – Retenue salariale**
+
+<sup>1</sup> La retenue salariale est de 1,5 ‰ du traitement brut.
+
+<sup>2</sup> La retenue salariale est effectuée sur le traitement du collaborateur ou de la collaboratrice, y compris pendant les périodes d'incapacité de travail. La retenue salariale n'est en revanche pas effectuée sur les indemnités journalières versées par la Caisse de prévoyance.
+
+#### Art. 11
+
+**Financement de la garantie complète – Fonds de la garantie de la rémunération sur 730 jours**
+
+<sup>1</sup> Le montant des retenues salariales est versé auprès de la Caisse de prévoyance sur un fonds dénommé fonds de la garantie de la rémunération sur 730 jours (ci-après: le fonds).
+
+<sup>2</sup> La Caisse de prévoyance facture chaque année au fonds:
+
+- a) le montant correspondant aux indemnités journalières qu'elle verse, déduction faite de ses propres prestations ainsi que de celles qui découlent de l'article 83 RPers;
+- b) un montant correspondant à ses frais de gestion, convenu préalablement avec la Direction des finances après consultation de la Commission consultative permanente pour les questions de personnel (ci-après: la Commission) ainsi que des partenaires reconnus selon l'article 128 LPers.
+
+#### Art. 12
+
+**Financement de la garantie complète – Gestion du fonds**
+
+<sup>1</sup> Le fonds est géré par la Caisse de prévoyance. Les intérêts du compte courant bancaire et, le cas échéant, des placements sont bonifiés au fonds.
+
+<sup>2</sup> La Caisse de prévoyance communique annuellement l'état du fonds à la Direction des finances, à la Commission ainsi qu'aux partenaires reconnus selon l'article 128 LPers.
+
+<sup>3</sup> L'Inspection des finances contrôle annuellement les comptes du fonds et communique son rapport à la Commission.
+
+#### Art. 13
+
+**Financement de la garantie complète – Ajustement des retenues salariales**
+
+<sup>1</sup> Tous les trois ans, sur la base de l'état du fonds, la Direction des finances propose au Conseil d'Etat, après consultation de la Commission et des partenaires reconnus, le maintien ou la modification du taux des retenues salariales.
+
+## 3 Garantie partielle de la rémunération
+
+#### Art. 14
+
+**Personnel bénéficiaire et prestations**
+
+<sup>1</sup> Le personnel engagé pour une période inférieure à deux ans est mis au bénéfice d'une garantie partielle de la rémunération.
+
+<sup>2</sup> Celle-ci consiste dans le versement du traitement pendant une durée limitée.
+
+<sup>3</sup> Le traitement comprend:
+
+- a) le traitement de base soumis AVS, y compris le treizième salaire;
+- b) les allocations familiales et les allocations d'employeur pour enfant.
+
+#### Art. 15
+
+**Durée du droit au traitement**
+
+<sup>1</sup> La durée du droit au traitement est de:
+
+- a) un mois, lorsque le collaborateur ou la collaboratrice est engagé-e pour une durée égale ou inférieure à un an;
+- b) trois mois, lorsque le collaborateur ou la collaboratrice est engagé-e pour une durée supérieure à un an et que l'incapacité survient au cours de la première année de service;
+- c) six mois, lorsqu'elle survient au cours de la deuxième année de service.
+
+<sup>2</sup> En cas de prolongation exceptionnelle du contrat au-delà de deux ans, le droit au traitement est prolongé proportionnellement, jusqu'à concurrence de douze mois dès la quatrième année de service.
+
+<sup>3</sup> En cas de maladie professionnelle ou d'accident professionnel, le droit au traitement est de douze mois.
+
+<sup>4</sup> Le collaborateur ou la collaboratrice qu'une maladie ou un accident empêche d'entrer en fonction a droit à son traitement durant un mois au plus.
+
+<sup>5</sup> Exceptionnellement et dans des cas particulièrement pénibles, la durée de versement du traitement peut être prolongée de trois mois au maximum.
+
+#### Art. 16
+
+**Calcul de la durée du droit au traitement**
+
+<sup>1</sup> L'épuisement du droit au traitement se détermine par l'addition des jours d'incapacité de travail totale ou partielle, compris dans une période de 547 jours calculée rétroactivement à partir de chaque nouveau jour d'incapacité.
+
+<sup>2</sup> L'extinction des rapports de service au terme du contrat de durée limitée, ou pour des motifs qui ne sont pas inhérents à la maladie ou à l'accident du collaborateur ou de la collaboratrice, met fin au droit au traitement.
+
+## 4 Dispositions communes
+
+#### Art. 17
+
+**Contrôle et réduction des prestations**
+
+<sup>1</sup> L'autorité d'engagement ou la Caisse de prévoyance peuvent faire dépendre le versement du traitement ou des indemnités journalières d'un contrôle effectué par le ou la médecin-conseil de l'Etat portant sur le certificat médical attestant l'incapacité de travail. Le cas échéant, l'autorité d'engagement ou la Caisse de prévoyance peut exiger que la personne assurée soit examinée directement par le ou la médecin-conseil de l'Etat.
+
+<sup>2</sup> Après consultation du ou de la médecin-conseil de l'Etat et sur le préavis du Service du personnel et d'organisation, l'autorité d'engagement peut réduire les prestations de la garantie de la rémunération dans la même proportion que l'assurance-accidents obligatoire, lorsque l'accident est dû à une faute grave du collaborateur ou de la collaboratrice. Il en est de même, jusqu'à concurrence de 50 %, en cas de maladie consécutive à une non-observation d'une directive de l'Etat-employeur.
+
+#### Art. 18
+
+**Prestations en cas de congé non payé**
+
+<sup>1</sup> Pendant toute la durée d'un congé non payé, les prestations dues en cas d'incapacité de travail ne sont pas versées.
+
+<sup>2</sup> Lorsque le collaborateur ou la collaboratrice est en incapacité de travail avant le début d'un congé non payé, les prestations de la garantie de la rémunération sont versées jusqu'au dernier jour précédant le congé, sous réserve d'un report ou d'une annulation du congé.
+
+<sup>3</sup> Lorsque, au terme d'un congé non payé, le collaborateur ou la collaboratrice est en incapacité de travail, le droit aux prestations de la garantie de la rémunération prend naissance le premier jour suivant la fin du congé non payé.
+
+#### Art. 19
+
+**Prestations durant les mesures de réadaptation**
+
+<sup>1</sup> Lorsque le collaborateur ou la collaboratrice est soumis-e pendant la durée du droit au traitement ou après son terme pendant la durée de versement des indemnités journalières à des mesures de réadaptation au sens de l'AI fédérale, le droit au traitement est prolongé jusqu'à la fin des mesures, mais au plus jusqu'à l'expiration de 912 jours depuis le début de l'incapacité de travail.
+
+<sup>2</sup> Le droit au traitement n'est pas prolongé pendant la durée des mesures de réadaptation en cas de résiliation des rapports de service avant le terme d'une année de droit au traitement.
+
+#### Art. 20
+
+**Subrogation**
+
+<sup>1</sup> Les prestations de l'employeur en cas d'incapacité de travail du personnel sont réduites du montant des indemnités journalières ou des rentes dues au collaborateur ou à la collaboratrice par l'assurance-accidents, l'assurance-invalidité et l'assurance militaire, pour la période déjà couverte par les prestations de l'employeur. L'Etat ou, le cas échéant, la Caisse de prévoyance sont subrogés aux droits du collaborateur ou de la collaboratrice en cas de versement rétroactif par les assureurs sociaux d'indemnités journalières ou de rentes pour la période d'incapacité de travail déjà couverte par l'employeur.
+
+<sup>2</sup> En outre, les prestations dues en cas d'incapacité de travail sont réduites du montant de la prestation pour perte de gain versé par un tiers à teneur de la législation sur la responsabilité civile. Dans ce cas, l'Etat ou la Caisse de prévoyance sont subrogés aux droits du collaborateur ou de la collaboratrice qui ne peut traiter au sujet de sa prétention sans le consentement de l'Etat ou de la Caisse de prévoyance; à ce défaut, celui-ci ou celle-ci peuvent réduire le traitement en proportion du dommage qu'ils ont subi.
+
+#### Art. 21
+
+**Gestion des absences en cas de maladie ou d'accident**
+
+<sup>1</sup> Le décompte des jours d'incapacité est effectué soit par le Service du personnel et d'organisation, soit, en vertu de la convention prévue à l'article 6 al. 2 RPers, par l'entité de gestion qui gère le dossier du collaborateur absent ou de la collaboratrice absente. Le Service du personnel et d'organisation ou l'entité de gestion communique chaque mois ce décompte aux unités administratives. Pour les incapacités de longue durée, il ou elle indique en outre la date de fin du droit au traitement conformément à l'article 36 RPers, lorsque celle-ci est à prévoir dans un délai de trois mois.
+
+<sup>2</sup> En cas d'absence de plus de deux mois, le ou la chef-fe de service s'enquiert périodiquement de l'état de santé du collaborateur ou de la collaboratrice. Le contact est établi directement avec la personne absente ou, si les circonstances le justifient, avec les proches de celle-ci. Avec l'autorisation de la personne absente, le ou la chef-fe de service peut prendre contact avec le médecin traitant ou la médecin traitante.
+
+<sup>3</sup> Le Service du personnel et d'organisation édicte des directives relatives à la gestion des cas d'absence de longue durée pour cause de maladie ou d'accident. Il collabore avec le ou la chef-fe de service pour conseiller et appuyer le collaborateur ou la collaboratrice dans les diverses démarches à accomplir auprès des instances compétentes, notamment auprès des assurances sociales.
+
+#### Art. 22
+
+**Prestations complémentaires en cas de réalisation d'un risque inhérent à la fonction**
+
+<sup>1</sup> En cas de maladie ou d'accident résultant de la réalisation d'un risque inhérent à la fonction, sans qu'il y ait faute ou négligence grave de la part du collaborateur ou de la collaboratrice, l'Etat ou une assurance conclue par lui prend en charge les frais non couverts par la LAA, jusqu'à concurrence des frais généralement couverts par les assurances en division mi-privée.
+
+<sup>2</sup> L'Etat ou une assurance conclue par lui verse une indemnité égale à un an de traitement en cas de décès ou d'invalidité résultant de la réalisation d'un risque inhérent à la fonction, sans qu'il y ait eu faute ou négligence grave de la part du collaborateur ou de la collaboratrice.
+
+#### Art. 23
+
+**Communications de renseignements**
+
+<sup>1</sup> La personne bénéficiaire de prestations en cas d'incapacité de travail transmet régulièrement au service auquel elle est rattachée, le cas échéant à la Caisse de prévoyance, les certificats médicaux attestant son incapacité.
+
+<sup>2</sup> Le Service du personnel et d'organisation, les entités de gestion en matière de personnel ainsi que la Caisse de prévoyance se communiquent les renseignements nécessaires pour assurer la bonne gestion de la garantie de la rémunération.
+
+## 5 Disposition transitoire
+
+#### Art. 24
+
+<sup>1</sup> Le collaborateur ou la collaboratrice soumis-e à un contrat de travail d'une durée indéterminée ou d'une durée déterminée d'au moins deux ans et qui est en incapacité de travail lors de l'entrée en vigueur de la présente ordonnance bénéficie des prestations de la garantie de la rémunération sur 730 jours lorsque les conditions cumulatives suivantes sont remplies:
+
+- a) l'incapacité a débuté au plus tôt le 1<sup>er</sup> juillet 2003;
+- b) les rapports de service sont toujours existants au 31 décembre 2003;
+- c) le droit au traitement selon l'ancien droit n'est pas épuisé au 31 décembre 2003.
+
+<sup>2</sup> Le décompte des jours d'incapacité de travail prend en compte les jours d'absence préalables à l'entrée en vigueur de la présente ordonnance.
+
+<sup>3</sup> Lorsque les conditions fixées à l'alinéa 1 ne sont pas remplies, le collaborateur ou la collaboratrice en incapacité de travail au 1<sup>er</sup> janvier 2004 reste soumis-e aux règles applicables avant l'entrée en vigueur de la présente ordonnance.
+
+<sup>4</sup> Cette ordonnance n'est applicable au collaborateur ou à la collaboratrice visé-e à l'alinéa 3 qu'à partir du 1<sup>er</sup> janvier 2005, à la condition que, à cette date, il ou elle ait récupéré sa capacité de gain depuis six mois au moins.
+
+## 6 Disposition finale
+
+#### Art. 25
+
+<sup>1</sup> Cette ordonnance entre en vigueur le 1<sup>er</sup> janvier 2004.
+
+2003\_119

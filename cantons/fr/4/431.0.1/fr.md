@@ -1,0 +1,768 @@
+---
+canton: FR
+number: "431.0.1"
+title: "Loi sur l'Université"
+short: LUni
+language: fr
+version: 2016-01-01
+valid_until: 2023-08-31
+version_adopted: 2015-09-10
+adopted: 1997-11-19
+in_force: 1998-04-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.1"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7193/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur l'Université
+
+Université – L
+
+(LUni)
+
+du 19.11.1997 (version entrée en vigueur le 01.01.2016)
+
+Le Grand Conseil du canton de Fribourg[^ingress-1]
+
+Vu le message du Conseil d'Etat du 2 avril 1996;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+[^ingress-1]: Acte classé sous 430.1 jusqu'au 31.12.2015.
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Mission**
+
+<sup>1</sup> L'Université a pour mission:
+
+- a) de transmettre et de faire progresser les connaissances scientifiques avec objectivité et dans un esprit de tolérance,
+- b) de promouvoir chez les étudiants, les chercheurs et les enseignants le sens de leur responsabilité envers l'homme, la société et l'environnement, et
+- c) de contribuer au développement culturel, social et économique de la société.
+
+#### Art. 2
+
+**Mise en œuvre**
+
+<sup>1</sup> Pour remplir cette mission, l'Université:
+
+- a) dispense un enseignement qui prépare aux professions et activités exigeant une formation supérieure, par l'acquisition de connaissances approfondies dans un domaine spécifique, l'élargissement de la culture générale et le développement de la réflexion méthodologique, critique et éthique;
+- b) concourt par la recherche et une diffusion adéquate des résultats de celle-ci à faire progresser les connaissances scientifiques;
+- c) veille à la relève scientifique;
+- d) contribue à la formation continue de niveau universitaire.
+
+<sup>2</sup> L'Université encourage la coopération et l'interdisciplinarité dans la recherche et l'enseignement ainsi que la réflexion sur les conditions et les conséquences de la recherche scientifique.
+
+<sup>3</sup> Elle prête ses services en relation avec sa mission de formation et de recherche aux institutions publiques ou à des tiers. Elle apporte son soutien aux institutions de la formation des adultes sans but lucratif.
+
+#### Art. 3
+
+**Statut**
+
+<sup>1</sup> L'Université est une personne morale de droit public.
+
+<sup>2</sup> Elle est autonome dans les limites de la loi.
+
+<sup>3</sup> Elle a son siège à Fribourg.
+
+#### Art. 4
+
+**Surveillance**
+
+<sup>1</sup> L'Université est placée sous la surveillance du Conseil d'Etat, qui l'exerce par l'intermédiaire de la Direction dont relèvent les affaires universitaires[^4-1] (ci-après: la Direction).
+
+<sup>2</sup> Le Conseil d'Etat peut se faire assister de commissions consultatives.
+
+[^4-1]: Actuellement: Direction de la formation et des affaires culturelles.
+
+#### Art. 5
+
+**Liberté académique**
+
+<sup>1</sup> La liberté d'enseignement et de recherche est garantie dans les limites de la loi et de la mission de l'Université.
+
+#### Art. 6
+
+**Langues**
+
+<sup>1</sup> Les langues d'enseignement et d'administration sont le français et l'allemand.
+
+<sup>2</sup> Les facultés peuvent autoriser d'autres langues d'enseignement.
+
+<sup>3</sup> L'Université favorise et développe la compréhension entre les personnes de langues et cultures différentes; elle encourage en particulier les études bilingues en français et en allemand.
+
+#### Art. 7
+
+**Coopération**
+
+<sup>1</sup> L'Université coopère avec les autres hautes écoles et avec les organes régionaux, nationaux et internationaux de politique universitaire, en vue d'une coordination adéquate de l'enseignement et de la recherche.
+
+#### Art. 8
+
+**Financement – En général**
+
+<sup>1</sup> L'Etat fournit à l'Université les moyens nécessaires à son fonctionnement et à son développement.
+
+<sup>2</sup> Le financement de l'Université est assuré par l'apport cantonal, les subventions fédérales, les contributions des autres cantons, les ressources propres de l'Université et les apports de tiers.
+
+#### Art. 9
+
+**Financement – Convention d'objectifs et enveloppe budgétaire**
+
+<sup>1</sup> L'Université prépare régulièrement une planification stratégique sur une période de dix ans, qui est présentée au Conseil d'Etat qui en prend acte.
+
+<sup>2</sup> Tous les cinq ans, l'Université établit une planification pluriannuelle définissant ses objectifs, les modalités qu'elle entend mettre en œuvre pour les atteindre, les ressources nécessaires pour les financer et les critères permettant de déterminer si ces objectifs ont été atteints.
+
+<sup>3</sup> Tous les cinq ans, sur la base de la planification pluriannuelle, l'Etat et l'Université négocient et concluent une convention d'objectifs. Dans le cadre de celle-ci, le Conseil d'Etat fixe les enveloppes budgétaires annuelles nécessaires au fonctionnement de l'Université et à la réalisation de la convention d'objectifs. Selon la même procédure, il fixe les crédits d'investissements.
+
+<sup>4</sup> Dans le cadre de cette enveloppe, l'Université élabore une proposition de budget.
+
+<sup>5</sup> L'Université dispose librement de l'enveloppe budgétaire et du budget, dans les limites de la législation sur le personnel de l'Etat et de la convention d'objectifs fixant ses obligations. Elle bénéficie des dérogations aux principes de l'annualité et de la spécification du budget prévues dans le règlement financier ratifié par le Conseil d'Etat.
+
+<sup>6</sup> Les compétences budgétaires du Grand Conseil sont réservées.
+
+<sup>7</sup> L'Université présente au Conseil d'Etat un rapport sur la réalisation de la convention d'objectifs.
+
+#### Art. 10
+
+**Financement – Fonds de l'Université**
+
+<sup>1</sup> L'Université a la capacité de recevoir des libéralités, avec ou sans affectation spéciale.
+
+<sup>2</sup> Elle gère les fonds dont elle est propriétaire, sous le contrôle d'un organe indépendant.
+
+#### Art. 10a
+
+**Financement – Fonds de l'innovation et du développement**
+
+<sup>1</sup> L'Université crée un fonds en faveur de l'innovation et du développement de l'Université. Ce fonds, qui est plafonné selon une limite fixée dans son règlement d'utilisation, est alimenté par le budget et par la moitié de la part non utilisée du budget annuel, qui reste acquise à l'Université. Le Conseil d'Etat peut affecter une plus grande proportion du budget non utilisé au fonds de l'Université, s'il y a une justification suffisante.
+
+#### Art. 10b
+
+**Taxes et émoluments**
+
+<sup>1</sup> L'Université perçoit des taxes et des émoluments pour les prestations en matière d'inscription et d'examens.
+
+<sup>2</sup> Le montant des taxes d'inscription et d'examens ne doit pas constituer un obstacle à l'accès aux études.
+
+<sup>3</sup> Des taxes plus élevées peuvent, dans le respect des traités internationaux et des accords intercantonaux, être prélevées pour les étudiants non titulaires d'un permis d'établissement.
+
+<sup>4</sup> L'Université peut prélever des émoluments auprès des membres de la communauté universitaire pour ses prestations particulières, notamment pour financer des institutions sociales et culturelles ainsi que des activités sportives.
+
+<sup>5</sup> Le Conseil d'Etat fixe la taxe d'inscription, et l'Université fixe les autres taxes et émoluments.
+
+#### Art. 10c
+
+**Mise en valeur de la connaissance – Propriété intellectuelle**
+
+<sup>1</sup> Les inventions faites par les collaborateurs de l'Université appartiennent à celle-ci. Une indemnité équitable est versée à l'auteur de l'invention si l'exploitation de celle-ci engendre des bénéfices.
+
+<sup>2</sup> Les conditions d'engagement précisent que tous les droits des collaborateurs sur d'éventuelles inventions sont cédés à l'Université.
+
+<sup>3</sup> Si l'Université renonce, dans les six mois suivant la requête de l'inventeur, à entreprendre des mesures adéquates de mise en valeur des résultats de la recherche, l'inventeur peut exiger d'être réinvesti de la propriété intellectuelle ou de la titularité des droits.
+
+#### Art. 10d
+
+**Mise en valeur de la connaissance – Entreprises (soutien, création, participation)**
+
+<sup>1</sup> En vue de la mise en valeur des résultats scientifiques, l'Université peut soutenir la création d'entreprises et, en accord avec le Conseil d'Etat, créer elle-même des entreprises ou y participer.
+
+<sup>2</sup> Dans le cas de la création d'entreprises par des tiers qui résulte directement de la recherche et du développement universitaires, l'Université peut réclamer un droit de participation équitable.
+
+#### Art. 10e
+
+**Participation financière**
+
+<sup>1</sup> L'Université fixe et perçoit des taxes et des émoluments pour ses prestations en matière de formation continue. Ces taxes doivent en principe garantir la couverture des frais; elles peuvent toutefois être fixées en fonction des prix usuellement pratiqués pour des prestations comparables.
+
+#### Art. 11
+
+**Egalité des sexes**
+
+<sup>1</sup> Les femmes et les hommes ont les mêmes droits et les mêmes devoirs dans les études et lors des procédures d'engagement et de nomination.
+
+<sup>2</sup> L'Université favorise une représentation équitable des deux sexes au sein de la communauté universitaire.
+
+#### Art. 11a
+
+**Grades et titres universitaires**
+
+<sup>1</sup> Les grades universitaires sont définis dans les statuts de l'Université.
+
+<sup>2</sup> Par titres universitaires, on entend les dénominations attribuées aux titulaires de grades universitaires.
+
+<sup>3</sup> Les grades et les titres universitaires sont protégés par la présente loi.
+
+#### Art. 11b
+
+**Disposition pénale**
+
+<sup>1</sup> Est puni de l'amende celui qui porte un titre protégé au sens de la présente loi sans être titulaire du grade correspondant.
+
+<sup>2</sup> La poursuite et le jugement de ces contraventions ont lieu conformément au code de procédure pénale. Pour le surplus, les dispositions de la législation spéciale sont applicables.
+
+<sup>3</sup> Les dispositions du code pénal suisse sont réservées.
+
+#### Art. 11c
+
+**Sanctions disciplinaires**
+
+<sup>1</sup> L'étudiant ou l'auditeur qui porte atteinte à l'ordre universitaire est passible des sanctions disciplinaires suivantes prononcées par le Rectorat, compte tenu notamment de la gravité de l'infraction:
+
+- a) le blâme;
+- b) l'amende, jusqu'à 500 francs au maximum;
+- c) l'avertissement;
+- d) la suspension;
+- e) l'exclusion.
+
+#### Art. 11d
+
+**Statut du personnel**
+
+<sup>1</sup> Le statut des personnes travaillant au service de l'Université est régi par la législation sur le personnel de l'Etat.
+
+<sup>2</sup> Pour qu'il soit tenu compte des particularités liées à la gestion de l'Université, les compétences suivantes attribuées au Conseil d'Etat sont exercées par le Rectorat:
+
+- a) la gestion des compétences professionnelles du personnel (art. 19 LPers);
+- b) l'encouragement aux inventions du personnel (art. 23 LPers);
+- c) les modalités de la mise au concours des emplois (art. 25 LPers).
+
+<sup>3</sup> Le règlement adopté par l'Université concernant le personnel est soumis à l'approbation du Conseil d'Etat.
+
+<sup>4</sup> La gestion du personnel est assumée par une unité centralisée de l'Université.
+
+## 2 Communauté universitaire
+
+#### Art. 12
+
+**Membres**
+
+<sup>1</sup> La communauté universitaire comprend:
+
+- a) les professeurs[^12-1];
+- b) les chargés de cours et les privat-docents;
+- c) les collaborateurs scientifiques;
+- d) les étudiants et les auditeurs;
+- e) le personnel administratif et technique.
+
+[^12-1]: Note d'auteur: Les dénominations de qualités ou de fonctions utilisées dans la présente loi sont applicables sans distinction aux personnes de sexe féminin et à celles de sexe masculin.
+
+#### Art. 13
+
+**Corps universitaires – En général**
+
+<sup>1</sup> Les professeurs, les collaborateurs scientifiques, les étudiants et les auditeurs, les membres du personnel administratif et technique appartiennent de plein droit au corps dont ils relèvent.
+
+<sup>2</sup> Les statuts de l'Université règlent la représentation des chargés de cours et des privat-docents dans les assemblées du corps professoral.
+
+<sup>3</sup> Ils règlent également le statut des personnes qui appartiendraient simultanément à plusieurs corps.
+
+#### Art. 14
+
+**Corps universitaires – Organisation et tâches**
+
+<sup>1</sup> Chaque corps s'organise librement et peut percevoir auprès de ses membres une cotisation, dans les limites fixées par les statuts de l'Université.
+
+<sup>2</sup> Les corps universitaires ont notamment pour tâche de participer à la formation de l'opinion sur les questions importantes concernant l'ensemble de l'Université et de veiller aux intérêts de leurs membres au sein de la communauté universitaire.
+
+#### Art. 15
+
+**Activités accessoires**
+
+<sup>1</sup> Les collaborateurs de l'Université engagés à plein temps ne peuvent avoir des activités accessoires rémunérées ou exigeant beaucoup de temps qu'avec l'autorisation écrite du Rectorat et à la condition que leurs activités universitaires n'en souffrent pas.
+
+<sup>2</sup> Si l'activité accessoire est importante et durable, le Rectorat peut exiger une réduction du taux d'occupation à l'Université.
+
+<sup>3</sup> Si l'infrastructure de l'Université est utilisée pour les besoins de l'activité accessoire, une redevance proportionnée à l'utilisation est perçue.
+
+### 2.1 Corps professoral
+
+#### Art. 16
+
+**Composition**
+
+<sup>1</sup> Les statuts de l'Université déterminent les catégories du corps professoral et fixent leurs droits et leurs obligations, dans les limites de la législation sur le personnel de l'Etat.
+
+#### Art. 17
+
+**Engagement**
+
+<sup>1</sup> Les membres du corps professoral sont engagés par le Rectorat, sur la proposition de la faculté.
+
+<sup>2</sup> L'accord passé entre les autorités ecclésiales et l'Etat au sujet du statut de la Faculté de théologie est réservé.
+
+#### Art. 18
+
+**Tâches**
+
+<sup>1</sup> Les membres du corps professoral enseignent et font de la recherche; ils peuvent être tenus d'enseigner également dans une autre haute école.
+
+<sup>2</sup> Ils dirigent les travaux d'étudiants et les thèses de doctorat, font passer les examens prévus par les règlements, veillent à la formation de leurs collaborateurs scientifiques et participent aux activités de formation continue et de services.
+
+<sup>3</sup> Ils assument également les responsabilités et charges administratives nécessaires au fonctionnement de l'Université.
+
+#### Art. 19
+
+**Fin des rapports de service**
+
+<sup>1</sup> Les rapports de service des membres du corps professoral de l'Université cessent de plein droit à la fin de l'année universitaire au cours de laquelle ils ont atteint l'âge fixé dans la législation sur le personnel de l'Etat.
+
+<sup>2</sup> Les membres du corps professoral et du corps des collaborateurs scientifiques permanents ne peuvent donner leur démission que pour la fin d'un semestre et moyennant un avertissement adressé à l'autorité d'engagement par voie hiérarchique, sauf accord particulier, six mois avant cette date.
+
+### 2.2 Chargés de cours et privat-docents
+
+#### Art. 20
+
+**Chargés de cours**
+
+<sup>1</sup> Les chargés de cours sont engagés par le Rectorat, sur la proposition de la faculté.
+
+<sup>2</sup> Ils assument les tâches d'enseignement qui leur sont confiées par les facultés; ils peuvent être appelés à fonctionner comme examinateurs.
+
+<sup>3</sup> Sur la proposition de la faculté, le Rectorat peut accorder le titre de professeur titulaire aux chargés de cours qui ont les qualités scientifiques et didactiques requises d'un professeur d'université.
+
+<sup>4</sup> Les statuts de l'Université déterminent les catégories de chargés de cours et fixent leur statut, dans les limites de la législation sur le personnel de l'Etat.
+
+#### Art. 21
+
+**Privat-docents**
+
+<sup>1</sup> Les statuts de l'Université fixent les droits et les obligations des personnes auxquelles une faculté a accordé le droit d'enseigner au terme d'une procédure d'habilitation.
+
+### 2.3 Collaborateurs scientifiques
+
+#### Art. 22
+
+**Tâches et statut**
+
+<sup>1</sup> Les collaborateurs scientifiques soutiennent le corps professoral dans l'encadrement des étudiants et l'enseignement et font de la recherche.
+
+<sup>2</sup> Les statuts de l'Université déterminent les catégories de collaborateurs scientifiques et fixent leur statut, dans les limites de la législation sur le personnel de l'Etat.
+
+#### Art. 23
+
+**Engagement**
+
+<sup>1</sup> Les collaborateurs scientifiques sont engagés par le Rectorat, sur la proposition de celui qui sera leur supérieur et le préavis du doyen; s'ils sont appelés à assumer un enseignement régulier, la faculté doit en outre approuver la proposition.
+
+### 2.4 Etudiants et auditeurs
+
+#### Art. 24
+
+**Admission**
+
+<sup>1</sup> Sont admis à suivre l'enseignement dispensé à l'Université les étudiants et les auditeurs qui remplissent les conditions fixées par voie de règlement.
+
+<sup>2</sup> L'admission étudiants et d'auditeurs peut être exceptionnellement limitée pour certains domaines d'enseignement, dans la mesure où:
+
+- a) la capacité d'accueil de l'Université l'exige, ou
+- b) il n'est pas possible de garantir au-delà d'un certain nombre d'étudiants la poursuite dans une autre université suisse d'études que l'Université ne permet pas de terminer.
+
+<sup>3</sup> Le Conseil d'Etat est compétent pour introduire, d'année en année, une telle mesure et pour déterminer les modalités du choix entre les candidats en tenant compte de la coordination interuniversitaire. Dans chaque cas, il entend l'Université. La sélection des candidats est opérée en fonction de leurs aptitudes aux études dans les branches considérées. Les candidats peuvent être astreints à s'acquitter d'une participation proportionnée aux frais engagés pour l'organisation et la mise en œuvre de la mesure de sélection.
+
+<sup>4</sup> En cas de restriction d'admission, des conditions d'admission particulières peuvent être fixées pour les candidats de nationalité étrangère, notamment en ce qui concerne le domicile, le statut d'étranger et le titre de fin d'études. Le Conseil d'Etat règle les modalités de détail par voie d'ordonnance.
+
+#### Art. 25
+
+**…**
+
+#### Art. 25a
+
+**Durée des études**
+
+<sup>1</sup> Les programmes d'études doivent être conçus de telle façon que les étudiants à plein temps puissent achever leurs études dans les délais ordinaires fixés par les règlements d'études.
+
+<sup>2</sup> Les règlements d'études peuvent limiter la durée des études dans les différentes filières ou parties de formation. Ils contiennent des dispositions autorisant la prolongation des délais pour de justes motifs.
+
+<sup>3</sup> Les règlements peuvent prévoir l'exclusion de la filière suivie en cas de dépassement de délais sans juste motif.
+
+### 2.5 Personnel administratif et technique
+
+#### Art. 26
+
+**Engagement**
+
+<sup>1</sup> Les membres du personnel administratif et technique sont engagés par le Rectorat.
+
+## 3 Organisation de l'Université et de ses facultés
+
+#### Art. 27
+
+**En général**
+
+<sup>1</sup> L'Université, qui est dirigée par les organes centraux, dans le cadre de leurs compétences respectives, est structurée en facultés, lesquelles sont subdivisées en d'autres unités d'enseignement et de recherche. Certaines unités peuvent être interfacultaires.
+
+<sup>2</sup> A l'exception du personnel administratif et technique dépendant des organes centraux, chaque membre de la communauté universitaire est rattaché à une faculté au moins.
+
+#### Art. 28
+
+**Participation**
+
+<sup>1</sup> Dans les collèges et commissions institués en exécution de la présente loi, des représentants du corps des collaborateurs scientifiques et du corps des étudiants ont le droit de participer aux séances soit avec voix délibérative, soit avec voix consultative.
+
+<sup>2</sup> Il en va de même des représentants du personnel administratif et technique pour les commissions traitant de questions qui le concernent.
+
+<sup>3</sup> Dans la mesure où la présente loi ne comprend pas d'indication contraire, les statuts de l'Université déterminent les modalités de cette participation.
+
+#### Art. 29
+
+**Ratifications**
+
+<sup>1</sup> Doivent être ratifiés par le Conseil d'Etat:
+
+- a) les statuts de l'Université;
+- b) les règlements régissant l'admission à l'Université ainsi que les règlements concernant le personnel et les finances;
+- c) la création ou la suppression de facultés; et
+- d) l'élection du recteur.
+
+<sup>2</sup> Doivent être ratifiés par la Direction:
+
+- a) …
+- b) …
+- c) les règlements concernant l'octroi des grades universitaires;
+- d) les règlements et les plans d'études concernant la formation des enseignants.
+
+### 3.1 Organes centraux
+
+#### Art. 30
+
+**Principes**
+
+<sup>1</sup> Les organes centraux sont le Sénat, le Rectorat et l'Assemblée plénière.
+
+#### Art. 31
+
+**Sénat – Composition**
+
+<sup>1</sup> Le Sénat est composé de douze membres, dont six sont désignés par l'Etat et six par la communauté universitaire.
+
+<sup>2</sup> Les membres désignés par l'Etat sont choisis en dehors de l'Université et sont élus pour cinq ans. Le Grand Conseil élit trois de ses membres; les trois autres sont élus par le Conseil d'Etat. Un d'entre eux au moins est choisi hors canton.
+
+<sup>3</sup> La communauté universitaire est représentée par trois professeurs, un collaborateur scientifique, un étudiant et un membre du personnel administratif et technique, élus selon les modalités fixées par les statuts de l'Université.
+
+<sup>4</sup> Le conseiller d'Etat-Directeur peut assister aux séances; il peut se faire accompagner ou représenter par le chef du service chargé des affaires universitaires[^31-1].
+
+<sup>5</sup> Le recteur assiste aux séances; les vice-recteurs peuvent également y assister.
+
+<sup>6</sup> Les membres du Sénat ne sont rééligibles que deux fois.
+
+[^31-1]: Actuellement: Service des affaires universitaires.
+
+#### Art. 32
+
+**Sénat – Organisation**
+
+<sup>1</sup> Le Sénat se constitue lui-même. Il désigne un président, qui est choisi parmi les membres désignés par l'Etat, et un vice-président, qui est choisi parmi les représentants de la communauté universitaire.
+
+<sup>2</sup> Le Sénat ne peut prendre de décisions valables que si la moitié de ses membres sont présents. Les décisions sont prises à la majorité des membres présents; en cas d'égalité des voix, le président tranche.
+
+<sup>3</sup> Le Sénat constitue un bureau en vue de la préparation des délibérations. Le recteur assiste aux séances du bureau.
+
+#### Art. 33
+
+**Sénat – Compétences et tâches**
+
+<sup>1</sup> Le Sénat est l'organe délibératif suprême de l'Université; il a les compétences et tâches suivantes:
+
+- a) Stratégiques et qualitatives:
+  - 1\. adopter, sous réserve des compétences cantonales et fédérales, les documents définissant la politique générale de l'Université et les grandes lignes du développement de celle-ci, élaborés par le Rectorat;
+  - 2\. émettre à l'intention du Rectorat des recommandations sur toutes les questions d'intérêt général concernant l'Université;
+  - 3\. soumettre périodiquement à évaluation, en accord avec le Rectorat, tout ou partie de la politique générale, des activités, des cours et du fonctionnement de l'Université;
+  - 4\. assurer la liberté académique;
+- b) Financières:
+  - 1\. préaviser, à l'intention de la Direction et du Conseil d'Etat, la proposition rectorale de convention d'objectifs et d'enveloppe budgétaire, le budget et les comptes de l'Université ainsi que le rapport de réalisation de la convention d'objectifs;
+- c) Législatives:
+  - 1\. adopter les statuts de l'Université ainsi que les règlements et conventions qui concernent l'ensemble de l'Université;
+  - 2\. ratifier les statuts des unités d'enseignement et de recherche et des corps universitaires;
+- d) Electives:
+  - 1\. élire le recteur, sur la proposition de l'Assemblée plénière;
+  - 2\. élire les vice-recteurs, sur la proposition du recteur.
+
+#### Art. 34
+
+**Rectorat – Composition**
+
+<sup>1</sup> Le Rectorat comprend le recteur ainsi que deux à quatre vice-recteurs. Le nombre des vice-recteurs est fixé par les statuts de l'Université.
+
+<sup>2</sup> En règle générale, le recteur est choisi parmi les membres du corps professoral. Il est élu pour cinq ans et est rééligible. Il est libéré entièrement ou partiellement de ses tâches d'enseignement et de recherche.
+
+<sup>3</sup> En règle générale, les vice-recteurs sont choisis parmi les membres du corps professoral. Ils sont élus pour cinq ans et ne sont rééligibles qu'une fois. Ils sont libérés partiellement de leurs tâches d'enseignement et de recherche.
+
+#### Art. 35
+
+**Rectorat – Compétences et tâches**
+
+<sup>1</sup> Le Rectorat est l'organe dirigeant et exécutif de l'Université; il a les compétences et tâches suivantes:
+
+- a) Stratégiques et qualitatives:
+  - 1\. élaborer les documents définissant la politique générale de l'Université et les grandes lignes du développement de celle-ci, notamment les planifications pluriannuelles;
+  - 2\. favoriser la coordination avec les autres institutions d'enseignement ou de recherche;
+  - 3\. valider les programmes d'enseignement et décider la création, la suppression ainsi que la repourvue de tous les postes du corps professoral et du corps des collaborateurs scientifiques permanents, en conformité avec la stratégie générale de l'Université et les grandes lignes du développement de celle-ci;
+  - 4\. assurer la coordination de l'enseignement et de la recherche au sein de l'Université et la réglementation des études interfacultaires;
+  - 5\. organiser le contrôle de qualité de l'enseignement et de la recherche et transmettre un rapport au Sénat;
+  - 6\. élaborer une stratégie de communication et d'information;
+  - 7\. assurer les relations avec l'Etat et les autres hautes écoles;
+- b) Financières:
+  - 1\. négocier et conclure la convention d'objectifs, élaborer la proposition d'enveloppe budgétaire ainsi que le budget et les comptes de l'Université;
+  - 2\. décider de l'utilisation du fonds en faveur de l'innovation et du développement de l'Université;
+  - 3\. établir le rapport de réalisation de la convention d'objectifs;
+- c) Législatives:
+  - 1\. proposer au Sénat les statuts de l'Université et les règlements et conventions qui concernent l'ensemble de l'Université;
+  - 2\. approuver les statuts des unités d'enseignement et de recherche et des corps universitaires;
+  - 3\. approuver les règlements élaborés par les facultés;
+  - 4\. adopter les directives concernant l'administration centrale de l'Université et les services et commissions qui lui sont rattachés;
+- d) Exécutives:
+  - 1\. proposer aux organes de l'Université et des facultés toutes les mesures utiles dans l'intérêt de l'Université;
+  - 2\. trancher les conflits entre facultés, sous réserve de recours au Conseil d'Etat;
+  - 3\. veiller au maintien de l'ordre universitaire et prendre les mesures disciplinaires prévues par la présente loi;
+  - 4\. veiller à l'application de la loi, des statuts et des règlements au sein de l'Université;
+- e) Administratives:
+  - 1\. assurer la gestion des ressources humaines de l'Université, sa gestion budgétaire et comptable ainsi qu'une utilisation rationnelle de ses locaux et équipements;
+  - 2\. examiner avec les instances compétentes de l'Etat les projets relatifs à la construction et à la réfection des bâtiments universitaires.
+
+<sup>2</sup> Le Rectorat est en outre compétent pour toutes les décisions relatives au fonctionnement de l'Université que la loi ou la réglementation d'exécution ne confient pas à un autre organe ou qu'il n'a pas lui-même déléguées.
+
+<sup>3</sup> Le Rectorat peut être assisté de commissions permanentes ou temporaires.
+
+#### Art. 36
+
+**Rectorat – Recteur**
+
+<sup>1</sup> Le recteur dirige et préside le Rectorat, veille à la mise en œuvre des décisions de celui-ci et traite les affaires courantes.
+
+<sup>2</sup> Il veille à la bonne marche de l'Université et prend toutes les mesures et initiatives utiles à cette fin.
+
+<sup>3</sup> Il représente l'Université dans le cadre de la loi et des statuts, avec pouvoir de substitution.
+
+<sup>4</sup> Il dirige l'administration centrale de l'Université.
+
+#### Art. 37
+
+**Rectorat – Vice-recteurs**
+
+<sup>1</sup> Les vice-recteurs collaborent avec le recteur à la bonne marche de l'Université.
+
+<sup>2</sup> Ils sont responsables des tâches qui leur sont attribuées par le Rectorat.
+
+#### Art. 38
+
+**Rectorat – Administration centrale**
+
+<sup>1</sup> L'administration centrale est organisée de manière rationnelle, efficace et transparente. Elle exécute les tâches qui lui sont confiées par le Rectorat, le recteur ou les personnes désignées par lui.
+
+#### Art. 39
+
+**Assemblée plénière**
+
+<sup>1</sup> L'Assemblée plénière est réunie en vue de faire au Sénat une proposition pour la nomination du recteur.
+
+<sup>2</sup> Elle est composée des membres du corps professoral ainsi que des personnes suivantes, élues par leurs corps respectifs selon les modalités fixées dans les statuts de l'Université:
+
+- a) par faculté, deux représentants du corps des collaborateurs scientifiques, deux représentants du corps des étudiants et un représentant du personnel administratif et technique;
+- b) cinq représentants du personnel administratif et technique dépendant des organes centraux.
+
+<sup>3</sup> Elle est présidée par le président de l'assemblée du corps professoral ou, à défaut, par le doyen le plus âgé. Cette personne prend les mesures nécessaires à la convocation de l'Assemblée.
+
+#### Art. 40
+
+**…**
+
+#### Art. 41
+
+**…**
+
+#### Art. 42
+
+**…**
+
+### 3.2 Facultés
+
+#### Art. 43
+
+**Compétences et tâches**
+
+<sup>1</sup> Les facultés sont responsables de l'enseignement et de la recherche, qu'elles organisent dans le cadre fixé par les organes centraux de l'Université. Elles veillent à la relève scientifique.
+
+<sup>2</sup> Les statuts de l'Université désignent les facultés. Ils peuvent prévoir que la responsabilité d'un domaine scientifique est confiée à plusieurs facultés.
+
+<sup>3</sup> Tout en tenant compte des impératifs de la politique générale de l'Université et des grandes lignes du développement de celle-ci, notamment en matière de coordination universitaire et interuniversitaire, les facultés élaborent les programmes d'enseignement.
+
+<sup>3<sup>bis</sup></sup> Elles confèrent les grades universitaires et adoptent les règlements fixant les conditions de leur octroi.
+
+<sup>4</sup> Elles peuvent octroyer le grade de docteur honoris causa.
+
+<sup>5</sup> L'accord passé entre les autorités ecclésiales et l'Etat au sujet du statut de la Faculté de théologie est réservé.
+
+#### Art. 44
+
+**Organisation – En général**
+
+<sup>1</sup> Chaque faculté est dotée d'un Conseil de faculté et d'un doyen.
+
+<sup>2</sup> Dans les affaires qui sont de la compétence des organes centraux et qui touchent spécialement une faculté, celle-ci est consultée.
+
+<sup>3</sup> Les relations des facultés avec l'Etat s'établissent par l'intermédiaire du Rectorat.
+
+#### Art. 45
+
+**Organisation – Conseil de faculté**
+
+<sup>1</sup> Le Conseil de faculté est composé des membres du corps professoral ou de représentants de ceux-ci ainsi que de représentants du corps des collaborateurs scientifiques et du corps des étudiants; les chargés de cours, les privat-docents ainsi que des représentants du personnel administratif et technique peuvent être invités à assister aux séances avec voix consultative.
+
+<sup>2</sup> Le Conseil de faculté;
+
+- a) arrête les statuts et règlements de la faculté:
+- b) assure la qualité de l'enseignement et de la recherche, selon les directives du Rectorat;
+- c) élit le doyen, sous réserve de la ratification par le recteur; et
+- d) exerce les autres compétences qui lui sont attribuées par les statuts de l'Université et de la faculté.
+
+#### Art. 46
+
+**Organisation – Doyen**
+
+<sup>1</sup> Le doyen de la faculté est choisi parmi les membres du corps professoral de la faculté. Il est élu au moins pour trois ans et est rééligible. Le recteur ratifie son élection. Le doyen est libéré partiellement de ses tâches d'enseignement et de recherche.
+
+<sup>2</sup> Le doyen est l'organe dirigeant et exécutif de la faculté, sous réserve des compétences des organes centraux; au besoin, il est assisté par un conseil décanal et par un administrateur de faculté.
+
+<sup>3</sup> Le doyen:
+
+- a) préside et dirige le Conseil de faculté, veille à la mise en œuvre des décisions de celui-ci, prend les décisions placées dans sa compétence et traite les affaires courantes;
+- b) représente la faculté dans le cadre de la loi et des statuts, avec pouvoir de substitution;
+- c) correspond avec le Rectorat pour tout ce qui concerne la faculté, et
+- d) exerce les autres attributions qui lui sont conférées par les statuts et règlements.
+
+#### Art. 46a
+
+**Conférence des doyens**
+
+<sup>1</sup> Le Recteur réunit régulièrement les doyens en conférence.
+
+#### Art. 47
+
+**Délégation de compétences**
+
+<sup>1</sup> Sous réserve des compétences des organes centraux et des ratifications nécessaires, les facultés peuvent constituer des unités d'enseignement et de recherche telles que sections, départements ou instituts, auxquelles elles délèguent une partie de leurs compétences.
+
+<sup>2</sup> L'organisation de ces unités est fixée par les statuts de l'Université et des facultés; les dispositions de la présente loi régissant l'organisation des facultés s'appliquent par analogie.
+
+<sup>3</sup> Une unité d'enseignement et de recherche peut être rattachée à plusieurs facultés.
+
+<sup>4</sup> Lorsque le but, les tâches ou le financement d'un institut le justifie et sur la proposition du Sénat de l'Université, le Conseil d'Etat peut exceptionnellement conférer à cet institut la personnalité morale de droit public et définir les particularités de son statut.
+
+#### Art. 47a
+
+**Instituts associés**
+
+<sup>1</sup> L'Université peut conclure avec un institut scientifique externe une convention en vue d'association, à condition que l'institut soit de niveau universitaire et ne poursuive aucun but lucratif.
+
+<sup>2</sup> La convention précise les termes et conditions du statut d'institut associé, mais prévoit au minimum le contrôle annuel des comptes, la soumission aux procédures d'assurance de qualité de l'Université et l'intégration de l'institut associé dans la planification stratégique.
+
+<sup>3</sup> Le Conseil d'Etat approuve la convention lorsqu'elle entraîne des répercussions sur les contributions cantonales au financement de l'Université.
+
+## 3a Commission de recours
+
+#### Art. 47b
+
+**Statut et composition**
+
+<sup>1</sup> La Commission de recours de l'Université est une autorité spéciale de la juridiction administrative ayant le statut d'autorité judiciaire.
+
+<sup>2</sup> Elle est composée d'un président, d'un vice-président, de six assesseurs et de six suppléants des assesseurs, qui sont élus par le Grand Conseil sur le préavis du Conseil de la magistrature.
+
+<sup>3</sup> Le président et le vice-président sont choisis parmi les juges professionnels au sens de la loi sur la justice; les autres membres de la Commission doivent être titulaires d'une licence ou d'un master. Les juges professionnels doivent soit être titulaires du brevet d'avocat, soit être titulaires d'une licence ou d'un master en droit. Ils doivent faire preuve de connaissances pratiques suffisantes pour l'exercice de la fonction.
+
+<sup>4</sup> Pour le surplus, les dispositions de la loi sur la justice relatives à la fonction de juge sont applicables par analogie aux membres de la Commission.
+
+#### Art. 47c
+
+**Compétences**
+
+<sup>1</sup> La Commission connaît des recours contre les décisions prises en dernière instance par le Rectorat, par une faculté, par une autre unité d'enseignement et de recherche, par une commission universitaire ou par un organe d'un corps universitaire; l'article 35 al. 1 let. d ch. 2 ainsi que la législation sur le personnel de l'Etat sont réservés.
+
+<sup>2</sup> Les décisions de la Commission sont sujettes à recours au Tribunal cantonal, conformément au code de procédure et de juridiction administrative.
+
+#### Art. 47d
+
+**Fonctionnement**
+
+<sup>1</sup> Pour siéger, la Commission est composée du président ou du vice-président et de quatre assesseurs désignés par lui.
+
+<sup>2</sup> Elle est indépendante dans l'exercice de ses attributions et placée sous la surveillance du Conseil de la magistrature; les dispositions de la loi sur la justice relatives à la surveillance s'appliquent par analogie.
+
+<sup>3</sup> La Commission tient séance autant de fois que nécessaire. Elle peut décider par voie de circulation, sauf si l'un de ses membres s'y oppose.
+
+<sup>4</sup> La Commission assure l'information du public sur ses activités et la publicité de ses jugements.
+
+<sup>5</sup> Le Conseil d'Etat précise au besoin l'organisation et le fonctionnement de la Commission.
+
+#### Art. 47e
+
+**Procédure**
+
+<sup>1</sup> La procédure devant la Commission est régie par le code de procédure et de juridiction administrative.
+
+<sup>2</sup> Elle est gratuite; toutefois, un émolument global d'un montant maximal de 500 francs peut être mis à la charge du recourant qui succombe:
+
+- a) si ce dernier a occasionné des frais supplémentaires par sa faute;
+- b) en cas de procédure téméraire, abusive ou introduite à la légère;
+- c) si le recours a causé un travail excessif à la Commission.
+
+## 4 Dispositions finales
+
+#### Art. 48
+
+**Abrogation**
+
+<sup>1</sup> Sont abrogées:
+
+- a) la loi du 1<sup>er</sup> décembre 1899 sur l'organisation de l'Université (RSF 430.1), et
+- b) la loi du 27 novembre 1970 complétant et modifiant celle du 1<sup>er</sup> décembre 1899 sur l'organisation de l'Université (RSF 430.1a).
+
+#### Art. 49
+
+**Modification**
+
+<sup>1</sup> La loi du 22 mai 1975 sur le statut du personnel de l'Etat (RSF 122.70.1) est modifiée comme il suit:
+
+...
+
+#### Art. 50
+
+<sup>1</sup> Le Sénat est reconstitué dans les six mois qui suivent l'entrée en vigueur de la modification du 27 juin 2014 de la présente loi.
+
+#### Art. 51
+
+**Statuts et règlements**
+
+<sup>1</sup> Les organes universitaires arrêtent les statuts et règlements nécessaires à la mise en œuvre de la présente loi.
+
+<sup>2</sup> Dans la mesure où ils ne sont pas contraires à la présente loi, les statuts et règlements actuels de l'Université et des facultés demeurent en vigueur.
+
+<sup>3</sup> Les statuts de l'Université sont adaptés à la présente loi dans les deux ans qui suivent l'entrée en vigueur de celle-ci; les autres statuts et règlements y sont adaptés au plus tard deux ans après l'entrée en vigueur des statuts révisés de l'Université.
+
+#### Art. 51a
+
+**Fin des rapports de service**
+
+<sup>1</sup> La fin des rapports de service des membres du corps professoral de l'Université engagés avant le 1<sup>er</sup> janvier 2003 est réglée par les dispositions en vigueur au moment de leur engagement.
+
+#### Art. 51b
+
+**Commission de recours – Droit transitoire**
+
+<sup>1</sup> Les dossiers ouverts auprès de la Commission de recours de l'Université lors de l'entrée en vigueur de la modification du 27 juin 2014 de la présente loi sont traités selon l'ancien droit si l'échange des écritures est terminé à ce moment-là; l'ancienne Commission continue à siéger jusqu'à leur liquidation.
+
+#### Art. 52
+
+**Exécution et entrée en vigueur**
+
+<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi dont il fixe la date d'entrée en vigueur.[^52-1]
+
+[^52-1]: Date d'entrée en vigueur: 1<sup>er</sup> avril 1998 (ACE 17.03.1998).
+
+BL/AGS 1997 f 568 / d 553

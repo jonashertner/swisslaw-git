@@ -1,0 +1,361 @@
+---
+canton: FR
+number: "460.11"
+title: Règlement sur le sport
+short: RSport
+language: fr
+version: 2015-08-01
+valid_until: 2022-06-30
+version_adopted: 2015-07-09
+adopted: 2011-12-20
+in_force: 2012-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/460.11"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5228/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Règlement sur le sport
+
+Sport – R
+
+(RSport)
+
+du 20.12.2011 (version entrée en vigueur le 01.08.2015)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 16 juin 2010 sur le sport (LSport);
+
+Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+
+Arrête:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent règlement fixe les modalités d'application de la loi sur le sport.
+
+#### Art. 2
+
+**Respect des valeurs éthiques et de la sécurité dans le sport – Programmes et mesures préventives**
+
+<sup>1</sup> L'Etat collabore dans le domaine de la sécurité et de la prévention avec la Confédération, les communes, les organisations sportives et de prévention, prioritairement dans le cadre de programmes nationaux.
+
+<sup>2</sup> Il peut mettre en œuvre lui-même des mesures préventives.
+
+#### Art. 3
+
+**Respect des valeurs éthiques et de la sécurité dans le sport – Etablissement de directives et recommandations**
+
+<sup>1</sup> La Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) peut édicter des directives dans le domaine du sport scolaire portant sur le respect des valeurs éthiques et la sécurité dans le sport.
+
+<sup>2</sup> Au même titre, elle peut adopter des recommandations pour le sport de loisir et de performance.
+
+<sup>3</sup> Elle consulte au préalable la Commission cantonale du sport et de l'éducation physique (ci-après: la Commission).
+
+#### Art. 4
+
+**Respect des valeurs éthiques et de la sécurité dans le sport – Respect des directives et recommandations**
+
+<sup>1</sup> Les bénéficiaires d'aide doivent s'engager à respecter les directives et les recommandations les concernant.
+
+<sup>2</sup> En cas de non-respect, les requérants ou requérantes concernés peuvent se voir refuser toute nouvelle aide de l'Etat ou des communes.
+
+<sup>3</sup> Dans des cas graves, les aides déjà allouées peuvent être révoquées.
+
+## 2 Promotion des activités sportives
+
+#### Art. 5
+
+**Sport scolaire obligatoire – Surveillance**
+
+<sup>1</sup> La Direction veille, par le Service du sport (ci-après: le Service), à l'application de la législation fédérale relative à l'encouragement du sport et de l'activité physique dans les écoles publiques.
+
+#### Art. 6
+
+**Sport scolaire obligatoire – Collaboration avec les autorités scolaires locales**
+
+<sup>1</sup> Le Service soutient les autorités scolaires locales dans la mise en œuvre du sport scolaire obligatoire, notamment par:
+
+- a) des conseils et l'information;
+- b) des prestations de développement et d'amélioration de la qualité de la discipline enseignée;
+- c) la coordination et/ou l'organisation de journées sportives scolaires.
+
+#### Art. 7
+
+**Sport scolaire facultatif – But et organisation**
+
+<sup>1</sup> Le sport scolaire facultatif a pour but de compléter le programme ordinaire de l'éducation physique.
+
+<sup>2</sup> Il est organisé par les communes pour l'école obligatoire et par l'Etat pour l'enseignement secondaire supérieur, en dehors des heures d'enseignement obligatoire et sous la forme de cours de branche sportive, de manifestations ou de compétitions sportives.
+
+<sup>3</sup> Le sport scolaire facultatif est, en principe, accessible à tous les élèves.
+
+#### Art. 8
+
+**Sport scolaire facultatif – Soutien du sport scolaire facultatif**
+
+<sup>1</sup> L'Etat et les communes soutiennent le sport scolaire facultatif par des prestations de coordination et logistiques, notamment la mise à disposition gratuite de leurs infrastructures et équipements.
+
+#### Art. 9
+
+**Sport scolaire facultatif – Participation aux indemnités des moniteurs et monitrices**
+
+<sup>1</sup> L'Etat et les communes peuvent octroyer une participation aux indemnités des moniteurs et monitrices pour les activités sportives non obligatoires organisées au sein des établissements scolaires publics et des institutions scolaires spécialisées.
+
+<sup>2</sup> La participation de l'Etat aux indemnités s'élève, sur la base de tarifs unifiés sur le plan cantonal, à 50 % pour l'école obligatoire, le solde étant supporté par les communes. Pour l'enseignement secondaire supérieur, l'Etat prend en charge l'entier des indemnités.
+
+<sup>3</sup> La Direction fixe les conditions d'octroi d'une participation aux indemnités des moniteurs et monitrices, notamment en ce qui concerne la fréquence, la durée, l'infrastructure, la sécurité ainsi que la formation des intervenants et intervenantes requis pour les activités relevant du sport scolaire facultatif.
+
+#### Art. 10
+
+**Sport de loisir – Soutien du sport de loisir**
+
+<sup>1</sup> Le sport de loisir a pour but d'encourager et de promouvoir toute activité physique contribuant au bien-être et au maintien de la santé de la population de tout âge.
+
+<sup>2</sup> L'Etat soutient, par ses conseils et par l'information, les organisations sportives dans leurs activités à but non lucratif, ouvertes à l'ensemble de la population.
+
+#### Art. 11
+
+**Sport de loisir – Mise à disposition d'infrastructures sportives**
+
+<sup>1</sup> Sous réserve des besoins scolaires, l'Etat et les communes mettent leurs infrastructures sportives, y compris le matériel gymnique et les installations de sonorisation, à la disposition des organisations actives dans le sport de loisir, en dehors des heures d'enseignement, également durant les week-ends et les vacances scolaires, à l'exception des périodes nécessaires à l'entretien.
+
+<sup>2</sup> Pour les activités sportives à but non lucratif destinées aux jeunes de moins de 20 ans, l'Etat et les communes se limitent à prélever un émolument pour les frais de conciergerie.
+
+<sup>3</sup> La Direction détermine, en collaboration avec la Direction chargée des bâtiments et du mobilier de l'Etat (Direction de l'aménagement, de l'environnement et des constructions), les conditions d'utilisation des infrastructures sportives de l'Etat et fixe les émoluments pour les frais de personnel et d'utilisation.
+
+#### Art. 12
+
+**Programme «sports-arts-formation» – But et organisation**
+
+<sup>1</sup> L'Etat met en œuvre un programme «sports-arts-formation» permettant aux jeunes sportifs et sportives de talent de concilier leur formation scolaire et la pratique d'un sport de haut niveau.
+
+<sup>2</sup> La Direction détermine la procédure d'admission, les mesures ainsi que l'organisation du programme.
+
+<sup>3</sup> Les mesures scolaires du programme ressortissent à la législation scolaire.
+
+#### Art. 13
+
+**Programme «sports-arts-formation» – Conditions d'admission**
+
+<sup>1</sup> Le programme est, en principe, réservé aux élèves du degré secondaire, pratiquant un sport reconnu par la Direction.
+
+<sup>2</sup> Peuvent être admis au programme les jeunes sportifs et sportives de talent qui remplissent en outre les conditions suivantes:
+
+- a) être membres d'une association ou d'un club fribourgeois et être licenciés auprès d'une fédération suisse;
+- b) appartenir à un cadre régional ou national et/ou à une équipe de l'élite nationale;
+- c) avoir atteint un haut niveau sportif selon les critères fixés par le Service;
+- d) exercer leur sport à concurrence de dix heures d'entraînement hebdomadaires au minimum;
+- e) présenter des résultats scolaires suffisants;
+- f) attester un suivi médical.
+
+#### Art. 14
+
+**Programme «sports-arts-formation» – Demande**
+
+<sup>1</sup> La demande doit être adressée au Service, jusqu'au 15 février précédant l'année scolaire suivante.
+
+<sup>2</sup> Le Service examine si toutes les conditions de l'article 13 sont remplies et transmet son préavis à la direction d'école compétente.
+
+#### Art. 15
+
+**Programme «sports-arts-formation» – Décision**
+
+<sup>1</sup> La direction de l'école décide de l'admission d'un ou d'une élève au programme, en tenant compte du préavis du Service.
+
+<sup>2</sup> Elle est habilitée à conclure une convention avec la personne admise, fixant les mesures convenues, les devoirs spécifiques relatifs au suivi scolaire et à la pratique du sport ainsi que les conséquences possibles de leur inobservation.
+
+<sup>3</sup> La décision d'admission au programme n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si toutes les conditions fixées par l'article 13 sont remplies et si les engagements de la convention ont été pleinement respectés.
+
+#### Art. 16
+
+**Prise en charge de frais d'écolage dans un autre canton – Conditions**
+
+<sup>1</sup> Lorsque, à défaut de structures de formation sportive cantonales reconnues par la Direction, le lieu de pratique, à haut niveau, d'un sport se situe dans un autre canton, l'Etat peut contribuer aux frais d'écolage de jeunes sportifs ou sportives de talent.
+
+<sup>2</sup> Peuvent bénéficier d'une aide selon l'alinéa 1 les jeunes sportifs et sportives de talent qui remplissent en outre les conditions suivantes:
+
+- a) être membres d'une association ou d'un club fribourgeois et être licenciés auprès d'une fédération suisse;
+- b) appartenir à un cadre régional ou national et/ou à une équipe de l'élite nationale;
+- c) avoir atteint un haut niveau sportif selon les critères fixés par le Service;
+- c<sup>bis</sup>) exercer leur sport à concurrence de dix heures d'entraînement hebdomadaires au minimum;
+- d) présenter des résultats scolaires suffisants;
+- e) remplir les conditions d'admission du canton de domicile et du canton d'accueil pour le degré scolaire correspondant;
+- f) être domiciliés légalement dans le canton de Fribourg depuis deux ans;
+- f<sup>bis</sup>) attester d'un suivi médical;
+- g) démontrer que leurs possibilités financières ou celles de leurs parents, de leur conjoint ou conjointe ou de leur partenaire enregistré-e et d'autres personnes légalement tenues à leur entretien ne suffisent pas à couvrir les frais d'écolage dans un autre canton.
+
+<sup>3</sup> Sont réservées les conditions particulières des conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile.
+
+#### Art. 17
+
+**Prise en charge de frais d'écolage dans un autre canton – Demande**
+
+<sup>1</sup> La demande doit être adressée au Service, jusqu'au 15 février précédant l'année scolaire suivante.
+
+<sup>2</sup> Le Service examine si toutes les conditions de l'article 16 sont remplies et transmet son préavis à la Direction.
+
+#### Art. 18
+
+**Prise en charge de frais d'écolage dans un autre canton – Décision**
+
+<sup>1</sup> La Direction décide du principe et du montant de la prise en charge des frais d'écolage dans un autre canton.
+
+<sup>2</sup> Le montant de l'aide ne peut pas dépasser les contributions cantonales fixées par les conventions scolaires régionales et intercantonales en matière de fréquentation d'une école dans un canton autre que celui de domicile pour le degré scolaire et la filière de formation correspondants.
+
+<sup>3</sup> La décision de participation aux frais d'écolage n'est valable que pour la durée d'une année scolaire et peut être renouvelée, le cas échéant, si toutes les conditions de l'article 16 sont remplies.
+
+#### Art. 19
+
+**Infrastructures sportives scolaires**
+
+<sup>1</sup> Le subventionnement d'infrastructures sportives scolaires relève de la législation spéciale en la matière.
+
+#### Art. 20
+
+**Infrastructures sportives destinées au sport de loisir ou de performance**
+
+<sup>1</sup> Dans les limites des disponibilités du Fonds cantonal du sport, l'Etat peut contribuer, à titre subsidiaire, aux frais de construction d'une installation d'envergure destinée au sport de loisir ou de performance à condition:
+
+- a) qu'elle relève d'un intérêt cantonal, intercantonal ou national;
+- b) qu'elle réponde à un besoin reconnu et corresponde aux priorités fixées par le concept cantonal du sport;
+- c) qu'elle soit exploitée sans but commercial et/ou touristique exclusif ou prépondérant;
+- d) que l'accessibilité du public, des sociétés et des écoles aux installations sportives soit garantie.
+
+<sup>2</sup> La Direction fixe la procédure et les modalités d'octroi d'une aide et décide de l'utilisation du Fonds.
+
+<sup>3</sup> Toutefois, l'attribution d'un montant supérieur à 50'000 francs relève de la compétence du Conseil d'Etat.
+
+#### Art. 21
+
+**Infrastructures sportives – Inventaire des installations sportives**
+
+<sup>1</sup> Le Service dresse et tient à jour un inventaire, accessible au public, destiné à recenser toutes les infrastructures sportives du canton qui sont ouvertes à tout ou partie de la population et exploitées sans but commercial et/ou touristique exclusif ou prépondérant.
+
+<sup>2</sup> Les communes contribuent au recensement ainsi qu'à l'actualisation de l'inventaire en fournissant les données relatives à leurs infrastructures sportives.
+
+#### Art. 22
+
+**Manifestations sportives – Soutien logistique**
+
+<sup>1</sup> L'Etat peut soutenir les manifestations sportives d'importance intercantonale, nationale ou internationale, dont l'initiative relève des organisations sportives, à l'exception de celles qui poursuivent un but commercial et/ou touristique exclusif ou prépondérant.
+
+<sup>2</sup> Son soutien se limite à la fourniture de prestations logistiques, notamment la mise à disposition de ses infrastructures et équipements ou de personnel.
+
+#### Art. 23
+
+**Manifestations sportives – Aides financières**
+
+<sup>1</sup> Lorsque les circonstances le justifient, l'Etat peut également, dans les limites des disponibilités du Fonds cantonal du sport, contribuer financièrement à des manifestations d'envergure organisées sur sol fribourgeois selon l'article 9 al. 2 de la loi, à l'exception de celles qui poursuivent un but commercial et/ou touristique exclusif ou prépondérant.
+
+<sup>2</sup> Dans ses appréciations, il tient notamment compte des critères suivants:
+
+- a) l'intérêt public de la manifestation pour le canton;
+- b) la reconnaissance de la manifestation par l'association ou la fédération nationale ou internationale;
+- c) les prestations des districts, des communes et des tiers concernés;
+- d) le nombre de participants et participantes;
+- e) le respect par les organisateurs et organisatrices des recommandations les concernant, notamment en matière de respect de l'éthique, de sécurité, de prévention d'accidents et d'abus, de dopage et de développement durable dans le sport.
+
+## 3 Moyens
+
+#### Art. 24
+
+**Prix sportif – Dotation**
+
+<sup>1</sup> Le prix sportif est doté de 5000 francs.
+
+<sup>2</sup> Le prix d'encouragement est doté de 2000 francs. Le prix peut être réparti entre deux personnes lauréates.
+
+#### Art. 25
+
+**Prix sportif – Autorités d'attribution**
+
+<sup>1</sup> Le prix sportif de l'Etat de Fribourg est décerné par le Conseil d'Etat, sur la proposition de la Commission.
+
+<sup>2</sup> Le prix d'encouragement est décerné par la Commission.
+
+#### Art. 26
+
+**Prix sportif – Personnes lauréates**
+
+<sup>1</sup> Les prix sont attribués à des personnes lauréates d'origine fribourgeoise ou domiciliées dans le canton.
+
+<sup>2</sup> La Commission établit, à l'intention du Conseil d'Etat, une liste des personnes lauréates potentielles pour le prix sportif.
+
+#### Art. 27
+
+**Concept cantonal du sport – Définition**
+
+<sup>1</sup> Le concept cantonal du sport est un instrument de planification pluriannuelle fixant les objectifs et les priorités en matière de promotion des activités et des infrastructures sportives sur le plan cantonal.
+
+<sup>2</sup> Il contient notamment les éléments suivants:
+
+- a) les objectifs et les priorités fixés en matière de promotion des activités physiques et du sport dans le canton;
+- b) les besoins et les priorités en matière d'infrastructures sportives, fondés sur l'inventaire des installations sportives;
+- c) une planification de mise en œuvre comprenant les implications prévisibles pour l'Etat, les communes et les milieux directement concernés dans le canton.
+
+#### Art. 28
+
+**Concept cantonal du sport – Etablissement**
+
+<sup>1</sup> Le concept cantonal du sport est élaboré par le Service, qui associe la Commission à ses travaux.
+
+<sup>2</sup> Le concept est adopté par le Conseil d'Etat, sur la proposition de la Direction.
+
+<sup>3</sup> Il est adapté chaque fois que les circonstances le justifient, mais en règle générale en concertation avec le Programme gouvernemental de législature.
+
+## 4 Organisation
+
+#### Art. 29
+
+**Attributions du Service du sport**
+
+<sup>1</sup> Le Service a notamment les attributions suivantes, qu'il exerce sous l'autorité de la Direction:
+
+- a) il accomplit toutes les tâches et exerce toutes les compétences que les législations fédérale et cantonale attribuent au canton en matière de sport et qui ne sont pas réservées à d'autres autorités;
+- b) il veille à la coordination des activités de l'Etat dans le domaine du sport et de l'éducation physique;
+- c) il soutient les communes dans la mise en œuvre du sport scolaire obligatoire et facultatif;
+- d) il coordonne le programme «sports-arts-formation»;
+- e) il dresse et tient à jour l'inventaire des installations sportives;
+- f) il administre le Fonds cantonal du sport et toute demande de soutien qui en découle;
+- g) il coordonne les aides disponibles pour l'encouragement du sport;
+- h) il assume la responsabilité du mouvement Jeunesse et Sport;
+- i) il entretient les relations avec les organisations sportives (clubs, fédérations, associations), la Confédération et les communes;
+- j) il assure et développe l'information de la population, des autorités scolaires et des milieux sportifs.
+
+#### Art. 30
+
+**Organisation et fonctionnement de la Commission**
+
+<sup>1</sup> Le secrétariat de la Commission est assuré par le Service.
+
+<sup>2</sup> La Commission se réunit au moins deux fois par an et aussi souvent que sa présidence l'estime nécessaire. Elle doit être convoquée si trois de ses membres en font la demande.
+
+<sup>3</sup> La Commission peut entretenir les contacts nécessaires à son activité, notamment avec les communes, les associations et fédérations sportives ainsi qu'avec les autres milieux du sport, et se prononcer sur des propositions ou suggestions émanant de ces dernières.
+
+## 5 Dispositions finales
+
+#### Art. 31
+
+**Abrogations**
+
+<sup>1</sup> Sont abrogés:
+
+- a) l'arrêté du 6 février 1995 relatif au Service du sport et à la Commission cantonale du sport et de l'éducation physique (RSF 460.12);
+- b) l'ordonnance du 1<sup>er</sup> juillet 2003 concernant le prix sportif de l'Etat de Fribourg (RSF 460.13);
+- c) l'ordonnance du 27 mai 2003 relative au Fonds cantonal du sport (RSF 460.21);
+- d) le règlement du 10 septembre 1974 d'application de la législation fédérale encourageant l'éducation physique et les sports dans les écoles (RSF 461.11);
+- e) l'arrêté du 28 décembre 1984 relatif au mouvement Jeunesse et Sport (RSF 462.11).
+
+#### Art. 32
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 2012.
+
+2011\_147

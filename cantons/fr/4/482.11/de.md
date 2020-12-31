@@ -1,0 +1,828 @@
+---
+canton: FR
+number: "482.11"
+title: Ausführungsreglement zum Gesetz über den Schutz der Kulturgüter
+short: ARKGSG
+language: de
+version: 2012-10-01
+valid_until: 2022-01-31
+version_adopted: 2012-09-25
+adopted: 1993-08-17
+in_force: 1993-09-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/482.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/6267/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ausführungsreglement zum Gesetz über den Schutz der Kulturgüter
+
+Kulturgüterschutz – R
+
+(ARKGSG)
+
+vom 17.08.1993 (Fassung in Kraft getreten am 01.10.2012)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Gesetz vom 7. November 1991 über den Schutz der Kulturgüter (KGSG);
+
+auf Antrag der Direktion für Erziehung und kulturelle Angelegenheiten,
+
+beschliesst:
+
+## 1 Unterstützungsmassnahmen
+
+### 1.1 Unterstützung (Art. 11 Abs. 2 KGSG)
+
+#### Art. 1
+
+**Gegenstand und Art**
+
+<sup>1</sup> Der Staat kann natürlichen Personen sowie juristischen Personen des Privatrechts oder des öffentlichen Rechts punktuell Unterstützung für Studien, Veröffentlichungen und andere Projekte gewähren, die die Kenntnis und die Wertschätzung der Kulturgüter fördern.
+
+<sup>2</sup> Die Unterstützung kann wissenschaftlicher, technischer, logistischer oder finanzieller Art sein.
+
+<sup>3</sup> Das Projekt muss für das kulturelle Erbe Freiburgs wichtig und von Interesse sein.
+
+#### Art. 2
+
+**Verfahren und Zuständigkeit**
+
+<sup>1</sup> Das Unterstützungsgesuch ist zusammen mit einer Beschreibung des Projekts, einem detaillierten Voranschlag und einem Finanzierungsplan schriftlich an das Amt für Kulturgüter zu richten. Auf Verlangen hat der Gesuchsteller alle weiteren Auskünfte und Belege nachzuliefern.
+
+<sup>2</sup> Die Direktion für Erziehung, Kultur und Sport (die Direktion) entscheidet auf Antrag der Kulturgüterkommission (die Kommission) über die Gewährung und die Art der Unterstützung.
+
+<sup>3</sup> Ist die Unterstützung finanzieller Art, so hat sie die Form einer Subvention.
+
+<sup>4</sup> Bis 20'000 Franken legt die Direktion die Höhe der Subvention fest. Über höhere Beträge entscheidet der Staatsrat.
+
+### 1.2 Finanzielle Unterstützung (Art. 13–18 KGSG)
+
+#### Art. 3
+
+**Gegenstand**
+
+<sup>1</sup> Die Erhaltungs- und die Restaurationskosten für die geschützten Kulturgüter sind Gegenstand einer finanziellen Unterstützung des Staates.
+
+<sup>2</sup> Als Erhaltungskosten gelten die tatsächlichen Kosten für die zur Erhaltung der Bausubstanz und der charakteristischen Elemente des Kulturgutes nötigen Studien und Arbeiten, jedoch nicht die ordentlichen Unterhaltskosten.
+
+<sup>3</sup> Als Restaurationskosten gelten die tatsächlichen Kosten für die zur Wiederherstellung der Bausubstanz und der charakteristischen Elemente des beschädigten Kulturgutes nötigen Studien und Arbeiten.
+
+#### Art. 4
+
+**Empfänger – Private Personen und juristische Personen des Privatrechts**
+
+<sup>1</sup> Natürliche Personen und juristische Personen des Privatrechts erhalten eine finanzielle Unterstützung an die Erhaltungs- und Restaurationskosten geschützter Kulturgüter, deren Eigentümer sie sind. Vorbehalten bleibt Artikel 11 dieses Reglementes.
+
+<sup>2</sup> Die finanzielle Unterstützung des Staates kann von der Gewährung eines Beitrags durch die Gemeinde, den Bund oder Dritte abhängig gemacht werden.
+
+#### Art. 5
+
+**Empfänger – Juristische Personen des öffentlichen Rechts**
+
+<sup>1</sup> Juristische Personen des öffentlichen Rechts, einschliesslich der juristischen Personen des Kirchenrechts, können finanzielle Unterstützung erhalten, wenn:
+
+- a) bei unbeweglichen Kulturgütern:
+  - 1\. die Kosten für die Erhaltung oder die Restauration des geschützten Kulturgutes auf mehr als 50'000 Franken veranschlagt werden;
+  - 2\. die finanziellen Verhältnisse des Eigentümers einen Beitrag des Staates rechtfertigen;
+- b) bei beweglichen Kulturgütern:
+  - 1\. die Kosten für die Erhaltung oder die Restauration des geschützten Kulturgutes auf über 10'000 Franken veranschlagt werden;
+  - 2\. die finanziellen Verhältnisse des Eigentümers einen Beitrag des Staates rechtfertigen.
+
+<sup>2</sup> Die finanzielle Unterstützung des Staates kann von der Gewährung eines Beitrags durch die Gemeinde, den Bund oder Dritte abhängig gemacht werden.
+
+#### Art. 6
+
+**Gesuch**
+
+<sup>1</sup> Bevor ein Gesuch um finanzielle Unterstützung eingereicht wird, setzt sich der Gesuchsteller mit dem Amt für Kulturgüter in Verbindung, um die Bedingungen für die Gewährung einer allfälligen Subvention zu erfahren.
+
+<sup>2</sup> Das Gesuch um finanzielle Unterstützung ist vor Beginn der Arbeiten schriftlich an das Amt für Kulturgüter zu richten.
+
+<sup>3</sup> Dem Gesuch sind beizufügen:
+
+- a) bei unbeweglichen Kulturgütern:
+  - 1\. ein Situationsplan des unbeweglichen Kulturgutes und Pläne des Ausführungsprojekts im Massstab 1:100 oder 1:50, die vom Amt für Kulturgüter genehmigt wurden;
+  - 2\. Fotografien des unbeweglichen Kulturgutes im derzeitigen Zustand;
+  - 3\. Sondierungen und Aufnahmen, die bei der Erarbeitung des Projekts vorgenommen wurden;
+  - 4\. Unterlagen des Bau- und Raumplanungsamts betreffend ein allfälliges früheres Gesuch;
+  - 5\. ein detaillierter Voranschlag und ein Finanzierungsplan sowie Angaben über die geschätzte Dauer der Arbeiten;
+- b) bei beweglichen Kulturgütern:
+  - 1\. Fotografien des beweglichen Kulturgutes im derzeitigen Zustand und eine detaillierte Dokumentation des beauftragten Restaurators über die Art der Arbeiten und die verwendeten Materialien;
+  - 2\. ein detaillierter Voranschlag und Angaben über die Art der Finanzierung;
+  - 3\. gegebenenfalls die von der Direktion ausgestellte Restaurationsbewilligung.
+
+<sup>4</sup> Auf Verlangen hat der Gesuchsteller alle weiteren erforderlichen Auskünfte und Belege nachzuliefern.
+
+#### Art. 7
+
+**Zuständigkeit des Staatsrates**
+
+<sup>1</sup> Der Staatsrat ist zuständig für:
+
+- a) die Gewährung von Subventionen über 30'000 Franken;
+- b) die Gewährung anderer Arten von finanzieller Unterstützung, insbesondere von Darlehensgarantien oder der Übernahme der Zinsen und Gebühren eines Darlehens; er legt gegebenenfalls deren Höhe und die Modalitäten fest.
+
+#### Art. 8
+
+**Bedingungen**
+
+<sup>1</sup> An die Gewährung einer finanziellen Unterstützung können folgende Bedingungen geknüpft werden:
+
+- a) Die Richtlinien des Amtes für Kulturgüter über die Ausführung der Erhaltungs- oder der Restaurationsarbeiten sind vom Empfänger der Subvention einzuhalten.
+- b) Während der Arbeiten können die bezeichneten Experten die für nötig erachteten Kontrollen oder Überprüfungen vornehmen.
+- c) Die Gemeinde, auf deren Gebiet sich das Kulturgut befindet, gewährt ihrerseits eine Unterstützung für unbewegliche Kulturgüter von nationaler oder regionaler Bedeutung gemäss dem «Schweizerischen Inventar der Kulturgüter».
+
+#### Art. 9
+
+**Auflagen**
+
+<sup>1</sup> Die Behörde kann vom Beitragsempfänger verlangen, dass er:
+
+- a) auf eigene Kosten die Anmerkung über den gewährten Beitrag im Sinne einer öffentlich-rechtlichen Beschränkung des Grundeigentums gemäss Artikel 702 des Schweizerischen Zivilgesetzbuches im Grundbuch für zehn Jahre eintragen lässt;
+- b) dem Amt für Kulturgüter eine Dokumentation mit Fotografien über die Restaurationsarbeiten am Kulturgut einreicht;
+- c) nach Abschluss der Arbeiten eine Kontrolle des Kulturgutes gewährt;
+- d) dem Amt für Kulturgüter eine allfällige Veräusserung des geschützten Kulturgutes meldet, die innerhalb von zehn Jahren nach der Gewährung der finanziellen Unterstützung erfolgt.
+
+<sup>2</sup> Weitere Auflagen können von der Behörde, die die finanzielle Unterstützung gewährt, festgelegt werden.
+
+#### Art. 10
+
+**Beitragssatz**
+
+<sup>1</sup> Der Beitragssatz beträgt 9, 15 oder 22 % der anrechenbaren Kosten. Er wird festgesetzt auf:
+
+- a) 22 % für Kulturgüter von hoher Qualität, die als Kulturgüter von nationaler Bedeutung einen Bundesbeitrag erhalten;
+- b) 15 % für Kulturgüter von hoher oder von durchschnittlicher Qualität mit regionaler Bedeutung;
+- c) 9 % für Kulturgüter von hoher oder von durchschnittlicher Qualität mit lokaler Bedeutung.
+
+<sup>1<sup>bis</sup></sup> Diese Beitragssätze werden auf die Hälfte reduziert, wenn der Eigentümer eine juristische Person des öffentlichen Rechts oder eine juristische Person des Kirchenrechts ist; eine Ausnahme bilden jedoch die Klöster und die Fälle nach Absatz 4.
+
+<sup>2</sup> Der gemäss Absatz 1 festgelegte Satz kann in den Fällen nach Artikel 16 Abs. 2 KGSG ausnahmsweise um bis zu 5 % erhöht oder herabgesetzt werden. Er kann jedoch 22 % nicht übersteigen ausser in den Fällen nach Absatz 4.
+
+<sup>3</sup> Der Staatsrat legt von Fall zu Fall die Höhe der finanziellen Unterstützung fest, die nicht die Form einer Subvention hat.
+
+<sup>4</sup> Er legt den kantonalen Beitragssatz für Projekte fest, denen gemäss Artikel 16 Abs. 3 KGSG im Rahmen einer Programmvereinbarung eine Bundeshilfe gewährt wird.
+
+#### Art. 11
+
+**Verweigerung der Subvention**
+
+<sup>1</sup> Keine Subvention wird gewährt, wenn:
+
+- a) der Subventionsbetrag unter 4000 Franken liegt und
+- b) das steuerbare Einkommen oder der steuerbare Gewinn des Eigentümers 80'000 Franken übersteigt.
+
+#### Art. 12
+
+**Auszahlung der Subvention**
+
+<sup>1</sup> Die Subvention wird grundsätzlich nach Abschluss der Arbeiten aufgrund der Schlussabrechnungen, die vom Amt für Kulturgüter genehmigt wurden, ausgezahlt. Den Schlussabrechnungen sind die quittierten Rechnungen beizulegen.
+
+<sup>2</sup> Aus nachweisbar gerechtfertigten Gründen können im Rahmen des Voranschlags während der Arbeiten Vorauszahlungen geleistet werden.
+
+#### Art. 13
+
+**Rückerstattung der Subvention – Ordentliche Fälle**
+
+<sup>1</sup> Die vollständige oder teilweise Rückerstattung der Subvention kann verlangt werden, wenn diese aufgrund falscher Angaben zu Unrecht gewährt wurde oder wenn die mit der Subvention verbundenen Bedingungen oder Auflagen nicht oder nur teilweise eingehalten wurden.
+
+#### Art. 14
+
+**Rückerstattung der Subvention – Verfahren und Zuständigkeit**
+
+<sup>1</sup> Scheinen die Voraussetzungen einer Rückerstattung erfüllt, so teilt die Direktion dies dem Eigentümer mit und gibt ihm eine Frist, in der er Stellung nehmen kann.
+
+<sup>2</sup> Die Behörde, welche die Subvention gewährt hat, entscheidet auf Antrag der Kommission über die Rückerstattung und legt deren Höhe fest.
+
+<sup>3</sup> Wird das Kulturgut innert Jahresfrist nach der Einreichung der Schlussabrechnungen verkauft, so entspricht der Rückerstattungsbetrag dem Subventionsbetrag; für jedes folgende Jahr vermindert er sich um 10 %.
+
+#### Art. 15
+
+**Rückerstattung der Subvention – Modalitäten**
+
+<sup>1</sup> Der Rückerstattungsbetrag ist innert 30 Tagen einzuzahlen. Werden andere Zahlungsbedingungen gewährt, so wird ab Fälligkeit ein Jahreszins von 5 % erhoben.
+
+#### Art. 16
+
+**Widerruf der finanziellen Unterstützung**
+
+<sup>1</sup> Eine finanzielle Unterstützung, die nicht als Subvention gewährt wurde, wird vom Staatsrat in den Fällen gemäss Artikel 13 dieses Reglementes widerrufen.
+
+<sup>2</sup> Wurde sie vertraglich zugesprochen, so kann sie geändert werden. Wird keine Einigung erzielt, bleibt die verwaltungsrechtliche Klage vorbehalten.
+
+## 2 Schutzmassnahmen für die beweglichen Kulturgüter
+
+### 2.1 Unterschutzstellung (Art. 21 KGSG)
+
+#### Art. 17
+
+**Zuständigkeit**
+
+<sup>1</sup> Für die Unterschutzstellung der beweglichen Kulturgüter ist die Direktion zuständig, welche auf Antrag der Unterkommission für bewegliche Kulturgüter (die Unterkommission) entscheidet.
+
+#### Art. 18
+
+**Verfahren auf Antrag der Unterkommission**
+
+<sup>1</sup> Die Unterkommission kann der Direktion die Unterschutzstellung von beweglichen Kulturgütern beantragen, die im Verzeichnis der Kulturgüter erfasst sind. Ihr Antrag muss hinreichend begründet sein.
+
+<sup>2</sup> Die Direktion benachrichtigt den betreffenden Eigentümer über die Einleitung des Unterschutzstellungsverfahrens und setzt ihm eine Frist, in der er zum Antrag der Unterkommission Stellung nehmen kann. Wenn nötig erfolgt die Mitteilung durch Veröffentlichung im Amtsblatt.
+
+<sup>3</sup> Die Direktion trifft allenfalls die nötigen vorsorglichen Massnahmen zur Erhaltung des Kulturgutes, dessen Unterschutzstellung beantragt wurde.
+
+#### Art. 19
+
+**Verfahren auf Gesuch des Eigentümers**
+
+<sup>1</sup> Die Eigentümer können mit einem an die Unterkommission gerichteten schriftlichen Gesuch um die Unterschutzstellung ihrer beweglichen Kulturgüter ersuchen.
+
+<sup>2</sup> Die Unterkommission prüft das Gesuch und nimmt zuhanden der Direktion Stellung.
+
+#### Art. 20
+
+**Art**
+
+<sup>1</sup> Die Unterschutzstellung eines beweglichen Kulturgutes kann kollektiv oder individuell erfolgen.
+
+<sup>2</sup> Ein einzelnes bewegliches Kulturgut oder eine Gruppe beweglicher Kulturgüter, die eine Einheit bilden, werden individuell unter Schutz gestellt.
+
+<sup>3</sup> Bewegliche Kulturgüter, die durch ihre Substanz, Herkunft, Zugehörigkeit oder Funktion ein Ganzes bilden, werden kollektiv unter Schutz gestellt.
+
+#### Art. 21
+
+**Form**
+
+<sup>1</sup> Die beweglichen Kulturgüter werden durch Verfügung unter Schutz gestellt. Im Interesse des Schutzes kann dies auch durch Vertrag erfolgen, insbesondere wenn Lösungen ausgehandelt werden müssen.
+
+<sup>2</sup> Die Verfügung oder der Vertrag erwähnt ausdrücklich die Wirkungen der Unterschutzstellung nach den Artikeln 23 Abs. 1, 24, 25 Abs. 1, 26 Abs. 2 und 30 KGSG sowie die übrigen Wirkungen der Unterschutzstellung.
+
+<sup>3</sup> Die Unterschutzstellung eines beweglichen Kulturgutes durch eine Massnahme der Raumplanung bleibt vorbehalten.
+
+#### Art. 22
+
+**Änderung**
+
+<sup>1</sup> Die Verfügung über die Unterschutzstellung wird geändert, wenn dies nötig ist, um das Kulturgut zu erhalten oder zur Geltung zu bringen. Der Vertrag wird geändert, wenn dies nötig ist, um das Kulturgut zu erhalten oder zur Geltung zu bringen. Kommt keine Einigung zustande, bleibt die verwaltungsrechtliche Klage vorbehalten.
+
+<sup>2</sup> Die Änderung kann insbesondere darin bestehen, dass weitere Wirkungen hinzugefügt werden.
+
+<sup>3</sup> Die Artikel 18 und 21 sind sinngemäss auf das Änderungsverfahren anwendbar.
+
+<sup>4</sup> Die Verfügung wird widerrufen, wenn der Schutz nicht oder nicht mehr gerechtfertigt ist. Wenn ein Vertrag vorliegt, kann dieser abgeändert werden. Wird keine Einigung erzielt, bleibt die verwaltungsrechtliche Klage vorbehalten.
+
+### 2.2 Veräusserung durch juristische Personen des öffentlichen Rechts (Art. 24 KGSG)
+
+#### Art. 23
+
+**Bewilligungsgesuch**
+
+<sup>1</sup> Das Gesuch um Bewilligung der Veräusserung eines geschützten beweglichen Kulturgutes ist schriftlich an das Amt für Kulturgüter zu richten. Es muss die Art der Übertragung und, wenn bekannt, den Namen des voraussichtlichen Erwerbers enthalten.
+
+#### Art. 24
+
+**Bedingungen und Auflagen**
+
+<sup>1</sup> Die Bewilligung zur Veräusserung kann mit Bedingungen und Auflagen verbunden werden, um zu gewährleisten, dass das Kulturgut erhalten und zur Geltung gebracht wird oder gegebenenfalls im Kanton verbleibt.
+
+<sup>2</sup> Ist eine Bedingung für die Gewährung der Bewilligung nicht mehr oder nur noch teilweise erfüllt, so wird die Bewilligung nach vorgängiger Mahnung widerrufen.
+
+#### Art. 25
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Direktion bewilligt die Veräusserung innert 60 Tagen ab Einreichung des Gesuchs.
+
+### 2.3 Vorkaufsrecht (Art. 25 und 26 KGSG)
+
+#### Art. 26
+
+**Verkaufsankündigung**
+
+<sup>1</sup> Jeder Eigentümer eines geschützten beweglichen Kulturgutes muss dessen Verkauf melden und den Namen des Käufers mitteilen:
+
+- a) dem Amt für Kulturgüter;
+- b) seiner Wohnsitzgemeinde;
+- c) falls die Schutzmassnahmen Wirkungen auf den Standort des beweglichen Kulturgutes hat, der Gemeinde, in der sich das Kulturgut befindet.
+
+<sup>2</sup> Die zuständigen Behörden wachen darüber, dass die Meldepflicht eingehalten wird.
+
+#### Art. 27
+
+**Ausübung des Vorkaufsrechts – Verfahren**
+
+<sup>1</sup> Ist das für den Verkauf bestimmte bewegliche Kulturgut von ausserordentlicher Bedeutung für das kulturelle Erbe Freiburgs, so informiert das Amt für Kulturgüter den Verkäufer, die Gemeinden und gegebenenfalls die betreffende Pfarrei oder Kirchgemeinde darüber, dass der öffentlichen Hand ein Vorkaufsrecht zusteht.
+
+<sup>2</sup> Der Verkäufer muss den Preis und die Verkaufsbedingungen mitteilen und alle verlangten Belege vorlegen.
+
+<sup>3</sup> Die Gemeinde und gegebenenfalls die Pfarrei oder Kirchgemeinde entscheiden darüber, ob sie das Vorkaufsrecht ausüben wollen.
+
+#### Art. 28
+
+**Ausübung des Vorkaufsrechts – Zuständigkeit**
+
+<sup>1</sup> Die Zuständigkeit des Staates, das Vorkaufsrecht auszuüben oder zu übertragen, liegt bei der Direktion, wenn der Erwerbspreis nicht mehr als 20'000 Franken betragt. Über höhere Betrage entscheidet der Staatsrat auf Antrag der Direktion.
+
+<sup>2</sup> Die Bestimmungen der Finanzgesetzgebung des Staates bleiben vorbehalten.
+
+### 2.4 Kontrolle der Restauration und des Handels (Art. 30 und 31 KGSG)
+
+#### Art. 29
+
+**Kontrolle der Restauration**
+
+<sup>1</sup> Für die Restauration geschützter beweglicher Kulturgüter, die für den Kanton von ausserordentlicher Bedeutung sind, ist eine Bewilligung des Amts für Kulturgüter erforderlich, das aufgrund der Stellungnahme der Unterkommission entscheidet.
+
+<sup>2</sup> Die Bewilligung wird unter folgenden Bedingungen erteilt:
+
+- a) Die Restauration wird kunstgerecht ausgeführt.
+- b) Das Restaurationsprogramm wird von der Unterkommission gutgeheissen.
+- c) Der Restaurator verfügt über die nötigen beruflichen Fähigkeiten und die erforderliche Erfahrung.
+- d) Es wird eine wissenschaftliche Dokumentation nach den Richtlinien des Amts für Kulturgüter erstellt.
+
+#### Art. 30
+
+**Kontrolle des Handels**
+
+<sup>1</sup> Wer mit beweglichen Kulturgütern handelt, muss die nötigen Massnahmen ergreifen, um den guten Zustand der ihm anvertrauten geschützten beweglichen Kulturgüter zu erhalten.
+
+<sup>2</sup> Er muss über den Erwerb und den Verkauf der Kulturgüter, die für das kulturelle Erbe Freiburgs von ausserordentlicher Bedeutung sind, Buch führen.
+
+## 3 Schutz bei bewaffneten Konflikten und im Krisenfall (Art. 32 und 33 KGSG)
+
+#### Art. 31
+
+**Begriff**
+
+<sup>1</sup> Der Begriff Krisenfall umfasst im Sinne des Gesetzes auch Katastrophensituationen.
+
+#### Art. 32
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Befugnisse des Staates im Bereich des Kulturgüterschutzes werden bei bewaffneten Konflikten oder im Krisenfall vom Amt für Kulturgüter ausgeübt.
+
+<sup>2</sup> Das Amt für Kulturgüter arbeitet mit den Zivilschutz- und Kulturgüterschutz-Instanzen des Bundes, der Kantone und der Gemeinden zusammen.
+
+#### Art. 33
+
+**Befugnisse des Amts für Kulturgüter**
+
+<sup>1</sup> Im Rahmen der Aufgaben, die das Gesetz dem Staat übertragt (Art. 33 KGSG), hat das Amt für Kulturgüter insbesondere folgende Befugnisse:
+
+- a) Es beantragt beim «Schweizerischen Komitee für Kulturgüterschutz» die Nachführung des Schweizerischen Inventars der Kulturgüter von nationaler und regionaler Bedeutung im Kanton.
+- b) Es erstellt eine Sicherheitsdokumentation über die Kulturgüter von nationaler und regionaler Bedeutung und arbeitet für die Erstellung einer Dokumentation der Kulturgüter von lokaler Bedeutung mit den Gemeinden zusammen.
+- c) Es nimmt Stellung zu Bauprojekten von Schutzräumen für die Kulturgüter und berät deren Bauherrschaft.
+- d) Es arbeitet mit den Verantwortlichen des Kulturgüterschutzes, die von Gemeinden und Gemeindeverbindungen bezeichnet werden, bei der Ausführung ihrer Aufgabe zusammen.
+- e) Es überwacht die Ausführung der Aufgaben zum Schutz der Kulturgüter durch die Gemeinden und die Gemeindeverbindungen.
+
+<sup>2</sup> Das Amt für Kulturgüter kann für die Ausübung bestimmter Befugnisse die Mithilfe des Amts für Bevölkerungsschutz und Militär anfordern.
+
+## 4 Meldepflicht (Art. 34 KGSG)
+
+#### Art. 34
+
+**Verfahren**
+
+<sup>1</sup> Die zuständige Dienststelle, der die Entdeckung eines Kulturgutes gemeldet werden muss, ist das Amt für Kulturgüter.
+
+<sup>2</sup> Wenn das entdeckte Kulturgut archäologische Eigenschaften aufweist, ist auch das Amt für Archäologie zu informieren.
+
+<sup>3</sup> Das Amt für Kulturgüter oder das Amt für Archäologie identifiziert das Objekt und informiert die Direktion, die nach Bedarf die nötigen vorsorglichen Massnahmen trifft.
+
+## 5 Archäologische Ausgrabungen (Art. 37–43 KGSG)
+
+#### Art. 35
+
+**Begriff**
+
+<sup>1</sup> Als archäologische Ausgrabungen (die Ausgrabungen) gelten die Notgrabungen, die geplanten Forschungsgrabungen, die dringenden und geplanten Bauuntersuchungen sowie die archäologischen Aufnahmen und ähnliche Arbeiten.
+
+<sup>2</sup> Die Ausgrabungen werden im Erdboden ausgeführt. Wenn nötig können sie auch in einem Gebäude vorgenommen werden; in diesem Fall arbeiten das Amt für Archäologie und das Amt für Kulturgüter zusammen.
+
+#### Art. 36
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Direktion entscheidet über die Durchführung von Ausgrabungen.
+
+<sup>2</sup> Diese Zuständigkeit kann im Falle von Notsondierungen und -untersuchungen sowie für die Aufnahmen an das Amt für Archäologie übertragen werden.
+
+<sup>3</sup> Das Amt für Archäologie entscheidet über die Ausführung der nötigen Vorarbeiten.
+
+<sup>4</sup> Die Ausgrabungen werden vom Amt für Archäologie ausgeführt. Vorbehalten bleiben die Artikel 45 und 46 dieses Reglementes.
+
+#### Art. 37
+
+**Anhörung und Information**
+
+<sup>1</sup> Ausser in Notfällen werden die Eigentümer und die anderen Betroffenen bezüglich des Zeitpunktes der Ausgrabungen angehört.
+
+<sup>2</sup> Die Gemeinde, der Eigentümer und die von den Ausgrabungen betroffenen Nachbarn werden über den Beginn der Ausgrabungen informiert.
+
+#### Art. 38
+
+**Form des Entscheids**
+
+<sup>1</sup> Der Entscheid über die Ausgrabungen hat die Form:
+
+- a) einer Bestimmung in der Baubewilligung, wonach die Ausgrabungen ausdrücklich vorbehalten werden;
+- b) einer selbständigen Verfügung;
+- c) einer provisorischen Massnahme oder
+- d) zusätzlicher Wirkungen der Unterschutzstellung.
+
+#### Art. 39
+
+**Höhe der Entschädigung**
+
+<sup>1</sup> Entschädigungen von bis zu 10'000 Franken werden in Absprache zwischen dem Eigentümer und der Direktion festgelegt. Über diesen Betrag hinaus wird sie in Absprache zwischen dem Eigentümer und dem Staatsrat festgelegt.
+
+<sup>2</sup> Wird keine Einigung erzielt, so sind die Bestimmungen über die Enteignung anwendbar.
+
+<sup>3</sup> Der Eigentümer, der Anspruch auf eine Entschädigung erhebt, muss eine detaillierte Berechnung der Höhe des Schadens und alle verlangten Belege vorlegen.
+
+#### Art. 40
+
+**Abschluss von Verträgen**
+
+<sup>1</sup> Die Direktion ist befugt, mit den betreffenden Eigentümern Vertrage über die Ausgrabungen abzuschliessen, wenn:
+
+- a) die Ausgrabungen voraussichtlich länger dauern als zwei Wochen;
+- b) im Rahmen des Baubewilligungsverfahrens allfällige Ausgrabungen nicht vorbehalten wurden;
+- c) die Ausgrabungen in Anwendung des Artikels 38 Abs. 2 KGSG geplant und beschlossen wurden.
+
+<sup>2</sup> Der Vertrag hält die gegenseitigen Verpflichtungen des Staates und des betreffenden Eigentümers fest. Insbesondere werden darin der Ablauf und die voraussichtliche Dauer der Ausgrabungen und gegebenenfalls die Höhe der Entschädigung oder die Art ihrer Berechnung festgehalten.
+
+<sup>3</sup> Die Verträge, welche Entschädigungen über 10'000 Franken vorsehen, müssen vom Staatsrat genehmigt werden.
+
+#### Art. 41
+
+**Prospektion**
+
+<sup>1</sup> Für die archäologische Prospektion durch Dritte, namentlich mit Objektdetektoren, insbesondere Metalldetektoren, auf dem gesamten Kantonsgebiet muss beim Amt für Archäologie eine Bewilligung eingeholt werden.
+
+<sup>2</sup> Die Bewilligung kann mit Bedingungen und Auflagen verbunden werden, die für den Schutz der Stätte erforderlich sind.
+
+#### Art. 42
+
+**Eigentum der Funde – Bewegliche Kulturgüter**
+
+<sup>1</sup> Die naturgemäss beweglichen archäologischen Kulturgüter, die bei den Ausgrabungen gefunden werden, sind Eigentum des Staates und geschützt.
+
+#### Art. 43
+
+**Eigentum der Funde – Unbewegliche Kulturgüter**
+
+<sup>1</sup> Die naturgemäss unbeweglichen archäologischen Kulturgüter gehören dem Eigentümer des Grundstücks, auf dem sie gefunden wurden, ausser wenn sie zu ihrem Schutz an einen anderen Ort gebracht werden müssen. In diesem Fall ist Artikel 42 anwendbar.
+
+<sup>2</sup> Die Direktion entscheidet aufgrund der Stellungnahme des Amts für Archäologie über die Verlegung eines Kulturgutes.
+
+<sup>3</sup> Sie trifft die nötigen Schutzmassnahmen für Kulturgüter, die zu ihrer Erhaltung am Ort belassen werden.
+
+#### Art. 44
+
+**Bewilligung an Dritte – Gesuch**
+
+<sup>1</sup> Das Bewilligungsgesuch für die Ausführung von Ausgrabungsarbeiten ist hinreichend begründet an das Amt für Archäologie zu richten. Das detaillierte Programm der geplanten Ausgrabungsarbeiten sowie der Voranschlag und der Finanzierungsplan sind zusammen mit dem Gesuch einzureichen.
+
+<sup>2</sup> Das Amt für Archäologie begutachtet das Gesuch zuhanden der Direktion.
+
+#### Art. 45
+
+**Bewilligung an Dritte – Zuständigkeit**
+
+<sup>1</sup> Die Direktion kann Dritten bewilligen, Ausgrabungen vorzunehmen, wenn:
+
+- a) der Gesuchsteller über die nötigen beruflichen Fähigkeiten und Kenntnisse verfügt;
+- b) er ein gerechtfertigtes Interesse nachweisen kann;
+- c) sein Ausgrabungsprogramm vom Amt für Archäologie gutgeheissen wird;
+- d) er unter Vorbehalt des Artikels 46 dieses Reglements in der Lage ist, die Ausgrabungen zu finanzieren.
+
+<sup>2</sup> Die Direktion legt die Auflagen fest, die mit der Bewilligung verbunden sind.
+
+#### Art. 46
+
+**Bewilligung an Dritte – Subvention**
+
+<sup>1</sup> Dritten, die über eine Bewilligung verfügen, kann eine Subvention gewährt werden, wenn die Ausgrabungen von bedeutendem Interesse für die Öffentlichkeit sind.
+
+<sup>2</sup> Die Subvention kann 20 % der Arbeitskosten nicht übersteigen.
+
+<sup>3</sup> Die Direktion legt die Höhe der Subvention bis zum Betrag von 10'000 Franken fest. Über höhere Subventionen entscheidet der Staatsrat.
+
+## 6 Verzeichnis und Inventar
+
+### 6.1 Verzeichnis (Art. 44–47 KGSG)
+
+#### Art. 47
+
+**Grundsatz – Inhalt**
+
+<sup>1</sup> Die Kulturgüterkommission beauftragt die zuständigen Dienststellen, das Verzeichnis vorzubereiten, indem eine Dokumentation über die Kulturgüter gemäss Artikel 3 KGSG erstellt wird.
+
+<sup>2</sup> Das Verzeichnis enthält Angaben zum Wert des Objektes als Kulturgut, zu seinem Zustand und bei unbeweglichen Kulturgütern zu deren Standort innerhalb der Stätte.
+
+#### Art. 48
+
+**Grundsatz – Wert des Kulturgutes**
+
+<sup>1</sup> Der Wert des Objekts als Kulturgut wird wie folgt eingestuft:
+
+A = Hohe Qualität: besonders repräsentatives, seltenes und/oder hervorragend gestaltetes Objekt, dessen ursprüngliche Substanz erhalten ist.
+
+B = Gute Qualität: repräsentatives und/oder sorgfältig gestaltetes Objekt, dessen ursprüngliche Substanz oder Hauptelemente erhalten sind.
+
+C = Durchschnittliche Qualität: repräsentatives Objekt aufgrund gewisser wesentlicher Elemente, deren ursprüngliche Substanz erhalten ist.
+
+<sup>2</sup> In Anlehnung an die Qualifizierungskriterien des Bundes erhalten die ins Verzeichnis aufgenommenen unbeweglichen Objekte ausserdem den Vermerk:
+
+- a) von nationaler Bedeutung,
+- b) von regionaler Bedeutung oder
+- c) von lokaler Bedeutung.
+
+#### Art. 49
+
+**Grundsatz – Erhaltungszustand**
+
+<sup>1</sup> Der Erhaltungszustand des Kulturgutes wird nach folgender Skala beurteilt:
+
+1 = guter Erhaltungszustand oder kunstgerecht restauriert;
+
+2 = teilweise erhalten oder leicht zu restaurieren;
+
+3 = vom Verfall bedroht oder durch Restauration oder Renovation abgewertet;
+
+4 = verfallen oder stark verfallen.
+
+#### Art. 50
+
+**Bewegliche Kulturgüter**
+
+<sup>1</sup> Sonderverzeichnisse werden namentlich erstellt für:
+
+- a) die Kulturgüter des Staates;
+- b) die Kulturgüter juristischer Personen des öffentlichen Rechts und des Kirchenrechts;
+- c) die Kulturgüter Privater;
+- d) die archäologischen Kulturgüter.
+
+#### Art. 51
+
+**Unbewegliche Kulturgüter**
+
+<sup>1</sup> Sonderverzeichnisse werden namentlich erstellt für:
+
+- a) die kirchlichen Bauten;
+- b) die Bürgerhäuser, Schlösser und Landsitze;
+- c) die Bauernhäuser;
+- d) die Alphütten;
+- e) die zeitgenössischen Qualitätsbauten und -baueinheiten;
+- f) die Marktorte und historischen Städte;
+- g) die Ruinen und archäologischen Stätten.
+
+#### Art. 52
+
+**Einsichtnahme**
+
+<sup>1</sup> Der Kurzbeschrieb der ins Verzeichnis aufgenommenen Kulturgüter sowie die dazugehörige Dokumentation können von den Eigentümern und allen Personen eingesehen werden, die ein berechtigtes Interesse geltend machen können.
+
+<sup>2</sup> Die Gemeinden sind über den Kurzbeschrieb des aufgenommenen Kulturgutes, das sich auf ihrem Gebiet befindet, zu informieren.
+
+#### Art. 53
+
+**Kostenbeteiligung**
+
+<sup>1</sup> Die Direktion erlässt Richtlinien über die Beteiligung der juristischen Personen des öffentlichen Rechts, einschliesslich der juristischen Personen des Kirchenrechts, an den Kosten der Aufnahme ins Verzeichnis von Gegenständen, deren Eigentümer sie sind.
+
+### 6.2 Inventar (Art. 48 KGSG)
+
+#### Art. 54
+
+<sup>1</sup> Für die geschützten beweglichen und unbeweglichen Kulturgüter werden getrennte Inventare geführt.
+
+<sup>2</sup> Die Direktion kann für eigenständige Kategorien geschützter Kulturgüter die Erstellung von Sonderinventaren beschliessen.
+
+<sup>3</sup> Das Inventar kann veröffentlicht werden.
+
+## 7 Organisation
+
+### 7.1 Die Dienststellen der Direktion (Art. 55 Abs. 1 KGSG)
+
+#### Art. 55
+
+**Grundsatz**
+
+<sup>1</sup> Die Direktion übt ihre Befugnisse auf dem Gebiet des Kulturgüterschutzes über das Amt für Kulturgüter und das Amt für Archäologie aus.
+
+#### Art. 56
+
+**Amt für Kulturgüter**
+
+<sup>1</sup> Der Konservator der Kulturgüter besorgt die administrative und die wissenschaftliche Leitung des Amts für Kulturgüter.
+
+<sup>2</sup> Er wird von der Direktion angestellt und untersteht ihr.
+
+<sup>3</sup> Das Amt für Kulturgüter hat die folgenden Befugnisse:
+
+- a) Es arbeitet mit den Gemeinden bei der Ausübung ihrer Aufgaben im Kulturgüterschutz zusammen, insbesondere bei der Erarbeitung der Ortsplanung und deren Revision, bei der Bestimmung der Schutzzonen und der geschützten Bauten.
+- b) Es sorgt dafür, dass die Öffentlichkeit über den Kulturgüterschutz informiert wird.
+- c) Es berät die Dienststellen des Staates über den Schutz der staatlichen Kulturgüter.
+- d) Es macht, im Rahmen der verfügbaren Mittel, das Wissen seiner Fachleute über Verfahren und Techniken der Erhaltung und der Restauration von Kulturgütern bekannt.
+- e) Es wacht im Einvernehmen mit der zuständigen Behörde über die Einhaltung der Pflichten, die den Eigentümern geschützter Kulturgüter obliegen.
+- f) Es erstellt zuhanden der Kommission das Verzeichnis der Kulturgüter und das Inventar der geschützten Kulturgüter, mit Ausnahme derjenigen, für die das Amt für Archäologie oder die kulturellen Institutionen des Staates zuständig sind.
+- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen vor im Sinne der Artikel 35 KGSG und 76 des Raumplanungs– und Baugesetzes vom 2. Dezember 2008 (RPBG).
+- h) Es fördert die Schaffung lokaler Kommissionen für den Kulturgüterschutz.
+- i) Es besorgt das Sekretariat der Kommission, des Büros und der Unterkommission.
+- j) Es führt alle weiteren Aufgaben aus, die ihm von der Direktion übertragen werden, und übt die übrigen Befugnisse aus, die ihm aus der Gesetzgebung über den Kulturgüterschutz erwachsen.
+
+#### Art. 57
+
+**Amt für Archäologie**
+
+<sup>1</sup> Der Kantonsarchäologe besorgt die administrative und die wissenschaftliche Leitung des Amts für Archäologie.
+
+<sup>2</sup> Er wird von der Direktion angestellt und untersteht ihr.
+
+<sup>3</sup> Das Amt für Archäologie hat folgende Befugnisse:
+
+- a) Es unternimmt Ausgrabungen, die er mit eigenen Mitteln oder mit der Unterstützung spezialisierter Unternehmen durchführt, und erstellt jedesmal einen ausführlichen Bericht.
+- b) Es identifiziert die zutage gebrachten Kulturgüter und trifft die nötigen Massnahmen für deren Erhaltung.
+- c) Es führt wissenschaftliche Forschungsarbeiten über das archäologische Erbe des Kantons durch und erarbeitet Dokumentationen und Publikationen.
+- d) Es arbeitet mit den Eigentümern und den Gemeinden zusammen bei der Ausführung ihrer Aufgaben für den Schutz der archäologischen Kulturgüter.
+- e) Es macht, im Rahmen der verfügbaren Mittel, das Wissen seiner Fachleute über Arten und Techniken der Erhaltung und der Restauration der archäologischen Kulturgüter bekannt.
+- f) Es erstellt zuhanden der Kommission das Verzeichnis der beweglichen und der unbeweglichen archäologischen Kulturgüter und das Inventar der geschützten archäologischen Kulturgüter, namentlich das Inventar der archäologischen Stätten.
+- g) Es schlägt der Direktion vorsorgliche Schutzmassnahmen im Sinne der Artikel 35 KGSG und 76 RPBG vor.
+- h) Akten betreffend den archäologischen Kulturgüterschutz, die der Kommission und der Unterkommission vorgelegt werden, werden von ihm geprüft und vorbereitet.
+- i) Es nimmt Stellung zu den Bewilligungsgesuchen für die Durchführung von Ausgrabungen.
+- j) Es führt alle übrigen Aufgaben aus, die ihm von der Direktion übertragen werden, und übt die übrigen Befugnisse aus, die ihm aus der Gesetzgebung über den Kulturgüterschutz erwachsen.
+
+### 7.2 Die Kulturgüterkommission
+
+#### Art. 58
+
+**Zusammensetzung**
+
+<sup>1</sup> Der Kommission gehören an:
+
+- a) ein Vertreter der Eigentümer der geschützten Kulturgüter;
+- b) drei Vertreter der Gemeinden;
+- c) ein Vertreter der Pfarreien und Kirchgemeinden;
+- d) drei Vertreter aus einer freiburgischen Vereinigung oder Organisation für den Kulturgüterschutz, darunter ein Architekt;
+- e) ein Vertreter des Berufsfeldes Raumplanung und Architektur;
+- f) ein Kunsthistoriker oder ein Kunstrestaurator.
+
+<sup>2</sup> Der Kommission gehören ferner die folgenden zwei Vertreter des Staates an:
+
+- a) der Kantonsarchitekt;
+- b) der Kantonsarchäologe.
+
+<sup>2<sup>bis</sup></sup> Der Konservator der Kulturgüter nimmt mit beratender Stimme an den Sitzungen teil.
+
+<sup>3</sup> Die Zusammensetzung der Kommission berücksichtigt die Vielfalt der kulturellen und regionalen Identitäten.
+
+<sup>4</sup> Ein Vertreter der Direktion und ein Vertreter des Bau- und Raumplanungsamts nehmen mit beratender Stimme an den Sitzungen teil. Nach Bedarf kann der Mitarbeiter, der das Geschäft bearbeitet hat, aufgeboten werden, es vorzustellen und in der Sitzung Fragen zu beantworten.
+
+#### Art. 59
+
+**Befugnisse**
+
+<sup>1</sup> Zusätzlich zu den durch die Bau– und Raumplanungsgesetzgebung übertragenen Kompetenzen beschliesst die Kommission das Verzeichnis der Kulturgüter und führt es regelmässig nach.
+
+<sup>2</sup> Die Kommission wird von der Direktion in allen wichtigen Fragen zu den Tätigkeiten des Amts für Kulturgüter und des Amts für Archäologie beigezogen. Sie nimmt Stellung zu:
+
+- a) den Entscheiden über die Gewährung finanzieller Unterstützungen;
+- b) den Bewilligungen über die Veräusserung beweglicher Kulturgüter, die juristischen Personen des öffentlichen Rechts, einschliesslich der juristischen Personen des Kirchenrechts, gehören.
+
+#### Art. 60
+
+**Arbeitsweise**
+
+<sup>1</sup> Die Kommission tagt mindestens zweimal jährlich und sooft ihr Präsident es für nötig hält. Sie muss einberufen werden, wenn fünf ihrer Mitglieder oder der Direktionsvorsteher es verlangen.
+
+<sup>2</sup> Sie ist nur beschlussfähig, wenn die Mehrheit der Mitglieder anwesend ist. Die Beschlüsse werden in einem Protokoll festgehalten.
+
+<sup>3</sup> Sie entscheidet mit der Mehrheit der anwesenden Mitglieder. Bei Stimmengleichheit gibt der Präsident den Stichentscheid.
+
+<sup>4</sup> Die Kommission kann mit der Zustimmung der Direktion einen oder mehrere Experten beiziehen. Die Direktion entscheidet im Einvernehmen mit der Finanzdirektion über die Entschädigung der Experten und legt die Höhe fest.
+
+#### Art. 61
+
+**Büro**
+
+<sup>1</sup> Das Büro der Kommission besteht aus dem Präsidenten und vier Mitgliedern der Kommission; unter ihnen sind mindestens:
+
+- a) ein Vertreter der Gemeinden;
+- b) ein Vertreter einer freiburgischen Vereinigung oder einer Organisation für den Kulturgüterschutz.
+
+<sup>1<sup>bis</sup></sup> Der Konservator der Kulturgüter nimmt an den Sitzungen mit beratender Stimme teil.
+
+<sup>2</sup> Nach Bedarf nehmen ein Vertreter der Direktion und der Kantonsarchäologe mit beratender Stimme an den Sitzungen teil.
+
+<sup>3</sup> Das Büro bereitet die Arbeiten der Kommission vor und behandelt in ihrem Auftrag die zweitrangigen oder die dringlichen Geschäfte.
+
+<sup>4</sup> Wenn sich die Einschätzung des historischen, ästhetischen oder archäologischen Interesses als heikel erweist oder der Gegenstand eine Grundsatzfrage berührt, leitet das Büro die Akte zum Entscheid an die Kommission weiter.
+
+### 7.3 Die Unterkommission für bewegliche Kulturgüter (Art. 57 Abs. 3 KGSG)
+
+#### Art. 62
+
+**Einsetzung**
+
+<sup>1</sup> Es wird eine Unterkommission für bewegliche Kulturgüter (die Unterkommission) eingesetzt.
+
+#### Art. 63
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Unterkommission setzt sich aus einem Präsidenten und vier weiteren Mitgliedern zusammen, die vom Staatsrat ernannt werden.
+
+<sup>2</sup> Sie setzt sich aus vier Mitgliedern der Kommission zusammen; unter ihnen sind mindestens:
+
+- a) ein Vertreter einer freiburgischen Vereinigung oder einer Organisation für den Kulturgüterschutz;
+- b) ein Vertreter der Pfarreien und Kirchgemeinden;
+- c) ein Kunsthistoriker oder ein Kunstrestaurator.
+
+<sup>2<sup>bis</sup></sup> Der Konservator der Kulturgüter nimmt mit beratender Stimme an den Sitzungen teil.
+
+<sup>3</sup> Nach Bedarf nehmen der Kantonsarchäologe, der Verantwortliche für die kirchliche Kunst oder der Verantwortliche für die Kunstdenkmäler mit beratender Stimme an den Sitzungen teil.
+
+#### Art. 64
+
+**Befugnisse**
+
+<sup>1</sup> Die Unterkommission begutachtet zuhanden der Direktion:
+
+- a) die Unterschutzstellung beweglicher Kulturgüter;
+- b) die Veräusserungen beweglicher Kulturgüter durch juristische Personen des öffentlichen Rechts;
+- c) das Vorkaufsrecht bei geschützten beweglichen Kulturgütern;
+- d) die Kontrolle der Restauration von geschützten beweglichen Kulturgütern und des Handels mit diesen Kulturgütern.
+
+<sup>2</sup> Sie begutachtet zuhanden der Kommission das Verzeichnis der beweglichen Kulturgüter.
+
+#### Art. 65
+
+**Arbeitsweise**
+
+<sup>1</sup> Die Unterkommission tagt, sooft ihr Präsident dies für nötig hält. Sie muss einberufen werden, wenn zwei Mitglieder es verlangen.
+
+<sup>2</sup> Im übrigen ist der Artikel 60 Abs. 2 bis 4 sinngemäss anwendbar.
+
+<sup>3</sup> Die Mitarbeiter des Staates werden für ihre Tätigkeit in der Unterkommission nicht entschädigt.
+
+## 8 Schlussbestimmungen
+
+#### Art. 66
+
+**Änderungen des ARRPBG**
+
+<sup>1</sup> Das Ausführungsreglement vom 18. Dezember 1984 zum Raumplanungs- und Baugesetz vom 9. Mai 1983 (SGF 710.11) wird wie folgt geändert:
+
+...
+
+#### Art. 67
+
+**Änderung des Beschlusses über die Einsetzung einer Kommission für das Inventar der Kunstdenkmäler**
+
+<sup>1</sup> Der Beschluss vom 20. Dezember 1983 über die Einsetzung einer Kommission für das Inventar der Kunstdenkmäler (SGF 482.42) wird wie folgt geändert:
+
+...
+
+#### Art. 68
+
+**Änderung des Beschlusses über die Erhaltung des Baukulturgutes der Alpen**
+
+<sup>1</sup> Der Beschluss vom 10. April 1990 über die Erhaltung des Baukulturgutes der Alpen (SGF 482.43) wird wie folgt geändert:
+
+...
+
+#### Art. 69
+
+**Änderung des Beschlusses über die Kommission für das Inventar der Alphütten**
+
+<sup>1</sup> Der Beschluss vom 22. Dezember 1987 über die Kommission für das Inventar der Alphütten (SGF 482.44) wird wie folgt geändert:
+
+...
+
+#### Art. 70
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Es werden aufgehoben:
+
+- a) das Reglement vom 26. November 1971 betreffend die Erhaltung der historischen Kunstdenkmäler und der öffentlichen Bauten, den Schutz der archäologischen Zonen und die Beitragsleistung an die Restaurierung alter Gebäude (SGF 482.11);
+- b) der Beschluss vom 27. März 1973 über den Schutz der Burgen, Schlösser und Landsitze (SGF 482.17);
+- c) der Beschluss vom 18. Januar 1993 über die Sparmassnahmen betreffend die Beiträge im Rahmen der Denkmalpflege (SGF 482.12).
+
+#### Art. 71
+
+**… (gegenstandslos gewordenes Übergangsrecht)**
+
+#### Art. 72
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement tritt am 1. September 1993 in Kraft.
+
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
+
+BL/AGS 1993 f 373 / d 377

@@ -1,0 +1,51 @@
+---
+canton: FR
+number: "842.1.23"
+title: "Ordonnance fixant le tarif cadre conformément à l'article 48 LAMal pour la communauté d'achat HSK SA"
+language: fr
+version: 2016-01-01
+version_adopted: 2025-05-13
+adopted: 2025-05-13
+in_force: 2016-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.23"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8191/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance fixant le tarif cadre conformément à l'article 48 LAMal pour la communauté d'achat HSK SA
+
+du 13.05.2025 (version entrée en vigueur le 01.01.2016)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal), notamment l'article 48;
+
+Vu la loi fédérale du 20 décembre 1985 concernant la surveillance des prix (LSPr);
+
+Considérant:
+
+Conformément à l'art. 48 LAMal, l'autorité d'approbation fixe un tarif-cadre, dont les taxes minimales sont inférieures et les taxes maximales supérieures à celles du tarif conventionnel approuvé, lors de l'approbation de conventions tarifaires avec des associations de médecins et après consultation des parties à la convention. Le tarif-cadre entre en vigueur à l'expiration de la convention tarifaire. Toutefois, dans son ordonnance du 16 février 2016 approuvant la convention tarifaire cantonale TARMED passée entre la Société de médecine du canton de Fribourg (aujourd'hui MFÄF) et la communauté d'achat HSK SA, le Conseil d'Etat n'avait pas fixé de tarif cadre, jugeant cette pratique comme obsolète, à l'instar de nombreux autres cantons.
+
+Cependant, dans un arrêt du 12 juin 2024 (C-2510/2021, C-2513/2021) concernant le canton de Vaud, le Tribunal administratif fédéral a rappelé l'obligation des cantons de fixer le tarif-cadre lors d'approbations tarifaires avec des associations de médecins. Ainsi, afin de se mettre en conformité avec la jurisprudence, le Conseil d'Etat fixe le tarif-cadre applicable aux assureurs-maladie représentés par HSK SA.
+
+Conformément à l'article 48 al. 1 LAMal, les parties à la convention ont été consultées et leurs réponses sont prises en compte dans la présente ordonnance.
+
+Conformément à la LSPr, la Surveillance des prix a été invitée à se prononcer sur le nouveau tarif. L'instance compétente mentionne l'avis de la Surveillance des prix dans sa décision finale et, si elle s'en écarte, elle s'en explique.
+
+La Surveillance des prix a renoncé à formuler une recommandation.
+
+A l'instar du tarif-cadre fixé par l'ordonnance du 19 janvier 2010 approuvant le contrat concernant la valeur du point tarifaire TARMED pour 2009 et 2010, passé entre santésuisse et la Société de médecine du canton de Fribourg, toujours en vigueur, la limite minimale du tarif-cadre est fixée à 0.02 fr. en dessous de la valeur du point négociée et la limite maximale à 0.02 fr. en dessus.
+
+Sur la proposition de la Direction de la santé et des affaires sociales,
+
+Arrête:
+
+#### Art. 1
+
+<sup>1</sup> Le tarif-cadre est fixé comme il suit:
+
+- a) limite minimale: Fr. 0.02 en dessous de la valeur du point tarifaire négociée;
+- b) limite maximale: Fr. 0.02 en dessus de la valeur du point tarifaire négociée.
+
+2025\_026

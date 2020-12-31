@@ -1,0 +1,446 @@
+---
+canton: FR
+number: "958.7"
+title: Westschweizer Vereinbarung über Geldspiele
+short: CORJA
+language: de
+version: 2021-01-01
+version_adopted: 2019-11-29
+adopted: 2019-11-29
+in_force: 2021-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/958.7"
+pdf: "https://bdlf.fr.ch/api/de/versions/6766/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Westschweizer Vereinbarung über Geldspiele (CORJA)
+
+vom 29.11.2019
+
+## Die Kantone Waadt, Wallis, Genf, Freiburg, Neuenburg und Jura (die Westschweizer Kantone),
+
+gestützt auf das Bundesgesetz vom 29. September 2017 über Geldspiele (BGS) und seine Vollzugsverordnungen vom 7. November 2018, gestützt auf den Vertrag über die Mitwirkung der Kantonsparlamente bei der Ausarbeitung, der Ratifizierung, dem Vollzug und der Änderung von interkantonalen Verträgen und von Verträgen der Kantone mit dem Ausland (Vertrag über die Mitwirkung der Parlamente, ParlVer) vom 5. März 2010, gestützt auf das Gesamtschweizerische Geldspielkonkordat (GSK),
+
+## vereinbaren:
+
+- 1\. KAPITEL
+
+### Gegenstand der Vereinbarung
+
+#### Art. 1
+
+Gegenstand dieser Vereinbarung ist:
+
+- a) die Vereinbarung gemeinsamer Positionen der Unterzeichnerkantone betreffend Grossspiele, die von ihnen in die mit dem Gesamtschweizerischen Geldspielkonkordat geschaffenen Organe eingebracht werden;
+
+- b) die Vereinbarung einer Koordination und Zusammenarbeit der Unterzeichnerkantone bei Kleinspielen und ihre Umsetzung innerhalb der Kantone;
+
+- c) die Bestimmung der ausschliesslichen Veranstalterin der als Grossspiele durchgeführten Lotterien und Sportwetten auf dem Gebiet der sechs Westschweizer Kantone;
+
+- d) die Einsetzung und Organisation der Westschweizer Fachdirektorenkonferenz Geldspiele (CRJA);
+
+- e) die Regulierung der Organe, die mit der Verteilung der von der Loterie Romande erwirtschafteten Reingewinne betraut sind, ihrer Organisation sowie des Verfahrens und der Kriterien für die Gewährung von Beiträgen entsprechend dem den Kantonen durch Art. 127 f. BGS übertragenen Auftrag;
+
+- f) der Erlass von Regeln für die Aufteilung der Gewinne der Loterie Romande auf die Kantone;
+
+- g) die Einsetzung einer interparlamentarischen Kommission, welche die von dieser Vereinbarung geschaffenen interkantonalen Organe beaufsichtigt.
+
+- 2\. KAPITEL
+
+### Grossspiele
+
+#### Art. 2
+
+<sup>1</sup> Im Bereich der Grossspiele vereinbaren die Unterzeichnerkantone gemeinsame Positionen, die in der Fachdirektorenkonferenz Geldspiele (FDKG) zu vertreten sind. Dies betrifft insbesondere:
+
+- a) die Entwicklung des Spielangebots im Hinblick auf seine Wirtschaftlichkeit und Wettbewerbsfähigkeit;
+
+- b) den Minderjährigen- und Bevölkerungsschutz, insbesondere durch Massnahmen gegen exzessives Geldspiel;
+
+- c) die Bekämpfung des illegalen Geldspiels und der Kriminalität.
+
+<sup>2</sup> Für die Festlegung der Grundzüge dieser gemeinsamen Positionen ist die CRJA zuständig.
+
+- 3\. KAPITEL
+
+### Kleinspiele
+
+#### Art. 3
+
+<sup>1</sup> Die Unterzeichnerkantone koordinieren und harmonisieren ihre Politik im Bereich der Kleinspiele. Dies betrifft insbesondere:
+
+- a) die Entwicklung des Spielangebots im Hinblick auf seine Wirtschaftlichkeit und Wettbewerbsfähigkeit;
+
+- b) die Überwachung der Spiele und ihrer Veranstalter;
+
+- c) den Minderjährigen- und Bevölkerungsschutz, insbesondere durch Massnahmen gegen exzessives Geldspiel;
+
+- d) die Bekämpfung des illegalen Geldspiels und der Kriminalität.
+
+<sup>2</sup> Zur Harmonisierung der Durchführung von Kleinspielen auf ihrem Gebiet arbeiten sie insbesondere in folgenden Bereichen zusammen:
+
+- a) Voraussetzungen für die Veranstalterbewilligung;
+
+- b) Voraussetzungen für die Bewilligung der einzelnen Spiele;
+
+- c) Reporting und Beaufsichtigung der Veranstalter.
+
+<sup>3</sup> Sie stimmen sich ab und koordinieren ihre Arbeit, wenn sie den Erlass restriktiverer Bestimmungen, als durch das BGS und seine Vollzugsverordnungen vorgesehen ist, oder das Verbot gewisser Arten von Spielen gemäss Art. 41 Abs. 1 BGS in Betracht ziehen.
+
+<sup>4</sup> Für die Koordination und die Zusammenarbeit nach den vorhergehenden Absätzen ist die CRJA zuständig.
+
+### Art. 3A
+
+<sup>1</sup> Die CRJA kann eine interkantonale beratende Kommission für Pokerspiele einsetzen. Diese besteht aus 9 bis 13 Mitgliedern und setzt sich aus Vertretern der Veranstalterinnen, der Spielenden, der Suchtprävention sowie der Strafverfolgungsbehörden zusammen. Die Vertreter der Suchtprävention werden auf Vorschlag der in Gesundheitsfragen zuständigen Fachkonferenz bestimmt. Die CRJA achtet auf eine ausgewogene Vertretung der einzelnen Kantone.
+
+<sup>2</sup> Diese Kommission hat die Aufgabe, die mit der Bewilligung und Beaufsichtigung von Spielen betrauten Behörden zu unterstützen, um den Rechtsrahmen entsprechend der im Bereich der Pokerspiele zu beobachtenden Trends weiter zu entwickeln, Statistiken zu erstellen, Schulungen hinsichtlich «Guter Praxis» für die Veranstalterinnen durchzuführen und die Strafverfolgungsbehörden bei der Bekämpfung von illegalem Geldspiel zu beraten.
+
+<sup>3</sup> Die Mitwirkung in dieser Kommission wird nicht entschädigt.
+
+- 4\. KAPITEL
+
+### Bestimmung einer ausschliesslichen Veranstalterin von Lotterie- und Sportwetten-Grossspielen
+
+#### Art. 4
+
+Die Unterzeichnerkantone bestimmen in Anwendung von Art. 23 Abs. 1 und 2 BGS sowie Art. 49 Abs. 3 GSK die Société de la Loterie de la Suisse Romande (im Folgenden «Loterie Romande») zur ausschliesslichen Veranstalterin von Lotterie- und Sportwetten-Grossspielen auf ihrem Gebiet. Somit ist in den Westschweizer Kantonen ausschliesslich die Loterie Romande berechtigt, bei der interkantonalen Behörde eine Bewilligung für die Veranstaltung von Lotterie- und Sportwetten-Grossspielen zu beantragen.
+
+#### Art. 5
+
+<sup>1</sup> Die Loterie Romande ist im Handelsregister des Kantons Waadt als Verein gemäss Art. 60 ff. des Schweizerischen Zivilgesetzbuches eingetragen. Die Statuten der Loterie Romande werden nach Stellungnahme der CRJA von den Regierungen der Unterzeichnerkantone einstimmig angenommen und von der Generalversammlung der Loterie Romande verabschiedet.
+
+<sup>2</sup> Die einzelnen Unterzeichnerkantone schlagen die Vereinsmitglieder vor, die sie in der Generalversammlung der Loterie Romande vertreten. Die Loterie Romande bestätigt diese Nominierungen statutengemäss. Die Kantone achten dabei auf eine ausgewogene Vertretung der Begünstigten.
+
+- 5\. KAPITEL
+
+### Westschweizer Fachdirektorenkonferenz Geldspiele (CRJA)
+
+#### Art. 6
+
+<sup>1</sup> Die Westschweizer Fachdirektorenkonferenz Geldspiele (CRJA) ist das oberste Organ der Vereinbarung. Sie setzt sich aus je einem Regierungsvertreter der Unterzeichnerkantone zusammen.
+
+<sup>2</sup> Sie hat insbesondere folgende Aufgaben:
+
+- a) Sie legt die gemeinsamen Positionen der Westschweizer Kantone im Bereich der Grossspiele fest (Art. 2).
+
+- b) Sie koordiniert die Politik der Westschweizer Kantone im Bereich der Kleinspiele (Art. 3).
+
+- c) Sie sorgt für eine politische und strategische Koordination mit der Loterie Romande. Die unter e) genannten Kompetenzen der für Gesundheitsfragen zuständigen Fachkonferenz bleiben vorbehalten.
+
+- d) Sie nimmt zuhanden der Westschweizer Regierungen Stellung zur Genehmigung der Statuten der Société de la Loterie de la Suisse Romande und allfälliger Statutenänderungen.
+
+- e) Sie koordiniert die Positionen der Westschweizer Kantone zur Bekämpfung und Prävention des Geldspiels durch Minderjährige sowie des exzessiven Geldspiels und berücksichtigt dabei insbesondere die Empfehlungen der für gesundheitliche Fragen zuständigen Fachkonferenz. Sie überträgt ihr die Verwendung des gesamten Anteils «Prävention» der jährlichen Abgabe für die Gewährung ausschliesslicher Veranstaltungsrechte (Art. 66 GSK).
+
+- f) Sie schlägt die Vertreter der Westschweizer Kantone im Vorstand der FDKG vor (Art. 7 Abs. 3 GSK).
+
+- g) Sie legt auf Vorschlag der Kantone die Bewerbungen der Vertreter der Westschweizer Kantone für die interkantonalen Organe vor, insbesondere für den Stiftungsrat der Stiftung Sportförderung Schweiz (SFS) (Art. 35 Abs. 2 GSK), das Geldspielgericht (Art. 11 Abs. 2 GSK) sowie die interkantonalen Koordinationsorgane.
+
+- h) Sie verabschiedet gemäss Art. 34 Abs. 3 GSK alle vier Jahre die Position der Westschweizer Kantone zum Beschluss der FDKG über den der Stiftung Sportförderung Schweiz (SFS) zuzuwendenden Teil der Reingewinne der Loterie Romande.
+
+- i) Sie legt alle vier Jahre fest, welcher Anteil der Reingewinne der Loterie Romande dem Schweizer Pferderennsport-Verband zugewandt wird, der diesen ausschliesslich dazu verwendet, die Zucht von Rennpferden und die Durchführung von Pferderennen in der Westschweiz zu fördern.
+
+- j) Sie legt der interparlamentarischen Kommission jährlich einen detaillierten Bericht über ihre Tätigkeit vor.
+
+#### Art. 7
+
+<sup>1</sup> Die CRJA organisiert sich selbst. Sie wählt ihre Präsidentin oder ihren Präsidenten und richtet ein Sekretariat ein. Die Kosten des Sekretariats werden vom Kanton getragen, in dem sich der Sitz der Loterie Romande befindet.
+
+<sup>2</sup> Sie tritt bei Bedarf, grundsätzlich jedoch mindestens zweimal jährlich zusammen.
+
+<sup>3</sup> Sie verfügt über kein Budget. Die Kosten der Tätigkeit ihrer Vertreter werden von den jeweiligen Kantonen getragen.
+
+- 6\. KAPITEL
+
+### Verteilorgane
+
+#### Art. 8
+
+<sup>1</sup> Die einzelnen Kantone richten unter Beachtung der bestehenden interkantonalen Organisationen mindestens zwei Verteilorgane ein, die über die Beitragsgesuche Beschluss fassen:
+
+- a) ein Verteilorgan über Beiträge für den Sportbereich;
+
+- b) ein Verteilorgan über Beiträge für andere gemeinnützige Bereiche und den Behindertensport.
+
+Ein auf 30 % des zu verteilenden Gewinns beschränkter Anteil der Beiträge kann in einem dem BGS und der kantonalen Gesetzgebung entsprechenden Rahmen sowie unter Einhaltung dieser Vereinbarung, insbesondere von Art. 17, direkt vom Staatsrat oder einer staatlichen Stelle gewährt werden.
+
+<sup>2</sup> Die einzelnen Kantone legen die Form fest, die sie ihren Verteilorganen geben wollen, und sorgen für eine Aufsicht nach Bundes- und Kantonsrecht.
+
+<sup>3</sup> Die Verteilorgane erlassen ein Geschäftsreglement.
+
+<sup>4</sup> Die Buchführung der Verteilorgane ist gemäss Art. 126 BGS von den Staatsrechnungen der Kantone getrennt. Sie folgt einem anerkannten Rechnungslegungsstandard und wird von einer externen Revisionsstelle geprüft.
+
+<sup>5</sup> Der auf den kantonalen Sport sowie auf die anderen Bereiche entfallende Gewinnanteil wird in den Statuten der Société de la Loterie de la Suisse Romande festgelegt.
+
+#### Art. 9
+
+Die Mitglieder und das Präsidium der Verteilorgane werden vom Staatsrat der einzelnen Kantone unter Berücksichtigung ihrer Kenntnisse auf den jeweiligen Gebieten bestimmt.
+
+#### Art. 10
+
+<sup>1</sup> Die Mitglieder der Verteilorgane sind hinsichtlich aller Informationen, von denen sie bei der Ausübung ihres Mandats Kenntnis erlangen, an das Amtsgeheimnis gebunden. Soweit in gesetzlichen Bestimmungen nichts anderes geregelt ist, kann der Staatsrat als vorgesetzte Behörde im Sinne von Art. 320 Ziff. 2 des Schweizerischen Strafgesetzbuches das Amtsgeheimnis aufheben. Diese Zuständigkeit kann an ein Mitglied des Staatsrates delegiert werden.
+
+<sup>2</sup> Die gesetzlichen Bestimmungen über das Steuergeheimnis sowie dessen Ausnahmen bleiben vorbehalten.
+
+<sup>3</sup> Die Absätze 1 und 2 beziehen sich auch auf jede an der Arbeit der Organe beteiligte Person, einschliesslich befragter Personen, die darüber vorab zu unterrichten sind.
+
+#### Art. 11
+
+<sup>1</sup> Die Mitglieder der Verteilorgane treten in den Ausstand:
+
+- a) wenn das Beitragsgesuch ein persönliches Interesse berührt;
+
+- b) wenn ihre Unparteilichkeit insbesondere aufgrund familiärer Beziehungen beeinträchtigt sein könnte.
+
+<sup>2</sup> Darüber hinaus ist das Verwaltungsverfahrensgesetz des Kantons des Verteilorgans anwendbar.
+
+#### Art. 12
+
+Die Verteilorgane verwalten die aus den Gewinnen der Loterie Romande geäufneten Fonds. Sie achten darauf, dass diese Fonds stets ausreichend liquide sind, um die für Betriebskosten und Beiträge erforderlichen Auszahlungen zu gewährleisten.
+
+#### Art. 13
+
+<sup>1</sup> Die von den Verteilorganen angewandten Zuwendungsmodalitäten und -kriterien sind öffentlich.
+
+<sup>2</sup> Die einzelnen Verteilorgane veröffentlichen jährlich einen Tätigkeitsbericht, der mindestens die folgenden Angaben enthält:
+
+- a) die Namen der Begünstigten und die Höhe der aus dem Fonds gewährten Beiträge;
+
+- b) die Art der unterstützten Projekte;
+
+- c) die zusammenfassenden Jahresrechnungen des Fonds.
+
+<sup>3</sup> Die Sitzungen der Verteilorgane sowie ihre Beratungen sind nicht öffentlich.
+
+- 7\. KAPITEL
+
+### Interkantonale Organe
+
+#### Art. 14
+
+<sup>1</sup> Die Präsidenten-Konferenz der Verteilorgane (CPOR) und die Präsidenten-Konferenz der Verteilorgane für den Sport (CPORS) bestehen aus der Präsidentin oder dem Präsidenten jedes der sechs kantonalen Verteilorgane oder bei deren Fehlen einer anderen Person, die das betreffende Organ vertritt. Die Konferenzen organisieren sich selbst.
+
+<sup>2</sup> Sie haben folgende Aufgaben:
+
+- a) Sie streben durch die Verabschiedung von Rahmenbedingungen eine harmonisierte Vorgehensweise der kantonalen Verteilorgane an.
+
+- b) Sie befinden über den kantonalen, Westschweizer oder nationalen Charakter der ihnen vorgelegten Gesuche.
+
+- c) Sie prüfen Gesuche aus der Westschweiz oder aus der restlichen Schweiz und reichen den Verteilorganen einen Zuwendungsvorschlag ein.
+
+- d) Sie legen der interparlamentarischen Kommission jährlich einen detaillierten Bericht über ihre Tätigkeit vor.
+
+#### Art. 15
+
+<sup>1</sup> Als Westschweizer Zuwendungen gelten Beiträge an Organisationen, die ihre gemeinnützige Tätigkeit in mindestens vier Westschweizer Kantonen ausüben oder deren interkantonaler Wirkungskreis anerkannt ist.
+
+<sup>2</sup> Als nationale Zuwendungen gelten unter Ausschluss des gemäss Art. 6. lit. i SFS gewährten Gewinnanteils Beiträge an Organisationen, die ihre gemeinnützige Tätigkeit in der Mehrheit der Schweizer Kantone ausüben oder deren nationaler Wirkungskreis anerkannt ist. Die CPOR und die CPORS berücksichtigen bei der Gewährung nationaler Zuwendungen die von den zuständigen Verteilorganen in der Deutschschweiz und im Tessin gefassten Beschlüsse.
+
+<sup>3</sup> Die Gewährung von Beiträgen an Einrichtungen mit Sitz ausserhalb der Schweiz ist nicht möglich.
+
+<sup>4</sup> Westschweizer oder nationale Zuwendungen bedürfen der einstimmigen Zustimmung der sechs in der CPOR und der CPORS vertretenen Verteilorgane.
+
+<sup>5</sup> CPOR und CPORS stützen sich bei der Prüfung der Gesuche und bei ihren Zuwendungsvorschlägen auf die im Folgenden in Art. 16 bis 22 genannten Regeln und Kriterien.
+
+<sup>6</sup> Für die CPOR darf die Gesamtsumme der Westschweizer und nationalen Zuwendungen pro Rechnungsjahr 10 % des den Verteilorganen (Kultur und andere Bereiche) von der Loterie Romande zur Verfügung gestellten Gesamtbetrages nicht übersteigen. Je nach Umfang und Relevanz der Gesuche kann dieser Anteil mit der Zustimmung der sechs Verteilorgane ausnahmsweise auf 12 % angehoben werden.
+
+<sup>7</sup> Für die CPORS darf die Gesamtsumme der Westschweizer und nationalen Zuwendungen pro Rechnungsjahr 5 % des den Verteilorganen (Sport) von der Loterie Romande zur Verfügung gestellten Gesamtbetrages nicht übersteigen. Je nach Umfang und Relevanz der Gesuche kann dieser Anteil mit der Zustimmung der sechs Verteilorgane ausnahmsweise auf 7 % angehoben werden.
+
+- 8\. KAPITEL
+
+### Verfahren und Kriterien für die Gewährung von Beiträgen
+
+#### Art. 16
+
+Der jährlich auf die einzelnen Unterzeichnerkantone und ihre Verteilorgane entfallende Gewinnanteil der Loterie Romande wird nach folgendem Schlüssel bestimmt:
+
+- a) 50 % im Verhältnis zur Bevölkerung des Kantons gemäss den neuesten Statistiken des Bundesamtes für Statistik;
+
+- b) 50 % im Verhältnis zu den auf dem Gebiet des einzelnen Kantons erzielten Bruttospielerträgen (BSE).
+
+#### Art. 17
+
+<sup>1</sup> Gemäss Art. 125 Abs. 1 BGS dürfen die Gewinne der Loterie Romande ausschliesslich für gemeinnützige Zwecke, namentlich in den Bereichen Kultur, Soziales und Sport, verwendet werden. Dazu gehören soziale Aktionen, Betagte, Gesundheit, Behinderung, Jugend, Erziehung, Bildung und Forschung, Kultur, schützenwerte Kulturgüter, Umwelt und Sport. Die Gewinne können ausserdem für Promotion, Tourismus und Entwicklung, sofern die zu unterstützende Tätigkeit einen kulturellen, Bildungs- oder Promotionszweck verfolgen, sowie für humanitäre Hilfe und die Förderung der Menschenrechte vorrangig bei in der Schweiz stattfinden Tätigkeiten eingesetzt werden.
+
+<sup>2</sup> Als gemeinnützig sind nur solche Tätigkeiten anzusehen, die zum Gemeinwohl beitragen, nicht gewinnorientiert sind und keinen überwiegend politischen oder konfessionellen Charakter aufweisen.
+
+<sup>3</sup> Die Gewinne der Loterie Romande dürfen nicht dazu verwendet werden, den Rückzug des Gemeinwesens zu ersetzen oder dessen gesetzliche Pflichten zu erfüllen.
+
+<sup>4</sup> Sie müssen in erster Linie für Projekte zugunsten der Öffentlichkeit der Westschweizer Kantone eingesetzt werden.
+
+#### Art. 18
+
+<sup>1</sup> Die Begünstigten sind grundsätzlich nicht gewinnorientierte Organisationen mit juristischer Persönlichkeit.
+
+<sup>2</sup> Ausnahmsweise können auch natürlichen Personen Beiträge gewährt werden. Dies gilt insbesondere für den Sportbereich einschliesslich Behindertensport. Auch gewinnorientierte Gesellschaften oder Organisationen können ausnahmsweise Beiträge für spezifische nicht gewinnorientierte Projekte erhalten. Der Beschluss kann von Auflagen und Bedingungen abhängig sein.
+
+#### Art. 19
+
+<sup>1</sup> Die Begünstigten dürfen die Beiträge ausschliesslich für den in ihrem Gesuch genannten Zweck verwenden und müssen sich an die im Zuwendungsbeschluss festgelegten Bedingungen halten. Jegliche geänderte Mittelverwendung muss vom Verteilorgan ausdrücklich genehmigt werden.
+
+<sup>2</sup> Die Begünstigten haben unaufgefordert und rechtzeitig Nachweise über die Verwendung der gewährten Beiträge vorzulegen.
+
+<sup>3</sup> Die gewährten Beiträge dürfen grundsätzlich nicht:
+
+- a) zur Sicherung oder Deckung von Finanzierungslücken oder zur Finanzierung der ordentlichen Betriebskosten des Gesuchstellers verwendet werden;
+
+- b) Organisationen gewährt werden, die einen überwiegenden Teil der beantragten Mittel an andere Organisationen oder an Einzelpersonen weitergeben. Davon ausgenommen sind Dachverbände;
+
+- c) das Projekt vollständig allein finanzieren.
+
+#### Art. 20
+
+<sup>1</sup> Die Gesuchsteller richten ihre Gesuche an das Verteilorgan desjenigen Kantons, in dem die Tätigkeit stattfinden oder dem sie in erster Linie zugutekommen wird. Davon ausgenommen sind interkantonale oder nationale Projekte gemäss Art. 15.
+
+<sup>2</sup> Das Gesuch beinhaltet eine genaue Beschreibung des Projekts, ein detailliertes Budget, einen Finanzierungsplan sowie die letzten geprüften Jahresrechnungen und Bilanzen der gesuchstellenden Organisation.
+
+#### Art. 21
+
+<sup>1</sup> Es besteht kein Recht auf Gewährung eines Beitrags.
+
+<sup>2</sup> Die Verteilorgane befinden vollkommen unabhängig über die an sie gerichteten Beitragsgesuche.
+
+<sup>3</sup> Die kantonalen Verteilorgane stützen sich bei ihren Beschlüssen über die Gewährung und die Höhe von Beiträgen auf folgende Kriterien:
+
+- a) die Gemeinnützigkeit des Projekts, insbesondere seinen unverwechselbaren, einzigartigen, innovativen oder nachhaltigen Charakter;
+
+- b) eine qualitative Beurteilung des Projekts und der allgemeinen Fähigkeit des Gesuchstellers, dessen Umsetzung zu gewährleisten;
+
+- c) die finanzielle Lage der gesuchstellenden Organisation und die Beteiligung dieser Organisation oder anderer Beitragsquellen an der Finanzierung des Projekts;
+
+- d) die Wirtschaftlichkeit des Projekts und die Verlässlichkeit der Schätzungen und Kostenvoranschläge.
+
+<sup>4</sup> Die Kantone können auf reglementarischem Weg detailliertere Kriterien erlassen.
+
+<sup>5</sup> Die Verteilorgane achten auf eine möglichst rechtsgleiche Behandlung der Gesuche.
+
+<sup>6</sup> Die kantonalen Verteilorgane berücksichtigen die Qualität der Nachweise, die der Gesuchsteller im Rahmen allfälliger bereits in der Vergangenheit gewährter Beiträge zur Verfügung gestellt hat.
+
+<sup>7</sup> Die Kantone können vorsehen, dass die Beschlüsse der Verteilorgane vom Staatsrat genehmigt werden müssen.
+
+<sup>8</sup> Die Beschlüsse der Verteilorgane über Beiträge sind unanfechtbar.
+
+#### Art. 22
+
+<sup>1</sup> Der Beschluss über die Gewährung eines Beitrags kann widerrufen und die Rückerstattung kann verlangt werden, wenn die Voraussetzungen für die Beitragsgewährung nicht mehr erfüllt sind oder wenn der Begünstigte in irgendeiner Weise die Bedingungen des Beschlusses oder die anwendbaren Vorschriften nicht einhält.
+
+<sup>2</sup> Unterliegt der Beschluss über die Gewährung nach kantonalem Recht einem Genehmigungsvorbehalt durch den Staatsrat, muss auch der Widerruf vom Staatsrat genehmigt werden.
+
+- 9\. KAPITEL
+
+### Unvereinbarkeit
+
+#### Art. 23
+
+<sup>1</sup> Aktive Regierungsmitglieder der Unterzeichnerkantone dürfen:
+
+- a) nicht Vereinsmitglieder der Loterie Romande sein und in ihrer Generalversammlung Einsitz nehmen;
+
+- b) nicht im Verwaltungsrat der Loterie Romande Einsitz nehmen;
+
+- c) nicht in den kantonalen Verteilorgane Einsitz nehmen.
+
+<sup>2</sup> Ein Mitglied eines Verteilorgans darf nicht gleichzeitig Mitglied des Verwaltungsrats der Loterie Romande sein.
+
+- 10\. KAPITEL
+
+### Beilegung von Streitigkeiten
+
+#### Art. 24
+
+<sup>1</sup> Die Unterzeichnerkantone bemühen sich, alle Meinungsverschiedenheiten im Zusammenhang mit der Auslegung, der Anwendung oder der Durchführung dieser Vereinbarung gütlich zu regeln.
+
+<sup>2</sup> Gelingt ihnen dies nicht, wird als Gerichtsstand die «Cour de droit administratif et public» (Verwaltungsgericht) des Waadtländer Kantonsgerichts vereinbart.
+
+- 11\. KAPITEL
+
+### Interparlamentarische Kommission
+
+#### Art. 25
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Unterzeichnerkantone setzen auf Grundlage von Kapitel 4 ParlVer eine interparlamentarische Kommission ein, um eine interparlamentarische Aufsicht der durch diese Vereinbarung geschaffenen interkantonalen Organe zu gewährleisten.
+
+<sup>2</sup> Jeder Unterzeichnerkanton entsendet drei Mitglieder in die interparlamentarische Kommission, die von den Parlamenten der einzelnen Kantone gemäss den geltenden Verfahren für die Besetzung ihrer eigenen Kommissionen bestimmt werden.
+
+<sup>3</sup> Die interparlamentarische Kommission wählt aus ihrer Mitte für ein Jahr eine Präsidentin oder einen Präsidenten sowie eine Vizepräsidentin oder einen Vizepräsidenten. Die Wahl erfolgt im ersten Wahlgang mit der absoluten Mehrheit, im zweiten Wahlgang mit der relativen Mehrheit der Stimmen. Die beiden gewählten Mitglieder müssen den Delegationen verschiedener Kantone angehören.
+
+#### Art. 26
+
+**Arbeitsweise**
+
+<sup>1</sup> Die interparlamentarische Kommission tritt so oft zusammen, wie die koordinierte interparlamentarische Aufsicht dies erfordert, mindestens jedoch einmal jährlich.
+
+<sup>2</sup> Sie fasst ihre Beschlüsse mit Stimmenmehrheit der anwesenden Mitglieder.
+
+<sup>3</sup> Sie wird von der Präsidentin oder vom Präsidenten oder in deren oder dessen Abwesenheit von der Vizepräsidentin oder vom Vizepräsidenten geleitet.
+
+<sup>4</sup> Im Übrigen organisiert sich die Kommission selbst.
+
+#### Art. 27
+
+**Aufgaben**
+
+<sup>1</sup> Der interparlamentarischen Kommission obliegt die koordinierte interparlamentarische Aufsicht über die durch diese Vereinbarung geschaffenen interkantonalen Organe, nämlich:
+
+- a) der Westschweizer Fachdirektorenkonferenz Geldspiele (CRJA);
+
+- b) der Präsidenten-Konferenz der Verteilorgane (CPOR);
+
+- c) der Präsidenten-Konferenz der Verteilorgane für den Sport (CPORS).
+
+<sup>2</sup> Die interparlamentarische Kommission prüft den Jahresbericht und die Sonderrechnung des Geldspielgerichts nach Art. 5 lit. f des Gesamtschweizerischen Geldspielkonkordats, die ihr von der CRJA übermittelt werden. Sie kann der CRJA ihre Feststellungen mitteilen.
+
+<sup>3</sup> Die Aufgaben der interparlamentarischen Kommission beinhalten die strategische und die allgemeine Aufsicht. Den folgenden Herausforderungen ist besondere Beachtung zu schenken:
+
+- a) Minderjährigen- und Bevölkerungsschutz gemäss Art. 3 Abs. 1 lit. c;
+
+- b) Erfüllung der Aufgaben der CRJA gemäss Art. 6 Abs. 2 lit. h bis j.
+
+<sup>4</sup> Die CRJA ist verpflichtet, der interparlamentarischen Kommission auf schriftliche Anforderung hin alle ihr vorliegenden sachdienlichen Unterlagen zu übermitteln und ihr alle erforderlichen Auskünfte im Zusammenhang mit dieser Vereinbarung zu erteilen. Die Anwendung von Bundesrecht bleibt vorbehalten.
+
+<sup>5</sup> Die interparlamentarische Kommission legt den Parlamenten der Unterzeichnerkantone einmal jährlich einen Bericht über die Ergebnisse ihrer Aufsichtstätigkeit vor.
+
+- 12\. KAPITEL
+
+### Schluss- und Übergangsbestimmungen
+
+#### Art. 28
+
+<sup>1</sup> Diese Vereinbarung ist unbefristet.
+
+<sup>2</sup> Die CRJA beurteilt die Anwendung der Vereinbarung innert fünf Jahren seit ihrem Inkrafttreten. Gestützt auf diese Beurteilung schlägt sie aus ihrer Sicht erforderliche Anpassungen vor.
+
+<sup>3</sup> Jeder Kanton kann diese Vereinbarung auf Ende Jahr kündigen, frühestens jedoch auf Ende des zehnten Jahres seit ihrem Inkrafttreten. Die Kündigung muss bei den anderen Kantonen mindestens zwei Jahre im Voraus eingehen. Für die verbleibenden Unterzeichnerkantone bleibt die Vereinbarung in Kraft.
+
+#### Art. 29
+
+Mit dieser Vereinbarung werden die Vereinbarungen über die Loterie Romande (von 1 bis 9 nummeriert) und ihre Nachträge aufgehoben und ersetzt.
+
+#### Art. 30
+
+Diese Vereinbarung tritt am 1. Januar 2021 in Kraft, sofern sie von mindestens zwei Kantonen verabschiedet wird.
+
+#### Art. 31
+
+<sup>1</sup> Die Unterzeichnerkantone passen ihre Gesetzgebung bis spätestens zum 1. Juni 2021 an die Anforderungen dieser Vereinbarung an.
+
+<sup>2</sup> Die von den kantonalen Verteilorganen nach Inkrafttreten dieser Vereinbarung, jedoch vor der Anpassung der kantonalen Gesetzgebung gefassten Beschlüsse unterliegen dem alten Recht.
+
+Beitritt durch Gesetz vom 17.9.2020
+
+Inkrafttreten für den Kanton Freiburg: 1.1.2021
+
+### Änderungstabelle – Nach Beschlussdatum
+
+### Beschluss Berührtes Element Änderungstyp Inkrafttreten Quelle (ASF seit 2002)
+
+29.11.2020 Erlass Grunderlass 01.01.2021 2020\_119
+
+### – Nach Artikel
+
+### Berührtes Element Änderungstyp Beschluss Inkrafttreten Quelle (ASF seit 2002)
+
+Erlass Grunderlass 29.11.2019 01.01.2021 2020\_119

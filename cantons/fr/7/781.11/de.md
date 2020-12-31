@@ -1,0 +1,108 @@
+---
+canton: FR
+number: "781.11"
+title: Ausführungsbeschluss zum Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
+language: de
+version: 2006-03-01
+valid_until: 2022-01-31
+version_adopted: 2006-03-28
+adopted: 1999-07-06
+in_force: 1999-09-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/781.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/5409/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ausführungsbeschluss zum Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr
+
+Strassenverkehr – B
+
+vom 06.07.1999 (Fassung in Kraft getreten am 01.03.2006)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Gesetz vom 12. November 1981 zur Ausführung der Bundesgesetzgebung über den Strassenverkehr (AGSVG);
+
+auf Antrag der Justiz-, Polizei- und Militärdirektion,
+
+beschliesst:
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieser Beschluss bestimmt die Aufgaben und Befugnisse der Organe im Bereich des Strassenverkehrs; er ergänzt das Gesetz zur Ausführung der Bundesgesetzgebung über den Strassenverkehr (AGSVG).
+
+<sup>2</sup> Die Bestimmungen der Spezialerlasse über die Fahrzeugversicherung sowie über die Ausübung des Fahrlehrerberufs und den Betrieb einer Fahrschule bleiben vorbehalten.
+
+#### Art. 2
+
+**Amt für Strassenverkehr und Schifffahrt**
+
+<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 4 AGSVG übt das Amt für Strassenverkehr und Schifffahrt (ASS) folgende Aufgaben und Befugnisse aus:
+
+- a) Es ist die Immatrikulationsbehörde; als solche trifft es alle administrativen Massnahmen, die ihm durch das Bundesrecht übertragen werden.
+- b) Es organisiert die verschiedenen Fahreignungsprüfungen.
+- c) Es überwacht die Garagisten, die zur Begutachtung neuer Fahrzeuge ermächtigt sind, sowie jene, die im Besitz von Händlerschildern sind.
+- d) Es organisiert die Verkehrserziehungskurse.
+- e) Es fördert die Unfallverhütung im Strassenverkehr und trifft diesbezüglich alle nützlichen Vorkehrungen.
+- f) Es ist die zuständige Behörde auf dem Gebiet der Haftpflichtversicherung für Fahrzeuge.
+- g) Es erteilt und entzieht die Sonderbewilligungen für die Benützung und die Ausrüstung von Fahrzeugen, die Ausnahmefahrzeuge und die Ausnahmetransporte.
+- h) Es erteilt und entzieht, nach Anhören der Gendarmerie und gegebenenfalls der Raumplanungs-, Umwelt- und Baudirektion , die Bewilligungen für die Versuchsfahrten, die öffentlichen motor- und radsportlichen Veranstaltungen sowie die übrigen sportlichen Veranstaltungen, die ganz oder teilweise auf öffentlichen Strassen stattfinden. Sind Interessen im Bereich der Jagd und des Schutzes der wild lebenden Säugetiere und Vögel und ihrer Lebensräume betroffen, so ist die Zustimmung der Direktion der Institutionen und der Land- und Forstwirtschaft erforderlich.
+- i) Es bewilligt in Anwendung des Gesetzes über die Reklamen die Montierung von Lautsprechern auf Fahrzeugen bei Lautsprecherwerbung auf einer Fahrt durch mehrere Bezirke.
+
+<sup>1<sup>bis</sup></sup> Es erteilt und entzieht die Bewilligungen im Zusammenhang mit Parkierungserleichterungen für gehbehinderte Personen gemäss den Richtlinien der Interkantonalen Kommission für den Strassenverkehr betreffend Parkierungserleichterungen für Gehbehinderte. Diese Richtlinien können bei der zuständigen Behörde eingesehen werden.
+
+<sup>2</sup> Das ASS kann der Gendarmerie die ausserordentliche obligatorische Kontrolle der Fahrräder, der Motorfahrräder und der Kleinmotorräder übertragen; es kann ihr auch die Befugnis zur Anordnung von Administrativmassnahmen für diese Fahrzeuge übertragen.
+
+#### Art. 3
+
+**Raumplanungs-, Umwelt- und Baudirektion**
+
+<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 5 AGSVG und diesem Beschluss ist die Raumplanungs-, Umwelt- und Baudirektion, unter Vorbehalt der dem ASS und der Gendarmerie übertragenen Befugnisse, zuständig, den Verkehr auf Strassen und öffentlichem Verkehrsgelände in Privatbesitz für eine zeitlich beschränkte Zeit zu verbieten, einzuschränken oder zu regeln.
+
+<sup>2</sup> Sie genehmigt, gemäss Bundesrecht, die zeitlich beschränkten Massnahmen, welche die Gendarmerie in Anwendung von Artikel 3 Abs. 6 SVG getroffen hat.
+
+<sup>3</sup> Trifft sie zeitlich unbeschränkte oder beschränkte Massnahmen, so richtet sie sich nach der Stellungnahme der Gendarmerie, wenn es sich um Vorschrifts- und Vortrittssignale auf Kantonsstrassen sowie wichtigen und stark befahrenen Gemeindestrassen handelt.
+
+#### Art. 4
+
+**Gendarmerie**
+
+<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 7 AGSVG und diesem Beschluss übt die Gendarmerie folgende Aufgaben und Befugnisse aus:
+
+- a) Sie fördert die Unfallverhütung im Strassenverkehr und trifft diesbezüglich alle nützlichen Vorkehrungen.
+- b) Sie vermittelt in Zusammenarbeit mit der Raumplanungs-, Umwelt- und Baudirektion die Verkehrsinformationen nach den Bestimmungen des Bundesrechts.
+- c) Sie ist die Vollzugsbehörde im Sinne der Verordnungen über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer und -führerinnen.
+- d) Sie gibt den Gemeinden die nötigen Anweisungen zur Anwendung der Gesetzgebung über die Ordnungsbussen.
+
+#### Art. 5
+
+**Kommission für administrative Massnahmen**
+
+<sup>1</sup> Zusätzlich zu den Befugnissen nach Artikel 8 AGSVG ist die Kommission für administrative Massnahmen zuständig für folgende Massnahmen:
+
+- a) die Verwarnungen;
+- b) die Verpflichtung zum Besuch der Verkehrserziehungs-Kurse;
+- c) das Verbot des Führens von Motorfahrrädern oder Fahrzeugen, für die kein Führerausweis erforderlich ist;
+- d) alle weiteren im Bundesrecht vorgesehenen administrativen Massnahmen.
+
+#### Art. 6
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Es werden aufgehoben:
+
+- a) der Beschluss vom 22. Juli 1968 betreffend die Kennzeichen der Motorfahrräder (SGF 781.55);
+- b) der Ausführungsbeschluss vom 15. September 1967 zur bundesrätlichen Verordnung vom 18. Januar 1966 über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer (SGF 864.2.21).
+
+#### Art. 7
+
+**Inkrafttreten und Veröffentlichung**
+
+<sup>1</sup> Dieser Beschluss tritt am 1. September 1999 in Kraft.
+
+<sup>2</sup> Er wird im Amtsblatt veröffentlicht, in die Amtliche Gesetzessammlung aufgenommen und im Sonderdruck herausgegeben.
+
+BL/AGS 1999 f 241 / d 244

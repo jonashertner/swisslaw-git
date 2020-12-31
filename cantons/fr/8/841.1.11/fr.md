@@ -1,0 +1,141 @@
+---
+canton: FR
+number: "841.1.11"
+title: "Règlement d'exécution de la loi d'application de la loi fédérale sur l'assurance-vieillesse et survivants et de la loi fédérale sur l'assurance-invalidité"
+language: fr
+version: 2003-01-01
+version_adopted: 2002-11-14
+adopted: 1998-09-08
+in_force: 1998-10-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/841.1.11"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5582/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Règlement d'exécution de la loi d'application de la loi fédérale sur l'assurance-vieillesse et survivants et de la loi fédérale sur l'assurance-invalidité
+
+Assurance-vieillesse et survivants et assurance-invalidité – R
+
+du 08.09.1998 (version entrée en vigueur le 01.01.2003)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 9 février 1994 d'application de la loi fédérale sur l'assurance-vieillesse et survivants et de la loi fédérale sur l'assurance-invalidité (loi d'application);
+
+Sur la proposition de la Direction de la santé publique et des affaires sociales,
+
+Arrête:
+
+## 1 Etablissement cantonal des assurances sociales
+
+#### Art. 1
+
+**Engagement du personnel (art. 4 loi d'application)**
+
+<sup>1</sup> La direction de l'Etablissement cantonal des assurances sociales (ci-après: l'Etablissement) est seule compétente pour l'engagement du personnel jusqu'à et y compris la classe de fonction 18.
+
+<sup>2</sup> Pour l'engagement aux autres fonctions qui ne relève pas de la compétence du Conseil d'Etat, elle requiert préalablement l'autorisation du président ou de la présidente de la commission administrative.
+
+<sup>3</sup> Dans tous les cas, les décisions d'engagement sont prises en accord avec le Service du personnel et de l'organisation pour ce qui concerne la classification initiale.
+
+#### Art. 2
+
+**Commission administrative (art. 5 et 6 loi d'application) – Organisation**
+
+<sup>1</sup> En vertu de l'article 5 al. 3 de la loi d'application, la commission administrative de l'Etablissement est présidée par le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice de la santé et des affaires sociales.
+
+<sup>2</sup> La commission désigne son vice-président ou sa vice-présidente et choisit son ou sa secrétaire.
+
+<sup>3</sup> Elle peut, en tout temps, se subdiviser en sous-commissions pour l'exécution de tâches déterminées.
+
+<sup>4</sup> Elle siège en fonction des besoins, mais au moins trois fois par année. Ses membres sont convoqués par le président ou la présidente, au moins dix jours à l'avance, et reçoivent communication écrite de l'ordre du jour. A la demande écrite de deux membres, le président ou la présidente assigne une séance dans les vingt jours.
+
+<sup>5</sup> La commission prend ses décisions à la majorité relative des voix des membres présents. Toutefois, la présence de cinq membres au moins est requise pour la validité d'une décision. En cas d'égalité des voix, le président ou la présidente départage. La majorité absolue des membres est requise lorsqu'un objet est soumis par voie de circulation.
+
+#### Art. 3
+
+**Commission administrative (art. 5 et 6 loi d'application) – Tâches et compétences**
+
+<sup>1</sup> Outre celles qui sont fixées dans la loi d'application, la commission administrative a notamment les tâches et compétences suivantes:
+
+- a) elle donne au Conseil d'Etat son préavis sur le choix du directeur ou de la directrice de l'Etablissement, de la Caisse AVS ou de l'Office AI;
+- b) elle préavise, à l'attention du Conseil d'Etat, les demandes de nomination et de promotion de personnel qui lui sont présentées par la direction de l'Etablissement;
+- c) elle propose au Conseil d'Etat les sanctions disciplinaires prévues dans la loi sur le statut du personnel de l'Etat et qui sont de la compétence de cette autorité;
+- d) elle adopte et soumet au Conseil d'Etat, pour approbation, le règlement particulier pour les agences communales de la Caisse AVS, prévu à l'article 12 al. 3 de la loi d'application;
+- e) elle propose au Conseil d'Etat le choix du bureau de révision externe chargé de contrôler la comptabilité et la gestion de la Caisse AVS selon l'article 16 al. 1 de la loi d'application;
+- f) elle prend connaissance des rapports établis par l'organe de révision externe et y donne la suite qu'elle juge utile;
+- g) elle approuve les contrats ou conventions nécessaires à l'installation et à l'utilisation des locaux pour l'administration des institutions rattachées à l'Etablissement.
+
+#### Art. 4
+
+**Commission administrative (art. 5 et 6 loi d'application) – Indemnisation**
+
+<sup>1</sup> Les membres de la commission administrative sont indemnisés pour leur activité, conformément aux dispositions arrêtées par le Conseil d'Etat.
+
+## 2 Caisse cantonale de compensation AVS
+
+#### Art. 5
+
+**Organisation interne (art. 7 al. 2 loi d'application)**
+
+<sup>1</sup> L'organisation interne de la Caisse cantonale de compensation AVS (en abrégé: la Caisse AVS) est sanctionnée par un organigramme tenant compte des directives fédérales et approuvé par la commission administrative de l'Etablissement.
+
+#### Art. 6
+
+**Attributions de la direction (art. 11 loi d'application)**
+
+<sup>1</sup> Outre celles qui sont fixées dans la loi d'application, les attributions de la direction sont celles qui sont prévues par la législation fédérale sur l'AVS, plus particulièrement celles qui sont mentionnées à l'article 63 al. 1 et 2 LAVS.
+
+## 3 Office cantonal de l'assurance-invalidité
+
+#### Art. 7
+
+**Organisation interne (art. 22 loi d'application)**
+
+<sup>1</sup> L'organisation interne de l'Office cantonal de l'assurance-invalidité (en abrégé: l'Office AI) est sanctionnée par un organigramme approuvé par l'Office fédéral des assurances sociales et la commission administrative de l'Etablissement.
+
+#### Art. 8
+
+**Composition de l'instance interne de décision**
+
+<sup>1</sup> L'instance pluridisciplinaire de décision prévue à l'article 22 al. 2 de la loi d'application est composée du directeur ou de la directrice et d'au moins deux collaborateurs ou collaboratrices ayant l'une des fonctions suivantes: directeur adjoint ou directrice adjointe, économiste, juriste, médecin, spécialiste en matière de réadaptation professionnelle ou spécialiste administratif ou administrative. Dans certaines circonstances particulières, le directeur ou la directrice peut déléguer sa compétence au directeur adjoint ou à la directrice adjointe.
+
+<sup>2</sup> La composition de l'instance est déterminée par le directeur ou la directrice ou le directeur ou la directrice adjointe au regard des spécialités professionnelles qui sont concernées dans le cas particulier.
+
+#### Art. 9
+
+**Champ d'activité de l'instance**
+
+<sup>1</sup> Peuvent constituer des cas d'octroi ou de refus de prestations AI où l'appréciation joue un rôle essentiel, des dossiers de rentes AI, d'allocations pour impotents ou impotentes, de contributions aux soins spéciaux pour mineur-e-s impotents, de contributions pour soins à domicile ainsi que de mesures de réadaptation professionnelle.
+
+<sup>2</sup> Ces dossiers sont soumis à l'instance de décision lorsque l'analyse et la prise de décision sont particulièrement complexes et lorsqu'il y a désaccord entre les personnes qui les ont examinés.
+
+#### Art. 10
+
+**Décisions de l'instance**
+
+<sup>1</sup> Les décisions de l'instance sont prises, en principe lors de séances, en tenant compte d'une façon appropriée des avis des spécialistes désignés dans l'instance pour le cas particulier.
+
+<sup>2</sup> Les décisions émanant de l'instance interne doivent être considérées comme celles du directeur ou de la directrice qui en est responsable, conformément à l'article 21 al. 2 de la loi d'application, aussi bien vis-à-vis des tiers qu'envers l'autorité fédérale de surveillance.
+
+## 4 Dispositions finales
+
+#### Art. 11
+
+**Abrogations (art. 32 loi d'application)**
+
+<sup>1</sup> Sont abrogés:
+
+- a) le règlement du 24 juin 1958 fixant les tâches et attributions comme l'organisation de la commission administrative de l'Office cantonal des assurances sociales (RSF 840.1.12);
+- b) le règlement du 16 avril 1948 de la Caisse cantonale de compensation pour l'AVS (RSF 841.1.12).
+
+#### Art. 12
+
+**Entrée en vigueur et publication (art. 33 loi d'application)**
+
+<sup>1</sup> Le présent règlement d'exécution entre en vigueur le 1<sup>er</sup> octobre 1998.
+
+<sup>2</sup> Il est publié dans la Feuille officielle, inséré dans le Bulletin des lois et imprimé en livrets.
+
+BL/AGS 1998 f 428 / d 433

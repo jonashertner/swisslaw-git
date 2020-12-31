@@ -1,0 +1,812 @@
+---
+canton: FR
+number: "412.3.11"
+title: Reglement über die Vollzeit-Handelsmittelschule
+short: VHR
+language: de
+version: 2016-08-01
+valid_until: 2021-07-31
+version_adopted: 2016-06-21
+adopted: 2016-06-21
+in_force: 2016-08-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/412.3.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/5172/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über die Vollzeit-Handelsmittelschule
+
+Vollzeit-Handelsmittelschule – R
+
+(VHR)
+
+vom 21.06.2016 (Fassung in Kraft getreten am 01.08.2016)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung;
+
+gestützt auf die Bundesverordnung vom 19. November 2003 über die Berufsbildung;
+
+gestützt auf die Bundesverordnung vom 24. Juni 2009 über die eidgenössische Berufsmaturität;
+
+gestützt auf die Verordnung des Staatssekretariats für Bildung, Forschung und Innovation vom 26. September 2011 über die berufliche Grundbildung Kauffrau/Kaufmann mit eidgenössischem Fähigkeitszeugnis;
+
+gestützt auf das Gesetz vom 11. April 1991 über den Mittelschulunterricht;
+
+gestützt auf das Reglement vom 27. Juni 1995 über den Mittelschulunterricht;
+
+auf Antrag der Direktion für Erziehung, Kultur und Sport,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> In diesem Reglement wird die Ausbildung in folgenden Vollzeit-Handelsmittelschulen geregelt:
+
+- a) Kollegium Gambach;
+- b) Kollegium des Südens.
+
+#### Art. 2
+
+**Aufnahme**
+
+<sup>1</sup> Aufgenommen werden können Lernende, welche die Bedingungen erfüllen, die in den besonderen Bestimmungen über die Aufnahme und den Übertritt von den Orientierungsschulen in die Mittelschulen festgelegt werden.
+
+<sup>2</sup> Personen, die eine öffentliche Schule in einem anderen Kanton abgeschlossen haben, werden in die reguläre Ausbildung aufgenommen, wenn sie die Zulassungsbedingungen für einen entsprechenden Ausbildungsgang des betreffenden Kantons erfüllen. Vorbehalten bleiben die interkantonalen Vereinbarungen.
+
+<sup>3</sup> Ausnahmsweise kann die Schuldirektion eine Person auf Vorlage und Annahme eines Dossiers ins erste, zweite oder dritte Jahr aufnehmen, wenn die Umstände es rechtfertigen.
+
+<sup>4</sup> Die Zulassung kann entsprechend der Anzahl verfügbarer Ausbildungsplätze beschränkt werden.
+
+<sup>5</sup> Der Eintritt erfolgt zu Beginn des Schuljahres, ausser es liegen aussergewöhnliche Umstände vor.
+
+<sup>6</sup> Die Angaben zum Aufnahmeverfahren, darunter insbesondere die Anmeldefrist, werden von der Direktion für Erziehung, Kultur und Sport (nachfolgend: die Direktion) jeweils vor dem 31. Januar im Amtsblatt veröffentlicht.
+
+#### Art. 3
+
+**Verteilung**
+
+<sup>1</sup> Die aufgenommenen Lernenden werden nach Massgabe der verfügbaren Plätze wie folgt auf die kantonalen Kollegien verteilt:
+
+- a) Die Lernenden des südlichen Kantonsteils besuchen grundsätzlich das Kollegium des Südens.
+- b) Die übrigen Lernenden besuchen in der Regel das Kollegium Gambach, in dem die Ausbildung in den beiden Amtssprachen des Kantons angeboten wird.
+
+#### Art. 4
+
+**Ablauf der Ausbildung**
+
+<sup>1</sup> Die Ausbildung umfasst drei Jahre Vollzeitausbildung an der Schule und ein einjähriges Betriebspraktikum (konzentriertes Modell).
+
+#### Art. 5
+
+**Inhalt der Ausbildung**
+
+<sup>1</sup> Die Ausbildung besteht aus der Bildung in beruflicher Praxis und aus dem schulischen Unterricht. Sie schliesst mit dem eidgenössischen Fähigkeitszeugnis (EFZ) mit dem Titel «Kauffrau EFZ» oder «Kaufmann EFZ» und dem eidgenössischen Berufsmaturitätszeugnis ab.
+
+<sup>2</sup> Die Bildung in beruflicher Praxis besteht aus:
+
+- a) einem Betriebspraktikum;
+- b) integrierten Praxisteilen;
+- c) problemorientiertem Unterricht;
+- d) überbetrieblichen Kursen.
+
+<sup>3</sup> Beim schulischen Unterricht wird der theoretisch-schulische Unterricht mit dem problemorientierten Unterricht kombiniert.
+
+#### Art. 6
+
+**Lehrvertrag**
+
+<sup>1</sup> Zwischen der lernenden Person und, falls sie minderjährig ist, ihrer gesetzlichen Vertretung und der Schule wird ein vierjähriger Lehrvertrag abgeschlossen.
+
+<sup>2</sup> Jede Änderung oder Verlängerung des Vertrags muss schriftlich festgehalten werden.
+
+<sup>3</sup> Der Vertrag muss vom Amt für Unterricht der Sekundarstufe 2 (das Amt) genehmigt werden.
+
+## 2 Lehrplan und Stundenplan
+
+#### Art. 7
+
+**Lehrplan**
+
+<sup>1</sup> Der interdisziplinär angelegte Lehrplan an der Vollzeit-Handelsmittelschule umfasst:
+
+- a) einen Grundlagenbereich im Berufsmaturitätsunterricht (BM-Unterricht), bestehend aus folgenden Fächern:
+  - 1\. erste Landessprache
+  - 2\. zweite Landessprache
+  - 3\. Englisch
+  - 4\. Mathematik;
+- b) einen Schwerpunktbereich im BM-Unterricht, bestehend aus folgenden Fächern:
+  - 1\. Finanz- und Rechnungswesen
+  - 2\. Wirtschaft und Recht;
+- c) einen Ergänzungsbereich im Berufsmaturitätsunterricht, bestehend aus folgenden Fächern:
+  - 1\. Geschichte und Politik
+  - 2\. Technik und Umwelt;
+- d) die folgenden EFZ-spezifischen Fächer:
+  - 1\. Information, Kommunikation, Administration (IKA)
+  - 2\. Vertiefen und Vernetzen
+  - 3\. Überfachliche Kompetenzen
+  - 4\. Sport;
+- e) Ethik und Philosophie;
+- f) Bildnerisches Gestalten;
+- g) das interdisziplinäre Arbeiten; dieses umfasst das interdisziplinäre Arbeiten in den Fächern aller Unterrichtsbereiche der Berufsmaturität (IDAF) und die interdisziplinäre Projektarbeit (IDPA), die sich auf die Arbeitswelt und auf mindestens zwei Fächer des BM-Unterrichts bezieht;
+- h) die Bildung in beruflicher Praxis gemäss Artikel 5 dieses Reglements.
+
+<sup>2</sup> Das Amt legt die Ausführungsbestimmungen für die Module «Vertiefen und Vernetzen», «Überfachliche Kompetenzen», «Interdisziplinäres Arbeiten» und die integrierten Praxisteile gemäss den Vorschriften des Bundes im Bereich der Berufsbildung fest.
+
+#### Art. 8
+
+**Stundenplan**
+
+<sup>1</sup> Die Direktion erstellt den wöchentlichen Stundenplan.
+
+#### Art. 9
+
+**Mehrsprachige Berufsmaturität**
+
+<sup>1</sup> Eine zweisprachige Ausbildung nach den Kriterien für die Erlangung des Vermerks «mehrsprachige Berufsmaturität» wird den Lernenden, die dies wünschen, angeboten. Die Direktion legt die Bedingungen für diese Ausbildung fest.
+
+#### Art. 10
+
+**Künstlerisch oder sportlich begabte Lernende**
+
+<sup>1</sup> Für künstlerisch oder sportlich begabte Lernende trifft die Schuldirektion gemäss Sportgesetzgebung Massnahmen, damit sie die Ausübung von Kunst oder Sport auf hohem Niveau und schulische Ausbildung miteinander vereinbaren können.
+
+<sup>2</sup> Während des Praktikums gelten die Regeln des Praktikumsbetriebs.
+
+## 3 Promotion
+
+#### Art. 11
+
+**Unterrichtsfächer**
+
+<sup>1</sup> Für die Beförderung von einem Semester ins nächste sind alle Unterrichtsfächer nach Artikel 7 Abs. 1 Bst. a–f dieses Reglements massgebend. Ausgenommen davon ist der Sport; dieser wird benotet, und die Note steht im Zeugnis, wird jedoch weder für die Beförderung noch beim Durchschnitt berücksichtigt.
+
+#### Art. 12
+
+**Beurteilung**
+
+<sup>1</sup> Die Leistungen und die Arbeit der Schülerinnen und Schüler werden kontinuierlich anhand von Noten bewertet. 6 ist die höchste, 1 die tiefste Note. Die Note 4 und die Noten darüber sind genügend; die Noten unter 4 sind ungenügend.
+
+<sup>2</sup> Die Fächer gemäss Artikel 7 dieses Reglements werden mit Noten bewertet.
+
+#### Art. 13
+
+**Semesternote**
+
+<sup>1</sup> In jedem Fach ist die Semesternote der Durchschnitt aller von der oder dem Lernenden während des Semesters erzielten Resultate. Sie wird in ganzen und halben Noten ausgedrückt.
+
+<sup>2</sup> Bei der Berechnung dieser Note kann die Lehrperson aber auch die Entwicklung der Ergebnisse der oder des Lernenden, die Fähigkeit, dem Unterricht in der höheren Stufe zu folgen, und die Schularbeit während des Jahres berücksichtigen.
+
+#### Art. 14
+
+**Promotion**
+
+<sup>1</sup> Die Promotion am Ende des 1., 2., 3., 4. und 5. Semesters in die nächsthöhere Stufe erfolgt, wenn:
+
+- a) der allgemeine Durchschnitt aller Fächer mindestens 4 beträgt;
+- b) der Durchschnitt in allen Fächern des Grundlagen-, Schwerpunkt- und Ergänzungsbereichs der Berufsmaturität mindestens 4 beträgt;
+- c) bei allen Noten, die für den allgemeinen Durchschnitt mitgerechnet werden, nicht mehr als zwei Noten unter 4 liegen;
+- d) die Summe der Notenabweichungen unter 4 nicht mehr als 2 Punkte beträgt.
+
+<sup>2</sup> Der allgemeine Durchschnitt wird aus allen Fächern des Jahresprogramms berechnet.
+
+#### Art. 15
+
+**Entscheid**
+
+<sup>1</sup> Die Schuldirektion entscheidet, gestützt auf das Semesterzeugnis und die Stellungnahme der Konferenz der Lehrpersonen einer Klasse, über:
+
+- a) die Promotion;
+- b) die provisorische Promotion ins nächste Semester;
+- c) die Nichtpromotion mit der Möglichkeit zur Wiederholung;
+- d) die Nichtpromotion mit Ausschluss aus dem Bildungsgang.
+
+#### Art. 16
+
+**Aussergewöhnliche Umstände**
+
+<sup>1</sup> Die Schuldirektion kann die Promotion bewilligen, wenn aus Krankheitsgründen oder bei Umständen, auf welche die oder der Lernende keinen Einfluss hat, die Ergebnisse nicht den Bedingungen nach Artikel 14 dieses Reglements entsprechen.
+
+#### Art. 17
+
+**Provisorische Promotion**
+
+<sup>1</sup> Die Schuldirektion kann eine provisorische Promotion gewähren.
+
+<sup>2</sup> Eine Lernende oder ein Lernender kann im Verlauf ihrer oder seiner Ausbildung nur einmal in den Genuss einer solchen provisorischen Promotion kommen.
+
+<sup>3</sup> Im Falle einer erneuten Nichtpromotion müssen die letzten beiden Semester wiederholt werden.
+
+#### Art. 18
+
+**Wiederholung**
+
+<sup>1</sup> Eine Lernende oder ein Lernender kann die zwei Semester nur ein einziges Mal während der ersten vier Semester ihrer oder seiner Ausbildung wiederholen.
+
+<sup>2</sup> Liegt der allgemeine Durchschnitt aller Fächer unter 3,5, so wird keine Wiederholung gestattet.
+
+<sup>3</sup> Die Schuldirektion entscheidet über die Fälle höherer Gewalt, die insbesondere durch Krankheit oder Unfall verursacht sein können.
+
+## 4 Langzeitpraktikum
+
+#### Art. 19
+
+**Ziel und Zweck**
+
+<sup>1</sup> Im Anschluss an die schulische Ausbildung folgt ein einjähriges Langzeitpraktikum in einem Betrieb (Ferien mit einbegriffen).
+
+<sup>2</sup> Das Langzeitpraktikum soll den Lernenden die Möglichkeit bieten, die mit dem EFZ verbundenen berufspraktischen Fähigkeiten zu erwerben.
+
+#### Art. 20
+
+**Ort des Langzeitpraktikums**
+
+<sup>1</sup> Für Praktikumsbetriebe gelten grundsätzlich die Bestimmungen und Anforderungen an den Lehrbetrieb gemäss den Vorschriften des Bundes im Bereich der Berufsbildung. Sie müssen über eine Ausbildungsbewilligung verfügen.
+
+<sup>2</sup> Das Betriebspraktikum kann auch in einem anderen Kanton durchgeführt werden.
+
+#### Art. 21
+
+**Zeitpunkt des Langzeitpraktikums**
+
+<sup>1</sup> Bei einer Unterbrechung der Ausbildung muss das Langzeitpraktikum spätestens drei Jahre nach Abschluss der schulischen Ausbildung beendet werden.
+
+#### Art. 22
+
+**Praktikumsplätze**
+
+<sup>1</sup> Die oder der Lernende ist für die Suche eines Praktikumsplatzes verantwortlich.
+
+<sup>2</sup> Die Handelsmittelschulen sorgen für ein Angebot an Praktikumsplätzen, das der Zahl der Lernenden entspricht.
+
+#### Art. 23
+
+**Wiederholte oder längere Absenzen der Lernenden**
+
+<sup>1</sup> Bei wiederholten oder längeren Absenzen wird das Praktikum nicht anerkannt und muss wiederholt werden.
+
+#### Art. 24
+
+**Rahmenvertrag zum Langzeitpraktikum**
+
+<sup>1</sup> Zwischen dem Praktikumsbetrieb und dem Amt wird ein Rahmenvertrag zum Langzeitpraktikum abgeschlossen und unterzeichnet.
+
+#### Art. 25
+
+**Praktikumsvertrag**
+
+<sup>1</sup> Zwischen der lernenden Person und, falls sie minderjährig ist, ihrer gesetzlichen Vertretung und dem Praktikumsbetrieb und der Schule wird ein einjähriger Praktikumsvertrag abgeschlossen. Während dieser Zeit untersteht die oder der Lernende den Regeln des Betriebs.
+
+<sup>2</sup> Jede Änderung oder Verlängerung des Vertrags muss schriftlich festgehalten werden.
+
+<sup>3</sup> Der Vertrag muss vom Amt genehmigt werden.
+
+#### Art. 26
+
+**Überbetriebliche Kurse**
+
+<sup>1</sup> Die Lernenden sind während des Langzeitpraktikums verpflichtet, an den überbetrieblichen Kursen teilzunehmen, die von den Ausbildungs- und Prüfungsbranchen, die vom Staatssekretariat für Bildung, Forschung und Innovation (das SBFI) zugelassen werden, organisiert werden.
+
+#### Art. 27
+
+**Ausbildungsabschlüsse**
+
+<sup>1</sup> Die EFZ- und/oder BM-Ausweise werden erst nach Abschluss des Langzeitpraktikums ausgehändigt.
+
+## 5 Prüfungen
+
+### 5.1 Allgemeine Bestimmung
+
+#### Art. 28
+
+<sup>1</sup> Der Kanton Freiburg stellt nach den Vorschriften des Bundes im Bereich der Berufsbildung ein EFZ und ein Berufsmaturitätszeugnis aus.
+
+### 5.2 Organisation des betrieblichen Teils der Prüfung
+
+#### Art. 29
+
+<sup>1</sup> Die Organisation des betrieblichen Teils des Qualifikationsverfahrens wird von den vom SBFI zugelassenen Ausbildungs- und Prüfungsbranchen geregelt.
+
+### 5.3 Organisation des schulischen Teils der Prüfung
+
+#### Art. 30
+
+**Prüfungskommission – Bildung und Befugnis der Präsidentin oder des Präsidenten**
+
+<sup>1</sup> In jeder Vollzeit-Handelsmittelschule wird eine Prüfungskommission gebildet, deren Präsidentin oder Präsident von der Direktion bezeichnet wird.
+
+<sup>2</sup> Die Präsidentin oder der Präsident der Prüfungskommission:
+
+- a) sorgt für eine gute Prüfungsorganisation;
+- b) bezeichnet im Einverständnis mit der Rektorin oder dem Rektor die Sekretärin oder den Sekretär der Prüfungskommission;
+- c) wählt im Einvernehmen mit der Rektorin oder dem Rektor die Expertinnen und Experten;
+- d) bildet die Prüfungskommission und beruft sie ein;
+- e) erstellt nach Abschluss jeder Session einen Bericht über den Prüfungsverlauf zuhanden der Direktion.
+
+<sup>3</sup> Die Direktion bezeichnet für die Präsidentin oder den Präsidenten der Prüfungskommission eine stellvertretende Person, die aus den Präsidentinnen und Präsidenten der Prüfungskommissionen der anderen Kollegien ausgewählt werden kann.
+
+#### Art. 31
+
+**Prüfungskommission – Zusammensetzung**
+
+<sup>1</sup> Der Prüfungskommission gehören an:
+
+- a) die Rektorin oder der Rektor, die verantwortlichen Vorsteherinnen und Vorsteher der Abschlussklassen und die Sekretärin oder der Sekretär;
+- b) die jeweiligen Examinatorinnen und Examinatoren und Expertinnen und Experten der einzelnen Bereiche.
+
+#### Art. 32
+
+**Prüfungskommission – Wahl der Examinatorinnen und Examinatoren und der Expertinnen und Experten**
+
+<sup>1</sup> Examinatorin oder Examinator ist grundsätzlich die Lehrperson, die den Unterricht während der letzten beiden Studienjahre erteilt hat.
+
+<sup>2</sup> Die Expertin oder der Experte ist, soweit möglich, entweder eine Lehrperson, die das gleiche Fach auf der gleichen Stufe an einer anderen öffentlichen Schule des Kantons unterrichtet, oder sonst eine fachkundige Person.
+
+#### Art. 33
+
+**Prüfungskommission – Prüfungsausschuss**
+
+<sup>1</sup> Die Präsidentin oder der Präsident der Prüfungskommission und die Rektorin oder der Rektor sowie die verantwortlichen Vorsteherinnen oder Vorsteher der betreffenden Abschlussklassen und die Sekretärin oder der Sekretär der Prüfungskommission bilden den Prüfungsausschuss.
+
+#### Art. 34
+
+**Prüfungskommission – Ausstand der Mitglieder der Prüfungskommission**
+
+<sup>1</sup> Ist ein Mitglied der Prüfungskommission in gerader Linie in allen Graden und in Seitenlinie bis und mit dem 4. Grad mit einer Kandidatin oder einem Kandidaten verwandt oder verschwägert oder hat es die Beistandschaft inne, so muss es in den Ausstand treten.
+
+<sup>2</sup> Lassen ernsthafte Gründe an der Unparteilichkeit eines Mitglieds der Prüfungskommission zweifeln, so muss dieses Mitglied in den Ausstand treten.
+
+<sup>3</sup> Tritt ein Mitglied der Prüfungskommission in den Ausstand oder ist es an der Ausübung seines Amtes verhindert, so bezeichnet die Präsidentin oder der Präsident eine Stellvertreterin oder einen Stellvertreter.
+
+<sup>4</sup> Will eine Kandidatin oder ein Kandidat den Ausstand eines Kommissionsmitglieds beantragen, so muss sie oder er ein entsprechendes Gesuch einreichen, sobald sie oder er die Zusammensetzung der Prüfungskommission kennt.
+
+#### Art. 35
+
+**Prüfungskommission – Schweigepflicht**
+
+<sup>1</sup> Die Mitglieder der Prüfungskommission sind bei allem, was die Prüfungen betrifft, insbesondere bei den Prüfungsfragen, bei den Verhandlungen der Prüfungskommission und bei den Zwischenresultaten der Kandidatinnen und Kandidaten, an die Schweigepflicht gebunden.
+
+#### Art. 36
+
+**Kantonale Prüfungskommission der Sekundarstufe 2 – Zusammensetzung**
+
+<sup>1</sup> Der kantonalen Prüfungskommission der Sekundarstufe 2 (die kantonale Kommission) gehören folgende Personen an:
+
+- a) die Rektorinnen und Rektoren und die Direktorinnen und Direktoren aller Schulen der Sekundarstufe 2;
+- b) die Präsidentinnen und Präsidenten und die Sekretärinnen und Sekretäre der Prüfungskommissionen der einzelnen Schulen;
+- c) die Person, die den Kanton Freiburg in der Schweizerischen Maturitätskommission vertritt;
+- d) eine Person als Vertretung der Direktion, welche die kantonale Kommission präsidiert.
+
+#### Art. 37
+
+**Kantonale Prüfungskommission der Sekundarstufe 2 – Befugnisse**
+
+<sup>1</sup> Die kantonale Kommission hat folgende Befugnisse:
+
+- a) Sie kontrolliert die Anwendung des Reglements in den Handelsmittelschulen.
+- b) Sie bestimmt, welche Nachschlagewerke und Hilfsmittel bei den schriftlichen Prüfungen erlaubt sind, wobei sie die Vorschriften des Bundes im Bereich der Berufsbildung berücksichtigt.
+- c) Sie vergewissert sich, dass die Prüfungsanforderungen in den Schulen gleichwertig sind.
+- d) Sie legt die Daten der ordentlichen Prüfungssession fest.
+- e) Sie setzt die Dauer des Vorbereitungsurlaubs für die Kandidatinnen und Kandidaten fest.
+- f) Sie beantragt der Direktion allfällige Änderungen des vorliegenden Reglements.
+
+#### Art. 38
+
+**Ordentliche Prüfungssession – Bekanntmachung**
+
+<sup>1</sup> Die Daten der ordentlichen jährlichen Prüfungssession, die am Ende des zweiten Semesters des Schuljahres stattfindet, werden vor dem 31. Januar des Prüfungsjahrs im Amtsblatt veröffentlicht.
+
+#### Art. 39
+
+**Ordentliche Prüfungssession – Anmeldefrist**
+
+<sup>1</sup> Die Prüfungskandidatin oder der Prüfungskandidat meldet sich bis zum 15. Februar des Prüfungsjahres mit dem kantonalen Formular bei der Direktion ihrer oder seiner Schule an.
+
+#### Art. 40
+
+**Vorgezogene mündliche Prüfungen**
+
+<sup>1</sup> Ist eine Lernende oder ein Lernender verhindert, an einzelnen oder allen ordentlichen mündlichen Prüfungen teilzunehmen, so kann sie oder er bei der Präsidentin oder beim Präsidenten der Prüfungskommission schriftlich eine Vorverlegung der mündlichen Prüfungen beantragen.
+
+<sup>2</sup> Ein allfälliges Gesuch um Vorverlegung der mündlichen Prüfungen muss spätestens drei Wochen vor Beginn der ordentlichen Prüfungen eingereicht werden.
+
+<sup>3</sup> Die Präsidentin oder der Präsident entscheidet über die Organisation vorverlegter mündlicher Prüfungen je nach dem, ob der von der Kandidatin oder vom Kandidaten angeführte Grund zur Rechtfertigung des Gesuchs vorhersehbar oder nicht vorhersehbar (höhere Gewalt) war.
+
+#### Art. 41
+
+**Ausserordentliche Prüfungen**
+
+<sup>1</sup> Wer aus triftigem und ernsthaftem Grund verhindert ist, an den ordentlichen Prüfungen teilzunehmen, oder aus einem solchen Grund die Anmeldung zurückgezogen hat, kann bis zum 31. Juli bei der Präsidentin oder beim Präsidenten der Prüfungskommission die Durchführung ausserordentlicher Prüfungen beantragen.
+
+<sup>2</sup> Im Fall eines triftigen Verhinderungsgrundes muss die Kandidatin oder der Kandidat für die Kosten der ausserordentlichen Prüfungen aufkommen. Im Falle von höherer Gewalt gehen die Kosten zulasten des Staates.
+
+#### Art. 42
+
+**Prüfungsort**
+
+<sup>1</sup> Die Kandidatinnen und Kandidaten legen ihre Prüfung an der Handelsmittelschule ab, an der sie zum Zeitpunkt der Prüfungssession den Unterricht besuchen.
+
+#### Art. 43
+
+**Zulassungsbedingungen**
+
+<sup>1</sup> Um zu den Prüfungen zugelassen zu werden, muss die Kandidatin oder der Kandidat:
+
+- a) wenigstens während der letzten zwei Schuljahre den Unterricht dieser Handelsmittelschule besucht haben; Lernende, die den Unterricht an der Schule, an der sie die Prüfungen ablegen wollen, nur im letzten Schuljahr besucht haben, können zu den Prüfungen zugelassen werden, wenn besondere Umstände es rechtfertigen; in diesem Fall entscheidet die Schuldirektion über die Gleichwertigkeit der vorgängigen Ausbildung;
+- b) den Unterricht des letzten Schuljahres regelmässig besucht haben.
+
+<sup>2</sup> Der Prüfungsausschuss entscheidet über die Zulassungen.
+
+### 5.4 Allgemeine Bestimmungen für den schulischen Teil der Prüfung
+
+#### Art. 44
+
+**Art der Prüfungen und Prüfungsstoff**
+
+<sup>1</sup> Die Abschlussprüfungen bestehen aus schriftlichen, mündlichen und praktischen Prüfungen.
+
+#### Art. 45
+
+**Anzahl Expertinnen oder Experten und Examinatorinnen oder Examinatoren**
+
+<sup>1</sup> In jedem Prüfungsfach beurteilen mindestens eine Examinatorin oder ein Examinator und eine Expertin oder ein Experte die schriftlichen und mündlichen Prüfungen der Kandidatin oder des Kandidaten.
+
+#### Art. 46
+
+**Schriftliche Prüfungen – Prüfungsdauer**
+
+<sup>1</sup> Die Dauer einer schriftlichen Prüfung im schulischen Teil des Qualifikationsverfahrens beträgt:
+
+- a) 180 Minuten für das Fach «Finanz- und Rechnungswesen»;
+- b) 150 Minuten für die erste Landessprache;
+- c) 90 bis 120 Minuten für das Fach IKA;
+- d) 120 Minuten für die übrigen schriftlichen Prüfungen.
+
+#### Art. 47
+
+**Schriftliche Prüfungen – Art der Themen**
+
+<sup>1</sup> Die schriftlichen Prüfungen umfassen für alle Fächer den Lehrplänen angepasste Fragen und Aufgaben. Die Interdisziplinarität bestimmter Fächer wird berücksichtigt.
+
+#### Art. 48
+
+**Schriftliche Prüfungen – Wahl der Themen**
+
+<sup>1</sup> Die Themen und Fragen der schriftlichen Prüfungen, die nicht auf nationaler oder regionaler Ebene vorgegeben sind, werden von den Examinatorinnen und Examinatoren und den Expertinnen und Experten ausgewählt.
+
+<sup>2</sup> Sie werden vorgängig der Präsidentin oder dem Präsidenten der Prüfungskommission vorgelegt, die oder der sich – gegebenenfalls unter Beizug externer Meinungen – ihrer Qualität versichert.
+
+<sup>3</sup> Die Präsidentinnen und Präsidenten der Prüfungskommissionen versichern sich, dass die Anforderungen gleichwertig sind.
+
+<sup>4</sup> In ein und derselben Handelsmittelschule müssen die Kandidatinnen und Kandidaten gleicher Muttersprache aus Parallelklassen die gleichen Fragen erhalten.
+
+#### Art. 49
+
+**Schriftliche Prüfungen – Bewertung der Prüfungen**
+
+<sup>1</sup> Jede Arbeit wird von zwei Mitgliedern der Prüfungskommission, d. h. der Examinatorin oder dem Examinator und der Expertin oder dem Experten, bewertet; sie legen die Note fest.
+
+<sup>2</sup> In der Bewertung der Arbeit werden Rechtschreibung, Stil und Darstellung berücksichtigt.
+
+#### Art. 50
+
+**Mündliche Prüfungen – Dauer**
+
+<sup>1</sup> Jede mündliche Prüfung des schulischen Teils des Qualifikationsverfahrens dauert fünfzehn Minuten. Gleich viel Zeit steht den Kandidatinnen und Kandidaten für die Vorbereitung zur Verfügung.
+
+#### Art. 51
+
+**Mündliche Prüfungen – Fragen**
+
+<sup>1</sup> Die Fragen werden von derjenigen Examinatorin oder demjenigen Examinator vorbereitet, die oder der mit der Befragung beauftragt ist, und von der Kandidatin und dem Kandidaten ausgelost. Die kantonale Kommission kann andere, an die besonderen Ziele bestimmter Fächer angepasste Prüfungsformen bewilligen.
+
+<sup>2</sup> Die Examinatorin oder der Examinator kann im Laufe der Prüfung jedoch Fragen zum gesamten Prüfungsstoff stellen.
+
+#### Art. 52
+
+**Mündliche Prüfungen – Festsetzung der Note**
+
+<sup>1</sup> Die Note der mündlichen Prüfung wird im Einvernehmen zwischen den Mitgliedern der Prüfungskommission, welche die Prüfung abgenommen haben, festgelegt.
+
+#### Art. 53
+
+**Mündliche Prüfungen – Protokoll**
+
+<sup>1</sup> Jedes Mitglied der Prüfungskommission, das eine Prüfung abgenommen hat, bewahrt ein kurzes Protokoll der mündlichen Prüfung ein Jahr lang auf; es muss insbesondere die Zeit des Prüfungsbeginns und des Prüfungsendes, die gestellten Fragen und eine allgemeine Beurteilung der Antworten der Kandidatin oder des Kandidaten enthalten.
+
+#### Art. 54
+
+**Notenskala**
+
+<sup>1</sup> Die Noten werden nach folgender Skala erteilt:
+
+6 = sehr gut
+
+5 = gut
+
+4 = genügend
+
+3 = ungenügend
+
+2 = schlecht
+
+1 = sehr schlecht.
+
+#### Art. 55
+
+**Betrug**
+
+<sup>1</sup> Wer betrügerische Mittel anwendet, wird von der Präsidentin oder vom Präsidenten der Prüfungskommission von den Prüfungen ausgeschlossen.
+
+<sup>2</sup> Der Ausschluss gilt als Misserfolg.
+
+#### Art. 56
+
+**Amtliche Urkunden**
+
+<sup>1</sup> Nach Abschluss der Prüfungen erstellt und unterzeichnet die Präsidentin oder der Präsident der Prüfungskommission für jede Kandidatin und jeden Kandidaten eine Zusammenstellung der erzielten Noten. Die Übergabe dieses Protokolls an die Kandidatin oder den Kandidaten gilt als Mitteilung der Resultate.
+
+### 5.5 Qualifikationsverfahren EFZ
+
+#### Art. 57
+
+**Qualifikationsverfahren – Umfang**
+
+<sup>1</sup> Das EFZ umfasst folgende Fächer:
+
+- a) Für den betrieblichen Teil des Qualifikationsverfahrens:
+  - 1\. Berufspraxis – schriftlich: Gegenstand dieser Prüfung sind die Leistungsziele des Betriebs und der überbetrieblichen Kurse (die Prüfung dauert 90–120 Minuten) (Gewichtung: 1/4);
+  - 2\. Berufspraxis – mündlich: diese Prüfung findet in Form eines Fachgesprächs oder eines Rollenspiels statt; Gegenstand sind die Leistungsziele des Betriebs und der überbetrieblichen Kurse (die Prüfung dauert 30 Minuten) (Gewichtung: 1/4);
+  - 3\. Die Erfahrungsnote des betrieblichen Teils ist das auf eine ganze oder halbe Note gerundete Mittel der Noten für zwei «Arbeits- und Lernsituationen» während des Langzeitpraktikums, einer Note für den «Kompetenznachweis» im Rahmen der integrierten Praxisteile und einer Note für eine «Prozesseinheit» im Rahmen des Langzeitpraktikums (Gewichtung: 1/2).
+- b) Für den schulischen Teil des Qualifikationsverfahrens:
+  - 1\. erste Landessprache (Gewichtung: 1/8);
+  - 2\. zweite Landessprache (Gewichtung: 1/8);
+  - 3\. Englisch (Gewichtung: 1/8);
+  - 4\. IKA (Gewichtung: 1/8);
+  - 5\. «Wirtschaft und Gesellschaft I», das Mittel der Prüfungsnoten für «Finanz- und Rechnungswesen» und «Wirtschaft und Recht» (Gewichtung: 2/8);
+  - 6\. «Wirtschaft und Gesellschaft II», das Mittel der Erfahrungsnoten für «Finanz- und Rechnungswesen» und «Wirtschaft und Recht» (Gewichtung: 1/8);
+  - 7\. «Projektarbeiten», das Mittel aus den Noten «Vertiefen und Vernetzen» und «Selbständige Arbeit» (Gewichtung: 1/8).
+
+#### Art. 58
+
+**Qualifikationsverfahren – Prüfungsfächer des schulischen Teils des Qualifikationsverfahrens**
+
+<sup>1</sup> Die Prüfungen müssen den Zielen der Lehrpläne entsprechen.
+
+<sup>2</sup> Mit Ausnahme der Prüfung im Fach IKA (schriftliche Prüfung) und der Erfahrungsnote des Moduls «Vertiefen und Vernetzen» entsprechen die Noten des Fähigkeitszeugnisses denjenigen der Berufsmaturität.
+
+<sup>3</sup> Die Note für die selbständige Arbeit entspricht der Note der interdisziplinären Projektarbeit.
+
+#### Art. 59
+
+**Notenberechnung**
+
+<sup>1</sup> Für die jeweilige Fachnote werden die Noten aller Bestandteile zu gleichen Teilen gewichtet, ausser, wenn im Reglement eine andere Gewichtung vorgegeben wird.
+
+<sup>2</sup> In den Fächern mit Abschlussprüfung ergibt sich die Fachnote je zur Hälfte aus der Erfahrungsnote und aus der Prüfungsnote.
+
+<sup>3</sup> In den Fächern ohne Abschlussprüfung entsprechen die Fachnoten den Erfahrungsnoten.
+
+<sup>4</sup> Die Prüfungsnote entspricht der Leistung oder dem Mittel der Leistungen in den Prüfungen im entsprechenden Fach.
+
+<sup>5</sup> Die Erfahrungsnote ist das Mittel aller Semesterzeugnisnoten im entsprechenden Fach oder im interdisziplinären Arbeiten.
+
+#### Art. 60
+
+**Notenrundung**
+
+<sup>1</sup> Noten, die sich aus dem Mittel mehrerer bewerteter Leistungen ergeben, werden auf halbe oder ganze Noten gerundet, mit Ausnahme der Fachnoten des schulischen Teils, die auf eine Dezimalstelle gerundet werden.
+
+<sup>2</sup> Die Noten der einzelnen Abschlussprüfungen werden auf halbe oder ganze Noten gerundet.
+
+<sup>3</sup> Die Prüfungsnote für das EFZ (betrieblicher oder schulischer Teil) ist das auf eine Dezimalstelle gerundete Mittel sämtlicher zählender Noten.
+
+#### Art. 61
+
+**Formeller Inhalt des Ausweises**
+
+<sup>1</sup> Das EFZ muss formell den diesbezüglichen Vorgaben des Bundes entsprechen.
+
+#### Art. 62
+
+**Erfolgskriterien**
+
+<sup>1</sup> Die EFZ-Prüfung ist bestanden, wenn:
+
+- a) für den betrieblichen Teil
+  - 1\. die Gesamtnote 4 oder höher ist,
+  - 2\. nicht mehr als eine Fachnote ungenügend ist,
+  - 3\. keine Fachnote unter 3 liegt;
+- b) für den schulischen Teil
+  - 1\. die Gesamtnote 4 oder höher ist,
+  - 2\. nicht mehr als zwei Fachnoten ungenügend sind,
+  - 3\. die Summe der gewichteten negativen Fachnotenabweichungen zur Note 4 nicht mehr als 2 Notenpunkte beträgt.
+
+#### Art. 63
+
+**Wiederholung**
+
+<sup>1</sup> Wird die EFZ-Prüfung nicht bestanden oder ist ein Misserfolg vor Beginn des Praktikums absehbar, so kann sie zweimal wiederholt werden.
+
+<sup>2</sup> Wird der betriebliche Teil nicht bestanden, so müssen alle Fächer dieses Teils, in denen beim ersten Versuch eine ungenügende Note erreicht wurde, wiederholt werden. Die Fächer des betrieblichen Teils, in denen eine genügende Note erreicht wurde, werden nicht wiederholt.
+
+<sup>3</sup> Wird der schulische Teil nicht bestanden, so müssen alle Fächer dieses Teils, in denen beim ersten Versuch eine ungenügende Note erreicht wurde, bei der nächsten Prüfungssession erneut geprüft werden. Die Fächer des schulischen Teils, in denen eine genügende Note erreicht wurde, werden nicht erneut geprüft.
+
+<sup>4</sup> Wird ein Fach wiederholt, so zählen die neuen Erfahrungs- und Prüfungsnoten.
+
+<sup>5</sup> Ist die Fachnote Projektarbeiten ungenügend, so gilt folgende Regelung:
+
+- a) Ist die Note «Vertiefen und Vernetzen» ungenügend, so muss ein Modul «Vertiefen und Vernetzen» absolviert und benotet werden; für die Berechnung der neuen Fachnote Projektarbeit zählt nur die neue Note.
+- b) Ist die Note für die selbständige Arbeit ungenügend, so muss die selbständige Arbeit wiederholt werden; für die Berechnung der neuen Fachnote Projektarbeiten zählt nur die neue Note.
+
+<sup>6</sup> Wer weder die Anforderungen für den Erwerb des EFZ noch die Anforderungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren mit EFZ-Abschlussprüfung und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren mit EFZ-Abschlussprüfung wiederholen.
+
+### 5.6 Qualifikationsverfahren Berufsmaturität
+
+#### Art. 64
+
+**Qualifikationsverfahren – Umfang**
+
+<sup>1</sup> Die Berufsmaturität umfasst folgende Fächer:
+
+- a) die vier Fächer des Grundlagenbereichs;
+- b) die zwei Fächer des Schwerpunktbereichs;
+- c) die zwei Fächer des Ergänzungsbereichs (Erfahrungsnoten);
+- d) das interdisziplinäre Arbeiten.
+
+#### Art. 65
+
+**Qualifikationsverfahren – Fächer mit Abschlussprüfungen**
+
+<sup>1</sup> Die Prüfungen müssen den Zielen der Lehrpläne entsprechen.
+
+<sup>2</sup> Geprüft werden die sechs folgenden Fächer:
+
+- a) erste Landessprache (schriftliche und mündliche Prüfung);
+- b) zweite Landessprache (schriftliche und mündliche Prüfung);
+- c) Englisch (schriftliche und mündliche Prüfung);
+- d) Mathematik (schriftliche Prüfung);
+- e) Finanz- und Rechnungswesen (schriftliche Prüfung);
+- f) Wirtschaft und Recht (schriftliche Prüfung).
+
+#### Art. 66
+
+**Notenberechnung**
+
+<sup>1</sup> In den Fächern mit Abschlussprüfung ergibt sich die Fachnote je zur Hälfte aus der Erfahrungsnote und aus der Prüfungsnote.
+
+<sup>2</sup> Die Prüfungsnote entspricht der Leistung oder dem Mittel der Leistungen in den Prüfungen im entsprechenden Fach.
+
+<sup>3</sup> Die Erfahrungsnote ist das Mittel aller Semesterzeugnisnoten im entsprechenden Fach oder im interdisziplinären Arbeiten.
+
+<sup>4</sup> In den Fächern des Ergänzungsbereichs entsprechen die Noten den Erfahrungsnoten.
+
+<sup>5</sup> Im interdisziplinären Arbeiten ergibt sich die Note zu gleichen Teilen aus der Note der interdisziplinären Projektarbeit (IDPA) und der Note des interdisziplinären Arbeitens in den Fächern aller Unterrichtsbereiche (IDAF).
+
+<sup>6</sup> Die Note für die interdisziplinäre Projektarbeit ergibt sich aus der Bewertung des Erarbeitungsprozesses, des Produkts und der Präsentation.
+
+#### Art. 67
+
+**Notenrundung**
+
+<sup>1</sup> Noten, die sich aus dem Mittel mehrerer bewerteter Leistungen ergeben, werden auf halbe oder ganze Noten gerundet.
+
+<sup>2</sup> Die Prüfungsnoten werden auf halbe oder ganze Noten gerundet.
+
+<sup>3</sup> Die Gesamtnote für die Berufsmaturitätsprüfung ist das auf eine Dezimalstelle gerundete Mittel sämtlicher zählender Noten.
+
+#### Art. 68
+
+**Formeller Inhalt des Ausweises**
+
+<sup>1</sup> Das BM-Zeugnis muss formell den diesbezüglichen Vorschriften des Bundes entsprechen.
+
+#### Art. 69
+
+**Erfolgskriterien**
+
+<sup>1</sup> Die BM-Prüfung ist bestanden, wenn:
+
+- a) die Gesamtnote 4 oder höher ist;
+- b) nicht mehr als zwei Fachnoten ungenügend sind;
+- c) die Summe der negativen Fachnotenabweichungen zur Note 4 nicht mehr als 2 Notenpunkte beträgt.
+
+#### Art. 70
+
+**Wiederholung**
+
+<sup>1</sup> Wird die Berufsmaturitätsprüfung nicht bestanden oder ist ein Misserfolg vor Beginn des Praktikums absehbar, so kann sie einmal wiederholt werden.
+
+<sup>2</sup> Sämtliche Fächer des schulischen Teils, in denen eine ungenügende Note erreicht wurde, werden an der nächsten Prüfungssession erneut geprüft. Die Fächer, in denen eine genügende Note erreicht wurde, werden nicht wiederholt.
+
+<sup>3</sup> Für die Fächer des Grundlagen- und des Schwerpunktbereichs zählt bei der Wiederholung einzig die Prüfungsnote, ohne Berücksichtigung der Erfahrungsnote.
+
+<sup>4</sup> Für die Fächer des Ergänzungsbereichs muss bei der Wiederholung eine Prüfung absolviert werden. Es zählt nur die Prüfungsnote.
+
+<sup>5</sup> Bei ungenügender Note im interdisziplinären Arbeiten gelten für die Wiederholung die folgenden Regeln:
+
+- a) Eine ungenügende interdisziplinäre Projektarbeit ist zu überarbeiten. Für die Berechnung der neuen Fachnote für die interdisziplinäre Projektarbeit zählt nur die neue Note.
+- b) Ist die Erfahrungsnote ungenügend, so erfolgt eine mündliche Prüfung zum interdisziplinären Arbeiten. Für die Berechnung der neuen Fachnote für das interdisziplinäre Arbeiten zählt nur die neue Note.
+
+<sup>6</sup> Wird zur Vorbereitung der Wiederholung der Unterricht während mindestens zwei Semestern besucht, so zählen für die Notenberechnung eines wiederholten Fachs nur die neuen Erfahrungs- und Prüfungsnoten.
+
+#### Art. 71
+
+**Folgen des Nichtbestehens**
+
+<sup>1</sup> Wer die Berufsmaturitätsprüfung nicht bestanden hat, erhält das EFZ, sofern die Voraussetzungen für dessen Erwerb erfüllt sind.
+
+### 5.7 Nichtbestehen
+
+#### Art. 72
+
+<sup>1</sup> In allen Fällen eines Nichtbestehens oder wenn sich vor Beginn des Praktikums ein Misserfolg abzeichnet, muss zwischen der oder dem Lernenden und der Schuldirektion ein Gespräch geführt werden.
+
+<sup>2</sup> Um das Langzeitpraktikum beginnen zu können, darf die oder der Lernende im schulischen Teil des Qualifikationsverfahrens für das EFZ keinen provisorischen Misserfolg haben (vor dem Erhalt der Note für das selbständige Arbeiten und/oder die interdisziplinäre Projektarbeit, die während des Praktikumsjahrs vergeben wird).
+
+## 6 Rechtsmittel
+
+#### Art. 73
+
+**Zulassungsentscheid**
+
+<sup>1</sup> Gegen den Entscheid der Nichtaufnahme einer Schülerin oder eines Schülers (Art. 2 dieses Reglements) kann innert 10 Tagen nach Mitteilung bei der Schuldirektion Einsprache erhoben werden.
+
+<sup>2</sup> Gegen den neuen Entscheid der Schuldirektion kann innert 10 Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
+
+#### Art. 74
+
+**Nichtpromotionsentscheid**
+
+<sup>1</sup> Gegen den Entscheid über die Nichtbeförderung am Ende des Schuljahres kann innert 10 Tagen ab Mitteilung bei der Schuldirektion Einsprache erhoben werden.
+
+<sup>2</sup> Gegen den neuen Entscheid der Schuldirektion kann innert 10 Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
+
+#### Art. 75
+
+**Entscheid gegen die Erteilung der Zeugnisse – Einsprache**
+
+<sup>1</sup> Gegen die Verweigerung des EFZ und/oder des BM-Zeugnisses und den Ausschluss von den Prüfungen kann innert fünf Tagen nach Mitteilung der Resultate bei der Präsidentin oder beim Präsidenten der Prüfungskommission Einsprache erhoben werden. Diese Einsprache muss schriftlich erfolgen und begründet werden.
+
+<sup>2</sup> Abgesehen von besonderen Umständen, die der Einsprecherin oder dem Einsprecher mitgeteilt werden müssen, erlässt der Prüfungsausschuss innerhalb von zwanzig Tagen, nachdem er die beteiligten Examinatorinnen und Examinatoren und Expertinnen und Experten angehört hat, einen neuen Entscheid.
+
+#### Art. 76
+
+**Entscheid gegen die Erteilung der Zeugnisse – Beschwerde**
+
+<sup>1</sup> Gegen den Einspracheentscheid des Prüfungsausschusses kann innert zehn Tagen ab Mitteilung bei der Direktion Beschwerde eingereicht werden.
+
+<sup>2</sup> Der Entscheid der Direktion kann innert 30 Tagen ab Mitteilung mit Beschwerde beim Kantonsgericht angefochten werden.
+
+## 7 Schlussbestimmungen
+
+#### Art. 77
+
+**Übergangsbestimmungen**
+
+<sup>1</sup> Für Lernende, die ihre Ausbildung vor dem Schuljahr 2015/16 begonnen haben, gilt das bisherige Recht.
+
+<sup>2</sup> Lernende, die ihre Ausbildung vor dem Schuljahr 2015/16 begonnen haben und die wiederholen müssen, können selber entscheiden, ob sie die Ausbildung nach dem bisherigen Recht oder nach dem neuen Recht abschliessen wollen.
+
+#### Art. 78
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Aufgehoben werden:
+
+- a) das Reglement vom 21. Januar 1992 über das Handelsdiplom (SGF 412.3.11);
+- b) das Reglement vom 22. August 2006 über die kaufmännische Berufsmaturität (SGF 412.3.12).
+
+#### Art. 79
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement tritt am 1. August 2016 in Kraft.
+
+2016\_086

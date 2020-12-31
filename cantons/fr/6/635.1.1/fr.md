@@ -1,0 +1,776 @@
+---
+canton: FR
+number: "635.1.1"
+title: Loi sur les droits de mutation et les droits sur les gages immobiliers
+short: LDMG
+language: fr
+version: 2021-01-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-16
+adopted: 1996-05-01
+in_force: 1997-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.1.1"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6667/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur les droits de mutation et les droits sur les gages immobiliers
+
+Droits de mutation et droits sur les gages immobiliers – L
+
+(LDMG)
+
+du 01.05.1996 (version entrée en vigueur le 01.01.2021)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu l'article 15 al. 1 de la Constitution du canton de Fribourg du 7 mai 1857;
+
+Vu le message du Conseil d'Etat du 27 juin 1995;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Souveraineté – Etat**
+
+<sup>1</sup> L'Etat prélève:
+
+- a) des droits de mutation sur les transferts immobiliers à titre onéreux ayant pour objet des immeubles situés dans le canton (ci-après: droits de mutation);
+- b) des droits sur les gages immobiliers grevant des immeubles situés dans le canton.
+
+#### Art. 2
+
+**Souveraineté – Communes**
+
+<sup>1</sup> Les communes peuvent prélever des centimes additionnels aux droits de mutation relatifs aux immeubles situés sur leur territoire.
+
+<sup>2</sup> Lorsque deux ou plusieurs communes du canton sont concernées par une même opération, la répartition des centimes additionnels est faite en prenant comme clé les bases de calcul retenues pour le prélèvement des droits de mutation et afférentes aux immeubles respectifs.
+
+<sup>3</sup> Les décisions relatives aux droits de mutation ont force obligatoire dans la même mesure pour les centimes additionnels.
+
+#### Art. 3
+
+**Transferts immobiliers – En général**
+
+<sup>1</sup> Sont considérées comme transferts immobiliers:
+
+- a) toute acquisition de la propriété juridique d'un immeuble, y compris la constitution de droits distincts et permanents immatriculés au registre foncier;
+- b) la constitution de droits d'usufruit ou d'habitation ainsi que la constitution et la cession de droits de superficie et de droits d'usage de places de parc, de terrasses, de balcons et de locaux annexes;
+- c) …
+
+<sup>2</sup> Le renouvellement ou la prolongation de droits visés à l'alinéa 1 valent constitution.
+
+#### Art. 4
+
+**Transferts immobiliers – Cas particuliers**
+
+<sup>1</sup> Sont assimilés à des transferts immobiliers:
+
+- a) l'acquisition résultant d'un changement des personnes au sein d'une communauté en main commune ou d'une modification des parts des personnes composant cette communauté, notamment à l'occasion d'un partage;
+- a1) l'exercice d'un droit préalablement acquis portant sur l'exploitation de la substance d'un immeuble, notamment les mines, les carrières, les gravières, les tourbières;
+- b) l'acquisition d'une construction consécutive à l'extinction ou au retour relatifs à un droit de superficie;
+- c) la cession du droit d'acquérir un immeuble ou une part d'immeuble ainsi que la renonciation à un tel droit;
+- d) la cession d'un droit de préemption lorsqu'elle est opérée à partir de la survenance du cas de préemption et la renonciation à un droit de préemption qualifié lorsqu'elle est opérée à partir d'une pareille survenance et en faveur d'un tiers;
+- e) l'acquisition, en une ou plusieurs opérations, de la participation majoritaire directe ou indirecte dans une société immobilière; le prélèvement a également lieu si, par une acquisition minoritaire, l'acquéreur accroît sa majorité;
+- f) toute opération juridique effectuée pour éluder le prélèvement de droits ou de centimes additionnels.
+
+#### Art. 5
+
+**Gages immobiliers**
+
+<sup>1</sup> Les droits sur les gages immobiliers sont prélevés lors:
+
+- a) de la constitution d'une hypothèque, d'une cédule hypothécaire ou d'une lettre de rente;
+- b) de l'augmentation du montant du gage;
+- c) de la cession d'un gage immobilier servant à garantir des prêts consentis par la Confédération en application de la législation sur l'encouragement de la construction et de l'accession à la propriété.
+
+#### Art. 6
+
+**Immeubles**
+
+<sup>1</sup> Sont considérés comme immeubles au sens de la présente loi les immeubles définis par l'article 655 du code civil suisse.
+
+#### Art. 7
+
+**Sociétés immobilières**
+
+<sup>1</sup> Sont des sociétés immobilières:
+
+- a) celles dont l'activité effective consiste principalement à acquérir des immeubles ou à aliéner, gérer ou exploiter un ou des immeubles leur appartenant;
+- b) celles dont les immeubles représentent le principal actif;
+- c) celles dont la participation directe ou indirecte à des sociétés visées aux lettres a et b représente, isolément ou compte tenu d'une propriété d'immeuble, le principal actif.
+
+#### Art. 8
+
+**Exemptions**
+
+<sup>1</sup> Sont exemptés des droits:
+
+- a) l'Etat de Fribourg;
+- b) la Confédération ainsi que les établissements fédéraux et cantonaux, si les lois spéciales le prévoient.
+
+#### Art. 9
+
+**Exonérations – Transferts immobiliers**
+
+<sup>1</sup> Sont exonérés des droits de mutation:
+
+- a) les transferts immobiliers à des établissements ou corporations de droit public cantonal, ou à des groupements de telles corporations, dans la mesure où les immeubles sont directement et durablement affectés à un but d'éducation, d'instruction et de santé publiques ou d'aide et de prévoyance sociales;
+- a1) les transferts immobiliers aux communes, aux associations de communes, aux bourgeoisies et aux agglomérations, dans la mesure où les immeubles sont directement et durablement affectés à des fins publiques;
+- b) les transferts immobiliers aux corporations ecclésiastiques et aux personnes juridiques canoniques reconnues de droit public, dans la mesure où les immeubles sont directement et irrévocablement affectés à un but religieux, éducatif ou social;
+- c) les transferts immobiliers à des institutions privées, dans la mesure où les immeubles sont directement et irrévocablement affectés à un but d'utilité publique dans le domaine de l'instruction et de la santé publiques ou de l'aide et de la prévoyance sociales et aident ainsi les collectivités publiques du canton dans leurs tâches légalement prescrites;
+- d) les transferts immobiliers effectués à titre de dotation d'institutions de prévoyance professionnelle conformes à la législation spéciale, pour autant qu'ils portent sur des objets destinés à être affectés durablement et exclusivement à la prévoyance en faveur du personnel;
+- e) les transferts immobiliers en cas de restructuration au sens des articles 20 al. 1 et 103 al. 1 et 4 de la loi du 6 juin 2000 sur les impôts cantonaux directs; les droits de mutation sont prélevés en cas de réalisation des conditions d'un rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs;
+- e<sup>bis</sup>) les transferts immobiliers au sens de l'article 4 let. e dans une société immobilière dont les immeubles représentent le principal actif, dans la mesure où la société les affecte en tout ou en partie à l'exploitation de son commerce ou de son industrie;
+- f) les transferts immobiliers entre parents en ligne directe ou entre époux;
+- f1) les transferts immobiliers tenant lieu de partage entre ex-époux, lorsqu'ils portent sur le logement familial occupé par l'un ou l'autre des ex-époux;
+- g) les transferts immobiliers dans la mesure où ces derniers éteignent une obligation d'entretien ou d'aliments fondée sur le droit de la famille ou une obligation d'indemnisation fondée sur le droit du divorce;
+- h) les transferts immobiliers tenant lieu de partage total ou partiel entre parents, ou consécutifs à de telles opérations, lorsqu'ils portent sur des objets provenant de ligne directe; ces transferts sont par ailleurs exonérés lorsqu'ils sont opérés entre ces parents et le conjoint survivant; ils sont également exonérés s'ils sont opérés entre ces parents et le conjoint divorcé lorsqu'ils portent sur des objets acquis sur la base d'un jugement de divorce;
+- i) la transformation d'une forme de propriété collective immobilière en une autre forme, sans que les personnes ni les parts changent;
+- j) la conversion d'un droit d'usufruit en un droit d'habitation équivalent ou inversement;
+- k) les transferts juridiques d'immeubles d'une société immobilière, si et dans la mesure où, pour les personnes physiques qui en détiennent directement ou indirectement les droits de participation, un nouveau prélèvement constituerait économiquement une double imposition en raison d'un prélèvement déjà opéré en application de l'article 4 let. e; sont par ailleurs exonérés les transferts juridiques d'immeubles d'une société immobilière à un détenteur de droits de participation revêtant la qualité de personne physique, en proportion de ses droits et en cas de liquidation totale de la société;
+- l) les transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service en charge des améliorations foncières[^9-1] ou le Service des forêts et de la nature ainsi que les transferts de propriétés réalisés en vue d'une régularisation peu importante de limites dictées par des raisons cadastrales;
+- m) les cas expressément prévus par d'autres dispositions légales.
+
+<sup>2</sup> Les partenaires enregistrés ont le même statut que les époux.
+
+[^9-1]: Actuellement: Service de l'agriculture.
+
+#### Art. 10
+
+**Exonérations – Gages immobiliers**
+
+<sup>1</sup> Sont exonérés des droits sur les gages immobiliers:
+
+- a) les hypothèques légales directes ou indirectes;
+- b) l'hypothèque conventionnelle en faveur du vendeur, de cohéritiers ou d'indivis, si la créance hypothécaire est stipulée incessible et si le gage sert à garantir le paiement du prix de vente, respectivement la soulte ou le partage;
+- c) l'extension de l'objet d'un gage et le fractionnement ou la réunion de gages de même sorte, sans augmentation du montant total et pour autant que le gage primitif ait été constitué sur un immeuble situé dans le canton;
+- d) les cas expressément prévus par d'autres dispositions légales.
+
+#### Art. 11
+
+**Débiteurs**
+
+<sup>1</sup> Les droits et les centimes additionnels sont dus:
+
+- a) par l'acquéreur en cas de transfert immobilier;
+- b) par les copermutants en cas d'échange; pour la soulte éventuelle, par le débiteur de cette dernière;
+- c) par le bénéficiaire en cas de constitution de droits réels limités ou de mise à disposition du droit d'exploitation d'un immeuble et par le cessionnaire en cas de cession de tels droits;
+- d) par le cédant du droit d'acquérir un immeuble ou une part d'immeuble, respectivement par le renonçant à un tel droit, et par le cédant d'un droit de préemption ou le renonçant à un tel droit;
+- e) par le propriétaire de l'objet du gage en matière de gage immobilier.
+
+<sup>2</sup> S'il y a plusieurs débiteurs, ils sont solidairement responsables du paiement.
+
+<sup>3</sup> Les héritiers répondent solidairement, jusqu'à concurrence de leur part héréditaire, du paiement des droits et des centimes additionnels dus par le défunt.
+
+## 2 Bases de calcul des droits
+
+#### Art. 12
+
+**Transferts immobiliers – Principes**
+
+<sup>1</sup> Les droits sont calculés sur la base des prestations convenues, pour autant qu'elles représentent au moins la valeur vénale de l'immeuble et de ses parties intégrantes, ou la valeur réelle du droit limité, au jour de la conclusion de l'acte donnant lieu au transfert; les articles 14 et 15 sont toutefois réservés.
+
+<sup>2</sup> Les prestations convenues sont présumées correspondre à ces valeurs. Sont comptées à ce titre toutes celles auxquelles l'acquéreur s'oblige à l'égard de l'autre partie ou de tiers; l'extinction d'une obligation imparfaite constitue également une prestation.
+
+<sup>3</sup> En cas de vente immobilière forcée, les droits de mutation sont calculés sur la base des prestations convenues.
+
+#### Art. 13
+
+**Transferts immobiliers – Cas particuliers a) Droit d'acquérir et droit de préemption**
+
+<sup>1</sup> Pour la cession ou la renonciation portant sur un droit d'acquérir un immeuble ou portant sur un droit de préemption, la base de calcul comprend la prestation due pour l'acquisition du droit.
+
+#### Art. 14
+
+**Transferts immobiliers – Cas particuliers b) Vente clés en main ou liée à un contrat d'entreprise**
+
+<sup>1</sup> En cas de vente d'un immeuble clés en main, ou de vente liée à un contrat d'entreprise, les droits sont calculés sur le prix global, à savoir le prix du terrain et le prix de l'ouvrage terminé. La réquisition d'inscription au registre foncier doit être accompagnée du contrat d'entreprise lié à l'acte de transfert.
+
+#### Art. 15
+
+**Transferts immobiliers – Cas particuliers c) Participation aux frais**
+
+<sup>1</sup> En cas de participation de l'acquéreur aux frais d'infrastructure ou d'équipement d'un terrain à bâtir, la base de calcul est donnée par la totalité de la valeur des travaux à la charge de l'acquéreur.
+
+#### Art. 16
+
+**Transferts immobiliers – Cas particuliers d) Prestations périodiques**
+
+<sup>1</sup> La base de calcul du transfert immobilier dont la contrepartie consiste en des prestations périodiques est donnée par la capitalisation qui s'effectue d'après les tables usuelles ayant cours en matière judiciaire selon le caractère de rente certaine, viagère ou perpétuelle; toutefois, pour les droits de durée indéterminée, incessibles, intransmissibles et de nature personnelle transférés à une personne morale, la capitalisation s'opère comme pour une rente d'une durée de vingt ans.
+
+<sup>2</sup> Les taux nécessaires pour opérer la capitalisation sont fixés par le Conseil d'Etat.
+
+#### Art. 16a
+
+**Transferts immobiliers – Cas particuliers d1) Exploitation de la substance d'un immeuble**
+
+<sup>1</sup> Pour l'exploitation de la substance d'un immeuble, notamment les mines, les carrières, les gravières, les tourbières, la base de calcul est donnée par la prestation due pour l'acquisition du droit et par la prestation due pour l'exercice du droit.
+
+<sup>2</sup> Lorsque les prestations dues pour l'acquisition ou l'exercice du droit consistent en des prestations périodiques, les droits sont prélevés annuellement pour chaque période fiscale.
+
+<sup>3</sup> La période fiscale correspond à l'année civile ou, le cas échéant, à l'exercice commercial.
+
+#### Art. 17
+
+**Transferts immobiliers – Cas particuliers e) Acte mixte**
+
+<sup>1</sup> Si la valeur de la prestation de l'acquéreur est disproportionnée par rapport à la valeur de l'objet acquis, l'opération est assimilée à un transfert à titre onéreux dans sa totalité, à moins que les circonstances ne permettent de retenir qu'une telle différence de valeur correspond à l'intention d'effectuer une libéralité.
+
+#### Art. 18
+
+**Transferts immobiliers – Cas particuliers f) Echange**
+
+<sup>1</sup> Pour l'échange, la base de calcul est donnée par la valeur d'un seul des objets échangés si ces derniers ont une valeur égale. Si les objets n'ont pas une valeur égale, la base de calcul est donnée par la valeur la plus élevée; s'il y a une soulte, la base de calcul est donnée par la valeur la plus basse ainsi que par la soulte.
+
+#### Art. 19
+
+**Transferts immobiliers – Cas particuliers g) Acquisition ou accroissement d'une participation**
+
+<sup>1</sup> Pour l'acquisition ou l'accroissement d'une participation dans une société immobilière, la base de calcul est donnée par la valeur vénale attribuée à l'immeuble en proportion des actions ou des parts sociales acquises.
+
+#### Art. 20
+
+**Gages immobiliers**
+
+<sup>1</sup> Les droits sur les gages immobiliers sont prélevés sur le montant inscrit au registre foncier, respectivement sur son augmentation.
+
+## 3 Taux
+
+#### Art. 21
+
+**Transferts immobiliers – Droits de mutation**
+
+<sup>1</sup> Les droits de mutation sont prélevés au taux de 1,5 %.
+
+#### Art. 22
+
+**Transferts immobiliers – Centimes additionnels communaux**
+
+<sup>1</sup> Le taux des centimes additionnels ne peut excéder 100 % des droits de mutation.
+
+<sup>2</sup> Est applicable le taux en vigueur lors de la conclusion de l'acte de transfert.
+
+<sup>3</sup> Chaque commune informe le bureau du registre foncier de son district du taux de ses centimes additionnels ainsi que de chaque modification de ce taux.
+
+#### Art. 23
+
+**Gages immobiliers**
+
+<sup>1</sup> Les droits sur les gages immobiliers sont prélevés au taux de 0,75 %.
+
+<sup>2</sup> Ils sont prélevés au taux de 0,40 % pour les gages immobiliers servant à garantir des prêts consentis par la Confédération en application de la législation sur l'encouragement de la construction et de l'accession à la propriété.
+
+<sup>3</sup> Ils sont prélevés au taux de 0,35 % pour les cessions des gages immobiliers visés à l'alinéa 2.
+
+## 4 Autorités d'application
+
+#### Art. 24
+
+**Autorités**
+
+<sup>1</sup> Les autorités d'application sont:
+
+- a) le Conseil d'Etat;
+- b) la Direction dont relève l'impôt sur les mutations immobilières[^24-1] (ci-après: la Direction);
+- c) les Registres fonciers;
+- d) le service chargé de l'encaissement[^24-2].
+
+<sup>2</sup> Le Service chargé des impôts directs[^24-3] communique sur demande les éléments nécessaires à l'application de la présente loi. Ces données peuvent être rendues accessibles au moyen d'une procédure d'appel électronique.
+
+<sup>3</sup> Le Service chargé des impôts directs communique d'office au Registre foncier compétent les cas de transfert d'actions ou de parts sociales au sens de l'article 4 al. 1 let. e qui sont parvenus à sa connaissance ainsi que les cas de rappel d'impôt au sens des articles 20 al. 2 et 103 al. 3 et 5 de la loi du 6 juin 2000 sur les impôts cantonaux directs.
+
+<sup>4</sup> La Direction chargée de l'aménagement du territoire et des constructions[^24-4] communique d'office au Registre foncier compétent les autorisations d'exploitation de la substance d'un immeuble qu'elle délivre.
+
+[^24-1]: Actuellement: Direction des finances.
+[^24-2]: Actuellement: Service financier cantonal.
+[^24-3]: Actuellement: Service cantonal des contributions.
+[^24-4]: Actuellement: Direction de l'aménagement, de l'environnement et des constructions.
+
+#### Art. 25
+
+**Attributions – Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'exécution de la présente loi et exerce la haute surveillance en la matière.
+
+#### Art. 26
+
+**Attributions – Direction**
+
+<sup>1</sup> La Direction veille à une application uniforme de la présente loi; elle donne les instructions nécessaires aux organes administratifs chargés de l'appliquer et peut procéder à des contrôles.
+
+<sup>2</sup> Elle statue:
+
+- a) sur les réclamations dans les cas prévus par la présente loi;
+- b) sur les cas d'exonération prévus à l'article 9 al. 1 let. a à e<sup>bis</sup>; ces cas peuvent faire l'objet d'une demande d'exonération préalable à l'opération de transfert immobilier;
+- c) sur les cas de remise.
+
+<sup>3</sup> Elle prononce les amendes prévues par la présente loi pour les contraventions et dénonce au juge pénal ordinaire les cas d'infraction visés à l'article 58 al. 1
+
+#### Art. 27
+
+**Attributions – Registres fonciers**
+
+<sup>1</sup> Les Registres fonciers sont autorité de taxation et de rappel pour les droits et les centimes additionnels concernant les immeubles situés sur le territoire de leur district.
+
+<sup>2</sup> Si une opération porte sur des immeubles situés dans deux ou plusieurs districts et qu'il ne puisse pas être procédé à des taxations distinctes, il appartient au Registre foncier auquel est rattaché l'immeuble ayant la plus grande surface de procéder à la taxation dans son ensemble.
+
+<sup>3</sup> Les Registres fonciers statuent d'office sur les cas d'exonération non dévolus à la Direction et statuent sur les demandes en restitution de l'indu.
+
+#### Art. 28
+
+**Attributions – Service chargé de l'encaissement**
+
+<sup>1</sup> Le service chargé de l'encaissement recouvre et comptabilise les droits, les centimes additionnels, les intérêts moratoires et les amendes.
+
+<sup>2</sup> Il prélève, pour l'Etat, une commission d'encaissement calculée sur le capital des centimes additionnels dus et dont le taux est fixé par le Conseil d'Etat.
+
+<sup>3</sup> Il est compétent pour accorder un sursis ou autoriser un versement par acomptes et requérir l'inscription de l'hypothèque légale.
+
+## 5 Taxation
+
+#### Art. 29
+
+**Eléments – avec inscription au registre foncier**
+
+<sup>1</sup> La taxation se fait sur la base des pièces justificatives jointes à la réquisition d'inscription au registre foncier.
+
+<sup>2</sup> Pour les transferts immobiliers, ces pièces doivent comprendre ou être accompagnées d'une indication, écrite et revêtue de la signature des parties ou de leurs représentants à l'acte, chiffrant toutes les prestations convenues.
+
+<sup>3</sup> Les parties et leurs représentants à l'acte, l'officier public instrumentant et la commune concernée doivent fournir les indications complémentaires qui leur sont demandées; les articles 142, 149, 159, 160 et 162 de la loi du 6 juin 2000 sur les impôts cantonaux directs sont au surplus applicables.
+
+<sup>4</sup> Si les prestations convenues ne sont pas chiffrées ou ne paraissent pas correspondre à la valeur vénale ou réelle, ou si des éléments suffisants font défaut, les Registres fonciers peuvent fixer les droits par appréciation sur la base des données dont ils disposent, au besoin après avoir soumis le cas à une commission d'estimation.
+
+#### Art. 30
+
+**Eléments – sans inscription au registre foncier**
+
+<sup>1</sup> Dans le cas où une inscription au registre foncier n'est pas nécessaire, le débiteur des droits ou son représentant à l'acte est tenu d'annoncer au Registre foncier compétent l'opération soumise aux droits ou la réalisation de la condition fondant le prélèvement des droits dans les trente jours dès la passation de l'acte ou dès la réalisation de la condition. Si une autorisation est nécessaire, le délai est suspendu tant que dure la procédure, et l'annonce doit avoir lieu dans les trente jours suivant la réception de l'autorisation.
+
+<sup>2</sup> Les transferts d'actions ou de parts sociales au sens de l'article 4 let. e doivent être annoncés au Registre foncier dans les trente jours dès la première opération imposable, puis, le cas échéant, dans les trente jours à compter de chaque opération ultérieure.
+
+<sup>2a</sup> L'exercice du droit d'exploiter la substance d'un immeuble doit être annoncé au Registre foncier dans les trente jours. Lorsque la taxation est annuelle, le bénéficiaire du droit communique chaque année, dans les trois mois dès la fin de la période fiscale, les pièces nécessaires à la fixation de la base de calcul, tel le décompte des mètres cubes extraits.
+
+<sup>3</sup> La personne instrumentant l'opération est tenue d'informer le débiteur ou son représentant à l'acte de son obligation d'en faire l'annonce dans les délais.
+
+<sup>4</sup> La taxation se fait sur la base des pièces justificatives qui doivent être déposées lors de l'annonce. L'article 29 al. 2 à 4 est au surplus applicable.
+
+#### Art. 31
+
+**Forme**
+
+<sup>1</sup> La taxation fait l'objet d'un bordereau daté et signé contenant la base d'imposition, le montant des droits et des centimes additionnels. Lorsque l'autorité de taxation s'écarte de la base de calcul résultant des éléments fournis par les parties, elle en indique les motifs essentiels.
+
+<sup>2</sup> Le bordereau est adressé au débiteur avec l'indication d'un délai de paiement de trente jours, des conséquences prévues aux articles 42 et 43 et de la voie de droit utilisable.
+
+## 6 Voies de droit
+
+#### Art. 32
+
+**Réclamation – Décisions sujettes à réclamation**
+
+<sup>1</sup> Le débiteur peut, dans les trente jours dès la notification du bordereau, interjeter une réclamation.
+
+<sup>2</sup> Une réclamation peut également être interjetée, dans les trente jours, contre les décisions relatives au rappel, à une contravention, à une restitution de l'indu, à une exonération prise en application de l'article 9 al. 1 let. a à e<sup>bis</sup> ou à l'intérêt moratoire ou rémunératoire.
+
+#### Art. 33
+
+**Réclamation – Autorités**
+
+<sup>1</sup> La Direction connaît des réclamations élevées à l'encontre des bordereaux, des décisions relatives au rappel, à une restitution de l'indu, à une exonération visée à l'article 9 al. 1 let. a à ebis, à une contravention et à l'intérêt moratoire ou rémunératoire.
+
+#### Art. 34
+
+**Réclamation – Forme et contenu**
+
+<sup>1</sup> La réclamation doit être écrite, brièvement motivée et contenir les conclusions du réclamant.
+
+<sup>2</sup> L'autorité de réclamation peut accorder un délai supplémentaire pour compléter l'exposé des motifs.
+
+<sup>3</sup> Les réclamations qui ne contiennent ni conclusions ni motifs sont irrecevables.
+
+#### Art. 35
+
+**Réclamation – Effet suspensif**
+
+<sup>1</sup> La réclamation suspend l'exigibilité de la créance mais non le cours de l'intérêt moratoire.
+
+#### Art. 36
+
+**Réclamation – Instruction et décision**
+
+<sup>1</sup> L'autorité de réclamation dispose des mêmes compétences que lors de la prise de la décision attaquée.
+
+<sup>2</sup> Elle vérifie la décision dans son ensemble, sans être liée par les conclusions du réclamant, même au désavantage de celui-ci et sans égard à un éventuel retrait de réclamation. Lorsque l'autorité envisage une modification de la décision au détriment du réclamant, elle l'en avise et lui fixe un délai pour présenter ses observations et produire éventuellement de nouveaux moyens de preuve.
+
+<sup>3</sup> Les décisions sur réclamation doivent être motivées et indiquer la voie de droit utilisable.
+
+#### Art. 37
+
+**Recours – Décisions sujettes à recours**
+
+<sup>1</sup> Les décisions sur réclamation et les décisions concernant la remise peuvent faire l'objet d'un recours au Tribunal cantonal.
+
+<sup>2</sup> Les décisions concernant le sursis et le versement par acomptes ne sont pas susceptibles de recours.
+
+#### Art. 38
+
+**Recours – Procédure**
+
+<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative, sous réserve des dispositions qui suivent.
+
+#### Art. 39
+
+**Recours – Effet suspensif**
+
+<sup>1</sup> Le recours suspend l'exigibilité de la créance mais non le cours de l'intérêt moratoire.
+
+#### Art. 40
+
+**Recours – Instruction et retrait du recours**
+
+<sup>1</sup> Le président de l'autorité de recours procède à l'instruction de la cause. Il peut déléguer, par voie de compétence générale ou spéciale, ses compétences à un autre membre de l'autorité ou à un greffier rapporteur.
+
+<sup>2</sup> L'autorité d'instruction dispose des mêmes compétences que l'autorité de première instance.
+
+<sup>3</sup> Lorsque l'autorité envisage une modification de la décision au détriment du recourant, elle en avise le recourant et l'autorité dont le décision est attaquée et elle leur fixe un délai pour présenter leurs observations et produire éventuellement de nouveaux moyens de preuve.
+
+<sup>4</sup> L'autorité n'est pas liée par un éventuel retrait de recours.
+
+#### Art. 41
+
+**Révision**
+
+<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 de la loi du 6 juin 2000 sur les impôts cantonaux directs applicables par analogie.
+
+## 7 Perception
+
+#### Art. 42
+
+**Délai de paiement - Intérêt moratoire**
+
+<sup>1</sup> Les droits et les centimes additionnels doivent être payés au service chargé de l'encaissement dans un délai de trente jours.
+
+<sup>2</sup> Pour les droits et les centimes additionnels non payés dans le délai, il est dû dès l'échéance un intérêt moratoire aux conditions fixées par la Direction.
+
+#### Art. 43
+
+**Sommation - Poursuite**
+
+<sup>1</sup> Pour les droits et les centimes additionnels non payés dans les trente jours à partir de l'échéance, le service chargé de l'encaissement notifie une sommation au débiteur.
+
+<sup>2</sup> Si le paiement n'est pas effectué dans le délai fixé par la sommation, une poursuite peut être introduite.
+
+<sup>3</sup> Si le débiteur n'a pas de domicile en Suisse ou si un séquestre a été ordonné sur tout ou partie de ses biens, une poursuite peut être introduite sans sommation préalable.
+
+<sup>4</sup> Les frais de perception sont mis à la charge du débiteur.
+
+#### Art. 44
+
+**Garanties**
+
+<sup>1</sup> Le paiement des droits, des centimes additionnels et de l'intérêt moratoire est garanti par une hypothèque légale (art. 73 LACC).
+
+#### Art. 45
+
+**Sursis et acomptes**
+
+<sup>1</sup> Si le paiement, dans le délai prévu, des droits, des centimes additionnels ou de l'amende prononcée par la Direction devait avoir pour le débiteur des conséquences particulièrement dures, il pourrait être accordé, sur demande motivée, un sursis ou la possibilité d'effectuer un versement par acomptes.
+
+<sup>2</sup> L'intérêt moratoire reste dû.
+
+#### Art. 46
+
+**Remise**
+
+<sup>1</sup> Exceptionnellement, les droits, les centimes additionnels et l'intérêt moratoire peuvent, sur demande, être remis totalement ou partiellement au débiteur qui est tombé dans le dénuement ou qui, pour toute autre raison, se trouve dans une situation telle que le paiement aurait pour lui des conséquences trop dures.
+
+<sup>2</sup> La demande en remise doit être écrite, motivée et accompagnée des preuves nécessaires.
+
+<sup>3</sup> La Direction statue, au besoin après avoir requis le préavis de la commune créancière des centimes additionnels.
+
+<sup>4</sup> La demande en remise ne suspend pas le délai de réclamation.
+
+#### Art. 47
+
+**Rappel**
+
+<sup>1</sup> Lorsque, en raison de faits ou de moyens de preuve que l'autorité compétente ne pouvait pas connaître, une taxation définitive est restée incomplète, même en l'absence de faute du débiteur, l'autorité de taxation procède au rappel des droits et des centimes additionnels.
+
+<sup>2</sup> L'application des dispositions pénales est réservée.
+
+#### Art. 48
+
+**Demande en restitution de l'indu – Conditions**
+
+<sup>1</sup> Le débiteur peut, sur demande, obtenir la restitution des droits, des centimes additionnels, de l'intérêt moratoire ou d'une amende qu'il a payés:
+
+- a) lorsque l'opération soumise à prélèvement est frappée d'annulation judiciaire;
+- b) lorsque les parties ont annulé l'opération soumise à prélèvement et que le débiteur apporte la preuve que les conditions d'une cause légale de nullité ou d'annulabilité sont réunies;
+- c) lorsque la décision en vertu de laquelle il a payé est annulée ou modifiée par suite de réclamation, de recours ou de révision;
+- d) lorsque, par erreur, il a payé ce qu'il ne devait pas ou plus qu'il ne devait;
+- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite sont remplies.
+
+<sup>2</sup> La restitution n'a pas lieu lorsqu'il se révèle que l'opération ayant fondé le prélèvement comprend une soustraction commise intentionnellement.
+
+<sup>3</sup> La restitution se fait avec un intérêt calculé dès le jour du paiement à un taux fixé par la Direction.
+
+#### Art. 49
+
+**Demande en restitution de l'indu – Forme - autorité**
+
+<sup>1</sup> La demande doit être formulée par écrit, motivée et adressée à l'autorité de taxation.
+
+#### Art. 50
+
+**…**
+
+## 8 Dispositions pénales
+
+#### Art. 51
+
+**Contraventions – Inobservation de prescriptions d'ordre**
+
+<sup>1</sup> Celui qui, malgré une sommation et sans qu'il y ait soustraction ni tentative de soustraction, enfreint intentionnellement ou par négligence une obligation qui lui incombe en vertu de la présente loi ou d'une mesure prise en application de celle-ci est passible d'une amende de 1000 francs au plus.
+
+<sup>2</sup> Dans les cas graves ou de récidive, l'amende est de 10'000 francs au plus.
+
+#### Art. 52
+
+**Contraventions – Inobservation du devoir d'informer et du devoir de diligence**
+
+<sup>1</sup> Celui qui, intentionnellement ou par négligence et sans participation à soustraction, n'informe pas le débiteur, ou son représentant à l'acte, de son obligation d'annoncer dans les délais une opération soumise aux droits est passible d'une amende de 1000 francs au plus.
+
+<sup>2</sup> Dans les cas graves ou de récidive, l'amende est de 5000 francs au plus.
+
+<sup>3</sup> Les alinéas 1 et 2 sont également applicables à l'officier public instrumentant qui ne respecte pas les délais ou les devoirs de diligence prévus par des dispositions légales particulières et relatifs à une réquisition d'inscription au registre foncier portant sur une opération soumise aux droits.
+
+#### Art. 53
+
+**Contraventions – Soustraction a) Commission**
+
+<sup>1</sup> Le débiteur qui, intentionnellement ou par négligence, aura fait en sorte qu'une taxation ne soit pas effectuée alors qu'elle aurait dû l'être, notamment en n'annonçant pas dans le délai légal une opération ou la réalisation d'une condition fondant un prélèvement, aura fait en sorte qu'une taxation définitive soit incomplète ou aura obtenu une restitution illégale ou une remise injustifiée est passible d'une amende allant d'une à quatre fois le montant des droits soustraits.
+
+<sup>2</sup> Lorsque le débiteur annonce spontanément la soustraction, l'amende est en règle générale réduite jusqu'à la moitié des droits soustraits.
+
+<sup>3</sup> Les droits et les centimes additionnels sont dus en plus de l'amende.
+
+#### Art. 54
+
+**Contraventions – Soustraction b) Tentative**
+
+<sup>1</sup> Le débiteur qui aura intentionnellement tenté de commettre une soustraction est passible d'une amende allant jusqu'aux deux tiers de la peine qui serait infligée si la soustraction avait été consommée.
+
+#### Art. 55
+
+**Contraventions – Soustraction c) Instigation et complicité**
+
+<sup>1</sup> Celui qui aura intentionnellement incité autrui à commettre une soustraction ou lui aura intentionnellement prêté assistance est passible, si la soustraction a été commise et indépendamment de la peine encourue par le débiteur, d'une amende de 10'000 francs au plus. Dans les cas graves ou de récidive, l'amende est de 20'000 francs au plus.
+
+<sup>2</sup> En outre, le paiement solidaire des droits et des centimes additionnels soustraits pourra être exigé de l'instigateur ou du complice.
+
+<sup>3</sup> La présente disposition est également applicable, par analogie, à la personne morale qui aura incité, prêté son assistance ou participé, dans l'exercice de son activité, à la soustraction commise par un tiers.
+
+#### Art. 56
+
+**Contraventions – Contravention au profit d'une personne morale**
+
+<sup>1</sup> Lorsqu'une contravention a été commise au profit d'une personne morale, celle-ci est punissable de l'amende.
+
+<sup>2</sup> L'article 55 est par ailleurs réservé à l'égard des organes ou des représentants de la personne morale.
+
+#### Art. 57
+
+**Contraventions – Procédure**
+
+<sup>1</sup> La Direction informe le contrevenant de l'ouverture de la procédure et l'invite à présenter ses observations.
+
+<sup>2</sup> Elle fixe le montant de l'amende en tenant compte du degré de culpabilité, des circonstances de l'acte et des conditions personnelles.
+
+<sup>3</sup> Elle notifie sa décision au contrevenant sous pli recommandé et avec indication de la voie de droit utilisable.
+
+#### Art. 58
+
+**Délit – Fraude**
+
+<sup>1</sup> Celui qui, dans le but de commettre une soustraction de droits ou de centimes additionnels, fait usage de titres faux, falsifiés ou inexacts quant à leur contenu est punissable d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.
+
+<sup>2</sup> La répression de la soustraction des droits et des centimes additionnels est réservée.
+
+#### Art. 59
+
+**Délit – Autorité et règles applicables**
+
+<sup>1</sup> L'infraction visée à l'article 58 al. 1 est de la compétence du juge pénal ordinaire.
+
+<sup>2</sup> Les dispositions générales du code pénal suisse et la loi sur la justice sont applicables sous réserve des règles spéciales figurant aux articles 65 et 66.
+
+## 9 Prescription et péremption
+
+#### Art. 60
+
+**Droits et centimes additionnels – Taxation**
+
+<sup>1</sup> Le droit de taxer se prescrit par cinq ans à compter du jour de la conclusion de l'acte soumis à prélèvement ou de la réalisation d'une condition fondant le prélèvement.
+
+<sup>2</sup> Il se périme par dix ans à compter de ce jour, sous réserve d'un délai plus long du droit de sanctionner.
+
+<sup>3</sup> En matière d'exploitation de la substance d'un immeuble, le droit de procéder à la taxation annuelle se prescrit par cinq ans à compter de la fin de la période fiscale. La péremption est acquise dix ans après la fin de la période fiscale, sous réserve d'un délai plus long du droit de sanctionner.
+
+#### Art. 61
+
+**Droits et centimes additionnels – Rappel**
+
+<sup>1</sup> Le droit de procéder au rappel des droits et des centimes additionnels se périme par dix ans à compter du jour où la taxation est devenue définitive, sous réserve d'une délai plus long du droit de sanctionner.
+
+#### Art. 62
+
+**Droits et centimes additionnels – Créances**
+
+<sup>1</sup> La créance des droits et la créance des centimes additionnels se prescrivent par cinq ans à compter du jour où elles sont devenues exigibles.
+
+<sup>2</sup> La péremption est acquise par dix ans à compter de ce jour.
+
+#### Art. 63
+
+**Droits et centimes additionnels – Restitution de l'indu**
+
+<sup>1</sup> Le droit de demander la restitution de l'indu se périme par dix ans à compter du jour du paiement.
+
+#### Art. 64
+
+**Droits et centimes additionnels – Suspension et interruption de la prescription**
+
+<sup>1</sup> L'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs est applicable par analogie à la suspension et à l'interruption de la prescription.
+
+#### Art. 65
+
+**Infractions – Droit de sanctionner**
+
+<sup>1</sup> Le droit de sanctionner les infractions prévues aux articles 51 et 52 se périme par cinq ans à compter de la commission de l'infraction.
+
+<sup>2</sup> Il se périme par quinze ans pour les infractions prévues aux articles 53 à 59.
+
+#### Art. 66
+
+**Infractions – Amendes**
+
+<sup>1</sup> Les amendes prononcées en application des articles 51 à 59 se prescrivent par cinq ans à compter du jour où le prononcé est devenu définitif; l'article 64 est applicable.
+
+<sup>2</sup> La péremption est acquise par dix ans à compter du jour où le prononcé est devenu définitif.
+
+## 10 Dispositions transitoires et finales
+
+#### Art. 67
+
+**Droit transitoire relatif à la modification du 8 octobre 2013**
+
+<sup>1</sup> Les modifications introduites par la loi du 8 octobre 2013 s'appliquent aux actes donnant lieu au transfert conclus dès le 1<sup>er</sup> janvier 2014.
+
+#### Art. 67a
+
+**Droit transitoire relatif à la modification du 16 octobre 2020**
+
+<sup>1</sup> L'article 9 al. 1 let. a1, de même que les articles 16a, 30 al. 2a et 60 al. 3 s'appliquent aux opérations passées avant l'entrée en vigueur de la modification du 16 octobre 2020 de la présente loi et ne faisant pas l'objet d'une taxation entrée en force.
+
+#### Art. 68
+
+**Modifications – Loi sur les droits d'enregistrement**
+
+<sup>1</sup> La loi du 4 mai 1934 sur les droits d'enregistrement (RSF 635.2.1) est modifiée en ce sens que seules les dispositions qui prévoient le prélèvement de droits proportionnels sur les libéralités entre vifs ou pour cause de mort ainsi que sur les actes de fondation restent applicables.
+
+<sup>2</sup> Cette loi est au surplus modifiée comme il suit:
+
+...
+
+#### Art. 69
+
+**Modifications – Tarif des droits d'enregistrement**
+
+<sup>1</sup> Le tarif du 4 mai 1934 des droits d'enregistrement (RSF 635.2.1a) est modifié comme il suit:
+
+...
+
+#### Art. 70
+
+**Modifications – Code de procédure civile**
+
+<sup>1</sup> Le code du 28 avril 1953 de procédure civile (RSF 270.1) est modifié comme il suit:
+
+...
+
+#### Art. 71
+
+**Modifications – Loi sur les impôts communaux et paroissiaux**
+
+<sup>1</sup> La loi du 10 mai 1963 sur les impôts communaux et paroissiaux (RSF 632.1) est modifiée comme il suit:
+
+...
+
+#### Art. 72
+
+**Modifications – Loi portant imposition spéciale des immeubles appartenant aux sociétés, associations et fondations**
+
+<sup>1</sup> La loi du 23 mai 1957 portant imposition spéciale des immeubles appartenant aux sociétés, associations et fondations (RSF 635.3.1) est modifiée comme il suit:
+
+...
+
+#### Art. 73
+
+**Modifications – Décret relatif aux réserves de terrains à bâtir**
+
+<sup>1</sup> Le décret du 11 mai 1977 relatif aux réserves de terrains à bâtir (RSF 900.4) est modifié comme il suit:
+
+...
+
+#### Art. 74
+
+**Modifications – Loi sur l'aménagement du territoire et les constructions**
+
+<sup>1</sup> La loi du 9 mai 1983 sur l'aménagement du territoire et les constructions (RSF 710.1) est modifiée comme il suit:
+
+...
+
+#### Art. 75
+
+**Modifications – Loi sur le registre foncier**
+
+<sup>1</sup> La loi du 28 février 1986 sur le registre foncier (RSF 214.5.1) est modifiée comme il suit:
+
+...
+
+#### Art. 76
+
+**Modifications – Loi sur la mensuration cadastrale**
+
+<sup>1</sup> La loi du 2 février 1988 sur la mensuration cadastrale (RSF 214.6.1) est modifiée comme il suit:
+
+...
+
+#### Art. 77
+
+**Modifications – Loi sur l'impôt destiné à compenser la diminution de l'aire agricole**
+
+<sup>1</sup> La loi du 28 septembre 1993 sur l'impôt destiné à compenser la diminution de l'aire agricole (RSF 635.6.1) est modifiée comme il suit:
+
+...
+
+#### Art. 78
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi dont il fixe la date d'entrée en vigueur.[^78-1]
+
+[^78-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 1997 (ACE 10.09.1996).
+
+**Approbation**
+
+La modification du 08.09.2011 a été approuvée par le Département fédéral de justice et police le 21.12.2011.
+
+BL/AGS 1996 f 185 / d 187

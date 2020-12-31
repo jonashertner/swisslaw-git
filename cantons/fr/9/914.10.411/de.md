@@ -1,0 +1,195 @@
+---
+canton: FR
+number: "914.10.411"
+title: Verordnung ILFD über die Sömmerungsbedingungen
+language: de
+version: 2019-07-01
+version_adopted: 2019-06-05
+adopted: 2016-02-24
+in_force: 2016-04-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/914.10.411"
+pdf: "https://bdlf.fr.ch/api/de/versions/6072/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung ILFD über die Sömmerungsbedingungen
+
+Sömmerungsbedingungen – V
+
+vom 24.02.2016 (Fassung in Kraft getreten am 01.07.2019)
+
+Die Direktion der Institutionen und der Land- und Forstwirtschaft
+
+gestützt auf das eidgenössische Tierseuchengesetz vom 1. Juli 1966 und die dazugehörigen Verordnungen;
+
+gestützt auf das Gesetz vom 13. Februar 2003 über die Nutztierversicherung und die dazugehörige Ausführungsverordnung vom 3. November 2003;
+
+gestützt auf das Landwirtschaftsgesetz vom 3. Oktober 2006 und das dazugehörige Reglement vom 27. März 2007;
+
+gestützt auf die Tierseuchenverordnung vom 8. April 2014;
+
+gestützt auf die Empfehlungen des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen zur Harmonisierung der Sömmerungsvorschriften der Kantone (Empfehlungen BLV);
+
+gestützt auf die Stellungnahme des Amtes für Lebensmittelsicherheit und Veterinärwesen (LSVW);
+
+beschliesst:
+
+#### Art. 1
+
+**Geltungsbereich und Gegenstand**
+
+<sup>1</sup> Diese Verordnung regelt die Sömmerung der Tiere im Kanton Freiburg.
+
+<sup>2</sup> Sie gilt auch für freiburgische Tierhalterinnen und -halter, die ihr Vieh entsprechend der nationalen Gesetzgebung und den einschlägigen internationalen Abkommen auf ausländischem Gebiet sömmern (Grenzweidegang).
+
+<sup>3</sup> Diese Verordnung präzisiert die Tierseuchengesetzgebung des Bundes. Die Empfehlungen BLV[^1-1] müssen angewendet werden.
+
+[^1-1]: Anmerkung des Autors: Die Empfehlungen BLV stehen unter der folgenden Internetadresse zur Verfügung: [http://www.blv.admin.ch/gesundheit\_tiere/index.html?lang=de](http://www.blv.admin.ch/gesundheit_tiere/index.html?lang=de)
+
+#### Art. 2
+
+**Allgemeine Massnahmen**
+
+<sup>1</sup> Alle gesömmerten Tiere müssen gesund und frei von ansteckenden Krankheiten sein.
+
+<sup>2</sup> Tiere, die mit Fahrzeugen ins Sömmerungsgebiet gebracht werden, dürfen nicht mit Schlacht- oder Handelsvieh zusammen befördert werden. Sie dürfen nur in gereinigten und desinfizierten Fahrzeugen transportiert werden.
+
+<sup>3</sup> Die während der Sömmerung verantwortlichen Tierhalterinnen und -halter sowie die übrigen Angestellten sind verpflichtet, die Sömmerungstiere gewissenhaft zu beobachten und beim geringsten Krankheitsverdacht die zuständige Tierärztin oder den zuständigen Tierarzt beizuziehen und Krankheitsfälle gegebenenfalls zu melden.
+
+<sup>4</sup> Auf der Alp verendete Tiere müssen in einer regionalen Sammelstelle entsorgt werden; sie können nur in Ausnahmefällen und mit vorgängiger Genehmigung der Kantonstierärztin oder des Kantonstierarzts vergraben werden. Im Übrigen gilt die eidgenössische und kantonale Gesetzgebung über die Entsorgung von tierischen Nebenprodukten.
+
+<sup>5</sup> Die Tierschutzvorschriften, namentlich diejenigen über den Transport, die Haltung und die spezifische Ausbildung der Tierhalterinnen oder -halter, gelten auch während der Sömmerung.
+
+#### Art. 3
+
+**Pflichten betreffend Tierarzneimittel**
+
+<sup>1</sup> Tierarzneimittel werden den Tieren nach den Vorschriften der Gesetzgebung über die Tierarzneimittel verabreicht, namentlich muss die Pflicht, ein Behandlungsjournal und eine Inventarliste der Tierarzneimittel vor Ort zu führen, eingehalten werden.
+
+#### Art. 4
+
+**Gemeinsame Sömmerung**
+
+<sup>1</sup> Die gemeinsame Sömmerung ist untersagt für:
+
+- a) Tiere aus Beständen, über die seuchenpolizeiliche Sperrmassnahmen verfügt wurden;
+- b) kranke und lahme Tiere, namentlich an Klauenfäule leidende Schafe sowie Tiere mit mangelhaft gepflegten Klauen;
+- c) verlauste oder räudige Tiere.
+
+<sup>2</sup> Schweine müssen getrennt von Tieren der Rindergattung gehalten werden.
+
+#### Art. 5
+
+**Weiden, Ställe und Futtervorräte**
+
+<sup>1</sup> Die Weiden müssen mit Zäunen versehen werden, die ein Ausbrechen der Tiere verunmöglichen. Die Zäune müssen stets in Stand gehalten werden.
+
+<sup>2</sup> Die Ställe müssen vor der Ankunft der Tiere gesäubert und desinfiziert werden.
+
+<sup>3</sup> Auf jeder Weide oder in der Nähe muss ein Futtervorrat für mindestens drei Tage vorhanden sein.
+
+#### Art. 6
+
+**Massnahmen im Notfall**
+
+<sup>1</sup> Die Kantonstierärztin oder der Kantonstierarzt ist ermächtigt, im Notfall die Massnahmen zu ergreifen, die sie oder er für den Vollzug dieser Verordnung als nötig erachtet.
+
+#### Art. 7
+
+**Aborte – vor der Sömmerung**
+
+<sup>1</sup> Tiere, die verworfen haben und deren sanitarische Kontrollen noch nicht abgeschlossen sind, dürfen nicht gesömmert werden. Erweist sich das Ergebnis als negativ, so können die Tiere zur Sömmerung aufgetrieben werden.
+
+#### Art. 8
+
+**Aborte – während der Sömmerung**
+
+<sup>1</sup> Bei Aborten während der Sömmerung gelten die Empfehlungen BLV und die Tierseuchengesetzgebung. Im Übrigen gilt Artikel 1 Abs. 3.
+
+<sup>2</sup> Die Kontrolltierärztin oder der Kontrolltierarzt sorgt dafür, dass die notwendigen Massnahmen, insbesondere die Laboruntersuchungen, die Vernichtung des Fötus und der Nachgeburt und die Desinfektion, ergriffen werden.
+
+<sup>3</sup> Die Übernahme der Tierarzt- und Laborkosten wird in der Gesetzgebung über die Nutztierversicherung geregelt.
+
+#### Art. 9
+
+**Tierverkehr**
+
+<sup>1</sup> Alle gesetzlichen und reglementarischen Bestimmungen über den Tierverkehr gelten auch für die Sömmerung.
+
+#### Art. 10
+
+**Rauschbrand – Impfung und Risikogebiete**
+
+<sup>1</sup> Die Schutzimpfung gegen den Rauschbrand ist für das gesömmerte Vieh fakultativ.
+
+<sup>2</sup> Sie wird für folgende Risikogebiete empfohlen:
+
+- a) Greyerzbezirk
+  - 1\. Val-de-Charmey: Le Sapallex, La Chia, Lanthermannli, Stöck, Chüersch, Hammerboden-du-Milieu, Gross-Hammerboden, Klein-Hammerboden, Bösingerhubel, Gros Kapberg, Kapbergli, La Chaux-du-Vent, Poyet-Riond, La Chapalleyre, Felesinaz-Derrey (Petit-Mont), Tissiniva, Banderettes-Dessous;
+  - 2\. Estavannens: Les Rosys, Sciernes-aux-Bœufs, Lite-Marie, Les Murs-Blancs, Le Bourgoz, Le Leyti, La Foreyre, Le Vajux, Vacheresse;
+  - 3\. Gruyères: Les Groins;
+  - 4\. Haut-Intyamon: Fenil-Derrey, Tsuatsau-Dessous;
+  - 5\. La Roche: Brunisholzena;
+  - 6\. Villarvolard: La Guille;
+- b) Sensebezirk
+  - 1\. Plaffeien: Birchera, Bödeli im Muscherenschlund, Oberer Krautboden, Mittlerer Krautboden, Unterer Krautboden, Blösch, Schönwannels;
+  - 2\. Plasselb: Bruch, Laupersbergli, Obere Klewena;
+- c) Vivisbachbezirk
+  - 1\. Châtel-Saint-Denis: Sciernes-à-Besson.
+
+<sup>3</sup> Die Tierärztin oder der Tierarzt bestätigt die Impfung mit einem Zeugnis, das dem Begleitdokument beigelegt wird, und stellt dem Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW) eine Liste der geimpften Tiere zu.
+
+<sup>4</sup> Stirbt ein Tier an Rauschbrand, so muss die Tierhalterin oder der Tierhalter, die oder der während der Sömmerung verantwortlich ist, die Eigentümerin oder den Eigentümer des Tieres und die Amtstierärztin oder den Amtstierarzt informieren. Diese treffen die von der Tierseuchengesetzgebung vorgeschriebenen Vorkehrungen.
+
+#### Art. 11
+
+**Rauschbrand – Kosten und Entschädigung**
+
+<sup>1</sup> Die Tierarzthonorare gehen zulasten der Tierhalterin oder des Tierhalters. Die Kosten für den Impfstoff von 6 Franken pro Tier, das nach dem Impfprotokoll geimpft wurde, werden von der Sanima übernommen.
+
+<sup>2</sup> Die Tierarzt- und Laborkosten werden von der Sanima übernommen, sofern die Entnahmen vom LSVW angeordnet wurden.
+
+<sup>3</sup> Für ungeimpfte Tiere, die wegen Rauschbrands verenden, zahlt die Sanima nur dann eine Entschädigung, wenn der Schadenfall ausserhalb der Risikogebiete stattgefunden hat und durch eine Laboranalyse bestätigt wurde.
+
+#### Art. 12
+
+**Dasselkrankheit**
+
+<sup>1</sup> Es ist untersagt, von der Dasselkrankheit befallene Rinder zu sömmern.
+
+<sup>2</sup> Die Rinder mit sichtbaren Anzeichen von Dasselkrankheit sind unverzüglich von der Sömmerung auszuschliessen und der Kantonstierärztin oder dem Kantonstierarzt zu melden.
+
+#### Art. 13
+
+**Sömmerung im Ausland – Massnahmen in der Schweiz vor Antritt der Sömmerung**
+
+<sup>1</sup> Die Sömmerungsvorschriften für den Grenzweidegang gemäss den Empfehlungen BLV gelten vollumfänglich.
+
+<sup>2</sup> Zwischen der Tierhalterin oder dem Tierhalter, die oder der während der Sömmerung verantwortlich ist, und dem LSVW muss eine schriftliche Vereinbarung getroffen werden.
+
+<sup>3</sup> Die schriftliche Vereinbarung muss namentlich die Verpflichtung der Tierhalterin oder des Tierhalters, die oder der während der Sömmerung verantwortlich ist, enthalten, das LSVW vor der Rückkehr der Tiere in die Schweiz über das Ende der Weidezeit zu unterrichten.
+
+<sup>4</sup> Alle übrigen Meldungen gemäss den Empfehlungen BLV müssen an das LSVW gerichtet werden.
+
+#### Art. 14
+
+**Sömmerung im Ausland – Kontrolle nach der Rückkehr der Tiere in die Schweiz**
+
+<sup>1</sup> Die Tiere und die Gesundheitsbescheinigung, die von der ausländischen Behörde ausgestellt wurde, müssen unmittelbar nach der Rückkehr in die Schweiz von der Amtstierärztin oder vom Amtstierarzt kontrolliert werden. Diese oder dieser wird vom LSVW benachrichtigt, sobald eine entsprechende TRACES-Meldung vorliegt. In begründeten Fällen kann die Kantonstierärztin oder der Kantonstierarzt IBR- (Infektiöse bovine Rhinotracheitis) oder andere Untersuchungen anordnen.
+
+#### Art. 15
+
+**Widerhandlungen**
+
+<sup>1</sup> Widerhandlungen gegen die Vorschriften dieser Verordnung sind gemäss den Bestimmungen der Tierseuchengesetzgebung des Bundes strafbar.
+
+#### Art. 16
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. April 2016 in Kraft.
+
+<sup>2</sup> Sie wird den Tierärztinnen und Tierärzten, den Verantwortlichen der Sömmerungsgebiete und dem Freiburgischen alpwirtschaftlichen Verein zusammen mit den Empfehlungen BLV mitgeteilt.
+
+2016\_029

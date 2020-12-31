@@ -1,0 +1,199 @@
+---
+canton: FR
+number: "921.27"
+title: Reglement über die besonderen Entschädigungen für das Personal des Amts für Wald und Natur
+language: de
+version: 2019-04-01
+valid_until: 2022-12-31
+version_adopted: 2019-04-02
+adopted: 1991-07-09
+in_force: 1991-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/921.27"
+pdf: "https://bdlf.fr.ch/api/de/versions/5996/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über die besonderen Entschädigungen für das Personal des Amts für Wald und Natur
+
+Forstpersonal, besondere Entschädigungen – R
+
+vom 09.07.1991 (Fassung in Kraft getreten am 01.04.2019)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Gesetz vom 17. Oktober 2001 über das Staatspersonal (StPG);
+
+gestützt auf das Reglement vom 17. Dezember 2002 über das Staatspersonal (StPR);
+
+in Erwägung:
+
+Das dem Forstdepartement angegliederte Personal und insbesondere die Mitarbeiter, die im Wald tätig sind, erhalten aufgrund ihrer speziellen Arbeitsbedingungen eine Reihe von besonderen Entschädigungen. Es ist angezeigt, diese zu regeln und zu veröffentlichen.
+
+Auf Antrag der Direktion des Innern und der Landwirtschaft,
+
+beschliesst:
+
+## 1 Gebirgszulage
+
+#### Art. 1
+
+**Berechtigte**
+
+<sup>1</sup> Die Forstwartinnen und -warte und die Waldarbeiterinnen und Waldarbeiter, die im Gebirge tätig sind, erhalten eine Zulage, die den erschwerten Arbeitsbedingungen Rechnung trägt.
+
+<sup>2</sup> Das Amt für Wald und Natur bezeichnet die im Gebirge gelegenen Staatswälder, die Anrecht auf eine Zulage geben.
+
+<sup>3</sup> Die Forstkreisingenieurin oder der Forstkreisingenieur bestimmt, wer Anspruch auf eine Zulage hat.
+
+#### Art. 2
+
+**Betrag**
+
+<sup>1</sup> Die Zulage beträgt 127 Franken monatlich und wird am Ende jedes Monats ausgerichtet.
+
+<sup>2</sup> Die Zulage der Forstwartlehrlinge beträgt 80.40 Franken monatlich und wird am Ende jedes Monats ausgerichtet.
+
+<sup>3</sup> Die vorübergehend angestellten Arbeiterinnen und Arbeiter erhalten eine Zulage von 70 Rappen je Stunde.
+
+## 2 Entschädigung für die Verwendung von Privatfahrzeugen auf schlechten Strassen
+
+#### Art. 3
+
+**Berechtigte**
+
+<sup>1</sup> Folgende Mitarbeiterinnen und Mitarbeiter erhalten aufgrund ihrer Arbeit im Gelände und der stärkeren Abnutzung ihrer Privatfahrzeuge auf Dienstfahrten eine Entschädigung zur Deckung der zusätzlichen Fahrzeugkosten:
+
+- a) die Forstkreisingenieurinnen und -ingenieure und das übrige wissenschaftliche Kader;
+- b) die Technikerinnen und Techniker;
+- c) die Försterinnen und Förster;
+- d) die Gruppenleiterinnen und -leiter, die mit dem Personen- oder Gütertransport beauftragt sind.
+
+#### Art. 4
+
+**Betrag und Ausrichtung**
+
+<sup>1</sup> Die Entschädigung beträgt 1534 Franken im Jahr für die Berechtigten nach Artikel 3 Bst. a, b und c und 89 Rappen pro Kilometer für die Berechtigten nach Artikel 3 Bst. d.
+
+<sup>2</sup> Die Entschädigung wird wie folgt ausgerichtet:
+
+- a) den Berechtigten nach Artikel 3 Bst. a, b und c am Ende des Jahres, nach Beschäftigungsdauer;
+- b) den Berechtigten nach Artikel 3 Bst. d am Ende jedes Monats.
+
+## 3 Entschädigung für die Verpflegung am Arbeitsort
+
+#### Art. 5
+
+**Berechtigte**
+
+<sup>1</sup> Försterinnen und Förster, Forstwartinnen und Forstwarte, Waldarbeiterinnen und Waldarbeiter und Forstwartlehrlinge, die das Mittagessen nicht zu Hause einnehmen können, weil sie an einem Ort arbeiten, der mehr als zwanzig Minuten von ihrem Wohnort entfernt ist (40 Minuten Hin- und Rückweg), erhalten eine Entschädigung für eine Hauptmahlzeit.
+
+<sup>2</sup> Die Pause, in der das Mittagessen eingenommen wird, zählt nicht als Arbeitszeit.
+
+#### Art. 6
+
+**Betrag**
+
+<sup>1</sup> Die Entschädigung für das Mittagessen beträgt 20 Franken pro Tag. Die Forstkreisingenieurin oder der Forstkreisingenieur bestimmt nach Stellungnahme der Försterin bzw. des Försters die Berechtigten und visiert die diesbezüglichen Abrechnungen.
+
+<sup>2</sup> Die Entschädigung wird am Ende jedes Monats ausgerichtet.
+
+## 4 Entschädigung für die persönliche Sicherheitsausrüstung
+
+#### Art. 7
+
+**Berechtigte**
+
+<sup>1</sup> Försterinnen und Förster, Forstwartinnen und Forstwarte, Waldarbeiterinnen und Waldarbeiter und Forstwartlehrlinge erhalten eine jährliche Entschädigung, um die Kosten für ihre persönliche Sicherheitsausrüstung zu decken.
+
+#### Art. 8
+
+**Betrag**
+
+<sup>1</sup> Die Entschädigung beträgt 970 Franken im Jahr. Für die Arbeiterinnen und Arbeiter, die kaum oder nie eine Sicherheitsausrüstung benötigen, kann die Entschädigung gekürzt oder ganz gestrichen werden.
+
+<sup>2</sup> Die Forstkreisingenieurin oder der Forstkreisingenieur bestimmt die Anspruchsberechtigten und setzt die ihnen zustehenden Beträge fest.
+
+<sup>3</sup> Die Entschädigung der Forstwartlehrlinge im ersten Jahr wird bei Antritt der Lehre in einem Mal ausgerichtet. Die Forstwartlehrlinge im zweiten und dritten Lehrjahr erhalten am Ende jedes Monats eine Entschädigung von 80.85 Franken. Die Entschädigung der Forstwartinnen und Forstwarte und Waldarbeiterinnen und Waldarbeiter wird am Ende jedes Monats ausgerichtet. Försterinnen und Förster erhalten sie jeweils im Dezember.
+
+## 5 Entschädigung für die Miete eines Arbeitsraumes
+
+#### Art. 9
+
+**Berechtigte**
+
+<sup>1</sup> Försterinnen oder Förster, die im Rahmen ihrer Tätigkeit einen Teil ihres Wohnraums für dienstliche Zwecke verwenden (Büroarbeit), erhalten eine Entschädigung.
+
+<sup>2</sup> Die Forstkreisingenieurin oder der Forstkreisingenieur bestimmt die Anspruchsberechtigten gemäss den folgenden Kriterien: tatsächliche Nutzung eines Teils des Wohnraums, Vorhandensein angemessener Ausrüstung, regelmässig zu leistende, beträchtliche administrative Arbeit, Unmöglichkeit, diese Arbeit im Kreisbüro zu erledigen.
+
+#### Art. 10
+
+**Betrag und Ausrichtung**
+
+<sup>1</sup> Die Entschädigung beträgt 1379 Franken pro Jahr.
+
+<sup>2</sup> Die Entschädigung wird jedes Jahr im Dezember ausgerichtet, das erste Mal im Dezember 1991.
+
+## 5a Entschädigung für die Benutzung der persönlichen Informatikausrüstung
+
+#### Art. 10a
+
+**Berechtigte**
+
+<sup>1</sup> Försterinnen und Förster, die im Rahmen ihrer Tätigkeit ihre persönliche Informatikausrüstung für dienstliche Zwecke (Büroarbeit) benützen, erhalten eine Entschädigung.
+
+<sup>2</sup> Die Forstkreisingenieurin oder der Forstkreisingenieur bestimmt die Anspruchsberechtigten gemäss den folgenden Kriterien: Die vorhandene Ausrüstung ist zweckmässig, die regelmässig zu leistende administrative Arbeit ist beträchtlich und es ist nicht möglich, diese Arbeit im Kreisbüro zu erledigen.
+
+#### Art. 10b
+
+**Betrag und Ausrichtung**
+
+<sup>1</sup> Die Höhe der Entschädigung wird vom Amt für Wald und Natur aufgrund einer vom Amt für Informatik und Telekommunikation genehmigten Weisung festgelegt. Die Höhe der Entschädigung hängt vor allem von der Art sowie der Häufigkeit der Benutzung der Informatikausrüstung und davon ab, ob sie möglicherweise gleichzeitig zu anderen Zwecken genutzt werden kann.
+
+<sup>2</sup> Die Entschädigung wird jedes Jahr im Dezember ausgerichtet.
+
+## 6 Anpassung der Entschädigungen
+
+#### Art. 11
+
+<sup>1</sup> Die Entschädigung für die persönliche Sicherheitsausrüstung entspricht den tatsächlichen Kosten gemäss SUVA. Sie wird jedes Jahr dem Betrag in der Broschüre «Persönliche Schutzausrüstung für das Forstpersonal», die jährlich von der SUVA herausgegeben wird, angepasst.
+
+<sup>2</sup> Die Entschädigung nach Artikel 2 entspricht dem Landesindex der Konsumentenpreise, Stand November 2007, die Entschädigungen nach Artikel 4 Abs. 1 und 11a Abs. 5 entsprechen den per 1. Januar 2011 berechneten Kosten, und die Entschädigung nach Artikel 6 entspricht dem Landesindex der Konsumentenpreise, Stand November 2006. Die übrigen Entschädigungen dieses Reglements entsprechen dem Landesindex der Konsumentenpreise, Stand November 1996. Sie werden gemäss Artikel 132 StPR angepasst, der sinngemäss gilt.
+
+## 6a Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei
+
+#### Art. 11a
+
+**Wildhüterin-Fischereiaufseherin, Wildhüter-Fischereiaufseher**
+
+<sup>1</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die wegen der Arbeit die Hauptmahlzeit nicht zu Hause einnehmen können, haben Anspruch auf:
+
+- a) die Verpflegungsentschädigung nach Artikel 6 dieses Reglements für eine Hauptmahlzeit, die im Gelände eingenommen werden muss (Picknick);
+- b) die Verpflegungsentschädigung nach Artikel 129 StPR für eine in einer Gaststätte eingenommene Hauptmahlzeit.
+
+<sup>2</sup> Als Hinderungsgrund für die Einnahme der Mahlzeit zu Hause gilt eine Dienstreise mit einer Mindestdauer von 4 Stunden, die sich ganz über mindestens eine der folgenden Zeitspannen erstreckt:
+
+- a) von 11.30 Uhr bis 14 Uhr;
+- b) von 18.30 Uhr bis 21 Uhr.
+
+<sup>3</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die im Rahmen ihrer Tätigkeit einen Teil ihres Wohnraums für dienstliche Zwecke (Büroarbeit) oder die Aufbewahrung ihrer Ausrüstung verwenden, erhalten eine Entschädigung nach Artikel 10 dieses Reglements.
+
+<sup>4</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die im Rahmen ihrer Tätigkeit ihre persönliche Informatikausrüstung für dienstliche Zwecke (Büroarbeit) benützen, erhalten eine Entschädigung nach Artikel 10b dieses Reglements.
+
+<sup>5</sup> Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher, die ihr Privatfahrzeug im Rahmen ihrer Tätigkeit für notwendige Fahrten verwenden, erhalten eine Kilometerentschädigung gemäss der Tabelle im Anhang II des StPR, zuzüglich 10 Rappen. Für Schwertransporte (zum Beispiel: Elektrofischfanggeräte, Fischbehälter) oder für Fahrten mit einem Anhänger beträgt die Kilometerentschädigung 89 Rappen.
+
+#### Art. 11b
+
+**Hilfsaufseherinnen und Hilfsaufseher**
+
+<sup>1</sup> Nehmen Hilfsaufseherinnen und Hilfsaufseher besondere Aufgaben wahr, die ihnen von der Wildhüterin-Fischereiaufseherin oder vom Wildhüter-Fischereiaufseher, der oder dem sie unterstellt sind, übertragen werden, so erhalten sie eine Entschädigung nach Artikel 11a Abs. 1 und 4 dieses Reglements.
+
+## 7 Inkrafttreten und Veröffentlichung
+
+#### Art. 12
+
+<sup>1</sup> Dieses Reglement wird rückwirkend auf den 1. Januar 1991 in Kraft gesetzt. Die Artikel 1, 2, 5 und 6 hingegen treten erst am 1. Oktober 1991 in Kraft.
+
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
+
+BL/AGS 1991 f 332 / d 338

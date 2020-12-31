@@ -1,0 +1,231 @@
+---
+canton: FR
+number: "122.0.13"
+title: Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
+language: de
+version: 2020-10-01
+valid_until: 2021-12-31
+version_adopted: 2021-08-31
+adopted: 2002-07-09
+in_force: 2003-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/122.0.13"
+pdf: "https://bdlf.fr.ch/api/de/versions/6912/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zur Bezeichnung der Verwaltungseinheiten der Direktionen des Staatsrats und der Staatskanzlei
+
+Verwaltungseinheiten der Direktionen und der Staatskanzlei – V
+
+vom 09.07.2002 (Fassung in Kraft getreten am 01.10.2020)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf die Artikel 71 Abs. 1 Bst. b und c und 51 Abs. 3 des Gesetzes vom 16. Oktober 2001 über die Organisation des Staatsrates und der Verwaltung (SVOG),
+
+beschliesst:
+
+#### Art. 1
+
+**Direktion für Erziehung, Kultur und Sport (EKSD)**
+
+<sup>1</sup> Der Direktion für Erziehung, Kultur und Sport sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-EKSD);
+- b) das Amt für französischsprachigen obligatorischen Unterricht (FOA);
+- c) das Amt für deutschsprachigen obligatorischen Unterricht (DOA);
+- d) das Amt für Sonderpädagogik (SoA);
+- e) das Amt für Unterricht der Sekundarstufe 2 (S2);
+- f) das Amt für Universitätsfragen (UFA);
+- g) das Amt für Berufsberatung und Erwachsenenbildung (BEA);
+- h) das Amt für Ausbildungsbeiträge (ABBA);
+- i) das Amt für Sport (SpA);
+- j) das Amt für Kultur (KA);
+- k) das Amt für Archäologie (AAFR);
+- l) das Amt für Kulturgüter (KGA);
+- m) das Amt für Ressourcen (RA).
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) die Universität (Uni);
+- b) die Pädagogische Hochschule (PH);
+- c) …
+- d) …
+- e) die Kantonale Lehrmittelverwaltung (KLV).
+
+#### Art. 2
+
+**Sicherheits- und Justizdirektion (SJD)**
+
+<sup>1</sup> Der Sicherheits- und Justizdirektion sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-SJD);
+- b) die Kantonspolizei (Pol);
+- c) das Amt für Bevölkerungsschutz und Militär (BSMA);
+- d) das Amt für Bevölkerung und Migration (BMA);
+- e) das Amt für Gewerbepolizei (GePoA);
+- f) das Amt für Justiz (AJ);
+- g) das Amt für Justizvollzug und Bewährungshilfe (JVBHA);
+- g<sup>bis</sup>) ...
+- h) …
+- i) …
+- j) …
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) das Amt für Strassenverkehr und Schifffahrt (ASS);
+- b) die Kantonale Gebäudeversicherung (KGV);
+- c) …
+- d) die Freiburger Strafanstalt (FRSA);
+- e) …
+
+#### Art. 3
+
+**Direktion der Institutionen und der Land- und Forstwirtschaft (ILFD)**
+
+<sup>1</sup> Der Direktion der Institutionen und der Land- und Forstwirtschaft sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-ILFD);
+- b) das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (IAEZA);
+- c) das Amt für Gemeinden (GemA);
+- d) das Amt für Landwirtschaft (LwA);
+- e) das Amt für Lebensmittelsicherheit und Veterinärwesen (LSVW);
+- f) …
+- g) das Amt für Wald und Natur (WNA).
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) die Oberämter;
+- b) …
+- c) das Landwirtschaftliche Institut des Kantons Freiburg (LIG);
+- d) die Nutztierversicherungsanstalt (Sanima);
+- e) …
+
+#### Art. 4
+
+**Volkswirtschaftsdirektion (VWD)**
+
+<sup>1</sup> Der Volkswirtschaftsdirektion sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-VWD);
+- b) die Wirtschaftsförderung Kanton Freiburg (WIF);
+- c) das Amt für den Arbeitsmarkt (AMA);
+- d) das Handelsregisteramt (HRA);
+- e) das Amt für Berufsbildung (BBA);
+- f) das Amt für Energie (AfE);
+- g) das Amt für Statistik (StatA);
+- h) das Wohnungsamt (WA).
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) die Öffentliche Arbeitslosenkasse (ÖALK);
+- b) die Fachhochschule Westschweiz//Freiburg (HES-SO//FR);
+- c) die kantonale Anstalt für die aktive Bodenpolitik (KAAB).
+
+#### Art. 5
+
+**Direktion für Gesundheit und Soziales (GSD)**
+
+<sup>1</sup> Der Direktion für Gesundheit und Soziales sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-GSD);
+- b) das Amt für Gesundheit (GesA);
+- c) das Kantonsarztamt (KAA);
+- d) der Schulzahnpflegedienst (SZPD);
+- e) …
+- f) …
+- g) …
+- h) …
+- i) das Sozialvorsorgeamt (SVA);
+- j) das Kantonale Sozialamt (KSA);
+- k) das Jugendamt (JA);
+- l) …
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) das freiburger spital (HFR);
+- b) das Freiburger Netz für die Pflege im Bereich psychische Gesundheit (FPN);
+- c) die Kantonale Sozialversicherungsanstalt (KSVA);
+- d) das Büro für die Gleichstellung von Frau und Mann und für Familienfragen (GFB).
+
+#### Art. 6
+
+**Finanzdirektion (FIND)**
+
+<sup>1</sup> Der Finanzdirektion sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-FIND);
+- b) die Finanzverwaltung (FinV);
+- c) die Kantonale Steuerverwaltung (KSTV);
+- d) …
+- e) das Amt für Personal und Organisation (POA);
+- f) das Amt für Informatik und Telekommunikation (ITA);
+- g) das Amt für Vermessung und Geomatik (VGA);
+- h) die Grundbuchämter (nach Bezirk: GBSa, GBSense, GBGr, GBSee, GBGl, GBBr, GBVi).
+
+<sup>2</sup> Folgende Einheiten sind ihr administrativ zugewiesen:
+
+- a) das Finanzinspektorat (FI);
+- b) die Pensionskasse des Staatspersonals (PKSPF).
+
+#### Art. 7
+
+**Raumplanungs-, Umwelt- und Baudirektion (RUBD)**
+
+<sup>1</sup> Der Raumplanungs-, Umwelt und Baudirektion sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Generalsekretariat (GS-RUBD);
+- b) das Bau- und Raumplanungsamt (BRPA);
+- c) das Amt für Umwelt (AfU);
+- c<sup>bis</sup>) das Amt für Mobilität (MobA);
+- d) das Tiefbauamt (TBA);
+- e) …
+- f) das Hochbauamt (HBA).
+
+#### Art. 8
+
+**Staatskanzlei (SK)**
+
+<sup>1</sup> Der Staatskanzlei sind folgende Verwaltungseinheiten unterstellt:
+
+- a) das Amt für Gesetzgebung (GeGA);
+- b) das Amt für Drucksachen und Material (DMA);
+- c) das Staatsarchiv (StAF).
+
+<sup>2</sup> Ihr sind ausserdem die kantonale Behörde für Öffentlichkeit und Datenschutz (ÖDSB) sowie die kantonale Mediatorin oder der kantonale Mediator administrativ zugewiesen.
+
+#### Art. 9
+
+**Zentrale Dienste**
+
+<sup>1</sup> Folgende Verwaltungseinheiten sind zentrale Dienste im Sinne von Artikel 51 SVOG:
+
+- a) das Amt für Gesetzgebung;
+- b) die Finanzverwaltung;
+- c) das Amt für Personal und Organisation;
+- d) das Amt für Informatik und Telekommunikation;
+- e) das Hochbauamt;
+- f) das Amt für Drucksachen und Material;
+- g) das Staatsarchiv.
+
+#### Art. 10
+
+**Organigramme**
+
+<sup>1</sup> Die offiziellen Organigramme der Direktionen und der Staatskanzlei werden im Anhang 1 zu dieser Verordnung aufgeführt.
+
+<sup>2</sup> Das Amt für Personal und Organisation erlässt Richtlinien zu diesen Organigrammen, die vom Staatsrat genehmigt werden müssen und sich auf folgende Punkte beziehen:
+
+- a) weitere Aspekte der grafischen Darstellung der Organigramme der Direktionen, die nötig sind, damit diese im Internet und in anderen Publikationen verbreitet werden können;
+- b) Darstellung der Organigramme der Verwaltungseinheiten nach den Regeln des Corporate Design des Staates;
+- c) Erstellungs- und Nachführungsprozess der Organigramme;
+- d) Grundsätze der Veröffentlichung der Organigramme auf den Websites des Staates und in anderen Publikationen.
+
+#### Art. 11
+
+**Vollzug und Inkrafttreten**
+
+<sup>1</sup> Die Finanzdirektion wird mit dem Vollzug dieser Verordnung beauftragt, die am 1. Januar 2003 in Kraft tritt.
+
+2002\_078

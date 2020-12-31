@@ -1,0 +1,59 @@
+---
+canton: FR
+number: "810.25"
+title: Ordonnance portant adoption de la modification partielle du plan de gestion des déchets (chapitre «Décharges de type B»)
+language: fr
+version: 2017-10-01
+valid_until: 2022-01-31
+version_adopted: 2017-10-09
+adopted: 2017-10-09
+in_force: 2017-10-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/810.25"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5449/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance portant adoption de la modification partielle du plan de gestion des déchets (chapitre «Décharges de type B»)
+
+du 09.10.2017 (version entrée en vigueur le 01.10.2017)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi fédérale du 7 octobre 1983 sur la protection de l'environnement;
+
+Vu l'ordonnance fédérale du 4 décembre 2015 sur la limitation et l'élimination des déchets (OLED);
+
+Vu la loi du 13 novembre 1996 sur la gestion des déchets et son règlement du 20 janvier 1998;
+
+Vu l'arrêté du 19 avril 1994 approuvant le plan cantonal de gestion des déchets;
+
+Vu la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions et son règlement d'exécution du 1<sup>er</sup> décembre 2009;
+
+Considérant:
+
+Le chapitre «Décharges de type B» (anciennement «Décharges contrôlées pour matériaux inertes – DCMI») du plan cantonal de gestion des déchets (PGD) a été adapté à plusieurs reprises, pour la dernière fois en 2009. Avec un développement marqué des régions urbaines et péri-urbaines du canton de Fribourg au cours de ces dernières années et avec des flux de déchets intercantonaux importants, une nouvelle adaptation du PGD s'avère nécessaire pour continuer à garantir l'existence de capacités de stockage suffisantes dans les décharges de type B.
+
+Sur la proposition de la Direction de l'aménagement, de l'environnement et des constructions,
+
+Arrête:
+
+#### Art. 1
+
+<sup>1</sup> La modification partielle du plan cantonal de gestion des déchets du chapitre «Décharges de type B» est adoptée.
+
+#### Art. 2
+
+<sup>1</sup> La Direction de l'aménagement, de l'environnement et des constructions est chargée de l'application de la présente ordonnance.
+
+#### Art. 3
+
+<sup>1</sup> La modification du plan cantonal de gestion des déchets et les plans sont, en vertu de l'article 4 al. 4 OLED, transmis à l'Office fédéral de l'environnement.
+
+#### Art. 4
+
+<sup>1</sup> Cette ordonnance entre en vigueur avec effet rétroactif au 1<sup>er</sup> octobre 2017.
+
+<sup>2</sup> En raison de son caractère d'intérêt général, elle est publiée dans le Recueil officiel fribourgeois.
+
+2017\_081

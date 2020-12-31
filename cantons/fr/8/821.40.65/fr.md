@@ -1,0 +1,147 @@
+---
+canton: FR
+number: "821.40.65"
+title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine des médias
+short: MEM COVID-19
+language: fr
+version: 2020-09-11
+valid_until: 2021-03-08
+version_adopted: 2020-09-01
+adopted: 2020-05-05
+in_force: 2020-05-08
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.65"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6587/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine des médias
+
+COVID-19, mesures économiques dans le domaine des médias - O
+
+(MEM COVID-19)
+
+du 05.05.2020 (version entrée en vigueur le 11.09.2020)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu l'article 117 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
+
+Vu l'ordonnance du 6 avril 2020 sur les mesures économiques à la suite du coronavirus (OME COVID-19);
+
+Considérant:
+
+Par le biais d'une ordonnance-cadre, le Conseil d'Etat a décidé des mesures d'urgence sous la forme d'une enveloppe financière globale, de modalités d'application différées en matière de fiscalité cantonale, de modalités d'application facilitées des instruments de soutien économique existants et d'aides spécifiques à divers secteurs économiques particulièrement touchés par la crise. Ces mesures ciblées de soutien sont ordonnées en complément et de manière subsidiaire à celles qui sont ordonnées par la Confédération.
+
+Avec la crise actuelle, les revenus publicitaires des médias ont considérablement chuté. Selon le sondage mené fin mars 2020 par Médias Suisses auprès de ses membres, 60 % des journaux estiment avoir déjà perdu plus de 50 % de leurs revenus publicitaires en raison du COVID-19. Ce pourcentage de perte se vérifie également pour la publicité sur les canaux digitaux pour 45 % des sondés. Au total, les pertes estimées pour la presse écrite pourraient atteindre 388 millions de francs en 2020. Les médias radiodiffusés et télédiffusés (ci-après: Radio & TV) sont tout autant touchés en matière de revenus publicitaires. En effet, si les abonnements sont la deuxième source principale de revenu pour la presse écrite, Radio & TV, quant à eux, bénéficient d'une redevance de l'Office fédéral de la communication (OFCOM).
+
+Sur le plan cantonal, certains médias fribourgeois voient leur mission de service public fortement renforcée avec la crise actuelle. Parallèlement, leurs revenus publicitaires chutent dans des proportions équivalant à celles qui sont évaluées sur le plan suisse. Il s'agit principalement de:
+
+&gt; pour la presse écrite: La Liberté, La Gruyère et Die Freiburger Nachrichten, dont les pertes dues à une diminution des annonces publicitaires sont estimées pour 2020 à respectivement 2'223'000 francs, 690'000 francs et 3'470'000 francs;
+
+&gt; pour Radio & TV: RadioFR et La Télé, dont les pertes dues à une diminution des annonces publicitaires sont estimées pour 2020 à respectivement 2'470'000 francs et 610'000 francs.
+
+Début avril, le Conseil fédéral a renoncé à une aide à fonds perdu; finalement, à la mi-avril, il a décidé de proposer un soutien exclusivement aux radios et télévisions publiques, renvoyant une éventuelle aide indirecte à la presse écrite à une décision du Parlement, lequel sera saisi, à la reprise de ses activités, d'un paquet reposant sur deux volets: un soutien des médias en ligne à hauteur de 50 millions de francs par an et une augmentation des contributions fédérales pour la distribution des journaux de 30 à 50 millions par an.
+
+Vu la crise actuelle, le Conseil d'Etat a la volonté d'accorder une aide directe d'urgence à court terme aux principaux médias fribourgeois, complémentaire à celle de la Confédération, compte tenu de la nécessité de garantir une information de qualité et de la mission de service public accrue endossée par les médias susmentionnés dans la communication de crise.
+
+Sur la proposition de la Direction de l'économie et de l'emploi,
+
+Arrête:
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> La présente ordonnance vise à atténuer les conséquences de la pandémie de coronavirus (COVID-19) sur les principaux médias fribourgeois, afin qu'ils puissent garantir le maintien des postes de travail, voire, plus particulièrement dans le domaine de la presse écrite, la survie des titres, et continuer à offrir une information de qualité. Dans ce but, une aide à fonds perdu est octroyée au sens de l'article 2 al. 1 let. a du règlement du 18 septembre 2018 sur la promotion économique (RPEc).
+
+#### Art. 2
+
+**Financement**
+
+<sup>1</sup> Un montant maximal de 5,34 millions de francs est alloué à cette fin. Il est prélevé sur l'enveloppe globale mise à disposition par le Conseil d'Etat conformément à l'article 2 OME COVID 19.
+
+<sup>2</sup> Il est réparti comme il suit:
+
+- a) pour la presse écrite, 3,7 millions de francs;
+- b) pour les médias radiodiffusés et télédiffusés, 1,64 million de francs.
+
+#### Art. 3
+
+**Conditions d'octroi de l'aide à fonds perdu**
+
+<sup>1</sup> Pour la presse écrite, les conditions d'octroi de l'aide accordée en vertu de la présente ordonnance sont les suivantes:
+
+- a) Bénéficiaires de l'aide: peuvent déposer une demande les éditeurs de presse
+  - 1\. dont le siège social est dans le canton de Fribourg et/ou dont les deux tiers du lectorat sont fribourgeois et
+  - 2\. dont l'activité économique a été touchée de manière significative par les effets du COVID-19 et
+  - 3\. à qui l'aide de l'Etat est nécessaire pour garantir le maintien des emplois, voire la survie des titres édités.
+- b) Objet de l'aide: l'aide porte sur une couverture partielle des pertes nettes de chiffre d'affaires.
+- c) Etendue de l'aide: l'Etat prend en charge 50 % des pertes publicitaires par rapport à l'exercice 2019 pour la même période, compensées par d'éventuels revenus supplémentaires dus à une hausse des abonnements.
+- d) Complémentarité: si une aide fédérale extraordinaire doit être accordée courant 2020 en la forme d'une augmentation de la contribution aux frais postaux dits «de distribution», le montant de l'aide fédérale ne sera pas déduit de celui de l'aide cantonale.
+- e) Demande unique: un bénéficiaire ne peut formuler qu'une seule demande, qui regroupe l'ensemble des titres qu'il fait paraître et distribue sur le territoire cantonal.
+- f) Charges sociales: le bénéficiaire atteste qu'il a régulièrement payé les charges sociales à sa charge et celles qu'il doit verser pour le compte de ses employé‑e‑s.
+- g) Impôts: le bénéficiaire atteste qu'il est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s.
+- h) Durée: du 1<sup>er</sup> mars au 31 décembre 2020.
+- i) Délai de dépôt des demandes: les demandes doivent être déposées au plus tard
+  - 1\. jusqu'au 31 mai 2020 pour le mois de mars 2020;
+  - 2\. jusqu'au 31 juillet 2020 pour le 2<sup>e</sup> trimestre 2020;
+  - 3\. jusqu'au 31 octobre 2020 pour le 3<sup>e</sup> trimestre 2020;
+  - 4\. jusqu'au 31 janvier 2021 pour le 4<sup>e</sup> trimestre 2020.
+
+<sup>2</sup> Pour les médias radiodiffusés et télédiffusés, les conditions d'octroi de l'aide accordée en vertu de la présente ordonnance sont les suivantes:
+
+- a) Bénéficiaires de l'aide: peuvent déposer une demande les acteurs des médias radiodiffusés et/ou télédiffusés
+  - 1\. dont le siège social est dans le canton de Fribourg et/ou dont les deux tiers des auditeurs ou téléspectateurs sont fribourgeois et
+  - 2\. dont l'activité économique a été touchée de manière significative par les effets du COVID-19 et
+  - 3\. à qui l'aide de l'Etat est nécessaire pour garantir le maintien des emplois, voire la survie desdits acteurs.
+- b) Objet de l'aide: l'aide porte sur une couverture partielle des pertes nettes de chiffre d'affaires.
+- c) Etendue de l'aide: l'Etat prend en charge 50 % des pertes publicitaires par rapport à l'exercice 2019 pour la même période, jusqu'à concurrence d'un montant maximal de 1'640'000 francs réservés comme il suit:
+  - 1\. pour RadioFR, au maximum 1'235'000 francs;
+  - 2\. pour La Télé, au maximum 305'000 francs;
+  - 3\. pour les autres acteurs de la branche de radio-télédiffusion, au maximum 100'000 francs pour l'ensemble des bénéficiaires.
+- d) Subsidiarité: les montants versés par la Confédération seront portés en déduction de l'aide de l'Etat.
+- e) Cofinancement supracantonal: l'aide éventuelle à La Télé est conditionnée à une participation de même importance de l'Etat de Vaud et/ou de ses communes.
+- f) Charges sociales: le bénéficiaire atteste qu'il a régulièrement payé les charges sociales à sa charge et celles qu'il doit verser pour le compte de ses employé‑e‑s.
+- g) Impôts: le bénéficiaire atteste qu'il est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s.
+- h) Durée: du 1<sup>er</sup> mars au 31 décembre 2020.
+- i) Délai de dépôt des demandes: les demandes doivent être déposées au plus tard
+  - 1\. jusqu'au 31 mai 2020 pour le mois de mars 2020;
+  - 2\. jusqu'au 31 juillet 2020 pour le 2<sup>e</sup> trimestre 2020;
+  - 3\. jusqu'au 31 octobre 2020 pour le 3<sup>e</sup> trimestre 2020;
+  - 4\. jusqu'au 31 janvier 2021 pour le 4<sup>e</sup> trimestre 2020.
+
+<sup>3</sup> Le montant de l'aide octroyée par l'Etat au sens du présent article fera partie intégrante de la comptabilité commerciale de l'entité bénéficiaire.
+
+#### Art. 4
+
+**Modalités**
+
+<sup>1</sup> Les modalités de dépôt et de traitement des demandes d'aide en vertu de l'article 3 al. 1 et 2 de la présente ordonnance sont les suivantes:
+
+- a) Dépôt: la demande d'aide est adressée au Secrétariat général de la Direction de l'économie et de l'emploi (SG-DEE), dûment motivée, sur la base des pertes constatées durant le trimestre précédant la demande.
+- b) Obligation de renseigner: le SG-DEE est autorisé à exiger du requérant qu'il lui fournisse, dans des délais raisonnables, les compléments et/ou clarifications nécessaires au traitement de la demande. Si le requérant ne fournit pas les renseignements demandés dans le délai imparti, il est présumé retirer sa demande.
+- c) Réserve: pour les titres faisant état de difficultés structurelles avant la crise due au COVID-19, un examen approfondi de la demande est réservé.
+- d) Décision: la Direction de l'économie et de l'emploi (DEE) statue par voie de décision; la décision n'est pas sujette à recours.
+
+<sup>3</sup> Pour l'octroi des aides au sens de l'article 3 al. 2 let. c ch. 3 de la présente ordonnance, la compétence financière du Directeur EE est augmentée à 50'000 francs.
+
+<sup>4</sup> En remplissant la formule de demande, les requérants autorisent le SG-DEE à échanger toutes les données contenues dans leurs demandes avec d'autres autorités publiques (fédérales, cantonales et communales) qu'ils délient de leur secret de fonction, bancaire et fiscal, en relation avec le traitement de ces données.
+
+#### Art. 5
+
+**Divers**
+
+<sup>1</sup> Il n'existe pas de droit à l'obtention de l'aide financière.
+
+<sup>2</sup> Les articles 26 à 28 de la loi du 3 octobre 1996 sur la promotion économique (LPEc) et les articles 28 et 29 RPEc sont applicables au demeurant en matière d'obligations du bénéficiaire, de restitution de l'indu ou encore de suites pénales.
+
+#### Art. 6
+
+**Durée de validité**
+
+<sup>1</sup> Pour autant qu'elle est approuvée par le Grand Conseil, la présente ordonnance reste en vigueur aussi longtemps que des mesures d'exécution sont nécessaires à sa mise en œuvre. Le Conseil d'Etat procède à son abrogation formelle dès que cette mise en œuvre est achevée.
+
+<sup>2</sup> A défaut d'approbation par le Grand Conseil, elle expire au terme du délai d'une année prévu par l'article 117 Cst.
+
+2020\_051

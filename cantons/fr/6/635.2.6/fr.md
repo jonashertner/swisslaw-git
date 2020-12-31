@@ -1,0 +1,65 @@
+---
+canton: FR
+number: "635.2.6"
+title: Liste chronologique des conventions de réciprocité en matière de droits sur les successions et les donations
+language: fr
+version: 1991-07-31
+version_adopted: 1991-07-02
+adopted: 1928-11-23
+in_force: 1928-11-27
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.2.6"
+pdf: "https://bdlf.fr.ch/api/fr/versions/4449/pdf_file"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Liste chronologique des conventions de réciprocité en matière de droits sur les successions et les donations
+
+- 1\. Convention des 23 et 27 novembre 1928 entre les gouvernements des cantons de Fribourg et de St-Gall concernant l’exonération de libéralités accordées à des institutions d’utilité publique ou de bienfaisance
+
+**NP**
+
+- 2\. Convention des 1<sup>er</sup> décembre 1930 et 26 mars 1931 entre les gouvernements des cantons de Fribourg et de Glaris concernant l’exonération de libéralités accordées à des institutions d’utilité publique ou de bienfaisance
+
+**NP**
+
+- 3\. Convention des 4 et 13 novembre 1931 entre les gouvernements des cantons de Bâle-Ville et de Fribourg concernant l’exonération de l’impôt sur les successions et sur les donations de libéralités accordées dans un but d’utilité publique
+
+**NP**
+
+- 4\. Déclaration de réciprocité des 15 et 28 avril 1936 entre les gouvernements des cantons de Fribourg et de Lucerne concernant l’exonération de l’impôt sur les successions
+
+**NP**
+
+- 5\. Convention des 26 et 31 octobre 1944 entre les gouvernements des cantons de Fribourg et de Zurich concernant l’exonération réciproque de l’impôt sur les donations et les successions
+
+**NP**
+
+- 6\. Convention de réciprocité des 30 décembre 1955 et 3 février 1956 entre les gouvernements des cantons des Grisons et de Fribourg en matière d’exonération de droits de succession
+
+**NP**
+
+- 7\. Déclaration de réciprocité des 5 et 26 février 1957 entre les gouvernements de la Principauté de Liechtenstein et du canton de Fribourg en matière d’exonération d’impôt sur les successions et donations
+
+**NP**
+
+- 8\. Convention des 24 octobre et 11 novembre 1969 entre les gouvernements des cantons de Neuchâtel et de Fribourg concernant l’exonération de certaines libéralités de tout impôt sur les successions et sur les donations
+
+- 9\. Convention de réciprocité des 3 et 30 avril 1973 entre les gouvernements des cantons de Fribourg et de Bâle-Campagne concernant l’exonération de l’impôt sur les successions et sur les donations
+
+**NP**
+
+- 10\. Convention de réciprocité des 12 et 26 novembre 1973 entre les gouvernements des cantons d’Argovie et de Fribourg concernant l’exonération de libéralités de l’impôt sur les successions et sur les donations
+
+**NP**
+
+- 11\. Convention de réciprocité des 14 juin et 14 août 1978 entre les gouvernements des cantons du Valais et de Fribourg concernant les exonérations de l’impôt sur les successions et donations
+
+**NP**
+
+**NP**
+
+**1991 329**
+
+- 12\. Accord de réciprocité des 2 et 31 juillet 1991 entre les cantons de Vaud et de Fribourg en matière d’exonération d’impôt sur les successions et donations

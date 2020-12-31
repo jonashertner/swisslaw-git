@@ -1,0 +1,835 @@
+---
+canton: FR
+number: "635.2.1"
+title: "Loi sur l'impôt sur les successions et les donations"
+short: LISD
+language: fr
+version: 2019-01-01
+valid_until: 2021-12-31
+version_adopted: 2018-11-07
+adopted: 2007-09-14
+in_force: 2008-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/635.2.1"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6361/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur l'impôt sur les successions et les donations
+
+Impôt sur les successions et les donations – L
+
+(LISD)
+
+du 14.09.2007 (version entrée en vigueur le 01.01.2019)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu l'article 81 de la Constitution du canton de Fribourg du 16 mai 2004;
+
+Vu le message du Conseil d'Etat du 17 avril 2007;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Souveraineté – Etat**
+
+<sup>1</sup> L'Etat prélève un impôt sur les successions et les donations.
+
+#### Art. 2
+
+**Souveraineté – Communes**
+
+<sup>1</sup> Les communes peuvent prélever des centimes additionnels à l'impôt sur les successions et les donations.
+
+<sup>2</sup> Les décisions relatives à l'impôt sur les successions et les donations ont force obligatoire dans la même mesure pour les centimes additionnels.
+
+#### Art. 3
+
+**Champ d'application – Impôt**
+
+<sup>1</sup> L'impôt est prélevé lorsque:
+
+- a) le défunt ou la défunte avait son dernier domicile dans le canton ou lorsque la succession est ouverte dans le canton;
+- b) le donateur ou la donatrice a son domicile ou son siège au regard du droit fiscal dans le canton au moment de la libéralité;
+- c) le transfert entre vifs ou par succession porte sur des immeubles situés dans le canton ou sur des droits grevant de tels immeubles.
+
+<sup>2</sup> Le transfert des actions d'une société immobilière est soumis à l'impôt sur les successions et les donations au lieu de domicile du défunt ou de la défunte ou du donateur ou de la donatrice conformément à l'alinéa 1 let. a et b.
+
+<sup>3</sup> Dans les rapports internationaux, l'impôt est également prélevé lorsque des biens mobiliers sis dans le canton sont transmis à titre gratuit et doivent être, en vertu d'une convention internationale, imposés dans l'Etat du lieu de situation ou de l'établissement stable.
+
+<sup>4</sup> Dans tous les cas, les dispositions énoncées dans les conventions internationales sont réservées.
+
+#### Art. 4
+
+**Champ d'application – Centimes additionnels communaux**
+
+<sup>1</sup> Les centimes additionnels sont dus soit à la commune du lieu du dernier domicile du défunt ou de la défunte ou du lieu d'ouverture de la succession, soit à la commune du domicile ou du siège au regard du droit fiscal du donateur ou de la donatrice au moment de la libéralité.
+
+<sup>2</sup> S'il s'agit d'une personne protégée par une curatelle de portée générale ou par un mandat pour cause d'inaptitude, les centimes additionnels sont dus à la commune de son dernier domicile de fait, à l'exclusion de la commune de son dernier séjour, à la condition que ce dernier domicile soit situé dans le canton.
+
+<sup>3</sup> Si une succession, un legs ou une libéralité porte sur un immeuble, les centimes additionnels sont dus proportionnellement à la commune du lieu de situation selon la règle de répartition figurant à l'article 23.
+
+#### Art. 5
+
+**Objet de l'impôt – En général**
+
+<sup>1</sup> Sont soumis à l'impôt sur les successions les transferts de biens par suite de succession légale, d'institution d'héritier, de legs, d'affectation à une fondation pour cause de mort, de substitution vulgaire ou fidéicommissaire, de donation pour cause de mort.
+
+<sup>2</sup> Sont soumis à l'impôt sur les donations les transferts de biens par suite de libéralités entre vifs procurant à leur bénéficiaire un enrichissement sans contre-prestation équivalente, telles qu'affectation de biens à la création d'une fondation ou à une fondation existante, acte constitutif d'entretien viager ou de rente viagère, acquisition de certains droits réels restreints ou de droits personnels.
+
+<sup>3</sup> Les liquidations anticipées de droits héréditaires, avancements d'hoirie, abandons de biens et autres actes entre vifs faits en vue d'une succession future, les libéralités entre vifs provenant de pactes successoraux ainsi que les pactes de renonciation à succession à titre onéreux sont assimilés aux donations.
+
+#### Art. 6
+
+**Objet de l'impôt – En particulier**
+
+<sup>1</sup> Sont soumises à l'impôt sur les successions et les donations:
+
+- a) la constitution de droits d'usufruit ou d'habitation ainsi que la constitution et la cession de droits de superficie;
+- b) les remises de dettes faites à un débiteur ou une débitrice solvable;
+- c) la charge si elle constitue une libéralité entre vifs ou pour cause de mort en faveur d'un tiers;
+- d) l'acquisition à titre gratuit résultant d'un changement des personnes au sein d'une communauté en main commune ou d'une modification des parts des personnes composant cette communauté, notamment à l'occasion d'un partage;
+- e) les prestations uniques ou périodiques d'assurance versées par suite de décès ou échues du vivant du donateur ou de la donatrice, dans la mesure où elles ne sont pas imposées au titre de l'impôt sur le revenu;
+- f) toute opération juridique effectuée pour éluder le prélèvement de l'impôt et des centimes additionnels.
+
+#### Art. 7
+
+**Objet de l'impôt – Donation mixte**
+
+<sup>1</sup> L'acte juridique à titre onéreux dans lequel la prestation de l'une des parties est en disproportion manifeste avec celle de l'autre partie est assimilé à une donation pour la différence de valeur entre les deux prestations, lorsque cette différence de valeur correspond à l'intention d'effectuer une libéralité.
+
+#### Art. 8
+
+**Exonérations**
+
+<sup>1</sup> Sont exonérés de l'impôt sur les successions et les donations:
+
+- a) la Confédération et ses établissements, dans les limites fixées par la législation fédérale;
+- b) l'Etat de Fribourg et ses établissements;
+- c) les communes, les groupements de communes et leurs établissements;
+- d) les corporations ecclésiastiques et les personnes juridiques canoniques reconnues de droit public, ainsi que les autres collectivités territoriales du canton, et leurs établissements;
+- e) le conjoint ou la conjointe et le ou la partenaire enregistré-e;
+- f) les parents en ligne directe.
+
+<sup>2</sup> Sont également exonérés de l'impôt sur les successions et les donations:
+
+- a) les personnes morales qui bénéficient de l'exonération fiscale selon l'article 97 al. 1 let. g et h de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD) en raison des buts de service public, d'utilité publique ou cultuel qu'elles poursuivent;
+- b) les institutions de prévoyance professionnelle aux conditions prévues par l'article 80 al. 2 de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP);
+- c) les entreprises de personnes et les personnes morales pour les acquisitions de fortune en cas de restructuration au sens des articles 8 al. 3 et 24 al. 3 et 3<sup>quater</sup> de la loi fédérale du 14 décembre 1990 sur l'harmonisation des impôts directs des cantons et des communes;
+- d) les parents pour les acquisitions de fortune tenant lieu de partage total ou partiel, ou consécutives à de telles opérations, lorsqu'elles portent sur des objets provenant de ligne directe. Le conjoint ou la conjointe survivant-e ou le ou la partenaire enregistré-e survivant-e est également exonéré-e lorsqu'il ou elle participe à ces opérations;
+- e) le conjoint ou la conjointe divorcé-e et le ou la partenaire lors de la dissolution du partenariat enregistré si les acquisitions de fortune au sens de la lettre d portent sur des objets acquis sur la base d'un jugement de divorce ou de dissolution du partenariat enregistré;
+- f) le détenteur ou la détentrice de droits de participation revêtant la qualité de personne physique pour les acquisitions d'immeubles d'une société immobilière, en proportion de ses droits et en cas de liquidation totale de la société;
+- g) les bénéficiaires lors de transferts immobiliers déterminés par des opérations d'améliorations foncières et visés par le service chargé des améliorations foncières[^8-1] ou le service chargé des forêts et de la faune[^8-2] ou lors de transferts immobiliers réalisés en vue d'une régularisation peu importante de limites dictée par des raisons cadastrales;
+- h) les bénéficiaires de droits de superficie sous forme de servitude concédés par une collectivité publique en vue d'une activité sportive, culturelle ou sociale et pouvant être assimilés à des subventions;
+- i) les bénéficiaires dans les cas prévus par d'autres dispositions légales.
+
+<sup>3</sup> Pour les personnes morales exonérées selon l'alinéa 2 let. a, l'impôt sera prélevé s'il est donné à l'objet de la libéralité une destination différente dans les dix ans qui suivent le transfert.
+
+<sup>4</sup> Les institutions établies hors du canton sont exonérées de l'impôt lorsqu'elles sont exonérées dans le canton où se trouve leur siège ou pourraient l'être selon la présente loi.
+
+<sup>5</sup> Le Service cantonal des contributions publie une liste des personnes morales qui ont leur siège dans le canton de Fribourg et qui sont exonérées de l'impôt en raison de leurs buts de service public ou d'utilité publique en vertu de l'alinéa 2 let. a. Toute personne morale concernée peut demander à ne pas y figurer en adressant un courrier au Service cantonal des contributions.
+
+[^8-1]: Actuellement: Service de l'agriculture.
+[^8-2]: Actuellement: Service des forêts et de la nature.
+
+#### Art. 9
+
+**Privilège fiscal**
+
+<sup>1</sup> Le transfert d'une part ou d'une entreprise exploitée en la forme commerciale peut, sur demande, être exonéré totalement ou partiellement de l'impôt sur les successions et les donations si le repreneur a son domicile fiscal dans le canton et si l'entreprise sert les intérêts de l'économie fribourgeoise.
+
+<sup>2</sup> Si les conditions auxquelles le privilège fiscal est subordonné ne sont pas respectées, celui-ci est révocable avec effet rétroactif à la date de l'octroi.
+
+<sup>3</sup> La Direction chargée de l'impôt sur les successions et les donations[^9-1] statue à titre définitif après avoir requis le préavis de la Direction chargée de la promotion économique[^9-2] et de la commune créancière des centimes additionnels.
+
+<sup>4</sup> La demande ne suspend pas le délai de réclamation.
+
+[^9-1]: Actuellement: Direction des finances.
+[^9-2]: Actuellement: Direction de l'économie et de l'emploi.
+
+#### Art. 10
+
+**Débiteurs ou débitrices**
+
+<sup>1</sup> L'impôt et les centimes additionnels sont dus:
+
+- a) par le ou la bénéficiaire de la libéralité entre vifs;
+- b) par l'héritier ou l'héritière et le ou la légataire;
+- c) par la personne grevée, puis par la personne appelée, en cas de substitution fidéicommissaire;
+- d) par l'ayant droit, lors de l'acquisition d'un droit réel restreint ou d'un droit personnel;
+- e) par le tiers bénéficiaire lors de prestations découlant d'une assurance.
+
+<sup>2</sup> Les héritiers et héritières répondent solidairement, jusqu'à concurrence de leur part héréditaire, du paiement de l'impôt et des centimes additionnels dus par le défunt ou la défunte.
+
+## 2 Assiette de l'impôt
+
+#### Art. 11
+
+**En général**
+
+<sup>1</sup> La base de calcul est donnée en règle générale par la valeur vénale des biens au moment où naît le droit de taxer.
+
+#### Art. 12
+
+**En particulier – Immeubles**
+
+<sup>1</sup> Pour les immeubles, la base de calcul est donnée par la valeur fiscale fixée en application de la loi sur les impôts cantonaux directs d'après l'état de l'immeuble à la fin de la dernière période fiscale. Est réservée la plus-value depuis le début de la période fiscale en cours jusqu'au moment où naît le droit de taxer.
+
+#### Art. 13
+
+**En particulier – Biens mobiliers**
+
+<sup>1</sup> Pour les biens mobiliers qui font partie de la fortune commerciale, la valeur déterminante est la valeur comptable.
+
+<sup>2</sup> Le mobilier de ménage usuel, les objets personnels d'usage courant ainsi que les présents d'usage ne sont pas imposables.
+
+#### Art. 14
+
+**En particulier – Créances et participations**
+
+<sup>1</sup> La base de calcul des créances et des participations cotées en bourse correspond à leur valeur boursière au moment où naît le droit de taxer.
+
+<sup>2</sup> Pour la base de calcul des créances et des participations non cotées, l'article 57 al. 2 et 3 LICD est applicable par analogie.
+
+#### Art. 15
+
+**En particulier – Biens immatériels**
+
+<sup>1</sup> Pour la base de calcul des biens immatériels, l'article 58 LICD est applicable par analogie.
+
+#### Art. 16
+
+**En particulier – Prestations d'assurance**
+
+<sup>1</sup> La base de calcul des prestations d'assurance est donnée par la valeur de rachat ou la somme d'assurance versée.
+
+#### Art. 17
+
+**En particulier – Substitution fidéicommissaire**
+
+<sup>1</sup> Lorsque la personne grevée est tenue de sauvegarder la substance de la succession, la base de calcul est donnée par le rendement capitalisé de la succession dévolue.
+
+<sup>2</sup> Lorsque la personne grevée acquiert un héritage ou un legs à titre définitif, elle est tenue d'acquitter l'impôt ordinaire sur les successions. Le montant de l'impôt qui aura déjà été acquitté lui est porté en compte sans intérêts.
+
+<sup>3</sup> Lorsque la substitution fidéicommissaire porte sur les biens résiduels, la base de calcul est donnée par la valeur des biens dévolus à la personne grevée.
+
+<sup>4</sup> Au moment de l'ouverture de la substitution fidéicommissaire, qu'elle porte ou non sur les biens résiduels, la base de calcul est donnée par la valeur des biens dévolus à la personne appelée.
+
+#### Art. 18
+
+**En particulier – Droit d'usufruit, droit d'habitation et prestations périodiques**
+
+<sup>1</sup> La base de calcul des droits d'usufruit et d'habitation ainsi que des prestations périodiques est donnée par la capitalisation effectuée d'après les tables usuelles ayant cours en matière judiciaire. Pour les droits de durée indéterminée concédés à une personne morale, la capitalisation s'opère comme pour une rente perpétuelle.
+
+<sup>2</sup> Pour les droits d'usufruit et d'habitation, la capitalisation ne peut excéder les trois quarts de la valeur déterminante pour le genre de bien sur lequel le droit porte.
+
+<sup>3</sup> Les taux nécessaires pour opérer la capitalisation sont fixés par le Conseil d'Etat.
+
+#### Art. 19
+
+**En particulier – Droit de superficie**
+
+<sup>1</sup> La base de calcul du droit de superficie est donnée par la valeur fiscale de l'immeuble sur lequel le droit porte, escomptée selon les tables usuelles ayant cours en matière judiciaire et au taux fixé par le Conseil d'Etat.
+
+#### Art. 20
+
+**En particulier – A titre subsidiaire**
+
+<sup>1</sup> Si les principes énumérés ci-dessus ne permettent pas de déterminer une base de calcul, l'autorité de taxation fixe l'impôt par appréciation, après avoir entendu le débiteur ou la débitrice et, au besoin, après avoir fait procéder à une expertise.
+
+#### Art. 21
+
+**Donation mixte**
+
+<sup>1</sup> En cas de donation mixte, la base de calcul est donnée:
+
+- a) pour le transfert d'immeubles appartenant à la fortune privée du cédant ou de la cédante, par la valeur fiscale, déduction faite des prestations convenues;
+- b) pour le transfert d'une entreprise commerciale ou d'un bien appartenant à la fortune commerciale du cédant ou de la cédante, par la valeur comptable déterminante pour l'impôt direct, déduction faite des prestations convenues;
+- c) pour le transfert de participations dans une société commerciale, par la valeur la plus basse entre la valeur proportionnelle du capital propre déterminant pour le calcul de l'impôt direct et la valeur des participations fixée conformément à l'article 14, déduction faite des prestations convenues.
+
+#### Art. 22
+
+**Déductions objectives**
+
+<sup>1</sup> Sont déduits de la succession, pour le calcul de l'impôt:
+
+- a) les dettes du défunt ou de la défunte, y compris les dettes hypothécaires et l'indemnité équitable prévue aux articles 334 et 334<sup>bis</sup> du code civil suisse (CC);
+- b) les dettes de la succession, tels les frais funéraires jusqu'à un maximum fixé par le Conseil d'Etat, les frais de la dévolution, les frais d'entretien au sens de l'article 606 CC et les frais d'éducation au sens de l'article 631 al. 2 CC. Sont exclus les frais en relation avec le partage;
+- c) les legs.
+
+<sup>2</sup> Sont déduites de la libéralité les dettes mises à la charge du ou de la légataire et du ou de la donataire.
+
+<sup>3</sup> Si les biens dévolus ou transférés sont grevés d'un droit d'usufruit, d'habitation, de superficie ou liés à l'obligation de verser des prestations périodiques, la valeur capitalisée de la charge est déduite. Il en est de même de la valeur économique des charges et des conditions qui diminuent l'enrichissement du ou de la bénéficiaire d'une libéralité entre vifs ou pour cause de mort.
+
+<sup>4</sup> Si un droit d'usufruit, d'habitation ou de superficie est constitué en même temps que la dévolution ou le transfert du bien grevé, la valeur capitalisée de la charge est déduite de la valeur du bien.
+
+#### Art. 23
+
+**Répartition**
+
+<sup>1</sup> Lorsque la succession d'une personne qui, au moment de son décès, était domiciliée hors du canton comprend des immeubles situés dans le canton, l'impôt est perçu sur la valeur de ces immeubles, déduction faite d'une part proportionnelle des dettes de la succession.
+
+<sup>2</sup> Si une succession comprend des immeubles situés hors du canton, ces immeubles contribuent au paiement des dettes de la succession, dans la proportion de leur valeur.
+
+<sup>3</sup> La même règle est applicable lorsque les centimes additionnels concernent plusieurs communes du canton.
+
+## 3 Calcul de l'impôt
+
+#### Art. 24
+
+**Déduction personnelle**
+
+<sup>1</sup> Il est déduit 5000 francs des libéralités faites à chaque bénéficiaire.
+
+<sup>2</sup> Lorsqu'un ou une bénéficiaire reçoit plusieurs libéralités entre vifs ou pour cause de mort d'une même personne pendant cinq ans, le montant exonéré n'est accordé au total qu'une seule fois.
+
+#### Art. 25
+
+**Taux a) Impôt**
+
+<sup>1</sup> L'impôt dû à l'Etat est calculé aux taux d'imposition suivants:
+
+- a) pour les bénéficiaires issus de la deuxième parentèle:
+  - 1\. Frères et sœurs: 5,25 %
+  - 2\. Neveux et nièces: 8,25 %
+  - 3\. Petits-neveux et petites-nièces: 10,50 %
+  - 4\. Descendants des petits-neveux et petites-nièces: 12,75 %
+- b) pour les bénéficiaires issus de la troisième parentèle:
+  - 1\. Oncles et tantes: 8,25 %
+  - 2\. Cousins et cousines: 12,75 %
+  - 3\. Descendants des cousins et cousines: 17,25 %
+- c) pour les autres bénéficiaires avec ou sans degré de parenté:
+  - 1\. Enfants du ou de la conjoint-e ou partenaire enregistré-e, enfants placés ou recueillis, et leurs descendants: 7,75 %
+  - 2\. Personnes faisant ménage commun depuis dix ans au moins et ayant le même domicile fiscal: 8,25 %
+  - 3\. Autres bénéficiaires avec ou sans degré de parenté: 22,00 %
+
+<sup>2</sup> Pour les personnes faisant ménage commun et ayant le même domicile fiscal, la communauté de vie doit avoir duré pendant dix ans au moins sans discontinuité et exister au moment où naît le droit de taxer. La preuve de la durée du ménage commun incombe aux bénéficiaires.
+
+<sup>3</sup> Pour les associations, fondations et autres personnes morales poursuivant un but idéal et non exonérées selon l'article 8 al. 2 let. a, l'impôt dû à l'Etat est de 3 %.
+
+#### Art. 26
+
+**b) Centimes additionnels communaux**
+
+<sup>1</sup> Le taux des centimes additionnels ne peut excéder 70 % de l'impôt.
+
+<sup>2</sup> Est applicable le taux en vigueur lors de la naissance du droit de taxer.
+
+<sup>3</sup> Chaque commune informe le service compétent en matière d'impôt sur les successions et les donations du taux de ses centimes additionnels ainsi que de chaque modification de ce taux avec la date d'entrée en vigueur.
+
+## 4 Autorités d'application
+
+#### Art. 27
+
+**...**
+
+#### Art. 28
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat édicte les dispositions nécessaires à l'exécution de la présente loi et exerce la haute surveillance en la matière.
+
+#### Art. 29
+
+**Direction**
+
+<sup>1</sup> La Direction chargée de l'impôt sur les successions et les donations[^29-1] (ci-après: la Direction) veille à une application uniforme de la présente loi; elle donne les instructions nécessaires aux organes administratifs chargés de l'appliquer et peut procéder à des contrôles.
+
+<sup>2</sup> Elle statue sur les cas de remise prévus à l'article 56 ainsi que sur les cas de privilège fiscal visés par l'article 9.
+
+[^29-1]: Actuellement: Direction des finances.
+
+#### Art. 30
+
+**Service**
+
+<sup>1</sup> Le Service compétent en matière d'impôt sur les successions et les donations[^30-1] (ci-après: le Service) est l'autorité de taxation et de rappel pour l'impôt et les centimes additionnels.
+
+<sup>2</sup> Il statue:
+
+- a) sur les réclamations dans les cas prévus par la présente loi;
+- b) sur les cas d'exonération prévus à l'article 8;
+- c) sur les demandes en restitution de l'indu.
+
+<sup>3</sup> Il prononce les amendes prévues par la présente loi pour les contraventions et dénonce au ou à la juge pénal-e ordinaire les cas d'infraction visés à l'article 68 al. 1.
+
+<sup>4</sup> Il recouvre et comptabilise l'impôt, les centimes additionnels, les intérêts moratoires et les amendes.
+
+<sup>5</sup> Il prélève, pour l'Etat, une commission d'encaissement calculée sur le capital des centimes additionnels dus et dont le taux est fixé par le Conseil d'Etat.
+
+<sup>6</sup> Il est compétent pour accorder un sursis ou autoriser un versement par acomptes et pour requérir l'inscription de l'hypothèque légale.
+
+[^30-1]: Actuellement: Service cantonal des contributions.
+
+#### Art. 31
+
+**...**
+
+## 5 Taxation
+
+#### Art. 32
+
+**Droit de taxer**
+
+<sup>1</sup> Le droit de taxer naît:
+
+- a) à l'ouverture de la succession, lorsque les biens sont dévolus pour cause de mort;
+- b) à l'ouverture de la substitution fidéicommissaire, lorsque les biens sont dévolus à la personne appelée;
+- c) au moment de l'exécution de la libéralité, lorsque les biens sont dévolus par donation ou par un autre acte entre vifs assimilé à une donation;
+- d) au moment de l'avènement de la condition, lorsque la libéralité est soumise à une condition suspensive.
+
+<sup>2</sup> La déclaration d'absence est assimilée au décès.
+
+#### Art. 33
+
+**Impôt sur les successions – Inventaire**
+
+<sup>1</sup> La taxation se fait sur la base d'un inventaire officiel de la succession établi dans les deux semaines qui suivent le décès, compte tenu des dispositions pour cause de mort. Aucun inventaire n'est établi lorsque les circonstances permettent de présumer que le défunt ou la défunte n'a pas laissé de fortune.
+
+<sup>2</sup> L'inventaire comprend la fortune successorale et mentionne tous les faits revêtant une importance pour la taxation. Les articles 197 à 200 LICD sont applicables.
+
+#### Art. 34
+
+**Impôt sur les successions – Obligation de renseigner**
+
+<sup>1</sup> Chaque bénéficiaire d'une libéralité pour cause de mort, ou son représentant ou organe légal, doit communiquer au Service tous les renseignements et toutes les pièces nécessaires pour déterminer l'existence et l'étendue de l'impôt à payer.
+
+<sup>2</sup> La même obligation incombe au ou à la notaire pour toutes les informations et pièces dont il ou elle a connaissance dans l'exercice de son activité professionnelle et qui sont nécessaires pour assurer une taxation complète et exacte.
+
+#### Art. 35
+
+**Impôt sur les donations – Déclaration et information**
+
+<sup>1</sup> La taxation se fait sur la base de la déclaration faite au Service.
+
+<sup>2</sup> La déclaration doit être faite par chaque bénéficiaire d'une libéralité entre vifs dans les trente jours qui suivent l'exécution de la libéralité. Cette obligation de déclarer incombe également à l'auteur-e de la libéralité, si le ou la bénéficiaire est domicilié-e hors du canton.
+
+<sup>3</sup> Lorsqu'il existe un représentant ou organe légal, les devoirs mentionnés à l'alinéa précédent lui incombent.
+
+<sup>4</sup> Le ou la notaire doit informer le ou la bénéficiaire et, le cas échéant, l'auteur-e de la libéralité, ou le représentant ou organe légal, de leur obligation de faire la déclaration dans les délais.
+
+#### Art. 36
+
+**Impôt sur les donations – Obligation de renseigner**
+
+<sup>1</sup> Chaque partie à un acte comportant une libéralité, ou son représentant ou organe légal, doit communiquer au Service tous les renseignements et toutes les pièces nécessaires pour déterminer l'existence et l'étendue de l'impôt à payer.
+
+<sup>2</sup> La même obligation incombe au ou à la notaire pour toutes les informations et pièces dont il ou elle a connaissance dans l'exercice de son activité professionnelle et qui sont nécessaires pour assurer une taxation complète et exacte.
+
+#### Art. 37
+
+**Collaboration**
+
+<sup>1</sup> Les autorités administratives et judiciaires de l'Etat et des communes communiquent sur demande et gratuitement tous les renseignements nécessaires à l'application de la présente loi aux autorités chargées de son exécution. Elles peuvent signaler spontanément à celles-ci les cas qui pourraient avoir fait l'objet d'une imposition incomplète.
+
+<sup>2</sup> ...
+
+#### Art. 38
+
+**Taxation d'office**
+
+<sup>1</sup> Le Service peut procéder à une taxation d'office, sur la base des éléments connus, lorsque, malgré une sommation, il n'est pas donné suite à une demande de renseignements ou de pièces ou qu'il n'est pas donné suite à une citation à comparaître pour être entendu.
+
+<sup>2</sup> L'application des dispositions pénales est réservée.
+
+#### Art. 39
+
+**Délai – Forme**
+
+<sup>1</sup> La taxation a lieu en règle générale dans les trente jours qui suivent la réception de tous les éléments et pièces nécessaires à la taxation; une taxation partielle peut être établie lorsque certains éléments sur lesquels se fonde la taxation ne sont pas encore connus.
+
+<sup>2</sup> La taxation fait l'objet d'un bordereau daté et signé contenant la base d'imposition, le taux applicable et le montant de l'impôt et des centimes additionnels. Lorsque le Service s'écarte de la base de calcul résultant des éléments fournis par les parties, il en indique les motifs essentiels. Si la taxation est partielle, mention en est faite sur le bordereau.
+
+<sup>3</sup> Le bordereau est adressé au débiteur ou à la débitrice avec l'indication d'un délai de paiement de trente jours, des conséquences prévues aux articles 50 et 51 et de la voie de droit utilisable.
+
+#### Art. 40
+
+**...**
+
+## 6 Voies de droit
+
+#### Art. 41
+
+**Réclamation – Décisions sujettes à réclamation**
+
+<sup>1</sup> Le débiteur ou la débitrice peut, dans les trente jours dès la notification du bordereau, interjeter une réclamation au Service.
+
+<sup>2</sup> Une réclamation peut également être interjetée, dans les trente jours, contre les décisions relatives au rappel, à une contravention, à une restitution de l'indu, à une exonération prise en application de l'article 8 ou à l'intérêt moratoire ou rémunératoire.
+
+#### Art. 42
+
+**Réclamation – Forme et contenu**
+
+<sup>1</sup> La réclamation doit être écrite, brièvement motivée et contenir les conclusions du réclamant ou de la réclamante.
+
+<sup>2</sup> L'autorité de réclamation peut accorder un délai supplémentaire pour compléter l'exposé des motifs.
+
+<sup>3</sup> Les réclamations qui ne contiennent ni conclusions ni motifs sont irrecevables.
+
+#### Art. 43
+
+**Réclamation – Effet suspensif**
+
+<sup>1</sup> La réclamation suspend l'exigibilité de la créance mais non le cours de l'intérêt moratoire.
+
+#### Art. 44
+
+**Réclamation – Instruction et décision**
+
+<sup>1</sup> L'autorité dispose des mêmes compétences que lors de la prise de la décision attaquée.
+
+<sup>2</sup> Elle vérifie la décision dans son ensemble, sans être liée par les conclusions du réclamant ou de la réclamante, même au désavantage de celui-ci ou de celle-ci et sans égard à un éventuel retrait de réclamation. Lorsque l'autorité envisage une modification de la décision au détriment du réclamant ou de la réclamante, elle l'en avise et lui fixe un délai pour présenter ses observations et produire éventuellement de nouveaux moyens de preuve.
+
+<sup>3</sup> Les décisions sur réclamation doivent être motivées et indiquer la voie de droit utilisable.
+
+#### Art. 45
+
+**Recours – Décisions sujettes à recours**
+
+<sup>1</sup> Les décisions sur réclamation et les décisions concernant la remise peuvent faire l'objet d'un recours au Tribunal cantonal.
+
+#### Art. 46
+
+**Recours – Procédure**
+
+<sup>1</sup> La procédure de recours est régie par le code de procédure et de juridiction administrative, sous réserve des dispositions qui suivent.
+
+#### Art. 47
+
+**Recours – Effet suspensif**
+
+<sup>1</sup> Le recours suspend l'exigibilité de la créance mais non le cours de l'intérêt moratoire.
+
+#### Art. 48
+
+**Recours – Instruction et retrait du recours**
+
+<sup>1</sup> Le président ou la présidente de l'autorité de recours procède à l'instruction de la cause. Il ou elle peut déléguer, par voie de compétence générale ou spéciale, ses compétences à un autre membre de l'autorité ou à un greffier rapporteur ou une greffière rapporteure.
+
+<sup>2</sup> L'autorité d'instruction dispose des mêmes compétences que l'autorité de première instance.
+
+<sup>3</sup> Lorsque l'autorité envisage une modification de la décision au détriment du recourant ou de la recourante, elle l'en avise de même que l'autorité dont la décision est attaquée et leur fixe un délai pour présenter leurs observations et produire éventuellement de nouveaux moyens de preuve.
+
+<sup>4</sup> L'autorité n'est pas liée par un éventuel retrait du recours.
+
+#### Art. 49
+
+**Révision**
+
+<sup>1</sup> Les décisions passées en force peuvent être révisées pour les motifs et selon la procédure prévus par les articles 188, 189 et 190 LICD applicables par analogie.
+
+## 7 Perception et garantie
+
+#### Art. 50
+
+**Délai de paiement et intérêt moratoire**
+
+<sup>1</sup> L'impôt et les centimes additionnels doivent être payés au Service dans un délai de trente jours.
+
+<sup>2</sup> Pour l'impôt et les centimes additionnels non payés dans le délai, il est dû dès l'échéance un intérêt moratoire aux conditions fixées par la Direction.
+
+#### Art. 51
+
+**Sommation et poursuite**
+
+<sup>1</sup> Pour l'impôt et les centimes additionnels non payés dans les trente jours à partir de l'échéance, le Service notifie une sommation au débiteur ou à la débitrice.
+
+<sup>2</sup> Si le paiement n'est pas effectué dans le délai fixé par la sommation, une poursuite peut être introduite.
+
+<sup>3</sup> Si le débiteur ou la débitrice n'a pas de domicile en Suisse ou si un séquestre a été ordonné sur tout ou partie de ses biens, une poursuite peut être introduite sans sommation préalable.
+
+<sup>4</sup> Les frais de perception sont mis à la charge du débiteur ou de la débitrice.
+
+#### Art. 52
+
+**Responsabilité**
+
+<sup>1</sup> Les héritiers et héritières sont solidairement responsables, jusqu'à concurrence de leur part héréditaire, de la totalité de l'impôt et des centimes additionnels grevant la succession, y compris ceux qui grèvent les legs.
+
+<sup>2</sup> En cas de libéralité entre vifs, le donateur ou la donatrice répond solidairement avec le ou la bénéficiaire de la libéralité; si la libéralité est faite à plusieurs personnes en commun, les bénéficiaires sont solidairement responsables avec le donateur ou la donatrice, jusqu'à concurrence du montant de la part qui leur revient.
+
+#### Art. 53
+
+**Hypothèque légale**
+
+<sup>1</sup> Lorsque la libéralité entre vifs ou pour cause de mort porte sur un immeuble, le paiement de l'impôt, des centimes additionnels et de l'intérêt moratoire est garanti par une hypothèque légale (art. 73 LACC).
+
+#### Art. 54
+
+**Sursis et acomptes**
+
+<sup>1</sup> Si le paiement, dans le délai prévu, de l'impôt, des centimes additionnels ou de l'amende doit avoir pour le débiteur ou la débitrice des conséquences particulièrement dures, le Service peut accorder, sur demande motivée, un sursis ou la possibilité d'effectuer un versement par acomptes. L'intérêt moratoire reste dû.
+
+<sup>2</sup> Les décisions concernant les facilités de paiement ne peuvent être contestées au moyen des voies de droit ordinaires.
+
+#### Art. 55
+
+**Dation en paiement**
+
+<sup>1</sup> Moyennant accord de l'Etat et du débiteur ou de la débitrice de l'impôt et des centimes additionnels, ceux-ci peuvent être acquittés totalement ou partiellement au moyen de biens culturels. En cas d'accord, l'Etat verse les centimes additionnels à la commune créancière.
+
+<sup>2</sup> Est réputé bien culturel tout bien meuble tel qu'œuvre d'art, livre, objet de collection ou document, dans la mesure où il présente une haute valeur artistique, historique ou scientifique. Le paiement de l'impôt et des centimes additionnels au moyen d'immeubles est exclu.
+
+<sup>3</sup> Il n'est pas nécessaire que le bien dont la mise en paiement est proposée fasse partie de la succession ou de la donation soumise à l'impôt.
+
+<sup>4</sup> La procédure est réglée par le Conseil d'Etat.
+
+#### Art. 56
+
+**Remise**
+
+<sup>1</sup> Exceptionnellement, l'impôt, les centimes additionnels et l'intérêt moratoire peuvent, sur demande, être remis totalement ou partiellement à la personne débitrice qui est tombée dans le dénuement ou qui, pour toute autre raison, se trouve dans une situation telle que le paiement aurait pour elle des conséquences trop dures.
+
+<sup>2</sup> La demande en remise doit être écrite, motivée et accompagnée des preuves nécessaires.
+
+<sup>3</sup> La Direction statue, au besoin après avoir requis le préavis de la commune créancière des centimes additionnels.
+
+<sup>4</sup> La demande en remise ne suspend pas le délai de réclamation.
+
+#### Art. 57
+
+**Rappel**
+
+<sup>1</sup> Lorsque, en raison de faits ou de moyens de preuve que l'autorité compétente ne pouvait pas connaître, une taxation définitive est restée incomplète, même en l'absence de faute du débiteur ou de la débitrice, le Service procède au rappel de l'impôt et des centimes additionnels.
+
+<sup>2</sup> L'application des dispositions pénales est réservée.
+
+#### Art. 58
+
+**Demande en restitution de l'indu**
+
+<sup>1</sup> La personne débitrice peut, sur demande formulée par écrit, motivée et adressée au Service, obtenir la restitution de l'impôt, des centimes additionnels, de l'intérêt moratoire ou d'une amende qu'elle a payés:
+
+- a) lorsque l'opération soumise à prélèvement est frappée d'annulation judiciaire;
+- b) lorsque, en cas de libéralité entre vifs, les parties ont annulé l'opération soumise à prélèvement et que la personne débitrice apporte la preuve que les conditions d'une cause légale de nullité ou d'annulabilité sont réunies;
+- c) lorsque la décision en vertu de laquelle elle a payé est annulée ou modifiée par suite de réclamation, de recours ou de révision;
+- d) lorsque, par erreur, elle a payé ce qu'elle ne devait pas ou plus qu'elle ne devait;
+- e) lorsque les conditions posées par l'article 86 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite sont remplies.
+
+<sup>2</sup> La restitution n'a pas lieu lorsqu'il se révèle que l'opération ayant fondé le prélèvement comprend une soustraction commise intentionnellement.
+
+<sup>3</sup> Les montants qui sont restitués portent intérêts rémunératoires dès le jour du paiement aux conditions fixées par la Direction.
+
+#### Art. 59
+
+**…**
+
+## 8 Dispositions pénales
+
+#### Art. 60
+
+**Contraventions – Inobservation de prescriptions d'ordre**
+
+<sup>1</sup> La personne qui, malgré une sommation et sans qu'il y ait soustraction ni tentative de soustraction, enfreint intentionnellement ou par négligence notamment les obligations qui lui incombent dans la procédure d'établissement d'inventaire (art. 33 al. 2) ou l'obligation de renseigner (art. 34 et 36) est passible d'une amende de 1000 francs au plus.
+
+<sup>2</sup> Dans les cas graves ou de récidive, l'amende est de 10'000 francs au plus.
+
+#### Art. 61
+
+**Contraventions – Inobservation du devoir de déclarer ou d'informer**
+
+<sup>1</sup> La personne qui, intentionnellement ou par négligence et sans qu'il y ait soustraction ni tentative de soustraction, enfreint l'obligation de déclarer dans le délai légal une opération soumise à l'impôt (art. 35 al. 2 et 3) est passible d'une amende de 1000 francs au plus.
+
+<sup>2</sup> La personne qui, intentionnellement ou par négligence et sans participation à soustraction, enfreint son devoir d'informer le ou la bénéficiaire ou l'auteur-e de la libéralité de son obligation d'annoncer dans le délai légal une opération soumise à l'impôt (art. 35 al. 4) est passible d'une amende de 1000 francs au plus.
+
+<sup>3</sup> Dans les cas graves ou de récidive visés aux alinéas 1 et 2, l'amende est de 10'000 francs au plus.
+
+#### Art. 62
+
+**Contraventions – Soustraction a) Commission**
+
+<sup>1</sup> Est puni-e de l'amende:
+
+- a) le débiteur ou la débitrice qui, intentionnellement ou par négligence, fait en sorte qu'une taxation ne soit pas effectuée alors qu'elle devrait l'être, notamment en n'annonçant pas une opération ou la réalisation d'une condition fondant un prélèvement, ou qu'une taxation entrée en force soit incomplète;
+- b) le débiteur ou la débitrice qui, intentionnellement ou par négligence, obtient une restitution d'impôt illégale ou une remise d'impôt injustifiée.
+
+<sup>2</sup> L'amende est fixée au montant allant au maximum à deux fois celui de l'impôt soustrait.
+
+<sup>3</sup> Lorsque le débiteur ou la débitrice annonce spontanément la soustraction, l'amende est en règle générale réduite jusqu'à la moitié de l'impôt soustrait.
+
+<sup>4</sup> L'impôt et les centimes additionnels sont dus en plus de l'amende.
+
+#### Art. 63
+
+**Contraventions – Soustraction b) Tentative**
+
+<sup>1</sup> Le débiteur ou la débitrice qui tente de commettre une soustraction est puni-e d'une amende.
+
+<sup>2</sup> L'amende est fixée au montant allant jusqu'aux deux tiers de la peine qui serait infligée si la soustraction avait été consommée.
+
+#### Art. 64
+
+**Contraventions – Soustraction c) Instigation et complicité**
+
+<sup>1</sup> La personne qui, intentionnellement, incite autrui à commettre une soustraction ou lui prête assistance est passible, si la soustraction a été commise et indépendamment de la peine encourue par le débiteur ou la débitrice, d'une amende de 10'000 francs au plus. Dans les cas graves ou de récidive, l'amende est de 20'000 francs au plus.
+
+<sup>2</sup> En outre, le paiement solidaire de l'impôt et des centimes additionnels soustraits pourra être exigé de la personne instigatrice ou complice.
+
+#### Art. 65
+
+**Contraventions – Dissimulation ou distraction de biens successoraux dans une procédure d'inventaire**
+
+<sup>1</sup> Est punie de l'amende:
+
+- a) la personne qui, en sa qualité d'héritier, de représentant des héritiers, d'exécuteur testamentaire ou de tiers, dissimule ou distrait des biens successoraux dont elle est tenue d'annoncer l'existence dans la procédure d'inventaire, dans le dessein de les soustraire à l'inventaire;
+- b) la personne qui incite à un tel acte ou y prête son assistance ou le favorise.
+
+<sup>2</sup> L'amende est de 10'000 francs au plus; elle est de 50'000 francs au plus dans les cas graves ou de récidive.
+
+<sup>3</sup> La tentative de dissimulation ou de distraction des biens successoraux est également punissable. Une peine plus légère que celle qui est encourue en cas d'infraction consommée peut être prononcée.
+
+#### Art. 66
+
+**Contraventions – Personnes morales**
+
+<sup>1</sup> Lorsqu'une contravention a été commise au profit d'une personne morale, celle-ci est punie d'une amende.
+
+<sup>2</sup> Lorsqu'une personne morale a incité, prêté assistance ou participé, dans l'exercice de son activité, à la soustraction commise par un tiers, l'article 64 lui est applicable par analogie.
+
+<sup>3</sup> La poursuite pénale des organes ou des représentants de la personne morale en vertu de l'article 64 est réservée.
+
+#### Art. 67
+
+**Contraventions – Procédure**
+
+<sup>1</sup> Le Service informe de l'ouverture de la procédure l'auteur-e présumé-e d'une contravention à la présente loi et l'invite à présenter ses observations.
+
+<sup>2</sup> Il fixe le montant de l'amende en tenant compte du degré de culpabilité, des circonstances de l'acte et des conditions personnelles.
+
+<sup>3</sup> Il notifie sa décision au contrevenant ou à la contrevenante, avec indication de la voie de droit utilisable.
+
+#### Art. 68
+
+**Délit – Usage de faux**
+
+<sup>1</sup> La personne qui, dans le but de commettre une soustraction d'impôt ou de centimes additionnels, fait usage de titres faux, falsifiés ou inexacts quant à leur contenu est punie d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.
+
+<sup>2</sup> La répression de la soustraction de l'impôt et des centimes additionnels est réservée.
+
+#### Art. 69
+
+**Délit – Autorité et règles applicables**
+
+<sup>1</sup> L'infraction visée à l'article 68 al. 1 est de la compétence du ou de la juge pénal-e ordinaire.
+
+<sup>2</sup> Les dispositions générales du code pénal suisse et la loi sur la justice sont applicables, sous réserve des règles spéciales figurant aux articles 75 et 76.
+
+## 9 Prescription et péremption
+
+#### Art. 70
+
+**Impôt et centimes additionnels – Taxation**
+
+<sup>1</sup> Le droit de taxer se prescrit par cinq ans à compter du jour de l'ouverture de la succession ou de l'exécution de la libéralité.
+
+<sup>2</sup> Il se périme par dix ans à compter de ce jour, sous réserve d'un délai plus long du droit de sanctionner.
+
+#### Art. 71
+
+**Impôt et centimes additionnels – Rappel**
+
+<sup>1</sup> Le droit de procéder au rappel de l'impôt et des centimes additionnels se périme par dix ans à compter du jour où la taxation est devenue définitive, sous réserve d'un délai plus long du droit de sanctionner.
+
+#### Art. 72
+
+**Impôt et centimes additionnels – Créances**
+
+<sup>1</sup> La créance d'impôt et celle des centimes additionnels se prescrivent par cinq ans à compter du jour où elles sont devenues exigibles.
+
+<sup>2</sup> La péremption est acquise par dix ans à compter de ce jour.
+
+#### Art. 73
+
+**Impôt et centimes additionnels – Restitution de l'indu**
+
+<sup>1</sup> Le droit de demander la restitution de l'indu se périme par dix ans à compter du jour du paiement.
+
+#### Art. 74
+
+**Impôt et centimes additionnels – Suspension et interruption de la prescription**
+
+<sup>1</sup> L'article 151 al. 2 et 3 LICD est applicable par analogie à la suspension et à l'interruption de la prescription.
+
+#### Art. 75
+
+**Infractions – Droit de sanctionner**
+
+<sup>1</sup> Le droit de sanctionner les infractions prévues aux articles 60 et 61 se périme par cinq ans à compter de la commission de l'infraction.
+
+<sup>2</sup> Il se périme par quinze ans pour les infractions prévues aux articles 62 à 69.
+
+#### Art. 76
+
+**Infractions – Amendes**
+
+<sup>1</sup> Les amendes prononcées en application des articles 60 à 69 se prescrivent par cinq ans à compter du jour où le prononcé est devenu définitif; l'article 74 est applicable.
+
+<sup>2</sup> La péremption est acquise par dix ans à compter du jour où le prononcé est devenu définitif.
+
+## 10 Dispositions finales
+
+#### Art. 77
+
+**Droit transitoire**
+
+<sup>1</sup> Le prélèvement de l'impôt et des centimes additionnels pour les successions ouvertes avant l'entrée en vigueur de la présente loi ainsi que pour les libéralités dont l'exécution a eu lieu avant l'entrée en vigueur de la présente loi demeure régi par la loi et le tarif sur les droits d'enregistrement.
+
+<sup>2</sup> Les dispositions de la présente loi concernant la procédure de taxation et la perception de l'impôt s'appliquent dès l'entrée en vigueur de la présente loi, même lorsque la succession a été ouverte ou la libéralité exécutée avant son entrée en vigueur.
+
+<sup>3</sup> Les infractions fiscales commises avant l'entrée en vigueur de la présente loi sont jugées d'après la législation antérieure, à moins que l'application des nouvelles dispositions ne conduise à une sanction moins sévère.
+
+#### Art. 78
+
+**Modifications – Loi sur les impôts communaux**
+
+<sup>1</sup> La loi du 10 mai 1963 sur les impôts communaux (RSF 632.1) est modifiée comme il suit:
+
+...
+
+#### Art. 79
+
+**Modifications – Loi sur les droits de mutation et les droits sur les gages immobiliers**
+
+<sup>1</sup> La loi du 1<sup>er</sup> mai 1996 sur les droits de mutation et les droits sur les gages immobiliers (RSF 635.1.1) est modifiée comme il suit:
+
+...
+
+#### Art. 80
+
+**Modifications – Loi sur l'impôt destiné à compenser la diminution de l'aire agricole**
+
+<sup>1</sup> La loi du 28 septembre 1993 sur l'impôt destiné à compenser la diminution de l'aire agricole (RSF 635.6.1) est modifiée comme il suit:
+
+...
+
+#### Art. 81
+
+**Abrogations**
+
+<sup>1</sup> Sont abrogés:
+
+- a) la loi du 4 mai 1934 sur les droits d'enregistrement (RSF 635.2.1);
+- b) le tarif du 4 mai 1934 des droits d'enregistrement (RSF 635.2.10);
+- c) la directive du 24 juin 2003 portant sur l'application de l'article 16 let. b du tarif des droits d'enregistrement (RSF 635.2.106).
+
+#### Art. 82
+
+**Entrée en vigueur et referendum**
+
+<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^82-1]
+
+<sup>2</sup> La présente loi est soumise au referendum législatif. Elle n'est pas soumise au referendum financier.
+
+[^82-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 2008 (ACE 06.11.2007).
+
+**Approbation**
+
+La modification du 08.09.2011 a été approuvée par le Département fédéral de justice et police le 21.12.2011.
+
+2007\_090

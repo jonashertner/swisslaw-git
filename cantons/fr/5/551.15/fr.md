@@ -1,0 +1,147 @@
+---
+canton: FR
+number: "551.15"
+title: Ordonnance relative à la gestion des menaces
+language: fr
+version: 2021-01-01
+valid_until: 2022-01-31
+version_adopted: 2021-01-12
+adopted: 2021-01-12
+in_force: 2021-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/551.15"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6721/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance relative à la gestion des menaces
+
+Gestion des menaces – O
+
+du 12.01.2021 (version entrée en vigueur le 01.01.2021)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu les articles 30f à 30l, 38a, 38c, 38d, 38e et 38h de la loi du 15 novembre 1990 sur la Police cantonale (LPol);
+
+Vu la loi du 25 novembre 1994 sur la protection des données (LPrD);
+
+Sur la proposition de la Direction de la sécurité et de la justice,
+
+Arrête:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> La présente ordonnance règle la composition et le fonctionnement des organes mis en place pour assurer la gestion des menaces définies aux articles 30f et suivants LPol.
+
+<sup>2</sup> Elle règle également la gestion des données traitées par l'unité de gestion des menaces de la Police cantonale et leur accès.
+
+## 2. Unité de gestion des menaces de la Police cantonale
+
+#### Art. 2
+
+**Composition**
+
+<sup>1</sup> L'unité de gestion des menaces de la Police cantonale (ci-après: l'unité) est composée d'agents et agentes de police et de collaborateurs et collaboratrices civils de la Police cantonale, disposant d'une formation adaptée aux tâches et aux missions de l'unité.
+
+<sup>2</sup> Les règles relatives à l'affectation du personnel selon l'article 20 LPol sont réservées.
+
+## 3. Réseau d'annonce
+
+#### Art. 3
+
+**Nomination et fonctionnement**
+
+<sup>1</sup> L'unité désigne dans chaque entité collaborant avec elle, sur la proposition de cette dernière, une personne répondante.
+
+<sup>2</sup> Sauf circonstances particulières, les échanges entre l'unité et le réseau d'annonce ont lieu par l'intermédiaire de la personne répondante désignée au sens de l'alinéa 1.
+
+<sup>3</sup> Chaque personne répondante bénéficie d'une formation de base et de formations continues dispensées par la Police cantonale. Ces formations permettent aux personnes répondantes de procéder à une évaluation initiale de la situation, de comprendre le processus de gestion de la menace et de communiquer à l'unité les situations jugées à risques.
+
+## 4. Groupe d'experts et expertes
+
+#### Art. 4
+
+**Nomination et rémunération**
+
+<sup>1</sup> Le Conseil d'Etat nomme les membres du groupe d'experts et expertes pour une durée initiale de trois ans, renouvelable.
+
+<sup>2</sup> Il réexamine et adapte la liste des experts et expertes en cas de besoin.
+
+<sup>3</sup> Les conditions de rémunération fixées à l'article 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat s'appliquent au groupe d'experts et expertes.
+
+#### Art. 5
+
+**Experts et expertes permanents**
+
+<sup>1</sup> Le groupe d'experts et expertes est composé d'au moins deux personnes représentant chacune des instances suivantes:
+
+- a) le Réseau fribourgeois de soins en santé mentale;
+- b) les préfectures;
+- c) les justices de paix;
+- d) le Ministère public;
+- e) les centres LAVI;
+- f) le Service de l'exécution des sanctions pénales et de la probation;
+- g) le Service de l'action sociale;
+- h) le Service de l'enfance et de la jeunesse;
+- i) la Police cantonale.
+
+<sup>2</sup> Il peut en outre être composé de deux experts ou expertes de la psychiatrie et de la psychologie forensique.
+
+#### Art. 6
+
+**Experts et expertes externes**
+
+<sup>1</sup> Lorsque le traitement d'un cas nécessite un avis particulier d'un expert ou d'une experte, l'unité peut faire appel à un expert ou une experte dont il n'est pas fait mention à l'article 5; la Direction de la sécurité et de la justice valide la consultation de l'expert ou de l'experte concerné‑e.
+
+<sup>2</sup> Le montant de la rémunération des experts et expertes externes se fonde par analogie sur les montants prévus par l'article 3 al. 2 de l'ordonnance du 16 novembre 2010 concernant la rémunération des membres des commissions de l'Etat.
+
+#### Art. 7
+
+**Collaboration avec l'unité**
+
+<sup>1</sup> Lorsque la situation le requiert, l'unité sollicite les experts et expertes ayant compétence pour l'analyse du cas, en ne leur communiquant que les données personnelles strictement nécessaires à leur appréciation.
+
+<sup>2</sup> L'unité s'appuie sur l'analyse des experts et expertes pour décider des éventuelles mesures à prendre au sens de l'article 30j LPol.
+
+<sup>3</sup> L'unité réunit au moins une fois par année le groupe d'experts et expertes en séance plénière.
+
+## 5. Traitement des données
+
+#### Art. 8
+
+**Base de données**
+
+<sup>1</sup> Les données traitées par l'unité sont répertoriées dans une base de données spécifique de l'unité de gestion des menaces.
+
+<sup>2</sup> Avant toute intégration à la base de données, chaque cas annoncé à l'unité fait l'objet d'une analyse. Seules les personnes à risques, au terme de cette analyse, figurent dans la base de données spécifique.
+
+<sup>3</sup> Figurent dans la base de données de l'unité toutes les données nécessaires à la gestion du cas, y compris des données sensibles, conformément à l'article 38c al. 1 LPol.
+
+<sup>4</sup> L'anonymat des personnes procédant à l'annonce est garanti par la Police cantonale. Sont exceptées les données fournies dans le cadre d'une procédure pénale.
+
+#### Art. 9
+
+**Accès aux données de l'unité par le personnel de la Police cantonale**
+
+<sup>1</sup> L'accès à la base de données est limité au personnel de l'unité, sous réserve des exceptions des alinéas 2 et 3 du présent article.
+
+<sup>2</sup> Les agents et agentes de la Police cantonale ainsi que le personnel du Centre d'engagement et d'alarmes reçoivent les renseignements nécessaires relatifs aux personnes à risques et à la gestion du cas, lorsque l'accomplissement de leur tâche le nécessite et afin d'orienter l'intervention de police. L'alerte parvient par le biais du système d'aide à l'engagement et de l'application de recherche police avant ou pendant une intervention.
+
+<sup>3</sup> Est en outre réservé l'accès ponctuel aux données de l'unité du personnel affecté au traitement des demandes d'accès ou de règlement du contentieux au sens de l'article 10.
+
+#### Art. 10
+
+**Accès aux données par les personnes suivies par l'unité**
+
+<sup>1</sup> Toute personne peut solliciter l'accès à ses données personnelles figurant dans la base de données de l'unité. Cette dernière effectue une appréciation de la demande.
+
+<sup>2</sup> Un refus total ou partiel de l'accès aux données, de même qu'un report de l'accès à ces données, en présence d'intérêts publics et/ou privés prépondérants, fait l'objet d'une décision du commandant ou de la commandante de la Police cantonale.
+
+<sup>3</sup> La décision de refus, total ou partiel, ou de report peut faire l'objet d'un recours auprès de la Direction de la sécurité et de la justice. Au surplus, les règles de la législation sur la protection des données et du code de procédure et de juridiction administrative s'appliquent.
+
+2021\_003

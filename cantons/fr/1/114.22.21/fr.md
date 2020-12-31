@@ -1,0 +1,244 @@
+---
+canton: FR
+number: "114.22.21"
+title: "Ordonnance sur l'intégration des migrants et des migrantes et la prévention du racisme"
+short: OInt
+language: fr
+version: 2017-07-01
+valid_until: 2022-01-31
+version_adopted: 2017-04-25
+adopted: 2012-03-06
+in_force: 2012-04-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/114.22.21"
+pdf: "https://bdlf.fr.ch/api/fr/versions/4977/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance sur l'intégration des migrants et des migrantes et la prévention du racisme
+
+Intégration des migrants et prévention du racisme – O
+
+(OInt)
+
+du 06.03.2012 (version entrée en vigueur le 01.07.2017)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 24 mars 2011 sur l'intégration des migrants et des migrantes et la prévention du racisme, notamment son article 13;
+
+Sur la proposition de la Direction de la sécurité et de la justice et de la Direction de l'instruction publique, de la culture et du sport,
+
+Arrête:
+
+## 1 Disposition générale
+
+#### Art. 1
+
+<sup>1</sup> La présente ordonnance institue et fixe, en application de la loi sur l'intégration des migrants et des migrantes et la prévention du racisme:
+
+- a) les attributions et les tâches du Bureau de l'intégration des migrants et des migrantes et de la prévention du racisme;
+- b) les procédures et les modalités de l'octroi de subventions cantonales à des projets d'intégration et de prévention du racisme;
+- c) les règles de la Commission cantonale pour l'intégration des migrants et des migrantes et la prévention du racisme et de la Commission cantonale de la scolarisation et de l'intégration des enfants de migrants.
+
+## 2. Organisation
+
+#### Art. 2
+
+**Attributions du Bureau de l'intégration des migrants et des migrantes et de la prévention du racisme**
+
+<sup>1</sup> Le Bureau de l'intégration des migrants et des migrantes et de la prévention du racisme (ci-après: le Bureau) est chargé de l'application de la politique cantonale d'intégration des migrants et des migrantes et de prévention du racisme, telle qu'elle est prévue dans la loi, et en particulier de la réalisation des objectifs fixés annuellement par le Conseil d'Etat en la matière. Il exerce notamment les attributions et tâches suivantes:
+
+- a) il encourage et conseille les personnes responsables de projets dans le canton dans le domaine de l'intégration des migrants et des migrantes et dans celui de la prévention du racisme;
+- b) il assume l'information, la coordination et la mise en réseau des acteurs et actrices cantonaux et communaux publics ou privés dans ces deux domaines;
+- c) il assure la coordination avec les organes chargés de l'intégration des réfugié-e-s et des personnes admises à titre provisoire;
+- d) il préavise, à l'intention de la Direction de la sécurité et de la justice, l'octroi de subventions cantonales pour les projets d'intégration des migrants et des migrantes et de prévention du racisme.
+
+<sup>2</sup> Le Bureau est placé sous la responsabilité du ou de la délégué-e à l'intégration.
+
+#### Art. 3
+
+**Commission pour l'intégration – Statut**
+
+<sup>1</sup> Il est institué une Commission cantonale pour l'intégration des migrants et des migrantes et la prévention du racisme (ci-après: la Commission pour l'intégration).
+
+<sup>2</sup> La Commission pour l'intégration est un organe consultatif rattaché administrativement à la Direction de la sécurité et de la justice.
+
+#### Art. 4
+
+**Commission pour l'intégration – Objectifs**
+
+<sup>1</sup> La Commission pour l'intégration a pour objectifs:
+
+- a) de favoriser des relations harmonieuses entre personnes de nationalité suisse et personnes de nationalité étrangère dans le respect mutuel;
+- b) de promouvoir et de coordonner des activités d'information, de prévention, de médiation et de formation dans une perspective d'intégration et de prévention du racisme;
+- c) de veiller à l'égalité des droits et des devoirs entre personnes de nationalité suisse et personnes de nationalité étrangère, conformément à la Constitution et à la loi;
+- d) de soumettre au Conseil d'Etat toute proposition utile en matière d'intégration et de prévention du racisme.
+
+#### Art. 5
+
+**Commission pour l'intégration – Composition**
+
+<sup>1</sup> La Commission pour l'intégration est composée des membres suivants, nommés par le Conseil d'Etat:
+
+- a) le président ou la présidente, qui est choisi-e à l'extérieur de l'administration cantonale et des organisations représentées dans la Commission pour l'intégration;
+- b) trois personnes représentant les communautés ou collectivités étrangères;
+- c) trois personnes représentant des organisations ou des institutions privées actives dans le domaine de l'intégration des personnes de nationalité étrangère et/ou de la prévention du racisme;
+- d) une personne représentant les salarié-e-s, proposée par les organisations syndicales;
+- e) une personne représentant les employeurs, proposée par les organisations patronales;
+- f) deux personnes représentant l'Association des communes fribourgeoises (ACF), si possible issues des deux régions linguistiques du canton;
+- g) une personne représentant la Direction de l'instruction publique, de la culture et du sport;
+- h) une personne représentant la Direction de la sécurité et de la justice;
+- i) une personne représentant la Direction de l'économie et de l'emploi;
+- j) une personne représentant la Direction de la santé et des affaires sociales.
+
+<sup>2</sup> La Commission pour l'intégration désigne son vice-président ou sa vice-présidente, qui doit être choisi-e parmi les personnes représentant les communautés étrangères.
+
+<sup>3</sup> Le secrétariat de la Commission pour l'intégration est assumé par le ou la délégué-e à l'intégration.
+
+#### Art. 6
+
+**Commission pour l'intégration – Attributions**
+
+<sup>1</sup> La Commission pour l'intégration a les attributions suivantes:
+
+- a) elle s'informe régulièrement de la situation en matière de migrations, d'intégration des personnes de nationalité étrangère et de racisme dans le canton;
+- b) elle informe et conseille la population ou des publics cibles;
+- c) elle entretient des contacts réguliers avec d'autres commissions et organes actifs en la matière sur les plans cantonal ou communal;
+- d) elle est consultée sur les projets législatifs ou d'autres domaines touchant à la migration, à l'intégration ou à la prévention du racisme;
+- e) elle conseille les Directions du Conseil d'Etat et les communes;
+- f) elle propose au Conseil d'Etat et à ses Directions les mesures de prévention et de formation qu'elle estime nécessaires en matière de migration, d'intégration et de prévention du racisme;
+- g) elle fait annuellement rapport au Conseil d'Etat.
+
+#### Art. 7
+
+**Commission pour l'intégration cisme – Fonctionnement**
+
+<sup>1</sup> La Commission pour l'intégration fixe la fréquence de ses séances et règle son fonctionnement interne.
+
+<sup>2</sup> Elle peut constituer en son sein un ou plusieurs sous-groupes.
+
+#### Art. 8
+
+**Commission de la scolarisation et de l'intégration – Statut**
+
+<sup>1</sup> Il est institué une Commission cantonale de la scolarisation et de l'intégration des enfants de migrants (ci-après: la Commission de la scolarisation et de l'intégration).
+
+<sup>2</sup> La Commission de la scolarisation et de l'intégration est un organe consultatif rattaché administrativement à la Direction de l'instruction publique, de la culture et du sport.
+
+<sup>3</sup> La Direction de l'instruction publique, de la culture et du sport pourvoit au secrétariat de la Commission de la scolarisation et de l'intégration.
+
+#### Art. 9
+
+**Commission de la scolarisation et de l'intégration – Objectifs**
+
+<sup>1</sup> La Commission de la scolarisation et de l'intégration a pour objectifs:
+
+- a) d'encourager et de soutenir la mise en œuvre de recommandations concernant la scolarisation et l'intégration des élèves ainsi que des dispositions de l'accord intercantonal sur l'harmonisation de la scolarité obligatoire (HarmoS) relatives aux cours de langue et de culture d'origine (art. 4 al. 4 de l'accord intercantonal);
+- b) de veiller à la prise en compte des particularités des enfants de migrants et migrantes dans la mise en œuvre des mesures d'accueil et de scolarisation;
+- c) de veiller à la mise en place des propositions du concept cantonal de l'apprentissage des langues étrangères à l'école relatives à la langue d'origine;
+- d) de promouvoir et de coordonner des activités d'information et de formation auprès des acteurs et actrices de l'éducation chargés d'enfants de migrants et migrantes et plus spécifiquement auprès des enseignants et enseignantes réguliers et d'appui.
+
+#### Art. 10
+
+**Commission de la scolarisation et de l'intégration – Composition**
+
+<sup>1</sup> La Commission de la scolarisation et de l'intégration est composée des membres suivants, nommés par le Conseil d'Etat:
+
+- a) le coordinateur ou la coordinatrice de la scolarisation des enfants de migrants et migrantes de la partie francophone;
+- b) le coordinateur ou la coordinatrice de la scolarisation des enfants de migrants et migrantes de la partie alémanique;
+- c) une personne représentant l'inspectorat scolaire;
+- d) ...
+- e) une personne représentant les conseillers et conseillères en orientation professionnelle;
+- f) une personne représentant la Direction de la santé et des affaires sociales;
+- g) une personne représentant la Direction de la sécurité et de la justice;
+- h) une personne représentant le Service de l'enfance et de la jeunesse;
+- i) une personne représentant les associations de parents d'élèves;
+- j) une personne représentant l'Association des communes fribourgeoises (ACF);
+- k) une personne représentant la Direction des écoles de la ville de Fribourg;
+- l) une personne représentant ORS Service AG;
+- m) une personne représentant Caritas Suisse;
+- n) ...
+- o) une personne représentant les chef-fe-s de service de la Direction de l'instruction publique, de la culture et du sport, qui en assume la présidence.
+
+#### Art. 11
+
+**Commission de la scolarisation et de l'intégration – Attributions**
+
+<sup>1</sup> La Commission de la scolarisation et de l'intégration a les attributions suivantes:
+
+- a) elle s'informe régulièrement de la situation des classes et des questions relevant de la scolarisation des enfants de migrants et migrantes;
+- b) elle informe les Directions concernées chaque fois que la situation le requiert et leur propose, le cas échéant, les mesures adéquates;
+- c) elle émet des propositions de formation initiale et continue des enseignants et enseignantes dans le domaine de la scolarisation des enfants de migrants et migrantes;
+- d) elle propose les mesures adéquates pour renforcer la mise en réseau des enseignants et enseignantes des classes d'accueil, des classes de langue et des cours de langue ainsi que des personnes s'occupant des enfants de migrants et migrantes;
+- e) elle propose des mesures favorisant l'accueil et la scolarisation des enfants de migrants et migrantes;
+- f) elle émet des propositions visant à améliorer l'efficacité des mesures développées dans le domaine de l'accueil et de la scolarisation des enfants de migrants et migrantes (relations école–famille comprises);
+- g) elle soumet au Conseil d'Etat toute proposition utile en matière d'accueil et de scolarisation des enfants de migrants et migrantes;
+- h) elle adresse, chaque année, un rapport d'activité à l'intention de la Direction de l'instruction publique, de la culture et du sport.
+
+#### Art. 12
+
+**Commission de la scolarisation et de l'intégration – Fonctionnement**
+
+<sup>1</sup> La Commission de la scolarisation et de l'intégration fixe la fréquence de ses séances et règle son fonctionnement interne.
+
+<sup>2</sup> Elle peut constituer en son sein un ou plusieurs sous-groupes.
+
+#### Art. 13
+
+**Indemnisation**
+
+<sup>1</sup> Les membres de la Commission pour l'intégration des migrants et des migrantes et la prévention du racisme et les membres de la Commission cantonale de la scolarisation et de l'intégration des enfants de migrants sont indemnisés conformément à l'ordonnance concernant la rémunération des membres des commissions de l'Etat.
+
+## 3 Subventions pour des projets d'intégration des migrants et des migrantes et de prévention du racisme
+
+#### Art. 14
+
+<sup>1</sup> En règle générale, l'Etat n'accorde des subventions à des projets d'intégration des migrants et des migrantes et de prévention du racisme que si les communes ou des tiers participent aux coûts.
+
+<sup>2</sup> La demande de subvention est adressée au Bureau. Elle contient au moins une description du projet, de son organisation et de ses buts, des indications quant aux personnes responsables ainsi qu'un budget. Le requérant ou la requérante a l'obligation de fournir, sur demande, tous les autres renseignements et les pièces justificatives.
+
+<sup>3</sup> Les aides financières sont allouées en fonction:
+
+- a) de la nature et de l'importance du projet;
+- b) de l'autofinancement apporté par l'organisation concernée et du soutien accordé par des tiers;
+- c) du cercle de personnes bénéficiaires du projet.
+
+<sup>4</sup> L'attribution de l'aide financière est assortie d'obligations portant sur le suivi et l'évaluation du projet ainsi que sur la présentation des comptes et d'un rapport final.
+
+<sup>5</sup> La loi sur les subventions ainsi que son règlement d'exécution s'appliquent pour le reste.
+
+## 4 Dispositions finales
+
+#### Art. 15
+
+**Abrogations**
+
+<sup>1</sup> Sont abrogés:
+
+- a) l'ordonnance du 25 novembre 2003 instituant une Commission pour l'intégration des migrants et contre le racisme (RSF 114.22.12);
+- b) l'arrêté du 1<sup>er</sup> février 1999 instituant une Commission cantonale de la scolarisation et de l'intégration des enfants de migrants (RSF 411.0.32).
+
+#### Art. 16
+
+**Modifications – Attributions des Directions et de la Chancellerie d'Etat**
+
+<sup>1</sup> L'ordonnance du 12 mars 2002 fixant les attributions des Directions du Conseil d'Etat et de la Chancellerie d'Etat (OADir) (RSF 122.0.12) est modifiée comme il suit:
+
+...
+
+#### Art. 17
+
+**Modifications – Subventions**
+
+<sup>1</sup> Le règlement du 22 août 2000 sur les subventions (RSub) (RSF 616.11) est modifié comme il suit:
+
+...
+
+#### Art. 18
+
+**Entrée en vigueur**
+
+<sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> avril 2012.
+
+2012\_020

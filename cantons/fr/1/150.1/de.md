@@ -1,0 +1,1656 @@
+---
+canton: FR
+number: "150.1"
+title: Gesetz über die Verwaltungsrechtspflege
+short: VRG
+language: de
+version: 2021-01-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-15
+adopted: 1991-05-23
+in_force: 1992-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/150.1"
+pdf: "https://bdlf.fr.ch/api/de/versions/6853/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Verwaltungsrechtspflege
+
+Gesetz über die Verwaltungsrechtspflege (VRG)
+
+(VRG)
+
+vom 23.05.1991 (Fassung in Kraft getreten am 01.01.2021)
+
+Der Grosse Rat des Kantons Freiburg
+
+gestützt auf die Artikel 52 Abs. 1 Bst. e und 65 der Staatsverfassung;
+
+gestützt auf das Gesetz vom 24. April 1990 über die Organisation des Verwaltungsgerichts (VGOG);
+
+nach Einsicht in die Botschaft des Staatsrates vom 4. September 1990;
+
+auf Antrag dieser Behörde,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+### 1.1 Geltungsbereich
+
+#### Art. 1
+
+**Gegenstand des Gesetzes**
+
+<sup>1</sup> Dieses Gesetz regelt das Verfahren für Verfügungen und andere Entscheide:
+
+- a) der Verwaltungsbehörden;
+- b) der Verwaltungsjustizbehörden.
+
+<sup>2</sup> Es bestimmt zudem die Zuständigkeiten der Verwaltungsjustizbehörden.
+
+#### Art. 2
+
+**Verwaltungsbehörden**
+
+<sup>1</sup> Verwaltungsbehörden sind:
+
+- a) der Staatsrat, die Oberamtmänner und die Amtsstellen der kantonalen Verwaltung;
+- b) die Gemeinderäte und die Verwaltungsstellen der Gemeinden und der übrigen öffentlich-rechtlichen Körperschaften;
+- c) die Organe der öffentlich-rechtlichen Anstalten;
+- d) Privatpersonen und Organe privater Institutionen, soweit sie öffentlich-rechtliche Aufgaben erfüllen.
+
+#### Art. 3
+
+**Verwaltungsjustizbehörden**
+
+<sup>1</sup> Das Kantonsgericht ist die ordentliche Verwaltungsjustizbehörde.
+
+<sup>2</sup> Besondere Verwaltungsjustizbehörden sind:
+
+- a) der Staatsrat und die übrigen Verwaltungsbehörden, wenn sie über Beschwerden entscheiden;
+- b) die durch das Gesetz geschaffenen Rekurskommissionen;
+- c) die Enteignungskommission und die Schiedsgerichte für Sozialversicherungssachen.
+
+#### Art. 4
+
+**Entscheide**
+
+<sup>1</sup> Verfügungen und andere Entscheide (im folgenden: Entscheide) sind verbindliche Anordnungen, die im Einzelfall in Anwendung des öffentlichen Rechts getroffen werden und die:
+
+- a) Rechte oder Pflichten begründen, ändern oder aufheben;
+- b) das Bestehen, das Nichtbestehen oder den Umfang von Rechten oder Pflichten feststellen;
+- c) Begehren auf Begründung, Änderung, Aufhebung oder Feststellung von Rechten und Pflichten abweisen oder auf solche Begehren nicht eintreten.
+
+<sup>2</sup> Entscheide sind auch die Zwischenentscheide, die Vollstreckungsentscheide, die Entscheide, die auf Beschwerde oder Klage hin ergehen, sowie die Entscheide, die im Rahmen der in den Artikeln 103 bis 112 vorgesehenen besonderen Verfahren getroffen werden.
+
+<sup>3</sup> Erklärungen von Behörden über Ablehnung oder Erhebung von Ansprüchen, die auf dem Klageweg zu verfolgen sind, gelten nicht als Entscheide.
+
+#### Art. 5
+
+**Unanwendbarkeit – Grundsätzliche**
+
+<sup>1</sup> Dieses Gesetz gilt nicht für:
+
+- a) verwaltungsinterne Handlungen wie Dienstanweisungen und Anordnungen über Organisation oder Arbeitsweise der Dienststellen;
+- b) Entscheide der Zivil- und Strafgerichtsbehörden, ausser wenn diese Behörden aufgrund von Befugnissen aus der Gesetzgebung über das Staatspersonal handeln;
+- c) Entscheide der anerkannten Kirchen, ausgenommen solche auf dem Gebiet der Kirchensteuern;
+- d) Handlungen der Organe des Erwachsenenschutzes und der Schuldbetreibungs- und Konkursorgane.
+
+#### Art. 6
+
+**Unanwendbarkeit – Teilweise**
+
+<sup>1</sup> Dieses Gesetz gilt nicht für erstinstanzliche Entscheide über:
+
+- a) die Anstellung von Personal, die Stellenwechsel und die Beförderungen im öffentlichen Dienst;
+- b) die Beurteilung der Arbeit, der Fähigkeiten und des Benehmens einer Person, insbesondere die Bewertung von Prüfungen an Schulen sowie von Berufs- oder Fähigkeitsprüfungen;
+- c) die Führung der durch das Bundesprivatrecht geschaffenen Register;
+- d) die sich aus der Aufsichtsgewalt ergebenden Inspektionsmassnahmen;
+- e) Verwaltungsangelegenheiten, die aufgrund ihrer Natur auf der Stelle durch sofort vollstreckbaren Entscheid erledigt werden müssen.
+
+<sup>2</sup> Besteht eine Lücke, so sind die Bestimmungen dieses Gesetzes jedoch anwendbar, wenn die besondere Natur der Angelegenheit dem nicht entgegensteht.
+
+#### Art. 7
+
+**Vorbehaltenes Recht**
+
+<sup>1</sup> Vorbehalten bleiben die kantonalen Bestimmungen, die dieses Gesetz ergänzen oder näher ausführen, sowie diejenigen, die davon abweichen und durch ein Gesetz oder gestützt auf ein Gesetz erlassen worden sind.
+
+<sup>2</sup> Vorbehalten bleiben zudem die bundesrechtlichen Bestimmungen, insbesondere diejenigen im Bereich der Sozialversicherungen, sowie die interkantonalen und internationalen Vereinbarungen.
+
+#### Art. 7a
+
+**Anspruch auf richterliche Überprüfung**
+
+<sup>1</sup> Die Beschwerdemöglichkeit nach Artikel 114 Abs. 2 Bst. b kann auch ausserhalb des Geltungsbereichs dieses Gesetzes geltend gemacht werden. Wenn nötig kann das Kantonsgericht von den Bestimmungen dieses Gesetzes abweichen, um die vom Bundesrecht oder vom internationalen Recht verlangte richterliche Überprüfung zu gewährleisten.
+
+### 1.2 Grundsätze für die Tätigkeit der Behörden
+
+#### Art. 8
+
+**Allgemeine Grundsätze**
+
+<sup>1</sup> Die Behörde sorgt unter Wahrung der Rechte der einzelnen für die Verwirklichung des öffentlichen Interesses.
+
+<sup>2</sup> Sie beachtet folgende Grundsätze:
+
+- a) die Gesetzmässigkeit;
+- b) die Gleichbehandlung;
+- c) die Verhältnismässigkeit;
+- d) Treu und Glauben;
+- e) das Willkürverbot.
+
+<sup>3</sup> Sie hat innert angemessener Frist zu entscheiden und jeden überspitzten Formalismus zu unterlassen.
+
+<sup>4</sup> Sie gibt dem Kind Gelegenheit, in allen Verfahren, die es berühren, persönlich oder subsidiär durch einen Vertreter angehört zu werden. Wenn nötig betraut sie eine geeignete Stelle mit der Anhörung.
+
+#### Art. 9
+
+**Ermessen**
+
+<sup>1</sup> Bei der Ausübung ihres Ermessens richtet sich die Behörde nach objektiven und vernünftigen Kriterien. Sie wählt die den Umständen am besten angepasste Massnahme.
+
+#### Art. 10
+
+**Anwendung des Rechts**
+
+<sup>1</sup> Die Behörde wendet das Recht von Amtes wegen an.
+
+<sup>2</sup> Sie überprüft von Amtes wegen oder auf Antrag die Gültigkeit der auf den Einzelfall anwendbaren Vorschriften.
+
+<sup>3</sup> Vorschriften, die dem Bundesrecht, der Kantonsverfassung oder einem höherrangigen kantonalen Erlass widersprechen, wendet sie nicht an.
+
+<sup>4</sup> Eine untere Verwaltungsbehörde muss in einem erstinstanzlichen Verfahren oder einem Beschwerdeverfahren eine gesetzliche Bestimmung jedoch anwenden, ausser wenn diese offensichtlich rechtswidrig ist.
+
+### 1.3 Parteien sowie Vertreter und Beistände
+
+#### Art. 11
+
+**Parteistellung**
+
+<sup>1</sup> Als Parteien gelten:
+
+- a) die Personen, deren Rechte oder Pflichten vom zu treffenden Entscheid berührt werden könnten;
+- b) die übrigen Rechtssubjekte, Organisationen und Behörden, die das Gesetz als Parteien anerkennt.
+
+<sup>2</sup> In einem Beschwerdeverfahren gilt auch die Behörde, die den angefochtenen Entscheid getroffen hat, als Partei.
+
+#### Art. 12
+
+**Verfahrensfähigkeit**
+
+<sup>1</sup> Jede Partei, die nach dem Zivilrecht oder dem öffentlichen Recht selbständig, mit der Zustimmung ihres gesetzlichen Vertreters oder mit der Genehmigung einer Behörde handeln kann, ist unter den gleichen Voraussetzungen in verwaltungsrechtlichen Verfahren handlungsfähig.
+
+<sup>2</sup> Nicht verfahrensfähige Personen handeln durch ihren gesetzlichen Vertreter.
+
+#### Art. 13
+
+**Vertretung und Verbeiständung – Allgemeine Regeln**
+
+<sup>1</sup> Die Parteien können sich in jedem Verfahrensabschnitt vertreten lassen, wenn nicht ein Gesetz oder die Erfordernisse der Instruktion verlangen, dass sie persönlich handeln. Sie können sich auch verbeiständen lassen.
+
+<sup>2</sup> Der Vertreter oder Beistand muss handlungsfähig sein.
+
+<sup>3</sup> Die Behörde kann den Vertreter auffordern, sich durch schriftliche Vollmacht auszuweisen.
+
+<sup>4</sup> Reichen mehr als zehn Personen eine kollektive Eingabe oder individuelle Eingaben mit gleichem Inhalt ein, so kann die Behörde sie auffordern, einen oder mehrere Vertreter zu bestellen. Werden diese nicht innert der gesetzten Frist bestellt, so bezeichnet die Behörde einen oder mehrere Vertreter aus dem Kreis der Gesuchsteller.
+
+#### Art. 14
+
+**Vertretung und Verbeiständung – Besondere Fälle**
+
+<sup>1</sup> Vor dem Kantonsgericht und vor der Enteignungskommission können nur die zur Ausübung des Anwaltsberufes zugelassenen Personen als Vertreter oder Beistand tätig sein.
+
+<sup>2</sup> Die Vertretung und die Verbeiständung in Sozialversicherungs- und Steuersachen richten sich nach Artikel 13.
+
+## 2 Verfahren
+
+### 2.1 Allgemeine Verfahrensvorschriften und erstinstanzliches Verfahren
+
+### 2.1.1 Zuständigkeit
+
+#### Art. 15
+
+**Grundsatz**
+
+<sup>1</sup> Die Zuständigkeit der Behörden wird durch das Gesetz festgelegt.
+
+<sup>2</sup> Sie kann nicht durch Vereinbarung zwischen der Behörde und den Parteien begründet oder geändert werden.
+
+#### Art. 16
+
+**Prüfung der Zuständigkeit**
+
+<sup>1</sup> Die Behörde prüft ihre Zuständigkeit von Amtes wegen.
+
+<sup>2</sup> Erachtet sie eine andere Behörde als zuständig, so überweist sie ihr ohne Verzug die Akten und teilt dies den Parteien mit.
+
+<sup>3</sup> Ist die Behörde im Zweifel über ihre Zuständigkeit, so pflegt sie darüber einen Meinungsaustausch mit der Behörde, die sie für zuständig hält.
+
+#### Art. 17
+
+**Bestreitung durch eine Partei**
+
+<sup>1</sup> Bestreitet eine Partei die Zuständigkeit oder Unzuständigkeit einer Behörde, so trifft diese über den Streitpunkt einen Zwischenentscheid.
+
+#### Art. 18
+
+**Zuständigkeitskonflikte im Allgemeinen**
+
+<sup>1</sup> Bei Zuständigkeitskonflikten zwischen Behörden werden die Akten zur Entscheidung der Streitfrage an die durch die Artikel 19 und 20 bezeichnete Behörde überwiesen.
+
+<sup>2</sup> Diese entscheidet in der Regel ohne mündliche Verhandlung und überweist die Akten an die Behörde, die sie als zuständig erklärt. Ihr Entscheid ist endgültig.
+
+<sup>3</sup> Die Zuständigkeitskonflikte zwischen Gemeindebehörden werden durch das Gesetz über die Gemeinden geregelt.
+
+#### Art. 19
+
+**Zuständigkeitskonflikte zwischen Behörden derselben Staatsgewalt**
+
+<sup>1</sup> Zuständigkeitskonflikte zwischen Behörden, die derselben Dienst- oder Aufsichtsgewalt unterstehen, werden von der oder den betroffenen oberen Behörden entschieden.
+
+<sup>2</sup> In einem Zuständigkeitskonflikt zwischen Verwaltungsbehörden entscheidet bei Zweifeln oder einer Bestreitung hinsichtlich der oberen Behörde der Staatsrat über die Zuständigkeit.
+
+#### Art. 20
+
+**Zuständigkeitskonflikte zwischen Behörden verschiedener Staatsgewalten**
+
+<sup>1</sup> Zuständigkeitskonflikte zwischen Behörden, von denen jede einer anderen Dienst- oder Aufsichtsgewalt untersteht, und zwar derjenigen des Staatsrates oder des Kantonsgerichts, werden von den betroffenen oberen Behörden im gegenseitigen Einvernehmen entschieden. Dasselbe gilt, wenn die Zuständigkeit zwischen einer dieser oberen Behörden und einer unteren Behörde einer anderen Staatsgewalt streitig ist.
+
+<sup>2</sup> Kommt keine Einigung zustande oder ist die Zuständigkeit unmittelbar zwischen dem Staatsrat und dem Kantonsgericht streitig, so entscheidet der Grosse Rat über die Zuständigkeit.
+
+### 2.1.2 Ausstand
+
+#### Art. 21
+
+**Gründe**
+
+<sup>1</sup> Eine Person, die eine Angelegenheit zu instruieren, einen Entscheid zu treffen oder dabei mitzuwirken hat, muss von Amtes wegen oder auf Antrag in den Ausstand treten, wenn:
+
+- a) sie selbst, ihr Ehegatte, ihr eingetragener Partner, ihr Verlobter, ihre Verwandten oder Verschwägerten in gerader Linie oder bis und mit dem vierten Grad in der Seitenlinie, der Ehemann oder die eingetragene Partnerin der Schwester oder die Ehefrau oder der eingetragene Partner des Bruders ihres Ehegatten, ihres eingetragenen Partners oder die Person, deren vorsorgebeauftragte Person oder Beistand sie ist oder die mit ihr in gemeinsamem Haushalt lebt, an der Sache ein unmittelbares Interesse hat;
+- b) sie einem Organ einer juristischen Person oder einer Gesellschaft, die ein unmittelbares Interesse an der Sache hat, angehört;
+- c) sie in anderer Eigenschaft früher in der Sache tätig war;
+- d) sie Vertreter oder Beistand einer Partei ist oder mit dem Vertreter oder Beistand in gerader Linie verwandt oder verschwägert oder dessen Ehegatte oder eingetragener Partner ist;
+- e) zwischen ihr und einer Partei enge Freundschaft oder persönliche Feindschaft oder ein besonderes Pflicht- oder Abhängigkeitsverhältnis besteht;
+- f) andere ernsthafte Gründe Zweifel an ihrer Unparteilichkeit aufkommen lassen können.
+
+<sup>2</sup> Die Auflösung der Ehe oder der Partnerschaft hebt den Ausstandsgrund der Schwägerschaft nicht auf.
+
+<sup>3</sup> Die Mitglieder des Staatsrates oder des Exekutivorgans einer öffentlich-rechtlichen Körperschaft müssen in nichtstreitigen Angelegenheiten betreffend Institutionen, deren Verwaltung sie in amtlicher Eigenschaft angehören, nicht in den Ausstand treten.
+
+#### Art. 22
+
+**Fristen**
+
+<sup>1</sup> Die Person, auf die ein Ausstandsgrund zutrifft, muss unverzüglich in den Ausstand treten.
+
+<sup>2</sup> Die Partei, die den Ausstand verlangen will, muss ihr Gesuch stellen, sobald sie vom Ausstandsfall Kenntnis erhält.
+
+#### Art. 23
+
+**Anzeige**
+
+<sup>1</sup> Die Person, die in den Ausstand tritt, muss sofort ihre vorgesetzte Behörde oder die Kollegialbehörde, deren Mitglied sie ist, verständigen und ihr den Grund dafür angeben.
+
+<sup>2</sup> Die Person oder gegebenenfalls die Kollegialbehörde, deren Mitglied sie ist, benachrichtigt auch die Partei, wenn diese den Ausstand verlangt hat.
+
+#### Art. 24
+
+**Bestreitung**
+
+<sup>1</sup> Bestreitet die Person, deren Ausstand verlangt wird, den Ausstandsgrund, so übermittelt sie das Gesuch zur Entscheidung an ihre vorgesetzte Behörde oder an die Kollegialbehörde, deren Mitglied sie ist; handelt es sich um einen Sachverständigen, so übermittelt er das Gesuch an die Behörde, die ihn bestimmt hat.
+
+<sup>2</sup> Eine Kollegialbehörde entscheidet unter Ausschluss des betroffenen Mitglieds. Ist eine Kollegialbehörde infolge von Ausstandsgesuchen zahlenmässig nicht mehr beschlussfähig, so entscheidet die Aufsichtsbehörde über den Ausstand.
+
+<sup>3</sup> Bei Streitigkeiten über den Ausstand ist ein Zwischenentscheid zu treffen.
+
+#### Art. 25
+
+**Folgen**
+
+<sup>1</sup> Die in den Ausstand getretene Person wird durch ihren Stellvertreter ersetzt.
+
+<sup>2</sup> Fehlt ein Stellvertreter oder reicht die Zahl der Stellvertreter nicht aus, so bestimmt die vorgesetzte Behörde oder, im Fall einer Kollegialbehörde, die Ernennungsbehörde den oder die nötigen ausserordentlichen Stellvertreter.
+
+<sup>3</sup> Die Ausstandsbehörde im Sinne von Artikel 24 entscheidet, ob die von der in den Ausstand getretenen Person vorgenommenen Handlungen wiederholt werden müssen.
+
+<sup>4</sup> Für die Entscheide des Staatsrates bestimmt das Gesetz, das die Organisation dieser Behörde regelt, die Folgen des Ausstands.
+
+#### Art. 26
+
+**Gemeindeangelegenheiten**
+
+<sup>1</sup> Der Ausstand der Mitglieder der Gemeindebehörden und ihrer Amtsträger richtet sich nach der Gesetzgebung über die Gemeinden.
+
+### 2.1.3 Fristen
+
+#### Art. 27
+
+**Berechnung**
+
+<sup>1</sup> Die nach Tagen bestimmten Fristen beginnen an dem Tag zu laufen, der auf ihre Mitteilung oder auf das auslösende Ereignis folgt.
+
+<sup>2</sup> Die Frist endet am nächstfolgenden Werktag, wenn der letzte Tag der Frist auf einen Samstag, einen Sonntag, den Auffahrtstag, den Pfingstmontag, den Fronleichnamstag (2. Donnerstag nach Pfingsten), den 1. August, den 15. August, den 1. November oder den 8. Dezember fällt.
+
+<sup>3</sup> Im Übrigen finden die Artikel 76 und 77 des Obligationenrechts sinngemäss Anwendung.
+
+#### Art. 28
+
+**Einhaltung**
+
+<sup>1</sup> Eine Frist gilt als eingehalten, wenn eine schriftliche Eingabe spätestens am letzten Tag der Frist bei der Behörde eingereicht oder zu deren Handen der schweizerischen Post oder einer schweizerischen diplomatischen oder konsularischen Vertretung übergeben wird.
+
+<sup>2</sup> Gelangt die Partei rechtzeitig an eine unzuständige Behörde, so gilt die Frist als eingehalten.
+
+<sup>3</sup> Gibt die Behörde irrtümlicherweise eine längere als die gesetzliche Frist an, so entstehen der Partei daraus keine Nachteile, wenn sie gutgläubig die angegebene Frist eingehalten hat.
+
+#### Art. 29
+
+**Erstreckung**
+
+<sup>1</sup> Eine gesetzliche Frist kann nicht erstreckt werden.
+
+<sup>2</sup> Eine behördlich gesetzte Frist kann aus zureichenden Gründen erstreckt werden, wenn die Partei vor Ablauf der Frist darum nachsucht. Sie kann nicht mehr als zweimal verlängert werden.
+
+<sup>2<sup>bis</sup></sup> Die neue Frist beginnt am Tag nach Ablauf der vorhergehenden Frist.
+
+<sup>3</sup> Lehnt die Behörde es ab, eine Frist zu erstrecken, so verfügt der Gesuchsteller über eine Frist von drei Tagen seit der Mitteilung der Ablehnung, um die erforderliche Handlung vorzunehmen.
+
+#### Art. 30
+
+**Stillstand**
+
+<sup>1</sup> Die nach Tagen oder Monaten bestimmten gesetzlichen oder behördlichen Fristen stehen still:
+
+- a) vom siebenten Tag vor Ostern bis und mit dem siebenten Tag nach Ostern;
+- b) vom 18. Dezember bis und mit dem 2. Januar.
+
+<sup>2</sup> In den Sachen, die in die Zuständigkeit des Kantonsgerichts fallen, stehen die Fristen auch vom 15. Juli bis und mit dem 15. August still.
+
+<sup>3</sup> Enden die Fristen an einem bestimmten Termin (genauer Tag), so besteht kein Stillstand.
+
+#### Art. 31
+
+**Wiederherstellung**
+
+<sup>1</sup> Eine nicht eingehaltene Frist kann wiederhergestellt werden, wenn die Partei oder ihr Vertreter unverschuldet abgehalten worden ist, innert der Frist zu handeln.
+
+<sup>2</sup> Das Gesuch um Wiederherstellung ist unter Angabe des Grundes spätestens zehn Tage nach Wegfall des Hindernisses einzureichen; zudem muss die versäumte Rechtshandlung innert derselben Frist nachgeholt werden.
+
+### 2.1.4 Ablauf des Verfahrens
+
+#### Art. 32
+
+**Grundsätze**
+
+<sup>1</sup> Das Verfahren ist schriftlich. Bei Bedarf kann die Behörde das Verfahren auch mündlich durchführen.
+
+<sup>2</sup> Die Beratungen der Behörde sind nicht öffentlich. Das Kantonsgericht kann jedoch in seinem Reglement Fälle bestimmen, in denen seine Beratungen öffentlich sind.
+
+#### Art. 33
+
+**Vorladung**
+
+<sup>1</sup> Die Personen, deren Erscheinen sich als nötig erweist, werden von der Behörde mindestens zehn Tage vor dem angesetzten Termin schriftlich vorgeladen. Dringende Fälle und gegenteilige Abmachungen bleiben vorbehalten.
+
+<sup>2</sup> Die Vorladung ist zu unterzeichnen; sie muss den Zweck des Erscheinens und die allfälligen Folgen eines Versäumnisses nennen.
+
+#### Art. 34
+
+**Mitteilungen – Ordentliches Vorgehen**
+
+<sup>1</sup> Die Behörde stellt ihre Mitteilungen durch die Post zu, wenn nötig als eingeschriebene Sendung mit oder ohne Empfangsbescheinigung. Bei Bedarf kann sie sie durch einen öffentlichen Bediensteten zustellen lassen.
+
+<sup>2</sup> Ist die Partei vertreten, so stellt die Behörde ihre Mitteilungen dem Vertreter zu, solange sie nicht über die Beendigung des Auftrags unterrichtet worden ist.
+
+#### Art. 35
+
+**Mitteilungen – Veröffentlichung**
+
+<sup>1</sup> Die Mitteilungen werden im Amtsblatt und, falls die Behörde es für nötig erachtet, zusätzlich in anderen Zeitungen veröffentlicht, wenn:
+
+- a) weder der Wohnsitz, der Aufenthalt oder der Sitz des Adressaten bekannt ist noch ein Vertreter bekannt und erreichbar ist;
+- b) ein Gesetz dies vorsieht, insbesondere wegen der Zahl der Parteien.
+
+#### Art. 36
+
+**Sprache – Erstinstanzliches Verfahren**
+
+<sup>1</sup> Das erstinstanzliche Verfahren wird auf französisch oder auf deutsch durchgeführt, je nach der oder den Amtssprachen der Gemeinde des Kantons, in der die Partei ihren Wohnsitz, Aufenthalt oder Sitz hat.
+
+<sup>2</sup> Hat das Verfahren eine territoriale Anknüpfung, so wird es in der oder den Amtssprachen der Gemeinde durchgeführt, in der sich der Gegenstand des Verfahrens befindet.
+
+<sup>3</sup> Die kantonalen Anstalten verwenden im Umgang mit ihren Benutzern je nach der Sprache der Partei die französische oder die deutsche Sprache.
+
+#### Art. 37
+
+**Sprache – Übrige Verfahren**
+
+<sup>1</sup> Das Beschwerdeverfahren wird in der Sprache des angefochtenen Entscheides durchgeführt. Dasselbe gilt für die Einsprache, die Wiedererwägung, die Revision, die Erläuterung und die Berichtigung.
+
+<sup>2</sup> Das Klageverfahren wird in der Amtssprache der beklagten Partei oder, wenn der Staat Beklagter ist, in derjenigen der klägerischen Partei durchgeführt; die Amtssprache der massgebenden Partei wird durch sinngemässe Anwendung von Artikel 36 bestimmt. Gegenteilige Abmachungen bleiben vorbehalten.
+
+#### Art. 38
+
+**Sprache – Ausnahmen**
+
+<sup>1</sup> Wenn die Umstände es rechtfertigen, insbesondere in einem Verfahren vor einer kantonalen Behörde, kann teilweise oder ganz von den Regeln der Artikel 36 und 37 Abs. 1 abgewichen werden.
+
+#### Art. 39
+
+**Sprache – Übersetzung**
+
+<sup>1</sup> Gewährt die Behörde keine Ausnahme, so weist sie Eingaben einer Partei, die nicht in der Verfahrenssprache abgefasst sind, in der Regel zurück, fordert den Verfasser auf, sich dieser Sprache zu bedienen, und droht ihm an, auf die Eingabe nicht einzutreten, falls er der Aufforderung nicht innert der gesetzten Frist nachkomme.
+
+<sup>2</sup> Die Behörde kann von der Partei auch verlangen, eine Übersetzung der Beweisurkunden, die nicht in der Verfahrenssprache abgefasst sind, vorzulegen. Wird die Übersetzung nicht innert der gesetzten Frist eingereicht, so geht die Behörde nach Artikel 49 vor.
+
+<sup>3</sup> Die Behörde zieht für die Einvernahmen einen Dolmetscher bei, soweit dies nötig ist und sie nicht selbst in der Lage ist, diese Aufgabe zu erfüllen.
+
+#### Art. 40
+
+**Sprache – Streitigkeiten**
+
+<sup>1</sup> Bei Streitigkeiten über die Verfahrenssprache ist ein Zwischenentscheid zu treffen.
+
+#### Art. 41
+
+**Vorsorgliche Massnahmen und Sicherheiten**
+
+<sup>1</sup> Die Behörde kann von Amtes wegen oder auf Antrag die vorsorglichen Massnahmen anordnen, die zur Erhaltung eines rechtlichen oder tatsächlichen Zustands, insbesondere zur Sicherung von Beweismitteln, oder zum Schutz bedrohter Interessen nötig sind.
+
+<sup>2</sup> Können vorsorgliche Massnahmen einen erheblichen Schaden bewirken, so kann die gesuchstellende Partei vorgängig verpflichtet werden, innert angemessener Frist Sicherheiten zu leisten. Bei Nichtleistung können die Massnahmen verweigert werden. Der Staat und die übrigen juristischen Personen des öffentlichen Rechts sind von der Pflicht zur Leistung von Sicherheiten befreit.
+
+#### Art. 42
+
+**Aussetzen, Vereinigen und Trennen von Verfahren**
+
+<sup>1</sup> Die Behörde kann aus wichtigen Gründen:
+
+- a) ein Verfahren aussetzen, insbesondere wenn der zu treffende Entscheid vom Ausgang eines anderen Verfahrens abhängt oder davon massgeblich beeinflusst werden könnte;
+- b) den gleichen Gegenstand betreffende Eingaben in einem einzigen Verfahren vereinigen;
+- c) eine Eingabe, die verschiedene Gegenstände betrifft oder von mehreren Parteien gemeinsam gestellt wurde, in mehrere Verfahren aufteilen.
+
+<sup>2</sup> Diese Massnahmen dürfen nicht angeordnet werden, wenn sie für eine Partei eine unzulässige Verzögerung bewirken.
+
+#### Art. 43
+
+**Zurückweisung von Eingaben**
+
+<sup>1</sup> Unleserliche, den Anstand verletzende oder weitschweifige Eingaben schickt die Behörde an den Absender zurück und fordert ihn auf, sie neu abzufassen.
+
+<sup>2</sup> Eine Eingabe, die nicht innert der von der Behörde gesetzten Frist geändert wird, gilt als zurückgezogen.
+
+#### Art. 44
+
+**Verfahrensdisziplin**
+
+<sup>1</sup> Die Parteien, ihre Vertreter oder Beistände sowie die am Verfahren beteiligten Dritten haben es zu unterlassen, den Anstand zu verletzen und sich missbräuchlicher Mittel zu bedienen.
+
+<sup>2</sup> Die Behörde kann dem Zuwiderhandelnden einen Verweis erteilen oder eine Ordnungsbusse bis zu 1000 Franken auferlegen; in schweren Fällen oder im Wiederholungsfall kann dieser Betrag bis auf 2000 Franken erhöht werden.
+
+### 2.1.5 Feststellung des Sachverhalts
+
+#### Art. 45
+
+**Grundsätze**
+
+<sup>1</sup> Die Behörde nimmt die zur Feststellung des rechtserheblichen Sachverhalts erforderlichen Abklärungen von Amtes wegen vor. Sie ist dabei an die Vorbringen und Beweisanträge der Parteien nicht gebunden.
+
+<sup>2</sup> Sie würdigt die Parteivorbringen und die Beweise frei.
+
+#### Art. 46
+
+**Beweismittel**
+
+<sup>1</sup> Die Behörde kann sich folgender Beweismittel bedienen:
+
+- a) Urkunden und Auskünfte der Parteien, der Behörden und von Dritten;
+- b) Amtsberichte;
+- c) Einvernahme der Parteien;
+- d) Augenschein;
+- e) Gutachten von Sachverständigen.
+
+<sup>2</sup> Die Behörde kann auch Zeugen einvernehmen, aber nur, wenn der Sachverhalt nicht durch andere Beweismittel genügend abgeklärt werden kann.
+
+<sup>3</sup> Über die Einvernahmen der Parteien und Zeugen wird ein Protokoll geführt. Unter Vorbehalt von Artikel 91 Abs. 3 ist dieses von den einvernommenen Personen zu lesen und zu unterzeichnen.
+
+#### Art. 47
+
+**Mitwirkung der Parteien – Verpflichtung**
+
+<sup>1</sup> Die Parteien sind verpflichtet, bei der Feststellung des Sachverhalts mitzuwirken, wenn:
+
+- a) sie sich auf den Sachverhalt berufen;
+- b) das Gesetz ihnen eine weitergehende Auskunfts- oder Offenbarungspflicht auferlegt.
+
+#### Art. 48
+
+**Mitwirkung der Parteien – Umfang**
+
+<sup>1</sup> Die Parteien sind insbesondere verpflichtet:
+
+- a) die in ihrem Besitz befindlichen sachdienlichen Urkunden vorzulegen und die ihnen bekannten sachdienlichen Angaben zu machen;
+- b) persönlich zu erscheinen, wenn ihre Einvernahme angeordnet wird;
+- c) den Augenschein an einer Sache oder Örtlichkeit zu dulden oder sich einer Begutachtung zu unterziehen.
+
+#### Art. 49
+
+**Mitwirkung der Parteien – Weigerung**
+
+<sup>1</sup> Leistet eine Partei die zumutbare Mitwirkung nicht, so ist die Behörde berechtigt, auf ihre Begehren nicht einzutreten oder aufgrund der Akten zu entscheiden.
+
+<sup>2</sup> Die Parteien werden über die möglichen Folgen ihres Verhaltens unterrichtet.
+
+#### Art. 50
+
+**Mitwirkung der Behörden**
+
+<sup>1</sup> Die Behörden können bei den Verwaltungsbehörden die zur Feststellung des Sachverhalts benötigten Urkunden, Auskünfte und Amtsberichte anfordern.
+
+<sup>2</sup> Die angegangene Behörde ist zur Amtshilfe verpflichtet, ausser wenn:
+
+- a) die verlangten Urkunden, Auskünfte und Amtsberichte von Gesetzes wegen oder ihrer Natur nach geheim bleiben müssen;
+- b) dadurch ein überwiegendes öffentliches oder privates Interesse verletzt oder ernstlich gefährdet würde.
+
+<sup>3</sup> Streitigkeiten zwischen Behörden sind nach den Regeln beizulegen, die für die Zuständigkeitskonflikte vorgesehen sind.
+
+#### Art. 51
+
+**Mitwirkung von Drittpersonen**
+
+<sup>1</sup> Die Behörde kann bei Personen, die nicht als Partei am Verfahren beteiligt sind, Auskünfte einholen sowie von ihnen verlangen, in ihrem Besitz befindliche sachdienliche Urkunden herauszugeben und den Augenschein an einer Sache oder Örtlichkeit zu dulden.
+
+<sup>2</sup> Dritte können sich weigern, an der Erhebung von Beweismitteln mitzuwirken, die Tatsachen betreffen, über die sie als Zeugen die Aussage verweigern könnten.
+
+<sup>3</sup> Artikel 44 ist auf den Dritten, der sich ohne triftigen Grund weigert, an der Beweiserhebung mitzuwirken, sinngemäss anwendbar.
+
+#### Art. 52
+
+**Gutachten**
+
+<sup>1</sup> Erfordert die Feststellung gewisser Tatsachen Fachkenntnisse, so kann die Behörde eine Begutachtung anordnen.
+
+<sup>2</sup> Den Parteien wird eine kurze Frist eingeräumt, während der sie gegebenenfalls den Ausstand des bezeichneten Sachverständigen verlangen können.
+
+#### Art. 53
+
+**Zeugeneinvernahme – Zuständige Behörden**
+
+<sup>1</sup> Folgende Behörden sind berechtigt, eine Zeugeneinvernahme anzuordnen:
+
+- a) das Kantonsgericht;
+- b) die Rekurskommissionen, die Enteignungskommission und die Schiedsgerichte für Sozialversicherungssachen;
+- c) der Staatsrat, seine Direktionen und die Oberamtmänner.
+
+<sup>2</sup> Die zuständigen Behörden führen die Einvernahme selbst durch. Sie können ein Behördemitglied oder einen dafür genügend qualifizierten Beamten mit dieser Aufgabe betrauen.
+
+#### Art. 54
+
+**Zeugeneinvernahme – Zeugnispflicht und Ausnahmen**
+
+<sup>1</sup> Jede Person, die nicht als Partei am Verfahren beteiligt ist, ist zur Zeugenaussage verpflichtet, wenn sie dazu aufgefordert wird.
+
+<sup>2</sup> Das Zeugnis kann verweigert werden:
+
+- a) von den Ehegatten oder den eingetragenen Partnern der Parteien und von ihren Verwandten und Verschwägerten in gerader Linie und bis und mit dem vierten Grad in der Seitenlinie;
+- b) über Fragen, deren Beantwortung den Zeugen, seinen Ehegatten, seinen eingetragenen Partner oder seinen Verwandten oder Verschwägerten in gerader Linie und im zweiten Grad der Seitenlinie einer Strafverfolgung, einer schweren Beeinträchtigung der Ehre oder einem sicheren Vermögensschaden aussetzen würde;
+- c) von den an das Berufsgeheimnis gebundenen Personen nach Artikel 321 Ziff. 1 des Schweizerischen Strafgesetzbuches, soweit es sich um Tatsachen handelt, die nach dieser Vorschrift unter das Berufsgeheimnis fallen, und zwar auch dann, wenn der Betroffene in die Offenbarung des Geheimnisses eingewilligt hat.
+
+<sup>3</sup> Die Behörde kann den Zeugen davon befreien, ein anderes Berufsgeheimnis oder ein Industrie- oder Geschäftsgeheimnis preiszugeben, wenn sein Interesse an der Geheimhaltung auch bei Berücksichtigung der in Artikel 61 vorgesehenen Vorsichtsmassnahmen das Interesse des Beweisführers an der Preisgabe überwiegt.
+
+<sup>4</sup> Artikel 44 ist auf die Person, die ohne triftigen Grund das Zeugnis verweigert, sinngemäss anwendbar.
+
+#### Art. 55
+
+**Zeugeneinvernahme – Sonderfälle**
+
+<sup>1</sup> Folgende Personen, die an der Veröffentlichung von Informationen beteiligt sind, können die Zeugenaussage über Inhalt und Quelle ihrer Informationen verweigern, wenn es sich nicht um die Abklärung eines Sachverhalts in einem Verfahren auf dem Gebiet der inneren oder äusseren Sicherheit des Landes handelt:
+
+- a) die Redaktoren, Mitarbeiter, Verleger und Drucker von periodischen Druckerzeugnissen sowie ihre Hilfspersonen;
+- b) die Redaktoren, Mitarbeiter und Programmverantwortlichen bei Radio und Fernsehen sowie ihre Hilfspersonen.
+
+<sup>2</sup> Die Amtsträger der Gemeinwesen können über Wahrnehmungen, die sie in Ausübung ihres Amtes gemacht haben, nur unter den in der Spezialgesetzgebung festgelegten Voraussetzungen als Zeugen aussagen.
+
+#### Art. 56
+
+**Ergänzende Bestimmungen**
+
+<sup>1</sup> Bei Bedarf sind im übrigen die Bestimmungen der Zivilprozessordnung über das Beweisverfahren sinngemäss anwendbar.
+
+### 2.1.6 Rechtliches Gehör
+
+#### Art. 57
+
+**Grundsatz**
+
+<sup>1</sup> Die Parteien haben Anspruch auf rechtliches Gehör, bevor ein Entscheid getroffen wird.
+
+<sup>2</sup> Soweit keine Vorschrift etwas anderes bestimmt, haben sie keinen Anspruch auf eine mündliche Anhörung.
+
+#### Art. 58
+
+**Ausnahmen**
+
+<sup>1</sup> Die Behörde muss eine Partei nicht anhören vor:
+
+- a) einem Zwischenentscheid, der nicht selbständig durch Beschwerde anfechtbar ist;
+- b) einem Entscheid, der durch Einsprache anfechtbar ist;
+- c) einem Entscheid, der den Begehren einer Partei voll entspricht;
+- d) einer Vollstreckungsmassnahme;
+- e) anderen Entscheiden, wenn Gefahr im Verzuge ist.
+
+#### Art. 59
+
+**Umfang**
+
+<sup>1</sup> Die Parteien haben das Recht, Tatsachen vorzubringen, Beweismittel anzubieten und rechtliche Erwägungen anzustellen.
+
+<sup>2</sup> Die Behörde muss die Vorbringen zum Sachverhalt und zur Rechtslage prüfen und die beantragten Beweise erheben, soweit diese Vorbringen und Anträge nicht von vornherein unerheblich erscheinen. Sie berücksichtigt verspätete Vorbringen und Beweisangebote, wenn sie ausschlaggebend erscheinen.
+
+<sup>3</sup> Ist zu erwarten, dass die Erhebung eines Beweises hohe Kosten verursachen wird, so kann die Behörde die Erhebung davon abhängig machen, dass die antragstellende Partei deren Kosten ganz oder teilweise vorschiesst. Die Bestimmungen über die unentgeltliche Rechtspflege bleiben vorbehalten.
+
+<sup>4</sup> Die Behörde fordert gegebenenfalls die Parteien auf, ihre Vorbringen und Beweismittel genauer zu bestimmen, zu berichtigen oder zu ergänzen.
+
+#### Art. 60
+
+**Teilnahme an der Beweiserhebung – Grundsatz**
+
+<sup>1</sup> Die Parteien haben das Recht:
+
+- a) in die im Verfahren gesammelten sachdienlichen Urkunden, Auskünfte und Amtsberichte Einsicht zu nehmen und am Augenschein an einer Sache oder Örtlichkeit teilzunehmen;
+- b) sich zu den Fragen zu äussern, die den Sachverständigen zu stellen sind, und Gutachten einzusehen;
+- c) an der Einvernahme der Zeugen und der Sachverständigen teilzunehmen und Ergänzungsfragen zu stellen.
+
+#### Art. 61
+
+**Teilnahme an der Beweiserhebung – Ausnahmen**
+
+<sup>1</sup> Erfordert es die Wahrung eines überwiegenden öffentlichen oder privaten Interesses, so kann die Behörde die Zeugen und Sachverständigen in Abwesenheit der Parteien befragen und diesen die Einsicht in die Einvernahmeprotokolle verweigern.
+
+<sup>2</sup> Die Behörde kann auch einen Augenschein an einer Sache oder Örtlichkeit in Abwesenheit der Parteien durchführen, wenn die Dringlichkeit oder die Natur der Sache es erfordert.
+
+<sup>3</sup> Werden die Parteien von der Beweiserhebung ausgeschlossen, so findet Artikel 65 sinngemäss Anwendung.
+
+#### Art. 62
+
+**Anspruch der Gegenpartei auf rechtliches Gehör**
+
+<sup>1</sup> Verfolgen mehrere Parteien gegensätzliche Interessen, so hört die Behörde jede Partei zu den Vorbringen und Begehren der anderen an.
+
+#### Art. 63
+
+**Akteneinsicht – Grundsätze**
+
+<sup>1</sup> Die Parteien und ihre Vertreter oder Beistände haben Anspruch darauf, die Aktenstücke einzusehen, welche die Tatsachen, auf die sich der Entscheid stützt, belegen sollen.
+
+<sup>2</sup> Die Einsichtnahme findet am Sitz der entscheidenden Behörde oder einer von dieser bezeichneten Behörde statt. Von dieser Regel können Abweichungen gestattet werden; insbesondere können die Akten den Parteivertretern zugestellt werden.
+
+<sup>3</sup> Die Behörde kann gegen Gebühr Kopien von Aktenstücken abgeben; sie kann auch für die Einsichtnahme in die Akten einer erledigten Sache eine Gebühr beziehen.
+
+#### Art. 64
+
+**Akteneinsicht – Ausnahmen**
+
+<sup>1</sup> Die Behörde darf die Akteneinsicht nur verweigern, wenn ein überwiegendes öffentliches oder privates Interesse es erfordert oder es im Interesse einer noch nicht abgeschlossenen amtlichen Untersuchung notwendig ist.
+
+<sup>2</sup> Die Verweigerung der Einsichtnahme darf sich nur auf die geheimzuhaltenden Aktenstücke erstrecken.
+
+#### Art. 65
+
+**Akteneinsicht – Massgeblichkeit geheimer Akten**
+
+<sup>1</sup> Wird einer Partei die Einsichtnahme in ein Aktenstück verweigert, so darf auf dieses zum Nachteil der Partei nicht abgestellt werden, es sei denn, die Behörde habe sie über den wesentlichen Inhalt mündlich oder schriftlich unterrichtet und ihr Gelegenheit gegeben, sich zu äussern und Gegenbeweismittel zu bezeichnen.
+
+### 2.1.7 Der Entscheid
+
+#### Art. 66
+
+**Inhalt**
+
+<sup>1</sup> Der Entscheid enthält folgende Angaben:
+
+- a) die Bezeichnung der entscheidenden Behörde, im Fall einer kollegialen Verwaltungsjustizbehörde auch ihre Zusammensetzung;
+- b) die Namen der Parteien und ihrer Vertreter oder Beistände;
+- c) die Begründung;
+- d) die Entscheidformel;
+- e) das Datum und die Unterschrift;
+- f) die Rechtsmittelbelehrung, d. h. den Hinweis auf das zulässige ordentliche Rechtsmittel, die dafür zuständige Instanz und die einzuhaltende Frist.
+
+<sup>2</sup> Entscheide, die der Beschwerde an das Bundesgericht unterliegen, müssen den Anforderungen von Artikel 112 des Bundesgesetzes vom 17. Juni 2005 über das Bundesgericht entsprechen.
+
+<sup>3</sup> Das Kantonsgericht kann seine Urteile durch blosse Mitteilung der Entscheidformel abgeben. Es informiert die Parteien darüber, dass die Redaktion der gesamten Begründung innert 30 Tagen nach der Eröffnung verlangt werden kann.
+
+#### Art. 67
+
+**Verzicht auf die Begründung**
+
+<sup>1</sup> Die Behörde kann auf die Begründung verzichten, wenn:
+
+- a) ein Entscheid den Begehren des Gesuchstellers voll entspricht und keine Partei eine Begründung verlangt oder
+- b) gleichartige Entscheide in grosser Zahl getroffen werden und sie durch Einsprache anfechtbar sind.
+
+#### Art. 68
+
+**Schriftliche Eröffnung**
+
+<sup>1</sup> Die Behörde eröffnet den Parteien den Entscheid schriftlich auf eine der in den Artikeln 34 und 35 bestimmten Arten.
+
+<sup>2</sup> Wählt die Behörde wegen der Zahl der Parteien den Weg der Veröffentlichung (Art. 35 Abs. 1 Bst. b), so ist der Entscheid den am Verfahren beteiligten Parteien auch persönlich zu eröffnen.
+
+<sup>3</sup> Der Entscheid wird zudem den Bundesbehörden eröffnet, falls die Bundesgesetzgebung dies vorschreibt.
+
+#### Art. 69
+
+**Mündliche Eröffnung**
+
+<sup>1</sup> Erfordern es die Natur des Entscheides oder die Umstände, so wird der Entscheid mündlich eröffnet. Er ist so rasch wie möglich schriftlich zu bestätigen.
+
+<sup>2</sup> Die Rechtsmittelfrist beginnt erst von der Mitteilung der schriftlichen Bestätigung an zu laufen.
+
+### 2.1.8 Vollstreckung
+
+#### Art. 70
+
+**Vollstreckbare Entscheide**
+
+<sup>1</sup> Ein Entscheid ist vollstreckbar, wenn:
+
+- a) er nicht mehr durch Einsprache oder Beschwerde angefochten werden kann oder
+- b) die Einsprache oder die Beschwerde keine aufschiebende Wirkung hat oder
+- c) die aufschiebende Wirkung entzogen worden ist.
+
+#### Art. 71
+
+**Vollstreckungsbehörden**
+
+<sup>1</sup> Die Verwaltungsbehörden sorgen selbst für die Vollstreckung ihrer Entscheide.
+
+<sup>2</sup> Die Entscheide der Verwaltungsjustizbehörden werden von der in erster Instanz zuständigen Verwaltungsbehörde oder von derjenigen Behörde vollstreckt, die von der Verwaltungsjustizbehörde damit beauftragt wird.
+
+#### Art. 72
+
+**Zu Geldzahlungen verpflichtende Entscheide**
+
+<sup>1</sup> Entscheide, die zu Geldzahlungen oder Sicherheitsleistungen verpflichten, sind auf dem Weg der Schuldbetreibung zu vollstrecken.
+
+<sup>2</sup> …
+
+#### Art. 73
+
+**Nicht zu Geldzahlungen verpflichtende Entscheide – Im Allgemeinen**
+
+<sup>1</sup> Zur Vollstreckung von Entscheiden, die nicht zu Geldzahlungen verpflichten, kann die Behörde folgende Massnahmen ergreifen:
+
+- a) Ersatzvornahme durch die Behörde oder durch einen von ihr beauftragten Dritten auf Kosten des Verpflichteten; die Kosten sind durch besonderen Entscheid festzusetzen;
+- b) unmittelbaren Zwang gegen die Person des Verpflichteten oder an seinen Sachen.
+
+<sup>2</sup> Die Behörde kann wenn nötig gemäss den Vorschriften der einschlägigen Gesetzgebung die Hilfe der Kantonspolizei anfordern.
+
+<sup>3</sup> Die Behörde bedient sich keiner schärferen Zwangsmittel, als es die Verhältnisse erfordern.
+
+#### Art. 74
+
+**Nicht zu Geldzahlungen verpflichtende Entscheide – Sanktionen**
+
+<sup>1</sup> Die Nichterfüllung kann in den gesetzlich vorgesehenen Fällen durch eine administrative oder eine strafrechtliche Sanktion geahndet werden.
+
+<sup>2</sup> Abgesehen von diesen Fällen kann eine Strafverfolgung eingeleitet werden, wenn eine Person einen Entscheid missachtet hat, der ihr unter Androhung von Busse gemäss Artikel 292 des Schweizerischen Strafgesetzbuches eröffnet worden war.
+
+#### Art. 75
+
+**Vorgehen**
+
+<sup>1</sup> Bevor die Behörde zu einem Zwangsmittel greift, droht sie es dem Verpflichteten an und räumt ihm eine angemessene Frist für die Erfüllung ein; sie macht ihn auf die möglichen Sanktionen aufmerksam. Die Androhung kann im Entscheid selbst oder nachträglich erfolgen.
+
+<sup>2</sup> In den in Artikel 73 Abs. 1 genannten Fällen kann die Behörde auf die Androhung verzichten, wenn Gefahr im Verzuge ist.
+
+### 2.2 Beschwerdeverfahren
+
+### 2.2.1 Voraussetzungen
+
+#### Art. 76
+
+**Beschwerdebefugnis**
+
+<sup>1</sup> Zur Beschwerde ist berechtigt:
+
+- a) wer durch den angefochtenen Entscheid berührt ist und ein schutzwürdiges Interesse an dessen Aufhebung oder Änderung hat;
+- b) jede andere Person, Organisation oder Behörde, die das Gesetz als beschwerdeberechtigt anerkennt.
+
+#### Art. 77
+
+**Beschwerdegründe – Im Allgemeinen**
+
+<sup>1</sup> Mit einer Beschwerde kann gerügt werden:
+
+- a) Verletzung des Rechts einschliesslich Überschreitung oder Missbrauch des Ermessens;
+- b) unrichtige oder unvollständige Feststellung des rechtserheblichen Sachverhalts.
+
+<sup>2</sup> …
+
+#### Art. 78
+
+**Beschwerdegründe – Unangemessenheit**
+
+<sup>1</sup> Eine Beschwerde an eine besondere Verwaltungsjustizbehörde kann auch wegen Unangemessenheit geführt werden, wenn nicht ein Gesetz diese Rüge ausschliesst.
+
+<sup>2</sup> Vor dem Kantonsgericht kann die Unangemessenheit nur gerügt werden, wenn:
+
+- a) die Angelegenheit das Gebiet der öffentlichen Abgaben oder der Sozialversicherungen betrifft oder
+- b) die Angelegenheit der Beschwerde an eine zur Überprüfung dieser Rüge befugte Bundesbehörde unterliegt oder
+- c) ein Gesetz diesen Beschwerdegrund ausdrücklich vorsieht.
+
+#### Art. 79
+
+**Fristen**
+
+<sup>1</sup> Die Beschwerdefrist beträgt dreissig Tage.
+
+<sup>2</sup> Für Beschwerden gegen Zwischenentscheide beträgt sie zehn Tage.
+
+<sup>3</sup> Die im kantonalen Recht und im Bundesrecht vorgesehenen besonderen Fristen bleiben vorbehalten.
+
+### 2.2.2 Beschwerdeschrift
+
+#### Art. 80
+
+**Einreichung**
+
+<sup>1</sup> Die Beschwerdeschrift ist der Beschwerdeinstanz im Doppel einzusenden oder zu übergeben.
+
+<sup>2</sup> Fehlt das Doppel oder sind wegen der Zahl der Verfahrensparteien Zusatzexemplare nötig, so kann die Behörde vom Beschwerdeführer verlangen, die fehlenden Exemplare nachzureichen, oder auf seine Kosten Kopien anfertigen.
+
+#### Art. 81
+
+**Inhalt**
+
+<sup>1</sup> Die Beschwerdeschrift muss die Begehren des Beschwerdeführers und deren Begründung enthalten, andernfalls kann auf die Beschwerde nicht eingetreten werden.
+
+<sup>2</sup> Die Beschwerdeschrift hat auch die Beweismittel anzuführen; der angefochtene Entscheid und die sachdienlichen Urkunden im Besitz des Beschwerdeführers sind ihr beizulegen, und sie ist vom Beschwerdeführer oder von seinem Vertreter zu unterzeichnen.
+
+<sup>3</sup> Der Beschwerdeführer kann in der Beschwerdeschrift keine Begehren stellen, die ausserhalb des Fragenkreises liegen, der Gegenstand des vorangegangenen Verfahrens war. Er kann dagegen Tatsachen und Beweismittel geltend machen, die in diesem Verfahren nicht angeführt wurden.
+
+#### Art. 82
+
+**Behebung von Mängeln**
+
+<sup>1</sup> Genügt die Beschwerdeschrift den Anforderungen von Artikel 81 Abs. 2 nicht oder sind die Begehren oder die Begründung nicht klar genug ausgedrückt, so setzt die Behörde dem Beschwerdeführer eine kurze Frist zur Behebung der Mängel, sofern die Beschwerde nicht offensichtlich unzulässig ist.
+
+<sup>2</sup> Die Behörde weist den Beschwerdeführer darauf hin, dass sie im Fall, dass eine fristgerechte Verbesserung ausbleibt, aufgrund der Akten entscheiden oder, falls die Unterschrift fehlt, auf die Beschwerde nicht eintreten wird.
+
+#### Art. 83
+
+**Ergänzende Beschwerdeschrift**
+
+<sup>1</sup> Erfordert es der aussergewöhnliche Umfang oder die besondere Schwierigkeit der Beschwerdesache, so kann die Behörde dem Beschwerdeführer auf Gesuch eine Frist zur Ergänzung der Begründung einräumen. Das Gesuch ist zu begründen und mit der Beschwerde einzureichen.
+
+### 2.2.3 Wirkungen der Beschwerde
+
+#### Art. 84
+
+**Aufschiebende Wirkung**
+
+<sup>1</sup> Die Beschwerde hat aufschiebende Wirkung.
+
+<sup>2</sup> Die Vorinstanz kann einer allfälligen Beschwerde die aufschiebende Wirkung entziehen, wenn der Entscheid nicht eine Geldleistung zum Gegenstand hat; unter derselben Voraussetzung kann nach Einreichung der Beschwerde die Beschwerdeinstanz die aufschiebende Wirkung entziehen.
+
+<sup>3</sup> Die Beschwerdeinstanz oder bei einer Kollegialbehörde der Instruktionsrichter kann die von der Vorinstanz entzogene aufschiebende Wirkung wiederherstellen; über ein Gesuch um Wiederherstellung der aufschiebenden Wirkung ist ohne Verzug zu entscheiden.
+
+#### Art. 85
+
+**Devolutivwirkung**
+
+<sup>1</sup> Mit Einreichung der Beschwerde geht die Zuständigkeit zur Behandlung der Sache, die Gegenstand der Beschwerde ist, auf die Beschwerdeinstanz über.
+
+<sup>2</sup> Die Vorinstanz kann jedoch den angefochtenen Entscheid ändern oder aufheben, solange sie ihre Bemerkungen zur Beschwerdeschrift nicht abgeschickt hat. Den neuen Entscheid eröffnet sie ohne Verzug den Parteien und bringt ihn der Beschwerdeinstanz zur Kenntnis.
+
+<sup>3</sup> Die Beschwerdeinstanz setzt die Behandlung der Beschwerde fort, soweit diese durch den neuen Entscheid nicht gegenstandslos geworden ist. Ein neuer Schriftenwechsel findet statt, wenn der neue Entscheid auf einem erheblich veränderten Sachverhalt beruht oder eine erheblich veränderte Rechtslage schafft.
+
+### 2.2.4 Instruktion der Beschwerde
+
+#### Art. 86
+
+**Instruierende Behörde – Im Allgemeinen**
+
+<sup>1</sup> Die Beschwerdeinstanz instruiert die an sie gerichteten Beschwerden selbst.
+
+<sup>2</sup> Eine Kollegialbehörde kann ihren Präsidenten, ein anderes Mitglied oder einen Ausschuss mit dieser Aufgabe betrauen.
+
+<sup>3</sup> Eine Person kann nicht an der Instruktion einer Beschwerde gegen einen Entscheid mitwirken, an dessen Erlass sie beteiligt war.
+
+#### Art. 87
+
+**Instruierende Behörde – Beschwerden an den Staatsrat**
+
+<sup>1</sup> Beschwerden an den Staatsrat werden von einer Direktion oder von der Staatskanzlei instruiert.
+
+<sup>2</sup> Richtet sich die Beschwerde gegen einen Entscheid einer Direktion oder einer Institution, die von einem Staatsrat geleitet wird, so wird sie dem Rat vom stellvertretenden Staatsrat vorgelegt; richtet sich die Beschwerde gegen einen Entscheid einer anderen Behörde, so wird sie vom Vorsteher der Direktion vorgelegt, in deren Bereich der Gegenstand der Beschwerde fällt.
+
+#### Art. 88
+
+**Instruierende Behörde – Befugnisse der beauftragten Behörde**
+
+<sup>1</sup> Die mit der Instruktion beauftragte Behörde (Art. 86 Abs. 2 und 87 Abs. 1) trifft alle zweckmässigen Verfahrensentscheide. Die Zuständigkeit im Bereich der aufschiebenden Wirkung und der vorsorglichen Massnahmen kann nur an einen Richter übertragen werden.
+
+<sup>2</sup> Ihre Entscheide können durch Beschwerde bei der Behörde, für die sie die Beschwerde instruiert, angefochten werden.
+
+#### Art. 89
+
+**Schriftenwechsel – Im Allgemeinen**
+
+<sup>1</sup> Die instruierende Behörde bringt die Beschwerdeschrift der Behörde, die den angefochtenen Entscheid getroffen hat, und gegebenenfalls den anderen Parteien zur Kenntnis und räumt ihnen eine Frist zur Einreichung ihrer Bemerkungen ein; sie fordert gleichzeitig die Vorinstanz auf, ihre Akten vorzulegen.
+
+<sup>2</sup> Die Behörde bringt die Bemerkungen dem Beschwerdeführer zur Kenntnis. Wenn die Erfordernisse der Instruktion oder andere Umstände es rechtfertigen, gibt sie ihm Gelegenheit, Gegenbemerkungen einzureichen.
+
+#### Art. 90
+
+**Schriftenwechsel – Besondere Bestimmungen**
+
+<sup>1</sup> Die instruierende Behörde kann auf einen Schriftenwechsel verzichten, wenn sich die Beschwerde als offensichtlich unzulässig erweist.
+
+<sup>2</sup> Sie kann den Schriftenwechsel auf Fragen beschränken, die für den Ausgang des Verfahrens entscheidend sind.
+
+<sup>3</sup> Sie kann die Parteien in jedem Verfahrensabschnitt zu einem weiteren Schriftenwechsel einladen.
+
+#### Art. 91
+
+**Mündliche Verhandlung**
+
+<sup>1</sup> Verlangen es die Parteien oder erfordert es die Erledigung der Beschwerdesache, so ordnen das Kantonsgericht und die Rekurskommissionen, die in letzter kantonaler Instanz entscheiden, eine mündliche Verhandlung an.
+
+<sup>1<sup>bis</sup></sup> Mündliche Verhandlungen können nicht verlangt werden, wenn die Sache offensichtlich begründet oder unbegründet erscheint, sowie bei rein technischen Fragen und Fragen der unentgeltlichen Rechtspflege und des Ausstands.
+
+<sup>2</sup> Die Verhandlungen sind öffentlich. Die Öffentlichkeit kann jedoch ausgeschlossen werden, wenn ein öffentliches oder privates Interesse es erfordert.
+
+<sup>3</sup> Das Sitzungsprotokoll ist nach den Bestimmungen der Zivilprozessordnung zu führen.
+
+#### Art. 92
+
+**Einigungsversuch**
+
+<sup>1</sup> Die Beschwerdeinstanz kann sich um eine Einigung der Parteien bemühen, wenn die Angelegenheit sich dafür eignet und das öffentliche Interesse oder das Interesse Dritter dem nicht entgegensteht.
+
+#### Art. 93
+
+**Neue Vorbringen**
+
+<sup>1</sup> Im Verlauf des Verfahrens können nur Tatsachen und Beweismittel geltend gemacht werden, die im Schriftenwechsel im Sinne von Artikel 89 nicht vorgebracht werden konnten.
+
+#### Art. 94
+
+**Rückzug der Beschwerde**
+
+<sup>1</sup> Solange der Beschwerdeentscheid nicht gefällt ist, kann der Beschwerdeführer die Beschwerde ganz oder teilweise zurückziehen.
+
+### 2.2.5 Beschwerdeentscheid
+
+#### Art. 95
+
+**Entscheidungsbefugnis – Umfang**
+
+<sup>1</sup> Das Kantonsgericht kann, ausser auf dem Gebiet der öffentlichen Abgaben und der Sozialversicherungen, weder zugunsten noch zuungunsten der Parteien über deren Begehren hinausgehen.
+
+<sup>2</sup> Eine besondere Verwaltungsjustizbehörde kann einen angefochtenen Entscheid zugunsten oder zuungunsten einer Partei ändern, ohne an deren Begehren gebunden zu sein.
+
+<sup>3</sup> Die Behörde ist in keinem Fall an die von den Parteien vorgebrachten Begründungen gebunden.
+
+#### Art. 96
+
+**Entscheidungsbefugnis – Beschwerdeentscheid zum Nachteil einer Partei**
+
+<sup>1</sup> Ist die Beschwerdeinstanz dazu ermächtigt, so kann sie den angefochtenen Entscheid zuungunsten einer Partei ändern, soweit er das Recht verletzt oder auf einer unrichtigen oder unvollständigen Feststellung des Sachverhalts beruht; wegen Unangemessenheit darf diese Schlechterstellung nur angeordnet werden, wenn die Berücksichtigung der Interessen einer Gegenpartei, ausgenommen derjenigen der Vorinstanz, es verlangt.
+
+<sup>2</sup> Beabsichtigt die Behörde, den Entscheid zuungunsten einer Partei zu ändern, so muss sie ihr diese Absicht vorgängig zur Kenntnis bringen, ihr die Gründe angeben, die eine Schlechterstellung rechtfertigen können, und ihr eine Frist zur Gegenäusserung einräumen.
+
+#### Art. 96a
+
+**Eingeschränkte Überprüfung**
+
+<sup>1</sup> Die Beschwerdeinstanz prüft Entscheide einer Behörde, der nach der Gesetzgebung ein weiter Ermessensspielraum zusteht, mit Zurückhaltung.
+
+<sup>2</sup> Dies gilt insbesondere für Entscheide über:
+
+- a) die Beurteilung der Arbeit, der Fähigkeiten und des Benehmens einer Person;
+- b) die Gewährung einer Leistung, auf die nach der Gesetzgebung kein Rechtsanspruch besteht.
+
+#### Art. 97
+
+**Unvereinbarkeit**
+
+<sup>1</sup> Eine Person kann nicht an der Beurteilung einer Beschwerde gegen einen Entscheid mitwirken, an dessen Erlass sie beteiligt war.
+
+<sup>2</sup> Bei der Beratung hat diese Person jedoch beratende Stimme, wenn eine Kollegialbehörde, deren Mitglied sie ist, über die Beschwerde entscheidet.
+
+#### Art. 98
+
+**Entscheid**
+
+<sup>1</sup> Tritt die Beschwerdeinstanz auf die Beschwerde ein, so bestätigt sie den angefochtenen Entscheid oder hebt ihn ganz oder teilweise auf.
+
+<sup>2</sup> Hebt sie ihn auf, so entscheidet sie selbst in der Sache oder weist diese, nötigenfalls mit verbindlichen Weisungen, an die Vorinstanz zurück.
+
+#### Art. 99
+
+**Summarischer Entscheid**
+
+<sup>1</sup> Die Beschwerdeinstanz kann einen Entscheid, mit dem sie eine offensichtlich unbegründete Beschwerde abweist oder eine offensichtlich begründete Beschwerde gutheisst, summarisch begründen.
+
+#### Art. 100
+
+**Präsidialentscheid**
+
+<sup>1</sup> Der Präsident einer kollegialen Beschwerdeinstanz ist zuständig:
+
+- a) für den Nichteintretensentscheid bei einer offensichtlich unzulässigen Beschwerde;
+- b) Verfahren als erledigt zu erklären, die infolge Rückzugs oder Einigung unter den Parteien oder aus anderen Gründen gegenstandslos geworden sind;
+- c) über andere Angelegenheiten zu entscheiden, wenn das Gesetz dies vorsieht.
+
+<sup>2</sup> Der Präsidialentscheid ist summarisch zu begründen.
+
+### 2.3 Klageverfahren
+
+#### Art. 101
+
+**Grundsatz**
+
+<sup>1</sup> Das Klageverfahren vor dem Kantonsgericht wird durch sinngemässe Anwendung der Zivilprozessordnung geregelt; vorbehalten bleiben die Artikel 1-44, 66-75, 102, 105-109, 121-124 und 127-148 des vorliegenden Gesetzes.
+
+#### Art. 102
+
+**Vorverfahren**
+
+<sup>1</sup> Bevor der Kläger seine Klage einreicht, muss er seine Ansprüche mit einer Begründung dem Beklagten schriftlich mitteilen.
+
+<sup>2</sup> Wird das Vorverfahren ausgelassen, so ist die Klage in den im Gesetz vorgesehenen Fällen unzulässig.
+
+<sup>3</sup> Wenn in den übrigen Fällen der Kläger die Klage einreicht, ohne nach Absatz 1 vorgegangen zu sein, oder der Beklagte nicht rechtzeitig Stellung nimmt, trägt die angerufene Behörde diesem Umstand bei der Festsetzung der Verfahrenskosten und der Parteientschädigung Rechnung.
+
+<sup>4</sup> Es findet kein vorgängiger Versöhnungsversuch statt.
+
+### 2.4 Besondere Verfahren
+
+#### Art. 103
+
+**Einsprache**
+
+<sup>1</sup> Gegen einen Entscheid kann Einsprache erhoben werden, wenn eine gesetzliche Bestimmung dies vorsieht.
+
+<sup>2</sup> Die Einspracheinstanz und das Verfahren werden durch die Spezialgesetzgebung bestimmt.
+
+<sup>3</sup> Soweit Vorschriften fehlen, sind die Bestimmungen über das Beschwerdeverfahren sinngemäss anwendbar. Ein Schriftenwechsel findet jedoch nur statt, wenn die Behandlung der Einsprache dies erfordert.
+
+#### Art. 104
+
+**Wiedererwägungsgesuch**
+
+<sup>1</sup> Eine Partei kann jederzeit die Verwaltungsbehörde ersuchen, ihren Entscheid in Wiedererwägung zu ziehen.
+
+<sup>2</sup> Die Behörde muss sich mit dem Gesuch nur befassen, wenn:
+
+- a) die Verhältnisse sich seit dem ersten Entscheid erheblich geändert haben oder
+- b) der Gesuchsteller erhebliche Tatsachen oder Beweismittel geltend macht, die er beim Erlass des ersten Entscheides nicht kannte oder auf die er sich damals nicht berufen konnte oder keinen Grund dazu hatte, oder
+- c) der Gesuchsteller einen anderen Revisionsgrund im Sinne von Artikel 105 geltend macht.
+
+<sup>3</sup> Das Gesuch hat keine aufschiebende Wirkung, sofern die Behörde es nicht anders bestimmt, und es bewirkt keine Fristunterbrechung.
+
+#### Art. 105
+
+**Revision – Gründe**
+
+<sup>1</sup> Die Verwaltungsjustizbehörde zieht ihren Entscheid auf Gesuch in Revision, wenn eine Partei:
+
+- a) neue erhebliche Tatsachen oder Beweismittel vorbringt oder
+- b) nachweist, dass die Behörde aktenkundige erhebliche Tatsachen übersehen hat, oder
+- c) nachweist, dass die Behörde die Bestimmungen über den Ausstand oder über das rechtliche Gehör verletzt hat.
+
+<sup>2</sup> Sie zieht ihren Entscheid ferner von Amtes wegen oder auf Antrag in Revision, wenn:
+
+- a) ein Verbrechen oder ein Vergehen ihn beeinflusst hat oder
+- b) ein in derselben Sache ergangener Entscheid einer internationalen Justizbehörde dies erfordert, insbesondere ein Entscheid des Europäischen Gerichtshofs für Menschenrechte.
+
+<sup>3</sup> Die in Absatz 1 aufgeführten Gründe sind keine Revisionsgründe, wenn sie im Verfahren, das dem Entscheid vorausging, oder mit Beschwerde gegen diesen Entscheid hätten geltend gemacht werden können.
+
+#### Art. 106
+
+**Revision – Fristen**
+
+<sup>1</sup> Das Revisionsgesuch muss der Behörde, die den angefochtenen Entscheid getroffen hat, innert 90 Tagen seit Entdeckung des Revisionsgrundes, spätestens aber innert zehn Jahren seit Eröffnung des Entscheides eingereicht werden. Die letztgenannte Frist gilt nicht, wenn die Revision aus einem in Artikel 105 Abs. 2 vorgesehenen Grund verlangt wird.
+
+#### Art. 107
+
+**Revision – Verfahren**
+
+<sup>1</sup> Das Gesuch muss den geltend gemachten Revisionsgrund angeben und die für den Fall eines neuen Entscheides in der Sache gestellten Begehren enthalten.
+
+<sup>2</sup> Das Gesuch schiebt die Vollstreckung des angefochtenen Entscheides nicht auf, sofern die angerufene Behörde es nicht anders bestimmt.
+
+<sup>3</sup> Erachtet die Behörde das Gesuch als begründet, so hebt sie den angefochtenen Entscheid auf und trifft einen neuen Entscheid.
+
+<sup>4</sup> Im Übrigen sind die Artikel 80-83, 86-94, 99 und 100 sinngemäss auf das Revisionsverfahren anwendbar.
+
+#### Art. 108
+
+**Erläuterung**
+
+<sup>1</sup> Auf Antrag einer Partei erläutert die Behörde ihren Entscheid, wenn Unklarheiten oder Widersprüche in der Entscheidformel oder zwischen dieser und der Begründung bestehen.
+
+<sup>2</sup> Gibt die Behörde dem Gesuch statt, so beginnt eine Rechtsmittelfrist mit der Erläuterung neu zu laufen.
+
+#### Art. 109
+
+**Berichtigung**
+
+<sup>1</sup> Die Behörde kann von Amtes wegen oder auf Antrag jederzeit Redaktions- oder Rechnungsfehler oder andere, ähnliche Versehen berichtigen, die keinen Einfluss auf die Entscheidformel oder auf den wesentlichen Inhalt der Begründung haben.
+
+#### Art. 110
+
+**Feststellungsverfahren**
+
+<sup>1</sup> Die zuständige Verwaltungsbehörde kann über das Bestehen, das Nichtbestehen oder den Umfang öffentlich-rechtlicher Rechte oder Pflichten einen Feststellungsentscheid treffen.
+
+<sup>2</sup> Sie gibt einem Gesuch um Feststellung Folge, wenn der Gesuchsteller ein schutzwürdiges Interesse an der Feststellung nachweist.
+
+<sup>3</sup> Hat eine Partei in gutem Glauben gestützt auf einen Feststellungsentscheid gehandelt, so dürfen ihr daraus keine Nachteile erwachsen.
+
+#### Art. 110a
+
+**Entscheid über Realakte**
+
+<sup>1</sup> Wer ein schutzwürdiges Interesse hat, kann von der Behörde, die für Handlungen zuständig ist, die sich auf öffentliches Recht des Bundes, des Kantons oder einer Gemeinde stützen und Rechte oder Pflichten berühren, verlangen, dass sie:
+
+- a) widerrechtliche Handlungen unterlässt, einstellt oder widerruft;
+- b) die Folgen widerrechtlicher Handlungen beseitigt;
+- c) die Widerrechtlichkeit von Handlungen feststellt.
+
+<sup>2</sup> Die Behörde fällt einen Entscheid.
+
+#### Art. 111
+
+**Fehlender Entscheid**
+
+<sup>1</sup> Eine Partei kann jederzeit bei der vorgesetzten Behörde oder der Aufsichtsbehörde Beschwerde führen, wenn eine untere Behörde einen Entscheid verweigert oder verzögert.
+
+<sup>2</sup> Erachtet die obere Behörde die Beschwerde als begründet, so entscheidet sie in der Sache anstelle der unteren Behörde. Diese bleibt jedoch für die Entscheidung zuständig, solange sie ihre Bemerkungen zur Beschwerdeschrift nicht abgeschickt hat.
+
+<sup>3</sup> Ist die obere Behörde nicht zugleich Beschwerdeinstanz, so ist ihr Entscheid unter denselben Voraussetzungen durch Beschwerde anfechtbar wie der Entscheid der unteren Behörde.
+
+<sup>4</sup> Verweigert oder verzögert der Staatsrat oder der Grosse Rat unrechtmässig einen beim Kantonsgericht anfechtbaren Entscheid, so kann eine Partei jederzeit beim Kantonsgericht dagegen Beschwerde führen.
+
+#### Art. 112
+
+**Aufsichtsbeschwerde**
+
+<sup>1</sup> Jedermann kann jederzeit der oberen Behörde Tatsachen anzeigen, die im öffentlichen Interesse ein Einschreiten gegen eine ihrer Dienst- oder Aufsichtsgewalt unterstehende Behörde erfordern.
+
+<sup>2</sup> Der Anzeiger hat keine Parteirechte. Die Behörde teilt ihm jedoch mit, ob sie aufgrund der Aufsichtsbeschwerde etwas veranlasst hat oder nicht.
+
+<sup>3</sup> Die besonderen Aufsichtsbeschwerdeverfahren der Spezialgesetzgebung bleiben vorbehalten.
+
+## 3 Verwaltungsjustiz
+
+### 3.1 Beschwerde
+
+#### Art. 113
+
+**Grundsatz**
+
+<sup>1</sup> Gegen die Entscheide kann Beschwerde erhoben werden; ausgenommen sind die Vollstreckungsmassnahmen und die kraft dieses oder eines anderen Gesetzes endgültigen Entscheide.
+
+#### Art. 114
+
+**Kantonsgericht**
+
+<sup>1</sup> Sofern das Gesetz die Sache nicht in die Zuständigkeit einer anderen Behörde legt, beurteilt das Kantonsgericht als letzte kantonale Instanz Beschwerden gegen Entscheide:
+
+- a) des Staatsrates, seiner Direktionen und der Staatskanzlei sowie der ihnen angegliederten Verwaltungskommissionen;
+- a<sup>bis</sup>) des Generalsekretärs und des Büros des Grossen Rates in den Angelegenheiten, die das Personal des Sekretariats des Grossen Rates betreffen;
+- b) der kantonalen Anstalten mit eigener Rechtspersönlichkeit sowie der übrigen einer Direktion administrativ zugewiesenen Verwaltungseinheiten;
+- c) der Oberamtmänner;
+- d) der Organe der öffentlich-rechtlichen Körperschaften mit Ausnahme der Gemeinden und Gemeindeverbände;
+- e) der Enteignungskommission;
+- f) der Organe der mit öffentlich-rechtlichen Aufgaben betrauten privaten Institutionen.
+
+<sup>2</sup> Das Kantonsgericht beurteilt Beschwerden in den nicht in Absatz 1 genannten Fällen:
+
+- a) wenn ein Gesetz dies vorsieht;
+- b) oder wenn die vom Bundesrecht oder vom internationalen Recht verlangte richterliche Überprüfung nicht schon von einer anderen Behörde wahrgenommen wird; das Kantonsgericht ist in diesen Fällen auch dann zuständig, wenn das Gesetz den Entscheid als endgültig bezeichnet.
+
+<sup>3</sup> Die Organisation des Kantonsgerichts ist im Justizgesetz geregelt.
+
+#### Art. 115
+
+**Staatsrat**
+
+<sup>1</sup> Der Staatsrat entscheidet nur über Beschwerden, wenn ein Gesetz dies vorsieht.
+
+#### Art. 116
+
+**Direktionen und Oberamtmänner**
+
+<sup>1</sup> Die Direktionen des Staatsrates beurteilen Beschwerden gegen Entscheide der ihnen unterstehenden Dienststellen.
+
+<sup>2</sup> Der Oberamtmann beurteilt Beschwerden gegen Entscheide der Gemeindebehörden nach Massgabe des Gesetzes über die Gemeinden.
+
+<sup>3</sup> Ausgenommen sind die Fälle, für die das Gesetz eine direkte Beschwerde an eine obere Behörde oder ein anderes Rechtsmittel vorsieht.
+
+#### Art. 117
+
+**Rekurskommissionen**
+
+<sup>1</sup> Folgende Kommissionen beurteilen Beschwerden in den im Gesetz vorgesehenen Fällen:
+
+- a) die Rekurskommission der Universität;
+- b) die Rekurskommission für Bodenverbesserungen;
+- c) die Rekurskommission für die Ersterhebung.
+
+#### Art. 118
+
+**Ausschöpfung der vorgängigen Rechtsmittel**
+
+<sup>1</sup> Die Beschwerde an eine obere Behörde ist erst zulässig, wenn die vorgängigen Rechtsmittel der Einsprache gegen einen Entscheid oder der Beschwerde ausgeschöpft sind.
+
+#### Art. 119
+
+**Direkte Beschwerde an die obere Behörde**
+
+<sup>1</sup> Hat eine Behörde, die über eine an sie gerichtete Beschwerde nicht endgültig entscheiden würde, in einem Einzelfall eine untere Behörde angewiesen, einen bestimmten Entscheid zu treffen, oder ihr eine Weisung erteilt, wie sie entscheiden soll, so ist die Beschwerde bei der nächsthöheren Beschwerdeinstanz einzureichen; in der Rechtsmittelbelehrung sind die Parteien darauf aufmerksam zu machen.
+
+<sup>2</sup> Die nächsthöhere Beschwerdeinstanz hat in diesem Fall die gleichen Überprüfungsbefugnisse wie die übersprungene Vorinstanz.
+
+<sup>3</sup> Weisungen, die eine Beschwerdeinstanz erteilt, wenn sie in der Sache entscheidet und diese an die Vorinstanz zurückweist, gelten nicht als Weisungen im Sinne von Absatz 1.
+
+#### Art. 120
+
+**Beschwerde gegen Zwischenentscheide**
+
+<sup>1</sup> Zwischenentscheide sind selbständig durch Beschwerde anfechtbar, wenn sie die Zuständigkeit, den Ausstand, die Verfahrenssprache, die aufschiebende Wirkung oder die unentgeltliche Rechtspflege betreffen.
+
+<sup>2</sup> In den übrigen Fällen sind Zwischenentscheide nur dann selbständig durch Beschwerde anfechtbar, wenn einer Partei aus ihnen ein nicht wiedergutzumachender Nachteil erwachsen kann oder wenn die Gutheissung der Beschwerde sofort einen Endentscheid herbeiführen und damit einen bedeutenden Aufwand an Zeit oder Kosten für ein weitläufiges Beweisverfahren ersparen würde.
+
+<sup>3</sup> Ein Zwischenentscheid ist in keinem Fall beschwerdefähig, wenn der Entscheid über die Hauptsache es nicht ist. Artikel 88 Abs. 2 zweiter Satz bleibt vorbehalten.
+
+### 3.2 Verwaltungsrechtliche Klage
+
+#### Art. 121
+
+**Fälle**
+
+<sup>1</sup> Die verwaltungsrechtliche Klage steht für Streitigkeiten über öffentlich-rechtliche Ansprüche offen, bei denen die Verwaltungsbehörde nicht zum Erlass eines Entscheides berechtigt ist.
+
+<sup>2</sup> Diese Ansprüche können insbesondere betreffen:
+
+- a) ausservertragliche Entschädigungen, insbesondere solche aufgrund der Haftung der Gemeinwesen und ihrer Amtsträger;
+- b) Leistungen aus öffentlich-rechtlichen Verträgen oder aus Vertragsbestimmungen einer Konzession;
+- c) Angelegenheiten, die aufgrund anderer Gesetze durch verwaltungsrechtliche Klage zu erledigen sind.
+
+#### Art. 122
+
+**Parteien**
+
+<sup>1</sup> Im verwaltungsrechtlichen Klageverfahren können sich gegenüberstehen:
+
+- a) eine natürliche oder eine juristische Person des Privatrechts und eine Körperschaft oder eine andere juristische Person des kantonalen öffentlichen Rechts;
+- b) Körperschaften und andere juristische Personen des kantonalen öffentlichen Rechts untereinander.
+
+<sup>2</sup> Mit öffentlich-rechtlichen Aufgaben betraute Privatpersonen und private Institutionen sind den Personen des öffentlichen Rechts gleichgestellt.
+
+#### Art. 123
+
+**Zuständigkeit des Kantonsgerichts**
+
+<sup>1</sup> Das Kantonsgericht erkennt als einzige kantonale Instanz über alle verwaltungsrechtlichen Klagen, deren Beurteilung nicht durch das Gesetz einer anderen Behörde zugewiesen wird.
+
+#### Art. 124
+
+**Subsidiarität**
+
+<sup>1</sup> Ist eine Verwaltungsbehörde ermächtigt, über einen öffentlich-rechtlichen Anspruch einen Entscheid zu treffen, so steht nur der Beschwerdeweg offen.
+
+### 3.3 Besondere richterliche Behörden
+
+#### Art. 125
+
+**Enteignungskommission**
+
+<sup>1</sup> Die Enteignungskommission übt die Befugnisse aus, die ihr durch das Gesetz über die Enteignung oder andere kantonale Gesetze übertragen werden.
+
+#### Art. 126
+
+**Schiedsgerichte für Sozialversicherungssachen**
+
+<sup>1</sup> Die Schiedsgerichte für Sozialversicherungssachen entscheiden über die Streitigkeiten, die durch die Bundesgesetze über die Krankenversicherung, über die Unfallversicherung und über die Invalidenversicherung in ihre Zuständigkeit gelegt werden.
+
+<sup>2</sup> Gegen ihre Entscheide ist keine kantonale Beschwerde zulässig.
+
+## 4 Verfahrenskosten, Parteientschädigung und unentgeltliche Rechtspflege
+
+### 4.1 Verfahrenskosten
+
+#### Art. 127
+
+**Allgemeine Vorschriften – Begriff**
+
+<sup>1</sup> Die Verfahrenskosten umfassen die Gebühren und die Barauslagen.
+
+#### Art. 128
+
+**Allgemeine Vorschriften – Kostenvorschuss**
+
+<sup>1</sup> Abgesehen von dem in Artikel 59 Abs. 3 genannten Fall können die Verwaltungsbehörden nur von einer Partei mit Wohnsitz im Ausland oder ohne festen Wohnsitz einen Vorschuss an die Verfahrenskosten verlangen. Dasselbe gilt auch für die in Artikel 3 Abs. 2 Bst. a bezeichneten Verwaltungsjustizbehörden.
+
+<sup>2</sup> In Streitigkeiten vor dem Kantonsgericht muss die Partei einen von der Behörde festgesetzten Kostenvorschuss als Sicherheit für die Bezahlung der voraussichtlichen Verfahrenskosten leisten. Dies gilt auch für die in Artikel 3 Abs. 2 Bst. b und c bezeichneten Behörden.
+
+<sup>3</sup> Die Behörde setzt der Partei eine angemessene Frist zur Zahlung des Vorschusses unter der Androhung, andernfalls ihr Gesuch für unzulässig zu erklären.
+
+<sup>4</sup> Die Bestimmungen über die unentgeltliche Rechtspflege bleiben vorbehalten.
+
+#### Art. 129
+
+**Allgemeine Vorschriften – Ermässigung und Erlass**
+
+<sup>1</sup> Die Verfahrenskosten können von Amtes wegen oder auf Antrag ermässigt oder erlassen werden, wenn:
+
+- a) die Einforderung der Kosten, insbesondere wegen der Bedürftigkeit der Partei, eine übermässige Härte bedeuten würde;
+- b) das Gesuch von einer gemeinnützigen privaten Institution gestellt wurde;
+- c) andere besondere Gründe dies rechtfertigen, insbesondere wenn das Gesuch hauptsächlich der Verfolgung eines öffentlichen Interesses diente.
+
+#### Art. 130
+
+**Erstinstanzliche Verfahren**
+
+<sup>1</sup> In erster Instanz werden die Kosten der Person auferlegt, die einen Entscheid der Verwaltungsbehörde anbegehrt oder veranlasst.
+
+<sup>2</sup> Bei der Einsprache, die einem Entscheid vorausgeht, werden die Kosten durch die sinngemässe Anwendung von Artikel 134 Abs. 1 geregelt.
+
+#### Art. 131
+
+**Beschwerde- und Klageverfahren – Grundsätze**
+
+<sup>1</sup> In einem Beschwerde- oder einem Klageverfahren trägt die unterliegende Partei die Kosten. Ist sie nur teilweise unterlegen, so werden die Kosten entsprechend ermässigt.
+
+<sup>2</sup> Einer obsiegenden Partei können Kosten auferlegt werden, wenn sie diese unnötigerweise, durch ihr Verschulden oder durch Verletzung von Verfahrenspflichten verursacht hat.
+
+<sup>3</sup> Heisst eine Beschwerdeinstanz eine Beschwerde gut und entscheidet sie selbst in der Sache (Art. 98 Abs. 2), so entscheidet sie auch über die Verfahrenskosten, die auf den angefochtenen Entscheid entfallen.
+
+#### Art. 132
+
+**Beschwerde- und Klageverfahren – Verteilung**
+
+<sup>1</sup> Unterliegen mehrere Verfahrensparteien, so werden die Kosten auf sie verteilt, wobei berücksichtigt wird, inwieweit sie am Verfahren ein Interesse haben und mit ihren Begehren gescheitert sind.
+
+<sup>2</sup> Parteien, die unter sich durch Rechte und Pflichten verbunden sind, haften jedoch solidarisch für die ihnen auferlegten Kosten.
+
+#### Art. 133
+
+**Beschwerde- und Klageverfahren – Gemeinwesen**
+
+<sup>1</sup> Dem Bund, dem Staat, den Gemeinden und anderen juristischen Personen des öffentlichen Rechts sowie den mit öffentlich-rechtlichen Aufgaben betrauten Privatpersonen und privaten Institutionen dürfen keine Verfahrenskosten auferlegt werden, es sei denn, ihre Vermögensinteressen seien betroffen.
+
+#### Art. 134
+
+**Besondere Verfahren**
+
+<sup>1</sup> Die Einsprache-, Berichtigungs- und Aufsichtsbeschwerdeverfahren sind kostenlos. Einem Gesuchsteller können jedoch Verfahrenskosten auferlegt werden, wenn sie durch sein Verschulden entstanden sind oder wenn er mutwillig, missbräuchlich oder leichtfertig ein Verfahren eingeleitet hat.
+
+<sup>2</sup> Bei der Wiedererwägung, der Revision und der Erläuterung werden die Kosten unter sinngemässer Anwendung der Artikel 131-133 festgesetzt.
+
+<sup>3</sup> Bei einem Entscheid, der ein Feststellungsverfahren abschliesst, und bei einem Entscheid über Realakte werden die Kosten nach Artikel 130 festgesetzt.
+
+#### Art. 134a
+
+**Verfahren in Personalangelegenheiten**
+
+<sup>1</sup> Das verwaltungsinterne Beschwerdeverfahren ist kostenlos bei Streitigkeiten über das Arbeitsverhältnis des Staatspersonals und der Anstalten des Staates.
+
+<sup>2</sup> Das Beschwerdeverfahren vor dem Kantonsgericht ist kostenlos, soweit dies bei privatrechtlichen Arbeitsstreitigkeiten vorgesehen ist, und in den Fällen, die der Gesetzgebung über die Gleichstellung von Frau und Mann unterstehen. Diese Bestimmung gilt auch für Beschwerden an den Oberamtmann oder an das Kantonsgericht über das Arbeitsverhältnis des Personals, das dem Gesetz über die Gemeinden untersteht.
+
+<sup>3</sup> In allen Fällen können einer Partei Verfahrenskosten auferlegt werden, wenn diese durch ihr Verschulden entstanden sind oder wenn sie mutwillig, missbräuchlich oder leichtfertig ein Verfahren eingeleitet hat.
+
+#### Art. 135
+
+**Gegenstandslos gewordene Verfahren**
+
+<sup>1</sup> Wird ein Verfahren infolge Rückzugs oder aus anderen Gründen gegenstandslos, so dürfen nur die bereits entstandenen Kosten berücksichtigt werden.
+
+<sup>2</sup> Wird eine Beschwerde gegenstandslos, weil die erstinstanzliche Behörde einen neuen Entscheid getroffen hat (Art. 85 Abs. 2), so werden dem Beschwerdeführer keine Verfahrenskosten auferlegt, ausser wenn der neue Entscheid auf Tatsachen oder Beweismitteln beruht, die der Beschwerdeführer schon im vorangegangenen Verfahren hätte geltend machen können.
+
+#### Art. 136
+
+**Kostenfreiheit**
+
+<sup>1</sup> Vorbehalten bleiben die gesetzlichen Bestimmungen, welche die Erhebung von Verfahrenskosten ganz oder teilweise ausschliessen, insbesondere diejenigen im Bereich der Sozialversicherungen.
+
+### 4.2 Parteientschädigung
+
+#### Art. 137
+
+**Grundsatz**
+
+<sup>1</sup> In den Beschwerde-, Revisions- und Erläuterungsverfahren vor einer als letzter kantonaler Instanz entscheidenden Behörde sowie in den Klageverfahren spricht die Verwaltungsjustizbehörde der obsiegenden Partei auf Gesuch eine Entschädigung für die zur Wahrung ihrer Interessen entstandenen, notwendigen Kosten zu.
+
+<sup>2</sup> Das Gesuch um eine Parteientschädigung ist einzureichen, bevor der Entscheid getroffen wird.
+
+<sup>3</sup> Die Parteientschädigung wird gemäss einem vom Staatsrat beschlossenen Tarif festgesetzt.
+
+#### Art. 138
+
+**Ausschluss und Herabsetzung**
+
+<sup>1</sup> Eine Partei, die durch eigenes Verschulden im vorangegangenen Verfahren nicht zufriedengestellt wurde, hat keinen Anspruch auf eine Parteientschädigung.
+
+<sup>2</sup> Obsiegt eine Partei nur teilweise, so wird die Parteientschädigung verhältnismässig herabgesetzt.
+
+#### Art. 139
+
+**Gemeinwesen**
+
+<sup>1</sup> Den in Artikel 133 aufgeführten Gemeinwesen wird keine Parteientschädigung zugesprochen, ausser wenn ihre Vermögensinteressen betroffen sind oder wenn besondere Umstände die Beiziehung aussenstehender Vertreter oder Beistände nötig gemacht haben.
+
+#### Art. 140
+
+**Inhalt**
+
+<sup>1</sup> Die Parteientschädigung umfasst:
+
+- a) die Kosten der Vertretung oder Verbeiständung;
+- b) die übrigen Auslagen der Partei, insbesondere ihre Reisekosten.
+
+#### Art. 141
+
+**Auferlegung der Entschädigung**
+
+<sup>1</sup> Die Parteientschädigung wird der oder den unterliegenden Parteien auferlegt. Sind mehrere Parteien zur Zahlung der Entschädigung verpflichtet, so ist für die Verteilung Artikel 132 sinngemäss anwendbar.
+
+<sup>2</sup> Die Kosten der Vertretung oder Verbeiständung durch einen Anwalt schuldet die zu deren Zahlung verurteilte Partei unmittelbar dem Anwalt.
+
+### 4.3 Unentgeltliche Rechtspflege
+
+#### Art. 142
+
+**Grundsatz**
+
+<sup>1</sup> Wer nicht genügend Mittel besitzt, um ohne Beschränkung des notwendigen Lebensunterhaltes für sich oder seine Familie die Kosten eines Verfahrens bestreiten zu können, hat Anspruch auf unentgeltliche Rechtspflege.
+
+<sup>2</sup> Die unentgeltliche Rechtspflege wird nicht gewährt, wenn das Verfahren für eine vernünftige Prozesspartei von vornherein aussichtslos erscheint.
+
+<sup>3</sup> Die unentgeltliche Rechtspflege wird entzogen, wenn die Voraussetzungen für ihre Gewährung im Verlauf des Verfahrens wegfallen.
+
+#### Art. 143
+
+**Inhalt**
+
+<sup>1</sup> Die unentgeltliche Rechtspflege umfasst für den Berechtigten die vollständige oder teilweise Befreiung von:
+
+- a) den Verfahrenskosten;
+- b) der Verpflichtung, einen Kostenvorschuss oder Sicherheiten zu leisten.
+
+<sup>2</sup> Ist es aufgrund der Schwierigkeit der Angelegenheit nötig, so umfasst die unentgeltliche Rechtspflege auch die Zuweisung eines Rechtsbeistands aus den zur Parteivertretung befugten Personen.
+
+<sup>3</sup> Die Gewährung der unentgeltlichen Rechtspflege kann von der Bezahlung eines monatlichen Beitrags an die Leistungen des Gemeinwesens abhängig gemacht werden.
+
+<sup>4</sup> Die unentgeltliche Rechtspflege befreit nicht von der Zahlung der Parteientschädigung nach den Artikeln 137 ff.
+
+#### Art. 144
+
+**Zuständigkeit**
+
+<sup>1</sup> Über den Anspruch auf unentgeltliche Rechtspflege entscheidet die mit der Hauptsache betraute Behörde oder die mit der Instruktion beauftragte Behörde (Art. 86 ff.).
+
+<sup>2</sup> Über die Höhe der Entschädigung entscheidet die mit der Hauptsache betraute Behörde (Art. 146 Abs. 2).
+
+#### Art. 145
+
+**Verfahren**
+
+<sup>1</sup> Das Gesuch um unentgeltliche Rechtspflege wird schriftlich bei der zuständigen Behörde eingereicht. Diese entscheidet innert kurzer Frist.
+
+<sup>2</sup> Das Gesuch muss ausreichende Angaben über die Mittel des Gesuchstellers enthalten; die zur Beurteilung seiner Begründetheit erforderlichen Belege sind beizulegen.
+
+<sup>3</sup> Das Verfahren für die unentgeltliche Rechtspflege ist kostenlos. Die zuständige Behörde kann jedoch im Falle eines Missbrauchs die Kosten ganz oder teilweise dem Gesuchsteller übertragen.
+
+<sup>4</sup> …
+
+<sup>5</sup> Im Rechtsmittelverfahren und in Angelegenheiten, die vom Zivilgericht für Sozialversicherungssachen überwiesen wurden, muss die unentgeltliche Rechtspflege neu beantragt werden.
+
+#### Art. 145a
+
+**Kostenliste**
+
+<sup>1</sup> Der zugewiesene Rechtsbeistand unterbreitet der Behörde ein Verzeichnis der vorgenommenen Handlungen und, wenn nötig, die Belege der Auslagen. Die Behörde fordert den Rechtsbeistand auf, seine Kostenliste einzureichen. Erhält die Behörde sie nicht vor Erlass des Entscheides, so setzt sie die Entschädigung von Amtes wegen nach freiem Ermessen fest.
+
+#### Art. 145b
+
+**Zahlung und Rückerstattung**
+
+<sup>1</sup> Der zugewiesene Rechtsbeistand wird von dem Gemeinwesen entschädigt, in dessen Namen die Behörde handelt, die die unentgeltliche Rechtspflege gewährt hat. Die Entschädigung wird ihm jedoch nur soweit ausgezahlt, als sie nicht durch die Parteientschädigung gedeckt ist.
+
+<sup>1<sup>bis</sup></sup> Die Entschädigungen, die dem bezeichneten Rechtsbeistand ausgerichtet werden, werden gemäss den in Zivilverfahren anwendbaren Bestimmungen über die unentgeltliche Rechtspflege festgesetzt. Es wird derselbe Stundenansatz angewendet wie bei der unentgeltlichen Rechtspflege in Zivil- und Strafsachen.
+
+<sup>2</sup> Die Entschädigungen, die von den Behörden nach Artikel 2 Abs. 1 Bst. a und von den Verwaltungsjustizbehörden festgesetzt worden sind, werden von dem für die Beziehungen zur richterlichen Gewalt zuständigen Amt[^145b-1] ausgezahlt.
+
+<sup>3</sup> Gelangt der Berechtigte später zu hinreichenden Mitteln oder wird nachgewiesen, dass seine Bedürftigkeit nicht bestand, so kann das Gemeinwesen von ihm die Vergütung seiner Leistungen verlangen. Der Anspruch ist innert zehn Jahren seit Abschluss des Verfahrens geltend zu machen.
+
+<sup>4</sup> Das für die Beziehungen zur richterlichen Gewalt zuständige Amt entscheidet über die Rückerstattung der Entschädigungen, die von den Behörden nach Artikel 2 Abs. 1 Bst. a und von den Verwaltungsjustizbehörden festgesetzt worden sind. Es erhält zu diesem Zweck eine Kopie aller Entscheide über die Gewährung der unentgeltlichen Rechtspflege und die Festsetzung der Kostenlisten der bezeichneten Rechtsbeistände.
+
+<sup>5</sup> Um periodisch zu überprüfen, ob die Bedingungen für eine solche Rückforderung erfüllt sind, kann das für die Beziehungen zur richterlichen Gewalt zuständige Amt im Abrufverfahren auf die Daten des für die direkten Steuern zuständigen kantonalen Amtes[^145b-2] und der Betreibungsämter zugreifen; die Bestimmungen des Datenschutzes bleiben vorbehalten. Der Staatsrat legt die Modalitäten in einem Reglement fest.
+
+[^145b-1]: Heute: Amt für Justiz.
+[^145b-2]: Heute: Kantonale Steuerverwaltung.
+
+#### Art. 145c
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen Entscheide kann gemäss den Artikeln 88, 120 und 148 Einsprache oder Beschwerde erhoben werden.
+
+### 4.4 Gemeinsame Bestimmungen
+
+#### Art. 146
+
+**Festsetzung der Beiträge**
+
+<sup>1</sup> Die Höhe der Verfahrenskosten, der Parteientschädigung und der Entschädigung des zugewiesenen Rechtsbeistands werden im Rahmen der dafür erlassenen Tarife festgesetzt.
+
+<sup>2</sup> Die Beiträge werden in der Entscheidformel angegeben.
+
+#### Art. 147
+
+**Tarife**
+
+<sup>1</sup> Der Staatsrat erlässt nach Anhören des Kantonsgerichts:
+
+- a) den Tarif der Verfahrenskosten vor den Verwaltungsjustizbehörden;
+- b) den Tarif der Parteientschädigungen;
+- c) den Tarif der Entschädigungen der zugewiesenen Rechtsbeistände.
+
+<sup>2</sup> Die Tarife der erstinstanzlichen Verfahrenskosten werden gemäss der Spezialgesetzgebung erlassen.
+
+#### Art. 148
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen die Festsetzung der Höhe der Verfahrenskosten, der Parteientschädigung oder der Entschädigung des zugewiesenen Rechtsbeistands ist die Einsprache an die Behörde, die entschieden hat, zulässig, sofern nur dieser Teil des Entscheides angefochten wird.
+
+<sup>2</sup> Geht der Einspracheentscheid von einer Behörde aus, die nicht als letzte kantonale Instanz entscheidet, so kann er bei der für die Hauptsache zuständigen Beschwerdeinstanz angefochten werden.
+
+## 5 Schlussbestimmungen
+
+#### Art. 149
+
+**Anpassung der Gesetzgebung**
+
+<sup>1</sup> Die wegen des Inkrafttretens dieses Gesetzes erforderlichen Aufhebungen und Änderungen der kantonalen Gesetzgebung werden in einem Anpassungsgesetz und einem Anpassungsbeschluss vorgenommen.
+
+<sup>2</sup> Das erforderliche Übergangsrecht wird ebenfalls im Anpassungsgesetz und im Anpassungsbeschluss geregelt.
+
+#### Art. 150
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Staatsrat wird mit dem Vollzug dieses Gesetzes beauftragt. Es tritt gleichzeitig mit dem Gesetz über die Organisation des Verwaltungsgerichts sowie dem Anpassungsgesetz und dem Anpassungsbeschluss in Kraft.[^150-1]
+
+[^150-1]: Datum des Inkrafttretens: 1. Januar 1992 (StRB 30.12.1991).
+
+## A1 ANHANG 1 – Elektronisches Bearbeiten von Daten im Verwaltungsverfahren
+
+#### Art. A1-1
+
+**Zweck und Geltungsbereich**
+
+<sup>1</sup> Dieser Anhang ergänzt das Gesetz über die Verwaltungsrechtspflege (VRG) und weicht von ihm ab, soweit es für die Verwendung von elektronischen Mitteln und Trägern nötig ist.
+
+<sup>2</sup> Diese Vorschriften gelten auch in den Bereichen, in denen die Verwendung von elektronischen Mitteln und Trägern in der Spezialgesetzgebung nicht vorgesehen wird. Die Fälle, in denen die Art der Handlung, Sicherheitsgründe oder eine Gesetzesbestimmung der Verwendung von elektronischen Mitteln oder Trägern entgegenstehen, bleiben vorbehalten.
+
+<sup>3</sup> Sie gelten für Leistungen, welche die Gemeindebehörden elektronisch erbringen, insbesondere in Verfahren, die integrierender Bestandteil einer gemeinsamen Lösung sind.
+
+<sup>4</sup> Sie gelten nicht für Verfahren vor dem Kantonsgericht, den gesetzlich eingesetzten Rekurskommissionen, der Enteignungskommission, den Schiedsgerichten im Sozialversicherungsbereich und dem Zwangsmassnahmengericht beim Ausländerrecht. Das Kantonsgericht ist dafür zuständig, die Verwendung von elektronischen Mitteln und Trägern in diesen Verfahren zu regeln.
+
+#### Art. A1-2
+
+**Begriffsbestimmung**
+
+<sup>1</sup> Elektronische Übermittlung: Abgabe von Daten an eine elektronische Adresse oder Bekanntgabe der Adresse der Ressource, bei der die Daten eingesehen und heruntergeladen werden können.
+
+<sup>2</sup> Bearbeiten: jede Operation mit Daten – unabhängig von den verwendeten Mitteln und Verfahren –, namentlich das Sammeln, das Aufbewahren, die Bewirtschaftung, die Änderung, das Bekanntgeben, die Archivierung und die Zerstörung von Daten.
+
+#### Art. A1-3
+
+**Zulässigkeit des elektronischen Bearbeitens**
+
+<sup>1</sup> Die nötigen Daten für den Ablauf eines Verwaltungsverfahrens können in elektronischer Form bearbeitet werden, sofern sie den Anforderungen dieses Anhangs und dessen Ausführungsbestimmungen entsprechen. In diesem Rahmen haben Dokumente, die mit einer qualifizierten elektronischen Signatur im Sinne der Bundesgesetzgebung bestätigt wurden, den gleichen Wert und verpflichten genau gleich wie bei einer handgeschriebenen Unterschrift.
+
+<sup>2</sup> Die Beweiserhebung kann auf elektronischem Weg erfolgen, wenn die Sicherheit der Daten und der Kommunikationen gewährleistet und die Beweiskraft der Handlung angemessen sichergestellt wird.
+
+<sup>3</sup> Die elektronische Übermittlung an die Parteien wird nur mit deren Einverständnis gemacht. Von Personen, die sich auf elektronischem Weg an eine Behörde wenden, wird aber angenommen, dass sie damit einverstanden sind, dass die Behörde mit ihnen elektronisch verkehrt, namentlich um Entscheide zuzustellen und weitere Daten des betreffenden Verfahrens zu übermitteln.
+
+<sup>4</sup> Die Parteien können ihr Einverständnis jederzeit widerrufen oder den Geltungsbereich einschränken; der Staatsrat kann eine kurze Kündigungsfrist vorschreiben und verlangen, dass das Einverständnis oder dessen Widerruf einen bestimmten Teil oder bestimmte Teile des Verfahrens betrifft.
+
+#### Art. A1-4
+
+**Verfahren ausserhalb des virtuellen Schalters**
+
+<sup>1</sup> Bei der elektronischen Bearbeitung von Daten ausserhalb des E-Government-Schalters des Staates (virtueller Schalter) muss das Sicherheits- und Authentifizierungsniveau je nachdem, welcher Art und wie heikel die bearbeiteten Daten und welches die Bedürfnisse des betreffenden Verfahrens sind, angepasst werden.
+
+<sup>2</sup> Das Amt, das für Informatik und Telekommunikation zuständig ist [^A14-1], legt die technischen Mittel, die eingesetzt werden müssen, fest.
+
+[^A14-1]: Heute: Amt für Informatik und Telekommunikation.
+
+#### Art. A1-5
+
+**Zustellung und Einhalten der Fristen**
+
+<sup>1</sup> In den Ausführungsbestimmungen wird festgehalten, in welchem Moment ein Entscheid, der auf elektronischem Weg übermittelt wurde, als zugestellt gilt.
+
+<sup>2</sup> Für die Einhaltung einer Frist ist der Moment entscheidend, in dem die Empfangsbestätigung erstellt wird und somit feststeht, dass alle notwendigen Etappen für die Übermittlung korrekt und vollständig zurückgelegt wurden.
+
+<sup>3</sup> Wird keine Bestätigung ausgestellt, so müssen die Parteien und ihre Vertreter die Frist einhalten, indem sie den traditionellen Weg gemäss VRG wählen. Die Wiederherstellung einer Frist gemäss Artikel 31 VRG bleibt vorbehalten, namentlich bei einer erwiesenen Panne der offiziellen Plattform.
+
+#### Art. A1-6
+
+**Vorübergehende Änderung der Spezialgesetzgebung**
+
+<sup>1</sup> Wenn eine Ausnahme verfahrenstechnischer Art nötig ist, um den Ablauf eines elektronischen Verfahrens sicherzustellen, kann der Staatsrat sie auf dem Verordnungsweg vorübergehend zulassen. Wenn diese Vorschriften nicht in eine Gesetzesänderung aufgenommen werden, laufen sie spätestens zwei Jahre nach Inkrafttreten dieser Verordnung ab; sie können nicht verlängert werden.
+
+BL/AGS 1991 f 242 / d 244

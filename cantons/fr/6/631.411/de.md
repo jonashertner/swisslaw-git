@@ -1,0 +1,139 @@
+---
+canton: FR
+number: "631.411"
+title: Verordnung FIND über den Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
+language: de
+version: 2009-01-01
+valid_until: 2021-12-31
+version_adopted: 2008-12-17
+adopted: 2006-12-14
+in_force: 2007-01-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/631.411"
+pdf: "https://bdlf.fr.ch/api/de/versions/5299/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung FIND über den Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit
+
+Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit – V
+
+vom 14.12.2006 (Fassung in Kraft getreten am 01.01.2009)
+
+Die Finanzdirektion
+
+gestützt auf den Artikel 27 des Gesetzes vom 6. Juni 2000 über die direkten Kantonssteuern (DStG);
+
+in Erwägung:
+
+Die Finanzdirektion setzt in Anwendung dieser Gesetzesbestimmung die Pauschalansätze für die Berufskosten der Unselbstständigerwerbenden fest.
+
+verordnet:
+
+#### Art. 1
+
+**Grundsatz**
+
+<sup>1</sup> Die Abzüge nach den Artikeln 3–8 gelten nur für die hauptberuflich ausgeübten unselbstständigen Tätigkeiten; einfache Nebenbeschäftigungen sind ausgeschlossen.
+
+<sup>2</sup> Arbeitet ein Ehegatte im Beruf oder im Betrieb des anderen Ehegatten oder eine eingetragene Partnerin bzw. ein eingetragener Partner im Beruf oder im Betrieb der bzw. des anderen, so sind die Abzüge nur zulässig, wenn ein Arbeitsverhältnis nachgewiesen werden kann, das Grundlage einer Abrechnung mit den Sozialversicherungen ist und das den Rahmen der ehelichen Beistandspflicht oder der Beistandspflicht im Rahmen der eingetragenen Partnerschaft eindeutig übersteigt.
+
+<sup>3</sup> Der Ehegatte oder die eingetragene Partnerin bzw. der eingetragene Partner kann keine zusätzlichen Fahrkosten abziehen, wenn sie oder er für die Fahrt zur Arbeitsstätte dasselbe Fahrzeug wie die steuerpflichtige Person benützt.
+
+<sup>4</sup> Bei Fahrgemeinschaften, d.h. bei gemeinsamen Fahrten mit Arbeitskollegen, kann der volle Fahrkostenabzug nur einmal gewährt werden.
+
+<sup>5</sup> Nicht abziehbar sind die vom Arbeitgeber oder einem Dritten übernommenen Aufwendungen, der durch die berufliche Stellung der steuerpflichtigen Person bedingte Privataufwand (sog. Standesauslagen) und die Aufwendungen für den Unterhalt der steuerpflichtigen Person und ihrer Familie (Art. 35 Bst. a DStG).
+
+<sup>6</sup> Wird die Arbeit das ganze Jahr ausgeübt, so werden grundsätzlich 220 Arbeitstage im Jahr berücksichtigt.
+
+#### Art. 2
+
+**Nachweis höherer Kosten bei Pauschalansätzen**
+
+<sup>1</sup> Wird anstelle einer Pauschale nach den Artikeln 3 Abs. 3, 6 Abs. 1 und 9 Abs. 1 der Nachweis höherer Kosten angetreten, so müssen die gesamten tatsächlichen Auslagen und deren berufliche Notwendigkeit nachgewiesen werden.
+
+#### Art. 3
+
+**Fahrkosten**
+
+<sup>1</sup> Die notwendigen Kosten für Fahrten zwischen Wohn- und Arbeitsstätte sind im Falle einer beachtlichen Entfernung, d.h. mindestens 1,5 km, abziehbar.
+
+<sup>2</sup> Der Abzug beträgt:
+
+- a) wenn die steuerpflichtige Person die öffentlichen Verkehrsmittel benützt: die tatsächlichen Kosten der 2. Klasse;
+- b) wenn sie ein Fahrrad, ein Motorfahrrad oder ein Motorrad mit gelbem Kontrollschild benützt: bis zu 700 Franken pro Jahr;
+- c) wenn sie ein Motorrad mit weissem Kontrollschild oder ein Privatauto benützt: den Betrag, den die steuerpflichtige Person bei Benützung der entsprechenden öffentlichen Verkehrsmittel hätte auslegen müssen.
+
+<sup>3</sup> Steht der steuerpflichtigen Person kein öffentliches Verkehrsmittel zur Verfügung oder kann ihr die Benützung nicht zugemutet werden (zum Beispiel wegen Gebrechlichkeit, Entfernung, ungünstigem Fahrplan), kann sie abziehen:
+
+- a) für ein Motorrad mit weissem Kontrollschild: bis zu 40 Rappen pro km;
+- b) für ein Auto, ohne Unterscheidung der benützten Wagenklasse:
+  - 1\. 70 Rappen je km bis zu 10'000 km,
+  - 2\. 60 Rappen je km für die nächsten 10'000 km (von 10'001 bis 20'000 km),
+  - 3\. 50 Rappen je km für die übrigen km (über 20'001 km).
+
+#### Art. 4
+
+**Mehrkosten für Verpflegung**
+
+<sup>1</sup> Für die Mehrkosten gegenüber der normalen Verpflegung zu Hause aufgrund von durchgehender Schicht- oder Nachtarbeit oder auswärtiger Verpflegung werden folgende Abzüge gewährt:
+
+- a) Arbeitet die steuerpflichtige Person in durchgehender Schicht- oder Nachtarbeit, so beträgt der Abzug 15 Franken pro Arbeitstag und bei durchgehender ganzjähriger Schicht- oder Nachtarbeit 3200 Franken im Jahr. Der Schichtarbeit wird die gestaffelte (unregelmässige) Arbeitszeit gleichgestellt, sofern beide Hauptmahlzeiten nicht zur üblichen Zeit zu Hause eingenommen werden können. Die durch die durchgehende Schicht- oder Nachtarbeit verursachten Mehrkosten können nur abgezogen werden, wenn sie der Arbeitgeber nicht vergütet. Dieser Abzug kann nicht zusätzlich zum Abzug für auswärtige Verpflegung oder für Wochenaufenthalt beansprucht werden.
+- b) Wenn die steuerpflichtige Person wegen grosser Entfernung zwischen Wohn- und Arbeitsstätte oder wegen kurzer Essenspause eine Hauptmahlzeit nicht zu Hause einnehmen kann, so beträgt der Abzug 15 Franken je auswärtiges Mittagessen oder bei regelmässiger auswärtiger Mittagsverpflegung 3200 Franken im Jahr.
+- c) Nimmt die steuerpflichtige Person die Verpflegung in einer Kantine, einem Personalrestaurant oder einer Gaststätte des Arbeitgebers ein oder wird die auswärtige Mahlzeit vom Arbeitgeber anders als in bar verbilligt (Abgabe von Gutscheinen), so beträgt der Abzug 7.50 Franken pro auswärtige Hauptmahlzeit oder 1600 Franken im Jahr, sofern sie diese Mahlzeit regelmässig auswärts einnimmt. Der halbe Abzug gilt ebenfalls für die steuerpflichtige Person, die infolge einer kurzen Essenspause mindestens eine Hauptmahlzeit pro Tag bei ihrem Arbeitgeber einnehmen muss. Die Einnahme weiterer Mahlzeiten beim Arbeitgeber gibt keinen Anspruch auf mehr als diesen halben Abzug. Andererseits wird kein Abzug zugelassen, wenn die Hauptmahlzeit für die steuerpflichtige Person weniger als 9 Franken kostet.
+
+#### Art. 5
+
+**Auswärtiger Wochenaufenthalt**
+
+<sup>1</sup> Hält sich die steuerpflichtige Person während der Woche an ihrem Arbeitsort auf und kehrt sie regelmässig am Wochenende an den Wohnort zurück, so kann sie für die Fahrkosten und die Kosten für auswärtige Verpflegung und Unterkunft Abzüge geltend machen.
+
+<sup>2</sup> Als notwendige Fahrkosten sind die Kosten der regelmässigen Heimkehr an den steuerlichen Wohnsitz sowie die Fahrkosten zwischen auswärtiger Unterkunft und Arbeitsstätte gemäss Artikel 3 abziehbar.
+
+<sup>3</sup> Für die Mehrkosten der auswärtigen Verpflegung kann sie einen Betrag von 15 Franken pro Hauptmahlzeit, d.h. 30 Franken im Tag oder 6400 Franken im Jahr, abziehen, wenn sie während des ganzen Jahres auswärts arbeitet. Nimmt sie jedoch das Mittagessen in einer Kantine des Arbeitgebers ein oder wird der Preis durch einen Beitrag des Arbeitgebers verbilligt, so vermindert sich der Pauschalabzug auf 7.50 Franken für diese Mahlzeit. In diesem Fall beträgt der Abzug 22.50 Franken im Tag oder 4800 Franken im Jahr.
+
+<sup>4</sup> Als notwendige Mehrkosten der Unterkunft sind die ortsüblichen Mieten für ein Zimmer abziehbar.
+
+#### Art. 6
+
+**Übrige Berufskosten**
+
+<sup>1</sup> Für die übrigen Berufskosten, wie Berufswerkzeuge (inkl. EDV-Hard- und -Software), Fachliteratur, die Benützung eines privaten Arbeitszimmers, Berufskleider, besonderen Schuh- und Kleiderverschleiss, Schwerarbeit, kann die steuerpflichtige Person 3 % des Nettolohnes gemäss Lohnausweis, mindestens aber 2000 Franken und höchstens 4000 Franken im Jahr abziehen. Der Nachweis höherer Auslagen bleibt vorbehalten (Art. 2).
+
+<sup>2</sup> Macht die steuerpflichtige Person statt des Pauschalabzuges den tatsächlichen Kostenabzug für die sonstigen Berufskosten geltend, kann sie die tatsächlichen Kosten eines Arbeitszimmers (Miete, Heizung usw.) abziehen, wenn sie den Beweis erbringt, dass es für sie unerlässlich ist, regelmässig und für einen wesentlichen Teil der Berufsarbeit ein Zimmer ihrer Wohnung zu benutzen, um ihren ausschliesslich beruflichen Verpflichtungen nachzukommen. Ist der besonders ausgeschiedene Raum ungeeignet, wird er ebenfalls anderweitig benutzt oder erfolgt die Benutzung nur gelegentlich, so kann kein Abzug gemacht werden.
+
+#### Art. 7
+
+**Weiterbildungs- und Umschulungskosten**
+
+<sup>1</sup> Abziehbar sind Weiterbildungskosten, die objektiv mit dem gegenwärtigen Beruf der steuerpflichtigen Person in einem unmittelbaren Zusammenhang stehen. Darunter fallen Auslagen, die der Festigung der Stellung innerhalb des angestammten Berufes dienen (z.B. Meisterprüfung, höhere Fachprüfung), aber auch Kosten zur Wahrung und Erweiterung nicht spezifischer Fachkenntnisse (z. B. Sprachkurs), sofern sie berufsbezogen sind und nicht allein persönlichen Interessen dienen. Berücksichtigt werden somit Kosten für Kurse, Bücher, Material, Fahrkosten, Verpflegungskosten und Unterkunft. Nicht abzugsfähig sind reine Ausbildungskosten.
+
+<sup>2</sup> Abziehbar sind auch Umschulungskosten, die einer steuerpflichtigen Person wegen eines Wechsels der bisher ausgeübten Tätigkeit anfallen und im Hinblick auf eine spätere hauptberufliche Erwerbstätigkeit aufgewendet werden. Ferner können die Kosten des Wiedereinstiegs in Abzug gebracht werden, die eine steuerpflichtige Person aufwenden muss, um nach längerer Zeit wiederum im seinerzeit erlernten und ausgeübten Beruf tätig zu werden. Sowohl Umschulungs- als auch Wiedereinstiegskosten sind nur abziehbar, wenn die steuerpflichtige Person gleichzeitig ein Erwerbseinkommen erzielt; daraus folgt, dass Kosten für Kurse, welche vor Beginn der Erwerbstätigkeit besucht werden, nicht abzugsfähig sind.
+
+#### Art. 8
+
+**Abzug besonderer Berufskosten von Expatriates**
+
+<sup>1</sup> Die Verordnung des Bundesrats vom 3. Oktober 2000 über den Abzug besonderer Berufskosten bei der direkten Bundessteuer von vorübergehend in der Schweiz tätigen leitenden Angestellten, Spezialisten und Spezialistinnen gilt für die direkte Kantonssteuer sinngemäss.
+
+#### Art. 9
+
+**Nebenerwerb**
+
+<sup>1</sup> Für die mit einer Nebenerwerbstätigkeit verbundenen Berufskosten wird ein Pauschalabzug von 20 % des Nettoeinkommens aus dieser Tätigkeit gewährt, mindestens 800 Franken, höchstens aber 2400 Franken im Jahr für die gesamten Einnahmen. In diesem Abzug sind sämtliche mit der Ausübung dieser Tätigkeit verbundenen Kosten enthalten. Der Nachweis höherer Kosten bleibt vorbehalten (Art. 2).
+
+<sup>2</sup> Dieser Abzug kann auf Einkommen, die eine steuerpflichtige Person in ihrer Eigenschaft als Verwalter von juristischen Personen erzielt, nicht gewährt werden, da die diesbezüglichen Kosten im Allgemeinen besonders rückvergütet werden.
+
+#### Art. 10
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung vom 21. März 2001 über den Abzug von Berufskosten bei unselbstständiger Erwerbstätigkeit (SGF 631.411) wird aufgehoben.
+
+#### Art. 11
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2007 in Kraft und gilt erstmals für die Steuerperiode 2007.
+
+2007\_004

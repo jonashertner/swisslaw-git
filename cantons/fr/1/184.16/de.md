@@ -1,0 +1,476 @@
+---
+canton: FR
+number: "184.16"
+title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
+language: de
+version: 2019-08-01
+valid_until: 2021-02-28
+version_adopted: 2019-06-24
+adopted: 2019-06-24
+in_force: 2019-08-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
+pdf: "https://bdlf.fr.ch/api/de/versions/6084/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)
+
+Kantonale Bezugssystem von Daten – V
+
+vom 24.06.2019 (Fassung in Kraft getreten am 01.08.2019)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG), insbesondere auf die Artikel 13–16 und 21;
+
+gestützt auf die Stellungnahme der Kantonalen Behörde für Öffentlichkeit und Datenschutz vom 4. Februar 2019;
+
+in Erwägung:
+
+Der Aufbau eines kantonalen Bezugssystems, das verifizierte und aktualisierte Referenzdaten von Personen und Organisationen, die direkt mit den Organen des Staates interagieren oder in Verbindung stehen, enthält, ist ein wesentlicher Schritt zur Festigung der Basis für die Digitalisierung der Verwaltung.
+
+Die Bestimmungen des E-GovSchG erlauben jetzt schon die Schaffung einer solchen Infrastruktur, aber sie müssen vervollständigt und präzisiert werden. Gemäss Artikel 21 E-GovSchG kann der Staatsrat die Einführung von befristeten Pilotprojekten im Bereich der Digitalisierung erlauben, bevor die definitiven formellen gesetzlichen Grundlagen angenommen werden. Der Vorteil ist, dass diese dadurch besser, präziser und, was die Dichte betrifft, sicherer werden.
+
+Langfristig hat dieses Bezugssystem das Ziel, die vereinheitlichte und verifizierte Hauptinformationsquelle für Referenzdaten für die öffentlichen Organe des Kantons Freiburg zu werden.
+
+Auf Antrag der Finanzdirektion und der Staatskanzlei,
+
+beschliesst:
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> In dieser Verordnung werden die Umsetzung und der Betrieb eines kantonalen Bezugssystems von Daten von Personen, von Organisationen und von Verzeichnissen (kantonales Bezugssystem) während einer befristeten Pilotphase geregelt.
+
+<sup>2</sup> Es besteht aus einem Set von Daten, die aus mehreren Anwendungen oder Informationssystemen stammen.
+
+#### Art. 2
+
+**Zweck des kantonalen Bezugssystems**
+
+<sup>1</sup> Das kantonale Bezugssystem ist eine digitale Infrastruktur, die mit einer zentralen Governance ausgestattet ist. Es bietet ein Verzeichnis von Daten, das Referenzdaten von Personen und Organisationen, die mit einem Organ des Staats interagieren oder in Verbindung stehen, enthält; diese Daten können geteilt werden.
+
+<sup>2</sup> Es steht den Organen der Gemeinwesen und den Privatpersonen, die öffentliche Aufgaben erledigen, zur Verfügung.
+
+<sup>3</sup> Es unterstützt die Digitalisierung der Prozesse sämtlicher Organe des Staats auf eine bereichsübergreifende Art und Weise. Es zielt darauf ab, dass die neuen Regeln und die neue Bearbeitung verbunden mit der Identifizierung, der Verfügbarkeit, der Qualität, der Übereinstimmung, der Sicherheit der Daten und der Zugang zu diesen einheitlich angewendet werden.
+
+#### Art. 3
+
+**Daten des kantonalen Bezugssystems**
+
+<sup>1</sup> Das kantonale Bezugssystem bearbeitet hauptsächlich Referenzdaten, die Personen und Organisationen betreffen. Unter Referenzdaten sind Daten zu verstehen, die dazu dienen, die Person oder die Organisation zu identifizieren, zu erfassen, aufzufinden, zu kontaktieren oder zu vertreten.
+
+<sup>2</sup> Das kantonale Bezugssystem kann weitere Daten aufnehmen, welche die betroffene Person oder ihre Vertreterin oder ihr Vertreter gemäss Artikel 7 freiwillig bekanntgegeben hat.
+
+<sup>3</sup> Das kantonale Bezugssystem enthält ausserdem unpersönliche Sachdaten, die von allgemeinem Nutzen sind, wie Informationen über die Organe der Gemeinwesen (Namen und Adressen der Gemeinden und der Verwaltungseinheiten usw.), Postadressen, die Länderliste und standardisierte Verzeichnisse (Anreden, Geschlechter, Staatsangehörigkeiten, Arten von juristischen Personen usw.).
+
+<sup>4</sup> Die Quellen, der Umfang und der Katalog der Daten des kantonalen Bezugssystems werden in einem separaten Dokument, das auf der Website des Staats veröffentlicht wird, beschrieben. Sie werden während der Pilotphase, abhängig von neuen Bedürfnissen und Prioritäten, angepasst und aktualisiert.
+
+#### Art. 4
+
+**Governance der Daten des kantonalen Bezugssystems**
+
+<sup>1</sup> Folgende Organe, die gemeinsam die gute Governance der Referenzdaten des kantonalen Bezugssystems sicherstellen, überwachen während der Pilotphase die Bewirtschaftung und die Regulierung der Prozesse zur Umsetzung und zum Betrieb des kantonalen Bezugssystems:
+
+- a) die Kommission für die Governance der Referenzdaten (die Kommission);
+- b) der Ausschuss für die Qualität der Referenzdaten (der Ausschuss für die Datenqualität);
+- c) der Ausschuss für die bestimmungsgemässe Verwendung der Referenzdaten (der Ausschuss für die bestimmungsgemässe Verwendung der Daten).
+
+<sup>2</sup> Das Amt für Informatik und Telekommunikation (ITA) stellt die notwendigen Ressourcen für die technische Umsetzung und den Betrieb des kantonalen Bezugssystems zur Verfügung. Es gewährleistet die technische Sicherheit des Informationssystems.
+
+<sup>3</sup> Die Rollen und Zuständigkeiten der Governance-Organe werden in Anhang 1 dieser Verordnung beschrieben.
+
+#### Art. 5
+
+**Organisation und datenliefernde Organe**
+
+<sup>1</sup> Das kantonale Bezugssystem kann mit Referenzdaten, die von Informationssystemen von kantonalen und kommunalen Organen stammen, und, innerhalb der Grenzen des Bundesrechts, mit den Referenzdaten aus den offiziellen Registern des Bundes gespiesen werden.
+
+<sup>2</sup> Eine Vereinbarung zwischen dem datenliefernden Organ und der Kommission regelt die Rechte und Pflichten der jeweiligen Partei. Die Vereinbarung kann an neue Bedürfnisse und Prioritäten angepasst werden.
+
+<sup>3</sup> Die Organe, die dem kantonalen Bezugssystem Daten liefern, und eine Aufzählung der wichtigsten Anforderungen an deren Organisation befinden sich in Anhang 2 dieser Verordnung.
+
+#### Art. 6
+
+**Datenvorverarbeitung**
+
+<sup>1</sup> Für die Umsetzung und den Betrieb des kantonalen Bezugssystems bewilligt diese Verordnung:
+
+- a) die systematische Zuweisung einer eindeutigen User-ID im Sinne von Artikel 14 E-GovSchG an jede Person oder Organisation, die mit einem Organ des Staats interagiert oder in Verbindung steht;
+- b) die systematische Verknüpfung von Referenzdaten, die von Informationssystemen eines datenliefernden Organs im Sinne von Artikel 5 Abs. 1 stammen.
+
+<sup>2</sup> Die Umsetzungsmodalitäten der Vorverarbeitungsprozesse werden in Anhang 3 dieser Verordnung dargestellt.
+
+#### Art. 7
+
+**Beteiligung der betroffenen Person**
+
+<sup>1</sup> Die betroffene Person, oder die Person, die sie vertritt, kann für bestimmte Zwecke zusätzliche Daten über sich zur Verfügung stellen und die Löschung und Berichtigung fehlerhafter Personendaten beantragen.
+
+<sup>2</sup> Das Hinzufügen von Personendaten in das kantonale Bezugssystem verlangt die freie und aufgeklärte Einwilligung der betroffenen Person; zudem muss für die Verwaltung ein Bedürfnis an diesen Daten bestehen, und sie muss jedes Mal den Zweck der Daten präzisieren.
+
+<sup>3</sup> Die betroffene Person hat das Recht, ihre Zustimmung jederzeit zu widerrufen und zu verlangen, dass die Daten, die sie übermittelt hat, innert angemessener Frist aus den Daten des kantonalen Bezugssystems gelöscht werden.
+
+<sup>4</sup> Das Hinzufügen von Daten und die Lösch- oder Berichtigungsanträge werden gratis und nach einem automatisierten Verfahren behandelt. Die betroffene Person wird über die ergriffenen Massnahmen informiert.
+
+#### Art. 8
+
+**Inbetriebnahme des kantonalen Bezugssystems und Datenzugang**
+
+<sup>1</sup> Wenn das kantonale Bezugssystem in Betrieb genommen wird, werden die datenliefernden Organe und die vorgeschlagenen Funktionen schrittweise integriert. Die Organisierung der Datengovernance wird so bald wie möglich eingeführt.
+
+<sup>2</sup> Der Zugang zu den Daten des kantonalen Bezugssystems wird auf der Grundlage einer Vereinbarung, die mit der Kommission gemäss der Spezialgesetzgebung geschlossen wird, gewährt.
+
+<sup>3</sup> Die Zugangsmodalitäten zu den Daten des kantonalen Bezugssystems und die Regeln über deren Nutzung werden in Anhang 4 dieser Verordnung erläutert.
+
+#### Art. 9
+
+**Verbot von Profilerstellung und Datenverknüpfung**
+
+<sup>1</sup> Unter Vorbehalt der Fälle nach Anhang 3 dieser Verordnung ist es jeder Person oder Applikation, welche die eindeutige kantonale User-ID oder das kantonale Bezugssystem verwendet, strikt verboten, diese Instrumente für die Profilerstellung und die Datenverknüpfung zu verwenden.
+
+#### Art. 10
+
+**Sicherheit, Datenschutz und Aufsicht**
+
+<sup>1</sup> Die Personendaten sind vor jeglichen Angriffen auf ihre Vertraulichkeit und vor unerlaubten Bearbeitungen zu schützen. Der Schutz ist in jeder Phase der Datenbearbeitung gewährleistet; er gilt gegenüber jeder Person, sowohl innerhalb als auch ausserhalb der Verwaltung.
+
+<sup>2</sup> Während der Pilotphase wird die Kantonale Behörde für Öffentlichkeit und Datenschutz (ÖDSB) regelmässig angehört, um zu sehen, wie sich die Umsetzung und der Betrieb des kantonalen Bezugssystems entwickelt. Sie kann zudem jederzeit eingreifen, um die Einhaltung der Datenschutzbestimmungen zu fordern.
+
+<sup>3</sup> Die Regeln zur Sicherheit und zum Schutz der Daten und zur Aufsicht durch die ÖDSB werden in Anhang 5 dieser Verordnung erläutert.
+
+#### Art. 11
+
+**Gebühren**
+
+<sup>1</sup> Für die Berichtigung von Daten in den Informationssystemen der datenliefernden Organen werden keine Gebühren erhoben, wenn diese Berichtigungsanfragen vom Ausschuss für die Datenqualität stammen und im Rahmen der Umsetzung dieser Verordnung vorgebracht werden.
+
+<sup>2</sup> Das Bundesrecht bleibt vorbehalten.
+
+#### Art. 12
+
+**Aktualisierung der Anhänge**
+
+<sup>1</sup> Die Anhänge dieser Verordnung werden, sooft es aufgrund der Fortschritte und Entwicklungen bei der Umsetzung des kantonalen Bezugssystems und aufgrund der neuen Bedürfnisse und Prioritäten nötig ist, aktualisiert.
+
+<sup>2</sup> Die ÖDSB muss bei neuen Aktualisierungen angehört werden.
+
+#### Art. 13
+
+**Regelmässige Auswertung**
+
+<sup>1</sup> Während der Pilotphase werden die Risiken und die Auswahl an Massnahmen zur Datenqualität und zur Wahrung der Datenschutzanforderungen regelmässig ausgewertet.
+
+#### Art. 14
+
+**Abschliessender Auswertungsbericht**
+
+<sup>1</sup> Am Schluss der Pilotphase stellt die Kommission dem Staatsrat einen abschliessenden Auswertungsbericht über den Verlauf dieser Experimentalphase vor.
+
+## A1 ANHANG 1 – Governance (Art. 4)
+
+#### Art. A1-1
+
+**Kommission für die Governance der Referenzdaten**
+
+<sup>1</sup> Während der Pilotphase übernimmt die Kommission die Verantwortung für die Umsetzung und den Betrieb des kantonalen Bezugssystems. Sie erfüllt insbesondere folgende Aufgaben:
+
+- a) Sie führt eine kantonale Governance über die vom kantonalen Bezugssystem geteilten Daten ein.
+- b) Sie prüft die Bedürfnisse und Einschränkungen im Zusammenhang mit dem Datenaustausch, welche die datenliefernden und datennutzenden Organe ausdrücken, sowie die Möglichkeiten zur Umsetzung.
+- c) Sie ernennt die Mitglieder des Ausschusses für die Datenqualität und des Ausschusses für die bestimmungsgemässe Verwendung der Daten und beaufsichtigt deren Arbeit.
+- d) Sie übernimmt die verschiedenen Verpflichtungen der oder des Verantwortlichen für die Datensammlung gemäss dem Gesetz über den Datenschutz.
+- e) Sie erarbeitet die Nutzungsreglemente, um die Sicherheit und den Datenschutz zu gewährleisten, stellt sicher, dass diese Reglemente verabschiedet werden, und vereinbart mit den datenliefernden Organen den Zweck und die Art und Weise ihres Eingriffs.
+- f) Sie schliesst mit den datennutzenden Organen eine Vereinbarung über den Zweck und die Bedingungen des Zugangs zu den Daten des kantonalen Bezugssystems ab.
+- g) Sie legt die Quellen, den Umfang und den Katalog der Daten im kantonalen Bezugssystem und die Art und Weise, wie sie geteilt werden, im Einvernehmen mit dem Ausschuss für die Datenqualität und dem Ausschuss für die bestimmungsgemässe Verwendung der Daten fest.
+- h) Sie achtet darauf, dass die Governance-Organe, die datenliefernden Organe und die anderen Einheiten, die für die Datenqualität verantwortlich sind, gut zusammenarbeiten, und vermittelt, falls nötig, bei möglichen Konflikten.
+- i) Sie verlangt Berichte oder Beurteilungen und lässt Prüfungen durchführen, um festzustellen, ob die Risiken gedeckt sind und ob die Daten bei der Umsetzung und dem Betrieb des kantonalen Bezugssystems effizient und korrekt bearbeitet werden.
+- j) Sie veröffentlicht die Informationen zur Umsetzung des kantonalen Bezugssystems.
+
+<sup>2</sup> Die Zusammensetzung der Kommission kann sich, je nach neuen Bedürfnissen und Prioritäten, verändern. Die Kommission zählt mindestens drei Mitglieder und wird von der Staatskanzlerin oder vom Staatskanzler präsidiert. Sie ist administrativ der Staatskanzlei zugewiesen, die das Sekretariat gewährleistet.
+
+<sup>3</sup> Der Staatsrat ernennt die Mitglieder der Kommission.
+
+<sup>4</sup> Die oder der Datenschutzbeauftragte nimmt an den Sitzungen mit beratender Stimme teil. Ihre oder seine Unabhängigkeit ist gewährleistet.
+
+#### Art. A1-2
+
+**Ausschuss für die Qualität der Referenzdaten**
+
+<sup>1</sup> Während der Pilotphase legt der Ausschuss für die Datenqualität die Prinzipien zur Sicherstellung der Standardisierung der Daten und eines möglichst hohen Grades an Genauigkeit dieser Daten fest.
+
+<sup>2</sup> Er beaufsichtigt die Tätigkeiten des Netzwerks der Datenqualitätsverantwortlichen.
+
+<sup>3</sup> Er erklärt die Regeln über die Integration der Quellen und die verschiedenen Hierarchien, die eingesetzt werden müssen, für gültig. Er stellt sicher, dass die Abläufe und die Bearbeitung der zugehörigen Daten fortlaufend verbessert werden.
+
+<sup>4</sup> Der Ausschuss für die Datenqualität setzt sich aus mindestens drei Mitgliedern zusammen, darunter die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems, die oder der in Artikel A2-3 erwähnt wird. Er wird von der Person, die für die Daten von Registern und speziellen Dienste im Amt für Statistik (StatA) verantwortlich ist, präsidiert.
+
+#### Art. A1-3
+
+**Ausschuss für die bestimmungsgemässe Verwendung der Referenzdaten**
+
+<sup>1</sup> Während der Pilotphase hat der Ausschuss für die bestimmungsgemässe Verwendung der Daten dafür zu sorgen, dass die Bearbeitung und die Nutzung der Daten sowie die Gewährung des Datenzugriffs gemäss den Prinzipien der Best Practice und den gesetzlichen Anforderungen, insbesondere denjenigen des Datenschutzes, abläuft.
+
+<sup>2</sup> Der Ausschuss für die bestimmungsgemässe Verwendung der Daten wird bei der Erarbeitung von definitiven Gesetzesbestimmungen über das kantonale Bezugssystem hinzugezogen.
+
+<sup>3</sup> Er setzt sich aus mindestens drei Mitgliedern zusammen, darunter die oder der Datenschutzbeauftragte. Er wird von der Person, die für die Referenzdatengovernance der Staatskanzlei verantwortlich ist, präsidiert.
+
+## A2 ANHANG 2 – Organisation (Art. 5)
+
+#### Art. A2-1
+
+**Organe, die Daten liefern**
+
+<sup>1</sup> Das kantonale Bezugssystem kann mit Referenzdaten, die aus folgenden Informationssystemen von kantonalen Partnern stammen, gespiesen werden:
+
+- a) die Pilotpartner des kantonalen Bezugssystems mit umfangreichen Verpflichtungen:
+  - 1\. die Kantonale Steuerverwaltung (KSTV);
+  - 2\. die Finanzverwaltung (FinV);
+  - 3\. das kantonale Sekretariat für E-Government der Staatskanzlei;
+  - 4\. die Fachstelle Fritic;
+- b) die Partner mit eingeschränkten Verpflichtungen:
+  - 1\. das Amt für Bevölkerung und Migration (BMA);
+  - 2\. die Kantonale Sozialversicherungsanstalt (KSVA);
+  - 3\. das Amt für Personal und Organisation (POA);
+  - 4\. das Handelsregisteramt (HRA);
+  - 5\. das Amt für institutionelle Angelegenheiten, Einbürgerungen und Zivilstandswesen (IAEZA).
+
+<sup>2</sup> Mit den angemessenen Bewilligungen und in einem erlaubten Umfang darf das kantonale Bezugssystem mit Referenzdaten, die aus Informationssystemen des Bundes stammen, gespiesen werden; diese Systeme sind insbesondere:
+
+- a) das elektronische Zivilstandsregister (Infostar);
+- b) das eidgenössische Gebäude- und Wohnungsregister (GWR);
+- c) das zentrale Versichertenregister (UPI);
+- d) das Zentrale Migrationsinformationssystem (ZEMIS);
+- e) das Informationssystem der Nationalen Adressdienste (NAD);
+- f) das Betriebs- und Unternehmensregister (BUR);
+- g) das UID-Register der Schweizer Unternehmen.
+
+#### Art. A2-2
+
+**Aufgaben und Verantwortung der Partner des kantonalen Bezugssystems**
+
+<sup>1</sup> Jeder Partner des kantonalen Bezugssystems gemäss Artikel A2-1 Abs. 1 setzt alles daran, um die Qualität und die Richtigkeit der geteilten Daten, die sich in seinen eigenen Informationssystemen oder in den Systemen, für die er eine gesetzliche Verantwortung trägt, befinden, sicherzustellen.
+
+<sup>2</sup> Die spezifischen Rechte und Pflichten der Partner werden jeweils in einer Vereinbarung, die jeder Partner mit der Kommission abschliesst, definiert. Diese enthält mindestens:
+
+- a) den Umfang und den Katalog der geteilten Daten;
+- b) eine Beschreibung der Personen, der Prozesse und der Applikationen, denen die Bearbeitung der Daten erlaubt ist;
+- c) eine Beschreibung der Personen oder der Funktionen, die an den Datengovernance-Tätigkeiten beteiligt sind;
+- d) die Sicherheits- und Kontrollmassnahmen, die zu befolgen sind.
+
+<sup>3</sup> Die Vereinbarung, die zwischen der Kommission und dem datenliefernden Organ geschlossen wird, hält die Bestimmungen des Bundesrechts ein, wenn diese anwendbar sind.
+
+<sup>4</sup> Die Pilotpartner mit umfangreichen Verpflichtungen sind zudem an die Pflichten gemäss Artikel A2-4 bis A2-6 gebunden.
+
+#### Art. A2-3
+
+**Datenqualitätsverantwortliche oder Datenqualitätsverantwortlicher des kantonalen Bezugssystems**
+
+<sup>1</sup> Die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems stellt gemeinsam mit den fachlichen Datenqualitätsverantwortlichen die zentrale Bewirtschaftung der Daten des kantonalen Bezugssystems sicher. Sie oder er hat insbesondere folgende Aufgaben:
+
+- a) das Organisieren und Überwachen der Datenverknüpfungsvorgänge, die notwendig sind, damit das kantonale Bezugssystem umgesetzt und betrieben werden kann;
+- b) das Erarbeiten von fachlichen Regeln, die es erlauben, die Hierarchien zwischen den Datenquellen anzupassen und bei Divergenzen zur Identität, zum Umfang oder zu den Attributen der Personen zu vermitteln;
+- c) die Verbindung vom Netzwerk der Datenqualitätsverantwortlichen zu den Governance-Organen und zum ITA sicherstellen.
+
+<sup>2</sup> Die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems ist hierarchisch dem StatA zugewiesen. Sie oder er schickt dem Ausschuss für die Datenqualität regelmässig einen bewertenden Bericht über den Fortschritt ihrer oder seiner Arbeiten und denjenigen des Netzwerks der Datenqualitätsverantwortlichen.
+
+#### Art. A2-4
+
+**Netzwerk der Datenqualitätsverantwortlichen**
+
+<sup>1</sup> Jeder Pilotpartner ernennt innerhalb seines Fachbereichs eine Datenqualitätsverantwortliche oder einen Datenqualitätsverantwortlichen. Die fachlichen Datenqualitätsverantwortlichen haben namentlich die Aufgabe:
+
+- a) für die Qualität der geteilten Daten und der Verarbeitungsvorgänge in ihren spezifischen Domänen zu sorgen;
+- b) mit den anderen Datenqualitätsverantwortlichen zusammenzuarbeiten, um eine gute Koordination der Verarbeitungsvorgänge, die in Verbindung mit der Verwirklichung und der Nutzung des kantonalen Bezugssystems stehen, sicherzustellen.
+
+<sup>2</sup> Die fachlichen Datenqualitätsverantwortlichen bilden gemeinsam ein Netzwerk der Datenqualitätsverantwortlichen, das für die betriebliche Bewirtschaftung der Konsistenz und Harmonisierung der Daten des kantonalen Bezugssystems und der sektoriellen Register zuständig ist.
+
+<sup>3</sup> Das Netzwerk der Datenqualitätsverantwortlichen wird von der oder dem Datenqualitätsverantwortlichen des kantonalen Bezugssystems präsidiert. Er oder sie hat die Befugnis, den fachlichen Datenqualitätsverantwortlichen Anweisungen in Verbindung mit dem kantonalen Bezugssystem zu geben.
+
+<sup>4</sup> Wenn das Netzwerk der Datenqualitätsverantwortlichen Thematiken, die auch die Partner mit eingeschränkten Verpflichtungen betreffen, behandelt, können letztere an den Diskussionen teilnehmen und Vorschläge unterbreiten.
+
+#### Art. A2-5
+
+**Bestimmungsgemässe Verwendung der Daten**
+
+<sup>1</sup> Die Pilotpartner ernennen eine oder einen Referenzdatenschutzdelegierte/n innerhalb ihres Fachbereichs. Die Referenzdatenschutzdelegierten haben insbesondere die Aufgabe:
+
+- a) dafür zu sorgen, dass die Bearbeitungen in Übereinstimmung mit den datenschutzrechtlichen Anforderungen und den in ihrem Fachbereich festgelegten Vereinbarungen geschehen;
+- b) bei der Festlegung der Vereinbarungen über den Zugang zu den Referenzdaten mitzuarbeiten;
+- c) bei der Ausarbeitung von Richtlinien, Vereinbarungen und Nutzungsreglementen über die Funktionsweise und die Nutzung des kantonalen Bezugssystems mitzuarbeiten;
+- d) bei der Ausarbeitung der definitiven gesetzlichen Bestimmungen über die Funktionsweise und den Betrieb des kantonalen Bezugssystems mitzuarbeiten;
+- e) dem Ausschuss für die bestimmungsgemässe Verwendung der Daten spezifische Schwierigkeiten, welche die Datenbearbeitung innerhalb ihres Fachbereichs betreffen, zu melden;
+- f) der Kommission sowie der ÖDSB die Protokolle zu Vorfällen und Verletzungen der Verpflichtungen in Verbindung mit der Sicherheit und dem Schutz der Daten innerhalb ihres Fachbereichs zu übermitteln.
+
+<sup>2</sup> Der Ausschuss für die bestimmungsgemässe Verwendung der Daten organisiert die Grundausbildung, damit die Referenzdatenschutzdelegierten ihre Aufgaben erfüllen können.
+
+#### Art. A2-6
+
+**Vertretung der Fachbereiche und Lösung von Konflikten**
+
+<sup>1</sup> Jeder Pilotpartner ernennt eine verantwortliche Referentin oder einen verantwortlichen Referenten für technische und organisatorische Belange innerhalb seines Fachbereichs. Die verantwortlichen Referentinnen und Referenten für technische und organisatorische Belange haben namentlich die Aufgaben:
+
+- a) an der Festlegung der Anforderungen und Ziele im Zusammenhang mit der Umsetzung und dem Betrieb des kantonalen Bezugssystems mitzuarbeiten und die Nutzerinnen und Nutzer des Fachbereichs während der Pilotphase zu vertreten;
+- b) allfällige interne Konflikte bei der Bewirtschaftung und der Nutzung der Referenzdaten zu lösen;
+- c) intern die Veränderungen zu verwalten und Ausbildungsbedürfnisse zu erkennen.
+
+<sup>2</sup> Die verantwortlichen Referentinnen und Referenten für technische und organisatorische Belange können ungelöste Probleme den Ausschüssen zur Datengovernance unterbreiten, wenn das Risiko besteht, dass diese einen gewichtigen negativen Einfluss auf die interne Organisation des Fachbereichs haben können.
+
+#### Art. A2-7
+
+**Beteiligung der Gemeinden**
+
+<sup>1</sup> Die Gemeinden können während der Phasen der Umsetzung und des Betriebs des kantonalen Bezugssystems miteinbezogen werden.
+
+<sup>2</sup> Sie können zudem den Governance-Organen Themen und Probleme in Verbindung mit dem kantonalen Bezugssystem, die sie direkt betreffen, unterbreiten. In diesem Rahmen können sie dazu eingeladen werden, an den Sitzungen der Governance-Organe teilzunehmen.
+
+## A3 ANHANG 3 – Datenvorverarbeitung (Art. 6)
+
+#### Art. A3-1
+
+**Zuweisung und Nutzung einer eindeutigen kantonalen User-ID**
+
+<sup>1</sup> Den Personen und Organisationen, die in einem der Informationssysteme eines datenliefernden Organs nach Artikel A2-1 aufgeführt sind, wird eine eindeutige kantonale User-ID zugewiesen. Ausnahmen sind möglich, namentlich für gewisse Bevölkerungsgruppen, zu denen die Verwaltung keinen, nur schwachen oder keinen Kontakt mehr hat, der die Zuweisung einer kantonalen User-ID rechtfertigt.
+
+<sup>2</sup> Die eindeutige kantonale User-ID wird verwendet, um die Interoperabilität und die bewilligte Kopplung zwischen den Systemen sicherzustellen.
+
+<sup>3</sup> Die datenliefernden Organe nach Artikel A2-1 Abs. 1 haben, je nachdem, ob sie ihre Datensammlungen bei der ÖDSB deklariert haben, die Berechtigung:
+
+- a) die eindeutige kantonale User-ID in ihre eigenen Datenbanken zu integrieren und diese bei der Führung und Verwaltung ihrer Datenbanken und ihrem Austausch mit dem kantonalen Bezugssystem zu verwenden;
+- b) sektorielle User-IDs von Personen und Organisationen aus ihren Fachdatenbaken und die Metadaten zur Herkunft auf das kantonale Bezugssystem zu laden. Das System kann sie einzig dazu nutzen, um zur Identifizierung und automatischen Nachführung der Daten und zur Lösung von Konflikten bei widersprüchlichen Informationen in diesen Daten Übereinstimmungen zwischen den Fachdaten und denjenigen des kantonalen Bezugssystems sicherzustellen.
+
+<sup>4</sup> Die eindeutige kantonale User-ID, die sektoriellen User-IDs und die AHV-Nummer, die von einem öffentlichen Organ auf das kantonale Bezugssystem geladen werden, dürfen weder an ein anderes öffentliches Organ noch an andere unberechtigte Dritte übermittelt werden.
+
+#### Art. A3-2
+
+**Eindeutige User-ID**
+
+<sup>1</sup> Das kantonale Bezugssystem stellt die eindeutige Identifizierung der erfassten Personen und Organisationen sicher. Es führt die dafür nötigen Arbeiten durch.
+
+#### Art. A3-3
+
+**Nutzung der AHV-Nummer**
+
+<sup>1</sup> Die Organe die berechtigt sind, die AHV-Nummer zu nutzen, dürfen sie beim Austausch mit dem kantonalen Bezugssystem nur soweit verwenden, wie es das Bundesrecht erlaubt.
+
+<sup>2</sup> Die AHV-Nummer darf unter denselben Voraussetzungen zu Identifikationszwecken verwendet werden.
+
+#### Art. A3-4
+
+**Datenverknüpfungen zur Sicherstellung der Governance**
+
+<sup>1</sup> Die Referenzdaten, die von datenliefernden Organen nach Artikel A2-1 stammen und für die eine Teilungsvereinbarung abgeschlossen wurde, werden systematisch untereinander verknüpft.
+
+<sup>2</sup> Die Datenverknüpfungsvorgänge dienen einzig dazu:
+
+- a) die reale Beschaffenheit der teilbaren Daten in den Informationssystemen der datenliefernden Organen zu überwachen;
+- b) abzuschätzen, welchen Governance-Reifegrad die Daten, die von den datenliefernden Organen stammen, haben;
+- c) Divergenzen und Inkohärenzen der Referenzdaten sichtbar zu machen, indem die Quellen der verschiedenen Informationssysteme verglichen werden, um anschliessend die widersprüchlichen Daten zu bereinigen;
+- d) die Risiken einer Verwechslung zwischen erfassten Personen oder Organisationen zwecks ihrer Bearbeitung sichtbarer machen.
+
+<sup>3</sup> Die Resultate der durchgeführten Verknüpfungen können auch verwendet werden, um die Daten des kantonalen Bezugssystems oder eines der Informationssysteme eines datenliefernden Organs – unter der Voraussetzung, dass dieses ermächtigt ist, die betreffenden Daten gesetzeskonform zu bearbeiten – zu sichern, zu ergänzen und zu aktualisieren.
+
+#### Art. A3-5
+
+**Ausführung und Überwachung der Verknüpfungsvorgänge**
+
+<sup>1</sup> Grundsätzlich werden die Verknüpfungsvorgänge automatisch, gemäss den Regeln und Prozessen, welche die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems festgelegt hat, durchgeführt. Die Vorgehensweisen werden in einem Nutzungsreglement festgelegt.
+
+<sup>2</sup> In Einzelfällen kann die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems Verknüpfungsvorgänge manuell durchführen. Wenn die Kommission und die oder der Vorgesetzte es erlauben, kann die oder der Datenqualitätsverantwortliche andere Personen bestimmen, die diese Vorgänge durchführen können.
+
+<sup>3</sup> Jede Person, die Teil der Verknüpfungsvorgänge ist, muss über einen einwandfreien Leumund verfügen, es dürfen gegen sie keine Verlustscheine ausgestellt worden sein, und sie darf nicht strafrechtlich für eine Tat, die mit dieser Aufgabe unvereinbar ist, verurteilt worden sein. Sie muss zudem über die nötigen Kenntnisse verfügen, die garantieren, dass sie die Daten in technischer und methodischer Hinsicht korrekt behandeln wird.
+
+<sup>4</sup> Die oder der Datenqualitätsverantwortliche des kantonalen Bezugssystems und jede andere Person, die an den Verknüpfungsvorgängen beteiligt ist, muss die Regeln des Datenschutzes strikt einhalten und über alles, worüber sie bei der Ausübung ihrer Aufgaben Kenntnis erlangt, Geheimhaltung wahren.
+
+## A4 ANHANG 4 – Zugang zu den Daten des kantonalen Bezugssystems und Nutzung (Art. 8)
+
+#### Art. A4-1
+
+**Zugang zu den Daten des kantonalen Bezugssystems**
+
+<sup>1</sup> Einzig die zugelassenen Personen, Applikationen oder Prozesse haben Zugang zu den Daten, die für sie bestimmt sind. Der Zugang wird individuell gewährt und kann weder geteilt noch ausgetauscht werden.
+
+<sup>2</sup> Der Umfang und der Katalog der Daten werden gemäss den Anforderungen der Datenschutzgesetzgebung festgelegt.
+
+<sup>3</sup> Der Zugang zu den Daten, die aus Bundesregistern stammen, geschieht gemäss den gesetzlichen Grundlagen des Bundes.
+
+#### Art. A4-2
+
+**Vereinbarung über den Zugang zu den Daten des kantonalen Bezugssystems**
+
+<sup>1</sup> Der Zugang zu den Daten des kantonalen Bezugssystems wird auf der Grundlage einer Vereinbarung, die zwischen dem öffentlichen Organ und der Kommission abgeschlossen wird, gewährt. Der Ausschuss für die bestimmungsgemässe Verwendung der Daten wird, falls nötig, angehört.
+
+<sup>2</sup> Die Vereinbarung weisst mindestens hin auf:
+
+- a) die Art von bewilligten Daten;
+- b) den Umfang der bewilligten Daten;
+- c) den Katalog der bewilligten Daten;
+- d) eine Beschreibung der Personen, der Applikationen und der Prozesse, die Zugriffsrecht auf die Daten haben;
+- e) den Zweck des Zugangs;
+- f) die Sicherheits- und Kontrollmassnahmen, die zu befolgen sind.
+
+<sup>3</sup> Die Zugangsvereinbarung ist bis zum Ende der Pilotphase gültig. Sie kann bei deren Abschluss erneuert werden, entsprechend eines speziell im Gesetz festgelegten Verfahrens.
+
+#### Art. A4-3
+
+**Zugang zu den Daten, die freiwillig von der betroffenen Person zur Verfügung gestellt werden**
+
+<sup>1</sup> Das öffentliche Organ, das Zugang zu Personendaten, die gemäss Artikel 7 Abs. 2 der Verordnung auf das kantonale Bezugssystem geladen wurden, erhalten möchte, kann eine Anfrage an die betroffene Person richten, damit ihm diese den Zugang und die Verwendung auf der Basis ihrer freien und aufgeklärten Einwilligung erlaubt. Grundsätzlich wird das Verfahren vom E-Governmentschalter durchgeführt.
+
+#### Art. A4-4
+
+**Authentifizierung und Zugangskontrolle**
+
+<sup>1</sup> Der Zugang zu den Daten des kantonalen Bezugssystems wird mit einer Reihe von Massnahmen geschützt, namentlich:
+
+- a) einem Authentifizierungsverfahren, das an die Standards und die Best Practice angepasst ist und mindestens aus einer Authentifizierung mit einem Benutzernamen und einem Passwort besteht;
+- b) einem individuellen Zugangskontrollsystem.
+
+<sup>2</sup> Die individuellen Zugangsbewilligungen werden gemäss den Rollen und Aufgaben, welche die Systeme und die Nutzerinnen und Nutzer ausüben müssen, gewährt.
+
+#### Art. A4-5
+
+**Rechte der Nutzerinnen und Nutzer des kantonalen Bezugssystems**
+
+<sup>1</sup> Die Organe, die eine Vereinbarung über den Zugang zu den Daten des kantonalen Bezugssystems abgeschlossen haben, verfügen für ihre eigenen Datenbanken über dieselben Rechte, die in Artikel A3-1 dieser Verordnung beschrieben werden, sofern sie ihre Datensammlungen entsprechend dem Gesetz über den Datenschutz gemeldet haben.
+
+#### Art. A4-6
+
+**Zugangsrechtematrix zu den Daten des kantonalen Bezugssystems**
+
+<sup>1</sup> Das kantonale Bezugssystem stellt die Liste der Genehmigungen, die es über die von ihm geteilten Daten vergibt, zusammen und aktualisiert diese automatisch.
+
+#### Art. A4-7
+
+**Bearbeitung der Daten zu Zwecken, die nicht personengebunden sind**
+
+<sup>1</sup> Auf Entscheid des Staatsrats oder einer Direktion kann das StatA die Daten des kantonalen Bezugssystems gemäss den Bestimmungen der Gesetzgebung über die Statistik und über den Datenschutz für statistische, Planungs- oder wissenschaftliche Forschungszwecke bearbeiten.
+
+## A5 ANHANG 5 – Sicherheit, Datenschutz und Aufsicht (Art. 10)
+
+#### Art. A5-1
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Der Schutz der Daten des kantonalen Bezugssystems wird mit den Massnahmen, die darauf abzielen, die Sicherheit der Information allgemein sicherzustellen, und Massnahmen, die innerhalb der Informatiksicherheit getroffen werden, harmonisiert. Die konkreten Informatiksicherheitsmassnahmen werden vom ITA, entsprechend den existierenden Risiken und Technologien, beantragt und umgesetzt.
+
+#### Art. A5-2
+
+**Protokollierung und Nachprüfbarkeit der Verarbeitungsvorgänge**
+
+<sup>1</sup> Die Verarbeitungsvorgänge der Daten des kantonalen Bezugssystems sind Teil eines Protokollierungsverfahrens, das erlaubt, die Datenzugänge zu analysieren, Funktionsstörungen aufzuzeigen und auf Überwachungsbedürfnisse einzugehen.
+
+#### Art. A5-3
+
+**Eingreifen und Stellungnahme der Kantonalen Behörde für Öffentlichkeit und Datenschutz**
+
+<sup>1</sup> Die ÖDSB hat jederzeit Zugang zu sämtlichen Informationen über die Umsetzung, den Betrieb und die Wartung des kantonalen Bezugssystems, die sie verlangt. Sie kann Prüfungen durchführen oder durchführen lassen, um sicherzustellen, dass die Anforderungen des Datenschutzes eingehalten werden.
+
+<sup>2</sup> Die ÖDSB wird zudem eingeladen, ihre Stellungnahme bei jeder Schlüsseletappe der Pilotphase abzugeben. Schlüsseletappen sind namentlich:
+
+- a) das Verfassen von Nutzungsreglementen;
+- b) die Ausarbeitung von Vereinbarungsprojekten zwischen der Kommission und einem datenliefernden oder datennutzenden Organ;
+- c) jede Entscheidung mit gewisser Bedeutung, die den Verlauf und die Organisation der Pilotphase entscheidend beeinflusst.
+
+2019\_053

@@ -1,0 +1,122 @@
+---
+canton: FR
+number: "10.3"
+title: Gesetz über die Seniorinnen und Senioren
+short: SenG
+language: de
+version: 2016-07-01
+version_adopted: 2016-05-12
+adopted: 2016-05-12
+in_force: 2016-07-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/10.3"
+pdf: "https://bdlf.fr.ch/api/de/versions/4960/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Seniorinnen und Senioren
+
+Seniorinnen und Senioren – G
+
+(SenG)
+
+vom 12.05.2016 (Fassung in Kraft getreten am 01.07.2016)
+
+Der Grosse Rat des Kantons Freiburg
+
+gestützt auf die Artikel 35, 62, 63 Abs. 1 und 68 der Verfassung des Kantons Freiburg vom 16. Mai 2004;
+
+nach Einsicht in die Botschaft 2013-DSAS-77 des Staatsrats vom 24. März 2015;
+
+auf Antrag dieser Behörde,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck und Gegenstand**
+
+<sup>1</sup> In Ergänzung der Bundes- und der kantonalen Gesetzgebung und subsidiär zu den Pflichten der Angehörigen bezweckt dieses Gesetz, darauf zu achten, dass Seniorinnen und Senioren in die Gesellschaft eingebunden, ihre Bedürfnisse und Kompetenzen anerkannt sowie ihre Autonomie gewahrt werden.
+
+<sup>2</sup> Es bestimmt die Zuständigkeiten der Behörden, die vorrangigen Bereiche für die Intervention des Staates und die Modalitäten dieser Intervention, von der neben den Seniorinnen und Senioren präventiv auch weitere Personen profitieren können.
+
+#### Art. 2
+
+**Begriffsbestimmung**
+
+<sup>1</sup> Als Seniorinnen und Senioren gelten Personen, die das gesetzliche Rentenalter erreicht haben.
+
+#### Art. 3
+
+**Zuständigkeiten des Staates**
+
+<sup>1</sup> Der Staat sorgt dafür, dass die für die Gemeinschaft allgemein erlassenen Bestimmungen den Seniorinnen und Senioren gerecht werden.
+
+<sup>2</sup> Der Staatsrat präzisiert die Bereiche für die Intervention des Staates in einem Gesamtkonzept und bestimmt die vorrangigen Massnahmen in einem mehrjährigen Massnahmenplan.
+
+#### Art. 4
+
+**Zuständigkeiten der Gemeinden**
+
+<sup>1</sup> Innert fünf Jahren nach dem Inkrafttreten dieses Gesetzes legen die Gemeinden in einem Konzept und entsprechend den Bedürfnissen ihrer Bevölkerung die Massnahmen fest, die sie ergänzend zu denjenigen des Staates ergreifen wollen, um dazu beizutragen, dass die Ziele dieses Gesetzes erreicht werden.
+
+<sup>2</sup> Sie aktualisieren ihr Konzept je nach Bedarf der Bevölkerung und übermitteln es der für die Gesundheit zuständigen Direktion[^4-1].
+
+<sup>3</sup> Die Gemeinden können zusammenarbeiten, um diese Aufgabe zu erfüllen.
+
+<sup>4</sup> Der Staat unterstützt die Gemeinden in der Umsetzung ihrer Politik.
+
+[^4-1]: Heute: Direktion für Gesundheit und Soziales.
+
+## 2 Handeln des Staates
+
+#### Art. 5
+
+**Massnahmen**
+
+<sup>1</sup> Der Staat ergreift Massnahmen mit dem Ziel:
+
+- a) den Verbleib der Arbeitnehmerinnen und Arbeitnehmer, die kurz vor der Pensionierung stehen, im Erwerbsleben und die Wertschätzung ihrer Kompetenzen zu fördern sowie sie beim Übertritt in den Ruhestand zu unterstützen;
+- b) die Seniorinnen und Senioren in der Förderung und Bewahrung ihrer (physischen, geistigen und sozialen) Gesundheit zu unterstützen;
+- c) die aktive Partizipation und das Engagement der Seniorinnen und Senioren in der Gesellschaft sowie den intergenerationellen und interkulturellen Austausch zu fördern;
+- d) die Entwicklung eines Wohnangebots, das den Bedürfnissen der Seniorinnen und Senioren gerecht wird, und die Voraussetzungen für den Zugang von Seniorinnen und Senioren mit eingeschränkter Beweglichkeit zu den privaten und öffentlichen Infrastrukturen zu fördern;
+- e) den Zugang der Seniorinnen und Senioren zu koordinierten und qualitativ hoch stehenden Leistungen der Pflege und sozialen Betreuung zu gewährleisten;
+- f) die helfenden Angehörigen und die Freiwilligen in der Betreuung geschwächter Seniorinnen und Senioren zu unterstützen.
+
+#### Art. 6
+
+**Information und Sensibilisierung**
+
+<sup>1</sup> Der Staat informiert die Bevölkerung und sensibilisiert sie für die Bedürfnisse der Seniorinnen und Senioren sowie deren Rolle in der Gesellschaft.
+
+#### Art. 7
+
+**Finanzielle Hilfen**
+
+<sup>1</sup> Im Rahmen des mehrjährigen Massnahmenplans kann der Staat finanzielle Hilfen gewähren, um Projekte mit folgender Zielsetzung zu unterstützen:
+
+- a) Förderung des Kontakts und Austauschs über die Generationen hinweg sowie Ermunterung zu respektvollem und tolerantem Verhalten zwischen den Generationen;
+- b) Förderung und Erhaltung der Gesundheitskompetenzen (physische, geistige und soziale Gesundheit) der Seniorinnen und Senioren;
+- c) Förderung der Sicherheit der Seniorinnen und Senioren.
+
+<sup>2</sup> Er kann private Organismen beauftragen, um das Leistungsangebot in diesen Bereichen auszubauen, vor allem bei:
+
+- a) der Ausbildung für Seniorinnen und Senioren;
+- b) den Wohnungen und Transportmitteln, die den Bedürfnissen der Seniorinnen und Senioren entsprechen;
+- c) den Kursen und Beratungs- und Unterstützungsleistungen für helfende Angehörige und Freiwillige, die geschwächte Seniorinnen und Senioren betreuen.
+
+## 3 Schlussbestimmungen
+
+#### Art. 8
+
+**Inkrafttreten und Referendum**
+
+<sup>1</sup> Der Staatsrat bestimmt das Inkrafttreten dieses Gesetzes.[^8-1]
+
+<sup>2</sup> Dieses Gesetz untersteht dem Gesetzesreferendum. Es untersteht nicht dem Finanzreferendum.
+
+[^8-1]: Datum des Inkrafttretens: 1. Juli 2016 (StRB 04.07.2016).
+
+2016\_073

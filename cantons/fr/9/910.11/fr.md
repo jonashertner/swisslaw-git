@@ -1,0 +1,1173 @@
+---
+canton: FR
+number: "910.11"
+title: "Règlement sur l'agriculture"
+short: RAgri
+language: fr
+version: 2020-05-01
+valid_until: 2021-12-31
+version_adopted: 2020-04-28
+adopted: 2007-03-27
+in_force: 2007-03-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/910.11"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6503/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Règlement sur l'agriculture
+
+Agriculture – R
+
+(RAgri)
+
+du 27.03.2007 (version entrée en vigueur le 01.05.2020)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi fédérale du 29 avril 1998 sur l'agriculture et ses ordonnances d'exécution;
+
+Vu la loi du 3 octobre 2006 sur l'agriculture;
+
+Sur la proposition de la Direction des institutions, de l'agriculture et des forêts,
+
+Arrête:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent règlement a pour objet l'exécution des dispositions de la loi fédérale sur l'agriculture et des ordonnances qui en découlent ainsi que de la loi sur l'agriculture.
+
+<sup>2</sup> Dans ce cadre, il détermine en particulier:
+
+- a) l'organisation et les compétences des organes chargés de mettre en œuvre la politique agricole fédérale et cantonale;
+- b) la procédure d'évaluation des projets pour lesquels l'aide du Fonds rural est demandée, les critères et modalités du versement d'un prêt pour ces projets ainsi que le contrôle de son utilisation;
+- c) les modalités d'exécution des mesures de promotion et de développement de l'agriculture fribourgeoise, à savoir en particulier l'évaluation des projets de promotion des produits agricoles et la mise en œuvre des activités de promotion;
+- d) les modalités d'exécution des autres mesures prévues par la loi sur l'agriculture, concernant les contributions d'estivage, l'innovation agricole, les méthodes et techniques culturales et l'aide aux exploitations paysannes en difficulté.
+
+#### Art. 2
+
+**Dénominations**
+
+<sup>1</sup> Dans le présent règlement, sont dénommés:
+
+- a) AOP/IGP: l'ordonnance fédérale du 28 mai 1997 concernant la protection des appellations d'origine et des indications géographiques des produits agricoles et des produits agricoles transformés (ordonnance sur les AOP et les IGP)
+- b) LAgr: la loi fédérale du 29 avril 1998 sur l'agriculture
+- c) LAgri: la loi du 3 octobre 2006 sur l'agriculture
+- d) LIAG: la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg
+- e) OAS: l'ordonnance fédérale du 7 décembre 1998 sur les améliorations structurelles dans l'agriculture (ordonnance sur les améliorations structurelles)
+- f) OBB: l'ordonnance fédérale du 26 novembre 2003 sur les marchés du bétail de boucherie et de la viande (ordonnance sur le bétail de boucherie)
+- g) OMAS: l'ordonnance fédérale du 26 novembre 2003 sur les mesures d'accompagnement social dans l'agriculture
+- h) OPPr: l'ordonnance fédérale du 23 novembre 2005 sur la production primaire
+- i) OQL: l'ordonnance fédérale du 23 novembre 2005 sur la qualité du lait
+- j) OTerm: l'ordonnance fédérale du 7 décembre 1998 sur la terminologie agricole et la reconnaissance des formes d'exploitation (ordonnance sur la terminologie agricole)
+- k) Direction: la Direction des institutions, de l'agriculture et des forêts
+- l) Service: le Service de l'agriculture
+- m) IAG: l'Institut agricole de l'Etat de Fribourg, à Grangeneuve
+- n) OFAG: l'Office fédéral de l'agriculture.
+
+#### Art. 3
+
+**Compétences financières**
+
+<sup>1</sup> Pour les aides financières accordées sous forme de prêts et/ou de crédits d'investissements, le montant devant être pris en considération pour la détermination de la compétence décisionnelle correspond à la somme des prêts et/ou des crédits d'investissements octroyés par le canton (y compris le solde des prêts et des crédits d'investissements alloués antérieurement).
+
+<sup>2</sup> En cas d'aide combinée (aides remboursables et contributions à fonds perdu), les contributions allouées à fonds perdu s'ajoutent au total des aides financières remboursables.
+
+## 2 Mise en œuvre de la politique agricole fédérale
+
+### 2.1 Conditions cadres de la production et de l'écoulement (art. 7ss LAgr)
+
+### 2.1.1 Dispositions économiques générales (art. 8ss LAgr)
+
+#### Art. 4
+
+**Assurance de la qualité (art. 11 LAgr et 12 OQL)**
+
+<sup>1</sup> Les tâches en relation avec l'assurance de la qualité sont en principe exécutées par l'IAG.
+
+<sup>2</sup> Les contrôles du respect des règles d'hygiène dans les unités d'élevage et des exigences en matière de protection des animaux doivent être coordonnés avec les autres contrôles sur l'exploitation, conformément aux principes fixés à l'article 42.
+
+<sup>3</sup> La législation cantonale sur le contrôle de l'hygiène des denrées alimentaires est réservée.
+
+#### Art. 5
+
+**Participation cantonale aux mesures d'allégement du marché (art. 13 LAgr)**
+
+<sup>1</sup> Le Conseil d'Etat est compétent pour décider du montant de la participation cantonale aux frais occasionnés par des mesures ponctuelles d'allégement du marché, auxquelles prend part la Confédération.
+
+<sup>2</sup> Le montant de la participation cantonale ne peut pas excéder le montant de la participation de la Confédération.
+
+#### Art. 6
+
+**Appellations d'origine, indications géographiques (art. 16 LAgr et AOP/IGP)**
+
+<sup>1</sup> La Direction est compétente pour représenter le canton en matière d'appellations d'origine et d'indications géographiques des produits agricoles et des produits agricoles transformés.
+
+<sup>2</sup> En particulier, elle est habilitée à donner à l'OFAG l'avis du canton sur les demandes d'enregistrement, à déposer une opposition contre l'enregistrement et à poursuivre les procédures sur le plan judiciaire.
+
+### 2.1.2 Production animale (art. 46ss LAgr)
+
+#### Art. 7
+
+**Marché de la viande (art. 49 al. 2 LAgr et OBB) – Désignation des marchés publics des espèces bovine et ovine**
+
+<sup>1</sup> La Direction est l'autorité chargée de donner, aux organisations mandatées par l'OFAG, la détermination cantonale sur la désignation, pour l'année civile, des marchés publics des animaux des espèces bovine et ovine.
+
+#### Art. 8
+
+**Marché de la viande (art. 49 al. 2 LAgr et OBB) – Contributions fédérales pour les marchés publics situés dans la région de montagne (art. 50 al. 2 LAgr et OBB)**
+
+<sup>1</sup> La Direction examine les demandes de contributions à l'infrastructure.
+
+<sup>2</sup> Elle transmet les demandes de contributions à l'OFAG pour décision, accompagnées de sa proposition et d'un exposé des éventuelles conditions et charges cantonales.
+
+### 2.1.3 Production végétale (art. 54ss LAgr)
+
+#### Art. 9
+
+**Oléagineux, légumineuses à graines et plantes à fibres (art. 56, 57 et 59 LAgr)**
+
+<sup>1</sup> Les demandes de contributions à la surface et à la transformation dans la culture des champs font l'objet de la procédure prévue en matière de paiements directs et de contributions, conformément aux articles 13 et suivants du présent règlement.
+
+### 2.1.4 Economie vitivinicole (art. 60ss LAgr)
+
+#### Art. 10
+
+**Autorités et compétences – Direction**
+
+<sup>1</sup> La Direction est chargée en particulier:
+
+- a) de définir et de reconnaître les désignations des vins;
+- b) d'arrêter les conditions générales de reconnaissance et d'utilisation des appellations d'origine contrôlée;
+- c) de fixer par cépage, chaque année, au plus tard à la fin du mois de juillet, les teneurs minimales en sucre des lots de vendanges et les rendements maximaux par unité de surface pour les vins d'appellation d'origine;
+- d) d'autoriser les plantations de nouvelles vignes et de fixer les modalités de notification des reconstitutions;
+- e) d'ordonner l'arrachage des vignes plantées illicitement;
+- f) de fixer les modalités de tenue, de gestion et de publicité du cadastre viticole;
+- g) de fixer les règles d'exécution des contrôles de la vendange.
+
+#### Art. 11
+
+**Autorités et compétences – Unité administrative**
+
+<sup>1</sup> Le Service exerce toutes les activités de nature administrative liées à l'exécution des tâches et des compétences attribuées à la Direction.
+
+<sup>2</sup> Il est responsable, en particulier, de la tenue et de la mise à jour des divers registres, notamment du cadastre viticole, de l'application des mesures fédérales d'aide en faveur de la viticulture ainsi que de l'organisation et de la surveillance des contrôles de la vendange.
+
+<sup>3</sup> Il décide du déclassement des apports de vendange, conformément à l'article 27 de l'ordonnance fédérale du 14 novembre 2007 sur le vin.
+
+#### Art. 12
+
+**Autorités et compétences – Commission de viticulture**
+
+<sup>1</sup> Il est institué une Commission de viticulture composée de sept membres, nommés par le Conseil d'Etat, dont deux représentent les associations professionnelles des vignerons et encaveurs pour chacun des vignobles du Vully et de Cheyres/Font.
+
+<sup>2</sup> La Commission est présidée par le conseiller d'Etat ou la conseillère d'Etat en charge de la Direction. Le secrétariat est assuré par le Service.
+
+<sup>3</sup> Les commissaires viticoles participent aux séances de la Commission avec voix consultative.
+
+<sup>4</sup> En sa qualité d'organe consultatif, la Commission de viticulture est appelée à se prononcer sur toutes les questions de portée générale se rapportant à l'économie vitivinicole.
+
+<sup>5</sup> Pour le surplus, les dispositions de la législation sur la durée des fonctions publiques accessoires, de même que celles qui sont fixées dans le règlement sur l'organisation et le fonctionnement des commissions de l'Etat, sont applicables.
+
+### 2.2 Paiements directs et contributions (art. 56ss et 70ss LAgr et 7 LAgri)
+
+#### Art. 13
+
+**Inscriptions et conditions**
+
+<sup>1</sup> Pour bénéficier des paiements directs et des contributions prévus par le droit fédéral, l'exploitant ou l'exploitante doit en faire la demande au Service au moyen des formules ad hoc, dûment remplies et signées.
+
+<sup>2</sup> Le Service fixe les délais et modalités d'inscription pour les demandes de paiements directs et de contributions.
+
+<sup>3</sup> Il détermine en outre, au besoin, les exigences laissées à la compétence du canton par le droit fédéral dans le cadre des paiements directs et des contributions.
+
+#### Art. 14
+
+**Contributions à la biodiversité (art. 73 LAgr) – En général**
+
+<sup>1</sup> Les exigences cantonales pour les projets de mise en réseau sont édictées par la Direction des institutions, de l'agriculture et des forêts.
+
+#### Art. 14a
+
+**Contributions à la biodiversité (art. 73 LAgr) – Commission consultative pour la mise en réseau**
+
+<sup>1</sup> Il est institué une Commission consultative pour la mise en réseau, composée de sept membres nommés par le Conseil d'Etat et issus:
+
+- a) des milieux de protection de la nature (deux membres);
+- b) des milieux agricoles (deux membres);
+- c) du Service (un membre);
+- d) du Service des forêts et de la nature (un membre);
+- e) de l'IAG (un membre).
+
+<sup>2</sup> La Commission est présidée par le membre représentant l'IAG, qui en assure également le secrétariat.
+
+<sup>3</sup> En sa qualité d'organe consultatif, la Commission est appelée à examiner et à préaviser les projets de mise en réseau.
+
+<sup>4</sup> Pour le surplus, les dispositions de la législation sur la durée des fonctions publiques accessoires, de même que celles qui sont fixées dans le règlement sur l'organisation et le fonctionnement des commissions de l'Etat, sont applicables.
+
+#### Art. 14b
+
+**Contributions à la biodiversité (art. 73 LAgr) – Approbation des projets de mise en réseau**
+
+<sup>1</sup> Les projets de mise en réseau font l'objet d'une approbation du Service, sur le préavis de la Commission.
+
+<sup>2</sup> Le refus d'approbation peut faire l'objet d'une réclamation auprès du Service, conformément à l'article 41 LAgri.
+
+#### Art. 15
+
+**Contributions d'estivage (art. 77 al. 3 LAgr)**
+
+<sup>1</sup> Les contributions d'estivage ne sont versées qu'aux exploitants et exploitantes à titre personnel.
+
+#### Art. 16
+
+**Contrôles – Compétences**
+
+<sup>1</sup> Le Service est responsable de l'exécution des contrôles.
+
+<sup>2</sup> Il dispose des préposés locaux à l'agriculture et peut requérir l'appui des autres unités administratives de l'Etat pour assurer l'exécution de certains contrôles spécialisés.
+
+<sup>3</sup> Il peut, par convention, déléguer une partie de ses tâches de contrôle à un ou des organismes accrédités conformément aux exigences fédérales ou présentant toutes les garanties de compétence et d'indépendance.
+
+<sup>4</sup> L'article 42 est réservé.
+
+#### Art. 17
+
+**…**
+
+#### Art. 18
+
+**Contrôles – Surveillance des contrôles**
+
+<sup>1</sup> Le Service surveille le bon déroulement des contrôles délégués, notamment en procédant par sondage à des contrôles subséquents sur les exploitations.
+
+#### Art. 19
+
+**Décision du Service**
+
+<sup>1</sup> Le Service détermine si le requérant ou la requérante a droit aux paiements directs ou à la contribution requise et, le cas échéant, en fixe le montant.
+
+<sup>2</sup> …
+
+<sup>3</sup> En cas de demande abusive, ou lorsque le traitement de la demande a nécessité des démarches administratives particulières, du fait notamment d'indications inexactes ou incomplètes dans les formules ad hoc, ou de retard dans le dépôt de celles-ci, le Service peut percevoir un émolument allant jusqu'à 500 francs.
+
+### 2.3 Mesures d'accompagnement social (art. 78ss LAgr et 39 LAgri)
+
+#### Art. 20
+
+**Aide aux exploitations paysannes (art. 78ss LAgr et 39 al. 2 LAgri) – Compétences**
+
+<sup>1</sup> L'aide aux exploitations paysannes prévue par la législation fédérale est allouée par la Direction.
+
+<sup>2</sup> La Direction peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+
+#### Art. 21
+
+**Aide aux exploitations paysannes (art. 78ss LAgr et 39 al. 2 LAgri) – Procédure**
+
+<sup>1</sup> Les demandes d'aide sont adressées au Service, qui est chargé d'analyser toutes les questions en rapport avec ces aides, d'établir les faits et de formuler, le cas échéant, une proposition de décision à la Direction.
+
+#### Art. 22
+
+**Aide fédérale à la reconversion professionnelle des agriculteurs (art. 86a LAgr et OMAS)**
+
+<sup>1</sup> Le Service reçoit et instruit les demandes des agriculteurs et agricultrices domiciliés dans le canton de Fribourg, effectue le suivi des dossiers en cours et communique les données utiles à l'OFAG.
+
+<sup>2</sup> Il est notamment compétent pour:
+
+- a) recevoir les demandes d'aide et adopter le préavis du canton à l'intention de l'OFAG;
+- b) procéder au versement des aides en faveur des bénéficiaires;
+- c) rendre une décision de réduction ou de refus du versement ainsi que de remboursement des aides;
+- d) requérir l'inscription de la mention au registre foncier;
+- e) contrôler la cession d'exploitation durant une période de vingt ans comme condition pour l'octroi des aides à la reconversion professionnelle;
+- f) le cas échéant, déduire de l'octroi des paiements directs le remboursement des aides.
+
+### 2.4 Amélioration des structures (art. 87ss LAgr)
+
+### 2.4.1 Contributions (art. 93ss LAgr et OAS)
+
+#### Art. 23
+
+**Améliorations foncières, bâtiments ruraux et développement régional (art. 93ss LAgr)**
+
+<sup>1</sup> Toutes les questions en rapport avec les projets d'améliorations foncières de bâtiments ruraux et de développement régional sont réglées par la législation sur les améliorations foncières.
+
+### 2.4.2 Crédits d'investissements (art. 105ss LAgr)
+
+#### Art. 24
+
+**Procédure – Demande**
+
+<sup>1</sup> Les demandes de crédits d'investissements sont adressées au Service de manière qu'elles puissent être examinées avant la mise en chantier (travaux) ou l'acquisition projetée.
+
+<sup>2</sup> Le Service examine si les travaux envisagés ou l'acquisition envisagée sont susceptibles d'être mis au bénéfice d'un crédit d'investissements. Dans l'affirmative, il se fait produire un dossier dont il précise le contenu.
+
+<sup>3</sup> Le Service informe le requérant ou la requérante si la demande de crédits d'investissements ne satisfait pas aux exigences légales.
+
+#### Art. 25
+
+**Procédure – Octroi des crédits d'investissements et début des travaux ou acquisition anticipés**
+
+<sup>1</sup> Il est interdit de commencer les travaux ou de faire des acquisitions avant la décision d'octroi des crédits d'investissements, sauf autorisation expresse du Service.
+
+<sup>2</sup> Cette autorisation anticipée ne préjuge pas l'octroi des crédits d'investissements.
+
+#### Art. 26
+
+**Procédure – Garanties et rang des garanties**
+
+<sup>1</sup> Les crédits d'investissements sont, si possible, consentis contre des garanties réelles.
+
+<sup>2</sup> Le Service peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
+
+#### Art. 27
+
+**Crédits d'investissements minimaux**
+
+<sup>1</sup> Il n'est pas accordé de crédits inférieurs à 20'000 francs pour les mesures individuelles et inférieurs à 30'000 francs pour les mesures collectives.
+
+#### Art. 28
+
+**Remboursements**
+
+<sup>1</sup> Les remboursements annuels des crédits d'investissements sont compensés avec les contributions de la Confédération ou du canton versées à l'emprunteur ou à l'emprunteuse.
+
+#### Art. 29
+
+**Décision**
+
+<sup>1</sup> Le Conseil d'Etat statue, conformément à l'article 3, sur l'octroi des crédits d'investissements dont le montant excède 500'000 francs.
+
+<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+
+<sup>3</sup> Si des hypothèques doivent être établies, la décision sert d'attestation pour la constitution de l'hypothèque au registre foncier, conformément à l'article 70 de la loi du 10 février 2012 d'application du code civil suisse pour le canton de Fribourg.
+
+#### Art. 30
+
+**Frais de procédure (art. 112 LAgr)**
+
+<sup>1</sup> Il n'est pas perçu de frais de procédure.
+
+### 2.4.3 Dispositions communes (art. 87ss LAgr)
+
+#### Art. 31
+
+**Limites de charge (art. 89 al. 1 let. d LAgr)**
+
+<sup>1</sup> En cas de besoin, le Service se fait produire la limite de charge. Il peut reconnaître les limites de charge calculées par la Chambre fribourgeoise d'agriculture.
+
+#### Art. 32
+
+**Surveillance (art. 92 LAgr)**
+
+<sup>1</sup> Le Service surveille la conformité de l'utilisation des aides versées pour l'amélioration des structures.
+
+<sup>2</sup> Dans la mesure du possible, il coordonne ses inspections avec d'autres contrôles sur l'exploitation, conformément à l'article 42.
+
+### 2.5 Recherche et vulgarisation, encouragement de la sélection végétale et animale (art. 113ss LAgr)
+
+#### Art. 33
+
+**Vulgarisation (art. 136 LAgr et 8 al. 2 LAgri)**
+
+<sup>1</sup> Les tâches en matière de vulgarisation sont exercées par l'IAG, conformément à la loi sur l'Institut agricole de l'Etat de Fribourg, à Grangeneuve.
+
+### 2.6 Protection des végétaux et moyens de production (art. 148ss LAgr)
+
+### 2.6.1 Protection des végétaux (art. 149ss LAgr)
+
+#### Art. 34
+
+**Direction**
+
+<sup>1</sup> La Direction favorise et surveille la mise en œuvre des dispositions fédérales relatives à la protection des végétaux. En particulier, elle édicte les mesures d'exécution nécessaires à la lutte contre les ravageurs, maladies, mauvaises herbes et organismes ou végétaux nuisibles, lorsque cette lutte est rendue obligatoire par la législation fédérale.
+
+<sup>2</sup> Elle peut rendre obligatoire la lutte contre d'autres ravageurs, maladies, mauvaises herbes et organismes ou végétaux nuisibles.
+
+<sup>3</sup> De même, elle est habilitée à édicter, par voie d'ordonnance, toute autre mesure nécessaire à la prévention ou à la lutte contre les ravageurs, maladies, mauvaises herbes et organismes ou végétaux nuisibles.
+
+#### Art. 35
+
+**Commission de la protection des végétaux – Compétences**
+
+<sup>1</sup> La Commission de la protection des végétaux (CPV) est l'organe consultatif en matière de protection des végétaux.
+
+#### Art. 36
+
+**Commission de la protection des végétaux – Composition et organisation**
+
+<sup>1</sup> La CPV est composée de neuf membres, dont une personne représentant:
+
+- a) le Service de l'agriculture;
+- b) le Service de l'environnement;
+- c) le Service des forêts et de la nature;
+- d) le Service de la sécurité alimentaire et des affaires vétérinaires, par le ou la chimiste cantonal-e;
+- e) l'IAG;
+- f) les milieux agricoles.
+
+<sup>2</sup> La présidence de la CPV est assurée par le ou la chef-fe du Service de l'agriculture.
+
+<sup>3</sup> Son secrétariat est assuré par l'IAG.
+
+<sup>4</sup> Pour le surplus, son fonctionnement et son organisation sont régis par le règlement sur l'organisation et le fonctionnement des commissions de l'Etat.
+
+#### Art. 37
+
+**IAG**
+
+<sup>1</sup> L'IAG fait office de Service phytosanitaire cantonal au sens de la législation fédérale.
+
+<sup>2</sup> Il dispose notamment des attributions et compétences suivantes:
+
+- a) il exécute les tâches qui lui sont confiées en matière de protection des végétaux;
+- b) il procède aux recherches scientifiques et techniques concernant les mesures de protection et de lutte contre les maladies, les ravageurs et les mauvaises herbes constituant un danger général;
+- c) il collabore avec les services fédéraux et les organes cantonaux concernés;
+- d) il coordonne l'activité des autres unités administratives de l'administration cantonale, dans la mesure où elles sont concernées par les mesures envisagées;
+- e) il est habilité à prendre toutes les mesures utiles prescrites par la législation fédérale ou cantonale pour détecter, prévenir ou lutter contre une contamination ou une infection, notamment par des enquêtes, contrôles, prises d'échantillons et mises sous séquestre.
+
+<sup>3</sup> Avant de prendre les mesures prévues à l'alinéa 2 let. e, il consulte au besoin:
+
+- a) le Service de l'environnement;
+- b) le Service des forêts et de la nature;
+- c) …
+- d) la CPV.
+
+### 2.6.2. Moyens de production (art. 158ss LAgr)
+
+#### Art. 38
+
+**Production primaire et coordination des contrôles (art. 159a et 181 al. 1 LAgr et OPPr)**
+
+<sup>1</sup> Les contrôles de la production primaire qui doivent être effectués sur les exploitations agricoles doivent être mis en œuvre conformément aux principes fixés à l'article 42.
+
+### 2.7 Tâches particulières d'exécution de la LAgr (art. 178 LAgr)
+
+### 2.7.1 Formes d'exploitation et de communautés (art. 29a, 29b, 30 et 30a OTerm)
+
+#### Art. 39
+
+**Procédure de reconnaissance**
+
+<sup>1</sup> Le Service est chargé de la reconnaissance des formes d'exploitation et de communautés.
+
+<sup>2</sup> Les demandes sont adressées au Service, accompagnées de tous les documents requis. Elles doivent être motivées.
+
+#### Art. 40
+
+**Vérification de la reconnaissance**
+
+<sup>1</sup> Le Service vérifie périodiquement si les exploitations et les communautés reconnues satisfont aux conditions posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+
+<sup>2</sup> Il vérifie sans délai la reconnaissance des communautés d'exploitation, notamment lorsque les circonstances laissent supposer:
+
+- a) qu'il y a eu un changement des exploitants ou exploitantes impliqués, ou,
+- b) pour les unités de production concernées, qu'une modification des rapports de propriété s'est produite depuis la reconnaissance, ou
+- c) que les contrats de bail à ferme agricole existant au moment de la reconnaissance sont modifiés.
+
+#### Art. 41
+
+**Décision du Service**
+
+<sup>1</sup> Le Service décide si les exploitations ou les communautés satisfont aux conditions de reconnaissance posées par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+
+<sup>2</sup> Si une exploitation ou une communauté reconnue ne satisfait plus aux conditions requises, le Service révoque la reconnaissance accordée formellement ou tacitement. Il fixe dans sa décision la date à laquelle la révocation prend effet.
+
+### 2.7.2 Exécution et coordination des contrôles (art. 181 al. 1 LAgr et 7 al. 2 LAgri)
+
+#### Art. 42
+
+**Compétences**
+
+<sup>1</sup> Le Service est chargé de l'ensemble des contrôles qui doivent être effectués sur les exploitations agricoles.
+
+<sup>2</sup> Si des contrôles exigent la présence de spécialistes, le Service coordonne leurs interventions sur l'exploitation agricole. A cet effet, ces unités spécialisées informent préalablement le Service de l'intervention programmée.
+
+<sup>3</sup> Il en est de même lorsque les contrôles sont effectués par des organismes accrédités ou reconnus.
+
+<sup>4</sup> Lorsque les contrôleurs ou contrôleuses constatent des manquements graves, ils les signalent aux unités spécialisées de l'Etat.
+
+### 2.7.3 Autres tâches d'exécution
+
+#### Art. 43
+
+**Délégation (art. 6 et 7 al. 2 LAgri)**
+
+<sup>1</sup> Les autres tâches et compétences confiées au canton par la loi fédérale sur l'agriculture et ses ordonnances d'exécution font l'objet d'une ordonnance de la Direction.
+
+## 3 Mise en œuvre de la politique agricole cantonale
+
+### 3.1 Organisation (art. 5ss LAgri)
+
+#### Art. 44
+
+**Conseil d'Etat (art. 5 et 6 LAgri)**
+
+<sup>1</sup> Les objectifs généraux de la politique agricole cantonale sont fixés en fonction du programme quadriennal de la politique agricole fédérale. Ils doivent être adoptés dans l'année qui suit la fixation par les Chambres fédérales de l'enveloppe financière quadriennale.
+
+<sup>2</sup> Le programme quadriennal cantonal porte en particulier sur les éléments suivants:
+
+- a) un rapport de situation;
+- b) une synthèse de l'évolution de la politique agricole fédérale;
+- c) une synthèse de l'évolution de l'agriculture dans le contexte économique, social et environnemental;
+- d) les perspectives d'évolution;
+- e) les buts à atteindre, les mesures à mettre en œuvre et les moyens y relatifs.
+
+<sup>3</sup> Les tâches mentionnées à l'alinéa 2 ci-dessus sont exécutées par l'IAG.
+
+#### Art. 45
+
+**Commissions (art. 11 et 12 LAgri) – Commission de l'agriculture**
+
+<sup>1</sup> En plus de son président ou de sa présidente, la Commission de l'agriculture (CAgri) est composée de dix membres, soit:
+
+- a) cinq personnes issues des milieux de la production agricole;
+- b) deux personnes issues des milieux de la transformation agricole;
+- c) une personne issue des milieux de la protection de l'environnement et de la nature;
+- d) une personne issue des milieux de la protection des consommateurs;
+- e) une personne issue des milieux de l'économie et/ou du tourisme.
+
+#### Art. 46
+
+**Commissions (art. 11 et 12 LAgri) – Commission pour l'amélioration des structures en agriculture**
+
+<sup>1</sup> Les membres de la Commission pour l'amélioration des structures en agriculture (CASA) sont choisis en fonction de leurs compétences techniques dans les domaines de l'agronomie, de la construction, de l'économie et des finances.
+
+<sup>2</sup> Le président ou la présidente de la CASA est désigné-e par le Conseil d'Etat.
+
+<sup>3</sup> La CASA donne son préavis sur les demandes de contributions financières à fonds perdu prévues par la loi sur les améliorations foncières lorsqu'elles excèdent 150'000 francs ainsi que sur les demandes d'aides financières remboursables si leur montant est supérieur à 150'000 francs. En cas d'aide combinée, la CASA donne son préavis lorsque l'aide globale est supérieure à 250'000 francs.
+
+<sup>4</sup> Elle exerce en outre les attributions qui lui sont conférées par la législation en matière d'améliorations foncières.
+
+#### Art. 47
+
+**Organisation et fonctionnement de la CAgri et de la CASA**
+
+<sup>1</sup> La CAgri et la CASA se réunissent aussi souvent que le traitement des affaires l'exige, sur convocation du Service ou de la présidence.
+
+<sup>2</sup> Le secrétariat de la CAgri et de la CASA est assuré par le Service.
+
+<sup>3</sup> Pour le surplus, le fonctionnement et l'organisation de la CAgri et de la CASA sont régis par le règlement sur l'organisation et le fonctionnement des commissions de l'Etat.
+
+#### Art. 48
+
+**Institut agricole de l'Etat de Fribourg (art. 8 et 15 LAgri)**
+
+<sup>1</sup> En plus des tâches qui lui sont confiées par la législation sur l'agriculture et les législations spéciales, l'IAG prête son concours à l'examen des questions techniques ou économiques dans les affaires qui exigent des connaissances particulières.
+
+### 3.2 Fonds rural (art. 16ss LAgri)
+
+#### Art. 49
+
+**Exploitants et exploitantes d'entreprises agricoles – Bénéficiaires**
+
+<sup>1</sup> Les prêts sont octroyés aux propriétaires d'entreprises agricoles qui les exploitent personnellement à titre principal, qu'ils agissent individuellement ou en communauté.
+
+<sup>2</sup> Des prêts peuvent également être octroyés à des fermiers ou à des fermières s'ils sont au bénéfice d'un contrat de bail à ferme agricole de longue durée. Les conditions fixées à l'alinéa 1 doivent en outre être remplies.
+
+<sup>3</sup> En zones de montagne II, III et IV, l'octroi de prêts peut être étendu aux personnes mentionnées aux alinéas 1 et 2, qui exploitent, à titre accessoire, une entreprise agricole qui nécessite au moins un besoin en travail de 0,75 UMOS (unité de main-d'œuvre standard).
+
+#### Art. 50
+
+**Exploitants et exploitantes d'entreprises agricoles – Conditions d'octroi des prêts**
+
+<sup>1</sup> Un prêt peut être octroyé aux bénéficiaires définis à l'article 49, si les conditions suivantes sont réunies:
+
+- a) le centre de l'exploitation agricole est situé dans le canton de Fribourg;
+- b) l'exploitation a été ou peut être acquise dans des conditions normales;
+- c) le requérant ou la requérante engage ou a employé ses propres ressources (fonds propres) et son crédit (crédit normal), autant qu'on peut en attendre de cette personne;
+- d) la viabilité et l'affectation agricole de l'exploitation sont assurées à longue échéance;
+- e) la mesure à encourager par le Fonds est rationnelle, eu égard à l'évolution des structures, et supportable économiquement;
+- f) le requérant ou la requérante donne les garanties nécessaires quant à la gestion de l'exploitation agricole, en particulier par sa formation et la tenue d'une comptabilité agricole.
+
+#### Art. 51
+
+**Subsidiarité**
+
+<sup>1</sup> Quiconque entend bénéficier d'un prêt doit d'abord requérir l'aide accordée selon d'autres dispositions légales fédérales ou cantonales. Le Fonds n'intervient que si ces aides sont insuffisantes ou inexistantes.
+
+#### Art. 52
+
+**Prêt minimal et maximal**
+
+<sup>1</sup> Il n'est pas accordé de prêts inférieurs à 40'000 francs, excepté pour les achats de terres pour lesquels le prêt minimal est fixé à 20'000 francs.
+
+<sup>1<sup>bis</sup></sup> Le montant des prêts ne peut dépasser par projet 40 % de l'investissement total, après déduction des éventuelles autres aides publiques. Ce taux peut atteindre 50 % au plus pour les projets communautaires et 70 % au plus pour les projets réalisés en région de montagne.
+
+<sup>2</sup> La somme maximale des prêts, y compris le solde des prêts non encore entièrement remboursés, est fixée à 500'000 francs. Le Conseil d'Etat peut décider des exceptions.
+
+#### Art. 53
+
+**Autres conditions (art. 18 et 19 LAgri)**
+
+<sup>1</sup> Lors de l'octroi de prêts, les exigences relatives à la protection de la nature et du paysage, de l'environnement et des animaux ainsi qu'à l'aménagement du territoire et à une production respectueuse de la nature sont prises en compte.
+
+<sup>2</sup> En outre, le prêt est refusé si des engagements ont été conclus ou des mesures exécutées avant qu'une décision formelle n'ait été rendue.
+
+#### Art. 54
+
+**Fixation du taux d'intérêt (art. 16 et 19 al. 2 LAgri)**
+
+<sup>1</sup> Les prêts sont accordés avec un intérêt réduit compris entre un minimum de 1 % et un maximum de 3 %.
+
+<sup>2</sup> Un intérêt réduit supérieur au minimum fixé à l'alinéa 1 est perçu pour:
+
+- a) l'achat de terres complémentaires,
+- b) la réalisation d'installations et d'infrastructures, ou
+- c) la réalisation de projets de construction ou de rénovation d'infrastructures de mise en valeur, d'écoulement et de commercialisation des produits agricoles.
+
+<sup>3</sup> …
+
+#### Art. 55
+
+**Garanties et rang des garanties (art. 22 LAgri)**
+
+<sup>1</sup> Les prêts sont, si possible, consentis contre des garanties réelles. D'autres formes de garanties peuvent être liées à l'allocation du prêt, notamment:
+
+- a) la production d'une police d'assurance,
+- b) un cautionnement, ou
+- c) un engagement solidaire.
+
+<sup>2</sup> Le Service peut accepter que les garanties de l'Etat soient placées à un rang inférieur à celui d'autres créances.
+
+#### Art. 56
+
+**Procédure (art. 22 LAgri)**
+
+<sup>1</sup> Les demandes de prêt doivent être adressées au Service.
+
+<sup>2</sup> Dans le dispositif de la décision, l'autorité compétente fixe en particulier:
+
+- a) le montant du prêt et le taux d'intérêt auquel il est soumis;
+- b) la nature des garanties;
+- c) les modalités d'amortissement;
+- d) d'éventuelles autres conditions et charges, en particulier un éventuel remboursement anticipé;
+- e) les modalités de versement du prêt.
+
+<sup>3</sup> Si des hypothèques doivent être établies, la décision sert d'attestation pour la constitution de l'hypothèque au registre foncier, conformément à l'article 70 de la loi du 10 février 2012 d'application du code civil suisse pour le canton de Fribourg
+
+<sup>4</sup> …
+
+#### Art. 57
+
+**Décision**
+
+<sup>1</sup> Le Conseil d'Etat statue, conformément à l'article 3, sur l'octroi des prêts dont le montant excède 500'000 francs.
+
+<sup>2</sup> La Direction statue sur les demandes portant sur des montants qui n'excèdent pas 500'000 francs. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+
+#### Art. 58
+
+**Contrôle**
+
+<sup>1</sup> Le Service peut procéder, pour vérifier l'affectation des prêts, à des contrôles sur l'exploitation. Il les coordonne avec d'autres contrôles, conformément aux principes fixés à l'article 42.
+
+#### Art. 59
+
+**Remboursement**
+
+<sup>1</sup> Les modalités de remboursement sont fixées d'après le genre de la mesure proposée et elles tiennent compte de la situation économique du ou de la bénéficiaire.
+
+<sup>2</sup> Les prêts doivent être remboursés dans un délai maximal de quinze ans, exceptionnellement vingt ans.
+
+<sup>3</sup> Toutefois, le remboursement annuel minimal des prêts est fixé à 3000 francs pour les mesures individuelles et à 6000 francs pour les mesures collectives.
+
+<sup>4</sup> Les remboursements annuels des prêts sont compensés avec les contributions de la Confédération ou du canton versées à l'emprunteur ou à l'emprunteuse.
+
+### 3.3 Promotion et développement économique (art. 23ss LAgri)
+
+#### Art. 60
+
+**Mesures de promotion – En général**
+
+<sup>1</sup> Les prestations prévues à l'article 25 al. 1 let. b LAgri peuvent être mises en œuvre dans les domaines suivants:
+
+- a) les aides à la promotion des produits agricoles;
+- b) les contributions de soutien;
+- c) les manifestations événementielles;
+- d) les études et travaux préparatoires.
+
+#### Art. 61
+
+**Mesures de promotion – Aides à la promotion des produits agricoles**
+
+<sup>1</sup> Le développement de la promotion des produits agricoles peut se concrétiser au travers d'aides accordées à des produits dont les ambitions commerciales vont au-delà du marché local ou au travers d'un programme de développement des produits agricoles de proximité.
+
+<sup>2</sup> Les aides au développement de produits agricoles à ambitions commerciales doivent permettre à des produits dont le potentiel économique est avéré, mais pas encore complètement exploité, de financer une partie des investissements liés au développement de marchés.
+
+<sup>3</sup> Les aides aux produits agricoles de proximité doivent permettre à des produits dont la commercialisation et la consommation relèvent de la culture alimentaire locale de demeurer une richesse patrimoniale essentielle pour l'image gastronomique et agrotouristique du canton.
+
+#### Art. 62
+
+**Mesures de promotion – Contributions de soutien**
+
+<sup>1</sup> Les contributions de soutien doivent permettre d'accentuer le dynamisme local et l'implication des producteurs et productrices dans la démarche concernée; elles doivent en outre concourir au renforcement de l'image du canton en matière de produits agricoles. Elles peuvent aussi encourager la promotion de projets auprès d'autres organismes de financement.
+
+<sup>2</sup> Elles sont en particulier destinées à appuyer:
+
+- a) la notoriété des produits agricoles;
+- b) des manifestations de promotion de l'élevage et des techniques de sélection;
+- c) des manifestations destinées à promouvoir l'écoulement des productions agricoles;
+- d) des initiatives destinées à améliorer la qualité des produits;
+- e) des projets ponctuels de recherche en relation avec la promotion des produits agricoles.
+
+#### Art. 63
+
+**Mesures de promotion – Manifestations événementielles**
+
+<sup>1</sup> Les manifestations événementielles sont destinées à faire connaître le canton pour ses qualités dans le domaine des produits agricoles, en particulier au-delà de ses frontières, et de renforcer son image. De même, elles doivent contribuer à engendrer un dynamisme local dans le but de motiver les acteurs du monde agricole à améliorer leurs produits et leur promotion.
+
+<sup>2</sup> Elles consistent notamment en l'organisation de foires, de concours ou de salons destinés à promouvoir les produits agricoles.
+
+#### Art. 64
+
+**Mesures de promotion – Etudes et travaux préparatoires**
+
+<sup>1</sup> Les études et travaux préparatoires sont destinés à favoriser le démarrage d'initiatives relatives à des projets stratégiques pour le développement des produits agricoles du canton.
+
+#### Art. 65
+
+**Statut des requérants et requérantes – Bénéficiaires**
+
+<sup>1</sup> Les mesures de promotion sont allouées prioritairement aux associations, groupements ou personnes morales représentatifs d'un groupe d'intérêts ou constitués de différents partenaires d'une filière de production.
+
+<sup>2</sup> Les mesures de promotion peuvent être attribuées exceptionnellement à titre individuel, uniquement en vue de soutenir des projets novateurs ou le développement de nouveaux produits agricoles.
+
+#### Art. 66
+
+**Statut des requérants et requérantes – Complémentarité des mesures de promotion (art. 93 al. 1 let. c LAgr et 23 al. 2 LAgri)**
+
+<sup>1</sup> Les mesures de promotion cantonales sont coordonnées avec les mesures de promotion fédérales à prépondérance agricole.
+
+#### Art. 67
+
+**Modalités procédurales – Demande**
+
+<sup>1</sup> La demande est adressée au Service.
+
+<sup>2</sup> Elle est accompagnée d'un dossier complet justifiant les mesures de promotion requises.
+
+<sup>3</sup> En principe, elle doit être déposée au plus tard à la fin de l'année, pour l'année suivante.
+
+#### Art. 68
+
+**Modalités procédurales – Dossier de la demande**
+
+<sup>1</sup> Le dossier précise notamment:
+
+- a) les objectifs du projet;
+- b) la planification de sa réalisation;
+- c) l'usage, par tâche, des aides requises;
+- d) le montant total de l'aide requise;
+- e) le budget global du projet;
+- f) le financement du projet et l'apport personnel du requérant ou de la requérante.
+
+<sup>2</sup> Les objectifs du projet doivent être précisés de la manière suivante:
+
+- a) pour les produits agricoles à ambitions commerciales, par une stratégie de marketing;
+- b) pour les produits agricoles de proximité, par une stratégie globale;
+- c) pour les contributions de soutien, les manifestations événementielles ainsi que les études et les travaux préparatoires, par un argumentaire.
+
+#### Art. 69
+
+**Modalités procédurales – Analyse de la demande**
+
+<sup>1</sup> Le Service examine si les exigences sont remplies.
+
+<sup>2</sup> En tenant compte des spécificités de chacun des domaines d'intervention, il examine chaque projet notamment sous l'angle:
+
+- a) de la stratégie commerciale et des objectifs de ventes;
+- b) du potentiel commercial;
+- c) des capacités de production;
+- d) du système de commercialisation;
+- e) des capacités financières du requérant ou de la requérante.
+
+#### Art. 70
+
+**Fixation du montant de l'aide**
+
+<sup>1</sup> L'aide financière n'excède en principe pas 40 % du total du budget du projet.
+
+<sup>2</sup> L'aide financière ne peut en principe pas excéder 50'000 francs par projet.
+
+#### Art. 71
+
+**Octroi**
+
+<sup>1</sup> Dans le cadre du programme quadriennal arrêté par le Conseil d'Etat, la Direction fixe le montant de l'aide ainsi que les modalités relatives à son octroi. Elle peut déléguer au Service la compétence de statuer sur ces aides lorsque leur montant n'excède pas 50'000 francs.
+
+#### Art. 72
+
+**Suivi et contrôle**
+
+<sup>1</sup> Le Service peut en tout temps se faire renseigner par le ou la bénéficiaire sur l'état de réalisation du projet. A ces fins, il peut prendre part aux opérations conduisant à sa réalisation.
+
+<sup>2</sup> Au terme du projet, le ou la bénéficiaire remet au Service un rapport sur la réalisation du projet et des objectifs annoncés dans la demande. Le Service peut aussi se faire produire les documents idoines et procéder lui-même à cette analyse.
+
+#### Art. 73
+
+**Réduction et/ou restitution de l'aide**
+
+<sup>1</sup> La Direction peut réduire le montant de l'aide octroyée et/ou en exiger la restitution totale ou partielle en application des dispositions y relatives de la loi cantonale sur les subventions.
+
+### 3.4 Mesures particulières (art. 30ss LAgri)
+
+### 3.4.1 Contributions d'estivage (art. 30ss LAgri)
+
+#### Art. 74
+
+**Conditions d'octroi de l'aide cantonale**
+
+<sup>1</sup> L'aide cantonale est allouée si:
+
+- a) les conditions d'octroi des contributions d'estivage fédérales sont réunies;
+- b) la production laitière du troupeau est transformée sur l'alpage, sous forme de production fromagère;
+- c) la production fromagère est attestée par un organe officiel ou par une interprofession dont le produit est reconnu;
+- d) l'alpage est situé entièrement dans le canton de Fribourg, dans la région d'estivage délimitée conformément à la législation fédérale.
+
+<sup>2</sup> Des surfaces situées en dehors de la zone délimitée selon la lettre d ci-dessus peuvent être considérées comme faisant partie de l'alpage si:
+
+- a) elles font partie du complexe d'estivage de l'alpage, et
+- b) elles représentent moins de la moitié de la surface totale située dans la région d'estivage.
+
+#### Art. 75
+
+**Volume des productions**
+
+<sup>1</sup> Le volume des productions est calculé sur la base du volume déclaré à «TSM – Treuhand Stelle Milch».
+
+#### Art. 76
+
+**Renseignements et contrôles**
+
+<sup>1</sup> Toute personne qui souhaite bénéficier des contributions autorise le Service à obtenir les renseignements nécessaires, notamment auprès des organisations laitières compétentes.
+
+<sup>2</sup> Le Service peut procéder à des contrôles sur l'exploitation, conformément à la procédure prévue en matière de paiements directs et de contributions.
+
+#### Art. 77
+
+**Procédure et octroi**
+
+<sup>1</sup> La demande est adressée au Service dans le cadre de la procédure en matière de paiements directs.
+
+<sup>2</sup> La décision sur l'octroi est notifiée par le Service simultanément à la décision rendue en matière de paiements directs.
+
+### 3.4.2 Innovation (art. 34 LAgri)
+
+#### Art. 78
+
+**Organisation**
+
+<sup>1</sup> La Direction procède à la mise au concours du prix à l'innovation.
+
+<sup>2</sup> Elle lance le concours par publication dans la Feuille officielle ainsi que dans les autres médias qu'elle juge appropriés.
+
+<sup>3</sup> Le prix à l'innovation est attribué par le jury désigné par la Direction.
+
+<sup>4</sup> Le jury est présidé par le conseiller d'Etat ou la conseillère d'Etat en charge de la Direction.
+
+<sup>5</sup> Le ou les projets vainqueurs sont désignés à la majorité des voix. En cas d'égalité, la voix de la présidence est prépondérante.
+
+#### Art. 79
+
+**Objet**
+
+<sup>1</sup> Les projets et réalisations présentés au prix à l'innovation doivent notamment concerner:
+
+- a) les équipements et l'infrastructure des exploitations rurales, ou
+- b) l'adaptation des exploitations aux conditions nouvelles de production, de commercialisation et de détention des animaux, ou
+- c) la mise en valeur des productions agricoles, ou
+- d) la mise en valeur de productions et de l'utilisation de matières non alimentaires, en particulier en vue du développement des énergies renouvelables, ou
+- e) le développement de l'espace rural.
+
+<sup>2</sup> Le prix à l'innovation est réservé à des projets qui ont été réalisés ou développés de manière prépondérante dans le canton de Fribourg.
+
+#### Art. 80
+
+**Critères d'évaluation**
+
+<sup>1</sup> Les projets sont évalués d'après leur:
+
+- a) degré d'innovation et de créativité;
+- b) faisabilité;
+- c) intérêt technique, économique et/ou écologique.
+
+#### Art. 81
+
+**Prix**
+
+<sup>1</sup> Le prix est attribué tous les deux ans à un ou plusieurs projets et consiste en un montant en espèces de 20'000 francs au total et un diplôme.
+
+<sup>2</sup> Si aucun projet ne présente un intérêt suffisant, le prix n'est pas attribué ou peut être réduit.
+
+### 3.4.3 Méthodes et techniques culturales (art. 35ss LAgri)
+
+#### Art. 82
+
+**Méthodes culturales encouragées**
+
+<sup>1</sup> Les méthodes culturales encouragées sont notamment:
+
+- a) le semis direct;
+- b) le semis en bande fraisée;
+- c) le semis direct sous litière;
+- d) la mise en place et le maintien de la bande herbeuse, aussi longtemps qu'elle ne constitue pas un élément des paiements directs de la Confédération.
+
+#### Art. 83
+
+**Conditions d'octroi**
+
+<sup>1</sup> Les contributions peuvent être octroyées aux exploitants ou exploitantes ayant conclu avec le Service un contrat d'une durée minimale de cinq ans.
+
+<sup>2</sup> Par exploitant ou exploitante, on entend toute personne définie comme tel-le par l'ordonnance fédérale sur la terminologie agricole et la reconnaissance des formes d'exploitation.
+
+<sup>3</sup> L'exploitant ou l'exploitante doit en particulier s'engager à appliquer des méthodes culturales préservant le sol agricole sur les surfaces minimales suivantes:
+
+- a) 1 hectare de semis direct, de semis en bande fraisée et/ou de semis direct sous litière;
+- b) 25 ares pour la bande herbeuse.
+
+<sup>4</sup> Les contributions concernent les parcelles sises en région de plaine au sens de la législation fédérale et dont les exploitants ou exploitantes sont au bénéfice des paiements directs.
+
+#### Art. 84
+
+**Fixation des montants**
+
+<sup>1</sup> Le montant global des contributions est fixé par voie budgétaire dans le cadre du programme de politique agricole.
+
+<sup>2</sup> Le montant des contributions est fixé en fonction de l'importance des surfaces concernées et de l'impact présumé des méthodes et techniques culturales convenues.
+
+#### Art. 85
+
+**Contrôles et octroi**
+
+<sup>1</sup> Le Service procède aux contrôles sur l'exploitation, conformément à la procédure prévue en matière de paiements directs et de contributions.
+
+<sup>2</sup> Les contributions sont versées par le Service, en principe simultanément aux paiements directs.
+
+#### Art. 86
+
+**Révocation de la décision, résiliation du contrat et restitution de la contribution**
+
+<sup>1</sup> Le Service peut révoquer la décision d'octroi, résilier le contrat de droit public, réduire le montant de la contribution octroyée et/ou en exiger la restitution totale ou partielle conformément aux dispositions y relatives de la loi cantonale sur les subventions.
+
+### 3.4.4 Aides aux exploitations paysannes en difficulté (art. 39 LAgri et 78ss LAgr)
+
+#### Art. 87
+
+**Objet**
+
+<sup>1</sup> Les mesures financières cantonales d'aide aux exploitations paysannes en difficulté consistent d'abord en la participation financière cantonale au programme d'aide aux exploitations paysannes prévue par la législation fédérale, conformément à l'article 21 du présent règlement (art. 39 al. 2 LAgri et 78ss LAgr).
+
+<sup>2</sup> Les mesures cantonales consistent en des prestations de conseil et d'accompagnement des exploitations agricoles en difficulté. Elles sont principalement destinées à éviter le recours à des mesures d'aide sociale au sens de la législation en la matière (art. 39 al. 1 LAgri).
+
+<sup>3</sup> Ces mesures d'accompagnement sont destinées aux exploitations agricoles que le ou la chef‑fe ou ses proches ne sont plus en mesure de gérer. Elles sont aussi destinées à soutenir les exploitants et exploitantes dont les difficultés sont telles qu'elles ne peuvent être surmontées par les moyens et voies usuels.
+
+#### Art. 88
+
+**Mesures cantonales d'accompagnement – Cellule d'accompagnement des exploitations agricoles en difficulté**
+
+<sup>1</sup> Il est institué une Cellule d'accompagnement des exploitations agricoles en difficulté (ci-après: la Cellule).
+
+<sup>2</sup> La Cellule est composée d'un groupe de supervision hiérarchique (GSH) et d'un groupe de coordination opérationnelle (GCO).
+
+<sup>2a</sup> Le GSH est composé du directeur ou de la directrice de l'IAG, du ou de la chef‑fe du Service de l'agriculture, du ou de la chef‑fe du Service de l'action sociale et du ou de la chef‑fe du Service de la sécurité alimentaire et des affaires vétérinaires.
+
+<sup>2b</sup> Le GCO est composé d'une personne représentant l'IAG, d'une personne représentant le Service de l'agriculture, d'une personne représentant le Service de l'action sociale et d'une personne représentant le Service de la sécurité alimentaire et des affaires vétérinaires.
+
+<sup>3</sup> Pour ses activités de conseil et d'accompagnement, la Cellule peut requérir l'appui notamment:
+
+- a) des services médicaux;
+- b) du Service psycho-social;
+- c) du service social régional concerné;
+- d) …
+- e) du Service de l'environnement;
+- f) de la Police cantonale;
+- g) de la justice de paix;
+- h) du préfet concerné;
+- i) de l'office des poursuites concerné et/ou
+- j) de l'Association fribourgeoise d'entraide et de dépannage en agriculture (SECADA).
+
+<sup>4</sup> L'IAG assure la présidence et le secrétariat de la Cellule, aussi bien pour le GSH et que pour le GCO.
+
+#### Art. 89
+
+**Mesures cantonales d'accompagnement – Procédure**
+
+<sup>1</sup> Les unités administratives de l'Etat annoncent sans retard à la Cellule les exploitations agricoles susceptibles de pouvoir bénéficier des mesures cantonales d'accompagnement.
+
+<sup>1a</sup> La Cellule met en place, forme et entretient un réseau de sentinelles chargées de détecter et de lui annoncer les situations de détresse.
+
+<sup>2</sup> La Cellule examine si les exploitations annoncées peuvent bénéficier des mesures d'accompagnement.
+
+<sup>3</sup> Elle établit, pour les exploitations dont le besoin d'accompagnement est avéré, un plan de mesures et en informe la Direction.
+
+#### Art. 90
+
+**Mesures cantonales d'accompagnement – Mise en œuvre**
+
+<sup>1</sup> Le plan de mesures est mis en œuvre avec l'aide de toutes les unités administratives intéressées.
+
+<sup>2</sup> Sous réserve des procédures urgentes, les unités administratives qui sont membres de la Cellule et qui envisagent de rendre des décisions contraignantes à l'encontre d'une exploitation annoncée informent préalablement la Cellule du contenu de la mesure envisagée.
+
+<sup>3</sup> La Cellule coordonne alors l'intervention des unités administratives susceptibles d'être concernées. En cas de besoin, elle prend notamment contact avec la Police cantonale, la justice de paix, le préfet, l'office des poursuites et/ou l'Association fribourgeoise d'entraide et de dépannage en agriculture (SECADA).
+
+<sup>4</sup> Si le plan de mesures le nécessite, la Cellule nomme un mentor afin d'accompagner de manière étroite l'exploitation en difficulté. Le mentor et la Cellule signent une convention de collaboration.
+
+#### Art. 90a
+
+**Mesures cantonales d'accompagnement – Collaboration**
+
+<sup>1</sup> La Cellule collabore avec l'Association fribourgeoise d'entraide et de dépannage en agriculture (SECADA), notamment en proposant aux exploitants et exploitantes un soutien par le biais de cette Association.
+
+<sup>2</sup> Cette Association peut être soutenue financièrement, notamment pour ses tâches de dépannages d'urgence.
+
+## 4 Dispositions finales
+
+#### Art. 91
+
+**Droit transitoire – Promotion de l'élevage**
+
+<sup>1</sup> La participation cantonale exigée par le droit fédéral en matière de promotion de l'élevage (art. 141ss LAgr) est versée par le Service jusqu'à l'entrée en vigueur des dispositions fédérales d'application de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération et les cantons (RPT).
+
+#### Art. 92
+
+**Droit transitoire – Caisse autonome d'amortissement de la dette agricole et Office cantonal du crédit agricole**
+
+<sup>1</sup> L'ensemble des prêts conclus au nom de la Caisse autonome d'amortissement de la dette agricole (CADA) ou de l'Office cantonal du crédit agricole (OCAF) ainsi que les inscriptions faites au registre foncier en leur faveur avant l'entrée en vigueur du présent règlement ont l'intitulé suivant: Etat de Fribourg, Service de l'agriculture.
+
+<sup>2</sup> Les demandes d'aides financières en matière d'améliorations des structures et de mesures d'accompagnement social qui sont pendantes lors de l'entrée en vigueur du présent règlement sont soumises au nouveau droit.
+
+#### Art. 92a
+
+**Droit transitoire – Prêts octroyés par le Fonds rural**
+
+<sup>1</sup> Les prêts octroyés par le Fonds rural avant l'entrée en vigueur de la modification du 11 novembre 2013 du présent règlement sont soumis à l'ancien droit jusqu'au terme du projet.
+
+<sup>2</sup> Les demandes de prêts pendantes lors de l'entrée en vigueur de cette modification sont soumises au nouveau droit.
+
+#### Art. 93
+
+**Abrogations**
+
+<sup>1</sup> Sont abrogés:
+
+- a) l'arrêté du 3 mai 1994 d'exécution des législations fédérale et cantonale instituant des mesures de politique agricole (RSF 910.21);
+- b) le règlement du 28 septembre 2004 d'exécution de la loi instituant des préposés locaux de l'agriculture (RSF 910.31);
+- c) l'arrêté du 7 juillet 1998 relatif au prix à l'innovation agricole (RSF 910.44);
+- d) l'arrêté du 20 septembre 1993 d'application de la législation fédérale sur la viticulture et l'importation de vin (RSF 912.4.11);
+- e) le règlement du 15 septembre 1997 sur les appellations d'origine contrôlées des vins fribourgeois (règlement AOC) (RSF 912.4.12);
+- f) l'arrêté du 12 juin 2001 instituant des mesures de lutte contre le feu bactérien (RSF 912.5.15);
+- g) l'arrêté du 1<sup>er</sup> mars 1988 concernant la prévention des dégâts causés par les campagnols terrestres (RSF 912.5.41);
+- h) l'arrêté du 29 novembre 1994 relatif au soutien à l'écoulement du bétail de rente et de boucherie (RSF 913.0.16);
+- i) le règlement du 26 février 1985 concernant la commission officielle d'experts et le jury supérieur pour l'approbation et l'admission du bétail bovin au herd-book (RSF 913.1.22);
+- j) l'ordonnance du 30 octobre 2006 fixant le montant de la contribution cantonale à l'estivage pour l'exercice 2006 (RSF 913.5.52);
+- k) l'arrêté du 31 décembre 1963 d'exécution de la loi du 22 novembre 1963 complétant la loi d'application du 27 novembre 1962 sur les crédits d'investissements dans l'agriculture et l'aide aux exploitations paysannes (RSF 915.16);
+- l) l'ordonnance du 14 mai 1993 relative aux honoraires des ingénieurs pour les travaux d'améliorations foncières (RSF 917.116).
+
+#### Art. 94
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Commission d'acquisition des immeubles**
+
+<sup>1</sup> Le règlement du 28 décembre 1984 concernant la Commission d'acquisition des immeubles (RSF 122.93.12) est modifié comme il suit:
+
+...
+
+#### Art. 95
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Unités administratives**
+
+<sup>1</sup> L'ordonnance du 9 juillet 2002 désignant les unités administratives des Directions du Conseil d'Etat et de la Chancellerie d'Etat (RSF 122.0.13) est modifiée comme il suit:
+
+...
+
+#### Art. 96
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Mensuration officielle**
+
+<sup>1</sup> Le règlement du 22 mars 2005 sur la mensuration officielle (RMO) (RSF 214.6.11) est modifié comme il suit:
+
+...
+
+#### Art. 97
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Subventions**
+
+<sup>1</sup> Le règlement du 22 août 2000 sur les subventions (RSub) (RSF 616.11) est modifié comme il suit:
+
+...
+
+#### Art. 98
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Aménagement du territoire et constructions**
+
+<sup>1</sup> Le règlement du 18 décembre 1984 d'exécution de la loi du 9 mai 1983 sur l'aménagement du territoire et les constructions (RSF 710.11) est modifié comme il suit:
+
+...
+
+#### Art. 99
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Subsides pour mesures de prévention et de défense contre l'incendie**
+
+<sup>1</sup> Le règlement du 29 décembre 1967 sur les normes d'octroi de subsides pour dépenses concernant les mesures de prévention et de défense contre l'incendie (RSF 731.0.21) est modifié comme il suit:
+
+...
+
+#### Art. 100
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Etudes d'impact sur l'environnement**
+
+<sup>1</sup> L'ordonnance du 2 juillet 2002 sur les études d'impact sur l'environnement et les procédures décisives (OEIEP) (RSF 810.15) est modifiée comme il suit:
+
+...
+
+#### Art. 101
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Protection des sols**
+
+<sup>1</sup> L'ordonnance du 20 août 2002 sur la protection des sols (RSF 811.11) est modifiée comme il suit:
+
+...
+
+#### Art. 102
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Entreposage des engrais de ferme**
+
+<sup>1</sup> L'arrêté du 20 janvier 1998 relatif à l'entreposage des engrais de ferme (RSF 812.19) est modifié comme il suit:
+
+...
+
+#### Art. 103
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Améliorations foncières**
+
+<sup>1</sup> Le règlement du 11 août 1992 d'exécution de la loi sur les améliorations foncières (RSF 917.11) est modifié comme il suit:
+
+...
+
+#### Art. 104
+
+**Modifications et adaptations terminologiques de règlements, arrêtés et ordonnances – Subventions en faveur d'améliorations foncières**
+
+<sup>1</sup> L'arrêté du 19 décembre 1995 concernant les subventions cantonales en faveur d'améliorations foncières (RSF 917.16) est modifié comme il suit:
+
+...
+
+#### Art. 105
+
+**Adaptations terminologiques dans des lois**
+
+<sup>1</sup> Les organes chargés des publications officielles procèdent, conformément à l'article 24 de la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL), au remplacement de la dénomination «Service des améliorations foncières» par la dénomination «service en charge des améliorations foncières» dans les dispositions suivantes:
+
+- a) loi du 1<sup>er</sup> mai 1996 sur les droits de mutation et les droits sur les gages immobiliers (RSF 635.1.1): ...
+- b) loi du 14 février 1961 d'application de la loi fédérale du 8 mars 1960 sur les routes nationales (RSF 741.8): ...
+
+#### Art. 106
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur avec effet rétroactif au 1<sup>er</sup> mars 2007.
+
+2007\_044

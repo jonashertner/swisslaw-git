@@ -1,0 +1,580 @@
+---
+canton: FR
+number: "411.5.1"
+title: Loi sur la pédagogie spécialisée
+short: LPS
+language: fr
+version: 2019-08-01
+valid_until: 2022-08-31
+version_adopted: 2019-03-27
+adopted: 2017-10-11
+in_force: 2018-08-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.5.1"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7199/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur la pédagogie spécialisée
+
+Pédagogie spécialisée – L
+
+(LPS)
+
+du 11.10.2017 (version entrée en vigueur le 01.08.2019)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu l'accord intercantonal du 25 octobre 2007 sur la collaboration dans le domaine de la pédagogie spécialisée;
+
+Vu l'article 64 de la Constitution du canton de Fribourg du 16 mai 2004;
+
+Vu la loi du 9 septembre 2014 sur la scolarité obligatoire (loi scolaire, LS);
+
+Vu le message 2015-DICS-37 du Conseil d'Etat du 28 novembre 2016;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+### 1.1 Objets et principes de base
+
+#### Art. 1
+
+**Objets**
+
+<sup>1</sup> La présente loi définit l'offre en matière de pédagogie spécialisée et détermine les modalités de sa mise en œuvre, qui reposent sur le concept cantonal pour la pédagogie spécialisée.
+
+<sup>2</sup> Elle règle, en complément de la législation fédérale, intercantonale et cantonale existante, l'action de l'Etat et des communes en la matière.
+
+#### Art. 2
+
+**Buts de la pédagogie spécialisée**
+
+<sup>1</sup> La pédagogie spécialisée vise à favoriser l'autonomie, l'acquisition de connaissances, le développement de la personnalité et l'ouverture à autrui des enfants et des élèves présentant des besoins éducatifs particuliers, en vue de leur meilleure participation sociale et professionnelle possible.
+
+<sup>2</sup> Elle concourt à la meilleure adaptation possible du contexte de prise en charge et de scolarisation.
+
+<sup>3</sup> Elle contribue à la valorisation et au développement des compétences de l'ensemble des professionnel‑le‑s du système public de formation au service des enfants et des élèves.
+
+#### Art. 3
+
+**Principes de base**
+
+<sup>1</sup> Les principes de base de la présente loi sont les suivants:
+
+- a) la pédagogie spécialisée fait partie du mandat public de formation au sens de l'accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (ci-après: l'accord intercantonal), de la législation sur la scolarité obligatoire et de la législation sur l'enseignement secondaire supérieur; l'école ordinaire et les institutions de pédagogie spécialisée concourent à la réalisation de ce mandat;
+- b) les solutions de scolarisation intégrative ainsi que la proximité des prestations avec le lieu de scolarisation sont privilégiées, cela dans le respect de l'intérêt, du bien-être et des possibilités de développement de l'élève concerné‑e et compte tenu de l'environnement et de l'organisation scolaires ainsi que de la coordination avec l'ensemble des autres mesures; le principe de proportionnalité prévaut;
+- c) le principe de gratuité prévaut dans le domaine de la pédagogie spécialisée; cependant, une participation financière peut être exigée des parents ou de l'élève majeur‑e conformément à l'article 42;
+- d) les parents, ainsi que l'élève en fonction de son âge et de sa maturité, sont associés à la procédure relative à l'attribution de prestations de pédagogie spécialisée ainsi qu'à leur suivi; l'accord des parents est nécessaire pour une prise en charge à caractère résidentiel.
+
+#### Art. 4
+
+**Définitions**
+
+<sup>1</sup> En période préscolaire, la présente loi utilise le terme «enfant» et en périodes scolaire et postscolaire, le terme «élève».
+
+<sup>2</sup> Sont considérées comme parents, au sens de la présente loi, les personnes ou la personne qui exercent, directement ou par représentation, l'autorité parentale à l'égard d'un ou d'une enfant, ou d'un ou d'une élève.
+
+### 1.2 Offre de pédagogie spécialisée et transports scolaires
+
+#### Art. 5
+
+**Période préscolaire**
+
+<sup>1</sup> L'ensemble des mesures s'adressent aux enfants en âge préscolaire, en principe de leur naissance à l'âge d'entrée effective dans la scolarité obligatoire.
+
+<sup>2</sup> L'offre couvre les prestations suivantes:
+
+- a) l'éducation précoce spécialisée, qui s'adresse aux enfants dont il est établi qu'ils sont en situation de handicap, présentent un retard du développement ou dont le développement est limité ou compromis par des facteurs de risque personnels ou environnementaux; elle consiste en l'évaluation des besoins spécifiques de l'enfant, le soutien préventif et éducatif et une stimulation adéquate dans le contexte familial de l'enfant ainsi que le soutien et le conseil aux parents et aux autres intervenants et intervenantes;
+- b) la logopédie, qui s'adresse aux enfants qui présentent des difficultés de langage et de communication, consiste en la prévention et l'évaluation des troubles du langage et de la communication, la conduite de consultations et de thérapies individuelles ou en groupe et le conseil aux parents et aux autres intervenants et intervenantes;
+- c) la psychomotricité, qui s'adresse aux enfants qui présentent des troubles de l'interaction entre les domaines de développement de la perception, de la pensée et du comportement, ainsi que de leur expression sur le plan corporel, consiste en l'évaluation de ces troubles, la conduite de thérapies individuelles ou en groupe et le conseil aux parents et aux autres intervenants et intervenantes.
+
+<sup>3</sup> Les mesures de l'éducation précoce spécialisée sont dispensées sous forme de mesures d'aide ordinaires de pédagogie spécialisée (MAO) ou de mesures d'aide renforcées de pédagogie spécialisée (MAR). Dans des cas particuliers, ces mesures peuvent être dispensées au maximum deux ans dès l'entrée effective dans la scolarité obligatoire.
+
+<sup>4</sup> Les mesures de logopédie et de psychomotricité, dispensées sous forme de mesures pédago-thérapeutiques, s'adressent aux enfants de leur naissance jusqu'au terme de la première année de l'école obligatoire (1H).
+
+<sup>5</sup> Dans des cas particuliers, les mesures de logopédie dispensées par des prestataires indépendants agréés peuvent être prolongées au-delà de la 1H.
+
+<sup>6</sup> Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+#### Art. 6
+
+**Période scolaire**
+
+<sup>1</sup> Les élèves avec des besoins éducatifs particuliers sont en principe scolarisés à l'école ordinaire. Lorsque existe une entrave aux possibilités de développement de l'élève concerné‑e ou que l'environnement et l'organisation scolaires ne permettent pas une scolarisation à l'école ordinaire sans l'engagement de ressources disproportionnées pour répondre aux besoins de l'élève, celui-ci ou celle-ci est scolarisé‑e dans une institution de pédagogie spécialisée la mieux adaptée à ses besoins.
+
+<sup>2</sup> Dans le cadre de l'école ordinaire, l'offre couvre les prestations suivantes:
+
+- a) l'offre de base, qui inclut les mesures d'aide ordinaires de pédagogie spécialisée (MAO) et les mesures d'aide renforcées de pédagogie spécialisée (MAR);
+- b) les mesures de logopédie, de psychologie et de psychomotricité, appelées mesures pédago-thérapeutiques;
+- c) les soutiens spécialisés dispensés par des centres de ressources notamment pour les handicaps visuels ou auditifs (MAR);
+- d) l'accompagnement d'un ou d'une élève par un ou une auxiliaire de vie dans le soutien non pédagogique (MAR).
+
+<sup>3</sup> Dans le cadre des institutions de pédagogie spécialisée, l'offre couvre les prestations suivantes:
+
+- a) les mesures d'aide renforcées de pédagogie spécialisée (MAR);
+- b) les mesures de logopédie, de psychologie et de psychomotricité, appelées mesures pédago-thérapeutiques;
+- c) la prise en charge à caractère résidentiel ou en structure de jour.
+
+<sup>4</sup> Les mesures de logopédie, de psychologie et de psychomotricité dispensées sous forme de mesures pédago-thérapeutiques ne relèvent pas de mesures d'aide ordinaires de pédagogie spécialisée (MAO) ni de mesures d'aide renforcées de pédagogie spécialisée (MAR).
+
+<sup>5</sup> Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+#### Art. 7
+
+**Période postscolaire**
+
+<sup>1</sup> Les voies de formation du degré secondaire 2 et de formation professionnelle initiale sont ouvertes aux élèves présentant des besoins éducatifs particuliers s'ils en remplissent les conditions ordinaires d'accès.
+
+<sup>2</sup> Les mesures offertes en période postscolaire visent à une autonomie maximale de l'élève ainsi qu'à son intégration future dans le monde du travail. Elles peuvent consister notamment en conseils en orientation professionnelle, en prolongation de scolarisation en institution de pédagogie spécialisée (MAR) ou en mesures pédago-thérapeutiques de logopédie et de psychomotricité.
+
+<sup>3</sup> Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
+
+#### Art. 8
+
+**Conditions-cadre en matière de transports scolaires**
+
+<sup>1</sup> Le Conseil d'Etat fixe les conditions-cadre d'organisation et de remboursement des prestations de transports nécessaires à la fréquentation d'une institution de pédagogie spécialisée.
+
+<sup>2</sup> Les frais de transports nécessaires à la fréquentation des institutions de pédagogie spécialisée sont pris en charge par l'Etat à raison de 45 % et par les communes à raison de 55 %.
+
+### 1.3 Autorités
+
+#### Art. 9
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat exerce la haute surveillance en matière de pédagogie spécialisée.
+
+<sup>2</sup> Il exerce les compétences que lui confère la législation sur la pédagogie spécialisée.
+
+<sup>3</sup> Il édicte les dispositions d'exécution nécessaires. Il peut déléguer cette compétence à la Direction en charge de la pédagogie spécialisée dans des domaines particuliers.
+
+<sup>4</sup> Il prend les mesures utiles pour favoriser la collaboration et la coordination intercantonales.
+
+#### Art. 10
+
+**Directions et services**
+
+<sup>1</sup> La Direction en charge de l'éducation précoce spécialisée, de l'enseignement obligatoire et du secondaire du deuxième degré[^10-1] (ci-après: la Direction) est l'autorité compétente en matière de pédagogie spécialisée.
+
+<sup>2</sup> Toutefois, pour la formation professionnelle initiale, la Direction en charge de la formation professionnelle[^10-2] est l'autorité compétente en matière de pédagogie spécialisée.
+
+<sup>3</sup> Pour exécuter leurs tâches, les Directions disposent de services.
+
+<sup>4</sup> La Direction assume la fonction de bureau cantonal de liaison pour toutes les questions relatives au domaine de la pédagogie spécialisée au sens de l'article 10 de l'accord intercantonal.
+
+[^10-1]: Actuellement: Direction de la formation et des affaires culturelles.
+[^10-2]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
+
+#### Art. 11
+
+**Inspectorat**
+
+<sup>1</sup> Le canton est divisé en arrondissements fixés par le Conseil d'Etat pour l'inspection des institutions de pédagogie spécialisée.
+
+<sup>2</sup> L'inspecteur ou l'inspectrice spécialisé‑e est responsable, dans son arrondissement et dans le cadre des orientations décidées par les autorités cantonales, de la qualité du fonctionnement des institutions de pédagogie spécialisée et de la formation qui y est dispensée ainsi que du conseil à l'école ordinaire dans ses aspects pédagogiques, didactiques et éducatifs spécialisés.
+
+<sup>3</sup> L'inspecteur ou l'inspectrice spécialisé‑e est soumis‑e à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires.
+
+<sup>4</sup> L'inspecteur ou l'inspectrice spécialisé‑e doit être titulaire d'un diplôme d'enseignement spécialisé reconnu par la Conférence suisse des directeurs cantonaux de l'instruction publique (ci-après: la CDIP) et être au bénéfice de plusieurs années d'expérience de l'enseignement spécialisé ainsi que d'une formation complémentaire adéquate.
+
+<sup>5</sup> Il ou elle accomplit sa mission conformément aux principes énoncés dans la présente loi et au descriptif de fonction approuvé par le Conseil d'Etat. Il ou elle fait partie de la Conférence des inspecteurs et inspectrices scolaires.
+
+#### Art. 12
+
+**Direction des institutions de pédagogie spécialisée**
+
+<sup>1</sup> La direction d'une institution de pédagogie spécialisée exerce les compétences d'une direction d'établissement pour les élèves qui la fréquentent.
+
+### 1.4 Personnel de la pédagogie spécialisée
+
+#### Art. 13
+
+**Formation initiale**
+
+<sup>1</sup> La formation initiale du corps enseignant spécialisé et du personnel de la pédagogie spécialisée intervenant auprès des enfants et des élèves est définie dans le droit fédéral, les règlements de reconnaissance des diplômes de la CDIP ou par la Direction.
+
+#### Art. 14
+
+**Engagement**
+
+<sup>1</sup> Le corps enseignant spécialisé et les collaborateurs et collaboratrices pédagogiques spécialisés ainsi que les auxiliaires de vie intervenant à l'école ordinaire sont soumis à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires.
+
+<sup>2</sup> Ils accomplissent leur mission conformément aux principes énoncés dans la présente loi et dans la loi scolaire ainsi qu'aux descriptifs de fonctions approuvés par le Conseil d'Etat.
+
+<sup>3</sup> La répartition des frais liés à l'engagement du corps enseignant spécialisé et des auxiliaires de vie est régie par les articles 66 et suivants de la loi scolaire.
+
+<sup>4</sup> Le corps enseignant spécialisé et le personnel de la pédagogie spécialisée engagés par les institutions de pédagogie spécialisée sont soumis à une convention collective de travail existante ou, à défaut, à la législation sur le personnel de l'Etat dans la mesure où la présente loi ou des dispositions d'exécution ne fixent pas de prescriptions particulières ou complémentaires. Ils accomplissent leur mission conformément aux principes énoncés dans la présente loi.
+
+<sup>5</sup> Le corps enseignant spécialisé, le personnel de la pédagogie spécialisée ainsi que les thérapeutes engagés par les institutions de pédagogie spécialisée doivent produire, lors de leur engagement, un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu-e doit produire en sus un extrait ordinaire de son casier judiciaire.
+
+#### Art. 15
+
+**Autorisation d'enseigner**
+
+<sup>1</sup> Lors de son engagement, l'enseignant ou l'enseignante spécialisé‑e est mis‑e au bénéfice d'une autorisation d'enseigner. Le contrat d'engagement vaut autorisation d'enseigner.
+
+<sup>2</sup> L'autorisation d'enseigner prend fin à l'échéance du contrat ou en cas de retrait quelle que soit l'autorité qui a prononcé la mesure.
+
+#### Art. 16
+
+**Retrait de l'autorisation d'enseigner**
+
+<sup>1</sup> L'autorisation d'enseigner peut être retirée temporairement ou définitivement par la Direction lorsque l'enseignant ou l'enseignante spécialisé‑e a commis des actes graves incompatibles avec la fonction ou susceptibles de porter gravement atteinte à la sécurité ou à la considération de l'école ou de l'institution de pédagogie spécialisée ou lorsqu'il ou elle n'est plus en mesure de remplir sa fonction en raison notamment de dépendances ou de troubles de la santé mentale.
+
+<sup>2</sup> L'autorisation d'enseigner ne peut être retirée qu'à la suite d'une procédure administrative conforme à la législation sur le personnel de l'Etat ou d'une démission résultant d'un motif mentionné à l'alinéa 1.
+
+<sup>3</sup> Le retrait de l'autorisation d'enseigner est communiqué à la CDIP, en vue d'une inscription sur la liste intercantonale des enseignants et enseignantes auxquels a été retiré le droit d'enseigner.
+
+<sup>4</sup> La procédure d'inscription et de radiation, les voies de droit et l'accès à la liste sont réglés par l'accord intercantonal sur la reconnaissance des diplômes de fin d'études.
+
+### 1.5 Protection des données et du domaine privé
+
+#### Art. 17
+
+**Données collectées**
+
+<sup>1</sup> La Direction et les services peuvent traiter des données personnelles, y compris sensibles, sur les enfants et les élèves au bénéfice de mesures de pédagogie spécialisée.
+
+<sup>2</sup> Les données ne sont traitées, en particulier s'agissant de la collecte, que dans la mesure nécessaire aux décisions d'octroi des mesures de pédagogie spécialisée, à leur mise en œuvre et à leur suivi.
+
+#### Art. 18
+
+**Protection du domaine privé**
+
+<sup>1</sup> Il est interdit au corps enseignant spécialisé, au personnel de la pédagogie spécialisée, au personnel des services de logopédie, psychologie et psychomotricité et aux autorités scolaires de divulguer à des tierces personnes non autorisées des informations qu'ils ont reçues dans l'exercice de leur fonction sur des faits relevant du domaine privé des enfants ou des élèves, ou de leurs proches.
+
+#### Art. 19
+
+**Accès aux données**
+
+<sup>1</sup> Les services gèrent un système d'information contenant les données prévues à l'article 17.
+
+<sup>2</sup> Le Conseil d'Etat détermine les catégories de données que les services sont habilités à traiter dans le système d'information et fixe les règles et les limites d'accès.
+
+<sup>3</sup> Un accès par procédure d'appel peut être octroyé à d'autres autorités par voie réglementaire, si un intérêt prépondérant le commande en vue de la mise en œuvre et du suivi des mesures de pédagogie spécialisée.
+
+#### Art. 20
+
+**Transmission des données**
+
+<sup>1</sup> Lorsqu'une mesure est octroyée, les services et la cellule d'évaluation peuvent échanger des données personnelles, y compris sensibles, sur l'enfant ou l'élève, avec les professionnel‑le‑s intervenant auprès de l'enfant ou de l'élève, notamment les directions d'établissements et d'institutions de pédagogie spécialisée ainsi que le corps enseignant ordinaire et spécialisé. Seules les données nécessaires ou utiles à la mise en œuvre de la mesure peuvent être échangées, dans l'intérêt de l'enfant, même sans le consentement des parents.
+
+<sup>2</sup> Sont réservés les obligations particulières de garder le secret (art. 18) ainsi que les principes régissant le traitement de données personnelles selon la législation y relative.
+
+<sup>3</sup> Les dispositions de la législation sur la protection de l'enfant sont également réservées.
+
+## 2 Organisation de l'offre en matière de pédagogie spécialisée
+
+### 2.1 Prestataires de services
+
+#### Art. 21
+
+**Organisation de l'offre**
+
+<sup>1</sup> La Direction fixe la distribution de l'offre des mesures de pédagogie spécialisée.
+
+#### Art. 22
+
+**Collaborations intercantonales**
+
+<sup>1</sup> La Direction met sur pied l'offre de pédagogie spécialisée en coordination avec celle des autres cantons.
+
+#### Art. 23
+
+**Prestataires**
+
+<sup>1</sup> Les prestations de pédagogie spécialisée sont dispensées par l'Etat, par les communes et par des institutions de pédagogie spécialisée reconnues par la Direction.
+
+<sup>2</sup> En périodes préscolaire et postscolaire seulement, sauf exception accordée par la cellule d'évaluation conformément à l'article 5 al. 5, les mesures de logopédie et de psychomotricité sont dispensées par des prestataires indépendants agréés par la Direction.
+
+<sup>3</sup> En période préscolaire, des mandats, notamment de prévention primaire et secondaire, peuvent être attribués à des prestataires logopédistes indépendants agréés.
+
+<sup>4</sup> Dans le cadre de leur demande d'agrément, les prestataires indépendants doivent produire un extrait spécial de leur casier judiciaire, au sens de l'article 371a du code pénal suisse, ou, pour les ressortissants et ressortissantes étrangers, un document équivalent. Durant une période transitoire expirant le 31 décembre 2026, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire.
+
+### 2.2 Institutions de pédagogie spécialisée et contrats de prestations
+
+#### Art. 24
+
+**Institutions de pédagogie spécialisée**
+
+<sup>1</sup> Dans le cadre du concept cantonal, la Direction reconnaît les institutions de pédagogie spécialisée qui répondent notamment aux exigences suivantes:
+
+- a) offrir des prestations de pédagogie spécialisée au sens des articles 5, 6 et 7 de la présente loi;
+- b) être au bénéfice d'une autorisation d'exploiter délivrée par l'autorité cantonale compétente;
+- c) disposer d'une infrastructure adaptée aux mesures offertes et répondant aux besoins des enfants et des élèves;
+- d) respecter les standards de qualité pour les prestataires dans le domaine de la pédagogie spécialisée adoptés par la CDIP;
+- e) respecter les dispositions d'une convention collective de travail existante ou, à défaut, la législation sur le personnel de l'Etat.
+
+<sup>2</sup> La Direction peut reconnaître, au sein des institutions de pédagogie spécialisée, des écoles spécialisées et des structures de jour ou à caractère résidentiel. Les écoles spécialisées offrent des mesures renforcées de pédagogie spécialisée.
+
+<sup>3</sup> Une convention-cadre pluriannuelle et des contrats annuels de prestations sont conclus entre la Direction et les institutions de pédagogie spécialisée reconnues.
+
+<sup>4</sup> Les institutions de pédagogie spécialisée acceptent tout ou toute élève que leurs missions et leurs équipements permettent de prendre en charge et de scolariser.
+
+<sup>5</sup> La reconnaissance est limitée dans le temps. Elle peut être renouvelée.
+
+<sup>6</sup> Les dispositions générales de la loi scolaire (section 1) ainsi que ses dispositions relatives au fonctionnement général de l'école, aux parents, aux élèves et à l'enseignement privé sont applicables par analogie dans les classes spéciales des institutions de pédagogie spécialisée, demeurant réservées les règles spécifiques à la pédagogie spécialisée et aux besoins des élèves concernés.
+
+#### Art. 25
+
+**Convention-cadre pluriannuelle**
+
+<sup>1</sup> La convention-cadre pluriannuelle définit les principes généraux régissant les rapports entre la Direction et l'institution de pédagogie spécialisée concernée relatifs aux prestations de pédagogie spécialisée ou d'hébergement pour les enfants et les élèves présentant des besoins éducatifs particuliers.
+
+<sup>2</sup> En particulier, elle s'inscrit dans le dispositif visant à promouvoir l'autonomie des enfants et des élèves à besoins éducatifs particuliers, à favoriser leur accès à la formation et leur participation à la vie sociale, économique et professionnelle ainsi qu'à leur garantir des prestations qui correspondent de manière adéquate à leurs besoins.
+
+#### Art. 26
+
+**Contrat annuel de prestations**
+
+<sup>1</sup> Le contrat annuel de prestations précise en particulier l'objet et le but de la subvention, les prestations effectivement attendues, le montant de la subvention, les bases et modalités de calcul, les charges et conditions imposées au ou à la bénéficiaire et les conséquences du non-respect des obligations, conformément à la législation cantonale en matière de subventions.
+
+<sup>2</sup> En particulier, le contrat annuel indique notamment les ressources allouées en tenant compte des ressources propres de l'institution de pédagogie spécialisée et, le cas échéant, des autres subventions, publiques ou privées, qu'elle perçoit, à l'exception des dons.
+
+## 3 Accès à l'offre en matière de pédagogie spécialisée
+
+#### Art. 27
+
+**Période préscolaire**
+
+<sup>1</sup> L'accès aux mesures d'aide ordinaires de pédagogie spécialisée en éducation précoce spécialisée (MAO) et en psychomotricité est demandé par les parents auprès de la direction du service prestataire qui en décide.
+
+<sup>2</sup> L'accès aux mesures d'aide renforcées de pédagogie spécialisée en éducation précoce spécialisée (MAR) est demandé par les parents conformément aux articles 30 à 32.
+
+<sup>3</sup> L'accès aux prestations en logopédie est demandé conjointement par les parents et le ou la prestataire consulté‑e, au sens de l'article 23 al. 2, auprès du ou de la spécialiste du service chargé de la pédagogie spécialisée[^27-1]. Sur la base de l'évaluation du ou de la spécialiste, l'inspecteur ou l'inspectrice spécialisé‑e décide de l'octroi d'une mesure.
+
+[^27-1]: Actuellement: Service de l'enseignement spécialisé et des mesures d'aide.
+
+#### Art. 28
+
+**Période scolaire – Mesures d'aide ordinaires de pédagogie spécialisée (MAO) et mesures pédago-thérapeutiques**
+
+<sup>1</sup> L'élève au bénéfice de mesures d'aide ordinaires de pédagogie spécialisée (MAO) est scolarisé‑e dans un établissement de l'école ordinaire.
+
+<sup>2</sup> L'accès aux mesures d'aide ordinaires de pédagogie spécialisée (MAO), ainsi qu'aux mesures pédago-thérapeutiques, est défini dans la législation scolaire.
+
+#### Art. 29
+
+**Période scolaire – Mesures d'aide renforcées de pédagogie spécialisée (MAR)**
+
+<sup>1</sup> L'élève au bénéfice de mesures d'aide renforcées de pédagogie spécialisée (MAR) est scolarisé‑e soit dans un établissement de l'école ordinaire, soit dans une institution de pédagogie spécialisée.
+
+<sup>2</sup> A titre exceptionnel, des mesures d'aide renforcées de pédagogie spécialisée (MAR) peuvent être octroyées à domicile ou en milieu hospitalier pour un temps limité.
+
+<sup>3</sup> Lorsque l'élève suit sa scolarité dans une institution de pédagogie spécialisée, le suivi est assuré par celle-ci, laquelle en informe chaque année la commune de domicile de l'élève.
+
+#### Art. 30
+
+**Période scolaire – Accès aux mesures d'aide renforcées de pédagogie spécialisée (MAR)**
+
+<sup>1</sup> L'accès aux mesures d'aide renforcées de pédagogie spécialisée (MAR) est demandé par les parents auprès de la cellule d'évaluation.
+
+<sup>2</sup> Les parents bénéficient des conseils de professionnel‑le‑s intervenant auprès de l'élève pour formuler leur demande.
+
+<sup>3</sup> Au préalable, les parents et l'enseignant ou l'enseignante établissent un bilan sur la base d'une procédure prédéfinie.
+
+<sup>4</sup> A titre exceptionnel et lorsque les besoins éducatifs particuliers de l'élève sont clairement avérés, la demande au sens de l'alinéa 1 peut également émaner des professionnel‑le‑s intervenant auprès de l'élève, sans le concours des parents. Dans ce cas, l'inspecteur ou l'inspectrice spécialisé‑e peut ordonner les bilans et les diagnostics nécessaires à l'analyse par la cellule d'évaluation.
+
+#### Art. 31
+
+**Période scolaire – Cellule d'évaluation**
+
+<sup>1</sup> La Direction institue une cellule d'évaluation et désigne ses membres.
+
+<sup>2</sup> La cellule peut faire appel à des experts et expertes compétents dans le domaine concerné par la demande.
+
+<sup>3</sup> Sur la base du dossier préparé par le réseau, la cellule évalue le besoin en matière de mesures d'aide renforcées de pédagogie spécialisée (MAR) et donne un préavis sur leur étendue, leur nature et le lieu de leur mise en œuvre. Ce préavis, établi à l'intention de l'inspecteur ou de l'inspectrice spécialisé‑e et porté à la connaissance des parents, s'inscrit dans le cadre de la procédure d'évaluation telle qu'elle est prévue à l'article 7 de l'accord intercantonal.
+
+<sup>4</sup> La cellule d'évaluation peut, le cas échéant, consulter les professionnel‑le‑s intervenant auprès de l'élève, y compris ceux du domaine médical.
+
+#### Art. 32
+
+**Période scolaire – Décision, attribution et réévaluation des mesures d'aide renforcées de pédagogie spécialisée (MAR)**
+
+<sup>1</sup> Sur la base du préavis de la cellule d'évaluation, l'inspecteur ou l'inspectrice spécialisé‑e décide de l'octroi de mesures d'aide renforcées de pédagogie spécialisée (MAR) auprès d'un ou d'une prestataire agréé‑e ainsi que, le cas échéant, de mesures auxiliaires de pédagogie spécialisée, notamment sous forme d'octroi d'un ou d'une auxiliaire de vie (MAR).
+
+<sup>2</sup> La mesure est réévaluée en principe tous les deux ans et peut faire l'objet d'une procédure simplifiée.
+
+#### Art. 33
+
+**Période scolaire – Projet pédagogique individualisé**
+
+<sup>1</sup> Un projet pédagogique individualisé est déterminé pour chaque bénéficiaire de mesures d'aide renforcées de pédagogie spécialisée (MAR) par l'enseignant ou l'enseignante spécialisé‑e.
+
+#### Art. 34
+
+**Période scolaire – Plan individuel de transition**
+
+<sup>1</sup> Un plan individuel de transition est déterminé deux ans avant la fin de la scolarité obligatoire pour chaque bénéficiaire de mesures d'aide renforcées de pédagogie spécialisée (MAR) par les professionnel‑le‑s intervenant auprès de l'élève.
+
+#### Art. 35
+
+**Période scolaire – Mise en place et suivi des mesures d'aide renforcées de pédagogie spécialisée (MAR)**
+
+<sup>1</sup> La direction d'établissement ou de l'institution de pédagogie spécialisée veille à la mise en place des mesures d'aide renforcées de pédagogie spécialisée (MAR) et de leur suivi, en collaboration avec les professionnel‑le‑s intervenant auprès de l'élève.
+
+<sup>2</sup> Avant la fin de la scolarité, la direction d'établissement ou de l'institution de pédagogie spécialisée appuie les parents dans les démarches nécessaires en vue de la transition vers les formations postobligatoires, le cas échéant auprès de l'assurance-invalidité (AI), en collaboration avec les professionnel‑le‑s intervenant auprès de l'élève, y compris ceux du domaine médical.
+
+<sup>3</sup> Les représentants et représentantes du corps médical et de la protection de l'enfance intervenant auprès de l'élève sont associés selon les besoins aux réunions de réseau.
+
+#### Art. 36
+
+**Période postscolaire**
+
+<sup>1</sup> La direction de l'établissement du secondaire supérieur veille à la mise en place des mesures d'aide renforcées de pédagogie spécialisée (MAR) et de leur suivi, en collaboration avec les professionnel‑le‑s intervenant auprès de l'élève.
+
+<sup>2</sup> Les représentants et représentantes du corps médical et de la protection de l'enfance intervenant auprès de l'élève sont associés selon les besoins aux réunions de réseau.
+
+<sup>3</sup> L'accès aux prestations en logopédie et en psychomotricité est demandé conjointement par les parents et le ou la prestataire consulté‑e, au sens de l'article 23 al. 2, auprès du ou de la spécialiste du service chargé de la pédagogie spécialisée[^36-1]. Sur la base de l'évaluation de ce ou cette spécialiste, l'inspecteur ou l'inspectrice spécialisé‑e décide de l'octroi d'une mesure.
+
+<sup>4</sup> La prolongation de scolarisation en institution de pédagogie spécialisée est demandée par les parents conformément aux articles 30 à 32.
+
+[^36-1]: Actuellement: Service de l'enseignement spécialisé et des mesures d'aide.
+
+## 4 Financement de l'offre en matière de pédagogie spécialisée
+
+#### Art. 37
+
+**Institutions de pédagogie spécialisée reconnues**
+
+<sup>1</sup> L'Etat et les communes prennent en charge le déficit d'exploitation des institutions de pédagogie spécialisée reconnues admis par l'Etat.
+
+<sup>2</sup> Ils participent au financement des investissements par la prise en considération, dans le compte d'exploitation, des charges d'intérêts et d'amortissement.
+
+<sup>3</sup> Le financement est supporté à raison de 45 % par l'Etat et 55 % par les communes.
+
+<sup>4</sup> Les comptes des institutions de pédagogie spécialisée sont présentés sur la base d'un plan comptable admis par l'Etat.
+
+<sup>5</sup> Le budget des institutions de pédagogie spécialisée est construit sur la base des directives en vigueur à l'Etat et du même plan comptable que celui qui est utilisé pour la présentation des comptes. Le Conseil d'Etat édicte des dispositions sur le mode de calcul.
+
+#### Art. 38
+
+**Autres prestations**
+
+<sup>1</sup> Les mesures d'éducation précoce spécialisées sont supportées financièrement à raison de 45 % par l'Etat et 55 % par les communes.
+
+<sup>2</sup> Les mesures pédago-thérapeutiques de logopédie pour les périodes préscolaire, scolaire en cas d'exception accordée par la cellule d'évaluation conformément à l'article 23 al. 2 et postscolaire, dispensées par des prestataires indépendants, sont supportées financièrement à raison de 45 % par l'Etat et 55 % par les communes.
+
+<sup>3</sup> Les mesures pédago-thérapeutiques de psychomotricité pour les périodes préscolaire et postscolaire, dispensées par des prestataires indépendants, sont supportées financièrement à raison de 45 % par l'Etat et 55 % par les communes.
+
+<sup>4</sup> Les mesures de soutien d'ordre professionnel dans le cadre d'une formation postobligatoire sont supportées par l'assurance-invalidité (AI) selon la législation spécifique, sauf pour les élèves qui prolongent leur scolarité en institutions de pédagogie spécialisée.
+
+<sup>5</sup> Les tarifs des mesures pédago-thérapeutiques sont fixés dans une convention passée entre les prestataires indépendants et la Direction.
+
+#### Art. 39
+
+**Prestataires d'autres cantons**
+
+<sup>1</sup> Les prestations fournies par d'autres cantons sont financées selon les modalités prévues conventionnellement entre les cantons.
+
+<sup>2</sup> Le financement de ces prestations est supporté à raison de 45 % par l'Etat et 55 % par les communes.
+
+#### Art. 40
+
+**Répartition intercommunale**
+
+<sup>1</sup> La part mise à la charge de l'ensemble des communes est répartie entre elles en proportion du chiffre de leur population dite légale.
+
+#### Art. 41
+
+**Paiement**
+
+<sup>1</sup> L'Etat paie tous les frais scolaires.
+
+<sup>2</sup> Il récupère périodiquement les montants dus par chaque commune.
+
+#### Art. 42
+
+**Participation financière des parents ou de l'élève majeur–e**
+
+<sup>1</sup> Une participation des parents ou de l'élève majeur-e peut être exigée pour les frais de repas lors de certaines activités scolaires ainsi que pour les frais de repas et/ou de nuitées dans les structures de jour ou à caractère résidentiel.
+
+<sup>2</sup> Les activités scolaires se déroulant à l'étranger ou celles qui sont proposées sur inscription en dehors des unités d'enseignement hebdomadaires étant facultatives, une contribution peut être demandée aux parents dont les enfants sont inscrits afin de couvrir tout ou partie des frais effectifs.
+
+<sup>3</sup> Les semaines thématiques à options à l'école du cycle d'orientation se déroulant durant le temps scolaire peuvent comprendre des activités payantes, à la condition que les élèves aient le choix d'activités variées gratuites.
+
+<sup>4</sup> Le Conseil d'Etat peut fixer des montants maximaux.
+
+## 5 Voies de droit
+
+#### Art. 43
+
+**Décision du corps enseignant ou de l'institution de pédagogie spécialisée, réclamation**
+
+<sup>1</sup> Toute décision du corps enseignant d'une institution de pédagogie spécialisée ou de son organe directeur qui affecte ou peut affecter le statut d'un ou d'une élève peut, dans les dix jours dès sa notification, faire l'objet d'une réclamation écrite des parents.
+
+<sup>2</sup> La réclamation est adressée à l'inspecteur ou à l'inspectrice spécialisé‑e, qui statue à bref délai.
+
+<sup>3</sup> Le Conseil d'Etat règle la procédure de réclamation.
+
+#### Art. 44
+
+**Décision de l'inspecteur ou de l'inspectrice spécialisé–e, recours**
+
+<sup>1</sup> Toute décision d'un inspecteur ou d'une inspectrice spécialisé‑e qui affecte ou peut affecter le statut d'un ou d'une élève peut, dans les dix jours dès sa notification, faire l'objet d'un recours des parents à la Direction.
+
+<sup>2</sup> Sauf décision contraire de la Direction, le recours n'a pas d'effet suspensif.
+
+#### Art. 45
+
+**Décisions communales**
+
+<sup>1</sup> Les décisions rendues par les organes d'une commune ou d'une association de communes peuvent être attaquées conformément à la législation sur les communes.
+
+#### Art. 46
+
+**Différends administratifs**
+
+<sup>1</sup> Les différends entre communes, entre associations de communes ou entre communes et associations de communes sont tranchés conformément à la législation sur les communes. Ils relèvent toutefois de la Direction lorsque les parties ne sont pas du même district.
+
+<sup>2</sup> Les différends entre une commune ou une association de communes et un inspecteur ou une inspectrice spécialisé‑e ou entre une institution de pédagogie spécialisée et un inspecteur ou une inspectrice spécialisé‑e sont tranchés par la Direction.
+
+#### Art. 47
+
+**Plainte des parents**
+
+<sup>1</sup> Lorsque la voie de la réclamation ou du recours n'est pas ouverte, les parents peuvent porter plainte contre les actes ou les omissions d'un enseignant ou d'une enseignante spécialisé‑e, de l'organe directeur d'une institution de pédagogie spécialisée ou de l'inspecteur ou de l'inspectrice spécialisé‑e, qui les atteignent personnellement et gravement, eux-mêmes ou leurs enfants, et qui violent des dispositions de la présente loi et des règlements.
+
+<sup>2</sup> Toutefois, la plainte n'est ouverte qu'après épuisement des éventuelles voies de droit internes des institutions de pédagogie spécialisée.
+
+<sup>3</sup> L'autorité de plainte statue sur le bien-fondé de la plainte et en informe le plaignant ou la plaignante.
+
+<sup>4</sup> Les frais de procédure peuvent être mis à la charge de l'auteur‑e d'une plainte téméraire ou abusive.
+
+<sup>5</sup> Le plaignant ou la plaignante peut, dans les dix jours, recourir à la Direction contre la décision qui déclare la plainte irrecevable ou mal fondée ou qui met des frais de procédure à sa charge.
+
+<sup>6</sup> Le Conseil d'Etat désigne les autorités de plainte et règle la procédure.
+
+## 6 Dispositions finales
+
+#### Art. 48
+
+**Dispositions transitoires**
+
+<sup>1</sup> Les articles 23 al. 2 et 3, 24 à 26 et 38 al. 5 seront mis en œuvre par la Direction dans un délai de trois ans à compter de l'entrée en vigueur de la présente loi.
+
+#### Art. 49
+
+**Abrogations**
+
+<sup>1</sup> Sont abrogées:
+
+- a) la loi du 19 juin 2008 concernant le financement des mesures de nature pédago-thérapeutique dispensées par des prestataires privés agréés (RSF 410.6);
+- b) la loi du 22 septembre 1994 sur l'enseignement spécialisé (RSF 411.5.1).
+
+#### Art. 50
+
+**Entrée en vigueur et referendum**
+
+<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^50-1]
+
+<sup>2</sup> La présente loi est soumise au referendum législatif. Elle est également soumise au referendum financier facultatif.
+
+[^50-1]: Date d'entrée en vigueur: 1<sup>er</sup> août 2018 (ACE 05.12.2017).
+
+2017\_084

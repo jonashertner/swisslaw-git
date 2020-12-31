@@ -1,0 +1,671 @@
+---
+canton: FR
+number: "922.13"
+title: Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
+short: SchutzV
+language: de
+version: 2019-06-01
+valid_until: 2021-06-30
+version_adopted: 2019-05-14
+adopted: 2016-06-21
+in_force: 2016-07-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/922.13"
+pdf: "https://bdlf.fr.ch/api/de/versions/6409/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume
+
+Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume – V
+
+(SchutzV)
+
+vom 21.06.2016 (Fassung in Kraft getreten am 01.06.2019)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf das Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel sowie die dazugehörige Verordnung vom 29. Februar 1988 (Jagdverordnung des Bundes);
+
+gestützt auf die Verordnung des Bundesrates vom 21. Januar 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung;
+
+gestützt auf die Verordnung des Bundesrates vom 30. September 1991 über die eidgenössischen Jagdbanngebiete;
+
+gestützt auf das Gesetz vom 14. November 1996 über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (JaG);
+
+auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
+
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung bezweckt, das Gesetz über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (JaG), mit Ausnahme der Bestimmungen über die Jagd und ihre Ausübung, auszuführen.
+
+#### Art. 2
+
+**Amt für Wald und Natur (Art. 5 JaG)**
+
+<sup>1</sup> Zur Erfüllung der Aufgaben, die ihm die Jagdgesetzgebung überträgt, verfügt das Amt für Wald und Natur (das Amt) über wissenschaftliche Mitarbeiterinnen und Mitarbeiter, technische Mitarbeiterinnen und Mitarbeiter, Verwaltungspersonal und Wildhüterinnen-Fischereiaufseherinnen und Wildhüter-Fischereiaufseher.
+
+#### Art. 3
+
+**Konsultativkommission für die Jagd und das Wild**
+
+<sup>1</sup> Die Konsultativkommission für die Jagd und das Wild (die Kommission) nimmt die Befugnisse im Bereich des Schutzes wildlebender Säugetiere und Vögel und ihrer Lebensräume wahr, die ihr im Gesetz und in dieser Verordnung übertragen werden.
+
+<sup>2</sup> Die Zusammensetzung und die Arbeitsweise der Kommission unterliegen der Jagdverordnung (JaV).
+
+## 2 Schutz des Wildes und der Lebensräume
+
+#### Art. 4
+
+**Begriffe (Art. 9 und 10 JaG)**
+
+<sup>1</sup> Als Lebensräume gelten die natürlichen Lebensräume, die den wildlebenden Tieren die erforderlichen Lebensgrundlagen bieten.
+
+<sup>2</sup> Unter Gleichgewicht der wildlebenden Tiere ist die Häufigkeit und die Verteilung einer Art im Verhältnis zu anderen Arten oder im Verhältnis zu ihren Lebensräumen sowie das ausgewogene Verhältnis der Geschlechter und Altersklassen zu verstehen.
+
+#### Art. 5
+
+**Aufgaben des Staates – Schutzpflicht (Art. 9 JaG)**
+
+<sup>1</sup> Die Dienststellen und Anstalten des Staates, deren Tätigkeit die Lebensräume der wildlebenden Tiere unmittelbar berührt, müssen bei der Erfüllung ihrer Aufgaben die Massnahmen zur Erhaltung, Wiederherstellung, Vernetzung und Erweiterung dieser Lebensräume sowie zur Schaffung neuer Lebensräume unterstützen und fördern.
+
+#### Art. 6
+
+**Aufgaben des Staates – Besondere Massnahmen (Art. 10 und 39 JaG)**
+
+<sup>1</sup> Der Staat kann Massnahmen zur Schaffung, zur Wiederherstellung, zur Erweiterung oder zum Unterhalt der Lebensräume der wildlebenden Tiere fördern.
+
+<sup>2</sup> Namentlich folgende Massnahmen können gefördert werden:
+
+- a) die Anlage von Dauergrünland, das für die wildlebenden Tiere günstig ist, insbesondere von Buntbrachen, auf landwirtschaftlich genutzten Flächen;
+- b) das Pflanzen von Hecken und Feldgehölzen auf landwirtschaftlich genutzten Flächen, sofern sie zur Vernetzung von Lebensräumen notwendig sind;
+- c) die Schaffung von Feuchtgebieten oder Trockenstandorten, die für die wildlebenden Tiere besonders günstig sind;
+- d) die Vergrösserung der Äsungsflächen im Wald;
+- e) die Anpassung von Gebäuden und Anlagen, so dass seltene Tierarten darin wohnen können;
+- f) das Anbringen von Nisthilfen für seltene und bedrohte Vogelarten;
+- g) die Aktionen zur Jungtierrettung;
+- h) die Verhütung der durch wildlebende Tiere verursachten Verkehrsunfälle.
+
+<sup>3</sup> Die Hilfe des Staates kann Gemeinden, anderen öffentlich-rechtlichen Körperschaften, Jägerinnen- und Jägervereinigungen, Naturschutzorganisationen und Privaten gewährt werden, sofern die Massnahmen den ökologischen Grundsätzen entsprechen und mit den in der Landwirtschafts-, Wald- und Naturschutzgesetzgebung vorgesehenen ökologischen Massnahmen koordiniert werden.
+
+<sup>4</sup> Die Hilfe kann namentlich in der Form von Beiträgen aus dem Fonds für das Wild sowie durch die Bereitstellung von Arbeitskräften und Material geleistet werden.
+
+<sup>5</sup> Sind Beiträge in Anwendung einer anderen Gesetzgebung möglich, so werden die Beiträge im Sinne dieses Artikels nur ergänzend ausgerichtet.
+
+<sup>6</sup> Das Amt prüft die Beitragsgesuche, bestimmt je nach Zweckmässigkeit und Notwendigkeit der Massnahmen die Art und den Umfang der Hilfe und erlässt die entsprechenden Entscheide. Es schliesst wenn nötig mit den Begünstigten Verträge ab.
+
+<sup>7</sup> Das Amt kann für die Durchführung der Massnahmen andere Dienststellen des Staates, die Jägerinnen- und Jägervereinigungen, die Naturschutzorganisationen und die landwirtschaftlichen Organisationen beiziehen.
+
+#### Art. 7
+
+**Störung (Art. 10 JaG) – Allgemeines**
+
+<sup>1</sup> Es ist verboten, wildlebende Tiere absichtlich auf irgendeine Art und Weise zu stören.
+
+<sup>2</sup> Die land- und forstwirtschaftlichen Arbeiten, Notfälle und die vom Amt bewilligten Abschreckungsmassnahmen zur Verhütung von Wildschäden bleiben vorbehalten. Die forstwirtschaftlichen Arbeiten müssen jedoch aufgeschoben werden, wenn sie das Überleben seltener und bedrohter Arten gefährden.
+
+<sup>3</sup> Die Verwendung von künstlichen Lichtquellen, Nachtsichtgeräten, Tonwiedergabegeräten oder anderen elektronischen Hilfsmitteln mit dem Ziel, wildlebende Tiere in der Nacht aufzuspüren oder nach Wildspuren zu suchen, ist verboten. Die Verwendung von künstlichen Lichtquellen mit einer Leistung von mehr als 2 W mit dem Ziel, wildlebende Tiere zu beobachten, ist verboten.
+
+<sup>4</sup> Die Verfolgung der Spur eines jagdbaren Tiers ausserhalb der Jagdzeiten sowie die Verwendung von künstlichen Mitteln zur Vertreibung oder Anlockung von Tieren, mit Ausnahme von künstlichen Lockvögeln, die entweder Enten, für die Jagd auf Wasservögel, oder Krähen darstellen, sind verboten.
+
+<sup>5</sup> Die Einrichtung von Beobachtungsposten (Unterstände usw.) für Auerhuhn, Adler oder Uhu ist verboten.
+
+<sup>6</sup> Die Durchführung eines Jagdschiessens ausserhalb eines ständigen Schiessstandes wird in der Jagdverordnung geregelt.
+
+<sup>7</sup> Das Amt kann aus wichtigen Gründen Ausnahmen von den Absätzen 3 und 5 bewilligen, sofern diese das Überleben der betreffenden Tiere nicht gefährden.
+
+<sup>8</sup> Die Direktion kann in der jährlichen Verordnung über die Planung der Jagd (Art. 56 JaV) Einschränkungen über die Verwendung von Hunden während der Probe- und Jagdzeiten vorsehen.
+
+#### Art. 8
+
+**Störung (Art. 10 JaG) – Fotografieren und Filmen**
+
+<sup>1</sup> Das Fotografieren und Filmen darf das Leben der Tiere nicht gefährden sowie ihre Fortpflanzung und die Lebensräume nicht beeinträchtigen.
+
+<sup>2</sup> Das Amt kann vorübergehend örtliche Einschränkungen oder Verbote erlassen.
+
+#### Art. 9
+
+**Störung (Art. 10 JaG) – Markierung**
+
+<sup>1</sup> Das Markieren wildlebender Säugetiere und Vögel muss so durchgeführt werden, dass die Tiere möglichst wenig gestört werden.
+
+<sup>2</sup> Jede Person, die zur Markierung der Tiere befugt ist, muss sich zu Beginn der Markierungszeit bei der Wildhüterin-Fischereiaufseherin oder beim Wildhüter-Fischereiaufseher der Region melden, in der sie tätig ist.
+
+<sup>3</sup> Die Befugnisse des Bundes in diesem Bereich bleiben vorbehalten.
+
+#### Art. 10
+
+**Störung (Art. 10 JaG) – Hunde**
+
+<sup>1</sup> Die Beamtinnen und Beamten der Wildhut können Hunde abschiessen, die sich nicht einfangen lassen, wenn sie:
+
+- a) deren Halterin oder Halter nicht kennen und feststellen, dass diese Hunde gewohnheitsmässig streunen, wildlebende Tiere aufstöbern oder verfolgen oder wildern;
+- b) sie weiterhin unbeaufsichtigt und in grosser Entfernung des Hauses der Halterin oder des Halters antreffen, obwohl diese oder dieser verwarnt oder verzeigt wurde.
+
+#### Art. 11
+
+**Störung (Art. 10 JaG) – Kynologische Veranstaltungen**
+
+<sup>1</sup> Kynologische Veranstaltungen, bei denen Hunde von der Leine gelassen werden und möglicherweise wildlebende Tiere aufspüren oder wildern könnten, müssen vom Amt bewilligt werden.
+
+#### Art. 12
+
+**Anlässe (Art. 11 JaG)**
+
+<sup>1</sup> Wett- und Orientierungsläufe mit mehr als 600 Teilnehmerinnen und Teilnehmern und Rad-, Pferde-, Ski- und Schneeschuhrennen sowie andere Sportanlässe und Feste mit mehr als 300 Teilnehmerinnen und Teilnehmern (in den eidgenössischen Jagdbanngebieten und den Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung: 50 Teilnehmerinnen und Teilnehmer), die ganz oder teilweise ausserhalb der Fahrwege oder im Wald stattfinden, müssen vom Amt bewilligt werden.
+
+<sup>2</sup> Anlässe mit mehr als 100 Teilnehmerinnen und Teilnehmern müssen von den Organisatorinnen und Organisatoren vorgängig der Forstkreisingenieurin oder dem Forstkreisingenieur gemeldet werden.
+
+<sup>3</sup> Das Amt bewilligt diese Veranstaltungen nur, wenn die wildlebenden Tiere voraussichtlich nicht erheblich gestört werden und wenn die Veranstaltungen nicht während der Aufzuchtzeit der in der betreffenden Region lebenden seltenen Arten stattfinden. Es informiert die Gemeinden, auf deren Gebiet der Anlass geplant ist.
+
+<sup>4</sup> Die Benützung von Autos ausserhalb der Fahrwege wird in der Spezialgesetzgebung geregelt, und es braucht dazu eine Bewilligung des Amts.
+
+<sup>5</sup> Das Amt koordiniert seine Entscheide mit den Entscheiden der für den Naturschutz zuständigen Behörden.
+
+#### Art. 13
+
+**Projekte (Art. 11 JaG)**
+
+<sup>1</sup> Folgende Projekte bedürfen einer Stellungnahme des Amts:
+
+- a) Bauten und Anlagen, die der Umweltverträglichkeitsprüfung unterliegen;
+- b) Projekte für den Bau oder den erheblichen Ausbau von Werken und Anlagen, die Hindernisse für die Migration wildlebender Tiere darstellen oder sich in den Wildtierkorridoren befinden;
+- c) die regionalen Waldwirtschaftspläne;
+- d) Güterzusammenlegungen von mehr als 100 ha;
+- e) Rodungen von mehr als 5000 m²;
+- f) Anlagen von Luftseilbahnen und Skiliften von mehr als 500 m Länge;
+- g) die Erstellung von Skipisten und Schlittelbahnen durch Gebiete, die für die wildlebenden Tiere heikel sind;
+- h) die ständigen Mountainbikestrecken;
+- i) die generellen Netze für die Wald- und Alperschliessung, die Forst- und Alpstrassen und -wege sowie die Fusswege, welche die für die wildlebenden Tiere heiklen Gebiete berühren;
+- j) die Zonennutzungspläne und die Projekte für Bauten, Werke und Anlagen, welche die Lebensräume von wildlebenden Tieren gefährden können und für die andere Dienststellen des Staates eine Stellungnahme des Amts verlangen;
+- k) die Klettersteige.
+
+<sup>2</sup> Ausserdem kann das Amt zu folgenden Projekten, sofern sie die Interessen der wildlebenden Tiere und ihre Lebensräume betreffen, Stellung nehmen:
+
+- a) zu den kantonalen Sachplänen;
+- b) zu den kantonalen Nutzungsplänen;
+- c) zu den regionalen Richtplänen.
+
+#### Art. 14
+
+**Anpassung von Werken (Art. 10 JaG)**
+
+<sup>1</sup> Die Direktion kann die Anpassung von Werken und Anlagen verlangen, die das Leben wildlebender Tiere in schwerwiegender Weise beeinträchtigen.
+
+#### Art. 15
+
+**Wildsektoren (Art. 10 JaG)**
+
+<sup>1</sup> Um die Wildbewirtschaftung zu gewährleisten, wird der Kanton in sogenannte Wildsektoren unterteilt.
+
+<sup>2</sup> Die Direktion grenzt die Wildsektoren ab. Sie sind auf den Online-Karten des Kantons Freiburg und auf der topografischen Karte, die das Amt herausgibt, eingetragen (Art. 36).
+
+#### Art. 16
+
+**Schutzgebiete (Art. 12 JaG)**
+
+<sup>1</sup> Die Schutzgebiete umfassen:
+
+- a) die in den einschlägigen Bundesverordnungen festgelegten eidgenössischen Jagdbanngebiete und Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung;
+- b) die vom Kanton ausgeschiedenen Wildschutzgebiete.
+
+<sup>2</sup> Die folgenden Bestimmungen gelten allgemein für die Schutzgebiete:
+
+- a) Die Jagd ist ganz oder teilweise verboten.
+- b) Es ist verboten, die Schutzgebiete ohne ausreichenden Grund mit einer Schusswaffe zu betreten.
+- c) Die Tiere dürfen nicht aufgestöbert werden.
+- d) Die Tiere dürfen weder aktiv noch passiv aus den Schutzgebieten hinausgetrieben oder herausgelockt werden.
+
+<sup>3</sup> Die Bestimmungen der Bundesverordnungen über die eidgenössischen Jagdbanngebiete und die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung bleiben vorbehalten.
+
+#### Art. 17
+
+**Wiederansiedlung (Art. 13 JaG)**
+
+<sup>1</sup> Das Aussetzen von Tierarten, die nicht mehr im Kanton heimisch sind (Wiederansiedlung), bedarf einer Bewilligung der Direktion.
+
+<sup>2</sup> Das Amt kann das Aussetzen einer bedrohten Tierart bewilligen, sofern:
+
+- a) die Art nicht auf andere Weise erhalten werden kann;
+- b) beim Aussetzen das natürliche Gleichgewicht berücksichtigt wird;
+- c) die Lebensbedingungen der Art gesichert scheinen.
+
+<sup>3</sup> Die genannten Behörden legen die Bedingungen für das Aussetzen, insbesondere Umfang, Zeitpunkt und Ort, sowie die Massnahmen zum Schutz der betreffenden Arten fest.
+
+<sup>4</sup> Die Befugnisse des Bundes in diesem Bereich bleiben vorbehalten.
+
+#### Art. 18
+
+**Fütterung (Art. 10 JaG)**
+
+<sup>1</sup> Die Fütterung von wildlebenden Säugetieren und die Einrichtung von ständigen oder vorübergehenden Futterstellen, insbesondere Futterkrippen, Salzlecken oder Luderplätzen, bedürfen der Bewilligung des Amts; ferner muss die Zustimmung der Grundeigentümerin oder des Grundeigentümers eingeholt werden, wenn Schäden an Wald oder Kulturen möglich sind.
+
+<sup>2</sup> Die Luderplätze für Säugetiere und Vögel unterstehen ausserdem den gesetzlichen Bestimmungen über die Tierseuchen.
+
+#### Art. 19
+
+**Wildlebende Tiere – Einfangen, Halten und Züchten (Art. 14 JaG)**
+
+<sup>1</sup> Das Einfangen und Halten von wildlebenden Tieren zu wissenschaftlichen oder didaktischen Zwecken wird bewilligt, sofern das Gesuch von einer anerkannten Forschungs- oder Bildungsanstalt gestellt wird und es begründet ist und wenn das Überleben der Art in freier Wildbahn durch das Einfangen nicht gefährdet wird.
+
+<sup>2</sup> Die für das Züchten geschützter Vögel erforderliche Bewilligung wird gegen Entrichtung einer Gebühr von 50 Franken pro Tierart erteilt, wenn:
+
+- a) es sich um Vögel handelt, die in Gefangenschaft geboren wurden;
+- b) sie mit einem Ring gekennzeichnet sind;
+- c) eine Bestätigung einer anerkannten Gesellschaft für Vogelschutz, Vogelkunde oder Vogelaufzucht oder der zuständigen Dienststelle eines anderen Kantons vorliegt.
+
+<sup>3</sup> Die Bewilligungen nach den Absätzen 1 und 2 sind befristet. Das Amt legt die übrigen Bedingungen fest.
+
+<sup>4</sup> Die Beamten der Wildhut können die Einrichtungen zur Haltung der Tiere und die Tiere selbst jederzeit kontrollieren.
+
+#### Art. 20
+
+**Wildlebende Tiere – Einfangen und Ausmerzen aus hygienischen Gründen (Art. 14 JaG)**
+
+<sup>1</sup> Das Einfangen und Ausmerzen von wildlebenden Tieren aus hygienischen Gründen kann in Notfällen direkt von den Wildhüterinnen-Fischereiaufseherinnen und Wildhütern-Fischereiaufsehern mündlich bewilligt werden.
+
+<sup>2</sup> Wird ein wildlebendes Tier einer bedrohten Art aus hygienischen Gründen eingefangen, so muss es grundsätzlich am Leben erhalten und an einem geeigneten Ort ausgesetzt werden.
+
+#### Art. 21
+
+**Wildlebende Tiere – Einfangen und Erlegen verletzter, geschwächter oder kranker Tiere (Art. 14 JaG)**
+
+<sup>1</sup> Das Einfangen und Erlegen von verletzten, geschwächten oder kranken Tieren sowie von Tieren, die nicht ausgesetzt werden dürfen, entwichen oder verwildert sind, kann in Notfällen direkt von den Wildhüterinnen-Fischereiaufseherinnen und Wildhütern-Fischereiaufsehern mündlich bewilligt werden.
+
+#### Art. 22
+
+**Wildlebende Tiere – Tot aufgefundene Tiere (Art. 5 und 15 JaG)**
+
+<sup>1</sup> Wer ein wildlebendes Tier oder einen Teil davon tot auffindet oder die Eier des Tieres findet, muss den nächsten Polizeiposten oder einen Wildhüter-Fischereiaufseher benachrichtigen oder das Tier dort abgeben und sich an die Anordnungen dieser Beamten halten. Das Tier kann auch dem Naturhistorischen Museum übergeben werden.
+
+<sup>2</sup> Wenn die Person sich das Tier aneignen möchte, wird es zu dem vom Amt erlassenen Tarif zugunsten des Fonds für das Wild verkauft.
+
+<sup>3</sup> Ist das Tier oder ein Teil davon von wissenschaftlichem Interesse, so wird es grundsätzlich dem Naturhistorischen Museum übergeben. Das Amt kann es auch für seine eigenen Zwecke behalten oder im Einvernehmen mit dem Naturhistorischen Museum einer Forschungs- oder Bildungsanstalt übergeben.
+
+<sup>4</sup> Erfüllt das Tier die Bedingungen nach den Absätzen 2 und 3 nicht, so kann es der Person, die es aufgefunden hat, oder einer anderen interessierten Person unentgeltlich oder gegen Entgelt übergeben werden.
+
+<sup>5</sup> Die Bestimmungen dieses Artikels gelten nicht für:
+
+- a) folgende Säugetiere: Fuchs, Dachs, Steinmarder;
+- b) folgende Vögel: Fasan, Kolkrabe, Rabenkrähe, Elster, Eichelhäher und andere Singvögel, Türkentaube, verwilderte Haustaube, Stockente, Krickente, Tafelente, Reiherente, Haubentaucher, Blässhuhn, Kormoran;
+- c) Hirsch- und Rehgeweihe und Gämskrickel; in den Wildschutzgebieten sind die Suche und das Sammeln der Hirschgeweihe vom 1. Januar bis 30. April jedoch verboten.
+
+#### Art. 23
+
+**Wildlebende Tiere – Beschlagnahmung (Art. 5 und 46 JaG)**
+
+<sup>1</sup> Tiere, die widerrechtlich getötet, gefangen, gehalten, behalten oder präpariert werden, werden vom Amt beschlagnahmt. Dasselbe gilt für Teile von Tieren, die widerrechtlich behalten oder präpariert werden.
+
+#### Art. 24
+
+**Präparieren von Tieren (Art. 16 JaG)**
+
+<sup>1</sup> Jede im Kanton wohnhafte Person, die Tiere präparieren möchte (die Taxidermistin oder der Taxidermist), muss sich beim Amt registrieren lassen.
+
+<sup>2</sup> Die Taxidermistin oder der Taxidermist muss jedes Tier, dessen Präparation gemäss der Jagdverordnung des Bundes meldepflichtig ist, innerhalb der Frist nach dieser Verordnung beim Amt melden. Er muss den Namen, Vornamen und Wohnsitz der Tierhalterin oder des Tierhalters, die Art und wenn möglich das Geschlecht des Tiers sowie den Ort und das Datum, an dem das Tier aufgefunden wurde, und die Todesursache angeben.
+
+## 3 Wildschaden
+
+#### Art. 25
+
+**Verhütung – Durch Eigentümerinnen und Eigentümer und Berechtigte a) Massnahmen (Art. 31 und 33 JaG)**
+
+<sup>1</sup> Als erforderliche und zumutbare vorbeugende Massnahmen zum Schutze von Liegenschaften, Kulturen und Nutztieren vor Wildschäden im Sinne der Artikel 31 Abs. 1 und 33 Abs. 2 JaG gelten:
+
+- a) gemäss dem Entscheid und den Anweisungen des Amts in den Regionen, die als Risikozonen im Sinne von Artikel 44 gelten, und in den angrenzenden Gebieten, wo Wildschweine leben, die Errichtung und der Unterhalt von elektrischen Zäunen und die Errichtung von angemessenen Abwehrmitteln um Gemüsekulturen, Obstgärten, gartenbauliche Kulturen, Obst- und Zierbaumschulen, Küchengärten, Kartoffelkulturen und Reben;
+- b) der Einzelschutz von Obst- und Zierbäumen;
+- c) die Haltung von Geflügel und anderen Kleintieren in Einrichtungen, die für Haarraubwild unzugänglich sind oder mit angemessenen Vorkehrungen zur Abschreckung von Raubvögeln versehen sind;
+- d) die Haltung von Nutztieren einer in der Schweiz wildlebenden Art oder einer exotischen Art in Einrichtungen, die für wildlebende Tiere unzugänglich sind;
+- e) die in der Bundesgesetzgebung vorgeschriebenen Massnahmen;
+- f) das Anbringen von Netzen und die akustischen Vertreibungsmassnahmen in den Rebbergen;
+- g) die Selbsthilfemassnahmen im Sinne von Artikel 32 JaG und von Artikel 28 dieser Verordnung.
+
+<sup>2</sup> Als erforderliche und zumutbare vorbeugende Massnahmen zum Schutze des Waldes vor Wildschäden im Sinne von Artikel 31 Abs. 1 und 33 Abs. 2 JaG gelten:
+
+- a) die Errichtung und der Unterhalt von Zäunen und der mechanische oder chemische Einzelschutz von jungen Bäumen;
+- b) die Verbesserung des Lebensraums durch die Schaffung und den Unterhalt von Nebenbeständen für das Äsen, von natürlichen stufigen Waldrändern und von Wiesen im Wald;
+- c) die Massnahmen, um die wildlebenden Tiere im Wald und in der Umgebung des Waldes vor Störung zu schützen.
+
+<sup>3</sup> Die Umsetzung der in diesem Artikel aufgeführten vorbeugenden Massnahmen obliegt den Eigentümerinnen und Eigentümern und den übrigen Berechtigten.
+
+#### Art. 26
+
+**Verhütung – Durch Eigentümerinnen und Eigentümer und Berechtigte b) Beiträge (Art. 31 und 39 JaG)**
+
+<sup>1</sup> Eigentümerinnen und Eigentümer und andere Berechtigte, die vorbeugende Massnahmen nach Artikel 25 Abs. 1 Bst. a und Abs. 2 Bst. a ergreifen, können finanzielle Beiträge aus dem Fonds für das Wild bekommen.
+
+#### Art. 27
+
+**Verhütung – Durch das Amt (Art. 5 und 31 JaG)**
+
+<sup>1</sup> Werden die Tierarten durch die Jagd ungenügend reguliert oder reichen die Massnahmen nach Artikel 25 nicht aus, so kann das Amt im Interesse der Schadensverhütung die Regulierung der betreffenden Arten oder den Abschuss von einzelnen Tieren organisieren, die Schaden verursachen.
+
+<sup>2</sup> Die Massnahmen nach Absatz 1 sind ebenfalls anwendbar, wenn Tiere ihren Lebensraum beeinträchtigen, die Artenvielfalt gefährden oder Tierseuchen verbreiten.
+
+<sup>3</sup> Bei geschützten Tieren dürfen lediglich einzelne Tiere ausgemerzt werden. Die Tiere müssen eingefangen und an einem geeigneten Ort wieder ausgesetzt werden, sofern dies möglich ist und das angestrebte Ziel damit erreicht werden kann.
+
+<sup>4</sup> Das Amt kann Tiere von in der Schweiz wildlebenden Arten, von Arten, die nicht ausgesetzt werden dürfen, und von nicht heimischen Arten erlegen oder einfangen, wenn sie aus Gehegen oder Käfigen entwichen sind und ihre Eigentümerin oder ihr Eigentümer sich nicht meldet. Der Erlös aus dem Verkauf dieser Tiere wird dem Fonds für das Wild überwiesen.
+
+<sup>5</sup> Für die Durchführung dieser Massnahmen kann das Amt Jägerinnen und Jäger beiziehen.
+
+<sup>6</sup> Die in Anwendung der Absätze 1 und 3 getroffenen Entscheide werden im Amtsblatt veröffentlicht oder den betroffenen Naturschutzorganisationen gemäss Artikel 12 Abs. 1 Bst. b des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz schriftlich mitgeteilt.
+
+#### Art. 28
+
+**Verhütung – Selbsthilfemassnahmen (Art. 32 JaG)**
+
+<sup>1</sup> Die jagdbaren Tierarten, gegen die mit einer Bewilligung des Amts Selbsthilfemassnahmen ergriffen werden dürfen, sind: Fuchs, Dachs, Steinmarder, Rabenkrähe, Elster, Eichelhäher, Türkentaube und verwilderte Haustaube.
+
+<sup>2</sup> Die geschützten Tierarten, gegen die mit einer Bewilligung des Amts Selbsthilfemassnahmen ergriffen werden dürfen, werden in der Jagdverordnung des Bundes aufgeführt. Entsprechende Entscheide werden im Amtsblatt veröffentlicht.
+
+<sup>3</sup> Füchse, Dachse und Steinmarder dürfen nur im Umkreis von 50 m um Wohnhäuser und Ökonomiegebäude abgeschossen oder eingefangen werden. Der Abschuss dieser Tiere muss der Wildhüterin-Fischereiaufseherin oder dem Wildhüter-Fischereiaufseher der Region innert 48 Stunden gemeldet werden.
+
+<sup>4</sup> Ausser wenn eine ausserordentliche Situation vorliegt, können in den folgenden Zeiträumen keine Selbsthilfemassnahmen bewilligt werden:
+
+- a) Fuchs: vom 1. März bis 15. Juni;
+- b) Dachs: vom 16. Januar bis 15. Juni;
+- c) Steinmarder: vom 16. Februar bis 31. August;
+- d) Türkentaube: vom 16. Februar bis 31. Juli.
+
+<sup>5</sup> Das Gesuch um Bewilligung von Selbsthilfemassnahmen ist schriftlich auf einem besonderen Formular beim Amt oder beim Oberamt einzureichen. In Notfällen kann bei einer Wildhüterin-Fischereiaufseherin oder einem Wildhüter-Fischereiaufseher ein mündliches Gesuch gestellt werden.
+
+## 4 Wildschutzgebiete
+
+#### Art. 29
+
+**Allgemeines**
+
+<sup>1</sup> Gelten als Schutzgebiete nach Artikel 11 des Bundesgesetzes vom 20. Juni 1986 über die Jagd und den Schutz wildlebender Säugetiere und Vögel, nach Artikel 12 JaG, nach den einschlägigen Bestimmungen der Jagdverordnung und nach dieser Verordnung:
+
+- a) die eidgenössischen Jagdbanngebiete;
+- b) die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung;
+- c) die kantonalen Wildschutzgebiete im Gebirge;
+- d) die kantonalen Wildschutzgebiete im Flachland;
+- e) die Vogelschutzgebiete;
+- f) die Teilschutzgebiete.
+
+<sup>2</sup> Die Gebiete, die zu den verschiedenen Kategorien von Schutzgebieten ge-hören, werden in Anhang 1 bestimmt.
+
+#### Art. 30 - 35
+
+**…**
+
+#### Art. 36
+
+**Topografische Karte**
+
+<sup>1</sup> Die in dieser Verordnung aufgezählten Schutzgebiete und Grenzen der Wildsektoren sind auf der topografischen Jagdkarte des Kantons Freiburg (die Jagdkarte) aufgeführt. Diese Karte wird vom Amt herausgegeben.
+
+<sup>2</sup> Im Falle von Divergenzen ist der Text dieser Verordnung massgebend.
+
+<sup>3</sup> Die Jagdkarte ist auf den Oberämtern und beim Amt erhältlich.
+
+#### Art. 37
+
+**Wildtierkorridore**
+
+<sup>1</sup> Die Wildtierkorridore sind Durchgangsflächen für Wildtiere und ermöglichen eine Verbindung zwischen den verschiedenen Lebensräumen.
+
+<sup>2</sup> Um einen Schutz der Wildtiere zu gewährleisten, müssen diese Verbindungen sichergestellt sein. Das Amt muss zu jedem Hindernis in den Wildtierkorridoren Stellung nehmen, und es müssen wirksame und verhältnismässige Ausgleichsmassnahmen in Übereinstimmung mit der Bundesgesetzgebung vorgeschlagen werden.
+
+<sup>3</sup> Das Inventar der Wildtierkorridore wird vom Amt geführt und befindet sich in den Online-Karten des Kantons.
+
+## 5 Fonds für das Wild
+
+### 5.1 Mittel
+
+#### Art. 38
+
+**Einlagen aus dem Voranschlag (Art. 40 JaG)**
+
+<sup>1</sup> Die finanzielle Beteiligung des Staates am Fonds für das Wild hängt ab:
+
+- a) von den im Laufe der Vorjahre ausbezahlten Beträgen für die Verhütung von Wildschäden und die Entschädigung der Schadensfälle,
+- b) von den bei Rechnungsabschluss zu leistenden Beträgen, und
+- c) vom Vermögen des Fonds für das Wild.
+
+#### Art. 39
+
+**Weitere Einlagen (Art. 40a JaG)**
+
+<sup>1</sup> Nebst den in Artikel 40a JaG vorgesehenen Einlagen wird der Fonds für das Wild durch folgende Mittel gespeist:
+
+- a) Erlös aus dem Verkauf der vom Amt erlegten oder eingefangenen Tiere (Art. 27 Abs. 4);
+- b) Erlös aus dem Verkauf tot aufgefundener Tiere (Art. 22 Abs. 2);
+- c) in Anwendung von Artikel 20 Abs. 1 Bst. a und 76 Abs. 4 JaV zurückbehaltene Beträge.
+
+<sup>2</sup> Die Gerichtsschreiber überweisen dem Fonds für das Wild laufend die von ihnen eingezogenen Bussenbeträge, welche die Jagdgesetzgebung vorsieht.
+
+### 5.2 Verwaltung und Aufsicht
+
+#### Art. 40
+
+**Durch das Amt (Art. 41 JaG)**
+
+<sup>1</sup> Das Amt hat folgende Aufgaben:
+
+- a) Es heisst vorbeugende Massnahmen, die zu Finanzhilfen Anlass geben können, gut oder empfiehlt sie und legt gegebenenfalls die Ausführungsmodalitäten fest.
+- b) Es gewährt die Hilfen nach Artikel 39 Abs. 1 Bst. a JaG und legt deren Betrag fest.
+- c) Es gewährt Finanzhilfen für die Verhütung von Wildschäden und legt deren Betrag fest (Art. 39 Abs. 1 Bst. b JaG).
+- d) Es gewährt die Entschädigungen von Wildschäden und legt deren Betrag fest (Art. 39 Abs. 1 Bst. b JaG).
+- e) Es sorgt dafür, dass der Fonds für das Wild regelmässig gespeist wird, namentlich indem es die Zahlung der Einlagen kontrolliert.
+- f) Es führt eine eigene Buchhaltung und erstellt eine Jahresbilanz.
+- g) Es verpflichtet sich zu keiner Auslage, die nicht durch das Vermögen des Fonds für das Wild gedeckt ist.
+- h) Es stellt sicher, dass die Verwendung des Fonds für das Wild der Gesetzgebung über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume entspricht.
+- i) Es führt Kontrollen der Verwendung der vom Fonds für das Wild ausbezahlten Beträge durch.
+
+#### Art. 41
+
+**Durch die Kommission (Art. 8 und 41 JaG)**
+
+<sup>1</sup> Die Kommission hat folgende Aufgaben:
+
+- a) Sie nimmt Stellung zum Betrag, der jährlich bei den Jägerinnen und Jägern erhoben wird.
+- b) Sie schlägt allfällige Anpassungen der Einsatz- und Entschädigungsmodalitäten des Fonds für das Wild vor.
+- c) Sie erhält die Jahresrechnung und ‑bilanz zur Information, nachdem sie vom Finanzinspektorat kontrolliert worden sind.
+
+### 5.3 Beiträge an die Massnahmen zur Erhaltung und zur Verhütung
+
+#### Art. 42
+
+**Massnahmen zur Erhaltung der wildlebenden Tiere (Art. 39 Abs. 1 Bst. a JaG)**
+
+<sup>1</sup> Als Hilfe für die Erhaltung der wildlebenden Tiere sowie für die Erhaltung und Schaffung von Lebensräumen können die Kosten für die Umsetzung folgender Massnahmen ganz oder teilweise übernommen werden; Absatz 2 bleibt vorbehalten:
+
+- a) Massnahmen nach den Artikeln 6, 17 und 51 in Zusammenhang mit dem Schutz des Wildes und der Lebensräume;
+- b) Massnahmen zur Bekämpfung von Tierseuchen;
+- c) Fütterung von Tieren im Sinne von Artikel 18 unter ausserordentlichen Umständen.
+
+<sup>2</sup> Privatpersonen, Gruppen oder Körperschaften, die um einen finanziellen Beitrag an diese Massnahmen ersuchen möchten, müssen insbesondere zuerst die gemäss anderen Gesetzesbestimmungen von Bund und Kanton gewährte Hilfe beantragen. Der Fonds für das Wild richtet nur Beiträge aus, wenn diese Hilfen nicht ausreichen oder wenn es keine Hilfen gibt.
+
+#### Art. 43
+
+**Massnahmen zur Verhütung von Wildschäden (Art. 33 und 39 Abs. 1 Bst. b JaG) – Im Allgemeinen**
+
+<sup>1</sup> Die Beiträge an die Massnahmen nach Artikel 25 Abs. 1 Bst. a und Abs. 2 Bst. a werden vom Amt gewährt, das über die Ergreifung von Massnahmen entscheidet. Der Staat und seine Anstalten erhalten keine Beiträge.
+
+<sup>2</sup> Die Beiträge entsprechen:
+
+- a) 30–50 % der Kosten für das Schutzmaterial;
+- b) vom Amt festgelegten Pauschalen für die Errichtung und den Unterhalt von den in Artikel 25 Abs. 1 Bst. a erwähnten Zäunen unter Vorbehalt der im Fonds für das Wild verfügbaren Mittel.
+
+<sup>3</sup> Es werden keine Beiträge gewährt:
+
+- a) für Kulturen, wenn die angebauten Produkte vorwiegend für den Eigenverbrauch bestimmt sind;
+- b) für Wälder, wenn es sich um Schutzwälder handelt. Der wirtschaftliche Schaden wird im Übrigen nicht berücksichtigt.
+
+<sup>4</sup> Die Beiträge werden nur gewährt, wenn:
+
+- a) die Massnahme vor ihrer Ausführung vom Amt bewilligt worden ist;
+- b) die Art des Schutzmaterials und seine maximalen Kosten den Anweisungen des Amts entsprechen;
+- c) das besagte Schutzmaterial gemäss den Anweisungen des Amts verwendet und aufgestellt wurde;
+- d) die Belege vorgewiesen wurden.
+
+<sup>5</sup> Wer um einen Beitrag ersucht, muss seinem Gesuch eine Schätzung der Materialkosten beilegen.
+
+<sup>6</sup> Das Amt teilt der Gesuchstellerin oder dem Gesuchsteller seinen Entscheid mit. Es kann die Zahlung von Beiträgen an Auflagen zur Schadensverhütung knüpfen, um neue Schäden auf denselben Parzellen zu vermeiden.
+
+#### Art. 44
+
+**Massnahmen zur Verhütung von Wildschäden (Art. 33 und 39 Abs. 1 Bst. b JaG) – In den Risikozonen (Art. 33 und 39 Abs. 1 Bst. b JaG)**
+
+<sup>1</sup> Innerhalb der Risikozonen werden Kartoffelkulturen grundsätzlich systematisch eingezäunt. Das Amt führt die Massnahmen aus. Die entsprechenden Kosten, einschliesslich derjenigen für externe Mandate, werden vom Fonds für das Wild übernommen.
+
+<sup>2</sup> Das Amt legt die Risikozonen aufgrund der ständigen Präsenz von Wildschweinen fest; es kann jederzeit neue festlegen oder alte aufheben.
+
+<sup>3</sup> Landwirte, die in Risikozonen Flächen bewirtschaften, werden darüber vom Amt insbesondere durch öffentlichen Anschlag in den betroffenen Gemeinden informiert.
+
+### 5.4 Entschädigung von Wildschäden
+
+#### Art. 45
+
+**Schätzung der Schäden (Art. 33 und 34 JaG)**
+
+<sup>1</sup> Wer um eine Entschädigung ersucht, muss nachweisen, dass der Schaden durch wildlebende Tiere verursacht wurde.
+
+<sup>2</sup> Die Schäden werden mit einem Gutachten geschätzt.
+
+<sup>3</sup> Das Amt bezeichnet die mit der Schätzung der Schäden beauftragten Expertinnen und Experten.
+
+#### Art. 46
+
+**Festsetzung der Entschädigung (Art. 33 und 39 Abs. 1 Bst. b JaG)**
+
+<sup>1</sup> Die vom Amt bezeichneten Expertinnen und Experten schätzen den Betrag der von Wildtieren verursachten Schäden. Ihre Entlöhnung wird vom Fonds für das Wild übernommen.
+
+<sup>2</sup> Die Schätzung der Schäden erfolgt gemäss den vom Schweizerischen Bauernverband festgelegten Grundsätzen und Ansätzen (letzte Ausgabe der Wegleitung für die Schätzung von Kulturschäden).
+
+#### Art. 47
+
+**Entschädigung (Art. 33, 34 und 39 JaG)**
+
+<sup>1</sup> Die für den Schaden ausgerichtete Entschädigung entspricht grundsätzlich dem im Gutachten festgesetzten Betrag.
+
+<sup>2</sup> Waldschäden können auch durch die Lieferung von jungen Bäumen behoben werden, sofern dies für die Verjüngung des betroffenen Waldbestandes unentbehrlich ist.
+
+<sup>3</sup> Von Wildschweinen verursachte Schäden an Wiesen können auch an Ort und Stelle vom Amt oder von anderen von ihm beauftragten Personen behoben werden.
+
+<sup>4</sup> Das Amt kann bei der Ausrichtung der Entschädigung oder bei der direkten Behebung des Schadens nach den Absätzen 2 und 3 Auflagen zur Schadensverhütung festsetzen, um neue Schäden auf denselben Parzellen zu vermeiden.
+
+#### Art. 48
+
+**Verweigerung oder Kürzung der Entschädigung (Art. 33 und 34 JaG)**
+
+<sup>1</sup> Die Schäden werden nicht entschädigt, wenn:
+
+- a) der Schaden pro Betrieb nicht mehr als 100 Franken pro Jahr beträgt;
+- b) der Schaden nur Mehrarbeit bei der Ernte verursacht;
+- c) es sich um Schäden an Kulturen in einer Entfernung von weniger als 5 m von bestockten Flächen handelt;
+- d) der Schaden durch Tiere verursacht wurde, gegen die Massnahmen im Sinne von Artikel 28 ergriffen werden können;
+- e) die vorbeugenden Massnahmen offensichtlich vernachlässigt wurden, insbesondere wenn die vorbeugenden Massnahmen nach den Artikeln 25 Abs. 1 Bst. a–g und 47 Abs. 4 nicht ergriffen wurden, obwohl das Schadensrisiko bekannt war;
+- f) Ausmass und Ursache des Schadens nicht mehr festgestellt werden können;
+- g) die Schäden in Gartenbaubetrieben, Obst- und Zierbaumschulen oder in Christbaumkulturen auftreten;
+- h) die Schäden in Zuchteinrichtungen für Nutztiere einer in der Schweiz wildlebenden Art oder einer exotischen Art auftreten sowie die Schäden in Fischzuchtanlagen;
+- i) die natürliche Verjüngung zur Erhaltung des Waldes ausreicht;
+- j) im Wald nicht standortgerechte Arten gepflanzt wurden;
+- k) die Gesuch stellende Person die Fristen nach Artikel 34 Abs. 1 JaG nicht einhält;
+- l) die Gesuch stellende Person falsche Angaben macht oder die verlangten Auskünfte nicht erteilt;
+- m) das Amt vorbeugende Massnahmen gutgeheissen oder empfohlen hat und diese nicht oder auf unangemessene Weise ergriffen wurden oder die vom Amt gemachten Auflagen nach Artikel 43 Abs. 4 nicht eingehalten wurden;
+- n) es sich um Schäden an Material, Maschinen oder Bauten handelt;
+- o) der Schaden behoben wurde, ausser auf Alpweiden.
+
+<sup>2</sup> Wenn die Umstände es rechtfertigen, kann die Entschädigung für die Fälle nach Absatz 1 Bst. d und e lediglich gekürzt werden.
+
+<sup>3</sup> Im Übrigen gilt das Subventionsgesetz, namentlich für den Widerruf des Entscheids und die Rückforderung der Subvention.
+
+### 5.5 Ausbildung der Jägerinnen und Jäger und strukturierte Zusammenarbeit (Art. 39 Abs. 1 Bst. c JaG)
+
+#### Art. 49
+
+<sup>1</sup> Unter Vorbehalt von Absatz 2 können die Kosten in Zusammenhang mit der Ausbildung der Jägerinnen und Jäger und mit Aktivitäten zur Förderung der strukturierten Zusammenarbeit vom Fonds für das Wild auf der Grundlage einer Leistungsvereinbarung ganz oder teilweise übernommen werden. insbesondere für:
+
+- a) die Weiterbildung der Jägerinnen und Jäger;
+- b) die regelmässigen Übungsschiessen;
+- c) die Rehkitzrettung;
+- d) die Nachsuche nach verletztem Wild;
+- e) den Unterhalt und die Schaffung von Lebensräumen;
+- f) die Behebung und Verhütung von Schäden;
+- g) die Bestandeserhebungen und Abschusspläne;
+- h) Informations- und Kommunikationstätigkeiten.
+
+<sup>2</sup> Es werden nur die tatsächlichen Kosten berücksichtigt, die Mitwirkung der Jägerinnen und Jäger berechtigt nicht zu einer Entschädigung. Der Beitrag des Staats ist auf den Gesamtbetrag der gemäss Artikel 20 Abs. 1 Bst. a JaV erhobenen Taxe begrenzt.
+
+<sup>3</sup> Der Beitrag des Fonds für das Wild an die Weiterbildung der Jägerinnen und Jäger wird in der Jagdverordnung geregelt.
+
+## 6 Information, Ausbildung und Forschung
+
+#### Art. 50
+
+**Beiträge (Art. 35, 36 und 37 JaG)**
+
+<sup>1</sup> Der Staat kann den Gemeinden, den übrigen öffentlich-rechtlichen Körperschaften, den Organisationen des Privatrechts und Privaten Beiträge gewähren zur Unterstützung:
+
+- a) der Organisation von Ausbildungs- und Weiterbildungskursen;
+- b) der Forschung über die wildlebenden Tiere und ihre Lebensräume.
+
+<sup>2</sup> Die Hilfe kann in der Form von Beiträgen, der Bereitstellung von Personal oder Material oder in einer anderen geeigneten Form erfolgen.
+
+<sup>3</sup> Können in Anwendung einer anderen Gesetzgebung Beiträge gewährt werden, so werden die Beiträge im Sinne dieses Artikels nur ergänzend ausgerichtet.
+
+<sup>4</sup> Das Amt prüft die Gesuche um Beiträge, bestimmt je nach Zweckmässigkeit und Notwendigkeit der Projekte die Art und den Umfang des Beitrags und erlässt die entsprechenden Entscheide. Es schliesst wenn nötig Verträge mit den Empfängern ab; es kann weitere Dienststellen des Staates sowie Jägerinnen- und Jägervereinigungen und Naturschutzorganisationen beiziehen.
+
+#### Art. 51
+
+**Forschung (Art. 5 und 37 JaG)**
+
+<sup>1</sup> Das Amt kann Forschung betreiben oder Studien in Auftrag geben, die für die Erfüllung seiner Aufgaben nach Artikel 5 Abs. 2 Bst. a, c, d und e JaG erforderlich sind.
+
+<sup>2</sup> Die Erforschung wildlebender Tiere und ihrer Lebensräume durch Drittpersonen kann nur gefördert werden, wenn es sich um Arten, bei denen Bewirtschaftungsmassnahmen möglich sind, und um Arten, die Beute oder Räuber solcher Arten sind, handelt.
+
+## 7 Strafbestimmungen
+
+#### Art. 52
+
+**Übertretungen (Art. 54 JaG)**
+
+<sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten die Widerhandlungen gegen folgende Bestimmungen: Artikel 7–12, 16–18, 22, 24, 28 und 30–35.
+
+#### Art. 53
+
+**Schadenersatz (Art. 56 JaG)**
+
+<sup>1</sup> Das Amt ist dafür zuständig, für den durch ein Vergehen oder eine Übertretung verursachten Schaden Schadenersatz zu verlangen.
+
+## 8 Schlussbestimmungen
+
+#### Art. 54
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Die Verordnung vom 20. Mai 2003 über die Wildschutzgebiete (SGF 922.17) wird aufgehoben.
+
+#### Art. 55
+
+**Änderung bisherigen Rechts – Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei**
+
+<sup>1</sup> Die Verordnung vom 16. Dezember 2003 über die Aufsicht über die Tier- und Pflanzenwelt und über die Jagd und die Fischerei (SGF 922.21) wird wie folgt geändert:
+
+...
+
+#### Art. 56
+
+**Änderung bisherigen Rechts – Subventionen**
+
+<sup>1</sup> Das Subventionsreglement vom 22. August 2000 (SGF 616.11) wird wie folgt geändert:
+
+...
+
+#### Art. 57
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt am 1. Juli 2016 in Kraft.
+
+2016\_088

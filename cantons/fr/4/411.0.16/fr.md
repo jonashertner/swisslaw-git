@@ -1,0 +1,86 @@
+---
+canton: FR
+number: "411.0.16"
+title: Ordonnance fixant des montants maximaux facturables dans le cadre de la scolarité obligatoire
+language: fr
+version: 2020-08-01
+version_adopted: 2019-09-24
+adopted: 2019-09-24
+in_force: 2020-08-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.16"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8486/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Ordonnance fixant des montants maximaux facturables dans le cadre de la scolarité obligatoire
+
+du 24.09.2019 (version entrée en vigueur le 01.08.2020)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 9 septembre 2014 sur la scolarité obligatoire (loi scolaire, LS);
+
+Vu la loi du 8 mai 2003 sur les écoles libres publiques;
+
+Vu le règlement du 19 avril 2016 de la loi sur la scolarité obligatoire (RLS);
+
+Considérant:
+
+Afin qu'il soit tenu compte des modifications apportées à la loi scolaire en mars 2019, en particulier à la suite de l'arrêt du Tribunal fédéral du 7 décembre 2017 (ATF 144 I 1) en lien avec la gratuité de l'enseignement de base, il y a lieu d'adopter une nouvelle ordonnance fixant des montants maximaux facturables dans le cadre de la scolarité obligatoire.
+
+Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+
+Arrête:
+
+#### Art. 1
+
+**Contributions des parents (art. 10 LS et 9 RLS[^1-1])**
+
+<sup>1</sup> La contribution des parents aux frais de repas de leurs enfants lors des activités scolaires définies à l'article 33 RLS[^1-2] ou lors des séjours linguistiques au sens de l'article 23 al. 4 RLS[^1-3] s'élève au maximum à 16 francs par élève et par jour.
+
+<sup>2</sup> Au cycle d'orientation, un montant maximal de 400 francs par élève et par année scolaire peut être facturé aux parents afin de couvrir les frais de repas pris dans le cadre de l'enseignement de l'économie familiale.
+
+<sup>3</sup> Au cycle d'orientation, un montant maximal de 400 francs par élève et par année scolaire peut être facturé aux parents afin de couvrir les frais d'un voyage d'étude à l'étranger ou d'un camp proposé dans le cadre d'une semaine thématique à options.
+
+[^1-1]: RSF [411.0.11](https://bdlf.fr.ch/data/411.0.11/fr)
+[^1-2]: RSF [411.0.11](https://bdlf.fr.ch/data/411.0.11/fr)
+[^1-3]: RSF [411.0.11](https://bdlf.fr.ch/data/411.0.11/fr)
+
+#### Art. 2
+
+**Frais en cas de changement de cercle scolaire (art. 15 et 16 LS[^2-1] et 6 RLS[^2-2])**
+
+<sup>1</sup> Les frais supplémentaires engendrés par l'accueil d'un ou d'une élève lors d'un changement de cercle scolaire sont notamment les suivants:
+
+- a) les frais de participation aux activités scolaires (excursions, courses d'école, classes vertes, camps, journées sportives et culturelles), déduction faite des contributions demandées aux parents pour les repas;
+- b) les frais de chauffage, d'eau, d'électricité et d'entretien, au prorata du nombre d'élèves;
+- c) les éventuels frais d'interprétariat;
+- d) les éventuels frais de logopédie, de psychologie et de psychomotricité, déduction faite des subventions cantonales;
+- e) les éventuels frais des contrôles médico-dentaires scolaires, déduction faite des subventions cantonales;
+- f) les prestations proposées par le cercle scolaire d'accueil telles que le sport scolaire facultatif, d'autres activités facultatives ou l'accompagnement des devoirs, déduction faite des contributions demandées aux parents et des éventuelles subventions cantonales.
+
+<sup>2</sup> Un montant forfaitaire maximal de 3000 francs par élève et par année scolaire peut être facturé entre communes pour couvrir les frais mentionnés à l'alinéa 1.
+
+<sup>3</sup> En cas de changement de cercle scolaire pour raison de langue, la commune de domicile ou de résidence habituelle de l'élève peut refacturer aux parents, partiellement ou totalement, le montant de la facture de la commune d'accueil, dans la limite de l'alinéa 2.
+
+<sup>4</sup> Les communes peuvent conclure entre elles des accords fixant un montant différent. Toutefois, le montant facturé aux parents, dans le cadre d'un changement de cercle scolaire pour raison de langue, ne peut pas dépasser 3000 francs ou le montant convenu si ce dernier est inférieur à 3000 francs.
+
+[^2-1]: SGF [411.0.1](https://bdlf.fr.ch/data/411.0.1/fr)
+[^2-2]: RSF [411.0.11](https://bdlf.fr.ch/data/411.0.11/fr)
+
+#### Art. 3
+
+**Changement de cercle scolaire vers la «Freie öffentliche Schule Freiburg» (FOS)**
+
+<sup>1</sup> Un montant forfaitaire maximal de 5000 francs par élève et par année scolaire peut être facturé par la «Freie öffentliche Schule Freiburg» (FOS) à la commune de domicile ou de résidence habituelle de l'élève pour couvrir les frais mentionnés à l'article 2 al. 1 ainsi que les frais financiers (intérêts et amortissement) de ses bâtiments et mobiliers scolaires.
+
+<sup>2</sup> Le montant maximal de 3000 francs par élève et par année scolaire, fixé à l'article 2, ne s'applique pas aux parents domiciliés dans une commune non conventionnée avec la «Freie öffentliche Schule Freiburg» (FOS), à moins d'une décision contraire de leur commune de domicile.
+
+#### Art. 4
+
+**Adaptation des montants maximaux**
+
+<sup>1</sup> Les montants maximaux inscrits dans la présente ordonnance font l'objet d'une adaptation en fonction de l'indice suisse des prix à la consommation, dans la mesure où cet indice a augmenté de 5 %. L'indice de référence est celui de juin 2019.
+
+2019\_076

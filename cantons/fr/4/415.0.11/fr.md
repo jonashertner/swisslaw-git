@@ -1,0 +1,618 @@
+---
+canton: FR
+number: "415.0.11"
+title: "Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport"
+short: RPEns
+language: fr
+version: 2018-05-01
+valid_until: 2021-07-31
+version_adopted: 2018-04-17
+adopted: 2016-03-14
+in_force: 2016-03-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/415.0.11"
+pdf: "https://bdlf.fr.ch/api/fr/versions/5187/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Règlement relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport
+
+Personnel enseignant – R
+
+(RPEns)
+
+du 14.03.2016 (version entrée en vigueur le 01.05.2018)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers) et son règlement du 17 décembre 2002 (RPers);
+
+Vu la loi du 9 septembre 2014 sur la scolarité obligatoire;
+
+Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur et son règlement du 27 juin 1995;
+
+Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+
+Arrête:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objet**
+
+<sup>1</sup> Le présent règlement contient les dispositions particulières et complémentaires à la législation sur le personnel de l'Etat, à la législation sur la scolarité obligatoire et à la législation sur l'enseignement secondaire supérieur en matière de personnel enseignant.
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> Ce règlement s'applique au personnel enseignant dépendant de la Direction de l'instruction publique, de la culture et du sport (ci-après: la Direction) et qui est soumis à la législation sur le personnel de l'Etat.
+
+<sup>2</sup> Les membres du corps professoral de l'Université et de la Haute Ecole pédagogique ne sont pas soumis à ce règlement.
+
+#### Art. 3
+
+**Personnel enseignant**
+
+<sup>1</sup> Par personnel enseignant, on entend:
+
+- a) les enseignants et enseignantes des écoles primaires et du cycle d'orientation;
+- b) les professeur-e-s et les proviseur-e-s des écoles du secondaire du deuxième degré.
+
+#### Art. 4
+
+**Service des ressources**
+
+<sup>1</sup> Le Service des ressources est l'entité chargée des tâches de gestion du personnel au sein de la Direction.
+
+<sup>2</sup> La Direction en tant qu'autorité d'engagement du personnel enseignant peut lui déléguer une partie de ses attributions en matière de gestion du personnel.
+
+#### Art. 5
+
+**Attributions des chef-fe-s de service et délégation de compétences**
+
+<sup>1</sup> Les attributions dévolues aux chef-fe-s de service par les articles 67 al. 1 et 2, 68 al. 1 let. a, 70 al. 1 let. a pour les congés jusqu'à un jour, 79 al. 2 et 123 al. 2 RPers sont exercées par la direction de l'établissement scolaire (ci-après: la direction d'établissement).
+
+<sup>2</sup> Les autres attributions dévolues aux chef-fe-s de service par le règlement sur le personnel de l'Etat sont exercées par le ou la chef-fe de service concerné-e de la Direction, selon le degré d'enseignement.
+
+## 2 Procédure d'engagement
+
+#### Art. 6
+
+**Mise au concours**
+
+<sup>1</sup> La mise au concours relève de la Direction.
+
+<sup>2</sup> Les postes à pourvoir pour une durée inférieure à un an ou pour un taux d'activité égal ou inférieur à 20 % ne font, en principe, pas l'objet d'une mise au concours externe.
+
+<sup>3</sup> La Direction peut renoncer à la mise au concours externe lorsqu'il est à prévoir que le poste pourra être repourvu par voie interne.
+
+<sup>4</sup> La mise au concours est ouverte aussitôt que la vacance est connue, mais au plus tôt six mois avant celle-ci.
+
+<sup>5</sup> Elle se fait sous la forme d'une annonce mentionnant notamment le poste à pourvoir, les exigences du poste, le lieu et le taux d'activité ainsi que le délai d'inscription.
+
+#### Art. 7
+
+**Publication**
+
+<sup>1</sup> La mise au concours est publiée sur le site Internet de la Direction.
+
+<sup>2</sup> Elle peut être étendue à d'autres sites Internet, à des journaux ou à des revues spécialisées.
+
+#### Art. 8
+
+**Destinataires des offres**
+
+<sup>1</sup> Les offres de service sont adressées à la direction d'établissement.
+
+<sup>2</sup> La direction d'établissement établit la liste des offres de candidatures à l'intention de la Direction.
+
+#### Art. 9
+
+**Cas particuliers**
+
+<sup>1</sup> Lorsqu'une mise au concours a eu lieu pour un poste défini et que, dans un délai de trois mois, un autre poste similaire devient vacant, la Direction peut renoncer à procéder à une nouvelle mise au concours. Le choix s'opère par conséquent parmi les offres faites lors de la mise au concours initiale.
+
+<sup>2</sup> Lorsqu'un poste devient vacant en cours d'année scolaire, il est repourvu par un enseignant remplaçant ou une enseignante remplaçante engagé-e pour une durée déterminée, mais au maximum jusqu'au dernier jour de classe; le poste est mis au concours pour l'année scolaire suivante.
+
+#### Art. 10
+
+**Examen des candidatures et engagement**
+
+<sup>1</sup> La direction d'établissement procède, sans délai, à l'examen des candidatures. Lorsque le cercle scolaire comprend plusieurs établissements, les directions d'établissement coordonnent leur choix.
+
+<sup>2</sup> A l'école primaire, selon le souhait des communes, deux personnes au maximum représentant les autorités communales peuvent collaborer à l'examen des candidatures et participer au choix.
+
+<sup>3</sup> Des adjoints ou adjointes, des enseignants ou enseignantes peuvent être invités à participer à des entretiens.
+
+<sup>4</sup> Le choix entre les personnes candidates se fait en considération de leur formation scientifique et pédagogique, de leurs qualifications professionnelles, de leurs aptitudes et de leurs qualités humaines, selon les exigences de la fonction.
+
+<sup>5</sup> Les directions d'établissement de la scolarité obligatoire transmettent à l'inspectorat, pour préavis, le dossier choisi, accompagné de la liste des candidatures.
+
+<sup>6</sup> Les directions d'établissement du secondaire du deuxième degré transmettent au service d'enseignement concerné, pour préavis, le dossier choisi, accompagné de la liste des candidatures.
+
+<sup>7</sup> Les candidats et candidates retenus sont informés et engagés par la Direction. Ils sont subordonnés aux directions d'établissement.
+
+<sup>8</sup> Au terme de la procédure d'engagement, les directions d'établissement, au nom de la Direction, informent les candidats et candidates non retenus et renvoient leur dossier de candidature.
+
+<sup>9</sup> L'engagement des enseignants et enseignantes pour une période inférieure à un an relève des directions d'établissement.
+
+#### Art. 11
+
+**Cas particulier**
+
+<sup>1</sup> Après avoir consulté la direction d'établissement, la Direction peut réengager un enseignant ou une enseignante dont le poste a été supprimé dans un établissement déterminé.
+
+#### Art. 12
+
+**Contrat d'engagement**
+
+<sup>1</sup> L'engagement est conclu sous la forme d'un contrat, pour une durée déterminée ou indéterminée.
+
+<sup>2</sup> Le contrat revêt la forme écrite. Toutefois, lorsque le contrat est conclu pour une période inférieure à trois mois ou que les circonstances le justifient, un contrat oral suffit.
+
+#### Art. 13
+
+**Conclusion du contrat**
+
+<sup>1</sup> Le contrat écrit est établi, signé et envoyé par la Direction, en deux exemplaires, à la personne engagée. Celle-ci en renvoie un exemplaire dûment signé à la Direction.
+
+<sup>2</sup> Le contrat est communiqué à la direction d'établissement, au Service du personnel et d'organisation et à la Caisse de prévoyance du personnel de l'Etat.
+
+<sup>3</sup> En cas de contrat oral, le contrat est conclu dès l'échange des consentements.
+
+<sup>4</sup> La personne qui entend renoncer à son engagement doit le signifier par écrit à la Direction, dans les cinq jours qui suivent la communication de l'engagement. Passé ce délai, elle est considérée comme ayant donné son accord à la Direction.
+
+#### Art. 14
+
+**Période probatoire**
+
+<sup>1</sup> La durée de la période probatoire est de:
+
+- a) un mois pour un engagement inférieur à quatre mois;
+- b) deux mois pour un engagement inférieur à six mois;
+- c) quatre mois pour un engagement inférieur à douze mois;
+- d) six mois pour un engagement d'un an;
+- e) un an pour un engagement de plus d'un an ou de durée indéterminée.
+
+<sup>2</sup> Durant la période probatoire, les rapports de service peuvent être résiliés librement de part et d'autre, par lettre recommandée.
+
+<sup>3</sup> Durant les trois premiers mois de la période probatoire, les rapports de service peuvent être résiliés de part et d'autre une semaine d'avance pour la fin d'une semaine. Dès le quatrième mois, le délai de résiliation est d'un mois d'avance pour la fin d'un mois.
+
+<sup>4</sup> La Direction peut renoncer, dès l'engagement, à tout ou partie de la période probatoire, lorsque l'enseignant ou l'enseignante a déjà exercé antérieurement la fonction concernée. De même, la Direction peut imposer une période probatoire à l'enseignant ou à l'enseignante qui, en cours d'emploi, augmente son taux d'activité de manière significative.
+
+#### Art. 15
+
+**Garantie de poste**
+
+<sup>1</sup> La garantie de poste est exprimée dans le contrat d'engagement en unités d'enseignement, en fonction de l'activité à temps complet des diverses catégories d'enseignants et enseignantes. En application de l'article 22, elle revêt cinq formes possibles:
+
+<table>
+<tr><th>Catégories de temps complet</th><th>Unités garanties</th><th>Unités garanties</th><th>Unités garanties</th><th>Unités garanties</th><th>Unités garanties</th></tr>
+<tr><td>22 unités</td><td>7/22</td><td>11/22</td><td>14/22</td><td>18/22</td><td>22/22</td></tr>
+<tr><td>24 unités</td><td>8/24</td><td>12/24</td><td>16/24</td><td>20/24</td><td>24/24</td></tr>
+<tr><td>26 unités</td><td>8/26</td><td>13/26</td><td>17/26</td><td>21/26</td><td>26/26</td></tr>
+<tr><td>28 unités</td><td>9/28</td><td>14/28</td><td>18/28</td><td>24/28</td><td>28/28</td></tr>
+</table>
+
+<sup>2</sup> Lorsque la décharge pour raison d'âge est due, la garantie est adaptée en fonction du nouveau dénominateur.
+
+<sup>3</sup> En cas de diminution temporaire du taux d'activité demandée par l'enseignant ou l'enseignante pour une durée ne dépassant pas deux ans, un congé partiel non payé peut être octroyé et la garantie du poste est conservée.
+
+#### Art. 16
+
+**Démission**
+
+<sup>1</sup> Les enseignants et enseignantes engagés pour une durée indéterminée peuvent démissionner en respectant un délai de résiliation de six mois. La démission est présentée pour la fin d'une année scolaire administrative. Elle peut être présentée pour un autre terme en cas de justes motifs ou si les parties en conviennent.
+
+#### Art. 17
+
+**Licenciement ordinaire**
+
+<sup>1</sup> Avant de mettre fin aux rapports de service d'un enseignant ou d'une enseignante, la Direction prend les mêmes préavis que ceux qui sont prescrits pour l'engagement.
+
+## 3 Mandat professionnel
+
+#### Art. 18
+
+**Définition**
+
+<sup>1</sup> Le mandat professionnel est une approche qualitative et quantitative de l'activité professionnelle du corps enseignant dans son ensemble. Il comprend le descriptif des champs d'activité et la détermination du temps de travail dévolu à chacun de ces champs.
+
+#### Art. 19
+
+**Descriptif des champs d'activité**
+
+<sup>1</sup> Les tâches du corps enseignant s'inscrivent dans quatre champs d'activité:
+
+- a) l'enseignement, qui comprend la préparation et la planification des cours, l'enseignement proprement dit, l'évaluation des élèves, la correction des travaux ainsi que les activités scolaires telles qu'elles sont décrites dans la législation sur la scolarité obligatoire et celle sur le secondaire du deuxième degré;
+- b) le suivi pédagogique et éducatif des élèves, qui comprend notamment la surveillance, le soutien, l'encadrement et le conseil aux élèves, les relations école-famille, la collaboration avec les services de logopédie, de psychologie et de psychomotricité et avec les professionnel-le-s intervenant auprès de l'élève;
+- c) le fonctionnement de l'école, qui comprend la concertation avec les collègues, la participation aux réunions, groupes de travail et conférences ainsi qu'aux manifestations de la vie scolaire et aux divers projets de l'établissement, la collaboration avec les autorités scolaires, l'exécution de tâches organisationnelles et administratives;
+- d) la formation continue, qui comprend la mise à jour des connaissances professionnelles, le développement de compétences personnelles et sociales, l'évaluation de ses propres activités, la fréquentation de cours de formation, la lecture de la littérature spécialisée, la supervision et l'intervision.
+
+#### Art. 20
+
+**Détermination du temps de travail**
+
+<sup>1</sup> De façon générale, le temps de travail annuel du corps enseignant est équivalent à celui de l'administration cantonale, soit en principe 1900 heures pour une activité exercée à temps complet; il est réparti dans chacun des champs d'activité selon le degré d'enseignement et les conditions cadres de travail comme il suit:
+
+- a) enseignement: — 80–85 %
+- b) suivi des élèves: — 5–10 %
+- c) fonctionnement de l'école: — 5–10 %
+- d) formation continue: — 3–5 %.
+
+#### Art. 21
+
+**Cahier des charges**
+
+<sup>1</sup> Un cahier des charges propre à chaque degré d'enseignement définit, de façon plus concrète et précise, les tâches du personnel enseignant dans les quatre champs d'activité.
+
+#### Art. 22
+
+**Unités d'enseignement hebdomadaire du corps enseignant**
+
+<sup>1</sup> Le nombre d'unités d'enseignement hebdomadaire complet est le suivant:
+
+- a) à l'école primaire et dans les classes spéciales:
+  - 1\. 28 unités;
+- b) au cycle d'orientation:
+  - 1\. 26 unités pour les enseignants et enseignantes des disciplines générales, les enseignants et enseignantes d'activités créatrices sur textiles et d'économie familiale et les enseignants et enseignantes d'enseignement religieux;
+  - 2\. 28 unités pour les enseignants et enseignantes des autres disciplines spéciales (éducation physique, activités créatrices et manuelles, arts visuels et musique);
+- c) au secondaire du deuxième degré:
+  - 1\. 24 unités pour les enseignants et enseignantes des disciplines générales;
+  - 2\. 26 unités pour les enseignants et enseignantes des disciplines spéciales (éducation physique, arts visuels et musique).
+
+#### Art. 23
+
+**Décharge pour raison d'âge**
+
+<sup>1</sup> Une décharge pour raison d'âge est accordée aux enseignants et enseignantes engagés pour un an et plus à partir du début de l'année scolaire qui suit la date où ils ont 50 ans révolus.
+
+<sup>2</sup> Les enseignants et enseignantes engagés à plein temps ont droit à une décharge de deux unités hebdomadaires.
+
+<sup>3</sup> Les enseignants et enseignantes engagés à temps partiel ont droit à une décharge proportionnelle à leur taux d'activité, prise en compte dans le calcul de leur traitement.
+
+#### Art. 24
+
+**Décharge pour maîtrise de classe**
+
+<sup>1</sup> La maîtrise d'une classe du cycle d'orientation ou du secondaire du deuxième degré donne droit à une décharge d'une unité d'enseignement hebdomadaire.
+
+#### Art. 25
+
+**Duo pédagogique à l'école primaire – Principes**
+
+<sup>1</sup> Une classe peut être conduite par au maximum deux enseignants ou enseignantes.
+
+<sup>2</sup> La direction d'établissement est compétente pour définir le taux d'activité respectif des deux enseignants ou enseignantes d'un duo pédagogique selon les besoins de l'établissement.
+
+<sup>3</sup> Les jours de travail et les disciplines fixées dans le plan d'études sont répartis entre les deux enseignants ou enseignantes avec l'approbation de la direction d'établissement. Il est tenu compte prioritairement de l'intérêt des élèves et de la cohérence de la répartition des unités d'enseignement sur la semaine.
+
+<sup>4</sup> L'unité d'action pédagogique doit être assurée. Les deux enseignants ou enseignantes doivent s'engager par convention auprès de la direction d'établissement à agir selon des conceptions pédagogiques et méthodologiques convergentes. Cet engagement porte notamment sur l'organisation du travail, la répartition des temps de travail et des disciplines, la participation aux activités de l'établissement, l'évaluation des élèves, la discipline et les relations avec les parents.
+
+<sup>5</sup> Le cadre de la convention est défini par la Direction. La direction d'établissement soumet les conventions à la Direction pour approbation.
+
+#### Art. 26
+
+**Duo pédagogique à l'école primaire – Difficultés**
+
+<sup>1</sup> Lorsque des difficultés surviennent dans le duo pédagogique, la direction d'établissement tente de les aplanir.
+
+<sup>2</sup> Si les difficultés subsistent, la Direction peut, après avoir pris l'avis de la direction d'établissement, décider d'interrompre le duo pédagogique dans cette classe.
+
+<sup>3</sup> Les deux enseignants ou enseignantes, ou l'un ou l'une des deux, peuvent être licenciés, conformément à la législation sur le personnel de l'Etat.
+
+#### Art. 27
+
+**Duo pédagogique à l'école primaire – Cessation des rapports de service**
+
+<sup>1</sup> En cas de cessation des rapports de service de l'un des deux enseignants ou enseignantes, seul le poste devenu vacant est mis au concours. Dans le cas où un nouveau duo pédagogique est formé, les deux enseignants ou enseignantes doivent répondre aux conditions de l'article 25.
+
+#### Art. 28
+
+**Temps de présence sur le lieu de travail**
+
+<sup>1</sup> La direction d'établissement est compétente pour définir la présence des enseignants et enseignantes sur le lieu de travail.
+
+<sup>2</sup> En plus de l'horaire des élèves, les enseignants et enseignantes sont présents sur leur lieu de travail quelques minutes avant et après les cours pour l'accueil et la surveillance des élèves.
+
+<sup>3</sup> Afin de permettre le bon déroulement des tâches décrites à l'article 19 let. c, les enseignants et enseignantes sont présents sur leur lieu de travail selon une planification propre à chaque établissement scolaire, en principe, sauf autorisation de la Direction, en dehors du temps scolaire.
+
+<sup>4</sup> Les enseignants et enseignantes engagés à temps partiel ainsi que les remplaçants et remplaçantes participent à ces tâches au prorata de leur taux d'activité.
+
+<sup>5</sup> Lorsqu'un enseignant ou une enseignante travaille dans plusieurs établissements, les directions concernées s'entendent pour régler sa participation prioritaire aux réunions.
+
+<sup>6</sup> Le reste du temps est librement géré par l'enseignant ou l'enseignante.
+
+#### Art. 29
+
+**Tâches particulières**
+
+<sup>1</sup> La direction d'établissement peut attribuer à un enseignant ou une enseignante une tâche particulière en rapport avec ses aptitudes et ses connaissances, dans la mesure où le fonctionnement de l'établissement le justifie.
+
+<sup>2</sup> La Direction détermine les cas dans lesquels une tâche particulière peut donner lieu à une décharge d'enseignement ou à une indemnisation.
+
+#### Art. 30
+
+**Difficultés dans l'exercice de la fonction**
+
+<sup>1</sup> En cas de difficultés dans l'exercice de la fonction, les enseignants et enseignantes de la scolarité obligatoire peuvent bénéficier d'un accompagnement de durée limitée. La direction d'établissement peut également exiger cet accompagnement.
+
+#### Art. 31
+
+**Formation continue**
+
+<sup>1</sup> La formation continue prend les formes suivantes:
+
+- a) une partie obligatoire, en principe collective, organisée par la Direction ou une institution mandatée par elle, ou par la direction d'établissement; le corps enseignant y est astreint, quel que soit le taux d'activité;
+- b) une partie facultative, choisie individuellement parmi les cours proposés par le service de la formation continue de la Haute Ecole pédagogique Fribourg ou une autre institution de formation agréée par la Direction;
+- c) une partie librement gérée par l'enseignant ou l'enseignante.
+
+<sup>2</sup> Les enseignants et enseignantes peuvent être autorisés à suivre une formation pendant le temps de classe. Une demande doit être adressée au moins deux mois avant le début de la formation au service d'enseignement concerné.
+
+<sup>3</sup> La Direction fixe les modalités de fréquentation. Les cours obligatoires n'entraînent pas de frais pour les enseignants et enseignantes. La prise en charge de ces frais est régie par le règlement du personnel de l'Etat. La Direction décide de la participation de l'Etat aux frais des cours facultatifs et de leur fréquentation. La participation de l'Etat est fonction du degré d'utilité du cours pour l'accomplissement des tâches actuelles ou futures des enseignants et enseignantes au service de l'école fribourgeoise.
+
+#### Art. 32
+
+**Charge publique**
+
+<sup>1</sup> Les enseignants et enseignantes de la scolarité obligatoire ne peuvent assumer ni la fonction de conseiller ou conseillère communal-e responsable des écoles ni celle de conseiller ou conseillère général-e membre de la commission scolaire dans leur cercle d'engagement.
+
+## 4 Heures supplémentaires et complémentaires
+
+#### Art. 33
+
+**Définitions**
+
+<sup>1</sup> Sont des heures supplémentaires de travail les unités d'enseignement supplémentaires accomplies en sus d'un horaire d'enseignement complet.
+
+<sup>2</sup> Sont des heures complémentaires de travail les unités d'enseignement complémentaires accomplies en sus d'un horaire d'enseignement inférieur à un plein-temps.
+
+#### Art. 34
+
+**Principes**
+
+<sup>1</sup> L'enseignant ou l'enseignante ne peut prétendre à des heures d'enseignement supplémentaires ou complémentaires.
+
+<sup>2</sup> Les heures supplémentaires ou complémentaires sont des unités d'enseignement demandées par la direction d'établissement, en accord avec la Direction et l'enseignant ou l'enseignante.
+
+<sup>3</sup> Les heures supplémentaires ne peuvent dépasser deux unités d'enseignement hebdomadaire et durant une période qui ne peut excéder deux ans.
+
+<sup>4</sup> Les heures supplémentaires ne peuvent être attribuées au détriment d'un poste fixe à temps partiel.
+
+#### Art. 35
+
+**Compensation et rémunération de l'heure supplémentaire**
+
+<sup>1</sup> L'heure supplémentaire annuelle est en principe compensée, par convention, sur l'année scolaire suivante.
+
+<sup>2</sup> L'heure supplémentaire peut être rémunérée.
+
+- a) Dans le cas où l'heure supplémentaire est occasionnelle, la rémunération est calculée comme il suit: (traitement de base annuel à plein temps de l'enseignant ou de l'enseignante) / (nombre d'unités d'enseignement hebdomadaire à plein temps x 52 semaines).
+- b) Dans le cas où l'heure supplémentaire est annuelle, la rémunération est calculée comme il suit: (traitement de base annuel à plein temps de l'enseignant ou de l'enseignante x 45 semaines) / (nombre d'unités d'enseignement hebdomadaire à plein temps x 52 semaines).
+
+<sup>3</sup> Les heures supplémentaires ne sont pas assurées auprès de la Caisse de prévoyance du personnel de l'Etat.
+
+#### Art. 36
+
+**Rémunération de l'heure complémentaire**
+
+<sup>1</sup> L'heure complémentaire est rémunérée. Elle est égale à la rémunération de base, majorée d'un montant correspondant au treizième salaire, aux vacances et aux jours chômés, calculée comme il suit: (traitement de base annuel à plein temps de l'enseignant ou de l'enseignante) / (nombre d'unités d'enseignement hebdomadaire à plein temps x 52 semaines).
+
+<sup>2</sup> Le treizième salaire est égal à 8,33 % de la rémunération de base.
+
+<sup>3</sup> Le droit aux vacances s'élève à 15,55 % et les jours chômés, à 2 % de la rémunération de base.
+
+<sup>4</sup> Les heures complémentaires sont assurées auprès de la Caisse de prévoyance du personnel de l'Etat.
+
+## 5 Vacances et congés
+
+#### Art. 37
+
+**Durée des vacances**
+
+<sup>1</sup> Le personnel enseignant a droit à sept semaines de vacances au moins.
+
+<sup>2</sup> Durant la première et/ou la dernière semaine de non-classe de l'été, les enseignants et enseignantes peuvent être astreints à participer à des cours de formation continue ou à des réunions organisés par la Direction ou la direction d'établissement.
+
+<sup>3</sup> L'article 62 RPers n'est pas applicable.
+
+#### Art. 38
+
+**Droit aux vacances en cas d'absence**
+
+<sup>1</sup> En cas d'absence pour maladie, accident, congé de maternité, service militaire, service civil ou protection civile, le droit aux vacances y relatif peut être exercé durant les semaines de non-classe.
+
+#### Art. 39
+
+**...**
+
+#### Art. 39a
+
+**Non-réduction de la durée des vacances**
+
+<sup>1</sup> La durée des vacances de l'enseignant ou de l'enseignante n'est pas réduite s'il ou si elle a été empêché‑e de travailler pour cause de maladie ou d'accident.
+
+#### Art. 40
+
+**Congé non payé total ou partiel**
+
+<sup>1</sup> Un congé non payé d'une durée maximale de deux ans peut être octroyé par la Direction à l'enseignant ou à l'enseignante.
+
+<sup>2</sup> Un congé non payé ne constitue pas un droit et peut être refusé en fonction des nécessités de l'enseignement.
+
+#### Art. 41
+
+**Réduction du traitement en cas de congé non payé**
+
+<sup>1</sup> Lorsqu'un enseignant ou une enseignante bénéficie d'un congé non payé, la réduction du traitement se calcule comme il suit:
+
+- a) congé de 1 à 20 jours: les unités d'enseignement non accomplies sont déduites selon la formule prévue à l'article 36;
+- b) congé de 21 à 364 jours: le traitement est suspendu durant une période égale au nombre de jours d'enseignement non accomplis, majoré d'un nombre de jours correspondant au droit aux vacances, aux jours chômés et aux périodes de non-classe; le nombre de jours où le traitement est suspendu est calculé comme il suit: (nombre de jours d'enseignement non accomplis x 7 x 52) / (nombre de jours de classe de l'année scolaire en cours);
+- c) congé d'une année et plus: le traitement est suspendu durant toute la période du congé.
+
+#### Art. 42
+
+**Congé de mariage ou d'enregistrement d'un partenariat**
+
+<sup>1</sup> Le congé de mariage ou d'enregistrement d'un partenariat ne peut être pris que lors de l'événement qui le justifie et les jours qui le précèdent ou le suivent.
+
+#### Art. 43
+
+**Congé au terme de la quinzième année de service**
+
+<sup>1</sup> Un congé payé est octroyé aux enseignants et enseignantes de la scolarité obligatoire au terme de leur quinzième année de service.
+
+<sup>2</sup> Le congé est de deux semaines (dix jours de classe), selon le taux d'activité en vigueur lors de la quinzième année de service.
+
+<sup>3</sup> Le congé peut être pris en plusieurs fois. La date du congé est fixée en fonction des besoins de l'école par la direction d'établissement, sur la proposition de l'enseignant ou de l'enseignante.
+
+<sup>4</sup> En cas de cessation d'activité, les congés non pris sont payés sur la base du dernier traitement mensuel, en proportion de celui-ci.
+
+## 6 Indemnité de transport
+
+#### Art. 44
+
+**Déplacement de service**
+
+<sup>1</sup> Le déplacement de service est le déplacement effectué par le personnel enseignant, sur ordre de la direction d'établissement, pour se rendre à un lieu de travail autre que les lieux où il enseigne. Sont exceptés les déplacements au sein d'un même cercle scolaire primaire.
+
+<sup>2</sup> Le déplacement de service donne droit à l'indemnité de transport conformément aux articles 122 à 127 RPers.
+
+#### Art. 45
+
+**Trajets aux lieux de travail du personnel enseignant itinérant de l'école primaire**
+
+<sup>1</sup> Le personnel enseignant itinérant est indemnisé pour les trajets qu'il effectue pour se rendre:
+
+- a) aux lieux de travail situés hors de la commune de domicile, lorsque la commune de domicile est également un lieu de travail;
+- b) aux lieux de travail situés au-delà d'un rayon compris entre la commune de domicile et le lieu de travail le plus rapproché de celle-ci, lorsque les lieux de travail sont tous situés hors de la commune de domicile; les directions d'établissement s'assurent que l'horaire hebdomadaire du personnel itinérant implique des déplacements organisés de manière rationnelle et économique.
+
+<sup>2</sup> L'indemnisation se fait par la prise en compte de la durée des trajets dans l'horaire d'enseignement et par le versement d'une indemnité de transport.
+
+#### Art. 46
+
+**Prise en compte de la durée des trajets**
+
+<sup>1</sup> La durée des trajets est convertie en unités d'enseignement de la façon suivante: (nombre de kilomètres effectués en 1 semaine x 0,5) / (60 km/h).
+
+#### Art. 47
+
+**Montant de l'indemnité**
+
+<sup>1</sup> L'indemnité de transport est calculée selon le barème figurant dans l'annexe II RPers.
+
+## 7 Prise en compte d'une activité antérieure lors de la fixation du traitement
+
+#### Art. 48
+
+**Prise en compte d'une activité d'enseignement antérieure dans le canton**
+
+<sup>1</sup> Les années d'enseignement dispensées dans une école publique du canton préalablement à une cessation des rapports de service sont prises en compte, lors de la fixation du nouveau traitement, par l'octroi d'un palier pour une année d'enseignement, quel que soit le taux d'activité qu'exerçait la personne et dans la mesure où celle-ci était titulaire du diplôme requis. En l'absence du diplôme requis, un palier est octroyé pour deux années d'enseignement.
+
+<sup>2</sup> Toutefois, le nouveau traitement ne peut être supérieur à celui des personnes restées au service de l'Etat et ayant eu le même parcours professionnel.
+
+<sup>3</sup> A la suite de l'obtention d'un diplôme dans un degré subséquent, le traitement de la personne qui change de degré est fixé dans la classe qui correspond à la fonction, le palier acquis étant maintenu.
+
+#### Art. 49
+
+**Prise en compte d'une activité d'enseignement antérieure dans un autre canton ou une institution spécialisée conventionnée**
+
+<sup>1</sup> Les années d'enseignement dispensées dans une école publique d'un autre canton ou dans une école spécialisée conventionnée sont prises en compte aux mêmes conditions que celles qui sont mentionnées à l'article 48, dans la mesure où ces années sont attestées par le canton concerné ou par la direction de l'institution concernée.
+
+#### Art. 50
+
+**Prise en compte d'une activité d'enseignement antérieure dans une école privée**
+
+<sup>1</sup> Les années d'enseignement dispensées dans une école privée peuvent être prises en compte. La Direction statue sur la base des diplômes et d'une attestation de travail de l'école privée précisant le type d'enseignement, le degré concerné, le taux d'activité et la durée.
+
+#### Art. 51
+
+**Prise en compte d'une autre activité antérieure**
+
+<sup>1</sup> L'expérience professionnelle acquise dans des domaines autres que l'enseignement à un taux d'activité d'au moins 50 % peut être prise en compte, lors de la fixation du nouveau traitement, par l'octroi d'un à trois paliers suivant le type et la durée de l'activité.
+
+<sup>2</sup> Les personnes qui ont interrompu leur activité professionnelle pour s'acquitter de leurs obligations parentales (jusqu'aux 16 ans révolus de l'enfant le plus jeune), ou qui ont exercé une activité socio-éducative, socio-culturelle ou humanitaire s'inscrivant dans le cadre d'institutions publiques ou reconnues d'intérêt public, peuvent obtenir un palier pour trois années complètes d'activité, mais au maximum trois paliers.
+
+#### Art. 52
+
+**Compléments de formation**
+
+<sup>1</sup> Lors d'un réengagement, la direction d'établissement s'assure de l'actualité des connaissances et des compétences de l'enseignant ou de l'enseignante en exigeant de sa part, si nécessaire, une formation complémentaire. Les compléments de formation ainsi que les modalités financières font l'objet d'une convention entre la Direction et l'enseignant ou l'enseignante.
+
+## 8 Traitements du personnel enseignant remplaçant
+
+#### Art. 53
+
+**Classification des traitements des remplaçants et remplaçantes pour une durée égale ou supérieure à trois mois**
+
+<sup>1</sup> Les traitements des remplaçants et remplaçantes sont classés comme il suit:
+
+- a) les enseignants et enseignantes déjà sous contrat gardent leur classification;
+- b) pour les enseignants et enseignantes sans contrat, les articles 48, 49 et 50 s'appliquent.
+
+<sup>2</sup> Les remplacements sont rémunérés mensuellement. Le traitement est versé pendant une période égale au nombre de jours d'enseignement accomplis, majoré d'un nombre de jours correspondant au droit aux vacances et jours chômés et aux périodes de non-classe. Le nombre de jours où le traitement est versé est calculé comme il suit: (nombre de jours d'enseignement accomplis x 7 x 52) / (nombre de jours de classe de l'année scolaire en cours).
+
+#### Art. 54
+
+**Remplacements d'une durée inférieure à trois mois**
+
+<sup>1</sup> Pour les remplacements d'une durée inférieure à trois mois, les règles de classification applicables sont les suivantes:
+
+- a) les enseignants et enseignantes déjà sous contrat gardent leur classification;
+- b) les enseignants et enseignantes débutants ou au bénéfice d'une expérience de moins de trois ans obtiennent la classe attribuée à la fonction, palier 0;
+- c) les enseignants et enseignantes au bénéfice d'une expérience de trois ans et plus mais de moins de six ans obtiennent la classe attribuée à la fonction, palier 4;
+- d) les enseignants et enseignantes au bénéfice d'une expérience de six ans et plus obtiennent la classe attribuée à la fonction, palier 7.
+
+<sup>2</sup> Les remplacements sont rémunérés à l'unité d'enseignement, selon la formule prévue à l'article 36.
+
+## 9 Conditions d'engagement des personnes qui ne possèdent pas le diplôme requis
+
+#### Art. 55
+
+**Personnes en formation pédagogique**
+
+<sup>1</sup> La Direction peut faire appel à des personnes en formation pédagogique pour assurer un enseignement à temps partiel.
+
+<sup>2</sup> La personne doit être inscrite à l'Université ou dans une haute école pédagogique, et son horaire d'enseignement doit être inférieur ou égal à un mi-temps.
+
+<sup>3</sup> Le contrat est établi pour une année, avec une possibilité de prolongation durant trois ans au maximum. Dans ce cas, aucun palier n'est octroyé.
+
+<sup>4</sup> La rémunération est fixée six classes en dessous de la classe attribuée à la fonction. Toutefois, si la personne a terminé l'ensemble de la formation scientifique requise pour le degré où elle est appelée à enseigner, la rémunération est fixée trois classes en dessous de la classe attribuée à la fonction.
+
+#### Art. 56
+
+**Enseignants ou enseignantes titulaires d'un diplôme valable pour un autre degré d'enseignement**
+
+<sup>1</sup> La Direction peut faire appel à des enseignants ou enseignantes titulaires d'un diplôme valable pour un autre degré d'enseignement.
+
+<sup>2</sup> Lorsqu'un enseignant ou une enseignante enseigne à un degré subséquent à celui qui correspond à son diplôme, sa rémunération est fixée dans la même classe et le même palier que le degré pour lequel il ou elle est diplômé-e. En revanche, son horaire est celui du nouveau degré.
+
+<sup>3</sup> Lorsqu'un enseignant ou une enseignante enseigne à un degré précédant celui qui correspond à son diplôme, sa rémunération est fixée dans la classe attribuée à la fonction du nouveau degré, le palier acquis étant maintenu. En revanche, son horaire est celui du nouveau degré.
+
+<sup>4</sup> Après une formation complémentaire exigée par la Direction, l'enseignant ou l'enseignante peut obtenir une autorisation d'enseigner. Cette autorisation peut lui conférer les mêmes droits salariaux que ceux du personnel enseignant diplômé.
+
+## 10 Dispositions finales
+
+#### Art. 57
+
+**Abrogation**
+
+<sup>1</sup> Le règlement du 6 juillet 2004 relatif au personnel enseignant de la Direction de l'instruction publique, de la culture et du sport (RSF 415.0.11) est abrogé.
+
+#### Art. 58
+
+**Modification**
+
+<sup>1</sup> Le règlement du 17 décembre 2002 du personnel de l'Etat (RSF 122.70.11) est modifié comme il suit:
+
+...
+
+#### Art. 59
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur avec effet rétroactif au 1<sup>er</sup> mars 2016, à l'exception des articles 41 let. b et 53 al. 2, qui entrent en vigueur le 1<sup>er</sup> août 2016.
+
+2016\_036

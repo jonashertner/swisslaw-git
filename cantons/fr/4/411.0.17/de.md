@@ -1,0 +1,58 @@
+---
+canton: FR
+number: "411.0.17"
+title: Verordnung über die Festlegung der Inspektoratskreise für die Inspektion der Primarschulen und Orientierungsschulen
+language: de
+version: 2015-08-01
+version_adopted: 2015-03-16
+adopted: 2015-03-16
+in_force: 2015-08-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/411.0.17"
+pdf: "https://bdlf.fr.ch/api/de/versions/5159/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über die Festlegung der Inspektoratskreise für die Inspektion der Primarschulen und Orientierungsschulen
+
+vom 16.03.2015 (Fassung in Kraft getreten am 01.08.2015)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf Artikel 52 des Gesetzes vom 9. September 2014 über die obligatorische Schule;
+
+auf Antrag der Direktion für Erziehung, Kultur und Sport,
+
+beschliesst:
+
+#### Art. 1
+
+<sup>1</sup> Der Kanton wird in 11 Inspektoratskreise eingeteilt für die Inspektion der Primarschulen und Orientierungsschulen: 8 französischsprachige Inspektoratskreise und 3 deutschsprachige Inspektoratskreise.
+
+<sup>2</sup> Den Kreisen sind die Schulen folgender Gemeinden oder Bezirke zugeordnet:
+
+- a) Kreis 1: Broyebezirk, Bas-Vully, Courgevaux, Cressier, Haut-Vully, Morat
+- b) Kreis 2: Arconciel, Autafond, Barberêche, Belfaux, Courtepin (f), Ependes, Ferpicloz, Fribourg-Ville, Grolley, Marly, Misery-Courtion, Le Mouret, Pierrafortscha, Senèdes, La Sonnaz, Treyvaux, Villarepos, Villarsel-sur-Marly, Wallenried
+- c) Kreis 3: Chésopelloz, Corminbœuf, Fribourg-Ville, Givisiez, Granges-Paccot, Villars-sur-Glâne
+- d) Kreis 4: Autigny, Avry, La Brillaz, Chénens, Corpataux-Magnedens, Corserey, Cottens, Farvagny, Le Glèbe, Hauterive (FR), Matran, Neyruz, Noréaz, Ponthaux, Prez-vers-Noréaz, Rossens, Vuisternens-en-Ogoz
+- e) Kreis 5: Glanebezirk
+- f) Kreis 6: Bulle, Corbières, Echarlens, Hauteville, Marsens, Morlon, Pont-en-Ogoz, Pont-la-Ville, Riaz, La Roche, Sâles, Sorens
+- g) Kreis 7: Bas-Intyamon, Botterens, Broc, Bulle, Châtel-sur-Montsalvens, Corbières, Crésuz, Grandvillard, Gruyères, Haut-Intyamon, Le Pâquier, Val-de-Charmey, Vaulruz, Vuadens
+- h) Kreis 8: Vivisbachbezirk
+- i) Kreis 9: Courlevon, Courtepin (d), Fräschels, Galmiz, Gempenach, Greng, Jaun, Jeuss, Kerzers, Lurtigen, Meyriez, Muntelier, Murten, Ried bei Kerzers, Salvenach, Stadt Freiburg, Ulmiz
+- j) Kreis 10: Bösingen, Düdingen, Gurmels, Kleinbösingen, Schmitten, Ueberstorf, Wünnewil-Flamatt
+- k) Kreis 11: Alterswil, Brünisried, Giffers, Heitenried, Liechtena Schwarzsee, Oberschrot, Plaffeien, Plasselb, Rechthalten, St. Antoni, St. Silvester, St. Ursen, Tafers, Tentlingen, Zumholz.
+
+#### Art. 2
+
+<sup>1</sup> Ein Inspektoratskreis umfasst die ganze obligatorische Schulzeit vom ersten bis elften Jahr gemäss HarmoS (1H–11H).
+
+#### Art. 3
+
+<sup>1</sup> Die neuen Kreise werden spätestens bis Schuljahresbeginn 2018/19 implementiert.
+
+#### Art. 4
+
+<sup>1</sup> Diese Verordnung tritt am 1. August 2015 in Kraft.
+
+2015\_036

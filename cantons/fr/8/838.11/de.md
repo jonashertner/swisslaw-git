@@ -1,0 +1,56 @@
+---
+canton: FR
+number: "838.11"
+title: Beschluss über die Anerkennung einer Eheberatungsstelle
+language: de
+version: 2003-01-01
+version_adopted: 2003-04-08
+adopted: 1988-04-19
+in_force: 1988-05-01
+url: "https://bdlf.fr.ch/app/de/texts_of_law/838.11"
+pdf: "https://bdlf.fr.ch/api/de/versions/6316/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Beschluss über die Anerkennung einer Eheberatungsstelle
+
+vom 19.04.1988 (Fassung in Kraft getreten am 01.01.2003)
+
+Der Staatsrat des Kantons Freiburg
+
+gestützt auf Artikel 171 des Zivilgesetzbuches;
+
+gestützt auf Artikel 55 des Einführungsgesetzes vom 22. November 1911 zum Schweizerischen Zivilgesetzbuch;
+
+in Erwägung:
+
+Nach den neuen Bestimmungen des Zivilgesetzbuches (ZGB) über das Eherecht müssen die Kantone dafür sorgen, dass sich die Ehegatten an Ehe- oder Familienberatungsstellen wenden können (Art. 171 ZGB). Gemäss Artikel 55 des Einführungsgesetzes vom 22. November 1911 (EG-ZGB), abgeändert am 14. Mai 1987, ist der Staatsrat für die Anerkennung und Einrichtung der Ehe- und Familienberatungsstellen zuständig.
+
+Das Office familial ist eine Vereinigung im Sinne der Artikel 60ff. ZGB und führt seit 1973 einen Eheberatungsdienst. Dieser Eheberatungsdienst ist der einzige im Kanton und ist der Fédération romande des services de consultation conjugale angeschlossen. Sein Ziel besteht darin, den Ehegatten bei der Bewältigung von Eheschwierigkeiten beizustehen. Im Jahre 1987 verzeichnete er 749 Konsultationen.
+
+Da dieser Eheberatungsdienst bereits seit mehreren Jahren gut funktioniert, ist es nicht nötig, eine Ehe- oder Familienberatungsstelle zu schaffen. Andererseits ist es angebracht, ihn nach Artikel 55 EG-ZGB anzuerkennen und zu subventionieren.
+
+Auf Antrag der Gesundheits- und Sozialfürsorgedirektion,
+
+beschliesst:
+
+#### Art. 1
+
+<sup>1</sup> Der Eheberatungsdienst des Office familial wird als Eheberatungsstelle anerkannt.
+
+#### Art. 2
+
+<sup>1</sup> Es wird ihm ein jährlicher Beitrag ausbezahlt.
+
+#### Art. 3
+
+<sup>1</sup> Er unterbreitet der Direktion für Gesundheit und Soziales jedes Jahr seine Jahresrechnung und seinen Jahresvoranschlag.
+
+#### Art. 4
+
+<sup>1</sup> Dieser Beschluss tritt am 1. Mai 1988 in Kraft.
+
+<sup>2</sup> Er ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
+
+BL/AGS 1988 f 136 / d 140

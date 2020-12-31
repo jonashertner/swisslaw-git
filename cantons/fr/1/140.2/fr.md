@@ -1,0 +1,114 @@
+---
+canton: FR
+number: "140.2"
+title: Loi sur les agglomérations
+short: LAgg
+language: fr
+version: 2021-01-01
+valid_until: 2022-12-31
+version_adopted: 2020-08-21
+adopted: 2020-08-21
+in_force: 2021-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/140.2"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6679/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur les agglomérations
+
+Agglomérations – L
+
+(LAgg)
+
+du 21.08.2020 (version entrée en vigueur le 01.01.2021)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu l'article 134 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
+
+Vu la loi du 25 septembre 1980 sur les communes (LCo);
+
+Vu la loi du 6 avril 2001 sur l'exercice des droits politiques (LEDP);
+
+Vu le message 2016-DIAF-31 du Conseil d'Etat du 7 janvier 2020;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+<sup>1</sup> La présente loi a pour but de promouvoir la collaboration horizontale et verticale des espaces fonctionnels définis dans les dispositions fédérales en matière de projets d'agglomération.
+
+<sup>2</sup> Elle définit:
+
+- a) le soutien à apporter par l'Etat aux projets d'agglomération;
+- b) les formes des organismes responsables chargés de l'élaboration et de la mise en œuvre des projets d'agglomération.
+
+## 2 Soutien de l'Etat aux projets d'agglomération
+
+#### Art. 2
+
+**Principe**
+
+<sup>1</sup> L'Etat encourage les démarches de collaboration entreprises par les communes faisant partie d'un périmètre de projet d'agglomération.
+
+#### Art. 3
+
+**Accompagnement des projets d'agglomération**
+
+<sup>1</sup> L'Etat est associé aux travaux des organismes chargés de l'élaboration, de la mise en œuvre ainsi que du suivi des études et des mesures bénéficiant d'un soutien financier.
+
+<sup>2</sup> Les dispositions de l'article 27 al. 2 de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions demeurent réservées.
+
+#### Art. 4
+
+**Conditions et modalités du soutien de l'Etat**
+
+<sup>1</sup> L'Etat soutient financièrement les études d'élaboration des projets d'agglomération à raison de 30 % des coûts totaux, jusqu'à un montant maximal de 300'000 francs par période de planification. Les coûts totaux de référence sont déterminés après déduction des subventions fédérales et, le cas échéant, des subventions cantonales prévues par d'autres lois. Le Conseil d'Etat arrête les autres critères d'octroi de ce soutien financier.
+
+<sup>2</sup> L'Etat peut accorder un soutien financier aux organismes responsables de la mise en œuvre des mesures des projets d'agglomération pour les mesures d'infrastructures de transports et de requalification des espaces publics, après déduction, le cas échéant, des subventions fédérales et des subventions cantonales prévues par d'autres lois.
+
+<sup>3</sup> Le règlement d'exécution détermine le processus de reconnaissance des mesures ainsi que les modalités d'octroi et le taux du soutien financier. Le Conseil d'Etat fixe le montant maximal du soutien financier pour chaque génération de projet d'agglomération.
+
+#### Art. 5
+
+**Coordination**
+
+<sup>1</sup> Le préfet assure la coordination entre les communes faisant partie d'un périmètre de projet d'agglomération et les communes de son district situées à l'extérieur du périmètre du projet ainsi que la coordination entre le projet d'agglomération et le plan directeur régional ou les plans directeurs régionaux incluant des communes de son district.
+
+<sup>2</sup> L'Etat veille à la coordination entre les projets d'agglomération et le plan directeur cantonal.
+
+## 3 Organismes responsables
+
+#### Art. 6
+
+**Formes des organismes responsables**
+
+<sup>1</sup> Pour élaborer et mettre en œuvre leur projet d'agglomération, les communes se constituent en association de communes au sens des articles 109 et suivants LCo.
+
+<sup>2</sup> Le Conseil d'Etat peut, en outre, autoriser:
+
+- a) un organisme intercantonal à se charger de l'élaboration et de la mise en œuvre d'un projet d'agglomération; il conclut, à cet effet, une convention avec le ou les cantons voisins;
+- b) une commune, si elle respecte les dispositions fédérales en la matière, à élaborer et mettre en œuvre un projet d'agglomération.
+
+#### Art. 7
+
+**Tâches obligatoires**
+
+<sup>1</sup> Les tâches de l'organisme responsable comprennent les thématiques obligatoires couvertes par les dispositions fédérales sur les projets d'agglomération.
+
+## 4 Disposition transitoire
+
+#### Art. 8
+
+<sup>1</sup> Dans les deux ans suivant l'entrée en vigueur de la présente loi, le Conseil d'Etat fixe le périmètre des entités chargées de l'élaboration et de la mise en œuvre des projets d'agglomération déjà constituées.
+
+<sup>2</sup> Les communes comprises dans le périmètre fixé par le Conseil d'Etat disposent d'un délai de deux ans à compter de la fixation de ce périmètre pour, sous la conduite du préfet, adapter les statuts de l'entité constituée ou élaborer de nouveaux statuts. Le préfet compétent est le préfet du district qui comprend le plus grand nombre de communes concernées.
+
+<sup>3</sup> Passé ce délai, le Conseil d'Etat se substitue aux communes pour adapter ou élaborer les statuts de l'association de communes.
+
+2020\_098

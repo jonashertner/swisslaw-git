@@ -1,0 +1,557 @@
+---
+canton: FR
+number: "900.2"
+title: Loi sur la politique foncière active
+short: LPFA
+language: fr
+version: 2020-01-01
+valid_until: 2025-12-31
+version_adopted: 2019-10-18
+adopted: 2019-10-18
+in_force: 2020-01-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/900.2"
+pdf: "https://bdlf.fr.ch/api/fr/versions/7206/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Loi sur la politique foncière active
+
+Politique foncière active - L
+
+(LPFA)
+
+du 18.10.2019 (version entrée en vigueur le 01.01.2020)
+
+Le Grand Conseil du canton de Fribourg
+
+Vu les articles 54, 57, 72 et 104 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
+
+Vu les articles 4 al. 2, 52, 54, 59a, 59b, 59c et 61 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA);
+
+Vu les articles 14 et suivants de loi du 3 octobre 1996 sur la promotion économique (LPEc);
+
+Vu l'article 10 al. 1 let. d de la loi du 2 décembre 2008 sur l'aménagement du territoire et les constructions (LATeC);
+
+Vu le message 2017-DEE-60 du Conseil d'Etat du 7 mai 2019;
+
+Sur la proposition de cette autorité,
+
+Décrète:
+
+## 1 Dispositions générales
+
+#### Art. 1
+
+**Objets**
+
+<sup>1</sup> La présente loi délimite le cadre de la politique foncière active du canton de Fribourg et définit les compétences et missions attribuées au Conseil d'Etat.
+
+<sup>2</sup> Elle fixe également le statut et les règles d'organisation et de gestion de l'entité chargée de la mise en œuvre de cette politique ainsi que ses missions et son financement.
+
+<sup>3</sup> Elle règle enfin le fonctionnement, la gestion et la surveillance du Fonds cantonal de politique foncière active destiné à financer la mise en œuvre de cette politique.
+
+#### Art. 2
+
+**Buts**
+
+<sup>1</sup> La politique foncière active a pour buts de renforcer la politique de promotion économique et de contribuer au maintien et au développement de l'activité économique sur le territoire cantonal, dans le respect du développement durable.
+
+<sup>2</sup> Elle est destinée à favoriser l'implantation et le développement des entreprises par la mise à leur disposition d'une offre de terrains et de bâtiments (ci-après: immeubles) à même de répondre efficacement à leurs besoins.
+
+<sup>3</sup> Elle soutient la mise en œuvre de la politique cantonale d'aménagement du territoire relative aux zones d'activités.
+
+#### Art. 3
+
+**Stratégie de politique foncière active**
+
+<sup>1</sup> La stratégie de politique foncière active de l'Etat vise à la gestion et à la valorisation d'immeubles à des fins de promotion économique. En outre, elle favorise la réalisation des objectifs d'aménagement du territoire au niveau des zones d'activités, lorsqu'un projet spécifique l'exige.
+
+<sup>2</sup> Elle est mise en œuvre en priorité sur des immeubles situés dans des zones d'activités cantonales.
+
+<sup>3</sup> A titre subsidiaire, elle peut être mise en œuvre sur des immeubles situés dans d'autres zones lorsque l'action de l'Etat exerce un effet déclencheur sur le développement d'un site présentant un fort potentiel économique.
+
+#### Art. 4
+
+**Rôle de l'Etat à l'égard des autres acteurs**
+
+<sup>1</sup> L'Etat poursuit une politique foncière active fondée sur une approche complémentaire avec les autres acteurs publics et privés du marché foncier, dans l'intérêt de la promotion économique du canton.
+
+<sup>2</sup> Il collabore avec les régions et les communes dans le respect de leurs compétences ainsi que des politiques et activités menées à l'échelle régionale et locale. En outre, il coordonne son action avec celles-ci en veillant notamment à les tenir informées des différents projets les concernant.
+
+#### Art. 5
+
+**Réserve**
+
+<sup>1</sup> Les dispositions de politique foncière active prévues par la législation sur l'aménagement du territoire et sur la promotion économique sont réservées.
+
+## 2 Organisation
+
+### 2.1 Organisation générale
+
+#### Art. 6
+
+**Conseil d'Etat**
+
+<sup>1</sup> Le Conseil d'Etat est responsable de la conduite de la politique foncière active.
+
+<sup>2</sup> A cet effet, il fixe la stratégie de sa mise en œuvre en assurant la coordination avec les autres politiques publiques cantonales.
+
+<sup>3</sup> Il exerce cette mission avec l'appui de la délégation du Conseil d'Etat pour les affaires économiques et financières.
+
+<sup>4</sup> Il exerce en outre les autres compétences qui lui sont attribuées par la présente loi ou celles qui ne sont pas expressément confiées à une autre autorité.
+
+#### Art. 7
+
+**Etablissement cantonal**
+
+<sup>1</sup> L'Etat entend promouvoir la mise en œuvre efficace de sa politique foncière active en confiant, par le biais d'un mandat de prestations, la réalisation des missions mentionnées aux articles 22 et 23 à une entité de droit public désignée sous l'appellation «Etablissement cantonal de promotion foncière».
+
+### 2.2 Etablissement cantonal de promotion foncière
+
+### 2.2.1 Constitution
+
+#### Art. 8
+
+<sup>1</sup> L'Etablissement cantonal de promotion foncière (ci-après: l'Etablissement) est un établissement autonome de droit public doté de la personnalité juridique.
+
+<sup>2</sup> Il est rattaché administrativement à la Direction chargée de l'économie et de l'emploi[^8-1] (ci-après: la Direction).
+
+<sup>3</sup> Il a son siège à Fribourg.
+
+[^8-1]: Actuellement: Direction de l'économie, de l'emploi et de la formation professionnelle.
+
+### 2.2.2 Organes
+
+#### Art. 9
+
+**En général**
+
+<sup>1</sup> Les organes de l'Etablissement sont les suivants:
+
+- a) le conseil d'administration (ci-après: le conseil);
+- b) la direction;
+- c) l'organe de révision.
+
+#### Art. 10
+
+**Conseil – Composition et nomination**
+
+<sup>1</sup> Le conseil est l'organe supérieur de l'Etablissement.
+
+<sup>2</sup> Il est composé de cinq membres, à savoir:
+
+- a) le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge de l'économie et de l'emploi[^10-1];
+- b) deux député‑e‑s élus par le Grand Conseil;
+- c) deux experts ou expertes externes bénéficiant de connaissances spécifiques et reconnues dans les domaines d'activités exercées par l'Etablissement, en particulier ceux du développement économique, de l'immobilier et du développement territorial; les deux experts ou expertes sont élus par le Grand Conseil, sur la proposition du Conseil d'Etat.
+
+<sup>3</sup> La loi réglant la durée des fonctions publiques accessoires est applicable à la durée du mandat et à la rééligibilité des membres.
+
+<sup>4</sup> Le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge de l'économie et de l'emploi[^10-2] préside le conseil.
+
+<sup>5</sup> Le conseil désigne son vice-président ou sa vice-présidente.
+
+[^10-1]: Actuellement: le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge de l'économie, de l'emploi et de la formation professionnelle.
+[^10-2]: Actuellement: le conseiller d'Etat-Directeur ou la conseillère d'Etat-Directrice en charge de l'économie, de l'emploi et de la formation professionnelle.
+
+#### Art. 11
+
+**Conseil – Séances et mode de décision**
+
+<sup>1</sup> Le président ou la présidente convoque le conseil chaque fois que les affaires le requièrent, mais au moins une fois par trimestre.
+
+<sup>2</sup> Il ou elle le réunit, en outre, à la demande écrite de deux membres au moins du conseil ou de la direction.
+
+<sup>3</sup> Le conseil délibère valablement selon un mode de décision prise à la majorité simple.
+
+#### Art. 12
+
+**Conseil – Participation de tiers aux séances**
+
+<sup>1</sup> Le conseil peut inviter à ses séances, avec voix consultative, toutes les personnes qu'il estime nécessaires.
+
+<sup>2</sup> Il peut faire appel à des experts ou expertes externes.
+
+#### Art. 13
+
+**Conseil – Attributions**
+
+<sup>1</sup> Le conseil répond de sa gestion devant le Conseil d'Etat.
+
+<sup>2</sup> Il a notamment les attributions suivantes:
+
+- a) déterminer, en conformité avec la stratégie fixée dans le mandat, la mise en œuvre des missions de l'Etablissement;
+- b) prendre toutes les décisions relatives à des actes touchant à des immeubles de l'Etat ainsi qu'à ses propres immeubles, en se fondant sur le cadre fixé par le mandat;
+- c) fixer l'organisation générale de l'Etablissement, en édictant les règlements qui devront faire l'objet d'une approbation par le Conseil d'Etat, notamment en matière de fonctionnement du conseil et de délégation de compétences;
+- d) régler, dans le cadre des prescriptions légales et après avoir consulté le service en charge du personnel, les conditions générales d'engagement et de rémunération des collaborateurs et collaboratrices ainsi qu'approuver les besoins en personnel de l'Etablissement;
+- e) déterminer le budget annuel et le plan financier pour la période à venir;
+- f) adopter les rapports de gestion et les comptes révisés;
+- g) proposer la conclusion, la modification et la résiliation des rapports de travail de la direction;
+- h) adopter toutes les mesures qui s'imposent afin de préserver l'Etablissement des risques, notamment financiers, dans l'exercice de ses missions.
+
+#### Art. 14
+
+**Conseil – Rétribution**
+
+<sup>1</sup> La rétribution des membres du conseil est fixée par le Conseil d'Etat.
+
+#### Art. 15
+
+**Direction – Statut**
+
+<sup>1</sup> La direction est composée d'un directeur ou d'une directrice qui est nommé‑e par le Conseil d'Etat, sur la proposition du conseil.
+
+<sup>2</sup> Les tâches du directeur ou de la directrice sont définies dans un cahier des charges arrêté par le conseil.
+
+<sup>3</sup> Le directeur ou la directrice est placé‑e sous la surveillance du conseil auquel il ou elle fait régulièrement rapport.
+
+#### Art. 16
+
+**Direction – Attributions**
+
+<sup>1</sup> La direction a les attributions suivantes:
+
+- a) préparer les affaires qui relèvent du conseil;
+- b) diriger les affaires de l'Etablissement et assumer la responsabilité opérationnelle, notamment à l'égard du conseil;
+- c) prendre toutes les décisions relatives notamment à la gestion des affaires courantes qui sont prévues par le règlement d'organisation; dans une affaire particulière, elle peut se voir déléguer des compétences plus étendues sur décision du conseil;
+- d) exécuter les décisions prises par le conseil;
+- e) représenter l'Etablissement vis-à-vis de l'extérieur;
+- f) assumer toutes les autres tâches qui ne sont pas expressément confiées à un autre organe par la présente loi.
+
+<sup>2</sup> Elle se conforme, dans l'exercice de ses fonctions, aux directives ou instructions édictées par le conseil, portant notamment sur les détails de son organisation et de son fonctionnement.
+
+#### Art. 17
+
+**Organe de révision**
+
+<sup>1</sup> Les comptes de l'Etablissement sont soumis à un contrôle ordinaire au sens des articles 727 et suivants CO, confié à un organe externe désigné par le Conseil d'Etat.
+
+<sup>2</sup> L'organe externe est désigné pour la période du mandat. Son mandat peut être reconduit pour une seule période supplémentaire.
+
+<sup>3</sup> Cet organe présente à la fin de chaque exercice un rapport sur les résultats de son contrôle et le joint aux comptes.
+
+### 2.2.3 Personnel – Statut et prévoyance
+
+#### Art. 18
+
+<sup>1</sup> Les collaborateurs et collaboratrices de l'Etablissement, y compris les membres de la direction, ont un statut de droit public, dont les règles sont définies par la législation sur le personnel de l'Etat.
+
+<sup>2</sup> L'Etablissement est affilié, en qualité d'institution externe, à la Caisse de prévoyance du personnel de l'Etat. Ses collaborateurs et collaboratrices y sont assurés aux conditions prévues par la loi y relative.
+
+### 2.2.4 Fonctionnement
+
+#### Art. 19
+
+**Principes de gestion**
+
+<sup>1</sup> L'Etablissement accomplit sa mission de manière diligente et fidèle aux intérêts de l'Etat et dans le respect des règles d'organisation et de gestion contenues dans la présente loi.
+
+<sup>2</sup> Il règle son organisation interne dans les limites de la loi.
+
+<sup>3</sup> Il est géré selon les principes de l'économie d'entreprise et doit être inscrit au registre du commerce sous la désignation «Etablissement cantonal de promotion foncière».
+
+<sup>4</sup> Pour le surplus, sont applicables les dispositions prévues par la loi sur l'organisation du Conseil d'Etat et de l'administration.
+
+#### Art. 20
+
+**Collaboration avec les autorités et unités administratives**
+
+<sup>1</sup> Dans le cadre de la poursuite de ses missions, l'Etablissement collabore étroitement avec les autorités ainsi qu'avec les unités administratives concernées de l'Etat.
+
+<sup>2</sup> Il veille en particulier à coordonner ses activités avec celles de la Promotion économique du canton de Fribourg.
+
+### 2.2.5 Missions
+
+#### Art. 21
+
+**Mandat de prestations**
+
+<sup>1</sup> Le Conseil d'Etat attribue à l'Etablissement un mandat de prestations (ci-après: mandat), en principe pour une période de cinq ans.
+
+<sup>2</sup> Le mandat précise la stratégie pour la période concernée et décrit les missions à accomplir par l'Etablissement, en s'inscrivant dans le cadre des missions énumérées aux articles 22 et 23. Il fixe également les exigences ainsi que le cadre opérationnel, notamment en termes financiers.
+
+<sup>3</sup> Durant la période initiale, voire au cours des périodes suivantes, le Conseil d'Etat peut réviser annuellement le mandat en vue d'adapter la mission et les ressources nécessaires à son accomplissement.
+
+<sup>4</sup> En cas de changement des circonstances, le Conseil d'Etat peut attribuer en tout temps des mandats complémentaires à l'Etablissement.
+
+<sup>5</sup> Au besoin, il peut également édicter des directives ou recommandations à l'intention de l'Etablissement.
+
+<sup>6</sup> Le Conseil d'Etat transmet le mandat à la Commission des finances et de gestion (CFG) pour information.
+
+#### Art. 22
+
+**Missions générales**
+
+<sup>1</sup> L'Etablissement se voit confier par mandat la mise en œuvre des missions suivantes:
+
+- a) l'acquisition d'immeubles destinés essentiellement à l'activité économique;
+- b) l'exploitation des immeubles dans un souci de gestion efficiente;
+- c) la mise en valeur des immeubles en réalisant les investissements appropriés afin de favoriser l'accueil d'entreprises;
+- d) la mise à la disposition du marché d'immeubles par des opérations telles que la vente, le bail à loyer ou encore le droit de superficie.
+
+<sup>2</sup> L'Etablissement peut collaborer, sur des bases contractuelles, avec des partenaires privés et publics en vue de réaliser et financer un projet spécifique servant un intérêt prépondérant pour le développement économique du canton.
+
+#### Art. 23
+
+**Autres missions**
+
+<sup>1</sup> L'Etablissement fournit aux régions et aux communes des conseils et renseignements gratuits, propices à la mise en valeur et à la promotion efficace des zones d'activités.
+
+<sup>2</sup> L'Etablissement peut fournir des prestations de service, en principe rémunérées, pour des projets qui sont en relation avec ses missions, en faveur des régions, des communes ou de toute autre association ou institution publique.
+
+<sup>3</sup> En collaboration avec les services et autorités compétentes, l'Etablissement accomplit certaines tâches de soutien à la mise en œuvre de la politique d'aménagement du territoire, à savoir notamment:
+
+- a) se charger des modalités d'exécution des décisions relatives au droit d'emption légal exercé par l'Etat conformément à la législation en matière d'aménagement du territoire;
+- b) apporter sa contribution à la mise en œuvre d'études utiles à des projets de planification cantonale;
+- c) administrer et assurer la maintenance technique de la base de données des zones d'activités visant à récolter et à partager les informations fournies par les divers acteurs, en particulier les régions, relatives notamment aux caractéristiques et à la disponibilité des terrains.
+
+<sup>4</sup> Il peut en outre participer à certaines démarches pour trouver une solution adaptée au bon développement des activités économiques d'une entreprise sur le territoire cantonal.
+
+## 3 Propriété des immeubles
+
+### 3.1 Propriété de l'Etat
+
+#### Art. 24
+
+**Transfert**
+
+<sup>1</sup> L'Etat peut transférer à l'Etablissement la propriété de ses immeubles destinés à remplir un objectif de politique foncière active. Il peut aussi lui octroyer des droits limités d'utilisation sur ceux-ci.
+
+<sup>2</sup> Le transfert est réglé conformément aux dispositions de la législation sur les finances de l'Etat.
+
+#### Art. 25
+
+**Droit de réméré**
+
+<sup>1</sup> L'Etat est titulaire d'un droit de réméré sur l'ensemble des immeubles dont il transfère la propriété à l'Etablissement. L'exercice de ce droit doit se fonder sur un motif d'intérêt public prépondérant.
+
+<sup>2</sup> Le rachat s'exerce selon les mêmes conditions financières que celles qui ont prévalu lors du transfert d'origine.
+
+<sup>3</sup> Ce droit fait l'objet d'une mention au registre foncier.
+
+#### Art. 26
+
+**Droit de préemption**
+
+<sup>1</sup> L'Etat est titulaire d'un droit de préemption sur l'ensemble des immeubles dont il transfère la propriété à l'Etablissement. L'exercice de ce droit doit se fonder sur un motif d'intérêt public prépondérant.
+
+<sup>2</sup> L'Etablissement doit annoncer à l'Etat son intention de conclure un contrat de vente ou tout autre acte équivalant économiquement à une vente, ainsi que son contenu, avant la constitution du droit ou le dépôt de l'acte au registre foncier.
+
+<sup>3</sup> Si l'Etat entend exercer son droit, il doit interpeller préalablement l'Etablissement et les tiers acquéreurs en leur faisant part de ses intentions et leur offrir la possibilité de se déterminer.
+
+<sup>4</sup> L'Etat doit invoquer son droit dans les vingt jours au plus tard à compter du moment où il a eu connaissance de la conclusion du contrat et de son contenu.
+
+<sup>5</sup> Le droit s'exerce selon les mêmes conditions financières que celles qui ont prévalu lors du transfert d'origine.
+
+<sup>6</sup> Ce droit fait l'objet d'une mention au registre foncier.
+
+### 3.2 Propriété de l'Etablissement
+
+#### Art. 27
+
+**Principes**
+
+<sup>1</sup> L'Etablissement acquiert la propriété des immeubles qui lui sont transférés par l'Etat en vertu de l'article 24.
+
+<sup>2</sup> Il peut aussi acquérir, sous certaines conditions définies à l'article 32, des immeubles autres que ceux qui sont transférés par l'Etat.
+
+#### Art. 28
+
+**Droit de préemption**
+
+<sup>1</sup> L'Etat est titulaire d'un droit de préemption sur les immeubles de l'Etablissement autres que ceux qu'il lui a transférés.
+
+<sup>2</sup> Les conditions de l'article 26, sous réserve de l'alinéa 3 ci-après, sont applicables par analogie.
+
+<sup>3</sup> Le droit s'exerce à la valeur vénale des immeubles.
+
+### 3.3 Droit de disposer
+
+#### Art. 29
+
+<sup>1</sup> L'Etablissement ne peut pas disposer, sans l'accord de l'Etat, des immeubles dont la gestion lui est confiée par mandat, ni constituer sur ceux-ci des droits limités d'utilisation en faveur de tiers.
+
+<sup>2</sup> En revanche, et sous réserve des limitations prévues par les articles 25, 26 et 28, il peut disposer librement des immeubles dont il est inscrit comme propriétaire au registre foncier. Il fixe des conditions spéciales avec les tiers contractants, dont le but est de s'assurer que l'utilisation des immeubles sera conforme aux objectifs fixés par mandat.
+
+## 4 Finances
+
+#### Art. 30
+
+**Principes de financement**
+
+<sup>1</sup> L'Etat finance les activités de l'Etablissement dans les limites des ressources disponibles dans le Fonds cantonal de politique foncière active prévu aux articles 42 et suivants.
+
+<sup>2</sup> En cas d'épuisement des moyens du Fonds, et faute d'alimentation de ce dernier en temps utile, le financement de l'Etablissement peut se faire subsidiairement par un recours à des ressources externes.
+
+#### Art. 31
+
+**Financement des immeubles de l'Etat**
+
+<sup>1</sup> L'Etat finance les moyens nécessaires permettant de couvrir les charges nettes liées à l'exploitation des immeubles confiés par mandat à l'Etablissement.
+
+<sup>2</sup> Il finance également les dépenses d'investissement qui y sont liées. Sont réservées les règles en matière de participation financière des frais d'équipement conformément à la législation en matière d'aménagement du territoire.
+
+#### Art. 32
+
+**Financement des immeubles de l'Etablissement**
+
+<sup>1</sup> L'Etablissement finance par son capital propre les dépenses d'acquisition ainsi que les dépenses d'investissement et de charges liées à l'exploitation et à la mise en valeur de ses immeubles.
+
+<sup>2</sup> Il peut aussi financer ces dépenses en recourant à un financement de l'Etat sous forme de dotation en capital ou de prêts ainsi qu'à des prêts d'entités privées.
+
+<sup>3</sup> Les prêts accordés à l'Etablissement par des entités privées ne sont autorisés que dans la limite d'endettement fixée par le Conseil d'Etat dans le mandat. Cette limite est déterminée en tenant compte d'un rapport équilibré entre les actifs immobilisés et les fonds étrangers ainsi qu'une part de financement en fonds propres suffisante.
+
+<sup>4</sup> En outre, les prêts accordés par des entités privées qui grèvent des immeubles provenant de l'Etat ne servent qu'à couvrir des dépenses sur ces derniers, à l'exclusion d'autres immeubles.
+
+<sup>5</sup> Les modalités des prêts accordés par l'Etat sont fixées par le mandat, compte tenu du marché des capitaux et de la situation financière de l'Etablissement.
+
+#### Art. 33
+
+**Garantie de l'Etat**
+
+<sup>1</sup> L'Etablissement est responsable de son résultat et répond seul de ses engagements. Il ne dispose à ce titre d'aucune garantie de déficit de la part de l'Etat.
+
+<sup>2</sup> Dans un cas particulier, l'Etat peut fournir une garantie d'emprunt en faveur de l'Etablissement en lien avec la réalisation d'un projet concret.
+
+#### Art. 34
+
+**Rémunération de l'Etat**
+
+<sup>1</sup> L'Etablissement verse à l'Etat des contributions équitables en guise de rémunération pour les moyens financiers ou garantie d'emprunt mis à sa disposition, comprenant les intérêts sur les prêts accordés ainsi qu'une rémunération sur la dotation en capital.
+
+<sup>2</sup> Le Conseil d'Etat fixe dans le mandat la contribution due à l'Etat après négociation avec l'Etablissement. Dans ce cadre, il tient compte tant des résultats que de la planification financière de ce dernier.
+
+#### Art. 35
+
+**Exonération fiscale**
+
+<sup>1</sup> L'Etablissement est exonéré de tout impôt sur le plan cantonal.
+
+<sup>2</sup> Les dispositions de la législation fédérale en matière fiscale sont réservées.
+
+#### Art. 36
+
+**Droit de gage en faveur de l'Etat**
+
+<sup>1</sup> Le paiement de toute obligation ou contrepartie financière d'un droit accordé par l'Etat à l'Etablissement est garanti par une hypothèque légale.
+
+#### Art. 37
+
+**Comptabilité**
+
+<sup>1</sup> L'Etablissement gère ses finances de manière indépendante. A cet égard, il établit sa propre comptabilité.
+
+<sup>2</sup> L'Etablissement est soumis au respect des mêmes principes de gestion financière ainsi que de comptabilité que ceux qui ressortent de la législation sur les finances de l'Etat.
+
+## 5 Contrôle et surveillance
+
+#### Art. 38
+
+**Rapports de gestion**
+
+<sup>1</sup> L'Etablissement présente au Conseil d'Etat, qui en prend connaissance, les rapports suivants sur l'exécution du mandat:
+
+- a) un rapport de gestion annuel;
+- b) un rapport portant sur une période d'exécution du mandat, au terme de l'échéance du mandat.
+
+<sup>2</sup> Les rapports, qui doivent être publiés, comprennent un compte rendu des activités de l'Etablissement et les comptes.
+
+<sup>3</sup> Ils comprennent un inventaire de l'ensemble des immeubles dont l'Etablissement est propriétaire ou dont la gestion lui est confiée par l'Etat ainsi qu'une évaluation de l'efficacité, notamment en termes de rentabilité, des activités menées par l'Etablissement en lien avec chaque immeuble séparément.
+
+#### Art. 39
+
+**Surveillance**
+
+<sup>1</sup> L'Etablissement est soumis à la surveillance du Conseil d'Etat qui l'exerce par les règles fixées par la présente loi.
+
+<sup>2</sup> En outre, le Conseil d'Etat peut exiger en tout temps la remise de documents ou de renseignements en lien avec l'exercice des activités de l'Etablissement.
+
+<sup>3</sup> Le Grand Conseil exerce la haute surveillance sur l'Etablissement.
+
+## 6 Litiges
+
+#### Art. 40
+
+**Relation avec l'Etat**
+
+<sup>1</sup> Les litiges ou prétentions issus des rapports entre l'Etat et l'Etablissement sont réglés en priorité par la voie de la médiation.
+
+<sup>2</sup> A défaut d'entente, l'action de droit administratif peut être intentée conformément au code de procédure et de juridiction administrative.
+
+#### Art. 41
+
+**Responsabilité civile**
+
+<sup>1</sup> L'Etablissement répond seul envers les tiers lésés des dommages causés de manière illicite et fautive par ses organes et ses collaborateurs et collaboratrices dans l'accomplissement de leurs tâches.
+
+<sup>2</sup> Il dispose d'une action récursoire contre la personne fautive, même après la cessation des rapports de service, si celle-ci a agi intentionnellement ou par négligence grave.
+
+<sup>3</sup> Pour le surplus, la loi sur la responsabilité civile des collectivités publiques et de leurs agents s'applique par analogie.
+
+## 7 Fonds cantonal de politique foncière active
+
+#### Art. 42
+
+**But**
+
+<sup>1</sup> Le Fonds cantonal de politique foncière active (ci-après: le Fonds) institué par la loi sur les finances de l'Etat a pour but d'encourager la mise en œuvre de la politique foncière active du canton.
+
+#### Art. 43
+
+**Ressources**
+
+<sup>1</sup> Le Fonds est alimenté par:
+
+- a) une dotation initiale d'un montant de 100 millions de francs;
+- b) une éventuelle part d'excédents de financement lors de la clôture des comptes de l'Etat;
+- c) les contributions versées par l'Etablissement à l'Etat à titre de rémunération;
+- d) les produits issus de la vente ou de toute autre opération de mise à disposition des immeubles de l'Etat.
+
+<sup>2</sup> La compétence pour affecter d'autres montants dans le Fonds suit les règles en matière de compétences financières posées par la législation sur les finances de l'Etat.
+
+<sup>3</sup> Le Conseil d'Etat veille à ce que le Fonds dispose des moyens suffisants pour financer les missions de politique foncière active.
+
+#### Art. 44
+
+**Prélèvements**
+
+<sup>1</sup> Le Fonds a pour but de couvrir, dans la mesure des ressources disponibles, le financement des éléments suivants:
+
+- a) les missions réalisées par l'Etablissement en faveur de l'Etat, conformément au mandat;
+- b) les dotations et les prêts accordés par l'Etat à l'Etablissement;
+- c) les dépenses consenties en lien avec des immeubles de l'Etat;
+- d) les rétrocessions éventuelles à la fortune non affectée de l'Etat.
+
+<sup>2</sup> La compétence pour décider des prélèvements est réglée conformément aux dispositions de la législation sur les finances de l'Etat.
+
+#### Art. 45
+
+**Gestion**
+
+<sup>1</sup> Le Fonds est géré par l'Administration des finances. Il est intégré au bilan de l'Etat.
+
+#### Art. 46
+
+**Surveillance**
+
+<sup>1</sup> La surveillance de la gestion du Fonds est exercée par le Conseil d'Etat.
+
+<sup>2</sup> L'Inspection des finances procède chaque année au contrôle du Fonds.
+
+## 8 Dispositions finales
+
+#### Art. 47
+
+**Capital de départ**
+
+<sup>1</sup> L'Etat dote l'Etablissement d'un capital de dotation initiale de 2 millions de francs, prélevé sur le Fonds.
+
+#### Art. 48
+
+**Disposition transitoire en matière de propriété**
+
+<sup>1</sup> L'Etablissement se voit transférer par l'Etat, en principe dans un délai de deux ans dès l'entrée en vigueur de la présente loi, les immeubles acquis à des fins de politique foncière active et financés sur la base du Fonds.
+
+<sup>2</sup> Ce délai peut être prolongé par le Grand Conseil sur requête motivée du Conseil d'Etat.
+
+2019\_083

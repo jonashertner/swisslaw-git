@@ -1,0 +1,309 @@
+---
+canton: FR
+number: "835.11"
+title: "Règlement sur les structures d'accueil extrafamilial de jour"
+short: RStE
+language: fr
+version: 2020-01-01
+valid_until: 2023-07-31
+version_adopted: 2019-12-10
+adopted: 2011-09-27
+in_force: 2011-10-01
+url: "https://bdlf.fr.ch/app/fr/texts_of_law/835.11"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6421/pdf_file"
+---
+
+> Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
+
+# Règlement sur les structures d'accueil extrafamilial de jour
+
+Structures d'accueil extrafamilial de jour – R
+
+(RStE)
+
+du 27.09.2011 (version entrée en vigueur le 01.01.2020)
+
+Le Conseil d'Etat du canton de Fribourg
+
+Vu la loi du 9 juin 2011 sur les structures d'accueil extrafamilial de jour (LStE);
+
+Sur la proposition de la Direction de la santé et des affaires sociales,
+
+Arrête:
+
+#### Art. 1
+
+**Organisation**
+
+<sup>1</sup> Le Conseil d'Etat:
+
+- a) fixe, au début de chaque année, le coût moyen des structures en vue du soutien financier de l'Etat (art. 9 al. 5 LStE);
+- b) décide une éventuelle délégation de l'encaissement de la participation des employeurs (art. 10 al. 3 LStE);
+- c) désigne les membres de la commission consultative réunissant les personnes représentant les employeurs et l'Etat (art. 10 al. 4 LStE).
+
+<sup>2</sup> La Direction de la santé et des affaires sociales (ci-après: la Direction):
+
+- a) émet, après consultation des milieux concernés, des directives et des recommandations pour déterminer les conditions d'octroi d'autorisation et de prise en charge;
+- b) rend les décisions relatives au soutien financier de l'Etat (art. 9 LStE);
+- c) publie la grille de référence au sens de l'article 12 al. 2 LStE;
+- d) rend les décisions en matière de soutien à l'encadrement particulier au sens de l'article 13 LStE;
+- e) statue sur les demandes de soutien à la création de places d'accueil en crèche (art. 17 LStE);
+- f) statue sur les demandes de soutien à la création de places d'accueil extrascolaire (art. 18 LStE).
+
+<sup>3</sup> Le Service de l'enfance et de la jeunesse (ci-après: le Service):
+
+- a) délivre l'autorisation d'accueillir, reçoit et enregistre les annonces d'activité;
+- b) surveille les milieux d'accueil ou délègue la compétence à des tiers;
+- c) surveille l'évaluation des besoins en places d'accueil effectuée par les communes;
+- d) recense l'offre en places d'accueil;
+- e) recense et contrôle le nombre d'heures de garde effectives au sens de l'article 9 al. 3 et 4 LStE;
+- f) définit, en collaboration avec l'Administration des finances, les exigences relatives au plan comptable dans les structures subventionnées;
+- g) verse le soutien financier de l'Etat et des employeurs aux structures d'accueil (art. 9 et 10 LStE);
+- h) statue sur les demandes de participation à la formation de base et au perfectionnement du personnel éducatif (art. 14 et 15 LStE);
+- i) conseille les communes et les structures d'accueil.
+
+#### Art. 2
+
+**Accueil extrascolaire (art. 4 LStE)**
+
+<sup>1</sup> Les structures d'accueil préscolaire peuvent offrir un accueil extrascolaire à des enfants fréquentant l'école enfantine.
+
+#### Art. 3
+
+**Coordination (art. 5 LStE)**
+
+<sup>1</sup> Les communes consultent leurs autorités scolaires en vue de favoriser la coordination des offres d'accueil extrascolaire avec les horaires scolaires.
+
+#### Art. 4
+
+**Evaluation des besoins (art. 6 LStE)**
+
+<sup>1</sup> Les communes ou associations de communes évaluent le nombre et le type de places d'accueil nécessaires à la couverture des besoins, selon une démarche vérifiable.
+
+<sup>2</sup> L'évaluation se fonde sur des critères objectifs comme des données statistiquement justifiées, des sondages auprès de la population concernée ou des comparaisons.
+
+<sup>3</sup> Pour le domaine préscolaire, elle comprend au minimum les besoins en matière de crèches, de familles de jour ainsi que de structures ayant pour but premier la socialisation des enfants.
+
+<sup>4</sup> Pour le domaine extrascolaire, elle comprend les besoins de prise en charge permettant la conciliation de la vie familiale et de la vie professionnelle.
+
+<sup>5</sup> Le Service soutient les communes dans l'évaluation par des prestations de conseil et la mise à leur disposition d'outils d'évaluation.
+
+<sup>6</sup> Les résultats de l'évaluation sont communiqués au Service ainsi que, de manière appropriée, aux citoyens et citoyennes.
+
+#### Art. 5
+
+**Conventions (art. 6 LStE)**
+
+<sup>1</sup> Les conventions au sens de l'article 6 LStE règlent au minimum:
+
+- a) le type de places d'accueil, les modalités de l'accueil et le nombre de places d'accueil;
+- b) le mode d'octroi et le montant de la subvention communale;
+- c) les principes de tarification;
+- d) le mode d'approbation du budget, des comptes annuels, du barème des tarifs et du rapport d'activité;
+- e) les échanges de données entre la commune et la structure d'accueil.
+
+<sup>2</sup> Les communes peuvent demander aux structures des données statistiques anonymisées nécessaires à la planification ainsi que le budget, les comptes et le rapport d'activité.
+
+<sup>3</sup> Pour la transmission de données personnelles, les principes généraux de la protection des données s'appliquent. Les communes peuvent notamment demander une liste des enfants domiciliés dans la commune qui fréquentent la structure d'accueil et qui bénéficient d'une subvention, les prestations utilisées par ces enfants et le tarif payé par les parents. La transmission de listes comprenant des revenus imposables n'est licite que dans les cas où la commune participe au financement d'un barème social fondé sur le revenu imposable.
+
+<sup>4</sup> L'Etat peut mettre des conventions types à la disposition des communes.
+
+<sup>5</sup> Les communes transmettent une copie des conventions au Service.
+
+#### Art. 6
+
+**Couverture du besoin (art. 6 LStE)**
+
+<sup>1</sup> Les communes tiennent à jour une liste des structures d'accueil extrafamilial communales ou conventionnées mentionnant l'éventail des prestations offertes.
+
+#### Art. 7
+
+**Soutien financier de l'Etat (art. 9 LStE)**
+
+<sup>1</sup> En vue d'une décision, les structures remettent à l'Etat un décompte des heures de garde effectives dans les formes et les délais prescrits.
+
+<sup>2</sup> Le soutien pour les structures au sens de l'article 9 al. 4 LStE est versé en fonction du coût effectif de chaque structure, mais au maximum au tarif horaire arrêté pour les crèches en vertu de l'alinéa 1 du présent article. Il n'excède pas le soutien des communes.
+
+<sup>3</sup> L'aide financière est versée par acompte trimestriel, à concurrence de 80 % de la subvention présumée. Le solde est versé après remise, par les structures d'accueil, des états financiers et du décompte annuel des heures effectives.
+
+#### Art. 8
+
+**Soutien financier des employeurs et des personnes exerçant une activité lucrative indépendante (art. 10 LStE)**
+
+<sup>1</sup> Sont employeurs ou personnes exerçant une activité lucrative indépendante, au sens de la LStE, les personnes assujetties en tant que tels à la loi fribourgeoise sur les allocations familiales.
+
+<sup>2</sup> Le soutien financier est encaissé par les caisses d'allocations familiales actives dans le canton de Fribourg, qui le reversent à l'Etat.
+
+<sup>3</sup> Les employeurs et les personnes exerçant une activité lucrative indépendante doivent fournir tous les renseignements nécessaires à l'assujettissement, à la fixation et à la perception de la contribution. A défaut, après sommation, la contribution est fixée d'office.
+
+<sup>4</sup> Le soutien est versé par acomptes, et le décompte final est établi après la fin de l'exercice annuel. Le Service répartit le montant entre les structures d'accueil et leur verse la participation.
+
+<sup>5</sup> Le Conseil d'Etat peut déléguer l'encaissement du soutien financier à un organisme faîtier des caisses d'allocations familiales et en régler les modalités dans l'acte de délégation.
+
+<sup>6</sup> La commission consultative réunissant les personnes représentant les employeurs et l'Etat compte cinq à sept membres, dont trois représentent les employeurs. Elle est rattachée administrativement au Service et régie par les règles générales prévalant en la matière. Les personnes représentant les employeurs sont proposées par des organisations faîtières des employeurs.
+
+#### Art. 8a
+
+**Fonds des employeurs et des personnes exerçant une activité lucrative indépendante (art. 10 LStE)**
+
+<sup>1</sup> Un fonds est institué, ayant pour but la distribution, à un taux fixe, du soutien financier des employeurs et des personnes exerçant une activité lucrative indépendante aux structures d'accueil extrafamilial de jour.
+
+<sup>2</sup> Une différence positive entre la contribution des employeurs et des personnes exerçant une activité lucrative indépendante versée à l'Etat et le montant distribué aux structures pour une même année est utilisée pour alimenter le fonds.
+
+<sup>3</sup> Une différence négative entre la contribution des employeurs et des personnes exerçant une activité lucrative indépendante versée à l'Etat et le montant distribué aux structures pour une même année est couverte par le fonds.
+
+<sup>4</sup> Le fonds ne peut pas être en découvert.
+
+<sup>5</sup> Le fonds est géré par le Service de l'enfance et de la jeunesse. Il est intégré au bilan de l'Etat.
+
+<sup>6</sup> L'Inspection des finances contrôle les comptes du fonds.
+
+#### Art. 8b
+
+**Soutien financier du fonds «réforme fiscale»**
+
+<sup>1</sup> Dans les limites des montants disponibles, le fonds «réforme fiscale» a pour but d'apporter un soutien financier aux mesures énoncées à l'article 10a LStE. Il n'y a pas de droit à l'obtention d'un soutien.
+
+<sup>2</sup> Le fonds est alimenté par les recettes provenant de la taxe introduite par l'article 5 al. 1 let. c de la loi du 13 décembre 2018 sur la mise en œuvre de la réforme fiscale.
+
+<sup>3</sup> Les ressources sont réparties comme il suit entre les trois secteurs du fonds:
+
+- a) inciter la création de nouvelles places d'accueil extrafamilial: 1 million de francs par année pendant les cinq premières années;
+- b) développer des modèles de prise en charge innovants (notamment le service de garde d'urgence, les structures dans des lieux stratégiques ou les prestations pour des bénéficiaires avec des besoins particuliers): 230'000 francs par année;
+- c) baisser les tarifs des places d'accueil extrafamilial préscolaire: le solde de la taxe affectée au présent fonds, mais en principe 3,75 millions de francs les cinq premières années et 4,75 millions de francs par année par la suite.
+
+<sup>4</sup> Le Conseil d'Etat détermine le début des versements affectés à la baisse des tarifs au sens de l'alinéa 3 let. c.
+
+<sup>5</sup> La Direction décide de l'utilisation du fonds.
+
+<sup>6</sup> La Direction ou le Service peuvent spécifier les critères d'obtention légaux.
+
+<sup>7</sup> Le fonds est géré par le Service, conformément aux dispositions de la loi sur les finances de l'Etat. Il est intégré au bilan de l'Etat. L'Inspection des finances contrôle les comptes du fonds.
+
+#### Art. 9
+
+**Soutien financier des communes (art. 11 LStE)**
+
+<sup>1</sup> Les communes adaptent leur soutien financier afin de permettre aux structures d'accueil d'introduire des barèmes dégressifs.
+
+#### Art. 10
+
+**Conditions (art. 12 LStE)**
+
+<sup>1</sup> La couverture d'un besoin avéré est présumée lorsque la structure d'accueil présente un taux d'occupation supérieur à 85 %.
+
+<sup>2</sup> Si le taux d'occupation de 85 % n'est pas atteint, le soutien financier de l'Etat et des employeurs peut être accordé pendant deux ans au maximum.
+
+#### Art. 11
+
+**Soutien à l'encadrement particulier (art. 13 LStE)**
+
+<sup>1</sup> Dans les limites du budget, l'Etat peut prendre en charge une partie des coûts résultant de la prise en charge particulière, dans la mesure où la situation l'exige.
+
+<sup>2</sup> Le montant pris en charge est déterminé en fonction des principes d'équité et de proportionnalité ainsi que des critères édictés par la Direction.
+
+<sup>3</sup> Il incombe aux structures d'accueil de démontrer la part de coûts supplémentaires à une prise en charge ordinaire en structure d'accueil extrafamilial.
+
+#### Art. 12
+
+**Frais de formation de base et de perfectionnement du personnel éducatif (art. 14 et 15 LStE)**
+
+<sup>1</sup> Dans les limites du budget, l'Etat peut participer à raison de 25 % aux frais des cours de formation de base et de perfectionnement du personnel éducatif qui répondent à un besoin et qui garantissent des prestations de qualité.
+
+#### Art. 13
+
+**Dispositions transitoires – Contribution des parents (art. 8 LStE)**
+
+<sup>1</sup> Les structures d'accueil répercutent le soutien financier de l'Etat et des employeurs sur les parents et adaptent leurs barèmes des tarifs avec effet au plus tard pour le 1<sup>er</sup> janvier 2012. Pour cette échéance, la Direction adopte une grille de conversion et établit, dans l'année qui suit, la grille de référence.
+
+#### Art. 14
+
+**Dispositions transitoires – Soutien financier des communes (art. 11 LStE)**
+
+<sup>1</sup> Les communes adaptent leur soutien financier au plus tard pour le 1<sup>er</sup> janvier 2013 afin de permettre aux structures d'accueil d'introduire des barèmes dégressifs et financièrement accessibles.
+
+#### Art. 15
+
+**Dispositions transitoires – Fonds d'incitation à la création de places en crèche (art. 17 LStE)**
+
+<sup>1</sup> Peuvent bénéficier du soutien les crèches comptant au moins dix places qui proposent durablement un accueil sur cinq jours de la semaine et quarante-cinq semaines par année.
+
+<sup>2</sup> La Direction fixe les modalités et émet des directives d'application.
+
+#### Art. 16
+
+**Dispositions transitoires – Fonds d'incitation à la création de places d'accueil extrascolaire (art. 18 LStE)**
+
+<sup>1</sup> Peuvent bénéficier du soutien entier ou partiel les structures d'accueil extrascolaire comptant au moins dix places qui proposent durablement au minimum une unité d'accueil (matin, midi ou après-midi) sur quatre jours de la semaine et trente-six semaines par année.
+
+<sup>2</sup> Le soutien entier est versé pour les places ouvertes durablement pendant trois unités d'accueil par jour sur cinq jours de la semaine et quarante-cinq semaines par année. Le soutien est réduit au prorata de l'offre effective pour les structures qui proposent moins d'unités d'accueil.
+
+<sup>3</sup> La Direction fixe les modalités et émet des directives d'application.
+
+#### Art. 16a
+
+**Dispositions transitoires – Fonds «réforme fiscale» (art. 10a LStE)**
+
+<sup>1</sup> En 2020, les montants attribués aux différents secteurs du fonds «réforme fiscale» sont réduits de moitié.
+
+#### Art. 17
+
+**Abrogation**
+
+<sup>1</sup> Le règlement du 25 novembre 1996 d'exécution de la loi sur les structures d'accueil de la petite enfance (RSF 835.11) est abrogé.
+
+#### Art. 18
+
+**Modifications – Enfance et jeunesse**
+
+<sup>1</sup> Le règlement du 17 mars 2009 sur l'enfance et la jeunesse (REJ) (RSF 835.51) est modifié comme il suit:
+
+...
+
+#### Art. 19
+
+**Modifications – Attributions des Directions**
+
+<sup>1</sup> L'ordonnance du 12 mars 2002 fixant les attributions des Directions du Conseil d'Etat et de la Chancellerie d'Etat (OADir) (RSF 122.0.12) est modifiée comme il suit:
+
+...
+
+#### Art. 20
+
+**Modifications – Subventions**
+
+<sup>1</sup> Le règlement du 22 août 2000 sur les subventions (RSub) (RSF 616.11) est modifié comme il suit:
+
+...
+
+#### Art. 21
+
+**Modifications – Promotion de la santé et prévention**
+
+<sup>1</sup> Le règlement du 14 juin 2004 concernant la promotion de la santé et la prévention (RSF 821.0.11) est modifié comme il suit:
+
+...
+
+#### Art. 22
+
+**Modifications – Lutte contre les maladies transmissibles et autres mesures de police sanitaire**
+
+<sup>1</sup> L'arrêté du 5 décembre 2000 sur la lutte contre les maladies transmissibles et autres mesures de police sanitaire (RSF 821.41.11) est modifié comme il suit:
+
+...
+
+#### Art. 23
+
+**Modifications – Promotion de la santé des enfants et adolescents**
+
+<sup>1</sup> Conformément à l'article 24 de la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL), les organes chargés des publications officielles procèdent à la modification suivante de la loi du 16 novembre 1999 sur la santé (LSan) (RSF 821.0.1):
+
+...
+
+#### Art. 24
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent règlement entre en vigueur le 1<sup>er</sup> octobre 2011, à l'exception des articles 7, 8, 9, 10 et 15 qui entrent en vigueur le 1<sup>er</sup> janvier 2012.
+
+2011\_090
