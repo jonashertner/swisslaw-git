@@ -1,0 +1,61 @@
+---
+canton: VD
+number: "413.069.1"
+title: "ARRÊTÉ du 05.01.1994 instituant un Fonds des élèves de l'Ecole d'arts appliqués et des apprentis des Ecoles professionnelles artisanale et commerciale de Vevey (AF-EAAEPV)"
+short: AF-EAAEPV
+language: fr
+version: 1994-01-05
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.069.1?id=88995b60-0246-4d0b-a3e8-23055dc92378"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# ARRÊTÉ instituant un Fonds des élèves de l'Ecole d'arts appliqués et des apprentis des Ecoles professionnelles artisanale et commerciale de Vevey
+
+(AF-EAAEPV)
+
+du 5 janvier 1994
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+vu le préavis du Département de l'agriculture, de l'industrie et du commerce [^ingress-1]
+
+arrête
+
+[^ingress-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+
+#### Art. 1
+
+<sup>1</sup> Il est créé un Fonds en faveur de l'Ecole d'arts appliqués (EAA) et des écoles professionnelles artisanale et commerciale (EP) de Vevey. Le capital initial est constitué par des dons précédemment déposés sur un compte, pour un montant de 11 610 francs.
+
+#### Art. 2
+
+<sup>1</sup> Le fonds est alimenté par des dons et des legs.
+
+#### Art. 3
+
+<sup>1</sup> Le but du fonds est de fournir des aides financières aux élèves de l'EAA et aux apprentis de l'EP et d'acquérir du matériel d'enseignement. Le fonds est notamment affecté:
+
+- a. à l'aide financière aux élèves et aux apprentis, par exemple: courses d'études, fournitures scolaires;
+- b. à l'octroi de prix à des élèves ou des apprentis qui ont obtenu d'excellents résultats et qui ont fait un effort particulier pour atteindre ces résultats;
+- c. à l'octroi de prix pour élèves ou apprentis en raison d'une attitude particulièrement méritoire et positive;
+- d. à l'organisation de concours d'élèves ou d'apprentis;
+- e. à l'acquisition de matériel de démonstration et de didactique;
+- f. à l'acquisition de matériel mis à disposition d'élèves ou d'apprentis;
+- g. à l'encouragement de travaux réalisés par les élèves et apprentis et s'insérant dans les programmes de formation représentant un intérêt pour les Ecoles.
+
+#### Art. 4
+
+<sup>1</sup> Le directeur et deux membres du bureau du Conseil ont qualité pour engager toute dépense, conformément au but défini à l'article 3, jusqu'à concurrence de 10 000 francs. Pour un montant supérieur, ils requièrent l'autorisation du chef du Service de la formation professionnelle.
+
+#### Art. 5
+
+<sup>1</sup> Les montants seront prélevés sur les intérêts et le capital.
+
+#### Art. 6
+
+<sup>1</sup> Le Département des finances est chargé de la gérance de ce fonds dont les biens sont distincts et séparés de ceux de l'Etat.
+
+#### Art. 7
+
+<sup>1</sup> Le Département de l'agriculture, de l'industrie et du commerce est chargé de l'exécution du présent arrêté qui entre immédiatement en vigueur.

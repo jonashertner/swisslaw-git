@@ -1,0 +1,129 @@
+---
+canton: VD
+number: "963.15.3"
+title: "RÈGLEMENT du 17.08.2011 sur l'organisation du secours routier par les sapeurs-pompiers (ROSRSP)"
+short: ROSRSP
+language: fr
+version: 2011-10-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15.3?id=b95b7d20-c083-4eb6-9436-594c49b3ad52"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# RÈGLEMENT sur l'organisation du secours routier par les sapeurs-pompiers
+
+(ROSRSP)
+
+du 17 août 2011
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+vu l'article 1, alinéa 1 de la loi du 2 mars 2010 sur le service de défense contre l'incendie et de secours [^ingress-1]
+
+vu l'article 17a de la loi du 29 mai 1985 sur la santé publique [^ingress-2]
+
+vu le préavis du Département de la sécurité et de l'environnement
+
+vu le préavis du Département de la santé et de l'action sociale
+
+arrête
+
+[^ingress-1]: Loi du 02.03.2010 sur le service de défense contre l'incendie et de secours ([BLV 963.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/963.15?id=dc52e66b-a4d0-4b22-9cca-46a5f68a6f1a))
+[^ingress-2]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le présent règlement a pour but d'attribuer aux sapeurs-pompiers les missions de secours routier préalables ou parallèles à une intervention médicale en cas d'accident, notamment la désincarcération des victimes d'accidents de la circulation, et d'en définir les modalités.
+
+#### Art. 2
+
+**Compétence**
+
+<sup>1</sup> L'Etablissement d'assurance contre l'incendie et les éléments naturels du Canton de Vaud (ECA) :
+
+- a. désigne les sites opérationnels des détachements de premier secours (DPS) auxquels sont attribuées les missions de secours routier ;
+- b. détermine, à titre spécial par rapport à l'arrêté sur le standard de sécurité cantonal en matière de service de défense contre l'incendie et de secours, les moyens d'intervention, la composition de l'effectif d'intervention, la formation des intervenants et les objectifs de protection, sur la base d'un délai d'intervention de 20 minutes en milieu urbain et de 25 minutes en milieu extra-urbain ;
+- c. organise les interventions en matière de secours routier et de désincarcération notamment en planifiant les secteurs d'intervention ;
+- d. organise la formation des sapeurs-pompiers pour le secours routier et la désincarcération ;
+- e. procède à l'acquisition, à l'attribution et à la maintenance des véhicules, du matériel et de l'équipement nécessaires aux missions de secours routier et de la désincarcération.
+
+#### Art. 3
+
+**Frais d'équipement et de formation**
+
+<sup>1</sup> Les frais d'équipement, de fonctionnement et de formation des sapeurs-pompiers sont supportés par l'intermédiaire du Fonds cantonal de secours routier géré par l'ECA avec l'approbation du Conseil d'Etat.
+
+#### Art. 4
+
+**Frais d'intervention**
+
+<sup>1</sup> Le remboursement de frais d'intervention des sapeurs-pompiers en matière de secours routier et de désincarcération peut être demandé à des tiers.
+
+<sup>2</sup> Les communes ou les entités intercommunales exploitant un site opérationnel DPS désigné pour accomplir les missions de secours routier selon l'article 2, lettre a) du présent règlement sont habilitées à procéder au recouvrement de ces frais.
+
+<sup>3</sup> Ces frais sont facturés au(x) détenteur(s) du ou des véhicule(s) concerné(s).
+
+<sup>4</sup> Si plusieurs services de défense incendie et secours (SDIS) sont engagés simultanément sur une même intervention, chaque SDIS établit sa propre facture, dont le recouvrement a lieu conformément à l'article 4, alinéa 2 ci-dessus.
+
+#### Art. 5
+
+**Tarif des frais d'intervention**
+
+<sup>1</sup> Il est perçu pour la main-d'oeuvre :
+
+- a. par heure effectuée par des sapeurs-pompiers professionnels de la ville de Lausanne
+- 1\. en intervention : Frs 150.00 ;
+- 2\. pour le rétablissement : Frs 72.00 ;
+- b. par heure effectuée par les sapeurs-pompiers des corps de Nyon, Riviera, Montreux, Morges et Yverdon-les-Bains
+- 1\. en intervention : Frs 80.00 ;
+- 2\. pour le rétablissement : Frs 72.00 ;
+- c. par heure effectuée par les sapeurs-pompiers des autres corps
+- 1\. en intervention : Frs 60.00 ;
+- 2\. pour le rétablissement : Frs 60.00.
+
+<sup>2</sup> Il est perçu pour l'utilisation des véhicules :
+
+pour les véhicules d'un poids de moins de 3,5 tonnes, par kilomètre parcouru : Frs 1.50 ; pour les véhicules d'un poids compris entre 3,5 et 7,5 tonnes par kilomètre parcouru : Frs 3.50 ; par heure de travail en stationnaire : Frs 150.00 ; pour les véhicules d'un poids supérieur à 7,5 tonnes par kilomètre parcouru : Frs 5.00 ; par heure de travail en stationnaire : Frs 200.00.
+
+<sup>3</sup> Il est en outre perçu :
+
+- a. pour l'usure du matériel utilisé durant l'intervention : 20% des frais de main-d'œuvre, mais au minimum : Frs 100.00 ;
+- b. pour les frais administratifs : 5% des frais de main-d'œuvre, mais au minimum : Frs 100.00 ;
+- c. pour la subsistance des sapeurs-pompiers engagés : par personne et par repas : Frs 20.00.
+
+#### Art. 6
+
+**Frais d'intervention complémentaires**
+
+<sup>1</sup> Les dispositions de l'article 5 s'appliquent par analogie aux autres opérations accomplies par les sapeurs-pompiers lors des missions de secours routier, notamment les mesures de protection contre le feu.
+
+<sup>2</sup> Les dispositions de l'article 5 ne s'appliquent pas aux frais d'intervention de tiers, aux frais d'élimination tels que le transport et le traitement des véhicules endommagés et aux frais d'assainissement subséquents à l'intervention.
+
+#### Art. 7
+
+**Rétrocession**
+
+<sup>1</sup> Sous réserve de l'alinéa 2 du présent article, les communes rétrocèdent à l'ECA, pour l'utilisation des véhicules dont elles ne sont pas propriétaires, les montants suivants :
+
+- a. pour les véhicules d'un poids compris entre 3,5 et 7,5 tonnes
+- 1\. par kilomètre parcouru : Frs 3.00 ;
+- 2\. par heure de travail en stationnaire : Frs 100.00 ;
+- b. pour les véhicules d'un poids supérieur à 7,5 tonnes
+- 1\. par kilomètre parcouru : Frs 4.00 ;
+- 2\. par heure de travail en stationnaire : Frs 150.00.
+
+<sup>2</sup> Les communes rétrocèdent à l'ECA l'intégralité des montants perçus au sens de l'article 5, alinéa 3, lettre a), comme frais d'usure du matériel dont elles ne sont pas propriétaires.
+
+#### Art. 8
+
+**Prise en charge subsidiaire**
+
+<sup>1</sup> Lorsque tous les moyens d'exécution forcée n'ont pas permis d'obtenir le recouvrement de tout ou partie des frais d'intervention facturés à un tiers, le Fonds cantonal de secours routier supporte ces frais à titre subsidiaire. Une demande dans ce sens doit être adressée à l'ECA.
+
+#### Art. 9
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Département de la sécurité et de l'environnement est chargé de l'exécution du présent règlement qui entre en vigueur le 1er octobre 2011.

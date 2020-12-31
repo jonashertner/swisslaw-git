@@ -1,0 +1,56 @@
+---
+canton: VD
+number: "413.01.240620.1"
+title: "ARRÊTÉ du 24.06.2020 sur les mesures de soutien à l'apprentissage dans le contexte économique impacté par la pandémie du coronavirus (COVID-19)"
+language: fr
+version: 2020-06-30
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01.240620.1?id=9d88a412-e58d-4210-ae04-d9969f61b7f2"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# ARRÊTÉ sur les mesures de soutien à l'apprentissage dans le contexte économique impacté par la pandémie du coronavirus (COVID-19)
+
+du 24 juin 2020
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+vu l'article 40, alinéa 2, lettre b de la loi fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies)
+
+vu l'ordonnance 2 du Conseil fédéral sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 2 – COVID-19)
+
+vu l'ordonnance du 16 avril 2020 relative à l'organisation des procédures de qualification de la formation professionnelle initiale en 2020 dans le contexte du coronavirus (Ordonnance COVID-19 procédures de qualification formation professionnelle initiale)
+
+vu la loi vaudoise sur la formation professionnelle (LVLFPr)
+
+vu le règlement d'application de la loi vaudoise sur la formation professionnelle (RLVLFPr)
+
+vu le préavis du Département de la formation, de la jeunesse et de la culture
+
+arrête
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le présent arrêté vise à prendre des mesures en faveur des futur-e-s apprenti-e-s afin de soutenir leur apprentissage et à diminuer les impacts négatifs relatifs à la survenue de la pandémie de coronavirus sur la formation professionnelle des élèves de première année pour l'année scolaire 2020-2021.
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> Le présent arrêté s'applique à toutes les personnes souhaitant débuter une formation professionnelle initiale, en première année, en voie duale, soumises à la loi vaudoise sur la formation professionnelle (LVLFPr) ainsi qu'à son règlement d'application (RLVLFPr) pour l'année scolaire 2020-2021.
+
+#### Art. 3
+
+**Mesures dérogatoires**
+
+<sup>1</sup> En dérogation à l'article 8, alinéas 2 et 3 RLVLFPr, un contrat d'apprentissage soumis après le 31 juillet 2020 peut être approuvé par le Département en charge de la formation (ci-après : le département) jusqu'au 15 novembre 2020 sur demande motivée.
+
+<sup>2</sup> L'autorisation de suivre les cours à l'école professionnelle, au sens de l'article 15, alinéa 1 RLVLFPr, est étendue, au plus tard jusqu'au 15 novembre 2020, aux apprenti-e-s de première année, dont le projet professionnel a été validé par un professionnel en orientation et qui n'ont pas encore conclu de contrat d'apprentissage en voie duale en date du 25 août 2020.
+
+#### Art. 4
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent arrêté entre en vigueur dès sa publication et est en vigueur jusqu'au 15 novembre 2020.

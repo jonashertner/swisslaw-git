@@ -1,0 +1,430 @@
+---
+canton: VD
+number: "900.05.1"
+title: RÈGLEMENT du 03.02.2016 d’application de la loi du 12 juin 2007 sur l’appui au développement économique pour les subventions aux projets régionaux (RLADEPR)
+short: RLADEPR
+language: fr
+version: 2017-01-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05.1?id=b21192a8-6139-4632-b3c4-8416dcbaa2ab"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# RÈGLEMENT d'application de la loi du 12 juin 2007 sur l'appui au développement économique pour les subventions aux projets régionaux
+
+(RLADEPR)
+
+du 3 février 2016
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+vu l'article 58 de la Constitution du Canton de Vaud du 14 avril 2003 [^ingress-1]
+
+vu la loi du 12 juin 2007 sur l'appui au développement économique [^ingress-2]
+
+vu le préavis du Département de l'économie et du sport
+
+arrête
+
+[^ingress-1]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-2]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Champ d'application**
+
+<sup>1</sup> Le présent règlement régit les modalités d'octroi, de contrôle et de suivi des subventions aux projets régionaux au sens des articles 20 à 26 de la loi du 12 juin 2007 sur l'appui au développement économique (ci-après : LADE)[^1-1] .
+
+[^1-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+#### Art. 2
+
+**Mesures (art. 4 et 10 LADE)**
+
+<sup>1</sup> Les projets régionaux doivent s'inscrire dans la politique d'appui au développement économique.
+
+#### Art. 3
+
+**Application de la loi sur les subventions [^2-1]**
+
+<sup>1</sup> Les subventions accordées au titre du présent règlement sont soumises aux articles 13 à 35 de la loi du 22 février 2005 sur les subventions[^3-1] , fixant les dispositions directement applicables aux subventions.
+
+[^2-1]: Modif. 1 du 16.08.2023: Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+[^3-1]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
+
+#### Art. 4
+
+**Dépôt de la demande [^3-2]**
+
+<sup>1</sup> Le demandeur adresse aux organismes régionaux concernés une demande motivée, comprenant notamment :
+
+- a. son identité, accompagnée de ses statuts, de ses comptes de pertes et profits et bilan des 3 derniers exercices, à l'exception des communes qui en sont dispensées ;
+- b. un descriptif du projet ainsi que des objectifs qualitatifs et quantitatifs visés par celui-ci ;
+- c. le coût estimatif du projet et le financement prévu, accompagné de la liste des subventions, aides et crédits reçus par le demandeur ou en cours d'examen ainsi que l'entité qui les octroie ;
+- d. l'engagement écrit de respecter les conventions collectives de travail ou les usages locaux ;
+- e. pour les infrastructures, la décision de l'organe du demandeur habilité à décider de la réalisation du projet, ou la preuve d'une décision imminente ;
+- f. un état d'avancement des procédures ;
+- g. lorsque cela s'avère pertinent, un plan d'affaires comprenant le budget d'exploitation et un plan de trésorerie pour au moins 3 années ; et
+- h. des propositions de garanties en cas de demande de prêts ou de cautionnements.
+
+<sup>2</sup> Les organismes régionaux concernés sont habilités à demander tout document et information complémentaires utiles au traitement de la demande.
+
+<sup>3</sup> Ils transmettent le dossier complet au service en charge de la promotion économique (ci-après : le service) avant le début de la réalisation du projet.
+
+<sup>4</sup> Ce dossier complet se compose des documents fournis par le demandeur et des préavis régionaux requis.
+
+<sup>5</sup> Les organismes régionaux informent le demandeur de la date de dépôt de la demande auprès du service.
+
+[^3-2]: Modif. 1 du 16.08.2023: Modification Al. 1, d; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+
+#### Art. 5
+
+**Préavis régional (art. 21 LADE) [^4-1]**
+
+<sup>1</sup> Les préavis régionaux sont des analyses formalisées et justifiées des projets et des demandeurs, fondées sur les éléments fournis par les demandeurs et, le cas échéant, l'expertise de partenaires externes concernés par le projet.
+
+<sup>2</sup> Ils sont établis par les organismes régionaux concernés reconnus par le Conseil d'Etat au titre de l'article 16 LADE[^5-1] .
+
+<sup>3</sup> Ils contiennent notamment :
+
+- a. la vérification de la contribution du projet aux but et principes de la LADE au sens des articles 1 et 2 de celle-ci, sa cohérence avec la politique d'appui au développement économique et avec les stratégies régionales ;
+- b. une appréciation qualitative, quantitative et financière du projet et du demandeur ;
+- c. la définition des résultats attendus pendant et après la réalisation du projet ainsi qu'une proposition d'indicateurs qualitatifs et/ou quantitatifs de suivi de l'atteinte des résultats ;
+- d. pour les infrastructures, une analyse du projet sous l'angle du développement durable ;
+- e. pour les manifestations, une présentation des mesures qui seront prises sous l'angle du développement durable ;
+- f. la description des risques inhérents au projet et les éventuelles mesures à prendre pour les atténuer ;
+- g. la justification d'une éventuelle demande de subvention au titre de la loi fédérale du 6 octobre 2006 sur la politique régionale (ci-après : LPR)[^5-2] ; et
+- h. une proposition du montant, du taux et les éventuelles conditions pour une subvention au sens de la LADE et de la loi fédérale du 6 octobre 2006 sur la politique régionale.
+
+<sup>4</sup> Le service peut imposer des modèles pour les préavis régionaux.
+
+<sup>5</sup> Il tient à jour une liste d'exemples d'indicateurs au sens de l'alinéa 3, lettre c qu'il met à disposition des organismes régionaux et peut imposer les indicateurs nécessaires au reporting cantonal et fédéral.
+
+[^4-1]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Modification Al. 3, d-e; entrée en vigueur au 01.07.2023; Introduction Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+[^5-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+[^5-2]: Loi fédérale du 06.10.2006 sur la politique régionale (RS 901.0)
+
+#### Art. 6
+
+**Mise en oeuvre du principe de subsidiarité**
+
+<sup>1</sup> L'autorité d'octroi juge du respect du principe de subsidiarité notamment sur la base des critères suivants :
+
+- a. Critères liés au bénéficiaire :
+- 1\. mobilisation adéquate de fonds propres ;
+- 2\. participation appropriée de financements de tiers ;
+- 3\. non-bouclement du plan de financement du projet, sans la participation de l'Etat ;
+- b. Critères liés au projet :
+- 1\. adéquation entre le coût du projet et le niveau de qualité requis pour un projet de ce type ;
+- 2\. conformité du coût du projet par rapport à la réalité du marché de la région concernée ; et
+- 3\. vraisemblable difficulté à reporter partiellement ou intégralement le coût du projet sur des tiers, par exemple les futurs clients ou les promoteurs.
+
+<sup>2</sup> Dans des cas dûment justifiés, notamment en regard de l'importance économique d'un projet pour la région concernée, l'autorité d'octroi peut déroger à certains de ces critères.
+
+#### Art. 7
+
+**Examen de la demande [^6-1]**
+
+<sup>1</sup> Le service est habilité à demander tout document et information complémentaires utiles à l'examen de la demande.
+
+<sup>2</sup> Il procède systématiquement à une consultation formelle et en temps opportun des services particulièrement concernés par le projet. Un préavis négatif du service, confirmé par le département particulièrement concerné, exclut l'octroi, par le département ou le service, d'une aide financière fondée sur la LADE[^7-1] .
+
+<sup>3</sup> Le résultat de l'examen par le service et de la consultation des services et départements ainsi que les préavis régionaux sont soumis à l'autorité compétente pour l'octroi de la subvention, accompagné d'une proposition de décision.
+
+[^6-1]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Modification Al. 2-3; entrée en vigueur au 01.07.2023; Introduction Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Al. 4-5; entrée en vigueur au 01.07.2023; Introduction Art. 25, Al. 2; entrée en vigueur au 01.07.2023
+[^7-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+#### Art. 8
+
+**Communication**
+
+<sup>1</sup> Les organismes régionaux ayant préavisé le projet, ainsi que les services et départements consultés reçoivent une copie de la décision.
+
+<sup>2</sup> Le service peut publier un résumé de la décision sur le site Internet de l'Etat de Vaud et de la Confédération comprenant le nom du bénéficiaire, un résumé du projet, le coût de celui-ci et la subvention accordée. Le résumé peut également être publié sur le site de la Confédération.
+
+#### Art. 9
+
+**Contrôle et suivi (art. 38 LADE)**
+
+<sup>1</sup> Les subventions sont versées sur la base d'une demande écrite, signée par le bénéficiaire, accompagnée des pièces justificatives requises par la décision ou la convention d'octroi, après vérification de celles-ci.
+
+<sup>2</sup> Pour le versement final, les pièces justificatives portent notamment sur les informations suivantes :
+
+- a. la réalisation du projet, notamment en présentant les résultats atteints ;
+- b. les coûts finaux du projet : décompte final, copie des factures, preuves de paiement, extraits de la comptabilité analytique ou comptes de pertes et profits et bilan ;
+- c. le respect des charges et conditions fixées dans la décision ou la convention.
+
+<sup>3</sup> Des acomptes peuvent être versés jusqu'à concurrence de 80 pour cent du montant de la subvention. Les conditions de versement des acomptes sont fixées dans la décision ou la convention. Les demandes d'acomptes sont accompagnées des états financiers liés au projet soutenu.
+
+<sup>4</sup> Dès le dépôt de la demande de subvention et tant que dure l'obligation de renseigner, le service est habilité à effectuer des contrôles y compris sur place.
+
+<sup>5</sup> Pour les prêts et les cautionnements, le service procède annuellement et dans le respect du principe de proportionnalité, à une évaluation du bilan et des comptes d'exploitation des bénéficiaires, ainsi que du risque financier encouru par l'Etat dans ce cadre et prend les mesures nécessaires pour limiter ledit risque.
+
+#### Art. 10
+
+**Obligation de renseigner (art. 36 LADE)**
+
+<sup>1</sup> L'obligation de renseigner subsiste tant que l'évaluation des effets et de l'efficacité des mesures n'a pas été réalisée conformément à l'article 8 LADE[^10-1] pour la période durant laquelle il est prévu que le projet subventionné déploie ses effets.
+
+<sup>2</sup> Les bénéficiaires de prêts ou de cautionnements sont tenus de présenter, annuellement, au service, leurs comptes de pertes et profits et bilan tant que les prêts ne sont pas remboursés ou que les cautionnements n'ont pas pris fin.
+
+<sup>3</sup> L'article 19 LSubv[^10-2] demeure réservé.
+
+[^10-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+[^10-2]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
+
+## Chapitre II Subventionnement d'études (art. 22 LADE)
+
+#### Art. 11
+
+**Délimitation**
+
+<sup>1</sup> Par études, on entend :
+
+- a. des études stratégiques ou prospectives liées notamment au développement économique d'une région, à l'efficacité ou à la mise en place de structures d'organisations, ou à l'accueil d'entreprises ou d'hôtes ;
+- b. des études liées à un projet ; ou
+- c. des études liées au développement territorial afin d'améliorer les conditions d'accueil ou de développement d'activités génératrices d'emplois.
+
+#### Art. 12
+
+**Coûts pris en considération**
+
+<sup>1</sup> Les coûts pris en considération pour le calcul du montant de la subvention sont les frais de mandataires externes, auxquels s'ajoutent, dans certains cas dûment justifiés, les ressources humaines internes et les frais de fonctionnement qui y sont directement liés.
+
+<sup>2</sup> Sont exclus de ces coûts les prestations déjà subventionnées des organismes en application de l'article 13 ou de l'article 17 LADE[^12-1] ainsi que les coûts pris en considération pour le subventionnement d'infrastructures.
+
+[^12-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+## Chapitre III Subventionnement de mesures organisationnelles (art. 23 LADE)
+
+#### Art. 13
+
+**Délimitation**
+
+<sup>1</sup> Par mesures organisationnelles, on entend la préparation, la réalisation ou l'évaluation :
+
+- a. d'un ensemble de mesures coordonnées pour améliorer l'accueil ou le développement d'activités génératrices d'emplois ;
+- b. d'un ensemble de mesures liées à un programme d'actions d'une stratégie économique ; ou
+- c. de coopérations entre organisations ou entreprises propres à améliorer l'efficience de celles-ci, à permettre leur accession à de nouveaux marchés ou à les conforter dans leur positionnement sur un marché.
+
+#### Art. 14
+
+**Coûts pris en considération**
+
+<sup>1</sup> Les coûts pris en considération pour le calcul du montant de la subvention sont les frais de mandataires externes ou de ressources humaines internes, et les frais de fonctionnement qui y sont directement liés.
+
+<sup>2</sup> Sont exclus de ces coûts les prestations déjà subventionnées des organismes en application de l'article 13 ou de l'article 17 LADE[^14-1] .
+
+[^14-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+#### Art. 15
+
+**Durée**
+
+<sup>1</sup> La durée maximale pendant laquelle une mesure organisationnelle peut être soutenue ne peut pas excéder 5 ans.
+
+## Chapitre IV Subventionnement de manifestations (art. 23 LADE)
+
+#### Art. 16
+
+**Délimitation**
+
+<sup>1</sup> Par manifestations, on entend des événements, visant à être pérennisés, qui ont pour but de générer une fréquentation supplémentaire (excursionnistes ou hôtes hébergés) dans une région et de participer au rayonnement et à la notoriété de cette région.
+
+#### Art. 17
+
+**Types de manifestations soutenues**
+
+<sup>1</sup> Les manifestations pouvant être soutenues sont :
+
+- - les nouvelles manifestations événementielles (notamment culturelles, sportives, économiques,…), ayant un caractère innovant pour la région, de portée supra-régionale et propres à motiver la venue de nouveaux visiteurs ;
+- - les manifestations existantes de portée supra-régionale, dans le cadre de leur repositionnement ou de leur professionnalisation, en vue de créer une nouvelle impulsion. Ce repositionnement ou cette professionnalisation doit permettre non seulement le maintien de l'attrait initial, mais aussi de créer à terme un attrait supplémentaire, capable de susciter l'intérêt d'un nouveau public.
+
+<sup>2</sup> D'autres secteurs économiques de la région concernée doivent pouvoir attendre des retombées économiques directes de la tenue de ces manifestations.
+
+#### Art. 19
+
+**Coûts pris en considération**
+
+<sup>1</sup> Les coûts pris en considération pour le calcul du montant de la subvention sont les coûts nécessaires à l'organisation et à la promotion de la manifestation, ainsi que les coûts d'équipements liés à la mise en valeur des sites.
+
+<sup>2</sup> Sont exclus de ces coûts les prestations déjà subventionnées des organismes en application de l'article 13 ou de l'article 17 LADE[^19-1] .
+
+[^19-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+#### Art. 20
+
+**Durée**
+
+<sup>1</sup> La durée maximale pendant laquelle une manifestation peut être soutenue ne peut pas excéder 5 éditions.
+
+#### Art. 21
+
+**Montant de l'aide à fonds perdu**
+
+<sup>1</sup> Le montant maximum du soutien financier au titre de la LADE[^21-1] ne dépasse en règle générale pas le montant du soutien alloué pour la même manifestation par les collectivités publiques et autres entités de la région concernée (notamment : communes, organisme de promotion régional ou local, organisme régional, entreprises).
+
+[^21-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+## Chapitre V Subventionnement d'infrastructures (art. 24 LADE)
+
+#### Art. 22
+
+**Délimitation**
+
+<sup>1</sup> Les infrastructures visées sont celles qui :
+
+- a. font partie d'un système de valeur ajoutée qu'elles contribuent à renforcer ;
+- b. induisent des investissements complémentaires dans d'autres secteurs économiques d'une région ; ou
+- c. améliorent les conditions d'accueil ou de développement d'activités génératrices d'emplois.
+
+#### Art. 23
+
+**Coûts pris en considération**
+
+<sup>1</sup> Les coûts pris en considération pour l'achat, la réalisation, la rénovation et la transformation d'infrastructures comprennent également les frais administratifs ou techniques qui y sont directement liés tels que les frais de procédures de permis de construire, de notaires, d'architectes ou d'ingénieurs.
+
+#### Art. 24
+
+**Durée**
+
+<sup>1</sup> La durée du prêt est fixée en tenant compte de la longévité de l'infrastructure, dans les limites de l'article 24, alinéa 1, lettre a LADE[^24-1][^24-2].
+
+<sup>2</sup> Au besoin, une renonciation au remboursement peut être consentie pendant les 5 premières années du prêt au maximum.
+
+[^24-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+[^24-2]: Il s'agit de la verson de la LADE du 12 juin 2007
+
+#### Art. 25
+
+**Aides à fonds perdu à titre exceptionnel (art. 24, al. 2 LADE) [^24-3]**
+
+<sup>1</sup> La reconnaissance du caractère exceptionnel se base sur les éléments suivants :
+
+- a. Conditions liées au projet :
+- 1\. création particulièrement importante de valeur ajoutée ou d'emplois dans la région ;
+- 2\. importance pour le maintien du positionnement du bénéficiaire sur un marché dominant dans l'économie de la région, ou son entrée sur un marché assurant une diversification économique dans la région ;
+- 3\. localisation dans le périmètre d'impact de la LPR[^25-1] ;
+- 4\. non-distorsion de concurrence avec des projets similaires ;
+- 5\. caractère prioritaire en regard des disponibilités budgétaires
+- b. Conditions liées au bénéficiaire :
+- 1\. capacité financière limitée ;
+- 2\. mobilisation de ses propres ressources et des financements de tiers ;
+- 3\. faible impact de l'exploitation de l'infrastructure sur le cash-flow ;
+- 4\. vraisemblable difficulté à rembourser un prêt.
+
+[^24-3]: Modif. 1 du 16.08.2023: Introduction Art. 4, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 5, Al. 6; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3, a-b; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 4-5; entrée en vigueur au 01.07.2023; Abrogation Al. 1, a, 3; entrée en vigueur au 01.07.2023; Introduction Al. 2; entrée en vigueur au 01.07.2023
+[^25-1]: Loi du 12.06.2007 sur l'appui au développement économique ( [BLV 900.05](https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.05?id=933da471-4e8b-4f69-b509-c7769f3baeb4))
+
+## Chapitre VI Soutien à l'abaissement du prix de vente ou de location de terrain en zone industrielle (art. 24a LADE)
+
+#### Art. 26
+
+**Délimitation**
+
+<sup>1</sup> Par terrains destinés à des entreprises industrielles, on entend des parcelles classées en zone industrielle ou qui vont l'être de manière imminente.
+
+<sup>2</sup> Par entreprise industrielle, on entend toute entreprise dont l'activité consiste en de la production manufacturière pour laquelle un parc de machines est nécessaire.
+
+<sup>3</sup> Par location, on entend la mise à disposition d'un terrain par le biais d'un droit distinct et permanent de superficie.
+
+#### Art. 27
+
+**Intérêt régional du projet soutenu**
+
+<sup>1</sup> L'importance du projet pour l'économie régionale s'examine notamment sur la base de :
+
+- a. la cohérence entre la typologie de l'entreprise industrielle concernée et la stratégie régionale ;
+- b. l'importance qualitative et quantitative, pour la région, des emplois maintenus ou créés par l'entreprise industrielle concernée.
+
+#### Art. 28
+
+**Prix de vente ou de location**
+
+<sup>1</sup> Le coût pris en considération correspond aux valeurs du marché pour un bien similaire.
+
+<sup>2</sup> Le service peut solliciter l'expertise de la commission foncière cantonale.
+
+#### Art. 29
+
+**Effort communal**
+
+<sup>1</sup> La commune doit consentir à un effort équivalent à l'effort cantonal.
+
+#### Art. 30
+
+**Obligation de réalisation du projet et remboursement de l'aide**
+
+<sup>1</sup> La commune met en place des mesures adéquates, notamment pour éviter la spéculation foncière et s'assurer du déploiement du projet de l'entreprise industrielle tel que prévu lors de la vente ou de la location, par exemple la constitution d'un droit de réméré.
+
+<sup>2</sup> Le canton peut exiger le remboursement de l'aide par la commune ou l'entité bénéficiaire si le projet de l'entreprise ne se déploie pas dans les trois ans après la vente ou la location.
+
+## Chapitre VII Modalités de calcul de la subvention (art. 25 LADE)
+
+#### Art. 31
+
+**Appréciation qualitative et quantitative**
+
+<sup>1</sup> L'appréciation qualitative et quantitative du projet porte notamment sur :
+
+- a. l'adéquation du projet avec les besoins du marché ;
+- b. la conformité avec le niveau de qualité requis pour un projet de ce type ;
+- c. les effets qualitatifs et quantitatifs attendus par le projet dans la région ;
+- d. la mise en place de partenariats ou de coopérations.
+
+#### Art. 32
+
+**Situation financière**
+
+<sup>1</sup> L'analyse de la situation financière du demandeur porte notamment sur :
+
+- a. la pertinence de sa stratégie d'entreprise ;
+- b. la mobilisation adéquate de fonds propres ;
+- c. la possibilité de solliciter un financement auprès de tiers ;
+- d. les bilans et les comptes de résultats des trois dernières années.
+
+#### Art. 33
+
+**Viabilité économique**
+
+<sup>1</sup> L'analyse de la viabilité économique se fonde notamment sur :
+
+- a. la plausibilité des chiffres ;
+- b. l'existence d'un budget d'exploitation prévisionnel équilibré ;
+- c. la capacité à rembourser les éventuels prêts ;
+- d. la vraisemblable pérennité du projet après la fin de l'allocation des subventions cantonales et fédérales.
+
+#### Art. 34
+
+**Intégration du projet dans le développement de la région**
+
+<sup>1</sup> L'analyse de l'intégration du projet dans le développement de la région porte notamment sur :
+
+- a. la contribution du projet à la réalisation d'un axe stratégique de la stratégie régionale ;
+- b. ainsi que sur les retombées économiques directes ou indirectes du projet dans la région.
+
+#### Art. 35
+
+**Effort local**
+
+<sup>1</sup> L'analyse de l'effort local prend en compte notamment la participation financière ou les prestations en nature appropriées des communes, organismes de promotion, organismes régionaux ou structures jugées équivalentes et entreprises concernés par le projet.
+
+## Chapitre VIII Dispositions transitoires et finales
+
+#### Art. 36
+
+**Abrogations**
+
+<sup>1</sup> Les règlements suivants sont abrogés :
+
+- a. règlement du 2 juillet 1986 d'application de la loi du 20 mai 1985 sur le développement économique régional (RSV 900.03.1) ;
+- b. règlement du 28 octobre 1970 d'exécution de la loi du 11 février 1970 sur le tourisme (RSV 935.11.1) ;
+- c. règlement du 19 février 1993 fixant le barème de la taxe cantonale de séjour (RSV 935.11.2).
+
+#### Art. 37
+
+**Entrées en vigueur**
+
+<sup>1</sup> Le Département de l'économie et du sport est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2017, à l'exception de l'article 18, dont l'entrée en vigueur sera fixée ultérieurement par voie d'arrêté du Conseil d'Etat.

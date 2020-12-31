@@ -1,0 +1,100 @@
+---
+canton: VD
+number: "810.94.2"
+title: "ARRÊTÉ du 02.11.2016 d’application de la Convention intercantonale du 17 décembre 2008 sur l’Hôpital Riviera-Chablais, Vaud-Valais, relatif à la construction du site de Rennaz (A C-HIRC)"
+short: A C-HIRC
+language: fr
+version: 2016-11-02
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.94.2?id=6c4a4534-f8b6-4424-bc0a-05d0dfec4e12"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# ARRÊTÉ d'application de la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais, relatif à la construction du site de Rennaz
+
+(A C-HIRC)
+
+du 2 novembre 2016
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+LE CONSEIL D'ETAT DU CANTON DU VALAIS
+
+vu la Convention intercantonale du 17 décembre 2008 sur l'Hôpital Riviera-Chablais, Vaud-Valais
+
+vu le décret du 10 mars 2009 accordant une garantie pour un emprunt bancaire servant à financer le concours d'architecture et les études détaillées relatives à la création de l'Hôpital Riviera-Chablais, Vaud-Valais
+
+vu la décision portant sur le cautionnement de l'Etat du Valais pour le financement du concours d'architecture et des études détaillées relatives à la construction de l'Hôpital Riviera-Chablais Vaud-Valais sur le site de Rennaz du 10 février 2009
+
+vu les préavis du Département de la santé et de l'action sociale du Canton de Vaud et du Département de la santé, des affaires sociales et de la culture du Canton du Valais (ci-après : les départements)
+
+arrêtent
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**Objet, but et champ d'application**
+
+<sup>1</sup> Le présent arrêté fixe les dispositions d'application de la Convention intercantonale sur l'Hôpital Riviera-Chablais, Vaud-Valais (ci-après : l'HRC) relatives à la construction du site de Rennaz et à l'aménagement de ses antennes.
+
+## Chapitre II Autorités et organes compétents
+
+#### Art. 2
+
+**Compétences des départements**
+
+<sup>1</sup> Les départements sont compétents pour :
+
+- a. transmettre à l'HRC les décisions des autorités cantonales ;
+- b. approuver le programme général de construction, conformément aux planifications cantonales et au budget alloué ;
+- c. prendre position sur les décisions de l'HRC susceptibles de modifier le programme général ou le calendrier de réalisation du projet ;
+- d. transmettre aux banques choisies par l'HRC les garanties nécessaires pour l'ouverture des crédits d'études et crédits d'ouvrage.
+
+#### Art. 3
+
+**Compétences des Services de santé publique (SSP VD-VS)**
+
+<sup>1</sup> Les services en charge de la santé publique des Cantons de Vaud et du Valais sont compétents pour :
+
+- a. désigner leurs représentants siégeant au sein de la commission de construction avec voix consultative ;
+- b. transmettre à l'HRC les informations nécessaires pour l'ouverture des crédits de concours et d'études et crédits d'ouvrage ;
+- c. analyser et évaluer l'avancement des travaux – notamment sur la base de la feuille de route – à l'attention des deux départements, en se fondant sur les informations de l'HRC et de la commission de construction.
+
+#### Art. 4
+
+**Compétences du Conseil d'Etablissement**
+
+<sup>1</sup> Le Conseil d'Etablissement est compétent pour :
+
+- a. s'assurer, notamment auprès des banques, de l'octroi des crédits de concours et d'études ainsi que des crédits d'ouvrage et en assumer la gestion ;
+- b. coordonner les actions et surveiller les travaux durant la phase de pré-exploitation en vue de l'ouverture du site de Rennaz ;
+- c. prendre les contacts nécessaires avec les autorités cantonales et communales concernées par le projet de construction du site de Rennaz ;
+- d. participer aux projets de développement relatifs à la mobilité donnant accès au site de Rennaz, notamment aux projets de transports publics ;
+- e. informer les chefs de département sur tous les éléments qui ont une incidence sur la construction.
+
+#### Art. 5
+
+**Relation entre les départements et le Conseil d'Etablissement**
+
+<sup>1</sup> Les chefs de département rencontrent le Conseil d'Etablissement une fois par an au moins pour examiner en particulier l'avancement du projet.
+
+## Chapitre III Comptabilité
+
+#### Art. 6
+
+**Suivi et comptabilité de la commission de construction**
+
+<sup>1</sup> La commission de construction établit une comptabilité de construction conformément aux recommandations du Centre suisse d'études pour la rationalisation de la construction (CRB), sous la supervision du Conseil d'Etablissement et des départements.
+
+<sup>2</sup> La commission de construction transmet chaque semestre aux deux départements son rapport sur la construction.
+
+<sup>3</sup> Le compte de construction annuel est soumis au contrôle cantonal des finances (CCF) du Canton de Vaud.
+
+## Chapitre IV Dispositions finales
+
+#### Art. 7
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le présent arrêté entre en vigueur à la date de son adoption par les deux Conseils d'Etat.

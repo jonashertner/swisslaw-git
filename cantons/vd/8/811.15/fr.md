@@ -1,0 +1,597 @@
+---
+canton: VD
+number: "811.15"
+title: "CONVENTION du 21.12.2016 fixant les conditions de travail et de formation des médecins assistants et chefs de clinique dans les hôpitaux d'intérêt public du Canton de Vaud (C-CTMédAss)"
+short: C-CTMédAss
+language: fr
+version: 2017-07-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/811.15?id=a5fe54bd-967d-48a1-aa82-d9e84f1ce913"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# CONVENTION fixant les conditions de travail et de formation des médecins assistants et chefs de clinique dans les hôpitaux d'intérêt public du Canton de Vaud
+
+(C-CTMédAss)
+
+du 21 décembre 2016
+
+arrête
+
+## Chapitre I Dispositions générales
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le but de la présente convention est de fixer les conditions de travail et de formation des médecins assistants, chefs de clinique adjoints et chefs de clinique employés dans les hôpitaux d'intérêt public du Canton de Vaud, afin que celles-ci soient attractives, favorisent une formation de qualité dans un environnement professionnel motivant et offrent des prestations sociales de qualité.
+
+#### Art. 2
+
+**Parties**
+
+<sup>1</sup> Les parties à la présente convention sont :
+
+- a. d'une part,
+- - l'Etat de Vaud, représenté par le Conseil d'Etat ;
+- - l'Université de Lausanne ;
+- - la Policlinique médicale universitaire (PMU) ;
+- - la Fondation romande de santé au travail (IST) ;
+- b. d'autre part, l'Association suisse des médecins assistants et chefs de clinique - Section Vaud (ASMAV).
+
+#### Art. 3
+
+**Champ d'application**
+
+<sup>1</sup> La présente convention s'applique à tous les médecins assistants, chefs de clinique adjoints et chefs de clinique engagés par l'un des employeurs mentionnés à l'article 2 et signataires de la présente convention.
+
+<sup>2</sup> Le terme MEDECIN recouvre les fonctions de médecins assistants, chefs de clinique adjoints et chefs de clinique.
+
+#### Art. 4
+
+**Droit applicable**
+
+<sup>1</sup> Les MEDECINS sont soumis à la loi fédérale sur le travail et à ses dispositions d'application, ainsi qu'aux dispositions de la présente convention, qui fait partie intégrante du contrat individuel de travail.
+
+<sup>2</sup> Pour le surplus, sont applicables à titre supplétif :
+
+- a. les dispositions du Code des obligations sur le contrat de travail pour les MEDECINS engagés par l'Etat, la PMU et l'Université de Lausanne, sous réserve, d'une part, des cas où la convention se réfère expressément à la Lpers et, d'autre part, des articles 40, 41, 50 et 51 Lpers et de leurs dispositions d'application ;
+- b. les dispositions du Code des obligations sur le contrat de travail pour les MEDECINS engagés par les autres établissements.
+
+#### Art. 5
+
+**Définitions**
+
+<sup>1</sup> Au sens de la présente convention, on entend par :
+
+- a. "médecin assistant" : le médecin porteur d'un diplôme fédéral ou d'un titre reconnu équivalent en vertu d'un traité international ou jugé équivalent par le Département de la santé et de l'action sociale, qui effectue une formation postgraduée au service de l'un des employeurs mentionnés à l'article 2, lettre a). Il assure la prise en charge des patients, sous la responsabilité d'un médecin cadre, d'un chef de clinique ou d'un chef de clinique adjoint de l'hôpital, auquel il est subordonné ;
+- b. "chef de clinique adjoint" : le médecin porteur d'un diplôme fédéral ou d'un titre reconnu équivalent en vertu d'un traité international ou jugé équivalent par le Département de la santé et de l'action sociale, qui effectue une formation postgraduée au service de l'un des employeurs mentionnés à l'article 2, lettre a). Il assure la prise en charge des patients, sous la responsabilité d'un médecin cadre ou d'un médecin chef de clinique, auquel il est subordonné et se voit confier des tâches d'encadrement et de supervision de médecins assistants. Il ne possède pas le titre de spécialiste requis pour accéder à la fonction de chef de clinique mais il est prévu qu'il obtienne son titre de spécialiste dans le délai d'une année, en principe ;
+- c. "chef de clinique" : le médecin porteur d'un diplôme fédéral ou d'un titre reconnu équivalent et d'un titre de spécialiste dans le domaine de l'activité exercée ou d'un titre reconnu équivalent en vertu d'un traité international ou jugé équivalent par le Département de la santé et de l'action sociale. Il assure la prise en charge des patients, sous la responsabilité d'un médecin cadre, auquel il est subordonné et se voit confier des tâches d'encadrement et de supervision de médecins assistants ou de médecins chefs de clinique adjoints. Il poursuit sa formation pratique dans sa discipline pour développer son autonomie et son expertise.
+
+## Chapitre II Engagement
+
+#### Art. 6
+
+**Activités du MEDECIN – Cahier des charges**
+
+<sup>1</sup> Les MEDECINS ont une double activité :
+
+- a. ils secondent les médecins dont ils relèvent dans les soins cliniques, la recherche et l'enseignement ;
+- b. ils effectuent une formation postgraduée ou continue.
+
+<sup>2</sup> Cette double activité fait l'objet d'un plan de travail et d'un plan de formation, négociés à l'engagement du MEDECIN et évalués une fois par an au moins ou à chaque changement de service. Ces deux documents constituent le cahier des charges du MEDECIN. Il lui est remis par écrit au moment de son engagement.
+
+<sup>3</sup> L'évaluation annuelle consiste en un entretien avec le médecin chef de service ou le médecin cadre désigné par ce dernier. A cette occasion, le MEDECIN dispose des conditions nécessaires pour répondre au questionnaire FMH (logbook).
+
+#### Art. 7
+
+**Formation postgraduée et continue**
+
+<sup>1</sup> Les MEDECINS ont droit à une formation postgraduée dont les conditions doivent correspondre aux exigences définies par l'Institut suisse pour la formation médicale postgraduée et continue (ISFM) et les différentes sociétés de spécialités médicales. Ce temps de formation fait partie de son temps de travail et comporte à la fois des périodes de formation théorique et de formation pratique.
+
+<sup>2</sup> Sont considérés comme formation théorique les cours dispensés par les médecins cadres, selon un programme établi conformément aux critères de l'ISFM. La durée hebdomadaire de la formation théorique doit répondre aux exigences de l'ISFM et des sociétés de spécialités médicales pour la catégorie de reconnaissance de l'établissement de formation, mais correspondre au minimum à 3 heures par semaine en moyenne annuelle. La formation théorique comprend également la participation à des cours et congrès organisés par les sociétés de spécialités médicales, mais équivaut au minimum à 3 jours par an.
+
+<sup>3</sup> La formation pratique doit être intégrée dans l'activité clinique et permettre l'acquisition de connaissances et aptitudes pratiques nécessaires à l'activité professionnelle future du médecin en formation. La durée hebdomadaire de la formation pratique doit répondre aux exigences de l'ISFM et des sociétés de spécialités médicales pour la catégorie de reconnaissance de l'établissement de formation.
+
+<sup>4</sup> Les objectifs de la formation théorique et pratique doivent être définis par écrit par un engagement formel réciproque autour d'un plan de formation entre le médecin chef de service et le MEDECIN en formation lors de l'entrée en fonction de celui-ci. L'atteinte de ces objectifs doit être évaluée de manière formelle au moyen d'entretiens périodiques structurés.
+
+<sup>5</sup> Le MEDECIN ayant déjà achevé une formation postgraduée dans une autre spécialité doit également avoir la possibilité d'assurer sa formation continue dans cette première spécialité.
+
+<sup>6</sup> Les parties à la présente convention considèrent comme essentiel que le MEDECIN puisse terminer sa formation dans un délai raisonnable. Ce délai est dépendant de plusieurs facteurs, difficilement maîtrisables : le nombre de MEDECINS à former, les conditions à remplir pour la formation (en particulier les actes nécessaires à l'obtention du titre de spécialiste), le nombre d'actes dispensés au sein de l'établissement concerné. En conséquence, les parties s'engagent à tout mettre en œuvre pour faciliter le bon déroulement du plan de formation.
+
+#### Art. 8
+
+**Conditions d'engagement**
+
+<sup>1</sup> Ne peut être engagé comme médecin assistant que le porteur du diplôme fédéral de médecin ou d'un titre jugé équivalent par l'autorité compétente. Le médecin assistant doit préalablement produire ses titres et diplômes, ainsi que son curriculum vitae, ses certificats de travail ou attestations de formation, un certificat médical attestant de son aptitude à exercer sa fonction, ainsi qu'un extrait du casier judiciaire.
+
+<sup>2</sup> En principe, ne peut être engagé comme chef de clinique adjoint que le médecin assistant qui a exercé la spécialité médicale concernée pendant deux ans au moins dans un établissement reconnu pour la formation postgraduée ou qui possède une formation jugée équivalente, n'a pas encore obtenu son titre de spécialiste et s'apprête à l'obtenir dans un délai d'une année environ.
+
+<sup>3</sup> La promotion de chef de clinique adjoint à chef de clinique s'obtient dès l'obtention de son titre de spécialiste.
+
+<sup>4</sup> Ne peut être engagé comme chef de clinique que le titulaire d'un titre de spécialiste de la discipline médicale concernée ou porteur d'un diplôme étranger équivalent reconnu par l'autorité compétente.
+
+#### Art. 9
+
+**Compétence pour engager**
+
+<sup>1</sup> L'engagement et le licenciement des MEDECINS relèvent de la compétence de la direction de l'établissement dans lequel ils travaillent.
+
+#### Art. 10
+
+**Durée d'engagement**
+
+<sup>1</sup> Les MEDECINS sont engagés par des contrats de durée indéterminée, sauf situation exceptionnelle (remplacement d'un congé maternité ou d'une absence maladie, etc.). Dans ces derniers cas, le contrat de durée déterminée ne peut être renouvelé que trois fois ; la durée totale de l'engagement pour une durée déterminée ne peut excéder deux ans. Si ces conditions ne sont pas respectées, l'autorité d'engagement doit considérer ce contrat comme un contrat de durée indéterminée ou résilier le contrat.
+
+<sup>2</sup> Le temps d'essai est de trois mois. Durant cette période, chaque partie peut résilier le contrat à tout moment moyennant un préavis de 7 jours.
+
+<sup>3</sup> Après le temps d'essai, le contrat peut être résilié par écrit dans les cas et selon les modalités suivants :
+
+par l'employé : moyennant un préavis de trois mois pour la fin d'un mois ; par l'employeur : pour la fin de la période de formation prévue lors de l'engagement : moyennant un préavis de trois mois pour la fin d'un mois ;
+
+ou
+
+en cas d'épuisement de la source de financement extrabudgétaire (fonds privé, de recherche, de service, etc.) : résiliation moyennant un préavis d'un mois la première année et de trois mois pour la fin d'un mois dès la deuxième année de service, aux conditions suivantes :
+
+le MEDECIN doit avoir été informé préalablement à la signature de son contrat de cette possibilité de résiliation et l'avoir formellement acceptée ; en cas de résiliation pour ce motif, l'établissement doit dans toute la mesure du possible proposer un poste similaire au MEDECIN et, si cela n'est pas possible, apporter un soutien concret au MEDECIN dans la recherche d'un nouveau poste.
+
+<sup>4</sup> Si le contrat n'a pas été résilié dans les délais pour l'échéance du plan de formation, et qu'il n'est pas convenu de signer un nouveau plan de formation, le contrat peut être résilié par chacune des parties, moyennant respect du délai de préavis de trois mois pour la fin d'un mois.
+
+<sup>5</sup> Pour le surplus, les articles 336 à 336b CO sur le congé abusif, ainsi que l'article 336c CO relatif à la résiliation en temps inopportun s'appliquent à titre de droit supplétif.
+
+<sup>6</sup> Est réservée la résiliation immédiate pour justes motifs.
+
+## Chapitre III Durée de travail
+
+#### Art. 11
+
+**Principes**
+
+<sup>1</sup> La durée contractuelle de travail hebdomadaire pour un taux d'activité de 100% est de 46 heures.
+
+<sup>2</sup> Les heures effectuées au-delà des 46 heures et qui n'excèdent pas le maximum légal des 50 heures sont des heures supplémentaires (cf. art. 14 ci-dessous). Elles sont compensées en temps.
+
+<sup>3</sup> Les heures effectuées au-delà du maximum légal de 50 heures constituent du travail supplémentaire (cf. art. 16 ci-dessous). Elles sont compensées prioritairement en temps, et rémunérées lorsqu'elles ne peuvent l'être.
+
+<sup>4</sup> Lorsque la semaine de travail inclut un jour férié, un jour de vacances ou un jour de récupération, en sus des deux jours de congé prévus par l'article 19, la durée du travail hebdomadaire normale est diminuée d'autant de cinquième qu'il y a de jours fériés dans la semaine.
+
+<sup>5</sup> La planification du temps de travail sur la semaine ne peut dépasser les 50 heures de travail.
+
+<sup>6</sup> La présence du MEDECIN est planifiée conformément au plan de travail et au plan de formation.
+
+<sup>7</sup> La planification et la validation du temps de travail est de la responsabilité des chefs de service respectifs.
+
+<sup>8</sup> Une Directive interne précise les modalités de la gestion des plannings, de gestion du temps de travail et de l'outil de gestion des temps.
+
+#### Art. 12
+
+**Temps partiel**
+
+<sup>1</sup> L'employeur veille particulièrement à mettre à la disposition des MEDECINS un nombre suffisant de places de travail à temps partiel, et ceci dans tous secteurs d'activités de l'hôpital.
+
+<sup>2</sup> Les MEDECINS peuvent être engagés à temps partiel, que celui-ci soit régulier ou irrégulier. Le taux d'activité et l'organisation du travail à temps partiel (régulier ou irrégulier) doivent être fixés dans le contrat de travail, d'entente entre les parties.
+
+<sup>3</sup> Les MEDECINS travaillant à temps partiel bénéficient mutatis mutandis des mêmes droits et devoirs que ceux employés à plein temps.
+
+<sup>4</sup> Il est tenu compte du taux d'activité lorsque le MEDECIN travaillant à temps partiel est astreint notamment au travail les dimanches ou jours fériés, ainsi qu'au piquet.
+
+#### Art. 13
+
+**Durée du travail comptabilisée**
+
+<sup>1</sup> La durée du travail est calculée sur la base des éléments suivants :
+
+le temps passé à l'hôpital dans le cadre de la planification hebdomadaire ; le temps de formation pour les formations postgraduée et continue obligatoires ; le travail supplémentaire, conformément à l'article 16 ; la majoration en temps du travail de nuit (art. 20) ; le temps d'intervention pendant un piquet, y compris le temps réel nécessaire pour se rendre à l'hôpital et rentrer à son domicile (art. 23), à hauteur de 30 minutes au maximum.
+
+Ne sont en revanche pas considérés comme temps de travail :
+
+la pause repas, conformément à l'article 18 ; le temps de formation non obligatoire, passé ou non à l'hôpital et qui excède le temps de travail maximum.
+
+<sup>2</sup> Un décompte des heures de travail effectué est tenu par le MEDECIN sur la base de l'outil de gestion des temps institutionnel. Il le transmet à la fin de chaque mois à sa hiérarchie pour validation. En cas de validation de son décompte des heures de travail, le MEDECIN reçoit son solde d'heures mis à jour.
+
+<sup>3</sup> En cas de contestation, la hiérarchie dispose de 10 jours, sauf circonstances exceptionnelles, pour l'invalider. A défaut, le décompte est réputé accepté. En cas d'invalidation de son décompte des heures de travail réalisé, la hiérarchie informe le MEDECIN concerné par écrit et de manière motivée, avec copie aux Ressources Humaines. Le MEDECIN dispose alors d'un délai de 10 jours dès réception pour contester la décision par écrit auprès de la Direction des Ressources Humaines qui tranche le litige.
+
+#### Art. 14
+
+**Balance horaire**
+
+<sup>1</sup> L'introduction et l'utilisation de la balance horaire a comme raison d'être d'adapter la charge irrégulière de travail dans les divers secteurs de l'institution afin, d'une part, d'éviter des temps morts non-productifs et, d'autre part, de mieux faire face à des périodes de surcharge d'activités. Du fait de la capitalisation d'heures, la "balance horaire" doit d'autre part permettre aux MEDECINS la reprise d'heures en fonction de leurs désirs et besoins. Cette gestion doit se faire en accord avec leurs chefs de service respectifs et sur leur autorisation, pour autant que cela n'entrave pas la bonne marche du service et de l'institution.
+
+<sup>2</sup> Les heures supplémentaires telles que décrites à l'article 11, alinéa 2 sont comptabilisées dans un compte "balance horaire" dont le cumul d'heure ne peut excéder un solde positif de 80 heures, ainsi qu'un solde négatif de 40 heures.
+
+<sup>3</sup> Le MEDECIN effectue et récupère librement les heures supplémentaires pour autant qu'il organise son temps de travail en tenant compte des contraintes de l'entité dont il fait partie, de la nécessité du service et finalement, de ses besoins personnels. Si leur récupération a lieu pendant des heures de travail planifiées, il en informe sa hiérarchie. Lorsque des circonstances exceptionnelles l'exigent, des restrictions temporaires à l'application de ce règlement peuvent être imposées par le Chef de service ou la personne qu'il aura désignée.
+
+<sup>4</sup> Un bilan doit être fait avec le MEDECIN chaque trimestre. A la fin d'une année civile (à la fin du tournus s'il est inférieur à 6 mois), la "balance horaire "doit en principe avoir un solde nul. Dans le cas contraire et avec l'accord du Chef de service, ce solde peut alimenter le compte capital temps et/ou se reporter sur l'exercice suivant (tournus suivant). En cas de départ définitif du CHUV, le solde sera payé.
+
+#### Art. 15
+
+**Compte capital temps**
+
+<sup>1</sup> Le compte capital temps a pour but de permettre au MEDECIN concerné et qui le désire d'accumuler un crédit en temps qu'il doit prévoir d'utiliser d'ici la fin de son contrat, après validation du chef de service, dans les buts suivants :
+
+- a. congé de formation professionnelle ou personnelle ;
+- b. congé prolongé pour l'exercice de responsabilités familiales ;
+- c. réduction provisoire de la durée annuelle du travail ;
+- d. autres utilisations, définies et acceptées par la Direction des Ressources Humaines, sur demande des chefs de services respectifs.
+
+<sup>2</sup> Il est alimenté par le solde du compte "balance horaire".
+
+<sup>3</sup> Il ne peut excéder 200 heures.
+
+<sup>4</sup> La décision d'ouvrir un tel compte, ainsi que son utilisation font l'objet d'un accord écrit entre le MEDECIN et son chef de service, au plus tard après 3 mois d'activité dans le service.
+
+<sup>5</sup> Le compte épargne-temps est géré selon la Directive interne prévue à l'article 11, alinéa 8.
+
+#### Art. 16
+
+**Travail supplémentaire**
+
+<sup>1</sup> Le travail supplémentaire, au-delà de 50 heures hebdomadaires, ne peut pas être planifié. Il doit être préalablement ordonné par la hiérarchie ou exécuté spontanément par le MEDECIN si les circonstances l'y obligent (urgence par exemple). Dans ce dernier cas, la hiérarchie doit en être informée au plus vite et doit valider ultérieurement les heures effectuées.
+
+<sup>2</sup> Le travail supplémentaire a lieu dans des situations exceptionnelles et ponctuelles, pour palier à des événements non prévisibles d'ordre interne ou externe. Il peut notamment s'agir d'un surcroît extraordinaire de travail (par exemple afflux de patients), d'une urgence (par exemple activité non reportable) ou de remédier à un dysfonctionnement soudain de l'hôpital (par exemple panne).
+
+<sup>3</sup> Le travail supplémentaire ne peut pas dépasser 70 heures par semestre.
+
+<sup>4</sup> Le travail supplémentaire est alors :
+
+prioritairement compensé en temps : période de compensation : la période où a lieu la compensation est fixée d'un commun accord, étant précisé que la compensation doit intervenir en principe dans les 3 mois, à moins que l'hôpital et le médecin ne conviennent d'un délai plus long, qui ne peut toutefois excéder six mois ; modalités de la compensation : à raison d'une heure de récupération pour chaque heure de travail supplémentaire. Chaque fraction de travail supplémentaire équivalent à un cinquième de la durée contractuelle de travail hébdomadaire (selon art. 11) donne droit à un jour de congé. Une fraction inférieure donne droit à une compensation selon la lettre b) ci-dessous. et dans le cas contraire payé avec une majoration de 25% pour chaque heure de travail supplémentaire et au plus tard au moment où le médecin quitte le service qui doit effectuer le paiement des heures.
+
+<sup>5</sup> Un point de situation doit être réalisé chaque 3 mois.
+
+#### Art. 17
+
+**Durée de repos quotidien**
+
+<sup>1</sup> Le MEDECIN doit bénéficier d'une durée de repos quotidien d'au moins 11 heures consécutives. Cette durée peut être réduite à 9 heures, pour autant qu'elle ne soit pas inférieure à 12 heures en moyenne sur deux semaines.
+
+<sup>2</sup> Le repos quotidien peut être interrompu par des interventions effectuées dans le cadre d'un service de piquet (art. 23), pour autant que lui succède immédiatement la fraction de repos restante. Si la durée du repos s'en trouve réduite à moins de 4 heures consécutives, la journée planifiée qui suit doit être aménagée (congé) pour que le MEDECIN puisse avoir 11 heures de repos consécutif immédiatement après la dernière intervention.
+
+#### Art. 18
+
+**Pause**
+
+<sup>1</sup> L'hôpital accorde aux MEDECINS les pauses suivantes :
+
+- a. durant la matinée, une pause de 15 minutes est autorisée. Elle peut avoir lieu à la place de travail ou en dehors de celle-ci. Elle ne peut pas être reportée si elle n'est pas prise. Elle compte comme temps de travail. Si l'activité le permet une seconde courte pause peut être prise l'après-midi ;
+- b. au milieu de la journée de travail, une pause repas ou déjeuner doit être prise et selon les durées suivantes :
+- - un quart d'heure, si la journée de travail dure plus de cinq heures et demie ;
+- - une demi-heure, si la journée de travail dure plus de 7 heures ;
+- - une heure, si la journée de travail dure plus de 9 heures.
+
+<sup>2</sup> Les pauses de plus de 30 minutes peuvent être fractionnées.
+
+<sup>3</sup> Elle a lieu en dehors de la place de travail et ne compte pas comme temps de travail. Le MEDECIN n'a pas l'obligation d'être à disposition du service.
+
+<sup>4</sup> Si, pour des raisons impératives et ponctuelles, la pause repas ne peut être prise, celle-ci compte comme temps de travail.
+
+<sup>5</sup> Si, pour les mêmes raisons, un service oblige ses MEDECINS à être à disposition du service pendant la pause repas, celle-ci compte comme temps de travail.
+
+<sup>6</sup> Lors d'un horaire de nuit (20h-6h), toutes les pauses comptent comme temps de travail.
+
+#### Art. 19
+
+**Congés hebdomadaires**
+
+<sup>1</sup> Les MEDECINS ont droit à deux jours entiers de congé (2 x 1 jour) pour chaque semaine de travail. Ces congés comprennent au moins deux dimanches par mois.
+
+<sup>2</sup> Durant ces deux jours de congé, ils ne peuvent être astreints à un service de piquet.
+
+<sup>3</sup> La détermination des jours de congé se fait selon les besoins du service, si possible d'entente entre le médecin et la hiérarchie médicale.
+
+#### Art. 20
+
+**Travail de nuit**
+
+<sup>1</sup> Les MEDECINS peuvent être affectés au travail de nuit.
+
+<sup>2</sup> Les heures de travail de nuit sont celles comprises entre vingt heures et six heures. Elles sont comptabilisées à 120% et donnent lieu au paiement des indemnités, au tarif de l'Etat de Vaud.
+
+<sup>3</sup> En cas de travail de nuit, la durée minimale du repos quotidien est de 12 heures, lesquels interviennent immédiatement après le travail de nuit.
+
+<sup>4</sup> Le travail de nuit est en principe de 10 heures au maximum, pauses incluses, et s'effectue dans un espace temps de 12 heures. Il peut, pour autant qu'il soit en grande partie composé de temps de présence et qu'un endroit pour se reposer soit à disposition, s'étendre à un maximum de 12 heures de travail quotidien dans un intervalle de 12 heures. Cet intervalle doit inclure 4 heures au moins de repos, en règle générale consécutives, qui comptent comme temps de travail.
+
+#### Art. 21
+
+**Travail du dimanche et des jours fériés**
+
+<sup>1</sup> Les MEDECINS peuvent être affectés au travail du dimanche. Dans ce cas, ils perçoivent une indemnité au tarif de l'Etat de Vaud, non cumulable avec l'indemnité de nuit, seule la plus élevée étant prise en considération.
+
+<sup>2</sup> Sont assimilés au dimanche les jours fériés accordés au personnel de l'établissement concerné.
+
+<sup>3</sup> Les MEDECINS occupés le dimanche ne peuvent être appelés à travailler plus de six jours consécutifs.
+
+#### Art. 22
+
+**Travail du samedi**
+
+<sup>1</sup> Le samedi est considéré comme un jour ouvrable.
+
+<sup>2</sup> Les heures travaillées le samedi sont indemnisées selon le tarif de l'Etat de Vaud, non cumulable avec l'indemnité de nuit, seule la plus élevée étant prise en considération.
+
+#### Art. 23
+
+**Service de piquet**
+
+<sup>1</sup> Les MEDECINS peuvent être soumis au service de piquet
+
+<sup>2</sup> Est réputé service de piquet le temps pendant lequel le médecin se tient, en sus du travail planifié, prêt à intervenir, le cas échéant, pour remédier à des perturbations, porter secours en cas de situation d'urgence, ou faire face à d'autres situations particulières analogues.
+
+<sup>3</sup> Dans le cadre d'un service de piquet, l'employeur ne peut exiger du MEDECIN un délai d'intervention (délai entre la convocation du MEDECIN et sa présence sur son lieu de travail) inférieur à 30 minutes
+
+<sup>4</sup> Le temps consacré à l'intervention, de même que le temps effectif de déplacement entre le domicile et le lieu de travail est ajouté au temps de travail hebdomadaire et traité comme tel. Le solde de la durée du service de piquet donne lieu à une indemnité au tarif de l'Etat de Vaud. Pour 150 heures de piquet hors intervention, le médecin a droit à un jour de congé supplémentaire.
+
+<sup>5</sup> Le temps que le MEDECIN consacre au service de piquet ou aux interventions en résultant n'excède pas sept jours par période de quatre semaines.
+
+<sup>6</sup> Une modification à bref délai du plan ou de l'horaire du service de piquet et des interventions qui en découlent n'est possible qu'avec le consentement des MEDECINS concernés lorsqu'ils ont des responsabilités familiales, et en l'absence de toute autre solution acceptable pour l'hôpital.
+
+<sup>7</sup> Un MEDECIN ne peut effectuer un piquet contraignant au sens du Règlement sur les médecins chefs de département, les médecins chefs de service, les médecins cadres, les médecins agréés et médecins hospitaliers du CHUV (RMed).
+
+#### Art. 24
+
+**Temps de repos, congé et autres prestations**
+
+<sup>1</sup> Dans la mesure où la présente convention prescrit des temps de repos, ceux-ci ne doivent pas être remplacés par des prestations en argent ou d'autres avantages, sauf à la cessation des rapports de travail ou si la présente convention le prévoit.
+
+## Chapitre IV Conditions salariales
+
+#### Art. 25
+
+**Rémunération**
+
+<sup>1</sup> La rémunération des médecins assistants sur treize mois est fixée de la manière suivante (valeur 2016) :
+
+a) pour les médecins assistants :
+
+1ère année : Fr. 74'836.- 2ème année : Fr. 81'112.- 3ème année : Fr. 86'952.- 4ème année : Fr. 93'192.- 5ème année : Fr. 100'683.- 6ème année : Fr. 108'169.- 7ème année : Fr. 114'836.- 8ème année : Fr. 121'501.- 9ème année : Fr. 128'167.-
+
+b) pour les chefs de clinique adjoints : de Fr. 115'624.- à Fr.145'080.-, l'augmentation annuelle étant de Fr. 4'978.- jusqu'à ce le salaire atteigne Fr. 140'514.- et de Fr. 1'522.- au-delà ;
+
+c) pour les chefs de clinique : de Fr. 130'572.- à Fr. 164'962.-, l'augmentation annuelle étant égale à un huitième de cette amplitude (Fr. 4'298.75).
+
+#### Art. 26
+
+**13ème salaire**
+
+<sup>1</sup> Conformément à l'article 25, les MEDECINS ont droit à un complément de salaire (treizième salaire). En cas de cessation ou de début d'activité en cours d'année, le 13ème salaire est versé prorata temporis. Le 13ème salaire est versé au mois de décembre ou, en cas de cessation d'activité en cours d'année, au moment du départ. En cas d'activité à temps partiel, le salaire est calculé au prorata du taux contractuel.
+
+#### Art. 27
+
+**Calcul de la rémunération initiale**
+
+<sup>1</sup> Pour le calcul de la rémunération initiale, est prise en considération toute activité médicale en Suisse ou à l'étranger, prouvée et reconnue, postérieure à l'obtention du diplôme fédéral ou du titre jugé équivalent, ainsi que l'activité médicale déployée en service militaire obligatoire en Suisse jusqu'à concurrence de quatre mois par année civile.
+
+<sup>2</sup> La rémunération initiale d'un chef de clinique adjoint ou d'un chef de clinique correspond à son salaire de médecin assistant additionné d'une promotion, mais en tout cas au minimum de la rémunération d'un chef de clinique adjoint de 1ère année, respectivement d'un chef de clinique de 1ère année. Une dérogation peut être consentie à l'endroit d'un candidat qui a déjà travaillé en qualité de chef de clinique dans un établissement reconnu pour la formation postgraduée.
+
+<sup>3</sup> L'année de pratique médicale est calculée en fonction de l'activité du MEDECIN. Il est tenu compte uniquement des mois complets d'activité indépendamment du taux contractuel à partir de 20% (Art.3).
+
+<sup>4</sup> La première année de pratique médicale débute, au plus tôt, le premier du mois suivant l'obtention du titre.
+
+<sup>5</sup> Dans le cas d'un réengagement en qualité de chef de clinique après un stage de perfectionnement effectué dans l'intérêt du service, la nouvelle rémunération est déterminée en fonction de la situation acquise avant le stage et en tenant compte de la totalité du temps de stage ; si toutefois le stage a été pris en charge par l'employeur, le temps de ce stage pourra être pris en compte totalement ou partiellement.
+
+#### Art. 28
+
+**Augmentation annuelle**
+
+<sup>1</sup> L'augmentation annuelle est celle prévue par la grille salariale de l'article 25. Elle intervient au début de chaque nouvelle année de pratique médicale.
+
+#### Art. 29
+
+**Indexation**
+
+<sup>1</sup> Les éléments de la rémunération varient avec le coût de la vie, selon le système prévu par les dispositions applicables au personnel de l'établissement concerné.
+
+#### Art. 30
+
+**Promotion**
+
+<sup>1</sup> La rémunération du médecin assistant promu à la fonction de chef de clinique adjoint correspond à son ancienne rémunération augmentée de l'indemnité de promotion de Fr. 7'453.33.-, mais en tout cas au minimum prévu pour la nouvelle fonction.
+
+<sup>2</sup> La rémunération du chef de clinique adjoint promu à la fonction de chef de clinique correspond à son ancienne rémunération augmentée de l'indemnité de promotion de Fr.10'826.83.-, mais en tout cas au minimum prévu pour la nouvelle fonction.
+
+<sup>3</sup> La rémunération du médecin assistant promu à la fonction de chef de clinique correspond à son ancienne rémunération augmentée de l'indemnité de promotion de Fr.18'280.16.-, mais en tout cas au minimum prévu pour la nouvelle fonction.
+
+<sup>4</sup> Lorsque la promotion coïncide avec le début d'une nouvelle année de pratique médicale, l'augmentation annuelle, qui s'ajoute à l'augmentation de promotion, est celle de l'ancienne fonction, jusqu'à concurrence du montant maximum prévu pour celle-ci.
+
+#### Art. 31
+
+**Prévoyance professionnelle**
+
+<sup>1</sup> Les MEDECINS sont assurés contre les conséquences de l'âge, de l'invalidité et du décès auprès d'une institution de prévoyance désignée par la direction de l'établissement concerné selon la procédure de l'article 11 de la loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP).
+
+<sup>2</sup> Pour les MEDECINS engagés par l'Etat, la loi du 12 septembre 1984 sur la prévoyance professionnelle de certaines catégories de personnel est réservée.
+
+## Chapitre V Protection sociale, vacances et congés
+
+#### Art. 32
+
+**Principe**
+
+<sup>1</sup> Dans le cadre de l'application des dispositions du présent chapitre, c'est la durée totale de l'activité des MEDECINS au service des hôpitaux parties à la présente convention qui est prise en considération, à condition qu'elle n'ait pas été interrompue plus de 3 mois. Ce principe ne s'applique pas si cette interruption est le résultat d'une démission (art. 10, al. 3, litt. a).
+
+#### Art. 33
+
+**Incapacité de travail, service militaire et allocations familiales**
+
+<sup>1</sup> En cas d'absence pour cause de maladie ou d'accident constatée par certificat médical, le salaire est versé :
+
+- a. pendant le temps d'essai durant un mois ;
+- b. après le temps d'essai durant un an à 100% et trois mois à 80%.
+
+<sup>2</sup> En cas de maladie liée à la maternité :
+
+- a. pendant le temps d'essai trois mois si l'absence est liée à la grossesse ;
+- b. après le temps d'essai jusqu'à 15 jours avant le terme.
+
+<sup>3</sup> Lorsque la résiliation est donnée par l'employeur, la rémunération au sens de l'alinéa 1, lettre b) est due même lorsque l'incapacité se prolonge après la fin du contrat, dans la mesure où le MEDECIN n'est pas entré au service d'un nouvel employeur.
+
+<sup>4</sup> Dans les cas particulièrement dignes d'intérêt, l'employeur peut aller au-delà des normes fixées à l'alinéa 1.
+
+<sup>5</sup> Ce système peut être remplacé par une assurance perte de gains collective dont les prestations sont au minimum équivalentes.
+
+<sup>6</sup> En cas d'absence pour cause de service militaire, le traitement est versé intégralement, sauf en cas de service d'avancement, conformément aux dispositions appliquées pour le reste du personnel.
+
+<sup>7</sup> Le MEDECIN a droit au minimum aux mêmes allocations pour enfants que le personnel de l'administration cantonale.
+
+#### Art. 34
+
+**Vacances**
+
+<sup>1</sup> Les MEDECINS ont droit, chaque année civile, à cinq semaines de vacances.
+
+<sup>2</sup> Le MEDECIN qui commence ou quitte son activité au cours d'une année a droit, pour cette année-là, à des vacances en proportion de la durée de son activité.
+
+<sup>3</sup> La direction de l'hôpital fixe la date des vacances en tenant compte des désirs du MEDECIN dans la mesure compatible avec les intérêts du service.
+
+<sup>4</sup> Lorsqu'au cours d'une année civile, le total des absences maladie, accident, protection civile ou service militaire dépasse 60 jours, une réduction des vacances est opérée à raison de 1/12e par mois complet d'absence. La règle s'applique dès et y compris le 61ème jour d'absence (91ème pour les femmes enceintes).
+
+#### Art. 35
+
+**Congé maternité**
+
+<sup>1</sup> En cas de grossesse, les MEDECINS ont droit, sur la base d'un certificat médical, à un congé de maternité conforme aux articles 66 à 72 du règlement général d'application de la loi sur le personnel de l'Etat de Vaud A. Le versement de la rémunération est dû jusqu'à la fin du congé maternité, le cas échéant du congé d'allaitement, même si celle-ci intervient après la fin du contrat.
+
+<sup>2</sup> Les dispositions plus favorables sont réservées.
+
+#### Art. 36
+
+**Autres congés**
+
+<sup>1</sup> Les MEDECINS ont droit, aux mêmes conditions, aux congés prévus pour le personnel de l'administration cantonale, à savoir :
+
+- a. un congé d'allaitement d'un mois qui suit le congé de maternité ;
+- b. un congé de paternité de cinq jours ouvrables ;
+- c. un congé pour enfant malade de cinq jours par an ;
+- d. un congé d'adoption de quatre mois ;
+- e. un congé parental d'une année au maximum.
+
+<sup>2</sup> Les congés sous lettres a) à d) sont rétribués et comptent comme temps de service.
+
+<sup>3</sup> Les hôpitaux sont compétents pour accorder un congé de courte durée, notamment pour certaines circonstances familiales, y compris un congé pour proche aidant au sens de l'article 83 de la Lpers.
+
+#### Art. 37
+
+**Femmes enceintes et mères qui allaitent**
+
+<sup>1</sup> Les hôpitaux doivent occuper les femmes enceintes et les mères qui allaitent de telle sorte que leur santé et la santé de l'enfant ne soient pas compromises et aménager leurs conditions de travail en conséquence.
+
+<sup>2</sup> Ils ne sont autorisés à affecter des femmes enceintes, des accouchées ou des mères qui allaitent à des travaux dangereux ou pénibles que lorsque l'inexistence de toute menace pour la santé de la mère ou celle de l'enfant est établie sur la base d'une analyse de risques ou que la prise de mesures de protection adéquates permet d'y parer.
+
+<sup>3</sup> Est réputé travail pénible ou dangereux pour les femmes enceintes et les mères qui allaitent toute activité dont l'expérience a démontré l'impact préjudiciable sur leur santé ou sur celle de leurs enfants.
+
+#### Art. 38
+
+**Occupation durant la maternité**
+
+<sup>1</sup> Les femmes enceintes et les mères qui allaitent ne peuvent être occupées sans leur consentement.
+
+<sup>2</sup> Sur simple avis, les femmes enceintes peuvent se dispenser d'aller au travail ou le quitter. Les mères qui allaitent peuvent disposer du temps et d'un lieu nécessaires à l'allaitement.
+
+<sup>3</sup> Les accouchées ne peuvent être occupées durant les huit semaines qui suivent l'accouchement ; ensuite, et jusqu'à la seizième semaine, elles ne peuvent l'être que si elles y consentent.
+
+<sup>4</sup> Durant les huit semaines qui précèdent l'accouchement, les femmes enceintes ne peuvent être occupées entre 20 heures et 6 heures.
+
+#### Art. 39
+
+**Déplacement de l'horaire et paiement du salaire durant la maternité**
+
+<sup>1</sup> Chaque fois que cela est réalisable, l'hôpital est tenu de proposer aux femmes enceintes qui accomplissent un travail entre 20 heures et 6 heures un travail équivalent entre 6 heures et 20 heures. Cette obligation vaut également pour la période entre la huitième et la seizième semaines après l'accouchement.
+
+<sup>2</sup> Lorsqu'aucun travail équivalent ne peut leur être proposé, les femmes astreintes au travail entre 20 heures et 6 heures pendant les périodes fixées à l'alinéa 1 ont droit à 80% de leur salaire calculé sans d'éventuelles majorations pour le travail de nuit.
+
+#### Art. 40
+
+**Allégement de la tâche**
+
+<sup>1</sup> Les femmes enceintes exerçant principalement leur activité en station debout bénéficient, à partir de leur quatrième mois de grossesse, d'un repos quotidien de 12 heures et, en sus des pauses légales, d'une courte pause de 10 minutes après chaque tranche de 2 heures de travail.
+
+<sup>2</sup> Les activités exercées en station debout n'excèdent pas un total de 4 heures par jour à partir du sixième mois de grossesse.
+
+#### Art. 41
+
+**Travailleurs ayant des responsabilités familiales**
+
+<sup>1</sup> Lorsqu'ils fixent les heures de travail et de repos, les hôpitaux doivent tenir compte notamment des responsabilités familiales des MEDECINS. Sont réputées responsabilités familiales l'éducation des enfants jusqu'à l'âge de quinze ans ainsi que la prise en charge de membres de la parenté ou de proches exigeant des soins.
+
+<sup>2</sup> Ces MEDECINS ne peuvent être affectés à un travail supplémentaire sans leur consentement. A leur demande, une pause de midi d'au moins une heure et demie doit leur être accordée.
+
+#### Art. 42
+
+**Eclairage de la place de travail**
+
+<sup>1</sup> Tous les postes de travail des MEDECINS doivent avoir un éclairage naturel ou artificiel suffisant, adapté à leur utilisation.
+
+<sup>2</sup> Les locaux sans éclairage naturel ne peuvent être utilisés comme postes de travail que si des mesures de construction ou d'organisation particulières assurent, dans l'ensemble, le respect des exigences en matière d'hygiène et de protection de la santé.
+
+## Chapitre VI Règlement des litiges
+
+#### Art. 43
+
+**Commissions tripartites ou paritaires**
+
+<sup>1</sup> Les contestations relatives à l'application de la présente convention peuvent être soumises aux commissions tripartites ou paritaires existantes au niveau des hôpitaux.
+
+#### Art. 44
+
+**Intervention du Service de la santé publique**
+
+<sup>1</sup> Si le litige ne peut être réglé par les commissions tripartites ou paritaires, chaque partie peut s'adresser au chef du Service de la santé publique.
+
+<sup>2</sup> Celui-ci réunit les parties et tente la conciliation.
+
+#### Art. 45
+
+**Droit de grève**
+
+<sup>1</sup> Les MEDECINS et les hôpitaux respectent la paix du travail.
+
+<sup>2</sup> Le recours à la grève doit respecter les exigences légales. Pour les MEDECINS engagés par l'Etat, la PMU et l'Université de Lausanne, ces exigences sont celles posées par la loi sur le personnel de l'Etat de Vaud et ses dispositions d'application (art. 52 et 53 Lpers).
+
+## Chapitre VII Dispositions finales
+
+#### Art. 46
+
+**Modifications**
+
+<sup>1</sup> La présente convention peut être modifiée en tout temps, moyennant accord de toutes les parties.
+
+#### Art. 47
+
+**Adhésion**
+
+<sup>1</sup> Les établissements sanitaires privés non reconnus d'intérêt public peuvent en tout temps adhérer à la présente convention, moyennant l'accord de toutes les parties. Les modalités d'adhésion font l'objet d'un accord spécifique.
+
+#### Art. 48
+
+**Disposition transitoire**
+
+<sup>1</sup> Dès l'entrée en vigueur de la présente convention et jusqu'au 31 décembre 2018, il est dérogé à l'article 11, alineas 1 et 2, en ce sens que la durée hebdomadaire de l'horaire de travail est fixée à 47 heures. Depuis le 1er janvier 2019, la durée hebdomadaire de travail est de 46 heures.
+
+#### Art. 49
+
+**Abrogation, entrée en vigueur et durée de validité**
+
+<sup>1</sup> La présente convention annule et remplace la convention du 11 juin 2008 sur le même objet. Elle entre en vigueur le 1er juillet 2017 et est conclue pour une durée indéterminée.
+
+<sup>2</sup> Elle peut être dénoncée par une partie pour la fin d'une année civile, moyennant un préavis d'une année.
+
+Ainsi fait à Lausanne, en 8 exemplaires originaux, le 21 décembre 2016.
+
+Etat de Vaud - Conseil d'Etat
+
+Le Président : Le Chancelier :
+
+Université de Lausanne
+
+La Rectrice :
+
+Policlinique Médicale Universitaire (PMU)
+
+Le Directeur :
+
+Fondation romande de santé au travail
+
+Le Directeur :
+
+Association suisse des médecins assistants et chefs de clinique - Section Vaud (ASMAV)
+
+La Présidente :

@@ -1,0 +1,29 @@
+---
+canton: VD
+number: "280.92"
+title: "TRAITÉ du 27.06.1834 entre le Royaume de Bavière et la Confédération suisse sur l'égalité du droit de concours et de classification dans les faillites. (T-Bavière)"
+short: T-Bavière
+language: fr
+version: 1834-09-19
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/280.92?id=fcfc219e-30fb-41b8-a5fb-8f19be071ed2"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# TRAITÉ entre le Royaume de Bavière et la Confédération suisse sur l'égalité du droit de concours et de classification dans les faillites.
+
+(T-Bavière)
+
+du 27 juin 1834
+
+décrète
+
+<sup>1</sup> Le Directoire Fédéral est convenu au nom de la Confédération Suisse, avec le Gouvernement du Royaume de Bavière, d'un traité sous forme de déclaration, de la teneur suivante :
+
+\- Dans les cas de déclaration d'insolvabilité, ou de concours par suite de faillite, les ressortissants du Royaume de Bavière et ceux des Cantons Suisses qui auront accédé à la présente convention, jouiront entre eux d'une parfaite égalité de droits de concurrence et de classification, et du moment où la faillite aura été déclarée, aucune saisie ni autres mesures ne pourront atteindre les propriétés mobilières du failli, ni dans le Royaume de Bavière, ni dans les dits Cantons, si ce n'est au profit de la masse.
+
+\- Par une lettre circulaire du 5 Juillet 1834, le Haut Directoire fédéral a annoncé que la convention ci-dessus, dont le projet avait été communiqué aux cantons le 12 Avril 1833, avait été ratifiée de part et d'autre, savoir : au nom du gouvernement royal de Bavière, par une déclaration du ministère des affaires extérieures et de la maison du roi, en date du 11 Mai 1834, et au nom des Cantons Suisses, de Zurich, Berne, Lucerne, Unterwald, Fribourg, Soleure, Bâle, Schaffouse, St.-Gall, Grisons, Argovie, Thurgovie, Tessin, Vaud, Valais, Neuchâtel et Genève, ainsi que Appenzell Rhodes Extérieurs, par une déclaration semblable du Directoire fédéral en date du 27 Juin 1834.
+
+\- Par une seconde circulaire du 3 Septembre 1834, le Haut Directoire Fédéral a annoncé que les Cantons d'Uri et de Zoug avaient aussi accédé à la convention et que leurs déclarations d'accession postérieure avaient été acceptées par le gouvernement de Bavière.
+
+\- Le Conseil d'Etat du Canton de Vaud, vu la décision du Grand Conseil en date du 25 Mai 1833, ordonne l'insertion au Recueil des Lois du traité avec le Royaume de Bavière sur l'égalité du droit de concours et de classification dans les faillites, pour être exécutoire à dater de ce jour.

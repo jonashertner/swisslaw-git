@@ -1,0 +1,649 @@
+---
+canton: VD
+number: "930.01.1"
+title: "RÈGLEMENT du 17.12.2014 d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques (RLEAE)"
+short: RLEAE
+language: fr
+version: 2018-07-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01.1?id=7a48f221-b78e-4781-8c59-d2c2807226c9"
+---
+
+> Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
+
+# RÈGLEMENT d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques
+
+(RLEAE)
+
+du 17 décembre 2014
+
+LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+
+vu la loi du 31 mai 2005 sur l'exercice des activités économiques (LEAE)[^ingress-1]
+
+vu le préavis du Département de l'économie et du sport
+
+arrête
+
+[^ingress-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+## Titre I Dispositions générales
+
+#### Art. 1
+
+**But**
+
+<sup>1</sup> Le présent règlement régit les modalités d'exécution de la loi sur l'exercice des activités économiques (ci-après : la loi).
+
+#### Art. 2
+
+**Champ d'application**
+
+<sup>1</sup> Les activités soumises à la législation sur les guides de montagne et les organisateurs d'autres activités à risque, de même que l'enseignement des sports de neige aux mineurs font l'objet d'un règlement spécifique.
+
+#### Art. 3
+
+**Service compétent**
+
+<sup>1</sup> Le Service de la promotion économique et du commerce, Police cantonale du commerce exerce les compétences octroyées au département en charge de l'économie (ci-après : le département).
+
+#### Art. 4
+
+**Activités économiques présentant un danger pour la sécurité et l'ordre publics (art. 5 de la loi)**
+
+<sup>1</sup> Est considérée comme une activité présentant un danger pour l'ordre public, l'activité économique qui peut porter atteinte à la sécurité, la tranquillité, la santé et la moralité publiques, ainsi qu'à la bonne foi en affaires.
+
+<sup>2</sup> Les activités économiques soumises à l'article 5 de la loi[^4-1] ne sont autorisées que sur présentation d'une attestation d'assurance responsabilité civile couvrant le risque et valable pour la période d'exercice de l'activité. L'autorisation ne peut pas être délivrée pour une durée supérieure à deux ans.
+
+[^4-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^4-2]: Modif. 1 du 28.11.2018: Abrogation ; entrée en vigueur au 01.07.2018
+
+## Titre II ...
+
+[^4-2]
+
+#### Art. 5
+
+**... [^titleTitreII-1]**
+
+<sup>1</sup> ...
+
+[^titleTitreII-1]: Modif. 1 du 28.11.2018: Abrogation tArt; entrée en vigueur au 01.07.2018; Abrogation Al. 1; entrée en vigueur au 01.07.2018
+
+#### Art. 6
+
+**... [^5-1]**
+
+<sup>1</sup> ...
+
+<sup>2</sup> ...
+
+<sup>3</sup> ...
+
+[^5-1]: Modif. 1 du 28.11.2018: Abrogation tArt; entrée en vigueur au 01.07.2018; Abrogation Al. 1-3; entrée en vigueur au 01.07.2018
+
+#### Art. 7
+
+**... [^6-1]**
+
+<sup>1</sup> ...
+
+[^6-1]: Modif. 1 du 28.11.2018: Abrogation tArt; entrée en vigueur au 01.07.2018; Abrogation Al. 1; entrée en vigueur au 01.07.2018
+
+#### Art. 8
+
+**... [^7-1]**
+
+<sup>1</sup> ...
+
+- a. ...
+- b. ...
+- c. ...
+- d. ...
+- e. ...
+- f. ...
+- g. ...
+- h. ...
+- i. ...
+- j. ...
+- k. ...
+- l. ...
+
+<sup>2</sup> ...
+
+[^7-1]: Modif. 1 du 28.11.2018: Abrogation tArt; entrée en vigueur au 01.07.2018; Abrogation Al. 1-2; entrée en vigueur au 01.07.2018
+
+#### Art. 9
+
+**... [^8-1]**
+
+<sup>1</sup> ...
+
+<sup>2</sup> ...
+
+[^8-1]: Modif. 1 du 28.11.2018: Abrogation tArt; entrée en vigueur au 01.07.2018; Abrogation Al. 1-2; entrée en vigueur au 01.07.2018
+
+## Titre III Activités économiques soumises à autorisation
+
+### Chapitre I Procédure d'autorisation
+
+#### Art. 10
+
+**Forme et contenu de la demande**
+
+<sup>1</sup> La demande d'autorisation est adressée par écrit à l'autorité compétente, au moins 30 jours avant le début de l'activité.
+
+<sup>2</sup> Elle doit être accompagnée des pièces et renseignements spécifiques à chaque type d'autorisation.
+
+#### Art. 11
+
+**Demande comportant des erreurs ou incomplète**
+
+<sup>1</sup> Si la demande présente des erreurs ou si elle est incomplète, l'autorité chargée du traitement de la demande la retourne, afin qu'elle soit rectifiée dans un délai donné.
+
+<sup>2</sup> Si ce délai n'est pas respecté, la demande est considérée comme retirée.
+
+#### Art. 12
+
+**Notification de la décision**
+
+<sup>1</sup> La décision, rendue suite à la remise d'un dossier complet de demande d'autorisation, est notifiée par écrit au requérant, le cas échéant au tiers bénéficiaire, avec copie aux autorités intéressées.
+
+#### Art. 13
+
+**Renonciation à l'autorisation**
+
+<sup>1</sup> Le titulaire de l'autorisation peut y renoncer en tout temps par une déclaration écrite auprès de l'autorité qui l'a accordée.
+
+<sup>2</sup> L'autorité établit alors un avis d'annulation de l'autorisation, avec copie aux autorités intéressées.
+
+#### Art. 14
+
+**Registre cantonal des autorisations (art. 17 de la loi)**
+
+<sup>1</sup> Le département passe, avec chaque commune, une convention relative à la mise à disposition d'un programme informatique nécessaire à la tenue du registre.
+
+<sup>2</sup> Il établit par directive la fréquence de transmission des données des autorisations communales et le mode de transfert.
+
+#### Art. 15
+
+**Données publiques du registre des autorisations (art. 17 de la loi)**
+
+<sup>1</sup> Sont publiques les données suivantes des autorisations :
+
+- a. le type d'autorisation ;
+- b. la raison sociale ou le nom et le prénom de l'entrepreneur ;
+- c. la forme juridique ;
+- d. le statut de l'entreprise (actif/radié/inconnu) ;
+- e. l'adresse ;
+- f. le début et la fin de l'autorisation.
+
+### Chapitre II Activités relevant de la compétence du canton
+
+### Section I Vente aux enchères publiques volontaire (Section III de la loi)
+
+#### Art. 16
+
+**Définitions (art. 38 et 39 de la loi)**
+
+<sup>1</sup> Est une vente aux enchères publiques volontaire, la vente, librement décidée par le propriétaire ou ses héritiers, d'objets mobiliers neufs ou usagés, ayant fait l'objet d'une publicité à un nombre indéterminé de personnes.
+
+<sup>2</sup> Est une vente de gré à gré, la vente à l'amiable, librement décidée par le propriétaire ou ses héritiers, d'objets mobiliers neufs ou usagés ayant fait l'objet d'une publicité à un nombre indéterminé de personnes.
+
+<sup>3</sup> Les locaux au sens de l'article 39 de la loi[^16-1] sont ceux où se trouve habituellement entreposée la marchandise qui fait l'objet de la vente.
+
+[^16-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 17
+
+**Procédure**
+
+<sup>1</sup> La demande d'autorisation pour une vente aux enchères ou de gré à gré est adressée par écrit par le responsable de la vente (ci-après : requérant) à la commune où elle se déroule. La commune adresse un préavis motivé au département qui statue.
+
+<sup>2</sup> L'autorisation est établie au nom du requérant.
+
+<sup>3</sup> Elle est valable pour un temps, un lieu et une vente déterminés à l'avance.
+
+#### Art. 18
+
+**Inventaire (art. 40 de la loi)**
+
+<sup>1</sup> Le requérant doit produire, avec sa demande, un inventaire détaillé des objets à vendre avec l'indication de leur provenance, de leur valeur et, le cas échéant, de leur prix minimum de vente.
+
+<sup>2</sup> Il doit produire en outre une pièce établissant la propriété de ces objets.
+
+<sup>3</sup> Le département est en droit de faire contrôler aux frais du requérant la valeur portée à l'inventaire des marchandises mises en vente, si cette valeur lui paraît sous-estimée ou surestimée. Le prix d'estimation fixé par l'expert est communiqué publiquement aux enchérisseurs en même temps que celui fixé par le requérant.
+
+#### Art. 19
+
+**Devoirs du requérant (art. 40 de la loi)**
+
+<sup>1</sup> Le requérant doit s'assurer que :
+
+- a. un inventaire des objets à vendre, avec le cas échéant une expertise, est établi, leur valeur et leur répartition éventuelle en lots étant indiquées ;
+- b. les conditions de vente (lieu, date, horaire de la visite et de la vente, TVA, taux de l'échute, inventaire de la lettre a), type de vente, identité du vendeur et du propriétaire des objets à vendre, motif de la vente) sont rendues publiques ;
+- c. les enchères et l'adjudication se déroulent conformément à la législation.
+
+#### Art. 20
+
+**Conditions de vente (art. 41 de la loi)**
+
+<sup>1</sup> Les conditions de vente sont indiquées dans la publicité au moyen de l'une des expressions suivantes :
+
+- a. " adjudication à un prix minimum " ou " adjudication au plus offrant " ;
+- b. " vente avec garantie " ou " vente sans garantie ".
+
+<sup>2</sup> Si le requérant a déclaré dans les conditions de vente qu'il n'adjugerait pas au plus offrant, le prix minimum de vente doit être indiqué au début de la vente de l'objet.
+
+<sup>3</sup> Si le requérant a déclaré s'affranchir de toute garantie, il n'a pas le droit d'affirmer, dans la publicité ou en cours de vente, qu'un objet est garanti posséder telle ou telle qualité déterminée (authenticité, provenance, origine, etc.).
+
+<sup>4</sup> Si le requérant a déclaré en revanche assumer la même garantie que dans les ventes ordinaires, il doit délivrer à l'adjudicataire, lors du paiement du prix, une attestation écrite relative aux qualités annoncées, soit dans la publicité, soit au moment de la vente.
+
+#### Art. 21
+
+**Interdictions**
+
+<sup>1</sup> Un objet adjugé ne peut en aucun cas être remis en vente au cours de la même vente aux enchères ou de gré à gré.
+
+<sup>2</sup> Le recours aux services d'un homme de paille, ainsi que toute manoeuvre tendant à tromper les enchérisseurs sur le prix ou les qualités d'un objet sont interdits.
+
+#### Art. 22
+
+**Procès-verbal de la vente**
+
+<sup>1</sup> Un procès-verbal détaillé de la vente indiquant les articles adjugés et leur prix doit être établi et transmis à la commune, à la fin de la vente.
+
+<sup>2</sup> La commune transmet le procès-verbal au département.
+
+### Section II Activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant (Section V de la loi)
+
+#### Art. 23
+
+**Procédure (art. 52 de la loi)**
+
+<sup>1</sup> La demande d'autorisation doit être présentée au département, au moins deux mois avant le début de l'activité, conformément à l'article 5, alinéa 1, de l'ordonnance fédérale sur l'activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant (ci-après : l'ordonnance)[^23-1] .
+
+<sup>2</sup> Elle doit comprendre tous les renseignements prévus à l'article 5, alinéa 2, de l'ordonnance et être accompagnée des pièces mentionnées à l'article 5, alinéa 3, de l'ordonnance.
+
+<sup>3</sup> Le requérant doit fournir les sûretés prévues aux articles 8 et 9 de l'ordonnance.
+
+[^23-1]: Ordonnance du 10.11.1999 sur l'activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant (RS 221.218.2)
+
+#### Art. 24
+
+**Délivrance de l'autorisation**
+
+<sup>1</sup> Lorsque toutes les conditions sont remplies, le département délivre l'autorisation pour une durée de trois ans.
+
+#### Art. 25
+
+**Sûretés**
+
+<sup>1</sup> Le montant des sûretés est fixé par le département dans une fourchette comprise entre CHF 10'000.- et CHF 100'000.-, en tenant compte de l'étendue prévisible de l'activité et de la distance entre les pays pour lesquels l'autorisation d'exercer l'activité a été demandée.
+
+### Section III Prêt sur gage et achat à réméré (Section VII de la loi)
+
+#### Art. 26
+
+**Pièces à produire (art. 58 de la loi)**
+
+<sup>1</sup> Les pièces de l'article 58 alinéa 2, lettres a) à c) de la loi[^26-1] doivent avoir été établies moins d'un mois avant le dépôt de la demande.
+
+[^26-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 27
+
+**Durée**
+
+<sup>1</sup> L'autorisation est valable cinq ans.
+
+#### Art. 28
+
+**Sûretés (art. 59 de la loi)**
+
+<sup>1</sup> Le département fixe le montant des sûretés dans une fourchette comprise entre CHF 10'000.- et CHF 100'000.-, en fonction de l'importance de l'activité.
+
+### Chapitre III Autorisation délivrée par la préfecture
+
+### Section I Commerce itinérant (Section I de la loi)
+
+#### Art. 29
+
+**Contrôle des installations (art. 64, al. 1 de la loi)**
+
+<sup>1</sup> Est considérée comme un contrôle régulier, l'attestation d'une personne ou d'une entreprise :
+
+- a. accréditée par le Service d'accréditation suisse (SAS) ou
+- b. ayant les connaissances techniques professionnelles suffisantes pour intervenir sur l'installation à contrôler.
+
+<sup>2</sup> Sous réserve du droit fédéral, le département détermine les entreprises habilitées à établir l'attestation de l'alinéa précédent.
+
+#### Art. 30
+
+**Assurance responsabilité civile (art. 64, al. 2 de la loi)**
+
+<sup>1</sup> Une attestation d'assurance responsabilité civile valable pour la durée de l'exploitation de l'installation et dont les montants assurés répondent aux montants fixés dans l'annexe 3 de l'ordonnance sur le commerce itinérant[^30-1] doit être produite à l'autorité qui autorise la manifestation.
+
+[^30-1]: Ordonnance du 04.09.2002 sur le commerce itinérant (RS 943.11)
+[^30-2]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
+
+### Section II Vente en détail de tabac (Section II de la loi)
+
+[^30-2]
+
+#### Art. 31
+
+**Définition du tabac (art. 66a à 66n de la loi) [^sectionSectionII-1]**
+
+<sup>1</sup> L'article 2 de l'ordonnance sur les produits du tabac et les produits contenant des succédanés de tabac destinés à être fumés[^31-1] est applicable.
+
+[^sectionSectionII-1]: Modif. 3 du 03.07.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^31-1]: Ordonnance du 27.10.2004 sur les produits du tabac et les produits contenant des succédanés de tabac destinés à être fumés (RS 817.06)
+
+#### Art. 32
+
+**Forme et dépôt de la demande [^31-2]**
+
+<sup>1</sup> La demande d'autorisation de vente en détail de tabac est déposée auprès de la municipalité, accompagnée des pièces suivantes :
+
+la copie d'une pièce d'identité valide, lisible et signée ; pour les ressortissants étrangers, la copie d'un livret ou d'une autorisation de séjour valide, lisible et signé.
+
+[^31-2]: Modif. 3 du 03.07.2024: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+
+#### Art. 33
+
+**Forme de l'autorisation**
+
+<sup>1</sup> La préfecture délivre l'autorisation qui indique :
+
+l'identité du titulaire ; le point de vente (local, appareil automatique, par internet, point de vente temporaire, point de vente itinérant) ; le numéro de l'autorisation ; la date de délivrance ; la durée de validité de l'autorisation.
+
+#### Art. 34
+
+**Durée de validité**
+
+<sup>1</sup> L'autorisation est valable cinq ans.
+
+<sup>2</sup> Elle est renouvelable.
+
+#### Art. 35
+
+**Vente itinérante de tabac [^34-1]**
+
+<sup>1</sup> Les personnes titulaires d'une autorisation d'exercer le commerce itinérant peuvent solliciter l'octroi d'une autorisation de vente en détail de tabac sur le territoire du Canton de Vaud.
+
+<sup>2</sup> Les entreprises au bénéfice d'une habilitation leur permettant de délivrer des cartes de commerçants itinérants peuvent obtenir une autorisation globale de vente itinérante de tabac pour l'ensemble des vendeurs auxquels ils ont accordé une telle carte. L'alinéa 3 du présent article est applicable par analogie.
+
+<sup>3</sup> La demande se fait :
+
+- a. pour les personnes : - auprès de la préfecture du lieu de domicile du vendeur, ou - auprès de la préfecture du lieu de première activité, pour les personnes domiciliées dans un autre canton ou à l'étranger.
+- b. pour les entreprises habilitées : - auprès de la préfecture du lieu de leur siège social, si celui-ci se trouve dans le Canton de Vaud, ou - auprès de la préfecture du lieu de première activité de l'un de leurs vendeurs, pour les entreprises ayant leur siège social dans un autre canton.
+
+[^34-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+
+### Chapitre IV Autorisation délivrée par la commune
+
+### Section I Commerce d'occasions
+
+#### Art. 36
+
+**Définition (art. 67 de la loi)**
+
+<sup>1</sup> Est considéré comme du commerce d'occasions :
+
+- a. la récupération exercée dans un but lucratif,
+- b. le commerce d'objets mobiliers, neufs ou usagés, provenant d'autres personnes que celles qui les fabriquent ou qui en font habituellement le commerce
+
+#### Art. 37
+
+**Procédure**
+
+<sup>1</sup> L'autorisation est établie au nom du responsable de la vente (ci-après : requérant).
+
+<sup>2</sup> Le requérant dépose à cet effet une formule officielle auprès de chaque autorité communale intéressée.
+
+<sup>3</sup> L'exercice du commerce d'occasions dans une même commune, mais dans des locaux distincts, nécessite une autorisation par local.
+
+#### Art. 38
+
+**Pièces à produire (art. 69 de la loi)**
+
+<sup>1</sup> Les pièces de l'article 69, alinéa 1, lettres a) et b) et alinéa 2, de la loi[^38-1] doivent avoir été établies moins d'un mois avant le dépôt de la demande.
+
+<sup>2</sup> Un titre de propriété ou un bail d'une durée de trois mois au moins et établissant que le requérant dispose des locaux nécessaires à l'exercice de son activité est joint à la demande.
+
+[^38-1]: Loi du 18.11.1935 sur la police du commerce ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 39
+
+**Durée**
+
+<sup>1</sup> L'autorisation est valable cinq ans.
+
+### Section II Appareils automatiques mis à disposition du public contre finance
+
+#### Art. 40
+
+**Procédure (art. 71 de la loi)**
+
+<sup>1</sup> La demande d'autorisation doit être adressée à la commune du lieu d'installation de l'appareil.
+
+<sup>2</sup> L'autorisation est établie au nom du requérant.
+
+<sup>3</sup> Si le requérant exploite plusieurs appareils, une autorisation globale mentionnant tous les appareils peut être établie par la commune qui en apprécie l'opportunité.
+
+#### Art. 41
+
+**Durée de l'autorisation**
+
+<sup>1</sup> L'autorisation est valable cinq ans.
+
+#### Art. 42
+
+**Déplacement de l'appareil**
+
+<sup>1</sup> Le déplacement d'un appareil dans la même commune ou dans une autre commune doit être signalé à la commune intéressée qui délivre une nouvelle autorisation.
+
+#### Art. 43
+
+**Remplacement de l'appareil**
+
+<sup>1</sup> Un appareil peut être remplacé sans nouvelle autorisation par un appareil identique. La commune du lieu d'emplacement de l'appareil doit être préalablement avertie.
+
+#### Art. 44
+
+**Exceptions à l'autorisation (art. 72 de la loi)**
+
+<sup>1</sup> Outre les cas prévus à l'article 72 de la loi[^44-1] , ne sont pas soumis à autorisation :
+
+- a. les appareils mis à disposition par les établissements bancaires au sens de la loi fédérale sur les banques et les caisses d'épargne[^44-2], notamment les bancomats ;
+- b. les distributeurs électroniques de jeux de loteries ;
+- c. les appareils à sous servant aux jeux de hasard ou aux jeux d'adresse et exploités dans les maisons de jeu au sens de la législation fédérale sur les jeux de hasard[^44-3].
+
+[^44-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^44-2]: Loi fédérale du 08.11.1934 sur les banques et les caisses d’épargne (RS 952.0)
+[^44-3]: Loi fédérale du 18.12.1998 sur les jeux de hasard et les maisons de jeu (RS 935.52)
+
+### Chapitre V Autres autorisations
+
+### Section I Autres crédits et courtages en crédit
+
+#### Art. 45
+
+**Champ d'application (art. 75 de la loi)**
+
+<sup>1</sup> Les articles 75 à 83 de la loi ne s'appliquent aux établissements bancaires au sens de la loi fédérale sur les banques et les caisses d'épargne[^45-1] qu'en ce qui concerne les crédits à la consommation non soumis à la loi fédérale sur le crédit à la consommation[^45-2].
+
+[^45-1]: Loi fédérale du 08.11.1934 sur les banques et les caisses d’épargne (RS 952.0)
+[^45-2]: Loi fédérale du 23.03.2001 sur le crédit à la consommation (RS 221.214.1)
+
+## Titre IV Autres activités économiques (Titre IV de la loi)
+
+### Chapitre I Solariums (Section V de la loi)
+
+#### Art. 46
+
+**Devoir d'information (art. 88b de la loi)**
+
+<sup>1</sup> Celui qui met à disposition du public des appareils de bronzage (solariums) doit apposer, à proximité de l'entrée ainsi que de chaque appareil de bronzage, un avis, d'un format minimal A4 (210 mm x 297 mm) rappelant aux usagers :
+
+- a. que l'utilisation d'appareils de bronzage (solariums) est interdite aux personnes de moins de 18 ans révolus (mineurs) ;
+- b. que toute personne souhaitant utiliser un appareil de bronzage (solarium) doit être en mesure d'établir son âge exact, au moyen d'un document officiel muni d'une photographie, tel qu'un passeport, une carte d'identité ou un permis de conduire ;
+- c. que l'utilisation d'appareils de bronzage (solariums) peut causer des atteintes irréversibles à la santé (cancers de la peau, lésions oculaires, vieillissement prématuré de la peau) ;
+- d. que les risques pour la santé sont accrus pour les personnes présentant des facteurs de sensibilité aux rayonnements ultra-violets (caractéristiques de la peau, maladies, antécédents familiaux) ;
+- e. les précautions d'usage à prendre lors de l'utilisation de tels appareils.
+
+<sup>2</sup> Une directive du département, élaborée en collaboration avec le département en charge de la santé, précise l'information relative à l'alinéa 1, lettres c, d, et e devant figurer sur l'affiche.
+
+## Titre V Surveillance et voies de droit (Titre V de la loi)
+
+### Chapitre I Achats-tests (art. 98a à 98c de la loi)
+
+#### Art. 47
+
+**Dispositions particulières (art. 98c de la loi)**
+
+<sup>1</sup> Le Conseil d'Etat fixe par voie de directives les dispositions particulières liées aux achats-tests après consultation de la commission d'éthique instituée en application de l'article 98c, alinéa 2 de la loi[^47-1] .
+
+[^47-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 48
+
+**Commission d'éthique (art. 98c, al. 2 de la loi)**
+
+<sup>1</sup> Par "commission d'éthique" on entend la commission cantonale d'éthique de la recherche sur l'être humain (CER-VD) au sens de la loi sur la santé publique[^48-1] et de la loi fédérale y afférente.
+
+<sup>2</sup> Toute modification des dispositions du présent règlement ou de la directive liée aux achats-tests doit être préalablement soumise à cette commission d'éthique.
+
+[^48-1]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
+
+## Titre VI Emoluments
+
+#### Art. 49
+
+**Principe**
+
+<sup>1</sup> Le montant des différents émoluments dus en application de la loi[^49-1] est fixé dans le présent règlement.
+
+<sup>2</sup> Les émoluments suivants sont perçus par les autorités chargées de l'application de la loi et du présent règlement :
+
+- a. des émoluments de délivrance ;
+- b. des émoluments de refus ;
+- c. des émoluments en cas de renouvellement ;
+- d. des émoluments de surveillance ;
+- e. des frais supplémentaires d'intervention ;
+- f. des émoluments pour l'élaboration de listes d'entreprises.
+
+[^49-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 50
+
+**Montant de l'émolument de délivrance (art. 20 de la loi) [^49-2]**
+
+<sup>1</sup> Le montant de l'émolument de délivrance est forfaitaire et est fixé par type d'autorisation, sur la base de l'échelle suivante :
+
+- a. autorisation pour activité économique présentant un danger pour la sécurité et l'ordre publics (art. 5 de la loi[^50-1]) : CHF 500.-
+- b. ventes aux enchères publiques volontaires : CHF 200.-
+- c. activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 500.-
+- d. courtier ou prêteur en crédit : CHF 1000.-
+- e. prêt sur gage ou achat à réméré : CHF 500.-
+- f. vente en détail de tabac (art. 66l de la loi) : CHF 200.-
+- g. commerce d'occasions : CHF 500.-
+- h. par appareil automatique : CHF 150.-
+- i. autorisation globale d'appareils automatiques : CHF 500.-
+
+[^49-2]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1, f; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^50-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 51
+
+**Emoluments pour la décision de refus d'une autorisation (art. 20 de la loi)**
+
+<sup>1</sup> La décision de refus d'une autorisation est soumise à la perception d'un émolument, conformément au barème de l'article 54, du présent règlement.
+
+#### Art. 52
+
+**Emolument de renouvellement (art. 20 de la loi) [^51-1]**
+
+<sup>1</sup> Le montant de l'émolument de renouvellement d'une autorisation est forfaitaire et est fixé par type d'autorisation, sur la base de l'échelle suivante :
+
+autorisation pour activité économique présentant un danger pour la sécurité et l'ordre publics (art. 5 de la loi[^52-1] ) : CHF 250.- ventes aux enchères publiques volontaires : CHF 100.- activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 250.- courtier ou prêteur en crédit : CHF 500.- prêt sur gage ou achat à réméré : CHF 250.- vente en détail de tabac : CHF 250.- commerce d'occasions : CHF 250.- par appareil automatique : CHF 100.- autorisation globale d'appareils automatiques : CHF 250.-
+
+[^51-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1, f; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^52-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+
+#### Art. 53
+
+**Emoluments annuels de surveillance (art. 66m de la loi) [^52-2]**
+
+<sup>1</sup> Un émolument annuel de surveillance est perçu par la préfecture et la municipalité concernées auprès des titulaires d'autorisation de vente en détail de tabac.
+
+<sup>2</sup> Le montant annuel de cet émolument est de CHF 250.- par point de vente en détail de tabac.
+
+[^52-2]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+
+#### Art. 54
+
+**Frais supplémentaires d'intervention (art. 91, al. 1 de la loi)**
+
+<sup>1</sup> Les interventions supplémentaires sollicitées ou occasionnées donnent lieu à la perception d'émoluments.
+
+<sup>2</sup> Entrent notamment dans la catégorie des interventions supplémentaires les courriers, les convocations, les attestations, les avertissements, les inspections et les décisions.
+
+<sup>3</sup> Les émoluments perçus à titre de frais supplémentaires d'intervention sont calculés sur la base de l'échelle suivante :
+
+- a. moins d'une demi-journée de travail : CHF 300.-
+- b. une demi-journée de travail : CHF 500.-
+- c. une journée de travail : CHF 800.-
+
+#### Art. 55
+
+**Emoluments pour l'élaboration de listes d'entreprises (art. 11 de la loi)**
+
+<sup>1</sup> Le canton peut percevoir un émolument de 50 centimes suisses, par adresse, mais au minimum CHF 50.- par demande, pour l'élaboration de listes d'entreprises extraites du registre cantonal des entreprises.
+
+<sup>2</sup> La commune fixe l'émolument pour l'élaboration de listes d'entreprises extraites de son registre des entreprises. L'émolument communal ne peut, cependant, pas être supérieur à celui perçu par l'Etat.
+
+#### Art. 56
+
+**Echéance et rappel**
+
+<sup>1</sup> Les émoluments sont échus :
+
+- a. dès l'entrée en force pour les décisions ;
+- b. dès la facturation pour les prestations.
+
+<sup>2</sup> Le délai de paiement est de 30 jours à compter de l'échéance. Le département peut le prolonger dans des cas particuliers.
+
+<sup>3</sup> En cas de non-paiement dans les délais, le département accorde, en règle générale par courrier recommandé, un nouveau délai de 20 jours à la personne assujettie et lui notifie qu'en cas de non-paiement dans ce délai, celle-ci pourra voir son autorisation suspendue ou retirée et qu'elle pourra être dénoncée en préfecture.
+
+#### Art. 57
+
+**Frais de rappel et intérêts moratoires**
+
+<sup>1</sup> Tout rappel ou sommation de paiement des émoluments donne lieu à la perception d'un émolument de CHF 100.- de frais administratifs.
+
+<sup>2</sup> Des intérêts de retard sont dus dès l'échéance mentionnée sur la facture.
+
+#### Art. 58
+
+**Exécution forcée**
+
+<sup>1</sup> Lorsque la dette reste impayée, une poursuite est introduite. Le département a qualité de mandataire légal du canton tant dans les procédures de recouvrement que dans les procédures associées.
+
+[^58-1]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
+
+## Titre VII Dispositions finales
+
+[^58-1]
+
+#### Art. 59
+
+**Abrogation**
+
+<sup>1</sup> Le règlement du 22 février 2006 d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques (RLEAE) est abrogé, dès l'entrée en vigueur du présent règlement.
+
+#### Art. 60
+
+**Disposition finale**
+
+<sup>1</sup> Le Département de l'économie et du sport est chargé de l'exécution du présent règlement qui entre en vigueur le 1er novembre 2014, à l'exception des articles 31 à 34, qui entrent en vigueur le 1er janvier 2016.
