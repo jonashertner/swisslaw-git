@@ -1,0 +1,32 @@
+---
+canton: GR
+number: "720.280"
+title: "Accordo di reciprocità fra il Governo del Cantone del Giura e il Governo del Cantone dei Grigioni circa l'esenzione dalle imposte sulla successione e sulle donazioni di versamenti a scopi pubblici, di utilità pubblica e di beneficenza"
+language: it
+version: 1979-01-01
+corrected: 2013-05-14
+version_adopted: 1979-01-15
+adopted: 1979-01-15
+in_force: 1979-01-01
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.280"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/367/pdf_file"
+text: pdf
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+
+# Accordo di reciprocità fra il Governo del Cantone del Giura e il Governo del Cantone dei Grigioni circa l'esenzione dalle imposte sulla successione e sulle donazioni di versamenti a scopi pubblici, di utilità pubblica e di beneficenza
+
+approvato dal Governo dei Grigioni e dal Governo del Cantone del Giura il 15 gennaio 1979
+
+- 1\. I Governi del Cantone del Giura e del Cantone dei Grigioni hanno convenuto di esentare reciprocamente dalle imposte sulle successioni, sui legati e sulle donazioni, i versamenti effettuati a favore dello Stato e dei suoi istituti e stabilimenti, dei circoli e dei comuni e dei loro istituti e stabilimenti nonché delle persone giuridiche con scopi pubblici, di utilità pubblica e di beneficenza.
+
+- 2\. L'esenzione da parte del Cantone del Giura concerne le imposte sulle successioni, sui legati e sulle donazioni, l'esenzione da parte del Cantone dei Grigioni le imposte sulle successioni e sulle donazioni nonché le eventuali imposte sulle successioni e sulle donazioni dei comuni politici menzionati nell'annesso al presente accordo.
+
+- 3\. Il presente accordo entra in vigore il 1° gennaio 1979. L'esenzione si applica a tutte le successioni aperte e ai legati e alle donazioni avvenuti dopo tale data. Riguardo ai contribuenti residenti in comuni grigioni che non hanno finora aderito al presente accordo, l'esenzione verrà concessa solo per le successioni aperte e per le donazioni avvenute dopo l'adesione del comune.
+
+- 4\. I due Governi possono in ogni momento recedere dal presente accordo con un termine di sei mesi.
+
+Finora hanno dichiarato la propria adesione 200 comuni. Non hanno ancora dichiarato la propria adesione i seguenti 13 comuni:
+
+Feldis/Veulden S-chanf Fuma Sen Lostallo Tschappina Lü Urmein Mastrils Valendas Ruschein Zillis-Reischen Saas

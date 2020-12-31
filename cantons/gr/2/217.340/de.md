@@ -1,0 +1,231 @@
+---
+canton: GR
+number: "217.340"
+title: Verordnung über den Leitungskataster
+short: KVLK
+language: de
+version: 2016-06-01
+version_adopted: 2016-05-17
+adopted: 2016-05-17
+in_force: 2016-06-01
+url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/217.340"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2678/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über den Leitungskataster
+
+(KVLK)
+
+Vom 17.05.2016 (Stand 01.06.2016)
+
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] sowie Art. 39 des kantonalen Geoinformationsgesetzes[^ingress-2]
+
+von der Regierung erlassen am 17. Mai 2016
+
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [217.300](https://www.gr-lex.gr.ch/data/217.300/de)
+
+## 1. Allgemeines
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Diese Verordnung regelt die Führung der kommunalen Leitungskataster und der kantonalen Übersicht dazu sowie die Nutzung der entsprechenden Daten.
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Der Leitungskataster umfasst sämtliche unterirdischen und oberirdischen Leitungen und zugehörigen Anlagen im Gebiet des Kantons.
+
+<sup>2</sup> Ausgenommen hiervon sind:
+
+- a) landwirtschaftliche Drainageleitungen;
+- b) Leitungen und Anlagen untergeordneter Bedeutung.
+
+<sup>3</sup> Leitungen in Bahntrassees sowie geschlossene Leitungssysteme, welche sich ausschliesslich auf einem bestimmten Areal (zum Beispiel Gewerbe-, Industrie- oder Sportareal) befinden, müssen nicht in den Leitungskataster aufgenommen werden. Leitungen, welche das Trassee oder das Areal queren, sind jedoch in jedem Fall in den Leitungskataster aufzunehmen.
+
+## 2. Organisation und Zuständigkeiten
+
+#### Art. 3
+
+**Amt**
+
+<sup>1</sup> Dem Amt für Landwirtschaft und Geoinformation (Amt) obliegt die Aufsicht über die kommunalen Leitungskataster.
+
+<sup>2</sup> Das Amt:
+
+- a) ist zuständig für den Erlass von Weisungen;
+- b) nimmt die aktuellen Geodaten der Werke für den Leitungskataster entgegen, sofern deren Leitungen und Anlagen in mehr als einer Gemeinde liegen, und stellt diese gemeindeweise den jeweiligen Datenverwaltungsstellen zur Verfügung;
+- c) stellt einen Checkservice zur Verfügung und kann weitere Werkzeuge zur Qualitäts- und Datensicherung, für den Datenaustausch sowie zur Archivierung bereitstellen; und
+- d) sorgt für eine angemessene Publikation der von den Gemeinden bezeichneten Datenverwaltungsstellen.
+
+#### Art. 4
+
+**Gemeinden**
+
+<sup>1</sup> Die Gemeinden bestimmen eine geeignete Datenverwaltungsstelle und melden diese dem Amt.
+
+<sup>2</sup> Die Gemeinden haben im Rahmen von Baubewilligungen und Projektgenehmigungen die Bauherrschaft anzuweisen, das Offenlegen, die Erstellung oder die Veränderung von unterirdischen Leitungen und Anlagen den Werkeigentümern zu melden.
+
+#### Art. 5
+
+**Datenverwaltungsstelle**
+
+<sup>1</sup> Die Datenverwaltungsstelle hat folgende Aufgaben:
+
+- a) die Entgegennahme, die Qualitätsprüfung und die Zusammenführung der aktuellen Geodaten der Werke für den Leitungskataster;
+- b) die Verwaltung, die Sicherung und die Archivierung der Geobasisdaten des Leitungskatasters;
+- c) die Abgabe der Geobasisdaten aus dem Leitungskataster und daraus abgeleiteter Produkte;
+- d) die Weitergabe der Geobasisdaten des Leitungskatasters via Checkservice an das Amt nach jeder Aktualisierung.
+
+<sup>2</sup> Sie kann den Leitungskataster den Berechtigten über webbasierte Such-, Darstellungs- und Downloaddienste gemäss den Weisungen des Amts zugänglich machen.
+
+<sup>3</sup> Im Rahmen der Datenabgabe informiert die Datenverwaltungsstelle über die Herkunft und Aktualität der Daten und gibt die Nutzungsbedingungen sowie den Haftungsausschluss bekannt.
+
+#### Art. 6
+
+**Werkeigentümer**
+
+<sup>1</sup> Die Werkeigentümer sind vorbehältlich der nachfolgenden Bestimmungen frei in der Erhebung, Nachführung und Verwaltung ihrer Werkinformationen.
+
+<sup>2</sup> Sie übermitteln den Datenverwaltungsstellen die aktuellen Geodaten des Werks für den Leitungskataster. Sofern ihre Leitungen und Anlagen in mehr als einer Gemeinde liegen, kann die Datenübermittlung an das Amt erfolgen.
+
+<sup>3</sup> Die Übermittlung der Geodaten von den Werken hat via Checkservice des Amts mindestens jährlich zu erfolgen.
+
+<sup>4</sup> Die Werkeigentümer haben ihre offengelegten, noch nicht eingemessenen oder neu erstellten Leitungen im offenen Graben einzumessen oder einmessen zu lassen.
+
+#### Art. 7
+
+**Weisungen**
+
+<sup>1</sup> Die Weisungen richten sich nach den geltenden Normen und Richtlinien der Branchenverbände.
+
+<sup>2</sup> Beim Erlass von Weisungen sind die kantonalen Fachstellen, die Gemeinden und die überkommunalen Werke anzuhören.
+
+## 3. Technische Anforderungen
+
+#### Art. 8
+
+**Grundlagen des Leitungskatasters**
+
+<sup>1</sup> Die aktuellen Daten der amtlichen Vermessung bilden die Georeferenzdaten des Leitungskatasters.
+
+<sup>2</sup> Für die Führung der Leitungskataster gelten grundsätzlich die Norm SIA 405 und deren Merkblätter.
+
+#### Art. 9
+
+**Form des Leitungskatasters**
+
+<sup>1</sup> Im Objektkatalog für den Leitungskataster werden in seiner jeweils gültigen Fassung Inhalt und Struktur der Geobasisdaten des Leitungskatasters als Untermenge der Werkinformationen verbindlich festgelegt.
+
+<sup>2</sup> Das Geodatenmodell für den Leitungskataster beschreibt in seiner jeweils gültigen Fassung den Inhalt gemäss Objektkatalog und die Datenstruktur in der normierten Datenbeschreibungssprache INTERLIS.
+
+<sup>3</sup> Das Darstellungsmodell für den Leitungskataster legt in seiner jeweils gültigen Fassung die grafische Darstellung des Leitungskatasters fest.
+
+#### Art. 10
+
+**Inhalt des Leitungskatasters**
+
+<sup>1</sup> Der Leitungskataster gibt Auskunft über Leitungen und Anlagen mit ihren Objekten und Attributen. Vorbehalten bleiben die genauen Informationen durch den jeweiligen Werkeigentümer.
+
+<sup>2</sup> Der Leitungskataster enthält insbesondere die Leitungen mit ihren ober- und unterirdischen baulichen Anlagen der folgenden Medien:
+
+- a) Abwasser;
+- b) Elektrizität;
+- c) Fernwärme;
+- d) Gas;
+- e) Kommunikation;
+- f) Wasser;
+- g) weitere Medien.
+
+<sup>3</sup> Leitungen sind bis zum Hausanschluss beziehungsweise Einspeisepunkt Bestandteil des Leitungskatasters.
+
+#### Art. 11
+
+**Vereinfachte Verfahren**
+
+<sup>1</sup> Das Amt kann für die Erhebung der Geobasisdaten für den Leitungskataster bei bestehenden Leitungen und Anlagen vereinfachte Verfahren festlegen.
+
+## 4. Zugang und Nutzung
+
+#### Art. 12
+
+**Berechtigung**
+
+<sup>1</sup> Die Geobasisdaten des Leitungskatasters sind nur beschränkt öffentlich zugänglich (Zugangsberechtigungsstufe B gemäss der Verordnung über Geoinformation[^12-1]).
+
+<sup>2</sup> Der Zugang wird gewährt:
+
+- a) den innerhalb einer Gemeinde am Leitungskataster beteiligten Werkeigentümern;
+- b) den kantonalen, kommunalen und eidgenössischen Verwaltungseinheiten, sofern die Daten des Leitungskatasters für die Erfüllung der gesetzlichen Aufgaben gebraucht werden;
+- c) Dritten, wenn sie im Auftrag des Kantons oder der Gemeinde handeln oder ein berechtigtes Interesse nachweisen können.
+
+[^12-1]: SR [510.620](https://db.clex.ch/link/Bund/510.620/de)
+
+#### Art. 13
+
+**Datenabgabe**
+
+<sup>1</sup> Die Datenabgabe erfolgt durch die Datenverwaltungsstellen.
+
+<sup>2</sup> Die Daten müssen mindestens in INTERLIS und im DXF-Format verfügbar sein.
+
+<sup>3</sup> Bei der Abgabe von Geobasisdaten aus dem Leitungskataster und daraus abgeleiteter Produkte ist dem Empfänger das Datenaustauschprotokoll zu übermitteln.
+
+#### Art. 14
+
+**Kantonale Übersicht**
+
+<sup>1</sup> Das Amt erzeugt aus den Geobasisdaten des Leitungskatasters eine digitale Übersicht für verwaltungsinterne Zwecke und für überkommunale Werkeigentümer, deren Anlagen ebenfalls im Leitungskataster des Kantons Graubünden aufgenommen worden sind.
+
+## 5. Gebühren und Kosten
+
+#### Art. 15
+
+**Gebühren**
+
+<sup>1</sup> Die Datenverwaltungsstellen können Gebühren für den Zugang zum Leitungskataster nach der Gebührenverordnung zum kantonalen Geoinformationsgesetz[^15-1] erheben.
+
+[^15-1]: BR [217.330](https://www.gr-lex.gr.ch/data/217.330/de)
+
+#### Art. 16
+
+**Kostentragung**
+
+<sup>1</sup> Die Kosten, welche durch die Erfüllung der Aufgaben der Datenverwaltungsstelle gemäss Artikel 5 verursacht werden, haben die Gemeinden zu tragen.
+
+<sup>2</sup> Die Kosten für die Erhebung, die Nachführung, die Verwaltung und die Übermittlung der Geodaten des Werks für den Leitungskataster gehen zulasten des jeweiligen Werkeigentümers.
+
+<sup>3</sup> Der Bezug der Referenzdaten aus der amtlichen Vermessung erfolgt über die kantonale Datendrehscheibe und ist unentgeltlich.
+
+#### Art. 17
+
+**Mitwirkung interessierter Kreise**
+
+<sup>1</sup> Eine Änderung der Weisungen erfolgt unter der Federführung des Kantons. Die Kosten für eine allfällige Mitwirkung interessierter Kreise gehen zu deren Lasten.
+
+#### Art. 18
+
+**Datenaustausch**
+
+<sup>1</sup> Der Datenaustausch zwischen den Werkeigentümern, der Datenverwaltungsstelle und dem Amt ist unentgeltlich. Darunter fallen auch die Nutzung der Prüfwerkzeuge für die automatisierte Qualitätskontrolle und die Nutzung von Geodiensten.
+
+<sup>2</sup> Die Werkeigentümer haben kostenlos Zugang zu den Leitungskataster-Daten bezüglich der übrigen Werke in denjenigen Gemeinden, in denen sie selbst Anlagen und Leitungen besitzen, welche im Leitungskataster aufgenommen sind.
+
+## 6. Schlussbestimmungen
+
+#### Art. 19
+
+**Einführung des Leitungskatasters**
+
+<sup>1</sup> Die Gemeinden melden dem Amt die von ihr bezeichnete Datenverwaltungsstelle bis spätestens 31. Dezember 2018.
+
+<sup>2</sup> Die Werkeigentümer haben spätestens ab 1. Januar 2025 die erforderlichen Daten zur Führung des Leitungskatasters gemäss dieser Verordnung der Datenverwaltungsstelle oder dem Amt zu übermitteln.
+
+<sup>3</sup> Die Datenverwaltungsstellen haben spätestens ab 1. Januar 2025 den Leitungskataster gemäss dieser Verordnung zu führen.
+
+2016-008

@@ -1,0 +1,159 @@
+---
+canton: GR
+number: "810.120"
+title: "Regolamento sull'assicurazione"
+language: it
+version: 1995-07-01
+corrected: 2014-11-07
+version_adopted: 1995-06-20
+adopted: 1995-06-20
+in_force: 1995-07-01
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/810.120"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/411/pdf_file"
+text: pdf
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+
+# Regolamento sull'assicurazione
+
+emanato dal Governo il 20 giugno 1995
+
+visto l'art. 27 cpv. 2-4 della legge sui diritti d'acqua del Cantone dei Grigioni (LGDA)[^t-1] del 22 marzo 1995
+
+I. Disposizioni generali
+
+[^t-1]: CSC 810.100
+
+#### Art. 1
+
+**Oggetto**
+
+Il presente regolamento disciplina la copertura della responsabilità sancita dal diritto federale per danni alle persone e alle cose in seguito a sinistri causati dalla costruzione, dall'esistenza e dalla gestione di impianti che servono allo sfruttamento della forza idrica (centrali idroelettriche).
+
+#### Art. 2
+
+**Campo d’applicazione**
+
+Tutte le centrali idroelettriche del Cantone dei Grigioni sottostanno al presente regolamento. Sono fatte salve disposizioni divergenti contenute nel presente regolamento.
+
+#### Art. 3
+
+**Proprietario**
+
+È considerato proprietario di una centrale idroelettrica chi costruisce, possiede o gestisce un simile impianto.
+
+#### Art. 4
+
+**Importi di copertura 1. Principio**
+
+<sup>1</sup> La copertura ammonta almeno a:
+
+- a) 5 milioni di franchi per sinistro, ma a
+
+- b) 2 milioni di franchi per piccoli impianti con una potenza fino a 300 kW.
+
+<sup>2</sup> Per impianti con bacini di ritenuta deve essere stipulata un'assicurazione complementare per sinistri causati da componenti che portano acqua, di modo che la copertura complessiva:
+
+- a) ammonti in ogni caso almeno a 50 milioni di franchi, ma
+
+- b) almeno a 200 milioni di franchi se la capacità utile (del bacino di ritenuta e del bacino di compensazione insieme) supera i 5 milioni di metri cubi.
+
+#### Art. 5
+
+**2. Eccezioni**
+
+<sup>1</sup> Per impianti con un elevato potenziale di rischio per via della particolare situazione locale, il Governo può aumentare l'importo complessivo dell'assicurazione fino a 200 milioni di franchi.
+
+<sup>2</sup> Per impianti con un potenziale di rischio ridotto per via della particolare situazione locale, il Governo può esonerare dall'obbligo di assicurazione. La comprova del potenziale di rischio ridotto deve essere fornita dal proprietario della centrale idroelettrica.
+
+#### Art. 6
+
+**3. Aumento**
+
+Il Governo può aumentare la copertura secondo gli articoli 4 e 5 capoverso 1 se vengono offerte prestazioni assicurative supplementari ad adeguate condizioni.
+
+#### Art. 7
+
+**Assicurazione 1. Stipulazione**
+
+<sup>1</sup> L'obbligo di stipulazione dell'assicurazione complementare può essere adempiuto stipulando l'assicurazione presso una società che riassicura il rischio nel «Pool svizzero per l'assicurazione dei rischi di responsabilità civile costituita dagli sbarramenti idrici (PSS)».
+
+<sup>2</sup> Il PSS mette a disposizione di tutti gli impianti assicurati presso quest'ultimo, due volte all'anno, un importo assicurativo di 45 milioni di franchi (art. 4 cpv. 2, lett. a) rispettivamente 195 milioni di franchi (art. 4 cpv. 2, lett. b), al massimo tuttavia 390 milioni di franchi all'anno.
+
+#### Art. 8
+
+**2. Contratto modello**
+
+Il Governo approva contratti modello per la definizione dei dettagli delle polizze.
+
+#### Art. 9
+
+**3. Comprova dell’assicurazione**
+
+L'assicuratore deve attestare all'attenzione del Dipartimento competente la stipulazione della necessaria assicurazione di responsabilità civile.
+
+#### Art. 10
+
+**4. Sospensione e fine dell'assicurazione**
+
+<sup>1</sup> La sospensione e la fine dell'assicurazione devono essere notificate dall'assicuratore al Dipartimento competente e diventano efficaci, se l'assicurazione non è stata sostituita prima da un'altra, sei mesi dopo la ricezione della notifica.
+
+<sup>2</sup> Per non interrompere la copertura assicurativa, in caso di necessità il Governo paga un premio assicurativo dovuto al posto del proprietario della centrale idroelettrica. Questi deve rimborsare le spese (importo del premio, costi, interessi) al Cantone.
+
+#### Art. 11
+
+**Azione diretta, esclusione di eccezioni, regresso**
+
+<sup>1</sup> Il danneggiato può agire direttamente contro l’assicuratore nei limiti della copertura stipulata nel contratto d’assicurazione.
+
+<sup>2</sup> Le eccezioni derivanti dal contratto d’assicurazione o dalla legge federale sul contratto d’assicurazione non possono essere opposte al danneggiato.
+
+<sup>3</sup> L’assicuratore ha diritto di regresso contro il responsabile assicurato, nella misura in cui avrebbe avuto diritto di negare o ridurre le sue prestazioni secondo il contratto d’assicurazione o la legge federale sul contratto d’assicurazione. Egli può far valere di suo diritto di regresso soltanto se il danneggiato non subisce alcun pregiudizio.
+
+#### Art. 12
+
+**Diversi danneggiati 1. Notifica ed estinzione delle pretese**
+
+<sup>1</sup> Se i danni superano l'assicurazione complementare, il Governo può fissare, dopo aver sentito l'assicuratore, un termine per la notifica delle pretese di risarcimento da parte dei danneggiati.
+
+<sup>2</sup> Per precauzione l'assicuratore deduce un decimo dell'importo assicurativo per i danni la cui notifica è stata omessa involontariamente. Le rimanenti pretese di risarcimento notificate in ritardo all'assicuratore si estinguono.
+
+#### Art. 13
+
+**2. Classi di pretesa**
+
+<sup>1</sup> Le pretese notificate vengono classificate nel modo seguente:
+
+- a) prima classe: 70 percento del danno alle persone per ogni persona alla quale non spetta alcuna prestazione dall'assicurazione contro gli infortuni per voci di danno equivalenti;
+
+- b) seconda classe: altri danni alle persone e alle cose che non sono compensati da prestazioni assicurative per voci equivalenti;
+
+- c) terza classe: diritti di regresso degli assicuratori contro gli infortuni e contro danni (alle cose).
+
+<sup>2</sup> La classe immediatamente superiore entra in considerazione solo se sono state soddisfatte le pretese della classe precedente.
+
+<sup>3</sup> Pretese di risarcimento di una classe che non possono essere accolte interamente vengono soddisfatte in modo proporzionale.
+
+#### Art. 14
+
+**3. Riduzione delle pretese**
+
+Se in casi in cui gli articoli 12 e 13 non trovano applicazione, le pretese dei danneggiati superano la copertura stipulata nel contratto d'assicurazione, il diritto di ogni danneggiato nei confronti dell'assicuratore si riduce in proporzione al rapporto tra la copertura assicurativa e l'importo delle pretese.
+
+#### Art. 15
+
+**4. Esonero dell'assicuratore**
+
+Se l'assicuratore, non essendo a conoscenza di altre pretese, ha versato in buona fede ad un danneggiato un importo che supera la relativa quota proporzionale, egli è esonerato in misura della sua prestazione anche rispetto agli altri danneggiati.
+
+### II. Disposizione finale
+
+#### Art. 16
+
+**Entrata in vigore**
+
+Il presente regolamento entra in vigore[^16-1] insieme alla legge sui diritti d'acqua del Cantone dei Grigioni (LGDA)[^16-2].
+
+[^16-1]: Posto in vigore per il 1° lug. 1995 con DG del 20 giu. 1995
+[^16-2]: CSC 810.100

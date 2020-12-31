@@ -1,0 +1,118 @@
+---
+canton: GR
+number: "548.210"
+title: Ausführungsbestimmungen zum Gesetz über Mutterschaftsbeiträge
+language: de
+version: 1998-12-01
+corrected: 2015-02-12
+version_adopted: 1998-10-27
+adopted: 1991-12-17
+in_force: 1992-01-01
+url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/548.210"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2100/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ausführungsbestimmungen zum Gesetz über Mutterschaftsbeiträge
+
+Vom 17.12.1991 (Stand 01.12.1998)[^t-1]
+
+Von der Regierung erlassen am 17. Dezember 1991
+
+[^t-1]: BR [548.200](https://www.gr-lex.gr.ch/data/548.200/de)
+
+#### Art. 1
+
+**Zuständigkeit**
+
+<sup>1</sup> Die Abklärung der Anspruchsberechtigung und die Beratung der Gesuchsteller obliegt den regionalen beziehungsweise kommunalen öffentlichen Sozialdiensten.
+
+<sup>2</sup> Die Festlegung und Auszahlung der Beiträge obliegt dem kantonalen Sozialamt.
+
+#### Art. 2
+
+**Anspruchsberechtigung**
+
+<sup>1</sup> Üben die Elternteile ein unterschiedliches Arbeitspensum aus, gilt derjenige mit dem kleineren Pensum als betreuender Elternteil.
+
+#### Art. 3
+
+**Unterlagen**
+
+<sup>1</sup> Der ansprucherhebende Elternteil hat zum Gesuch folgende Unterlagen beizubringen:
+
+- a) eine ärztliche Bescheinigung über den mutmasslichen Geburtstermin oder den Geburtsschein;
+- b) den Schriftenempfangsschein oder eine Wohnsitzbescheinigung;
+- c) einen vom Gemeindesteueramt bestätigten Ausweis über das Total der Einkünfte und das Reinvermögen der letzten Steuererklärung und andere Ausweise über die wirtschaftlichen Verhältnisse des betreuenden Elternteils respektive der verheirateten oder zusammenlebenden Eltern, soweit sie für die Bezugsberechtigung massgeblich sind;
+- d) den Mietvertrag oder den Beleg über die Hypothekarzinsbelastung;
+- e) eine Erklärung, dass die Beitragsvoraussetzungen gemäss Artikel 2 Litera c–e des Gesetzes erfüllt sind;
+- f) den Versicherungsausweis der Krankenkasse.
+
+#### Art. 4
+
+**Beitragsberechnung**
+
+<sup>1</sup> Für die Berechnung der Vermögensfreigrenzen wird der Kinderanteil nicht miteinbezogen.
+
+<sup>2</sup> Bei den Mietkosten wird auf die Ansätze der Ergänzungsleistungen für Ehepaare abgestellt, wobei der Selbstbehalt nicht angerechnet wird.
+
+#### Art. 5
+
+**Alleinstehende Elternteile in Wohn- und Wirtschaftsgemeinschaften**
+
+<sup>1</sup> Bei der Berechnung der Mietanteile und der Entschädigung für die Haushaltsführung gelten die Richtlinien für die Ausgestaltung und Bemessung der Sozialhilfe der Schweizerischen Konferenz für Sozialhilfe.
+
+#### Art. 6
+
+**Anrechenbares Einkommen**
+
+<sup>1</sup> Als anrechenbares Einkommen gelten alle wiederkehrenden und einmaligen Einkünfte gemäss dem Steuergesetz für den Kanton Graubünden sowie der gemäss Artikel 5 Absatz 4 des Gesetzes[^6-1] anzurechnende Vermögensverzehr.
+
+<sup>2</sup> Einkommen, das während der Beitragsdauer begründet wird (Alimente, Renten, Subventionen etc.), jedoch erst nach der Beitragsdauer zur Auszahlung gelangt, ist bei der Berechnung des Einkommens anteilmässig miteinzubeziehen.
+
+[^6-1]: BR [548.200](https://www.gr-lex.gr.ch/data/548.200/de)
+
+#### Art. 7
+
+**Anrechenbares Vermögen**
+
+<sup>1</sup> Als anrechenbares Vermögen gilt das Reinvermögen im Zeitpunkt der Gesuchseinreichung.
+
+#### Art. 8
+
+**Auszahlungsmodus**
+
+<sup>1</sup> Die erste Beitragsrate wird im Monat nach dem Geburtsmonat ausgerichtet.
+
+#### Art. 9
+
+**Härtefälle**
+
+<sup>1</sup> Für die Beurteilung des Vorliegens eines Härtefalles ist auf das Kindesinteresse abzustellen.
+
+<sup>2</sup> Ein Härtefall ist insbesondere bei einer schweren, eine erhöhte Betreuungsbedürftigkeit mit sich bringenden Krankheit oder Behinderung des Kindes gegeben.
+
+#### Art. 10
+
+**…**
+
+#### Art. 11
+
+**…**
+
+#### Art. 11a
+
+**…**
+
+#### Art. 12
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Ausführungsbestimmungen treten zusammen mit dem Gesetz über Mutterschaftsbeiträge in Kraft[^12-1].
+
+<sup>2</sup> …
+
+[^12-1]: Auf 1. Januar 1992 in Kraft getreten; vgl. FN zu Art. 15 BR [548.200](https://www.gr-lex.gr.ch/data/548.200/de)
+
+-

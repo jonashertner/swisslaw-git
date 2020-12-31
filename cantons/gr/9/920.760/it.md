@@ -1,0 +1,187 @@
+---
+canton: GR
+number: "920.760"
+title: Atto pubblico sulla costituzione della fondazione Scuola forestale intercantonale di Maienfeld
+language: it
+version: 1972-10-11
+corrected: 2013-05-15
+version_adopted: 1972-10-11
+adopted: 1972-10-11
+in_force: 1972-10-11
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/920.760"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/489/pdf_file"
+text: pdf
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+
+# Atto pubblico sulla costituzione della fondazione Scuola forestale intercantonale di Maienfeld
+
+dell'11 ottobre 1972
+
+<sup>1</sup> Davanti al sottoscritto notaio del Cantone dei Grigioni, Dr. Robert Schwarz di Coira, si sono presentati oggi, 11 ottobre 1972, alle ore 10.00, nella sala riunioni del Dipartimento delle finanze e militare dei Grigioni, Steinbruchstrasse 20, Coira, per la costituzione di una fondazione i rappresentanti plenipotenziari del Cantone di Uri Cantone di Appenzello interno Cantone di Svitto Cantone di Appenzello esterno Cantone di Obwaldo Cantone di San Gallo Cantone di Nidwaldo Cantone dei Grigioni Cantone di Glarona Cantone di Turgovia Cantone di Zugo Cantone Ticino, nonché del Cantone di Sciaffusa Principato del Liechtenstein.
+
+<sup>2</sup> I plenipotenziari dichiarano in nome e per conto del loro mandante di voler costituire una fondazione e incaricano il sottoscritto notaio di redigere il presente atto pubblico.
+
+<sup>3</sup> I fondatori decidono quanto segue:
+
+- 1\. Nome e sede:
+
+I Cantoni di Uri, Svitto, Obwaldo, Nidwaldo, Glarona, Zugo, Sciaffusa, Appenzello interno, Appenzello esterno, San Gallo, Grigioni, Turgovia e Ticino, nonché il Principato del Liechtenstein costituiscono con il nome di «Scuola forestale intercantonale di Maienfeld» con sede a Maienfeld una fondazione ai sensi dell'articolo 80 e segg. CC.[^t-1]
+
+- 2\. Scopo:
+
+Lo scopo della fondazione é la costituzione e la gestione di una scuola per forestali. Nella scuola possono essere organizzati anche altri corsi ed attività.
+
+- 3\. Patrimonio:
+
+- a) Il patrimonio della fondazione consiste in un capitale sociale di 2 000 000 franchi, apportato dai Cantoni che hanno aderito alla fondazione e dal Principato del Liechtenstein in base alla chiave di ripartizione dell'«Accordo sulla costituzione e sulla gestione della Scuola forestale intercantonale di Maienfeld»[^t-2]. Questi si impegnano al versamento delle quote parti, entro il 31 agosto 1973, su un conto della Banca cantonale grigione di Coira.
+
+- b) Il Cantone di ubicazione dei Grigioni trasferisce totalmente o in parte alla fondazione il terreno edificabile «Bovel» a Maienfeld, acquistato a titolo precauzionale, computando la sua quota contributiva.
+
+- c) Il patrimonio della fondazione è alimentato:
+
+- aa) da sussidi dei Cantoni e del Principato del Liechtenstein
+
+- bb) da sussidi della Confederazione
+
+- cc) da proventi del patrimonio della fondazione
+
+- dd) da altre elargizioni.
+
+**4.**
+
+Organizzazione:
+
+Gli organi della fondazione sono:
+
+- a) un Consiglio di fondazione composto di 17 membri
+
+- b) un Comitato composto di 5 membri
+
+- c) un Ufficio di controllo
+
+- d) una Commissione d'esame
+
+- e) una Direzione.
+
+**5.**
+
+Il Consiglio di fondazione:
+
+- a) Il Consiglio di fondazione si compone di 17 membri. Fanno parte del Consiglio: un rappresentante ciascuno della Confederazione, del Principato del Liechtenstein e dei Cantoni di Uri, Svitto, Obwaldo, Nidwaldo, Glarona, Zugo, Sciaffusa, Appenzello interno, Appenzello esterno, Turgovia, Ticino, nonché due rappresentanti ciascuno dei Cantoni dei Grigioni e di San Gallo.
+
+- b) I membri vengono nominati dal Dipartimento federale dell'interno, dai Governi cantonali e dal Governo del Principato del Liechtenstein.
+
+- c) Il Consiglio di fondazione si costituisce da sé.
+
+- d) Il Consiglio di fondazione è l'organo supremo della Scuola. Esso è responsabile per la costituzione, l'amministrazione e l'attività della Scuola e si dota di un regolamento organico.
+
+- e) Il Consiglio di fondazione viene rappresentato con firma collettiva dal presidente o dal vicepresidente con l'attuario o il cassiere.
+
+- 6\. Il Comitato:
+
+- a) Il Comitato si compone di cinque membri del Consiglio di fondazione, nominati dal Consiglio di fondazione.
+
+Esso si costituisce da sé.
+
+- b) Le competenze del Comitato sono disciplinate nel regolamento organico.
+
+- 7\. L'Ufficio di controllo:
+
+- a) Il Controllo delle finanze del Cantone dei Grigioni ricopre la carica di Ufficio di controllo.
+
+- b) I compiti dell'Ufficio di controllo sono:
+
+- esame del conto capitale e di gestione, nonché del conto d'internato e del fondo
+
+- rapporto annuale al Consiglio di fondazione.
+
+- 8\. La Commissione d'esame:
+
+- a) La Commissione d'esame si compone di 5 membri che non devono far parte del Consiglio di fondazione. Essi vengono nominati dal Consiglio di fondazione.
+
+- b) Alla Commissione d'esame compete l'organizzazione degli esami in base ad un regolamento che deve essere emanato dal Consiglio di fondazione.
+
+- 9\. La Direzione:
+
+- a) La Scuola viene diretta da un direttore (ingegnere forestale con certificato federale di eleggibilità), al quale si aggiungono il
+
+personale insegnante e il personale amministrativo.
+
+- b) Il direttore viene nominato dal Consiglio di fondazione.
+
+- 10\. Scioglimento:
+
+- a) La fondazione può essere sciolta su decisione del Consiglio di fondazione con l'assenso di almeno <sup>2</sup>/3 di tutti i membri del Consiglio di fondazione. Per lo scioglimento è inoltre necessario il consenso del Consiglio federale svizzero.
+
+- b) Il Consiglio di fondazione decide in merito all'utilizzo del patrimonio della fondazione, salvaguardando il più possibile lo scopo della fondazione e l'interesse dei fondatori.
+
+- 11\. Accordo:
+
+L'«Accordo sulla costituzione e sulla gestione della Scuola forestale intercantonale di Maienfeld», approvato sulla base di singole decisioni dei Cantoni che hanno aderito alla fondazione e del Principato del Liechtenstein, inclusa la chiave di ripartizione per il
+
+**3**
+
+1.7.2008 finanziamento delle spese di costruzione,[^t-3] costituisce parte integrante del presente atto. Sono fatti salvi eventuali nuovi accordi sulla gestione della Scuola.
+
+- 12\. Entrata in vigore:
+
+Questa fondazione entra subito in vigore e deve essere registrata nel registro di commercio del Cantone dei Grigioni.
+
+I fondatori:
+
+CANTONE DI URI rappresentato dal Signor Georg Gerig, Ispettore forestale cantonale, Erstfeld
+
+CANTONE DI SVITTO rappresentato dal Signor Hans Fuchs, Landamano e Direttore del Dipartimento dell'economia agricola e forestale, Willerzell b.
+
+Einsiedeln
+
+CANTONE DI OBWALDO rappresentato dal Signor Leo von Wyl, Consigliere di Stato e Direttore del Dipartimento foreste, Sarnen
+
+CANTONE DI NIDWALDO rappresentato dal Signor Emil Saxer, Ispettore forestale, Buochs
+
+CANTONE DI GLARONA rappresentato dal Signor Abraham Knobel, Consigliere di Stato e Direttore delle foreste, Schwendi
+
+CANTONE DI ZUGO rappresentato dal Signor Thomas Fraefel, Consigliere di Stato e Direttore del Dipartimento sanità e foreste, Zugo
+
+CANTONE DI SCIAFFUSA rappresentato dal Signor Ernst Rahm, Segretario della Direzione della costruzioni, Bülach CANTONE DI APPENZELLO INTERNO rappresentato dal Signor Johann Koch, Consigliere di Stato e Presidente del Governo, Gonten
+
+CANTONE DI APPENZELLO ESTERNO rappresentato dal Signor Robert Höhener, Consigliere di Stato, Bühler
+
+CANTONE DI SAN GALLO rappresentato dal Signor Willy Herrmann, Consigliere di Stato e Direttore del Dipartimento dell'economia pubblica, San Gallo
+
+CANTONE DEI GRIGIONI rappresentato dal Signor Dr. Giachen G. Casaulta, Presidente del Governo e Direttore del Dipartimento costruzioni e foreste, Coira
+
+CANTONE DI TURGOVIA rappresentato dal Signor Dr. Clemens Hagen, Ispettore forestale cantonale, Frauenfeld
+
+CANTONE TICINO rappresentato dal Signor Ing. Vito Rossi, Ingegnere forestale, Bellinzona-Daro
+
+PRINCIPATO DEL LIECHTENSTEIN rappresentato dal Signor William Hoop, Consigliere governativo e Capo Sezione economia agricola e forestale, Eschen
+
+LA SUBVENIENTE:
+
+Confederazione Svizzera rappresentata dal Signor Paul Mühle, Ispettore forestale, Liebefeld/Berna
+
+Autenticazione
+
+<sup>1</sup> Il presente atto di fondazione è stato letto dal sottoscritto notaio ai rappresentanti dei Cantoni fondatori e del Principato del Liechtenstein, nonché della Confederazione svizzera quale subveniente, i quali attestano la propria identità con procure giuridicamente valide.
+
+**5**
+
+1.7.2008
+
+<sup>2</sup> Con il presente atto i rappresentanti dei fondatori e della subveniente dichiarano che il presente atto contiene l'espressione esatta della loro volontà e sottoscrivono l'atto alla presenza del notaio.
+
+<sup>3</sup> Il presente atto viene redatto in diciotto copie, una copia ciascuno per i Cantoni fondatori e il Principato del Liechtenstein, due copie per la Confederazione svizzera quale subveniente e autorità di vigilanza, nonché una copia per l'Ufficio del registro di commercio del Cantone dei Grigioni e una per il notaio autenticante.
+
+<sup>4</sup> A tutte le copie dell'atto vengono allegate una copia dell'«Accordo sulla costituzione e sulla gestione della Scuola forestale intercantonale di Maienfeld», nonché della chiave di ripartizione per il finanziamento delle spese di costruzione[^t-4]. Alla copia per il notaio vengono inoltre allegate tutte le procure di rappresentanza.
+
+<sup>5</sup> L'autenticazione avviene senza interruzione e alla presenza di tutte le parti nella sala riunioni del Dipartimento delle finanze e militare dei Grigioni, Steinbruchstrasse 20, Coira.
+
+Coira, undici ottobre millenovecentosettantadue 11 ottobre 1972 Reg. B/1972/Nr. 436 Il notaio: Dr. R. Schwarz
+
+[^t-1]: RS 210 1.7.2008 1
+[^t-2]: CSC 920.750 2 1.7.2008
+[^t-3]: CSC 920.750 4 1.7.2008
+[^t-4]: CSC 920.750 6 1.7.2008

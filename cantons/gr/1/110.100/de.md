@@ -1,0 +1,1148 @@
+---
+canton: GR
+number: "110.100"
+title: Verfassung des Kantons Graubünden
+language: de
+version: 2017-01-01
+corrected: 2016-12-06
+version_adopted: 2012-09-23
+adopted: 2003-09-14
+in_force: 2004-01-01
+url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2746/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verfassung des Kantons Graubünden
+
+Vom 14.09.2003 (Stand 01.01.2017)
+
+Wir, das Volk des Kantons Graubünden,
+
+im Bewusstsein unserer Verantwortung vor Gott sowie gegenüber den Mitmenschen und der Natur,
+
+im Bestreben, Freiheit, Frieden und Menschenwürde zu schützen, Demokratie und Rechtsstaat zu gewährleisten, Wohlfahrt und soziale Gerechtigkeit zu fördern und eine gesunde Umwelt für die künftigen Generationen zu erhalten,
+
+in der Absicht, die Dreisprachigkeit und kulturelle Vielfalt zu fördern
+
+und als Teil des geschichtlichen Erbes zu bewahren,
+
+geben uns folgende Verfassung[^ingress-1]:
+
+[^ingress-1]: B vom 15. Januar 2002, 479; GRP 2002/2003; 216 und 346 (1. Lesung) und 464 und 690 (2. Lesung); Gewährleistung vom 15. Juni 2004, BBL 2004, 3643
+
+## 1. Allgemeine Bestimmungen und Grundsätze des staatlichen Handelns
+
+#### Art. 1
+
+**Der Kanton Graubünden**
+
+<sup>1</sup> Der Kanton Graubünden ist ein freiheitlicher, demokratischer und sozialer Rechtsstaat.
+
+#### Art. 2
+
+**Verhältnis zum Bund, zu den Kantonen und zum Ausland**
+
+<sup>1</sup> Der Kanton Graubünden ist ein eigenständiger Kanton der Schweizerischen Eidgenossenschaft.
+
+<sup>2</sup> Er unterstützt den Bund in der Erfüllung seiner Aufgaben.
+
+<sup>3</sup> Er arbeitet mit den anderen Kantonen und mit dem benachbarten Ausland zusammen.
+
+<sup>4</sup> Er fördert die Verständigung und den Austausch zwischen den Landesteilen und den Sprachgemeinschaften der Schweiz.
+
+#### Art. 3
+
+**Sprachen**
+
+<sup>1</sup> Deutsch, Rätoromanisch und Italienisch sind die gleichwertigen Landes- und Amtssprachen des Kantons.
+
+<sup>2</sup> Kanton und Gemeinden unterstützen und ergreifen die erforderlichen Massnahmen zur Erhaltung und Förderung der rätoromanischen und der italienischen Sprache. Sie fördern die Verständigung und den Austausch zwischen den Sprachgemeinschaften.
+
+<sup>3</sup> Die Gemeinden bestimmen ihre Amts- und Schulsprachen im Rahmen ihrer Zuständigkeiten und im Zusammenwirken mit dem Kanton. Sie achten dabei auf die herkömmliche sprachliche Zusammensetzung und nehmen Rücksicht auf die angestammten sprachlichen Minderheiten.
+
+#### Art. 4
+
+**Gewaltenteilung und Gewaltenhemmung**
+
+<sup>1</sup> Der Aufbau des Staates und die Ausübung staatlicher Macht beruhen auf den Grundsätzen der Gewaltenteilung und Gewaltenhemmung.
+
+<sup>2</sup> Behörden wirken zur Erfüllung der Staatsziele im Rahmen ihrer Zuständigkeiten zusammen.
+
+#### Art. 5
+
+**Rechtsstaat**
+
+<sup>1</sup> Grundlage und Schranke des staatlichen Handelns ist das Recht.
+
+<sup>2</sup> Staatliches Handeln muss im öffentlichen Interesse liegen und verhältnismässig sein.
+
+<sup>3</sup> Behörden und Private handeln nach Treu und Glauben.
+
+#### Art. 6
+
+**Individuelle und gesellschaftliche Verantwortung**
+
+<sup>1</sup> Jede Person trägt Verantwortung für sich selbst sowie Mitverantwortung für die Gemeinschaft und für die Erhaltung der Lebensgrundlagen.
+
+## 2. Grundrechte und Sozialziele
+
+#### Art. 7
+
+**Grundrechte und Sozialziele**
+
+<sup>1</sup> Die Grundrechte und Sozialziele sind im Rahmen der Bundesverfassung und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet.
+
+#### Art. 8
+
+**Verfahrensgarantien und Rechtsschutz**
+
+<sup>1</sup> Die Verfahrensgarantien und der Rechtsschutz sind im Rahmen der Bundesverfassung und der für die Schweiz verbindlichen internationalen Abkommen gewährleistet.
+
+## 3. Politische Rechte
+
+### 3.1. Allgemeines
+
+#### Art. 9
+
+**Stimm- und Wahlrecht**
+
+<sup>1</sup> Das Stimm- und Wahlrecht steht allen Schweizerbürgerinnen und -bürgern zu, die das 18. Lebensjahr zurückgelegt haben und im Kanton wohnen.
+
+<sup>2</sup> Vom Stimm- und Wahlrecht ausgeschlossen sind Personen, die wegen dauernder Urteilsunfähigkeit unter umfassender Beistandschaft stehen oder durch eine vorsorgebeauftragte Person vertreten werden.
+
+<sup>3</sup> Das Gesetz regelt das Stimm- und Wahlrecht der Auslandschweizerinnen und Auslandschweizer in kantonalen Angelegenheiten.
+
+<sup>4</sup> Die Gemeinden können nach Massgabe des kommunalen Rechts Auslandschweizerinnen und Auslandschweizern beziehungsweise Ausländerinnen und Ausländern das Stimmrecht sowie das aktive und passive Wahlrecht in Gemeindeangelegenheiten erteilen.
+
+#### Art. 10
+
+**Wahl- und Abstimmungsgrundsätze**
+
+<sup>1</sup> Das allgemeine, gleiche, freie, direkte und geheime Wahl- und Stimmrecht ist gewährleistet. Vorbehalten bleiben offene Abstimmungen in Kreis- und Gemeindeversammlungen.
+
+<sup>2</sup> Abstimmungsvorlagen sollen einfach und verständlich sein. Eine unverfälschte Willensbildung und Willenskundgabe ist zu gewährleisten.
+
+#### Art. 11
+
+**Wahlbefugnisse**
+
+<sup>1</sup> Die Stimmberechtigten wählen:
+
+- 1\. die Mitglieder des Grossen Rates sowie deren Stellvertreterinnen und Stellvertreter;
+- 2\. die Mitglieder der Regierung;
+- 3\. die bündnerischen Mitglieder des National- und des Ständerates;
+- 4\. die Mitglieder der Regionalgerichte;
+- 5\. …
+- 6\. …
+- 7\. die Mitglieder der Gemeindebehörden nach Massgabe der Gesetzgebung;
+- 8\. weitere Behörden, Amtsträgerinnen und Amtsträger nach Massgabe der Gesetzgebung.
+
+### 3.2. Volksinitiative
+
+#### Art. 12
+
+**Gegenstand**
+
+<sup>1</sup> 4000 Stimmberechtigte oder ein Siebtel der Gemeinden können mit einer Initiative eine Total- oder Teilrevision der Kantonsverfassung verlangen.
+
+<sup>2</sup> 3000 Stimmberechtigte oder ein Achtel der Gemeinden können mit einer Initiative verlangen:
+
+- 1\. Erlass, Änderung oder Aufhebung eines Gesetzes oder eines gemäss Verfassung der Volksabstimmung unterliegenden Beschlusses;
+- 2\. Einreichung einer Standesinitiative an die Bundesversammlung.
+
+#### Art. 13
+
+**Form**
+
+<sup>1</sup> Eine Initiative kann als allgemeine Anregung oder als ausgearbeiteter Entwurf eingereicht werden.
+
+<sup>2</sup> Eine Initiative auf Totalrevision der Kantonsverfassung oder auf Ausarbeitung eines Beschlusses darf nur als allgemeine Anregung eingereicht werden.
+
+#### Art. 14
+
+**Ungültigkeit**
+
+<sup>1</sup> Eine Initiative ist ganz oder teilweise ungültig, wenn sie:
+
+- 1\. die Einheit der Form oder der Materie nicht wahrt;
+- 2\. in offensichtlichem Widerspruch zu übergeordnetem Recht steht;
+- 3\. undurchführbar ist;
+- 4\. eine Rückwirkung vorsieht, die mit rechtsstaatlichen Grundsätzen nicht vereinbar ist.
+
+<sup>2</sup> Sie kann teilweise für ungültig erklärt werden, falls dadurch der Wille der Initiantinnen und Initianten nicht verfälscht wird und die Vorlage ein sinnvolles Ganzes ergibt.
+
+<sup>3</sup> Über die Ungültigkeit entscheidet der Grosse Rat. Dieser Entscheid ist an das Verwaltungsgericht weiterziehbar.
+
+#### Art. 15
+
+**Verfahren**
+
+<sup>1</sup> Eine Volksinitiative und ein gestützt auf eine allgemeine Anregung ausgearbeiteter Entwurf müssen innert zwei Jahren seit Einreichung dem Volk zur Abstimmung vorgelegt oder dem fakultativen Referendum unterstellt werden. Die Frist kann durch den Grossen Rat um sechs Monate verlängert werden.
+
+<sup>2</sup> Der Grosse Rat kann jeder Initiative einen Gegenvorschlag gegenüberstellen.
+
+<sup>3</sup> Die Abstimmungen über die Initiative und den Gegenvorschlag finden gleichzeitig statt.
+
+### 3.3. Referendum
+
+#### Art. 16
+
+**Obligatorisches Referendum**
+
+<sup>1</sup> Der Volksabstimmung werden unterstellt:
+
+- 1\. Änderungen der Kantonsverfassung;
+- 2\. Abschluss, Änderung oder Kündigung von interkantonalen und internationalen Verträgen mit verfassungsänderndem Inhalt;
+- 3\. Volksinitiativen, denen der Grosse Rat nicht zustimmt oder denen er einen Gegenvorschlag gegenüberstellt;
+- 4\. Beschlüsse des Grossen Rates über neue einmalige Ausgaben von mehr als zehn Millionen Franken und über neue jährlich wiederkehrende Ausgaben von mehr als einer Million Franken;
+- 5\. Beschlüsse des Grossen Rates über Grundsatzfragen gemäss Artikel 19 Absatz 1.
+- 6\. …
+
+#### Art. 17
+
+**Fakultatives Referendum**
+
+<sup>1</sup> Wenn 1500 Stimmberechtigte oder ein Zehntel der Gemeinden es verlangen, werden der Volksabstimmung unterstellt:
+
+- 1\. Erlass, Änderung oder Aufhebung von Gesetzen;
+- 2\. Abschluss, Änderung oder Kündigung von interkantonalen und internationalen Verträgen mit gesetzesänderndem Inhalt;
+- 3\. Beschlüsse des Grossen Rates über neue einmalige Ausgaben zwischen einer Million und zehn Millionen Franken sowie über neue jährlich wiederkehrende Ausgaben zwischen 300 000 und einer Million Franken.
+
+<sup>2</sup> Der Grosse Rat kann Beschlüsse, die in seine abschliessende Kompetenz fallen, dem fakultativen Referendum unterstellen. Nicht referendumsfähig sind Beschlüsse über den Steuerfuss, das Budget und die Jahresrechnung sowie Justizgeschäfte und Wahlen.
+
+<sup>3</sup> Das Begehren um Durchführung der Volksabstimmung ist innert 90 Tagen nach der amtlichen Veröffentlichung des Beschlusses zu stellen.
+
+#### Art. 18
+
+**Dringlichkeitsrecht**
+
+<sup>1</sup> Gesetze, deren In-Kraft-Treten keinen Aufschub erträgt, können sofort in Kraft gesetzt werden, sofern der Grosse Rat mit einer Mehrheit von zwei Dritteln der Mitglieder die Dringlichkeit beschliesst.
+
+<sup>2</sup> Sie unterstehen dem nachträglichen fakultativen Referendum.
+
+#### Art. 19
+
+**Grundsatzfragen und Varianten**
+
+<sup>1</sup> Der Grosse Rat kann Volksabstimmungen über Grundsatzfragen beschliessen.
+
+<sup>2</sup> Er kann zu einer Vorlage, die dem obligatorischen oder dem fakultativen Referendum untersteht, eine Variante vorschlagen.
+
+<sup>3</sup> Findet die Volksabstimmung statt, so ist neben der Hauptvorlage auch die Variante den Stimmberechtigten zu unterbreiten. Findet keine Volksabstimmung statt, so fällt die Variante dahin.
+
+### 3.4. Politische Parteien
+
+#### Art. 20
+
+**Stellung**
+
+<sup>1</sup> Die politischen Parteien wirken bei der Meinungs- und Willensbildung mit.
+
+<sup>2</sup> Sie können dabei vom Kanton unterstützt werden, sofern ihre Ziele und ihr Aufbau demokratischen und rechtsstaatlichen Grundsätzen entsprechen.
+
+## 4. Behörden und Gerichte
+
+### 4.1. Allgemeines
+
+#### Art. 21
+
+**Wählbarkeit**
+
+<sup>1</sup> In die kantonalen Behörden und Gerichte sowie in den Ständerat sind die Stimmberechtigten des Kantons wählbar. Das Gesetz kann vorsehen, dass die Wählbarkeitsvoraussetzung erst bei Amtsantritt erfüllt sein muss.
+
+<sup>2</sup> Weitere Wählbarkeitsvoraussetzungen für die kantonalen Behörden und Gerichte sowie die Anstellungsvoraussetzungen für das Staatspersonal werden durch Gesetz geregelt.
+
+<sup>3</sup> Das Gesetz regelt die Einstellung im Amt und die Amtsenthebung von Mitgliedern von Behörden und Gerichten.
+
+#### Art. 22
+
+**Unvereinbarkeiten**
+
+<sup>1</sup> Niemand darf seiner unmittelbaren Aufsichtsbehörde angehören.
+
+<sup>2</sup> Mitglieder der Regierung und der richterlichen Behörden sowie das voll- und hauptamtliche Personal des Kantons dürfen nicht dem Grossen Rat angehören.
+
+<sup>3</sup> Richterinnen und Richter dürfen nicht gleichzeitig der Regierung oder einer anderen richterlichen Behörde im Kanton angehören.
+
+<sup>4</sup> Mitglieder der Regierung und die vollamtlichen Mitglieder einer richterlichen Behörde dürfen nicht der Bundesversammlung oder dem Bundesgericht angehören.
+
+<sup>5</sup> Das Gesetz regelt weitere Fälle der Unvereinbarkeit von Ämtern und Aufgaben, den Verwandtenausschluss sowie die Ausnahmen.
+
+#### Art. 23
+
+**Amtsdauer**
+
+<sup>1</sup> Die Amtsdauer des Grossen Rates, der Regierung, der Gerichte sowie der Mitglieder des Ständerates beträgt vier Jahre.
+
+#### Art. 24
+
+**Immunität**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates und der Regierung können für ihre Äusserungen im Grossen Rat und in dessen Kommissionen rechtlich nicht zur Verantwortung gezogen werden.
+
+<sup>2</sup> Das Gesetz kann weitere Arten der Immunität vorsehen und diese auf weitere Personen ausdehnen.
+
+#### Art. 25
+
+**Information**
+
+<sup>1</sup> Behörden und Gerichte informieren die Öffentlichkeit regelmässig über ihre Tätigkeit.
+
+#### Art. 26
+
+**Staatshaftung**
+
+<sup>1</sup> Der Kanton, die Regionen und Gemeinden sowie die übrigen öffentlichrechtlichen Körperschaften und selbständigen Anstalten haften unabhängig vom Verschulden für Schäden, welche ihre Organe und die in ihrem Dienst stehenden Personen in Ausübung dienstlicher Tätigkeiten rechtswidrig verursacht haben.
+
+<sup>2</sup> Das Gesetz kann Ausnahmen sowie eine Billigkeitshaftung für Schädigungen durch rechtmässiges Handeln vorsehen.
+
+### 4.2. Der Grosse Rat
+
+### 4.2.1. Organisation
+
+#### Art. 27
+
+**Zusammensetzung und Wahl**
+
+<sup>1</sup> Der Grosse Rat besteht aus 120 Mitgliedern.
+
+<sup>2</sup> Die Wahl erfolgt nach dem Mehrheitswahlverfahren.
+
+<sup>3</sup> Der Kanton ist in höchstens 39 Wahlkreise eingeteilt. Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Wahlkreisen sowie die Auswirkungen von Gemeindezusammenschlüssen auf die Anzahl der Wahlkreise.
+
+<sup>4</sup> Die Sitze werden entsprechend der schweizerischen Wohnbevölkerung auf die Wahlkreise verteilt.
+
+<sup>5</sup> Das Gesetz regelt die Stellvertretung.
+
+#### Art. 28
+
+**Stellung der Ratsmitglieder**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates beraten und stimmen ohne Instruktionen.
+
+<sup>2</sup> Sie müssen unter Vorbehalt des Berufsgeheimnisses ihre Interessenbindungen offen legen.
+
+<sup>3</sup> Sie verfügen gegenüber der Verwaltung über die durch Gesetz bezeichneten besonderen Auskunfts- und Einsichtsrechte.
+
+#### Art. 29
+
+**Öffentlichkeit der Sitzungen**
+
+<sup>1</sup> Die Sitzungen des Grossen Rates sind in der Regel öffentlich.
+
+### 4.2.2. Aufgaben
+
+#### Art. 30
+
+**Grundsatz**
+
+<sup>1</sup> Der Grosse Rat übt unter Vorbehalt der Volksrechte die oberste Gewalt aus. Er ist die gesetzgebende Behörde und die oberste Aufsichtsinstanz des Kantons.
+
+#### Art. 31
+
+**Gesetzgebung**
+
+<sup>1</sup> Alle wichtigen Bestimmungen sind durch den Grossen Rat in der Form des Gesetzes zu erlassen.
+
+<sup>2</sup> Wichtige Bestimmungen sind insbesondere jene, für welche die Verfassung das Gesetz vorsieht, sowie solche betreffend:
+
+- 1\. Zweck und Umfang von Grundrechtsbeschränkungen;
+- 2\. Kreis der Abgabepflichtigen, Gegenstand und Bemessungsgrundlagen von Abgaben, soweit diese nicht von geringfügiger Natur sind;
+- 3\. Zweck, Inhalt und Umfang von bedeutenden staatlichen Leistungen;
+- 4\. Grundsätze der Aufgabenverteilung zwischen Kanton und Gemeinden;
+- 5\. Grundsätze von Organisation und Aufgaben der Behörden und Gerichte;
+- 6\. Art und Umfang der Übertragung von hoheitlichen und anderen bedeutenden öffentlichen Aufgaben an Trägerschaften ausserhalb der kantonalen Verwaltung.
+
+<sup>3</sup> Die Gültigkeit der Gesetze kann befristet werden. Vor der Verlängerung sind die Gesetze auf ihre Wirksamkeit zu prüfen.
+
+#### Art. 32
+
+**Weitere Rechtsetzungskompetenzen**
+
+<sup>1</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, kann der Grosse Rat Verordnungen erlassen, wenn er durch Gesetz ausdrücklich dazu ermächtigt wird.
+
+<sup>2</sup> Er genehmigt die interkantonalen und internationalen Verträge, soweit nicht die Regierung zum alleinigen Abschluss befugt ist.
+
+<sup>3</sup> Der Grosse Rat ist in geeigneter Form an der Vorbereitung wichtiger interkantonaler und internationaler Verträge zu beteiligen.
+
+#### Art. 33
+
+**Aufsicht und Oberaufsicht**
+
+<sup>1</sup> Der Grosse Rat übt die Aufsicht über die Regierung sowie das Kantonsgericht und das Verwaltungsgericht aus.
+
+<sup>2</sup> Ihm obliegt die Oberaufsicht über die Verwaltung, die anderen Zweige der Rechtspflege und über andere Träger öffentlicher Aufgaben.
+
+#### Art. 34
+
+**Planung**
+
+<sup>1</sup> Der Grosse Rat erlässt die übergeordneten politischen Ziele und Leitsätze.
+
+<sup>2</sup> Er behandelt das Regierungsprogramm, den Finanzplan und weitere grundlegende politische Planungen der Regierung.
+
+<sup>3</sup> Er kann über die Weiterführung der Planung Beschlüsse fassen und der Regierung Aufträge erteilen.
+
+#### Art. 35
+
+**Finanzen**
+
+<sup>1</sup> Der Grosse Rat setzt unter Berücksichtigung des Finanzplans das Budget fest und genehmigt die Jahresrechnung. Das Gesetz kann Ausnahmen vorsehen.
+
+<sup>2</sup> Er bestimmt die Höhe der Steuern nach Massgabe der Steuergesetzgebung.
+
+<sup>3</sup> Er beschliesst abschliessend über neue einmalige Ausgaben bis zu einer Million Franken und über neue jährlich wiederkehrende Ausgaben bis 300 000 Franken.
+
+#### Art. 36
+
+**Wahlen**
+
+<sup>1</sup> Der Grosse Rat wählt:
+
+- 1\. seine Organe und Kommissionen;
+- 2\. das Präsidium der Regierung;
+- 3\. die Mitglieder des Kantonsgerichtes und des Verwaltungsgerichtes;
+- 4\. weitere Amtsinhaberinnen und -inhaber nach Massgabe der Gesetzgebung.
+
+#### Art. 37
+
+**Begnadigung**
+
+<sup>1</sup> Der Grosse Rat entscheidet über Begnadigungsgesuche. Das Gesetz kann den Entscheid über Begnadigungsgesuche der Regierung übertragen.
+
+### 4.3. Die Regierung
+
+### 4.3.1. Organisation
+
+#### Art. 38
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Regierung besteht aus fünf Mitgliedern.
+
+<sup>2</sup> Sie fasst und vertritt ihre Beschlüsse als Kollegialbehörde.
+
+#### Art. 39
+
+**Wahl**
+
+<sup>1</sup> Die Wahl der Regierung erfolgt nach dem Mehrheitswahlverfahren.
+
+<sup>2</sup> Das Kantonsgebiet bildet den Wahlkreis.
+
+<sup>3</sup> Eine Wiederwahl ist zweimal zulässig.
+
+#### Art. 40
+
+**Präsidium**
+
+<sup>1</sup> Der Grosse Rat wählt aus der Mitte der Regierung die Präsidentin oder den Präsidenten sowie die Vizepräsidentin oder den Vizepräsidenten für eine Amtsdauer von einem Jahr.
+
+#### Art. 41
+
+**Nebenbeschäftigung und Interessenvertretung**
+
+<sup>1</sup> Mitgliedern der Regierung ist jede Nebenbeschäftigung untersagt.
+
+<sup>2</sup> Die Vertretung des Kantons in Organen von Unternehmungen oder Organisationen, an denen der Kanton beteiligt ist oder welche er unterstützt, ist mit Zustimmung der Regierung zulässig. Das Gesetz kann weitere Ausnahmen vorsehen.
+
+### 4.3.2. Aufgaben
+
+#### Art. 42
+
+**Regierungsaufgaben**
+
+<sup>1</sup> Die Regierung plant, bestimmt und koordiniert die Ziele und Mittel staatlichen Handelns unter Vorbehalt der Befugnisse der Stimmberechtigten und des Grossen Rates.
+
+<sup>2</sup> Sie erstellt regelmässig ein Regierungsprogramm.
+
+<sup>3</sup> Sie vollzieht die Gesetze und Verordnungen sowie die Beschlüsse des Grossen Rates.
+
+<sup>4</sup> Sie vertritt den Kanton nach innen und nach aussen.
+
+#### Art. 43
+
+**Leitung der Verwaltung**
+
+<sup>1</sup> Die Regierung steht der kantonalen Verwaltung vor.
+
+<sup>2</sup> Sie sorgt für die rechtmässige und wirksame Tätigkeit der Verwaltung und bestimmt im Rahmen des kantonalen Rechts deren Organisation.
+
+#### Art. 44
+
+**Mitwirkung im Grossen Rat**
+
+<sup>1</sup> Die Regierung bereitet die Geschäfte des Grossen Rates vor, sofern dieser sie nicht selbständig ausarbeitet.
+
+<sup>2</sup> Sie legt dem Grossen Rat Entwürfe für Verfassungsänderungen, Gesetze, Verordnungen und Beschlüsse vor.
+
+<sup>3</sup> Die Mitglieder der Regierung nehmen in beratender Funktion an den Sitzungen des Grossen Rates teil und können Anträge stellen.
+
+#### Art. 45
+
+**Rechtsetzung**
+
+<sup>1</sup> Die Regierung erlässt weniger wichtige Bestimmungen in der Form der Verordnung.
+
+<sup>2</sup> Sie ist zuständig für das Aushandeln von interkantonalen und internationalen Verträgen; soweit sie in ihre Verordnungskompetenz fallen, ist sie auch für deren Abschluss zuständig.
+
+#### Art. 46
+
+**Finanzen**
+
+<sup>1</sup> Die Regierung erstellt den Finanzplan und verabschiedet das Budget sowie die Jahresrechnung zuhanden des Grossen Rates.
+
+#### Art. 47
+
+**Weitere Aufgaben**
+
+<sup>1</sup> Weitere Aufgaben der Regierung sind insbesondere:
+
+- 1\. der Verkehr mit dem Bund und den anderen Kantonen sowie mit dem benachbarten Ausland unter Berücksichtigung von allfälligen Stellungnahmen des Grossen Rates;
+- 2\. Wahlen, soweit diese nicht anderen Organen übertragen worden sind;
+- 3\. die jährliche Berichterstattung über die Tätigkeit von Regierung und Verwaltung zuhanden des Grossen Rates;
+- 4\. die Wahrung der öffentlichen Ordnung und Sicherheit;
+- 5\. die Aufsicht über öffentlichrechtliche Körperschaften sowie andere Träger öffentlicher Aufgaben des Kantons.
+
+#### Art. 48
+
+**Ausserordentliche Lagen**
+
+<sup>1</sup> Die Regierung kann ohne gesetzliche Grundlage Verordnungen erlassen oder Beschlüsse fassen, um eingetretenen oder unmittelbar drohenden schwerwiegenden Störungen der öffentlichen Sicherheit sowie sozialen Notständen zu begegnen.
+
+<sup>2</sup> Solche Verordnungen und Beschlüsse sind vom Grossen Rat zu genehmigen und fallen spätestens ein Jahr nach In-Kraft-Treten dahin.
+
+### 4.3.3. Verwaltung
+
+#### Art. 49
+
+**Departemente und Standeskanzlei**
+
+<sup>1</sup> Die kantonale Verwaltung wird nach Geschäftsbereichen in Departemente gegliedert. Die Regierung regelt die Aufgabenbereiche der Departemente durch Verordnung.
+
+<sup>2</sup> Die Standeskanzlei ist die allgemeine Stabs-, Koordinations- und Verbindungsstelle von Grossem Rat, Regierung und Verwaltung.
+
+#### Art. 50
+
+**Andere Träger öffentlicher Aufgaben**
+
+<sup>1</sup> Der Kanton kann die Erfüllung von öffentlichen Aufgaben Trägern ausserhalb der kantonalen Verwaltung übertragen.
+
+<sup>2</sup> Die Aufsicht durch die Regierung, eine angemessene Mitwirkung des Grossen Rates und der Rechtsschutz müssen sichergestellt sein.
+
+<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können selbständige Anstalten des kantonalen öffentlichen Rechts Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
+
+### 4.4. Gerichte
+
+#### Art. 51
+
+**Unabhängigkeit und Unparteilichkeit**
+
+<sup>1</sup> Die Unabhängigkeit und die Unparteilichkeit der Gerichte sind gewährleistet. Die Gerichte sind in ihrer Rechtsprechung nur dem Recht verpflichtet.
+
+<sup>2</sup> Die Justizverwaltung ist unter Vorbehalt der Befugnisse des Grossen Rates Sache der Gerichte.
+
+<sup>3</sup> Richterinnen und Richter dürfen Parteien nicht in streitigen Verfahren vor der eigenen Instanz vertreten.
+
+<sup>4</sup> Vollamtlichen Mitgliedern einer richterlichen Behörde ist jede Nebenbeschäftigung untersagt. Das Gesetz kann Ausnahmen vorsehen.
+
+#### Art. 51a
+
+**Finanzen, Mitwirkung im Grossen Rat und Rechtsetzung**
+
+<sup>1</sup> Das Kantons- und das Verwaltungsgericht unterbreiten dem Grossen Rat den Entwurf für ihr Budget sowie die Rechnung und den Jahresbericht zur Genehmigung.
+
+<sup>2</sup> Die Präsidentinnen und Präsidenten nehmen an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zu den Jahresberichten der Gerichte teil. Sie haben beratende Stimme und können Anträge stellen.
+
+<sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können das Kantons- und das Verwaltungsgericht auf dem Gebiet der Justizverwaltung und -aufsicht Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
+
+#### Art. 52
+
+**Justizaufsicht**
+
+<sup>1</sup> Das Kantonsgericht übt die Aufsicht über alle Bereiche der Zivil- und Strafrechtspflege aus.
+
+<sup>2</sup> Der Grosse Rat übt die Aufsicht über das Kantonsgericht und das Verwaltungsgericht sowie die Oberaufsicht über die anderen Zweige der Rechtspflege aus.
+
+<sup>3</sup> Aufsicht und Oberaufsicht beschränken sich auf die Geschäftsführung und die Justizverwaltung.
+
+#### Art. 53
+
+**Öffentlichkeit der Gerichtsverhandlungen**
+
+<sup>1</sup> Die Parteiverhandlungen vor Gericht sind unter Vorbehalt gesetzlicher Ausnahmen öffentlich.
+
+#### Art. 54
+
+**Zivil- und Strafgerichtsbarkeit**
+
+<sup>1</sup> Die Zivil- und die Strafgerichtsbarkeit werden ausgeübt durch:
+
+- 1\. das Kantonsgericht;
+- 2\. die Regionalgerichte als untere kantonale Gerichte.
+- 3\. …
+
+#### Art. 55
+
+**Verfassungs- und Verwaltungsgerichtsbarkeit**
+
+<sup>1</sup> Die letztinstanzliche Beurteilung von öffentlichrechtlichen Streitigkeiten obliegt dem Verwaltungsgericht, sofern nicht ein Gesetz etwas anderes bestimmt.
+
+<sup>2</sup> Das Verwaltungsgericht beurteilt als Verfassungsgericht:
+
+- 1\. Beschwerden wegen Verletzung von verfassungsmässigen und politischen Rechten sowie des Grundsatzes des Vorrangs von übergeordnetem Recht;
+- 2\. Beschwerden wegen Verletzung der Autonomie der Gemeinden, der Kreise und anderer öffentlichrechtlicher Körperschaften sowie der Landeskirchen.
+
+<sup>3</sup> Im verfassungsgerichtlichen Verfahren können Gesetze und Verordnungen sowohl unmittelbar angefochten als auch im Anwendungsfall überprüft werden.
+
+#### Art. 56
+
+**Weitere richterliche sowie aussergerichtliche Behörden**
+
+<sup>1</sup> Durch Gesetz können weitere richterliche sowie aussergerichtliche Behörden eingesetzt werden.
+
+### 4.5. Ausübung von Mitwirkungsrechten im Bund
+
+#### Art. 57
+
+**Ständerat**
+
+<sup>1</sup> Die Ständeratswahlen erfolgen nach dem Mehrheitswahlverfahren. Sie finden gleichzeitig mit den Wahlen in den Nationalrat statt.
+
+<sup>2</sup> Das Kantonsgebiet bildet den Wahlkreis.
+
+#### Art. 58
+
+**Kantonsreferendum**
+
+<sup>1</sup> Der Grosse Rat oder die Regierung kann im Namen des Kantons verlangen, dass Bundesgesetze, Bundesbeschlüsse sowie Staatsverträge dem Volk zur Abstimmung vorgelegt werden.
+
+#### Art. 59
+
+**Standesinitiative**
+
+<sup>1</sup> Der Grosse Rat oder die Regierung kann im Namen des Kantons der Bundesversammlung eine Standesinitiative einreichen.
+
+<sup>2</sup> Die Einreichung einer Standesinitiative kann auch mit einer Volksinitiative verlangt werden.
+
+## 5. Gliederung des Kantons
+
+### 5.1. Gemeinden und interkantonale Zusammenarbeit
+
+### 5.1.1. Gemeindearten
+
+#### Art. 60
+
+**Politische Gemeinden**
+
+<sup>1</sup> Die politischen Gemeinden sind Körperschaften des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit. Sie setzen sich aus der Gesamtheit der Personen mit Wohnsitz im Gemeindegebiet zusammen.
+
+<sup>2</sup> Sie sind zuständig für alle örtlichen Angelegenheiten, die nicht in den Kompetenzbereich der Bürgergemeinden fallen.
+
+#### Art. 61
+
+**Bürgergemeinden**
+
+<sup>1</sup> Die Bürgergemeinden setzen sich aus den Gemeindebürgerinnen und -bürgern mit Wohnsitz in der Gemeinde zusammen.
+
+<sup>2</sup> Rechtsstellung, Aufgaben und Organisation der Bürgergemeinden sowie der Zusammenschluss mit der politischen Gemeinde richten sich nach dem Gesetz.
+
+### 5.1.2. Interkommunale Zusammenarbeit und Zusammenschluss
+
+#### Art. 62
+
+**Interkommunale Zusammenarbeit**
+
+<sup>1</sup> Die Gemeinden können zur Erfüllung ihrer Aufgaben mit anderen Gemeinden oder Organisationen zusammenarbeiten. Das Gesetz sieht vor, dass Gemeinden zur Zusammenarbeit verpflichtet werden können.
+
+<sup>2</sup> Das Gesetz regelt die interkommunale Zusammenarbeit sowie die Auslagerung von Aufgaben und gewährleistet die politischen Mitwirkungsrechte.
+
+#### Art. 63
+
+**Zusammenschluss**
+
+<sup>1</sup> Der Zusammenschluss von Gemeinden wird durch Gesetz geregelt.
+
+#### Art. 64
+
+**Förderung von interkommunaler Zusammenarbeit und Zusammenschluss**
+
+<sup>1</sup> Der Kanton fördert die interkommunale Zusammenarbeit und den Zusammenschluss von Gemeinden, um die zweckmässige und wirtschaftliche Erfüllung ihrer Aufgaben sicherzustellen.
+
+### 5.1.3. Stellung und Organisation
+
+#### Art. 65
+
+**Gemeindeautonomie**
+
+<sup>1</sup> Die Autonomie der Gemeinden ist gewährleistet. Ihr Umfang wird durch das kantonale Recht bestimmt.
+
+<sup>2</sup> Die Gemeinden sind insbesondere befugt, ihre Organisation zu bestimmen, ihre Behörden und Verwaltung einzusetzen sowie ihre finanziellen Angelegenheiten selbständig zu ordnen.
+
+#### Art. 66
+
+**Organe**
+
+<sup>1</sup> Die obligatorischen Organe der politischen Gemeinden sind:
+
+- 1\. die Gesamtheit der Stimmberechtigten, welche ihre politischen Rechte in der Gemeindeversammlung oder an der Urne ausüben;
+- 2\. der Gemeindevorstand;
+- 3\. weitere Behörden nach Massgabe der Gesetzgebung.
+
+<sup>2</sup> Die Gemeinden können die Gemeindeversammlung durch ein Gemeindeparlament ersetzen oder ergänzen.
+
+#### Art. 67
+
+**Aufsicht**
+
+<sup>1</sup> Die Regierung übt die Aufsicht über die Gemeinden und die Träger der interkommunalen Zusammenarbeit aus.
+
+<sup>2</sup> Die Aufsicht beschränkt sich auf die Rechtskontrolle, soweit nicht durch Gesetz etwas anderes bestimmt wird.
+
+<sup>3</sup> Bei schwerwiegenden Missständen kann eine Gemeinde unter Kuratel gestellt werden.
+
+### 5.2. Regionen
+
+### 5.2.1. Einteilung des Kantonsgebietes
+
+#### Art. 68
+
+**Regionen**
+
+<sup>1</sup> Der Kanton ist in folgende Regionen gegliedert:
+
+- 1\. Albula;
+- 2\. Bernina;
+- 3\. Engiadina Bassa/Val Müstair;
+- 4\. Imboden;
+- 5\. Landquart;
+- 6\. Maloja;
+- 7\. Moesa;
+- 8\. Plessur;
+- 9\. Prättigau/Davos;
+- 10\. Surselva;
+- 11\. Viamala.
+
+<sup>2</sup> Das Gesetz regelt die Zugehörigkeit der Gemeinden zu den Regionen.
+
+#### Art. 69
+
+**…**
+
+### 5.2.2. Rechtsstellung und Aufgaben
+
+#### Art. 70
+
+**…**
+
+#### Art. 71
+
+**Regionen**
+
+<sup>1</sup> Die Regionen sind Körperschaften des kantonalen öffentlichen Rechts und erfüllen ausschliesslich die Aufgaben, die ihnen durch den Kanton oder die Gemeinden übertragen werden.
+
+<sup>2</sup> Die Organisation der Regionen sowie die politischen Rechte richten sich nach dem Gesetz.
+
+<sup>3</sup> Die Regionen bilden die Gerichtssprengel für die Regionalgerichte.
+
+#### Art. 72
+
+**Regionalverbände**
+
+<sup>1</sup> Regionalverbände sind Körperschaften des kantonalen öffentlichen Rechts mit eigener Rechtspersönlichkeit.
+
+<sup>2</sup> Sie erfüllen die Aufgaben, die ihnen durch den Kanton, die Kreise oder die Gemeinden übertragen werden.
+
+### 5.2.3. Organisation und Aufsicht
+
+#### Art. 73
+
+**Organe**
+
+<sup>1</sup> Die obligatorischen Organe der Kreise und Regionalverbände sind:
+
+- 1\. die Gesamtheit der Stimmberechtigten, welche ihre politischen Rechte an der Urne oder an der Landsgemeinde ausüben;
+- 2\. der Kreisrat beziehungsweise die Delegierten des Regionalverbandes;
+- 3\. die Präsidentin oder der Präsident des Kreises beziehungsweise des Regionalverbandes;
+- 4\. weitere Organe nach Massgabe der Gesetzgebung.
+
+<sup>2</sup> Das Gesetz stellt sicher, dass Kreise und Regionalverbände die politischen Rechte gewährleisten.
+
+#### Art. 74
+
+**Aufsicht**
+
+<sup>1</sup> Die Regierung übt im Rahmen des kantonalen Rechts die Aufsicht über die Regionen aus. Davon ausgenommen ist die Justizaufsicht.
+
+<sup>2</sup> Im Bereich von Aufgaben, die den Regionen von den Gemeinden übertragen worden sind, beschränkt sich die Aufsicht auf die Rechtskontrolle, soweit nicht durch Gesetz etwas anderes bestimmt wird.
+
+## 6. Öffentliche Aufgaben
+
+### 6.1. Allgemeines
+
+#### Art. 75
+
+**Grundsätze**
+
+<sup>1</sup> Kanton und Gemeinden fördern das Wohlergehen und die soziale Sicherheit der Bevölkerung, der Familie und der einzelnen Person.
+
+<sup>2</sup> Sie setzen sich für Chancengleichheit für alle ein, insbesondere für die Gleichstellung von Frau und Mann.
+
+<sup>3</sup> Sie unterstützen die private Initiative mit günstigen Rahmenbedingungen.
+
+<sup>4</sup> Bei der Erfüllung öffentlicher Aufgaben sind die natürlichen Lebensgrundlagen zu schonen.
+
+#### Art. 76
+
+**Zuständigkeit und Zusammenarbeit**
+
+<sup>1</sup> Kanton und Gemeinden erfüllen Aufgaben, die im öffentlichen Interesse liegen, soweit das private Angebot nicht ausreicht. Die Aufgaben richten sich nach Verfassung und Gesetz.
+
+<sup>2</sup> Kanton, Regionen und Gemeinden wirken bei der Erfüllung öffentlicher Aufgaben zusammen. Die Zusammenarbeit mit Privaten ist soweit als möglich anzustreben.
+
+#### Art. 77
+
+**Dezentrale Aufgabenerfüllung**
+
+<sup>1</sup> Der Kanton erfüllt öffentliche Aufgaben dezentral, wenn insbesondere die Art der Aufgabe, wirtschaftlicher Mitteleinsatz oder wirksame Aufgabenerfüllung es ermöglichen.
+
+#### Art. 78
+
+**Aufgabenüberprüfung**
+
+<sup>1</sup> Öffentliche Aufgaben sind periodisch auf ihre Notwendigkeit, Wirksamkeit und Finanzierbarkeit zu prüfen.
+
+### 6.2. Gewährleistung der öffentlichen Ordnung
+
+#### Art. 79
+
+**Öffentliche Ordnung und Sicherheit**
+
+<sup>1</sup> Kanton und Gemeinden gewährleisten die öffentliche Ordnung und Sicherheit.
+
+<sup>2</sup> Sie treffen Massnahmen zum Schutz der Bevölkerung vor Katastrophen und zur Aufrechterhaltung der wichtigen Staatsfunktionen in Notlagen.
+
+### 6.3. Raumplanung, Umwelt, Energie, Verkehr und Telekommunikation
+
+#### Art. 80
+
+**Raumplanung**
+
+<sup>1</sup> Kanton und Gemeinden streben eine zweckmässige, haushälterische, koordinierte und nachhaltige Nutzung und Entwicklung des Kantonsgebietes an. Sie berücksichtigen dabei die Bedürfnisse von Menschen und Umwelt sowie die dezentrale Besiedlung.
+
+#### Art. 81
+
+**Umweltschutz sowie Natur- und Heimatschutz**
+
+<sup>1</sup> Der Kanton regelt den Vollzug des Bundesrechts über den Schutz des Menschen und seiner natürlichen Umwelt vor schädlichen und lästigen Einwirkungen. Die Kosten der Vermeidung und Beseitigung tragen die Verursacher.
+
+<sup>2</sup> Kanton und Gemeinden sorgen für die Erhaltung und den Schutz der Tier- und Pflanzenwelt sowie von deren Lebensräumen.
+
+<sup>3</sup> Sie treffen Massnahmen für die Erhaltung und den Schutz von wertvollen Landschaften und Ortsbildern, geschichtlichen Stätten sowie von Naturobjekten und Kulturgütern.
+
+#### Art. 82
+
+**Infrastruktur**
+
+<sup>1</sup> Kanton und Gemeinden sorgen für die angemessene Versorgung des Kantonsgebietes bezüglich Wasser und Energie, Verkehrsverbindungen sowie Telekommunikation.
+
+<sup>2</sup> Sie fördern die sichere, ausreichende und umweltschonende Versorgung mit Energie, deren sparsame und rationelle Verwendung sowie die Nutzung erneuerbarer Energien.
+
+<sup>3</sup> Sie sorgen für eine bedarfsgerechte, umweltschonende und wirtschaftliche Verkehrsordnung und fördern den öffentlichen Verkehr.
+
+<sup>4</sup> Der Kanton fördert die interkommunale und die regionale Zusammenarbeit und stellt den Finanzausgleich sicher.
+
+#### Art. 83
+
+**Gewässer**
+
+<sup>1</sup> Der Kanton hat die Aufsicht über öffentliche und private Gewässer. Er regelt die Nutzung des Wassers sowie der Wasserkraft.
+
+<sup>2</sup> Die Hoheit über öffentliche Gewässer kommt den Gemeinden zu.
+
+#### Art. 83a
+
+**Beteiligungen an Kohlekraftwerken**
+
+<sup>1</sup> Der Kanton beteiligt sich nicht an Unternehmen, welche Investitionen in Kohlekraftwerke tätigen. Im Rahmen seiner rechtlichen und politischen Möglichkeiten sorgt er dafür, dass Unternehmen mit Beteiligung des Kantons auf Investitionen in Kohlekraftwerke verzichten.
+
+### 6.4. Wirtschaft
+
+#### Art. 84
+
+**Wirtschaftspolitik**
+
+<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmenbedingungen für eine leistungsfähige und nachhaltige Wirtschaft. Sie betreiben eine aktive Wirtschaftsförderung.
+
+<sup>2</sup> Sie fördern die Bestrebungen der Wirtschaft im Hinblick auf die Schaffung und Erhaltung von Arbeitsplätzen.
+
+<sup>3</sup> Sie unterstützen Massnahmen zur beruflichen Umschulung, Weiterbildung und Wiedereingliederung sowie zur Vereinbarkeit von Beruf und Familie.
+
+<sup>4</sup> Sie treffen Massnahmen, um die Regelungsdichte und administrative Belastung für Unternehmen, insbesondere für kleine und mittlere Unternehmen (KMU), so gering wie möglich zu halten.
+
+#### Art. 85
+
+**Regale und Monopole**
+
+<sup>1</sup> Die Regalrechte des Kantons sind:
+
+- 1\. das Salzregal;
+- 2\. das Jagdregal;
+- 3\. das Fischereiregal.
+
+<sup>2</sup> Das Bergregal ist ein Regalrecht der Gemeinden.
+
+<sup>3</sup> Die Regalrechte geben das ausschliessliche Recht zur Nutzung. Der Kanton beziehungsweise die Gemeinde kann das Nutzungsrecht selbst wahrnehmen oder auf Dritte übertragen.
+
+<sup>4</sup> Der Kanton kann durch Gesetz Monopole begründen und ausüben, wenn es das öffentliche Interesse erfordert.
+
+<sup>5</sup> Bestehende Privatrechte bleiben vorbehalten.
+
+### 6.5. Soziales, Gesundheit und Familie
+
+#### Art. 86
+
+**Integration**
+
+<sup>1</sup> Kanton und Gemeinden sorgen für ausreichende Betreuung, Unterstützung und Eingliederung von hilfsbedürftigen Menschen.
+
+<sup>2</sup> Sie fördern die soziale und berufliche Eingliederung von Menschen, die wegen einer Behinderung, einer Krankheit oder aus anderen Gründen benachteiligt sind.
+
+<sup>3</sup> Sie setzen sich im Rahmen des wirtschaftlich Zumutbaren dafür ein, dass Behinderungen angemessen berücksichtigt werden.
+
+<sup>4</sup> Sie sorgen im Rahmen ihrer Möglichkeiten für behindertengerechten Zugang zu öffentlichen Bauten und Anlagen.
+
+#### Art. 87
+
+**Gesundheit**
+
+<sup>1</sup> Der Kanton regelt das öffentliche Gesundheitswesen.
+
+<sup>2</sup> Kanton und Gemeinden sorgen für eine zweckmässige, wirtschaftliche und ausreichende medizinische Versorgung und Pflege.
+
+<sup>3</sup> Sie fördern und unterstützen die Gesundheitsvorsorge sowie die Suchtprophylaxe.
+
+#### Art. 88
+
+**Familie**
+
+<sup>1</sup> Kanton und Gemeinden schaffen günstige Rahmenbedingungen für Familien.
+
+### 6.6. Bildung, Kultur und Freizeit
+
+#### Art. 89
+
+**Bildung**
+
+<sup>1</sup> Der Unterricht an den öffentlichen Schulen beruht auf einer christlich-humanistischen Grundlage. Er ist konfessionell und politisch neutral und von Toleranz geprägt.
+
+<sup>2</sup> Kanton und Gemeinden sorgen dafür, dass Kinder und Jugendliche einen ihren Fähigkeiten entsprechenden Grundschulunterricht erhalten. Sie fördern durch ein angemessenes Bildungsangebot die Eingliederung von Kindern mit Behinderungen in die Gesellschaft.
+
+<sup>3</sup> Der Kanton sorgt für den Mittelschulunterricht, die berufliche Aus- und Weiterbildung sowie den Zugang zu höheren Fachschulen und Hochschulen. Zu diesem Zweck kann er Schulen führen oder unterstützen. Er achtet auf ein dezentrales Mittel- und Berufsschulangebot und fördert höhere Fachschulen und Hochschulen im Kanton.
+
+#### Art. 90
+
+**Kultur und Forschung**
+
+<sup>1</sup> Kanton und Gemeinden fördern das künstlerische, kulturelle und wissenschaftliche Schaffen sowie den kulturellen Austausch. Sie nehmen dabei auf die sprachliche Vielfalt und die regionalen Besonderheiten Rücksicht.
+
+#### Art. 91
+
+**Freizeitgestaltung und Sport**
+
+<sup>1</sup> Kanton und Gemeinden unterstützen die sinnvolle Freizeitgestaltung, die Jugendarbeit und den Sport.
+
+### 6.7. Internationale Zusammenarbeit
+
+#### Art. 92
+
+**Grenzüberschreitende Zusammenarbeit und humanitäre Hilfe**
+
+<sup>1</sup> Der Kanton unterstützt und fördert die grenzüberschreitende Zusammenarbeit.
+
+<sup>2</sup> Er unterstützt die humanitäre Hilfe für notleidende Menschen und Völker.
+
+## 7. Finanzordnung
+
+#### Art. 93
+
+**Grundsätze**
+
+<sup>1</sup> Die öffentlichen Mittel sind sparsam, wirtschaftlich und wirksam einzusetzen.
+
+<sup>2</sup> Der Finanzhaushalt soll unter Berücksichtigung der Wirtschaftsentwicklung mittelfristig ausgeglichen sein.
+
+<sup>3</sup> Jede Ausgabe setzt eine Rechtsgrundlage, einen Kreditbeschluss und eine Bewilligung für die Zahlung voraus.
+
+<sup>4</sup> Kosten sind grundsätzlich durch die Verursacher zu tragen.
+
+#### Art. 94
+
+**Steuerkompetenzen**
+
+<sup>1</sup> Die Kompetenzen des Kantons und der Gemeinden zur Erhebung von Steuern werden durch Gesetz festgelegt.
+
+<sup>2</sup> Die Steuerkompetenzen der Landeskirchen und der Kirchgemeinden richten sich nach den Bestimmungen über Staat und Kirchen.
+
+#### Art. 95
+
+**Grundsätze der Besteuerung**
+
+<sup>1</sup> Soweit es die Art der Steuer zulässt, sind bei der Ausgestaltung der Steuern die Grundsätze der Allgemeinheit, der Gleichheit und der wirtschaftlichen Leistungsfähigkeit zu beachten.
+
+<sup>2</sup> Die Steuern sind so zu bemessen, dass die wirtschaftlich Schwachen geschont werden, der Leistungswille erhalten bleibt, die Selbstvorsorge gefördert wird und die Wettbewerbsfähigkeit gewahrt bleibt.
+
+<sup>3</sup> Die interkommunale Doppelbesteuerung ist untersagt.
+
+#### Art. 96
+
+**Finanzausgleich**
+
+<sup>1</sup> Der Kanton stellt den Finanzausgleich sicher.
+
+<sup>2</sup> Durch den Finanzausgleich werden ausgewogene Verhältnisse in der Steuerbelastung und in den Leistungen der Gemeinden und Regionen angestrebt.
+
+<sup>3</sup> Das Gesetz kann zum Abbau regionaler Ungleichgewichte, für die Erfüllung besonderer Funktionen durch eine Gemeinde oder Region sowie zur Förderung bestimmter Aufgaben zusätzliche Beiträge vorsehen.
+
+#### Art. 97
+
+**Finanzaufsicht**
+
+<sup>1</sup> Der Grosse Rat übt die Finanzaufsicht aus. Er wird dabei durch ein unabhängiges Kontrollorgan unterstützt.
+
+## 8. Staat und Kirchen
+
+#### Art. 98
+
+**Landeskirchen und Kirchgemeinden**
+
+<sup>1</sup> Die evangelisch-reformierte Kirche und die römisch-katholische Kirche sind öffentlichrechtlich anerkannt.
+
+<sup>2</sup> Die Evangelisch-reformierte Landeskirche und ihre Kirchgemeinden sowie die Katholische Landeskirche und ihre Kirchgemeinden sind Körperschaften des öffentlichen Rechts.
+
+<sup>3</sup> Durch Gesetz können weitere Religionsgemeinschaften öffentlichrechtlich anerkannt werden.
+
+#### Art. 99
+
+**Autonomie**
+
+<sup>1</sup> Die Landeskirchen und ihre Kirchgemeinden regeln ihre Angelegenheiten im Rahmen des kantonalen Rechts selbständig.
+
+<sup>2</sup> Sie sind berechtigt, von ihren Mitgliedern Steuern nach den für die Gemeinden geltenden Grundsätzen zu erheben.
+
+<sup>3</sup> Den Kirchgemeinden steht das Recht zu, ihre Geistlichen zu wählen und zu entlassen.
+
+<sup>4</sup> Der Kanton hat die Oberaufsicht über die rechtmässige Verwendung der finanziellen Mittel und die Einhaltung der Rechtsordnung.
+
+<sup>5</sup> Er kann durch Gesetz von juristischen Personen eine Kultussteuer erheben.
+
+#### Art. 100
+
+**Religionsgemeinschaften des Privatrechts**
+
+<sup>1</sup> Die übrigen Religionsgemeinschaften unterstehen dem Privatrecht.
+
+## 9. Änderung der Kantonsverfassung
+
+#### Art. 101
+
+**Total- und Teilrevision**
+
+<sup>1</sup> Die Verfassung kann jederzeit ganz oder teilweise revidiert werden.
+
+<sup>2</sup> Eine Teilrevision kann eine einzelne Bestimmung oder mehrere sachlich zusammenhängende Bestimmungen umfassen.
+
+<sup>3</sup> Das Volk entscheidet aufgrund einer Volksinitiative oder eines Beschlusses des Grossen Rates, ob eine Totalrevision der Verfassung einzuleiten sei.
+
+<sup>4</sup> Bei einer Totalrevision kann die Verfassungsvorlage anstelle einer Variante gemäss Artikel 19 eine oder mehrere Varianten enthalten, über die vorgängig oder gleichzeitig gesondert abzustimmen ist.
+
+## 10. Schlussbestimmungen
+
+#### Art. 102
+
+**In-Kraft-Treten**
+
+<sup>1</sup> Diese Verfassung tritt auf den 1. Januar 2004 in Kraft.
+
+<sup>2</sup> Auf diesen Zeitpunkt wird die Verfassung für den Kanton Graubünden vom 2. Oktober 1892[^102-1] aufgehoben.
+
+<sup>3</sup> Änderungen der Kantonsverfassung vom 2. Oktober 1892, die zwischen der Beschlussfassung im Grossen Rat über die Verfassung und deren In-Kraft-Treten erfolgen, werden vom Grossen Rat in die neue Kantonsverfassung eingefügt. Der entsprechende Beschluss untersteht nicht dem Referendum.
+
+[^102-1]: aRB 1 und Änderungen gemäss Register zur AGS
+
+#### Art. 103
+
+**Beschränkte Weitergeltung des bisherigen Rechts**
+
+<sup>1</sup> Erlasse, die von einer nicht mehr zuständigen Behörde oder in einem nicht mehr zulässigen Verfahren beschlossen worden sind, bleiben in Kraft.
+
+<sup>2</sup> Die Änderung dieser Erlasse richtet sich nach dieser Verfassung.
+
+<sup>3</sup> Bis zum In-Kraft-Treten entsprechender gesetzlicher Bestimmungen gelten folgende Bestimmungen der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter:[^103-1]
+
+- 1\. Art. 27 Abs. 1 und 2
+- 2\. Art. 39 Abs. 4
+- 3\. Art. 40 Abs. 5 Satz 2 und 3 sowie Abs. 6
+
+<sup>4</sup> Bis längstens 31. Dezember 2008 gilt Artikel 38 Absatz 2 der Verfassung für den Kanton Graubünden vom 2. Oktober 1892 weiter:[^103-2]
+
+[^103-1]: Die Wortlaute werden vorliegend nicht wiedergegeben, sondern finden sich in [AGS 2003 S. 4002 f.](http://www.gr-lex.gr.ch/frontend/change_documents/235)
+[^103-2]: Der Wortlaut wird vorliegend nicht wiedergegeben, sondern findet sich in [AGS 2003 S. 4003.](http://www.gr-lex.gr.ch/frontend/change_documents/235)
+
+#### Art. 104
+
+**Anpassung der Gesetzgebung**
+
+<sup>1</sup> Ist nach dieser Verfassung neues Recht zu erlassen oder bestehendes Recht zu ändern, so hat dies ohne Verzug zu geschehen.
+
+<sup>2</sup> Die Regierung unterbreitet dem Grossen Rat innert drei Jahren ab In-Kraft-Treten dieser Verfassung Vorschläge für die erforderliche Anpassung der Gesetzgebung.
+
+#### Art. 105
+
+**Behörden und Gerichte**
+
+<sup>1</sup> Die Mitglieder der Behörden und Gerichte bleiben unter Vorbehalt der folgenden Ausnahmen bis zum Ablauf der Amtsperiode nach bisherigem Recht im Amt:
+
+- 1\. Die Amtsdauer der Mitglieder des Grossen Rates und deren Stellvertreterinnen und Stellvertreter wird bis 31. Juli 2006 verlängert;
+- 2\. Die Amtsdauer der Kreispräsidentinnen und Kreispräsidenten sowie deren Stellvertreterinnen und Stellvertreter wird bis 31. Juli 2006 verlängert;
+- 3\. Die Amtsdauer der bündnerischen Mitglieder des Ständerates wird bis 25. November 2007 verlängert.
+
+<sup>2</sup> Für Neuwahlen und Ersatzwahlen gelten die Bestimmungen dieser Verfassung.
+
+<sup>3</sup> Vollamtliche Mitglieder einer richterlichen Behörde bedürfen bis zum Erlass entsprechender gesetzlicher Bestimmungen der Bewilligung der Justizkommission des Grossen Rates für jegliches Ausüben einer Nebenbeschäftigung. Diese Tätigkeiten dürfen die uneingeschränkte Erfüllung der Amtspflichten, die Unabhängigkeit und das Ansehen des Gerichts nicht beeinträchtigen. Die Justizkommission kann eine angemessene Reduktion des Arbeitsumfanges oder eine Abgabepflicht der für die Ausübung der Nebenbeschäftigung bezogenen Entschädigung festlegen. Die Bestimmungen für vollamtliche Mitglieder einer richterlichen Behörde bleiben anwendbar.
+
+<sup>4</sup> Für das verfassungsgerichtliche Verfahren sind bis zum Erlass entsprechender gesetzlicher Bestimmungen die Vorschriften über das Verwaltungsgerichtsverfahren sinngemäss anwendbar.
+
+#### Art. 106
+
+**Politische Rechte**
+
+<sup>1</sup> Das Zustandekommen und die Gültigkeit von Volksinitiativen und Referenden, die vor der Annahme dieser Verfassung bei der Standeskanzlei angemeldet worden sind, werden nach bisherigem Recht beurteilt.
+
+<sup>2</sup> Die bei In-Kraft-Treten dieser Verfassung vom Grossen Rat verabschiedeten Vorlagen unterstehen der Volksabstimmung nach bisherigem Recht.
+
+<sup>3</sup> Volksinitiativen auf Teilrevision der bisherigen Verfassung, die bis zur Annahme der neuen Verfassung eingereicht werden, wandelt der Grosse Rat in Vorlagen zur Teilrevision der neuen Verfassung um.
+
+#### Art. 107
+
+**Regionalverbände**
+
+<sup>1</sup> Regionale Organisationen der interkommunalen Zusammenarbeit, die beim In-Kraft-Treten der neuen Verfassung noch keine Regionalverbände im Sinne der Verfassung sind, werden bis 31. Dezember 2006 wie Regionalverbände behandelt.
+
+<sup>2</sup> Dem Vorstand der Regionalverbände obliegt es, den zuständigen Organen und Gemeinden bis 31. Dezember 2004 Vorschläge für die künftige Ausgestaltung eines Regionalverbandes zu unterbreiten.
+
+#### Art. 108
+
+**Kreise, Bezirke, Regionalverbände**
+
+<sup>1</sup> Kreise, welche von Gemeinden delegierte Aufgaben wahrnehmen, bestehen bis zwei Jahre nach Inkrafttreten der Einteilung des Kantons in Regionen als Körperschaften des kantonalen öffentlichen Rechts weiter. Die Amtsdauer der Präsidentinnen und Präsidenten sowie deren Stellvertreterinnen und Stellvertreter der übrigen Kreise verlängert sich bis zum Aufhebungszeitpunkt.
+
+<sup>2</sup> Bis Ende 2016 bilden die Bezirke Gerichtssprengel für die Zivil- und Strafgerichtsbarkeit. Deren Rechtsstellung richtet sich nach dem Gesetz.
+
+<sup>3</sup> Ab Inkrafttreten der Einteilung des Kantons in Regionen dürfen den Kreisen und Regionalverbänden keine Aufgaben mehr zugewiesen werden.
+
+<sup>4</sup> Die Staatshaftung für sowie die Aufsicht über die Kreise, Bezirke und Regionalverbände sind für die gesamte Dauer ihres Bestehens in dem Masse gewährleistet, wie dies die Verfassung des Kantons Graubünden vom 18. Mai 2003/14. September 2003 vorsah.
+
+-

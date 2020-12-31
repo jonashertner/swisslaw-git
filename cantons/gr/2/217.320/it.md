@@ -1,0 +1,357 @@
+---
+canton: GR
+number: "217.320"
+title: Ordinanza concernente la misurazione ufficiale nei Grigioni
+short: OMUC
+language: it
+version: 2012-02-15
+corrected: 2014-11-09
+version_adopted: 2012-02-07
+adopted: 2012-02-07
+in_force: 2012-02-15
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/217.320"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/1421/pdf_file"
+text: pdf
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+
+# Ordinanza concernente la misurazione ufficiale nei Grigioni (OMUC)
+
+emanata dal Governo il 7 febbraio 2012
+
+visto l'art. 45 della Costituzione cantonale[^t-1]
+
+I. Disposizioni generali
+
+[^t-1]: CSC 110.100
+
+#### Art. 1
+
+**Scopo**
+
+La presente ordinanza serve all'esecuzione della legge federale sulla geoinformazione e stabilisce le disposizioni esecutive della legge cantonale sulla geoinformazione nel settore della misurazione ufficiale. Essa mira a una demarcazione, misurazione e tenuta a giorno unitarie delle componenti della misurazione ufficiale.
+
+#### Art. 2
+
+**Autorità competente**
+
+L'Ufficio per l'agricoltura e la geoinformazione è l'autorità competente per la vigilanza sulla misurazione ufficiale (autorità di vigilanza sulle misurazioni). L'autorità di vigilanza sulle misurazioni esegue i compiti della misurazione ufficiale conformemente all'articolo 19 della legge cantonale sulla geoinformazione (LCGI)[^2-1] e alla presente ordinanza.
+
+[^2-1]: CSC 217.300 15.2.2012 1
+
+### II. Demarcazione
+
+#### Art. 3
+
+**Accertamento dei confini di proprietà 1. Procedura ordinaria**
+
+<sup>1</sup> Nelle zone senza una misurazione riconosciuta, l'ingegnere geometra accerta i confini di proprietà alla presenza dei proprietari fondiari interessati o di un loro rappresentante autorizzato. Egli può valersi della collaborazione della commissione di terminazione designata dal comune.
+
+<sup>2</sup> I proprietari fondiari interessati vanno invitati all'accertamento dei confini con almeno 14 giorni di anticipo. Se non danno seguito all'invito, l'ingegnere geometra accerta i confini con la collaborazione dei confinanti presenti. I proprietari fondiari assenti, qualora inoltrassero opposizione, devono sostenere i costi supplementari da essi cagionati, se non possono giustificare la loro assenza.
+
+#### Art. 4
+
+**2. Procedura semplificata**
+
+Nelle zone agricole e forestali situate nella regione di montagna e di estivazione conformemente al catasto della produzione agricola, nonché in zone non produttive l'accertamento dei confini può essere effettuato in base a piani, fotografie aeree o altre basi idonee.
+
+#### Art. 5
+
+**Rapporti di proprietà secondo il registro fondiario**
+
+Nell'accertamento dei confini di proprietà non può essere modificata la situazione di proprietà iscritta nel registro fondiario.
+
+#### Art. 6
+
+**Punti di misurazione**
+
+Sono considerati segni che materializzano punti di misurazione:
+
+- a) cippi e bolloni compresi le loro misure di assicurazione, i chiusini, le paline verticali, le piramidi e simili per indicare i punti fissi planimetrici e i punti fissi altimetrici;
+
+- b) cippi, nonché altri segni ammessi quali croci, bolloni, termini in materiale sintetico, picchetti, ecc. per indicare confini nazionali, cantonali, comunali e di proprietà;
+
+- c) picchetti per la determinazione provvisoria di punti di misurazione;
+
+- d) idrometri.
+
+#### Art. 7
+
+**Indicazione dei confini**
+
+L'autorità di vigilanza sulle misurazioni emana istruzioni sui requisiti posti all'indicazione dei confini e definisce i segni di terminazione ammessi.
+
+#### Art. 8
+
+**Rinuncia a segni di terminazione**
+
+Si può rinunciare alla posa di segni di terminazione permanenti:
+
+- a) in zone che necessitano di ricomposizione particellare;
+
+- b) in zone in cui i segni di terminazione sono costantemente minacciati dallo sfruttamento agricolo o da altri influssi;
+
+- c) nelle zone agricole e forestali situate nella regione di montagna e di estivazione conformemente al catasto della produzione agricola, nonché in zone non produttive;
+
+- d) per le strade agricole e forestali, fatta eccezione per le testate di confine di bene immobile;
+
+- e) in caso di diritti per sé stanti e permanenti;
+
+- f) se ciò provocherebbe danni a costruzioni;
+
+- g) in caso di chiare delimitazioni edilizie e in luoghi inaccessibili.
+
+#### Art. 9
+
+**Obblighi dei proprietari dei fondi**
+
+I proprietari dei fondi sono tenuti a far posare segni di terminazione conformi alle prescrizioni lungo i confini dei loro fondi e a tollerare segni di
+
+**2**
+
+15.2.2012 misurazione e terminazione sulla loro proprietà fondiaria. Cambiamenti o danneggiamenti di questi segni devono essere notificati immediatamente al comune o al competente ingegnere geometra.
+
+#### Art. 10
+
+**Protezione della materializzazione dei punti di misurazione**
+
+<sup>1</sup> Segni che materializzano punti della misurazione ufficiale quali punti fissi di misurazione e segni di terminazione possono essere apposti o ripristinati solo dietro istruzione e vigilanza del geometra revisore. Segni che materializzano punti di misurazione ufficiale rimossi nel quadro di lavori di costruzione vanno notificati al competente geometra revisore.
+
+<sup>2</sup> Le azioni e i provvedimenti che pregiudicano la sicurezza dei segni che materializzano punti di misurazione sono vietati. Sono fatte salve le disposizioni del codice penale svizzero[^10-1] (art. 145, 256, 257, 268, 286).
+
+[^10-1]: RS 311.0 15.2.2012 3
+
+#### Art. 11
+
+**Responsabilità**
+
+Dei danni a segni che materializzano punti di misurazione risponde chi li ha cagionati.
+
+#### Art. 12
+
+**Manutenzione**
+
+<sup>1</sup> I comuni sono tenuti a far verificare periodicamente dal geometra revisore e se necessario a far ripristinare la materializzazione dei punti fissi planimetrici e dei punti fissi altimetrici della categoria 3 nelle zone nucleo e nelle zone edificabili.
+
+<sup>2</sup> L'autorità di vigilanza sulle misurazioni notifica all'Ufficio federale di topografia i danni o i pericoli riscontrati per i punti fissi della categoria 1, nonché le modifiche a punti fissi planimetrici della categoria 2.
+
+#### Art. 13
+
+**Confini territoriali**
+
+<sup>1</sup> I confini degli immobili lungo il confine nazionale ne adottano il tracciato.
+
+<sup>2</sup> In virtù di accordi di diritto internazionale, l'autorità di vigilanza sulle misurazioni conferisce all'Ufficio del registro fondiario e al geometra revisore l'incarico di modificare confini di fondi lungo il confine nazionale.
+
+<sup>3</sup> L'autorità di vigilanza sulle misurazioni notifica all'Ufficio federale di topografia i segni di terminazione danneggiati o minacciati lungo i confini nazionali.
+
+<sup>4</sup> Ai comuni compete la manutenzione dei segni di terminazione comunali.
+
+### III. Misurazione
+
+#### Art. 14
+
+**Esecuzione**
+
+Il primo rilevamento e il rinnovamento della misurazione ufficiale possono essere eseguiti a tappe. Il momento dell'esecuzione delle singole misurazioni si conforma agli accordi di programma conclusi con la Confederazione.
+
+#### Art. 15
+
+**Approvazione**
+
+Dopo la conclusione dell'esposizione pubblica della misurazione e dopo l'evasione in prima istanza delle opposizioni, il Governo approva il piano per il registro fondiario, i dati della misurazione ufficiale e gli altri estratti allestiti per la tenuta del registro fondiario e riconosce loro la forza probatoria di un atto pubblico.
+
+#### Art. 16
+
+**Dati della misurazione ufficiale**
+
+I dati della misurazione ufficiale servono da base per la creazione e la gestione di sistemi d'informazione geografica e vanno messi gratuitamente a disposizione del centro di geodati cantonale.
+
+#### Art. 17
+
+**Consegna di parti integranti della misurazione ufficiale**
+
+<sup>1</sup> L'ingegnere geometra è tenuto a consegnare gratuitamente all'autorità di vigilanza sulle misurazioni, su richiesta di quest'ultima, le componenti della misurazione ufficiale destinate alla verifica.
+
+<sup>2</sup> Le componenti della misurazione ufficiale conservate presso l'autorità di vigilanza sulle misurazioni vengono messe a disposizione gratuitamente dell'ingegnere geometra per il primo rilevamento, il rinnovamento e la tenuta a giorno.
+
+#### Art. 18
+
+**Menzione dei punti fissi**
+
+All'autorità di vigilanza sulle misurazioni compete la notifica dei punti fissi delle categorie 1 e 2 per la menzione nel registro fondiario quali restrizioni di diritto pubblico della proprietà.
+
+#### Art. 19
+
+**Confini di servitù**
+
+I confini di servitù possono essere rappresentati nel piano per il registro fondiario su richiesta degli interessati, sempre che sia possibile una chiara definizione planimetrica.
+
+**4**
+
+15.2.2012
+
+### IV. Tenuta a giorno
+
+#### Art. 20
+
+**Contratto di tenuta a giorno**
+
+<sup>1</sup> Il comune incarica un geometra revisore iscritto nel registro dei geometri della tenuta a giorno permanente e della gestione della misurazione ufficiale. A questo scopo stipula un contratto di diritto pubblico (contratto di tenuta a giorno).
+
+<sup>2</sup> Il contratto di tenuta a giorno può essere disdetto per la fine di ogni anno civile, nel rispetto di un termine di disdetta di dodici mesi. I contratti giungono a scadenza al più tardi nell'anno in cui il geometra revisore raggiunge l'età di pensionamento ordinaria. Deve essere garantita la supplenza del geometra revisore.
+
+<sup>3</sup> Il contratto di tenuta a giorno deve essere approvato dall'autorità di vigilanza sulle misurazioni.
+
+#### Art. 21
+
+**Comuni con un proprio servizio specializzato**
+
+Nei comuni che dispongono di un proprio servizio specializzato per la misurazione ufficiale, la funzione di geometra revisore è assunta dall'ingegnere geometra capo, iscritto nel registro dei geometri. La supplenza deve essere garantita.
+
+#### Art. 22
+
+**Conferimento di incarichi da parte dell'Ufficio del registro fondiario**
+
+Se vengono modificati dei confini di fondi, divisi o uniti dei fondi, costituiti, modificati o cancellati dei diritti per sé stanti e permanenti o delle servitù da rappresentare nei piani per il registro fondiario, l'ufficiale del registro fondiario conferisce senza indugio al geometra revisore l'incarico di aggiornare le componenti della misurazione ufficiale. Questo vale anche per la costruzione di strade, canali e ferrovie, se vengono modificati confini di fondi, nonché per l'allestimento di piani di quartiere e per l'esecuzione di ricomposizioni particellari.
+
+**5**
+
+15.2.2012
+
+#### Art. 23
+
+**Documento di mutazione**
+
+<sup>1</sup> Il geometra revisore stende a destinazione dell'Ufficio del registro fondiario un documento di mutazione contenente il piano di mutazione e la descrizione dei beni immobili per:
+
+- a) modifiche di confini;
+
+- b) la costituzione, la modifica e la cancellazione di diritti per sé stanti e permanenti differenziati secondo la superficie, nonché di servitù.
+
+<sup>2</sup> Dopo l'iscrizione della mutazione da parte dell'Ufficio del registro fondiario vengono aggiornati i dati e gli altri atti della misurazione ufficiale.
+
+#### Art. 24
+
+**Notifiche al geometra revisore**
+
+<sup>1</sup> Dopo il rilascio della licenza edilizia, le autorità competenti per il rilascio devono notificare senza indugio al geometra revisore le costruzioni, le nuove strade e i nuovi sentieri, la demolizione di costruzioni che hanno autorizzato, nonché tutti i nuovi indirizzi degli edifici e tutti gli indirizzi modificati.
+
+<sup>2</sup> Il servizio competente per l'attribuzione del numero dell'edificio notifica in forma adeguata, entro un mese, al geometra revisore competente tutte le modifiche di numeri degli edifici. Esso può mettere a disposizione queste informazioni nella procedura di richiamo.
+
+#### Art. 25
+
+**Termini**
+
+<sup>1</sup> Atti di mutazione concernenti modifiche di confini e modifiche di diritti per sé stanti e permanenti vanno consegnati all'Ufficio del registro fondiario di norma entro due mesi dalla ricezione dell'incarico.
+
+<sup>2</sup> Se le modifiche di confini non possono essere iscritte a registro fondiario entro un anno dalla consegna del documento di mutazione, l'Ufficio del registro fondiario pone un termine di al massimo tre mesi per l'evasione, dietro comminatoria dell'annullamento della mutazione. Se il termine scade inutilizzato, l'Ufficio del registro fondiario incarica il geometra revisore di annullare la mutazione della modifica del confine. I costi per l'annullamento sono a carico di chi li ha cagionati.
+
+<sup>3</sup> Le costruzioni progettate vanno aggiornate entro un mese dal rilascio della licenza edilizia.
+
+<sup>4</sup> Costruzioni e infrastrutture realizzate vanno aggiornate entro dodici mesi dal completamento dei lavori.
+
+<sup>5</sup> Tutti i dati per il cui aggiornamento non può essere organizzata una procedura di notifica, come i dati relativi a cambiamenti naturali della copertura del suolo, ecc., vanno aggiornati entro dodici anni nel quadro della tenuta a giorno periodica.
+
+**6**
+
+15.2.2012
+
+#### Art. 26
+
+**Messa a disposizione dei dati**
+
+In seguito a ogni modifica dei livelli d'informazione "punti fissi", "immobili" e "copertura del suolo", entro un giorno il geometra revisore competente mette a disposizione del Cantone e del centro di geodati cantonale i dati in forma elettronica. In seguito a modifiche agli altri livelli d'informazione, i dati vanno trasmessi almeno mensilmente.
+
+#### Art. 27
+
+**Estratti autenticati**
+
+Per l'autenticazione di estratti della misurazione ufficiale in forma analogica o digitale sono competenti il geometra revisore incaricato dal comune oppure il suo supplente.
+
+#### Art. 28
+
+**Costi della tenuta a giorno**
+
+<sup>1</sup> Il geometra revisore fattura i costi della tenuta a giorno e provvede all'incasso. In caso di ampi lavori di tenuta a giorno può essere richiesto un anticipo.
+
+<sup>2</sup> Se le fatture non vengono saldate, dopo un infruttuoso sollecito da parte del geometra revisore spetta al comune esigere il pagamento della fattura. A questo scopo, il comune emana una decisione di fatturazione impugnabile.
+
+<sup>3</sup> I costi per i lavori di tenuta a giorno vengono calcolati secondo una tariffa approvata dal Governo.
+
+<sup>4</sup> I costi della tenuta a giorno permanente sono a carico di chi li ha cagionati o del proprietario del fondo al momento della fatturazione; il diritto è prescritto dopo cinque anni dalla conclusione della mutazione.
+
+#### Art. 29
+
+**Correzione di contraddizioni**
+
+<sup>1</sup> Gli errori effettivi senza effetto giuridico vengono rettificati d'ufficio dal geometra revisore.
+
+<sup>2</sup> La competenza per la correzione di contraddizioni conformemente all'articolo 14a dell'ordinanza sulla misurazione ufficiale[^29-1] spetta al Dipartimento.
+
+[^29-1]: RS 211.432.2 15.2.2012 7
+
+### V. Nomi geografici
+
+#### Art. 30
+
+**Rilevamento e modifica dei nomi geografici della misurazione ufficiale**
+
+<sup>1</sup> I comuni collaborano al rilevamento dei nomi geografici della misurazione ufficiale da parte dell'ingegnere geometra incaricato.
+
+<sup>2</sup> Essi possono chiedere alla Commissione cantonale della nomenclatura la modifica di nomi geografici della misurazione ufficiale già approvati o l'inserimento di nuovi nomi geografici.
+
+#### Art. 31
+
+**Determinazione dei nomi geografici della misurazione ufficiale**
+
+<sup>1</sup> La Commissione cantonale della nomenclatura verifica i nomi geografici della misurazione ufficiale e stabilisce la grafia.
+
+<sup>2</sup> Il comune può presentare ricorso al Governo contro decisioni della Commissione cantonale della nomenclatura. Il Governo può richiedere una presa di posizione della Direzione federale delle misurazioni catastali. La decisione del Governo è definitiva.
+
+#### Art. 32
+
+**Nomi di comuni, località e stazioni**
+
+<sup>1</sup> La Commissione cantonale della nomenclatura esamina le richieste dei comuni di modifica dei nomi di comuni, località e stazioni. In caso di modifica dei nomi di comuni e località, esegue eventualmente la procedura per l'esame preliminare presso la Confederazione.
+
+<sup>2</sup> Il Governo esegue la procedura d'approvazione per la determinazione e la modifica di nomi di comuni, località o stazioni presso la Confederazione.
+
+<sup>3</sup> L'autorità di vigilanza sulle misurazioni coordina la determinazione del perimetro di località con i comuni interessati e La Posta, stabilisce geograficamente le modifiche e le comunica all'Ufficio federale di topografia.
+
+#### Art. 33
+
+**Notifiche all'Ufficio federale**
+
+L'autorità di vigilanza sulle misurazioni è competente per le notifiche all'Ufficio federale di topografia conformemente all'articolo 18 dell'ordinanza sui nomi geografici[^33-1].
+
+[^33-1]: RS 510.625
+
+#### Art. 34
+
+**Nomi delle vie e indirizzi degli edifici**
+
+<sup>1</sup> I comuni sono tenuti a comunicare all'Ufficio determinazioni e modifiche di nomi delle vie.
+
+<sup>2</sup> L'autorità di vigilanza sulle misurazioni coordina la comunicazione dei nomi delle vie all'Ufficio federale di statistica e agli offerenti di servizi universali secondo gli articoli 2 – 4 della legge sulle poste[^34-1].
+
+[^34-1]: RS 783.0 8 15.2.2012
+
+### VI. Disposizioni finali
+
+#### Art. 35
+
+**Disposizioni transitorie**
+
+Tutti i contratti di tenuta a giorno vigenti vanno adeguati entro sei anni dall'entrata in vigore della presente ordinanza.
+
+#### Art. 36
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 15 febbraio 2012.
+
+**9**
+
+15.2.2012

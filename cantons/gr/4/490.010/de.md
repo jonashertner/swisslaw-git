@@ -1,0 +1,202 @@
+---
+canton: GR
+number: "490.010"
+title: Verordnung zum Gesetz über die Aktenführung und Archivierung
+short: VAA
+language: de
+version: 2016-01-01
+valid_until: 2024-03-31
+version_adopted: 2015-12-22
+adopted: 2015-12-22
+in_force: 2016-01-01
+url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/490.010"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/2639/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung zum Gesetz über die Aktenführung und Archivierung
+
+(VAA)
+
+Vom 22.12.2015 (Stand 01.01.2016)
+
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
+
+von der Regierung erlassen am 22. Dezember 2015
+
+## 1. Aktenführung und Aufbewahrung
+
+#### Art. 1
+
+**Aktenführende Stellen**
+
+<sup>1</sup> Die Behörden bezeichnen die aktenführenden Stellen in ihrem Kompetenzbereich.
+
+<sup>2</sup> Jede aktenführende Stelle bestimmt eine verantwortliche Person für die Aktenführung.
+
+#### Art. 2
+
+**Ordnungssystem**
+
+<sup>1</sup> Die aktenführenden Stellen legen für ihre Unterlagen ein Ordnungssystem fest, welches die Unterlagen in Aktengruppen unterteilt. Pro Aktengruppe ist mindestens Folgendes zu regeln:
+
+- a) die verbindliche Form der Unterlagen gemäss Artikel 3 Absatz 1;
+- b) die Aufbewahrungsfristen und Aufbewahrungsregeln;
+- c) das verwendete System beziehungsweise die verwendete Applikation;
+- d) die Art und Weise der Verzeichnung.
+
+#### Art. 3
+
+**Papierbasierte und digitale Aktenführung**
+
+<sup>1</sup> Die Aktenführung kann papierbasiert, digital oder in gemischter Form erfolgen.
+
+<sup>2</sup> Für die Zwecke der Archivierung muss die selektive Entnahme der archivwürdigen Unterlagen aus den eingesetzten Systemen gewährleistet sein. Eine Vereinfachung der Unterlagen ist zulässig.
+
+<sup>3</sup> Für die Archivierung werden soweit möglich Standardschnittstellen verwendet.
+
+<sup>4</sup> Für papierbasierte Unterlagen muss archivtaugliches Papier verwendet werden. Die Ablagen der Behörden müssen in Räumen untergebracht werden, die Gewähr dafür bieten, dass die Unterlagen die Aufbewahrungsfrist in gutem und geordnetem Zustand überdauern.
+
+#### Art. 4
+
+**Anbieten von Unterlagen**
+
+<sup>1</sup> Die aktenführenden Stellen bieten ihre Unterlagen mit abgelaufener Aufbewahrungsfrist mindestens alle fünf Jahre dem zuständigen Archiv an.
+
+#### Art. 5
+
+**Zustellung von Amtsdruckschriften**
+
+<sup>1</sup> Die Behörden übergeben dem zuständigen Archiv Belegexemplare:
+
+- a) von Amtsdruckschriften oder anderen Publikationen von dokumentarischem Wert, die sie veröffentlichen;
+- b) von jeder Publikation, die sie mitgestaltet oder finanziell unterstützt haben.
+
+## 2. Archivierung
+
+#### Art. 6
+
+**Form der Archivierung**
+
+<sup>1</sup> Grundsätzlich werden die zur Archivierung übernommenen Unterlagen in derjenigen Form archiviert, in der sie bei der aktenführenden Stelle verwaltet wurden.
+
+<sup>2</sup> Konversionen von der digitalen in die papierbasierte Form und umgekehrt sind zulässig. Insbesondere sollen die Unterlagen zu einem Verwaltungsgeschäft nach Möglichkeit nur in einer Form archiviert werden.
+
+#### Art. 7
+
+**Übergabe der Unterlagen an das zuständige Archiv**
+
+<sup>1</sup> Die abliefernde Stelle bringt die Unterlagen vor der Ablieferung in eine für die Archivierung geeignete Form. Digitale Unterlagen müssen in archivtauglichen Formaten vorliegen und mit den beschreibenden Elementen versehen sein, die für ihr Verständnis und die Archivierung notwendig sind.
+
+<sup>2</sup> Für den Transport von Unterlagen ins Archiv ist die abliefernde Stelle zuständig.
+
+<sup>3</sup> Zusammen mit den Unterlagen sind die dazugehörigen Findmittel beziehungsweise Verzeichnisse abzuliefern. Zu jeder Ablieferung gehört ein Ablieferungsverzeichnis, das die abgelieferten Unterlagen summarisch mit der Angabe von Betreff, Zeitraum und Menge auflistet.
+
+<sup>4</sup> Das Staatsarchiv erlässt zur Vorbereitung der Ablieferungen technische Weisungen.
+
+#### Art. 8
+
+**Sicherung des Archivguts**
+
+<sup>1</sup> Archivräume und Archivsysteme müssen den Schutz des Archivguts vor Naturgefahren, Feuer, Wasser, Einbruch und Diebstahl sowie vor unbefugter Einsichtnahme gewährleisten. Das Raumklima ist konstant so zu halten, dass das Archivgut langfristig erhalten bleibt.
+
+<sup>2</sup> Digitales Archivgut wird periodisch auf seine Vollständigkeit und Lesbarkeit überprüft. Die nötigen Massnahmen zur Erhaltung der Daten, insbesondere Formatmigrationen und Datenträgerwechsel, sind im Rahmen der Bestandeserhaltung zu planen.
+
+#### Art. 9
+
+**Temporäre Ausleihe von Archivgut**
+
+<sup>1</sup> Eine befristete Ausleihe von Archivgut für Ausstellungen oder an fachkundige Institutionen und Personen ist zulässig. Es ist jeweils sicherzustellen, dass das Archivgut am Ort der Ausleihe sachgerecht und genügend gesichert aufbewahrt wird.
+
+## 3. Zugänglichkeit des Archivguts
+
+#### Art. 10
+
+**Recht auf Zugang zum Archivgut**
+
+<sup>1</sup> Das Recht auf Zugang umfasst:
+
+- a) Konsultation der Findmittel (Verzeichnisse);
+- b) Konsultation der Unterlagen;
+- c) selbständige Reproduktion der Unterlagen durch Abschrift oder Fotografie;
+- d) Wiedergabe und Weiterverwertung der gewonnenen Informationen, insbesondere in Publikationen.
+
+#### Art. 11
+
+**Voraussetzungen und Rahmenbedingungen des Zugangs zum Archivgut**
+
+<sup>1</sup> Die Benutzung eines Archivs muss nach Anmeldung innerhalb einer Frist von sieben Tagen möglich sein.
+
+<sup>2</sup> Archivbenutzende müssen sich auf Verlangen ausweisen und den Zweck ihrer Nachforschungen bekannt geben.
+
+<sup>3</sup> Archivbenutzende dürfen sich in der Regel nicht unbeaufsichtigt in den Magazinräumen eines Archivs aufhalten.
+
+<sup>4</sup> Archivbenutzende haben dem Archiv ein Belegexemplar von Veröffentlichungen abzugeben, die ganz oder teilweise auf ihren Archivrecherchen beruhen.
+
+<sup>5</sup> Aus konservatorischen Gründen können Bestände für eine beschränkte Frist für die Benutzung gesperrt werden.
+
+#### Art. 12
+
+**Benutzungsordnung**
+
+<sup>1</sup> Die für ein Archiv zuständige Behörde erlässt eine Benutzungsordnung.
+
+#### Art. 13
+
+**Einsicht in Archivgut unter Schutzfrist 1. Für betroffene Personen**
+
+<sup>1</sup> Gesuchstellenden Personen, die Einsicht in das sie selbst betreffende Archivgut wünschen, wird die Einsicht ohne weiteres gewährt, soweit sich die relevanten Archivalien anhand der Findmittel eruieren lassen und soweit keine besonders schützenswerten Personendaten Dritter betroffen sind.
+
+<sup>2</sup> Wenn Personendaten Dritter betroffen sind, werden entsprechende Daten anonymisiert, soweit dies mit einer rationellen Verwaltungsführung vereinbar ist. Andernfalls richtet sich die Behandlung des Einsichtsgesuchs nach dem Verfahren von Artikel 15.
+
+#### Art. 14
+
+**2. Für Behörden**
+
+<sup>1</sup> Behörden, die zur Erfüllung ihrer Aufgaben auf Archivgut zurückgreifen müssen, das sie dem Archiv abgeliefert haben,wird der Zugang in einem formlosen Verfahren gewährt.
+
+#### Art. 15
+
+**3. Für Dritte**
+
+<sup>1</sup> Einsichtsgesuche in Archivgut unter Schutzfrist sind schriftlich begründet beim zuständigen Archiv einzureichen. Das entsprechende Archivgut ist so genau wie möglich zu bezeichnen. Der Entscheid erfolgt innerhalb von 21 Tagen.
+
+<sup>2</sup> Das Zugangsverfahren bis zum Entscheid des zuständigen Archivs ist kostenlos.
+
+<sup>3</sup> Der Entscheid über die Einsicht erfolgt aufgrund einer Güterabwägung insbesondere nach den folgenden Kriterien:
+
+- a) Aktualität und Relevanz eines dem Einsichtsgesuch zugrunde liegenden Forschungsvorhabens;
+- b) Schutz der Privatsphäre Dritter, insbesondere lebender Personen;
+- c) öffentliche Interessen der Sicherheit und Ordnung;
+- d) private Interessen an der Bewahrung von Berufs-, Geschäfts- oder Fabrikationsgeheimnissen.
+
+<sup>4</sup> Die Bewilligung eines Einsichtsgesuchs kann mit Auflagen verbunden werden, insbesondere zur Anonymisierung der im benutzten Archivgut vorkommenden Personen.
+
+## 4. Organisation
+
+#### Art. 16
+
+**Bestimmung von Archivverantwortlichen**
+
+<sup>1</sup> Die für ein Archiv zuständige Behörde bezeichnet eine für das Archiv verantwortliche Person, welche dem Staatsarchiv zu melden ist.
+
+#### Art. 17
+
+**Auflösung von Behörden mit Archivzuständigkeit**
+
+<sup>1</sup> Wenn sich Behörden mit Archivzuständigkeit auflösen oder mit andern Behörden zusammenschliessen, muss der weitere Verbleib des Archivs geregelt werden.
+
+<sup>2</sup> Das vorhandene Archivgut ist in ein bestehendes öffentliches Archiv zu überführen.
+
+#### Art. 18
+
+**Organisation der Archivaufsicht**
+
+<sup>1</sup> Die Archive im Kanton werden periodisch, mindestens jedoch alle sieben Jahre, durch das Staatsarchiv inspiziert.
+
+<sup>2</sup> Die Resultate der Inspektionen und zu treffende Massnahmen werden den inspizierten Archiven zur Umsetzung mitgeteilt.
+
+<sup>3</sup> Bei Mängeln, die über längere Zeit nicht behoben werden, stellt das Staatsarchiv Antrag an die Regierung, welche die Beseitigung auf Kosten der zuständigen Behörde anordnen kann.
+
+2015-054

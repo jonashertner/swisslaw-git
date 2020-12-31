@@ -1,0 +1,282 @@
+---
+canton: GR
+number: "870.110"
+title: Ordinaziun tar la lescha introductiva tar la lescha federala davart il traffic sin via
+short: ORtLItLTV
+language: rm
+version: 2015-01-01
+corrected: 2014-10-26
+version_adopted: 2012-06-26
+adopted: 2008-12-08
+in_force: 2009-01-01
+url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/870.110"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1998/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Ordinaziun tar la lescha introductiva tar la lescha federala davart il traffic sin via (ORtLItLTV)
+
+sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^t-1]
+
+relaschada da la regenza ils 8 da december 2008
+
+I. Cumpetenzas
+
+[^t-1]: DG 110.100
+
+#### Art. 1
+
+**Regenza**
+
+Per las vias chantunalas fixescha la regenza las limitas maximalas che pon vegnir responsadas ord vista da la tecnica da traffic e da construcziun areguard las mesiras ed areguard ils pais dals vehichels. Ella fixescha ils geners da vehichels che na dastgan betg circular u che dastgan circular mo temporarmain sin tscherts trajects da vias.
+
+#### Art. 2
+
+**Departament**
+
+Il departament da giustia, segirezza e sanadad è l'autoritad cumpetenta per:
+
+- a) la permissiun da tut las occurrenzas da sport a motor e da las occurrenzas da ciclissem d'impurtanza surregiunala en il senn da l'artitgel 52 da la lescha federala davart il traffic sin via[^2-1];
+
+- b) l'ordinaziun da tut las limitaziuns da sveltezza tenor l'artitgel 32 da la lescha federala davart il traffic sin via sin tut las vias dal territori chantunal.
+
+[^2-1]: CS 741.01 1-1-2015 1
+
+#### Art. 3
+
+**Uffizi per il traffic sin via**
+
+L'uffizi per il traffic sin via:
+
+- a) exequescha – uschenavant ch'i n'è betg reglà explicitamain insatge auter – quai che croda tenor la legislaziun federala en la cumpetenza dal chantun u d'ina autoritad;
+
+- b) è cumpetent per imponer e per incassar las taglias da traffic e la taxa sin il traffic da camiuns pesants;
+
+- c) dat la permissiun per vehichels, per transports e per viadis excepziunals sin trajects da vias cun restricziuns da pais signalisadas;
+
+- d) è l'autoritad penala dal chantun en il senn da l'artitgel 17 da la lescha introductiva tar la lescha federala davart il traffic sin via (LItLTV)[^3-1].
+
+[^3-1]: DG 870.100
+
+#### Art. 4
+
+**Polizia chantunala 1. regulaziun dal traffic**
+
+<sup>1</sup> La polizia chantunala è l'autoritad chantunala per:
+
+- a) la regulaziun dal traffic en il senn da l'artitgel 6 alinea 1 LItLTV[^4-1] sco er la signalisaziun da las vias chantunalas en il senn da l'artitgel 7 alinea 3 LItLTV, uschenavant ch'i n'è betg cumpetenta in'autra autoritad;
+
+- b) il consentiment ad ulteriurs signals ed ad ulteriuras marcaziuns en il senn da l'artitgel 7 alinea 1 LItLTV;
+
+- c) l'approvaziun da signals e da marcaziuns sin vias communalas en il senn da l'artitgel 7 alinea 2 LItLTV;
+
+- d) la permissiun da servetschs dal traffic da lavur e da servetschs privats en il senn da l'artitgel 9 LItLTV.
+
+<sup>2</sup> Ella è ultra da quai cumpetenta per:
+
+- a) la permissiun d'occurrenzas da ciclissem d'impurtanza regiunala;
+
+- b) la surveglianza da la signalisaziun sin via – en il senn da l'artitgel 105 da l'ordinaziun davart la signalisaziun da las vias (OSV)[^4-2] – sco er la surveglianza da las marcaziuns;
+
+- c) l'ordinaziun da marcaziuns spezialas cun caracter da prescripziun, en spezial lingias da segirezza, sdrivlas melnas, plazzas da parcar, barrieras e barricadas sin tut ils trajects da via entaifer ed ordaifer il vitg en il senn da l'artitgel 101 alinea 2 OSV;
+
+- d) il consentiment per amplas da traffic entaifer ed ordaifer il vitg.
+
+[^4-1]: DG 870.100
+[^4-2]: CS 741.21 2 1-1-2015
+
+#### Art. 5
+
+**2. permissiuns excepziunalas**
+
+<sup>1</sup> Uschenavant ch'i n'è betg reglà explicitamain insatge auter, conceda la polizia chantunala las permissiuns excepziunalas ch'èn previsas tenor il dretg federal e chantunal. Ella è en spezial cumpetenta per excepziuns:
+
+- a) dal scumond da charrar la dumengia e la notg;
+
+- b) da la ladezza maximala sin tscherts trajects da vias sco er dal scumond per chars annexs;
+
+- c) da la ladezza maximala dad autocars en il traffic da lingia;
+
+- d) per pudair charrar cun rauba privlusa sin trajects serrads.
+
+#### Art. 6
+
+**3. temp da lavur e da paus da las manischunzas e dals manischunzs professiunals da vehichels a motor**
+
+<sup>1</sup> La polizia chantunala exequescha las ordinaziuns davart il temp da lavur e da paus da las manischunzas e dals manischunzs professiunals da vehichels a motor (ordinaziun davart ils chauffeurs, OLR 1[^6-1]) sco er da las manischunzas e dals manischunzs professiunals da vehichels levs per transportar persunas e da vehichels grevs da persunas (OLR 2[^6-2]).
+
+<sup>2</sup> L'uffizi per il traffic sin via consegna ils cudeschs da lavur ed ils ulteriurs formulars e metta a disposiziun las datas necessarias a la polizia chantunala.
+
+[^6-1]: CS 822.221
+[^6-2]: CS 822.222
+
+#### Art. 7
+
+**4. transport da rauba privlusa sin via**
+
+La polizia chantunala exequescha l'ordinaziun davart il transport da rauba privlusa sin via (SDR)[^7-1].
+
+[^7-1]: CS 741.621 1-1-2015 3
+
+#### Art. 8
+
+**5. mesiras**
+
+La polizia chantunala ed ils organs da polizia ch'èn autorisads per quai èn cumpetents da retrair immediatamain ils documents da l'auto ed ils permiss da manischar en il senn da la legislaziun federala.
+
+#### Art. 9
+
+**Departament da finanzas e vischnancas**
+
+Il departament da finanzas e vischnancas fa in'assicuranza da responsabladad collectiva per ils vehichels cun attests d'in di sco er per velos e per velos a motor.
+
+### II. Viadis uffizials
+
+#### Art. 10
+
+**Execuziun d'incumbensas publicas**
+
+<sup>1</sup> Viadis uffizials da la polizia, da las organisaziuns da salvament, dals pumpiers, da la dustanza d'ieli, dal mantegniment da las vias, dals organs da chatscha e da pestga, dal servetsch forestal sco er dals organs giudizials èn permess sin tut las vias dal territori chantunal ed en il terren sin agen ristg.
+
+<sup>2</sup> Il medem vala per vehichels a motor da tut gener che vegnan duvrads dal chantun u da las vischnancas per acziuns d'agid en il rom da la gestiun d'eveniments.
+
+### III. Taglias da traffic
+
+#### Art. 11
+
+**Modus da pajament**
+
+<sup>1</sup> La taglia da traffic vegn incassada anticipadamain. Ella scada cun la facturaziun e sto vegnir pajada entaifer 30 dis.
+
+<sup>2</sup> Las possessuras ed ils possessurs da vehichels èn obligads da pajar la taglia fin a la restituziun dal numer d'immatriculaziun, fin a l'annullaziun dals documents dal vehichel u fin a la publicaziun da la liberaziun da taglia en il RIPOL.
+
+<sup>3</sup> Pajaments e bunificaziuns vegnan scuntrads cun ils quints averts.
+
+<sup>4</sup> I na vegnan ni pajads tschains da bunificaziun ni mess a quint tschains da retard.
+
+#### Art. 12
+
+**Numers d'immatriculaziun transferibels**
+
+<sup>1</sup> La taglia da traffic per numers d'immatriculaziun transferibels sa drizza tenor il vehichel che quinta dapli. Per mintga ulteriur vehichel vegnan incassads 20 pertschient da la taglia correspundenta.
+
+<sup>2</sup> Maschinas da lavur, chars da lavur e chars annexs da lavur èn suttamess a l'imposiziun cumplaina er cun numers d'immatriculaziun transferibels.
+
+#### Art. 13
+
+**Calculaziun da las taglias da traffic**
+
+<sup>1</sup> Per la calculaziun da la taglia da traffic è decisiv l'onn chalendar.
+
+<sup>2</sup> La taglia da traffic vegn incassada a partir da la data da valaivladad da l'attest d'assicuranza u a partir da la data da consegna respectivamain da distribuziun dals numers d'immatriculaziun. Ella vegn messa a quint mintgamai fin la fin da l'onn chalendar.
+
+<sup>3</sup> Ella importa 100 pertschient per 365 dis e sa reducescha en cas d'ina durada pli curta da l'immatriculaziun dal vehichel per in 365avel per di.
+
+<sup>4</sup> En cas d'ina midada dal vehichel vegn il di da la transcripziun mess a quint al nov vehichel.
+
+#### Art. 14
+
+**Restituziun**
+
+<sup>1</sup>[^14-1]Sch'in vehichel vegn mess ord funcziun durant l'onn chalendar, deponind ils numers d'immatriculaziun u – en cas da numers d'immatriculaziun transferibels – annullond ils documents dal vehichel, vegnan las taglias da traffic, ch'èn gia vegnidas pajadas, restituidas suenter las avair scuntrà cun posiziuns avertas e suenter avair deducì eventualas spesas da mandat.
+
+<sup>2</sup> Il dretg da restituziun vegn calculà – applitgond l'artitgel 13 alinea 3 confurm al senn – a partir dal di suenter il di dal deposit dals numers d'immatriculaziun u suenter il di da l'annullaziun dals documents dal vehichel.
+
+<sup>3</sup> Sch'ils numers d'immatriculaziun vegnan deponids per posta, è il bul postal decisiv. Sche quel è illegibel, vala il di avant il di che l'uffizi per il traffic sin via ha survegnì ils numers d'immatriculaziun.
+
+[^14-1]: versiun tenor CR dals 9 da settember 2014; entrà en vigur il 1. da schaner 2015 4 1-1-2015
+
+#### Art. 15
+
+**Reducziun d'uffizi**
+
+<sup>1</sup> La taglia da traffic vegn reducida:
+
+- a)[^15-1]per 60 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 120 g/km;
+
+- b)[^15-2]per 80 pertschient per vehichels a motor levs cun ina svapur maximala da CO2 da 105 g/km;
+
+- c) per 80 pertschient per vehichels a motor grevs da la classa EURO la pli severa ch'è mintgamai da survegnir sin il martgà svizzer.
+
+<sup>2</sup> Ultra da quai na dastga la svapur da pulvra fina betg surpassar 0,01 g/km tar vehichels a motor levs tenor l'alinea 1 cun motors da diesel.
+
+<sup>3</sup> La possessura u il possessur sto cumprovar, tge criteri da reducziun che ses vehichel ademplescha. Il medem vala per vehichels omologads cun differentas sorts da mecanissem.
+
+<sup>4</sup> La regenza reducescha mintga 2 onns las limitas per la svapur da CO2, l'emprima giada per il 1. da schaner 2011.
+
+<sup>5</sup> Il dretg da reducziun da la taglia da traffic cumenza e finescha tenor las reglas da l'artitgel 13 confurm al senn.
+
+[^15-1]: versiun tenor CR dals 9 da settember 2014; entrà en vigur il 1. da schaner 2015
+[^15-2]: versiun tenor CR dals 9 da settember 2014; entrà en vigur il 1. da schaner 2015
+
+#### Art. 16
+
+**Reducziun sin dumonda**
+
+<sup>1</sup> L'uffizi per il traffic sin via po reducir las taglias da traffic sin dumonda:
+
+- a) per 50 pertschient per ambulanzas e per chars da morts privats che pon vegnir duvrads mo per quest intent;
+
+- b)[^16-1]per 50 pertschient per vehichels a motor che vegnan duvrads tenor il document dal vehichel en il traffic da lingia public.
+
+<sup>2</sup> Il relasch e la reducziun valan a partir da l'entrada da la dumonda. Las taglias da traffic ch'èn gia vegnidas pajadas vegnan restituidas mo per l'onn current ed applitgond l'artitgel 13 alinea 3 confurm al senn.
+
+[^16-1]: versiun tenor CR dals 9 da settember 2014; entrà en vigur il 1. d'october 2014 1-1-2015 5
+
+### IV. Numers d'immatriculaziun per vehichels a motor e per
+
+chars annexs
+
+#### Art. 17
+
+**Transferiment dals numers d'immatriculaziun**
+
+Ils numers d'immatriculaziun pon vegnir transferids a terzas persunas.
+
+### V. Velos e velos a motor
+
+#### Art. 18
+
+**Posts d'emissiun per vignettas e per numers d'immatriculaziun**
+
+<sup>1</sup> Il post d'emissiun per vignettas da velo da l'assicuranza da responsabladad collectiva chantunala è l'uffizi per il traffic sin via. El po delegar questa incumbensa a terzas persunas.
+
+<sup>2</sup> Ils posts d'emissiun per numers d'immatriculaziun da velos a motor èn las vischnancas. L'uffizi per il traffic sin via las metta a disposiziun ils numers d'immatriculaziun.
+
+<sup>3</sup> Las vischnancas ston far giu quint mintgamai fin ils 15 da november cun las taxas e cun las premias ch'ellas han incassà. Ellas registreschan ils numers d'immatriculaziun ch'ellas han distribuì e las mutaziuns inoltradas e mettan a disposiziun quests registers a l'uffizi per il traffic sin via.
+
+### VI. Disposiziuns da procedura e d'organisaziun
+
+#### Art. 19
+
+**Constataziun dal fatg e denunzia penala**
+
+<sup>1</sup> La constataziun dal fatg en cas da cuntravenziuns cunter las prescripziuns federalas e chantunalas davart il traffic sin via è chaussa da la polizia chantunala e da las vischnancas ch'èn autorisadas da far quai.
+
+<sup>2</sup> Ellas communitgeschan quella a la procura publica cun resalva da las disposiziuns spezialas da l'artitgel 19 LItLTV[^19-1].
+
+<sup>3</sup> Denunzias pervia da surpassaments da las regulaziuns da traffic localas che ston vegnir chastiadas da la vischnanca, èn d'inoltrar a quella.
+
+[^19-1]: DG 870.100
+
+#### Art. 20
+
+**Attribuziun dals cas**
+
+<sup>1</sup> La procura publica fixescha ils cas levs da surpassaments en il senn da l'artitgel 17 alinea 2 LItLTV[^20-1] ed als surdat a l'uffizi per il traffic sin via per l'ulteriur tractament.
+
+<sup>2</sup> La polizia chantunala e las vischnancas autorisadas attribueschan ils fatgs penals da traffic levs ch'èn designads da la procura publica ed er quels tenor la glista da multas da l'ordinaziun davart las multas disciplinaras directamain a l'uffizi per il traffic sin via.
+
+[^20-1]: DG 870.100 6 1-1-2015
+
+### VII. Disposiziuns finalas
+
+#### Art. 21
+
+**Entrada en vigur**
+
+Questa ordinaziun entra en vigur il 1. da schaner 2009. Ella remplazza l'ordinaziun executiva da la regenza dals 24 d'october 1977[^21-1].
+
+[^21-1]: CUL 1977, 209 e midadas tenor il register da la collecziun uffiziala da leschas 1-1-2015 7

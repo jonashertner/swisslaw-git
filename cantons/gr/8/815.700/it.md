@@ -1,0 +1,103 @@
+---
+canton: GR
+number: "815.700"
+title: "Convenzione intercantonale concernente l’allacciamento dei Comuni di Fläsch, Jenins e Maienfeld all’impianto di depurazione di Bad Ragaz"
+language: it
+version: 1985-04-01
+version_adopted: 1985-04-01
+adopted: 1985-04-01
+in_force: 1985-04-01
+url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/815.700"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/419/pdf_file"
+text: pdf
+---
+
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+
+# Convenzione intercantonale concernente l’allacciamento dei Comuni di Fläsch, Jenins e Maienfeld all’impianto di depurazione di Bad Ragaz
+
+del 1° aprile 1985
+
+I governi dei Cantoni di San Gallo e dei Grigioni emanano a titolo di convenzione
+
+visto l'art. 11 cpv. 2 della legge federale sulla protezione delle acque dell'8 ottobre 1971[^t-1], l'art. 56 della legge d'introduzione alla legge federale sulla protezione delle acque del Cantone di San Gallo del 2 dicembre 1973, l'art. 203 cpv. 2 della legge sui comuni del Cantone di San Gallo del 23 agosto 1979 e l'art. 35 dell'ordinanza sulla protezione delle acque del Cantone dei Grigioni del 3 ottobre 1973[^t-2]:
+
+[^t-1]: RS 814.20
+[^t-2]: CSC 815.200
+
+#### Art. 1
+
+Il Comune politico di Bad Ragaz e i Comuni politici di Fläsch, Jenins e Maienfeld sono autorizzati a stipulare contratti di allacciamento concernenti l'utilizzo comune dell'impianto di depurazione del Comune politico di Bad Ragaz.
+
+#### Art. 2
+
+<sup>1</sup> I contratti di allacciamento disciplinano:
+
+- a) l'utilizzo comune delle parti dell'impianto;
+
+- b) i rapporti di proprietà;
+
+- c) la ripartizione delle spese;
+
+- d) i diritti e i doveri delle parti contraenti.
+
+<sup>2</sup> Essi sottostanno all'approvazione delle autorità competenti[^2-1] dei Cantoni che hanno aderito alla convenzione.
+
+[^2-1]: Nel Cantone di San Gallo il Dipartimento costruzioni; art. 25. lett. b e d bis GeSchR, sGS 141.3. Nel Cantone dei Grigioni il Governo; art. 11 OCPAc, CSC 815.200
+
+#### Art. 3
+
+<sup>1</sup> Per gli impianti ed il loro esercizio si applica il diritto vigente nel luogo in cui si trovano gli stessi.
+
+<sup>2</sup> Sono fatte salve le prescrizioni della legislazione federale sulla protezione della acque e i doveri particolari spettanti alle parti contraenti in base alla legislazione del loro Cantone.
+
+#### Art. 4
+
+Un tribunale arbitrale decide in via definitiva sulle controversie di diritto pubblico tra le parti contraenti. Deve essere prima svolta una procedura di conciliazione sotto la direzione dei Dipartimenti competenti dei Cantoni che hanno aderito alla convenzione.
+
+#### Art. 5
+
+<sup>1</sup> I governi dei Cantoni che hanno aderito alla convenzione designano ciascuno un giudice arbitrale entro trenta giorni dal ricorso al tribunale arbitrale. I due giudici arbitrali designano a loro volta entro quindici giorni un altro giudice arbitrale quale presidente. Quest'ultimo non può essere domiciliato in alcuno dei Cantoni che hanno aderito alla convenzione.
+
+<sup>2</sup> Se i due giudici arbitrali non riescono ad accordarsi su un presidente, il Presidente del Tribunale federale procede alla nomina.
+
+#### Art. 6
+
+<sup>1</sup> La sede del tribunale arbitrale è a Bad Ragaz. La procedura dinanzi al tribunale arbitrale si conforma alle prescrizioni della legge sulla giustizia civile del Cantone di San Gallo.
+
+<sup>2</sup> Si rinuncia al deposito del lodo. La sua intimazione avviene senza il tramite delle autorità giudiziarie. Esso deve essere comunicato ai governi che hanno aderito alla convenzione. Per il resto fanno stato le prescrizioni del concordato sull'arbitrato.[^6-1]
+
+[^6-1]: sGS 961.71 e CSC 320.060
+
+#### Art. 7
+
+Le controversie di diritto pubblico tra una parte contraente e terzi vengono decise dalle autorità giudiziarie e amministrative competenti dei Cantoni che hanno aderito alla convenzione.
+
+#### Art. 8
+
+Le controversie di diritto civile e le contestazioni, per le quali le parti contraenti hanno soltanto lo stato giuridico di un privato, vengono decise dalle autorità giudiziarie e amministrative ordinarie dei Cantoni che hanno aderito alla convenzione.
+
+#### Art. 9
+
+<sup>1</sup> I governi dei Cantoni che hanno aderito alla convenzione si impegnano a far osservare le decisioni delle autorità giudiziarie e amministrative competenti dell'altro Cantone.
+
+<sup>2</sup> Le decisioni che concernono una pretesa di denaro sono parificate alle sentenze giudiziarie esecutive ai sensi dell'articolo 80 capoverso 2 della legge federale sull'esecuzione e sul fallimento[^9-1].
+
+[^9-1]: RS 281.1
+
+#### Art. 10
+
+Le controversie tra i Cantoni che hanno aderito alla convenzione concernenti l'applicazione e l'interpretazione della presente convenzione vengono sottoposte al Tribunale federale in base all'articolo 113 capoverso 1 numero 2 della Costituzione federale[^10-1] e all'articolo 11 capoverso 3 della legge federale sulla protezione delle acque[^10-2].
+
+[^10-1]: RS 101
+[^10-2]: RS 814.20
+
+#### Art. 11
+
+È fatto salvo l'adeguamento della presente convenzione alla futura legislazione della Confederazione e dei Cantoni che hanno aderito alla convenzione. Questi si mettono d'accordo al riguardo.
+
+#### Art. 12
+
+La presente convenzione viene applicata dopo la sottoscrizione da parte dei Cantoni che hanno aderito alla convenzione.[^12-1]
+
+[^12-1]: Sottoscritta dal Governo del Cantone di San Gallo il 19 mar. 1985 e da quello del Cantone dei Grigioni il 1° apr. 1985
