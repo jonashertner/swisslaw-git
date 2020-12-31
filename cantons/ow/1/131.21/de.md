@@ -1,0 +1,208 @@
+---
+canton: OW
+number: "131.21"
+title: Verordnung über das Staatsarchiv
+language: de
+version: 2005-07-01
+valid_until: 2023-08-31
+version_adopted: 2005-04-21
+adopted: 1996-10-18
+in_force: 1997-01-01
+url: "http://gdb.ow.ch/app/de/texts_of_law/131.21"
+pdf: "http://gdb.ow.ch/api/de/versions/590/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über das Staatsarchiv
+
+vom 18.10.1996 (Stand 01.07.2005)
+
+Der Kantonsrat des Kantons Obwalden,
+
+gestützt auf Artikel 72 der Kantonsverfassung vom 19. Mai 1968[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: GDB [101.0](http://gdb.ow.ch/data/101.0/de)
+
+## 1. Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt:
+
+- a. die Archivierung von Unterlagen:
+  - 1\. des Kantonsrates,
+  - 2\. des Regierungsrates und der kantonalen Verwaltung,
+  - 3\. der Gerichte, unter Vorbehalt abweichender Vorschriften der Gesetzgebung über die Gerichtsorganisation, und
+  - 4\. weiterer natürlicher und juristischer Personen des öffentlichen und privaten Rechts, soweit sie kantonale Aufgaben erfüllen;
+- b. die Benutzung von Archivgut durch die Organe des Kantons sowie durch die Bevölkerung und Dritte.
+
+<sup>2</sup> Das Staatsarchiv archiviert ferner Unterlagen, die ihm gemäss gesetzlicher Vorschrift oder besonderer Vereinbarung von Gemeinden, Korporationen oder Privaten als Deposita übergeben werden.
+
+#### Art. 2
+
+**Grundsatz und Begriffe**
+
+<sup>1</sup> Die Archivierung dient der sichernden Aufbewahrung und sachgemässen Erschliessung der rechtlich, politisch, wirtschaftlich, historisch, sozial und kulturell wertvollen Unterlagen für Verwaltung, Rechtssicherung und Forschung.
+
+<sup>2</sup> Unterlagen im Sinne dieser Verordnung sind alle aufgezeichneten Informationen, unabhängig vom Informationsträger, welche bei der Erfüllung öffentlicher Aufgaben vom Kanton empfangen oder erstellt worden sind, sowie alle Hilfsmittel und ergänzende Daten, die für das Verständnis dieser Informationen und deren Nutzung notwendig sind.
+
+<sup>3</sup> Als Archivgut gelten Unterlagen, die vom Staatsarchiv zur Aufbewahrung übernommen worden sind. Sie sind archivwürdig, wenn sie von dauernder administrativer oder rechtlicher Bedeutung sind oder einen grossen Informationswert haben.
+
+## 2. Organisation
+
+#### Art. 3
+
+**Staatsarchiv**
+
+<sup>1</sup> Das Staatsarchiv ist für die Archivierung der Unterlagen im Sinne dieser Verordnung zuständig, soweit in der Gesetzgebung oder durch den Regierungsrat nicht ausdrücklich eine andere Stelle bezeichnet wird.
+
+<sup>2</sup> Dem Staatsarchiv obliegen im besonderen:
+
+- a. Übernehmen, Sichten, Ausscheiden, Ordnen, Erschliessen, sicherndes Aufbewahren, eingeschlossen Mikroverfilmen und Restaurieren, und Vermitteln des Archivgutes nach fachlichen Grundsätzen;
+- b. Beraten der anbietepflichtigen Stellen bei der Organisation und Verwaltung ihrer Registraturen und Zwischenarchive sowie den Erlass entsprechender Richtlinien;
+- c. Sammeln von Quellen zur Kantonsgeschichte und von Amtsdruckschriften in Absprache mit der Kantonsbibliothek;
+- d. archivische Information und Dokumentation für Kantonsrat, Regierungsrat und Staatskanzlei;
+- e. Archivführungen und Archivausstellungen;
+- f. wissenschaftliche Veröffentlichungen;
+- g. Vorbereiten von Massnahmen zur Sicherung des Archivgutes im Katastrophenfall;
+- h. Beraten der Gemeinden und Korporationen bei der Organisation und Verwaltung von Archiven;
+- i. Einsatz für die Sicherung von Archiven und Nachlässen von Personen des privaten und öffentlichen Rechts.
+
+#### Art. 4
+
+**Registraturen und Zwischenarchive**
+
+<sup>1</sup> Die Unterlagen sind von den anbietepflichtigen Stellen in geordneten Registraturen oder Zwischenarchiven aufzubewahren. Der Registraturplan der einzelnen anbietepflichtigen Stellen ist in Absprache mit dem Staatsarchiv zu erstellen und periodisch zu überprüfen.
+
+## 3. Sicherung der Unterlagen
+
+#### Art. 5
+
+**Anbietepflicht**
+
+<sup>1</sup> Anbietepflichtig sind Stellen oder Personen gemäss Art. 1 Abs. 1 dieser Verordnung. Sie haben alle Unterlagen, die sie nicht mehr auf Dauer benötigen, dem Staatsarchiv zur Übernahme anzubieten.
+
+<sup>2</sup> Die Registraturen und Zwischenarchive der anbietepflichtigen Stellen sind in der Regel alle zehn Jahre hinsichtlich der Anbietepflicht zu überprüfen.
+
+#### Art. 6
+
+**Ermittlung der Archivwürdigkeit**
+
+<sup>1</sup> Das Staatsarchiv legt in Zusammenarbeit mit den anbietepflichtigen Stellen oder Personen fest, welche Unterlagen archivwürdig und abzuliefern sind.
+
+#### Art. 7
+
+**Ablieferung von Unterlagen**
+
+<sup>1</sup> Die Unterlagen sind dem Staatsarchiv in geordnetem und sauberem Zustand abzuliefern. Zu jeder Ablieferung ist ein Ablieferungsbericht und ein Verzeichnis zu erstellen und beizulegen.
+
+<sup>2</sup> Die Unterlagen zu Beschlüssen des Regierungsrates oder des Kantonsrates sind von den Departementen mit den Anträgen der Staatskanzlei zu übergeben und dürfen nicht mehr zurückgezogen werden. Ausnahmeregelungen sind mit der Staatskanzlei zu vereinbaren und in einem Verzeichnis festzuhalten.
+
+<sup>3</sup> Amtsdruckschriften sind sofort nach Erscheinen, in der Regel in drei Exemplaren, an das Staatsarchiv abzuliefern.
+
+#### Art. 8
+
+**Vernichtung von Unterlagen**
+
+<sup>1</sup> Unterlagen, die unter die Anbietepflicht fallen, dürfen ohne Zustimmung des Staatsarchivs nicht vernichtet werden.
+
+<sup>2</sup> Das Staatsarchiv vernichtet grundsätzlich keine Unterlagen ohne Zustimmung der abliefernden Stelle.
+
+<sup>3</sup> Nach Ablauf von gesetzlichen oder mit der abliefernden Stelle vereinbarten Aufbewahrungsfristen entscheidet das Staatsarchiv, was mit diesen Unterlagen zu geschehen hat.
+
+## 4. Zugänglichkeit und Benützung der Archivgutes
+
+#### Art. 9
+
+**Freie Einsichtnahme und Schutzfrist**
+
+<sup>1</sup> Unterlagen, welche bereits vor ihrer Ablieferung in das Staatsarchiv öffentlich zugänglich waren, bleiben öffentlich zugänglich. Die Landsgemeinde- und Kantonsratsprotokolle sind ohne Beschränkung einsehbar, ausgenommen die Kantonsratsprotokolle über Verhandlungen, die unter Ausschluss der Öffentlichkeit stattfanden.
+
+<sup>2</sup> Im übrigen steht das Archivgut der Öffentlichkeit, unter Vorbehalt besonderer gesetzlicher Bestimmungen und von Art. 10 dieser Verordnung, nach Ablauf einer Schutzfrist von 30 Jahren zur Einsichtnahme zur Verfügung.
+
+<sup>3</sup> Die Schutzfrist wird ab dem Datum des jüngsten Dokuments eines Geschäftes oder Dossiers berechnet.
+
+<sup>4</sup> Die Einsichtnahme in Nachlässe oder Deposita von natürlichen oder juristischen Personen richtet sich nach den Bestimmungen der Übernahmeverträge. Fehlen solche Bestimmungen, so gelten diejenigen für das Archivgut des Kantons.
+
+#### Art. 10
+
+**Beschränkungen der Einsichtnahme**
+
+<sup>1</sup> Archivgut, das nach Personennamen erschlossen ist und besonders schützenswerte Personendaten oder Persönlichkeitsprofile enthält, unterliegt einer Schutzfrist von 50 Jahren, ausser wenn die betroffene Person einer Einsichtnahme zugestimmt hat.
+
+<sup>2</sup> Besteht bei bestimmten Kategorien von Archivgut oder im Einzelfall ein überwiegendes schützenswertes öffentliches oder privates Interesse gegen die Einsichtnahme von Dritten, so kann der Regierungsrat, bzw. bei Gerichtsakten das Obergericht, auf Antrag der abliefernden Stelle oder des Staatsarchivs eine Einsichtnahme nach Ablauf der Schutzfrist zeitlich befristet beschränken oder untersagen.
+
+#### Art. 11
+
+**Einsichtnahme während der Schutzfrist**
+
+<sup>1</sup> Abliefernde Stellen können auf Antrag des Staatsarchivs Archivgut bereits vor Ablauf der in Art. 9 und 10 dieser Verordnung festgelegten Schutzfristen für die Öffentlichkeit freigeben oder einzelnen Personen die Einsichtnahme gestatten, wenn:
+
+- a. keine gesetzlichen Vorschriften und
+- b. keine überwiegenden schutzwürdigen öffentlichen oder privaten Interessen entgegenstehen.
+
+<sup>2</sup> Die Einsichtnahme kann mit Bedingungen und Auflagen verknüpft werden; insbesondere kann die Anonymisierung von Personendaten verlangt werden.
+
+<sup>3</sup> Die abliefernden Stellen können jederzeit in die von ihnen abgelieferten Unterlagen Einsicht nehmen. Das Archivgut darf jedoch nicht mehr verändert werden.
+
+<sup>4</sup> Vorbehalten bleibt gestützt auf eine Verfügung der abliefernden Stelle:
+
+- a. die Einsichtgewährung für die Aktenedition in Rechtsstreitigkeiten;
+- b. die Auskunftserteilung und Einsichtgewährung an betroffene Personen nach den Datenschutzvorschriften. Die betroffenen Personen können keine Vernichtung oder Berichtigung der Daten verlangen, sondern lediglich deren strittigen oder unrichtigen Charakter vermerken lassen.
+
+#### Art. 12
+
+**Gewerbliche Nutzung**
+
+<sup>1</sup> Die Nutzung von Archivgut zu gewerblichen Zwecken bedarf einer Bewilligung des Regierungsrates. Diese kann von einer vertraglichen Regelung des Nutzungsumfanges und allfälligen Gewinnbeteiligung des Kantons abhängig gemacht werden.
+
+#### Art. 13
+
+**Benützungsordnung**
+
+<sup>1</sup> Archivgut darf nur ausnahmsweise und nur für öffentliche Zwecke, die Forschung oder zur Benützung durch Amtsstellen ausgeliehen werden. Dabei sind die notwendigen Sicherheitsvorkehren zu treffen.
+
+<sup>2</sup> Die Benützung von Archivgut hat in den Räumen und während den ordentlichen Öffnungszeiten des Staatsarchivs zu erfolgen. Die Depoträume sind für die Benutzenden gesperrt. Abschriften, Kopien, Fotos oder andere Reproduktionen dürfen nur mit Bewilligung des Staatsarchivs erstellt werden.
+
+#### Art. 14
+
+**Belegexemplar**
+
+<sup>1</sup> Von allen Arbeiten und Publikationen, die ganz oder teilweise auf Archivgut des Staatsarchivs beruhen, ist diesem ein Belegexemplar unentgeltlich abzugeben.
+
+#### Art. 15
+
+**…**
+
+## 5. Schlussbestimmungen
+
+#### Art. 16
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden die Weisungen über das Staatsarchiv vom 17. Februar 1981[^16-1] aufgehoben.
+
+[^16-1]: OGS 1983, 4
+
+#### Art. 17
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt, wann diese Verordnung in Kraft tritt.[^17-1] Sie unterliegt dem fakultativen Referendum.
+
+[^17-1]: Vom Regierungsrat auf 1. Januar 1997 in Kraft gesetzt
+
+**Informationen zum Erlass**
+
+Ursprüngliche Fundstelle: OGS 1997, 33
+
+geändert durch
+
+\- das Allgemeine Gebührengesetz vom 21. April 2005, in Kraft seit 1. Juli 2005 (OGS 2005, 29)
+
+OGS 1997, 33
