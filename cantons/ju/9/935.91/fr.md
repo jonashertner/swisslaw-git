@@ -1,0 +1,194 @@
+---
+canton: JU
+number: "935.91"
+title: Loi concernant les entreprises de pompes funèbres
+language: fr
+adopted: 2018-10-24
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20211&id=38214"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Loi concernant les entreprises de pompes funèbres
+
+du 24 octobre 2018
+
+Le Parlement de la République et Canton du Jura,
+
+vu les articles 7, 8, lettre k, 13, 52 et 83, alinéa 1, lettre b, de la Constitution cantonale[^t-1],
+
+arrête :
+
+[^t-1]: RSJU 101
+
+#### Article premier
+
+**Champ d’application**
+
+La présente loi règle les conditions d’exploitation des entreprises de pompes funèbres dont le siège se situe sur le territoire jurassien.
+
+#### Art. 2
+
+**Terminologie**
+
+Les termes utilisés dans la présente loi pour désigner des personnes s’appliquent indifféremment aux femmes et aux hommes.
+
+#### Art. 3
+
+**Autorisation**
+
+<sup>1</sup> L’exploitation d’une entreprise de pompes funèbres sur territoire jurassien
+
+est soumise à l’obtention préalable d’une autorisation.
+
+<sup>2</sup> L’autorisation est délivrée à une personne physique responsable de l’entreprise, pour une durée indéterminée.
+
+#### Art. 4
+
+**Conditions personnelles**
+
+<sup>1</sup> La personne responsable de l’entreprise doit offrir pleine garantie quant
+
+à une exploitation correcte de l’entreprise.
+
+<sup>2</sup> Elle doit en particulier :
+
+- a) avoir l’exercice des droits civils;
+
+- b) justifier d’une expérience professionnelle dans la branche d’au moins trois ans;
+
+- c) ne pas faire l'objet d'une condamnation pénale pour des faits incompatibles avec l’exploitation d’une entreprise de pompes funèbres, à moins que cette condamnation ne figure plus sur l'extrait privé du casier judiciaire;
+
+- d) ne pas être sous le coup d’un retrait de l’autorisation d’exploiter une entreprise de pompes funèbres ayant été prononcé pour des faits qui se sont produits dans les dix ans précédant le début de l’exploitation envisagée;
+
+- e) être inscrite au registre du commerce; s’agissant d’une personne morale, la personne physique responsable doit avoir le pouvoir de la gérer et de la représenter.
+
+#### Art. 5
+
+**Obligations**
+
+Les entreprises de pompes funèbres doivent :
+
+- a) renseigner le mandant au sujet de l’obligation d’annoncer le décès attesté par un certificat médical dans les deux jours à l’office de l’état civil;
+
+- b) renseigner le mandant au sujet des prescriptions régissant les inhumations et les crémations;
+
+- c) remettre au mandant, au début de la prise en charge, un tarif des prestations (art. 7) et le renseigner sur la possibilité d’obtenir une prise en charge totale ou partielle des frais de funérailles par la commune de domicile du défunt aux conditions fixées par la législation sur l’action sociale;
+
+- d) prendre, sur ordre des autorités cantonales compétentes, les mesures nécessaires en cas de décès probablement lié à une maladie transmissible dangereuse, conformément à la législation fédérale en la matière;
+
+- e) s’abstenir de toute mesure susceptible de compromettre ou de rendre plus difficile la mise en sûreté de la succession;
+
+- f) avertir sans délai la police cantonale en cas de mort suspecte et collaborer avec celle-ci;
+
+- g) informer le mandant au sujet des actes à caractère invasif qu’elles envisagent de pratiquer et visant à restaurer l’aspect de la personne décédée.
+
+#### Art. 6
+
+**Soins mortuaires**
+
+Les soins mortuaires doivent être accomplis dans le respect et la dignité de la personne décédée et en adéquation avec ses traditions culturelles et religieuses.
+
+#### Art. 7
+
+**Tarifs**
+
+<sup>1</sup> Toute entreprise de pompes funèbres doit établir un tarif-cadre
+
+mentionnant le prix des cercueils, des accessoires, des services, des transports et des taxes.
+
+<sup>2</sup> Les prix exigés ne doivent pas dépasser le tarif-cadre.
+
+#### Art. 8
+
+**Prévoyance funéraire**
+
+Les entreprises de pompes funèbres qui proposent la conclusion de contrats de prévoyance funéraire doivent offrir à leurs clients la garantie d'un remboursement intégral, en cas de cessation de l'activité, des montants avancés par ceux-ci.
+
+#### Art. 9
+
+**Surveillance et procédure**
+
+<sup>1</sup> Le Service de l’économie et de l’emploi surveille l’exécution de la présente
+
+loi et rend les décisions prévues par celle-ci.
+
+<sup>2</sup> Il retire l'autorisation :
+
+- a) lorsque les conditions pour l'obtenir ne sont plus remplies;
+
+- b) en cas de violation grave ou répétée des obligations qui découlent de la présente loi.
+
+<sup>3</sup> La procédure d’octroi et de révocation est régie conformément à la loi sur les activités économiques[^9-1] et au Code de procédure administrative[^9-2].
+
+<sup>4</sup> Le Service de l’économie et de l’emploi ordonne la cessation immédiate de toute activité exercée sans autorisation.
+
+[^9-1]: RSJU 930.1
+[^9-2]: RSJU 175.1
+
+#### Art. 10
+
+**Emoluments**
+
+<sup>1</sup> L’octroi, la modification, le retrait ou la révocation d’une autorisation sont
+
+sujets à émolument.
+
+<sup>2</sup> Le montant des émoluments est arrêté dans le décret fixant les émoluments de l’administration cantonale[^10-1].
+
+[^10-1]: RSJU 176.21
+
+#### Art. 11
+
+**Dispositions pénales**
+
+<sup>1</sup> Sous réserve de l'alinéa 2, celui qui contrevient aux obligations prévues
+
+aux articles 5 et 7 de la présente loi sera puni d’une amende.
+
+<sup>2</sup> Les dispositions pénales prévues aux articles 39 à 43 de la loi sur les activités économiques[^11-1] s'appliquent au surplus dans le cadre de l'exploitation d'entreprises de pompes funèbres.
+
+[^11-1]: RSJU 930.1
+
+#### Art. 12
+
+**Dispositions d’application**
+
+Le Gouvernement peut régler, par voie d’ordonnance, les dispositions d’application de la présente loi.
+
+#### Art. 13
+
+**Renvoi**
+
+Sont réservées les dispositions spéciales en matière d’inhumation et de crémation ainsi que la réglementation communale en la matière.
+
+#### Art. 14
+
+**Disposition transitoire**
+
+<sup>1</sup> La personne responsable de l’entreprise doit déposer une demande
+
+d’autorisation dans les trois mois à compter de l’entrée en vigueur de la présente loi.
+
+<sup>2</sup> L’article 4, alinéa 2, lettre b, déploie ses effets trois ans après l’entrée en vigueur de la présente loi.
+
+#### Art. 15
+
+**Clause référendaire**
+
+La présente loi est soumise au référendum facultatif.
+
+[^15-1]: 1er février 2019
+
+#### Art. 16
+
+**Entrée en vigueur**
+
+Le Gouvernement fixe l’entrée en vigueur[^15-1] de la présente loi.
+
+Delémont, le 24 octobre 2018
+
+AU NOM DU PARLEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+La présidente : Anne Froidevaux Le secrétaire : Jean-Baptiste Maître

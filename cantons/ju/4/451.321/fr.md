@@ -1,0 +1,105 @@
+---
+canton: JU
+number: "451.321"
+title: "Arrêté mettant l'étang de Bolleman et ses environs immédiats sous la protection de l'Etat"
+language: fr
+adopted: 1980-02-05
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20085&id=37840"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Arrêté mettant l’étang de Bolleman et ses environs immédiats sous la protection de I’Etat
+
+du 5 février 1980
+
+Le Gouvernement de la République et Canton du Jura,
+
+vu l'article 81 de la loi du 9 novembre 1978[^t-1] sur l'introduction du Code civil suisse,
+
+vu l'article 5 de la loi du 9 novembre 1978[^t-2] sur l'introduction du Code pénal suisse,
+
+vu l'ordonnance du 6 décembre 1978 sur la protection de la nature[^t-3],
+
+arrête :
+
+[^t-1]: RSJU 211.1
+[^t-2]: RSJU 311
+[^t-3]: RSJU 451.11
+
+### SECTION 1 : Mise sous protection et limites
+
+#### Article premier
+
+L'étang de Bolleman et ses environs immédiats sont placés sous la protection de l'Etat et portés sur la liste des réserves naturelles sous la désignation "N l, RN 05, réserve naturelle de l'étang de Bolleman".
+
+#### Art. 2
+
+La réserve figure sur un plan au 1 : 2 000 faisant partie intégrante du présent arrêté. Les feuillets suivants du registre foncier sont touchés : Saint-Brais : 346, 347, 348, 349, 350 (part.), 351 (part.), 353 (part.),567, 568 Saulcy :450 (part.), 451 (part.).
+
+### SECTION 2 : Dispositions de protection
+
+#### Art. 3
+
+Dans la réserve, toute modification de l'état naturel est interdite, en particulier :
+
+- a) ériger des constructions, ouvrages et installations;
+
+- b) déposer ou abandonner des matériaux ou des déchets de tout genre;
+
+- c) camper, dresser des tentes ou autres abris, faire stationner des roulottes ou des caravanes, garer et laver des automobiles ou autres véhicules;
+
+- d) faire du feu (ou procéder à la cuisson d'aliments);
+
+- e) prélever les eaux de l'étang du Tabeillon, y déverser des eaux usées ou modifier le niveau de l'eau;
+
+- f) perturber ou inquiéter les animaux, ainsi que laisser rôder les chiens;
+
+- g) toucher à la végétation, en particulier cueillir ou déterrer les plantes;
+
+- h) entrer dans l'étang, notamment s'y baigner ou y plonger, ainsi que s'y servir de toutes sortes de bateaux, radeaux ou matelas pneumatiques.
+
+### SECTION 3 : Dispositions particulières
+
+#### Art. 4
+
+Demeurent réservés :
+
+- a) l'exploitation agricole et forestière usuelle;
+
+- b) la construction et la transformation d'immeubles agricoles et forestiers en harmonie avec le paysage; pour ces travaux, l'approbation de l'Office des eaux et de la protection de la nature doit être requise, en plus des permis obligatoires;
+
+- c) l'exploitation piscicole et les travaux d'entretien de l'étang;
+
+- d) l'alimentation en eau de l'immeuble de Bolleman;
+
+- e) les dispositions légales concernant la chasse, la pêche et la protection de la nature.
+
+#### Art. 5
+
+L'Office des eaux et de la protection de la nature est autorisé, dans des cas dûment motivés, à déroger aux dispositions de protection.
+
+#### Art. 6
+
+La surveillance de la réserve et sa désignation au public sont réglées par l'Office des eaux et de la protection de la nature, d'entente avec les communes intéressées.
+
+#### Art. 7
+
+Les restrictions découlant du présent arrêté seront mentionnées sur les feuillets du registre foncier indiqués à l'article 2.
+
+#### Art. 8
+
+Les contrevenants au présent arrêté sont passibles d'amendes ou d'arrêts.
+
+### SECTION 4 : Disposition finale
+
+#### Art. 9
+
+Le présent arrêté entre en vigueur immédiatement.
+
+Delémont, le 5 février 1980
+
+AU NOM DU GOUVERNEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : Jean-Pierre Beuret Le chancelier : Joseph Boinay

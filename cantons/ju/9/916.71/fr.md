@@ -1,0 +1,96 @@
+---
+canton: JU
+number: "916.71"
+title: "Arrêté concernant l'approbation de la convention intercantonale de dissolution du Concordat sur le commerce de bétail"
+language: fr
+adopted: 2015-01-28
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20197&id=37004"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Arrêté concernant l’approbation de la convention intercantonale de dissolution du Concordat sur le commerce de bétail (Convention intercantonale du 13 septembre 1943 sur le commerce de bétail)
+
+du 28 janvier 2015
+
+Le Parlement de la République et Canton du Jura,
+
+vu l’article 84, lettre b, de la Constitution cantonale[^t-1],
+
+vu l’article premier, alinéa 1, de la loi du 20 décembre 1979 sur l’approbation des traités, concordats et autres conventions[^t-2],
+
+arrête :
+
+[^t-1]: RSJU 101
+[^t-2]: RSJU 111.1
+
+#### Article premier
+
+<sup>1</sup> La convention intercantonale du 12 juin 2014 de dissolution
+
+du Concordat sur le commerce de bétail (Convention intercantonale du 13 septembre 1943 sur le commerce de bétail) est approuvée.
+
+<sup>2</sup> Elle est publiée en annexe au présent arrêté.
+
+#### Art. 2
+
+**L’arrêté du 30 novembre 1978 concernant une nouvelle réglementation**
+
+du commerce de bétail (Convention intercantonale du 13 septembre 1943 sur le commerce de bétail) est abrogé.
+
+[^2-1]: 1er avril 2015
+
+#### Art. 3
+
+**Le Gouvernement fixe l’entrée en vigueur[^2-1] du présent arrêté.**
+
+Delémont, le 28 janvier 2015
+
+AU NOM DU PARLEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : Jean-Yves Gentil Le secrétaire : Jean-Baptiste Maître
+
+## Annexe
+
+## Convention intercantonale de dissolution du Concordat sur le commerce de bétail (Convention intercantonale sur le commerce de bétail du 13 septembre 1943)
+
+du 12 juin 2014
+
+### Les cantons et la Principauté du Liechtenstein
+
+conviennent ce qui suit :
+
+#### Article premier
+
+La convention intercantonale sur le commerce de bétail (Concordat sur le commerce de bétail) du 13 septembre 1943 est dissoute.
+
+#### Art. 2
+
+<sup>1</sup> La répartition du capital disponible du Concordat sur le commerce de
+
+bétail se fait :
+
+- a) à 50 % selon les taxes de cautionnement versées par chaque canton et par la Principauté du Liechtenstein durant la période allant de 2002 à 2012, et
+
+- b) à 50 % en fonction du nombre d'unités de gros bétail de chaque canton et de la Principauté du Liechtenstein selon la statistique officielle de la Confédération pour l'année 2012.
+
+<sup>2</sup> La part de chaque canton et de la Principauté du Liechtenstein se calculent sur la moyenne des pourcentages selon l'alinéa 1, lettres a et b.
+
+<sup>3</sup> Dans un délai de 60 jours dès l'entrée en force de cette convention, 4,5 millions de francs tirés du capital disponible du Concordat sur le commerce de bétail seront versés aux cantons et à la Principauté du Liechtenstein en fonction de leurs parts proportionnelles. Le reste du capital sera distribué une fois que toutes les créances vis-à-vis du Concordat sur le commerce de bétail auront été réglées.
+
+<sup>4</sup> La compétence pour l'exécution de l'alinéa 3 est attribuée à la direction du Concordat sur le commerce de bétail.
+
+<sup>5</sup> Les cantons et la Principauté du Liechtenstein transmettent à la direction du Concordat sur le commerce de bétail les données correspondantes nécessaires au virement.
+
+#### Art. 3
+
+<sup>1</sup> La réalisation de cette convention de dissolution est subordonnée à
+
+son adoption par les organes compétents de tous les cantons et de la Principauté du Liechtenstein.
+
+<sup>2</sup> Les cantons et la Principauté du Liechtenstein informent la direction du Concordat sur le commerce de bétail de la décision correspondante en leur joignant le procès-verbal de décision officiel (al. 2).
+
+<sup>3</sup> La conférence du Concordat sur le commerce de bétail reçoit la compétence, après l'obtention des déclarations d'adoption des cantons et de la Principauté du Liechtenstein, pour constater la réalisation de cette convention et définir le moment de son exécution.
+
+Suivent les signatures

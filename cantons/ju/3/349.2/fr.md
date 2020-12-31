@@ -1,0 +1,783 @@
+---
+canton: JU
+number: "349.2"
+title: "Arrêté portant adhésion de la République et Canton du Jura au concordat sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin)"
+language: fr
+version: "2018-07-01"
+adopted: 2006-05-24
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20063&id=38160"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Arrêté portant adhésion de la République et Canton du Jura au concordat sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin)
+
+du 24 mai 2006
+
+Le Parlement de la République et Canton du Jura,
+
+vu les articles 4 et 84, lettre b, de la Constitution cantonale[^t-1],
+
+vu l'article premier, alinéa 1, de la loi du 20 décembre 1979 sur l'approbation des traités, concordats et autres conventions[^t-2],
+
+arrête :
+
+[^t-1]: RSJU 101
+[^t-2]: RSJU 111.1
+
+#### Article premier
+
+La République et Canton du Jura adhère au concordat du 24 mars 2005 sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin).
+
+#### Art. 2
+
+L'exécution de cet arrêté est confiée au Département de la Justice.
+
+[^2-1]: 1er septembre 2006
+
+#### Art. 3
+
+**.**
+
+Le Gouvernement fixe l'entrée en vigueur[^2-1] du présent arrêté.
+
+Delémont, le 24 mai 2006
+
+AU NOM DU PARLEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : Charles Juillard Le vice-chancelier : Jean-Claude Montavon
+
+## Arrêté portant approbation de la modification du concordat sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin)
+
+du 30 septembre 2015
+
+Le Parlement de la République et Canton du Jura,
+
+vu les articles 4 et 84, lettre b, de la Constitution cantonale[^hArrêtéportantappro-1],
+
+vu l'article premier, alinéa 1, de la loi du 20 décembre 1979 sur l'approbation des traités, concordats et autres conventions[^hArrêtéportantappro-2],
+
+arrête :
+
+[^hArrêtéportantappro-1]: RSJU 101
+[^hArrêtéportantappro-2]: RSJU 111.1
+
+#### Article premier
+
+La modification du 26 mars 2015 du concordat du 24 mars 2005 sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) est approuvée.
+
+[^premier_2-1]: 1er juillet 2018
+
+#### Art. 2
+
+Le Gouvernement fixe l'entrée en vigueur[^premier_2-1] du présent arrêté.
+
+Delémont, le 30 septembre 2015
+
+AU NOM DU PARLEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : Jean-Yves Gentil Le secrétaire : Jean-Baptiste Maître
+
+## Annexe
+
+## Concordat sur l'exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin)
+
+du 24 mars 2005
+
+### Les cantons de Fribourg, Vaud, Valais, Neuchâtel, Genève et Jura, ainsi que
+
+partiellement le canton du Tessin,
+
+vu les articles 15, 25, 27 et 48 de la loi fédérale du 20 juin 2003 régissant la condition pénale des mineurs (DPMin)[^hLescantonsdeFribo-1],[^hLescantonsdeFribo-2]
+
+vu les articles 4, 8, 28, 42, 44 et 45 de la loi fédérale du 20 mars 2009 sur la procédure pénale applicable aux mineurs (PPMin)[^hLescantonsdeFribo-3],[^hLescantonsdeFribo-4]
+
+vu les principes retenus pour l'unification de la procédure pénale à venir (loi fédérale sur la procédure pénale applicable aux mineurs, LFPPM)[^hLescantonsdeFribo-5],
+
+vu également les articles 37 et 40 de la Convention des Nations Unies du 20 novembre 1989 relative aux droits de l’enfant,
+
+vu notamment les Règles des Nations Unies du 14 décembre 1990 pour la protection des mineurs privés de liberté (Règles de la Havane),
+
+considérant :
+
+la nécessité de mettre à disposition des personnes mineures privées de liberté des possibilités d’exécution de leur détention, respectivement de leur placement en établissement fermé, dans des conditions susceptibles de leur garantir la protection particulière due à leur âge et à leur vulnérabilité, le respect de leurs droits et la préparation nécessaire à leur insertion dans la société;
+
+la nécessité de donner aux instances compétentes les établissements appropriés pour l’exécution de la détention pénale et du placement en établissement fermé des personnes mineures et d’harmoniser les conditions d’exécution de ces décisions,
+
+conviennent :
+
+du présent concordat sur la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin), (ci-après : "le concordat").
+
+[^hLescantonsdeFribo-1]: L'entrée en vigueur de cette LF interviendra en même temps que celle du CPS modifié le 13.12.2002
+[^hLescantonsdeFribo-2]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+[^hLescantonsdeFribo-3]: RS 312.1
+[^hLescantonsdeFribo-4]: Introduit(e) par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+[^hLescantonsdeFribo-5]: Le projet de LF n'a pas encore été présenté aux Chambres fédérales
+
+### CHAPITRE PREMIER : Champ d’application
+
+#### Article premier
+
+**Principes**
+
+<sup>1</sup> Le présent concordat régit l’exécution des privations de
+
+liberté désignées aux articles 2 et 3 ci-après, l’exécution des mesures de placement en établissement fermé tel que défini par l’article 15, alinéa 2, DPMin, et l’exécution des mesures disciplinaires indiquées à l’article 5 ciaprès, prononcées à l’égard des personnes mineures :
+
+- a) si elle incombe à un canton signataire et
+
+- b) si elle a lieu dans un établissement concordataire.[^premier_3-1]
+
+<sup>2</sup> Par personne mineure, on entend toute personne jusqu’à l’âge de 18 ans. Le présent concordat s’applique également à des personnes de plus de 18 ans qui sont sous le coup d’une décision de détention avant jugement ou d'une peine ou d'une mesure prononcée par une juridiction des mineurs ou qui sont devenues majeures en cours d’exécution.
+
+<sup>3</sup> Lorsque le concordat n’est pas impérativement applicable, c’est le droit cantonal qui s’applique, le droit concordataire intervenant à titre supplétif.
+
+**Décisions de détention avant jugement confiées au concordat**
+
+Art. 2[^premier_3-1] Est régie par le présent concordat l’exécution des décisions de détention avant jugement prises à l'égard des personnes mineures.
+
+[^premier_3-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 3
+
+**Décisions de détention après jugement confiées au concordat**
+
+<sup>1</sup> Est régie par le présent concordat l’exécution des décisions de
+
+privation de liberté prononcées à l’égard des personnes mineures (art. 25 DPMin).
+
+<sup>2</sup> L’exécution des privations de liberté exécutées par journées séparées n’est pas régie par le présent concordat (art. 27, al. 1, DPMin).
+
+<sup>3</sup> L’exécution des privations de liberté exécutées en régime de semi-détention n’est pas régie par le présent concordat, sauf demande des autorités d’exécution (art. 27, al. 1 in fine, DPMin).
+
+**Décisions de placement en établissement fermé confiées au concordat**
+
+Art. 4[^3_2-1] Est régie par le présent concordat l’exécution des décisions de placement en établissement fermé au sens de l’article 15, alinéa 2, DPMin.
+
+[^3_2-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 5
+
+**Décisions de mesures disciplinaires confiées au concordat**
+
+A la demande de la direction d’une institution, l’exécution d’une mesure disciplinaire au sens de l’article 16, alinéa 2, DPMin, pourra être confiée à l’établissement centralisé prévu aux articles 15 et 16 du présent concordat.
+
+### CHAPITRE II : Organes du Concordat
+
+#### Art. 6
+
+**Organes**
+
+Les organes du concordat sont :
+
+- a) la Conférence du Concordat sur l'exécution de la détention pénale des personnes mineures de Suisse romande (et partiellement du Tessin) (ci-après : "la Conférence");
+
+- b) le Secrétariat de la Conférence;
+
+- c) la Commission concordataire;
+
+- d) la Commission consultative socio-éducative;
+
+- e)[^6-1] l'Autorité concordataire de recours;
+
+- f)[^6-1] la Commission concordataire spécialisée.
+
+[^6-1]: Introduit(e) par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+### A) La Conférence du Concordat
+
+#### Art. 7
+
+**I. Attributions**
+
+La Conférence est l’organe décisionnel du concordat. Elle est compétente pour :
+
+ prendre toutes les décisions que le concordat lui attribue;
+
+ surveiller l’application et l’interprétation du concordat;
+
+ élaborer les règlements d’application du concordat;
+
+ adopter les directives utiles à l’intention des cantons concordataires en vue d’harmoniser l’exécution des mesures et peines confiées;
+
+ élire, sur proposition des cantons partenaires, les membres de l'Autorité concordataire de recours;[^7-1]  élire, sur proposition des cantons partenaires, les membres de la Commission concordataire spécialisée;[^7-1]  faire pour les cantons concordataires des recommandations ou des propositions, notamment pour la mise à disposition de nouveaux établissements ou pour l’amélioration de conditions d’exécution;
+
+ proposer la modification de l'affectation de tel établissement, si les circonstances le justifient;
+
+ proposer de passer une convention avec un canton non concordataire ou une organisation intercantonale en vue de l’exécution extra-concordataire de la détention pénale de personnes mineures;
+
+ entretenir les relations avec la Confédération;
+
+ assurer les relations nécessaires avec les tiers concernés, notamment avec les médias;
+
+ veiller à la formation professionnelle et continue du personnel des établissements affectés à la détention pénale des personnes mineures;  arbitrer les divergences pouvant survenir entre le Comité des visiteurs et les organes de contrôle de ce type des cantons.
+
+[^7-1]: Introduit(e) par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 8
+
+**II. Composition**
+
+<sup>1</sup> La Conférence est composée du Chef du département concerné de
+
+chacun des cantons romands, de deux juges des mineurs désignés par l'Association de Suisse latine des juges des mineurs, d'une personne représentant les directions des institutions concordataires, désignée par la Commission concordataire et de la personne qui assume la fonction de secrétaire du Concordat (avec voix consultative).
+
+<sup>2</sup> Les cantons qui ont adhéré partiellement au concordat ont droit à un représentant, désigné par le gouvernement cantonal, qui dispose d’une voix consultative.
+
+<sup>3</sup> La Conférence peut inviter des membres de la Commission concordataire ou des membres de la Commission consultative à prendre part aux séances.
+
+#### Art. 9
+
+**III. Organisation**
+
+<sup>1</sup> La Conférence désigne un des ses membres pour la présider.
+
+<sup>2</sup> Elle constitue un secrétariat dont les frais sont supportés en commun par les cantons concordataires. Elle fixe la contribution de chaque canton.
+
+<sup>3</sup> Elle se réunit aussi souvent que nécessaire, mais au moins une fois l’an ou chaque fois qu’un canton concordataire en fait la demande.
+
+<sup>4</sup> Elle fixe son mode de procéder.
+
+### B) Secrétariat de la Conférence
+
+#### Art. 10
+
+**Secrétariat**
+
+<sup>1</sup> La Conférence désigne une personne en qualité de secrétaire. En
+
+principe, cette fonction est exercée par la même personne que celle qui assume le rôle de secrétaire de la Conférence latine des autorités compétentes en matière d’exécution des peines et des mesures.
+
+<sup>2</sup> Cette personne prépare les séances de la Conférence, lui soumet les propositions et tient les procès-verbaux.
+
+<sup>3</sup> Elle veille à l’application des décisions de la Conférence et exécute les travaux dont elle la charge.
+
+### C) Commission concordataire
+
+#### Art. 11
+
+**I. Composition. Organisation**
+
+<sup>1</sup> La Commission concordataire est composée :
+
+- a) des trois juges des mineurs désignés par la Conférence sur proposition de l’Association de Suisse latine des juges des mineurs;
+
+- b) d'une personne représentant la direction de chaque établissement mis en place par le concordat;
+
+- c) d’une personne représentant le service cantonal de chaque canton concordataire.
+
+<sup>2</sup> Une personne représentante de la Conférence suisse des directrices et directeurs des offices des mineurs, désignée par celle-ci parmi ses membres romands, participe aux séances. Elle a une voix consultative.
+
+<sup>3</sup> La personne en qualité de secrétaire de la Conférence préside la Commission concordataire.
+
+<sup>4</sup> La Commission concordataire fixe son mode de procéder. Elle est permanente.
+
+#### Art. 12
+
+**II. Attributions**
+
+La Commission concordataire a pour tâches :
+
+ d'étudier les questions qui lui sont soumises par la Conférence, l’un des ses membres ou le secrétariat;
+
+ de soumettre à la Conférence, par l’intermédiaire de la personne qui la préside, toutes propositions utiles à l’application ou à l’amélioration du concordat;
+
+ …[^12-1]
+
+[^12-1]: Abrogé par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+### D) Commission consultative socio-éducative (ci-après : "Commission
+
+consultative")
+
+#### Art. 13
+
+**I. Composition. Organisation**
+
+<sup>1</sup> La Commission consultative est composée d’une personne par
+
+canton, choisie en principe hors de l’administration et des autorités et disposant de connaissances particulières en matière de droits de l’enfant, de protection de la jeunesse ou de privation de liberté. Cette personne est désignée par le gouvernement cantonal.
+
+<sup>2</sup> La personne qui assume la fonction de secrétaire et celle qui représente la Commission concordataire, cette dernière désignée par celle-ci, assistent aux séances.
+
+<sup>3</sup> La personne qui préside la Commission consultative est nommée par celleci.
+
+<sup>4</sup> La Commission consultative fixe son mode de procéder.
+
+#### Art. 14
+
+**II. Attributions**
+
+La Commission consultative a pour tâches :
+
+ d'étudier les questions qui lui sont soumises par la Conférence ou par la personne qui assume la fonction de secrétaire ou par la Commission concordataire;
+
+ de soumettre à la Conférence, par l’intermédiaire de la personne qui assume la fonction de secrétaire de celle-ci, ou à la Commission concordataire, par l’intermédiaire de la personne qui préside celle-ci, toutes les propositions qu’elle juge opportunes.
+
+[^14-1]: Introduit(e) par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+### E. Autorité concordataire de recours
+
+[^14-1]
+
+**Composition**
+
+Art. 14<sup>bis12)</sup> <sup>1</sup> L'Autorité concordataire de recours se compose de trois membres et de deux suppléants choisis parmi les juges des cantons latins.
+
+<sup>2</sup> L'élection vaut pour une période de fonction de quatre ans; une réélection est possible.
+
+<sup>3</sup> Les membres de l'Autorité concordataire de recours ne peuvent pas appartenir à un des autres organes du concordat.
+
+**Organisation**
+
+Art. 14<sup>ter12)</sup> <sup>1</sup> L'Autorité concordataire de recours se constitue elle-même.
+
+<sup>2</sup> Elle édicte un règlement interne qui doit être approuvé par la Conférence.
+
+**Compétence**
+
+Art. 14<sup>quater12)</sup> L'Autorité de recours statue en tant qu'autorité judiciaire intercantonale de dernière instance sur les recours interjetés contre les décisions disciplinaires prononcées en application du droit concordataire.
+
+[^hEAutoritéconcorda-1]: Introduit(e) par la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+### F. Commission concordataire spécialisée
+
+[^hEAutoritéconcorda-1]
+
+**Composition**
+
+Art. 14<sup>quinquies12)</sup> <sup>1</sup> La Commission concordataire spécialisée se compose de cinq membres et de deux suppléants.
+
+<sup>2</sup> L'élection vaut pour une période de fonction de quatre ans; une réélection est possible.
+
+<sup>3</sup> Les membres de la Commission concordataire spécialisée ne peuvent pas appartenir à un des autres organes du concordat.
+
+<sup>4</sup> La Conférence édictera par voie de règlement les conditions et qualifications pour être membre de dite commission, ainsi que les modalités de sa constitution et de son fonctionnement.
+
+**Compétence**
+
+Art. 14<sup>sexies12)</sup> <sup>1</sup> La Commission concordataire spécialisée est l'autorité compétente pour donner son préavis sur la libération conditionnelle, conformément à l'article 28, alinéa 3, DPMin.
+
+<sup>2</sup> Elle peut également donner un préavis sur toute autre requête de l'autorité pénale des mineurs.
+
+### CHAPITRE III : Etablissements concordataires
+
+#### Art. 15
+
+**Détention avant jugement**
+
+Les cantons concordataires disposent pour l’exécution des mesures de détention avant jugement telles que définies à l’article 2 ci-dessus d’un établissement centralisé, sis dans le canton de Vaud, conçu selon un système modulable, où les personnes mineures pourront être séparées selon les sexes, les âges et la durée de leur séjour.
+
+#### Art. 16
+
+**Détention après jugement**
+
+Les cantons concordataires disposent pour l’exécution des privations de liberté telles que définies à l’article 3 ci-dessus d’un établissement centralisé, conçu selon un système modulable, où les personnes mineures pourront être séparées selon les sexes, les âges et la durée de leur séjour. Cet établissement pourra être le même que celui prévu à l’article 15 cidessus, mais dans une section distincte de la détention avant jugement.
+
+#### Art. 17
+
+**Placement en établissement fermé**
+
+<sup>1</sup> Les cantons concordataires disposent pour l’exécution des mesures
+
+de placement en établissement fermé :
+
+- a) d’une institution appropriée pour les filles sise dans le canton de Neuchâtel;
+
+- b) d’une institution appropriée pour les garçons sise dans le canton du Valais.
+
+<sup>2</sup> Ces institutions seront modulables, de manière à pouvoir répondre en tout temps aux besoins et à pouvoir, si nécessaire, séparer les personnes mineures selon la nature des infractions commises et la prise en charge à mettre en place.
+
+#### Art. 18
+
+**Exécution de mesures disciplinaires**
+
+Les cantons concordataires disposent pour l’exécution des mesures disciplinaires telles que définies à l’article 5 ci-dessus d’un établissement centralisé, conçu selon un système modulable, où les personnes mineures pourront être séparées selon les sexes, les âges et la durée de leur séjour. Cet établissement pourra être le même que celui prévu à l’article 15 cidessus.
+
+### CHAPITRE IV : Régime de la détention pénale des personnes mineures,
+
+respectivement du placement en établissement fermé
+
+#### Art. 19
+
+**Principes**
+
+<sup>1</sup> La personne mineure détenue ou placée en établissement fermé a
+
+droit au respect de ses droits et à la protection particulière due à son âge et à sa vulnérabilité.
+
+<sup>2</sup> Elle ne peut être discriminée en raison de sa race, de sa couleur, de son sexe, de son âge, de sa langue, de sa nationalité, de sa religion, de ses convictions religieuses ou de ses pratiques culturelles.
+
+<sup>3</sup> Elle a droit au respect de son intégrité physique et psychique et à la sécurité. La mesure vise à favoriser son insertion sociale.
+
+<sup>4</sup> L’exercice des droits de la personne mineure n'est restreint que dans la mesure requise par la privation de liberté, par les exigences de la vie collective et par le fonctionnement normal de l’établissement.
+
+<sup>5</sup> Dès le début de la détention ou du placement, la personne mineure et celle qui est son représentant légal sont informées sur les principes ci-dessus.
+
+**Séparation des personnes mineures des adultes**
+
+Art. 20[^19-1] Sous réserve de l'article premier, alinéa 2, paragraphe 2, ci-dessus, les établissements concordataires prévus aux articles 15 à 18 ne peuvent pas recevoir de personnes détenues adultes.
+
+[^19-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 21
+
+**Hébergement**
+
+<sup>1</sup> Les personnes mineures détenues ou placées en établissement
+
+fermé sont logées dans des locaux conformes aux objectifs de réadaptation et pouvant respecter les besoins d’intimité des personnes mineures détenues, en même temps que la nécessité d’être associées en certaines périodes à leurs pairs.
+
+<sup>2</sup> Des installations sanitaires, scolaires, sportives et culturelles sont mises à leur disposition.
+
+<sup>3</sup> Les personnes mineures doivent pouvoir conserver leurs effets personnels et les entreposer dans des conditions satisfaisantes.
+
+#### Art. 22
+
+**Contrôle et inspections**
+
+<sup>1</sup> Les effets personnels et le logement des personnes mineures
+
+peuvent être inspectés pour des raisons d'ordre et de sécurité de l'établissement.
+
+<sup>2</sup> La personne mineure soupçonnée de dissimuler des objets interdits sur elle ou à l'intérieur de son corps peut être soumise à une fouille corporelle. Celleci doit être exécutée par une personne du même sexe. Si elle implique un déshabillage, elle se fera en l'absence d'autres personnes mineures. L'examen de l'intérieur du corps doit être effectué par un médecin ou un autre membre du personnel médical.
+
+#### Art. 23
+
+**Communication**
+
+<sup>1</sup> Sauf pour les cas de détention avant jugement où les conditions de
+
+communication sont réglées par les autorités d’instruction compétentes, les personnes mineures détenues ou placées en établissement fermé sont autorisées à communiquer régulièrement avec leur famille et leurs proches ou avec les services de protection des mineurs et les organisations de prise en charge des personnes mineures détenues.
+
+<sup>2</sup> Elles sont notamment autorisées à recevoir des visites, à échanger de la correspondance et à établir des contacts téléphoniques avec leur famille et leurs proches, dans les limites du règlement de l'établissement.
+
+<sup>3</sup> Dès que cela est rendu possible par le règlement de l’établissement et avec l’autorisation de l’autorité compétente, elles peuvent sortir de l’institution pour se rendre auprès de leur famille et de leurs proches ou auprès d’un service de protection des personnes mineures ou d’une organisation de prise en charge des personnes mineures détenues.
+
+#### Art. 24
+
+**Activité**
+
+<sup>1</sup> Sauf pour les cas de détention avant jugement où les conditions
+
+d’occupation sont réglées par les autorités d’instruction compétentes, les personnes mineures détenues ou placées en établissement fermé doivent pouvoir exercer une activité dès que possible; elles doivent notamment pouvoir étudier et avoir accès à des programmes qui renforcent leurs connaissances.
+
+<sup>2</sup> Dans la mesure où elles travaillent, elles doivent être rémunérées. Une partie de cet argent doit pouvoir être utilisée à des fins personnelles; une autre partie sera affectée à une contribution au séjour et à l’indemnisation des personnes lésées et des victimes.
+
+<sup>3</sup> Dans les limites compatibles avec les capacités individuelles, les nécessités de la privation de liberté et les possibilités concrètes internes ou externes de l’établissement, elles doivent être en mesure de choisir le type de travail qu’elles désirent accomplir.
+
+#### Art. 25
+
+**Activité à l’extérieur**
+
+<sup>1</sup> Sauf pour les cas de détention avant jugement où les conditions
+
+d’activité à l’extérieur n’entrent, en principe, pas en ligne de compte, les personnes mineures détenues ou placées en établissement fermé doivent pouvoir exercer leur activité de formation ou de travail à l’extérieur de l’établissement, avec l’autorisation de l’autorité compétente, dès que cela sera indiqué sur le plan éducatif et sur celui de la formation.
+
+<sup>2</sup> La formation ou l’activité susceptible d’être poursuivie après la libération est favorisée.
+
+#### Art. 26
+
+**Soins médicaux**
+
+<sup>1</sup> Les personnes mineures détenues ou placées en établissement
+
+fermé ont droit, dès leur admission, de consulter le médecin de l’établissement afin de déceler tout état physique ou mental nécessitant une intervention appropriée.
+
+<sup>2</sup> Elles ont droit de recevoir des soins médicaux curatifs et préventifs, de même que les médicaments nécessaires à soigner leurs affections.
+
+<sup>3</sup> Les établissements concordataires offriront des programmes de prévention en matière de violence, de produits psychotropes ou engendrant la dépendance et de maladies transmissibles.
+
+#### Art. 27
+
+**Loisirs**
+
+<sup>1</sup> Les personnes mineures détenues ou placées en établissement
+
+fermé ont droit à un nombre approprié d’heures d’exercice libre par jour.
+
+<sup>2</sup> Sauf pour les cas de détention avant jugement où les conditions de loisirs n’entrent, en principe, pas en ligne de compte et pour les personnes mineures objets de mesures disciplinaires, elles doivent aussi disposer chaque jour d’un certain nombre d’heures de loisirs destinées, si elles le souhaitent, à la formation culturelle, sportive, artistique ou artisanale. L’espace et les installations nécessaires doivent être prévus pour ces activités.
+
+#### Art. 28
+
+**Religion**
+
+<sup>1</sup> Dans la mesure compatible avec le fonctionnement de
+
+l’établissement, les personnes mineures détenues ou placées en établissement fermé ont droit à satisfaire aux exigences de leur vie religieuse ou spirituelle, notamment de recevoir des visites d’une personne accréditée représentante de leur religion et de participer aux cérémonies religieuses organisées dans l’établissement.
+
+<sup>2</sup> Si un nombre approprié de personnes mineures détenues appartiennent à une même religion, il sera organisé des services religieux et une personne accréditée représentante de cette religion sera autorisée à rendre visite aux personnes mineures intéressées.
+
+<sup>3</sup> Elles ont le droit de refuser de prendre part à des services religieux ou de recevoir une éducation ou des conseils dans ce domaine.
+
+<sup>4</sup> Tout prosélytisme est interdit.
+
+#### Art. 29
+
+**Procédures disciplinaires**
+
+<sup>1</sup> Les personnes mineures détenues ou placées en établissement
+
+fermé ont le droit de connaître les conduites constituant des infractions au règlement, la nature et la durée des mesures applicables, l’autorité habilitée à les prononcer et la possibilité de recourir.
+
+<sup>2</sup> Les traitements inhumains et dégradants sont interdits, notamment les châtiments corporels, la privation de nourriture et l’interdiction de contacts avec la famille. Les personnes mineures détenues ne feront pas l’objet de mesure disciplinaire collective.
+
+<sup>3</sup> Les recours contre les sanctions disciplinaires doivent être adressés à l'autorité concordataire de recours qui les traitera dans les 10 jours dès leur réception.[^29-1]
+
+[^29-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 30
+
+**Entretien et plainte**
+
+<sup>1</sup> Les personnes mineures détenues ou placées en établissement
+
+fermé ont droit d’obtenir dans un délai raisonnable un entretien de la direction de l’établissement où elles sont placées.
+
+<sup>2</sup> Elles ont également le droit de formuler une plainte contre le personnel, la direction de l'établissement ou contre les conditions de détention. Une décision du concordat fixe la procédure.[^30-1]
+
+[^30-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 31
+
+**Personnel**
+
+<sup>1</sup> Le personnel des établissements concordataires doit comprendre
+
+des personnes ayant les fonctions d’agents de détention, d'éducateurs, de maîtres socio-professionnels, d'enseignants, de psychologues et le personnel administratif nécessaire. Les spécialistes, tels que prestataires de soins et aumôniers, interviennent de manière régulière ou sur demande.
+
+<sup>2</sup> Le choix du personnel doit se faire sur la base des capacités professionnelles et de l’aptitude particulière à s’occuper de personnes mineures privées de liberté, et doit veiller à la mixité de genre du personnel.
+
+<sup>3</sup> Le personnel doit recevoir une formation basée sur la connaissance de la psychologie de l’enfant, les spécificités du travail en milieu fermé, la protection et les droits de l’enfant, notamment ceux de la personne mineure détenue. Le personnel devra maintenir et perfectionner ses connaissances en suivant des cours de formation continue.
+
+<sup>4</sup> La personne qui assume la direction doit être choisie en fonction de ses connaissances en matière de privation de liberté des personnes mineures, de sa capacité à mener une équipe interdisciplinaire et de son aptitude à promouvoir une prise en charge socio-éducative de qualité.
+
+#### Art. 32
+
+**Renvoi au règlement**
+
+<sup>1</sup> Pour le surplus, un règlement concordataire sera établi pour fixer le
+
+régime et les modalités de la détention pénale et du placement en établissement fermé des personnes mineures détenues.
+
+<sup>2</sup> Il fixera également la procédure pour prononcer des mesures disciplinaires, ainsi que le mode de recours.
+
+### CHAPITRE V : Relations avec les autorités d’exécution compétentes
+
+#### Art. 33
+
+**Compétences**
+
+<sup>1</sup> Les autorités d’exécution compétentes des cantons conservent
+
+toutes les compétences que leur confère le DPMin en matière d’exécution pour les personnes mineures détenues relevant de leur autorité et confiées aux établissements concordataires, notamment pour statuer sur :
+
+ la fin de la détention avant jugement;
+
+ la libération conditionnelle ou définitive;
+
+ le transfert d’institution;
+
+ le passage d’un régime de détention, respectivement de placement, à l’autre;
+
+ la fin ou la suspension de la mesure;
+
+ l'octroi du premier congé et de congés exceptionnels;
+
+ les possibilités de travail ou de formation à l’extérieur;
+
+ les conditions particulières pouvant déroger au régime général de détention;  toutes autres décisions modifiant le statut des personnes mineures détenues.
+
+<sup>2</sup> Elles sont également compétentes en matière de suivi de la personne mineure détenue par une personne de confiance, extérieure à l’établissement.
+
+#### Art. 34
+
+**Rapports et préavis**
+
+<sup>1</sup> Les autorités compétentes des cantons seront informées
+
+immédiatement, par rapport écrit de la direction de l’établissement, de tout événement pouvant entraîner une modification du statut de la personne mineure détenue. Les directions des établissements établiront des rapports périodiques sur l'évolution des personnes mineures détenues confiées.
+
+<sup>2</sup> Les autorités compétentes des cantons soumettront au préavis de la direction de l’établissement toute demande émanant de la personne mineure détenue ou de sa famille, de ses proches ou de la personne de confiance, visant à modifier son statut dans l’établissement, à obtenir un avantage ou visant à son transfert ou sa libération.
+
+<sup>3</sup> En principe, la direction de l’établissement fera accompagner la personne mineure détenue aux audiences de l’autorité d’exécution par une personne qualifiée, susceptible de fournir les renseignements utiles pour statuer.
+
+#### Art. 35
+
+**Placements**
+
+<sup>1</sup> Les autorités compétentes des cantons placent dans les
+
+établissements concordataires les personnes mineures qui répondent aux critères énoncés aux articles 2 à 5 du concordat, relevant de leur autorité. Les établissements concordataires sont tenus de recevoir ces personnes mineures.
+
+<sup>2</sup> Les autorités compétentes effectuent toutes les formalités administratives relatives à l’admission des personnes mineures, notamment remettent à la direction de l’établissement copie des décisions d’exécution pertinentes. Elles sont aussi responsables de régler la question de la garantie de prise en charge des frais (GPCF) prévue par la Convention intercantonale du 13 décembre 2002 relative aux institutions sociales (CIIS).[^35-1]
+
+<sup>3</sup> Exceptionnellement et pour les cas de détention avant jugement, les autorités compétentes se réservent la possibilité de placer les personnes mineures répondant pourtant aux critères des articles 2 à 5 du concordat dans un établissement non concordataire, pour autant qu'elles disposent déjà d'une structure appropriée ou pour des raisons de sécurité ou de santé.
+
+[^35-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 36
+
+**Accès aux lieux de détention**
+
+<sup>1</sup> Les autorités compétentes reconnues par les cantons ont libre
+
+accès à tous les établissements concordataires et à toutes les personnes mineures détenues relevant de leur autorité.
+
+<sup>2</sup> Les autorités d’exécution et les cantons concordataires désignent les agents publics qui sont autorisés à visiter les établissements, sans préjudice pour le Comité des visiteurs.
+
+<sup>3</sup> La direction des établissements est habilitée à autoriser d’autres personnes justifiant d’un intérêt légitime à visiter les lieux de détention pénale, ou du placement en établissement fermé, des personnes mineures détenues.
+
+**Etablissement et facturation du prix de revient journalier**
+
+Art. 37[^36-1] <sup>1</sup> La fixation du prix de revient journalier de chaque établissement concordataire est régie par les principes de la Convention intercantonale du 13 décembre 2002 relative aux institutions sociales (CIIS).
+
+<sup>2</sup> Les mêmes principes sont appliqués pour la facturation du prix de pension à l’autorité d’exécution qui est responsable du paiement envers l’établissement.
+
+<sup>3</sup> Si un établissement opte pour le système forfaitaire, le forfait doit être actualisé tous les deux ans.
+
+<sup>4</sup> La répartition des frais entre la personne mineure détenue, sa famille et les entités publiques responsables relève du droit cantonal.
+
+[^36-1]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+
+#### Art. 38
+
+**Contribution extraordinaire des cantons concordataires**
+
+<sup>1</sup> Si, au moment du décompte final annuel, il s'avère que le taux
+
+d'occupation de l'établissement concordataire a été inférieur à 50%, la Conférence fixe une contribution financière extraordinaire à verser par les cantons concordataires à l'établissement. Ce montant est réparti entre les cantons en tenant compte du critère de la population.
+
+<sup>2</sup> Pour les cantons qui ont adhéré partiellement au concordat, ils paieront le montant arrêté par la Conférence dans la mesure où ils utilisent l'établissement concerné.
+
+#### Art. 39
+
+**Frais médicaux**
+
+<sup>1</sup> Les frais médicaux (maladie et accident) nécessaires sont pris en
+
+charge par la personne mineure détenue, ses représentants légaux ou par un tiers (assurances). A défaut, ils sont supportés par l’autorité d’exécution.
+
+<sup>2</sup> Les suites d’un accident survenu pendant le séjour de la personne mineure détenue dans un établissement concordataire sont assumées par l’établissement.
+
+### CHAPITRE VI : Surveillance des conditions de détention
+
+#### Art. 40
+
+**Comité des visiteurs**
+
+<sup>1</sup> La surveillance des conditions d’exécution de la détention pénale
+
+ou, respectivement du placement en établissement fermé des personnes mineures détenues, est assurée par un Comité de visiteurs (ci-après : "le Comité").
+
+<sup>2</sup> Le Comité est composé de trois à six personnes provenant chacune d’un canton différent et choisies en fonction de leurs connaissances particulières dans le domaine de la privation de liberté des personnes mineures ou celui de la gestion d'établissements, de leur indépendance et de leur neutralité politique. Elles sont désignées par la Conférence pour une durée de quatre ans; leur mandat est renouvelable.
+
+<sup>3</sup> Le Comité fixe son mode de procéder et son organisation. Il peut s’adjoindre des personnes ayant des fonctions d’experts temporaires ou des traducteurs, dont le mandat est porté à la connaissance de la Conférence. Les dépenses du Comité sont portées au budget du Secrétariat de la Conférence.
+
+#### Art. 41
+
+**Modalités de la surveillance**
+
+<sup>1</sup> Le Comité exerce sa surveillance par :
+
+ des visites des établissements;
+
+ des visites des personnes mineures détenues ou placées, avec lesquelles il peut s’entretenir sans témoin;
+
+ des entretiens avec la direction et le personnel des établissements;
+
+ la communication de tout document utile relatif aux modalités de la privation de liberté;
+
+ l’audition de toute personne qu’il estime utile d’entendre.
+
+<sup>2</sup> Le Comité adresse un rapport annuel écrit à la Conférence sur son activité. Il peut faire des recommandations ou des propositions. Il peut aussi être amené à rapporter sur une demande particulière de la Conférence ou d’un canton concordataire. Ces rapports sont confidentiels, la confidentialité pouvant être levée d’un commun accord entre la Conférence et le Comité, notamment pour des raisons scientifiques. La protection de la personnalité doit être garantie en tout temps.
+
+<sup>3</sup> Le Comité et chacun de ses membres ont libre accès à tous les locaux et toutes les personnes mineures détenues.
+
+### CHAPITRE VII : Dispositions finales
+
+#### Art. 42
+
+**Compétence cantonale réservée**
+
+Conformément à ses dispositions constitutionnelles, chaque canton concordataire est compétent pour :
+
+- a) adopter les règlements d'exécution du concordat;
+
+- b) décider de la modification de l'affectation d'un établissement sis sur son territoire;
+
+- c) passer convention avec un canton non concordataire ou un organisme intercantonal en vue de l'exécution extra-concordataire de la détention pénale des personnes mineures.
+
+#### Art. 43
+
+**Contentieux concordataire**
+
+Tout litige entre les cantons concordataires ou organes subordonnés au concordat est tranché par la Conférence en instance unique.
+
+#### Art. 44
+
+**Contrôle parlementaire**
+
+<sup>1</sup> Le contrôle parlementaire coordonné est institué conformément à
+
+l’article 15 de la Convention relative à la participation des Parlements cantonaux dans le cadre de l'élaboration, de la ratification, de l’exécution et de la modification des conventions intercantonales et des traités avec l’étranger[^44-1] (Convention sur la participation des parlements, CoParl).[^44-2]
+
+<sup>2</sup> La Commission est composée de trois membres par canton, désignés par le parlement dudit canton.
+
+<sup>3</sup> L’article 15 CoParl indique le mandat et les modalités de fonctionnement de cette commission interparlementaire.[^44-2]
+
+[^44-1]: RSJU 111.190
+[^44-2]: Nouvelle teneur selon la modification du 26 mars 2015, en vigueur depuis le 1er juillet 2018
+[^44-3]: 1er janvier 2007
+
+#### Art. 45
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le concordat entrera en vigueur le …[^44-3], s’il a été approuvé de
+
+manière valable par les autorités compétentes de tous les cantons parties.
+
+<sup>2</sup> Les autres dispositions du concordat entreront en vigueur à la date qui sera fixée par la Conférence.
+
+<sup>3</sup> La Conférence veillera à ce que les études et les travaux relatifs aux établissements concordataires soient menés avec célérité.
+
+#### Art. 46
+
+**Adhésion partielle ou ultérieure**
+
+L’adhésion partielle ou ultérieure d’autres cantons au concordat est ouverte à tout canton suisse qui le souhaite, pour autant que le demandeur s’engage sur le concordat. La demande d’adhésion est adressée à la Conférence qui fixe les modalités de cette adhésion.
+
+#### Art. 47
+
+**Droit transitoire**
+
+<sup>1</sup> L’exécution des décisions de détention avant jugement, de privation
+
+de liberté et des mesures de placement en établissement fermé en cours au moment de l’entrée en vigueur du présent concordat restent de la compétence des autorités d’exécution qui décideront du transfert ou non dans les établissements concordataires disponibles.
+
+<sup>2</sup> Pour le surplus, la Conférence prend les dispositions nécessaires pour la période transitoire.
+
+#### Art. 48
+
+**Conventions contraires**
+
+Les cantons s’abstiennent de conclure des conventions contraires au présent concordat.
+
+#### Art. 49
+
+**Dénonciation**
+
+<sup>1</sup> Chacun des cantons concordataires peut dénoncer le concordat
+
+pour la fin d’une année civile, en observant un délai de résiliation de cinq ans.
+
+<sup>2</sup> La déclaration de résiliation doit être adressée par le gouvernement cantonal au membre qui préside la Conférence.
+
+Ainsi adopté par la Conférence latine des Chefs des Départements de justice et police le 24 mars 2005, à Fribourg.
+
+## Autres notes
+
+- [6] RSJU 852.92
+- [7] RSJU 852.93

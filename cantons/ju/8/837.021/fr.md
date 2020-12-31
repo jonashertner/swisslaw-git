@@ -1,0 +1,158 @@
+---
+canton: JU
+number: "837.021"
+title: Règlement de la commission tripartite chargée de conseiller les offices régionaux de placement de la République et Canton du Jura
+language: fr
+adopted: 1996-12-10
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20161&id=26567"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Règlement de la commission tripartite chargée de conseiller les offices régionaux de placement de la République et Canton du Jura
+
+du 10 décembre 1996
+
+Le Gouvernement de la République et Canton du Jura,
+
+vu les articles 85c et 113, alinéa 2, lettre d, de la loi fédérale sur l'assurancechômage obligatoire et l'indemnité en cas d'insolvabilité (loi fédérale sur l'assurance-chômage) (LACI)[^t-1],
+
+vu l'article 119b de l'ordonnance fédérale du 31 août 1983 sur l'assurancechômage obligatoire et l'indemnité en cas d'insolvabilité (ordonnance fédérale sur l'assurance-chômage) (OACI)[^t-2],
+
+vu l'article 44 de l'ordonnance fédérale du 6 octobre 1986 limitant le nombre des étrangers (OLE)[^t-3],
+
+vu les articles 5 à 7 du décret du 23 février 1996 portant création d'offices régionaux de placement[^t-4],
+
+arrête :
+
+[^t-1]: RS 837.0
+[^t-2]: RS 837.02
+[^t-3]: RS 823.21
+[^t-4]: RSJU 837.02
+
+#### Article premier
+
+**Champ d'application**
+
+Le présent règlement fixe les tâches, les compétences et l'organisation de la commission tripartite chargée de conseiller les offices régionaux de placement (ORP) de la République et Canton du Jura.
+
+#### Art. 2
+
+**Présidence et secrétariat**
+
+<sup>1</sup> Le chef du Service des arts et métiers et du travail assume la
+
+présidence de la commission.
+
+<sup>2</sup> Le secrétariat est assumé par le Service des arts et métiers et du travail.
+
+#### Art. 3
+
+**Tâches a) En général**
+
+<sup>1</sup> La commission tripartite conseille les ORP conformément à
+
+l'article 85c de la loi fédérale sur l'assurance-chômage. Son activité consiste notamment à appuyer les ORP dans l'exercice de leurs tâches. A cet effet, les membres de la commission font de la promotion auprès de leur organisation ou institution pour les prestations des ORP. Ils veillent à ce que leur organisation ou institution contribue à une offre suffisante de mesures actives du marché du travail. De plus, la commission propose des mesures visant au développement équilibré du marché du travail.
+
+**b) En particulier**
+
+<sup>2</sup> La commission tripartite exerce en particulier les activités suivantes :
+
+- a) elle propose des mesures nouvelles en matière de politique d'intégration des chômeurs au marché du travail;
+
+- b) elle incite les entreprises et les partenaires sociaux à organiser des stages et des possibilités d'occupation;
+
+- c) elle contrôle la qualité des programmes d'occupation, des stages en entreprise, des mesures de formation, du placement et des informations communiquées aux communes;
+
+- d) elle veille à ce que la liberté d'affiliation à une caisse de chômage soit garantie;
+
+- e) elle émet des recommandations à l'intention du Gouvernement, du Département de l'Economie et du Service des arts et métiers et du travail quant à la politique cantonale en matière de main-d'oeuvre étrangère;
+
+- f) elle donne son avis sur les attributions des permis de travail à la maind'oeuvre étrangère;
+
+- g) elle propose des salaires minima d'embauche pour la main-d'oeuvre étrangère.
+
+#### Art. 4
+
+**Compétence**
+
+Conformément à l'article 16, alinéa 2, lettre i, de la loi fédérale sur l'assurance-chômage, la commission tripartite donne son approbation à la notion de travail convenable lorsque le salaire proposé est inférieur aux 70 % du gain assuré.
+
+#### Art. 5
+
+**Réserve d'autres dispositions**
+
+La commission tripartite remplit son mandat dans le respect des compétences dévolues légalement ou conventionnellement aux autorités et aux autres partenaires concernés.
+
+#### Art. 6
+
+**Organisation Fréquence des séances**
+
+La commission tripartite siège au moins six fois par année. En outre, elle se réunit chaque fois que les affaires l'exigent ou lorsque trois membres au moins en font la requête.
+
+#### Art. 7
+
+**Décisions**
+
+La commission tripartite prend ses décisions à la majorité simple des voix des membres présents. En cas d'égalité des voix, celle du président est prépondérante. Les décisions ne sont valables que si la moitié au moins des membres de la commission sont présents.
+
+#### Art. 8
+
+**Souscommissions**
+
+La commission tripartite peut confier l'exécution de certaines tâches à des sous-commissions issues de ses propres membres.
+
+#### Art. 9
+
+**Représentation**
+
+Un membre de la commission tripartite empêché de participer à la séance doit se faire représenter par son suppléant.
+
+#### Art. 10
+
+**Experts**
+
+Si la bonne exécution de ses tâches le requiert, la commission tripartite peut demander l'avis ou les services d'experts ou de spécialistes. Ils sont rémunérés par le fonds de compensation de l'assurance-chômage à moins que l'OFIAMT n'en décide autrement.
+
+#### Art. 11
+
+**Rapport**
+
+La commission tripartite dresse annuellement un rapport de ses activités au Département de l'Economie ainsi qu'à l'organe de compensation de l'assurance-chômage.
+
+[^11-1]: RSJU 173.11
+
+#### Art.12
+
+**Confidentialité**
+
+Les membres de la commission tripartite sont soumis au secret de fonction tel que défini à l'article 25 de la loi du 26 octobre 1978 sur le statut des magistrats, fonctionnaires et employés de la République et Canton du Jura[^11-1].
+
+#### Art. 13
+
+**Publicité des débats**
+
+Si aucun intérêt public ou privé ne s'y oppose, la commission peut rendre public le résultat de ses délibérations et prises de position.
+
+#### Art. 14
+
+**Indemnités**
+
+<sup>1</sup> Les représentants des employeurs, des travailleurs et des
+
+communes touchent des jetons de présence et des indemnités de déplacement. Les tarifs sont fixés par l'organe de compensation en vertu de l'article 119b de l'ordonnance fédérale sur l'assurance-chômage.
+
+<sup>2</sup> Les indemnités et les frais de déplacement sont remboursés au Canton dans le cadre du financement des ORP.
+
+#### Art. 15
+
+**Entrée en vigueur**
+
+Le présent règlement entre en vigueur le 1<sup>er</sup> janvier 1997.
+
+Delémont, le 10 décembre 1996
+
+AU NOM DU GOUVERNEMENT DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : Claude Hêche Le chancelier : Sigismond Jacquod

@@ -1,0 +1,60 @@
+---
+canton: JU
+number: "841.4"
+title: Arrêté portant mise à disposition de moyens financiers en vue de mesures destinées à améliorer le logement dans les régions de montagne
+language: fr
+adopted: 1978-12-06
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20163&id=26581"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Arrêté portant mise à disposition de moyens financiers en vue de mesures destinées à améliorer le logement dans les régions de montagne
+
+du 6 décembre 1978[^t-1]
+
+L'Assemblée constituante de la République et Canton du Jura,
+
+vu la loi fédérale du 20 mars 1970 concernant l'amélioration du logement dans les régions de montagne[^t-2], ainsi que les dispositions d'exécution y relatives,
+
+vu l'article 3 des dispositions finales et transitoires de la Constitution cantonale,
+
+arrête :
+
+[^t-1]: Arrêté populaire au 7 février 1971 portant mise à disposition de moyens financiers en vue de mesures destinées à améliorer le logement dans les régions de montagne (RSB 851.4)
+[^t-2]: RS 844
+
+#### Article premier
+
+L'Etat participe aux mesures tendant à l'amélioration du logement dans les régions de montagne au sens de la loi fédérale. Son aide consiste en l'octroi de subventions en faveur de travaux servant à créer de meilleures conditions de logement pour familles à ressources modestes; la préférence sera donnée aux logements destinés à des familles nombreuses.
+
+#### Art. 2
+
+L'octroi d'une subvention de l'Etat est subordonné dans chaque cas à la promesse d'une prestation fédérale de même importance.
+
+#### Art. 3
+
+La commune du lieu où s'exécutent les travaux est tenue de prendre à sa charge une part de 25 à 50% de la subvention cantonale. En vue de la fixation de cette part, les communes sont rangées périodiquement en sept classes de subventionnement suivant leur capacité contributive et leur quotité générale d'impôt. Cette classification est opérée de manière que le Canton ne doive pas assumer plus des deux tiers de la prestation totale.
+
+#### Art. 4
+
+En vue des prestations à verser au sens du présent arrêté, il est prévu un crédit au budget de l'Etat.
+
+#### Art. 5
+
+Le Gouvernement édicte les dispositions d'exécution nécessaires.
+
+[^5-1]: 1er janvier 1979
+
+#### Art. 6
+
+**Le Gouvernement fixe la date de l'entrée en vigueur[^5-1] du présent**
+
+**arrêté.**
+
+Delémont, le 6 décembre 1978
+
+AU NOM DE L'ASSEMBLEE CONSTITUANTE DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : François Lachat Le secrétaire général : Joseph Boinay

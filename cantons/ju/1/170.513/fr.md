@@ -1,0 +1,129 @@
+---
+canton: JU
+number: "170.513"
+title: Ordonnance concernant la publication du Journal officiel
+language: fr
+version: "2013-01-01"
+adopted: 1978-11-09
+url: "https://rsju.jura.ch/fr/viewdocument.html?idn=20015&id=34276"
+text: pdf
+---
+
+> Reproduction non officielle du recueil systématique du canton JU. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+
+# Ordonnance concernant la publication du Journal officiel
+
+du 9 novembre 1978
+
+L'Assemblée constituante de la République et Canton du Jura,
+
+vu les articles 9 et 13, alinéa 1, de la loi concernant les publications officielles[^t-1],
+
+arrête :
+
+[^t-1]: RSJU 170.51
+
+#### Article premier
+
+<sup>1</sup> Le Journal officiel est la publication officielle de la
+
+République et Canton du Jura.
+
+<sup>2</sup> Il paraît chaque semaine, en principe le mercredi, sous la responsabilité de la Chancellerie d'Etat.
+
+<sup>3</sup> Le Journal officiel est l'organe officiel de publication de la République et Canton du Jura.
+
+#### Art. 2
+
+<sup>1</sup> Le Journal officiel comprend deux parties et une annexe.
+
+<sup>2</sup> Sont publiés dans la première partie :
+
+- 1\. les lois, décrets, ordonnances, règlements, arrêtés, et autres actes publics émanant du Parlement et du Gouvernement ou de ses départements;
+
+- 2\. les traités, concordats et autres conventions de droit public auxquels la République et Canton du Jura a adhéré;
+
+- 3\. les accords internationaux auxquels la Suisse a adhéré s’ils concernent particulièrement la République et Canton du Jura;
+
+- 4\. les règlements du Tribunal cantonal;
+
+- 5\. le principe d'une révision totale de la Constitution et, simultanément, l’additif constitutionnel qui en règle les modalités;
+
+- 6\. les dispositions constitutionnelles;
+
+- 7\. les initiatives auxquelles le Parlement ne donne pas suite;
+
+- 8\. toute dépense non déterminée par une loi, s'il s'agit d'une dépense unique supérieure à cinq centièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq millièmes du même montant;
+
+- 9\. toute dépense non déterminée par une loi, s'il s'agit d'une dépense unique supérieure à cinq millièmes du montant des recettes portées au dernier budget ou d'une dépense périodique supérieure à cinq dix-millièmes du même montant;
+
+- 10\. les transactions immobilières, les cautionnements et la participation à une entreprise économique, si les montants en jeu sont supérieurs à cinq millièmes du montant des recettes portées au dernier budget;
+
+- 11\. les plans dans les cas prévus par la loi;
+
+- 12\. les initiatives déposées par l'Etat en matière fédérale.
+
+<sup>3</sup> Les actes soumis au référendum facultatif à teneur de l'article 78 de la Constitution sont publiés avec indication du délai référendaire.
+
+#### Art. 3
+
+Sont publiés dans la seconde partie :
+
+- 1\. les projets importants des autorités cantonales à teneur de l'article 68 de la Constitution;
+
+2.[^3-1] les publications prévues à l'article 16 de la loi sur l'introduction du Code civil suisse[^3-2] :
+
+ déclaration d'absence (art. 36 CC);
+
+ retrait du pouvoir de représenter l'union conjugale (art. 174 CC);  invitation aux ayants droit à faire leur déclaration d'héritier dans l'année (art. 555 CC);
+
+ communication aux ayants droit de l'ouverture d'un testament (art. 558 CC);
+
+ invitation aux créanciers et aux débiteurs du défunt à produire leurs créances et à déclarer leurs dettes dans un délai déterminé (art. 582 CC);
+
+ inscription au registre foncier à ordonner en cas de prescription extraordinaire (art. 662 CC);
+
+ publication du contrat-type de travail (art. 359a CO);
+
+- 3\. les autres textes qui doivent être publiés selon la législation fédérale et cantonale;
+
+- 4\. les textes que le Parlement, le Gouvernement ou ses départements et le Tribunal cantonal jugent opportun de publier.
+
+[^3-1]: Nouvelle teneur selon l'article 24 de l'ordonnance du 11 décembre 2012 concernant la protection de l'enfant et de l'adulte, en vigueur depuis le 1er janvier 2013 (RSJU 213.11)
+[^3-2]: RSJU 211.1
+
+#### Art. 4
+
+Un compte rendu des séances du Parlement est publié en annexe.
+
+#### Art. 5
+
+Le prix des publications est fixé par la Chancellerie d'Etat.
+
+#### Art. 6
+
+Le prix d'abonnement est fixé par la Chancellerie d'Etat.
+
+#### Art. 7
+
+L'impression du Journal officiel incombe à l'Economat cantonal, qui est chargé de son expédition.
+
+#### Art. 8
+
+Les avis devant paraître au Journal officiel doivent parvenir à l'éditeur au plus tard deux jours avant leur publication.
+
+[^8-1]: 1er janvier 1979
+
+#### Art. 9
+
+La présente ordonnance entre en vigueur en même temps que la loi concernant les publications officielles[^8-1].
+
+Delémont, le 9 novembre 1978
+
+AU NOM DE L'ASSEMBLEE
+
+CONSTITUANTE
+
+DE LA REPUBLIQUE ET CANTON DU JURA
+
+Le président : François Lachat Le secrétaire général : Joseph Boinay
