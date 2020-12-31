@@ -1,0 +1,474 @@
+---
+canton: GL
+number: III F/7
+title: "Verordnung über den Vollzug in den Bereichen Strafprozess, Straf- und Massnahmenvollzug und Opferhilfe"
+short: VSMO
+language: de
+version: 2018-11-01
+valid_until: 2023-02-28
+version_adopted: 2018-10-23
+adopted: 2006-03-21
+in_force: 2006-05-07
+url: "https://gesetze.gl.ch/app/de/texts_of_law/III-F.7"
+pdf: "https://gesetze.gl.ch/api/de/versions/2054/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung über den Vollzug in den Bereichen Strafprozess, Straf- und Massnahmenvollzug und Opferhilfe
+
+(VSMO)
+
+Vom 21.03.2006 (Stand 01.11.2018)
+
+Der Regierungsrat,
+
+gestützt auf Artikel 99 Buchstabe b der Kantonsverfassung[^ingress-1], das Einführungsgesetz vom 2. Mai 1965 zum Schweizerischen Strafgesetzbuch (EG StGB)[^ingress-2], das Einführungsgesetz vom 2. Mai 2010 zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung (EG StPO)[^ingress-3] und die Kantonale Opferhilfeverordnung vom 25. Oktober 2000[^ingress-4],
+
+verordnet:
+
+[^ingress-1]: GS [I A/1/1](https://gesetze.gl.ch/data/I-A.1.1/de)
+[^ingress-2]: GS [III E/1](https://gesetze.gl.ch/data/III-E.1/de)
+[^ingress-3]: GS [III F/1](https://gesetze.gl.ch/data/III-F.1/de)
+[^ingress-4]: GS [III F/6](https://gesetze.gl.ch/data/III-F.6/de)
+
+## 1. Geltungsbereich und Zuständigkeit
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt die administrativen Zuständigkeiten beim Strafprozess und beim Vollzug von Strafen und Massnahmen gemäss dem Schweizerischen Strafgesetzbuch und dem Jugendstrafgesetz, soweit diese nicht in Spezialerlassen geregelt sind, und bestimmt die Vollzugsorgane im Bereich der Opferhilfe.
+
+<sup>2</sup> Sie enthält zudem Vollzugsbestimmungen in Ausführung von Artikel 31 EG StGB.
+
+#### Art. 2
+
+**Departement Sicherheit und Justiz**
+
+<sup>1</sup> Das Departement Sicherheit und Justiz ist das zuständige Departement im Bereich Straf- und Massnahmenvollzug. Es beaufsichtigt die Strafvollzugsorgane und erfüllt sämtliche Verwaltungsaufgaben in diesem Bereich, die keinem andern Organ zugewiesen sind.
+
+<sup>2</sup> Insbesondere ist das Departement zuständig für die Entscheide über die bedingte Entlassung aus bzw. über die Aufhebung von stationären therapeutischen Massnahmen gegenüber psychisch schwer gestörten Tätern (Art. 59 i. V. m. Art. 62–62d StGB), und Entscheide über die Aufhebung oder die Entlassung von Tätern aus der Verwahrung (Art. 64a–64b StGB).
+
+<sup>3</sup> …
+
+#### Art. 3
+
+**Abteilung Verwaltungspolizei**
+
+<sup>1</sup> Die Abteilung Verwaltungspolizei ist im Erwachsenenstrafrecht zuständig für:
+
+- a. die Entscheide über die bedingte Entlassung von zu Freiheitsstrafe verurteilten Personen (Art. 86–89 StGB);
+- b. die Entscheide über die bedingte Entlassung aus bzw. über die Aufhebung von stationären therapeutischen Massnahmen gegenüber abhängigen Tätern (Art. 60 i.V.m. Art. 62–62d StGB) oder gegenüber jungen Erwachsenen (Art. 61 i.V.m. Art. 62–62d StGB);
+- c. die Entscheide beim Vollzug des Berufsverbots, die das StGB der zuständigen Behörde zuweist (Art. 67 und 67a StGB); sie sorgt für Mitteilungen und Vollzugsaufträge an die betroffenen Stellen;
+- d.–e. …
+- f. die Entscheide über den Unterbruch des Strafvollzugs (Art. 92 StGB);
+- g. die Entscheide über das Tragen von Vollzugskosten gemäss Artikel 30a EG StGB.
+
+<sup>2</sup> …
+
+#### Art. 4
+
+**Fachstelle Justizvollzug**
+
+<sup>1</sup> Die Fachstelle Justizvollzug ist für den Vollzug der rechtskräftigen Entscheide und Beschlüsse im Erwachsenenstrafrecht besorgt, soweit nicht eine andere Verwaltungsstelle zuständig ist.
+
+<sup>2</sup> Sie ist insbesondere zuständig für Anordnungen und Verfügungen im Zusammenhang mit der ambulanten Behandlung nach den Artikeln 63–63b StGB, soweit sie nicht dem Gericht vorbehalten sind. Sie kann für einzelne Aufgaben sowie für die fachliche Beratung und Begleitung sowie die Kontrolle den kantonalen Sozialdienst beiziehen und diesem Vollzugsaufträge erteilen.
+
+<sup>2a</sup> Sie nimmt die Aufgaben der kantonalen Einweisungsbehörde wahr.
+
+<sup>2b</sup> Sie holt vor Vollzugsöffnungen gegenüber Personen, die wegen eines gemeingefährlichen Delikts verurteilt worden sind, vorgängig die Zustimmung der Abteilung Verwaltungspolizei ein. Vorbehalten ist die Zuständigkeit des Departements für die bedingte Entlassung gegenüber verurteilten Personen gemäss Artikel 2 Absatz 2.
+
+<sup>3</sup> Sie leitet das Kantonsgefängnis Glarus, übt die Aufsicht über das Personal sowie die Haftlokalitäten aus und erteilt den Gefangenenbetreuern die nötigen Anweisungen. Sie kann generelle Weisungen über den Gefängnisbetrieb erlassen.
+
+<sup>4</sup> Sie bereitet die Entscheide der Abteilung Verwaltungspolizei gemäss Artikel 3 vor. Namentlich holt sie zu diesem Zweck die notwendigen Stellungnahmen ein und gewährt das rechtliche Gehör.
+
+#### Art. 4a
+
+**Kantonspolizei**
+
+<sup>1</sup> Die Kantonspolizei führt auf Anordnung der zuständigen Behörden die Verwertungen und Vernichtungen eingezogener Gegenstände durch.
+
+#### Art. 4b
+
+**Staats- und Jugendanwaltschaft**
+
+<sup>1</sup> Die Staats- und Jugendanwaltschaft vollzieht die rechtskräftigen Urteile von strafrechtlichen Fahrverboten und trägt diese im Fahrberechtigungsregister ein (Art. 67b StGB).
+
+#### Art. 4c
+
+**Abteilung Migration**
+
+<sup>1</sup> Die Abteilung Migration vollzieht die rechtskräftigen Urteile von Landesverweisungen (Art. 66c StGB) und entscheidet über einen Aufschub des Vollzugs von Landesverweisungen (Art. 66d StGB).
+
+#### Art. 5
+
+**Departement Volkswirtschaft und Inneres**
+
+<sup>1</sup> Das Departement Volkswirtschaft und Inneres ist das zuständige Departement im Sinne der Kantonalen Opferhilfeverordnung.
+
+#### Art. 6
+
+**Opferberatung**
+
+<sup>1</sup> Die Sozialen Dienste sind die zuständige kantonale Verwaltungsbehörde im Sinne der Kantonalen Opferhilfeverordnung.
+
+#### Art. 7
+
+**Soziale Dienste des Kantons Glarus**
+
+<sup>1</sup> Der kantonale Sozialdienst ist insbesondere zuständig für:
+
+- a. den Bewährungsdienst (Art. 93 und 376 StGB);
+- b. die Kontrolle von Weisungen (Art. 95 StGB);
+- c. die freiwillig in Anspruch genommene soziale Betreuung während der Dauer des Strafverfahrens und des Strafvollzugs (Art. 96 StGB) im Kantonsgefängnis Glarus;
+- d. den Vollzug der Aufsicht und der persönlichen Betreuung (Art. 12 und 13 JStG), soweit es nicht eine Änderung (Art. 18 JStG) oder eine Beendigung der Massnahme (Art. 19 JStG) betrifft.
+
+<sup>2</sup> Die Sozialen Dienste des Kantons Glarus können von der Staats- und Jugendanwaltschaft für den Vollzug der rechtskräftigen Entscheide im Bereich der Jugendstrafrechtspflege sowie zur Beratung, Mitwirkung und Erfüllung entsprechender Abklärungs- und Begleitungsaufträge beigezogen werden (Art. 9 und 17 JStG, Art. 42 Abs. 2 JStPO). Sie unterstützen die Fachstelle Justizvollzug sowie die Staats- und Jugendanwaltschaft bei der Platzierung von Erwachsenen und Jugendlichen in geeigneten Anstalten.
+
+## 2. Vollzugsverfahren bei Erwachsenen
+
+### 2.1. Allgemeine Bestimmungen
+
+#### Art. 8
+
+**Besprechung, Vollzugsplanung**
+
+<sup>1</sup> Die Fachstelle Justizvollzug bespricht mit der verurteilten Person einen bevorstehenden Straf- und Massnahmenvollzug, wenn es die verurteilte Person beantragt.
+
+<sup>2</sup> Die Fachstelle Justizvollzug koordiniert die Planung des Vollzuges von längerfristigen Strafen und Massnahmen nach Massgabe der Richtlinien der Ostschweizer Strafvollzugskommission (einsehbar bei der Fachstelle Justizvollzug). Sie kann dafür den kantonalen Sozialdienst oder andere Fachstellen beratend beiziehen, insbesondere für Risikoeinschätzungen und die Entlassungsvorbereitung.
+
+#### Art. 9
+
+**Einweisung**
+
+<sup>1</sup> Die Fachstelle Justizvollzug verfügt den Antritt einer unbedingten oder teilbedingten Freiheitsstrafe, einer freiheitsentziehenden strafrechtlichen Massnahme oder einer besonderen Vollzugsform.
+
+<sup>1a</sup> Die Verfügung enthält das Urteilsdispositiv, die erforderlichen Angaben in örtlicher und zeitlicher Hinsicht sowie allfällige Bedingungen und Auflagen.
+
+<sup>2</sup> Der Vollzug von unbedingten Freiheitsstrafen bis zu sechs Monaten, von Ersatzfreiheitsstrafen bis zu sechs Monaten (Art. 36 StGB), des Arbeitsexternats (Art. 77a Abs. 1 und 2 StGB) und der Halbgefangenschaft (Art. 77b StGB) erfolgt in der Regel im Kantonsgefängnis Glarus, soweit sich dieses dafür eignet.
+
+<sup>2a</sup> Der Vollzug kann auch in geeigneten, anerkannten privaten Einrichtungen vollzogen werden, namentlich in Bezug auf das Wohn- und Arbeitsexternat.
+
+<sup>2b</sup> Die Bewilligung des vorzeitigen Massnahmenvollzugs durch die Verfahrensleitung bedarf der Zustimmung der zuständigen Einweisungsbehörde.
+
+<sup>3</sup> …
+
+#### Art. 10
+
+**Strafunterbrechung, Verlegung**
+
+<sup>1</sup> Die Abteilung Verwaltungspolizei entscheidet über Begehren um Unterbrechung eines Straf- und Massnahmenvollzugs aus wichtigen Gründen (Art. 92 StGB). Über Gesuche von Personen im vorzeitigen Straf- oder Massnahmenvollzug bezüglich Unterbrechung oder Entlassung aus dem Vollzug entscheidet die Verfahrensleitung.
+
+<sup>2</sup> Die Fachstelle Justizvollzug kann eine verurteilte Person zur Fortsetzung des Straf- oder Massnahmenvollzugs in eine andere Vollzugsanstalt, psychiatrische Klinik oder anerkannte private Institution verlegen, wenn:
+
+- a. ihr Zustand oder ihr Verhalten es notwendig macht;
+- b. ihre Behandlung es notwendig macht oder
+- c. ihre Eingliederung dadurch eher erreicht wird.
+
+#### Art. 11
+
+**Ausgang, Urlaub**
+
+<sup>1</sup> Die Fachstelle Justizvollzug gewährt im Rahmen von Artikel 84 Absatz 6, Artikel 75a StGB und der entsprechenden Richtlinien der Ostschweizerischen Strafvollzugskommission Ausgang sowie Sach-, Beziehungs- und Sonderurlaub. Die Ablehnung eines Gesuchs wird der eingewiesenen Person kurz begründet.
+
+<sup>2</sup> Die Fachstelle Justizvollzug kann sich die Befugnis zur Bewilligung von Ausgang und Urlaub bei Einweisungen in ausserkantonale Vollzugseinrichtungen vorbehalten, ansonsten sie als delegiert gilt.
+
+<sup>3</sup> Bei Personen, die ihre Strafe oder Massnahme vorzeitig angetreten haben, kann Ausgang oder Urlaub nur bewilligt werden, wenn die zuständige Verfahrensleitung zustimmt bzw. keinen Einspruch erhebt. Zuständig für das Einholen der Zustimmung ist die Einweisungsbehörde.
+
+#### Art. 12
+
+**Arbeitsentgelt**
+
+<sup>1</sup> Die inhaftierte Person erhält für ihre im Kantonsgefängnis Glarus geleistete Arbeit ein von den Anforderungen des Arbeitsplatzes und ihrer Leistung abhängiges Entgelt.
+
+<sup>2</sup> Das Departement Sicherheit und Justiz legt die Ansätze für die verschiedenen Haftarten fest. Für die Verwendung und Auszahlung des Arbeitsentgelts gelten sinngemäss die Richtlinien der Ostschweizerischen Strafvollzugskommission über das Arbeitsentgelt in Strafvollzugsanstalten.
+
+<sup>3</sup> Bei inhaftierten Personen, die nur während eines Teils der Arbeitszeit zur Verfügung stehen, wird das Arbeitsentgelt angemessen reduziert.
+
+#### Art. 13
+
+**Verfahren bei bedingter Entlassung**
+
+<sup>1</sup> Die bedingte Entlassung wird auf Gesuch der verurteilten Person oder von Amtes wegen geprüft. Die Vollzugseinrichtung macht die verurteilte Person rechtzeitig darauf aufmerksam, dass sie ein Gesuch um bedingte Entlassung bei der zuständigen Behörde einreichen kann; sie reicht einen Führungsbericht ein und stellt einen Antrag. Den Verzicht auf ein solches Gesuch muss die verurteilte Person schriftlich bestätigen.
+
+<sup>2</sup> Die Fachstelle Justizvollzug nimmt in der Regel vor der Anordnung von Bewährungshilfe mit dem Bewährungsdienst Rücksprache über die Modalitäten.
+
+<sup>3</sup> …
+
+#### Art. 13a
+
+**Antrag auf Rückversetzung**
+
+<sup>1</sup> Anträge an das zuständige Gericht auf Rückversetzung in den Straf- oder Massnahmenvollzug werden von der Vollzugsbehörde gestellt, welche die verurteilte Person bedingt entlassen hat.
+
+### 2.2. Gemeinnützige Arbeit
+
+#### Art. 14
+
+**Grundsätze der Durchführung**
+
+<sup>1</sup> Die Fachstelle Justizvollzug bestimmt nach Massgabe der Richtlinien der Ostschweizerischen Strafvollzugskommission die Art und Form der zu leistenden gemeinnützigen Arbeit. Sie kann Vorschläge der verurteilten Person berücksichtigen.
+
+<sup>1a</sup> Bei teilbedingten Strafen ist die Gesamtdauer der Strafe (bedingter und unbedingter Teil) massgeblich.
+
+<sup>2</sup> Die Fachstelle Justizvollzug bestimmt insbesondere den Vollzugsbeginn sowie den Zeitraum, innert welchem die verurteilte Person die gemeinnützige Arbeit zu leisten hat. Pro Woche sind in der Regel mindestens acht Stunden gemeinnützige Arbeit zu leisten. Die gemeinnützige Arbeit kann neben der normalen Arbeitszeit geleistet werden, z. B. am Wochenende, am Abend oder während der Ferien, wobei die gesetzlich bestimmte Höchstarbeitszeit auch überschritten werden darf.
+
+<sup>3</sup> Die verurteilte Person hat die persönlichen Aufwendungen zur Erbringung der gemeinnützigen Arbeit selbst zu tragen, namentlich die Kosten für die Deckung einer Unfall- und Haftpflichtversicherung, den Arbeitsweg und die Verpflegung, andernfalls die gemeinnützige Arbeit nicht bewilligt wird.
+
+<sup>4</sup> Die Fachstelle Justizvollzug ordnet eine soziale Begleitung durch die Bewährungshilfe nur an, wenn sich aus dem Vollzugsverlauf konkrete Hinweise für einen besonderen Unterstützungsbedarf ergeben.
+
+#### Art. 15
+
+**Verfahren**
+
+<sup>1</sup> Die Fachstelle Justizvollzug fordert die verurteilte Person auf, sich innert Frist mit einer geeigneten Institution über die Modalitäten der Ableistung der gemeinnützigen Arbeit zu einigen. Die Fachstelle stellt der verurteilten Person eine Liste mit geeigneten Institutionen zur Verfügung.
+
+<sup>1a</sup> Die für den Einzug von Bussen und Geldstrafen zuständigen kantonalen Inkassostellen leiten ein Gesuch der verurteilten Person um Bewilligung von gemeinnütziger Arbeit an die Fachstelle Justizvollzug weiter, und geben den offenen Bussen- oder Geldstrafenbetrag sowie während des Vollzugs nachträglich geleistete Zahlungen an.
+
+<sup>2</sup> Die Fachstelle Justizvollzug erlässt eine Verfügung über die Ableistung der gemeinnützigen Arbeit, nötigenfalls auch ohne vorgängige Einigung der Vertragspartner, wenn die Arbeit gebende Institution mit der Beschäftigung der verurteilten Person einverstanden ist.
+
+<sup>3</sup> Die Fachstelle Justizvollzug kann den Einsatz unter Auflagen und Bedingungen sowie im Einzelfall ausnahmsweise zugunsten einer hilfsbedürftigen Person bewilligen, sofern die Kontrolle der Tätigkeit gewährleistet ist.
+
+<sup>3a</sup> Die Fachstelle Justizvollzug informiert die Inkassostellen über die Bewilligung oder Ablehnung, einen Abbruch oder den Abschluss der gemeinnützigen Arbeit.
+
+#### Art. 16
+
+**…**
+
+#### Art. 16a
+
+**Bedingte Entlassung**
+
+<sup>1</sup> Die bedingte Entlassung aus dem Vollzug einer Busse oder Geldstrafe in Form der gemeinnützigen Arbeit ist nicht zulässig.
+
+<sup>2</sup> Die bedingte Entlassung aus dem Vollzug einer Freiheitsstrafe in Form der gemeinnützigen Arbeit richtet sich im Übrigen nach den Richtlinien der Ostschweizerischen Strafvollzugskommission.
+
+#### Art. 17
+
+**Abbruch**
+
+<sup>1</sup> Die Fachstelle Justizvollzug bricht die gemeinnützige Arbeit namentlich ab, wenn die verurteilte Person:
+
+- a. auf die Weiterführung der gemeinnützigen Arbeit verzichtet;
+- b. den Einsatzplan mit der Institution trotz Mahnung nicht einhält;
+- c. die gemeinnützige Arbeit trotz Mahnung nicht entsprechend den Abmachungen, Anweisungen, Fristen, Bedingungen und Auflagen leistet.
+
+<sup>2</sup> …
+
+<sup>2a</sup> Wird gegen die verurteilte Person eine Strafuntersuchung eingeleitet, kann der Vollzug der gemeinnützigen Arbeit unterbrochen oder abgebrochen werden.
+
+<sup>3</sup> …
+
+<sup>3a</sup> Kommt während des laufenden Vollzugs der gemeinnützigen Arbeit eine Ersatzfreiheitsstrafe für eine Busse oder Geldstrafe zur Vollstreckung hinzu, hat dies in der Regel den Abbruch der gemeinnützigen Arbeit zur Folge, genauso wie beim Überschreiten der maximal zulässigen Höchstdauer der laufenden, bewilligten gemeinnützigen Arbeit durch das Hinzukommen weiterer Strafen.
+
+### 2.3. Halbgefangenschaft
+
+#### Art. 18
+
+**Grundsatz und Voraussetzungen**
+
+<sup>1</sup> Freiheitsstrafen sowie Ersatzfreiheitsstrafen für Bussen und Geldstrafen bis zu einem Jahr oder eine Reststrafe von nicht mehr als sechs Monaten werden im Rahmen der Richtlinien der Ostschweizerischen Strafvollzugskommission auf Gesuch hin in Form der Halbgefangenschaft vollzogen, wenn insbesondere:
+
+- a. keine Flucht- oder Wiederholungsgefahr besteht;
+- b. die verurteilte Person in der Schweiz ein Anwesenheitsrecht sowie ein Recht zur Erwerbstätigkeit oder Ausbildung hat und sie nicht mit einer strafrechtlichen Landesverweisung belegt wurde;
+- c. die verurteilte Person während der Strafverbüssung ihrer bisherigen Arbeit oder einer anerkannten Ausbildung mit einem Beschäftigungsgrad von mindestens 20 Stunden pro Woche nachgehen kann; Haus- und Erziehungsarbeit sowie Arbeitsloseneinsatzprogramme sind gleichgestellt;
+- d. die verurteilte Person voraussichtlich Gewähr bietet, dass sie die Rahmenbedingungen der Halbgefangenschaft und die Hausordnung der Vollzugseinrichtung einhält.
+
+<sup>2</sup> Die verurteilte Person setzt die bisherige Arbeit oder die begonnene Ausbildung während des Vollzugs fort und verbringt die Ruhe- und Freizeit in der Vollzugseinrichtung. Jede in der Vollzugseinrichtung verbrachte Nacht zählt als Tageshaft. Pro Woche hat die verurteilte Person wenigstens einen Tag in der Vollzugseinrichtung zu verbringen.
+
+<sup>3</sup> Für die Zulassung ist bei teilbedingten Freiheitsstrafen in zeitlicher Hinsicht nur der unbedingte Teil massgeblich.
+
+#### Art. 19
+
+**Verfahren**
+
+<sup>1</sup> Die verurteilte Person hat innert 30 Tagen nach Rechtskraft des Urteils bei der Fachstelle Justizvollzug ein Gesuch um Bewilligung der Halbgefangenschaft zu stellen; bei Vorliegen wichtiger Gründe tritt die Fachstelle auch auf später eingereichte Gesuche ein. Die verurteilte Person hat mit dem Gesuch insbesondere eine Bestätigung des Arbeitgebers, einen Ausweis für eine selbstständige Erwerbstätigkeit oder eine Ausbildungsbescheinigung jeweils mit Angabe von Arbeitsort oder Ausbildungsstätte und mit Arbeits- bzw. Unterrichtszeiten einzureichen. Die Fachstelle Justizvollzug kann weitere Nachweise über die Erfüllung der rechtlichen Zulassungsvoraussetzungen verlangen.
+
+<sup>2</sup> Die Fachstelle Justizvollzug entscheidet über das Gesuch. Die Bewilligung kann mit Auflagen oder Bedingungen versehen werden.
+
+<sup>3</sup> Die Fachstelle Justizvollzug legt den Termin des Strafantritts fest und bestimmt unter Berücksichtigung des Wohn- und Arbeits- oder Ausbildungsortes den Vollzugsort.
+
+#### Art. 20
+
+**Kostgeld, Transportkosten, Versicherung**
+
+<sup>1</sup> Die verurteilte Person behält ihren Arbeitserwerb. Sie hat während der Dauer der Halbgefangenschaft einen Kostenbeitrag an den Vollzug zu entrichten, das sich nach dem Kostgeld-Tarif des Ostschweizerischen Strafvollzugskonkordates richtet. Für jede nicht im Kantonsgefängnis Glarus eingenommene Hauptmahlzeit und für jedes Frühstück reduziert sich das Kostgeld um den vom Departement Sicherheit und Justiz festgelegten Betrag.
+
+<sup>2</sup> Die von der Fachstelle Justizvollzug im Einzelfall festgelegten Barvorschüsse sind bei Strafantritt für eine Woche und in der Folge wöchentlich im Voraus zu entrichten.
+
+<sup>3</sup> Die Fachstelle Justizvollzug kann den Kostenbeitrag auf Gesuch der verurteilten Person für eine gewisse Zeit stunden sowie ganz oder teilweise erlassen, wenn sie ihre unverschuldete Notlage nachweist, insbesondere wenn ansonsten die Erfüllung gesetzlicher Unterhalts- oder Unterstützungspflichten beeinträchtigt würde.
+
+<sup>4</sup> Die Transportkosten von der Vollzugseinrichtung zum Arbeitsplatz und zurück gehen zulasten der verurteilten Person.
+
+<sup>5</sup> Die Versicherung gegen Betriebs- und Nichtbetriebsunfall während der Halbgefangenschaft ist Sache der verurteilten Person bzw. ihres Arbeitgebers.
+
+#### Art. 21
+
+**Urlaube, Besuche**
+
+<sup>1</sup> Besuche sind während der Halbgefangenschaft grundsätzlich nicht gestattet.
+
+<sup>1a</sup> Der verurteilten Person steht pro Arbeitstag ein Zeitfenster von höchstens 14 Stunden zur Verfügung für Arbeit, Beschäftigung oder Ausbildung, Verpflegung, Einkäufe oder Behördengänge sowie die Teilnahme an Therapien ausserhalb der Vollzugseinrichtung. Die Zeitfenster sind mit der Vollzugseinrichtung vorgängig zu besprechen und in einem Wochenplan festzuhalten.
+
+<sup>2</sup> Die Bewilligung von zusätzlichen Urlauben und Ausgängen während der Halbgefangenschaft richtet sich im Übrigen nach den Richtlinien der Ostschweizer Strafvollzugskommission.
+
+#### Art. 22
+
+**Arztbesuch, Betreuung**
+
+<sup>1</sup> …
+
+<sup>2</sup> Ärztliche und zahnärztliche Behandlungen haben während der auswärts verbrachten Zeit zu erfolgen. Der Gefängnisarzt wird nur in Notfällen beigezogen.
+
+<sup>3</sup> Für die notwendige Betreuung der verurteilten Person (insbesondere bei längerer Halbgefangenschaft) sorgen die Gefangenenbetreuer und auf Gesuch der verurteilten Person hin bei Bedarf eine Fachperson der kantonalen sozialen Dienste oder der Bewährungshilfe.
+
+#### Art. 23
+
+**Abbruch**
+
+<sup>1</sup> Die Fachstelle Justizvollzug kann die Halbgefangenschaft nach vorausgegangener Ermahnung abbrechen und den Normalvollzug anordnen, wenn die Bewilligungsvoraussetzungen nach Artikel 18 nicht mehr erfüllt sind, bei mangelndem Wohlverhalten in der Vollzugseinrichtung, bei einem Verlust der Arbeits- oder Ausbildungsstelle oder bei einem Missbrauch der Halbgefangenschaft.
+
+<sup>2</sup> Als Missbrauch der Halbgefangenschaft gelten insbesondere:
+
+- a. Verwendung der Zeit ausserhalb des Gefängnisses zu anderen als den erlaubten oder im Wochenplan vereinbarten Zwecken;
+- b. keine oder verspätete Rückkehr;
+- c. Einrücken in alkoholisiertem Zustand oder unter Drogeneinfluss;
+- d. Besitz, Einschmuggeln oder Konsumation von Gegenständen, Alkohol oder Drogen in die Vollzugseinrichtung oder deren Weitergabe an Insassen;
+- e. Missachten von Weisungen, Bedingungen und Auflagen, insbesondere bezüglich der verfügten Antrittszeiten oder der Absolvierung einer Therapie oder Kontrolle;
+- f. Verweigerung der Leistung des Barvorschusses oder des Kostgeldes.
+
+<sup>3</sup> Von einem Abbruch kann Umgang genommen werden bei einem leichten Verschulden, und wenn die verurteilte Person nach unverschuldetem Verlust der Beschäftigung während des Strafvollzugs innerhalb von zwei Wochen eine andere geeignete Einsatzmöglichkeit findet, sofern die Betreuung und Überwachung während der Beschäftigungslosigkeit gewährleistet sind. Vorbehalten bleibt stattdessen eine Ermahnung oder die Anordnung einer Disziplinarmassnahme.
+
+<sup>4</sup> Wird gegen die verurteilte Person eine Strafuntersuchung eingeleitet, kann der Vollzug der Halbgefangenschaft unterbrochen oder abgebrochen werden, genauso wie bei Überschreitung der maximal zulässigen Höchstdauer der laufenden, bewilligten Halbgefangenschaft durch das Hinzukommen weiterer Strafen.
+
+### 2.4. Arbeitsexternat und Wohn- und Arbeitsexternat, Beschäftigung bei externem Arbeitgeber
+
+#### Art. 24
+
+**Grundsätze der Durchführung**
+
+<sup>1</sup> Das Arbeitsexternat und das Wohn- und Arbeitsexternat (nachfolgend Wohnexternat) sind Vorstufen zur Entlassung aus einer Freiheitsstrafe oder Verwahrung; sie dienen der schrittweisen Eingliederung der eingewiesenen Person durch Zulassung zu auswärtiger Arbeit oder Ausbildung sowie durch auswärtiges Wohnen. Die eingewiesene Person arbeitet ausserhalb der Vollzugseinrichtung und verbringt ihre Ruhe- und Freizeit in der Vollzugseinrichtung. Bewährt sie sich im Arbeitsexternat, kann sie bei langen Strafen im Rahmen des Wohnexternates auch ausserhalb der Vollzugseinrichtung wohnen. Diese Vollzugsarten können elektronisch überwacht werden.
+
+<sup>2</sup> Die eingewiesene Person kann während des Normalvollzugs einzeln oder in Gruppen bei einem Arbeitgeber ausserhalb der Anstalt beschäftigt werden, wenn die nötige Betreuung und Kontrolle gewährleistet sind. Sie muss dem Einsatz zustimmen. Sie bleibt während der Arbeitseinsätze dem Vollzugsregime und der Disziplinargewalt der Vollzugseinrichtung unterstellt.
+
+<sup>2a</sup> Anstelle des Arbeits- oder Wohnexternates kann die Fachstelle Justizvollzug der verurteilten Person für die Dauer von drei bis zwölf Monaten unter bestimmten Voraussetzungen auf Gesuch hin die elektronische Überwachung bewilligen.
+
+<sup>3</sup> Für den Massnahmenvollzug gelten die nachstehenden Bestimmungen sinngemäss.
+
+#### Art. 25
+
+**Bewilligungszuständigkeiten**
+
+<sup>1</sup> Die Fachstelle Justizvollzug entscheidet über die Bewilligung und den Abbruch des Arbeitsexternats und des Wohnexternats und bestimmt den Vollzugsort. Sie kann diese Kompetenz an die Vollzugseinrichtung delegieren.
+
+<sup>2</sup> Die Vollzugseinrichtung entscheidet über den Einsatz der eingewiesenen Person bei einem privaten oder öffentlichen Arbeitgeber. Die Fachstelle Justizvollzug kann sich diese Kompetenz vorbehalten.
+
+<sup>3</sup> Die Bewilligung des Arbeitsexternats, des Wohnexternats, der elektronischen Überwachung und der Beschäftigung bei einem Arbeitgeber kann mit Bedingungen und Auflagen verbunden werden, insbesondere auch mit der Pflicht zur Erfüllung finanzieller Verpflichtungen.
+
+#### Art. 26
+
+**Zulassung, Rahmenbedingungen**
+
+<sup>1</sup> Für die Bewilligungsvoraussetzungen, die Festlegung der Rahmenbedingungen und den Vollzug des Arbeits- und des Wohnexternats sowie der Beschäftigung bei einem privaten oder öffentlichen Arbeitgeber gelten die entsprechenden Richtlinien der Ostschweizerischen Strafvollzugskommission.
+
+<sup>2</sup> …
+
+#### Art. 27
+
+**Disziplinarwesen beim Arbeits- oder Wohnexternat**
+
+<sup>1</sup> Die Vollzugseinrichtung meldet der Fachstelle Justizvollzug unverzüglich Unregelmässigkeiten, insbesondere wenn die eingewiesene Person der Arbeit unberechtigterweise fernbleibt oder gegen den Vollzugsplan, die Hausordnung oder besondere Anordnungen und Weisungen schwerwiegend oder wiederholt verstösst. Die Fachstelle Justizvollzug entscheidet über die Rückversetzung in den Normalvollzug.
+
+### 2.5.
+
+#### Art. 28–29
+
+**…**
+
+## 2.6. Elektronische Überwachung
+
+#### Art. 29a
+
+**Grundsätze und Voraussetzungen**
+
+<sup>1</sup> Freiheitsstrafen, Ersatzfreiheitsstrafen für Bussen und Geldstrafen oder Reststrafen von nicht weniger als 20 Tagen und nicht mehr als zwölf Monaten können im Rahmen der Richtlinien der Ostschweizerischen Strafvollzugskommission auf Gesuch der verurteilten Person hin in Form der elektronischen Überwachung vollzogen werden, wenn neben den Voraussetzungen des Bundesrechts insbesondere:
+
+- a. die verurteilte Person in der Schweiz ein Aufenthaltsrecht sowie ein Recht zur Erwerbstätigkeit oder Ausbildung hat;
+- b. die verurteilte Person nicht mit einer strafrechtlichen Landesverweisung belegt wurde;
+- c. die verurteilte Person während der Strafverbüssung ihrer bisherigen Arbeit oder einer anerkannten Ausbildung mit einem Beschäftigungsumfang von mindestens 20 Stunden pro Woche nachgehen kann; Haus- und Erziehungsarbeit sowie Arbeitsloseneinsatzprogramme sind gleichgestellt;
+- d. die verurteilte Person Gewähr bietet, dass sie die Vollzugsbedingungen der elektronischen Überwachung einhalten wird;
+- e. eine geeignete dauerhafte Unterkunft vorhanden ist, welche die elektronische Datenübertragung des Überwachungsgerätes durch Festnetzanschluss oder Mobilfunkempfang zulässt;
+- f. die in derselben Wohnung lebenden erwachsenen Personen der Überwachung und dem jederzeitigen, unangemeldeten Zutrittsrecht der Vollzugsbehörden zugestimmt haben; bei einem Wohnheim muss die Zustimmung der Institutionsleitung vorliegen;
+- g. die verurteilte Person dem Vollzugs- und Wochenplan sowie dem jederzeitigen, unangemeldeten Zutrittsrecht der Vollzugsbehörden zustimmt;
+- h. die verurteilte Person für die Dauer des Vollzugs eine Privathaftpflichtversicherung nachweisen kann;
+- i. keine überwiegenden schutzwürdigen Interessen von Drittpersonen gegen den Vollzug durch elektronische Überwachung sprechen.
+
+<sup>2</sup> Die Fachstelle Justizvollzug bezeichnet gestützt auf die Richtlinien der Ostschweizerischen Strafvollzugskommission die mit dem Gesuch einzureichenden Unterlagen und Nachweise.
+
+<sup>3</sup> Für die Zulassung ist bei teilbedingten Freiheitsstrafen in zeitlicher Hinsicht die Gesamtdauer der Strafe (bedingter und unbedingter Teil) massgeblich.
+
+#### Art. 29b
+
+**Verfahren und Vollzugsplan**
+
+<sup>1</sup> Für das Bewilligungsverfahren gilt Artikel 19 sinngemäss.
+
+<sup>2</sup> Die zuständigen Vollzugsbehörden legen im Rahmen des Vollzugsplans fest:
+
+- a. die psychosoziale Betreuung der verurteilten Person während der elektronischen Überwachung;
+- b. das Wochenprogramm (Arbeits- oder Ausbildungszeiten, überwachungsfreie Zeit usw.).
+
+<sup>3</sup> Der verurteilten Person steht pro Arbeitstag ein Zeitfenster von höchstens 14 Stunden zur Verfügung für Arbeit, Beschäftigung oder Ausbildung, Freizeit, Einkäufe, Arztbesuche oder Behördengänge sowie die Teilnahme an Therapien.
+
+<sup>4</sup> An arbeits- oder ausbildungsfreien Tagen, namentlich an Samstagen, Sonntagen und Feiertagen, kann die Fachstelle Justizvollzug der verurteilten Person nach Massgabe der Richtlinien der Ostschweizerischen Strafvollzugskommission weitere freie Zeit gewähren.
+
+#### Art. 29c
+
+**Kostenbeteiligung, Transportkosten**
+
+<sup>1</sup> Die verurteilte Person behält ihren Arbeitserwerb. Sie hat während der Dauer der elektronischen Überwachung einen Kostenbeitrag an den Vollzug zu entrichten, der sich nach dem Kostgeld-Tarif des Ostschweizerischen Strafvollzugskonkordates richtet.
+
+<sup>2</sup> Die von der Fachstelle Justizvollzug festgelegten Vorschüsse sind periodisch gemäss den im Vollzugsplan festgelegten Bedingungen zu entrichten.
+
+<sup>3</sup> Die Fachstelle Justizvollzug kann den Kostenbeitrag auf Gesuch der verurteilten Person für eine gewisse Zeit stunden sowie ganz oder teilweise erlassen, wenn sie ihre unverschuldete Notlage nachweist, insbesondere wenn ansonsten die Erfüllung gesetzlicher Unterhalts- oder Unterstützungspflichten beeinträchtigt würde.
+
+#### Art. 29d
+
+**Abbruch**
+
+<sup>1</sup> Die Fachstelle Justizvollzug kann die elektronische Überwachung, in der Regel nach vorgängiger Ermahnung, abbrechen und den Normalvollzug oder den Vollzug in Halbgefangenschaft anordnen, wenn die Bewilligungsvoraussetzungen nicht mehr erfüllt sind, bei mangelndem Wohlverhalten während des Vollzugs, bei einem Verlust der Arbeits- oder Ausbildungsstelle oder bei einem Missbrauch dieser besonderen Vollzugsform.
+
+<sup>2</sup> Als Missbrauch der elektronischen Überwachung gelten insbesondere:
+
+- a. Verwendung der freien Zeit ausserhalb der Unterkunft zu anderen als den erlaubten oder im Vollzugs- oder Wochenplan vereinbarten Zwecken;
+- b. keine oder verspätete Rückkehr von der Arbeit oder der freien Zeit;
+- c. Besitz und Konsum von Drogen;
+- d. Rückkehr in alkoholisiertem Zustand;
+- e. Missachten des Vollzugs- oder Wochenplans, von Weisungen, Bedingungen und Auflagen, namentlich zur Absolvierung einer Therapie oder betreffend Alkoholabstinenz;
+- f. Manipulation der technischen Überwachungsgeräte oder Versuche dazu;
+- g. Verweigerung oder wiederholte Säumigkeit bei der Bezahlung des festgelegten Kostenbeitrages.
+
+<sup>3</sup> Von einem Abbruch kann Umgang genommen werden bei einem leichten Verschulden, oder wenn die verurteilte Person nach unverschuldetem Verlust der Beschäftigung während des Strafvollzugs innerhalb von zwei Wochen eine andere geeignete Tätigkeit findet, sofern die Betreuung und Überwachung während der Beschäftigungslosigkeit gewährleistet sind. Vorbehalten bleibt stattdessen die Ermahnung oder Einschränkung der freien Zeit.
+
+<sup>4</sup> Wird gegen die verurteilte Person eine Strafuntersuchung eingeleitet, kann der Vollzug der elektronischen Überwachung unterbrochen oder abgebrochen werden, genauso wie beim Überschreiten der maximal zulässigen Höchstdauer der laufenden elektronischen Überwachung durch das Hinzukommen weiterer Strafen.
+
+<sup>5</sup> Eine Weiterverbüssung der Strafe erfolgt nach einem Abbruch der elektronischen Überwachung im offenen oder geschlossenen Normalvollzug oder in Halbgefangenschaft. Verzichtet die verurteilte Person freiwillig auf die elektronische Überwachung, ist die Halbgefangenschaft in der Regel ausgeschlossen.
+
+## 3. Befreiung von der ärztlichen Schweigepflicht
+
+#### Art. 29e
+
+**Amtliche Aufklärungspflicht**
+
+<sup>1</sup> Die Fachstelle Justizvollzug klärt eine verurteilte Person darüber auf, dass ein beauftragter Therapeut oder eine beauftragte Therapeutin oder die mit der Durchführung einer stationären oder ambulanten Massnahme beauftragte Einrichtung den zuständigen Vollzugsbehörden gegenüber berichterstattungs- und informationspflichtig ist, sowie namentlich in Bezug auf die Erreichung der Behandlungsziele und den Behandlungsverlauf von der ärztlichen Schweigepflicht entbunden ist.
+
+<sup>2</sup> Sie informiert die Therapeutin oder den Therapeuten über die Befreiung von der ärztlichen Schweigepflicht im Behandlungsauftrag.
+
+#### Art. 30
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt nach der Landsgemeinde 2006 sofort in Kraft.
+
+SBE IX/7 346

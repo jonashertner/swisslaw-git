@@ -1,0 +1,372 @@
+---
+canton: GL
+number: VIII D/21/1
+title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
+short: EG KVG
+language: de
+version: 2016-01-01
+valid_until: 2022-12-31
+version_adopted: 2015-05-03
+adopted: 2015-05-03
+in_force: 2016-01-01
+url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.21.1"
+pdf: "https://gesetze.gl.ch/api/de/versions/1931/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
+
+(EG KVG)
+
+Vom 03.05.2015 (Stand 01.01.2016)
+
+## 1. Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Dieses Gesetz regelt den Vollzug des Bundesgesetzes über die Krankenversicherung (KVG).
+
+#### Art. 2
+
+**Ergänzendes Recht**
+
+<sup>1</sup> Soweit dieses Gesetz keine Regelung enthält, finden die Vorschriften des Kantons und des Bundes über die eidgenössische Alters- und Hinterlassenenversicherung sowie des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts als ergänzendes Recht sinngemäss Anwendung.
+
+## 2. Organisation
+
+#### Art. 3
+
+**Aufgaben von Kanton und Gemeinden**
+
+<sup>1</sup> Die sich aus diesem Gesetz ergebenden Aufgaben obliegen grundsätzlich dem Kanton.
+
+<sup>2</sup> Die Gemeinden erfüllen die ihnen durch Gesetz oder Verordnung zugewiesenen Aufgaben.
+
+#### Art. 4
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat vollzieht das Bundesgesetz über die Krankenversicherung, sofern das vorliegende Einführungsgesetz und seine Ausführungsvorschriften nichts anderes vorsehen.
+
+<sup>2</sup> Er kann im Rahmen des Vollzuges mit anderen Kantonen oder Dritten Vereinbarungen abschliessen.
+
+## 3. Versicherungspflicht
+
+#### Art. 5
+
+**Versicherungspflicht**
+
+<sup>1</sup> Die Gemeinden sorgen für die Einhaltung der Versicherungspflicht.
+
+<sup>2</sup> Sie weisen Personen, die ihrer Versicherungspflicht nicht nachkommen, einem Versicherer zu.
+
+<sup>3</sup> Über Ausnahmegesuche von der Versicherungspflicht entscheidet das zuständige kantonale Departement.
+
+#### Art. 6
+
+**Auskunfts- und Meldepflicht**
+
+<sup>1</sup> Die gesetzlichen Vertreter von Neugeborenen sowie alle Personen, die neu im Kanton Glarus Wohnsitz nehmen, haben innert dreier Monate der Gemeinde einen Versicherungsnachweis einzureichen. Andernfalls geht die Gemeinde gemäss Artikel 5 Absatz 2 vor.
+
+<sup>2</sup> Die Versicherer haben den Gemeinden und der zuständigen Verwaltungsbehörde auf Anfrage Auskunft zu erteilen, welche Personen bei ihnen versichert sind.
+
+<sup>3</sup> Sie melden der zuständigen Verwaltungsbehörde alle versicherten Personen, die wegen ausstehender Prämien, Kostenbeteiligungen und Verzugszinsen betrieben werden.
+
+## 4. Nichtbezahlen von Prämien und Kostenbeteiligungen
+
+#### Art. 7
+
+**Liste säumiger Prämienzahlerinnen und Prämienzahler**
+
+<sup>1</sup> Der Regierungsrat kann die Erfassung säumiger Prämienzahlerinnen und Prämienzahler in einer Liste im Sinne von Artikel 64a Absatz 7 KVG vorsehen.
+
+<sup>2</sup> Er regelt gegebenenfalls die Einzelheiten in einer Verordnung, insbesondere die:
+
+- a. Definition säumiger Prämienzahlerinnen und Prämienzahler;
+- b. Ausschlusskriterien;
+- c. Zugriffsberechtigungen;
+- d. Löschung des Listeneintrags.
+
+<sup>3</sup> Er kann vorsehen, dass die Gemeinden unterstützend mitwirken.
+
+#### Art. 8
+
+**Meldeverfahren zu Verlustscheinen**
+
+<sup>1</sup> Die Versicherer melden der zuständigen Verwaltungsbehörde die Schuldnerinnen oder Schuldner, auf deren Namen Verlustscheine oder gleichwertige Rechtstitel für Forderungen aus der obligatorischen Krankenpflegeversicherung ausgestellt sind.
+
+<sup>2</sup> Die Meldungen gemäss Absatz 1 beinhalten zusätzlich die auf die betroffenen versicherten Personen zufallenden geschuldeten Beträge.
+
+<sup>3</sup> Der Datenaustausch zum Meldeverfahren zwischen den Versicherern und der zuständigen Verwaltungsbehörde erfolgt standardisiert und elektronisch.
+
+## 5. Prämienverbilligung
+
+### 5.1. Grundsätze
+
+#### Art. 9
+
+**Anspruchsberechtigung**
+
+<sup>1</sup> Eine Prämienverbilligung wird in der Schweiz obligatorisch krankenversicherten Personen in bescheidenen wirtschaftlichen Verhältnissen gewährt, die ihren steuerrechtlichen Wohnsitz oder Aufenthalt und ihren zivilrechtlichen Wohnsitz im Kanton haben.
+
+<sup>2</sup> Personen ohne zivilrechtlichen Wohnsitz in der Schweiz wird eine Prämienverbilligung gewährt, sofern eine bundesrechtliche Anspruchsberechtigung besteht und sie ihren steuerrechtlichen Wohnsitz oder Aufenthalt im Kanton haben.
+
+<sup>3</sup> Keine Prämienverbilligung gewährt wird:
+
+- a. quellensteuerpflichtigen Personen unter Vorbehalt von Absatz 2;
+- b. Personen, die sich freiwillig der Bundesgesetzgebung unterstellen;
+- c. in Ausbildung stehenden Personen bis zum vollendeten 25. Altersjahr, für deren Unterhalt die Eltern zur Hauptsache aufkommen;
+- d. Asylsuchenden, vorläufig Aufgenommenen, Schutzbedürftigen, anerkannten Flüchtlingen sowie weiteren Personen, bei denen der Bund die Prämie der obligatorischen Krankenpflegeversicherung übernimmt.
+
+#### Art. 10
+
+**Gesamtanspruch**
+
+<sup>1</sup> Einen Gesamtanspruch auf Prämienverbilligung haben:
+
+- a. Personen, die gemeinsam besteuert werden;
+- b. Personen, die in eheähnlicher Lebensgemeinschaft leben;
+- c. Personen und ihre volljährigen Kinder in Ausbildung bis zu deren vollendetem 25. Altersjahr, sofern sie für deren Unterhalt zur Hauptsache aufkommen;
+- d. Elternteile nicht gemeinsam besteuerter Eltern für ihre unter gemeinsamer elterlicher Sorge stehenden Kinder, sofern sie für deren Unterhalt zur Hauptsache aufkommen.
+
+<sup>2</sup> Behauptet die Person, dass keine eheähnliche Lebensgemeinschaft vorliegt, obwohl es die Einwohnerkontrolldaten nach der allgemeinen Lebenserfahrung und dem gewohnten Lauf der Dinge vermuten lassen, muss sie dies beweisen.
+
+#### Art. 11
+
+**Beginn und Ende des Anspruchs**
+
+<sup>1</sup> Das Anspruchsjahr entspricht dem Kalenderjahr, für welches die Prämien der obligatorischen Krankenpflegeversicherung geschuldet sind.
+
+<sup>2</sup> Für Neugeborene und für Personen, die im Kanton Glarus Wohnsitz nehmen, beginnt die Berechtigung am 1. Januar des auf die Geburt respektive den Zuzug folgenden Jahres.
+
+<sup>3</sup> Der Anspruch einer Person endet während des Kalenderjahres auf den auf das Ereignis folgenden Monat:
+
+- a. bei Wegzug ins Ausland;
+- b. bei ihrem Tod.
+
+#### Art. 12
+
+**Massgebende Verhältnisse**
+
+<sup>1</sup> Massgebend für die Beurteilung des Anspruchs sind die persönlichen, familiären und wirtschaftlichen Verhältnisse.
+
+<sup>2</sup> Die persönlichen und familiären Verhältnisse bestimmen sich nach den Gegebenheiten am 31. Dezember des Vorjahres.
+
+<sup>3</sup> Die wirtschaftlichen Verhältnisse bestimmen sich nach Massgabe der definitiven Veranlagung der Kantons- und Gemeindesteuern der vorletzten Steuerperiode.
+
+#### Art. 13
+
+**Verwirkung des Anspruchs**
+
+<sup>1</sup> Der Anspruch auf individuelle Prämienverbilligung verwirkt, wenn:
+
+- a. die Geltendmachung nicht innerhalb der vom Regierungsrat vorgeschriebenen Frist erfolgt;
+- b. anspruchsbegründende oder mitteilungspflichtige Änderungen nicht innerhalb der vom Regierungsrat vorgeschriebenen Fristen erfolgen;
+- c. notwendige Auskünfte nicht erteilt oder nachgeforderte Unterlagen nicht innert den behördlichen Fristen eingereicht werden.
+
+### 5.2. Berechnung
+
+#### Art. 14
+
+**Berechnung und Höhe der Prämienverbilligung**
+
+<sup>1</sup> Die Prämienverbilligung entspricht der Differenz zwischen Richtprämie und Selbstbehalt, höchstens aber der effektiven Jahresprämie für die obligatorische Krankenpflegeversicherung der anspruchsberechtigten Person.
+
+<sup>2</sup> Die Richtprämien orientieren sich in der Regel an den vom Bund jährlich festgelegten Durchschnittsprämien der Krankenpflegeversicherung für die Berechnung der Ergänzungsleistungen. Der Regierungsrat regelt die Einzelheiten. Er kann Ausnahmen festlegen.
+
+<sup>3</sup> Der Selbstbehalt entspricht einem vom Landrat nach Einkommenskategorien festgelegten prozentualen Anteil des anrechenbaren Einkommens.
+
+#### Art. 15
+
+**Anrechenbares Einkommen**
+
+<sup>1</sup> Das anrechenbare Einkommen bestimmt sich nach dem Total der Einkünfte, erhöht um einen vom Landrat festgelegten Anteil des steuerbaren Vermögens. Der Landrat kann weitere Abzüge und Zuschläge zum Total der Einkünfte bestimmen.
+
+<sup>2</sup> Bei Personen, die einen Gesamtanspruch haben, werden die anrechenbaren Einkommen zusammengezählt.
+
+<sup>3</sup> Entspricht das ermittelte anrechenbare Einkommen einer Person offensichtlich nicht ihrer aktuellen wirtschaftlichen Leistungsfähigkeit, kann auf Letztere abgestellt werden.
+
+#### Art. 16
+
+**Sonderfälle**
+
+<sup>1</sup> Personen, die mehrmals oder über wenige Monate wirtschaftliche Sozialhilfe beziehen, wird die effektive Jahresprämie für die obligatorische Krankenpflegeversicherung verbilligt, höchstens bis zum Betrag der Richtprämie.
+
+<sup>2</sup> Für quellenbesteuerte Personen mit fremdenpolizeilicher Bewilligung zum Jahresaufenthalt gilt als anrechenbares Einkommen das definitive Bruttoeinkommen des vorletzten Jahres. Liegen diese Angaben nicht vor, kann auf das Bruttoeinkommen des Vorjahres abgestellt werden.
+
+<sup>3</sup> Kinder sowie junge Erwachsene in Ausbildung gemäss Artikel 65 Absatz 1bis KVG haben Anrecht auf die jeweilige halbe Richtprämie, sofern die Berechnung gemäss Artikel 14 Absatz 1 einen tieferen Anspruch auf Prämienverbilligung ergibt und das anrechenbare Einkommen einen vom Landrat festgelegten Grenzbetrag nicht übersteigt. Der Landrat kann den Grenzbetrag abstufen.
+
+### 5.3. Verfahren
+
+#### Art. 17
+
+**Geltendmachung des Anspruchs**
+
+<sup>1</sup> Der Anspruch auf Prämienverbilligung wird auf Antrag ermittelt und ausgerichtet.
+
+<sup>2</sup> Der Regierungsrat regelt das Verfahren.
+
+#### Art. 18
+
+**Ausserordentliche Rechnungsstellung**
+
+<sup>1</sup> Die zuständigen Sozialhilfestellen können in begründeten Fällen anordnen, dass die Rechnungsstellung der Versicherer für die Prämien direkt an sie erfolgt. Ein begründeter Fall liegt namentlich vor, wenn Anlass zur Befürchtung besteht, dass die Prämien uneinbringlich werden.
+
+#### Art. 19
+
+**Abtretung des Anspruchs**
+
+<sup>1</sup> Behörden oder Personen, welche die Prämie der obligatorischen Krankenpflegeversicherung dem Versicherer bevorschussen, können sich den Anspruch auf die Prämienverbilligung abtreten lassen.
+
+#### Art. 20
+
+**Mitwirkung der Versicherer**
+
+<sup>1</sup> Die im Kanton tätigen Versicherer erteilen der zuständigen Verwaltungsbehörde auf Anfrage Auskunft über das Versicherungsverhältnis nach KVG einer Person mit Anspruch auf Prämienverbilligung.
+
+<sup>2</sup> Sie melden der zuständigen Verwaltungsbehörde auf Anfrage den gesamten Versichertenbestand für den Abgleich der Datenbestände gemäss den bundesrechtlichen Vorgaben.
+
+<sup>3</sup> Das Verfahren richtet sich nach den bundesrechtlichen Vorgaben über den Datenaustausch für die Prämienverbilligung.
+
+#### Art. 21
+
+**Rückerstattung**
+
+<sup>1</sup> Eine zu Unrecht ausgerichtete Prämienverbilligung ist zurückzuerstatten.
+
+## 6. Pflegefinanzierung
+
+### 6.1. Langzeitpflege
+
+#### Art. 22
+
+**Kostenbeteiligung der versicherten Person**
+
+<sup>1</sup> Die versicherte Person übernimmt die nicht vom Versicherer gedeckten Pflegekosten, maximal aber 20 Prozent des höchsten vom Bundesrat festgesetzten Pflegebeitrages. Absatz 2 bleibt vorbehalten.
+
+<sup>2</sup> Die Wohngemeinde kann eine tiefere Kostenbeteiligung festlegen.
+
+<sup>3</sup> Die versicherte Person schuldet die Kostenbeteiligung direkt dem Leistungserbringer.
+
+#### Art. 23
+
+**Restfinanzierung**
+
+<sup>1</sup> Die Wohngemeinde übernimmt die nicht vom Versicherer und nicht durch die Kostenbeteiligung der versicherten Person gedeckten Pflegekosten.
+
+<sup>2</sup> Bei stationärer Pflege in einer Einrichtung gemäss Artikel 39 Absatz 3 KVG ausserhalb der Wohngemeinde sind grundsätzlich die Tarif- respektive Finanzierungsvorgaben der Standortgemeinde massgebend. Verbleibt die versicherte Person auf eigenen Wunsch in der Einrichtung, obwohl ihr ein geeigneter Platz in einer Institution in der Wohngemeinde angeboten wurde, kann die Wohngemeinde den Beitrag an die nicht gedeckten Pflegekosten auf den für ihr Gemeindegebiet geltenden Ansatz begrenzen.
+
+<sup>3</sup> Der Kanton übernimmt in Abweichung der Absätze 1 und 2 die nicht vom Versicherer und nicht durch die Kostenbeteiligung der versicherten Person gedeckten Pflegekosten von auf der Pflegeheimliste geführten Einrichtungen für Menschen mit Behinderungen.
+
+### 6.2. Akut- und Übergangspflege
+
+#### Art. 24
+
+**Kostenanteil Kanton, Leistungserbringer**
+
+<sup>1</sup> Der kantonale Anteil an die Leistungen der Akut- und Übergangspflege (Art. 25a Abs. 2 KVG) beträgt 55 Prozent.
+
+<sup>2</sup> Der Regierungsrat erteilt bei nachgewiesenem Bedarf Leistungsaufträge für die Akut- und Übergangspflege. Beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen. Für jeden Leistungserbringer ist eine Haftung aus rechtmässigem Verhalten (Art. 7 Staatshaftungsgesetz[^24-1]) bei der medizinischen Untersuchung, Behandlung und Pflege ausgeschlossen.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten, namentlich die Ermittlung von Kosten und Leistungen, das Vergütungsverfahren und das Verfahren betreffend Haftung von beauftragten Organisationen des Privatrechts.
+
+[^24-1]: GS [II F/2](https://gesetze.gl.ch/data/II-F.2/de)
+
+## 7. Spitalplanung und -finanzierung
+
+#### Art. 25
+
+**Aufnahmekriterien**
+
+<sup>1</sup> Die Aufnahme eines Leistungserbringers auf die Spital- oder die Pflegeheimliste ist von der Erfüllung von Qualitäts- und Wirtschaftlichkeitskriterien sowie weiteren Auflagen abhängig, insbesondere von der Einhaltung der Aufnahmepflicht im Sinne von Artikel 41a KVG, der Beteiligung am Notfalldienst, dem Nachweis eines Nachversorgungskonzeptes oder der Aus- und Weiterbildung für Berufe des Gesundheitswesens.
+
+<sup>2</sup> Ein Leistungserbringer kann für einzelne Leistungen seines stationären Angebotes auf die Spitalliste aufgenommen werden.
+
+<sup>3</sup> Über die Planung sowie Anpassungen der Spital- und Pflegeheimlisten erstattet der Regierungsrat dem Landrat Bericht.
+
+#### Art. 26
+
+**Leistungsaufträge**
+
+<sup>1</sup> Der Regierungsrat erteilt jedem auf der Spitalliste geführten Leistungserbringer einen Leistungsauftrag. Die Leistungserbringung ist auf den im Auftrag bezeichneten Standort beschränkt.
+
+<sup>2</sup> Die Weiter- und Untervergabe von Leistungsaufträgen ist für medizinische Supportleistungen an Dritte nur zulässig, sofern sie die Versorgungssicherheit nicht gefährdet.
+
+<sup>3</sup> Bei schweren oder wiederholten Verstössen gegen den Leistungsauftrag kann der Regierungsrat diesen ohne Kompensation ganz oder teilweise entziehen sowie geleistete Abgeltungen zurückfordern.
+
+#### Art. 27
+
+**Referenztarif**
+
+<sup>1</sup> Als Referenztarif für frei gewählte stationäre Behandlungen in einem Listenspital ausserhalb der Spitalliste des Wohnsitzkantons (Art. 41 Abs. 1bis KVG) gilt der jeweils günstigste Tarif für die betreffende Behandlung in einem Listenspital auf der Spitalliste des Kantons Glarus.
+
+#### Art. 28
+
+**Mitwirkungs- und Auskunftspflicht**
+
+<sup>1</sup> Die Leistungserbringer gemäss Artikel 26 Absatz 1 und die Versicherer sind verpflichtet, den zuständigen Verwaltungsbehörden die für die Zulassung von Leistungserbringern sowie für die Genehmigung beziehungsweise Festsetzung von Tarifen notwendigen Daten unentgeltlich zur Verfügung zu stellen.
+
+<sup>2</sup> Der Regierungsrat kann die Leistungserbringer sowie die Versicherer zur unentgeltlichen Lieferung weiterer Daten verpflichten.
+
+<sup>3</sup> Die Daten können zu statistischen Zwecken oder zum Vergleich mit anderen Spitälern in anonymisierter Form veröffentlicht werden.
+
+## 8. Datenschutz
+
+#### Art. 29
+
+**Datenschutz**
+
+<sup>1</sup> Die zuständigen Verwaltungsbehörden sind berechtigt, für die Erfüllung der sich aus diesem Gesetz sowie der Bundesgesetzgebung ergebenden Aufgaben, Personendaten einschliesslich besonders schützenswerter Personendaten, zu bearbeiten oder durch beauftragte Dritte bearbeiten zu lassen.
+
+<sup>2</sup> Sie können dafür insbesondere die notwendigen Personendaten gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^29-1] nutzen.
+
+<sup>3</sup> Die notwendigen Personendaten dürfen ohne Anfrage gemeldet oder im Abrufverfahren bekannt gegeben werden.
+
+[^29-1]: GS [I C/21/2](https://gesetze.gl.ch/data/I-C.21.2/de)
+
+## 9. Rechtspflege
+
+#### Art. 30
+
+**Im Allgemeinen**
+
+<sup>1</sup> Der Rechtsschutz gegen Verfügungen gestützt auf dieses Gesetz richtet sich unter Vorbehalt anderslautender bundesrechtlicher Vorgaben sowie der nachfolgenden Ausnahmen nach dem Verwaltungsrechtspflegegesetz[^30-1].
+
+[^30-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+
+#### Art. 31
+
+**Rechtsmittel gegen Prämienverbilligungsentscheide**
+
+<sup>1</sup> Gegen Verfügungen der zuständigen Verwaltungsbehörde kann binnen 30 Tagen seit Zustellung bei der verfügenden Instanz schriftlich und begründet Einsprache erhoben werden. Das Einspracheverfahren ist kostenlos.
+
+<sup>2</sup> Gegen Einspracheentscheide der zuständigen Verwaltungsbehörde kann binnen 30 Tagen seit Zustellung beim Verwaltungsgericht Beschwerde erhoben werden.
+
+#### Art. 32
+
+**Kantonales Versicherungsgericht**
+
+<sup>1</sup> Das Verwaltungsgericht beurteilt als kantonales Versicherungsgericht Streitigkeiten zwischen Versicherern und den versicherten Personen sowie alle übrigen Streitigkeiten aus der Anwendung des Bundesgesetzes über die Krankenversicherung, soweit dieses hierfür keine andere Behörde vorsieht.
+
+<sup>2</sup> Das Verfahren richtet sich unter Vorbehalt der bundesrechtlichen Ausnahmen in erster Linie nach den besonderen Verfahrensbestimmungen des Bundesgesetzes über den Allgemeinen Teil des Sozialversicherungsrechts (Art. 56 ff. ATSG). Subsidiär sind die Bestimmungen des Verwaltungsrechtspflegegesetzes anwendbar.
+
+#### Art. 33
+
+**Kantonales Schiedsgericht**
+
+<sup>1</sup> Das Schiedsgericht für Streitigkeiten zwischen Versicherern und Leistungserbringern besteht aus dem Verwaltungsgerichtspräsidenten als Vorsitzenden und je zwei Vertretern der Versicherer und der betroffenen Leistungserbringer als Schiedsrichter.
+
+<sup>2</sup> Der Verwaltungsgerichtspräsident ernennt fallweise die jeweiligen Mitglieder des Schiedsgerichts auf Vorschlag der Parteien und bezeichnet den Sekretär. Die Entschädigung der Schiedsrichter richtet sich nach den kantonalen Vorschriften.
+
+<sup>3</sup> Das Verfahren vor dem Schiedsgericht richtet sich, unter Vorbehalt der besonderen Bestimmungen des Krankenversicherungsgesetzes, nach den Bestimmungen des Verwaltungsrechtspflegegesetzes.
+
+#### Art. 34
+
+**Strafbestimmung**
+
+<sup>1</sup> Mit Busse bis 10'000 Franken wird bestraft, wer vorsätzlich in Verletzung seiner Mitwirkungspflicht gemäss diesem Gesetz unwahre Angaben macht oder in anderer Weise für sich oder andere Leistungen nach diesem Gesetz erwirkt.
+
+SBE 2015 35

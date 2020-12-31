@@ -1,0 +1,284 @@
+---
+canton: GL
+number: III I/1
+title: Anwaltsgesetz des Kantons Glarus
+language: de
+version: 2011-01-01
+valid_until: 2022-06-30
+version_adopted: 2010-05-02
+adopted: 2002-05-05
+in_force: 2002-07-01
+url: "https://gesetze.gl.ch/app/de/texts_of_law/III-I.1"
+pdf: "https://gesetze.gl.ch/api/de/versions/699/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Anwaltsgesetz des Kantons Glarus
+
+Vom 05.05.2002 (Stand 01.01.2011)
+
+Die Landsgemeinde,
+
+gestützt auf das Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen und Anwälte sowie Artikel 69 Absatz 1 Buchstabe b der Kantonsverfassung,
+
+beschliesst:
+
+## 1. Geltungsbereich und Grundsätze
+
+#### Art. 1
+
+**Gegenstand**
+
+<sup>1</sup> Dieses Gesetz regelt die Ausübung des Anwaltsberufs im Kanton Glarus und vollzieht das Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte (BGFA).
+
+#### Art. 2
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieses Gesetz gilt für Personen, die über ein Anwaltspatent verfügen und Parteien vor glarnerischen Gerichten vertreten oder im Kanton Glarus mit entsprechender Berufsbezeichnung beratend tätig sind.
+
+#### Art. 3
+
+**Berechtigung zur Parteivertretung**
+
+<sup>1</sup> Soweit das Gesetz keine Ausnahmen vorsieht, sind zur Vertretung und Verbeiständung von Parteien vor den glarnerischen Gerichten und Strafverfolgungsbehörden nur Personen berechtigt, welche im kantonalen Anwaltsregister gemäss Artikel 5 BGFA eingetragen sind oder Freizügigkeit nach Bundesrecht geniessen.
+
+<sup>2</sup> Die Anwaltskommission erteilt auf Gesuch hin Rechtsanwältinnen und Rechtsanwälten, die in einem kantonalen Anwaltsregister eingetragen sind, die Bewilligung, die bei ihnen tätigen Praktikumsangestellten unter ihrer Leitung und Verantwortung zur Prozessvertretung im Kanton Glarus einzusetzen, sofern diese die Voraussetzungen von Artikel 7 Absatz 1 Buchstabe a und Artikel 8 Absatz 1 Buchstaben a–d BGFA erfüllen. Die Substitutionsbewilligung wird für höchstens drei Jahre erteilt; sie kann in Härtefällen verlängert, andererseits bei begründetem Anlass auch wieder entzogen werden.
+
+## 2. Anwaltskommission
+
+#### Art. 4
+
+**Zusammensetzung**
+
+<sup>1</sup> Die Anwaltskommission besteht aus fünf Mitgliedern und konstituiert sich selbst.
+
+<sup>2</sup> Die Mitglieder der Anwaltskommission müssen entweder ein Rechtsanwaltspatent besitzen, welches zur Eintragung in ein kantonales Anwaltsregister berechtigt, oder ein juristisches Studium mit einem Lizentiat einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat, abgeschlossen haben. Sie müssen verwaltungsunabhängig sein. Sie dürfen weder dem selben Anwaltsbüro angehören noch in den letzten fünf Jahren vor einer allfälligen Wahl diszipliniert worden sein. Ein während der Amtszeit diszipliniertes Mitglied verliert seine Mitgliedschaft.
+
+#### Art. 5
+
+**Wahl**
+
+<sup>1</sup> Der Landrat wählt die Mitglieder und Ersatzmitglieder der Anwaltskommission auf eine Amtsdauer von vier Jahren, welche derjenigen der Gerichtsbehörden entspricht. Es können auch Personen gewählt werden, die im Kanton nicht stimmberechtigt sind.
+
+<sup>2</sup> Der Glarner Anwaltsverband und die Verwaltungskommission der Gerichte schlagen zu Handen des Landrates je zwei Kommissions- und Ersatzmitglieder vor, der Regierungsrat je ein ordentliches und ein Ersatzmitglied.
+
+#### Art. 6
+
+**Organisation**
+
+<sup>1</sup> Die Anwaltskommission ist mit fünf Mitgliedern beschlussfähig. Im Übrigen gilt Artikel 51 Absätze 2 - 4 des Gerichtsorganisationsgesetzes analog.
+
+<sup>2</sup> Sie kann zur Durchführung und Abnahme der Anwaltsprüfungen sowie der Eignungsprüfungen nach Artikel 31 BGFA geeignete Fachpersonen beiziehen.
+
+<sup>3</sup> Sie bestimmt ein Aktuariat.
+
+<sup>4</sup> Kann die Anwaltskommission in einer Sache wegen Ausstands- oder anderen Verhinderungsgründen nicht vollständig besetzt werden, können ausserordentliche Mitglieder oder ausserordentliche Ersatzmitglieder beigezogen werden. Der Vorsitzende der Anwaltskommission gelangt mit einem Vorschlag an den Anwaltsverband, die Verwaltungskommission der Gerichte und den Regierungsrat, welche sich über die beizuziehenden Personen verständigen.
+
+#### Art. 7
+
+**Zuständigkeiten**
+
+<sup>1</sup> Die Anwaltskommission ist die kantonale Aufsichtsbehörde über die Anwältinnen und Anwälte (Art. 14 BGFA) und erfüllt alle Aufgaben gemäss dem Bundesgesetz über die Freizügigkeit der Anwältinnen und Anwälte und gemäss diesem Gesetz. Sie:
+
+- a. nimmt die Anwaltsprüfung ab und erteilt das Rechtsanwaltspatent;
+- b. führt das Anwaltsregister des Kantons Glarus (Art. 5 Abs. 3 BGFA);
+- c. bezeichnet die anerkannten gemeinnützigen Organisationen (Art. 8 Abs. 2 BGFA);
+- d. gewährt Einsicht in das Anwaltsregister des Kantons Glarus und erteilt Auskunft, ob eine Anwältin oder ein Anwalt im Anwaltsregister des Kantons Glarus eingetragen ist und ob gegen sie oder ihn ein Berufsausübungsverbot verhängt ist (Art. 10 BGFA);
+- e. führt die öffentliche Liste der Angehörigen von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA), die in der Schweiz unter ihrer ursprünglichen Berufsbezeichnung ständig Parteien vor Gerichtsbehörden vertreten dürfen (Liste der EU oder EFTA-Anwältinnen und -Anwälte; Art. 28 Abs. 1 BGFA);
+- f. gewährt Einsicht in die Liste der EU- oder EFTA-Anwältinnen und -Anwälte und erteilt Auskunft, ob eine Person in diese Liste eingetragen ist und ob gegen diese ein Berufsausübungsverbot verhängt ist;
+- g. führt die Eignungsprüfung oder das Gespräch zur Prüfung der beruflichen Fähigkeiten durch (Art. 30 BGFA);
+- h. entbindet Anwältinnen und Anwälte vom Berufsgeheimnis;
+- i. entscheidet darüber, ob eine Bewerberin oder ein Bewerber zur Anwaltsprüfung zugelassen wird;
+- k. legt den Tarif für die Entschädigungen im Rahmen der amtlichen Pflichtverteidigungen und unentgeltlichen Rechtspflege (Art. 12 BGFA) fest, welcher der Genehmigung durch den Landrat unterliegt.
+
+#### Art. 8
+
+**Kompetenzdelegation**
+
+<sup>1</sup> Die Anwaltskommission kann einzelne administrative Aufgaben, namentlich die Erteilung von Substitutionsbewilligungen sowie die Eintragung im Anwaltsregister oder die Führung des Verzeichnisses und der Liste der im Kanton Glarus unter ihrer ursprünglichen Berufsbezeichnung tätigen Rechtsanwältinnen und Rechtsanwälte aus der EU oder der EFTA, an das Präsidium delegieren.
+
+<sup>2</sup> Das Präsidium trifft ferner die notwendigen Anordnungen, wenn Gefahr im Verzug ist.
+
+## 3. Anwaltspatent und Anwaltsregister
+
+#### Art. 9
+
+**Anwaltspatent**
+
+<sup>1</sup> Die Anwaltskommission erteilt das Glarner Anwaltspatent Bewerberinnen und Bewerbern, welche die fachlichen Voraussetzungen im Sinne von Artikel 7 BGFA erfüllen und die glarnerische Anwaltsprüfung bestanden haben.
+
+<sup>2</sup> Die Anwaltskommission bestimmt in einem Reglement[^9-1] die Einzelheiten der Anwaltsprüfung, welche eine Prüfung über die theoretischen und praktischen Kenntnisse zu umfassen hat, sowie die Modalitäten des für die Zulassung zur Prüfung erforderlichen Praktikums.
+
+<sup>3</sup> Das Anwaltspatent erbringt den Nachweis der fachlichen Voraussetzungen im Sinne von Artikel 7 BGFA für die Eintragung im kantonalen Anwaltsregister und berechtigt die Inhaberin oder den Inhaber unter der Berufsbezeichnung «Rechtsanwältin» oder «Rechtsanwalt» oder unter einem gleichwertigen Titel aufzutreten.
+
+[^9-1]: GS [III I/3](https://gesetze.gl.ch/data/III-I.3/de)
+
+#### Art. 10
+
+**Anwaltsregister**
+
+<sup>1</sup> Die Anwaltskommission führt das kantonale Anwaltsregister nach Massgabe von Artikel 5 BGFA.
+
+<sup>2</sup> Jede Neueintragung im Anwaltsregister ist im kantonalen Amtsblatt zu publizieren, ebenso die Löschung des Registereintrages.
+
+#### Art. 11
+
+**Eintragung im Anwaltsregister**
+
+<sup>1</sup> Im Anwaltsregister wird eine Person eingetragen, wenn sie den schriftlichen Nachweis erbringt, dass sie die fachlichen und persönlichen Voraussetzungen nach dem Bundesrecht erfüllt.
+
+<sup>2</sup> Unter Vorbehalt der Vorschriften des Bundesgesetzes über die Freizügigkeit der Anwältinnen und Anwälte regelt die Anwaltskommission die Anforderungen an die Eignungsprüfung sowie das Gespräch zur Prüfung der beruflichen Fähigkeiten für Angehörige von Mitgliedstaaten der EU oder der EFTA, welche sich in das Anwaltsregister eintragen lassen wollen.
+
+<sup>3</sup> Wer im Anwaltsregister eingetragen ist, muss den Wegfall einer Eignungsvoraussetzung und die Änderung registrierter Daten unverzüglich der Anwaltskommission melden.
+
+#### Art. 12
+
+**Löschung im Anwaltsregister**
+
+<sup>1</sup> Die Anwaltskommission löscht den Eintrag im Anwaltsregister, wenn eine der Voraussetzungen des Registereintrags nicht mehr erfüllt ist.
+
+<sup>2</sup> Die Löschung kann auf Antrag oder von Amtes wegen erfolgen. Soweit die eingetragene Person nicht selber auf die Eintragung verzichtet, sind die Vorschriften des Disziplinarverfahrens sinngemäss anwendbar.
+
+## 4. Berufsregeln und Aufsicht
+
+#### Art. 13
+
+**Berufsregeln**
+
+<sup>1</sup> Für Rechtsanwältinnen und Rechtsanwälte, die im Kanton Glarus Parteien vor Gericht vertreten oder mit entsprechender Berufsbezeichnung beratend tätig sind, gelten die Berufspflichten gemäss den Artikeln 12 und 13 BGFA unabhängig von der Eintragung im Anwaltsregister.
+
+<sup>2</sup> Die Rechtsanwälte und Rechtsanwältinnen unterstehen der Aufsicht und der Disziplinargewalt der Aufsichtsbehörde, unabhängig von der Eintragung im Anwaltsregister.
+
+#### Art. 14
+
+**Disziplinarverfahren**
+
+<sup>1</sup> Disziplinarverfahren werden von Amtes wegen oder auf schriftliche Anzeige hin durchgeführt. Die anzeigende Person oder Behörde ist im Disziplinarverfahren nicht Partei.
+
+<sup>2</sup> Soweit sich aus Bundesrecht nichts anderes ergibt, sind die Bestimmungen des Verwaltungsrechtspflegegesetzes[^14-1] anwendbar.
+
+<sup>3</sup> Die Beschlüsse der Anwaltskommission sind der betroffenen Anwältin oder dem betroffenen Anwalt sowie den im Bundesrecht vorgesehenen Behörden schriftlich zu eröffnen.
+
+[^14-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+
+#### Art. 15
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Ist eine Verletzung der Berufsregeln durch eine Rechtsanwältin oder einen Rechtsanwalt erstellt, kann eine Disziplinarmassnahme nach Artikel 17 BGFA angeordnet werden.
+
+<sup>2</sup> Wenn schwerwiegende Gründe es rechtfertigen, insbesondere wenn ein Verbot der Berufsausübung von über einem Jahr mit hoher Wahrscheinlichkeit zu erwarten ist, kann die anwaltliche Betätigung schon während der Dauer des Disziplinarverfahrens vorsorglich untersagt werden (Art. 17 Abs. 3 BGFA).
+
+<sup>3</sup> Die Dauer des vorsorglichen Verbotes der Berufsausübung ist auf ein befristetes Verbot anzurechnen.
+
+<sup>4</sup> Ein Berufsausübungsverbot ist im Amtsblatt zu veröffentlichen.
+
+## 5. Rechtsschutz
+
+#### Art. 16
+
+**Beschwerde an das Verwaltungsgericht**
+
+<sup>1</sup> Gegen Entscheide der Anwaltskommission sowie des Präsidiums nach Artikel 8 Absatz 1 kann beim Verwaltungsgericht nach den Vorschriften des Verwaltungsrechtspflegegesetzes Beschwerde erhoben werden.
+
+<sup>2</sup> Gegen die Eintragungen ins kantonale Anwaltsregister steht das Beschwerderecht auch dem Glarner Anwaltsverband zu.
+
+## 6. Anwaltshonorar
+
+#### Art. 17
+
+**Grundsatz**
+
+<sup>1</sup> Die Honorierung der Rechtsanwältin oder des Rechtsanwaltes durch die Klientschaft richtet sich nach der Honorarvereinbarung mit der Klientschaft.
+
+#### Art. 18
+
+**…**
+
+## 7. Rechtsanwältinnen und Rechtsanwälte aus Mitgliedstaaten der EU oder der EFTA
+
+#### Art. 19
+
+**Vorübergehende Berufsausübung**
+
+<sup>1</sup> Die Gerichte des Kantons Glarus verlangen von Angehörigen von Mitgliedstaaten der EU oder der EFTA im Falle der vorübergehenden Berufsausübung gemäss Artikel 21 Absatz 1 BGFA den Nachweis, dass sie berechtigt sind, den Anwaltsberuf im Herkunftsstaat unter einer anerkannten Berufsbezeichnung auszuüben.
+
+<sup>2</sup> Die Anwaltskommission kann ein Verzeichnis der erfolgten Nachweise führen.
+
+#### Art. 20
+
+**Ständige Berufsausübung unter der ursprünglichen Berufsbezeichnung**
+
+<sup>1</sup> Die Anwaltskommission führt eine öffentliche Liste der Angehörigen von Mitgliedstaaten der EU oder der EFTA, die aufgrund ihrer Tätigkeit im Herkunftsstaat berechtigt sind, unter ihrer ursprünglichen Berufsbezeichnung ständig Parteien vor den Glarner Gerichten zu vertreten.
+
+<sup>2</sup> Die Eintragung in die öffentliche Liste setzt eine Geschäftsadresse im Kanton Glarus voraus und wird, gleich wie die Löschung des Eintrages, im kantonalen Amtsblatt publiziert.
+
+## 8. Kosten und Entschädigungen
+
+#### Art. 21
+
+**Gebühren**
+
+<sup>1</sup> Für Amtshandlungen, die aufgrund dieses Gesetzes vorzunehmen sind, können nach Massgabe des Verwaltungsrechtspflegegesetzes und der Verordnung über amtliche Kosten im Verwaltungsverfahren und in der Verwaltungsrechtspflege[^21-1] sowie des Reglements über die Anwaltsprüfung Gebühren erhoben werden.
+
+<sup>2</sup> Die Eintragungen im Anwaltsregister und in der öffentlichen Liste sind kostenlos.
+
+<sup>3</sup> Die Anwaltskommission setzt die Gebühren für die Anwaltsprüfung, die Eignungsprüfung und das Gespräch zur Prüfung der beruflichen Fähigkeiten im Reglement (Art. 9 Abs. 2) fest.
+
+[^21-1]: GS [III G/2](https://gesetze.gl.ch/data/III-G.2/de)
+
+#### Art. 22
+
+**Kosten- und Entschädigungspflicht im Disziplinarverfahren**
+
+<sup>1</sup> Die Kosten des Disziplinarverfahrens werden der Rechtsanwältin oder dem Rechtsanwalt auferlegt, wenn eine Disziplinierung erfolgt oder das Verfahren schuldhaft veranlasst wurde. Im Falle einer mutwilligen Anzeige wird die anzeigende Person oder Behörde kosten- und gegebenenfalls auch entschädigungspflichtig; in den übrigen Fällen trägt der Staat die Kosten.
+
+#### Art. 23
+
+**Kosten- und Entschädigungspflicht im Rechtsmittelverfahren**
+
+<sup>1</sup> Im Rechtsmittelverfahren richten sich die Kosten- und Entschädigungspflicht nach den Vorschriften des Verwaltungsrechtspflegegesetzes.
+
+## 9. Strafbestimmung
+
+#### Art. 24
+
+**Unerlaubte Titelverwendung**
+
+<sup>1</sup> Wer sich unbefugterweise als Rechtsanwältin oder Rechtsanwalt bezeichnet oder einen gleichwertigen Titel verwendet, wird mit Busse bis zu 5000 Franken, im Wiederholungsfall bis zu 20'000 Franken, bestraft. Zudem kann eine Publikation des Entscheides im Amtsblatt erfolgen.
+
+<sup>2</sup> Vorbehalten ist die Bezeichnung als Patentanwältin oder Patentanwalt.
+
+## 10. Übergangs- und Schlussbestimmungen
+
+#### Art. 25
+
+**Eintragung im Anwaltsregister**
+
+<sup>1</sup> Rechtsanwältinnen und Rechtsanwälte, die beim Inkrafttreten dieses Gesetzes über das glarnerische Anwaltspatent verfügen und im Kanton wohnhaft sind, werden von Amtes wegen und ohne Erhebung von Gebühren im kantonalen Anwaltsregister eingetragen.
+
+#### Art. 26
+
+**Hängige Disziplinarfälle**
+
+<sup>1</sup> Die im Zeitpunkt des Inkrafttretens dieses Gesetzes hängigen Disziplinarfälle werden nach dem bisherigen Recht behandelt. Sofern die Bestimmungen dieses Gesetzes für die Betroffene oder den Betroffenen günstiger sind, gelangen diese zur Anwendung.
+
+#### Art. 27
+
+**Änderung bisherigen Rechts[^27-1]**
+
+[^27-1]: Die Änderungen wurden in den betroffenen Erlassen eingefügt.
+
+#### Art. 28
+
+**Inkrafttreten**
+
+<sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
+
+Datum des Inkrafttretens: 1. Juli 2002[^footer-1]
+
+SBE VIII/4 227
+
+[^footer-1]: B des RR vom 11. Juni 2002

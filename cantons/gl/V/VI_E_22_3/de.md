@@ -1,0 +1,41 @@
+---
+canton: GL
+number: VI E/22/3
+title: Bannbezirksgrenzen
+language: de
+version: 1971-06-30
+valid_until: 2023-07-31
+version_adopted: 1971-06-30
+adopted: 1971-06-30
+in_force: 1971-06-30
+url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.22.3"
+pdf: "https://gesetze.gl.ch/api/de/versions/1079/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Bannbezirksgrenzen
+
+Vom 30.06.1971 (Stand 30.06.1971)[^t-1]
+
+[^t-1]: Vgl. Verordnung des BR über die eidg. Jagdbanngebiete (SR [922.31](https://db.clex.ch/link/Bund/922.31/de))
+
+#### Ziff. 1
+
+**Kärpf**
+
+<sup>1</sup> Grenzen: Von der Mündung des Sernf in die Linth dem rechten Ufer der Linth nach bis zur Einmündung des Durnagels, von hier dem Durnagel nach aufwärts bis zur Einmündung des Richetlibaches. Von hier die Runse hinauf bis zum Sattel (P. 2006) nördlich vom Vorstegstock und von da dem Grat nach zum Vorstegstock, Scheidstöckli, Punkt 2809,6, Hintersulzhorn (P. 2738), Ruchi (P. 3001), Hausstock, Mättlenstöck, Leiterberg (P. 2669,3), Richetlipass (P. 2261), Chalchstöckli, Hahnenstock bis zum Punkt 2508. Von hier in östlicher Richtung gegen Punkt 2515 und von da den untersten Felsbändern entlang zum Punkt 2269,3, von hier den untersten Felsbändern entlang zum Tierbodenhorn (P. 1940). Von hier dem Grenzfried zwischen den Alpen Bischof und Erbs nach hinunter zum Bischofbach und diesem nach bis zu seiner Einmündung in den Sernf. Von hier dem linken Ufer des Sernf nach bis zu seiner Einmündung in die Linth.
+
+#### Ziff. 2
+
+**Rauti-Tros**
+
+<sup>1</sup> Grenzen: Vom östlichen Ufer des Obersees der Alpmauer entlang, welche die Rinderweid vom Ochsenberg trennt, aufwärts bis zum Kratzernkopf bei Punkt 1197, von dort dem Weglein entlang zum Kratzernboden, von hier an den Fuss der Felswände im Bärenstich. Die Grenze ist hier bezeichnet durch ein grosses rotes Kreuz am Felsen. Dem Fuss der Felsbänder im Bärenstich nach auf die Furkel am Übergang zum Wiggisalpeli (P. 1599). Von dieser Furkel über die obersten Gräte der Wiggis-Felswände, d. h. über Rautispitz (P. 2283) zum Punkt 2282, von da dem obern Rand des Felsabsturzes nach über Gumenstock, Schijen, bis zum Stich, von hier der Alpmauer und den roten Markier-Kreuzen nach bis zum Lachenbach. Hier ist als hintere Grenze ein Felsblock mit einem roten Kreuz bezeichnet. Von diesem Felsblock an dem Weg nach Sulz entlang bis zur Quelle des Sulzbaches bei den Hütten von Sulz. Dem Sulzbach nach bis zu seinem Zusammenfluss mit dem Lachenbach und dem Bach nach bis zu dessen Einmündung in den Obersee, dann dem hintern und rechten Seeufer nach bis zur Alpmauer am östlichen Ufer des Sees.
+
+#### Ziff. 3
+
+**Schilt**
+
+<sup>1</sup> Grenzen: Von der Linthbrücke Glarus-Ennetbühls in gerader Richtung zum Weinberg in Ennetbühls, von da der Plattenruns nach hinauf bis zum Plattenkopf, zum Hüttenkopf; von hier dem obern Rand der Felswand entlang bis zum kleinen Schlafstein (P. 2056,5), um diesen nördlich herum und hinauf zum obern Rand der Nordwand des Schilt und um den Schiltgipfel herum an den Südfuss der Siwellen. Über den Grat der Siwellen zum Punkt 2306,7, dann östlich zur Rot Erd (P. 2216). Von hier der Gemeindegrenze entlang über Wiss-Chamm (P. 2348), Punkt 2384,7, Punkt 2261 (westlich Heustock), Punkt 2054, Chrisegg (P. 1987,2) zum Achseli (P. 1410) und von hier in gerader Richtung dem Eschenritt nach hinunter zur Linth bei Ennetlinth. Dem rechten Ufer der Linth nach bis zur Linthbrücke in Glarus-Ennetbühls.
+
+LB 5 197
