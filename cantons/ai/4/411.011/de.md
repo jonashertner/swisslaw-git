@@ -1,0 +1,348 @@
+---
+canton: AI
+number: "411.011"
+title: Standeskommissionsbeschluss zum Schulgesetz
+short: StKB SchG
+language: de
+version: 2018-08-01
+corrected: 2020-05-11
+version_adopted: 2018-09-18
+adopted: 2005-08-16
+in_force: 2005-08-01
+url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
+pdf: "https://ai.clex.ch/api/de/versions/1630/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Standeskommissionsbeschluss zum Schulgesetz
+
+vom 16.08.2005 (Stand 01.08.2018)
+
+Die Standeskommission des Kantons Appenzell I.Rh.,
+
+gestützt auf Art. 39 des Schulgesetzes vom 25. April 2004 (SchG) sowie Art. 11 und Art. 11a der Schulverordnung vom 21. Juni 2004 (SchV),
+
+beschliesst:
+
+## A. Besoldung der Lehrpersonen
+
+#### Art. 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieser Beschluss gilt für die Besoldung der Lehrpersonen des Kindergartens, der Vorschulklassen, der Einführungsklassen, des textilen Werkens und der Hauswirtschaft, des Deutschunterrichts als Zweitsprache, der Primarschule, der Sekundarstufe l, der Kleinklassen, der schulischen Heilpädagogik und des Sports.
+
+<sup>2</sup> Für die Lehrpersonen des Gymnasiums gelten die Bestimmungen der Gymnasialverordnung sowie der ergänzenden Standeskommissionsbeschlüsse.
+
+<sup>3</sup> Hinsichtlich gemeinsam geführter Bildungseinrichtungen im Sinne von Art. 5 Abs. 1 SchG können die Schulgemeinden die personalrechtlichen Bestimmungen frei festlegen.
+
+#### Art. 2
+
+**Besoldung**
+
+<sup>1</sup> Für die Lehrpersonen gelten nach Kategorie und Stufen unterteilte Besoldungsskalen. Bei der Festlegung der Besoldungsskalen werden das Ausbildungsniveau, die Ausbildungsdauer, das Verhältnis von Unterrichtszeit und unterrichtsfreier Arbeitszeit sowie die Verhältnisse in den übrigen, namentlich in den benachbarten Kantonen, berücksichtigt.
+
+<sup>2</sup> Für die Turn- und Sportlehrpersonen mit Fachdiplom ETH, Universität oder Fachhochschule gilt die Besoldung der Sekundarstufe l.
+
+<sup>3</sup> Fachlehrpersonen, welche die nötige Qualifikation zum Unterrichten der entsprechenden Stufe vorweisen, erhalten das Gehalt der Stufe, in welcher sie unterrichten. Das Schulamt stellt die Qualifikation in der Regel anhand der Ausbildungsabschlüsse bzw. der Diplome fest.
+
+<sup>4</sup> Die Hausaufgabenhilfen sowie die Lehrpersonen für den Deutschunterricht für Fremdsprachige werden nach den Ansätzen gemäss Tabelle entschädigt. Die Schulgemeinden können weitere Punkte mittels Arbeitsvertrag regeln. Die Ansätze für Förderlehrpersonen und die Legasthenietherapeuten[^2-1] werden im Arbeitsvertrag geregelt.
+
+[^2-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
+
+#### Art. 3
+
+**Besoldungstabelle**
+
+<sup>1</sup> Die Besoldungstabelle der Lehrpersonen gemäss Beschluss der Schulrätekonferenz wird diesem Beschluss als Anhang beigefügt.
+
+#### Art. 4
+
+**Zulagen**
+
+<sup>1</sup> Es gilt das Gesetz über die Familienzulagen vom 27. April 2008 (FZG).
+
+#### Art. 5
+
+**Entschädigung bei drei Klassen**
+
+<sup>1</sup> Lehrpersonen, die drei nicht parallele Klassen mit mindestens 16 Schülern unterrichten, erhalten eine Zulage in der Höhe einer zusätzlichen Lektion, sofern die Unterrichtszeit nach Art. 23 dieses Beschlusses eingehalten wird.
+
+#### Art. 6
+
+**Zulagen bei grossen Schülerzahlen**
+
+<sup>1</sup> Lehrpersonen, die vorübergehend Klassen mit Beständen über den Normen von Art. 12 SchV führen, erhalten für diese Zeit eine Zulage in der Höhe von Fr. 1'920.--.
+
+#### Art. 7
+
+**Anrechnung der Dienstjahre**
+
+<sup>1</sup> Für die Einstufung in die Gehaltsskalen zählen die Jahre der Lehrtätigkeit. Bei Dienstantritt im ersten Schulsemester wird das betreffende Schuljahr voll als Dienstjahr angerechnet. Bei Dienstantritt während des 2. Schulsemesters wird der Rest dieses Schuljahres nicht mehr als Dienstjahr angerechnet. Erst das nachfolgende Schuljahr gilt als 1. Dienstjahr.
+
+<sup>2</sup> Die Stufenerhöhung wird gewährt:
+
+- a) bei einem Pflichtpensum von 31 Lektionen ab 15 Lektionen
+- b) bei einem Pflichtpensum von 29 Lektionen ab 14 Lektionen
+
+<sup>3</sup> Bei Neuanstellungen werden in der Regel nur Tätigkeiten im Schulbereich voll als Dienstjahre angerechnet. Ausnahmsweise kann der Schulrat mit Einverständnis des Schulamtes Tätigkeiten im erzieherischen Bereich oder in Bereichen, die in besonderem Masse für die Schule dienlich sein können (z.B. Kindererziehung), zu 25% an den Dienstjahren anrechnen.
+
+<sup>4</sup> Sind die Leistungen einer Lehrperson ungenügend, kann der Schulrat nach Rücksprache mit dem Schulamt bzw. auf dessen Antrag eine Stufenerhöhung verweigern.
+
+#### Art. 8
+
+**Treueprämie**
+
+<sup>1</sup> Lehrpersonen erhalten nach 10, 20, 30 und 40 Dienstjahren als Treueprämie je ein zusätzliches Monatsgehalt.
+
+<sup>2</sup> Für die Bemessung der Treueprämie wird auf den durchschnittlichen Beschäftigungsgrad während den letzten fünf anrechenbaren Dienstjahren vor Ausrichtung der Treueprämie abgestellt. Massgeblich ist das Lohnniveau zum Zeitpunkt der Ausrichtung der Treueprämie.
+
+<sup>3</sup> Für die Berechnung der Dienstzeit gilt:
+
+- 1\. Unbezahlte oder bezahlte Urlaube von je mehr als einem Monat werden nicht an die Dienstzeit angerechnet.
+- 2\. Dienstzeiten in verschiedenen Schulgemeinden im Kanton werden zusammengezählt.
+- 3\. Die früher in einer Schulgemeinde im Kanton geleistete Dienstzeit wird an die laufende Dienstzeit angerechnet, sofern sie insgesamt mindestens ein halbes Jahr ausmacht.
+
+#### Art. 9
+
+**Bezug der Treueprämie**
+
+<sup>1</sup> Die Treueprämie kann mit Einwilligung des Schulrats höchstens zur Hälfte in Ferien umgewandelt werden, wobei eine Ferienwoche einem Viertel eines Monatsgehalts entspricht. Eine Umwandlung ist nur mit ganzen Ferienwochen möglich.
+
+<sup>2</sup> Ein Gesuch um Bezug in Ferien ist dem Schulrat ein halbes Jahr im Voraus einzureichen.
+
+<sup>3</sup> Die Auszahlung erfolgt in der Regel mit dem Juli-Gehalt.
+
+<sup>4</sup> Die Treueprämie ist nicht pensionskassenversichert.
+
+#### Art. 10
+
+**Vergütungen bei Stellvertretungen**
+
+<sup>1</sup> Lehrpersonen mit stufenentsprechender Ausbildung erhalten für Stellvertretungen den ihren Dienstjahren entsprechenden Lohn der unterrichteten Stufe inkl. 13. Monatsgehalt.
+
+<sup>2</sup> Lehrpersonen ohne entsprechende Ausbildung erhalten für Stellvertretungen das Gehalt der 1. Stufe der entsprechenden Klasse ohne 13. Monatsgehalt; der Schulrat kann Ausnahmen vorsehen.
+
+#### Art. 11
+
+**Lohn bei Teilpensen**
+
+<sup>1</sup> Der Wochenlohn beträgt für alle Lehrpersonen nach Art. 10 dieses Beschlusses 1/46 des genannten Jahresgehaltes.
+
+<sup>2</sup> Für Teilpensen wird der anteilsmässige Lohn gemäss Pflichtstundenzahl der entsprechenden Stufe ausgerichtet.
+
+<sup>3</sup> Es werden die effektiv gehaltenen Lektionen nach den Ansätzen gemäss Art. 10 dieses Beschlusses ausbezahlt.
+
+<sup>4</sup> Mit den erwähnten Ansätzen sind die gesetzlich vorgeschriebenen Ferienanteile abgegolten. In der Lohnabrechnung ist der Ferienanteil separat auszuweisen.
+
+<sup>5</sup> Dauert die Stellvertretung mehr als drei Monate werden Monatsgehälter nach den Ansätzen von Art. 10 dieses Beschlusses ausgerichtet.
+
+#### Art. 12
+
+**Unterricht auf einer anderen Stufe**
+
+<sup>1</sup> Lehrpersonen, die auf einer höheren Stufe Unterricht erteilen, als dies ihrer Ausbildung entspricht, erhalten den um 10% gekürzten Lohn der betreffenden Stufe.
+
+#### Art. 13
+
+**Lohnfortzahlung bei Unfall / Krankheit**
+
+<sup>1</sup> Bei Unfall und Krankheit hat die arbeitsunfähige Lehrperson Anspruch auf das volle Gehalt während
+
+- a) 4 Wochen — im 1. und 2. Dienstjahr
+- b) 8 Wochen — ab 3. Dienstjahr
+- c) 12 Wochen — ab 5. Dienstjahr
+- d) 16 Wochen — ab 11. Dienstjahr
+- e) 20 Wochen — ab 15. Dienstjahr
+- f) 24 Wochen — ab 20. Dienstjahr.
+
+<sup>2</sup> Allfällige Taggelder oder Renten sind vom Gehalt abzuziehen.
+
+#### Art. 14
+
+**Mutterschaftsurlaub**
+
+<sup>1</sup> Lehrerinnen haben einen bezahlten Mutterschaftsurlaub von 14 Wochen.
+
+<sup>2</sup> Der Urlaub beginnt mit dem Tag der Niederkunft. Bei längerem Spitalaufenthalt des neu geborenen Kindes kann die Mutter beantragen, dass der Urlaub erst mit der Heimkehr des Kindes beginnt.
+
+<sup>3</sup> Nach fünf Dienstjahren hat die Lehrerin Anspruch auf Verlängerung des Mutterschaftsurlaubes um drei Monate unbezahlten Urlaub, sofern die schulischen Verhältnisse dies zulassen und das Arbeitsverhältnis fortgesetzt wird.
+
+#### Art. 14a
+
+**Vaterschaftsurlaub**
+
+<sup>1</sup> Den Lehrern wird bei Vaterschaft eine Woche bezahlter Urlaub gewährt.
+
+#### Art. 15
+
+**Lohnfortzahlung bei Intensivweiterbildung**
+
+<sup>1</sup> Während des Besuchs der Intensivfortbildungskurse wird der Lohn ausbezahlt, der dem durchschnittlichen Pensum der letzten fünf Jahre entspricht, maximal das Gehalt eines Vollpensums.
+
+#### Art. 16
+
+**Obligatorische und freiwillige Dienste**
+
+<sup>1</sup> Für den obligatorischen und freiwilligen Militärdienst, Rotkreuzdienst, Zivilschutz und Zivildienst gelten die entsprechenden Regelungen für das Staatspersonal sinngemäss.
+
+<sup>2</sup> Die Rückzahlung von Dienstlohn ist an die Schulgemeinde vorzunehmen.
+
+#### Art. 17
+
+**Urlaub**
+
+<sup>1</sup> Grundsätzlich gilt für Urlaube die Regelung für das Staatspersonal sinngemäss.
+
+<sup>2</sup> Zeitlich nicht gebundene Urlaube sind zeitnah zum Ereignis zu beziehen. Für den Bezug solcher Urlaube während der Unterrichtszeit ist die Einwilligung der örtlich für das Personalwesen zuständigen Stelle einzuholen.
+
+<sup>3</sup> Fallen Urlaube in die Schulferien oder in die unterrichtsfreie Zeit, besteht kein Anspruch auf eine zeitliche Nachgewährung in der Unterrichtszeit.
+
+<sup>4</sup> Für die Gewährung zusätzlicher Urlaube ist der Schulrat zuständig.
+
+#### Art. 18
+
+**Lohnfortzahlung im Todesfall**
+
+<sup>1</sup> Im Todesfall von Lehrpersonen besteht während dem Sterbemonat Anspruch auf die volle Besoldung.
+
+<sup>2</sup> Sind minderjährige Kinder oder andere unterstützungsbedürftige Personen vorhanden, wird für weitere zwei Monate die Rente der Pensionskasse auf die Höhe des bisherigen Lohnes ergänzt.
+
+<sup>3</sup> Von den Sozialversicherungen ausgerichtete Renten und Leistungen im Todesfall werden an die Lohnfortzahlung angerechnet, so dass den Angehörigen der Lehrpersonen höchstens 100% des letzten Lohnes ausgerichtet wird.
+
+#### Art. 19
+
+**Versicherungen / Prämienanteile**
+
+<sup>1</sup> Die Schulgemeinden versichern die Lehrpersonen gegen die Folgen von Unfällen gemäss Bundesgesetz vom 20. März 1981 über die Unfallversicherung (UVG) und schliessen eine Krankentaggeldversicherung ab.
+
+<sup>2</sup> Die Lehrpersonen zahlen die Hälfte an die Prämien der Nichtbetriebsunfallversicherung des AHV-pflichtigen Gehaltes.
+
+<sup>3</sup> Sofern die Schulgemeinde für die Lehrpersonen eine Krankentaggeldversicherung mit Leistungen in der Höhe von 80% abgeschlossen hat, zahlen die Lehrpersonen die Hälfte an die Prämien des AHV-pflichtigen Gehaltes.
+
+<sup>4</sup> Entsteht zwischen der Lohnfortzahlung und der Leistung der Krankentaggeldversicherung nach Abs. 3 eine zeitliche Lücke, zahlt der Arbeitgeber während dieser Zeit den Lohn zu 80%.
+
+#### Art. 20
+
+**Berufliche Vorsorge**
+
+<sup>1</sup> Die berufliche Vorsorge richtet sich nach den Bestimmungen über die Kantonale Versicherungskasse. Überpensen können nicht versichert werden.
+
+## B. Arbeitszeit der Lehrpersonen
+
+#### Art. 21
+
+**Gesamtarbeitszeit**
+
+<sup>1</sup> Die jährliche Arbeitszeit für Lehrpersonen aller Schulstufen umfasst die vergleichbare Arbeitszeit der öffentlichen Verwaltung, nämlich:
+
+- a) 42.5 Stunden pro Woche;
+- b) fünf Wochen Ferien;
+- c) der Anspruch auf eine zusätzliche Ferienwoche, wie sie das Staatspersonal erhält, richtet sich nach Art. 10 der Schulverordnung.
+
+#### Art. 22
+
+**Definition**
+
+<sup>1</sup> Die Arbeitszeit gliedert sich in zwei Hauptelemente:
+
+- a) die Unterrichtszeit;
+- b) die unterrichtsfreie Arbeitszeit.
+
+#### Art. 23
+
+**Unterrichtszeit**
+
+<sup>1</sup> Zur Unterrichtszeit gehören die Lektionen gemäss Lehrplan, die nach Stufen differenziert sind:
+
+- a) Kindergartenlehrpersonen: 28 Lektionen à 45 Minuten resp. 26 Lektionen + 1 Lektion Pausenbetreuung und 1 Lektion für Funktion als Klassenlehrperson
+- b) Handarbeits- u. Hauswirtschaftslehrpersonen Primar: 31 Lektionen à 45 Minuten
+- c) Handarbeits- u. Hauswirtschaftslehrpersonen Sek I: 29 Lektionen à 45 Minuten
+- d) Lehrpersonen für Deutschunterricht für Fremdsprachige: 31 Lektionen à 45 Minuten
+- e) Primarlehrpersonen: 31 Lektionen à 45 Minuten resp. 30 Lektionen + 1 Lektion für Funktion als Klassenlehrperson
+- f) Lehrpersonen der Sekundarstufe I: 29 Lektionen à 45 Minuten resp. 28 Lektionen + 1 Lektion für Funktion als Klassenlehrperson
+- g) Lehrpersonen für Kleinklassen: gemäss der entsprechenden Stufe
+- h) Schulische Heilpädagogen: 29 Lektionen à 45 Minuten
+- i) Lehrpersonen des Sports: 29 Lektionen à 45 Minuten
+
+<sup>2</sup> Die Überwachung der Einhaltung der Unterrichtszeit obliegt dem Schulrat. Er befindet über die Kompensation ausgefallener Lektionen.
+
+#### Art. 24
+
+**Unterrichtsfreie Zeit**
+
+<sup>1</sup> Die unterrichtsfreie Arbeitszeit enthält folgende Elemente:
+
+- a) Unterrichtsplanung: Jahresplanung, Semester- und / oder Quartalsplanung sowie Lektionsplanung;
+- b) Vor- und Nachbereitung des Unterrichts mit Korrekturen, Bereitstellung von Materialien, Vorbereitung und Organisation von Projekten, Schulreisen, Sporttagen usw.;
+- c) Betreuung und Beratung von Schülern, Zusammenarbeit mit den Eltern, Schülergespräche, Einzelberatung, Elterngespräche, Zusammenarbeit mit den Schulbehörden und den schulischen Diensten;
+- d) Fort- und Weiterbildung: Besuch von Kursen, Studium von Fachliteratur, persönliche Standortbestimmung;
+- e) Administrative Aufgaben, Erstellen von Zeugnissen und Schulberichten etc.;
+- f) Gemeinschaftsaufgaben: Stufenkonferenzen, Teamsitzungen, Mitarbeit in Arbeitsgruppen;
+- g) Die für die jeweilige Stufe notwendige Präsenz in den Pausen, vor und nach der Unterrichtszeit;
+- h) Die durch das Schulamt organisierte, obligatorische Weiterbildung.
+
+<sup>2</sup> Die unterrichtsfreie Arbeitszeit kann dort, wo es sich um individuelle und klassenbezogene Aufgaben handelt, im Rahmen des Berufsethos in eigener Verantwortung individuell frei gestaltet werden.
+
+<sup>3</sup> Die Erfüllung der Gemeinschaftsaufgaben setzt teilweise zwangsläufig gemeinsame Regelungen und gemeinsame Termine mit entsprechender gemeinsamer Präsenzzeit voraus.
+
+#### Art. 25
+
+**Sonderaufgaben**
+
+<sup>1</sup> Aufgaben, die über den Berufsauftrag hinausgehen, werden vom Schulrat in Absprache mit den Schulhausteams geregelt.
+
+<sup>2</sup> Der Schulrat erlässt für die Sonderaufgaben Pflichtenhefte. Er kann diese Aufgaben mit einer Zulage oder einer entsprechenden Pensenreduktion entschädigen.
+
+#### Art. 26
+
+**Weiterbildungsveranstaltungen**
+
+<sup>1</sup> Eine Weiterbildungsveranstaltung während der Unterrichtszeit ist nur mit Bewilligung der Landesschulkommission durchführbar.
+
+<sup>2</sup> Der Schulrat kann eine schulhausinterne Weiterbildung oder eine Weiterbildung für alle Lehrpersonen der Schulgemeinde während der Unterrichtszeit ansetzen. Der Schulausfall darf maximal 50% der normalen Unterrichtszeit betragen. Er hat dies vorgängig der Landesschulkommission zu melden.
+
+#### Art. 26a
+
+**Praktikumsleitung**
+
+<sup>1</sup> Wer Studenten in der Lehrerausbildung für ein Praktikum betreut, bedarf hiezu der vorgängigen Erlaubnis des Schulamtes. Der Kanton übernimmt keine Entschädigungen.
+
+## C. Pensionierung
+
+#### Art. 27
+
+**Altersrücktritt**
+
+<sup>1</sup> Das Arbeitsverhältnis gilt mit Ablauf des Schulsemesters, in dem das AHV-Rentenalter erreicht wird, als aufgelöst. In Ausnahmefällen kann der Schulrat das Arbeitsverhältnis um höchstens zwei Jahre verlängern.
+
+<sup>2</sup> Mit Bewilligung des Schulrates kann ab dem vollendeten 60. Altersjahr ein Altersrücktritt vorgenommen werden, gegebenenfalls mit einem gestaffelt abnehmenden Anstellungsumfang.
+
+<sup>3</sup> Der Schulrat kann im Falle einer Frühpensionierung eine Einlage in die Versicherungskasse leisten.
+
+<sup>4</sup> Die Rentenleistungen werden durch die Kantonale Versicherungskasse geregelt.
+
+#### Art. 28
+
+**…**
+
+## D. Schlussbestimmungen
+
+#### Art. 29
+
+**Übergang**
+
+<sup>1</sup> Lehrpersonen erhalten die Treueprämien noch bis Ende 2018 nach bisherigem Recht.
+
+#### Art. 30
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieser Beschluss tritt unter Vorbehalt von Abs. 2 dieses Artikels nach Annahme durch die Standeskommission rückwirkend auf den 1. August 2005 in Kraft.
+
+<sup>2</sup> Art 19 Abs. 2 und 3 dieses Beschlusses treten am 1. Januar 2006 in Kraft.
+
+<sup>3</sup> …
+
+cGS -

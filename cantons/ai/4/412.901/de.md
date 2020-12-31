@@ -1,0 +1,165 @@
+---
+canton: AI
+number: "412.901"
+title: Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II
+short: Regionales Schulabkommen
+language: de
+version: 2001-08-01
+corrected: 2018-09-04
+version_adopted: 2001-03-01
+adopted: 2001-03-01
+in_force: 2001-08-01
+url: "https://ai.clex.ch/app/de/texts_of_law/412.901"
+pdf: "https://ai.clex.ch/api/de/versions/442/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II (Regionales Schulabkommen)
+
+vom 1. März 2001
+
+Die Regierungen der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Schwyz sowie die Regierung des Fürstentums Liechtenstein (nachfolgend Vereinbarungskantone)
+
+vereinbaren:
+
+### I. Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Zweck**
+
+<sup>1</sup> Die Vereinbarung bezweckt die Regelung des Zugangs zu ausserkantonalen Schulen, die Leistung von Schulbeiträgen durch den Wohnsitzkanton sowie die Gleichstellung von Auszubildenden aus Vereinbarungskantonen.
+
+<sup>2</sup> Die Aufteilung der Schulbeiträge zwischen Wohnsitzkanton, Wohnsitzgemeinde und Dritten richtet sich nach dem Recht des Wohnsitzkantons.
+
+#### Art. 2
+
+**Geltungsbereich a. Grundsatz**
+
+<sup>1</sup> Die Vereinbarung gilt für den Zugang und den Besuch von a. gymnasialen Maturitätsschulen, Handelsmittelschulen und Diplommittelschulen;
+
+- b. Ausbildungsgängen zur Erlangung der Berufsmaturität nach der Lehre;
+
+- c. Schulen auf der Sekundarstufe II für die Lehrerbildung.
+
+<sup>2</sup> Sie kann auf öffentliche Schulen und auf solche mit privatrechtlicher Trägerschaft angewendet werden.
+
+#### Art. 3
+
+**b. Unterstellung**
+
+<sup>1</sup> Der Standortkanton bezeichnet die Schulen, die er der Vereinbarung unterstellen will.
+
+<sup>2</sup> Der Wohnsitzkanton bezeichnet die Schulen, für die er die Vereinbarung anwenden will.
+
+<sup>2</sup> Massgebend ist die Liste im Anhang 1 dieser Vereinbarung.
+
+#### Art. 4
+
+**c. Vorbehalt**
+
+Besondere Vereinbarungen zwischen Kantonen, insbesondere zum Besuch von Schulen in Grenzregionen, bleiben vorbehalten.
+
+#### Art. 5
+
+Gleichbehand- Auszubildende aus Vereinbarungskantonen sind solchen mit Wohnsitz im Standortlung von Auszu- kanton gleichgestellt, insbesondere hinsichtlich Zulassungsvoraussetzungen, Probildenden motion und Abschluss.
+
+#### Art. 6
+
+Schulgelder und <sup>1</sup>Die Schulen können von den Auszubildenden Schulgelder und Gebühren erheben. Gebühren <sup>2</sup>Diese sind für Auszubildende aus dem Standortkanton und solchen aus Vereinbarungskantonen gleich hoch.
+
+#### Art. 7
+
+Aufnahmepflicht Die Vereinbarung unterscheidet zwischen Schulen mit Aufnahmepflicht für Auszubildende mit Wohnsitz im Vereinbarungskanton und solchen ohne Aufnahmepflicht.
+
+#### Art. 8
+
+Schulbeiträge <sup>1</sup>Für Auszubildende in Schulen mit Aufnahmepflicht leistet der Wohnsitzkanton eia. bei Aufnah- nen Schulbeitrag.
+
+mepflicht <sup>2</sup>Die Höhe der Schulbeiträge für das Schuljahr 2001/2002 richtet sich nach Anhang 2 dieser Vereinbarung.
+
+#### Art. 9
+
+- b. ohne Aufnah- Für Schulen ohne Aufnahmepflicht beläuft sich die Höhe des Schulbeitrags auf die mepflicht Hälfte der Ansätze nach Art. 8 dieser Vereinbarung.
+
+#### Art. 10
+
+- c. Anpassung Die Höhe der Schulbeiträge wird erstmals auf Beginn des Schuljahres 2002/2003 angepasst. Nachher gelten die Ansätze jeweils für die Dauer von zwei Schuljahren.
+
+#### Art. 11
+
+Standortkanton Als Standortkanton gilt der Kanton, in welchem die Schule ihren Sitz hat.
+
+#### Art. 12
+
+Zahlungspflichti- Zahlungspflichtiger Kanton ist der Wohnsitzkanton der Auszubildenden.
+
+ger Kanton Art. 13 Beziehungen zu <sup>1</sup>Der Standortkanton befindet über die Aufnahme von Auszubildenden aus Vereinba-Nichtvereinba- rungskantonen, die ein Schulangebot nicht als beitragspflichtig anerkannt haben, rungskantonen sowie aus Kantonen, die dieser Vereinbarung nicht beigetreten sind. Er legt für die-
+
+se die Höhe von Schulbeiträgen, Schulgeldern und Gebühren fest.
+
+<sup>2</sup> Schulbeiträge, Schulgelder und Gebühren dürfen unter Vorbehalt von Art. 4 dieser Vereinbarung für Vereinbarungskantone, welche ein Schulangebot nicht als beitragspflichtig anerkannt haben, sowie für Kantone, die dieser Vereinbarung nicht beigetreten sind, nicht tiefer sein, als diejenigen für Auszubildende aus Kantonen, die dieser Vereinbarung beigetreten sind und die das entsprechende Schulangebot als beitragspflichtig anerkannt haben.
+
+### II. Verfahren
+
+#### Art. 14
+
+**Koordinationsstellen**
+
+Jeder Vereinbarungskanton bezeichnet für den Vollzug der Vereinbarung eine Koordinationsstelle. Das Regionalsekretariat der EDK-Ost richtet für die Konferenz der Koordinationsstellen-Leitungen ein Sekretariat ein.
+
+#### Art. 15
+
+**Liste der Auszubildenden**
+
+<sup>1</sup> Die der Vereinbarung unterstellte Schule reicht der Koordinationsstelle des zahlungspflichtigen Kantons zu Beginn des Schuljahres oder zu Beginn eines Semesters eine Liste der Auszubildenden ein.
+
+<sup>2</sup> Einwände gegen die Liste sind innert 30 Tagen bei der Schule anzubringen.
+
+#### Art. 16
+
+**Rechnungsstellung**
+
+<sup>1</sup> Die Schule stellt der Koordinationsstelle des zahlungspflichtigen Kantons bis spätestens Ende des Semesters oder Ende des Schuljahres Rechnung. Diese ist innert 30 Tagen zu begleichen.
+
+<sup>2</sup> Mit der Rechnung sind die mit den Stichtagen vom 15. November und 15. Mai ermittelten Zahlen der Auszubildenden bekanntzugeben.
+
+### III. Revision und Kündigung
+
+#### Art. 17
+
+**Änderung der Vereinbarung**
+
+<sup>1</sup> Änderungen der Vereinbarung bedürfen der Zustimmung aller Vereinbarungskantone.
+
+<sup>2</sup> Änderungen der Anhänge zur Vereinbarung bedürfen der Zustimmung der betroffenen Kantone.
+
+<sup>3</sup> Einseitige Änderungen eines Kantons in den Anhängen zur Vereinbarung bedürfen einer schriftlichen Mitteilung. Streichungen im Anhang 1 und Erhöhung von Schulbeiträgen im Anhang 2 treten nach einer Frist von zwei Jahren, jeweils auf Beginn des Schuljahres, in Kraft.
+
+#### Art. 18
+
+Beitritt weiterer Mit Zustimmung der Vereinbarungskantone können der Vereinbarung weitere Kan-Kantone tone beitreten.
+
+#### Art. 19
+
+Kündigung der <sup>1</sup>Die Vereinbarung kann unter Beachtung einer dreijährigen Kündigungsfrist auf En-Vereinbarung de eines Schuljahres gekündigt werden.
+
+<sup>2</sup> Die Kündigung ist dem Präsidenten der EDK-Ost schriftlich einzureichen, unter Mitteilung an die Vereinbarungskantone.
+
+#### Art. 20
+
+Abschluss der Revision und Kündigung heben Aufnahmeentscheide für Auszubildende nicht auf. begonnenen Der Wohnsitzkanton bleibt für den Schulbeitrag bis zum ordentlichen Abschluss der Ausbildung begonnenen Ausbildung zahlungspflichtig.
+
+### IV. Übergangs- und Schlussbestimmungen
+
+#### Art. 21
+
+Inkrafttreten Die Vereinbarung tritt auf Beginn des Schuljahres 2001/2002 in Kraft, sofern ihr fünf Kantone beigetreten sind.
+
+#### Art. 22
+
+Aufhebung bis- <sup>1</sup>Mit dem Beitritt zu dieser Vereinbarung gilt die "Vereinbarung über Schulbeiträge herigen Rechts von Schulen der Sekundarstufe II und der Tertiärstufe" vom 9. Juni 1994 gegenüber allen anderen Kantonen als gekündigt.
+
+<sup>2</sup> Sind alle Vereinbarungskantone der Vereinbarung beigetreten, gilt die "Vereinbarung über Schulbeiträge von Schulen der Sekundarstufe II und der Tertiärstufe" vom 9. Juni 1994 als aufgehoben.

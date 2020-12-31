@@ -1,0 +1,148 @@
+---
+canton: AI
+number: "144.010"
+title: "Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin- Besitzstands"
+language: de
+version: 2009-04-01
+corrected: 2019-02-11
+version_adopted: 2009-03-20
+adopted: 2009-03-20
+in_force: 2009-04-01
+url: "https://ai.clex.ch/app/de/texts_of_law/144.010"
+pdf: "https://ai.clex.ch/api/de/versions/67/pdf_file"
+text: pdf
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands
+
+vom 20. März 2009
+
+gestützt auf Art. 1 Abs 2 Bundesbeschluss vom 17. Dezember 2004 über die Genehmigung und die Umsetzung der bilateralen Abkommen zwischen der Schweiz und der EU über die Assoziierung der Schweiz an Schengen und Dublin
+
+### 1. Abschnitt: Allgemeine Bemerkungen
+
+#### Art. 1
+
+**Gegenstand**
+
+Die Vereinbarung regelt insbesondere:
+
+- a) die Informationsübermittlung zwischen Bund und Kantonen im Geltungsbereich der Assoziierungsabkommen von Schengen und Dublin;
+
+- b) die Vertretung und Mitwirkung der Kantone in den Gemischten Ausschüssen und Arbeitsgruppen der EU;
+
+- c) die Erarbeitung gemeinsamer Positionen der schweizerischen Delegationen in den Gemischten Ausschüssen;
+
+- d) die gegenseitigen Rechte und Pflichten von Bund und Kantonen bei der Umsetzung, Anwendung und Entwicklung von neuen Rechtsakten und Massnahmen der EU gemäss Art. 7 des Schengen-Assoziierungsabkommens (SAA) und Art. 4 des Dublin-Assoziierungsabkommens (DAA), die von der EU an die Schweiz notifiziert sind (nachfolgend neue Rechtsakte und Massnahmen).
+
+#### Art. 2
+
+**Zusammenarbeit**
+
+<sup>1</sup> Bund und Kantone arbeiten im Rahmen ihrer Zuständigkeiten in den von Schengen/Dublin tangierten Bereichen eng und einvernehmlich zusammen. Die Kantone wirken insbesondere an der Entwicklung sowie an der Anwendung und Umsetzung des Schengen/Dublin-Besitzstands mit.
+
+<sup>2</sup> Bund und Kantone sorgen dabei für die notwendigen organisatorischen Vorkehrungen, damit die internationalen Verpflichtungen der Schweiz aus dem SAA und dem DAA zeitgerecht und effizient erfüllt werden.
+
+<sup>3</sup> Sie informieren sich gegenseitig umfassend und frühzeitig über die internen Rechtsetzungsprojekte in den Anwendungsbereichen des SAA und des DAA.
+
+<sup>4</sup> Sie tauschen sich über die Rechtsprechung in diesen Gebieten aus.
+
+### 2. Abschnitt: Sicherstellung der Information, Koordination und Kooperation
+
+#### Art. 3
+
+Kontaktstellen Für die ordnungsgemässe Anwendung dieser Vereinbarung bezeichnen der Bund zwischen Bund und die Kantone je eine Kontaktstelle.
+
+und Kantonen Art. 4 Informations- <sup>1</sup>Bund und Kantone informieren sich in der Regel über ihre Kontaktstellen.
+
+übermittlung <sup>2</sup>Der Bund stellt sicher, dass die von der EU an die Schweiz adressierten Informationen, Daten und Dokumente den Kantonen umgehend übermittelt werden.
+
+<sup>3</sup> Er betreibt ein elektronisches Portal, welches Bund und Kantonen die unmittelbare Verfügbarkeit von Informationen und Daten ermöglicht.
+
+#### Art. 5
+
+Koordination <sup>1</sup>Bund und Kantone sprechen ihre Stellungnahmen in der Regel intern ab, bevor sie diese über die Kontaktstellen übermitteln.
+
+<sup>2</sup> Sie koordinieren die Umsetzung in den Anwendungsbereichen des SAA und des DAA, insbesondere in zeitlicher Hinsicht.
+
+### 3. Abschnitt: Entwicklung, Umsetzung und Anwendung des Schen-
+
+gen/Dublin-Besitzstands
+
+Art. 6 Mitwirkung der <sup>1</sup>Die Kantone beteiligen sich an der Erarbeitung der schweizerischen Positionen in Kantone in den den Gemischten Ausschüssen und Arbeitsgruppen der EU in Bereichen, die ihre Gemischten Zuständigkeiten betreffen oder ihre wesentlichen Interessen berühren.
+
+Ausschüssen <sup>2</sup>Sie entsenden Vertreterinnen und Vertreter in Arbeitsgruppen des Bundes, welche und Arbeitsgrup- die Vorbereitungs- und Hintergrundarbeiten für Verhandlungen in den Gemischten pen der EU Ausschüssen und Arbeitsgruppen der EU leisten.
+
+<sup>3</sup> Sie sind Teil der schweizerischen Delegation und wirken in den Gemischten Ausschüssen und Arbeitsgruppen der EU mit.
+
+<sup>4</sup> Die schweizerischen Delegationen in den Gemischten Ausschüssen und Arbeitsgruppen der EU werden in der Regel durch eine Vertreterin oder einen Vertreter des Bundes geleitet.
+
+#### Art. 7
+
+Notifikation Der Bund leitet die von den EU-Institutionen erhaltenen Notifikationen über neue und von der Schweiz zu übernehmende Rechtsakte oder Massnahmen der EU im Rahmen des Schengen/Dublin-Besitzstands umgehend an die Kontaktstelle der Kantone weiter.
+
+#### Art. 8
+
+**Übernahmeverfahren**
+
+<sup>1</sup> Der Bund entscheidet über die Übernahme von neuen Rechtsakten und Massnahmen der EU sowie über die dafür benötigten Fristen.
+
+<sup>2</sup> Kommen die Kantone zum Schluss, dass die Übernahme eines neuen Rechtsaktes oder einer neuen Massnahme der EU ihre Zuständigkeiten betreffen oder ihre wesentlichen Interessen berühren, so kommt ihrer Stellungnahme nach Art. 5 Abs. 1 besondere Bedeutung zu.
+
+#### Art. 9
+
+**Umsetzung**
+
+<sup>1</sup> Bund und Kantone gewährleisten die rechtzeitige Umsetzung von Rechtsakten oder Massnahmen.
+
+<sup>2</sup> Sie informieren sich frühzeitig über die eingeleiteten Massnahmen und den Abschluss der Umsetzungsarbeiten.
+
+### 4. Abschnitt: Berichterstattung und Kostentragung
+
+#### Art. 10
+
+**Berichterstattung**
+
+Bund und Kantone erstatten den Gemischten Ausschüssen Bericht im Sinne von Artikel 9 Absatz 1 SAA und Artikel 6 Absatz 1 DAA über die Auslegung und Anwendung des Schengen- bzw. Dublin-Besitzstands durch Verwaltungsbehörden und Gerichte.
+
+#### Art. 11
+
+**Kostentragung**
+
+<sup>1</sup> Bund und Kantone übernehmen ihre eigenen mit der Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands verbundenen Kosten sowie die Kosten der Teilnahme in den Gemischten Ausschüssen und Arbeitsgruppen der EU.
+
+<sup>2</sup> Die Kantone leisten einen angemessenen Beitrag an den technischen Betrieb des Schengen-Portals gemäss Art. 4 Abs. 3.
+
+### 5. Abschnitt: Konfliktregelung
+
+#### Art. 12
+
+**Beilegung von Streitigkeiten**
+
+<sup>1</sup> Streitigkeiten aus dieser Vereinbarung sind durch den Bundesrat und die Konferenz der Kantonsregierungen (nachfolgend KdK) einvernehmlich zu lösen.
+
+<sup>2</sup> Unterschiedliche Auffassungen zur Umsetzung, Anwendung und Weiterentwicklung des Schengen/Dublin-Besitzstands sind durch Verhandlungen zu bereinigen.
+
+### 6. Abschnitt: Schlussbestimmungen
+
+#### Art. 13
+
+**Kündigung**
+
+<sup>1</sup> Die vorliegende Vereinbarung kann schriftlich unter Einhaltung einer Frist von 6 Monaten gekündigt werden.
+
+<sup>2</sup> Bund und Kantone haben ihre laufenden Verpflichtungen in jedem Fall einzuhalten.
+
+#### Art. 14
+
+**Inkrafttreten**
+
+<sup>1</sup> Die vorliegende Vereinbarung erfordert die Genehmigung durch alle Kantone.
+
+<sup>2</sup> Die KdK informiert den Bundesrat über die Genehmigungen nach Abs. 1.
+
+<sup>3</sup> Der Bundesrat legt das Datum des Inkrafttretens dieser Vereinbarung nach Anhörung der KdK fest.
+
+Inkrafttreten: 1. April 2009 (BRB vom 13. März 2009)
