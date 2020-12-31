@@ -1,0 +1,845 @@
+---
+canton: TG
+number: "411.114"
+title: Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Volksschulen
+short: RSV VS
+language: de
+version: 2020-01-01
+valid_until: 2021-12-31
+version_adopted: 2019-11-19
+adopted: 2005-01-25
+in_force: 2005-08-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.114"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1663/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Volksschulen
+
+RSV VS
+
+(RSV VS)
+
+vom 25.01.2005 (Stand 01.01.2020)
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Dieser Verordnung untersteht, wer an einer öffentlichen Volksschule selbstverantwortlich mit einem pädagogisch-erzieherischen Auftrag als Lehrerin oder Lehrer im Klassenverband oder als Schulische Heilpädagogin oder Schulischer Heilpädagoge unterrichtet.
+
+<sup>2</sup> Nicht dieser Verordnung unterstehen namentlich die sonderpädagogischen Fachpersonen sowie das Personal mit Aufträgen in den Bereichen Nachhilfe und Stütz- und Fördermassnahmen.
+
+#### § 2
+
+**Abweichung bei geplanten Neuerungen**
+
+<sup>1</sup> Der Regierungsrat kann zur probeweisen Umsetzung geplanter Neuerungen für eine befristete Dauer von einzelnen Bestimmungen abweichen.
+
+#### § 3
+
+**Lehrbefähigung**
+
+<sup>1</sup> Für den Unterricht auf einer bestimmten Stufe ist ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom, das hierzu berechtigt, oder ein gleichwertiger Abschluss erforderlich. Vorübergehend können auch Personen mit einem stufenfremden anerkannten Lehrdiplom oder einem gleichwertigen Abschluss eingesetzt werden.
+
+<sup>2</sup> Das Departement für Erziehung und Kultur entscheidet über die Gleichwertigkeit. Es kann hierzu Richtlinien erlassen.
+
+<sup>3</sup> Unter Vorbehalt vorübergehender Einsätze dürfen Lehrpersonen nur in den Fächern eingesetzt werden, für die sie eine Lehrbefähigung haben.
+
+<sup>3<sup>bis</sup></sup> Personen in Ausbildung zu EDK-anerkannten Stufendiplomen können vorübergehend eingesetzt werden.
+
+<sup>4</sup> Andere Personen können zur Überbrückung ausgewiesener Notsituationen und mit Bewilligung des Amtes für Volksschule eingesetzt werden.
+
+<sup>5</sup> Für den Unterricht an der Basisstufe ist ein von der EDK anerkanntes Kindergarten- oder Primarlehrdiplom nötig sowie eine vom Amt vorgegebene Weiterbildung.
+
+#### § 4
+
+**Teilzeitbeschäftigung und Aus- oder Eintritt während des Schuljahres**
+
+<sup>1</sup> Für Teilzeitbeschäftigte und während des Schuljahres ein- oder austretende Lehrpersonen gelten anteilmässige Rechte und Pflichten, unter Vorbehalt von abweichenden Vorgaben für die Stelle oder gemäss dieser Verordnung sowie von Vereinbarungen.
+
+<sup>2</sup> Bei unbefristeten Teilzeitarbeitsverhältnissen mit variablem Beschäftigungsgrad ist eine Bandbreite festzulegen, zwischen deren oberem und unterem Wert nicht mehr als 30 % einer vollen Anstellung liegen darf.
+
+## 2. Entstehung des Arbeitsverhältnisses
+
+#### § 5
+
+**Ausschreibung**
+
+<sup>1</sup> Stellen sind in der Regel öffentlich auszuschreiben.
+
+<sup>2</sup> Auf die Ausschreibung kann namentlich verzichtet werden bei der Besetzung von Dauerstellen mit bisher befristet beschäftigten Lehrpersonen oder bei Stellvertretungen.
+
+#### § 6
+
+**Rechtsnatur der Anstellung**
+
+<sup>1</sup> Das Arbeitsverhältnis ist öffentlichrechtlich.
+
+<sup>2</sup> Anstellung und Kündigung sowie weitere Anordnungen im Sinne von § 4 des Gesetzes über die Verwaltungsrechtspflege[^6-1] erfolgen in Form eines Entscheides.
+
+[^6-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+
+#### § 7
+
+**Anstellung**
+
+<sup>1</sup> Die Anstellung erfolgt in der Schulgemeinde.
+
+<sup>2</sup> Sie bedarf der Genehmigung des Amtes. Dieses legt die Besoldung fest. Unter Vorbehalt dringlicher Fälle sind die Anstellungen dem Amt vor Dienstantritt zu unterbreiten.
+
+<sup>3</sup> Unterrichtet eine Lehrperson in mehreren Schulgemeinden, wird sie in jeder Gemeinde angestellt.
+
+<sup>4</sup> …
+
+#### § 8
+
+**Anstellungsdauer**
+
+<sup>1</sup> Anstellungen werden befristet vorgenommen bei Lehrstellen mit absehbarer zeitlicher Begrenzung und bei Stellvertretungen für die Dauer des Ausfalls der zu vertretenden Lehrperson.
+
+<sup>2</sup> Eine befristete Anstellung ist grundsätzlich für längstens zwei Jahre zulässig. Eine Fortführung kann nur als unbefristetes Anstellungsverhältnis erfolgen.
+
+#### § 9
+
+**Berufseinführung**
+
+<sup>1</sup> Neu und wieder in den Beruf einsteigende Personen durchlaufen eine obligatorische Berufseinführung von maximal drei Jahren.
+
+<sup>2</sup> Wieder in den Beruf einsteigende Personen können ganz oder teilweise von der Berufseinführung freigestellt werden, wenn die Lücke zwischen letzter Anstellung als Lehrperson und Wiedereinstieg kleiner als fünf Jahre ist.
+
+<sup>3</sup> …
+
+<sup>4</sup> Das Departement regelt das Nähere.
+
+#### § 10
+
+**Beginn**
+
+<sup>1</sup> Hält der Anstellungsentscheid nichts anderes fest oder ergibt sich aus den Umständen nichts anderes, beginnt das Arbeitsverhältnis mit dem Anfang des nächsten Semesters am 1. August oder 1. Februar.
+
+#### § 11
+
+**Stellvertretungen**
+
+<sup>1</sup> Ist eine Lehrperson verhindert, ihre Stelle zu versehen, ist umgehend eine Stellvertretung einzusetzen.
+
+<sup>2</sup> Bei kurzfristiger Verhinderung einer Lehrperson stehen die anderen Lehrpersonen im Rahmen ihrer Pensen zur Überbrückung allfälliger Lücken zur Verfügung. Die Wochenlektionenzahl der vom Ausfall betroffenen Klassen und der Schulbetrieb können angemessen angepasst werden.
+
+<sup>3</sup> Bei längerfristigen Verhinderungen kann eine befristet angestellte Stellvertretung eingesetzt werden.
+
+<sup>4–5</sup> …
+
+## 3. Beendigung des Arbeitsverhältnisses
+
+#### § 12
+
+**Ende des Arbeitsverhältnisses**
+
+<sup>1</sup> Das Arbeitsverhältnis endet:
+
+- 1\. mit Fristablauf bei einer befristeten Anstellung;
+- 2\. mit Ablauf der maximalen Lohnfortzahlung infolge von Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^12-1], unter Beachtung der Wiederherstellung;
+- 3\. bei voraussichtlich andauernder voller oder teilweiser Arbeitsunfähigkeit aufgrund von Krankheit oder Unfall in der Regel auf Ende des Semesters, in welchem das 64. Altersjahr vollendet wurde, sofern während eines Jahres Leistungen zufolge Krankheit oder Unfall ausbezahlt wurden;
+- 4\. mit Ablauf des Semesters, während welchem das 65. Altersjahr vollendet wurde; es kann weitergeführt werden, wenn dies im Interesse der Schule liegt, wobei es zu befristen ist;
+- 5\. bei gegenseitiger Absprache mit dem vereinbarten Termin;
+- 6\. bei ordentlicher Kündigung mit dem Eintritt des gesetzlich vorgesehenen oder vereinbarten Termins;
+- 7\. bei fristloser Kündigung mit dem Empfang der Mitteilung;
+- 8\. bei Stellvertretungen mit der Rückkehr der vertretenen Lehrperson;
+- 9\. mit dem Tod der Lehrperson.
+
+[^12-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+
+#### § 13
+
+**Auflösung bei fortbestehender Arbeitsunfähigkeit**
+
+<sup>1</sup> Im Falle der Auflösung infolge Erschöpfung der Lohnfortzahlungspflicht ist bei fortbestehender teilweiser Arbeitsunfähigkeit zu prüfen, ob das Arbeitsverhältnis mit einem reduzierten Beschäftigungsgrad weitergeführt werden kann. Es besteht kein Anspruch auf eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad.
+
+<sup>2</sup> Bei voraussichtlich andauernder Arbeitsunfähigkeit kann die Stelle in der Regel frühestens nach einem Jahr seit Eintritt der Arbeitsunfähigkeit unbefristet besetzt werden. Bei Wiedererlangung der Arbeitsfähigkeit ist diesfalls der Mitarbeiterin oder dem Mitarbeiter nach Möglichkeit eine andere, zumutbare Stelle zuzuweisen.
+
+#### § 14
+
+**Altersrücktritt**
+
+<sup>1</sup> Die Lehrperson hat das Recht, zwischen dem vollendeten 58. Altersjahr und dem vollendeten 65. Altersjahr zurückzutreten. Die Altersleistungen richten sich nach dem Reglement der Pensionskasse[^14-1].
+
+<sup>2</sup> Die Erklärung des Altersrücktrittes erfolgt in Form einer Kündigung und unter Beachtung der Kündigungsfristen.
+
+<sup>3</sup> Soweit es die betrieblichen Verhältnisse zulassen, kann ein gestaffelter Altersrücktritt im Sinne einer Teilpensionierung bewilligt werden.
+
+[^14-1]: RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de)
+
+#### § 15
+
+**Kündigung**
+
+<sup>1</sup> Unbefristete oder befristete Arbeitsverhältnisse können beidseitig gekündigt werden.
+
+<sup>2</sup> Kündigungen der Lehrpersonen sind in schriftlicher Form bei der Anstellungsinstanz einzureichen.
+
+<sup>3</sup> Im Falle einer Kündigung aus betrieblichen oder wirtschaftlichen Gründen besteht Anspruch auf berufliche Beratung durch den Kanton.
+
+#### § 16
+
+**Kündigungsfristen und -termine**
+
+<sup>1</sup> Arbeitsverhältnisse können unter Vorbehalt abweichender Regelungen beidseitig unter Einhaltung einer Frist von drei Monaten auf das Ende eines Semesters, das heisst auf den 31. Juli oder den 31. Januar, aufgelöst werden. Die Frist beginnt mit dem Zugang der Kündigung.
+
+<sup>2</sup> Im ersten Jahr der Anstellung in einer Schulgemeinde kann unter Einhaltung einer Kündigungsfrist von zwei Monaten auf Monatsende gekündigt werden.
+
+<sup>3</sup> Befristete Anstellungsverhältnisse können jederzeit unter Einhaltung einer Frist von zehn Tagen beendet werden. Wird ein solches im Voraus für mindestens sechs Monate eingegangen oder dauert es ohne Unterbruch über ein Jahr, kann unter Einhaltung einer Kündigungsfrist von zwei Monaten auf Monatsende gekündigt werden.
+
+<sup>4</sup> Bei Schwangerschaft können Lehrerinnen bis spätestens drei Monate vor dem ärztlich bestimmten Niederkunftstermin auf das Ende des bezahlten Mutterschaftsurlaubs kündigen.
+
+#### § 17
+
+**Kündigungsgründe**
+
+<sup>1</sup> Die Kündigung darf nicht missbräuchlich sein.
+
+<sup>2</sup> Die Kündigung durch die Schulgemeinde setzt einen sachlich zureichenden Grund voraus. Sachliche Gründe sind insbesondere:
+
+- 1\. Vorliegen betrieblicher oder wirtschaftlicher Gründe, die der Weiterführung des Arbeitsverhältnisses entgegenstehen;
+- 2\. Mängel in der Leistung oder im Verhalten;
+- 3\. Verletzung arbeitsrechtlicher Pflichten;
+- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen;
+- 5\. fehlende Qualifikation für die Schulstufe oder das unterrichtete Fach.
+
+<sup>3</sup> Bevor eine Kündigung aufgrund von Mängeln in der Leistung oder im Verhalten ausgesprochen wird, ist ein Gespräch zu führen und in der Regel eine Frist zur positiven Veränderung anzusetzen.
+
+#### § 18
+
+**Kündigung bei verbundenen Anstellungen**
+
+<sup>1</sup> Sind mehrere Teilzeitanstellungen vertraglich miteinander verbunden und ist vereinbart, dass die Auflösung eines Arbeitsverhältnisses als sachlicher Grund für die Kündigung des anderen Arbeitsverhältnisses gilt (Jobsharing), hat die erstkündigende Partei ab dem zweiten Anstellungsjahr eine Kündigungsfrist von vier Monaten auf Semesterende zu beachten. Im Übrigen sind die Bestimmungen von § 16 anwendbar. Als verbundene Anstellungen gelten Anstellungen, bei welchen die beteiligten Lehrpersonen je ein Minimalpensum von zwölf Lektionen erteilen.
+
+#### § 19
+
+**Folgen einer ungerechtfertigten oder diskriminierenden Kündigung**
+
+<sup>1</sup> Bei missbräuchlichen oder ohne sachlichen Grund ausgesprochenen Kündigungen gelten für die Folgen und die Verwirkung der Ansprüche die Bestimmungen des Schweizerischen Obligationenrechts[^19-1] über die missbräuchliche Kündigung sinngemäss.
+
+<sup>2</sup> Die Folgen einer diskriminierenden Kündigung aufgrund des Geschlechts richten sich nach den Bestimmungen des Gleichstellungsgesetzes[^19-2], wobei auch eine Entschädigung geltend gemacht werden kann.
+
+[^19-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^19-2]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+
+#### § 20
+
+**Fristlose Kündigung**
+
+<sup>1</sup> Aus wichtigem Grund kann das Arbeitsverhältnis beidseitig ohne Einhaltung von Fristen und Terminen aufgelöst werden. Als wichtiger Grund gilt jeder Umstand, bei dessen Vorhandensein die Fortsetzung des Arbeitsverhältnisses nach Treu und Glauben nicht zumutbar ist.
+
+<sup>2</sup> Die fristlose Kündigung hat unverzüglich nach Kenntnis des wichtigen Grundes zu erfolgen.
+
+<sup>3</sup> Die Folgen der fristlosen Kündigung richten sich nach den entsprechenden Bestimmungen des Schweizerischen Obligationenrechts.
+
+#### § 21
+
+**Kündigung zur Unzeit**
+
+<sup>1</sup> Ausser bei einer fristlosen Kündigung können Lehrpersonen nicht gekündigt werden:
+
+- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst sowie bei einer Dauer der Dienstleistung von mehr als elf Kalendertagen während vier Wochen vorher und nachher;
+- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt;
+- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft;
+- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion.
+
+<sup>2</sup> Die während einer Sperrfrist ausgesprochene Kündigung ist nichtig und entfaltet keine Rechtswirkung.
+
+<sup>3</sup> Tritt während laufender Kündigungsfrist ein Sperrgrund ein, wird der Fristenlauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt. Im Falle der Unterbrechung zufolge Krankheit oder Unfall wird der Fristenlauf längstens während 30 Tagen im ersten Dienstjahr, während 90 Tagen vom zweiten bis und mit fünften Dienstjahr und während 180 Tagen ab dem sechsten Dienstjahr unterbrochen. Das Dienstverhältnis endet formlos auf das Monatsende.
+
+<sup>4</sup> Im Anschluss an eine Sperrfrist kann unter Berücksichtigung einer Frist von drei Monaten ohne Beachtung des Semesterendes gekündigt werden, wenn die Sperrfrist die rechtzeitige Kündigung auf ein Semesterende verhindert hat.
+
+#### § 22
+
+**Abgangsentschädigung in Härtefällen**
+
+<sup>1</sup> Einer Lehrperson, deren Arbeitsverhältnis durch die Schulgemeinde gekündigt oder auf Veranlassung der Schulgemeinde im gegenseitigen Einvernehmen aufgelöst wird, ohne dass sie dazu durch ihre Leistungen oder ihr Verhalten begründeten Anlass gegeben hat, kann eine Abgangsentschädigung ausgerichtet werden, wenn sie
+
+- 1\. bis zur Auflösung während mindestens fünf Jahren ununterbrochen im thurgauischen Schuldienst gestanden hat und
+- 2\. im Zeitpunkt der Auflösung des Arbeitsverhältnisses das 55. Altersjahr vollendet und das 63. Altersjahr noch nicht vollendet hat.
+
+<sup>2</sup> Für die Abgangsentschädigung gilt:
+
+- 1\. sie wird vom Departement nach Anhörung der Schulgemeinde nach den Umständen des Einzelfalles festgelegt;
+- 2\. sie beträgt im Regelfall bis höchstens sechs, in Ausnahmefällen bis höchstens 12 Monatslöhne;
+- 3\. es sind insbesondere das wirtschaftliche Fortkommen, die Dienstzeit sowie die persönlichen Verhältnisse zu berücksichtigen;
+- 4\. als Bemessungsgrundlage gilt eine Monatsgrundbesoldung (1/12 des Jahreslohnes), bei wechselndem Beschäftigungsgrad ist der durchschnittliche Beschäftigungsgrad der letzten fünf Jahre massgeblich;
+- 5\. die Ausrichtung einer Abgangsentschädigung von mehr als sechs Monatslöhnen bedarf zusätzlich der Zustimmung des Regierungsrates;
+- 6\. Gesuche sind spätestens bis zur Beendigung des Dienstverhältnisses beim Departement einzureichen; eine spätere Gesuchstellung lässt den Anspruch verwirken.
+
+<sup>2<sup>bis</sup></sup> Keine Abgangsentschädigung wird ausgerichtet, wenn eine zumutbare Anschlussbeschäftigung vorliegt oder seitens der Schulgemeinde eine andere zumutbare Stelle angeboten wurde. Die gesuchstellende Person kann aufgefordert werden, den Nachweis zu erbringen, dass sie sich intensiv um eine neue Stelle bemüht hat.
+
+<sup>3</sup> …
+
+<sup>4</sup> Bei einer Wiederanstellung im thurgauischen Schuldienst innerhalb zweier Jahre nach Auflösung des Arbeitsverhältnisses entscheidet das Departement auf Antrag der Schulgemeinde, welche die Abgangsentschädigung ausgerichtet hat, über die volle oder teilweise Rückerstattung der Entschädigung und die Verteilung zwischen Kanton und Gemeinde.
+
+#### § 22a
+
+**Sonderleistungen anstelle einer Abgangsentschädigung bei vorzeitiger Pensionierung**
+
+<sup>1</sup> Bei einvernehmlicher Versetzung in den Ruhestand kann unter der Voraussetzung, dass die Lehrperson bei Beendigung des Arbeitsverhältnisses das 60. Altersjahr vollendet hat, an Stelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau[^22a-1] gewährt werden.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Absatz 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
+
+[^22a-1]: RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de)
+
+#### § 23
+
+**Einvernehmliche Auflösung**
+
+<sup>1</sup> Mit Ausnahme der Abgangsentschädigung kann die Auflösung des Arbeitsverhältnisses mit schriftlicher Vereinbarung abweichend von den Bestimmungen dieser Verordnung erfolgen.
+
+## 4. Rechte der Lehrpersonen
+
+#### § 24
+
+**Schutz der Persönlichkeit**
+
+<sup>1</sup> Die Schulgemeinde achtet und schützt die Persönlichkeit der Lehrpersonen. Sie nimmt auf deren Gesundheit gebührend Rücksicht und fördert sie mit geeigneten betrieblichen Massnahmen.
+
+<sup>2</sup> Sie sorgt durch geeignete Massnahmen für den Schutz gegen psychische und physische Belästigungen, insbesondere gegen sexuelle Belästigung, Mobbing und Diskriminierung.
+
+<sup>3</sup> Bei Verdacht auf Belästigungen, Mobbing oder Diskriminierung ist auf Hinweis der Betroffenen den Vorwürfen nachzugehen, und es sind die geeigneten Massnahmen in die Wege zu leiten. Der Kanton gewährt den Betroffenen Beratung und Unterstützung.
+
+#### § 25
+
+**Rechtliche Unterstützung**
+
+<sup>1</sup> Die Schulgemeinde unterstützt die Lehrperson, wenn diese im Zusammenhang mit der Erfüllung ihrer Aufgaben auf dem Rechtsweg belangt wird oder sich die Beschreitung des Rechtsweges als notwendig und angemessen erweist.
+
+<sup>2</sup> Dieser Anspruch entfällt bei geringfügigen Übertretungen oder wenn die Lehrperson eine schwerwiegende und offenkundige Pflichtverletzung begangen hat. Sie kann entfallen, wenn die Schulgemeinde, der Kanton oder deren Vertreter Gegenpartei ist oder beiden Parteien Rechtsschutz zu gewähren wäre.
+
+<sup>3</sup> Ergibt sich ein schuldhaftes Verhalten der Lehrperson, kann eine Kostenrückerstattung angeordnet werden.
+
+#### § 26
+
+**Datenschutz**
+
+<sup>1</sup> Die Schulgemeinde darf Daten über eine Lehrperson bearbeiten, die für das Arbeitsverhältnis notwendig sind. Sie führt für jede Lehrperson Personalakten. Berichte über die Lehrperson bilden Bestandteil der Personalakten.
+
+<sup>2</sup> Die Lehrperson hat ein Recht auf Einsicht in die sie betreffenden Akten, auf Berichtigung oder Vernichtung unrichtiger Personaldaten, auf Anbringung eines Vermerkes, wenn weder die Richtigkeit noch die Unrichtigkeit von Personendaten bewiesen werden kann, und auf die Sperrung von Personendaten.
+
+<sup>3</sup> Die Einsicht kann verweigert oder eingeschränkt werden, wenn wichtige öffentliche Interessen oder offensichtlich schutzwürdige private Interessen Dritter es verlangen. Eine Verweigerung oder Einschränkung ist zu begründen.
+
+<sup>4</sup> Im Übrigen gilt das kantonale Gesetz über den Datenschutz[^26-1] und die zugehörige Verordnung[^26-2].
+
+[^26-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
+[^26-2]: RB [170.71](https://www.rechtsbuch.tg.ch/data/170.71/de)
+
+#### § 27
+
+**Vorsorge für Alter, Invalidität und Tod**
+
+<sup>1</sup> Die Versicherung gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod richtet sich nach dem Reglement der Pensionskasse[^27-1].
+
+[^27-1]: RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de)
+
+#### § 28
+
+**Unfallversicherung**
+
+<sup>1</sup> Die Lehrpersonen sind gemäss den Bestimmungen des Bundesgesetzes über die Unfallversicherung[^28-1] gegen Berufs- und Nichtberufsunfall sowie gegen Berufskrankheit versichert.
+
+<sup>2</sup> Für die Versicherung gegen Nichtberufsunfälle leisten sie den gleichen Prämienanteil wie das Staatspersonal.
+
+[^28-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+
+#### § 29
+
+**Beratung**
+
+<sup>1</sup> Der Kanton sorgt für eine Beratung der Lehrpersonen in Laufbahnfragen und bei beruflichen Veränderungen.
+
+#### § 30
+
+**Urlaub**
+
+<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Krankheit, Unfall, Schwangerschaft und Niederkunft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Abwesenheit.
+
+<sup>2</sup> Durch den Urlaub wird das Arbeitsverhältnis nicht unterbrochen.
+
+<sup>3</sup> Nicht bezogene genehmigte Urlaubstage verfallen.
+
+#### § 31
+
+**Bewilligung**
+
+<sup>1</sup> Urlaub ist in der Regel im Voraus zu bewilligen.
+
+<sup>2</sup> Mit der Bewilligung wird der Termin des Urlaubs festgelegt.
+
+#### § 32
+
+**Unbezahlter Urlaub**
+
+<sup>1</sup> Unbezahlter Urlaub kann bis längstens 12 Monate bewilligt werden, wenn der ordentliche Schulbetrieb gewährleistet ist.
+
+<sup>2</sup> Bei unbezahltem Urlaub leistet die Schulgemeinde ihren Beitragsanteil an die Sparversicherung bis zu einem Monat weiter. Die Risikobeiträge leistet sie bis längstens 12 Monate, wenn die Beiträge arbeitnehmerseitig auch bezahlt werden. Die fehlenden Sparbeiträge können durch freiwillige Einlagen gemäss Vorgaben der Pensionskasse kompensiert werden.
+
+#### § 33
+
+**Bezahlter Urlaub**
+
+<sup>1</sup> Bezahlter Urlaub wird gewährt für Schulbesuche der Lehrpersonen und Urlaub aus persönlichen oder familiären Gründen, sofern die entsprechenden Voraussetzungen gegeben sind.
+
+<sup>2</sup> Für J+S-Aus- und Weiterbildungskurse, für die ein Anspruch auf Entschädigung aus der Erwerbsersatzordnung besteht, wird bezahlter Urlaub bis zu fünf Tagen pro Kalenderjahr gewährt.
+
+<sup>3</sup> Für die Ausübung öffentlicher Ämter oder im Interesse der Allgemeinheit liegender Tätigkeiten und der entsprechenden Ausbildung kann zusätzlich bis zu fünf Tagen pro Kalenderjahr bezahlter Urlaub gewährt werden.
+
+<sup>4</sup> Bezahlter Urlaub kann überdies gewährt werden für das Bildungssemester und allgemein, wo dies der Urlaubsgrund rechtfertigt, insbesondere bei im Interesse der Schulgemeinde liegender Weiterbildung.
+
+#### § 34
+
+**Schulbesuch der Lehrpersonen**
+
+<sup>1</sup> Jede Lehrperson hat das Recht, nach Absprache mit der Schulleitung einen Tag pro Semester dem Unterricht einer anderen Lehrperson zu folgen.
+
+#### § 35
+
+**Bildungssemester**
+
+<sup>1</sup> Das Departement kann einer Lehrperson auf Gesuch hin unter folgenden Voraussetzungen ein einmalig besoldetes Bildungssemester gewähren:
+
+- 1\. sie muss mindestens zehn Jahre mit einem durchschnittlichen Beschäftigungsgrad von wenigstens 50 % im thurgauischen Schuldienst unterrichtet haben, davon die letzten fünf Jahre ohne Unterbruch und unmittelbar vor dem Bildungssemester; nach einer Tätigkeit in einer thurgauischen Schulleitung kann von den letzten beiden Voraussetzungen abgesehen werden;
+- 2\. sie muss den Nachweis erbringen, dass sie sich schon bisher ausreichend in der unterrichtsfreien Zeit fortgebildet hat;
+- 3\. sie muss sich schriftlich verpflichten, nach Abschluss des Bildungssemesters noch mindestens drei Schuljahre im thurgauischen Schuldienst zu unterrichten;
+- 4\. die Stellvertretung muss sichergestellt sein;
+- 5\. das Bildungssemester muss die Lehrperson in ihren beruflichen Fähigkeiten fördern.
+
+<sup>2</sup> Das Bildungssemester darf längstens ein Schulsemester dauern und ist in der Regel bis zum vollendeten 55. Altersjahr anzutreten. Es ist in der Regel zusammenhängend zu beziehen. In begründeten Fällen kann eine Aufteilung bewilligt werden.
+
+<sup>3</sup> § 49 Absätze 2 und 3 gelten sinngemäss.
+
+<sup>4</sup> Das Departement erlässt ergänzende Richtlinien zum Bildungssemester, namentlich über die Mindestanforderungen an das Bildungsprogramm, die Kostentragung unter den Schulen und das Verfahren.
+
+#### § 36
+
+**Finanzierung und Rückzahlung**
+
+<sup>1</sup> Die Besoldung richtet sich nach dem durchschnittlichen Beschäftigungsgrad während der letzten zehn im Kanton Thurgau geleisteten Kalenderjahre vor dem Bildungssemester. Die Spesen für das Bildungssemester trägt die Lehrperson.
+
+<sup>2</sup> Für die Rückzahlung gilt § 50 sinngemäss.
+
+#### § 37
+
+**Urlaub aus persönlichen und familiären Gründen**
+
+<sup>1</sup> Die Lehrperson verrichtet persönliche oder familiäre Angelegenheiten grundsätzlich ausserhalb der Unterrichtszeiten.
+
+<sup>2</sup> Muss Unterrichtszeit beansprucht werden, steht der Lehrperson unter Vorbehalt weiterreichender Urlaube in besonderen Fällen für die nachstehend aufgeführten Ereignisse bezahlter Urlaub in folgendem Umfang zu:
+
+- 1\. Eigene Hochzeit — 2 Tage
+- 2\. Hochzeit eines eigenen Kindes oder Stiefkindes — 1 Tag
+- 3\. Geburt eines eigenen Kindes — 5 Tage
+- 4\. Adoption eines Kindes — 2 Tage
+- 5\. Wohnungswechsel — 1 Tag
+- 6\. Orientierungstag über Militär-, Schutz- und Zivildienst — 1 Tag
+- 7\. Entlassung aus der Militärdienstpflicht — 1 Tag
+- 8\. Todesfälle:
+  - 8\.1. Ehepartner oder -partnerin — 3 Tage
+  - 8\.2. Lebenspartner oder -partnerin — 3 Tage
+  - 8\.3. eigene Kinder oder Stiefkinder — 3 Tage
+  - 8\.4. Enkelkinder und weitere Nachkommen — 1 Tag
+  - 8\.5. Eltern — 2 Tage
+  - 8\.6. Geschwister — 2 Tage
+  - 8\.7. Schwiegereltern — 2 Tage
+  - 8\.8. Eltern des Lebenspartners oder der -partnerin — 2 Tage
+  - 8\.9. Schwiegertöchter und -söhne — 1 Tag
+  - 8\.10. Lebenspartnerin oder Lebenspartner des Sohnes oder der Tochter — 1 Tag
+  - 8\.11. Grosseltern — 1 Tag
+  - 8\.12. Begräbnis eines Arbeitskollegen oder einer Arbeitskollegin — ½ Tag
+
+<sup>3</sup> Unter gleicher Voraussetzung und nämlichem Vorbehalt besteht für die Organisation der Pflege eines Kindes oder Stiefkindes und die Pflege während der Organisationsphase pro Ereignis ein Anspruch auf bis zu zwei Tage bezahlten Urlaub. Auf Verlangen ist ein ärztliches Zeugnis über die Pflegebedürftigkeit des Kindes vorzuweisen.
+
+<sup>4</sup> Bei Vorliegen anderer Gründe, welche die Beanspruchung von Unterrichtszeit notwendig machen, können statt bezahltem Urlaub Lektionenverschiebungen oder unbezahlte Urlaube bewilligt werden.
+
+#### § 37a
+
+**Schwangerschafts- und Mutterschaftsurlaub**
+
+<sup>1</sup> Der Schwangerschaftsurlaub beginnt zwei Wochen vor dem ärztlich bestimmten Niederkunftstermin.
+
+<sup>2</sup> Um Kurzeinsätze der Lehrerin oder einer Stellvertretung zu vermeiden, kann die Schulgemeinde im Einverständnis mit der Lehrerin den Beginn des Schwangerschaftsurlaubs zur Abgleichung mit dem Schulferienbeginn oder -ende um höchstens zwei Wochen vorverlegen oder um eine Woche Richtung Niederkunftstermin verschieben.
+
+<sup>3</sup> Unterrichtsfreie Zeit, Ausfälle wegen Krankheit oder Unfall, Urlaube sowie Feier- und Ruhetage führen nicht zu einer Unterbrechung des Schwangerschafts- und Mutterschaftsurlaubs und geben keinen Anspruch auf Abgeltung oder Nachgewährung.
+
+<sup>4</sup> Im Übrigen richten sich Schwangerschafts- und Mutterschaftsurlaub nach der Besoldungsverordnung des Grossen Rates[^37a-1] und der Verordnung des Regierungsrates zur Besoldungsverordnung[^37a-2].
+
+[^37a-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+[^37a-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
+
+#### § 38
+
+**Altersentlastung**
+
+<sup>1</sup> Lehrpersonen, die das 59. Altersjahr vollendet haben, erhalten auf Gesuch hin ab dem folgenden Semester eine Altersentlastung ohne Besoldungsreduktion, sofern sie mit einem Pensum von mindestens 15 Lektionen unterrichten. Diese umfasst je nach Pensum bis zu drei Lektionen pro Woche.
+
+<sup>2</sup> Das Departement erlässt Richtlinien zur Festlegung des Anspruchs und zur Anrechnung verschiedener Tätigkeiten.
+
+<sup>3</sup> Ab Einräumung einer Altersentlastung dürfen Zusatzlektionen, die nicht kompensiert werden können, nicht mehr erteilt werden.
+
+#### § 39
+
+**Arbeitszeugnis**
+
+<sup>1</sup> Jede Lehrperson hat Anspruch auf Ausstellung eines Arbeitszeugnisses, das sich über Art und Dauer des Arbeitsverhältnisses sowie über ihre Leistungen und ihr Verhalten ausspricht.
+
+<sup>2</sup> Auf ihr besonderes Verlangen hat sich das Zeugnis auf Angaben über Art und Dauer des Arbeitsverhältnisses zu beschränken.
+
+#### § 40
+
+**Information**
+
+<sup>1</sup> Der Kanton informiert die Lehrerschaft in geeigneter Form, in der Regel im Voraus durch Veröffentlichung im Schulblatt, über grundlegende Veränderungen, Entscheide und Massnahmen im Bereich des Personalrechts, die sich auf grosse Teile von ihr oder ihre Gesamtheit auswirken.
+
+<sup>2</sup> Über inhaltliche Belange personalrechtlicher Verfahren muss nicht informiert werden.
+
+#### § 41
+
+**Mitwirkung**
+
+<sup>1</sup> Unter Vorbehalt abweichender Regelungen in anderen Erlassen gibt der Kanton dem Verband Bildung Thurgau, dem Verband Thurgauer Schulgemeinden (VTGS), dem Verband Schulleiterinnen und Schulleiter Thurgau (VSL TG) und dem Verband Trägerschaften Sonderschulen Thurgau (VTST) vor Erlass, materieller Änderung oder Aufhebung von personalrechtlichen Bestimmungen sowie in grundlegenden Personal-, Führungs- und Organisationsfragen, die sich auf grosse Teile von Lehrerschaft oder Schulgemeinden oder ihre Gesamtheit auswirken, Gelegenheit zur Vernehmlassung.
+
+<sup>2</sup> Die genannten Partner können in ihrem Bereich Anträge auf Erlass und Vollzug personalrechtlicher Bestimmungen stellen.
+
+## 5. Besoldung und weitere finanzielle Leistungen
+
+#### § 42
+
+**Einreihung**
+
+<sup>1</sup> Die Einreihung der Lehrpersonen richtet sich nach der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen[^42-1] und dem Anhang. Der Anhang unterscheidet nach Stufenlehrdiplom, Fachlehrdiplom und Diplom in Schulischer Heilpädagogik. Als Stufenlehrdiplom gilt ein ordentlicher, EDK-anerkannter Abschluss für die Vorschulstufe, Primarstufe, Sekundarstufe I oder II. Als Stufenlehrdiplom gilt auch das Lehrdiplom Textilarbeit/Werken oder Hauswirtschaft. Als Fachlehrdiplom gilt ein Lehrdiplom in einem Fach. Für Personen mit nicht aufgeführten Abschlüssen sowie für Personen in Ausbildung zu EDK-anerkannten Stufendiplomen regelt das Departement die Besoldung durch Richtlinie.
+
+<sup>2</sup> Lehrpersonen mit Abschlüssen, welche zum Unterricht auf einer höheren Stufe berechtigen, werden nach der für den Einsatzbereich erforderlichen Ausbildung eingereiht.
+
+<sup>2<sup>bis</sup></sup> Personen mit altrechtlichen Lehrdiplomen, die eine anerkannte Lehrbefähigung in einem zusätzlichen Unterrichtsfach erwerben, werden für den Unterricht im neuen Fach gemäss ihrem ursprünglichen Lehrdiplom eingereiht, vorbehältlich einer besonderen Regelung im Anhang. Als anerkannt gelten Facherweiterungen, die der Ausbildung zum regulären Stufendiplom entsprechen und die Zulassungsvoraussetzungen der EDK erfüllen, sowie altrechtliche Nachqualifikationen mit Lehrberechtigung im Fach Englisch Sekundarstufe I des Kantons Thurgau.
+
+<sup>3</sup> Personen, welche auf der Sekundarstufe I ohne anerkanntes Lehrdiplom unterrichten und für das unterrichtete Fach über einen anerkannten Ausbildungsabschluss auf Tertiärstufe verfügen, werden für dieses Fach in das Lohnband 4 eingereiht.
+
+<sup>4</sup> Lehrpersonen, welche auf der Sekundarstufe I mit einem tieferen, stufenfremden anerkannten Lehrdiplom unterrichten und für das unterrichtete Fach über einen anerkannten Master verfügen, werden für dieses Fach in das Lohnband 5 eingereiht.
+
+<sup>5</sup> Für alle übrigen Personen ohne anerkanntes Lehrdiplom beträgt die Entschädigung jeweils 85 % von Lohnband 2 bei Unterricht auf Kindergartenstufe, Basisstufe und Primarstufe und von Lohnband 3 bei Unterricht auf Sekundarstufe I.
+
+[^42-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
+
+#### § 43
+
+**Einstufung**
+
+<sup>1</sup> Die Einstufung innerhalb eines Lohnbandes bemisst sich nach der bisherigen Berufserfahrung. Bruchteile der Anrechnung werden auf die nächste ganze Lohnposition abgerundet. Nur bei Beginn einer unbefristeten Anstellung per 1. August erfolgt bereits auf das neue Kalenderjahr der Anstieg um eine Lohnposition.
+
+<sup>2</sup> Personen, welche auf der Kindergartenstufe, der Primarstufe oder auf der Sekundarstufe I oder II im Klassenverband unterrichten oder als Schulleiterin oder Schulleiter gewirkt haben, als Schulische Heilpädagogin oder Schulischer Heilpädagoge oder sonderpädagogische Fachperson angestellt waren, wird bei unbefristeten Anstellungsverhältnissen pro Kalenderjahr die volle Anrechnung gewährt. Befristete Anstellungsverhältnisse von mindestens zwei Jahren im thurgauischen Schuldienst oder bei demselben ausserkantonalen Arbeitgeber werden analog eines unbefristeten Anstellungsverhältnisses behandelt.
+
+<sup>3</sup> Bei unbefristet angestellten Personen mit Tätigkeiten in anderen Berufen, bei Stütz- und Förderlehrpersonen sowie bei Personen, welche ihre eigenen Kinder betreuen, geschieht pro Kalenderjahr die Anrechnung zur Hälfte. Befristete Anstellungsverhältnisse von mindestens zwei Jahren im thurgauischen Schuldienst oder bei demselben ausserkantonalen Arbeitgeber werden analog eines unbefristeten Anstellungsverhältnisses behandelt.
+
+<sup>4</sup> Personen nach Absatz 2 mit befristeten Anstellungen erhalten die volle Anrechnung pro 400 erteilte Lektionen, bei Personen nach Absatz 3 die hälftige Anrechnung pro 600 Arbeitsstunden.
+
+<sup>5</sup> Verschiedene Berufserfahrungen nach den Absätzen 2, 3 und 4 können nicht kumuliert werden, es gilt jeweils die höhere Anrechnung. Tätigkeiten während einer Erstausbildung werden nicht angerechnet.
+
+#### § 43a
+
+**Verfahren**
+
+<sup>1</sup> Einreihung und Einstufung erfolgen auf Anstellungsbeginn auf Grundlage der von der Schulgemeinde eingereichten Unterlagen.
+
+<sup>2</sup> Bei Erwerb eines Abschlusses erfolgt eine mögliche Anpassung der Einreihung und Einstufung im Folgemonat der Ausstellung des Diploms.
+
+<sup>3</sup> Nachträglich eingereichte Unterlagen berechtigen zu einer neuen Einreihung und Einstufung ab dem Folgemonat der Einreichung.
+
+#### § 44
+
+**Bedeutung der Grundbesoldung**
+
+<sup>1</sup> Die Grundbesoldung deckt die Unterrichtstätigkeit im Rahmen des Pflichtpensums und die Aufgaben gemäss Berufsauftrag ab.
+
+<sup>2</sup> Anspruch auf eine zusätzliche Entschädigung besteht nur, wo ein Auftrag erteilt wurde, welcher eine erhebliche Mehrbelastung mit sich bringt.
+
+#### § 45
+
+**Entschädigung für vorübergehende Pensenabweichung**
+
+<sup>1</sup> Lektionen infolge einer vorübergehenden Pensenabweichung sind innerhalb der zwei folgenden Semester zu kompensieren. Ist dies nicht möglich, sind Lektionen bis zum Pflichtpensum zu 100 %, darüber hinaus gehende Lektionen (Zusatzlektionen) zu 85 % zu entschädigen.
+
+#### § 45a
+
+**Besoldung bei befristeter Anstellung**
+
+<sup>1</sup> Befristet angestellte Lehrpersonen erhalten bei einer Anstellungsdauer bis und mit acht Unterrichtswochen 85 %, darüber hinaus 100 % der ordentlichen Besoldung.
+
+<sup>2</sup> Der Lohnanspruch bei Verhinderung der Arbeitsleistung richtet sich nach jenem von Personen, die beim Kanton befristet angestellt sind.
+
+#### § 46
+
+**Beginn und Ende des Besoldungsanspruchs**
+
+<sup>1</sup> Bei Antritt der Stelle zu Beginn des Herbstsemesters entsteht der Besoldungsanspruch ab 1. August, bei Antritt zu Beginn des Frühlingssemesters ab 1. Februar.
+
+<sup>2</sup> Der Besoldungsanspruch einer Lehrperson endet am 31. Januar, wenn sie die Stelle auf Ende des Herbstsemesters verlässt, am 31. Juli, wenn sie die Stelle auf Ende des Frühlingssemesters verlässt.
+
+<sup>3</sup> Bei Beginn oder Ende des Arbeitsverhältnisses während des Semesters bemisst sich der Besoldungsanspruch nach den bis zum Beginn oder Ende tatsächlich erteilten beziehungsweise noch zu erteilenden Unterrichtswochen. Eine Unterrichtswoche entspricht dem Jahreslohn dividiert durch 39.2.
+
+<sup>4</sup> Für unbezahlte Urlaube sowie für Pensenwechsel während des Semesters gilt die Regelung gemäss Absatz 3 analog. Bei unbezahlten Urlauben bis und mit acht Unterrichtswochen erfolgt der Abzug nur zu 85 %.
+
+#### § 46a
+
+**Grundlagen flexibles Besoldungssystem**
+
+<sup>1</sup> Die Lohnbänder werden in vier Abschnitte geteilt:
+
+- 1\. Erster Abschnitt: Lohnposition 00 bis 02;
+- 2\. Zweiter Abschnitt: Lohnposition 03 bis 08;
+- 3\. Dritter Abschnitt: Lohnposition 09 bis 18;
+- 4\. Vierter Abschnitt: Lohnposition 19 und höher.
+
+<sup>2</sup> Mitarbeiterbeurteilungen erfolgen gemäss § 8 der Verordnung des Regierungsrates über die Volksschule[^46a-1]. Eine Mitarbeiterbeurteilung ist in jedem Fall in der letzten Lohnposition des ersten, zweiten und dritten Abschnitts durchzuführen.
+
+<sup>3</sup> Es gibt zwei Beurteilungsstufen:
+
+- 1\. Prädikat „gut“: Wesentliche Leistungs- und Verhaltensanforderungen wurden erfüllt;
+- 2\. Prädikat „ungenügend“: Wesentliche Leistungs- und Verhaltensanforderungen wurden nicht oder ungenügend erfüllt.
+
+[^46a-1]: RB [411.111](https://www.rechtsbuch.tg.ch/data/411.111/de)
+
+#### § 46b
+
+**Anstieg auf nächste Lohnposition**
+
+<sup>1</sup> Nach der letzten Lohnposition des ersten, zweiten und dritten Abschnitts wird die nächste Lohnposition mit einer Beurteilung „gut“ erreicht. Fällt die Beurteilung „ungenügend“ aus, wird der Anstieg auf die nächste Lohnposition ausgesetzt.
+
+<sup>2</sup> Frühestens ein Jahr nach Aussetzung des Anstiegs auf die nächste Lohnposition wird auf Begehren der Lehrperson erneut eine Mitarbeiterbeurteilung durchgeführt. Bei der Beurteilung „gut“ wird im folgenden Jahr die übernächste Lohnposition erreicht. Ohne neue Mitarbeiterbeurteilung und bei der Beurteilung „ungenügend“ bleibt der Anstieg auf die übernächste Lohnposition ausgesetzt.
+
+<sup>3</sup> In den Jahren, welche nicht die letzte Lohnposition eines Abschnitts betreffen, erfolgt der Anstieg in die nächste Lohnposition in der Regel automatisch.
+
+<sup>4</sup> Nach erfolglos durchgeführten Massnahmen zur Verbesserung der Leistung und des Verhaltens kann auch innerhalb eines Abschnittes der Anstieg in die nächste Lohnposition ausgesetzt werden.
+
+#### § 46c
+
+**Anhörungsverfahren**
+
+<sup>1</sup> Bei einer ungenügenden Beurteilung kann die Lehrperson innert zehn Tagen beim Departement das Gespräch mit einem Ausschuss verlangen, der sich aus je zwei Vertretern des Verbandes Bildung Thurgau und des Verbandes Thurgauer Schulgemeinden (VTGS) zusammensetzt. Der Ausschuss wird vom Departement für jedes Verfahren neu ernannt.
+
+<sup>2</sup> Der Ausschuss prüft das eingereichte Begehren. Er kann die Lehrperson, die für die Personalführung zuständige Person oder ausnahmsweise aussenstehende Fachpersonen anhören.
+
+<sup>3</sup> Er erlässt eine schriftliche Empfehlung zu Handen der Schulbehörde, die auch der Lehrperson mitgeteilt wird. Die Schulbehörde entscheidet abschliessend.
+
+#### § 47
+
+**Spesen**
+
+<sup>1</sup> Die Lehrpersonen haben Anspruch auf Ersatz der notwendigen Auslagen, die ihnen in Ausübung ihrer beruflichen Tätigkeit erwachsen. Es können Pauschalansätze festgelegt werden.
+
+#### § 48
+
+**Weiterbildungskosten**
+
+<sup>1</sup> Unter Vorbehalt der Bereitstellung unentgeltlicher Angebote oder von Beiträgen durch den Kanton tragen die Schulgemeinden die Kosten für die interne und die von ihnen obligatorisch erklärte externe Weiterbildung.
+
+<sup>2</sup> Auf vorgängiges Gesuch kann sich die Schulgemeinde an den Kosten der im Interesse der Schule liegenden freiwilligen externen Weiterbildung beteiligen.
+
+<sup>3</sup> Die Beteiligung kann Kurskosten, Prüfungsgebühren, Spesen sowie Lohnkosten für ausfallende Arbeitszeit umfassen.
+
+#### § 49
+
+**Folgen einer Beteiligung**
+
+<sup>1</sup> Die Lehrperson ist verpflichtet, nach Abschluss des Schuljahres, während welchem die freiwillige externe Weiterbildung abgeschlossen wurde, im Dienst der Schulgemeinde zu bleiben, und zwar bei einer Kostenbeteiligung von Fr. 5 000.– bis 15 000.– ein weiteres Schuljahr, von Fr. 15 001.– bis 30 000.– zwei Schuljahre und ab Fr. 30 001.– drei Schuljahre.
+
+<sup>2</sup> Bei einer Änderung des Beschäftigungsgrades wird die Pflichtzeit bis auf maximal vier Schuljahre proportional verlängert, wobei der Schuldienst für angebrochene Semester vollständig zu leisten ist.
+
+<sup>3</sup> Unbezahlte Urlaube von über 30 Tagen führen zu einer Verlängerung der Pflichtzeit bis auf maximal vier Schuljahre, wobei der Schuldienst für angebrochene Semester vollständig zu leisten ist.
+
+#### § 50
+
+**Rückzahlung der Beiträge**
+
+<sup>1</sup> Bei Nichtantritt oder Abbruch der Weiterbildung sind die aufgelaufenen Beiträge zurückzuzahlen.
+
+<sup>2</sup> Bei Auflösung des Dienstverhältnisses vor Ablauf der Weiterbildung sind die Beiträge vollständig zurückzuzahlen, danach bei Bestehen einer Pflichtzeit anteilsmässig für die nicht geleistete Zeit.
+
+<sup>3</sup> Das Departement befindet über die Verteilung zwischen Kanton und Gemeinde und kann aus wichtigen Gründen, namentlich wenn das Arbeitsverhältnis aufgrund betrieblicher Gründe aufgelöst wurde, den Rückzahlungsbetrag kürzen oder erlassen.
+
+## 6. Pflichten der Lehrpersonen
+
+#### § 51
+
+**Grundsatz**
+
+<sup>1</sup> Die Pflichten der Lehrpersonen richten sich nach den gesetzlichen Zielen und werden konkretisiert durch diese Verordnung, Lehrpläne, Berufsaufträge, Leitbilder und Pflichtenhefte in den Schulgemeinden sowie Weisungen der zuständigen Organe.
+
+<sup>2</sup> Sie umfassen insbesondere:
+
+- 1\. den Unterricht samt Vor- und Nachbereitung;
+- 2\. die Weiterbildung;
+- 3\. die Mitarbeit bei Qualitätssicherung und -entwicklung;
+- 4\. die Zusammenarbeit im Lehrteam, mit Eltern, Beratungs- und Fachstellen sowie Behörden und Diensten;
+- 5\. die Erledigung der damit zusammenhängenden Administration und Planung;
+- 6\. Beiträge an die eigene Schule;
+- 7\. eine angemessene Präsenzzeit vor und nach dem Unterricht;
+- 8\. für Klassenlehrpersonen die Planung und Organisation des Klassenlebens, die Leitung von Klassenverlegungen und die Koordination von Beurteilungen.
+
+<sup>3</sup> Im Rahmen individueller Leistungsvorgaben durch die vorgesetzte Stelle kann von den Pflichten abgewichen werden. Die Abweichungen sind im Einzelnen schriftlich festzuhalten.
+
+#### § 52
+
+**Pflichtlektionenzahl**
+
+<sup>1</sup> Es gelten folgende Pflichtpensen:
+
+- 1\. für Lehrpersonen der Sekundarstufe I, der Sonderklasse der Sekundarstufe I: 29 Lektionen zu 45 Minuten;
+- 2\. für Lehrpersonen des Kindergartens, der Basisstufe, der Primarstufe und der Sonderklasse Primarstufe: 30 Lektionen zu 45 Minuten;
+- 3\. …
+- 4\. für Schulische Heilpädagogen und Heilpädagoginnen: 30 Lektionen zu 45 Minuten.
+
+<sup>2</sup> Lehrpersonen mit Klassenlehrerfunktion wird eine Lektion an das Pensum angerechnet.
+
+#### § 53
+
+**Festlegung Unterrichtszeiten und Pensen**
+
+<sup>1</sup> Die Festlegung der Unterrichtszeiten und des Beschäftigungsgrades bei Lehrpersonen mit variablem Beschäftigungsgrad erfolgen durch einfache arbeitsrechtliche Weisung. Weisungen zur Änderung des Beschäftigungsgrades sind nur wirksam, sofern sie spätestens zwei Monate vor Semesterende erfolgen.
+
+<sup>2.</sup> Abweichungen von den im Stundenplan festgelegten Unterrichtszeiten bedürfen der Bewilligung. Diese kann mit Bedingungen oder Auflagen verbunden werden.
+
+#### § 54
+
+**Vorübergehende Pensenabweichung**
+
+<sup>1</sup> Können die anfallenden Unterrichtslektionen nicht im Rahmen der Anstellungspensen unter die Lehrpersonen an einer Schule verteilt werden, sind zusätzliche Lehrpersonen anzustellen.
+
+<sup>2</sup> In Ausnahmefällen können Lehrpersonen mit einem Pensum von über 50 % verpflichtet werden, bis zu vier Lektionen pro Woche zusätzlich zu erteilen, solche mit einem Pensum unter 50 % bis zu zwei Lektionen. Für Lehrpersonen mit Altersentlastung gilt diese Regelung nicht.
+
+<sup>3</sup> Die Erteilung von mehr als vier Lektionen über dem Pflichtpensum (Zusatzlektionen) bedarf der Genehmigung durch das Amt.
+
+<sup>4</sup> Die Schulgemeinden können statt der generellen Auszahlung von zusätzlich erteilten Lektionen die Einführung von Pensenbuchhaltungen mit der Pflicht zur Kompensation von Plus- und Minuslektionen vorsehen.
+
+#### § 55
+
+**Freistellung**
+
+<sup>1</sup> In begründeten Fällen können Lehrpersonen ohne Einfluss auf die Lohnfortzahlung vorübergehend von der Arbeitsleistung freigestellt werden.
+
+<sup>2</sup> Unter Vorbehalt abweichender Weisung darf die Lehrperson im Falle der Freistellung nach erfolgter Kündigung eine Ersatztätigkeit annehmen, ohne Kündigung bedarf die Annahme der ausdrücklichen Zustimmung der Schulgemeinde. Die Annahme ist meldepflichtig.
+
+<sup>3</sup> Ohne anderslautende Vereinbarung werden die Einkünfte aus einer anderen Erwerbstätigkeit während der Freistellung an den Lohn angerechnet.
+
+<sup>4</sup> Bei Antritt einer neuen Stelle während laufender Kündigungsfrist ist die Auflösung des Arbeitsverhältnisses nachträglich so festzusetzen, dass nicht zwei Arbeitsverhältnisse gleichzeitig bestehen.
+
+#### § 56
+
+**Weiterbildung**
+
+<sup>1</sup> Die Lehrperson ist verpflichtet, sich entsprechend den Bedürfnissen des Unterrichts und den Anforderungen des Berufsauftrages weiterzubilden.
+
+<sup>2</sup> Die Weiterbildung findet in der unterrichtsfreien Zeit statt. Das Amt kann Ausnahmen bewilligen.
+
+#### § 57
+
+**Nebenbeschäftigung, öffentliche Ämter**
+
+<sup>1</sup> Die Ausübung von Nebenbeschäftigungen oder die Übernahme öffentlicher Ämter ist der vorgesetzten Stelle in der Regel vor Antritt zu melden, im Übrigen aber zulässig, wenn sie
+
+- 1\. die dienstliche Aufgabenerfüllung nicht beeinträchtigt,
+- 2\. mit dem Arbeitsverhältnis vereinbar ist und
+- 3\. keine Interessenkollisionen zur Folge hat.
+
+<sup>2</sup> Unter Vorbehalt der Fälle des Amtszwanges ist eine schriftliche Bewilligung der vorgesetzten Stelle erforderlich, wenn die Ausübung einen Teil der Arbeitszeit beansprucht oder ein wesentlicher Nebenerwerb angestrebt beziehungsweise erzielt wird oder die Arbeitsleistung im Schuldienst beeinträchtigt werden kann.
+
+<sup>3</sup> Bei vollzeitlich Beschäftigten wird von einem wesentlichen Nebenerwerb ausgegangen, wenn mehr als ein Zehntel der bei der Schulgemeinde bezogenen Jahresbesoldung angestrebt oder erzielt wird.
+
+<sup>4</sup> Wird Arbeitszeit beansprucht, ist in der Regel eine Kürzung des Beschäftigungsgrades vorzunehmen, ersatzweise kann Urlaub gewährt werden.
+
+#### § 58
+
+**Treuepflicht**
+
+<sup>1</sup> Die Lehrperson ist zu treuer, sorgfältiger und wirtschaftlicher Arbeitsleistung verpflichtet. Dabei wahrt sie die Interessen der Schulgemeinde und unterlässt alles, was diese beeinträchtigt.
+
+<sup>2</sup> Sie arbeitet mit den örtlichen und kantonalen Bildungsstellen zusammen und befolgt deren Weisungen.
+
+#### § 59
+
+**Berufsgeheimnis**
+
+<sup>1</sup> Die Lehrperson ist zur Verschwiegenheit über dienstliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
+
+<sup>2</sup> Die Pflicht zur Verschwiegenheit bleibt auch nach Beendigung des Arbeitsverhältnisses bestehen.
+
+<sup>3</sup> Die Einsichtnahme in amtliche Akten, deren Weitergabe oder die Weiterleitung geheim zu haltender Informationen ist nur gestattet, soweit es der Geschäftsgang bedingt oder ein Gesetz dazu ermächtigt und im Falle der Weitergabe als Partei, Zeuge oder Zeugin, gerichtliche Sachverständige oder Auskunftsperson, soweit die Anstellungsinstanz dazu ermächtigt hat.
+
+#### § 60
+
+**Geschenkannahmeverbot**
+
+<sup>1</sup> Lehrpersonen ist es untersagt, für sich oder andere Personen im Zusammenhang mit ihrer beruflichen Stellung Geschenke oder andere unentgeltliche Vorteile zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
+
+<sup>2</sup> Von diesem Verbot ausgenommen ist die Annahme von Höflichkeitsgeschenken von geringem Wert nach erbrachter Dienstleistung.
+
+#### § 61
+
+**Meldepflicht**
+
+<sup>1</sup> Die Lehrpersonen haben Veränderungen in den persönlichen Verhältnissen, die für das Arbeitsverhältnis von Bedeutung sind, umgehend der zuständigen Personalstelle mitzuteilen.
+
+#### § 62
+
+**Urheberrecht**
+
+<sup>1</sup> Bei Werken, die im Rahmen des Arbeitsverhältnisses geschaffen wurden, steht der Schulgemeinde das alleinige Recht auf entgeltliche Verwertung sowie ein Gebrauchsrecht für ihre Schulen zu.
+
+<sup>2</sup> Das Eigentum an Werkexemplaren steht der Schulgemeinde zu, wenn sie überwiegend für die Materialkosten aufgekommen ist. Andernfalls kann sie auf ihre Kosten Kopien erstellen.
+
+#### § 63
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die vermögens- und strafrechtliche Verantwortlichkeit richtet sich nach dem Gesetz über die Verantwortlichkeit[^63-1].
+
+[^63-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
+
+## 7. Übergangs- und Schlussbestimmungen
+
+#### § 64
+
+**Übergangsrecht**
+
+<sup>1</sup> Lehrpersonen, die im ersten Semester des Schuljahres 2018/19 das 58. Altersjahr vollenden, haben bis zum 31. Januar 2020 Anspruch auf Altersentlastung gemäss bisheriger Regelung.
+
+<sup>2</sup> Der Besitzstand gemäss Absatz 1 gilt nur bei unverändertem Beschäftigungsgrad und ununterbrochener Anstellung im Thurgauer Schuldienst.
+
+#### § 65
+
+**Übergangsbestimmung Einreihung, Einstufung und Pflichtlektionenzahl**
+
+<sup>1</sup> Führen die Anwendung der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen[^65-1] sowie die Änderung dieser Verordnung zu einer tieferen Besoldung als im Vormonat, wird in diejenige Lohnposition des massgebenden Lohnbandes eingestuft, welche mindestens der bisherigen Besoldung entspricht. Der Stufenanstieg wird solange ausgesetzt, bis die ordentliche Anrechnung der Berufserfahrung erreicht ist. Liegt die bisherige Einstufung über dem Maximum des Lohnbandes, wird die bisherige Besoldung als eine separate, nicht veränderbare Lohnposition weitergeführt.
+
+<sup>2</sup> Die Besitzstandswahrung nach Absatz 1 gilt nur bei gleicher Tätigkeit und ununterbrochener Anstellung im thurgauischen Schuldienst.
+
+<sup>3</sup> Die Anhebung der Pflichtlektionenzahl für Lehrpersonen für Textilarbeit/Werken und Hauswirtschaft gemäss § 52 gilt ab 1. August 2015.
+
+[^65-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
+
+#### § 66
+
+**Übergangsrecht**
+
+<sup>1</sup> Unter Vorbehalt nachstehender Bestimmungen gilt nach Inkrafttreten dieser Verordnung für alle bisherigen Arbeitsverhältnisse neues Recht.
+
+<sup>2</sup> Unbefristete Anstellungen bleiben unbefristet.
+
+<sup>3–6</sup> …
+
+<sup>7</sup> Bestehende Jobsharingverträge mit der Absprache der Auflösung der Arbeitsverhältnisse bei Kündigung von oder gegenüber einer Lehrperson gelten als Vereinbarungen im Sinne von § 18.
+
+<sup>8</sup> …
+
+#### § 66a–67
+
+**…**
+
+ABl. 5/2005

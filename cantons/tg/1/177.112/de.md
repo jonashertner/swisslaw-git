@@ -1,0 +1,1120 @@
+---
+canton: TG
+number: "177.112"
+title: Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
+short: RSV
+language: de
+version: 2020-01-01
+valid_until: 2021-12-31
+version_adopted: 2019-11-19
+adopted: 2003-12-09
+in_force: 2004-06-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/177.112"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1665/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung des Regierungsrates über die Rechtsstellung des Staatspersonals
+
+RSV
+
+(RSV)
+
+vom 09.12.2003 (Stand 01.01.2020)
+
+## 1. Allgemeine Bestimmungen
+
+### 1.1. Geltungsbereich
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt das Dienstverhältnis der beim Kanton tätigen Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Sie ist auf das Personal der AHV-Ausgleichskasse des Kantons Thurgau, der IV-Stelle des Kantons Thurgau, der Familienausgleichskasse des Kantons Thurgau und der Pädagogischen Hochschule nur anwendbar, wenn und soweit die für diese Anstalten massgebenden Bestimmungen dies vorsehen.
+
+<sup>3</sup> Sie findet keine Anwendung auf Magistratspersonen, auf das Personal der Thurgauer Kantonalbank, der Elektrizitätswerk des Kantons Thurgau AG, der Gebäudeversicherung des Kantons Thurgau und der Spital Thurgau AG.
+
+<sup>4</sup> Der Regierungsrat kann Expertinnen und Experten, Kommissionsmitglieder sowie Inhaberinnen und Inhaber von Nebenämtern dieser Verordnung unterstellen.
+
+#### § 2
+
+**Vorbehalt übergeordneten und abweichenden Rechts**
+
+<sup>1</sup> Vorbehalten bleiben das übergeordnete Recht sowie abweichende Bestimmungen für einzelne Personalbereiche.
+
+<sup>2</sup> Soweit diese Verordnung nichts anderes regelt, gelten die Bestimmungen des Schweizerischen Obligationenrechts[^2-1] sinngemäss.
+
+<sup>3</sup> Der Regierungsrat kann für einzelne Ämter, Anstalten, Gerichte oder Personalkategorien während einer befristeten Dauer zur probeweisen Umsetzung geplanter Neuerungen von einzelnen Bestimmungen abweichen.
+
+[^2-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+### 1.2. Begriffe
+
+#### § 3
+
+**Mitarbeiterinnen und Mitarbeiter**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind:
+
+- 1\. Angestellte, die auf unbestimmte oder bestimmte Zeit in einem Dienstverhältnis beim Kanton stehen;
+- 2\. die auf Amtsdauer gewählten Personen;
+- 3\. Auszubildende, die eine Berufslehre nach den eidgenössischen und kantonalen Bestimmungen über das berufliche Bildungswesen und den Vorschriften der Berufsverbände absolvieren;
+- 4\. Praktikantinnen und Praktikanten, die sich in der Regel während längstens zwei Jahren zur Vorbereitung oder Ergänzung ihrer Ausbildung im praktischen Berufseinsatz befinden.
+
+#### § 4
+
+**Voll- und Teilzeitbeschäftigte, Ein- oder Austritt während des Kalenderjahres**
+
+<sup>1</sup> Vollzeitbeschäftigte üben eine Beschäftigung von 100 %, Teilzeitbeschäftigte eine solche von weniger als 100 % aus.
+
+<sup>2</sup> Für Teilzeitbeschäftigte und während des Jahres ein- oder austretende Mitarbeiterinnen und Mitarbeiter gelten dieselben Rechte und Pflichten wie für Vollzeitbeschäftigte, sofern nicht besondere Bestimmungen eine abweichende Regelung vorsehen. Die Ansprüche bemessen sich anteilsmässig nach dem Beschäftigungsgrad beziehungsweise der Dauer des Dienstverhältnisses.
+
+<sup>3</sup> Teilzeitbeschäftigten stehen alle Funktionen offen, soweit nicht die Aufgabenerfüllung oder der betriebliche Ablauf beeinträchtigt werden oder betriebswirtschaftliche Gründe entgegenstehen.
+
+#### § 4a
+
+**Mehrfachanstellungen**
+
+<sup>1</sup> Von Mehrfachanstellungen wird gesprochen, wenn Mitarbeiterinnen und Mitarbeiter gleichzeitig mehrere Dienstverhältnisse oder bezahlte Engagements im Rahmen von Kommissionen, im Nebenamt oder als Expertinnen und Experten inne haben.
+
+<sup>2</sup> Der maximale Beschäftigungsgrad aller kantonalen Anstellungen und Engagements darf 110 % nicht übersteigen. In begründeten Fällen können zeitlich beschränkte Ausnahmen bewilligt werden.
+
+### 1.3. Zuständigkeiten
+
+#### § 5
+
+**Regierungsrat**
+
+<sup>1</sup> Der Regierungsrat ist für die Begründung und Beendigung der Dienstverhältnisse der von ihm zu wählenden oder anzustellenden Mitarbeiterinnen und Mitarbeiter zuständig.
+
+<sup>2</sup> Für alle übrigen personalrechtlichen Geschäftsfälle der durch den Regierungsrat gewählten oder angestellten Mitarbeiterinnen und Mitarbeiter ist das Departement, das Amt oder die Anstalt zuständig.
+
+<sup>3</sup> Vorbehalten bleiben weitere Kompetenzen gemäss dieser Verordnung.
+
+#### § 6
+
+**Departemente und Staatskanzlei**
+
+<sup>1</sup> Das Departement und die Staatskanzlei stellen die Generalsekretärinnen und Generalsekretäre, die Leiterinnen und Leiter der Ämter und Anstalten sowie die leitende Zivilstandsbeamtin oder den leitenden Zivilstandsbeamten an. Sie sind für die Regelung aller übrigen mit dem Dienstverhältnis dieser Personen zusammenhängenden Geschäftsfälle zuständig, insbesondere auch für die Beendigung des Dienstverhältnisses.
+
+<sup>2</sup> Die Departemente sind zuständig für den Erlass von Entscheiden bezüglich der nicht streitigen Angelegenheiten im Zusammenhang mit dem Dienstverhältnis der vom Volk und vom Grossen Rat auf Amtsdauer gewählten Personen.
+
+<sup>3</sup> Diese Kompetenzen gelten unter Beachtung der finanziellen Vorgaben, des Leistungsauftrages und des Stellenplanes.
+
+<sup>4</sup> Vorbehalten bleiben weitere Kompetenzen gemäss dieser Verordnung.
+
+#### § 7
+
+**Ämter, Anstalten und Gerichte**
+
+<sup>1</sup> Ämter, Anstalten und Gerichte stellen alle nicht vom Regierungsrat, den Departementen oder der Staatskanzlei anzustellenden Mitarbeiterinnen und Mitarbeiter an. Sie sind für die Regelung aller übrigen mit dem Dienstverhältnis dieser Personen zusammenhängenden Geschäftsfälle zuständig, insbesondere auch für die Beendigung des Dienstverhältnisses.
+
+<sup>2</sup> Eine Delegation dieser Kompetenz ist nur mit schriftlicher Zustimmung des Departementes oder der Staatskanzlei zulässig.
+
+<sup>3</sup> Diese Kompetenzen gelten unter Beachtung der finanziellen Vorgaben, des Leistungsauftrages und des Stellenplanes.
+
+#### § 8
+
+**Zuständigkeit des Personalamtes**
+
+<sup>1</sup> Das Personalamt nimmt zu dienstrechtlichen Entscheiden und Vereinbarungen des Regierungsrates, der Departemente, der Staatskanzlei, des Obergerichts, des Verwaltungsgerichts und der Rekurskommissionen vorgängig Stellung.
+
+<sup>2</sup> Treffen Ämter sowie Ämtern personalrechtlich gleichgestellte Organisationseinheiten dienstrechtliche Entscheide oder Vereinbarungen, ist vorgängig das Einverständnis des Personalamtes einzuholen; generelle Absprachen sind möglich.
+
+<sup>3</sup> Weitere Befugnisse ergeben sich aus der vorliegenden Verordnung und aus dem Reglement des Regierungsrates für das Personalamt[^8-1].
+
+[^8-1]: RB [172.33](https://www.rechtsbuch.tg.ch/data/172.33/de)
+
+## 2. Personalverbände, Personalkommission
+
+#### § 9
+
+**Mitwirkung des Personals und der Verbände**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben ein Mitspracherecht zu den sie betreffenden Personalangelegenheiten. Sie nehmen dieses Recht durch die Personalverbände oder persönlich wahr.
+
+<sup>2</sup> Der Dachverband der Personalverbände ist das Bindeglied zwischen den Personalverbänden und dem Regierungsrat. Er wird in grundlegenden Personalfragen und vor Änderungen personalrechtlicher Bestimmungen frühzeitig informiert und zur Vernehmlassung eingeladen.
+
+<sup>3</sup> Die dem Dachverband nicht angeschlossenen Personalverbände werden vor Änderungen der personalrechtlichen Bestimmungen, die ihre Mitglieder in wesentlichen Bereichen betreffen, zur Vernehmlassung eingeladen, sofern diese Verbände eine eigene Rechtspersönlichkeit und Statuten haben und wesentliche Teile des betroffenen Personals vertreten.
+
+<sup>4</sup> Für den Einbezug der Personalverbände ist das Departement für Finanzen und Soziales zuständig.
+
+#### § 10
+
+**Personalkommission**
+
+<sup>1</sup> Die Personalkommission nimmt als beratendes Gremium des Regierungsrates frühzeitig Stellung zu allen grundlegenden Personal-, Führungs- und Organisationsfragen und kann dem Departement für Finanzen und Soziales Vorschläge dazu unterbreiten.
+
+<sup>2</sup> Die Kommission setzt sich aus sieben bis elf Mitgliedern zusammen, die vom Regierungsrat für die Dauer von vier Jahren gewählt werden. Der Dachverband hat ein Vorschlagsrecht für die von ihm delegierten Mitglieder.
+
+<sup>3</sup> Das Präsidium wird durch den Regierungsrat bestimmt; im Übrigen konstituiert sich die Kommission selbst.
+
+<sup>4</sup> Das Personalamt informiert, berät und unterstützt die Personalkommission.
+
+## 3. Begründung des Dienstverhältnisses
+
+#### § 11
+
+**Stellenausschreibung**
+
+<sup>1</sup> Zu besetzende Stellen sind in der Regel öffentlich auszuschreiben.
+
+#### § 12
+
+**Rechtsnatur und Begründung des Dienstverhältnisses**
+
+<sup>1</sup> Die beim Kanton tätigen Mitarbeiterinnen und Mitarbeiter stehen in einem öffentlich-rechtlichen Dienstverhältnis.
+
+<sup>2</sup> Das Dienstverhältnis der Angestellten sowie der Praktikantinnen und Praktikanten wird durch Entscheid begründet.
+
+<sup>3</sup> Die Auszubildenden werden nach den Bestimmungen des Bundes und des Kantons über das berufliche Bildungswesen mittels Lehr- oder Ausbildungsvertrag angestellt.
+
+<sup>4</sup> Vorbehalten bleibt die Wahl von Mitarbeiterinnen und Mitarbeitern durch das Volk, den Grossen Rat oder den Regierungsrat.
+
+#### § 13
+
+**Beginn des Dienstverhältnisses**
+
+<sup>1</sup> Das Dienstverhältnis beginnt mit dem im Anstellungsentscheid festgelegten oder mit dem sich aus dem Wahlentscheid ergebenden Tag. In der Regel ist dieser auf den Ersten eines Monats zu legen.
+
+#### § 14
+
+**Dauer des Dienstverhältnisses**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter werden entweder unbefristet oder befristet angestellt.
+
+<sup>2</sup> Befristete Dienstverhältnisse sind insbesondere bei zeitlich eingrenzbaren Projekten, zur Überbrückung von ausserordentlichem Arbeitsanfall oder längerer Krankheitsabsenzen vorzusehen.
+
+<sup>3</sup> Ein befristetes Dienstverhältnis ist grundsätzlich insgesamt für längstens zwei Jahre zulässig. Eine Fortführung kann nur als unbefristetes Anstellungsverhältnis erfolgen und ergeht mittels Entscheid.
+
+#### § 15
+
+**Probezeit**
+
+<sup>1</sup> Die ersten drei Monate gelten für Mitarbeiterinnen und Mitarbeiter sowie für Praktikantinnen und Praktikanten als Probezeit, sofern sie nicht wegbedungen oder eine kürzere Dauer vereinbart wird.
+
+<sup>2</sup> Bei einem Stellenwechsel innerhalb der kantonalen Verwaltung kann eine neue Probezeit angesetzt werden.
+
+<sup>3</sup> Die Probezeit von Auszubildenden richtet sich nach dem Lehr- oder Ausbildungsvertrag beziehungsweise nach den Bestimmungen des Bundes und des Kantons über das berufliche Bildungswesen.
+
+#### § 16
+
+**Verlängerung der Probezeit**
+
+<sup>1</sup> Die Probezeit darf höchstens auf sechs Monate verlängert werden.
+
+<sup>2</sup> Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht, wird die Probezeit um jeden vollen Tag einer Absenz verlängert, längstens jedoch bis zu sechs Monaten.
+
+## 4. Beendigung des Dienstverhältnisses
+
+### 4.1. Allgemeines
+
+#### § 17
+
+**Beendigungsgründe**
+
+<sup>1</sup> Das Dienstverhältnis endet:
+
+- 1\. durch Kündigung;
+- 2\. mit Fristablauf bei einer befristeten Anstellung;
+- 3\. im gegenseitigen Einvernehmen;
+- 4\. mit Ablauf der maximalen Lohnfortzahlung infolge von Unfall oder Krankheit im Sinne von § 20 der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^17-1] unter Beachtung der Wiederherstellung;
+- 5\. durch Altersrücktritt;
+- 6\. mit der Vollendung des 65. Altersjahres;
+- 7\. zufolge Nichtwiederwahl von auf Amtsdauer gewählten Personen;
+- 8\. durch Entlassung von auf Amtsdauer gewählten Personen;
+- 9\. mit dem Tod.
+
+[^17-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+
+#### § 18
+
+**Formvorschriften**
+
+<sup>1</sup> Kündigung oder Entlassungsbegehren haben Mitarbeiterinnen und Mitarbeiter in schriftlicher Form bei der zuständigen Stelle einzureichen.
+
+<sup>2</sup> Bei Kündigungen oder Entlassungen durch den Kanton sind die Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^18-1] massgeblich.
+
+<sup>3</sup> Die Wirkungen der Kündigung treten mit deren Zustellung ein.
+
+[^18-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+
+### 4.2. Kündigung des unbefristeten Dienstverhältnisses
+
+#### § 19
+
+**Kündigungsfristen und -termine im Allgemeinen**
+
+<sup>1</sup> Während der Probezeit beträgt die Kündigungsfrist beidseitig sieben Tage.
+
+<sup>2</sup> Unter Vorbehalt abweichender Regelungen kann ein Anstellungs- oder Praktikumsverhältnis nach Ablauf der Probezeit beidseitig auf das Ende eines Monats unter Einhaltung folgender Fristen aufgelöst werden:
+
+- 1\. 1 Monat im 1. Dienstjahr;
+- 2\. 3 Monate ab dem 2. Dienstjahr.
+- 3\. …
+
+#### § 20
+
+**Kündigungsfristen und -termine im Besonderen**
+
+<sup>1</sup> Bei einem Stellenwechsel innerhalb der kantonalen Verwaltung richtet sich die Kündigungsfrist nach den insgesamt beim Kanton ununterbrochen geleisteten Dienstjahren.
+
+<sup>2</sup> Der Kündigungstermin gemäss § 19 Absatz 2 gilt nicht für Mitarbeiterinnen, die ihr Dienstverhältnis aufgrund von Schwangerschaft beziehungsweise Mutterschaft vor oder nach der Niederkunft künden.
+
+#### § 21
+
+**Ordentliche Kündigung durch den Kanton**
+
+<sup>1</sup> Die Kündigung durch den Kanton darf nicht missbräuchlich nach den Bestimmungen des Obligationenrechts[^21-1] sein und setzt einen sachlich zureichenden Grund voraus.
+
+<sup>2</sup> Sachliche Gründe sind insbesondere:
+
+- 1\. Aufhebung einer Stelle aus betrieblichen oder wirtschaftlichen Gründen;
+- 2\. ungenügende Leistungen oder unbefriedigendes Verhalten;
+- 3\. Verletzung gesetzlicher oder vereinbarter Pflichten;
+- 4\. fehlende Eignung oder Wegfall beziehungsweise Nichterfüllen gesetzlicher oder vereinbarter Anstellungsvoraussetzungen.
+
+<sup>3</sup> Bevor eine Kündigung aufgrund ungenügender Leistungen oder unbefriedigenden Verhaltens ausgesprochen wird, ist in der Regel ein Standortgespräch zu führen und eine Frist zur positiven Veränderung anzusetzen.
+
+<sup>4</sup> Mitarbeiterinnen und Mitarbeiter, deren Dienstverhältnis aus betrieblichen oder wirtschaftlichen Gründen gekündigt wird, haben Anrecht auf Beratung und Begleitung im beruflichen Veränderungsprozess durch das Personalamt.
+
+[^21-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+#### § 22
+
+**Fristlose Kündigung**
+
+<sup>1</sup> Aus wichtigem Grund kann das Dienstverhältnis mit sofortiger Wirkung beidseitig ohne Berücksichtigung von Kündigungsfristen und -terminen aufgelöst werden.
+
+<sup>2</sup> Als wichtiger Grund gilt jeder Umstand, bei dessen Vorhandensein die Fortsetzung des Dienstverhältnisses nach Treu und Glauben nicht zumutbar ist.
+
+<sup>3</sup> Die Kündigung hat unverzüglich nach Kenntnisnahme des wichtigen Grundes zu erfolgen.
+
+### 4.3. Beendigung des befristeten Dienstverhältnisses
+
+#### § 23
+
+**Auflösung des befristeten Dienstverhältnisses**
+
+<sup>1</sup> Ein befristetes Dienstverhältnis endet ohne Kündigung durch Ablauf der vereinbarten Dauer.
+
+<sup>2</sup> Jedes befristete Dienstverhältnis kann beidseitig unter Einhaltung der Kündigungsfristen und -termine für unbefristete Dienstverhältnisse oder bei Vorliegen eines wichtigen Grundes jederzeit fristlos aufgelöst werden.
+
+#### § 24
+
+**Auflösung des Lehrverhältnisses**
+
+<sup>1</sup> Die vorzeitige Beendigung eines Lehrverhältnisses richtet sich nach den Bestimmungen des Bundes und des Kantons über das berufliche Bildungswesen.
+
+<sup>2</sup> Mit schriftlicher Vereinbarung kann das Lehrverhältnis im gegenseitigen Einvernehmen jederzeit aufgelöst werden.
+
+### 4.4. Kündigungsschutz und Folgen der Beendigung von Dienstverhältnissen
+
+#### § 25
+
+**Kündigung zur Unzeit**
+
+<sup>1</sup> Der Kanton darf das Dienstverhältnis von Mitarbeiterinnen und Mitarbeitern während folgender Sperrfristen nicht kündigen:
+
+- 1\. während schweizerischem obligatorischen Militär- oder Schutzdienst oder schweizerischem Zivildienst, sowie, sofern die Dienstleistung mehr als elf Kalendertage dauert, während vier Wochen vorher und nachher;
+- 2\. während einer ganzen oder teilweisen Verhinderung an der Arbeitsleistung durch Unfall oder Krankheit ohne eigenes, mindestens grobfahrlässiges Verschulden, und zwar während längstens zwei Jahren beziehungsweise bis der Lohnfortzahlungsanspruch bei Krankheit und Unfall erlischt;
+- 3\. während der Schwangerschaft und in den 16 Wochen nach der Niederkunft;
+- 4\. während der Teilnahme an einer von einer Bundes-, Kantons- oder Gemeindebehörde angeordneten Dienstleistung für eine Hilfsaktion.
+
+<sup>2</sup> Eine während einer solchen Sperrfrist ergangene Kündigung ist nichtig.
+
+<sup>3</sup> Die genannten Sperrfristen finden keine Anwendung während der Probezeit, bei einer fristlosen Auflösung des Dienstverhältnisses oder einer mit sofortiger Wirkung ausgesprochenen disziplinarischen Entlassung.
+
+<sup>4</sup> Tritt während laufender Kündigungsfrist ein Sperrgrund ein, wird der Fristenlauf unterbrochen und erst nach Beendigung der Sperrfrist fortgesetzt. Im Falle der Unterbrechung zufolge Krankheit oder Unfall wird der Fristenlauf längstens während 30 Tagen im ersten Dienstjahr, während 90 Tagen vom zweiten bis und mit fünften Dienstjahr und während 180 Tagen ab dem sechsten Dienstjahr unterbrochen. Das Dienstverhältnis endet formlos auf das Monatsende.
+
+#### § 26
+
+**Folgen bei missbräuchlicher oder ungerechtfertigter Kündigung**
+
+<sup>1</sup> Bei missbräuchlicher oder ohne hinreichenden Grund ausgesprochener Kündigung gelten für die Folgen und die Verwirkung der Ansprüche die Bestimmungen des Schweizerischen Obligationenrechts[^26-1] sinngemäss.
+
+<sup>2</sup> Die Folgen einer diskriminierenden Kündigung aufgrund des Geschlechts richten sich nach den Bestimmungen des Gleichstellungsgesetzes[^26-2], wobei auch eine Entschädigung geltend gemacht werden kann.
+
+[^26-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+[^26-2]: SR [151.1](https://db.clex.ch/link/Bund/151.1/de)
+
+#### § 27
+
+**Abgangsentschädigung in Härtefällen**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern, deren Dienstverhältnis durch den Kanton gekündigt oder auf Veranlassung des Kantons im gegenseitigen Einvernehmen aufgelöst wird, ohne dass sie dazu durch ihre Leistungen oder ihr Verhalten begründeten Anlass gegeben haben, kann unter folgenden Voraussetzungen eine Abgangsentschädigung ausgerichtet werden:
+
+- 1\. das Dienstverhältnis hat bis zur Auflösung ununterbrochen während mindestens fünf Jahren bestanden und
+- 2\. die Mitarbeiterin oder der Mitarbeiter hat im Zeitpunkt der Auflösung des Dienstverhältnisses das 55. Altersjahr vollendet und
+- 3\. die Mitarbeiterin oder der Mitarbeiter hat im Zeitpunkt der Auflösung des Dienstverhältnisses das 63. Altersjahr noch nicht vollendet.
+
+<sup>1<sup>bis</sup></sup> Keine Abgangsentschädigung wird ausgerichtet, wenn eine zumutbare Anschlussbeschäftigung vorliegt oder seitens des Kantons eine andere zumutbare Funktion oder Stelle angeboten wurde. Von der gesuchstellenden Person kann der Nachweis verlangt werden, dass sie sich intensiv um eine neue Stelle bemüht hat.
+
+<sup>2</sup> Die Abgangsentschädigung beträgt im Regelfall bis höchstens sechs, in Ausnahmefällen bis höchstens 12 Monatslöhne. Sie wird von der Wahl- oder Anstellungsinstanz nach den Umständen des Einzelfalles mit Zustimmung des Personalamtes festgelegt. Dabei sind insbesondere das wirtschaftliche Fortkommen, die Dienstjahre sowie die persönlichen Verhältnisse zu berücksichtigen. Die Ausrichtung einer Abgangsentschädigung von mehr als sechs Monatslöhnen bedarf zusätzlich der Zustimmung des Regierungsrates.
+
+<sup>3</sup> Als Bemessungsgrundlage gilt eine Monatsgrundbesoldung (1/12 des Jahreslohnes). Bei Personen mit wechselndem Pensum werden zur Feststellung des massgeblichen Beschäftigungsgrades die vorausgegangenen fünf Kalenderjahre berücksichtigt.
+
+<sup>3<sup>bis</sup></sup> Gesuche sind spätestens bis zur Beendigung des Dienstverhältnisses bei der Wahl- oder Anstellungsinstanz einzureichen; eine spätere Gesuchstellung lässt den Anspruch verwirken.
+
+<sup>4</sup> …
+
+<sup>5</sup> Sofern eine Wiederanstellung beim Kanton innerhalb von 2 Jahren nach Auflösung des Anstellungsverhältnisses erfolgt, entscheidet der Regierungsrat über eine vollumfängliche oder teilweise Rückerstattung der Abgangsentschädigung.
+
+#### § 27a
+
+**Sonderleistungen anstelle einer Abgangsentschädigung bei vorzeitiger Pensionierung**
+
+<sup>1</sup> Tritt eine Mitarbeiterin oder ein Mitarbeiter im Einvernehmen mit dem Kanton nach Vollendung des 60. Altersjahres in den Ruhestand, kann anstelle einer Abgangsentschädigung ein Zuschuss zum Pensionskassensparguthaben oder – alternativ oder kumulativ – eine Vorzusatzrente in der Höhe der Zusatzrente mit Alter 63 gemäss den Bestimmungen des Reglements der Pensionskasse Thurgau[^27a-1] gewährt werden.
+
+<sup>2</sup> Der Regierungsrat regelt die Einzelheiten. Er kann insbesondere vorsehen, dass die Regelung gemäss Absatz 1 in Ausnahmefällen ab vollendetem 58. Altersjahr gewährt wird.
+
+[^27a-1]: RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de)
+
+#### § 28
+
+**Sozialplan**
+
+<sup>1</sup> Kommt es infolge der Aufhebung von Stellen zu Kündigungen oder Entlassungen, kann der Regierungsrat unter Beizug des Dachverbandes der Personalverbände und gegebenenfalls unter Beizug der dem Dachverband nicht angeschlossenen Personalverbände, sofern sie wesentliche Teile des betroffenen Personals vertreten, einen Sozialplan festlegen.
+
+<sup>2</sup> Zwingend ist die Erarbeitung eines Sozialplanes bei Kündigungen oder Entlassungen von 10 und mehr Mitarbeiterinnen und Mitarbeitern, die aufgrund derselben betrieblichen Veränderungen erfolgen.
+
+<sup>3</sup> In einem Sozialplan können von der vorliegenden Verordnung abweichende Leistungen vorgesehen werden.
+
+### 4.5. Beendigung des Dienstverhältnisses im gegenseitigen Einvernehmen
+
+#### § 29
+
+**Einvernehmliche Auflösung**
+
+<sup>1</sup> Im gegenseitigen Einvernehmen kann das Dienstverhältnis mit schriftlicher Vereinbarung abweichend von den Bestimmungen dieser Verordnung aufgelöst werden.
+
+<sup>2</sup> Für eine Abgangsentschädigung gelten jedoch die Bestimmungen gemäss § 27.
+
+### 4.6. Beendigung bei Arbeitsunfähigkeit zufolge Krankheit und Unfall
+
+#### § 30
+
+**Beendigung zufolge Ausschöpfung des Leistungsanspruches bei Krankheit und Unfall**
+
+<sup>1</sup> Sofern eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad nicht möglich ist, endet das Dienstverhältnis bei voller oder teilweiser Arbeitsunfähigkeit mit dem Erlöschen des maximalen Anspruchs auf Leistungen bei Krankheit und Unfall unter Berücksichtigung einer allfälligen Wiederherstellung. Es besteht kein Anspruch auf eine Weiterbeschäftigung mit reduziertem Beschäftigungsgrad.
+
+<sup>2</sup> Bei voraussichtlich andauernder Arbeitsunfähigkeit kann die Stelle in der Regel frühestens nach einem Jahr seit Eintritt der Arbeitsunfähigkeit unbefristet besetzt werden. Bei Wiedererlangung der Arbeitsfähigkeit ist diesfalls der Mitarbeiterin oder dem Mitarbeiter nach Möglichkeit eine andere, zumutbare Stelle zuzuweisen.
+
+<sup>3</sup> Bei voraussichtlich andauernder voller oder teilweiser Arbeitsunfähigkeit aufgrund von Krankheit oder Unfall endet das Dienstverhältnis in der Regel Ende des Monats, in welchem die Mitarbeiterin oder der Mitarbeiter das 64. Altersjahr vollendet, sofern während eines Jahres Leistungen zufolge Krankheit oder Unfall ausgerichtet wurden.
+
+### 4.7. Beendigung altershalber
+
+#### § 31
+
+**Altersrücktritt**
+
+<sup>1</sup> Der altersmässige Rücktritt der Mitarbeiterinnen und Mitarbeiter kann zwischen dem vollendeten 58. und dem vollendeten 65. Altersjahr erfolgen.
+
+<sup>2</sup> Soweit es die betrieblichen Verhältnisse zulassen, kann ein gestaffelter Altersrücktritt im Sinne einer Teilpensionierung gewählt werden.
+
+<sup>3</sup> Beim altersmässigen Rücktritt gelten die Kündigungsfristen und die Formvorschriften für Kündigungen analog.
+
+#### § 32
+
+**Beendigung altershalber**
+
+<sup>1</sup> Das Dienstverhältnis endet auf Ende des Monats, in welchem die Mitarbeiterin oder der Mitarbeiter das 65. Altersjahr vollendet.
+
+<sup>2</sup> Eine Weiterbeschäftigung nach Vollendung des 65. Altersjahrs ist möglich, sofern eine solche im Interesse des Kantons liegt. Das Dienstverhältnis ist in diesen Fällen in ein befristetes Dienstverhältnis umzuwandeln, wobei keine Probezeit angesetzt wird.
+
+<sup>3</sup> Vom Regierungsrat auf Amtsdauer gewählte Mitarbeiterinnen und Mitarbeiter werden in der Regel bis auf Ende des Monats wiedergewählt, in welchem sie das 65. Altersjahr vollenden.
+
+### 4.8. Beendigung des Dienstverhältnisses bei auf Amtsdauer gewählten Personen
+
+#### § 33
+
+**Beendigung zufolge Nichtwiederwahl**
+
+<sup>1</sup> Das Dienstverhältnis der auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeitern endet mit dem Tag des Ablaufs der Amtsperiode, wenn keine Wiederwahl erfolgt.
+
+<sup>2</sup> Sofern der Regierungsrat oder der Grosse Rat von einer Wiederwahl absehen wollen, haben sie dies der betroffenen Mitarbeiterin oder dem Mitarbeiter drei Monate vor Ablauf der Amtsdauer schriftlich mitzuteilen und zu begründen.
+
+<sup>3</sup> Der Verzicht auf eine Wiederwahl ist dem Regierungsrat oder bei vom Grossen Rat gewählten Personen dem zuständigen Departement unter Berücksichtigung der Kündigungsfristen gemäss § 19 schriftlich bekannt zu geben.
+
+#### § 34
+
+**Entlassung von auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter**
+
+<sup>1</sup> Soweit nicht speziell geregelt, sind die §§ 18 bis 32 auf die Dienstverhältnisse der vom Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter anwendbar.
+
+<sup>2</sup> Für die Dienstverhältnisse der vom Grossen Rat gewählten Mitarbeiterinnen und Mitarbeiter sind, sofern nichts abweichend geregelt ist, die §§ 27 bis 30 massgebend. Eine Entlassung vor Ablauf der Amtsdauer ist möglich, wenn ein Amt oder eine Stelle aus betrieblichen Gründen aufgehoben werden muss und eine interne Versetzung nicht möglich ist. Eine solche Entlassung ist mindestens drei Monate im Voraus anzuzeigen.
+
+<sup>3</sup> Die Dienstverhältnisse der vom Volk gewählten Mitarbeiterinnen und Mitarbeiter können, sofern nichts abweichend geregelt ist, seitens des Kantons einzig in Anwendung von § 30 Absatz 1 vor Ablauf der Amtsdauer aufgelöst werden. Auf das Verantwortlichkeitsgesetz[^34-1] abgestützte Massnahmen bleiben vorbehalten.
+
+<sup>4</sup> Die vom Grossen Rat oder Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter können auf ihr begründetes Gesuch hin vor Ablauf der Amtsdauer aus dem Staatsdienst entlassen werden, sofern dadurch keine wesentlichen Interessen des Staates beeinträchtigt werden. Das Gesuch ist unter Berücksichtigung der Kündigungsfristen gemäss § 19 einzureichen.
+
+[^34-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
+
+## 5. Rechte der Mitarbeiterinnen und Mitarbeiter
+
+### 5.1. Schutz der Persönlichkeit
+
+#### § 35
+
+**Schutz der Persönlichkeit**
+
+<sup>1</sup> Der Kanton achtet und schützt die Persönlichkeit der Mitarbeiterinnen und Mitarbeiter. Er nimmt auf deren Gesundheit gebührend Rücksicht und fördert sie mit geeigneten betrieblichen Massnahmen.
+
+<sup>2</sup> Der Kanton sorgt durch geeignete Massnahmen für ihren Schutz gegen psychische und physische Belästigung am Arbeitsplatz, insbesondere gegen sexuelle Belästigung, Mobbing und Diskriminierung.
+
+<sup>3</sup> Bei Verdacht auf Belästigung, Mobbing oder Diskriminierung haben die Leiterinnen und Leiter der Ämter, Anstalten und Gerichte auf Hinweis der Betroffenen den Vorwürfen nachzugehen und geeignete Massnahmen in die Wege zu leiten. Es besteht ein Anspruch auf Unterstützung sowie Beratung durch vom Kanton bezeichnete Beratungspersonen und durch das Personalamt gemäss den Weisungen des Regierungsrates.
+
+#### § 36
+
+**Rechtliche Unterstützung**
+
+<sup>1</sup> Wird eine Mitarbeiterin oder ein Mitarbeiter im Zusammenhang mit der Erfüllung der Aufgaben auf dem Rechtsweg belangt oder erweist sich in diesem Zusammenhang die Beschreitung des Rechtsweges zur Wahrung der Rechte als notwendig und angemessen, so gewährt das Departement in der Regel durch Beizug einer juristischen Sachbearbeiterin oder eines juristischen Sachbearbeiters sowie in begründeten Fällen durch Kostenübernahme einer anwaltlichen Vertretung für das erstinstanzliche Verfahren Rechtsschutz. Es kann den Rechtsschutz auch in nachfolgenden Verfahren gewähren.
+
+<sup>2</sup> Dieser Anspruch entfällt bei geringfügigen Übertretungen oder wenn die Mitarbeiterin oder der Mitarbeiter eine schwerwiegende und offenkundige Pflichtverletzung begangen hat. Er kann entfallen, wenn der Kanton Gegenpartei ist.
+
+<sup>3</sup> Der Regierungsrat kann eine Kostenrückerstattung verfügen, wenn das Verfahren ergibt, dass die Mitarbeiterin oder der Mitarbeiter schuldhaft gehandelt hat.
+
+### 5.2. Datenschutz
+
+#### § 37
+
+**Personendaten**
+
+<sup>1</sup> Der Kanton bearbeitet nur Personendaten der Mitarbeiterinnen und Mitarbeiter, die für das Dienstverhältnis notwendig sind. Sie sind nach Möglichkeit bei der betroffenen Person selbst zu beschaffen.
+
+<sup>2</sup> Die zuständigen Stellen dürfen Personendaten an Dritte nur weitergeben, wenn dafür eine rechtliche Grundlage besteht oder die betroffenen Personen der Datenweitergabe schriftlich zugestimmt haben.
+
+<sup>3</sup> Nach dem Austritt einer Mitarbeiterin oder eines Mitarbeiters bewahren die zuständigen Stellen die notwendigen Personendaten gemäss den gesetzlichen Bestimmungen während der festgelegten Dauer auf. Danach werden sie vorbehältlich der Bestimmungen über die Archivierung vernichtet.
+
+<sup>4</sup> Im Übrigen sind die Bestimmungen des Gesetzes über den Datenschutz[^37-1] anwendbar.
+
+[^37-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
+
+#### § 38
+
+**Rechte bezüglich Personendaten**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben das Recht auf Einsicht in die sie betreffenden Personendaten, auf Berichtigung oder Vernichtung unrichtiger Personendaten, auf Anbringung eines Vermerks, wenn weder die Richtigkeit noch die Unrichtigkeit von Personendaten bewiesen werden kann, und auf die Sperrung von Personendaten.
+
+<sup>2</sup> Die Einsicht kann verweigert oder eingeschränkt werden, wenn wichtige öffentliche Interessen oder offensichtlich schutzwürdige private Interessen Dritter es verlangen. Eine Verweigerung oder Einschränkung ist zu begründen.
+
+### 5.3. Besoldung und Sozialzulagen
+
+#### § 39
+
+**Besoldung**
+
+<sup>1</sup> Die Besoldung, einschliesslich Zulagen, richtet sich nach der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^39-1] sowie den Vollzugsbestimmungen des Regierungsrates[^39-2].
+
+[^39-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+[^39-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
+
+### 5.4. Personalvorsorge
+
+#### § 40
+
+**Vorsorge für Alter, Invalidität und Tod**
+
+<sup>1</sup> Die Versicherung gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod richtet sich nach dem Reglement des Regierungsrates für die Pensionskasse des Thurgauischen Staatspersonals[^40-1].
+
+[^40-1]: Jetzt Reglement der Pensionskasse Thurgau; RB [177.42](https://www.rechtsbuch.tg.ch/data/177.42/de).
+
+#### § 41
+
+**Unfallversicherung**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind gemäss den Bestimmungen des Bundesgesetzes über die Unfallversicherung[^41-1] gegen Berufs- und Nichtberufsunfall sowie gegen Berufskrankheit versichert.
+
+<sup>2</sup> Für die Versicherung gegen Nichtberufsunfälle haben die Mitarbeiterinnen und Mitarbeiter einen persönlichen Prämienanteil zu leisten.
+
+[^41-1]: SR [832.20](https://db.clex.ch/link/Bund/832.20/de)
+
+### 5.5. Ferien und Urlaub
+
+#### § 42
+
+**Ferienanspruch**
+
+<sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern steht pro Kalenderjahr folgender Ferienanspruch zu:
+
+- 1\. 30 Arbeitstage während der Ausbildungszeit, längstens jedoch bis zum vollendeten 25. Altersjahr. Vorbehalten bleibt die Verwendung von fünf Ferientagen innerhalb der Ausbildungszeit für das obligatorische Lehrlingslager oder für gleichwertige Veranstaltungen gemäss den Richtlinien des Personalamtes;
+- 2\. 27 Arbeitstage bis und mit dem Kalenderjahr, in welchem das 20. Altersjahr vollendet wird;
+- 3\. 23 Arbeitstage bis zum Kalenderjahr, in welchem das 49. Altersjahr vollendet wird;
+- 4\. 27 Arbeitstage bis zum Kalenderjahr, in welchem das 59. Altersjahr vollendet wird;
+- 5\. 30 Arbeitstage ab dem Kalenderjahr, in welchem das 60. Altersjahr vollendet wird.
+
+#### § 43
+
+**Ferienbezug**
+
+<sup>1</sup> Ferien werden von der vorgesetzten Person unter Berücksichtigung der betrieblichen Gegebenheiten und in Absprache mit der Mitarbeiterin oder dem Mitarbeiter festgelegt.
+
+<sup>2</sup> Ferien sind in der Regel in grösseren zusammenhängenden Teilen zu beziehen. Jugendliche und junge Erwachsene bis zum vollendeten 20. Altersjahr sowie Auszubildende müssen wenigstens zwei Ferienwochen im Jahr zusammenhängend beziehen.
+
+<sup>3</sup> Ferien sind in dem Kalenderjahr zu beziehen, in dem sie fällig werden. Ferienübertragungen auf das folgende Jahr bedürfen der Bewilligung der vorgesetzten Person.
+
+<sup>4</sup> Für freiwillig nicht bezogene Ferien können keine Ersatzansprüche geltend gemacht werden.
+
+#### § 44
+
+**Finanzielle Abgeltung der Ferien, der Feier- und öffentlichen Ruhetage**
+
+<sup>1</sup> Ferien, Feier- und öffentliche Ruhetage können während der Dauer des Dienstverhältnisses grundsätzlich nicht durch finanzielle Leistungen oder andere Vergünstigungen abgegolten werden. Davon ausgenommen sind die Dienstverhältnisse, bei welchen die Besoldung pro Stunde oder Tag festgesetzt ist. Darin ist der Anspruch auf Ferien, Freitage und öffentliche Ruhetage durch Zuschläge abgegolten, sofern nicht ausdrücklich etwas anderes vorgesehen ist.
+
+<sup>2</sup> Eine finanzielle Abgeltung von Ferien, Feier- und öffentlichen Ruhetagen erfolgt, wenn diese aus zwingenden Gründen bis zum Austritt aus dem Staatsdienst nicht bezogen beziehungsweise kompensiert werden können sowie bei Auflösung des Dienstverhältnisses infolge Tod.
+
+<sup>3</sup> Zuviel bezogene Ferientage werden beim Austritt mit der Besoldung verrechnet. Davon ausgenommen sind Fälle, bei welchen das Dienstverhältnis auf Veranlassung des Kantons oder im gegenseitigen Einvernehmen aufgelöst wird, ohne dass die Mitarbeiterin oder der Mitarbeiter dazu durch ihre Leistungen oder ihr Verhalten begründeten Anlass gegeben hat.
+
+#### § 45
+
+**Nichtantreten, Unterbrechung und Abbruch der Ferien**
+
+<sup>1</sup> Treten kurz vor Antritt oder während der Ferien unvorhergesehene persönliche Ereignisse wie eine Erkrankung oder ein Unfall ein, welche den Erholungszweck der Ferien vereiteln, können die Ferien verschoben, unterbrochen oder vorzeitig abgebrochen und der Restanspruch später bezogen werden.
+
+<sup>2</sup> Der Unterbruch oder Abbruch der Ferien ist der vorgesetzten Person so schnell als möglich zu melden; ansonsten verwirkt der Anspruch auf Nachbezug.
+
+<sup>3</sup> Bei Krankheit oder Unfall ist die Arbeitsunfähigkeit auf Verlangen ab dem ersten Tag mit einem Arztzeugnis zu belegen.
+
+#### § 46
+
+**Kürzung des Ferienanspruches**
+
+<sup>1</sup> Übersteigt der Arbeitsausfall wegen obligatorischen Militär- oder Schutzdienstes oder schweizerischen Zivildienstes, Krankheit, Nichtberufsunfalls oder bezahlten Urlaubes im gleichen Kalenderjahr oder bei zusammenhängendem Arbeitsausfall über den Jahreswechsel hinaus 90 Kalendertage beziehungsweise 120 Kalendertage bei Schwangerschaft und Mutterschaft, so wird der Ferienanspruch anteilsmässig gekürzt. Gekürzt wird die 90 beziehungsweise 120 Kalendertage übersteigende Anzahl Tage.
+
+<sup>2</sup> Die Abwesenheiten sind zusammenzuzählen und in ganze Tage umzurechnen. Als Ausnahme gilt, dass Abwesenheiten, die vor der Niederkunft einer Mitarbeiterin eingetreten sind, nicht mit dem Schwangerschafts- und Mutterschaftsurlaub zusammengezählt werden.
+
+<sup>3</sup> Übersteigen unbezahlte Urlaube 30 Kalendertage pro Kalenderjahr, wird der Ferienanspruch anteilsmässig gekürzt.
+
+<sup>4</sup> Kein Ferienanspruch besteht bei ununterbrochener, 100 %-iger Abwesenheit vom Arbeitsplatz während 365 Kalendertagen.
+
+#### § 47
+
+**Urlaub allgemein**
+
+<sup>1</sup> Als Urlaub gilt jede aus anderen Gründen als Ferien, Krankheit, Unfall, Schwangerschaft und Niederkunft oder obligatorischem Militär- oder Schutzdienst sowie schweizerischem Zivildienst bewilligte Dienstabwesenheit.
+
+<sup>2</sup> Durch den Urlaub wird das Dienstverhältnis nicht unterbrochen.
+
+<sup>3</sup> Fällt der Urlaubsgrund in die Ferien oder auf einen arbeitsfreien halben oder vollen Tag, wird der Urlaub vor- oder nachgewährt. Kein Anspruch auf Nachgewährung besteht, wenn der Urlaub aus Gründen, für die der Kanton nicht einzustehen hat, nicht angetreten werden konnte oder durch persönliche Ereignisse wie Krankheit oder Unfall beeinträchtigt wird.
+
+<sup>4</sup> Freiwillig nicht bezogener Urlaub begründet keinen Anspruch auf Nachgewährung oder finanziellen Ersatz.
+
+#### § 48
+
+**Bewilligung von Urlaub**
+
+<sup>1</sup> Urlaub kann bewilligt werden, wenn es die betrieblichen Verhältnisse erlauben.
+
+<sup>2</sup> Bezahlter Urlaub, welcher drei Arbeitstage übersteigt, ist mit schriftlichem Entscheid zu gewähren.
+
+<sup>3</sup> Unbezahlter Urlaub ist in jedem Fall mit schriftlichem Entscheid zu gewähren.
+
+#### § 49
+
+**Bezahlter Urlaub**
+
+<sup>1</sup> Wo die Art des Urlaubsgrundes es rechtfertigt, kann bezahlter Urlaub zugesprochen werden.
+
+<sup>2</sup> Für J+S Aus- und Fortbildungskurse, für die ein Anspruch auf Entschädigung aus der Erwerbsersatzordnung geltend gemacht werden kann, wird bezahlter Urlaub bis zu fünf Tagen pro Kalenderjahr gewährt.
+
+<sup>3</sup> Für die Ausübung öffentlicher Ämter oder im Interesse der Allgemeinheit liegender Tätigkeiten und der entsprechenden Ausbildung kann unabhängig vom Urlaub gemäss dem vorstehenden Absatz bezahlter Urlaub bis zu fünf Tagen im Kalenderjahr zugestanden werden. Soweit für solche Tätigkeiten eine Entschädigung ausgerichtet wird, kann diese an die während des Urlaubes geleisteten Lohnzahlungen angerechnet werden.
+
+#### § 50
+
+**Urlaub aus persönlichen und familiären Gründen**
+
+<sup>1</sup> Die nachstehend aufgeführten Ereignisse geben Anspruch auf bezahlten Urlaub in folgendem Umfang: (in Tagen)
+
+- 1\. Eigene Hochzeit: — 2
+- 2\. Hochzeit eines eigenen oder eines Stiefkindes: — 1
+- 3\. Geburt eines eigenen Kindes: — 5
+- 4\. Adoption eines Kindes: — 2
+- 5\. Wohnungswechsel: — 1
+- 6\. Orientierungstag über Militär-, Schutz- und Zivildienst: — 1
+- 7\. Entlassung aus der Militärdienstpflicht: — 1
+- 8\. Todesfälle:
+  - 8\.1. Ehepartnerin/Ehepartner : — 3
+  - 8\.2. Lebenspartnerin/Lebenspartner: — 3
+  - 8\.3. eigene Kinder oder Stiefkinder: — 3
+  - 8\.4. Enkelkinder und weitere Nachkommen: — 1
+  - 8\.5. Eltern: — 2
+  - 8\.6. Geschwister: — 2
+  - 8\.7. Schwiegereltern: — 2
+  - 8\.8. Eltern der Lebenspartnerin / Lebenspartners: — 2
+  - 8\.9. Schwiegertöchter und -söhne: — 1
+  - 8\.10. Lebenspartnerin/Lebenspartner des Sohnes/der Tochter: — 1
+  - 8\.11. Grosseltern: — 1
+  - 8\.12. Arbeitskollegin/Arbeitskollege (Begräbnis): — ½
+
+<sup>2</sup> Für die Organisation der Pflege eines eigenen oder eines Stiefkindes und die Pflege während der Organisationsphase besteht pro Ereignis Anspruch auf bis zu zwei Tage bezahlter Urlaub; nach Ablauf dieser zwei Tage besteht für die weitere Pflege Anspruch auf unbezahlten Urlaub. Auf Verlangen ist ein ärztliches Zeugnis über die Pflegebedürftigkeit des Kindes vorzuweisen.
+
+<sup>3</sup> Bei ausreichender Begründung kann bezahlter Urlaub über das in Absatz 1 vorgesehene Mass hinaus gewährt werden.
+
+#### § 51
+
+**Unbezahlter Urlaub**
+
+<sup>1</sup> Liegt der Urlaubsgrund vorwiegend im Interesse der Mitarbeiterin oder des Mitarbeiters, kann unbezahlter Urlaub bis zu einer Dauer von zwölf Monaten gewährt werden.
+
+<sup>2</sup> Der Anspruch auf unbezahlten Urlaub von Mitarbeiterinnen nach der Niederkunft richtet sich nach der Verordnung des Grossen Rates über die Besoldung des Staatspersonals[^51-1] sowie den Vollzugsbestimmungen des Regierungsrates[^51-2].
+
+<sup>3</sup> Bei unbezahltem Urlaub leistet der Arbeitgeber seinen Beitragsanteil an die Sparversicherung bis zu einem Monat weiter. Die Risikobeiträge leistet er längstens während 12 Monaten, wenn die Beiträge arbeitnehmerseitig auch bezahlt werden. Die fehlenden Sparbeiträge können durch freiwillige Einlagen nach Massgabe der Vorgaben der Pensionskasse des Staatspersonals[^51-3] kompensiert werden.
+
+[^51-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+[^51-2]: RB [177.223](https://www.rechtsbuch.tg.ch/data/177.223/de)
+[^51-3]: Jetzt Pensionskasse Thurgau.
+
+### 5.6. Mitarbeiterbeurteilung und Förderung
+
+#### § 52
+
+**Mitarbeiterbeurteilung und Förderung**
+
+<sup>1</sup> In der Regel wird jährlich eine Mitarbeiterbeurteilung gemäss den Weisungen des Regierungsrates oder ausnahmsweise nach einem vom Regierungsrat genehmigten gleichwertigen System vorgenommen.
+
+<sup>2</sup> Nicht beurteilt werden die vom Volk, vom Grossen Rat, vom Regierungsrat auf Amtsdauer gewählten Mitarbeiterinnen und Mitarbeiter, soweit sie nicht im Leistungslohn entschädigt werden sowie Mitarbeiterinnen und Mitarbeiter mit fixer Besoldung.
+
+<sup>3</sup> Die Mitarbeiterbeurteilung dient der Leistungs- und Potenzialbeurteilung. Es werden insbesondere die fachlichen Qualitäten der Mitarbeiterinnen und Mitarbeiter, ihr Einsatz und Verhalten beurteilt; bei Vorgesetzten wird zudem die Führung bewertet.
+
+<sup>4</sup> Mit der Leistungsbeurteilung wird festgestellt, inwieweit die Ziele gemäss Stellenbeschreibung und Zielvereinbarungen für die Beurteilungsperiode erfüllt wurden.
+
+<sup>5</sup> Die Potenzialbeurteilung dient einer gezielten Förderung der Mitarbeiterinnen und Mitarbeiter.
+
+#### § 53
+
+**Beurteilungsprädikate**
+
+<sup>1</sup> Es werden folgende vier Beurteilungsprädikate eingesetzt:
+
+- 1\. «A»: Die Anforderungen wurden sehr gut erfüllt;
+- 2\. «B»: Die Anforderungen wurden gut erfüllt;
+- 3\. «C»: Die Anforderungen wurden teilweise erfüllt;
+- 4\. «D»: Die Anforderungen wurden nicht erfüllt.
+
+<sup>2</sup> Wurden die Anforderungen in jeder Beziehung herausragend erfüllt, wird das Prädikat «A» mit dem Zusatzprädikat «A+» ergänzt.
+
+#### § 54
+
+**Vorgehen bei Uneinigkeit**
+
+<sup>1</sup> Die Mitarbeiterin oder der Mitarbeiter kann nach der Beurteilung das Gespräch mit der nächsthöheren vorgesetzten Person und der Leiterin oder dem Leiter des Amtes, der Anstalt oder des Gerichtes verlangen.
+
+<sup>2</sup> Lässt sich dabei keine Einigung erzielen, kann die Anhörung durch das Departement verlangt werden. Die Anhörung erfolgt für das Personal der Gerichte und des Obergerichts durch die Präsidentin oder den Präsidenten des Obergerichts, für das Personal des Verwaltungsgerichts und der Rekurskommissionen durch die Präsidentin oder den Präsidenten des Verwaltungsgerichts.
+
+<sup>3</sup> Das Personalamt kann beigezogen werden.
+
+### 5.7. Personalförderung und -entwicklung
+
+#### § 55
+
+**Personalförderung durch Weiterbildung**
+
+<sup>1</sup> Der Kanton unterstützt und fördert die Weiterbildung der Mitarbeiterinnen und Mitarbeiter.
+
+<sup>2</sup> Die Weiterbildung umfasst Angebote als berufsbegleitende Massnahmen, welche zur Erhaltung der beruflichen Qualifikationen beitragen.
+
+<sup>3</sup> Sie umfasst zudem Angebote zum Erwerb neuer Kompetenzen im Hinblick auf die Übernahme neuer Funktionen oder auf die Erlernung eines anderen Berufes.
+
+#### § 56
+
+**Weiterbildungskosten**
+
+<sup>1</sup> Der Kanton trägt die Kosten für die interne und obligatorisch erklärte externe Weiterbildung.
+
+<sup>2</sup> An den Kosten der freiwilligen Weiterbildung kann sich der Kanton je nach seinem Interesse beteiligen durch:
+
+- 1\. gänzliche oder teilweise Lohnfortzahlung bei Dienstausfall;
+- 2\. gänzliche oder teilweise Übernahme der übrigen Kosten, namentlich der Kurskosten, Prüfungsgebühren und Spesen.
+
+#### § 57
+
+**Verfahren zur Kostenübernahme**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die eine freiwillige Weiterbildung absolvieren möchten und um eine Kostenbeteiligung des Kantons ersuchen, haben vor Beginn der Weiterbildung ein begründetes Gesuch bei der Leiterin oder dem Leiter des Amtes, der Anstalt, des Gerichtes oder dem Departement einzureichen.
+
+<sup>2</sup> Bei Gesuchen um Übernahme oder Beteiligung an den Kosten freiwilliger Weiterbildung nimmt das Personalamt vor Erlass eines Entscheides Stellung.
+
+#### § 58
+
+**Pflichtzeit**
+
+<sup>1</sup> Durch die Beteiligung des Kantons an den Kosten der freiwilligen Weiterbildung wird die Mitarbeiterin oder der Mitarbeiter verpflichtet, für eine bestimmte Zeit im Dienste des Kantons zu verbleiben oder den Beitrag ganz beziehungsweise teilweise zurückzuzahlen.
+
+<sup>2</sup> Die Pflichtzeit beginnt nach Abschluss der Weiterbildung. Sie ist abhängig von der Höhe der Aufwendungen des Kantons:
+
+- 1\. Aufwendungen des Kantons — Pflichtzeit
+  - 1\.1. bis Fr. 5 000.- — keine
+  - 1\.2. Fr. 5 001.- bis Fr. 15 000.- — 12 Monate
+  - 1\.3. Fr. 15 001.- bis Fr. 30 000.- — 24 Monate
+  - 1\.4. über Fr. 30 000.- — 36 Monate
+
+<sup>3</sup> Als Aufwendungen des Kantons gelten die Kosten gemäss § 56 Absatz 2. Die Kosten für die Lohnfortzahlung bei Dienstausfall berechnen sich aufgrund der Grundbesoldung und allfälliger Funktionszulagen.
+
+<sup>4</sup> Die Pflichtzeit wird durch unbezahlte Urlaube von über 30 Tagen unterbrochen.
+
+<sup>5</sup> Parallel laufende Pflichtzeiten sind nicht zulässig. Wird bei einer bestehenden Pflichtzeit eine weitere Kostenbeteiligung des Kantons beansprucht, beginnt die neue Pflichtzeit erst nach Ablauf der letzten.
+
+#### § 59
+
+**Rückzahlungspflicht**
+
+<sup>1</sup> Bei selbst verschuldetem Nichtantritt und Abbruch der Weiterbildung sowie im Falle der Auflösung des Dienstverhältnisses während der Weiterbildung sind die vom Kanton zugesprochenen Leistungen an die freiwillige Weiterbildung unabhängig von deren Höhe in vollem Umfang zurückzuerstatten.
+
+<sup>2</sup> Bei Austritt aus dem Dienstverhältnis mit dem Kanton vor Ablauf der Pflichtzeit besteht eine anteilsmässige Rückzahlungspflicht für die nicht geleisteten Monate. Bei einer Änderung des Beschäftigungsgrades wird die Pflichtzeit anteilsmässig bis maximal 48 Monate angepasst.
+
+<sup>3</sup> Die zurückzuerstattenden Leistungen für bezahlte Dienstabwesenheiten während der Weiterbildung werden aufgrund des altersabhängigen Stundenteilers berechnet.
+
+<sup>4</sup> Aus wichtigen Gründen, namentlich wenn das Dienstverhältnis aufgrund betrieblicher Gründe aufgelöst werden muss, kann das Departement von einer Kostenrückerstattung ganz absehen oder den zurückzuzahlenden Betrag reduzieren.
+
+### 5.8. Arbeitszeugnis
+
+#### § 60
+
+**Arbeitszeugnis**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können jederzeit ein Zeugnis verlangen, das sich über die Art und die Dauer des Dienstverhältnisses sowie über ihre Leistungen und ihr Verhalten ausspricht.
+
+<sup>2</sup> Auf ihr besonderes Verlangen hat sich das Zeugnis auf Angaben über die Art und Dauer des Dienstverhältnisses zu beschränken.
+
+<sup>3</sup> Der Anspruch auf ein Lehrzeugnis richtet sich nach den Bestimmungen des Schweizerischen Obligationenrechts[^60-1].
+
+[^60-1]: SR [220](https://db.clex.ch/link/Bund/220/de)
+
+## 6. Pflichten der Mitarbeiterinnen und Mitarbeiter
+
+### 6.1. Aufgabenerfüllung
+
+#### § 61
+
+**Treuepflicht**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben die ihnen übertragenen Aufgaben persönlich zu erfüllen.
+
+<sup>2</sup> Sie sind zu treuer, sorgfältiger und wirtschaftlicher Arbeitsleistung verpflichtet. Dabei haben sie die Interessen des Kantons zu wahren sowie alles zu unterlassen, was diese beeinträchtigt oder beeinträchtigen könnte.
+
+#### § 62
+
+**Aufgaben und Pflichten**
+
+<sup>1</sup> Grundlage der Zusammenarbeit bilden die Führungsrichtlinien.
+
+<sup>2</sup> Aufgaben, Verantwortung und Kompetenzen bestimmen sich nach der Funktion, der Stellenbeschreibung und den besonderen Weisungen der vorgesetzten Person.
+
+<sup>3</sup> Mitarbeiterinnen und Mitarbeiter haben alle Aufgaben zu erfüllen, die wesensmässig zu ihrem Tätigkeitsgebiet gehören und die ihnen aufgrund ihrer Kenntnisse und Fähigkeiten von der vorgesetzten Person übertragen werden.
+
+#### § 62a
+
+**Meldung von Unregelmässigkeiten**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind berechtigt, Unregelmässigkeiten einer vorgesetzten Stelle oder der vom Regierungsrat bezeichneten Meldestelle zu melden. Zulässig sind nur Meldungen, die in gutem Glauben erfolgen.
+
+<sup>2</sup> Wer in gutem Glauben eine Meldung erstattet, verstösst nicht gegen die Treuepflicht und darf deswegen in seiner beruflichen Stellung nicht benachteiligt werden.
+
+<sup>3</sup> Die Meldung wird vertraulich behandelt. Es werden geeignete technische und organisatorische Schutzmassnahmen getroffen, um die Vertraulichkeit zu gewährleisten.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten.
+
+#### § 63
+
+**Änderungen des Dienstverhältnisses**
+
+<sup>1</sup> Wenn es die betrieblichen Verhältnisse erfordern, kann den Mitarbeiterinnen und Mitarbeitern, mit Ausnahme der auf Amtsdauer gewählten Personen sowie der Auszubildenden, eine andere zumutbare Funktion, eine andere Stelle oder ein anderer Arbeitsort zugewiesen werden.
+
+<sup>2</sup> Eine Reduktion oder eine Erhöhung des Beschäftigungsgrades kann erfolgen, wenn die betrieblichen Verhältnisse dies verlangen.
+
+<sup>3</sup> Solche Änderungen sind unabhängig davon, ob sie Auswirkungen auf die Besoldung haben oder nicht, unter Einhaltung analoger Fristen und Termine zur ordentlichen Kündigung mitzuteilen, zu begründen und die betroffenen Mitarbeiterinnen und Mitarbeiter sind anzuhören.
+
+<sup>4</sup> Sofern keine einvernehmliche Lösung erzielt werden kann, kann die Änderung mit einer ordentlichen Kündigung verbunden werden.
+
+#### § 64
+
+**Freistellung**
+
+<sup>1</sup> In begründeten Fällen können Mitarbeiterinnen und Mitarbeiter ohne Einfluss auf die Lohnfortzahlung von der Arbeit freigestellt werden.
+
+<sup>2</sup> Ohne anders lautende Vereinbarung werden die Einkünfte aus einer anderen Erwerbstätigkeit während der Freistellung an den Lohn angerechnet.
+
+<sup>3</sup> Die Meldepflicht gemäss § 79 gilt bei Übernahme einer Erwerbstätigkeit während der Freistellung analog.
+
+<sup>4</sup> Wenn bei einer Freistellung während laufender Kündigungsfrist eine neue Stelle angetreten wird, ist die Auflösung des Dienstverhältnisses beim Kanton nachträglich so festzusetzen, dass nicht zwei Arbeitsverhältnisse gleichzeitig bestehen.
+
+#### § 64a
+
+**Internet und E-Mail am Arbeitsplatz**
+
+<sup>1</sup> Der Regierungrat regelt in einer Weisung die Überwachung und Nutzung von Internet und E-Mail am Arbeitsplatz. Er kann für die Überwachung arbeitsplatzbezogene Auswertungen vornehmen.
+
+<sup>2</sup> Die Überwachung erfolgt unter Berücksichtigung der Bestimmungen über den Persönlichkeitsschutz, den Datenschutz, das Arbeitsrecht sowie das Amtsgeheimnis.
+
+<sup>3</sup> Bei Missbrauch der Internet- und E-Mail-Dienste kann gegen fehlbare Personen eine Administrativuntersuchung eingeleitet werden.
+
+### 6.2. Arbeitszeit
+
+#### § 65
+
+**Arbeitszeit im Allgemeinen**
+
+<sup>1</sup> Die jährliche Bruttoarbeitszeit auf Basis einer 42-Stunden-Woche beträgt bei einem vollen Pensum 2184 Stunden. Vorbehalten bleiben abweichende Spezialregelungen bei besonderen betrieblichen Verhältnissen sowie für Personen mit Kaderarbeitszeit.
+
+<sup>2</sup> Die Ausgestaltung der Arbeitszeit hat den Bedürfnissen der Kundinnen und Kunden und des Betriebes Rechnung zu tragen und berücksichtigt im weiteren die Interessen der Mitarbeiterinnen und Mitarbeiter.
+
+<sup>3</sup> In der Regel gilt die Jahresarbeitszeit. Sofern aus betrieblichen Gründen erforderlich, können die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte auch andere Arbeitszeitmodelle, namentlich die Wochenarbeitszeit, wählen.
+
+<sup>4</sup> Das Personalamt erlässt Richtlinien.
+
+#### § 65a
+
+**Kaderarbeitszeit**
+
+<sup>1</sup> Für die Leiterinnen und Leiter der Generalsekretariate, Ämter, Anstalten und Betriebe sowie für die Präsidentinnen und Präsidenten der Bezirksgerichte, des Zwangsmassnahmengerichts und der Kindes- und Erwachsenenschutzbehörden gilt das Modell der Kaderarbeitszeit. Sie sind von der Erfassung der Arbeitszeit befreit. Sie können keine Mehrstunden und Überstunden geltend machen.
+
+<sup>2</sup> Anstelle des Anspruchs auf Kompensation von Mehrstunden und Überstunden werden ihnen jeweils am Ende eines Kalenderjahres 42 Stunden auf ein Langzeitkonto gutgeschrieben.
+
+<sup>3</sup> Das Zeitguthaben auf dem Langzeitkonto darf 250 Stunden nicht überschreiten. Darüber hinaus angeäufnete Stunden verfallen.
+
+<sup>4</sup> Das Zeitguthaben auf dem Langzeitkonto ist frei verfügbar und ist periodisch spätestens bis zum Dienstaustritt auszugleichen. Es kann nur finanziell abgegolten werden, wenn ein Abbau aus betrieblichen oder triftigen persönlichen Gründen bis zum Austritt nicht erfolgen kann
+
+<sup>5</sup> Das Departement erlässt Richtlinien zum Vollzug der Kaderarbeitszeit.
+
+#### § 66
+
+**Jahresarbeitszeit**
+
+<sup>1</sup> Bei der Jahresarbeitszeit berechnet das Personalamt die Jahres-Sollstunden der Mitarbeiterinnen und Mitarbeiter unter Berücksichtigung der Kalenderlage der Feier- und öffentlichen Ruhetage jährlich neu.
+
+<sup>2</sup> Die Jahresarbeitszeit setzt die Erfassung der Arbeitszeit voraus.
+
+#### § 67
+
+**Arbeitszeitsaldo bei Jahresarbeitszeit**
+
+<sup>1</sup> Der Arbeitszeitsaldo während des Kalenderjahres darf bei vollzeitbeschäftigten Personen höchstens plus 200 beziehungsweise minus 100 Stunden betragen. Die Kompensation eines positiven Arbeitszeitsaldos ist mit der vorgesetzten Person abzusprechen; sie kann aus betrieblichen Gründen angeordnet werden.
+
+<sup>2</sup> Der Arbeitszeitsaldo darf beim Übertrag auf das folgende Kalenderjahr bei vollzeitbeschäftigten Personen höchstens plus 42 Stunden beziehungsweise minus 20 Stunden betragen. Die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können den Zeitpunkt des Übertrages aus betrieblichen Gründen um bis zu sechs Monate, in begründeten Ausnahmefällen bis zu einem Jahr aufschieben.
+
+<sup>3</sup> Zeitguthaben, die am Ende der Aufschubsfrist die Höchstgrenze überschreiten, verfallen. Die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können aber in begründeten Ausnahmefällen mit Zustimmung des Personalamtes die Entschädigung eines Teils des positiven, 42 Stunden übersteigenden Arbeitszeitsaldos gewähren.
+
+<sup>4</sup> Ein positiver oder negativer Arbeitszeitsaldo ist bis zum Dienstaustritt auszugleichen. Ein positiver Saldo kann finanziell abgegolten werden, wenn ein Abbau aus betrieblichen oder triftigen persönlichen Gründen bis zum Austritt nicht erfolgen kann. Ein negativer Arbeitszeitsaldo wird in der Regel mit der Besoldung verrechnet.
+
+#### § 68
+
+**Arbeitszeit und Brückentagregelung bei Wochenarbeitszeit**
+
+<sup>1</sup> Bei der Wochenarbeitszeit beträgt die tatsächliche Arbeitszeit in der Regel 42,5 Stunden pro Woche. Die Differenz zwischen den tatsächlich geleisteten Arbeitsstunden und der Normalarbeitszeit im Jahresdurchschnitt wird durch Gewährung zusätzlicher Freitage zur Brückenbildung zwischen öffentlichen Ruhetagen oder durch andere Formen flexibler Arbeitsgestaltung ausgeglichen.
+
+#### § 69
+
+**Überstunden bei Wochenarbeitszeit**
+
+<sup>1</sup> Es gelten jene Arbeitsstunden als Überstunden, welche auf vorgängige Anordnung oder bei nachträglicher Bewilligung der vorgesetzten Person über die vereinbarte Regelarbeitszeit hinaus geleistet werden. Sie sind gesondert auszuweisen.
+
+<sup>2</sup> Überstunden sind durch Freizeit zu kompensieren. Die Kompensation hat in Absprache mit der vorgesetzten Person in der Regel innert 12 Monaten zu erfolgen; sie kann aus betrieblichen Gründen angeordnet werden.
+
+<sup>3</sup> Ein Anspruch auf Entschädigung der Überstunden oder auf eine Überstundenzulage besteht nicht. Vorbehalten bleiben besondere Bestimmungen für einzelne Personalbereiche.
+
+<sup>4</sup> Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können in begründeten Ausnahmefällen mit Zustimmung des Personalamtes eine Entschädigung der Überstunden gewähren.
+
+#### § 70
+
+**Grundsätze der Arbeitszeitgestaltung**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können ihre Arbeitszeit unter Berücksichtigung des geltenden Arbeitszeitmodells und der nachfolgenden Grundsätze sowie der Erfordernisse der Departemente, der Staatskanzlei, der Ämter, der Anstalten oder der Gerichte selbst bestimmen.
+
+<sup>2</sup> Bei der Ausgestaltung der Arbeitszeit sind folgende Grundsätze zu beachten:
+
+- 1\. die Arbeitszeit ist auf fünf Arbeitstage zu verteilen, wobei Samstag und Sonntag arbeitsfrei sind;
+- 2\. die Zeit zwischen 06.30 und 19.00 Uhr gilt als Tagesrahmen, innerhalb welchem die Arbeitsleistung zu erbringen ist;
+- 3\. die Ansprechzeiten sind jeweils von Montag bis Freitag von 8.00 bis 11.30 Uhr und von 13.30 bis 17.00 Uhr zu gewährleisten;
+- 4\. bei einer Arbeitsleistung von mehr als sechs Stunden ist eine nicht zur Arbeitszeit zu rechnende Pause von mindestens 30 Minuten einzuhalten;
+- 5\. für weitere Pausen können pro Halbtag höchstens 15 Minuten an die Arbeitszeit angerechnet werden.
+
+<sup>3</sup> Die Leiterinnen und Leiter der Departemente, der Staatskanzlei, der Ämter, Anstalten und Gerichte können in begründeten Fällen für einzelne Betriebe oder Mitarbeiterinnen und Mitarbeiter Ausnahmen von den Regeln in Absatz 2 vorsehen.
+
+#### § 71
+
+**Anrechenbare Arbeitszeit**
+
+<sup>1</sup> Müssen dienstliche Verpflichtungen aus betrieblichen Gründen ausserhalb der in § 70 aufgeführten Arbeitstage und des Tagesrahmens wahrgenommen werden, ist die aufgewendete Zeit als Arbeitszeit anzurechnen.
+
+<sup>2</sup> Erfolgt die Arbeitsleistung ausserhalb des üblichen Arbeitsortes, gilt die Reisezeit vom Arbeitsort an den auswärtigen Einsatzort oder die Mehrzeit gegenüber dem sonst üblichen Arbeitsweg als Arbeitszeit.
+
+<sup>3</sup> Bei bezahltem Urlaub und bei interner sowie bei obligatorisch erklärter externer Weiterbildung wird bei vollzeitbeschäftigten Personen höchstens die vereinbarte tägliche Sollzeit als Arbeitszeit gutgeschrieben. Bei teilzeitbeschäftigten Mitarbeiterinnen und Mitarbeitern bestimmt die vorgesetzte Person die anrechenbare Arbeitszeit.
+
+<sup>4</sup> Arzt- und Zahnarztbesuche sowie Therapien sind nach Möglichkeit auf Randzeiten zu legen und gelten in der Regel nicht als Arbeitszeit beziehungsweise krankheits- oder unfallbedingte Ausfallzeit.
+
+#### § 72
+
+**Feier- und öffentliche Ruhetage**
+
+<sup>1</sup> Feier- und öffentliche Ruhetage gemäss § 1 Ziffern 2 und 3 des Gesetzes über die öffentlichen Ruhetage[^72-1] werden an die Arbeitszeit angerechnet, sofern sie nicht auf Samstage oder Sonntage fallen.
+
+<sup>2</sup> Vor Neujahr erfolgt der Arbeitsschluss um 12.00 Uhr und vor Karfreitag sowie Auffahrt um 16.00 Uhr. Kein vorzeitiger Arbeitsschluss erfolgt vor 1. Mai, 1. August und 24. Dezember.
+
+<sup>3</sup> Fallen Ruhetage in die Ferien oder erlaubt die Art des Betriebes einen allgemeinen Arbeitsunterbruch nicht, werden sie nachgewährt oder sie können kompensiert werden. Vorausgesetzt ist, dass diese Ruhetage nicht auf einen Samstag oder Sonntag zu liegen kommen.
+
+<sup>4</sup> In Urlaube sowie in Schwangerschafts- und Mutterschaftsurlaube fallende Ruhetage werden nicht nachgewährt.
+
+[^72-1]: RB [822.9](https://www.rechtsbuch.tg.ch/data/822.9/de)
+
+### 6.3. Arbeitsort
+
+#### § 73
+
+**Arbeitsort**
+
+<sup>1</sup> Als Arbeitsort gilt grundsätzlich der Ort, an welchem sich die Dienststelle der Mitarbeiterinnen und Mitarbeiter befindet.
+
+<sup>2</sup> Wenn es die betrieblichen Bedürfnisse zulassen, kann Telearbeit bewilligt werden. Das Personalamt erlässt Richtlinien.
+
+### 6.4. Nebenbeschäftigungen, öffentliche Ämter
+
+#### § 74
+
+**Informationspflicht**
+
+<sup>1</sup> Die Ausübung von Nebenbeschäftigungen und die Übernahme öffentlicher Ämter ist zulässig, wenn sie die dienstliche Aufgabenerfüllung nicht beeinträchtigen, mit dem Dienstverhältnis vereinbar sind und keine Interessenkollisionen zur Folge haben.
+
+<sup>1<sup>bis</sup></sup> Der maximale Beschäftigungsgrad aller entgeltlichen Haupt- und Nebenbeschäftigungen darf 110 % nicht übersteigen. In begründeten Fällen können zeitlich beschränkte Ausnahmen bewilligt werden.
+
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter haben ihre vorgesetzte Stelle zu informieren, bevor sie ein öffentliches Amt übernehmen oder eine Nebenbeschäftigung aufnehmen. Vorbehalten bleiben Ämter mit Amtszwang.
+
+#### § 75
+
+**Bewilligungspflicht**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter bedürfen zur Ausübung einer Nebenbeschäftigung oder eines öffentlichen Amtes einer schriftlichen Bewilligung der anstellenden beziehungsweise wählenden Instanz oder des zuständigen Departementes, wenn damit ein wesentlicher Nebenerwerb angestrebt oder erzielt wird, wenn ein Teil der Arbeitszeit beansprucht wird, oder wenn die Arbeitsleistung im Staatsdienst beeinträchtigt werden kann.
+
+<sup>2</sup> Bei vollzeitbeschäftigten Personen wird von einem wesentlichen Nebenerwerb ausgegangen, wenn mit diesem mehr als ein Zehntel der beim Kanton bezogenen Jahresbesoldung angestrebt oder erzielt wird.
+
+<sup>3</sup> Wird ein Teil der Arbeitszeit beansprucht, ist in der Regel eine Kürzung des Beschäftigungsgrades vorzunehmen oder es kann Urlaub gewährt werden.
+
+### 6.5. Diverse Pflichten aus dem Dienstverhältnis
+
+#### § 76
+
+**Amtsgeheimnis**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter sind zur Verschwiegenheit über dienstliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
+
+<sup>2</sup> Den Mitarbeiterinnen und Mitarbeitern ist die Einsichtnahme in amtliche Akten, deren Weitergabe und die Weiterleitung von Informationen nur gestattet, soweit der Geschäftsgang es bedingt oder ein Gesetz dazu ermächtigt.
+
+<sup>3</sup> Die Pflicht zur Verschwiegenheit bleibt auch nach Beendigung des Dienstverhältnisses oder der Amtstätigkeit bestehen.
+
+<sup>4</sup> Mitarbeiterinnen und Mitarbeiter dürfen sich als Partei, Zeuginnen oder Zeugen, gerichtliche Sachverständige oder Auskunftspersonen nur äussern, wenn die zuständige Stelle dazu die Ermächtigung erteilt hat. Davon ausgenommen sind Fälle, bei welchen die Geheimhaltungspflicht aufgrund einer gesetzlichen Auskunfts- oder Anzeigepflicht entfällt.
+
+<sup>5</sup> Die Entbindung vom Amtsgeheimnis erfolgt durch das Departement oder die Leiterinnen und Leiter der Staatskanzlei, der Ämter, Anstalten und Gerichte.
+
+#### § 77
+
+**Ausstandspflicht**
+
+<sup>1</sup> Die Ausstandspflicht der Mitarbeiterinnen und Mitarbeiter richtet sich, soweit keine anderen Erlasse anwendbar sind, nach den Bestimmungen des Gesetzes über die Verwaltungsrechtspflege[^77-1].
+
+[^77-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+
+#### § 78
+
+**Verbot zur Annahme von Geschenken und anderen Vorteilen**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern ist es untersagt, Geschenke oder andere Vorteile, die im Zusammenhang mit ihrer Diensterfüllung stehen oder stehen könnten, für sich oder andere Personen zu beanspruchen, anzunehmen oder sich versprechen zu lassen.
+
+<sup>2</sup> Von diesem Verbot ausgenommen ist die Annahme von Höflichkeitsgeschenken von geringem Wert nach erbrachter Dienstleistung.
+
+#### § 79
+
+**Meldepflicht**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben Veränderungen in den persönlichen Verhältnissen, soweit sie für das Dienstverhältnis von Bedeutung sind, umgehend der zuständigen Personalstelle sowie der Lohnzahlungsstelle mitzuteilen.
+
+#### § 80
+
+**Vertrauensärztliche Untersuchung**
+
+<sup>1</sup> In begründeten Fällen, in welchen Risiken bei der Aufgabenerfüllung ausgeschlossen werden sollen, können die Leiterinnen und Leiter der Ämter, Anstalten und Gerichte in Absprache mit dem Personalamt eine vertrauensärztliche Untersuchung der Mitarbeiterinnen und Mitarbeiter anordnen.
+
+#### § 81
+
+**Urheberrecht**
+
+<sup>1</sup> Von Mitarbeiterinnen und Mitarbeitern im Rahmen ihres Dienstverhältnisses erstellte Werke sind Eigentum des Kantons. Urheberrechte und alle sonstigen Rechte an den Werken werden vollumfänglich auf den Kanton übertragen und können zu keinem Zeitpunkt von Mitarbeiterinnen und Mitarbeitern geltend gemacht werden.
+
+#### § 82
+
+**Wohnsitzpflicht**
+
+<sup>1</sup> Sofern es die Aufgabenerfüllung erfordert, kann den Mitarbeiterinnen und Mitarbeitern von der Wahl- oder Anstellungsinstanz ein bestimmter Wohnsitz, die Erreichbarkeit des Arbeitsortes innert bestimmter Zeit oder der Bezug einer Dienstwohnung vorgeschrieben werden.
+
+## 7. Verantwortlichkeit
+
+#### § 83
+
+**Verantwortlichkeit**
+
+<sup>1</sup> Die vermögens- und strafrechtliche Verantwortlichkeit der Mitarbeiterinnen und Mitarbeiter richtet sich nach dem Gesetz über die Verantwortlichkeit[^83-1], soweit keine anderen Erlasse anwendbar sind.
+
+<sup>2</sup> Die disziplinarische Verantwortlichkeit der auf Amtsdauer gewählten Personen richtet sich nach dem Gesetz über die Verantwortlichkeit.
+
+[^83-1]: RB [170.3](https://www.rechtsbuch.tg.ch/data/170.3/de)
+
+## 8. Rechtsschutz
+
+#### § 84
+
+**Rechtliches Gehör**
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter haben vor Erlass eines Entscheides das Recht, zum in Frage stehenden Sachverhalt Stellung zu nehmen.
+
+#### § 85
+
+**Rechtsschutz**
+
+<sup>1</sup> Soweit diese Verordnung nichts Abweichendes regelt, richtet sich der Rechtsschutz betreffend personalrechtlicher Entscheide nach dem Gesetz über die Verwaltungsrechtspflege[^85-1].
+
+[^85-1]: RB [170.1](https://www.rechtsbuch.tg.ch/data/170.1/de)
+
+## 9. Schlussbestimmungen
+
+#### § 86
+
+**...[^86-1]**
+
+[^86-1]: Änderung und Aufhebung bisherigen Rechtes, ABl. 2003, Seite 2738 ff.; ABl. 2006, Seite 128 ff.; ABl. 2007, Seite 2636 f.
+
+#### § 87
+
+**Übergangsrecht**
+
+<sup>1</sup> Hängige Gesuche um Abgangsentschädigungen werden nach bisherigem Recht beurteilt.
+
+#### § 88
+
+**Übergangsrecht**
+
+<sup>1</sup> Unter Vorbehalt der nachstehenden Bestimmungen gilt nach Inkrafttreten dieser Verordnung für alle bisherigen Dienstverhältnisse neues Recht.
+
+<sup>2</sup> Für Dienstverhältnisse, die beim Inkrafttreten der vorliegenden Verordnung bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
+
+<sup>3</sup> Alle bei Inkrafttreten dieser Verordnung bestehenden Dienstverhältnisse von Beamtinnen und Beamten, ausgenommen die auch nach Inkrafttreten des Gesetzes betreffend die Abschaffung des Beamtenstatus weiterhin vom Volk, vom Grossen Rat oder vom Regierungsrat gewählten Personen, werden auf den Zeitpunkt des Inkrafttretens in unbefristete Dienstverhältnisse nach der vorliegenden Verordnung überführt. Die betroffenen Dienstverhältnisse und die Zuständigkeitsvorschriften richten sich ab diesem Zeitpunkt nach den für die Angestellten geltenden Vorschriften. Für die erwähnten Dienstverhältnisse ist nach der Überführung von Seiten des Kantons und der Mitarbeiterinnen und Mitarbeiter eine Kündigungsfrist von drei Monaten zu beachten.
+
+<sup>4</sup> Alle bei Inkrafttreten dieser Verordnung bestehenden Dienstverhältnisse von Aushilfen werden auf den Zeitpunkt des Inkrafttretens in befristete oder unbefristete Dienstverhältnisse nach der vorliegenden Verordnung überführt. Die betroffenen Dienstverhältnisse richten sich ab diesem Zeitpunkt nach den für die Angestellten geltenden Vorschriften. Für die erwähnten Dienstverhältnisse ist nach der Überführung von Seiten des Kantons und der Mitarbeiterinnen und Mitarbeiter eine Kündigungsfrist nach Massgabe von § 19 zu beachten.
+
+<sup>5</sup> Bestehende privatrechtliche Arbeitsverhältnisse werden auch nach Inkrafttreten dieser Verordnung als solche weiter geführt.
+
+#### § 88a
+
+**Übergangsrecht**
+
+<sup>1</sup> Für Dienstverhältnisse, die beim Inkrafttreten der vorliegenden Verordnung bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
+
+<sup>2</sup> Kündigungen, welche nach Inkrafttreten der vorliegenden Verordnung und vor dem 1. Juli 2014 ausgesprochen werden, richten sich nach bisherigem Recht.
+
+#### § 89
+
+**Inkraftsetzung**
+
+<sup>1</sup> Diese Verordnung tritt auf den 1. Juni 2004 in Kraft.
+
+ABl. 50/2003

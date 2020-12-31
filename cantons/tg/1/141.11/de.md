@@ -1,0 +1,246 @@
+---
+canton: TG
+number: "141.11"
+title: Verordnung des Regierungsrates zum Gesetz über das Kantons- und Gemeindebürgerrecht
+short: KBüV
+language: de
+version: 2018-01-01
+version_adopted: 2018-05-22
+adopted: 2018-05-22
+in_force: 2018-01-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/141.11"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2439/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung des Regierungsrates zum Gesetz über das Kantons- und Gemeindebürgerrecht
+
+KBüV
+
+(KBüV)
+
+vom 22.05.2018 (Stand 01.01.2018)
+
+## 1. Allgemeine Bestimmung
+
+#### § 1
+
+**Zuständigkeit**
+
+<sup>1</sup> Zuständiges Departement im Sinne des Gesetzes ist das Departement für Justiz und Sicherheit.
+
+<sup>2</sup> Zuständiges kantonales Amt im Sinne des Gesetzes ist das Amt für Handelsregister und Zivilstandswesen.
+
+## 2. Erwerb des Bürgerrechtes
+
+### 2.1. Integrationskriterien und weitere Voraussetzungen
+
+#### § 2
+
+**Geordnete persönliche und finanzielle Verhältnisse**
+
+<sup>1</sup> Geordnete persönliche und finanzielle Verhältnisse liegen vor, wenn die Gesuchstellerin oder der Gesuchsteller die öffentliche Sicherheit und Ordnung beachtet und die öffentlich-rechtlichen und privatrechtlichen Verpflichtungen erfüllt sowie die Betreibungsregisterauszüge für den Zeitraum von fünf Jahren vor Einreichen des Gesuchs bis zum Abschluss des Einbürgerungsverfahrens keine offenen Betreibungen oder Verlustscheine aufweisen.
+
+<sup>2</sup> Geordnete finanzielle Verhältnisse liegen insbesondere nicht vor, wenn Steuer-, Krankenkassen- oder Bussenausstände bestehen oder wenn familienrechtliche Unterhalts- und Unterstützungspflichten nicht erfüllt werden.
+
+#### § 3
+
+**Deutschkenntnisse**
+
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller muss Kenntnisse in der deutschen Sprache gemäss § 6 Abs. 2 des Gesetzes nachweisen.
+
+<sup>2</sup> Die Deutschkenntnisse gelten als offenkundig, wenn die Gesuchstellerin oder der Gesuchsteller:
+
+- 1\. Deutsch als Muttersprache spricht und schreibt;
+- 2\. während mindestens fünf Jahren die obligatorische Schule in deutscher Sprache besucht hat;
+- 3\. eine Ausbildung auf Sekundarstufe II oder Tertiärstufe in deutscher Sprache abgeschlossen hat; oder
+- 4\. über einen Sprachnachweis verfügt, der die gemäss kantonalem Recht geforderten Deutschkenntnisse bescheinigt und der sich auf einen Sprachtest abstützt, der den allgemein anerkannten Qualitätsstandards für Sprachtestverfahren entspricht.
+
+#### § 4
+
+**Teilnahme am Wirtschaftsleben oder am Erwerb von Bildung**
+
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller nimmt am Wirtschaftsleben teil, wenn sie oder er die Lebenshaltungskosten und Unterhaltsverpflichtungen im Zeitpunkt der Gesuchstellung und der Einbürgerung deckt durch Einkommen, Vermögen oder Leistungen Dritter, auf die ein Rechtsanspruch besteht.
+
+<sup>2</sup> Die Gesuchstellerin oder der Gesuchsteller nimmt am Erwerb von Bildung teil, wenn sie oder er im Zeitpunkt der Gesuchstellung oder der Einbürgerung in Aus- oder Weiterbildung ist.
+
+<sup>3</sup> Wer in den fünf Jahren unmittelbar vor der Gesuchstellung oder während des Einbürgerungsverfahrens Sozialhilfe bezieht, erfüllt nicht das Erfordernis der Teilnahme am Wirtschaftsleben oder des Erwerbs von Bildung, ausser die bezogene Sozialhilfe wird vollständig zurückerstattet.
+
+#### § 5
+
+**Kenntnisse der örtlichen, kantonalen und schweizerischen Lebensverhältnisse**
+
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller ist mit den örtlichen, kantonalen und schweizerischen Lebensverhältnissen vertraut, wenn sie oder er namentlich:
+
+- 1\. über Grundkenntnisse der geografischen, historischen, politischen und gesellschaftlichen Verhältnisse in der Gemeinde und im Kanton sowie in der Schweiz verfügt;
+- 2\. am sozialen und kulturellen Leben der Gesellschaft in der Gemeinde und im Kanton sowie in der Schweiz teilnimmt; und
+- 3\. Kontakte zu Schweizerinnen und Schweizern pflegt.
+
+### 2.2 Verfahren
+
+### 2.2.1. Erteilung des Gemeindebürgerrechtes an Schweizerinnen und Schweizer
+
+#### § 6
+
+**Schweizerinnen und Schweizer ohne Kantonsbürgerrecht**
+
+<sup>1</sup> Das Einbürgerungsgesuch von Schweizerinnen und Schweizern, die das Thurgauer Kantonsbürgerrecht noch nicht besitzen, ist bei der Politischen Gemeinde einzureichen.
+
+<sup>2</sup> Für jede vom Gesuch erfasste Person sind folgende Unterlagen beizulegen:
+
+- 1\. Auszug aus dem schweizerischen Personenstandsregister (Infostar), der nicht älter als sechs Monate ist;
+- 2\. Lebenslauf;
+- 3\. Arbeitsbestätigung oder Nachweis der selbständigen Arbeitstätigkeit;
+- 4\. Privatauszug aus dem Schweizerischen Strafregister für Personen, die das 18. Altersjahr vollendet haben;
+- 5\. Auszug aus dem Betreibungsregister für Personen, die das 16. Altersjahr vollendet haben;
+- 6\. Bescheinigung der Steuerbehörde über die aktuellen Steuerfaktoren.
+
+<sup>3</sup> Bei Bedarf können weitere Unterlagen zur Feststellung des für die Einbürgerung massgebenden Sachverhalts eingefordert werden.
+
+#### § 7
+
+**Schweizerinnen und Schweizer mit Kantonsbürgerrecht**
+
+<sup>1</sup> Das Einbürgerungsgesuch von Schweizerinnen und Schweizern, die das Thurgauer Kantonsbürgerrecht bereits besitzen, ist bei der Politischen Gemeinde einzureichen.
+
+<sup>2</sup> Im Übrigen findet § 6 Anwendung.
+
+### 2.2.2. Erteilung des Gemeindebürgerrechtes an Ausländerinnen und Ausländer
+
+#### § 8
+
+**Einbürgerungsgesuch**
+
+<sup>1</sup> Das Einbürgerungsgesuch von Ausländerinnen und Ausländern ist beim Amt für Handelsregister und Zivilstandswesen einzureichen.
+
+<sup>2</sup> Für jede vom Gesuch erfasste Person sind folgende Unterlagen beizulegen:
+
+- 1\. Auszug aus dem schweizerischen Personenstandsregister (Infostar), der nicht älter als sechs Monate ist;
+- 2\. Kopie des Ausländerausweises und des Passes oder Personalausweises;
+- 3\. Wohnsitzbestätigung für die gesetzlich vorgeschriebenen Fristen des ausserkantonalen Einwohneramtes, sofern kein Aufenthalt im Kanton Thurgau von insgesamt zehn Jahren vorliegt;
+- 4\. Lebenslauf;
+- 5\. Arbeitsbestätigung oder Kopie des aktuellen Schulzeugnisses oder des Lehrvertrages der Arbeitgeberin oder des Arbeitgebers;
+- 6\. Nachweis der selbständigen Arbeitstätigkeit;
+- 7\. Sprachnachweis, sofern erforderlich;
+- 8\. Unterzeichnetes Formular der Erklärung betreffend Beachten der öffentlichen Sicherheit und Ordnung, für Personen ab dem 16. Altersjahr;
+- 9\. Auszug aus dem Betreibungsregister für Personen, die das 16. Altersjahr vollendet haben;
+- 10\. Bescheinigung der Steuerbehörde über die aktuellen Steuerfaktoren, bei minderjährigen Kindern Auszug der Eltern;
+- 11\. Bescheinigung der Sozialbehörde über den allfälligen Bezug von Sozialhilfe in den vergangenen fünf Jahren.
+
+<sup>3</sup> Bei Bedarf können weitere Unterlagen zur Feststellung des für die Einbürgerung massgebenden Sachverhalts eingefordert werden.
+
+### 2.2.3. Anderer Erwerb des Bürgerrechtes
+
+#### § 9
+
+**Ehrenbürgerrecht**
+
+<sup>1</sup> Soll einer Person das Bürgerrecht ehrenhalber verliehen werden, macht die Politische Gemeinde die Erhebungen, die für die Beurteilung der Einbürgerungsvoraussetzungen nötig sind und entscheidet über die Verleihung des Ehrenbürgerrechtes.
+
+### 2.2.4. Einbürgerungsbeschluss
+
+#### § 10
+
+**Schweizerinnen und Schweizer mit Kantonsbürgerrecht**
+
+<sup>1</sup> Die Einbürgerung einer Gesuchstellerin oder eines Gesuchstellers, die oder der bereits das Kantonsbürgerrecht besitzt, wird mit dem Beschluss der zuständigen Gemeindebehörde wirksam.
+
+<sup>2</sup> Die Politische Gemeinde teilt den Beschluss unter Angabe der Personalien der eingebürgerten Personen dem Amt für Handelsregister und Zivilstandswesen mit.
+
+#### § 11
+
+**Schweizerinnen und Schweizer ohne Kantonsbürgerrecht und Ausländerinnen und Ausländer**
+
+<sup>1</sup> Die Politische Gemeinde leitet den Einbürgerungsbeschluss von Schweizerinnen und Schweizern ohne Kantonsbürgerrecht und von Ausländerinnen und Ausländern mit den dazugehörigen Gesuchsunterlagen an das Amt für Handelsregister und Zivilstandswesen weiter.
+
+#### § 12
+
+**Rückzug oder Ablehnung des Einbürgerungsgesuches**
+
+<sup>1</sup> Die Politische Gemeinde teilt den Rückzug oder die rechtskräftige Abweisung des Einbürgerungsgesuches einer Ausländerin oder eines Ausländers dem Amt für Handelsregister und Zivilstandswesen unter Beilage der Gesuchsunterlagen mit.
+
+### 2.2.5. Erteilung des Kantonsbürgerrechtes
+
+#### § 13
+
+**Antrag auf Ablehnung eines Gesuches**
+
+<sup>1</sup> Kann das Departement für Justiz und Sicherheit ein Gesuch nicht mit Antrag auf Erteilung des Kantonsbürgerrechtes an den Grossen Rat weiterleiten, wird dies der Gesuchstellerin oder dem Gesuchsteller mit Begründung mitgeteilt. Die Gesuchstellerin oder der Gesuchsteller kann das Gesuch zurückziehen.
+
+#### § 14
+
+**Mitteilung des Beschlusses**
+
+<sup>1</sup> Die Aufnahme in das Kantonsbürgerrecht wird der Gesuchstellerin oder dem Gesuchsteller durch das Amt für Handelsregister und Zivilstandswesen mitgeteilt.
+
+<sup>2</sup> Die Verweigerung des Kantonsbürgerrechts wird der Gesuchstellerin oder dem Gesuchsteller durch das Büro des Grossen Rates mitgeteilt.
+
+## 3. Entlassung aus dem Bürgerrecht
+
+#### § 15
+
+**Entlassung aus dem Schweizer Bürgerrecht**
+
+<sup>1</sup> Das Gesuch um Entlassung aus dem Schweizer Bürgerrecht ist beim Amt für Handelsregister und Zivilstandswesen einzureichen.
+
+<sup>2</sup> Für jede vom Gesuch erfasste Person sind folgende Unterlagen beizulegen:
+
+- 1\. Kopie der Identitätskarte oder des Passes;
+- 2\. Wohnsitzbestätigung;
+- 3\. Nachweis über den Besitz oder die Zusicherung einer anderen Staatsangehörigkeit.
+
+#### § 16
+
+**Entlassung aus dem Kantons- oder Gemeindebürgerrecht**
+
+<sup>1</sup> Das Gesuch um Entlassung aus dem Kantons- oder Gemeindebürgerrecht ist beim Amt für Handelsregister und Zivilstandswesen einzureichen.
+
+<sup>2</sup> Für jede vom Gesuch erfasste Person sind folgende Unterlagen beizulegen:
+
+- 1\. Kopie der Identitätskarte oder des Passes;
+- 2\. Wohnsitzbestätigung, bei Wohnsitz in einem anderen Kanton.
+
+#### § 17
+
+**Wirkung**
+
+<sup>1</sup> Die Entlassung aus dem Schweizer Bürgerrecht hat den Verlust des Kantons- und Gemeindebürgerrechts zur Folge.
+
+<sup>2</sup> Die Entlassung aus dem Kantonsbürgerrecht hat den Verlust des Gemeindebürgerrechts zur Folge.
+
+## 4. Kantonale Gebühren
+
+#### § 18
+
+**Grundsatz**
+
+<sup>1</sup> Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmungen der Verordnung des Grossen Rates über die Gebühren der kantonalen Verwaltungsbehörden[^18-1].
+
+[^18-1]: RB [631.1](https://www.rechtsbuch.tg.ch/data/631.1/de)
+
+#### § 19
+
+**Gebührensätze**
+
+<sup>1</sup> Der Kanton erhebt die folgenden Gebühren:
+
+- 1\. für die Erteilung des Kantonsbürgerrechts an:
+  - 1\.1. Schweizerin oder Schweizer pro Person — Fr. 300
+  - 1\.2. Ausländerin oder Ausländer bis zum vollendeten 18. Altersjahr pro Person — Fr. 400
+  - 1\.3. Ausländerin oder Ausländer nach dem vollendeten 18. Altersjahr pro Person — Fr. 800
+- 2\. für Entscheide über die Entlassung aus dem Kantons- oder Gemeindebürgerrecht sowie aus dem Schweizer Bürgerrecht — Fr. 250
+
+<sup>2</sup> Wird das Gesuch vor Erteilung der Einbürgerungsbewilligung des Bundes zurückgezogen oder abgeschrieben, beträgt die Gebühr Fr. 300 pro Person. In besonderen Fällen kann die Gebühr angemessen erhöht werden.
+
+<sup>3</sup> Für minderjährige Kinder, die mit einem Elternteil eingebürgert werden, und für die Verleihung des Ehrenbürgerrechts werden keine Gebühren erhoben.
+
+#### § 20
+
+**Bezug der Gebühren**
+
+<sup>1</sup> Die Gebühren werden bei Einreichung des Gesuches in Rechnung gestellt.
+
+<sup>2</sup> Werden die Gebühren trotz Hinweis auf die Säumnisfolgen nicht geleistet, wird das Gesuch abgeschrieben.
+
+21/2018

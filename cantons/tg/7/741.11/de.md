@@ -1,0 +1,367 @@
+---
+canton: TG
+number: "741.11"
+title: Strassenverkehrsabgabenverordnung
+short: SVAV
+language: de
+version: 2020-01-01
+valid_until: 2022-12-31
+version_adopted: 2019-10-01
+adopted: 2010-12-07
+in_force: 2011-01-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/741.11"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2226/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Strassenverkehrsabgabenverordnung
+
+SVAV
+
+(SVAV)
+
+vom 07.12.2010 (Stand 01.01.2020)
+
+## 1. Allgemeines
+
+#### § 1
+
+**Grundsatz**
+
+<sup>1</sup> Die Gebühren des Strassenverkehrsamtes decken die Kosten für die amtlichen Verrichtungen im Zusammenhang mit dem Strassenverkehr.
+
+<sup>2</sup> Gebühren, die im elektronischen Zahlungsverkehr im Voraus bezahlt werden, kann das Strassenverkehrsamt um maximal Fr. 15 reduzieren.
+
+<sup>3</sup> Im Rahmen der gesetzlichen Bestimmungen kann das Strassenverkehrsamt die Erhebung der Gebühren an Dritte delegieren.
+
+#### § 2
+
+**Rechnungsstellung**
+
+<sup>1</sup> Das Strassenverkehrsamt stellt für die Abgaben und Gebühren Rechnung.
+
+<sup>2</sup> Die Abgaben und Gebühren können mittels Rechnung, per Nachnahme oder durch Voraus- oder Barzahlung beglichen werden.
+
+<sup>3</sup> Der geschuldete Betrag ist auf einmal, in einem Betrag und innert Frist zu bezahlen.
+
+<sup>4</sup> …
+
+#### § 3
+
+**Zahlungsverzug**
+
+<sup>1</sup> Bei Zahlungsverzug wird nach erfolgter Mahnung das Betreibungsverfahren eingeleitet. Gleichzeitig wird der Entzug der Kontrollschilder verfügt.
+
+<sup>2</sup> Weitere Dienstleistungen des Strassenverkehrsamtes werden erst nach Begleichung der offenen Rechnungen und nur gegen Sofortzahlung erbracht.
+
+<sup>3</sup> Die Halterin oder der Halter schuldet nebst der verfallenen Abgabe auch die entsprechenden Bearbeitungs-, Entzugs- und Betreibungsgebühren.
+
+#### § 4
+
+**Verrechnung, Rückerstattung**
+
+<sup>1</sup> Es kann davon abgesehen werden, Abgaben und Gebühren zu erheben oder zurückzuerstatten, wenn der Betrag niedriger als Fr. 5 ist. Dies gilt nicht, wenn die Rückzahlung beantragt wird.
+
+#### § 5
+
+**Verjährung**
+
+<sup>1</sup> Forderungen und Guthaben verjähren fünf Jahre nach Ablauf des Kalenderjahres, in dem sie fällig wurden.
+
+#### § 6
+
+**Barauslagen, Kostenvorschuss**
+
+<sup>1</sup> Dem Strassenverkehrsamt belastete Kosten für medizinische oder verkehrspsychologische Gutachten, Strafregisterauszüge usw. werden den Kundinnen und Kunden weiterverrechnet. Es kann ein angemessener Kostenvorschuss erhoben werden.
+
+## 2. Verkehrszulassung von Personen
+
+#### § 7
+
+**Führerausweise**
+
+<sup>1</sup> Für Führerausweise werden Gebühren wie folgt erhoben:
+
+- 1\. Führerausweis — Fr. 50
+- 2\. Lernfahrausweis — Fr. 40
+- 3\. Änderung, Duplikat und Ersatz eines Ausweises gemäss Ziff. 1 und Ziff. 2 — Fr. 35
+- 4\. Bearbeitung eines Gesuches für einen Lernfahr- bzw. Führerausweis — Fr. 30
+- 5\. Bearbeitung eines Gesuches um Umschreibung eines ausländischen Führerausweises — Fr. 80
+- 6\. Internationaler Führerausweis — Fr. 40
+- 7\. Fähigkeitsausweis C/C1 und D/D1 — Fr. 35
+
+#### § 8
+
+**Führerprüfungen**
+
+<sup>1</sup> Für Führerprüfungen werden Gebühren wie folgt erhoben:
+
+- 1\. Theorieprüfungen:
+  - 1\.1. Gruppenprüfung — Fr. 35
+  - 1\.2. Einzelprüfung — Fr. 120
+  - 1\.3. Theorieprüfung CZV — Fr. 70
+- 2\. Fahrprüfungen, Kontrollfahrten:
+  - 2\.1. Kategorie A1, A — Fr. 90
+  - 2\.2. Kategorie B, B1, F, BE, C1E, D1E, DE, BPT — Fr. 120
+  - 2\.3. Kategorie C, C1, CE, D1 — Fr. 180
+  - 2\.4. Kategorie D — Fr. 240
+  - 2\.5. Kategorie M, G — Fr. 60
+  - 2\.6. Kontrollfahrten für alle Kategorien — Fr. 180
+- 3\. Bewilligung für ausserkantonale Prüfung — Fr. 25
+- 4\. Bestätigung über abgelegte Führerprüfung — Fr. 30
+- 5\. Erfassung des Prüfungsgesuchs von ausserkantonalen Kandidatinnen oder Kandidaten — Fr. 30
+- 6\. Bearbeitung ausserkantonale Prüfungsbestätigung — Fr. 30
+
+#### § 9
+
+**Administrativmassnahmen**
+
+<sup>1</sup> Für Administrativmassnahmen werden Gebühren wie folgt erhoben:
+
+- 1\. Verweigerung, Entzug, Annullierung oder Aberkennung von Ausweisen sowie Fahrverbot, Sperr- und Wartefrist — Fr. 300
+- 2\. Vorsorgliche Verweigerung, Entzug oder Aberkennung des Führerausweises — Fr. 100
+- 3\. Verweigerung, Entzug oder Aberkennung des Führerausweises nach negativer Führerprüfung oder Kontrollfahrt (Fahrkompetenz) — Fr. 100
+- 4\. Aberkennung nach Ablehnung des prüfungsfreien Austausches des ausländischen Führerausweises oder Umgehung der Zuständigkeit — Fr. 100
+- 5\. Verwarnung — Fr. 200
+- 6\. Wiedererteilung des Führerausweises nach Entzug, Aberkennung, Verweigerung oder Annullierung mit oder ohne Auflagen — Fr. 300
+- 7\. Anordnung von zu überwachenden Auflagen — Fr. 100
+- 8\. Anordnung einer verkehrsmedizinischen oder verkehrspsychologischen Untersuchung — Fr. 300
+- 9\. Änderung einer Massnahme — Fr. 100
+- 10\. Verkehrsunterricht zur Nachschulung — Fr. 200 bis Fr. 300
+- 11\. Aufgebot zur ärztlichen Kontrolluntersuchung — Fr. 20
+- 12\. Mahnung wegen Verzugs eines Arztzeugnisses — Fr. 40
+
+#### § 10
+
+**Moderatorinnen und Moderatoren**
+
+<sup>1</sup> Für die Zulassung von Moderatorinnen und Moderatoren werden Gebühren wie folgt erhoben:
+
+- 1\. Ausbildungszulassung — Fr. 120
+- 2\. Ausstellen und Verlängerung der Bewilligung für die Moderatorentätigkeit — Fr. 80
+
+## 3. Verkehrszulassung von Fahrzeugen
+
+#### § 11
+
+**Fahrzeugausweise**
+
+<sup>1</sup> Für Fahrzeugausweise werden Gebühren wie folgt erhoben:
+
+- 1\. Fahrzeugausweis — Fr. 50
+- 2\. Ersatzfahrzeugausweis — Fr. 50
+- 3\. Tageszulassung:
+  - 3\.1. Ausweis — Fr. 50
+  - 3\.2. Versicherungsprämie — Tarif
+- 4\. …
+- 5\. Grüne Versicherungskarte — Fr. 30
+- 6\. Kollektiv-Fahrzeugausweis — Fr. 50
+- 7\. Änderung (ohne Adressmutation), Duplikat, Ersatz, Verlängerung, Aufforderung:
+  - 7\.1. Einzelausweis — Fr. 30
+  - 7\.2. bei Wechsel des Firmennamens oder der Rechtsform bis 10 Fahrzeuge pro Fahrzeug inklusive Kontrollschilderübertragung — Fr. 50
+  - 7\.3. bei Wechsel des Firmennamens oder der Rechtsform ab dem 11. Fahrzeug pro Fahrzeug inklusive Kontrollschilderübertragung — Fr. 10
+- 8\. Eintrag von Code 178 (Halterwechsel verboten) — Fr. 30
+- 9\. Mofa:
+  - 9\.1. Fahrzeugausweis — Fr. 40
+  - 9\.2. Blanko-Ausweis — Fr. 5
+  - 9\.3. Änderung, Duplikat, Ersatz — Fr. 20
+
+#### § 12
+
+**Fahrzeugprüfungen**
+
+<sup>1</sup> Für Fahrzeugprüfungen werden Gebühren wie folgt erhoben:
+
+- 1\. Motorfahrrad — Fr. 30
+- 2\. Motorrad, Kleinmotorrad und Kleinmotorrad-Dreirad — Fr. 55
+- 3\. Leichter Motorwagen, Motorrad mit Seitenwagen, Motorrad-Dreirad, Leicht-, Klein- und dreirädriges Motorfahrzeug — Fr. 65
+- 4\. Schwere Motorwagen nach Gesamtgewicht:
+  - 4\.1. bis 18 000 kg — Fr. 160
+  - 4\.2. 18 001 bis 26 000 kg — Fr. 180
+  - 4\.3. über 26 000 kg — Fr. 200
+- 5\. Tankfahrzeug zum Transport gefährlicher Güter:
+  - 5\.1. Zugfahrzeug, Zuschlag — Fr. 80
+  - 5\.2. Anhänger, Zuschlag — Fr. 40
+- 6\. Motoreinachser — Fr. 40
+- 7\. Motorkarren, Traktor — Fr. 65
+- 8\. Anhänger nach Gesamtgewicht:
+  - 8\.1. bis 750 kg — Fr. 40
+  - 8\.2. 751 bis 3 500 kg — Fr. 60
+  - 8\.3. über 3 500 kg — Fr. 110
+- 9\. Nachkontrolle und Nachprüfungen:
+  - 9\.1. von Fahrzeugen gemäss Ziff. 2, Ziff. 3, Ziff. 6 bis Ziff. 8 — Fr. 40
+  - 9\.2. von Fahrzeugen gemäss Ziff. 4 und Ziff. 5 — Fr. 80
+- 10\. Teilprüfung, technische Änderung, Änderung des Verwendungszwecks, Prüfung von Fahrzeugteilen, Arbeits- und Ausnahmefahrzeugen, zusätzliche Arbeiten für die Fahrzeugzulassung — Fr. 160 pro Std.
+- 11\. Verwendung von Händlerschild des Strassenverkehrsamtes für Fahrzeugprüfung — Fr. 20
+- 12\. Bearbeitungsgebühr für den Eintrag einer ausserkantonalen Prüfung — Fr. 20
+- 13\. Berechnung des Energieeffizienzcode — Fr. 30
+
+#### § 13
+
+**Kontrollschilder**
+
+<sup>1</sup> Kontrollschilder dürfen nur vom Strassenverkehrsamt bezogen werden und bleiben Eigentum des Staates, ausgenommen befristete Schilder.
+
+<sup>2</sup> Für Kontrollschilder werden Gebühren wie folgt erhoben:
+
+- 1\. Schilderpaar — Fr. 40
+- 2\. Einzelschild — Fr. 25
+- 3\. Reservationsgebühr im ersten Jahr — Fr. 40
+- 4\. Reservationsgebühr für jedes weitere Jahr — Fr. 60
+- 5\. Schilderübertragung (exkl. Wechsel des Firmennamens oder der Rechtsform) — Fr. 120
+- 6\. Kaution für Tagesschilder — Fr. 100
+- 7\. Kontrollschilder-Verlust;
+  - 7\.1. Bearbeitungsgebühr bei Kontrollschilderverlust — Fr. 60
+  - 7\.2. Ausschreibung nach Diebstahl oder Verlust — Fr. 60
+  - 7\.3. Ausschreibung aufgrund unzustellbarer Verfügungen — Fr. 60
+- 8\. Mofa-Kontroll-Schild — Fr. 10
+- 9\. Vignette für Mofa (ohne Versicherung) — Fr. 10
+
+<sup>3</sup> Unleserliche oder beschädigte Kontrollschilder werden auf Kosten des Fahrzeughalters oder der Fahrzeughalterin ersetzt.
+
+<sup>4</sup> Das Strassenverkehrsamt kann frei verfügbare Kontrollschilder der meistbietenden Person und besondere Schilder durch eine spezielle Preisgestaltung den Kundinnen und Kunden zum Gebrauch überlassen.
+
+<sup>5</sup> Kontrollschilder können zum ordentlichen Gebührenansatz an Dritte übertragen werden.
+
+#### § 14
+
+**Entscheide**
+
+<sup>1</sup> Für Entscheide im Zusammenhang mit der Verkehrszulassung von Fahrzeugen werden Gebühren wie folgt erhoben:
+
+- 1\. Verweigerung der Verkehrszulassung — Fr. 180
+- 2\. Verwarnung wegen missbräuchlicher Verwendung — Fr. 180
+- 3\. …
+- 4\. Entzug von Ausweisen und Kontrollschildern — Fr. 180
+
+## 4. Sonderbewilligungen, verschiedene Gebühren
+
+#### § 15
+
+**Sonderbewilligungen**
+
+<sup>1</sup> Für Sonderbewilligungen werden Gebühren wie folgt erhoben:
+
+- 1\. Sonderbewilligungen:
+  - 1\.1. Einzelbewilligung — Fr. 100 bis Fr. 500
+  - 1\.2. Jahresbewilligung — Fr. 120 bis Fr. 500
+  - 1\.3. Erneuerung unveränderte Jahresbewilligung — Fr. 100
+- 2\. Werkinterner Verkehr:
+  - 2\.1. Gesuchsprüfung, Reisekosten — Fr. 160 pro Std.
+  - 2\.2. Bewilligung — Fr. 120
+- 3\. Selbstabnahme von Fahrzeugen:
+  - 3\.1. Gesuchsprüfung, Reisekosten, Betriebskontrollen, Ausbildung des Personals — Fr. 160 pro Std.
+  - 3\.2. Bewilligung — Fr. 120
+  - 3\.3. Änderung oder Erneuerung der Bewilligung — Fr. 50
+- 4\. Ausbildung von Strassentransportfachmann/-praktiker:
+  - 4\.1. Gesuchsprüfung — Fr. 160 pro Std.
+  - 4\.2. Bewilligung — Fr. 120
+- 5\. Gesuchsprüfung, Reisekosten, Betriebskontrollen bei Kollektiv-Fahrzeugausweisen (ohne Ausweis und Kontrollschilder) — Fr. 160 pro Std.
+- 6\. Bearbeitungsgebühr Fahrerkarte DFS (Belastung durch Bund): — Fr. 30
+- 7\. Bewilligungen anderer Art — Fr. 80 bis Fr. 360
+- 8\. Entzug einer Bewilligung — Fr. 120 bis Fr. 360
+- 9\. Ausweis zur Befreiung von der Gurtenpflicht — Fr. 30
+
+#### § 16
+
+**Nichterscheinen, Abmeldung, Rückzug**
+
+<sup>1</sup> Bei Nichterscheinen oder Abmeldung später als vier volle Arbeitstage vor einer Prüfung oder einem Verkehrsunterricht ist die ganze Gebühr zu entrichten.
+
+<sup>2</sup> Bei Rückzug von Anträgen auf eine Dienstleistung wird die erbrachte Leistung nach Zeitaufwand berechnet.
+
+#### § 17
+
+**Verschiedene Dienstleistungen**
+
+<sup>1</sup> Ausserordentliche Prüfungen, Einzelprüfungen, Kontrollen, Bescheinigungen, Abklärungen, Auskünfte, Aufforderungen usw. sowie Dienstleistungen ausserhalb der Standorte des Strassenverkehrsamtes werden nach Zeitaufwand verrechnet. Der Stundensatz beträgt Fr. 160.
+
+<sup>2</sup> Technische Auskünfte und Beratungen werden wie folgt verrechnet:
+
+- 1\. Mindestpauschale — Fr. 25
+- 2\. Weitere Aufwendungen — Fr. 160 pro Std.
+
+<sup>3</sup> Halterauskünfte werden wie folgt verrechnet:
+
+- 1\. Erste Adresse aufgrund einer schriftlichen Anfrage — Fr. 10
+- 2\. Jede weitere Adresse — Fr. 5
+- 3\. Halterauskunft im Internet oder per SMS — Fr. 1
+
+#### § 18
+
+**Kanzleigebühren**
+
+<sup>1</sup> Die Kanzleigebühren betragen für:
+
+- 1\. Beglaubigte Kopien von Prüfberichten — Fr. 30
+- 2\. Mahngebühr (2. Mahnung / Verfügung) — Fr. 30
+- 3\. Polizeiauftrag Zustellung einer Verfügung — Fr. 190
+- 4\. Polizeiauftrag Einzug von Ausweisen und Kontrollschildern — Fr. 200
+- 5\. Bearbeitungsgebühr für Betreibungen — Fr. 120
+- 6\. …
+- 7\. Nachforschungen:
+  - 7\.1. wegen nicht zustellbaren Postsendungen — Fr. 30
+  - 7\.2. ESR-Zahlungen — Selbstkosten
+- 8\. Drucksachen — Selbstkosten
+
+## 5.
+
+#### § 19
+
+**…**
+
+## 6. Verkehrssteuer
+
+#### § 20
+
+**Fälligkeit**
+
+<sup>1</sup> Die Verkehrssteuer für immatrikulierte Fahrzeuge wird für das ganze Jahr zum Jahresbeginn mit entsprechender Zahlungsfrist in Rechnung gestellt und ist in einem Betrag zu bezahlen.
+
+<sup>2</sup> Die Verkehrssteuer für ein Fahrzeug ist vom ersten Tag der Verkehrszulassung bis Ende des Kalenderjahres zu entrichten.
+
+<sup>3</sup> Verkehrssteuern können nicht gestundet und nicht in Raten beglichen werden.
+
+#### § 21
+
+**Beendigung der Abgabepflicht**
+
+<sup>1</sup> Wird das Fahrzeug ausser Verkehr gesetzt, ist die Verkehrssteuer noch für den Tag beziehungsweise den nächsten Arbeitstag nach der Rückgabe der Kontrollschilder zu entrichten.
+
+<sup>2</sup> Bei vorzeitiger Rückgabe der Kontrollschilder wird der Halterin oder dem Halter die Verkehrssteuer für diejenigen Tage, an denen das Fahrzeug nicht mehr in Verkehr steht, zurückerstattet.
+
+<sup>3</sup> Bei einem mit Wechselschild immatrikulierten Fahrzeug endet die Verkehrssteuerpflicht nur mit der Ausserverkehrssetzung des Fahrzeuges.
+
+<sup>4</sup> Bei der Rückgabe der Kontrollschilder von Fahrzeugen, für die eine pauschale Steuer entrichtet wurde, erfolgt keine Rückerstattung.
+
+#### § 22
+
+**Erlass und Ermässigung**
+
+<sup>1</sup> Das Strassenverkehrsamt kann die Verkehrssteuer auf Gesuch hin erlassen oder ermässigen für Fahrzeuge:
+
+- 1\. von gehbehinderten Personen, die zur Fortbewegung auf die Benützung eines Fahrzeuges angewiesen sind;
+- 2\. von gemeinnützigen Organisationen, die ihre Fahrzeuge ausschliesslich für soziale Aufgaben oder im Dienst der Kranken-, Behinderten- oder Betagtenhilfe einsetzen und damit keinen Betriebsgewinn erzielen.
+
+#### § 23
+
+**Rabatt Eurokategorien**
+
+<sup>1</sup> Der Rabatt entfällt im Folgejahr, wenn im Kanton Thurgau mehr als 20 Fahrzeuge der höheren Kategorie im laufenden Jahr immatrikuliert wurden.
+
+## 7. Schlussbestimmungen
+
+#### § 24
+
+**Aufhebung bisherigen Rechtes**
+
+<sup>1</sup> Die Verordnung des Regierungsrates über die Gebühren des Strassenverkehrsamtes vom 18. November 1997, die Verordnung des Regierungsrates über die Reduktion der Strassenverkehrsabgaben für emissionsarme Fahrzeuge vom 23. September 2008 und der Regierungsratsbeschluss betreffend Strassenverkehrsabgaben von Invaliden vom 2. Juni 1975 werden aufgehoben.
+
+#### § 25
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt zusammen mit dem Gesetz vom 7. Juli 2010 betreffend die Änderung des Gesetzes über die Strassenverkehrsabgaben vom 16. August 2006 auf den 1. Januar 2011 in Kraft.
+
+ABl. 49/2010

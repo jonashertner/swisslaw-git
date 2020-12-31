@@ -1,0 +1,611 @@
+---
+canton: TG
+number: "411.111"
+title: Verordnung des Regierungsrates über die Volksschule
+short: RRV VG
+language: de
+version: 2019-08-01
+valid_until: 2022-07-31
+version_adopted: 2019-06-18
+adopted: 2007-12-11
+in_force: 2008-01-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.111"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2102/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung des Regierungsrates über die Volksschule
+
+RRV VG
+
+(RRV VG)
+
+vom 11.12.2007 (Stand 01.08.2019)
+
+## 1. Aufsicht und kantonale Leistungen
+
+### 1.1.
+
+#### § 1
+
+**Aufsicht**
+
+<sup>1</sup> Das Departement für Erziehung und Kultur führt die Aufsicht über das Unterrichtswesen.
+
+<sup>2</sup> Diese umfasst die Überprüfung der Einhaltung und Umsetzung kantonaler Vorgaben und die periodische kantonale Evaluation der Schulen.
+
+<sup>3</sup> Auf Verlangen wirken die Schulgemeinden bei der Überprüfung mit. Sie stellen die erforderlichen Daten zur Führung kantonaler Statistiken wie auch zur Gewährleistung der Qualitätsüberprüfung zur Verfügung.
+
+<sup>4</sup> Die mit der Aufsicht betraute Stelle kann zur Behebung von Mängeln Weisungen erteilen.
+
+### 1.2.
+
+#### § 2
+
+**Dienstleistungen**
+
+<sup>1</sup> Der Kanton berät und unterstützt Lehrpersonen, Schulleitungen, Behörden und deren Mitglieder in berufsbezogenen Fragen und in schulischen Angelegenheiten, namentlich:
+
+- 1\.–2. …
+- 3\. in Entwicklungs- und Veränderungsprozessen;
+- 4\. bei schulischen, erzieherischen oder persönlichen Schwierigkeiten von Schülern oder Schülerinnen;
+- 5\. mit Vermittlung und Empfehlung pädagogisch-psychologischer, heilpädagogischer oder ärztlicher Massnahmen;
+- 6\. bei der Umsetzung integrativer Massnahmen;
+- 7\. mit Evaluation zur systematischen, ganzheitlichen Rückmeldung von Stärken und Schwächen von Schulen;
+- 8\. in finanziellen Fragen;
+- 9\. mit Förderung präventiver Massnahmen;
+- 10\. mit Vermittlung in schulischen Konflikten;
+- 11\. in Krisensituationen.
+
+<sup>2</sup> Für angeforderte Dienstleistungen, die in zeitlicher oder sachlicher Hinsicht ein Grundangebot überschreiten, sind Kostenbeiträge zu erheben. Das Departement legt einen Tarif fest.
+
+#### § 3
+
+**Weiterbildung**
+
+<sup>1</sup> Der Kanton fördert die Weiterbildung der Lehrpersonen, Schulleitungen, Schulbehörden und Erziehungsberechtigten. Er kann sich an den Kosten beteiligen.
+
+<sup>2</sup> Das Departement kann spezielle Weiterbildungskurse und Veranstaltungen, welche die Organisationen der Lehrerschaft im Auftrag des Kantons durchführen, namentlich Stufenkonferenzen, obligatorisch erklären.
+
+#### § 4
+
+**Schulpsychologische Abklärungen und Beratung**
+
+<sup>1</sup> Der Kanton bietet im Zusammenhang mit schulischen Problemen psychologische und pädagogische Abklärungen von Schülerinnen und Schülern an.
+
+<sup>2</sup> Werden Untersuchungen oder Besprechungen vor Ort gewünscht, stellen die Schulgemeinden geeignete Räume unentgeltlich zur Verfügung.
+
+<sup>3</sup> Abklärungsberichte und Untersuchungsergebnisse gehen an den Auftraggeber oder die Auftraggeberin, die Erziehungsberechtigten und in der Regel an die Lehrperson und die Schulleitung.
+
+#### § 4a
+
+**Bildungsstatistik**
+
+<sup>1</sup> Das Departement führt eine Bildungsstatistik. Es bestimmt die zu erhebenden Daten.
+
+<sup>2</sup> Für statistische Zwecke wird mit anonymisierten Daten gearbeitet.
+
+<sup>3</sup> Zu Beratungs- und zu Dokumentationszwecken können personenbezogene Daten erhoben werden, soweit es sich nicht um besonders schützenswerte Daten im Sinne der Datenschutzgesetzgebung handelt und der Schutz vor Missbrauch gewährleistet ist.
+
+### 1.3.
+
+#### § 5
+
+**…**
+
+## 2. Organisationsgrundlagen in den Schulgemeinden
+
+### 2.1. Allgemein
+
+#### § 6
+
+**Aufgaben der Schulgemeinde**
+
+<sup>1</sup> Die Schulgemeinde ist im Rahmen übergeordneter Vorgaben verantwortlich für die Organisation und den Betrieb der Schule sowie die Erfüllung der Schulpflicht der Schülerinnen und Schüler.
+
+#### § 7
+
+**Organisationsplanung**
+
+<sup>1</sup> In den Schulgemeinden besteht
+
+- 1\. eine klare Zuweisung von Aufgaben und Kompetenzen;
+- 2\. eine Planung der Team-, Unterrichts- und Organisationsentwicklung, namentlich der Weiterbildung sowie der pädagogischen Grundsätze;
+- 3\. eine Schulordnung, die Rechte und Pflichten in den örtlichen Schulbetrieben sowie nach Bedarf weitere schulbezogene Pflichten der Schüler und Schülerinnen regelt;
+- 4\. eine Regelung der Zusammenarbeit und des Informationsflusses zwischen Behörde, Schulleitungen, Lehrpersonen, Schülern und Schülerinnen sowie den Erziehungsberechtigten;
+- 5\. eine Regelung der Aussenkontakte, insbesondere mit kantonalen Stellen und Elternräten.
+
+#### § 8
+
+**Personalführung**
+
+<sup>1</sup> Die für die Personalführung zuständige Person
+
+- 1\. führt jährliche Mitarbeitergespräche;
+- 2\. besucht den Unterricht;
+- 3\. führt mindestens alle zwei Jahre eine Mitarbeiterbeurteilung mit Zielvereinbarung durch, für Teilzeitangestellte mit einem Anstellungsgrad von unter 50 % mindestens alle drei Jahre.
+
+<sup>2</sup> Wird die Führung durch ein Behördenmitglied wahrgenommen, muss sich dieses entsprechend der Aufgabe in Pädagogik, Personal- und Betriebsführung ausbilden und wie eine eingesetzte Schulleitung regelmässig weiterbilden. Das Amt kann einen Ausbildungsnachweis verlangen.
+
+#### § 9
+
+**Qualität**
+
+<sup>1</sup> Die Schulgemeinden
+
+- 1\. haben eine Planung der Qualitätssicherung und -entwicklung für Organisation, Führung und Unterricht, die sich auf die Schulgemeindeebene und die Schuleinheiten bezieht,
+- 2\. evaluieren ihre Organisation, die Führung sowie den Unterricht regelmässig intern, lassen sie kantonal evaluieren und
+- 3\. sorgen für die Umsetzung der Planung, Konzepte und Regelungen.
+
+<sup>2</sup> Das Departement kann Vorgaben zur Qualität von Schulorganisation, Unterricht, Entwicklung und personeller sowie pädagogischer Führung festlegen.
+
+#### § 10
+
+**Rekurse in der Schulgemeinde**
+
+<sup>1</sup> Rekursverfahren in der Schulgemeinde sind unentgeltlich.
+
+#### § 11
+
+**Vertretung an Behördensitzungen**
+
+<sup>1</sup> In Schulgemeinden ohne eingesetzte Schulleitungen darf eine von der Lehrerschaft bestimmte Lehrperson an den Sitzungen der Schulbehörde mit beratender Stimme teilnehmen.
+
+<sup>2</sup> Vertretungen an Behördensitzungen wahren in Personalbelangen den Ausstand. Die Behörde kann für einzelne Sitzungen weitere Ausschlüsse festlegen.
+
+### 2.2. Schule
+
+#### § 12
+
+**Unterricht**
+
+<sup>1</sup> Die Schulgemeinden legen die pädagogischen Grundsätze fest.
+
+<sup>2</sup> Der Unterricht wird von der für die Personalführung zuständigen Person regelmässig besucht und beurteilt. Es besteht ein Konzept für die Besuche und die Beurteilung.
+
+<sup>3</sup> Das Departement kann die Durchführung von standardisierten Beurteilungstests obligatorisch erklären.
+
+#### § 13
+
+**Schulbesuche**
+
+<sup>1</sup> Die Schulen stehen für Unterrichtsbesuche der Erziehungsberechtigten bereit. Weitere Personen können den Unterricht in Absprache mit der Lehrperson besuchen.
+
+<sup>2</sup> …
+
+#### § 14
+
+**Klassengrösse**
+
+<sup>1</sup> Pro Abteilung sind folgende Schülerzahlen anzustreben:
+
+- 1\. Kindergarten 20;
+- 2\. Regelklasse 24;
+- 2a. Basisstufe 26;
+- 3\. Einschulungsklasse 12;
+- 4\. Sonderklasse 11;
+- 5\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Regelklassen 12;
+- 6\. Werken, Textilarbeit, Hauswirtschaftsunterricht an Sonderklassen 8.
+
+<sup>2</sup> Liegen die Schülerzahlen pro Abteilung länger als zwei Jahre mehr als 20 % über oder mehr als 40 % unter dem Richtwert, ist eine Genehmigung der Schulaufsicht einzuholen.
+
+#### § 15
+
+**Laufbahnblätter**
+
+<sup>1</sup> Die Schulen führen für alle Schüler und Schülerinnen individuelle Laufbahnblätter.
+
+#### § 16
+
+**Pflicht zur Beschulung**
+
+<sup>1</sup> Die Schulgemeinde sorgt für eine ununterbrochene Beschulung der Kinder.
+
+<sup>2</sup> In jeder Schulgemeinde sind die erforderlichen Vorkehren für einen zeitigen Einsatz von Stellvertretungen bei kurzfristigen Ausfällen zu treffen.
+
+<sup>3</sup> Zur Vermeidung von Lücken bei absehbaren Ausfällen kann der Stundenplan entsprechend angepasst werden. Die Erziehungsberechtigten sind spätestens einen Monat im Voraus zu informieren.
+
+<sup>4</sup> …
+
+#### § 17
+
+**Schuljahr und Ferien**
+
+<sup>1</sup> Das Schuljahr beginnt am 1. August und endet am 31. Juli.
+
+<sup>2–3</sup> …
+
+<sup>4</sup> Das Departement legt die Ferientermine fest und erlässt ergänzende Regelungen.
+
+#### § 18
+
+**Vorzeitige Entlassung und Beendigung der Schule**
+
+<sup>1</sup> Gesuche um vorzeitige Entlassung aus der Schulpflicht sind begründet und dokumentiert dem Departement einzureichen.
+
+<sup>2</sup> Hat ein Kind die zur Erfüllung der Schulpflicht erforderlichen Schuljahre bereits absolviert, kann die Schulgemeinde aus wichtigem Grund die vorzeitige Beendigung der Schule anordnen oder bewilligen.
+
+#### § 18a
+
+**Finanzielle Beiträge**
+
+<sup>1</sup> Die Beiträge der Erziehungsberechtigten für obligatorische Klassenverlegungen, Exkursionen, Lager und andere Pflichtveranstaltungen dürfen Fr. 22 pro Tag nicht überschreiten.
+
+<sup>2</sup> …
+
+## 3. Schulleitung
+
+#### § 19
+
+**Pensum für Schulleitungen**
+
+<sup>1</sup> Das einzuräumende Minimalpensum für die Schulleitungsaufgabe bemisst sich nach folgender Formel:
+
+[(90 x Anzahl unterstellte Kinder) / 380] + 10 pro angefangene 380 = Minimalpensum in Prozent
+
+<sup>2</sup> Massgeblich ist die durchschnittliche Kinderzahl der letzten drei Jahre. Bei einer Abweichung von über 10 % während mindestens dreier Jahre ist eine Anpassung vorzunehmen.
+
+#### § 20
+
+**Anstellungsvoraussetzungen**
+
+<sup>1</sup> Als Schulleiter oder Schulleiterin darf angestellt werden, wer
+
+- 1\. über ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom für die Volksschule sowie mindestens über fünf Jahre Unterrichtserfahrung verfügt oder über einen Hochschul- oder einen gleichwertigen Abschluss, mehrjährige Erfahrung mit Bezug zum schweizerischen Bildungswesen sowie Führungserfahrung verfügt,
+- 2\. eine von der EDK anerkannte Schulleitungsausbildung absolviert hat oder sich spätestens bei Anstellungsbeginn zu einer solchen Ausbildung innert dreier Jahre verpflichtet und
+- 3\. die vom Amt festgelegten Vertiefungskurse absolviert hat oder sich verpflichtet, diese nachzuholen.
+
+<sup>2</sup> Die Anstellungen sind dem Amt zu unterbreiten. Es entscheidet über die Gleichwertigkeit anderer Voraussetzungen oder Ausbildungen.
+
+#### § 21
+
+**Schulleitungen mit Unterrichtspensen**
+
+<sup>1</sup> Schulleiter und Schulleiterinnen, die in der gleichen Gemeinde an der Volksschule oder einem Kindergarten im Teilpensum unterrichten, werden einheitlich in der Rechtsstellung als Schulleiter oder Schulleiterin angestellt.
+
+<sup>2</sup> Für den Unterrichtsteil gelten die Pflichten für Volksschul- oder Kindergartenlehrpersonen sinngemäss. Namentlich gilt für diesen Teil der Berufsauftrag wie für eine Teilzeitlehrperson.
+
+#### § 22
+
+**Besoldung**
+
+<sup>1</sup> Schulleiterinnen und Schulleiter werden je nach Vorbildung und Funktion in die Lohnklassen 21 bis 23 des Staatspersonals eingereiht.
+
+<sup>2</sup> Für den Unterrichtsteil erfolgt die Besoldung innerhalb des Lohnbandes der entsprechenden Lehrtätigkeit und Schulstufe gemäss § 3 der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen[^22-1].
+
+[^22-1]: RB [177.250](https://www.rechtsbuch.tg.ch/data/177.250/de)
+
+## 4. Spezielle Bestimmungen zu Stufen
+
+### 4.1. Kindergarten
+
+#### § 23
+
+**Unterrichtspensum im Kindergarten**
+
+<sup>1</sup> Die Kinder besuchen den Kindergarten wöchentlich während 20 bis 24 Lektionen zu 45 Minuten. Die Lektionen sind gleichmässig auf die Wochentage zu verteilen.
+
+<sup>2</sup> Die Kinder im ersten Kindergartenjahr werden in der Regel während 20 Lektionen, die anderen während 24 Lektionen pro Woche unterrichtet.
+
+#### § 23a
+
+**Bewilligung einer Basisstufe**
+
+<sup>1</sup> Das Gesuch um Bewilligung einer Basisstufe ist von der Schulbehörde bis zum 1. Oktober vor dem geplanten Schuljahresbeginn an das Departement einzureichen. Mit der Einführung der Basisstufe verpflichtet sich die Schulgemeinde, mindestens einen Zyklus durchzuführen. Die Bewilligung erfolgt unbefristet, die Schulgemeinde entscheidet nach Ablauf eines Zyklus über die Fortführung.
+
+<sup>2</sup> Die Bewilligung setzt voraus, dass in Bezug auf einen Schulstandort besondere strukturelle Verhältnisse vorliegen. Diese sind gegeben, wenn ohne die Einführung der Basisstufe der Schulstandort aus betriebswirtschaftlicher Sicht nicht betrieben werden könnte. Als Schulstandort gilt auch eine Tagesschule.
+
+<sup>3</sup> Dem Gesuch ist ein pädagogisches Konzept Basisstufe beizufügen, welches Modell, Organisation, Personal, Infrastruktur und Information regelt.
+
+<sup>4</sup> Die Kindergarten- und Primarstufe muss mit einem Pensum von je mindestens 60 % vertreten sein.
+
+#### § 23b
+
+**Anwendbarkeit der Bestimmungen über den Kindergarten oder die Primarschule**
+
+<sup>1</sup> Schülerinnen und Schüler einer Basisstufe werden formell dem ersten oder zweiten Kindergarten oder der Primarschule zugeordnet. Die Zuteilung erfolgt mittels Entscheid der Schulbehörde oder bei einer Kompetenzübertragung der Schulleitung, sofern der Verbleib im Kindergarten zwei Jahre und in der Primarschule bei einer dreijährigen Basisstufe ein oder bei einer vierjährigen Basisstufe zwei Jahre über- oder unterschreitet.
+
+<sup>2</sup> Die maximale Verweildauer beträgt bei der dreijährigen Basisstufe vier, bei der vierjährigen fünf Jahre.
+
+<sup>3</sup> Nach Abschluss der Basisstufe kann ein Kind der Primarschule höchstens einmal die Klasse repetieren.
+
+### 4.2. Sekundarschule
+
+#### § 24
+
+**Übertritt in die Sekundarschule**
+
+<sup>1</sup> Die Klassenlehrperson stellt der für die Sekundarschule verantwortlichen Schulgemeinde aufgrund der gezeigten Leistungen und weiterer Anhaltspunkte für die künftige Leistungsentwicklung Antrag auf Aufnahme eines Schülers oder einer Schülerin in einen Typ, ein Niveau oder einen Leistungszug. Der Antrag ist zu dokumentieren und mit den Erziehungsberechtigten zu besprechen.
+
+<sup>2</sup> Für die Zuteilung in einen Typ, ein Niveau oder einen Leistungszug mit Anforderungen, die im Vergleich zum Antrag oder zur vorgesehenen Zuteilung höher liegen, kann eine Prüfung abgelegt werden.
+
+<sup>3</sup> Die für die Sekundarschule verantwortliche Gemeinde nimmt die Zuteilung vor.
+
+<sup>4</sup> Das Departement erlässt ergänzende Bestimmungen.
+
+#### § 25
+
+**Niveauunterricht in der Sekundarschule**
+
+<sup>1</sup> Die Niveaugruppen sind typenübergreifend, das heisst unter Einbezug des ganzen Leistungsspektrums der Sekundarschule, zusammenzustellen.
+
+#### § 26
+
+**Wechsel in der Sekundarschule**
+
+<sup>1</sup> Für Wechsel von Niveau, Typ und Leistungszug in der Sekundarschule gilt § 24 Abs. 1 sinngemäss.
+
+<sup>2</sup> Wechsel können auf den Beginn jedes Semesters oder auf weitere von der Schulgemeinde festgelegte Termine vorgenommen werden. Im Einverständnis mit den Erziehungsberechtigten sowie bei Sekundarschulen ohne äussere Typengliederung oder ohne Niveauführung können sie auch zu anderen Zeitpunkten erfolgen.
+
+<sup>3</sup> Das Departement erlässt ergänzende Bestimmungen zur Promotion und zu Wechseln.
+
+#### § 27
+
+**Hoher Grad an innerer Differenzierung in der Sekundarschule**
+
+<sup>1</sup> In der Sekundarschule kann auf eine äussere Typengliederung oder eine Niveauführung verzichtet werden, wenn
+
+- 1\. in jeder Klasse das ganze Leistungsspektrum der Regelschule geführt wird;
+- 2\. der Unterricht in den Fächern Deutsch, Französisch, Englisch, Mathematik und Realien, soweit sie von einem Verzicht betroffen sind, mit mindestens zwei Leistungszügen oder einer darüber hinausgehenden Differenzierung geführt wird;
+- 3\. die Zugehörigkeit zu einem Leistungszug für die in Ziff. 2 genannten Fächer mindestens auf jeden Zeugniszeitpunkt hin festgestellt wird;
+- 4\. für die ganze Schuleinheit in gleicher Weise auf eine äussere Typengliederung oder eine Niveauführung verzichtet wird.
+
+## 5. Pädagogische Massnahmen
+
+#### § 28
+
+**Förderung**
+
+<sup>1</sup> Kinder sind gemäss ihren individuellen Anlagen angemessen zu fördern.
+
+<sup>1<sup>bis</sup></sup> Die Schulgemeinde informiert die Erziehungsberechtigten frühzeitig über Angebote der vorschulischen Sprachförderung.
+
+<sup>2</sup> Die Schulgemeinde erlässt ein Förderkonzept, welches folgende Bereiche regelt:
+
+- 1\. Zielsetzung und Festlegung der sonderpädagogischen Massnahmen von der frühen Kindheit bis Ende der Schulpflicht sowie der Massnahmen der Begabtenförderung;
+- 2\. Umgang mit sonderschulbedürftigen Kindern;
+- 3\. Verfahren und Zuständigkeiten betreffend Anordnung von Massnahmen;
+- 4\. Zusammenarbeit aller beteiligten Personen;
+- 5\. Weiterbildung;
+- 6\. Art und Periodizität der Überprüfung der Wirksamkeit der individuellen Massnahmen.
+
+<sup>3</sup> Das Förderkonzept ist dem Amt zur Genehmigung vorzulegen.
+
+#### § 29
+
+**Aufgabenhilfe**
+
+<sup>1</sup> Ist ein Schüler oder eine Schülerin regelmässig nicht in der Lage, die Hausaufgaben ordentlich zu erledigen, sorgt die Schulbehörde dafür, dass sie unter Aufsicht und in geeigneten Räumlichkeiten gelöst werden können.
+
+<sup>2</sup> Die Erziehungsberechtigten haben sich an den Kosten der Aufgabenhilfe zu beteiligen, sofern die Schulbehörde nicht anders entscheidet.
+
+#### § 30
+
+**Nachhilfeunterricht**
+
+<sup>1</sup> Sind bei einem Schüler oder einer Schülerin aus Gründen wie Krankheit, Unfall oder Umzug Wissenslücken entstanden, erteilt die Lehrperson unentgeltlichen Nachhilfeunterricht.
+
+#### § 31
+
+**Niederschwellige sonderpädagogische Massnahmen**
+
+<sup>1</sup> Niederschwellige sonderpädagogische Massnahmen können für Schülerinnen und Schüler angeordnet werden, welche in einzelnen Bereichen, unter anderem in Folge Fremdsprachigkeit, keine genügende Leistung zu erbringen vermögen. Sie sind in der Regel unentgeltlich.
+
+<sup>2</sup> Sie werden durch Lehrpersonen oder andere geeignete Personen durchgeführt. Deren Rechtsstellung regelt die Schulgemeinde.
+
+#### § 32
+
+**Höherschwellige sonderpädagogische Massnahmen**
+
+<sup>1</sup> Bei besonderem Förder- oder Unterstützungsbedarf im Zusammenhang mit Teilleistungsschwächen wie Lese-, Rechtschreib- und Rechenschwächen, Bewegungsauffälligkeiten, Auffälligkeiten der Sprache und des Sprechens oder Verhaltensschwierigkeiten sind von der Schulbehörde oder der Schulleitung höherschwellige sonderpädagogische Massnahmen zu ergreifen. Sie sind unentgeltlich.
+
+<sup>2</sup> Mit der Durchführung von höherschwelligen sonderpädagogischen Massnahmen dürfen nur Fachpersonen mit einer von der EDK oder vom Amt anerkannten Ausbildung beauftragt werden.
+
+<sup>3</sup> …
+
+#### § 33
+
+**Einschulungsklassen**
+
+<sup>1</sup> Schulpflichtige, in ihrer Entwicklung verzögerte Kinder können der Einschulungsklasse zugewiesen werden.
+
+<sup>2</sup> In der Einschulungsklasse wird der Lernstoff der ersten Primarklasse auf zwei Jahre verteilt.
+
+<sup>3</sup> Am Ende der Einschulungsklasse treten die Kinder in der Regel in die zweite Primarklasse über.
+
+#### § 34
+
+**Sonderklassen**
+
+<sup>1</sup> Sonderklassen dienen der Förderung von schulbildungsfähigen Kindern mit allgemeiner Lernbehinderung oder Verhaltensauffälligkeiten.
+
+<sup>2</sup> Die Schulung in Sonderklassen kann mit teilweisem Unterricht in der Regelklasse verbunden werden.
+
+#### § 34a
+
+**Integrationskurse**
+
+<sup>1</sup> Für fremdsprachige Jugendliche werden an maximal sechs Standorten Integrationskurse 1a angeboten. Die Klassengrösse beträgt mindestens fünf Schüler oder Schülerinnen.
+
+<sup>2</sup> Jugendliche werden ab dem Schuljahr aufgenommen, in dem sie das 13. Altersjahr vollenden. Sie besuchen den Kurs spätestens in dem Schuljahr, in dem sie das 16. Altersjahr vollenden.
+
+<sup>3</sup> Der Integrationskurs 1a dauert in der Regel längstens ein Jahr und hat insbesondere das Erlernen der deutschen Sprache zum Inhalt.
+
+<sup>4</sup> Das Departement schliesst mit den durchführenden Schulgemeinden Leistungsvereinbarungen ab. Die Angebote stehen auch anderen Schulgemeinden offen, die pro Integrationsschüler oder -schülerin eine angemessene Abgeltung leisten.
+
+#### § 35
+
+**…**
+
+#### § 35a
+
+**Lernzielanpassungen**
+
+<sup>1</sup> Erreicht ein Schüler oder eine Schülerin trotz differenziertem Unterricht und sonderpädagogischen Massnahmen Lernziele nicht, können Lernzielanpassungen bewilligt werden.
+
+<sup>2</sup> Lernzielanpassungen sind regelmässig zu überprüfen, insbesondere bei Stufenübertritten.
+
+<sup>3</sup> Sie werden im Zeugnis vermerkt.
+
+#### § 35b
+
+**Dispensationen**
+
+<sup>1</sup> Ist ein Schüler oder eine Schülerin nicht in der Lage, individuelle minimale Lernziele zu erreichen, und ist er oder sie einer besonders hohen schulischen Belastung ausgesetzt, kann eine Dispensation von einem Fach erfolgen.
+
+<sup>1<sup>bis</sup></sup> In den Fremdsprachen entscheidet die Schulleitung auf Antrag der Erziehungsberechtigten oder auf Antrag der Lehrperson nach Rücksprache mit den Erziehungsberechtigten über eine Dispensation.
+
+<sup>1<sup>ter</sup></sup> In den übrigen Fällen entscheidet die Schulbehörde oder die Schulleitung mit dem Einverständnis der Erziehungsberechtigten. Die Dispensation ist der Schulaufsicht vorgängig zur Kenntnis zu bringen.
+
+<sup>2</sup> Dispensierte Schüler und Schülerinnen sind durch geeignete Massnahmen zu fördern.
+
+<sup>3</sup> § 35a Abs. 2 und Abs. 3 gelten sinngemäss.
+
+#### § 36
+
+**Arbeitseinsätze**
+
+<sup>1</sup> Arbeitseinsätze gelten als pädagogische Massnahme für einzelne Schülerinnen und Schüler und kommen in der Regel an der Sekundarschule in Frage.
+
+<sup>2</sup> Die Schule begleitet die Arbeitseinsätze und verfolgt die Wirkung der Massnahme mit den Erziehungsberechtigten und den Betrieben.
+
+<sup>3</sup> Die Vorgaben des Bundes für Kinder- und Jugendarbeit sind zu beachten.
+
+<sup>4</sup> …
+
+#### § 37
+
+**Förderung von Kindern mit besonderen Begabungen**
+
+<sup>1</sup> Der Förderung besonders begabter Kinder ist durch eine individuelle Betreuung und durch die Einrichtung spezifischer Programme und Organisationsformen Rechnung zu tragen.
+
+<sup>2</sup> Die Förderung geschieht in der Regel integriert in den Regelklassenunterricht.
+
+<sup>3</sup> Die Schulgemeinde kann Abweichungen im Stundenplan und Absenzen bewilligen, die für die Teilnahme an spezifischen Förderprogrammen unabhängig der Fachrichtung erforderlich sind. Sie hat hierzu die Zustimmung der Schulaufsicht einzuholen, soweit in einem Semester durchschnittlich mehr als zwei Wochenlektionen betroffen sind.
+
+#### § 38
+
+**Begabtenförderung in Sport und Musik**
+
+<sup>1</sup> Das Departement erlässt ein vom Regierungsrat zu genehmigendes Rahmenkonzept für schulergänzende Angebote zur Begabtenförderung in Sport und Musik, das namentlich folgende Belange regelt:
+
+- 1\. Beitrag des Kantons und Beiträge der Schulortgemeinde, in der das Kind wohnt oder sich tatsächlich aufhält;
+- 2\. Strukturen und Vereinbarungen, welche vorliegen müssen;
+- 3\. Bewilligungsvoraussetzungen und -bedingungen;
+- 4\. Aufnahmeverfahren und -voraussetzungen;
+- 5\. Maximale Anzahl der Angebote und Plätze.
+
+<sup>2</sup> Das Departement kann auf Ersuchen von Schulgemeinden mit solchen Angeboten die Stundentafel anpassen.
+
+#### § 39
+
+**Überspringen einer Klasse**
+
+<sup>1</sup> Das Überspringen einer Klasse kann gestattet werden, wenn zu erwarten ist, dass die erforderlichen Leistungen leicht erfüllt werden und die soziale sowie emotionale Entwicklung gesund erfolgen.
+
+#### § 40
+
+**Repetition**
+
+<sup>1</sup> Repetitionen werden angeordnet, wenn zu erwarten ist, dass mit ihnen Leistungsprobleme oder Rückstände in der persönlichen Entwicklung langfristig beseitigt werden.
+
+#### § 41
+
+**Regelung Kindergarteneintritt**
+
+<sup>1</sup> Die Schulgemeinde informiert schriftlich bis zum 1. Januar die Erziehungsberechtigten über den Kindergarteneintritt.
+
+<sup>2</sup> Mit dieser Information wird den Erziehungsberechtigten bekannt gegeben, dass ihr Kind für den Kindergarten als angemeldet gilt, sofern sie nicht schriftlich bis zum 1. März (Eingang Schulgemeinde) die Verschiebung um ein Jahr erklären. Ergänzt wird die Information mit dem Hinweis, dass auch bei einer Verschiebung der Kindergarten zwei Jahre dauert.
+
+<sup>3</sup> Trifft die Erklärung zur Verschiebung des Kindergarteneintritts nach dem 1. März bei der Schulgemeinde ein, kann sie unter Vorbehalt von § 42 Abs. 2 nur berücksichtigt werden, sofern dies schulorganisatorisch möglich ist.
+
+#### § 42
+
+**Vorverlegen und Hinausschieben von Ein- und Übertritt**
+
+<sup>1</sup> Ein Vorverlegen des Eintritts in den Kindergarten oder des Übertritts in die Primarschule erfolgt nach den Regelungen des Überspringens einer Klasse.
+
+<sup>2</sup> Ein Hinausschieben des Eintritts in den Kindergarten oder des Übertritts in die Primarschule ist möglich, wenn mit dem vorgesehenen Eintritt oder Übertritt die schulische oder persönliche Entwicklung gefährdet wäre.
+
+<sup>3</sup> Ein Ein- oder Übertritt kann in Ausnahmefällen rückgängig gemacht werden.
+
+#### § 42a
+
+**Schulärztliche und schulzahnärztliche Betreuung**
+
+<sup>1</sup> Die schulärztliche und die schulzahnärztliche Betreuung umfasst namentlich die Beauftragung eines Schularztes oder einer Schulärztin und eines Schulzahnarztes oder einer Schulzahnärztin, regelmässige schulärztliche und schulzahnärztliche Untersuchungen sowie den zahnprophylaktischen Unterricht.
+
+<sup>2</sup> Das Departement erlässt eine ergänzende Richtlinie.
+
+## 6. Religionsunterricht
+
+#### § 43
+
+**Religionsunterricht**
+
+<sup>1</sup> Der Religionsunterricht als konfessionelle Glaubenslehre wird von den Landeskirchen erteilt und in Zusammenarbeit mit den Schulträgern organisiert. Er kann unentgeltlich in Räumlichkeiten der Schulträger abgehalten werden.
+
+<sup>2</sup> Maximal zwei Lektionen pro Woche können am Vormittag vor oder innerhalb der Blockzeit oder am Nachmittag in die ordentliche Unterrichtszeit integriert werden. Findet der Religionsunterricht während der Blockzeit statt, muss die Betreuung von Kindern, die den Religionsunterricht nicht besuchen, durch die Schule sichergestellt sein.
+
+<sup>3</sup> Die Kosten des Religionsunterrichts gehen zu Lasten der Landeskirchen.
+
+## 7. Private Schulung
+
+#### § 44
+
+**Private Schulung**
+
+<sup>1</sup> Private Schulung umfasst den Unterricht an Privatschulen und den nicht öffentlichen Unterricht, insbesondere den Unterricht in einem Privathaushalt oder durch eine Privatlehrperson.
+
+<sup>2</sup> Die Gleichwertigkeit der privaten Schulung gilt mit dem Nachweis des Besuchs einer staatlich bewilligten oder anerkannten Privatschule oder mit der Bewilligung des nicht öffentlichen Unterrichts als erbracht.
+
+<sup>3</sup> Sind bei einem Übertritt in die öffentliche Schule schulische Lücken zu schliessen, die nicht entstanden wären, wenn das Kind eine öffentliche Schule besucht hätte, können die daraus erwachsenden Kosten den Erziehungsberechtigten überbunden werden, wenn die Möglichkeit bestanden hätte, ihr Kind an Stelle einer privaten Schulung in der öffentlichen Schule unterrichten zu lassen.
+
+#### § 45
+
+**Privatschulen**
+
+<sup>1</sup> Die Bewilligung für einen Privatschulbetrieb wird erteilt, wenn aufgrund des unterbreiteten Programms der Anschluss an eine weiterführende öffentliche Schule gewährleistet ist und sowohl Infrastruktur als auch Lehrkörper eine qualitativ gute Ausbildung erwarten lassen. Die Ankündigung muss die wichtigsten Informationen zur Schule enthalten.
+
+<sup>2</sup> Erstbewilligungen werden in der Regel provisorisch erteilt.
+
+<sup>3</sup> Das Departement erlässt eine ergänzende Richtlinie.
+
+#### § 46
+
+**Nicht öffentlicher Unterricht**
+
+<sup>1</sup> Der nicht öffentliche Unterricht wird bewilligt, wenn die Bildungsziele des Kantons erfüllt werden.
+
+<sup>2</sup> Das Departement erlässt eine ergänzende Richtlinie.
+
+## 8. Schlussbestimmungen
+
+#### § 47
+
+**Übergangsregelung Basisstufe**
+
+<sup>1</sup> Schulen, welche die Basisstufe per 1. August 2014 einführen wollen, reichen ihr Gesuch bis am 10. Januar 2014 ein. Das Departement entscheidet bis Ende Februar 2014.
+
+<sup>2</sup> Die fünf bisherigen Versuchsschulen sind an ihren Standort gebunden und gelten durch den Versuch als bewilligt.
+
+#### § 48
+
+**Übergangsregelung Förderkonzept**
+
+<sup>1</sup> Die Schulgemeinden erstellen das Förderkonzept nach § 28 bis spätestens zu Beginn des Schuljahres 2014/2015.
+
+#### § 49
+
+**Aufhebung bisherigen Rechtes**
+
+<sup>1</sup> Die Verordnung des Regierungsrates über die Volksschule und den Kindergarten vom 12. Dezember 1995 wird aufgehoben.
+
+#### § 50
+
+**Inkrafttreten**
+
+<sup>1</sup> Das Gesetz über die Volksschule sowie diese Verordnung treten am 1. Januar 2008 in Kraft.
+
+ABl. 50/2007

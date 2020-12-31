@@ -1,0 +1,289 @@
+---
+canton: TG
+number: "450.1"
+title: Gesetz zum Schutz und zur Pflege der Natur und der Heimat
+short: TG NHG
+language: de
+version: 2017-01-01
+valid_until: 2023-06-30
+version_adopted: 2016-08-31
+adopted: 1992-04-08
+in_force: 1994-04-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/450.1"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2147/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz zum Schutz und zur Pflege der Natur und der Heimat
+
+TG NHG
+
+(TG NHG)
+
+vom 08.04.1992 (Stand 01.01.2017)
+
+## 1. Allgemeines
+
+#### § 1
+
+**Ziele**
+
+<sup>1</sup> Natur und Landschaft sowie das kulturgeschichtliche Erbe, insbesondere erhaltenswerte Objekte, sind zu schützen und zu pflegen. Beeinträchtigte Natur oder Landschaft ist, soweit sinnvoll, möglich und zumutbar, wiederherzustellen.
+
+<sup>2</sup> In intensiv genutzten Gebieten inner- und ausserhalb von Siedlungen ist für ökologischen Ausgleich zu sorgen.
+
+<sup>3</sup> Die einheimische Tier- und Pflanzenwelt und ihr natürlicher Lebensraum sind zu schützen.
+
+#### § 2
+
+**Erhaltenswerte Objekte**
+
+<sup>1</sup> Erhaltenswerte Objekte können namentlich sein:
+
+- 1\. Lebensräume für Tiere und Pflanzen wie Hecken, Moore, Feuchtgebiete, Schilfgürtel, Uferzonen, Auenwälder, Magerwiesen, Trockenrasen;
+- 2\. Bäume und Baumgruppen ausserhalb des Waldareals, die das Landschaftsbild prägen;
+- 3\. besondere Landschaften wie Hochäcker- und Drumlinlandschaften, seltene Obst- und andere Gärten;
+- 4\. Siedlungen, Siedlungsteile, Baugruppen sowie Bauten, Bauteile oder Anlagen samt Ausstattung und Umgebung von kulturgeschichtlicher Bedeutung, die sich zum Beispiel durch architektonisch-formale oder handwerkliche Qualitäten auszeichnen;
+- 5\. Stätten von historischer Bedeutung;
+- 6\. archäologische Fundstellen oder Objekte, archäologisch wichtige Orte oder Gebiete sowie Erdbauwerke oder Ruinen.
+
+<sup>2</sup> Hinweise auf erhaltenswerte Objekte ergeben sich vor allem aus Inventaren, Sach- und Richtplänen des Bundes, des Kantons und der Gemeinden.
+
+#### § 3
+
+**Verpflichtung des Gemeinwesens**
+
+<sup>1</sup> Kanton, Gemeinden und die übrigen öffentlich-rechtlichen Körperschaften oder Anstalten nehmen bei der Erfüllung ihrer Aufgaben Rücksicht auf Natur und Heimat, namentlich auch durch Bewahrung erhaltenswerter Objekte.
+
+## 2. Stellung der Eigentümer und weiterer Berechtigter
+
+#### § 4
+
+**Erhaltungsgebot**
+
+<sup>1</sup> Eigentümer geschützter Objekte sowie andere daran dinglich Berechtigte haben diese zu erhalten und zu pflegen.
+
+#### § 5
+
+**Leistungen des Gemeinwesens**
+
+<sup>1</sup> Kanton und Gemeinden unterstützen Eigentümer und andere Berechtigte bei Erhaltung und Pflege erhaltenswerter, namentlich geschützter Objekte. Sie leisten Hilfe nach Massgabe von § 14, § 15, § 18 und § 20.
+
+#### § 6
+
+**Untersuchung auf Erhaltungswürdigkeit**
+
+<sup>1</sup> Eigentümer oder andere Berechtigte haben zu dulden, dass ein Objekt durch den Kanton in Zusammenarbeit mit der Gemeinde oder durch die Gemeinde auf seine Erhaltungswürdigkeit untersucht wird.
+
+<sup>2</sup> Entsteht dabei Schaden, ist er zu vergüten. Über streitige Ansprüche entscheidet die Enteignungskommission im Verfahren nach § 32 ff. des Enteignungsgesetzes (TG EntG)[^6-1].
+
+[^6-1]: RB [710](https://www.rechtsbuch.tg.ch/data/710/de)
+
+#### § 7
+
+**Eingriffe in Objekte**
+
+<sup>1</sup> Eingriffe in Objekte, die nach § 10, § 12 oder § 16 geschützt sind, bedürfen einer Bewilligung. Unterhalt und Pflege im üblichen Rahmen sind davon ausgenommen.
+
+<sup>2</sup> Zuständig ist bei Objekten, welche durch Anordnungen gemäss § 10 oder § 12 geschützt sind, die Ortsbehörde, bei Schutzobjekten aufgrund von § 16 das Departement für Bau und Umwelt. Die zuständigen Fachstellen des Kantons beraten Ortsbehörde und Gesuchsteller.
+
+<sup>3</sup> Das Bewilligungsverfahren richtet sich sinngemäss nach den entsprechenden Bestimmungen des Planungs- und Baugesetzes (PBG)[^7-1].
+
+[^7-1]: RB [700](https://www.rechtsbuch.tg.ch/data/700/de)
+
+#### § 8
+
+**Bewilligung, Ersatzprinzip**
+
+<sup>1</sup> Die Bewilligung ist zu erteilen, sofern die angestrebten Eingriffe den Zielen und Vorschriften für den Schutz des betreffenden Objektes nicht zuwiderlaufen und keine anderen Vorschriften des eidgenössischen oder kantonalen Rechtes verletzen.
+
+<sup>2</sup> Eingriffe sind schonend auszuführen.
+
+<sup>3</sup> Lässt sich eine Beeinträchtigung geschützter Lebensräume nicht vermeiden, hat der Verursacher für angemessenen Ersatz zu sorgen.
+
+#### § 9
+
+**Wissenschaftliche Gegenstände**
+
+<sup>1</sup> Das Suchen nach Altertümern und die Durchführung archäologischer Untersuchungen bedürfen einer Bewilligung des Kantons. Funde herrenloser Naturkörper oder Altertümer sind der zuständigen Fachstelle zu melden.
+
+## 3. Aufgaben der Gemeinden und des Kantons
+
+#### § 10
+
+**Geschützte Objekte**
+
+<sup>1</sup> Die Gemeinden sichern Schutz und Pflege erhaltenswerter Objekte in erster Linie durch Reglemente oder Nutzungspläne nach PBG. Zum gleichen Zweck können die Gemeindebehörden Anordnungen über erhaltenswerte Einzelobjekte durch Entscheid treffen.
+
+<sup>2</sup> Die Anordnungen der Gemeinden können in Eingliederungs- oder Gestaltungsvorschriften, Abbruchverboten, Nutzungsbeschränkungen, umfassenden Eingriffsverboten oder Bewirtschaftungsvorschriften bestehen. Sie haben den Grundsatz der Verhältnismässigkeit in sachlicher und örtlicher Hinsicht zu wahren.
+
+#### § 11
+
+**Massnahmen zum ökologischen Ausgleich**
+
+<sup>1</sup> Den Gemeinden obliegt es, Massnahmen zum ökologischen Ausgleich anzuordnen und zu finanzieren. Dem ökologischen Ausgleich dienen insbesondere Feldgehölze, Hecken, Uferbestockungen oder andere naturnahe und standortgemässe Pflanzungen. Die Interessen der landwirtschaftlichen Nutzung sind zu berücksichtigen.
+
+#### § 12
+
+**Vorsorgliche Massnahmen**
+
+<sup>1</sup> Um den bestehenden Zustand zu erhalten oder drohenden Schaden abzuwenden, kann die Gemeindebehörde die Einstellung von Eingriffen in erhaltenswerte Objekte und allfällige weitere Schutzmassnahmen verfügen. Solche Verfügungen sind sofort vollstreckbar.
+
+<sup>2</sup> Eine vorsorgliche Massnahme ist ohne Verzug durch einen Entscheid über den Erlass einer Anordnung gemäss § 10 abzulösen.
+
+#### § 13
+
+**Anspruch auf Entscheid**
+
+<sup>1</sup> Eigentümer oder andere Berechtigte können von der Gemeindebehörde einen Entscheid über den Erlass einer konkreten Schutzanordnung verlangen.
+
+<sup>2</sup> Sie haben ihr Begehren schriftlich einzureichen und ein aktuelles Interesse glaubhaft zu machen.
+
+<sup>3</sup> Die Gemeindebehörde trifft den Entscheid spätestens innert Jahresfrist. Die Frist kann ausnahmsweise aus triftigen Gründen unter Anzeige an den Gesuchsteller um ein Jahr erstreckt werden.
+
+#### § 14
+
+**Rechtserwerb durch Gemeinden**
+
+<sup>1</sup> Die Gemeinden können Rechte an erhaltenswerten Objekten erwerben oder Verträge zu deren Schutz und Pflege abschliessen.
+
+#### § 15
+
+**Beiträge der Gemeinden**
+
+<sup>1</sup> Die Gemeinden erlassen ein Reglement über Beitragsleistungen an die Kosten von Massnahmen zum Schutz und zur Pflege erhaltenswerter Objekte.
+
+<sup>2</sup> Im Bereich der Denkmalpflege betragen die Beiträge für Massnahmen zu Gunsten von Objekten, deren Schutz und Pflege gemäss § 10 gesichert wurde, mindestens 10 % der anrechenbaren Kosten.
+
+<sup>3</sup> Für die Bereiche Natur- und Landschaftsschutz sowie Archäologie kann der Regierungsrat minimale Anforderungen für die Beitragsleistungen der Gemeinden festlegen.
+
+<sup>4</sup> In besonderen Fällen kann der Kanton auf Antrag einer Gemeinde deren Beiträge teilweise übernehmen.
+
+#### § 16
+
+**Anordnungen des Kantons**
+
+<sup>1</sup> Das Departement für Bau und Umwelt kann nach erfolgloser Mahnung gegenüber der Gemeinde Anordnungen gemäss § 10 treffen.
+
+<sup>2</sup> Um den bestehenden Zustand zu erhalten oder drohenden Schaden abzuwenden, kann das Departement nach erfolgloser Mahnung gegenüber der Gemeindebehörde die Einstellung von Eingriffen und allfällige weitere Schutzmassnahmen verfügen. Solche Verfügungen sind sofort vollstreckbar. Für das weitere Verfahren sind § 12 Abs. 2 und § 16 Abs. 1 anwendbar.
+
+#### § 17
+
+**Biotope, ökologischer Ausgleich**
+
+<sup>1</sup> Der Regierungsrat ordnet Schutz und Unterhalt der Biotope von nationaler Bedeutung. Er koordiniert Massnahmen zum ökologischen Ausgleich.
+
+#### § 18
+
+**Finanzielle Leistungen des Kantons**
+
+<sup>1</sup> Der Kanton kann einmalige oder wiederkehrende Beiträge ausrichten, insbesondere
+
+- 1\. für die Pflege, die Restaurierung oder den Schutz der Umgebung erhaltenswerter Objekte,
+- 2\. für die Wiederherstellung erhaltenswerter Natur- oder Landschaftsobjekte,
+- 3\. zum Schutz einheimischer Tiere oder Pflanzen und ihres natürlichen Lebensraums,
+- 4\. für Massnahmen zum ökologischen Ausgleich,
+- 5\. für Beschränkungen der Bewirtschaftung des Bodens,
+- 6\. an Leistungen von Gemeinden oder Privaten für den Erwerb von Rechten an erhaltenswerten Objekten sowie an Entschädigungsleistungen von Gemeinden bei materieller Enteignung,
+- 7\. zur objekt- oder projektbezogenen Unterstützung privater Organisationen des Natur- und Heimatschutzes,
+- 8\. an den Abbruch nicht mehr genutzter Bauten oder Anlagen ausserhalb des Baugebietes, deren Beseitigung im Interesse des Natur- oder Landschaftsschutzes liegt.
+
+<sup>2</sup> Die Höhe des Beitrags richtet sich namentlich nach der Bedeutung des Objektes oder Projektes und den anrechenbaren Kosten. An den Beitrag können Bedingungen oder Auflagen, insbesondere in Verbindung mit der Pflicht zur Rückerstattung, geknüpft werden. Eigentümer oder andere Berechtigte haben Anspruch auf angemessene Beiträge, sofern Anordnungen von Gemeinden oder des Kantons die Nutzung einschränken oder zu erheblichen finanziellen Belastungen führen.
+
+<sup>3</sup> Der Kanton leistet Eigentümern oder anderen Berechtigten, die erhaltenswerte Objekte bewirtschaften, eine angemessene Abgeltung, sofern sie im Interesse des Schutzziels die landwirtschaftliche Nutzung einschränken oder eine Leistung ohne entsprechenden wirtschaftlichen Ertrag erbringen. Der Entscheid über streitige Abgeltungen obliegt der Enteignungskommission im Verfahren nach § 32 ff. TG EntG.
+
+<sup>4</sup> Der Kanton übernimmt die Gebäudeversicherungsprämien für den historischen Mehrwert jener Gebäude, die der Regierungsrat bezeichnet hat.
+
+#### § 19
+
+**Erwerb durch den Kanton**
+
+<sup>1</sup> Der Kanton kann Objekte von erheblicher kantonaler Bedeutung erwerben.
+
+#### § 20
+
+**Andere Massnahmen des Kantons**
+
+<sup>1</sup> Der Kanton stellt Mittel für Untersuchungen, Beratungen, Grundlagenbeschaffung, Studien, Veröffentlichungen sowie für Aufbewahrung und Präsentation, Dokumentation und ähnliches zur Verfügung. Er kann Preise für Wettbewerbe aussetzen.
+
+<sup>2</sup> Er informiert die Bevölkerung über die Anliegen des Natur- und Heimatschutzes.
+
+#### § 21
+
+**Spezialfinanzierung**
+
+<sup>1</sup> Zur Erfüllung der Aufgaben gemäss § 17 bis § 20 wird eine Spezialfinanzierung geführt. Sie wird gespeist durch:
+
+- 1\. allgemeine Staatsmittel;
+- 2\. zweckgebundene Beiträge und Abgeltungen des Bundes.
+
+<sup>2</sup> Der Grosse Rat entscheidet über die Höhe der Einlagen aus allgemeinen Staatsmitteln mit dem Voranschlag.
+
+<sup>3</sup> Für denkmalpflegerische Belange können zusätzliche Einlagen aus dem Lotteriefonds getätigt werden.
+
+<sup>4</sup> Über die Verwendung der Spezialfinanzierung entscheidet der Regierungsrat.
+
+## 4. Besondere Bestimmungen
+
+#### § 22
+
+**Mitwirkung privater Personen oder Organisationen**
+
+<sup>1</sup> Kanton und Gemeinden können für bestimmte Aufgaben, namentlich für die Pflege erhaltenswerter Objekte, private Personen oder Organisationen beiziehen.
+
+#### § 23
+
+**Anmerkung im Grundbuch**
+
+<sup>1</sup> Anordnungen von Gemeinden oder des Kantons sowie Verträge, an denen diese Gemeinwesen beteiligt sind, können im Grundbuch angemerkt werden[^23-1].
+
+[^23-1]: Vom Bund genehmigt am 22. Februar 2006.
+
+#### § 24
+
+**Spezielle Rechtsmittelberechtigung**
+
+<sup>1</sup> Kantonal tätigen Organisationen, welche sich gemäss ihren Statuten seit mindestens zehn Jahren dem Natur- und Heimatschutz oder verwandten, rein ideellen Zielen widmen, steht die Rechtsmittelberechtigung im Rahmen von § 7 Abs. 1 erster Satz und § 10, § 12 und § 13 zu, soweit die Interessen des Natur- und Heimatschutzes berührt sind.
+
+<sup>2</sup> Die zuständige Behörde hat Gesuche nach § 7 Abs. 1 erster Satz sowie Anordnungen und Verfügungen gemäss § 10, § 12 und § 13 den vom Regierungsrat als rechtsmittelberechtigt bezeichneten Organisationen mitzuteilen.
+
+<sup>3</sup> Gegen Entscheide des Departementes für Bau und Umwelt steht das Beschwerderecht auch der Gemeinde zu.
+
+## 5. Sanktionen
+
+#### § 25
+
+**Wiederherstellung, Ersatz**
+
+<sup>1</sup> Wer entgegen dem Schutzzweck in ein geschütztes oder vorsorglich geschütztes Objekt eingreift oder dessen Pflege vernachlässigt, so dass es in seiner Substanz gefährdet ist, kann verhalten werden, auf eigene Kosten den ursprünglichen Zustand wiederherzustellen, angemessenen Ersatz zu schaffen oder die nötigen Massnahmen zu dulden.
+
+<sup>2</sup> Den Entscheid trifft bei den durch Anordnungen gemäss § 10 geschützten Objekten die Gemeindebehörde, im übrigen das Departement für Bau und Umwelt.
+
+#### § 26
+
+**Strafbestimmung**
+
+<sup>1</sup> Wer ein geschütztes oder vorsorglich geschütztes Objekt vorsätzlich oder fahrlässig beseitigt, beschädigt oder verunstaltet, wird mit Busse bis zu Fr. 20'000 bestraft. Wird die Widerhandlung aus Gewinnsucht begangen, ist die Höhe der Busse unbeschränkt.
+
+<sup>2</sup> Die Verfolgungsverjährung beträgt drei Jahre.
+
+## 6. Übergangs- und Schlussbestimmungen
+
+#### § 27
+
+**Frist für Anordnungen der Gemeinden**
+
+<sup>1</sup> Die Gemeinden haben die Anordnungen gemäss § 10 innert fünf Jahren nach Inkrafttreten dieses Gesetzes zu treffen. Der Regierungsrat kann diese Frist ausnahmsweise verlängern.
+
+#### § 27a
+
+**Beiträge der Gemeinden gemäss § 15**
+
+<sup>1</sup> Bis zur Rechtskraft der Anordnungen der Gemeinden gemäss § 10 gilt für die Pflicht der Gemeinden zu Beitragsleistungen im Bereich der Denkmalpflege das bisherige Recht.
+
+#### § 28–30
+
+**…**
+
+ABl. 16/1992

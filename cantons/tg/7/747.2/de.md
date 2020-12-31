@@ -1,0 +1,153 @@
+---
+canton: TG
+number: "747.2"
+title: Gesetz über die Wasserfahrzeugsteuer
+language: de
+version: 2000-01-01
+version_adopted: 1999-05-26
+adopted: 1975-12-12
+in_force: 1976-04-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/747.2"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2234/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Gesetz über die Wasserfahrzeugsteuer
+
+G Wasserfahrzeugsteuer
+
+vom 12.12.1975 (Stand 01.01.2000)
+
+#### § 1
+
+**Grundsatz, Steuersubjekt**
+
+<sup>1</sup> Der Staat erhebt von den Haltern oder Halterinnen von Wasserfahrzeugen eine Steuer.
+
+<sup>2</sup> Der Ertrag der Steuer wird für die Kosten verwendet, die aus den Schutz- und Ordnungsmassnahmen für die private Schifffahrt entstehen.
+
+#### § 2
+
+**Steuerobjekt**
+
+<sup>1</sup> Der Besteuerung unterliegen alle Wasserfahrzeuge
+
+- 1\. für deren Inverkehrsetzung ein Schiffsausweis des Kantons Thurgau erforderlich ist,
+- 2\. die im Kanton Thurgau ihren Standort haben,
+- 3\. die vom thurgauischen Ufer aus auf dem Bodensee, Untersee oder Rhein eingesetzt werden.
+
+#### § 3
+
+**Steuerbefreiung**
+
+<sup>1</sup> Von der Steuer befreit sind
+
+- 1\. im Eigentum des Bundes, des Kantons oder der Gemeinden stehende, nicht für Vergnügungszwecke vorgesehene Wasserfahrzeuge oder in deren Auftrag verwendete Wasserfahrzeuge,
+- 2\. auf Grund einer eidgenössischen Konzession betriebene Wasserfahrzeuge,
+- 3\. Ruderboote und Pedalos.
+
+<sup>2</sup> Das Departement kann weitere Wasserfahrzeuge, die öffentlichen Interessen dienen, von der Steuer befreien.
+
+#### § 4
+
+**Steuerbemessung, Grundsatz**
+
+<sup>1</sup> Die Steuer wird festgesetzt unter Berücksichtigung
+
+- 1\. der Länge und Breite der Wasserfahrzeuge,
+- 2\. der Motorenleistung bei Wasserfahrzeugen mit Maschinenantrieb,
+- 3\. der Anzahl zugelassener Fahrgäste bei Fahrgastschiffen,
+- 4\. der Nutzlast bei Güterschiffen.
+
+#### § 5
+
+**Steuertarif**
+
+<sup>1</sup> Die jährliche Steuer beträgt
+
+- 1\. für Motor- und Segelschiffe:
+  - 1\.1. Grundansatz pro m², gerechnet Länge mal Breite — 7.40
+  - 1\.2. Zuschlag je kW Motorenleistung — 7.–
+- 2\. für Fahrgastschiffe:
+  - 2\.1. Grundansatz — 200.–
+  - 2\.2. Zuschlag pro zugelassener Fahrgast — 4.–
+- 3\. für Güterschiffe:
+  - 3\.1. mit Motor, je Tonne Nutzlast — 4.–
+  - 3\.2. ohne Motor, je Tonne Nutzlast — 2.–
+- 4\. für Kollektiv-Schiffsausweise:
+  - 4\.1. motorlose Schiffe und motorisierte Schiffe bis 30 kW Motorenleistung — 400.–
+  - 4\.2. Schiffe von 31 bis 100 kW Motorenleistung — 800.–
+  - 4\.3. Motorschiffe über 100 kW Motorenleistung — 1600.–
+
+<sup>2</sup> Für Wasserfahrzeuge mit nicht-konventionellen Antrieben legt der Regierungsrat die Steueransätze fest.
+
+<sup>3</sup> Die Steuer beträgt in jedem Fall mindestens Fr. 50.
+
+#### § 6
+
+**Steueranpassung, Delegation**
+
+<sup>1</sup> Der Grosse Rat ist ermächtigt, die Steueransätze der Geld- und Kostenentwicklung sowie den Tarifen der übrigen Uferkantone des Bodensees, Untersees und Rheins anzupassen.
+
+#### § 7
+
+**Wasserfahrzeuge ohne Standort im Kanton**
+
+<sup>1</sup> Die Benützung von Wasserfahrzeugen, die ihren Standort nicht im Kanton Thurgau haben und nur vorübergehend vom thurgauischen Ufer aus auf dem Bodensee, Untersee oder Rhein verwendet werden, bedarf einer Bewilligung. Ausgenommen sind die Wasserfahrzeuge gemäss § 3 und die Benützung von Wasserfahrzeugen, die lediglich zur Teilnahme an einer vom Kanton bewilligten Veranstaltung eingesetzt werden, sowie Segelschiffe ohne Motor bis 12 m² Segelfläche.
+
+<sup>2</sup> Bei einer Betriebsdauer von über einem Monat sind 50 Prozent, bei einer Betriebsdauer von über zwei Monaten 75 Prozent einer Jahressteuer gemäss § 5 zu entrichten.
+
+<sup>3</sup> Für die Bewilligung gemäss Abs. 1 sind vom Regierungsrat zu bestimmende Gebühren zu entrichten. Sie entfallen bei einer Besteuerung gemäss Abs. 2.
+
+#### § 8
+
+**Steuerperiode**
+
+<sup>1</sup> Die Steuer ist für ein Kalenderjahr zu entrichten. Die Fälligkeit wird durch den Regierungsrat bestimmt.
+
+<sup>2</sup> Die Jahressteuer wird um die Hälfte reduziert, wenn die Inverkehrsetzung nach dem 1. September erfolgt.
+
+#### § 9
+
+**Veränderungen während der Steuerperiode**
+
+<sup>1</sup> Bei vorzeitiger Rückgabe oder Entzug des Schiffsausweises, bei Ausserverkehrnahme des Wasserfahrzeuges oder bei Wechsel des Halters oder der Halterin erfolgt keine Rückerstattung der Steuer und keine Verrechnung mit anderen Steuer- oder Gebührenforderungen.
+
+<sup>2</sup> In Härtefällen kann das Departement die Steuer auf Gesuch ganz oder teilweise zurückerstatten, insbesondere bei Ausserverkehrnahme des Wasserfahrzeuges infolge Beschädigung durch höhere Gewalt oder infolge schwerwiegender gesundheitlicher Probleme des Halters oder der Halterin.
+
+<sup>3</sup> Bei Wechsel des Halters oder der Halterin wird die bereits bezahlte Steuer dem neuen Halter oder der neuen Halterin angerechnet.
+
+<sup>4</sup> Bei Verwendung des Wasserfahrzeuges ausserhalb des Kantonsgebietes während mindestens eines Monates der Steuerperiode besteht Anspruch auf Steuerrückerstattung nach Massgabe von § 7, soweit für diese Zeit in einem andern Kanton für das Boot eine Steuer erhoben worden ist.
+
+#### § 9bis
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen die Steuerveranlagung kann innert 20 Tagen bei der Schifffahrtskontrolle Einsprache erhoben werden.
+
+<sup>2</sup> Gegen Einspracheentscheide steht innert 20 Tagen der Rekurs an das zuständige Departement des Regierungsrates offen.
+
+<sup>3</sup> Entscheide des Departementes betreffend Steuerveranlagung und Rückerstattung unterliegen der Beschwerde an das Verwaltungsgericht.
+
+#### § 10
+
+**Verzugsfolgen**
+
+<sup>1</sup> Wenn der Halter oder die Halterin mit der Entrichtung der Steuer oder von Gebühren im Rückstand ist, kann der Schiffsausweis verweigert oder entzogen werden.
+
+#### § 11
+
+**Strafbestimmung**
+
+<sup>1</sup> Widerhandlungen gegen die Bestimmungen dieses Gesetzes oder gegen Vollzugsvorschriften werden mit Haft oder Busse bestraft.
+
+#### § 12
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Gesetz tritt nach Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^12-1].
+
+[^12-1]: In Kraft gesetzt auf den 1. April 1976.
+
+ABl. 11/1976

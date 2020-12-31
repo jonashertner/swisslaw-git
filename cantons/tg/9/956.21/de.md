@@ -1,0 +1,73 @@
+---
+canton: TG
+number: "956.21"
+title: Reglement des Verwaltungsrates der Gebäudeversicherung über die Abgrenzung von Gebäude und Fahrhabe
+language: de
+version: 2012-01-01
+version_adopted: 2011-11-07
+adopted: 2005-04-22
+in_force: 2005-06-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/956.21"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2336/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement des Verwaltungsrates der Gebäudeversicherung über die Abgrenzung von Gebäude und Fahrhabe
+
+R des Verwaltungsrates - Abgrenzung Gebäude/Mobilien
+
+vom 22.04.2005 (Stand 01.01.2012)
+
+#### § 1
+
+**Versicherungsgegenstand**
+
+<sup>1</sup> Mit dem Gebäude zu versichern sind Einrichtungen, die
+
+- 1\. dem Gebäudeeigentümer gehören,
+- 2\. ortsgebunden und
+- 3\. gebäudevollendend sind.
+
+<sup>2</sup> Einrichtungen im Sinne von Abs. 1 gehören zur Grundausstattung und sind insbesondere:
+
+- 1\. alle Einrichtungen, die den umbauten Raum benützbar machen, wie Türen, Treppen, Aufzüge, Fenster, Fensterläden;
+- 2\. auf Raummasse zugeschnittene Bodenbeläge;
+- 3\. die der Beheizung und Belüftung der Räume dienenden Einrichtungen, wie Öfen, Zentralheizungen mit Leitungen und Radiatoren, Heizöltanks, Rauchrohre, Kamine, Ventilatoren, Lufterhitzer;
+- 4\. die der Beleuchtung der Räume dienenden Einrichtungen mit Beleuchtungskörpern, die üblicherweise beim Erstellen des Gebäudes angebracht werden und bei einem Eigentümer- oder Nutzungswechsel beim Gebäude verbleiben, wie Keller-, Treppenhaus-, Küchen-, Bad-, WC-, Büro-, Werkstatt-, Estrich- und Garagebeleuchtung;
+- 5\. die sanitären Einrichtungen, wie Lavabos, WC, Dusche, Badewanne und Boiler;
+- 6\. feste Gas-, Wasser- und ähnliche Leitungen;
+- 7\. elektrische Leitungen und Tableaux;
+- 8\. andere Einrichtungen baulicher Art, die eine dem Gebäude ähnliche Dauerhaftigkeit aufweisen und so mit dem Gebäude verbunden sind, dass sie ohne erhebliche Beschädigung nicht entfernt werden können;
+- 9\. der vom Mieter bezahlte Endausbau. Er wird unausgeschiedener Bestandteil des Gebäudes und damit von der Versicherungssumme und der Prämie.
+
+#### § 2
+
+**Fahrhabe**
+
+<sup>1</sup> Nicht mit dem Gebäude zu versichernde Fahrhabe sind insbesondere:
+
+- 1\. der Hausplatz, die Vorteile der Lage und mit dem Gebäude verbundene Rechte;
+- 2\. spezielle Fundationen, Stützmauern, Umgebung, Bewilligungskosten, Gebühren und Beiträge, übrige Nebenkosten sowie die Bauausstattungen;
+- 3\. die betrieblichen Einrichtungen gewerblicher, industrieller und landwirtschaftlicher Anlagen, wie Maschinen, Apparate und Leitungen einschliesslich der zugehörigen baulichen Einrichtungen, wie Fundamente, Sockel, Fördereinrichtungen und Behälter. Es ist unerheblich, ob und wie die betrieblichen und zugehörigen Einrichtungen eingebaut sind;
+- 4\. Telefon-, EDV-, Fernseh-, Radio- und Funkanlagen aller Art, wie Antennen, Verstärker und Einrichtungen;
+- 5\. die Möblierungen, Vorhänge und Beschattungseinrichtungen;
+- 6\. ideelle Werte, wie Kunst-, Altertums- und Liebhaberwerte, soweit sie nicht als historischer Mehrwert erfasst werden;
+- 7\. dem Mieter gehörende Einrichtungen, soweit es sich nicht um eigentliche Bauwerke handelt. Mieterendausbauten richten sich nach § 1 Abs. 2 Ziff. 9;
+- 8\. andere bauliche Anlagen, die sich ausserhalb des Gebäudes befinden und baulich nicht mit dem Gebäude verbunden sind. Leitungsverbindungen gelten nicht als bauliche Verbindungen.
+
+#### § 3
+
+**Anhang**
+
+<sup>1</sup> Die Direktion erlässt einen Anhang mit Erläuterungen zu diesem Reglement.
+
+<sup>2</sup> Die Gebäudeversicherung weist Sachwerte, die im Anhang nicht genannt sind, der Gebäude- oder der Sachversicherung zu. In Zweifelsfällen ist die Sachversicherung beizuziehen.
+
+#### § 4
+
+**Inkrafttreten**
+
+<sup>1</sup> Dieses Reglement tritt am 1. Juni 2005 in Kraft und ersetzt das Reglement über die Abgrenzung von Gebäude und Mobiliar vom 14. Dezember 1977.
+
+keine Angabe

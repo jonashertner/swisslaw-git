@@ -1,0 +1,234 @@
+---
+canton: TG
+number: "187.143"
+title: Verordnung der Synode über Entschädigungen in der Evangelischen Landeskirche des Kantons Thurgau
+short: Entschädigungsverordnung
+language: de
+version: 2021-01-01
+valid_until: 2023-12-31
+version_adopted: 2020-12-01
+adopted: 2016-06-27
+in_force: 2017-01-01
+url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/187.143"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2038/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Verordnung der Synode über Entschädigungen in der Evangelischen Landeskirche des Kantons Thurgau
+
+V der Synode - Entschädigungen in der Evangelischen Landeskirche
+
+vom 27.06.2016 (Stand 01.01.2021)
+
+## 1. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt die Kostenaufteilung zwischen Kirchgemeinden und Landeskirche bei Studienurlauben beziehungsweise Weiterbildungskursen, die Ansätze für pfarramtliche Stellvertretungen, den Anspruch auf Entschädigung und Spesen für Gewählte oder Beauftragte, die im Namen der Landeskirche tätig sind, sowie den landeskirchlichen Beitrag an Entschädigungen für Praktikanten oder Praktikantinnen.
+
+#### § 2
+
+**Nebenamtlicher Einsatz, Freigrenze**
+
+<sup>1</sup> Die voll- oder hauptamtlich für die Landeskirche Tätigen haben auf die in dieser Verordnung festgelegten Entschädigungen nur Anspruch, sofern und soweit ihr Einsatz ausserhalb der ordentlichen Arbeitszeit erfolgt, nicht kompensiert werden kann oder zu einer Mehrbelastung führt.
+
+<sup>2</sup> An Personen, die in Kirchgemeinden oder in der Landeskirche bereits ein 100 %-Amt ausüben, werden maximal Fr. 2'000 an Entschädigungen für Tätigkeiten ausbezahlt, die über ihr 100 %-Amt hinausgehen. Entschädigungen, die darüber hinausgehen, werden an den Arbeitgeber ausgerichtet.
+
+#### § 3
+
+**Verzicht auf Entschädigung**
+
+<sup>1</sup> Anspruch auf Entschädigung für den Bereitschaftsdienst gemäss § 7 Abs. 1 Ziff. 5 besteht nicht, wenn die den Bereitschaftsdienst leistende Person in derselben Zeit bereits aufgrund einer Festanstellung andernorts zum Bereitschaftsdienst verpflichtet ist.
+
+<sup>2</sup> Kirchgemeinden, die bezüglich Pfarramtsstellvertretungen regelmässig zusammenarbeiten, können, sofern es das Pensum der Betroffenen zulässt, Stellvertretungen auf Gegenseitigkeit vereinbaren und auf die Entrichtung einer Entschädigung verzichten. Dies geschieht auf der Ebene der Aufsichtskommission.
+
+## 2. Studienurlaub
+
+#### § 4
+
+**Beiträge an Stellvertretungskosten**
+
+<sup>1</sup> Die anerkannten Kosten für die von Aufsichtskommission und Kirchenrat genehmigten Stellvertretungen bei einem Studienurlaub eines Pfarrers, einer Pfarrerin, eines Diakons oder einer Diakonin werden von der Landeskirche der betreffenden Kirchgemeinde zu 80 % erstattet.
+
+<sup>2</sup> Als anerkannte Kosten gelten inkl. Sozialkosten maximal Fr. 9'500 pro Monat bei einem 100%-Pfarramt beziehungsweise maximal Fr. 7'500 pro Monat bei einem 100 %-Diakonat.
+
+#### § 5
+
+**Beiträge an Kurskosten**
+
+<sup>1</sup> Die Landeskirche leistet 30 % an die anerkannten Kurskosten während des Studienurlaubs.
+
+<sup>2</sup> Als anerkannte Kurskosten gelten maximal Fr. 7'500 für einen 6-monatigen Studienurlaub und Fr. 5'000 für einen 4-monatigen Studienurlaub.
+
+## 3. Weiterbildungskurse
+
+#### § 6
+
+**Kursbeiträge**
+
+<sup>1</sup> Den Pfarrern, Pfarrerinnen, Diakonen und Diakoninnen, sozialdiakonischen Mitarbeitenden sowie Katecheten oder Katechetinnen werden an Kursbesuche, die von der zuständigen Instanz bewilligt worden sind, auf Gesuch hin folgende Beiträge und Entschädigungen ausgerichtet:
+
+- 1\. Beitrag an die reinen Kurskosten:
+  - a. für kantonale, vom Kirchenrat als obligatorisch erklärte Kurse: Landeskirche 100 %;
+  - b. für kantonale, vom Kirchenrat empfohlene freiwillige Kurse und Supervision: Landeskirche 50 %, Kirchgemeinde 50 %;
+  - c. für übrige Kurse und Supervision: Landeskirche 30 %, Kirchgemeinde 50 – 70 %;
+  - d. für Overheadkosten, die von offiziellen schweizerischen landeskirchlichen Anbietern in Rechnung gestellt werden: Landeskirche 100 %.
+- 2\. Als maximale Nettokosten für Kursgeld, Verpflegung und Unterkunft werden Fr. 2'500 pro Woche beziehungsweise Fr. 500 pro Kurstag anerkannt, miteingerechnet allfällige in Rechnung gestellte Overheadkosten.
+- 3\. Anstelle von Kursen können pro Jahr maximal 10 Stunden Einzelsupervision in Anspruch genommen werden. Als maximale Kosten für Einzel-Supervision werden pro Stunde Fr. 160 anerkannt.
+- 4\. Verpflegung und Unterkunft: Kursteilnehmende leisten einen Selbstbehalt von 25 % der Kosten für Verpflegung und Unterkunft. Der Restbetrag, höchstens aber Fr. 135 für die Vollpension pro Tag, wird aufgeteilt wie die reinen Kurskosten.
+
+<sup>2</sup> Den von der Kantonalkirche Angestellten werden für bewilligte Weiterbildungen die Kurskosten sowie die Kosten für Unterkunft und Verpflegung nach Abzug des Selbstbehalts zu 100 % erstattet.
+
+<sup>3</sup> An Kosten für Reise und Kursmaterial werden keine Beiträge ausgerichtet.
+
+## 4. Stellvertretungen
+
+#### § 7
+
+**Pfarramtliche Stellvertretungen**
+
+<sup>1</sup> Die vertretungsweise Übernahme der im Folgenden genannten Dienste wird wie folgt entschädigt:
+
+- 1\. Gottesdienst — Fr. 300;
+  - - Jeder weitere Gottesdienst am gleichen Tag — Fr. 150;
+- 2\. Jugendgottesdienst — Fr. 150;
+  - - Jeder weitere Jugendgottesdienst am gleichen Tag — Fr. 100;
+- 3\. Trauung inklusive Vorgespräch — Fr. 300;
+- 4\. Abdankung inklusive Vorgespräch — Fr. 300;
+- 5\. Bereitschaftsdienst für Kasualien pro Woche — Fr. 100;
+- 6\. Heimgottesdienst — Fr. 150;
+  - - Jeder weitere Heimgottesdienst am gleichen Tag — Fr. 100;
+- 7\. Konfirmationsunterricht Einzellektion (45 Minuten) — Fr. 100.
+
+## 5. Tätigkeit in Sitzungen
+
+#### § 8
+
+**Sitzungsgelder**
+
+<sup>1</sup> Die Sitzungsgelder richten sich nach folgenden Ansätzen:
+
+- 1\. Ganzer Tag: — Fr. 160;
+- 2\. Halber Tag: — Fr. 110;
+
+<sup>2</sup> Die Sitzungsgelder für Mitglieder von Kommissionen und Arbeitsgruppen richten sich nach folgenden Ansätzen:
+
+- 1\. Ganzer Tag (über 4 Stunden): — Fr. 140;
+- 2\. Halber Tag (bis zu 4 Stunden): — Fr. 95.
+
+<sup>3</sup> Aktenstudium gehört zum Kommissionsauftrag.
+
+<sup>4</sup> Sitzungsgelder werden nur an die im Protokoll aufgeführten Teilnehmenden ausgerichtet. Der Aktuar oder die Aktuarin des entsprechenden Gremiums führt eine Präsenzliste.
+
+#### § 9
+
+**Präsidialzulage, Protokollführung**
+
+<sup>1</sup> Wer eine Sitzung der Synode leitet, erhält eine Zulage von Fr. 500.
+
+<sup>2</sup> Die Protokollführung einer Synode wird mit Fr. 1'000 für eine ganztägige Sitzung beziehungsweise mit Fr. 500 für eine Halbtagessitzung entschädigt. Ist die mit der Protokollführung betraute Person nicht Mitglied der Synode, so erhält sie als Präsenzzeitentschädigung an der Sitzung zusätzlich das übliche Sitzungsgeld.
+
+<sup>3</sup> Wer eine Sitzung des Synodalbüros, einer synodalen oder kirchenrätlichen Kommission oder einer Arbeitsgruppe leitet oder deren Protokoll erstellt, erhält eine Zulage von Fr. 140 bei einer Ganztagessitzung beziehungsweise von Fr. 95 bei einer Halbtagessitzung.
+
+#### § 10
+
+**Berichte, Referate**
+
+<sup>1</sup> Besondere Entschädigungen:
+
+- 1\. Kommissionsbericht vor der Synode — Fr. 150
+- 2\. Für besondere Aufträge oder Referate, die das Synodalbüro veranlasst hat, legt dieses die Höhe der Entschädigung fest.
+- 3\. Für besondere Aufträge oder Referate, die der Kirchenrat veranlasst hat, legt dieser die Höhe der Entschädigung fest.
+
+## 6. Entschädigung Rekurs- und Beschwerdekommission
+
+#### § 11
+
+**Ansätze**
+
+<sup>1</sup> Die Mitglieder der Rekurs- und Beschwerdekommission haben Anspruch auf eine Entschädigung. Für Mitglieder, die ein Vollamt in der Kirche ausüben, gelten die Ansätze gemäss § 10.
+
+<sup>2</sup> Für die übrigen Mitglieder gelten folgende Ansätze:
+
+- 1\. Ganzer Tag (über 4 Stunden) — Fr. 250;
+- 2\. Halber Tag (bis 4 Stunden) — Fr. 150;
+- 3\. Aktenstudium pro Stunde — Fr. 50;
+- 4\. Verfassen von Anträgen, Protokollen und Entscheiden pro Stunde — Fr. 100;
+- 5\. Verfahrensleitung pro Stunde zusätzlich — Fr. 100.
+
+<sup>3</sup> Mitglieder der Rekurs- und Beschwerdekommission, die ihr Personal zur Verfügung stellen, dürfen sich diese Dienstleistung mit Fr. 50 pro Stunde vergüten lassen.
+
+<sup>4</sup> In diesen Ansätzen ist die Büroentschädigung inbegriffen.
+
+#### § 12
+
+**Abrechnung**
+
+<sup>1</sup> Der Aktuar oder die Aktuarin erstellt die Abrechnung für die Entschädigung sämtlicher Mitglieder der Kommission. Diese wird durch das Präsidium visiert und dem Kirchenrat weitergeleitet.
+
+## 7. Entschädigung der Dekane oder Dekaninnen, der Mentoren oder Mentorinnen und der in der Ombudsstelle sowie in der Anlaufstelle sexuelle Grenzverletzungen eingesetzten Personen
+
+#### § 13
+
+**Entschädigung Dekane und Dekaninnen**
+
+<sup>1</sup> Die Dekane und Dekaninnen werden für ihre Tätigkeit mit einer Pauschale von Fr. 7'000 pro Jahr entschädigt.
+
+<sup>2</sup> Dem Dekan oder der Dekanin steht für die Spesen (inklusive Fahrspesen und Porti) eine Jahrespauschale von Fr. 700 zu.
+
+#### § 14
+
+**Entschädigung Mentoren oder Mentorinnen**
+
+<sup>1</sup> Vom Kirchenrat für die Begleitung von Verwesern oder Verweserinnen oder Berufseinsteigern beauftragte Mentoren und Mentorinnen erhalten pro Mentorat pro Jahr Fr. 800.
+
+<sup>2</sup> Mentoren und Mentorinnen, die Theologiestudierende begleiten, erhalten für die Teilnahme an Explorationen der Kommission für Eignungsabklärung (KEA) Sitzungsgelder gemäss § 8 Abs. 2.
+
+#### § 15
+
+**Entschädigung Ombudsstelle**
+
+<sup>1</sup> Inhaber oder Inhaberinnen der Ombudsstelle und deren Stellvertreter oder Stellvertreterinnen sowie in der Anlaufstelle sexuelle Grenzverletzungen eingesetzte Personen werden nach Aufwand entschädigt, zu einem Stundenansatz von Fr. 100 für die Gesprächsführung und Fr. 50 für die Vor- und Nachbereitung.
+
+<sup>2</sup> Von der Ombudsstelle eingesetztes Personal, das im administrativen Bereich tätig ist, wird mit Fr. 50 pro Stunde entschädigt.
+
+## 8. Praktikumsentschädigung
+
+#### § 16
+
+**Praktikum im Diakonat**
+
+<sup>1</sup> An Gemeinden, die Praktikanten oder Praktikantinnen beziehungsweise Auszubildende im diakonischen Dienst beschäftigen, zahlt die Landeskirche folgenden Anteil an die Praktikumsentschädigungen beziehungsweise Lohnkosten:
+
+- 1\. 50 %, höchstens jedoch Fr. 600 pro Monat beziehungsweise maximal Fr. 7'200 pro Jahr für Praktika, die in keinem direkten Zusammenhang mit einer kirchlichen diakonischen Ausbildung stehen;
+- 2\. 50 %, höchstens jedoch Fr. 800 pro Monat beziehungsweise maximal Fr. 9'600 pro Jahr für Praktika, die im Zusammenhang mit einer vollzeitlichen kirchlichen diakonischen Ausbildung stehen;
+- 3\. 50 %, höchstens jedoch Fr. 1'200 pro Monat beziehungsweise maximal Fr. 15'600 pro Jahr für Ausbildungsplätze von berufsbegleitend Studierenden am TDS Aarau.
+
+<sup>2</sup> An die Sozialkosten der Praktikumsentschädigungen gemäss Abs. 1 Ziff. 1 und Ziff. 2 werden von der Landeskirche keine Anteile an die Gemeinden entrichtet.
+
+## 9. Reiseentschädigung
+
+#### § 17
+
+**Fahrtentschädigung**
+
+<sup>1</sup> Für Reisen zum Sitzungs- oder Tätigkeitsort wird eine Fahrtentschädigung nach folgenden Ansätzen ausgerichtet:
+
+- 1\. Öffentliche Verkehrsmittel: Billett 2. Klasse;
+- 2\. Auto: Fr. 0.65 pro Kilometer für unvermeidliche Autofahrten.
+
+#### § 18
+
+**Unterkunft und Verpflegung**
+
+<sup>1</sup> Bei Verpflichtungen, die eine auswärtige Übernachtung bedingen, werden für Unterkunft und Verpflegung ausgerichtet:
+
+- 1\. Für Übernachtung/Frühstück: Effektive Kosten, maximal Fr. 150;
+- 2\. Pro Hauptmahlzeit: maximal Fr. 35.
+
+<sup>2</sup> Die Kosten für das gemeinsam eingenommene Mittagessen der Mitglieder der Synode anlässlich von ganztägigen Sitzungen werden durch die Landeskirche übernommen.
+
+43/2016
