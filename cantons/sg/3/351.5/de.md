@@ -1,0 +1,303 @@
+---
+canton: SG
+number: "351.5"
+title: Ergänzungsleistungsgesetz
+short: ELG
+language: de
+version: 2021-01-01
+valid_until: 2023-12-31
+version_adopted: 2015-04-28
+adopted: 1991-09-22
+in_force: 1992-01-01
+url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.5"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3092/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Ergänzungsleistungsgesetz
+
+(ELG)
+
+vom 22.09.1991 (Stand 01.01.2021)
+
+Der Grosse Rat des Kantons St.Gallen
+
+hat von der Botschaft des Regierungsrates vom 18. Dezember 1990[^ingress-1] Kenntnis genommen und
+
+erlässt
+
+in Anwendung der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung[^ingress-2]
+
+als Gesetz:[^ingress-3]
+
+[^ingress-1]: ABl 1991, 305.
+[^ingress-2]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
+[^ingress-3]: Abgekürzt ELG. nGS 34–30. Vom Grossen Rat erlassen am 8. Mai 1991; in der Volksabstimmung angenommen worden und rechtsgültig geworden am 22. September 1991; vom Bundesrat genehmigt am 29. November 1991; in Vollzug ab 1. Januar 1992.
+
+## I. Ordentliche Ergänzungsleistungen
+
+#### Art. 1
+
+**Anspruch**
+
+<sup>1</sup> Der Anspruch auf ordentliche Ergänzungsleistungen richtet sich nach der Bundesgesetzgebung.[^1-1]
+
+[^1-1]: Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.3](https://db.clex.ch/link/Bund/831.3/de).
+
+#### Art. 2
+
+**…**
+
+#### Art. 3
+
+**Persönliche Auslagen**
+
+<sup>1</sup> An persönliche Auslagen werden als Jahrespauschale angerechnet:
+
+- a) bei Aufenthalt in einem Betagtenheim oder einem Wohnheim für Menschen mit Behinderung ein Drittel des für Alleinstehende geltenden Betrages für den allgemeinen Lebensbedarf nach Art. 10 Abs. 1 Bst. a Ziff. 1 des Bundesgesetzes über die Ergänzungsleistungen vom 6. Oktober 2006[^3-1];
+- b) bei Aufenthalt in einem Pflegeheim oder einem Spital ein Viertel des für Alleinstehende geltenden Betrages für den allgemeinen Lebensbedarf nach Art. 10 Abs. 1 Bst. a Ziff. 1 des Bundesgesetzes über die Ergänzungsleistungen vom 6. Oktober 2006[^3-2].
+
+<sup>2</sup> Dem Bezüger in Heim oder Spital wird der anrechenbare Vermögensverzehr auf einen Fünftel erhöht.
+
+[^3-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+[^3-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+
+#### Art. 4
+
+**Anrechenbare Tagespauschale**
+
+<sup>1</sup> Die Regierung legt durch Verordnung die bei Aufenthalt in Heim oder Spital anrechenbare Tagespauschale fest.
+
+#### Art. 4bis
+
+**Krankheits- und Behinderungskosten a) Grundsatz**
+
+<sup>1</sup> Der Anspruch auf Vergütung der ausgewiesenen Krankheits- und Behinderungskosten nach Art. 14 Abs. 1 Bst. a bis g des Bundesgesetzes über Ergänzungsleistungen vom 6. Oktober 2006[^4bis-1] beschränkt sich auf die im Rahmen einer wirtschaftlichen und zweckmässigen Leistungserbringung erforderlichen Ausgaben, soweit diese nicht Versicherer oder Dritte decken.
+
+<sup>2</sup> Pflichtleistungen, die von Versicherern der obligatorischen Sozialversicherungen angerechnet wurden, gelten als wirtschaftlich und zweckmässig. Kosten, die den Leistungskatalog einer obligatorischen Sozialversicherung übersteigen, werden nicht vergütet.
+
+<sup>3</sup> …
+
+<sup>4</sup> Als Höchstbeträge gelten die in Art. 14 Abs. 3 bis 5 des Bundesgesetzes über Ergänzungsleistungen vom 6. Oktober 2006[^4bis-2] festgelegten Ansätze.
+
+<sup>5</sup> Die Regierung regelt die Einzelheiten durch Verordnung.
+
+[^4bis-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+[^4bis-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+
+#### Art. 4ter
+
+**b) Mietzins für betreutes Wohnen**
+
+<sup>1</sup> Der Mietzins für ein anerkanntes Angebot des betreuten Wohnens, der den Höchstbetrag nach Art. 10 Abs. 1 Bst. b des Bundesgesetzes über die Ergänzungsleistungen vom 6. Oktober 2006[^4ter-1] übersteigt, wird im Rahmen der Krankheits- und Behinderungskosten nach Art. 14 Abs. 1 Bst. b des Bundesgesetzes über die Ergänzungsleistungen vom 6. Oktober 2006[^4ter-2] vergütet.
+
+<sup>2</sup> Die Regierung legt durch Verordnung den anrechenbaren Mietzins nach Abs. 1 dieser Bestimmung fest.
+
+<sup>3</sup> Das zuständige Departement anerkennt Anbieter des betreuten Wohnens, wenn:
+
+- a) der Bedarf ausgewiesen ist. Bei Angeboten für Betagte ist die Standortgemeinde für den Bedarfsausweis zuständig;
+- b) die Wohnungen grundsätzlich barrierefrei ausgestaltet sind;
+- c) ein Bereitschaftsdienst und ein angemessenes Angebot an Grundbetreuung sichergestellt sind.
+
+<sup>4</sup> Die zuständige Stelle überprüft die Erfüllung der Anerkennungsvoraussetzungen regelmässig. Bei Angeboten für Betagte hört sie zum Bedarfsausweis nach Abs. 3 Bst. a dieser Bestimmung die Standortgemeinde an.
+
+[^4ter-1]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de) und sGS [351.5](https://www.gesetzessammlung.sg.ch/data/351.5/de).
+[^4ter-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+
+## II. Ausserordentliche Ergänzungsleistungen
+
+#### Art. 5
+
+**…**
+
+#### Art. 5bis
+
+**…**
+
+#### Art. 6
+
+**…**
+
+#### Art. 7
+
+**…**
+
+#### Art. 8
+
+**…**
+
+## III. Organisation und Verfahren
+
+#### Art. 9
+
+**Veröffentlichung**
+
+<sup>1</sup> Die Sozialversicherungsanstalt des Kantons St.Gallen veröffentlicht jährlich die Voraussetzungen für den Anspruch auf Ergänzungsleistungen.
+
+<sup>2</sup> Sie informiert die möglichen Anspruchsberechtigten in angemessener Weise.
+
+#### Art. 10
+
+**Verfahren a) Gesuch**
+
+<sup>1</sup> Das Gesuch wird der Gemeindezweigstelle am Wohnsitz des Gesuchstellers oder der Sozialversicherungsanstalt des Kantons St.Gallen eingereicht.
+
+<sup>2</sup> Die Gemeindezweigstelle berät den Gesuchsteller.
+
+<sup>3</sup> Sie prüft das Gesuch und leitet es an die Sozialversicherungsanstalt des Kantons St.Gallen.
+
+#### Art. 11
+
+**b) Verfügung**
+
+<sup>1</sup> Die Sozialversicherungsanstalt des Kantons St.Gallen entscheidet über Anspruch und Höhe der Ergänzungsleistungen.
+
+<sup>2</sup> Sie eröffnet die Verfügung:
+
+- a) dem Gesuchsteller;
+- b) der Gemeindezweigstelle.
+
+#### Art. 11bis
+
+**bbis) Einsprache**
+
+<sup>1</sup> Gegen Verfügungen der Sozialversicherungsanstalt kann innert dreissig Tagen Einsprache erhoben werden.
+
+#### Art. 12
+
+**c) Rückerstattung[^12-1]**
+
+<sup>1</sup> Die in den letzten fünf Jahren an Alleinstehende oder an Ehepaare ausgerichteten ausserordentlichen Ergänzungsleistungen werden aus dem Nachlass des Bezügers zurückerstattet, soweit der Nachlass nach Abzug der Todesfallkosten den halben Betrag des für Alleinstehende und für Ehepaare massgebenden Reinvermögens nach Art. 5 lit. b dieses Gesetzes übersteigt.
+
+[^12-1]: Die Aufhebung von Art. 15 Abs. 3 durch den VIII. Nachtrag zum Ergänzungsleistungsgesetz vom 28. April 2015, nGS 2015-086, wird ab der Erhöhung der anrechenbaren Mietzinsmaxima durch den Bund angewendet, jene von Art. 12 drei Jahre später.
+
+#### Art. 13
+
+**d) ergänzendes Recht**
+
+<sup>1</sup> Soweit dieses Gesetz keine Regelung enthält, werden die Bestimmungen der Bundesgesetzgebung über die Ergänzungsleistungen[^13-1] und über den Allgemeinen Teil des Sozialversicherungsrechts[^13-2] sachgemäss angewendet, insbesondere für:
+
+- a) Auszahlung der Geldleistungen[^13-3] und Vergütungszinsen;[^13-4]
+- b) Gewährleistung zweckgemässer Verwendung der Leistungen[^13-5] sowie Verrechnung;[^13-6]
+- c) Rückforderung und Erlass der Rückerstattung unrechtmässig bezogener Leistungen;[^13-7]
+- d) Berechnung und Stillstand sowie Wiederherstellung der Fristen;[^13-8]
+- e) Kosten und Parteientschädigung;[^13-9]
+- f) Amts- und Verwaltungshilfe.[^13-10]
+
+[^13-1]: Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.30](https://db.clex.ch/link/Bund/831.30/de). Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.301](https://db.clex.ch/link/Bund/831.301/de).
+[^13-2]: SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-3]: Art. 19 des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-4]: Art. 26 Abs. 2 des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-5]: Art. 20 des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-6]: Art. 27 der Verordnung über die Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung, SR [831.301](https://db.clex.ch/link/Bund/831.301/de).
+[^13-7]: Art. 25 des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de); Art. 2 bis 5 der eidgV über den Allgemeinen Teil des Sozialversicherungsrechts vom 11. September 2002, SR [830.11](https://db.clex.ch/link/Bund/830.11/de).
+[^13-8]: Art. 38 ff. des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-9]: Art. 52 Abs. 3 und Art. 61 Bst. a und g des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+[^13-10]: Art. 32 des BG über den Allgemeinen Teil des Sozialversicherungsrechts vom 6. Oktober 2000, SR [830.1](https://db.clex.ch/link/Bund/830.1/de).
+
+#### Art. 14
+
+**Auskunftspflicht**
+
+<sup>1</sup> Gesuchsteller und Bezüger erteilen über die massgebenden Verhältnisse wahrheitsgetreu und vollständig Auskunft und reichen nötigenfalls Unterlagen ein.
+
+<sup>2</sup> Sie ermächtigen nötigenfalls Amtsstellen, Banken, Versicherungen, Ärzte, Arbeitgeber und Stellen, von denen sie betreut werden, Auskünfte zu erteilen.
+
+<sup>3</sup> Verwaltungs- und Rechtspflegebehörden erteilen den Gemeindezweigstellen und der Sozialversicherungsanstalt des Kantons St.Gallen die erforderlichen Auskünfte und reichen die erforderlichen Unterlagen ein, ohne Kosten zu erheben.
+
+#### Art. 15
+
+**Meldepflicht**
+
+<sup>1</sup> Der Bezüger meldet der Gemeindezweigstelle oder der Sozialversicherungsanstalt des Kantons St.Gallen Tatsachen, die Anspruch oder Berechnung verändern.
+
+<sup>2</sup> Die Gemeindezweigstelle leitet die Mitteilung und eigene Wahrnehmungen an die Sozialversicherungsanstalt des Kantons St.Gallen.
+
+<sup>3</sup> …
+
+#### Art. 15a
+
+**Mitwirkungspflicht**
+
+<sup>1</sup> Das Heim oder das Spital gibt der Sozialversicherungsanstalt des Kantons St.Gallen die Daten bekannt, die für die Überprüfung des Anspruchs des Bezügers auf Anrechnung der Tagespauschale notwendig sind.
+
+## IV. Finanzierung
+
+#### Art. 16
+
+**Grundsatz**
+
+<sup>1</sup> Ergänzungsleistungen nach diesem Gesetz, die nicht durch Beiträge des Bundes gedeckt werden, trägt der Kanton.
+
+<sup>2</sup> Die politische Gemeinde trägt die Verwaltungskosten der Gemeindezweigstelle, der Kanton die übrigen Verwaltungskosten.
+
+#### Art. 17
+
+**…**
+
+#### Art. 18
+
+**b) politische Gemeinde**
+
+<sup>1</sup> Der Anteil der politischen Gemeinde wird nach der Einwohnerzahl am Ende des Vorjahrs ermittelt.
+
+<sup>2</sup> Grundlage bildet die eidgenössische Statistik des jährlichen Bevölkerungsstandes.
+
+## V. Schlussbestimmungen
+
+#### Art. 19
+
+**[^19-1]**
+
+[^19-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
+
+#### Art. 20
+
+**[^20-1]**
+
+[^20-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
+
+#### Art. 21
+
+**Aufhebung bisherigen Rechts**
+
+<sup>1</sup> Das Gesetz über Ergänzungsleistungen zur eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung vom 20. März 1966[^21-1] wird aufgehoben.
+
+[^21-1]: nGS 23–24 (sGS 351.5).
+
+#### Art. 22
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die Anrechnung der Krankheitskosten, die vor Vollzugsbeginn dieses Gesetzes in Rechnung gestellt wurden, richtet sich nach dem Gesetz über Ergänzungsleistungen zur eidgenössischen Alters-, Hinterlassenen- und Invalidenversicherung vom 20. März 1966.[^22-1]
+
+[^22-1]: nGS 23–24 (sGS 351.5).
+
+#### Art. 23
+
+**Vollzugsbeginn**
+
+<sup>1</sup> Dieses Gesetz wird nach Genehmigung des Bundes ab 1. Januar 1992 angewendet.
+
+#### Art. 24
+
+**Finanzreferendum**
+
+<sup>1</sup> Dieses Gesetz untersteht nach Art. 6 des Gesetzes über Referendum und Initiative[^24-1] dem obligatorischen Finanzreferendum.
+
+[^24-1]: sGS [125.1](https://www.gesetzessammlung.sg.ch/data/125.1/de).
+
+#### Art. 25
+
+**Übergangsbestimmung des VIII. Nachtrags vom 28. April 2015[^25-1]**
+
+<sup>1</sup> Personen, die bei Vollzugsbeginn des VIII. Nachtrags vom 28. April 2015 ausserordentliche Ergänzungsleistungen beziehen, werden bis zu einer Erhöhung der als anrechenbar geltenden Mietzinsmaxima nach Art. 10 Abs. 1 Bst. b des eidgenössischen Ergänzungsleistungsgesetzes vom 6. Oktober 2006[^25-2] höchstens folgende Beträge als Ausgaben für den Mietzins einer Wohnung und die damit zusammenhängenden Nebenkosten angerechnet:
+
+- a) Fr. 17 600.– je Jahr für Alleinstehende;
+- b) Fr. 20 000.– je Jahr für Ehepaare und Personen mit rentenberechtigten Waisen oder mit Kindern, die einen Anspruch auf eine Kinderrente der AHV oder IV begründen.
+
+[^25-1]: nGS 2015-086.
+[^25-2]: SR [831.30](https://db.clex.ch/link/Bund/831.30/de).
+
+nGS 34–30

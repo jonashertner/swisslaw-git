@@ -1,0 +1,423 @@
+---
+canton: SG
+number: "230.312"
+title: Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen
+language: de
+version: 2019-08-01
+version_adopted: 2018-10-25
+adopted: 2018-10-25
+in_force: 2019-08-01
+url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/230.312"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3944/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen
+
+vom 25.10.2018 (Stand 01.08.2019)
+
+Die Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK),
+
+gestützt auf die [Art. 2](https://www.gesetzessammlung.sg.ch/data/230.31/de/art2), [4](https://www.gesetzessammlung.sg.ch/data/230.31/de/art4) und [6](https://www.gesetzessammlung.sg.ch/data/230.31/de/art6) der Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen vom 18. Februar 1993 (Diplomanerkennungsvereinbarung) und auf das EDK-Statut vom 3. März 2005,
+
+beschliesst:[^ingress-1]
+
+[^ingress-1]: In Vollzug ab 1. August 2019.
+
+## I. Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Grundsatz**
+
+<sup>1</sup> Kantonale oder kantonal anerkannte Abschlüsse von Fachmittelschulen (FMS) werden von der EDK anerkannt, wenn sie die in diesem Reglement festgelegten Mindestanforderungen erfüllen.
+
+#### Art. 2
+
+**Fachmittelschulen**
+
+<sup>1</sup> Fachmittelschulen im Sinne dieses Reglements sind allgemeinbildende Vollzeitschulen der Sekundarstufe II, die Fachmittelschulausweise und gegebenenfalls Fachmaturitätszeugnisse mit Ausrichtung auf bestimmte Berufsfelder verleihen.
+
+<sup>2</sup> Fachmittelschulen im Sinne dieses Reglements können auch kantonale oder kantonal anerkannte Vollzeit- oder Teilzeitschulen für Erwachsene sein.
+
+#### Art. 3
+
+**Berufsfelder**
+
+<sup>1</sup> Die Berufsfelder an Fachmittelschulen umfassen die Bereiche:
+
+- a) Gesundheit bzw. Gesundheit/Naturwissenschaften;
+- b) Soziale Arbeit;
+- c) Pädagogik;
+- d) Kommunikation und Information;
+- e) Gestaltung und Kunst sowie
+- f) Musik und/oder Theater.
+
+<sup>2</sup> Die Kombination von maximal zwei Berufsfeldern ist möglich. Die Ausbildung bis zum Fachmittelschulausweis hat in diesem Fall beide Berufsfelder abzudecken.
+
+<sup>3</sup> Die Kantone entscheiden über das Angebot an den Fachmittelschulen in ihrer Trägerschaft.
+
+#### Art. 4
+
+**Wechsel des gewählten Berufsfeldes**
+
+<sup>1</sup> Der Wechsel des Berufsfeldes während der Ausbildung ist nach Massgabe der Bestimmungen der Trägerkantone möglich. Dies gilt auch für den Wechsel des Berufsfeldes nach Erhalt des Fachmittelschulausweises im Hinblick auf das Absolvieren der Fachmaturität in einem anderen Berufsfeld.
+
+<sup>2</sup> Für die weitere Ausbildung vorausgesetzte, fehlende Kompetenzen sind in jedem Fall zu kompensieren beziehungsweise zu erwerben.
+
+#### Art. 5
+
+**Wirkung der Anerkennung**
+
+<sup>1</sup> Der Abschluss an einer Fachmittelschule öffnet:
+
+- a) mit dem Fachmittelschulausweis den Zugang zu bestimmten Höheren Fachschulen;
+- b) mit dem Fachmaturitätszeugnis den Zugang zu bestimmten Fachhochschulstudiengängen und
+- c) mit dem Fachmaturitätszeugnis Pädagogik die Zulassung zu bestimmten Pädagogischen Hochschulstudiengängen.
+
+## II. Anerkennungsvoraussetzungen
+
+### 1. Ausbildung
+
+#### Art. 6
+
+**Ziel der Ausbildung**
+
+<sup>1</sup> Der Bildungsauftrag der Fachmittelschulen beinhaltet im Wesentlichen die Vermittlung einer vertieften Allgemeinbildung, die Einführung in eines oder zwei Berufsfelder sowie die Förderung von Selbst- und Sozialkompetenz im Hinblick auf den Erwerb eines Fachmittelschulausweises oder eines Fachmaturitätszeugnisses für den Zugang zu tertiären Berufsbildungen.
+
+<sup>2</sup> Wer einen Fachmittelschulausweis erworben hat, ist durch die ihr oder ihm vermittelte, vertiefte Allgemeinbildung sowie die geförderte Selbst- und Sozialkompetenz insbesondere befähigt, in einem weiteren Schritt:
+
+- a) Berufsbildungen an höheren Fachschulen zu besuchen, die eine vertiefte Allgemeinbildung und persönliche Reife voraussetzen und über einen FMS-Ausweis zugänglich sind;
+- b) ein Fachmaturitätszeugnis als Voraussetzung für die Zulassung zu Fachhochschulen beziehungsweise Pädagogischen Hochschulen zu erlangen.
+
+<sup>3</sup> Ziel der Fachmaturität ist es, die während der Ausbildung zum Fachmittelschulausweis erworbenen Kenntnisse, die soziale Kompetenz und die Persönlichkeitsbildung im Rahmen von zusätzlichen Leistungen weiter zu entwickeln, und dabei insbesondere:
+
+- a) eine vertiefte Vorstellung von der Arbeitswelt des gewählten Berufsfeldes zu erhalten;
+- b) grundlegende Kenntnisse und praktische Erfahrungen im Umgang mit Menschen und Themen zu erwerben;
+- c) Erfahrungen mit alltäglichen, fächerübergreifenden Fragestellungen bezüglich Organisation, Administration und Teamarbeit zu sammeln;
+- d) im Umgang mit anspruchsvollen und komplexen Situationen zu wachsen und sich selbst in solchen Situationen kennenzulernen;
+- e) Verbindungen zwischen den erlangten theoretischen Kenntnissen und in der Praxis beobachteten Situationen herzustellen und
+- f) bei der Fachmaturität Pädagogik die allgemeinbildenden Fächer, die für die weiterführende pädagogische Ausbildung relevant sind, zu vertiefen.
+
+#### Art. 7
+
+**Lehrpläne**
+
+<sup>1</sup> Die Ausbildung richtet sich nach einem vom Kanton erlassenen oder genehmigten Lehrplan.
+
+<sup>2</sup> Der Lehrplan stützt sich auf den Rahmenlehrplan der EDK für Fachmittelschulen und umfasst die Fächer der Lernbereiche im Rahmen der Allgemeinbildung im Umfang von mindestens 50 Prozent sowie die Fächer der Berufsfelder im Umfang von mindestens 20 Prozent.
+
+<sup>3</sup> Bei der Festlegung der Grundsätze für das ausserschulische Praktikum beziehungsweise für spezifische Leistungen im gewählten Berufsfeld im Sinne von [Art. 10](https://www.gesetzessammlung.sg.ch/data/230.312/de/art10) müssen die Anforderungen der tertiären Ausbildungsinstitutionen berücksichtigt werden.
+
+#### Art. 8
+
+**Allgemeinbildung**
+
+<sup>1</sup> In den fünf Lernbereichen:
+
+- a) Sprachen;
+- b) Mathematik, Naturwissenschaften, Informatik;
+- c) Geistes- und Sozialwissenschaften;
+- d) Musische Fächer;
+- e) Sport
+
+<sup>2</sup> Jedem der Lernbereiche werden bestimmte Grundlagenfächer zugeordnet, die je nach Fach während einem, zwei oder drei Jahren besucht werden.
+
+#### Art. 9
+
+**Berufsfeldbezogener Unterricht**
+
+<sup>1</sup> Der berufsfeldbezogene Unterricht vermittelt die für das Berufsfeld notwendigen Kenntnisse und ermöglicht eine Auseinandersetzung mit allgemeinen Gegebenheiten der Berufssituation. Er sensibilisiert für berufsspezifische Fragestellungen und ermöglicht erste konkrete Erfahrungen mit der beruflichen Tätigkeit.
+
+<sup>2</sup> Das berufsfeldbezogene Unterrichtsangebot beinhaltet zur Hauptsache auf den Beruf ausgerichtete Angebote, welche die Schülerinnen und Schüler je nach gewähltem Berufsfeld zu absolvieren haben.
+
+#### Art. 10
+
+**Praktika oder ausgewiesene spezifische Leistungen**
+
+<sup>1</sup> Obligatorischer Bestandteil der Ausbildung zum Fachmittelschulausweis ist ein betreutes ausserschulisches Praktikum von mindestens zwei Wochen, welches der Stärkung der Sozial- und Selbstkompetenz dient und als Orientierungspraktikum vor der Berufswahl den Entscheid für ein bestimmtes Berufsfeld unterstützen kann.
+
+<sup>2</sup> Für den Erwerb der Fachmaturität kommen unter Vorbehalt der Voraussetzungen für den Erwerb der Fachmaturität Pädagogik ausgewiesene Praktika im gewählten Berufsfeld von mindestens 24 und höchstens 40 Wochen Dauer oder ausgewiesene spezifische Leistungen von mindestens 120 Lektionen Dauer hinzu.
+
+### 2. Dauer der Fachmittelschule, Qualifikation der Lehrpersonen, Unterrichtsgestaltung und Infrastruktur
+
+#### Art. 11
+
+**Dauer der Ausbildung**
+
+<sup>1</sup> Die Ausbildung an Fachmittelschulen schliesst in der Regel an die obligatorische Schulzeit an und dauert bis zum Erwerb des Fachmittelschulausweises drei Jahre.
+
+<sup>2</sup> Der Erwerb des Fachmaturitätszeugnisses erfolgt in der Regel unmittelbar nach Erhalt des Fachmittelschulausweises. In begründeten Fällen kann ein zeitlicher Unterbruch von höchstens drei Jahren nach Erhalt des Fachmittelschulausweises akzeptiert werden.
+
+#### Art. 12
+
+**Qualifikation der Lehrpersonen**
+
+<sup>1</sup> Der Unterricht ist von Lehrpersonen zu erteilen, die:
+
+- a) über ein Lehrdiplom für Maturitätsschulen oder
+- b) über ein Lehrdiplom für Berufsmaturitätsschulen mit Masterabschluss im zu unterrichtenden Fach oder
+- c) über eine andere, fachlich und pädagogisch gleichwertige Ausbildung
+
+<sup>2</sup> Die Kantone, die einen Antrag auf Anerkennung von zweisprachigen Abschlüssen einreichen, gewährleisten, dass die sprachliche und didaktische Qualifikation der dabei beteiligten Lehrkräfte den Anforderungen des Immersionsunterrichts genügt.
+
+<sup>3</sup> Die Schulen fördern die Weiterbildung ihrer Lehrkräfte.
+
+#### Art. 13
+
+**Unterrichtsgestaltung und Infrastruktur**
+
+<sup>1</sup> Die Schulen gestalten im Rahmen der Qualitätssicherung den Unterricht, die Arbeitsformen und die Infrastruktur im Hinblick auf das zu erreichende Ausbildungsziel.
+
+#### Art. 14
+
+**Zweisprachige Abschlüsse**
+
+<sup>1</sup> Die Kantone können unter Berücksichtigung der im vorliegenden Reglement definierten Mindestanforderungen Ausbildungsgänge anbieten, die zu einem zweisprachigen Abschluss führen.
+
+<sup>2</sup> Als Immersionssprache ist eine schweizerische Landessprache oder Englisch anzubieten.
+
+<sup>3</sup> Für den Unterricht im Rahmen eines Angebots zum zweisprachigen Fachmittelschulausweis gelten folgende Grundsätze:
+
+- a) neben dem Unterricht in den Sprachen sind mindestens zwei im Fachmittelschulausweis benotete Fächer in der zweiten Sprache zu unterrichten und zu bewerten (Immersionsunterricht);
+- b) die minimale Stundenzahl für den Immersionsunterricht nach Bst. a beträgt 600 Stunden;
+- c) die maximale Gesamt-Stundenzahl für den Immersionsunterricht darf die Hälfte der gesamten Stundendotation nicht überschreiten;
+- d) mindestens zwei im Fachmittelschulausweis benotete Fächer, davon mindestens eines des Lernbereichs Geistes- und Sozialwissenschaften, werden in der zweiten Sprache geprüft.
+
+<sup>4</sup> Der Immersionsunterricht nach Abs. 3 kann ganz oder teilweise an einer schweizerischen Fachmittelschule im Zielsprachgebiet absolviert werden. Der entsprechende Aufenthalt muss von mindestens drei Wochen Dauer sein und kann bei der Berechnung der Gesamt-Stundenzahl mit maximal 30 Lektionen pro Woche angerechnet werden.
+
+<sup>5</sup> Für Angebote zu zweisprachigen Fachmaturitätszeugnissen gelten folgende Grundsätze:
+
+- a) Voraussetzung für die Aufnahme in ein Angebot zu einer zweisprachigen Fachmaturität ist ein zweisprachiger Fachmittelschulausweis oder der Nachweis des Niveaus B2 in der Zielsprache;
+- b) die minimale Stundenzahl für die Tätigkeit oder den Unterricht in der Immersionssprache beträgt 200 Stunden;
+- c) die Fachmaturitätsarbeit wird mit 100 Immersionsstunden berechnet, sofern sie in der Immersionssprache verfasst ist oder mit 20 Immersionsstunden, sofern sie in der Erstsprache verfasst ist, aber in der Immersionssprache mündlich präsentiert wird;
+- d) ein berufsspezifisches Praktikum in der Immersionssprache kann mit höchstens 42 Stunden pro Woche berechnet werden.
+
+<sup>6</sup> In den vom Immersionsunterricht betroffenen Fächern muss das Ausbildungsniveau hinsichtlich der Bildungsziele, der Ausbildungsinhalte und der Bewertungskriterien aufrechterhalten werden.
+
+### 3. Fachmittelschulausweis und Fachmaturitätszeugnis
+
+#### Art. 15
+
+**Reglement**
+
+<sup>1</sup> Jede Fachmittelschule verfügt über ein vom Kanton oder von mehreren Kantonen erlassenes oder genehmigtes Reglement, das insbesondere die Modalitäten für die Erteilung des Fachmittelschulausweises und des Fachmaturitätszeugnisses sowie die Rechtsmittel enthält.
+
+### A. Fachmittelschulausweis
+
+#### Art. 16
+
+**Abschluss mit Fachmittelschulausweis**
+
+<sup>1</sup> Der Abschluss mit Fachmittelschulausweis umfasst mindestens neun Noten, nämlich in:
+
+- a) einer ersten Landessprache;
+- b) einer zweiten Landessprache;
+- c) einer dritten Sprache;
+- d) Mathematik;
+- e) einem weiteren Fach oder integrierten Fach aus dem Lernbereich Mathematik, Naturwissenschaften, Informatik;
+- f) einem Fach oder integrierten Fach aus dem Lernbereich Geistes- und Sozialwissenschaften;
+- g) einem Fach oder integrierten Fach aus den beiden Lernbereichen Musische Fächer und Sport;
+- h) einem berufsfeldbezogenen Fach gemäss gewähltem Berufsfeld, welches nicht identisch ist mit den Fächern nach Bst. a bis g, und
+- i) einer selbstständigen Arbeit.
+
+#### Art. 17
+
+**Selbstständige Arbeit**
+
+<sup>1</sup> Im Rahmen der selbstständigen Arbeit sollen die Schülerinnen und Schüler nachweisen, dass sie fähig sind, eine anspruchsvolle Aufgabenstellung aus den Lernbereichen der Allgemeinbildung oder aus dem berufsfeldbezogenen Bereich selbstständig zu lösen und zu präsentieren.
+
+<sup>2</sup> Das Verfassen der selbstständigen Arbeit und die Präsentation erfolgen innerhalb eines klar definierten Zeitraums und werden von einer oder mehreren Lehrpersonen begleitet.
+
+#### Art. 18
+
+**Abschlussprüfung**
+
+<sup>1</sup> Geprüft werden mindestens sechs Fächer, nämlich:
+
+- a) eine erste Landessprache;
+- b) eine zweite Landes- oder eine Fremdsprache;
+- c) Mathematik;
+- d) ein berufsfeldbezogenes Fach sowie
+- e) zwei weitere Fächer, wovon eines ein weiteres berufsfeldbezogenes Fach sein kann.
+
+<sup>2</sup> Die Prüfung wird in der ersten Landessprache und einer Fremdsprache schriftlich und mündlich, in Mathematik mindestens schriftlich, in den übrigen Fächern mindestens schriftlich oder mündlich oder praktisch durchgeführt.
+
+#### Art. 19
+
+**Bewertung**
+
+<sup>1</sup> In den Fächern, in welchen eine Abschlussprüfung abgelegt wird, entspricht die Note dem arithmetischen Mittel aus Erfahrungsnote und Prüfungsnote. In allen anderen Fächern entspricht sie der Erfahrungsnote.
+
+<sup>2</sup> Die Erfahrungsnote ergibt sich aufgrund der Leistungen des letzten Jahres, in welchem das jeweilige Fach unterrichtet worden ist.
+
+<sup>3</sup> Die Prüfungsnote entspricht der Note der Abschlussprüfung; in Fächern, in denen die Abschlussprüfung aus mehreren Teilen besteht, ergibt sich die Prüfungsnote aus dem arithmetischen Mittel der Teilnoten.
+
+<sup>4</sup> Im Fachmittelschulausweis werden die Leistungen in den Fächern nach [Art. 16](https://www.gesetzessammlung.sg.ch/data/230.312/de/art16) in ganzen und halben Noten ausgedrückt. 6 ist die höchste, 1 die tiefste Note. Noten unter 4 stehen für ungenügende Leistungen.
+
+#### Art. 20
+
+**Anrechnung bereits erbrachter Lernleistungen in den Ausbildungen an Fachmittelschulen für Erwachsene**
+
+<sup>1</sup> Wer in einem Fach über die erforderlichen Kenntnisse und Fähigkeiten verfügt, kann sowohl vom entsprechenden Unterricht wie auch von den entsprechenden Abschlussprüfungen dispensiert werden. In diesen Fällen wird im Semesterzeugnis der Vermerk «dispensiert», im Fachmittelschulausweis der Vermerk «erfüllt» angebracht.
+
+#### Art. 21
+
+**Bestehen des Abschlusses**
+
+<sup>1</sup> Der Fachmittelschulausweis wird erteilt, wenn gleichzeitig:
+
+- a) der Durchschnitt aus allen Fachnoten mindestens 4,0 erreicht;
+- b) höchstens drei Fachnoten ungenügend sind und
+- c) die Summe der Notenabweichungen von 4,0 nach unten nicht mehr als 2,0 Punkte beträgt.
+
+<sup>2</sup> An Fachmittelschulen für Erwachsene werden die Vermerke nach [Art. 20](https://www.gesetzessammlung.sg.ch/data/230.312/de/art20) für die Erteilung des Fachmittelschulausweises nicht mitberechnet.
+
+#### Art. 22
+
+**Fachmittelschulausweis**
+
+<sup>1</sup> Der Fachmittelschulausweis enthält:
+
+- a) die Bezeichnung der Schule und des Sitzkantons der Schule;
+- b) die persönlichen Angaben der Absolventin oder des Absolventen;
+- c) den Vermerk «gesamtschweizerisch anerkannter Fachmittelschulausweis»;
+- d) die Bezeichnung des Berufsfeldes beziehungsweise der Berufsfelder;
+- e) die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
+- f) die Bestätigung und Bewertung der berufsfeldbezogenen Fächer;
+- g) das Thema und die Bewertung der selbstständigen Arbeit;
+- h) gegebenenfalls einen Hinweis auf die Zweisprachigkeit des Ausweises mit Angabe der zweiten Sprache und der Fächer;
+- i) die Unterschrift der Schulleitung und der zuständigen kantonalen Behörde sowie
+- j) den Ort und das Datum.
+
+### B. Fachmaturitätszeugnis
+
+#### Art. 23
+
+**Abschluss mit Fachmaturitätszeugnis**
+
+<sup>1</sup> Der Abschluss mit Fachmaturitätszeugnis umfasst:
+
+- a) den Fachmittelschulausweis in Allgemeinbildung mit gewähltem Berufsfeld;
+- b) die zusätzlichen Leistungen im gewählten Berufsfeld nach [Art. 24](https://www.gesetzessammlung.sg.ch/data/230.312/de/art24) und
+- c) eine eigenständige Fachmaturitätsarbeit im gewählten Berufsfeld in Form einer spezifischen Arbeit aus dem Bereich der zusätzlichen Leistungen, die schriftlich oder praktisch vorzulegen und schriftlich oder mündlich zu verteidigen ist.
+
+<sup>2</sup> Die zusätzlichen Leistungen zum Fachmittelschulausweis nach Abs. 1 Bst. b sind nicht Teil der dreijährigen Ausbildung; für die Berufsfelder Gestaltung und Kunst sowie Musik und Theater ist bei Vorliegen einer ausserordentlichen künstlerischen Begabung eine abweichende Regelung zulässig.
+
+<sup>3</sup> Zusätzliche Leistungen müssen nachweisbar und nachvollziehbar sein; die Begleitung und Validierung dieser Leistungen obliegt der Trägerschaft der Fachmittelschulen in Zusammenarbeit mit den für die zusätzlichen Leistungen zuständigen Institutionen.
+
+#### Art. 24
+
+**Zusätzliche Leistungen für die Fachmaturität**
+
+<sup>1</sup> Die zusätzlichen Leistungen in den Berufsfeldern Gesundheit beziehungsweise Gesundheit/Naturwissenschaften, Soziale Arbeit, Kommunikation und Information sowie Gestaltung und Kunst umfassen mindestens 24 Wochen anerkannte und validierte Praxis in einer Institution des gewählten Berufsfeldes beziehungsweise in begründeten Fällen eine gleichwertige Tätigkeit sowie mindestens acht Wochen zur Vorbereitung, Begleitung und Auswertung des Praktikums sowie zum Verfassen der Fachmaturitätsarbeit.
+
+<sup>2</sup> Im Berufsfeld Kommunikation und Information sind zu den Leistungen nach Abs. 1 fortgeschrittene Sprachkenntnisse in mindestens zwei Fremdsprachen (Niveau B2 in Deutsch, Französisch, Italienisch, Spanisch oder Englisch) sowie ein mehrwöchiger Sprachaufenthalt nachzuweisen.
+
+<sup>3</sup> Die zusätzlichen Leistungen im Berufsfeld Musik und Theater umfassen 120 Lektionen Instrumental-, Gesangs- oder Theaterunterricht oder das erfolgreiche Absolvieren des jeweiligen Vorkurses.
+
+<sup>4</sup> Die zusätzlichen Leistungen im Berufsfeld Pädagogik umfassen Unterricht in den Fächern Erstsprache, zweite Sprache, Mathematik, Naturwissenschaften sowie Geistes- und Sozialwissenschaften. Sie schliessen mit einer Prüfung ab, zu deren Zulassung das Verfassen und erfolgreiche Präsentieren einer Fachmaturitätsarbeit Voraussetzung ist. Das Nähere zu den zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik wird in Richtlinien im Anhang geregelt.
+
+#### Art. 25
+
+**Bestehen der Fachmaturität**
+
+<sup>1</sup> Die Fachmaturität ist bestanden, wenn der Fachmittelschulausweis vorliegt und die zusätzlichen Leistungen sowie die Fachmaturitätsarbeit mindestens mit «genügend» bewertet werden.
+
+#### Art. 26
+
+**Fachmaturitätszeugnis**
+
+<sup>1</sup> Das Fachmaturitätszeugnis enthält:
+
+- a) die Bezeichnung der Schule und des Sitzkantons der Schule;
+- b) die persönlichen Angaben der Absolventin oder des Absolventen;
+- c) den Vermerk «gesamtschweizerisch anerkanntes Fachmaturitätszeugnis»;
+- d) die Bezeichnung des Berufsfeldes;
+- e) die Bestätigung und Bewertung der Fächer der Allgemeinbildung;
+- f) die Bestätigung und Bewertung der berufsfeldbezogenen Fächer;
+- g) die Bestätigung von Thema und Bewertung der selbstständigen Arbeit;
+- h) die Bestätigung und Beurteilung der zusätzlichen Leistungen für die Fachmaturität;
+- i) das Thema und die Beurteilung der Fachmaturitätsarbeit;
+- j) gegebenenfalls einen Hinweis auf die Zweisprachigkeit der Maturität mit Angabe der zweiten Sprache und der Fächer;
+- k) die Unterschrift der Schulleitung und der zuständigen kantonalen Behörde sowie
+- l) den Ort und das Datum.
+
+<sup>2</sup> Zuständig für die Erteilung des Fachmaturitätszeugnisses ist die ausbildende Fachmittelschule.
+
+## III. Anerkennungsverfahren
+
+#### Art. 27
+
+**Anerkennungskommission**
+
+<sup>1</sup> Der Vorstand der EDK setzt zur Begutachtung der Gesuche um Anerkennung und zur Überprüfung von Ausbildungsgängen eine Anerkennungskommission ein. Die drei Sprachregionen müssen angemessen vertreten sein.
+
+<sup>2</sup> Das Generalsekretariat der EDK amtet als Geschäftsstelle.
+
+#### Art. 28
+
+**Verfahren**
+
+<sup>1</sup> Die Anerkennungskommission überprüft einen Ausbildungsgang auf Gesuch eines oder mehrerer Kantone und stellt dem Vorstand der EDK nach Massgabe des Überprüfungsergebnisses Antrag.
+
+<sup>2</sup> Sie kann im Rahmen des Überprüfungsverfahrens dem Unterricht und den Prüfungen beiwohnen.
+
+<sup>3</sup> Der Vorstand entscheidet über die Anerkennung und allfällige Auflagen oder die Nichtanerkennung eines Fachmittelschulabschlusses. Er entzieht die Anerkennung, sofern die Voraussetzungen dafür nicht mehr gegeben sind.
+
+<sup>4</sup> Werden an anerkannten Ausbildungsgängen Änderungen vorgenommen, die im Hinblick auf die Anerkennungsvoraussetzungen relevant sind, sind diese der Anerkennungskommission mitzuteilen. Wesentliche Änderungen führen zu einer Überprüfung der Voraussetzungen für die Anerkennung des Ausbildungsgangs.
+
+<sup>5</sup> Der Trägerkanton oder die Trägerkantone werden von der Anerkennungskommission spätestens zehn Jahre nach der Anerkennung aufgefordert, ein Dossier zur Überprüfung der Voraussetzungen für die Anerkennung des Ausbildungsgangs einzureichen. Der Vorstand entscheidet über die Bestätigung der Anerkennung.
+
+#### Art. 29
+
+**Schulversuche**
+
+<sup>1</sup> Die Anerkennungskommission kann Abweichungen von den Bestimmungen des vorliegenden Reglements gestatten, um den Schulen zeitlich befristete Schulversuche zu ermöglichen.
+
+#### Art. 30
+
+**Verzeichnis**
+
+<sup>1</sup> Die EDK führt ein Verzeichnis der anerkannten Fachmittelschulausweise und Fachmaturitätszeugnisse.
+
+## IV. Schlussbestimmungen
+
+#### Art. 31
+
+**Rechtsschutz**
+
+<sup>1</sup> Gegen Entscheide der Anerkennungsbehörde steht den Kantonen als Rechtsmittel die Klage nach [Art. 120](https://db.clex.ch/link/Bund/173.110/de) des Bundesgesetzes über das Bundesgericht[^31-1] zur Verfügung.
+
+[^31-1]: SR [173.110](https://db.clex.ch/link/Bund/173.110/de).
+
+#### Art. 32
+
+**Hängige Verfahren**
+
+<sup>1</sup> Verfahren, die bei Inkrafttreten dieses Reglements hängig sind, werden nach altem Recht abgeschlossen.
+
+#### Art. 33
+
+**Anerkennungen nach bisherigem Recht**
+
+<sup>1</sup> Nach bisherigem Recht ausgesprochene Anerkennungen bleiben bestehen und gelten auch nach neuem Recht.
+
+<sup>2</sup> Die Überprüfung entsprechender Ausbildungsgänge nach [Art. 28](https://www.gesetzessammlung.sg.ch/data/230.312/de/art28) Abs. 4 und 5 erfolgt nach neuem Recht. In jedem Fall stellen der Trägerkanton beziehungsweise die Trägerkantone sicher, dass die Ausbildungsgänge bis spätestens zum 1. August 2023[^33-1] an das neue Recht angepasst sind.
+
+[^33-1]: Änderung vom 25. Juni 2020, sofort in Kraft getreten.
+
+#### Art. 34
+
+**[^34-1]**
+
+[^34-1]: Die Aufhebung bisherigen Rechts wird nicht aufgeführt.
+
+#### Art. 35
+
+**[^35-1]**
+
+[^35-1]: Der Vollzugsbeginn wird nicht aufgeführt.
+
+nGS 2026-031
