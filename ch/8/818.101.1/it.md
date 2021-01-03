@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2020-11-19
+version: 2021-01-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20201119/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20201119-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210104/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210104-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 19 novembre 2020) (Stato 19 novembre 2020)
+del 29 aprile 2015 (Stato 4 gennaio 2021) (Stato 4 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -825,6 +825,62 @@ Possono essere considerati con priorità in particolare:
 <sup>1</sup> La Confederazione si assume i costi della fornitura degli agenti terapeutici di cui all’articolo 60 ai Cantoni.
 
 <sup>2</sup> I Cantoni si assumono i costi della distribuzione al loro interno.
+
+#### Art. 64a
+
+[^64a-1]
+
+[^64a-1]: In vigore il 1° feb. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+
+#### Art. 64b
+
+[^64b-1]
+
+[^64b-1]: In vigore il 1° feb. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+
+#### Art. 64c
+
+**Assunzione dei costi delle vaccinazioni anti-COVID-19 effettuate su persone senza assicurazione malattie secondo la LAMal o la LAM**[^64c-1]
+
+<sup>1</sup>
+
+La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate sulle seguenti persone:
+
+- a. persone che hanno domicilio o dimora abituale in Svizzera;
+- b. persone che esercitano un’attività lucrativa in Svizzera come frontalieri e a causa della loro attività sono soggette a un rischio di esposizione a microrganismi.
+
+<sup>2</sup>
+
+Assume i costi soltanto se le persone di cui al capoverso 1:
+
+- a. non sono assicurate contro le malattie né secondo l’articolo 3 LAMal[^64c-2] né secondo la LAM[^64c-3]; e
+- b. appartengono a un gruppo target secondo la strategia di vaccinazione anti-COVID-19 della CFV e dell’UFSP del 16 dicembre 2020[^64c-4].
+
+<sup>3</sup>
+
+Assume i costi soltanto se i fornitori di prestazioni:
+
+- a. sono stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
+- b. adempiono le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
+
+<sup>4</sup> Assume un importo forfettario di 14,50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.
+
+<sup>5</sup>
+
+Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni fornite in relazione alla vaccinazione, segnatamente:
+
+- a. la somministrazione del vaccino;
+- b. la verifica dello stato vaccinale e l’anamnesi vaccinale;
+- c. la verifica delle controindicazioni;
+- d. la documentazione;
+- e. il rilascio dell’attestato di vaccinazione.
+
+<sup>6</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
+
+[^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021, in vigore dal 4 gen. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64c-4]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19.
 
 ### Sezione 3: Trasporto di merci
 

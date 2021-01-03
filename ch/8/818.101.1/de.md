@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2020-11-19
+version: 2021-01-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20201119/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20201119-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210104/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210104-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 19. November 2020)
+vom 29. April 2015 (Stand am 4. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -825,6 +825,62 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 <sup>1</sup> Der Bund trägt die Kosten für die Lieferung der Heilmittel nach Artikel 60 an die Kantone.
 
 <sup>2</sup> Die Kantone tragen die Kosten für die Weiterverteilung innerhalb des Kantons.
+
+#### Art. 64a und 64b
+
+[^64a64b-1]
+
+[^64a64b-1]: Treten am 1. Febr. 2021 in Kraft ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+
+#### Art. 64c
+
+**Übernahme der Kosten von Covid-19-Impfungen bei Personen ohne Krankenversicherung nach dem KVG oder nach dem MVG**[^64c-1]
+
+<sup>1</sup>
+
+Der Bund übernimmt die Kosten von Covid-19-Impfungen, die bei den folgenden Personen durchgeführt werden:
+
+- a. Personen, die ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben;
+- b. Personen, die in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind und durch ihre Tätigkeit einer Gefährdung durch Mikroorganismen ausgesetzt sind.
+
+<sup>2</sup>
+
+Er übernimmt die Kosten nur, wenn die Personen nach Absatz 1:
+
+- a. weder nach Artikel 3 KVG[^64c-2] noch nach dem MVG[^64c-3] gegen Krankheit versichert sind; und
+- b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der EKIF und des BAG vom 16. Dezember 2020[^64c-4] angehören.
+
+<sup>3</sup>
+
+Er übernimmt die Kosten nur, wenn die Leistungserbringer:
+
+- a. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sind; und
+- b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
+
+<sup>4</sup>
+
+Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
+
+- a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
+- b. Fr. 24.50 für Impfungen in Arztpraxen.[^64c-5]
+
+<sup>5</sup>
+
+Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
+
+- a. die Verabreichung der Impfung;
+- b. die Überprüfung des Impfstatus und die Impfanamnese;
+- c. die Überprüfung von Kontraindikationen;
+- d. die Dokumentation;
+- e. die Ausstellung der Impfbescheinigung.
+
+<sup>6</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
+
+[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64c-4]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64c-5]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 ### 3. Abschnitt: Warenverkehr
 

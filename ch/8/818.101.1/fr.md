@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2020-11-19
+version: 2021-01-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20201119/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20201119-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210104/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210104-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20201119/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 19 novembre 2020)
+du 29 avril 2015 (Etat le 4 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -265,7 +265,7 @@ L’OFSP fournit aux cantons qui le demandent un soutien dans l’exécution des
 L’OFSP peut effectuer lui-même des enquêtes épidémiologiques, notamment:
 
 - a. dans une situation particulière, en vue d’ordonner des mesures visée aux art. 33 à 38 et 40 LEp;
-- b. lorsque la coordination supracantonale des mesures de prévention et de lutte est nécessaire; ou
+- b. lorsque la coordination supracantonale des mesures de prévention et de lutte est nécessaire, ou
 - c. lorsque des mesures visant le transport international de personnes l’exigent.
 
 <sup>2</sup> Il informe les médecins cantonaux de ses enquêtes épidémiologiques, en particulier des résultats obtenus et des mesures prises.
@@ -366,7 +366,7 @@ L’OFSP peut confier certaines tâches visées à l’art. 23 aux laboratoires 
 
 Afin de réduire le risque de transmission de toutes les formes de la maladie de Creutzfeldt-Jakob, les hôpitaux et les cliniques sont tenus, avant chaque utilisation de dispositifs médicaux invasifs réutilisables devant être utilisés à l’état stérile, en particulier les instruments chirurgicaux, de:
 
-- a. les décontaminer et les désinfecter selon l’état des connaissances scientifiques et conformément aux instructions du fabricant; et de
+- a. les décontaminer et les désinfecter selon l’état des connaissances scientifiques et conformément aux instructions du fabricant, et de
 - b. les stériliser à 134 ºC sous pression de vapeur saturée durant 18 minutes.
 
 <sup>2</sup> Les dispositifs médicaux qui, selon les données du fabricant, peuvent être endommagés par la procédure de stérilisation, ne pourront pas être réutilisés s’ils peuvent être remplacés par des dispositifs médicaux comparables qui résistent à cette procédure.
@@ -385,7 +385,7 @@ Toute transplantation hétérologue de dure-mère d’origine humaine est interd
 
 Quiconque exploite une entreprise qui propose des prestations sexuelles contre rémunération ou organise des manifestations au cours desquelles des contacts sexuels sont proposés ou rendus possibles est tenu de mettre à disposition gratuitement, pour prévenir la transmission du VIH/sida et d’autres maladies sexuellement transmissibles:
 
-- a. du matériel d’information approprié; et
+- a. du matériel d’information approprié, et
 - b. des préservatifs et des lubrifiants solubles à l’eau.
 
 #### Art. 28
@@ -576,7 +576,7 @@ Les médecins qui administrent le vaccin contre la fièvre jaune doivent posséd
 
 L’autorisation est accordée à tout médecin qui:
 
-- a. est titulaire d’un diplôme fédéral ou d’un diplôme étranger reconnu de médecin selon la loi du 23 juin 2006 sur les professions médicales (LPMéd)[^42-1]; et
+- a. est titulaire d’un diplôme fédéral ou d’un diplôme étranger reconnu de médecin selon la loi du 23 juin 2006 sur les professions médicales (LPMéd)[^42-1], et
 - b. possède un titre postgrade fédéral ou un titre postgrade étranger reconnu en médecine tropicale et médecine des voyages selon la LPMéd.
 
 [^42-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
@@ -588,7 +588,7 @@ L’autorisation est accordée à tout médecin qui:
 Afin d’assurer une disponibilité régionale suffisante de la vaccination contre la fièvre jaune, l’OFSP peut également accorder une autorisation à des médecins qui:
 
 - a. ont suivi une formation en médecine tropicale de trois mois au moins et qui possèdent un diplôme correspondant;
-- b. peuvent se prévaloir d’une expérience professionnelle d’une année au moins dans un service reconnu par la Société Suisse de Médecine Tropicale et de Médecine des Voyages FMH, dont au moins six mois dans un centre de vaccinations pour voyageurs; et
+- b. peuvent se prévaloir d’une expérience professionnelle d’une année au moins dans un service reconnu par la Société Suisse de Médecine Tropicale et de Médecine des Voyages FMH, dont au moins six mois dans un centre de vaccinations pour voyageurs, et
 - c. peuvent attester d’une participation régulière à des formations continues en médecine tropicale et en médecine des voyages reconnues par la Société Suisse de Médecine Tropicale et de Médecine des Voyages FMH.
 
 #### Art. 44
@@ -830,6 +830,56 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 <sup>2</sup> Les cantons assument les coûts de redistribution à l’intérieur de leur territoire.
 
+#### Art. 64a et 64b
+
+[^64a64b-1]
+
+[^64a64b-1]: Entrent en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+
+#### Art. 64c
+
+**Prise en charge des coûts des vaccinations contre le COVID-19 pour les personnes sans assurance-maladie selon la LAMal ou la LAM**[^64c-1]
+
+<sup>1</sup>
+
+La Confédération prend en charge les coûts des vaccinations contre le COVID-19 qui sont effectuées pour les personnes qui:
+
+- a. ont leur domicile ou leur résidence habituelle en Suisse;
+- b. exercent une activité lucrative en tant que frontaliers en Suisse et qui sont exposées à des microorganismes en raison de leur activité professionnelle.
+
+<sup>2</sup>
+
+Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes:
+
+- a. qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal[^64c-2], ni conformément à la LAM[^64c-3], et
+- b. qui font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020[^64c-4] par la CFV et l’OFSP.
+
+<sup>3</sup>
+
+Elle prend en charge les coûts uniquement si les fournisseurs de prestations:
+
+- a. sont mandatés par le canton pour effectuer les vaccinations contre le COVID-19, et
+- b. remplissent les exigences du canton concernant l’utilisation du logiciel indiqué pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
+
+<sup>4</sup> Elle prend en charge un forfait de 14 fr. 50 par vaccination effectuée au titre de l’al. 1.
+
+<sup>5</sup>
+
+Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la vaccination, à savoir:
+
+- a. l’administration du vaccin;
+- b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
+- c. le contrôle des contre-indications;
+- d. la documentation;
+- e. la délivrance de l’attestation de vaccination.
+
+<sup>6</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
+
+[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64c-4]: Consultable sous www.ofsp.admin.ch &gt; Maladies&gt; Maladies infectieuses : Flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+
 ### Section 3 Transport de marchandises
 
 #### Art. 65
@@ -965,7 +1015,7 @@ La requête doit être accompagnée des pièces suivantes:
 
 Toute personne qui exerce la charge de médecin cantonal dans le cadre des tâches prévues par la loi sur les épidémies doit disposer:
 
-- a. d’un diplôme fédéral ou d’un diplôme étranger reconnu de médecin selon la LPMéd[^77-1]; et
+- a. d’un diplôme fédéral ou d’un diplôme étranger reconnu de médecin selon la LPMéd[^77-1], et
 - b. d’un titre postgrade fédéral, d’un titre postgrade étranger reconnu selon la LPMéd ou d’une formation postgrade équivalente.
 
 [^77-1]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
