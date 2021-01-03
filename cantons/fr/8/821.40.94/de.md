@@ -4,13 +4,13 @@ number: "821.40.94"
 title: "Ausführungsverordnung zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Bars, Discos und Restaurants»)"
 short: KWPV-Gastro-COVID-19
 language: de
-version: 2020-12-22
-valid_until: 2021-01-03
-version_adopted: 2020-12-22
+version: 2021-01-04
+valid_until: 2021-01-12
+version_adopted: 2020-12-14
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.94"
-pdf: "https://bdlf.fr.ch/api/de/versions/6709/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Wiederankurbelungsplan – Bars, Discos und Restaurants – V
 
 (KWPV-Gastro-COVID-19)
 
-vom 24.11.2020 (Fassung in Kraft getreten am 22.12.2020)
+vom 24.11.2020 (Fassung in Kraft getreten am 04.01.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -95,7 +95,7 @@ beschliesst:
 
 <sup>2</sup> Keinen Beitrag gestützt auf diese Verordnung erhalten öffentliche Gaststätten im Sinne von Absatz 1:
 
-- a) deren Eigentümer oder Mieter-Betreiber öffentliche Körperschaften sind;
+- a) deren Betreiber öffentliche Körperschaften sind;
 - b) die gestützt auf die Verordnung vom 14. April 2020 über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Tourismusbereich (WMT-COVID-19) bereits einen Beitrag zu 100 % erhalten haben;
 - c) die gestützt auf die Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle (WMHV-COVID-19) einen Beitrag erhalten oder erhalten haben.
 

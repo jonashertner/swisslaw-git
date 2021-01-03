@@ -4,13 +4,13 @@ number: "821.40.94"
 title: "Ordonnance d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Bars, discothèques et restaurants»)"
 short: OPCR-Gastro COVID-19
 language: fr
-version: 2020-12-22
-valid_until: 2021-01-03
-version_adopted: 2020-12-22
+version: 2021-01-04
+valid_until: 2021-01-12
+version_adopted: 2020-12-14
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.94"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6709/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6710/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, plan de relance – Bars, discothèques et restaurants – O
 
 (OPCR-Gastro COVID-19)
 
-du 24.11.2020 (version entrée en vigueur le 22.12.2020)
+du 24.11.2020 (version entrée en vigueur le 04.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -95,7 +95,7 @@ Arrête:
 
 <sup>2</sup> L'aide prévue par la présente ordonnance est exclue pour les établissements publics au sens de l'alinéa 1 du présent article:
 
-- a) dont les propriétaires ou locataires-exploitants sont des collectivités publiques;
+- a) dont les exploitants sont des collectivités publiques;
 - b) qui ont déjà bénéficié d'une aide de 100 % sur la base de l'ordonnance du 14 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine du tourisme (MET COVID-19);
 - c) qui ont bénéficié ou bénéficient d'une aide sur la base de l'ordonnance du 16 novembre 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur (OMECR COVID-19).
 
