@@ -5,12 +5,12 @@ title: Ermächtigungsverordnung
 short: ErmV
 language: de
 version: 2021-01-01
-corrected: 2020-12-23
+corrected: 2021-01-04
 version_adopted: 2020-12-15
 adopted: 2011-01-04
 in_force: 2011-02-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.41"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3066/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3067/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
