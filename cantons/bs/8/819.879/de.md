@@ -4,13 +4,13 @@ number: "819.879"
 title: Verordnung betreffend Unterstützungsprogramm insbesondere für Hotellerie und Gastronomie
 short: COVID-19-Verordnung Unterstützung Hotellerie Gastronomie
 language: de
-version: 2020-12-09
-valid_until: 2021-01-05
-version_adopted: 2020-12-08
+version: 2021-01-06
+valid_until: 2021-01-26
+version_adopted: 2021-01-05
 adopted: 2021-04-20
 in_force: 2021-04-21
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/819.879"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5108/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 Unterstützung Hotellerie Gastronomie: Verordnung | Arbeitsmarkt und Ar
 
 (COVID-19-Verordnung Unterstützung Hotellerie Gastronomie)
 
-Vom 27. Oktober 2020 (Stand 9. Dezember 2020)
+Vom 27. Oktober 2020 (Stand 6. Januar 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -64,6 +64,10 @@ beschliesst:
 <sup>9</sup> Beitragsberechtigt sind professionelle Kongressorganisationsunternehmen, welche regelmässig wissenschaftliche oder fachbezogene Veranstaltungen mit mindestens 50 Teilnehmerinnen und Teilnehmern planen oder durchführen und mehrwertsteuerpflichtig sind.
 
 <sup>10</sup> Beitragsberechtigt sind Messeunternehmen, Messebau- und Standbauunternehmen sowie Media- und Eventtechnikunternehmen, die mindestens 80 % ihres Umsatzes im Ausstellungs- und Veranstaltungsbereich erzielen und mehrwertsteuerpflichtig sind.
+
+<sup>11</sup> Beitragsberechtigt sind Unternehmen, die einen überwiegenden Teil des Umsatzes aus dem Verkauf ihrer Produktion an Gastronomie- oder Hotelbetriebe in Basel-Stadt erzielen und mehrwertsteuerpflichtig sind. Ebenfalls beitragsberechtigt sind Unternehmen, welche Dienstleistungen anbieten, die nur unter Einsatz ortsfester Maschinen oder Anlagen erfolgen können (wie namentlich Wäschereibetriebe), sofern sie einen überwiegenden Teil ihres Umsatzes aus Leistungen an Gastronomie- oder Hotelbetriebe in Basel-Stadt erzielen und mehrwertsteuerpflichtig sind.
+
+<sup>12</sup> Beitragsberechtigt sind Unternehmen, die Einrichtungen zur Durchführung von Freizeitaktivitäten (wie beispielsweise Fitnessstudios, Tanzstudios, Kletterhallen, Escaperooms etc.) betreiben und mehrwertsteuerpflichtig sind.
 
 #### § 3
 
