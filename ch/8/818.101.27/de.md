@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 2. Juli 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: de
-version: 2020-12-28
+version: 2021-01-07
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20201228/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20201228-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210107/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210107-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210107/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 2. Juli 2020 (Stand am 28. Dezember 2020)
+vom 2. Juli 2020 (Stand am 7. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -137,19 +137,16 @@ Anhang*[^t-1]*
 
 (Art. 3 Abs. 2)
 
-## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko
+## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko****
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 18. Dez. 2020 ([AS 2020 6285](https://fedlex.data.admin.ch/eli/oc/2020/1030)). Bereinigt gemäss Ziff. II der V vom 21. Dez. 2020 (Aufnahme Vereinigtes Königreich und Südafrika), in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6399](https://fedlex.data.admin.ch/eli/oc/2020/1047)).
+[^annexu1-lvlu1-1]
 
-### 1. Staaten und Gebiete****
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 6. Jan. 2021, in Kraft seit 7. Jan. 2021 ([AS 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)).
+[^annexu1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
-[^annexu1-lvlu1-lvl1-1]
-
-[^annexu1-lvlu1-lvl1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
+### 1. Staaten und Gebiete
 
 Andorra
-
-Belize
 
 Georgien
 
@@ -179,7 +176,6 @@ Gebiete in Deutschland:
 
 Gebiete in Italien:
 
-- – Region Friaul / Julisch Venetien
 - – Region Venetien
 
 ### 3. Staaten und Gebiete nach Artikel 3 Absatz 1 Buchstabe d

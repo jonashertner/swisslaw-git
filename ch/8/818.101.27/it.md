@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 2 luglio 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: it
-version: 2020-12-28
+version: 2021-01-07
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20201228/it/xml/fedlex-data-admin-ch-eli-cc-2020-496-20201228-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210107/it/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210107-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210107/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 2 luglio 202 (Stato 28 dicembre 2020) (Stato 28 dicembre 2020)
+del 2 luglio 2020 (Stato 7 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -137,19 +137,16 @@ Allegato*[^t-1]*
 
 (art. 3 cpv. 2)
 
-## Elenco degli Stati e delle regioni con rischio elevato di contagio
+## Elenco degli Stati e delle regioni con rischio elevato di contagio****
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI dell’O del 18 dic. 2020, aggiornato dal n. II dell’O del 21 dic. 2020 (Inserimento di Regno Unito e Sudafrica ([RU 2020 6399](https://fedlex.data.admin.ch/eli/oc/2020/1047)) e in vigore dal 28 dic. 2020 ([RU 2020 6285](https://fedlex.data.admin.ch/eli/oc/2020/1030)).
+[^annexu1-lvlu1-1]
 
-### 1. Stati e regioni****
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 6 gen. 2021, in vigore dal 7 gen. 2021 ([RU 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)).
+[^annexu1-lvlu1-1]: Legenda dell’elenco: uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
-[^annexu1-lvlu1-lvl1-1]
-
-[^annexu1-lvlu1-lvl1-1]: Legenda dell’elenco: uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
+### 1. Stati e regioni
 
 Andorra
-
-Belize
 
 Croazia
 
@@ -179,7 +176,6 @@ Regioni in Germania:
 
 Regioni in Italia:
 
-- – Regione Friuli Venezia Giulia
 - – Regione Veneto
 
 ### 3. Stati e regioni secondo l’articolo 3 capoverso 1 lettera d

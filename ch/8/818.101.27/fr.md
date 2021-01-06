@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 2 juillet 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: fr
-version: 2020-12-28
+version: 2021-01-07
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20201228/fr/xml/fedlex-data-admin-ch-eli-cc-2020-496-20201228-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210107/fr/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210107-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210107/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20201228/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 2 juillet 2020 (Etat le 28 décembre 2020)
+du 2 juillet 2020 (Etat le 7 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -137,19 +137,16 @@ Annexe*[^t-1]*
 
 (art. 3, al. 2)
 
-## Liste des États et zones présentant un risque élevé d’infection
+## Liste des États et zones présentant un risque élevé d’infection****
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 déc. 2020, mise à jour par le ch. II de l’O du 21 déc. 2020 (Royaume-Uni et Afrique du Sud) ([RO 2020 6399](https://fedlex.data.admin.ch/eli/oc/2020/1047)) et en vigueur depuis le 28 déc. 2020 ([RO 2020 6285](https://fedlex.data.admin.ch/eli/oc/2020/1030)).
+[^annexu1-lvlu1-1]
 
-### 1. États et zones****
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 janv. 2021, en vigueur depuis le 7 janv. 2021 ([RO 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)).
+[^annexu1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
-[^annexu1-lvlu1-lvl1-1]
-
-[^annexu1-lvlu1-lvl1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
+### 1. États et zones
 
 Andorre
-
-Belize
 
 Croatie
 
@@ -179,7 +176,6 @@ Zones en Allemagne:
 
 Zones en Italie:
 
-- – Regione Friuli Venezia Giulia
 - – Regione Veneto
 
 ### 3. États et zones au sens de l’art. 3, al. 1, let. d
