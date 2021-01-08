@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2020-12-27
-valid_until: 2021-01-08
-version_adopted: 2020-12-22
+version: 2021-01-09
+valid_until: 2021-01-18
+version_adopted: 2021-01-06
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6707/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6718/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6707/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 27.12.2020)
+du 10.11.2020 (version entrée en vigueur le 09.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -110,7 +110,7 @@ Arrête:
 
 <sup>3</sup> Les responsables d'établissements publics (restaurants et bars) autorisés au sens de l'article 5a al. 2 let. b, c et d de l'ordonnance fédérale COVID-19 situation particulière assurent une traçabilité individuelle des personnes présentes. Ils utilisent à cet effet un système de traçage simple et sécurisé enregistrant par voie électronique, en plus des données prévues par le droit fédéral, l'heure d'entrée et l'heure de sortie de chaque personne par un point de passage unique et contrôlé. Une solution alternative est proposée pour les personnes ne disposant pas des moyens techniques permettant ce type de traçage.
 
-<sup>4</sup> Les cantines d'entreprises, des cycles d'orientation et des établissements de formation post-obligatoire sont soumises aux règles des alinéas 2 et 3.
+<sup>4</sup> Les cantines d'entreprises, des cycles d'orientation et des établissements du secondaire II sont soumises aux règles des alinéas 2 et 3.
 
 <sup>5</sup> Les modalités de la mise en œuvre de la collecte des données peuvent être précisées par voie d'ordonnance de la Direction de la santé et des affaires sociales ou de la Direction de la sécurité et de la justice, conformément à l'article 5 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration.
 
@@ -126,25 +126,25 @@ Arrête:
 - d) les installations sportives en plein air, sous réserve de l'article 3b al. 2;
 - e) les domaines skiables, sous réserve des règles de l'ordonnance fédérale COVID-19 situation particulière;
 - f) les institutions de santé et les locaux où exercent les professionnels de la santé au sens des droits fédéral et cantonal, comme notamment les cabinets médicaux et dentaires, les cabinets vétérinaires, les laboratoires médicaux, les cabinets de chiropraticiens, de physiothérapeutes, d'ostéopathes, de podologues, d'ergothérapeutes, de diététiciens, de logopédistes, de psychologues et de sages-femmes;
-- g) les bibliothèques, uniquement pour la consultation d'ouvrages et le prêt d'ouvrages pour les étudiants et étudiantes;
+- g) les bibliothèques et les ludothèques, uniquement pour le prêt; l'accès aux salles de lecture des bibliothèques est autorisé pour les étudiants et étudiantes et les chercheurs et chercheuses de l'institution abritant la bibliothèque;
 - h) les hôtels et les établissements parahôteliers, à l'exclusion des hébergements collectifs;
 - i) les services à emporter et de livraison;
-- j) les musées et les galeries d'art, moyennant le respect d'un espace de 10 m² par personne;
+- j) …
 - k) …
 - l) …
 - m) …
-- k1) les patinoires couvertes et en plein air, sous réserve des règles de l'article 12 relatives à la pratique du sport et à l'interdiction des sports de contact;
+- k1) …
 - n) …
 - o) …
-- p) les fitness et les installations sportives en intérieur, moyennant le respect d'un espace de 15 m² par personne; les douches et les vestiaires sont fermés.
+- p) …
 
-<sup>1a</sup> Les établissements et installations autorisés à ouvrir selon l'alinéa 1 du présent article se conforment aux heures d'ouvertures cantonales et communales autorisées habituellement, y compris en ce qui concerne les ouvertures dominicales et les jours fériés et les ouvertures nocturnes. Ils ferment toutefois à 23 heures au plus tard.
+<sup>1a</sup> Les établissements et installations autorisés à ouvrir selon l'alinéa 1 du présent article demeurent fermés entre 19 heures et 6 heures, ainsi que le dimanche, conformément à l'article 5a<sup>bis</sup> de l'ordonnance fédérale COVID-19 situation particulière, sauf pour les pharmacies et les boulangeries.
 
-<sup>2</sup> Les autres établissements et installations accessibles au public sont fermés, en particulier les bibliothèques, sous réserve de l'article 3b al. 1 let. g, les ludothèques, les casinos, les établissements et installations de divertissement et de loisirs, les théâtres et les cinémas, sous réserve de l'article 13 al. 2, les piscines, les bains thermaux et wellness, sauf pour la clientèle des hôtels donnant accès à dites installations.
+<sup>2</sup> Les autres établissements et installations accessibles au public sont fermés, en particulier les casinos, les établissements et installations de divertissement et de loisirs, les patinoires artificielles, les musées, les théâtres et les cinémas, sous réserve de l'article 13 al. 2, les fitness et les installations sportives en intérieur sous réserve des activités sportives autorisées selon l'article 12, les piscines, les bains thermaux et wellness, sauf pour la clientèle des hôtels donnant accès à dites installations.
 
 <sup>3</sup> …
 
-<sup>4</sup> L'exercice de la prostitution et d'activités assimilées est autorisé.
+<sup>4</sup> L'exercice de la prostitution et d'activités assimilées est autorisé, dans les limites des heures d'ouverture autorisées selon l'article 5a<sup>bis</sup> de l'ordonnance fédérale COVID-19 situation particulière.
 
 #### Art. 4
 
@@ -212,7 +212,7 @@ Arrête:
 
 **Autres formations et cours**
 
-<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes de plus de 12 ans, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
+<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes de plus de 16 ans, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
 
 <sup>2</sup> En cas d'impossibilité d'assurer un enseignement à distance et si les activités didactiques sont indispensables à la filière de formation certifiante et considérées comme essentielles (sécurité et secours, santé, social et intégration), l'enseignement peut se dérouler en présentiel avec 30 participants et participantes au maximum et moyennant le port du masque facial et le respect de la distance interpersonnelle.
 
@@ -226,25 +226,25 @@ Arrête:
 
 <sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer la danse et tous les types d'activités sportives, sans aucune restriction et sans port du masque facial. L'activité doit toutefois se dérouler par groupes d'au maximum 10 personnes, incluant le personnel encadrant.
 
-<sup>2</sup> Pour les personnes de plus de 16 ans, les activités sportives et de danse impliquant un contact physique (p. ex. football, hockey, basketball, sports de combat, danse sportive) sont interdites. Pour ces disciplines, les entraînements individuels sans contact physique sont autorisés et les exercices techniques en groupe sans contact physique sont autorisés dans le respect des alinéas 3 à 5 du présent article.
+<sup>2</sup> Pour les personnes de plus de 16 ans, les activités sportives et de danse impliquant un contact physique (p. ex. football, hockey, basketball, sports de combat, danse sportive) sont interdites. Pour ces disciplines, les entraînements individuels sans contact physique sont autorisés et les exercices techniques en groupe sans contact physique sont autorisés en extérieur seulement.
 
-<sup>3</sup> Les activités sportives d'entraînement sans contact physique, à l'exclusion des compétitions, sont autorisées aux conditions suivantes:
+<sup>3</sup> Les activités sportives d'entraînement en plein air sans contact physique, à l'exclusion des compétitions, à titre individuel ou en groupes de 5 personnes au maximum sont autorisées.
 
-- a) les participants et participantes sont répartis au sein d'infrastructures sportives séparées en groupes d'au maximum 5 personnes incluant le personnel encadrant, et
-- b) les participants et participantes à une activité sportive respectent un espace de 15 m² par personne et portent un masque facial.
+- a) …
+- b) …
 
-<sup>4</sup> Le port du masque facial n'est pas obligatoire lorsque l'activité sportive autorisée se déroule en extérieur ou dans de grands locaux aérés (p. ex. halles de tennis). Sont réservés les plans de protection relatifs aux domaines skiables et aux sports de neige.
+<sup>4</sup> Le port du masque facial n'est pas obligatoire lorsque l'activité sportive autorisée se déroule en extérieur. Sont réservés les plans de protection relatifs aux domaines skiables et aux sports de neige.
 
-<sup>5</sup> Les activités sportives, notamment les activités d'entraînement et les compétitions, sont autorisées pour:
+<sup>5</sup> Les activités sportives, notamment les activités d'entraînement et les compétitions, sont autorisées, également en intérieur, pour:
 
 - a) les sportifs et sportives de haut niveau appartenant à l'un des cadres nationaux ou l'une des équipes nationales d'une fédération sportive nationale et s'entraînant à titre individuel, en groupes d'au maximum 15 personnes ou dans des équipes de compétition fixes;
 - b) les équipes appartenant à une ligue majoritairement professionnelle.
 
-<sup>6</sup> Les alinéas 3 à 5 ne s'appliquent pas aux cours d'éducation physique dispensés dans le cadre scolaire, sous réserve de l'article 6 al. 1 concernant le port du masque facial et des règles relatives aux sports de contact. Toutefois, un plan de protection est obligatoire.
+<sup>6</sup> Les cours d'éducation physique dispensés dans le cadre scolaire sont réservés, moyennant le port du masque facial, sauf en extérieur, et le respect des règles relatives aux sports de contact. Un plan de protection est obligatoire.
 
-<sup>7</sup> Les leçons particulières et individuelles demeurent autorisées.
+<sup>7</sup> Les leçons particulières et individuelles en extérieur demeurent autorisées.
 
-<sup>8</sup> Les activités sportives individuelles à l'extérieur sont autorisées.
+<sup>8</sup> …
 
 #### Art. 13
 
