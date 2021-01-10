@@ -5,12 +5,12 @@ title: Ergänzungsleistungsgesetz
 short: ELG
 language: de
 version: 2021-01-01
-valid_until: 2023-12-31
+corrected: 2021-01-11
 version_adopted: 2015-04-28
 adopted: 1991-09-22
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/351.5"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3092/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3063/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -214,7 +214,9 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Die Gemeindezweigstelle leitet die Mitteilung und eigene Wahrnehmungen an die Sozialversicherungsanstalt des Kantons St.Gallen.
 
-<sup>3</sup> …
+<sup>3</sup> Die Sozialversicherungsanstalt des Kantons St.Gallen meldet der kantonalen Steuerverwaltung jährlich die Bezüger von ausserordentlichen Ergänzungsleistungen.[^15-1]
+
+[^15-1]: Die Aufhebung von Art. 15 Abs. 3 durch den VIII. Nachtrag zum Ergänzungsleistungsgesetz vom 28. April 2015, nGS 2015-086, wird ab der Erhöhung der anrechenbaren Mietzinsmaxima durch den Bund angewendet, jene von Art. 12 drei Jahre später.
 
 #### Art. 15a
 
