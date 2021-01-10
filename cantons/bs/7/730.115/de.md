@@ -4,13 +4,13 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2020-10-05
-valid_until: 2021-01-10
-version_adopted: 2020-09-22
+version: 2021-01-11
+valid_until: 2021-11-21
+version_adopted: 2021-01-04
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5019/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5152/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 5. Oktober 2020)
+Vom 29. März 2018 (Stand 11. Januar 2021)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -68,6 +68,8 @@ beschliesst:
 - i) es entscheidet unter Beizug der mitwirkenden Fachbehörden über eine Freigabe.
 
 <sup>3</sup> Das Bau- und Gastgewerbeinspektorat verfügt, soweit es nach der Bau- und Planungsverordnung oder anderer Vorschriften dazu ermächtigt ist.
+
+<sup>4</sup> Weicht das Bau- und Gastgewerbeinspektorat von der Stellungnahme der Stadtbildkommission ab, orientiert es vorgängig die Stadtbildkommission und die Departementsvorsteherin oder den Departementsvorsteher.
 
 #### § 3
 
@@ -142,7 +144,7 @@ beschliesst:
 
 <sup>4</sup> Die Meldeformulare sind dem Bau- und Gastgewerbeinspektorat einschliesslich der notwendigen Planunterlagen einzureichen.
 
-<sup>5</sup> Sind die Voraussetzungen des Meldeverfahrens erfüllt, werden Vorhaben in der Stadt- und Dorfbild-Schutzzone sowie an Objekten im Denkmalverzeichnis der Basler Denkmalpflege, solche in der Stadt- und Dorfbild-Schutzzone der zuständigen Stadt- oder Ortsbildkommission zur direkten Erledigung zugewiesen. Davon ausgenommen sind Meldungen für Solaranlagen in der Schonzone gemäss Abs. 1 lit. h hiervor.
+<sup>5</sup> Sind die Voraussetzungen des Meldeverfahrens erfüllt, werden Vorhaben in der Stadt- und Dorfbild-Schutzzone sowie an Objekten im Denkmalverzeichnis der Basler Denkmalpflege, solche in der Stadt- und Dorfbild-Schonzone der zuständigen Stadt- oder Ortsbildkommission zur direkten Erledigung zugewiesen. Davon ausgenommen sind Meldungen für Solaranlagen in der Schonzone gemäss Abs. 1 lit. h hiervor.
 
 <sup>6</sup> Handelt es sich um Meldungen von Wärmepumpen werden diese dem Amt für Umwelt und Energie zur direkten Erledigung zugewiesen.
 
@@ -532,9 +534,9 @@ beschliesst:
 
 **Akteneinsicht während der Einsprachefrist**
 
-<sup>1</sup> Während der Einsprachefrist liegen die Akten beim Bau- und Gastgewerbeinspektorat für Interessierte zur Einsichtnahme auf.
+<sup>1</sup> Während der Einsprachefrist liegen die Akten beim Bau- und Verkehrsdepartement für Interessierte zur Einsichtnahme auf.
 
-<sup>2</sup> Während der Einsprachefrist können von allen aufliegenden Unterlagen und Plänen auf dem vom Bau- und Gastgewerbeinspektorat bezeichneten Gerät in Selbstbedienung unentgeltlich Kopie in den Formaten A4 oder A3 erstellt werden. Kopien in grösseren Formaten sind nicht möglich.
+<sup>2</sup> Während der Einsprachefrist können von allen aufliegenden Unterlagen und Plänen auf dem vom Bau- und Verkehrsdepartement bezeichneten Gerät in Selbstbedienung unentgeltlich Kopien in den Formaten A4 oder A3 erstellt werden. Kopien in grösseren Formaten sind nicht möglich.
 
 #### § 44
 
