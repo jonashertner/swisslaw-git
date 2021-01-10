@@ -3,20 +3,20 @@ canton: SG
 number: "571.301"
 title: Verordnung des Kantons St.Gallen über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-01-01
-valid_until: 2021-01-10
-version_adopted: 2020-12-15
+version: 2021-01-11
+valid_until: 2021-01-20
+version_adopted: 2021-01-05
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.301"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3078/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3082/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung des Kantons St.Gallen über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 
-vom 15.12.2020 (Stand 01.01.2021)
+vom 15.12.2020 (Stand 11.01.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -41,7 +41,11 @@ als Verordnung:[^ingress-2]
 
 **Gesamtvolumen der Härtefallmassnahmen**
 
-<sup>1</sup> Das Gesamtvolumen der Härtefallmassnahmen beträgt 22,6 Mio. Franken. Es wird je zur Hälfte vom Bund und vom Kanton bereitgestellt.
+<sup>1</sup> Das Gesamtvolumen der Härtefallmassnahmen beträgt 98,9 Mio. Franken. Es setzt sich zusammen aus:
+
+- a) einem ersten Teil in der Höhe von 22,6 Mio. Franken, der je zur Hälfte vom Bund und vom Kanton bereitgestellt wird;
+- b) einem zweiten Teil in der Höhe von 33,9 Mio. Franken, der zu 80 Prozent vom Bund und zu 20 Prozent vom Kanton bereitgestellt wird;
+- c) einem dritten Teil in der Höhe von 42,4 Mio. Franken, der zu 67 Prozent vom Bund und zu 33 Prozent vom Kanton bereitgestellt wird.
 
 #### Art. 3
 
@@ -51,7 +55,7 @@ als Verordnung:[^ingress-2]
 
 - a) die Vorgaben nach Art. 2 bis 6 der Covid-19-Härtefallverordnung erfüllen;
 - b) ihren Umsatz zu wenigstens 75 Prozent in einer Branche nach Art. 4 dieses Erlasses erzielen;
-- c) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben, eine operative Geschäftstätigkeit im Kanton ausüben und per 15. März 2020 Arbeitsplätze im Umfang von wenigstens 300 Stellenprozenten in der Schweiz aufweisen;
+- c) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben, eine operative Geschäftstätigkeit im Kanton ausüben und per 15. März 2020 Arbeitsplätze im Umfang von wenigstens 100 Stellenprozenten in der Schweiz aufweisen;
 - d) keinen Anspruch auf branchenspezifische Covid-19-Finanzhilfen des Bundes oder des Kantons St.Gallen in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien haben;
 - e) sich am 15. März 2020 nicht in einem Betreibungsverfahren für steuerrechtliche Forderungen befinden.
 
@@ -147,9 +151,9 @@ als Verordnung:[^ingress-2]
 
 **Entbindung von Geheimhaltungsvorschriften**
 
-<sup>1</sup> Mit Einreichung des Gesuchs entbindet die Gesuchstellerin oder der Gesuchsteller die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, die kreditgebende Bank und die BG OST-SÜD von den Geheimhaltungsvorschriften, insbesondere vom Bankkunden-, Steuer- und Amtsgeheimnis, soweit dies für die Beurteilung des Gesuchs, die Bewirtschaftung der Härtefallmassnahmen und die Missbrauchsbekämpfung nötig ist.
+<sup>1</sup> Mit Einreichung des Gesuchs entbindet die Gesuchstellerin oder der Gesuchsteller die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, die kreditgebende Bank, die BG OST-SÜD und die Schweizerische Nationalbank von den Geheimhaltungsvorschriften, insbesondere vom Bankkunden-, Steuer- und Amtsgeheimnis, soweit dies für die Beurteilung des Gesuchs, die Bewirtschaftung der Härtefallmassnahmen und die Missbrauchsbekämpfung nötig ist.
 
-<sup>2</sup> Zur Erfüllung der Aufgaben nach diesem Erlass und nach der Covid-19-Härtefallverordnung können die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, die kreditgebende Bank und die BG OST-SÜD untereinander die notwendigen Daten austauschen. Die Gesuchstellerin oder der Gesuchsteller stimmt diesem Datenaustausch mit Einreichung des Gesuchs zu.
+<sup>2</sup> Zur Erfüllung der Aufgaben nach diesem Erlass und nach der Covid-19-Härtefallverordnung können die zuständigen Amtsstellen des Bundes, der Kantone und der Gemeinden, mandatierte Dritte, die kreditgebende Bank, die BG OST-SÜD und die Schweizerische Nationalbank untereinander die notwendigen Daten austauschen. Die Gesuchstellerin oder der Gesuchsteller stimmt diesem Datenaustausch mit Einreichung des Gesuchs zu.
 
 #### Art. 14
 
