@@ -4,13 +4,13 @@ number: "821.40.94"
 title: "Ordonnance d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Bars, discothèques et restaurants»)"
 short: OPCR-Gastro COVID-19
 language: fr
-version: 2021-01-04
-valid_until: 2021-01-12
-version_adopted: 2020-12-14
+version: 2021-01-13
+valid_until: 2021-02-11
+version_adopted: 2021-01-13
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.94"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6710/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6723/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, plan de relance – Bars, discothèques et restaurants – O
 
 (OPCR-Gastro COVID-19)
 
-du 24.11.2020 (version entrée en vigueur le 04.01.2021)
+du 24.11.2020 (version entrée en vigueur le 13.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -136,7 +136,7 @@ Arrête:
 <sup>1</sup> En complément aux articles 3 et 4 ci-avant, les conditions d'octroi et les modalités de traitement des demandes de contribution en raison de l'activation anticipée de la mesure à titre de «mesure urgente» sont les suivantes:
 
 - a) bénéficiaires de l'aide: peuvent déposer une demande les bénéficiaires au sens de l'article 3 al. 1 let. a dont l'établissement ou l'installation accessible au public a fait l'objet d'une fermeture sur décision des autorités au sens de l'article 1 de l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les établissements contraints à la fermeture lors de la deuxième vague de coronavirus (OMAF COVID-19);
-- b) durée de l'aide: la mesure de relance actionnée de manière anticipée à titre de «mesure urgente» est applicable dès le 1<sup>er</sup> novembre 2020 et jusqu'au 22 janvier 2021 au plus tard;
+- b) durée de l'aide: la mesure de relance actionnée de manière anticipée à titre de «mesure urgente» est applicable dès le 1<sup>er</sup> novembre 2020 et jusqu'au 31 janvier 2021 au plus tard;
 - c) dépôt des demandes: à compter du 4 janvier 2021;
 - d) levée d'exclusions: les exclusions prévues à l'article 3 al. 2 let. b et c ne sont pas applicables à la «mesure urgente» prévue par le présent article;
 - e) documents complémentaires, allégement: il n'est pas nécessaire de produire l'attestation RHT prévue à l'article 4 al. 1 let. c ch. 5;

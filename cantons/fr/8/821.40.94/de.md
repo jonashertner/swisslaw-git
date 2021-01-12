@@ -4,13 +4,13 @@ number: "821.40.94"
 title: "Ausführungsverordnung zum kantonalen Wiederankurbelungsplan zur Bewältigung der Gesundheits- und Wirtschaftskrise infolge des Coronavirus («Bars, Discos und Restaurants»)"
 short: KWPV-Gastro-COVID-19
 language: de
-version: 2021-01-04
-valid_until: 2021-01-12
-version_adopted: 2020-12-14
+version: 2021-01-13
+valid_until: 2021-02-11
+version_adopted: 2021-01-13
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.94"
-pdf: "https://bdlf.fr.ch/api/de/versions/6710/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6723/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Wiederankurbelungsplan – Bars, Discos und Restaurants – V
 
 (KWPV-Gastro-COVID-19)
 
-vom 24.11.2020 (Fassung in Kraft getreten am 04.01.2021)
+vom 24.11.2020 (Fassung in Kraft getreten am 13.01.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -136,7 +136,7 @@ beschliesst:
 <sup>1</sup> In Ergänzung von Artikel 3 und 4 gelten die folgenden Bedingungen für die Bearbeitung der Gesuche infolge der vorgezogenen Aktivierung der Massnahme in Form einer «Sofortmassnahme»:
 
 - a) Empfängerkreis: Ein Gesuch stellen können die Personen im Sinne von Artikel 3 Abs. 1 Bst. a, deren öffentlich zugängliche Einrichtung oder Betrieb im Sinne von Artikel 1 der Verordnung vom 16. November 2020 über die Begleitmassnahmen für Einrichtungen, deren Schliessung infolge der zweiten Coronavirus-Welle angeordnet wurde (BMSV-COVID-19) auf behördliche Anordnung geschlossen wurde.
-- b) Dauer des Beitrags: Die Impulsmassnahme, die in Form einer «Sofortmassnahme» vorgezogen aktiviert wird, gilt ab dem 1. November 2020 bis längstens 22. Januar 2021.
+- b) Dauer des Beitrags: Die Impulsmassnahme, die in Form einer «Sofortmassnahme» vorgezogen aktiviert wird, gilt ab dem 1. November 2020 bis spätestens am 31. Januar 2021.
 - c) Gesuchstellung: ab dem 4. Januar 2021.
 - d) Aufhebung von Ausschlussbestimmungen: Artikel 3 Abs. 2 Bst. b und c sind nicht auf die «Sofortmassnahme» nach diesem Artikel anwendbar.
 - e) Ergänzende Unterlagen, Erleichterungen: Die in Artikel 4 Abs. 1 Bst. c Ziff. 5 verlangte Abrechnung der Kurzarbeitsentschädigung muss nicht eingereicht werden.
