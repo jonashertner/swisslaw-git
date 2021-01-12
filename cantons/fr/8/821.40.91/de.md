@@ -4,13 +4,13 @@ number: "821.40.91"
 title: "Verordnung über die Begleitmassnahmen für Einrichtungen, deren Schliessung infolge der zweiten Coronavirus-Welle angeordnet wurde"
 short: BMSV-COVID-19
 language: de
-version: 2020-12-22
-valid_until: 2021-01-12
-version_adopted: 2020-12-22
+version: 2021-01-13
+valid_until: 2021-01-31
+version_adopted: 2021-01-13
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.91"
-pdf: "https://bdlf.fr.ch/api/de/versions/6708/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6722/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, Begleitmassnahmen für Einrichtungen – V
 
 (BMSV-COVID-19)
 
-vom 16.11.2020 (Fassung in Kraft getreten am 22.12.2020)
+vom 16.11.2020 (Fassung in Kraft getreten am 13.01.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -80,7 +80,7 @@ beschliesst:
   - 2\. Schliessung ab dem 4. Oktober 2020: 90 % des monatlichen Miet- oder Pachtzinses ohne Nebenkosten oder des monatlich geschuldeten Hypothekarzinses.
 - d) Begrenzung der Gesuche: Wenn der Eigentümer und der Mieter bzw. Pächter dieselbe Rechtsperson sind oder denselben wirtschaftlich Berechtigten vertreten, ist nur ein Gesuch pro Einrichtung oder Betrieb zulässig.
 - e) Höchstbetrag: der anrechenbare Miet- oder Pachtzins beträgt höchstens 40'000 Franken.
-- f) Frist für die Gesuchstellung: 31. Januar 2021.
+- f) Frist für die Gesuchstellung: 31. März 2021;
 - g) Kein Zahlungsverzug und keine Kündigung: Die gesuchstellende Person bestätigt, dass kein Miet- oder Pachtzinsverzug vorliegt und keine Kündigung des Miet- oder Pachtvertrags erfolgt ist.
 - h) Sozialversicherungen: Die gesuchstellende Person bestätigt, dass sie die von ihr und ihren Angestellten geschuldeten Sozialversicherungsbeiträge regelmässig gezahlt hat.
 - i) Auskunftspflicht: Das Generalsekretariat der Volkswirtschaftsdirektion (das Amt) ist befugt, von der gesuchstellenden Person zu verlangen, dass sie innert einer angemessenen Frist zusätzliche Informationen oder Auskünfte erteilt, die für die Bearbeitung des Gesuchs benötigt werden. Werden die verlangten Auskünfte nicht innerhalb der gesetzten Frist erteilt, wird dies als Rückzug des Gesuchs gewertet. Diese Auskunftspflicht bleibt über die Dauer des Unterstützungszeitraums hinaus bestehen, damit die nötigen Kontrollen im Sinne von Artikel 6 durchgeführt werden können.
@@ -133,6 +133,10 @@ beschliesst:
 <sup>2</sup> Die Anforderungen an den Gesundheitsschutz gemäss der Verordnung vom 10. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus bleiben vorbehalten.
 
 <sup>3</sup> Personen, deren öffentlich zugängliche Einrichtung oder Anlage ab dem 10. Dezember 2020 wieder öffnen konnte, aber im Dezember auf Anordnung der Behörden erneut schliessen musste, erhalten einen Beitrag im Verhältnis zur Anzahl Tage angeordneter Schliessung.
+
+<sup>4</sup> Die Sofortmassnahme wird nach den obenstehenden Bedingungen für den gesamten Empfängerkreis gemäss dieser Verordnung bis am 31. Januar 2021 verlängert.
+
+<sup>5</sup> In Ergänzung der Mittel nach Artikel 2 Abs. 1 werden die zur Finanzierung der Massnahme benötigten zusätzlichen Mittel dem Betrag entnommen, der gestützt auf Artikel 6 Abs. 3 des Gesetzes vom 14. Oktober 2020 zur Genehmigung der Sofortmassnahmen des Staatsrats zur Bewältigung der COVID-19-Epidemie für Härtefälle bereitgestellt wurde.
 
 #### Art. 5
 

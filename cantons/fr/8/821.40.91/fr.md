@@ -4,13 +4,13 @@ number: "821.40.91"
 title: "Ordonnance sur les mesures d'accompagnement pour les établissements contraints à la fermeture lors de la deuxième vague de coronavirus"
 short: OMAF COVID-19
 language: fr
-version: 2020-12-22
-valid_until: 2021-01-12
-version_adopted: 2020-12-22
+version: 2021-01-13
+valid_until: 2021-01-31
+version_adopted: 2021-01-13
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.91"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6708/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6722/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, mesures d'accompagnement pour les établissements – O
 
 (OMAF COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 22.12.2020)
+du 16.11.2020 (version entrée en vigueur le 13.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -82,7 +82,7 @@ Arrête:
   - 2\. dès le 4 novembre 2020: 90 % du loyer mensuel hors charges ou des intérêts mensuels de la dette;
 - d) limitation des demandes: une seule demande par établissement ou installation si le propriétaire et le locataire, respectivement le fermier sont une seule et même personne juridique ou représentent un même ayant droit économique;
 - e) étendue de la prise en charge: le loyer mensuel pris en considération ne peut excéder 40'000 francs;
-- f) délai de dépôt des demandes: jusqu'au 31 janvier 2021;
+- f) délai de dépôt des demandes: jusqu'au 31 mars 2021;
 - g) absence de mise en demeure et de résiliation de bail: la personne qui a déposé la demande atteste qu'aucune mise en demeure pour des loyers ou fermages impayés et qu'aucune résiliation de bail ne lui a été notifiée;
 - h) charges sociales: la personne qui a déposé la demande atteste qu'elle a régulièrement payé les charges sociales lui incombant et celles qu'elle doit verser pour le compte de ses employés;
 - i) obligation de renseigner: le Secrétariat général de la Direction de l'économie et de l'emploi (ci-après: le Service) est autorisé à exiger de la personne qui a déposé la demande qu'elle lui fournisse, dans des délais raisonnables, les compléments et/ou clarifications nécessaires au traitement de la demande. Si celle-ci ne fournit pas les renseignements demandés dans le délai imparti, elle est présumée retirer sa demande. Cette obligation de renseigner s'étend également au-delà de la période de soutien pour permettre les contrôles au sens de l'article 6 de la présente ordonnance.
@@ -135,6 +135,10 @@ Arrête:
 <sup>2</sup> Les exigences sanitaires de l'ordonnance du 10 novembre 2020 relative aux mesures cantonales pour freiner la propagation du coronavirus demeurent réservées.
 
 <sup>3</sup> Pour les bénéficiaires dont l'établissement ou l'installation n'était plus sujette à une obligation de fermeture à compter du 10 décembre 2020 et qui ont dû fermer de nouveau dans le courant de décembre sur décision de l'autorité, l'étendue de la prise en charge est calculée au prorata du nombre de jours touchés par la décision de fermeture.
+
+<sup>4</sup> La mesure urgente est prolongée jusqu'au 31 janvier 2021 pour tous les bénéficiaires au sens de la présente ordonnance, aux conditions ci-avant.
+
+<sup>5</sup> En complément des moyens définis à l'article 2 al. 1, les moyens additionnels nécessaires au financement de la demande seront imputés sur le montant alloué aux cas de rigueur au sens de l'article 6 al. 3 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19.
 
 #### Art. 5
 
