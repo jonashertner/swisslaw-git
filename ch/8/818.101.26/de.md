@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-01-09
+version: 2021-01-14
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210109/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210109-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 9. Januar 2021)
+vom 19. Juni 2020 (Stand am 14. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -182,7 +182,7 @@ Das Verbot gilt nicht für folgende Betriebe:
 
 <sup>3</sup> Betriebe nach Absatz 2 Buchstaben a und d dürfen zwischen 06.00 und 23.00 Uhr geöffnet sein. Betriebe nach Absatz 2 Buchstabe d dürfen in der Nacht vom 31. Dezember auf den 1. Januar bis 01.00 Uhr geöffnet sein.
 
-[^5a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5a-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -201,7 +201,7 @@ Folgende öffentlich zugänglichen Einrichtungen und Betriebe müssen zwischen 1
   - 4\. Schalter von Betrieben des öffentlichen Verkehrs,
   - 5\. die Autovermietung.
 
-[^5abis-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5abis-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5b
 
@@ -258,7 +258,7 @@ Die Kantone prüfen regelmässig, ob das Schutzkonzept korrekt umgesetzt wird. S
 - b. eine der Voraussetzungen nach Absatz 3 Buchstaben a–d nicht mehr erfüllt ist.
 
 [^5c-1]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^5c-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5c-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5d
 
@@ -279,7 +279,7 @@ Die Kantone prüfen regelmässig, ob das Schutzkonzept korrekt umgesetzt wird. S
 
 <sup>2</sup> Zulässig bleibt die Nutzung von Einrichtungen und Betrieben in den Bereichen Kultur und Sport für Aktivitäten von Kindern und Jugendlichen vor ihrem 16. Geburtstag.
 
-[^5d-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5d-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6
 
@@ -304,7 +304,7 @@ Die Durchführung von Veranstaltungen ist verboten. Vom Verbot ausgenommen sind:
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6a und 6b
 
@@ -362,8 +362,8 @@ Für Aktivitäten im Bereich Sport mit Jugendlichen in Klassen der Sekundarstufe
 [^6d-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 2. Nov. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6d-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6d-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-4]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6d-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6d-4]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6d-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6e
 
@@ -381,9 +381,9 @@ Im Bereich des Sports sind folgende Sportaktivitäten zulässig:[^6e-2]
 <sup>2</sup> Sportaktivitäten in Gruppen bis zu 5 Personen nach Absatz 1 Buchstaben a und b sind von der Pflicht zur Erarbeitung eines Schutzkonzepts nach Artikel 4 ausgenommen.
 
 [^6e-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6e-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-4]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6e-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-3]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-4]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6f
 
@@ -426,9 +426,9 @@ Für Aktivitäten mit Gesang gilt Folgendes:[^6f-5]
 <sup>4</sup> Veranstaltungen in Gruppen bis zu 5 Personen nach Absatz 2 Buchstabe a sind von der Pflicht zur Erarbeitung eines Schutzkonzepts nach Artikel 4 ausgenommen.
 
 [^6f-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6f-2]: Aufgehoben durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), mit Wirkung vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6f-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
-[^6f-4]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6f-2]: Aufgehoben durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), mit Wirkung vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-4]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^6f-5]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6f-6]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -569,7 +569,7 @@ Mit Busse wird bestraft, wer:
 - c.[^13-4] Messen oder Märkte durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^13-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^13-4]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -623,7 +623,7 @@ Anhang*[^t-1]*
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) und 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 22. Jan. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) und 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 Allgemeines
 

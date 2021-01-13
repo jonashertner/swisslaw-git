@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-01-09
+version: 2021-01-14
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210109/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210109-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 9 janvier 2021)
+du 19 juin 2020 (Etat le 14 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -182,7 +182,7 @@ L’interdiction ne s’applique pas aux établissements suivants:
 
 <sup>3</sup> Les établissements visés à l’al. 2, let. a et d, peuvent rester ouverts entre 6 h 00 et 23 h 00. Les établissements visés à l’al. 2, let. d, peuvent rester ouverts jusqu’à 1 h 00 la nuit du 31 décembre au 1<sup>er</sup> janvier.
 
-[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -201,7 +201,7 @@ Les installations et les établissements accessibles au public suivants doivent 
   - 4\. les guichets des entreprises de transports publics,
   - 5\. les services de location de voiture.
 
-[^5abis-1]: Introduit par le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public) ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur depuis le 22 déc. 2020 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5abis-1]: Introduit par le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public) ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5b
 
@@ -258,7 +258,7 @@ Les cantons contrôlent régulièrement si le plan de protection est mis en œuv
 - b. l’une des conditions visées à l’al. 3, let. a à d, n’est plus remplie.
 
 [^5c-1]: Introduit par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^5c-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5c-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5d
 
@@ -279,7 +279,7 @@ Les installations et les établissements accessibles au public des domaines de l
 
 <sup>2</sup> Reste autorisée l’utilisation des installations et des établissements des domaines de la culture et du sport pour les activités des enfants et des adolescents de moins de 16 ans.
 
-[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6
 
@@ -304,7 +304,7 @@ Les manifestations sont interdites. Sont exceptées:
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 22 janv. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 28 fév. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6a et 6b
 
@@ -362,8 +362,8 @@ Pour les activités sportives des adolescents du degré secondaire II, les règl
 [^6d-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 2 nov. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6d-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6d-3]: Introduit par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-4]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6d-5]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6d-4]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6d-5]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6e
 
@@ -381,9 +381,9 @@ Dans le domaine du sport, les activités sportives suivantes sont autorisées:[^
 <sup>2</sup> Pour les activités sportives en groupes d’au maximum 5 personnes au sens de l’al. 1, let. a et b, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
 
 [^6e-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6e-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-4]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6e-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-3]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-4]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6f
 
@@ -426,9 +426,9 @@ Les activités de chant sont soumises aux règles suivantes:[^6f-5]
 <sup>4</sup> Pour les manifestations en groupes d’au maximum 5 personnes au sens de l’al. 2, let. a, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
 
 [^6f-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6f-2]: Abrogé par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), avec effet au 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6f-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 22 janv. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
-[^6f-4]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 22 janv. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6f-2]: Abrogé par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), avec effet du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 28 fév. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-4]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 28 fév. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^6f-5]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6f-6]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -569,9 +569,9 @@ Est puni de l’amende quiconque:
 - c.[^13-4] organise une foire ou un marché interdits en vertu de l’art. 6, al. 3.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 22 janv. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^13-3]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^13-4]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^13-4]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
 ## Section 7 Dispositions finales
 
@@ -623,7 +623,7 @@ Annexe*[^t-1]*
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) et du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 22 janv. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^t-1]: Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) et du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 Généralités
 

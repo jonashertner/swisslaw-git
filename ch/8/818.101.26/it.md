@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-01-09
+version: 2021-01-14
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210109/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210109-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210109/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 9 gennaio 2021)
+del 19 giugno 2020 (Stato 14 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -182,7 +182,7 @@ Il divieto non vige per le strutture seguenti:
 
 <sup>3</sup> Le strutture di cui al capoverso 2 lettere a e d possono restare aperte tra le ore 06.00 e le ore 23.00. Nella notte tra il 31 dicembre e il 1° gennaio le strutture di cui al capoverso 2 lettera d possono restare aperte fino alle ore 01.00.
 
-[^5a-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5a-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -201,7 +201,7 @@ Le seguenti strutture accessibili al pubblico devono rimanere chiuse tra le ore 
   - 4\. gli sportelli delle strutture dei trasporti pubblici,
   - 5\. gli autonoleggi.
 
-[^5abis-1]: Introdotto dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5abis-1]: Introdotto dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5b
 
@@ -258,7 +258,7 @@ I Cantoni verificano regolarmente se il piano di protezione è attuato in modo c
 - b. non è più adempiuta una delle condizioni di cui al capoverso 3 lettere a–d.
 
 [^5c-1]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^5c-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5c-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 5d
 
@@ -279,7 +279,7 @@ Le strutture culturali, ricreative, per il tempo libero e sportive accessibili a
 
 <sup>2</sup> Resta ammessa l’utilizzazione delle strutture culturali e sportive per le attività con bambini e giovani fino al compimento dei 16 anni.
 
-[^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6
 
@@ -304,7 +304,7 @@ Lo svolgimento di manifestazioni è vietato. Sono esclusi dal divieto:
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6-3]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 22 gen. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6-3]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 28 feb. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6a e 6b
 
@@ -362,8 +362,8 @@ Alle attività sportive svolte con gli allievi delle classi del livello secondar
 [^6d-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 2 nov. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6d-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6d-3]: Introdotto dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-4]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6d-5]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6d-4]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6d-5]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6e
 
@@ -381,9 +381,9 @@ Nel settore dello sport sono ammesse le attività seguenti:[^6e-2]
 <sup>2</sup> Per le attività sportive in gruppi fino a cinque persone di cui al capoverso 1 lettere a e b non vige l’obbligo di elaborare un piano di protezione secondo l’articolo 4.
 
 [^6e-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6e-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6e-4]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^6e-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-3]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6e-4]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 #### Art. 6f
 
@@ -426,9 +426,9 @@ Alle attività di canto si applica quanto segue:[^6f-5]
 <sup>4</sup> Per le manifestazioni in gruppi fino a cinque persone di cui al capoverso 2 lettera a non vige l’obbligo di elaborare un piano di protezione secondo l’articolo 4.
 
 [^6f-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^6f-2]: Abrogato dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), con effetto dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
-[^6f-3]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 22 gen. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
-[^6f-4]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 22 gen. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)).
+[^6f-2]: Abrogato dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), con effetto dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-3]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 28 feb. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6f-4]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 28 feb. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^6f-5]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6f-6]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -569,7 +569,7 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 - c.[^13-4] svolge fiere o mercati il cui svolgimento è vietato secondo l’articolo 6 capoverso 3.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 [^13-3]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^13-4]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -621,7 +621,7 @@ Allegato*[^t-1]*
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) e del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 22 gen. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
+[^t-1]: Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) e del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 In generale
 
