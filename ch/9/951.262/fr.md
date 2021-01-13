@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 2020 concernant les mesures pour les cas de ri
 short: OMCR 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: fr
-version: 2020-12-19
+version: 2021-01-14
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210114/fr/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210114-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210114/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20201219/fr"
 
 (Ordonnance COVID-19 cas de rigueur)
 
-du 25 novembre 2020 (Etat le 19 décembre 2020)
+du 25 novembre 2020 (Etat le 14 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -96,10 +96,10 @@ L’entreprise a fourni au canton les preuves suivantes:
 
 Est réputée rentable ou viable une entreprise qui répond aux exigences suivantes:
 
-- a. elle n’était pas surendettée entre le 1<sup>er</sup> janvier 2019 et le 31 décembre 2019;
-- b. elle ne fait pas l’objet d’une procédure de faillite ou d’une liquidation au moment du dépôt de la demande;
-- c. elle ne faisait pas, le 15 mars 2020, l’objet d’une procédure de poursuite relative à des cotisations sociales;
-- d. elle peut présenter une preuve de sa viabilité montrant de manière crédible que son financement peut être assuré au moyen de la mesure pour les cas de rigueur.
+- a. elle ne fait pas l’objet d’une procédure de faillite ou d’une liquidation au moment du dépôt de la demande;
+- b. elle ne faisait pas, le 15 mars 2020, l’objet d’une procédure de poursuite relative à des cotisations sociales, à moins qu’un plan de paiement ait été convenu ou que la procédure se soit conclue par un paiement au moment du dépôt de la demande.[^4-1]
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 5
 
@@ -107,15 +107,27 @@ Est réputée rentable ou viable une entreprise qui répond aux exigences suivan
 
 <sup>1</sup> L’entreprise a prouvé au canton que son chiffre d’affaires 2020 est inférieur à 60 % du chiffre d’affaires moyen des exercices 2018 et 2019 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l’épidémie de COVID-19.
 
+<sup>1bis</sup> En cas de recul du chiffre d’affaires enregistré entre janvier 2021 et juin 2021 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l’épidémie de COVID-19, l’entreprise peut calculer le recul de son chiffre d’affaires sur la base du chiffre d’affaires des 12 derniers mois au lieu du chiffre d’affaires de l’exercice 2020.[^5-1]
+
 <sup>2</sup> Pour les entreprises créées après le 31 décembre 2017, le chiffre d’affaires calculé selon l’art. 3, al. 2, est réputé chiffre d’affaires moyen des exercices 2018 et 2019.
+
+[^5-1]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 5a
 
 **Coûts fixes non couverts**[^5a-1]
 
-L’entreprise a confirmé au canton que le recul du chiffre d’affaires entraîne à la fin de l’année une part de coûts fixes non couverts qui menace sa viabilité.
+L’entreprise a confirmé au canton que le recul du chiffre d’affaires entraîne d’importants coûts fixes non couverts.
 
-[^5a-1]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^5a-1]: Introduit par le ch. I de l’O du 18 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)). Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+
+#### Art. 5b
+
+**Dérogation en faveur des entreprises fermées par les autorités**[^5b-1]
+
+Les entreprises qui, en raison des mesures prises par la Confédération ou les cantons pour endiguer l’épidémie de COVID-19, doivent cesser leur activité pour au moins 40 jours entre le 1<sup>er</sup> novembre 2020 et le 30 juin 2021 ne sont pas tenues de remplir les conditions d’octroi d’un soutien financier visées aux art. 4, al. 1, let. b, 5, al. 1 et 1<sup>bis</sup>, et 5*a.*
+
+[^5b-1]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 6
 
@@ -123,16 +135,16 @@ L’entreprise a confirmé au canton que le recul du chiffre d’affaires entra�
 
 L’entreprise a fourni au canton les garanties suivantes:
 
-- a.
+- a.[^6-1]
 
-  elle ne décide ni ne distribue aucun dividende ou tantième, ne rembourse pas d’apports de capital et n’octroie pas de prêts à ses propriétaires:[^6-1]
+  pendant 3 ans ou jusqu’au remboursement des aides obtenues:
 
-  - 1\. pendant toute la durée du prêt, du cautionnement ou de la garantie,
-  - 2\. pendant les 5 années suivant l’obtention d’une contribution non remboursable ou jusqu’à la restitution volontaire de cette contribution au canton;
+  - 1\. elle ne décide ni ne distribue aucun dividende ou tantième et ne rembourse pas d’apports de capital, et
+  - 2\. elle n’octroie pas de prêts à ses propriétaires;
 
 - b. elle ne transfère pas les fonds accordés à une société du groupe qui lui est liée directement ou indirectement et n’a pas son siège en Suisse; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements à l’intérieur d’un groupe.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 ## Section 3 Exigences relatives à la forme des mesures pour les cas de rigueur
 
@@ -158,13 +170,18 @@ Les mesures pour les cas de rigueur pour lesquelles le canton sollicite la parti
 
 <sup>1</sup> Les prêts, les cautionnements ou les garanties s’élèvent au maximum à 25 % du chiffre d’affaires moyen des exercices 2018 et 2019 et au maximum à 10 millions de francs par entreprise. Leur durée maximale est de 10 ans.
 
-<sup>2</sup> Les contributions non remboursables s’élèvent au maximum à 10 % du chiffre d’affaires moyen des exercices 2018 et 2019 et au maximum à 500 000 francs par entreprise. Elles peuvent être décidées et versées en plusieurs étapes.
+<sup>2</sup> Les contributions non remboursables s’élèvent au maximum à 20 % du chiffre d’affaires moyen des exercices 2018 et 2019 et au maximum à 750 000 francs par entreprise. Elles peuvent être décidées et versées en plusieurs étapes.[^8-1]
+
+<sup>2bis</sup> En dérogation à l’al. 2, le canton peut augmenter exceptionnellement la contribution par entreprise à 1,5 million de francs au maximum si les propriétaires apportent de nouveaux fonds propres ou si les bailleurs de fonds renoncent à leurs créances. Les fonds propres supplémentaires et les abandons de créances doivent, au total, correspondre au moins à la contribution supplémentaire accordée par le canton.[^8-2]
 
 <sup>3</sup> Si une entreprise reçoit des aides visées aussi bien à l’al. 1 qu’à l’al. 2, celles-ci ne peuvent pas dépasser au total 25 % du chiffre d’affaires moyen des exercices 2018 et 2019 ni 10 millions de francs par entreprise.
 
 <sup>4</sup> Pour les entreprises créées après le 31 décembre 2017, le chiffre d’affaires calculé selon l’art. 3, al. 2, est réputé chiffre d’affaires moyen des exercices 2018 et 2019.
 
 <sup>5</sup> Le canton peut aussi octroyer des mesures pour les cas de rigueur dont le montant dépasse les plafonds visés aux al. 1 à 3. L’étendue de la participation de la Confédération aux coûts et aux pertes occasionnés au canton est limitée à ces plafonds.
+
+[^8-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+[^8-2]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 9
 
@@ -206,9 +223,11 @@ La Confédération participe uniquement aux coûts et aux pertes que les mesures
 
 <sup>1</sup> La procédure d’octroi de mesures pour les cas de rigueur pour lesquelles le canton sollicite la participation de la Confédération est régie par le droit cantonal.
 
-<sup>2</sup> Le canton examine les demandes au cas par cas.
+<sup>2</sup> Le canton examine les demandes. Il peut utiliser des processus automatisés à cette fin.[^12-1]
 
 <sup>3</sup> Il peut faire appel à des tiers à cet effet.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 13
 
@@ -222,9 +241,11 @@ La Confédération participe uniquement aux coûts et aux pertes que les mesures
 
 #### Art. 14
 
-**Montant de la participation de la Confédération**
+**Montant de la participation de la Confédération**[^14-1]
 
-La Confédération participe, dans la limite du crédit d’engagement approuvé par l’Assemblée fédérale, aux coûts et aux pertes que les mesures pour les cas de rigueur destinées aux entreprises qu’il a prises occasionnent à un canton.
+La Confédération participe, dans la limite des contributions prévues à l’art. 12, al. 1 et 6, de la loi COVID-19 du 25 septembre 2020, aux coûts et aux pertes que les mesures pour les cas de rigueur destinées aux entreprises qu’il a prises occasionnent à un canton.
+
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021, en vigueur depuis le 14 janv. 2021 ([RO 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 15
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unterne
 short: HFMV 20
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/875"
 language: de
-version: 2020-12-19
+version: 2021-01-14
 adopted: 2020-11-25
 in_force: 2020-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/875/20210114/de/xml/fedlex-data-admin-ch-eli-cc-2020-875-20210114-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20210114/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/875/20201219/de"
 
 (Covid-19-Härtefallverordnung)
 
-vom 25. November 2020 (Stand am 19. Dezember 2020)
+vom 25. November 2020 (Stand am 14. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -96,10 +96,10 @@ Das Unternehmen hat gegenüber dem Kanton belegt, dass es:
 
 Als profitabel oder überlebensfähig gilt ein Unternehmen, das:
 
-- a. zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war;
-- b. sich zum Zeitpunkt der Einreichung des Gesuchs nicht in einem Konkursverfahren oder in Liquidation befindet;
-- c. sich am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befindet;
-- d. über einen Nachweis der Überlebensfähigkeit verfügt, der glaubhaft aufzeigt, dass die Finanzierung des Unternehmens mit der Härtefallmassnahme gesichert werden kann.
+- a. sich zum Zeitpunkt der Einreichung des Gesuchs nicht in einem Konkursverfahren oder in Liquidation befindet;
+- b. sich am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden hat, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist.[^4-1]
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 5
 
@@ -107,15 +107,27 @@ Als profitabel oder überlebensfähig gilt ein Unternehmen, das:
 
 <sup>1</sup> Das Unternehmen hat gegenüber dem Kanton belegt, dass sein Jahresumsatz 2020 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt.
 
+<sup>1bis</sup> Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden.[^5-1]
+
 <sup>2</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach Artikel 3 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
+
+[^5-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 5a
 
 **Ungedeckte Fixkosten**[^5a-1]
 
-Das Unternehmen hat gegenüber dem Kanton bestätigt, dass aus dem Umsatzrückgang am Jahresende ein Anteil an ungedeckten Fixkosten resultiert, der seine Überlebensfähigkeit gefährdet.
+Das Unternehmen hat gegenüber dem Kanton bestätigt, dass aus dem Umsatzrückgang erhebliche ungedeckte Fixkosten resultieren.
 
-[^5a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^5a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)). Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+
+#### Art. 5b
+
+**Entfallende Anspruchsvoraussetzungen für behördlich geschlossene Unternehmen**[^5b-1]
+
+Für Unternehmen, die aufgrund von Massnahmen des Bundes oder der Kantone zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, entfallen die Anspruchsvoraussetzungen nach den Artikeln 4 Absatz 1 Buchstabe b, 5 Absätze 1 und 1<sup>bis</sup> sowie 5*a.*
+
+[^5b-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 6
 
@@ -123,16 +135,16 @@ Das Unternehmen hat gegenüber dem Kanton bestätigt, dass aus dem Umsatzrückga
 
 Das Unternehmen hat gegenüber dem Kanton bestätigt, dass es:
 
-- a.
+- a.[^6-1]
 
-  keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet und keine Darlehen an seine Eigentümer vergibt:[^6-1]
+  während drei Jahren oder bis zur Rückzahlung der erhaltenen Hilfen:
 
-  - 1\. während der gesamten Laufzeit des Darlehens, der Bürgschaft oder der Garantie,
-  - 2\. während fünf Jahren nach Erhalt eines nicht rückzahlbaren Beitrags oder bis zu dessen freiwilliger Rückzahlung an den Kanton;
+  - 1\. keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet, und
+  - 2\. keine Darlehen an seine Eigentümer vergibt;
 
 - b. die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5849](https://fedlex.data.admin.ch/eli/oc/2020/983)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 ## 3. Abschnitt: Anforderungen an die Ausgestaltung der Härtefallmassnahmen
 
@@ -158,13 +170,18 @@ Die Härtefallmassnahmen, für deren Kosten und Verluste der Kanton die Beteilig
 
 <sup>1</sup> Darlehen, Bürgschaften oder Garantien belaufen sich auf höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 10 Millionen Franken pro Unternehmen. Ihre Laufzeit ist auf höchstens zehn Jahre befristet.
 
-<sup>2</sup> Die nicht rückzahlbaren Beiträge belaufen sich auf höchstens 10 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 500 000 Franken pro Unternehmen. Die Beiträge können gestaffelt beschlossen und ausgerichtet werden.
+<sup>2</sup> Die nicht rückzahlbaren Beiträge belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 750 000 Franken pro Unternehmen. Sie können gestaffelt beschlossen und ausgerichtet werden.[^8-1]
+
+<sup>2bis</sup> In Abweichung von Absatz 2 kann der Kanton den Beitrag pro Unternehmen ausnahmsweise auf höchstens 1,5 Millionen Franken erhöhen, wenn die Eigentümer zusätzliches Eigenkapital einbringen oder Fremdkapitalgeber auf ihre Forderungen verzichten. Das zusätzliche Eigenkapital und der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Beitrag entsprechen.[^8-2]
 
 <sup>3</sup> Bezieht ein Unternehmen Hilfen sowohl nach Absatz 1 wie nach Absatz 2, so dürfen diese gesamthaft 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und 10 Millionen Franken pro Unternehmen nicht überschreiten.
 
 <sup>4</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach Artikel 3 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz 2018 und 2019.
 
 <sup>5</sup> Der Kanton kann auch Härtefallmassnahmen gewähren, die die Höchstgrenzen nach den Absätzen 1–3 überschreiten. Der Umfang der Beteiligung des Bundes an den Kosten und Verlusten, die dem Kanton entstehen, bleibt auf diese Höchstgrenzen beschränkt.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
+[^8-2]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 9
 
@@ -206,9 +223,11 @@ Der Bund beteiligt sich nur an den Kosten und Verlusten, die dem Kanton aus sein
 
 <sup>1</sup> Das Verfahren zur Gewährung von Härtefallmassnahmen, für die die Beteiligung des Bundes beansprucht wird, richtet sich nach kantonalem Recht.
 
-<sup>2</sup> Die Kantone prüfen die Gesuche im Einzelfall.
+<sup>2</sup> Die Kantone prüfen die Gesuche. Sie können dazu automatisierte Verfahren verwenden.[^12-1]
 
 <sup>3</sup> Sie können für die Prüfung Dritte beiziehen.
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 13
 
@@ -222,9 +241,11 @@ Der Bund beteiligt sich nur an den Kosten und Verlusten, die dem Kanton aus sein
 
 #### Art. 14
 
-**Umfang der Bundesbeteiligung**
+**Umfang der Bundesbeteiligung**[^14-1]
 
-Der Bund beteiligt sich im Rahmen des von der Bundesversammlung bewilligten Verpflichtungskredits an den Kosten und Verlusten, die einem Kanton aus seinen Härtefallmassnahmen für Unternehmen entstehen.
+Der Bund beteiligt sich im Rahmen der in Artikel 12 Absätze 1 und 6 des Covid-19-Gesetzes vom 25. September 2020 vorgesehenen Beiträge an den Kosten und Verlusten, die einem Kanton aus seinen Härtefallmassnahmen für Unternehmen entstehen.
+
+[^14-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021, in Kraft seit 14. Jan. 2021 ([AS 2021 8](https://fedlex.data.admin.ch/eli/oc/2021/8)).
 
 #### Art. 15
 
