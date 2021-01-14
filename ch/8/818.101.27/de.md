@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 2. Juli 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: de
-version: 2021-01-12
+version: 2021-01-15
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210112/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210112-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210112/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210115/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210115-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210115/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210112/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 2. Juli 2020 (Stand am 12. Januar 2021)
+vom 2. Juli 2020 (Stand am 15. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -141,12 +141,14 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 6. Jan. 2021 ([AS 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)). Bereinigt gemäss Ziff. I der V des EDI vom 12. Jan. 2021, in Kraft seit 12. Jan. 2021 ([AS 2021 4](https://fedlex.data.admin.ch/eli/oc/2021/4)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 6. Jan. 2021, in Kraft seit 15. Jan. 2021 ([AS 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)). Bereinigt gemäss Ziff. I der V des EDI vom 12. Jan. 2021, in Kraft seit 12. Jan. 2021 ([AS 2021 4](https://fedlex.data.admin.ch/eli/oc/2021/4)).
 [^annexu1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
 
 Andorra
+
+Dänemark
 
 Georgien
 
@@ -158,6 +160,10 @@ Luxemburg
 
 Montenegro
 
+Königreich der Niederlande
+
+Panama
+
 San Marino
 
 Schweden
@@ -165,6 +171,8 @@ Schweden
 Serbien
 
 Slowenien
+
+Tschechien
 
 Vereinigte Staaten von Amerika
 
