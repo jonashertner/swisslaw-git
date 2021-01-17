@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-01-14
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 14 janvier 2021)
+du 19 juin 2020 (Etat le 18 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -62,19 +62,22 @@ Chaque personne respecte les recommandations de l’Office fédéral de la sant�
 Les voyageurs dans les véhicules de transports publics comme les trains, les trams, les bus, les bateaux, les aéronefs et les remontées mécaniques doivent porter un masque facial. Sont exemptés:
 
 - a. les enfants de moins de 12 ans;
-- b. les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales.
+- b.[^3a-2] les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales; pour justifier de raisons médicales, la personne exemptée de l’obligation de porter un masque doit présenter une attestation délivrée par un spécialiste habilité à exercer sous sa propre responsabilité professionnelle en vertu de la loi du 23 juin 2006 sur les professions médicales[^3a-3] ou de la loi du 18 mars 2011 sur les professions de la psychologie[^3a-4].
 
 <sup>2</sup>
 
 Sont réputés véhicules de transports publics au sens de l’al. 1:
 
-- a.[^3a-2] les véhicules des entreprises titulaires d’une concession au sens de l’art. 6 ou d’une autorisation au sens de l’art. 7 ou 8 de la loi du 20 mars 2009 sur le transport de voyageurs[^3a-3];
-- b. les aéronefs d’entreprises titulaires d’une autorisation d’exploitation conformément à l’art. 27 ou 29 de la loi fédérale du 21 décembre 1948 sur l’aviation[^3a-4], utilisés pour le trafic de lignes ou charter.
+- a.[^3a-5] les véhicules des entreprises titulaires d’une concession au sens de l’art. 6 ou d’une autorisation au sens de l’art. 7 ou 8 de la loi du 20 mars 2009 sur le transport de voyageurs[^3a-6];
+- b. les aéronefs d’entreprises titulaires d’une autorisation d’exploitation conformément à l’art. 27 ou 29 de la loi fédérale du 21 décembre 1948 sur l’aviation[^3a-7], utilisés pour le trafic de lignes ou charter.
 
 [^3a-1]: Introduit par le ch. I de l’O du 2 juil. 2020 ([RO 2020 2735](https://fedlex.data.admin.ch/eli/oc/2020/495)). Nouvelle teneur selon le ch. I de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), en vigueur depuis le 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3a-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^3a-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^3a-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3a-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-4]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^3a-5]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3a-6]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^3a-7]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 3b
 
@@ -87,7 +90,7 @@ Sont réputés véhicules de transports publics au sens de l’al. 1:
 Les personnes suivantes sont exemptées de cette obligation:
 
 - a. les enfants de moins de 12 ans;
-- b. les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales;
+- b.[^3b-3] les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales; pour en justifier, l’art. 3*a*, al. 1, let. b, s’applique;
 - c. les personnes dans les structures d’accueil extrafamilial, dans la mesure où le port d’un masque facial complique considérablement la prise en charge;
 - d. les clients dans les établissements de restauration, les bars et les boîtes de nuit s’ils sont assis à table;
 - e. les personnes faisant l’objet d’une prestation médicale ou cosmétique au visage;
@@ -95,27 +98,29 @@ Les personnes suivantes sont exemptées de cette obligation:
 
 [^3b-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3b-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 3c
 
 **Mesures dans l’espace public[^3c-2]**[^3c-1]
 
-<sup>1</sup> Les rassemblements de plus de 15 personnes dans l’espace public, en particulier sur les places publiques, sur les promenades et dans les parcs sont interdits.
+<sup>1</sup> Les rassemblements de plus de 5 personnes dans l’espace public, en particulier sur les places publiques, sur les promenades et dans les parcs, sont interdits.[^3c-3]
 
 <sup>2</sup>
 
 Toute personne est tenue de porter un masque dans les domaines suivants de l’espace public:
 
-- a.[^3c-3] les zones animées des centres urbains, des villages et des stations de sports d’hiver dans lesquelles des piétons circulent;
-- b. les autres domaines de l’espace public, dès que la concentration de personnes présentes ne permet pas de respecter la distance requise.[^3c-4]
+- a.[^3c-4] les zones animées des centres urbains, des villages et des stations de sports d’hiver dans lesquelles des piétons circulent;
+- b. les autres domaines de l’espace public, dès que la concentration de personnes présentes ne permet pas de respecter la distance requise.[^3c-5]
 
-<sup>3</sup> Les exceptions prévues à l’art. 3*b*, al. 2, let. a et b, s’appliquent à l’obligation visée à l’al. 2.[^3c-5]
+<sup>3</sup> Les exceptions prévues à l’art. 3*b*, al. 2, let. a et b, s’appliquent à l’obligation visée à l’al. 2.[^3c-6]
 
 [^3c-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile), en vigueur depuis le 19 oct. 2020 ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^3c-3]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3c-4]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3c-4]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-6]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
 ## Section 3 Mesures visant les installations, les établissements et les manifestations accessibles au public
 
@@ -134,7 +139,7 @@ Le plan de protection est soumis aux règles suivantes:
 - c. il doit prévoir des mesures limitant l’accès à l’installation, à l’établissement ou à la manifestation de manière à ce que la distance requise soit respectée; cela ne s’applique pas à l’accès aux véhicules des transports publics;
 - d. en présence de personnes exemptées de l’obligation de porter un masque facial en vertu de l’art. 3*b,* al. 2, 6*e* ou 6*f*, il est impératif de respecter la distance requise ou de prendre d’autres mesures de protection efficaces, comme l’installation de séparations adéquates; si cela n’est pas possible en raison du type d’activité ou des particularités des lieux, la collecte des coordonnées des personnes présentes au sens de l’art. 5 doit être prévue.[^4-1]
 
-<sup>3</sup> Les prescriptions visées à l’al. 2 sont détaillées en annexe. En accord avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR), le Département fédéral de l’intérieur (DFI) met à jour l’annexe en fonction de l’état actuel des connaissances scientifiques.
+<sup>3</sup> Les prescriptions visées à l’al. 2 sont détaillées à l’annexe 1. En accord avec le Département fédéral de l’économie, de la formation et de la recherche (DEFR), le Département fédéral de l’intérieur (DFI) met à jour l’annexe en fonction de l’état actuel des connaissances scientifiques.
 
 <sup>4</sup> Le plan de protection désigne une personne responsable de la mise en œuvre du plan et des contacts avec les autorités compétentes.
 
@@ -144,7 +149,7 @@ Le plan de protection est soumis aux règles suivantes:
 
 **Collecte des coordonnées**
 
-<sup>1</sup> Si les coordonnées des participants ou des visiteurs sont collectées au sens de l’annexe, ch. 4, les personnes concernées doivent être informées de cette collecte et du but de l’utilisation des données. Si les coordonnées visées sont déjà connues, notamment dans un établissement de formation ou une manifestation privée, l’information porte uniquement sur le but de l’utilisation des données.
+<sup>1</sup> Si les coordonnées des participants ou des visiteurs sont collectées au sens de l’annexe 1, ch. 4, les personnes concernées doivent être informées de cette collecte et du but de l’utilisation des données. Si les coordonnées visées sont déjà connues, notamment dans un établissement de formation ou une manifestation privée, l’information porte uniquement sur le but de l’utilisation des données.
 
 <sup>2</sup> Les coordonnées doivent être immédiatement transmises par voie élecronique au service cantonal compétent qui en fait la demande, aux fins d’identification et d’information des personnes présumées infectées au sens de l’art. 33 LEp.[^5-1]
 
@@ -186,22 +191,9 @@ L’interdiction ne s’applique pas aux établissements suivants:
 
 #### Art. 5a<sup>bis</sup>
 
-**Heures d’ouverture des magasins et des établissements accessibles au public qui proposent des services**[^5abis-1]
+[^5abis-1]
 
-Les installations et les établissements accessibles au public suivants doivent demeurer fermés entre 19 h 00 et 6 h 00, ainsi que le dimanche, les 25 et 26 décembre et le 1<sup>er</sup> janvier:
-
-- a. les magasins et les marchés à l’extérieur, y compris les services correspondants proposés en libre-service; font exception les pharmacies et les boulangeries;
-- b.
-
-  les commerces et les établissements qui proposent des services comme les bureaux de poste, les banques, les agences de voyage et les coiffeurs, y compris les services correspondants proposés en libre-service; font exception:
-
-  - 1\. les établissements de santé tels que les hôpitaux, les cliniques et les cabinets médicaux ainsi que les cabinets et établissements gérés par des professionnels de la santé au sens du droit fédéral et cantonal,
-  - 2\. les services du domaine social (centres de conseil),
-  - 3\. les services de l’administration publique et de la police,
-  - 4\. les guichets des entreprises de transports publics,
-  - 5\. les services de location de voiture.
-
-[^5abis-1]: Introduit par le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public) ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5abis-1]: Introduit par le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public) ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Abrogé par le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), avec effet du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 5b
 
@@ -281,6 +273,43 @@ Les installations et les établissements accessibles au public des domaines de l
 
 [^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
+#### Art. 5e
+
+**Dispositions particulières pour les magasins et les marchés**[^5e-1]
+
+<sup>1</sup> Les magasins et les marchés à l’extérieur sont fermés au public. Seul est autorisé le retrait sur place de la marchandise commandée.
+
+<sup>2</sup>
+
+L’al. 1 ne s’applique pas aux établissements suivants, marchés à l’extérieur présentant la même offre inclus:
+
+- a. les magasins d’alimentation et les autres magasins, pour autant qu’ils vendent des denrées alimentaires ou d’autres biens de première nécessité et de consommation courante visés à l’annexe 2;
+- b. les pharmacies, les drogueries et les magasins qui vendent des moyens auxiliaires médicaux (p. ex. lunettes, appareils auditifs);
+- c. les points de vente des opérateurs de télécommunication;
+- d. les magasins de réparation et d’entretien, comme les blanchisseries, les ateliers de couture, les cordonneries, les services de serrurerie ainsi que les garages automobiles et les magasins de vélo, pour autant qu’ils proposent un service de réparation;
+- e. les magasins de bricolage et de jardinage ainsi que les quincailleries, pour les articles de bricolage et de jardinage visés à l’annexe 2;
+- f. les magasins de fleurs;
+- g. les stations-services.
+
+<sup>3</sup> L’al. 1 ne s’applique en outre pas aux marchés de bétail et aux marchés de bétail de boucherie à l’extérieur.
+
+[^5e-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+#### Art. 5f
+
+**Heures d’ouverture des établissements accessibles au public qui proposent des services**[^5f-1]
+
+Les commerces et les établissements accessibles au public qui proposent des services, comme les bureaux de poste, les banques, les agences de voyage et les coiffeurs, y compris les services correspondants proposés en libre-service, doivent demeurer fermés entre 19 h 00 et 6 h 00 et le dimanche; font exception:
+
+- a. les établissements de santé tels que les hôpitaux, les cliniques et les cabinets médicaux ainsi que les cabinets et établissements gérés par des professionnels de la santé au sens du droit fédéral et cantonal;
+- b. les services du domaine social (centres de conseil);
+- c. les services de l’administration publique et de la police;
+- d. les guichets des entreprises de transports publics;
+- e. les services de location de voiture;
+- f. les distributeurs automatiques offrant des services, en particulier les distributeurs de billets.
+
+[^5f-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
 #### Art. 6
 
 **Dispositions particulières pour les manifestations, les foires et les marchés[^6-2]**[^6-1]
@@ -298,13 +327,14 @@ Les manifestations sont interdites. Sont exceptées:
 - g. les manifestations sans public dans les domaines du sport et de la culture au sens des art. 6*e* et 6*f*, al. 2 et 3;
 - h. les manifestations dans le cercle familial et entre amis au sens de l’al. 2.[^6-3]
 
-<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) qui n’ont pas lieu dans des installations et des établissements accessibles au public sont limitées à 10 personnes. L’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.
+<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) sont limitées à 5 personnes. L’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.[^6-4]
 
 <sup>3</sup> L’organisation de foires et de marchés dans des espaces clos est interdite.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2020 (Restrictions des manifestations et limitation des heures d’ouverture des restaurants et d’autres installations et établissements accessibles au public), en vigueur du 12 déc. 2020 au 28 fév. 2021 ([RO 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 6a et 6b
 
@@ -512,20 +542,26 @@ Les exploitants et les organisateurs doivent:
 
 <sup>1bis</sup>
 
-Dans les espaces clos, tous les employés sont tenus de porter un masque facial; cette obligation ne s’applique pas:
+Dans les espaces clos, y compris les véhicules, où se tiennent plus d’une personne, toutes les personnes doivent porter un masque facial; cette obligation ne s’applique pas:[^10-1]
 
-- a. dans les espaces de travail où la distance entre les postes de travail peut être respectée, notamment dans des espaces cloisonnés;
+- a.[^10-2] ...
 - b. aux activités pour lesquelles le port d’un masque est impossible pour des raisons de sécurité ou à cause du type d’activité concerné;
-- c. aux personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales.[^10-1]
+- c.[^10-3] aux personnes exemptées du port du masque facial en vertu de l’art. 3*b*, al. 2.[^10-4]
 
-<sup>2</sup> L’employeur prend d’autres mesures en vertu du principe STOP (substitution, technique, organisation, personnel), notamment la mise en place de séparations physiques, la séparation des équipes ou le port d’un masque facial dans les espaces extérieurs et les véhicules.[^10-2]
+<sup>2</sup> L’employeur prend d’autres mesures en vertu du principe STOP (substitution, technique, organisation, personnel), notamment la mise en place de séparations physiques, la séparation des équipes ou le port d’un masque facial dans les espaces extérieurs.[^10-5]
 
-<sup>3</sup> L’employeur respecte les recommandations de l’OFSP concernant la possibilité pour les employés de remplir leurs obligations professionnelles à domicile[^10-3].[^10-4]
+<sup>3</sup> Lorsque la nature de l’activité le rend possible et réalisable sans efforts disproportionnés à un coût raisonnable, l’employeur veille à ce que les employés remplissent leurs obligations professionnelles depuis leur domicile. Il prend les mesures organisationnelles et techniques appropriées à cette fin. Les employés n’ont droit à aucun remboursement de frais pour remplir leurs obligations professionnelles depuis leur domicile en vertu de la présente disposition.[^10-6]
 
-[^10-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-3]: Consultables sous www.ofsp.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Nouveau coronavirus &gt; Voici comment nous protéger.
-[^10-4]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile), en vigueur depuis le 19 oct. 2020 ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
+<sup>4</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^10-7] s’applique en sus à la protection des employés vulnérables.[^10-8]
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-2]: Abrogée par le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), avec effet du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-4]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-6]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-7]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^10-8]: Introduit par le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 11
 
@@ -563,13 +599,13 @@ Les cantons ont l’obligation de communiquer régulièrement au Service sanitai
 
 Est puni de l’amende quiconque:
 
-- a.[^13-2] en tant qu’exploitant ou organisateur enfreint intentionnellement les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*a*<sup>bis</sup>, 5*d*, al. 1, et 6*d* à 6*f*;
+- a.[^13-2] en tant qu’exploitant ou organisateur enfreint intentionnellement les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*d*, al. 1, 5*e*, 5*f* et 6*d* à 6*f*;
 - a<sup>bis</sup>.[^13-3] exploite un domaine skiable sans l’autorisation requise ou en dérogeant au plan de protection approuvé;
 - b. organise une manifestation interdite en vertu de l’art. 6, al. 1;
 - c.[^13-4] organise une foire ou un marché interdits en vertu de l’art. 6, al. 3.
 
 [^13-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^13-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 [^13-3]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^13-4]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -617,13 +653,13 @@ Les ordonnances suivantes sont modifiées comme suit:
 [^15-2]: Introduit par le ch. I de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations) ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Abrogé par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), avec effet au 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Introduit par le ch. I de l’O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogé par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), avec effet au 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Annexe*[^t-1]*
+Annexe 1*[^t-1]*
 
 (art. 4, al. 3, et 5, al. 1)
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) et du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^t-1]: Anciennement annexe. Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) et du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 Généralités
 
@@ -719,3 +755,30 @@ Annexe*[^t-1]*
 - 4\.4<sup>bis</sup> L’exploitant ou l’organisateur peut prendre des dispositions appropriées pour s’assurer que les coordonnées collectées sont correctes.
 - 4\.5 Pour les familles et les autres groupes de personnes qui se connaissent, de même que pour les établissements de restauration, les bars et les boîtes de nuit, les coordonnées d’un seul membre de la famille ou du groupe suffisent.
 - 4\.6 L’exploitant ou l’organisateur doit garantir la confidentialité des coordonnées qu’il collecte et la sécurité des données, notamment durant leur conservation.
+
+Annexe 2*[^t-2]*
+
+(art. 5*e*, al. 2, let. a et e)
+
+## Denrées alimentaires et autres biens de première nécessité et de consommation courante
+
+[^t-2]: Introduite par le ch. II de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+### 1. Denrées alimentaires
+
+- 1\.1 produits alimentaires I (produits frais) tels que viande, poisson, charcuterie, produits laitiers, œufs, fruits et légumes frais, pain et pâtisseries;
+- 1\.2 produits alimentaires II (produits secs), tels que boissons alcoolisées et non alcoolisées, confiseries, produits du tabac, conserves, féculents (farine, céréales, riz, nouilles), épices, produits congelés, aliments pour bébés.
+
+### 2. Produits non alimentaires
+
+- 2\.1 les articles de droguerie, tels que savon, produits de douche, parfums, déodorants, papier hygiénique, crèmes corporelles, produits de rasage, produits de soins capillaires, produits de soins dentaires, articles pour bébés, couches, autres produits cosmétiques, produits de santé et médicaments en vente libre dont la remise est autorisée également en dehors des pharmacies;
+- 2\.2 les articles de vaisselle et de table, y compris les couverts et les ustensiles de cuisine, les récipients de stockage et le matériel de cuisson et de conservation, dans la mesure où ils peuvent être considérés comme des biens de consommation courante de par leur nature et leur prix, ainsi que les bougies;
+- 2\.3 les produits de nettoyage et d’entretien;
+- 2\.4 les journaux et revues;
+- 2\.5 les produits de papeterie;
+- 2\.6 les plantes d’intérieur et les fleurs coupées;
+- 2\.7 le matériel photographique;
+- 2\.8 les pièces de rechange et accessoires électrotechniques (piles, batteries, etc.);
+- 2\.9 les articles de bonneterie, les sous-vêtements et les vêtements pour bébés, dans la mesure où ils peuvent être considérés comme des biens de consommation courante de par leur nature et leur prix;
+- 2\.10 les articles de bricolage et de jardinage (outils, matériaux de construction, semences, terre, etc.);
+- 2\.11 les aliments pour animaux et les produits nécessaires à l’hygiène et à l’élevage des animaux, ainsi que les animaux qui doivent être acquis pour garantir une détention conforme aux besoins de l’espèce.

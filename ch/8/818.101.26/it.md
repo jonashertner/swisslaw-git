@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-01-14
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 14 gennaio 2021)
+del 19 giugno 2020 (Stato 18 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -62,19 +62,22 @@ Ogni persona rispetta le raccomandazioni dell’Ufficio federale della sanità p
 Chi viaggia sui veicoli del trasporto pubblico come treni, tranvie, autobus, battelli, aeromobili e impianti a fune deve portare una mascherina facciale. Sono esentati da quest’obbligo:
 
 - a. i bambini fino al compimento dei 12 anni;
-- b. le persone che possono dimostrare che per motivi particolari, segnatamente di natura medica, non possono portare mascherine facciali.
+- b.[^3a-2] le persone che possono provare che per motivi particolari, segnatamente di natura medica, non possono portare mascherine facciali; quale prova dei motivi di natura medica è richiesto un attestato rilasciato da un professionista della salute abilitato all’esercizio della professione sotto la propria responsabilità professionale secondo la legge del 23 giugno 2006[^3a-3] sulle professioni mediche o la legge federale del 18 marzo 2011[^3a-4] sulle professioni psicologiche.
 
 <sup>2</sup>
 
 Per veicoli del trasporto pubblico di cui al capoverso 1 s’intendono:
 
-- a.[^3a-2] i veicoli di imprese titolari di una concessione secondo l’articolo 6 o di un’autorizzazione secondo l’articolo 7 o 8 della legge del 20 marzo 2009[^3a-3] sul trasporto di viaggiatori;
-- b. aeromobili di imprese titolari di un’autorizzazione di esercizio secondo l’articolo 27 o 29 della legge federale del 21 dicembre 1948[^3a-4] sulla navigazione aerea, utilizzati nel traffico di linea o charter.
+- a.[^3a-5] i veicoli di imprese titolari di una concessione secondo l’articolo 6 o di un’autorizzazione secondo l’articolo 7 o 8 della legge del 20 marzo 2009[^3a-6] sul trasporto di viaggiatori;
+- b. aeromobili di imprese titolari di un’autorizzazione di esercizio secondo l’articolo 27 o 29 della legge federale del 21 dicembre 1948[^3a-7] sulla navigazione aerea, utilizzati nel traffico di linea o charter.
 
 [^3a-1]: Introdotto dal n. I dell’O del 2 lug. 2020 ([RU 2020 2735](https://fedlex.data.admin.ch/eli/oc/2020/495)). Nuovo testo giusta il n. I dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni), in vigore dal 15 ago. 2020 ([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^3a-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3a-3]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^3a-4]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^3a-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3a-3]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-4]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^3a-5]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3a-6]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^3a-7]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 3b
 
@@ -84,10 +87,10 @@ Per veicoli del trasporto pubblico di cui al capoverso 1 s’intendono:
 
 <sup>2</sup>
 
-Sono esentati da questo obbligo:
+Sono esentati da quest’obbligo:
 
 - a. i bambini fino al compimento dei 12 anni;
-- b. le persone che possono dimostrare che per motivi particolari, segnatamente di natura medica, non possono portare mascherine facciali;
+- b.[^3b-3] le persone che possono provare che per motivi particolari, segnatamente di natura medica, non possono portare mascherine facciali; alla prova si applica l’articolo 3*a* capoverso 1 lettera b;
 - c. le persone in istituzioni di custodia di bambini complementare alla famiglia, se l’uso della mascherina complica notevolmente la custodia;
 - d. gli ospiti di strutture della ristorazione, bar e club, se sono seduti al tavolo;
 - e. le persone che seguono un trattamento medico o cosmetico al viso;
@@ -95,27 +98,29 @@ Sono esentati da questo obbligo:
 
 [^3b-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro)([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3b-3]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 3c
 
 **Provvedimenti nello spazio pubblico[^3c-2]**[^3c-1]
 
-<sup>1</sup> Sono vietati gli assembramenti di più di 15 persone nello spazio pubblico, segnatamente in piazze pubbliche, luoghi di passeggio e parchi.
+<sup>1</sup> Sono vietati gli assembramenti di più di cinque persone nello spazio pubblico, segnatamente in piazze pubbliche, luoghi di passeggio e parchi.[^3c-3]
 
 <sup>2</sup>
 
 Chiunque deve portare una mascherina facciale nei seguenti settori dello spazio pubblico:
 
-- a.[^3c-3] nelle aree pedonali animate dei centri urbani, dei nuclei di paesi e delle località di sport invernali;
-- b. in altri settori dello spazio pubblico, non appena la concentrazione di persone non permette più il rispetto della distanza obbligatoria.[^3c-4]
+- a.[^3c-4] nelle aree pedonali animate dei centri urbani, dei nuclei di paesi e delle località di sport invernali;
+- b. in altri settori dello spazio pubblico, non appena la concentrazione di persone non permette più il rispetto della distanza obbligatoria.[^3c-5]
 
-<sup>3</sup> All’obbligo di cui al capoverso 2 si applicano le deroghe di cui all’articolo 3*b* capoverso 2 lettere a e b.[^3c-5]
+<sup>3</sup> All’obbligo di cui al capoverso 2 si applicano le deroghe di cui all’articolo 3*b* capoverso 2 lettere a e b.[^3c-6]
 
 [^3c-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro), in vigore dal 19 ott. 2020 ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^3c-3]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3c-4]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-3]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3c-4]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-6]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
 ## Sezione 3: Provvedimenti concernenti le strutture accessibili al pubblico e le manifestazioni
 
@@ -134,7 +139,7 @@ Al piano di protezione si applicano le seguenti prescrizioni:
 - c. deve prevedere provvedimenti che limitino l’accesso alla struttura o alla manifestazione in modo da garantire il rispetto della distanza obbligatoria. La prescrizione non si applica all’accesso ai veicoli dei trasporti pubblici;
 - d. se sono presenti persone esentate dall’obbligo della mascherina facciale in virtù dell’articolo 3*b* capoverso 2 o dell’articolo 6*e* o 6*f*, deve essere mantenuta la distanza obbligatoria o devono essere adottate ulteriori misure di protezione idonee, quale l’installazione di barriere efficaci. Se a causa del tipo di attività o delle circostanze locali questo non è possibile, occorre prevedere la registrazione dei dati di contatto delle persone presenti secondo l’articolo 5.[^4-1]
 
-<sup>3</sup> Le prescrizioni di cui al capoverso 2 sono precisate nell’allegato. Il Dipartimento federale dell’interno (DFI) le aggiorna d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) in base allo stato attuale della scienza.
+<sup>3</sup> Le prescrizioni di cui al capoverso 2 sono precisate nell’allegato 1. Il Dipartimento federale dell’interno (DFI) le aggiorna d’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) in base allo stato attuale della scienza.
 
 <sup>4</sup> Nel piano di protezione deve essere designata una persona responsabile dell’attuazione del piano e dei contatti con le autorità competenti.
 
@@ -144,7 +149,7 @@ Al piano di protezione si applicano le seguenti prescrizioni:
 
 **Registrazione dei dati di contatto**
 
-<sup>1</sup> In caso di registrazione dei dati di contatto secondo il numero 4 dell’allegato, le persone interessate devono essere informate in merito alla registrazione e all’impiego dei dati. Se i dati di contatto sono già disponibili, segnatamente negli istituti di formazione o in occasione di eventi privati, occorre informare in merito all’impiego.
+<sup>1</sup> In caso di registrazione dei dati di contatto secondo il numero 4 dell’allegato 1, le persone interessate devono essere informate in merito alla registrazione e all’impiego dei dati. Se i dati di contatto sono già disponibili, segnatamente negli istituti di formazione o in occasione di eventi privati, occorre informare in merito all’impiego.
 
 <sup>2</sup> Su richiesta, i dati di contatto devono essere trasmessi senza indugio in forma elettronica ai servizi cantonali competenti per l’identificazione e l’informazione delle persone sospette contagiate conformemente all’articolo 33 LEp.[^5-1]
 
@@ -186,22 +191,9 @@ Il divieto non vige per le strutture seguenti:
 
 #### Art. 5a<sup>bis</sup>
 
-**Orari di apertura dei negozi e delle strutture accessibili al pubblico che offrono servizi**[^5abis-1]
+[^5abis-1]
 
-Le seguenti strutture accessibili al pubblico devono rimanere chiuse tra le ore 19.00 e le ore 06.00, la domenica, nonché il 25 e il 26 dicembre e il 1° gennaio:
-
-- a. i negozi e i mercati all’aperto, incluse le corrispondenti offerte self-service; sono escluse le farmacie e le panetterie;
-- b.
-
-  gli esercizi e le strutture che offrono servizi quali uffici postali, banche, agenzie di viaggio e parrucchieri, incluse le corrispondenti offerte self-service; sono esclusi:
-
-  - 1\. le strutture sanitarie quali ospedali, cliniche e studi medici, nonché studi e strutture di professionisti della salute secondo il diritto federale e cantonale,
-  - 2\. le strutture sociali (centri di consulenza),
-  - 3\. gli uffici della pubblica amministrazione e della polizia,
-  - 4\. gli sportelli delle strutture dei trasporti pubblici,
-  - 5\. gli autonoleggi.
-
-[^5abis-1]: Introdotto dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5abis-1]: Introdotto dal n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico) ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Abrogato dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), con effetto dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 5b
 
@@ -281,6 +273,43 @@ Le strutture culturali, ricreative, per il tempo libero e sportive accessibili a
 
 [^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
+#### Art. 5e
+
+**Disposizioni particolari per i negozi e i mercati**[^5e-1]
+
+<sup>1</sup> I negozi e i mercati all’aperto sono chiusi al pubblico. È ammesso il ritiro sul posto della merce ordinata.
+
+<sup>2</sup>
+
+Il capoverso 1 non si applica alle seguenti strutture, compresi i mercati all’aperto con la stessa offerta:
+
+- a. i negozi di generi alimentari e altri negozi, nella misura in cui vendono generi alimentari o altri beni di prima necessità e di uso corrente secondo l’allegato 2;
+- b. le farmacie, le drogherie e i negozi di mezzi ausiliari medici (p. es. occhiali, apparecchi acustici);
+- c. i punti vendita di operatori di servizi di telecomunicazione;
+- d. i negozi di riparazione e di manutenzione quali lavanderie, sartorie, calzolai, servizi di duplicazione di chiavi, autofficine e negozi di biciclette, nella misura in cui offrono un servizio di riparazione;
+- e. i negozi di hobbistica e di giardinaggio, nonché i negozi di ferramenta, per gli articoli di hobbistica e di giardinaggio secondo l’allegato 2;
+- f. i negozi di fiori;
+- g. le stazioni di servizio.
+
+<sup>3</sup> Il capoverso 1 non si applica inoltre ai mercati di bestiame e di bestiame da macello all’aperto.
+
+[^5e-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+#### Art. 5f
+
+**Orari di apertura delle strutture accessibili al pubblico che offrono servizi**[^5f-1]
+
+Gli esercizi e le strutture accessibili al pubblico che offrono servizi quali uffici postali, banche, agenzie di viaggio e parrucchieri, incluse le corrispondenti offerte self-service, devono rimanere chiusi tra le ore 19.00 e le ore 06.00 e la domenica; sono esclusi:
+
+- a. le strutture sanitarie quali ospedali, cliniche e studi medici, nonché studi e strutture di professionisti della salute secondo il diritto federale e cantonale;
+- b. le strutture sociali (centri di consulenza);
+- c. gli uffici della pubblica amministrazione e della polizia;
+- d. gli sportelli delle strutture dei trasporti pubblici;
+- e. gli autonoleggi;
+- f. gli sportelli automatici per la fruizione di un servizio, in particolare il prelievo di denaro.
+
+[^5f-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
 #### Art. 6
 
 **Disposizioni particolari per le manifestazioni, le fiere e i mercati[^6-2]**[^6-1]
@@ -298,13 +327,14 @@ Lo svolgimento di manifestazioni è vietato. Sono esclusi dal divieto:
 - g. le manifestazioni senza pubblico nel settore dello sport e della cultura secondo gli articoli 6*e* e 6*f* capoversi 2 e 3;
 - h. le manifestazioni che hanno luogo nella cerchia familiare o di amici secondo il capoverso 2.[^6-3]
 
-<sup>2</sup> Alle manifestazioni che hanno luogo nella cerchia familiare o di amici (manifestazioni private) in strutture non accessibili al pubblico possono partecipare al massimo dieci persone. Non vige l’obbligo di elaborare e attuare un piano di protezione.
+<sup>2</sup> Alle manifestazioni che hanno luogo nella cerchia familiare o di amici (manifestazioni private) possono partecipare al massimo cinque persone. Non vige l’obbligo di elaborare e attuare un piano di protezione.[^6-4]
 
 <sup>3</sup> Lo svolgimento di fiere e mercati in luoghi chiusi è vietato.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6-3]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2020 (Restrizioni per le manifestazioni e gli orari di apertura di ristoranti e altre strutture accessibili al pubblico), in vigore dal 12 dic. 2020 al 28 feb. 2021 ([RU 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 6a e 6b
 
@@ -512,20 +542,26 @@ I gestori e gli organizzatori devono:
 
 <sup>1bis</sup>
 
-Nei locali chiusi tutti i lavoratori devono portare una mascherina facciale. Questo obbligo non vige per:
+Nei locali chiusi, inclusi i veicoli, in cui è presente più di una persona tutte le persone devono portare una mascherina facciale. Quest’obbligo non vige per:[^10-1]
 
-- a. i settori di lavoro in cui può essere mantenuta la distanza tra i posti di lavoro, segnatamente in locali separati;
+- a.[^10-2] ...
 - b. le attività per le quali, per motivi di sicurezza o a causa della natura dell’attività, non può essere portata una mascherina;
-- c. le persone che possono dimostrare che per motivi particolari, segnatamente di natura medica, non possono portare mascherine facciali. [^10-1]
+- c.[^10-3] le persone che secondo l’articolo 3*b* capoverso 2 sono esentate dall’obbligo di portare una mascherina facciale.[^10-4]
 
-<sup>2</sup> I datori di lavoro prendono ulteriori provvedimenti secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale), segnatamente la separazione fisica, squadre separate o l’uso di mascherine all’esterno e sui veicoli.[^10-2]
+<sup>2</sup> I datori di lavoro prendono ulteriori provvedimenti secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale), segnatamente la separazione fisica, squadre separate o l’uso di mascherine all’esterno.[^10-5]
 
-<sup>3</sup> I datori di lavoro rispettano le raccomandazioni dell’UFSP sulla possibilità di adempiere da casa gli obblighi lavorativi[^10-3].[^10-4]
+<sup>3</sup> Qualora per la natura dell’attività ciò sia possibile e attuabile senza un onere sproporzionato, i datori di lavoro provvedono affinché i lavoratori adempiano da casa i loro obblighi lavorativi. Adottano provvedimenti organizzativi e tecnici idonei a tal fine. Per l’adempimento da casa dei loro obblighi lavorativi disposto in virtù della presente disposizione, ai lavoratori non è dovuta alcuna indennità per spese.[^10-6]
 
-[^10-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-2]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-3]: Consultabili su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: insorgenze, epidemie, pandemie &gt; Insorgenze e epidemie attuali &gt; Nuovo coronavirus &gt; Così ci proteggiamo.
-[^10-4]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro), in vigore dal 19 ott. 2020 ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
+<sup>4</sup> Alla protezione dei lavoratori particolarmente a rischio si applica inoltre l’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^10-7].[^10-8]
+
+[^10-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-2]: Abrogata dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), con effetto dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-4]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^10-5]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-6]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-7]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^10-8]: Introdotto dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 11
 
@@ -563,13 +599,13 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 È punito con la multa chi:
 
-- a.[^13-2] in qualità di gestore o organizzatore intenzionalmente non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a,* 5*a*<sup>bis</sup>, 5*d* capoverso 1 e 6*d*–6*f*;
+- a.[^13-2] in qualità di gestore o organizzatore intenzionalmente non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 5*e*, 5*f* e 6*d*–6*f*;
 - [tab] a<sup>bis</sup>.[^13-3]gestisce un comprensorio sciistico senza la necessaria autorizzazione o derogando al piano di protezione approvato;
 - b. svolge una manifestazione vietata secondo l’articolo 6 capoverso 1;
 - c.[^13-4] svolge fiere o mercati il cui svolgimento è vietato secondo l’articolo 6 capoverso 3.
 
 [^13-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^13-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 [^13-3]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^13-4]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -615,13 +651,13 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 [^15-2]: Introdotto dal n. I dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni)([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Allegato*[^t-1]*
+Allegato 1*[^t-1]*
 
 (art. 4 cpv. 3 e 5 cpv. 1)
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) e del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^t-1]: Originario all. Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali) ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) e del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 In generale
 
@@ -718,3 +754,30 @@ Allegato*[^t-1]*
 - 4\.4<sup>bis</sup> Il gestore o l’organizzatore deve garantire con misure adeguate la correttezza dei dati di contatto rilevati.
 - 4\.5 Per le famiglie o altri gruppi di persone che si conoscono tra di loro e nelle strutture della ristorazione, nei bar e nei club è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo.
 - 4\.6 Il gestore o l’organizzatore deve garantire la riservatezza dei dati di contatto registrati e la sicurezza dei dati, segnatamente nell’ambito della loro conservazione.
+
+Allegato 2*[^t-2]*
+
+(art. 5*e* cpv. 2 lett. a ed e)
+
+## Generi alimentari e altri beni di prima necessità e di uso corrente
+
+[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+### 1. Generi alimentari
+
+- 1\.1 Prodotti alimentari I (prodotti freschi) quali, in particolare, carne, pesce, salumi, latticini, uova, frutta e verdura fresca, pane e prodotti di panetteria;
+- 1\.2 prodotti alimentari II (prodotti conservabili) quali, in particolare, bevande con e senza alcol, prodotti dolciari, prodotti del tabacco, conserve, farinacei (farina, cereali, riso, pasta), spezie, prodotti surgelati, alimenti per neonati.
+
+### 2. Prodotti non alimentari
+
+- 2\.1 Articoli di drogheria, in particolare saponi, preparazioni per il bagno, profumi, deodoranti, prodotti igienici di carta, creme per la pelle, accessori per la rasatura, prodotti per la cura dei capelli, prodotti per la cura dei denti, prodotti per la cura dei neonati, pannolini, altri prodotti cosmetici, prodotti sanitari e medicamenti in vendita libera la cui dispensazione ai consumatori è ammessa anche al di fuori delle farmacie;
+- 2\.2 pentole e stoviglie, comprese posate e utensili da cucina, contenitori e fogli per la conservazione di alimenti, nella misura in cui, per loro natura e prezzo, hanno carattere di bene di consumo, nonché candele;
+- 2\.3 detersivi e prodotti per la pulizia e la manutenzione;
+- 2\.4 giornali e riviste;
+- 2\.5 carta e articoli di cartoleria;
+- 2\.6 piante da appartamento e fiori recisi;
+- 2\.7 materiale di consumo fotografico;
+- 2\.8 pezzi di ricambio e accessori elettrotecnici (quali batterie, accumulatori ecc.);
+- 2\.9 articoli di calzetteria, biancheria intima e indumenti per neonati, nella misura in cui, per loro natura e prezzo, hanno carattere di bene di consumo;
+- 2\.10 articoli di hobbistica e di giardinaggio (quali attrezzi, materiale da costruzione, sementi, terriccio);
+- 2\.11 alimenti e prodotti necessari per l’igiene e la detenzione di animali, nonché animali che devono essere acquistati per garantire una detenzione rispettosa delle specie.

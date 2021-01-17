@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-01-14
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210114/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210114-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210114/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 14. Januar 2021)
+vom 19. Juni 2020 (Stand am 18. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -62,19 +62,22 @@ Jede Person beachtet die Empfehlungen des Bundesamtes für Gesundheit (BAG) zu H
 Reisende in Fahrzeugen des öffentlichen Verkehrs wie Zügen, Strassenbahnen, Bussen, Schiffen, Luftfahrzeugen und Seilbahnen müssen eine Gesichtsmaske tragen. Davon ausgenommen sind:
 
 - a. Kinder vor ihrem 12. Geburtstag;
-- b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.
+- b.[^3a-2] Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis medizinischer Gründe ist ein Attest einer Fachperson erforderlich, die nach dem Medizinalberufegesetz vom 23. Juni 2006[^3a-3] oder dem Psychologieberufegesetz vom 18. März 2011[^3a-4] zur Berufsausübung in eigener fachlicher Verantwortung befugt ist.
 
 <sup>2</sup>
 
 Als Fahrzeuge des öffentlichen Verkehrs nach Absatz 1 gelten:
 
-- a.[^3a-2] Fahrzeuge von Unternehmen mit einer Konzession nach Artikel 6 oder einer Bewilligung nach Artikel 7 oder 8 des Personenbeförderungsgesetzes vom 20. März 2009[^3a-3];
-- b. Luftfahrzeuge von Unternehmen mit einer Betriebsbewilligung nach Artikel 27 oder 29 des Luftfahrtgesetzes vom 21. Dezember 1948[^3a-4], die im Linien- oder Charterverkehr eingesetzt werden.
+- a.[^3a-5] Fahrzeuge von Unternehmen mit einer Konzession nach Artikel 6 oder einer Bewilligung nach Artikel 7 oder 8 des Personenbeförderungsgesetzes vom 20. März 2009[^3a-6];
+- b. Luftfahrzeuge von Unternehmen mit einer Betriebsbewilligung nach Artikel 27 oder 29 des Luftfahrtgesetzes vom 21. Dezember 1948[^3a-7], die im Linien- oder Charterverkehr eingesetzt werden.
 
 [^3a-1]: Eingefügt durch Ziff. I der V vom 2. Juli 2020 ([AS 2020 2735](https://fedlex.data.admin.ch/eli/oc/2020/495)). Fassung gemäss Ziff. I der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), in Kraft seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^3a-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3a-3]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
-[^3a-4]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^3a-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3a-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
+[^3a-4]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
+[^3a-5]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3a-6]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
+[^3a-7]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 
 #### Art. 3b
 
@@ -87,7 +90,7 @@ Als Fahrzeuge des öffentlichen Verkehrs nach Absatz 1 gelten:
 Folgende Personen sind von dieser Pflicht ausgenommen:
 
 - a. Kinder vor ihrem 12. Geburtstag;
-- b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können;
+- b.[^3b-3] Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können; für den Nachweis gilt Artikel 3*a* Absatz 1 Buchstabe b;
 - c. Personen in Institutionen der familienergänzenden Kinderbetreuung, sofern das Tragen einer Gesichtsmaske die Betreuung wesentlich erschwert;
 - d. Gäste in Restaurations-, Bar- und Clubbetrieben, wenn sie am Tisch sitzen;
 - e. Personen, die eine medizinische oder kosmetische Dienstleistung im Gesicht in Anspruch nehmen;
@@ -95,27 +98,29 @@ Folgende Personen sind von dieser Pflicht ausgenommen:
 
 [^3b-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^3b-3]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 3c
 
 **Massnahmen im öffentlichen Raum[^3c-2]**[^3c-1]
 
-<sup>1</sup> Menschenansammlungen von mehr als 15 Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
+<sup>1</sup> Menschenansammlungen von mehr als fünf Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.[^3c-3]
 
 <sup>2</sup>
 
 Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske tragen:
 
-- a.[^3c-3] in belebten Fussgängerbereichen von urbanen Zentren, Dorfkernen und Wintersportorten;
-- b. in weiteren Bereichen des öffentlichen Raums, sobald es zu einer Konzentration von Personen kommt, bei welcher der erforderliche Abstand nicht eingehalten werden kann.[^3c-4]
+- a.[^3c-4] in belebten Fussgängerbereichen von urbanen Zentren, Dorfkernen und Wintersportorten;
+- b. in weiteren Bereichen des öffentlichen Raums, sobald es zu einer Konzentration von Personen kommt, bei welcher der erforderliche Abstand nicht eingehalten werden kann.[^3c-5]
 
-<sup>3</sup> Auf die Pflicht nach Absatz 2 sind die Ausnahmen nach Artikel 3*b* Absatz 2 Buchstaben a und b anwendbar.[^3c-5]
+<sup>3</sup> Auf die Pflicht nach Absatz 2 sind die Ausnahmen nach Artikel 3*b* Absatz 2 Buchstaben a und b anwendbar.[^3c-6]
 
 [^3c-1]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung), in Kraft seit 19. Okt. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^3c-3]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3c-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-3]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^3c-4]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^3c-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
 ## 3. Abschnitt: Massnahmen betreffend öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen
 
@@ -134,7 +139,7 @@ Für das Schutzkonzept gelten folgende Vorgaben:
 - c. Es muss Massnahmen vorsehen, die den Zugang zur Einrichtung, zum Betrieb oder zur Veranstaltung so weit beschränken, dass der erforderliche Abstand eingehalten wird. Dies gilt nicht für den Zugang zu Fahrzeugen des öffentlichen Verkehrs.
 - d. Sind Personen anwesend, die nach Artikel 3*b* Absatz 2 oder nach Artikel 6*e* oder 6*f* von der Pflicht zum Tragen einer Gesichtsmaske ausgenommen sind, so muss entweder der erforderliche Abstand eingehalten oder es müssen andere wirksame Schutzmassnahmen wie das Anbringen geeigneter Abschrankungen ergriffen werden. Ist dies aufgrund der Art der Aktivität oder wegen örtlicher Gegebenheiten nicht möglich, so muss die Erhebung von Kontaktdaten der anwesenden Personen nach Artikel 5 vorgesehen werden.[^4-1]
 
-<sup>3</sup> Die Vorgaben nach Absatz 2 werden im Anhang näher ausgeführt. Das Eidgenössische Departement des Innern (EDI) führt diesen im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) entsprechend dem aktuellen Stand der Wissenschaften nach.
+<sup>3</sup> Die Vorgaben nach Absatz 2 werden im Anhang 1 näher ausgeführt. Das Eidgenössische Departement des Innern (EDI) führt diesen im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung (WBF) entsprechend dem aktuellen Stand der Wissenschaften nach.
 
 <sup>4</sup> Im Schutzkonzept muss eine für die Umsetzung des Konzepts und für den Kontakt mit den zuständigen Behörden verantwortliche Person bezeichnet werden.
 
@@ -144,7 +149,7 @@ Für das Schutzkonzept gelten folgende Vorgaben:
 
 **Erhebung von Kontaktdaten**
 
-<sup>1</sup> Werden Kontaktdaten gemäss Anhang Ziffer 4 erhoben, so müssen die betroffenen Personen über die Erhebung und über deren Verwendungszweck informiert werden. Liegen die Kontaktdaten bereits vor, namentlich bei Bildungseinrichtungen oder bei privaten Anlässen, so muss über den Verwendungszweck informiert werden.
+<sup>1</sup> Werden Kontaktdaten gemäss Anhang 1 Ziffer 4 erhoben, so müssen die betroffenen Personen über die Erhebung und über deren Verwendungszweck informiert werden. Liegen die Kontaktdaten bereits vor, namentlich bei Bildungseinrichtungen oder bei privaten Anlässen, so muss über den Verwendungszweck informiert werden.
 
 <sup>2</sup> Die Kontaktdaten müssen zwecks Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen nach Artikel 33 EpG der zuständigen kantonalen Stelle auf deren Anfrage hin unverzüglich in elektronischer Form weitergeleitet werden.[^5-1]
 
@@ -186,22 +191,9 @@ Das Verbot gilt nicht für folgende Betriebe:
 
 #### Art. 5a<sup>bis</sup>
 
-**Öffnungszeiten von Einkaufsläden und öffentlich zugänglichen Betrieben, die Dienstleistungen anbieten**[^5abis-1]
+[^5abis-1]
 
-Folgende öffentlich zugänglichen Einrichtungen und Betriebe müssen zwischen 19.00 und 06.00 Uhr, an Sonntagen sowie am 25. und 26. Dezember und am 1. Januar geschlossen bleiben:
-
-- a. Einkaufsläden und Märkte im Freien, einschliesslich entsprechender Angebote zur Selbstbedienung; ausgenommen sind Apotheken und Bäckereien;
-- b.
-
-  Geschäfte oder Betriebe, die Dienstleistungen anbieten, wie Poststellen, Banken, Reisebüros oder Coiffeure, einschliesslich entsprechender Angebote zur Selbstbedienung; ausgenommen sind:
-
-  - 1\. Gesundheitseinrichtungen wie Spitäler, Kliniken und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen nach Bundesrecht und kantonalem Recht,
-  - 2\. soziale Einrichtungen (Anlaufstellen),
-  - 3\. Dienststellen der öffentlichen Verwaltung und der Polizei,
-  - 4\. Schalter von Betrieben des öffentlichen Verkehrs,
-  - 5\. die Autovermietung.
-
-[^5abis-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5abis-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben) ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931)). Aufgehoben durch Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), mit Wirkung vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 5b
 
@@ -281,6 +273,43 @@ Die Kantone prüfen regelmässig, ob das Schutzkonzept korrekt umgesetzt wird. S
 
 [^5d-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
+#### Art. 5e
+
+**Besondere Bestimmungen für Einkaufsläden und Märkte**[^5e-1]
+
+<sup>1</sup> Einkaufsläden sowie Märkte im Freien sind für das Publikum geschlossen. Zulässig ist das Abholen bestellter Waren vor Ort.
+
+<sup>2</sup>
+
+Absatz 1 gilt nicht für folgende Einrichtungen, einschliesslich Märkte im Freien mit gleichem Angebot:
+
+- a. Lebensmittelläden und sonstige Läden, soweit sie Lebensmittel oder andere Güter des kurzfristigen und täglichen Bedarfs nach Anhang 2 verkaufen;
+- b. Apotheken, Drogerien und Läden für medizinische Hilfsmittel (z. B. Brillen, Hörgeräte);
+- c. Verkaufsstellen von Telekommunikationsanbietern;
+- d. Geschäfte für Reparatur und Unterhalt, wie z. B. Wäschereien, Nähereien, Schuhmacher, Schlüsseldienste sowie Autogaragen und Fahrradgeschäfte, soweit sie Reparaturen anbieten;
+- e. Bau- und Gartenfachläden sowie Eisenwarengeschäfte, für Bau- und Gartenartikel nach Anhang 2;
+- f. Blumenläden;
+- g. Tankstellen.
+
+<sup>3</sup> Absatz 1 gilt zudem nicht für Vieh- und Schlachtviehmärkte im Freien.
+
+[^5e-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+#### Art. 5f
+
+**Öffnungszeiten von öffentlich zugänglichen Betrieben, die Dienstleistungen anbieten**[^5f-1]
+
+Öffentlich zugängliche Geschäfte oder Betriebe, die Dienstleistungen anbieten, wie Poststellen, Banken, Reisebüros oder Coiffeure, einschliesslich entsprechender Angebote zur Selbstbedienung, müssen zwischen 19.00 und 06.00 Uhr und an Sonntagen geschlossen bleiben; davon ausgenommen sind:
+
+- a. Gesundheitseinrichtungen wie Spitäler, Kliniken und Arztpraxen sowie Praxen und Einrichtungen von Gesundheitsfachpersonen nach Bundesrecht und kantonalem Recht;
+- b. soziale Einrichtungen (Anlaufstellen);
+- c. Dienststellen der öffentlichen Verwaltung und der Polizei;
+- d. Schalter von Betrieben des öffentlichen Verkehrs;
+- e. die Autovermietung;
+- f. Automaten für den Bezug einer Dienstleistung, insbesondere für den Geldbezug.
+
+[^5f-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
 #### Art. 6
 
 **Besondere Bestimmungen für Veranstaltungen sowie für Messen und Märkte[^6-2]**[^6-1]
@@ -298,13 +327,14 @@ Die Durchführung von Veranstaltungen ist verboten. Vom Verbot ausgenommen sind:
 - g. Veranstaltungen ohne Publikum in den Bereichen Sport und Kultur nach den Artikeln 6*e* und 6*f* Absätze 2 und 3;
 - h. Veranstaltungen im Familien- und Freundeskreis nach Absatz 2.[^6-3]
 
-<sup>2</sup> An Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen), die nicht in öffentlich zugänglichen Einrichtungen und Betrieben stattfinden, dürfen höchstens 10 Personen teilnehmen. Die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.
+<sup>2</sup> An Veranstaltungen im Familien- und Freundeskreis (private Veranstaltungen) dürfen höchstens fünf Personen teilnehmen. Die Pflicht zur Erarbeitung und Umsetzung eines Schutzkonzepts gilt nicht.[^6-4]
 
 <sup>3</sup> Die Durchführung von Messen und Märkten in Innenräumen ist verboten.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6-3]: Fassung gemäss Ziff. I der V vom 11. Dez. 2020 (Einschränkungen von Veranstaltungen und von Öffnungszeiten von Restaurants und andern öffentlich zugänglichen Einrichtungen und Betrieben), in Kraft vom 12. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5377](https://fedlex.data.admin.ch/eli/oc/2020/931), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^6-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 6a und 6b
 
@@ -512,20 +542,26 @@ Die Betreiber und Organisatoren müssen:
 
 <sup>1bis</sup>
 
-In Innenräumen muss jede Arbeitnehmerin und jeder Arbeitnehmer eine Gesichtsmaske tragen. Diese Pflicht gilt nicht für:
+In Innenräumen, einschliesslich Fahrzeugen, in denen sich mehr als eine Person aufhält, muss jede Person eine Gesichtsmaske tragen. Diese Pflicht gilt nicht für:[^10-1]
 
-- a. Arbeitsbereiche, in denen der Abstand zwischen den Arbeitsplätzen eingehalten werden kann, namentlich in abgetrennten Räumen;
+- a.[^10-2] ...
 - b. Tätigkeiten, bei denen aus Sicherheitsgründen oder aufgrund der Art der Tätigkeit keine Maske getragen werden kann;
-- c. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.[^10-1]
+- c.[^10-3] Personen, die nach Artikel 3*b* Absatz 2 von der Pflicht, eine Gesichtsmaske zu tragen, ausgenommen sind.[^10-4]
 
-<sup>2</sup> Die Arbeitgeber treffen weitere Massnahmen gemäss dem STOP-Prinzip (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung), namentlich die physische Trennung, getrennte Teams oder das Tragen von Gesichtsmasken in Aussenbereichen oder in Fahrzeugen.[^10-2]
+<sup>2</sup> Die Arbeitgeber treffen weitere Massnahmen gemäss dem STOP-Prinzip (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung), namentlich die physische Trennung, getrennte Teams oder das Tragen von Gesichtsmasken in Aussenbereichen.[^10-5]
 
-<sup>3</sup> Die Arbeitgeber beachten die Empfehlungen des BAG betreffend die Erfüllung der Arbeitsverpflichtungen von zu Hause aus[^10-3].[^10-4]
+<sup>3</sup> Wo dies aufgrund der Art der Aktivität möglich und mit verhältnismässigem Aufwand umsetzbar ist, sorgen die Arbeitgeber dafür, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen von zu Hause aus erfüllen. Sie treffen zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen. Für die gestützt auf diese Bestimmung angeordnete Erfüllung der Arbeitsverpflichtung von zu Hause aus sind den Arbeitnehmerinnen und Arbeitnehmern keine Auslagenentschädigungen geschuldet.[^10-6]
 
-[^10-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-3]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Neues Coronavirus &gt; So schützen wir uns.
-[^10-4]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung), in Kraft seit 19. Okt. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
+<sup>4</sup> Für den Schutz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer gilt zudem Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^10-7].[^10-8]
+
+[^10-1]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-2]: Aufgehoben durch Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), mit Wirkung vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+[^10-5]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-6]: Eingefügt durch Ziff. I der V vom 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^10-7]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^10-8]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 #### Art. 11
 
@@ -563,13 +599,13 @@ Die Kantone sind verpflichtet, dem Koordinierten Sanitätsdienst regelmässig Fo
 
 Mit Busse wird bestraft, wer:
 
-- a.[^13-2] als Betreiber oder Organisator vorsätzlich seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a*, 5*a*<sup>bis</sup>, 5*d* Absatz 1 und 6*d*–6*f* nicht einhält;
+- a.[^13-2] als Betreiber oder Organisator vorsätzlich seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a*, 5*d* Absatz 1, 5*e*, 5*f* und 6*d*–6*f* nicht einhält;
 - a<sup>bis</sup>.[^13-3] ein Skigebiet ohne die erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept betreibt;
 - b. eine nach Artikel 6 Absatz 1 verbotene Veranstaltung durchführt;
 - c.[^13-4] Messen oder Märkte durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist.
 
 [^13-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^13-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 [^13-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^13-4]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 
@@ -617,13 +653,13 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 [^15-2]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen) ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Aufgehoben durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), mit Wirkung seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Aufgehoben durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), mit Wirkung seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Anhang*[^t-1]*
+Anhang 1*[^t-1]*
 
 (Art. 4 Abs. 3 und 5 Abs. 1)
 
 ## Vorgaben für Schutzkonzepte
 
-[^t-1]: Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) und 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^t-1]: Ursprünglich: Anhang. Bereinigt gemäss Ziff. II der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), 18. Okt. 2020 (Maskentragpflicht; Homeoffice-Empfehlung) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) und 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte) ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)) und 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
 
 ### 1 Allgemeines
 
@@ -720,3 +756,31 @@ Anhang*[^t-1]*
 - 4\.4<sup>bis</sup> Der Betreiber oder Organisator hat durch geeignete Vorkehren sicherzustellen, dass die Korrektheit der erhobenen Kontaktdaten gewährleistet ist.
 - 4\.5 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen sowie in Restaurations-, Bar- und Clubbetrieben genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe.
 - 4\.6 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
+- [tab]
+
+Anhang 2*[^t-2]*
+
+(Art. 5e Abs. 2 Bst. a und e)
+
+## Lebensmittel und andere Güter des kurzfristigen und täglichen Bedarfs
+
+[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+
+### 1. Lebensmittel
+
+- 1\.1 Food I (Frischeprodukte), wie insbesondere Fleisch, Fisch, Wurst, Molkereiprodukte, Eier, frisches Obst und Gemüse, Brot und Gebäck;
+- 1\.2 Food II (Trockensortiment), wie insbesondere alkoholische und alkoholfreie Getränke, Süsswaren, Tabakprodukte, Konserven, Nährmittel (Mehl, Getreide, Reis, Nudeln), Gewürze, Tiefkühlwaren, Babynahrung.
+
+### 2. Non-Food-Produkte
+
+- 2\.1 Drogeriefachmarktartikel, insbesondere Seife, Badezusätze, Parfums, Deodorants, hygienische Papierwaren, Hautcreme, Rasierzubehör, Haarpflegemittel, Zahnpflege, Babypflege, Windeln, sonstige Kosmetika, Produkte zur Gesundheitspflege sowie freiverkäufliche Arzneimittel, deren Abgabe an die Konsumentinnen und Konsumenten auch ausserhalb von Apotheken gestattet ist;
+- 2\.2 Koch- und Essgeschirr, einschliesslich Bestecke und Kochutensilien, Aufbewahrungsbehälter und -folien, soweit sie nach Art und Preis Verbrauchsgütercharakter haben, sowie Kerzen;
+- 2\.3 Wasch-, Reinigungs- und Pflegemittel;
+- 2\.4 Zeitungen und Zeitschriften;
+- 2\.5 Papier- und Schreibwaren;
+- 2\.6 Zimmerpflanzen und Schnittblumen;
+- 2\.7 Fotoverbrauchsmaterial;
+- 2\.8 elektrotechnische Ersatzteile und elektrotechnisches Zubehör (wie Batterien, Akkus etc.);
+- 2\.9 Strumpfwaren, Unterwäsche und Babybekleidung, soweit sie nach Art und Preis Verbrauchsgütercharakter haben;
+- 2\.10 Bau- und Gartenartikel (wie Werkzeuge, Baustoffe, Saatgut, Erde);
+- 2\.11 Tiernahrung und Produkte, die zur Tierhygiene und Tierhaltung notwendig sind, sowie Tiere, die zur Gewährleistung einer artgerechten Haltung erworben werden müssen.
