@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-01-01
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210118/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210118-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210118/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 19 giugno 2020 (Stato 18 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 3 e 8 della legge COVID-19 del 25 settembre 2020[^ingress-1]; visto l’articolo 63 capoverso 3 della legge del 15 dicembre 2000[^ingress-2] sugli agenti terapeutici; visto l’articolo 41 capoverso 1 della legge del 28 settembre 2012[^ingress-3] sulle epidemie (LEp),[^ingress-4]
+visti gli articoli 3, 4 e 8 della legge COVID-19 del 25 settembre 2020[^ingress-1]; visto l’articolo 63 capoverso 3 della legge del 15 dicembre 2000[^ingress-2] sugli agenti terapeutici; visto l’articolo 41 capoverso 1 della legge del 28 settembre 2012[^ingress-3] sulle epidemie (LEp),[^ingress-4]
 
 ordina:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -503,6 +503,48 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^27-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
+## Capitolo 4*a*: Provvedimenti per proteggere i lavoratori particolarmente a rischio
+
+[^chap4a-1]
+
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+#### Art. 27a
+
+<sup>1</sup> Il datore di lavoro permette ai lavoratori particolarmente a rischio di adempiere da casa i loro obblighi lavorativi. Adotta provvedimenti organizzativi e tecnici idonei a tal fine. Per l’adempimento da casa dei loro obblighi lavorativi disposto in virtù della presente disposizione, ai lavoratori non è dovuta alcuna indennità per spese.
+
+<sup>2</sup> Se non è possibile adempiere da casa gli obblighi lavorativi abituali, il datore di lavoro assegna al lavoratore interessato, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente che può essere svolto da casa.
+
+<sup>3</sup>
+
+Se, per motivi aziendali, è indispensabile la totale o parziale presenza sul posto di lavoratori particolarmente a rischio, questi ultimi possono essere occupati nella loro attività abituale sul posto se sono adempiute le seguenti condizioni:
+
+- a. la postazione di lavoro è organizzata in modo da evitare qualsiasi contatto stretto con altre persone, in particolare mediante la messa a disposizione di uno spazio individuale o di uno spazio di lavoro chiaramente delimitato; oppure
+- b. nei casi in cui non è sempre possibile evitare un contatto stretto, sono adottati ulteriori provvedimenti di protezione secondo il principio STOP (sostituzione, misure tecniche, misure organizzative, misure di protezione individuale).
+
+<sup>4</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1–3, il datore di lavoro assegna loro, in deroga al contratto di lavoro e senza modifica della retribuzione, un lavoro alternativo equivalente sul posto per il quale sono adempiute le condizioni di cui al capoverso 3 lettere a e b.
+
+<sup>5</sup> Prima di adottare i provvedimenti previsti, il datore di lavoro sente i lavoratori interessati. Documenta per scritto i provvedimenti decisi e li comunica in modo adeguato ai lavoratori.
+
+<sup>6</sup> I lavoratori interessati possono rifiutare un lavoro assegnato loro se il datore di lavoro non adempie le condizioni di cui ai capoversi 1−4 o se, per motivi particolari, considerano troppo elevato il rischio di contagio da coronavirus per sé stessi malgrado i provvedimenti adottati dal datore di lavoro secondo i capoversi 3 e 4. Il datore di lavoro può esigere un certificato medico.
+
+<sup>7</sup> Se non è possibile occupare i lavoratori interessati secondo i capoversi 1−4 oppure se questi rifiutano il lavoro loro assegnato secondo il capoverso 6, il datore di lavoro li esenta dall’obbligo di lavorare con continuazione del pagamento dello stipendio.
+
+<sup>8</sup> I lavoratori attestano la loro condizione di persone particolarmente a rischio mediante un’autodichiarazione. Il datore di lavoro può esigere un certificato medico.
+
+<sup>9</sup> Al diritto all’indennità per perdita di guadagno per il coronavirus si applica l’articolo 2 capoverso 3<sup>quater</sup> dell’ordinanza COVID-19 perdita di guadagno del 20 marzo 2020[^27a-1].
+
+<sup>10</sup> Sono considerate particolarmente a rischio le donne incinte e le persone non vaccinate contro il COVID-19 e che soffrono in particolare delle seguenti patologie: ipertensione arteriosa, diabete, malattie cardiovascolari, malattie croniche delle vie respiratorie, malattie o terapie che indeboliscono il sistema immunitario, cancro, obesità.
+
+<sup>11</sup> Le patologie di cui al capoverso 10 sono precisate nell’allegato 7 in base a criteri medici. L’elenco di questi criteri non è esaustivo. È fatta salva la valutazione clinica del rischio nel singolo caso.
+
+<sup>12</sup> L’UFSP aggiorna costantemente l’allegato 7.
+
+<sup>13</sup> Alla protezione generale dei lavoratori si applica l’articolo 10 dell’ordinanza COVID-19 situazione particolare del 19 giugno 2020[^27a-2].
+
+[^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+
 ## Capitolo 5: Disposizioni finali
 
 #### Art. 28
@@ -537,7 +579,7 @@ I dispositivi di protezione individuale autorizzati in virtù dell’articolo 24
 [^29-2]: Abrogato dal n. II dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni), con effetto dal 15 ago. 2020 ([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Introdotto dal n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 3 cpv. 2)
 
@@ -564,11 +606,11 @@ Tutti gli Stati al di fuori dello spazio Schengen, tranne
 - – Singapore
 - – Thailandia
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 [^t-2]: Privo di oggetto a seguito dell’abrogazione dell’art. 8 (art. 6 n. 1 dell’O del 2 giu. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori; [RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 9 cpv. 3)
 
@@ -581,7 +623,7 @@ Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
 - – Regno Unito
 - – Sudafrica
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 11 cpv. 1, 19 cpv. 1 e 21 cpv. 2)
 
@@ -637,7 +679,7 @@ Allegato 4*[^t-4]*
 - 44\. Immunoterapia contro il COVID-19
 - 45\. Gas medicinali
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001**** relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -654,7 +696,7 @@ Allegato 4*[^t-4]*
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
-### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanza del 25 ottobre 2017**** sui DPI
+### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanza del 25 ottobre 2017 sui DPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -673,7 +715,7 @@ Allegato 4*[^t-4]*
 - 3\. Etanolo
 - 4\. Articoli d’igiene per la medicina intensiva (p. es. traverse assorbenti, pannolini per incontinenza, collettori rettali, articoli per l’igiene del cavo orofaringeo)
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 21 cpv. 1 e 3, 22 cpv. 1)
 
@@ -684,7 +726,7 @@ Allegato 5*[^t-5]*
 - 1\. Remdesivir
 - 2\. Tocilizumab
 
-Allegato 5a*[^t-6]*
+Allegato 5a[^t-6]
 
 (art. 24*a* cpv. 1)
 
@@ -715,13 +757,13 @@ Allegato 5a*[^t-6]*
 
 - 3\.3 La specificità deve attestarsi almeno al 99 %.
 
-Allegato 6*[^t-7]*
+Allegato 6[^t-7]
 
 (art. 26 cpv. 1 e 26*a* cpv. 1)
 
 ## Prestazioni assunte e importi massimi per le analisi per il SARS-CoV-2
 
-[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III cpv. 2 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Aggiornato dal n. II cpv. 2 dell’O del 27 gen. 2021, in vigore dal 1° gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-7]: Introdotto dal n. II dell’O del 28 ott. 2020 (Test rapidi dell’antigene SARS-CoV-2) ([RU 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nuovo testo giusta il n. III cpv. 2 dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Aggiornato dal n. II cpv. 2 dell’O del 27 gen. 2021 (Test per il SARS-CoV-2 e mascherine di protezione delle vie respiratorie), in vigore dal 1° gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 ### 1. Analisi di biologia molecolare per il SARS-CoV-2
 
@@ -748,13 +790,14 @@ Allegato 6*[^t-7]*
 <tr><td>Se eseguita dai laboratori d’ospedale secondo l’articolo 54 capoverso 2 OAMal per i bisogni dell’ospedale, di cui: per l’analisi e la dichiarazione alle autorità secondo l’articolo 12 capoverso 2 LEp per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione</td><td>87 fr. 82 fr. 5 fr.</td></tr>
 </table>
 
-### 1.1-1.4****...
-
-[^annex6-lvlu1-lvl1-lvlu1-1]
-
 [^annex6-lvlu1-lvl1-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^annex6-lvlu1-lvl1-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-lvlu1-1]: Entrano in vigore il 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+
+### 1.1 - 1.4 ...
+
+[^annex6-lvlu1-lvl2-1]
+
+[^annex6-lvlu1-lvl2-1]: Entrano in vigore il 28 gen. 2021 ([RU 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 ### 1.5 Secondo PCR per il SARS-CoV-2 specifico per le mutazioni
 
@@ -820,3 +863,99 @@ Allegato 6*[^t-7]*
 - 4\.1 Se su una persona sono eseguite lo stesso giorno un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1 e un’analisi per gli anticorpi contro il SARS-CoV-2 secondo il numero 2, la Confederazione assume *una tantum* l’importo per il prelievo del campione secondo i numeri 1.2 lettera a e 2.2 lettera a, nonché quello per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione secondo i numeri 1.2 lettera b e 2.2 lettera b.
 - 4\.2 Se su una persona sono eseguite lo stesso giorno un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1 e un’analisi immunologica degli antigeni SARS-CoV-2 o un test rapido SARS-CoV-2 secondo il numero 3, la Confederazione assume *una tantum* l’importo per il prelievo del campione secondo i numeri 1.2 lettera a e 3.2 lettera a, nonché quello per il disbrigo dell’incarico, i costi generali e il materiale necessario per il prelievo del campione o soltanto per il disbrigo dell’incarico secondo i numeri 1.2 lettera b e 3.2 lettera b.
 - 4\.3 Se su una persona sono eseguite dallo stesso fornitore di prestazioni secondo l’articolo 26 capoverso 2 un’analisi di biologia molecolare per il SARS-CoV-2 secondo il numero 1.1 e un secondo PCR specifico per le mutazioni del virus SARS-CoV-2 secondo il numero 1.5 o un sequenziamento del SARS-CoV-2 secondo il numero 1.6, la Confederazione assume *una tantum* l’importo per il disbrigo dell’incarico e i costi generali secondo i numeri 1.1.2 lettera b, 1.5.2 lettera a o 1.6.2 lettera a.
+
+Allegato 7[^t-8]
+
+(art. 27*a* cpv. 11)
+
+## Precisazioni mediche sulle malattie che rendono le persone interessate particolarmente a rischio
+
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
+
+### 1. Ipertensione arteriosa
+
+- – Ipertensione arteriosa con danno agli organi bersaglio
+- – Ipertensione arteriosa resistente alla terapia
+
+### 2. Malattie cardiovascolari
+
+### 2.1 Criteri generali
+
+- – Pazienti con dispnea della classe funzionale NYHA II–IV e NT-pro BNP &gt; 125 pg/ml
+- – Pazienti con almeno due fattori di rischio cardiovascolare (di cui uno è il diabete o l’ipertensione arteriosa)
+- – Ictus cerebrale pregresso e/o vascolopatia sintomatica
+- – Insufficienza renale cronica (stadio 3, GFR &lt; 60 ml/min)
+
+### 2.2 Altri criteri
+
+### 2.2.1 Cardiopatie coronariche
+
+- – Infarto miocardico (STEMI e NSTEMI) negli ultimi dodici mesi
+- – Sindrome coronarica cronica sintomatica, nonostante la terapia farmacologica (indipendentemente da un’eventuale precedente rivascolarizzazione)
+
+### 2.2.2 Malattie delle valvole cardiache
+
+- – Stenosi da moderata a severa o severa e/o rigurgito valvolare, in aggiunta ad almeno un criterio generale
+- – Tutte le sostituzioni valvolari chirurgiche o percutanee, in aggiunta ad almeno un criterio generale
+
+### 2.2.3 Insufficienza cardiaca
+
+- – Pazienti con dispnea della classe funzionale NYHA II–IV o NT-pro BNP &gt; 125 pg/ml, nonostante la terapia farmacologica per tutti i valori LVEF (HFpEF, HFmrEF, HFrEF)
+- – Cardiomiopatie di tutte le eziologie
+- – Ipertensione arteriosa polmonare
+
+### 2.2.4 Aritmie cardiache
+
+- – Fibrillazione atriale con un punteggio CHA2DS2-VASc pari ad almeno 2
+- – Precedente impianto di un pacemaker cardiaco (incl. ICD e/o CRT), in aggiunta a un criterio generale
+
+### 2.2.5 Cardiopatie congenite dell’adulto
+
+- – Cardiopatia congenita dopo valutazione individuale da parte del cardiologo curante
+
+### 3. Malattie croniche delle vie respiratorie
+
+- – Malattie polmonari ostruttive croniche allo stadio GOLD II–IV
+- – Enfisema polmonare
+- – Forme di asma bronchiale particolarmente severe e non controllate
+- – Malattie polmonari interstiziali
+- – Cancro attivo ai polmoni
+- – Ipertensione arteriosa polmonare
+- – Malattia vascolare polmonare
+- – Sarcoidosi attiva
+- – Fibrosi cistica
+- – Infezioni polmonari croniche (micobatteriosi atipiche, bronchiectasie ecc.)
+- – Pazienti sottoposti a respirazione artificiale
+
+### 4. Diabete
+
+- – Diabete mellito, con complicanze tardive o con un valore di HbA1c &gt; 8 %
+
+### 5. Malattie o terapie che indeboliscono il sistema immunitario
+
+- – Immunodepressione severa (p. es. CD4+ &lt; 200µl)
+- – Neutropenia (&lt; 1000 neutrofili/µl) durante ≥ 1 settimana
+- – Linfocitopenia (&lt; 200 linfociti/µl)
+- – Immunodeficienze ereditarie
+- – Assunzione di medicamenti che sopprimono la risposta immunitaria (p. es. assunzione prolungata di glucocorticoidi, anticorpi monoclonali, citostatici ecc.)
+- – Linfomi aggressivi (tutti i tipi)
+- – Leucemia linfatica acuta
+- – Leucemia mieloide acuta
+- – Leucemia promielocitica acuta
+- – Leucemia prolinfocitica a cellule T
+- – Linfomi primari del sistema nervoso centrale
+- – Trapianto di cellule staminali
+- – Amiloidosi (amiloidosi da catene leggere (AL))
+- – Leucemia linfatica cronica
+- – Mieloma multiplo
+- – Anemia falciforme
+
+### 6. Cancro
+
+- – Malattie tumorali in corso di trattamento medico
+
+### 7. Obesità
+
+- – Pazienti con un indice di massa corporea (IMC) pari o superiore a 40 kg/m<sup>2</sup>

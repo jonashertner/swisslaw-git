@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-01-01
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210118/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210118-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210118/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 19 juin 2020 (Etat le 18 janvier 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 3 et 8 de la loi COVID-19 du 25 septembre 2020[^ingress-1], vu l’art. 63, al. 3, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-2], vu l’art. 41, al. 1, de la loi du 28 septembre 2012 sur les épidémies (LEp)[^ingress-3],[^ingress-4]
+vu les art. 3, 4 et 8 de la loi COVID-19 du 25 septembre 2020[^ingress-1], vu l’art. 63, al. 3, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-2], vu l’art. 41, al. 1, de la loi du 28 septembre 2012 sur les épidémies (LEp)[^ingress-3],[^ingress-4]
 
 arrête:
 
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2020, en vigueur depuis le 21 déc. 2020 à 13 h 00 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -503,6 +503,48 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^27-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
+## Chapitre 4*a* Mesures de protection des employés vulnérables
+
+[^chap4a-1]
+
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+#### Art. 27a
+
+<sup>1</sup> L’employeur permet à ses employés vulnérables de remplir leurs obligations professionnelles depuis leur domicile. À cette fin, il prend les mesures organisationnelles et techniques qui sʼimposent. Les employés n’ont droit à aucun remboursement de frais pour remplir leurs obligations professionnelles depuis leur domicile en vertu de la présente disposition.
+
+<sup>2</sup> Si lʼemployé ne peut pas remplir ses obligations professionnelles habituelles depuis son domicile, son employeur lui attribue des tâches de substitution équivalentes quʼil peut effectuer depuis son domicile et les rétribue au même salaire, même si elles divergent du contrat de travail.
+
+<sup>3</sup>
+
+Si, pour des raisons dʼexploitation, la présence dʼemployés vulnérables sur place est indispensable en tout ou partie, ces derniers peuvent exercer leur activité habituelle sur place, pour autant que les conditions suivantes soient remplies:
+
+- a. la place de travail est aménagée de sorte que tout contact étroit avec dʼautres personnes soit exclu, notamment en mettant à disposition un bureau individuel ou une zone clairement délimitée;
+- b. dans les cas où un contact étroit sʼavère parfois inévitable, des mesures de protection supplémentaires sont prises, selon le principe STOP (substitution, technique, organisation, personnel).
+
+<sup>4</sup> Sʼil nʼest pas possible dʼoccuper les employés concernés conformément aux al. 1 à 3, lʼemployeur leur attribue sur place des tâches de substitution équivalentes respectant les prescriptions visées à lʼal. 3, let. a et b, et les rétribue au même salaire, même si elles divergent du contrat de travail.
+
+<sup>5</sup> Lʼemployeur consulte les employés concernés avant de prendre les mesures prévues. Il consigne par écrit les mesures décidées et les communique de manière appropriée aux employés.
+
+<sup>6</sup> Lʼemployé concerné peut refuser dʼaccomplir une tâche qui lui a été attribuée si lʼemployeur ne remplit pas les conditions visées aux al. 1 à 4 ou si, pour des raisons particulières, il estime que le risque dʼinfection au coronavirus est trop élevé malgré les mesures prises par lʼemployeur au sens des al. 3 et 4. Lʼemployeur peut exiger un certificat médical.
+
+<sup>7</sup> Sʼil nʼest pas possible dʼoccuper les employés concernés conformément aux al. 1 à 4, ou dans le cas dʼun refus visé à lʼal. 6, lʼemployeur les dispense de leurs obligations professionnelles avec maintien du paiement de leur salaire.
+
+<sup>8</sup> Les employés font valoir leur vulnérabilité moyennant une déclaration personnelle. Lʼemployeur peut exiger un certificat médical.
+
+<sup>9</sup> L’octroi des allocations pour perte de gain COVID-19 est régi par l’art. 2, al. 3<sup>quater</sup>, de l’ordonnance du 20 mars 2020 sur les pertes de gain COVID-19[^27a-1].
+
+<sup>10</sup> Par personnes vulnérables, on entend les femmes enceintes et les personnes qui n’ont pas été vaccinées contre le COVID-19 et qui souffrent notamment des pathologies suivantes: hypertension artérielle, diabète, maladie cardio-vasculaire, affection chronique des voies respiratoires, faiblesse immunitaire due à une maladie ou à un traitement, cancer, obésité.
+
+<sup>11</sup> Les pathologies visées à lʼal. 10 sont précisées à lʼannexe 7 à lʼaide de critères médicaux. La liste de ces critères n’est pas exhaustive. Une évaluation clinique de la vulnérabilité dans le cas d’espèce est réservée.
+
+<sup>12</sup> LʼOFSP actualise en permanence lʼannexe 7.
+
+<sup>13</sup> L’art. 10 de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^27a-2] s’applique à la protection générale des employés.
+
+[^27a-1]: [RS 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-2]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+
 ## Chapitre 5 Dispositions finales
 
 #### Art. 28
@@ -537,7 +579,7 @@ Les équipements de protection individuelle autorisés en vertu de l’art. 24 d
 [^29-2]: Abrogé par le ch. II de l’O du 12 août 2020 (Port du masque obligatoire dans les aéronefs; grandes manifestations), avec effet au 15 août 2020 ([RO 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Introduit par le ch. I de l’O du 11 sept. 2020 (Prorogation; coûts des tests), en vigueur depuis le 14 sept. 2020 ([RO 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3, al. 2)
 
@@ -564,11 +606,11 @@ Tous les États en dehors de l’espace Schengen, sauf les suivants:
 - – Singapour
 - – Thaïlande
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 [^t-2]: Sans objet suite à l’abrogation de l’art. 8 (art. 6 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020; [RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)), le 6 juil. 2020.
 
-Annexe 3*[^t-3]*
+Annexe 3[^t-3]
 
 (art. 9, al. 3)
 
@@ -581,7 +623,7 @@ La circulation des personnes entre les États suivants et la Suisse est interdit
 - – Afrique du Sud
 - – Royaume-Uni
 
-Annexe 4*[^t-4]*
+Annexe 4[^t-4]
 
 (art. 11, al. 1, 19, al. 1, et 21, al. 2)
 
@@ -681,7 +723,7 @@ Annexe 4*[^t-4]*
 
 \45. Gaz médicaux
 
-### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux****
+### 2. Dispositifs médicaux au sens de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -705,7 +747,7 @@ Annexe 4*[^t-4]*
 
 ### 3. Équipements de protection individuelle et autres équipements
 
-### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI****
+### 3.1 Équipements de protection individuelle au sens de l’ordonnance du 25 octobre 2017 sur les EPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -724,7 +766,7 @@ Annexe 4*[^t-4]*
 - 3\. Éthanol
 - 4\. Articles d’hygiène en médecine intensive (p. ex. tapis médicaux absorbants, couches, entérocollecteurs rectaux, articles pour l’hygiène buccale et de la gorge)
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 (art. 21, al. 1 et 3, et 22, al. 1)
 
@@ -735,7 +777,7 @@ Annexe 5*[^t-5]*
 - 1\. Remdésivir
 - 2\. Tocilizumab
 
-Annexe 5a*[^t-6]*
+Annexe 5a[^t-6]
 
 (art. 24*a*, al. 1)
 
@@ -766,7 +808,7 @@ Annexe 5a*[^t-6]*
 
 - 3\.3 La spécificité doit atteindre au minimum 99 %.
 
-Annexe 6*[^t-7]*
+Annexe 6[^t-7]
 
 (Art. 26 et 26*a*)
 
@@ -799,9 +841,16 @@ Annexe 6*[^t-7]*
 <tr><td>Pour la réalisation par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal pour les besoins propres de l’hôpital, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>87 francs 82 francs 5 francs</td></tr>
 </table>
 
-1.1 à 1.4[^annex6-lvlu1-lvl1-3]
+### 1.1 à 1.4...
 
-- 1\.5 Deuxième test PCR spécifique aux mutations du SARS-CoV-2
+[^annex6-lvlu1-lvl1-lvlu1-1]
+
+[^annex6-lvlu1-lvl1-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex6-lvlu1-lvl1-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvlu1-1]: Entrent en vigueur le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+
+### 1.5 Deuxième test PCR spécifique aux mutations du SARS-CoV-2
+
 - 1\.5.1 La Confédération prend en charge au maximum 106 francs pour le deuxième test PCR spécifique aux mutations du SARS-CoV-2.
 - 1\.5.2 Le montant du ch. 1.5.1 comprend les prestations et les coûts suivants:
 
@@ -810,10 +859,6 @@ Annexe 6*[^t-7]*
 <tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>82 francs</td></tr>
 <tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>106 francs 82 francs 24 francs</td></tr>
 </table>
-
-[^annex6-lvlu1-lvl1-1]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^annex6-lvlu1-lvl1-2]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^annex6-lvlu1-lvl1-3]: Entrent en vigueur le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 ### 2. Analyses des anticorps contre le SARS-CoV-2
 
@@ -868,3 +913,99 @@ Annexe 6*[^t-7]*
 - 4\.1 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1 et une analyse des anticorps contre le SARS-CoV-2 selon le ch. 2 sont réalisées le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.2, let. a, et 2.2, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.2, let. b, et 2.2, let. b.
 - 4\.2 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1 et une analyse des antigènes du SARS-CoV-2 ou un test rapide SARS-CoV-2 selon le ch. 3 sont réalisés le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.2, let. a, et 3.2, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement, respectivement une seule fois pour le traitement du mandat visé aux ch. 1.2, let. b, et 3.2, let. b.
 - 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et un deuxième test PCR spécifique aux mutations du SARS-CoV-2 selon le ch. 1.5 ou un séquençage selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations visé à l’art. 26, al. 2, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.2, let. b, 1.5.2, let. a, et 1.6.2, let. a.
+
+Annexe 7[^t-8]
+
+(art. 27*a*, al. 11)
+
+## Précisions médicales sur les maladies rendant vulnérables les personnes concernées
+
+[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
+
+### 1. Hypertension artérielle
+
+- – Hypertension artérielle avec atteinte d’organes cibles
+- – Hypertension artérielle résistante au traitement
+
+### 2. Maladies cardiovasculaires
+
+### 2.1 Critères généraux
+
+- – Patients ayant une dyspnée de classe fonctionnelle NYHA II–IV et NT-Pro BNP &gt; 125 pg/ml
+- – Patients ayant au moins deux facteurs de risques cardiovasculaires (dont du diabète ou de l’hypertension artérielle)
+- – Antécédent d’attaque cérébrale et/ou vasculopathie symptomatique
+- – Insuffisance rénale chronique (stade 3, DFG &lt; 60ml/min)
+
+### 2.2 Autres critères
+
+### 2.2.1 Maladie coronarienne
+
+- – Infarctus du myocarde (STEMI et NSTEMI) au cours des douze derniers mois
+- – Syndrome coronarien chronique symptomatique malgré un traitement médical (indépendamment de toute revascularisation préalable)
+
+### 2.2.2 Maladie des valves cardiaques
+
+- – Sténose modérée ou sévère et/ou régurgitation associée à au moins un critère général
+- – Tout remplacement valvulaire chirurgical ou percutané associé à au moins un critère général
+
+### 2.2.3 Insuffisance cardiaque
+
+- – Patients ayant une dyspnée de classe fonctionnelle NYHA II–IV ou NT-Pro BNP &gt; 125pg/ml malgré un traitement médical de toute FEVG (ICFEP, ICFEI, ICFER)
+- – Cardiomyopathie de toute origine
+- – Hypertension artérielle pulmonaire
+
+### 2.2.4 Arythmie
+
+- – Fibrillation atriale avec un score CHA2DS2-VASc d’au moins 2 points
+- – Implantation préalable d’un stimulateur cardiaque (y c. implantation d’un appareil d’ICD et/ou de CRT) associée à un critère général
+
+### 2.2.5 Adultes atteints d’une maladie cardiaque congénitale
+
+- – Maladie cardiaque congénitale selon l’évaluation individuelle par le cardiologue traitant
+
+### 3. Maladies respiratoires chroniques
+
+- – Maladies pulmonaires obstructives chroniques, stades II-IV de GOLD
+- – Emphysème pulmonaire
+- – Asthme bronchique non contrôlé, notamment sévère
+- – Maladies pulmonaires interstitielles
+- – Cancer actif des poumons
+- – Hypertension artérielle pulmonaire
+- – Maladie vasculaire pulmonaire
+- – Sarcoïdose active
+- – Fibrose kystique
+- – Infections pulmonaires chroniques (mycobactérioses atypiques, bronchectasies, etc.)
+- – Patients sous assistance respiratoire
+
+### 4. Diabète
+
+- – Diabète sucré, avec complications tardives ou une HbA1c &gt; 8 %
+
+### 5. Maladies ou traitements affaiblissant le système immunitaire
+
+- – Immunosuppression sévère (p. ex. CD4+ &lt; 200µl)
+- – Neutropénie (&lt; 1000 neutrophiles/µl) ≥ 1 semaine
+- – Lymphocytopénie (&lt; 200 lymphocytes/µl)
+- – Immunodéficiences héréditaires
+- – Prise de médicaments qui répriment les défenses immunitaires (p. ex. prise de glucocorticoïdes, d’anticorps monoclonaux, de cytostatiques, etc. durant une longue période)
+- – Lymphomes agressifs (tous les types)
+- – Leucémie lymphatique aiguë
+- – Leucémie myéloïde aiguë
+- – Leucémie aiguë promyélocytaire
+- – Leucémie prolymphocytaire T
+- – Lymphome primitif du système nerveux central
+- – Transplantation de cellules souches
+- – Amyloïdose (amyloïdose à chaînes légères [AL])
+- – Leucémie lymphatique chronique
+- – Myélome multiple
+- – Drépanocytose
+
+### 6. Cancer
+
+- – Cancer en traitement médical
+
+### 7. Obésité
+
+- – Patients ayant un indice de masse corporelle (IMC) d’au moins 40 kg/m<sup>2</sup>

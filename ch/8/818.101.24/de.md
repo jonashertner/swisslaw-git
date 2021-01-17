@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-01-01
+version: 2021-01-18
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210118-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,18 +16,18 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210101/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. Januar 2021)
+vom 19. Juni 2020 (Stand am 18. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 3 und 8 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], auf Artikel 63 Absatz 3 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-2] und auf Artikel 41 Absatz 1 des Epidemiengesetzes vom 28. September 2012[^ingress-3] (EpG),[^ingress-4]
+gestützt auf die Artikel 3, 4 und 8 des Covid-19-Gesetzes vom 25. September 2020[^ingress-1], auf Artikel 63 Absatz 3 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-2] und auf Artikel 41 Absatz 1 des Epidemiengesetzes vom 28. September 2012[^ingress-3] (EpG),[^ingress-4]
 
 verordnet:
 
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -503,6 +503,48 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
+## 4*a*. Kapitel: Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
+
+[^chap4a-1]
+
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+#### Art. 27a
+
+<sup>1</sup> Der Arbeitgeber ermöglicht seinen besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern, ihre Arbeitsverpflichtungen von zu Hause aus zu erfüllen. Er trifft zu diesem Zweck die geeigneten organisatorischen und technischen Massnahmen. Für die gestützt auf diese Bestimmung angeordnete Erfüllung der Arbeitsverpflichtung von zu Hause aus sind den Arbeitnehmerinnen und Arbeitnehmern keine Auslagenentschädigungen geschuldet.
+
+<sup>2</sup> Ist es nicht möglich, die angestammte Arbeitsverpflichtung von zu Hause aus zu erfüllen, so weist der Arbeitgeber der betroffenen Arbeitnehmerin oder dem betroffenen Arbeitnehmer in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit zu, die von zu Hause aus erledigt werden kann.
+
+<sup>3</sup>
+
+Ist aus betrieblichen Gründen die Präsenz besonders gefährdeter Arbeitnehmerinnen und Arbeitnehmer vor Ort ganz oder teilweise unabdingbar, so dürfen diese in ihrer angestammten Tätigkeit vor Ort beschäftigt werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Der Arbeitsplatz ist so ausgestaltet, dass jeder enge Kontakt mit anderen Personen ausgeschlossen ist, namentlich indem ein Einzelraum oder ein klar abgegrenzter Arbeitsbereich zur Verfügung gestellt wird.
+- b. In Fällen, in denen ein enger Kontakt nicht jederzeit vermieden werden kann, werden weitere Schutzmassnahmen nach dem STOP-Prinzip ergriffen (Substitution, technische Massnahmen, organisatorische Massnahmen, persönliche Schutzausrüstung).
+
+<sup>4</sup> Ist es nicht möglich, die betroffenen Arbeitnehmerinnen und Arbeitnehmer nach den Absätzen 1–3 zu beschäftigen, so weist ihnen der Arbeitgeber in Abweichung vom Arbeitsvertrag bei gleicher Entlöhnung eine gleichwertige Ersatzarbeit vor Ort zu, bei der die Vorgaben nach Absatz 3 Buchstaben a und b erfüllt sind.
+
+<sup>5</sup> Bevor der Arbeitgeber die vorgesehenen Massnahmen trifft, hört er die betroffenen Arbeitnehmerinnen und Arbeitnehmer an. Er dokumentiert die beschlossenen Massnahmen schriftlich und teilt sie in geeigneter Weise den Arbeitnehmerinnen und Arbeitnehmern mit.
+
+<sup>6</sup> Die betroffene Arbeitnehmerin oder der betroffene Arbeitnehmer kann die Übernahme einer ihr oder ihm zugewiesenen Arbeit ablehnen, wenn der Arbeitgeber die Voraussetzungen nach den Absätzen 1–4 nicht erfüllt oder wenn die Arbeitnehmerin oder der Arbeitnehmer die Gefahr einer Ansteckung mit dem Coronavirus trotz der vom Arbeitgeber getroffenen Massnahmen nach den Absätzen 3 und 4 aus besonderen Gründen als zu hoch für sich erachtet. Der Arbeitgeber kann ein ärztliches Attest verlangen.
+
+<sup>7</sup> Ist es nicht möglich, die betroffenen Arbeitnehmerinnen und Arbeitnehmer nach den Absätzen 1–4 zu beschäftigen, oder lehnen diese die zugewiesene Arbeit im Sinne von Absatz 6 ab, so befreit sie der Arbeitgeber unter Lohnfortzahlung von ihrer Arbeitspflicht.
+
+<sup>8</sup> Arbeitnehmerinnen und Arbeitnehmer machen ihre besondere Gefährdung durch eine persönliche Erklärung geltend. Der Arbeitgeber kann ein ärztliches Attest verlangen.
+
+<sup>9</sup> Für die Geltendmachung des Anspruchs auf Corona-Erwerbsersatz gilt Artikel 2 Absatz 3<sup>quater</sup> der Covid-19-Verordnung Erwerbsausfall vom 20. März 2020[^27a-1].
+
+<sup>10</sup> Als besonders gefährdete Personen gelten schwangere Frauen sowie Personen, die nicht gegen Covid-19 geimpft sind und insbesondere folgende Erkrankungen aufweisen: Bluthochdruck, Diabetes, Herz-Kreislauf-Erkrankungen, chronische Atemwegserkrankungen, Erkrankungen und Therapien, die das Immunsystem schwächen, Krebs, Adipositas.
+
+<sup>11</sup> Die Erkrankungen nach Absatz 10 werden in Anhang 7 anhand medizinischer Kriterien präzisiert. Die Liste dieser Kriterien ist nicht abschliessend. Eine klinische Beurteilung der Gefährdung im Einzelfall bleibt vorbehalten.
+
+<sup>12</sup> Das BAG führt Anhang 7 laufend nach.
+
+<sup>13</sup> Für den generellen Schutz der Arbeitnehmerinnen und Arbeitnehmer gilt Artikel 10 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^27a-2].
+
+[^27a-1]: [SR 830.31](https://fedlex.data.admin.ch/eli/cc/2020/167)
+[^27a-2]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+
 ## 5. Kapitel: Schlussbestimmungen
 
 #### Art. 28
@@ -537,7 +579,7 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2)
 
@@ -563,13 +605,12 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Singapur
 - – Thailand
 - – Zypern
-- [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 9 Abs. 3)
 
@@ -582,7 +623,7 @@ Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 - – Südafrika
 - – Vereinigtes Königreich
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 11 Abs. 1, 19 Abs. 1 sowie 21 Abs. 2)
 
@@ -638,7 +679,7 @@ Anhang 4*[^t-4]*
 - 44\. Covid-19-Immun-Therapeutika
 - 45\. Medizinalgase
 
-### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001****
+### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -655,7 +696,7 @@ Anhang 4*[^t-4]*
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -675,7 +716,7 @@ Anhang 4*[^t-4]*
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
@@ -686,7 +727,7 @@ Anhang 5*[^t-5]*
 - 1\. Remdesivir
 - 2\. Tocilizumab
 
-Anhang 5a*[^t-6]*
+Anhang 5a[^t-6]
 
 (Art. 24*a* Abs. 1)
 
@@ -717,7 +758,7 @@ Anhang 5a*[^t-6]*
 
 - 3\.3 Die Anforderung an die Spezifität liegt bei mindestens 99 %.
 
-Anhang 6*[^t-7]*
+Anhang 6[^t-7]
 
 (Art. 26 Abs. 1 und 26*a* Abs. 1)
 
@@ -750,7 +791,7 @@ Anhang 6*[^t-7]*
 <tr><td>Bei Durchführung durch Spitallaboratorien nach Artikel 54 Absatz 2 KVV für den Eigenbedarf des Spitals, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Over headkosten und das Probenentnahme- material</td><td>87 Fr. 82 Fr. 5 Fr.</td></tr>
 </table>
 
-### 1.1–1.4...****
+### 1.1–1.4...
 
 [^annex6-lvlu1-lvl1-lvlu1-1]
 
@@ -822,3 +863,99 @@ Anhang 6*[^t-7]*
 - 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 2 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.2 Buchstabe a und 2.2 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.2 Buchstabe b und 2.2 Buchstabe b nur einmal.
 - 4\.2 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1 als auch eine immunologische Analyse auf Sars-CoV-2-Antigene nach Ziffer 3 oder ein Sars-Cov-2-Schnelltest nach Ziffer 3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.2 Buchstabe a und 3.2 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial beziehungsweise für die Auftragsabwicklung nach den Ziffern 1.2 Buchstabe b und 3.2 Buchstabe b nur einmal.
 - 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine mutationsspezifische Zweit-PCR auf Sars-CoV-2 nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.2 Buchstabe b und 1.5.2 Buchstabe a beziehungsweise 1.6.2 Buchstabe a nur einmal.
+
+Anhang 7[^t-8]
+
+(Art. 27*a* Abs. 11)
+
+## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
+
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+
+Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
+
+### 1. Bluthochdruck
+
+- – Arterielle Hypertonie mit Endorganschaden
+- – Therapie-resistente arterielle Hypertonie
+
+### 2. Herz-Kreislauf-Erkrankungen
+
+### 2.1 Generelle Kriterien
+
+- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV und NT-Pro BNP &gt; 125 pg/ml
+- – Patient/innen mit mindestens zwei kardiovaskulären Risikofaktoren (einer davon Diabetes oder arterielle Hypertonie)
+- – Vorgängiger Schlaganfall und/oder symptomatische Vaskulopathie
+- – Chronische Niereninsuffizienz (Stadium 3, GFR &lt;60ml/min)
+
+### 2.2 Andere Kriterien
+
+### 2.2.1 Koronare Herzkrankheit
+
+- – Myokardinfarkt (STEMI und NSTEMI) in den letzten zwölf Monaten
+- – Symptomatisches chronisches Koronarsyndrom trotz medizinischer Therapie (unabhängig von allfälliger vorheriger Revaskularisierung)
+
+### 2.2.2 Erkrankung der Herzklappen
+
+- – Mittelschwere oder schwere Stenose und/oder Regurgitation zusätzlich zu mindestens einem generellen Kriterium
+- – Jeglicher chirurgischer oder perkutaner Klappenersatz zusätzlich zu mindestens einem generellen Kriterium
+
+### 2.2.3 Herzinsuffizienz
+
+- – Patient/innen mit Dyspnoe funktionelle Klasse NYHA II–IV oder NT-Pro BNP &gt; 125pg/ml trotz medizinischer Therapie jeglicher LVEF (HFpEF, HFmrEF, HFrEF)
+- – Kardiomyopathie jeglicher Ursache
+- – Pulmonalarterielle Hypertonie
+
+### 2.2.4 Arrhythmie
+
+- – Vorhofflimmern mit einem CHA2DS2-VASc Score von mindestens 2 Punkten
+- – Vorgängige Schrittmachereinlage (inkl. ICD und/oder CRT Implantation) zusätzlich zu einem generellen Kriterium
+
+### 2.2.5 Erwachsene mit kongenitaler Herzerkrankung
+
+- – Kongenitale Herzerkrankung nach individueller Beurteilung durch den behandelnden Kardiologen / die behandelnde Kardiologin
+
+### 3. Chronische Atemwegserkrankungen
+
+- – Chronisch Obstruktive Lungenerkrankungen GOLD Stadium II-IV
+- – Lungenemphysem
+- – Unkontrolliertes, insbesondere schweres Asthma bronchiale
+- – Interstitielle Lungenerkrankungen
+- – Aktiver Lungenkrebs
+- – Pulmonalarterielle Hypertonie
+- – Pulmonalvaskuläre Erkrankung
+- – Aktive Sarkoidose
+- – Zystische Fibrose
+- – Chronische Lungeninfektionen (atypische Mykobakteriosen, Bronchiektasen etc.)
+- – Beatmete Patient/innen
+
+### 4. Diabetes
+
+- – Diabetes mellitus, mit Spätkomplikationen oder einem HbA1c von &gt; 8 %
+
+### 5. Erkrankungen/Therapien, die das Immunsystem schwächen
+
+- – Schwere Immunsuppression (z. B. CD4+ &lt; 200/µl)
+- – Neutropenie (&lt;1000 Neutrophile/µl) während ≥ 1 Woche
+- – Lymphozytopenie (&lt;200 Lymphozyten/µl)
+- – Hereditäre Immundefekte
+- – Einnahme von Medikamenten, die die Immunabwehr unterdrücken (wie z. B. Langzeit-Einnahme von Glukokortikoide, monoklonale Antikörper, Zytostatika, etc.)
+- – Aggressive Lymphome (alle Entitäten)
+- – Akute Lymphatische Leukämie
+- – Akute Myeloische Leukämie
+- – Akute Promyelozytenleukämie
+- – T-Prolymphozytenleukämie
+- – Primäre Lymphome des zentralen Nervensystems
+- – Stammzelltransplantation
+- – Amyloidose (Leichtketten (AL)- Amyloidose)
+- – Chronische Lymphatische Leukämie
+- – Multiples Myelom
+- – Sichelzellkrankheit
+
+### 6. Krebs
+
+- – Krebs unter medizinischer Behandlung
+
+### 7. Adipositas
+
+- – Patient/innen mit einem Body-Mass-Index (BMI) von 40 kg/m<sup>2</sup> oder mehr
