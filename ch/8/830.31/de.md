@@ -3,11 +3,11 @@ sr: "830.31"
 title: Verordnung vom 20. März 2020 über Massnahmen bei Erwerbsausfall im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Erwerbsausfall)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: de
-version: 2020-12-19
+version: 2021-01-18
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210118-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20201219/de"
 
 (Covid-19-Verordnung Erwerbsausfall)**[^t-1]**
 
-vom 20. März 2020 (Stand am 19. Dezember 2020)
+vom 20. März 2020 (Stand am 18. Januar 2021)
 
 [^t-1]: Ausdruck gemäss Ziff. I 7 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -99,9 +99,13 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 
 <sup>3ter</sup> Die Erwerbstätigkeit gilt als massgeblich eingeschränkt, wenn pro Monat eine Umsatzeinbusse von mindestens 40 Prozent im Vergleich zum durchschnittlichen monatlichen Umsatz der Jahre 2015–2019 vorliegt.[^2-14] Wurde die Tätigkeit nach 2015 und vor 2020 aufgenommen, so ist der Durchschnitt der entsprechenden Erwerbsdauer massgebend. Personen, die ihre Erwerbstätigkeit nach dem Jahr 2019 aufgenommen haben, müssen nachweisen, dass pro Monat eine Umsatzeinbusse von mindestens 55 Prozent im Vergleich zum durchschnittlichen Umsatz von mindestens drei Monaten vorliegt; massgebend ist der Durchschnitt der drei Monate mit den höchsten Umsätzen.[^2-15]
 
-<sup>4</sup> Die Entschädigung ist subsidiär zu sämtlichen Leistungen von Sozialversicherungen und Versicherungen nach dem Versicherungsvertragsgesetz vom 2. April 1908[^2-16]. Dies gilt nicht für Leistungen nach Artikel 12 des Covid-19-Gesetzes vom 25. September 2020.[^2-17]
+<sup>3quater</sup> Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer im Sinne von Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^2-16] sind anspruchsberechtigt, wenn es nicht möglich ist, sie nach Artikel 27*a* Absätze 1–4 der Covid-19-Verordnung 3 zu beschäftigen, oder wenn diese die zugewiesene Arbeit im Sinne von Artikel 27*a* Absatz 6 der Covid-19-Verordnung 3 ablehnen. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-17]
 
-<sup>5</sup> ...[^2-18]
+<sup>3quinquies</sup> Selbstständigerwerbende im Sinne von Artikel 12 ATSG, die besonders gefährdet sind, sind anspruchsberechtigt, wenn sie ihre Arbeit nicht von zuhause aus verrichten können. Zur Definition von besonders gefährdeten Personen gilt Artikel 27*a* Absätze 10 und 11 der Covid-19-Verordnung 3 analog. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-18]
+
+<sup>4</sup> Die Entschädigung ist subsidiär zu sämtlichen Leistungen von Sozialversicherungen und Versicherungen nach dem Versicherungsvertragsgesetz vom 2. April 1908[^2-19]. Dies gilt nicht für Leistungen nach Artikel 12 des Covid-19-Gesetzes vom 25. September 2020.[^2-20]
+
+<sup>5</sup> ...[^2-21]
 
 <sup>6</sup> Es können beide Elternteile aufgrund des Ausfalls der Fremdbetreuung anspruchsberechtigt sein. Pro Erwerbstag kann jedoch nur ein Taggeld beansprucht werden.
 
@@ -123,9 +127,12 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 [^2-13]: Eingefügt durch Ziff. I der V vom 16. April 2020 ([AS 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5829](https://fedlex.data.admin.ch/eli/oc/2020/981)).
 [^2-15]: Eingefügt durch Ziff. I der V vom 1. Juli 2020 ([AS 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-16]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-17]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-18]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-16]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^2-17]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-18]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-19]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-20]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-21]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 3
 
@@ -139,9 +146,16 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 
 <sup>4</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe a Ziffer 1 oder Artikel 2 Absatz 3 oder 3<sup>bis</sup> endet der Anspruch mit dem Ende der angeordneten Massnahme.[^3-3]
 
+<sup>5</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 3<sup>quater</sup> entsteht der Anspruch, sobald eine Beschäftigung nach Artikel 27*a* Absätze 1–4 der Covid-19-Verordnung 3 vom 19. Juni 2020[^3-4] nicht möglich ist oder wenn die zugewiesene Arbeit im Sinne von Artikel 27*a* Absatz 6 der Covid-19-Verordnung 3 abgelehnt wird. Der Anspruch endet mit der Wiederaufnahme der Arbeit oder mit der Aufhebung von Artikel 27*a* der Covid-19-Verordnung 3.[^3-5]
+
+<sup>6</sup> Für eine anspruchsberechtigte Person nach Artikel 2 Absatz 3<sup>quinquies</sup> entsteht der Anspruch mit dem Unterbruch der Erwerbstätigkeit und endet mit der Wiederaufnahme der Erwerbstätigkeit.[^3-6]
+
 [^3-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^3-2]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^3-3]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-4]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^3-5]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^3-6]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 #### Art. 4
 
@@ -161,21 +175,24 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 
 <sup>2bis</sup> Für anspruchsberechtigte Selbstständigerwerbende nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe b Ziffer 2, Absatz 3 oder 3<sup>bis</sup>, die bereits eine Entschädigung gemäss dieser Verordnung in der bis zum 16. September 2020 geltenden Fassung bezogen haben, bleibt die Berechnungsgrundlage die gleiche.[^5-3]
 
-<sup>2ter</sup> Für die Bemessung der Entschädigung anspruchsberechtigter Selbstständigerwerbender nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe b Ziffer 2, Absatz 3 oder 3<sup>bis</sup> ist das AHV-pflichtige Erwerbseinkommen des Jahres 2019 massgebend. Sobald die Höhe der Entschädigung festgesetzt wurde, kann sie nicht aufgrund einer aktuelleren Berechnungsgrundlage neu festgesetzt werden.[^5-4]
+<sup>2ter</sup> Für die Bemessung der Entschädigung anspruchsberechtigter Selbstständigerwerbender nach Artikel 2 Absatz 1<sup>bis</sup> Buchstabe b Ziffer 2, Absatz 3, 3<sup>bis</sup> oder 3<sup>quinquies</sup> ist das AHV-pflichtige Erwerbseinkommen des Jahres 2019 massgebend. Sobald die Höhe der Entschädigung festgesetzt wurde, kann sie nicht aufgrund einer aktuelleren Berechnungsgrundlage neu festgesetzt werden.[^5-4]
 
 <sup>2quater</sup> Für die Bemessung der Entschädigung von Arbeitnehmerinnen und Arbeitnehmern im Sinne von Artikel 10 ATSG[^5-5] ist der durch die behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie entstandene Lohnausfall massgebend. Das Taggeld entspricht 80 Prozent dieses Lohnausfalls.[^5-6]
 
+<sup>2quinquies</sup> In Abweichung von Absatz 2<sup>quater</sup> ist für die Bemessung der Entschädigung von Anspruchsberechtigten nach Artikel 2 Absatz 3<sup>quater</sup> das AHV-pflichtige Erwerbseinkommen massgebend.[^5-7]
+
 <sup>3</sup> Die Entschädigung beträgt höchstens 196 Franken pro Tag.
 
-<sup>4</sup> ...[^5-7]
+<sup>4</sup> ...[^5-8]
 
 [^5-1]: [SR 834.1](https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050)
 [^5-2]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-4]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^5-4]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)). Fassung gemäss Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 [^5-5]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^5-6]: Eingefügt durch Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^5-7]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^5-7]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^5-8]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 6
 
