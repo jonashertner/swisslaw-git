@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.111220.1"
 title: "ARRÊTÉ du 11.12.2020 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière et sur certaines mesures cantonales complémentaires"
 language: fr
-version: 2020-12-22
+version: 2021-01-18
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.111220.1?id=12f9065b-b9e7-411e-bfbd-73e104c00e53"
 ---
 
@@ -45,55 +45,23 @@ arrête
 
 **Établissements de restauration [^2-1]**
 
-<sup>1</sup> Si les conditions posées par l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont remplies, les bars, restaurants, cafés, buvettes et autres établissements de restauration situés sur les pistes de ski peuvent être ouverts pour l'accueil des skieurs aux conditions suivantes :
+...
 
-- a. ils ne peuvent ouvrir avant, ni fermer après les remontées mécaniques;
-- b. le service au comptoir est interdit, sauf dans les établissements pratiquant exclusivement le self-service;
-- c. l'utilisation de jeux est interdite. La diffusion de musique ne doit pas excéder 75 décibels;
-- d. la vente à l'emporter dans des emballages et récipients fermés est possible. Le gérant de l'établissement doit prévoir un endroit défini pour le retrait des commandes;
-- e. la consommation de mets et boissons à l'emporter aux abords immédiats de l'établissement est interdite;
-- f. un dispositif d'identification de la clientèle (applications numériques ou papier) doit être utilisé systématiquement. Ce dispositif doit être homologué par la faîtière de la branche, en concertation avec l'office du Médecin cantonal;
-- g. le gérant de l'établissement doit mettre à disposition de la solution hydro -alcoolique à l'entrée de l'établissement et s'assurer que les clients l'utilisent;
-- h. la consommation en terrasse est autorisée aux conditions prévues aux lettres a à h ci-dessus. En dérogation à l'article 51 du règlement d'application de la loi du 16 mai 2006 sur l'énergie, les chauffages électriques en plein air sont admis à titre exceptionnel sur les terrasses. Leur installation n'est pas soumise à autorisation communale mais à une annonce auprès de la municipalité au moyen d'un formulaire mis à disposition par le service en charge de l'énergie;
-- i. les dispositions de l'article 5a de l'Ordonnance COVID -19 Situation particulière, dans sa teneur au 11 décembre 2020, sont au surplus applicables.
-
-<sup>2</sup> Tous les autres bars, restaurants, cafés, espaces de restauration d'autres établissements (notamment tea-rooms) et buvettes peuvent être ouverts aux conditions de l'alinéa 1, de 6 heures à 23 heures, jusqu'au 26 décembre 2020. Ils sont tous fermés dès le 27 décembre 2020, sous réserve de l'alinéa 2bis.
-
-<sup>2bis</sup> Demeurent réservées les exceptions prévues par l'article 5a, alinéa 2 de l'ordonnance COVID-19 Situation particulière. Les bénéficiaires d'une telle exception sont soumis aux conditions suivantes de l'alinéa 1 ci-dessus :
-
-- - lettres d, e et i, pour ceux qui sont seulement admis à pratiquer la vente à l'emporter ou à livrer des repas à domicile;
-- - lettre b à i, pour ceux qui sont autorisés à ouvrir.
-
-<sup>3</sup> L'EMCC, en coordination avec le Médecin cantonal, assure la communication des changements d'horaires liés à la réalisation des conditions posées par l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière.
-
-[^2-1]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021; Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021
+[^2-1]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021
 
 #### Art. 4
 
 **Autres établissements publics [^3-1]**
 
-<sup>1</sup> Sont fermés les établissements publics suivants :
+...
 
-- a. les discothèques et night clubs;
-- b. les casinos et salons de jeux;
-- c. les kartings et établissements de loisirs et de divertissement du même type;
-- d. les saunas, centres de bien-être et établissements similaires, hormis dans les hôtels pour les clients qui y séjournent effectivement;
-- e. les cinémas, sauf pour les représentations données conformément à l'article 9, alinéa 2 du présent arrêté;
-- f. les théâtres, salles de concerts et de spectacles, sauf pour les représentations données conformément à l'article 9, alinéa 2 du présent arrêté et pour les répétitions autorisées au sens de l'ordonnance COVID-19 Situation particulière;
-- g. les installations sportives et les piscines, hormis pour les activités autorisées au sens de l'article 8 du présent arrêté;
-- h. les clubs érotiques et établissements similaires non soumis à la loi du 30 mars 2004 sur l'exercice de la prostitution.
-
-<sup>2</sup> Si les conditions posées à l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont remplies, les établissements soumis à des restrictions d'horaires au sens de l'article 5a<sup>bis</sup> de l'ordonnance COVID-19 Situation particulière peuvent pratiquer leurs horaires d'ouverture ordinaires, y compris le dimanche et les jours spécialement mentionnés dans l'ordonnance fédérale.
-
-<sup>3</sup> L'EMCC , en coordination avec le Médecin cantonal, assure la communication des changements d'horaires liés à la réalisation des conditions posées par l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière.
-
-[^3-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021; Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021
+[^3-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021
 
 #### Art. 5
 
 **Marchés [^4-1]**
 
-<sup>1</sup> Les marchés en milieu ouvert exclusivement peuvent être organisés aux conditions suivantes :
+<sup>1</sup> Les marchés en milieu ouvert qui demeurent possibles selon l'ordonnance COVID-19 Situation particulière peuvent être organisés aux conditions suivantes.
 
 - a. le port du masque par les clients et les tenanciers de stands est obligatoire;
 - b. les stands doivent à une distance raisonnable les uns des autres;
@@ -116,7 +84,7 @@ arrête
 
 <sup>5</sup> Les communes sont responsables du contrôle et du respect de l'application du présent article.
 
-[^4-1]: Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021; Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 1, b; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021
+[^4-1]: Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 1, b; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021
 
 #### Art. 6
 
@@ -136,7 +104,9 @@ arrête
 
 <sup>1</sup> Les manifestations politiques ou de la société civile au sens de l'article 6c, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont autorisées jusqu'à cinq personnes.
 
-<sup>2</sup> Les manifestations dans le cercle familial et entre amis sont limitées à cinq personnes.
+<sup>2</sup> ...
+
+<sup>3</sup> Les manifestations visant à la libre formation de l'opinion politique organisées à l'extérieur (stands d'information et de campagne) sont limitées à 20 personnes.
 
 [^6-1]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 1; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
 
@@ -146,43 +116,43 @@ arrête
 
 <sup>1</sup> La pratique du sport, y compris la danse artistique et sportive, est autorisée dans la mesure prévue par l'ordonnance COVID-19 Situation particulière et aux conditions posées dans le présent article.
 
-<sup>1bis</sup> Si les conditions posées à l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont remplies, les infrastructures sportives peuvent être ouvertes aux horaires ordinaires pour les activités qui n'impliquent pas de contact physique et qui sont exercées à titre individuel ou en groupes d'au maximum 5 personnes à partir de 16 ans, moyennant port du masque ou respect des distances prévues au chiffre 3.1 de l'annexe à l'ordonnance COVID-19 Situation particulière.
+<sup>1bis</sup> ...
 
 <sup>2</sup> Les enfants entre 12 et 16 ans doivent porter un masque pour la pratique du sport collectif. Ils peuvent y renoncer aux conditions posées par l'article 6e, alinéa 1er, lettre b de l'ordonnance COVID-19 Situation particulière.
 
 <sup>3</sup> Les vestiaires et douches des installations sportives sont fermés.
 
-<sup>4</sup> Si les conditions posées à l'article 7, alinéa 2 de l'ordonnance COVID -19 Situation particulière sont remplies, la pratique de la natation et du plongeon et l'utilisation des infrastructures y relatives est autorisée pour l'entraînements de personnes pratiquant en club aux conditions suivantes :
+<sup>4</sup> ...
 
-- a. les vestiaires sont accessibles, mais les douches demeurent fermées;
-- b. chaque personne, entraîneur compris, doit disposer d'une surface minimale de 15 mètres carré pour son usage exclusif;
-- c. l'exploitation de la piscine est soumise à l'approbation préalable d'un plan de protection par l'EMCC, après consultation du Médecin cantonal.
+- a. ...
+- b. ...
+- c. ...
 
-[^7-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Abrogation Al. 1-3; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021
+[^7-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Abrogation Al. 1-3; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021
 
 #### Art. 9
 
 **Activités et établissements culturels [^8-1]**
 
-<sup>1</sup> Les visites de musées et autres institutions culturelles comparables peuvent se faire, dans le respect des plans de protection :
+<sup>1</sup> Les musées et autres institutions culturelles demeurent accessibles aux classes d'école visées par l'article 6d, alinéa 1, lettre a de l'ordonnance COVID-19 Situation particulière.
 
-- a. individuellement,
-- b. par les classes d'école,
-- c. pour les personnes de 16 ans et plus, par groupes de 5 personnes au maximum.
+- a. ...
+- b. ...
+- c. ...
 
 <sup>2</sup> Les cinémas et théâtres sont accessibles pour des représentations données aux classes d'école visées par l'article 6d, alinéa 1 lettre a dans le cadre de leurs cours.
 
-<sup>3</sup> Si les conditions posées à l'article 7, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont remplies, les musées, galeries d'exposition et bibliothèques peuvent ouvrir et pratiquer leurs horaires d'ouverture ordinaires, y compris le dimanche et les jours spécialement mentionnés dans l'ordonnance fédérale.
+<sup>3</sup> ...
 
-[^8-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Modification Al. 3; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Modification Al. 1; entrée en vigueur au 18.01.2021; Abrogation Al. 1, a-c; entrée en vigueur au 18.01.2021; Abrogation Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 1; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Abrogation tArt; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021
+[^8-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Modification Al. 3; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021; Abrogation Al. 1, a-c; entrée en vigueur au 18.01.2021; Abrogation Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 1; entrée en vigueur au 01.03.2021; Introduction Art. 12, Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Abrogation tArt; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021
 
 #### Art. 10
 
 **Rassemblements dans l'espace public [^9-1]**
 
-<sup>1</sup> Les rassemblements de plus de cinq personnes dans l'espace public sont interdits.
+...
 
-[^9-1]: Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Abrogation Al. 1; entrée en vigueur au 18.01.2021
+[^9-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021
 
 #### Art. 11
 
@@ -196,7 +166,7 @@ arrête
 
 **Mesures dans le cadre professionnel [^11-1]**
 
-<sup>1</sup> Dans les administrations cantonales et communales, ainsi que dans les entreprises privées, le télétravail est imposé partout où cela est possible.
+<sup>1</sup> ...
 
 <sup>2</sup> Les réunions professionnelles doivent dans toute la mesure du possible avoir lieu par visioconférence.
 
@@ -210,7 +180,7 @@ arrête
 
 <sup>5</sup> Le Chef de l'EMCC est compétent pour octroyer des dérogations au nombre limite fixé à l'alinéa 2 si la tenue de la réunion en présentiel est indispensable à l'activité de l'entité considérée.
 
-[^11-1]: Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
+[^11-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Introduction Art. 3a; entrée en vigueur au 01.03.2021; Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
 
 #### Art. 13
 
@@ -252,11 +222,9 @@ arrête
 
 **Dispositions transitoires [^17-1]**
 
-<sup>1</sup> Le nombre de participants aux manifestations religieuses est limité à 30 personnes jusqu'au 18 décembre 2020.
+...
 
-<sup>2</sup> Du 18 décembre 2020 au 3 janvier 2021, les manifestations dans le cercle familial et entre amis sont limitées à 10 personnes.
-
-[^17-1]: Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Abrogation Al. 1-2; entrée en vigueur au 18.01.2021
+[^17-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1-2; entrée en vigueur au 18.01.2021
 
 #### Art. 19
 
@@ -270,6 +238,6 @@ arrête
 
 <sup>1</sup> Le présent arrêté entre en vigueur le 12 décembre 2020.
 
-<sup>2</sup> Sa validité est limitée au 22 janvier 2021.
+<sup>2</sup> ...
 
-[^19-1]: Modif. 2 du 13.01.2021: Introduction Art. 7, Al. 3; entrée en vigueur au 18.01.2021; Abrogation Al. 2; entrée en vigueur au 18.01.2021
+[^19-1]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021
