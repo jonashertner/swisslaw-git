@@ -4,13 +4,13 @@ number: "100.1"
 title: Verordnung über Massnahmen des Kantons Solothurn zur Bekämpfung der Covid-19-Epidemie
 short: V Covid-19
 language: de
-version: 2020-12-27
-valid_until: 2021-01-17
-version_adopted: 2020-12-22
+version: 2021-01-18
+valid_until: 2021-04-18
+version_adopted: 2021-01-14
 adopted: 2020-10-21
 in_force: 2020-10-22
 url: "https://bgs.so.ch/app/de/texts_of_law/100.1"
-pdf: "https://bgs.so.ch/api/de/versions/5012/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5065/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5012/pdf_file"
 
 (V Covid-19)
 
-Vom 21.10.2020 (Stand 27.12.2020)
+Vom 21.10.2020 (Stand 18.01.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -48,9 +48,7 @@ beschliesst:
 
 #### § 1ter
 
-**Verbot von Menschenansammlungen im öffentlichen Raum**
-
-<sup>1</sup> Zusammenkünfte und Treffen von mehr als 5 Personen im öffentlichen Raum, wie insbesondere auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
+**…**
 
 #### § 2
 
@@ -71,17 +69,7 @@ beschliesst:
 
 #### § 2ter
 
-**Schliessung von Einkaufsläden und Märkten**
-
-<sup>1</sup> Einkaufsläden und Märkte sind für das Publikum geschlossen, wobei die Abholung bestellter Waren vor Ort zulässig ist.
-
-<sup>2</sup> Absatz 1 gilt nicht für folgende Einrichtungen:
-
-- a) Lebensmittelläden und sonstige Läden, wie insbesondere Kioske und Tankstellenshops, die Lebensmittel oder andere Güter des kurzfristigen und täglichen Bedarfs verkaufen;
-- b) Apotheken, Drogerien und Läden für medizinische Hilfsmittel, wie insbesondere Brillen und Hörgeräte;
-- c) Verkaufsstellen von Telekommunikationsanbietern;
-- d) Reparatur- und Heimwerkergeschäfte, wie insbesondere Heimwerker- und Gartenläden, Eisenwarengeschäfte, Schuhmachereien, Wäschereien, Nähereien, Schlossereien, Garagen und Fahrradgeschäfte mit Reparaturwerkstätten;
-- e) Blumenläden.
+**…**
 
 #### § 3
 
@@ -99,16 +87,13 @@ beschliesst:
 - b<sup>ter</sup>) …
 - c) …
 
-<sup>1<sup>bis</sup></sup> In öffentlich zugänglichen Einrichtungen und Betrieben stattfindende religiöse Veranstaltungen sind mit bis zu 30 Personen zulässig.
+<sup>1<sup>bis</sup></sup> …
 
 <sup>2</sup> …
 
 <sup>3</sup> …
 
-<sup>3<sup>bis</sup></sup> Für nicht ausschliesslich an einem bestimmten, eingegrenzten Ort stattfindende Veranstaltungen und Aktivitäten, bei welchen sich die teilnehmenden Personen in regelmässiger Bewegung befinden, gelten in belebten Bereichen von urbanen Zentren und Dorfkernen sowie in weiteren Bereichen des öffentlichen Raums, in welchen aufgrund der dort vorhandenen Konzentration von Personen der Mindestabstand von 1.5 Metern nicht eingehalten werden kann, die folgenden Vorgaben:
-
-- a) Die Grösse der Gruppen darf höchstens 5 Personen betragen.
-- b) Zwischen den verschiedenen Gruppen gilt ein Mindestabstand von 3 Metern.
+<sup>3<sup>bis</sup></sup> …
 
 <sup>4</sup> …
 
@@ -130,11 +115,7 @@ beschliesst:
 
 #### § 4bis
 
-**Homeoffice**
-
-<sup>1</sup> Die Arbeitgeberinnen und Arbeitgeber sorgen dafür, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen so weit als möglich von zu Hause aus erfüllen können.
-
-<sup>2</sup> Die Arbeitgeberinnen und Arbeitgeber ermöglichen Homeoffice durch organisatorische und technische Massnahmen, soweit diese wirtschaftlich zumutbar sind.
+**…**
 
 #### § 5
 
@@ -149,6 +130,10 @@ RRB Nr. 2020/1474 vom 21. Oktober 2020.
 Inkrafttreten am 22. Oktober 2020.
 
 Die Notverordnung gilt längstens bis zum 31. Januar 2021.
+
+Mit RRB Nr. 2021/34 wurde die Geltungsdauer der Verordnung bis zum 28. Februar 2021 verlängert.
+
+Mit RRB Nr. 2021/234 wurde die Geltungsdauer der Verordnung bis zum 30. April 2021 verlängert.
 
 Publiziert im Amtsblatt vom 23. Oktober 2020.
 
