@@ -3,11 +3,11 @@ sr: "946.231.11"
 title: Verordnung vom 29. November 2002 über den internationalen Handel mit Rohdiamanten (Diamantenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/710"
 language: de
-version: 2019-03-06
+version: 2021-01-18
 adopted: 2002-11-29
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20190306/de/xml/fedlex-data-admin-ch-eli-cc-2002-710-20190306-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20190306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/710/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2002-710-20210118-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20210118/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/710/20190306/de"
 
 (Diamantenverordnung)
 
-vom 29. November 2002 (Stand am 6. März 2019)
+vom 29. November 2002 (Stand am 18. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -174,7 +174,7 @@ Anhang*[^t-1]*
 
 ## Liste der Teilnehmer
 
-[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 20. Mai 2003 ([AS 2003 1200](https://fedlex.data.admin.ch/eli/oc/2003/209)). Bereinigt gemäss Ziff. I der V des WBF vom 28. Aug. 2003 ([AS 2003 3260](https://fedlex.data.admin.ch/eli/oc/2003/448)), vom 22. Sept. 2003 ([AS 2003 3493](https://fedlex.data.admin.ch/eli/oc/2003/495)), vom 20. Okt. 2003 ([AS 2003 3771](https://fedlex.data.admin.ch/eli/oc/2003/539)), vom 13. Nov. 2003 ([AS 2003 4075](https://fedlex.data.admin.ch/eli/oc/2003/602)), vom 4. Mai 2004 ([AS 2004 2415](https://fedlex.data.admin.ch/eli/oc/2004/279)), vom 30. Juni 2004 ([AS 2004 3387](https://fedlex.data.admin.ch/eli/oc/2004/437)), vom 13. Juli 2004 ([AS 2004 3449](https://fedlex.data.admin.ch/eli/oc/2004/459)), vom 15. Aug. 2005 ([AS 2005 4389](https://fedlex.data.admin.ch/eli/oc/2005/563)), vom 28. Sept. 2005 ([AS 2005 4699](https://fedlex.data.admin.ch/eli/oc/2005/621)), vom 28. Nov. 2006 ([AS 2006 4865](https://fedlex.data.admin.ch/eli/oc/2006/753)), vom 19. Febr. 2007 ([AS 2007 509](https://fedlex.data.admin.ch/eli/oc/2007/103)), vom 24. Mai 2007 ([AS 2007 2423](https://fedlex.data.admin.ch/eli/oc/2007/339)), vom 28. Aug. 2007 ([AS 2007 4155](https://fedlex.data.admin.ch/eli/oc/2007/555)), vom 11. Dez. 2007 ([AS 2007 6877](https://fedlex.data.admin.ch/eli/oc/2007/890)), vom 27. Jan. 2009 ([AS 2009 489](https://fedlex.data.admin.ch/eli/oc/2009/88)), vom 30. Jan. 2012 ([AS 2012 613](https://fedlex.data.admin.ch/eli/oc/2012/89)), vom 26. Okt. 2012 ([AS 2012 5835](https://fedlex.data.admin.ch/eli/oc/2012/684)), vom 25. März 2013 ([AS 2013 951](https://fedlex.data.admin.ch/eli/oc/2013/195)), vom 1. Juni 2013 ([AS 2013 2153](https://fedlex.data.admin.ch/eli/oc/2013/458)), vom 23. Sept. 2013 ([AS 2013 3271](https://fedlex.data.admin.ch/eli/oc/2013/626)), vom 11. Nov. 2014 ([AS 2014 3707](https://fedlex.data.admin.ch/eli/oc/2014/643)), vom 15. Okt. 2015 ([AS 2015 4063](https://fedlex.data.admin.ch/eli/oc/2015/681)), vom 21. Dez. 2016 ([AS 2017 29](https://fedlex.data.admin.ch/eli/oc/2017/9)) und vom 15. Febr. 2019, in Kraft seit 6. März 2019([AS 2019 719](https://fedlex.data.admin.ch/eli/oc/2019/125)).
+[^t-1]: Fassung gemäss Ziff. I der V des WBF vom 20. Mai 2003 ([AS 2003 1200](https://fedlex.data.admin.ch/eli/oc/2003/209)). Bereinigt gemäss Ziff. I der V des WBF vom 28. Aug. 2003 ([AS 2003 3260](https://fedlex.data.admin.ch/eli/oc/2003/448)), vom 22. Sept. 2003 ([AS 2003 3493](https://fedlex.data.admin.ch/eli/oc/2003/495)), vom 20. Okt. 2003 ([AS 2003 3771](https://fedlex.data.admin.ch/eli/oc/2003/539)), vom 13. Nov. 2003 ([AS 2003 4075](https://fedlex.data.admin.ch/eli/oc/2003/602)), vom 4. Mai 2004 ([AS 2004 2415](https://fedlex.data.admin.ch/eli/oc/2004/279)), vom 30. Juni 2004 ([AS 2004 3387](https://fedlex.data.admin.ch/eli/oc/2004/437)), vom 13. Juli 2004 ([AS 2004 3449](https://fedlex.data.admin.ch/eli/oc/2004/459)), vom 15. Aug. 2005 ([AS 2005 4389](https://fedlex.data.admin.ch/eli/oc/2005/563)), vom 28. Sept. 2005 ([AS 2005 4699](https://fedlex.data.admin.ch/eli/oc/2005/621)), vom 28. Nov. 2006 ([AS 2006 4865](https://fedlex.data.admin.ch/eli/oc/2006/753)), vom 19. Febr. 2007 ([AS 2007 509](https://fedlex.data.admin.ch/eli/oc/2007/103)), vom 24. Mai 2007 ([AS 2007 2423](https://fedlex.data.admin.ch/eli/oc/2007/339)), vom 28. Aug. 2007 ([AS 2007 4155](https://fedlex.data.admin.ch/eli/oc/2007/555)), vom 11. Dez. 2007 ([AS 2007 6877](https://fedlex.data.admin.ch/eli/oc/2007/890)), vom 27. Jan. 2009 ([AS 2009 489](https://fedlex.data.admin.ch/eli/oc/2009/88)), vom 30. Jan. 2012 ([AS 2012 613](https://fedlex.data.admin.ch/eli/oc/2012/89)), vom 26. Okt. 2012 ([AS 2012 5835](https://fedlex.data.admin.ch/eli/oc/2012/684)), vom 25. März 2013 ([AS 2013 951](https://fedlex.data.admin.ch/eli/oc/2013/195)), vom 1. Juni 2013 ([AS 2013 2153](https://fedlex.data.admin.ch/eli/oc/2013/458)), vom 23. Sept. 2013 ([AS 2013 3271](https://fedlex.data.admin.ch/eli/oc/2013/626)), vom 11. Nov. 2014 ([AS 2014 3707](https://fedlex.data.admin.ch/eli/oc/2014/643)), vom 15. Okt. 2015 ([AS 2015 4063](https://fedlex.data.admin.ch/eli/oc/2015/681)), vom 21. Dez. 2016 ([AS 2017 29](https://fedlex.data.admin.ch/eli/oc/2017/9)), vom 15. Febr. 2019 ([AS 2019 719](https://fedlex.data.admin.ch/eli/oc/2019/125)) und vom 15. Jan. 2021, in Kraft seit 18. Jan. 2021 um 18.00 Uhr ([AS 2021 10](https://fedlex.data.admin.ch/eli/oc/2021/10)).
 
 <table>
 <tr><td>Angola</td><td>Mali</td></tr>
@@ -187,7 +187,7 @@ Anhang*[^t-1]*
 <tr><td>China</td><td>Republik Kongo</td></tr>
 <tr><td>Côte d’Ivoire</td><td>Republik Korea</td></tr>
 <tr><td>Demokratische Republik Kongo</td><td>Russland</td></tr>
-<tr><td>Europäische Union[^annexu1-lvlu1-1]</td><td>Schweiz</td></tr>
+<tr><td>Europäische Union</td><td>Schweiz</td></tr>
 <tr><td>Gabun</td><td>Sierra Leone</td></tr>
 <tr><td>Ghana</td><td>Simbabwe</td></tr>
 <tr><td>Guinea</td><td>Singapur</td></tr>
@@ -201,12 +201,10 @@ Anhang*[^t-1]*
 <tr><td>Kanada</td><td>Ukraine</td></tr>
 <tr><td>Kasachstan</td><td>Venezuela</td></tr>
 <tr><td>Laos</td><td>Vereinigte Arabische Emirate</td></tr>
-<tr><td>Lesotho</td><td>Vereinigte Staaten von Amerika</td></tr>
-<tr><td>Libanon</td><td>Vietnam</td></tr>
-<tr><td>Liberia</td><td>Zentralafrikanische Republik</td></tr>
-<tr><td>Malaysia</td><td></td></tr>
+<tr><td>Lesotho</td><td>Vereinigtes Königreich</td></tr>
+<tr><td>Libanon</td><td>Vereinigte Staaten von Amerika</td></tr>
+<tr><td>Liberia</td><td>Vietnam</td></tr>
+<tr><td>Malaysia</td><td>Zentralafrikanische Republik</td></tr>
 </table>
 
 Der Handel mit Rohdiamanten ist auch mit dem Chinesischen Taipei gestattet.
-
-[^annexu1-lvlu1-1]: Während einer Übergangsperiode vom 1. Febr. 2020 bis zum 31. Dez. 2020 wird das Vereinigte Königreich in Belangen des KP-Zertifizierungssystems wie ein Mitgliedstaat der Europäischen Union behandelt.
