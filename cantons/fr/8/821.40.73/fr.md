@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-01-09
-valid_until: 2021-01-18
-version_adopted: 2021-01-06
+version: 2021-01-19
+valid_until: 2021-02-21
+version_adopted: 2021-01-19
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6718/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6725/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6718/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 09.01.2021)
+du 10.11.2020 (version entrée en vigueur le 19.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -63,27 +63,17 @@ Arrête:
 
 **Rassemblements et manifestations**
 
-<sup>1</sup> Les rassemblements publics ou privés de plus de 10 personnes (enfants compris) dans l'espace privé et dans l'espace public, notamment sur les places, places de jeux, promenades, trottoirs et sentiers ainsi que dans les parcs, sont interdits, y compris lorsqu'ils revêtent un caractère commercial.
+<sup>1</sup> …
 
-<sup>1a</sup> Les manifestations publiques sont interdites.
+<sup>1a</sup> …
 
-<sup>2</sup> Ces interdictions ne s'appliquent pas aux manifestations suivantes:
+<sup>2</sup> …
 
-- a) les cérémonies civiles de mariage à huis clos et les cérémonies religieuses de mariage et de baptême jusqu'à 10 participants et participantes, en sus des officiants;
-- b) les célébrations religieuses, en fonction de l'espace et moyennant le respect d'un espace de 4 m² par personne, jusqu'à 50 personnes, en sus des personnes rattachées à l'office religieux;
-- c) les enterrements dans le cercle familial et dans le cercle amical restreint;
-- d) les assemblées statutaires de corporations de droit public ne pouvant être reportées ou ne pouvant être tenues à distance, sur autorisation du préfet;
-- e) les séances du Grand Conseil et de ses commissions ainsi que les séances des conseils communaux et généraux, assemblées communales et de leurs commissions, des conseils paroissiaux et synodaux, assemblées paroissiales ou synodales et de leurs commissions;
-- f) les séances officielles et assemblées qui ne peuvent être reportées, organisées en visioconférence ou par voie de circulation, telles que des partis politiques, associations, fondations et groupements, en vue de la détermination d'une prise de position en cas de votation ou de la présentation d'une liste de candidatures pour une élection, jusqu'à 30 participants et participantes;
-- g) les assemblées et comités de droit privé jusqu'à 30 participants et participantes, s'ils ne peuvent être reportés, organisés en visioconférence ou par voie de circulation;
-- h) les assemblées des organisations syndicales et patronales et les assemblées du personnel, jusqu'à 30 participants et participantes, si elles ne peuvent être reportées, organisées en visioconférence ou par voie de circulation;
-- i) les distributions gratuites de biens de nécessité à la population dans le cadre d'une action sociale;
-- j) les manifestations politiques jusqu'à 30 participants et participantes, sur autorisation du préfet;
-- k) les récoltes de signatures jusqu'à 10 personnes.
+<sup>3</sup> Les événements et manifestations autorisés en vertu de l'article 6 de l'ordonnance fédérale COVID-19 situation particulière doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et peut prévoir de collecter de manière électronique les coordonnées des participants et participantes, les conserver durant quatorze jours, puis les détruire.
 
-<sup>3</sup> Les événements visés à l'alinéa 2 doivent avoir un plan de protection, agréé par le préfet, qui prévoit notamment le port du masque facial et la distance interpersonnelle en permanence entre les participants et participantes ainsi que la désinfection obligatoire des mains. L'organisateur doit garantir l'élaboration et la mise en œuvre du plan de protection et collecter de manière électronique les coordonnées des participants et participantes, les conserver durant quatorze jours, puis les détruire.
+<sup>3a</sup> Les manifestations visant la libre formation de l'opinion politique visées par l'article 6 al. 1 let. b de l'ordonnance fédérale COVID-19 situation particulière, organisées à l'extérieur, y compris au moyen de stands d'information et de campagne, sont limitées à 20 personnes.
 
-<sup>4</sup> Dans des cas exceptionnels, une dérogation peut être accordée par le préfet, en coordination avec le Service du médecin cantonal et la Police cantonale, notamment en cas d'impossibilité absolue de report et de réunion en non-présentiel et à la condition que la manifestation réponde à un intérêt prépondérant.
+<sup>4</sup> Dans des cas exceptionnels, une dérogation à l'interdiction des manifestations prévues par le droit fédéral peut être accordée par le préfet, en coordination avec le Service du médecin cantonal et la Police cantonale, notamment en cas d'impossibilité absolue de report et de réunion en non-présentiel et à la condition que la manifestation réponde à un intérêt prépondérant.
 
 <sup>5</sup> Le comité d'une association de communes peut, par décision notifiée par écrit ou sous forme électronique au plus tard quatre jours avant l'assemblée de délégué‑e‑s, quel que soit le nombre prévu de participants et participantes, sans respecter le délai de convocation et à la condition que l'objet s'y prête, imposer aux délégué‑e‑s d'exercer leurs droits exclusivement:
 
@@ -116,35 +106,13 @@ Arrête:
 
 #### Art. 3b
 
-**Autres établissements et installations accessibles au public**
+**…**
 
-<sup>1</sup> Peuvent rester ouverts, moyennant le respect d'un plan de protection:
+#### Art. 3c
 
-- a) les commerces, moyennant le respect des espaces et distances prévus par l'ordonnance fédérale COVID-19 situation particulière;
-- b) les activités de services à la personne telles que coiffeurs, esthéticiens, barbiers et tatoueurs;
-- c) les établissements en libre-service accessibles au public, notamment les stations-service, les installations à utiliser soi-même, les installations automatisées dans une large mesure;
-- d) les installations sportives en plein air, sous réserve de l'article 3b al. 2;
-- e) les domaines skiables, sous réserve des règles de l'ordonnance fédérale COVID-19 situation particulière;
-- f) les institutions de santé et les locaux où exercent les professionnels de la santé au sens des droits fédéral et cantonal, comme notamment les cabinets médicaux et dentaires, les cabinets vétérinaires, les laboratoires médicaux, les cabinets de chiropraticiens, de physiothérapeutes, d'ostéopathes, de podologues, d'ergothérapeutes, de diététiciens, de logopédistes, de psychologues et de sages-femmes;
-- g) les bibliothèques et les ludothèques, uniquement pour le prêt; l'accès aux salles de lecture des bibliothèques est autorisé pour les étudiants et étudiantes et les chercheurs et chercheuses de l'institution abritant la bibliothèque;
-- h) les hôtels et les établissements parahôteliers, à l'exclusion des hébergements collectifs;
-- i) les services à emporter et de livraison;
-- j) …
-- k) …
-- l) …
-- m) …
-- k1) …
-- n) …
-- o) …
-- p) …
+**Prostitution**
 
-<sup>1a</sup> Les établissements et installations autorisés à ouvrir selon l'alinéa 1 du présent article demeurent fermés entre 19 heures et 6 heures, ainsi que le dimanche, conformément à l'article 5a<sup>bis</sup> de l'ordonnance fédérale COVID-19 situation particulière, sauf pour les pharmacies et les boulangeries.
-
-<sup>2</sup> Les autres établissements et installations accessibles au public sont fermés, en particulier les casinos, les établissements et installations de divertissement et de loisirs, les patinoires artificielles, les musées, les théâtres et les cinémas, sous réserve de l'article 13 al. 2, les fitness et les installations sportives en intérieur sous réserve des activités sportives autorisées selon l'article 12, les piscines, les bains thermaux et wellness, sauf pour la clientèle des hôtels donnant accès à dites installations.
-
-<sup>3</sup> …
-
-<sup>4</sup> L'exercice de la prostitution et d'activités assimilées est autorisé, dans les limites des heures d'ouverture autorisées selon l'article 5a<sup>bis</sup> de l'ordonnance fédérale COVID-19 situation particulière.
+<sup>1</sup> L'exercice de la prostitution et d'activités assimilées est autorisé, dans les limites des heures d'ouverture autorisées selon l'article 5f de l'ordonnance fédérale COVID-19 situation particulière.
 
 #### Art. 4
 
@@ -224,7 +192,7 @@ Arrête:
 
 **Mesures relatives aux activités sportives et de danse**
 
-<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer la danse et tous les types d'activités sportives, sans aucune restriction et sans port du masque facial. L'activité doit toutefois se dérouler par groupes d'au maximum 10 personnes, incluant le personnel encadrant.
+<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer la danse et tous les types d'activités sportives, sans aucune restriction et sans port du masque facial.
 
 <sup>2</sup> Pour les personnes de plus de 16 ans, les activités sportives et de danse impliquant un contact physique (p. ex. football, hockey, basketball, sports de combat, danse sportive) sont interdites. Pour ces disciplines, les entraînements individuels sans contact physique sont autorisés et les exercices techniques en groupe sans contact physique sont autorisés en extérieur seulement.
 
@@ -250,7 +218,7 @@ Arrête:
 
 **Mesures relatives aux activités dans le domaine de la culture (musique, chant et théâtre)**
 
-<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer toutes les activités culturelles, sauf le chant, sans aucune restriction et sans port du masque facial. L'activité doit toutefois se dérouler par groupes d'au maximum 10 personnes, y compris le personnel encadrant.
+<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer toutes les activités culturelles, sauf le chant, sans aucune restriction et sans port du masque facial.
 
 <sup>2</sup> Dans le domaine de la culture, les activités suivantes, y compris l'utilisation des installations et établissements nécessaires à cette fin, sont autorisées:
 
@@ -279,7 +247,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Les présentes mesures portent effet jusqu'au 22 janvier 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+<sup>1</sup> Les présentes mesures portent effet jusqu'au 28 février 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
 

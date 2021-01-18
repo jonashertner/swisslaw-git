@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-01-09
-valid_until: 2021-01-18
-version_adopted: 2021-01-06
+version: 2021-01-19
+valid_until: 2021-02-21
+version_adopted: 2021-01-19
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6718/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6725/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6718/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 09.01.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 19.01.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -63,27 +63,17 @@ beschliesst:
 
 **Versammlungen und Veranstaltungen**
 
-<sup>1</sup> Private und öffentliche Versammlungen von mehr als 10 Personen (einschliesslich Kinder) im privaten und öffentlichen Raum, namentlich auf Plätzen, Spielplätzen, Promenaden, Trottoirs und Wegen sowie in Parks, sind verboten, einschliesslich solcher mit kommerziellem Zweck.
+<sup>1</sup> …
 
-<sup>1a</sup> Öffentliche Veranstaltungen sind verboten.
+<sup>1a</sup> …
 
-<sup>2</sup> Von diesem Verbot ausgenommen sind folgende Veranstaltungen:
+<sup>2</sup> …
 
-- a) zivile Hochzeitszeremonien unter Ausschluss der Öffentlichkeit sowie religiöse Hochzeits- und Taufzeremonien mit bis zu 10 Teilnehmenden, zusätzlich zu den Amtsträgerinnen und Amtsträgern;
-- b) öffentliche Gottesdienste mit bis zu 50 Personen und unter Einhaltung einer Fläche von 4 m² pro Person, zusätzlich zu den Personen, die den Gottesdienst leiten;
-- c) Beerdigungen im engen Familien- und Freundeskreis;
-- d) statutarische Versammlungen von öffentlich-rechtlichen Körperschaften, die nicht verschoben oder virtuell abgehalten werden können, mit Bewilligung der Oberamtsperson;
-- e) die Sitzungen des Grossen Rates und seiner Kommissionen sowie die Sitzungen der Gemeinde- und Generalräte, der Gemeindeversammlungen und ihrer Kommissionen, der Pfarrei- und Synodalräte, der Pfarrei- und Synodalversammlungen und ihrer Kommissionen;
-- f) offizielle Sitzungen und Versammlungen mit bis zu 30 Teilnehmenden, die nicht verschoben, als Videokonferenz durchgeführt oder auf dem Zirkularweg organisiert werden können, wie solche von politischen Parteien, Vereinigungen, Stiftungen und Gruppierungen im Hinblick auf die Fassung einer Abstimmungsparole oder die Präsentation einer Kandidatenliste für Wahlen;
-- g) privatrechtliche Versammlungen und Ausschüsse mit bis zu 30 Teilnehmenden, die nicht verschoben, als Videokonferenz durchgeführt oder auf dem Zirkularweg organisiert werden können;
-- h) Versammlungen von Gewerkschaften und Arbeitgeberorganisationen und Personalversammlungen mit bis zu 30 Teilnehmenden, die nicht verschoben, als Videokonferenz durchgeführt oder auf dem Zirkularweg organisiert werden können;
-- i) die Gratisverteilungen von Bedarfsgütern an die Bevölkerung im Rahmen von Hilfsaktionen;
-- j) politische Veranstaltungen mit bis zu 30 Teilnehmenden, mit Bewilligung der Oberamtsperson;
-- k) Unterschriftensammlungen von bis zu 10 Personen.
+<sup>3</sup> Die gemäss Artikel 6 der COVID-19-Verordnung besondere Lage des Bundes erlaubten Veranstaltungen müssen über ein von der Oberamtsperson genehmigtes Schutzkonzept verfügen, das namentlich das ständige Tragen einer Gesichtsmaske, die durchgehende Einhaltung des Abstands zwischen den Teilnehmenden und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator stellt die Ausarbeitung und Umsetzung des Schutzkonzepts sicher und kann vorsehen, die Kontaktdaten der Teilnehmenden elektronisch zu erfassen, sie 14 Tage aufzubewahren und sie dann zu vernichten.
 
-<sup>3</sup> Die Veranstaltungen nach Absatz 2 müssen über ein von der Oberamtsperson genehmigtes Schutzkonzept verfügen, das namentlich das ständige Tragen einer Gesichtsmaske, die durchgehende Einhaltung des Abstands zwischen den Teilnehmenden und die obligatorische Händedesinfektion vorsieht. Die Organisatorin oder der Organisator stellt die Ausarbeitung und Umsetzung des Schutzkonzepts sicher, erfasst die Kontaktdaten der Teilnehmenden elektronisch, bewahrt sie 14 Tage auf und vernichtet sie dann.
+<sup>3a</sup> An Veranstaltungen zur politischen Meinungsbildung nach Artikel 6 Abs. 1 Bst. b der COVID-19-Verordnung besondere Lage des Bundes, die im Freien stattfinden, einschliesslich Informationsstände, dürfen höchstens 20 Personen teilnehmen.
 
-<sup>4</sup> In Ausnahmefällen kann die Oberamtsperson in Absprache mit dem Kantonsarztamt und der Kantonspolizei eine Abweichung bewilligen, namentlich wenn es absolut unmöglich ist, eine Veranstaltung zu verschieben oder sie nicht im Präsenzmodus abzuhalten und unter der Bedingung, dass die Veranstaltung einem überwiegenden Interesse entspricht.
+<sup>4</sup> In Ausnahmefällen kann die Oberamtsperson in Absprache mit dem Kantonsarztamt eine Abweichung von dem im Bundesrecht vorgesehenen Veranstaltungsverbot bewilligen, namentlich wenn es absolut unmöglich ist, eine Veranstaltung zu verschieben oder sie nicht im Präsenzmodus abzuhalten und unter der Bedingung, dass die Veranstaltung einem überwiegenden Interesse entspricht.
 
 <sup>5</sup> Der Vorstand eines Gemeindeverbands kann, mit einem Entscheid, der spätestens vier Tage vor der Delegiertenversammlung schriftlich oder elektronisch mitgeteilt wird, ungeachtet der voraussichtlichen Teilnehmerzahl und ohne Einhaltung der Einladungsfrist, unter der Bedingung, dass sich ein Geschäft dafür eignet, anordnen, dass die Delegierten, ihre Rechte ausschliesslich wie folgt ausüben:
 
@@ -116,35 +106,13 @@ beschliesst:
 
 #### Art. 3b
 
-**Andere öffentlich zugängliche Einrichtungen und Betriebe**
+**…**
 
-<sup>1</sup> Unter Einhaltung eines Schutzkonzepts öffnen dürfen:
+#### Art. 3c
 
-- a) Geschäfte, unter Einhaltung der Flächen und Abstände gemäss COVID-19-Verordnung besondere Lage des Bundes;
-- b) Anbieter von persönlichen Dienstleistungen wie Coiffeursalons, Barbier-, Kosmetik- oder Tattoo-Studios;
-- c) öffentlich zugängliche Selbstbedienungseinrichtungen, namentlich Tankstellen, selbstbediente Anlagen und weitgehend automatisierte Anlagen;
-- d) Aussensportanlagen, unter Vorbehalt von Artikel 3b Abs. 2;
-- e) Skigebiete, unter Vorbehalt der Regeln der COVID-19-Verordnung besondere Lage des Bundes;
-- f) Institutionen des Gesundheitswesens und Räumlichkeiten, in denen Gesundheitsfachpersonen nach eidgenössischem oder kantonalem Recht praktizieren, wie namentlich Arzt- und Zahnarztpraxen, Tierarztpraxen, medizinische Laboratorien, Praxen von Chiropraktorinnen und Chiropraktoren, Physiotherapeutinnen und Physiotherapeuten, Osteopathinnen und Osteopathen, Podologinnen und Podologen, Ergotherapeutinnen und Ergotherapeuten, Ernährungsberaterinnen und Ernährungsberatern, Logopädinnen und Logopäden, Psychologinnen und Psychologen sowie von Hebammen und Entbindungspflegern;
-- g) Bibliotheken und Ludotheken, nur Ausleihe; der Zugang zu den Lesesälen der Bibliotheken ist nur Studierenden sowie Forschenden der Einrichtung, in der die Bibliothek untergebracht ist, gestattet;
-- h) Hotels und Einrichtungen der Parahotellerie mit Ausnahme von Gruppenunterkünften;
-- i) Take-Away- und Lieferdienste;
-- j) …
-- k) …
-- l) …
-- m) …
-- k1) …
-- n) …
-- o) …
-- p) …
+**Prostitution**
 
-<sup>1a</sup> Einrichtungen und Betriebe, die gemäss Absatz 1 dieses Artikels öffnen dürfen, bleiben gemäss Artikel 5a<sup>bis</sup> der COVID-19-Verordnung besondere Lage des Bundes zwischen 19.00 und 06.00 Uhr und am Sonntag geschlossen; ausgenommen sind Apotheken und Bäckereien.
-
-<sup>2</sup> Die übrigen öffentlich zugänglichen Einrichtungen und Betriebe sind geschlossen, namentlich Casinos, Vergnügungs- und Freizeiteinrichtungen und ‑betriebe, künstliche Eisbahnen, Museen, Theater und Kinos unter Vorbehalt von Artikel 13 Abs. 2, Fitness-Studios und Innensportanlagen unter Vorbehalt der nach Artikel 12 erlaubten sportlichen Aktivitäten, Hallenbäder, Thermalbäder und Wellnesseinrichtungen, ausser für die Gäste von Hotels mit Zugang zu diesen Einrichtungen.
-
-<sup>3</sup> …
-
-<sup>4</sup> Die Ausübung von Prostitution und ähnlichen Tätigkeiten ist im Rahmen der Öffnungszeiten nach Artikel 5a<sup>bis</sup> der COVID-19-Verordnung besondere Lage des Bundes erlaubt.
+<sup>1</sup> Die Ausübung von Prostitution und ähnlichen Tätigkeiten ist im Rahmen der Öffnungszeiten nach Artikel 5f der COVID-19-Verordnung besondere Lage des Bundes erlaubt.
 
 #### Art. 4
 
@@ -224,7 +192,7 @@ beschliesst:
 
 **Massnahmen in den Bereichen sportliche Aktivitäten und Tanz**
 
-<sup>1</sup> Personen unter 16 Jahren dürfen ohne Einschränkung und ohne Gesichtsmaske tanzen und alle übrigen Sportarten ausüben. Die Aktivität darf jedoch nur in Gruppen von höchstens 10 Personen, einschliesslich Betreuungspersonen, stattfinden.
+<sup>1</sup> Personen unter 16 Jahren dürfen ohne Einschränkung und ohne Gesichtsmaske tanzen und alle übrigen Sportarten ausüben.
 
 <sup>2</sup> Für Personen ab 16 Jahren sind Tanzen und Sportarten mit Körperkontakt (z. B. Fussball, Hockey, Basketball, Kampfsport, Tanzsport) verboten. Bei diesen Sportarten sind individuelle Trainings ohne Körperkontakt erlaubt und Technikübungen in Gruppen ohne Körperkontakt sind nur im Freien gestattet.
 
@@ -250,7 +218,7 @@ beschliesst:
 
 **Massnahmen bei Aktivitäten im Kulturbereich (Musik, Gesang und Theater)**
 
-<sup>1</sup> Personen unter 16 Jahren können alle kulturellen Aktivitäten ausser Singen ohne Einschränkung und ohne Gesichtsmaske ausüben. Die Aktivität darf jedoch nur in Gruppen von höchstens 10 Personen, einschliesslich Betreuungspersonen, stattfinden.
+<sup>1</sup> Personen unter 16 Jahren dürfen alle kulturellen Aktivitäten ausser Singen ohne Einschränkung und ohne Gesichtsmaske ausüben.
 
 <sup>2</sup> Im Kulturbereich sind folgende Aktivitäten zulässig, einschliesslich der Nutzung der hierfür notwendigen Einrichtungen und Betriebe:
 
@@ -279,7 +247,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Massnahmen gelten bis 22. Januar 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
+<sup>1</sup> Diese Massnahmen gelten bis 28. Februar 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
 
