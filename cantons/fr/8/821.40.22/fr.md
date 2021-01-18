@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.22"
 title: "Ordonnance déclarant la situation extraordinaire à l'échelon cantonal"
 language: fr
-version: 2020-12-01
-valid_until: 2021-01-18
-version_adopted: 2020-11-24
+version: 2021-01-19
+valid_until: 2021-02-28
+version_adopted: 2021-01-19
 adopted: 2020-10-28
 in_force: 2020-10-30
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.22"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6651/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6724/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6651/pdf_file"
 
 COVID-19, situation extraordinaire à l'échelon cantonal – O
 
-du 28.10.2020 (version entrée en vigueur le 01.12.2020)
+du 28.10.2020 (version entrée en vigueur le 19.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -77,7 +77,7 @@ Arrête:
 
 #### Art. 5
 
-<sup>1</sup> Sous réserve de l'article 117 Cst., la présente ordonnance reste en vigueur jusqu'au 19 janvier 2021, à minuit.
+<sup>1</sup> Sous réserve de l'article 117 Cst., la présente ordonnance reste en vigueur jusqu'au 28 février 2021, à minuit.
 
 <sup>2</sup> Si la situation sanitaire l'exige, sa durée de validité peut être prolongée.
 
