@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2020-06-22
+version: 2021-01-19
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20200622/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20200622-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20200622/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210119/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210119-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20200622/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 22. Juni 2020)
+vom 27. November 2009 (Stand am 19. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -589,7 +589,7 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - o.[^35-2] Apotheker und Apothekerinnen sowie Mitarbeitende von Testzentren nach Artikel 26 Absatz 2 Buchstabe b der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] für die Durchführung von Analysen auf Sars-CoV-2 nach Artikel 26 Absatz 1 der Covid-19-Verordnung 3, unabhängig von der Kostenübernahme durch den Bund.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft vom 22. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft vom 22. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Die Berichtigung vom 19. Jan. 2021 betrifft nur den italienischen Text ([AS 2021 11](https://fedlex.data.admin.ch/eli/oc/2021/11)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 36

@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2020-06-22
+version: 2021-01-19
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20200622/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20200622-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20200622/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210119/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210119-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20200622/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 22 juin 2020)
+du 27 novembre 2009 (Etat le 19 janvier 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -607,7 +607,7 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur du 22 juin 2020 au 31 déc. 2021 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur du 22 juin 2020 au 31 déc. 2021 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Erratum du 19 janv. 2021, ne concerne que le texte italien ([RO 2021 11](https://fedlex.data.admin.ch/eli/oc/2021/11)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 36
