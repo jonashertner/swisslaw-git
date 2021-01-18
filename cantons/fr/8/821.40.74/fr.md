@@ -4,13 +4,13 @@ number: "821.40.74"
 title: Ordonnance relative aux mesures de préservation de la capacité sanitaire dans le cadre de la lutte contre le coronavirus
 short: OMPCS
 language: fr
-version: 2020-12-22
-valid_until: 2021-01-18
-version_adopted: 2020-12-22
+version: 2021-01-19
+valid_until: 2021-02-28
+version_adopted: 2021-01-19
 adopted: 2021-12-14
 in_force: 2021-12-14
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.74"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6711/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6726/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, préservation de la capacité sanitaire – O
 
 (OMPCS)
 
-du 28.10.2020 (version entrée en vigueur le 22.12.2020)
+du 28.10.2020 (version entrée en vigueur le 19.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -85,7 +85,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Sous réserve de l'article 117 de la Constitution du canton de Fribourg du 16 mai 2004, la présente ordonnance reste en vigueur jusqu'au 19 janvier 2021, à minuit.
+<sup>1</sup> Sous réserve de l'article 117 de la Constitution du canton de Fribourg du 16 mai 2004, la présente ordonnance reste en vigueur jusqu'au 28 février 2021, à minuit.
 
 <sup>2</sup> Si la situation sanitaire l'exige, sa durée de validité peut être prolongée.
 
