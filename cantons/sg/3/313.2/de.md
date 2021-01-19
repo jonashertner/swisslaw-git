@@ -4,12 +4,12 @@ number: "313.2"
 title: Vollzugsverordnung zur eidgenössischen Verordnung über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie
 language: de
 version: 2021-01-18
-valid_until: 2021-03-31
+corrected: 2021-01-20
 version_adopted: 2021-01-19
 adopted: 2021-06-29
 in_force: 2021-06-30
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/313.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3096/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3095/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -158,7 +158,11 @@ als Verordnung:[^ingress-2]
 
 #### Art. 12
 
-**…**
+**Menschenansammlungen im öffentlichen Raum**
+
+<sup>1</sup> Menschenansammlungen von mehr als zehn Personen im öffentlichen Raum, namentlich auf öffentlichen Plätzen, auf Spazierwegen und in Parkanlagen, sind verboten.
+
+<sup>2</sup> Darbietungen im öffentlichen Raum, die zu Menschenansammlungen führen können, sind verboten.
 
 #### Art. 13
 
