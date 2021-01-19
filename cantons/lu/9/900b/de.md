@@ -4,20 +4,20 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2020-12-24
-valid_until: 2021-01-19
-version_adopted: 2020-12-23
+version: 2021-01-20
+valid_until: 2021-03-12
+version_adopted: 2021-01-19
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3696/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3710/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 
-vom 09.12.2020 (Stand 24.12.2020)
+vom 09.12.2020 (Stand 20.01.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -51,9 +51,11 @@ beschliesst:
 
 **Form und Umfang der Unterstützungen**
 
-<sup>1</sup> Der Kanton unterstützt Unternehmen im Kanton Luzern im Rahmen der vom Kantonsrat oder von den Stimmberechtigten bewilligten Kredite mit Härtefallmassnahmen in der Form von Garantien und nicht rückzahlbaren Beiträgen.
+<sup>1</sup> Der Kanton unterstützt Unternehmen im Kanton Luzern im Rahmen der vom Kantonsrat oder vom Regierungsrat bewilligten Mittel mit Härtefallmassnahmen in der Form von Garantien und nicht rückzahlbaren Beiträgen.
 
 <sup>2</sup> In Abweichung von Artikel 8 Absätze 1 und 3 der Covid-19-Härtefallverordnung beläuft sich die Unterstützung des Kantons Luzern pro Unternehmen auf höchstens 2 Millionen Franken. Im Übrigen richten sich die Höchstgrenzen für die Unterstützung eines Unternehmens nach Artikel 8 der Covid-19-Härtefallverordnung.
+
+<sup>2<sup>bis</sup></sup> Das Finanzdepartement kann für einzelne Branchen, innerhalb der Höchstgrenzen von Absatz 2, zur Höhe der nicht rückzahlbaren Beiträge weitere Einzelheiten festlegen.
 
 <sup>3</sup> Härtefallmassnahmen, die mit dem Sonderkredit vom 30. November 2020 finanziert werden, sind auf den festgestellten Unterstützungsbedarf der Unternehmen für maximal vier Monate auszurichten.
 
@@ -71,7 +73,7 @@ beschliesst:
 
 **Umsatzrückgang**
 
-<sup>1</sup> Bei der Berechnung des Jahresumsatzes 2020 des Unternehmens werden Kurzarbeitsentschädigungen, Entschädigungen des Erwerbsausfalls, Mietzinserlasse oder -reduktionen, Erträge aus der Luzerner Härtefallhilfe, Covid-19-Versicherungsleistungen und weitere Erträge aus Entschädigungen hinzugerechnet.
+<sup>1</sup> Bei der Berechnung des massgebenden Umsatzes des Unternehmens werden Kurzarbeitsentschädigungen, Entschädigungen des Erwerbsausfalls, Mietzinserlasse oder -reduktionen, Erträge aus der Luzerner Härtefallhilfe, Covid-19-Versicherungsleistungen und weitere Erträge aus Entschädigungen hinzugerechnet.
 
 ## 3 Verfahren
 
@@ -84,6 +86,8 @@ beschliesst:
 <sup>2</sup> Im Gesuchsformular weist das Unternehmen die relevanten Umsatzzahlen und den Finanzbedarf aus und macht Angaben zur Unternehmenspositionierung.
 
 <sup>3</sup> Mit dem Gesuch sind eine Kopie der Identitätskarte oder des Passes, der letzte Kontoabschluss der Auszahlungskonti, ein aktueller Betreibungsregisterauszug, ein aktueller Handelsregisterauszug, die neuste Steuererklärung, die im Gesuchsformular verlangten Jahresabschlüsse und ein Finanzplan oder vergleichbare Dokumente einzureichen.
+
+<sup>3<sup>bis</sup></sup> Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, weisen in Abweichung von Absatz 2 lediglich die relevanten Umsatzzahlen nach. In Abweichung von Absatz 3 sind mit dem Gesuch eine Kopie der Identitätskarte oder des Passes, ein aktueller Betreibungsregisterauszug, ein aktueller Handelsregisterauszug, die im Gesuchsformular verlangten Jahresabschlüsse und die Mehrwertsteuerabrechnungen der Jahre 2018 und 2019 einzureichen.
 
 <sup>4</sup> Ein Unternehmen kann so viele Härtefallgesuche einreichen, bis die Höchstgrenze gemäss § 3 Absatz 2 erreicht ist.
 
@@ -104,20 +108,25 @@ beschliesst:
 - c. laufendes Konkurs- oder Liquidationsverfahren,
 - d. …
 - e. durchschnittlicher Jahresumsatz 2018 und 2019 unter dem durch das Bundesrecht festgesetzten Betrag,
-- f. laufendes Betreibungsverfahren für Sozialversicherungsbeiträge,
-- g. Umsatzreduktion von weniger als 40 Prozent gemäss Selbstdeklaration.
+- f. laufendes Betreibungsverfahren für Sozialversicherungsbeiträge, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
+- g. Umsatzreduktion von weniger als 40 Prozent gemäss Selbstdeklaration,
+- h. ausstehende Staatssteuern der Steuerjahre 2018 oder früher oder laufendes Betreibungsverfahren für Staatssteuern der Steuerjahre 2019 und 2020, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
 
 <sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ausgeschlossene Unternehmen werden durch das Finanzdepartement informiert.
 
+<sup>5</sup> Für Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, gilt das Ausschlusskriterium gemäss Absatz 3g nicht.
+
 #### § 8
 
-**Fachliche und detaillierte Prüfung**
+**Fachliche und detaillierte Prüfung; Plausibilitätsprüfung**
 
 <sup>1</sup> Die Luzerner Kantonalbank übermittelt die vollständigen Gesuchsunterlagen einem externen Wirtschaftsprüfungsunternehmen zur fachlichen und zur detaillierten Prüfung.
 
 <sup>2</sup> Bei der fachlichen Prüfung werden die eingereichten Unterlagen insbesondere hinsichtlich der Bundesvorgaben plausibilisiert, die Ausschöpfung der Selbsthilfemassnahmen, die Kostenstruktur und die Verschuldungskapazität geprüft sowie der Unterstützungsbedarf ermittelt.
 
 <sup>3</sup> Aus der detaillierten Prüfung resultiert eine qualitative und datenbasierte Einschätzung insbesondere bezüglich Liquiditätsbedarf, Verschuldungsfaktor, Kredithöhe und Ausfallrisiko.
+
+<sup>3<sup>bis</sup></sup> Die Gesuche von Unternehmen, die auf Anordnung des Bundes oder des Kantons ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, werden einer Plausibilitätsprüfung unterzogen.
 
 <sup>4</sup> Das externe Wirtschaftsprüfungsunternehmen übermittelt die geprüften Härtefallgesuche der Expertengruppe mit einem Antrag zum Entscheid.
 
@@ -135,7 +144,7 @@ beschliesst:
 
 <sup>5</sup> Die Entscheide der Expertengruppe werden durch das Finanzdepartement eröffnet.
 
-<sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 4. Februar 2021 und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt.
+<sup>6</sup> Die Garantien und nicht rückzahlbaren Beiträge werden zwischen dem 25. Januar 2021 (behördlich geschlossene Unternehmen) beziehungsweise dem 4. Februar 2021 (übrige Unternehmen) und dem 31. Dezember 2021 definitiv zugesichert oder ausbezahlt.
 
 #### § 10
 
@@ -173,7 +182,7 @@ beschliesst:
 
 **Missbrauchsbekämpfung**
 
-<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung verstösst, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
+<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung verstösst oder im Gesuch falsche Angaben gemacht hat, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
 
 <sup>2</sup> Zur Überprüfung der im Gesuch gemachten Angaben können das externe Wirtschaftsprüfungsunternehmen, die Luzerner Kantonalbank und die zuständigen kantonalen Stellen bei den Unternehmen Stichprobenkontrollen durchführen. Dieses Recht ist in die entsprechenden Verträge aufzunehmen.
 
