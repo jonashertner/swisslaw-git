@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-01-18
+version: 2021-01-20
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210120/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210120-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 18. Januar 2021)
+vom 19. Juni 2020 (Stand am 20. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -764,7 +764,7 @@ Anhang 2*[^t-2]*
 
 ## Lebensmittel und andere Güter des kurzfristigen und täglichen Bedarfs
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Die Berichtigung vom 20. Jan. 2021 betrifft nur den französischen Text ([AS 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)).
 
 ### 1. Lebensmittel
 

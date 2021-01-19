@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-01-18
+version: 2021-01-20
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210120/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210120-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210120/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 18 janvier 2021)
+du 19 juin 2020 (Etat le 20 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -550,7 +550,7 @@ Dans les espaces clos, y compris les véhicules, où se tiennent plus d’une pe
 
 <sup>2</sup> L’employeur prend d’autres mesures en vertu du principe STOP (substitution, technique, organisation, personnel), notamment la mise en place de séparations physiques, la séparation des équipes ou le port d’un masque facial dans les espaces extérieurs.[^10-5]
 
-<sup>3</sup> Lorsque la nature de l’activité le rend possible et réalisable sans efforts disproportionnés à un coût raisonnable, l’employeur veille à ce que les employés remplissent leurs obligations professionnelles depuis leur domicile. Il prend les mesures organisationnelles et techniques appropriées à cette fin. Les employés n’ont droit à aucun remboursement de frais pour remplir leurs obligations professionnelles depuis leur domicile en vertu de la présente disposition.[^10-6]
+<sup>3</sup> Lorsque la nature de l’activité le rend possible et réalisable sans efforts disproportionnésà un coût raisonnable, l’employeur veille à ce que les employés remplissent leurs obligations professionnelles depuis leur domicile. Il prend les mesures organisationnelles et techniques appropriées à cette fin. Les employés n’ont droit à aucun remboursement de frais pour remplir leurs obligations professionnelles depuis leur domicile en vertu de la présente disposition.[^10-6]
 
 <sup>4</sup> L’art. 27*a* de l’ordonnance 3 COVID-19 du 19 juin 2020[^10-7] s’applique en sus à la protection des employés vulnérables.[^10-8]
 
@@ -762,7 +762,7 @@ Annexe 2*[^t-2]*
 
 ## Denrées alimentaires et autres biens de première nécessité et de consommation courante
 
-[^t-2]: Introduite par le ch. II de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Introduite par le ch. II de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Erratum du 20 janv. 2021 ([RO 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)).
 
 ### 1. Denrées alimentaires
 
@@ -777,7 +777,7 @@ Annexe 2*[^t-2]*
 - 2\.4 les journaux et revues;
 - 2\.5 les produits de papeterie;
 - 2\.6 les plantes d’intérieur et les fleurs coupées;
-- 2\.7 le matériel photographique;
+- 2\.7 les consommables pour la photographie;
 - 2\.8 les pièces de rechange et accessoires électrotechniques (piles, batteries, etc.);
 - 2\.9 les articles de bonneterie, les sous-vêtements et les vêtements pour bébés, dans la mesure où ils peuvent être considérés comme des biens de consommation courante de par leur nature et leur prix;
 - 2\.10 les articles de bricolage et de jardinage (outils, matériaux de construction, semences, terre, etc.);

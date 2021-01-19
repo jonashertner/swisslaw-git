@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-01-18
+version: 2021-01-20
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210118/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210118-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210120/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210120-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210118/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 18 gennaio 2021)
+del 19 giugno 2020 (Stato 20 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -761,7 +761,7 @@ Allegato 2*[^t-2]*
 
 ## Generi alimentari e altri beni di prima necessità e di uso corrente
 
-[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). La correzione del 20 gen. 2021 concerne soltanto il testo francese ([RU 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)).
 
 ### 1. Generi alimentari
 
