@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2021-01-18
+version: 2021-01-20
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210118/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210118-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210120/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210120-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210118/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 18 gennaio 2021) (Stato 18 gennaio 2021)
+del 20 marzo 2020 (Stato 20 gennaio 2021) (Stato 20 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -95,15 +95,15 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 - b. subiscono una perdita di guadagno o salariale; e
 - c. nel 2019 hanno conseguito con questa attività un reddito soggetto all’AVS di almeno 10 000 franchi; questa condizione vale per analogia anche se hanno avviato l’attività dopo il 2019; se l'attività non è stata svolta per un anno intero, questa condizione va adempiuta in proporzione alla durata dell'attività.[^2-13]
 
-<sup>3ter</sup> L’attività lucrativa è ritenuta limitata in modo considerevole, se si è registrata una diminuzione della cifra d’affari mensile pari almeno al 40 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019.[^2-14] Se l’attività è stata avviata dopo il 2015 e prima del 2020, è determinante la media del periodo di attività effettivo. Le persone che hanno avviato la loro attività lucrativa dopo il 2019 devono dimostrare di aver subito una diminuzione della cifra d’affari mensile pari almeno al 55 per cento rispetto alla cifra d’affari mensile media di almeno tre mesi; fa stato la media dei tre mesi con le cifre d’affari più elevate.[^2-15]
+<sup>3ter</sup> L’attività lucrativa è ritenuta limitata in modo considerevole, se si è registrata una diminuzione della cifra d’affari mensile pari almeno al 40 per cento rispetto alla cifra d’affari mensile media degli anni 2015–2019.[^2-14] Se l’attività è stata avviata dopo il 2015 e prima del 2020, è determinante la media del periodo di attività effettivo. Le persone che hanno avviato la loro attività lucrativa dopo il 2019 devono dimostrare di aver subito una diminuzione della cifra d’affari mensile pari almeno al 40 per cento rispetto alla cifra d’affari mensile media di almeno tre mesi; fa stato la media dei tre mesi con le cifre d’affari più elevate.[^2-15] [^2-16]
 
-3<sup>quater</sup> I lavoratori particolarmente a rischio ai sensi dell’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^2-16] hanno diritto all’indennità se non possono essere occupati conformemente all’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 o se, in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19, rifiutano il lavoro assegnato loro. La condizione di lavoratore particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-17]
+3<sup>quater</sup> I lavoratori particolarmente a rischio ai sensi dell’articolo 27*a* dell’ordinanza 3 COVID-19 del 19 giugno 2020[^2-17] hanno diritto all’indennità se non possono essere occupati conformemente all’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 o se, in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19, rifiutano il lavoro assegnato loro. La condizione di lavoratore particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-18]
 
-3<sup>quinquies</sup> I lavoratori indipendenti ai sensi dell’articolo 12 LPGA particolarmente a rischio hanno diritto all’indennità se non possono svolgere il loro lavoro da casa. Per la definizione delle persone particolarmente a rischio è applicabile per analogia l’articolo 27*a* capoversi 10 e 11 dell’ordinanza 3 COVID-19. La condizione di persona particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-18]
+3<sup>quinquies</sup> I lavoratori indipendenti ai sensi dell’articolo 12 LPGA particolarmente a rischio hanno diritto all’indennità se non possono svolgere il loro lavoro da casa. Per la definizione delle persone particolarmente a rischio è applicabile per analogia l’articolo 27*a* capoversi 10 e 11 dell’ordinanza 3 COVID-19. La condizione di persona particolarmente a rischio deve essere comprovata mediante un certificato medico.[^2-19]
 
-<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-19] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-20]
+<sup>4</sup> L’indennità è sussidiaria rispetto a tutte le prestazioni di assicurazioni sociali e assicurazioni secondo la legge del 2 aprile 1908[^2-20] sul contratto d’assicurazione. Questo non vale per le prestazioni secondo l’articolo 12 della legge COVID-19 del 25 settembre 2020.[^2-21]
 
-<sup>5</sup> ...[^2-21]
+<sup>5</sup> ...[^2-22]
 
 <sup>6</sup> Entrambi i genitori possono avere diritto all’indennità a causa della cessazione della custodia dei figli da parte di terzi. Il diritto può tuttavia essere fatto valere soltanto per un’indennità giornaliera per giorno di lavoro.
 
@@ -125,13 +125,14 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^2-12]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5829](https://fedlex.data.admin.ch/eli/oc/2020/981)).
-[^2-15]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-16]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-17]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-15]: Correzione del per. del 20 gen. 2021 ([RU 2021 18](https://fedlex.data.admin.ch/eli/oc/2021/18)).
+[^2-16]: Introdotto dal n. I dell’O del 1° lug. 2020 ([RU 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-17]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^2-18]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
-[^2-19]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-20]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-21]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-19]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-20]: [RS 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-21]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-22]: Abrogato dal n. I dell’O dell’11 set. 2020, con effetto dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 3
 

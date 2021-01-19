@@ -3,11 +3,11 @@ sr: "830.31"
 title: Verordnung vom 20. März 2020 über Massnahmen bei Erwerbsausfall im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Erwerbsausfall)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: de
-version: 2021-01-18
+version: 2021-01-20
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210118/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210118-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210120/de/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210120-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210118/de"
 
 (Covid-19-Verordnung Erwerbsausfall)**[^t-1]**
 
-vom 20. März 2020 (Stand am 18. Januar 2021)
+vom 20. März 2020 (Stand am 20. Januar 2021)
 
 [^t-1]: Ausdruck gemäss Ziff. I 7 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -97,15 +97,15 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 - b. sie einen Erwerbs- oder Lohnausfall erleiden; und
 - c. sie im Jahr 2019 für diese Tätigkeit ein AHV-pflichtiges Erwerbseinkommen von mindestens 10 000 Franken erzielt haben; diese Voraussetzung gilt sinngemäss, wenn die Tätigkeit nach dem Jahr 2019 aufgenommen wurde; wurde die Tätigkeit nicht während eines vollen Jahres ausgeübt, so gilt diese Voraussetzung proportional zu deren Dauer.[^2-13]
 
-<sup>3ter</sup> Die Erwerbstätigkeit gilt als massgeblich eingeschränkt, wenn pro Monat eine Umsatzeinbusse von mindestens 40 Prozent im Vergleich zum durchschnittlichen monatlichen Umsatz der Jahre 2015–2019 vorliegt.[^2-14] Wurde die Tätigkeit nach 2015 und vor 2020 aufgenommen, so ist der Durchschnitt der entsprechenden Erwerbsdauer massgebend. Personen, die ihre Erwerbstätigkeit nach dem Jahr 2019 aufgenommen haben, müssen nachweisen, dass pro Monat eine Umsatzeinbusse von mindestens 55 Prozent im Vergleich zum durchschnittlichen Umsatz von mindestens drei Monaten vorliegt; massgebend ist der Durchschnitt der drei Monate mit den höchsten Umsätzen.[^2-15]
+<sup>3ter</sup> Die Erwerbstätigkeit gilt als massgeblich eingeschränkt, wenn pro Monat eine Umsatzeinbusse von mindestens 40 Prozent im Vergleich zum durchschnittlichen monatlichen Umsatz der Jahre 2015–2019 vorliegt.[^2-14] Wurde die Tätigkeit nach 2015 und vor 2020 aufgenommen, so ist der Durchschnitt der entsprechenden Erwerbsdauer massgebend. Personen, die ihre Erwerbstätigkeit nach dem Jahr 2019 aufgenommen haben, müssen nachweisen, dass pro Monat eine Umsatzeinbusse von mindestens 40 Prozent im Vergleich zum durchschnittlichen Umsatz von mindestens drei Monaten vorliegt; massgebend ist der Durchschnitt der drei Monate mit den höchsten Umsätzen.[^2-15] [^2-16]
 
-<sup>3quater</sup> Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer im Sinne von Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^2-16] sind anspruchsberechtigt, wenn es nicht möglich ist, sie nach Artikel 27*a* Absätze 1–4 der Covid-19-Verordnung 3 zu beschäftigen, oder wenn diese die zugewiesene Arbeit im Sinne von Artikel 27*a* Absatz 6 der Covid-19-Verordnung 3 ablehnen. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-17]
+<sup>3quater</sup> Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer im Sinne von Artikel 27*a* der Covid-19-Verordnung 3 vom 19. Juni 2020[^2-17] sind anspruchsberechtigt, wenn es nicht möglich ist, sie nach Artikel 27*a* Absätze 1–4 der Covid-19-Verordnung 3 zu beschäftigen, oder wenn diese die zugewiesene Arbeit im Sinne von Artikel 27*a* Absatz 6 der Covid-19-Verordnung 3 ablehnen. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-18]
 
-<sup>3quinquies</sup> Selbstständigerwerbende im Sinne von Artikel 12 ATSG, die besonders gefährdet sind, sind anspruchsberechtigt, wenn sie ihre Arbeit nicht von zuhause aus verrichten können. Zur Definition von besonders gefährdeten Personen gilt Artikel 27*a* Absätze 10 und 11 der Covid-19-Verordnung 3 analog. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-18]
+<sup>3quinquies</sup> Selbstständigerwerbende im Sinne von Artikel 12 ATSG, die besonders gefährdet sind, sind anspruchsberechtigt, wenn sie ihre Arbeit nicht von zuhause aus verrichten können. Zur Definition von besonders gefährdeten Personen gilt Artikel 27*a* Absätze 10 und 11 der Covid-19-Verordnung 3 analog. Die besondere Gefährdung muss mittels ärztlichem Attest nachgewiesen werden.[^2-19]
 
-<sup>4</sup> Die Entschädigung ist subsidiär zu sämtlichen Leistungen von Sozialversicherungen und Versicherungen nach dem Versicherungsvertragsgesetz vom 2. April 1908[^2-19]. Dies gilt nicht für Leistungen nach Artikel 12 des Covid-19-Gesetzes vom 25. September 2020.[^2-20]
+<sup>4</sup> Die Entschädigung ist subsidiär zu sämtlichen Leistungen von Sozialversicherungen und Versicherungen nach dem Versicherungsvertragsgesetz vom 2. April 1908[^2-20]. Dies gilt nicht für Leistungen nach Artikel 12 des Covid-19-Gesetzes vom 25. September 2020.[^2-21]
 
-<sup>5</sup> ...[^2-21]
+<sup>5</sup> ...[^2-22]
 
 <sup>6</sup> Es können beide Elternteile aufgrund des Ausfalls der Fremdbetreuung anspruchsberechtigt sein. Pro Erwerbstag kann jedoch nur ein Taggeld beansprucht werden.
 
@@ -126,13 +126,14 @@ Selbstständigerwerbende im Sinne von Artikel 12 ATSG und Personen nach Artikel 
 [^2-12]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Eingefügt durch Ziff. I der V vom 16. April 2020 ([AS 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-14]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5829](https://fedlex.data.admin.ch/eli/oc/2020/981)).
-[^2-15]: Eingefügt durch Ziff. I der V vom 1. Juli 2020 ([AS 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-16]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^2-17]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-15]: Berichtigung des dritten Satzes vom 20. Jan. 2021 ([AS 2021 18](https://fedlex.data.admin.ch/eli/oc/2021/18)).
+[^2-16]: Eingefügt durch Ziff. I der V vom 1. Juli 2020 ([AS 2020 2729](https://fedlex.data.admin.ch/eli/oc/2020/493)). Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-17]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^2-18]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
-[^2-19]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
-[^2-20]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^2-21]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
+[^2-19]: Eingefügt durch Anhang der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^2-20]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^2-21]: Fassung gemäss Ziff. I der V vom 4. Nov. 2020, in Kraft seit 17. Sept. 2020 ([AS 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^2-22]: Aufgehoben durch Ziff. I der V vom 11. Sept. 2020, mit Wirkung seit 17. Sept. 2020 ([AS 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 
 #### Art. 3
 
