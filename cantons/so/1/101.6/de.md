@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-01-01
-valid_until: 2021-01-19
-version_adopted: 2020-12-24
+version: 2021-01-20
+valid_until: 2021-02-15
+version_adopted: 2021-01-19
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5021/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5056/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5021/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 01.01.2021)
+Vom 07.12.2020 (Stand 20.01.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -77,7 +77,9 @@ beschliesst:
 
 <sup>1</sup> Die Fachstelle Standortförderung gewährt in erster Linie nicht rückzahlbare Härtefallbeiträge.
 
-<sup>2</sup> Die Höhe des nicht rückzahlbaren Härtefallbeitrages beläuft sich pro Unternehmen auf höchstens 10 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019, jedoch auf höchstens 100'000 Franken.
+<sup>2</sup> Die Höhe des nicht rückzahlbaren Härtefallbeitrages beläuft sich pro Unternehmen auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019, jedoch auf höchstens 200'000 Franken.
+
+<sup>2<sup>bis</sup></sup> In Abweichung von Absatz 2 kann der nicht rückzahlbare Härtefallbeitrag auf maximal 400'000 Franken erhöht werden, wenn die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital einbringen oder Fremdkapitalgeber bzw. Fremdkapitalgeberinnen auf ihre Forderungen verzichten. Das zusätzliche Eigenkapital und der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Härtefallbeitrag entsprechen.
 
 <sup>3</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach § 8 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
 
@@ -85,7 +87,7 @@ beschliesst:
 
 **Solidarbürgschaft**
 
-<sup>1</sup> Erreicht ein Unternehmen den maximalen Härtefallbeitrag von 100'000 Franken, kann die Fachstelle Standortförderung unter Vorbehalt von Absatz 2 und § 6 zusätzlich zu einem Härtefallbeitrag eine Solidarbürgschaft durch eine Bürgschaftsorganisation zusichern, sofern der verbürgte Kredit mindestens 50'000 Franken beträgt.
+<sup>1</sup> Erreicht ein Unternehmen den maximalen Härtefallbeitrag von 200'000 Franken, kann die Fachstelle Standortförderung unter Vorbehalt von Absatz 2 und § 6 zusätzlich zu einem Härtefallbeitrag eine Solidarbürgschaft durch eine Bürgschaftsorganisation zusichern, sofern der verbürgte Kredit mindestens 100'000 Franken beträgt.
 
 <sup>2</sup> Die Höhe der vom Kanton mittels einer Bürgschaftsorganisation eingegangenen Bürgschaft beträgt pro Unternehmen höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 jedoch höchstens 500'000 Franken (inkl. Zinszahlungen und Spesen).
 
@@ -106,9 +108,11 @@ beschliesst:
 
 #### § 6
 
-**Kumulation von Härtefallbeiträgen**
+**Kumulation von Härtefallmassnahmen**
 
-<sup>1</sup> Pro Unternehmen darf die rückzahlbare und die nichtrückzahlbare Unterstützung gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 600'000 Franken betragen.
+<sup>1</sup> Pro Unternehmen darf die rückzahlbare und die nicht rückzahlbare Unterstützung gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 700'000 Franken betragen.
+
+<sup>1[[<sup>bis</sup>]]</sup> Bringen die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital ein oder verzichten Fremdkapitalgeber bzw. Fremdkapitalgeberinnen gemäss § 4 Absatz 2<sup>bis</sup> auf Forderungen, darf die rückzahlbare und die nicht rückzahlbare Unterstützung pro Unternehmen gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 900'000 Franken betragen.
 
 <sup>2</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach § 8 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
 
@@ -154,10 +158,10 @@ beschliesst:
 
 <sup>2</sup> Als profitabel oder überlebensfähig gilt ein Unternehmen, das:
 
-- a) zum Zeitpunkt der Einreichung des Gesuchs nicht überschuldet ist und zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet war;
+- a) …
 - b) sich zum Zeitpunkt der Einreichung des Gesuchs nicht in einem Konkursverfahren oder in Liquidation befindet;
-- c) sich am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befindet;
-- d) über einen Nachweis der Überlebensfähigkeit verfügt, der glaubhaft aufzeigt, dass die Finanzierung des Unternehmens mit der Härtefallmassnahme gesichert werden kann.
+- c) sich am 15. März 2020 nicht in einem Betreibungsverfahren für Sozialversicherungsbeiträge befunden hat, es sei denn, dass zum Zeitpunkt der Einreichung des Gesuchs eine vereinbarte Zahlungsplanung vorliegt oder das Verfahren durch Zahlung abgeschlossen ist.
+- d) …
 
 #### § 10
 
@@ -165,13 +169,21 @@ beschliesst:
 
 <sup>1</sup> Das Unternehmen belegt, dass sein Jahresumsatz 2020 in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 60 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt.
 
+<sup>1<sup>bis</sup></sup> Bei Umsatzrückgängen in den Monaten Januar 2021 bis Juni 2021 im Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie kann das Unternehmen für die Berechnung des Umsatzrückgangs anstelle des Jahresumsatzes 2020 den Umsatz der letzten 12 Monate verwenden.
+
 <sup>2</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach § 8 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
 
 #### § 10a
 
 **Ungedeckte Fixkosten**
 
-<sup>1</sup> Das Unternehmen bestätigt, dass aus dem Umsatzrückgang am Jahresende 2020 ein Anteil an ungedeckten Fixkosten resultiert, der seine Überlebensfähigkeit gefährdet.
+<sup>1</sup> Das Unternehmen bestätigt, dass aus dem Umsatzrückgang am Jahresende 2020 bzw. bei einer Berechnung nach § 10 Absatz 1<sup>bis</sup> am Ende der 12 Monate erhebliche ungedeckte Fixkosten resultieren.
+
+#### § 10b
+
+**Entfallende Anspruchsvoraussetzungen für behördlich geschlossene Unternehmen**
+
+<sup>1</sup> Für Unternehmen, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, entfallen die Anspruchsvoraussetzungen nach den §§ 9 Absatz 1 Buchstabe b, 10 Absätze 1 und 1<sup>bis</sup> und 10a.
 
 #### § 11
 
@@ -179,9 +191,9 @@ beschliesst:
 
 <sup>1</sup> Das Unternehmen bestätigt gegenüber dem Kanton, dass es:
 
-- a) keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet und keine Darlehen an seine Eigentümer und Eigentümerinnen vergibt:
-  - 1\. während fünf Jahren nach Erhalt eines Härtefallbeitrages oder bis zu dessen freiwilligen Rückzahlung an den Kanton;
-  - 2\. während der gesamten Laufzeit der Bürgschaft;
+- a) während drei Jahren oder bis zur Rückzahlung der erhaltenen Härtefallmassnahmen
+  - 1\. keine Dividenden oder Tantiemen beschliesst oder ausschüttet oder Kapitaleinlagen rückerstattet, und
+  - 2\. keine Darlehen an seine Eigentümer bzw. Eigentümerinnen vergibt;
 - b) die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur.
 
 #### § 12
@@ -209,7 +221,7 @@ beschliesst:
 
 **Frist zur Gesuchseinreichung**
 
-<sup>1</sup> Gesuche können bis spätestens 30. Juni 2021 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
+<sup>1</sup> Gesuche können bis spätestens 31. Juli 2021 eingereicht werden. Verspätet eingereichte Gesuche werden ohne weitere Begründung abgelehnt.
 
 #### § 15
 
@@ -221,17 +233,19 @@ beschliesst:
 
 **Einzureichende Unterlagen**
 
-<sup>1</sup> Unternehmen, welche Härtefallmassnahmen im Sinne dieser Verordnung beantragen, haben folgende Unterlagen einzureichen:
+<sup>1</sup> Unternehmen, welche Härtefallmassnahmen im Sinne dieser Verordnung beantragen, haben unter Vorbehalt von § 10b folgende Unterlagen einzureichen:
 
 - a) vollständig ausgefülltes Gesuch gemäss § 13 Absatz 1;
-- b) Auszug aus dem Betreibungsregister (Ausstellungsdatum höchstens 30 Tage vor Antragstellung);
+- b) Auszug aus dem Betreibungsregister (Ausstellungsdatum höchstens 30 Tage vor Antragstellung) und für ein allfälliges per 15. März 2020 hängiges Betreibungsverfahren für Sozialversicherungsbeiträge das Zahlungsbeleg oder die unterzeichnete Vereinbarung der Zahlungsplanung;
 - c) Auszug aus dem Handelsregister (Ausstellungsdatum höchstens 30 Tage vor Antragstellung) oder Bescheinigung über den Beginn der Selbständigkeit durch die zuständige Ausgleichskasse (falls das Unternehmen nicht im Handelsregister eingetragen ist);
-- d) Liquiditätsplan;
+- d) …
 - e) letzte definitive Steuerverfügung (falls steuerpflichtig);
-- f) Jahresabschlüsse 2018 und 2019 (revidierte Jahresrechnung mit Bericht der Revisionsstelle, falls das Unternehmen der Revisionspflicht unterliegt;
+- f) Jahresabschlüsse 2018 und 2019 (revidierte Jahresrechnung mit Bericht der Revisionsstelle, falls das Unternehmen der Revisionspflicht unterliegt);
 - g) definitiver Jahresabschluss 2020; soweit dieser noch nicht vorliegt, ist die provisorische Fassung einzureichen;
 - h) die Mehrwertsteuerabrechnung 2018, 2019 und 2020, soweit nicht mehrwertsteuerpflichtig entsprechende Selbstdeklaration inkl. der vom Treuhänder bzw. von der Treuhänderin bestätigten Jahresumsätze 2018, 2019 und 2020;
-- i) Auszug des Geschäftskontos per 31. Dezember 2020 sowie letzter aktueller Kontoabschluss.
+- i) Auszug des Geschäftskontos per 31. Dezember 2020 sowie letzter aktueller Kontoabschluss;
+- j) bei Umsatzrückgang gemäss § 10 Absatz 1<sup>bis</sup> die Mehrwertsteuerabrechnung für die bereits abgelaufenen und deklarationspflichtigen Monate, Quartale oder Semester 2021; soweit für Monate noch keine Mehrwertsteuerabrechnung deklariert wurde oder das Unternehmen nicht mehrwertsteuerpflichtig ist die entsprechende Selbstdeklaration inkl. der vom Treuhänder bzw. von der Treuhänderin bestätigten Monatsumsätze 2021;
+- k) Fixkostenübersicht.
 
 <sup>2</sup> Zur Überprüfung der Anforderungen an die Unternehmen gemäss dieser Verordnung, kann die Fachstelle Standortförderung weitere Belege einverlangen.
 
@@ -280,6 +294,26 @@ beschliesst:
 <sup>2</sup> Das Verfahren richtet sich nach dem Gesetz über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz) vom 15. November 1970[^20-1].
 
 [^20-1]: BGS [124.11](https://bgs.so.ch/data/124.11/de).
+
+## 6. Kantonale Unterstützungsmassnahmen
+
+#### § 20bis
+
+**Kantonaler Unterstützungsbeitrag**
+
+<sup>1</sup> Der Regierungsrat kann in begründeten Einzelfällen und im öffentlichen Interesse ein Unternehmen mit einem nicht rückzahlbaren Beitrag grundsätzlich analog § 4 unterstützen, auch wenn dieses nicht alle Anspruchsvoraussetzungen der Verordnung erfüllt.
+
+<sup>2</sup> Auf die Gewährung eines kantonalen Unterstützungsbeitrags besteht kein Rechtsanspruch.
+
+#### § 20ter
+
+**Erlass der Gebühr für die gastwirtschaftliche Betriebsbewilligung 2021**
+
+<sup>1</sup> Die Gebühren nach § 92 des Wirtschafts- und Arbeitsgesetzes vom 8. März 2015[^20ter-1], die von Inhabern bzw. Inhaberinnen von gastwirtschaftlichen Betriebsbewilligungen gemäss § 9 Absatz 1 WAG erhoben werden, werden für das Jahr 2021 vollumfänglich erlassen.
+
+<sup>2</sup> Das Amt für Wirtschaft und Arbeit ist für den Vollzug zuständig.
+
+[^20ter-1]: BGS [940.11](https://bgs.so.ch/data/940.11/de).
 
 #### § 21
 
