@@ -3,20 +3,20 @@ canton: AR
 number: "113.4"
 title: "Verordnung über COVID-19-Massnahmen: Bevölkerung"
 language: de
-version: 2020-12-13
-valid_until: 2021-01-19
-version_adopted: 2020-12-12
+version: 2021-01-20
+valid_until: 2021-02-28
+version_adopted: 2021-01-19
 adopted: 2020-12-12
 in_force: 2020-12-13
 url: "https://ar.clex.ch/app/de/texts_of_law/113.4"
-pdf: "https://ar.clex.ch/api/de/versions/1328/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über COVID-19-Massnahmen: Bevölkerung
 
-vom 12.12.2020 (Stand 13.12.2020)
+vom 12.12.2020 (Stand 20.01.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -32,17 +32,13 @@ verordnet:
 
 **Massnahmen im öffentlichen Raum**
 
-<sup>1</sup> In Abweichung von Art. 3c Abs. 1 der Covid-19-Verordnung besondere Lage[^1-1] sind Menschenansammlungen von mehr als 10 Personen im öffentlichen Raum verboten.
+<sup>1</sup> …
 
 <sup>2</sup> Darbietungen, die zu einer verbotenen Menschenansammlung führen könnten, sind zu unterlassen.
 
-[^1-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
-
 #### Art. 2
 
-**Massnahmen zum Schutz von Arbeitnehmerinnen und Arbeitnehmern**
-
-<sup>1</sup> Die Arbeitgeber sorgen im Rahmen des wirtschaftlich Zumutbaren durch geeignete organisatorische und technische Massnahmen dafür, dass Arbeitspflichten soweit wie möglich von zu Hause aus erfüllt werden können (Homeoffice).
+**…**
 
 #### Art. 3
 
@@ -62,6 +58,6 @@ verordnet:
 
 **Geltungsdauer**
 
-<sup>1</sup> Die Massnahmen dieser Verordnung dauern bis und mit 22. Januar 2021, 24.00 Uhr.
+<sup>1</sup> Die Massnahmen dieser Verordnung dauern bis und mit 28. Februar 2021, 24.00 Uhr.
 
 Lf. Nr. / Abl. 1416 / Nr. 54 / 13.12.2020
