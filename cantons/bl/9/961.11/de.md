@@ -4,13 +4,13 @@ number: "961.11"
 title: Verordnung über die Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 Vo BL
 language: de
-version: 2020-12-19
-valid_until: 2021-01-19
-version_adopted: 2020-12-18
+version: 2021-01-20
+valid_until: 2021-02-28
+version_adopted: 2021-01-18
 adopted: 2020-11-10
 in_force: 2020-11-11
 url: "https://bl.clex.ch/app/de/texts_of_law/961.11"
-pdf: "https://bl.clex.ch/api/de/versions/2845/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2884/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2845/pdf_file"
 
 (Covid-19 Vo BL)
 
-Vom 10.11.2020 (Stand 19.12.2020)
+Vom 10.11.2020 (Stand 20.01.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen sind:
 
-- a. Schülerinnen und Schüler der Primarstufe;
+- a. Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. bzw. 6. Primarschulklasse;
 - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können.
 
 <sup>3</sup> Weitere Ausnahmen können in kantonalen Schutzkonzepten geregelt werden.
@@ -76,11 +76,11 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen sind:
 
-- a. Kinder bis zum 12. Geburtstag;
+- a. Kinder bis zum 10. Geburtstag;
 - b. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können;
 - c. die Wohnräume (private Zimmer und Gruppengemeinschaftsräume) in Kinder- und Jugendheimen;
 - d. gut dokumentierte Ausnahmen in Kindertagesstätten, in der schulergänzenden Kinderbetreuung und in Kinder- und Jugendheimen in der direkten Betreuung von Kindern;
-- e. Jugendliche ab dem 12. Geburtstag und Erwachsene bei Mahlzeiten, sobald sie am Sitzplatz sind.
+- e. Kinder und Jugendliche ab dem 10. Geburtstag und Erwachsene bei Mahlzeiten, sobald sie am Sitzplatz sind.
 
 <sup>3</sup> Die Massnahmen ergänzen die allgemein geltenden Hygiene- und Abstandsregeln.
 
