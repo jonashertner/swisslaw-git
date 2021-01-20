@@ -3,13 +3,13 @@ canton: BS
 number: "154.112"
 title: Personalreglement der Gerichte
 language: de
-version: 2019-04-01
-valid_until: 2021-01-20
-version_adopted: 2019-02-25
+version: 2021-01-21
+valid_until: 2025-09-17
+version_adopted: 2020-10-26
 adopted: 2017-05-15
 in_force: 2017-10-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/154.112"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4762/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4762/pdf_file"
 
 Gerichte: Personalreglement | Gerichte / Staatsanwaltschaft
 
-Vom 15. Mai 2017 (Stand 1. April 2019)
+Vom 15. Mai 2017 (Stand 21. Januar 2021)
 
 Der Gerichtsrat des Kantons Basel-Stadt,
 
@@ -132,6 +132,18 @@ beschliesst:
 **Anfechtung von Verfügungen**
 
 <sup>1</sup> Verfügungen der jeweiligen Präsidienkonferenz (§ 16 Abs. 1 des Personalgesetzes), gegen welche nicht Rekurs bei der Personalrekurskommission (§ 62 Abs. 2 Satz 2 GOG) erhoben werden kann, können durch Rekurs an das Verwaltungsgericht angefochten werden (§ 10 Abs. 1 des Gesetzes über die Verfassungs- und Verwaltungsrechtspflege (VRPG) vom 14. Juni 1928).
+
+## 5. Einreihung neuer Stellen und Neueinreihung von Stellen an den Gerichten
+
+#### § 10
+
+**Verfahren**
+
+<sup>1</sup> Neu geschaffene Stellen sowie Stellen, deren Schwierigkeitsgrad sich infolge einer Veränderung der bisherigen Struktur einer Organisationseinheit oder infolge einer Funktionsveränderung erheblich geändert hat, werden vom Gerichtsrat gemäss §§ 5 und 6 Abs. 1 und 2 des Gesetzes betreffend Einreihung und Entlöhnung der Mitarbeiterinnen und Mitarbeiter des Kantons Basel-Stadt (Lohngesetz) vom 18. Januar 1995 neu eingereiht.
+
+<sup>2</sup> Es gelten grundsätzlich die Bestimmungen der Verordnung über die Einreihung von Stellen sowie die Einstufung von Mitarbeiterinnen und Mitarbeitern des Kantons Basel-Stadt (Einreihungsverordnung, EVO) vom 31. Oktober 1995 unter Berücksichtigung der in § 4 dieses Reglements geregelten Zuständigkeitsvorschriften.
+
+<sup>3</sup> In Abweichung von § 4a Abs. 2 EVO wird bei Dissens zwischen der Anstellungsbehörde (einzelnes Gericht) und der zuständigen zentralen Personalabteilung betreffend die Einreihung einer Stelle auf den Beizug der Bewertungsgruppe verzichtet. Sowohl bei Konsens als auch bei Dissens wird der Antrag direkt an den Gerichtsrat zum Entscheid weitergeleitet.
 
 *Schlussbestimmung*
 
