@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2021-01-01
+version: 2021-01-21
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210121/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210121-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 1° gennaio 2021)
+del 20 marzo 2020 (Stato 21 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -33,11 +33,31 @@ ordina:
 
 [^12-1]: Abrogati dal n. I dell’O del 20 mag. 2020, con effetto dal 1° giu. 2020 ([RU 2020 1077](https://fedlex.data.admin.ch/eli/oc/2020/194)).
 
-#### Art. 3 e 4
+#### Art. 3
 
-[^34-1]
+[^3-1]
 
-[^34-1]: Abrogati dal n. I dell’O del 12 ago. 2020, con effetto dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+In deroga agli articoli 32 capoverso 2 e 37 lettera b della legge federale del 25 giugno 1982[^3-2] sull’assicurazione contro la disoccupazione (LADI), nessun periodo d’attesa è dedotto dalla perdita di lavoro computabile.
+
+[^3-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° set. 2020 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1</sup> In deroga all’articolo 33 capoverso 1 lettera e LADI[^4-2], una perdita di lavoro è computabile in quanto concerna persone vincolate da un rapporto di lavoro di durata determinata o da un rapporto di tirocinio.
+
+<sup>2</sup>
+
+Le persone vincolate da un rapporto di tirocinio hanno diritto a un’indennità per lavoro ridotto se:
+
+- a. la loro formazione continua a essere garantita;
+- b. l’azienda è stata chiusa a seguito di una decisione delle autorità; e
+- c. l’azienda non riceve nessun altro sostegno finanziario per coprire i loro salari.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 5
 
@@ -108,14 +128,12 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 [^8g-1]
 
-<sup>1</sup> ...[^8g-2]
+<sup>1</sup> In deroga all’articolo 35 capoverso 1<sup>bis</sup> LADI[^8g-2], la perdita di lavoro di oltre l’85 per cento dell’orario normale di lavoro può superare quattro periodi di conteggio tra il 1° marzo 2020 e il 31 marzo 2021.
 
-<sup>2</sup> I periodi di conteggio dell’indennità per lavoro ridotto per i quali tra il 1° marzo 2020 e il 31 agosto 2020 la perdita di lavoro è ammontata a oltre l’85 per cento dell’orario normale di lavoro dell’azienda non sono computati nel calcolo del diritto a quattro periodi di conteggio di cui all’articolo 35 capoverso 1<sup>bis</sup> della legge del 25 giugno 1982[^8g-3] sull’assicurazione contro la disoccupazione (LADI).[^8g-4]
+<sup>2</sup> Dal 1° aprile 2021 i periodi di conteggio dell’indennità per lavoro ridotto per i quali tra il 1° marzo 2020 e il 31 marzo 2021 la perdita di lavoro è ammontata a oltre l’85 per cento dell’orario normale di lavoro dell’azienda non sono computati nel calcolo del diritto a quattro periodi di conteggio di cui all’articolo 35 capoverso 1<sup>bis</sup> LADI.
 
-[^8g-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus, in vigore dal 9 apr. 2020 ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
-[^8g-2]: Abrogato dal n. I dell’O del 12 ago. 2020, con effetto dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8g-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8g-4]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8g-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° set. 2020 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8g-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 8h
 
@@ -127,14 +145,18 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 [^8i-1]
 
-<sup>1</sup> In deroga agli articoli 34 capoverso 2 e 38 capoverso 3 lettera b LADI, la perdita di guadagno computabile è calcolata in procedura sommaria e l’indennità per lavoro ridotto dell’80 per cento è versata in forma forfettaria.[^8i-2]
+<sup>1</sup> In deroga agli articoli 34 capoverso 2 e 38 capoverso 3 lettera b LADI[^8i-2], la perdita di guadagno computabile è calcolata in procedura sommaria e l’indennità per lavoro ridotto è versata in forma forfettaria.[^8i-3]
 
 <sup>2</sup> La percentuale della perdita di lavoro imputabile a motivi economici risulta dal rapporto tra la somma delle ore che le persone interessate dal lavoro ridotto hanno perso per questi motivi e la somma delle ore che le persone aventi diritto all’indennità devono effettuare.
 
 <sup>3</sup> La perdita di guadagno computabile corrisponde alla percentuale della perdita di lavoro imputabile a motivi economici rispetto alla somma dei guadagni determinanti di tutte le persone aventi diritto all’indennità.
 
+<sup>4</sup> Se l’azienda presenta redditi modesti secondo l’articolo 17*a* lettera a numeri 1 e 2 della legge COVID-19 del 25 settembre 2020, la perdita di guadagno computabile è calcolata in procedura sommaria separatamente per ogni categoria di reddito.[^8i-4]
+
 [^8i-1]: Introdotto dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus, in vigore dal 9 apr. al 31 dic. 2020 ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)[3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8i-2]: Nuovo testo giusta il n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8i-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8i-3]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8i-4]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 8j
 
@@ -160,15 +182,24 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 <sup>3</sup> Fatto salvo il capoverso 4, la durata di validità della presente ordinanza è prorogata fino al 31 dicembre 2022.[^9-3]
 
-<sup>4</sup> La durata di validità degli articoli 7 e 8*i* è prorogata fino al 31 dicembre 2020.[^9-4]
+<sup>3bis</sup> Fatti salvi i capoversi 4<sup>bis</sup>–7, la durata di validità della presente ordinanza è prorogata fino al 31 dicembre 2023.[^9-4]
 
-<sup>4bis</sup> La durata di validità secondo il capoverso 4 è prorogata fino al 31 marzo 2021.[^9-5]
+<sup>4</sup> La durata di validità degli articoli 7 e 8*i* è prorogata fino al 31 dicembre 2020.[^9-5]
 
-<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-6]
+<sup>4bis</sup> La durata di validità secondo il capoverso 4 è prorogata fino al 31 marzo 2021.[^9-6]
+
+<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-7]
+
+<sup>6</sup> L’articolo 3 ha effetto sino al 31 marzo 2021.[^9-8]
+
+<sup>7</sup> L’articolo 4 ha effetto sino al 30 giugno 2021.[^9-9]
 
 [^9-1]: Nuovo testo giusta dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus, in vigore dal 9 apr. 2020 ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RU 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
 [^9-3]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-4]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-5]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
-[^9-6]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-4]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-5]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^9-6]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^9-7]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-8]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-9]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).

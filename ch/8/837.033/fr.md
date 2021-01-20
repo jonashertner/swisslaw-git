@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordonnance du 20 mars 2020 sur les mesures dans le domaine de l'assurance-chômage en lien avec le coronavirus (COVID-19) (Ordonnance COVID-19 assurance-chômage)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: fr
-version: 2021-01-01
+version: 2021-01-21
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210121/fr/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210121-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/fr"
 
 (Ordonnance COVID-19 assurance-chômage)
 
-du 20 mars 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 20 mars 2020 (Etat le 21 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -33,11 +33,31 @@ arrête:
 
 [^12-1]: Abrogés par le ch. I de l’O du 20 mai 2020, avec effet au 1<sup>er</sup> juin 2020 ([RO 2020 1777](https://fedlex.data.admin.ch/eli/oc/2020/351)).
 
-#### Art. 3 et 4
+#### Art. 3
 
-[^34-1]
+[^3-1]
 
-[^34-1]: Abrogés par le ch. I de l’O du 12 août 2020, avec effet au 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+En dérogation aux art. 32, al. 2, et 37, let. b, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^3-2], aucun délai d’attente n’est déduit de la perte de travail à prendre en considération.
+
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^3-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1</sup> En dérogation à l’art. 33, al. 1, let. e, LACI[^4-2], une perte de travail est prise en considération lorsqu’elle touche des personnes qui ont un emploi d’une durée déterminée ou qui sont en apprentissage.
+
+<sup>2</sup>
+
+Les personnes qui sont en apprentissage ont droit à l’indemnité en cas de réduction de l’horaire de travail si:
+
+- a. la formation des apprentis continue à être assurée;
+- b. l’entreprise a été fermée à la suite d’une décision des autorités, et que
+- c. l’entreprise ne reçoit aucun autre soutien financier pour couvrir le coût des salaires des apprentis.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^4-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 5
 
@@ -108,14 +128,12 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 [^8g-1]
 
-<sup>1</sup> ...[^8g-2]
+<sup>1</sup> En dérogation à l’art. 35, al. 1<sup>bis</sup>, LACI[^8g-2], la perte de travail supérieure à 85 % de l’horaire normal de l’entreprise peut excéder quatre périodes de décompte entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021.
 
-<sup>2</sup> Les périodes de décompte pour l’indemnité en cas de réduction de l’horaire de travail, pour lesquelles la perte de travail a été supérieure à 85 % de l’horaire normal de l’entreprise entre le 1<sup>er</sup> mars et le 31 août 2020, ne sont pas prises en compte pour la détermination du droit à quatre périodes de décompte au sens de l’art. 35, al. 1<sup>bis</sup>, de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^8g-3].[^8g-4]
+<sup>2</sup> Les périodes de décompte pour l’indemnité en cas de réduction de l’horaire de travail, pour lesquelles la perte de travail a été supérieure à 85 % de l’horaire normal de l’entreprise entre le 1<sup>er</sup> mars 2020 et le 31 mars 2021, ne sont pas prises en compte pour la détermination du droit à quatre périodes de décompte au sens de l’art. 35, al. 1<sup>bis</sup>, LACI à partir du 1<sup>er</sup> avril 2021.
 
-[^8g-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur depuis le 9 avr. 2020 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
-[^8g-2]: Abrogé par le ch. I de l’O du 12 août 2020, avec effet au 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8g-3]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8g-4]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8g-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8g-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 8h
 
@@ -127,14 +145,18 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 [^8i-1]
 
-<sup>1</sup> En dérogation aux art. 34, al. 2, et 38, al. 3, let. b, LACI, la perte de gain à prendre en considération est calculée par une procédure sommaire, et l’indemnité de 80 % en cas de réduction de l’horaire de travail est versée sous la forme d’un forfait.[^8i-2]
+<sup>1</sup> En dérogation aux art. 34, al. 2, et 38, al. 3, let. b, LACI[^8i-2], la perte de gain à prendre en considération est calculée en procédure sommaire et l’indemnité en cas de réduction de l’horaire de travail est versée sous la forme d’un forfait.[^8i-3]
 
 <sup>2</sup> La proportion de la perte de travail due à des raisons économiques est déterminée par le rapport entre la somme des heures perdues pour ces raisons par les personnes concernées par la réduction de l’horaire de travail et la somme des heures effectuées en temps normal par l’ensemble des personnes ayant droit à l’indemnité.
 
 <sup>3</sup> La perte de gain à prendre en considération correspond à la proportion de la perte de travail due à des raisons économiques rapportée à la somme des gains déterminants de toutes les personnes ayant droit à l’indemnité.
 
+<sup>4</sup> Si l’entreprise indique des revenus modestes tels que ceux fixés à l’art. 17*a*, let. a, ch. 1 et 2, de la loi COVID-19 du 25 septembre 2020, la perte de gain à prendre en considération est calculée en procédure sommaire séparément pour chaque catégorie de revenu.[^8i-4]
+
 [^8i-1]: Introduit par le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur du 9 avr. au 31 déc. 2020 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)[3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8i-2]: Nouvelle teneur selon le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8i-2]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8i-3]: Nouvelle teneur selon le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8i-4]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 8j
 
@@ -160,15 +182,24 @@ En dérogation à l’art. 38, al. 3, let. b et c, LACI[^7-1], l’employeur ne 
 
 <sup>3</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2022, sous réserve de l’al. 4.[^9-3]
 
-<sup>4</sup> La durée de validité des art. 7 et 8*i* est prolongée jusqu’au 31 décembre 2020.[^9-4]
+<sup>3bis</sup> La durée de validité de la présente ordonnance est prolongée jusqu’au 31 décembre 2023, sous réserve des al. 4<sup>bis</sup> à 7.[^9-4]
 
-<sup>4bis</sup> La durée de validité visée à l’al. 4 est prolongée jusqu'au 31 mars 2021.[^9-5]
+<sup>4</sup> La durée de validité des art. 7 et 8*i* est prolongée jusqu’au 31 décembre 2020.[^9-5]
 
-<sup>5</sup> L’article 8*f* a effet jusqu’au 30 juin 2021.[^9-6]
+<sup>4bis</sup> La durée de validité visée à l’al. 4 est prolongée jusqu'au 31 mars 2021.[^9-6]
+
+<sup>5</sup> L’article 8*f* a effet jusqu’au 30 juin 2021.[^9-7]
+
+<sup>6</sup> L’art. 3 a effet jusqu’au 31 mars 2021.[^9-8]
+
+<sup>7</sup> L’art. 4 a effet jusqu’au 30 juin 2021.[^9-9]
 
 [^9-1]: Nouvelle teneur selon le ch. I 1 de l’O du 8 avr. 2020 sur des mesures complémentaires dans le domaine de l’assurance-chômage en lien avec le coronavirus, en vigueur depuis le 9 avr. 2020 ([RO 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RO 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
 [^9-3]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-4]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-5]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
-[^9-6]: Introduit par le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-4]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-5]: Introduit par le ch. I de l’O du 12 août 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^9-6]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^9-7]: Introduit par le ch. I de l’O du 28 oct. 2020, en vigueur depuis le 1<sup>er</sup> sept. 2020 ([RO 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-8]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-9]: Introduit par le ch. I de l’O du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).

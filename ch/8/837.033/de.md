@@ -3,11 +3,11 @@ sr: "837.033"
 title: Verordnung vom 20. März 2020 über Massnahmen im Bereich der Arbeitslosenversicherung im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Arbeitslosenversicherung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: de
-version: 2021-01-01
+version: 2021-01-21
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210121/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210121-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210101/de"
 
 (Covid-19-Verordnung Arbeitslosenversicherung)**[^t-1]**
 
-vom 20. März 2020 (Stand am 1. Januar 2021)
+vom 20. März 2020 (Stand am 21. Januar 2021)
 
 [^t-1]: Ausdruck gemäss Ziff. I 8 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -35,11 +35,31 @@ verordnet:
 
 [^12-1]: Aufgehoben durch Ziff. I der V vom 20. Mai 2020, mit Wirkung seit 1. Juni 2020 ([AS 2020 1777](https://fedlex.data.admin.ch/eli/oc/2020/351)).
 
-#### Art. 3 und 4
+#### Art. 3
 
-[^34-1]
+[^3-1]
 
-[^34-1]: Aufgehoben durch Ziff. I der V vom 12. Aug. 2020, mit Wirkung seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+In Abweichung von den Artikeln 32 Absatz 2 und 37 Buchstabe b des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^3-2] (AVIG) wird keine Karenzzeit vom anrechenbaren Arbeitsausfall abgezogen.
+
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Sept. 2020 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^3-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+
+#### Art. 4
+
+[^4-1]
+
+<sup>1</sup> In Abweichung von Artikel 33 Absatz 1 Buchstabe e AVIG[^4-2] ist ein Arbeitsausfall anrechenbar, soweit er Personen betrifft, die in einem Arbeitsverhältnis auf bestimmte Dauer oder in einem Lehrverhältnis stehen.
+
+<sup>2</sup>
+
+Personen, die in einem Lehrverhältnis stehen, haben Anspruch auf Kurzarbeitsentschädigung, wenn:
+
+- a. die Ausbildung der Lernenden weiterhin sichergestellt ist;
+- b. der Betrieb behördlich geschlossen wurde; und
+- c. der Betrieb keine anderweitige finanzielle Unterstützung zur Deckung des Lohnes der Lernenden erhält.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^4-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 5
 
@@ -110,14 +130,12 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 [^8g-1]
 
-<sup>1</sup> ...[^8g-2]
+<sup>1</sup> In Abweichung von Artikel 35 Absatz 1<sup>bis</sup> AVIG[^8g-2] darf der Arbeitsausfall von über 85 Prozent der normalen betrieblichen Arbeitszeit zwischen dem 1. März 2020 und dem 31. März 2021 vier Abrechnungsperioden überschreiten.
 
-<sup>2</sup> Die Abrechnungsperioden für Kurzarbeitsentschädigung, für die zwischen dem 1. März 2020 und dem 31. August 2020 der Arbeitsausfall von 85 Prozent der betrieblichen Arbeitszeit überschritten wurde, werden für die Berechnung des Anspruchs von vier Abrechnungsperioden nach Artikel 35 Absatz 1<sup>bis</sup> des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^8g-3] (AVIG) nicht berücksichtigt.[^8g-4]
+<sup>2</sup> Die Abrechnungsperioden für Kurzarbeitsentschädigung, für die zwischen dem 1. März 2020 und dem 31. März 2021 der Arbeitsausfall von 85 Prozent der betrieblichen Arbeitszeit überschritten wurde, werden für die Berechnung des Anspruchs von vier Abrechnungsperioden nach Artikel 35 Absatz 1<sup>bis</sup> AVIG ab 1. April 2021 nicht berücksichtigt.
 
-[^8g-1]: Eingefügt durch Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung, in Kraft vom 9. April 2020 ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
-[^8g-2]: Aufgehoben durch Ziff. I der V vom 12. Aug. 2020, mit Wirkung seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8g-3]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
-[^8g-4]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8g-1]: Eingefügt durch Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)). Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. Sept. 2020 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8g-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 
 #### Art. 8h
 
@@ -129,14 +147,18 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 [^8i-1]
 
-<sup>1</sup> In Abweichung von Artikel 34 Absatz 2 und 38 Absatz 3 Buchstabe b AVIG wird der anrechenbare Verdienstausfall im summarischen Verfahren berechnet, und die Kurzarbeitsentschädigung von 80 Prozent wird als Pauschale ausgerichtet.[^8i-2]
+<sup>1</sup> In Abweichung von den Artikeln 34 Absatz 2 und 38 Absatz 3 Buchstabe b AVIG[^8i-2] wird der anrechenbare Verdienstausfall im summarischen Verfahren berechnet, und die Kurzarbeitsentschädigung wird als Pauschale ausgerichtet.[^8i-3]
 
 <sup>2</sup> Der prozentuale wirtschaftlich bedingte Arbeitsausfall bestimmt sich aus dem Verhältnis der Summe wirtschaftlich bedingter Ausfallstunden der von Kurzarbeit betroffenen Personen zur Summe der Sollstunden aller anspruchsberechtigten Personen.
 
 <sup>3</sup> Der anrechenbare Verdienstausfall entspricht dem Anteil des wirtschaftlich bedingten Arbeitsausfalls an der Summe der massgebenden Verdienste aller anspruchsberechtigen Personen.
 
+<sup>4</sup> Weist der Betrieb tiefe Einkommen nach Artikel 17*a* Buchstabe a Ziffern 1 und 2 des Covid-19-Gesetzes vom 25. September 2020 aus, so wird der anrechenbare Verdienstausfall im summarischen Verfahren für jede Einkommenskategorie einzeln berechnet.[^8i-4]
+
 [^8i-1]: Eingefügt durch Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung, in Kraft vom 9. April 2020 bis zum 31. Dez. 2020 ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)[3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^8i-2]: Fassung gemäss Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^8i-2]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
+[^8i-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^8i-4]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 8j
 
@@ -162,15 +184,24 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 <sup>3</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt von Absatz 4 bis zum 31. Dezember 2022 verlängert.[^9-3]
 
-<sup>4</sup> Die Geltungsdauer der Artikel 7 und 8*i* wird bis zum 31. Dezember 2020 verlängert.[^9-4]
+<sup>3bis</sup> Die Geltungsdauer dieser Verordnung wird unter Vorbehalt der Absätze 4<sup>bis</sup>–7 bis zum 31. Dezember 2023 verlängert.[^9-4]
 
-<sup>4bis</sup> Die Geltungsdauer nach Absatz 4 wird bis zum 31. März 2021 verlängert.[^9-5]
+<sup>4</sup> Die Geltungsdauer der Artikel 7 und 8*i* wird bis zum 31. Dezember 2020 verlängert.[^9-5]
 
-<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-6]
+<sup>4bis</sup> Die Geltungsdauer nach Absatz 4 wird bis zum 31. März 2021 verlängert.[^9-6]
+
+<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-7]
+
+<sup>6</sup> Artikel 3 gilt bis zum 31. März 2021.[^9-8]
+
+<sup>7</sup> Artikel 4 gilt bis zum 30. Juni 2021.[^9-9]
 
 [^9-1]: Fassung gemäss Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung, in Kraft vom 9. April 2020 ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [AS 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
 [^9-3]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-4]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
-[^9-5]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
-[^9-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-4]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-5]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
+[^9-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^9-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
+[^9-8]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-9]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
