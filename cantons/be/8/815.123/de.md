@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2020-12-19
-valid_until: 2021-01-20
-version_adopted: 2020-12-18
+version: 2021-01-21
+valid_until: 2021-02-09
+version_adopted: 2021-01-20
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2097/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2134/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2097/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 19.12.2020)
+vom 04.11.2020 (Stand 21.01.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -97,7 +97,7 @@ beschliesst:
 
 **Politische und zivilgesellschaftliche Kundgebungen**
 
-<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 15 Personen verboten.
+<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 5 Personen verboten.
 
 #### Art. 7
 
@@ -187,17 +187,11 @@ beschliesst:
 
 **…**
 
-### 2.5 Öffentlich zugängliche Einrichtungen
+### 2.5
 
 #### Art. 16
 
-<sup>1</sup> Die folgenden öffentlich zugänglichen Einrichtungen sind für das Publikum geschlossen:
-
-- a–i …
-- k Bar- und Clubbetriebe.
-- l …
-
-<sup>2</sup> …
+**…**
 
 ### 2.6 Boden- und Waldverbesserungsgenossenschaften
 
@@ -211,6 +205,69 @@ beschliesst:
 
 [^16a-1]: BSG [913.111](https://www.belex.sites.be.ch/data/913.111/de)
 [^16a-2]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
+
+### 2.7 Justizvollzug
+
+#### Art. 16b
+
+**Maskentragpflicht**
+
+<sup>1</sup> In Ergänzung zu Artikel 3b der Covid-Verordnung besondere Lage muss jede Person in den Innenräumen der Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 der Verordnung vom 22. August 2018 über den Justizvollzug (Justizvollzugsverordnung, JVV)[^16b-1] eine Gesichtsmaske tragen.
+
+<sup>2</sup> Die Pflicht gemäss Absatz 1 gilt nicht, wenn sich eingewiesene Personen in ihrer Zelle mit geschlossener Tür aufhalten.
+
+[^16b-1]: BSG [341.11](https://www.belex.sites.be.ch/data/341.11/de)
+
+#### Art. 16c
+
+**Quarantäne**
+
+<sup>1</sup> Aus der Freiheit eintretende Personen aller Vollzugs- und Haftarten können für den Zeitraum von 10 bis 15 Tagen ab Eintritt in Quarantäne gesetzt werden.
+
+<sup>2</sup> Eingewiesene Personen, die sich in Quarantäne befinden, können sich während einer Stunde am Tag ausserhalb ihrer Zelle an der frischen Luft aufhalten.
+
+#### Art. 16d
+
+**Besuche**
+
+<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind untersagt, mit Ausnahme von Besuchen hinter einer Trennscheibe von Anwältinnen und Anwälten.
+
+<sup>2</sup> Die Leitung der Vollzugseinrichtung kann ausnahmsweise andere amtliche Besuche genehmigen.
+
+<sup>3</sup> Das Amt für Justizvollzug kann zur Aufrechterhaltung der Beziehungen zur Aussenwelt Ersatzmassnahmen vorsehen wie Videotelefonie, die an das Besuchskontingent angerechnet werden kann.
+
+#### Art. 16e
+
+**Ausgang und Urlaub**
+
+<sup>1</sup> In Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind Ausgänge und Urlaube untersagt.
+
+<sup>2</sup> Ausgenommen sind Ausgänge und Urlaube aus unaufschiebbaren Gründen gemäss Artikel 75 Absatz 1 Buchstabe b und e JVV.
+
+<sup>3</sup> Nicht erfolgte Ausgänge und Urlaube werden im Rahmen des progressiven Justizvollzugs nicht berücksichtigt.
+
+#### Art. 16f
+
+**Arbeitsentgelt**
+
+<sup>1</sup> Eingewiesene Personen, die infolge der Massnahmen zur Bekämpfung der Covid-19-Epidemie nicht arbeiten können, haben Anspruch auf ihr bisheriges Arbeitsentgelt.
+
+#### Art. 16g
+
+**Vollzugsunterbruch**
+
+<sup>1</sup> Ein Vollzugsunterbruch gemäss Artikel 17 des Gesetzes vom 23. Januar 2018 über den Justizvollzug (Justizvollzugsgesetz, JVG)[^16g-1] aufgrund des Coronavirus wird nur bei Vorliegen einer ärztlich attestierten Gefährdung der betroffenen eingewiesenen Person gewährt.
+
+[^16g-1]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
+
+#### Art. 16h
+
+**Weitere organisatorische Massnahmen**
+
+<sup>1</sup> Das Amt für Justizvollzug ergreift weitere notwendige organisatorische Massnahmen, um
+
+- a die Kontakte innerhalb der Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV möglichst gering zu halten,
+- b zu verhindern, dass das Coronavirus von aussen eindringt.
 
 ## 3 Zuständigkeiten und Vollzug
 
@@ -252,7 +309,7 @@ beschliesst:
 
 <sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig, über Gesuche um Erleichterungen gestützt auf Artikel 7 Absatz 1 der Covid-19-Verordnung besondere Lage zu beschliessen.
 
-<sup>2</sup> Der Regierungsrat beschliesst auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion über die Öffnung von Einrichtungen und Betrieben sowie die Ausweitung der Öffnungszeiten gestützt auf Artikel 7 Absatz 2 bis Absatz 6 der Covid-19-Verordnung besondere Lage.
+<sup>2</sup> …
 
 #### Art. 19
 
@@ -397,11 +454,13 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2a</sup> Die Artikel 6a, 8, 8a bis 8d und 16 Absatz 1 Buchstabe k gelten bis zum 22. Januar 2021.
+<sup>2a</sup> Die Artikel 8a bis 8d gelten bis zum 22. Januar 2021.
 
-<sup>3</sup> Die Artikel 9 bis 12 sowie 16a gelten bis zum 31. Januar 2021.
+<sup>2b</sup> Die Artikel 6a, 8, 9 bis 12 sowie 16a bis 16h gelten bis zum 28. Februar 2021.
 
-<sup>3a</sup> Die Artikel 2 bis 5 sind vom 22. Dezember 2020 bis zum 22. Januar 2021 nicht anwendbar.
+<sup>3</sup> …
+
+<sup>3a</sup> Die Artikel 2 sowie 3 bis 5 sind vom 22. Dezember 2020 bis zum 28. Februar 2021 nicht anwendbar.
 
 #### Art. 29
 

@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2020-12-19
-valid_until: 2021-01-20
-version_adopted: 2020-12-18
+version: 2021-01-21
+valid_until: 2021-02-09
+version_adopted: 2021-01-20
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2097/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2134/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2097/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 19.12.2020)
+du 04.11.2020 (état au 21.01.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -97,7 +97,7 @@ arrête:
 
 **Manifestations politiques ou de la société civile**
 
-<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 15 personnes sont interdites.
+<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 5 personnes sont interdites.
 
 #### Art. 7
 
@@ -187,17 +187,11 @@ arrête:
 
 **…**
 
-### 2.5 Infrastructures d'accès public
+### 2.5
 
 #### Art. 16
 
-<sup>1</sup> Les infrastructures d'accès public suivantes sont fermées au public:
-
-- a–i …
-- k bars et boîtes de nuit.
-- l …
-
-<sup>2</sup> …
+**…**
 
 ### 2.6 Syndicats d'améliorations foncières et forestières
 
@@ -211,6 +205,69 @@ arrête:
 
 [^16a-1]: RSB [913.111](https://www.belex.sites.be.ch/data/913.111/fr)
 [^16a-2]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
+
+### 2.7 Exécution judiciaire
+
+#### Art. 16b
+
+**Port du masque obligatoire**
+
+<sup>1</sup> En complément de l'article 3b de l'ordonnance COVID-19 situation particulière, toute personne se trouvant dans les espaces clos des établissements d’exécution au sens des articles 6 à 10 et 13 de l’ordonnance du 22 août 2018 sur l’exécution judiciaire (OEJ)[^16b-1] doit porter un masque facial.
+
+<sup>2</sup> L'obligation au sens de l'alinéa 1 ne s'applique pas aux personnes détenues lorsque celles-ci se trouvent dans leur cellule et que la porte est fermée.
+
+[^16b-1]: RSB [341.11](https://www.belex.sites.be.ch/data/341.11/fr)
+
+#### Art. 16c
+
+**Quarantaine**
+
+<sup>1</sup> Toute personne venue exécuter une peine ou une mesure privative de liberté quelle qu'elle soit peut être placée en quarantaine pour une période de dix à quinze jours à compter de son entrée dans l'établissement d'exécution.
+
+<sup>2</sup> Les personnes détenues qui observent une quarantaine sont autorisées à quitter leur cellule une heure par jour pour prendre l'air.
+
+#### Art. 16d
+
+**Visites**
+
+<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont interdites à l'exception des visites d'avocats et d'avocates derrière une vitre de séparation.
+
+<sup>2</sup> Chaque direction d'établissement d'exécution peut autoriser à titre exceptionnel d'autres visites officielles.
+
+<sup>3</sup> Pour que les personnes détenues restent en contact avec l'extérieur, l'Office de l'exécution judiciaire peut prévoir des mesures de remplacement comme la visioconférence qui peuvent être comptabilisées dans le contingent de visites.
+
+#### Art. 16e
+
+**Sorties et congés**
+
+<sup>1</sup> Dans les établissements d'exécution au sens des articles 6 à 10 et 13 OEJ, les sorties et congés sont interdits.
+
+<sup>2</sup> Font exception les sorties et congés motivés par des affaires ne pouvant être reportées au sens de l'article 75, alinéa 1, lettres b et e OEJ.
+
+<sup>3</sup> Les sorties et congés qui n'ont pas été effectués ne sont pas pris en compte dans le cadre de l'exécution progressive.
+
+#### Art. 16f
+
+**Rémunération du travail**
+
+<sup>1</sup> Les personnes détenues qui ne peuvent plus travailler en raison des mesures visant à lutter contre l'épidémie de COVID-19 ont droit au maintien de leur rémunération.
+
+#### Art. 16g
+
+**Interruption de l'exécution d'une peine ou d'une mesure**
+
+<sup>1</sup> En raison de l’épidémie, seul un certificat médical attestant la mise en danger de la santé de la personne détenue concernée permet l'interruption de l’exécution d’une peine au sens de l’article 17 de la loi du 23 janvier 2018 sur l’exécution judiciaire (LEJ)[^16g-1].
+
+[^16g-1]: RSB [341.1](https://www.belex.sites.be.ch/data/341.1/fr)
+
+#### Art. 16h
+
+**Mesures organisationnelles supplémentaires**
+
+<sup>1</sup> L'Office de l'exécution judiciaire prend des mesures organisationnelles supplémentaires pour
+
+- a réduire autant que possible les contacts au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ ;
+- b empêcher les contaminations dues à l'extérieur.
 
 ## 3 Compétences et exécution
 
@@ -252,7 +309,7 @@ arrête:
 
 <sup>1</sup> Il incombe à la Direction de la santé, des affaires sociales et de l’intégration de statuer sur les demandes d’allégement au titre de l’article 7, alinéa 1 de l'ordonnance COVID-19 situation particulière.
 
-<sup>2</sup> Le Conseil-exécutif statue sur l'ouverture des installations et des établissements et l’extension des heures d’ouverture sur proposition de Direction de la santé, des affaires sociales et de l’intégration en vertu de l’article 7, alinéas 2 à 6 de l'ordonnance COVID-19 situation particulière.
+<sup>2</sup> …
 
 #### Art. 19
 
@@ -397,11 +454,13 @@ arrête:
 
 <sup>2</sup> …
 
-<sup>2a</sup> Les articles 6a, 8, 8a à 8d et 16, alinéa 1, lettre k sont valables jusqu'au 22 janvier 2021.
+<sup>2a</sup> Les articles 8a à 8d sont valables jusqu'au 22 janvier 2021.
 
-<sup>3</sup> Les articles 9 à 12 ainsi que 16a sont valables jusqu'au 31 janvier 2021.
+<sup>2b</sup> Les articles 6a, 8, 9 à 12 et 16a à 16h sont valables jusqu'au 28 février 2021.
 
-<sup>3a</sup> Les articles 2 à 5 ne sont pas applicables du 22 décembre 2020 jusqu'au 22 janvier 2021.
+<sup>3</sup> …
+
+<sup>3a</sup> Les articles 2 et 3 à 5 ne sont pas applicables du 22 décembre 2020 jusqu'au 28 février 2021.
 
 #### Art. 29
 
