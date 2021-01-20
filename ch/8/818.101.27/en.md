@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 2 July 2020 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: en
-version: 2021-01-15
+version: 2021-01-21
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210115/en/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210115-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210115/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210121/en/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210121-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210121/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 2 July 2020 (Status as of 15 January 2021)
+of 2 July 2020 (Status as of 21 January 2021)
 
 The Swiss Federal Council,
 
@@ -143,7 +143,7 @@ Annex*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FDHA O of 6 Jan. 2021, in force since 15 Jan. 2021 ([AS 2021 1](https://fedlex.data.admin.ch/eli/oc/2021/1)). Revised by No I of the FDHA O of 12 Jan. 2021, in force since 12 Jan. 2021 ([AS 2021 4](https://fedlex.data.admin.ch/eli/oc/2021/4)).
+[^t-1]: Amended by No I of the FDHA O of 20 Jan. 2021, in force since 21 Jan. 2021 ([AS 2021 15](https://fedlex.data.admin.ch/eli/oc/2021/15)).
 [^annexu1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. States and areas
@@ -152,15 +152,7 @@ Andorra
 
 Czech Republic
 
-Croatia
-
-Denmark
-
-Georgia
-
 Lithuania
-
-Luxembourg
 
 Montenegro
 
@@ -169,8 +161,6 @@ The Netherlands
 Panama
 
 San Marino
-
-Serbia
 
 Slovenia
 
@@ -189,6 +179,8 @@ Areas in Italy:
 - – Region of Veneto
 
 ### 3. States and areas under Article 3 paragraph 1 letter d
+
+Brazil
 
 Ireland
 
