@@ -1,22 +1,22 @@
 ---
 canton: SG
 number: "571.301"
-title: Verordnung des Kantons St.Gallen über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie
+title: Verordnung über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 language: de
-version: 2021-01-11
-valid_until: 2021-01-20
-version_adopted: 2021-01-05
+version: 2021-01-21
+valid_until: 2021-02-17
+version_adopted: 2021-01-19
 adopted: 2020-12-15
 in_force: 2021-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/571.301"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3082/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3098/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Kantons St.Gallen über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie
+# Verordnung über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie
 
-vom 15.12.2020 (Stand 11.01.2021)
+vom 15.12.2020 (Stand 21.01.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -29,13 +29,21 @@ als Verordnung:[^ingress-2]
 [^ingress-1]: sGS [111.1](https://www.gesetzessammlung.sg.ch/data/111.1/de).
 [^ingress-2]: In Vollzug ab 1. Januar 2021 bis 31. Dezember 2021.
 
+## I. Allgemeine Bestimmung
+
 #### Art. 1
 
 **Gegenstand**
 
-<sup>1</sup> Dieser Erlass regelt die Ausgestaltung der Härtefallmassnahmen des Kantons St.Gallen auf Grundlage der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^1-1] (nachfolgend Covid-19-Härtefallverordnung).
+<sup>1</sup> Dieser Erlass regelt:
 
-[^1-1]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
+- a) die Ausgestaltung der Härtefallmassnahmen des Kantons St.Gallen auf Grundlage des Bundesgesetzes über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie vom 25. September 2020[^1-1] (nachfolgend Covid-19-Gesetz) und der eidgenössischen Verordnung über Härtefallmassnahmen für Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 25. November 2020[^1-2] (nachfolgend Covid-19-Härtefallverordnung);
+- b) die Unterstützung von Seilbahnunternehmen durch Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge in Zusammenhang mit der Covid-19-Epidemie.
+
+[^1-1]: SR [818.102](https://db.clex.ch/link/Bund/818.102/de).
+[^1-2]: SR [951.262](https://db.clex.ch/link/Bund/951.262/de).
+
+## II. Härtefallmassnahmen
 
 #### Art. 2
 
@@ -47,38 +55,52 @@ als Verordnung:[^ingress-2]
 - b) einem zweiten Teil in der Höhe von 33,9 Mio. Franken, der zu 80 Prozent vom Bund und zu 20 Prozent vom Kanton bereitgestellt wird;
 - c) einem dritten Teil in der Höhe von 42,4 Mio. Franken, der zu 67 Prozent vom Bund und zu 33 Prozent vom Kanton bereitgestellt wird.
 
+<sup>2</sup> Vorbehalten bleiben weitere Mittel des Bundes gestützt auf Art. 12 Abs. 6 des Covid-19-Gesetzes.
+
 #### Art. 3
 
-**Anforderungen an die Unternehmen**
+**Anforderungen an die Unternehmen a) Allgemeines**
 
 <sup>1</sup> Unternehmen kann eine Härtefallmassnahme gewährt werden, wenn sie:
 
-- a) die Vorgaben nach Art. 2 bis 6 der Covid-19-Härtefallverordnung erfüllen;
+- a) die Vorgaben nach dem 2. Abschnitt der Covid-19-Härtefallverordnung erfüllen;
 - b) ihren Umsatz zu wenigstens 75 Prozent in einer Branche nach Art. 4 dieses Erlasses erzielen;
 - c) per 1. Oktober 2020 ihren Sitz im Kanton St.Gallen haben, eine operative Geschäftstätigkeit im Kanton ausüben und per 15. März 2020 Arbeitsplätze im Umfang von wenigstens 100 Stellenprozenten in der Schweiz aufweisen;
 - d) keinen Anspruch auf branchenspezifische Covid-19-Finanzhilfen des Bundes oder des Kantons St.Gallen in den Bereichen Kultur, Sport, öffentlicher Verkehr oder Medien haben;
-- e) sich am 15. März 2020 nicht in einem Betreibungsverfahren für steuerrechtliche Forderungen befinden.
+- d<sup>bis</sup>) zwischen dem 1. Januar 2019 und dem 31. Dezember 2019 nicht überschuldet waren;
+- d<sup>ter</sup>) über einen Nachweis der Überlebensfähigkeit verfügen, der glaubhaft aufzeigt, dass die Finanzierung des Unternehmens mit der Härtefallmassnahme gesichert werden kann;
+- e) sich am 15. März 2020 nicht in einem Betreibungsverfahren für steuerrechtliche Forderungen befunden haben, das nicht bereits durch eine Zahlung abgeschlossen oder für das noch keine Zahlungsplanung vereinbart werden konnte.
+
+<sup>2</sup> Keine Härtefallmassnahmen werden gewährt, wenn ein Unternehmen gegen behördliche Anordnungen zur Bekämpfung der Covid-19-Epidemie verstösst.
 
 #### Art. 4
 
-**Branchen**
+**b) behördliche Schliessung, Branchenzugehörigkeit oder Geschäftstätigkeiten mit Unternehmen aus berechtigten Branchen**
 
-<sup>1</sup> Mit den Härtefallmassnahmen können Unternehmen der folgenden Branchen unterstützt werden:
+<sup>1</sup> Mit den Härtefallmassnahmen können Unternehmen unterstützt werden, die:
 
-- a) Gastronomie;
-- b) Hotellerie;
-- c) Reisen und Tourismus;
-- d) Märkte und Messen;
-- e) Freizeit und Veranstaltungen;
-- f) Tierparks.
+- a) im Sinn von Art. 5b der Covid-19-Härtefallverordnung als behördlich geschlossen gelten;
+- b) von einem Umsatzrückgang nach Art. 5 der Covid-19-Härtefallverordnung betroffen sind und insbesondere den folgenden Branchen angehören:
+  - 1\. Gastronomie;
+  - 2\. Hotellerie;
+  - 3\. Reisen und Tourismus;
+  - 4\. Märkte und Messen;
+  - 5\. Freizeit und Veranstaltungen;
+  - 6\. Tierparks.
+- c) …
+- d) …
+- e) …
+- f) …
 
-<sup>2</sup> Massgebend für die Zuordnung eines Unternehmens zu einer Branche ist der NOGA-Code der Allgemeinen Systematik der Wirtschaftszweige des Bundesamtes für Statistik. Die Regierung legt die NOGA-Codes fest, die zu einer Unterstützung berechtigen.
+<sup>2</sup> Massgebend für die Zuordnung eines Unternehmens nach Abs. 1 Bst. b dieser Bestimmung zu einer Branche ist der NOGA-Code der Allgemeinen Systematik der Wirtschaftszweige des Bundesamtes für Statistik. Die Regierung legt die NOGA-Codes fest, die zu einer Unterstützung berechtigen.
+
+<sup>3</sup> Anderen Unternehmen können Härtefallmassnahmen gewährt werden, wenn sie einen Umsatzrückgang nach Art. 5 der Covid-19-Härtefallverordnung erlitten haben und nachweisen, dass dieser zu mehr als 75 Prozent auf ausgebliebene Geschäftstätigkeiten mit Unternehmen nach Abs. 1 dieser Bestimmung zurückzuführen ist.
 
 #### Art. 5
 
 **Formen der Härtefallmassnahmen**
 
-<sup>1</sup> Die Härtefallmassnahmen können im Rahmen der Höchstgrenzen nach Art. 8 Abs. 1 bis 4 der Covid-19-Härtefallverordnung gewährt werden in Form von:
+<sup>1</sup> Die Härtefallmassnahmen können im Rahmen der Höchstgrenzen der Covid-19-Härtefallverordnung gewährt werden in Form von:
 
 - a) Solidarbürgschaften;
 - b) nicht rückzahlbaren Beiträgen;
@@ -187,5 +209,30 @@ als Verordnung:[^ingress-2]
 - b) vollzieht diesen Erlass sowie die Covid-19-Härtefallverordnung, soweit der Kanton zuständig ist und dieser Erlass keine andere Regelung trifft.
 
 [^16-1]: Vgl. Art. 18 der Covid-19-Härtefallverordnung.
+
+#### Art. 17
+
+**Übergangsbestimmung des II. Nachtrags vom 19. Januar 2021**
+
+<sup>1</sup> Auf Gesuche für Härtefallmassnahmen, die bei Vollzugsbeginn dieses Nachtrags hängig sind, werden die Bestimmungen der Verordnung über die wirtschaftliche Unterstützung von Unternehmen in Zusammenhang mit der Covid-19-Epidemie vom 15. Dezember 2020 in der Fassung gemäss diesem Nachtrag angewendet.
+
+## III. Unterstützung von Seilbahnunternehmen
+
+#### Art. 18
+
+**Darlehen, Solidarbürgschaften und nicht rückzahlbare Beiträge**
+
+<sup>1</sup> Die Regierung kann in Zusammenhang mit der Covid-19-Epidemie Seilbahnunternehmen Darlehen, Solidarbürgschaften oder nicht rückzahlbare Beiträge gewähren. Die Voraussetzungen nach Art. 3 dieses Erlasses werden sachgemäss angewendet, mit Ausnahme der Voraussetzung des Umsatzrückgangs.
+
+<sup>2</sup> Höhe und Modalitäten der Unterstützung richten sich sachgemäss nach Art. 5 bis 9 dieses Erlasses.
+
+<sup>3</sup> Die Standortgemeinden beteiligen sich mit einem Anteil von 40 Prozent an nicht rückzahlbaren Beiträgen nach Abs. 1 dieser Bestimmung. Bei mehreren Standortgemeinden richtet sich das Verhältnis nach der Anzahl Einwohnerinnen und Einwohner per 31. Dezember 2020.
+
+<sup>4</sup> Die Massnahmen nach dieser Bestimmung:
+
+- a) führen zulasten des Kantons zu Kosten von höchstens 6 Mio. Franken;
+- b) sind gegenüber jenen nach Abschnitt II dieses Erlasses und jenen des Bundes subsidiär.
+
+<sup>5</sup> Die Finanzierung erfolgt aus dem besonderen Eigenkapital.
 
 nGS 2020-122
