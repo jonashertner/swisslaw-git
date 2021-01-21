@@ -4,11 +4,11 @@ title: Ordonnance du 11 novembre 2020 sur la protection civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: fr
-version: 2021-01-01
+version: 2021-01-22
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210122/fr/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210122-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210101/fr"
 
 (OPCi)
 
-du 11 novembre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 11 novembre 2020 (Etat le 22 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -628,9 +628,11 @@ Le canton dans lequel se déroule l’intervention doit prouver qu’il dispose 
 
 **Versement d’une part du bénéfice au Fonds de compensation du régime des allocations pour perte de gain**
 
-<sup>1</sup> Si la manifestation permet au demandeur de réaliser un bénéfice, il doit en verser une part appropriée au Fonds de compensation du régime des allocations pour perte de gain. Il fournit sur demande à l’OFPP le décompte final de la manifestation.
+<sup>1</sup> Si la manifestation permet au demandeur de réaliser un bénéfice considérable, il doit en verser une part appropriée au Fonds de compensation du régime des allocations pour perte de gain. Il fournit sur demande à l’OFPP le décompte final de la manifestation.[^52-1]
 
 <sup>2</sup> Le montant à verser correspond au maximum à la somme versée au titre de l’allocation pour perte de gain aux personnes astreintes engagées.
+
+[^52-1]: Erratum du 22 janv. 2021 ([RO 2021 27](https://fedlex.data.admin.ch/eli/oc/2021/27)).
 
 #### Art. 53
 

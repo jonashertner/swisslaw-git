@@ -4,11 +4,11 @@ title: Ordinanza sulla protezione civile (OPCi)
 short: OPCi
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/888"
 language: it
-version: 2021-01-01
+version: 2021-01-22
 adopted: 2020-11-11
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/888/20210122/it/xml/fedlex-data-admin-ch-eli-cc-2020-888-20210122-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/888/20210101/it"
 
 (OPCi)
 
-dell’11 novembre 2020 (Stato 1° gennaio 2021)
+dell’11 novembre 2020 (Stato 22 gennaio 2021) (Stato 22 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -631,9 +631,11 @@ Gli interventi di pubblica utilità possono essere prestati quando:
 
 **Versamento di una parte dell’introito al fondo di compensazione dell’ordinamento delle indennità di perdita di guadagno**
 
-<sup>1</sup> Se l’evento gli permette di conseguire un cospicuo introito, il richiedente è tenuto a versare una parte adeguata dello stesso al fondo di compensazione dell’ordinamento delle indennità di perdita di guadagno. Su relativa richiesta presenta il conteggio finale dell’evento all’UFPP.
+<sup>1</sup> Se l’evento gli permette di conseguire un cospicuo introito, il richiedente è tenuto a versare una parte adeguata dello stesso al fondo di compensazione dell’ordinamento delle indennità di perdita di guadagno. Su relativa richiesta presenta il conteggio finale dell’evento all’UFPP.[^52-1]
 
 <sup>2</sup> L’importo da versare corrisponde al massimo alla somma delle indennità di perdita di guadagno versate ai militi della protezione civile impiegati conformemente all’ordinamento delle indennità di perdita di guadagno.
+
+[^52-1]: La correzione del 22 gen. 2021 concerne soltanto il testo francese ([RU 2021 27](https://fedlex.data.admin.ch/eli/oc/2021/27)).
 
 #### Art. 53
 
