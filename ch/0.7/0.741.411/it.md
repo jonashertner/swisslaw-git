@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accordo del 20 marzo 1958 concernente l'adozione di regolamenti tecnici armonizzati delle Nazioni Unite per i veicoli a ruote, gli equipaggiamenti e i pezzi che possono essere installati o usati in veicoli a ruote, nonché le condizioni per il riconoscimento reciproco di omologazioni concesse sulla base di tali regolamenti delle Nazioni Unite (con R e All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: it
-version: 2020-03-06
+version: 2021-01-22
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20200306/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20200306-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20200306/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210122/it/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210122-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210122/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -34,7 +34,7 @@ Emendamenti adottati il 25 settembre 2015
 
 Entrata in vigore il 14 settembre 2017
 
-(Stato 6 marzo 2020)
+(Stato 22 gennaio 2021)
 
 [^t-1]: RU **2017** 5085 RU **1973** 1465
 
@@ -652,7 +652,7 @@ Allegato 3
 - 2\.7 La conferma o il rifiuto della modifica dell’omologazione di tipo ONU, con indicazione dei cambiamenti apportati, è notificata alle Parti contraenti dell’Accordo del 1958 che applicano regolamenti ONU a mezzo di una scheda di comunicazione. L’indice dei documenti informativi e delle relazioni di prova annessi al documento di comunicazione è modificato di conseguenza in modo che sia indicata la data della revisione o dell’estensione più recente.
 - 2\.8 L’autorità di omologazione che concede l’estensione dell’omologazione aggiorna il numero di omologazione con un numero di estensione progressivo aumentato in funzione del numero di estensioni successive già concesse conformemente all’allegato 4 dell’Accordo del 1958 ed elabora quindi una scheda di comunicazione riveduta contrassegnata con tale numero di estensione.
 
-Allegato 4*[^t-2]*
+Allegato 4[^t-2]
 
 ## Numerazione delle omologazioni di tipo ONU
 
@@ -807,7 +807,7 @@ Allegato 8
 - Il costruttore fornisce inoltre un’assistenza appropriata all’autorità di omologazione o al servizio tecnico.
 - L’accesso e l’assistenza offerti al servizio tecnico non esimono quest’ultimo dagli obblighi che gli incombono in materia di competenze del personale, pagamento dei diritti di licenza e rispetto della riservatezza.
 
-Campo d’applicazione dell’Accordo del 23 gennaio 2020**[^t-3]**
+Campo d’applicazione dell’Accordo del 22 gennaio 2021**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -845,6 +845,7 @@ Campo d’applicazione dell’Accordo del 23 gennaio 2020**[^t-3]**
 <tr><td>Norvegia</td><td>3 febbraio</td><td>1975 A</td><td>4 aprile</td><td>1975</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>27 novembre</td><td>2001 A</td><td>26 gennaio</td><td>2002</td></tr>
 <tr><td>Paesi Bassi</td><td>30 giugno</td><td>1960</td><td>29 agosto</td><td>1960</td></tr>
+<tr><td>Pakistan</td><td>24 febbraio</td><td>2020 A</td><td>24 aprile</td><td>2020</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>12 gennaio</td><td>1979 A</td><td>13 marzo</td><td>1979</td></tr>
 <tr><td>Portogallo</td><td>29 gennaio</td><td>1980 A</td><td>29 marzo</td><td>1980</td></tr>
 <tr><td>Regno Unito</td><td>15 gennaio</td><td>1963 A</td><td>16 marzo</td><td>1963</td></tr>
@@ -867,13 +868,13 @@ Campo d’applicazione dell’Accordo del 23 gennaio 2020**[^t-3]**
 <tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell'Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468), [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767), [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673), [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185), **1996** 2170, [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180), [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603), [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620)e [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.eda.admin.ch &gt; Politica estera &gt; Diritto internazionale pubblico &gt; Trattati internazionali).
+[^t-3]: [RU 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty
 
 Regolamenti*[^t-4]*
 
 ## Regolamento n. 0 allegato all’accordo
 
-[^t-4]: Il testo dei R e dei loro campi d’applicazione non sono pubblicati nella RU. Possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: www.unece.org/trans/main/wp29/wp29regs.html, (reg.) www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html, (campi) o richiesti all’Ufficio federale delle strade, 3003 Berna. ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458), [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444), [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85)e [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)).
+[^t-4]: Il testo dei R e dei loro campi d’applicazione non sono pubblicati nella RU. Possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite: www.unece.org/trans/main/wp29/wp29regs.html, (reg.) www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html, (campi) o richiesti all’Ufficio federale delle strade, 3003 Berna. ([RU 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)).
 
 Prescrizioni uniformi per quanto concerne il systema di omologazione internazionale dei veicoli completi
 
@@ -999,7 +1000,7 @@ Prescrizioni uniformi relative:
 
 **I. all’omologazione dei motori ad accensione per compressione (motori Diesel) per quanto riguarda l’emissione di materie inquinanti l’aria visibili;**
 
-**II. all’omologazione dei veicoli a motore concernente l’installazione di un** **mot****o****re** **ad accensione per compressione (motore Diesel) di tipo omologato;**
+**II. all’omologazione dei veicoli a motore concernente l’installazione di un** **motore** **ad accensione per compressione (motore Diesel) di tipo omologato;**
 
 **III. all’omologazione dei veicoli a motore muniti di un motore ad accensione per compressione (motore Diesel) per quanto riguarda l’emissione di materie inquinanti dal motore (motori Diesel);**
 
@@ -1115,7 +1116,7 @@ Prescrizioni uniformi relative all’omologazione:
 
 **I. dei dispositivi per la protezione posteriore;**
 
-**II. dei veicoli concernente il montaggio di dispositivi per la protezione;** **posteri****o****re** **di tipo omologato;**
+**II. dei veicoli concernente il montaggio di dispositivi per la protezione;** **posteriore** **di tipo omologato;**
 
 **III. dei veicoli concernenti la loro protezione posteriore.**
 
@@ -1303,9 +1304,9 @@ Applicato dalla Svizzera dal 23 giugno 1998
 
 Condizioni unitarie per l’omologazione di:
 
-**I. parti di costruzione speciali per veicoli a motore nel cui sistema di** **propulsi****o****ne viene impiegato gas naturale compresso (GNC);**
+**I. parti di costruzione speciali per veicoli a motore nel cui sistema di** **propulsione viene impiegato gas naturale compresso (GNC);**
 
-**II. veicoli comprendenti l’installazione di parti di costruzione speciali di un** **tipo omologato per l’impiego di gas naturale compresso (GNC) nel suo sistema di pr****o****pulsione.**
+**II. veicoli comprendenti l’installazione di parti di costruzione speciali di un** **tipo omologato per l’impiego di gas naturale compresso (GNC) nel suo sistema di propulsione.**
 
 Applicato dalla Svizzera dal 28 dicembre 2000
 
@@ -1335,7 +1336,7 @@ Prescrizioni uniformi concernenti l’approvazione:
 
 **II. della sostituzione di volante equipaggiato con un airbag di tipo omologato;**
 
-**III. della sostituzione di un sistema airbag diverso da quello installato sul** **vola****n****te****.**
+**III. della sostituzione di un sistema airbag diverso da quello installato sul** **volante****.**
 
 Applicato dalla Svizzera dal 1° febbraio 2003
 
@@ -1343,9 +1344,9 @@ Applicato dalla Svizzera dal 1° febbraio 2003
 
 Prescrizioni uniformi relative all’omologazione di:
 
-**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destin****a****ti ad essere installati su veicoli a motore per consentire l’utilizzo di GPL nel sistema di propulsione;**
+**I. impianti specifici di trasformazione a GPL (gas di petrolio** **liquefatti) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GPL nel sistema di propulsione;**
 
-**II. impianti specifici di trasformazione a GNC (gas naturale compresso) dest****i****nati ad essere installati su veicoli a motore per consentire l’utilizzo di GNC nel sistema di propulsione.**
+**II. impianti specifici di trasformazione a GNC (gas naturale compresso) destinati ad essere installati su veicoli a motore per consentire l’utilizzo di GNC nel sistema di propulsione.**
 
 Applicato dalla Svizzera dal 30 ottobre 2003
 
@@ -1570,3 +1571,33 @@ Applicato dalla Svizzera dal 15 novembre 2019
 Prescrizioni uniformi per l’omologazione dei veicoli delle categorie M<sub>1</sub> e N<sub>1</sub> per quanto concerne il dispositivo avanzato di frenata d’emergenza (AEBS)
 
 Applicato dalla Svizzera dal 22 gennaio 2020
+
+## Regolamento n. 153 allegato all’accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda l’integrità dell’impianto di alimentazione e la sicurezza del motopropulsore elettrico in caso di tamponamento
+
+Applicato dalla Svizzera dal 22 gennaio 2021
+
+## Regolamento n. 154 allegato all’accordo
+
+Disposizioni uniformi relative all’omologazione delle autovetture e dei veicoli commerciali leggeri per quanto riguarda le emissioni di riferimento, le emissioni di diossido di carbonio e il consumo di carburante e/o la misurazione del consumo di energia elettrica e dell’autonomia elettrica (WLTP)
+
+Applicato dalla Svizzera dal 22 gennaio 2021
+
+## Regolamento n. 155 allegato all’accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda la cibersicurezza e i sistemi di gestione della cibersicurezza
+
+Applicato dalla Svizzera dal 22 gennaio 2021
+
+## Regolamento n. 156 allegato all’accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda gli aggiornamenti del software e il relativo sistema di gestione
+
+Applicato dalla Svizzera dal 22 gennaio 2021
+
+## Regolamento n. 157 allegato all’accordo
+
+Disposizioni uniformi relative all’omologazione dei veicoli per quanto riguarda il sistema automatizzato di mantenimento della corsia
+
+Applicato dalla Svizzera dal 22 gennaio 2021

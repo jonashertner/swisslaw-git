@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Übereinkommen vom 20. März 1958 der Vereinten Nationen über die Annahme harmonisierter technischer Regelungen für Radfahrzeuge, Ausrüstungsgegenstände und Teile, die in Radfahrzeuge eingebaut oder dafür verwendet werden können, und die Bedingungen für die gegenseitige Anerkennung von Genehmigungen, die nach diesen Regelungen erteilt wurden (mit R und Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: de
-version: 2020-03-06
+version: 2021-01-22
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20200306/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20200306-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20200306/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210122/de/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210122-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210122/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1996** 2158
 
 Abgeschlossen in Genf am 20. März 1958 Geändert am 10. November 1967 Von der Bundesversammlung genehmigt um 15. März 1973[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 29. Juni 1973 In Kraft getreten für die Schweiz am 28. August 1973 Änderungen angenommen am 18. August 1994 In Kraft getreten am 16. Oktober 1995 Änderungen angenommen am 25. September 2015 In Kraft getreten am 14. September 2017
 
-(Stand am 6. März 2020)
+(Stand am 22. Januar 2021)
 
 [^t-1]: [AS 1973 1465](https://fedlex.data.admin.ch/eli/oc/1973/1465_1465_1465)
 
@@ -792,7 +792,7 @@ Anhang 8
 - Zudem muss der Hersteller die Genehmigungsbehörde sowie den technischen Dienst in geeigneter Weise unterstützen.
 - Der technische Dienst ist, auch wenn er Zugang und Unterstützung erhält, weiterhin an seine Verpflichtungen hinsichtlich der Kompetenzen seines Personals, der Zahlung von Lizenzgebühren und der Wahrung der Vertraulichkeit gebunden.
 
-Geltungsbereich des Übereinkommens am 23. Januar 2020**[^t-3]**
+Geltungsbereich des Übereinkommens am 22. Januar 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -830,6 +830,7 @@ Geltungsbereich des Übereinkommens am 23. Januar 2020**[^t-3]**
 <tr><td>Nordmazedonien</td><td>1. April</td><td>1998 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>3. Februar</td><td>1975 B</td><td>4. April</td><td>1975</td></tr>
 <tr><td>Österreich\*</td><td>12. März</td><td>1971 B</td><td>11. Mai</td><td>1971</td></tr>
+<tr><td>Pakistan</td><td>24. Februar</td><td>2020 B</td><td>24. April</td><td>2020</td></tr>
 <tr><td>Polen\*</td><td>12. Januar</td><td>1979 B</td><td>13. März</td><td>1979</td></tr>
 <tr><td>Portugal</td><td>29. Januar</td><td>1980 B</td><td>29. März</td><td>1980</td></tr>
 <tr><td>Rumänien\*</td><td>23. Dezember</td><td>1976 B</td><td>21. Februar</td><td>1977</td></tr>
@@ -852,13 +853,13 @@ Geltungsbereich des Übereinkommens am 23. Januar 2020**[^t-3]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468), [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767), [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673), [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185), **1996** 2170, [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180), [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603), [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468); [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767); [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673); [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185); **1996** 2170; [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180); [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603); [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607); [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
 
 Reglemente*[^t-4]*
 
 ## Reglement Nr. 0 zum Übereinkommen
 
-[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht. Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458), [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444), [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)).
+[^t-4]: Text und Geltungsbereich der Reglemente werden in der AS nicht veröffentlicht. Der Text kann beim Bundesamt für Strassen, 3003 Bern, bezogen oder auf der Internetseite der Vereinten Nationen eingesehen werden: www.unece.org/trans/main/wp29/wp29regs.html Der Geltungsbereich ist auf der Internetseite der Vereinten Nationen einsehbar: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([AS 2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135); [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458); [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454); [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620); [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444); [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85); [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88); [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211)).
 
 Einheitliche Vorschriften hinsichtlich die Internationale Gesamtfahrzeug-Typengenehmigung
 
@@ -1561,3 +1562,33 @@ Angewendet durch die Schweiz seit dem 15. November 2019
 Einheitliche Vorschriften für die Genehmigung von Fahrzeugen der Klassen M<sub>1</sub> und N<sub>1</sub> hinsichtlich ihres Notbrems-Assistenzsystems (AEBS)
 
 Angewendet durch die Schweiz seit dem 22. Januar 2020
+
+## Reglement Nr. 153 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Integrität des Kraftstoffversorgungssystems und der Sicherheit des elektrischen Antriebsstrangs bei einem Heckaufprall
+
+Angewendet durch die Schweiz seit dem 22. Januar 2021
+
+## Reglement Nr. 154 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Personenwagen und leichten Nutzfahrzeugen hinsichtlich der Emissionen gasförmiger Schadstoffe aus dem Motor, der Kohlendioxidemissionen und des Kraftstoffverbrauchs und/oder der Messung des elektrischen Energieverbrauchs und der elektrischen Reichweite (WLTP)
+
+Angewendet durch die Schweiz seit dem 22. Januar 2021
+
+## Reglement Nr. 155 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Cybersicherheit und des Cybersicherheits-Managementsystems
+
+Angewendet durch die Schweiz seit dem 22. Januar 2021
+
+## Reglement Nr. 156 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich der Softwareaktualisierung und des Softwareaktualisierungs- Managementsystems
+
+Angewendet durch die Schweiz seit dem 22. Januar 2021
+
+## Reglement Nr. 157 zum Übereinkommen
+
+Einheitliche Vorschriften für die Genehmigung von Fahrzeugen hinsichtlich des automatisierten Spurhaltesystems
+
+Angewendet durch die Schweiz seit dem 22. Januar 2021

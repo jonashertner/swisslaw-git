@@ -3,11 +3,11 @@ sr: "0.741.411"
 title: "Accord du 20 mars 1958 concernant l'adoption de règlements techniques harmonisé de l'ONU applicables aux véhicules à roues, aux équipements et pièces susceptibles d'être montés ou utilisés sur les véhicules à roues et les conditions de reconnaissance réciproque des homologations délivrées conformément à ces règlements (avec règlements et annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468"
 language: fr
-version: 2020-03-06
+version: 2021-01-22
 adopted: 1958-03-20
 in_force: 1973-08-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20200306/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20200306-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20200306/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/1468_1468_1468/20210122/fr/xml/fedlex-data-admin-ch-eli-cc-1973-1468_1468_1468-20210122-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/1468_1468_1468/20210122/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -36,7 +36,7 @@ Amendements adoptés le 25 septembre 2015
 
 Entrés en vigueur le 14 septembre 2017
 
-(Etat le 6 mars 2020)
+(Etat le 22 janvier 2021)
 
 [^t-1]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468)
 
@@ -846,7 +846,7 @@ Champ d’application de l’accord le 23 janvier 2020**[^t-3]**
 <tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>17 décembre</td><td>2018</td></tr>
 <tr><td>Norvège</td><td>3 février</td><td>1975 A</td><td>4 avril</td><td>1975</td></tr>
-<tr><td>Nouvelle-Zélande\*</td><td>27 novembre</td><td>2001 A</td><td>26 janvier</td><td>2002</td></tr>
+<tr><td>Nouvelle-Zélande\* Pakistan</td><td>27 novembre 24 février</td><td>2001 A 2020 A</td><td>26 janvier 24 avril</td><td>2002 2020</td></tr>
 <tr><td>Pays-Bas</td><td>30 juin</td><td>1960</td><td>29 août</td><td>1960</td></tr>
 <tr><td>Pologne\*</td><td>12 janvier</td><td>1979 A</td><td>13 mars</td><td>1979</td></tr>
 <tr><td>Portugal</td><td>29 janvier</td><td>1980 A</td><td>29 mars</td><td>1980</td></tr>
@@ -868,13 +868,13 @@ Champ d’application de l’accord le 23 janvier 2020**[^t-3]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468), [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767), [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673), [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185), **1996** 2172, [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180), [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603), [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1973 1468](https://fedlex.data.admin.ch/eli/oc/1973/1468_1468_1468), [1977 767](https://fedlex.data.admin.ch/eli/oc/1977/767_767_767), [1980 673](https://fedlex.data.admin.ch/eli/oc/1980/673_673_673), [1987 1185](https://fedlex.data.admin.ch/eli/oc/1987/1185_1185_1185), **1996** 2172, [2005 1235](https://fedlex.data.admin.ch/eli/oc/2005/180), [2007 4401](https://fedlex.data.admin.ch/eli/oc/2007/603), [2010 4213](https://fedlex.data.admin.ch/eli/oc/2010/607), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 891](https://fedlex.data.admin.ch/eli/oc/2014/193), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88). [2021 211](https://fedlex.data.admin.ch/eli/oc/2021/211). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
 
 Règlements*[^t-4]*
 
 ## Règlement n<sup>o</sup> 0 annexé à l’Accord
 
-[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO. Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29regs.html Le champ d’application peut être consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458), [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444), [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88)).
+[^t-4]: Le texte et le champ d’application des règlements suivants ne sont pas publiés au RO. Le texte peut être obtenu auprès de l’Office fédéral des routes, 3003 Berne, ou consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29regs.html Le champ d’application peut être consulté à l’adresse du site Internet des Nations Unies: www.unece.org/trans/main/wp29/wp29wgs/wp29gen/wp29fdocstts.html ([RO 2005 3765](https://fedlex.data.admin.ch/eli/oc/2005/527), [2011 891](https://fedlex.data.admin.ch/eli/oc/2011/135), [2014 2611](https://fedlex.data.admin.ch/eli/oc/2014/458), [2015 2435](https://fedlex.data.admin.ch/eli/oc/2015/454), [2016 3693](https://fedlex.data.admin.ch/eli/oc/2016/620), [2017 3793](https://fedlex.data.admin.ch/eli/oc/2017/444), [2019 477](https://fedlex.data.admin.ch/eli/oc/2019/85), [2020 495](https://fedlex.data.admin.ch/eli/oc/2020/88), **2020** 211).
 
 Prescriptions uniformes concernant un régime d’homologation de type internationale de l’ensemble du véhicule
 
@@ -1577,3 +1577,33 @@ Mis en application par la Suisse le 15 novembre 2019
 Prescriptions uniformes relatives à l’homologation des véhicules des catégories M<sub>1</sub> et N<sub>1</sub> en ce qui concerne leur système actif de freinage d’urgence
 
 Mis en application par la Suisse le 22 janvier 2020
+
+## Règlement n<sup>o</sup> 153 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne l’intégrité du système d’alimentation en carburant et la sécurité de la chaîne de traction électrique en cas de choc arrière
+
+Mis en application par la Suisse le 22 janvier 2021
+
+## Règlement n<sup>o</sup> 154 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des voitures particulières et des véhicules utilitaires légers en ce qui concerne les émissions de référence, les émissions de dioxyde de carbone et la consommation de carburant et/ou la mesure de la consommation d’énergie électrique et de l’autonomie en mode électrique (WLTP)
+
+Mis en application par la Suisse le 22 janvier 2021
+
+## Règlement n<sup>o</sup> 155 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne la cybersécurité et le système de gestion de la cybersécurité
+
+Mis en application par la Suisse le 22 janvier 2021
+
+## Règlement n<sup>o</sup> 156 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les processus de mise à jour logicielle et le système de gestion des mises à jour logicielles
+
+Mis en application par la Suisse le 22 janvier 2021
+
+## Règlement n<sup>o</sup> 157 annexé à l’Accord
+
+Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leur système automatisé de maintien dans la voie
+
+Mis en application par la Suisse le 22 janvier 2021
