@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verpflichtungskredit für die Abgeltung von Leistungen des regionalen Personenverkehrs (RPV) für die Jahre 2022-2025
 document: Vorlage
 language: de

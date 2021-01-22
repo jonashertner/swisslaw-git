@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Credito d'impegno destinato a indennizzare l'offerta di trasporto del traffico regionale viaggiatori (TRV) negli anni 2022-2025"
 document: Avamprogetto
 language: it

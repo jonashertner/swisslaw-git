@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Crédit d'engagement pour l'indemnisation des prestations de transport régional de voyageurs (TRV) pour les années 2022 à 2025"
 document: Projet
 language: fr
