@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-01-21
+version: 2021-01-23
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210121/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210121-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210123/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210123-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210121/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 21 gennaio 2021) (Stato 21 gennaio 2021)
+del 19 giugno 2020 (Stato 23 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -265,14 +265,13 @@ Le strutture culturali, ricreative, per il tempo libero e sportive accessibili a
 
   le strutture sportive e per il benessere, segnatamente centri sportivi e palestre, piste di pattinaggio e piscine, esclusi:
 
-  - 1\.[^5d-2] i comprensori sciistici e altri impianti all’aperto in spazi non delimitati,
+  - 1\. i comprensori sciistici e altri impianti all’aperto,
   - 2\. gli impianti per l’equitazione,
   - 3\. gli impianti negli alberghi a condizione che siano accessibili ai soli ospiti dell’albergo.
 
 <sup>2</sup> Resta ammessa l’utilizzazione delle strutture culturali e sportive per le attività con bambini e giovani fino al compimento dei 16 anni.
 
 [^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
-[^5d-2]: Correzione del 21 gen. 2021 ([RU 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)).
 
 #### Art. 5e
 
@@ -652,7 +651,7 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 [^15-2]: Introdotto dal n. I dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni)([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 4 cpv. 3 e 5 cpv. 1)
 
@@ -762,7 +761,7 @@ Allegato 2*[^t-2]*
 
 ## Generi alimentari e altri beni di prima necessità e di uso corrente
 
-[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Le correzioni del 20 gen. 2021 ([RU 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)) e del 21 gen. 2021 ([RU 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)) concernono soltanto il testo francese.
+[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
 ### 1. Generi alimentari
 
