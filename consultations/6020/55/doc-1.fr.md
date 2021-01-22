@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur l'armée et de l'ordonnance sur l'organisation de l'armée"
 document: Projet 1
 language: fr

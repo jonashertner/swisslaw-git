@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge militare e dell'organizzazione dell'esercito"
 document: Avamprogetto 2
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Militärgesetzes und der Armeeorganisation
 document: Vorlage 2
 language: de
