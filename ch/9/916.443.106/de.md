@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-DS-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: de
-version: 2021-01-01
+version: 2021-01-23
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210123/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210123-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210123/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/de"
 
 (EDAV-DS-EDI)
 
-vom 18. November 2015 (Stand am 1. Januar 2021) (Stand am 1. Januar 2021)
+vom 18. November 2015 (Stand am 23. Januar 2021) (Stand am 23. Januar 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -153,7 +153,7 @@ Anhang 1*[^t-1]*
 
 ## Massgebende Erlasse der EU über die harmonisierten Ein- und Durchfuhrbedingungen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 31. Okt. 2016 ([AS 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Juni 2017 ([AS 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), vom 29. Dez. 2017 ([AS 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), vom 27. Sept. 2018 ([AS 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 25. Juli 2019 ([AS 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), vom 22. Aug. 2019 ([AS 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), vom 12. Nov. 2019 ([AS 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 23. Dez. 2019 ([AS 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 26. Nov. 2020 ([AS 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)) und vom 30. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)).
+[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 21. Dez. 2015 ([AS 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), vom 14. Jan. 2016 ([AS 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), vom 27. Mai 2016 ([AS 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), vom 11. Okt. 2016 ([AS 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), vom 31. Okt. 2016 ([AS 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), vom 3. Nov. 2016 ([AS 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), vom 30. Jan. 2017 ([AS 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), vom 24. März 2017 ([AS 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), vom 27. Juni 2017 ([AS 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), vom 29. Dez. 2017 ([AS 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), vom 27. Sept. 2018 ([AS 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), vom 27. März 2019 ([AS 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), vom 27. Juni 2019 ([AS 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), vom 25. Juli 2019 ([AS 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), vom 22. Aug. 2019 ([AS 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), vom 12. Nov. 2019 ([AS 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), vom 18. Nov. 2019 ([AS 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), vom 19. Dez. 2019 ([AS 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), vom 23. Dez. 2019 ([AS 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), vom 5. März 2020 ([AS 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), Ziff. I Abs. 1 der V des BLV vom 13. Juli 2020 ([AS 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), Ziff. I der V des BLV vom 26. Nov. 2020 ([AS 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), vom 21. Dez. 2020 ([AS 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), vom 30. Dez. 2020 ([AS 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)) und vom 21. Jan. 2021, in Kraft seit 23. Jan. 2021 ([AS 2021 32](https://fedlex.data.admin.ch/eli/oc/2021/32)).
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
@@ -204,7 +204,7 @@ Anhang 1*[^t-1]*
 <tr><td>46. Entscheidung 2008/636/EG</td><td>Entscheidung 2008/636/EG der Kommission vom 22. Juli 2008 zur Festlegung der Liste von Drittländern, aus denen die Mitgliedstaaten Einfuhren von Eizellen und Embryonen von Schweinen zulassen, Fassung gemäss ABl. L 206 vom 2.8.2008, S. 32.</td></tr>
 <tr><td>47. ...</td><td></td></tr>
 <tr><td>48. Entscheidung 2008/698/EG</td><td>Entscheidung 2008/698/EG der Kommission vom 8. August 2008 über die vorübergehende Zulassung und die Einfuhr registrierter Pferde aus Südafrika in die Gemeinschaft, Fassung gemäss ABl. L 235 vom 2.9.2008, S. 16.</td></tr>
-<tr><td>49. Verordnung (EG) Nr. 798/2008</td><td>Verordnung (EG) Nr. 798/2008 der Kommission vom 8. August 2008 zur Erstellung einer Liste von Drittländern, Gebieten, Zonen und Kompartimenten, aus denen die Einfuhr von Geflügel und Geflügel-erzeugnissen in die Gemeinschaft und ihre Durchfuhr durch die Gemeinschaft zugelassen ist, und zur Festlegung der diesbezüglichen Veterinärbescheinigungen, ABl. L 226 vom 23.8.2008, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2205, ABl. L 438 vom 28.12.2020, S. 11.</td></tr>
+<tr><td>49. Verordnung (EG) Nr. 798/2008</td><td>Verordnung (EG) Nr. 798/2008 der Kommission vom 8. August 2008 zur Erstellung einer Liste von Drittländern, Gebieten, Zonen und Kompartimenten, aus denen die Einfuhr von Geflügel und Geflügel-erzeugnissen in die Gemeinschaft und ihre Durchfuhr durch die Gemeinschaft zugelassen ist, und zur Festlegung der diesbezüglichen Veterinärbescheinigungen, ABl. L 226 vom 23.8.2008, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2021/24, ABl. L 11 vom 14.1.2021, S. 1.</td></tr>
 <tr><td>50. ...</td><td></td></tr>
 <tr><td>51. Entscheidung 2008/946/EG</td><td>Entscheidung 2008/946/EG der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates in Bezug auf Quarantänevorschriften für Tiere in Aquakultur, Fassung gemäss ABl. L 337 vom 16.12.2008, S. 94.</td></tr>
 <tr><td>52. Verordnung (EG) Nr. 1251/2008</td><td>Verordnung (EG) Nr. 1251/2008 der Kommission vom 12. Dezember 2008 zur Durchführung der Richtlinie 2006/88/EG des Rates hinsichtlich der Bedingungen und Bescheinigungsvorschriften für das Inverkehrbringen und die Einfuhr in die Gemeinschaft von Tieren in Aquakultur und Aquakulturerzeugnissen sowie zur Festlegung einer Liste von Überträgerarten, ABl. L 337 vom 16.12.2008, S. 41; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2202, ABl. L 438 vom 28.12.2020, S. 1.</td></tr>

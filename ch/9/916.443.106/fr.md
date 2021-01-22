@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: fr
-version: 2021-01-01
+version: 2021-01-23
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210123/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210123-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210123/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210101/fr"
 
 (OITE-PT-DFI)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 novembre 2015 (Etat le 23 janvier 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -153,7 +153,7 @@ Annexe 1*[^t-1]*
 
 ## Actes législatifs de l’UE relatifs aux conditions d’importation et de transit harmonisées
 
-[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 31 oct. 2016 ([RO 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 juin 2017 ([RO 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), du 29 déc. 2017 ([RO 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 25 juil. 2019 ([RO 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), du 22 août 2019 ([RO 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), du 12 nov. 2019 ([RO 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)),du 23 déc. 2019 ([RO 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) et le ch. I des O de l’OSAV du 26 nov. 2020 ([RO 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)) et du 30 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)).
+[^t-1]: Mise à jour par le ch. I des O de l’OSAV du 21 déc. 2015 ([RO 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), du 14 janv. 2016 ([RO 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), du 27 mai 2016 ([RO 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), du 11 oct. 2016 ([RO 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), du 31 oct. 2016 ([RO 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), du 3 nov. 2016 ([RO 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), du 30 janv. 2017 ([RO 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), du 24 mars 2017 ([RO 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), du 27 juin 2017 ([RO 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), du 29 déc. 2017 ([RO 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), du 27 sept. 2018 ([RO 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), du 27 mars 2019 ([RO 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), du 27 juin 2019 ([RO 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), du 25 juil. 2019 ([RO 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), du 22 août 2019 ([RO 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), du 12 nov. 2019 ([RO 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), du 18 nov. 2019 ([RO 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), du 19 déc. 2019 ([RO 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)),du 23 déc. 2019 ([RO 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), du 5 mars 2020 ([RO 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), le ch. I al. 1 de l’O de l’OSAV du 13 juil. 2020 ([RO 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)) et le ch. I des O de l’OSAV du 26 nov. 2020 ([RO 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), du 21 déc. 2020 ([RO 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), du 30 déc. 2020 ([RO 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)) et du 21 janv. 2021, en vigueur depuis le 23 janv. 2021 ([RO 2021 32](https://fedlex.data.admin.ch/eli/oc/2021/32)).
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et de l’acte modificateur</th></tr>
@@ -204,7 +204,7 @@ Annexe 1*[^t-1]*
 <tr><td>46. Décision 2008/636/CE</td><td>Décision 2008/636/CE de la Commission du 22 juillet 2008 établissant la liste des pays tiers en provenance desquels les États membres autorisent les importations d’ovules et d’embryons de l’espèce porcine, version du JO L 206 du 2.8.2008, p. 32</td></tr>
 <tr><td>47. ...</td><td></td></tr>
 <tr><td>48. Décision 2008/698/CE</td><td>Décision 2008/698/CE de la Commission du 8 août 2008 concernant l’admission temporaire et les importations dans la Communauté de chevaux enregistrés en provenance d’Afrique du Sud, version du JO L 235 du 2.9.2008, p. 16</td></tr>
-<tr><td>49. Règlement (CE) n<sup>o</sup> 798/2008</td><td>Règlement (CE) no 798/2008 de la Commission du 8 août 2008 établissant une liste des pays tiers, territoires, zones ou compartiments en provenance desquels les volailles et les produits de volailles peuvent être importés dans la Communauté et transiter par celle-ci ainsi que les règles en matière de certification vétérinaire, JO L 226 du 23.8.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2205, JO L 438 du 28.12.2020, p. 11</td></tr>
+<tr><td>[tab] 49. Règlement (CE) n<sup>o</sup> 798/2008</td><td>Règlement (CE) n<sup>o</sup> 798/2008 de la Commission du 8 août 2008 établissant une liste des pays tiers, territoires, zones ou compartiments en provenance desquels les volailles et les produits de volailles peuvent être importés dans la Communauté et transiter par celle-ci ainsi que les règles en matière de certification vétérinaire, JO L 226 du 23.8.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/24, JO L 11 du 14.1.2021, p. 1</td></tr>
 <tr><td>50. ...</td><td></td></tr>
 <tr><td>51. Décision 2008/946/CE</td><td>Décision 2008/946/CE de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les exigences liées à la mise en quarantaine d’animaux d’aquaculture, JO L 337 du 16.12.2008, p. 94</td></tr>
 <tr><td>52. Règlement (CE) n<sup>o</sup> 1251/2008</td><td>Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices, JO L 337 du 16.12.2008, p. 41; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2202, JO L 438 du 28.12.2020, p. 1</td></tr>
