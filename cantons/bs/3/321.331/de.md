@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-01-04
-valid_until: 2021-01-22
-version_adopted: 2020-12-30
+version: 2021-01-23
+valid_until: 2021-02-28
+version_adopted: 2021-01-19
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5146/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 3. November 2020 (Stand 4. Januar 2021)
+Vom 3. November 2020 (Stand 23. Januar 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -72,6 +72,8 @@ beschliesst:
 
 <sup>2</sup> Zulässig ist die Nutzung von Turnhallen und Hallenbädern einschliesslich der Garderoben für Schülerinnen und Schüler der Primarstufe für den obligatorischen und freiwilligen Schulsport sowie die Nutzung von Turnhallen ohne Garderoben für Schülerinnen und Schüler der Sekundarstufe für alternativen Unterricht.
 
+<sup>2<sup>bis</sup></sup> Zulässig ist die Nutzung von Turnhallen, Hallenbädern, Tanzstudios, Eissportanlagen und Innenräumen von sonstigen Sportanlagen einschliesslich der Garderoben für ausserschulische Sportaktivitäten von Kindern und Jugendlichen vor ihrem 16. Geburtstag in festen Gruppen bis zu 15 Personen.
+
 <sup>3</sup> Abs. 1 gilt nicht für Trainingsaktivitäten und Wettkämpfe beziehungsweise Wettkampfspiele gemäss Art. 6e Abs. 1 lit. c und d Covid-19-Verordnung besondere Lage sowie für Prüfungen zur Erlangung eines Studien- oder Lehrabschlusses bei Bildungsgängen im Bereich Sport, Tanz, Bewegung und Gesundheit.
 
 #### § 3b
@@ -103,12 +105,12 @@ beschliesst:
 
 **Strafbestimmung**
 
-<sup>1</sup> Wer als Betreiberin bzw. Betreiber oder Organisatorin bzw. Organisator die §§ 2 – 3b verletzt, wird gemäss Art. 83 Abs. 1 lit. j EpG mit Busse bestraft.
+<sup>1</sup> Wer als Betreiberin bzw. Betreiber oder Organisatorin bzw. Organisator die §§ 2 - 3b verletzt, wird gemäss Art. 83 Abs. 1 lit. j EpG mit Busse bestraft.
 
 *Schlussbestimmung*
 
-Diese Verordnung ist zu publizieren; sie tritt am 4. November 2020 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung zusätzliche Massnahmen) vom 15. Oktober 2020 aufgehoben. § 3 gilt befristet bis zum 31. Dezember 2020.[^footer-1] § 4 gilt befristet bis zum 17. Januar 2021.
+Diese Verordnung ist zu publizieren; sie tritt am 4. November 2020 in Kraft. Auf den gleichen Zeitpunkt wird die Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung zusätzliche Massnahmen) vom 15. Oktober 2020 aufgehoben. § 3 gilt befristet bis zum 31. Dezember 2020. § 4 gilt befristet bis zum 17. Januar 2021[^footer-1].
 
 KB 04.11.2020
 
-[^footer-1]: Die Befristung wird neu bis 22. Januar 2021 festgelegt (RRB vom 15.12.2020, KB 19.12.2020)
+[^footer-1]: Die Befristung für die §§ 3 - 4 wird neu bis 28. Februar 2021 festgelegt (RRB vom 19.01.2021, KB 20.01.2021)
