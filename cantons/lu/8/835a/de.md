@@ -4,13 +4,13 @@ number: 835a
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: VCov19
 language: de
-version: 2020-12-22
-valid_until: 2021-01-22
-version_adopted: 2020-12-21
+version: 2021-01-23
+valid_until: 2021-02-28
+version_adopted: 2021-01-19
 adopted: 2021-12-03
 in_force: 2021-12-06
 url: "https://srl.lu.ch/app/de/texts_of_law/835a"
-pdf: "https://srl.lu.ch/api/de/versions/3682/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3711/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3682/pdf_file"
 
 (VCov19)
 
-vom 13.10.2020 (Stand 22.12.2020)
+vom 13.10.2020 (Stand 23.01.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -152,9 +152,7 @@ beschliesst:
 
 #### § 8a
 
-**Homeoffice**
-
-<sup>1</sup> Die Arbeitgeberinnen und Arbeitgeber sorgen dafür, dass die Arbeitnehmerinnen und Arbeitnehmer ihre Arbeitsverpflichtungen so weit als möglich von zu Hause aus erfüllen.
+**…**
 
 ## 4 Schlussbestimmungen
 
@@ -172,6 +170,6 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>2<sup>bis</sup></sup> Die §§ 2a, 3, 3a. 4a, 5, 5b und 8a gelten bis 22. Januar 2021.
+<sup>2<sup>bis</sup></sup> Die §§ 2a, 3a, 4a, 5 und 5b gelten bis 28. Februar 2021.
 
 K 2020 3305 | G 2020-074
