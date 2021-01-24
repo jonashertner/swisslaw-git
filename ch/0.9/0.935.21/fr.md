@@ -4,11 +4,11 @@ title: "Statuts du 27 septembre 1970 de l'Organisation mondiale du tourisme (OMT
 short: OMT
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: fr
-version: 2020-07-16
+version: 2021-01-25
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20200716/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20200716-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20200716/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210125/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210125-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210125/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument d’adoption déposé par la Suisse le 12 janvier 1976
 
 Entrés en vigueur pour la Suisse le 12 janvier 1976
 
-(Etat le 16 juillet 2020)
+(Etat le 25 janvier 2021)
 
 [^t-1]: [RO 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -331,9 +331,9 @@ Les présents Statuts entreront en vigueur cent vingt jours après que cinquante
 
 [^38-1]
 
-Les langues officielles de l’Organisation sont le français, l’anglais, l’arabe, l’espagnol et le russe.
+Les langues officielles de l’Organisation sont l’anglais, l’arabe, le chinois, l’espagnol, le français et le russe.
 
-[^38-1]: Nouvelle teneur selon la mod. du 25 sept. 1979, en vigueur depuis le 18 juin 2008 ([RO 2017 3395](https://fedlex.data.admin.ch/eli/oc/2017/370)).
+[^38-1]: Nouvelle teneur selon la D de l’Assemblée générale du 29 nov. 2007, en vigueur depuis le 25 janv. 2021 ([RO 2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121)).
 
 #### Art. 39
 
@@ -375,7 +375,7 @@ Annexe*[^t-2]*
 
 ## Règles de financement
 
-[^t-2]: Mise à jour selon la mod. de l’Assemblée générale du 29 sept. 2001, appliquée provisoirement depuis le 29 sept. 2001 ([RO 2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449)).
+[^t-2]: Mise à jour par la mod. de l’Assemblée générale du 29 sept. 2001, appliquée provisoirement depuis le 29 sept. 2001 ([RO 2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449)).
 
 \1. La période financière de l’Organisation est de deux ans.
 
@@ -439,7 +439,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>Barbade</td><td>17 septembre</td><td>2015</td><td>17 septembre</td><td>2015</td></tr>
 <tr><td>Bélarus</td><td>9 juin</td><td>2005</td><td>14 juin</td><td>2005</td></tr>
 <tr><td>Belgique</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Communauté flamande<sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
+<tr><td>[tab] Communauté flamande <sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
 <tr><td>Bénin</td><td>31 décembre</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Bhoutan</td><td>4 février</td><td>2003</td><td>19 octobre</td><td>2003</td></tr>
 <tr><td>Bolivie</td><td>21 mai</td><td>1975</td><td>21 mai</td><td>1975</td></tr>
@@ -473,7 +473,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>Équateur</td><td>11 février</td><td>1975</td><td>11 février</td><td>1975</td></tr>
 <tr><td>Érythrée</td><td>14 mars</td><td>1995</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>Espagne</td><td>4 juillet</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
-<tr><td>Eswatini</td><td></td><td></td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
+<tr><td>Eswatini</td><td>18 juin</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
 <tr><td>États-Unis</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>[tab] Porto Rico <sup>a</sup></td><td>20 mai</td><td>2002</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Éthiopie</td><td>22 mai</td><td>1975</td><td>22 mai</td><td>1975</td></tr>
@@ -587,10 +587,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>Yémen</td><td>9 mars</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Zambie</td><td>31 août</td><td>1973</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Zimbabwe</td><td>30 juin</td><td>1981</td><td>17 septembre</td><td>1981</td></tr>
-<tr><td colspan="5"><sup>a</sup> Membre associé en application de l’art. 6, par. 2.</td></tr>
-<tr><td colspan="5"><sup>b</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine.</td></tr>
-<tr><td colspan="5"><sup>c</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Membre observateur permanent et non pas un État partie au Statuts de l’Organisation mondiale du tourisme</td></tr>
+<tr><td colspan="5"><sup>a</sup> Membre associé en application de l’art. 6, par. 2. <sup>b</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>d</sup> Membre observateur permanent et non pas un État partie au Statuts de l’Organisation mondiale du tourisme</td></tr>
 </table>
 
-[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95), [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431), [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904), [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952), [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590), [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378), [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986), [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337), [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341), [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76), [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty

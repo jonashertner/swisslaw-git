@@ -4,11 +4,11 @@ title: Statuten vom 27. September 1970 der Weltorganisation für Tourismus (WTO)
 short: WTO
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: de
-version: 2020-07-16
+version: 2021-01-25
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20200716/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20200716-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20200716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210125/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210125-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210125/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -27,7 +27,7 @@ Schweizerische Annahmeerklärung hinterlegt am 12. Januar 1976
 
 In Kraft getreten für die Schweiz am 12. Januar 1976
 
-(Stand am 16. Juli 2020)
+(Stand am 25. Januar 2021)
 
 [^t-1]: [AS 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -327,9 +327,9 @@ Diese Statuten treten einhundertzwanzig Tage nach dem Zeitpunkt in Kraft, zu dem
 
 [^38-1]
 
-Die Amtssprachen der Organisation sind Französisch, Englisch, Arabisch, Spanisch und Russisch.
+Die Amtssprachen der Organisation sind Arabisch, Chinesisch, Englisch, Französisch, Russisch und Spanisch.
 
-[^38-1]: Fassung gemäss Beschluss vom 25. Sept. 1979, in Kraft seit 18. Juni 2008 ([AS 2017 3395](https://fedlex.data.admin.ch/eli/oc/2017/370)).
+[^38-1]: Fassung gemäss Beschluss der Generalversammlung vom 29. Nov. 2007, in Kraft seit 25. Jan. 2021 ([AS 2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121)).
 
 #### Art. 39
 
@@ -583,4 +583,4 @@ Geltungsbereich am 11. Juli 2017**[^t-3]**
 <tr><td colspan="11"><sup>d</sup> Der Heilige Stuhl ist ein ständiger Beobachter und nicht ein Vertragsstaat.</td></tr>
 </table>
 
-[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95), [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431),[1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904), [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952), [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590), [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378), [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986), [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337), [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341), [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76), [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

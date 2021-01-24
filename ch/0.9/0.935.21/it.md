@@ -4,11 +4,11 @@ title: "Statuti del 27 settembre 1970 dell'Organizzazione mondiale del turismo (
 short: OMT
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: it
-version: 2020-07-16
+version: 2021-01-25
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20200716/it/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20200716-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20200716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210125/it/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210125-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210125/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,15 +19,9 @@ RU **1976** 96; FF **1975** II 151
 
 Traduzione
 
-Deliberati in Messico il 27 settembre 1970
+Deliberati in Messico il 27 settembre 1970 Approvati dall’Assemblea federale il 18 dicembre 1975[^t-1] Adottati dalla Svizzera con strumento depositato il 12 gennaio 1976 Entrati in vigore per la Svizzera il 12 gennaio 1976
 
-Approvati dall’Assemblea federale il 18 dicembre 1975[^t-1]
-
-Adottati dalla Svizzera con strumento depositato il 12 gennaio 1976
-
-Entrati in vigore per la Svizzera il 12 gennaio 1976
-
-(Stato 16 luglio 2020)
+(Stato 25 gennaio 2021)
 
 [^t-1]: [RU 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -327,9 +321,9 @@ I presenti Statuti entreranno in vigore centoventi giorni dopo che cinquantuno S
 
 [^38-1]
 
-Le lingue ufficiali dell’Organizzazione sono il francese, l’inglese, l’arabo, lo spagnolo e il russo.
+Le lingue ufficiali dell’Organizzazione sono l’arabo, il cinese, il francese, l’inglese, il russo e lo spagnolo.
 
-[^38-1]: Nuovo testo giusta la mod. dell’OMT del 25 set. 1979, in vigore dal 18 giu. 2008 ([RU 2017 3395](https://fedlex.data.admin.ch/eli/oc/2017/370)).
+[^38-1]: Nuovo testo giusta la mod. dell’Assembea generale del 29 nov. 2007, in vigore dal 25 gen. 2021 ([RU 2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121)).
 
 #### Art. 39
 
@@ -413,7 +407,7 @@ Fatto a Città del Messico il 27 settembre 1970.
 <tr><td>Il Presidente dell’Assemblea generale straordinaria, Presidente dell’Unione internazionale degli organismi ufficiali del turismo: Georges Faddoul</td><td>Il Segretario generale dell’Unione internazionale degli organismi ufficiali del turismo: Robert C. Lonati</td></tr>
 </table>
 
-Campo d’applicazione il 11 luglio 2017**[^t-3]**
+Campo d’applicazione l’11 luglio 2017**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -589,4 +583,4 @@ Campo d’applicazione il 11 luglio 2017**[^t-3]**
 <tr><td colspan="5"><sup>d</sup> Membro osservatore permanente e non uno Stato parte degli Statuti dell’OMT.</td></tr>
 </table>
 
-[^t-3]: RU **1976** 96, [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431), [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904), [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952), [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590), [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378), [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986), [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337), [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341), [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76)e [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: RU **1976** 96; [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
