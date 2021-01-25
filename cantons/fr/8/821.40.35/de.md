@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Verordnung über die Massnahmen des Wiederankurbelungsplans zur Bewältigung der Auswirkungen der COVID-19-Epidemie im Zuständigkeitsbereich der Direktion für Erziehung, Kultur und Sport"
 language: de
-version: 2020-11-01
-valid_until: 2021-01-25
-version_adopted: 2020-11-24
+version: 2021-01-26
+valid_until: 2021-06-30
+version_adopted: 2021-01-26
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/de/versions/6657/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6755/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6657/pdf_file"
 
 COVID-19, Wiederankurbelungsplan – EKSD-Massnahmen – V
 
-vom 24.11.2020 (Fassung in Kraft getreten am 01.11.2020)
+vom 24.11.2020 (Fassung in Kraft getreten am 26.01.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -194,7 +194,7 @@ beschliesst:
 
 **Zielsetzung und Form der Massnahmen**
 
-<sup>1</sup> Die Massnahmen zugunsten des Kultursektors haben die Form von Ausfallentschädigungen zur Entschädigung finanzieller Einbussen im Zusammenhang mit der COVID-19-Epidemie und für Transformationsprojekte von Kulturunternehmen im Sinne von Artikel 3 Bst. a und b der COVID-19-Kulturverordnung des Bundes.
+<sup>1</sup> Die Massnahmen zugunsten des Kultursektors haben die Form von Finanzhilfen für Kulturunternehmen und für Kulturschaffende zur Entschädigung finanzieller Einbussen im Zusammenhang mit der COVID-19-Epidemie (Ausfallentschädigungen) und von Beiträgen an Transformationsprojekte von Kulturunternehmen im Sinne von Artikel 3 Abs. 1 Bst. a und b der COVID-19-Kulturverordnung des Bundes.
 
 #### Art. 18
 
@@ -227,7 +227,7 @@ beschliesst:
 
 **Verfahren und Frist für das Einreichen der Gesuche**
 
-<sup>1</sup> Die Gesuche müssen bis spätestens am 30. November 2021 über das Internetportal des Amts für Kultur spätestens eingereicht werden.
+<sup>1</sup> Die Gesuche müssen innerhalb der Zwischenfristen nach Artikel 6 Abs. 1 der COVID-19-Kulturverordnung des Bundes über das Internetportal des Amts für Kultur eingereicht werden.
 
 <sup>2</sup> Zur finanziellen Unterstützung von Transformationsprojekten kann das Amt für Kultur über Projektausschreibungen tätig werden.
 
@@ -237,11 +237,13 @@ beschliesst:
 
 #### Art. 21
 
-**Inhalt der Gesuche von Kulturunternehmen**
+**Inhalt der Gesuche**
 
 <sup>1</sup> Den Gesuchen müssen folgende Unterlagen beigefügt werden: Kopien aller anderen Unterstützungsgesuche und -entscheide (falls solche hängig sind), eine Berechnung und Belege, mit denen die Verluste im Zusammenhang mit den Massnahmen des Bundes oder des Staates zur Bekämpfung der Coronavirus-Epidemie (COVID-19) plausibel erklärt werden, ein Nachweis darüber, ob die Tätigkeit der Gesuchstellerin oder des Gesuchstellers gewinnorientiert ist oder nicht, sowie eine eidesstattliche Erklärung, in der bestätigt wird, dass die vorgelegten Informationen vollständig und wahrheitsgetreu sind.
 
 <sup>2</sup> Ausserdem müssen die Kulturunternehmen ihre letzte geprüfte oder genehmigte Jahresrechnung beilegen. Auf Verlangen des Amts für Kultur sind darüber hinaus die Jahresrechnungen der letzten vier Jahre einzureichen.
+
+<sup>3</sup> Auf Verlangen des Amts für Kultur müssen die Kulturschaffenden ihre Steuerveranlagungen der letzten zwei oder vier Jahre vorlegen.
 
 #### Art. 22
 
@@ -253,15 +255,36 @@ beschliesst:
 - b) die Direktion für die Gewährung eines Betrags zwischen 50'001 und 100'000 Franken;
 - c) der Staatsrat für die Gewährung eines Betrags von über 100'000 Franken.
 
-<sup>2</sup> Eine Finanzhilfe von über 100'000 Franken wird nur gewährt, wenn nach der Bearbeitung sämtlicher Gesuche genügend finanzielle Mittel verbleiben.
+<sup>2</sup> …
+
+#### Art. 22a
+
+**Höchstbeträge**
+
+<sup>1</sup> In besonderen Fällen kann eine Finanzhilfe von über 100'000 Franken nicht gewährt werden wegen des Vorbehalts, dass nach Bearbeitung sämtlicher Gesuche genügend finanzielle Mittel verbleiben.
+
+<sup>2</sup> Eine Finanzhilfe in Form einer Ausfallentschädigung darf bei gewinnorientierten Kulturunternehmen 750'000 Franken nicht übersteigen.
+
+#### Art. 22b
+
+**Zusätzliche kantonale Unterstützung**
+
+<sup>1</sup> Den Kulturschaffenden wird rückwirkend für die Zeit vom 1. November bis zum 18. Dezember 2020 eine Finanzhilfe für die finanziellen Einbussen im Zusammenhang mit COVID-19 gewährt.
+
+<sup>2</sup> Ausnahmsweise kann der Staat, gemäss den Kriterien in Artikel 19, Kulturunternehmen oder Kulturschaffende, welche die Anforderungen der Covid-19-Kulturverordnung des Bundes nicht erfüllen und keine Finanzhilfe nach Artikel 10 Abs. 1 der Verordnung vom 16. November 2020 über wirtschaftliche Massnahmen zur Abfederung der Auswirkungen des Coronavirus durch Beiträge für Härtefälle (WMHV-COVID-19) erhalten, unterstützen.
+
+<sup>3</sup> Diese zusätzlichen kantonalen Unterstützungsbeiträge werden aus dem Fonds nach Artikel 23 Abs. 1 Bst. b finanziert.
 
 #### Art. 23
 
 **Fonds**
 
-<sup>1</sup> Für diese Finanzhilfen wird ein Fonds geschaffen, der zur Hälfte vom Bund (Art. 11 Abs. 2 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird.
+<sup>1</sup> Für den Vollzug dieser Verordnung werden zwei Fonds geschaffen:
 
-<sup>2</sup> Der Anteil des Staates wird aus dem Wiederankurbelungsfonds, in den Schranken der vom Dekret für den Kulturbereich vorgesehenen 4'400'000 Franken, finanziert.
+- a) ein Fonds von 8'750'000 Franken für die Finanzhilfen, der zur Hälfte vom Bund (Art. 11 Abs. 3 des COVID-19-Gesetzes des Bundes) und zur Hälfte vom Staat gespiesen wird;
+- b) ein Fonds für die zusätzlichen kantonalen Unterstützungsbeiträge (Art. 22b), zu dem der Staat 25'000 Franken und die kantonale Kommission der Loterie Romande 175'000 Franken beisteuert, wobei ein allfälliger Restbetrag an diese zurückfliesst.
+
+<sup>2</sup> Der Anteil des Staates an diesen beiden Fonds wird aus dem Wiederankurbelungsfonds, mit dem Betrag von 4'400'000 für den Kulturbereich gemäss Dekret, finanziert.
 
 ## 5 Massnahmen im Bereich des Sports
 

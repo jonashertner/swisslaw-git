@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.35"
 title: "Ordonnance relative aux mesures du plan de relance pour contrer les effets du coronavirus relevant de la Direction de l'instruction publique, de la culture et du sport"
 language: fr
-version: 2020-11-01
-valid_until: 2021-01-25
-version_adopted: 2020-11-24
+version: 2021-01-26
+valid_until: 2021-06-30
+version_adopted: 2021-01-26
 adopted: 2020-11-24
 in_force: 2020-11-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.35"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6657/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6755/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6657/pdf_file"
 
 COVID-19, plan de relance – Mesures DICS – O
 
-du 24.11.2020 (version entrée en vigueur le 01.11.2020)
+du 24.11.2020 (version entrée en vigueur le 26.01.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -194,7 +194,7 @@ Arrête:
 
 **Buts et formes des mesures**
 
-<sup>1</sup> Les mesures en faveur du domaine de la culture prennent la forme d'aides financières pour les pertes en lien avec le COVID-19 et pour les projets de transformation des entreprises culturelles au sens de l'article 3 let. a et b de l'ordonnance fédérale COVID-19 dans le domaine de la culture.
+<sup>1</sup> Les mesures en faveur du domaine de la culture prennent la forme d'aides financières pour les pertes en lien avec le COVID-19 des entreprises et des acteurs culturels ainsi que pour les projets de transformation des entreprises culturelles au sens de l'article 3 al. 1 let. a et b de l'ordonnance fédérale COVID-19 culture.
 
 #### Art. 18
 
@@ -227,7 +227,7 @@ Arrête:
 
 **Procédure et délai**
 
-<sup>1</sup> Les demandes doivent être adressées au Service de la culture par le biais de son portail électronique au plus tard jusqu'au 30 novembre 2021.
+<sup>1</sup> Les demandes doivent être adressées au Service de la culture, par le biais de son portail électronique, dans le respect des délais intermédiaires fixés à l'article 6 al. 1 de l'ordonnance fédérale COVID-19 culture.
 
 <sup>2</sup> Pour les aides financières en faveur de projets de transformation, le Service de la culture peut agir par des appels à projet.
 
@@ -237,11 +237,13 @@ Arrête:
 
 #### Art. 21
 
-**Contenu des demandes des entreprises culturelles**
+**Contenu des demandes**
 
 <sup>1</sup> Les requêtes doivent être accompagnées de la copie de toutes les autres demandes et décisions de soutien (le cas échéant en cours), d'un calcul et des justificatifs rendant vraisemblable l'impact des mesures prises par la Confédération ou l'Etat pour lutter contre le COVID-19, de la preuve du caractère lucratif ou non des activités du requérant et d'une déclaration sur l'honneur confirmant que les informations fournies sont complètes et véridiques.
 
 <sup>2</sup> En outre, les entreprises culturelles sont tenues de fournir leurs derniers comptes annuels révisés ou approuvés. Sur demande du Service de la culture, elles transmettent leurs comptes annuels des quatre dernières années.
+
+<sup>3</sup> A la demande du Service de la culture, les acteurs culturels sont tenus de transmettre leurs avis de taxation des deux, voire des quatre dernières années.
 
 #### Art. 22
 
@@ -253,15 +255,36 @@ Arrête:
 - b) la Direction pour décider de l'octroi d'un montant se situant entre 50'001 et 100'000 francs;
 - c) le Conseil d'Etat pour décider de l'octroi d'un montant supérieur à 100'000 francs.
 
-<sup>2</sup> Une aide financière dépassant 100'000 francs peut n'être accordée que sous réserve de montants disponibles à l'issue du traitement de toutes les demandes.
+<sup>2</sup> …
+
+#### Art. 22a
+
+**Montants plafonds**
+
+<sup>1</sup> Dans des cas particuliers, une aide financière dépassant 100'000 francs peut n'être accordée que sous réserve de montants disponibles à l'issue du traitement de toutes les demandes.
+
+<sup>2</sup> Une aide financière sous forme d'indemnisation ne peut dépasser 750'000 francs pour les entreprises culturelles à but lucratif.
+
+#### Art. 22b
+
+**Soutiens cantonaux supplémentaires**
+
+<sup>1</sup> Une aide financière est octroyée, avec effet rétroactif, aux acteurs culturels pour les pertes en lien avec le COVID-19 subies entre le 1<sup>er</sup> novembre et le 18 décembre 2020.
+
+<sup>2</sup> Exceptionnellement, l'Etat peut, dans le respect des critères énoncés à l'article 19, soutenir des entreprises ou acteurs culturels ne remplissant pas les conditions de l'ordonnance fédérale COVID-19 culture et ne percevant pas de soutien financier au sens de l'article 10 al. 1 de l'ordonnance du 16 novembre 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur.
+
+<sup>3</sup> Ces soutiens cantonaux supplémentaires sont financés par le fonds mentionné à l'article 23 al. 1 let. b.
 
 #### Art. 23
 
 **Fonds**
 
-<sup>1</sup> Un fonds est créé pour les aides financières, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat.
+<sup>1</sup> Deux fonds sont créés pour l'application de la présente ordonnance:
 
-<sup>2</sup> La part de l'Etat est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret.
+- a) un fonds de 8'750'000 francs pour les aides financières, alimenté pour moitié par la Confédération (art. 11 al. 3 de la loi fédérale COVID-19) et pour moitié par l'Etat;
+- b) un fonds pour des soutiens cantonaux supplémentaires (art. 22b), alimenté par l'Etat à raison de 25'000 francs ainsi que par la Commission cantonale de la Loterie romande à raison de 175'000 francs, étant précisé qu'un éventuel solde lui sera restitué.
+
+<sup>2</sup> La part de l'Etat à ces deux fonds est financée par le fonds de relance, dans la limite du montant de 4'400'000 francs prévu pour le domaine de la culture par le décret.
 
 ## 5 Mesures dans le domaine du sport
 
