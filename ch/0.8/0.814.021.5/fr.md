@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Amendement au Protocole de Montréal relatif à des substances qui appauvrissent la couche d'ozone, du 15 octobre 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: fr
-version: 2020-10-28
+version: 2021-01-27
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20201028/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20201028-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20201028/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210127/fr/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210127-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210127/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Instrument de ratification déposé par la Suisse le 7 novembre 2018
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 2019
 
-(Etat le 28 octobre 2020)
+(Etat le 27 janvier 2021)
 
 Texte original
 
@@ -344,7 +344,7 @@ Toute Partie peut, à tout moment avant l’entrée en vigueur du présent Amend
 
 (Suivent les signatures)
 
-Champ d’application le 28 octobre 2020**[^t-1]**
+Champ d’application le 27 janvier 2021[^t-1]
 
 <table>
 <tr><th>états parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -352,6 +352,7 @@ Champ d’application le 28 octobre 2020**[^t-1]**
 <tr><td>Albanie</td><td>18 janvier</td><td>2019</td><td>18 avril</td><td>2019</td></tr>
 <tr><td>Allemagne</td><td>14 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Andorre</td><td>23 janvier</td><td>2019</td><td>23 avril</td><td>2019</td></tr>
+<tr><td>Angola</td><td>16 novembre</td><td>2020</td><td>14 février</td><td>2021</td></tr>
 <tr><td>Argentine</td><td>22 novembre</td><td>2019</td><td>20 février</td><td>2020</td></tr>
 <tr><td>Arménie</td><td>2 mai</td><td>2019</td><td>31 juillet</td><td>2019</td></tr>
 <tr><td>Australie</td><td>27 octobre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -366,6 +367,7 @@ Champ d’application le 28 octobre 2020**[^t-1]**
 <tr><td>Bulgarie</td><td>1<sup>er</sup> mai</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Burkina Faso</td><td>26 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Canada</td><td>3 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Cap-Vert</td><td>28 octobre</td><td>2020</td><td>26 janvier</td><td>2021</td></tr>
 <tr><td>Chili</td><td>19 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Chypre</td><td>22 juillet</td><td>2019</td><td>20 octobre</td><td>2019</td></tr>
 <tr><td>Comores</td><td>16 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -404,6 +406,7 @@ Champ d’application le 28 octobre 2020**[^t-1]**
 <tr><td>Lituanie</td><td>24 juillet</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Luxembourg</td><td>16 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Macédoine du Nord</td><td>12 mars</td><td>2020</td><td>10 juin</td><td>2020</td></tr>
+<tr><td>Malaisie</td><td>21 octobre</td><td>2020</td><td>19 janvier</td><td>2021</td></tr>
 <tr><td>Malawi</td><td>21 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Maldives</td><td>13 novembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Mali</td><td>31 mars</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -434,6 +437,7 @@ Champ d’application le 28 octobre 2020**[^t-1]**
 <tr><td>Russie</td><td>3 octobre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Rwanda</td><td>23 mai</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
 <tr><td>Samoa</td><td>23 mars</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
+<tr><td>Saint-Marin</td><td>20 octobre</td><td>2020</td><td>18 janvier</td><td>2021</td></tr>
 <tr><td>Saint-Siège\*</td><td>17 juin</td><td>2020 A</td><td>15 septembre</td><td>2020</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>4 octobre</td><td>2019</td><td>2 janvier</td><td>2020</td></tr>
 <tr><td>Sénégal</td><td>31 août</td><td>2018</td><td>1<sup>er</sup> janvier</td><td>2019</td></tr>
@@ -457,4 +461,4 @@ Champ d’application le 28 octobre 2020**[^t-1]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Amendement au Protocole de Montréal ne s’applique pas au Groenland. <sup>b</sup> L’Amendement au Protocole de Montréal ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820), [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102)[2255](https://fedlex.data.admin.ch/eli/oc/2019/425)[2663](https://fedlex.data.admin.ch/eli/oc/2019/499), [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42)[563](https://fedlex.data.admin.ch/eli/oc/2020/102)[3491](https://fedlex.data.admin.ch/eli/oc/2020/609)[3959](https://fedlex.data.admin.ch/eli/oc/2020/733)[4655](https://fedlex.data.admin.ch/eli/oc/2020/833). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820), [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102)[2255](https://fedlex.data.admin.ch/eli/oc/2019/425)[2663](https://fedlex.data.admin.ch/eli/oc/2019/499), [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42)[563](https://fedlex.data.admin.ch/eli/oc/2020/102)[3491](https://fedlex.data.admin.ch/eli/oc/2020/609)[3959](https://fedlex.data.admin.ch/eli/oc/2020/733)[4655](https://fedlex.data.admin.ch/eli/oc/2020/833)et **2021** 56. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
