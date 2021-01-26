@@ -3,11 +3,11 @@ canton: ZH
 number: "414.410.3"
 title: Weisung zur Benutzung der Bibliotheken der Pädagogischen Hochschule Zürich
 language: de
-version: "2019-09-01"
-nachtrag: "106"
-valid_until: 2021-01-26
+version: "2020-12-07"
+nachtrag: "112"
+valid_until: 2021-12-01
 adopted: 2012-10-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410_3-2012_10_24-2013_01_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_410_3-2012_10_24-2013_01_01-112.html"
 text: pdf
 ---
 
@@ -19,14 +19,15 @@ text: pdf
 
 Die Hochschulleitung,
 
-gestützt auf § 24 Abs. 2 und § 32 Abs. 1 des Fachhochschulgesetzes vom 2. April 2007[^t-3] sowie § 29 Abs. 1 der Hochschulordnung der Pädagogischen Hochschule Zürich vom 7. April 2008[^t-4],
+gestützt auf §§ 24 Abs. 2 und 32 Abs. 1 des Fachhochschulgesetzes vom 2.April 2007[^t-3] sowie § 34 der Hochschulordnung der Pädagogischen Hochschule Zürich vom 22. November 2017[^t-4],[^t-5]
 
 beschliesst:
 
-[^t-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
-[^t-2]: OS 68, 1. Begründung siehe ABl 2012-11-09.
+[^t-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
+[^t-2]: OS 68, 1; Begründung siehe ABl 2012-11-09.
 [^t-3]: LS 414.10.
 [^t-4]: LS 414.410.
+[^t-5]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
 
 ### A. Allgemeine Bestimmungen
 
@@ -42,7 +43,7 @@ beschliesst:
 
 <sup>5</sup> Die Benutzung der in die Bibliothek integrierten Einzelarbeitsräume ist Angehörigen der PHZH vorbehalten. Eine Richtlinie regelt die Einzelheiten.
 
-[^hAAllgemeineBestim-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^hAAllgemeineBestim-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 #### § 2
 
@@ -52,7 +53,7 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 **1**
 
-- 1\. 10. 19 - 106 § 3. <sup>1</sup> Störende Gespräche untereinander oder mit dem Telefon sind zu unterlassen.
+- 1\. 4. 21 - 112 § 3. <sup>1</sup> Störende Gespräche untereinander oder mit dem Telefon sind zu unterlassen.
 
 **Verhalten**
 
@@ -64,21 +65,19 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 <sup>2</sup> Die Bestände der Forschungsbibliothek sind magaziniert. Sie werden bestellt und persönlich übergeben.
 
-[^2-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^2-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 ### B. Benutzung und Ausleihe
 
-#### § 5
+**Benutzungskonto**
 
-**Einschreibung**
+§ 5.[^hBBenutzungundAus-1] <sup>1</sup> Für die Erstellung eines Benutzungskontos sind eine Switchedu-ID (switch.ch) sowie eine Registration im Bibliothekssystem der SLSP (registration.slsp.ch) notwendig.
 
-<sup>1</sup> Die Einschreibung erfolgt bei der ersten Ausleihe gegen Vorweisung eines amtlichen Ausweises oder des Studierenden- und Personalausweises (CampusCard) der PHZH.
-
-<sup>2</sup> Mit der Einschreibung wird ein persönliches Benutzungskonto eingerichtet (www.nebis.ch).[^5-1]
+<sup>2</sup> Mit der Registration wird ein persönliches Benutzungskonto eingerichtet, das die Benutzung sämtlicher der SLSP angeschlossenen Bibliotheken ermöglicht.
 
 **Benutzungsausweis**
 
-§ 6. <sup>1</sup> Als Benutzungsausweis können dienen:
+§ 6.[^hBBenutzungundAus-1] <sup>1</sup> Als Benutzungsausweis können dienen:
 
 - a. die CampusCard,
 
@@ -86,25 +85,21 @@ Die Öffnungszeiten werden von der Hochschulleitung festgelegt und öffentlich b
 
 - c. ein von der Bibliothek abgegebener persönlicher Benutzungsausweis.
 
-<sup>2</sup> Der Benutzungsausweis ist nicht übertragbar und verliert nach fünf Jahren ohne Ausleihe seine Gültigkeit.
+<sup>2</sup> Der Benutzungsausweis ist nicht übertragbar.
 
-<sup>3</sup> Änderungen der Personalien, Postanschrift oder der E-Mail-Adresse müssen im Benutzungskonto selbst vorgenommen werden.[^5-1]
+<sup>3</sup> Änderungen der Personalien, der Postanschrift oder der E-Mail-Adresse müssen bei der Switch-edu-ID selbst vorgenommen werden.
 
-<sup>4</sup> Der Verlust eines Benutzungsausweises ist umgehend zu melden.
+<sup>4</sup> Bei Verlust eines Benutzungsausweises ist dieser umgehend selbst im Bibliothekssystem zu löschen (registration.slsp.ch/register/librarycard/).
 
 <sup>5</sup> Für Schäden, die aus dem Verlust des Benutzungsausweises, insbesondere durch Missbrauch Dritter entstehen, haften die Benutzenden.
 
-[^5-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
-
-#### § 7
-
 **Medienlimite**
 
-Angehörige der PHZH können bis zu 50 Medien ausleihen. Für andere Benutzende ist die Anzahl auf 30 Medien beschränkt.
+§ 7.[^hBBenutzungundAus-1] Es dürfen bis zu 50 Medien ausgeliehen werden. Die Benutzenden sind selbst für die Einhaltung der Medienlimite zuständig und tragen das Risiko bei Überschreitung der Limite.
 
 **Ausleihe und Rückgabe**
 
-§ 8.[^7-1] <sup>1</sup> Die Ausleihe von Medien erfordert einen gültigen Benutzungsausweis.
+§ 8.[^hBBenutzungundAus-2] <sup>1</sup> Die Ausleihe von Medien erfordert einen gültigen Benutzungsausweis.
 
 <sup>2</sup> Die Benutzung von Medien in den Einzelarbeitsräumen setzt eine Ausleihe voraus.
 
@@ -112,23 +107,19 @@ Angehörige der PHZH können bis zu 50 Medien ausleihen. Für andere Benutzende 
 
 <sup>4</sup> Benutzende entnehmen die Leihfristen der ausgeliehenen Medien ihrem Benutzungskonto und sind für die fristgerechte Rückgabe verantwortlich.
 
-[^7-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
-
-#### § 9
-
 **Ausleihfristen**
 
-<sup>1</sup> Die erste feste Ausleihfrist beträgt 28 Tage, für Mitarbeitende der PHZH 56 Tage. Ein Rückruf aufgrund einer Reservation ist jeweils nach Ablauf der Frist möglich.
+§ 9.[^hBBenutzungundAus-1] <sup>1</sup> Die erste feste Ausleihfrist beträgt 28 Tage.
 
-<sup>2</sup> Die Ausleihfrist wird, sofern keine Reservation vorliegt und es sich nicht um Zeitschriften der Forschungsbibliothek Pestalozzianum handelt, zweimal um jeweils 28 Tage, für Mitarbeitende der PHZH einmal um 56 Tage automatisch verlängert. Danach kann sie, sofern weiterhin keine Reservation vorliegt, auf dem Benutzungskonto dreimal um 28 Tage, von Mitarbeitenden der PHZH einmal um 56 Tage verlängert werden.[^9-1]
+<sup>2</sup> Die Ausleihfrist wird, sofern keine Reservation vorliegt und es sich nicht um Zeitschriften der Forschungsbibliothek Pestalozzianum handelt, fünfmal um jeweils 28 Tage automatisch verlängert.
 
-**Mahnung und Ersatzbeschaffung**
+**Mahnungen und Ersatzbeschaffung**
 
-§ 10.[^9-1] Bei Ausbleiben der fristgerechten Rückgabe ergehen im Abstand von jeweils 14 Tagen drei Mahnungen. Anschliessend erfolgt eine Ersatzbeschaffung der ausstehenden Medien auf Kosten der säumigen Benutzerin oder des säumigen Benutzers.
+§ 10.[^hBBenutzungundAus-1] Bei Ausbleiben der fristgerechten Rückgabe ergehen im Abstand von jeweils sieben Tagen drei Mahnungen. Anschliessend erfolgt eine Ersatzbeschaffung der ausstehenden Medien auf Kosten der säumigen Benutzerin oder des säumigen Benutzers.
 
 **Haftung**
 
-§ 11.[^9-1] <sup>1</sup> Bei der Ausleihe sind die Medien auf ihre Vollständigkeit und ihren Zustand zu prüfen. Missstände sind den Bibliotheksmitarbeitenden umgehend zu melden.
+§ 11.[^hBBenutzungundAus-2] <sup>1</sup> Bei der Ausleihe sind die Medien auf ihre Vollständigkeit und ihren Zustand zu prüfen. Missstände sind den Bibliotheksmitarbeitenden umgehend zu melden.
 
 <sup>2</sup> Die Benutzenden sind für eine sorgfältige, sachgemässe Benutzung und Aufbewahrung sowie eine vollständige Rückgabe der Medien verantwortlich. Sie haften für sämtliche Schäden, die nicht auf eine gewöhnliche Abnutzung zurückzuführen oder durch die Post zu verantworten sind. Transportschäden sind der Post umgehend zu melden.
 
@@ -140,9 +131,10 @@ Angehörige der PHZH können bis zu 50 Medien ausleihen. Für andere Benutzende 
 
 **3**
 
-- 1\. 10. 19 - 106
+- 1\. 4. 21 - 112
 
-[^9-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^hBBenutzungundAus-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
+[^hBBenutzungundAus-2]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 ### C. Sanktionen
 
@@ -150,7 +142,7 @@ Angehörige der PHZH können bis zu 50 Medien ausleihen. Für andere Benutzende 
 
 § 12.[^hCSanktionen-1] Bei Verstössen gegen die Benutzungsordnung, namentlich ausstehenden Gebühren und zur Rückgabe fälligen Medien, oder Missachtung von Anweisungen der Bibliotheksmitarbeitenden kann die Bibliotheksleitung das Benutzungskonto vorübergehend sperren.
 
-[^hCSanktionen-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^hCSanktionen-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 #### § 13
 
@@ -162,7 +154,7 @@ Verstösse gegen die Vorgaben zur Benutzung der Einzelarbeitsräume können die 
 
 § 14.[^13-1] Wer wiederholt gegen die Benutzungsordnung verstösst, kann durch die Verwaltungsdirektorin oder den Verwaltungsdirektor von der Benutzung der Bibliotheken und der Einzelarbeitsräume ausgeschlossen werden.
 
-[^13-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^13-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 ### D. Kosten und Gebühren
 
@@ -180,7 +172,7 @@ Für verlorene oder beschädigte Medien oder andere Materialien sind der PHZH di
 
 - a. Ersatzbeschaffung von Medien,
 
-- b. Bestellung im Interbibliothekarischen Leihverkehr, c.[^16-1] Rechnungstellung bei nicht bar oder vorgängig per Überweisung bezahlten Gebühren und Kosten, d.[^16-1] Postversand sowie Rücksendungskosten aufgrund falscher oder unvollständiger Adressangabe,
+- b. Bestellung im Interbibliothekarischen Leihverkehr, c.[^16-1] d.[^16-2] Postversand sowie Rücksendungskosten aufgrund falscher oder unvollständiger Adressangabe,
 
 - e. Mahnung.
 
@@ -190,7 +182,8 @@ Für verlorene oder beschädigte Medien oder andere Materialien sind der PHZH di
 
 <sup>4</sup> Für Mitarbeitende der PHZH ist der Interbibliothekarische Leihverkehr kostenlos. Im Übrigen gelten die Gebühren für den Interbibliothekarischen Leihverkehr sowohl für die Benutzenden, die eine Bestellung an die PHZH richten, als auch für die zu beliefernden Partnerbibliotheken. In der Bearbeitungsgebühr für den Interbibliothekarischen Leihverkehr sind die Ausleihgebühr und die Posttaxen der Partnerbibliothek in der Regel enthalten. Besondere Gebühren der Partnerbibliothek werden an die Benutzenden weiterverrechnet.
 
-[^16-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^16-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020. 1. 4. 21 - 112 5
+[^16-2]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019.
 
 #### § 17
 
@@ -200,11 +193,11 @@ Der Anhang regelt die Höhe der Kosten und Gebühren.
 
 **Zahlung**
 
-§ 18.[^17-1] <sup>1</sup> Kosten und Gebühren sind in der Regel bar oder als Vorauskasse mittels Banküberweisung zu bezahlen. Der Postversand von Medien erfolgt gegen Rechnung.
+§ 18.[^17-1] <sup>1</sup> Kosten und Gebühren sind in der Regel bar zu bezahlen.
 
-<sup>2</sup> Als Barzahlungsmittel akzeptiert sind von der Bibliothek der PHZH die CampusCard und Debitkarten. In der Forschungsbibliothek Pestalozzianum ist nur die Barzahlung möglich.
+<sup>2</sup> Als Zahlungsmittel akzeptiert sind von der Bibliothek der PHZH Bargeld und Debitkarten. In der Forschungsbibliothek Pestalozzianum ist nur die Barzahlung möglich.
 
-[^17-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+[^17-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
 
 ### E. Schlussbestimmung
 
@@ -216,11 +209,16 @@ Der Anhang regelt die Höhe der Kosten und Gebühren.
 
 <sup>2</sup> Sie tritt auf den 1. Januar 2013 in Kraft und wird in der kantonalen Gesetzessammlung und im Intranet publiziert.
 
-[^19-1]: Fassung gemäss B vom 29. Mai 2019 (OS 74, 461; ABl 2019-06-14). In Kraft seit 1. September 2019. 1. 10. 19 - 106 5
+**Übergangsbestimmung zur Änderung vom 18. November 2020**
+
+§ 20.[^19-1] Die Geltung der Ausleihfristen und Bearbeitungsgebühren richtet sich nach dem Datum der Ausleihe.
+
+[^19-1]: Eingefügt durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
+[^19-2]: Fassung gemäss B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020.
 
 ### Anhang: Kosten und Gebühren
 
-[^19-1]
+[^19-2]
 
 Fr.
 
@@ -240,7 +238,7 @@ Buch oder Kosten für Fotokopien und Binden von einem Exemplar einer anderen Bib
 
 - 1\. Ersatzbeschaffung (pro Medium)
 
-**50**
+**40**
 
 - a) bei Wiederbeschaffung durch die Bibliothek
 
@@ -250,52 +248,58 @@ Buch oder Kosten für Fotokopien und Binden von einem Exemplar einer anderen Bib
 
 - 2\. Bestellung im Interbibliothekarischen Leihverkehr 2.1 Bestellung von Büchern und Zeitschriften (pro Medium)
 
-**10**
+**12**
 
 - a) Schweiz
 
-- b) Zusatzgebühr bei Bestellungen von Medien, die im Informationsverbund Deutschschweiz durch
+- b)[^hBearbeitungsgebühren-1]
 
-**5 20**
-
-Benutzende selber online bestellt werden können
+**24**
 
 - c) Europa
 
 - d) Spezialbestellungen:
 
-**40**
+**36**
 
 Interkontinental (Mindestpreis)
 
-2.2 Bestellung von Artikeln aus Zeitschriften a) Schweiz: pro 20 abgebildete Seiten b) Europa: bis 20 abgebildete Seiten pro weitere 10 Seiten c) Spezialbestellungen:
+2.2 Bestellung von Artikeln aus Zeitschriften a) Schweiz: digitale Kopien pro 20 abgebildete Seiten
 
-**5 20 10**
+**5 7.50 8**
 
-**25**
+Schweiz: Papierkopien pro 20 abgebildete Seiten
 
-Interkontinental (Mindestpreis)
+- b) Ausland: digitale Kopien pro 20 abgebildete Seiten Ausland: Papierkopien pro 20 abgebildete Seiten 10.50 Digitale Kopien oder Papierkopien an ausländische Bibliotheken pro 20 abgebildete Seiten 1 IFLA-Voucher oder 12
 
-**10**
+**5**
+
+**5 (total 10)**
+
+**10 (total 20)**
 
 - 3\. Rechnungstellung bei nicht bar oder als Vorauskasse mittels Banküberweisung bezahlten Gebühren und Kosten 20 Fr.
 
 **4.**
 
+[^hBearbeitungsgebühren-1]: Aufgehoben durch B vom 18. November 2020 (OS 76, 9; ABl 2020-11-27). In Kraft seit 7. Dezember 2020. 1. 4. 21 - 112 5
+
 ### Postversand (pro Medium)
 
-**10**
+**12**
 
 - a) Inland
 
-- b) Ausland 1 IFLA Voucher oder 20 Beim Postversand von Medienpaketen mit einem Gewicht von mehr als 2 Kilogramm entspricht die Bearbeitungsgebühr der Posttaxe.
+- b) Europa 2 IFLA-Voucher oder 24
+
+- c) UK oder interkontinental 3 IFLA-Voucher oder 36 Beim Postversand von Medienpaketen mit einem Gewicht von mehr als 2 Kilogramm entspricht die Bearbeitungsgebühr der Posttaxe.
 
 **5.**
 
-### Mahnung (pro Medium) bei Ausbleiben der frist-
+### Mahnung (pro Medium) bei Ausbleiben
 
-gerechten Rückgabe a) erste Mahnung (am 14. Tag nach Ablauf der Rückgabefrist) b) zweite Mahnung (am 14. Tag nach der ersten Mahnung) 20 c) dritte Mahnung (am 14. Tag nach der zweiten Mahnung) 35
+der fristgerechten Rückgabe a) erste Mahnung (7 Tage nach Ablauf der Leihfrist) b) zweite Mahnung (14 Tage nach Ablauf der Leihfrist) c) dritte Mahnung (21 Tage nach Ablauf der Leihfrist)
 
 **7**
 
-- 1\. 10. 19 - 106
+- 1\. 4. 21 - 112
