@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordonnance du 14 octobre 2020 sur les mesures dans le domaine de la culture prévues par la loi COVID-19 (Ordonnance COVID-19 culture)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: fr
-version: 2020-12-19
+version: 2021-01-28
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20201219/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20201219-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/fr"
 
 (Ordonnance COVID-19 culture)
 
-du 14 octobre 2020 (Etat le 19 décembre 2020)
+du 14 octobre 2020 (Etat le 28 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -72,7 +72,7 @@ Des aides financières peuvent être allouées sous les formes suivantes:
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
-## Section 2 Indemnisation des entreprises culturelles et des acteurs culturels****
+## Section 2 Indemnisation des entreprises culturelles et des acteurs culturels
 
 [^sec2-1]
 
@@ -120,18 +120,31 @@ Ne peuvent être compensés par une indemnité que les dommages qui:
 
 <sup>1</sup>
 
-Les demandes peuvent être déposées d’ici au 30 novembre 2021 auprès des services compétents désignés par les cantons. Les demandes doivent être déposées dans les délais intermédiaires suivants:
+Les demandes doivent être déposées auprès des services compétents désignés par les cantons dans les délais suivants:
 
-- a. pour les dommages subis entre le 1<sup>er</sup> novembre 2020 et le 31 décembre 2020: jusqu’au 31 janvier 2021;
-- b. pour les dommages subis entre le 1<sup>er</sup> janvier 2021 et le 30 avril 2021: jusqu’au 31 mai 2021;
-- c. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021;
-- d. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021.[^6-1]
+- a.
+
+  demandes déposées par des entreprises culturelles:
+
+  - 1\. pour les dommages subis entre le 1<sup>er</sup> novembre 2020 et le 31 décembre 2020: jusqu’au 31 janvier 2021,
+  - 2\. pour les dommages subis entre le 1<sup>er</sup> janvier 2021 et le 30 avril 2021: jusqu’au 31 mai 2021,
+  - 3\. pour les dommages subis entre le 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
+  - 4\. pour les dommages subis entre le 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021;
+
+- b.
+
+  demandes déposées par des acteurs culturels:
+
+  - 1\. pour les dommages subis entre 19 décembre 2020 et le 31 janvier 2021: jusqu’au 28 février 2021,
+  - 2\. pour les dommages subis entre 1<sup>er</sup> février 2021 et le 30 avril 2021: jusqu’au 31 mai 2021,
+  - 3\. pour les dommages subis entre 1<sup>er</sup> mai 2021 et le 31 août 2021: jusqu’au 30 septembre 2021,
+  - 4\. pour les dommages subis entre 1<sup>er</sup> septembre 2021 et le 31 décembre 2021: jusqu’au 30 novembre 2021.[^6-1]
 
 <sup>2</sup> Le canton compétent est celui dans lequel l’entreprise culturelle a son siège ou l’acteur culturel son domicile.[^6-2]
 
 <sup>3</sup> Les cantons statuent sur les demandes. La procédure est régie par le droit cantonal.
 
-[^6-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021, en vigueur depuis le 28 janv. 2021 ([RO 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
 [^6-2]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 19 déc. 2020 ([RO 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Section 3 Contributions à des projets de transformation

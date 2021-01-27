@@ -3,11 +3,11 @@ sr: "442.15"
 title: Verordnung vom 14. Oktober 2020 über die Massnahmen im Kulturbereich gemäss Covid-19-Gesetz (Covid-19-Kulturverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: de
-version: 2020-12-19
+version: 2021-01-28
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20201219/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20201219-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/de"
 
 (Covid-19-Kulturverordnung)
 
-vom 14. Oktober 2020 (Stand am 19. Dezember 2020)
+vom 14. Oktober 2020 (Stand am 28. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -120,18 +120,31 @@ Ersatzfähig sind nur Schäden, die:
 
 <sup>1</sup>
 
-Gesuche können bis zum 30. November 2021 bei den von den Kantonen bezeichneten zuständigen Stellen eingereicht werden. Es gelten folgende Zwischenfristen zur Einreichung von Gesuchen:
+Gesuche sind bei den von den Kantonen bezeichneten zuständigen Stellen wie folgt einzureichen:
 
-- a. für Schäden zwischen dem 1. November 2020 und dem 31. Dezember 2020: bis zum 31. Januar 2021;
-- b. für Schäden zwischen dem 1. Januar 2021 und dem 30. April 2021: bis zum 31. Mai 2021;
-- c. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021;
-- d. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021.[^6-1]
+- a.
+
+  bei Gesuchen von Kulturunternehmen:
+
+  - 1\. für Schäden zwischen dem 1. November 2020 und dem 31. Dezember 2020: bis zum 31. Januar 2021,
+  - 2\. für Schäden zwischen dem 1. Januar 2021 und dem 30. April 2021: bis zum 31. Mai 2021,
+  - 3\. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021,
+  - 4\. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021;
+
+- b.
+
+  bei Gesuchen von Kulturschaffenden:
+
+  - 1\. für Schäden zwischen dem 19. Dezember 2020 und dem 31. Januar 2021: bis zum 28. Februar 2021,
+  - 2\. für Schäden zwischen dem 1. Februar 2021 und dem 30. April 2021: bis zum 31. Mai 2021,
+  - 3\. für Schäden zwischen dem 1. Mai 2021 und dem 31. August 2021: bis zum 30. September 2021,
+  - 4\. für Schäden zwischen dem 1. September 2021 und dem 31. Dezember 2021: bis zum 30. November 2021.[^6-1]
 
 <sup>2</sup> Örtlich zuständig ist der Kanton am Sitz des Kulturunternehmens beziehungsweise am Wohnsitz des Kulturschaffenden.[^6-2]
 
 <sup>3</sup> Die Kantone entscheiden über die Gesuche. Das Verfahren richtet sich nach kantonalem Recht.
 
-[^6-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021, in Kraft seit 28. Jan. 2021 ([AS 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
 [^6-2]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020, in Kraft seit 19. Dez. 2020 ([AS 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## 3. Abschnitt: Beiträge an Transformationsprojekte

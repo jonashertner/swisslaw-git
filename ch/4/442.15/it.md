@@ -3,11 +3,11 @@ sr: "442.15"
 title: Ordinanza del 14 ottobre 2020 sui provvedimenti nel settore della cultura secondo la legge COVID-19 (Ordinanza COVID-19 cultura)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/759"
 language: it
-version: 2020-12-19
+version: 2021-01-28
 adopted: 2020-10-14
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20201219/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20201219-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/759/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2020-759-20210128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20210128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/759/20201219/it"
 
 (Ordinanza COVID-19 cultura)
 
-del 14 ottobre 2020 (Stato 19 dicembre 2020)
+del 14 ottobre 2020 (Stato 28 gennaio 2021) (Stato 28 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -120,18 +120,31 @@ Sono indennizzabili soltanto i danni che:
 
 <sup>1</sup>
 
-Le richieste possono essere presentate fino al 30 novembre 2021 ai servizi competenti designati dai Cantoni. Per la presentazione delle richieste vigono i seguenti termini intermedi:
+Le richieste vanno presentate ai servizi competenti designati dai Cantoni entro i termini seguenti:
 
-- a. per i danni insorti tra il 1° novembre 2020 e il 31 dicembre 2020, entro il 31 gennaio 2021;
-- b. per i danni insorti tra il 1° gennaio 2021 e il 30 aprile 2021, entro il 31 maggio 2021;
-- c. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
-- d. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021.[^6-1]
+- a.
+
+  richieste di imprese culturali:
+
+  - 1\. per i danni insorti tra il 1° novembre 2020 e il 31 dicembre 2020, entro il 31 gennaio 2021;
+  - 2\. per i danni insorti tra il 1° gennaio 2021 e il 30 aprile 2021, entro il 31 maggio 2021;
+  - 3\. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
+  - 4\. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021;
+
+- b.
+
+  richieste di operatori culturali:
+
+  - 1\. per i danni insorti tra il 19 dicembre 2020 e il 31 gennaio 2021, entro il 28 febbraio 2021;
+  - 2\. per i danni insorti tra il 1° febbraio 2021 e il 30 aprile 2021, entro il 31 maggio 2021;
+  - 3\. per i danni insorti tra il 1° maggio 2021 e il 31 agosto 2021, entro il 30 settembre 2021;
+  - 4\. per i danni insorti tra il 1° settembre 2021 e il 31 dicembre 2021, entro il 30 novembre 2021.[^6-1]
 
 <sup>2</sup> Il Cantone competente è quello in cui ha sede l’impresa culturale o è domiciliato l’operatore culturale.[^6-2]
 
 <sup>3</sup> I Cantoni decidono in merito alle richieste. La procedura è disciplinata dal diritto cantonale.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
+[^6-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021, in vigore dal 28 gen. 2021 ([RU 2021 51](https://fedlex.data.admin.ch/eli/oc/2021/51)).
 [^6-2]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 19 dic. 2020 ([RU 2020 5799](https://fedlex.data.admin.ch/eli/oc/2020/976)).
 
 ## Sezione 3: Contributi a progetti di ristrutturazione
