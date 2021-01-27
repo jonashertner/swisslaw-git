@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2021-01-01
+version: 2021-01-28
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 27 novembre 2000 (Stato 28 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -948,11 +948,19 @@ Per adempiere i loro compiti legali, le autorità seguenti possono consultare on
 
 #### Art. 58a
 
-**Esonero dall’obbligo di partecipare a una formazione complementare durante la pandemia di COVID-19**[^58a-1]
-
-L’obbligo di cui all’articolo 58 capoverso 2 di partecipare a una formazione complementare non si applica ai titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014.
+[^58a-1]
 
 [^58a-1]: Introdotto dal n. I dell’O del 27 mag. 2020, in vigore dal 28 mag. 2020 al 27 gen. 2021 ([RU 2020 1829](https://fedlex.data.admin.ch/eli/oc/2020/369)).
+
+#### Art. 58b
+
+**Esonero dall’obbligo di partecipare a una formazione complementare a causa della pandemia di COVID-19**[^58b-1]
+
+<sup>1</sup> Fino al 27 settembre 2021 l’obbligo di cui all’articolo 58 capoverso 2 di partecipare a una formazione complementare non si applica ai titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014.
+
+<sup>2</sup> Mediante decisioni di portata generale, la SEFRI può prorogare il termine indicato nel capoverso 1 al massimo fino al 31 dicembre 2022 per i titolari di un permesso che hanno ottenuto un’abilitazione o frequentato una formazione complementare l’ultima volta dopo il 31 dicembre 2014 e che non hanno potuto partecipare a una formazione complementare perché quest’ultima non ha avuto luogo a causa della pandemia di COVID-19. Pubblica le decisioni di portata generale nel Foglio federale.
+
+[^58b-1]: Introdotto dal n. I dell’O del 13 gen. 2021, in vigore dal 28 gen. 2021 al 31 dic. 2022 ([RU 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
 #### Art. 59
 
@@ -2190,7 +2198,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2198,7 +2206,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2224,7 +2232,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2240,7 +2248,7 @@ Allegato 8.1*[^t-4]*
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2260,7 +2268,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2268,7 +2276,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2276,9 +2284,9 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image8.png)
 
 Allegato 10.1*[^t-5]*
 
@@ -2288,7 +2296,7 @@ Allegato 10.1*[^t-5]*
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2326,7 +2334,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2342,7 +2350,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2395,7 +2403,7 @@ Le disposizioni del presente allegato non si applicano:
 - a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image14.png)
 
 <sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 

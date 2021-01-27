@@ -4,11 +4,11 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2021-01-01
+version: 2021-01-28
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/fr"
 
 (Ordonnance sur les explosifs, OExpl)
 
-du 27 novembre 2000 (Etat le 1<sup>er</sup> janvier 2021)
+du 27 novembre 2000 (Etat le 28 janvier 2021)
 
 Le Conseil fédéral suisse,
 
@@ -950,11 +950,19 @@ Dans l’accomplissement de leurs tâches légales, les autorités suivantes peu
 
 #### Art. 58a
 
-**Dispense de l’obligation de participer à une formation complémentaire pendant la pandémie de COVID-19**[^58a-1]
-
-L’obligation de participer à un cours complémentaire au sens de l’art. 58, al. 2, ne s’applique pas aux titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014.
+[^58a-1]
 
 [^58a-1]: Introduit par le ch. I de l’O du 27 mai 2020, en vigueur du 28 mai 2020 au 27 janv. 2021 ([RO 2020 1829](https://fedlex.data.admin.ch/eli/oc/2020/369)).
+
+#### Art. 58b
+
+**Dispense de l’obligation de participer à une formation complémentaire en raison de la pandémie de COVID-19**[^58b-1]
+
+<sup>1</sup> L’obligation de participer à un cours complémentaire au sens de l’art. 58, al. 2, ne s’applique pas, jusqu’au 27 septembre 2021, aux titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014.
+
+<sup>2</sup> Le SEFRI peut prolonger par décisions de portée générale le délai visé à l’al. 1 jusqu’au 31 décembre 2022 au plus tard pour les titulaires de permis ayant passé leur dernier examen ou suivi leur dernière formation complémentaire après le 31 décembre 2014 et qui n’ont pas pu prendre part à un cours complémentaire parce que celui-ci n’a pas eu lieu en raison de la pandémie de COVID-19. Il publie les décisions de portée générale dans la Feuille fédérale.
+
+[^58b-1]: Introduit par le ch. I de l’O du 13 janv. 2021, en vigueur du 28 janv. 2021 au 31 déc. 2022 ([RO 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
 #### Art. 59
 
@@ -1725,9 +1733,10 @@ L’ordonnance générale du 8 septembre 2004 sur les émoluments[^112a-2] est a
 
 **Pour les autorisations**
 
+<sup>1</sup> Pour l’octroi des autorisations, les émoluments suivants sont perçus:
+
 <table>
 <tr><td></td><td>Francs</td></tr>
-<tr><td><sup>1</sup> Pour l’octroi des autorisations, les émoluments suivants sont perçus:</td><td></td></tr>
 <tr><td>a. autorisations de production (art. 27)</td><td>50 à 1000</td></tr>
 <tr><td>b. autorisations d’importation (art. 31)</td><td>50 à 1000</td></tr>
 <tr><td>c. autorisations de vente (art. 35)</td><td>50 à 500</td></tr>
@@ -2184,7 +2193,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2192,7 +2201,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2217,7 +2226,7 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
@@ -2229,7 +2238,7 @@ Annexe 8.1*[^t-4]*
 
 [^t-4]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2247,7 +2256,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2255,7 +2264,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2263,9 +2272,9 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image8.png)
 
 Annexe 10.1*[^t-5]*
 
@@ -2275,7 +2284,7 @@ Annexe 10.1*[^t-5]*
 
 [^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2298,7 +2307,7 @@ Annexe 10.2*[^t-6]*
 [^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2313,7 +2322,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2329,7 +2338,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2382,7 +2391,7 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 - a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCEP), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image14.png)
 
 <sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCEP), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 
@@ -2590,28 +2599,28 @@ B = traiter
 
 vide = pas d’accès
 
-### État-major fedpol
+État-major fedpol
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
 <tr><td>Conseiller à la protection des données</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-### Services fedpol
+Services fedpol
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
 <tr><td>Office central pour les explosifs et la pyrotechnie</td><td>B</td><td>B</td><td>B</td><td>B</td></tr>
 </table>
 
-### Fournisseur de prestations informatiques fedpol
+Fournisseur de prestations informatiques fedpol
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
 <tr><td>Chef de projet et administrateur système</td><td>A</td><td>A</td><td>A</td><td>A</td></tr>
 </table>
 
-### Police judiciaire fédérale
+Police judiciaire fédérale
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>
@@ -2620,7 +2629,7 @@ vide = pas d’accès
 <tr><td>Division Enquêtes Protection de l’État</td><td>A</td><td>A</td><td>A</td><td></td></tr>
 </table>
 
-### Services cantonaux compétents
+Services cantonaux compétents
 
 <table>
 <tr><th></th><th>Données relatives aux autorisations (DANTRAG)</th><th>Données sur les communications et les informations échangées (DANTRAG)</th><th>Données relatives à des événements (EREIGNISSE)</th><th>Bibliothèque (BIBLIOTHEK)</th></tr>

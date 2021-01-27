@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2021-01-01
+version: 2021-01-28
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210101/de"
 
 (Sprengstoffverordnung, SprstV)
 
-vom 27. November 2000 (Stand am 1. Januar 2021)
+vom 27. November 2000 (Stand am 28. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -943,11 +943,19 @@ Die folgenden Stellen können zur Wahrnehmung ihrer gesetzlichen Aufgaben das Au
 
 #### Art. 58a
 
-**Befreiung von der Pflicht zur Teilnahme an einer ergänzenden Schulung während der Covid-19-Pandemie**[^58a-1]
-
-Die Pflicht nach Artikel 58 Absatz 2 zur Teilnahme an einer ergänzenden Schulung gilt nicht für Ausweisinhaberinnen und -inhaber, die nach dem 31. Dezember 2014 das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert haben.
+[^58a-1]
 
 [^58a-1]: Eingefügt durch Ziff. I der V vom 27. Mai 2020, in Kraft vom 28. Mai 2020 bis zum 27. Jan. 2021 ([AS 2020 1829](https://fedlex.data.admin.ch/eli/oc/2020/369)).
+
+#### Art. 58b
+
+**Befreiung von der Pflicht zur Teilnahme an einer ergänzenden Schulung aufgrund der Covid-19-Pandemie**[^58b-1]
+
+<sup>1</sup> Die Pflicht nach Artikel 58 Absatz 2 zur Teilnahme an einer ergänzenden Schulung gilt bis zum 27. September 2021 nicht für Ausweisinhaberinnen und -inhaber, die nach dem 31. Dezember 2014 das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert haben.
+
+<sup>2</sup> Das SBFI kann mit Allgemeinverfügungen die in Absatz 1 genannte Frist bis längstens am 31. Dezember 2022 verlängern für Ausweisinhaberinnen und -inhaber, die nach dem 31. Dezember 2014 das letzte Mal eine Berechtigung erlangt oder eine ergänzende Schulung absolviert haben und die nicht an einer ergänzenden Schulung teilnehmen konnten, weil diese aufgrund der Covid-19-Pandemie nicht durchgeführt wurde. Es veröffentlicht die Allgemeinverfügungen im Bundesblatt.
+
+[^58b-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2022 ([AS 2021 25](https://fedlex.data.admin.ch/eli/oc/2021/25)).
 
 #### Art. 59
 
@@ -2177,7 +2185,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2185,7 +2193,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2212,7 +2220,7 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
@@ -2224,7 +2232,7 @@ Anhang 8.1*[^t-4]*
 
 [^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2244,7 +2252,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2252,7 +2260,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2260,9 +2268,9 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image8.png)
 
 Anhang 10.1*[^t-5]*
 
@@ -2272,7 +2280,7 @@ Anhang 10.1*[^t-5]*
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2314,7 +2322,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image13.png)
 
 Legende:
 
@@ -2330,7 +2338,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image14.png)
 
 Legende:
 
@@ -2383,7 +2391,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
