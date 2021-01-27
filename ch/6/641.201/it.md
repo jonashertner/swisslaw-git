@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2021-01-19
+version: 2021-01-28
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210119/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210119-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210128-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 19 gennaio 2021)
+del 27 novembre 2009 (Stato 28 gennaio 2021) (Stato 28 gennaio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -595,11 +595,12 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - l. logopedisti;
 - m. dietisti;
 - n. podologi;
-- o.[^35-3] farmacisti e dipendenti dei centri di test secondo l’articolo 26 capoverso 2 lettera b dell’ordinanza 3 COVID-19 del 19 giugno 20203 per l’esecuzione di analisi per il SARS-CoV-2 secondo l’articolo 26 capoverso 1 dell’ordinanza 3 COVID-19, a prescindere dall’assunzione dei costi da parte della Confederazione.
+- o.[^35-3] persone autorizzate a eseguire analisi per il SARS-CoV-2 secondo l’ordinanza 3 COVID-19 del 19 giugno 2020[^35-4] per l’esecuzione di tali analisi;
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2), in vigore dal 22 giu. 2020 al 31 dic. 2021 ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Correzione del 19 gen. 2021 ([RU 2021 11](https://fedlex.data.admin.ch/eli/oc/2021/11)).
+[^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. II 1 dell’O del 12 mar. 2021, in vigore dal 28 gen. 2021 al 31 dic. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 36
 

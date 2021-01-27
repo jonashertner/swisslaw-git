@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2021-01-19
+version: 2021-01-28
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210119/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210119-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210128-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210119/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 19. Januar 2021)
+vom 27. November 2009 (Stand am 28. Januar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -586,10 +586,10 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - l. Logopäden und Logopädinnen;
 - m. Ernährungsberater und Ernährungsberaterinnen;
 - n. Podologen und Podologinnen;
-- o.[^35-2] Apotheker und Apothekerinnen sowie Mitarbeitende von Testzentren nach Artikel 26 Absatz 2 Buchstabe b der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] für die Durchführung von Analysen auf Sars-CoV-2 nach Artikel 26 Absatz 1 der Covid-19-Verordnung 3, unabhängig von der Kostenübernahme durch den Bund.
+- o.[^35-2] Personen, die nach der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] zur Durchführung von Analysen auf Sars-CoV-2 berechtigt sind, für die Durchführung dieser Analysen.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
-[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft vom 22. Juni 2020 bis zum 31. Dez. 2021 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Die Berichtigung vom 19. Jan. 2021 betrifft nur den italienischen Text ([AS 2021 11](https://fedlex.data.admin.ch/eli/oc/2021/11)).
+[^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II 1 der V vom 12. März 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 
 #### Art. 36
@@ -808,7 +808,7 @@ Sie berücksichtigt dabei, dass:
 - a. der Fonds nicht alle eingenommenen Abgaben wieder ausrichtet; und
 - b. die steuerpflichtigen Bezüger und Bezügerinnen von Entsorgungsdienstleistungen und Wasserlieferungen die ihnen darauf in Rechnung gestellte Steuer vollumfänglich als Vorsteuer abgezogen haben.
 
-### 1*a*. Abschnitt:**** Margenbesteuerung
+### 1*a*. Abschnitt: Margenbesteuerung
 
 [^tit2-chap3-sec1a-1]
 
@@ -1083,7 +1083,7 @@ Für die Berechnung der abziehbaren Vorsteuern gilt Artikel 45 sinngemäss.
 
 Die Steuer auf den Lieferungen von Gegenständen und auf den Dienstleistungen, die für Umsätze nach Artikel 44 und Einfuhren nach Artikel 113 Buchstabe g verwendet werden, kann als Vorsteuer abgezogen werden.
 
-### 2. Abschnitt:**** Abzug fiktiver Vorsteuer
+### 2. Abschnitt: Abzug fiktiver Vorsteuer
 
 [^tit2-chap5-sec2-1]
 
@@ -1969,7 +1969,7 @@ Für die Bewilligung nach Artikel 63 Absatz 2 MWSTG gelten die Artikel 118–120
 
 ### 1. Kapitel: Rechte und Pflichten der steuerpflichtigen Person
 
-### 1. Abschnitt:**** Verzicht auf die Anmeldung als steuerpflichtige Person
+### 1. Abschnitt: Verzicht auf die Anmeldung als steuerpflichtige Person
 
 [^tit5-chap1-sec1-1]
 
@@ -2151,7 +2151,7 @@ Die Auskunftspflicht von Drittpersonen nach Artikel 73 Absatz 2 Buchstabe c MWST
 
 ### 3. Kapitel: Rechte und Pflichten der Behörden
 
-### 1. Abschnitt: Datenschutz****
+### 1. Abschnitt: Datenschutz
 
 [^tit5-chap3-sec1-1]
 
@@ -2532,7 +2532,7 @@ Gegenrecht gilt als gewährt, wenn:
 
 Wird die Steuervergütung später als 180 Tage nach Eintreffen des vollständigen Antrags bei der ESTV ausgezahlt, so wird für die Zeit vom 181. Tag bis zur Auszahlung ein vom EFD festzusetzender Vergütungszins ausgerichtet, sofern der entsprechende Staat Gegenrecht gewährt.
 
-## 8. Titel: Mehrwertsteuer-Konsultativgremium****
+## 8. Titel: Mehrwertsteuer-Konsultativgremium
 
 [^tit8-1]
 
