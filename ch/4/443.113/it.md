@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 21 aprile 2016 sulla promozione cinematografica (OP
 short: OPCin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: it
-version: 2021-01-01
+version: 2021-01-29
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210129/it/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210129-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/it"
 
 (OPCin)
 
-del 21 aprile 2016 (Stato 1° gennaio 2021)
+del 21 aprile 2016 (Stato 29 gennaio 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -261,7 +261,7 @@ I film svizzeri devono inoltre soddisfare le seguenti condizioni:
 
 [^14-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
-### Capitolo 2*a*:**** Promozione della pluralità e della qualità dell’offerta cinematografica
+### Capitolo 2*a*: Promozione della pluralità e della qualità dell’offerta cinematografica
 
 [^tit2-chap2a-1]
 
@@ -327,7 +327,7 @@ Sono esclusi dal sostegno secondo l’articolo 14*b* capoverso 1 lettera c:
 - a. le imprese di proiezione con più di 25 sale cinematografiche; le imprese o sale economicamente legate tra loro sono considerate una singola impresa;
 - b. le sale cinematografiche ammesse a partecipare al programma di sostegno del Consiglio d’Europa «Europe Cinémas».
 
-### Capitolo 3: Promozione della cultura cinematografica e della formazione continua****
+### Capitolo 3: Promozione della cultura cinematografica e della formazione continua
 
 [^tit2-chap3-1]
 
@@ -1357,7 +1357,7 @@ I punti di partecipazione a festival sono graduati nel modo seguente:
 
 [^83-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
-### Sezione 3:**** Basi per il calcolo degli accrediti
+### Sezione 3: Basi per il calcolo degli accrediti
 
 [^tit4-chap2-sec3-1]
 
@@ -1605,7 +1605,7 @@ L’ultima rata non garantita della promozione legata alla sede di produzione è
 
 [^105-1]: Nuovo testo giusta il n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
-### Capitolo 4:**** Disposizioni procedurali particolari della promozione della pluralità
+### Capitolo 4: Disposizioni procedurali particolari della promozione della pluralità
 
 [^tit4-chap4-1]
 
@@ -1810,7 +1810,7 @@ Alle domande di promozione della distribuzione di film usciti nei cinema a parti
 [^118-1]: Abrogato dal n. I dell’O del DFI del 18 nov. 2020, con effetto dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 [^118-2]: Introdotto dal n. I dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 7 cpv. 3, 14*a* cpv. 2, 15 cpv. 4 e 18 cpv. 3)
 
@@ -1828,13 +1828,13 @@ La promozione cinematografica della Confederazione:
 - – tiene conto del principio della pluralità dell’offerta e dell’accesso senza barriere ai film;
 - – in tutti gli ambiti di promozione tiene conto del principio dell’uso parsimonioso delle risorse.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 7 cpv. 3, 12 e 13 cpv. 3)
 
 ## Regime di promozione 2021–2024 per la promozione della creazione cinematografica svizzera
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-2]: Nuovo testo giusta il n. II cpv. 1 dell’O del DFI del 18 nov. 2020, in vigore dal 1° gen. 2021 ([RU 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Correzione del 29 gen. 2021 ([RU 2021 57](https://fedlex.data.admin.ch/eli/oc/2021/57)).
 
 ### 1 Obiettivi e indicatori della valutazione
 
@@ -2070,7 +2070,7 @@ Allegato 2*[^t-2]*
   Sono ammessi:
 
   - a. i lungometraggi svizzeri e i film riconosciuti come coproduzioni svizzere con l’estero con regia svizzera; e
-  - b. i programmi cinematografici che durano almeno 40 minuti e comprendono due o più film svizzeri o coproduzioni riconosciute con regia svizzera.
+  - b. i programmi cinematografici che durano almeno 40 minuti e comprendono principalmente film svizzeri o coproduzioni riconosciute con regia svizzera.
 
 - 2\.1.5.3
 
@@ -2105,7 +2105,7 @@ Allegato 2*[^t-2]*
 
 [^annex2-lvlu1-lvl2-lvl22-1]: [RS 443.122](https://fedlex.data.admin.ch/eli/cc/2016/292)
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 14*a* cpv. 2 e 14*b* cpv. 2)
 
@@ -2199,7 +2199,7 @@ Allegato 3*[^t-3]*
 
 - Per sostenere la qualità e la pluralità dell’offerta cinematografica, l’UFC può adottare anche misure non pecuniarie come consulenza, raccomandazioni o patronati (art. 13 cpv. 2 LCin).
 
-Allegato 4*[^t-4]*
+Allegato 4[^t-4]
 
 (art. 15 cpv. 4, 16 cpv. 2 e 18 cpv. 3)
 
@@ -2328,7 +2328,7 @@ Allegato 4*[^t-4]*
   - g. costituzione di una rete di contatti e coordinamento con altre istituzioni, in particolare all’estero;
   - h. attenzione all’uso sostenibile delle risorse.
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 (art. 18 cpv. 2)
 

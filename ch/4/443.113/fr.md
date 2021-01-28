@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 21 avril 2016 sur l'encouragement du cinéma (OECin
 short: OECin
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: fr
-version: 2021-01-01
+version: 2021-01-29
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210129/fr/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210129-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/fr"
 
 (OECin)
 
-du 21 avril 2016 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 avril 2016 (Etat le 29 janvier 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -1836,7 +1836,7 @@ Annexe 2*[^t-2]*
 
 ## Régime d’encouragement concernant l’encouragement du cinéma suisse pour les années 2021 à 2024
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Erratum du 29 janv. 2021, ne concerne que le texte italien ([RO 2021 57](https://fedlex.data.admin.ch/eli/oc/2021/57)).
 
 ### 1 Objectifs et indicateurs d’évaluation
 

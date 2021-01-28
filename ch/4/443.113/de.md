@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 21. April 2016 über die Filmförderung (FiFV)
 short: FiFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/291"
 language: de
-version: 2021-01-01
+version: 2021-01-29
 adopted: 2016-04-21
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/291/20210129/de/xml/fedlex-data-admin-ch-eli-cc-2016-291-20210129-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/291/20210101/de"
 
 (FiFV)
 
-vom 21. April 2016 (Stand am 1. Januar 2021)
+vom 21. April 2016 (Stand am 29. Januar 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -1834,7 +1834,7 @@ Anhang 2[^t-2]
 
 ## Förderungskonzept 2021-2024 für die Förderung des Schweizer Filmschaffens
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)).
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 18. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5949](https://fedlex.data.admin.ch/eli/oc/2020/1000)). Die Berichtigung vom 29. Jan. 2021 betrifft nur den italienischen Text ([AS 2021 57](https://fedlex.data.admin.ch/eli/oc/2021/57)).
 
 ### 1 Ziele und Indikatoren für die Evaluation
 
