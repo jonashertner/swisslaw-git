@@ -3,18 +3,18 @@ sr: "916.401.327.1"
 title: Verordnung des BLV vom 22. Januar 2021 über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza in die schweizerische Hausgeflügelpopulation
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/31"
 language: de
-version: 2021-01-25
+version: 2021-01-29
 adopted: 2021-01-22
 in_force: 2021-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210125/de/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210129/de/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210129-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210129/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza in die schweizerische Hausgeflügelpopulation
 
-vom 22. Januar 2021 (Stand am 25. Januar 2021)
+vom 22. Januar 2021 (Stand am 29. Januar 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -57,11 +57,13 @@ Auf Anordnung des BLV führt die Kantonstierärztin oder der Kantonstierarzt in 
 
 Diese Verordnung tritt am 25. Januar 2021 in Kraft und gilt bis zum 15. März 2021.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 2)
 
 ## Kontroll- und Beobachtungsgebiete
+
+[^t-1]: Die Berichtigung vom 29. Jan. 2021 betrifft nur den italienischen Text ([AS 2021 58](https://fedlex.data.admin.ch/eli/oc/2021/58)).
 
 ### 1 Kontrollgebiete
 

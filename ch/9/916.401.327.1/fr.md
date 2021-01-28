@@ -3,18 +3,18 @@ sr: "916.401.327.1"
 title: Ordonnance de l’OSAV du 22 janvier 2021 instituant des mesures afin de prévenir l’introduction de l’influenza aviaire dans la population de volaille domestique suisse
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/31"
 language: fr
-version: 2021-01-25
+version: 2021-01-29
 adopted: 2021-01-22
 in_force: 2021-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210125/fr/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210129/fr/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210129-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210129/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures afin de prévenir l’introduction de l’influenza aviaire dans la population de volaille domestique suisse
 
-du 22 janvier 2021 (Etat le 25 janvier 2021)
+du 22 janvier 2021 (Etat le 29 janvier 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
@@ -57,11 +57,13 @@ Sur ordre de l’OSAV, le vétérinaire cantonal réalise le dépistage par sond
 
 La présente ordonnance entre en vigueur le 25 janvier 2021 et a effet jusqu’au 15 mars 2021.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 2)
 
 ## Régions de contrôle et d’observation
+
+[^t-1]: Erratum du 29 janv. 2021, ne concerne que le texte italien ([RO 2021 58](https://fedlex.data.admin.ch/eli/oc/2021/58)).
 
 ### 1 Régions de contrôle
 

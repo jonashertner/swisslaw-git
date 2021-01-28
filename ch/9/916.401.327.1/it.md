@@ -3,18 +3,18 @@ sr: "916.401.327.1"
 title: Ordinanza dell’USAV del 22 gennaio 2021 che istituisce misure destinate a impedire l’introduzione dellʼinfluenza aviaria nella popolazione svizzera di pollame da cortile
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/31"
 language: it
-version: 2021-01-25
+version: 2021-01-29
 adopted: 2021-01-22
 in_force: 2021-01-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210125/it/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210125-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210125/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/31/20210129/it/xml/fedlex-data-admin-ch-eli-cc-2021-31-20210129-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/31/20210129/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce misure destinate a impedire l’introduzione dellʼinfluenza aviaria nella popolazione svizzera di pollame da cortile
 
-del 22 gennaio 2021 (Stato 25 gennaio 2021)
+del 22 gennaio 2021 (Stato 29 gennaio 2021)
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -57,11 +57,13 @@ Nelle zone di controllo e di osservazione il veterinario cantonale effettua su o
 
 La presente ordinanza entra in vigore il 25 gennaio 2021 e si applica fino al 15 marzo 2021.
 
-Allegato
+Allegato*[^t-1]*
 
 (art. 2)
 
 ## Zone di controllo e di osservazione
+
+[^t-1]: Correzione del 29 gen. 2021 ([RU 2021 58](https://fedlex.data.admin.ch/eli/oc/2021/58)).
 
 ### 1 Zone di controllo
 
@@ -75,7 +77,7 @@ Zone a valle del Reno dal Lago di Costanza fino alla confluenza del Mühlebach n
 
 ### 1.2 Altre zone da considerarsi zone di controllo
 
-Tutta la zona del Cantone di Sciaffusa a eccezione dei Comuni di Rüdlingen e Buchberg
+Tutta la zona del Cantone di Sciaffusa incluso Büsingen a eccezione dei Comuni di Rüdlingen e Buchberg
 
 ### 2 Zone di osservazione
 
