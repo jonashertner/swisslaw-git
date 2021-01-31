@@ -4,13 +4,13 @@ number: BeE 789.310
 title: Reglement zur Ordnung über den Natur- und Landschaftsschutz und die Förderung der Biodiversität und Landschaftsqualität
 short: "Förderung der Biodiversität: Reglement"
 language: de
-version: 2018-05-21
-valid_until: 2021-01-31
-version_adopted: 2018-05-07
+version: 2021-02-01
+valid_until: 2023-04-30
+version_adopted: 2020-12-07
 adopted: 2006-11-21
 in_force: 2007-01-07
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeE%20789.310"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4425/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5079/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Beiträge für ökologische Ausgleichsflächen: Reglement | Bettingen: Einwohner
 
 (Förderung der Biodiversität: Reglement)
 
-Vom 21. November 2006 (Stand 21. Mai 2018)
+Vom 21. November 2006 (Stand 1. Februar 2021)
 
 Der Gemeinderat Bettingen,
 
@@ -136,6 +136,14 @@ beschliesst:
 <sup>3</sup> Junge Hochstammobstbäume, die auf Bettinger Gebiet gepflanzt werden, können zum Preis von CHF 20 bei der Gemeindegärtnerei Riehen bezogen werden.
 
 <sup>4</sup> Nach vorhergehender Absprache zwischen Gemeindeverwaltung und der Grundstückeigentümerin oder dem -eigentümer resp. der Pächterin oder dem Pächter kann auch der Kaufpreis geeigneter Jungbäume teilweise übernommen werden, welche bei externen Anbietenden bezogen werden. Der Beitrag der Gemeinde beträgt abzüglich des Selbstbehaltes von CHF 20 maximal CHF 60 gegen Vorlage der Kaufquittung.
+
+#### § 9a
+
+**Beweidung von Dauergrünland**
+
+<sup>1</sup> Für Weiden, die ohne Mähnutzung geweidet werden, können Abgeltungsbeiträge ausgerichtet werden. Alle zwei bis drei Jahre ist ein Säuberungsschnitt erlaubt. Für Standweiden und intensiv genutzte Koppelweiden werden keine Abgeltungsbeiträge ausgerichtet.
+
+<sup>2</sup> Pro Are Weide und Jahr werden CHF 2 ausgerichtet.
 
 #### § 10
 
