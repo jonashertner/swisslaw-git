@@ -3,11 +3,11 @@ sr: "810.21"
 title: "Federal Act of 8 October 2004 on the Transplantation of Organs, Tissues and Cells (Transplantation Act)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/279"
 language: en
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2004-10-08
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2007-279-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2007-279-20210201-en-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Transplantation Act)
 
-of 8 October 2004 (Status as of 1 January 2019)
+of 8 October 2004 (Status as of 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -26,7 +26,7 @@ based on Article 119*a* paragraphs 1 and 2 of the Federal Constitution[^ingress-
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 29](https://fedlex.data.admin.ch/eli/fga/2002/13)
 
 ## Chapter 1 General Provisions
@@ -69,7 +69,7 @@ In this Act:
 - c. *cell* means an individual cell, an unstructured cell mass or a cell suspension that consists exclusively of the same type of cell;
 - d.[^3-1] …
 
-[^3-1]: Repealed by No I of the Federal Act of 19 June 2015, with effect from 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^3-1]: Repealed by No I of the FA of 19 June 2015, with effect from 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 4
 
@@ -93,16 +93,18 @@ Any person who handles organs, tissues, cells or transplant products must take a
 
 **Non-commercialism of donation**
 
-<sup>1</sup> It is prohibited to grant or derive financial gain or any other advantage from a donation of human organs, tissues or cells.
+<sup>1</sup> It is prohibited to offer, grant, request or accept a financial gain or a comparable advantage for a donation of human organs, tissues or cells.[^6-1]
 
 <sup>2</sup>
 
-The following are not regarded as financial gain or other advantage:
+The following are not regarded as a financial gain or a comparable advantage:
 
 - a. reimbursement of loss of earnings and expenses incurred directly by the donor;
 - b. compensation for damage incurred by the donor as a result of organs, tissues or cells being removed;
 - c. a subsequent symbolic gesture of gratitude;
 - d. a crossover living donation.
+
+[^6-1]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 7
 
@@ -112,8 +114,8 @@ The following are not regarded as financial gain or other advantage:
 
 It is prohibited:
 
-- a. to trade in human organs, tissues or cells in Switzerland or abroad (acting from Switzerland);
-- b. to remove or transplant human organs, tissues or cells which have been obtained in exchange for payment or by granting advantages.
+- a. to trade in human organs, tissues or cells;
+- b. to remove organs, tissues or cells from a living or deceased person or to transplant such human organs, tissues or cells if a financial gain or a comparable advantage has been offered, granted, requested or accepted for such organs, tissues or cells.[^7-1]
 
 <sup>2</sup>
 
@@ -121,6 +123,8 @@ This prohibition does not apply to:
 
 - a. the reimbursement of expenses incurred in the context of transplantation, and in particular costs for removal, transport, preparation, storage and transplantation;
 - b. transplant products in accordance with Article 49.
+
+[^7-1]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ### Section 2 Removal of Organs, Tissues or Cells from Deceased Persons
 
@@ -132,7 +136,7 @@ This prohibition does not apply to:
 
 Organs, tissues or cells may be removed from a deceased person if:
 
-- a. the person has consented before his or her death to the removal;
+- a. the person has consented before their death to the removal;
 - b. death has been determined.
 
 <sup>2</sup> If no documented consent or refusal by the deceased person is available, the next of kin must be asked whether they are aware of the person having declared an intention to donate.
@@ -157,7 +161,7 @@ Organs, tissues or cells may be removed from a deceased person if:
 
 **Criteria for death and determination of death**
 
-<sup>1</sup> A person is dead if the functions of his or her brain, including the brain stem, have ceased irreversibly.
+<sup>1</sup> A person is dead if the functions of their brain, including the brain stem, have ceased irreversibly.
 
 <sup>2</sup>
 
@@ -170,9 +174,9 @@ The Federal Council shall issue regulations on the determination of death. In pa
 
 **Preparatory medical measures**[^10-1]
 
-<sup>1</sup> Medical measures intended solely to preserve organs, tissues or cells may only be undertaken prior to the death of the donor if the donor has been informed comprehensively and has freely given his or her consent.
+<sup>1</sup> Medical measures intended solely to preserve organs, tissues or cells may only be undertaken prior to the death of the donor if the donor has been informed comprehensively and has freely given their consent.
 
-<sup>2</sup> If the donor is incapable of judgement and has not given his or her consent, measures in terms of paragraph 1 may only be carried out if the next of kin consent, and the measures meet the requirements of paragraph 3 letters a and b. The decision of the next of kin shall be guided by what they believe the deceased person would have wanted.
+<sup>2</sup> If the donor is incapable of judgement and has not given their consent, measures in terms of paragraph 1 may only be carried out if the next of kin consent, and the measures meet the requirements of paragraph 3 letters a and b. The decision of the next of kin shall be guided by what they believe the deceased person would have wanted.
 
 <sup>3</sup>
 
@@ -194,7 +198,7 @@ Such measures are also prohibited if they:
 - a. hasten the death of the donor;
 - b. may lead to the donor entering a permanent vegetative state.
 
-<sup>8</sup> If a person has not declared his or her intention to donate, measures under paragraph 1 may be carried out after the death of the donor until the next of kin have reached a decision. The Federal Council shall specify the maximum length of time during which such measures may be carried out.
+<sup>8</sup> If a person has not declared their intention to donate, measures under paragraph 1 may be carried out after the death of the donor until the next of kin have reached a decision. The Federal Council shall specify the maximum length of time during which such measures may be carried out.
 
 <sup>9</sup> Article 8 paragraph 6 applies *mutatis mutandis*.
 
@@ -222,11 +226,11 @@ Doctors who determine the death of a person may not:
 Organs, tissues and cells may be removed from a living person if:
 
 - a. that person is capable of judgement and has reached the age of majority[^12-1];
-- b. that person has been informed comprehensively and has freely given his or her consent in writing;
-- c. there is no serious risk to his or her life or health;
+- b. that person has been informed comprehensively and has freely given their consent in writing;
+- c. there is no serious risk to their life or health;
 - d. the recipient cannot be treated with any other therapeutic method with comparable benefit.
 
-[^12-1]: Expression in accordance with Annex No 21 para. 1 of the Federal Act of 18 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)). This amendment has been made throughout the text.
+[^12-1]: Expression in accordance with Annex No 21 para. 1 of the FA of 18 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)). This amendment has been made throughout the text.
 
 #### Art. 13
 
@@ -243,8 +247,8 @@ Exceptions may be permitted for the removal of tissues or cells capable of regen
 - c. no suitable adult donor who is capable of judgement is available;
 - d. the recipient is a parent, child or sibling of the donor;
 - e. the donation is likely to save the recipient's life;
-- f. the legal representative has been informed comprehensively and has freely given his or her consent in writing;
-- g. the donor who is a minor capable of judgement has been informed comprehensively and has freely given his or her consent in writing;
+- f. the legal representative has been informed comprehensively and has freely given their consent in writing;
+- g. the donor who is a minor capable of judgement has been informed comprehensively and has freely given their consent in writing;
 - h. there is no indication that the person incapable of judgement would object to removal;
 - i. an independent authority has given permission.
 
@@ -252,7 +256,7 @@ Exceptions may be permitted for the removal of tissues or cells capable of regen
 
 <sup>4</sup> The cantons shall specify the independent authority in accordance with paragraph 2 letter i and shall regulate the process.
 
-[^13-1]: Expression in accordance with Annex No 21 para. 2 of the Federal Act of 18 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 ([AS 2011 725](https://fedlex.data.admin.ch/eli/oc/2011/114); [BBl 2006 7001](https://fedlex.data.admin.ch/eli/fga/2006/899)). This amendment has been made throughout the text.
+[^13-1]: Expression in accordance with Annex No 21 para. 2 of the FA of 18 Dec. 2008 (Adult Protection, Law of Persons and Law of Children), in force since 1 Jan. 2013 (AS **2011** 725; BBl **2006** 7001). This amendment has been made throughout the text.
 
 #### Art. 14
 
@@ -266,7 +270,8 @@ The insurer that would be responsible for the costs of treating the recipient's 
 
 - a. the cost of this insurance;
 - b.[^14-2] compensation for loss of earnings and other expenses incurred by the donor in connection with removal.
-- [tab] <sup>2bis</sup> If the insurance contract is terminated for reasons other than a change of insurer, the insurer responsible prior to termination of the insurance contract remains liable for the costs.[^14-3]
+
+<sup>2bis</sup> If the insurance contract is terminated for reasons other than a change of insurer, the insurer responsible prior to termination of the insurance contract remains liable for the costs.[^14-3]
 
 <sup>3</sup> The duty to bear costs stipulated in paragraph 2 shall also apply if the removal or transplantation cannot be carried out. If the recipient's insurer is not known, the Confederation shall bear the costs.
 
@@ -290,7 +295,7 @@ The Federal Council shall specify in particular:
 
 <sup>2</sup> It may specify which other therapeutic methods have no comparable benefit for the recipient.
 
-### Section 3*a***** Monitoring the Health of Living Donors
+### Section 3*a* Monitoring the Health of Living Donors
 
 [^chap2-sec3a-1]
 
@@ -337,7 +342,7 @@ When specifying the flat-rate payment, it shall take account of:
 
 <sup>4</sup> The fund’s administrative costs are included in the costs of monitoring the health of the donors. They shall be limited to an amount appropriate for managing the fund efficiently.
 
-[^15b-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^15b-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 15c
 
@@ -391,11 +396,11 @@ Persons who do not belong to any of the groups mentioned in paragraph 2 but who 
 
 <sup>4</sup> There is no fundamental right to allocation of an organ.
 
-[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^17-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^17-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). The title was amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
-[^17-4]: Amended by No I of the Federal Act of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^17-5]: Amended by No I of the Federal Act of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^17-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^17-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). The title was amended on 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
+[^17-4]: Amended by No I of the FA of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^17-5]: Amended by No I of the FA of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 18
 
@@ -455,7 +460,7 @@ The Federal Council shall specify in more detail:
 - a. the medical reasons according to paragraph 2;
 - b. the necessary data according to paragraph 3.
 
-[^21-1]: Amended by No I of the Federal Act of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^21-1]: Amended by No I of the FA of 19 June 2015, in force since 1 May 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 22
 
@@ -463,7 +468,7 @@ The Federal Council shall specify in more detail:
 
 <sup>1</sup> Hospitals and transplant centres shall inform the national organ allocation office, sending the necessary data, of all deceased persons who meet the criteria for organ removal. The Federal Council shall specify in more detail the necessary data.
 
-<sup>2</sup> Doctors, hospitals and transplant centres to whom a person has declared while alive his or her willingness to donate an organ have a duty to register this person with the national organ allocation office.
+<sup>2</sup> Doctors, hospitals and transplant centres to whom a person has declared while alive their willingness to donate an organ have a duty to register this person with the national organ allocation office.
 
 #### Art. 23
 
@@ -644,7 +649,7 @@ It may specify notification or information requirements, in particular with rega
 <sup>6</sup> For clinical trials, the Human Research Act of 30 September 2011[^36-2] is also applicable.
 
 [^36-1]: Amended by Annex No 4 of the Human Research Act of 30 Sept. 2011, in force since 1 Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^36-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^36-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Section 9 Handling Embryonic or Foetal Human Tissues or Cells
 
@@ -816,18 +821,20 @@ The Federal Council may:
 
 #### Art. 49
 
-<sup>1</sup> In addition to the provisions of this Act, Articles 3, 5–33, 58–67 and 84–90 of the Federal Act of 15 December 2000[^49-1] on Medicinal Products and Medical Devices (TPA) apply *mutatis mutandis* to the handling of transplant products.
+<sup>1</sup> In addition to the provisions of this Act, Articles 3, 5–32, 55–67 and 84–90 of the Federal Act of 15 December 2000[^49-1] on Medicinal Products and Medical Devices (TPA) apply *mutatis mutandis* to the handling of transplant products.[^49-2]
 
 <sup>2</sup> The Swiss Agency for Therapeutic Products shall also be responsible for inspections according to Article 60 paragraph 2 TPA with respect to transplant products.
 
-<sup>3</sup> In addition, Articles 36-41 and 53-57 TPA also apply *mutatis muta**n**dis* to the handling of transplant products obtained from human organs, tissues and cells.
+<sup>3</sup> In addition, Articles 36-41 and 53-54 TPA also apply *mutatis mutandis* to the handling of transplant products obtained from human organs, tissues and cells.[^49-3]
 
 <sup>4</sup> Any person who removes organs, tissues or cells for the manufacture of transplant products must verify the suitability of the donor as stipulated in Article 36 TPA.
 
-<sup>5</sup> Article 86 paragraph 1 letter c TPA also applies to the handling of human transplant products.[^49-2]
+<sup>5</sup> Article 86 paragraph 1 letter c TPA also applies to the handling of human transplant products.[^49-4]
 
-[^49-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^49-2]: Amended by Annex No 3 of the Therapeutic Products Act of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^49-2]: Amended by Annex No 3 of the FA of 18 March 2016, in force since 1 Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-3]: Amended by Annex No 3 of the FA of 18 March 2016, in force since 1 Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-4]: Amended by Annex No 3 of the Therapeutic Products Act of 18 March 2016, in force since 1 Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ## Chapter 5 Enforcement
 
@@ -1001,7 +1008,7 @@ Confidential data may only be provided to foreign authorities and institutions o
 
 This information shall cover:
 
-- a.[^61-2] the ways in which an individual can express his or her wishes concerning the donation of organs, tissues or cells, the preparatory medical measures and the related risks and harm, and the consequences of expressing such wishes;
+- a.[^61-2] the ways in which an individual can express their wishes concerning the donation of organs, tissues or cells, the preparatory medical measures and the related risks and harm, and the consequences of expressing such wishes;
 - b. the legal situation and practical aspects, i.e. explanation of the preconditions for the removal, allocation and transplantation of organs, tissues and cells in Switzerland;
 - c.[^61-3] the demand for organs, tissue and cells and the benefits of donation for the patients.
 
@@ -1048,7 +1055,7 @@ The data stored in the stem cell register are those necessary to determine the t
 
 **Duty of cooperation**
 
-Any person who handles organs, tissues or cells or transplant products obtained therefrom must, without remuneration, assist the FOPH in the pursuit of its duties. In particular he or she must:
+Any person who handles organs, tissues or cells or transplant products obtained therefrom must, without remuneration, assist the FOPH in the pursuit of its duties. In particular they must:
 
 - a. permit samples to be taken or provide samples on request;
 - b. provide information;
@@ -1113,15 +1120,16 @@ Fees shall be levied in respect of:
 
 #### Art. 69
 
-**Misdemeanours**
+**Felonies and misdemeanours[^69-1]**
 
 <sup>1</sup>
 
-Provided that no more serious offence has been committed under the Criminal Code[^69-1], a custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:[^69-2]
+Provided that no more serious offence has been committed under the Criminal Code[^69-2], a custodial sentence not exceeding three years or a monetary penalty shall be imposed on any person who wilfully:[^69-3]
 
-- a. grants or accepts a financial gain or other advantage for the donation of human organs, tissues or cells (Art. 6 para. 1);
-- b. places human organs, tissues or cells on the market in Switzerland or abroad (acting from Switzerland) in exchange for payment, or removes or transplants human organs, tissues or cells which have been obtained in exchange for payment or advantages (Art. 7 para. 1);
-- c. removes organs, tissues or cells from a deceased person without consent having been given (Art. 8);
+- a.[^69-4] offers, grants, requests or accepts a financial gain or comparable advantage for the donation of human organs, tissues or cells (Art. 6 para. 1);
+- b.[^69-5] places human organs, tissues or cells on the market (Art. 7 para. 1 let. a);
+- c.[^69-6] removes organs, tissues or cells from a living or deceased person or transplants such human organs, tissues or cells if a financial gain or a comparable advantage has been offered, granted, requested or accepted for such organs, tissues or cells (Art. 7 para. 1 let. b);
+- c<sup>bis</sup>.[^69-7] removes or transplants organs, tissues or cells without consent having been given;
 - d. infringes the regulations governing preparatory medical measures (Article 10);
 - e. removes organs, tissues or cells and in so doing creates a serious risk for the life or health of the donor (Art. 12 let. c);
 - f. removes organs, tissues or cells from living persons who are incapable of judgement or who are minors without the preconditions for this having been met (Art. 13 para. 2 and 3);
@@ -1134,14 +1142,22 @@ Provided that no more serious offence has been committed under the Criminal Code
 - m. uses embryonic or foetal tissues or cells from women who are incapable of judgement for the purpose of transplantation (Art. 37 para. 2 let. c);
 - n. infringes the regulations governing the information and consent of the donor or the couple concerned (Art. 39 and 40).
 
-<sup>2</sup> If the act is committed for commercial gain, the penalty shall be custodial sentence not exceeding five years or a monetary penalty.[^69-3]
+<sup>2</sup> If the act is committed for commercial gain or if an offence under paragraph 1 letters a–c<sup>bis</sup> concerns an organ of a living person who is a minor, the penalty shall be custodial sentence not exceeding five years or a monetary penalty.[^69-8]
 
-<sup>3</sup> If the act is committed through negligence, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.[^69-4]
+<sup>3</sup> If the act is committed through negligence, the penalty shall be a monetary penalty not exceeding 180 daily penalty units.[^69-9]
 
-[^69-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^69-2]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+<sup>4</sup> An offender is also criminally liable in Switzerland if they have committed an offence under paragraph 1 letters a–c<sup>bis</sup> or paragraph 2 abroad. Article 7 of the Swiss Criminal Code applies.[^69-10]
+
+[^69-1]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^69-3]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^69-4]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-4]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-5]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-6]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-7]: Inserted by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-8]: Amended by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-9]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-10]: Inserted by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 70
 
@@ -1160,7 +1176,7 @@ A fine not exceeding CHF 50,000 shall be imposed on any person who, without havi
 - g. breaches the duty of confidentiality, provided that neither Article 320 nor Article 321 of the Criminal Code[^70-2] has been infringed (Art. 57);
 - h. breaches the duty of cooperation (Art. 64);
 - i. commits an offence according to Article 69 paragraph 1 letter h or i without endangering the health of any people;
-- j. contravenes an implementing regulation where such a contravention has been declared by the Federal Council to be an offence, or contravenes a ruling to which he or she is subject that makes specific reference to the penalties under this article.
+- j. contravenes an implementing regulation where such a contravention has been declared by the Federal Council to be an offence, or contravenes a ruling to which they are subject that makes specific reference to the penalties under this article.
 
 <sup>1bis</sup> If the offence is committed through negligence, the penalty is a fine not exceeding CHF 20,000.[^70-3]
 
@@ -1171,7 +1187,7 @@ A fine not exceeding CHF 50,000 shall be imposed on any person who, without havi
 <sup>4</sup> …[^70-5]
 
 [^70-1]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^70-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 [^70-3]: Inserted by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^70-4]: Amended by No I of the FA of 19 June 2015, in force since 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^70-5]: Repealed by No I of the FA of 19 June 2015, with effect from 15 Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
@@ -1184,7 +1200,10 @@ A fine not exceeding CHF 50,000 shall be imposed on any person who, without havi
 
 <sup>2</sup> Articles 6, 7 (offences committed within a business) and 15 (forgery of documents, obtaining a false certificate by fraud) of the Federal Act of 22 March 1974[^71-1] on Administrative Criminal Law apply.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+<sup>3</sup> The competent authorities shall notify the FOPH of any judgments issued under Article 69 paragraph 1 letters a–c<sup>bis</sup>.[^71-2]
+
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^71-2]: Inserted by Annex No 1 of the FD of 19 June 2020 on the Approval of the Council of Europe Convention against Trafficking in Human Organs and on its Implementation, in force since 1 Feb. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Chapter 7 Final Provisions
 
@@ -1194,7 +1213,7 @@ A fine not exceeding CHF 50,000 shall be imposed on any person who, without havi
 
 The Federal Decree of 22 March 1996[^72-1] on the Control of Transplants is repealed.
 
-[^72-1]: [[AS 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296), [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220)[2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 7, [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)Art. 1, [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
+[^72-1]: [[AS 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296); [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220), [2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 7; [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)Art. 1, [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
 
 #### Art. 73
 

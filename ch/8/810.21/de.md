@@ -3,11 +3,11 @@ sr: "810.21"
 title: "Bundesgesetz vom 8. Oktober 2004 über die Transplantation von Organen, Geweben und Zellen (Transplantationsgesetz)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/279"
 language: de
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2004-10-08
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2007-279-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2007-279-20210201-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20200101/de"
 
 (Transplantationsgesetz)
 
-vom 8. Oktober 2004 (Stand am 1. Januar 2020)
+vom 8. Oktober 2004 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -24,7 +24,7 @@ gestützt auf Artikel 119*a* Absätze 1 und 2 der Bundesverfassung[^ingress-1], 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2002 29](https://fedlex.data.admin.ch/eli/fga/2002/13)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -53,7 +53,8 @@ Es gilt nicht für den Umgang mit:
 - b. Blut, ausgenommen Blut-Stammzellen;
 - c. Blutprodukten;
 - d. Keimzellen, imprägnierten Eizellen und Embryonen im Rahmen der medizinisch unterstützten Fortpflanzung beim Menschen.
-- [tab] <sup>3</sup> Auf den Umgang mit Organen, Geweben oder Zellen zur autogenen Transplantation sind die Artikel 36 sowie 50–71 anwendbar. Der Bundesrat kann für Organe, Gewebe oder Zellen zur autogenen Transplantation, die vor der Übertragung aufbereitet werden, Vorschriften zur Qualität und Sicherheit erlassen. Auf Transplantatprodukte zur autogenen Transplantation sind die Artikel 4, 7 Absatz 2 Buchstabe b, 49 sowie 63–65 anwendbar.
+
+<sup>3</sup> Auf den Umgang mit Organen, Geweben oder Zellen zur autogenen Transplantation sind die Artikel 36 sowie 50–71 anwendbar. Der Bundesrat kann für Organe, Gewebe oder Zellen zur autogenen Transplantation, die vor der Übertragung aufbereitet werden, Vorschriften zur Qualität und Sicherheit erlassen. Auf Transplantatprodukte zur autogenen Transplantation sind die Artikel 4, 7 Absatz 2 Buchstabe b, 49 sowie 63–65 anwendbar.
 
 #### Art. 3
 
@@ -64,7 +65,7 @@ Im Sinne dieses Gesetzes gelten als:
 - a. *Organe*: alle Teile des Körpers, deren Zellen und Gewebe zusammen eine Einheit mit bestimmter Funktion bilden; den Organen gleichgestellt sind Organteile, die in ihrer Funktion einem Organ gleichkommen, sowie aus verschiedenen Geweben zusammengesetzte Körperteile, die eine bestimmte Funktion haben;
 - b. *Gewebe*: strukturierte Zellverbände, zusammengesetzt aus gleichen oder verschiedenen Zellen, die im Körper eine gemeinsame Funktion haben;
 - c. *Zellen*: einzelne Zellen, unstrukturierte Zellmassen sowie Zellsuspensionen, die ausschliesslich aus gleichen Zellen bestehen;
-- d.[^3-1] …
+- d.[^3-1] ...
 
 [^3-1]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015, mit Wirkung seit 1. Mai 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
@@ -90,7 +91,7 @@ Wer mit Organen, Geweben oder Zellen oder mit Transplantatprodukten umgeht, muss
 
 **Unentgeltlichkeit der Spende**
 
-<sup>1</sup> Es ist verboten, für die Spende von menschlichen Organen, Geweben oder Zellen einen finanziellen Gewinn oder einen anderen Vorteil zu gewähren oder entgegenzunehmen.
+<sup>1</sup> Es ist verboten, für die Spende von menschlichen Organen, Geweben oder Zellen einen finanziellen Gewinn oder einen anderen Vorteil anzubieten, zu gewähren, zu fordern oder anzunehmen.[^6-1]
 
 <sup>2</sup>
 
@@ -101,6 +102,8 @@ Nicht als finanzieller Gewinn oder anderer Vorteil gilt:
 - c. eine nachträgliche symbolische Geste der Dankbarkeit;
 - d. die Überkreuz-Lebendspende.
 
+[^6-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+
 #### Art. 7
 
 **Verbot desHandels**
@@ -109,8 +112,8 @@ Nicht als finanzieller Gewinn oder anderer Vorteil gilt:
 
 Es ist verboten:
 
-- a. mit menschlichen Organen, Geweben oder Zellen in der Schweizoder von der Schweiz aus im Ausland zu handeln;
-- b. menschliche Organe, Gewebe oder Zellen, die gegen Entgelt oder durch Gewährung von Vorteilen erworben worden sind, zu entnehmen oder zu transplantieren.
+- a. mit menschlichen Organen, Geweben oder Zellen zu handeln;
+- b. einer lebenden oder verstorbenen Person Organe, Gewebe oder Zellen, für die ein finanzieller Gewinn oder ein anderer Vorteil angeboten, gewährt, gefordert oder angenommen wurde, zu entnehmen oder solche Organe, Gewebe oder Zellen zu transplantieren.[^7-1]
 
 <sup>2</sup>
 
@@ -118,6 +121,8 @@ Das Verbot gilt nicht für:
 
 - a. den Ersatz von Aufwendungen, die im Hinblick auf eine Transplantation anfallen, namentlich die Kosten für Entnahme, Transport, Aufbereitung, Aufbewahrung und Transplantation;
 - b. Transplantatprodukte nach Artikel 49.
+
+[^7-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ### 2. Abschnitt: Entnahme von Organen, Geweben oder Zellen bei verstorbenen Personen
 
@@ -148,7 +153,7 @@ Organe, Gewebe oder Zellen dürfen einer verstorbenen Person entnommen werden, w
 
 <sup>8</sup> Der Bundesrat umschreibt den Kreis der nächsten Angehörigen.
 
-[^8-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^8-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 9
 
@@ -195,7 +200,7 @@ Sie sind ebenfalls unzulässig, wenn sie:
 
 <sup>9</sup> Artikel 8 Absatz 6 gilt sinngemäss.
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^10-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 11
 
@@ -276,9 +281,9 @@ Der Bundesrat legt insbesondere fest:
 - b. Inhalt und Umfang der Versicherung nach Absatz 1;
 - c. welcher andere Aufwand nach Absatz 2 Buchstabe b zu ersetzen ist.
 
-[^14-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^14-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^14-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 15
 
@@ -288,11 +293,11 @@ Der Bundesrat legt insbesondere fest:
 
 <sup>2</sup> Er kann festlegen, welche anderen therapeutischen Methoden für die Empfängerinnen oder Empfänger keinen vergleichbaren Nutzen haben.
 
-### 3*a*. Abschnitt:**** Nachverfolgung des Gesundheitszustands von Lebendspenderinnen und Lebendspendern
+### 3*a*. Abschnitt: Nachverfolgung des Gesundheitszustands von Lebendspenderinnen und Lebendspendern
 
 [^chap2-sec3a-1]
 
-[^chap2-sec3a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^chap2-sec3a-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 15a
 
@@ -335,7 +340,7 @@ Er berücksichtigt bei der Festlegung der Pauschale:
 
 <sup>4</sup> Die Verwaltungskosten des Fonds sind Teil der Kosten für die Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender. Sie sind auf das für eine wirtschaftliche Geschäftsführung erforderliche Mass zu beschränken.
 
-[^15b-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^15b-1]: [SR 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 15c
 
@@ -389,9 +394,9 @@ Personen, die keiner der Personengruppen nach Absatz 2 angehören, die aber nach
 
 <sup>4</sup> Es besteht grundsätzlich kein Anspruch auf die Zuteilung eines Organs.
 
-[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^17-2]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^17-3]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758). Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst.
+[^17-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^17-2]: [SR 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^17-3]: [SR 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851). Der Titel wurde in Anwendung von Art. 12 Abs. 2 der Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) auf den 1. Jan. 2019 angepasst.
 [^17-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Mai 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^17-5]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Mai 2016 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
@@ -473,7 +478,7 @@ Der Bundesrat umschreibt näher:
 
 <sup>3</sup> Die Nationale Zuteilungsstelle kann mit ausländischen Zuteilungsorganisationen Vereinbarungen über den gegenseitigen Organaustausch abschliessen. Diese bedürfen der Genehmigung durch das BAG.[^23-1]
 
-[^23-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^23-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 ### 5. Abschnitt: Entnahme, Lagerung, Ein- und Ausfuhr, Aufbereitung
 
@@ -485,7 +490,7 @@ Der Bundesrat umschreibt näher:
 
 <sup>2</sup> Der Bundesrat legt den Inhalt der Meldung sowie die Pflichten der meldepflichtigen Personen fest.
 
-[^24-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^24-1]: Ausdruck gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 25
 
@@ -533,9 +538,9 @@ Die Bewilligung wird erteilt, wenn:
 
 <sup>3</sup> Die Transplantationszentren müssen die Ergebnisse der Transplantationen nach einheitlichen Kriterien aufzeichnen, auswerten und regelmässig veröffentlichen.
 
-- [tab] <sup>4</sup> Der Bundesrat kann die Transplantation von Geweben oder Zellen von einer Bewilligung des BAG abhängig machen.
+<sup>4</sup> Der Bundesrat kann die Transplantation von Geweben oder Zellen von einer Bewilligung des BAG abhängig machen.
 
-[^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^27-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 28
 
@@ -642,7 +647,7 @@ Er kann Melde- und Informationspflichten vorsehen, insbesondere bei:
 <sup>6</sup> Auf klinische Versuche ist zudem das Humanforschungsgesetz vom 30. September 2011[^36-2] anwendbar.
 
 [^36-1]: Fassung gemäss Anhang Ziff. 4 des Humanforschungsgesetzes vom 30. Sept. 2011, in Kraft seit 1. Jan. 2014 ([AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [BBl 2009 8045](https://fedlex.data.admin.ch/eli/fga/2009/1423)).
-[^36-2]: [SR 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^36-2]: [SR 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### 9. Abschnitt: Umgang mit embryonalen oder fötalen menschlichen Geweben oder Zellen
 
@@ -824,10 +829,10 @@ Der Bundesrat kann:
 
 <sup>5</sup> Artikel 86 Absatz 1 Buchstabe c HMG gilt auch für den Umgang mit menschlichen Transplantatprodukten.[^49-4]
 
-[^49-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^49-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^49-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^49-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-1]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^49-2]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-3]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2020 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-4]: Fassung gemäss Anhang Ziff. 3 des BG vom 18. März 2016, in Kraft seit 1. Jan. 2019 ([AS 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [BBl 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ## 5. Kapitel: Vollzug
 
@@ -885,8 +890,8 @@ Dies gilt insbesondere für:
 
 <sup>3</sup> Der Bundesrat sorgt für die finanzielle Abgeltung der übertragenen Aufgaben.
 
-[^54-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^54-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^54-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^54-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 55
 
@@ -1007,9 +1012,9 @@ Die Information umfasst namentlich:
 
 <sup>3</sup> Der Bundesrat kann festlegen, dass eine Erklärung zur Spende von Organen, Geweben oder Zellen auf einem geeigneten Dokument oder Datenträger vermerkt werden kann.
 
-[^61-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^61-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^61-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 ### 5. Abschnitt: Stammzellenregister
 
@@ -1113,15 +1118,16 @@ Gebühren werden erhoben für:
 
 #### Art. 69
 
-**Vergehen**
+**Verbrechen und Vergehen[^69-1]**
 
 <sup>1</sup>
 
-Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^69-1] vorliegt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft, wer vorsätzlich:[^69-2]
+Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^69-2] vorliegt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft, wer vorsätzlich:[^69-3]
 
-- a. für die Spende von menschlichen Organen, Geweben oder Zellen einen finanziellen Gewinn oder einen anderen Vorteil gewährt oder entgegennimmt (Art. 6 Abs. 1);
-- b. mit menschlichen Organen, Geweben oder Zellen in der Schweiz oder von der Schweiz aus im Ausland handelt oder menschliche Organe, Gewebe oder Zellen, die gegen Entgelt oder durch Gewährung von Vorteilen erworben worden sind, entnimmt oder transplantiert (Art. 7 Abs. 1);
-- c. einer verstorbenen Person Organe, Gewebe oder Zellen entnimmt, ohne dass dafür eine Zustimmung vorliegt (Art. 8);
+- a.[^69-4] für die Spende von menschlichen Organen, Geweben oder Zellen einen finanziellen Gewinn oder einen anderen Vorteil anbietet, gewährt, fordert oder annimmt (Art. 6 Abs. 1);
+- b.[^69-5] mit menschlichen Organen, Geweben oder Zellen handelt (Art. 7 Abs. 1 Bst. a);
+- c.[^69-6] einer lebenden oder verstorbenen Person Organe, Gewebe oder Zellen, für die ein finanzieller Gewinn oder ein anderer Vorteil angeboten, gewährt, gefordert oder angenommen wurde, entnimmt oder solche Organe, Gewebe oder Zellen transplantiert (Art. 7 Abs. 1 Bst. b);
+- c<sup>bis</sup>.[^69-7] Organe, Gewebe oder Zellen entnimmt oder transplantiert, ohne dass für die Entnahme eine Zustimmung vorliegt;
 - d. die Vorschriften über die vorbereitenden medizinischen Massnahmen verletzt (Art. 10);
 - e. Organe, Gewebe oder Zellen entnimmt und dadurch für das Leben oder die Gesundheit der Spenderin oder des Spenders ein ernsthaftes Risiko schafft (Art. 12 Bst. c);
 - f. urteilsunfähigen oder minderjährigen lebenden Personen Organe, Gewebe oder Zellen entnimmt, ohne dass die Voraussetzungen dafür erfüllt sind (Art. 13 Abs. 2 und 3);
@@ -1134,14 +1140,22 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^69-1] vorlie
 - m. embryonale oder fötale Gewebe oder Zellen von urteilsunfähigen Frauen zu Transplantationszwecken verwendet (Art. 37 Abs. 2 Bst. c);
 - n. die Vorschriften über die Information und Zustimmung der Spenderin oder des betroffenen Paares verletzt (Art. 39 und 40).
 
-<sup>2</sup> Wird die Tat gewerbsmässig begangen, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^69-3]
+<sup>2</sup> Wird die Tat gewerbsmässig begangen oder handelt es sich bei einer Tat nach Absatz 1 Buchstaben a–c<sup>bis</sup> um das Organ einer minderjährigen lebenden Person, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^69-8]
 
-<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^69-4]
+<sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.[^69-9]
 
-[^69-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^69-2]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^69-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^69-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+<sup>4</sup> Die Täterin oder der Täter ist auch strafbar, wenn sie oder er die Tat nach Absatz 1 Buchstaben a–c<sup>bis</sup> oder Absatz 2 im Ausland begangen hat. Artikel 7 des Strafgesetzbuchs ist anwendbar.[^69-10]
+
+[^69-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^69-3]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-4]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-5]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-6]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-7]: Eingefügt durch Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-8]: Fassung gemäss Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-9]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-10]: Eingefügt durch Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 70
 
@@ -1168,13 +1182,13 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich und ohne dass ei
 
 <sup>3</sup> Eine Übertretung und die Strafe für eine Übertretung verjähren in sieben Jahren.[^70-4]
 
-<sup>4</sup> …[^70-5]
+<sup>4</sup> ...[^70-5]
 
-[^70-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^70-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-5]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015, mit Wirkung seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^70-3]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-4]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-5]: Aufgehoben durch Ziff. I des BG vom 19. Juni 2015, mit Wirkung seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 71
 
@@ -1184,7 +1198,10 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich und ohne dass ei
 
 <sup>2</sup> Die Artikel 6 und 7 (Widerhandlung in Geschäftsbetrieben) sowie 15 (Urkundenfälschung, Erschleichen einer falschen Beurkundung) des Bundesgesetzes vom 22. März 1974[^71-1] über das Verwaltungsstrafrecht sind anwendbar.
 
-[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+<sup>3</sup> Die zuständigen Behörden teilen dem BAG sämtliche Urteile mit, die nach Artikel 69 Absatz 1 Buchstaben a–c<sup>bis</sup> ergangen sind.[^71-2]
+
+[^71-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^71-2]: Eingefügt durch Anhang Ziff. 1 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## 7. Kapitel: Schlussbestimmungen
 
@@ -1194,7 +1211,7 @@ Mit Busse bis zu 50 000 Franken wird bestraft, wer vorsätzlich und ohne dass ei
 
 Der Bundesbeschluss vom 22. März 1996[^72-1] über die Kontrolle von Transplantaten wird aufgehoben.
 
-[^72-1]: [[AS 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296), [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220)[2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 7, [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)Art. 1, [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
+[^72-1]: [[AS 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296); [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220), [2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 7; [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)Art. 1; [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
 
 #### Art. 73
 
@@ -1202,7 +1219,7 @@ Der Bundesbeschluss vom 22. März 1996[^72-1] über die Kontrolle von Transplant
 
 Folgende Bundesgesetze werden wie folgt geändert:
 
-…[^73-1]
+...[^73-1]
 
 [^73-1]: Die Änderungen können unter [AS 2007 1935](https://fedlex.data.admin.ch/eli/oc/2007/279)konsultiert werden.
 
@@ -1216,7 +1233,7 @@ Folgende Bundesgesetze werden wie folgt geändert:
 
 <sup>3</sup> Institutionen, die vor dem Inkrafttreten der Änderung vom 19. Juni 2015 die Nachverfolgung des Gesundheitszustands der Spenderinnen und Spender von Organen oder Blut-Stammzellen sichergestellt haben, überweisen die finanziellen Mittel, die sie von den Versicherern dafür erhalten haben, dem Lebendspende-Nachsorgefonds.
 
-[^74-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^74-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2015, in Kraft seit 15. Nov. 2017 ([AS 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [BBl 2013 2317](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 75
 
@@ -1228,4 +1245,4 @@ Folgende Bundesgesetze werden wie folgt geändert:
 
 Datum des Inkrafttretens: 1. Juli 2007[^75-1]
 
-[^75-1]: BRB vom 16. März 2007
+[^75-1]: BRB vom 16. März 2007.

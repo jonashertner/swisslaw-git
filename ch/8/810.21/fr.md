@@ -3,20 +3,22 @@ sr: "810.21"
 title: "Loi fédérale du 8 octobre 2004 sur la transplantation d'organes, de tissus et de cellules (Loi sur la transplantation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/279"
 language: fr
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2004-10-08
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-279-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/279/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-279-20210201-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/279/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur la transplantation d’organes, de tissus et de cellules
+# Loi fédérale sur la transplantation d’organes, de tissus et de cellules\*
 
-(Loi sur la transplantation)
+(Loi sur la transplantation)[^t-1]
 
-du 8 octobre 2004 (Etat le 1<sup>er</sup> janvier 2020)
+du 8 octobre 2004 (État le 1<sup>er</sup> février 2021)
+
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -24,7 +26,7 @@ vu l’art. 119*a*, al. 1 et 2, de la Constitution[^ingress-1], vu le message du
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2002 19](https://fedlex.data.admin.ch/eli/fga/2002/13)
 
 ## Chapitre 1 Dispositions générales
@@ -91,7 +93,7 @@ Quiconque utilise des organes, des tissus, des cellules ou des transplants stand
 
 **Gratuité du don**
 
-<sup>1</sup> Il est interdit d’octroyer ou de percevoir un quelconque avantage pécuniaire ou un autre avantage pour le don d’organes, de tissus ou de cellules d’origine humaine.
+<sup>1</sup> Il est interdit de proposer, d’octroyer, d’exiger ou d’accepter un avantage pécuniaire ou un autre avantage pour le don d’organes, de tissus ou de cellules d’origine humaine.[^6-1]
 
 <sup>2</sup>
 
@@ -102,6 +104,8 @@ Ne sont pas considérés comme un avantage pécuniaire ou un autre avantage:
 - c. un geste symbolique de remerciement postérieur à la transplantation;
 - d. la transplantation croisée.
 
+[^6-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+
 #### Art. 7
 
 **Interdiction du commerce**
@@ -110,8 +114,8 @@ Ne sont pas considérés comme un avantage pécuniaire ou un autre avantage:
 
 Il est interdit:
 
-- a. de faire le commerce d’organes, de tissus ou de cellules d’origine humaine en Suisse ou à l’étranger, à partir de la Suisse;
-- b. de prélever ou de transplanter des organes, des tissus ou des cellules d’origine humaine obtenus contre un avantage pécuniaire ou un autre avantage.
+- a. de faire le commerce d’organes, de tissus ou de cellules d’origine humaine;
+- b. de prélever, sur une personne vivante ou sur une personne décédée, ou de transplanter des organes, des tissus ou des cellules pour lesquels un avantage pécuniaire ou un autre avantage a été proposé, octroyé, exigé ou accepté.[^7-1]
 
 <sup>2</sup>
 
@@ -119,6 +123,8 @@ Cette interdiction ne s’applique pas:
 
 - a. au remboursement des coûts liés à la transplantation, notamment aux coûts du prélèvement, du transport, du traitement, de la conservation et de la transplantation elle-même;
 - b. aux transplants standardisés visés à l’art. 49.
+
+[^7-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ### Section 2 Prélèvement d’organes, de tissus ou de cellules sur des personnes décédées
 
@@ -149,7 +155,7 @@ Des organes, des tissus ou des cellules peuvent être prélevés sur une personn
 
 <sup>8</sup> Le Conseil fédéral définit le cercle des proches.
 
-[^8-1]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^8-1]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 9
 
@@ -196,7 +202,7 @@ Les mesures visées à l’al. 1 sont également interdites lorsqu’elles:
 
 <sup>9</sup> L’art. 8, al. 6, est applicable par analogie.
 
-[^10-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 11
 
@@ -248,7 +254,7 @@ Des organes, des tissus ou des cellules peuvent être prélevés sur une personn
 
 <sup>4</sup> Les cantons instituent une autorité indépendante au sens de l’al. 2, let. i, et règlent la procédure.
 
-[^13-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^13-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 14
 
@@ -275,9 +281,9 @@ Le Conseil fédéral règle notamment:
 - b. le contenu et l’ampleur de l’assurance au sens de l’al. 1;
 - c. les autres coûts qui doivent être pris en charge au sens de l’al. 2, let. b.
 
-[^14-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); FF 2013 2057).
-[^14-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^14-3]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^14-3]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 15
 
@@ -287,11 +293,11 @@ Le Conseil fédéral règle notamment:
 
 <sup>2</sup> Il peut déterminer les méthodes thérapeutiques qui n’ont pas une efficacité comparable pour le receveur.
 
-### Section 3*a***** Suivi de l’état de santé des donneurs vivants
+### Section 3*a* Suivi de l’état de santé des donneurs vivants
 
 [^chap2-sec3a-1]
 
-[^chap2-sec3a-1]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^chap2-sec3a-1]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 15a
 
@@ -334,7 +340,7 @@ Lorsqu’il fixe le montant de la somme forfaitaire, le Conseil fédéral tient 
 
 <sup>4</sup> Les frais d’administration du fonds font partie des frais pour le suivi de l’état de santé des donneurs. Ils doivent être limités aux exigences d’une gestion économique.
 
-[^15b-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^15b-1]: [RS 832.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10133)
 
 #### Art. 15c
 
@@ -388,9 +394,9 @@ Un organe disponible est attribué aux personnes qui n’appartiennent pas à l�
 
 <sup>4</sup> Nul ne peut se prévaloir d’un droit à l’attribution d’un organe.
 
-[^17-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^17-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^17-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^17-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
+[^17-2]: [RS 0.632.31](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2314)
+[^17-3]: [RS 142.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4851).Le titre a été adapté au 1<sup>er</sup> janv. 2019 en application de l’art. 12 al. 2 de la LF du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 [^17-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 [^17-5]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> mai 2016 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
@@ -472,7 +478,7 @@ Le Conseil fédéral décrit précisément:
 
 <sup>3</sup> Le service national des attributions peut conclure avec des organisations d’attribution étrangères des conventions sur la réciprocité des échanges d’organes. Ces conventions sont soumises à l’approbation de l’OFSP.[^23-1]
 
-[^23-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^23-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 ### Section 5 Prélèvement, stockage, importation, exportation et préparation
 
@@ -484,7 +490,7 @@ Le Conseil fédéral décrit précisément:
 
 <sup>2</sup> Le Conseil fédéral détermine les données qui doivent être annoncées et les devoirs des personnes soumises à l’obligation d’annoncer.
 
-[^24-1]: Nouvelle expression selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)). Il a été tenu compte de cette mod. dans tout le texte.
+[^24-1]: Nouvelle expression selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)). Il a été tenu compte de cette mod. dans tout le texte.
 
 #### Art. 25
 
@@ -534,7 +540,7 @@ L’autorisation est délivrée:
 
 <sup>4</sup> Le Conseil fédéral peut soumettre les greffes de tissus et de cellules à une autorisation délivrée par l’OFSP.
 
-[^27-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^27-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 28
 
@@ -641,7 +647,7 @@ Il peut prévoir une obligation d’annoncer et d’informer, en particulier dan
 <sup>6</sup> La loi du 30 septembre 2011 relative à la recherche sur l’être humain[^36-2] s’applique en outre aux essais cliniques.
 
 [^36-1]: Nouvelle teneur selon l’annexe ch. 4 de à la LF du 30 sept. 2011 relative à la recherche sur l’être humain, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617); [FF 2009 7259](https://fedlex.data.admin.ch/eli/fga/2009/1423))
-[^36-2]: [RS 810.30](https://fedlex.data.admin.ch/eli/cc/2013/617)
+[^36-2]: [RS 810.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9248)
 
 ### Section 9 Utilisation de tissus ou de cellules issus d’embryons ou de fœtus d’origine humaine
 
@@ -823,9 +829,9 @@ Le Conseil fédéral peut:
 
 <sup>5</sup> L’art. 86, al. 1, let. c, LPTh s’applique également à l’utilisation de transplants standardisés d’origine humaine.[^49-3]
 
-[^49-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^49-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
-[^49-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280), [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-1]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-2]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2019 1393](https://fedlex.data.admin.ch/eli/oc/2019/272); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
+[^49-3]: Nouvelle teneur selon l’annexe ch. 3 de la LF du 18 mars 2016, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 2745](https://fedlex.data.admin.ch/eli/oc/2017/280); [2018 3575](https://fedlex.data.admin.ch/eli/oc/2018/587); [FF 2013 1](https://fedlex.data.admin.ch/eli/fga/2013/1)).
 
 ## Chapitre 5 Exécution
 
@@ -883,8 +889,8 @@ Cette compétence s’applique en particulier:
 
 <sup>3</sup> Le Conseil fédéral pourvoit à la rémunération des tâches déléguées.
 
-[^54-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^54-2]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^54-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^54-2]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 55
 
@@ -1005,9 +1011,9 @@ L’information vise notamment à:
 
 <sup>3</sup> Le Conseil fédéral peut prévoir la possibilité de faire figurer dans un document ou un support de données appropriés la volonté d’une personne concernant le don d’organes, de tissus ou de cellules.
 
-[^61-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^61-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^61-3]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^61-3]: Introduite par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 ### Section 5 Registre des cellules souches
 
@@ -1111,15 +1117,16 @@ Des émoluments sont perçus pour:
 
 #### Art. 69
 
-**Délits**
+**Crimes et délits[^69-1]**
 
 <sup>1</sup>
 
-Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, à moins qu’il n’ait commis une infraction plus grave au sens du code pénal[^69-1], quiconque, intentionnellement:[^69-2]
+Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire, à moins qu’il n’ait commis une infraction plus grave au sens du code pénal[^69-2], quiconque, intentionnellement:[^69-3]
 
-- a. octroie ou perçoit un quelconque avantage pécuniaire ou un autre avantage pour le don d’organes, de tissus ou de cellules d’origine humaine (art. 6, al. 1);
-- b. fait le commerce d’organes, de tissus ou de cellules d’origine humaine en Suisse ou à l’étranger, à partir de la Suisse, ou prélève ou transplante des organes, des tissus ou des cellules obtenus contre un avantage pécuniaire ou un autre avantage (art. 7, al. 1);
-- c. prélève sur une personne décédée des organes, des tissus ou des cellules en l’absence de tout consentement (art. 8);
+- a.[^69-4] propose, octroie, exige ou accepte un avantage pécuniaire ou un autre avantage pour le don d’organes, de tissus ou de cellules d’origine humaine (art. 6, al. 1);
+- b.[^69-5] fait le commerce d’organes, de tissus ou de cellules d’origine humaine (art. 7, al. 1, let. a);
+- c.[^69-6] prélève, sur une personne vivante ou sur une personne décédée, ou transplante des organes, des tissus ou des cellules pour lesquels un avantage pécuniaire ou un autre avantage a été proposé, octroyé, exigé ou accepté (art. 7, al. 1, let. b);
+- c<sup>bis</sup>.[^69-7] prélève ou transplante des organes, des tissus ou des cellules sans que le consentement requis pour le prélèvement ait été donné;
 - d. contrevient aux dispositions relatives aux mesures médicales préliminaires (art. 10);
 - e. prélève des organes, des tissus ou des cellules et cause, ce faisant, un risque sérieux pour la vie ou la santé du donneur (art. 12, let. c);
 - f. prélève des organes, des tissus ou des cellules sur des personnes vivantes mineures ou incapables de discernement, sans que les conditions requises soient remplies (art. 13, al. 2 et 3);
@@ -1132,14 +1139,22 @@ Est passible d’une peine privative de liberté de trois ans au plus ou d’une
 - m. utilise à des fins de transplantation des tissus et des cellules issus d’embryons ou de fœtus provenant de femmes incapables de discernement (art. 37, al. 2, let. c);
 - n. contrevient aux dispositions relatives à l’information et au consentement de la donneuse ou du couple concerné (art. 39 et 40).
 
-<sup>2</sup> Si l’auteur agit par métier, il est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^69-3]
+<sup>2</sup> Si l’auteur agit par métier ou si l’infraction visée à l’al. 1, let. a à c<sup>bis</sup> concerne un organe d’une personne vivante mineure, l’auteur est puni d’une peine privative de liberté de cinq ans au plus ou d’une peine pécuniaire.[^69-8]
 
-<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^69-4]
+<sup>3</sup> Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.[^69-9]
 
-[^69-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^69-2]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^69-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^69-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+<sup>4</sup> L’auteur est également punissable s’il a commis l’acte visé à l’al. 1, let. a à c<sup>bis</sup>, ou à l’al. 2 à l’étranger. L’art. 7 du code pénal s’applique.[^69-10]
+
+[^69-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^69-3]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 , en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-5]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-6]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-7]: Introduite par l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-8]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^69-9]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^69-10]: Introduit par l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 70
 
@@ -1168,11 +1183,11 @@ Est passible d’une amende de 50 000 francs au plus quiconque, intentionnelleme
 
 <sup>4</sup> …[^70-5]
 
-[^70-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^70-3]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
-[^70-5]: Abrogé par le ch. I de la LF du 19 juin 2015, avec effet au 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-2]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^70-3]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-4]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^70-5]: Abrogé par le ch. I de la LF du 19 juin 2015, avec effet au 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 71
 
@@ -1182,7 +1197,10 @@ Est passible d’une amende de 50 000 francs au plus quiconque, intentionnelleme
 
 <sup>2</sup> Les art. 6 et 7 (infractions commises dans une entreprise) et 15 (faux dans les titres, obtention frauduleuse d’une constatation fausse) de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^71-1] sont applicables.
 
-[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+<sup>3</sup> Les autorités compétentes communiquent à l’OFSP tout jugement rendu en vertu de l’art. 69, al. 1, let. a à c<sup>bis</sup>.[^71-2]
+
+[^71-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
+[^71-2]: Introduit par l’annexe ch. 1 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Chapitre 7 Dispositions finales
 
@@ -1192,7 +1210,7 @@ Est passible d’une amende de 50 000 francs au plus quiconque, intentionnelleme
 
 L’arrêté fédéral du 22 mars 1996 sur le contrôle des transplants[^72-1] est abrogé.
 
-[^72-1]: [[RO 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296), [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220)[2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 7, [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)art. 1, [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
+[^72-1]: [[RO 1996 2296](https://fedlex.data.admin.ch/eli/oc/1996/2296_2296_2296); [2001 1505](https://fedlex.data.admin.ch/eli/oc/2001/220), [2790](https://fedlex.data.admin.ch/eli/oc/2001/422)annexe ch. 7; [2002 3335](https://fedlex.data.admin.ch/eli/oc/2002/499)art. 1; [2005 4779](https://fedlex.data.admin.ch/eli/oc/2005/638)]
 
 #### Art. 73
 
@@ -1214,7 +1232,7 @@ Les lois mentionnées ci-après sont modifiées comme suit:
 
 <sup>3</sup> Les institutions ayant assuré, avant l’entrée en vigueur de la modification du 19 juin 2015, le suivi de l’état de santé des donneurs d’organes ou de cellules souches hématopoïétiques, transfèrent au fonds chargé du suivi des donneurs vivants les ressources financières qu’ils ont reçues des assureurs à cette fin.
 
-[^74-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217), [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
+[^74-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2015, en vigueur depuis le 15 nov. 2017 ([RO 2016 1163](https://fedlex.data.admin.ch/eli/oc/2016/217); [2017 5629](https://fedlex.data.admin.ch/eli/oc/2017/607); [FF 2013 2057](https://fedlex.data.admin.ch/eli/fga/2013/414)).
 
 #### Art. 75
 
