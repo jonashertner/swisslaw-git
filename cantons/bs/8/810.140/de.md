@@ -4,13 +4,12 @@ number: "810.140"
 title: Verordnung über die vom Amt für Wirtschaft und Arbeit zu erhebenden Gebühren
 short: Gebührenverordnung AWA
 language: de
-version: 2004-01-01
-valid_until: 2021-01-31
-version_adopted: 2003-11-04
+version: 2021-02-01
+version_adopted: 2021-01-12
 adopted: 1998-01-13
 in_force: 1998-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/810.140"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4128/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5169/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Amt für Wirtschaft und Arbeit: Gebührenverordnung | Arbeit[^t-1]
 
 (Gebührenverordnung AWA)
 
-Vom 13. Januar 1998 (Stand 1. Januar 2004)
+Vom 13. Januar 1998 (Stand 1. Februar 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -154,6 +153,14 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für die Bewilligungserteilung bemessen sich nach den in der kantonalen Verordnung zum Bundesgesetz über die Gewährung und Vermittlung von Konsumkrediten festgelegten Bestimmungen.
 
+## III.<sup>bis</sup> Messgesetzgebung
+
+#### § 7 d
+
+**Gebühren für Verfügungen**
+
+<sup>1</sup> Die Gebühren für Verfügungen gemäss § 5 der Verordnung zum Bundesgesetz über das Messwesen vom 12. Januar 2021 betragen je nach Aufwand Fr. 100 bis Fr. 300.
+
 ## IV. Zuständigkeit
 
 #### § 8
@@ -164,6 +171,8 @@ beschliesst:
 [^8-2]: § 8: Umbenennung «Kantonales Amt für Industrie, Gewerbe und Arbeit (KIGA)» in «Amt für Wirtschaft und Arbeit (AWA)» durch RRB vom 4. 11. 2003 (wirksam seit 1. 1. 2004).
 
 ## V.
+
+*Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren und wird auf den 1. Januar 1998 wirksam.[^footer-1]
 
