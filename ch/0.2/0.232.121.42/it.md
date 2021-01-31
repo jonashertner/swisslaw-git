@@ -3,11 +3,11 @@ sr: "0.232.121.42"
 title: "Regolamento d'esecuzione del 30 settembre 2003 relativo all’Accordo dell’Aja concernente la registrazione internazionale dei disegni e modelli industriali (con tariffe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/236"
 language: it
-version: 2019-01-01
+version: 2021-02-01
 adopted: 2003-09-30
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20190101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/236/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2006-236-20210201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/236/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,9 +20,9 @@ Traduzione
 
 Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato in vigore il 1° aprile 2004
 
-(Stato 1° gennaio 2019)
+(Stato 1° febbraio 2021)
 
-[^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
+[^t-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2014 547](https://fedlex.data.admin.ch/eli/oc/2014/110)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -30,7 +30,7 @@ Adottato dall’Assemblea dell’Unione dell’Aja il 30 settembre 2003 Entrato 
 
 [^chap1-lvlu1-1]
 
-[^chap1-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap1-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 \1) [*Abbreviazioni*] Ai fini del presente regolamento d’esecuzione,[^chap1-lvlu1-2]
 
@@ -84,26 +84,27 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 - a) La costituzione di rappresentante può essere fatta nella domanda internazionale. L’indicazione del nome del rappresentante nella domanda internazionale al momento del deposito vale quale costituzione di rappresentante da parte del depositario.
 - b) La costituzione di rappresentante può essere fatta anche in una comunicazione separata che può riferirsi a una o più domande internazionali specificate o a una o più registrazioni internazionali specificate del medesimo depositario o titolare. Tale comunicazione deve essere firmata dal depositario o dal titolare.
-- c) Se considera che la costituzione di rappresentante è irregolare, l’Ufficio internazionale lo notifica al depositario o al titolare e al rappresentante presunto.[^chap1-lvlu3-1]
+- c) La comunicazione relativa alla costituzione di rappresentante deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del rappresentante. Se considera che la costituzione di rappresentante è irregolare, l’Ufficio internazionale lo notifica al depositario o al titolare e al rappresentante presunto.[^chap1-lvlu3-1]
 
 \3) [*Iscrizione e notifica della costituzione di rappresentante; data alla quale ha effetto la costituzione di rappresentante*]
 
-- a) Se constata che la costituzione di un rappresentante adempie le condizioni applicabili, l’Ufficio internazionale iscrive nel registro internazionale il fatto che il depositario o il titolare ha un rappresentante nonché il nome e l’indirizzo del rappresentante. In tal caso, la data a partire dalla quale la costituzione di rappresentante ha effetto è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale o la comunicazione separata nella quale è costituito il rappresentante.
+- a)[^chap1-lvlu3-2] Se constata che la costituzione di un rappresentante adempie le condizioni applicabili, l’Ufficio internazionale iscrive nel registro internazionale il fatto che il depositario o il titolare ha un rappresentante nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del rappresentante. In tal caso, la data a partire dalla quale la costituzione di rappresentante ha effetto è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale o la comunicazione separata nella quale è costituito il rappresentante.
 - b) L’Ufficio internazionale notifica l’iscrizione di cui alla lettera a) sia al depositario o al titolare che al rappresentante.
 
 \4) [*Effetti della costituzione di rappresentante*]
 
 - a) La firma di un rappresentante iscritto giusta il capoverso 3) a) sostituisce la firma del depositario o del titolare.
 - b) Salvo nei casi in cui il presente regolamento d’esecuzione esige esplicitamente che una comunicazione sia inviata sia al depositario o al titolare che al rappresentante, l’Ufficio internazionale invia al rappresentante iscritto giusto il capoverso 3) a) ogni comunicazione che, in assenza del rappresentante, dovrebbe essere inviata al depositario o al titolare; ogni comunicazione così inviata a detto rappresentante ha gli stessi effetti come se fosse stata inviata al depositario o al titolare.
-- c) Ogni comunicazione inviata all’Ufficio internazionale dal rappresentante iscritto giusta il capoverso 3) a) ha gli stessi effetti come se fosse stata inviata dal depositario o dal titolare.[^chap1-lvlu3-2]
+- c) Ogni comunicazione inviata all’Ufficio internazionale dal rappresentante iscritto giusta il capoverso 3) a) ha gli stessi effetti come se fosse stata inviata dal depositario o dal titolare.[^chap1-lvlu3-3]
   - [tab] 5) [*Cancellazione dell’iscrizione; data alla quale la cancellazione ha effetto*]
 
 - a) Ogni iscrizione effettuata in virtù del capoverso 3) a) è cancellata se la cancellazione è chiesta mediante una comunicazione firmata dal depositario, dal titolare o dal rappresentante. L’Ufficio internazionale cancella d’ufficio l’iscrizione sia quando è costituito un nuovo rappresentante, sia quando è iscritto un cambiamento di titolare e il nuovo titolare della registrazione internazionale non ha costituito un rappresentante.
 - b) La cancellazione ha effetto a partire dalla data in cui l’Ufficio internazionale riceve la relativa comunicazione.
 - c) L’Ufficio internazionale notifica la cancellazione e la data a partire dalla quale ha effetto al rappresentante la cui iscrizione è stata cancellata e al depositario o al titolare.
 
-[^chap1-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2019 343](https://fedlex.data.admin.ch/eli/oc/2019/55)).
-[^chap1-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2019 343](https://fedlex.data.admin.ch/eli/oc/2019/55)).
+[^chap1-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap1-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap1-lvlu3-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2019 343](https://fedlex.data.admin.ch/eli/oc/2019/55)).
 
 ### **Regola 4**Calcolo dei termini
 
@@ -146,7 +147,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 [^chap1-lvlu6-1]
 
-[^chap1-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap1-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 \1) [*Domanda internazionale*] La domanda internazionale deve essere redatta in francese, in inglese o in spagnolo.
 
@@ -170,36 +171,39 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \3) [*Contenuto obbligatorio della domanda internazionale*] La domanda internazionale deve contenere o indicare:
 
-- i) il nome del depositario, indicato conformemente alle istruzioni amministrative;
-- ii) l’indirizzo del depositario, indicato conformemente alle istruzioni amministrative;
+- i)[^chap2-lvlu1-1] il nome del depositario, indicato conformemente alle istruzioni amministrative;
+- ii)[^chap2-lvlu1-2] l’indirizzo, indicato conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del depositario;
 - iii) la o le parti contraenti nei confronti delle quali il depositario adempie le condizioni richieste per essere titolare di una registrazione internazionale;
 - iv) il o i prodotti che costituiscono il disegno o modello industriale o in relazione ai quali il disegno o modello industriale deve essere utilizzato, e precisare se si tratta di uno o più prodotti che costituiscono il disegno o modello industriale oppure di uno o più prodotti in relazione ai quali il disegno o modello industriale deve essere utilizzato; il o i prodotti devono essere preferibilmente indicati con termini che figurano nella lista dei prodotti della classificazione internazionale;
 - v) il numero di disegni e modelli industriali inclusi nella domanda internazionale, che non può essere superiore a 100, e il numero di raffigurazioni o di campioni di disegni o modelli industriali che accompagnano la domanda internazionale conformemente alla regola 9 o 10;
 - vi) le parti contraenti designate;
 - vii) l’importo degli emolumenti pagati e il modo di pagamento oppure istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, e l’identità dell’autore del pagamento o delle istruzioni.
 
-\4) *[Contenuto supplementare obbligatorio della domanda internazionale]*
+\4) [*Contenuto supplementare obbligatorio della domanda internazionale*]
 
 - a) Nei confronti delle parti contraenti designate giusta l’Atto del 1999 in una domanda internazionale, tale domanda deve contenere, oltre alle indicazioni di cui al capoverso 3)iii), l’indicazione della parte contraente del depositario.
 - b) Se una parte contraente designata giusta l’Atto del 1999 ha notificato al Direttore generale, conformemente all’articolo 5.2)a) dell’Atto del 1999, che il proprio diritto esige uno o più elementi specificati all’articolo 5.2)b) dell’Atto del 1999, la domanda internazionale deve contenere tale o tali elementi, presentati nel modo prescritto dalla regola 11.
-- c) Se è applicabile la regola 8, la domanda internazionale deve contenere, all’occorrenza, le indicazioni di cui ai capoversi 2) e 3) di tale regola ed essere accompagnata da qualsiasi dichiarazione, documento, giuramento o attestazione di cui a tale regola.[^chap2-lvlu1-1]
+- c) Se è applicabile la regola 8, la domanda internazionale deve contenere, all’occorrenza, le indicazioni di cui ai capoversi 2) e 3) di tale regola ed essere accompagnata da qualsiasi dichiarazione, documento, giuramento o attestazione di cui a tale regola.[^chap2-lvlu1-3]
 
 \5) [*Contenuto facoltativo della domanda internazionale*]
 
 - a) Gli elementi di cui ai punti i) o ii) dell’articolo 5.2) b) dell’Atto del 1999, o all’articolo 8.4) a) dell’Atto del 1960 possono, a scelta del depositario, essere inclusi nella domanda internazionale anche se non sono richiesti da una notifica fatta conformemente all’articolo 5.2) a) dell’Atto del 1999, o all’articolo 8.4) a) dell’Atto del 1960.
-- b) Se il depositario ha un rappresentante, la domanda internazionale deve contenere il nome e l’indirizzo di quest’ultimo, indicati conformemente alle istruzioni amministrative.
+- b)[^chap2-lvlu1-4] Se il depositario ha un rappresentante, la domanda internazionale deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del rappresentante.
 - c) Se il depositario, in virtù dell’articolo 4 della Convenzione di Parigi, intende beneficiare della priorità di un deposito anteriore, la domanda internazionale deve contenere una dichiarazione nella quale è rivendicata la priorità di tale deposito anteriore, accompagnata dall’indicazione del nome dell’Ufficio presso il quale è stato effettuato il deposito nonché della data e, se disponibile, del numero di tale deposito e, nel caso in cui la rivendicazione della priorità non concerna l’insieme dei disegni o modelli industriali oggetto della domanda internazionale, dell’indicazione dei disegni o modelli industriali oggetto dalla rivendicazione.
 - d) Se il depositario intende avvalersi dell’articolo 11 della Convenzione di Parigi, la domanda internazionale deve contenere una dichiarazione in base alla quale il o i prodotti che costituiscono o realizzano il disegno o modello industriale sono stati presentati in occasione di un’esposizione internazionale ufficiale o riconosciuta ufficialmente, e l’indicazione del luogo dell’esposizione e della data alla quale il o i prodotti vi sono stati presentati per la prima volta; nel caso in cui la dichiarazione non concerna l’insieme dei disegni o modelli industriali, la domanda internazionale deve indicare a quali di essi si applica la dichiarazione.
 - e) Se il depositario desidera che la pubblicazione del disegno o modello industriale sia differita, la domanda internazionale deve contenere una richiesta di differimento della pubblicazione.
 - f) La domanda internazionale può anche contenere dichiarazioni, documenti o altre indicazioni pertinenti specificate nelle istruzioni amministrative.
 - g) La domanda internazionale può essere accompagnata da una dichiarazione che indichi le informazioni che, secondo l’avviso del depositario, sono pertinenti per stabilire che il disegno o modello industriale in questione adempie le condizioni della protezione.
 
-\6) [*Esclusione di elementi supplementari*] Se la domanda internazionale contiene indicazioni diverse da quelle che sono richieste o autorizzate dall’Atto del 1999, dall’Atto del 1960, dal presente regolamento d’esecuzione o dalle istruzioni amministrative, l’Ufficio internazionale le esclude d’ufficio. Se la domanda internazionale è accompagnata da documenti diversi da quelli che sono richiesti o autorizzati, l’Ufficio internazionale può eliminarli.[^chap2-lvlu1-2]
+\6) [*Esclusione di elementi supplementari*] Se la domanda internazionale contiene indicazioni diverse da quelle che sono richieste o autorizzate dall’Atto del 1999, dall’Atto del 1960, dal presente regolamento d’esecuzione o dalle istruzioni amministrative, l’Ufficio internazionale le esclude d’ufficio. Se la domanda internazionale è accompagnata da documenti diversi da quelli che sono richiesti o autorizzati, l’Ufficio internazionale può eliminarli.[^chap2-lvlu1-5]
 
 \7) [*Tutti i prodotti devono appartenere alla stessa classe*] Tutti i prodotti che costituiscono i disegni o modelli industriali oggetto della domanda internazionale, o in relazione ai quali tali disegni o modelli industriali sono utilizzati, devono appartenere alla stessa classe in base alla classificazione internazionale.
 
-[^chap2-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap2-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap2-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap2-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap2-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
+[^chap2-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap2-lvlu1-5]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regola 8**Esigenze speciali concernenti il depositario e il creatore
 
@@ -207,7 +211,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 [^chap2-lvlu2-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
 
-\1) *[Notifica delle esigenze speciali concernenti il depositario e il creatore]*
+\1) [*Notifica delle esigenze speciali concernenti il depositario e il creatore*]
 
 - a) i) Se la legislazione di una parte contraente vincolata dall’Atto del 1999 esige che una domanda di protezione di un disegno o modello industriale sia depositata in nome del creatore del disegno o modello industriale, tale parte contraente può notificare il fatto al Direttore generale mediante una dichiarazione.
   - ii) Se la legislazione di una parte contraente vincolata dall’Atto del 1999 esige un giuramento o un’attestazione del creatore, tale parte contraente può notificare il fatto al Direttore generale mediante una dichiarazione.
@@ -290,7 +294,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 - c) La seconda rata dell’emolumento di designazione individuale può essere pagata, a scelta del titolare, sia direttamente all’Ufficio interessato, sia per il tramite dell’Ufficio internazionale. Nel primo caso, l’Ufficio interessato notifica il fatto all’Ufficio internazionale, e l’Ufficio internazionale iscrive la notifica nel registro internazionale. Nel secondo caso, l’Ufficio internazionale iscrive la notifica nel registro internazionale e notifica il fatto all’Ufficio interessato.
 - d) Se la seconda rata dell’emolumento di designazione individuale non è pagata entro il termine applicabile, l’Ufficio interessato notifica il fatto all’Ufficio internazionale e chiede all’Ufficio internazionale di cancellare, nel registro internazionale, l’iscrizione della registrazione internazionale nei confronti della parte contraente interessata. L’Ufficio internazionale dà seguito alla richiesta e notifica il fatto al titolare.
 
-[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
+[^chap2-lvlu6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 3 ott. 2007, in vigore dal 1° gen. 2008 ([RO 2025 422](https://fedlex.data.admin.ch/eli/oc/2025/422)).
 
 ### **Regola 13**Domanda internazionale depositata per il tramite di un Ufficio
 
@@ -324,7 +328,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \3) [*Domanda internazionale considerata abbandonata; Rimborso degli emolumenti*] Se un’irregolarità diversa da quelle oggetto dell’articolo 8.2) b) dell’Atto del 1999 non è corretta entro il termine di cui al capoverso 1) la domanda internazionale è considerata ritirata e l’Ufficio internazionale rimborsa gli emolumenti pagati per tale domanda, previa deduzione di un importo corrispondente all’emolumento di base.
 
-[^chap2-lvlu8-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap2-lvlu8-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regola 15**Iscrizione del disegno o modello industriale nel registro internazionale
 
@@ -434,7 +438,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 [^chap3-lvlu2-1]
 
-[^chap3-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
+[^chap3-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
 
 \1) [*Dichiarazione di concessione della protezione qualora non sia stata comunicata alcuna notifica di rifiuto*]
 
@@ -531,9 +535,9 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \2) [*Contenuto della domanda*] La domanda d’iscrizione di una modifica deve contenere o indicare, oltre alla modifica richiesta:
 
-- i) il numero della registrazione internazionale in questione;
-- ii) il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
-- iii) in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, del nuovo proprietario della registrazione internazionale;
+- i)[^chap4-lvlu1-1] il numero della registrazione internazionale in questione;
+- ii)[^chap4-lvlu1-2] il nome del titolare, tranne se la modifica riguarda il nome e l’indirizzo del rappresentante;
+- iii)[^chap4-lvlu1-3] in caso di cambiamento del titolare della registrazione internazionale, il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del nuovo proprietario della registrazione internazionale;
 - iv) in caso di cambiamento del titolare della registrazione internazionale, la o le parti contraenti nei confronti delle quali il nuovo proprietario adempie le condizioni per essere il titolare di una registrazione internazionale;
 - v) in caso di cambiamento del titolare della registrazione internazionale che non concerne tutti i disegni o modelli industriali e tutte le parti contraenti, i numeri dei disegni o modelli industriali e le parti contraenti designate interessate dal cambiamento del titolare; e
 - vi) l’importo degli emolumenti pagati e il modo di pagamento oppure le istruzioni atte a permettere il prelievo di tale importo dal conto aperto presso l’Ufficio internazionale, nonché l’identità dell’autore del pagamento o delle istruzioni.
@@ -553,11 +557,15 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \8) [*Iscrizione della fusione di registrazioni internazionali*] Se, in seguito a un cambiamento parziale del titolare, la medesima persona diventa titolare di più registrazioni internazionali, su domanda di tale persona tali registrazioni sono fuse e i capoversi 1)–6) sono applicabili *mutatis mutandi*s. La registrazione internazionale risultante dalla fusione porta il numero della registrazione internazionale da cui la parte è stata ceduta o trasmessa, accompagnato, all’occorrenza, da una lettera maiuscola.
 
+[^chap4-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap4-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+[^chap4-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 106](https://fedlex.data.admin.ch/eli/oc/2021/106)).
+
 ### **Regola 21**<sup>bis</sup> Dichiarazione secondo cui un cambiamento di titolare è senza effetti
 
 [^chap4-lvlu2-1]
 
-[^chap4-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap4-lvlu2-1]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 \1) [*Dichiarazione e suoi effetti*] L’Ufficio di una parte contraente designata può dichiarare che un cambiamento di titolare iscritto nel registro internazionale è senza effetti nella parte contraente in questione. Tale dichiarazione comporta che, nei confronti della parte contraente in questione, la registrazione internazionale resta a nome del cedente.
 
@@ -580,7 +588,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale vanno effettuate secon
 
 \2) [*Rifiuto degli effetti della rettifica*] L’Ufficio di ogni parte contraente designata ha il diritto di dichiarare, mediante una notifica indirizzata all’Ufficio internazionale, che si rifiuta di riconoscere gli effetti della rettifica. Le regole 18 – 19 sono applicabili *mutatis mutandi*s.[^chap4-lvlu3-1]
 
-[^chap4-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
+[^chap4-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008, in vigore dal 1° gen. 2009 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)).
 
 ## Capitolo 5: Rinnovi
 
@@ -632,13 +640,13 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 
 [^chap6-1]
 
-[^chap6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 ### **Regola 26**Pubblicazione
 
 [^chap6-lvlu1-1]
 
-[^chap6-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 \1) *Informazioni concernenti le registrazioni internazionali*] L’Ufficio internazionale pubblica nel bollettino i dati pertinenti relativi:
 
@@ -657,8 +665,8 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 \3) [*Modalità di pubblicazione del Bollettino*] Il Bollettino è pubblicato sul sito Internet dell’Organizzazione. La pubblicazione di ogni numero del Bollettino sostituisce l’invio del Bollettino di cui agli articoli 10.3)b) e 16.4) dell’Atto del 1999 e all’articolo 6.3)b) dell’Atto del 1960, e ai fini dell’articolo 8.2) dell’Atto del 1960, si ritiene che il Bollettino perviene ad ognuno degli Uffici interessati il giorno della sua pubblicazione sul sito Internet dell’Organizzazione.[^chap6-lvlu1-4]
 
 [^chap6-lvlu1-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 2 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2014 2383](https://fedlex.data.admin.ch/eli/oc/2014/410)).
-[^chap6-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap6-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-lvlu1-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap6-lvlu1-4]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 ## Capitolo 7: Emolumenti
 
@@ -689,7 +697,7 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 - b) Se l’importo degli emolumenti dovuti per il rinnovo di una registrazione internazionale è modificato fra la data del pagamento e la data in cui va effettuato il rinnovo, l’importo applicabile è quello che era in vigore alla data del pagamento o alla data considerata come la data del pagamento conformemente alla regola 24.1) d). Se il pagamento avviene dopo la data in cui doveva essere effettuato il rinnovo, l’importo applicabile è quello che era in vigore alla data del rinnovo.
 - c) Se è modificato l’importo di un emolumento diverso da quelli di cui alle lettere a) e b), l’importo applicabile è quello che era in vigore al momento in cui il pagamento dell’emolumento è pervenuto all’Ufficio internazionale.
 
-[^chap7-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap7-lvlu1-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regola 28**Valuta di pagamento
 
@@ -702,9 +710,9 @@ Sei mesi prima della scadenza di un periodo di cinque anni, l’Ufficio internaz
 - c)[^chap7-lvlu2-2] Se, durante più di tre mesi consecutivi, il tasso di cambio ufficiale delle Nazioni Unite fra la valuta svizzera e la valuta nella quale è stato indicato da una parte contraente l’importo di un emolumento di designazione individuale è superiore o inferiore di almeno il 5 per cento rispetto all’ultimo tasso di cambio applicato per la determinazione dell’importo dell’emolumento in valuta svizzera, l’Ufficio della parte contraente in questione può chiedere al Direttore generale di determinare un nuovo importo dell’emolumento in valuta svizzera sulla base del tasso di cambio ufficiale delle Nazioni Unite applicabile il giorno precedente a quello in cui è stata presentata tale richiesta. Il Direttore generale prende i provvedimenti necessari. Il nuovo importo è applicabile a partire dalla data stabilita dal Direttore generale, essendo inteso che tale data si situa al più presto un mese e al più tardi due mesi dopo la data della pubblicazione di tale importo sul sito Internet dell’Organizzazione.
 - d)[^chap7-lvlu2-3] Se, durante più di tre mesi consecutivi, il tasso di cambio ufficiale delle Nazioni Unite fra la valuta svizzera e la valuta nella quale è stato indicato da una parte contraente l’importo di un emolumento di designazione individuale è inferiore di almeno il 10 per cento rispetto all’ultimo tasso di cambio applicato per la determinazione dell’importo dell’emolumento in valuta svizzera, il Direttore generale determina un nuovo importo dell’emolumento in valuta svizzera sulla base del tasso di cambio ufficiale delle Nazioni Unite applicabile. Il nuovo importo è applicabile a partire dalla data stabilita dal Direttore generale, essendo inteso che tale data si situa al più presto un mese e al più tardi due mesi dopo la data della pubblicazione di tale importo sul sito Internet dell’Organizzazione.
 
-[^chap7-lvlu2-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap7-lvlu2-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap7-lvlu2-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap7-lvlu2-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap7-lvlu2-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap7-lvlu2-3]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
 
 ### **Regola 29**Accredito dell’importo degli emolumenti alle parti contraenti
 
@@ -716,7 +724,7 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 
 [^chap8-lvlu1-1]
 
-[^chap8-lvlu1-1]: Soppresse dalla Dec. dell’Assemblea dell’Aja del 1° ott. 2009, con effetto dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap8-lvlu1-1]: Soppresse dalla Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, con effetto dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ## Capitolo 9: Disposizioni varie
 
@@ -764,8 +772,8 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 
 \4) [*Divergenza fra le istruzioni amministrative e l’Atto del 1999, l’Atto del 1960 o il presente regolamento d’esecuzione*] In caso di divergenza fra una disposizione delle istruzioni amministrative, da un canto, e una disposizione dell’Atto del 1999, dell’Atto del 1960 o del presente regolamento d’esecuzione, dall’altro, quest’ultima prevale.[^chap9-lvlu3-2]
 
-[^chap9-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
-[^chap9-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap9-lvlu3-1]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 5 ott. 2011, in vigore dal 1° gen. 2012 ([RU 2012 2557](https://fedlex.data.admin.ch/eli/oc/2012/305)).
+[^chap9-lvlu3-2]: Nuovo testo giusta la Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 ### **Regola 35**Dichiarazioni delle parti contraenti all’Atto del 1999
 
@@ -788,7 +796,7 @@ Ogni emolumento di designazione standard o di designazione individuale pagato al
 
 [^chap9-lvlu6-1]
 
-[^chap9-lvlu6-1]: Introdotta dalla Dec. dell’Assemblea dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
+[^chap9-lvlu6-1]: Introdotta dalla Dec. dell’Assemblea dell’Unione dell’Aja del 1° ott. 2009, in vigore dal 1° gen. 2010 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)).
 
 \1) [*Disposizione transitoria relativa all’Atto del 1934*]
 
@@ -812,18 +820,19 @@ Tariffe[^t-2]
 
 ## I. Domande internazionali
 
-[^t-2]: Aggiornato dalle Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
+[^t-2]: Aggiornate dalle Dec. dell’Assemblea dell’Unione dell’Aja del 30 set. 2008 ([RU 2011 963](https://fedlex.data.admin.ch/eli/oc/2011/145)), del 1° ott. 2009 ([RU 2011 969](https://fedlex.data.admin.ch/eli/oc/2011/146)) e del 30 set. 2014, in vigore dal 1° gen. 2015 ([RU 2015 3715](https://fedlex.data.admin.ch/eli/oc/2015/621)).
 
 <table>
 <tr><th></th><th>Franchi svizzeri</th></tr>
 <tr><td>1. Tassa di base[^annexu1-lvlI-1]\*</td><td></td></tr>
 <tr><td>1.1 Per un disegno o modello</td><td>397.–</td></tr>
 <tr><td>1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>19.–</td></tr>
-<tr><td>2. Tassa di pubblicazione[^annexu1-lvlI-2]\*</td><td></td></tr>
+<tr><td>2. Tassa di pubblicazione<sup>\*</sup></td><td></td></tr>
 <tr><td>2.1 Per ogni raffigurazione da pubblicare</td><td>17.–</td></tr>
-<tr><td>2.2 Per ogni pagina supplementare sulla quale sono presentate una o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
+<tr><td>2.2 Per ogni raffigurazione da pubblicare a colori</td><td>75.–</td></tr>
+<tr><td>2.3 Per ogni pagina supplementare sulla quale sono presentateuna o più raffigurazioni (quando le raffigurazioni sono presentate su carta)</td><td>150.–</td></tr>
 <tr><td>3. Tassa supplementare se la descrizione supera le 100 parole (per parola)<sup>\*</sup></td><td>2.–</td></tr>
-<tr><td>4. Tassa di designazione standard[^annexu1-lvlI-3]\*\*</td><td></td></tr>
+<tr><td>4. Tassa di designazione standard[^annexu1-lvlI-2]\*\*</td><td></td></tr>
 <tr><td>4.1 Quando si applica il livello uno:</td><td></td></tr>
 <tr><td>4.1.1 Per un disegno o modello</td><td>42.–</td></tr>
 <tr><td>4.1.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>2.–</td></tr>
@@ -833,13 +842,16 @@ Tariffe[^t-2]
 <tr><td>4.3 Quando si applica il livello tre:</td><td></td></tr>
 <tr><td>4.3.1 Per un disegno o modello</td><td>90.–</td></tr>
 <tr><td>4.3.2 Per ogni disegno o modello supplementare compreso nella stessa domanda internazionale</td><td>50.–</td></tr>
-<tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-4]\*\*\*</td><td></td></tr>
+</table>
+
+<table>
+<tr><th></th><th>Franchi svizzeri</th></tr>
+<tr><td>5. Tassa di designazione individuale (l’importo della tassa di designazione individuale è fissato da ogni parte contraente interessata)[^annexu1-lvlI-3]\*\*\*</td><td></td></tr>
 </table>
 
 [^annexu1-lvlI-1]: <sup>\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % dell’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di base ammonta a 40 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale), la tassa di pubblicazione ammonta a 2 franchi svizzeri per ogni raffigurazione ed a 15 franchi svizzeri per ogni pagina in più della prima in cui sono presentate una o più raffigurazioni, e la tassa supplementare quando la descrizione supera le 100 parole ammonta a 1 franco svizzero per ogni gruppo di cinque parole in più della centesima parola.
-[^annexu1-lvlI-2]: 
-[^annexu1-lvlI-3]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
-[^annexu1-lvlI-4]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o dalla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, la tassa individuale da pagare per la loro designazione è ridotta al 10 % dell’importo normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino)».
+[^annexu1-lvlI-2]: <sup>\*\*</sup> Per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria di paesi meno avanzati (PMA), conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono PMA, le tasse dovute all’Ufficio internazionale sono ridotte al 10 % del’importo prescritto (arrotondato al numero intero più vicino). Tale riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei PMA o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa, e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999. In caso di pluralità di depositanti ognuno di essi deve soddisfare questi criteri. – Qualora sia applicata questa riduzione di tassa, la tassa di designazione standard ammonta a 4 franchi svizzeri (per un disegno o modello) ed a 1 franco svizzero (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello uno, a 6 franchi svizzeri (per un disegno o modello) ed a 2 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale) per il livello due ed a 9 franchi svizzeri (per un disegno o modello) ed a 5 franchi svizzeri (per ogni disegno o modello supplementare compreso nella stessa domanda internazionale per il livello tre.
+[^annexu1-lvlI-3]: <sup>\*\*\*</sup> [Nota dell’OMPI]: Raccomandazione adottata dall’Assemblea dell’Unione dell’Aja: – «Le parti contraenti che effettuano, o hanno effettuato, la dichiarazione prevista all’articolo 7.2) dell’Atto del 1999 o alla regola 36.1) del regolamento d’esecuzione comune sono invitate a indicare, in tale dichiarazione o in una nuova dichiarazione, che, per le domande internazionali depositate da depositanti il cui diritto a tale riguardo deriva esclusivamente da un legame con un paese della categoria dei paesi meno avanzati, conformemente alla lista allestita dall’Organizzazione delle Nazioni Unite, o a un’organizzazione intergovernativa la cui maggioranza di Stati membri sono paesi della categoria dei paesi meno avanzati, la tassa individuale da pagare per la loro designazione è ridotta al 10% dell’importo e normalmente riscosso (arrotondato, all’occorrenza, al numero intero più vicino). Tali parti contraenti sono inoltre invitate a indicare che la riduzione si applica altresì nei confronti di una domanda internazionale depositata da un depositante il cui diritto a tale riguardo non deriva esclusivamente da un legame con un’organizzazione intergovernativa di questo genere, purché qualsiasi altro diritto del depositante a tale riguardo derivi da un legame con una parte contraente che appartiene alla categoria dei paesi meno avanzati o, se ciò non è il caso, che è uno Stato membro di tale organizzazione intergovernativa e purché, in tal caso, la domanda internazionale sia retta esclusivamente dall’Atto del 1999».
 
 ## II …
 
