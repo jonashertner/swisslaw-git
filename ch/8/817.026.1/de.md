@@ -3,51 +3,52 @@ sr: "817.026.1"
 title: Verordnung des BLV vom 14. September 2015 über die Einfuhr von Guarkernmehl mit Ursprung oder Herkunft Indien
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/605"
 language: de
-version: 2015-10-01
+version: 2021-02-01
 adopted: 2015-09-14
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20151001/de/xml/fedlex-data-admin-ch-eli-cc-2015-605-20151001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20151001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2015-605-20210201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über die Einfuhr von Guarkernmehl mit Ursprung oder Herkunft Indien
 
-vom 14. September 2015 (Stand am 1. Oktober 2015)
+vom 14. September 2015 (Stand am 1. Februar 2021)
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
-gestützt auf Artikel 68 Absatz 1 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^ingress-1],
+gestützt auf Artikel 86 Absatz 2 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^ingress-1],[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765),[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Anhang 2 Ziff. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94 Abs. 3]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^ingress-1]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Fassung gemäss Ziff. I der V des BLV vom 21. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand**[^1-1]
 
-Diese Verordnung enthält Bestimmungen über die Einfuhr folgender Erzeugnisse:
+Diese Verordnung regelt die Einfuhr von Guarkernmehl der Zolltarifnummer[^1-2] 1302 32 90, dessen Ursprung oder Herkunft Indien ist und das zum menschlichen Verzehr bestimmt ist.
 
-- a. Guarkernmehl der Zolltarifnummer[^1-1] 1302 32 90, dessen Ursprung oder Herkunft Indien ist und das zum menschlichen Verzehr bestimmt ist;
-- b. zusammengesetzte Lebensmittel, insbesondere Zubereitungen von Lebensmittelzusatzstoffen, die mindestens 20 Prozent Guarkernmehl nach Buchstabe a enthalten.
-
-[^1-1]: www.tares.ch
+[^1-1]: Fassung gemäss Ziff. I der V des BLV vom 21. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^1-2]: www.tares.ch
 
 #### Art. 2
 
 **Zertifikat (Unbedenklichkeitsbescheinigung) über den Maximalgehalt an Pentachlorphenol**
 
-<sup>1</sup> Ein Erzeugnis nach Artikel 1 darf nur in die Schweiz eingeführt werden, wenn es von einem Zertifikat gemäss dem Anhang der Durchführungsverordnung (EU) 2015/175[^2-1], begleitet wird, das bescheinigt, dass das Erzeugnis nicht mehr als 0,01 mg/kg Pentachlorphenol (PCP) enthält.
+<sup>1</sup> Guarkernmehl nach Artikel 1 darf nur in die Schweiz eingeführt werden, wenn es von einem Zertifikat gemäss Anhang IV der Durchführungsverordnung (EU) 2019/1793[^2-1], begleitet wird, das bescheinigt, dass das Mehl nicht mehr als 0,01 mg/kg Pentachlorphenol (PCP) enthält.[^2-2]
 
 <sup>2</sup> Das Zertifikat muss auf Deutsch, Französisch, Italienisch oder Englisch abgefasst sein.
 
 <sup>3</sup> Es muss unterzeichnet sein von einer bevollmächtigten Person des Ministeriums für Handel und Industrie in Indien oder, falls das Ursprungsland und das Versendungsland nicht identisch sind, von einer bevollmächtigten Person des Versendungslandes.
 
-<sup>4</sup> Es ist ab dem Datum der Ausstellung vier Monate gültig.
+<sup>4</sup> Es ist ab dem Datum der Ausstellung vier Monate, längstens aber sechs Monate ab dem Datum der Ergebnisse der Laboranalysen gültig.[^2-3]
 
-[^2-1]: Durchführungsverordnung (EU) 2015/175 der Kommission vom 5. Februar 2015 zur Festlegung von Sondervorschriften für die Einfuhr von Guarkernmehl, dessen Ursprung oder Herkunft Indien ist, wegen des Risikos einer Kontamination mit Pentachlorphenol und Dioxinen, Fassung gemäss ABl. L 30 vom 6.2.2015, S. 10.
+[^2-1]: Durchführungsverordnung (EU) 2019/1793 der Kommission vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89.
+[^2-2]: Fassung gemäss Ziff. I der V des BLV vom 21. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+[^2-3]: Fassung gemäss Ziff. I der V des BLV vom 21. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 3
 
@@ -84,21 +85,19 @@ Mit dem Analysenergebnis sind auch anzugeben:
 
 **Codierung der Sendung**
 
-<sup>1</sup> Jede Sendung eines Erzeugnisses nach Artikel 1 muss mit einem Code gekennzeichnet sein.
+<sup>1</sup> Jede Sendung mit Guarkernmehl nach Artikel 1 muss mit einem Code gekennzeichnet sein.[^5-1]
 
 <sup>2</sup> Dieser Code ist auf das Zertifikat und den Analysebericht zu übertragen.
 
 <sup>3</sup> Jede einzelne Packung oder sonstige Verpackungseinheit der Sendung muss mit diesem Code gekennzeichnet sein.
 
+[^5-1]: Fassung gemäss Ziff. I der V des BLV vom 21. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+
 #### Art. 6
 
-**Vorabinformation der Zollämter**
+[^6-1]
 
-<sup>1</sup> Sendungen mit Erzeugnissen nach Artikel 1 müssen dem betroffenen Zollamt[^6-1] vorgängig angemeldet werden.
-
-<sup>2</sup> Dabei sind das voraussichtliche Ankunftsdatum und die voraussichtliche Ankunftszeit mitzuteilen.
-
-[^6-1]: [www.ezv.admin.ch/kontakt/01972/index.html?lang=de](http://www.ezv.admin.ch/kontakt/01972/index.html?lang=de)
+[^6-1]: Aufgehoben durch Ziff. I der V des BLV vom 21. Dez. 2020, mit Wirkung seit 1. Febr. 2021 ([AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 7
 
@@ -129,3 +128,13 @@ Die amtlichen Kontrollen bei der Einfuhr umfassen:
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. Oktober 2015 in Kraft.
+
+## Übergangsbestimmung zur Änderung vom 21. Dezember 2020
+
+[^u1-1]
+
+[^u1-1]: [AS 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)
+
+Erzeugnisse nach Artikel 1 der Verordnung des BLV über die Einfuhr von Guarkernmehl mit Ursprung oder Herkunft Indien in der Fassung vom 14. September 2015[^u1-2], die von einem Zertifikat nach bisherigem Recht begleitet werden, dürfen noch bis zum 31. Januar 2022 eingeführt werden.
+
+[^u1-2]: [AS 2015 3621](https://fedlex.data.admin.ch/eli/oc/2015/605)

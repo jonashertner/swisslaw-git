@@ -3,51 +3,54 @@ sr: "817.026.1"
 title: "Ordinanza dell'USAV del 14 settembre 2015 sulla gomma di guar originaria o proveniente dall'India"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/605"
 language: it
-version: 2015-10-01
+version: 2021-02-01
 adopted: 2015-09-14
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20151001/it/xml/fedlex-data-admin-ch-eli-cc-2015-605-20151001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20151001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2015-605-20210201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’USAV sulla gomma di guar originaria o proveniente dall’India
+# Ordinanza dell’USAV sull’importazione di gomma di guar originaria o proveniente dall’India
 
-del 14 settembre 2015 (Stato 1° ottobre 2015)
+del 14 settembre 2015 (Stato 1° febbraio 2021)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)). Vedi anche la disp trans. alla fine del testo.
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
-visto l’articolo 68 capoverso 1 dell’ordinanza del 23 novembre 2005[^ingress-1] sulle derrate alimentari e gli oggetti d’uso,
+visto l’articolo 86 capoverso 2 dell’ordinanza del 16 dicembre 2016[^ingress-1] sulle derrate alimentari e gli oggetti d’uso,[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 cpv. 1]. Vedo l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 1
 
-**Oggetto**
+**Oggetto**[^1-1]
 
-La presente ordinanza si applica all’importazione dei prodotti seguenti:
+La presente ordinanza disciplina l’importazione di gomma di guar, cui è attribuito il numero di tariffa doganale[^1-2] 1302 32 90, originaria o proveniente dall’India e destinata al consumo umano.
 
-- a. gomma di guar, cui è attribuito il numero di tariffa doganale[^1-1] 1302 32 90, originaria o proveniente dall’India e destinata al consumo umano;
-- b. derrate alimentari composte, in particolare preparati di additivi alimentari, contenenti almeno il 20 per cento di gomma di guar di cui alla lettera a.
-
-[^1-1]: www.tares.ch
+[^1-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+[^1-2]: www.tares.ch
 
 #### Art. 2
 
 **Certificato (certificato sanitario) concernente il tenore massimo di pentaclorofenolo**
 
-<sup>1</sup> Un prodotto di cui all’articolo 1 può essere importato in Svizzera soltanto se è corredato da un certificato secondo l’allegato al regolamento di esecuzione (UE) 2015/175[^2-1] che attesta che il prodotto non contiene più di 0,01 mg/kg di pentaclorofenolo (PCP).
+<sup>1</sup> La gomma di guar di cui all’articolo 1 può essere importata in Svizzera soltanto se è corredata da un certificato secondo l’allegato IV del regolamento di esecuzione (UE) 2019/1793[^2-1], che attesta che la gomma non contiene più di 0,01 mg/kg di pentaclorofenolo (PCP).[^2-2]
 
 <sup>2</sup> Il certificato deve essere redatto in tedesco, francese, italiano o inglese.
 
 <sup>3</sup> Il certificato deve essere firmato da un rappresentante autorizzato del ministero indiano del commercio e dell’industria o se il Paese d’origine è diverso dal Paese di spedizione da un rappresentante autorizzato del Paese di spedizione.
 
-<sup>4</sup> La validità del certificato è limitata a quattro mesi a decorrere dalla data di emissione.
+<sup>4</sup> La validità del certificato è limitata a quattro mesi a decorrere dalla data di emissione, tuttavia al massimo a sei mesi a decorrere dalla data dei risultati delle analisi di laboratorio.[^2-3]
 
-[^2-1]: Regolamento di esecuzione (UE) 2015/175 della Commissione, del 5 febbraio 2015, che stabilisce condizioni particolari applicabili all’importazione di gomma di guar originaria o proveniente dall’India a causa del rischio di contaminazione da pentaclorofenolo e diossine, GU L 30 del 6.2.2015, pag. 10.
+[^2-1]: Regolamento di esecuzione (UE) 2019/1793 della Commissione, del 22 ottobre 2019, relativo all’incremento temporaneo dei controlli ufficiali e delle misure di emergenza che disciplinano l’ingresso nell’Unione di determinate merci provenienti da alcuni paesi terzi, e che attua i regolamenti (UE) 2017/625 e (CE) n. 178/2002 del Parlamento europeo e del Consiglio e abroga i regolamenti (CE) n. 669/2009, (UE) n. 884/2014, (UE) 2015/175, (UE) 2017/186 e (UE) 2018/1660 della Commissione, GU L 277 del 29.10.2019, pag. 89.
+[^2-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+[^2-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 3
 
@@ -84,21 +87,19 @@ Insieme al risultato dell’analisi devono essere indicati:
 
 **Codificazione della partita**
 
-<sup>1</sup> Ogni partita di un prodotto di cui all’articolo 1 deve essere identificata mediante un codice.
+<sup>1</sup> Ogni partita di gomma di guar di cui all’articolo 1 deve essere identificata mediante un codice.[^5-1]
 
 <sup>2</sup> Questo codice deve essere riportato anche sul certificato e sul rapporto d’analisi.
 
 <sup>3</sup> Ogni singola confezione o altra forma d’imballaggio della partita è identificata da questo codice.
 
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 21 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+
 #### Art. 6
 
-**Notifica preventiva agli uffici doganali**
+[^6-1]
 
-<sup>1</sup> Le partite contenenti prodotti di cui all’articolo 1 devono essere notificate preventivamente all’ufficio doganale interessato[^6-1].
-
-<sup>2</sup> Nella notifica sono indicate la data e l’ora previste dell’arrivo della partita.
-
-[^6-1]: [www.ezv.admin.ch/kontakt/01972/index.html?lang=it](http://www.ezv.admin.ch/kontakt/01972/index.html?lang=de)
+[^6-1]: Abrogato dal n. I dell’O dell’USAV del 21 dic. 2020, con effetto dal 1° feb. 2021 ([RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 7
 
@@ -129,3 +130,13 @@ I controlli ufficiali eseguiti nell’ambito dell’importazione comprendono:
 **Entrata in vigore**
 
 La presente ordinanza entra in vigore il 1° ottobre 2015.
+
+## Disposizione transitoria della modifica del 21 dicembre 2020
+
+[^u1-1]
+
+[^u1-1]: [RU 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)
+
+I prodotti di cui all’articolo 1 dellʼordinanza dellʼUSAV sulla gomma di guar originaria o proveniente dall’India nella versione del 14 settembre 2015[^u1-2] corredati da un certificato valido secondo il diritto anteriore possono essere importati fino al 31 gennaio 2022.
+
+[^u1-2]: [RU 2015 3621](https://fedlex.data.admin.ch/eli/oc/2015/605)

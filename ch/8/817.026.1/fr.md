@@ -3,51 +3,52 @@ sr: "817.026.1"
 title: "Ordonnance de l'OSAV du 14 septembre 2015 régissant l'importation de gomme de guar originaire ou en provenance d'Inde"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/605"
 language: fr
-version: 2015-10-01
+version: 2021-02-01
 adopted: 2015-09-14
 in_force: 2015-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20151001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-605-20151001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20151001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/605/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-605-20210201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/605/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV régissant l’importation de gomme de guar originaire ou en provenance d’Inde
 
-du 14 septembre 2015 (Etat le 1<sup>er</sup> octobre 2015)
+du 14 septembre 2015 (État le 1<sup>er</sup> février 2021)
 
 L’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV),
 
-vu l’art. 68, al. 1, de l’ordonnance du 23 novembre 2005 sur les denrées alimentaires et les objets usuels[^ingress-1],
+vu l’art. 86, al. 2, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [[RO 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765),[2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)annexe 2 ch. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)annexe 3 ch. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)annexe ch. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 5. [RO 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 al. 1]. Voir actuellement l’O du 16 déc. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^ingress-1]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 1
 
-**Objet**
+**Objet**[^1-1]
 
-La présente ordonnance s’applique à l’importation des produits suivants:
+La présente ordonnance régit l’importation de gomme de guar relevant du numéro 1302 32 90 du tarif des douanes[^1-2], originaire ou en provenance d’Inde et destinée à la consommation humaine.
 
-- a. gomme de guar relevant du numéro 1302 32 90 du tarif des douanes[^1-1], originaire ou en provenance de l’Inde et destinée à la consommation humaine;
-- b. denrées alimentaires composées, en particulier préparations d’additifs, contenant au moins 20 % de gomme de guar selon la let. a.
-
-[^1-1]: www.tares.ch
+[^1-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)). Voir aussi la disp. trans. à la fin du texte.
+[^1-2]: www.tares.ch
 
 #### Art. 2
 
 **Certificat sanitaire sur la teneur maximale en pentachlorophénol**
 
-<sup>1</sup> Les produits visés à l’art. 1 ne peuvent être importés en Suisse que s’ils sont accompagnés du certificat selon l’annexe du règlement d’exécution (UE) 2015/175[^2-1], qui atteste que leur teneur en pentachlorophénol (PCP) ne dépasse pas 0,01 mg/kg.
+<sup>1</sup> La gomme de guar visée à l’art. 1 ne peut être importée en Suisse que si elle est accompagnée du certificat selon l’annexe IV du règlement d’exécution (UE) 2019/1793[^2-1], qui atteste qu’elle ne contient pas plus de 0,01 mg/kg de pentachlorophénol (PCP).[^2-2]
 
 <sup>2</sup> Le certificat doit être rédigé en français, en allemand, en italien ou en anglais.
 
 <sup>3</sup> Il doit être signé par une personne habilitée du ministère indien du commerce et de l’industrie ou par une personne habilitée du pays d’expédition, si ce dernier diffère du pays d’origine.
 
-<sup>4</sup> Il est valable pendant quatre mois à compter de sa date d’émission.
+<sup>4</sup> Il est valable pendant quatre mois à compter de sa date d’émission, mais pendant six mois au plus à compter de la date des résultats d’analyse.[^2-3]
 
-[^2-1]: Règlement d’exécution (UE) 2015/175 de la Commission du 5 février 2015 fixant les conditions particulières applicables à l’importation de gomme de guar originaire ou en provenance de l’Inde, en raison des risques de contamination par le pentachlorophénol et les dioxines, JO L 30 du 6.2.2015, p. 10
+[^2-1]: Règlement d’exécution (UE) 2019/1793 de la Commission du 22 octobre 2019 relatif au renforcement temporaire des contrôles officiels et aux mesures d’urgence régissant l’entrée dans l’Union de certains biens provenant de certains pays tiers, mettant en œuvre les règlements (UE) 2017/625 et (CE) n<sup>o</sup> 178/2002 du Parlement européen et du Conseil et abrogeant les règlements (CE) n<sup>o</sup> 669/2009, (UE) n<sup>o</sup> 884/2014, (UE) 2015/175, (UE) 2017/186 et (UE) 2018/1660 de la Commission, JO L 277 du 29.10.2019, p. 89.
+[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+[^2-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 3
 
@@ -84,21 +85,19 @@ Doivent également être indiqués avec le résultat d’analyse:
 
 **Codage du lot**
 
-<sup>1</sup> Chaque lot de produits visés à l’art. 1 doit être identifié au moyen d’un code.
+<sup>1</sup> Chaque lot de gomme de guar visée à l’art. 1 doit être identifié au moyen d’un code.[^5-1]
 
 <sup>2</sup> Ce code doit être reporté sur le certificat et sur le rapport d’analyse.
 
 <sup>3</sup> Il doit être apposé sur chaque emballage ou sur toute autre forme de conditionnement du lot.
 
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 21 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
+
 #### Art. 6
 
-**Notification préalable au bureau de douane**
+[^6-1]
 
-<sup>1</sup> Les lots contenant les produits visés à l’art. 1 doivent être notifiés au préalable au bureau de douane concerné[^6-1].
-
-<sup>2</sup> Le bureau de douane concerné doit être avisé au préalable de la date et de l’heure d’arrivée prévues.
-
-[^6-1]: www.ezv.admin.ch/kontakt/01972/index.html?lang=fr
+[^6-1]: Abrogé par le ch. I de l’O de l’OSAV du 21 déc. 2020, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)).
 
 #### Art. 7
 
@@ -127,3 +126,13 @@ Doivent également être indiqués avec le résultat d’analyse:
 **Entrée en vigueur**
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> octobre 2015.
+
+## Disposition transitoire relative à la modification du 21 décembre 2020
+
+[^u1-1]
+
+[^u1-1]: [RO 2021 42](https://fedlex.data.admin.ch/eli/oc/2021/42)
+
+Les produits visés à l’art. 1 de l’ordonnance de l’OSAV régissant l’importation de gomme de guar originaire ou en provenance d’Inde dans sa version du 14 septembre 2015[^u1-2] qui sont accompagnés d’un certificat établi selon l’ancien droit peuvent être importés jusqu’au 31 janvier 2022.
+
+[^u1-2]: [RO 2015 3621](https://fedlex.data.admin.ch/eli/oc/2015/605)
