@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2003 über den internationalen Kulturgütertra
 short: KGTG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: de
-version: 2020-11-01
+version: 2021-02-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20201101/de/xml/fedlex-data-admin-ch-eli-cc-2005-317-20201101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/de"
 
 (Kulturgütertransfergesetz, KGTG)
 
-vom 20. Juni 2003 (Stand am 1. November 2020)
+vom 20. Juni 2003 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 69 Absatz 2 und 95 Absatz 1 der Bundesverfassung[^ingress-1], in Ausführung des Übereinkommens vom 14. November 1970[^ingress-2] über Massnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut (UNESCO-Konvention 1970) und des Übereinkommens vom 2. November 2001[^ingress-3] über den Schutz des Unterwasser-Kulturerbes (UNESCO-Übereinkommen 2001),[^ingress-4]
+gestützt auf die Artikel 69 Absatz 2 und 95 Absatz 1 der Bundesverfassung[^ingress-1], in Ausführung des Übereinkommens vom 14. November 1970[^ingress-2] über Massnahmen zum Verbot und zur Verhütung der rechtswidrigen Einfuhr, Ausfuhr und Übereignung von Kulturgut (UNESCO-Konvention 1970) und des Übereinkommens vom 2. November 2001[^ingress-3] über den Schutz des Unterwasser-Kulturerbes (UNESCO-Übereinkommen 2001),[^ingress-4] nach Einsicht in die Botschaft des Bundesrates vom 21. November 2001[^ingress-5],
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [SR 0.444.1](https://fedlex.data.admin.ch/eli/cc/2004/357)
-[^ingress-3]: [SR 0.444.2](https://fedlex.data.admin.ch/eli/cc/2020/101)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [SR 0.444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1825)
+[^ingress-3]: [SR 0.444.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1834)
 [^ingress-4]: Fassung gemäss Anhang Ziff. 1 des BB vom 21. Juni 2019 über die Genehmigung des Übereinkommens über den Schutz des Unterwasser-Kulturerbes und über seine Umsetzung, in Kraft seit 1. Nov. 2020 ([AS 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [BBl 2019 467](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^ingress-5]: [BBl 2002 535](https://fedlex.data.admin.ch/eli/fga/2002/93)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -52,9 +53,10 @@ beschliesst:
 
 <sup>4</sup> Als *Fachstelle* gilt die Verwaltungsstelle, die für den Vollzug der in Artikel 18 bezeichneten Aufgaben zuständig ist.
 
-<sup>5</sup> Als *rechtswidrige Einfuhr* gilt eine Einfuhr, die eine Vereinbarung im Sinne von Artikel 7 oder eine Massnahme im Sinne von Artikel 8 Absatz 1 Buchstabe a verletzt.
+<sup>5</sup> Als *rechtswidrige Ein-, Durch- oder Ausfuhr* gilt eine Ein-, Durch- oder Ausfuhr, die eine Vereinbarung im Sinne von Artikel 7 oder eine Massnahme im Sinne von Artikel 8 Absatz 1 Buchstabe a verletzt.[^2-2]
 
 [^2-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 21. Juni 2019 über die Genehmigung des Übereinkommens über den Schutz des Unterwasser-Kulturerbes und über seine Umsetzung, in Kraft seit 1. Nov. 2020 ([AS 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [BBl 2019 467](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^2-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 2. Abschnitt: Kulturgüterverzeichnisse
 
@@ -86,13 +88,28 @@ Der Eintrag eines Kulturgutes im Bundesverzeichnis kann gestrichen werden, sofer
 
 **Verzeichnisse der Kantone**
 
-- [tab] <sup>1</sup> Zur Vereinfachung der Kontrolle an der Grenze können die Kantone, welche die Ausfuhr von Kulturgütern auf ihrem Gebiet regeln, mit der Datenbank des Bundes verbinden:
+<sup>1</sup>
+
+Zur Vereinfachung der Kontrolle an der Grenze können die Kantone, welche die Ausfuhr von Kulturgütern auf ihrem Gebiet regeln, mit der Datenbank des Bundes verbinden:
+
 - a. Verzeichnisse ihrer Kulturgüter;
 - b. Verzeichnisse der Kulturgüter von Privatpersonen, wenn diese ihre Einwilligung dazu gegeben haben.
 
 <sup>2</sup> Die Kantone können erklären, dass Kulturgüter in ihren Verzeichnissen weder ersessen noch gutgläubig erworben werden können und dass der Herausgabeanspruch nicht verjährt.
 
-## 3. Abschnitt: Ein- und Ausfuhr
+## 3. Abschnitt: Ein-, Durch- und Ausfuhr
+
+[^sec3-1]
+
+[^sec3-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+#### Art. 4a
+
+**Zollanmeldung**[^4a-1]
+
+Wer Kulturgut nach Artikel 2 Absatz 1 ein-, durch- oder ausführt, hat dies beim Zoll anzumelden.
+
+[^4a-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 5
 
@@ -178,7 +195,7 @@ Wird ein Kulturgut aus einem Vertragsstaat für eine Ausstellung an ein Museum o
 
 <sup>4</sup> Wer keine Einsprache erhoben hat, ist vom weiteren Verfahren ausgeschlossen.
 
-[^11-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^11-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12
 
@@ -232,7 +249,7 @@ Finanzhilfen nach Absatz 1 Buchstabe a können nur ausgerichtet werden, wenn die
 Die Finanzierung der Finanzhilfen nach Artikel 14 richtet sich nach Artikel 27 des Kulturförderungsgesetzes vom 11. Dezember 2009[^14a-2].
 
 [^14a-1]: Eingefügt durch Anhang Ziff. II 4 des Kulturförderungsgesetzes vom 11. Dez. 2009, in Kraft seit 1. Jan. 2012 ([AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [BBl 2007 4819](https://fedlex.data.admin.ch/eli/fga/2007/681)[4857](https://fedlex.data.admin.ch/eli/fga/2007/683)).
-[^14a-2]: [SR 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^14a-2]: [SR 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 
 ## 6. Abschnitt: Übertragung von Kulturgut
 
@@ -271,7 +288,7 @@ Die im Kunsthandel und im Auktionswesen tätigen Personen sind verpflichtet:
 
 <sup>3</sup> Die Aufzeichnungen und Belege sind während 30 Jahren aufzubewahren. Artikel 962 Absatz 2 des Obligationenrechts[^16-1] gilt sinngemäss.
 
-[^16-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17
 
@@ -358,13 +375,13 @@ Die Bundesbehörden können die Daten nach Absatz 2 von sich aus oder auf Ersuch
 
 Bei Widerhandlungen gegen dieses Gesetz kann den zuständigen ausländischen Behörden Rechtshilfe geleistet werden. Solche Widerhandlungen gelten nicht als währungs-, handels- oder wirtschaftspolitische Delikte im Sinne von Artikel 3 Absatz 3 des Rechtshilfegesetzes vom 20. März 1981[^23-1]; dessen Verfahrensbestimmungen bleiben anwendbar.
 
-[^23-1]: [SR 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^23-1]: [SR 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
-## 9. Abschnitt: Strafbestimmungen****
+## 9. Abschnitt: Strafbestimmungen
 
 [^sec9-1]
 
-[^sec9-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
+[^sec9-1]: Ab 1. Jan. 2007 sind die angedrohten Strafen und die Verjährungsfristen in Anwendung von Art. 333 Abs. 2–6 des Strafgesetzbuches ([SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)) in der Fassung des BG vom 13. Dez. 2002 ([AS 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); BBl **1999** 1979) zu interpretieren beziehungsweise umzurechnen.
 
 #### Art. 24
 
@@ -372,18 +389,24 @@ Bei Widerhandlungen gegen dieses Gesetz kann den zuständigen ausländischen Beh
 
 <sup>1</sup>
 
-Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht ist, wird mit Gefängnis bis zu einem Jahr oder Busse bis zu 100 000 Franken bestraft, wer vorsätzlich:
+Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht ist, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft, wer vorsätzlich:[^24-1]
 
 - a. gestohlene oder gegen den Willen der Eigentümerin oder des Eigentümers abhanden gekommene Kulturgüter einführt, verkauft, vertreibt, vermittelt, erwirbt oder ausführt;
-- b. sich Grabungsfunde im Sinne von Artikel 724 des Zivilgesetzbuches[^24-1] aneignet;
-- c. Kulturgüter rechtswidrig einführt oder bei der Ein- oder Durchfuhr unrichtig deklariert;
-- d. im Bundesverzeichnis erfasste Kulturgüter rechtswidrig ausführt oder bei der Ausfuhr unrichtig deklariert;
+- b. sich Grabungsfunde im Sinne von Artikel 724 des Zivilgesetzbuches[^24-2] aneignet;
+- c.[^24-3] Kulturgut rechtswidrig ein-, durch- oder ausführt;
+- c<sup>bis</sup>.[^24-4] bei der Ein-, Durch- oder Ausfuhr von Kulturgut in der Zollanmeldung keine oder falsche Angaben darüber macht;
+- d.[^24-5] im Bundesverzeichnis erfasste Kulturgüter ohne Bewilligung ausführt.
 
 <sup>2</sup> Handelt die Täterin oder der Täter fahrlässig, so ist die Strafe Busse bis zu 20 000 Franken.
 
-<sup>3</sup> Handelt die Täterin oder der Täter gewerbsmässig, so ist die Strafe Gefängnis bis zu zwei Jahren oder Busse bis zu 200 000 Franken.
+<sup>3</sup> Handelt der Täter oder die Täterin gewerbsmässig, so ist die Strafe Freiheitsstrafe bis zu zwei Jahren oder Geldstrafe.[^24-6]
 
-[^24-1]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: [SR 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^24-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-5]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-6]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 25
 
@@ -398,7 +421,9 @@ Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht i
 
 <sup>2</sup> Versuch und Gehilfenschaft sind strafbar.
 
-<sup>3</sup> In leichten Fällen kann von der Bestrafung abgesehen werden.
+<sup>3</sup> ...[^25-1]
+
+[^25-1]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2020, mit Wirkung seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 26
 
@@ -406,7 +431,7 @@ Sofern die Tat nicht nach einer anderen Bestimmung mit höherer Strafe bedroht i
 
 Für Widerhandlungen in Geschäftsbetrieben gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974[^26-1] über das Verwaltungsstrafrecht.
 
-[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 27
 
@@ -418,9 +443,10 @@ Für die Verfolgung und die Beurteilung der strafbaren Handlungen nach diesem Ge
 
 **Einziehung von Kulturgütern und Vermögenswerten**
 
-Die nach den Artikeln 58 und 59 des Strafgesetzbuches[^28-1] eingezogenen Kulturgüter und Vermögenswerte fallen an den Bund. Der Bundesrat regelt ihre Verwendung. Er berücksichtigt dabei die Ziele dieses Gesetzes.
+Die nach den Artikeln 69–72 des Strafgesetzbuchs[^28-1] eingezogenen Kulturgüter und Vermögenswerte fallen an den Bund.[^28-2] Er berücksichtigt dabei die Ziele dieses Gesetzes.
 
-[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Heute: nach den Art. 69–72.
+[^28-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^28-2]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 

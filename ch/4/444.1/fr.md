@@ -4,11 +4,11 @@ title: "Loi fédérale du 20 juin 2003 sur le transfert international des biens 
 short: LTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: fr
-version: 2020-11-01
+version: 2021-02-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-317-20201101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-fr-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/fr"
 
 (Loi sur le transfert des biens culturels, LTBC)
 
-du 20 juin 2003 (Etat le 1<sup>er</sup> novembre 2020)
+du 20 juin 2003 (État le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 69, al. 2, et 95, al. 1, de la Constitution[^ingress-1], en exécution de la Convention du 14 novembre 1970 concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels (convention de l’UNESCO de 1970)[^ingress-2], en exécution de la Convention du 2 novembre 2001 sur la protection du patrimoine culturel subaquatique (convention de l’UNESCO de 2001)[^ingress-3],[^ingress-4]
+vu les art. 69, al. 2, et 95, al. 1, de la Constitution[^ingress-1], en exécution de la Convention du 14 novembre 1970 concernant les mesures à prendre pour interdire et empêcher l’importation, l’exportation et le transfert de propriété illicites des biens culturels (convention de l’UNESCO de 1970)[^ingress-2], en exécution de la Convention du 2 novembre 2001 sur la protection du patrimoine culturel subaquatique (convention de l’UNESCO de 2001)[^ingress-3],[^ingress-4] vu le message du Conseil fédéral du 21 novembre 2001[^ingress-5],
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 0.444.1](https://fedlex.data.admin.ch/eli/cc/2004/357)
-[^ingress-3]: [RS 0.444.2](https://fedlex.data.admin.ch/eli/cc/2020/101)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 0.444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1825)
+[^ingress-3]: [RS 0.444.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1834)
 [^ingress-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 21 juin 2019 portant approbation et mise en œuvre de la convention sur la protection du patrimoine culturel subaquatique, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 461](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^ingress-5]: [FF 2002 505](https://fedlex.data.admin.ch/eli/fga/2002/93)
 
 ## Section 1 Dispositions générales
 
@@ -52,9 +53,10 @@ arrête:
 
 <sup>4</sup> Par *service spécialisé,* on entend l’unité administrative chargée de l’exécution des tâches prévues à l’art. 18.
 
-<sup>5</sup> Par *importation illicite*, on entend une importation qui contrevient à un accord au sens de l’art. 7 ou à une mesure au sens de l’art. 8, al. 1, let. a.
+<sup>5</sup> Par *importation, transit ou exportation* *illicites*, on entend une importation, un transit ou une exportation qui contreviennent à un accord au sens de l’art. 7 ou à une mesure au sens de l’art. 8, al. 1, let. a.[^2-2]
 
 [^2-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 21 juin 2019 portant approbation et mise en œuvre de la convention sur la protection du patrimoine culturel subaquatique, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 461](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^2-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Section 2 Inventaires des biens culturels
 
@@ -95,7 +97,19 @@ Afin de faciliter le contrôle à la frontière, les cantons qui règlent l’ex
 
 <sup>2</sup> Les cantons peuvent déclarer que les biens culturels figurant dans leurs inventaires ne peuvent faire l’objet d’une prescription acquisitive ni être acquis de bonne foi et que le droit à la restitution n’est pas soumis à prescription.
 
-## Section 3 Importation et exportation
+## Section 3 Importation, transit et exportation
+
+[^sec3-1]
+
+[^sec3-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+#### Art. 4a
+
+**Déclaration en douane**[^4a-1]
+
+Quiconque importe, fait transiter ou exporte un bien culturel au sens de l’art. 2, al. 1, est tenu de le déclarer à la douane.
+
+[^4a-1]: Introduit par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 5
 
@@ -181,7 +195,7 @@ Si un bien culturel provenant d’un État partie est prêté temporairement à 
 
 <sup>4</sup> Quiconque n’a pas fait opposition est exclu de la suite de la procédure.
 
-[^11-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^11-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12
 
@@ -235,7 +249,7 @@ Les aides financières visées à l’al. 1, let. a, ne sont allouées que si le
 Le financement des aides financières visées à l’art. 14 se fonde sur l’art. 27 de la loi du 11 décembre 2009 sur l’encouragement de la culture[^14a-2].
 
 [^14a-1]: Introduit par l’annexe ch. II 4 de la L du 11 déc. 2009 sur l’encouragement de la culture, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4579](https://fedlex.data.admin.ch/eli/fga/2007/681)[4617](https://fedlex.data.admin.ch/eli/fga/2007/683)).
-[^14a-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^14a-2]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 
 ## Section 6 Transfert des biens culturels
 
@@ -274,7 +288,7 @@ Les commerçants d’art et les personnes pratiquant la vente aux enchères sont
 
 <sup>3</sup> Les enregistrements et les pièces justificatives doivent être conservés pendant 30 ans. L’art. 962, al. 2, du code des obligations[^16-1] est applicable par analogie.
 
-[^16-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17
 
@@ -361,9 +375,9 @@ Les autorités fédérales peuvent communiquer d’office les données visées �
 
 En cas d’infractions à la présente loi, l’entraide judiciaire peut être accordée aux autorités étrangères compétentes. Ces infractions ne sont pas considérées comme des actes contrevenant à des mesures monétaires, économiques ou commerciales au sens de l’art. 3, al. 3, de la loi du 20 mars 1981 sur l’entraide pénale internationale[^23-1]; les dispositions procédurales de cette dernière sont applicables.
 
-[^23-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^23-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
-## Section 9 Dispositions pénales****
+## Section 9 Dispositions pénales
 
 [^sec9-1]
 
@@ -375,18 +389,24 @@ En cas d’infractions à la présente loi, l’entraide judiciaire peut être a
 
 <sup>1</sup>
 
-Pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère, est passible de l’emprisonnement pour un an au plus ou d’une amende de 100 000 francs au plus quiconque, intentionnellement:
+Pour autant que l’infraction ne tombe pas sous le coup d’une disposition prévoyant une peine plus sévère, est passible d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire quiconque, intentionnellement:[^24-1]
 
 - a. importe, vend, distribue, procure, acquiert ou exporte des biens culturels volés ou dont le propriétaire s’est trouvé dessaisi sans sa volonté;
-- b. s’approprie le produit de fouilles au sens de l’art. 724 du code civil[^24-1];
-- c. importe illicitement des biens culturels ou fait une déclaration incorrecte lors de l’importation ou du transit de ces biens;
-- d. exporte illicitement des biens culturels inscrits dans l’inventaire fédéral ou fait une fausse déclaration lors de l’exportation de ces biens.
+- b. s’approprie le produit de fouilles au sens de l’art. 724 du code civil[^24-2];
+- c.[^24-3] importe, fait transiter ou exporte illicitement des biens culturels;
+- c<sup>bis</sup>.[^24-4] lors de l’importation, du transit ou de l’exportation de biens culturels, omet de fournir des informations ou fournit de fausses informations au moment de la déclaration en douane;
+- d.[^24-5] exporte sans autorisation des biens culturels inscrits dans l’inventaire fédéral.
 
 <sup>2</sup> Si l’auteur agit par négligence, la peine est une amende de 20 000 francs au plus.
 
-<sup>3</sup> Si l’auteur agit par métier, la peine est l’emprisonnement pour deux ans au plus ou une amende de 200 000 francs au plus.
+<sup>3</sup> L’auteur qui agit par métier est passible d’une peine privative de liberté de deux ans au plus ou d’une peine pécuniaire.[^24-6]
 
-[^24-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^24-3]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-4]: Introduite par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-5]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-6]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 25
 
@@ -401,7 +421,9 @@ Pour autant que l’infraction ne tombe pas sous le coup d’une disposition pr�
 
 <sup>2</sup> La tentative et la complicité sont punissables.
 
-<sup>3</sup> Dans les cas de peu de gravité, le juge peut renoncer à toute peine.
+<sup>3</sup> ...[^25-1]
+
+[^25-1]: Abrogé par le ch. I de la LF du 25 sept. 2020, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 26
 
@@ -409,7 +431,7 @@ Pour autant que l’infraction ne tombe pas sous le coup d’une disposition pr�
 
 Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^26-1] sont applicables aux infractions commises dans les entreprises.
 
-[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 27
 
@@ -421,9 +443,10 @@ La poursuite et le jugement des actes punissables selon la présente loi incombe
 
 **Confiscation de biens culturels et de valeurs**
 
-Les biens culturels et les valeurs confisqués en vertu des art. 58 et 59 du code pénal[^28-1] sont dévolus à la Confédération. Le Conseil fédéral règle leur affectation. Il tient compte à cet effet des buts de la présente loi.
+Les biens culturels et les valeurs confisqués en vertu des art. 69 à 72 du code pénal[^28-1] sont dévolus à la Confédération.[^28-2] Le Conseil fédéral règle leur affectation. Il tient compte à cet effet des buts de la présente loi.
 
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Actuellement: art. 69–72.
+[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^28-2]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 

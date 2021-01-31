@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2003 sul trasferimento internazionale dei b
 short: LTBC
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/317"
 language: it
-version: 2020-11-01
+version: 2021-02-01
 adopted: 2003-06-20
 in_force: 2005-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20201101/it/xml/fedlex-data-admin-ch-eli-cc-2005-317-20201101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/317/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2005-317-20210201-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/317/20201101/it"
 
 (Legge sul trasferimento dei beni culturali, LTBC)
 
-del 20 giugno 2003 (Stato 1° novembre 2020)
+del 20 giugno 2003 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 69 capoverso 2 e 95 capoverso 1 della Costituzione federale[^ingress-1]; in esecuzione della Convenzione del 14 novembre 1970[^ingress-2] concernente le misure da adottare per interdire e impedire l’illecita importazione, esportazione e trasferimento di proprietà di beni culturali (Convenzione UNESCO 1970); in esecuzione della Convenzione del 2 novembre 2001[^ingress-3] sulla protezione del patrimonio culturale subacqueo (Convenzione UNESCO 2001),[^ingress-4]
+visti gli articoli 69 capoverso 2 e 95 capoverso 1 della Costituzione federale[^ingress-1]; in esecuzione della Convenzione del 14 novembre 1970[^ingress-2] concernente le misure da adottare per interdire e impedire l’illecita importazione, esportazione e trasferimento di proprietà di beni culturali (Convenzione UNESCO 1970); in esecuzione della Convenzione del 2 novembre 2001[^ingress-3] sulla protezione del patrimonio culturale subacqueo (Convenzione UNESCO 2001),[^ingress-4] visto il messaggio del Consiglio federale del 21 novembre 2001[^ingress-5],
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [RS 0.444.1](https://fedlex.data.admin.ch/eli/cc/2004/357)
-[^ingress-3]: [RS 0.444.2](https://fedlex.data.admin.ch/eli/cc/2020/101)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^ingress-2]: [RS 0.444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1825)
+[^ingress-3]: [RS 0.444.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1834)
 [^ingress-4]: Nuovo testo giusta l’all. n. 1 del DF del 21 giu. 2019 che approva la Convenzione sulla protezione del patrimonio culturale subacqueo e la traspone nel diritto svizzero, in vigore dal 1° nov. 2020 ([RU 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 423](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^ingress-5]: [FF 2002 457](https://fedlex.data.admin.ch/eli/fga/2002/93)
 
 ## Sezione 1: Disposizioni generali
 
@@ -52,9 +53,10 @@ decreta:
 
 <sup>4</sup> Per *Servizio specializzato* si intende l’organo amministrativo cui incombe l’esecuzione dei compiti definiti nell’articolo 18.
 
-<sup>5</sup> Per *importazione illecita* s’intende un’importazione che viola una convenzione secondo l’articolo 7 o un provvedimento secondo l’articolo 8 capoverso 1 lettera a.
+<sup>5</sup> Per *importazione,* *transito* *o* *esportazione* *illeciti* s’intende un’importazione, un transito o un’esportazione che viola una convenzione secondo l’articolo 7 o un provvedimento secondo l’articolo 8 capoverso 1 lettera a.[^2-2]
 
 [^2-1]: Nuovo testo giusta l’all. n. 1 del DF del 21 giu. 2019 che approva la Convenzione sulla protezione del patrimonio culturale subacqueo e la traspone nel diritto svizzero, in vigore dal 1° nov. 2020 ([RU 2020 3793](https://fedlex.data.admin.ch/eli/oc/2020/694); [FF 2019 423](https://fedlex.data.admin.ch/eli/fga/2019/110)).
+[^2-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Sezione 2: Elenchi dei beni culturali
 
@@ -95,7 +97,19 @@ Per semplificare i controlli al confine, i Cantoni che disciplinano l’esportaz
 
 <sup>2</sup> I Cantoni possono dichiarare che i beni culturali iscritti nei loro elenchi non possono essere acquistati né per usucapione né in buona fede e che il diritto alla loro riconsegna è imprescrittibile.
 
-## Sezione 3: Importazione ed esportazione
+## Sezione 3: Importazione, transito ed esportazione
+
+[^sec3-1]
+
+[^sec3-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+#### Art. 4a
+
+**Dichiarazione doganale**[^4a-1]
+
+Chiunque importa, fa transitare o esporta beni culturali ai sensi dell’articolo 2 capoverso 1 deve dichiararlo alla dogana.
+
+[^4a-1]: Introdotto dalla cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 5
 
@@ -181,7 +195,7 @@ Se un bene culturale proveniente da uno Stato contraente è temporaneamente dato
 
 <sup>4</sup> Chi non ha fatto opposizione è escluso dalla procedura ulteriore.
 
-[^11-1]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^11-1]: [RS 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 12
 
@@ -226,7 +240,7 @@ Gli aiuti finanziari secondo il capoverso 1 lettera a sono versati soltanto se l
 - a. d’intesa con le autorità dell’altro Stato; o
 - b. sotto gli auspici dell’UNESCO o di un’altra organizzazione internazionale dedita alla protezione dei beni culturali.
 
-[^14-1]: Introdotto dall’all. n. II 4 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14-1]: Introdotto dall’all. cifra II n. 4 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 #### Art. 14a
 
@@ -234,8 +248,8 @@ Gli aiuti finanziari secondo il capoverso 1 lettera a sono versati soltanto se l
 
 Il finanziamento degli aiuti finanziari secondo l’articolo 14 è retto dall’articolo 27 della legge dell’11 dicembre 2009[^14a-2] sulla promozione della cultura.
 
-[^14a-1]: Introdotto dall’all. n. II 4 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
-[^14a-2]: [RS 442.1](https://fedlex.data.admin.ch/eli/cc/2011/854)
+[^14a-1]: Introdotto dall’all. cifra II n. 4 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^14a-2]: [RS 442.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7110)
 
 ## Sezione 6: Trasferimento di beni culturali
 
@@ -274,7 +288,7 @@ Le persone operanti nel commercio d’arte e nelle aste pubbliche sono tenute a:
 
 <sup>3</sup> I registri e i documenti giustificativi sono conservati per 30 anni. L’articolo 962 capoverso 2 del Codice delle obbligazioni[^16-1] si applica per analogia.
 
-[^16-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^16-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 17
 
@@ -353,7 +367,7 @@ Le autorità federali possono comunicare i dati secondo il capoverso 2, di propr
 
 - a. concede la reciprocità;
 - b. garantisce che i dati saranno trattati esclusivamente per gli scopi stabiliti nella presente legge; e
-- a. garantisce che i dati saranno utilizzati in un procedimento penale unicamente se l’assistenza giudiziaria in materia penale non sarebbe esclusa a causa del genere del reato; in tal caso il servizio amministrativo federale competente decide previamente, dopo aver consultato l’Ufficio federale di giustizia, se l’assistenza giudiziaria in materia penale sia possibile.
+- c. garantisce che i dati saranno utilizzati in un procedimento penale unicamente se l’assistenza giudiziaria in materia penale non sarebbe esclusa a causa del genere del reato; in tal caso il servizio amministrativo federale competente decide previamente, dopo aver consultato l’Ufficio federale di giustizia, se l’assistenza giudiziaria in materia penale sia possibile.
 
 #### Art. 23
 
@@ -361,13 +375,13 @@ Le autorità federali possono comunicare i dati secondo il capoverso 2, di propr
 
 In caso di infrazione alla presente legge, alle autorità estere competenti può essere concessa assistenza giudiziaria. Simili infrazioni non sono considerate reati di politica monetaria, commerciale o economica ai sensi dell’articolo 3 capoverso 3 della legge federale del 20 marzo 1981[^23-1] sull’assistenza internazionale in materia penale; le disposizioni procedurali di tale legge rimangono nondimeno applicabili.
 
-[^23-1]: [RS 351.1](https://fedlex.data.admin.ch/eli/cc/1982/846_846_846)
+[^23-1]: [RS 351.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6277)
 
-## Sezione 9: Disposizioni penali****
+## Sezione 9: Disposizioni penali
 
 [^sec9-1]
 
-[^sec9-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2−6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)), nel testo della LF del 13 dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
+[^sec9-1]: A partire dal 1° gen. 2007 le pene e i termini di prescrizione devono essere adattati giusta la chiave di conversione dell’art. 333 cpv. 2−6 del Codice penale ([RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)), nel testo della LF del 13 dic. 2002 ([RU 2006 3459](https://fedlex.data.admin.ch/eli/oc/2006/549); FF **1999** 1669).
 
 #### Art. 24
 
@@ -375,18 +389,24 @@ In caso di infrazione alla presente legge, alle autorità estere competenti può
 
 <sup>1</sup>
 
-Salvo che per il reato sia comminata una pena più severa in virtù di un’altra disposizione, è punito con la detenzione fino a un anno o con la multa fino a 100 000 franchi chiunque, intenzionalmente:
+Salvo che per il reato sia comminata una pena più severa in virtù di un’altra disposizione, è punito con una pena detentiva fino a un anno o con una pena pecuniaria chiunque, intenzionalmente:[^24-1]
 
 - a. importa, vende, distribuisce, procura per mediazione, acquista o esporta beni culturali rubati o andati persi contro la volontà del proprietario;
-- b. si appropria di prodotti di scavi ai sensi dell’articolo 724 del Codice civile[^24-1];
-- c. importa illecitamente beni culturali o li dichiara in modo inesatto all’importazione o al transito;
-- d. esporta illecitamente o dichiara in modo inesatto all’esportazione beni culturali iscritti nell’Elenco federale.
+- b. si appropria di prodotti di scavi ai sensi dell’articolo 724 del Codice civile[^24-2];
+- c.[^24-3] importa, fa transitare o esporta illecitamente beni culturali;
+- c<sup>bis</sup>.[^24-4] all’atto dell’importazione, del transito o dell’esportazione di beni culturali, omette informazioni nella dichiarazione doganale o vi fornisce informazioni false;
+- d.[^24-5] esporta senza autorizzazione beni culturali iscritti nell’Elenco federale.
 
 <sup>2</sup> Chi ha agito per negligenza è punito con la multa fino a 20 000 franchi.
 
-<sup>3</sup> Chi ha agito per mestiere è punito con la detenzione fino a due anni o con la multa fino a 200 000 franchi.
+<sup>3</sup> Chi ha agito per mestiere è punito con una pena detentiva fino a due anni o con una pena pecuniaria.[^24-6]
 
-[^24-1]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+[^24-1]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-2]: [RS 210](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5703)
+[^24-3]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-4]: Introdotta dalla cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-5]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^24-6]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 25
 
@@ -401,7 +421,9 @@ Salvo che per il reato sia comminata una pena più severa in virtù di un’altr
 
 <sup>2</sup> Il tentativo e la complicità sono punibili.
 
-<sup>3</sup> Nei casi di lieve gravità si può prescindere dalla punizione.
+<sup>3</sup> ...[^25-1]
+
+[^25-1]: Abrogato dalla cifra I della LF del 25 set. 2020, con effetto dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 26
 
@@ -409,7 +431,7 @@ Salvo che per il reato sia comminata una pena più severa in virtù di un’altr
 
 Alle infrazioni commesse nell’azienda sono applicabili gli articoli 6 e 7 della legge federale del 22 marzo 1974[^26-1] sul diritto penale amministrativo.
 
-[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^26-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 27
 
@@ -421,9 +443,10 @@ Il perseguimento e il giudizio dei reati secondo la presente legge competono ai 
 
 **Confisca di beni culturali e valori patrimoniali**
 
-I beni culturali e valori patrimoniali confiscati secondo gli articoli 58 e 59 del Codice penale[^28-1] sono devoluti alla Confederazione. Il Consiglio federale ne disciplina l’impiego. A tal fine tiene conto degli obiettivi della presente legge.
+I beni culturali e valori patrimoniali confiscati secondo gli articoli 69–72 del Codice penale[^28-1] sono devoluti alla Confederazione.[^28-2] Il Consiglio federale ne disciplina l’impiego. A tal fine tiene conto degli obiettivi della presente legge.
 
-[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799). Ora: gli art. 69–72.
+[^28-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^28-2]: Nuovo testo giusta la cifra I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 50](https://fedlex.data.admin.ch/eli/oc/2021/50); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 29
 
@@ -453,7 +476,7 @@ Il Consiglio federale emana le disposizioni d’esecuzione.
 
 ...[^32-1]
 
-[^32-1]: Le modifiche possono essere consultate alla [RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317).
+[^32-1]: Le mod. possono essere consultate alla [RU 2005 1869](https://fedlex.data.admin.ch/eli/oc/2005/317).
 
 #### Art. 33
 
@@ -471,4 +494,4 @@ La presente legge non è applicabile retroattivamente. In particolare, non si ap
 
 Data dell’entrata in vigore: 1° giugno 2005[^34-1]
 
-[^34-1]: DCF del 13 apr. 2005
+[^34-1]: DCF del 13 apr. 2005.
