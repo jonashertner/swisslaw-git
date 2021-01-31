@@ -4,13 +4,13 @@ number: "153.2"
 title: Verordnung betreffend die Organisation und die Zuständigkeiten der Staatsverwaltung des Kantons Zug
 short: "Organisationsverordnung, OV"
 language: de
-version: 2020-12-05
-valid_until: 2021-01-31
-version_adopted: 2020-12-01
+version: 2021-02-01
+valid_until: 2025-07-10
+version_adopted: 2021-01-12
 adopted: 2018-10-02
 in_force: 2019-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/153.2"
-pdf: "https://bgs.zg.ch/api/de/versions/2172/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2208/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2172/pdf_file"
 
 (Organisationsverordnung, OV)
 
-Vom 2. Oktober 2018 (Stand 5. Dezember 2020)
+Vom 2. Oktober 2018 (Stand 1. Februar 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -188,6 +188,6 @@ beschliesst:
 
 - 1\. Datenschutzstelle (DATS);
 - 2\. Ombudsstelle (OMB);
-- 3\. Kommunikationsstelle des Regierungsrats (KOMM).
+- 3\. …
 
 GS 2018/060
