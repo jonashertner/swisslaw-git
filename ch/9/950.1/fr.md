@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les services financiers (LSFin)
 short: LSFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: fr
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/fr"
 
 (LSFin)
 
-du 15 juin 2018 (Etat le 1<sup>er</sup> janvier 2020)
+du 15 juin 2018 (Etat le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -457,20 +457,21 @@ Les conseillers à la clientèle sont inscrits au registre des conseillers s’i
 
 - a. qu’ils remplissent les exigences visées à l’art. 6;
 - b. qu’ils ont conclu une assurance responsabilité civile professionnelle ou fourni des garanties financières équivalentes, et
-- c. qu’ils sont eux-mêmes affiliés en qualité de prestataire de services financiers ou que le prestataire de services financiers pour lequel ils exercent leur activité est affilié à un organe de médiation (art. 74).
+- c.[^29-1] qu’ils sont eux-mêmes affiliés en qualité de prestataire de services financiers ou que le prestataire de services financiers pour lequel ils exercent leur activité est affilié à un organe de médiation (art. 74), pour autant qu’ils soient tenus d’y être affiliés (art. 77).
 
 <sup>2</sup>
 
 Ne sont pas inscrits au registre les conseillers à la clientèle:
 
-- a. qui font l’objet d’une condamnation pénale inscrite au casier judiciaire en vertu des art. 89 à 92 de la présente loi, de l’art. 86 LSA[^29-1] ou pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> du code pénal[^29-2], ou
-- b. contre lesquels une interdiction de pratiquer selon l’art. 33*a* LFINMA[^29-3] ou une interdiction d’exercer selon l’art. 33 LFINMA est prononcée.
+- a. qui font l’objet d’une condamnation pénale inscrite au casier judiciaire en vertu des art. 89 à 92 de la présente loi, de l’art. 86 LSA[^29-2] ou pour l’une des infractions contre le patrimoine visées aux art. 137 à 172<sup>ter</sup> du code pénal[^29-3], ou
+- b. contre lesquels une interdiction de pratiquer selon l’art. 33*a* LFINMA[^29-4] ou une interdiction d’exercer selon l’art. 33 LFINMA est prononcée.
 
 <sup>3</sup> Si les conseillers à la clientèle sont des collaborateurs d’un prestataire de services financiers, la condition prévue par l’al. 1, let. b, peut être satisfaite par ce dernier.
 
-[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-1]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^29-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 30
 
@@ -1173,9 +1174,11 @@ Une demande de médiation est admissible en tout temps:
 
 #### Art. 77
 
-**Obligation d’affiliation**
+**Obligation d’affiliation**[^77-1]
 
-Les prestataires de services financiers doivent être affiliés à un organe de médiation au plus tard au moment où ils commencent leur activité.
+Les prestataires de services financiers qui ne fournissent pas exclusivement des prestations à des clients institutionnels ou à des clients professionnels au sens de l’art. 4, al. 3 et 4 doivent être affiliés à un organe de médiation au plus tard au moment où ils commencent leur activité.
+
+[^77-1]: Nouvelle teneur selon le ch. I 4 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 78
 

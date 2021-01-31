@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sui servizi finanziari (Legge sui serv
 short: LSerFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: it
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/it"
 
 (Legge sui servizi finanziari, LSerFi)
 
-del 15 giugno 2018 (Stato 1° gennaio 2020)
+del 15 giugno 2018 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -457,20 +457,21 @@ I consulenti alla clientela sono iscritti nel registro dei consulenti se fornisc
 
 - a. che soddisfano i requisiti di cui all’articolo 6;
 - b. che hanno stipulato un’assicurazione di responsabilità civile professionale o che forniscono garanzie finanziarie equivalenti; e
-- c. che sono affiliati, in qualità di fornitori di servizi finanziari, a un organo di mediazione (art. 74) o che vi è affiliato il fornitore di servizi finanziari per il quale operano.
+- c.[^29-1] che sono affiliati, in qualità di fornitori di servizi finanziari, a un organo di mediazione (art. 74) o che vi è affiliato il fornitore di servizi finanziari per il quale operano, sempreché siano tenuti ad affiliarsi (art. 77).
 
 <sup>2</sup>
 
 Non sono iscritti nel registro i consulenti alla clientela:
 
-- a. che sono oggetto di una condanna penale secondo gli articoli 89–92 della presente legge o secondo l’articolo 86 LSA[^29-1] o che sono iscritti nel casellario giudiziale per reati contro il patrimonio secondo gli articoli 137–172<sup>ter</sup> del Codice penale[^29-2]; o
-- b. nei confronti dei quali, per l’attività da iscrivere nel registro, è stato ordinato un divieto di esercizio dell’attività secondo l’articolo 33*a* LFINMA[^29-3] o un divieto di esercizio della professione secondo l’articolo 33 LFINMA.
+- a. che sono oggetto di una condanna penale secondo gli articoli 89–92 della presente legge o secondo l’articolo 86 LSA[^29-2] o che sono iscritti nel casellario giudiziale per reati contro il patrimonio secondo gli articoli 137–172<sup>ter</sup> del Codice penale[^29-3]; o
+- b. nei confronti dei quali, per l’attività da iscrivere nel registro, è stato ordinato un divieto di esercizio dell’attività secondo l’articolo 33*a* LFINMA[^29-4] o un divieto di esercizio della professione secondo l’articolo 33 LFINMA.
 
 <sup>3</sup> Se il consulente alla clientela opera come collaboratore di un fornitore di servizi finanziari, la condizione di cui al capoverso 1 lettera b può essere soddisfatta da quest’ultimo.
 
-[^29-1]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-2]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-1]: Nuovo testo giusta il n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^29-2]: [RS 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-3]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-4]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 30
 
@@ -1171,9 +1172,11 @@ Una domanda di mediazione può essere accolta in ogni momento se:
 
 #### Art. 77
 
-**Obbligo di affiliazione**
+**Obbligo di affiliazione**[^77-1]
 
-Al più tardi quando iniziano la loro attività, i fornitori di servizi finanziari devono essere affiliati a un organo di mediazione.
+Al più tardi all’inizio della loro attività, i fornitori di servizi finanziari devono essere affiliati a un organo di mediazione; sono eccettuati da tale obbligo quelli che forniscono tali servizi unicamente a clienti professionali o istituzionali ai sensi dell’articolo 4 capoversi 3 e 4.
+
+[^77-1]: Nuovo testo giusta il n. I 4 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 78
 

@@ -4,22 +4,22 @@ title: "Federal Act of 15 June 2018 on Financial Services (Financial Services Ac
 short: FinSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: en
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Federal Act on Financial Services
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Financial Services Act, FinSA)
 
-of 15 June 2018 (Status as of 1 January 2020)
+of 15 June 2018 (Status as of 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -461,20 +461,21 @@ Client advisers are entered in the register of advisers if they prove that they:
 
 - a. satisfy the requirements set out in Article 6;
 - b. have taken out professional indemnity insurance or that equivalent collateral exists; and
-- c. are themselves affiliated to an ombudsman's office (Article 74) in their capacity as a financial service provider or the financial service provider for which they work is affiliated to an ombudsman's office.
+- c.[^29-1] are themselves affiliated to an ombudsman (Art. 74) in their capacity as a financial service provider, or that the financial service provider for which they work is affiliated to an ombudsman, where a duty to affiliate exists (Art. 77).
 
 <sup>2</sup>
 
 Client advisers shall not be entered in the register of advisers if they:
 
-- a. have been convicted of criminal offences in accordance with Articles 89 to 92 of this Act or Article 86 ISA[^29-1] or of property offences under Articles 137 to 172<sup>ter</sup> of the Swiss Criminal Code[^29-2]; or
-- b. have been prohibited from performing the registrable activity in accordance with Article 33*a* FINMASA[^29-3] or from practising a profession in accordance with Article 33 FINMASA.
+- a. have been convicted of criminal offences in accordance with Articles 89 to 92 of this Act or Article 86 ISA[^29-2] or of property offences under Articles 137 to 172<sup>ter</sup> of the Swiss Criminal Code[^29-3]; or
+- b. have been prohibited from performing the registrable activity in accordance with Article 33*a* FINMASA[^29-4] or from practising a profession in accordance with Article 33 FINMASA.
 
 <sup>3</sup> If client advisers are employed as staff by a financial service provider, the condition set out in paragraph 1 letter b may be fulfilled by the latter.
 
-[^29-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-1]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 30
 
@@ -1175,9 +1176,11 @@ A mediation request is permissible at any time if:
 
 #### Art. 77
 
-**Duty to affiliate**
+**Duty to affiliate**[^77-1]
 
-Financial service providers must affiliate to an ombudsman's office at the latest on commencing activity.
+Financial service providers that do not provide financial services exclusively to institutional or professional clients in accordance with Article 4 paragraphs 3 and 4 must affiliate to an ombudsman at the latest on commencing their activity.
+
+[^77-1]: Amended by No I 4 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 78
 

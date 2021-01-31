@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzdienstleistungen (Finanzd
 short: FIDLEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/758"
 language: de
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/758/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2019-758-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/758/20200101/de"
 
 (Finanzdienstleistungsgesetz, FIDLEG)
 
-vom 15. Juni 2018 (Stand am 1. Januar 2020)
+vom 15. Juni 2018 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -459,20 +459,21 @@ Kundenberaterinnen und ‑berater werden in das Beraterregister eingetragen, wen
 
 - a. die Anforderungen nach Artikel 6 erfüllen;
 - b. eine Berufshaftpflichtversicherung abgeschlossen haben oder dass gleichwertige finanzielle Sicherheiten bestehen; und
-- c. selbst als Finanzdienstleister oder der Finanzdienstleister, für den sie tätig sind, einer Ombudsstelle (Art. 74) angeschlossen sind.
+- c.[^29-1] selbst als Finanzdienstleister oder der Finanzdienstleister, für den sie tätig sind, einer Ombudsstelle (Art. 74) angeschlossen sind, sofern eine Anschlusspflicht (Art. 77) besteht.
 
 <sup>2</sup>
 
 Nicht ins Beraterregister eingetragen werden Kundenberaterinnen und ‑berater:
 
-- a. die nach den Artikeln 89–92 dieses Gesetzes oder nach Artikel 86 VAG[^29-1] strafrechtlich verurteilt oder wegen strafbarer Handlungen gegen das Vermögen nach den Artikeln 137–172<sup>ter</sup> des Strafgesetzbuches[^29-2] im Strafregister eingetragen sind; oder
-- b. gegen die für die einzutragende Tätigkeit ein Tätigkeitsverbot nach Artikel 33*a* FINMAG[^29-3] oder ein Berufsverbot nach Artikel 33 FINMAG vorliegt.
+- a. die nach den Artikeln 89–92 dieses Gesetzes oder nach Artikel 86 VAG[^29-2] strafrechtlich verurteilt oder wegen strafbarer Handlungen gegen das Vermögen nach den Artikeln 137–172<sup>ter</sup> des Strafgesetzbuches[^29-3] im Strafregister eingetragen sind; oder
+- b. gegen die für die einzutragende Tätigkeit ein Tätigkeitsverbot nach Artikel 33*a* FINMAG[^29-4] oder ein Berufsverbot nach Artikel 33 FINMAG vorliegt.
 
 <sup>3</sup> Sind die Kundenberaterinnen und ‑berater als Mitarbeiterinnen oder Mitarbeiter für einen Finanzdienstleister tätig, so kann die Voraussetzung nach Absatz 1 Buchstabe b durch diesen erfüllt werden.
 
-[^29-1]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
-[^29-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^29-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^29-1]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^29-2]: [SR 961.01](https://fedlex.data.admin.ch/eli/cc/2005/734)
+[^29-3]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^29-4]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
 #### Art. 30
 
@@ -1173,9 +1174,11 @@ Ein Vermittlungsgesuch ist jederzeit zulässig, wenn:
 
 #### Art. 77
 
-**Anschlusspflicht**
+**Anschlusspflicht**[^77-1]
 
-Finanzdienstleister müssen sich spätestens mit Aufnahme ihrer Tätigkeit einer Ombudsstelle anschliessen.
+Finanzdienstleister, die nicht ausschliesslich gegenüber institutionellen oder professionellen Kunden nach Artikel 4 Absätze 3 und 4 Finanzdienstleistungen erbringen, müssen sich spätestens mit Aufnahme ihrer Tätigkeit einer Ombudsstelle anschliessen.
+
+[^77-1]: Fassung gemäss Ziff. I 4 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 78
 
@@ -1379,6 +1382,6 @@ Anhang
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2019 4417](https://fedlex.data.admin.ch/eli/oc/2019/758)konsultiert werden.
