@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-01-23
+version: 2021-02-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210123/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210123-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 23 January 2021)
+of 19 June 2020 (Status as of 1 February 2021)
 
 The Swiss Federal Council,
 
@@ -602,15 +602,17 @@ The cantons are required to report the following to the Coordinated Medical Serv
 
 Any person who commits any of the following acts shall be liable to a fine:
 
-- a.[^13-2] wilfully failing as an operator or organiser to comply with the requirements imposed on them in Article 4 paragraphs 1 and 2 or in Articles 5*a*, 5*d* paragraph 1, 5*e*, 5*f* and 6*d*–6*f*;
-- a<sup>bis</sup>.[^13-3] operating a ski area without the required authorisation or in derogation from the approved precautionary measures plan;
-- b. holding a large-scale event prohibited under Article 6 paragraph 1;
-- c.[^13-4] holding trade fairs or markets the holding of which is prohibited by Article 6 paragraph 3.
+- a. as an operator or organiser, wilfully or negligently failing to comply with the requirements imposed in Article 4 paragraphs 1 and 2 or in Articles 5*a*, 5*d* paragraph 1, 5*e*, 5*f* and 6*d*–6*f*;
+- b. as an operator or organiser, wilfully or negligently processing contact details recorded pursuant to Article 5 for other purposes in contravention of Article 5 paragraph 3 or retaining such details for longer than 14 days after the person or persons concerned participated in the event or visited the establishment or business;
+- c. wilfully operating a ski area without the required authorisation pursuant to Article 5*c* paragraph 2 or in derogation from the approved precautionary measures plan;
+- d. wilfully holding a large-scale event prohibited under Article 6 paragraphs 1 and 2 or participating in such an event;
+- e. wilfully holding a trade fair or market the holding of which is prohibited by Article 6 paragraph 3.
+- f. wilfully or negligently failing to wear a face mask in contravention of Article 3*a* or 3*b* paragraph 1 in public transport vehicles, publicly accessible indoor and outdoor areas of businesses and establishments, including markets, in waiting areas for trains, buses trams and cableways, and in railway stations, airports and other public transport access areas, unless an exception pursuant to Article 3*a* paragraph 1 or Article 3*b* paragraph 2 applies;
+- g. wilfully contravening the ban on gatherings of people in public areas in Article 3*c* paragraph 1 or pursuant to a stricter provision of cantonal law;
+- h. as a guest of a restaurant or bar for hotel guests, wilfully contravening the requirement to be seated in Article 5*a* paragraph 2 letter d number 2;
+- i. wilfully or negligently failing to wear a face mask at a political or civil society demonstration or when collecting signatures, unless an exception pursuant to Article 6*c* paragraph 2 second sentence applies.
 
-[^13-1]: Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Amended by No I of the O of 13 Jan. 2021 (Further Tightening of Measures), in force from 18 Jan. 2021 until 28 Feb. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
-[^13-3]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^13-4]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^13-1]: Amended by No I of the O of 27 Jan. 2021 (Additional Criminal Provisions and Introduction of the Fixed Penalty Procedure), in force from 1 Feb. 2021 to 31 Dec. 2021, let. h until 28 Feb. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 
 ## Section 7 Final Provisions
 

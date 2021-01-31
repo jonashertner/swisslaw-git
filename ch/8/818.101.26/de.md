@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-01-23
+version: 2021-02-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210123/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210123-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 23. Januar 2021)
+vom 19. Juni 2020 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -265,13 +265,14 @@ Die Kantone prüfen regelmässig, ob das Schutzkonzept korrekt umgesetzt wird. S
 
   Sport- und Wellnessbetriebe, namentlich Sport- und Fitnesszentren, Kunsteisbahnen und Schwimmbäder, mit Ausnahme von:
 
-  - 1\. Skigebieten und anderen Anlagen im freien Gelände,
+  - 1\.[^5d-2] Skigebieten und anderen Anlagen im freien Gelände,
   - 2\. Anlagen für den Reitsport,
   - 3\. Anlagen in Hotels, sofern sie nur für Hotelgäste zugänglich sind.
 
 <sup>2</sup> Zulässig bleibt die Nutzung von Einrichtungen und Betrieben in den Bereichen Kultur und Sport für Aktivitäten von Kindern und Jugendlichen vor ihrem 16. Geburtstag.
 
 [^5d-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Massnahmenverschärfung Dezember), in Kraft vom 22. Dez. 2020 bis zum 28. Febr. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5d-2]: Die Berichtigung vom 21. Jan. 2021 betrifft nur den französischen und italienischen Text ([AS 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)).
 
 #### Art. 5e
 
@@ -599,15 +600,17 @@ Die Kantone sind verpflichtet, dem Koordinierten Sanitätsdienst regelmässig Fo
 
 Mit Busse wird bestraft, wer:
 
-- a.[^13-2] als Betreiber oder Organisator vorsätzlich seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a*, 5*d* Absatz 1, 5*e*, 5*f* und 6*d*–6*f* nicht einhält;
-- a<sup>bis</sup>.[^13-3] ein Skigebiet ohne die erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept betreibt;
-- b. eine nach Artikel 6 Absatz 1 verbotene Veranstaltung durchführt;
-- c.[^13-4] Messen oder Märkte durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist.
+- a. als Betreiber oder Organisator vorsätzlich oder fahrlässig seine Verpflichtungen nach Artikel 4 Absätze 1 und 2 sowie nach den Artikeln 5*a*, 5*d* Absatz 1, 5*e*, 5*f* und 6*d*–6*f* nicht einhält;
+- b. als Betreiber oder Organisator vorsätzlich oder fahrlässig die nach Artikel 5 erhobenen Kontaktdaten entgegen Artikel 5 Absatz 3 zu anderen Zwecken bearbeitet oder länger als 14 Tage nach der Teilnahme an der Veranstaltung oder dem Besuch der Einrichtung oder des Betriebs aufbewahrt;
+- c. vorsätzlich ein Skigebiet ohne die nach Artikel 5*c* Absatz 2 erforderliche Bewilligung oder abweichend vom bewilligten Schutzkonzept betreibt;
+- d. vorsätzlich eine nach Artikel 6 Absätze 1 und 2 verbotene Veranstaltung durchführt oder an einer solchen Veranstaltung teilnimmt;
+- e. vorsätzlich Messen oder Märkte durchführt, deren Durchführung nach Artikel 6 Absatz 3 verboten ist;
+- f. entgegen Artikel 3*a* oder 3*b* Absatz 1 in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 3*a* Absatz 1 oder Artikel 3*b* Absatz 2 gegeben ist;
+- g. vorsätzlich gegen das Verbot von Menschenansammlungen im öffentlichen Raum nach Artikel 3*c* Absatz 1 oder nach einer strengeren Bestimmung des kantonalen Rechts verstösst;
+- h. als Gast eines Restaurations- oder Barbetriebs für Hotelgäste vorsätzlich gegen die Sitzpflicht nach Artikel 5*a* Absatz 2 Buchstabe d Ziffer 2 verstösst;
+- i. an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung vorsätzlich oder fahrlässig keine Gesichtsmaske trägt, sofern nicht eine Ausnahme nach Artikel 6*c* Absatz 2 zweiter Satz gegeben ist.
 
-[^13-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
-[^13-3]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^13-4]: Eingefügt durch Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^13-1]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021, Bst. h bis zum 28. Febr. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -764,7 +767,7 @@ Anhang 2*[^t-2]*
 
 ## Lebensmittel und andere Güter des kurzfristigen und täglichen Bedarfs
 
-[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Die Berichtigungen vom 20. Jan. 2021 ([AS 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)) und 21. Jan. 2021 ([AS 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)) betreffen nur den französischen Text.
 
 ### 1. Lebensmittel
 

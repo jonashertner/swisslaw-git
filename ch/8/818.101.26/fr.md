@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-01-23
+version: 2021-02-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210123/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210123-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 23 janvier 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -265,13 +265,14 @@ Les installations et les établissements accessibles au public des domaines de l
 
   les installations de sport et de bien-être, notamment les centres sportifs et de fitness, les patinoires artificielles et les piscines, à l’exception:
 
-  - 1\. des domaines skiables et autres installations en plein air,
+  - 1\.[^5d-2] des domaines skiables et autres installations en terrain ouvert,
   - 2\. des installations d’équitation,
   - 3\. des installations réservées aux clients des hôtels.
 
 <sup>2</sup> Reste autorisée l’utilisation des installations et des établissements des domaines de la culture et du sport pour les activités des enfants et des adolescents de moins de 16 ans.
 
 [^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre), en vigueur du 22 déc. 2020 au 28 fév. 2021 ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5d-2]: Erratum du 21 janv. 2021 ([RO 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)).
 
 #### Art. 5e
 
@@ -599,15 +600,17 @@ Les cantons ont l’obligation de communiquer régulièrement au Service sanitai
 
 Est puni de l’amende quiconque:
 
-- a.[^13-2] en tant qu’exploitant ou organisateur enfreint intentionnellement les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*d*, al. 1, 5*e*, 5*f* et 6*d* à 6*f*;
-- a<sup>bis</sup>.[^13-3] exploite un domaine skiable sans l’autorisation requise ou en dérogeant au plan de protection approuvé;
-- b. organise une manifestation interdite en vertu de l’art. 6, al. 1;
-- c.[^13-4] organise une foire ou un marché interdits en vertu de l’art. 6, al. 3.
+- a. en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence les obligations qui lui incombent en vertu des art. 4, al. 1 et 2, 5*a*, 5*d*, al. 1, 5*e*, 5*f* et 6*d* à 6*f*;
+- b. en tant qu’exploitant ou organisateur enfreint intentionnellement ou par négligence l’art. 5, al. 3, en utilisant les coordonnées collectées en vertu de l’art. 5 à d’autres fins ou en les conservant pendant plus de 14 jours suivant la manifestation ou la visite de l’installation ou de l’établissement;
+- c. exploite intentionnellement un domaine skiable sans l’autorisation requise en vertu de l’art. 5*c*, al. 2, ou en dérogeant au plan de protection approuvé;
+- d. organise intentionnellement une manifestation interdite en vertu de l’art. 6, al. 1 et 2, ou y participe;
+- e. organise intentionnellement une foire ou un marché interdits en vertu de l’art. 6, al. 3;
+- f. enfreint intentionnellement ou par négligence l’art. 3*a* ou 3*b*, al. 1, en ne portant pas de masque facial dans les véhicules des transports publics, dans les espaces clos et extérieurs accessibles au public des installations et des établissements, y compris les marchés, ainsi que dans les zones d’attente des gares, des arrêts de bus et de tram et des remontées mécaniques, dans les gares, les aéroports ou d’autres zones d’accès aux transports publics, à moins qu’une exemption ne soit applicable en vertu de l’art. 3*a*, al. 1, ou 3*b*, al. 2;
+- g. enfreint intentionnellement l’interdiction de rassemblements dans l’espace public au sens de l’art. 3*c*, al. 1, ou une disposition cantonale plus stricte;
+- h. enfreint intentionnellement l’obligation de consommer assis dans un établissement de restauration ou un bar réservé aux clients d’un hôtel en vertu de l’art. 5*a*, al. 2, let. d, ch. 2;
+- i. ne porte pas de masque facial intentionnellement ou par négligence en participant à une manifestation politique ou de la société civile ou à une récolte de signatures, à moins qu’une exemption ne soit applicable en vertu de l’art. 6*c*, al. 2, 2<sup>e</sup> phrase.
 
-[^13-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
-[^13-3]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^13-4]: Introduite par le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver) ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^13-1]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021, let. h jusqu’au 28 fév. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 
 ## Section 7 Dispositions finales
 
@@ -762,7 +765,7 @@ Annexe 2*[^t-2]*
 
 ## Denrées alimentaires et autres biens de première nécessité et de consommation courante
 
-[^t-2]: Introduite par le ch. II de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Introduite par le ch. II de l’O du 13 janv. 2021 (Renforcement supplémentaire des mesures), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Errata des 20 janv. 2021 ([RO 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)) et 21 janv. 2021 ([RO 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)).
 
 ### 1. Denrées alimentaires
 
@@ -771,13 +774,13 @@ Annexe 2*[^t-2]*
 
 ### 2. Produits non alimentaires
 
-- 2\.1 les articles de droguerie, tels que savon, produits de douche, parfums, déodorants, papier hygiénique, crèmes corporelles, produits de rasage, produits de soins capillaires, produits de soins dentaires, articles pour bébés, couches, autres produits cosmétiques, produits de santé et médicaments en vente libre dont la remise est autorisée également en dehors des pharmacies;
+- 2\.1 les articles de droguerie, tels que savon, produits de douche, parfums, déodorants, papier hygiénique, crèmes corporelles, produits de rasage, produits de soins capillaires, produits de soins dentaires, produits de soins pour bébés, couches, autres produits cosmétiques, produits de santé et médicaments en vente libre dont la remise est autorisée également en dehors des pharmacies;
 - 2\.2 les articles de vaisselle et de table, y compris les couverts et les ustensiles de cuisine, les récipients de stockage et le matériel de cuisson et de conservation, dans la mesure où ils peuvent être considérés comme des biens de consommation courante de par leur nature et leur prix, ainsi que les bougies;
 - 2\.3 les produits de nettoyage et d’entretien;
 - 2\.4 les journaux et revues;
 - 2\.5 les produits de papeterie;
 - 2\.6 les plantes d’intérieur et les fleurs coupées;
-- 2\.7 le matériel photographique;
+- 2\.7 les consommables pour la photographie;
 - 2\.8 les pièces de rechange et accessoires électrotechniques (piles, batteries, etc.);
 - 2\.9 les articles de bonneterie, les sous-vêtements et les vêtements pour bébés, dans la mesure où ils peuvent être considérés comme des biens de consommation courante de par leur nature et leur prix;
 - 2\.10 les articles de bricolage et de jardinage (outils, matériaux de construction, semences, terre, etc.);

@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-01-23
+version: 2021-02-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210123/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210123-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210123/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 23 gennaio 2021)
+del 19 giugno 2020 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -265,13 +265,14 @@ Le strutture culturali, ricreative, per il tempo libero e sportive accessibili a
 
   le strutture sportive e per il benessere, segnatamente centri sportivi e palestre, piste di pattinaggio e piscine, esclusi:
 
-  - 1\. i comprensori sciistici e altri impianti all’aperto,
+  - 1\.[^5d-2] i comprensori sciistici e altri impianti all’aperto in spazi non delimitati,
   - 2\. gli impianti per l’equitazione,
   - 3\. gli impianti negli alberghi a condizione che siano accessibili ai soli ospiti dell’albergo.
 
 <sup>2</sup> Resta ammessa l’utilizzazione delle strutture culturali e sportive per le attività con bambini e giovani fino al compimento dei 16 anni.
 
 [^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre), in vigore dal 22 dic. 2020 al 28 feb. 2021 ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978), [2021 6](https://fedlex.data.admin.ch/eli/oc/2021/6)).
+[^5d-2]: Correzione del 21 gen. 2021 ([RU 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)).
 
 #### Art. 5e
 
@@ -599,15 +600,17 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 
 È punito con la multa chi:
 
-- a.[^13-2] in qualità di gestore o organizzatore intenzionalmente non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 5*e*, 5*f* e 6*d*–6*f*;
-- [tab] a<sup>bis</sup>.[^13-3]gestisce un comprensorio sciistico senza la necessaria autorizzazione o derogando al piano di protezione approvato;
-- b. svolge una manifestazione vietata secondo l’articolo 6 capoverso 1;
-- c.[^13-4] svolge fiere o mercati il cui svolgimento è vietato secondo l’articolo 6 capoverso 3.
+- a. in qualità di gestore o organizzatore intenzionalmente o per negligenza non rispetta i suoi obblighi di cui all’articolo 4 capoversi 1 e 2 e agli articoli 5*a*, 5*d* capoverso 1, 5*e*, 5*f* e 6*d*–6*f*;
+- b. in qualità di gestore o organizzatore intenzionalmente o per negligenza tratta i dati di contatto rilevati secondo l’articolo 5 per altri scopi o li conserva per più di 14 giorni dopo la partecipazione a una manifestazione o la visita di una struttura in violazione dell’articolo 5 capoverso 3;
+- c. intenzionalmente gestisce un comprensorio sciistico senza la necessaria autorizzazione secondo l’articolo 5*c* capoverso 2 o in deroga al piano di protezione approvato;
+- d. intenzionalmente svolge una manifestazione o partecipa a una manifestazione vietata secondo l’articolo 6 capoversi 1 e 2;
+- e. intenzionalmente svolge fiere o mercati il cui svolgimento è vietato secondo l’articolo 6 capoverso 3;
+- f. in violazione dell’articolo 3*a* o 3*b* capoverso 1, sui veicoli del trasporto pubblico, in luoghi chiusi e aree esterne accessibili al pubblico di strutture, compresi i mercati, nonché in aree di attesa delle ferrovie, delle linee di autobus e tram e degli impianti a fune, in stazioni ferroviarie, aeroporti o in altri settori di accesso dei trasporti pubblici intenzionalmente o per negligenza non porta una mascherina facciale, a meno che non sia applicabile la deroga di cui all’articolo 3*a* capoverso 1 o all’articolo 3*b* capoverso 2;
+- g. intenzionalmente viola il divieto di assembramento nello spazio pubblico secondo l’articolo 3*c* capoverso 1 o secondo una disposizione può restrittiva del diritto cantonale;
+- h. in qualità di ospite di una struttura della ristorazione o di un bar riservati agli ospiti dell’albergo intenzionalmente viola l’obbligo di stare seduti di cui all’articolo 5*a* capoverso 2 lettera d numero 2;
+- i. intenzionalmente o per negligenza non porta una mascherina facciale a una manifestazione politica o a una raccolta di firme, a meno che non sia applicabile la deroga di cui all’articolo 6*c* capoverso 2 secondo periodo.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^13-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
-[^13-3]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^13-4]: Introdotta dal n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
+[^13-1]: Nuovo testo giusta il n. I dell’O del 27 gen. 2021 (Ampliamento delle disposizioni penali e introduzione della procedura della multa disciplinare), in vigore dal 1° feb. 2021 al 31 dic. 2021, lett. h dal 1° feb. 2021 al 28 feb. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -651,7 +654,7 @@ I Cantoni sono tenuti a notificare regolarmente al Servizio sanitario coordinato
 [^15-2]: Introdotto dal n. I dell’O del 12 ago. 2020 (Obbligo della mascherina negli aeromobili; grandi manifestazioni)([RU 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Introdotto dal n. I dell’O del 2 set. 2020 (Grandi manifestazioni)([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Abrogato dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), con effetto dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 4 cpv. 3 e 5 cpv. 1)
 
@@ -755,13 +758,13 @@ Allegato 1*[^t-1]*
 - 4\.5 Per le famiglie o altri gruppi di persone che si conoscono tra di loro e nelle strutture della ristorazione, nei bar e nei club è sufficiente registrare i dati di contatto di un solo membro della famiglia o del gruppo.
 - 4\.6 Il gestore o l’organizzatore deve garantire la riservatezza dei dati di contatto registrati e la sicurezza dei dati, segnatamente nell’ambito della loro conservazione.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 5*e* cpv. 2 lett. a ed e)
 
 ## Generi alimentari e altri beni di prima necessità e di uso corrente
 
-[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
+[^t-2]: Introdotto dal n. II dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Le correzioni del 20 gen. 2021 ([RU 2021 17](https://fedlex.data.admin.ch/eli/oc/2021/17)) e del 21 gen. 2021 ([RU 2021 26](https://fedlex.data.admin.ch/eli/oc/2021/26)) concernono soltanto il testo francese.
 
 ### 1. Generi alimentari
 
