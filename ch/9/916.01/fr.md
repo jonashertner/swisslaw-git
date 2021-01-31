@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210101/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (Etat le 1<sup>er</sup> janvier 2021)
+du 26 octobre 2011 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1194,7 +1194,7 @@ Les importations des voyageurs sont réglées à l’art. 47.
 
 Les dispositions spécifiques aux marchés, telles que l’attribution des contingents tarifaires partiels, sont réglées aux art. 34 à 36.
 
-- **[1]** **Seuls les droits de douanes qui dérogent au tarif gén****é****ral sont indiqués. Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
+- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués. Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
 - [4-1] Le droit de douane est fixé dans l’ordonnance du DFF du 27 janvier 2005 concernant les éléments mobiles applicables à l’importation de produits agricoles transformés (RS *632.111.722.1*)*.*
 - [4-2] Importé sous contingent tarifaire spécial («contingent de fontal»), au tarif de 50 francs par 100 kg brut.
 - [4-3] Les produits importés sous le contingent tarifaire partiel n<sup>o</sup> 7.3 ne doivent être utilisés que pour l’alimentation humaine.
@@ -1430,7 +1430,7 @@ Les importations des voyageurs sont réglées à l’art. 47.
 
 Les dispositions spécifiques au marché sont réglées dans l’OIELFP (RS *916.121.10*). Les numéros tarifaires non soumis au régime du PGI ne sont pas concernés par les dispositions de l’OIELFP [10-4].
 
-- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont ind****i****qués****. Le tarif d’usage publié sur www.tares.ch contient** **d’autres droits de douane applicables****. En période d’auto-approvisionnement, les taux hors contingent réduits peuvent être appliqués. En ce qui concerne le numéro tar****i****faire 0709.3019, le droit de douane peut être appliqué du 4 juillet au 9 septembre.**
+- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués****. Le tarif d’usage publié sur www.tares.ch contient** **d’autres droits de douane applicables****. En période d’auto-approvisionnement, les taux hors contingent réduits peuvent être appliqués. En ce qui concerne le numéro tarifaire 0709.3019, le droit de douane peut être appliqué du 4 juillet au 9 septembre.**
 - [10-1] Tomates Sugo-Peretti importées entre le 20 août et le 23 septembre
 
 Les groupes de numéros tarifaires visés à l’art. 4 OIELFP sont indiqués dans la colonne 5.
@@ -1449,10 +1449,10 @@ Les groupes de numéros tarifaires visés à l’art. 4 OIELFP sont indiqués da
 <tr><td>0702.0020</td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0702.0021</td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>ex 0702.0021</td><td></td><td></td><td>non soumis au régime du PGI</td><td>15</td><td>[10-1]</td></tr>
-<tr><td>0702.0029</td><td>**150.00**</td><td></td><td>20</td><td></td><td>**en période d’auto-approv****i****sionnement**</td></tr>
+<tr><td>0702.0029</td><td>**150.00**</td><td></td><td>20</td><td></td><td>**en période d’auto-approvisionnement**</td></tr>
 <tr><td>0702.0030</td><td></td><td></td><td>20</td><td>15</td><td>[10-2.1]</td></tr>
 <tr><td>0702.0031</td><td></td><td></td><td>0</td><td>15</td><td>[10-2.1]</td></tr>
-<tr><td>0702.0039</td><td>**150.00**</td><td></td><td>20</td><td></td><td>**en période d’auto-approvisio****n****nement** [10-2.1]</td></tr>
+<tr><td>0702.0039</td><td>**150.00**</td><td></td><td>20</td><td></td><td>**en période d’auto-approvisionnement** [10-2.1]</td></tr>
 <tr><td>0702.0090</td><td></td><td></td><td>20</td><td>15</td><td>[10-2.1]</td></tr>
 <tr><td>0702.0091</td><td></td><td></td><td>0</td><td>15</td><td>[10-2.1]</td></tr>
 <tr><td>0702.0099</td><td>**150.00**</td><td></td><td>20</td><td></td><td>**en période d’auto-approvisionnement** [10-2.1]</td></tr>
@@ -1723,7 +1723,7 @@ Les importations des voyageurs sont réglées à l’art. 47.
 
 Les dispositions spécifiques au marché sont réglées dans l’OIELFP (RS *916.121.10*). Les numéros tarifaires non soumis au régime du PGI ne sont pas concernés par les dispositions de l’OIELFP [12-3].
 
-- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués. Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables. En période d’auto-approvisionnement, les taux hors contingent réduits peuvent être appl****i****qués.**
+- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués. Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables. En période d’auto-approvisionnement, les taux hors contingent réduits peuvent être appliqués.**
 - [12-1] Les fruits broyés ou les fruits qui se sont écrasés durant le transport ne requièrent pas de PGI.
 - [12-2] Le contingent tarifaire n<sup>o</sup> 19 ne s’applique pas aux produits destinés à une transformation industrielle.
 
@@ -1860,7 +1860,7 @@ Les droits de douane figurent dans l’annexe 2.
 
 Lorsqu’un numéro tarifaire correspond à l’un de ces groupes de produits, il est mentionné dans la colonne 2.
 
-- **[14-1.1-11]** **Les numéros tarifaires dont la valeur indicative d’importation correspond au prix-seuil sont imprimés en cara****c****tères gras**
+- **[14-1.1-11]** **Les numéros tarifaires dont la valeur indicative d’importation correspond au prix-seuil sont imprimés en caractères gras**
 - [14-2] à l’exception des faînes
 - [14-4] Les droits de douane sont calculés sur la base des recettes standard définies dans l’ordonnance du DEFR du 7 décembre 1998 sur les régimes douaniers préférentiels, les valeurs de rendement et les recettes standard (RS *916.112.231*).
 - [14-5] Les droits de douane pour les mélanges de céréales fourragères sont fixés conformément à l’art. 28, al. 5.
@@ -2749,55 +2749,55 @@ Annexe 2*[^t-2]*
 
 ## Droits de douane applicables aux marchés des semences des céréales, des aliments pour animaux, des oléagineux, des marchandises dont les sous-produits de transformation servent à l’alimentation des animaux et des céréales secondaires pour l’alimentation humaine
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6339](https://fedlex.data.admin.ch/eli/oc/2020/1035)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 18 janv. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 45](https://fedlex.data.admin.ch/eli/oc/2021/45)).
 
 <table>
 <tr><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>8.00</td><td>\*</td><td>0709.9991</td><td>10.00</td><td></td><td>0712.9070</td><td>10.00</td><td></td></tr>
-<tr><td>0713.1011</td><td>7.00</td><td>\*</td><td>0713.1012</td><td>0.70</td><td>\*</td><td>0713.1091</td><td>7.00</td><td>\*</td><td>0713.2011</td><td>7.00</td><td>\*</td></tr>
-<tr><td>0713.2012</td><td>0.70</td><td>\*</td><td>0713.2091</td><td>7.00</td><td>\*</td><td>0713.3111</td><td>8.00</td><td>\*</td><td>0713.3112</td><td>0.80</td><td>\*</td></tr>
-<tr><td>0713.3191</td><td>8.00</td><td>\*</td><td>0713.3211</td><td>8.00</td><td>\*</td><td>0713.3212</td><td>0.80</td><td>\*</td><td>0713.3291</td><td>8.00</td><td>\*</td></tr>
-<tr><td>0713.3311</td><td>8.00</td><td>\*</td><td>0713.3312</td><td>0.80</td><td>\*</td><td>0713.3391</td><td>8.00</td><td>\*</td><td>0713.3411</td><td>7.00</td><td>\*</td></tr>
-<tr><td>0713.3412</td><td>0.70</td><td>\*</td><td>0713.3491</td><td>7.00</td><td>\*</td><td>0713.3511</td><td>8.00</td><td>\*</td><td>0713.3512</td><td>0.80</td><td>\*</td></tr>
-<tr><td>0713.3591</td><td>8.00</td><td>\*</td><td>0713.3911</td><td>8.00</td><td>\*</td><td>0713.3912</td><td>0.80</td><td>\*</td><td>0713.3991</td><td>8.00</td><td>\*</td></tr>
-<tr><td>0713.4011</td><td>8.00</td><td>\*</td><td>0713.4012</td><td>0.80</td><td>\*</td><td>0713.4091</td><td>8.00</td><td>\*</td><td>0713.5012</td><td>8.00</td><td>\*</td></tr>
-<tr><td>0713.5013</td><td>0.80</td><td>\*</td><td>0713.5091</td><td>8.00</td><td>\*</td><td>0713.6011</td><td>7.00</td><td>\*</td><td>0713.6012</td><td>0.70</td><td>\*</td></tr>
-<tr><td>0713.6091</td><td>7.00</td><td>\*</td><td>0713.9021</td><td>8.00</td><td>\*</td><td>0713.9022</td><td>0.80</td><td>\*</td><td>0713.9081</td><td>8.00</td><td>\*</td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>5.00</td><td>\*</td><td>0709.9991</td><td>8.00</td><td>\*</td><td>0712.9070</td><td>8.00</td><td>\*</td></tr>
+<tr><td>0713.1011</td><td>4.00</td><td>\*</td><td>0713.1012</td><td>0.40</td><td>\*</td><td>0713.1091</td><td>4.00</td><td>\*</td><td>0713.2011</td><td>4.00</td><td>\*</td></tr>
+<tr><td>0713.2012</td><td>0.40</td><td>\*</td><td>0713.2091</td><td>4.00</td><td>\*</td><td>0713.3111</td><td>5.00</td><td>\*</td><td>0713.3112</td><td>0.50</td><td>\*</td></tr>
+<tr><td>0713.3191</td><td>5.00</td><td>\*</td><td>0713.3211</td><td>5.00</td><td>\*</td><td>0713.3212</td><td>0.50</td><td>\*</td><td>0713.3291</td><td>5.00</td><td>\*</td></tr>
+<tr><td>0713.3311</td><td>5.00</td><td>\*</td><td>0713.3312</td><td>0.50</td><td>\*</td><td>0713.3391</td><td>5.00</td><td>\*</td><td>0713.3411</td><td>4.00</td><td>\*</td></tr>
+<tr><td>0713.3412</td><td>0.40</td><td>\*</td><td>0713.3491</td><td>4.00</td><td>\*</td><td>0713.3511</td><td>5.00</td><td>\*</td><td>0713.3512</td><td>0.50</td><td>\*</td></tr>
+<tr><td>0713.3591</td><td>5.00</td><td>\*</td><td>0713.3911</td><td>5.00</td><td>\*</td><td>0713.3912</td><td>0.50</td><td>\*</td><td>0713.3991</td><td>5.00</td><td>\*</td></tr>
+<tr><td>0713.4011</td><td>5.00</td><td>\*</td><td>0713.4012</td><td>0.50</td><td>\*</td><td>0713.4091</td><td>5.00</td><td>\*</td><td>0713.5012</td><td>5.00</td><td>\*</td></tr>
+<tr><td>0713.5013</td><td>0.50</td><td>\*</td><td>0713.5091</td><td>5.00</td><td>\*</td><td>0713.6011</td><td>4.00</td><td>\*</td><td>0713.6012</td><td>0.40</td><td>\*</td></tr>
+<tr><td>0713.6091</td><td>4.00</td><td>\*</td><td>0713.9021</td><td>5.00</td><td>\*</td><td>0713.9022</td><td>0.50</td><td>\*</td><td>0713.9081</td><td>5.00</td><td>\*</td></tr>
 <tr><td>0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
 <tr><td>0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>12.00</td><td></td><td>1001.1939</td><td>10.00</td><td></td></tr>
-<tr><td>1001.1940</td><td>1.00</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>12.00</td><td></td><td>1001.9939</td><td>10.00</td><td></td></tr>
-<tr><td>1001.9940</td><td>1.00</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>12.00</td><td></td><td>1002.9039</td><td>11.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>1.10</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>5.50</td><td>\*</td><td>1003.9030</td><td>0.35</td><td></td></tr>
-<tr><td>1003.9041</td><td>2.55</td><td>\*</td><td>1003.9051</td><td>12.00</td><td></td><td>1003.9059</td><td>11.00</td><td>\*</td><td>1003.9060</td><td>1.65</td><td>\*</td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>12.00</td><td></td><td>1001.1939</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1001.1940</td><td>0.80</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>12.00</td><td></td><td>1001.9939</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1001.9940</td><td>0.80</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>12.00</td><td></td><td>1002.9039</td><td>11.00</td><td></td></tr>
+<tr><td>1002.9040</td><td>1.10</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>5.00</td><td>\*</td><td>1003.9030</td><td>0.30</td><td>\*</td></tr>
+<tr><td>1003.9041</td><td>2.30</td><td>\*</td><td>1003.9051</td><td>12.00</td><td></td><td>1003.9059</td><td>10.00</td><td>\*</td><td>1003.9060</td><td>1.50</td><td>\*</td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.35</td><td></td><td>1004.9031</td><td>12.00</td><td></td><td>1004.9039</td><td>2.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.50</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.50</td><td></td><td>1005.9031</td><td>12.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>10.00</td><td></td><td>1005.9040</td><td>1.00</td><td></td><td>1006.1021</td><td>12.00</td><td></td><td>1006.1029</td><td>1.00</td><td></td></tr>
-<tr><td>1006.2021</td><td>12.00</td><td></td><td>1006.2029</td><td>1.00</td><td></td><td>1006.3021</td><td>12.00</td><td></td><td>1006.3029</td><td>1.00</td><td></td></tr>
-<tr><td>1006.4021</td><td>12.00</td><td></td><td>1006.4029</td><td>1.00</td><td></td><td>1007.9031</td><td>12.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.50</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.00</td><td>\*</td><td>1005.9031</td><td>12.00</td><td></td></tr>
+<tr><td>1005.9039</td><td>8.00</td><td>\*</td><td>1005.9040</td><td>0.80</td><td>\*</td><td>1006.1021</td><td>12.00</td><td></td><td>1006.1029</td><td>0.00</td><td>\*</td></tr>
+<tr><td>1006.2021</td><td>12.00</td><td></td><td>1006.2029</td><td>0.00</td><td>\*</td><td>1006.3021</td><td>12.00</td><td></td><td>1006.3029</td><td>0.00</td><td>\*</td></tr>
+<tr><td>1006.4021</td><td>12.00</td><td></td><td>1006.4029</td><td>0.00</td><td>\*</td><td>1007.9031</td><td>12.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
 <tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>12.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
 <tr><td>1008.2931</td><td>12.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>12.00</td><td></td></tr>
-<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>12.00</td><td></td><td>1008.4039</td><td>10.00</td><td></td></tr>
-<tr><td>1008.4040</td><td>0.30</td><td></td><td>1008.5031</td><td>12.00</td><td></td><td>1008.5039</td><td>10.00</td><td></td><td>1008.5040</td><td>0.30</td><td></td></tr>
+<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>12.00</td><td></td><td>1008.4039</td><td>8.00</td><td>\*</td></tr>
+<tr><td>1008.4040</td><td>0.25</td><td>\*</td><td>1008.5031</td><td>12.00</td><td></td><td>1008.5039</td><td>8.00</td><td>\*</td><td>1008.5040</td><td>0.25</td><td>\*</td></tr>
 <tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>12.00</td><td></td><td>1008.6049</td><td>12.00</td><td></td><td>1008.6050</td><td>1.20</td><td></td></tr>
-<tr><td>1008.9035</td><td>12.00</td><td></td><td>1008.9037</td><td>10.00</td><td></td><td>1008.9040</td><td>0.30</td><td></td><td>1101.0051</td><td>17.00</td><td></td></tr>
-<tr><td>1101.0059</td><td>21.00</td><td></td><td>1102.2010</td><td>23.55</td><td></td><td>1102.2020</td><td>16.00</td><td></td><td>1102.9013</td><td>23.00</td><td></td></tr>
-<tr><td>1102.9045</td><td>17.00</td><td></td><td>1102.9046</td><td>15.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>21.00</td><td></td></tr>
-<tr><td>1103.1112</td><td>20.00</td><td></td><td>1103.1192</td><td>18.00</td><td></td><td>1103.1320</td><td>17.00</td><td></td><td>1103.1390</td><td>25.00</td><td></td></tr>
+<tr><td>1008.9035</td><td>12.00</td><td></td><td>1008.9037</td><td>8.00</td><td>\*</td><td>1008.9040</td><td>0.25</td><td>\*</td><td>1101.0051</td><td>15.00</td><td>\*</td></tr>
+<tr><td>1101.0059</td><td>19.00</td><td>\*</td><td>1102.2010</td><td>22.85</td><td>\*</td><td>1102.2020</td><td>14.00</td><td>\*</td><td>1102.9013</td><td>23.00</td><td></td></tr>
+<tr><td>1102.9045</td><td>17.00</td><td></td><td>1102.9046</td><td>15.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>19.00</td><td>\*</td></tr>
+<tr><td>1103.1112</td><td>18.00</td><td>\*</td><td>1103.1192</td><td>16.00</td><td>\*</td><td>1103.1320</td><td>15.00</td><td>\*</td><td>1103.1390</td><td>24.00</td><td>\*</td></tr>
 <tr><td>1103.1912</td><td>20.00</td><td></td><td>1103.1922</td><td>20.00</td><td></td><td>1103.1929</td><td>20.55</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>18.00</td><td></td><td>1103.2012</td><td>17.00</td><td></td><td>1103.2022</td><td>17.00</td><td></td><td>1103.2092</td><td>17.00</td><td></td></tr>
-<tr><td>1104.1220</td><td>21.00</td><td></td><td>1104.1290</td><td>20.60</td><td></td><td>1104.1912</td><td>18.00</td><td></td><td>1104.1922</td><td>20.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>23.65</td><td>\*</td><td>1104.1993</td><td>18.00</td><td></td><td>1104.2220</td><td>20.55</td><td></td><td>1104.2230</td><td>20.00</td><td></td></tr>
-<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>26.95</td><td></td><td>1104.2912</td><td>18.00</td><td></td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>23.65</td><td>\*</td><td>1104.2933</td><td>19.00</td><td>\*</td><td>1104.2993</td><td>16.00</td><td></td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td>1103.1993</td><td>16.00</td><td>\*</td><td>1103.2012</td><td>15.00</td><td>\*</td><td>1103.2022</td><td>17.00</td><td></td><td>1103.2092</td><td>15.00</td><td>\*</td></tr>
+<tr><td>1104.1220</td><td>21.00</td><td></td><td>1104.1290</td><td>20.60</td><td></td><td>1104.1912</td><td>16.00</td><td>\*</td><td>1104.1922</td><td>19.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>23.30</td><td>\*</td><td>1104.1993</td><td>16.00</td><td>\*</td><td>1104.2220</td><td>20.55</td><td></td><td>1104.2230</td><td>20.00</td><td></td></tr>
+<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>25.55</td><td>\*</td><td>1104.2912</td><td>16.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td>1104.2932</td><td>23.30</td><td>\*</td><td>1104.2933</td><td>18.00</td><td>\*</td><td>1104.2993</td><td>14.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
 <tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
-<tr><td>1106.1010</td><td>10.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
-<tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>1.00</td><td></td></tr>
+<tr><td>1106.1010</td><td>7.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
+<tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td>\*</td></tr>
 <tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
 <tr><td>1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
 <tr><td>1201.9023</td><td>24.35</td><td></td><td>1201.9024</td><td>18.65</td><td></td><td>1201.9026</td><td>0.10</td><td></td><td>1201.9027</td><td>0.10</td><td></td></tr>
@@ -2807,11 +2807,11 @@ Annexe 2*[^t-2]*
 <tr><td>1202.4227</td><td>0.10</td><td></td><td>1203.0010</td><td>7.70</td><td></td><td>1203.0021</td><td>0.10</td><td></td><td>1203.0023</td><td>82.85</td><td></td></tr>
 <tr><td>1203.0024</td><td>77.15</td><td></td><td>1203.0026</td><td>0.10</td><td></td><td>1203.0027</td><td>0.10</td><td></td><td>1204.0010</td><td>0.00</td><td></td></tr>
 <tr><td>1204.0021</td><td>0.10</td><td></td><td>1204.0023</td><td>50.05</td><td></td><td>1204.0024</td><td>42.90</td><td></td><td>1204.0026</td><td>0.10</td><td></td></tr>
-<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>5.00</td><td></td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>5.00</td><td></td></tr>
+<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>3.00</td><td>\*</td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
+<tr><td>1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>3.00</td><td>\*</td></tr>
 <tr><td>1205.1051</td><td>0.10</td><td></td><td>1205.1053</td><td>60.00</td><td></td><td>1205.1054</td><td>52.90</td><td></td><td>1205.1056</td><td>0.10</td><td></td></tr>
-<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>5.00</td><td></td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>5.00</td><td></td></tr>
+<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>3.00</td><td>\*</td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
+<tr><td>1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>3.00</td><td>\*</td></tr>
 <tr><td>1205.9051</td><td>0.10</td><td></td><td>1205.9053</td><td>60.00</td><td></td><td>1205.9054</td><td>52.90</td><td></td><td>1205.9056</td><td>0.10</td><td></td></tr>
 <tr><td>1205.9057</td><td>0.10</td><td></td><td>1206.0010</td><td>0.00</td><td></td><td>1206.0021</td><td>0.10</td><td></td><td>1206.0023</td><td>58.30</td><td></td></tr>
 <tr><td>1206.0024</td><td>49.55</td><td></td><td>1206.0026</td><td>0.10</td><td></td><td>1206.0027</td><td>0.10</td><td></td><td>1206.0040</td><td>2.70</td><td></td></tr>
@@ -2858,12 +2858,12 @@ Annexe 2*[^t-2]*
 <tr><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
 <tr><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>15.00</td><td></td><td>2302.4030</td><td>16.00</td><td></td></tr>
 <tr><td>2302.4091</td><td>16.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>4.00</td><td></td></tr>
-<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>6.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
 <tr><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>8.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>7.05</td><td>\*</td></tr>
-<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.20</td><td>\*</td><td>2309.9082</td><td>7.05</td><td>\*</td><td>2309.9089</td><td>7.05</td><td>\*</td></tr>
+<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>7.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>5.75</td><td>\*</td></tr>
+<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.10</td><td>\*</td><td>2309.9082</td><td>5.75</td><td>\*</td><td>2309.9089</td><td>5.75</td><td>\*</td></tr>
 <tr><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
@@ -3005,7 +3005,7 @@ Annexe 3*[^t-3]*
 <table>
 <tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire (en tonnes)</th></tr>
 <tr><td>15</td><td>Légumes</td><td>166 076 **[2]**</td></tr>
-<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attr****i****buer.**</td></tr>
+<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Le** **contingent** **tarifaire peut être dépassé.**</td></tr>
 </table>
 
@@ -3023,7 +3023,7 @@ Annexe 3*[^t-3]*
 <tr><td>17</td><td>Pommes, poires et coings, frais</td><td colspan="2">15 800 **[2]**</td></tr>
 <tr><td>18</td><td>Abricots, cerises, prunes et prunelles (y compris quetsches), frais</td><td colspan="2">16 340 **[2]**</td></tr>
 <tr><td>19</td><td>Autres fruits, frais</td><td colspan="2">13 360 **[2]** [3]</td></tr>
-<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras.** **L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attr****i****buer****.**</td></tr>
+<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras.** **L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer****.**</td></tr>
 <tr><td colspan="3">**[2]** **Le** **contingent** **tarifaire peut être dépassé.**</td></tr>
 <tr><td colspan="3">[3] Sans les produits destinés à une transformation industrielle</td></tr>
 </table>
@@ -3044,7 +3044,7 @@ Annexe 3*[^t-3]*
 <tr><td>27</td><td>Céréales panifiables</td><td>70 000 **[2]**</td></tr>
 <tr><td>27.1</td><td>Augmentation temporaire du contingent tarifaire pour 2017</td><td>**30 000**</td></tr>
 <tr><td>28</td><td>Céréales secondaire destinées à l’alimentation humaine</td><td>70 000 **[2]**</td></tr>
-<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attr****i****buer.**</td></tr>
+<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Le contingent tarifaire peut être dépassé.**</td></tr>
 </table>
 
@@ -3054,7 +3054,7 @@ Annexe 3*[^t-3]*
 <tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire tarifaire (en hectolitres) **[1]**</th></tr>
 <tr><td>22</td><td>Jus de raisin</td><td>100 000 **[2]**</td></tr>
 <tr><td>23, 24 et 25</td><td>Vin</td><td>1 700 000</td></tr>
-<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones fra****n****ches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attr****i****buer.**</td></tr>
+<tr><td colspan="4">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractères gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** *0.631.256.934.953***) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 <tr><td colspan="4">**[2]** **Le contingent tarifaire peut être dépassé.**</td></tr>
 </table>
 
