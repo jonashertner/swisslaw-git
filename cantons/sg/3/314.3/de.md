@@ -3,20 +3,20 @@ canton: SG
 number: "314.3"
 title: Heilmittelverordnung
 language: de
-version: 2016-11-01
-valid_until: 2021-01-31
-version_adopted: 2016-09-27
+version: 2021-02-01
+valid_until: 2024-12-31
+version_adopted: 2021-01-19
 adopted: 2011-06-21
 in_force: 2011-09-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/314.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2158/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3106/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Heilmittelverordnung
 
-vom 21.06.2011 (Stand 01.11.2016)
+vom 21.06.2011 (Stand 01.02.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -278,10 +278,20 @@ als Verordnung:[^ingress-3]
 
 **c) Impfungen**
 
-<sup>1</sup> Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an gesunden Personen, die das 16. Altersjahr vollendet haben, durchführen:
+<sup>1</sup> Apothekerinnen und Apotheker können ohne ärztliche Verschreibung folgende Impfungen an Personen, die das 16. Altersjahr vollendet haben, durchführen:
 
 - a) Impfung gegen Grippe;
-- b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME).
+- b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME);
+- c) Impfung gegen Hepatitis A und B;
+- d) Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis;
+- e) Impfung gegen Sars-CoV-2.
+
+<sup>1<sup>bis</sup></sup> Impfungen durch Apothekerinnen und Apotheker sind ausgeschlossen bei Vorliegen einer:
+
+- a) Kontraindikation;
+- b) Schwangerschaft;
+- c) Immunschwäche;
+- d) Autoimmunkrankheit.
 
 <sup>2</sup> Apothekerinnen und Apotheker, die Impfungen durchführen:
 
