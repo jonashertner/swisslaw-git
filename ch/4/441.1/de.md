@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 5. Oktober 2007 über die Landessprachen und die Verst�
 short: SpG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: de
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2009-821-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/de"
 
 (Sprachengesetz, SpG)
 
-vom 5. Oktober 2007 (Stand am 1. Januar 2017)
+vom 5. Oktober 2007 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -301,11 +301,16 @@ Für dieselbe Massnahme können nicht mehrere Finanzhilfen nach diesem Gesetz ge
 
 #### Art. 25
 
-**Berichterstattung und Evaluation**
+**Berichterstattung, Evaluation und Statistik[^25-1]**
 
 <sup>1</sup> Die Kantone, Organisationen und Institutionen berichten dem Bund periodisch über die Verwendung der Finanzhilfen.
 
 <sup>2</sup> Der Bund überprüft regelmässig die Zweckmässigkeit und Wirksamkeit der Massnahmen.
+
+<sup>3</sup> Er erstellt unter Mitwirkung der Kantone eine Statistik zum schulischen Austausch nach Artikel 14. Die Kantone stellen dem Bund die dazu notwendigen Daten in standardisierter Form zur Verfügung.[^25-2]
+
+[^25-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 
@@ -343,5 +348,5 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-1]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514)]
+[^annexu1-lvlu1-1]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280), [2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514)]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)konsultiert werden

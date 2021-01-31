@@ -4,11 +4,11 @@ title: "Lescha federala dals 5 d'october 2007 davart las linguas naziunalas e la
 short: LLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: rm
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20170101/rm/xml/fedlex-data-admin-ch-eli-cc-2009-821-20170101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-rm-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha da linguas, LLing)
 
-dals 5 d’october 2007 (stadi dal 1. da schaner 2017)
+dals 5 d’october 2007 (stadi dal 1. da favrer 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -303,11 +303,16 @@ Per la medema mesira na pon betg vegnir concedids plirs agids finanzials tenor q
 
 #### Art. 25
 
-**Rapport ed evaluaziun**
+**Rapport, evaluaziun e statistica[^25-1]**
 
 <sup>1</sup> Ils chantuns, las organisaziuns e las instituziuns rapportan periodicamain a la Confederaziun davart il diever dals agids finanzials.
 
 <sup>2</sup> La Confederaziun examinescha regularmain l’opportunitad e l’efficacitad da las mesiras.
+
+<sup>3</sup> En collavuraziun cun il chantuns fa ella ina statistica davart il barat scolastic tenor l’artitgel 14. Ils chantuns mettan a disposiziun a la Confederaziun las datas necessarias en ina furma standardisada.[^25-2]
+
+[^25-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020, en vigur dapi il 1. da favr. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Integrà tras la cifra I da la LF dals 25 da sett. 2020, en vigur dapi il 1. da favr. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 7. part Disposiziuns finalas
 

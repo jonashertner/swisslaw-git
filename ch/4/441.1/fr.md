@@ -4,20 +4,20 @@ title: "Loi fédérale du 5 octobre 2007 sur les langues nationales et la compr�
 short: LLC
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: fr
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-821-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les langues nationales et la compréhension entre les communautés linguistiques**<sup>∗</sup>**
+# Loi fédérale sur les langues nationales et la compréhension entre les communautés linguistiques<sup></sup>
 
 (Loi sur les langues, LLC)[^t-1]
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> janvier 2017)
+du 5 octobre 2007 (État le 1<sup>er</sup> février 2021)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -64,7 +64,7 @@ Par la présente loi, la Confédération vise:
 Dans l’accomplissement de ses tâches, la Confédération respecte en particulier les principes suivants:
 
 - a. elle veille à accorder un traitement identique aux quatre langues nationales;
-- b. elle garantit la liberté de la langue dans tous les domaines de l’activité de l’Etat et veille à sa mise en œuvre;
+- b. elle garantit la liberté de la langue dans tous les domaines de l’activité de l’État et veille à sa mise en œuvre;
 - c. elle tient compte de la répartition territoriale traditionnelle des langues;
 - d. elle encourage la compréhension entre les communautés linguistiques.
 
@@ -160,7 +160,7 @@ Dans la mesure où les objectifs fixés dans la présente loi l’exigent, le Co
 
 **Publications en romanche**
 
-Les textes d’une importance particulière ainsi que la documentation sur les votations et les élections fédérales sont également publiés en romanche. La Chancellerie fédérale désigne ces textes, après avoir consulté la Chancellerie d’Etat du canton des Grisons et les services fédéraux concernés.
+Les textes d’une importance particulière ainsi que la documentation sur les votations et les élections fédérales sont également publiés en romanche. La Chancellerie fédérale désigne ces textes, après avoir consulté la Chancellerie d’État du canton des Grisons et les services fédéraux concernés.
 
 #### Art. 12
 
@@ -196,7 +196,7 @@ Les autorités fédérales se présentent au public dans les quatre langues offi
 
 #### Art. 14
 
-**Echanges scolaires**
+**Échanges scolaires**
 
 <sup>1</sup> La Confédération et les cantons encouragent les échanges d’élèves et d’enseignants à tous les niveaux scolaires.
 
@@ -303,11 +303,16 @@ Une mesure ne peut faire l’objet de plusieurs aides financières prévues par 
 
 #### Art. 25
 
-**Rapport et évaluation**
+**Rapport, évaluation et statistique[^25-1]**
 
 <sup>1</sup> Les cantons, les organisations et les institutions informent périodiquement la Confédération de l’affectation des aides financières.
 
 <sup>2</sup> La Confédération vérifie à intervalles réguliers l’opportunité et l’efficacité des aides financières et en évalue l’impact.
+
+<sup>3</sup> Elle établit, avec la participation des cantons, une statistique sur les échanges scolaires visés à l’art. 14. Les cantons mettent à la disposition de la Confédération les données standardisées nécessaires.[^25-2]
+
+[^25-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Introduit par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Section 7 Dispositions finales
 

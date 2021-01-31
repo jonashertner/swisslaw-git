@@ -4,11 +4,11 @@ title: "Legge federale del 5 ottobre 2007 sulle lingue nazionali e la comprensio
 short: LLing
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: it
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2009-821-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-it-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/it"
 
 (Legge sulle lingue, LLing)
 
-del 5 ottobre 2007 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+del 5 ottobre 2007 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -127,7 +127,7 @@ Per quanto gli obiettivi perseguiti dalla presente legge lo esigano, il Consigli
 
 <sup>2</sup> Il Consiglio federale adotta le dovute misure; provvede in particolare alla formazione e alla formazione continua del personale e mette a disposizione gli strumenti necessari.[^7-1]
 
-[^7-1]: Nuovo testo giusta il n. 15 dell’all. alla LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^7-1]: Nuovo testo giusta l’all. n. 15 della LF del 20 giu. 2014 sulla formazione continua, in vigore dal 1° gen. 2017 ([RU 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [FF 2013 3085](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ Per quanto gli obiettivi perseguiti dalla presente legge lo esigano, il Consigli
 <sup>2</sup> La pubblicazione avviene simultaneamente in tedesco, francese e italiano.
 
 [^10-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^10-2]: Nuovo giusta il n. 5 dell’all. alla LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
+[^10-2]: Nuovo giusta l’all. n. 5 della LF del 26 set. 2014, in vigore dal 1° gen. 2016 ([RU 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [FF 2013 6069](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 
 #### Art. 11
 
@@ -303,11 +303,16 @@ La medesima misura non può beneficiare di più aiuti finanziari secondo la pres
 
 #### Art. 25
 
-**Rapporto e valutazione**
+**Rapporto, valutazione e statistica[^25-1]**
 
 <sup>1</sup> I Cantoni, le organizzazioni e le istituzioni riferiscono periodicamente alla Confederazione sull’impiego degli aiuti finanziari.
 
 <sup>2</sup> La Confederazione verifica regolarmente l’adeguatezza e l’efficacia delle misure.
+
+<sup>3</sup> Con la collaborazione dei Cantoni, allestisce una statistica sugli scambi in ambito scolastico di cui all’articolo 14. I Cantoni mettono a disposizione della Confederazione i dati necessari in forma standardizzata.[^25-2]
+
+[^25-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020 in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Introdotto dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Sezione 7: Disposizioni finali
 

@@ -4,22 +4,22 @@ title: "Federal Act of 5 October 2007 on the National Languages and Understandin
 short: LangA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/821"
 language: en
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2007-10-05
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20170101/en/xml/fedlex-data-admin-ch-eli-cc-2009-821-20170101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20170101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/821/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2009-821-20210201-en-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/821/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
 # Federal Act on the National Languages and Understanding between the Linguistic Communities
 
-English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
+English is not an official language of the Swiss Confederation. This translation is provided for information purposes only, has no legal force and may not be relied on in legal proceedings.
 
 (Languages Act, LangA)
 
-of 5 October 2007 (Status as 1 January 2017)
+of 5 October 2007 (Status as 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -31,7 +31,7 @@ decrees:
 [^ingress-2]: [BBl 2006 8977](https://fedlex.data.admin.ch/eli/fga/2006/1175)
 [^ingress-3]: [BBl 2006 9047](https://fedlex.data.admin.ch/eli/fga/2006/1177)
 
-## Section 1: General Provisions
+## Section 1 General Provisions
 
 #### Art. 1
 
@@ -63,14 +63,14 @@ By means of this Act, the Confederation intends:
 
 In fulfilling its tasks, the Confederation shall observe the following principles in particular:
 
-- a. it shall ensure that it treats the four national Swiss languages equally.
-- b. it shall guarantee and apply linguistic freedom in all its areas of activity.
-- c. it shall take account of the traditional linguistic composition of Switzerland's regions.
+- a. it shall ensure that it treats the four national Swiss languages equally;
+- b. it shall guarantee and apply linguistic freedom in all its areas of activity;
+- c. it shall take account of the traditional linguistic composition of Switzerland's regions;
 - d. it shall promote understanding between the linguistic communities.
 
 <sup>2</sup> It shall work with the cantons to fulfil its tasks relating to the policy on languages and understanding between the linguistic communities.
 
-## Section 2: Official Languages of the Confederation
+## Section 2 Official Languages of the Confederation
 
 #### Art. 4
 
@@ -127,7 +127,7 @@ Where the goals set out in this Act so require, the Federal Council may provide 
 
 <sup>2</sup> The Federal Council shall take the measures required; in particular, it shall arrange for the basic and advanced training of employees and the provision of the required aids.[^7-1]
 
-[^7-1]: The amendment in accordance with the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017, relates only to the French and Italian versions of this text ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
+[^7-1]: The amendment in accordance with the FA of 20 June 2014 on Continuing Education and Training, in force since 1 Jan. 2017, relates to the French and Italian versions only ([AS 2016 689](https://fedlex.data.admin.ch/eli/oc/2016/132); [BBl 2013 3729](https://fedlex.data.admin.ch/eli/fga/2013/823)).
 
 #### Art. 8
 
@@ -192,11 +192,11 @@ The federal authorities shall communicate with the public in the four official l
 
 [^13-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
 
-## Section 3: Promoting Understanding and Exchange between the Linguistic Communities
+## Section 3 Promoting Understanding and Exchange between the Linguistic Communities
 
 #### Art. 14
 
-**Exchange student schemes**
+**Student exchange schemes**
 
 <sup>1</sup> The Confederation and the cantons shall encourage the exchange of school students and teachers at all school levels.
 
@@ -254,7 +254,7 @@ The Confederation may grant financial assistance to non-profit-making organisati
 
 <sup>3</sup> The Confederation and the cantons shall make their terminology databases available to each other free of charge.
 
-## Section 4: Support for Plurilingual Cantons
+## Section 4 Support for Plurilingual Cantons
 
 #### Art. 21
 
@@ -269,7 +269,7 @@ Specific tasks are in particular:
 - a. establishing suitable conditions and aids for the plurilingual work in political authorities, the law enforcement and justice system, and administrative authorities;
 - b. encouraging plurilingualism among learners and teachers in the official languages of the canton at all academic levels.
 
-## Section 5: Preserving and Promoting the Romansh and Italian Languages and Cultures
+## Section 5 Preserving and Promoting the Romansh and Italian Languages and Cultures
 
 #### Art. 22
 
@@ -285,7 +285,7 @@ Within the limits of the authorised credits, the Confederation shall grant the c
 
 <sup>3</sup> Federal financial assistance shall amount to a maximum of 75 per cent of the overall costs.
 
-## Section 6: Implementation and Evaluation
+## Section 6 Implementation and Evaluation
 
 #### Art. 23
 
@@ -303,13 +303,18 @@ Multiple grants of financial assistance under this Act are not permitted.
 
 #### Art. 25
 
-**Reporting and evaluation**
+**Reporting, evaluation and statistics[^25-1]**
 
 <sup>1</sup> The cantons, organisations and institutions shall submit regular reports to the Confederation on the use of financial assistance grants.
 
 <sup>2</sup> The Confederation shall regularly review the utility and effectiveness of the measures.
 
-## Section 7: Final Provisions
+<sup>3</sup> It shall with the assistance of the cantons compile statistics on student exchange schemes under Article 14. The cantons shall provide the Confederation with the required data in a standardised form.[^25-2]
+
+[^25-1]: Amended by No I of the FA of 25 Sept. 2020, in force since 1 Feb. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^25-2]: Inserted by No I of the FA of 25 Sept. 2020, in force since 1 Feb. 2021 ([AS 2021 48](https://fedlex.data.admin.ch/eli/oc/2021/48); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+
+## Section 7 Final Provisions
 
 #### Art. 26
 
@@ -327,7 +332,7 @@ The repeal and amendment of the existing legislation are regulated in the Annex.
 
 Commencement date:[^27-1] 1 January 2010 Number I of the Annex comes into force at the same time as the Languages Ordinance.
 
-[^27-1]: Federal Council Decree of 4 Dec. 2009 (AS **2009** 6612)
+[^27-1]: FCD of 4 Dec. 2009.
 
 Annex
 
@@ -343,9 +348,7 @@ II
 
 The following federal acts are amended as follows:
 
-### …****
+…[^annexu1-lvlu1-2]
 
-[^annexu1-lvlu1-lvlu1-1]
-
-[^annexu1-lvlu1-1]: [AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514)
-[^annexu1-lvlu1-lvlu1-1]: The amendments may be consulted under [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)
+[^annexu1-lvlu1-1]: [[AS 1996 2280](https://fedlex.data.admin.ch/eli/oc/1996/2280_2280_2280)[2514](https://fedlex.data.admin.ch/eli/oc/1996/2514_2514_2514)]
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2009 6605](https://fedlex.data.admin.ch/eli/oc/2009/821)
