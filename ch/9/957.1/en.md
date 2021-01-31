@@ -4,11 +4,11 @@ title: "Federal Act of 3 October 2008 on Intermediated Securities (Federal Inter
 short: FISA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: en
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Federal Intermediated Securities Act, FISA)
 
-of 3 October 2008 (Status as of 1 January 2020)
+of 3 October 2008 (Status as of 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -79,10 +79,11 @@ The following are deemed to be custodians:
 - b.[^4-2] securities firms within the meaning of Article 41 of the Financial Institutions Act of 15 June 2018[^4-3];
 - c.[^4-4] fund management companies within the meaning of Article 32 of the Financial Institutions Act, insofar as they maintain unit accounts;
 - d.[^4-5] central securities depositories within the meaning of Article 61 of the Financial Market Infrastructure Act of 19 June 2015[^4-6];
-- e. the Swiss National Bank within the meaning of the National Bank Act of 3 October 2003[^4-7]; and
-- f. Swiss Post within the meaning of the Postal Services Organisation Act of 30 April 1997[^4-8].
+- e. the Swiss National Bank within the meaning of the National Bank Act of 3 October 2003[^4-7];
+- f.[^4-8] Swiss Post within the meaning of the Postal Services Organisation Act of 17 December 2010[^4-9]; and
+- g.[^4-10] DLT trading facilities under Articles 73*a* to 73*f* of the Financial Market Infrastructure Act of 19 June 2015[^4-11] in relation to immobilised ledger-based securities under Articles 973*d* to 973*i* of the Code of Obligations[^4-12].
 
-<sup>3</sup> Foreign banks, foreign securities firms and other foreign financial institutions, as well as central securities depositories and other financial intermediaries[^4-9] that maintain securities accounts in the course of their business activity are also deemed custodians.[^4-10]
+<sup>3</sup> Foreign banks, foreign securities firms and other foreign financial institutions, as well as central securities depositories and other financial intermediaries that maintain securities accounts in the course of their business activity are also deemed custodians.[^4-13]
 
 [^4-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -91,9 +92,12 @@ The following are deemed to be custodians:
 [^4-5]: Amended by Annex No 14 of the Financial Market Infrastructure Act of 19 June 2015, in force since 1 Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^4-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^4-7]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-[^4-8]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Annex No 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107), Art. 31 No 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)Annex No I]. See now: the Postal Service Organisation Act of 17 Dec. 2010 ([SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
-[^4-9]: Footnote not relevant to the English text.
-[^4-10]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-8]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-10]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 [AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-12]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-13]: Amended by Annex No II 17 of the Financial Institutions Act of 15 June 2018, in force since 1 Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -107,9 +111,12 @@ In this Act:
 - d. *qualified investor* means a custodian; an insurance company subject to prudential supervision; a public-law entity, a pension fund or a company with professional treasury management;
 - e. *certificated securities in collective custody* means certificated securities within the meaning of Article 973*a* of the Code of Obligations[^5-1];
 - f. *global certificate* means a certificated security within the meaning of Article 973*b* of the Code of Obligations;
-- g. *uncertificated securities* means rights within the meaning of Article 973*c* of the Code of Obligations.
+- g.[^5-2] *uncertificated securities* means rights within the meaning of Article 973*c* of the Code of Obligations;
+- h.[^5-3] *ledger-based securities* means rights within the meaning of Article 973*d* of the Code of Obligations.
 
 [^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-3]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapter 2 Creation, Extinction and Conversion of Intermediated Securities
 
@@ -122,20 +129,31 @@ In this Act:
 Intermediated securities are created:
 
 - a. when a custodian accepts certificated securities for collective custody and credits them to one or more securities accounts;
-- b. when a custodian accepts a global certificate for custody and credits the respective rights to one or more securities accounts; or
-- c. when a custodian registers uncertificated securities in the main register and credits the respective rights to one or more securities accounts.
+- b. when a custodian accepts a global certificate for custody and credits the respective rights to one or more securities accounts;
+- c.[^6-1] when a custodian registers uncertificated securities in the main register and credits the respective rights to one or more securities accounts; or
+- d.[^6-2] when ledger-based securities are transferred to a custodian and the respective rights are credited to one or more securities accounts.
 
-<sup>2</sup> For each issue of uncertificated securities, a single custodian shall maintain the main register. The main register shall provide details of the issue, the quantity, and the nominal value of the uncertificated securities issued; it shall be public.
+<sup>2</sup> For each issue of uncertificated securities, a single custodian shall maintain the main register. The main register shall provide details of the issue, the quantity, and the nominal value of the uncertificated securities issued; it shall be public.[^6-3]
+
+<sup>3</sup> On being transferred to a custodian, the ledger-based securities shall be immobilised in the securities ledger.[^6-4]
+
+[^6-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-2]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-3]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-4]: Inserted by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
 **Conversion**
 
-<sup>1</sup> Unless otherwise provided by the terms of issue or the issuer’s articles of association, an issuer may, at any time and without the account holder’s consent, convert certificated securities in collective custody, global certificates or uncertificated securities held or registered as a basis for intermediated securities into another form. It shall bear the conversion cost.
+<sup>1</sup> Unless otherwise provided by the terms of issue or the issuer’s articles of association, an issuer may, at any time and without the account holder’s consent, convert certificated securities in collective custody, global certificates or uncertificated securities held or registered as a basis for intermediated securities into another form.[^7-1] It shall bear the conversion cost.
 
-<sup>2</sup> Insofar as provided by the terms of issue or the issuer’s articles of association, an account holder may at any time require the issuer to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder’s securities account based on a global certificate or uncertificated securities. The account holder shall bear the cost of this conversion unless the terms of issue or the issuer’s articles of association provide otherwise.
+<sup>2</sup> Insofar as provided by the terms of issue or the issuer’s articles of association, an account holder may at any time require the issuer to deliver certificated securities in the quantity and of the kind corresponding to intermediated securities credited to the account holder’s securities account based on a global certificate or uncertificated securities.[^7-2] The account holder shall bear the cost of this conversion unless the terms of issue or the issuer’s articles of association provide otherwise.
 
 <sup>3</sup> The custodian shall ensure that the conversion of the securities does not alter the total number of the personal and corporate rights issued.
+
+[^7-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-2]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 8
 
@@ -174,9 +192,11 @@ In the case of companies limited by shares without listed equity securities whos
 
 **Authorisation for sub-custody**
 
-<sup>1</sup> A custodian may hold intermediated securities, certificated securities and uncertificated securities with a sub-custodian in Switzerland or abroad. The account holder's consent is not required.
+<sup>1</sup> A custodian may hold intermediated securities, certificated securities, uncertificated securities and ledger-based securities with a sub-custodian in Switzerland or abroad.[^9-1] The account holder's consent is not required.
 
 <sup>2</sup> The account holder’s express consent is nonetheless required where the foreign sub-custodian is not subject to adequate regulatory supervision.
+
+[^9-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 10
 
@@ -199,8 +219,10 @@ In the case of companies limited by shares without listed equity securities whos
 The following are deemed to be available securities:
 
 - a. intermediated securities credited to a securities account held by the custodian with a sub-custodian;
-- b. certificated securities or global certificates that the custodian holds directly or uncertificated securities registered in its main register; and
+- b.[^11-1] certificated securities, ledger-based securities or global certificates that the custodian holds directly, or uncertificated securities entered in its main register; and
 - c. readily available rights to delivery of intermediated securities from other custodians during the regulatory or customary settlement period for the corresponding market, provided that this period does not exceed eight days.
+
+[^11-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 12
 
@@ -264,7 +286,7 @@ An account holder may at any time require its custodian to draw up a statement o
 If a custodian is subject to proceedings for compulsory liquidation, the liquidator shall exclude from the custodian’s estate up to the number of intermediated securities credited to securities account maintained by the custodian for its account holders:
 
 - a. intermediated securities credited to a securities account that the custodian holds with a sub-custodian;
-- b. certificated securities or global certificates that the custodian holds directly or uncertificated securities entered in its main register; and
+- b.[^17-1] certificated securities, ledger-based securities or global certificates that the custodian holds directly, or uncertificated securities entered in its main register; and
 - c. readily available claims of the custodian to receive delivery of intermediated securities from third parties resulting from spot transactions, expired futures transactions, hedging transactions, or issues on behalf of account holders.
 
 <sup>2</sup> If the custodian does not hold its own securities and that of its account holders in separate securities accounts with a sub-custodian, the securities credited to those accounts shall be presumed to belong to the custodian’s account holders.
@@ -276,9 +298,14 @@ If a custodian is subject to proceedings for compulsory liquidation, the liquida
 Intermediated securities and claims for delivery of intermediated securities excluded from the custodian’s estate shall be:
 
 - a. transferred to the custodian designated by the account holder; or
-- b. delivered to the account holder in the form of certificated securities.
+- b.[^17-2] delivered to the account holder in the form of certificated securities; or
+- c.[^17-3] transferred to the account holder in the form of ledger-based securities.
 
 <sup>5</sup> Claims of the custodian under Article 21 are reserved.
+
+[^17-1]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-2]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-3]: Amended by No I 9 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 18
 
@@ -319,7 +346,7 @@ An instruction issued by a custodian which is a participant in a securities clea
 
 <sup>1</sup> An account holder may authorise its custodian to dispose of its intermediated securities in its own name and on its own account, in particular to grant a security interest in the same.
 
-<sup>2</sup> The authorisation must be granted in writing unless the account holder is a custodian or a qualified investor. It may not be included in general terms and conditions.
+<sup>2</sup> Unless the account holder is a qualified investor, authorisation must be granted in writing. It may not be included in general terms and conditions.
 
 #### Art. 23
 

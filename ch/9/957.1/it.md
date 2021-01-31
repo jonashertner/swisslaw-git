@@ -4,11 +4,11 @@ title: "Legge federale del 3 ottobre 2008 sui titoli contabili (Legge sui titoli
 short: LTCo
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: it
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/it"
 
 (Legge sui titoli contabili, LTCo)
 
-del 3 ottobre 2008 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 3 ottobre 2008 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -77,10 +77,11 @@ Sono considerati enti di custodia:
 - b.[^4-2] le società di intermediazione mobiliare secondo l’articolo 41 della legge del 15 giugno 2018[^4-3] sugli istituti finanziari;
 - c.[^4-4] le direzioni dei fondi secondo l’articolo 32 della legge sugli istituti finanziari, sempre che gestiscano conti di quote;
 - d.[^4-5] i depositari centrali di cui all’articolo 61 della legge del 19 giugno 2015[^4-6] sull’infrastruttura finanziaria;
-- e. la Banca nazionale svizzera secondo la legge del 3 ottobre 2003 sulla Banca nazionale; e
-- f. la Posta svizzera secondo la legge del 30 aprile 1997[^4-7] sull’organizzazione delle poste.
+- e. la Banca nazionale svizzera secondo la legge del 3 ottobre 2003 sulla Banca nazionale;
+- f.[^4-7] la Posta svizzera secondo la legge del 17 dicembre 2010[^4-8] sull’organizzazione della Posta; e
+- g.[^4-9] i sistemi di negoziazione TRD secondo gli articoli 73*a*–73*f* della legge del 19 giugno 2015[^4-10] sull’infrastruttura finanziaria, in riferimento a diritti valori registrati secondo gli articoli 973*d*–973*i* del Codice delle obbligazioni[^4-11] che sono immobilizzati.
 
-<sup>3</sup> Sono considerati enti di custodia, sempre che gestiscano conti titoli nel quadro della loro attività, anche le banche estere, le società di intermediazione mobiliare estere e altri istituti finanziari esteri come pure gli enti di custodia centrali esteri.[^4-8]
+<sup>3</sup> Sono considerati enti di custodia, sempre che gestiscano conti titoli nel quadro della loro attività, anche le banche estere, le società di intermediazione mobiliare estere e altri istituti finanziari esteri come pure gli enti di custodia centrali esteri.[^4-12]
 
 [^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -88,8 +89,12 @@ Sono considerati enti di custodia:
 [^4-4]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Nuovo testo giusta l’all. n. 14 della L del 19 giu. 2015 sull’infrastruttura finanziaria, in vigore dal 1° gen. 2016 ([RU 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 6445](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^4-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-7]: [[RU 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), **2000**2355 all. n. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 n. 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [RU 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)all. n. I]. Vedi ora la L del 17 dic. 2010 sull’organizzazione della Posta ([RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
-[^4-8]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-7]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-9]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-11]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-12]: Nuovo testo giusta l’all. n. II 17 della L del 15 giu. 2018 sugli istituti finanziari, in vigore dal 1° gen. 2020 ([RU 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 7293](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -103,9 +108,12 @@ Nella presente legge sono considerati:
 - d. *investitore qualificato*: un ente di custodia; un’impresa di assicurazione sottoposta a vigilanza; un ente di diritto pubblico, un istituto di previdenza o un’impresa con tesoreria professionale;
 - e. *titoli di credito* *custoditi collettivamente*: titoli di credito ai sensi dell’articolo 973*a* del Codice delle obbligazioni[^5-1];
 - f. *certificato globale*: un titolo di credito ai sensi dell’articolo 973*b* del Codice delle obbligazioni;
-- g. *diritti valori*: diritti ai sensi dell’articolo 973*c* del Codice delle obbligazioni.
+- g.[^5-2] *diritti valori semplici*: diritti ai sensi dell’articolo 973*c* del Codice delle obbligazioni;
+- h.[^5-3] *diritti valori registrati*: diritti ai sensi dell’articolo 973*d* del Codice delle obbligazioni.
 
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-3]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Capitolo 2: Costituzione, conversione ed estinzione dei titoli contabili
 
@@ -118,20 +126,31 @@ Nella presente legge sono considerati:
 I titoli contabili si costituiscono:
 
 - a. depositando titoli di credito in custodia collettiva presso un ente di custodia e accreditandoli su uno o più conti titoli;
-- b. depositando certificati globali presso un ente di custodia e accreditandoli su uno o più conti titoli; o
-- c. iscrivendo diritti valori nel registro principale di un ente di custodia e accreditandoli su uno o più conti titoli.
+- b. depositando certificati globali presso un ente di custodia e accreditandoli su uno o più conti titoli;
+- c.[^6-1] iscrivendo diritti valori semplici nel registro principale di un ente di custodia e accreditandoli su uno o più conti titoli;
+- d.[^6-2] trasferendo diritti valori registrati a un ente di custodia e accreditandoli su uno o più conti titoli.
 
-<sup>2</sup> Per ogni emissione di diritti valori, il registro principale è tenuto da un solo ente di custodia. Il registro contiene indicazioni sull'emissione, il quantitativo e il taglio dei diritti valori emessi; esso è pubblico.
+<sup>2</sup> Per ogni emissione di diritti valori semplici, il registro principale è tenuto da un solo ente di custodia. Il registro contiene indicazioni sull’emissione, il quantitativo e il taglio dei diritti valori emessi; esso è pubblico.[^6-3]
+
+<sup>3</sup> In occasione del trasferimento a un ente di custodia, i diritti valori registrati vanno immobilizzati nel registro dei diritti valori.[^6-4]
+
+[^6-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-2]: Introdotta dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-3]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-4]: Introdotto dal n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
 **Conversione**
 
-<sup>1</sup> Sempre che le condizioni d’emissione o gli statuti societari non dispongano diversamente, l’emittente può, in qualsiasi momento e senza il consenso del titolare del conto, convertire rispettivamente in una delle altre due forme i titoli di credito, certificati globali o diritti valori custoditi collettivamente e depositati o registrati come base di titoli contabili. Esso se ne assume le spese.
+<sup>1</sup> Sempre che le condizioni d’emissione o gli statuti societari non dispongano diversamente, l’emittente può, in qualsiasi momento e senza il consenso del titolare del conto, convertire rispettivamente in una delle altre due forme i titoli di credito, certificati globali o diritti valori semplici custoditi collettivamente e depositati o registrati come base di titoli contabili.[^7-1] Esso se ne assume le spese.
 
-<sup>2</sup> I titolari dei conti possono esigere in qualsiasi momento che l’emittente rilasci, per i titoli contabili costituiti mediante deposito di un certificato globale o iscrizione di diritti valori in un registro principale, lo stesso numero di titoli di credito della stessa categoria, sempre che le condizioni d’emissione o gli statuti societari lo prevedano. Essi se ne assumono le spese, salvo che le condizioni d’emissione o gli statuti societari dispongano diversamente.
+<sup>2</sup> I titolari dei conti possono esigere in qualsiasi momento che l’emittente rilasci, per i titoli contabili costituiti mediante deposito di un certificato globale o iscrizione di diritti valori semplici in un registro principale, lo stesso numero di titoli di credito della stessa categoria, sempre che le condizioni d’emissione o gli statuti societari lo prevedano.[^7-2] Essi se ne assumono le spese, salvo che le condizioni d’emissione o gli statuti societari dispongano diversamente.
 
 <sup>3</sup> L’ente di custodia assicura che la conversione non comporti un mutamento del numero complessivo dei diritti di credito o inerenti alla qualità di membro emessi.
+
+[^7-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 8
 
@@ -169,9 +188,11 @@ Per le società anonime senza titoli di partecipazione quotati in borsa le cui a
 
 **Autorizzazione alla subcustodia**
 
-<sup>1</sup> Un ente di custodia può far custodire titoli contabili, titoli di credito e diritti valori da un ente di subcustodia in Svizzera o all’estero. Il consenso del titolare del conto non è necessario.
+<sup>1</sup> Un ente di custodia può far custodire titoli contabili, titoli di credito, diritti valori semplici e diritti valori registrati da un ente di subcustodia in Svizzera o all’estero.[^9-1] Il consenso del titolare del conto non è necessario.
 
 <sup>2</sup> La subcustodia all’estero necessita tuttavia del consenso esplicito del titolare del conto se l’ente di custodia estero non sottostà a una vigilanza adeguata alla sua attività.
+
+[^9-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 10
 
@@ -194,8 +215,10 @@ Per le società anonime senza titoli di partecipazione quotati in borsa le cui a
 Sono considerati disponibili:
 
 - a. i titoli contabili accreditati su un conto titoli dell’ente di custodia presso un ente di subcustodia;
-- b. i titoli di credito, i certificati globali o i diritti valori custoditi collettivamente presso l’ente di custodia e iscritti nel suo registro principale; e
+- b.[^11-1] i titoli di credito, i diritti valori registrati, i certificati globali o i diritti valori semplici custoditi collettivamente presso l’ente di custodia e iscritti nel suo registro principale; e
 - c. le pretese, di cui l’ente di custodia può disporre liberamente, tendenti alla fornitura di titoli contabili da parte di altri enti di custodia durante il periodo prescritto o usuale sul mercato corrispondente per un’operazione ordinaria, ma al massimo durante otto giorni.
+
+[^11-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 12
 
@@ -259,7 +282,7 @@ Il titolare del conto può chiedere in qualsiasi momento all’ente di custodia 
 Se nei confronti di un ente di custodia è avviata una procedura di liquidazione forzata finalizzata all’esecuzione generale, il liquidatore separa d’ufficio dalla massa, nella misura degli averi in titoli dei titolari dei conti dell’ente di custodia:
 
 - a. i titoli contabili accreditati su un conto titoli dell’ente di custodia presso un ente di subcustodia;
-- b. i titoli di credito, certificati globali o diritti valori custoditi collettivamente presso l’ente di custodia e iscritti nel suo registro principale; e
+- b.[^17-1] i titoli di credito, i diritti valori registrati, i certificati globali o i diritti valori semplici custoditi collettivamente presso l’ente di custodia e iscritti nel suo registro principale; e
 - c. le pretese, di cui l’ente di custodia può disporre liberamente, tendenti alla fornitura di titoli contabili da parte di terzi e derivanti da operazioni di cassa, operazioni a termine scadute, operazioni di copertura o emissioni per conto dei titolari dei conti.
 
 <sup>2</sup> Se l’ente di custodia detiene su un solo conto titoli portafogli propri e di terzi presso un ente di subcustodia, si presume che si tratti di titoli contabili dei suoi titolari dei conti*.*
@@ -270,10 +293,14 @@ Se nei confronti di un ente di custodia è avviata una procedura di liquidazione
 
 I titoli contabili e le pretese della loro fornitura, separati dalla massa, sono:
 
-- a. trasferiti all’ente di custodia indicato dal titolare del conto; o
-- b. forniti al titolare del conto sotto forma di titoli di credito.
+- a. trasferiti all’ente di custodia indicato dal titolare del conto;
+- b. forniti al titolare del conto sotto forma di titoli di credito; o
+- c. trasferiti al titolare del conto sotto forma di diritti valori registrati.[^17-2]
 
 <sup>5</sup> Sono salve le pretese dell’ente di custodia secondo l’articolo 21.
+
+[^17-1]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-2]: Nuovo testo giusta il n. I 9 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 18
 
@@ -473,7 +500,7 @@ Chi acquista in buona fede, a titolo oneroso, titoli contabili o diritti su tito
 
 <sup>2</sup> Se l’ente di custodia conclude con il titolare del conto un accordo secondo l’articolo 25 capoverso 1 senza indicare espressamente all’acquirente i diritti anteriori che gli spettano, la garanzia a suo favore è considerata secondaria rispetto a quella dell’acquirente.[^30-1]
 
-<sup>3</sup> …[^30-2]
+<sup>3</sup> ...[^30-2]
 
 <sup>4</sup> Le intese contrarie circa la priorità rimangono salve, ma hanno effetto soltanto tra le parti all’intesa.
 
@@ -566,6 +593,6 @@ Allegato
 
 Le leggi qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450).

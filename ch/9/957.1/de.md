@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 3. Oktober 2008 über Bucheffekten (Bucheffektengesetz,
 short: BEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: de
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/de"
 
 (Bucheffektengesetz, BEG)
 
-vom 3. Oktober 2008 (Stand am 1. Januar 2020)
+vom 3. Oktober 2008 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -78,10 +78,11 @@ Als Verwahrungsstellen gelten:
 - b.[^4-2] Wertpapierhäuser nach Artikel 41 des Finanzinstitutsgesetzes vom 15. Juni 2018[^4-3];
 - c.[^4-4] Fondsleitungen nach Artikel 32 des Finanzinstitutsgesetzes, sofern sie Anteilskonten führen;
 - d.[^4-5] Zentralverwahrer im Sinne von Artikel 61 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^4-6];
-- e. die Schweizerische Nationalbank gemäss Nationalbankgesetz vom 3. Oktober 2003[^4-7]; und
-- f. die Schweizerische Post gemäss Postorganisationsgesetz vom 30. April 1997[^4-8].
+- e. die Schweizerische Nationalbank gemäss Nationalbankgesetz vom 3. Oktober 2003[^4-7];
+- f.[^4-8] die Schweizerische Post gemäss Postorganisationsgesetz vom 17. Dezember 2010[^4-9]; und
+- g.[^4-10] DLT-Handelssysteme nach den Artikeln 73*a*–73*f* des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015[^4-11] in Bezug auf immobilisierte Registerwertrechte nach den Artikeln 973*d–*973*i* des Obligationenrechts[^4-12].
 
-<sup>3</sup> Als Verwahrungsstelle gelten, sofern sie im Rahmen ihrer Geschäftstätigkeit Effektenkonten führen, auch ausländische Banken, ausländische Wertpapierhäuser und andere ausländische Finanzinstitute sowie ausländische zentrale Verwahrungsstellen.[^4-9]
+<sup>3</sup> Als Verwahrungsstelle gelten, sofern sie im Rahmen ihrer Geschäftstätigkeit Effektenkonten führen, auch ausländische Banken, ausländische Wertpapierhäuser und andere ausländische Finanzinstitute sowie ausländische zentrale Verwahrungsstellen.[^4-13]
 
 [^4-1]: [SR 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -90,8 +91,12 @@ Als Verwahrungsstellen gelten:
 [^4-5]: Fassung gemäss Anhang Ziff. 14 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^4-6]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
 [^4-7]: [SR 951.11](https://fedlex.data.admin.ch/eli/cc/2004/221)
-[^4-8]: [[AS 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)Art. 31. Ziff. 3, **2003** 3385, **2007** 4703. [AS 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)Anhang Ziff. I]. Siehe heute: das Postorganisationsgesetz vom 17. Dez. 2010 ([SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
-[^4-9]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-8]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-9]: [SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-10]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-11]: [SR 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-12]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-13]: Fassung gemäss Anhang Ziff. II 17 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -105,9 +110,12 @@ In diesem Gesetz gelten als:
 - d. *qualifizierte Anlegerin oder qualifizierter Anleger**:* eine Verwahrungsstelle; eine beaufsichtigte Versicherungseinrichtung; eine öffentlich-rechtliche Körperschaft, eine Vorsorgeeinrichtung oder ein Unternehmen mit professioneller Tresorerie;
 - e. *sammelverwahrte Wertpapiere**:* Wertpapiere im Sinne von Artikel 973*a* des Obligationenrechts[^5-1];
 - f. *Globalurkunde**:* ein Wertpapier im Sinne von Artikel 973*b* des Obligationenrechts;
-- g. *Wertrechte**:* Rechte im Sinne von Artikel 973*c* des Obligationenrechts.
+- g.[^5-2] *einfache Wertrechte*: Rechte im Sinne von Artikel 973*c* des Obligationenrechts*;*
+- h.[^5-3] *Registerwertrechte*: Rechte im Sinne von Artikel 973*d* des Obligationenrechts.
 
 [^5-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-3]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## 2. Kapitel: Entstehung, Umwandlung und Untergang von Bucheffekten
 
@@ -120,20 +128,31 @@ In diesem Gesetz gelten als:
 Bucheffekten entstehen:
 
 - a. mit der Hinterlegung von Wertpapieren zur Sammelverwahrung bei einer Verwahrungsstelle und deren Gutschrift in einem oder mehreren Effektenkonten;
-- b. mit der Hinterlegung von Globalurkunden bei einer Verwahrungsstelle und deren Gutschrift in einem oder mehreren Effektenkonten; oder
-- c. mit der Eintragung von Wertrechten im Hauptregister einer Verwahrungsstelle und deren Gutschrift in einem oder mehreren Effektenkonten.
+- b. mit der Hinterlegung von Globalurkunden bei einer Verwahrungsstelle und deren Gutschrift in einem oder mehreren Effektenkonten;
+- c.[^6-1] mit der Eintragung von einfachen Wertrechten im Hauptregister einer Verwahrungsstelle und der Gutschrift in einem oder mehreren Effektenkonten;
+- d.[^6-2] mit der Übertragung von Registerwertrechten auf eine Verwahrungsstelle und der Gutschrift in einem oder mehreren Effektenkonten.
 
-<sup>2</sup> Für jede Emission von Wertrechten führt eine einzige Verwahrungsstelle das Hauptregister. Es enthält Angaben über die Emission und die Anzahl sowie die Stückelung der ausgegebenen Wertrechte; es ist öffentlich.
+<sup>2</sup> Für jede Emission von einfachen Wertrechten führt eine einzige Verwahrungsstelle das Hauptregister. Es enthält Angaben über die Emission und die Anzahl sowie die Stückelung der ausgegebenen Wertrechte; es ist öffentlich.[^6-3]
+
+<sup>3</sup> Registerwertrechte sind bei deren Übertragung auf eine Verwahrungsstelle im Wertrechteregister zu immobilisieren.[^6-4]
+
+[^6-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-2]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-3]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-4]: Eingefügt durch Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
 **Umwandlung**
 
-<sup>1</sup> Sofern die Ausgabebedingungen oder die Gesellschaftsstatuten nichts anderes bestimmen, kann der Emittent sammelverwahrte Wertpapiere, Globalurkunden oder Wertrechte, die als Grundlage von Bucheffekten hinterlegt oder eingetragen sind, jederzeit und ohne Zustimmung der Kontoinhaberinnen oder Kontoinhaber in eine der beiden anderen Formen umwandeln. Er trägt dafür die Kosten.
+<sup>1</sup> Sofern die Ausgabebedingungen oder die Gesellschaftsstatuten nichts anderes bestimmen, kann der Emittent sammelverwahrte Wertpapiere, Globalurkunden oder einfache Wertrechte, die als Grundlage von Bucheffekten hinterlegt oder eingetragen sind, jederzeit und ohne Zustimmung der Kontoinhaberinnen oder Kontoinhaber in eine der beiden anderen Formen umwandeln.[^7-1] Er trägt dafür die Kosten.
 
-<sup>2</sup> Die Kontoinhaberinnen und Kontoinhaber können vom Emittenten jederzeit verlangen, für die Bucheffekten, die durch Hinterlegung einer Globalurkunde oder durch Eintragung von Wertrechten in ein Hauptregister entstehen, Wertpapiere gleicher Zahl und Gattung auszustellen, sofern die Ausgabebedingungen oder Gesellschaftsstatuten es vorsehen. Sie tragen dafür die Kosten, es sei denn, die Ausgabebedingungen oder Gesellschaftsstatuten bestimmen etwas anderes.
+<sup>2</sup> Die Kontoinhaberinnen und Kontoinhaber können vom Emittenten jederzeit verlangen, für die Bucheffekten, die durch Hinterlegung einer Globalurkunde oder durch Eintragung einfacher Wertrechte in ein Hauptregister entstehen, Wertpapiere gleicher Zahl und Gattung auszustellen, sofern die Ausgabebedingungen oder Gesellschaftsstatuten es vorsehen.[^7-2] Sie tragen dafür die Kosten, es sei denn, die Ausgabebedingungen oder Gesellschaftsstatuten bestimmen etwas anderes.
 
 <sup>3</sup> Die Verwahrungsstelle stellt sicher, dass durch eine Umwandlung die Gesamtzahl der ausgegebenen Forderungs- oder Mitgliedschaftsrechte nicht verändert wird.
+
+[^7-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-2]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 8
 
@@ -172,9 +191,11 @@ Bei Aktiengesellschaften ohne börsenkotierte Beteiligungspapiere, deren Inhaber
 
 **Ermächtigung zur Drittverwahrung**
 
-<sup>1</sup> Eine Verwahrungsstelle kann Bucheffekten, Wertpapiere und Wertrechte durch eine Drittverwahrungsstelle in der Schweiz oder im Ausland verwahren lassen. Die Zustimmung der Kontoinhaberin oder des Kontoinhabers ist nicht erforderlich.
+<sup>1</sup> Eine Verwahrungsstelle kann Bucheffekten, Wertpapiere, einfache Wertrechte und Registerwertrechte durch eine Drittverwahrungsstelle in der Schweiz oder im Ausland verwahren lassen.[^9-1] Die Zustimmung der Kontoinhaberin oder des Kontoinhabers ist nicht erforderlich.
 
 <sup>2</sup> Die Drittverwahrung im Ausland bedarf jedoch der ausdrücklichen Zustimmung der Kontoinhaberin oder des Kontoinhabers, wenn die ausländische Verwahrungsstelle nicht einer Aufsicht untersteht, welche ihrer Tätigkeit angemessen ist.
+
+[^9-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 10
 
@@ -197,8 +218,10 @@ Bei Aktiengesellschaften ohne börsenkotierte Beteiligungspapiere, deren Inhaber
 Als verfügbar gelten:
 
 - a. Bucheffekten, die einem Effektenkonto der Verwahrungsstelle bei einer Drittverwahrungsstelle gutgeschrieben sind;
-- b. bei der Verwahrungsstelle sammelverwahrte Wertpapiere, Globalurkunden oder Wertrechte, die in ihrem Hauptregister eingetragen sind; und
+- b.[^11-1] bei der Verwahrungsstelle sammelverwahrte Wertpapiere, Registerwertrechte, Globalurkunden oder einfache Wertrechte, die in ihrem Hauptregister eingetragen sind; und
 - c. frei verfügbare Ansprüche auf Lieferung von Bucheffekten durch andere Verwahrungsstellen während der Frist, die auf dem betreffenden Markt für eine ordentliche Abwicklung vorgeschrieben oder üblich ist, längstens jedoch während acht Tagen.
+
+[^11-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 12
 
@@ -262,7 +285,7 @@ Die Kontoinhaberin oder der Kontoinhaber kann von der Verwahrungsstelle jederzei
 Wird über eine Verwahrungsstelle ein Zwangsliquidationsverfahren zum Zwecke der Generalexekution eröffnet, so sondert die Liquidatorin oder der Liquidator im Umfang der Effektenguthaben ihrer Kontoinhaberinnen und Kontoinhaber von Amtes wegen ab:
 
 - a. Bucheffekten, die einem Effektenkonto der Verwahrungsstelle bei einer Drittverwahrungsstelle gutgeschrieben sind;
-- b. bei der Verwahrungsstelle sammelverwahrte Wertpapiere, Globalurkunden oder Wertrechte, die in ihrem Hauptregister eingetragen sind; und
+- b.[^17-1] bei der Verwahrungsstelle sammelverwahrte Wertpapiere, Registerwertrechte, Globalurkunden oder einfache Wertrechte, die in ihrem Hauptregister eingetragen sind; und
 - c. frei verfügbare Ansprüche der Verwahrungsstelle gegenüber Dritten auf Lieferung von Bucheffekten aus Kassageschäften, abgelaufenen Termingeschäften, Deckungsgeschäften oder Emissionen für Rechnung der Kontoinhaberinnen oder Kontoinhaber.
 
 <sup>2</sup> Hält die Verwahrungsstelle Eigen- und Drittbestände bei einer Drittverwahrungsstelle zusammengefasst auf einem einzigen Effektenkonto, so gilt die Vermutung, dass es sich dabei um Bucheffekten ihrer Kontoinhaberinnen und Kontoinhaber handelt*.*
@@ -273,10 +296,15 @@ Wird über eine Verwahrungsstelle ein Zwangsliquidationsverfahren zum Zwecke der
 
 Die abgesonderten Bucheffekten und Ansprüche auf Lieferung von Bucheffekten werden:
 
-- a. auf die Verwahrungsstelle übertragen, die von der Kontoinhaberin oder vom Kontoinhaber bezeichnet wird; oder
-- b. in Form von Wertpapieren der Kontoinhaberin oder dem Kontoinhaber ausgeliefert.
+- a. auf die Verwahrungsstelle übertragen, die von der Kontoinhaberin oder vom Kontoinhaber bezeichnet wird;
+- b.[^17-2] in Form von Wertpapieren der Kontoinhaberin oder dem Kontoinhaber ausgeliefert; oder
+- c.[^17-3] in Form von Registerwertrechten auf die Kontoinhaberin oder den Kontoinhaber übertragen.
 
 <sup>5</sup> Die Ansprüche der Verwahrungsstelle nach Artikel 21 bleiben vorbehalten.
+
+[^17-1]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-2]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-3]: Fassung gemäss Ziff. I 9 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 18
 
@@ -477,7 +505,7 @@ Wer nach Artikel 24, 25 oder 26 Bucheffekten oder Rechte an Bucheffekten in gute
 
 <sup>2</sup> Schliesst die Verwahrungsstelle mit der Kontoinhaberin oder dem Kontoinhaber eine Vereinbarung gemäss Artikel 25 Absatz 1 ab, ohne die Erwerberin oder den Erwerber ausdrücklich auf die ihr zustehenden früheren Rechte hinzuweisen, so gilt ihr Recht als dem Recht der Erwerberin oder des Erwerbers untergeordnet.[^30-1]
 
-<sup>3</sup> …[^30-2]
+<sup>3</sup> ...[^30-2]
 
 <sup>4</sup> Abweichende Abreden über die Rangfolge bleiben vorbehalten, entfalten jedoch nur unter den Parteien dieser Abrede Wirkung.
 
@@ -570,6 +598,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450)konsultiert werden.

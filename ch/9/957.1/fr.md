@@ -4,11 +4,11 @@ title: Loi fédérale du 3 octobre 2008 sur les titres intermédiés (LTI)
 short: LTI
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/450"
 language: fr
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2008-10-03
 in_force: 2009-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/450/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-450-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/450/20200101/fr"
 
 (LTI)[^t-1]
 
-du 3 octobre 2008 (Etat le 1<sup>er</sup> janvier 2020)
+du 3 octobre 2008 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -80,9 +80,10 @@ Sont des dépositaires:
 - c.[^4-4] les directions de fonds au sens de l’art. 32 de la loi fédérale sur les établissements financiers, dans la mesure où elles tiennent des comptes de parts;
 - d.[^4-5] les dépositaires centraux au sens de l’art. 61 de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^4-6];
 - e. la Banque nationale suisse au sens de la loi du 3 octobre 2003 sur la Banque nationale;
-- f. la Poste Suisse au sens de la loi du 30 avril 1997 sur l’organisation de la Poste[^4-7].
+- f.[^4-7] la Poste Suisse au sens de la loi du 17 décembre 2010 sur l’organisation de la Poste[^4-8], et
+- g.[^4-9] les systèmes de négociation fondés sur la TRD au sens des art. 73*a* à 73*f* de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers[^4-10] s’agissant des droits-valeurs inscrits au sens des art. 973*d* à 973*i* du code des obligations[^4-11] qui sont immobilisés.
 
-<sup>3</sup> Sont également considérés comme des dépositaires, lorsqu’ils tiennent des comptes de titres dans le cadre de leur activité professionnelle, les banques étrangères, les maisons de titres étrangères et les autres établissements financiers étrangers, ainsi que les dépositaires centraux étrangers.[^4-8]
+<sup>3</sup> Sont également considérés comme des dépositaires, lorsqu’ils tiennent des comptes de titres dans le cadre de leur activité professionnelle, les banques étrangères, les maisons de titres étrangères et les autres établissements financiers étrangers, ainsi que les dépositaires centraux étrangers.[^4-12]
 
 [^4-1]: [RS 952.0](https://fedlex.data.admin.ch/eli/cc/51/117_121_129)
 [^4-2]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
@@ -90,8 +91,12 @@ Sont des dépositaires:
 [^4-4]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^4-5]: Nouvelle teneur selon l’annexe ch. 14 de la L du 19 juin 2015 sur l’infrastructure des marchés financiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [FF 2014 7235](https://fedlex.data.admin.ch/eli/fga/2014/1633)).
 [^4-6]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
-[^4-7]: [[RO 1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 22, [2001 707](https://fedlex.data.admin.ch/eli/oc/2001/107)art. 31 ch. 3, [2003 3385](https://fedlex.data.admin.ch/eli/oc/2003/474), [2007 4703](https://fedlex.data.admin.ch/eli/oc/2007/672). [RO 2012 5043](https://fedlex.data.admin.ch/eli/oc/2012/587)annexe ch. I]. Voir actuellement la L du 17 déc. 2010 sur l’organisation de la Poste ([RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
-[^4-8]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
+[^4-7]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-8]: [RS 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)
+[^4-9]: Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^4-10]: [RS 958.1](https://fedlex.data.admin.ch/eli/cc/2015/853)
+[^4-11]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^4-12]: Nouvelle teneur selon l’annexe ch. II 17 de la LF du 15 juin 2018 sur les établissements financiers, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [FF 2015 8101](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 
 #### Art. 5
 
@@ -105,9 +110,12 @@ Dans la présente loi, on entend par:
 - d. *investisseur qualifié:* un dépositaire; une entreprise d’assurance soumise à une surveillance prudentielle; une corporation de droit public, une institution de prévoyance ou une entreprise disposant d’une trésorerie gérée à titre professionnel;
 - e. *papiers-valeurs en dépôt collectif:* des papiers-valeurs conservés conformément à l’art. 973*a* du code des obligations[^5-1];
 - f. *certificat global:* un papier-valeur au sens de l’art. 973*b* du code des obligations;
-- g. *droits-valeurs:* des droits au sens de l’art. 973*c* du code des obligations.
+- g.[^5-2] *droits-valeurs simples:* des droits au sens de l’art. 973*c* du code des obligations;
+- h.[^5-3] *droits-valeurs inscrits:* des droits au sens de l’art. 973*d* du code des obligations.
 
 [^5-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^5-2]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^5-3]: Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ## Chapitre 2 Création, conversion et extinction de titres intermédiés
 
@@ -121,19 +129,30 @@ Des titres intermédiés sont créés:
 
 - a. lorsqu’un dépositaire reçoit des papiers-valeurs en dépôt collectif et qu’il les inscrit au crédit d’un ou de plusieurs comptes de titres;
 - b. lorsqu’un dépositaire reçoit en dépôt un certificat global et qu’il inscrit les droits correspondants au crédit d’un ou de plusieurs comptes de titres;
-- c. lorsqu’un dépositaire inscrit des droits-valeurs au registre principal et les droits correspondants au crédit d’un ou de plusieurs comptes de titres.
+- c.[^6-1] lorsqu’un dépositaire inscrit des droits-valeurs simples au registre principal et les droits correspondants au crédit d’un ou de plusieurs comptes de titres;
+- d.[^6-2] lorsqu’un dépositaire se voit transférer des droits-valeurs inscrits et qu’il inscrit les droits correspondants au crédit d’un ou de plusieurs comptes de titres.
 
-<sup>2</sup> Pour chaque émission de droits-valeurs, un seul dépositaire tient le registre principal. Celui-ci comporte des indications sur l’émission, le nombre et la valeur nominale des droits-valeurs émis; il est public.
+<sup>2</sup> Pour chaque émission de droits-valeurs simples, un seul dépositaire tient le registre principal. Celui-ci comporte des indications sur l’émission, le nombre et la valeur nominale des droits-valeurs émis; il est public.[^6-3]
+
+<sup>3</sup> Lors de leur transfert au dépositaire, les droits-valeurs inscrits sont immobilisés dans le registre de droits-valeurs.[^6-4]
+
+[^6-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-2]: Introduite par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-3]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^6-4]: Introduit par le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux dé-veloppements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 7
 
 **Conversion**
 
-<sup>1</sup> À moins que ses statuts ou que les conditions de l’émission n’en disposent autrement, l’émetteur peut, en tout temps et sans le consentement du titulaire d’un compte, convertir en l’une des deux autres formes les titres déposés auprès d’un intermédiaire sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs. Il en supporte les frais.
+À moins que ses statuts ou que les conditions de l’émission n’en disposent autrement, l’émetteur peut, en tout temps et sans le consentement du titulaire d’un compte, convertir en l’une des deux autres formes les titres déposés auprès d’un intermédiaire sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs simples.[^7-1] Il en supporte les frais.
 
-<sup>2</sup> Pour autant que les statuts de l’émetteur ou que les conditions de l’émission le prévoient, le titulaire d’un compte peut exiger en tout temps de l’émetteur qu’il établisse des papiers-valeurs dont le nombre et le genre correspondent aux titres intermédiés qui sont inscrits à son compte et qui sont fondés sur le dépôt d’un certificat global ou sur l’inscription de droits-valeurs au registre principal. Il supporte les frais de cette conversion à moins que les conditions de l’émission ou les statuts de l’émetteur n’en disposent autrement.
+<sup>2</sup> Pour autant que les statuts de l’émetteur ou que les conditions de l’émission le prévoient, le titulaire d’un compte peut exiger en tout temps de l’émetteur qu’il établisse des papiers-valeurs dont le nombre et le genre correspondent aux titres intermédiés qui sont inscrits à son compte et qui sont fondés sur le dépôt d’un certificat global ou sur l’inscription de droits-valeurs simples au registre principal.[^7-2] Il supporte les frais de cette conversion à moins que les conditions de l’émission ou les statuts de l’émetteur n’en disposent autrement.
 
 <sup>3</sup> Le dépositaire s’assure que la conversion des titres ne modifie pas le nombre total des créances et des droits sociaux émis.
+
+[^7-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^7-2]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 8
 
@@ -170,9 +189,11 @@ Pour les sociétés anonymes qui n’ont pas de titres de participation cotés e
 
 **Autorisation**
 
-<sup>1</sup> Tout dépositaire est autorisé à détenir des titres intermédiés, des papiers-valeurs ou des droits-valeurs auprès d’un sous-dépositaire en Suisse ou à l’étranger. Le consentement du titulaire du compte n’est pas requis.
+<sup>1</sup> Tout dépositaire est autorisé à détenir des titres intermédiés, des papiers-valeurs, des droits-valeurs simples ou des droits-valeurs inscrits auprès d’un sous-dépositaire en Suisse ou à l’étranger.[^9-1] Le consentement du titulaire du compte n’est pas requis.
 
 <sup>2</sup> Le consentement exprès du titulaire du compte est toutefois requis si le dépositaire à l’étranger n’est pas soumis à une surveillance adéquate.
+
+[^9-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 10
 
@@ -195,8 +216,10 @@ Pour les sociétés anonymes qui n’ont pas de titres de participation cotés e
 Sont des titres disponibles:
 
 - a. les titres intermédiés inscrits au crédit d’un compte de titres que le dépositaire détient auprès d’un sous-dépositaire;
-- b. les titres que le dépositaire conserve lui-même sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs inscrits à son registre principal;
+- b.[^11-1] les titres que le dépositaire conserve lui-même, en dépôt collectif, sous la forme de papiers-valeurs, de droits-valeurs inscrits, de certificats globaux ou de droits-valeurs simples inscrits à son registre principal;
 - c. les titres dont le dépositaire peut librement exiger la remise par d’autres dépositaires pendant la durée prescrite ou usuelle du règlement régulier sur le marché correspondant, mais au plus pendant huit jours.
+
+[^11-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 12
 
@@ -260,7 +283,7 @@ Le titulaire d’un compte de titres peut exiger en tout temps du dépositaire q
 Lorsqu’un dépositaire fait l’objet d’une procédure de liquidation forcée tendant à l’exécution générale, le liquidateur distrait d’office de la masse, à concurrence des avoirs en compte de titres disponibles:
 
 - a. les titres intermédiés inscrits au crédit d’un compte de titres que le dépositaire détient auprès d’un sous-dépositaire;
-- b. les titres que le dépositaire conserve lui-même sous la forme de papiers-valeurs en dépôt collectif, de certificats globaux ou de droits-valeurs inscrits à son registre principal;
+- b.[^17-1] les titres que le dépositaire conserve lui-même, en dépôt collectif, sous la forme de papiers-valeurs, de droits-valeurs inscrits, de certificats globaux ou de droits-valeurs simples inscrits à son registre principal;
 - c. les prétentions librement disponibles du dépositaire à l’encontre de tiers portant sur la livraison de titres intermédiés résultant d’opérations au comptant, d’opérations à terme échues, d’opérations de couverture ou d’émissions pour le compte de titulaires d’un compte.
 
 <sup>2</sup> Si le dépositaire détient ses propres titres et les titres de ses clients titulaires d’un compte sur un même compte de titres auprès d’un sous-dépositaire, les titres inscrits au crédit de ce compte sont présumés être ceux de ses clients titulaires d’un compte.
@@ -271,10 +294,14 @@ Lorsqu’un dépositaire fait l’objet d’une procédure de liquidation forcé
 
 Les titres distraits et les prétentions à la remise de titres sont:
 
-- a. soit transférés au nouveau dépositaire désigné par le titulaire d’un compte;
-- b. soit remis au titulaire d’un compte sous la forme de papiers-valeurs.
+- a. transférés au nouveau dépositaire désigné par le titulaire d’un compte;
+- b. remis au titulaire d’un compte sous la forme de papiers-valeurs, ou
+- c. transférés au titulaire d’un compte sous la forme de droits-valeurs inscrits.[^17-2]
 
 <sup>5</sup> Les prétentions du dépositaire visées à l’art. 21 sont réservées.
+
+[^17-1]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^17-2]: Nouvelle teneur selon le ch. I 9 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 18
 
