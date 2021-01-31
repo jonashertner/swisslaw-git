@@ -4,11 +4,11 @@ title: "Loi fédérale du 11 décembre 2009 sur l'encouragement de la culture (L
 short: LEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: fr
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/fr"
 
 (Loi sur l’encouragement de la culture, LEC)[^t-1]
 
-du 11 décembre 2009 (Etat le 1<sup>er</sup> janvier 2017)
+du 11 décembre 2009 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -44,13 +44,15 @@ La présente loi règle:
 
   l’encouragement de la culture par la Confédération dans les domaines suivants:
 
-  - 1\. sauvegarde du patrimoine culturel,
+  - 1\.[^1-1] sauvegarde du patrimoine culturel matériel et immatériel,
   - 2\. création artistique et culturelle, y compris promotion de la relève,
   - 3\. médiations artistique et culturelle,
   - 4\. échanges entre les communautés culturelles et linguistiques de Suisse,
   - 5\. échanges culturels avec l’étranger;
 
 - b. l’organisation de la fondation Pro Helvetia.
+
+[^1-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 2
 
@@ -194,12 +196,15 @@ La Confédération peut promouvoir la relève culturelle et artistique par des m
 
 <sup>3</sup> Elle peut confier à des tiers l’exécution du programme «jeunesse et musique».[^12-2]
 
+<sup>4</sup> Elle arrête des mesures spécifiques pour promouvoir les talents musicaux.[^12-3]
+
 [^12-1]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^12-2]: Introduit par le ch. I de la LF du 19 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 461](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-3]: Introduit par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 12a
 
-**Ecolages dans les écoles de musique**[^12a-1]
+**Écolages dans les écoles de musique**[^12a-1]
 
 <sup>1</sup> Les écoles de musique bénéficiant du soutien de cantons ou de communes prévoient pour tous les enfants et tous les jeunes jusqu’à la fin du niveau secondaire II des écolages clairement inférieurs à ceux pratiqués pour les adultes.
 
@@ -246,15 +251,17 @@ Elle peut soutenir les projets qui présentent les caractéristiques suivantes:
 
 #### Art. 17
 
-**Soutien aux gens du voyage**
+**Yéniches, Manouches et mode de vie nomade**[^17-1]
 
-La Confédération peut prendre des mesures pour permettre aux gens du voyage de mener la vie qui correspond à leur culture.
+La Confédération peut prendre des mesures pour promouvoir les cultures yéniche et manouche et pour rendre possible le mode de vie nomade.
+
+[^17-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 18
 
-**Versement d’une aide financière à la ville de Berne**
+[^18-1]
 
-La Confédération peut verser une aide financière à la ville de Berne pour les prestations culturelles particulières qu’elle fournit en tant que siège de l’Assemblée fédérale et du Conseil fédéral.
+[^18-1]: Abrogé par le ch. I de la LF du 25 sept. 2020, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 19
 

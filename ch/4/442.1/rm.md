@@ -4,11 +4,11 @@ title: "Lescha federala dals 11 da december 2009 davart la promoziun da la cultu
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: rm
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20170101/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20170101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha per promover la cultura, LPCu)
 
-dals 11 da december 2009 (versiun dal 1. da schaner 2017)
+dals 11 da december 2009 (versiun dal 1. da favrer 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -44,13 +44,15 @@ Questa lescha regla:
 
   la promoziun da la cultura da la Confederaziun en ils suandants secturs:
 
-  - 1\. conservaziun dal patrimoni cultural,
+  - 1\.[^1-1] conservaziun dal patrimoni cultural material ed immaterial,
   - 2\. lavur artistica e culturala inclusiv la promoziun da la generaziun giuvna,
   - 3\. intermediaziun da l’art e da la cultura,
   - 4\. barat tranter las cuminanzas culturalas e linguisticas da la Svizra,
   - 5\. barat cultural cun l’exteriur;
 
 - b. l’organisaziun da la fundaziun Pro Helvetia.
+
+[^1-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020, en vigur dapi il 1. da favr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 2
 
@@ -155,7 +157,7 @@ La Confederaziun sustegna da preferenza projects che:
 La Confederaziun e la fundaziun Pro Helvetia assegnan ina procentuala da lur subsidis per persunas che lavuran sin il champ cultural a:
 
 - a. la cassa da pensiun da quella persuna che survegn l’agid finanzial; u
-- b. in’autra furma da prevenziun tenor l’artitgel 82 alinea 2 da la Lescha federala dals 25 da zercladur 1982[^9-2] davart la prevenziun professiunala per vegls, survivents ed invaliditad da questa persuna.
+- b. in’autra furma da provediment tenor l’artitgel 82 alinea 2 da la Lescha federala dals 25 da zercladur 1982[^9-2] davart il provediment professiunal per vegls, survivents ed invaliditad da questa persuna.
 
 <sup>2</sup> Il Cussegl federal fixescha la procentuala.
 
@@ -194,8 +196,11 @@ La Confederaziun po promover la generaziun giuvna activa en la cultura ed en l�
 
 <sup>3</sup> Ella po incumbensar terzas persunas cun l’execuziun dal program «Giuventetgna e musica».[^12-2]
 
+<sup>4</sup> Ella promova talents musicals cun agid da mesiras specificas.[^12-3]
+
 [^12-1]: Integrà tras la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^12-2]: Integrà tras la cifra I da la LF dals 19 da zer. 2015, en vigur dapi il 1. da schan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-3]: Integrà tras la cifra I da la LF dals 25 da sett. 2020, en vigur dapi il 1. da favr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 12a
 
@@ -246,15 +251,17 @@ Ella po sustegnair projects che:
 
 #### Art. 17
 
-**Sustegn da las viagiantas e dals viagiants**
+**Jenics, Sinti e moda da viver nomada**[^17-1]
 
-La Confederaziun po prender mesiras per pussibilitar a las viagiantas ed als viagiants ina moda da viver che correspunda a lur cultura.
+La Confederaziun po prender mesiras per promover la cultura dals Jenics e dals Sinti e per pussibilitar la moda da viver nomada.
+
+[^17-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2020, en vigur dapi il 1. da favr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 18
 
-**Contribuziun per la citad da Berna**
+[^18-1]
 
-La Confederaziun po pajar ina contribuziun a la citad da Berna per las prestaziuns culturalas spezialas ch’ella furnescha sco sedia da l’Assamblea federala e dal Cussegl federal.
+[^18-1]: Abolì tras la cifra I da la LF dals 25 da sett. 2020, cun effect dapi il 1. da favr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 19
 
@@ -634,8 +641,8 @@ Ils decrets qua sutvart vegnan midads sco suonda:
 [^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[AS 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
 [^annexu1-lvlu1-3]: [[AS 2006 1255](https://fedlex.data.admin.ch/eli/oc/2006/219)]
-[^annexu1-lvlu1-4]: [CRLF **4** 199]
-[^annexu1-lvlu1-5]: [CRLF **4** 212; [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 6]
+[^annexu1-lvlu1-4]: [BS **4** 199]
+[^annexu1-lvlu1-5]: [BS **4** 212; [AS 1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)agiunta cifra 6]
 [^annexu1-lvlu1-6]: [[AS 1966 665](https://fedlex.data.admin.ch/eli/oc/1966/665_689_685), [1981 821](https://fedlex.data.admin.ch/eli/oc/1981/821_821_821), [1993 879](https://fedlex.data.admin.ch/eli/oc/1993/879_879_879)agiunta 3 cifra 10, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)agiunta cifra 42]
 [^annexu1-lvlu1-7]: [[AS 1996 3040](https://fedlex.data.admin.ch/eli/oc/1996/3040_3040_3040)]
 [^annexu1-lvlu1-8]: Las midadas pon vegnir consultadas en la [AS 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854).

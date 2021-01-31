@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 11. Dezember 2009 über die Kulturförderung (Kulturfö
 short: KFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: de
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/de"
 
 (Kulturförderungsgesetz, KFG)
 
-vom 11. Dezember 2009 (Stand am 1. Januar 2017)
+vom 11. Dezember 2009 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -42,13 +42,15 @@ Dieses Gesetz regelt:
 
   die Kulturförderung des Bundes in den Bereichen:
 
-  - 1\. Bewahrung des kulturellen Erbes,
+  - 1\.[^1-1] Bewahrung des materiellen und immateriellen kulturellen Erbes,
   - 2\. Kunst- und Kulturschaffen einschliesslich Nachwuchsförderung,
   - 3\. Vermittlung von Kunst und Kultur,
   - 4\. Austausch zwischen den kulturellen und sprachlichen Gemeinschaften in der Schweiz,
   - 5\. Kulturaustausch mit dem Ausland;
 
 - b. die Organisation der Stiftung Pro Helvetia.
+
+[^1-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 2
 
@@ -192,8 +194,11 @@ Der Bund kann den kulturellen und künstlerischen Nachwuchs durch Massnahmen fö
 
 <sup>3</sup> Er kann den Vollzug des Programms «Jugend und Musik» auf Dritte übertragen.[^12-2]
 
+<sup>4</sup> Er fördert musikalisch Begabte durch spezifische Massnahmen.[^12-3]
+
 [^12-1]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^12-2]: Eingefügt durch Ziff. I des BG vom 19. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [BBl 2015 497](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 12a
 
@@ -244,15 +249,17 @@ Er kann Projekte unterstützen, die:
 
 #### Art. 17
 
-**Unterstützung der Fahrenden**
+**Jenische, Sinti und nomadische Lebensweise**[^17-1]
 
-Der Bund kann Massnahmen treffen, um den Fahrenden eine ihrer Kultur entsprechende Lebensweise zu ermöglichen.
+Der Bund kann Massnahmen treffen, um die Kultur der Jenischen und der Sinti zu fördern und die nomadische Lebensweise zu ermöglichen.
+
+[^17-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 18
 
-**Beitrag für die Stadt Bern**
+[^18-1]
 
-Der Bund kann der Stadt Bern für ihre besonderen kulturellen Leistungen, die sie als Sitz der Bundesversammlung und des Bundesrates erbringt, einen Beitrag entrichten.
+[^18-1]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2020, mit Wirkung seit 1. Febr. 2021 ([AS 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 19
 
@@ -627,7 +634,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-8]
+...[^annexu1-lvlu1-8]
 
 [^annexu1-lvlu1-1]: [[AS 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[AS 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]

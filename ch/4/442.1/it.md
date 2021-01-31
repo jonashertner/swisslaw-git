@@ -4,11 +4,11 @@ title: "Legge federale dell' 11 dicembre 2009 sulla promozione della cultura (Le
 short: LPCu
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/854"
 language: it
-version: 2017-01-01
+version: 2021-02-01
 adopted: 2009-12-11
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/854/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2011-854-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/854/20170101/it"
 
 (Legge sulla promozione della cultura, LPCu)
 
-dell’11 dicembre 2009 (Stato 1° gennaio 2017) (Stato 1° gennaio 2017)
+dell’11 dicembre 2009 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -42,15 +42,16 @@ La presente legge disciplina:
 
   la promozione della cultura da parte della Confederazione nei settori seguenti:
 
-  - 1\. salvaguardia del patrimonio culturale,
+  - 1\.[^1-1] salvaguardia del patrimonio culturale materiale e immateriale,
   - 2\. creazione artistica e culturale, compresa la promozione delle nuove leve,
-  - 3\.[^1-1] mediazione dell’arte e della cultura,
+  - 3\.[^1-2] mediazione dell’arte e della cultura,
   - 4\. scambi tra le comunità culturali e linguistiche in Svizzera,
   - 5\. scambi culturali con l’estero;
 
 - b. l’organizzazione della Fondazione Pro Helvetia.
 
-[^1-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^1-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^1-2]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 2
 
@@ -195,8 +196,11 @@ La Confederazione può promuovere le nuove leve culturali e artistiche mediante 
 
 <sup>3</sup> Può affidare a terzi l’attuazione del programma Gioventù e Musica.[^12-2]
 
+<sup>4</sup> Promuove i talenti musicali mediante misure specifiche.[^12-3]
+
 [^12-1]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
 [^12-2]: Introdotto n. I della LF del 19 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5587](https://fedlex.data.admin.ch/eli/oc/2015/870); [FF 2015 447](https://fedlex.data.admin.ch/eli/fga/2015/45)).
+[^12-3]: Introdotto dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 12a
 
@@ -247,23 +251,25 @@ Può sostenere progetti che:
 
 #### Art. 17
 
-**Sostegno delle comunità nomadi**
+**Jenisch, Sinti e stile di vita nomade**[^17-1]
 
-La Confederazione può prendere misure al fine di permettere alle comunità nomadi uno stile di vita consono alla loro cultura.
+La Confederazione può prendere misure al fine di promuovere la cultura degli Jenisch e dei Sinti e di permettere lo stile di vita nomade.
+
+[^17-1]: Nuovo testo giusta il n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 #### Art. 18
 
-**Contributo alla città di Berna**
+[^18-1]
 
-La Confederazione può versare un contributo alla città di Berna per le prestazioni culturali particolari che essa fornisce in quanto sede dell’Assemblea federale e del Consiglio federale.
+[^18-1]: Abrogato dal n. I della LF del 25 set. 2020, con effetto dal 1° feb. 2021 ([RU 2021 49](https://fedlex.data.admin.ch/eli/oc/2021/49); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
-#### Art. 19
+#### Art. 1
 
-**Promozione della mediazione artistica[^19-1]**
+**Promozione della mediazione artistica[^1-3]**
 
 La Confederazione può prendere misure affinché un’opera o una produzione artistica sia resa più accessibile al pubblico.
 
-[^19-1]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
+[^1-3]: Testo rettificato dalla Commissione di redazione dell’AF (art. 58 cpv. 1 LParl; [RS 171.10](https://fedlex.data.admin.ch/eli/cc/2003/510)).
 
 #### Art. 20
 
@@ -632,7 +638,7 @@ II
 
 Le leggi federali qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-8]
+...[^annexu1-lvlu1-8]
 
 [^annexu1-lvlu1-1]: [[RU 2004 2077](https://fedlex.data.admin.ch/eli/oc/2004/236), [2008 319](https://fedlex.data.admin.ch/eli/oc/2008/80)]
 [^annexu1-lvlu1-2]: [[RU 2008 3517](https://fedlex.data.admin.ch/eli/oc/2008/454)]
