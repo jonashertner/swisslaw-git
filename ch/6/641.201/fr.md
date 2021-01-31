@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 28 janvier 2021)
+du 27 novembre 2009 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -603,12 +603,14 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - l. les logopédistes-orthophonistes;
 - m. les diététiciens;
 - n. les pédicures-podologues;
-- o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 2020[^35-4], pour la réalisation de ces analyses.
+- o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 2020[^35-4], pour la réalisation de ces analyses;
+- p.[^35-5] les pharmaciens pour la réalisation des vaccinations contre le COVID-19.
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. II 1 de l’O du 12 mars 2021, en vigueur du 28 janv. au 31 déc. 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
 
 #### Art. 36
 

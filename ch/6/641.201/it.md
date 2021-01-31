@@ -4,20 +4,20 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente l’imposta sul valore aggiunto
+# Ordinanzaconcernente l’imposta sul valore aggiunto
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 28 gennaio 2021) (Stato 28 gennaio 2021)
+del 27 novembre 2009 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -596,11 +596,13 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - m. dietisti;
 - n. podologi;
 - o.[^35-3] persone autorizzate a eseguire analisi per il SARS-CoV-2 secondo l’ordinanza 3 COVID-19 del 19 giugno 2020[^35-4] per l’esecuzione di tali analisi;
+- p.[^35-5] farmacisti che effettuano vaccinazioni anti-COVID-19.
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. II 1 dell’O del 12 mar. 2021, in vigore dal 28 gen. 2021 al 31 dic. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
 
 #### Art. 36
 

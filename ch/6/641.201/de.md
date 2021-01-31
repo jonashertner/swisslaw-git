@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210128/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 28. Januar 2021)
+vom 27. November 2009 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -586,11 +586,13 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - l. Logopäden und Logopädinnen;
 - m. Ernährungsberater und Ernährungsberaterinnen;
 - n. Podologen und Podologinnen;
-- o.[^35-2] Personen, die nach der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] zur Durchführung von Analysen auf Sars-CoV-2 berechtigt sind, für die Durchführung dieser Analysen.
+- o.[^35-2] Personen, die nach der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] zur Durchführung von Analysen auf Sars-CoV-2 berechtigt sind, für die Durchführung dieser Analysen;
+- p.[^35-4] Apotheker und Apothekerinnen für die Durchführung von Covid-19-Impfungen.
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II 1 der V vom 12. März 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
 
 #### Art. 36
 
@@ -1083,7 +1085,7 @@ Für die Berechnung der abziehbaren Vorsteuern gilt Artikel 45 sinngemäss.
 
 Die Steuer auf den Lieferungen von Gegenständen und auf den Dienstleistungen, die für Umsätze nach Artikel 44 und Einfuhren nach Artikel 113 Buchstabe g verwendet werden, kann als Vorsteuer abgezogen werden.
 
-### 2. Abschnitt: Abzug fiktiver Vorsteuer
+### 2. Abschnitt:**** Abzug fiktiver Vorsteuer
 
 [^tit2-chap5-sec2-1]
 
