@@ -4,27 +4,34 @@ number: "171.1"
 title: "Loi sur l'organisation des Conseils et les rapports entre les pouvoirs"
 short: LOCRP
 language: fr
-version: 2015-01-01
-corrected: 2017-11-09
-version_adopted: 2014-03-12
+version: 2021-02-01
+valid_until: 2021-05-31
+version_adopted: 2020-09-09
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/fr/versions/676/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2871/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Loi sur l'organisation des Conseils et les rapports entre les pouvoirs (LOCRP)
+# Loi sur l'organisation des Conseils et les rapports entre les pouvoirs
 
-du 28 mars 1996
+(LOCRP)
 
-Le Grand Conseil du canton du Valais vu les articles 30 et suivants, 100 à 102 et 104 de la Constitution cantonale; sur la proposition du Conseil d'Etat, ordonne:
+du 28.03.1996 (état 01.02.2021)
 
-### Partie 1: Dispositions générales
+Le Grand Conseil du canton du Valais
 
-#### Article premier
+vu les articles 30 et suivants, 100 à 102 et 104 de la Constitution cantonale;
+
+sur la proposition du Conseil d'Etat,
+
+ordonne:
+
+## 1 Dispositions générales
+
+#### Art. 1
 
 **Champ d'application**
 
@@ -34,7 +41,7 @@ Le Grand Conseil du canton du Valais vu les articles 30 et suivants, 100 à 102 
 
 #### Art. 2
 
-<sup>1</sup> Séparation des pouvoirs
+**Séparation des pouvoirs**
 
 <sup>1</sup> Les autorités législatives, exécutives et judiciaires exercent leur pouvoir dans le respect de leurs compétences. Elles se dotent chacune d'un règlement interne d'organisation.
 
@@ -42,32 +49,26 @@ Le Grand Conseil du canton du Valais vu les articles 30 et suivants, 100 à 102 
 
 <sup>3</sup> Les décisions des autorités exécutives ainsi que les jugements des tribunaux ne peuvent être ni modifiés ni annulés par le Grand Conseil et ses commissions dans l'exercice de leur pouvoir de haute surveillance.
 
-### Partie 2: Grand Conseil
+## 2 Grand Conseil
 
-### Titre 1: Membres du Grand Conseil
+### 2.1 Membres du Grand Conseil
 
-### Chapitre 1: Droits des députés
+### 2.1.1 Droits des députés
 
 #### Art. 3
 
-<sup>5</sup> Immunité
-
-Abrogé
+**…**
 
 #### Art. 4
 
 **Interventions**
 
-Chaque député a notamment le droit:
+<sup>1</sup> Chaque député a notamment le droit:
 
 - a) de participer aux discussions;
-
 - b) de présenter des propositions de fond ou de procédure;
-
 - c) d'intervenir sous la forme d'une initiative, d'une motion, d'un postulat, d'une interpellation, d'une résolution ou d'une question écrite;
-
 - d) de faire une déclaration personnelle;
-
 - e) de présenter des candidatures à une élection ou à une nomination.
 
 #### Art. 5
@@ -84,11 +85,11 @@ Chaque député a notamment le droit:
 
 **Libre mandat**
 
-Les députés représentent le canton. Ils agissent pour le bien général d'après leur conviction, sans qu'ils puissent être liés par des instructions.
+<sup>1</sup> Les députés représentent le canton. Ils agissent pour le bien général d'après leur conviction, sans qu'ils puissent être liés par des instructions.
 
 #### Art. 7
 
-<sup>4</sup> Documentation
+**Documentation**
 
 <sup>1</sup> Dès son entrée en fonction, chaque député reçoit une documentation de base qui lui permet de remplir son mandat.
 
@@ -102,29 +103,29 @@ Les députés représentent le canton. Ils agissent pour le bien général d'apr
 
 <sup>2</sup> En cas de refus, le bureau décide après avoir entendu le député et le conseiller d'Etat concernés. Ceux-ci peuvent déférer la décision du bureau devant le Grand Conseil.
 
-### Chapitre 2: Obligations des députés
+### 2.1.2 Obligations des députés
 
 #### Art. 9
 
 **Devoir de présence**
 
-Sauf empêchement légitime, les députés assistent aux séances du Grand Conseil et à celles des organes auxquels ils appartiennent.
+<sup>1</sup> Sauf empêchement légitime, les députés assistent aux séances du Grand Conseil et à celles des organes auxquels ils appartiennent.
 
 #### Art. 10
 
 **Serment**
 
-Aucun député ne peut participer aux délibérations sans avoir fait le serment ou la promesse; celui qui refuse est réputé démissionnaire.
+<sup>1</sup> Aucun député ne peut participer aux délibérations sans avoir fait le serment ou la promesse; celui qui refuse est réputé démissionnaire.
 
 #### Art. 11
 
 **Tenue et comportement**
 
-Les députés respectent les règles de la bienséance parlementaire et évitent de prononcer des propos blessants ou offensants.
+<sup>1</sup> Les députés respectent les règles de la bienséance parlementaire et évitent de prononcer des propos blessants ou offensants.
 
 #### Art. 12
 
-<sup>1,4</sup> Obligation de signaler les liens d'intérêts
+**Obligation de signaler les liens d'intérêts**
 
 <sup>1</sup> En entrant au Grand Conseil et lors de toute modification, chaque député signale, sous réserve du secret professionnel protégé par le Code pénal suisse, par écrit à la présidence ses liens d'intérêts définis par le règlement.
 
@@ -134,13 +135,35 @@ Les députés respectent les règles de la bienséance parlementaire et évitent
 
 **Récusation**
 
-<sup>1</sup> Dans les séances du Grand Conseil et en commission, le député doit s'abstenir de participer aux délibérations et de voter lorsque lui-même, son conjoint, ses ascendants ou descendants retirent un intérêt direct privé.
+<sup>1</sup> Dans les séances du Grand Conseil et en commission, le député doit s'abstenir de participer aux délibérations et de voter lorsque lui-même, son conjoint, son partenaire enregistré, ses parents en ligne directe et collatérale jusqu'à y compris le troisième degré, ses alliés en ligne directe et collatérale jusqu'à y compris le deuxième degré retirent un intérêt direct privé.
 
 <sup>2</sup> Il en est de même lorsqu'il est le représentant légal, l'administrateur ou le mandataire professionnel d'une personne de droit privé qui en retire un intérêt direct.
 
-<sup>3</sup> Cette disposition n'est pas applicable aux projets d'ordre législatif ainsi qu'aux délibérations et votes d'ensemble sur le budget et les comptes.
+<sup>3</sup> Cette disposition n'est pas applicable aux projets d'ordre législatif, aux élections internes au Grand Conseil, ainsi qu'aux délibérations et votes d'ensemble sur le budget et les comptes.
 
-<sup>4</sup> En cas de contestation, la décision est prise en l'absence de l'intéressé.
+<sup>4</sup> Les règles sur la récusation ne sont pas applicables lorsque la révélation de l'existence d'un mandat violerait le secret professionnel.
+
+<sup>5</sup> En cas de contestation, la décision est prise en l'absence de l'intéressé.
+
+#### Art. 13a
+
+**Procédure**
+
+<sup>1</sup> La personne qui se trouve dans un cas de récusation avise sans retard la présidence du Grand Conseil ou de la commission et en indique le motif. Elle quitte la salle de séance pour la durée de l'examen de l'objet concerné, après l'annonce de la présidence à ce sujet.
+
+<sup>2</sup> La récusation est consignée au rôle ou au procès-verbal.
+
+<sup>3</sup> En cas de contestation au sein d'une commission, le bureau tranche définitivement la question.
+
+<sup>4</sup> Les contestations en séance plénière sont soulevées par motion d'ordre.
+
+#### Art. 13b
+
+**Effet**
+
+<sup>1</sup> Un défaut de récusation n'entraîne pas l'invalidité de la décision prise par le Grand Conseil.
+
+<sup>2</sup> Toutefois, s'il estime qu'un défaut de récusation a pu fausser le résultat d'un vote, le Grand Conseil peut décider de revoter tant que la séance au cours de laquelle a eu lieu le vote final n'a pas été levée.
 
 #### Art. 14
 
@@ -150,11 +173,11 @@ Les députés respectent les règles de la bienséance parlementaire et évitent
 
 <sup>2</sup> En particulier, sont soumis au secret de fonction les faits qui doivent être tenus secrets ou traités de manière confidentielle pour préserver des intérêts publics ou privés prépondérants, pour protéger les droits de la personnalité ou pour ne pas interférer dans une procédure.
 
-### Chapitre 3: Statut des suppléants
+### 2.1.3 Statut des suppléants
 
 #### Art. 15
 
-<sup>4</sup> Député-suppléant
+**Député-suppléant**
 
 <sup>1</sup> Le député-suppléant remplace le député empêché.
 
@@ -162,25 +185,28 @@ Les députés respectent les règles de la bienséance parlementaire et évitent
 
 <sup>3</sup> Il peut être nommé dans les commissions, à l'exception des commissions de haute surveillance et des fonctions de président et de vice-président de commission.
 
-### Titre 2: Organisation du Grand Conseil
+### 2.2 Organisation du Grand Conseil
 
-### Chapitre 1: Organes de direction
+### 2.2.1 Organes de direction
 
 #### Art. 16
 
-<sup>1</sup> Organes
+**Organes**
 
 <sup>1</sup> Les organes de direction du Grand Conseil sont:
 
 - a) pour la conduite des débats et la gestion des affaires administratives, la présidence, qui comprend le président du Grand Conseil et les deux vice-présidents;
-
 - b) pour la gestion des affaires politiques, le bureau, qui comprend la présidence et les présidents de groupe.
+- c) …
+- d) …
 
 <sup>2</sup> Dans la mesure où les dispositions de la présente loi ne précisent pas les compétences et les tâches des organes du Grand Conseil, celui-ci les définit dans son règlement.
 
-### Chapitre 2: Commissions
+### 2.2.2 Commissions
 
-- 1\. Commissions en général: a) Tâches
+### 2.2.2.1 Commissions en général
+
+### 2.2.2.1.1 Tâches
 
 #### Art. 17
 
@@ -192,11 +218,11 @@ Les députés respectent les règles de la bienséance parlementaire et évitent
 
 <sup>3</sup> Avant de clore ses travaux, la commission doit donner l'occasion au Conseil d'Etat de s'exprimer lorsqu'elle découvre des éléments nouveaux ou formule des propositions nouvelles.
 
-- b) Composition
+### 2.2.2.1.2 Composition
 
 #### Art. 18
 
-<sup>1,4</sup> Nombre de membres et répartition
+**Nombre de membres et répartition**
 
 <sup>1</sup> En principe, le nombre des membres d'une commission est de cinq à treize.
 
@@ -208,9 +234,9 @@ Les députés respectent les règles de la bienséance parlementaire et évitent
 
 **Obligation de fonctionner**
 
-Tout député peut être appelé à faire partie des commissions. Il ne peut refuser sa nomination que s'il est déjà membre d'une autre commission.
+<sup>1</sup> Tout député peut être appelé à faire partie des commissions. Il ne peut refuser sa nomination que s'il est déjà membre d'une autre commission.
 
-- c) Organisation
+### 2.2.2.1.3 Organisation
 
 #### Art. 20
 
@@ -232,7 +258,7 @@ Tout député peut être appelé à faire partie des commissions. Il ne peut ref
 
 <sup>3</sup> Les procès-verbaux concernant les actes législatifs peuvent être consultés, après leur mise en vigueur, par les personnes qui en ont besoin pour des recherches scientifiques ou pour l'application du droit.
 
-- d) Publicité des séances
+### 2.2.2.1.4 Publicité des séances
 
 #### Art. 22
 
@@ -244,7 +270,7 @@ Tout député peut être appelé à faire partie des commissions. Il ne peut ref
 
 <sup>3</sup> L'opinion et le vote de chaque membre de la commission doivent rester confidentiels jusqu'à la fin de ses travaux.
 
-- e) Rapports et propositions
+### 2.2.2.1.5 Rapports et propositions
 
 #### Art. 23
 
@@ -254,39 +280,34 @@ Tout député peut être appelé à faire partie des commissions. Il ne peut ref
 
 <sup>2</sup> La minorité de la commission peut également faire connaître son point de vue dans un rapport de minorité.
 
-- f) Documentation, expertise
+### 2.2.2.1.6 Documentation - Expertise
 
 #### Art. 24
 
-<sup>1</sup> Droit à l'information
+**Droit à l'information**
 
 <sup>1</sup> Dans la limite de leur mandat, les commissions, le cas échéant, les sous-commissions, peuvent:
 
 - a) exiger du Conseil d'Etat ou du chef du département compétent des rapports et des documents;
-
 - b) consulter les dossiers auxquels se rapportent les documents présentés;
-
 - c) interroger, après avoir informé le chef du département concerné, respectivement le président du Tribunal cantonal, les fonctionnaires de l'administration ou les membres des autorités judiciaires au sujet des affaires dont ils sont responsables;
-
 - d) procéder à des visites;
-
 - e) entendre les représentants des milieux intéressés;
-
 - f) interroger les experts mandatés par le Conseil d'Etat ou, avec l'accord de la présidence, désigner de nouveaux experts, solliciter des avis de droit ou ordonner de nouvelles expertises, après avoir entendu le Conseil d'Etat.
 
 <sup>2</sup> Demeurent réservées les dispositions spéciales relatives aux commissions de haute surveillance et d'enquête.
 
-- 2\. Dispositions spéciales
+### 2.2.2.2 Dispositions spéciales
 
 #### Art. 25
 
-<sup>1</sup> Commissions de haute surveillance
+**Commissions de haute surveillance**
 
-Au début de chaque législature et en règle générale pour la durée de celle-ci, le Grand Conseil nomme les commissions permanentes de haute surveillance en matière de justice, de gestion et des finances. Le règlement peut prévoir la fusion de commissions permanentes.
+<sup>1</sup> Au début de chaque législature et en règle générale pour la durée de celle-ci, le Grand Conseil nomme les commissions permanentes de haute surveillance en matière de justice, de gestion et des finances. Le règlement peut prévoir la fusion de commissions permanentes.
 
 #### Art. 26
 
-<sup>1,2</sup> Commissions thématiques
+**Commissions thématiques**
 
 <sup>1</sup> Le Grand Conseil décide, pour ses activités de législation et de planification, la création de commissions thématiques dans tous les domaines d'activité de l'Etat.
 
@@ -295,7 +316,6 @@ Au début de chaque législature et en règle générale pour la durée de celle
 <sup>3</sup> Les commissions thématiques ont les tâches suivantes:
 
 - a) examen des objets relevant de leur domaine en première lecture;
-
 - b) suivi régulier de leur domaine et élaboration de suggestions à l'intention du Grand Conseil.
 
 <sup>4</sup> Par des rapports préalables, les commissions thématiques collaborent à l'examen du budget et du compte avec les commissions des finances et de gestion.
@@ -304,7 +324,7 @@ Au début de chaque législature et en règle générale pour la durée de celle
 
 #### Art. 27
 
-<sup>1</sup> Commissions spéciales
+**Commissions spéciales**
 
 <sup>1</sup> Le bureau institue des commissions spéciales chargées de l'examen de tout objet devant être traité par le Grand Conseil.
 
@@ -320,7 +340,7 @@ Au début de chaque législature et en règle générale pour la durée de celle
 
 <sup>3</sup> Les droits et obligations de la commission d'enquête sont déterminés pour le surplus par les articles 133 et suivants de la présente loi.
 
-### Chapitre 3: Groupes politiques
+### 2.2.3 Groupes politiques
 
 #### Art. 29
 
@@ -340,11 +360,11 @@ Au début de chaque législature et en règle générale pour la durée de celle
 
 <sup>2</sup> En particulier, ils préparent les élections et formulent leurs propositions de candidature à l'intention du bureau et du Grand Conseil.
 
-### Chapitre 4: Services parlementaires
+### 2.2.4 Services parlementaires
 
 #### Art. 31
 
-<sup>1</sup> Service parlementaire
+**Service parlementaire**
 
 <sup>1</sup> Le Grand Conseil dispose, pour l'exercice de ses attributions, d'un service parlementaire indépendant du Conseil d'Etat et de l'administration cantonale.
 
@@ -354,7 +374,7 @@ Au début de chaque législature et en règle générale pour la durée de celle
 
 #### Art. 32
 
-<sup>1</sup> Statut du personnel
+**Statut du personnel**
 
 <sup>1</sup> Les décisions concernant le personnel du service parlementaire sont de la compétence de la présidence, respectivement du chef du service parlementaire.
 
@@ -368,19 +388,21 @@ Au début de chaque législature et en règle générale pour la durée de celle
 
 **Autres services**
 
-Pour l'examen de questions particulières, le Grand Conseil peut demander le concours ou l'appui de services ou experts de l'administration.
+<sup>1</sup> Pour l'examen de questions particulières, le Grand Conseil peut demander le concours ou l'appui de services ou experts de l'administration.
 
-### Titre 3: Attributions du Grand Conseil
+### 2.3 Attributions du Grand Conseil
 
-### Chapitre 1: Compétences générales
+### 2.3.1 Compétences générales
 
 #### Art. 34
 
 **Compétences**
 
-Le Grand Conseil exerce le pouvoir législatif dans le canton. Il jouit de toutes les autres compétences que lui réservent la Constitution et la législation.
+<sup>1</sup> Le Grand Conseil exerce le pouvoir législatif dans le canton. Il jouit de toutes les autres compétences que lui réservent la Constitution et la législation.
 
-### Chapitre 2: Compétences législatives
+### 2.3.2 Compétences législatives
+
+### 2.3.2.1 En général
 
 #### Art. 35
 
@@ -398,25 +420,25 @@ Le Grand Conseil exerce le pouvoir législatif dans le canton. Il jouit de toute
 
 **Délégation**
 
-Le Grand Conseil ne délègue son pouvoir de légiférer qu'exceptionnellement et en respectant les règles fixées par la Constitution.
+<sup>1</sup> Le Grand Conseil ne délègue son pouvoir de légiférer qu'exceptionnellement et en respectant les règles fixées par la Constitution.
 
 #### Art. 37
 
 **Abrogation et modification**
 
-Les dispositions constitutionnelles et les actes législatifs ne peuvent être abrogés ou modifiés qu'en suivant les compétences et la procédure applicables à leur adoption.
+<sup>1</sup> Les dispositions constitutionnelles et les actes législatifs ne peuvent être abrogés ou modifiés qu'en suivant les compétences et la procédure applicables à leur adoption.
 
-- b) Forme des actes législatifs
+### 2.3.2.2 Forme des actes législatifs
 
 #### Art. 38
 
 **Dispositions constitutionnelles**
 
-Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initiative, à la suite d'un projet du Conseil d'Etat ou d'une initiative populaire et les soumet au référendum obligatoire.
+<sup>1</sup> Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initiative, à la suite d'un projet du Conseil d'Etat ou d'une initiative populaire et les soumet au référendum obligatoire.
 
 #### Art. 39
 
-**Loi, règles de droit**
+**Loi - Règles de droit**
 
 <sup>1</sup> Les actes législatifs, de durée limitée ou indéterminée, qui renferment des règles de droit, doivent, sous réserve des articles 38, 40, 41 et 42, être édictés sous la forme de la loi générale ou de la loi spéciale soumise au référendum facultatif.
 
@@ -458,7 +480,7 @@ Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initi
 
 #### Art. 44
 
-<sup>4</sup> Contenu d'un acte législatif
+**Contenu d'un acte législatif**
 
 <sup>1</sup> Les actes législatifs renferment un titre, des considérants qui ne se réfèrent qu'aux bases constitutionnelles et légales, une clause référendaire, des dispositions finales et, le cas échéant, des dispositions transitoires et abrogatoires.
 
@@ -466,7 +488,9 @@ Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initi
 
 <sup>3</sup> Le Conseil d'Etat édicte des directives concernant la présentation des actes législatifs.
 
-### Chapitre 3: Compétences administratives et financières
+### 2.3.3 Compétences administratives et financières
+
+### 2.3.3.1 En général
 
 #### Art. 45
 
@@ -476,7 +500,7 @@ Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initi
 
 <sup>2</sup> Les actes administratifs et financiers du Grand Conseil doivent être donnés sous la forme d'une décision. L'article 44 de la présente loi est applicable par analogie.
 
-- b) Compétences financières et administratives
+### 2.3.3.2 Compétences financières et administratives
 
 #### Art. 46
 
@@ -490,7 +514,7 @@ Le Grand Conseil élabore les dispositions constitutionnelles de sa propre initi
 
 **Clause référendaire**
 
-Les décisions du Grand Conseil entraînant des dépenses supérieures aux limites fixées par la Constitution pour leur soumission facultative au vote du peuple doivent comporter une clause référendaire motivée.
+<sup>1</sup> Les décisions du Grand Conseil entraînant des dépenses supérieures aux limites fixées par la Constitution pour leur soumission facultative au vote du peuple doivent comporter une clause référendaire motivée.
 
 #### Art. 48
 
@@ -502,17 +526,17 @@ Les décisions du Grand Conseil entraînant des dépenses supérieures aux limit
 
 <sup>3</sup> Si le Grand Conseil refuse l'entrée en matière et renvoie le rapport au Conseil d'Etat, la nature des modifications doit être précisée.
 
-### Chapitre 4: Compétences électorales
+### 2.3.4 Compétences électorales
 
 #### Art. 49
 
-<sup>1</sup> Principe
+**Principe**
 
-Le Grand Conseil procède, à la session de mai, aux élections et nominations qui lui sont dévolues par la Constitution et la législation.
+<sup>1</sup> Le Grand Conseil procède, à la session de mai, aux élections et nominations qui lui sont dévolues par la Constitution et la législation.
 
 #### Art. 50
 
-<sup>1</sup> Exceptions
+**Exceptions**
 
 <sup>1</sup> Le président et les deux vice-présidents du Grand Conseil sont nommés à la session constitutive, la première année de législature, puis, les années suivantes, à la session de mai.
 
@@ -524,15 +548,13 @@ Le Grand Conseil procède, à la session de mai, aux élections et nominations q
 
 **Cas particulier**
 
-Les élections prévues à la session constitutive peuvent, par décision du Grand Conseil, être reportées à la session de mai suivante au plus tard, lorsque les mandats des députés ne sont pas tous validés, en particulier ceux des candidats annoncés par les groupes politiques.
+<sup>1</sup> Les élections prévues à la session constitutive peuvent, par décision du Grand Conseil, être reportées à la session de mai suivante au plus tard, lorsque les mandats des députés ne sont pas tous validés, en particulier ceux des candidats annoncés par les groupes politiques.
 
-### Chapitre 5: Compétences relatives aux conventions
+### 2.3.5 Compétences relatives aux conventions intercantonales et traités internationaux
 
-intercantonales et traités internationaux
+#### Art. 51a
 
-#### Art. 51bis
-
-<sup>4</sup> Conventions intercantonales et traités internationaux
+**Conventions intercantonales et traités internationaux**
 
 <sup>1</sup> Le Conseil d'Etat informe, à temps et de manière complète, le bureau du Grand Conseil de l'ouverture de négociations avec d'autres cantons ou pays en vue de l'adoption ou de l'amendement d'une convention intercantonale ou avec l'étranger.
 
@@ -542,9 +564,11 @@ intercantonales et traités internationaux
 
 <sup>4</sup> La Convention relative à la négociation, à la ratification, à l'exécution et à la modification des conventions intercantonales et des traités des cantons avec l'étranger est réservée.
 
-### Titre 4: Séances du Grand Conseil
+### 2.4 Séances du Grand Conseil
 
-### Chapitre 1: Sessions
+### 2.4.1 Sessions
+
+### 2.4.1.1 Généralités
 
 #### Art. 52
 
@@ -562,19 +586,19 @@ intercantonales et traités internationaux
 
 <sup>2</sup> Jusqu'à ce moment, les pouvoirs de l'ancien Grand Conseil subsistent.
 
-- b) Session constitutive
+### 2.4.1.2 Session constitutive
 
 #### Art. 54
 
 **Convocation**
 
-<sup>1</sup> Le Conseil d'Etat convoque la Constituante ou le Grand Conseil à une séance constitutive le quatrième lundi qui suit le renouvellement ordinaire ou extraordinaire.
+<sup>1</sup> Le Conseil d'Etat convoque la Constituante ou le Grand Conseil à une séance constitutive le septième lundi qui suit le renouvellement ordinaire ou extraordinaire.
 
 <sup>2</sup> Il présente un rapport sur le déroulement et sur le résultat des élections ainsi que sur les recours. Il tient à disposition de la commission de validation les dossiers électoraux.
 
 #### Art. 55
 
-<sup>4</sup> Bureau provisoire
+**Bureau provisoire**
 
 <sup>1</sup> Immédiatement après la publication par le Conseil d'Etat des résultats des élections, le doyen de fonction, nouvellement élu, constitue un bureau provisoire, dans lequel chaque parti disposant d'au moins un député au Grand Conseil doit être représenté.
 
@@ -582,7 +606,7 @@ intercantonales et traités internationaux
 
 #### Art. 56
 
-<sup>4</sup> Commission de validation
+**Commission de validation**
 
 <sup>1</sup> La commission de validation procède à l'examen des procès-verbaux d'élection du Grand Conseil et du Conseil d'Etat, détermine et préavise les cas d'incompatibilité, procède aux mesures d'instruction et rapporte sur les éventuels recours dirigés contre ces élections. Elle examine également la composition des groupes politiques.
 
@@ -590,11 +614,11 @@ intercantonales et traités internationaux
 
 #### Art. 57
 
-<sup>1</sup> Présidence
+**Présidence**
 
 <sup>1</sup> La première séance de la session constitutive est ouverte sous la présidence du doyen de fonction.
 
-<sup>2</sup> Abrogé.
+<sup>2</sup> …
 
 #### Art. 58
 
@@ -634,27 +658,32 @@ intercantonales et traités internationaux
 
 <sup>2</sup> Les membres du Conseil d'Etat sont assermentés à l'appel de leur nom par le président du Grand Conseil.
 
-- c) Sessions ordinaires et extraordinaires
+### 2.4.1.3 Sessions ordinaires et extraordinaires
 
 #### Art. 62
 
-<sup>1,4</sup> Sessions
+**Sessions**
 
 <sup>1</sup> Le Grand Conseil se réunit en sessions ordinaires:
 
 - a) aux dates fixées dans le plan des sessions, en principe trois fois par semestre;
-
 - b) en règle générale les deuxièmes mardi, mercredi, jeudi et vendredi du mois.
 
 <sup>2</sup> Le Grand Conseil s'assemble en session extraordinaire dans les cas prévus par la Constitution.
 
+- a) …
+- b) …
+
 #### Art. 63
 
-<sup>1,4</sup> Préparation de la session
+**Préparation de la session**
 
 <sup>1</sup> Le bureau établit la planification annuelle des sessions en fonction des objets annoncés par le Grand Conseil et le Conseil d'Etat, selon les priorités signalées. Il définit avec diligence à quelle commission incombe le traitement des objets.
 
 <sup>2</sup> Le Conseil d'Etat remet au président du Grand Conseil pour les derniers jeudis de mai et de novembre la planification semestrielle des objets qu'il souhaite voir traités par le parlement.
+
+- a) …
+- b) …
 
 <sup>3</sup> Dix semaines au moins avant le début d'une session, le Conseil d'Etat transmet au président du Grand Conseil l'état de détail des objets qu'il a adoptés.
 
@@ -662,7 +691,7 @@ intercantonales et traités internationaux
 
 #### Art. 64
 
-<sup>1,4</sup> Convocation et ordre du jour
+**Convocation et ordre du jour**
 
 <sup>1</sup> Le président du Grand Conseil convoque les députés au minimum 20 jours avant chaque session ordinaire ou extraordinaire.
 
@@ -672,7 +701,9 @@ intercantonales et traités internationaux
 
 <sup>4</sup> Les objets nécessitant un rapport de commission ne sont inscrits sur la liste qu'après le dépôt du rapport. Demeurent réservés les cas d'urgence.
 
-### Chapitre 2: Séances
+### 2.4.2 Séances
+
+### 2.4.2.1 Principes généraux
 
 #### Art. 65
 
@@ -686,7 +717,7 @@ intercantonales et traités internationaux
 
 #### Art. 66
 
-<sup>4</sup> Quorum
+**Quorum**
 
 <sup>1</sup> A l'ouverture de la séance, le président du Grand Conseil s'assure que le quorum est atteint.
 
@@ -694,7 +725,7 @@ intercantonales et traités internationaux
 
 <sup>3</sup> Lorsque la vérification du quorum est demandée, le président suspend les délibérations et contrôle les présences.
 
-- b) Délibérations
+### 2.4.2.2 Délibérations
 
 #### Art. 67
 
@@ -703,9 +734,7 @@ intercantonales et traités internationaux
 <sup>1</sup> Les objets à traiter par le Grand Conseil sont introduits par:
 
 - a) une proposition d'un ou plusieurs députés;
-
 - b) un projet, une proposition ou un rapport d'une commission parlementaire;
-
 - c) un projet, une proposition ou un rapport du Conseil d'Etat.
 
 <sup>2</sup> Le Tribunal cantonal, les communes ou autres organisations saisissent le Grand Conseil des objets qui nécessitent son approbation, par l'intermédiaire du Conseil d'Etat.
@@ -724,7 +753,7 @@ intercantonales et traités internationaux
 
 #### Art. 69
 
-<sup>1</sup> Discussion de détail
+**Discussion de détail**
 
 <sup>1</sup> Lorsque l'entrée en matière est votée, la discussion de détail est ouverte.
 
@@ -742,19 +771,19 @@ intercantonales et traités internationaux
 
 <sup>3</sup> Jusqu'au vote final, le Grand Conseil peut décider l'ajournement ou le renvoi du projet au Conseil d'Etat ou à la commission compétente.
 
-#### Art. 70bis
+#### Art. 70a
 
-<sup>1</sup> Signatures
+**Signatures**
 
 <sup>1</sup> Après qu'un acte a été adopté par le Grand Conseil, le service parlementaire en établit des exemplaires originaux en français et en allemand.
 
 <sup>2</sup> Le président du Grand Conseil et le chef du service parlementaire signent les exemplaires originaux de l'acte et pourvoient à leur transmission.
 
-- c) Votations
+### 2.4.2.3 Votations
 
 #### Art. 71
 
-<sup>4</sup> Majorité
+**Majorité**
 
 <sup>1</sup> Les décisions du Grand Conseil se prennent à la majorité absolue.
 
@@ -766,9 +795,9 @@ intercantonales et traités internationaux
 
 <sup>5</sup> Dans les votes au scrutin secret, les bulletins blancs et nuls ne sont pas pris en considération pour le calcul de la majorité.
 
-#### Art. 71bis
+#### Art. 71a
 
-<sup>1,4</sup> Vote électronique
+**Vote électronique**
 
 <sup>1</sup> Le vote se fait électroniquement. Le système enregistre les votes émis lors de tous les scrutins ("oui", "non", "abstention"). Le vote des députés et le résultat sont affichés sur des tableaux d'affichage.
 
@@ -776,7 +805,7 @@ intercantonales et traités internationaux
 
 <sup>3</sup> A la demande formulée par un député avant le vote et appuyée par quinze députés, une liste nominative est délivrée, à l'exception des scrutins secrets. Cette liste est immédiatement distribuée, puis publiée dans le bulletin des séances.
 
-- d) Elections
+### 2.4.2.4 Elections
 
 #### Art. 72
 
@@ -790,29 +819,29 @@ intercantonales et traités internationaux
 
 <sup>4</sup> Les bulletins et suffrages blancs ne sont pas pris en considération pour le calcul de la majorité.
 
-### Partie 3: Conseil d'Etat
+## 3 Conseil d'Etat
 
-### Titre 1: Organisation et procédure
+### 3.1 Organisation et procédure
 
-### Chapitre 1: Droits et obligations
+### 3.1.1 Droits et obligations
 
 #### Art. 73
 
 **Serment**
 
-A la première session qui suit leur élection, les membres du Conseil d'Etat prêtent serment ou prononcent une promesse solennelle devant le Grand Conseil.
+<sup>1</sup> A la première session qui suit leur élection, les membres du Conseil d'Etat prêtent serment ou prononcent une promesse solennelle devant le Grand Conseil.
 
 #### Art. 74
 
 **Résidence**
 
-Les membres du Conseil d'Etat sont tenus de résider dans le canton.
+<sup>1</sup> Les membres du Conseil d'Etat sont tenus de résider dans le canton.
 
 #### Art. 75
 
 **Présence obligatoire**
 
-Les membres du Conseil d'Etat sont tenus d'assister à toutes les séances, sauf empêchement légitime.
+<sup>1</sup> Les membres du Conseil d'Etat sont tenus d'assister à toutes les séances, sauf empêchement légitime.
 
 #### Art. 76
 
@@ -826,15 +855,15 @@ Les membres du Conseil d'Etat sont tenus d'assister à toutes les séances, sauf
 
 **Secret des délibérations**
 
-Les délibérations et les votes du Conseil d'Etat sont tenus secrets, à moins que celui-ci n'en décide autrement.
+<sup>1</sup> Les délibérations et les votes du Conseil d'Etat sont tenus secrets, à moins que celui-ci n'en décide autrement.
 
-#### Art. 77bis
+#### Art. 77a
 
-<sup>4</sup> Liens d'intérêts
+**Liens d'intérêts**
 
-En entrant en fonction et lors de toute modification, chaque membre du Conseil d'Etat signale ses liens d'intérêts définis par le règlement sur le Conseil d'Etat. La Chancellerie établit un registre public des indications fournies. Ce registre est publié sur le site officiel du canton du Valais.
+<sup>1</sup> En entrant en fonction et lors de toute modification, chaque membre du Conseil d'Etat signale ses liens d'intérêts définis par le règlement sur le Conseil d'Etat. La Chancellerie établit un registre public des indications fournies. Ce registre est publié sur le site officiel du canton du Valais.
 
-### Chapitre 2: Organisation
+### 3.1.2 Organisation
 
 #### Art. 78
 
@@ -871,11 +900,8 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 <sup>2</sup> La Chancellerie est en outre chargée:
 
 - a) de l'organisation, de la préparation et de la liquidation des séances du Conseil d'Etat;
-
 - b) des tâches de représentation, de coordination et d'administration du Conseil d'Etat;
-
 - c) des relations et de la coordination avec le Grand Conseil;
-
 - d) de l'information.
 
 #### Art. 82
@@ -886,7 +912,7 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 
 <sup>2</sup> Le chancelier d'Etat dirige la Chancellerie d'Etat et les services, respectivement offices, secrétariats et bureaux qui lui sont rattachés fonctionnellement ou administrativement.
 
-### Chapitre 3: Procédure
+### 3.1.3 Procédure
 
 #### Art. 83
 
@@ -920,9 +946,9 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 
 <sup>4</sup> Le procès-verbal reproduit l'opinion de la majorité; toutefois, chaque membre a le droit de faire inscrire son avis ou son vote au procès-verbal.
 
-### Titre 2: Attributions
+### 3.2 Attributions
 
-### Chapitre 1: Compétences en général
+### 3.2.1 Compétences en général
 
 #### Art. 86
 
@@ -936,15 +962,15 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 
 #### Art. 87
 
-<sup>7</sup> Situation extraordinaire
+**Situation extraordinaire**
 
-<sup>1</sup> En cas de situation extraordinaire, le Conseil d’Etat peut prendre toutes les dispositions propres à assurer, dans la mesure du possible, le maintien des activités gouvernementales, administratives et judiciaires.<sup>7</sup>
+<sup>1</sup> En cas de situation extraordinaire, le Conseil d’Etat peut prendre toutes les dispositions propres à assurer, dans la mesure du possible, le maintien des activités gouvernementales, administratives et judiciaires.
 
-<sup>2</sup> Demeurent réservées les dispositions légales spéciales de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires.<sup>7</sup>
+<sup>2</sup> Demeurent réservées les dispositions légales spéciales de la loi sur la protection de la population et la gestion des situations particulières et extraordinaires.
 
 <sup>3</sup> Le Conseil d'Etat présente au Grand Conseil un rapport sur les mesures prises dans ces circonstances.
 
-### Chapitre 2: Compétences législatives
+### 3.2.2 Compétences législatives
 
 #### Art. 88
 
@@ -970,6 +996,12 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 
 <sup>2</sup> L'ordonnance précise expressément les dispositions qui sont soumises à l'approbation parlementaire. Les abrogations et modifications de ces dispositions sont soumises aux mêmes règles.
 
+#### Art. 90a
+
+**Consultation des ordonnances**
+
+<sup>1</sup> Dans le cadre du processus législatif, le Conseil d’Etat informe le Grand Conseil de l’élaboration ou de la modification d’ordonnances. La commission compétente peut exiger du Conseil d’Etat qu’un projet d’ordonnance ou de modification d’ordonnance lui soit soumis pour consultation.
+
 #### Art. 91
 
 **Application du droit fédéral**
@@ -980,13 +1012,13 @@ En entrant en fonction et lors de toute modification, chaque membre du Conseil d
 
 <sup>3</sup> Lorsque le droit fédéral prévoit, sans fixer de délai, la compétence temporaire ou transitoire du Conseil d'Etat, ce dernier élabore et soumet sans retard au Grand Conseil le projet de législation ordinaire.
 
-### Chapitre 3: Autres compétences
+### 3.2.3 Autres compétences
 
 #### Art. 92
 
 **Compétences financières**
 
-Les compétences financières du Conseil d'Etat sont fixées par la législation, en particulier celle sur la gestion et le contrôle administratifs et financiers du canton.
+<sup>1</sup> Les compétences financières du Conseil d'Etat sont fixées par la législation, en particulier celle sur la gestion et le contrôle administratifs et financiers du canton.
 
 #### Art. 93
 
@@ -1010,41 +1042,41 @@ Les compétences financières du Conseil d'Etat sont fixées par la législation
 
 **Information**
 
-Le Conseil d'Etat assure une information régulière, complète et opportune du public sur toute activité ou décision susceptible de l'intéresser, à moins que l'intérêt général ou des intérêts privés prépondérants ne s'y opposent.
+<sup>1</sup> Le Conseil d'Etat assure une information régulière, complète et opportune du public sur toute activité ou décision susceptible de l'intéresser, à moins que l'intérêt général ou des intérêts privés prépondérants ne s'y opposent.
 
-### Partie 4: Rapports entre les Conseils
+## 4 Rapports entre les Conseils
 
-### Titre 1: Rapports entre le Grand Conseil et le Conseil d'Etat
+### 4.1 Rapports entre le Grand Conseil et le Conseil d'Etat
 
-### Chapitre 1: Rapports en général
+### 4.1.1 Rapports en général
 
 #### Art. 96
 
-<sup>2</sup> Sortes de rapports
+**Sortes de rapports**
 
 <sup>1</sup> Les rapports au sens de la présente loi sont notamment:
 
 - a) les planifications intégrées pluriannuelles;
-
 - b) les budgets;
-
 - c) les comptes et rapports de gestion;
-
 - d) les rapports spéciaux.
+- e) …
 
-<sup>2</sup> En l'absence de disposition spéciale, l'article 48, alinéas 2 et 3 de la présente loi est applicable quant au mode de traitement de ces rapports par le Grand Conseil.
+<sup>2</sup> En l'absence de disposition spéciale, l'article 48 alinéas 2 et 3 de la présente loi est applicable quant au mode de traitement de ces rapports par le Grand Conseil.
 
-- a) Messages et rapports du Conseil d'Etat
+### 4.1.1.1 Messages et rapports du Conseil d'Etat
 
 #### Art. 97
 
-**et 98 <sup>2</sup>**
+**…**
 
-Abrogés
+#### Art. 98
+
+**…**
 
 #### Art. 99
 
-<sup>4</sup> Rapports spéciaux et intermédiaires
+**Rapports spéciaux et intermédiaires**
 
 <sup>1</sup> Le Conseil d'Etat porte à la connaissance du Grand Conseil les rapports spéciaux concernant la planification ou l'activité dans un secteur particulier.
 
@@ -1054,7 +1086,7 @@ Abrogés
 
 #### Art. 100
 
-<sup>4</sup> Messages
+**Messages**
 
 <sup>1</sup> Les projets du Conseil d'Etat sont adressés au Grand Conseil, accompagnés d'un message.
 
@@ -1062,7 +1094,7 @@ Abrogés
 
 <sup>3</sup> Il renseigne sur le résultat de la procédure de consultation, les répercussions financières, les incidences sur l’état du personnel, les délégations législatives ainsi que les charges administratives.
 
-<sup>4</sup> Il rapporte également sur les répercussions en matière de finances et d'autonomie communales, et sur la conformité du projet à la législation cantonale concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes.<sup>6</sup>
+<sup>4</sup> Il rapporte également sur les répercussions en matière de finances et d'autonomie communales, et sur la conformité du projet à la législation cantonale concernant la mise en oeuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes.
 
 <sup>5</sup> Le message cite toutes les sources utilisées.
 
@@ -1078,11 +1110,11 @@ Abrogés
 
 <sup>4</sup> Si ces déclarations sont portées à l'ordre du jour, le Grand Conseil peut engager la discussion.
 
-- b) Participation du Conseil d'Etat
+### 4.1.1.2 Participation du Conseil d'Etat
 
 #### Art. 102
 
-<sup>1</sup> Séances du Grand Conseil
+**Séances du Grand Conseil**
 
 <sup>1</sup> Le Conseil d'Etat assiste aux séances du Grand Conseil. Celui-ci ou le bureau peut exiger que tous les membres participent à une séance parlementaire.
 
@@ -1094,7 +1126,7 @@ Abrogés
 
 #### Art. 103
 
-<sup>4</sup> Participation du Conseil d'Etat aux séances des commissions
+**Participation du Conseil d'Etat aux séances des commissions**
 
 <sup>1</sup> Le Conseil d'Etat peut assister aux séances de commissions chargées de l'examen d'un projet déposé par lui.
 
@@ -1106,7 +1138,9 @@ Abrogés
 
 <sup>5</sup> Lorsqu'une commission autre que celles de haute surveillance formule des recommandations, de nouvelles propositions ou émet un avis divergent de celui du Conseil d'Etat, elle invite ce dernier à se déterminer avant de clore ses délibérations. Si celles-ci sont rendues publiques, l'avis du Conseil d'Etat doit aussi être publié en même temps.
 
-### Chapitre 2: Propositions des députés
+### 4.1.2 Propositions des députés
+
+### 4.1.2.1 En général
 
 #### Art. 104
 
@@ -1115,15 +1149,10 @@ Abrogés
 <sup>1</sup> Tout député, seul ou avec des cosignataires, de même que les commissions parlementaires et les groupes politiques, ont le droit de faire une proposition ou de poser une question au Conseil d'Etat sous une des formes suivantes:
 
 - a) initiative;
-
 - b) motion;
-
 - c) postulat;
-
 - d) interpellation;
-
 - e) résolution;
-
 - f) question écrite.
 
 <sup>2</sup> Si une intervention concerne une affaire interne du Grand Conseil, elle est déposée sous la forme d'une motion d'ordre, d'une motion ou d'une résolution transmises à l'organe compétent du Grand Conseil.
@@ -1132,17 +1161,17 @@ Abrogés
 
 #### Art. 105
 
-**Examen préalable et incidences financières <sup>8</sup>**
+**Examen préalable et incidences financières**
 
 <sup>1</sup> Les interventions parlementaires sont soumises à un examen de recevabilité par un organe désigné par le règlement. Le règlement peut prévoir des mesures pour contenir les abus.
 
 <sup>2</sup> En cas de contestation, le Grand Conseil tranche.
 
-<sup>3</sup> Les impacts financiers des interventions parlementaires sont évalués dès que possible par le Conseil d'Etat, au plus tard lors du traitement, et doivent être accompagnés d'un tableau actualisé présentant les incidences financières (coût et financement) de l'ensemble des motions et postulats acceptés par le Grand Conseil depuis le 1er mai 2013.<sup>8</sup>
+<sup>3</sup> Les impacts financiers des interventions parlementaires sont évalués dès que possible par le Conseil d'Etat, au plus tard lors du traitement, et doivent être accompagnés d'un tableau actualisé présentant les incidences financières (coût et financement) de l'ensemble des motions et postulats acceptés par le Grand Conseil.
 
 #### Art. 106
 
-<sup>4</sup> Urgence
+**Urgence**
 
 <sup>1</sup> En principe, les motions, postulats, interpellations et résolutions ne peuvent être déclarés urgents que s'ils sont déposés le premier jour de la session.
 
@@ -1160,7 +1189,7 @@ Abrogés
 
 <sup>3</sup> Des initiatives, motions et postulats parlementaires qui sont réalisés ou ne sont plus à traiter sont, à cette occasion, classés ou déclarés caducs par le Grand Conseil.
 
-- b) Initiative parlementaire
+### 4.1.2.2. Initiative parlementaire
 
 #### Art. 108
 
@@ -1174,17 +1203,17 @@ Abrogés
 
 **Examen**
 
-La commission chargée d'examiner l'initiative parlementaire prise en considération par le Grand Conseil peut proposer d'en modifier le texte ou de lui opposer un contre-projet.
+<sup>1</sup> La commission chargée d'examiner l'initiative parlementaire prise en considération par le Grand Conseil peut proposer d'en modifier le texte ou de lui opposer un contre-projet.
 
-- c) Motion
+### 4.1.2.3 Motion
 
 #### Art. 110
 
-<sup>4</sup> Définition
+**Définition**
 
-La motion est une proposition qui oblige le Conseil d'Etat à présenter un projet d'article constitutionnel, d'acte législatif ou de décision qui relèvent de la compétence du Grand Conseil.
+<sup>1</sup> La motion est une proposition qui oblige le Conseil d'Etat à présenter un projet d'article constitutionnel, d'acte législatif ou de décision qui relèvent de la compétence du Grand Conseil.
 
-- d) Postulat
+### 4.1.2.4 Postulat
 
 #### Art. 111
 
@@ -1196,7 +1225,7 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 <sup>3</sup> Les mesures relevant des compétences législatives déléguées au Conseil d'Etat et celles relevant de la compétence exclusive de celui-ci ne peuvent être proposées que par voie de postulat.
 
-- e) Interpellation
+### 4.1.2.5 Interpellation
 
 #### Art. 112
 
@@ -1208,11 +1237,11 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 <sup>3</sup> Aucun vote ne peut intervenir à la suite de la discussion d'une interpellation.
 
-- f) Résolution
+### 4.1.2.6 Résolution
 
 #### Art. 113
 
-<sup>1</sup> Définition
+**Définition**
 
 <sup>1</sup> La résolution est une requête écrite visant à ce que le Grand Conseil exprime son opinion sur des événements importants.
 
@@ -1220,7 +1249,7 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 <sup>3</sup> En cas d'événements politiques particulièrement graves pour le canton, le président du Grand Conseil, en accord avec le bureau et le Conseil d'Etat, peut proposer un projet de résolution ayant le caractère d'un message au pays.
 
-- g) Question écrite
+### 4.1.2.7 Question écrite
 
 #### Art. 114
 
@@ -1230,9 +1259,9 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 <sup>2</sup> La question ne vise qu'un seul objet.
 
-### Chapitre 3: Procédures spéciales
+### 4.1.3 Procédures spéciales
 
-- a) Initiative populaire
+### 4.1.3.1 Initiative populaire
 
 #### Art. 115
 
@@ -1264,7 +1293,7 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 #### Art. 118
 
-<sup>4</sup> Initiative rédigée
+**Initiative rédigée**
 
 <sup>1</sup> Lorsque l'initiative rédigée de toutes pièces est déclarée valable, le Grand Conseil peut l'accepter ou la refuser.
 
@@ -1288,7 +1317,7 @@ La motion est une proposition qui oblige le Conseil d'Etat à présenter un proj
 
 **Initiative constitutionnelle en termes généraux**
 
-L'initiative constitutionnelle conçue en termes généraux est soumise au vote du peuple avec un préavis du Grand Conseil, adopté à la suite d'une seule délibération.
+<sup>1</sup> L'initiative constitutionnelle conçue en termes généraux est soumise au vote du peuple avec un préavis du Grand Conseil, adopté à la suite d'une seule délibération.
 
 #### Art. 121
 
@@ -1310,7 +1339,7 @@ L'initiative constitutionnelle conçue en termes généraux est soumise au vote 
 
 <sup>2</sup> Si l'initiative porte sur la révision totale, ce délai est prolongé de deux ans.
 
-- b) Référendum extraordinaire
+### 4.1.3.2 Référendum extraordinaire
 
 #### Art. 123
 
@@ -1322,37 +1351,35 @@ L'initiative constitutionnelle conçue en termes généraux est soumise au vote 
 
 <sup>3</sup> La décision positive du Grand Conseil, publiée au Bulletin officiel, exclut une demande de référendum.
 
-- c) Exercice des droits en matière fédérale
+### 4.1.3.3 Exercice des droits en matière fédérale
 
 #### Art. 124
 
-<sup>4</sup> Droits en matière fédérale
+**Droits en matière fédérale**
 
 <sup>1</sup> Le Conseil d'Etat, par un message, ainsi que les députés et commissions, par la voie de la résolution, peuvent proposer au Grand Conseil d'exercer les droits en matière fédérale reconnus par la Constitution cantonale.
 
 <sup>2</sup> L'urgence est reconnue de droit à une résolution demandant l'exercice du droit de référendum.
 
-- d) Pétitions
+### 4.1.3.4 Pétitions
 
 #### Art. 125
 
 **Définition**
 
-Sont considérées comme des pétitions les demandes, émanant d'autorités ou de particuliers, renfermant des propositions ou des critiques et qui ne doivent pas être présentées sous une forme juridique particulière.
+<sup>1</sup> Sont considérées comme des pétitions les demandes, émanant d'autorités ou de particuliers, renfermant des propositions ou des critiques et qui ne doivent pas être présentées sous une forme juridique particulière.
 
-- e) Recours en grâce et naturalisations
+### 4.1.3.5 Recours en grâce et naturalisations
 
 #### Art. 126
 
-<sup>4</sup> Recours en grâce, naturalisations
+**Recours en grâce - Naturalisations**
 
 <sup>1</sup> Les recours en grâce et les demandes de naturalisation sont traités selon la législation spéciale en sessions de mai et de novembre.
 
 <sup>2</sup> En cas de besoin et pour permettre d'accélerer la procédure de naturalisation, les demandes de naturalisation peuvent être également traitées à d'autres sessions.
 
-### Titre 2: Rapports entre le Grand Conseil et les autorités
-
-judiciaires
+### 4.2 Rapports entre le Grand Conseil et les autorités judiciaires
 
 #### Art. 127
 
@@ -1366,7 +1393,7 @@ judiciaires
 
 #### Art. 128
 
-<sup>4</sup> Participation en commissions
+**Participation en commissions**
 
 <sup>1</sup> En règle générale, le président du Tribunal cantonal est invité à participer, avec voix consultative, aux délibérations des commissions chargées de l'examen d'objets ou de questions qui ont trait aux affaires ou aux autorités judiciaires.
 
@@ -1376,33 +1403,28 @@ judiciaires
 
 #### Art. 129
 
-<sup>5</sup>
+**…**
 
-Abrogé
+### 4.3 Haute surveillance parlementaire
 
-### Titre 3: Haute surveillance parlementaire
+### 4.3.1 Exercice de la haute surveillance
 
-### Chapitre 1: Exercice de la haute surveillance
-
-- a) Commissions de surveillance
+### 4.3.1.1 Commissions de surveillance
 
 #### Art. 130
 
 **Commission de gestion et des finances**
 
-Dans le cadre de l'exercice de la haute surveillance, les commissions de gestion et des finances peuvent notamment:
+<sup>1</sup> Dans le cadre de l'exercice de la haute surveillance, les commissions de gestion et des finances peuvent notamment:
 
 - a) demander au Conseil d'Etat de produire des dossiers et consulter tous les dossiers quels qu'ils soient;
-
 - b) effectuer, par l'intermédiaire d'une de ses sections, des inspections et des visites dans l'administration cantonale, en général après en avoir préalablement informé le conseiller d'Etat compétent;
-
 - c) entendre elle-même ou par l'intermédiaire de ses sections tout fonctionnaire de l'administration cantonale, après en avoir informé le conseiller d'Etat compétent; sur demande, l'audition a lieu sans la présence du supérieur hiérarchique du fonctionnaire ou du conseiller d'Etat compétent;
-
 - d) exiger de l'Inspection des finances les renseignements nécessaires à l'exécution de leurs tâches et lui confier des mandats de contrôle spéciaux.
 
-#### Art. 130bis
+#### Art. 130a
 
-<sup>2</sup> Commission de gestion
+**Commission de gestion**
 
 <sup>1</sup> La commission de gestion examine la gestion du Conseil d'Etat. Elle est chargée plus spécialement de l'examen des rapports de gestion périodiques du Conseil d'Etat ainsi que des rapports de gestion spéciaux que le Grand Conseil ne soumet pas à l'examen d'une autre commission.
 
@@ -1416,36 +1438,30 @@ Dans le cadre de l'exercice de la haute surveillance, les commissions de gestion
 
 <sup>1</sup> Dans le cadre de l'exercice de la haute surveillance, la commission de justice peut notamment:
 
-- a) entendre des représentants du ministère public ainsi que des membres des autorités judiciaires, en général après avoir entendu le président du Tribunal cantonal;
-
-- b) exiger la production de dossiers administratifs des autorités judiciaires et les consulter.
+- a) entendre des représentants du ministère public, des membres des autorités judiciaires et du Conseil de la magistrature après avoir, en principe, entendu le procureur général, le président du Tribunal cantonal et le président du Conseil de la magistrature;
+- b) exiger la production de dossiers administratifs du ministère public, des autorités judiciaires et du Conseil de la magistrature, et les consulter.
 
 <sup>2</sup> La commission de justice peut également exercer les droits prévus à l'article 130.
 
 #### Art. 132
 
-<sup>1</sup> Coopération
+**Coopération**
 
-Les commissions de haute surveillance se communiquent les constatations importantes qui ne relèvent pas de leurs compétences.
+<sup>1</sup> Les commissions de haute surveillance se communiquent les constatations importantes qui ne relèvent pas de leurs compétences.
 
-- b) Commission d'enquête parlementaire
+### 4.3.1.2 Commission d'enquête parlementaire
 
 #### Art. 133
 
-<sup>1,5</sup> Commission d'enquête parlementaire
+**Commission d'enquête parlementaire**
 
-<sup>1</sup> La commission d'enquête agit dans le sens le plus large de son pouvoir d'investigation aux fins d'éclaircir les faits de sa compétence. Elle peut notamment :
+<sup>1</sup> La commission d'enquête agit dans le sens le plus large de son pouvoir d'investigation aux fins d'éclaircir les faits de sa compétence. Elle peut notamment:
 
 - a) faire comparaître des témoins et exiger qu'ils produisent des dossiers;
-
 - b) interroger des personnes appelées à fournir des renseignements;
-
 - c) demander des renseignements écrits ou oraux à des services de l'administration, des membres d'autorité, des fonctionnaires de l'administration cantonale et des particuliers;
-
 - d) faire appel à des experts lorsque son mandat nécessite des connaissances particulières, la présidence entendue;
-
-- e) exiger la production de tous documents de l'administration cantonale et du Conseil d'Etat, ainsi que des dossiers administratifs des autorités judiciaires;
-
+- e) exiger la production de tous documents de l'administration cantonale et du Conseil d'Etat, ainsi que des dossiers administratifs du ministère public, des autorités judiciaires et du Conseil de la magistrature;
 - f) procéder à des inspections des lieux.
 
 <sup>2</sup> L'administration des preuves est au surplus régie par le code de procédure civile suisse.
@@ -1456,9 +1472,9 @@ Les commissions de haute surveillance se communiquent les constatations importan
 
 <sup>5</sup> La commission dénonce les faits découverts lors de son enquête qui peuvent être constitutifs d'une infraction pénale poursuivie d'office.
 
-#### Art. 133bis
+#### Art. 133a
 
-<sup>1</sup> Droit des personnes concernées
+**Droit des personnes concernées**
 
 <sup>1</sup> Les personnes concernées par l'enquête en sont informées par la commission.
 
@@ -1466,21 +1482,21 @@ Les commissions de haute surveillance se communiquent les constatations importan
 
 <sup>3</sup> Une fois achevées les investigations et avant la présentation du rapport, les personnes auxquelles des reproches sont adressés en sont informées, ont l'occasion de consulter la partie du projet qui les concerne et peuvent s'exprimer dans un délai approprié.
 
-#### Art. 133ter
+#### Art. 133b
 
-<sup>1</sup> Dossier d'enquête
+**Dossier d'enquête**
 
 <sup>1</sup> Le dossier de l'enquête est secret, sous réserve d'une éventuelle action civile ou pénale dirigée contre les membres de la commission.
 
 <sup>2</sup> Le dossier est conservé durant dix ans.
 
-### Chapitre 2: Secret de fonction
+### 4.3.2 Secret de fonction
 
 #### Art. 134
 
 **Principe**
 
-Dans la mesure où les députés et les membres de commissions ainsi que les autres personnes participant aux séances ont connaissance de déclarations ou de dossiers soumis au secret de fonction au sens de l'article 14 de la présente loi, ils sont liés par le secret de fonction.
+<sup>1</sup> Dans la mesure où les députés et les membres de commissions ainsi que les autres personnes participant aux séances ont connaissance de déclarations ou de dossiers soumis au secret de fonction au sens de l'article 14 de la présente loi, ils sont liés par le secret de fonction.
 
 #### Art. 135
 
@@ -1490,13 +1506,13 @@ Dans la mesure où les députés et les membres de commissions ainsi que les aut
 
 <sup>2</sup> Si le maintien du secret de fonction l'exige, le Conseil d'Etat peut rédiger un rapport au lieu de produire des dossiers.
 
-<sup>3</sup> Le président du Tribunal cantonal dispose de la même compétence en ce qui concerne les demandes émanant de la commission de justice.
+<sup>3</sup> Le procureur général, respectivement le président du Tribunal cantonal et le président du Conseil de la magistrature disposent de la même compétence en ce qui concerne les demandes émanant de la commission de justice.
 
 #### Art. 136
 
-<sup>1</sup> Consultation des documents
+**Consultation des documents**
 
-<sup>1</sup> Dans la mesure où l'exercice de la haute surveillance l'exige, les commissions de haute surveillance et leurs sections peuvent consulter des dossiers soumis au secret de fonction, après que le rapport au sens de l'article 135, alinéa 2 a été présenté et après que le Conseil d'Etat ou le président du Tribunal cantonal a été entendu.
+<sup>1</sup> Dans la mesure où l'exercice de la haute surveillance l'exige, les commissions de haute surveillance et leurs sections peuvent consulter des dossiers soumis au secret de fonction, après que le rapport au sens de l'article 135 alinéas 2 et 3 a été présenté et après que le Conseil d'Etat, le procureur général, le président du Tribunal cantonal ou le président du Conseil de la magistrature a été entendu.
 
 <sup>2</sup> Les autorités ne peuvent pas invoquer le secret de fonction pour refuser la consultation de ces dossiers.
 
@@ -1506,31 +1522,31 @@ Dans la mesure où les députés et les membres de commissions ainsi que les aut
 
 <sup>1</sup> La libération du secret de fonction au sens de l'article 135 est superflue lorsque la commission d'enquête parlementaire demande à se faire communiquer des renseignements, à consulter des documents et lorsqu'elle cite des témoins à comparaître.
 
-<sup>2</sup> Après avoir entendu le Conseil d'Etat ou le président du Tribunal cantonal, la commission d'enquête parlementaire détermine quels sont les documents et déclarations soumis au secret de fonction au sens de l'article 14 de la présente loi.
+<sup>2</sup> Après avoir entendu le Conseil d'Etat, le procureur général, le président du Tribunal cantonal ou le président du Conseil de la magistrature, la commission d'enquête parlementaire détermine quels sont les documents et déclarations soumis au secret de fonction au sens de l'article 14 de la présente loi.
 
-### Partie 5: Dispositions finales et transitoires
+## 5 Dispositions finales et transitoires
 
-### Titre 1: Publication - législation
+### 5.1 Publication - Législation
 
 #### Art. 138
 
-<sup>1</sup> Publication des actes du Grand Conseil
+**Publication des actes du Grand Conseil**
 
 <sup>1</sup> Le Conseil d'Etat organise les publications officielles par la voie du Bulletin officiel, qui paraît chaque semaine en français et en allemand. Il peut charger un éditeur de cette publication, l'Etat restant dans tous les cas propriétaire des matières publiées et des supports utilisés pour leur publication.
 
-<sup>2</sup> Les actes législatifs ne sont réputés connus et ne lient les particuliers que s'ils sont publiés au Bulletin officiel. Le texte de la publication de ces actes mentionne le nombre de signatures requises pour une demande de référendum ainsi que le délai référendaire.
+<sup>2</sup> Les actes législatifs sont publiés de manière centralisée sur une plate-forme en ligne accessible au public sur le site officiel du canton du Valais (plate-forme). Ils ne sont réputés connus et ne lient que s'ils sont publiés dans le recueil officiel du canton du Valais sur la plate-forme. Le texte de la publication de ces actes mentionne le nombre de signatures requises pour une demande de référendum ainsi que le délai référendaire.
 
 <sup>3</sup> Les autres actes du Grand Conseil ainsi que le résultat des élections et nominations sont publiés soit dans le Bulletin officiel, soit dans le bulletin des séances du Grand Conseil. La présidence d'entente avec le Conseil d'Etat en décide.
 
 #### Art. 139
 
-<sup>1</sup> Collections de lois
+**Recueils cantonaux**
 
-<sup>1</sup> L'Etat édite chaque année un recueil de la législation cantonale, des actes importants du Grand Conseil ainsi que les arrêtés du Conseil d'Etat qui ont été publiés l'année précédente.
+<sup>1</sup> Par voie réglementaire, le Conseil d'Etat édicte les modalités de la publication en ligne (plate-forme) des recueils cantonaux.
 
-<sup>2</sup> Il édite aussi une collection, ordonnée par matière, des actes législatifs en vigueur et publiés au Bulletin officiel; ce recueil systématique est mis à jour régulièrement par la Chancellerie d'Etat.
+<sup>2</sup> …
 
-<sup>3</sup> Lors de la réimpression de textes législatifs, la Chancellerie est autorisée à inscrire dans les textes existants la nouvelle désignation des fondements légaux en vigueur au moment du tirage et le nouvel intitulé des unités administratives adopté par le Conseil d'Etat.
+<sup>3</sup> …
 
 #### Art. 140
 
@@ -1544,9 +1560,9 @@ Dans la mesure où les députés et les membres de commissions ainsi que les aut
 
 **Règlement**
 
-Par voie réglementaire, le Conseil d'Etat édicte toutes les autres prescriptions sur les publications officielles et sur les actes législatifs et administratifs cantonaux.
+<sup>1</sup> Par voie réglementaire, le Conseil d'Etat édicte toutes les autres prescriptions sur les publications officielles et sur les actes législatifs et administratifs cantonaux.
 
-### Titre 2: Adaptation du droit
+### 5.2 Adaptation du droit
 
 #### Art. 142
 
@@ -1554,35 +1570,18 @@ Par voie réglementaire, le Conseil d'Etat édicte toutes les autres prescriptio
 
 <sup>1</sup> La présente loi abroge, dès son entrée en vigueur, toutes les dispositions contraires existantes, notamment:
 
-- a) l'article 77 de la loi du 17 mai 1972 sur les élections et votations;
-
-- b) les articles 39, alinéa 2, 41, 42 et 43 de la loi du 24 juin 1980 sur la gestion et le contrôle administratifs et financiers du canton.
+- a) l'article 77 de la loi sur les élections et votations du 17 mai 1972;
+- b) les articles 39 alinéa 2, 41, 42 et 43 de la loi sur la gestion et le contrôle administratifs et financiers du canton du 24 juin 1980.
 
 <sup>2</sup> La présente loi s'applique en lieu et place des dispositions qu'elle abroge et auxquelles la législation en vigueur se réfère.
 
-<sup>3</sup> Est en outre modifiée la loi d'application du 16 mai 1990 du Code pénal suisse:
-
-#### Article 16
-
-:
-
-alinéa 1 littera e: la commission de justice.
-
-alinéa 2 littera c: la commission de justice.
-
-#### Article 23
-
-:
-
-alinéa 1: abrogé.
-
-alinéa 2: La commission de justice a notamment pour tâches:
+<sup>3</sup> Est en outre modifiée la loi d'application du Code pénal suisse du 16 mai 1990.
 
 #### Art. 143
 
 **Application du nouveau droit**
 
-Les commissions déjà instituées lors de l'entrée en vigueur de la présente loi demeurent en place. Les nouvelles commissions sont désignées à la première session qui suit l'entrée en vigueur de la présente loi et remplacent, le cas échéant, les commissions en place.
+<sup>1</sup> Les commissions déjà instituées lors de l'entrée en vigueur de la présente loi demeurent en place. Les nouvelles commissions sont désignées à la première session qui suit l'entrée en vigueur de la présente loi et remplacent, le cas échéant, les commissions en place.
 
 #### Art. 144
 
@@ -1600,44 +1599,4 @@ Les commissions déjà instituées lors de l'entrée en vigueur de la présente 
 
 <sup>2</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi en même temps que le règlement du Grand Conseil adapté au nouveau droit.
 
-Ainsi adopté en seconds débats en séance du Grand Conseil, à Sion, le 28 mars 1996.
-
-Le président du Grand Conseil: Jean-René Fournier Les secrétaires: Florian Boisset, Herbert Marty
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Loi sur l'organisation des Conseils et les RO/VS 1997, 7 01.03.1997 rapports entre les pouvoirs (LOCRP) du 28 mars 1996
-
-<sup>1</sup> Modification du 28 juin 2001: n.: art. 70bis, BO No 33/2001 01.05.2002 71bis, 133bis, 133ter; n.t.: art. 2, 12, 16, 18, 24 à 27, 31, 32, 49, 50, 57, 62 à 64, 69, 97, 102, 113, 132, 133, 136, 138, 139
-
-**1.5.2005**
-
-<sup>2</sup> Modification du 15 décembre 2004: a.: art. RO/VS 2005, 43 97, 98; n.: art. 130bis; n.t.; art. 26, 96
-
-**1.1.2008**
-
-<sup>3</sup> Modification du 12 septembre 2007: n.t.: art. RO/VS 2008, 9 126
-
-**1.3.2009**
-
-<sup>4</sup> Modification du 9 octobre 2008: n.: art. RO/VS 2009, 60 51bis, 77bis n.t.: art. 7, 12, 15, 18, 44, 55, 56, 62-64, 66, 71, 71bis, 99, 100, 103, 106, 110, 118, 124, 126, 128
-
-**1.1.2011**
-
-<sup>5</sup> Modification du 11 février 2009: a.: art. 3; n. BO No 13/2009 t.: art. 129, 133
-
-**1.1.2011**
-
-<sup>6</sup> Modification du 16 juin 2010: n.t.: art. 100 BO No 28/2010
-
-a.: abrogé: n.: nouveau: n.t.: nouvelle teneur
-
-<sup>7</sup> Modification du 15 février 2013 (Loi sur la BO No 9/2013, BO 01.01.2014 protection de la population et la gestion des situations particulières et extraordinaires du 15 février 2013, art. 45)
-
-**No 52/2013**
-
-**No 41/2014**
-
-<sup>8</sup> Modification du 12 mars 2014 (Décret BO No15/2014; BO 01.01.2015 concernant la première phase de l'examen des tâches et des structures de l'Etat du 12 mars 2014 (ETS 1), chiff. 1)
+RCV RO/AGS 1997 f 7, 266 | d 8, 275

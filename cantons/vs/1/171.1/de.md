@@ -4,29 +4,32 @@ number: "171.1"
 title: Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten
 short: GORBG
 language: de
-version: 2015-01-01
-corrected: 2017-11-09
-version_adopted: 2014-03-12
+version: 2021-02-01
+valid_until: 2021-05-31
+version_adopted: 2020-09-09
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/de/versions/676/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2871/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten (GORBG)
+# Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten
 
-vom 28. März 1996
+(GORBG)
+
+vom 28.03.1996 (Stand 01.02.2021)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 30 ff., 100 bis 102 und 104 der Kantonsverfassung; auf Antrag des Staatsrates,
+eingesehen die Artikel 30 und folgende, 100 bis 102 und 104 der Kantonsverfassung;
+
+auf Antrag des Staatsrates,
 
 verordnet:
 
-### 1. Teil: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -38,7 +41,7 @@ verordnet:
 
 #### Art. 2
 
-<sup>1</sup> Gewaltentrennung
+**Gewaltentrennung**
 
 <sup>1</sup> Die gesetzgebenden, vollziehenden und richterlichen Behörden üben ihre Gewalt im Rahmen der Befugnisse aus. Jede gibt sich ein internes Organisa-tionsreglement.
 
@@ -46,32 +49,26 @@ verordnet:
 
 <sup>3</sup> Die Verfügungen der ausführenden Behörden sowie die Urteile der Gerichte können durch den Grossen Rat und seine Kommissionen in Ausübung ihrer Oberaufsichtsbefugnisse weder abgeändert noch aufgehoben werden.
 
-### 2. Teil: Grosser Rat
+## 2 Grosser Rat
 
-### 1. Titel: Mitgliedschaft des Grossen Rates
+### 2.1 Mitgliedschaft des Grossen Rates
 
-### 1. Kapitel: Rechte der Abgeordneten
+### 2.1.1 Rechte der Abgeordneten
 
 #### Art. 3
 
-<sup>5</sup> Immunität
-
-Aufgehoben
+**…**
 
 #### Art. 4
 
 **Vorstösse**
 
-Jeder Abgeordnete hat namentlich das Recht:
+<sup>1</sup> Jeder Abgeordnete hat namentlich das Recht:
 
 - a) an den Beratungen teilzunehmen;
-
 - b) Vorschläge zur Sache oder zum Verfahren zu unterbreiten;
-
 - c) eine Initiative, eine Motion, ein Postulat, eine Interpellation, eine Resolution oder eine einfache Anfrage einzureichen;
-
 - d) eine persönliche Erklärung abzugeben;
-
 - e) Kandidaten für eine Wahl oder Ernennung vorzuschlagen.
 
 #### Art. 5
@@ -88,11 +85,11 @@ Jeder Abgeordnete hat namentlich das Recht:
 
 **Freies Mandat**
 
-Die Abgeordneten vertreten den Kanton. Sie handeln nach ihrer Überzeugung für das Gemeinwohl, ohne dass sie durch Weisungen gebunden werden können.
+<sup>1</sup> Die Abgeordneten vertreten den Kanton. Sie handeln nach ihrer Überzeugung für das Gemeinwohl, ohne dass sie durch Weisungen gebunden werden können.
 
 #### Art. 7
 
-<sup>4</sup> Dokumentation
+**Dokumentation**
 
 <sup>1</sup> Bei Amtsantritt erhält jeder Abgeordnete eine Grunddokumentation, die es ihm ermöglicht, sein Mandat auszuüben.
 
@@ -106,29 +103,29 @@ Die Abgeordneten vertreten den Kanton. Sie handeln nach ihrer Überzeugung für 
 
 <sup>2</sup> Im Verweigerungsfall entscheidet das Büro nach Anhören des betreffenden Abgeordneten und des zuständigen Staatsrates. Diese können den Entscheid des Büros an den Grossen Rat weiterziehen.
 
-### 2. Kapitel: Pflichten des Abgeordneten
+### 2.1.2 Pflichten des Abgeordneten
 
 #### Art. 9
 
 **Teilnahmepflicht**
 
-Unter Vorbehalt begründeter Verhinderung nehmen die Abgeordneten an den Sitzungen des Grossen Rates und jenen der Organe, denen sie angehören, teil.
+<sup>1</sup> Unter Vorbehalt begründeter Verhinderung nehmen die Abgeordneten an den Sitzungen des Grossen Rates und jenen der Organe, denen sie angehören, teil.
 
 #### Art. 10
 
 **Vereidigung**
 
-Kein Abgeordneter kann an den Beratungen teilnehmen, bevor er den Eid oder das Gelübde abgelegt hat; wer sich weigert, gilt als Demissionär.
+<sup>1</sup> Kein Abgeordneter kann an den Beratungen teilnehmen, bevor er den Eid oder das Gelübde abgelegt hat; wer sich weigert, gilt als Demissionär.
 
 #### Art. 11
 
 **Betragen**
 
-Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeiden verletzende und beleidigende Äusserungen.
+<sup>1</sup> Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeiden verletzende und beleidigende Äusserungen.
 
 #### Art. 12
 
-<sup>1,4</sup> Offenlegung der Interessenbindungen
+**Offenlegung der Interessenbindungen**
 
 <sup>1</sup> Unter Vorbehalt des vom Schweizerischen Strafgesetzbuch geschützten Amtsgeheimnisses unterrichtet jeder Abgeordnete bei Amtsantritt und bei jeder erfolgten Änderung das Präsidium schriftlich über die im Reglement umschriebenen Interessenbindungen.
 
@@ -138,13 +135,35 @@ Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeid
 
 **Ausstand**
 
-<sup>1</sup> Bei den Sitzungen des Grossen Rates und seiner Kommissionen darf der Abgeordnete an den Beratungen nicht teilnehmen und muss sich seiner Stimme enthalten, wenn er selber, sein Ehegatte, seine Nachkommen oder Vorfahren daran ein unmittelbares privates Interesse haben.
+<sup>1</sup> Bei den Sitzungen des Grossen Rates und seiner Kommissionen darf der Abgeordnete an den Beratungen nicht teilnehmen und muss sich seiner Stimme enthalten, wenn er selbst, sein Ehegatte, die Person, mit der er in eingetragener Partnerschaft lebt, seine Verwandten in gerader Linie und in der Seitenlinie bis und mit dem dritten Grad, seine Verschwägerten in gerader Linie und in der Seitenlinie bis und mit dem zweiten Grad ein unmittelbares privates Interesse daran haben.
 
-<sup>2</sup> Das gleiche gilt, wenn er der gesetzliche Vertreter, Verwaltungsrat oder berufliche Bevollmächtigte einer Person des Privatrechts ist, die ein unmittelbares Interesse daran hat.
+<sup>2</sup> Das Gleiche gilt, wenn er der gesetzliche Vertreter, Verwaltungsrat oder berufliche Bevollmächtigte einer Person des Privatrechts ist, die ein unmittelbares Interesse daran hat.
 
-<sup>3</sup> Diese Bestimmung ist nicht anwendbar auf die Geschäfte gesetzgeberischer Art sowie auf die Beratungen und Schlussabstimmungen über den Voranschlag und die Rechnung.
+<sup>3</sup> Diese Bestimmung ist nicht anwendbar auf die Geschäfte gesetzgeberischer Art, auf interne Wahlen im Grossen Rat sowie auf die Beratungen und Schlussabstimmungen über den Voranschlag und die Rechnung.
 
-<sup>4</sup> Im Bestreitungsfall wird der Entscheid in Abwesenheit des Interessierten gefällt.
+<sup>4</sup> Die Ausstandsregeln sind nicht anwendbar, wenn die Enthüllung der Existenz eines Mandats das Berufsgeheimnis verletzten würde.
+
+<sup>5</sup> Im Bestreitungsfall wird der Entscheid in Abwesenheit des Interessierten gefällt.
+
+#### Art. 13a
+
+**Verfahren**
+
+<sup>1</sup> Die Person, die sich in einem Fall von Ausstand befindet, teilt dies unverzüglich dem Präsidium des Grossen Rates oder der Kommission mit und gibt den Grund für den Ausstand an. Sie verlässt für die Dauer der Prüfung des betreffenden Geschäfts den Sitzungssaal, nachdem das Präsidium eine entsprechende Mitteilung gemacht hat.
+
+<sup>2</sup> Der Ausstand wird im Verzeichnis oder im Protokoll festgehalten.
+
+<sup>3</sup> Im Bestreitungsfallinnerhalb einer Kommission entscheidet das Büro endgültig.
+
+<sup>4</sup> In der Sitzung des Plenums auftretende Bestreitungen werden mit einem Ordnungsantrag eingebracht.
+
+#### Art. 13b
+
+**Wirkung**
+
+<sup>1</sup> Eine Verletzung der Ausstandspflicht hat nicht zur Folge, dass der Entscheid des Grossen Rates ungültig ist.
+
+<sup>2</sup> Erachtet der Grosse Rat es jedoch als möglich, dass das Ergebnis einer Abstimmung durch eine Verletzung der Ausstandspflicht verfälscht wurde, kann er beschliessen, dass erneut abgestimmt wird, sofern die Sitzung, in der die Schlussabstimmung stattgefunden hat, noch nicht beendet ist.
 
 #### Art. 14
 
@@ -154,11 +173,11 @@ Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeid
 
 <sup>2</sup> Insbesondere unterstehen dem Amtsgeheimnis Tatsachen, die zur Wahrung überwiegender öffentlicher oder privater Interessen, zum Schutze der Persönlichkeit oder aus Rücksicht auf ein hängiges Verfahren geheimzuhalten oder vertraulich zu behandeln sind.
 
-### 3. Kapitel: Statut der Suppleanten
+### 2.1.3 Statut der Suppleanten
 
 #### Art. 15
 
-<sup>4</sup> Suppleant
+**Suppleant**
 
 <sup>1</sup> Der Suppleant ersetzt den verhinderten Abgeordneten.
 
@@ -166,25 +185,28 @@ Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeid
 
 <sup>3</sup> Mit Ausnahme der Oberaufsichtskommissionen kann er in die Kommissionen gewählt werden, wo er das Amt des Präsidenten und des Vizepräsidenten jedoch nicht bekleiden kann.
 
-### 2. Titel: Organisation des Grossen Rates
+### 2.2 Organisation des Grossen Rates
 
-### 1. Kapitel: Führungsorgane
+### 2.2.1 Führungsorgane
 
 #### Art. 16
 
-<sup>1</sup> Organe
+**Organe**
 
 <sup>1</sup> Die Führungsorgane des Grossen Rates sind:
 
 - a) für die Leitung der Beratungen und die Verwaltung der administrativen Angelegenheiten das Präsidium, welches den Präsidenten des Grossen Rates und die beiden Vizepräsidenten umfasst;
-
 - b) für die Verwaltung der politischen Angelegenheiten das Büro, welches das Präsidium und die Fraktionspräsidenten umfasst.
+- c) …
+- d) …
 
 <sup>2</sup> Soweit die Bestimmungen dieses Gesetzes die Zuständigkeiten und Aufgaben der Organe des Grossen Rates nicht näher bezeichnen, umschreibt dieser sie in seinem Reglement.
 
-### 2. Kapitel: Kommissionen
+### 2.2.2 Kommissionen
 
-### 1. Kommission im allgemeinen: a) Aufgaben
+### 2.2.2.1 Kommission im allgemeinen
+
+### 2.2.2.1.1 Aufgaben
 
 #### Art. 17
 
@@ -196,11 +218,11 @@ Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeid
 
 <sup>3</sup> Vor Abschluss ihrer Arbeiten gibt die Kommission dem Staatsrat Gelegenheit zur Stellungnahme, sofern sie neue Elemente entdeckt oder neue Anträge formuliert.
 
-- b) Zusammensetzung
+### 2.2.2.1.2 Zusammensetzung
 
 #### Art. 18
 
-<sup>1,4</sup> Zahl der Mitglieder und Verteilung
+**Zahl der Mitglieder und Verteilung**
 
 <sup>1</sup> Die Zahl der Mitglieder einer Kommission beträgt grundsätzlich fünf bis dreizehn.
 
@@ -212,9 +234,9 @@ Die Abgeordneten beachten die Regeln des parlamentarischen Anstandes und vermeid
 
 **Amtspflicht**
 
-Jeder Abgeordnete kann aufgefordert werden, in den Kommissionen Einsitz zu nehmen. Er kann seine Ernennung nur dann zurückweisen, wenn er bereits Mitglied einer andern Kommission ist.
+<sup>1</sup> Jeder Abgeordnete kann aufgefordert werden, in den Kommissionen Einsitz zu nehmen. Er kann seine Ernennung nur dann zurückweisen, wenn er bereits Mitglied einer andern Kommission ist.
 
-- c) Organisation
+### 2.2.2.1.3 Organisation
 
 #### Art. 20
 
@@ -236,7 +258,7 @@ Jeder Abgeordnete kann aufgefordert werden, in den Kommissionen Einsitz zu nehme
 
 <sup>3</sup> Die Protokolle über gesetzgeberische Erlasse stehen nach deren Inkrafttreten allen Personen für wissenschaftliche Untersuchungen und für die Rechtsanwendung zur Einsicht offen.
 
-- d) Öffentlichkeit der Sitzungen
+### 2.2.2.1.4 Öffentlichkeit der Sitzungen
 
 #### Art. 22
 
@@ -248,7 +270,7 @@ Jeder Abgeordnete kann aufgefordert werden, in den Kommissionen Einsitz zu nehme
 
 <sup>3</sup> Die Ansicht und die Stimmabgabe eines jeden Mitgliedes der Kommission müssen bis zum Abschluss ihrer Arbeiten vertraulich bleiben.
 
-- e) Berichte und Anträge
+### 2.2.2.1.5 Berichte und Anträge
 
 #### Art. 23
 
@@ -258,39 +280,34 @@ Jeder Abgeordnete kann aufgefordert werden, in den Kommissionen Einsitz zu nehme
 
 <sup>2</sup> Die Kommissionsminderheit kann durch einen Minderheitsbericht ihren Standpunkt ebenfalls bekanntgeben.
 
-- f) Dokumentation, Expertise
+### 2.2.2.1.6 Dokumentation - Expertise
 
 #### Art. 24
 
-<sup>1</sup> Informationsrecht
+**Informationsrecht**
 
 <sup>1</sup> Im Rahmen ihres Auftrages können die Kommissionen und gegebenenfalls die Unterkommissionen:
 
 - a) vom Staatsrat oder dem zuständigen Departementsvorsteher Berichte und Urkunden verlangen;
-
 - b) in die Akten, auf die sich die vorgelegten Dokumente beziehen, Einsicht nehmen;
-
 - c) nach Benachrichtigung des zuständigen Departementsvorstehers beziehungsweise des Präsidenten des Kantonsgerichts Verwaltungsbeamte oder Mitglieder der Gerichtsbehörden über Geschäfte in ihrem Verantwortungsbereich befragen;
-
 - d) Besichtigungen vornehmen;
-
 - e) die Vertreter der interessierten Kreise anhören;
-
 - f) die vom Staatsrat beauftragten Experten befragen oder mit Zustimmung des Präsidiums und nach Anhören des Staatsrates neue Experten bezeichnen, Rechtsgutachten einholen oder neue Expertisen anordnen.
 
 <sup>2</sup> Die Sondervorschriften über die Oberaufsichts- und Untersuchungs-kommissionen bleiben vorbehalten.
 
-- 2\. Sonderbestimmungen
+### 2.2.2.2 Sonderbestimmungen
 
 #### Art. 25
 
-<sup>1</sup> Oberaufsichtskommissionen
+**Oberaufsichtskommissionen**
 
-Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für deren Dauer die ständigen Oberaufsichtskommissionen für die Justiz, die Geschäftsprüfung und die Finanzen. Das Reglement kann die Fusion von ständigen Kommissionen vorsehen.
+<sup>1</sup> Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für deren Dauer die ständigen Oberaufsichtskommissionen für die Justiz, die Geschäftsprüfung und die Finanzen. Das Reglement kann die Fusion von ständigen Kommissionen vorsehen.
 
 #### Art. 26
 
-<sup>1,2</sup> Thematische Kommissionen
+**Thematische Kommissionen**
 
 <sup>1</sup> Der Grosse Rat bestimmt für seine Gesetzgebungs- und Planungsarbeit die Schaffung von thematischen Kommissionen in allen Tätigkeitsbereichen des Staates.
 
@@ -298,9 +315,8 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 <sup>3</sup> Die thematischen Kommissionen haben folgende Aufgaben:
 
-- a) Prüfung der Geschäfte, die in ihren Bereich fallen, in erster Lesung.
-
-- b) regelmässige Überprüfung ihres Bereichs und Erarbeitung von Vorschlä-gen zuhanden des Grossen Rates.
+- a) Prüfung der Geschäfte, die in ihren Bereich fallen, in erster Lesung;
+- b) regelmässige Überprüfung ihres Bereichs und Erarbeitung von Vorschlägen zuhanden des Grossen Rates.
 
 <sup>4</sup> Über das Vorberichtsverfahren arbeiten die thematischen Kommissionen zusammen mit der Finanz- und Geschäftsprüfungskommission an der Überprüfung des Voranschlages und der Staatsrechnung.
 
@@ -308,7 +324,7 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 #### Art. 27
 
-<sup>1</sup> Spezialkommissionen
+**Spezialkommissionen**
 
 <sup>1</sup> Das Büro setzt Spezialkommissionen für die Prüfung jedes vom Grossen Rat zu behandelnden Geschäftes ein.
 
@@ -322,9 +338,9 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 <sup>2</sup> Der Grosse Rat bezeichnet selber die Kommissionsmitglieder und deren Präsidenten sowie Vizepräsidenten und setzt ihre Befugnisse fest.
 
-<sup>3</sup> Die Zuständigkeiten, Rechte und Pflichten der Untersuchungskommission werden überdies in den Artikeln 133 ff. dieses Gesetzes behandelt.
+<sup>3</sup> Die Zuständigkeiten, Rechte und Pflichten der Untersuchungskommission werden überdies in den Artikeln 133 und folgende dieses Gesetzes behandelt.
 
-### 3. Kapitel: Fraktionen
+### 2.2.3 Fraktionen
 
 #### Art. 29
 
@@ -344,11 +360,11 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 <sup>2</sup> Insbesondere bereiten sie die Wahlen vor und geben ihre Kandidatenvorschläge zuhanden des Büros und des Grossen Rates ab.
 
-### 4. Kapitel: Parlamentsdienste
+### 2.2.4 Parlamentsdienste
 
 #### Art. 31
 
-<sup>1</sup> Parlamentsdienst
+**Parlamentsdienst**
 
 <sup>1</sup> Der Grosse Rat verfügt für die Ausübung seiner Befugnisse über einen vom Staatsrat und von der Kantonsverwaltung unabhängigen Parlamentsdienst.
 
@@ -358,7 +374,7 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 #### Art. 32
 
-<sup>1</sup> Personalstatut
+**Personalstatut**
 
 <sup>1</sup> Sämtliche Entscheide, die das Personal des Parlamentsdienstes betreffen, fallen in die Zuständigkeit des Präsidiums, respektive des Chefs des Parlamentsdienstes.
 
@@ -372,23 +388,25 @@ Der Grosse Rat ernennt zu Beginn jeder Legislaturperiode und in der Regel für d
 
 **Andere Dienste**
 
-Für die Prüfung besonderer Fragen kann der Grosse Rat die Mitwirkung oder Unterstützung der Dienste oder Experten der Verwaltung verlangen.
+<sup>1</sup> Für die Prüfung besonderer Fragen kann der Grosse Rat die Mitwirkung oder Unterstützung der Dienste oder Experten der Verwaltung verlangen.
 
-### 3. Titel: Befugnisse des Grossen Rates
+### 2.3 Befugnisse des Grossen Rates
 
-### 1. Kapitel: Allgemeine Zuständigkeiten
+### 2.3.1 Allgemeine Zuständigkeiten
 
 #### Art. 34
 
 **Befugnisse**
 
-Der Grosse Rat übt die gesetzgebende Gewalt im Kanton aus. Er besitzt jede andere Befugnis, die ihm durch Verfassung und Gesetz eingeräumt ist.
+<sup>1</sup> Der Grosse Rat übt die gesetzgebende Gewalt im Kanton aus. Er besitzt jede andere Befugnis, die ihm durch Verfassung und Gesetz eingeräumt ist.
 
-### 2. Kapitel: Gesetzgebungsbefugnisse
+### 2.3.2 Gesetzgebungsbefugnisse
+
+### 2.3.2.1 Im allgemeinen
 
 #### Art. 35
 
-<sup>4</sup> Ausarbeitung von Rechtsnormen
+**Ausarbeitung von Rechtsnormen**
 
 <sup>1</sup> Der Grosse Rat übt unter Vorbehalt der Volksrechte die ordentliche gesetzgebende Gewalt aus.
 
@@ -400,27 +418,27 @@ Der Grosse Rat übt die gesetzgebende Gewalt im Kanton aus. Er besitzt jede ande
 
 #### Art. 36
 
-**Delegation**
+**Delegation und Kontrolle**
 
-Der Grosse Rat delegiert seine Gesetzgebungsbefugnis nur ausnahmsweise und in Beachtung der in der Verfassung festgelegten Regeln.
+<sup>1</sup> Der Grosse Rat delegiert seine Gesetzgebungsbefugnis nur ausnahmsweise und in Beachtung der in der Verfassung festgelegten Regeln.
 
 #### Art. 37
 
 **Aufhebung und Abänderung**
 
-Die Verfassungsbestimmungen und gesetzgeberischen Erlasse können nur innerhalb der Befugnisse und im gleichen Verfahren wie für ihre Annahme aufgehoben oder abgeändert werden.
+<sup>1</sup> Die Verfassungsbestimmungen und gesetzgeberischen Erlasse können nur innerhalb der Befugnisse und im gleichen Verfahren wie für ihre Annahme aufgehoben oder abgeändert werden.
 
-- b) Form der gesetzgeberischen Erlasse
+### 2.3.2.2 Form der gesetzgeberischen Erlasse
 
 #### Art. 38
 
 **Verfassungsbestimmungen**
 
-Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene Initiative, einen Entwurf des Staatsrates oder eine Volksinitiative und unterstellt sie dem obligatorischen Referendum.
+<sup>1</sup> Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene Initiative, einen Entwurf des Staatsrates oder eine Volksinitiative und unterstellt sie dem obligatorischen Referendum.
 
 #### Art. 39
 
-**Gesetze, Rechtsnormen**
+**Gesetze - Rechtsnormen**
 
 <sup>1</sup> Die gesetzgeberischen Erlasse von begrenzter oder unbestimmter Dauer, die Rechtsnormen enthalten, müssen unter Vorbehalt der Artikel 38, 40, 41 und 42 in Form allgemeiner oder von Spezialgesetzen, die dem fakultativen Referendum unterstehen, erlassen werden.
 
@@ -462,7 +480,7 @@ Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene
 
 #### Art. 44
 
-<sup>4</sup> Inhalt eines gesetzgeberischen Erlasses
+**Inhalt eines gesetzgeberischen Erlasses**
 
 <sup>1</sup> Die gesetzgeberischen Erlasse enthalten einen Titel, Erwägungen, die sich auf die Verfassungs- und Gesetzesgrundlagen beziehen, eine Referendumsklausel, Schlussbestimmungen und gegebenenfalls Übergangs- und Aufhebungsbestimmungen.
 
@@ -470,7 +488,9 @@ Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene
 
 <sup>3</sup> Der Staatsrat erlässt Richtlinien über die Anforderungen an gesetzgeberische Erlasse.
 
-### 3. Kapitel: Verwaltungs- und Finanzbefugnisse
+### 2.3.3 Verwaltungs- und Finanzbefugnisse
+
+### 2.3.3.1 Im allgemeinen
 
 #### Art. 45
 
@@ -480,7 +500,7 @@ Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene
 
 <sup>2</sup> Die Verwaltungs- und Finanzverfügungen des Grossen Rates müssen in Form eines Beschlusses erfolgen. Artikel 44 dieses Gesetzes ist analog anwendbar.
 
-- b) Verwaltungs- und Finanzbefugnisse
+### 2.3.3.2 Verwaltungs- und Finanzbefugnisse
 
 #### Art. 46
 
@@ -494,7 +514,7 @@ Der Grosse Rat erarbeitet die Verfassungsbestimmungen gestützt auf seine eigene
 
 **Referendumsklausel**
 
-Die Beschlüsse des Grossen Rates, die Ausgaben vorsehen, welche den in der Verfassung für das fakultative Referendum festgesetzten Betrag erreichen, müssen eine begründete Referendumsklausel enthalten.
+<sup>1</sup> Die Beschlüsse des Grossen Rates, die Ausgaben vorsehen, welche den in der Verfassung für das fakultative Referendum festgesetzten Betrag erreichen, müssen eine begründete Referendumsklausel enthalten.
 
 #### Art. 48
 
@@ -506,17 +526,17 @@ Die Beschlüsse des Grossen Rates, die Ausgaben vorsehen, welche den in der Verf
 
 <sup>3</sup> Verweigert der Grosse Rat das Eintreten und weist er den Bericht an den Staatsrat zurück, muss er die Art der Abänderungen darlegen.
 
-### 4. Kapitel: Wahlbefugnisse
+### 2.3.4 Wahlbefugnisse
 
 #### Art. 49
 
-<sup>1</sup> Grundsatz
+**Grundsatz**
 
-Der Grosse Rat nimmt in der Maisession die Wahlen und Ernennungen vor, die ihm gestützt auf Verfassung und Gesetz zustehen.
+<sup>1</sup> Der Grosse Rat nimmt in der Maisession die Wahlen und Ernennungen vor, die ihm gestützt auf Verfassung und Gesetz zustehen.
 
 #### Art. 50
 
-<sup>1</sup> Ausnahmen
+**Ausnahmen**
 
 <sup>1</sup> Der Präsident und die zwei Vizepräsidenten des Grossen Rates werden im ersten Jahr der Legislatur anlässlich der konstituierenden Session und in den folgenden Jahren anlässlich der Maisession ernannt.
 
@@ -528,13 +548,13 @@ Der Grosse Rat nimmt in der Maisession die Wahlen und Ernennungen vor, die ihm g
 
 **Sonderfall**
 
-Auf Beschluss des Grossen Rates hin können die für die konstituierende Session vorgesehenen Wahlen spätestens auf die kommende Maisession verschoben werden, sofern noch nicht alle Mandate der Abgeordneten, insbesondere jene der durch die Fraktionen angemeldeten Kandidaten, validiert worden sind.
+<sup>1</sup> Auf Beschluss des Grossen Rates hin können die für die konstituierende Session vorgesehenen Wahlen spätestens auf die kommende Maisession verschoben werden, sofern noch nicht alle Mandate der Abgeordneten, insbesondere jene der durch die Fraktionen angemeldeten Kandidaten, validiert worden sind.
 
-### 5. Kapitel: Befugnisse in Bezug auf die interkantonalen Vereinbarungen und die internationalen Verträge
+### 2.3.5 Befugnisse in Bezug auf die interkantonalen Vereinbarungen und die internationalen Verträge
 
-#### Art. 51bis
+#### Art. 51a
 
-<sup>4</sup> Interkantonale Vereinbarungen und internationale Verträge
+**Interkantonale Vereinbarungen und internationale Verträge**
 
 <sup>1</sup> Der Staatsrat unterrichtet das Büro des Grossen Rates rechtzeitig und umfassend über die Verhandlungen, die mit anderen Kantonen oder Ländern im Hinblick auf die Annahme oder Abänderung einer interkantonalen Vereinbarung oder eines Vertrags mit dem Ausland aufgenommen werden.
 
@@ -544,9 +564,11 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>4</sup> Vorbehalten bleibt die interkantonale Vereinbarung über die Aushandlung, Ratifikation, Ausführung und Abänderung der interkantonalen Verträge und Vereinbarungen der Kantone mit dem Ausland.
 
-### 4. Titel: Sitzungen des Grossen Rates
+### 2.4 Sitzungen des Grossen Rates
 
-### 1. Kapitel: Sessionen
+### 2.4.1 Sessionen
+
+### 2.4.1.1 Allgemeines
 
 #### Art. 52
 
@@ -564,19 +586,19 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>2</sup> Bis zu diesem Zeitpunkt bleibt der alte Grosse Rat im Amt.
 
-- b) Konstituierende Session
+### 2.4.1.2 Konstituierende Session
 
 #### Art. 54
 
-<sup>4</sup> Einberufung
+**Einberufung**
 
-<sup>1</sup> Der Staatsrat beruft den Verfassungsrat oder den Grossen Rat zur konstituierenden Sitzung auf den vierten Montag nach seiner ordentlichen oder ausserordentlichen Gesamterneuerung ein.
+<sup>1</sup> Der Staatsrat beruft den Verfassungsrat oder den Grossen Rat zur konstituierenden Sitzung auf den siebten Montag nach seiner ordentlichen oder ausserordentlichen Gesamterneuerung ein.
 
 <sup>2</sup> Er unterbreitet einen Bericht über den Verlauf und das Ergebnis der Wahlen sowie über die Beschwerden. Er stellt der Validierungskommission die Wahldossiers zur Verfügung.
 
 #### Art. 55
 
-<sup>4</sup> Provisorisches Büro
+**Provisorisches Büro**
 
 <sup>1</sup> Unverzüglich nach der Veröffentlichung der Wahlresultate durch den Staatsrat ernennt das amtsälteste der neu gewählten Mitglieder ein provisorisches Büro, worin sämtliche Parteien, die mindestens einen Abgeordneten im Grossen Rat haben, vertreten sein müssen.
 
@@ -584,7 +606,7 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 #### Art. 56
 
-<sup>4</sup> Validierungskommission
+**Validierungskommission**
 
 <sup>1</sup> Die Validierungskommission schreitet zur Prüfung der Protokolle der Wahlen des Grossen Rates und des Staatsrates, bestimmt und begutachtet die Unvereinbarkeitsfälle, trifft die Untersuchungsmassnahmen und berichtet über eventuelle gegen diese Wahlen eingereichte Beschwerden. Sie überprüft auch die Zusammensetzung der Fraktionen.
 
@@ -592,11 +614,11 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 #### Art. 57
 
-<sup>1</sup> Vorsitz
+**Vorsitz**
 
 <sup>1</sup> Die erste Sitzung der konstituierenden Session wird unter dem Vorsitz des amtsältesten Mitgliedes eröffnet.
 
-<sup>2</sup> Aufgehoben.
+<sup>2</sup> …
 
 #### Art. 58
 
@@ -636,27 +658,32 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>2</sup> Die Mitglieder des Staatsrates werden durch Namensaufruf vom Präsidenten des Grossen Rates vereidigt.
 
-- c) Ordentliche und ausserordentliche Sessionen
+### 2.4.1.3 Ordentliche und ausserordentliche Sessionen
 
 #### Art. 62
 
-<sup>1,4</sup> Sessionen
+**Sessionen**
 
 <sup>1</sup> Der Grosse Rat versammelt sich zu ordentlichen Sessionen:
 
 - a) an den im Sessionsplan festgelegten Daten, im Grundsatz halbjährlich drei Mal;
-
-- b) in der Regel am zweiten Dienstag, Mittwoch Donnerstag und Freitag des Monats;
+- b) in der Regel am zweiten Dienstag, Mittwoch Donnerstag und Freitag des Monats.
 
 <sup>2</sup> Der Grosse Rat tritt in den von der Verfassung vorgesehenen Fällen zu ausserordentlichen Sessionen zusammen.
 
+- a) …
+- b) …
+
 #### Art. 63
 
-<sup>1,4</sup> Vorbereitung der Session
+**Vorbereitung der Session**
 
 <sup>1</sup> Das Büro erstellt die Jahresplanung der Sessionen aufgrund der vom Grossen Rat und vom Staatsrat angekündigten Geschäfte und gemäss den gemeldeten Prioritäten. Es legt möglichst rasch und sorgfältig fest, welcher Kommission die Behandlung der Geschäfte obliegt.
 
 <sup>2</sup> Jeweils am letzten Donnerstag der Monate Mai und November unterbreitet der Staatsrat dem Präsidenten des Grossen Rates die Halbjahresplanung der Geschäfte, die vom Grossen Rat behandelt werden sollen.
+
+- a) …
+- b) …
 
 <sup>3</sup> Mindestens zehn Wochen vor Beginn einer Session legt der Staatsrat dem Präsidenten des Grossen Rates die detaillierte Aufstellung der Geschäfte vor, die er angenommen hat.
 
@@ -664,7 +691,7 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 #### Art. 64
 
-<sup>1,4</sup> Einberufung und Tagesordnung
+**Einberufung und Tagesordnung**
 
 <sup>1</sup> Der Präsident des Grossen Rates beruft die Abgeordneten mindestens 20 Tage im Voraus zu jeder ordentlichen oder ausserordentlichen Session ein.
 
@@ -674,7 +701,9 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>4</sup> Geschäfte, die einen Kommissionsbericht erfordern, werden erst nach der Einreichung des Berichts in die Liste aufgenommen. Vorbehalten bleiben die Dringlichkeitsfälle.
 
-### 2. Kapitel: Sitzungen
+### 2.4.2 Sitzungen
+
+### 2.4.2.1 Allgemeine Grundsätze
 
 #### Art. 65
 
@@ -688,7 +717,7 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 #### Art. 66
 
-<sup>4</sup> Quorum
+**Quorum**
 
 <sup>1</sup> Bei Eröffnung der Sitzung versichert sich der Präsident des Grossen Rates, dass das Quorum erreicht ist.
 
@@ -696,18 +725,16 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>3</sup> Wird die Überprüfung des Quorums verlangt, unterbricht der Präsident die Sitzung und führt eine Präsenzkontrolle durch.
 
-- b) Beratungen
+### 2.4.2.2 Beratungen
 
 #### Art. 67
 
-<sup>4</sup> Einleitung der Beratungen
+**Einleitung der Beratungen**
 
 <sup>1</sup> Die vom Grossen Rat zu behandelnden Geschäfte werden eingeleitet durch:
 
 - a) einen Antrag eines oder mehrerer Abgeordneter;
-
 - b) einen Entwurf, einen Antrag oder einen Bericht einer parlamentarischen Kommission;
-
 - c) einen Entwurf, einen Antrag oder einen Bericht des Staatsrates.
 
 <sup>2</sup> Durch Vermittlung des Staatsrates machen das Kantonsgericht, die Gemeinden oder andere Organisationen beim Grossen Rat jene Geschäfte anhängig, die seine Zustimmung erfordern.
@@ -726,7 +753,7 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 #### Art. 69
 
-<sup>1</sup> Detailberatung
+**Detailberatung**
 
 <sup>1</sup> Ist Eintreten beschlossen, wird die Detailberatung eröffnet.
 
@@ -744,19 +771,19 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>3</sup> Bis zur Schlussabstimmung kann der Grosse Rat die Vertagung oder die Rückweisung des Geschäftes an den Staatsrat oder an die zuständige Kommission beschliessen.
 
-#### Art. 70bis
+#### Art. 70a
 
-<sup>1</sup> Unterschriften
+**Unterschriften**
 
 <sup>1</sup> Nachdem ein Erlass vom Grossen Rat angenommen wurde, besorgt der Parlamentsdienst eine Originalausfertigung in französischer und deutscher Sprache.
 
 <sup>2</sup> Der Präsident des Grossen Rates und der Chef des Parlamentsdienstes unterschreiben die Originalausfertigungen des Erlasses und sorgen für deren Weiterleitung.
 
-- c) Abstimmungen
+### 2.4.2.3 Abstimmungen
 
 #### Art. 71
 
-<sup>4</sup> Mehrheit
+**Mehrheit**
 
 <sup>1</sup> Die Beschlüsse des Grossen Rates werden mit der absoluten Mehrheit gefasst.
 
@@ -768,9 +795,9 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>5</sup> Bei geheimer Abstimmung werden die leeren und ungültigen Stimmzettel für die Berechnung der Mehrheit nicht in Betracht gezogen.
 
-#### Art. 71bis
+#### Art. 71a
 
-<sup>1,4</sup> Elektronische Abstimmung
+**Elektronische Abstimmung**
 
 <sup>1</sup> Die Abstimmung wird elektronisch vorgenommen. Das System speichert die anlässlich sämtlicher Abstimmungen abgegebenen Stimmen ("Ja", "Nein", "Enthaltung"). Das Stimmverhalten der Ratsmitglieder und das Resultat werden auf Anzeigetafeln angezeigt.
 
@@ -778,7 +805,7 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>3</sup> Solange es sich nicht um eine geheime Abstimmung handelt und das Gesuch von 15 Abgeordneten unterstützt wird, haben die Abgeordneten die Möglichkeit, vor der Abstimmung eine Namensliste zu verlangen. Diese wird unverzüglich verteilt und ins Memorial aufgenommen.
 
-- d) Wahlen
+### 2.4.2.4 Wahlen
 
 #### Art. 72
 
@@ -792,29 +819,29 @@ Auf Beschluss des Grossen Rates hin können die für die konstituierende Session
 
 <sup>4</sup> Die leeren Wahlzettel und Stimmen fallen für die Berechnung des Mehrs ausser Betracht.
 
-### 3. Teil: Staatsrat
+## 3 Staatsrat
 
-### 1. Titel: Organisation und Verfahren
+### 3.1 Organisation und Verfahren
 
-### 1. Kapitel: Rechte und Pflichten
+### 3.1.1 Rechte und Pflichten
 
 #### Art. 73
 
 **Vereidigung**
 
-In der ersten Session nach ihrer Wahl legen die Mitglieder des Staatsrates den Eid oder das Gelöbnis vor dem Grossen Rat ab.
+<sup>1</sup> In der ersten Session nach ihrer Wahl legen die Mitglieder des Staatsrates den Eid oder das Gelöbnis vor dem Grossen Rat ab.
 
 #### Art. 74
 
 **Wohnsitz**
 
-Die Mitglieder des Staatsrates müssen im Kanton wohnen.
+<sup>1</sup> Die Mitglieder des Staatsrates müssen im Kanton wohnen.
 
 #### Art. 75
 
 **Teilnahmepflicht**
 
-Ausser bei begründeter Verhinderung müssen die Mitglieder des Staatsrates an allen Sitzungen teilnehmen.
+<sup>1</sup> Ausser bei begründeter Verhinderung müssen die Mitglieder des Staatsrates an allen Sitzungen teilnehmen.
 
 #### Art. 76
 
@@ -828,15 +855,15 @@ Ausser bei begründeter Verhinderung müssen die Mitglieder des Staatsrates an a
 
 **Geheime Beratung**
 
-Die Beratungen und Abstimmungen des Staatsrates sind geheim, sofern er nichts anderes beschliesst.
+<sup>1</sup> Die Beratungen und Abstimmungen des Staatsrates sind geheim, sofern er nichts anderes beschliesst.
 
-#### Art. 77bis
+#### Art. 77a
 
-<sup>4</sup> Interessenbindungen
+**Interessenbindungen**
 
-Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staatsrates seine im Reglement des Staatsrates festgelegten Interessenbindungen an. Die Staatskanzlei erstellt ein öffentliches Register über die gemachten Angaben. Dieses Register wird auf der offiziellen Internetseite des Kantons Wallis veröffentlicht.
+<sup>1</sup> Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staatsrates seine im Reglement des Staatsrates festgelegten Interessenbindungen an. Die Staatskanzlei erstellt ein öffentliches Register über die gemachten Angaben. Dieses Register wird auf der offiziellen Internetseite des Kantons Wallis veröffentlicht.
 
-### 2. Kapitel: Organisation
+### 3.1.2 Organisation
 
 #### Art. 78
 
@@ -873,11 +900,8 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 <sup>2</sup> Die Kanzlei ist überdies beauftragt mit:
 
 - a) der Organisation, Vorbereitung und Erledigung der Staatsratssitzungen;
-
 - b) den Repräsentations-, Koordinations- und Verwaltungsaufgaben des Staatsrates;
-
 - c) den Beziehungen und der Koordination mit dem Grossen Rat;
-
 - d) der Information.
 
 #### Art. 82
@@ -888,7 +912,7 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 
 <sup>2</sup> Der Staatskanzler leitet die Staatskanzlei und die Dienststellen beziehungsweise Ämter, Sekretariate und Büros, die ihr funktions- und verwaltungsmäs-sig angegliedert sind.
 
-### 3. Kapitel: Verfahren
+### 3.1.3 Verfahren
 
 #### Art. 83
 
@@ -922,9 +946,9 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 
 <sup>4</sup> Das Protokoll gibt die Meinung der Mehrheit wieder; jedes Mitglied hat indessen das Recht auf Eintragung seiner Ansicht oder seiner Stimme im Protokoll.
 
-### 2. Titel: Befugnisse
+### 3.2 Befugnisse
 
-### 1. Kapitel: Befugnisse im allgemeinen
+### 3.2.1 Befugnisse im allgemeinen
 
 #### Art. 86
 
@@ -938,15 +962,15 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 
 #### Art. 87
 
-<sup>7</sup> Ausserordentliche Lage
+**Ausserordentliche Lage**
 
-<sup>1</sup> Im Falle einer ausserordentlichen Lage kann der Staatsrat alle Massnahmen treffen, die geeignet sind, die Regierungs-, Verwaltungs- und Gerichtstätigkeit soweit als möglich zu gewährleisten.<sup>7</sup>
+<sup>1</sup> Im Falle einer ausserordentlichen Lage kann der Staatsrat alle Massnahmen treffen, die geeignet sind, die Regierungs-, Verwaltungs- und Gerichtstätigkeit soweit als möglich zu gewährleisten.
 
-<sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen des Gesetzes über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen.<sup>7</sup>
+<sup>2</sup> Vorbehalten bleiben die besonderen Bestimmungen des Gesetzes über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen.
 
 <sup>3</sup> Der Staatsrat unterbreitet dem Grossen Rat einen Bericht über die unter diesen Umständen getroffenen Massnahmen.
 
-### 2. Kapitel: Gesetzgeberische Befugnisse
+### 3.2.2 Gesetzgeberische Befugnisse
 
 #### Art. 88
 
@@ -972,6 +996,12 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 
 <sup>2</sup> Die Verordnung gibt ausdrücklich die Bestimmungen an, die der parlamentarischen Genehmigung unterstellt sind. Die Aufhebung und Abänderung dieser Bestimmungen unterliegen den gleichen Regeln.
 
+#### Art. 90a
+
+**Konsultation der Verordnungen**
+
+<sup>1</sup> Im Rahmen des Gesetzgebungsverfahrens informiert der Staatsrat den Grossen Rat über die Ausarbeitung oder Abänderung von Verordnungen. Die zuständige Kommission kann vom Staatsrat verlangen, dass ihr der Entwurf einer Verordnung oder Verordnungsänderung zur Konsultation unterbreitet wird.
+
 #### Art. 91
 
 **Ausführung des Bundesrechts**
@@ -982,13 +1012,13 @@ Bei Amtsantritt und bei jeder erfolgten Änderung gibt jedes Mitglied des Staats
 
 <sup>3</sup> Wenn das Bundesrecht ohne Ansetzung einer Frist die vorübergehende oder übergangsrechtliche Zuständigkeit des Staatsrates vorsieht, arbeitet letzterer ohne Verzug den ordentlichen Gesetzgebungsentwurf aus und unterbreitet ihn dem Grossen Rat.
 
-### 3. Kapitel: Andere Befugnisse
+### 3.2.3 Andere Befugnisse
 
 #### Art. 92
 
 **Finanzielle Befugnisse**
 
-Die finanziellen Befugnisse des Staatsrates sind in der Gesetzgebung, vor allem in jener über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle, festgelegt.
+<sup>1</sup> Die finanziellen Befugnisse des Staatsrates sind in der Gesetzgebung, vor allem in jener über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle, festgelegt.
 
 #### Art. 93
 
@@ -998,7 +1028,7 @@ Die finanziellen Befugnisse des Staatsrates sind in der Gesetzgebung, vor allem 
 
 <sup>2</sup> Er gewährleistet insbesondere die Zusammenarbeit mit dem Bund, den Kantonen und Grenzregionen.
 
-<sup>3</sup> Er kann im Namen des Staates gerichtliche Schritte einleiten und den Gros-sen Rat vor den Gerichten vertreten, ausser der Grosse Rat entscheidet anders.
+<sup>3</sup> Er kann im Namen des Staates gerichtliche Schritte einleiten und den Grossen Rat vor den Gerichten vertreten, ausser der Grosse Rat entscheidet anders.
 
 #### Art. 94
 
@@ -1012,43 +1042,41 @@ Die finanziellen Befugnisse des Staatsrates sind in der Gesetzgebung, vor allem 
 
 **Information**
 
-Der Staatsrat gewährleistet eine regelmässige, vollständige und zweckmässige Information der Öffentlichkeit über die gesamte Tätigkeit oder Beschlüsse, die sie interessieren könnten, sofern das allgemeine Interesse oder überwiegende private Interessen nicht entgegenstehen.
+<sup>1</sup> Der Staatsrat gewährleistet eine regelmässige, vollständige und zweckmässige Information der Öffentlichkeit über die gesamte Tätigkeit oder Beschlüsse, die sie interessieren könnten, sofern das allgemeine Interesse oder überwiegende private Interessen nicht entgegenstehen.
 
-### 4. Teil: Beziehungen zwischen den Räten
+## 4 Beziehungen zwischen den Räten
 
-### 1. Titel: Beziehungen zwischen dem Grossen Rat und
+### 4.1 Beziehungen zwischen dem Grossen Rat und demStaatsrat
 
-demStaatsrat
-
-### 1. Kapitel: Beziehungen im allgemeinen
+### 4.1.1 Beziehungen im allgemeinen
 
 #### Art. 96
 
-<sup>2</sup> Arten der Berichte
+**Arten der Berichte**
 
 <sup>1</sup> Berichte im Sinne dieses Gesetzes sind namentlich:
 
 - a) die integrierte Mehrjahresplanung;
-
 - b) der Voranschlag;
-
 - c) Rechnung und Verwaltungsberichte;
-
 - d) Spezialberichte.
+- e) …
 
-<sup>2</sup> Besteht keine Sondervorschrift, ist Artikel 48, Absätze 2 und 3 dieses Gesetzes analog auf die Behandlung dieser Berichte durch den Grossen Rat anwendbar.
+<sup>2</sup> Besteht keine Sondervorschrift, ist Artikel 48 Absätze 2 und 3 dieses Gesetzes analog auf die Behandlung dieser Berichte durch den Grossen Rat anwendbar.
 
-- a) Botschaften und Berichte des Staatsrates
+### 4.1.1.1 Botschaften und Berichte des Staatsrates
 
 #### Art. 97
 
-**und 98 <sup>2</sup>**
+**…**
 
-Aufgehoben
+#### Art. 98
+
+**…**
 
 #### Art. 99
 
-<sup>4</sup> Spezial- und Zwischenberichte
+**Spezial- und Zwischenberichte**
 
 <sup>1</sup> Der Staatsrat bringt dem Grossen Rat die Spezialberichte über die Planung oder die Tätigkeit in einem besonderen Bericht zur Kenntnis.
 
@@ -1058,7 +1086,7 @@ Aufgehoben
 
 #### Art. 100
 
-<sup>4</sup> Botschaften
+**Botschaften**
 
 <sup>1</sup> Die Vorlagen des Staatsrates werden zusammen mit einer Botschaft an den Grossen Rat gerichtet.
 
@@ -1066,7 +1094,7 @@ Aufgehoben
 
 <sup>3</sup> Sie gibt Auskunft über das Ergebnis des Vernehmlassungsverfahrens, die finanziellen Auswirkungen, den Einfluss auf den Personalbestand, die gesetzgeberischen Delegationen sowie den administrativen Aufwand.
 
-<sup>4</sup> Sie gibt ebenfalls Auskunft über die Auswirkungen auf die Gemeindefinanzen und die Gemeindeautonomie sowie über die Übereinstimmung des Projekts mit der kantonalen Gesetzgebung über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden.<sup>6</sup>
+<sup>4</sup> Sie gibt ebenfalls Auskunft über die Auswirkungen auf die Gemeindefinanzen und die Gemeindeautonomie sowie über die Übereinstimmung des Projekts mit der kantonalen Gesetzgebung über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden.
 
 <sup>5</sup> In der Botschaft werden alle verwendeten Quellen zitiert.
 
@@ -1082,11 +1110,11 @@ Aufgehoben
 
 <sup>4</sup> Sind diese Erklärungen auf der Tagesordnung vorgesehen, kann der Grosse Rat eine Diskussion durchführen.
 
-- b) Teilnahme des Staatsrates
+### 4.1.1.2 Teilnahme des Staatsrates
 
 #### Art. 102
 
-<sup>1</sup> Sitzungen des Grossen Rates
+**Sitzungen des Grossen Rates**
 
 <sup>1</sup> Der Staatsrat wohnt den Sitzungen des Grossen Rates bei. Dieser oder das Büro können verlangen, dass sämtliche Mitglieder an einer parlamentarischen Sitzung teilnehmen.
 
@@ -1098,7 +1126,7 @@ Aufgehoben
 
 #### Art. 103
 
-<sup>4</sup> Teilnahme des Staatsrates an den Sitzungen der Kommissionen
+**Teilnahme des Staatsrates an den Sitzungen der Kommissionen**
 
 <sup>1</sup> Der Staatsrat kann den Sitzungen der mit der Prüfung von Geschäften, die er eingereicht hat, beauftragten Kommissionen beiwohnen.
 
@@ -1110,25 +1138,22 @@ Aufgehoben
 
 <sup>5</sup> Macht eine Kommission, bei der es sich nicht um eine Oberaufsichtskommission handelt, Empfehlungen und neue Anträge oder vertritt sie Ansichten, die von jenen des Staatsrates abweichen, lädt sie vor Abschluss ihrer Beratungen Letzteren ein, Stellung zu nehmen. Sind jene veröffentlicht, muss auch die Stellungnahme des Staatsrates gleichzeitig veröffentlicht werden.
 
-### 2. Kapitel: Vorstösse des Abgeordneten
+### 4.1.2 Vorstösse des Abgeordneten
+
+### 4.1.2.1 Im allgemeinen
 
 #### Art. 104
 
-<sup>4</sup> Form der Vorstösse
+**Form der Vorstösse**
 
 <sup>1</sup> Jeder Abgeordnete, allein oder zusammen mit Mitunterzeichnern, ebenso die parlamentarischen Kommissionen und Fraktionen haben das Recht, dem Staatsrat einen Antrag oder eine Frage in den folgenden Formen zu stellen:
 
 - a) Initiative;
-
 - b) Motion;
-
 - c) Postulat;
-
 - d) Interpellation;
-
 - e) Resolution;
-
-- f) Schriftliche Anfrage
+- f) Schriftliche Anfrage.
 
 <sup>2</sup> Betrifft ein Vorstoss eine interne Angelegenheit des Grossen Rates, wird er in Form einer Ordnungsmotion, einer Motion oder einer Resolution an das zuständige Organ des Grossen Rates überwiesen.
 
@@ -1136,17 +1161,17 @@ Aufgehoben
 
 #### Art. 105
 
-**Vorgängige Prüfung und finanzielle Auswirkungen <sup>8</sup>**
+**Vorgängige Prüfung und finanzielle Auswirkungen**
 
 <sup>1</sup> Die parlamentarischen Vorstösse unterliegen einer Zulässigkeitsprüfung durch ein Organ, welches vom Reglement bezeichnet wird. Das Reglement kann Massnahmen zur Verhinderung von Missbräuchen vorsehen.
 
 <sup>2</sup> Wird der Entscheid bestritten, entscheidet der Grosse Rat.
 
-<sup>3</sup> Die finanziellen Auswirkungen der parlamentarischen Vorstösse werden vom Staatsrat baldmöglichst, spätestens aber anlässlich der Behandlung beurteilt. Zu diesem Zweck wird jeweils eine aktualisierte Übersicht über die finanziellen Auswirkungen (Kosten und Finanzierung) sämtlicher vom Grossen Rat seit dem 1. Mai 2013 angenommener Motionen und Postulate erstellt.<sup>8</sup>
+<sup>3</sup> Die finanziellen Auswirkungen der parlamentarischen Vorstösse werden vom Staatsrat baldmöglichst, spätestens jedoch anlässlich der Behandlung beurteilt. Hierzu wird jeweils eine aktualisierte Übersicht über die finanziellen Auswirkungen (Kosten und Finanzierung) sämtlicher vom Grossen Rat angenommenen Motionen und Postulate erstellt.
 
 #### Art. 106
 
-<sup>4</sup> Dringlichkeit
+**Dringlichkeit**
 
 <sup>1</sup> Die Motionen, Postulate, Interpellationen und Resolutionen können grundsätzlich nur als dringlich erklärt werden, sofern sie am ersten Tag der Session hinterlegt worden sind.
 
@@ -1162,9 +1187,9 @@ Aufgehoben
 
 <sup>2</sup> Der Staatsrat berichtet jedes Jahr in einer besonderen Rubrik des Geschäftsberichtes über den Stand der noch zu behandelnden Vorstösse und über den Vollzug der vom Grossen Rat angenommenen parlamentarischen Vorstösse.
 
-<sup>3</sup> Parlamentarische Initiativen, Motionen und Postulate, die erfüllt oder nicht mehr weiter zu bearbeiten sind, erklärt der Grosse Rat bei dieser Gelegenheit als erledigt, bzw. abgeschrieben.
+<sup>3</sup> Parlamentarische Initiativen, Motionen und Postulate, die erfüllt oder nicht mehr weiter zu bearbeiten sind, erklärt der Grosse Rat bei dieser Gelegenheit als erledigt, beziehungsweise abgeschrieben.
 
-- b) Parlamentarische Initiativen
+### 4.1.2.2. Parlamentarische Initiativen
 
 #### Art. 108
 
@@ -1178,17 +1203,17 @@ Aufgehoben
 
 **Prüfung**
 
-Die Kommission, die mit der Prüfung der vom Grossen Rat erheblich erklärten parlamentarischen Initiative beauftragt ist, kann die Abänderung des Textes beantragen oder ihr einen Gegenentwurf gegenüberstellen.
+<sup>1</sup> Die Kommission, die mit der Prüfung der vom Grossen Rat erheblich erklärten parlamentarischen Initiative beauftragt ist, kann die Abänderung des Textes beantragen oder ihr einen Gegenentwurf gegenüberstellen.
 
-- c) Motion
+### 4.1.2.3 Motion
 
 #### Art. 110
 
-<sup>4</sup> Begriff
+**Begriff**
 
-Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entwurf zu einem Verfassungsartikel, gesetzgeberischen Erlass oder Beschluss, der in die Zuständigkeit des Grossen Rates fällt, zu unterbreiten.
+<sup>1</sup> Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entwurf zu einem Verfassungsartikel, gesetzgeberischen Erlass oder Beschluss, der in die Zuständigkeit des Grossen Rates fällt, zu unterbreiten.
 
-- d) Postulat
+### 4.1.2.4 Postulat
 
 #### Art. 111
 
@@ -1200,7 +1225,7 @@ Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entw
 
 <sup>3</sup> Die Massnahmen, die in die delegierten gesetzgeberischen Zuständigkeiten des Staatsrates fallen, und jene, die in seiner ausschliesslichen Zuständigkeit sind, können nur auf dem Wege des Postulates beantragt werden.
 
-- e) Interpellation
+### 4.1.2.5 Interpellation
 
 #### Art. 112
 
@@ -1212,11 +1237,11 @@ Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entw
 
 <sup>3</sup> Nach der Diskussion über eine Interpellation erfolgt keine Abstimmung.
 
-- f) Resolution
+### 4.1.2.6 Resolution
 
 #### Art. 113
 
-<sup>1</sup> Begriff
+**Begriff**
 
 <sup>1</sup> Die Resolution ist ein schriftliches Gesuch, das darauf ausgeht, dass der Grosse Rat seine Meinung über wichtige Ereignisse ausdrückt.
 
@@ -1224,17 +1249,19 @@ Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entw
 
 <sup>3</sup> Bei für den Kanton ausserordentlich schweren politischen Ereignissen kann der Präsident des Grossen Rates, im Einvernehmen mit dem Büro und dem Staatsrat, einen Resolutionsentwurf, der den Charakter einer Botschaft an das Land hat, beantragen.
 
-- g) Schriftliche Anfrage
+### 4.1.2.7 Schriftliche Anfrage
 
 #### Art. 114
 
-<sup>4</sup> Begriff
+**Begriff**
 
 <sup>1</sup> Jeder Abgeordnete kann eine Schriftliche Anfrage über eine Angelegenheit von allgemeinem Interesse an den Staatsrat richten.
 
 <sup>2</sup> Die Frage betrifft nur einen einzigen Gegenstand.
 
-### 3. Kapitel: Spezialverfahren
+### 4.1.3 Spezialverfahren
+
+### 4.1.3.1 Volksinitiativen
 
 #### Art. 115
 
@@ -1290,7 +1317,7 @@ Die Motion ist ein Antrag, durch den der Staatsrat verpflichtet wird, einen Entw
 
 **Verfassungsinitiative in Form der allgemeinen Anregung**
 
-Die Verfassungsinitiative in Form der allgemeinen Anregung wird mit einer Vormeinung des Grossen Rates, die in einer einzigen Beratung angenommen wird, dem Volk zur Abstimmung unterbreitet.
+<sup>1</sup> Die Verfassungsinitiative in Form der allgemeinen Anregung wird mit einer Vormeinung des Grossen Rates, die in einer einzigen Beratung angenommen wird, dem Volk zur Abstimmung unterbreitet.
 
 #### Art. 121
 
@@ -1302,7 +1329,7 @@ Die Verfassungsinitiative in Form der allgemeinen Anregung wird mit einer Vormei
 
 <sup>3</sup> Verwirft sie der Grosse Rat, unterbreitet er sie mit einer Stellungnahme, die in einer einzigen Beratung angenommen wird, der Volksabstimmung.
 
-<sup>4</sup> Stimmt er einer Einheitsinitiative mit weniger als 6000 Unterschriften nicht zu, kann der Grosse Rat sie ungültig erklären, wenn die Initiative weder auf Gesetzesebene noch durch einen Verwaltungsakt ohne Verletzung von der Kantonsverfassung verwirklicht werden kann.
+<sup>4</sup> Stimmt er einer Einheitsinitiative mit weniger als 6'000 Unterschriften nicht zu, kann der Grosse Rat sie ungültig erklären, wenn die Initiative weder auf Gesetzesebene noch durch einen Verwaltungsakt ohne Verletzung von der Kantonsverfassung verwirklicht werden kann.
 
 #### Art. 122
 
@@ -1312,7 +1339,7 @@ Die Verfassungsinitiative in Form der allgemeinen Anregung wird mit einer Vormei
 
 <sup>2</sup> Hat die Initiative die Totalrevision zum Gegenstand, wird diese Frist um zwei Jahre verlängert.
 
-- b) Ausserordentliches Referendum
+### 4.1.3.2 Ausserordentliches Referendum
 
 #### Art. 123
 
@@ -1324,35 +1351,35 @@ Die Verfassungsinitiative in Form der allgemeinen Anregung wird mit einer Vormei
 
 <sup>3</sup> Der im Amtsblatt veröffentlichte positive Beschluss schliesst das Referendumsbegehren aus.
 
-- c) Rechtsausübung in Bundessachen
+### 4.1.3.3 Rechtsausübung in Bundessachen
 
 #### Art. 124
 
-<sup>4</sup> Rechte in Bundessachen
+**Rechte in Bundessachen**
 
 <sup>1</sup> Der Staatsrat mittels einer Botschaft sowie die Abgeordneten und Kommissionen auf dem Resolutionsweg können dem Grossen Rat beantragen, die in der Kantonsverfassung anerkannten Rechte in Bundessachen auszuüben.
 
 <sup>2</sup> Einer Resolution, die die Ausübung des Referendumsrechts verlangt, kommt von Rechts wegen Dringlichkeit zu.
 
-- d) Petitionen
+### 4.1.3.4 Petitionen
 
 #### Art. 125
 
 **Begriff**
 
-Petitionen sind Begehren von Behörden oder Einzelpersonen, die Vorschläge oder Kritiken beinhalten und die nicht in einer besonderen Rechtsform eingereicht werden müssen.
+<sup>1</sup> Petitionen sind Begehren von Behörden oder Einzelpersonen, die Vorschläge oder Kritiken beinhalten und die nicht in einer besonderen Rechtsform eingereicht werden müssen.
 
-- e) Begnadigungs- und Einbürgerungsgesuche
+### 4.1.3.5 Begnadigungs- und Einbürgerungsgesuche
 
 #### Art. 126
 
-<sup>3,4</sup> Begnadigungsgesuche und Einbürgerungsbegehren
+**Begnadigungsgesuche und Einbürgerungsbegehren**
 
 <sup>1</sup> Die Begnadigungsgesuche und Einbürgerungsbegehren werden gemäss der Spezialgesetzgebung in der Mai- und Novembersession behandelt.
 
 <sup>2</sup> Falls nötig und um das Einbürgerunsverfahren zu beschleunigen, können die Einbürgerungsbegehren auch anlässlich anderer Sessionen behandelt werden.
 
-### 2. Titel: Beziehungen zwischen dem Grossen Rat und den Gerichtsbehörden
+### 4.2 Beziehungen zwischen dem Grossen Rat und den Gerichtsbehörden
 
 #### Art. 127
 
@@ -1366,7 +1393,7 @@ Petitionen sind Begehren von Behörden oder Einzelpersonen, die Vorschläge oder
 
 #### Art. 128
 
-<sup>4</sup> Teilnahme in Kommissionen
+**Teilnahme in Kommissionen**
 
 <sup>1</sup> Der Präsident des Kantonsgerichts wird grundsätzlich eingeladen, mit beratender Stimme an den Verhandlungen der Kommissionen teilzunehmen, die Gegenstände und Fragen vorberaten, welche richterliche Angelegenheiten oder Behörden betreffen.
 
@@ -1376,31 +1403,28 @@ Petitionen sind Begehren von Behörden oder Einzelpersonen, die Vorschläge oder
 
 #### Art. 129
 
-<sup>5</sup>
+**…**
 
-Aufgehoben
+### 4.3 Ausübung der Oberaufsicht
 
-### 3. Titel: Ausübung der Oberaufsicht
+### 4.3.1 Ausübung der Oberaufsicht
 
-### 1. Kapitel: Ausübung der Oberaufsicht
+### 4.3.1.1 Oberaufsichtskommissionen
 
 #### Art. 130
 
 **Geschäftsprüfungs- und Finanzkommission**
 
-Im Rahmen der Ausübung der Oberaufsicht können die Geschäftsprüfungs- und die Finanzkommission namentlich:
+<sup>1</sup> Im Rahmen der Ausübung der Oberaufsicht können die Geschäftsprüfungs- und die Finanzkommission namentlich:
 
 - a) verlangen, dass der Staatsrat die Dossier herausgibt und in alle Dossier Einsicht nehmen;
-
 - b) durch ihre Sektionen Inspektionen und Besuche in der kantonalen Verwaltung vornehmen, wobei im Allgemeinen der zuständige Staatsrat vorgängig zu informieren ist;
-
 - c) selber oder durch ihre Sektionen jeden Beamten der kantonalen Verwaltung anhören, wobei der zuständige Staatsrat zu informieren ist; auf Begehren findet die Anhörung in Abwesenheit des hierarchisch Übergeordneten des Beamten oder des zuständigen Staatsrates statt;
-
 - d) vom Finanzinspektorat die für die Ausführung ihrer Aufgaben notwendigen Auskünfte verlangen und ihm Aufträge für Spezialkontrollen anvertrauen.
 
-#### Art. 130bis
+#### Art. 130a
 
-<sup>2</sup> Geschäftsprüfungskommission
+**Geschäftsprüfungskommission**
 
 <sup>1</sup> Die Geschäftsprüfungskommission überprüft die Geschäftsführung des Staatsrates. Sie prüft insbesondere die periodischen Verwaltungsberichte des Staatsrates sowie die speziellen Verwaltungsberichte, die der Grosse Rat nicht einer anderen Kommission zur Prüfung zuteilt.
 
@@ -1414,71 +1438,65 @@ Im Rahmen der Ausübung der Oberaufsicht können die Geschäftsprüfungs- und di
 
 <sup>1</sup> Im Rahmen der Ausübung der Oberaufsicht kann die Justizkommission namentlich:
 
-- a) die Vertreter der Staatsanwaltschaft und die Mitglieder der Gerichtsbehörden anhören, dies grundsätzlich nach Kontaktnahme mit dem Präsidenten des Kantonsgerichts;
-
-- b) die Herausgabe der Verwaltungsdossiers der Gerichtsbehörden verlangen und in sie Einsicht nehmen.
+- a) die Vertreter der Staatsanwaltschaft und die Mitglieder der Gerichtsbehörden und des Justizrates anhören, dies grundsätzlich nach Kontaktnahme mit dem Generalstaatsanwalt, dem Präsidenten des Kantonsgerichts und dem Präsidenten des Justizrates;
+- b) die Herausgabe der Verwaltungsdossiers der Staatsanwaltschaft, der Gerichtsbehörden und des Justizrates verlangen und in sie Einsicht nehmen.
 
 <sup>2</sup> Die Justizkommission kann die in Artikel 130 vorgesehenen Rechte ausüben.
 
 #### Art. 132
 
-<sup>1</sup> Zusammenarbeit
+**Zusammenarbeit**
 
-Die Oberaufsichtskommissionen teilen sich gegenseitig wichtige Feststel-lungen mit, die nicht in den eigenen Zuständigkeitsbereich fallen.
+<sup>1</sup> Die Oberaufsichtskommissionen teilen sich gegenseitig wichtige Feststel-lungen mit, die nicht in den eigenen Zuständigkeitsbereich fallen.
 
-- b) Parlamentarische Untersuchungskommission
+### 4.3.1.2 Parlamentarische Untersuchungskommission
 
 #### Art. 133
 
-<sup>1,5</sup> Parlamentarische Untersuchungskommission
+**Parlamentarische Untersuchungskommission**
 
 <sup>1</sup> Die Untersuchungskommission handelt im weitesten Sinne im Rahmen ihrer Untersuchungsgewalt, um die in ihre Zuständigkeit fallenden Handlungen aufzuklären. Sie kann namentlich:
 
 - a) Zeugen einvernehmen und die Herausgabe der Dossiers verlangen;
-
 - b) die Personen befragen, die aufgerufen sind, Auskünfte zu erteilen;
-
 - c) schriftliche oder mündliche Auskünfte von den Dienststellen der Verwaltung, den Behördenmitgliedern, den Beamten der kantonalen Verwaltung und Privatpersonen verlangen;
-
 - d) im Einvernehmen mit dem Präsidium Experten beiziehen, wenn der Auftrag besondere Kenntnisse erfordert;
-
-- e) die Herausgabe aller Akten der kantonalen Verwaltung und des Staatsrates sowie der Verwaltungsdossiers der Gerichtsbehörden verlangen,
-
+- e) die Herausgabe aller Akten der kantonalen Verwaltung und des Staatsrates sowie der Verwaltungsdossiers der Staatsanwaltschaft, der Gerichtsbehörden und des Justizrates verlangen;
 - f) Ortsschauen vornehmen.
 
 <sup>2</sup> Die Beweiserhebung ist überdies in der Schweizerischen Zivilprozessordnung geregelt.
 
-<sup>3</sup> Solange der Bericht nicht veröffentlicht wurde, unterliegen sämtliche Personen, die an den Sitzungen und Anhörungen teilgenommen haben, der Schweigepflicht. Die Bestimmungen über die Vertraulichkeit der Kommis-sionssitzungen gelten auch nach der Hinterlegung des Berichts.
+<sup>3</sup> Solange der Bericht nicht veröffentlicht wurde, unterliegen sämtliche Personen, die an den Sitzungen und Anhörungen teilgenommen haben, der Schweigepflicht. Die Bestimmungen über die Vertraulichkeit der Kommissionssitzungen gelten auch nach der Hinterlegung des Berichts.
 
 <sup>4</sup> Die Kommission kann während der Untersuchung beschliessen, über ihre Arbeit zu informieren.
 
 <sup>5</sup> Sollte die Kommission während der Untersuchung auf Fakten stossen, welche auf eine strafbare Handlung hinweisen, die von Amtes wegen zu verfolgen ist, so erstattet sie Anzeige.
 
-#### Art. 133bis
+#### Art. 133a
 
-<sup>1</sup> Rechte der betroffenen Personen
+**Rechte der betroffenen Personen**
 
-<sup>1</sup> Die von der Untersuchung betroffenen Personen werden von der Kommis-sion benachrichtigt.
+<sup>1</sup> Die von der Untersuchung betroffenen Personen werden von der Kommission benachrichtigt.
 
 <sup>2</sup> Die betroffenen Personen haben das Recht, an der Beweisaufnahme teilzunehmen und die Dossiers einzusehen, solange sich dies mit dem reibungslosen Ablauf der Untersuchung vereinbaren lässt. Die betroffenen Personen können sich durch einen Anwalt verbeiständen lassen.
 
 <sup>3</sup> Nach Abschluss der Untersuchungen und vor der Präsentation des Berichts werden die angeschuldigten Personen informiert. Diese haben die Gelegenheit, den sie betreffenden Teil des Entwurfs einzusehen und sich innert angemessener Frist zu äussern.
 
-#### Art. 133ter
+#### Art. 133b
 
-<sup>1</sup> Untersuchungsdossier
+**Untersuchungsdossier**
 
 <sup>1</sup> Das Untersuchungsdossier ist geheim, unter Vorbehalt einer eventuellen Zivil- oder Strafklage gegen die Kommissionsmitglieder.
 
 <sup>2</sup> Das Dossier wird während zehn Jahren aufbewahrt.
 
-### 2. Kapitel: Amtsgeheimnis
+### 4.3.2 Amtsgeheimnis
 
 #### Art. 134
 
 **Grundsatz**
 
-Soweit Abgeordnete und Mitglieder von Kommissionen sowie übrige Personen, die an Sitzungen teilnehmen, Kenntnis von Erklärungen oder von Dossiers erhalten, die im Sinne von Artikel 14 dieses Gesetzes dem Amtsgeheimnis unterliegen, sind sie durch dasselbe gebunden.
+<sup>1</sup> Soweit Abgeordnete und Mitglieder von Kommissionen sowie übrige Personen, die an Sitzungen teilnehmen, Kenntnis von Erklärungen oder von Dossiers erhalten, die im Sinne von Artikel 14 dieses Gesetzes dem Amtsgeheimnis unterliegen, sind sie durch dasselbe gebunden.
 
 #### Art. 135
 
@@ -1488,13 +1506,13 @@ Soweit Abgeordnete und Mitglieder von Kommissionen sowie übrige Personen, die a
 
 <sup>2</sup> Der Staatsrat kann anstelle der Herausgabe von Amtsakten einen besonderen Bericht erstatten, wenn dies zur Wahrung eines Amtsgeheimnisses unerlässlich ist.
 
-<sup>3</sup> Beim Begehren der Justizkommission steht die entsprechende Befugnis dem Präsidenten des Kantonsgerichts zu.
+<sup>3</sup> Der Generalstaatsanwalt respektive der Präsidenten des Kantonsgerichts und der Präsidenten des Justizrates haben dieselbe Kompetenz, falls das Begehren von der Justizkommission ausgeht.
 
 #### Art. 136
 
-<sup>1</sup> Einsichtnahme in die Akten
+**Einsichtnahme in die Akten**
 
-<sup>1</sup> Soweit es im Rahmen der Oberaufsicht notwendig ist, können die Oberaufsichtskommissionen und ihre Sektionen nach Vorliegen eines allfälligen Berichtes gemäss Artikel 135, Absatz 2 und nach Anhören des Staatsrates oder des Präsidenten des Kantonsgerichts in die dem Amtsgeheimnis unterstellten Akten Einsicht nehmen.
+<sup>1</sup> Soweit es im Rahmen der Oberaufsicht notwendig ist, können die Oberaufsichtskommissionen und ihre Sektionen nach Vorliegen eines allfälligen Berichtes gemäss Artikel 135 Absätze 2 und 3 und nach Anhören des Staatsrates, des Generalstaatsanwaltes, des Präsidenten des Kantonsgerichts oder des Präsidenten des Justizrates in die dem Amtsgeheimnis unterstellten Akten Einsicht nehmen.
 
 <sup>2</sup> Die Einsicht in solche Akten können die Behörden nicht mit dem Hinweis auf das Amtsgeheimnis verweigern.
 
@@ -1504,31 +1522,31 @@ Soweit Abgeordnete und Mitglieder von Kommissionen sowie übrige Personen, die a
 
 <sup>1</sup> Eine Entbindung vom Amtsgeheimnis nach Artikel 135 entfällt bei Begehren um Auskunft und Aktenherausgabe sowie bei Einvernahme durch die parlamentarische Untersuchungskommission.
 
-<sup>2</sup> Die parlamentarische Untersuchungskommission bestimmt nach Anhören des Staatsrates oder des Präsidenten des Kantonsgerichts, welche Aktenstücke oder Äusserungen dem Amtsgeheimnis nach Artikel 14 dieses Gesetzes unterstehen.
+<sup>2</sup> Die parlamentarische Untersuchungskommission bestimmt nach Anhören des Staatsrates, des Generalstaatsanwaltes, des Präsidenten des Kantonsgerichts oder des Präsidenten des Justizrates, welche Aktenstücke oder Äusserungen dem Amtsgeheimnis nach Artikel 14 dieses Gesetzes unterstehen.
 
-### 5. Teil: Schluss- und Übergangsbestimmungen
+## 5 Schluss- und Übergangsbestimmungen
 
-### 1. Titel: Veröffentlichung - Gesetzgebung
+### 5.1 Veröffentlichung - Gesetzgebung
 
 #### Art. 138
 
-<sup>1</sup> Veröffentlichung der Dokumente des Grossen Rates
+**Veröffentlichung der Dokumente des Grossen Rates**
 
 <sup>1</sup> Der Staatsrat organisiert die amtlichen Veröffentlichungen durch das Amtsblatt, das wöchentlich in französischer und deutscher Sprache erscheint. Er kann einen Verleger mit dieser Veröffentlichung beauftragen, wobei aber der Staat in jedem Fall Eigentümer der veröffentlichten Texte und der für ihre Veröffentlichung verwendeten Unterlagen bleibt.
 
-<sup>2</sup> Die gesetzgeberischen Erlasse gelten als bekannt und binden die Einzelpersonen nur, wenn sie im Amtsblatt veröffentlicht worden sind. Der Text der Veröffentlichung dieser Erlasse erwähnt die Zahl der für das Referendumsbegehren erforderlichen Unterschriften sowie die Referendumsfrist.
+<sup>2</sup> Die Veröffentlichung der gesetzgeberischen Erlasse erfolgt zentral über eine Online-Plattform, die auf der offiziellen Website des Kantons Wallis öffentlich zugänglich ist (Publikationsplattform). Sie gelten nur dann als bekannt und verbindlich, wenn sie in der amtlichen Gesetzessammlung des Kantons Wallis auf der Publikationsplattform veröffentlicht worden sind. Im Text der Veröffentlichung dieser Erlasse werden die Zahl der für ein Referendumsbegehren erforderlichen Unterschriften sowie die Referendumsfrist erwähnt.
 
 <sup>3</sup> Die anderen Beschlüsse des Grossen Rates sowie das Ergebnis der Wahlen und Ernennungen werden entweder im Amtsblatt oder im Memorial des Grossen Rates veröffentlicht. Im Einvernehmen mit dem Staatsrat entscheidet das Präsidium darüber.
 
 #### Art. 139
 
-<sup>1</sup> Gesetzessammlung
+**Kantonale Gesetzessammlungen**
 
-<sup>1</sup> Der Staat gibt jedes Jahr die Sammlung der kantonalen Gesetzgebung, der wichtigen Erlasse des Grossen Rates sowie die Beschlüsse des Staatsrates, die im vergangenen Jahr veröffentlicht worden sind, heraus.
+<sup>1</sup> Der Staatsrat erlässt die Modalitäten für die Online-Veröffentlichung (Publikationsplattform) der kantonalen Gesetzessammlungen auf dem Reglementsweg.
 
-<sup>2</sup> Er gibt auch eine nach Sachgebieten angeordnete Sammlung der in Kraft befindlichen und im Amtsblatt veröffentlichten gesetzgeberischen Erlasse heraus; diese systematische Sammlung wird regelmässig von der Staatskanzlei nachgeführt.
+<sup>2</sup> …
 
-<sup>3</sup> Beim Neudruck von Gesetzestexten ist die Staatskanzlei befugt, die zum Zeitpunkt des Drucks geltende neue Bezeichnung der Gesetzesgrundlagen sowie die vom Staatsrat angenommene neue Benennung der Verwaltungs-einheiten in die bestehenden Texte einzufügen.
+<sup>3</sup> …
 
 #### Art. 140
 
@@ -1542,9 +1560,9 @@ Soweit Abgeordnete und Mitglieder von Kommissionen sowie übrige Personen, die a
 
 **Reglement**
 
-Der Staatsrat erlässt auf dem Reglementsweg alle anderen Vorschriften über die amtlichen Veröffentlichungen und die kantonalen Gesetzgebungs- und Verwaltungsakte.
+<sup>1</sup> Der Staatsrat erlässt auf dem Reglementsweg alle anderen Vorschriften über die amtlichen Veröffentlichungen und die kantonalen Gesetzgebungs- und Verwaltungsakte.
 
-### 2. Titel: Anpassung des Rechts
+### 5.2 Anpassung des Rechts
 
 #### Art. 142
 
@@ -1552,35 +1570,18 @@ Der Staatsrat erlässt auf dem Reglementsweg alle anderen Vorschriften über die
 
 <sup>1</sup> Mit seinem Inkrafttreten sind alle bestehenden Bestimmungen, die diesem Gesetz widersprechen, aufgehoben, namentlich:
 
-- a) Artikel 77 des Gesetzes vom 17. Mai 1972 über die Wahlen und Abstimmungen;
-
-- b) Artikel 39, Absatz 2, 41, 42 und 43 des Gesetzes vom 24. Juni 1980 über die Geschäftsführung und den Finanzhaushalt des Kantons Wallis und deren Kontrolle.
+- a) Artikel 77 des Gesetzes über die Wahlen und Abstimmungen vom 17. Mai 1972;
+- b) Artikel 39 Absatz 2, 41, 42 und 43 des Gesetzes über die Geschäftsführung und den Finanzhaushalt des Kantons Wallis und deren Kontrolle vom 24. Juni 1980.
 
 <sup>2</sup> Dieses Gesetz tritt an die Stelle der Bestimmungen, die es aufhebt und auf die sich die in Kraft befindliche Gesetzgebung bezieht.
 
-<sup>3</sup> Abgeändert wird ferner das Einführungsgesetz vom 16. Mai 1990 zum Schweizerischen Strafgesetzbuch:
-
-#### Artikel 16
-
-:
-
-Absatz 1 Buchstabe e: die Justizkommission.
-
-Absatz 2 Buchstabe c: die Justizkommission.
-
-#### Artikel 23
-
-:
-
-Absatz 1: aufgehoben.
-
-Absatz 2: Die Justizkommission hat namentlich zur Aufgabe:
+<sup>3</sup> Abgeändert wird ferner das Einführungsgesetz zum Schweizerischen Strafgesetzbuch vom 16. Mai 1990.
 
 #### Art. 143
 
 **Anwendung des neuen Rechts**
 
-Die bei Inkrafttreten dieses Gesetzes bereits ernannten Kommissionen bleiben bestehen. Die neuen Kommissionen werden anlässlich der ersten Session, die dem Inkrafttreten dieses Gesetzes folgt, ernannt und ersetzen gegebenenfalls die bestehenden Kommissionen.
+<sup>1</sup> Die bei Inkrafttreten dieses Gesetzes bereits ernannten Kommissionen bleiben bestehen. Die neuen Kommissionen werden anlässlich der ersten Session, die dem Inkrafttreten dieses Gesetzes folgt, ernannt und ersetzen gegebenenfalls die bestehenden Kommissionen.
 
 #### Art. 144
 
@@ -1598,28 +1599,4 @@ Die bei Inkrafttreten dieses Gesetzes bereits ernannten Kommissionen bleiben bes
 
 <sup>2</sup> Der Staatsrat legt das Datum des Inkrafttretens dieses Gesetzes gleichzeitig mit jenem des an das neue Recht angepassten Reglements des Grossen Rates fest.
 
-So angenommen in zweiter Lesung im Grossen Rate zu Sitten, den 28. März 1996.
-
-Der Präsident des Grossen Rates: Jean-René Fournier Die Schriftführer: Herbert Marty, Florian Boisset
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Gesetz über die Organisation der Räte und GS/VS 1997, 8 01.03.1997 die Beziehungen zwischen den Gewalten
-
-### (GORBG) vom 28. März 1996
-
-den Bevölkerungsschutz und die Bewältigung Abl. Nr. 52/2013 von besonderen und ausserordentlichen Lagen vom 15. Februar 2013, Art. 45)
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 28. Juni 2001: n.: Art. 70bis, Abl. Nr.33/2001 01.05.2002
-- [71] bis, 133bis, 133ter; n.W.: Art. 2, 12, 16, 18,
-- [24] bis 27, 31, 32, 49, 50, 57, 62 bis 64, 69, 97, 102, 113, 132, 133, 136, 138, 139.
-- [2] Änderung vom 15. Dezember 2004: a.: Art. GS/VS 2005, 45 1.5.2005 97, 98; n.: Art. 130bis; n.W.: Art. 26, 96
-- [3] Änderung vom 12. September 2007: n.W.: GS/VS 2008, 9 1.1.2008 Art. 126
-- [4] Änderung vom 9. Oktober 2008: n.: Art. GS/VS 2009, 62 1.3.2009
-- [51] bis, 77bis n.W.: Art. 7, 12, 15, 18, 35, 44, 54-56, 62-64, 66, 67, 71, 71bis, 99, 100, 103, 104, 106, 110, 114, 124, 126, 128
-- [5] Änderung vom 11. Februar 2009: a.: Art. 3; Abl. Nr. 13/2009 1.1.2011 n.W.: Art. 129, 133
-- [6] Änderung vom 16. Juni 2010: n.W.: Art. 100 Abl. Nr. 28/2010 1.1.2011 a.: aufgehoben; n.: neu; n.W: neuer Wortlaut
-- [7] Änderung vom 15. Februar 2013 (Gesetz über Abl. Nr. 9/2013, 01.01.2014
-- [8] Änderung vom 12. März 2014 (Dekret über Abl. Nr. 15/2014, 01.01.2015 die erste Phase der Prüfung der Aufgaben und Abl. Nr. 41/2014 Strukturen des Staates vom 12. März 2014 (PAS 1), Ziff. 1)
+CSW RO/AGS 1997 f 7, 266 | d 8, 275
