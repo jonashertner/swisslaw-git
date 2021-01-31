@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 15. Juni 2018 über die Finanzinstitute (Finanzinstitut
 short: FINIG
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: de
-version: 2020-02-18
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20200218/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20200218-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/de"
 
 (Finanzinstitutsgesetz, FINIG)
 
-vom 15. Juni 2018 (Stand am 18. Februar 2020)
+vom 15. Juni 2018 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -218,13 +218,12 @@ Ein Finanzinstitut erstattet der FINMA Meldung, bevor es:
 
 #### Art. 16
 
-**Ombudsstelle**
+**Ombudsstelle**[^16-1]
 
-<sup>1</sup> Finanzinstitute müssen sich spätestens mit Aufnahme ihrer Tätigkeit einer Ombudsstelle anschliessen.
+Finanzinstitute, die nicht ausschliesslich gegenüber institutionellen oder professionellen Kunden nach Artikel 4 Absätze 3 und 4 des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^16-2] (FIDLEG) Finanzdienstleistungen nach Artikel 3 Buchstabe c FIDLEG erbringen, müssen sich spätestens mit Aufnahme ihrer Tätigkeit einer Ombudsstelle nach den Bestimmungen des 5. Titels FIDLEG anschliessen.
 
-<sup>2</sup> Die Bestimmungen des 5. Titels des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^16-1] (FIDLEG) über die Ombudsstellen gelten sinngemäss.
-
-[^16-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Fassung gemäss Ziff. I 7 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## 2. Kapitel: Finanzinstitute
 
@@ -894,7 +893,7 @@ Die Aufhebung und die Änderung anderer Erlasse werden im Anhang geregelt.
 
 **Koordination mit der Änderung des Geldwäschereigesetzes im Rahmen des Geldspielgesetzes vom 29. September 2017**[^74a-1]
 
-…[^74a-2]
+...[^74a-2]
 
 [^74a-1]: Eingefügt durch Berichtigung der RedK der BVers vom 24. Sept. 2019 ([AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)).
 [^74a-2]: Die Koordinationsbestimmungen können unter [AS 2019 5065](https://fedlex.data.admin.ch/eli/oc/2019/803)und [AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)konsultiert werden. Berichtigung der RedK der BVers vom 31. Jan. 2020, veröffentlicht am 18. Febr. 2020 ([AS 2020 501](https://fedlex.data.admin.ch/eli/oc/2020/91)).
@@ -945,7 +944,7 @@ II
 
 Die folgenden Erlasse werden wie folgt geändert:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Anhang Ziff. II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Anhang Ziff. 16, [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Anhang Ziff. 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Anhang Ziff. 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)Ziff. I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Anhang Ziff. 11]
 [^annexu1-lvlu1-2]: Die Änderungen können unter [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801)konsultiert werden.

@@ -4,11 +4,11 @@ title: Loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin)
 short: LEFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: fr
-version: 2020-02-18
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20200218/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20200218-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/fr"
 
 (LEFin)[^t-1]\*
 
-du 15 juin 2018 (Etat le 18 février 2020)
+du 15 juin 2018 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -220,13 +220,12 @@ Un établissement financier informe la FINMA au préalable lorsqu’il entend:
 
 #### Art. 16
 
-**Organe de médiation**
+**Organe de médiation**[^16-1]
 
-<sup>1</sup> Les établissements financiers doivent être affiliés à un organe de médiation au plus tard au moment où ils commencent leur activité.
+Les établissements financiers qui ne fournissent pas de services financiers, tels qu’ils sont définis à l’art. 3, let. c, de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^16-2], exclusivement à des clients institutionnels ou à des clients professionnels au sens de l’art. 4, al. 3, et 4, LSFin doivent être affiliés à un organe de médiation au sens des dispositions du titre 5 LSFin au plus tard au moment où ils commencent leur activité.
 
-<sup>2</sup> Les dispositions du titre 5 de la loi fédérale du 15 juin 2018 sur les services financiers (LSFin)[^16-1] relatives aux organes de médiation s’appliquent par analogie.
-
-[^16-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Nouvelle teneur selon le ch. I 7 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## Chapitre 2 Établissements financiers
 

@@ -4,11 +4,11 @@ title: "Federal Act of 15 June 2018 on Financial Institutions (Financial Institu
 short: FinIA
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: en
-version: 2020-02-18
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20200218/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20200218-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Financial Institutions Act, FinIA)
 
-of 15 June 2018 (Status as of 18 February 2020)
+of 15 June 2018 (Status as of 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -220,13 +220,12 @@ A financial institution must notify FINMA before:
 
 #### Art. 16
 
-**Ombudsman's office**
+**Ombudsman**[^16-1]
 
-<sup>1</sup> Financial institutions must affiliate to an ombudsman's office at the latest on assuming their activity.
+Financial institutions that provide financial services under Article 3 letter c of the Financial Services Act of 15 June 2018[^16-2] (FinSA) must affiliate to an ombudsman as stipulated in the provisions of Title 5 of the FinSA at the latest on assuming their activity.
 
-<sup>2</sup> The provisions of Title 5 of the Financial Services Act of 15 June 2018[^16-1] (FinSA) on ombudsman's offices apply by analogy.
-
-[^16-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Amended by No I 7 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## Chapter 2 Financial Institutions
 
@@ -309,7 +308,7 @@ Portfolio managers and trustees may also provide the following services in parti
 
 <sup>1</sup> Portfolio managers and trustees must have sufficient own funds.
 
-<sup>2</sup> Own funds must at all times amount to at least one quarter of the fixed assets reported in the most recent annual financial statement and no more than CHF 10 million.
+<sup>2</sup> Own funds must at all times amount to at least one quarter of the fixed costs reported in the most recent annual financial statement and no more than CHF 10 million.
 
 ### Section 2 Managers of Collective Assets
 
@@ -950,4 +949,4 @@ The legislative instruments below are amended as follows:
 ...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1997 68](https://fedlex.data.admin.ch/eli/oc/1997/68_68_68)[2044](https://fedlex.data.admin.ch/eli/oc/1997/2044_2044_2044), [2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734)Annex No II 7, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 146, [2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)Annex No 16, [2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810)Annex No 8, [2013 1103](https://fedlex.data.admin.ch/eli/oc/2013/250), [2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685)Annex No 6, [2015 1535](https://fedlex.data.admin.ch/eli/oc/2015/304)No I 3 [5339](https://fedlex.data.admin.ch/eli/oc/2015/853)Annex No 11]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801)..
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801).

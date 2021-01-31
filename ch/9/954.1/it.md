@@ -4,11 +4,11 @@ title: "Legge federale del 15 giugno 2018 sugli istituti finanziari (Legge sugli
 short: LIsFi
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: it
-version: 2020-02-18
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20200218/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20200218-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/it"
 
 (Legge sugli istituti finanziari, LIsFi)
 
-del 15 giugno 2018 (Stato 18 febbraio 2020)
+del 15 giugno 2018 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -218,13 +218,12 @@ L’istituto finanziario effettua una comunicazione alla FINMA prima di:
 
 #### Art. 16
 
-**Organo di mediazione**
+**Organo di mediazione**[^16-1]
 
-<sup>1</sup> Al più tardi all’inizio della loro attività gli istituti finanziari devono affiliarsi a un organo di mediazione.
+Al più tardi all’inizio della loro attività, gli istituti finanziari che forniscono servizi finanziari secondo l’articolo 3 lettera c della legge del 15 giugno 2018[^16-2] sui servizi finanziari (LSerFi) devono affiliarsi a un organo di mediazione secondo le disposizioni contenute nel titolo quinto della LSerFi; sono eccettuati da tale obbligo gli istituti finanziari che forniscono tali servizi unicamente a clienti professionali o istituzionali ai sensi dell’articolo 4 capoversi 3 e 4 LSerFi.
 
-<sup>2</sup> Si applicano per analogia le disposizioni concernenti gli organi di mediazione del titolo quinto della legge del 15 giugno 2018[^16-1] sui servizi finanziari (LSerFi).
-
-[^16-1]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Nuovo testo giusta il n. I 7 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [RS 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## Capitolo 2: Istituti finanziari
 

@@ -4,11 +4,11 @@ title: "Lescha federala dals 15 da zercladur 2018 davart ils instituts da finanz
 short: LIFin
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/801"
 language: rm
-version: 2020-02-18
+version: 2021-02-01
 adopted: 2018-06-15
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20200218/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20200218-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20200218/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/801/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-2018-801-20210201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/801/20210201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart ils instituts da finanzas, LIFin)
 
-dals 15 da zercladur 2018 (versiun dal 18 da favrer 2020)
+dals 15 da zercladur 2018 (versiun dal 1. da favrer 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -68,7 +68,7 @@ A questa lescha n’èn betg suttamess:
 - f. instituziuns da provediment ed ulteriuras instituziuns che servan tenor lur intent al provediment professiunal (instituziuns da provediment), fundaziuns da patruns (fonds da provediment da patruns), patruns che administreschan la facultad da lur instituziuns da provediment sco er federaziuns da patruns e federaziuns da lavurants che administreschan la facultad da las instituziuns da lur federaziun;
 - g. instituziuns da l’assicuranza sociala e cassas da cumpensaziun;
 - h. interpresas d’assicuranza en il senn da la Lescha dals 17 da december 2004[^2-3] davart la surveglianza da las assicuranzas;
-- i. instituziuns d’assicuranza da dretg public tenor l’artitgel 67 alinea 1 da la Lescha federala dals 25 da zercladur 1982[^2-4] davart la prevenziun professiunala per vegls, survivents ed invaliditad;
+- i. instituziuns d’assicuranza da dretg public tenor l’artitgel 67 alinea 1 da la Lescha federala dals 25 da zercladur 1982[^2-4] davart la provediment professiunal per vegls, survivents ed invaliditad;
 - j. bancas en il senn da la Lescha da bancas dals 8 da november 1934[^2-5] (LB).
 
 [^2-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
@@ -220,13 +220,12 @@ In institut da finanzas fa in’annunzia a la FINMA avant ch’el:
 
 #### Art. 16
 
-**Servetsch da mediaziun**
+**Servetsch da mediaziun**[^16-1]
 
-<sup>1</sup> Instituts da finanzas ston – il pli tard cur ch’els cumenzan cun lur activitad – s’affiliar ad in servetsch da mediaziun.
+Instituts da finanzas che na furneschan betg prestaziuns finanzialas tenor l’artitgel 3 litera c da la Lescha federala dals 15 da zercladur 2018[^16-2] davart ils servetschs finanziars (LSFin) exclusivamain a clients instituziunals u professiunals tenor l’artitgel 4 alineas 3 e 4 LSFin, ston s’affiliar ad in servetsch da mediaziun tenor las disposiziuns dal 5. titel LSFin il pli tard, cur ch’els cumenzan cun lur activitad.
 
-<sup>2</sup> Las disposiziuns dal 5. titel da la Lescha federala dals 15 da zercladur 2018[^16-1] davart ils servetschs finanziars (LSFin) che concernan ils servetschs da mediaziun valan tenor il senn.
-
-[^16-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^16-1]: Versiun tenor la cifra I 7 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^16-2]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
 
 ## 2. chapitel Instituts da finanzas
 
