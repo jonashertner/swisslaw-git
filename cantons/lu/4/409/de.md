@@ -3,20 +3,20 @@ canton: LU
 number: "409"
 title: Verordnung über die Sonderschulung
 language: de
-version: 2020-01-01
-valid_until: 2021-01-31
-version_adopted: 2020-01-07
+version: 2021-02-01
+valid_until: 2022-07-31
+version_adopted: 2020-12-15
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/409"
-pdf: "https://srl.lu.ch/api/de/versions/3542/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3699/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sonderschulung
 
-vom 11.12.2007 (Stand 01.01.2020)
+vom 11.12.2007 (Stand 01.02.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -55,17 +55,17 @@ beschliesst:
 
 **Schulort**
 
-<sup>1</sup> Die Lernenden der Sonderschulen haben die ihrer Behinderung am besten entsprechende Einrichtung zu besuchen, sofern sie nicht in ihrer Wohngemeinde integrativ geschult werden können. Werden für eine Behinderung mehrere Schulen geführt, haben sie die entsprechende Einrichtung ihres Kreises zu besuchen.
+<sup>1</sup> Die Lernenden der Sonderschulen haben die ihrer Behinderung am besten entsprechende Einrichtung zu besuchen, sofern sie nicht in ihrer Wohngemeinde integrativ geschult werden können. Werden für einen Behinderungsbereich mehrere Schulen geführt, haben sie die entsprechende Einrichtung ihres Kreises zu besuchen.
 
-<sup>2</sup> Bei mehrfacher Behinderung werden die Lernenden in jene Einrichtung aufgenommen, die der dominanten Behinderung am besten entspricht.
+<sup>2</sup> Bei mehrfacher Behinderung werden die Lernenden jener Einrichtung zugewiesen, die der dominanten Behinderung am besten entspricht.
 
 #### § 4
 
-**Ausserkantonale Platzierung**
+**Ausserkantonale Zuweisung**
 
-<sup>1</sup> Steht behinderten Lernenden im Kanton Luzern keine geeignete Sonderschule zur Verfügung, wird eine ausserkantonale Platzierung vorgenommen.
+<sup>1</sup> Steht Lernenden mit Behinderung im Kanton Luzern keine geeignete Sonderschule zur Verfügung, werden sie einer Sonderschule in einem anderen Kanton zugewiesen.
 
-<sup>2</sup> Die Dienststelle Volksschulbildung entscheidet über die Platzierung.
+<sup>2</sup> Die Dienststelle Volksschulbildung entscheidet über die Zuweisung.
 
 #### § 5
 
@@ -93,35 +93,35 @@ beschliesst:
 
 #### § 8
 
-**Sonderschulung bei geistiger (kognitiver) Behinderung**
+**Sonderschulung bei Behinderung im Bereich kognitive Entwicklung**
 
-<sup>1</sup> Die Sonderschulung bei geistiger (kognitiver) Behinderung ist für Lernende bestimmt, die in ihrer geistig-emotionalen Gesamtentwicklung und in ihrer Lernfähigkeit so beeinträchtigt sind, dass sie den Anforderungen der Regelklassen nicht gewachsen sind.
+<sup>1</sup> Die Sonderschulung bei Behinderung im Bereich kognitive Entwicklung ist für Lernende bestimmt, die in ihrer geistig-emotionalen Gesamtentwicklung und in ihrer Lernfähigkeit so beeinträchtigt sind, dass sie den Anforderungen der Regelklassen nicht gewachsen sind.
 
-<sup>2</sup> Es werden schulbildungsfähige, praktisch bildungsfähige und schwer mehrfachbehinderte Lernende aufgenommen.
+<sup>2</sup> Es wird zwischen schulischem Schwerpunkt, praktischem Schwerpunkt und komplexem Bedarf unterschieden.
 
 #### § 9
 
-**Sonderschulung bei körperlicher Behinderung**
+**Sonderschulung bei Behinderung im Bereich Körper, Motorik und Gesundheit**
 
-<sup>1</sup> Die Sonderschulung bei körperlicher Behinderung ist für Lernende bestimmt, die wegen ihrer körperlichen Behinderung den Unterricht in einer Regelklasse nicht besuchen können.
+<sup>1</sup> Die Sonderschulung bei Behinderung im Bereich Körper, Motorik und Gesundheit ist für Lernende bestimmt, die wegen ihrer körperlichen Behinderung, wegen schwerwiegender motorischer oder wegen gesundheitlicher Einschränkungen den Unterricht in einer Regelklasse nicht besuchen können.
 
 #### § 10
 
-**Sonderschulung bei Sinnesbehinderung**
+**Sonderschulung bei Behinderung in den Bereichen Hören und Sehen**
 
-<sup>1</sup> Die Sonderschulung bei Sinnesbehinderung ist für Lernende bestimmt, die wegen ihrer Sinnesbehinderung den Unterricht in der Regelklasse nicht besuchen können.
+<sup>1</sup> Die Sonderschulung bei Behinderung in den Bereichen Hören und Sehen ist für Lernende bestimmt, die wegen Beeinträchtigungen des Hörens oder des Sehens den Unterricht in der Regelklasse nicht besuchen können.
 
 #### § 11
 
-**Sonderschulung bei Sprachbehinderung**
+**Sonderschulung bei Behinderung im Bereich Sprachentwicklung**
 
-<sup>1</sup> Die Sonderschulung bei Sprachbehinderung ist für Lernende bestimmt, die vorübergehend oder dauernd in ihrer mündlichen oder schriftlichen Mitteilungs- und Ausdrucksfähigkeit oder in ihrem Sprachverständnis so beeinträchtigt sind, dass sie durch eine ambulante Therapie nicht genügend gefördert werden können.
+<sup>1</sup> Die Sonderschulung bei Behinderung im Bereich Sprachentwicklung ist für Lernende bestimmt, die vorübergehend oder dauernd in ihrer mündlichen oder schriftlichen Mitteilungs- und Ausdrucksfähigkeit oder in ihrem Sprachverständnis so beeinträchtigt sind, dass sie mit logopädischen Massnahmen im Rahmen der Regelschule nicht ausreichend gefördert werden können.
 
 #### § 12
 
-**Sonderschulung bei Verhaltensbehinderung**
+**Sonderschulung bei Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung**
 
-<sup>1</sup> Die Sonderschulung bei Verhaltensbehinderung ist für Lernende bestimmt, die in der Lern- und Sozialentwicklung und im Verhalten vorübergehend oder dauernd so beeinträchtigt sind, dass sie den Unterricht in der Regelklasse nicht besuchen können.
+<sup>1</sup> Die Sonderschulung bei Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung ist für Lernende bestimmt, die in ihrem Verhalten oder in ihrer sozio-emotionalen Entwicklung vorübergehend oder dauernd so beeinträchtigt sind, dass sie den Unterricht in der Regelklasse nicht besuchen können.
 
 #### § 13
 
@@ -139,6 +139,8 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>3</sup> Die Regelschulen werden durch die Fachstelle für Früherziehung und Integrative Sonderschulung oder durch Fachdienste privater Einrichtungen beraten und unterstützt.
+
 #### § 14a
 
 **Präventive Massnahmen**
@@ -149,7 +151,7 @@ beschliesst:
 
 **Heilpädagogische Früherziehung**
 
-<sup>1</sup> Heilpädagogische Früherziehung dient der Frühförderung von Kindern mit einer bestehenden oder drohenden Behinderung von Geburt bis zum Eintritt in den Kindergarten beziehungsweise die Basisstufe. Zur Förderung und Unterstützung sinnesbehinderter Kinder bestehen spezialisierte Angebote.
+<sup>1</sup> Heilpädagogische Früherziehung dient der Frühförderung von Kindern mit einer bestehenden oder drohenden Behinderung von Geburt bis zum Eintritt in den Kindergarten beziehungsweise in die Basisstufe. Die heilpädagogische Früherziehung sowie die Förderung und Unterstützung von Kindern mit Behinderung in den Bereichen Hören und Sehen werden von der Fachstelle für Früherziehung und Integrative Sonderschulung angeboten.
 
 <sup>2</sup> …
 
@@ -159,21 +161,21 @@ beschliesst:
 
 #### § 16
 
-**Sonderschulen für Lernende mit geistiger Behinderung**
+**Sonderschulen für Lernende mit Behinderung im Bereich kognitive Entwicklung**
 
-<sup>1</sup> Zur Schulung von Lernenden mit einer geistigen Behinderung bestehen die heilpädagogischen Tagesschulen Luzern, Sursee und Willisau sowie die heilpädagogischen Zentren Hohenrain und Schüpfheim.
+<sup>1</sup> Zur Schulung von Lernenden mit Behinderung im Bereich kognitive Entwicklung bestehen die heilpädagogischen Tagesschulen Luzern, Sursee und Willisau sowie die heilpädagogischen Zentren Hohenrain und Schüpfheim.
 
 <sup>2</sup> Die Lernenden werden den Sonderschulen gemäss den vom Regierungsrat festgelegten Schulkreisen zugeteilt.
 
 #### § 17
 
-**Sonderschule für Lernende mit einer Verhaltensbehinderung**
+**Sonderschulen für Lernende mit Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung**
 
-<sup>1</sup> Für verhaltensbehinderte Lernende bestehen Sonderschulen in der Stiftung Schule und Wohnen Mariazell, Sursee, in der Stiftung Schul- und Wohnzentrum, Malters, und in der Stiftung Villa Erica, Nebikon.
+<sup>1</sup> Für Lernende mit Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung bestehen Sonderschulen in der Stiftung Schule und Wohnen Mariazell, Sursee, in der Stiftung Schul- und Wohnzentrum, Malters, in der Stiftung Villa Erica, Nebikon, in der Stiftung Jugenddorf St. Georg, Knutwil, im Therapieheim Sonnenblick, Kastanienbaum, und in der Jugendhilfe-Netzwerk Integration AG in Escholzmatt.
 
-<sup>2</sup> Weitere Sonderschulen für psychisch- und verhaltensbehinderte Lernende können bei Bedarf anerkannt werden.
+<sup>2</sup> Weitere Sonderschulen für Lernende mit Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung sowie mit psychischen Erkrankungen können bei Bedarf anerkannt werden.
 
-<sup>3</sup> Im Einzelfall können verhaltensbehinderte Lernende auch in Regelklassen von privaten Schulen geschult werden.
+<sup>3</sup> Im Einzelfall können Lernende mit Behinderung im Bereich Verhalten und sozio-emotionale Entwicklung auch in Regelklassen von privaten Schulen geschult werden.
 
 #### § 18
 
@@ -181,17 +183,19 @@ beschliesst:
 
 <sup>1</sup> ...
 
-<sup>2</sup> Lernende mit einer Sprachbehinderung werden durch die Sprachheilschule Mariazell oder das Heilpädagogische Zentrum Hohenrain geschult.
+<sup>2</sup> Lernende mit Behinderung im Bereich Sprachentwicklung werden durch die Sprachheilschule Mariazell oder das Heilpädagogische Zentrum Hohenrain geschult.
 
 <sup>3</sup> …
 
-<sup>4</sup> Körperbehinderte Lernende werden in der Sonderschule der «Rodtegg Stiftung für Menschen mit körperlicher Behinderung», Luzern, geschult.
+<sup>4</sup> Lernende mit Behinderung im Bereich Körper, Motorik und Gesundheit werden in der Sonderschule der «Rodtegg Stiftung für Menschen mit körperlicher Behinderung», Luzern, geschult.
 
 #### § 18a
 
-**Fachstelle für Früherziehung und Sinnesbehinderungen**
+**Fachstelle für Früherziehung und Integrative Sonderschulung**
 
-<sup>1</sup> Die Fachstelle für Früherziehung und Sinnesbehinderungen bietet heilpädagogische Früherziehung und Beratung von Lernenden mit Sinnesbehinderungen an.
+<sup>1</sup> Die Fachstelle für Früherziehung und Integrative Sonderschulung bietet heilpädagogische Früherziehung und behinderungsspezifische Beratung in der integrativen Sonderschulung an.
+
+<sup>2</sup> Sie besteht aus dem Heilpädagogischen Früherziehungsdienst, dem Audiopädagogischen Dienst, dem Visiopädagogischen Dienst, dem Fachdienst Autismus und dem Fachdienst Integrative Sonderschulung (Bereich kognitive Entwicklung).
 
 ## 4 Abklärung
 
@@ -229,15 +233,15 @@ beschliesst:
 
 **Klassenbestände**
 
-<sup>1</sup> Die durchschnittliche Zahl der Lernenden pro Klasse beträgt bei Lernenden mit
+<sup>1</sup> Die durchschnittliche Zahl der Lernenden pro Klasse beträgt bei Lernenden mit Behinderung im Bereich
 
-- a. geistiger Behinderung, bei Schulbildungsfähigkeit — 6
-- b. geistiger Behinderung, bei praktischer Bildungsfähigkeit — 5
-- c. geistiger Behinderung, bei gemischten Klassen von Praktisch- bildungsfähigen und schwer Mehrfachbehinderten — 4
-- d. Körperbehinderung — 5
+- a. kognitive Entwicklung, schulischer Schwerpunkt — 6
+- b. kognitive Entwicklung, praktischer Schwerpunkt — 5
+- c. kognitive Entwicklung, komplexer Bedarf — 4
+- d. Körper, Motorik und Gesundheit — 5
 - e. …
-- f. Sprachbehinderung — 10
-- g. Verhaltensbehinderung — 8
+- f. Sprachentwicklung — 10
+- g. Verhalten und sozio-emotionale Entwicklung — 8
 
 <sup>2</sup> Die zuständige Schulleitung kann die Zahl der Lernenden für die einzelnen Klassen je nach Schweregrad der Behinderung, notwendigem Betreuungs- und Förderaufwand und Organisation der Lerngruppen unter der Bedingung reduzieren oder erhöhen, dass die durchschnittliche Klassengrösse innerhalb der Institution eingehalten wird.
 
@@ -247,28 +251,28 @@ beschliesst:
 
 **Verfügbare Lektionen**
 
-<sup>1</sup> Für die Klassenbildung wird je Lernende oder Lernenden maximal folgende Lektionenzahl zur Verfügung gestellt:
+<sup>1</sup> Für die Klassenbildung wird je Lernenden oder Lernende mit Behinderung maximal folgende Lektionenzahl zur Verfügung gestellt:
 
-- a. bei geistiger Behinderung, bei Schulbildungsfähigkeit
+- a. im Bereich kognitive Entwicklung, schulischer Schwerpunkt
   - 1\. Kindergarten — 5,7
   - 2\. Basisstufe / Primarschule — 6,3
   - 3\. Sekundarschule — 7,3
-- b. bei geistiger Behinderung, bei praktischer Bildungsfähigkeit
+- b. im Bereich kognitive Entwicklung, praktischer Schwerpunkt
   - 1\. Kindergarten — 7,4
   - 2\. Basisstufe / Primarschule — 8,1
   - 3\. Sekundarschule — 9,7
-- c. bei geistiger Behinderung, bei schwerer mehrfacher Behinderung
+- c. im Bereich kognitive Entwicklung, komplexer Bedarf
   - 1\. Kindergarten — 12,2
   - 2\. Basisstufe / Primarschule — 12,8
   - 3\. Sekundarschule — 13,7
-- d. bei Körperbehinderung
+- d. im Bereich Körper, Motorik und Gesundheit
   - 1\. Kindergarten — 7,2
   - 2\. Basisstufe / Primarschule — 9,0
   - 3\. Sekundarschule — 10,5
-- e. bei Sprachbehinderung
+- e. im Bereich Sprachentwicklung
   - 1\. Basisstufe / Primarschule — 6,1
   - 2\. Sekundarschule — 7,6
-- f. bei Verhaltensbehinderung
+- f. im Bereich Verhalten und sozio-emotionale Entwicklung
   - 1\. Basisstufe / Primarschule — 6,1
   - 2\. Sekundarschule — 7,4
 
@@ -290,13 +294,13 @@ beschliesst:
 
 **Bestimmung der notwendigen Mittel**
 
-<sup>1</sup> Die Dienststelle Volksschulbildung legt die für die integrative sonderpädagogische Förderung notwendigen Massnahmen fest und bestimmt im Rahmen von § 25 die notwendigen Mittel.
+<sup>1</sup> Die Dienststelle Volksschulbildung legt die für die integrative Sonderschulung notwendigen Massnahmen fest und bestimmt im Rahmen von § 25 die notwendigen Mittel.
 
 #### § 25
 
 **Voraussetzungen bei Regelklassen**
 
-<sup>1</sup> Regelklassen, in denen ein Kind mit einer geistigen Behinderung oder einer Verhaltensbehinderung integrativ geschult wird, dürfen nicht mehr als 18 Lernende, in den Basisstufenklassen nicht mehr als 20 Lernende, umfassen. Regelklassen in denen ein Kind mit einer Körper-, Sprach- oder Sinnesbehinderung integrativ geschult wird, dürfen nicht mehr als 20 Lernende, in den Basisstufenklassen nicht mehr als 22 Lernende, umfassen.
+<sup>1</sup> Regelklassen, in denen ein Kind mit Behinderung im Bereich kognitive Entwicklung oder im Bereich Verhalten und sozio-emotionale Entwicklung integrativ geschult wird, dürfen nicht mehr als 18 Lernende, in den Basisstufenklassen nicht mehr als 20 Lernende, umfassen. Regelklassen, in denen ein Kind mit Behinderung im Bereich Körper, Motorik und Gesundheit, in den Bereichen Hören und Sehen oder im Bereich Sprachentwicklung integrativ geschult wird, dürfen nicht mehr als 20 Lernende, in den Basisstufenklassen nicht mehr als 22 Lernende, umfassen.
 
 <sup>2</sup> Werden zwei behinderte Kinder in einer Regelklasse geschult, so wird die Klassengrösse gemäss Absatz 1 um zwei Lernende gesenkt. Für jedes weitere integrativ geschulte Kind wird die Klassengrösse erneut um zwei Lernende gesenkt.
 
@@ -366,7 +370,7 @@ beschliesst:
 
 **Beiträge an die psychotherapeutische Behandlung**
 
-<sup>1</sup> Kanton und Gemeinden leisten an die durch die IV und die Krankenkassen nicht gedeckten Kosten der psychotherapeutischen Behandlung beim Institut für Heilpädagogik und Psychotherapie oder einer anderen vergleichbaren Institution je einen Beitrag von 15 Franken pro Lernenden und Lernende und Behandlungseinheit. Die Aufteilung des Gemeindebeitrags richtet sich nach § 29.
+<sup>1</sup> Kanton und Gemeinden können an die durch die IV und die Krankenkassen nicht gedeckten Kosten der psychotherapeutischen Behandlung einen Beitrag von 20 Franken pro Lernenden und Lernende und Behandlungseinheit leisten. Die Aufteilung des Gemeindebeitrags richtet sich nach § 29.
 
 #### § 33
 
