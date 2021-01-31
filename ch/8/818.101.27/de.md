@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 2. Juli 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: de
-version: 2021-01-21
+version: 2021-02-01
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210121/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210121-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210121/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 2. Juli 2020 (Stand am 21. Januar 2021)
+vom 2. Juli 2020 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -141,14 +141,26 @@ Anhang*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 15](https://fedlex.data.admin.ch/eli/oc/2021/15)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 20. Jan. 2021, in Kraft seit 1. Febr. 2021 ([AS 2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)).
 [^annexu1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
 
 Andorra
 
+Estland
+
+Israel
+
+Lettland
+
+Libanon
+
 Litauen
+
+Malta
+
+Monaco
 
 Montenegro
 
@@ -156,25 +168,44 @@ Königreich der Niederlande
 
 Panama
 
+Portugal
+
 San Marino
 
 Schweden
 
+Slowakei
+
 Slowenien
+
+Spanien
 
 Tschechien
 
 Vereinigte Staaten von Amerika
+
+Zypern
 
 ### 2. Gebiete der Nachbarstaaten
 
 Gebiete in Deutschland:
 
 - – Land Sachsen
+- – Land Thüringen
+
+Gebiete in Frankreich:
+
+- – Region Provence-Alpes-Côte d'Azur
 
 Gebiete in Italien:
 
+- – Region Emilia Romagna
+- – Region Friaul / Julisch Venetien
 - – Region Venetien
+
+Gebiete in Österreich:
+
+- – Land Salzburg
 
 ### 3. Staaten und Gebiete nach Artikel 3 Absatz 1 Buchstabe d
 

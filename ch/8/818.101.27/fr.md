@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 2 juillet 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/496"
 language: fr
-version: 2021-01-21
+version: 2021-02-01
 adopted: 2020-07-02
 in_force: 2020-07-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210121/fr/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210121-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210121/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/496/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-496-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/496/20210121/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 2 juillet 2020 (Etat le 21 janvier 2021)
+du 2 juillet 2020 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -141,24 +141,44 @@ Annexe*[^t-1]*
 
 [^annexu1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 janv. 2021, en vigueur depuis le 21 janv. 2021 ([RO 2021 15](https://fedlex.data.admin.ch/eli/oc/2021/15)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 janv. 2021, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)).
 [^annexu1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
 
 Andorre
 
+Chypre
+
+Espagne
+
+Estonie
+
 États-Unis
 
+Israël
+
+Lettonie
+
+Liban
+
 Lituanie
+
+Malte
+
+Monaco
 
 Monténégro
 
 Panama
 
+Portugal
+
 Royaume des Pays-Bas
 
 Saint-Marin
+
+Slovaquie
 
 Slovénie
 
@@ -171,9 +191,20 @@ Tchéquie
 Zones en Allemagne:
 
 - – Land Sachsen
+- – Land Thüringen
+
+Zones en Autriche:
+
+- – Land Salzburg
+
+Zones en France:
+
+- – Région Provence-Alpes-Côte d’Azur
 
 Zones en Italie:
 
+- – Regione Emilia Romagna
+- – Regione Friuli Venezia Giulia
 - – Regione Veneto
 
 ### 3. États et zones au sens de l’art. 3, al. 1, let. d
