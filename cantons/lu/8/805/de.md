@@ -4,13 +4,13 @@ number: "805"
 title: Medizinalberufeverordnung
 short: MbV
 language: de
-version: 2021-01-01
-valid_until: 2021-01-31
-version_adopted: 2021-01-05
+version: 2021-02-01
+valid_until: 2021-06-30
+version_adopted: 2021-01-19
 adopted: 2009-04-28
 in_force: 2009-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/805"
-pdf: "https://srl.lu.ch/api/de/versions/3704/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3704/pdf_file"
 
 (MbV)
 
-vom 28.04.2009 (Stand 01.01.2021)
+vom 28.04.2009 (Stand 01.02.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -212,7 +212,7 @@ beschliesst:
 - d. unter Einhaltung der Vorschriften der Chemikaliengesetzgebung mit Chemikalien umzugehen,
 - e. Blutentnahmen kapillar sowie klinisch-chemische und mikroskopische Untersuchungen durchzuführen, sofern ihre Fachkenntnisse sie dazu befähigen.
 
-<sup>1<sup>bis</sup></sup> Apothekerinnen und Apotheker, die über den Fähigkeitsausweis FPH «Impfen und Blutentnahme» verfügen und die damit verbundene Fortbildung nachweisen können, dürfen ohne ärztliche Verschreibung Personen über 16 Jahre, die kein besonderes Impfrisiko aufweisen, gemäss dem aktuellen schweizerischen Impfplan impfen. Folgeimpfungen dürfen mit Ausnahme der Impfungen gegen Grippe und gegen Frühsommer-Meningoenzephalitis (FSME) nur vorgenommen werden, wenn die erste Impfung durch einen Arzt oder eine Ärztin erfolgt ist. Die Impfungen sind in einer dafür geeigneten Räumlichkeit einer Apotheke durchzuführen, welche über eine Notfallausrüstung verfügt.
+<sup>1<sup>bis</sup></sup> Apothekerinnen und Apotheker, die über den Fähigkeitsausweis FPH «Impfen und Blutentnahme» verfügen und die damit verbundene Fortbildung nachweisen können, dürfen ohne ärztliche Verschreibung Personen über 16 Jahre, die kein besonderes Impfrisiko aufweisen, gemäss dem aktuellen schweizerischen Impfplan sowie gegen Covid-19 impfen. Folgeimpfungen dürfen mit Ausnahme der Impfungen gegen Grippe, Covid-19 und gegen Frühsommer-Meningoenzephalitis (FSME) nur vorgenommen werden, wenn die erste Impfung durch einen Arzt oder eine Ärztin erfolgt ist. Die Impfungen sind in einer dafür geeigneten Räumlichkeit durchzuführen, welche über eine Notfallausrüstung verfügt.
 
 <sup>2</sup> Apothekerinnen oder Apothekern, die eine Spitalapotheke leiten, ist der freie Publikumsverkauf untersagt. Im Übrigen haben sie die Befugnisse gemäss Absatz 1.
 
