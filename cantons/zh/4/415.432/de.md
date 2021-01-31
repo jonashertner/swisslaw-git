@@ -4,10 +4,10 @@ number: "415.432"
 title: Verordnung über die Zulassungsbeschränkungen zu den medizinischen Studiengängen der Universität Zürich (VZMS)
 short: VZMS
 language: de
-nachtrag: "109"
-valid_until: 2021-02-01
+version: "2021-02-01"
+nachtrag: "112"
 adopted: 2020-04-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_432-2020_04_08-2020_05_15-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_432-2020_04_08-2020_05_15-112.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Der Regierungsrat legt unter Berücksichtigung der Klinikkapazitäten jährlich 
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 - c. für das erste Studienjahr der an einen Bachelorstudiengang anschliessenden Masterstudiengänge.
 
@@ -181,7 +181,7 @@ Zum Eignungstest wird zugelassen, wer die Zuteilungsvoraussetzungen gemäss § 1
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 <sup>2</sup> Wer sich innerhalb eines Jahres nach Ablegung des Eignungstests erneut anmeldet, kann das im Vorjahr erzielte Testergebnis auf das Folgejahr übertragen lassen.
 
@@ -277,7 +277,7 @@ Studienplätze an der Medizinischen Fakultät werden in folgender Reihenfolge zu
 
 **5**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 - b. Personen, die an der UZH oder einer anderen schweizerischen universitären Hochschule ein Studium in einer anderen Disziplin als Human- oder Zahnmedizin abgeschlossen haben.
 
@@ -337,7 +337,7 @@ Studienplätze, die nach einer Zuteilung gemäss § 23 an der Vetsuisse-Fakultä
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 ### E. Erstes Studienjahr des Masterstudiums
 
@@ -397,48 +397,54 @@ Studienplätze, die nach einer Zuteilung gemäss § 27 noch verfügbar sind, wer
 
 und -anwärtern
 
-§ 31. <sup>1</sup> Ausländische Studienanwärterinnen und -anwärter haben Zugang zu einem Bachelor- oder Masterstudiengang der Medizinischen Fakultät oder der Vetsuisse-Fakultät, wenn sie einer der folgenden Personenkategorien angehören:
+§ 31.[^h4AbschnittZugang-1] <sup>1</sup> Ausländische Studienanwärterinnen und -anwärter haben Zugang zu einem Bachelor- oder Masterstudiengang der Medizinischen Fakultät oder der Vetsuisse-Fakultät, wenn sie einer der folgenden Personenkategorien angehören:
 
 - a. Staatsangehörige des Fürstentums Liechtenstein,
 
 - b. in der Schweiz oder im Fürstentum Liechtenstein niedergelassene Ausländerinnen und Ausländer,
 
-- c. Staatsangehörige eines Mitgliedstaates der Europäischen Union sowie von Island und Norwegen, mit einer Aufenthaltsbewilligung EU/EFTA zum Zweck der Erwerbstätigkeit in der Schweiz, die eine berufliche Tätigkeit mit engem Zusammenhang zum Medizinstudium nachweisen können gemäss Anhang I Art. 9 Abs. 3 zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft
+- c. Staatsangehörige eines Mitgliedstaates der Europäischen Union sowie von Island und Norwegen, mit einer Aufenthaltsbewilligung EU/EFTA zum Zweck der Erwerbstätigkeit in der Schweiz gemäss Anhang I Art. 9 Abs. 3 zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über
 
 **9**
 
-- 1\. 7. 20 - 109 einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA)[^h4AbschnittZugang-1],
+- 1\. 4. 21 - 112 die Freizügigkeit (FZA)[^h4AbschnittZugang-2], die eine mindestens einjährige Erwerbstätigkeit in der Schweiz in einem der Berufe gemäss Art. 2 des Medizinalberufegesetzes vom 23. Juni 2006[^h4AbschnittZugang-3] nachweisen können, Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen und des Fürstentums Liechtenstein, mit Aufenthaltsbewilligung als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA in der Schweiz gemäss Anhang I Art. 3 Abs. 6 FZA[^h4AbschnittZugang-2], Ausländerinnen und Ausländer mit zivilrechtlichem Wohnsitz in der Schweiz,
 
-- d. Kinder, ungeachtet ihrer Staatsangehörigkeit, von Staatsangehörigen eines Mitgliedstaates der Europäischen Union, von Island, Norwegen und des Fürstentums Liechtenstein, mit Aufenthaltsbewilligung als Familienmitglied einer Bürgerin oder eines Bürgers der EU/EFTA in der Schweiz gemäss Anhang I Art. 3 Abs. 6 FZA[^h4AbschnittZugang-1],
+**d.**
 
-- e. Ausländerinnen und Ausländer mit Wohnsitz in der Schweiz,
+**e.**
 
-- 1\. deren Eltern in der Schweiz niedergelassen sind,
+- 1\. die seit mindestens fünf Jahren ununterbrochen über eine Aufenthaltsbewilligung in der Schweiz mit dem Hauptaufenthaltszweck der Erwerbstätigkeit verfügen,
 
-- 2\. die mit einer Schweizerin oder einem Schweizer verheiratet sind,
+- 2\. die einen schweizerischen oder einen kantonalen schweizerisch anerkannten Maturitätsausweis nach der Maturitäts-Anerkennungsverordnung vom 15. Februar 1995[^h4AbschnittZugang-4] und dem Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995[^h4AbschnittZugang-5] oder ein eidgenössisches Berufsmaturitätszeugnis haben,
 
-- 3\. deren Ehegatten seit mindestens fünf Jahren in der Schweiz niedergelassen sind oder über eine schweizerische Arbeitsbewilligung verfügen,
+- 3\. die ein eidgenössisches oder vom Staatssekretariat für Bildung, Forschung und Innovation anerkanntes liechtensteinisches Berufsmaturitätszeugnis oder ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis in Verbindung mit dem Ausweis über die bestandene Ergänzungsprüfung nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^h4AbschnittZugang-6] haben,
 
-- 4\. die seit mindestens fünf Jahren über eine schweizerische Arbeitsbewilligung verfügen,
+- 4\. die mit einer Schweizerin oder einem Schweizer verheiratet oder eine eingetragene Partnerschaft eingegangen sind,
 
-- 5\. deren Eltern seit mindestens fünf Jahren über eine schweizerische Arbeitsbewilligung verfügen,
+- 5\. deren Ehegattinnen oder Ehegatten bzw. deren eingetragene Partnerinnen oder Partner in der Schweiz niedergelassen sind,
 
-- 6\. die einen schweizerischen oder kantonalen, schweizerisch anerkannten Maturitätsausweis nach der Maturitäts-Anerkennungsverordnung vom 15. Februar 1995[^h4AbschnittZugang-2] und dem Reglement der EDK über die Anerkennung von gymnasialen Maturitätsausweisen vom 16. Januar / 15. Februar 1995[^h4AbschnittZugang-3] oder ein eidgenössisches Berufsmaturitätszeugnis oder ein gesamtschweizerisch anerkanntes Fachmaturitätszeugnis in Verbindung mit dem Ausweis über die bestandene Ergänzungsprüfung nach der Verordnung vom 2. Februar 2011 über die Ergänzungsprüfung für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen[^h4AbschnittZugang-4] haben,
+- 6\. deren Ehegattinnen oder Ehegatten bzw. deren eingetragene Partnerinnen oder Partner seit mindestens fünf Jahren zivilrechtlichen Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck der Erwerbstätigkeit verfügen, Ausländerinnen und Ausländer, die seit mindestens zwei Jahren zivilrechtlichen Wohnsitz in der Schweiz haben und deren Eltern
 
-- f. Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen,
+**f.**
 
-- g. von der Schweiz anerkannte Flüchtlinge.
+- 1\. in der Schweiz niedergelassen sind,
 
-<sup>2</sup> Die Dokumente zum Nachweis der Erfüllung der Zugangsvoraussetzungen gemäss Abs. 1 lit. a–f müssen spätestens am letzten Tag der Anmeldefrist gemäss § 7 vorliegen. Der Vorbildungsausweis gemäss Abs. 1 lit. e Ziff. 6 kann nachgereicht werden.
+- 2\. seit mindestens fünf Jahren zivilrechtlichen Wohnsitz in der Schweiz haben und ununterbrochen über eine Aufenthaltsbewilligung mit dem Hauptaufenthaltszweck der Erwerbstätigkeit verfügen,
 
-<sup>3</sup> Personen nach Abs. 1 lit. g müssen a. spätestens am letzten Tag der Anmeldefrist gemäss § 7 ein Asylgesuch gestellt haben,
+- g. Kinder, deren Eltern in der Schweiz Diplomatenstatus geniessen und über eine Legitimationskarte des Eidgenössischen Departements für auswärtige Angelegenheiten des Typs B, C oder D blau verfügen,
 
-- b. innert der Immatrikulationsfrist der universitären Hochschule, an der ihnen ein Studienplatz zugeteilt wird, als Flüchtling anerkannt sein.
+- h. von der Schweiz anerkannte Flüchtlinge.
 
-[^h4AbschnittZugang-1]: SR 0.142.112.681. 1. 7. 20 - 109 11
-[^h4AbschnittZugang-2]: SR 413.11.
-[^h4AbschnittZugang-3]: LS 410.5.
-[^h4AbschnittZugang-4]: SR 413.14.
+<sup>2</sup> Als Stichdatum für die Erfüllung der Zugangsvoraussetzungen gemäss Abs. 1 gilt für Bachelorstudiengänge der letzte Tag der Anmeldefrist gemäss § 7 und für Masterstudiengänge der letzte Tag der Bewerbungsfrist der UZH.
+
+<sup>3</sup> Die Dokumente zum Nachweis der Erfüllung der Zugangsvoraussetzungen sind bis spätestens am letzten Tag der Fristen gemäss Abs. 2 einzureichen. Der Vorbildungsausweis gemäss Abs. 1 lit. e Ziff. 2 und 3 kann nachgereicht werden.
+
+[^h4AbschnittZugang-1]: Fassung gemäss RRB vom 18. November 2020 (OS 76, 24; ABl 2020-11-27). In Kraft seit 1. Februar 2021. 1. 4. 21 - 112 11
+[^h4AbschnittZugang-2]: SR 0.142.112.681.
+[^h4AbschnittZugang-3]: SR 811.11.
+[^h4AbschnittZugang-4]: SR 413.11.
+[^h4AbschnittZugang-5]: LS 410.5.
+[^h4AbschnittZugang-6]: SR 413.14.
 
 ### 5. Abschnitt: Rechtsschutz
 
