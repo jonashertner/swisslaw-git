@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 18. Dezember 1992 über die Schweizerische Nationalbibl
 short: NBibG
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: de
-version: 2012-01-01
+version: 2021-02-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20120101/de/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20120101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/de"
 
 (Nationalbibliotheksgesetz, NBibG)[^t-1]
 
-vom 18. Dezember 1992 (Stand am 1. Januar 2012)
+vom 18. Dezember 1992 (Stand am 1. Februar 2021)
 
-[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^t-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 1992[^ingress-1],
+gestützt auf Artikel 69 Absatz 2 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrates vom 19. Februar 1992[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: [BBl 1992 II 1441](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 47](https://fedlex.data.admin.ch/eli/oc/2021/47); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^ingress-3]: [BBl 1992 II 1441](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
 
 ## 1. Abschnitt: Gegenstand
 
@@ -154,7 +156,7 @@ Der Bundesrat kann die Nationalbibliothek im Rahmen ihrer Aufgaben mit weiteren 
 
 Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone und Gemeinden, die mit der Nationalbibliothek zusammenarbeiten und:
 
-- a. …[^12-1]
+- a.[^12-1] ...
 - b. bedeutende Bestände an Druckwerken oder anderen Informationsträgern, die unter den Sammelauftrag fallen, besitzen und weitersammeln.
 
 <sup>2</sup> Die Finanzhilfen können mit der Bedingung verbunden werden, dass die mit Hilfe des Bundes erworbenen oder hergestellten gedruckten oder auf anderen Informationsträgern gespeicherten Informationen öffentlich zugänglich gemacht werden.
@@ -173,25 +175,13 @@ Der Bund kann Finanzhilfen ausrichten an öffentliche Institutionen der Kantone 
 
 <sup>2</sup> Der Bundesrat entscheidet über die Übernahme.
 
-## 5. Abschnitt: Kommission
+## 5. Abschnitt: ...
 
 #### Art. 14
 
-<sup>1</sup> Der Bundesrat wählt eine Kommission der Schweizerischen Nationalbibliothek mit neun Mitgliedern.
+[^14-1]
 
-<sup>2</sup>
-
-Die Kommission:
-
-- a. …[^14-1]
-- b. verfolgt die Entwicklung des Bibliothekswesens;
-- c. kann dem Departement des Innern Anträge zu Fragen des Bibliothekswesens stellen;
-- d. nimmt Stellung zu Erlassentwürfen, welche die Tätigkeit der Nationalbibliothek betreffen oder beeinflussen;
-- e. fördert die Zusammenarbeit im Bibliothekswesen.
-
-<sup>3</sup> Sie muss vor wichtigen Entscheidungen in Fragen des Bibliothekswesens angehört werden.
-
-[^14-1]: Aufgehoben durch Ziff. II 21 des BG vom 20. März 2008 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Aug. 2008 ([AS 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [BBl 2007 6121](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^14-1]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2020, mit Wirkung seit 1. Febr. 2021 (AS **2001** 47; [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## 6. Abschnitt: Schlussbestimmungen
 

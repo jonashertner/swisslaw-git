@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 décembre 1992 sur la Bibliothèque nationale suiss
 short: LBNS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: fr
-version: 2012-01-01
+version: 2021-02-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20120101/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20120101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/fr"
 
 (Loi sur la Bibliothèque nationale, LBNS)
 
-du 18 décembre 1992 (Etat le 1<sup>er</sup> janvier 2012)
+du 18 décembre 1992 (Etat le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu le message du Conseil fédéral du 19 février 1992[^ingress-1],
+vu l’art. 69, al. 2, de la Constitution[^ingress-1],[^ingress-2]
+
+vu le message du Conseil fédéral du 19 février 1992[^ingress-3],
 
 arrête:
 
-[^ingress-1]: [FF 1992 II 1421](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Phrase introduite par le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 47](https://fedlex.data.admin.ch/eli/oc/2021/47); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^ingress-3]: [FF 1992 II 1421](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
 
 ## Section 1 Objet
 
@@ -134,7 +138,7 @@ Le Conseil fédéral peut charger la Bibliothèque nationale d’autres activit�
 
 <sup>3</sup> En étroite collaboration avec d’autres grandes bibliothèques publiques, elle assure des tâches de coordination, en particulier dans le domaine de l’automatisation des bibliothèques.
 
-## Section 3 Emoluments
+## Section 3 Émoluments
 
 #### Art. 11
 
@@ -152,7 +156,7 @@ Le Conseil fédéral peut charger la Bibliothèque nationale d’autres activit�
 
 La Confédération peut allouer des aides financières aux institutions publiques des cantons et des communes qui travaillent en collaboration avec la Bibliothèque nationale et qui:
 
-- a. ...[^12-1]
+- a. [^12-1] ...
 - b. possèdent et complètent d’importants stocks d’imprimés ou d’autres supports d’information tombant sous le coup du mandat.
 
 <sup>2</sup> Le versement des aides financières peut être subordonné à l’obligation de rendre accessibles au public les informations imprimées ou conservées sur d’autres supports que le papier acquises ou produites avec l’aide de la Confédération.
@@ -171,25 +175,13 @@ La Confédération peut allouer des aides financières aux institutions publique
 
 <sup>2</sup> Le Conseil fédéral décide de la reprise.
 
-## Section 5 Commission
+## Section 5 ...
 
 #### Art. 14
 
-<sup>1</sup> Le Conseil fédéral nomme une commission de la Bibliothèque nationale suisse (commission) comprenant neuf membres.
+[^14-1]
 
-<sup>2</sup>
-
-La commission:
-
-- a. …[^14-1]
-- b. suit le développement de la bibliothéconomie;
-- c. peut faire des propositions au Département fédéral de l’intérieur en matière de bibliothéconomie;
-- d. donne son avis sur des projets d’actes législatifs ayant trait aux activités de la Bibliothèque nationale ou étant de nature à les influencer;
-- e. encourage la coopération en matière de bibliothéconomie.
-
-<sup>3</sup> La commission doit être consultée avant que ne soient prises des décisions importantes en matière de bibliothéconomie.
-
-[^14-1]: Abrogée par le ch. II 21 de la LF du 20 mars 2008 relative à la mise à jour formelle du droit fédéral, avec effet au 1<sup>er</sup> août 2008 ([RO 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5789](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^14-1]: Abrogé par le ch. I de la LF du 25 sept. 2020, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2021 47](https://fedlex.data.admin.ch/eli/oc/2021/47); [FF 2020 3037](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Section 6 Dispositions finales
 

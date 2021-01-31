@@ -4,11 +4,11 @@ title: "Legge federale del 18 dicembre 1992 sulla Biblioteca nazionale svizzera 
 short: LBNS
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773"
 language: it
-version: 2012-01-01
+version: 2021-02-01
 adopted: 1992-12-18
 in_force: 1993-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20120101/it/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20120101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/1773_1773_1773/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1993-1773_1773_1773-20210201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/1773_1773_1773/20120101/it"
 
 (Legge sulla Biblioteca nazionale, LBNS)
 
-del 18 dicembre 1992 (Stato 1° gennaio 2012) (Stato 1° gennaio 2012)
+del 18 dicembre 1992 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visto il messaggio del Consiglio federale del 19 febbraio 1992[^ingress-1],
+visto l’articolo 69 capoverso 2 della Costituzione federale[^ingress-1],[^ingress-2] visto il messaggio del Consiglio federale del 19 febbraio 1992[^ingress-3],
 
 decreta:
 
-[^ingress-1]: [FF 1992 II 1205](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Lemma introdotto dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 47](https://fedlex.data.admin.ch/eli/oc/2021/47); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
+[^ingress-3]: [FF 1992 II 1205](https://fedlex.data.admin.ch/eli/fga/1992/2_1441_1421_1205)
 
 ## Sezione 1: Oggetto
 
@@ -116,7 +118,7 @@ La Biblioteca nazionale può fornire a terzi prestazioni commerciali se queste:
 
 <sup>2</sup> Le prestazioni commerciali sono fornite sulla base di una contabilità analitica, a prezzi che consentano almeno di coprire i costi. Il Dipartimento federale dell’interno può concedere deroghe per singole prestazioni, a condizione di non entrare in tal modo in concorrenza con l’economia privata.
 
-[^8a-1]: Introdotto dal n. 2 dell'all. alla LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
+[^8a-1]: Introdotto dall’all. n. 2 della LF del 18 giu. 2010, in vigore dal 1° gen. 2011 ([RU 2010 5003](https://fedlex.data.admin.ch/eli/oc/2010/708); [FF 2009 6281](https://fedlex.data.admin.ch/eli/fga/2009/1281)).
 
 #### Art. 9
 
@@ -152,16 +154,16 @@ Il Consiglio federale può incaricare la Biblioteca nazionale di svolgere altre 
 
 La Confederazione può accordare aiuti finanziari a istituzioni pubbliche dei Cantoni e dei Comuni se collaborano con la Biblioteca nazionale e se:
 
-- a. ...[^12-1]
+- a.[^12-1] ...
 - b. possiedono e completano importanti fondi di stampati o di altri supporti d’informazione che rientrano nell’incarico di collezione.
 
 <sup>2</sup> Il versamento degli aiuti finanziari può avere come condizione che gli stampati o gli altri supporti d’informazione acquistati o prodotti con l’aiuto della Confederazione siano resi accessibili al pubblico.
 
 <sup>3</sup> Gli aiuti finanziari possono essere accordati anche mediante un contratto di prestazioni ai sensi dell’articolo 16 capoverso 2 della legge del 5 ottobre 1990[^12-2] sui sussidi.[^12-3]
 
-[^12-1]: Abrogata dal n. II 1 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, con effetto dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-1]: Abrogata dall’all. n. II 1 della LF dell’11 dic. 2009 sulla promozione della cultura, con effetto dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 [^12-2]: [RS 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
-[^12-3]: Introdotto dal n. II 1 dell’all. alla LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
+[^12-3]: Introdotto dall’all. n. II 1 della LF dell’11 dic. 2009 sulla promozione della cultura, in vigore dal 1° gen. 2012 ([RU 2011 6127](https://fedlex.data.admin.ch/eli/oc/2011/854); [FF 2007 4421](https://fedlex.data.admin.ch/eli/fga/2007/681)[4459](https://fedlex.data.admin.ch/eli/fga/2007/683)).
 
 #### Art. 13
 
@@ -171,25 +173,13 @@ La Confederazione può accordare aiuti finanziari a istituzioni pubbliche dei Ca
 
 <sup>2</sup> Il Consiglio federale decide in merito alla rilevazione.
 
-## Sezione 5: Commissione
+## Sezione 5: ...
 
 #### Art. 14
 
-<sup>1</sup> Il Consiglio federale nomina una commissione della Biblioteca nazionale svizzera (commissione) composta di nove membri.
+[^14-1]
 
-<sup>2</sup>
-
-La commissione:
-
-- a. …[^14-1]
-- b. segue lo sviluppo della biblioteconomia;
-- c. può fare proposte al Dipartimento federale dell’interno in materia di biblioteconomia;
-- d. dà il suo parere su progetti di atti legislativi che riguardano o potrebbero influire sull’attività della Biblioteca nazionale;
-- e. promuove la collaborazione in materia di biblioteconomia.
-
-<sup>3</sup> La commissione deve essere consultata prima di prendere decisioni importanti in materia di biblioteconomia.
-
-[^14-1]: Abrogata dal n. II 21 della LF del 20 mar. 2008 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° ago. 2008 ([RU 2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447); [FF 2007 5575](https://fedlex.data.admin.ch/eli/fga/2007/885)).
+[^14-1]: Abrogato dal n. I della LF del 25 set. 2020, in vigore dal 1° feb. 2021 ([RU 2021 47](https://fedlex.data.admin.ch/eli/oc/2021/47); [FF 2020 2813](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 
 ## Sezione 6: Disposizioni finali
 
