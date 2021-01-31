@@ -4,18 +4,18 @@ title: "Bundesgesetz vom 30. März 1911 betreffend die Ergänzung des Schweizeri
 short: OR
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: de
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/de/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht)
 
-vom 30. März 1911 (Stand am 1. Januar 2021)
+vom 30. März 1911 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -8732,9 +8732,9 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 
 #### Art. 622
 
-<sup>1</sup> Die Aktien lauten auf den Namen oder auf den Inhaber. Als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008[^622-1] ausgegebene Aktien werden aktienrechtlich entweder als Namen- oder Inhaberaktien ausgestaltet.[^622-2]
+<sup>1</sup> Die Aktien lauten auf den Namen oder auf den Inhaber. Sie können als Wertpapiere ausgegeben werden. Die Statuten können bestimmen, dass sie als Wertrechte nach Artikel 973*c* oder 973*d* oder als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008[^622-1] (BEG) ausgegeben werden.[^622-2]
 
-<sup>1bis</sup> Inhaberaktien sind nur zulässig, wenn die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten im Sinne des Bucheffektengesetzes vom 3. Oktober 2008 ausgestaltet und bei einer von der Gesellschaft bezeichneten Verwahrungsstelle in der Schweiz hinterlegt oder im Hauptregister eingetragen sind.[^622-3]
+<sup>1bis</sup> Inhaberaktien sind nur zulässig, wenn die Gesellschaft Beteiligungspapiere an einer Börse kotiert hat oder die Inhaberaktien als Bucheffekten im Sinne des BEG ausgestaltet und bei einer von der Gesellschaft bezeichneten Verwahrungsstelle in der Schweiz hinterlegt oder im Hauptregister eingetragen sind.[^622-3]
 
 <sup>2</sup> Beide Arten von Aktien können in einem durch die Statuten bestimmten Verhältnis nebeneinander bestehen.
 
@@ -8749,8 +8749,8 @@ Das Aktienkapital muss mindestens 100 000 Franken betragen.
 <sup>5</sup> Die Aktientitel müssen durch mindestens ein Mitglied des Verwaltungsrates[^622-7] unterschrieben sein. Die Gesellschaft kann bestimmen, dass auch auf Aktien, die in grosser Zahl ausgegeben werden, mindestens eine Unterschrift eigenhändig beigesetzt werden muss.
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Fassung gemäss Anhang Ziff. 3 des Bucheffektengesetzes vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^622-3]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^622-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Eingefügt durch Ziff. I 1 des BG vom 21. Juni 2019 zur Umsetzung von Empfehlungen des Globalen Forums über Transparenz und Informationsaustausch für Steuerzwecke, in Kraft seit 1. Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-6]: Fassung gemäss Ziff. I des BG vom 15. Dez. 2000, in Kraft seit 1. Mai 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)Ziff. 2.2.1 5501).
@@ -15045,7 +15045,11 @@ Mit der Indossierung und der Übergabe der indossierten Urkunde gehen bei allen 
 
 Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechsel, den Check und die Pfandtitel, bleiben vorbehalten.
 
-### G. Sammelverwahrung, Globalurkunde und Wertrechte
+### G. Sammelverwahrung, Globalurkunde und einfache Wertrechte
+
+[^part5-tit33-chap1-lvlG-1]
+
+[^part5-tit33-chap1-lvlG-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### I. Sammelverwahrung von Wertpapieren
 
@@ -15073,13 +15077,17 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 
 [^973b-1]: Eingefügt durch Anhang Ziff. 3 des Bucheffektengesetzes vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-### III. Wertrechte
+### III. Einfache Wertrechte
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973c
 
 [^973c-1]
 
-<sup>1</sup> Der Schuldner kann Rechte mit gleicher Funktion wie Wertpapiere (Wertrechte) ausgeben oder vertretbare Wertpapiere oder Globalurkunden, die einem einzigen Aufbewahrer anvertraut sind, durch Wertrechte ersetzen, sofern die Ausgabebedingungen oder die Gesellschaftsstatuten dies vorsehen oder die Hinterleger dazu ihre Zustimmung erteilt haben.
+<sup>1</sup> Der Schuldner kann einfache Wertrechte ausgeben oder vertretbare Wertpapiere oder Globalurkunden, die einem einzigen Aufbewahrer anvertraut sind, durch einfache Wertrechte ersetzen, sofern die Ausgabebedingungen oder seine Statuten dies vorsehen oder die Hinterleger dazu ihre Zustimmung erteilt haben.[^973c-2]
 
 <sup>2</sup> Der Schuldner führt über die von ihm ausgegebenen Wertrechte ein Buch, in das die Anzahl und Stückelung der ausgegebenen Wertrechte sowie die Gläubiger einzutragen sind. Das Buch ist nicht öffentlich.
 
@@ -15088,6 +15096,131 @@ Die besondern Vorschriften über die Wertpapiere, wie namentlich über den Wechs
 <sup>4</sup> Zur Übertragung von Wertrechten bedarf es einer schriftlichen Abtretungserklärung. Ihre Verpfändung richtet sich nach den Vorschriften über das Pfandrecht an Forderungen.
 
 [^973c-1]: Eingefügt durch Anhang Ziff. 3 des Bucheffektengesetzes vom 3. Okt. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973c-2]: Fassung gemäss Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### H. Registerwertrechte
+
+### I. Errichtung
+
+#### Art. 973d
+
+[^973d-1]
+
+<sup>1</sup>
+
+Ein Registerwertrecht ist ein Recht, das gemäss einer Vereinbarung der Parteien:
+
+- 1\. in einem Wertrechteregister gemäss Absatz 2 eingetragen ist; und
+- 2\. nur über dieses Wertrechteregister geltend gemacht und auf andere übertragen werden kann.
+
+<sup>2</sup>
+
+Das Wertrechteregister muss die folgenden Anforderungen erfüllen:
+
+- 1\. Es vermittelt den Gläubigern, nicht aber dem Schuldner, mittels technischer Verfahren die Verfügungsmacht über ihre Rechte.
+- 2\. Seine Integrität ist geschützt, indem es durch angemessene technische und organisatorische Massnahmen, wie die gemeinsame Verwaltung durch mehrere voneinander unabhängige Beteiligte, gegen unbefugte Veränderungen geschützt ist.
+- 3\. Der Inhalt der Rechte, die Funktionsweise des Registers und die Registrierungsvereinbarung sind im Register oder in damit verknüpften Begleitdaten festgehalten.
+- 4\. Die Gläubiger können die sie betreffenden Informationen und Registereinträge einsehen sowie die Integrität des sie betreffenden Registerinhalts ohne Zutun Dritter überprüfen.
+
+<sup>3</sup> Der Schuldner hat sicherzustellen, dass das Wertrechteregister dessen Zweck entsprechend organisiert ist. Insbesondere ist sicherzustellen, dass das Register jederzeit gemäss Registrierungsvereinbarung funktioniert.
+
+[^973d-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### II. Wirkungen
+
+#### Art. 973e
+
+[^973e-1]
+
+<sup>1</sup> Der Schuldner aus einem Registerwertrecht ist nur an den durch das Wertrechteregister ausgewiesenen Gläubiger sowie gegen entsprechende Anpassung des Registers zu leisten berechtigt und verpflichtet.
+
+<sup>2</sup> Er wird durch eine bei Verfall erfolgte Leistung an den durch das Wertrechteregister ausgewiesenen Gläubiger befreit, auch wenn der ausgewiesene nicht der tatsächliche Gläubiger ist, wenn dem Schuldner nicht Arglist oder grobe Fahrlässigkeit zur Last fällt.
+
+<sup>3</sup> Wer in einem Wertrechteregister vom dort ausgewiesenen Gläubiger ein Registerwertrecht erworben hat, ist in seinem Erwerb zu schützen, auch wenn der Veräusserer zur Verfügung nicht befugt war, es sei denn, der Erwerber handelte beim Erwerb bösgläubig oder grobfahrlässig.
+
+<sup>4</sup>
+
+Der Schuldner kann der Forderung aus einem Registerwertrecht nur Einreden entgegensetzen, die:
+
+- 1\. entweder gegen die Gültigkeit der Registrierung gerichtet sind oder aus dem Wertrechteregister oder dessen Begleitdaten selbst hervorgehen;
+- 2\. ihm persönlich gegen den aktuellen Gläubiger des Registerwertrechts zustehen; oder
+- 3\. sich auf die unmittelbare Beziehung des Schuldners zu einem früheren Gläubiger des Registerwertrechts gründen, wenn der aktuelle Gläubiger bei dem Erwerb des Registerwertrechts bewusst zum Nachteil des Schuldners gehandelt hat.
+
+[^973e-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### III. Übertragung
+
+#### Art. 973f
+
+[^973f-1]
+
+<sup>1</sup> Die Übertragung des Registerwertrechts untersteht den Regeln der Registrierungsvereinbarung.
+
+<sup>2</sup>
+
+Wird über den Gläubiger eines Registerwertrechts der Konkurs eröffnet, die Pfändung vollzogen oder die Nachlassstundung bewilligt, so sind seine Verfügungen über Registerwertrechte rechtlich verbindlich und Dritten gegenüber wirksam, wenn sie:
+
+- 1\. vorgängig eingebracht wurden;
+- 2\. nach den Regeln des Wertrechteregisters oder eines anderen Handelssystems unwiderruflich wurden; sowie
+- 3\. innerhalb von 24 Stunden tatsächlich in das Wertrechteregister eingetragen wurden.
+
+<sup>3</sup> Steht in Bezug auf dasselbe Recht dem gutgläubigen Empfänger eines Wertpapiers ein gutgläubiger Empfänger des Registerwertrechts gegenüber, so geht der Erste dem Letzteren vor.
+
+[^973f-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### IV. Sicherheiten
+
+#### Art. 973g
+
+[^973g-1]
+
+<sup>1</sup>
+
+Eine Sicherheit kann auch ohne Übertragung des Registerwertrechts errichtet werden, wenn:
+
+- 1\. die Sicherheit im Wertrechteregister ersichtlich ist; und
+- 2\. gewährleistet ist, dass ausschliesslich der Sicherungsnehmer im Falle der Nichtbefriedigung über das Registerwertrecht verfügen kann.
+
+<sup>2</sup>
+
+Im Übrigen richtet sich:
+
+- 1\. das Retentionsrecht an Registerwertrechten nach den für Wertpapiere geltenden Bestimmungen über das Retentionsrecht (Art. 895–898 ZGB[^973g-2]);
+- 2\. das Pfandrecht an Registerwertrechten nach den für Wertpapiere geltenden Bestimmungen über das Pfandrecht an Forderungen und anderen Rechten (Art. 899–906 ZGB).
+
+[^973g-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^973g-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### V. Kraftloserklärung
+
+#### Art. 973h
+
+[^973h-1]
+
+<sup>1</sup> Der an einem Registerwertrecht Berechtigte kann verlangen, dass das Gericht das Registerwertrecht kraftlos erklärt, sofern er seine ursprüngliche Verfügungsmacht sowie deren Verlust glaubhaft macht. Nach der Kraftloserklärung kann er sein Recht auch ausserhalb des Registers geltend machen oder auf seine Kosten vom Schuldner die Zuteilung eines neuen Registerwertrechts verlangen. Im Übrigen sind für das Verfahren und die Wirkung der Kraftloserklärung die Artikel 982–986 sinngemäss anwendbar.
+
+<sup>2</sup> Die Parteien können eine vereinfachte Kraftloserklärung durch Herabsetzung der Zahl der öffentlichen Aufforderungen oder durch Verkürzung der Fristen vorsehen.
+
+[^973h-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### VI. Information und Haftung
+
+#### Art. 973i
+
+[^973i-1]
+
+<sup>1</sup>
+
+Der Schuldner aus einem Registerwertrecht oder einem Recht, das als solches angeboten wird, hat jedem Erwerber bekannt zu geben:
+
+- 1\. den Inhalt des Wertrechts;
+- 2\. die Funktionsweise des Wertrechteregisters sowie die Massnahmen zum Schutz des Funktionierens und der Integrität des Wertrechteregisters nach Artikel 973*d* Absätze 2 und 3.
+
+<sup>2</sup> Er haftet für den Schaden, der dem Erwerber durch unrichtige, irreführende oder den gesetzlichen Anforderungen nicht entsprechende Angaben entsteht, sofern er nicht nachweist, dass er die erforderliche Sorgfalt angewendet hat.
+
+<sup>3</sup> Vereinbarungen, welche diese Haftung beschränken oder wegbedingen, sind nichtig.
+
+[^973i-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Zweiter Abschnitt: Die Namenpapiere
 
@@ -16853,6 +16986,12 @@ Die Bestimmungen des Schuldbetreibungs- und Konkursgesetzes vom 11. April 1889[^
 
 ### A. Erfordernisse
 
+### I. Im Allgemeinen
+
+[^part5-tit33-chap7-lvlA-lvlI-1]
+
+[^part5-tit33-chap7-lvlA-lvlI-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 #### Art. 1153
 
 Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausgestellt werden, müssen enthalten:
@@ -16865,6 +17004,18 @@ Warenpapiere, die von einem Lagerhalter oder Frachtführer als Wertpapier ausges
 - 6\. die besondern Vereinbarungen, die von den Beteiligten über die Behandlung der Ware getroffen worden sind;
 - 7\. die Zahl der Ausfertigungen des Warenpapiers;
 - 8\. die Angabe des Verfügungsberechtigten mit Namen oder an Ordre oder als Inhaber.
+
+### II. Gleichwertige Titel in Wertrechteregistern
+
+#### Art. 1153a
+
+[^1153a-1]
+
+<sup>1</sup> Die Parteien können Warenpapiere in der Form von Registerwertrechten vorsehen. Die Artikel 1154 und 1155 sind sinngemäss anwendbar.
+
+<sup>2</sup> Die Unterschrift des Ausstellers kann entfallen, wenn der Titel ihm auf andere Weise eindeutig zugeordnet werden kann. Der weitere Inhalt des Titels samt dessen Lasten muss im Wertrechteregister selbst oder in damit verknüpften Begleitdaten festgehalten werden.
+
+[^1153a-1]: Eingefügt durch Ziff. I 1 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### B. Der Pfandschein
 

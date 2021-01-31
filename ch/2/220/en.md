@@ -4,11 +4,11 @@ title: "Federal Act of 30 March 1911 on the Amendment of the Swiss Civil Code (P
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: en
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/en/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Part Five: The Code of Obligations)
 
-of 30 March 1911 (Status as of 1 January 2021)
+of 30 March 1911 (Status as of 1 February 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -4502,6 +4502,8 @@ After having given birth, a female employee is entitled to maternity leave of at
 
 ### 5. Paternity leave
 
+### 4. Paternity leave
+
 #### Art. 329g
 
 [^329g-1]
@@ -8734,9 +8736,9 @@ The share capital must amount to at least 100,000 francs.
 
 #### Art. 622
 
-<sup>1</sup> The shares may be either registered or bearer shares. Shares issued as uncertificated securities in accordance with the Uncertificated Securities Act of 3 October 2008[^622-1] are either registered or bearer shares.[^622-2]
+<sup>1</sup> The shares may be either registered or bearer shares. They may be issued in the form of negotiable securities. The articles of association may stipulate that they may be issued as uncertificated or ledger-based securities in accordance with Article 973*c* or 973*d*, or as intermediated securities in accordance with the Intermediated Securities Act (FISA) of 3 October 2008[^622-1].[^622-2]
 
-<sup>1bis</sup> Bearer shares are only permitted if the company has equity securities listed on a stock exchange or the bearer shares are organised as intermediated securities in accordance with the Intermediated Securities Act of 3 October 2008 and deposited with a custodian in Switzerland designated by the company or entered in the main register.[^622-3]
+<sup>1bis</sup> Bearer shares are permitted only if the company has equity securities listed on a stock exchange or if the bearer shares are organised as intermediated securities in accordance with the FISA and are deposited with a custodian in Switzerland designated by the company or entered in the main register.[^622-3]
 
 <sup>2</sup> Shares of both types may exist at the same time in a ratio fixed by the articles of association.
 
@@ -8751,8 +8753,8 @@ The share capital must amount to at least 100,000 francs.
 <sup>5</sup> The share certificate must be signed by at least one member of the board of directors[^622-7]. The company may decide that even shares issued in large numbers must bear a handwritten signature.
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Amended by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^622-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^622-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16))
 [^622-4]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Inserted by No I 1 of the FA of 21 June 2019 on the Implementation of the Recommendations of the Global Forum on Transparency and the Exchange of Information for Tax Purposes, in force since 1 Nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-6]: Amended by No I of the FA of 15 Dec. 2000, in force since 1 May 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)No 2.2.1 5501).
@@ -15051,7 +15053,7 @@ The special provisions governing negotiable securities, such as bills of exchang
 
 [^973a-1]
 
-G. Collective custody, global certificate and uncertificated securities
+G. Collective custody, global certificate and uncertificated securities[^973a-2]
 
 <sup>1</sup> A bailee has the power to hold fungible negotiable securities from two or more bailors together in safe custody unless a bailor expressly requests that his securities be held separately.
 
@@ -15060,6 +15062,7 @@ G. Collective custody, global certificate and uncertificated securities
 <sup>3</sup> A bailor has the right at any time, irrespective of the involvement or consent of the other bailors to withdraw negotiable securities from the collective holding to the extent of his share.
 
 [^973a-1]: Inserted by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973a-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### II. Global certificate
 
@@ -15075,11 +15078,15 @@ G. Collective custody, global certificate and uncertificated securities
 
 ### III. Uncertificated securities
 
+[^part5-tit33-chap1-lvlF-lvlIII-1]
+
+[^part5-tit33-chap1-lvlF-lvlIII-1]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 #### Art. 973c
 
 [^973c-1]
 
-<sup>1</sup> The obligor may issue rights with the same function as negotiable securities (uncertificated securities) or replace fungible negotiable securities or global certificates that have been entrusted to a single bailee with uncertificated securities provided the conditions for issue or the articles of association of the company provide therefor or the bailors have consented thereto.
+<sup>1</sup> The obligor may issue uncertificated securities or replace fungible negotiable securities or global certificates that have been entrusted to a single bailee with uncertificated securities provided the conditions for issue or the articles of association provide therefor or the bailors have consented thereto.[^973c-2]
 
 <sup>2</sup> The obligor shall keep a book on the uncertificated securities that he has issued in which details of the number and denomination of the uncertificated securities issued and of the creditors are recorded. The book is not open for public inspection.
 
@@ -15088,6 +15095,131 @@ G. Collective custody, global certificate and uncertificated securities
 <sup>4</sup> The transfer of uncertificated securities requires a written declaration of assignment. Their pledging is governed by the provisions on the pledging of claims.
 
 [^973c-1]: Inserted by Annex No 3 of the Uncertificated Securities Act of 3 Oct. 2008, in force since 1 Jan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973c-2]: Amended by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### I. Establishment
+
+#### Art. 973d
+
+[^973d-1]
+
+H. Ledger-based securities
+
+<sup>1</sup>
+
+A ledger-based security is a right which, in accordance with an agreement between the parties:
+
+- 1\. is registered in a securities ledger in accordance with paragraph 2; and
+- 2\. may be exercised and transferred to others only via this securities ledger.
+
+<sup>2</sup>
+
+The securities ledger must meet the following requirements:
+
+- 1\. It uses technological processes to give the creditors, but not the obligor, power of disposal over their rights.
+- 2\. Its integrity is secured through adequate technical and organisational measures, such as joint management by several independent participants, to protect it from unauthorised modification.
+- 3\. The content of the rights, the functioning of the ledger and the registration agreement are recorded in the ledger or in linked accompanying data.
+- 4\. Creditors can view relevant information and ledger entries, and check the integrity of the ledger contents relating to themselves without intervention by a third party.
+
+<sup>3</sup> The obligor must ensure that the securities ledger is organised in accordance with its intended purpose. In particular, it must be ensured that the ledger operates in accordance with the registration agreement at all times.
+
+[^973d-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### II. Effects
+
+#### Art. 973e
+
+[^973e-1]
+
+<sup>1</sup> The obligor under a ledger-based security is entitled and obliged to render performance only to the creditor indicated in the securities ledger and subject to appropriate modification of the ledger.
+
+<sup>2</sup> By rendering the performance due at maturity to the creditor indicated in the securities ledger, the obligor is released from the obligation even if the indicated creditor is not the actual creditor, unless the obligor is guilty of malice or gross negligence.
+
+<sup>3</sup> When acquiring a ledger-based security in a securities ledger from the creditor indicated therein, the acquirer is protected even if the seller was not entitled to dispose of the ledger-based security, unless the acquirer acted in bad faith or with gross negligence.
+
+<sup>4</sup>
+
+The obligor may raise against a claim deriving from a ledger-based security only those objections which:
+
+- 1\. are aimed at contesting the validity of the registration or derive from the securities ledger itself or its accompanying data;
+- 2\. he or she is personally entitled to raise against the current creditor of the ledger-based security; or
+- 3\. are based on the direct relations between the obligor and a former creditor of the ledger-based security, if the current creditor intentionally acted to the detriment of the obligor when acquiring the ledger-based security.
+
+[^973e-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### III. Transfer
+
+#### Art. 973f
+
+[^973f-1]
+
+<sup>1</sup> <sup>The transfer of the ledger-based security is subject to the provisions of the registration agreement.</sup>
+
+<sup>2</sup>
+
+If the creditor of a ledger-based security is declared bankrupt, if his or her property is distrained or if a debt restructuring moratorium is authorised, the creditor's decisions regarding ledger-based securities are legally binding and effective against third parties, provided that they:
+
+- 1\. were made beforehand;
+- 2\. have become irrevocable under the rules of the securities ledger or another trading facility; and
+- 3\. were actually recorded in the securities ledger within 24 hours.
+
+<sup>3</sup> When a bona fide acquirer of a certificated security and a bona fide acquirer of the ledger-based security have a conflicting claim to the same right, the former takes precedence over the latter.
+
+[^973f-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### IV. Collateral
+
+#### Art. 973g
+
+[^973g-1]
+
+<sup>1</sup>
+
+Collateral may be posted even without the transfer of the ledger-based security, if:
+
+- 1\. the collateral is visible in the securities ledger; and
+- 2\. it is ensured that only the collateral recipient can dispose of the ledger-based security in the event of default.
+
+<sup>2</sup>
+
+In other respects:
+
+- 1\. the special lien on ledger-based securities is governed by the provisions on special liens that apply to certificated securities (Arts. 895–898 of the CC[^973g-2]);
+- 2\. the pledging of ledger-based securities is governed by the provisions on liens on debts and other rights as applicable for certificated securities (Arts. 899–906 of the CC).
+
+[^973g-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^973g-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### V. Cancellation
+
+#### Art. 973h
+
+[^973h-1]
+
+<sup>1</sup> The beneficiary of a ledger-based security may demand that the court cancel the security, provided that he or she furnishes credible evidence of his or her original power of disposal and of the loss thereof. Following cancellation of the instrument, the beneficiary may also exercise his or her right outside the ledger or, at his or her own expense, demand that the obligor allocate a new ledger-based security. In addition, Articles 982–86 apply mutatis mutandis to the procedure for and effect of cancellation.
+
+<sup>2</sup> The parties may make provision for a simplified form of cancellation consisting in a reduction of the number of public calls for presentation or a curtailment of the time limits.
+
+[^973h-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### VI. Information and liability
+
+#### Art. 973i
+
+[^973i-1]
+
+<sup>1</sup>
+
+The obligor under a ledger-based security or a right that is offered as such must inform each acquirer of:
+
+- 1\. the content of the ledger-based security;
+- 2\. the mode of operation of the securities ledger and the measures taken in accordance with Article 973*d* paragraphs 2 and 3 to protect the operation and integrity of the ledger.
+
+<sup>2</sup> The obligor is liable for damage to the acquirer arising out of information that is inaccurate, misleading or in breach of statutory requirements, unless the obligor can prove that he or she acted with due diligence.
+
+<sup>3</sup> Agreements which limit or exclude this liability are void.
+
+[^973i-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Section Two: Registered Securities
 
@@ -16887,6 +17019,12 @@ The provisions of the Debt Collection and Bankruptcy Act of 11 April 1889[^1150-
 
 ### A. Requirements
 
+### I. In general
+
+[^part5-tit33-chap7-lvlB-1]
+
+[^part5-tit33-chap7-lvlB-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 #### Art. 1153
 
 Documents of title to goods issued by a warehouse keeper or carrier as negotiable securities must bear:
@@ -16899,6 +17037,18 @@ Documents of title to goods issued by a warehouse keeper or carrier as negotiabl
 - 6\. any special agreements between the parties concerning the handling of the goods;
 - 7\. the number of duplicates of the document of title to goods;
 - 8\. the persons with power of disposal, with indication of names or to order or as bearer.
+
+### II. Equivalent instruments in security ledgers
+
+#### Art. 1153a
+
+[^1153a-1]
+
+<sup>1</sup> The parties may issue documents of title to goods in the form of ledger-based securities. Articles 1154 and 1155 apply mutatis mutandis.
+
+<sup>2</sup> The issuer's signature is not required if the instrument can be unambiguously attributed to him or her in another manner. The further content of the instrument, including any charges, must be recorded in the securities ledger itself or in the associated accompanying data.
+
+[^1153a-1]: Inserted by No I 1 of the FA of 25 Sept. 2020 on the Adaptation of Federal Law to Developments in Distributed Ledger Technology, in force since 1 Feb. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### B. The warrant
 

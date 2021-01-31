@@ -4,11 +4,11 @@ title: "Lescha federala dals 30 da mars 1911 davart la cumplettaziun dal cudesch
 short: DO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: rm
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/rm/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 30 da mars 1911 (versiun dal 1. da schaner 2021)
+dals 30 da mars 1911 (versiun dal 1. da favrer 2021)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -620,7 +620,7 @@ Sch’in uman vegn mazzà e sch’el subescha blessuras corporalas, po il dersch
 
 [^48-1]
 
-[^48-1]: Abolì tras l’art. 21 al. 1 da la LF dals 30 da sett. 1943 davart la concurrenza illoiala, cun effect dapi il1. da mars 1945 [BS **2** 951].
+[^48-1]: Abolì tras l’art. 21 al. 1 da la LF dals 30 da sett. 1943 davart la concurrenza illoiala, cun effect dapi il1. da mars 1945 (BS **2** 95).
 
 ### 3. Violaziun da la persunalitad
 
@@ -5062,7 +5062,7 @@ Suenter la fin dal temp d’emprova na dastga il patrun betg disdir la relaziun 
 
 [^336c-1]: Versiun tenor la cifra I da la LF dals 18 da mars 1988, en vigur dapi il 1. da schan. 1989 ([AS 1988 1472](https://fedlex.data.admin.ch/eli/oc/1988/1472_1472_1472); [BBl 1984 II 551](https://fedlex.data.admin.ch/eli/fga/1984/2_551_574_494)).
 [^336c-2]: Versiun tenor la cifra 3 da l’agiunta da la LF dals 6 d’oct. 1995 davart il servetsch civil, en vigur dapi il 1. d’oct. 1996 (AS **1996** 1455; [BBl 1994 III 1609](https://fedlex.data.admin.ch/eli/fga/1994/3_1609_1579_1445)).
-[^336c-3]: Rectifitgà da la Cumissiun da redacziun da l’AF [art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^336c-3]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Tras il lavurant
 
@@ -7316,13 +7316,13 @@ Sche pliras persunas han deposità ina chaussa, da la quala las relaziuns giurid
 
 ### C. Magasin da deposit
 
-### I. Dretg d’emetter attests da rauba
+### I. Dretg d’emetter titels da martganzia
 
 #### Art. 482
 
-<sup>1</sup> In possessur d’in magasin che sa porscha publicamain da conservar rauba, po survegnir la permissiun da l’autoritad cumpetenta d’emetter attests da rauba per la rauba depositada.
+<sup>1</sup> In possessur d’in magasin che sa porscha publicamain da conservar rauba, po survegnir la permissiun da l’autoritad cumpetenta d’emetter titels da martganzia per la rauba depositada.
 
-<sup>2</sup> Ils attests da rauba èn vaglias che dattan il dretg da retrair la rauba depositada.
+<sup>2</sup> Ils titels da martganzia èn vaglias che dattan il dretg da retrair la rauba depositada.
 
 <sup>3</sup> Els pon vegnir emess sin il num, sin il cumond ubain sin il purtader.
 
@@ -7354,7 +7354,7 @@ Sche pliras persunas han deposità ina chaussa, da la quala las relaziuns giurid
 
 <sup>2</sup> Las expensas ston vegnir indemnisadas immediatamain, las taxas da deposit suenter la scadenza da 3 mais dapi la magasinaziun ed en mintga cas, cur che la rauba vegn retratga dal tuttafatg u per part.
 
-<sup>3</sup> Per sias pretensiuns ha il possessur d’in magasin in dretg da retenziun vi da la rauba, uschè ditg ch’el è en possess da la rauba u ch’el po disponer da quella cun agid dals attests da rauba.
+<sup>3</sup> Per sias pretensiuns ha il possessur d’in magasin in dretg da retenziun vi da la rauba, uschè ditg ch’el è en possess da la rauba u ch’el po disponer da quella cun agid dals titels da martganzia.
 
 ### V. Restituziun da la rauba
 
@@ -7362,7 +7362,7 @@ Sche pliras persunas han deposità ina chaussa, da la quala las relaziuns giurid
 
 <sup>1</sup> Il possessur d’in magasin ha da restituir la rauba sco in conservader, el è dentant lià vi da la durada da la conservaziun tenor contract er alura, sch’in conservader ordinari avess il dretg – pervia da circumstanzas nunprevisas – da restituir la rauba avant la scadenza dal temp fixà.
 
-<sup>2</sup> Sch’igl è vegnì emess in attest da rauba, dastga e sto el restituir la rauba mo a quella persuna che ha il dretg da la retrair tenor quest attest.
+<sup>2</sup> Sch’igl è vegnì emess in titel da martganzia, dastga e sto el restituir la rauba mo a quella persuna che ha il dretg da la retrair tenor quest attest.
 
 ### D. Ustiers e possessurs da stallas publicas
 
@@ -8736,9 +8736,9 @@ Il chapital d’aczias sto importar almain 100 000 francs.
 
 #### Art. 622
 
-<sup>1</sup> I dat aczias al num ed aczias al possessur. Aczias ch’èn vegnidas emessas sco vaglias contabilisadas tenor la Lescha dals 3 d’october 2008[^622-1] davart las vaglias contabilisadas vegnan concepidas dal dretg d’aczias sco aczias al num u sco aczias al possessur.[^622-2]
+<sup>1</sup> I dat aczias al num ed aczias al possessur. Ellas pon vegnir emessas sco vaglias. Ils statuts pon fixar ch’ellas vegnian emessas sco dretgs da valur tenor l’artitgel 973*c* u 973*d* u sco vaglias contabilisadas en il senn da la Lescha federala dals 3 d’october 2008[^622-1] davart las vaglias contabilisadas (LVC).[^622-2]
 
-<sup>1bis</sup> Aczias al possessur èn mo admissiblas, sche la societad ha quotà titels da participaziun a la bursa u sche las aczias al possessur èn concepidas sco vaglias contabilisadas en il senn da la Lescha federala dals 3 d’october 2008 davart las vaglias contabilisadas ed èn deponidas en Svizra en in lieu da deposit designà da la societad u èn inscrittas en il register principal.[^622-3]
+<sup>1bis</sup> Aczias al possessur èn mo admissiblas, sche la societad ha quotà titels da participaziun a la bursa u sche las aczias al possessur èn concepidas sco vaglias contabilisadas en il senn da la LVC ed èn deponidas en Svizra en in lieu da deposit designà da la societad u èn inscrittas en il register principal.[^622-3]
 
 <sup>2</sup> Tuttas duas spezias d’aczias pon exister ina sper l’autra en ina proporziun che vegn determinada dals statuts.
 
@@ -8753,8 +8753,8 @@ Il chapital d’aczias sto importar almain 100 000 francs.
 <sup>5</sup> Ils titels da las aczias ston vegnir suttascrits d’almain in commember dal cussegl d’administraziun[^622-7]. La societad po decider che er aczias che vegnan emessas en grond dumber stoppian purtar almain ina suttascripziun ch’è scritta cun agen maun.
 
 [^622-1]: [SR 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Versiun tenor la cifra 3 da l’agiunta a la LF davart las vaglias contabilisadas dals 3 d’oct. 2008, en vigur dapi il 1. da schan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^622-3]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^622-2]: Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)). Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Integrà tras la cifra I 1 da la LF dals 21 da zer. 2019 davart la realisaziun da las recumandaziuns dal Forum global per la transparenza ed il barat d’infurmaziuns per intents fiscals, en vigur dapi il 1. da nov. 2019 ([AS 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [BBl 2019 279](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-6]: Versiun tenor la cifra I da la LF dals 15 da dec. 2000, en vigur dapi il 1. da matg 2001 ([AS 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [BBl 2000 4337](https://fedlex.data.admin.ch/eli/fga/2000/921)cifra 2.2.1 5501).
@@ -9760,7 +9760,7 @@ Las indicaziuns davart las indemnisaziuns e davart ils credits ston cumpigliar:
 <sup>3</sup> D’inditgar èn plinavant las participaziuns vi da la societad sco er ils dretgs da conversiun e d’opziun da mintga commember actual dal cussegl d’administraziun, da la direcziun e dal cussegl consultativ, inclusiv las participaziuns da las persunas che stattan en ina stretga relaziun cun quests commembers, inditgond il num e la funcziun dals commembers respectivs.[^663c-3]
 
 [^663c-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [BBl 1983 II 745](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
-[^663c-2]: Rectifitgà da la Cumissiun da redacziun da l’AF [art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^663c-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 [^663c-3]: Integrà tras la cifra I da la LF dals 7 d’oct. 2005 (transparenza concernent las indemnisaziuns che vegnan pajadas als commembers dal cussegl d’administraziun e da la direcziun), en vigur dapi il 1. da schan. 2007 ([AS 2006 2629](https://fedlex.data.admin.ch/eli/oc/2006/401); [BBl 2004 4471](https://fedlex.data.admin.ch/eli/fga/2004/731)).
 
 #### Art. 663d–663h
@@ -10109,7 +10109,7 @@ Als commembers dal cussegl d’administraziun dastgan vegnir attribuidas quotas 
 <sup>3</sup> Sche aczias al num ch’èn quotadas a la bursa[^685d-2] èn vegnidas acquistadas tras ierta, tras ina partiziun d’ierta u tras il dretg dals bains matrimonials, na po l’acquistader betg vegnir refusà.
 
 [^685d-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^685d-2]: Rectifitgà da la Cumissiun da redacziun da l’AF [art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^685d-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### b. Obligaziun d’annunzia
 
@@ -10977,7 +10977,7 @@ Il cussegl d’administraziun ha las suandantas incumbensas intransferiblas e nu
 <sup>2</sup> Il cussegl d’administraziun po surdar la preparaziun e l’execuziun da ses conclus u la surveglianza da fatschentas a giuntas u a singuls commembers. El ha da procurar che ses commembers vegnian infurmads adequatamain.
 
 [^716a-1]: Integrà tras la cifra I da la LF dals 4 d’oct. 1991, en vigur dapi il 1. da fan. 1992 ([AS 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); BBl **1983** II745).
-[^716a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF [art. 33 LRC; [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^716a-2]: Rectifitgà da la Cumissiun da redacziun da l’AF (art. 33 LRC – [AS 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 ### 3. Delegaziun da la gestiun
 
@@ -15051,7 +15051,11 @@ Cun l’indossament e cun la surdada dal document indossà vegnan transferids il
 
 Resalvadas restan las prescripziuns spezialas davart las vaglias, sco en spezial davart la cambiala, davart il schec e davart ils titels da pegn.
 
-### G. Deposit collectiv, certificat global e dretgs da vaglias
+### G. Deposit collectiv, document global e dretgs da valur simpels
+
+[^part5-tit33-chap1-lvlG-1]
+
+[^part5-tit33-chap1-lvlG-1]: Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### I. Deposit collectiv da vaglias
 
@@ -15079,13 +15083,17 @@ Resalvadas restan las prescripziuns spezialas davart las vaglias, sco en spezial
 
 [^973b-1]: Integrà tras la cifra 3 da l’agiunta da la L da vaglias contabilisadas dals 3 d’oct. 2008, en vigur dapi il 1. da schan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-### III. Dretgs da vaglias
+### III. Dretgs da valur simpels
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]: Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973c
 
 [^973c-1]
 
-<sup>1</sup> Il debitur po distribuir dretgs che han la medema funcziun che las vaglias (dretgs da vaglias) u substituir vaglias remplazzablas u certificats globals, che sa chattan tar in unic conservader, tras dretgs da vaglia, sche las cundiziuns da distribuziun u sch’ils statuts da la societad prevesan quai u sch’ils depositurs han dà lur lubientscha.
+<sup>1</sup> Il debitur po emetter dretgs da valur simpels u remplazzar vaglias remplazzablas u documents globals, ch’èn confidads ad in unic conservader, tras dretgs da valur simpels, sche las cundiziuns d’emissiun u ses statuts prevesan quai u sch’ils depositurs han dà lur consentiment per quai.[^973c-2]
 
 <sup>2</sup> Il debitur fa ina contabilitad davart ils dretgs da vaglias ch’el distribuescha en la quala el notescha il dumber e la scumpartiziun dals dretgs da vaglias distribuids ed ils nums dals crediturs. La contabilitad n’è betg publica.
 
@@ -15094,6 +15102,131 @@ Resalvadas restan las prescripziuns spezialas davart las vaglias, sco en spezial
 <sup>4</sup> Per la transmissiun da dretgs da vaglias dovri ina decleraziun da cessiun en scrit. Lur impegnaziun sa drizza tenor las prescripziuns dal dretg da pegn sin pretensiuns.
 
 [^973c-1]: Integrà tras la cifra 3 da l’agiunta da la L da vaglias contabilisadas dals 3 d’oct. 2008, en vigur dapi il 1. da schan. 2010 ([AS 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [BBl 2006 9315](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973c-2]: Versiun tenor la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### H. Dretgs da valur inscrits
+
+### I. Constituziun
+
+#### Art. 973d
+
+[^973d-1]
+
+<sup>1</sup>
+
+In dretg da valur inscrit è in dretg che ha las suandantas caracteristicas sin basa d’ina cunvegna tranter las partidas:
+
+- 1\. el è inscrit en in register da dretgs da valur tenor l’alinea 2; e
+- 2\. el po vegnir fatg valair e transferì sin autras persunas mo sur quest register da dretgs da valur.
+
+<sup>2</sup>
+
+Il register da dretgs da valur sto ademplir las suandantas pretensiuns:
+
+- 1\. cun agid da proceduras tecnicas dat el als crediturs, dentant betg al debitur, la cumpetenza da disponer da lur dretgs;
+- 2\. sia integritad è protegida grazia a mesiras tecnicas ed organisatoricas adequatas che al preservan da midadas nunautorisadas, sco l’administraziun cuminaivla tras pliras parts participadas ch’èn independentas ina da l’autra;
+- 3\. il cuntegn dals dretgs, la moda da funcziun dal register e la cunvegna d’inscripziun figureschan en il register u en datas accumpagnantas agiuntadas;
+- 4\. ils crediturs pon prender invista da las infurmaziuns e da las inscripziuns en il register che pertutgan lur persuna sco er verifitgar l’integritad dal cuntegn dal register che pertutga lur persuna, senza l’intervenziun da terzas persunas.
+
+<sup>3</sup> Il debitur sto procurar ch’il register da dretgs da valur saja organisà tenor ses intent. En spezial sto el procurar ch’il register funcziunia da tut temp tenor la cunvegna d’inscripziun.
+
+[^973d-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### II. Effects
+
+#### Art. 973e
+
+[^973e-1]
+
+<sup>1</sup> Il debitur d’in dretg da valur inscrit ha il dretg e l’obligaziun da prestar ses pajament mo al creditur cumprovà en il register da dretgs da valur e mo sin basa d’ina adattaziun correspundenta dal register.
+
+<sup>2</sup> Premess ch’i na saja betg avant maun ina malignadad u ina greva negligientscha da vart dal debitur, vegn el deliberà, sch’el presta – il mument da la scadenza – in pajament a favur dal creditur cumprovà en il register da dretgs da valur, er sch’il creditur cumprovà n’è betg il creditur effectiv.
+
+<sup>3</sup> Tgi che ha acquistà dal creditur cumprovà en il register da dretgs da valur in dretg da valur inscrit en quest register, sto vegnir protegì en ses acquist, er sche l’alienader n’era betg autorisà da disponer dal dretg, nun che l’acquistader haja agì da mala fai u per greva negligientscha il mument da l’acquist.
+
+<sup>4</sup>
+
+Cunter la pretensiun che sa basa sin in dretg da valur inscrit po il debitur mo far objecziuns:
+
+- 1\. ch’èn drizzadas cunter la valaivladad da la registraziun ubain resortan dal register da dretgs da valur u da sias datas accumpagnantas;
+- 2\. ch’el persunalmain po far valair envers il creditur actual dal dretg da valur inscrit; u
+- 3\. che sa basan sin la relaziun directa dal debitur cun in anteriur creditur dal dretg da valur inscrit, sch’il creditur actual ha agì sapientivamain a disfavur dal debitur a chaschun da l’acquist dal dretg da valur inscrit.
+
+[^973e-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### III. Transferiment
+
+#### Art. 973f
+
+[^973f-1]
+
+<sup>1</sup> Il transferiment dal dretg da valur inscrit è suttamess a las reglas da la cunvegna d’inscripziun.
+
+<sup>2</sup>
+
+Sch’il concurs vegn declerà, sche l’impegnaziun vegn exequida u sch’il moratori d’accumodament vegn concedì envers in creditur d’in dretg da valur inscrit, èn sias disposiziuns davart ils dretgs da valur inscrits giuridicamain liantas ed han in effect envers terzas persunas, sch’ellas:
+
+- 1\. èn vegnidas prendidas ordavant;
+- 2\. èn daventadas irrevocablas tenor las reglas dal register da dretgs da valur u d’in auter sistem da commerzi; e
+- 3\. èn effectivamain vegnidas inscrittas en il register da dretgs da valur entaifer 24 uras.
+
+<sup>3</sup> Areguard il medem dretg ha quella persuna che ha retschavì da buna fai ina vaglia, la precedenza envers quella persuna che ha retschavì da buna fai il dretg da valur inscrit.
+
+[^973f-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### IV. Segirezzas
+
+#### Art. 973g
+
+[^973g-1]
+
+<sup>1</sup>
+
+Ina segirezza po vegnir constituida er senza transferir il dretg da valur inscrit, sche:
+
+- 1\. la segirezza è visibla en il register da dretgs da valur; e
+- 2\. igl è garantì ch’il benefiziari da la segirezza po disponer exclusivamain dal dretg da valur inscrit, en cas ch’el n’è betg vegnì cuntentà.
+
+<sup>2</sup>
+
+Dal rest sa drizza:
+
+- 1\. il dretg da retegnair dretgs da valur inscrits tenor las disposiziuns davart il dretg da retenziun che valan per las vaglias (art. 895–898 CCS[^973g-2]);
+- 2\. il dretg da pegnar dretgs da valur inscrits tenor las disposiziuns davart il dretg da pegn che valan per pretensiuns e per auters dretgs (art. 899–906 CCS).
+
+[^973g-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^973g-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### V. Annullaziun
+
+#### Art. 973h
+
+[^973h-1]
+
+<sup>1</sup> La persuna che ha il dretg d’in dretg da valur inscrit po pretender che la dretgira annulleschia quest dretg da valur inscrit, sch’ella fa valair vardaivlamain d’avair gì oriundamain la cumpetenza da disponer dal dretg e d’avair pers questa cumpetenza. Suenter l’annullaziun po ella far valair ses dretg er ordaifer il register u pretender sin agens custs ch’il debitur l’attribueschia in nov dretg da valur inscrit. Per la procedura e per l’effect da l’annullaziun èn dal rest applitgabels ils artitgels 982–986 tenor il senn.
+
+<sup>2</sup> Las partidas pon prevair in’annullaziun simplifitgada cun reducir il dumber d’appels publics u cun scursanir ils termins.
+
+[^973h-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### VI. Infurmaziun e responsabladad
+
+#### Art. 973i
+
+[^973i-1]
+
+<sup>1</sup>
+
+Il debitur d’in dretg da valur inscrit u d’in dretg che vegn offrì sco tal sto communitgar a mintga acquistader:
+
+- 1\. il cuntegn dal dretg da valur;
+- 2\. la moda da funcziun dal register da dretgs da valur sco er las mesiras per proteger il funcziunament e l’integritad dal register da dretgs da valur tenor l’artitgel 973*d* alineas 2 e 3.
+
+<sup>2</sup> El stat bun per il donn che resulta a l’acquistader tras indicaziuns incorrectas, engianusas u betg confurmas a las pretensiuns legalas, nun ch’el cumprovia d’avair applitgà il quità necessari.
+
+<sup>3</sup> Cunvegnas ch’excludan u che limiteschan questa responsabladad èn nunvalaivlas.
+
+[^973i-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Segund chapitel: Ils titels nominals
 
@@ -16859,7 +16992,13 @@ Las disposiziuns da la Lescha federala dals 11 d’avrigl 1889[^1150-1] davart s
 
 ### Settavel chapitel: Ils titels da martganzia
 
-### A. Cuntegna dal titel
+### A. Premissas
+
+### I. En general
+
+[^part5-tit33-chap7-lvlA-lvlI-1]
+
+[^part5-tit33-chap7-lvlA-lvlI-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1153
 
@@ -16873,6 +17012,18 @@ Ils titels da martganzia che vegnan emess d’in possessur d’in magasin u d’
 - 6\. las cunvegnas spezialas ch’èn vegnidas fatgas dals participads pertutgant il tractament da la rauba;
 - 7\. il dumber dals exemplars dal titel da martganzia;
 - 8\. il num da quel che ha il dretg da disponer da la rauba u la remartga ch’il titel da martganzia saja emess a l’ordra u al possessur.
+
+### II. Titels equivalents en registers da dretgs da valur
+
+#### Art. 1153a
+
+[^1153a-1]
+
+<sup>1</sup> Las partidas pon prevair titels da martganzia en furma da dretgs da valur inscrits. Ils artitgels 1154 e 1155 èn applitgabels tenor il senn.
+
+<sup>2</sup> La suttascripziun da l’emittent n’è betg necessaria, sch’il titel al po vegnir attribuì cleramain en autra moda. L’ulteriur cuntegn dal titel, inclusiv sias grevezzas, sto figurar en il register da dretgs da valur sez u en las datas accumpagnantas agiuntadas.
+
+[^1153a-1]: Integrà tras la cifra I 1 da la LF dals 25 da sett. 2020 davart l’adattaziun dal dretg federal als svilups da la tecnologia dals registers electronics distribuids, en vigur dapi il 1. da favr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### B. Il certificat da pegn
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre c
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/fr"
 
 (Livre cinquième: Droit des obligations)
 
-du 30 mars 1911 (Etat le 1<sup>er</sup> janvier 2021)
+du 30 mars 1911 (Etat le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -632,7 +632,7 @@ Le juge peut, en tenant compte de circonstances particulières, allouer à la vi
 <sup>2</sup> Le juge peut substituer ou ajouter à l’allocation de cette indemnité un autre mode de réparation.
 
 [^49-1]: Nouvelle teneur selon le ch. II 1 de la LF du 16 déc. 1983, en vigueur depuis le 1<sup>er</sup> juil. 1985 ([RO 1984 778](https://fedlex.data.admin.ch/eli/oc/1984/778_778_778); [FF 1982 II 661](https://fedlex.data.admin.ch/eli/fga/1982/2_636_661_628)).
-[^49-2]: Dans le texte allemand «... *und diese nicht anders wiede**r**gutgemacht worden ist*» et dans le texte italien «... *e questa non sia stata riparata in altro modo*...» (... et que le préjudice subi n’ait pas été réparé autrement ...).
+[^49-2]: Dans le texte allemand «... *und diese nicht anders wiedergutgemacht worden ist*» et dans le texte italien «... *e questa non sia stata riparata in altro modo*...» (... et que le préjudice subi n’ait pas été réparé autrement ...).
 
 ### VI. Responsabilité plurale
 
@@ -8458,7 +8458,7 @@ Après la fin de la liquidation, les liquidateurs requièrent la radiation de la
 
 #### Art. 591
 
-<sup>1</sup> Les actions qu’un créancier de la société peut faire valoir contre un associé en raison de dettes sociales se prescrivent par cinq ans dès la publication de sa sortie ou de la dissolution de la société dans la *Feui**l**le officielle suisse du commerce,* à moins que la créance ne soit, de par sa nature, soumise à une prescription plus courte.
+<sup>1</sup> Les actions qu’un créancier de la société peut faire valoir contre un associé en raison de dettes sociales se prescrivent par cinq ans dès la publication de sa sortie ou de la dissolution de la société dans la *Feuille officielle suisse du commerce,* à moins que la créance ne soit, de par sa nature, soumise à une prescription plus courte.
 
 <sup>2</sup> Si la créance n’est devenue exigible que postérieurement à la publication, le délai court dès l’exigibilité.
 
@@ -8741,9 +8741,9 @@ Le capital-actions ne peut être inférieur à 100 000 francs.
 
 #### Art. 622
 
-<sup>1</sup> Les actions sont nominatives ou au porteur. De même, les actions émises sous forme de titres intermédiés au sens de la loi du 3 octobre 2008 sur les titres intermédiés[^622-1] sont nominatives ou au porteur.[^622-2]
+<sup>1</sup> Les actions sont nominatives ou au porteur. Elles peuvent être émises sous forme de papiers-valeurs. Les statuts peuvent prévoir qu’elles sont émises sous forme de droits-valeurs au sens des art. 973*c* ou 973*d* ou de titres intermédiés au sens de la loi fédérale du 3 octobre 2008 sur les titres intermédiés (LTI)[^622-1].[^622-2]
 
-<sup>1bis</sup> Les actions au porteur ne sont autorisées que si la société a des titres de participation cotés en bourse ou si elles sont émises sous forme de titres intermédiés au sens de la loi fédérale du 3 octobre 2008 sur les titres intermédiés et sont déposées auprès d’un dépositaire en Suisse désigné par la société ou inscrites au registre principal.[^622-3]
+<sup>1bis</sup> Les actions au porteur ne sont autorisées que si la société a des titres de participation cotés en bourse ou si elles sont émises sous forme de titres intermédiés au sens de la LTI et sont déposées auprès d’un dépositaire en Suisse désigné par la société ou inscrites au registre principal.[^622-3]
 
 <sup>2</sup> Des actions de ces deux espèces peuvent exister les unes à côté des autres, dans la proportion fixée par les statuts.
 
@@ -8758,8 +8758,8 @@ Le capital-actions ne peut être inférieur à 100 000 francs.
 <sup>5</sup> Les titres sont signés par un membre du conseil d’administration[^622-7] au moins. La société peut décider que même les actions émises en grand nombre doivent porter au moins une signature manuscrite.
 
 [^622-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Nouvelle teneur selon le ch. 3 de l'annexe à la LF du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^622-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^622-2]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Introduit par le ch. I 1 de la LF du 21 juin 2019 sur la mise en œuvre des recommandations du Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales, en vigueur depuis le 1<sup>er</sup> nov. 2019 ([RO 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 277](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-6]: Nouvelle teneur selon le ch. I de la LF du 15 déc. 2000, en vigueur depuis le 1<sup>er</sup> mai 2001 ([RO 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [FF 2000 3995](https://fedlex.data.admin.ch/eli/fga/2000/921)ch. 2.2.1 5091).
@@ -10140,7 +10140,7 @@ Si des actions nominatives cotées en bourse sont vendues en bourse, la banque d
 
 <sup>3</sup> Les acquéreurs non encore reconnus par la société sont, après le transfert du droit, inscrits au registre des actions comme actionnaires sans droit de vote. Leurs actions ne sont pas représentées à l’assemblée générale.
 
-<sup>4</sup> En cas de refus illicite de l’acquéreur, la société est tenue de reconnaître son droit de vote ainsi que les droits attachés au droit de vote à partir du jour du jugement; elle est en outre tenue de réparer le dommage que l’acquéreur a subi du fait de son refus à moins qu’elle ne prouve qu’aucune faute ne lui est imputable.
+<sup>4</sup> En cas de refus illicite de l’acquéreur, la société est tenue de reconnaître son droit de vote ainsi que les droits attachés au droit de vote à partir du jour du tribunalment; elle est en outre tenue de réparer le dommage que l’acquéreur a subi du fait de son refus à moins qu’elle ne prouve qu’aucune faute ne lui est imputable.
 
 [^685f-1]: Introduit par le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 
@@ -10723,7 +10723,7 @@ Une décision de l’assemblée générale recueillant au moins les deux tiers d
 
 <sup>2</sup> Les dispositions statutaires qui prévoient pour la prise de certaines décisions une plus forte majorité que celle prévue par la loi ne peuvent être adoptées qu’à la majorité prévue.
 
-<sup>3</sup> Les titulaires d’actions nominatives qui n’ont pas adhéré à une décision ayant pour objet la transformation du but social ou l’introduction d’actions à droit de vote privilégié ne sont pas liés par les restrictions statutaires de la transmissibilité des actions pendant un délai de six mois à compter de la publication de cette décision dans la *Feuille off**i**cielle suisse du commerce.*
+<sup>3</sup> Les titulaires d’actions nominatives qui n’ont pas adhéré à une décision ayant pour objet la transformation du but social ou l’introduction d’actions à droit de vote privilégié ne sont pas liés par les restrictions statutaires de la transmissibilité des actions pendant un délai de six mois à compter de la publication de cette décision dans la *Feuille officielle suisse du commerce.*
 
 [^704-1]: Nouvelle teneur selon le ch. I de la LF du 4 oct. 1991, en vigueur depuis le 1<sup>er</sup> juil. 1992 ([RO 1992 733](https://fedlex.data.admin.ch/eli/oc/1992/733_733_733); [FF 1983 II 757](https://fedlex.data.admin.ch/eli/fga/1983/2_745_757_713)).
 [^704-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 30 sept. 2011 (Renforcement de la stabilité dans le secteur financier), en vigueur depuis le 1<sup>er</sup> mars 2012 ([RO 2012 811](https://fedlex.data.admin.ch/eli/oc/2012/126); [FF 2011 4365](https://fedlex.data.admin.ch/eli/fga/2011/762)).
@@ -15068,9 +15068,13 @@ Les droits de l’endosseur sont, pour tous les papiers-valeurs transmissibles, 
 
 Demeurent réservées les règles spéciales concernant les divers papiers-valeurs, notamment les effets de change, les chèques et les titres de gage.
 
-### G. Dépôt collectif, certificat global et droits-valeurs
+### G. Dépôt collectif, certificat global et droits-valeurs simples
 
 ### I. Dépôt collectif de papiers-valeurs
+
+[^part5-tit33-chap1-lvlG-lvlI-1]
+
+[^part5-tit33-chap1-lvlG-lvlI-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973a
 
@@ -15096,13 +15100,17 @@ Demeurent réservées les règles spéciales concernant les divers papiers-valeu
 
 [^973b-1]: Introduit par l’annexe ch. 3 de la LF du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-### III. Droits-valeurs
+### III. Droits-valeurs simples
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973c
 
 [^973c-1]
 
-<sup>1</sup> Le débiteur peut émettre des droits ayant la même fonction que des papiers-valeurs (droits-valeurs) ou remplacer par de tels droits des papiers-valeurs fongibles ou des certificats globaux conservés par un même dépositaire, pour autant que les conditions de l’émission ou les statuts de l’émetteur le prévoient ou que les déposants aient donné leur consentement.
+<sup>1</sup> Le débiteur peut émettre des droits-valeurs simples ou remplacer par de tels droits-valeurs des papiers-valeurs fongibles ou des certificats globaux conservés par un même dépositaire, pour autant que les conditions de l’émission ou ses statuts le prévoient ou que les déposants aient donné leur consentement.[^973c-2]
 
 <sup>2</sup> Le débiteur inscrit dans un registre le nombre et la valeur nominale des droits-valeurs émis ainsi que leurs créanciers. Ce registre n’est pas public.
 
@@ -15111,6 +15119,131 @@ Demeurent réservées les règles spéciales concernant les divers papiers-valeu
 <sup>4</sup> Le transfert des droits-valeurs exige une cession écrite. Leur nantissement est soumis aux règles relatives à l’engagement des créances.
 
 [^973c-1]: Introduit par l’annexe ch. 3 de la LF du 3 oct. 2008 sur les titres intermédiés, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8817](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973c-2]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### H. Droits-valeurs inscrits
+
+### I. Constitution
+
+#### Art. 973d
+
+[^973d-1]
+
+<sup>1</sup>
+
+Est droit-valeur inscrit tout droit présentant les caractéristiques suivantes par convention entre les parties:
+
+- 1\. il est inscrit dans un registre de droits-valeurs au sens de l’al. 2, et
+- 2\. il n’est possible de le faire valoir et de le transférer que par ce registre.
+
+<sup>2</sup>
+
+Le registre de droits-valeurs doit satisfaire aux exigences suivantes:
+
+- 1\. il donne aux créanciers, mais non au débiteur, le pouvoir de disposer de leurs droits au moyen de procédés techniques;
+- 2\. son intégrité est protégée par des mesures organisationnelles et techniques adaptées le préservant de toute modification non autorisée, comme la gestion du registre en commun par de multiples participants indépendants les uns des autres;
+- 3\. le contenu des droits, le mode de fonctionnement du registre et la convention d’inscription sont consignés en son sein ou dans une documentation d’accompagnement qui lui est associée;
+- 4\. il permet aux créanciers de consulter les informations et les inscriptions du registre qui les concernent et de vérifier l’intégrité du contenu du registre qui les concerne sans l’intervention d’un tiers.
+
+<sup>3</sup> Le débiteur veille à ce que l’organisation du registre de droits-valeurs soit adaptée au but de ce dernier. Il veille en particulier à ce que le registre fonctionne en tout temps conformément à la convention d’inscription.
+
+[^973d-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### II. Effets
+
+#### Art. 973e
+
+[^973e-1]
+
+<sup>1</sup> Le débiteur d’un droit-valeur inscrit n’a le droit et n’est tenu de s’exécuter qu’envers la personne à qui le registre de droits-valeurs confère la qualité de créancier et contre une adaptation correspondante du registre.
+
+<sup>2</sup> Sauf dol ou négligence grave de sa part, il est libéré par un paiement à l’échéance entre les mains de la personne à qui le registre de droits-valeurs confère la qualité de créancier, même si celle-ci n’est pas le créancier effectif.
+
+<sup>3</sup> Quiconque, sauf s’il agit de mauvaise foi ou par négligence grave au moment de l’acquisition, acquiert un droit-valeur inscrit auprès de la personne à qui le registre de droits-valeurs confère la qualité de créancier est protégé dans son acquisition, même si l’aliénateur n’avait pas le pouvoir d’en disposer.
+
+<sup>4</sup>
+
+Le débiteur ne peut opposer à l’action dérivant d’un droit-valeur inscrit que les exceptions qui répondent à l’une des conditions suivantes:
+
+- 1\. elles sont tirées de la nullité de l’enregistrement, du registre de droits-valeurs ou de la documentation d’accompagnement;
+- 2\. le débiteur les fait valoir personnellement contre le créancier actuel du droit-valeur;
+- 3\. elles se fondent sur les rapports personnels du débiteur avec un créancier antérieur du droit-valeur si le créancier actuel, en acquérant le droit-valeur, a agi sciemment au détriment du débiteur.
+
+[^973e-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### III. Transfert
+
+#### Art. 973f
+
+[^973f-1]
+
+<sup>1</sup> Le transfert d’un droit-valeur inscrit est régi par les règles de la convention d’inscription.
+
+<sup>2</sup>
+
+En cas de faillite du créancier d’un droit-valeur inscrit, d’exécution d’une saisie ou d’octroi d’un sursis concordataire, les actes de disposition du créancier sont juridiquement contraignants et déploient des effets envers les tiers si les conditions suivantes sont réunies:
+
+- 1\. le créancier les a préalablement pris;
+- 2\. ils sont devenus irrévocables selon les règles du registre ou d’un autre système de négociation;
+- 3\. ils ont été effectivement inscrits dans le registre de droits-valeurs dans un délai de 24 heures.
+
+<sup>3</sup> Si, concernant un même droit, l’acquéreur de bonne foi d’un papier-valeur est en conflit avec l’acquéreur de bonne foi d’un droit-valeur inscrit, le premier a la préférence.
+
+[^973f-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### IV. Sûretés
+
+#### Art. 973g
+
+[^973g-1]
+
+<sup>1</sup>
+
+Une sûreté peut être constituée sans transfert de droit-valeur inscrit si les conditions suivantes sont réunies:
+
+- 1\. la constitution de la sûreté est visible dans le registre de droits-valeurs;
+- 2\. la personne qui bénéficie de la sûreté est assurée de jouir d’un pouvoir exclusif de disposer du droit-valeur inscrit si elle n’est pas désintéressée.
+
+<sup>2</sup>
+
+Au surplus:
+
+- 1\. le droit de rétention sur les droits-valeurs inscrits est régi par les dispositions sur le droit de rétention applicables aux papiers-valeurs (art. 895 à 898 CC[^973g-2]);
+- 2\. le droit de gage sur les droits-valeurs inscrits est régi par les dispositions relatives au gage sur les créances et autres droits applicables aux papiers-valeurs (art. 899 à 906 CC).
+
+[^973g-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^973g-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### V. Annulation
+
+#### Art. 973h
+
+[^973h-1]
+
+<sup>1</sup> L’ayant droit d’un droit-valeur inscrit peut requérir du juge l’annulation de ce droit-valeur s’il rend plausible qu’il avait le pouvoir d’en disposer et qu’il a perdu ce pouvoir. S’il obtient l’annulation, il peut faire valoir son droit en dehors du registre ou demander à ses frais au débiteur l’attribution d’un nouveau droit-valeur inscrit. La procédure et les effets de l’annulation sont régis pour le surplus par les art. 982 à 986 qui sont applicables par analogie.
+
+<sup>2</sup> Les parties peuvent prévoir une procédure d’annulation plus simple en réduisant le nombre des sommations publiques ou la durée des délais.
+
+[^973h-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### VI. Information et responsabilité
+
+#### Art. 973i
+
+[^973i-1]
+
+<sup>1</sup>
+
+Le débiteur d’un droit-valeur inscrit, ou d’un droit proposé en tant que tel, doit communiquer à chaque acquéreur de ce droit-valeur:
+
+- 1\. le contenu du droit-valeur;
+- 2\. les informations sur le mode de fonctionnement du registre de droits-valeurs ainsi que les mesures visant à assurer son fonctionnement et à préserver son intégrité conformément à l’art. 973*d*, al. 2 et 3.
+
+<sup>2</sup> Il répond du dommage causé à l’acquéreur du fait d’informations inexactes, trompeuses ou non conformes aux exigences légales, à moins qu’il ne prouve qu’il a agi avec toute la diligence nécessaire.
+
+<sup>3</sup> Les conventions qui restreignent ou excluent cette responsabilité sont nulles.
+
+[^973i-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Chapitre II: Des titres nominatifs
 
@@ -15214,7 +15347,7 @@ Si le juge estime dignes de foi les allégations du requérant au sujet de la po
 
 #### Art. 984
 
-<sup>1</sup> La sommation de produire le titre est publiée trois fois dans la *Feui**l**le officielle suisse du commerce*.
+<sup>1</sup> La sommation de produire le titre est publiée trois fois dans la *Feuille officielle suisse du commerce*.
 
 <sup>2</sup> Le juge peut exceptionnellement prescrire telles autres mesures de publicité qui lui paraîtraient utiles.
 
@@ -16911,7 +17044,13 @@ Les dispositions de la loi fédérale du 11 avril 1889 sur la poursuite pour det
 
 ### Chapitre VII: Des titres représentatifs de marchandises
 
-### A. Énonciations
+### A. Conditions
+
+### I. En général
+
+[^part5-tit33-chap7-lvlA-lvlI-1]
+
+[^part5-tit33-chap7-lvlA-lvlI-1]: Nouvelle teneur selon le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 1153
 
@@ -16925,6 +17064,18 @@ Les titres représentatifs de marchandises émis comme papiers-valeurs par un en
 - 6\. les conventions particulières des intéressés relatives à la manutention des marchandises;
 - 7\. le nombre des exemplaires du titre;
 - 8\. le nom de la personne qui a le droit de disposer, ou la mention que le titre est à ordre ou au porteur.
+
+### II. Titres représentatifs de marchandises d’un registre de droits-valeurs
+
+#### Art. 1153a
+
+[^1153a-1]
+
+<sup>1</sup> Les parties peuvent prévoir des titres représentatifs de marchandises sous la forme de droits-valeurs inscrits. Les art. 1154 et 1155 sont applicables par analogie.
+
+<sup>2</sup> La signature de l’émetteur peut être omise si ce titre peut lui être clairement attribué par un autre moyen. Pour le reste, le contenu du titre, y compris les charges qui le grèvent, doit être consigné dans le registre de droits-valeurs ou dans une documentation d’accompagnement qui lui est associée.
+
+[^1153a-1]: Introduit par le ch. I 1 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### B. Du warrant
 

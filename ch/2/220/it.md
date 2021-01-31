@@ -4,11 +4,11 @@ title: "Legge federale del 30 marzo 1911 di complemento del Codice civile svizze
 short: CO
 eli: "https://fedlex.data.admin.ch/eli/cc/27/317_321_377"
 language: it
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1911-03-30
 in_force: 1912-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210101/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/27/317_321_377/20210201/it/xml/fedlex-data-admin-ch-eli-cc-27-317_321_377-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/20210101/it"
 
 (Libro quinto: Diritto delle obbligazioni)
 
-del 30 marzo 1911 (Stato 1° gennaio 2021)
+del 30 marzo 1911 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -5893,7 +5893,7 @@ articolo 329*e* capoversi 1 e 3 (congedo giovanile);[^362-3]
 
 articolo 329*f* (congedo di maternità);[^362-4]
 
-articolo 329*g* (congedo di paternità); [^362-5]
+articolo 329*g* (congedo di paternità);[^362-5]
 
 articolo 329*h* (congedo di assistenza ai familiari);[^362-6]
 
@@ -6018,7 +6018,7 @@ L’appalto è un contratto per cui l’appaltatore si obbliga a compiere un’o
 
 #### Art. 366
 
-<sup>1</sup> Ove l’appaltatore non cominci l’opera in tempo debito, o la differisca oltre il convenuto, o l’abbia senza del committente ritardata di tanto da far prevedere che non sarà compiuta in tempo debito, il committente può senza attendere il termine di consegna, recedere dal contratto.
+<sup>1</sup> Ove l’appaltatore non cominci l’opera in tempo debito, o la differisca oltre il convenuto, o l’abbia senza colpa del committente ritardata di tanto da far prevedere che non sarà compiuta in tempo debito, il committente può senza attendere il termine di consegna, recedere dal contratto.
 
 <sup>2</sup> Se durante l’esecuzione dell’opera sia prevedibile con certezza, che per colpa dell’appaltatore essa sarà per riuscire difettosa, o non conforme al contratto, il committente può fissargli o fargli fissare un congruo termine per rimediarvi, sotto comminatoria che diversamente sarà affidata ad un terzo la riparazione o la continuazione dell’opera a rischio e spese dell’appaltatore.
 
@@ -8805,9 +8805,9 @@ Il capitale azionario non può essere inferiore a 100 000 franchi.
 
 #### Art. 622
 
-<sup>1</sup> Le azioni sono nominative o al portatore. Le azioni emesse quali titoli contabili ai sensi della legge del 3 ottobre 2008[^622-1] sui titoli contabili prendono la forma, dal punto di vista del diritto della società anonima, di azioni nominative o di azioni al portatore.[^622-2]
+<sup>1</sup> Le azioni sono nominative o al portatore. Possono essere emesse sotto forma di titoli di credito. Lo statuto può disporre che siano emesse sotto forma di diritti valori ai sensi dell’articolo 973*c* o 973*d* oppure di titoli contabili ai sensi della legge del 3 ottobre 2008[^622-1] sui titoli contabili (LTCo).[^622-2]
 
-<sup>1bis</sup> Le azioni al portatore sono ammesse soltanto se la società ha titoli di partecipazione quotati in borsa o se le stesse rivestono la forma di titoli contabili ai sensi della legge del 3 ottobre 2008 sui titoli contabili e sono depositate in Svizzera presso un ente di custodia designato dalla società o iscritte nel registro principale.[^622-3]
+<sup>1bis</sup> Le azioni al portatore sono ammesse soltanto se la società ha titoli di partecipazione quotati in borsa o se le stesse rivestono la forma di titoli contabili ai sensi della LTCo e sono depositate in Svizzera presso un ente di custodia designato dalla società o iscritte nel registro principale.[^622-3]
 
 <sup>2</sup> Possono coesistere azioni delle due specie nella proporzione determinata dallo statuto.
 
@@ -8822,8 +8822,8 @@ Il capitale azionario non può essere inferiore a 100 000 franchi.
 <sup>5</sup> I titoli delle azioni devono essere sottoscritti da almeno un amministratore. La società può stabilire che, anche ove si tratti d’azioni emesse in gran numero, una firma almeno sia autografa.
 
 [^622-1]: [RS 957.1](https://fedlex.data.admin.ch/eli/cc/2009/450)
-[^622-2]: Nuovo testo giusta l’all. n. 3 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
-[^622-3]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
+[^622-2]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^622-3]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)). Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 [^622-4]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-5]: Introdotto dal n. I 1 della LF del 21 giu. 2019 che attua le raccomandazioni del Forum globale sulla trasparenza e sullo scambio di informazioni a fini fiscali, in vigore dal 1° nov. 2019 ([RU 2019 3161](https://fedlex.data.admin.ch/eli/oc/2019/583); [FF 2019 275](https://fedlex.data.admin.ch/eli/fga/2019/18)).
 [^622-6]: Nuovo testo giusta il n. I della LF del 15 dic. 2000, in vigore dal 1° mag. 2001 ([RU 2001 1047](https://fedlex.data.admin.ch/eli/oc/2001/153); [FF 2000 3765](https://fedlex.data.admin.ch/eli/fga/2000/921)n. 2.2.1 4798).
@@ -15111,9 +15111,13 @@ Con la girata e la consegna del titolo girato, se questo è trasferibile, tutti 
 
 Rimangono riservate le norme particolari riguardanti le singole specie di titoli di credito, in ispecial modo la cambiale, l’assegno bancario ed i titoli di pegno.
 
-### G. Custodia collettiva, certificato globale e diritti valori
+### G. Custodia collettiva, certificato globale e diritti valori semplici
 
 ### I. Custodia collettiva di titoli di credito
+
+[^part5-tit33-chap1-lvlG-lvlI-1]
+
+[^part5-tit33-chap1-lvlG-lvlI-1]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973a
 
@@ -15139,13 +15143,17 @@ Rimangono riservate le norme particolari riguardanti le singole specie di titoli
 
 [^973b-1]: Introdotto dall’all. n. 3 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
 
-### III. Diritti valori
+### III. Diritti valori semplici
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]
+
+[^part5-tit33-chap1-lvlG-lvlIII-1]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 #### Art. 973c
 
 [^973c-1]
 
-<sup>1</sup> Il debitore può emettere diritti con la stessa funzione di titoli di credito (diritti valori) o sostituire con diritti valori titoli di credito o certificati globali fungibili affidati a un solo depositario, sempre che le condizioni d’emissione o gli statuti societari lo prevedano o i deponenti abbiano dato il loro consenso.
+<sup>1</sup> Il debitore può emettere diritti valori semplici o sostituire con diritti valori semplici titoli di credito o certificati globali fungibili affidati a un solo depositario, sempre che le condizioni di emissione o il suo statuto lo prevedano o i deponenti abbiano dato il loro consenso.[^973c-2]
 
 <sup>2</sup> Il debitore tiene un registro dei diritti valori che ha emesso, nel quale iscrive il numero e il taglio dei diritti valori emessi, nonché i creditori. Il registro non è pubblico.
 
@@ -15154,6 +15162,131 @@ Rimangono riservate le norme particolari riguardanti le singole specie di titoli
 <sup>4</sup> Il trasferimento di diritti valori necessita di una dichiarazione scritta di cessione. La loro costituzione in pegno sottostà alle disposizioni concernenti il diritto di pegno sui crediti.
 
 [^973c-1]: Introdotto dall’all. n. 3 della L del 3 ott. 2008 sui titoli contabili, in vigore dal 1° gen. 2010 ([RU 2009 3577](https://fedlex.data.admin.ch/eli/oc/2009/450); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
+[^973c-2]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### H. Diritti valori registrati
+
+### I. Costituzione
+
+#### Art. 973d
+
+[^973d-1]
+
+<sup>1</sup>
+
+Un diritto valore registrato è un diritto che per accordo delle parti:
+
+- 1\. è iscritto in un registro di diritti valori ai sensi del capoverso 2; e
+- 2\. può essere esercitato e trasferito soltanto per il tramite di detto registro.
+
+<sup>2</sup>
+
+Il registro di diritti valori soddisfa i seguenti requisiti:
+
+- 1\. mediante procedure tecniche conferisce ai creditori, ma non al debitore, la facoltà di disporre dei loro diritti;
+- 2\. la sua integrità è garantita mediante misure tecniche e organizzative adeguate, quali la gestione comune da parte di persone indipendenti tra loro, che lo proteggono da modifiche illecite;
+- 3\. il contenuto dei diritti, le modalità operative del registro e l’accordo sulla registrazione figurano nel registro o nei dati aggiuntivi a esso correlati;
+- 4\. i creditori possono consultare le informazioni e le iscrizioni che li riguardano nonché verificare l’integrità del contenuto del registro che li riguarda senza l’intervento di terzi.
+
+<sup>3</sup> Il debitore garantisce che il registro di diritti valori sia organizzato in conformità con lo scopo di quest’ultimo. Garantisce in particolare che il registro funzioni in ogni momento nel modo stabilito nell’accordo sulla registrazione.
+
+[^973d-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### II. Effetti
+
+#### Art. 973e
+
+[^973e-1]
+
+<sup>1</sup> Il debitore di un diritto valore registrato ha il diritto e l’obbligo di adempiere la prestazione unicamente nei confronti del creditore legittimato dal registro di diritti valori nonché dietro pertinente adeguamento del registro.
+
+<sup>2</sup> Il debitore, qualora non gli sia imputabile dolo o negligenza grave, si libera soddisfacendo alla scadenza il creditore legittimato dal registro di diritti valori, anche se il creditore legittimato non è quello effettivo.
+
+<sup>3</sup> Chi, qualora al momento dell’acquisto non gli sia imputabile mala fede o negligenza grave, acquista un diritto valore registrato da un creditore legittimato dal registro di diritti valori è tutelato nel suo acquisto anche se l’alienante non aveva la facoltà di disporre del diritto valore registrato.
+
+<sup>4</sup>
+
+Il debitore può opporre al credito fondato su un diritto valore registrato soltanto le eccezioni che:
+
+- 1\. sono dirette contro la validità della registrazione oppure desunte dal registro di diritti valori o dai dati aggiuntivi a esso correlati;
+- 2\. gli spettano personalmente contro l’attuale creditore del diritto valore registrato; o
+- 3\. sono dedotte dai suoi rapporti personali con un creditore anteriore del diritto valore registrato, quando quello attuale, acquistando il diritto valore registrato, abbia agito scientemente a danno del debitore.
+
+[^973e-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### III. Trasferimento
+
+#### Art. 973f
+
+[^973f-1]
+
+<sup>1</sup> Al trasferimento del diritto valore registrato si applicano le regole stabilite nell’accordo sulla registrazione.
+
+<sup>2</sup>
+
+Se nei confronti del creditore di un diritto valore registrato è dichiarato il fallimento, è eseguito il pignoramento o è concessa la moratoria concordataria, sono giuridicamente vincolanti e hanno effetto nei confronti di terzi le disposizioni del creditore in merito al diritto valore registrato che:
+
+- 1\. sono state prese prima della dichiarazione di fallimento, dell’esecuzione del pignoramento o della concessione della moratoria concordataria;
+- 2\. sono diventate irrevocabili secondo le regole del registro di diritti valori o di un altro sistema di negoziazione; e
+- 3\. sono state effettivamente iscritte entro 24 ore nel registro di diritti valori.
+
+<sup>3</sup> Chi ha ricevuto in buona fede un titolo di credito prevale su chi ha ricevuto in buona fede, per lo stesso diritto, un diritto valore registrato.
+
+[^973f-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### IV. Garanzie
+
+#### Art. 973g
+
+[^973g-1]
+
+<sup>1</sup>
+
+Una garanzia può essere costituita senza trasferimento del diritto valore registrato se:
+
+- 1\. la garanzia è visibile nel registro di diritti valori; e
+- 2\. è assicurato che il beneficiario della garanzia non altrimenti soddisfatto abbia il diritto esclusivo di disporre del diritto valore registrato.
+
+<sup>2</sup>
+
+Per il rimanente:
+
+- 1\. il diritto di ritenzione su diritti valori registrati è retto dalle disposizioni applicabili al diritto di ritenzione sulle cartevalori (art. 895–898 CC[^973g-2]);
+- 2\. il diritto di pegno su diritti valori registrati è retto dalle disposizioni applicabili al diritto di pegno sui crediti e su altri diritti (art. 899–906 CC).
+
+[^973g-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^973g-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
+
+### V. Ammortamento
+
+#### Art. 973h
+
+[^973h-1]
+
+<sup>1</sup> L’avente diritto a un diritto valore registrato può chiedere che il giudice ne pronunci l’ammortamento, sempre che renda verosimile di aver avuto la facoltà di disporre del diritto valore e di averla persa. Pronunciato l’ammortamento, l’avente diritto può esercitare il suo diritto anche al di fuori del registro o chiedere a sue spese al debitore l’attribuzione di un nuovo diritto valore registrato. Per il rimanente, alla procedura e agli effetti dell’ammortamento si applicano per analogia gli articoli 982–986.
+
+<sup>2</sup> Le parti possono prevedere una procedura d’ammortamento più semplice, riducendo il numero delle pubbliche diffide o abbreviando i termini.
+
+[^973h-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### VI. Informazione e responsabilità
+
+#### Art. 973i
+
+[^973i-1]
+
+<sup>1</sup>
+
+Il debitore di un diritto valore registrato, o di un diritto offerto come tale, informa ciascun acquirente:
+
+- 1\. sul contenuto del diritto valore;
+- 2\. sulle modalità operative del registro di diritti valori e le misure a tutela della sua operatività e integrità secondo l’articolo 973*d* capoversi 2 e 3.
+
+<sup>2</sup> Egli è responsabile del danno cagionato all’acquirente da indicazioni inesatte, suscettibili d’indurre in errore o non conformi ai requisiti legali, sempre che non provi di aver usato la necessaria diligenza.
+
+<sup>3</sup> Qualsiasi convenzione che escluda o limiti questa responsabilità è nulla.
+
+[^973i-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### Capo secondo: Dei titoli nominativi
 
@@ -16960,6 +17093,12 @@ Le disposizioni della legge federale dell’11 aprile 1889[^1150-1] sulla esecuz
 
 ### A. Requisiti
 
+### I. In generale
+
+[^part5-tit33-chap7-lvlA-lvlI-1]
+
+[^part5-tit33-chap7-lvlA-lvlI-1]: Nuovo testo giusta il n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
 #### Art. 1153
 
 I titoli rappresentanti merci, emessi come titoli di credito da un magazziniere o da un vetturale, devono contenere:
@@ -16972,6 +17111,18 @@ I titoli rappresentanti merci, emessi come titoli di credito da un magazziniere 
 - 6\. i patti speciali riguardanti la conservazione o la manipolazione della merce, stipulati dagli interessati;
 - 7\. il numero degli esemplari del titolo;
 - 8\. il nome di chi ha il diritto di disporre della merce o la clausola all’ordine o al portatore.
+
+### II. Titoli equivalenti in registri di diritti valori
+
+#### Art. 1153a
+
+[^1153a-1]
+
+<sup>1</sup> Le parti possono prevedere titoli rappresentanti merci sotto forma di diritti valori registrati. Gli articoli 1154 e 1155 si applicano per analogia.
+
+<sup>2</sup> La sottoscrizione dell’emittente non è necessaria se il titolo può essergli attribuito chiaramente in altro modo. L’ulteriore contenuto del titolo, compresi gli oneri che lo gravano, deve figurare nel registro di diritti valori o nei dati aggiuntivi a esso correlati.
+
+[^1153a-1]: Introdotto dal n. I 1 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### B. Nota di pegno (warrant)
 
