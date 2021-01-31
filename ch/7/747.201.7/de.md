@@ -4,11 +4,11 @@ title: "Verordnung vom 14. März 1994 über Bau und Betrieb von Schiffen und Anl
 short: SBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: de
-version: 2016-02-01
+version: 2021-02-01
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20160201/de/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20160201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20160201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20160201/de"
 
 (Schiffbauverordnung, SBV)
 
-vom 14. März 1994 (Stand am 1. Februar 2016)
+vom 14. März 1994 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -342,7 +342,7 @@ Im Rahmen der Erteilung des Schiffsausweises nach Artikel 96 der Binnenschifffah
 
 <sup>2</sup> Mit Schiffen ohne Schiffsausweis dürfen nur Probefahrten durchgeführt werden. Probefahrten müssen von der zuständigen Behörde bewilligt werden. Es dürfen sich nur Personen an Bord befinden, die am Bau oder der Erprobung unmittelbar beteiligt sind. Die zuständige Behörde kann die Bewilligung von Probefahrten mit weiteren Auflagen verbinden.
 
-<sup>3</sup> …[^19-1]
+<sup>3</sup> ...[^19-1]
 
 [^19-1]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2016 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
@@ -439,9 +439,11 @@ Die ausreichende Stabilität des intakten Schiffes (Intaktstabilität) ist nachz
 
 <sup>1</sup> Steuerstände müssen so angeordnet und eingerichtet sein, dass sie ein sicheres Führen des Schiffes gewährleisten. Das Fahrwasser und die zum An- und Ablegen nötigen Einrichtungen müssen vom Steuerstand ausreichend überblickt werden können.
 
-<sup>2</sup> Der Eigengeräuschpegel der Schiffe darf am Steuerstand in Kopfhöhe des Schiffsführers oder der Schiffsführerin bei normalen Betriebsbedingungen 70 dB (A) nicht übersteigen.
+<sup>2</sup> ...[^28-1]
 
 <sup>3</sup> Die Beleuchtung des Schiffes darf den Schiffsführer oder die Schiffsführerin nicht behindern.
+
+[^28-1]: Aufgehoben durch Ziff. I der V vom 11. Dez. 2015, mit Wirkung seit 1. Febr. 2021 ([AS 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
 ### 2. Abschnitt: Maschinenbauliche Anforderungen
 
@@ -703,9 +705,9 @@ Es legt Anforderungen an das Personal fest, das:
 
 #### Art. 47
 
-**Signal‑, Fernmelde- und Navigationsanlagen**
+**Signal-, Fernmelde- und Navigationsanlagen**
 
-<sup>1</sup> Wenn es die Verkehrssicherheit oder die Sicherheit an Bord erfordert, sind für die Verbindung zwischen Schiff und Land oder zwischen Schiffen Signal‑, Fernmelde- oder Navigationsanlagen einzurichten.
+<sup>1</sup> Wenn es die Verkehrssicherheit oder die Sicherheit an Bord erfordert, sind für die Verbindung zwischen Schiff und Land oder zwischen Schiffen Signal-, Fernmelde- oder Navigationsanlagen einzurichten.
 
 <sup>2</sup> Die Anlagen unterliegen der Plangenehmigung (Art. 16).
 
@@ -806,7 +808,7 @@ Das UVEK erlässt die Ausführungsbestimmungen.
 
 **Änderung bisherigen Rechts**
 
-…[^56-1]
+...[^56-1]
 
 [^56-1]: Die Änderungen können unter [AS 1994 1011](https://fedlex.data.admin.ch/eli/oc/1994/1011_1011_1011)konsultiert werden.
 

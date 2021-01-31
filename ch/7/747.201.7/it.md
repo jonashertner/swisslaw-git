@@ -4,20 +4,20 @@ title: "Ordinanza del 14 marzo 1994 concernente la costruzione e l'esercizio dei
 short: OCB
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: it
-version: 2016-02-01
+version: 2021-02-01
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20160201/it/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20160201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20160201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza concernente la costruzione e l’esercizio dei battelli e degli impianti delle imprese pubbliche di navigazione
 
-(Ordinanza sulla costruzione dei battelli, OCB)[^t-1]
+(Ordinanza sulla costruzione dei battelli, OCB)**[^t-1]**
 
-del 14 marzo 1994 (Stato 1° febbraio 2016)
+del 14 marzo 1994 (Stato 1° febbraio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
@@ -84,7 +84,7 @@ Nella presente ordinanza s’intende per:
 
 L’UFT[^4-1] federale riscuote emolumenti giusta l’ordinanza del 1° luglio 1987[^4-2] sugli emolumenti relativi ai compiti dell’Ufficio federale dei trasporti.
 
-[^4-1]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^4-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-2]: [[RU 1987 1052](https://fedlex.data.admin.ch/eli/oc/1987/1052_1052_1052)[1795](https://fedlex.data.admin.ch/eli/oc/1987/1795_1795_1795), [1992 573](https://fedlex.data.admin.ch/eli/oc/1992/573_573_573)art. 25 cpv. 3, [1993 1375](https://fedlex.data.admin.ch/eli/oc/1993/1375_1375_1375)art. 7 [2599](https://fedlex.data.admin.ch/eli/oc/1993/2599_2599_2599), [1996 146](https://fedlex.data.admin.ch/eli/oc/1996/146_146_146)n. I 3 [470](https://fedlex.data.admin.ch/eli/oc/1996/470_470_470)art. 55 cpv. 3. [RU 1999 754](https://fedlex.data.admin.ch/eli/oc/1999/116)all. n. 1]. Vedi ora l’O del 25 nov. 1998 sugli emolumenti dell’UFT ([RS 742.102](https://fedlex.data.admin.ch/eli/cc/1999/116)).
 
 #### Art. 5
@@ -381,7 +381,7 @@ Gli impianti infrastrutturali possono entrare in servizio ed essere esercitati s
 
 <sup>3</sup> L’autorità competente può esigere che sia fornita la prova della sicurezza d’esercizio e dell’idoneità di elementi di costruzione e di oggetti dell’attrezzatura. Può esigere documenti attestanti le caratteristiche e la qualità dei materiali di costruzione.
 
-[^22-1]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^22-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 23
 
@@ -391,7 +391,7 @@ Gli impianti infrastrutturali possono entrare in servizio ed essere esercitati s
 
 <sup>2</sup> Su singoli battelli si può, con l’autorizzazione dell’autorità competente, contare tre bambini di età inferiore a dodici anni come due adulti. L’autorità competente stabilisce di quanto può essere superato il numero massimo di passeggeri, considerando la galleggiabilità in caso di falla, la stabilità, il bordo libero e la distanza di sicurezza, nonché lo stato generale del battello. Il numero massimo di passeggeri non deve in nessun caso essere superato di più del 20 per cento.
 
-[^23-1]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^23-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 24
 
@@ -443,14 +443,15 @@ La sufficiente stabilità del battello intatto (stabilità battello intatto) dev
 
 <sup>1</sup> Il posto di governo dev’essere installato e costruito in modo da garantire una conduzione[^28-2] sicura del battello e una sufficiente visibilità sul percorso da seguire e sugli impianti[^28-3] necessari per approdare e per salpare.
 
-<sup>2</sup> Al posto di governo, all’altezza della testa del conducente, il livello di rumore dei battelli, in condizioni d’esercizio normali, non deve oltrepassare i 70 dB (A).
+<sup>2</sup> ... [^28-4]
 
-<sup>3</sup> L’illuminazione del battello non deve disturbare il conduttore[^28-4].
+<sup>3</sup> L’illuminazione del battello non deve disturbare il conduttore[^28-5].
 
-[^28-1]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^28-2]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^28-3]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
-[^28-4]: Nuova espressione giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^28-1]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^28-2]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-3]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-4]: Abrogato dal n. I dell’O dell’11 dic. 2015, con effetto dal 1° feb. 2021 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
+[^28-5]: Nuova espr. giusta il n. I dell’O dell’11 dic. 2015, in vigore dal 1° feb. 2016 ([RU 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ### Sezione 2: Requisiti delle macchine
 
@@ -815,7 +816,7 @@ Il DATEC emana le disposizioni d’esecuzione.
 
 **Modificazione del diritto vigente**
 
-…[^56-1]
+...[^56-1]
 
 [^56-1]: Le mod. possone essere consultate alla [RU 1994 1011](https://fedlex.data.admin.ch/eli/oc/1994/1011_1011_1011).
 

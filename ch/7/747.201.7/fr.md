@@ -4,20 +4,20 @@ title: "Ordonnance du 14 mars 1994 sur la construction et l'exploitation des bat
 short: OCEB
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011"
 language: fr
-version: 2016-02-01
+version: 2021-02-01
 adopted: 1994-03-14
 in_force: 1994-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20160201/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20160201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20160201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1011_1011_1011/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1994-1011_1011_1011-20210201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1011_1011_1011/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur la construction et l’exploitation des bateaux et des installations des entreprises publiques de navigation
 
-(Ordonnance sur la construction des bateaux, OCEB)[^t-1]
+(Ordonnance sur la construction des bateaux, OCEB)**[^t-1]**
 
-du 14 mars 1994 (Etat le 1<sup>er</sup> février 2016)
+du 14 mars 1994 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 11 déc. 2015, en vigueur depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
@@ -55,7 +55,7 @@ Au sens de la présente ordonnance, on entend par:
 
 - a. *entreprises publiques de navigation**:* les entreprises de navigation au bénéfice d’une concession ou d’une autorisation fédérale;
 - b. *installations d’infrastructure:* les constructions et dispositifs nécessaires à la navigation, notamment les débarcadères, les chantiers navals et les installations de ravitaillement;
-- c. *vecteurs d’énergie spéciaux :* les combustibles ou les agents moteurs autres que l’essence, les combustibles diesel, la vapeur destinée à la propulsion de bateaux ou l’énergie électrique. En cas de doute sur la nature d’un vecteur d’énergie, l’Office fédéral des transports (OFT) tranche;
+- c. *vecteurs d’énergie spéciaux:* les combustibles ou les agents moteurs autres que l’essence, les combustibles diesel, la vapeur destinée à la propulsion de bateaux ou l’énergie électrique. En cas de doute sur la nature d’un vecteur d’énergie, l’Office fédéral des transports (OFT) tranche;
 - d.
 
   *analyse des risques:* la procédure systématique destinée à analyser les risques après la mise en service (phase d’exploitation):
@@ -443,9 +443,11 @@ La stabilité suffisante du bateau intact (stabilité du bateau intact) devra ê
 
 <sup>1</sup> La timonerie doit être placée et installée de manière à garantir une conduite sûre. La voie navigable et les installations nécessaires pour accoster et appareiller doivent être suffisamment visibles de la timonerie.
 
-<sup>2</sup> En cas de condition d’exploitation normale, le niveau sonore des bateaux ne doit pas dépasser 70 dB (A), mesurés au niveau de la timonerie, à la hauteur de la tête du conducteur.
+<sup>2</sup> …[^28-1]
 
 <sup>3</sup> L’éclairage du bateau ne doit pas gêner le conducteur.
+
+[^28-1]: Abrogé par le ch. I de l’O du 11 déc. 2015, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2016 159](https://fedlex.data.admin.ch/eli/oc/2016/21)).
 
 ### Section 2 Exigences relatives aux machines
 
