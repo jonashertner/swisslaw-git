@@ -4,13 +4,13 @@ number: "141.3"
 title: Geschäftsreglement der Regierung und der Staatskanzlei
 short: GeschR
 language: de
-version: 2018-01-01
-corrected: 2018-01-24
-version_adopted: 2017-12-05
+version: 2021-02-01
+valid_until: 2021-07-31
+version_adopted: 2021-01-26
 adopted: 1951-12-07
 in_force: 1952-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.3"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2311/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3162/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2311/pdf_file"
 
 (GeschR)
 
-vom 07.12.1951 (Stand 01.01.2018)
+vom 07.12.1951 (Stand 01.02.2021)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -148,7 +148,7 @@ verordnen:[^ingress-1]
 - k) Konsulate;
 - l) Statistik;
 - m) Konsumkredit;[^21-3]
-- n) Lotterien.
+- n) Geldspielgesetzgebung.
 
 [^21-1]: SR [943.1](https://db.clex.ch/link/Bund/943.1/de).
 [^21-2]: SR [942.211](https://db.clex.ch/link/Bund/942.211/de).
@@ -174,12 +174,13 @@ verordnen:[^ingress-1]
 - g<sup>ter</sup>) Einrichtungen für Menschen mit Behinderung (ohne Sonderschulen);
 - g<sup>quater</sup>) Betagten- und Pflegeheime;
 - g<sup>quinquies</sup>) gemischte Einrichtungen nach dem Sozialhilfegesetz;
+- g<sup>sexies</sup>) Adoption und Herkunftssuche;
 - h) Sozialhilfe, soweit nicht andere Departemente zuständig sind;
 - i) Sozialversicherungen, soweit nicht andere Departemente zuständig sind;
 - i<sup>bis</sup>) Gleichstellung von Mann und Frau;
 - i<sup>ter</sup>) Integrationsförderung;
 - k) Staats- und Stiftsarchiv sowie Bibliotheken;
-- l) Kultur, Denkmalpflege und Archäologie;
+- l) Kulturförderung und Kulturerbe einschliesslich Denkmalpflege und Archäologie;
 - l<sup>bis</sup>) Lotteriefonds-Beitragswesen;
 - m) Amtsbürgschaftsgenossenschaften;
 - n) …
@@ -229,6 +230,7 @@ verordnen:[^ingress-1]
 - k) Aufsicht über die Kantonalbank;
 - l) …
 - m) …
+- n) öffentliches Beschaffungswesen.
 
 #### Art. 25
 
@@ -251,8 +253,8 @@ verordnen:[^ingress-1]
 - i) Badanstalten in Bad Ragaz und Pfäfers;
 - k) Bergbau;
 - l) Arbeitsbeschaffung;
-- m) Enteignungen zugunsten des Kantons, öffentliches Beschaffungswesen;
-- n) Energieversorung und -nutzung;
+- m) Enteignungen zugunsten des Kantons;
+- n) Energieversorgung und -nutzung;
 - o) Bau und Unterhalt von Flugplätzen;
 - p) Abschluss und Vollzug der Grundbuchgeschäfte für die Regierung und die Departemente im Bereich des Finanz- und Verwaltungsvermögens.
 
@@ -282,7 +284,7 @@ verordnen:[^ingress-1]
 - h<sup>ter</sup>) unentgeltliche Rechtspflege vor Verwaltungsbehörden;
 - i) Justizvollzug (Straf- und Massnahmenvollzug, Vollzugseinrichtungen und Gefängnisse, Bewährungshilfe);
 - k) …
-- l) kantonale Gebäudeversicherung, Feuerschutz und Feuerwehrwesen.
+- l) kantonale Gebäudeversicherung und Feuerschutz.
 
 #### Art. 26bis
 
@@ -353,7 +355,7 @@ verordnen:[^ingress-1]
 
 <sup>2</sup> Sie unterstützt den Regierungspräsidenten bei Erfüllung seiner Aufgaben.
 
-[^34-1]: Insbesondere Art. [7](https://www.gesetzessammlung.sg.ch/data/140.1/de/art7.) Abs. 1 Bst. a sowie Art. [32](https://www.gesetzessammlung.sg.ch/data/140.1/de/art32.) und [33](https://www.gesetzessammlung.sg.ch/data/140.1/de/art33.) StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
+[^34-1]: Insbesondere Art. [7d](https://www.gesetzessammlung.sg.ch/data/140.1/de/art7d) sowie Art. [32](https://www.gesetzessammlung.sg.ch/data/140.1/de/art32) ff. und [40](https://www.gesetzessammlung.sg.ch/data/140.1/de/art33) des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
 
 #### Art. 35
 
@@ -366,19 +368,30 @@ verordnen:[^ingress-1]
 - c) die Verbreitung von amtlichen Informationen durch Medienmitteilungen und Medienorientierungen sowie über den Internet-Auftritt des Kantons;
 - d) die Ausfertigung und der Versand der von der Regierung oder vom Regierungspräsidenten ausgehenden Schriftstücke;
 - e) die Herausgabe der Gesetzessammlung, des Amtsblattes, des Staatskalenders und allfälliger weiterer Veröffentlichungen;
-- e<sup>bis</sup>) die Leitung von und die Mitwirkung in Rechtsetzungsvorhaben im Auftrag der Regierung oder nach vereinbartem Leistungsauftrag mit dem zuständigen Departement;
+- e<sup>bis</sup>) die Leitung von und die Mitwirkung in Rechtsetzungsvorhaben im Auftrag der Regierung oder in Zusammenarbeit mit dem zuständigen Departement;
 - e<sup>ter</sup>) die Vorprüfung von Erlassentwürfen der Departemente;
 - e<sup>quater</sup>) Beratung und Wissensvermittlung in Rechtsetzungsfragen;
-- f) die Drucksachen- und Büromaterialverwaltung;
+- e<sup>quinquies</sup>) die Wahrnehmung der Aufgaben im Bereich politische Planung und Controlling[^35-1];
+- e<sup>sexies</sup>) die Geschäftsführung der Generalsekretäre-Konferenz[^35-2];
+- e<sup>septies</sup>) die Unterstützung der Regierung bei der Pflege der Aussenbeziehungen und die Koordination der nationalen, interkantonalen, grenzüberschreitenden und internationalen Zusammenarbeit des Kantons;
+- f) …
 - f<sup>bis</sup>) die fachliche Verantwortung für Einführung, Wartung und Pflege für die elektronische Geschäftsverwaltung von Departementen, Regierung und Kantonsrat. Ausgenommen sind die Zuständigkeiten des Staatsarchivs in der Aktenführung und Archivierung;
+- f<sup>ter</sup>) der Postdienst für die Departemente, die Staatskanzlei und die Gerichte;
 - g) die Beglaubigung von Unterschriften;
 - h) der Einzug der Gebühren der Regierung und der Staatskanzlei.
 
+[^35-1]: [Art. 40](https://www.gesetzessammlung.sg.ch/data/140.1/de/art40) des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
+[^35-2]: [Art. 35](https://www.gesetzessammlung.sg.ch/data/140.1/de/art35) Abs. 3 des Staatsverwaltungsgesetzes vom 16. Juni 1994, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de).
+
 #### Art. 36
 
-**Materialzentrale**
+**Büromaterial und Drucksachen**
 
-<sup>1</sup> Die Dienststellen der kantonalen Verwaltung beziehen Büromaterial und -drucksachen sowie Bürogeräte bei der Materialzentrale der Staatskanzlei.
+<sup>1</sup> Die Staatskanzlei ist zuständig für die Koordination des Bezugs von Büromaterial und Drucksachen.
+
+<sup>2</sup> Die Dienststellen der kantonalen Verwaltung beziehen Büromaterial und Drucksachen bei der von der Staatskanzlei bezeichneten Stelle.
+
+<sup>3</sup> Sie reichen der Staatskanzlei Aufträge für Drucksachen ein. Die Staatskanzlei sorgt für die Ausführung.
 
 #### Art. 36bis
 
