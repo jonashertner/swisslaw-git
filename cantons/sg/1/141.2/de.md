@@ -4,13 +4,13 @@ number: "141.2"
 title: Geschäftsordnung der Regierung
 short: GeschO
 language: de
-version: 2014-10-01
-valid_until: 2021-01-31
-version_adopted: 2014-07-01
+version: 2021-02-01
+valid_until: 2022-02-28
+version_adopted: 2021-01-12
 adopted: 1997-05-05
 in_force: 1997-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/141.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1733/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3102/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1733/pdf_file"
 
 (GeschO)
 
-vom 05.05.1997 (Stand 01.10.2014)
+vom 05.05.1997 (Stand 01.02.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -322,9 +322,14 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Ein Mitglied kann zu einer Abstimmungsvorlage des Bundes öffentlich Stellung nehmen, wenn:
 
-- a) die Stellungnahme der Abstimmungsempfehlung der Regierung entspricht;
-- b) die Regierung keine Abstimmungsempfehlung beschlossen hat;
-- c) die Regierung eine Abstimmungsempfehlung beschlossen hat und eine davon abweichende Stellungnahme genehmigt.
+- a) die Stellungnahme der Abstimmungsempfehlung oder der internen Haltung der Regierung entspricht;
+- b) die Regierung keine Abstimmungsempfehlung oder interne Haltung beschlossen hat;
+- c) die Regierung eine Abstimmungsempfehlung oder interne Haltung beschlossen hat und eine davon abweichende Stellungnahme genehmigt.
+
+<sup>2</sup> Die Regierung kann zu einer Abstimmungsvorlage des Bundes öffentlich Stellung nehmen oder eine interne Haltung festlegen, wenn:
+
+- a) der Kanton besonders betroffen ist oder
+- b) die Regierung aufgrund der strategischen Bedeutung der Fragestellung für den Kanton eine geschlossene Haltung der Regierung nach aussen als vordringlich erachtet.
 
 #### Art. 27b
 
