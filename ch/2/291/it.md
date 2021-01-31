@@ -4,11 +4,11 @@ title: Legge federale del 18 dicembre 1987 sul diritto internazionale privato (L
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: it
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/it"
 
 (LDIP)
 
-del 18 dicembre 1987 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 18 dicembre 1987 (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1200,19 +1200,25 @@ La riserva della proprietà su una cosa mobile destinata all’esportazione è r
 
 <sup>1</sup> La costituzione in pegno di crediti, di titoli di credito (cartevalori) e di altri diritti è regolata dal diritto scelto dalle parti. La scelta del diritto applicabile non è opponibile ai terzi.
 
-<sup>2</sup> Se le parti non hanno scelto il diritto applicabile, la costituzione in pegno di crediti e titoli di credito è regolata dal diritto della dimora abituale del creditore pignoratizio; la costituzione in pegno di altri diritti è regolata dal diritto applicabile a questi ultimi.
+<sup>2</sup> Se le parti non hanno scelto il diritto applicabile, la costituzione in pegno di crediti è regolata dal diritto della dimora abituale del creditore pignoratizio. Lo stesso vale per la costituzione in pegno di altri diritti, in quanto siano rappresentati da un diritto valore, un titolo di credito o un titolo equivalente; altrimenti la loro costituzione in pegno è regolata dal diritto loro applicabile.[^105-1]
 
 <sup>3</sup> Il diritto opponibile al debitore è unicamente quello regolatore del diritto costituito in pegno.
 
-### b. Titoli rappresentanti merci
+[^105-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### b. Titoli rappresentanti merci e titoli equivalenti
 
 #### Art. 106
 
-<sup>1</sup> Il diritto designato in un titolo determina se il titolo rappresenta la merce. In mancanza di designazione, si applica il diritto dello Stato in cui l’emittente ha la stabile organizzazione.
+[^106-1]
 
-<sup>2</sup> I diritti reali sul titolo rappresentante merci e sulla merce medesima sono regolati dal diritto applicabile al titolo in quanto cosa mobile.
+<sup>1</sup> Il diritto designato nell’articolo 145*a* capoverso 1 determina se un titolo rappresenta una merce.
 
-<sup>3</sup> Se più parti fanno valere diritti reali sulla merce, le une direttamente e le altre sulla scorta di un titolo rappresentante merci, la priorità è decisa giusta il diritto applicabile alla merce medesima.
+<sup>2</sup> I diritti reali sul titolo materiale rappresentante merci e sulla merce medesima sono regolati dal diritto applicabile al titolo in quanto cosa mobile.
+
+<sup>3</sup> Se più parti fanno valere diritti reali sulla merce, le une direttamente e le altre sulla scorta di un titolo, la priorità è decisa giusta il diritto applicabile alla merce medesima.
+
+[^106-1]: Nuovo testo giusta il n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### c. Mezzi di trasporto
 
@@ -1231,7 +1237,7 @@ Sono fatte salve le disposizioni di altre leggi federali in materia di diritti r
 Le decisioni straniere concernenti diritti reali su cose mobili sono riconosciute in Svizzera se pronunciate:
 
 - a. nello Stato di domicilio del convenuto;
-- b. nello Stato di situazione della cosa, sempreché il convenuto vi dimori abitualmente.
+- b. nello Stato di situazione della cosa, sempreché il convenuto vi dimori abitualmente;
 - c.[^108-1] ...
 
 [^108-1]: Abrogata dall’art. 2 del DF del 3 ott. 2008 che approva e traspone nel diritto svizzero la Conv. dell’Aia sulla L applicabile ad alcuni diritti su strumenti finanziari detenuti presso un intermediario, con effetto dal 1° gen. 2010 ([RU 2009 6579](https://fedlex.data.admin.ch/eli/oc/2009/814); [FF 2006 8533](https://fedlex.data.admin.ch/eli/fga/2006/1228)).
@@ -1695,6 +1701,18 @@ Se il creditore ha pretese contro più debitori, le conseguenze giuridiche sotto
 <sup>3</sup> La forma della cessione è regolata esclusivamente dal diritto applicabile al contratto di cessione.
 
 <sup>4</sup> Le questioni concernenti unicamente il rapporto tra cedente e cessionario sono regolate dal diritto applicabile al rapporto giuridico su cui si fonda la cessione.
+
+### 1*a*. Trasmissione mediante un titolo
+
+#### Art. 145a
+
+[^145a-1]
+
+<sup>1</sup> Il diritto designato in un titolo che ha forma cartacea o equivalente determina se un credito è rappresentato e trasmesso mediante tale titolo. In mancanza di tale designazione si applica il diritto dello Stato in cui l’emittente ha la sede o, in mancanza di questa, la dimora abituale.
+
+<sup>2</sup> Per quanto riguarda i diritti reali su un titolo materiale sono fatte salve le disposizioni del capitolo 7.
+
+[^145a-1]: Introdotto dal n. I 3 della LF del 25 set. 2020 sull’adeguamento del diritto federale agli sviluppi della tecnologia di registro distribuito, in vigore dal 1° feb. 2021 ([RU 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 221](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 2. Trasmissione per legge
 

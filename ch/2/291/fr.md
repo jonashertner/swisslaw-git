@@ -4,11 +4,11 @@ title: Loi fédérale du 18 décembre 1987 sur le droit international privé (LD
 short: LDIP
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/fr"
 
 (LDIP)
 
-du 18 décembre 1987 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 décembre 1987 (Etat le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1202,19 +1202,25 @@ La réserve de propriété constituée sur une chose mobilière destinée à l�
 
 <sup>1</sup> La mise en gage de créances, de papiers-valeurs ou d’autres droits, est régie par le droit choisi par les parties. Cette élection de droit n’est pas opposable aux tiers.
 
-<sup>2</sup> À défaut d’élection de droit, la mise en gage de créances ou de papiers-valeurs est régie par le droit de l’État de la résidence habituelle du créancier gagiste; la mise en gage d’autres droits est régie par le droit qui s’applique a ceux-ci.
+<sup>2</sup> À défaut d’élection de droit, la mise en gage de créances est régie par le droit de l’État de la résidence habituelle du créancier gagiste. Il en est de même de la mise en gage d’autres droits s’ils sont représentés par un droit-valeur, un papier-valeur ou un titre équivalent; dans le cas contraire, leur mise en gage est régie par le droit qui s’applique aux droits eux-mêmes.[^105-1]
 
 <sup>3</sup> Le débiteur ne peut se voir opposer un droit autre que celui qui régit le droit mis en gage.
+
+[^105-1]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### b. Titres représentatifs de marchandises
 
 #### Art. 106
 
-<sup>1</sup> Le droit désigné dans un titre détermine si ce titre représente la marchandise. À défaut d’une telle désignation, la question est régie par le droit de l’État dans lequel l’émetteur a son établissement.
+[^106-1]
 
-<sup>2</sup> Lorsque le titre représente la marchandise, les droits réels relatifs au titre et à la marchandise sont régis par le droit applicable au titre en tant que bien mobilier.
+<sup>1</sup> Le droit désigné à l’art. 145*a*, al. 1, détermine si un titre représente une marchandise.
+
+<sup>2</sup> Lorsqu’un titre physique représente la marchandise, les droits réels relatifs au titre et à la marchandise sont régis par le droit applicable au titre en tant que bien mobilier.
 
 <sup>3</sup> Lorsque plusieurs personnes font valoir des droits réels sur la marchandise, les unes directement, les autres en vertu d’un titre, le droit applicable à la marchandise même détermine lequel de ces droits prévaut.
+
+[^106-1]: Nouvelle teneur selon le ch. I 3 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### c. Moyens de transport
 
@@ -1697,6 +1703,18 @@ Lorsque le créancier peut faire valoir sa créance contre plusieurs débiteurs,
 <sup>3</sup> La forme de la cession est exclusivement régie par le droit applicable au contrat de cession.
 
 <sup>4</sup> Les questions concernant exclusivement les relations entre cédant et cessionnaire sont régies par le droit applicable au rapport juridique à la base de la cession.
+
+### 1*a*. Transfert d’une créance par l’intermédiaire d’un titre
+
+#### Art. 145a
+
+[^145a-1]
+
+<sup>1</sup> Le droit désigné dans un titre revêtant la forme d’un papier ou une forme équivalente détermine si ce titre représente une créance et si le transfert de la créance se fait par l’intermédiaire de ce titre. À défaut d’une telle désignation, la question est régie par le droit de l’État dans lequel l’émetteur a son siège ou, faute de siège, sa résidence habituelle.
+
+<sup>2</sup> En ce qui concerne les droits réels relatifs à un titre physique, les dispositions du chapitre 7 sont réservées.
+
+[^145a-1]: Introduit par le ch. I 3 de la LF du 25 sept. 2020 sur l’adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [FF 2020 223](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 2. Cession légale
 

@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht (
 short: IPRG
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776"
 language: de
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1987-12-18
 in_force: 1989-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1988-1776_1776_1776-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1988/1776_1776_1776/20210101/de"
 
 (IPRG)
 
-vom 18. Dezember 1987 (Stand am 1. Januar 2021)
+vom 18. Dezember 1987 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1200,19 +1200,25 @@ Der Eigentumsvorbehalt an einer zur Ausfuhr bestimmten beweglichen Sache unterst
 
 <sup>1</sup> Die Verpfändung von Forderungen, Wertpapieren und anderen Rechten untersteht dem von den Parteien gewählten Recht. Die Rechtswahl kann Dritten nicht entgegengehalten werden.
 
-<sup>2</sup> Fehlt eine Rechtswahl, so untersteht die Verpfändung von Forderungen und Wertpapieren dem Recht am gewöhnlichen Aufenthalt des Pfandgläubigers; die Verpfändung anderer Rechte untersteht dem auf diese anwendbaren Recht.
+<sup>2</sup> Fehlt eine Rechtswahl, so untersteht die Verpfändung von Forderungen dem Recht am gewöhnlichen Aufenthalt des Pfandgläubigers. Für die Verpfändung anderer Rechte gilt dasselbe, sofern diese durch ein Wertrecht, ein Wertpapier oder einen gleichwertigen Titel vertreten werden; andernfalls untersteht ihre Verpfändung dem auf sie anwendbaren Recht.[^105-1]
 
 <sup>3</sup> Dem Schuldner kann nur das Recht entgegengehalten werden, dem das verpfändete Recht untersteht.
 
-### b. Warenpapiere
+[^105-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+
+### b. Warenpapiere und gleichwertige Titel
 
 #### Art. 106
 
-<sup>1</sup> Das in einem Warenpapier bezeichnete Recht bestimmt, ob das Papier die Ware vertritt. Ist im Papier kein Recht bezeichnet, so gilt das Recht des Staates, in dem der Aussteller seine Niederlassung hat.
+[^106-1]
 
-<sup>2</sup> Vertritt ein Papier die Ware, so unterstehen die dinglichen Rechte am Papier und an der Ware dem Recht, das auf das Warenpapier als bewegliche Sache anwendbar ist.
+<sup>1</sup> Das in Artikel 145*a* Absatz 1 bezeichnete Recht bestimmt, ob ein Titel Waren vertritt.
 
-<sup>3</sup> Machen verschiedene Parteien dingliche Rechte an der Ware geltend, die einen unmittelbar, die anderen aufgrund eines Warenpapiers, so entscheidet über den Vorrang das auf die Ware selbst anwendbare Recht.
+<sup>2</sup> Vertritt ein physischer Titel die Ware, so unterstehen die dinglichen Rechte am Titel und an der Ware dem Recht, das auf den Titel als bewegliche Sache anwendbar ist.
+
+<sup>3</sup> Machen verschiedene Parteien dingliche Rechte an der Ware geltend, die einen unmittelbar, die anderen aufgrund eines Titels, so entscheidet über den Vorrang das auf die Ware selbst anwendbare Recht.
+
+[^106-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### c. Transportmittel
 
@@ -1246,9 +1252,12 @@ Ausländische Entscheidungen über dingliche Rechte an beweglichen Sachen werden
 
 #### Art. 108a
 
-Unter intermediärverwahrten Wertpapieren sind Wertpapiere zu verstehen, die bei einem Intermediär im Sinne des Haager Übereinkommens vom 5. Juli 2006[^108a-1] über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung verwahrt werden.
+[^108a-1]
 
-[^108a-1]: [SR 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
+Der Begriff der intermediärverwahrten Wertpapiere ist im Sinne des Haager Übereinkommens vom 5. Juli 2006[^108a-2] über die auf bestimmte Rechte an intermediärverwahrten Wertpapieren anzuwendende Rechtsordnung zu verstehen.
+
+[^108a-1]: Fassung gemäss Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
+[^108a-2]: [SR 0.221.556.1](https://fedlex.data.admin.ch/eli/cc/2017/185)
 
 ### II. Zuständigkeit
 
@@ -1697,6 +1706,18 @@ Hat der Gläubiger Ansprüche gegen mehrere Schuldner, so unterstehen die Rechts
 <sup>3</sup> Die Form der Abtretung untersteht ausschliesslich dem auf den Abtretungsvertrag anwendbaren Recht.
 
 <sup>4</sup> Fragen, die nur das Verhältnis zwischen den Parteien des Abtretungsvertrages betreffen, unterstehen dem Recht, welches auf das der Abtretung zugrundeliegende Rechtsverhältnis anwendbar ist.
+
+### 1*a*. Übertragung mittels eines Titels
+
+#### Art. 145a
+
+[^145a-1]
+
+<sup>1</sup> Ob eine Forderung durch einen Titel in Papier- oder gleichwertiger Form vertreten und mittels dieses Titels übertragen wird, bestimmt das darin bezeichnete Recht. Ist im Titel kein Recht bezeichnet, so gilt das Recht des Staates, in dem der Aussteller seinen Sitz oder, wenn ein solcher fehlt, seinen gewöhnlichen Aufenthalt hat.
+
+<sup>2</sup> Betreffend dingliche Rechte an einem physischen Titel bleiben die Bestimmungen des siebten Kapitels vorbehalten.
+
+[^145a-1]: Eingefügt durch Ziff. I 3 des BG vom 25. Sept. 2020 zur Anpassung des Bundesrechts an Entwicklungen der Technik verteilter elektronischer Register, in Kraft seit 1. Febr. 2021 ([AS 2021 33](https://fedlex.data.admin.ch/eli/oc/2021/33); [BBl 2020 233](https://fedlex.data.admin.ch/eli/fga/2020/16)).
 
 ### 2. Übergang kraft Gesetzes
 
