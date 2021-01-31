@@ -3,18 +3,18 @@ sr: "672.201.1"
 title: "Ordonnance 1 du DFF du 4 décembre 2019 relative à l'imputation d'impôts étrangers prélevés à la source"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/29"
 language: fr
-version: 2020-02-01
+version: 2021-02-01
 adopted: 2019-12-04
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-29-20200201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/29/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-29-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/29/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance 1 du DFF relative à l’imputation d’impôts étrangers prélevés à la source
 
-du 4 décembre 2019 (Etat le 1<sup>er</sup> février 2020)
+du 4 décembre 2019 (Etat le 1<sup>er</sup> février 2021)
 
 Le Département fédéral des Finances (DFF),
 
@@ -28,7 +28,7 @@ arrête:
 
 <sup>1</sup> La liste des États avec lesquels la Suisse a conclu une convention contre les doubles impositions ainsi que les montants d’impôts à la source non récupérables sur les dividendes, les intérêts, les redevances de licences et les rémunérations pour prestations de services figurent en annexe.
 
-<sup>2</sup> Le Secrétariat d’État aux questions financières internationales tient la liste à jour.
+<sup>2</sup> Le Secrétariat d’État aux questions financières internationales (SFI) tient la liste à jour.
 
 #### Art. 2
 
@@ -40,13 +40,15 @@ L’ordonnance 1 du DFF du 6 décembre 1967 relative à l’imputation forfaitai
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2020.
 
-Annexe
+Annexe[^t-1]
 
 (art. 1, al. 1)
 
 ## Liste des États contractants
 
-(valable pour les revenus échus au cours de l’année 2019)[^annexu1-lvlu1-1]
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du SFI du 15 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 21](https://fedlex.data.admin.ch/eli/oc/2021/21)).
+
+(valable pour les revenus échus au cours de l’année 2020)[^annexu1-lvlu1-1]
 
 Les montants d’impôts prélevés à la source non récupérables doivent actuellement être appliqués sur la base des conventions contre les doubles impositions mentionnées dans la liste ci-dessous[^annexu1-lvlu1-2].
 
@@ -65,7 +67,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">3.6.2006</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="3">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="3">15</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="3">10 [C1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="3">10 [D23]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="3">10</td></tr>
 <tr><td colspan="2">Allemagne</td><td colspan="2">Dividendes</td><td colspan="3"></td></tr>
 <tr><td colspan="2">11.8.1971</td><td colspan="2">– d’usines hydroélectriques frontières</td><td colspan="3">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="3">0</td></tr>
@@ -74,8 +76,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">Argentine</td><td colspan="2">Dividendes</td><td colspan="2">7 [B4]</td></tr>
 <tr><td colspan="2">20.3.2014</td><td colspan="2">Intérêts</td><td colspan="2">12 [C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="2">15 [D6]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Rémunérations pour fourniture d’assistance technique</td><td colspan="2">15</td></tr>
-<tr><th colspan="2">*États contractants* date de la convention</th><th colspan="2">Revenus [A1]</th><th colspan="4">Impôts à la source non récupérables des États contractants en % [A2]</th></tr>
+<tr><td colspan="2"></td><td colspan="2">Rémunérations pour fourniture d’assistance technique</td><td colspan="2">10</td></tr>
 <tr><td colspan="2">Arménie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">12.6.2006</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5 [B5]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
@@ -95,7 +96,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">Bangladesh</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">10.12.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C23]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2">Bélarus</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">26.4.1999</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
@@ -125,7 +126,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">2.4.2008</td><td colspan="2">Intérêts</td><td colspan="4">10 [C34] [C8]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4"></td></tr>
 <tr><td colspan="2"></td><td colspan="2">– de *leasing*</td><td colspan="4">2 [D7]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres redevances</td><td colspan="4">10</td></tr>
 <tr><td colspan="2">Chine</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">25.9.2013</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
@@ -135,8 +136,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">25.7.2014</td><td colspan="2"></td><td colspan="4"></td></tr>
 <tr><td colspan="2">Colombie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">26.10.2007</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">0</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes morales</td><td colspan="4">5/7,5 [B1] [B38]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– à des personnes physiques</td><td colspan="4">7,5 [B1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1] [B38]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C26]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Rémunérations pour prestations de services</td><td colspan="4">10</td></tr>
@@ -155,14 +155,13 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">Danemark</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">23.11.1973</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
-<tr><td colspan="2">Égypte</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">20.5.1987</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">5</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
+<tr><td colspan="2">Égypte</td><td colspan="2">Dividendes</td><td colspan="4">0</td></tr>
+<tr><td colspan="2">20.5.1987</td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">15 [C1] [C2]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">12,5 [D22]</td></tr>
-<tr><td colspan="2">Emirats arabes unis</td><td colspan="2">Dividendes</td><td colspan="4">0 [B31]</td></tr>
+<tr><td colspan="2">Émirats arabes unis</td><td colspan="2">Dividendes</td><td colspan="4">0 [B31]</td></tr>
 <tr><td colspan="2">6.10.2011</td><td colspan="2"></td><td colspan="2"></td></tr>
-<tr><td colspan="2">Équateur</td><td colspan="2">Dividendes</td><td colspan="4">0 [B10]</td></tr>
+<tr><td colspan="2">Équateur</td><td colspan="2">Dividendes</td><td colspan="4">10 [B10]</td></tr>
 <tr><td colspan="2">28.11.1994</td><td colspan="2">Intérêts</td><td colspan="4">10 [C1] [C7]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2">Espagne</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
@@ -187,7 +186,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">Ghana</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">23.7.2008</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">8 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">8 [C1] [C4]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">8 [C1] [C4] [C32]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">8</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Rémunérations de services</td><td colspan="4">8 [E1]</td></tr>
 <tr><td colspan="2">Grèce</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
@@ -199,7 +198,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">4.11.2011</td><td colspan="2"></td><td colspan="4"></td></tr>
 <tr><td colspan="2">Hongrie</td><td colspan="2">Dividendes</td><td colspan="4">0 [B1]</td></tr>
 <tr><td colspan="2">12.9.2013</td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
-<tr><td colspan="2">Inde</td><td colspan="2">Dividendes</td><td colspan="4">0 [B2]</td></tr>
+<tr><td colspan="2">Inde</td><td colspan="2">Dividendes</td><td colspan="4">10</td></tr>
 <tr><td colspan="2">2.11.1994</td><td colspan="2">Intérêts</td><td colspan="4">10 [C1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Rémunérations pour prestations de services techniques</td><td colspan="4">10</td></tr>
@@ -210,7 +209,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Rémunérations des prestations de services</td><td colspan="4">5</td></tr>
 <tr><td colspan="2">Iran</td><td colspan="2">Dividendes</td><td colspan="4">0 [B14]</td></tr>
-<tr><td colspan="2">27.10.2002</td><td colspan="2">Intérêts</td><td colspan="4">3 [C1] [C4] [C31]</td></tr>
+<tr><td colspan="2">27.10.2002</td><td colspan="2">Intérêts</td><td colspan="4">0/5 [C1] [C4] [C31]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">de 1,5 à 5 [D25]</td></tr>
 <tr><td colspan="2">Islande</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">10.7.2014</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
@@ -291,7 +290,8 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">3.8.1993</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">[C1] [C15]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– Papiers-valeurs traités en bourse, au Mexique ou dans un État ayant conclu une CDI avec le Mexique</td><td colspan="4">4,9</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– papiers-valeurs traités en bourse, au Mexique ou dans un État ayant conclu une CDI avec le Mexique</td><td colspan="4">4,9</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– payés à une banque ou à une assurance</td><td colspan="4">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10 [D24]</td></tr>
 <tr><td colspan="2">Moldova</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
@@ -313,9 +313,9 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">6.6.1980</td><td colspan="2">Intérêts</td><td colspan="4">10 [C16]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2">*Oman*</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
-<tr><td colspan="2">22.5.2015</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0/5 [B42]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">0/10 [B1] [B42]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C1]</td></tr>
+<tr><td colspan="2">22.5.2015</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">0 [B42]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">0 [B1] [B42]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">8</td></tr>
 <tr><td colspan="2">Ouzbékistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">3.4.2002</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5</td></tr>
@@ -324,7 +324,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5</td></tr>
 <tr><td colspan="2">Pakistan</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">21.3.2017</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">de 7,5 à 10 [B22]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">de 7,5 à 20 [B22]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">de 7,5 à 15 [B22]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Rémunérations pour des prestations de services techniques</td><td colspan="4">7</td></tr>
@@ -356,7 +356,7 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2">25.10.1993</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">0</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">5 [B1]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5 [C1] [C6]</td></tr>
-<tr><td colspan="2">Royaume Uni</td><td colspan="2">Dividendes</td><td colspan="4">0 [B32]</td></tr>
+<tr><td colspan="2">Royaume-Uni</td><td colspan="2">Dividendes</td><td colspan="4">0 [B32]</td></tr>
 <tr><td colspan="2">8.12.1977</td><td colspan="2"></td><td colspan="4"></td></tr>
 <tr><td colspan="2">Russie</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">15.11.1995</td><td colspan="2">– de filiales (dès 20 %)</td><td colspan="4">5 [B5]</td></tr>
@@ -378,8 +378,8 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">5 [D1] [D13]</td></tr>
 <tr><td colspan="2">Sri Lanka</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
 <tr><td colspan="2">11.1.1983</td><td colspan="2">– de filiales (dès 25 %)</td><td colspan="4">10</td></tr>
-<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">10 [B1]</td></tr>
-<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">10 [C3]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">14 [B1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">Intérêts</td><td colspan="4">5</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences</td><td colspan="4">10</td></tr>
 <tr><td colspan="2"></td><td colspan="2">Paiements pour services</td><td colspan="4">5</td></tr>
 <tr><td colspan="2">Suède</td><td colspan="2">Dividendes</td><td colspan="4"></td></tr>
@@ -444,11 +444,21 @@ Les montants d’impôts prélevés à la source non récupérables doivent actu
 <tr><td colspan="2"></td><td colspan="2">Redevances de licences (*leasing* inclus)</td><td colspan="4"></td></tr>
 <tr><td colspan="2"></td><td colspan="2">– payées à des sociétés</td><td colspan="4">10 [D10]</td></tr>
 <tr><td colspan="2"></td><td colspan="2">– payées à des personnes physiques</td><td colspan="4">5 [D2] [D10]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab]</td><td colspan="4"></td></tr>
+<tr><td colspan="2">*Zambie*</td><td colspan="2">[tab] Dividendes</td><td colspan="4"></td></tr>
+<tr><td colspan="2">29.8.2017</td><td colspan="2">– de filiales (dès 10 %)</td><td colspan="4">5</td></tr>
+<tr><td colspan="2"></td><td colspan="2">– autres</td><td colspan="4">15</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] Intérêts</td><td colspan="4">10 [C1]</td></tr>
+<tr><td colspan="2"></td><td colspan="2">[tab] Redevances de licences</td><td colspan="4">5</td></tr>
 </table>
 
-Notes
+**Notes**
 
-A. Général
+### A. Général
+
+[^annexu1-lvlu1-1]: Pour les revenus échus en 2019, voir [RO 2020 157](https://fedlex.data.admin.ch/eli/oc/2020/29).
+[^annexu1-lvlu1-2]: Cette liste présente les impôts à la source non récupérables sur la base des conventions contre les doubles impositions conclues par la Suisse. Sous certaines conditions, l’art. 9 de l’accord du 26 oct. 2004 entre la Confédération suisse et l’Union européenne sur l’échange automatique d’informations relatives aux comptes financiers en vue d’améliorer le respect des obligations fiscales au niveau international ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)) prévoit une imposition exclusive dans l’Etat de résidence de la personne qui reçoit des dividendes, intérêts ou redevances de licence payés entre des entreprises associées. Une société suisse qui reçoit des dividendes, intérêts ou redevances de licence exonérés de l’impôt étranger à la source sur la base de l’art. 9 de cet accord ne peut pas faire valoir d’imputation d’impôt.
+[^annexu1-lvlu1-3]: Les notes se trouvent à la fin de la liste.
 
 [1] Pour les dividendes de filiales, la participation minimale est indiquée entre parenthèses.
 
@@ -456,7 +466,7 @@ A. Général
 
 [3] Il n’existe pas de convention entre la Suisse et Taïwan (Taipei chinois). Il existe seulement un accord privé contre les doubles impositions qui a été reconnu par le Conseil fédéral le 9 décembre 2011. Ses dispositions sont applicables depuis le 1<sup>er</sup> janvier 2011.
 
-B. Dividendes
+**B. Dividendes**
 
 [1] En vertu de la convention, droit de l’État de la source de prélever un impôt à la source de 15 %.
 
@@ -466,17 +476,17 @@ B. Dividendes
 
 [4] L’Argentine prélève un impôt à la source de 7 % sur les dividendes. En vertu de la convention, elle aurait le droit de prélever un impôt à la source de 15 %, respectivement de 10 % pour une participation d’au moins 25 % au capital.
 
-[5] A condition que le capital étranger investi excède 200 000 CHF ou cette valeur convertie en une autre monnaie.
+[5] À condition que le capital étranger investi excède 200 000 CHF ou cette valeur convertie en une autre monnaie.
 
-[6] A condition que les investissements effectués atteignent au moins 200 000 USD.
+[6] À condition que les investissements effectués atteignent au moins 200 000 USD.
 
-[7] Dans certains cas (*unfranked dividends*), un impôt à la source de 30 % est prélevé. Dans ces cas, une imputation de l’impôt étranger prélevé à la source de 15 % est accordée. L’imputation de l’impôt étranger prélevé à la source est limitée à 5 % pour les dividendes payés à des sociétés détenant une participation d’au moins 10 % à la société distributrice. Il n’y a aucune imputation de l’impôt étranger prélevé à la source pour les dividendes payés à des sociétés détenant une participation d’au moins 80 % à la société distributrice.
+[7] Dans certains cas (*unfranked dividends*), un impôt à la source de 30 % est prélevé. Dans ces cas, une imputation de l’impôt étranger prélevé à la source de 15 % est accordée. L’imputation de l’impôt étranger prélevé à la source est limitée à 5 % pour les dividendes payés à des sociétés détenant une participation d’au moins 10 % à la société distributrice. En règle générale, il n’y a aucune imputation de l’impôt étranger prélevé à la source pour les dividendes payés à des sociétés détenant une participation d’au moins 80 % à la société distributrice.
 
 [8] Imputation de l’impôt étranger prélevé à la source tant que le crédit chilien de l’impôt de 1<sup>re</sup> catégorie est accordé sur l’impôt additionnel chilien.
 
 [9] Ne s’applique que si ces montants sont déductibles lors de la détermination des bénéfices du débiteur (contribution de solidarité incluse). En vertu de la convention, l’Allemagne aurait le droit de prélever un impôt à la source de 30 %.
 
-[10] Depuis 2019, l’Équateur prélève un impôt à la source sur les dividendes dont le taux varie selon l’imposition de la société qui verse le dividende (p. ex. impôt de 7 % pour un taux d’imposition du bénéfice de 28 %). En vertu de la convention, il aurait le droit de prélever un impôt à la source de 15 %.
+[10] Depuis 2020, l’Équateur prélève un impôt à la source sur les dividendes dont le taux est en règle générale de 10 %. En vertu de la convention, il aurait le droit de prélever un impôt à la source de 15 %.
 
 [11] 10 % pour les dividendes distribués par des sociétés cotées, 15 % pour les dividendes distribués par des sociétés non cotées, lorsque les bénéfices ont été soumis à l’impôt sur le bénéfice. La Suisse n’accorde pas d’imputation pour l’impôt ivoirien prélevé à la source de 15 % retenu sur des dividendes provenant de bénéfices non soumis à l’impôt sur les sociétés.
 
@@ -500,7 +510,7 @@ B. Dividendes
 
 [21] Malte ne perçoit actuellement aucun impôt à la source sur les dividendes.
 
-[22] En vertu de la convention, le Pakistan aurait le droit de prélever un impôt à la source de 20 %. Divers dividendes sont imposés à des taux différents qui se situent entre 7,5 et 25 %. Dès lors, dans certains cas, une imputation de l’impôt étranger prélevé à la source jusqu’à 20 % doit être accordée, respectivement jusqu’à 10 % pour les participations à hauteur d’au moins 20 % au capital.
+[22] En vertu de la convention, le Pakistan aurait le droit de prélever un impôt à la source de 20 %. Le Pakistan impose les dividendes à des taux différents qui se situent entre 7,5 et 15 %. Dès lors, dans certains cas, une imputation de l’impôt étranger prélevé à la source jusqu’à 15 % doit être accordée, respectivement jusqu’à 10 % pour les participations à hauteur d’au moins 20 % au capital.
 
 [23] Singapour ne perçoit aucun impôt à la source sur les dividendes, à l’exception des dividendes des REITs (*Real Estate Investment Trusts*). En vertu de la convention, Singapour aurait le droit de prélever un impôt à la source de 15 % respectivement de 5 % en cas d’une participation d’au moins 10 % au capital.
 
@@ -510,7 +520,7 @@ B. Dividendes
 
 [26] Depuis le 1.1.2018, il est prélevé en France un impôt à la source de 12,8 % sur les dividendes versés à des personnes physiques et de 30 % en règle générale sur les dividendes versés à des personnes morales. Dans le premier cas, l’imputation de l’impôt étranger prélevé à la source est de 12,8 %, dans le second elle est de 15 %.
 
-[27] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les dividendes qui sont exonérés de l’impôt thaïlandais ou imposés à un taux inférieur à celui prévu dans la convention en application de l’*Investment Prom**o**tion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
+[27] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les dividendes qui sont exonérés de l’impôt thaïlandais ou imposés à un taux inférieur à celui prévu dans la convention en application de l’*Investment Promotion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
 
 [28] 5 % si la société qui verse le dividende est détenue à hauteur de 50 % au moins par la société qui le reçoit.
 
@@ -518,7 +528,7 @@ B. Dividendes
 
 [30] Le Venezuela ne prélève pas d’impôt à la source sur les dividendes lorsqu’ils proviennent de bénéfices imposés. En vertu de la convention, il aurait le droit de prélever un impôt à la source de 10 %, sauf en cas de participation d’au moins 25 % au capital.
 
-[31] Actuellement, les Emirats arabes unis ne prélèvent pas d’impôt à la source sur les dividendes. En vertu de la convention, ils auraient le droit de prélever un impôt à la source de 15 %, respectivement de 5 % pour une participation d’au moins 10 % au capital.
+[31] Actuellement, les Émirats arabes unis ne prélèvent pas d’impôt à la source sur les dividendes. En vertu de la convention, ils auraient le droit de prélever un impôt à la source de 15 %, respectivement de 5 % pour une participation d’au moins 10 % au capital.
 
 [32] Le Royaume-Uni ne prélève pas d’impôt à la source sur les dividendes, à l’exception des dividendes des REITs (*Real Estate Investment Trusts*). En vertu de la convention, il aurait le droit de prélever un impôt à la source de 15 %, sauf en cas de participation d’au moins 10 % au capital.
 
@@ -532,17 +542,17 @@ B. Dividendes
 
 [37] Le Pérou prélève un impôt à la source de 5 % sur les dividendes. En vertu de la convention, il aurait le droit de prélever un impôt à la source de 15 %, sauf s’il existe une participation au capital de 10 %. Dans ce cas l’impôt à la source ne peut dépasser 10 %.
 
-[38] La Colombie prélève un impôt à la source de 5 % sur les dividendes qui sont payés à des personnes morales, s’ils sont distribués à partir de bénéfices générés dès 2017. Si de tels dividendes sont payés après le 31 décembre 2018, un impôt à la source de 7.5 % est prélevé. En vertu de la convention, elle aurait le droit de prélever un impôt à la source de 15 %, pour autant qu’il ne s’agisse pas d’une participation qualifiée (détention d’au moins 20 %).
+[38] La Colombie prélève un impôt à la source de 10 % en règle générale sur les dividendes. En vertu de la convention, elle aurait le droit de prélever un impôt à la source de 15 %, pour autant qu’il ne s’agisse pas d’une participation d’au moins 20 %.
 
 [39] Pas d’impôt, selon le droit kazakh, lorsque la participation au titre de laquelle le dividende est payé a été détenue pendant une période ininterrompue de trois ans avant le paiement du dividende, que la société qui paye le dividende n’est pas active dans l’exploitation du sous-sol et que la société qui paye le dividende n’est pas détenue pour plus de 50 % par une société active dans l’exploitation du sous-sol.
 
-[40] 15 % dans le cas de dividendes payés à des personnes physiques non-résidentes.
+[40] 15 % dans le cas de dividendes payés à des personnes physiques non résidentes.
 
 [41] Il n’y a aucun impôt à la source prélevé sur le paiement de dividendes issus de bénéfices postérieurs au 31 décembre 2017.
 
-[42] Oman a prélevé jusqu’au 6 mai 2019 un impôt à la source sur les dividendes provenant des sociétés anonymes et des fonds de placement. A partir de cette date, les dividendes payés sont exonérés de l’impôt à la source.
+[42] Oman a prélevé jusqu’au 6 mai 2019 un impôt à la source sur les dividendes provenant des sociétés anonymes et des fonds de placement. Depuis cette date, les dividendes payés sont exonérés de l’impôt à la source.
 
-C. Intérêts
+**C. Intérêts**
 
 [1] Pour les intérêts qui sont exonérés, d’après la convention, de l’impôt de l’État d’où ils proviennent, aucune imputation de l’impôt étranger prélevé à la source n’est accordée.
 
@@ -552,19 +562,19 @@ C. Intérêts
 
 [4] En vertu de la convention, l’État de source a le droit de prélever un impôt à la source de 10 %.
 
-[5] 4,95 % pour les intérêts versés à des institutions financières non-résidentes.
+[5] 0 % pour les intérêts d’obligations émises par une collectivité publique et pour les intérêts payés à raison d’un prêt accordé, garanti ou assuré, ou d’un crédit approuvé, garanti ou assuré conformément aux dispositions suisses réglant la garantie contre les risques à l’exportation; 4,95 % pour les intérêts versés à des institutions financières non résidentes.
 
 [6] 0 % entre entreprises associées.
 
 [7] Le taux de l’impôt à la source équatorien est de 0 % sur les intérêts versés à des institutions financières privées internationales et à des institutions financières multilatérales.
 
-[8] 0 % sur les intérêts qui sont payés par un institut financier au Chili à une banque, un institut financier à l’étranger ou à un institut financier international; 4 % sur des comptes courants ou des dépôts à terme auprès d’instituts financiers autorisés, et pour les intérêts sur des prêts qui sont accordés par des banques, des assurances ou des instituts financiers internationaux autorisés, ainsi que pour les intérêts en relation avec une vente à crédit payés par l’acheteur au vendeur de machines et d’équipement; 5 % sur les obligations qui sont négociées régulièrement.
+[8] 0 % sur les intérêts qui sont payés par un institut financier au Chili à une banque, un institut financier à l’étranger ou à un institut financier international; 4 % sur des comptes courants ou des dépôts à terme auprès d’instituts financiers autorisés, et pour les intérêts sur des prêts qui sont accordés par des banques, des assurances ou des instituts financiers internationaux autorisés, et pour les intérêts d’obligations ainsi que pour les intérêts en relation avec une vente à crédit payés par l’acheteur au vendeur de machines et d’équipement.
 
 [9] Pour autant qu’il ne s’agisse pas d’intérêts payés pour un prêt accordé par une institution financière ou par une société d’assurances [voir C19], la Thaïlande peut prélever selon la convention un impôt de 15 %. L’imputation de l’impôt étranger prélevé à la source est de 10 % des intérêts bruts. Au surplus, seuls 95 % du montant brut des intérêts sont imposables.
 
 [10] 1 %, 5 % ou 10 % pour des intérêts sur des comptes bancaires; 2 % pour des titres de dette d’une durée d’au moins 5 ans; 8,25 % pour les intérêts versés sur des prêts accordés par des institutions financières étrangères en vue de financer l’acquisition d’équipements et pour les intérêts versés par une société holding sur des prêts accordés par des institutions financières étrangères en vue de financer l’acquisition de participations.
 
-[11] 7 % sur les intérêts payés par des institutions financières sur des dépôts en monnaie uruguayenne ou sur des *indexed units* dont l’échéance est supérieure à un an; 7 % sur des intérêts d’obligations avec une échéance supérieure à 3 ans émises au moyen d’une souscription publique et cotées en bourse; 7 % sur des certificats de revenu émis par des trusts financiers (*«fideicomisos financieros»*) par souscription publique et qui sont cotés, lorsque leur durée excède 3 ans; 7 % sur des intérêts de dépôts d’une durée d’une année ou inférieure à une année
+[11] 0 % pour les intérêts payés en relation avec une vente à crédit d’un équipement industriel, commercial ou scientifique ou en relation avec la vente à crédit d’une marchandise d’une entreprise à une autre entreprise ainsi que pour les intérêts payés sur un prêt bancaire consenti pour une durée d’au moins trois ans en vue de financer des projets d’investissement. 7 % sur les intérêts payés par des institutions financières sur des dépôts en monnaie uruguayenne ou sur des *indexed units* dont l’échéance est supérieure à un an; 7 % sur des intérêts d’obligations avec une échéance supérieure à 3 ans émises au moyen d’une souscription publique et cotées en bourse; 7 % sur des certificats de revenu émis par des trusts financiers (*«fideicomisos financieros»*) par souscription publique et qui sont cotés, lorsque leur durée excède 3 ans; 7 % sur des intérêts de dépôts d’une durée d’une année ou inférieure à une année
 
 [12] L’imputation de l’impôt étranger prélevé à la source est accordée aux taux prévus dans la convention pour les intérêts qui ne sont pas imposés au Vietnam, ou qui sont imposés à un taux inférieur à celui prévu dans la convention à des fins de promotion économique.
 
@@ -572,7 +582,7 @@ C. Intérêts
 
 [14] Aucune imputation de l’impôt étranger prélevé à la source n’est possible pour les intérêts versés entre établissements bancaires.
 
-[15] L’impôt à la source mexicain sur des intérêts bancaires est de 4,9 %.
+[15] ...
 
 [16] Aucune imputation de l’impôt étranger prélevé à la source lorsqu’à la place de l’impôt à la source une «*approved issuers levy*» de 2 % est perçue.
 
@@ -582,19 +592,19 @@ C. Intérêts
 
 [19] 10 % pour les intérêts sur les prêts accordés par un institut financier ou une compagnie d’assurances.
 
-[20] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les intérêts qui sont exonérés de l’impôt thaïlandais ou imposés à un taux inférieur à celui prévu dans la convention en application de l’*Investment Prom**o**tion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
+[20] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les intérêts qui sont exonérés de l’impôt thaïlandais ou imposés à un taux inférieur à celui prévu dans la convention en application de l’*Investment Promotion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
 
 [21] 5 % pour les intérêts en rapport avec la vente à crédit des marchandises par une entreprise à une autre entreprise.
 
-[22] Il existe différentes exonérations des intérêts dans le droit national turc et sous la convention. Les taux d’impôt suivants ont été convenus avec la Turquie en ce qui concerne l’imposition à la source des intérêts: 0 % pour les intérêts payés à un État contractant ou à sa banque centrale; 5 % pour les intérêts payés sur la base d’un prêt ou d’un crédit accordé, garanti ou assuré par une banque d’import-export (Eximbank par exemple) ou une institution similaire qui vise à encourager l’exportation; 15 % dans tous les autres cas (ch. 3 du protocole).
+[22] Il existe différentes exonérations des intérêts dans le droit national turc et sous la convention. Les taux d’impôt suivants ont été convenus avec la Turquie en ce qui concerne l’imposition à la source des intérêts: 0 % pour les intérêts payés à un État contractant ou à sa banque centrale; 5 % pour les intérêts payés sur la base d’un prêt ou d’un crédit accordé, garanti ou assuré par une banque d’import-export ou une institution similaire qui vise à encourager l’exportation; 15 % dans tous les autres cas (ch. 3 du protocole).
 
-[23] 5 % pour les intérêts des dépôts en banque.
+[23] ...
 
 [24] Ce taux s’applique aussi aux intérêts exonérés d’impôts en Malaisie selon la convention, payés pour des prêts approuvés par les autorités malaisiennes.
 
 [25] 4,99 % pour les intérêts payés par les banques et les instituts financiers péruviens sur des prêts étrangers, ainsi que sur les obligations émises par des banques et instituts financiers péruviens; 10 % sur les intérêts payés en relation avec une vente à crédit d’équipements industriels, commerciaux ou scientifiques.
 
-[26] 5 % pour des prêts d’une durée de 8 ans au moins dans le cadre de partenariats public-privé. 1 % pour des accords de *leasing* portant sur des hélicoptères, des avions et leurs pièces détachées.
+[26] 5 % pour des prêts d’une durée de 8 ans au moins dans le cadre de partenariats public-privé; 1 % pour des accords de *leasing* portant sur des hélicoptères, des avions et leurs pièces détachées.
 
 [27] Seuls 95 % du montant brut des intérêts doivent être déclarés. Le montant de l’imputation de l’impôt étranger prélevé à la source correspond à 10 % du montant brut total.
 
@@ -602,17 +612,17 @@ C. Intérêts
 
 [29] 0 % selon le droit interne sur les intérêts de certaines obligations d’État en devise étrangère. En vertu de la convention, 0 % sur la vente à crédit d’un équipement industriel, commercial ou scientifique et sur tout prêt accordé par une banque.
 
-[30] Le taux de l’impôt à la source est dans certains cas, comme par exemple pour les intérêts de certaines obligations, inférieur à 12,5 %.
+[30] Le taux de l’impôt à la source italien est dans certains cas, comme par exemple pour les intérêts de certaines obligations, inférieur à 12,5 %.
 
-[31] Il existe différentes exonérations des intérêts dans le droit national iranien et sous la convention, p.ex. pour les intérêts d’obligations d’État, de dépôts bancaires, de prêts bancaires ou de ventes à crédit.
+[31] Les intérêts payés par les banques et le gouvernement ne sont soumis à aucun impôt à la source.
 
-[32] En vertu de la convention, l’État de source a le droit de prélever un impôt à la source de 5 %.
+[32] 1 % pour les personnes physiques.
 
 [33] Il existe différentes exonérations des intérêts dans le droit national portugais et sous la convention, p.ex. pour les intérêts d’obligations d’État, de ventes à crédit et de prêts entre institutions financières.
 
 [34] En vertu d’une clause évolutive de la nation la plus favorisée.
 
-D. Redevances de licences
+**D. Redevances de licences**
 
 [1] Pour les redevances de licences qui sont exonérées, d’après la convention, de l’impôt de l’État d’où elles proviennent, aucune imputation de l’impôt étranger prélevé à la source n’est accordée.
 
@@ -620,11 +630,11 @@ D. Redevances de licences
 
 [3] 5 % pour les paiements de *leasing*.
 
-[4] 5 % pour les paiements concernant les brevets, modèles, plans, formules ou procédés secrets ainsi que le *know-how*.
+[4] 5 % pour les paiements concernant les brevets, les dessins, les modèles, les plans, les formules ou procédés secrets et le *know-how*.
 
 [5] Impôt à la source prélevé sur 60 % seulement du montant brut des revenus provenant du *leasing*.
 
-[6] 10 % pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique ou d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan, d’une formule ou d’un procédé secrets, ou pour des informations ayant trait à une expérience acquise dans le domaine industriel ou scientifique; 5 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique, pour autant que le bénéficiaire effectif soit l’auteur ou l’héritier de ce dernier; 3 % pour l’usage ou la concession de l’usage de nouvelles; pas d’imputation de l’impôt étranger prélevé à la source pour les paiements de location (*le**a**sing*) assortie d’une option d’achat.
+[6] 12,25 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique lorsque le bénéficiaire effectif est une société; 10 % pour l’usage ou la concession de l’usage d’un équipement industriel, commercial ou scientifique ou d’un brevet, d’une marque de fabrique ou de commerce, d’un dessin ou d’un modèle, d’un plan ou encore d’une formule ou d’un procédé secrets, ou pour des informations ayant trait à une expérience acquise dans le domaine industriel ou scientifique; 5 % pour l’usage ou la concession de l’usage d’un droit d’auteur sur une œuvre littéraire, dramatique, musicale ou une autre œuvre artistique, pour autant que le bénéficiaire effectif soit l’auteur ou l’héritier de ce dernier; 3 % pour l’usage ou la concession de l’usage de nouvelles; pas d’imputation de l’impôt étranger prélevé à la source pour les paiements de location (*leasing*) assortie d’une option d’achat.
 
 [7] En vertu d’une clause évolutive de la nation la plus favorisée.
 
@@ -642,7 +652,7 @@ D. Redevances de licences
 
 [14] Valable depuis le 1<sup>er</sup> juillet 2013. Auparavant 0 % sur les redevances de licences.
 
-[15] […]
+[15] ...
 
 [16] 0 % si les conditions de l’art. 12, par. 7, de la convention sont remplies (sociétés liées).
 
@@ -650,26 +660,22 @@ D. Redevances de licences
 
 [18] 5 % pour les redevances de licences d’œuvres littéraires, artistiques ou scientifiques.
 
-[19] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les redevances de licences qui sont exonérées de l’impôt thaïlandais ou imposées à un taux inférieur à celui prévu dans la convention en application de l’*Investment Prom**o**tion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
+[19] L’imputation de l’impôt étranger prélevé à la source est accordée à concurrence de 10 % pour les redevances de licences qui sont exonérées de l’impôt thaïlandais ou imposées à un taux inférieur à celui prévu dans la convention en application de l’*Investment Promotion Act* (B.E. 2520), du *Revenue Code* (B.E. 2481) ou d’autres dispositions spécifiques de la législation sur la promotion économique.
 
-[20] S’agissant d’un paiement pour l’utilisation des droits de propriété industrielle le montant de l’impôt à la source en Côte d’Ivoire s’élève à 2,5 %.
+[20] ...
 
-[21] Dégrèvement total dans l’État de la source pour les redevances de droits d’auteur sur des œuvres scientifiques, pour les brevets, marques de fabrique ou de commerce, dessins ou modèles, formules ou procédés secrets ainsi que pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
+[21] Dégrèvement total dans l’État de la source pour les redevances de droits d’auteur sur des œuvres scientifiques, pour les brevets, marques de fabrique ou de commerce, dessins ou modèles, ou encore formules ou procédés secrets ainsi que pour des informations ayant trait à une expérience acquise dans le domaine industriel, commercial ou scientifique.
 
 [22] Seuls 97,5 % du montant brut des redevances de licences doivent être déclarés. Le montant de l’imputation de l’impôt étranger prélevé à la source correspond à 10 % du montant brut total.
 
-[23] L’impôt à la source algérien pour l’usage de logiciels informatiques est de 4,8 %.
+[23] ...
 
 [24] 5 % pour l’usage ou la concession de l’usage de wagons de chemin de fer.
 
 [25] Le taux de l’impôt à la source sur les redevances de licences prélevé selon le droit iranien dépend de la nature du créancier et de la capacité économique.
 
-E. Prestations de services
+**E. Prestations de services**
 
 [1] Rémunérations de services payées à une personne physique (autre qu’un salarié du débiteur de la rémunération) au titre de services de gestion, de services techniques ou de conseil.
 
 [2] Sans égard au montant de l’impôt effectivement déduit car la convention prévoit une imputation de l’impôt fictif.
-
-[^annexu1-lvlu1-1]: Pour les revenus échus en 2018, voir [RO 2019 167](https://fedlex.data.admin.ch/eli/oc/2019/26).
-[^annexu1-lvlu1-2]: Cette liste présente les impôts à la source non récupérables sur la base des conventions contre les doubles impositions conclues par la Suisse. Sous certaines conditions, l’art. 9 de l’accord du 26 oct. 2004 entre la Confédération suisse et l’Union européenne sur l’échange automatique d’informations relatives aux comptes financiers en vue d’améliorer le respect des obligations fiscales au niveau international ([RS 0.641.926.81](https://fedlex.data.admin.ch/eli/cc/2005/444)), prévoit une imposition exclusive dans l’Etat de résidence de la personne qui reçoit des dividendes, intérêts ou redevances de licence payés entre des entreprises associées. Une société suisse qui reçoit des dividendes, intérêts ou redevances de licence exonérés de l’impôt étranger à la source sur la base de l’art. 9 de cet accord ne peut pas faire valoir d’imputation d’impôt.
-[^annexu1-lvlu1-3]: Les notes se trouvent à la fin de la liste.
