@@ -1,86 +1,138 @@
 ---
 canton: GL
 number: IV B/51/4
-title: Schulordnung der gewerblich-industriellen Berufsfachschule Ziegelbrücke
+title: Schulordnung der Gewerblich-industriellen Berufsfachschule in Ziegelbrücke
 short: "Schulordnung GIBGL, SoGIBGL"
 language: de
-version: 2014-08-01
-valid_until: 2021-01-31
-version_adopted: 2014-09-09
+version: 2021-02-01
+valid_until: 2026-07-31
+version_adopted: 2021-02-17
 adopted: 2021-02-17
 in_force: 2021-02-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-B.51.4"
-pdf: "https://gesetze.gl.ch/api/de/versions/1725/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Schulordnung der gewerblich-industriellen Berufsfachschule Ziegelbrücke
+# Schulordnung der Gewerblich-industriellen Berufsfachschule in Ziegelbrücke
 
-Vom 09.09.2014 (Stand 01.08.2014)
+(Schulordnung GIBGL, SoGIBGL)
+
+Vom 17.02.2021 (Stand 01.02.2021)
 
 Die Aufsichtskommission,
 
-gestützt auf Artikel 17 Absatz 1 Buchtsabe c der Verordnung über die Berufsfachschulen und den Vollzug in der Berufsbildung (Vollzugsverordnung Berufsbildung)[^ingress-1],
+gestützt auf Artikel 8 der Schulorganisationsverordnung (SOV)[^ingress-1],
 
 erlässt:
 
-[^ingress-1]: GS [IV B/51/3](https://gesetze.gl.ch/data/IV-B.51.3/de)
+[^ingress-1]: GS [IV B/1/4](https://gesetze.gl.ch/data/IV-B.1.4/de)
 
-## 1. Lernende
+## 1. Allgemeines
 
 #### Art. 1
 
-**Unterricht**
+**Gegenstand und Geltungsbereich**
 
-<sup>1</sup> Lernende ohne Lehrverhältnis gemäss Artikel 4 Absatz 2 Vollzugsverordnung Berufsbildung bezahlen ein Schulgeld von 50 Franken pro Lektion und Semester.
+<sup>1</sup> Diese Schulordnung regelt in Ergänzung zur Bildungsangebotsverordnung (BAV)[^1-1] Organisation und Schulbetrieb sowie Rechte und Pflichten der Lernenden an der Gewerblich-industriellen Berufsfachschule.
 
-#### Art. 2
+<sup>2</sup> Es gilt für alle Angebote gemäss Artikel 23 Absatz 2 BAV.
 
-**Verhaltensregeln**
-
-<sup>1</sup> Die Verhaltensregeln werden von der Schulleitung erlassen. Darin werden die Disziplinarordnung, das Absenzenwesen und das in betrieblichen Belangen geforderte Verhalten geregelt.
-
-#### Art. 3
-
-**Erstattung der Kosten für Material und Lehrmittel**
-
-<sup>1</sup> Für Fotokopien und weiteres zur Verfügung gestelltes Schulmaterial wird den Lernenden ein von der Schulleitung festgelegtes Materialgeld jährlich und pauschal in Rechnung gestellt.
-
-<sup>2</sup> Die Kosten für die Lehrmittel werden den Lernenden zusätzlich in Rechnung gestellt.
+[^1-1]: GS [IV B/1/5](https://gesetze.gl.ch/data/IV-B.1.5/de)
 
 ## 2. Organisation und Schulbetrieb
 
+#### Art. 2
+
+**Konvent der Lehrpersonen**
+
+<sup>1</sup> Mindestens einmal im Jahr findet ein Konvent aller Lehrpersonen statt.
+
+<sup>2</sup> Die Schulleitung kann die weiteren Mitarbeitenden oder eine Vertretung der Lernenden zum Konvent einladen. Ihnen kommt beratende Stimme zu.
+
+#### Art. 3
+
+**Ferienplan**
+
+<sup>1</sup> Es gilt der Ferienplan der Glarner Volksschule.
+
+<sup>2</sup> Der Montag nach der Landsgemeinde ist in Abweichung zur Volksschule ein Schultag.
+
 #### Art. 4
 
-**Konvent**
+**Disziplinarrecht**
 
-<sup>1</sup> Mindestens einmal im Jahr findet ein Konvent statt. Alle Lehrpersonen und die Verwaltung nehmen daran teil.
+<sup>1</sup> Die Schulleitung erlässt Verhaltensregeln für die Lernenden bezüglich Absenzen, Disziplin und dem in betrieblichen Belangen geforderten Verhalten.
+
+<sup>2</sup> Für Lernende in Bildungsgängen der dualen Berufsbildung kann die Schulleitung für disziplinarische Verstösse, namentlich für unentschuldigte Absenzen, Bussen vorsehen. Die Bussen betragen maximal 100 Franken pro Fall.
+
+<sup>3</sup> Die Verhaltensregeln unterstehen der Genehmigung durch die Aufsichtskommission.
 
 #### Art. 5
 
-**Zusammensetzung der Schulleitung**
+**Schulgeld, Kursgeld**
 
-<sup>1</sup> Die Schulleitung besteht aus einer Rektorin oder einem Rektor und einer Prorektorin oder einem Prorektor.
+<sup>1</sup> Gast- und Fachhörer und -hörerinnen in Lehrgängen der beruflichen Grundbildung sowie ausserkantonale Teilnehmende von Brücken- und Integrationsangeboten haben ein Schulgeld zu entrichten, welches sich nach den interkantonalen Ansätzen der Schulgeldabkommen richtet.
+
+<sup>2</sup> Berufliche und allgemeine Weiterbildung wird zu Preisen angeboten, welche eine angemessene Kostendeckung ermöglichen und gleichzeitig attraktiv sind.
+
+<sup>3</sup> Die Schulleitung kann diese Ansätze in Härtefällen reduzieren.
 
 #### Art. 6
 
-**Stundenplan**
+**Erstattung der Kosten für Material und Lehrmittel**
 
-<sup>1</sup> Der Stundenplan wird von der Schulleitung festgelegt.
+<sup>1</sup> Für Fotokopien und Schulmaterial wird den Lernenden jährlich eine von der Schulleitung festgelegte kostendeckende Pauschale in Rechnung gestellt.
+
+<sup>2</sup> Die Kosten für die Lehrmittel werden den Lernenden nach Aufwand in Rechnung gestellt. In Brückenangeboten kann die Abgeltung über eine kostendeckende Pauschale erfolgen.
+
+<sup>3</sup> Die Schulleitung entscheidet über Härtefälle gemäss Artikel 11 Absatz 4 des Bildungsgesetzes[^6-1].
+
+[^6-1]: GS [IV B/1/3](https://gesetze.gl.ch/data/IV-B.1.3/de)
+
+## 3. Zugang zu Brücken- und Integrationsangeboten für Jugendliche
 
 #### Art. 7
 
-**Schulinterne Weiterbildung**
+**Zielgruppe**
 
-<sup>1</sup> Bei Bedarf kann die Schulleitung interne Weiterbildungen festlegen.
-
-<sup>2</sup> Alle Lehrpersonen sind verpflichtet, daran teilzunehmen.
+<sup>1</sup> Jugendliche, welche die obligatorische Schulzeit absolviert haben, sind zur Bewerbung zugelassen, falls sie aufgrund Verzögerungen in ihrer Persönlichkeitsentwicklung und Lücken im Schulstoff nicht in der Lage sind, einen Ausbildungsplatz zu finden.
 
 #### Art. 8
 
-**Ferientermine und Brückentage**
+**Triageverfahren**
 
-<sup>1</sup> In Abweichung zum Ferienplan des Kantons Glarus ist der Landsgemeindemontag ein Schultag.
+<sup>1</sup> Über die Aufnahme, Zu- und Umteilung in ein Angebot wird in einem Triageverfahren befunden.
 
-SBE 2014 64
+<sup>2</sup> Bei der Aufnahme wird das Case Management Berufsbildung oder die Fachstelle Integration in das Verfahren eingebunden.
+
+<sup>3</sup> Die Erziehungsberechtigten werden, soweit möglich, in das Verfahren mit eingebunden.
+
+<sup>4</sup> Die Einschätzungen der Berufsberatung und der abgebenden Lehrpersonen sind beim Übertritt aus der Volksschule mit zu berücksichtigen.
+
+#### Art. 9
+
+**Zuteilung zu Bildungsgang**
+
+<sup>1</sup> Vordringliche Priorität hat der direkte Eintritt in einen Bildungsgang auf Sekundarstufe II, Brückenangebote fallen erst nachrangig in Betracht.
+
+<sup>2</sup> Aufnahme und Zuteilung in ein Brücken- und Integrationsangebot werden von der Schulleitung mit den Erziehungsberechtigten in einem schriftlichen Ausbildungsvertrag geregelt.
+
+<sup>3</sup> Ist ein Praktikumsbetrieb im Rahmen einer dualen Vorlehre mitbeteiligt, so wird dieser ebenfalls Vertragspartei.
+
+#### Art. 10
+
+**Ausschluss**
+
+<sup>1</sup> Ein Ausbildungsvertrag kann vonseiten der Schule insbesondere dann aufgelöst werden, wenn durch das Verhalten des oder der Lernenden der Lernerfolg der anderen Lernenden erheblich behindert wird.
+
+#### Art. 11
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Die Schulleitung regelt das Aufnahme- und Ausschlussverfahren.
+
+<sup>2</sup> Die Ausführungsbestimmungen unterstehen der Genehmigung durch die Aufsichtskommission.
+
+SBE 2021 06
