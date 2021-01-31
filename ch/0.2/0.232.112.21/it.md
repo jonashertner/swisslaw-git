@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Regolamento di esecuzione del 2 ottobre 2018 concernente il Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: it
-version: 2020-02-01
+version: 2021-02-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20200201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2020-338-20210201-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Adottato dall’Assemblea dell’Unione di Madrid il 2 ottobre 2018
 
 Entrata in vigore il 1° febbraio 2020
 
-(Stato 1° febbraio 2020)
+(Stato 1° febbraio 2021)
 
 ## Indice
 
@@ -154,7 +154,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 \2) [Costituzione del mandatario]
 
-- a) La costituzione di un mandatario può essere fatta nella domanda internazionale o in una designazione successiva o in una domanda di cui alla regola 25.
+- a)[^chap1-lvlu4-1] La costituzione di un mandatario può essere fatta nella domanda internazionale o in una designazione successiva o in una domanda di cui alla regola 25, che deve contenere il nome e l’indirizzo, indicati conformemente alle istruzioni amministrative, nonché l’indirizzo di posta elettronica del mandatario.
 - b)
 
   La costituzione di un mandatario può anche essere fatta in una comunicazione separata che può riferirsi ad una o a più domande internazionali specifiche o ad una o più registrazioni internazionali specifiche del medesimo depositante o titolare. Tale comunicazione deve essere presentata all’Ufficio internazionale:
@@ -172,7 +172,7 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 
 \4) [Iscrizione e notifica della costituzione di un mandatario; data di entrata in vigore della costituzione]
 
-- a) Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome e l<sup>’</sup>indirizzo del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la designazione successiva, la domanda o la comunicazione separata con la quale il mandatario è costituito.
+- a)[^chap1-lvlu4-2] Quando l’Ufficio internazionale constata che la costituzione di un mandatario soddisfa i requisiti stabiliti, esso iscrive nel registro internazionale il fatto che il depositante o titolare ha un mandatario, nonché il nome, l’indirizzo e l’indirizzo di posta elettronica del mandatario. In questo caso, la data di entrata in vigore della costituzione è la data in cui l’Ufficio internazionale ha ricevuto la domanda internazionale, la designazione successiva, la domanda o la comunicazione separata con la quale il mandatario è costituito.
 - b) L’Ufficio internazionale notifica l’iscrizione di cui al punto a) sia al depositante che al titolare e, in quest’ultimo caso, anche agli Uffici delle parti contraenti designate, nonché al mandatario. Quando la costituzione è stata fatta tramite una comunicazione separata presentata attraverso un Ufficio, l’Ufficio internazionale notifica anche l’iscrizione a tale Ufficio.
 
 \5) [Effetti della costituzione di un mandatario]
@@ -196,6 +196,9 @@ Le comunicazioni indirizzate all’Ufficio internazionale devono essere effettua
 - d) Quando riceve una domanda di radiazione fatta dal mandatario, l’Ufficio internazionale notifica tale fatto al depositante o titolare, ed allega alla notifica una copia di tutte le comunicazioni che sono state inviate al mandatario, o che sono state ricevute dal mandatario tramite l’Ufficio internazionale, durante i sei mesi che precedono la data di notifica.
 - e) Non appena è nota la data di entrata in vigore della radiazione, l’Ufficio internazionale notifica la radiazione e la data in cui essa entra in vigore al mandatario la cui iscrizione è stata radiata, al depositante o titolare e, se la costituzione del mandatario è stata presentata attraverso un Ufficio, a tale Ufficio.
 - f) Le radiazioni richieste dal titolare o dal suo mandatario sono notificate anche agli Uffici delle parti contraenti designate.
+
+[^chap1-lvlu4-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap1-lvlu4-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 ### **Regola 4**Calcolo dei termini di scadenza
 
@@ -335,8 +338,8 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   La domanda internazionale deve contenere o indicare:
 
   - i) il nome del depositante, indicato conformemente alle istruzioni amministrative;
-  - ii) l’indirizzo del depositante, indicato conformemente alle istruzioni amministrative;
-  - iii) il nome e l’indirizzo del mandatario, se ve ne è uno, indicati conformemente alle istruzioni amministrative;
+  - ii)[^chap2-lvlu2-1] l’indirizzo del depositante, indicato conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
+  - iii)[^chap2-lvlu2-2] il nome e l’indirizzo del mandatario, se ve ne è uno, indicati conformemente alle istruzioni amministrative, nonché il suo indirizzo di posta elettronica;
   - iv) quando il depositante desidera, in virtù della Convenzione di Parigi per la protezione della proprietà industriale, beneficiare della priorità di un deposito precedente, una dichiarazione con la quale richieda la priorità di tale deposito, integrata dall’indicazione del nome dell’Ufficio presso il quale tale deposito è stato effettuato come pure dalla data e, se disponibile, dal numero di tale deposito e, quando il deposito precedente non copre l’insieme dei prodotti e servizi elencati nella domanda internazionale, dall’indicazione dei prodotti e servizi coperti dal deposito precedente;
   - v) una riproduzione del marchio che deve inserirsi nel riquadro previsto allo scopo nel modulo ufficiale; tale riproduzione deve essere nitida e deve essere in bianco e nero od a colori a seconda che la riproduzione nella domanda di base o la registrazione di base sia in bianco e nero o a colori;
   - vi) quando il depositante desidera che il marchio sia considerato come marchio a caratteri standard, una dichiarazione in tal senso;
@@ -402,6 +405,9 @@ Gli emolumenti e tasse prescritti che sono applicabili alla domanda internaziona
   - ii) se, in virtù della legislazione di questa organizzazione contraente, il depositante deve indicare una seconda lingua di lavoro davanti all’Ufficio di questa organizzazione contraente, oltre a quella della domanda internazionale, un’indicazione di questa seconda lingua.
 
 6)–7) …
+
+[^chap2-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^chap2-lvlu2-2]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 ### **Regola 10**Emolumenti e tasse relativi alla domanda internazionale
 
@@ -789,20 +795,32 @@ Gli alinea 1) a 3) si applicano *mutatis mutandis* a una domanda di modifica o d
 
 ### **Regola 21**Sostituzione di una registrazione nazionale o regionale con una registrazione internazionale
 
-\1) [Notifica]
+[^chap4-lvlu9-1]
 
-Quando, in conformità dell’articolo 4*<sup>bis</sup>*.2) del Protocollo, l’Ufficio di una parte contraente designata ha, in seguito ad una domanda presentata direttamente dal titolare a tale Ufficio, annotato nel proprio registro, il fatto che una registrazione nazionale o regionale è stata sostituita da una registrazione internazionale, tale Ufficio lo notifica all’Ufficio internazionale. Tale notifica indica:
+[^chap4-lvlu9-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+
+\1) [Domanda e notifica]
+
+A partire dalla data della notifica della registrazione internazionale o della designazione successiva, secondo il caso, il titolare può presentare direttamente all’Ufficio di una parte contraente designata una domanda intesa a far sì che tale Ufficio annoti la registrazione internazionale nel proprio registro, in conformità dell’articolo 4<sup>bis</sup>.2) del Protocollo. Quando, in seguito a tale domanda, l’Ufficio ha annotato nel proprio registro il fatto che una registrazione nazionale o regionale oppure delle registrazioni nazionali o regionali, secondo il caso, sono state sostituite da una registrazione internazionale, tale Ufficio lo notifica all’Ufficio internazionale. Tale notifica indica:
 
 - i) il numero della registrazione internazionale considerata;
 - ii) quando la sostituzione riguarda soltanto uno o taluni dei prodotti e servizi elencati nella registrazione internazionale, tali prodotti e servizi; e
-- iii) la data ed il numero di deposito, la data ed il numero di registrazione e, all<sup>’</sup>occorrenza, la data di priorità della registrazione nazionale o regionale che è stata sostituita dalla registrazione internazionale.
+- iii) la data e il numero di deposito, la data e il numero di registrazione e, all’occorrenza, la data di priorità della registrazione nazionale o regionale o delle registrazioni nazionali o regionali che sono state sostituite dalla registrazione internazionale.
 
-La notifica può anche includere informazioni su qualsiasi altro diritto acquisito in seguito a questa registrazione nazionale o regionale, in una forma convenuta fra l’Ufficio internazionale e l’Ufficio interessato.
+La notifica può anche includere informazioni su qualsiasi altro diritto acquisito in seguito a questa registrazione nazionale o regionale o a queste registrazioni nazionali o regionali.
 
 \2) [Iscrizione]
 
-- a) L’Ufficio internazionale iscrive nel registro internazionale le indicazioni notificate in virtù dell’alinea 1) e ne informa il titolare.
-- b) Le indicazioni notificate in virtù dell’alinea 1) sono iscritte alla data di ricezione da parte dell’Ufficio internazionale di una notifica che soddisfi le condizioni richieste.
+- a) L’Ufficio internazionale iscrive nel registro internazionale le indicazioni notificate in virtù dell’alinea 1 e ne informa il titolare.
+- b) Le indicazioni notificate in virtù dell’alinea 1 sono iscritte alla data di ricezione da parte dell’Ufficio internazionale di una notifica che soddisfi le condizioni richieste.
+
+\3) [Precisazioni ulteriori relative alla sostituzione]
+
+- a) La protezione del marchio oggetto della registrazione internazionale non può essere rifiutata, neppure parzialmente, sulla base di una registrazione nazionale o regionale considerata sostituita da tale registrazione internazionale.
+- b) Una registrazione nazionale o regionale e la registrazione internazionale che l’ha sostituita possono coesistere. Il titolare non può essere obbligato a rinunciare a una registrazione nazionale o regionale considerata sostituita da una registrazione internazionale o a chiederne la radiazione e, se lo desidera, dovrebbe essere autorizzato a rinnovarla in conformità della legislazione nazionale o regionale applicabile.
+- c) Prima di annotare la registrazione internazionale nel proprio registro, l’Ufficio di una parte contraente designata esamina la domanda di cui all’alinea 1 al fine di determinare se le condizioni di cui all’articolo 4<sup>bis</sup>.1) del Protocollo sono soddisfatte.
+- d) I prodotti e servizi interessati dalla sostituzione elencati nella registrazione nazionale o regionale sono coperti da quelli elencati nella registrazione internazionale.
+- e) Una registrazione nazionale o regionale è considerata sostituita da una registrazione internazionale a partire dalla data nella quale tale registrazione entra in vigore in conformità dell’articolo 4.1).a) del Protocollo.
 
 ### **Regola 21**<sup>bis</sup>Altri fatti relativi a una rivendicazione di preesistenza
 
@@ -1010,7 +1028,7 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
 
   - i) il numero della registrazione internazionale considerata;
   - ii) il nome del titolare o il nome del mandatario, quando la modifica si riferisce al nome o all’indirizzo del mandatario;
-  - iii) nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
+  - iii)[^chap5-lvlu2-1] nel caso di un cambiamento di titolare della registrazione internazionale, il nome e l’indirizzo, indicati in conformità delle istruzioni amministrative, nonché l’indirizzo di posta elettronica della persona fisica o giuridica indicata nella domanda come nuovo titolare della registrazione internazionale (più avanti chiamato «nuovo titolare»);
   - iv) nel caso di un cambiamento di titolare della registrazione internazionale, la parte contraente o le parti contraenti nei cui confronti il nuovo titolare soddisfa le condizioni previste nell’articolo 2 del Protocollo per essere il titolare di una registrazione internazionale;
   - v) nel caso di un cambiamento di titolare della registrazione internazionale, quando l’indirizzo del nuovo titolare indicato in conformità del punto iii) non è sul territorio della parte contraente o di una delle parti contraenti, indicato in conformità del punto iv), e a meno che il nuovo titolare non abbia indicato di essere cittadino di uno Stato contraente o di uno Stato membro di un’organizzazione contraente, l’indirizzo dell’azienda, o il domicilio, del nuovo titolare nella parte contraente o in una delle parti contraenti nei confronti della quale costui soddisfa le condizioni richieste per essere titolare della registrazione internazionale;
   - vi) nel caso di un cambiamento di titolare della registrazione internazionale che non riguarda tutti i prodotti e servizi e neppure tutte le parti contraenti designate, i prodotti e servizi e le parti contraenti designate che sono interessate dal cambiamento di titolare; e
@@ -1031,6 +1049,8 @@ Se le condizioni dell’alinea 2)a) non sono soddisfatte, la designazione succes
 \4) [Pluralità di nuovi titolari]
 
 Quando la domanda di iscrizione di un cambiamento di titolare della registrazione internazionale indica una pluralità di nuovi titolari, ognuno di loro deve soddisfare le condizioni di cui all’articolo 2 del Protocollo di Madrid per essere titolare della registrazione internazionale.
+
+[^chap5-lvlu2-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 ### **Regola 26**Irregolarità nelle domande di iscrizione in virtù della regola 25
 
@@ -1349,7 +1369,7 @@ Tutti i pagamenti dovuti in conformità di questo regolamento di esecuzione devo
 Le iscrizioni relative ai seguenti dati sono esenti da tasse:
 
 - i) la costituzione di un mandatario, qualsiasi modifica riguardante un mandatario e la radiazione dell’iscrizione di un mandatario;
-- ii) qualsiasi modifica riguardante i numeri di telefono e di telecopiatrice, l’indirizzo per la corrispondenza, l’indirizzo e-mail e gli altri mezzi di comunicazione elettronica con il depositante o il titolare, secondo le modalità specificate nelle istruzioni amministrative;
+- ii)[^chap8-lvlu3-1] qualsiasi modifica riguardante il numero di telefono, l’indirizzo per la corrispondenza, l’indirizzo di posta elettronica e gli altri mezzi di comunicazione elettronica con il depositante, il titolare o il mandatario, secondo le modalità specificate nelle istruzioni amministrative;
 - iii) la radiazione della registrazione internazionale;
 - iv) qualsiasi rinuncia in virtù della regola 25.1)a)iii);
 - v) qualsiasi limitazione effettuata nella domanda internazionale stessa in virtù della regola 9.4)a)xiii) o in una designazione successiva in conformità della regola 24.3)a)iv);
@@ -1360,6 +1380,8 @@ Le iscrizioni relative ai seguenti dati sono esenti da tasse:
 - x) le informazioni comunicate in virtù della regola 20;
 - xi) qualsiasi notifica in virtù della regola 21 o della regola 23;
 - xii) qualsiasi rettifica del registro internazionale.
+
+[^chap8-lvlu3-1]: Nuovo testo giusta la mod. in vigore dal 1° feb. 2021 ([RU 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 ### **Regola 37**Ripartizione degli emolumenti suppletivi e degli emolumenti complementari
 
@@ -1515,9 +1537,13 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 
 [^lvlu11-1]: \* Per le domande internazionali depositate da depositanti il cui Paese d’origine è un Paese che figura nell’elenco dei Paesi meno avanzati dell’Organizzazione delle Nazioni Unite, l’emolumento di base è pari al 10% dell’importo fissato (arrotondato al numero intero più vicino). L’emolumento di base sarà quindi di 65 franchi svizzeri (se nessuna riproduzione del marchio è a colori) e di 90 franchi svizzeri (se una riproduzione del marchio è a colori).
 
-## Istruzioni amministrative per l’applicazione del Protocollo relativo all’Accordo di Madrid concernente la registrazione internazionale dei marchi
+## Istruzioni amministrative per l’applicazione del Protocollo relativo all’Accordo di Madrid concernente la registrazione internazionale dei marchi****
 
-(testo in vigore il 1° febbraio 2020)
+[^lvlu12-1]
+
+[^lvlu12-1]: Aggiornate dalla mod. in vigore dal 1° feb. 2021 ([RU 2021 172](https://fedlex.data.admin.ch/eli/oc/2021/172)).
+
+(testo in vigore il 1° febbraio 2021)
 
 ### Elenco delle istruzioni
 
@@ -1527,8 +1553,8 @@ In caso di divergenza fra una disposizione delle istruzioni amministrative, da u
 <tr><td>*Parte seconda:*</td><td>Moduli</td></tr>
 <tr><td>Istruzione 2</td><td>Moduli prescritti</td></tr>
 <tr><td>Istruzione 3</td><td>Moduli facoltativi</td></tr>
-<tr><td>Istruzione 4</td><td>Pubblicazione dei moduli</td></tr>
-<tr><td>Istruzione 5</td><td>Messa a disposizione dei moduli</td></tr>
+<tr><td>Istruzione 4</td><td>Pubblicazione e messa a disposizione dei moduli</td></tr>
+<tr><td>Istruzione 5</td><td>...</td></tr>
 <tr><td>*Parte terza:*</td><td>Comunicazioni con l’Ufficio internazionale; firma</td></tr>
 <tr><td>Istruzione 6</td><td>Esigenza della forma scritta; invio di più documenti in un unico plico</td></tr>
 <tr><td>Istruzione 7</td><td>Firma</td></tr>
@@ -1573,13 +1599,11 @@ Per ogni procedura per la quale il regolamento di esecuzione prescrive l’utili
 
 Per le procedure previste dal regolamento di esecuzione ma diverse da quelle di cui all’istruzione 2, l’Ufficio internazionale può allestire moduli facoltativi.
 
-### **Istruzione 4**Pubblicazione dei moduli
+### **Istruzione 4**Pubblicazione e messa a disposizione dei moduli
 
-L’Ufficio internazionale pubblica la lista completa di tutti i moduli prescritti e facoltativi di cui alle istruzioni 2 e 3 sul sito Internet dell’Organizzazione Mondiale della Proprietà Intellettuale
+L’Ufficio internazionale pubblica e mette a disposizione tutti i moduli prescritti e facoltativi di cui alle istruzioni 2 e 3 sul sito Internet dell’Organizzazione Mondiale della Proprietà Intellettuale.
 
-### **Istruzione 5**Messa a disposizione dei moduli
-
-L’Ufficio internazionale mette a disposizione tutti i moduli prescritti e facoltativi di cui alle istruzioni 2 e 3 sul suo sito Internet.
+### **Istruzione 5** ...
 
 ### Parte terza: Comunicazioni con l’Ufficio internazionale; firma
 
@@ -1590,7 +1614,8 @@ L’Ufficio internazionale mette a disposizione tutti i moduli prescritti e faco
 
 ### **Istruzione 7**Firma
 
-Una firma deve essere manoscritta, stampata, dattilografata od impressa per mezzo di un bollo; essa può essere sostituita dall’apposizione di un sigillo. Per quanto riguarda le comunicazioni elettroniche di cui all’istruzione 11.a)i), una firma può essere sostituita da un modo di identificazione convenuto fra l’Ufficio internazionale e l’Ufficio interessato. Trattandosi di comunicazioni elettroniche di cui all’istruzione 11. a) ii), una firma può essere sostituita da un modo di identificazione da determinare dall’Ufficio internazionale.
+- a) La firma deve essere manoscritta, stampata, dattilografata o impressa per mezzo di un bollo. Per quanto riguarda le comunicazioni elettroniche di cui all’istruzione 11.a)i), la firma può essere sostituita da un modo d’identificazione convenuto fra l’Ufficio internazionale e l’Ufficio interessato. Trattandosi di comunicazioni elettroniche di cui all’istruzione 11.a)ii), la firma può essere sostituita da un modo di identificazione da determinare dall’Ufficio internazionale.
+- b) Quando vi sono più depositanti, più titolari, più nuovi titolari o più titolari di licenza, è sufficiente un’unica firma, a condizione che chi firma dichiari di essere abilitato a farlo in virtù del diritto applicabile.
 
 ### **Istruzione 8**...
 
@@ -1613,11 +1638,11 @@ Una firma deve essere manoscritta, stampata, dattilografata od impressa per mezz
 - a) Nel caso di una persona fisica, il nome da indicare è il cognome o nome principale ed il o i nomi o cognomi secondari della persona fisica.
 - b) Nel caso di una persona giuridica, il nome da indicare è la denominazione ufficiale completa della persona giuridica.
 - c) Quando un nome è in caratteri diversi dai caratteri latini, tale nome deve essere indicato sotto forma di traslitterazione in caratteri latini la quale deve seguire la fonetica della lingua della domanda internazionale. Nel caso di una persona giuridica il cui nome è in caratteri diversi dai caratteri latini, tale traslitterazione può essere sostituita da una traduzione nella lingua della domanda internazionale.
-- d) Un indirizzo deve essere formulato nel modo abitualmente richiesto per soddisfare una celere consegna postale e deve comprendere, per lo meno, tutte le unità amministrative pertinenti fino ad includere il numero civico, se questo esiste. Inoltre, possono essere indicati un numero di telefono, un indirizzo elettronico nonché un indirizzo diverso per la corrispondenza.
+- d) Un indirizzo e un indirizzo di posta elettronica devono essere formulati nel modo abitualmente richiesto per soddisfare una celere consegna postale o elettronica, secondo il caso. Un indirizzo deve comprendere per lo meno tutte le unità amministrative pertinenti e se del caso includere il numero civico. Inoltre, possono essere indicati un numero di telefono nonché un indirizzo e un indirizzo di posta elettronica diversi per la corrispondenza.
 
 ### **Istruzione 13**Indirizzo per la corrispondenza
 
-Quando vi sono più depositanti, più nuovi proprietari o più titolari di licenza con indirizzi diversi, deve essere indicato un indirizzo unico per la corrispondenza. Quando tale indirizzo non è indicato, l’indirizzo per la corrispondenza è l’indirizzo della persona che è nominata per prima.
+Quando vi sono più depositanti, più nuovi titolari o più titolari di licenza con indirizzi diversi, è possibile indicare un indirizzo o indirizzo di posta elettronica unico per la corrispondenza. Quando tali indirizzi non sono indicati, gli indirizzi per la corrispondenza sono l’indirizzo o l’indirizzo di posta elettronica della persona che è nominata per prima.
 
 ### Parte quinta: Notifica di rifiuti provvisori
 
@@ -1649,8 +1674,8 @@ La registrazione internazionale separata che è iscritta nel registro internazio
 
 ### **Istruzione 19**Modalità di pagamento
 
-Gli emolumenti e tasse possono essere pagati all’Ufficio internazionale:
+Gli emolumenti e le tasse sono pagati all’Ufficio internazionale:
 
-- i) per mezzo di un prelievo da un conto corrente aperto presso l’Ufficio internazionale;
-- ii) per mezzo di un versamento sul conto corrente postale svizzero dell’Ufficio internazionale o su qualsiasi conto bancario dell’Ufficio internazionale indicato allo scopo;
-- iii) per mezzo di una carta di credito, quando, nel caso di una comunicazione elettronica menzionata nell’istruzione 11, un’interfaccia elettronica è stata messa a disposizione dall’Ufficio internazionale per un pagamento in linea.
+- i) per mezzo di un prelievo da un conto corrente aperto presso l’Ufficio internazionale; o
+- ii) per mezzo di un versamento sul conto corrente postale svizzero dell’Ufficio internazionale o su qualsiasi conto bancario dell’Ufficio internazionale indicato allo scopo; o
+- iii) per mezzo di una carta di credito quando, nel caso di una comunicazione elettronica menzionata nell’istruzione 11, un’interfaccia elettronica è stata messa a disposizione dall’Ufficio internazionale per un pagamento in linea.

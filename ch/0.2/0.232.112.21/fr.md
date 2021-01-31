@@ -3,11 +3,11 @@ sr: "0.232.112.21"
 title: "Règlement d'exécution du 2 octobre 2018 du Protocole relatif à l'Arrangement de Madrid concernant l'enregistrement international des marques"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/338"
 language: fr
-version: 2020-02-01
+version: 2021-02-01
 adopted: 2018-10-02
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20200201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/338/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-338-20210201-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/338/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Adopté par l’Assemblée de l’Union de Madrid le 2 octobre 2018
 
 Entré en vigueur le 1<sup>er</sup> février 2020
 
-(Etat le 1<sup>er</sup> février 2020)
+(Etat le 1<sup>er</sup> février 2021)
 
 ## Liste des règles
 
@@ -170,7 +170,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - c) Lorsqu’un cabinet ou bureau d’avocats, ou de conseils en brevets ou en marques, a été indiqué au Bureau international comme mandataire, il est considéré comme constituant un seul mandataire.
 - d) ...
 
-- a) La constitution d’un mandataire peut être faite dans la demande internationale ou dans une désignation postérieure ou dans une demande visée à la règle 25.
+- a)[^3-1] La constitution d’un mandataire peut être faite dans la demande internationale ou dans une désignation postérieure ou dans une demande visée à la règle 25 qui doit contenir le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique du mandataire.
 - b)
 
   La constitution d’un mandataire peut aussi être faite dans une communication distincte qui peut se rapporter à une ou plusieurs demandes internationales spécifiées ou à un ou plusieurs enregistrements internationaux spécifiés du même déposant ou titulaire. Cette communication doit être présentée au Bureau international:
@@ -184,7 +184,7 @@ Les communications adressées au Bureau international doivent être effectuées 
 - b) Tant que les conditions applicables selon l’al. 2) ne sont pas remplies, le Bureau international adresse toutes les communications pertinentes au déposant ou titulaire mais pas au mandataire présumé.
 - c) ...
 
-- a) Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom et l’adresse du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la désignation postérieure, la demande ou la communication distincte dans laquelle le mandataire est constitué.
+- a)[^3-2] Lorsque le Bureau international constate que la constitution d’un mandataire remplit les conditions fixées, il inscrit au registre international le fait que le déposant ou titulaire a un mandataire, ainsi que le nom, l’adresse et l’adresse électronique du mandataire. Dans ce cas, la date de prise d’effet de la constitution du mandataire est la date à laquelle le Bureau international a reçu la demande internationale, la désignation postérieure, la demande ou la communication distincte dans laquelle le mandataire est constitué.
 - b) Le Bureau international notifie l’inscription visée au sous‑alinéa a) à la fois au déposant ou titulaire et, dans ce dernier cas, aux Offices des parties contractantes désignées, ainsi qu’au mandataire. Lorsque la constitution de mandataire a été faite dans une communication distincte présentée par l’intermédiaire d’un Office, le Bureau international notifie aussi l’inscription à cet Office.
 
 - a) Sauf disposition expresse contraire du présent règlement d’exécution, la signature d’un mandataire inscrit selon l’al. 4)a) remplace la signature du déposant ou titulaire.
@@ -204,6 +204,9 @@ Les communications adressées au Bureau international doivent être effectuées 
 - d) Lorsqu’il reçoit une demande de radiation faite par le mandataire, le Bureau international notifie ce fait au déposant ou titulaire, et joint à la notification une copie de toutes les communications qui ont été envoyées au mandataire, ou qui ont été reçues du mandataire par le Bureau international, durant les six mois qui précèdent la date de la notification.
 - e) Dès l’instant où la date de prise d’effet de la radiation est connue, le Bureau international notifie la radiation et la date à laquelle elle prend effet au mandataire dont l’inscription a été radiée, au déposant ou titulaire et, si la constitution du mandataire a été présentée par l’intermédiaire d’un Office, à cet Office.
 - f) Les radiations à la demande du titulaire ou du mandataire du titulaire sont également notifiées aux Offices des parties contractantes désignées.
+
+[^3-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^3-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 #### Règle 4
 
@@ -361,8 +364,8 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
   La demande internationale doit contenir ou indiquer:
 
   - i) le nom du déposant, indiqué conformément aux instructions administratives;
-  - ii) l’adresse du déposant, indiquée conformément aux instructions administratives;
-  - iii) le nom et l’adresse du mandataire, s’il y en a un, indiqués conformément aux instructions administratives;
+  - ii)[^9-1] l’adresse du déposant, indiquée conformément aux instructions administratives, ainsi que son adresse électronique;
+  - iii)[^9-2] le nom et l’adresse du mandataire, s’il y en a un, indiqués conformément aux instructions administratives, ainsi que son adresse électronique;
   - iv) lorsque le déposant souhaite, en vertu de la Convention de Paris pour la protection de la propriété industrielle, bénéficier de la priorité d’un dépôt antérieur, une déclaration revendiquant la priorité de ce dépôt antérieur, assortie de l’indication du nom de l’Office auprès duquel ce dépôt a été effectué ainsi que de la date et, s’il est disponible, du numéro de ce dépôt et, lorsque le dépôt antérieur ne couvre pas l’ensemble des produits et services énumérés dans la demande internationale, de l’indication des produits et services couverts par le dépôt antérieur;
   - v) une reproduction de la marque qui doit s’insérer dans le cadre prévu à cet effet dans le formulaire officiel; cette reproduction doit être nette et elle doit être en noir et blanc ou en couleur selon que la reproduction dans la demande de base ou l’enregistrement de base est en noir et blanc ou en couleur;
   - vi) lorsque le déposant souhaite que la marque soit considérée comme une marque en caractères standard, une déclaration à cet effet;
@@ -424,6 +427,9 @@ Les émoluments et taxes prescrits qui sont applicables à la demande internatio
 
   - i) si le déposant souhaite revendiquer, en vertu de la législation de cette organisation contractante, l’ancienneté d’une ou plusieurs marques antérieures enregistrées dans, ou pour, un État membre de cette organisation, une déclaration à cet effet avec l’indication du ou des États Membres dans ou pour lesquels la marque antérieure est enregistrée, la date à partir de laquelle l’enregistrement correspondant a pris effet, le numéro d’enregistrement concerné et les produits et services pour lesquels la marque antérieure est enregistrée. Ces indications sont fournies sur un formulaire officiel qui est annexé à la demande internationale;
   - ii) si, en vertu de la législation de cette organisation contractante, le déposant doit indiquer une deuxième langue de travail devant l’Office de cette organisation contractante, en plus de celle de la demande internationale, une indication de cette deuxième langue.
+
+[^9-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
+[^9-2]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 #### Règle 10
 
@@ -838,22 +844,32 @@ Les al. 1) à 3) s’appliquent mutatis mutandis à une demande de modification 
 
 #### Règle 21
 
-**Remplacement d’un enregistrement national ou régional par un enregistrement international**
+**Remplacement d’un enregistrement national ou régional par un enregistrement international**[^21-1]
 
-\1) [Notification]
+\1) [Demande et notification]
 
-La notification peut aussi inclure des informations sur tout autre droit acquis du fait de cet enregistrement national ou régional, sous une forme convenue entre le Bureau international et l’Office concerné.
+La notification peut aussi inclure des informations sur tout autre droit acquis du fait de cet enregistrement national ou régional ou de ces enregistrements nationaux ou régionaux.
 
 \2) [Inscription]
 
-Lorsque, conformément à l’art. 4<sup>bis</sup>.2) du Protocole, l’Office d’une partie contractante désignée a, à la suite d’une demande présentée directement par le titulaire auprès de cet Office, pris note, dans son registre, du fait qu’un enregistrement national ou régional a été remplacé par un enregistrement international, cet Office le notifie au Bureau international. Cette notification indique:
+\3) [Précisions supplémentaires concernant le remplacement]
+
+À compter de la date de la notification de l’enregistrement international ou de la désignation postérieure, selon le cas, le titulaire peut présenter directement à l’Office d’une partie contractante désignée une demande tendant à ce que cet Office prenne note de l’enregistrement international dans son registre, conformément à l’art. 4*<sup>bis</sup>*.2) du Protocole. Lorsque, suite à cette demande, l’Office a pris note, dans son registre, du fait qu’un enregistrement national ou régional ou des enregistrements nationaux ou régionaux, selon le cas, ont été remplacés par l’enregistrement international, cet Office le notifie au Bureau international. Cette notification indique:
 
 - i) le numéro de l’enregistrement international concerné;
 - ii) lorsque le remplacement ne concerne qu’un ou certains des produits et services énumérés dans l’enregistrement international, ces produits et services, et
-- iii) la date et le numéro de dépôt, la date et le numéro d’enregistrement et, le cas échéant, la date de priorité de l’enregistrement national ou régional qui a été remplacé par l’enregistrement international.
+- iii) la date et le numéro de dépôt, la date et le numéro d’enregistrement et, le cas échéant, la date de priorité de l’enregistrement national ou régional ou des enregistrements nationaux ou régionaux qui ont été remplacés par l’enregistrement international.
 
 - a) Le Bureau international inscrit au registre international les indications notifiées en vertu de l’al. 1) et en informe le titulaire.
 - b) Les indications notifiées en vertu de l’al. 1) sont inscrites à la date de réception par le Bureau international d’une notification remplissant les conditions requises.
+
+- a) La protection de la marque qui fait l’objet d’un enregistrement international ne peut être refusée, même partiellement, sur la base d’un enregistrement national ou régional qui est réputé avoir été remplacé par cet enregistrement international.
+- b) Un enregistrement national ou régional et l’enregistrement international qui l’a remplacé peuvent coexister. Le titulaire ne peut être tenu de renoncer à un enregistrement national ou régional qui est réputé avoir été remplacé par un enregistrement international ou d’en demander la radiation et il devrait être autorisé à renouveler cet enregistrement, s’il le souhaite, conformément à la législation nationale ou régionale applicable.
+- c) Avant de prendre note de l’enregistrement international dans son registre, l’Office d’une partie contractante désignée examine la demande visée à l’al. 1) afin de déterminer si les conditions énoncées à l’art. 4*<sup>bis</sup>*.1) du Protocole sont remplies.
+- d) Les produits et services concernés par le remplacement, énumérés dans l’enregistrement national ou régional, sont couverts par ceux qui sont énumérés dans l’enregistrement international.
+- e) Un enregistrement national ou régional est réputé avoir été remplacé par un enregistrement international à compter de la date à laquelle cet enregistrement international prend effet dans la partie contractante désignée concernée, conformément à l’art. 4.1)a) du Protocole.
+
+[^21-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 #### Règle 21<sup>bis</sup>
 
@@ -1079,7 +1095,7 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
 
   - i) le numéro de l’enregistrement international concerné;
   - ii) le nom du titulaire ou le nom du mandataire lorsque la modification se rapporte au nom ou à l’adresse du mandataire;
-  - iii) dans le cas d’un changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, de la personne physique ou morale mentionnée dans la demande comme étant le nouveau titulaire de l’enregistrement international (ci-après dénommé le «nouveau titulaire»);
+  - iii)[^25-1] dans le cas d’un changement de titulaire de l’enregistrement international, le nom et l’adresse, indiqués conformément aux instructions administratives, ainsi que l’adresse électronique, de la personne physique ou morale mentionnée dans la demande comme étant le nouveau titulaire de l’enregistrement international (ci-après dénommé le «nouveau titulaire»);
   - iv) dans le cas d’un changement de titulaire de l’enregistrement international, la partie contractante ou les parties contractantes à l’égard de laquelle ou desquelles le nouveau titulaire remplit les conditions prévues à l’art. 2 du Protocole pour être le titulaire d’un enregistrement international;
   - v) dans le cas d’un changement de titulaire de l’enregistrement international, lorsque l’adresse du nouveau titulaire indiquée conformément au point iii) n’est pas sur le territoire de la partie contractante ou de l’une des parties contractantes, indiquée conformément au point iv), et sauf si le nouveau titulaire a indiqué être ressortissant d’un État contractant ou d’un État membre d’une organisation contractante, l’adresse de l’établissement, ou le domicile, du nouveau titulaire dans la partie contractante ou dans l’une des parties contractantes à l’égard desquelles celui-ci remplit les conditions requises pour être le titulaire d’un enregistrement international;
   - vi) dans le cas d’un changement de titulaire de l’enregistrement international qui ne concerne pas tous les produits et services ni toutes les parties contractantes désignées, les produits et services et les parties contractantes désignées que le changement de titulaire concerne, et
@@ -1094,6 +1110,8 @@ Lorsque la demande d’inscription d’un changement de titulaire de l’enregis
 
 - c) La demande d’inscription d’une modification ou d’une radiation peut aussi contenir une requête tendant à ce que cette inscription soit effectuée avant, ou après, celle d’une autre modification ou radiation ou d’une désignation postérieure concernant l’enregistrement international en cause ou après le renouvellement de l’enregistrement international.
 - d) La demande d’inscription d’une limitation doit grouper uniquement les produits et services limités selon les numéros correspondants des classes de la classification internationale des produits et des services figurant dans l’enregistrement international ou, lorsque la limitation vise tous les produits et services dans une ou plusieurs de ces classes, indiquer les classes à supprimer.
+
+[^25-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 #### Règle 26
 
@@ -1438,7 +1456,7 @@ Tous les paiements dus aux termes du présent règlement d’exécution doivent 
 Les inscriptions relatives aux données suivantes sont exemptes de taxes:
 
 - i) la constitution d’un mandataire, toute modification concernant un mandataire et la radiation de l’inscription d’un mandataire;
-- ii) toute modification concernant les numéros de téléphone et de télécopieur, l’adresse pour la correspondance, l’adresse électronique et tout autre moyen de communication avec le déposant ou le titulaire, selon les modalités spécifiées dans les instructions administratives;
+- ii)[^36-1] toute modification concernant le numéro de téléphone, l’adresse pour la correspondance, l’adresse électronique et tout autre moyen de communication avec le déposant, le titulaire ou le mandataire selon les modalités spécifiées dans les instructions administratives;
 - iii) la radiation de l’enregistrement international;
 - iv) toute renonciation en vertu de la règle 25.1)a)iii);
 - v) toute limitation effectuée dans la demande internationale elle‑même en vertu de la règle 9.4)a)xiii) ou dans une désignation postérieure selon la règle 24.3)a)iv);
@@ -1449,6 +1467,8 @@ Les inscriptions relatives aux données suivantes sont exemptes de taxes:
 - x) les informations communiquées en vertu de la règle 20;
 - xi) toute notification en vertu de la règle 21 ou de la règle 23;
 - xii) toute rectification du registre international.
+
+[^36-1]: Nouvelle teneur selon la D entrée en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 92](https://fedlex.data.admin.ch/eli/oc/2021/92)).
 
 #### Règle 37
 
@@ -1611,9 +1631,13 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 [^lvlu11-1]: \* Pour les demandes internationales déposées par des déposants dont le pays d’origine est un pays figurant parmi les pays les moins avancés, conformément à la liste établie par l’Organisation des Nations Unies, l’émolument de base est réduit à 10% du montant prescrit (arrondi au nombre entier le plus proche). Ainsi, l’émolument de base s’élèvera à 65 francs suisses (lorsque aucune reproduction de la marque n’est en couleur) et à 90 francs suisses (lorsqu’une reproduction de la marque est en couleur).
 
-## Instructions administratives pour l’application du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques
+## Instructions administratives pour l’application du Protocole relatif à l’Arrangement de Madrid concernant l’enregistrement international des marques****
 
-(État le 1<sup>er</sup> février 2020)
+[^lvlu12-1]
+
+[^lvlu12-1]: Mise à jour par la mod. en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 172](https://fedlex.data.admin.ch/eli/oc/2021/172)).
+
+(État le 1<sup>er</sup> février 2021)
 
 ### Liste des Instructions
 
@@ -1623,8 +1647,8 @@ En cas de divergence entre une disposition des instructions administratives, d�
 <tr><td>Deuxième partie:</td><td>Formulaires</td></tr>
 <tr><td>Instruction 2</td><td>Demande internationale</td></tr>
 <tr><td>Instruction 3</td><td>Désignation postérieure à l’enregistrement international</td></tr>
-<tr><td>Instruction 4</td><td>Autres formulaires officiels</td></tr>
-<tr><td>Instruction 5</td><td>Formulaires officieux</td></tr>
+<tr><td>Instruction 4</td><td>Publication et mise à disposition des formulaires</td></tr>
+<tr><td>Instruction 5</td><td>...</td></tr>
 <tr><td>Troisième partie:</td><td>Communications avec le Bureau international; Signature</td></tr>
 <tr><td>Instruction 6</td><td>Exigence de la forme écrite; envoi de plusieurs documents sous un même pli</td></tr>
 <tr><td>Instruction 7</td><td>Signature</td></tr>
@@ -1669,13 +1693,11 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 À l’égard des procédures prévues par le règlement d’exécution, autres que celles visées à l’instruction 2, le Bureau international peut établir des formulaires facultatifs.
 
-### **Instruction 4**Publication des formulaires
+### **Instruction 4**Publication et mise à disposition des formulaires
 
-- [tab] Le Bureau international publie la liste complète de tous les formulaires prescrits et facultatifs, tels que visés aux instructions 2 et 3, sur le site Web de l’Organisation Mondiale de la Propriété Intellectuelle.
+Le Bureau international publie et met à disposition tous les formulaires prescrits et facultatifs, tels que visés aux instructions 2 et 3, sur le site Web de l’Organisation Mondiale de la Propriété Intellectuelle.
 
-### **Instruction 5**Mise à disposition des formulaires
-
-- [tab] Le Bureau international met à disposition tous les formulaires prescrits et facultatifs, tels que visés aux instructions 2 et 3, sur son site Internet.
+### **Instruction 5**...
 
 ### Troisième partie Communications avec le Bureau international; signature
 
@@ -1686,7 +1708,8 @@ En cas de divergence entre une disposition des instructions administratives, d�
 
 ### **Instruction 7**Signature
 
-Une signature doit être manuscrite, imprimée, dactylographiée ou apposée au moyen d’un timbre; elle peut être remplacée par l’apposition d’un sceau. En ce qui concerne les communications électroniques visées à l’instruction 11.a)i), une signature peut être remplacée par un mode d’identification convenu entre le Bureau international et l’Office concerné. S’agissant des communications électroniques visées à l’instruction 11.a)ii), une signature peut être remplacée par un mode d’identification à déterminer par le Bureau international.
+- a) Une signature doit être manuscrite, imprimée, dactylographiée ou apposée au moyen d’un timbre. En ce qui concerne les communications électroniques visées à l’instruction 11.a)i), une signature peut être remplacée par un mode d’identification convenu entre le Bureau international et l’Office concerné. S’agissant des communications électroniques visées à l’instruction 11.a)ii), une signature peut être remplacée par un mode d’identification à déterminer par le Bureau international.
+- b) Lorsqu’il y a plusieurs déposants, plusieurs titulaires, plusieurs nouveaux titulaires ou plusieurs preneurs de licence, la signature de l’un d’entre eux suffit, à condition que la personne qui signe déclare être habilitée à le faire en vertu du droit applicable.
 
 ### **Instruction 8**...
 
@@ -1709,11 +1732,11 @@ Une signature doit être manuscrite, imprimée, dactylographiée ou apposée au 
 - a) Dans le cas d’une personne physique, le nom à indiquer est le nom de famille ou nom principal et le ou les prénoms ou noms secondaires de la personne physique.
 - b) Dans le cas d’une personne morale, le nom à indiquer est la dénomination officielle complète de la personne morale.
 - c) Lorsqu’un nom est en caractères autres que latins, ce nom doit être indiqué sous la forme d’une translittération en caractères latins qui doit suivre la phonétique de la langue de la demande internationale. Dans le cas d’une personne morale dont le nom est en caractères autres que latins, cette translittération peut être remplacée par une traduction dans la langue de la demande internationale.
-- d) Une adresse doit être libellée de la façon habituellement requise pour une distribution postale rapide et doit au moins comprendre toutes les unités administratives pertinentes, jusque et y compris le numéro de la maison, s’il y en a un. En outre, un numéro de téléphone, une adresse électronique ainsi qu’une adresse différente pour la correspondance peuvent être indiqués.
+- d) Une adresse et une adresse électronique doivent être libellées de la façon habituellement requise pour une distribution postale ou électronique rapide, selon le cas. Une adresse doit au moins comprendre toutes les unités administratives pertinentes, jusque et y compris le numéro de la maison, s’il y en a un. En outre, un numéro de téléphone ainsi qu’une adresse et une adresse électronique différentes pour la correspondance peuvent être indiqués.
 
 ### **Instruction 13**Adresse pour la correspondance
 
-Lorsqu’il y a plusieurs déposants, plusieurs nouveaux propriétaires ou plusieurs preneurs de licence avec des adresses différentes, une adresse unique pour la correspondance doit être indiquée. Lorsqu’une telle adresse n’est pas indiquée, l’adresse pour la correspondance est l’adresse de la personne qui est nommée en premier.
+Lorsqu’il y a plusieurs déposants, plusieurs nouveaux titulaires ou plusieurs preneurs de licence avec des adresses différentes, une adresse et une adresse électronique uniques pour la correspondance peuvent être indiquées. Lorsque ces adresses ne sont pas indiquées, les adresses pour la correspondance sont l’adresse et l’adresse électronique de la personne qui est nommée en premier.
 
 ### Cinquième partie Notification de refus provisoires
 
@@ -1745,8 +1768,8 @@ L’enregistrement international distinct qui est inscrit au registre internatio
 
 ### **Instruction 19**Modes de paiement
 
-Les émoluments et taxes peuvent être payés au Bureau international:
+Les émoluments et taxes sont payés au Bureau international:
 
-- i) par prélèvement sur un compte courant ouvert auprès du Bureau international;
-- ii) par versement sur le compte postal suisse du Bureau international ou sur tout compte bancaire du Bureau international indiqué à cette fin;
+- i) par prélèvement sur un compte courant ouvert auprès du Bureau international; ou
+- ii) par versement sur le compte postal suisse du Bureau international ou sur tout compte bancaire du Bureau international indiqué à cette fin; ou
 - iii) par carte de crédit, lorsque, dans le cas d’une communication électronique visée à l’instruction 11, une interface électronique pour un paiement en ligne a été mise à disposition par le Bureau international.
