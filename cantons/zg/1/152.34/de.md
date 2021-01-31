@@ -3,20 +3,19 @@ canton: ZG
 number: "152.34"
 title: Richtlinien zur Akkreditierung der Medien und Medienschaffenden
 language: de
-version: 2015-03-01
-valid_until: 2021-01-31
-version_adopted: 2015-01-27
+version: 2021-02-01
+version_adopted: 2021-01-12
 adopted: 2015-01-27
 in_force: 2015-03-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/152.34"
-pdf: "https://bgs.zg.ch/api/de/versions/1410/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Richtlinien zur Akkreditierung der Medien und Medienschaffenden
 
-Vom 27. Januar 2015 (Stand 1. März 2015)
+Vom 27. Januar 2015 (Stand 1. Februar 2021)
 
 Der Regierungsrat des Kantons Zug,
 
@@ -63,7 +62,7 @@ beschliesst:
 
 **Akkreditierungsverfahren**
 
-<sup>1</sup> Gesuche für die Akkreditierung sind der Kommunikationsstelle des Regierungsrats einzureichen.
+<sup>1</sup> Gesuche für die Akkreditierung sind der Fachstelle Kommunikation einzureichen.
 
 <sup>2</sup> Die Staatskanzlei erteilt die Akkreditierung, sofern das Medium oder die, der Medienschaffende die Voraussetzungen gemäss §§ 3 und 5 erfüllt.
 
