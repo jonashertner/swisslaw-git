@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-01-04
+version: 2021-02-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210104/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210104-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 4 janvier 2021)
+du 29 avril 2015 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -830,11 +830,68 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 <sup>2</sup> Les cantons assument les coûts de redistribution à l’intérieur de leur territoire.
 
-#### Art. 64a et 64b
+#### Art. 64a
 
-[^64a64b-1]
+**Prise en charge des coûts des vaccinations contre le COVID-19 effectuées par les pharmaciens**[^64a-1]
 
-[^64a64b-1]: Entrent en vigueur le 1<sup>er</sup> fév. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+<sup>1</sup>
+
+La Confédération prend en charge les coûts des vaccinations contre le COVID-19 effectuées par des pharmaciens pour les personnes qui:
+
+- a. sont assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-2], et qui
+- b. font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020 par la Commission fédérale pour les vaccinations (CFV) et l’OFSP[^64a-3].
+
+<sup>2</sup>
+
+Les pharmaciens doivent:
+
+- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64a-4];
+- b. avoir reçu un mandat du canton pour effectuer les vaccinations contre le COVID-19, et
+- c. remplir les exigences du canton concernant l’utilisation du logiciel prescrit pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
+
+<sup>3</sup> La Confédération prend en charge un montant forfaitaire de 14 fr. 50 par vaccination effectuée au titre de l’al. 1.
+
+<sup>4</sup>
+
+Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la vaccination, à savoir:
+
+- a. l’administration du vaccin;
+- b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
+- c. le contrôle des contre-indications;
+- d. la documentation;
+- e. la délivrance de l’attestation de vaccination.
+
+<sup>5</sup> Les pharmaciens ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
+
+[^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-3]: Consultable sous www.ofsp.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+[^64a-4]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
+
+#### Art. 64b
+
+**Procédure pour la prise en charge des coûts des vaccinations contre le COVID-19 effectuées par les pharmaciens**[^64b-1]
+
+<sup>1</sup>
+
+Pour la fin des mois de février, avril, juin, août, octobre et décembre, les pharmaciens transmettent à l’autorité cantonale compétente une facture groupée pour l’ensemble des vaccinations effectuées au cours des deux mois précédents au titre de l’art. 64*a*, al. 1. La facture doit indiquer:
+
+- a. le nombre de vaccinations effectuées durant la période de facturation;
+- b. le coût forfaitaire par vaccination;
+- c. le coût total de toutes les vaccinations effectuées.
+
+<sup>2</sup> La facture ne doit contenir que les prestations liées aux vaccinations. Elle est transmise par voie électronique.
+
+<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64b-2] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
+
+<sup>4</sup> Au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte, l’institution commune adresse à l’OFSP un décompte de toutes les factures reçues des cantons durant la période en question pour les vaccinations effectuées au titre de l’art. 64*a*, al. 1. L’OFSP règle la facture de l’institution commune dans les 10 jours ouvrables.
+
+<sup>5</sup> Dans un délai de 5 jours ouvrables à compter de la réception du paiement de l’OFSP, l’institution commune verse aux pharmaciens le montant forfaitaire prévu à l’art. 64*a*, al. 3, en fonction du nombre de vaccinations effectuées.
+
+<sup>6</sup> Chaque trimestre, elle facture à l’OFSP les frais d’administration en fonction de la charge de travail effective. Le tarif horaire est de 95 francs; il englobe les charges salariales, les charges sociales et les frais d’infrastructure. Les dépenses liées aux éventuelles révisions ou adaptations de système et aux taux d’intérêt négatifs qui ne sont pas comprises dans les frais d’administration sont remboursées au prix coûtant.
+
+[^64b-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^64b-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64c
 

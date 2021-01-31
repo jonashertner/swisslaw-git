@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-01-04
+version: 2021-02-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210104/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210104-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210104/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 4. Januar 2021)
+vom 29. April 2015 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -826,11 +826,68 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 
 <sup>2</sup> Die Kantone tragen die Kosten für die Weiterverteilung innerhalb des Kantons.
 
-#### Art. 64a und 64b
+#### Art. 64a
 
-[^64a64b-1]
+**Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker**[^64a-1]
 
-[^64a64b-1]: Treten am 1. Febr. 2021 in Kraft ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+<sup>1</sup>
+
+Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die:
+
+- a. nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64a-2] über die Krankenversicherung (KVG) versichert sind; und
+- b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020[^64a-3] angehören.
+
+<sup>2</sup>
+
+Die Apothekerinnen und Apotheker müssen:
+
+- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-4] verfügen;
+- b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
+- c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
+
+<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
+
+<sup>4</sup>
+
+Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der Impfung abgegolten, das heisst:
+
+- a. die Verabreichung der Impfung;
+- b. die Überprüfung des Impfstatus und die Impfanamnese;
+- c. die Überprüfung von Kontraindikationen;
+- d. die Dokumentation;
+- e. die Ausstellung der Impfbescheinigung.
+
+<sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
+
+[^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^64a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-3]: Abrufbar unter: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64a-4]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
+
+#### Art. 64b
+
+**Verfahren zur Übernahme der Kosten von Covid-19-Impfungen durch Apothekerinnen und Apotheker**[^64b-1]
+
+<sup>1</sup>
+
+Die Apothekerinnen und Apotheker senden der zuständigen kantonalen Behörde jeweils per Ende Februar, April, Juni, August, Oktober und Dezember eine Sammelrechnung für die von ihnen in den vergangenen zwei Monaten durchgeführten Impfungen nach Artikel 64*a* Absatz 1. Die Rechnung muss enthalten:
+
+- a. die Anzahl der im Rechnungszeitraum durchgeführten Impfungen;
+- b. die Impfpauschale pro durchgeführte Impfung;
+- c. den Gesamtbetrag für alle durchgeführten Impfungen.
+
+<sup>2</sup> Die Rechnung darf nur Leistungen im Zusammenhang mit den Impfungen beinhalten. Die Übermittlung erfolgt elektronisch.
+
+<sup>3</sup> Die zuständige kantonale Behörde plausibilisiert die Rechnungen aufgrund der im Kanton verteilten Impfdosen, prüft sie auf ihre Vollständigkeit und sendet sie innerhalb der ersten 10 Arbeitstage des der Abrechnungsperiode folgenden Monats elektronisch an die gemeinsame Einrichtung nach Artikel 18 KVG[^64b-2] (gemeinsame Einrichtung).
+
+<sup>4</sup> Die gemeinsame Einrichtung stellt dem BAG für jede Abrechnungsperiode bis zum 20. Arbeitstag des der Abrechnungsperiode folgenden Monats eine Rechnung zu allen von den Kantonen eingegangenen Rechnungen für Impfungen nach Artikel 64*a* Absatz 1 zu. Das BAG bezahlt der gemeinsamen Einrichtung den Rechnungsbetrag innerhalb von 10 Arbeitstagen nach der Zustellung der Rechnung.
+
+<sup>5</sup> Die gemeinsame Einrichtung bezahlt den Apothekerinnen und Apothekern innerhalb von 5 Arbeitstagen nach Eingang der Zahlung des BAG pro durchgeführte Impfung die Pauschale nach Artikel 64*a* Absatz 3.
+
+<sup>6</sup> Sie stellt dem BAG quartalsweise ihre Verwaltungskosten nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
+
+[^64b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^64b-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64c
 
