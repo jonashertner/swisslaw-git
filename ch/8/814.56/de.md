@@ -4,11 +4,11 @@ title: Verordnung vom 26. April 2017 über die Gebühren im Strahlenschutz (GebV
 short: GebV-StS
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/511"
 language: de
-version: 2018-01-01
+version: 2021-02-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2017-511-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2017-511-20210201-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/de"
 
 (GebV-StS)
 
-vom 26. April 2017 (Stand am 1. Januar 2018)
+vom 26. April 2017 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -64,9 +64,11 @@ In begründeten Einzelfällen kann auf die Erhebung von Gebühren verzichtet wer
 
 **Gebührenbemessung**
 
-<sup>1</sup> Für die Gebühren gelten die im Anhang festgelegten Pauschalen.
+<sup>1</sup> Die Gebühren werden nach dem Anhang bemessen.[^5-1]
 
 <sup>2</sup> Für Massnahmen, Dienstleistungen und Verfügungen, die nicht im Anhang aufgeführt sind oder für die im Anhang eine Gebühr nach Aufwand festgelegt ist, werden die Gebühren nach Zeitaufwand bemessen. Der Stundenansatz beträgt, je nach der erforderlichen Sachkenntnis und der Funktionsstufe der ausführenden Personen, 100–200 Franken. Reise- und Wartezeiten werden als Arbeitszeit verrechnet.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 18. Dezember 2020, in Kraft seit 1. Februar 2021 ([AS 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
 
 #### Art. 6
 
@@ -80,7 +82,7 @@ Das BAG und die von ihm beauftragten Stellen können einen Zuschlag von bis zu 5
 
 Als Auslagen gelten über die Kosten nach Artikel 6 AllgGebV[^7-1] hinaus die Kosten, die für die einzelnen Dienstleistungen zusätzlich anfallen, namentlich Honorare nach den Artikeln 8*l*–8*t* der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998[^7-2].
 
-[^7-1]: SR **172.0****41.1**
+[^7-1]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 [^7-2]: [SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)
 
 #### Art. 8
@@ -111,13 +113,15 @@ Auf Massnahmen, Dienstleistungen und Verfügungen, die beim Inkrafttreten dieser
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang
+Anhang[^t-1]
 
 (Art. 5 Abs. 1)
 
-## Pauschalen
+## Gebührenbemessung
 
-### A. Bewilligungen für den Umgang mit ionisierender Strahlung (Art. 9 der Strahlenschutzverordnung vom 27. April 2017**** [StSV])
+[^t-1]: Bereinigt gemäss Ziff. II der V vom 18. Dezember 2020, in Kraft seit 1. Februar 2021 ([AS 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
+
+### A. Bewilligungen für den Umgang mit ionisierender Strahlung (Art. 9 der Strahlenschutzverordnung vom 27. April 2017 [StSV])
 
 [^annexu1-lvlu1-lvlA-1]
 
@@ -180,8 +184,12 @@ Anhang
 <tr><td>9.2 Arbeitsbereich Typ C</td><td>1 100</td></tr>
 <tr><td>9.3 Arbeitsbereich Typ B</td><td>1 400</td></tr>
 <tr><td>10. Transportbewilligung</td><td>800</td></tr>
-<tr><td>11. Bewilligungserteilung für Betriebe im Aufsichtsbereich der Suva</td><td>200</td></tr>
+<tr><td>11. Einsatz von Personal in Drittbetrieben</td><td>300</td></tr>
 </table>
+
+Für Betriebe im Aufsichtsbereich der Suva, die dem Bundesgesetz vom 20. März 1981[^annexu1-lvlu1-lvlA-2] über die Unfallversicherung (UVG) unterstellt sind, reduzieren sich die Pauschalen nach den Positionen Ziffer II. 1–11 um 15 Prozent.
+
+[^annexu1-lvlu1-lvlA-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 ### B. Anerkennung von Aus- und Fortbildungen (Art. 180 StSV)
 
@@ -223,35 +231,31 @@ Anhang
 <tr><td>2. Messungen im Flüssigkeitsszintillator</td><td>200</td></tr>
 </table>
 
-### G. Konditionierung, Zwischenlagerung und geologische Tiefenlagerung ablieferungspflichtiger radioaktiver Abfälle (Art. 119 und 120 StSV)
+### G. Sammlung, Konditionierung, Zwischenlagerung und geologische Tiefenlagerung ablieferungspflichtiger radioaktiver Abfälle (Art. 119 und 120 StSV)
+
+Die Gebühr ist pro Quelle oder m<sup>3</sup> nach den Ziffern 1–4 zu berechnen.
+
+Werden gleichzeitig so viele Quellen der Kategorie Q1/Qα1 abgeliefert, dass die Gebühr der Kategorie Q2/Qα2 überschritten wird, so wird für die gesamte Ablieferung die Gebühr nach der Kategorie Q2/Qα2 fällig. Ist die Gesamtaktivität der Ablieferung höher als die Kategorie Q2/Qa2, so wird die Gebühr für die gesamte Ablieferung nach derjenigen Kategorie berechnet, unter welche die Gesamtaktivität der abgelieferten Quellen fällt.
 
 <table>
 <tr><th></th><th>Franken</th></tr>
-<tr><td>1. Konditionierung und Zwischenlagerung</td><td></td></tr>
-<tr><td>1.1 Konditionierte Abfälle pro m<sup>3</sup></td><td>17 500</td></tr>
-<tr><td>1.2 Nicht konditionierte Abfälle (effektives Abfallvolumen)</td><td></td></tr>
-<tr><td>a. geschlossene radioaktive Quellen</td><td></td></tr>
-<tr><td>*ß/γ-Strahler*</td><td></td></tr>
-<tr><td>Pro Quelle Q2: 10<sup>-4</sup> A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>4 100</td></tr>
-<tr><td>Pro Quelle Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>5 851</td></tr>
-<tr><td>Pro Quelle Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>nach Aufwand</td></tr>
-<tr><td>*α-Strahler*</td><td></td></tr>
-<tr><td>Pro Quelle QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>4 100</td></tr>
-<tr><td>Pro Quelle QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>nach Aufwand</td></tr>
-<tr><td>b. übrige nicht konditionierte Abfälle pro m<sup>3</sup></td><td>94 000</td></tr>
-<tr><td>1.3 Minimum bei Kleinmengen</td><td>100</td></tr>
-<tr><td>2. geologische Tiefenlagerung</td><td></td></tr>
-<tr><td>2.1 Konditionierte Abfälle pro m<sup>3</sup></td><td>24 000</td></tr>
-<tr><td>2.2 Nicht konditionierte Abfälle</td><td></td></tr>
-<tr><td>a. geschlossene radioaktive Quellen</td><td></td></tr>
-<tr><td>*ß/γ-Strahler*</td><td></td></tr>
-<tr><td>Pro Quelle Q2: 10<sup>-4</sup> A<sub>2</sub>&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>800</td></tr>
-<tr><td>Pro Quelle Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>3 500</td></tr>
-<tr><td>Pro Quelle Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>nach Aufwand</td></tr>
-<tr><td>α-Strahler</td><td></td></tr>
-<tr><td>Pro Quelle QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>800</td></tr>
-<tr><td>Pro Quelle QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>nach Aufwand</td></tr>
-<tr><td>b. übrige nicht konditionierte Abfälle pro m<sup>3</sup></td><td>24 000</td></tr>
+<tr><td>1. Geschlossene radioaktive Quellen (pro Quelle)</td><td></td></tr>
+<tr><td>1.1 Kategorie Q1/Qα1</td><td>**200**</td></tr>
+<tr><td>1.2 Kategorie Q2/Qα2</td><td>**6 600**</td></tr>
+<tr><td>1.3 Kategorie Q3</td><td>**12 300**</td></tr>
+<tr><td>1.4 Kategorie Q4/Qα3</td><td>nach Aufwand</td></tr>
+<tr><td>2. Vorkonditionierte Abfälle (pro m<sup>3</sup>)</td><td>**95 000**</td></tr>
+<tr><td>3. Sonstige brennbare Abfälle (pro m<sup>3</sup>)</td><td>**205 000**</td></tr>
+<tr><td>4. Sonstige nicht-brennbare Abfälle (pro m<sup>3</sup>)</td><td>**242 000**</td></tr>
 </table>
 
-[^annexu1-lvlu1-lvlG-1]: Die A<sub>2</sub>-Werte sind im Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR, [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)) zu finden.
+<table>
+<tr><th>Quellenkategorie</th><th>*ß/γ-Strahler*</th><th>Quellenkategorie</th><th>*α-Strahler*</th></tr>
+<tr><th></th><th>Max. Aktivität</th><th></th><th>Max. Aktivität</th></tr>
+<tr><td>Q1</td><td>10<sup>-4</sup> x A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]</td><td>Qα1</td><td>10<sup>-3</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q2</td><td>10<sup>-3</sup> x A<sub>2</sub></td><td>Qα2</td><td>10<sup>-1</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q3</td><td>10<sup>-1</sup> x A<sub>2</sub></td><td>Qα3</td><td>unbegrenzt</td></tr>
+<tr><td>Q4</td><td>unbegrenzt</td><td></td><td></td></tr>
+</table>
+
+[^annexu1-lvlu1-lvlG-1]: Die A<sub>2</sub>-Werte sind im Europäischen Übereinkommen vom 30. September 1957 über die internationale Beförderung gefährlicher Güter auf der Strasse (ADR; [SR 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)) zu finden.

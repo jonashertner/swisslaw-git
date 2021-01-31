@@ -4,11 +4,11 @@ title: Ordinanza del 26 aprile 2017 sugli emolumenti in materia di radioprotezio
 short: OEm-RaP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/511"
 language: it
-version: 2018-01-01
+version: 2021-02-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2017-511-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2017-511-20210201-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/it"
 
 (OEm-RaP)
 
-del 26 aprile 2017 (Stato 1° gennaio 2018)
+del 26 aprile 2017 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -64,9 +64,11 @@ In singoli casi debitamente motivati si può rinunciare a riscuotere emolumenti,
 
 **Calcolo degli emolumenti**
 
-<sup>1</sup> Gli emolumenti sono calcolati secondo gli importi forfetari stabiliti nell’allegato.
+<sup>1</sup> Gli emolumenti sono calcolati secondo l’allegato.[^5-1]
 
 <sup>2</sup> Per provvedimenti, prestazioni e decisioni che non sono menzionati nell’allegato o per i quali nell’allegato è stabilito un emolumento in funzione del dispendio, gli emolumenti sono calcolati in base al tempo impiegato. La tariffa oraria si situa, a seconda delle conoscenze specifiche necessarie e del livello di funzione del personale incaricato, tra i 100 e i 200 franchi. Il tempo di viaggio e il tempo d’attesa sono calcolati come tempo di lavoro.
+
+[^5-1]: Nuovo testo giusta il n. I dell’O del 18 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
 
 #### Art. 6
 
@@ -111,13 +113,15 @@ La presente ordinanza si applica ai provvedimenti, alle prestazioni e alle decis
 
 La presente ordinanza entra in vigore il 1° gennaio 2018.
 
-Allegato
+Allegato[^t-1]
 
 (art. 5 cpv. 1)
 
-## Importi forfetari
+## Calcolo degli emolumenti
 
-### A. Licenze per la manipolazione di radiazioni ionizzanti (art. 9 dell’ordinanza del 27 aprile 2017**** sulla radioprotezione [ORaP])
+[^t-1]: Aggiornato dal n. II dell’O del 18 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
+
+### A. Licenze per la manipolazione di radiazioni ionizzanti (art. 9 dell’ordinanza del 26 aprile 2017 sulla radioprotezione [ORaP])
 
 [^annexu1-lvlu1-lvlA-1]
 
@@ -180,8 +184,12 @@ Allegato
 <tr><td>9.2 Area di lavoro di tipo C</td><td>1 100</td></tr>
 <tr><td>9.3 Area di lavoro di tipo B</td><td>1 400</td></tr>
 <tr><td>10. Licenza di trasporto</td><td>800</td></tr>
-<tr><td>11. Licenza per aziende nel campo di vigilanza della Suva</td><td>200</td></tr>
+<tr><td>11. Impiego di personale in aziende terze</td><td>300</td></tr>
 </table>
+
+Per aziende nel campo di vigilanza della Suva che sottostanno alla legge federale del 20 marzo 1981[^annexu1-lvlu1-lvlA-2] sull’assicurazione contro gli infortuni (LAINF), gli importi forfettari sono ridotti del 15 per cento secondo le posizioni alla cifra II. 1–11.
+
+[^annexu1-lvlu1-lvlA-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 ### B. Riconoscimento di formazioni e aggiornamenti (art. 180 ORaP)
 
@@ -223,35 +231,31 @@ Allegato
 <tr><td>2. Misure in scintillatori liquidi</td><td>200</td></tr>
 </table>
 
-### G. Condizionamento, deposito intermedio e deposito in strati geologici profondi di scorie radioattive che devono essere consegnate (art. 119 e 120 ORaP)
+### G. Raccolta, [condizionamento, deposito intermedio e deposito in strati geologici profondi di scorie radioattive che devono essere consegnate (art. 119 e 120 ORaP)](https://www.admin.ch/opc/de/classified-compilation/20163017/index.html)
+
+L’emolumento deve essere calcolato per sorgente o al m<sup>3</sup> secondo i numeri 1–4.
+
+Se più sorgenti della categoria Q1/Qα1 vengono consegnate insieme e di conseguenza viene superato l’emolumento della categoria Q2/Qα2, all’intera consegna viene applicato l’emolumento secondo la categoria Q2/Qα2. Se l’attività totale della consegna è superiore alla categoria Q2/Qα2, l’emolumento per l’intera consegna viene calcolato in base alla categoria in cui rientra l’attività totale delle sorgenti consegnate.
 
 <table>
 <tr><th></th><th>Franchi</th></tr>
-<tr><th>1. Condizionamento e deposito intermedio</th><th></th></tr>
-<tr><th>1.1 Scorie condizionate al m<sup>3</sup></th><th>17 500</th></tr>
-<tr><th>1.2 Scorie non condizionate (volume effettivo delle scorie)</th><th></th></tr>
-<tr><th>a. Sorgenti radioattive sigillate</th><th></th></tr>
-<tr><th>Emettitori β/γ</th><th></th></tr>
-<tr><th>Per sorgente Q2: 10<sup>-4</sup> A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></th><th>4 100</th></tr>
-<tr><th>Per sorgente Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></th><th>5 851</th></tr>
-<tr><th>Per sorgente Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</th><th>in base al dispendio</th></tr>
-<tr><th>*Emettitori α*</th><th></th></tr>
-<tr><th>Per sorgente QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></th><th>4 100</th></tr>
-<tr><th>Per sorgente QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</th><th>in base al dispendio</th></tr>
-<tr><th>b. Altre scorie non condizionate al m<sup>3</sup></th><th>94 000</th></tr>
-<tr><th>1.3 Minimo per le piccole quantità</th><th>100</th></tr>
-<tr><th>2. Deposito in strati geologici profondi</th><th></th></tr>
-<tr><th>2.1 Scorie condizionate al m<sup>3</sup></th><th>24 000</th></tr>
-<tr><th>2.2 Scorie non condizionate</th><th></th></tr>
-<tr><th>a. Sorgenti radioattive sigillate</th><th></th></tr>
-<tr><th>*Emettitori* *β/γ*</th><th></th></tr>
-<tr><th>Per sorgente Q2: 10<sup>-4</sup> A<sub>2</sub>&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></th><th>800</th></tr>
-<tr><th>Per sorgente Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></th><th>3 500</th></tr>
-<tr><th>Per sorgente Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</th><th>in base al dispendio</th></tr>
-<tr><th>*Emettitori α*</th><th></th></tr>
-<tr><th>Per sorgente QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></th><th>800</th></tr>
-<tr><th>Per sorgente QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</th><th>in base al dispendio</th></tr>
-<tr><th>b. Altre scorie non condizionate al m<sup>3</sup></th><th>24 000</th></tr>
+<tr><td>1. Sorgenti radioattive sigillate (per sorgente)</td><td></td></tr>
+<tr><td>1.1 Categoria Q1/Qα1</td><td>**200**</td></tr>
+<tr><td>1.2 Categoria Q2/Qα2</td><td>**6 600**</td></tr>
+<tr><td>1.3 Categoria Q3</td><td>**12 300**</td></tr>
+<tr><td>1.4 Categoria Q4/Qα3</td><td>in funzione del dispendio</td></tr>
+<tr><td>2. Scorie precondizionate (al m<sup>3</sup>)</td><td>**95 000**</td></tr>
+<tr><td>3. Altre scorie combustibili (al m<sup>3</sup>)</td><td>**205 000**</td></tr>
+<tr><td>4. Altre scorie non combustibili (al m<sup>3</sup>)</td><td>**242 000**</td></tr>
+</table>
+
+<table>
+<tr><th>Categoria sorgente</th><th>*Emettitori ß/γ*</th><th>Categoria sorgente</th><th>*Emettitori α*</th></tr>
+<tr><th></th><th>attività massima</th><th></th><th>attività massima</th></tr>
+<tr><td>Q1</td><td>10<sup>-4</sup> x A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]</td><td>Qα1</td><td>10<sup>-3</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q2</td><td>10<sup>-3</sup> x A<sub>2</sub></td><td>Qα2</td><td>10<sup>-1</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q3</td><td>10<sup>-1</sup> x A<sub>2</sub></td><td>Qα3</td><td>illimitata</td></tr>
+<tr><td>Q4</td><td>illimitata</td><td></td><td></td></tr>
 </table>
 
 [^annexu1-lvlu1-lvlG-1]: I valori A<sub>2</sub> figurano nell’Acc. europeo del 30 set. 1957 relativo al trasporto internazionale su strada delle merci pericolose (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).

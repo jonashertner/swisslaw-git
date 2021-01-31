@@ -4,11 +4,11 @@ title: Ordonnance du 26 avril 2017 sur les émoluments perçus dans le domaine d
 short: OE-RaP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/511"
 language: fr
-version: 2018-01-01
+version: 2021-02-01
 adopted: 2017-04-26
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-511-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/511/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-511-20210201-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/511/20180101/fr"
 
 (OE-RaP)
 
-du 26 avril 2017 (Etat le 1<sup>er</sup> janvier 2018)
+du 26 avril 2017 (État le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -63,9 +63,11 @@ Dans des cas justifiés, il n’est pas nécessaire de percevoir des émoluments
 
 **Calcul des émoluments**
 
-<sup>1</sup> Les émoluments sont calculés selon les taux fixés dans l’annexe.
+<sup>1</sup> Les émoluments sont calculés selon les modalités fixées dans l’annexe.[^5-1]
 
 <sup>2</sup> Les émoluments sont calculés en fonction du temps consacré pour les mesures, prestations de services ou décisions qui ne sont pas mentionnées dans l’annexe ou celles pour lesquelles cette modalité y est fixée. Le tarif horaire se situe, suivant les connaissances techniques nécessaires et le niveau de fonction du personnel en charge, entre 100 et 200 francs. Les temps de déplacement et d’attente sont comptés comme temps de travail.
+
+[^5-1]: Nouvelle teneur selon le ch. I de l’O du 18 décembre 2020, en vigueur depuis le 1<sup>er</sup> février 2021 ([RO 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
 
 #### Art. 6
 
@@ -110,13 +112,15 @@ La présente ordonnance s’applique aux mesures, aux prestations de services et
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2018.
 
-Annexe
+Annexe[^t-1]
 
 (art. 5, al. 1)
 
-## Forfaits
+## Calcul des émoluments
 
-### A. Autorisations concernant l’utilisation des rayonnements ionisants (art. 9 de l’ordonnance du 27 avril 2017 sur la radioprotection [ORaP]****)
+[^t-1]: Mise à jour par le ch. II de l’O du 18 décembre 2020, en vigueur depuis le 1<sup>er</sup> février 2021 ([RO 2021 24](https://fedlex.data.admin.ch/eli/oc/2021/24)).
+
+### A. Autorisations concernant l’utilisation des rayonnements ionisants (art. 9 de l’ordonnance du 26 avril 2017 sur la radioprotection [ORaP])
 
 [^annexu1-lvlu1-lvlA-1]
 
@@ -145,8 +149,8 @@ Annexe
 <tr><td>4. Médecine nucléaire</td><td></td></tr>
 <tr><td>4.1 Diagnostic, secteur de travail de type C</td><td>1 400</td></tr>
 <tr><td>4.2 Thérapie, secteur de travail de type B /C</td><td>2 600</td></tr>
-<tr><td>4.3 Equipement TEP-CT</td><td>2 000</td></tr>
-<tr><td>4.4 Equipement SPECT-CT</td><td>1 750</td></tr>
+<tr><td>4.3 Équipement TEP-CT</td><td>2 000</td></tr>
+<tr><td>4.4 Équipement SPECT-CT</td><td>1 750</td></tr>
 <tr><td>4.5 Chambres pour patients</td><td>1 400</td></tr>
 <tr><td>5. Installations de médecine vétérinaire, de médecine légale et celles utilisées pour la recherche et la formation</td><td></td></tr>
 <tr><td>5.1 Petite installation de radiographie dentaire jusqu’à 70 kV</td><td>400</td></tr>
@@ -166,7 +170,7 @@ Annexe
 <tr><td>4.2 Commerce (achat, remise), équipement, test de réception, entretien, examen de l’état, suivi, expériences, démonstrations, présentation, remise d’installations à des fins diagnostiques dans le domaine des faibles doses et des doses modérées au sens de l’art. 26, let. a et b, ORaP, *y compris* l’exécution de mesures d’assurance de qualité sur les installations, sur les appareillages d’examen en médecine nucléaire et les activimètres ou sur les systèmes de réception et de restitution d’images en radiodiagnostic en vertu de l’art. 9, let. g, ORaP.</td><td>3 900</td></tr>
 <tr><td>4.3 Commerce (achat, remise), équipement, test de réception, entretien, examen de l’état, suivi, expériences, démonstrations, présentation, remise d’installations à des fins diagnotiques/thérapeutiques dans le domaine des doses élevées au sens de l’art. 26, let. c, ORaP, *y compris* l’exécution de mesures d’assurance de qualité sur les installations, sur les appareillages d’examen en médecine nucléaire et les activimètres ou sur les systèmes de réception et de restitution d’images en radiodiagnostic en vertu de l’art. 9, let. g, ORaP.</td><td>5 100</td></tr>
 <tr><td>5. Commerce de sources radioactives</td><td>550</td></tr>
-<tr><td>6. Ecoles</td><td></td></tr>
+<tr><td>6. Écoles</td><td></td></tr>
 <tr><td>6.1 Utilisation de sources radioactives ou d’installations</td><td>650</td></tr>
 <tr><td>7. Utilisation de sources radioactives scellées</td><td></td></tr>
 <tr><td>7.1 jusqu’à 10 sources radioactives scellées</td><td>650</td></tr>
@@ -179,8 +183,12 @@ Annexe
 <tr><td>9.2 Secteur de travail de type C</td><td>1 100</td></tr>
 <tr><td>9.3 Secteur de travail de type B</td><td>1 400</td></tr>
 <tr><td>10. Autorisation de transport</td><td>800</td></tr>
-<tr><td>11. Octroi d’une autorisation pour les entreprises actives dans le domaine de surveillance de la Suva</td><td>200</td></tr>
+<tr><td>11. Engagement de personnel dans des entreprises tierces</td><td>300</td></tr>
 </table>
+
+Pour les entreprises actives dans le domaine de surveillance de la Suva qui sont soumises à la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA)[^annexu1-lvlu1-lvlA-2], les forfaits -fixés aux rubriques 1 à 11 du ch. II sont réduits de 15 %.
+
+[^annexu1-lvlu1-lvlA-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
 
 ### B. Reconnaissance des formations et des formations continues (art. 180 ORaP)
 
@@ -205,7 +213,7 @@ Annexe
 <tr><td>Agrément d’un service de mesure du radon</td><td>500</td></tr>
 </table>
 
-### E. Emoluments uniques en lien avec les autorisations et les reconnaissances
+### E. Émoluments uniques en lien avec les autorisations et les reconnaissances
 
 <table>
 <tr><th></th><th>francs</th></tr>
@@ -222,35 +230,31 @@ Annexe
 <tr><td>2. Mesure par scintillation liquide</td><td>200</td></tr>
 </table>
 
-### G. Conditionnement, stockage temporaire et dépôt en couches géologiques profondes de déchets radioactifs soumis à l’obligation de livraison (art. 119 et 120 ORaP)
+### G. Collecte, conditionnement, stockage temporaire et dépôt en couches géologiques profondes de déchets radioactifs soumis à l’obligation de livraison (art. 119 et 120 ORaP)
+
+L’émolument est calculé par source ou par m<sup>3</sup> selon les ch. 1 à 4.
+
+Lorsqu’une livraison groupée comprend plusieurs sources de la catégorie Q1/Qα1, de sorte que l’émolument total dépasse le montant fixé pour la catégorie Q2/Qα2, on applique l’émolument de cette dernière catégorie à l’entier de la livraison. Si l’activité totale de la livraison est supérieure au chiffre prévu pour la catégorie Q2/Qα2, on applique l’émolument de la catégorie correspondant à l’activité totale de cette livraison.
 
 <table>
 <tr><th></th><th>francs</th></tr>
-<tr><td>1. Conditionnement et stockage temporaire</td><td></td></tr>
-<tr><td>1.1 Déchets conditionnés par m<sup>3</sup></td><td>17 500</td></tr>
-<tr><td>1.2 Déchets non conditionnés (volume de déchets effectif)</td><td></td></tr>
-<tr><td>a. sources radioactives scellées</td><td></td></tr>
-<tr><td>*émetteur β/γ*</td><td></td></tr>
-<tr><td>par source Q2: 10<sup>-4</sup> A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>4 100</td></tr>
-<tr><td>par source Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>5 851</td></tr>
-<tr><td>par source Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>en fonction du temps consacré</td></tr>
-<tr><td>*émetteur α*</td><td></td></tr>
-<tr><td>par source QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>4 100</td></tr>
-<tr><td>par source QA3:10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>en fonction du temps consacré</td></tr>
-<tr><td>b. autres déchets non conditionnés par m<sup>3</sup></td><td>94 000</td></tr>
-<tr><td>1.3 Minimum pour de petites quantités</td><td>100</td></tr>
-<tr><td>2. Dépôt en couches géologiques profondes</td><td></td></tr>
-<tr><td>2.1 Déchets conditionnés par m<sup>3</sup></td><td>24 000</td></tr>
-<tr><td>2.2 Déchets non conditionnés</td><td></td></tr>
-<tr><td>a. sources radioactives scellées</td><td></td></tr>
-<tr><td>*émetteur β/γ*</td><td></td></tr>
-<tr><td>par source Q2: 10<sup>-4</sup> A<sub>2</sub>&lt;Q2≤10<sup>-3</sup> A<sub>2</sub></td><td>800</td></tr>
-<tr><td>par source Q3: 10<sup>-3</sup> A<sub>2</sub>&lt;Q3≤10<sup>-1</sup> A<sub>2</sub></td><td>3 500</td></tr>
-<tr><td>par source Q4: 10<sup>-1</sup> A<sub>2</sub>&lt;Q4</td><td>en fonction du temps consacré</td></tr>
-<tr><td>*émetteur α*</td><td></td></tr>
-<tr><td>par source QA2: 10<sup>-3</sup> A<sub>2</sub>&lt;QA2≤10<sup>-1</sup> A<sub>2</sub></td><td>800</td></tr>
-<tr><td>par source QA3: 10<sup>-1</sup> A<sub>2</sub>&lt;QA3</td><td>en fonction du temps consacré</td></tr>
-<tr><td>b. autres déchets non conditionnés par m<sup>3</sup></td><td>24 000</td></tr>
+<tr><td>1. Sources radioactives scellées (par source)</td><td></td></tr>
+<tr><td>1.1 Catégorie Q1/Qα1</td><td>**200**</td></tr>
+<tr><td>1.2 Catégorie Q2/Qα2</td><td>**6 600**</td></tr>
+<tr><td>1.3 Catégorie Q3</td><td>**12 300**</td></tr>
+<tr><td>1.4 Catégorie Q4/Qα3</td><td>en fonction du temps consacré</td></tr>
+<tr><td>2. Déchets préconditionnés (par m<sup>3</sup>)</td><td>**95 000**</td></tr>
+<tr><td>3. Autres déchets incinérables (par m<sup>3</sup>)</td><td>**205 000**</td></tr>
+<tr><td>4. Autres déchets non incinérables (par m<sup>3</sup>)</td><td>**242 000**</td></tr>
+</table>
+
+<table>
+<tr><th>Catégorie de source</th><th>*Émetteur ß/γ*</th><th>Catégorie de source</th><th>*Émetteur α*</th></tr>
+<tr><th></th><th>Activité max.</th><th></th><th>Activité max.</th></tr>
+<tr><td>Q1</td><td>10<sup>-4</sup> x A<sub>2</sub>[^annexu1-lvlu1-lvlG-1]</td><td>Qα1</td><td>10<sup>-3</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q2</td><td>10<sup>-3</sup> x A<sub>2</sub></td><td>Qα2</td><td>10<sup>-1</sup> x A<sub>2</sub></td></tr>
+<tr><td>Q3</td><td>10<sup>-1</sup> x A<sub>2</sub></td><td>Qα3</td><td>illimitée</td></tr>
+<tr><td>Q4</td><td>illimitée</td><td></td><td></td></tr>
 </table>
 
 [^annexu1-lvlu1-lvlG-1]: Les valeurs A<sub>2</sub> figurent dans l’Accord européen du 30 septembre 1957 relatif au transport international des marchandises dangereuses par route (ADR; [RS 0.741.621](https://fedlex.data.admin.ch/eli/cc/1972/1073_1085_1249)).
