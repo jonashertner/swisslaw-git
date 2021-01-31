@@ -4,11 +4,11 @@ title: "Legge federale del 30 settembre 2011 concernente la ricerca sull'essere 
 short: LRUm
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: it
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/it"
 
 (Legge sulla ricerca umana, LRUm)
 
-del 30 settembre 2011 (Stato 1° gennaio 2020) (Stato 1° gennaio 2020)
+del 30 settembre 2011 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -134,9 +134,13 @@ La ricerca sull’essere umano può essere condotta soltanto se affronta una que
 
 #### Art. 9
 
-**Divieto di commercializzazione**
+**Divieto di commercializzazione**[^9-1]
 
-Il corpo umano o sue parti non possono essere alienati o acquistati in quanto tali a scopo di ricerca dietro compenso o altri vantaggi materiali.
+<sup>1</sup> È vietato offrire, concedere, richiedere o accettare un compenso o un altro vantaggio materiale per il corpo umano o sue parti in quanto tali.
+
+<sup>2</sup> È altresì vietato utilizzare il corpo umano o sue parti, se sono stati oggetto di un atto illecito secondo il capoverso 1.
+
+[^9-1]: Nuovo testo giusta l’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 10
 
@@ -254,7 +258,7 @@ A titolo eccezionale, la persona interessata può essere informata in modo parzi
 <sup>3</sup> Per il rimanente si applicano le disposizioni del Codice delle obbligazioni[^19-3] sugli atti illeciti; per quanto riguarda l’esercizio di una funzione ufficiale, si applica la legge del 14 marzo 1958[^19-4] sulla responsabilità o il diritto cantonale sulla responsabilità.
 
 [^19-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^19-2]: Nuovo testo giusta il n. 17 dell’all. alla LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
+[^19-2]: Nuovo testo giusta l’all. n. 17 della LF del 15 giu. 2018 (Revisione della disciplina della prescrizione), in vigore dal 1° gen. 2020 ([RU 2018 5343](https://fedlex.data.admin.ch/eli/oc/2018/807); [FF 2014 211](https://fedlex.data.admin.ch/eli/fga/2014/65)).
 [^19-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^19-4]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
 
@@ -785,7 +789,8 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 
 - a. conduce un progetto di ricerca senza l’autorizzazione di una commissione d’etica o in violazione di un protocollo di ricerca autorizzato (art. 45) mettendo a rischio la salute delle persone che vi partecipano;
 - b. conduce un progetto di ricerca secondo i capitoli 2, 3, 5 o 6 senza il consenso prescritto dalla presente legge (art. 16, 17, 18 cpv. 3, 22 cpv. 1, 3 lett. a e 4, art. 23, 24, 26, 28, 30, 36 cpv. 1 e 2, 39 cpv. 1 e 40);
-- c. aliena o acquista un corpo umano o sue parti dietro compenso o un altro vantaggio materiale (art. 9);
+- c.[^62-2] offre, concede, richiede o accetta un compenso o un altro vantaggio materiale per il corpo umano o sue parti in quanto tali;
+- c<sup>bis</sup>.[^62-3] utilizza il corpo umano o sue parti, se sono stati oggetto di un reato secondo la lettera c;
 - d. conduce un progetto di ricerca che si prefigge di modificare le caratteristiche dell’embrione o del feto che non siano correlate a una malattia (art. 25);
 - e. utilizza embrioni o feti provenienti da interruzioni di gravidanza e aborti spontanei per un progetto di ricerca prima che ne sia stato accertato il decesso (art. 39 cpv. 3 e 40 cpv. 2).
 
@@ -794,6 +799,8 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 <sup>3</sup> Se l’autore ha agito per negligenza, la pena è una pena pecuniaria fino a 180 aliquote giornaliere.
 
 [^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-2]: Nuovo testo giusta l’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-3]: Introdotta dall’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 63
 
@@ -818,7 +825,10 @@ Sempre che non si tratti di un reato più grave secondo il Codice penale[^62-1],
 
 <sup>2</sup> Gli articoli 6 e 7 (infrazioni commesse nell’azienda), nonché 15 (falsità in documenti, conseguimento fraudolento di una falsa attestazione) della legge federale del 22 marzo 1974[^64-1] sul diritto penale amministrativo sono applicabili.
 
+<sup>3</sup> Le autorità competenti comunicano all’UFSP tutte le sentenze pronunciate sulla base degli articoli 62 capoverso 1 lettere b–c<sup>bis</sup> o 63 capoverso 1 lettera c a seguito di un reato di cui è stato oggetto il corpo umano o sue parti.[^64-2]
+
 [^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-2]: Introdotto dall’all. n. 2 del DF del 19 giu. 2020 che approva e traspone nel diritto svizzero la Convenzione del Consiglio d’Europa contro il traffico di organi umani, in vigore dal 1° feb. 2021 ([RU 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 4903](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Capitolo 12: Disposizioni finali
 
@@ -873,6 +883,8 @@ Allegato
 
 ## Modifica del diritto vigente
 
-…[^annexu1-lvlu1-1]
+Le leggi federali qui appresso sono modificate come segue:
+
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617).

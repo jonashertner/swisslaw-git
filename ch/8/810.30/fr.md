@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 relative à la recherche sur l'être
 short: LRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: fr
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/fr"
 
 (Loi relative à la recherche sur l’être humain, LRH)
 
-du 30 septembre 2011 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 septembre 2011 (Etat le 1<sup>er</sup> février 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -133,9 +133,13 @@ La recherche sur l’être humain peut être pratiquée uniquement si la problé
 
 #### Art. 9
 
-**Interdiction de commercialiser**
+**Interdiction de commercialiser**[^9-1]
 
-Le corps humain et les parties du corps humain ne peuvent être ni cédés ni acquis en tant que tels à des fins de recherche contre une rémunération ou d’autres avantages matériels.
+<sup>1</sup> Il est interdit de proposer, d’octroyer, d’exiger ou d’accepter une rémunération ou d’autres avantages matériels pour un corps humain ou des parties du corps humain en tant que tels.
+
+<sup>2</sup> Il est également interdit d’utiliser le corps humain ou des parties du corps humain si ces derniers ont fait l’objet d’un des actes illicites visés à l’al. 1.
+
+[^9-1]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 10
 
@@ -784,7 +788,8 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 
 - a. réalise un projet de recherche sans détenir l’autorisation d’une commission d’éthique ou en s’écartant du protocole autorisé (art. 45), mettant ainsi en danger la santé des personnes y participant;
 - b. réalise un projet de recherche conformément aux chap. 2, 3, 5 ou 6 sans disposer du consentement requis par la présente loi (art. 16, 17, 18, al. 3, 22, al. 1, 3, let. a, et 4, art. 23, 24, 26, 28, 30, 36, al. 1 et 2, 39, al. 1, et 40);
-- c. cède ou acquiert contre rémunération ou en échange d’autres avantages matériels un corps humain ou des parties de corps humain (art. 9);
+- c.[^62-2] propose, octroie, exige ou accepte une rémunération ou d’autres avantages matériels pour un corps humain ou des parties du corps humain en tant que tels;
+- c<sup>bis</sup>.[^62-3] utilise le corps humain ou des parties du corps humain si ces derniers ont fait l’objet d’une des infractions visées à la let. c;
 - d. réalise un projet de recherche qui a pour but de modifier les caractéristiques d’un embryon ou d’un fœtus sans rapport avec une maladie (art. 25);
 - e. utilise dans un projet de recherche un embryon ou un fœtus issu d’une interruption de grossesse ou d’un avortement spontané avant que le décès ne soit constaté (art. 39, al. 3, et 40, al. 2).
 
@@ -793,6 +798,8 @@ Est puni d’une peine privative de liberté de trois ans au plus ou d’une pei
 <sup>3</sup> Si l’auteur de l’infraction agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.
 
 [^62-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-3]: Introduite par l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 63
 
@@ -817,7 +824,10 @@ Est puni d’une amende quiconque, intentionnellement ou par négligence:
 
 <sup>2</sup> Les art. 6 et 7 (infraction commise dans une entreprise) et 15 (faux dans les titres, obtention frauduleuse d’une constatation fausse) de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^64-1] sont applicables.
 
+<sup>3</sup> Les autorités compétentes signalent à l’OFSP tout jugement rendu en vertu des art. 62, al. 1, let. b à c<sup>bis</sup>, ou 63, al. 1, let. c, en raison d’un acte punissable dont le corps humain ou les parties du corps humain ont fait l’objet.[^64-2]
+
 [^64-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-2]: Introduit par l’annexe ch. 2 de l’AF du 19 juin 2020 portant approbation et mise en œuvre de la Convention du Conseil de l’Europe contre le trafic d’organes humains, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [FF 2019 5673](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## Chapitre 12 Dispositions finales
 

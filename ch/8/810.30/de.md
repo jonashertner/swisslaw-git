@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Forschung am Menschen (Hum
 short: HFG
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/617"
 language: de
-version: 2020-01-01
+version: 2021-02-01
 adopted: 2011-09-30
 in_force: 2014-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/617/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2013-617-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/617/20200101/de"
 
 (Humanforschungsgesetz, HFG)
 
-vom 30. September 2011 (Stand am 1. Januar 2020)
+vom 30. September 2011 (Stand am 1. Februar 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -133,9 +133,13 @@ Forschung am Menschen darf nur durchgeführt werden, wenn eine wissenschaftlich 
 
 #### Art. 9
 
-**Kommerzialisierungsverbot**
+**Kommerzialisierungsverbot**[^9-1]
 
-Der menschliche Körper oder dessen Teile dürfen als solche zu Forschungszwecken nicht gegen Entgelt oder einen andern geldwerten Vorteil veräussert oder erworben werden.
+<sup>1</sup> Es ist verboten, für den menschlichen Körper oder dessen Teile als solche ein Entgelt oder einen anderen geldwerten Vorteil anzubieten, zu gewähren, zu fordern oder anzunehmen.
+
+<sup>2</sup> Es ist zudem verboten, den menschlichen Körper oder dessen Teile zu verwenden, wenn damit eine unerlaubte Handlung nach Absatz 1 stattgefunden hat.
+
+[^9-1]: Fassung gemäss Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 10
 
@@ -783,7 +787,8 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^62-1] vorlie
 
 - a. ein Forschungsprojekt ohne Bewilligung einer Ethikkommission oder abweichend von einem bewilligten Forschungsplan durchführt (Art. 45) und dadurch die Gesundheit der teilnehmenden Personen gefährdet;
 - b. ein Forschungsprojekt nach dem 2., 3., 5. oder 6. Kapitel durchführt, ohne dass die nach diesem Gesetz erforderliche Einwilligung vorliegt (Art. 16, 17, 18 Abs. 3, 22 Abs. 1, 3 Bst. a und 4, Art. 23, 24, 26, 28, 30, 36 Abs. 1 und 2, 39 Abs. 1, 40);
-- c. den menschlichen Körper oder dessen Teile gegen Entgelt oder einen andern geldwerten Vorteil veräussert oder erwirbt (Art. 9);
+- c.[^62-2] für den menschlichen Körper oder dessen Teile als solche ein Entgelt oder einen anderen geldwerten Vorteil anbietet, gewährt, fordert oder annimmt;
+- c<sup>bis</sup>.[^62-3] den menschlichen Körper oder dessen Teile verwendet, wenn damit eine strafbare Handlung nach Buchstabe c stattgefunden hat;
 - d. ein Forschungsprojekt durchführt, das eine Änderung von Eigenschaften des Embryos oder des Fötus ohne Bezug zu einer Krankheit zum Ziel hat (Art. 25);
 - e. Embryonen oder Föten aus Schwangerschaftsabbrüchen und Spontanaborten für ein Forschungsprojekt verwendet, bevor der Tod festgestellt worden ist (Art. 39 Abs. 3, 40 Abs. 2).
 
@@ -792,6 +797,8 @@ Sofern keine schwerere strafbare Handlung nach dem Strafgesetzbuch[^62-1] vorlie
 <sup>3</sup> Wird die Tat fahrlässig begangen, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.
 
 [^62-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^62-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
+[^62-3]: Eingefügt durch Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 #### Art. 63
 
@@ -816,7 +823,10 @@ Mit Busse wird bestraft, wer vorsätzlich oder fahrlässig:
 
 <sup>2</sup> Die Artikel 6 und 7 (Widerhandlungen in Geschäftsbetrieben) sowie 15 (Urkundenfälschung, Erschleichen einer falschen Beurkundung) des Bundesgesetzes vom 22. März 1974[^64-1] über das Verwaltungsstrafrecht sind anwendbar.
 
+<sup>3</sup> Die zuständigen Behörden teilen dem BAG sämtliche Urteile mit, die nach Artikel 62 Absatz 1 Buchstaben b–c<sup>bis</sup> oder 63 Absatz 1 Buchstabe c aufgrund einer strafbaren Handlung mit dem menschlichen Körper oder dessen Teilen ergangen sind.[^64-2]
+
 [^64-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^64-2]: Eingefügt durch Anhang Ziff. 2 des BB vom 19. Juni 2020 über die Genehmigung des Übereinkommens des Europarats gegen den Handel mit menschlichen Organen und über seine Umsetzung, in Kraft seit 1. Febr. 2021 ([AS 2020 6567](https://fedlex.data.admin.ch/eli/oc/2020/1066); [BBl 2019 5971](https://fedlex.data.admin.ch/eli/fga/2019/2178)).
 
 ## 12. Kapitel: Schlussbestimmungen
 
@@ -873,6 +883,6 @@ Anhang
 
 Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änd. können unter [AS 2013 3215](https://fedlex.data.admin.ch/eli/oc/2013/617)konsultiert werden.
