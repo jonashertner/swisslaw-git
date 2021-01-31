@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2020-03-01
+version: 2021-02-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20200301/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20200301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (Etat le 1<sup>er</sup> mars 2020)
+du 15 novembre 2017 (Etat le 1<sup>er</sup> février 2021)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -349,12 +349,12 @@ Annexe 1*[^t-1]*
 
 (art. 7, al. 3, let. a et 26)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 2.0)****
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 2.1)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovelle teneur selon le ch. I de l’O du DFJP du 13 janv. 2020 , en vigueur depuis le 1<sup>er</sup> mars 2020 ([RO 2020 1219](https://fedlex.data.admin.ch/eli/oc/2020/230)).
-[^annex1-lvlu1-1]: La présente annexe n’est pas publiée dans le RO. Elle peut être obtenue gratuitement sur le site www.li.admin.ch &gt; Documentation &gt; Téléchargements, ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 14 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
+[^annex1-lvlu1-1]: La présente annexe n’est pas publiée au RO. Elle peut être obtenue gratuitement sur le site www.li.admin.ch &gt; Documentation &gt; Téléchargements, ou auprès du Service SCPT, Fellerstrasse 15, 3003 Berne.
 
 Annexe 2*[^t-2]*
 

@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 15 novembre 2017 sull'esecuzione della sorveglian
 short: OE-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: it
-version: 2020-03-01
+version: 2021-02-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20200301/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20200301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/it"
 
 (OE-SCPT)
 
-del 15 novembre 2017 (Stato 1° marzo 2020)
+del 15 novembre 2017 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -349,12 +349,12 @@ Allegato 1*[^t-1]*
 
 (art. 7 cpv. 3 lett. a e 26)
 
-## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.0)****
+## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 2.1)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 13 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 1219](https://fedlex.data.admin.ch/eli/oc/2020/230)).
-[^annex1-lvlu1-1]: Non pubblicato nella RU. È reperibile gratuitamente su Internet all’indirizzo www.li.admin.ch &gt; Documentazione &gt; Downloads o presso il Servizio SCPT, Fellerstrasse 15, 3003 Berna.
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 14 dic. 2020, in vigore dal 1° feb. 2021 ([RU 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
+[^annex1-lvlu1-1]: Non è pubblicato nella RU. È reperibile gratuitamente su Internet all’indirizzo www.li.admin.ch &gt; Documentazione &gt; Downloads o presso il Servizio SCPT, Fellerstrasse 15, 3003 Berna.
 
 Allegato 2*[^t-2]*
 

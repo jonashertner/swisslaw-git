@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2020-03-01
+version: 2021-02-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20200301/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20200301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20200301/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 1. März 2020)
+vom 15. November 2017 (Stand am 1. Februar 2021)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -349,12 +349,12 @@ Anhang 1*[^t-1]*
 
 (Art. 7 Abs. 3 Bst. a und 26)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.0)****
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 2.1)****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 1219](https://fedlex.data.admin.ch/eli/oc/2020/230)).
-[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern bezogen werden.
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 14. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 22](https://fedlex.data.admin.ch/eli/oc/2021/22)).
+[^annex1-lvlu1-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Er kann kostenlos im Internet unter www.li.admin.ch &gt; Dokumentation &gt; Downloads abgerufen oder beim Dienst ÜPF, Fellerstrasse 15, 3003 Bern, bezogen werden.
 
 Anhang 2*[^t-2]*
 
