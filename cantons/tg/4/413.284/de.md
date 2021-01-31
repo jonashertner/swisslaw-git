@@ -3,13 +3,13 @@ canton: TG
 number: "413.284"
 title: Personalreglement der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene
 language: de
-version: 2019-08-01
-valid_until: 2021-01-31
-version_adopted: 2019-05-24
+version: 2021-02-01
+valid_until: 2024-01-31
+version_adopted: 2020-11-25
 adopted: 2013-12-04
 in_force: 2014-02-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/413.284"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1627/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,9 +18,11 @@ pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/1627/pdf_file"
 
 Personalreglement Maturitätsschule für Erwachsene TG/SH
 
-vom 04.12.2013 (Stand 01.08.2019)
+vom 04.12.2013 (Stand 01.02.2021)
 
-*Erlassen von der Aufsichtskommission der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene gestützt auf § 6 Abs. 2 lit. a der Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene (RB [413.28](https://www.rechtsbuch.tg.ch/data/413.28/de)).*
+*Erlassen von der Aufsichtskommission der Thurgauisch-Schaffhauserischen Maturitätsschule für Erwachsene gestützt auf § 6 Abs. 2 lit. a der Vereinbarung über die Thurgauisch-Schaffhauserische Maturitätsschule für Erwachsene*[^ingress-1].
+
+[^ingress-1]: RB [413.28](https://www.rechtsbuch.tg.ch/data/413.28/de)
 
 #### § 1
 
@@ -44,7 +46,9 @@ vom 04.12.2013 (Stand 01.08.2019)
 <sup>2</sup> Für Lehrpersonen gelten, soweit dieses Reglement nichts Abweichendes regelt, sinngemäss:
 
 - 1\. § 1 und § 8 - § 11 der Verordnung des Grossen Rates über die Besoldung der Lehrpersonen sowie
-- 2\. die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen, ausser die §§ 31-32, 34, 37-40, 43-52 sowie 55-63.
+- 2\. die Bestimmungen der Verordnung des Regierungsrates über die Rechtsstellung der Lehrpersonen an den Berufsfach- und Mittelschulen (RSV BM)[^2-1], ausser § 31 bis § 32, § 34, § 37 bis § 40, § 43 bis § 48, § 52 sowie § 55 bis § 63.
+
+[^2-1]: RB [413.141](https://www.rechtsbuch.tg.ch/data/413.141/de)
 
 #### § 2bis
 
@@ -118,7 +122,29 @@ vom 04.12.2013 (Stand 01.08.2019)
 
 <sup>4</sup> Für das übrige Personal gelten die Grundsätze für das Staatspersonal.
 
-[^7-1]: [RB 177.22](https://www.rechtsbuch.tg.ch/data/RB%C2%A0177.22/de)
+[^7-1]: RB [177.22](https://www.rechtsbuch.tg.ch/data/177.22/de)
+
+#### § 7a
+
+**Qualifikation und Besoldungsanpassung Lehrpersonen**
+
+<sup>1</sup> Die Qualifikation der Lehrpersonen erfolgt durch regelmässige Standortbestimmungen gemäss § 49ff. RSV BM.
+
+<sup>2</sup> Besoldungserhöhungen setzen in der Beurteilung der Leistungen der Lehrperson das Qualifikationsprädikat «gut» voraus.
+
+<sup>3</sup> Wurde das Qualifikationsprädikat «ungenügend» erteilt, erfolgt keine Besoldungserhöhung. Fällt die Qualifikation bei einer nächsten Standortbestimmung mit dem Prädikat «gut» aus, erfolgt der Lohnaufstieg auf der Basis der zuletzt bezogenen Besoldung.
+
+<sup>4</sup> Die lohnwirksame Qualifikation gilt bis zur nächsten Standortbestimmung.
+
+#### § 7b
+
+**Anhörungsverfahren**
+
+<sup>1</sup> Bei einer ungenügenden Beurteilung kann die Lehrperson innert zehn Tagen nach der schriftlichen Eröffnung das Gespräch mit dem Präsidenten oder der Präsidentin der Aufsichtskommission verlangen und ein schriftlich begründetes Begehren einreichen.
+
+<sup>2</sup> Ein von der Aufsichtskommission zu bestellender Ausschuss prüft das Begehren. Der Ausschuss kann die Lehrperson, Mitglieder der Schulleitung sowie ausnahmsweise aussenstehende Fachpersonen anhören.
+
+<sup>3</sup> Der Ausschuss der Aufsichtskommission erlässt eine schriftliche Empfehlung zu Handen des Rektors oder der Rektorin. Die Empfehlung wird der Lehrperson mitgeteilt.
 
 #### § 8
 
