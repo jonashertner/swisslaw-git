@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2020-04-01
+version: 2021-02-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20200401/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20200401-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20200401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20200401/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. April 2020)
+vom 21. September 2018 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1228,11 +1228,13 @@ Drogistinnen und Drogisten ohne eidgenössisches Diplom, die am 1. Januar 2019 g
 
 <sup>2</sup> Die Artikel 37 Absätze 2 und 3 sowie 51 treten am 1. Januar 2020 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 37 Abs. 1 Bst. e)
 
 ## Zulässige Wirkstoffe für die Herstellung von Radiopharmazeutika nach Artikel 9 Absätze 2 Buchstaben a–c<sup>bis</sup> und 2<sup>bis</sup> HMG
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 23. Dez. 2020, in Kraft seit 1. Febr. 2021 ([AS 2021 40](https://fedlex.data.admin.ch/eli/oc/2021/40)).
 
 ### 1 Grundsätze
 
@@ -1250,9 +1252,10 @@ Die Wirkstoffe werden unter Berücksichtigung des Standes der Wissenschaft, insb
 <table>
 <tr><th>Wirkstoff</th><th>Anwendungseinschränkungen</th><th>Qualitätsanforderungen</th></tr>
 <tr><td>[<sup>68</sup>Ga]Gallium-PSMA-HBED-CC Synonyme: [<sup>68</sup>Ga]-PSMA-11, <sup>68</sup>Ga-Labelled GLU-Urea-LYS(AHX)-HBED-CC</td><td>Darstellung von Tumorherden bei Patienten mit Adenokarzinom der Prostata</td><td>[<sup>68</sup>Ga]-PSMA-11 ≥ 95 % der totalen Radioaktivität zum Freigabezeitpunkt <sup>68</sup>Ga-Markierungslösung entspricht Ph. Eur. PSMA-11 und seine Metallkomplexe: ≤ 30 μg pro Dosis</td></tr>
-<tr><td>[<sup>68</sup>Ga]Gallium-Oxodotreotidum Synonyme: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Darstellung von neuroendokrinen Tumorherden</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % der totalen Radioaktivität zum Freigabezeitpunkt <sup>68</sup>Ga-Markierungslösung entspricht Ph. Eur. DOTATATE und seine Metallkomplexe: ≤ 50 μg pro Dosis</td></tr>
-<tr><td>[<sup>177</sup>Lu]Lutetium-Edotreotidum Synonyme: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA-(Tyr3)‑Octreotid</td><td>Therapie von progredienten Tumoren, die den Somatostatin-Rezeptor Subtyp 2 in hoher Dichte überexprimieren</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % der totalen Radioaktivität zum Freigabezeitpunkt <sup>177</sup>Lu ≥ 99.9 % und <sup>177m</sup>Lu ≤ 0.07 % der totalen Radioaktivität zum Verfallszeitpunkt DOTATOC und seine Metallkomplexe: ≤ 240 μg pro Dosis</td></tr>
-<tr><td>...</td><td>...</td><td>...</td></tr>
+<tr><td>[<sup>68</sup>Ga]Gallium- Oxodotreotidum Synonyme: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Darstellung von neuroendokrinen Tumorherden Als Ergänzung zur anatomischen Bildgebung bei der prätherapeutischen Beurteilung von Meningeomen</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % der totalen Radioaktivität zum Freigabezeitpunkt <sup>68</sup>Ga-Markierungslösung entspricht Ph. Eur. DOTATATE und seine Metallkomplexe: ≤ 50 μg pro Dosis</td></tr>
+<tr><td>[<sup>177</sup>Lu]Lutetium- Edotreotidum Synonyme: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA- (Tyr3)-Octreotid</td><td>Therapie von progredienten Tumoren, die den Somatostatin-Rezeptor Subtyp 2 in hoher Dichte überexprimieren</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % der totalen Radioaktivität zum Freigabezeitpunkt <sup>177</sup>Lu –Markierungslösung entspricht Ph. Eur. DOTATOC und seine Metallkomplexe: ≤ 240 μg pro Dosis</td></tr>
+<tr><td>[<sup>177</sup>Lu]Lutetium-ITG-PSMA-1 Synonyme: [<sup>177</sup>Lu]-DOTAGA- (I-y)fk(Sub-KuE); [<sup>177</sup>Lu]-DOTAGA- D-I-Tyr-D-Phe-D-Lys-suberoyl-Lys-Urea-Glu;</td><td>Therapie des PSMA PET/CT positiven, hormonrefraktären metastasierten Prostatakarzinoms</td><td>[<sup>177</sup>Lu]-ITG-PSMA-1 ≥ 93% der totalen Radioaktivität zum Freigabezeitpunkt <sup>177</sup>Lu-Markierungslösung entspricht Ph. Eur. ITG-PSMA-1 und seine Metallkomplexe: ≤ 0.1 mg pro Dosis</td></tr>
+<tr><td>[<sup>18</sup>F]Fluor-PSMA-1007 Synonym: (3S,10S,14S)-1-(4-(((S)-4-carboxy-2((S)-4-carboxy-2-(6[18F]-fluoronicotinamido) butana-mi-do)butanamido)methyl)-phenyl)-3-(naphthalen-2-ylmethyl)-1,4,12-trioxo-2,5,11,13-tetraazahexadecane-10,14,16-tricarboxylic acid</td><td>Darstellung von Tumorherden bei Patienten mit Adenokarzinom der Prostata</td><td>[<sup>18</sup>F]F-PSMA-1007 ≥ 93% der totalen Radioaktivität zum Freigabezeitpunkt [<sup>18</sup>F]-Fluorid ≤ 5% der totalen Radioaktivität zum Freigabezeitpunkt [<sup>18</sup>F] ≥ 99.9% der totalen Radioaktivität PSMA-1007 stämmige Verbindungen ≤ 0.5 mg/Dosis [<sup>19</sup>F]F-PSMA ≤ 0.1 mg pro Dosis</td></tr>
 </table>
 
 ### 4 Dokumentationsanforderungen
@@ -1272,7 +1275,7 @@ Die Präparatedokumentation muss folgende Angaben enthalten:
 - k. Spezifikationen und Prüfungsvorschriften des Fertigprodukts, insbesondere Identität, Reinheit, Gehalt, sowie allgemeine und galenische Prüfungen;
 - l. Begründung für die Spezifikationen des Fertigprodukts.
 
-Anhang 2*[^t-1]*
+Anhang 2*[^t-2]*
 
 (Art. 45 Abs. 2)
 
@@ -1280,7 +1283,7 @@ Anhang 2*[^t-1]*
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
 [^annex2-lvlu1-1]: Dieser Text wird in der AS und in der SR nicht publiziert (Art. 5 PublG; [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Er kann beim BAG abgerufen werden: www.bag.admin.ch. Er gilt in der Fassung vom 1. April 2020.
 
 Anhang 3

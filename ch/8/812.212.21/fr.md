@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2020-04-01
+version: 2021-02-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20200401/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20200401-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20200401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20200401/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (Etat le 1<sup>er</sup> avril 2020) avril 2020)
+du 21 septembre 2018 (Etat le 1<sup>er</sup> février 2021) février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -1227,11 +1227,13 @@ Les droguistes non titulaires d’un diplôme fédéral qui, au 1<sup>er</sup> j
 
 <sup>2</sup> Les art. 37, al. 2 et 3, et 51 entrent en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 37, al. 1, let. e)
 
 ## Principes actifs autorisés pour la fabrication de produits radiopharmaceutiques visés à l’art. 9, al. 2, let. a à c<sup>bis</sup>, et 2<sup>bis</sup>, LPTh
+
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 23 déc. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2021 ([RO 2021 40](https://fedlex.data.admin.ch/eli/oc/2021/40)).
 
 ### 1 Principe
 
@@ -1249,9 +1251,10 @@ L’inscription de principes actifs dans la présente annexe tient compte de l�
 <table>
 <tr><th>Principe actif</th><th>Restrictions d’utilisation</th><th>Exigences de qualité</th></tr>
 <tr><td>[<sup>68</sup>Ga]Gallium-PSMA-HBED-CC Synonymes: [<sup>68</sup>Ga]-PSMA-11, <sup>68</sup>Ga-Labelled GLU-Urea-LYS(AHX)-HBED-CC</td><td>Imagerie de foyers tumoraux chez les patients atteints d’un adénocarcinome de la prostate</td><td>[<sup>68</sup>Ga]-PSMA-11 ≥ 95 % de la radioactivité totale à libération marquage au <sup>68</sup>Ga correspond à la Ph. Eur. PSMA-11 et ses complexes métalliques: ≤ 30 μg par dose</td></tr>
-<tr><td>[<sup>68</sup>Ga]Gallium-Oxodotreotidum Synonymes: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Imagerie de tumeurs neuroendocrines</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % de la radioactivité totale à libération marquage au <sup>68</sup>Ga correspond à la Ph. Eur. DOTATATE et ses complexes métalliques: ≤ 50 μg par dose</td></tr>
-<tr><td>[<sup>177</sup>Lu]Lutetium-Edotreotidum Synonymes: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA-(Tyr3)‑Octreotid</td><td>Traitement de tumeurs progressives caractérisées par une densité élevée de récepteurs de la somatostatine de sous-type 2</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % de la radioactivité totale à libération <sup>177</sup>Lu ≥ 99,9 % et <sup>177m</sup>Lu ≤ 0,07 % de la radioactivité totale à péremption DOTATOC et ses complexes métalliques: ≤ 240 μg par dose</td></tr>
-<tr><td>…</td><td>…</td><td>…</td></tr>
+<tr><td>[<sup>68</sup>Ga]Gallium- Oxodotreotidum Synonymes: [<sup>68</sup>Ga]-DOTATATE, [<sup>68</sup>Ga]-DOTA-Octreotate</td><td>Imagerie de tumeurs neuroendocrines Comme complément à l’imagerie anatomique dans l’évaluation pré-thérapeutique des méningiomes</td><td>[<sup>68</sup>Ga]-DOTATATE ≥ 95 % de la radioactivité totale à libération marquage au <sup>68</sup>Ga correspond à la Ph. Eur. DOTATATE et ses complexes métalliques: ≤ 50 μg par dose</td></tr>
+<tr><td>[<sup>177</sup>Lu]Lutetium-Edotreotidum Synonymes: [<sup>177</sup>Lu]-DOTATOC, [<sup>177</sup>Lu]-DOTA- (Tyr3)-Octreotid</td><td>Traitement de tumeurs progressives caractérisées par une densité élevée de récepteurs de la somatostatine de sous-type 2</td><td>[<sup>177</sup>Lu]-DOTATOC ≥ 95 % de la radioactivité totale à libération marquage au <sup>177</sup>Lu correspond à la Ph. Eur. DOTATOC et ses complexes métalliques: ≤ 240 μg par dose</td></tr>
+<tr><td>[<sup>177</sup>Lu]Lutetium-ITG-PSMA-1 Synonymes: [<sup>177</sup>Lu]-DOTAGA- (I-y)fk(Sub-KuE); [<sup>177</sup>Lu]-DOTAGA- D-I-Tyr-D-Phe-D-Lys-suberoyl-Lys-Urea-Glu;</td><td>Traitement de carcinomes prostatiques métastatiques, hormono-résistants et positifs à la TEP/TC PSMA</td><td>[<sup>177</sup>Lu]-ITG-PSMA-1 ≥ 93 % de la radioactivité totale à libération marquage au <sup>177</sup>Lu correspond à la Ph. Eur. ITG-PSMA-1 et ses complexes métalliques: ≤ 0,1 mg par dose</td></tr>
+<tr><td>[<sup>18</sup>F]Fluor-PSMA-1007 Synonym: (3S,10S,14S)-1-(4-(((S)-4-carboxy-2((S)-4-carboxy-2-(6[18F]-fluoronicotinamido) butana-mi-do)butanamido)methyl)-phenyl)-3-(naphthalen-2-ylmethyl)-1,4,12-trioxo-2,5,11,13-tetraazahexadecane-10,14,16-tricarboxylic acid</td><td>Imagerie de foyers tumoraux chez les patients atteints d’un adénocarcinome de la prostate</td><td>[<sup>18</sup>F]F-PSMA-1007 ≥ 93 % de la radioactivité totale à libération [<sup>18</sup>F]-Fluorid ≤ 5 % de la radioactivité totale à libération [<sup>18</sup>F] ≥ 99,9 % de la radioactivité totale Composés dérivés du PSMA-1007 ≤ 0,5 mg par dose [<sup>19</sup>F]F-PSMA ≤ 0,1 mg par dose</td></tr>
 </table>
 
 ### 4 Documentation exigée
@@ -1271,15 +1274,15 @@ La documentation relative à une préparation doit contenir les informations sui
 - k. spécifications et prescriptions d’analyse du produit fini, en particulier identification, pureté, teneur, analyses générales et analyses galéniques;
 - l. justification des spécifications du produit fini.
 
-Annexe 2*[^t-1]*
+Annexe 2*[^t-2]*
 
 (art. 45, al. 2)
 
-## Indications et médicaments visés à l’art. 45, al. 1, let. a****
+## Indications et médicaments visés à l’art. 45, al. 1, let. a
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)).
 [^annex2-lvlu1-1]: Ce texte n’est publié ni au RO ni au RS (art. 5 LPubl; [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). ll peut être consulté sur le site Internet de l’OFSP sous: www.bag.admin.ch. La version du 1<sup>er</sup> avril 2020 est applicable.
 
 Annexe 3
