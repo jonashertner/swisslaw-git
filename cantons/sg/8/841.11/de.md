@@ -4,13 +4,13 @@ number: "841.11"
 title: Verordnung über das öffentliche Beschaffungswesen
 short: VöB
 language: de
-version: 2010-03-23
-valid_until: 2021-01-31
-version_adopted: 2010-03-23
+version: 2021-02-01
+valid_until: 2023-05-31
+version_adopted: 2021-01-26
 adopted: 2023-04-25
 in_force: 2023-06-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/841.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1039/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3105/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1039/pdf_file"
 
 (VöB)
 
-vom 21.04.1998 (Stand 23.03.2010)
+vom 21.04.1998 (Stand 01.02.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -192,7 +192,7 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bei Aufträgen, die keinen internationalen Vereinbarungen[^14-1] unterstehen, richtet sich die Wahl des Verfahrens nach dem Anhang zu dieser Verordnung.
 
-<sup>2</sup> Bei Aufträgen, die internationalen Vereinbarungen[^14-2] unterstehen, richtet sich die Wahl des Verfahrens nach den im kantonalen Amtsblatt[^14-3] veröffentlichten Beträgen. Das Baudepartement veröffentlicht die Beträge jährlich.
+<sup>2</sup> Bei Aufträgen, die internationalen Vereinbarungen[^14-2] unterstehen, richtet sich die Wahl des Verfahrens nach den im kantonalen Amtsblatt[^14-3] veröffentlichten Beträgen. Das Finanzdepartement veröffentlicht die Beträge jährlich.
 
 [^14-1]: Übereinkommen über das öffentliche Beschaffungswesen vom 8. Dezember 1994, SR [0.632.231.422](https://db.clex.ch/link/Bund/0.632.231.422/de); Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens vom 21. Juni 1999, SR [0.172.052.68](https://db.clex.ch/link/Bund/0.172.052.68/de).
 [^14-2]: Übereinkommen über das öffentliche Beschaffungswesen vom 8. Dezember 1994, SR [0.632.231.422](https://db.clex.ch/link/Bund/0.632.231.422/de); Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über bestimmte Aspekte des öffentlichen Beschaffungswesens vom 21. Juni 1999, SR [0.172.052.68](https://db.clex.ch/link/Bund/0.172.052.68/de).
@@ -613,7 +613,7 @@ als Verordnung:[^ingress-2]
 
 **Richtlinien**
 
-<sup>1</sup> Das Baudepartement und die Staatskanzlei erlassen gemeinsam Richtlinien über:
+<sup>1</sup> Das Finanzdepartement erlässt Richtlinien über:
 
 - a) die Ausschreibung des Auftrags und die Veröffentlichung des Zuschlags im Internet;[^44ter-1]
 - a<sup>bis</sup>) die Veröffentlichung der Nettopreise nach Art. 30 Abs. 4 dieses Erlasses;
