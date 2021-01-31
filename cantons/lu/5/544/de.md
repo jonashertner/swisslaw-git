@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2020-09-01
-valid_until: 2021-01-31
-version_adopted: 2020-08-25
+version: 2021-02-01
+valid_until: 2021-07-31
+version_adopted: 2021-01-22
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/3630/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3713/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3630/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.09.2020)
+vom 03.03.2015 (Stand 01.02.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -96,6 +96,8 @@ beschliesst:
   - 2\. Den übrigen Studierenden der Primar- oder der Sekundarstufe wird nebst der allgemeinen Studiengebühr eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
 
 <sup>3<sup>bis</sup></sup> Bei Abbruch des Studiums oder des Vorbereitungskurses bis vier Wochen nach Semesterbeginn wird maximal die Hälfte der regulären Schul- und Studiengelder erhoben.
+
+<sup>3<sup>ter</sup></sup> Die Gebühren für Angebote zur Kompensation des obligatorischen Sprachaufenthaltes betragen maximal 450 Franken pro Woche und werden von der Prorektorin oder vom Prorektor Ausbildung festgelegt.
 
 <sup>4</sup> Von den Hörerinnen und Hörern wird pro Semesterwochenstunde eine Gebühr von 150 Franken erhoben.
 
