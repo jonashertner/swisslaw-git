@@ -4,7 +4,7 @@ number: "172.31.1"
 title: "RÈGLEMENT du 09.12.2002 d'application de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud (RLPers-VD)"
 short: RLPers-VD
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31.1?id=6859cebf-d400-4969-b36d-0e936886b34c"
 ---
 
@@ -20,11 +20,12 @@ LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
 vu la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud [^ingress-1]
 
-vu le préavis du Département des finances
+vu le préavis du Département des finances[^ingress-2]
 
 arrête
 
 [^ingress-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
+[^ingress-2]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre I Généralités
 
@@ -68,8 +69,8 @@ arrête
 
 <sup>2</sup> Les aspects non traités par l'alinéa premier ou le présent règlement font l'objet d'une directive du Conseil d'Etat.
 
-[^3-1]: Loi fédérale du 30.03.1911 complétant le code civil suisse (RS 220)
-[^3-2]: Loi du 09.06.2009 sur la formation professionnelle ( [BLV 413.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01?id=51e5078b-b43f-456f-96f1-668d540f65b6))
+[^3-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
+[^3-2]: Loi du 09.06.2009 sur la formation professionnelle ([BLV 413.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/413.01?id=51e5078b-b43f-456f-96f1-668d540f65b6))
 [^3-3]: Loi fédérale du 13.12.2002 sur la formation professionnelle (RS 412.10)
 
 #### Art. 4
@@ -774,7 +775,11 @@ arrête
 
 <sup>1</sup> Sur présentation de l'acte de naissance ou d'une pièce officielle, le collaborateur a droit à un congé de paternité.
 
-<sup>2</sup> Pour autant que la bonne marche du service le permette, le congé peut être fractionné. Il doit être pris au plus tard dans le mois qui suit la naissance.
+<sup>2</sup> Le congé peut être pris en une fois, fractionné en blocs de plusieurs jours consécutifs ou en jours isolés.
+
+<sup>3</sup> Il doit être pris au plus tard dans les six mois qui suivent la naissance de l'enfant.
+
+<sup>4</sup> Le congé est également accordé au partenaire de même genre du parent légal de l'enfant, indépendamment qu'il s'agisse d'un homme ou d'une femme, lorsqu'il fait ménage commun avec lui et pourvoie aux soins de l'enfant.
 
 [^subsectionSoussectionIII-1]: Modif. 14 du 09.12.2020: Modification Al. 2; entrée en vigueur au 01.02.2021; Introduction Al. 3-4; entrée en vigueur au 01.02.2021
 
@@ -802,9 +807,9 @@ arrête
 
 <sup>2</sup> Le congé est accordé pour autant que le collaborateur l'ait sollicité au plus tard à réception de l'autorisation d'accueil.
 
-<sup>3</sup> Les dispositions relatives au temps de travail compensatoire du congé de maternité s'appliquent, si la condition prévue à l'alinéa 2, lettre a, n'est pas remplie.
+<sup>3</sup> ...
 
-[^subsectionSoussectionV-1]: Modif. 3 du 29.06.2005: Modification Al. 2; entrée en vigueur au 01.07.2005 · Modif. 14 du 09.12.2020: Introduction Art. 75, Al. 3-4; entrée en vigueur au 01.02.2021; Abrogation Al. 3; entrée en vigueur au 01.02.2021
+[^subsectionSoussectionV-1]: Modif. 3 du 29.06.2005: Modification Al. 2; entrée en vigueur au 01.07.2005 · Modif. 14 du 09.12.2020: Abrogation Al. 3; entrée en vigueur au 01.02.2021
 
 #### Art. 78
 
@@ -1208,17 +1213,18 @@ arrête
 
 <sup>1</sup> Il n'existe pas de droit au télétravail et le télétravail ne peut pas être imposé.
 
-<sup>2</sup> La délivrance et la révocation de l'autorisation de télétravail sont de la compétence de l'autorité d'engagement, dans le respect des directives du service en charge des ressources humaines.
+<sup>2</sup> La délivrance et la révocation de l'autorisation de télétravail sont de la compétence de l'autorité d'engagement, dans le respect des directives du service en charge des ressources humaines[^118b-1].
 
 <sup>3</sup> L'autorisation d'effectuer du télétravail de façon régulière est formalisée dans une convention qui fixe les modalités pratiques du télétravail et rappelle les devoirs du collaborateur, notamment en matière de sécurité et de protection des données.
 
 <sup>4</sup> Chaque partie peut en tout temps mettre fin au télétravail lorsque les conditions requises sur les plans personnel, professionnel ou organisationnel ne sont plus réunies ou se modifient. Sauf en cas de justes motifs ou d'accord contraire, le préavis est d'un mois.
 
 [^118a-1]: Modif. 12 du 04.07.2018: Introduction Art. 118b; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification Al. 2-4; entrée en vigueur au 01.01.2021
+[^118b-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 118c
 
-**Organisation et temps de travail [^118b-1]**
+**Organisation et temps de travail [^118b-2]**
 
 <sup>1</sup> Le télétravail peut être accompli du lundi au vendredi, entre 6h00 et 20h00.
 
@@ -1230,25 +1236,27 @@ arrête
 
 <sup>5</sup> La durée maximale du temps de télétravail effectif journalier est de 11h00.
 
-<sup>6</sup> Une directive du service en charge des ressources humaines définit les modalités de gestion du temps de travail.
+<sup>6</sup> Une directive du service en charge des ressources humaines[^118c-1] définit les modalités de gestion du temps de travail.
 
-[^118b-1]: Modif. 12 du 04.07.2018: Introduction Art. 118c; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1-4; entrée en vigueur au 01.01.2021; Introduction Al. 5-6; entrée en vigueur au 01.01.2021
+[^118b-2]: Modif. 12 du 04.07.2018: Introduction Art. 118c; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1-4; entrée en vigueur au 01.01.2021; Introduction Al. 5-6; entrée en vigueur au 01.01.2021
+[^118c-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 118d
 
-**Place de télétravail et matériel [^118c-1]**
+**Place de télétravail et matériel [^118c-2]**
 
 <sup>1</sup> Le collaborateur met à disposition un espace de travail qui, par sa dimension et son aménagement, répond aux exigences de sécurité et d'ergonomie et lui permet de travailler de manière efficace.
 
 <sup>2</sup> Le télétravail ne donne droit à aucune indemnité et à aucun remboursement de frais.
 
-<sup>3</sup> Une directive du service en charge des ressources humaines détermine les ressources techniques et le matériel mis à disposition par l'employeur.
+<sup>3</sup> Une directive du service en charge des ressources humaines[^118d-1] détermine les ressources techniques et le matériel mis à disposition par l'employeur.
 
-[^118c-1]: Modif. 12 du 04.07.2018: Introduction Art. 118d; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 3; entrée en vigueur au 01.01.2021
+[^118c-2]: Modif. 12 du 04.07.2018: Introduction Art. 118d; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1; entrée en vigueur au 01.01.2021; Introduction Al. 3; entrée en vigueur au 01.01.2021
+[^118d-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 118e
 
-**Confidentialité, sécurité et protection des données [^118d-1]**
+**Confidentialité, sécurité et protection des données [^118d-2]**
 
 <sup>1</sup> Le collaborateur en télétravail accorde une attention particulière au respect du secret de fonction et à la confidentialité des données traitées.
 
@@ -1258,7 +1266,7 @@ arrête
 
 <sup>4</sup> Le télétravail depuis un lieu public est interdit.
 
-[^118d-1]: Modif. 12 du 04.07.2018: Introduction Art. 118e; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1-4; entrée en vigueur au 01.01.2021
+[^118d-2]: Modif. 12 du 04.07.2018: Introduction Art. 118e; entrée en vigueur au 01.08.2018 · Modif. 13 du 09.12.2020: Modification tArt; entrée en vigueur au 01.01.2021; Modification Al. 1-4; entrée en vigueur au 01.01.2021
 
 ### Section III Heures supplémentaires, heures de nuit et jours fériés
 
@@ -1589,7 +1597,7 @@ arrête
 <sup>5</sup> Une directive du Conseil d'Etat précise les autres conditions et modalités d'engagement du personnel auxiliaire.
 
 [^154-1]: Modif. 3 du 29.06.2005: Modification Al. 2; entrée en vigueur au 01.07.2005
-[^155-1]: Loi fédérale du 30.03.1911 complétant le code civil suisse (RS 220)
+[^155-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
 [^155-2]: Loi fédérale du 25.09.1952 sur les allocations pour perte de gain en cas de service et de maternité (RS 834.1)
 [^155-3]: Loi fédérale du 25.06.1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (RS 831.40)
 
@@ -1605,4 +1613,6 @@ arrête
 
 **Entrée en vigueur**
 
-<sup>1</sup> Le Département des finances est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2003, à l'exception des articles 39, alinéa 1 et 52, alinéa 1, dont l'entrée en vigueur sera fixée par le Conseil d'Etat ultérieurement.
+<sup>1</sup> Le Département des finances[^157-1] est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2003, à l'exception des articles 39, alinéa 1 et 52, alinéa 1, dont l'entrée en vigueur sera fixée par le Conseil d'Etat ultérieurement.
+
+[^157-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
