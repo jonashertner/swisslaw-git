@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 29. September 1995 über Leistungen in der obliga
 short: KLV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: de
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210201/de/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210201-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/de"
 
 (Krankenpflege-Leistungsverordnung, KLV)[^t-1]
 
-vom 29. September 1995 (Stand am 1. Januar 2021)
+vom 29. September 1995 (Stand am 1. Februar 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V des EDI vom 7. Okt. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1989,7 +1989,7 @@ Anhang 3[^t-5]
 
 ## Analysenliste
 
-[^t-5]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)[6487](https://fedlex.data.admin.ch/eli/oc/2011/899), [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607)[4393](https://fedlex.data.admin.ch/eli/oc/2014/724), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)).
+[^t-5]: In der AS nicht veröffentlicht. Die Liste kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Leistungen und Tarife &gt; Analysenliste (AL) ([AS 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)[6487](https://fedlex.data.admin.ch/eli/oc/2011/899), [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607)[4393](https://fedlex.data.admin.ch/eli/oc/2014/724), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033), [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)).
 
 Anhang 4[^t-6]
 

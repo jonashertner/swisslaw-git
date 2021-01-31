@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 29 settembre 1995 sulle prestazioni dell'assicuraz
 short: OPre
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: it
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210201/it/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210201-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/it"
 
 (Ordinanza sulle prestazioni, OPre)[^t-1]
 
-del 29 settembre 1995 (Stato 1° gennaio 2021)
+del 29 settembre 1995 (Stato 1° febbraio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dellʼO del DFI del 7 ott. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -943,10 +943,6 @@ L’assicurazione assume i costi delle cure dentarie attinenti alle malattie gra
   - 3\. leucemie,
   - 4\. sindromi mielodisplastiche (SMD),
   - 5\. diatesi emorragiche.
-  - 6\. sindrome pre-leucemica,
-  - 7\. granulocitopenia cronica,
-  - 8\. sindrome del «lazy-leucocyte»,
-  - 9\. diatesi emorragiche;
 
 - b.
 
@@ -1985,12 +1981,12 @@ Allegato 3[^t-5]
 
 ## Elenco delle analisi
 
-[^t-5]: Non pubblicato nella RU ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
+[^t-5]: Non pubblicato nella RU ([RU 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)n. II cpv. 3 6491, [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 1925](https://fedlex.data.admin.ch/eli/oc/2013/414)[5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)e [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)). L’elenco delle mod. può essere consultato all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco delle analisi (EA).
 
 Allegato 4[^t-6]
 
 (art. 29)
 
-## Elenco dei medicamenti con tariffa
+## Elenco dei medicamenti con tariffa (EMT)
 
-[^t-6]: Non pubblicato nella RU ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)). Lʼelenco può essere consultato al seguente indirizzo Internet: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Elenco dei mezzi e degli apparecchi (EMAp).
+[^t-6]: Non pubblicato nella RU ([RU 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Lʼelenco può essere consultata all’indirizzo: www.bag.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Prestazioni e tariffe &gt; Medicamenti &gt; Elenco dei medicamenti con tariffa (EMT)

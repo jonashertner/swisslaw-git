@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20210201-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20210101/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 septembre 1995 (Etat le 1<sup>er</sup> février 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -1987,7 +1987,7 @@ Annexe 3[^t-5]
 
 ## Liste des analyses
 
-[^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)[6487](https://fedlex.data.admin.ch/eli/oc/2011/899), [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607)[4393](https://fedlex.data.admin.ch/eli/oc/2014/724), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
+[^t-5]: Cette annexe n’est pas publiée au RO ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)[3173](https://fedlex.data.admin.ch/eli/oc/2009/401)[6083](https://fedlex.data.admin.ch/eli/oc/2009/744), [2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)[5837](https://fedlex.data.admin.ch/eli/oc/2010/831), [2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)[6487](https://fedlex.data.admin.ch/eli/oc/2011/899), [2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)[4347](https://fedlex.data.admin.ch/eli/oc/2012/511)[6587](https://fedlex.data.admin.ch/eli/oc/2012/795), [2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850), [2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)[3487](https://fedlex.data.admin.ch/eli/oc/2014/607)[4393](https://fedlex.data.admin.ch/eli/oc/2014/724), [2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)[5125](https://fedlex.data.admin.ch/eli/oc/2015/837), [2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)[4639](https://fedlex.data.admin.ch/eli/oc/2016/750), [2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)[7151](https://fedlex.data.admin.ch/eli/oc/2017/773), [2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)[5085](https://fedlex.data.admin.ch/eli/oc/2018/793), [2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)[1931](https://fedlex.data.admin.ch/eli/oc/2019/355), [2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)[629](https://fedlex.data.admin.ch/eli/oc/2020/121)[1409](https://fedlex.data.admin.ch/eli/oc/2020/277)[2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[4139](https://fedlex.data.admin.ch/eli/oc/2020/755)[6327](https://fedlex.data.admin.ch/eli/oc/2020/1033), [2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)). La liste peut être consultée sur le site de l’OFSP à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Prestations et Tarifs &gt; Liste des analyses (LA).
 
 Annexe 4[^t-6]
 
