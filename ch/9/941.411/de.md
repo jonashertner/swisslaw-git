@@ -4,11 +4,11 @@ title: Sprengstoffverordnung vom 27. November 2000 (SprstV)
 short: SprstV
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: de
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/de"
 
 (Sprengstoffverordnung, SprstV)
 
-vom 27. November 2000 (Stand am 28. Januar 2021)
+vom 27. November 2000 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -496,7 +496,7 @@ Auf der kleinsten für den Verkauf bestimmten Verpackungseinheit (Einzel- oder S
 - e. das Bruttogewicht und die Nettomenge an aktivem Explosivstoff;
 - f. die entsprechenden Angaben nach Anhang 2;
 - g. bei pyrotechnischen Gegenständen zu gewerblichen Zwecken: der Verwendungszweck und das vom Hersteller festgelegte Verfalldatum;
-- h. bei Feuerwerkskörpern der Kategorien F1–F3: die von ZSP zugewiesene CH‑Identifikationsnummer.
+- h. bei Feuerwerkskörpern der Kategorien F1–F3: die von ZSP zugewiesene CH-Identifikationsnummer.
 
 <sup>3</sup> Die Angaben müssen in übersichtlicher Form in den drei Amtssprachen aufgeführt werden.
 
@@ -2001,9 +2001,18 @@ Bewilligungen für die Herstellung und die Einfuhr von pyrotechnischen Gegenstä
 
 <sup>2</sup> Vor dem 3. Juli 2017 erteilte Herstellungs- und Einfuhrbewilligungen bleiben bis zum Ablauf ihrer Gültigkeit gültig.
 
-<sup>3</sup> Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung nach den Absätzen 1 und 2 erteilt wurde, dürfen bis zum 31. Januar 2021 auf dem Markt bereitgestellt werden.
+<sup>3</sup> ...[^119d-2]
 
 [^119d-1]: Eingefügt durch Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^119d-2]: Aufgehoben durch Ziff. I der V vom 18. Nov. 2020, mit Wirkung seit 1. Febr. 2021 ([AS 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
+
+#### Art. 119e
+
+**Übergangsbestimmung zur Änderung vom 18. November 2020**[^119e-1]
+
+Pyrotechnische Gegenstände, für die eine Herstellungs- oder Einfuhrbewilligung nach Artikel 119*d* Absätze 1 und 2 erteilt wurde, dürfen bis zum 31. Januar 2023 auf dem Markt bereitgestellt werden.
+
+[^119e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 1. Febr. 2021 ([AS 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
 
 #### Art. 120
 
@@ -2185,7 +2194,7 @@ Legende:
 - S = Sprengmittellager oder -magazin
 - h = Wallhöhe, mindestens Höhe Sprengmittellager oder -magazin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image1.png)
 
 Anhang 6
 
@@ -2193,7 +2202,7 @@ Anhang 6
 
 ## Unterirdisches Sprengmittellager oder -magazin in trockenem und standfestem Fels
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image2.png)
 
 (Tabelle siehe folgende Seite)
 
@@ -2220,7 +2229,7 @@ Anhang 7
 
 ## Mindestabstände zwischen Lager- oder Magazingebäuden
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image3.png)
 
 rK = 0,7·L<sup>(1/3)</sup>
 
@@ -2232,7 +2241,7 @@ Anhang 8.1*[^t-4]*
 
 [^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image4.png)
 
 Decke und Aussenwände, Boden und Armierung
 
@@ -2252,7 +2261,7 @@ Schutzkappe: Stahlblech 5 mm: gelocht X 10 mm
 
 Schutzgitter: Stahldraht X 2 mm: Maschenweite 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image5.png)
 
 Anhang 9.1
 
@@ -2260,7 +2269,7 @@ Anhang 9.1
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image6.png)
 
 Anhang 9.2
 
@@ -2268,9 +2277,9 @@ Anhang 9.2
 
 ## Lager- oder Magazingebäude über Tag
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image8.png)
 
 Anhang 10.1*[^t-5]*
 
@@ -2280,7 +2289,7 @@ Anhang 10.1*[^t-5]*
 
 [^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2015, in Kraft seit 20. April 2016 ([AS 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image9.png)
 
 A = Zündmittel
 
@@ -2322,7 +2331,7 @@ Anhang 11.1
 
 ## Sprengmittelbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image13.png)
 
 Legende:
 
@@ -2338,7 +2347,7 @@ Anhang 11.2
 
 ## Transportbehälter
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image14.png)
 
 Legende:
 
@@ -2391,7 +2400,7 @@ Die Bestimmungen dieses Anhangs gelten nicht für:
 - a. einen von blossem Auge lesbaren Teil mit dem Namen des Herstellers und einem alphanumerischen Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland, 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt), einem eindeutigen Produktecode und logistischen Informationen des Herstellers;
 - b. eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht nach dem folgenden Beispiel:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/de/xml/image/image15.png)
 
 <sup>5</sup> Sind die Artikel zu klein für eine vollständige eindeutige Kennzeichnung nach Absatz 4, so genügen der alphanumerische Code mit den Buchstaben CH zur Kennzeichnung der Schweiz als Herstellungs- oder Einfuhrland und 3 Ziffern zur Bezeichnung des Herstellungsstandorts (wird von der ZSP zugeteilt) sowie eine elektronisch lesbare Kennzeichnung durch Strichcode oder Matrixcode, die sich unmittelbar auf den alphanumerischen Code bezieht.
 
@@ -2520,25 +2529,24 @@ Für die korrekte Auslegung der Ausdrücke, die in den Richtlinien 2014/28/EU[^a
 
 <table>
 <tr><th>EU</th><th>Schweiz</th></tr>
-<tr><th>Union</th><th>Suisse</th></tr>
-<tr><th>marché de l’Union</th><th>marché suisse</th></tr>
-<tr><th>EU</th><th>Schweiz</th></tr>
-<tr><th>personne établie dans l’Union</th><th>personne établie en Suisse</th></tr>
-<tr><th>état membre</th><th>Suisse</th></tr>
-<tr><th>Journal officiel de l’Union européenne</th><th>Feuille fédérale</th></tr>
-<tr><th>déclaration UE de conformité</th><th>déclaration de conformité</th></tr>
-<tr><th>article pyrotechnique</th><th>engin pyrotechnique</th></tr>
-<tr><th>examen UE de type</th><th>examen de type</th></tr>
-<tr><th>attestation d’examen UE de type</th><th>attestation d’examen de type</th></tr>
-<tr><th>artifices de divertissement</th><th>pièces d’artifice</th></tr>
-<tr><th>théâtre et scène</th><th>théâtre</th></tr>
-<tr><th>caisse</th><th>conteneur</th></tr>
-<tr><th>mèches lentes</th><th>mèches d’allumage de sûreté</th></tr>
-<tr><th>détonateurs électriques, non électriques, électroniques</th><th>amorces électriques, non électriques, électroniques</th></tr>
-<tr><th>boîtiers et tambours</th><th>récipients</th></tr>
-<tr><th>cartouches amorces et charges relais</th><th>primer et booster</th></tr>
-<tr><th>production sur site</th><th>production dans des mélangeurs sur le lieu d’utilisation</th></tr>
-<tr><th>producteur</th><th>fabricant</th></tr>
+<tr><td>Union</td><td>Suisse</td></tr>
+<tr><td>marché de l’Union</td><td>marché suisse</td></tr>
+<tr><td>personne établie dans l’Union</td><td>personne établie en Suisse</td></tr>
+<tr><td>état membre</td><td>Suisse</td></tr>
+<tr><td>Journal officiel de l’Union européenne</td><td>Feuille fédérale</td></tr>
+<tr><td>déclaration UE de conformité</td><td>déclaration de conformité</td></tr>
+<tr><td>article pyrotechnique</td><td>engin pyrotechnique</td></tr>
+<tr><td>examen UE de type</td><td>examen de type</td></tr>
+<tr><td>attestation d’examen UE de type</td><td>attestation d’examen de type</td></tr>
+<tr><td>artifices de divertissement</td><td>pièces d’artifice</td></tr>
+<tr><td>théâtre et scène</td><td>théâtre</td></tr>
+<tr><td>caisse</td><td>conteneur</td></tr>
+<tr><td>mèches lentes</td><td>mèches d’allumage de sûreté</td></tr>
+<tr><td>détonateurs électriques, non électriques, électroniques</td><td>amorces électriques, non électriques, électroniques</td></tr>
+<tr><td>boîtiers et tambours</td><td>récipients</td></tr>
+<tr><td>cartouches amorces et charges relais</td><td>primer et booster</td></tr>
+<tr><td>production sur site</td><td>production dans des mélangeurs sur le lieu d’utilisation</td></tr>
+<tr><td>producteur</td><td>fabricant</td></tr>
 </table>
 
 ### 3. Italienische Ausdrücke

@@ -4,11 +4,11 @@ title: Ordonnance sur les explosifs du 27 novembre 2000 (OExpl)
 short: OExpl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: fr
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/fr"
 
 (Ordonnance sur les explosifs, OExpl)
 
-du 27 novembre 2000 (Etat le 28 janvier 2021)
+du 27 novembre 2000 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -508,7 +508,7 @@ Sur la plus petite unité d’emballage destinée à la vente (emballage par pi�
 
 ## Titre 3 Commerce, permis d’acquisition et d’emploi
 
-### Chapitre 1 Production et importation****
+### Chapitre 1 Production et importation
 
 [^tit3-chap1-1]
 
@@ -780,7 +780,7 @@ Les indications fournies dans les demandes sont couvertes par le secret de fonct
 
 <sup>3</sup> Ils peuvent être achetés au fur et à mesure.
 
-### Chapitre 5 Permis d’emploi****
+### Chapitre 5 Permis d’emploi
 
 [^tit3-chap5-1]
 
@@ -1652,7 +1652,7 @@ Le chef mineur doit donner les signaux suivants:
 
 Les matières explosives et les engins pyrotechniques qui ne pourront pas être détruits selon l’art. 108 devront être éliminés par leur propriétaire selon les règles de la protection de l’environnement ou restitués dans ce but au fabricant.
 
-## Titre 9 Registres, surveillance, émoluments et coopération technique et scientifique****
+## Titre 9 Registres, surveillance, émoluments et coopération technique et scientifique
 
 [^tit9-1]
 
@@ -1784,7 +1784,7 @@ Aux émoluments s’ajoutent les frais suivants:
 - b. frais de voyage et de transport;
 - c. frais découlant de travaux confiés à des tiers par les autorités compétentes.
 
-### Chapitre 4 Coopération technique et scientifique****
+### Chapitre 4 Coopération technique et scientifique
 
 [^tit9-chap4-1]
 
@@ -1799,7 +1799,7 @@ L’OCEP peut coopérer avec des services techniques et scientifiques, en partic
 [^117-1]: Nouvelle teneur selon le ch. 3 de l’app. 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 [^117-2]: Nouvelle expression selon le ch. I de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)). Il a été tenu compte de cette mod. dans tout le texte.
 
-## Titre 9*a***** Fichier électronique BARBARA
+## Titre 9*a* Fichier électronique BARBARA
 
 [^tit9a-1]
 
@@ -2004,9 +2004,18 @@ Une autorisation de fabrication ou d’importation peut être octroyée jusqu’
 
 <sup>2</sup> Les autorisations de fabrication ou d’importation octroyées avant le 3 juillet 2017 demeurent valables jusqu’à l’échéance de leur validité.
 
-<sup>3</sup> Les engins pyrotechniques dont la fabrication ou l’importation a été autorisée conformément aux al. 1 et 2 peuvent être mis à disposition sur le marché jusqu’au 31 janvier 2021 au plus tard.
+<sup>3</sup> ...[^119d-2]
 
 [^119d-1]: Introduit par le ch. I de l’O du 12 avr. 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^119d-2]: Abrogé par le ch. I de l’O du 18 nov. 2020, avec effet au 1<sup>er</sup> fév. 2021 ([RO 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
+
+#### Art. 119e
+
+**Disposition transitoire relative à la modification du 18 novembre 2020**[^119e-1]
+
+Les engins pyrotechniques dont la fabrication ou l’importation a été autorisée conformément à l’art. 119*d*, al. 1 et 2, peuvent être mis à disposition sur le marché jusqu’au 31 janvier 2023 au plus tard.
+
+[^119e-1]: Introduit par le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
 
 #### Art. 120
 
@@ -2022,7 +2031,7 @@ L’ordonnance du 26 mars 1980 sur les explosifs[^120-1] est abrogée.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> février 2001.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 6 et 7)
 
@@ -2074,7 +2083,7 @@ Remarque
 
 Sont notamment réputés initiateurs d’allumage: les différents types de mèches ainsi que les allumeurs électriques et mécaniques. Ces moyens ne sont toutefois pas des engins pyrotechniques au sens de la LExpl.
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 26, al. 2)
 
@@ -2115,7 +2124,7 @@ Annexe 3
 
 2.3. doivent être déclenchées par une impulsion d’allumage de 2500 mWs/Ohm (décharge d’un condensateur de 270 µF, papier métallisé ou similaire, chargé à 190 V sur l’amorce testée, pourvue d’une prérésistance et totalisant ensemble 2,0 Ohm).
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 45, al. 1 et 47, al. 2)
 
@@ -2193,7 +2202,7 @@ S = Entrepôt ou magasin de matières explosives
 
 h = Hauteur du remblai au moins égale à celle de l’entrepôt ou du magasin
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image1.png)
 
 Annexe 6
 
@@ -2201,7 +2210,7 @@ Annexe 6
 
 ## Entrepôt au magasin souterrain de matières explosives dans une roche sèche et solide
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image2.png)
 
 <table>
 <tr><td>Quantité d’explosif en kg et par caverne</td><td colspan="2">L = longueur de l’accès en m</td><td>Recouvrement</td></tr>
@@ -2226,11 +2235,11 @@ Annexe 7
 
 ## Distances minimales entre les entrepôts ou magasins
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image3.png)
 
 rK=0,7·L<sup>(1/3)</sup>
 
-Annexe 8.1*[^t-4]*
+Annexe 8.1[^t-4]
 
 (art. 75, al. 4)
 
@@ -2238,7 +2247,7 @@ Annexe 8.1*[^t-4]*
 
 [^t-4]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image4.png)
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
 - Sol: Béton selon SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2256,7 +2265,7 @@ Capot de protection: tôle d’acier 5 mm: perforée Ø 10 mm
 
 Grille de protection: fil d’acier Ø 2 mm: largeur des mailles 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image5.png)
 
 Annexe 9.1
 
@@ -2264,7 +2273,7 @@ Annexe 9.1
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image6.png)
 
 Annexe 9.2
 
@@ -2272,11 +2281,11 @@ Annexe 9.2
 
 ## Entrepôt ou magasin à ciel ouvert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image8.png)
 
-Annexe 10.1*[^t-5]*
+Annexe 10.1[^t-5]
 
 (art. 83, al. 1)
 
@@ -2284,7 +2293,7 @@ Annexe 10.1*[^t-5]*
 
 [^t-5]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image9.png)
 
 A = moyens d’allumage
 
@@ -2298,7 +2307,7 @@ Largeur de maille max. 10 cm (filet également)
 
 À ciel ouvert, recouverte de terre ou placée dans une niche de rocher
 
-Annexe 10.2*[^t-6]*
+Annexe 10.2[^t-6]
 
 (art. 83, al. 2)
 
@@ -2307,7 +2316,7 @@ Annexe 10.2*[^t-6]*
 [^t-6]: Mise à jour par le ch. II al. 1 de l’O du 25 nov. 2015, en vigueur depuis le 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
 <table>
-<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
+<tr><td>[tab] a. Recouverte de terre ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image10.png) Coupe Ancrage dans une base solide</td><td>[tab] b. Placée dans une niche de rocher ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image11.png) Coupe Cavités maçonnées ou létonnées</td></tr>
 </table>
 
 - Plafond et parois extérieures: Béton selon SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norme SIA 262)
@@ -2322,7 +2331,7 @@ Annexe 11.1
 
 ## Récipient à matières explosives
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image12.png)
 
 Légende:
 
@@ -2338,7 +2347,7 @@ Annexe 11.2
 
 ## Récipient mobile
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image13.png)
 
 Légende:
 
@@ -2356,11 +2365,11 @@ F = Bandoulière
 
 G = Explosifs
 
-Annexe 12.1 à 13*[^t-7]*
+Annexe 12.1 à 13[^t-7]
 
 [^t-7]: Abrogées par le ch. II al. 2 de l’O du 25 nov. 2015, avec effet au 20 avr. 2016 ([RO 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-Annexe 14*[^t-8]*
+Annexe 14[^t-8]
 
 (art. 8, al. 1, let. a<sup>bis</sup>, 20, al. 3, 21, al. 1, 23, al. 4, et 110, al. 2, let. c, et 2<sup>bis</sup>)
 
@@ -2391,7 +2400,7 @@ Les dispositions de la présente annexe ne s’appliquent pas:
 - a. une partie lisible à l’œil nu contenant le nom du fabricant et un code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation, trois chiffres identifiant le nom du site de production (attribué par l’OCEP), le code produit unique et les informations logistiques conçues par le fabricant;
 - b. un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique selon l’exemple ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/fr/xml/image/image14.png)
 
 <sup>5</sup> Lorsqu’il n’est pas possible d’apposer l’identification unique complète décrite à l’al. 4 sur un article car celui-ci est trop petit, le code alphanumérique comportant les lettres CH pour identifier le territoire suisse comme lieu de production ou d’importation et trois chiffres identifiant le nom du site de production (attribué par l’OCEP), ainsi qu’un numéro d’identification lisible par voie électronique en code barre ou en code matrice se rapportant directement au code d’identification alphanumérique, suffisent.
 
@@ -2481,7 +2490,7 @@ Les entreprises peuvent joindre des copies adhésives détachables de l’étiqu
 
 <sup>7</sup> Elles fournissent aux autorités fédérales responsables les coordonnées d’une personne susceptible de fournir des données visée à l’al. 6 en dehors des heures d’ouverture normales des entreprises.
 
-Annexe 15*[^t-9]*
+Annexe 15[^t-9]
 
 (art. 1*a*, al. 2)
 
@@ -2559,7 +2568,7 @@ Pour interpréter correctement les directives 2014/28/UE[^annex15-lvlu1-1], 2013
 <tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
 </table>
 
-Annexe 16*[^t-10]*
+Annexe 16[^t-10]
 
 (art. 119*a*, al. 5)
 
@@ -2585,7 +2594,7 @@ Les engins pyrotechniques sont homologués:
 
 Un émolument de 50 à 3000 francs est perçu pour l’homologation.
 
-Annexe 17*[^t-11]*
+Annexe 17[^t-11]
 
 (art. 117*e*)
 

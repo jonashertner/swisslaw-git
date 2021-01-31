@@ -4,11 +4,11 @@ title: Ordinanza del 27 novembre 2000 sugli esplosivi (OEspl)
 short: OEspl
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/78"
 language: it
-version: 2021-01-28
+version: 2021-02-01
 adopted: 2000-11-27
 in_force: 2001-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2001-78-20210201-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210201/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2001/78/20210128/it"
 
 (OEspl)
 
-del 27 novembre 2000 (Stato 28 gennaio 2021)
+del 27 novembre 2000 (Stato 1° febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -507,7 +507,7 @@ Su ogni unità elementare d’imballaggio destinata alla vendita (imballaggio si
 
 ## Titolo 3: Diritto di commercio
 
-### Capitolo 1: Fabbricazione e importazione****
+### Capitolo 1: Fabbricazione e importazione
 
 [^tit3-chap1-1]
 
@@ -779,13 +779,13 @@ Le indicazioni fornite nelle domande sottostanno al segreto d’ufficio.
 
 <sup>3</sup> Possono essere ritirati in più volte.
 
-### Capitolo 5: Permesso d’uso****
+### Capitolo 5: Permesso d’uso
 
 [^tit3-chap5-1]
 
 [^tit3-chap5-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
-### Sezione 1: Abilitazioni al brillamento e all’utilizzazione****
+### Sezione 1: Abilitazioni al brillamento e all’utilizzazione
 
 [^tit3-chap5-sec1-1]
 
@@ -1051,7 +1051,7 @@ Vi regolano in particolare:
 
 [^65-1]: Nuovo testo giusta il n. I dell’O del 12 mag. 2010, in vigore dal 1° lug. 2010 ([RU 2010 2229](https://fedlex.data.admin.ch/eli/oc/2010/317)).
 
-### Sezione 4: Comitati di esperti****
+### Sezione 4: Comitati di esperti
 
 [^tit3-chap5-sec4-1]
 
@@ -1410,7 +1410,7 @@ Sui cantieri e su altri luoghi d’utilizzazione, le scorte non devono eccedere 
 
 I titolari di imprese commerciali e di negozi designano le persone responsabili di vigilare sul deposito, sulla spedizione e sulla vendita dei pezzi pirotecnici. Tali persone devono avere esperienza nella manipolazione degli esplosivi, conoscere le prescrizioni legali e, in caso di esplosione o d’incendio, essere in grado di prendere i necessari provvedimenti di sicurezza.
 
-## Titolo 7: Trasporto di esplosivi****
+## Titolo 7: Trasporto di esplosivi
 
 [^tit7-1]
 
@@ -1655,7 +1655,7 @@ Il capo minatore dà i seguenti segnali d’avvertimento:
 
 Gli esplosivi e i pezzi pirotecnici che non possono essere distrutti in base all’articolo 108 sono smaltiti dal proprietario in modo rispettoso dell’ambiente o riconsegnati a tale scopo al fabbricante.
 
-## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica****
+## Titolo 9: Registri, sorveglianza, tasse e collaborazione tecnico-scientifica
 
 [^tit9-1]
 
@@ -1786,7 +1786,7 @@ Alle tasse sono aggiunti gli esborsi relativi ai costi supplementari, segnatamen
 - b. le spese di viaggio e di trasporto;
 - c. i costi per i compiti che l’autorità competente fa eseguire a terzi.
 
-### Capitolo 4: Collaborazione tecnico-scientifica****
+### Capitolo 4: Collaborazione tecnico-scientifica
 
 [^tit9-chap4-1]
 
@@ -1800,7 +1800,7 @@ L’UCEP può collaborare con servizi tecnico-scientifici, in particolare con il
 
 [^117-1]: Nuovo testo giusta l’appendice 2 n. 3 dell’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
-## Titolo 9*a*:**** Banca dati BARBARA
+## Titolo 9*a*: Banca dati BARBARA
 
 [^tit9a-1]
 
@@ -2008,9 +2008,18 @@ Le autorizzazioni di fabbricazione o d’importazione possono essere rilasciate 
 
 <sup>2</sup> Le autorizzazioni di fabbricazione o d’importazione rilasciate prima del 3 luglio 2017 rimangono valide fino alla loro scadenza.
 
-<sup>3</sup> I pezzi pirotecnici la cui fabbricazione o importazione è stata autorizzata secondo i capoversi 1 e 2 possono essere messi a disposizione sul mercato al massimo fino al 31 gennaio 2021.
+<sup>3</sup> ...[^119d-2]
 
 [^119d-1]: Introdotto dal n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2627](https://fedlex.data.admin.ch/eli/oc/2017/251)).
+[^119d-2]: Abrogato dal n. I dell’O del 18 nov. 2020, con effetto dal 1° feb. 2021 ([RU 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
+
+#### Art. 119e
+
+**Disposizione transitoria della modifica del 18 novembre 2020**[^119e-1]
+
+I pezzi pirotecnici la cui fabbricazione o importazione è stata autorizzata secondo l’articolo 119*d* capoversi 1 e 2 possono essere messi a disposizione sul mercato al massimo fino al 31 gennaio 2023.
+
+[^119e-1]: Introdotto dal n. I dell’O del 18 nov. 2020, in vigore dal 1° feb. 2021 ([RU 2020 5763](https://fedlex.data.admin.ch/eli/oc/2020/968)).
 
 #### Art. 120
 
@@ -2026,7 +2035,7 @@ L’ordinanza sugli esplosivi del 26 marzo 1980[^120-1] è abrogata.
 
 La presente ordinanza entra in vigore il 1° febbraio 2001.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 6 e 7)
 
@@ -2078,7 +2087,7 @@ Nota
 
 Per mezzi d’innesco s’intendono in particolare: i diversi tipi di micce, gli inneschi meccanici ed elettrici. Non si tratta tuttavia di pezzi pirotecnici ai sensi della LEspl.
 
-Allegato 2*[^t-2]*
+Allegato 2[^t-2]
 
 (art. 26 cpv. 2)
 
@@ -2119,7 +2128,7 @@ Allegato 3
 
 2.3. devono innescare se soggetti a un impulso d’innesco di 2500 mWs/ohm. (Scarica su condensatore di 270 µF caricato a 190 V, a carta metallizzata o equivalente, attraverso il detonatore sotto prova e una resistenza in serie di 2,0 ohm in totale).
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 (art. 45 cpv. 1 e 47 cpv. 2)
 
@@ -2198,7 +2207,7 @@ S = Deposito o magazzino di esplosivi
 
 h = Altezza del terrapieno, almeno pari all’altezza del deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image1.png)
 
 Allegato 6
 
@@ -2206,7 +2215,7 @@ Allegato 6
 
 ## Deposito o magazzino di esplosivi sotterraneo in roccia asciutta e compatta
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image2.png)
 
 <table>
 <tr><td>Quantità di materie esplosive in kg e per caverna Quantità depositata (M)</td><td colspan="2">L = Lunghezza dell’accesso in m</td><td>Copertura R in m</td></tr>
@@ -2232,7 +2241,7 @@ Allegato 7
 
 ## Distanze minime fra gli edifici adibiti a deposito o magazzino
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image3.png)
 
 L = Quantità depositata in chilogrammi
 
@@ -2240,7 +2249,7 @@ rK = Raggio del cratere in metri
 
 rK = 0,7·L<sup>(1/3)</sup>
 
-Allegato 8.1*[^t-4]*
+Allegato 8.1[^t-4]
 
 (art. 75 cpv. 4)
 
@@ -2248,7 +2257,7 @@ Allegato 8.1*[^t-4]*
 
 [^t-4]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image4.png)
 
 - Soletta e pareti esterne: calcestruzzo secondo SN EN 206-1, C25/30, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
 - Pavimento: calcestruzzo secondo SN EN 206-1, C20/25, XC4 (CH), XF1 (CH), CI 0.20 (norma SIA 262)
@@ -2268,7 +2277,7 @@ Lastra di protezione: lamiera d’acciaio 5 mm: perforata Ø 10 mm
 
 Griglia di protezione: filo d’acciaio Ø 2 mm: larghezza di maglia 10 mm
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image5.png)
 
 Allegato 9.1
 
@@ -2276,7 +2285,7 @@ Allegato 9.1
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image6.png)
 
 Allegato 9.2
 
@@ -2284,11 +2293,11 @@ Allegato 9.2
 
 ## Depositi o magazzini di esplosivi in superficie
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image7.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image8.png)
 
-Allegato 10.1*[^t-5]*
+Allegato 10.1[^t-5]
 
 (art. 83 cpv. 1)
 
@@ -2296,7 +2305,7 @@ Allegato 10.1*[^t-5]*
 
 [^t-5]: Aggiornato dal n. II cpv. 1 dell’O del 25 nov. 2015, in vigore dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image9.png)
 
 A = mezzi d’innesco
 
@@ -2310,7 +2319,7 @@ larghezza maglia massimo 10 cm (anche rete)
 
 In superficie ricoperto di terra oppure in roccia compatta
 
-Allegato 10.2*[^t-6]*
+Allegato 10.2[^t-6]
 
 (art. 83 cpv. 2)
 
@@ -2334,7 +2343,7 @@ Allegato 11.1
 
 ## Contenitori per esplosivi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image12.png)
 
 Legenda:
 
@@ -2350,7 +2359,7 @@ Allegato 11.2
 
 ## Contenitori per il trasporto
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image13.png)
 
 Legenda:
 
@@ -2368,11 +2377,11 @@ F = bretella per trasporto
 
 G = materia esplosiva
 
-Allegati 12.1-13*[^t-7]*
+Allegati 12.1-13[^t-7]
 
 [^t-7]: Abrogati dal n. II cpv. 2 dell’O del 25 nov. 2015, con effetto dal 20 apr. 2016 ([RU 2016 247](https://fedlex.data.admin.ch/eli/oc/2016/31)).
 
-Allegato 14*[^t-8]*
+Allegato 14[^t-8]
 
 (art. 8 cpv. 1 lett. a<sup>bis</sup>, 20 cpv. 3, 21 cpv. 1, 23 cpv. 4 e 110 cpv. 2 lett. c e 2<sup>bis</sup>)
 
@@ -2403,7 +2412,7 @@ Le disposizioni del presente allegato non si applicano:
 - a. una parte leggibile a occhio nudo contenente il nome del fabbricante, un codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione, di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP), del codice univoco del prodotto e delle informazioni logistiche indicate dal fabbricante;
 - b. un numero d’identificazione a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico secondo l’esempio qui riportato:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210128/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/78/20210201/it/xml/image/image14.png)
 
 <sup>5</sup> Qualora le dimensioni troppo ridotte degli articoli non consentano di contrassegnarli con l’identificazione univoca completa ai sensi del capoverso 4, sono sufficienti il codice alfanumerico composto delle lettere CH che indicano il territorio svizzero come luogo di produzione o d’importazione e di tre cifre che indicano il sito di fabbricazione (assegnate dall’UCEP) nonché un identificativo a lettura elettronica, sotto forma di codice a barre o di codice a matrice, direttamente collegato al codice d’identificazione alfanumerico.
 
@@ -2493,7 +2502,7 @@ Le imprese possono apporre sugli esplosivi, ad uso dei loro clienti, copie adesi
 
 <sup>7</sup> Esse forniscono alle autorità federali competenti il recapito di una persona in grado di comunicare le informazioni di cui al capoverso 6 al di fuori del normale orario di lavoro delle imprese.
 
-Allegato 15*[^t-9]*
+Allegato 15[^t-9]
 
 (art. 1*a* cpv. 2)
 
@@ -2571,7 +2580,7 @@ Per interpretare correttamente le direttive 2014/28/UE[^annex15-lvlu1-1], 2013/2
 <tr><td>produzione «in loco»</td><td>produzione in caricatori sul luogo d’utilizzazione</td></tr>
 </table>
 
-Allegato 16*[^t-10]*
+Allegato 16[^t-10]
 
 (art. 119*a* cpv. 5)
 
@@ -2597,7 +2606,7 @@ I pezzi pirotecnici sono ammessi, se:
 
 Per l’ammissione è riscossa una tassa di 50–3000 franchi.
 
-Allegato 17*[^t-11]*
+Allegato 17[^t-11]
 
 (art. 117*e*)
 
