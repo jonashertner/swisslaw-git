@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-01-01
+version: 2021-02-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210201-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210101/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Januar 2021)
+vom 16. Januar 2019 (Stand am 1. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -84,7 +84,7 @@ Anhang 1*[^t-1]*
 
 ## Bussenliste 1
 
-[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2020 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2125](https://fedlex.data.admin.ch/eli/oc/2020/419)).
 
 ### Übertretungen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958**** (SVG)
 
@@ -598,7 +598,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Ziff. II der V vom 16. April 2020 (Einschränkung der Ein- und Ausfuhr von Waren) ([AS 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)) und Art. 14 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020, in Kraft seit 22. Juni 2020 ([AS 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Ziff. II der V vom 16. April 2020 (Einschränkung der Ein- und Ausfuhr von Waren) ([AS 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), Art. 14 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 ([AS 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)) und Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021, Ziff. 16004 und 16005 bis zum 28. Febr. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -726,11 +726,14 @@ Anhang 2*[^t-2]*
 <tr><td>14001. Ausübung des Reisendengewerbes ohne Bewilligung (Art. 14 Abs. 1 Bst. b und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14002. Anbieten von Waren oder Dienstleistungen, deren Vertrieb im Reisendengewerbe gegen Einschränkungen oder Verbote verstösst (Art. 14 Abs. 1 Bst. e und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 200</td></tr>
 <tr><td>14003. Nichtmitführen der Bewilligung bei der Ausübung des Reisendengewerbes (Art. 14 Abs. 1 Bst. f und Abs. 2 des Bundesgesetzes über das Gewerbe der Reisenden)</td><td>[tab] 20</td></tr>
-<tr><td>XV. COVID-19-Verordnung 2 vom 13. März 2020**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
-<tr><td>15001. ...</td><td>[tab]</td></tr>
-<tr><td>15002. ...</td><td>[tab]</td></tr>
-<tr><td>15003. Verstösse gegen Einschränkungen des grenzüberscheitenden Personen- und Warenverkehrs an den Grenzübergängen (Art. 4 Abs. 4 sowie 10*f* Abs. 2 Bst. c COVID-19-Verordnung 2)</td><td>100</td></tr>
-<tr><td>15004. Verstösse gegen das Verbot von Einkaufstourismus (Art. 3*a* sowie 10*f* Abs. 2 Bst. d COVID-Verordnung 2)</td><td>100</td></tr>
+<tr><td>XV. ...</td><td></td></tr>
+<tr><td>XVI. Covid-19-Verordnung besondere Lage vom 19. Juni 2020**[^annex2-lvlu1-lvlu1-25]**</td><td></td></tr>
+<tr><td>16001. Durchführung einer unzulässigen privaten Veranstaltung (Art. 13 Bst. d i.V.m. Art. 6 Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 200</td></tr>
+<tr><td>16002. Teilnahme an einer unzulässigen Veranstaltung (Art. 13 Bst. d i.V.m. Art. 6 Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16003. Unbefugtes Nichttragen einer Gesichtsmaske in Fahrzeugen des öffentlichen Verkehrs, in öffentlich zugänglichen Innenräumen und Aussenbereichen von Einrichtungen und Betrieben, einschliesslich Märkten, in Wartebereichen von Bahn, Bus, Tram und Seilbahnen oder in Bahnhöfen, Flughäfen oder anderen Zugangsbereichen des öffentlichen Verkehrs (Art. 13 Bst. f i.V.m. Art. 3*a* Abs. 1 und 3*b* Abs. 1 und 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16004. Sich-Aufhalten in einer Menschenansammlung im öffentlichen Raum, die mehr als 5 Personen oder mehr als die kantonal festgelegte Höchstzahl an Personen umfasst (Art. 13 Bst. g i.V.m. Art. 3*c* Abs. 1 sowie Art. 8 Abs. 1 Covid-Verordnung besondere Lage)</td><td>[tab] 50</td></tr>
+<tr><td>16005. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben für Hotelgäste (Art. 13 Bst. h i.V.m. Art. 5*a* Abs. 2 Bst. d Ziff. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>16006. Unbefugtes Nichttragen einer Gesichtsmaske an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung (Art. 13 Bst. i i.V.m. Art. 6*c* Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -757,7 +760,7 @@ Anhang 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-22]: [SR 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvlu1-25]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 Anhang 3
 

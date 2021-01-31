@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2021-01-01
+version: 2021-02-01
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210201-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210101/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 1<sup>er</sup> janvier 2021)
+du 16 janvier 2019 (Etat le 1<sup>er</sup> février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -593,7 +593,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)) et du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), par le ch. II de l’O du 16 avr. 2020 ([RO 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), par l’erratum du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)) et par l’art. 14 ch. 1 de l’O du 19 juin 2020 (Ordonnance COVID-19 situation particulière), en vigueur depuis le 22 juin 2020 ([RO 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)) et du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), le ch. II de l’O du 16 avr. 2020 ([RO 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), l’erratum du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’art. 14 ch. 1 de l’O du 19 juin 2020 (Ordonnance COVID-19 situation particulière) ([RO 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)) et l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021, les ch. 16004 et 16005 jusqu’au 28 fév. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)) .
 
 ### Contraventions à d’autres actes normatifs
 
@@ -721,11 +721,14 @@ Annexe 2*[^t-2]*
 <tr><td>14001. Pratiquer le commerce itinérant sans autorisation (art. 14, al. 1, let. b, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14002. Offrir des marchandises ou des services en violation des interdictions ou restrictions prévues (art. 14, al. 1, let. e, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>200</td></tr>
 <tr><td>14003. Ne pas porter sur soi l’autorisation de pratiquer le commerce itinérant dans l’exercice de cette activité (art. 14, al. 1, let. f, et al. 2 de la loi fédérale sur le commerce itinérant)</td><td>20</td></tr>
-<tr><td>**XV.** **Ordonnance 2 COVID-19 du 13 mars 2020**[^annex2-lvlu1-lvlu1-25]</td><td></td></tr>
-<tr><td>15001. ...</td><td></td></tr>
-<tr><td>15002. ...</td><td></td></tr>
-<tr><td>15003. Infractions aux restrictions en matière de trafic transfrontalier des personnes et des marchandises aux postes frontières (art. 4, al. 4, et 10f, al. 2, let. c, de l’ordonnance 2 COVID-19).</td><td>100</td></tr>
-<tr><td>15004. Infractions à l’interdiction du tourisme d’achat (art. 3a et 10f, al. 2, let. d, de l’ordonnance 2 COVID-19)</td><td>100</td></tr>
+<tr><td>**XV.** **...**</td><td></td></tr>
+<tr><td>XVI. Ordonnance COVID-19 du 19 juin 2020 situation particulière**[^annex2-lvlu1-lvlu1-25]**</td><td>[tab]</td></tr>
+<tr><td>16001. Organisation d’une manifestation privée interdite (art. 13, let. d, en relation avec l’art. 6, al. 1 et 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 200</td></tr>
+<tr><td>16002. Participation à une manifestation interdite (art. 13, let. d, en relation avec l’art. 6, al. 1 et 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16003. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos et extérieurs accessibles au public des installations et des établissements, y compris les marchés, ainsi que dans les zones d’attente des gares, des arrêts de bus et de tram et des remontées mécaniques, dans les gares, les aéroports ou d’autres zones d’accès aux transports publics (art. 13, let. f, en relation avec les art. 3*a*, al. 1, et 3*b*, al. 1 et 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16004. Participation à un rassemblement dans l’espace public de plus de 5 personnes ou dépassant le nombre maximal de personnes fixé par le canton (art. 13, let. g, en relation avec les art. 3*c*, al. 1, et 8, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 50</td></tr>
+<tr><td>16005. Infractions à l’obligation de consommer assis dans un établissement de restauration ou un bar réservé aux clients d’un hôtel (art. 13, let. h, en relation avec l’art. 5*a*, al. 2, let. d, ch. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>16006. Infractions à l’obligation de porter un masque facial lors de la participation à une manifestation politique ou de la société civile ou à une récolte de signatures (art. 13, let. i, en relation avec l’art. 6*c*, al. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -752,7 +755,7 @@ Annexe 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-22]: [RS 923.0](https://fedlex.data.admin.ch/eli/cc/1991/2259_2259_2259)
 [^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
-[^annex2-lvlu1-lvlu1-25]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
+[^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
 
 Annexe 3
 
