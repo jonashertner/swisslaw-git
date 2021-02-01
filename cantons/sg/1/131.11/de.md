@@ -4,13 +4,13 @@ number: "131.11"
 title: Geschäftsreglement des Kantonsrates
 short: GeschKR
 language: de
-version: 2019-09-18
-corrected: 2019-10-03
-version_adopted: 2019-09-18
+version: 2020-06-01
+corrected: 2021-02-02
+version_adopted: 2020-05-20
 adopted: 1979-10-24
 in_force: 1980-05-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/131.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2794/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3107/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2794/pdf_file"
 
 (GeschKR)
 
-vom 24.10.1979 (Stand 18.09.2019)
+vom 24.10.1979 (Stand 01.06.2020)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -813,7 +813,7 @@ als Reglement:[^ingress-7]
 - a) dem Amtsgeheimnis[^59-1] unterstehende Gegenstände der Kommissionsberatungen;
 - b) die Urheber einzelner Meinungsäusserungen.
 
-[^59-1]: Art. [68](https://www.gesetzessammlung.sg.ch/data/140.1/de/art68) f. StVG, sGS [140.1](https://www.gesetzessammlung.sg.ch/data/140.1/de); Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
+[^59-1]: Art. 320 des Schweizerischen Strafgesetzbuches vom 21. Dezember 1937, SR [311.0](https://db.clex.ch/link/Bund/311.0/de).
 
 ### 3. Anträge und Berichte an den Kantonsrat
 
@@ -1783,31 +1783,37 @@ als Reglement:[^ingress-7]
 
 ### 1. Mitglieder des Kantonsrates
 
+#### Art. 149ter
+
+**Grundentschädigung**
+
+<sup>1</sup> Die Mitglieder des Kantonsrates erhalten eine Grundentschädigung je Jahr.
+
+<sup>2</sup> Bei unterjährigem Eintritt in den Rat oder unterjährigem Austritt aus dem Rat wird die Grundentschädigung anteilmässig ausgerichtet.
+
 #### Art. 150
 
 **Sitzungen**
 
-<sup>1</sup> Die Mitglieder des Kantonsrates erhalten für jede Sitzung des Kantonsrates und seiner Kommissionen, an der sie teilnehmen, ein Taggeld.
+<sup>1</sup> Die Mitglieder des Kantonsrates erhalten für jede Sitzung des Kantonsrates, des Präsidiums und der Kommissionen, an der sie teilnehmen, ein Taggeld.
 
-<sup>2</sup> Wer am gleichen Tag an zwei Sitzungen teilnimmt, erhält ein erhöhtes Taggeld, wenn jede Sitzung mindestens zwei Stunden dauert.
+<sup>2</sup> Wer am gleichen Tag an wenigstens zwei Sitzungen von jeweils zwei Stunden Dauer oder mehr teilnimmt, erhält ein erhöhtes Taggeld.
 
-<sup>3</sup> Wer wenigstens an der Hälfte der Sitzung teilnimmt, erhält ein halbes Taggeld.
+<sup>3</sup> …
 
-<sup>4</sup> Mitglieder, die ausserhalb des Sitzungsorts wohnen, erhalten je Sitzungstag einen Entfernungszuschlag je Strassenkilometer der Hin- und der Rückfahrt von und zu ihrem Wohnort.
+<sup>4</sup> Mitglieder, die ausserhalb des Sitzungsorts wohnen, erhalten je Sitzungstag einen Entfernungszuschlag je Strassenkilometer der Hin- und der Rückfahrt von und zu ihrem Wohnort. Findet die Sitzung ausserhalb des Kantons St.Gallen statt, wird anstelle des Entfernungszuschlags eine Fahrtentschädigung in Höhe der Fahrtkosten erster Klasse mit dem öffentlichen Verkehr vom Wohnort zum Sitzungsort und zurück ausgerichtet.
 
 #### Art. 150bis
 
-**Infrastruktur**
-
-<sup>1</sup> Die Mitglieder des Kantonsrates erhalten einen Infrastrukturbeitrag je Jahr.
+**…**
 
 #### Art. 151
 
-**Besondere Aufträge**
+**Besondere Aufträge und Anlässe**
 
-<sup>1</sup> Kommissionsmitglieder, die im Auftrag der Kommission Besichtigungen und Besprechungen durchführen, erhalten Taggeld und Entfernungszuschlag wie für Sitzungen.
+<sup>1</sup> Mitglieder des Kantonsrates, die im Auftrag des Präsidiums oder einer Kommission Besichtigungen, Befragungen und Besprechungen durchführen, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für Sitzungen.
 
-<sup>2</sup> Mitglieder des Präsidiums, die den Kantonsrat an einem Anlass vertreten, erhalten Taggeld und Entfernungszuschlag.
+<sup>2</sup> Mitglieder des Präsidiums, die keine Funktions- oder Aufwandentschädigung erhalten, erhalten Taggeld und Entfernungszuschlag oder Fahrtentschädigung, wenn sie den Kantonsrat an einem Anlass vertreten.
 
 #### Art. 152
 
@@ -1815,15 +1821,15 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Entschädigungen für Sitzungen des Kantonsrates werden aufgrund der Anwesenheitskontrolle ausgerichtet.
 
-<sup>2</sup> Die Entschädigungen für Kommissionssitzungen und für besondere Aufträge werden aufgrund der vom Kommissionspräsidenten, von der Geschäftsführerin oder vom Geschäftsführer oder von den Parlamentsdiensten geprüften Listen ausgerichtet.
+<sup>2</sup> Die weiteren Entschädigungen werden aufgrund der vom Kommissionspräsidenten, von der Geschäftsführerin oder vom Geschäftsführer oder von den Parlamentsdiensten geprüften Listen ausgerichtet.
 
 #### Art. 153
 
 **Verpflegung und Unterkunft**
 
-<sup>1</sup> Dauert eine Kommissionssitzung mindestens drei Stunden, so gehen die Kosten der gemeinsamen Verpflegung zulasten des Staates.
+<sup>1</sup> Dauert eine Kommissionssitzung wenigstens drei Stunden, gehen die Kosten der gemeinsamen Verpflegung zulasten des Staates.
 
-<sup>2</sup> Bei mehrtägigen Kommissionssitzungen trägt der Staat auch die Kosten der gemeinsam bestellten Unterkunft. In diesem Fall wird der Entfernungszuschlag nur einmal ausgerichtet.
+<sup>2</sup> Bei mehrtägigen Kommissionssitzungen trägt der Staat auch die Kosten der gemeinsam bestellten Unterkunft. In diesem Fall wird der Entfernungszuschlag oder die Fahrtentschädigung nur einmal ausgerichtet.
 
 #### Art. 154
 
@@ -1839,7 +1845,7 @@ als Reglement:[^ingress-7]
 
 <sup>1</sup> Die Mitglieder des Kantonsrates werden für ihre Tätigkeit in Vertretungen entschädigt.
 
-<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen dieses Reglementes über die Entschädigung der Mitglieder des Kantonsrates.
+<sup>2</sup> Die Entschädigung richtet sich nach den Bestimmungen von Art. 150 dieses Reglementes.
 
 ### 2. Präsidenten und Berichterstatter
 
@@ -1853,7 +1859,7 @@ als Reglement:[^ingress-7]
 
 **Funktionsentschädigung**
 
-<sup>1</sup> Präsident und Vizepräsident des Kantonsrates erhalten eine Repräsentationsentschädigung je Amtsjahr.
+<sup>1</sup> Präsident und Vizepräsident des Kantonsrates erhalten eine Aufwandentschädigung je Amtsjahr.
 
 <sup>2</sup> Die Präsidenten der ständigen Kommissionen erhalten eine Aufwandentschädigung je Jahr.
 
@@ -1896,11 +1902,13 @@ als Reglement:[^ingress-7]
 
 **c) Berechnung**
 
-<sup>1</sup> Für die ausserhalb der Sitzungstage des Kantonsrates stattfindende vorbereitende Fraktionssitzung erhalten die teilnehmenden Mitglieder des Kantonsrates Taggeld und Entfernungszuschlag wie für die Sitzungen des Kantonsrates.
+<sup>1</sup> Für die ausserhalb der Sitzungstage des Kantonsrates stattfindende vorbereitende Fraktionssitzung erhalten die teilnehmenden Mitglieder des Kantonsrates Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für die Sitzungen des Kantonsrates.
 
-<sup>2</sup> Für die an einem Sitzungstag des Kantonsrates stattfindende vorbereitende Fraktionssitzung erhalten die teilnehmenden Mitglieder des Kantonsrates das erhöhte Taggeld für zwei Sitzungen am gleichen Tag, wenn die vorbereitende Sitzung wenigstens eine Stunde dauert.
+<sup>2</sup> Für die an einem Sitzungstag des Kantonsrates stattfindende vorbereitende Fraktionssitzung und die Sitzung des Kantonsrates erhalten die teilnehmenden Mitglieder des Kantonsrates das erhöhte Taggeld für zwei Sitzungen am gleichen Tag, wenn die vorbereitende Sitzung wenigstens zwei Stunden dauert.
 
-<sup>3</sup> Für die Fort- und Weiterbildung der Fraktion erhalten die teilnehmenden Mitglieder des Kantonsrates Taggeld und Entfernungszuschlag wie für die Sitzungen des Kantonsrates.
+<sup>3</sup> Für die Fort- und Weiterbildung der Fraktion erhalten die teilnehmenden Mitglieder des Kantonsrates Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für die Sitzungen des Kantonsrates.
+
+<sup>4</sup> Für die ausserhalb der Sitzungstage des Kantonsrates stattfindende vorbereitende Fraktionsvorstandssitzung erhalten die teilnehmenden Mitglieder des Kantonsrates Taggeld und Entfernungszuschlag oder Fahrtentschädigung wie für die Sitzungen des Kantonsrates, sofern nicht am gleichen Tag eine Fraktionssitzung stattfindet.
 
 ### b) übrige Fraktionstätigkeit
 
