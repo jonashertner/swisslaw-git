@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 13.01.2021 de mise en vigueur
+title: ARRÊTÉ du 27.01.2021 de mise en vigueur
 language: fr
-version: 2021-01-19
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=7a0d6c8f-ba64-455c-8087-da717c8f6be0"
+version: 2021-02-02
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=bdd8bc85-fff4-4b25-8bf7-945b4b1f26b5"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 13 janvier 2021
+du 27 janvier 2021
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,9 +21,12 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> Les actes législatifs ci-après du 6 octobre 2020, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 30 octobre 2020, entrent en vigueur avec effet au 1er janvier 2021 :
+<sup>1</sup> Les décrets ci-après du 3 novembre 2020, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 17 novembre 2020, entrent en vigueur avec effet :
 
-- a. loi du 6 octobre 2020 modifiant celle du 1 juillet 2014 sur l'aide aux études et à la formation professionnelle (BLV 416.11) ;
-- b. loi du 6 octobre 2020 modifiant celle du 24 novembre 2003 sur l'organisation et le financement de la politique sociale (BLV 850.01) ;
-- c. loi du 6 octobre 2020 modifiant celle du 18 décembre 2012 sur l'éducation physique et le sport (BLV 415.01) ;
-- d. décret du 6 octobre 2020 sur le Plan d'intentions cantonal 2021-2024 des Hautes écoles vaudoises de type HES (D-HES) (BLV 419.011).
+- a. au 1er janvier 2020 :
+- 1\. décret du 3 novembre 2020 fixant la contribution de l'Etat et des communes au budget annuel de la Fondation pour l'enseignement de la musique (FEM) pour les années 2020 et 2021 (BLV 444.00).
+- b. au 1er septembre 2020 :
+- 1\. décret du 3 novembre 2020 autorisant le Conseil d'Etat à mettre en place un dispositif d'aide d'urgence temporaire aux étudiants précarisés par les conséquences économiques de la pandémie COVID-19 de l'Université de Lausanne, de la Haute école pédagogique Vaud et des Hautes écoles vaudoises de type HES (BLV 419.00).
+- c. au 1er février 2021 :
+- 1\. décret du 3 novembre 2020 accordant au Conseil d'Etat un crédit d'investissement de CHF 4'238'300.- pour financer l'octroi d'une subvention à Pepperdine University pour les travaux de conservation et de restauration du château d'Hauteville et de son orangerie, sis sur la commune de Saint-Légier-La Chiésaz (BLV 450.00);
+- 2\. décret du 3 novembre 2020 accordant au Conseil d'Etat un crédit d'investissement de CHF 21'500'000.- pour financer les travaux de requalification de la RC 780 B-P sur le plat du Dézaley (entre Treytorrens et Rivaz) sur le territoire des communes de Puidoux et Rivaz (BLV 725.20).
