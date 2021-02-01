@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale sui brevetti d'invenzione (legge sui brevetti, LBI)"
 document: Avamprogetto
 language: it

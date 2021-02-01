@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur les brevets d'invention (Loi sur les brevets, LBI)"
 document: Projet
 language: fr
