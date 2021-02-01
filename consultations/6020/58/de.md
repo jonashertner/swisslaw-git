@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision Grundbuchverordnung. AHVN13 im Grundbuch und landesweite Grundstücksuche
 document: Vorlage
 language: de

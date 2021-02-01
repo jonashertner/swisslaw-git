@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Révision de l'ordonnance sur le registre foncier. Numéro AVS et recherche d'immeubles sur tout le pays"
 document: Projet
 language: fr

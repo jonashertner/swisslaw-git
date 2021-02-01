@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione dell'ordinanza sul registro fondiario. Numero AVS nel registro fondiario e ricerca di fondi su scala nazionale"
 document: Avamprogetto
 language: it
