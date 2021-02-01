@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accordo internazionale del 2007 sul caffè del 28 settembre 2007 (con all. e Risoluzione)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: it
-version: 2020-12-02
+version: 2021-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20201202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20201202-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20201202/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20210202/it/xml/fedlex-data-admin-ch-eli-cc-2011-608-20210202-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20210202/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera l’11 settembre 2009
 
 Entrato in vigore per la Svizzera il 2 febbraio 2011
 
-(Stato 2 dicembre 2020)
+(Stato 2 febbraio 2021)
 
 [^t-1]: [RU 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -619,13 +619,15 @@ Se considera che un Membro abbia commesso un’infrazione agli obblighi che gli 
 
 \2) Il Consiglio riesamina il presente Accordo cinque anni dopo la sua entrata in vigore e prende le decisioni appropriate.
 
-\3) Il Consiglio può decidere di prorogare il presente Accordo oltre la data di scadenza per uno o più periodi successivi che non eccedano otto anni in totale. Il Membro che non accetta tale proroga del presente Accordo ne informa per scritto il Consiglio e il depositario prima dell’inizio del periodo di proroga e cessa di essere Parte del presente Accordo a decorrere dall’inizio del periodo di proroga.
+\3) Il Consiglio può decidere di prorogare il presente Accordo oltre la data di scadenza per uno o più periodi successivi che non eccedano otto anni in totale.[^48-1] Il Membro che non accetta tale proroga del presente Accordo ne informa per scritto il Consiglio e il depositario prima dell’inizio del periodo di proroga e cessa di essere Parte del presente Accordo a decorrere dall’inizio del periodo di proroga.
 
 \4) Il Consiglio ha facoltà di risolvere in qualsiasi momento il presente Accordo. La rescissione ha effetto alla data decisa dal Consiglio.
 
 \5) Nonostante la rescissione dell’Accordo, il Consiglio rimane in funzione per tutto il tempo necessario per adottare ogni provvedimento indispensabile nel periodo di tempo richiesto al fine di liquidare l’Organizzazione, chiudere la contabilità e disporre degli averi.
 
 \6) Qualsiasi decisione adottata riguardo alla durata e/o alla rescissione del presente Accordo e qualsiasi notifica ricevuta dal Consiglio, in conformità al presente articolo, è debitamente trasmessa dal Consiglio al depositario.
+
+[^48-1]: Validità prorogata per un anno al 2 feb. 2022. mediante risoluzione 471 dell’11 set. 2020 ([RU 2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 

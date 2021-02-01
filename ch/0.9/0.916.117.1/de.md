@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Internationales Kaffee-Übereinkommen von 2007 vom 28. September 2007 (mit Anlagen und Resolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: de
-version: 2020-12-02
+version: 2021-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20201202/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20201202-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20201202/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20210202/de/xml/fedlex-data-admin-ch-eli-cc-2011-608-20210202-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20210202/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2009
 
 Für die Schweiz in Kraft getreten am 2. Februar 2011
 
-(Stand am 2. Dezember 2020)
+(Stand am 2. Februar 2021)
 
 [^t-1]: [AS 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -631,13 +631,15 @@ Stellt der Rat fest, dass ein Mitglied seine Verpflichtungen aus diesem Überein
 
 <sup>(2)</sup> Der Rat überprüft dieses Übereinkommen fünf Jahre nach seinem Inkrafttreten und trifft gegebenenfalls erforderliche Massnahmen.
 
-<sup>(3)</sup> Der Rat kann beschliessen, dieses Übereinkommen über sein Ablaufdatum hinaus für einen oder mehrere aufeinander folgende Zeiträume, die insgesamt acht Jahre nicht überschreiten dürfen, zu verlängern. Jedes Mitglied, das einer derartigen Verlängerung dieses Übereinkommens nicht zustimmt, teilt dies dem Rat und dem Depositar vor Beginn des Verlängerungszeitraums schriftlich mit und scheidet mit Beginn des Verlängerungszeitraums von der Teilnahme am Übereinkommen aus.
+<sup>(3)</sup> Der Rat kann beschliessen, dieses Übereinkommen über sein Ablaufdatum hinaus für einen oder mehrere aufeinander folgende Zeiträume, die insgesamt acht Jahre nicht überschreiten dürfen, zu verlängern[^48-1]. Jedes Mitglied, das einer derartigen Verlängerung dieses Übereinkommens nicht zustimmt, teilt dies dem Rat und dem Depositar vor Beginn des Verlängerungszeitraums schriftlich mit und scheidet mit Beginn des Verlängerungszeitraums von der Teilnahme am Übereinkommen aus.
 
 <sup>(4)</sup> Der Rat kann jederzeit die Ausserkraftsetzung dieses Übereinkommens beschliessen. Es wird zu einem vom Rat zu beschliessenden Zeitpunkt ausser Kraft gesetzt.
 
 <sup>(5)</sup> Ungeachtet der Ausserkraftsetzung dieses Übereinkommens bleibt der Rat so lange weiter bestehen, bis die für die Liquidation der Organisation, die Abrechnung ihrer Konten und die Veräusserung ihrer Vermögenswerte notwendigen Entscheidungen während dieses Zeitraums getroffen sind.
 
 <sup>(6)</sup> Jede Entscheidung, die hinsichtlich der Geltungsdauer und/oder Ausserkraftsetzung dieses Übereinkommens getroffen wird, sowie jede Notifikation, die beim Rat nach diesem Artikel eingeht, wird dem Depositar vom Rat ordnungsgemäss übermittelt.
+
+[^48-1]: Mittels Resolution Nr. 471 vom 11. Sept. 2020 wurde beschlossen, die Geltungsdauer des Übereink. bis zum 2. Febr. 2022 zu verlängern ([AS 2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 

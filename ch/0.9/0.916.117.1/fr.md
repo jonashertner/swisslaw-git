@@ -3,11 +3,11 @@ sr: "0.916.117.1"
 title: Accord international de 2007 sur le café du 28 septembre 2007 (avec annexe et résolution)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/608"
 language: fr
-version: 2020-12-02
+version: 2021-02-02
 adopted: 2007-09-28
 in_force: 2011-02-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20201202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20201202-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20201202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/608/20210202/fr/xml/fedlex-data-admin-ch-eli-cc-2011-608-20210202-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/608/20210202/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification suisse déposé le 11 septembre 2009
 
 Entré en vigueur pour la Suisse le 2 février 2011
 
-(Etat le 2 décembre 2020)
+(Etat le 2 février 2021)
 
 [^t-1]: [RO 2011 4419](https://fedlex.data.admin.ch/eli/oc/2011/607)
 
@@ -619,13 +619,15 @@ Si le Conseil considère qu’un Membre a commis une infraction aux obligations 
 
 \2) Le Conseil passe en revue le présent Accord cinq ans après son entrée en vigueur et prend les décisions appropriées.
 
-\3) Le Conseil peut décider de proroger le présent Accord au-delà de sa date d’expiration pour une ou plusieurs périodes successives ne dépassant pas huit années au total. Tout Membre qui n’est pas en mesure d’accepter une telle prorogation du présent Accord en informe par écrit le Conseil et le dépositaire avant le début de la période de prorogation et cesse d’être Partie à l’Accord dès le début de la période de prorogation.
+\3) Le Conseil peut décider de proroger le présent Accord au-delà de sa date d’expiration pour une ou plusieurs périodes successives ne dépassant pas huit années au total.[^48-1] Tout Membre qui n’est pas en mesure d’accepter une telle prorogation du présent Accord en informe par écrit le Conseil et le dépositaire avant le début de la période de prorogation et cesse d’être Partie à l’Accord dès le début de la période de prorogation.
 
 \4) Le Conseil peut, à tout moment décider de résilier le présent Accord. La résiliation prend effet à dater du moment que le Conseil décide.
 
 \5) Nonobstant la résiliation de l’Accord, le Conseil continue à exister aussi longtemps qu’il le faut pour prendre toute mesure qui s’impose pendant la période de temps requise pour liquider l’Organisation, apurer ses comptes et disposer de ses avoirs.
 
 \6) Toute décision concernant la durée et/ou la résiliation du présent Accord et toute notification reçue par le Conseil, conformément au présent article, est dûment transmise au dépositaire par le Conseil.
+
+[^48-1]: Prorogé jusqu’au 2 fév. 2022 par la résolution n<sup>o</sup> 471 du 11 septembre 2020 ([RO 2020 6601](https://fedlex.data.admin.ch/eli/oc/2020/1069)).
 
 #### Art. 49
 
