@@ -3,18 +3,18 @@ sr: "946.231.172.7"
 title: "Ordinanza dell' 8 giugno 2012 che istituisce provvedimenti nei confronti della Siria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/394"
 language: it
-version: 2020-11-19
+version: 2021-02-03
 adopted: 2012-06-08
 in_force: 2012-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20201119/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20201119-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20201119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/394/20210203/it/xml/fedlex-data-admin-ch-eli-cc-2012-394-20210203-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/394/20210203/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Siria
 
-dell’8 giugno 2012 (Stato 19 novembre 2020)
+dell’8 giugno 2012 (Stato 3 febbraio 2021) (Stato 3 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -930,7 +930,7 @@ Allegato 7*[^t-3]*
 
 ## Persone fisiche interessate dalle sanzioni finanziarie e dal divieto di entrata e di transito nonché imprese e organizzazioni interessate dalle sanzioni finanziarie
 
-[^t-3]: L’all. non è pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[583](https://fedlex.data.admin.ch/eli/oc/2013/115)[1369](https://fedlex.data.admin.ch/eli/oc/2013/324)[3675](https://fedlex.data.admin.ch/eli/oc/2013/685), [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)[2477](https://fedlex.data.admin.ch/eli/oc/2014/437)[2941](https://fedlex.data.admin.ch/eli/oc/2014/498)[4699](https://fedlex.data.admin.ch/eli/oc/2014/790), [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)[987](https://fedlex.data.admin.ch/eli/oc/2015/183)[1681](https://fedlex.data.admin.ch/eli/oc/2015/332)[2081](https://fedlex.data.admin.ch/eli/oc/2015/389)[2227](https://fedlex.data.admin.ch/eli/oc/2015/412), [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)[1779](https://fedlex.data.admin.ch/eli/oc/2016/318)[3433](https://fedlex.data.admin.ch/eli/oc/2016/577)[3811](https://fedlex.data.admin.ch/eli/oc/2016/638)[4147](https://fedlex.data.admin.ch/eli/oc/2016/686)[4493](https://fedlex.data.admin.ch/eli/oc/2016/730), [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)[3399](https://fedlex.data.admin.ch/eli/oc/2017/372)[3743](https://fedlex.data.admin.ch/eli/oc/2017/439)[3885](https://fedlex.data.admin.ch/eli/oc/2017/462)[5139](https://fedlex.data.admin.ch/eli/oc/2017/562), [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)[1207](https://fedlex.data.admin.ch/eli/oc/2018/188)[2325](https://fedlex.data.admin.ch/eli/oc/2018/331)[2747](https://fedlex.data.admin.ch/eli/oc/2018/404), [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)[2561](https://fedlex.data.admin.ch/eli/oc/2019/473)[3087](https://fedlex.data.admin.ch/eli/oc/2019/565), [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)[2573](https://fedlex.data.admin.ch/eli/oc/2020/472)[4523](https://fedlex.data.admin.ch/eli/oc/2020/798)e [4739](https://fedlex.data.admin.ch/eli/oc/2020/854)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-3]: L’all. non è pubblicato nella RU ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)[583](https://fedlex.data.admin.ch/eli/oc/2013/115)[1369](https://fedlex.data.admin.ch/eli/oc/2013/324)[3675](https://fedlex.data.admin.ch/eli/oc/2013/685), [2014 1891](https://fedlex.data.admin.ch/eli/oc/2014/339)[2477](https://fedlex.data.admin.ch/eli/oc/2014/437)[2941](https://fedlex.data.admin.ch/eli/oc/2014/498)[4699](https://fedlex.data.admin.ch/eli/oc/2014/790), [2015 807](https://fedlex.data.admin.ch/eli/oc/2015/153)[987](https://fedlex.data.admin.ch/eli/oc/2015/183)[1681](https://fedlex.data.admin.ch/eli/oc/2015/332)[2081](https://fedlex.data.admin.ch/eli/oc/2015/389)[2227](https://fedlex.data.admin.ch/eli/oc/2015/412), [2016 267](https://fedlex.data.admin.ch/eli/oc/2016/35)[1779](https://fedlex.data.admin.ch/eli/oc/2016/318)[3433](https://fedlex.data.admin.ch/eli/oc/2016/577)[3811](https://fedlex.data.admin.ch/eli/oc/2016/638)[4147](https://fedlex.data.admin.ch/eli/oc/2016/686)[4493](https://fedlex.data.admin.ch/eli/oc/2016/730), [2017 2169](https://fedlex.data.admin.ch/eli/oc/2017/198)[3399](https://fedlex.data.admin.ch/eli/oc/2017/372)[3743](https://fedlex.data.admin.ch/eli/oc/2017/439)[3885](https://fedlex.data.admin.ch/eli/oc/2017/462)[5139](https://fedlex.data.admin.ch/eli/oc/2017/562), [2018 995](https://fedlex.data.admin.ch/eli/oc/2018/147)[1207](https://fedlex.data.admin.ch/eli/oc/2018/188)[2325](https://fedlex.data.admin.ch/eli/oc/2018/331)[2747](https://fedlex.data.admin.ch/eli/oc/2018/404), [2019 2201](https://fedlex.data.admin.ch/eli/oc/2019/411)[2561](https://fedlex.data.admin.ch/eli/oc/2019/473)[3087](https://fedlex.data.admin.ch/eli/oc/2019/565), [2020 571](https://fedlex.data.admin.ch/eli/oc/2020/106)[2573](https://fedlex.data.admin.ch/eli/oc/2020/472)[4523](https://fedlex.data.admin.ch/eli/oc/2020/798)[4739](https://fedlex.data.admin.ch/eli/oc/2020/854), [2021 67](https://fedlex.data.admin.ch/eli/oc/2021/67)). . È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consulto al seguente indirizzo Internet: www.seco.admin.ch &gt; Economia esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera
 
 Allegato 8*[^t-4]*
 
