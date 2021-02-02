@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Ordonnance portant introduction de la législation fédérale relative au COVID-19 dans le domaine de la culture
 short: Oi COVID-19 culture
 language: fr
-version: 2020-12-01
-valid_until: 2021-02-02
-version_adopted: 2020-11-25
+version: 2021-02-03
+valid_until: 2021-10-27
+version_adopted: 2021-02-03
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2078/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2136/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2078/pdf_file"
 
 (Oi COVID-19 culture)
 
-du 25.11.2020 (état au 01.12.2020)
+du 25.11.2020 (état au 03.02.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -38,10 +38,10 @@ arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance règle l’exécution des mesures ci-après destinées aux entreprises culturelles en vertu de la législation fédérale relative au COVID-19 dans le domaine de la culture:
+<sup>1</sup> La présente ordonnance règle l’exécution des mesures ci-après en vertu de la législation fédérale relative au COVID-19 dans le domaine de la culture:
 
-- a indemnités pour pertes financières,
-- b contributions à des projets de transformation.
+- a indemnités pour pertes financières destinées aux entreprises culturelles et aux acteurs et actrices culturels,
+- b contributions à des projets de transformation destinées aux entreprises culturelles.
 
 #### Art. 2
 
@@ -55,12 +55,14 @@ arrête:
 
 #### Art. 3
 
-**Montant de l’indemnité pour pertes financières**
+**Montant des indemnités pour pertes financières**
 
-<sup>1</sup> L’indemnité pour pertes financières visée à l’article 5, alinéa 2 de l’ordonnance COVID-19 culture
+<sup>1</sup> Les indemnités pour pertes financières visées à l’article 5, alinéa 2 de l’ordonnance COVID-19 culture couvrent au maximum 80 pour cent du dommage financier.
 
-- a couvre au maximum 80 pour cent du dommage financier;
-- b n’excède pas 500'000 francs par entreprise culturelle.
+<sup>2</sup> Elles n’excèdent pas 500'000 francs par
+
+- a entreprise culturelle ou
+- b acteur ou actrice culturelle.
 
 #### Art. 4
 
@@ -79,6 +81,20 @@ arrête:
 <sup>4</sup> La compétence du Conseil du Jura bernois visée à l'article 15, alinéa 1 de la loi du 13 septembre 2004 sur le statut particulier du Jura bernois et sur la minorité francophone du district bilingue de Bienne (loi sur le statut particulier, LStP)[^4-1] ne s'applique pas aux mesures de la présente ordonnance.
 
 [^4-1]: RSB [102.1](https://www.belex.sites.be.ch/data/102.1/fr)
+
+#### Art. 4a
+
+**Traitement des données**
+
+<sup>1</sup> La Direction de l’instruction publique et de la culture traite toutes les données personnelles dont elle a besoin pour l’accomplissement de ses tâches conformément à la législation fédérale relative au COVID-19 dans le domaine de la culture.
+
+<sup>2</sup> Elle peut obtenir les données requises auprès des autorités et tiers suivants et transmettre des données à ceux-ci:
+
+- a l’association Suisseculture Sociale,
+- b les assurances privées ainsi que
+- c les services fédéraux, cantonaux et communaux compétents.
+
+<sup>3</sup> Les requérants et les requérantes sont informés de manière appropriée au sujet des données échangées avec d’autres autorités et des tiers.
 
 #### Art. 5
 
@@ -110,7 +126,9 @@ arrête:
 
 <sup>1</sup> Les mesures sont financées avec les moyens alloués par la Confédération et le canton.
 
-<sup>2</sup> La partie cantonale est financée par le biais du Fonds d’encouragement des activités culturelles, à hauteur des réserves et de la contribution extraordinaire du Fonds de loterie.
+<sup>2</sup> La partie cantonale est financée par le biais du Fonds d’encouragement des activités culturelles, à hauteur des réserves et des contributions extraordinaires.
+
+<sup>3</sup> Le Conseil-exécutif arrête lui seul et de manière distincte les contributions extraordinaires.
 
 #### Art. 9
 

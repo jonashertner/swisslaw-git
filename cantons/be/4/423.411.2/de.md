@@ -4,13 +4,13 @@ number: "423.411.2"
 title: Einführungsverordnung zur eidgenössischen Covid-19-Gesetzgebung im Kulturbereich
 short: EV Covid-19 Kultur
 language: de
-version: 2020-12-01
-valid_until: 2021-02-02
-version_adopted: 2020-11-25
+version: 2021-02-03
+valid_until: 2021-10-27
+version_adopted: 2021-02-03
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/423.411.2"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2078/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2078/pdf_file"
 
 (EV Covid-19 Kultur)
 
-vom 25.11.2020 (Stand 01.12.2020)
+vom 25.11.2020 (Stand 03.02.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -38,10 +38,10 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt den Vollzug der folgenden Massnahmen für Kulturunternehmen nach der eidgenössischen Covid-19-Gesetzgebung im Kulturbereich:
+<sup>1</sup> Diese Verordnung regelt den Vollzug der folgenden Massnahmen nach der eidgenössischen Covid-19-Gesetzgebung im Kulturbereich:
 
-- a Ausfallentschädigungen,
-- b Beiträge an Transformationsprojekte.
+- a Ausfallentschädigungen für Kulturunternehmen und Kulturschaffende,
+- b Beiträge an Transformationsprojekte für Kulturunternehmen.
 
 #### Art. 2
 
@@ -55,12 +55,14 @@ beschliesst:
 
 #### Art. 3
 
-**Höhe der Ausfallentschädigung**
+**Höhe der Ausfallentschädigungen**
 
-<sup>1</sup> Die Ausfallentschädigung nach Artikel 5 Absatz 2 Covid-19-Kulturverordnung
+<sup>1</sup> Die Ausfallentschädigungen nach Artikel 5 Absatz 2 Covid-19-Kulturverordnung decken höchstens 80 Prozent des finanziellen Schadens.
 
-- a deckt pro Kulturunternehmen höchstens 80 Prozent des finanziellen Schadens,
-- b beträgt pro Kulturunternehmen höchstens 500'000 Franken.
+<sup>2</sup> Sie betragen höchstens 500'000 Franken pro
+
+- a Kulturunternehmen oder
+- b Kulturschaffende oder Kulturschaffenden.
 
 #### Art. 4
 
@@ -79,6 +81,20 @@ beschliesst:
 <sup>4</sup> Die Befugnis des Bernjurassischen Rats nach Artikel 15 Absatz 1 des Gesetzes vom 13. September 2004 über das Sonderstatut des Berner Juras und über die französischsprachige Minderheit des zweisprachigen Amtsbezirks Biel (Sonderstatutsgesetz, SStG)[^4-1] gilt nicht für die Massnahmen nach dieser Verordnung.
 
 [^4-1]: BSG [102.1](https://www.belex.sites.be.ch/data/102.1/de)
+
+#### Art. 4a
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Bildungs- und Kulturdirektion bearbeitet alle Personendaten, die sie für die Erfüllung ihrer Aufgaben gemäss eidgenössischer Covid-19-Gesetzgebung im Kulturbereich benötigt.
+
+<sup>2</sup> Sie kann die benötigten Daten bei folgenden Behörden und Dritten einholen und an diese bekanntgeben:
+
+- a Verein Suisseculture Sociale,
+- b Privatversicherungen sowie
+- c zuständige Stellen des Bundes, der Kantone und der Gemeinden.
+
+<sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller werden angemessen über den Datenaustausch mit Behörden und Dritten informiert.
 
 #### Art. 5
 
@@ -110,7 +126,9 @@ beschliesst:
 
 <sup>1</sup> Die Massnahmen werden mit den von Bund und Kanton zur Verfügung gestellten Mitteln finanziert.
 
-<sup>2</sup> Der kantonale Teil wird aus dem Kulturförderungsfonds finanziert und ist begrenzt auf die ausserordentliche Einlage aus dem Lotteriefonds und die Reserven.
+<sup>2</sup> Der kantonale Teil wird aus dem Kulturförderungsfonds finanziert und ist begrenzt auf die ausserordentlichen Einlagen und die Reserven.
+
+<sup>3</sup> Der Regierungsrat beschliesst abschliessend und separat über die ausserordentlichen Einlagen.
 
 #### Art. 9
 
