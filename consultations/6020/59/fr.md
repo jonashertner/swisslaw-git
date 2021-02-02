@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordonnance sur les dispositions d'exécution concernant la loi fédérale sur l'adaptation du droit fédéral aux développements de la technologie des registres électroniques distribués"
 document: Projet
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Ordinanza sulle disposizioni d'esecuzione concernenti la legge federale sull'adeguamento del diritto federale agli sviluppi della tecnologia di registri elettronici distribuiti"
 document: Avamprogetto
 language: it
