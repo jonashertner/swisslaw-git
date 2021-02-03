@@ -3,11 +3,11 @@ sr: "0.451.46"
 title: Convenzione del 23 giugno 1979 sulla conservazione delle specie migratrici della fauna selvatica (con. All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354"
 language: it
-version: 2020-05-22
+version: 2021-02-04
 adopted: 1979-06-23
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354/20200522/it/xml/fedlex-data-admin-ch-eli-cc-1996-2354_2354_2354-20200522-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2354_2354_2354/20200522/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354/20210204/it/xml/fedlex-data-admin-ch-eli-cc-1996-2354_2354_2354-20210204-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2354_2354_2354/20210204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,9 +24,9 @@ Strumento d’adesione depositato dalla Svizzera il 7 aprile 1995
 
 Entrata in vigore per la Svizzera il 1° luglio 1995
 
-(Stato 22 maggio 2020)
+(Stato 4 febbraio 2021)
 
-[^t-1]: [RU 1996 2353](https://fedlex.data.admin.ch/eli/oc/1996/2353_2353_2353)
+[^t-1]: RU **1996** 2354; FF **1994** III 841 RU **1996** 2353
 
 Le Parti contraenti,
 
@@ -382,7 +382,7 @@ Ogni Parte contraente può denunciare in qualsiasi momento la presente Convenzio
 
 *In fede di che* i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Bonn il 23 giugno 1979. (Seguono le firme)
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 ## Specie migratrici minacciate
 
@@ -570,7 +570,7 @@ Allegato I*[^t-2]*
 <tr><td>Schilbeidae</td><td>*Pangasianodon gigas*</td></tr>
 </table>
 
-Allegato II*[^t-3]*
+Allegato II[^t-3]
 
 ## Specie migratrici oggetto di Accordi
 
@@ -878,7 +878,7 @@ Salvo indicazione contraria, nel caso di riferimento ad un taxon superiore alla 
 <tr><td>Danaidae</td><td>*Danaus plexippus*</td></tr>
 </table>
 
-Campo d’applicazione il 12 giugno 2020**[^t-4]**
+Campo d’applicazione il 4 febbraio 2021**[^t-4]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -905,6 +905,7 @@ Campo d’applicazione il 12 giugno 2020**[^t-4]**
 <tr><td>Camerun</td><td>7 settembre</td><td>1981</td><td>1° novembre</td><td>1983</td></tr>
 <tr><td>Capo Verde</td><td>14 dicembre</td><td>2005 A</td><td>1° maggio</td><td>2006</td></tr>
 <tr><td>Ceca, Repubblica</td><td>8 febbraio</td><td>1994 A</td><td>1° maggio</td><td>1994</td></tr>
+<tr><td>Centrafricana, Repubblica</td><td>14 settembre</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Ciad</td><td>23 giugno</td><td>1997</td><td>1° settembre</td><td>1997</td></tr>
 <tr><td>Cile</td><td>15 settembre</td><td>1981 A</td><td>1° novembre</td><td>1983</td></tr>
 <tr><td>Cina<sup>\*</sup></td><td></td><td></td><td></td><td></td></tr>
@@ -960,6 +961,7 @@ Campo d’applicazione il 12 giugno 2020**[^t-4]**
 <tr><td>Macedonia del Nord</td><td>26 agosto</td><td>1999 A</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>13 ottobre</td><td>2006</td><td>1° gennaio</td><td>2007</td></tr>
 <tr><td>Malawi</td><td>24 giugno</td><td>2019 A</td><td>1° settembre</td><td>2019</td></tr>
+<tr><td>Maldive</td><td>7 agosto</td><td>2019 A</td><td>1° novembre</td><td>2019</td></tr>
 <tr><td>Mali</td><td>28 luglio</td><td>1987 A</td><td>1° ottobre</td><td>1987</td></tr>
 <tr><td>Malta</td><td>1° marzo</td><td>2001 A</td><td>1° giugno</td><td>2001</td></tr>
 <tr><td>Marocco<sup>\*</sup></td><td>12 agosto</td><td>1993</td><td>1° novembre</td><td>1993</td></tr>
@@ -1010,6 +1012,7 @@ Campo d’applicazione il 12 giugno 2020**[^t-4]**
 <tr><td>Togo</td><td>9 novembre</td><td>1995</td><td>1° febbraio</td><td>1996</td></tr>
 <tr><td>Trinidad e Tobago</td><td>28 settembre</td><td>2018 A</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Tunisia</td><td>27 maggio</td><td>1987 A</td><td>1° agosto</td><td>1987</td></tr>
+<tr><td>Turkmenistan</td><td>20 ottobre</td><td>2020 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Ucraina</td><td>2 agosto</td><td>1999 A</td><td>1° novembre</td><td>1999</td></tr>
 <tr><td>Uganda</td><td>16 maggio</td><td>2000</td><td>1° agosto</td><td>2000</td></tr>
 <tr><td>Ungheria</td><td>12 luglio</td><td>1983 A</td><td>1° novembre</td><td>1983</td></tr>
@@ -1022,6 +1025,4 @@ Campo d’applicazione il 12 giugno 2020**[^t-4]**
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale né per la Groenlandia né per le Isole Färöer.</td></tr>
 </table>
 
-www.auswaertiges-amt.de/de/aussenpolitik/themen/internationales-recht/vertraege
-
-[^t-4]: [RU 1996 2354](https://fedlex.data.admin.ch/eli/oc/1996/2354_2354_2354), [2003 3265](https://fedlex.data.admin.ch/eli/oc/2003/451), [2004 1039](https://fedlex.data.admin.ch/eli/oc/2004/113), [2007 4395](https://fedlex.data.admin.ch/eli/oc/2007/600), [2008 2177](https://fedlex.data.admin.ch/eli/oc/2008/317), [2013 1271](https://fedlex.data.admin.ch/eli/oc/2013/285), [2016 777](https://fedlex.data.admin.ch/eli/oc/2016/151), [2018 1725](https://fedlex.data.admin.ch/eli/oc/2018/255)e [2020 2791](https://fedlex.data.admin.ch/eli/oc/2020/506). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: **1996** 2354; **2003** 3265; **2004** 1039; **2007** 4395; **2008** 2177; **2013** 1271; **2016** 777; **2018** 1725; **2020** 2791; **2021** 112. Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.

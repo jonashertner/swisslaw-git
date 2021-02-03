@@ -3,11 +3,11 @@ sr: "0.451.46"
 title: Convention du 23 juin 1979 sur la conservation des espèces migratrices appartenant à la faune sauvage (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354"
 language: fr
-version: 2020-05-22
+version: 2021-02-04
 adopted: 1979-06-23
 in_force: 1995-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354/20200522/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2354_2354_2354-20200522-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/2354_2354_2354/20200522/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/2354_2354_2354/20210204/fr/xml/fedlex-data-admin-ch-eli-cc-1996-2354_2354_2354-20210204-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/2354_2354_2354/20210204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument d’adhésion déposé par la Suisse le 7 avril 1995
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 1995
 
-(Etat le 22 mai 2020)
+(Etat le 4 février 2021)
 
 [^t-1]: [RO 1996 2353](https://fedlex.data.admin.ch/eli/oc/1996/2353_2353_2353)
 
@@ -885,7 +885,7 @@ Sauf indication contraire, lorsqu’il est fait référence à un taxon supérie
 <tr><td>Danaidae</td><td>*Danaus plexippus*</td></tr>
 </table>
 
-Champ d’application le 12 juin 2020**[^t-4]**
+Champ d’application le 4 février 2021**[^t-4]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -967,6 +967,7 @@ Champ d’application le 12 juin 2020**[^t-4]**
 <tr><td>Macédoine du Nord</td><td>26 août</td><td>1999 A</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Madagascar</td><td>13 octobre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
 <tr><td>Malawi</td><td>24 juin</td><td>2019 A</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
+<tr><td>Maldives</td><td>7 août</td><td>2019 A</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Mali</td><td>28 juillet</td><td>1987 A</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
 <tr><td>Malte</td><td>1<sup>er</sup> mars</td><td>2001 A</td><td>1<sup>er</sup> juin</td><td>2001</td></tr>
 <tr><td>Maroc<sup>\*</sup></td><td>12 août</td><td>1993</td><td>1<sup>er</sup> novembre</td><td>1993</td></tr>
@@ -996,6 +997,7 @@ Champ d’application le 12 juin 2020**[^t-4]**
 <tr><td>Philippines</td><td>15 novembre</td><td>1993</td><td>1<sup>er</sup> février</td><td>1994</td></tr>
 <tr><td>Pologne</td><td>1<sup>er</sup> février</td><td>1996 A</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
 <tr><td>Portugal</td><td>21 janvier</td><td>1981</td><td>1<sup>er</sup> novembre</td><td>1983</td></tr>
+<tr><td>République centrafricaine</td><td>14 septembre</td><td>2018</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
 <tr><td>République dominicaine</td><td>23 août</td><td>2017 A</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
 <tr><td>République tchèque</td><td>8 février</td><td>1994 A</td><td>1<sup>er</sup> mai</td><td>1994</td></tr>
 <tr><td>Roumanie</td><td>14 avril</td><td>1998 A</td><td>1<sup>er</sup> juillet</td><td>1998</td></tr>
@@ -1020,6 +1022,7 @@ Champ d’application le 12 juin 2020**[^t-4]**
 <tr><td>Togo</td><td>9 novembre</td><td>1995</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>28 septembre</td><td>2018 A</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
 <tr><td>Tunisie</td><td>27 mai</td><td>1987 A</td><td>1<sup>er</sup> août</td><td>1987</td></tr>
+<tr><td>Turkménistan</td><td>20 octobre</td><td>2020 A</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Ukraine</td><td>2 août</td><td>1999 A</td><td>1<sup>er</sup> novembre</td><td>1999</td></tr>
 <tr><td>Union européenne</td><td>1<sup>er</sup> août</td><td>1983 S</td><td>1<sup>er</sup> novembre</td><td>1983</td></tr>
 <tr><td>Uruguay</td><td>1<sup>er</sup> février</td><td>1990 A</td><td>1<sup>er</sup> mai</td><td>1990</td></tr>
@@ -1028,4 +1031,4 @@ Champ d’application le 12 juin 2020**[^t-4]**
 <tr><td colspan="5">\* Les réserves et déclarations ne sont pas publiées au RO. Les textes en allemand peuvent être consultés à l’adresse du site Internet du Gouvernement fédéral allemand: www.auswaertiges-amt.de &gt; de &gt; aussenpolitik &gt; themen/internationales-recht &gt; vertraege ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention n’est pas applicable au Groenland et aux îles Feroé</td></tr>
 </table>
 
-[^t-4]: [RO 1996 2354](https://fedlex.data.admin.ch/eli/oc/1996/2354_2354_2354), [2003 3265](https://fedlex.data.admin.ch/eli/oc/2003/451),[2004 1039](https://fedlex.data.admin.ch/eli/oc/2004/113), [2007 4395](https://fedlex.data.admin.ch/eli/oc/2007/600), [2008 2177](https://fedlex.data.admin.ch/eli/oc/2008/317), [2013 1271](https://fedlex.data.admin.ch/eli/oc/2013/285), [2016 777](https://fedlex.data.admin.ch/eli/oc/2016/151), [2018 1725](https://fedlex.data.admin.ch/eli/oc/2018/255), [2020 2791](https://fedlex.data.admin.ch/eli/oc/2020/506). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-4]: [RO 1996 2354](https://fedlex.data.admin.ch/eli/oc/1996/2354_2354_2354); [2003 3265](https://fedlex.data.admin.ch/eli/oc/2003/451);[2004 1039](https://fedlex.data.admin.ch/eli/oc/2004/113); [2007 4395](https://fedlex.data.admin.ch/eli/oc/2007/600); [2008 2177](https://fedlex.data.admin.ch/eli/oc/2008/317); [2013 1271](https://fedlex.data.admin.ch/eli/oc/2013/285); [2016 777](https://fedlex.data.admin.ch/eli/oc/2016/151); [2018 1725](https://fedlex.data.admin.ch/eli/oc/2018/255); [2020 2791](https://fedlex.data.admin.ch/eli/oc/2020/506); [2021 112](https://fedlex.data.admin.ch/eli/oc/2021/112). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
