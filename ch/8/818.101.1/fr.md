@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-02-01
+version: 2021-02-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 1<sup>er</sup> février 2021)
+du 29 avril 2015 (Etat le 4 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -836,16 +836,19 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 <sup>1</sup>
 
-La Confédération prend en charge les coûts des vaccinations contre le COVID-19 effectuées par des pharmaciens pour les personnes qui:
+La Confédération prend en charge les coûts des vaccinations contre le COVID-19 effectuées par des pharmaciens pour les personnes qui font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020 par la Commission fédérale pour les vaccinations (CFV) et l’OFSP[^64a-2] et font partie dʼune des catégories de personnes suivantes:
 
-- a. sont assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-2], et qui
-- b. font partie d’un groupe cible au sens de la stratégie de vaccination adoptée le 16 décembre 2020 par la Commission fédérale pour les vaccinations (CFV) et l’OFSP[^64a-3].
+- a. personnes assurées au sens de l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64a-3];
+- b. personnes assurées contre les maladies au sens de la loi fédérale du 19 juin 1992 sur lʼassurance militaire (LAM)[^64a-4];
+- c. personnes qui ne font partie d’aucune des catégories visées aux let. a et b, mais qui:
+- 1\. sont domiciliées ou ont leur résidence habituelle en Suisse, ou
+- 2\. exercent une activité professionnelle en Suisse en tant que travailleurs frontaliers et qui, dans le cadre de leur activité, sont exposés à des micro-organismes.[^64a-5]
 
 <sup>2</sup>
 
 Les pharmaciens doivent:
 
-- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64a-4];
+- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64a-6];
 - b. avoir reçu un mandat du canton pour effectuer les vaccinations contre le COVID-19, et
 - c. remplir les exigences du canton concernant l’utilisation du logiciel prescrit pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
 
@@ -864,9 +867,11 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 <sup>5</sup> Les pharmaciens ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
 [^64a-1]: Introduit par le ch. I de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-3]: Consultable sous www.ofsp.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
-[^64a-4]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
+[^64a-2]: Consultable sous www.ofsp.admin.ch &gt; Maladies &gt; Maladies infectieuses: flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+[^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64a-5]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64a-6]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
 
 #### Art. 64b
 
@@ -932,7 +937,9 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 
 <sup>6</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
 
-[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+<sup>7</sup> L’art. 64*b* s’applique par analogie à la procédure pour la prise en charge des coûts des vaccinations contre le COVID-19.
+
+[^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur du 4 janv. 2021 au 31 déc. 2021, al. 7, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Consultable sous www.ofsp.admin.ch &gt; Maladies&gt; Maladies infectieuses : Flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19

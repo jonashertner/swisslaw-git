@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-02-01
+version: 2021-02-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 1. Februar 2021)
+vom 29. April 2015 (Stand am 4. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -832,16 +832,22 @@ Insbesondere folgende Personen können prioritär berücksichtigt werden:
 
 <sup>1</sup>
 
-Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die:
+Der Bund übernimmt die Kosten von Covid-19-Impfungen, die von Apothekerinnen und Apothekern bei Personen durchgeführt werden, die einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020[^64a-2] und einer der folgenden Personenkategorien angehören:
 
-- a. nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64a-2] über die Krankenversicherung (KVG) versichert sind; und
-- b. einer Zielgruppe gemäss der Covid-19-Impfstrategie der Eidgenössischen Kommission für Impffragen (EKIF) und des BAG vom 16. Dezember 2020[^64a-3] angehören.
+- a. Personen, die nach Artikel 3 des Bundesgesetzes vom 18. März 1994[^64a-3] über die Krankenversicherung (KVG) versichert sind;
+- b. Personen, die nach dem Militärversicherungsgesetz vom 19. Juni 1992[^64a-4] (MVG) gegen Krankheit versichert sind;
+- c.
+
+  Personen, die keiner der Kategorien nach den Buchstaben a und b angehören, die aber:
+
+  - 1\. ihren Wohnsitz oder ihren gewöhnlichen Aufenthalt in der Schweiz haben, oder
+  - 2\. in der Schweiz als Grenzgängerinnen oder Grenzgänger erwerbstätig sind und durch ihre Tätigkeit einer Gefährdung durch Mikroorganismen ausgesetzt sind.[^64a-5]
 
 <sup>2</sup>
 
 Die Apothekerinnen und Apotheker müssen:
 
-- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-4] verfügen;
+- a. über einen Fähigkeitsausweis nach dem Fähigkeitsprogramm FPH Impfen und Blutentnahme vom 1. Dezember 2011[^64a-6] verfügen;
 - b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
 - c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
@@ -860,9 +866,11 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 <sup>5</sup> Die Apothekerinnen und Apotheker dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
 [^64a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-3]: Abrufbar unter: www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
-[^64a-4]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
+[^64a-2]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64a-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64a-5]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64a-6]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
 
 #### Art. 64b
 
@@ -914,12 +922,7 @@ Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 - a. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sind; und
 - b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-<sup>4</sup>
-
-Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
-
-- a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
-- b. Fr. 24.50 für Impfungen in Arztpraxen.[^64c-5]
+<sup>4</sup> Er übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
 
 <sup>5</sup>
 
@@ -933,11 +936,12 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 
 <sup>6</sup> Die Leistungserbringer dürfen den geimpften Personen im Rahmen der Impfung keine weiteren Kosten verrechnen.
 
-[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+<sup>7</sup> Für das Verfahren zur Übernahme der Kosten von Covid-19-Impfungen gilt Artikel 64*b* sinngemäss.
+
+[^64c-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Jan. 2021 bis zum 31. Dez. 2021, Abs. 7 in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
-[^64c-5]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 ### 3. Abschnitt: Warenverkehr
 

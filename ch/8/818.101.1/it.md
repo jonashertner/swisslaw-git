@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2021-02-01
+version: 2021-02-04
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210201/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 29 aprile 2015 (Stato 4 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -832,16 +832,22 @@ Possono essere considerati con priorità in particolare:
 
 <sup>1</sup>
 
-La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti su persone:
+La Confederazione assume i costi delle vaccinazioni anti-COVID-19 effettuate dai farmacisti su persone appartenenti a un gruppo target secondo la strategia di vaccinazione anti-COVID-19 della Commissione federale per le vaccinazioni (CFV) e dell’UFSP del 16 dicembre 2020[^64a-2] e a una delle categorie seguenti:
 
-- a. assicurate secondo l’articolo 3 della legge federale del 18 marzo 1994[^64a-2] sull’assicurazione malattie (LAMal); e
-- b. appartenenti a un gruppo target secondo la strategia di vaccinazione anti-COVID-19 della Commissione federale per le vaccinazioni (CFV) e dell’UFSP del 16 dicembre 2020[^64a-3].
+- a. persone assicurate secondo l’articolo 3 della legge federale del 18 marzo 1994[^64a-3] sull’assicurazione malattie (LAMal);
+- b. persone assicurate contro le malattie secondo la legge federale del 19 giugno 1992[^64a-4] sull’assicurazione militare (LAM);
+- c.
+
+  persone che non appartengono a nessuna delle categorie di cui alle lettere a e b, ma:
+
+  - 1\. hanno domicilio o dimora abituale in Svizzera, oppure
+  - 2\. esercitano un’attività lucrativa in Svizzera come frontalieri e a causa della loro attività sono soggette a un rischio di esposizione a microrganismi.[^64a-5]
 
 <sup>2</sup>
 
 I farmacisti devono:
 
-- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64a-4];
+- a. aver conseguito un certificato nel quadro del programma di formazione complementare FPH Vaccinazione e prelievo di sangue del 1° dicembre 2011[^64a-6];
 - b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
 - c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
 
@@ -860,9 +866,11 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 <sup>5</sup> I farmacisti non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
 [^64a-1]: Introdotto dal n. I dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
-[^64a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64a-3]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19
-[^64a-4]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
+[^64a-2]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19
+[^64a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
+[^64a-5]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+[^64a-6]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
 
 #### Art. 64b
 
@@ -928,7 +936,9 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 
 <sup>6</sup> I fornitori di prestazioni non possono addebitare alle persone vaccinate ulteriori costi nell’ambito della vaccinazione.
 
-[^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021, in vigore dal 4 gen. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
+<sup>7</sup> Alla procedura per l’assunzione dei costi delle vaccinazioni anti-COVID-19 si applica per analogia l’articolo 64*b*.
+
+[^64c-1]: Introdotto dal n. I dell’O del 3 feb. 2021, in vigore dal 4 gen. 2021 al 31 dic. 2021, cpv. 7 in vigore il 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19.
