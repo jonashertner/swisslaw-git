@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-01-18
-valid_until: 2021-02-03
-version_adopted: 2021-01-15
+version: 2021-02-04
+valid_until: 2021-02-24
+version_adopted: 2021-02-03
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2112/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2138/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2112/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 18.01.2021)
+du 18.12.2020 (état au 04.02.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -58,7 +58,7 @@ arrête:
 
 **Comptabilité par secteur**
 
-<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 3, 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 8, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d, 12, alinéas 1 et 1a ainsi que 13, alinéa 1 soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 50 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
+<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 3, 4, 6, alinéa 1, lettres a et b, 7, alinéa 1, lettre a, 8, alinéa 1, lettre a, 9, alinéa 2, lettres b et c, 10, alinéa 1, lettre d, 12, alinéas 1 et 1a ainsi que 13, alinéa 1 soit vérifié séparément pour certains ou plusieurs de leurs secteurs, pour autant que les secteurs concernés pris ensemble représentent plus de 25 pour cent du chiffre d'affaires de l'entreprise calculé conformément à l'article 3.
 
 #### Art. 3
 
@@ -185,7 +185,7 @@ arrête:
 - c qu'elle ne transfère pas les fonds qui lui sont accordés à une société du même groupe qui lui est liée directement ou indirectement et n’a pas son siège en Suisse; il lui est toutefois permis en particulier de s’acquitter d’obligations préexistantes de paiement d’intérêts et d’amortissements à l’intérieur d’un groupe;
 - d que le recul du chiffre d'affaires a entraîné des coûts fixes non couverts considérables.
 
-<sup>2</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter la garantie exigée à l'alinéa 1, lettre d.
+<sup>2</sup> Les entreprises particulièrement touchées au sens de l'article 4a ne sont pas tenues d'apporter la garantie exigée à l'alinéa 1, lettres b et d.
 
 ## 3 Étendue du soutien
 
@@ -193,11 +193,14 @@ arrête:
 
 **Choix du soutien et garantie concernant l'utilisation de la subvention**
 
-<sup>1</sup> Une entreprise peut choisir entre le soutien immédiat visé à l'article 12 et le cautionnement visé à l'article 13. Le cumul du soutien immédiat et du cautionnement est exclu.
+<sup>1</sup> Une entreprise peut choisir entre une forme de soutien immédiat visé à l'article 12 et le cautionnement visé à l'article 13. Le cumul du soutien immédiat et du cautionnement est exclu.
 
-<sup>2</sup> Au surplus, les dispositions de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^11-1] s'appliquent.
+<sup>1a</sup> Le versement d'un soutien immédiat à plusieurs reprises ou l'octroi de plusieurs cautionnements sont exclus. La reconsidération ou la révision au sens de l'article 56 de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^11-1] sont réservées.
 
-[^11-1]: RSB [641.1](https://www.belex.sites.be.ch/data/641.1/fr)
+<sup>2</sup> Au surplus, les dispositions de la loi du 16 septembre 1992 sur les subventions cantonales (LCSu)[^11-2] s'appliquent.
+
+[^11-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+[^11-2]: RSB [641.1](https://www.belex.sites.be.ch/data/641.1/fr)
 
 #### Art. 12
 
@@ -263,9 +266,7 @@ arrête:
 
 <sup>2</sup> La Direction de l'économie, de l'énergie et de l'environnement statue sur les recours contre les décisions sur opposition.
 
-<sup>3</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^17-1] s'appliquent.
-
-[^17-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
+<sup>3</sup> Au surplus, les dispositions de la LPJA s'appliquent.
 
 ## 5 Dispositions finales
 
@@ -288,6 +289,12 @@ arrête:
 ## T1 Disposition transitoire de la modification du 15.01.2021
 
 #### Art. T1-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T2 Disposition transitoire de la modification du 03.02.2021
+
+#### Art. T2-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 

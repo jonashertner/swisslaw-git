@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-01-18
-valid_until: 2021-02-03
-version_adopted: 2021-01-15
+version: 2021-02-04
+valid_until: 2021-02-24
+version_adopted: 2021-02-03
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2112/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2138/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2112/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 18.01.2021)
+vom 18.12.2020 (Stand 04.02.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -58,7 +58,7 @@ beschliesst:
 
 **Spartenrechnung**
 
-<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen nach den Artikeln 3, 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 8 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d, 12 Absätze 1 und 1a und 13 Absatz 1 für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 50 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
+<sup>1</sup> Unternehmen, deren Tätigkeitsbereiche durch Spartenrechnung klar abgegrenzt werden, können beantragen, dass die Anforderungen nach den Artikeln 3, 4, 6 Absatz 1 Buchstaben a und b, 7 Absatz 1 Buchstabe a, 8 Absatz 1 Buchstabe a, 9 Absatz 2 Buchstaben b und c, 10 Absatz 1 Buchstabe d, 12 Absätze 1 und 1a und 13 Absatz 1 für einzelne oder mehrere Sparten separat beurteilt werden, sofern die betroffenen Sparten zusammen mehr als 25 Prozent des gemäss Artikel 3 berechneten Unternehmensumsatzes ausmachen.
 
 #### Art. 3
 
@@ -185,7 +185,7 @@ beschliesst:
 - c es die ihm gewährten Mittel nicht an eine mit ihm direkt oder indirekt verbundene Gruppengesellschaft, die ihren Sitz nicht in der Schweiz hat, überträgt; zulässig ist jedoch insbesondere das Erfüllen vorbestehender ordentlicher Zins- und Amortisationszahlungspflichten innerhalb einer Gruppenstruktur,
 - d ihm aus dem Umsatzrückgang erhebliche ungedeckte Fixkosten resultierten.
 
-<sup>2</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen die Bestätigung gemäss Absatz 1 Buchstabe d nicht erbringen.
+<sup>2</sup> Besonders betroffene Unternehmen gemäss Artikel 4a müssen die Bestätigung gemäss Absatz 1 Buchstabe b und d nicht erbringen.
 
 ## 3 Umfang der Unterstützung
 
@@ -193,11 +193,14 @@ beschliesst:
 
 **Wahl der Unterstützung und Beitragssicherung**
 
-<sup>1</sup> Ein Unternehmen kann zwischen der Sofortunterstützung gemäss Artikel 12 oder der Bürgschaft gemäss Artikel 13 wählen. Sofortunterstützung und Bürgschaft kann nicht kumuliert werden.
+<sup>1</sup> Ein Unternehmen kann zwischen einer Form der Sofortunterstützung gemäss Artikel 12 oder der Bürgschaft gemäss Artikel 13 wählen. Sofortunterstützung und Bürgschaft kann nicht kumuliert werden.
 
-<sup>2</sup> Im Übrigen gelten die Bestimmungen des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^11-1].
+<sup>1a</sup> Die mehrfache Ausrichtung von Sofortunterstützung oder die mehrfache Gewährung von Bürgschaften ist ausgeschlossen. Die Wiedererwägung oder die Wiederaufnahme gemäss Artikel 56 des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^11-1] bleibt vorbehalten.
 
-[^11-1]: BSG [641.1](https://www.belex.sites.be.ch/data/641.1/de)
+<sup>2</sup> Im Übrigen gelten die Bestimmungen des Staatsbeitragsgesetzes vom 16. September 1992 (StBG)[^11-2].
+
+[^11-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+[^11-2]: BSG [641.1](https://www.belex.sites.be.ch/data/641.1/de)
 
 #### Art. 12
 
@@ -263,9 +266,7 @@ beschliesst:
 
 <sup>2</sup> Beschwerden gegen Einspracheentscheide beurteilt die Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>3</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^17-1].
-
-[^17-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
+<sup>3</sup> Im Übrigen gelten die Vorschriften des VRPG.
 
 ## 5 Schlussbestimmungen
 
@@ -288,6 +289,12 @@ beschliesst:
 ## T1 Übergangsbestimmung der Änderung vom 15.01.2021
 
 #### Art. T1-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T2 Übergangsbestimmung der Änderung vom 03.02.2021
+
+#### Art. T2-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 
