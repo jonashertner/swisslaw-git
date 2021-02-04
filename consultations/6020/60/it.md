@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge federale sull'assicurazione malattie (riduzione dei premi) come controprogetto indiretto all'iniziativa popolare federale «Al massimo il 10 per cento del reddito per i premi delle casse malati (Iniziativa per premi meno onerosi)»"
 document: Avamprogetto
 language: it

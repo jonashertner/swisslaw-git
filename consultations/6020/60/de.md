@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung des Bundesgesetzes über die Krankenversicherung (Prämienverbilligung) als indirekter Gegenvorschlag zur eidgenössischen Volksinitiative «Maximal 10% des Einkommens für die Krankenkassenprämien (Prämien-Entlastungs-Initiative)»"
 document: Vorlage
 language: de

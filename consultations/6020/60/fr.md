@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur l'assurance-maladie (LAMal) à titre de contre-projet indirect à l'initiative populaire fédérale «Maximum 10% du revenu pour les primes d'assurance-maladie (initiative d'allègement des primes)»"
 document: Projet
 language: fr
