@@ -3,20 +3,20 @@ canton: ZG
 number: "612.141"
 title: Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 language: de
-version: 2020-12-05
-valid_until: 2021-02-05
-version_adopted: 2020-12-01
+version: 2021-02-06
+valid_until: 2021-04-09
+version_adopted: 2021-02-01
 adopted: 2020-05-18
 in_force: 2020-05-19
 url: "https://bgs.zg.ch/app/de/texts_of_law/612.141"
-pdf: "https://bgs.zg.ch/api/de/versions/2174/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Beurteilung von Gesuchen zu Unterstützungsmassnahmen im Bereich Sport gemäss Verordnung zur Äufnung des Lotteriefonds und des Sportfonds in Folge des Coronavirus (COVID-19-Lotterie- und Sportfondsverordnung)
 
-Vom 18. Mai 2020 (Stand 5. Dezember 2020)
+Vom 18. Mai 2020 (Stand 6. Februar 2021)
 
 Die Gesundheitsdirektion des Kantons Zug,
 
@@ -53,7 +53,7 @@ beschliesst:
 
 **Gesuchseingabe**
 
-<sup>1</sup> Gesuche um Soforthilfe können bis zum 20. September 2020 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport aufgeschaltet ist, einzureichen.
+<sup>1</sup> Gesuche um Soforthilfe können bis zum 31. Dezember 2021 eingereicht werden. Sie sind elektronisch mittels Formular, das auf der Website des Amtes für Sport aufgeschaltet ist, einzureichen.
 
 #### § 5
 
@@ -75,6 +75,8 @@ beschliesst:
 
 <sup>4</sup> Zuständig für Beiträge bis zu 20 000 Franken ist der Direktionsvorsteher. Zuständig für Beiträge über 20 000 Franken ist der Regierungsrat.
 
+<sup>5</sup> Der Antragssteller bzw. die Antragsstellerin weist die Unterstützungsbeiträge in Folge des Coronavirus (COVID-19) in der Erfolgsrechung aus.
+
 #### § 7
 
 **Anspruchsberechtigung**
@@ -86,7 +88,7 @@ beschliesst:
 - c) die Organisation innerhalb der vergangenen fünf Jahre mindestens einmal einen Unterstützungsbeitrag der öffentlichen Hand erhalten hat (Sportfonds- bzw. Lotteriefondsbeiträge durch das Amt für Sport und Gesundheitsförderung); und
 - d) der Finanzbedarf mindestens 1000 Franken beträgt.
 
-<sup>2</sup> Grundsätzlich gelten für alle Anträge von Sportvereinen und -verbänden, dass sie – analog zum Unterstützungsprogramm für Zuger Unternehmen im Zusammenhang mit dem Coronavirus – vor Ausbruch der Krise nicht bereits in finanziellen Schwierigkeiten waren.
+<sup>2</sup> …
 
 #### § 8
 
