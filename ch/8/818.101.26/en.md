@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210208-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210208/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 1 February 2021)
+of 19 June 2020 (Status as of 8 February 2021)
 
 The Swiss Federal Council,
 
@@ -124,6 +124,75 @@ All persons in the following public areas must wear a face mask:
 [^3c-5]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
+## Section 2*a***** Measures relating to Contact Quarantine and Isolation
+
+[^sec2a-1]
+
+[^sec2a-1]: Inserted by No I of the O of 27 Jan. 2021 (Contact Quarantine and Isolation), in force since 8 Feb. 2021 ([AS 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+
+#### Art. 3d
+
+**Ordering contact quarantine**
+
+<sup>1</sup>
+
+The responsible cantonal authority shall place into quarantine persons who within the periods specified below have had close contact with:
+
+- a. a person whose infection with Sars-CoV-2 has been confirmed or is probable and who is displaying symptoms: from 48 hours before the symptoms began until 10 days thereafter;
+- b. a person whose infection with Sars-CoV-2 has been confirmed but who is asymptomatic: from 48 hours before the person was tested until the person goes into isolation.
+
+<sup>2</sup>
+
+The following persons are exempted from contact quarantine:
+
+- a. persons who within the three months prior to having close contact with one of the persons under paragraph 1 were infected with and have recovered from Sars-CoV-2 and who have been permitted by the responsible cantonal authority to leave isolation;
+- b. persons who carry out an activity that is of high importance to society and for which there is an acute shortage of staff.
+
+<sup>3</sup> The responsible cantonal authority may in justified cases authorise additional exemptions from or relaxations of the regulations on contact quarantine for specific persons. It shall notify the FOPH of such exemptions and relaxations.
+
+#### Art. 3e
+
+**Duration and early termination of contact quarantine**
+
+<sup>1</sup> Contact quarantine shall last for 10 days from the time of last close contact with the person under Article 3*d* paragraph 1.
+
+<sup>2</sup>
+
+Persons in contact quarantine may leave quarantine early if:
+
+- a.
+
+  they provide the responsible cantonal authority with proof of a negative result for one of the following tests carried out at their own expense on or after the seventh day of quarantine:
+
+  - 1\. a molecular-biological test for Sars-CoV-2,
+  - 2\. a Sars-CoV-2-rapid test; and
+
+- b. the responsible cantonal authority agrees to the early termination of quarantine.
+
+<sup>3</sup> Persons who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
+
+#### Art. 3f
+
+**Isolation**
+
+<sup>1</sup> The responsible cantonal authority shall order persons who are suffering from COVID-19 or who have been infected with Sars-CoV-2 to isolate for 10 days.
+
+<sup>2</sup> If a person displays particularly serious symptoms or if he or she suffers from severe immunosuppression, the responsible cantonal authority may order a longer period in isolation.
+
+<sup>3</sup>
+
+The period in isolation begins:
+
+- a. on the day that symptoms begin;
+- b. if the person suffering from COVID-19 or infected with Sars-CoV-2 is asymptomatic: on the day the test is carried out.
+
+<sup>4</sup>
+
+The responsible cantonal authority shall terminate isolation after 10 days at the earliest, provided the person in isolation:
+
+- a. has been symptom-free for at least 48 hours; or
+- b. continues to display symptoms but these are such that the continuation of isolation is no longer justified.
+
 ## Section 3 Measures relating to Publicly Accessible Establishments, Businesses and Events
 
 #### Art. 4
@@ -153,7 +222,7 @@ The precautionary measures plan must meet the following requirements:
 
 <sup>1</sup> If contact details are recorded in accordance with Annex 1 number 4, the persons concerned must be informed about the recording and its purpose. If the contact details are already known, as in the case of education and training institutions or private events, the persons concerned must be informed that their details may be used for this purpose.
 
-<sup>2</sup> The contact details must on request be passed on in electronic form without delay to the competent cantonal authority or organisation in accordance with Article 33 EpidA for the purpose of identifying and notifying persons who may have been infected.[^5-1]
+<sup>2</sup> The contact details must on request be passed on in electronic form without delay to the responsible cantonal authority or organisation in accordance with Article 33 EpidA for the purpose of identifying and notifying persons who may have been infected.[^5-1]
 
 <sup>3</sup> The contact details recorded may not be used for any other purposes, must be retained for 14 days after the persons concerned participated in the event or visited the establishment or business, and must be destroyed immediately thereafter.
 
@@ -220,7 +289,7 @@ The precautionary measures plan must have rules on the following in particular:
 
 <sup>1</sup> A ski area is defined as the entirety of transport installations pertaining to an operator, including the related ski slopes, sledge runs and other snow sports facilities.
 
-<sup>2</sup> Ski area operators require authorisation from the competent cantonal authority.
+<sup>2</sup> Ski area operators require authorisation from the responsible cantonal authority.
 
 <sup>3</sup>
 
@@ -471,7 +540,7 @@ The following applies to the activities that involve singing:[^6f-5]
 
 <sup>1</sup>
 
-The competent cantonal authority may authorise a relaxation of the requirements under Article 4 paragraphs 2–4 and Articles 5–6*f* provided:[^7-1]
+The responsible cantonal authority may authorise a relaxation of the requirements under Article 4 paragraphs 2–4 and Articles 5–6*f* provided:[^7-1]
 
 - a. overriding public interests so require;
 - [tab] a<sup>bis</sup>.[^7-2]the epidemiological situation in the canton or the region concerned permits this based on the indicators specified in Article 8 paragraph 1 letter a; and
@@ -522,10 +591,10 @@ The canton shall take additional measures under Article 40 EpidA if:
 
 The operator and organisers must:
 
-- a. submit their precautionary measures plan to the competent cantonal authorities if requested to do so;
-- b. allow the competent cantonal authorities access to the establishments, businesses or events.
+- a. submit their precautionary measures plan to the responsible cantonal authorities if requested to do so;
+- b. allow the responsible cantonal authorities access to the establishments, businesses or events.
 
-<sup>1bis</sup> The competent cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans, in particular in winter sports resorts and ski areas.[^9-1]
+<sup>1bis</sup> The responsible cantonal authorities shall conduct regularly checks on compliance with the precautionary measures plans, in particular in winter sports resorts and ski areas.[^9-1]
 
 <sup>2</sup> If they establish that no adequate precautionary measures plan has been drawn up or that a plan has not been implemented or only in part, they shall take appropriate measures immediately. They may issue reminders, close down establishments or businesses or prohibit or break up events.[^9-2]
 
@@ -630,9 +699,9 @@ The following Ordinances are amended as follows:
 
 **Transitional provisions to the Amendment of 4 December 2020**[^14a-1]
 
-<sup>1</sup> Ski area operators that have already begun operations before 9 December 2020 and wish to continue or that wish to begin operations before 22 December 2020 must submit their precautionary measures plan under Article 5*c* paragraph 4 to the competent cantonal authority by 11 December 2020.
+<sup>1</sup> Ski area operators that have already begun operations before 9 December 2020 and wish to continue or that wish to begin operations before 22 December 2020 must submit their precautionary measures plan under Article 5*c* paragraph 4 to the responsible cantonal authority by 11 December 2020.
 
-<sup>2</sup> If the precautionary measures plan is not submitted on time, operations are only permitted once the competent cantonal authority grants authorisation.
+<sup>2</sup> If the precautionary measures plan is not submitted on time, operations are only permitted once the responsible cantonal authority grants authorisation.
 
 <sup>3</sup> The cantonal authority shall decide within ten days of receiving the precautionary measures plan.
 

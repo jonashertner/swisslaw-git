@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 1. Februar 2021)
+vom 19. Juni 2020 (Stand am 8. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -121,6 +121,75 @@ Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske
 [^3c-4]: Fassung gemäss Ziff. I der V vom 4. Dez. 2020 (Besondere Regelungen für die Festtage und die Wintersportorte), in Kraft seit 9. Dez. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+
+## 2*a*. Abschnitt:**** Massnahmen betreffend die Kontaktquarantäne und die Absonderung
+
+[^sec2a-1]
+
+[^sec2a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Kontaktquarantäne und Absonderung), in Kraft seit 8. Febr. 2021 ([AS 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+
+#### Art. 3d
+
+**Anordnung der Kontaktquarantäne**
+
+<sup>1</sup>
+
+Die zuständige kantonale Behörde stellt Personen unter Kontaktquarantäne, die in einem der folgenden Zeiträume engen Kontakt hatten mit:
+
+- a. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt oder wahrscheinlich ist und die symptomatisch ist: in den letzten 48 Stunden vor dem Auftreten der Symptome und bis 10 Tage danach;
+- b. einer Person, deren Ansteckung mit Sars-CoV-2 bestätigt ist und die asymptomatisch ist: in den letzten 48 Stunden vor der Probenentnahme und bis zur Absonderung der Person.
+
+<sup>2</sup>
+
+Von der Kontaktquarantäne ausgenommen sind Personen:
+
+- a. die sich innerhalb der letzten drei Monate vor dem engen Kontakt mit einer der Personen nach Absatz 1 mit Sars-CoV-2 angesteckt haben und als geheilt gelten und bei denen die zuständige kantonale Behörde die Absonderung aufgehoben hat;
+- b. die eine Tätigkeit ausüben, die für die Gesellschaft von grosser Bedeutung ist und bei der ein akuter Personalmangel herrscht.
+
+<sup>3</sup> Die zuständige kantonale Behörde kann in begründeten Fällen für bestimmte Personen weitere Ausnahmen von der Kontaktquarantäne bewilligen oder Erleichterungen gewähren. Sie informiert das BAG über solche Ausnahmen oder Erleichterungen.
+
+#### Art. 3e
+
+**Dauer und vorzeitige Beendigung der Kontaktquarantäne**
+
+<sup>1</sup> Die Kontaktquarantäne dauert 10 Tage ab dem Zeitpunkt des letzten engen Kontakts mit der Person nach Artikel 3*d* Absatz 1.
+
+<sup>2</sup>
+
+Personen in Kontaktquarantäne können die Quarantäne vorzeitig beenden, wenn:
+
+- a.
+
+  sie der zuständigen kantonalen Behörde das negative Resultat einer der folgenden auf eigene Kosten durchgeführten Analysen vorlegen, wobei die Analyse frühestens am siebten Tag der Quarantäne durchgeführt worden sein darf:
+
+  - 1\. molekularbiologische Analyse auf Sars-CoV-2,
+  - 2\. Sars-CoV-2-Schnelltest; und
+
+- b. die zuständige kantonale Behörde der vorzeitigen Beendigung der Quarantäne zustimmt.
+
+<sup>3</sup> Personen, die nach Absatz 2 die Kontaktquarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
+
+#### Art. 3f
+
+**Absonderung**
+
+<sup>1</sup> Die zuständige kantonale Behörde ordnet bei Personen, die an Covid-19 erkrankt sind oder sich mit Sars-CoV-2 angesteckt haben, eine Absonderung von 10 Tagen an.
+
+<sup>2</sup> Zeigt die Person besonders schwere Symptome oder ist sie stark immunsupprimiert, so kann die zuständige kantonale Behörde eine längere Dauer der Absonderung anordnen.
+
+<sup>3</sup>
+
+Die Absonderungsdauer beginnt zu laufen:
+
+- a. am Tag des Auftretens von Symptomen;
+- b. sofern die an Covid-19 erkrankte oder mit Sars-CoV-2 angesteckte Person asymptomatisch ist: am Tag der Durchführung des Tests.
+
+<sup>4</sup>
+
+Die zuständige kantonale Behörde hebt die Absonderung frühestens nach 10 Tagen auf, wenn die abgesonderte Person:
+
+- a. seit mindestens 48 Stunden symptomfrei ist; oder
+- b. zwar weiterhin Symptome aufweist, diese aber derart sind, dass die Aufrechterhaltung der Absonderung nicht mehr gerechtfertigt ist.
 
 ## 3. Abschnitt: Massnahmen betreffend öffentlich zugängliche Einrichtungen und Betriebe sowie Veranstaltungen
 
@@ -656,7 +725,7 @@ Die nachstehenden Verordnungen werden wie folgt geändert:
 [^15-2]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen) ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)). Aufgehoben durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), mit Wirkung seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^15-3]: Eingefügt durch Ziff. I der V vom 2. Sept. 2020 (Grossveranstaltungen) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)). Aufgehoben durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), mit Wirkung seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 4 Abs. 3 und 5 Abs. 1)
 
@@ -761,7 +830,7 @@ Anhang 1*[^t-1]*
 - 4\.6 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
 - [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 5e Abs. 2 Bst. a und e)
 

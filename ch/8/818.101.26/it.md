@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 19 giugno 2020 (Stato 8 febbraio 2021) (Stato 8 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -121,6 +121,75 @@ Chiunque deve portare una mascherina facciale nei seguenti settori dello spazio 
 [^3c-4]: Nuovo testo giusta il n. I dell’O del 4 dic. 2020 (Disposizioni particolari per i giorni festivi e le località di sport invernali), in vigore dal 9 dic. 2020 ([RU 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori), in vigore dal 29 ott. 2020 ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+
+## Sezione 2*a*:**** Provvedimenti concernenti la quarantena dei contatti e l’isolamento
+
+[^sec2a-1]
+
+[^sec2a-1]: Introdotta dal n. I dell’O del 27 gen. 2021 (Quarantena dei contatti e isolamento), in vigore dall’8 feb. 2021 ([RU 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+
+#### Art. 3d
+
+**Ordine della quarantena dei contatti**
+
+<sup>1</sup>
+
+L’autorità cantonale competente sottopone alla quarantena dei contatti le persone che in una delle circostanze temporali seguenti hanno avuto un contatto stretto con:
+
+- a. un caso di contagio con il SARS-CoV-2 confermato o probabile e sintomatico: nelle 48 ore prima della comparsa dei sintomi e fino a dieci giorni dopo;
+- b. un caso di contagio con il SARS-CoV-2 confermato e asintomatico: nelle 48 ore prima del prelievo del campione e fino all’isolamento della persona.
+
+<sup>2</sup>
+
+Sono esentate dalla quarantena dei contatti le persone che:
+
+- a. negli ultimi tre mesi prima del contatto stretto di cui al capoverso 1 sono state contagiate dal SARS-CoV-2 e sono considerate guarite, e per le quali l’autorità cantonale competente ha revocato l’isolamento;
+- b. svolgono un’attività che è di grande importanza per la società e per la quale vi è una grave mancanza di personale.
+
+<sup>3</sup> In casi motivati l’autorità cantonale competente può autorizzare altre deroghe alla quarantena dei contatti per determinate persone oppure concedere agevolazioni. Informa l’UFSP di queste deroghe e agevolazioni.
+
+#### Art. 3e
+
+**Durata e conclusione anticipata della quarantena dei contatti**
+
+<sup>1</sup> La quarantena dei contatti dura dieci giorni a decorrere dall’ultimo contatto stretto avuto con una persona di cui all’articolo 3*d* capoverso 1.
+
+<sup>2</sup>
+
+Le persone sottoposte alla quarantena dei contatti possono concluderla anticipatamente se:
+
+- a.
+
+  presentano all’autorità cantonale competente il risultato negativo di una delle seguenti analisi eseguite a proprie spese, purché l’analisi sia stata eseguita a partire dal settimo giorno di quarantena:
+
+  - 1\. analisi di biologia molecolare per il SARS-CoV-2,
+  - 2\. test rapidi per il SARS-CoV-2; e
+
+- b. l’autorità cantonale competente acconsente alla conclusione della quarantena.
+
+<sup>3</sup> Le persone che concludono anticipatamente la quarantena dei contatti secondo il capoverso 2 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
+
+#### Art. 3f
+
+**Isolamento**
+
+<sup>1</sup> L’autorità cantonale competente ordina un isolamento di dieci giorni alle persone malate di COVID-19 o contagiate dal SARS-CoV-2.
+
+<sup>2</sup> Se la persona mostra sintomi particolarmente gravi o soffre di una grave immunosoppressione, l’autorità cantonale competente può ordinare un isolamento più lungo.
+
+<sup>3</sup>
+
+L’isolamento inizia a decorrere:
+
+- a. il giorno in cui si manifestano i sintomi;
+- b. se la persona ammalata di COVID-19 o contagiata dal SARS-CoV-2 è asintomatica: il giorno in cui si è sottoposta al test.
+
+<sup>4</sup>
+
+L’autorità cantonale competente revoca l’isolamento al più presto dopo dieci giorni se la persona in isolamento:
+
+- a. è priva di sintomi per almeno 48 ore; o
+- b. continua a presentare sintomi, ma di entità tale da non giustificare più la prosecuzione dell’isolamento.
 
 ## Sezione 3: Provvedimenti concernenti le strutture accessibili al pubblico e le manifestazioni
 

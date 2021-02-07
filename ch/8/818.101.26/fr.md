@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210201/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> février 2021)
+du 19 juin 2020 (Etat le 8 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -121,6 +121,75 @@ Toute personne est tenue de porter un masque dans les domaines suivants de l’e
 [^3c-4]: Nouvelle teneur selon le ch. I de l’O du 4 déc. 2020 (Réglementations particulières concernant les fêtes de fin d’année et les stations de sports d’hiver), en vigueur depuis le 9 déc. 2020 ([RO 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
+
+## Section 2*a***** Mesures de quarantaine-contact et d’isolement
+
+[^sec2a-1]
+
+[^sec2a-1]: Introduite par le ch. I de l’O du 27 janv. 2021 (Quarantaine-contact et isolement), en vigueur depuis le 8 fév. 2021 ([RO 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
+
+#### Art. 3d
+
+**Ordre de quarantaine-contact**
+
+<sup>1</sup>
+
+L’autorité cantonale compétente met en quarantaine les personnes qui ont été en contact étroit (quarantaine-contact):
+
+- a. avec une personne dont l’infection au SARS-CoV-2 est confirmée ou probable et symptomatique: les 48 heures précédant l’apparition des symptômes et les 10 jours qui suivent;
+- b. avec une personne dont l’infection au SARS-CoV-2 est confirmée et asymptomatique: les 48 heures précédant le prélèvement de l’échantillon et jusqu’à l’isolement de celle-ci.
+
+<sup>2</sup>
+
+Sont exemptées de la quarantaine-contact les personnes:
+
+- a. qui ont contracté le SARS-CoV-2 au cours des trois derniers mois avant d’avoir eu un contact étroit avec une personne au sens de l’al. 1 et sont considérées comme guéries, et pour lesquelles l’autorité cantonale compétente a levé l’isolement;
+- b. dont l’activité revêt une grande importance pour la société, et ce dans un secteur marqué par une grave pénurie de personnel.
+
+<sup>3</sup> L’autorité cantonale compétente peut, dans des cas justifiés, autoriser d’autres dérogations à la quarantaine-contact ou décider d’autres allègements pour certaines personnes. Elle en informe l’OFSP.
+
+#### Art. 3e
+
+**Durée et fin anticipée de la quarantaine-contact**
+
+<sup>1</sup> La quarantaine-contact dure 10 jours à compter du dernier jour où les personnes ont été en contact étroit avec une personne au sens de l’art. 3*d*, al. 1.
+
+<sup>2</sup>
+
+Les personnes en quarantaine-contact peuvent mettre fin à leur quarantaine de manière anticipée si:
+
+- a.
+
+  elles présentent à l’autorité cantonale compétente le résultat négatif d’une analyse effectuée à leurs propres frais; l’analyse peut avoir lieu au plus tôt le septième jour de la quarantaine au moyen:
+
+  - 1\. d’une analyse de biologie moléculaire pour le SARS-CoV-2, ou
+  - 2\. d’un test rapide pour le SARS-CoV-2, et que
+
+- b. l’autorité cantonale compétente donne son accord à la fin anticipée de la quarantaine.
+
+<sup>3</sup> Les personnes qui mettent fin à leur quarantaine de manière anticipée en vertu de l’al. 2 doivent, jusqu’à la date à laquelle la quarantaine était fixée, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
+
+#### Art. 3f
+
+**Isolement**
+
+<sup>1</sup> L’autorité cantonale compétente ordonne une période d’isolement de 10 jours pour les personnes atteintes du COVID-19 ou qui ont contracté le SARS-CoV-2.
+
+<sup>2</sup> Elle peut ordonner une période d’isolement plus longue si la personne présente des symptômes particulièrement sévères ou une forte immunosuppression.
+
+<sup>3</sup>
+
+L’isolement commence:
+
+- a. le jour de l’apparition des symptômes;
+- b. dans le cas des personnes atteintes du COVID-19 ou qui ont contracté le SARS-CoV-2 et asymptomatiques: le jour du test.
+
+<sup>4</sup>
+
+L’autorité cantonale compétente lève l’isolement au plus tôt après 10 jours si la personne:
+
+- a. est sans symptôme durant au moins 48 heures, ou
+- b. présente encore des symptômes, mais que ceux-ci sont tels que le maintien de l’isolement n’est plus justifié.
 
 ## Section 3 Mesures visant les installations, les établissements et les manifestations accessibles au public
 
