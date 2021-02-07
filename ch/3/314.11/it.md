@@ -4,11 +4,11 @@ title: Ordinanza del 16 gennaio 2019 concernente le multe disciplinari (OMD)
 short: OMD
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: it
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210201/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/it"
 
 (OMD)
 
-del 16 gennaio 2019 (Stato 1° febbraio 2021) (Stato 1° febbraio 2021)
+del 16 gennaio 2019 (Stato 8 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -596,7 +596,7 @@ Allegato 2*[^t-2]*
 
 ## Elenco delle multe 2
 
-[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dal n. II dell’O del del 16 apr. 2020 ([RU 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), dall’art. 14 n. 1 dell’O del COVID-19 situazione particolare del 19 giu. 2020 ([RU 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)) e dall’all. dell’O del 27 gen. 2021, in vigore dal 1° feb. 2021 al 31 dic. 2021, n. 16004 e 16005 fino al 28 feb. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
+[^t-2]: Aggiornato dalla correzione del 19 nov. 2019 ([RU 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), dal n. II dell’O del del 16 apr. 2020 ([RU 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), dall’art. 14 n. 1 dell’O del COVID-19 situazione particolare del 19 giu. 2020 ([RU 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)), dall’all. dell’O del 27 gen. 2021, in vigore, per n. 16004 e 16005, fino al 28 feb. 2021 ([RU 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)) e dall’all. 2 n. 1 dell’O del COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori), in vigore dall’8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 ### Contravvenzioni secondo gli altri atti normativi
 
@@ -732,6 +732,9 @@ Allegato 2*[^t-2]*
 <tr><td>16004. Partecipazione a un assembramento nello spazio pubblico con più di cinque persone o con un numero di persone superiore a quello massimo stabilito a livello cantonale (art. 13 lett. g in combinato disposto con l’art. 3*c* cpv. 1 e l’art. 8 cpv. 1 ordinanza COVID-19 situazione particolare)</td><td>[tab] 50</td></tr>
 <tr><td>16005. Violazione dell’obbligo, in qualità di ospite, di stare seduti nelle strutture della ristorazione o nei bar riservati agli ospiti dell’albergo (art. 13 lett. h in combinato disposto con l’art. 5*a* cpv. 2 lett. d n. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
 <tr><td>16006. Omissione di portare una mascherina facciale a una manifestazione politica o a una raccolta di firme (art. 13 lett. i in combinato disposto con l’art. 6*c* cpv. 2 ordinanza COVID-19 situazione particolare)</td><td>[tab] 100</td></tr>
+<tr><td>**XVII.** **Legge del 28 settembre 2012**[^annex2-lvlu1-lvlu1-26] **sulle epidemie (LEp) in combinato disposto con l’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori del 27 gennaio 2021**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
+<tr><td>17001. Mancata attestazione di un’analisi di biologia molecolare per il SARS-CoV-2 con risultato negativo all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp in combinato disposto con l’art. 7 cpv. 1 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)</td><td>[tab] 200</td></tr>
+<tr><td>[tab] 17002. Dati di contatto errati o mancanti all’entrata in Svizzera (art. 83 cpv. 1 lett. k LEp e art. 3 cpv. 1 e 2 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)</td><td>[tab] 100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -759,6 +762,8 @@ Allegato 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-23]: O del 24 nov. 1993 concernente la legge federale sulla pesca ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384)).
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex2-lvlu1-lvlu1-26]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-27]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Allegato 3
 

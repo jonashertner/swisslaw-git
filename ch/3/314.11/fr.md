@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 1<sup>er</sup> février 2021)
+du 16 janvier 2019 (Etat le 8 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -593,7 +593,7 @@ Annexe 2*[^t-2]*
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)) et du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), le ch. II de l’O du 16 avr. 2020 ([RO 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), l’erratum du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’art. 14 ch. 1 de l’O du 19 juin 2020 (Ordonnance COVID-19 situation particulière) ([RO 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)) et l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021, les ch. 16004 et 16005 jusqu’au 28 fév. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)) .
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)) et du 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), le ch. II de l’O du 16 avr. 2020 ([RO 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), l’erratum du 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’art. 14 ch. 1 de l’O du 19 juin 2020 (Ordonnance COVID-19 situation particulière) ([RO 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021, les ch. 16004 et 16005 jusqu’au 28 fév. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)) et l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -729,6 +729,9 @@ Annexe 2*[^t-2]*
 <tr><td>16004. Participation à un rassemblement dans l’espace public de plus de 5 personnes ou dépassant le nombre maximal de personnes fixé par le canton (art. 13, let. g, en relation avec les art. 3*c*, al. 1, et 8, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 50</td></tr>
 <tr><td>16005. Infractions à l’obligation de consommer assis dans un établissement de restauration ou un bar réservé aux clients d’un hôtel (art. 13, let. h, en relation avec l’art. 5*a*, al. 2, let. d, ch. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16006. Infractions à l’obligation de porter un masque facial lors de la participation à une manifestation politique ou de la société civile ou à une récolte de signatures (art. 13, let. i, en relation avec l’art. 6*c*, al. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
+<tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp)**[^annex2-lvlu1-lvlu1-26]**, en relation avec l’ordonnance COVID-19 du 27 janvier 2021 mesures dans** **le domaine du transport international de voyageurs**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
+<tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 7, al. 1, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)</td><td>[tab] 200</td></tr>
+<tr><td>[tab] 17002. Fournir des coordonnées incomplètes ou erronées lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp et 3, al. 1 et 2, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)</td><td>[tab] 100</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -756,6 +759,8 @@ Annexe 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-23]: O du 24 novembre 1993 relative à la loi fédérale sur la pêche ([RS 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [RS 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^annex2-lvlu1-lvlu1-25]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex2-lvlu1-lvlu1-26]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-27]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Annexe 3
 

@@ -4,11 +4,11 @@ title: Ordnungsbussenverordnung vom 16. Januar 2019 (OBV)
 short: OBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: de
-version: 2021-02-01
+version: 2021-02-08
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210201/de"
 
 (OBV)
 
-vom 16. Januar 2019 (Stand am 1. Februar 2021)
+vom 16. Januar 2019 (Stand am 8. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -579,6 +579,7 @@ Anhang 1*[^t-1]*
 <tr><td>2. Behinderndes Benützen der für die Fussgänger bestimmten Verkehrsflächen (Art. 50 Abs. 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>3. Behinderndes Benützen der Fahrbahn verkehrsarmer Nebenstrassen (Art. 50 Abs. 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>4. Nichtbeachten des Signals «Verbot für fahrzeugähnliche Geräte» (2.15.3; Art. 19 Abs. 5 SSV)</td><td colspan="3">20</td></tr>
+<tr><td>[tab]</td><td colspan="3"></td></tr>
 <tr><td>5. Verwendung von fahrzeugähnlichen Geräten auf nicht zugelassenen Verkehrsflächen (Art. 50 Abs. 1 und 2 VRV)</td><td colspan="3">20</td></tr>
 <tr><td>6. Missachten des Vortritts der Fussgänger (Art. 50*a* Abs. 2 VRV)</td><td colspan="3">30</td></tr>
 </table>
@@ -598,7 +599,7 @@ Anhang 2*[^t-2]*
 
 ## Bussenliste 2
 
-[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Ziff. II der V vom 16. April 2020 (Einschränkung der Ein- und Ausfuhr von Waren) ([AS 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), Art. 14 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 ([AS 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)) und Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021, Ziff. 16004 und 16005 bis zum 28. Febr. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
+[^t-2]: Bereinigt gemäss Berichtigung vom 19. Nov. 2019 ([AS 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), Ziff. II der V vom 16. April 2020 (Einschränkung der Ein- und Ausfuhr von Waren) ([AS 2020 1245](https://fedlex.data.admin.ch/eli/oc/2020/238)), Art. 14 Ziff. 1 der Covid-19-Verordnung besondere Lage vom 19. Juni 2020 ([AS 2020 2213](https://fedlex.data.admin.ch/eli/oc/2020/439)), Anhang der V vom 27. Jan. 2021 (Erweiterung der Strafbestimmungen und Einführung des Ordnungsbussenverfahrens), in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021, Ziff. 16004 und 16005 bis zum 28. Febr. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)) und Anhang 2 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 ### Übertretungen nach den übrigen Erlassen
 
@@ -734,6 +735,7 @@ Anhang 2*[^t-2]*
 <tr><td>16004. Sich-Aufhalten in einer Menschenansammlung im öffentlichen Raum, die mehr als 5 Personen oder mehr als die kantonal festgelegte Höchstzahl an Personen umfasst (Art. 13 Bst. g i.V.m. Art. 3*c* Abs. 1 sowie Art. 8 Abs. 1 Covid-Verordnung besondere Lage)</td><td>[tab] 50</td></tr>
 <tr><td>16005. Verstoss als Gast gegen die Sitzpflicht in Restaurations- und Barbetrieben für Hotelgäste (Art. 13 Bst. h i.V.m. Art. 5*a* Abs. 2 Bst. d Ziff. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
 <tr><td>16006. Unbefugtes Nichttragen einer Gesichtsmaske an einer politischen oder zivilgesellschaftlichen Kundgebung oder einer Unterschriftensammlung (Art. 13 Bst. i i.V.m. Art. 6*c* Abs. 2 Covid-19-Verordnung besondere Lage)</td><td>[tab] 100</td></tr>
+<tr><td>**XVII.** **Epidemiengesetz vom 28. September 2012**[^annex2-lvlu1-lvlu1-26] **(EpG) i.V.m.** **Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Januar 2021**[^annex2-lvlu1-lvlu1-27] [tab] 17001. Fehlender Nachweis einer molekularbiologischen Analyse auf Sars-Cov-2 mit negativem Ergebnis bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG i.V.m. Art. 7 Abs. 1 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs) [tab] 200 [tab] 17002. Fehlende oder falsche Angaben der Kontaktdaten bei der Einreise in die Schweiz (Art. 83 Abs. 1 Bst. k EpG und Art. 3 Abs. 1 und 2 Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs) [tab] 100 [tab]</td><td>[tab]</td></tr>
 </table>
 
 [^annex2-lvlu1-lvlu1-1]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
@@ -761,6 +763,8 @@ Anhang 2*[^t-2]*
 [^annex2-lvlu1-lvlu1-23]: V vom 24. Nov. 1993 zum Bundesgesetz über die Fischerei ([SR 923.01](https://fedlex.data.admin.ch/eli/cc/1993/3384_3384_3384))
 [^annex2-lvlu1-lvlu1-24]: [SR 943.1](https://fedlex.data.admin.ch/eli/cc/2002/452)
 [^annex2-lvlu1-lvlu1-25]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex2-lvlu1-lvlu1-26]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
+[^annex2-lvlu1-lvlu1-27]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
 
 Anhang 3
 
