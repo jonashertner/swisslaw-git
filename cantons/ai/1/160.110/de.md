@@ -4,25 +4,25 @@ number: "160.110"
 title: Verordnung über das Initiativverfahren
 short: VIV
 language: de
-version: 2018-01-01
-corrected: 2019-02-11
-version_adopted: 2017-10-23
+version: 2021-02-08
+version_adopted: 2021-02-08
 adopted: 2017-10-23
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/160.110"
-pdf: "https://ai.clex.ch/api/de/versions/73/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/1901/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über das Initiativverfahren (VIV)
+# Verordnung über das Initiativverfahren
 
-vom 23. Oktober 2017
+(VIV)
+
+vom 23.10.2017 (Stand 08.02.2021)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 7bis Abs. 7 der Kantonsverfassung vom 24. Wintermonat 1872,
+gestützt auf Art. 7<sup>bis</sup> Abs. 7 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
@@ -42,15 +42,15 @@ beschliesst:
 
 **Ansprechperson**
 
-<sup>1</sup> Ist eine Initiative durch mehrere Personen unterzeichnet, gilt der oder die Erstunterzeichnende als Ansprechperson, es sei denn, die Initianten und Initiantinnen haben gegenüber der Ratskanzlei schriftlich eine andere Person als zuständig bezeichnet.
+<sup>1</sup> Ist eine Initiative durch mehrere Personen unterzeichnet, gilt der oder die Erstunterzeichnende als Ansprechperson, es sei denn, die Initiantinnen und Initianten haben gegenüber der Ratskanzlei schriftlich eine andere Person als zuständig bezeichnet.
 
 <sup>2</sup> Mitteilungen und Postzustellungen werden im Regelfall nur an die Ansprechperson vorgenommen und seitens der Ratskanzlei nur von dieser entgegengenommen.
 
 #### Art. 3
 
-**Stellung der Initianten**
+**Stellung der Initiantinnen und Initianten**
 
-<sup>1</sup> Die Initianten und Initiantinnen haben keinen Anspruch darauf, ihr Anliegen unmittelbar vor dem Büro, der Standeskommission oder dem Grossen Rat zu vertreten.
+<sup>1</sup> Die Initiantinnen und Initianten haben keinen Anspruch darauf, ihr Anliegen unmittelbar vor dem Büro, der Standeskommission oder dem Grossen Rat zu vertreten.
 
 <sup>2</sup> Sie erhalten die Anträge und Botschaften, welche dem Grossen Rat zugestellt werden.
 
@@ -68,15 +68,19 @@ beschliesst:
 
 #### Art. 5
 
-Inhaltliche Prü- <sup>1</sup>Die Standeskommission prüft die Initiative inhaltlich.
+**Inhaltliche Prüfung**
 
-fung <sup>2</sup>Sie stellt dem Grossen Rat Antrag zum Inhalt und zum Vorgehen.
+<sup>1</sup> Die Standeskommission prüft die Initiative inhaltlich.
+
+<sup>2</sup> Sie stellt dem Grossen Rat Antrag zum Inhalt und zum Vorgehen.
 
 <sup>3</sup> Sie kann dem Grossen Rat einen Gegenvorschlag zur Initiative unterbreiten.
 
 #### Art. 6
 
-Prüfung durch <sup>1</sup>Der Grosse Rat beschliesst zuerst über die Gültigkeit der Initiative und berät sie den Grossen Rat dann inhaltlich.
+**Prüfung durch den Grossen Rat**
+
+<sup>1</sup> Der Grosse Rat beschliesst zuerst über die Gültigkeit der Initiative und berät sie dann inhaltlich.
 
 <sup>2</sup> Ist die Initiative nur teilweise gültig, ist aber gleichzeitig davon auszugehen, dass sich mit dem gültigen Teil der Zweck der Initiative erfüllen lässt, ist die Initiative mit Bezug auf den gültigen Teil inhaltlich zu behandeln.
 
@@ -84,15 +88,19 @@ Prüfung durch <sup>1</sup>Der Grosse Rat beschliesst zuerst über die Gültigke
 
 #### Art. 7
 
-Regelungsstufe <sup>1</sup>Bei einer als allgemeine Anregung gefassten Initiative entscheidet der Grosse Rat darüber, ob die Regelung ganz oder teilweise in die Verfassung genommen wird oder in ein Gesetz.
+**Regelungsstufe**
 
-<sup>2</sup> Betrifft eine als allgemeine Anregung gefasste Initiative sowohl die Verfassungsals auch die Gesetzesebene, kann der Grosse Rat die Landsgemeinde zuerst über die erforderliche Verfassungsvorlage abstimmen lassen und die Gesetzes- sowie allfällige Verordnungsvorlagen erst nach der Verfassungsabstimmung ausarbeiten.
+<sup>1</sup> Bei einer als allgemeine Anregung gefassten Initiative entscheidet der Grosse Rat darüber, ob die Regelung ganz oder teilweise in die Verfassung genommen wird oder in ein Gesetz.
+
+<sup>2</sup> Betrifft eine als allgemeine Anregung gefasste Initiative sowohl die Verfassungs- als auch die Gesetzesebene, kann der Grosse Rat die Landsgemeinde zuerst über die erforderliche Verfassungsvorlage abstimmen lassen und die Gesetzes- sowie allfällige Verordnungsvorlagen erst nach der Verfassungsabstimmung ausarbeiten.
 
 <sup>3</sup> Mit einer ausformulierten Initiative kann nur die Änderung einer Regelungsstufe verlangt werden. Sind aufgrund dieser Änderung Anpassungen auf einer tieferen Regelungsstufe nötig, ist dafür das ordentliche Gesetzgebungsorgan zuständig.
 
 #### Art. 8
 
-Gegenvorschlag <sup>1</sup>Der Grosse Rat kann einen Gegenvorschlag machen.
+**Gegenvorschlag**
+
+<sup>1</sup> Der Grosse Rat kann einen Gegenvorschlag machen.
 
 <sup>2</sup> Der Gegenvorschlag muss in der gleichen Form an die Landsgemeinde gehen wie die Initiative, das heisst als allgemeine Anregung oder als ausformulierter Vorschlag.
 
@@ -102,19 +110,25 @@ Gegenvorschlag <sup>1</sup>Der Grosse Rat kann einen Gegenvorschlag machen.
 
 **Rückzug**
 
-<sup>1</sup> Lehnt der Grosse Rat eine Initiative ab, kann sie bis zum Beschluss des Grossen Rates über die Geschäftsordnung der Landsgemeinde zurückgezogen werden. Heisst er sie gut, ist ein Rückzug mit der Verabschiedung der Initiative zu Handen der Landsgemeinde nicht mehr möglich.
+<sup>1</sup> Lehnt der Grosse Rat eine Initiative ab, kann sie bis zum Beschluss des Grossen Rates über die Geschäftsordnung der Landsgemeinde zurückgezogen werden; wird über die Initiative oder einen allfälligen Gegenvorschlag an der Session entschieden, an der auch die Landsgemeindeordnung verabschiedet wird, kann sie noch innert sieben Tagen ab dieser Session zurückgezogen werden.
 
-<sup>2</sup> Der Rückzug ist schriftlich vorzunehmen. Ein bedingter oder teilweiser Rückzug ist nicht möglich.
+<sup>1a</sup> Heisst der Grosse Rat die Initiative gut, ist ein Rückzug mit der Verabschiedung der Initiative zu Handen der Landsgemeinde nicht mehr möglich.
+
+<sup>2</sup> Für den Rückzug gilt:
+
+- a) Er ist schriftlich vorzunehmen.
+- b) Ein bedingter oder teilweiser Rückzug ist nicht möglich.
+- c) Er muss bis zu den massgeblichen Beschlüssen des Grossen Rates oder innert der Frist von sieben Tagen bei der Ratskanzlei eingegangen sein.
 
 <sup>3</sup> Rückzugsberechtigt sind nur Personen, die zum Zeitpunkt des Rückzugs stimmberechtigt sind. Haben bis zum Zeitpunkt, bis zu dem eine Initiative zurückgezogen werden kann, alle Unterzeichnenden das Stimmrecht verloren, wird die Initiative abgeschrieben.
 
-<sup>4</sup> Mehrere Unterzeichnende einer Initiative können die Rückzugsberechtigung schriftlich vereinbaren. Fehlt eine solche Vereinbarung oder ist sie ungültig, kann die Initiative nur durch schriftliche Erklärung aller dannzumal stimmberechtigten Initianten und Initiantinnen vorgenommen werden.
+<sup>4</sup> Mehrere Unterzeichnende einer Initiative können die Rückzugsberechtigung schriftlich vereinbaren. Fehlt eine solche Vereinbarung oder ist sie ungültig, kann die Initiative nur durch schriftliche Erklärung aller dannzumal stimmberechtigten Initiantinnen und Initianten vorgenommen werden.
 
 #### Art. 10
 
 **Landsgemeindemandat**
 
-<sup>1</sup> Die Argumente der Initianten und Initiantinnen werden im Landsgemeindemandat angemessen berücksichtigt.
+<sup>1</sup> Die Argumente der Initiantinnen und Initianten werden im Landsgemeindemandat angemessen berücksichtigt.
 
 <sup>2</sup> Lange Begründungen können zusammenfassend wiedergegeben werden.
 
@@ -122,4 +136,6 @@ Gegenvorschlag <sup>1</sup>Der Grosse Rat kann einen Gegenvorschlag machen.
 
 **Inkrafttreten**
 
-Diese Verordnung tritt am 1. Januar 2018 in Kraft.
+<sup>1</sup> Diese Verordnung tritt am 1. Januar 2018 in Kraft.
+
+cGS -
