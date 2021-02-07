@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.12"
-title: "Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2020/21"
+title: "Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2021/22"
 language: fr
-version: 2020-01-14
-valid_until: 2021-02-07
-version_adopted: 2020-01-14
+version: 2021-02-08
+valid_until: 2022-01-10
+version_adopted: 2021-02-08
 adopted: 2026-01-13
 in_force: 2026-01-13
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.12"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6439/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6767/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2020/21
+# Ordonnance limitant le nombre d'admissions à la formation francophone à l'enseignement au secondaire II pour l'année académique 2021/22
 
 Formation à l'enseignement au secondaire II, nombre d'admissions – O
 
-du 14.01.2020 (version entrée en vigueur le 14.01.2020)
+du 08.02.2021 (version entrée en vigueur le 08.02.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -26,11 +26,11 @@ Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
 
 Considérant:
 
-En automne 2020, un nombre élevé d'inscriptions à la formation francophone à l'enseignement au secondaire II est une nouvelle fois attendu. Les collèges et le Centre d'enseignement et de recherche pour la formation à l'enseignement au secondaire (CERF) ne pourront assurer une formation de qualité que dans les limites de leur capacité d'accueil.
+En automne 2021, un nombre élevé d'inscriptions à la formation francophone à l'enseignement au secondaire II est une nouvelle fois attendu. Les collèges et le Centre d'enseignement et de recherche pour la formation à l'enseignement au secondaire (CERF) ne pourront assurer une formation de qualité que dans les limites de leur capacité d'accueil.
 
-C'est la raison pour laquelle le Rectorat de l'Université de Fribourg, par décision du 23 décembre 2019 et suivant la proposition du Conseil de la formation à l'enseignement au secondaire, a préavisé favorablement le recours à une limitation du nombre d'admissions à la formation à l'enseignement au secondaire II pour l'année académique 2020/21.
+C'est la raison pour laquelle le Rectorat de l'Université de Fribourg, par décision du 25 janvier 2021 et suivant la proposition du Conseil de la formation à l'enseignement au secondaire, a préavisé favorablement le recours à une limitation du nombre d'admissions à la formation à l'enseignement au secondaire II pour l'année académique 2021/22.
 
-Les critères de sélection demeurent inchangés, si ce n'est la date de l'attestation de l'achèvement complet des études qui a été fixée au 22 juin 2020 en raison de l'organisation des stages.
+Les critères de sélection demeurent inchangés, si ce n'est la date de l'attestation de l'achèvement complet des études qui a été fixée au 22 juin 2021 en raison de l'organisation des stages.
 
 Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
 
@@ -40,7 +40,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique à la formation francophone à l'enseignement au secondaire II pour l'année académique 2020/21.
+<sup>1</sup> La présente ordonnance s'applique à la formation francophone à l'enseignement au secondaire II pour l'année académique 2021/22.
 
 <sup>2</sup> Elle règle la limitation de l'accès aux études, fondée sur une procédure d'admission sélective.
 
@@ -62,17 +62,17 @@ Arrête:
 
 <sup>1</sup> Si le nombre total de demandes d'admission dépasse la capacité d'accueil, selon l'article 2, ou si le nombre de demandes d'admission dans une discipline dépasse le nombre d'admissions possibles, une sélection des candidatures doit être opérée. Pour la décision d'admission sont alors déterminants:
 
-- a) l'attestation de l'achèvement complet, au 22 juin 2020, de la formation disciplinaire, y compris la soutenance du mémoire et les éventuels compléments;
+- a) l'attestation de l'achèvement complet, au 22 juin 2021, de la formation disciplinaire, y compris la soutenance du mémoire et les éventuels compléments;
 - b) le résultat obtenu à l'évaluation mise sur pied conjointement par les départements de l'Université de Fribourg dont dépendent les disciplines enseignables et par les responsables de la didactique de celles-ci.
 
 #### Art. 5
 
 **Dates de la procédure d'admission**
 
-<sup>1</sup> Pour l'année académique 2020/21, le dépôt des demandes d'admission est possible jusqu'au 15 février 2020; l'évaluation aura lieu entre le 21 février et le 13 mars 2020.
+<sup>1</sup> Pour l'année académique 2021/22, le dépôt des demandes d'admission est possible jusqu'au 15 février 2021; l'évaluation aura lieu entre le 22 février et le 13 mars 2021.
 
-<sup>2</sup> D'ici au 20 mars 2020, la Commission d'évaluation communique aux personnes candidates la décision d'admission provisoire, sous condition de présentation de l'attestation mentionnée à l'article 4 al. 1 let. a.
+<sup>2</sup> D'ici au 19 mars 2021, la Commission d'évaluation communique aux personnes candidates la décision d'admission provisoire, sous condition de présentation de l'attestation mentionnée à l'article 4 al. 1 let. a.
 
-<sup>3</sup> Les candidats et candidates retenus confirment leur inscription en versant, avant le 27 mars 2020, une finance de réservation de stage de 1000 francs. Cette finance leur est rétrocédée dès le 1<sup>er</sup> décembre 2020, sur présentation de l'inscription définitive à la formation pour la rentrée académique 2020/21. Une absence de confirmation et de paiement sans justes motifs entraîne automatiquement la fin du droit à l'admission pour l'année académique 2020/21.
+<sup>3</sup> Les candidats et candidates retenus confirment leur inscription en versant, avant le 29 mars 2021, une finance de réservation de stage de 1000 francs. Cette finance leur est rétrocédée dès le 1<sup>er</sup> décembre 2021, sur présentation de l'inscription définitive à la formation pour la rentrée académique 2021/22. Une absence de confirmation et de paiement sans justes motifs entraîne automatiquement la fin du droit à l'admission pour l'année académique 2021/22.
 
-2020\_006
+2021\_013
