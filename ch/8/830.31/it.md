@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordinanza del 20 marzo 2020 sui provvedimenti in caso di perdita di guadagno in relazione con il coronavirus (COVID-19) (Ordinanza COVID-19 perdita di guadagno)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: it
-version: 2021-01-20
+version: 2021-02-08
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210120/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210120-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/it"
 
 (Ordinanza COVID-19 perdita di guadagno)
 
-del 20 marzo 2020 (Stato 20 gennaio 2021) (Stato 20 gennaio 2021)
+del 20 marzo 2020 (Stato 8 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -78,7 +78,7 @@ Le persone di cui al capoverso 1 hanno diritto all’indennità, se adempiono le
 
 <sup>2</sup> I genitori che devono interrompere la loro attività lucrativa per occuparsi della custodia dei figli durante le vacanze scolastiche hanno diritto all’indennità soltanto se l’istituto previsto per la custodia è stato chiuso o se la persona prevista per la custodia è stata messa in quarantena.[^2-8]
 
-<sup>2bis</sup> In caso di quarantena ai sensi dell’articolo 2 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori del 2 luglio 2020[^2-9] non sussiste alcun diritto all’indennità.[^2-10]
+<sup>2bis</sup> La perdita di guadagno dovuta a una quarantena per le persone in entrata ai sensi dell’articolo 7 dell’ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori del 27 gennaio 2021[^2-9] non conferisce alcun diritto all’indennità.[^2-10]
 
 <sup>3</sup>
 
@@ -120,7 +120,7 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 [^2-7]: Introdotto dal n. I dell’O del 16 apr. 2020, in vigore dal 17 mar. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
 [^2-8]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introdotto dall’art. 6 n. 2 dell’O del 2 lug. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori, in vigore dal 6 lug. 2020 ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^2-10]: Introdotto dall’art. 6 n. 2 dell’O del 2 lug. 2020 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori ([RU 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nuovo testo giusta l’all. 2 n. 3 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, in vigore dall’8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^2-12]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Introdotto dal n. I dell’O del 16 apr. 2020 ([RU 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
@@ -140,22 +140,23 @@ I lavoratori indipendenti ai sensi dell’articolo 12 LPGA e le persone di cui a
 
 <sup>1</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, il diritto nasce il quarto giorno successivo alla chiusura ordinata all’istituto o alla quarantena ordinata alla persona prevista per la custodia dei figli.
 
-<sup>2</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 2, il diritto nasce con l’inizio della quarantena ordinata alla persona esercitante l’attività lucrativa o a suo figlio. Sono versate al massimo dieci indennità giornaliere per caso di quarantena.
+<sup>2</sup> 2 Per gli aventi diritto di cui all’articolo 2 capoverso 1bis lettera a numero 2, il diritto nasce con l’inizio della quarantena dei contatti ordinata alla persona esercitante l’attività lucrativa o a suo figlio. Sono versate al massimo sette indennità giornaliere per caso di quarantena.[^3-2]
 
-<sup>3</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3 o 3<sup>bis</sup>, il diritto nasce con l’inizio del provvedimento ordinato dalle autorità.[^3-2]
+<sup>3</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3 o 3<sup>bis</sup>, il diritto nasce con l’inizio del provvedimento ordinato dalle autorità.[^3-3]
 
-<sup>4</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, capoverso 3 o 3<sup>bis</sup>, il diritto si estingue con la revoca del provvedimento ordinato.[^3-3]
+<sup>4</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 1<sup>bis</sup> lettera a numero 1, capoverso 3 o 3<sup>bis</sup>, il diritto si estingue con la revoca del provvedimento ordinato.[^3-4]
 
-<sup>5</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup>, il diritto nasce nel momento in cui una loro occupazione secondo l’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3-4] risulta impossibile o se in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19 rifiutano il lavoro assegnato loro. Il diritto cessa con la ripresa del lavoro o con l’abrogazione dell’articolo 27*a* dell’ordinanza 3 COVID-19.[^3-5]
+<sup>5</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quater</sup>, il diritto nasce nel momento in cui una loro occupazione secondo l’articolo 27*a* capoversi 1–4 dell’ordinanza 3 COVID-19 del 19 giugno 2020[^3-5] risulta impossibile o se in virtù dell’articolo 27*a* capoverso 6 dell’ordinanza 3 COVID-19 rifiutano il lavoro assegnato loro. Il diritto cessa con la ripresa del lavoro o con l’abrogazione dell’articolo 27*a* dell’ordinanza 3 COVID-19.[^3-6]
 
-<sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-6]
+<sup>6</sup> Per gli aventi diritto di cui all’articolo 2 capoverso 3<sup>quinquies</sup> il diritto nasce con l’interruzione dell’attività lucrativa e cessa con la sua ripresa.[^3-7]
 
 [^3-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020, in vigore dal 17 set. 2020 ([RU 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-2]: Nuovo testo giusta il n. II dell’O del 27 gen. 2021 (Quarantena dei contatti e isolamento), in vigore dell’8 feb. 2021 ([RU 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
 [^3-3]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^3-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-5]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 4 nov. 2020, in vigore dal 17 set. 2020 ([RU 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^3-6]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^3-7]: Introdotto dall’appendice dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 #### Art. 4
 

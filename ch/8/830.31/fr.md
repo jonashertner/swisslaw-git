@@ -3,11 +3,11 @@ sr: "830.31"
 title: Ordonnance du 20 mars 2020 sur les mesures en cas de pertes de gain en lien avec le coronavirus (COVID-19) (Ordonnance sur les pertes de gain COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/167"
 language: fr
-version: 2021-01-20
+version: 2021-02-08
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210120/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210120-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/167/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-167-20210208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/167/20210120/fr"
 
 (Ordonnance sur les pertes de gain COVID-19)
 
-du 20 mars 2020 (Etat le 20 janvier 2021)
+du 20 mars 2020 (Etat le 8 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -78,7 +78,7 @@ Les personnes visées à l’al. 1 ont droit à l’allocation pour autant qu’
 
 <sup>2</sup> Les parents qui doivent interrompre leur activité lucrative pour assurer la garde de leur enfant pendant les vacances scolaires n’ont droit à l’allocation qu’en cas de fermeture de l’institution prévue pour assurer cette garde ou de mise en quarantaine de la personne prévue pour assurer cette garde.[^2-8]
 
-<sup>2bis</sup> Une quarantaine au sens de l’art. 2 de l’ordonnance du 2 juillet 2020 COVID-19 mesures dans le domaine du transport international de voyageurs[^2-9] ne donne pas droit à l’allocation.[^2-10]
+<sup>2bis</sup> Les pertes de gain dues à une quarantaine-voyage au sens de l’art. 7 de l’ordonnance COVID-19 du 27 janvier 2021 mesures dans le domaine du transport international de voyageurs[^2-9] ne donnent pas droit à l’allocation.[^2-10]
 
 <sup>3</sup>
 
@@ -120,7 +120,7 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 [^2-7]: Introduit par le ch. I de l’O du 16 avr. 2020, en vigueur depuis le 17 mars 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)).
 [^2-8]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
 [^2-9]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
-[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020, en vigueur depuis le 6 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^2-10]: Introduit par l’art. 6 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 2 juil. 2020 ([RO 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)). Nouvelle teneur selon l’annexe 2 ch.3 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 [^2-11]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^2-12]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
 [^2-13]: Introduit par le ch. I de l’O du 16 avr. 2020 ([RO 2020 1257](https://fedlex.data.admin.ch/eli/oc/2020/240)). Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
@@ -140,22 +140,23 @@ Les personnes qui exercent une activité lucrative indépendante au sens de l’
 
 <sup>1</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, le droit à l’allocation prend effet le quatrième jour suivant la fermeture ordonnée de l’institution ou la mesure de quarantaine ordonnée au tiers prévu pour assurer la garde de l’enfant.
 
-<sup>2</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 2, le droit à l’allocation prend effet dès le début de la mesure de quarantaine ordonnée à la personne exerçant une activité lucrative ou à l’enfant. Dix indemnités journalières au plus sont versées par mesure de quarantaine.
+<sup>2</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 2, le droit à l’allocation prend effet dès le début de la mesure de quarantaine-contact ordonnée à la personne exerçant une activité lucrative ou à l’enfant. Sept indemnités journalières au plus sont versées par mesure de quarantaine.[^3-2]
 
-<sup>3</sup> Pour un ayant droit au sens de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend effet dès le début des mesures ordonnées par l’autorité.[^3-2]
+<sup>3</sup> Pour un ayant droit au sens de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend effet dès le début des mesures ordonnées par l’autorité.[^3-3]
 
-<sup>4</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, ou de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend fin lorsque les mesures ordonnées sont levées.[^3-3]
+<sup>4</sup> Pour un ayant droit au sens de l’art. 2, al. 1<sup>bis</sup>, let. a, ch. 1, ou de l’art. 2, al. 3 ou 3<sup>bis</sup>, le droit à l’allocation prend fin lorsque les mesures ordonnées sont levées.[^3-4]
 
-<sup>5</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quater</sup>, le droit à l’allocation prend effet dès le moment où il n’est pas possible de l’occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3-4], ou dès lors qu’il refuse d’accomplir la tâche qui lui a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Le droit à l’allocation prend fin dès la reprise du travail ou dès l’abrogation de l’art. 27*a* de l’ordonnance 3 COVID-19.[^3-5]
+<sup>5</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quater</sup>, le droit à l’allocation prend effet dès le moment où il n’est pas possible de l’occuper conformément à l’art. 27*a*, al. 1 à 4, de l’ordonnance 3 COVID-19 du 19 juin 2020[^3-5], ou dès lors qu’il refuse d’accomplir la tâche qui lui a été attribuée conformément à l’art. 27*a*, al. 6, de l’ordonnance 3 COVID-19. Le droit à l’allocation prend fin dès la reprise du travail ou dès l’abrogation de l’art. 27*a* de l’ordonnance 3 COVID-19.[^3-6]
 
-<sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-6]
+<sup>6</sup> Pour un ayant droit au sens de l’art. 2, al. 3<sup>quinquies</sup>, le droit à l’allocation prend effet à compter de l’interruption de l’activité professionnelle et prend fin avec la reprise de cette activité.[^3-7]
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 3705](https://fedlex.data.admin.ch/eli/oc/2020/673)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-2]: Nouvelle teneur selon le ch. II de l’O du 27 janv. 2021 (Quarantaine-contact et isolement), en vigueur depuis le 8 fév. 2021 ([RO 2021 60](https://fedlex.data.admin.ch/eli/oc/2021/60)).
 [^3-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
-[^3-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^3-5]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2020, en vigueur depuis le 17 sept. 2020 ([RO 2020 4571](https://fedlex.data.admin.ch/eli/oc/2020/810)).
+[^3-5]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
 [^3-6]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^3-7]: Introduit par l’annexe de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
 
 #### Art. 4
 
