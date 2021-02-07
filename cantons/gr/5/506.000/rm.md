@@ -4,13 +4,13 @@ number: "506.000"
 title: "Lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "lescha per promover la tgira da persunas malsaunas, LTM"
 language: rm
-version: 2018-01-01
-corrected: 2020-10-05
-version_adopted: 2017-08-30
+version: 2021-01-01
+corrected: 2021-02-08
+version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2856/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2856/pdf_file"
 
 (lescha per promover la tgira da persunas malsaunas, LTM)
 
-dals 30-08-2017 (versiun dals 01-01-2018)
+dals 30-08-2017 (versiun dals 01-01-2021)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -91,42 +91,57 @@ concluda:
 
 **Ospitals publics**
 
-<sup>1</sup> Sco ospitals acutsomatics publics en il senn da questa lescha valan l'ospital chantunal dal Grischun a Cuira, l'ospital d'Engiadin'ota a Samedan, l'ospital da Tavau a Tavau, l'ospital regiunal da la Surselva a Glion, l'ospital da Tusaun a Tusaun, l'ospital d'Engiadina bassa a Scuol, l'ospital Schiers a Schiers, l'ospital Surses a Savognin, l'ospital San Sisto a Puschlav, il center da sanadad Bregaglia a Promontogno, l'ospital da la Val Müstair a Sta. Maria V.M.
+<sup>1</sup> Sco ospitals acutsomatics publics en il senn da questa lescha valan l'Ospital chantunal dal Grischun a Cuira, l'Ospital d'Engiadin'Ota a Samedan, l'Ospital da Tavau a Tavau, l'Ospital regiunal Surselva a Glion, l'Ospital da Tusaun a Tusaun, l'ospital dal Center da sanadad d'Engiadina Bassa a Scuol, l'Ospital Schiers da la Fundaziun Flury a Schiers, l'ospital dal Center da sanadad Savognin a Savognin, l'Ospital San Sisto dal Centro sanitario Valposchiavo a Puschlav, il Centro sanitario Bregaglia a Promontogno, l'ospital dal Center da sanadad Val Müstair a Sta. Maria.
 
-<sup>2</sup> Sco ospitals psichiatrics publics en il senn da questa lescha valan las clinicas Waldhaus e Beverin dals servetschs psichiatrics dal Grischun e la staziun d'uffants e da giuvenils da la psichiatria d'uffants e da giuvenils dal Grischun.
+<sup>2</sup> Sco ospitals psichiatrics publics en il senn da questa lescha valan las clinicas Waldhaus e Beverin e la staziun da la psichiatria d'uffants e da giuvenils Fürstenwald dals Servetschs psichiatrics dal Grischun.
 
 #### Art. 7
 
-**Regiuns d'ospital**
+**Regiuns da provediment da la sanadad 1. divisiun**
 
-<sup>1</sup> Il chantun vegn dividì en las suandantas regiuns d'ospital:
+<sup>1</sup> Las vischnancas vegnan attribuidas a las suandantas regiuns da provediment da la sanadad:
 
-- a) regiun d'ospital da la Val dal Rain grischuna cun las vischnancas dad Arosa, Churwalden, Cuira, Domat, Favugn, Fläsch, Flem, Haldenstein, Jenins, Landquart, Lantsch, Maiavilla, Maladers, Malans, Panaduz, Razén, Trimmis, Trin, Tumein, Tschiertschen-Praden, Vaz sut, Vaz, Zizers;
-- b) regiun d'ospital da l'Engiadin'ota cun las vischnancas da Bever, La Punt-Chamues-ch, Madulain, Puntraschigna, Samedan, San Murezzan, S-chanf, Schlarigna, Segl, Silvaplauna, Zuoz;
-- c) regiun d'ospital da l'Engiadina bassa cun las vischnancas da Samignun, Scuol, Valsot, Zernez;
-- d) regiun d'ospital da Tavau cun las vischnancas da Schmitten, Tavau;
-- e) regiun d'ospital da la Surselva cun las vischnancas dad Andiast, Breil, Falera, Glion, Laax, Lumnezia, Medel (Lucmagn), Mustér, Sagogn, Schluein, Sumvitg, Sursaissa Mundaun, Trun, Tujetsch, Val S. Pieder, Val Stussavgia, Vuorz;
-- f) regiun d'ospital da la Mantogna/Tumleastga/Valragn/Alvra cun las vischnancas dad Alvra, Andeer, Avras, Bravuogn, Casti-Vargistagn, Cazas, Donat, Farera, Farschno, Filisur, Flearda, Giuvaulta, Lon, Masagn, Maton, Mut, Nufenen, Runtgaglia, Scharàns, Seglias, Spleia, Sufers, Tschappina, Tumleastga, Tusaun, Urmagn, Valragn, Ziràn-Reschen;
-- g) regiun d'ospital dal Surses cun la vischnanca da Surses;
-- h) regiun d'ospital dal Partenz cun las vischnancas da Claustra-Serneus, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis;
-- i) regiun d'ospital da la Val Müstair cun la vischnanca da Val Müstair;
-- j) regiun d'ospital dal Puschlav cun las vischnancas da Brusio, Puschlav;
-- k) regiun d'ospital da la Bregaglia cun la vischnanca da Bregaglia;
-- l) regiun d'ospital da la Val Mesauc-Calanca cun las vischnancas da Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesauc, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+- a) regiun da provediment da la sanadad Val dal Rain grischuna cun las vischnancas da Domat, Favugn, Flem, Panaduz, Razén, Trin e Tumein en la subregiun Plaun, las vischnancas da Fläsch, Jenins, Landquart, Maiavilla, Malans, Trimmis, Vaz sut e Zizers en la subregiun Landquart sco er las vischnancas dad Arosa, Churwalden, Cuira, Haldenstein e Tschiertschen-Praden en la subregiun Plessur;
+- b) regiun da provediment da la sanadad Engiadin'Ota cun las vischnancas da Bever, La Punt Chamues-ch, Madulain, Puntraschigna, Samedan, San Murezzan, S-chanf, Schlarigna, Segl, Silvaplauna, Zuoz;
+- c) regiun da provediment da la sanadad Engiadina Bassa cun las vischnancas da Samignun, Scuol, Valsot, Zernez;
+- d) regiun da provediment da la sanadad Tavau cun la vischnanca da Tavau;
+- e) regiun da provediment da la sanadad Surselva cun las vischnancas da Breil, Falera, Glion, Laax, Lumnezia, Medel (Lucmagn), Mustér, Sagogn, Schluein, Sumvitg, Sursaissa Mundaun, Trun, Tujetsch, Val S. Pieder, Val Stussavgia;
+- f) regiun da provediment da la sanadad Alvra/Viamala cun las vischnancas dad Alvra, Andeer, Avras, Bravuogn Filisur, Casti-Vargistagn, Cazas, Donat, Farera, Farschno, Flearda, Giuvaulta, Lantsch, Lon, Masagn, Maton, Runtgaglia, Scharàns, Schmitten, Seglias, Sufers, Tschappina, Tumleastga, Tusaun, Urmagn, Valragn, Vaz, Ziràn-Reschen;
+- g) regiun da provediment da la sanadad Surses cun la vischnanca da Surses;
+- h) regiun da provediment da la sanadad Partenz cun las vischnancas da Claustra-Serneus, Cunter en il Partenz, Fideris, Furna, Grüsch, Jenaz, Küblis, Luzein, Schiers, Seewis;
+- i) regiun da provediment da la sanadad Val Müstair cun la vischnanca da Val Müstair;
+- j) regiun da provediment da la sanadad Val Puschlav cun las vischnancas da Brusio, Puschlav;
+- k) regiun da provediment da la sanadad Bregaglia cun la vischnanca da Bregaglia;
+- l) regiun da provediment da la sanadad Mesolcina-Calanca cun las vischnancas da Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesauc, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+
+<sup>2</sup> Regiuns da provediment da la sanadad pon fusiunar sin il cumenzament d'in onn chalendar.
 
 #### Art. 8
 
-**Regiuns da planisaziun**
-
-<sup>1</sup> Suenter avair tadlà las vischnancas po la regenza designar las regiuns da planisaziun per purschidas per la tgira ed assistenza staziunara da pazientas e pazients da lunga durada e da persunas attempadas e per ils servetschs da la tgira ed assistenza a chasa ed attribuir las vischnancas a las regiuns da planisaziun.
+**…**
 
 #### Art. 9
 
-**Organisaziun da las regiuns d'ospital e da planisaziun**
+**2. organisaziun da las regiuns d'ospital e da planisaziun**
 
-<sup>1</sup> Las vischnancas da las singulas regiuns d'ospital sco er da las regiuns da planisaziun concernent la tgira ed assistenza staziunara da pazientas e pazients da lunga durada e da persunas attempadas, sco er concernent la tgira ed assistenza a chasa ston s'organisar en moda cunvegnenta.
+<sup>1</sup> Las vischnancas da las singulas regiuns da provediment da la sanadad ston s'organisar en moda cunvegnenta.
 
-<sup>2</sup> Ils purtaders dals furniturs da prestaziuns ston conceder in dretg da cogestiun commensurà a las vischnancas da lur regiun d'ospital respectivamain da lur regiun da planisaziun concernent la tgira ed assistenza staziunara da pazientas e pazients da lunga durada e da persunas attempadas sco er concernent la tgira ed assistenza a chasa.
+<sup>2</sup> Ils purtaders dals furniturs da prestaziuns ston conceder in dretg da cogestiun commensurà a las vischnancas da lur regiun da provediment da la sanadad. Per quest intent fa la regiun da provediment da la sanadad ina cunvegna da prestaziun cun ils purtaders dals furniturs da prestaziuns.
+
+#### Art. 9a
+
+**3. contribuziuns**
+
+<sup>1</sup> La finamira da la politica da sanadad dal chantun è quella che tut ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas a fin c da questa lescha en ina regiun da provediment da la sanadad respectivamain tut ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas b e c da questa lescha en las subregiuns Plaun, Landquart e Plessur surdettian la gestiun strategica ed operativa ad in'organisaziun destinada per quai e la sviluppeschian vinavant.
+
+<sup>2</sup> Per quest intent po il chantun conceder ina contribuziun da maximalmain 50 pertschient dals custs imputabels:
+
+- a) a projects per surdar ad in'organisaziun destinada per quai la gestiun strategica ed operativa da tut ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas a fin c da questa lescha en ina regiun da provediment da la sanadad respectivamain da tut ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas b e c da questa lescha en las subregiuns Plaun, Landquart e Plessur;
+- b) a projects per fusiunar furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas a fin c da questa lescha en ina regiun da provediment da la sanadad resepctivamain da furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas b e c da questa lescha en las subregiuns Plaun, Landquart e Plessur, sche la fusiun gida ad optimar il provediment da la sanadad en la regiun da provediment da la sanadad;
+- c) a projects per colliar e per coordinar ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas a fin c da questa lescha en ina regiun da provediment da la sanadad respectivamain ils furniturs da prestaziuns tenor l'artitgel 2 alinea 1 literas b e c da questa lescha en las subregiuns Plaun, Landquart e Plessur;
+- d) a projects per sviluppar vinavant, per colliar u per fusiunar las organisaziuns ch'èn destinadas tenor l'alinea 1 da surpigliar la gestiun strategica ed operativa en ina regiun da provediment da la sanadad.
+
+<sup>3</sup> La Regenza fixescha las premissas da contribuziun ed ils custs imputabels.
 
 ## 2. Planisaziun dals ospitals e glista dals ospitals
 
@@ -268,9 +283,9 @@ concluda:
 - a) chantun: 90 pertschient;
 - b) vischnancas: 10 pertschient.
 
-<sup>2</sup> Obligadas da pajar las contribuziuns tenor l'artitgel 19 alinea 1 literas a e b èn las vischnancas da la regiun d'ospital, nua che la persuna tractada ha ses domicil civil. Per lavurantas estras e lavurants esters ch'èn assicurads tenor la LAMal[^20-1], sco er per lur confamigliars che n'han betg in domicil da dretg civil en Svizra èn las vischnancas da la regiun d'ospital, en la quala la vischnanca da dimora da la lavuranta u dal lavurant sa chatta, obligadas da pajar la contribuziun.
+<sup>2</sup> Obligadas da pajar las contribuziuns tenor l'artitgel 19 alinea 1 literas a e b èn las vischnancas da la regiun da provediment da la sanadad, nua che la persuna tractada ha ses domicil civil. Per lavurantas estras e lavurants esters ch'èn assicurads tenor la LAMal[^20-1] sco er per lur confamigliars che n'han betg in domicil civil en Svizra èn las vischnancas da la regiun da provediment da la sanadad, en la quala la vischnanca da dimora da la lavuranta u dal lavurant sa chatta, obligadas da pajar las contribuziuns.
 
-<sup>3</sup> Obligadas da pajar las contribuziuns tenor l'artitgel 19 alinea 1 literas c ed e èn las vischnancas da la regiun d'ospital respectiva.
+<sup>3</sup> Obligadas da pajar las contribuziuns tenor l'artitgel 19 alinea 1 literas c ed e èn las vischnancas da la regiun da provediment da la sanadad respectiva.
 
 <sup>4</sup> Las contribuziuns tenor l'artitgel 19 alinea 1 literas d, f e g sco er las contribuziuns tenor l'artitgel 19 alinea 1 litera a per persunas dal sectur d'asil, uschenavant ch'ellas sa trategnan en in alloschi collectiv e na pratitgeschan betg in'activitad da gudogn, van a 100 pertschient sin donn e cust dal chantun.
 
@@ -282,7 +297,7 @@ concluda:
 
 <sup>1</sup> Il cussegl grond fixescha annualmain en il preventiv en moda definitiva:
 
-- a) il credit global per la part dal chantun vi da las contribuziuns dal chantun e da las vischnancas als servetschs da transport en cas d'urgenza e d'ambulanza dals ospitals publics e da la regiun d'ospital da la Val Mesauc-Calanca;
+- a) il credit global per la part dal chantun vi da las contribuziuns dal chantun e da las vischnancas als servetschs da transport en cas d'urgenza e d'ambulanza dals ospitals publics e da la regiun da provediment da la sanadad Mesolcina-Calanca;
 - b) il credit global per las contribuziuns dal chantun als ospitals per l'instrucziun universitara e per la perscrutaziun;
 - c) il credit global per la part dal chantun vi da las contribuziuns dal chantun e da las vischnancas als ospitals publics per prestaziuns d'utilitad publica;
 - d) il credit global per las contribuziuns dal chantun ad ospitals privats ed ad ospitals extrachantunals per garantir il provediment.
@@ -291,7 +306,7 @@ concluda:
 
 **Servetsch da transport en cas d'urgenza e d'ambulanza**
 
-<sup>1</sup> La regenza reparta il credit global per la part dal chantun a las contribuziuns dal chantun e da las vischnancas per il servetsch da transport en cas d'urgenza e d'ambulanza sin ils ospitals e sin la regiun d'ospital da la Val Mesauc-Calanca, e quai resguardond il concept da salvament sco er il grad da la cuvrida dals custs en cas ch'il servetsch da salvament vegn manà en moda economica ed ha in equipament adequat ed in'organisaziun adattada.
+<sup>1</sup> La Regenza reparta il credit global per la part dal chantun a las contribuziuns dal chantun e da las vischnancas per il servetsch da transport en cas d'urgenza e d'ambulanza sin ils ospitals e sin la regiun da provediment da la sanadad Mesolcina-Calanca, e quai resguardond il concept da salvament sco er il grad da la cuvrida dals custs en cas ch'il servetsch da salvament vegn manà en moda economica ed ha in equipament adequat ed in'organisaziun adattada.
 
 #### Art. 23
 
@@ -333,7 +348,7 @@ concluda:
 - d) las prestaziuns da scolaziun fixadas da la regenza per professiuns en il sectur da sanadad na vegnan betg furnidas da l'ospital;
 - e) il dumber fixà da la regenza per plazzas da scolaziun e da furmaziun supplementara per professiuns en il sectur da sanadad na vegn betg mess a disposiziun da l'ospital.
 
-<sup>2</sup> La reducziun na dastga betg esser pli gronda che 50 francs per abitanta u abitant da la regiun d'ospital.
+<sup>2</sup> La reducziun na dastga betg esser pli gronda che 50 francs per abitanta u abitant da la regiun da provediment da la sanadad.
 
 <sup>3</sup> Las contribuziuns che vegnan scursanidas en applicaziun da l'alinea 1 literas d ed e ston vegnir consegnadas proporziunalmain a quels ospitals che furneschan dapli prestaziuns da scolaziun per professiuns en il sectur da sanadad che fixadas da la regenza.
 
@@ -360,7 +375,7 @@ concluda:
 
 <sup>1</sup> Tenor las directivas da la legislaziun davart l'assicuranza da malsauns fa la regenza ina planisaziun per la tgira e per l'assistenza da pazientas e pazients da lunga durada e da persunas attempadas e relascha – sin basa da la planisaziun da las chasas da tgira – ina glista da las chasas da tgira.
 
-<sup>2</sup> Sch'i sa tracta da prender si ina instituziun sin la glista da las chasas da tgira po la regenza pretender che quai dependia dal consentiment da las vischnancas da la regiun da planisaziun.
+<sup>2</sup> Sch'i sa tracta da prender si ina instituziun sin la glista da las chasas da tgira, po la Regenza pretender che quai dependia dal consentiment da la regiun da provediment da la sanadad respectivamain da la subregiun cumpetenta da la regiun da provediment da la sanadad Val dal Rain grischuna.
 
 <sup>3</sup> En quest connex valan las disposiziuns davart la planisaziun dals ospitals e davart la glista dals ospitals confurm al senn.
 
@@ -368,13 +383,15 @@ concluda:
 
 #### Art. 29
 
-**Cumpetenza 1. vischnancas**
+**Cumpetenza 1. regiuns da provediment da la sanadad**
 
-<sup>1</sup> Las vischnancas procuran per ina purschida suffizienta per la tgira ed assistenza parzialmain staziunara e staziunara da pazientas e pazients da lunga durada e da persunas attempadas.
+<sup>1</sup> Las regiuns da provediment da la sanadad respectivamain las subregiuns da la regiun da provediment da la sanadad Val dal Rain grischuna procuran per ina purschida suffizienta per la tgira ed assistenza parzialmain staziunara e staziunara da pazientas e pazients da lunga durada e da persunas attempadas.
 
 <sup>2</sup> Ellas fan ina planisaziun dal basegn accordada a la regiun.
 
 <sup>3</sup> La recepziun da persunas cun in domicil extrachantunal premetta ch'il chantun da domicil e/u che la vischnanca da domicil dettia ina garanzia per ils custs.
+
+<sup>4</sup> Las regiuns da provediment da la sanadad reglan la procedura per recepir ina persuna che basegna tgira e che ha ses domicil en la regiun da provediment da la sanadad, en cas che las chasas da persunas attempadas e da tgira n'èn betg prontas da recepir questa persuna, sco er la surpigliada d'eventuals custs che n'èn betg cuvrids tras las contribuziuns legalas.
 
 #### Art. 30
 
@@ -388,7 +405,7 @@ concluda:
 
 **Contribuziuns d'investiziun 1. princip ed autezza**
 
-<sup>1</sup> Per mintga letg da tgira ch'è vegnì stgaffì supplementarmain ed en concordanza cun la planisaziun generala chantunala concedan il chantun e las vischnancas a la regiun da planisaziun la suandanta contribuziun d'investiziun:
+<sup>1</sup> Per mintga letg da tgira ch'è vegnì stgaffì supplementarmain ed en concordanza cun la planisaziun generala chantunala concedan il chantun e las vischnancas da la regiun da provediment da la sanadad respectivamain da las subregiuns da la regiun da provediment da la sanadad Val dal Rain grischuna als purtaders la suandanta contribuziun d'investiziun:
 
 - a) chasas da persunas attempadas e da tgira: 160 000 francs;
 - b) gruppas da tgira: 120 000 francs.
@@ -399,7 +416,7 @@ concluda:
 
 <sup>4</sup> La regenza po adattar las contribuziuns d'investiziun a la chareschia.
 
-<sup>5</sup> Mintga vischnanca d'ina regiun da planisaziun è obligada da sa participar a las contribuziuns d'investiziun tenor l'alinea 1 per purschidas en sia regiun. La repartiziun vegn fatga tenor ina clav che sto vegnir determinada da las vischnancas.
+<sup>5</sup> Mintga vischnanca d'ina regiun da provediment da la sanadad è obligada da sa participar a las contribuziuns d'investiziun tenor ils alineas 1 e 3 per purschidas en sia regiun. La repartiziun da las contribuziuns communalas vegn fatga tenor ina clav che sto vegnir determinada da las vischnancas.
 
 #### Art. 32
 
@@ -486,7 +503,7 @@ concluda:
 
 **Cumpetenza**
 
-<sup>1</sup> Las vischnancas procuran per ina purschida suffizienta da servetschs da la tgira ed assistenza a chasa.
+<sup>1</sup> Las regiuns da provediment da la sanadad respectivamain las subregiuns da la regiun da provediment da la sanadad Val dal Rain grischuna procuran per ina purschida suffizienta da servetschs da la tgira ed assistenza a chasa.
 
 <sup>2</sup> Ellas fan ina planisaziun dal basegn accordada a la regiun.
 
@@ -525,7 +542,7 @@ concluda:
 - c) las prestaziuns da tegnairchasa e d'assistenza;
 - d) il servetsch da pasts.
 
-<sup>2</sup> La contribuziun dal chantun e da las vischnancas importa 55 pertschient respectivamain 45 pertschient dals custs renconuschids che n'èn betg cuvrids da l'assicuranza obligatorica per la tgira da persunas malsaunas e da la participaziun maximala als custs tras las clientas ed ils clients.
+<sup>2</sup> La contribuziun dal chantun e da las vischnancas importa per categoria da prestaziun 55 pertschient respectivamain 45 pertschient dals custs renconuschids che n'èn betg cuvrids da l'assicuranza obligatorica per la tgira da persunas malsaunas e da la participaziun maximala als custs tras las clientas ed ils clients.
 
 <sup>3</sup> La basa per fixar las contribuziuns che sa drizzan tenor la prestaziun èn las datas dals custs e da las prestaziuns da la calculaziun dals custs dals servetschs economics, e però las datas dals 3 onns che precedan l'onn dal conclus. Tar la fixaziun resguarda la regenza las midadas dals custs ch'èn vegnidas chaschunadas – cumpareglià cun ils onns da basa – da facturs exogens e da la chareschia.
 
@@ -681,9 +698,9 @@ concluda:
 
 **Cas spezials**
 
-<sup>1</sup> Sch'i na sa chatta nagin ospital public en ina regiun d'ospital, sto la regiun d'ospital incumbensar in auter ospital u in'autra organisaziun da far il servetsch da transport sin via en cas d'urgenza e d'ambulanza. Ils artitgels 20 alinea 1 e 54 alinea 1 vegnan applitgads confurm al senn.
+<sup>1</sup> Sch'i na sa chatta nagin ospital public en ina regiun da provediment da la sanadad, sto quella incumbensar in auter ospital u in'autra organisaziun da far il servetsch da transport sin via en cas d'urgenza e d'ambulanza. L'artitgel 20 alinea 1 e l'artitgel 54 alinea 1 vegnan applitgads confurm al senn.
 
-<sup>2</sup> La regenza po approvar l'access da regiuns d'ospital ad in post da coordinaziun extrachantunal, sche quai para d'esser cunvegnent per ademplir la finamira dal servetsch da salvament en il chantun. Ils custs correspundents van a quint dal chantun.
+<sup>2</sup> La Regenza po far cunvegnas cun posts da coordinaziun extrachantunals, sche quai para d'esser cunvegnent per ademplir la finamira dal servetsch da salvament en il chantun en tschertas regiuns da provediment da la sanadad. Ils custs correspundents van a quint dal chantun.
 
 #### Art. 56
 
@@ -720,7 +737,7 @@ concluda:
 
 **Custs nunincassabels**
 
-<sup>1</sup> Sch'ils custs d'in transport en cas d'urgenza e d'ambulanza sin via ch'è vegnì fatg d'ina organisaziun renconuschida èn nunincassabels, van els a donn e cust dal quint da gestiun da l'ospital da la regiun d'ospital correspundenta.
+<sup>1</sup> Sch'ils custs d'in transport en cas d'urgenza e d'ambulanza sin via ch'è vegnì fatg d'ina organisaziun renconuschida èn nunincassabels, van els a donn e cust dal quint da gestiun da l'ospital da la regiun da provediment da la sanadad correspundenta.
 
 <sup>2</sup> Il chantun po surpigliar ils custs nunincassabels d'acziuns da tschertga, da deliberaziun e da salvament da las ulteriuras organisaziuns participadas.
 

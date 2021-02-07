@@ -4,13 +4,13 @@ number: "506.000"
 title: "Legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Legge sulla cura degli ammalati, LCA"
 language: it
-version: 2018-01-01
-corrected: 2020-10-05
-version_adopted: 2017-08-30
+version: 2021-01-01
+corrected: 2021-02-08
+version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2856/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3123/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2856/pdf_file"
 
 (Legge sulla cura degli ammalati, LCA)
 
-del 30.08.2017 (stato 01.01.2018)
+del 30.08.2017 (stato 01.01.2021)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -91,42 +91,57 @@ decide:
 
 **Ospedali pubblici**
 
-<sup>1</sup> Sono considerati ospedali pubblici di medicina somatica acuta ai sensi della presente legge l'Ospedale cantonale dei Grigioni a Coira, l'ospedale dell'Engadina Alta a Samedan, l'ospedale di Davos a Davos, l'ospedale regionale della Surselva a Ilanz, l'ospedale di Thusis a Thusis, l'ospedale dell'Engadina Bassa a Scuol, l'ospedale di Schiers a Schiers, l'ospedale di Surses a Savognin, l'ospedale San Sisto a Poschiavo, il Centro Sanitario Bregaglia a Promontogno, l'ospedale di Val Müstair a Sta. Maria.
+<sup>1</sup> Sono considerati ospedali pubblici di medicina somatica acuta ai sensi della presente legge l'Ospedale cantonale dei Grigioni a Coira, l'ospedale Oberengadin a Samedan, l'ospedale di Davos a Davos, l'ospedale regionale della Surselva a Ilanz, l'ospedale di Thusis a Thusis, l'ospedale del Center da sandà Engiadina Bassa a Scuol, l'ospedale di Schiers della Flury-Stiftung a Schiers, l'ospedale del Center da Sanadad Savognin a Savognin, l'ospedale San Sisto del Centro Sanitario Valposchiavo a Poschiavo, il Centro Sanitario Bregaglia a Promontogno, l'ospedale del Center da sandà Val Müstair a Sta. Maria.
 
-<sup>2</sup> Sono considerati ospedali psichiatrici pubblici ai sensi della presente legge le cliniche Waldhaus e Beverin dei Servizi psichiatrici dei Grigioni e il reparto per bambini e adolescenti di Psichiatria infantile e giovanile dei Grigioni.
+<sup>2</sup> Sono considerati ospedali psichiatrici pubblici ai sensi della presente legge le cliniche Waldhaus e Beverin e il reparto di psichiatria infantile e dell'adolescenza Fürstenwald dei Servizi psichiatrici dei Grigioni.
 
 #### Art. 7
 
-**Regioni ospedaliere**
+**Regioni di assistenza sanitaria 1. Suddivisione**
 
-<sup>1</sup> Il territorio cantonale viene suddiviso nelle seguenti regioni ospedaliere:
+<sup>1</sup> I comuni vengono attribuiti alle seguenti regioni di assistenza sanitaria:
 
-- a) regione ospedaliera Churer Rheintal con i Comuni di Arosa, Bonaduz, Churwalden, Coira, Domat/Ems, Felsberg, Fläsch, Flims, Haldenstein, Jenins, Landquart, Lantsch/Lenz, Maienfeld, Maladers, Malans, Rhäzüns, Tamins, Trimmis, Trin, Tschiertschen-Praden, Untervaz, Vaz/Obervaz, Zizers;
-- b) regione ospedaliera Oberengadin con i Comuni di Bever, Celerina/Schlarigna, La Punt-Chamues-ch, Madulain, Pontresina, Samedan, S-chanf, Sils i.E./Segl, Silvaplana, St. Moritz, Zuoz;
-- c) regione ospedaliera Engiadina bassa con i Comuni di Samnaun, Scuol, Valsot, Zernez;
-- d) regione ospedaliera Davos con i Comuni di Davos, Schmitten;
-- e) regione ospedaliera Surselva con i Comuni di Andiast, Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals, Waltensburg/Vuorz;
-- f) regione ospedaliera Heinzenberg/Domleschg/Hinterrhein/Albula con i Comuni di Albula/Alvra, Andeer, Avers, Bergün/Bravuogn, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Filisur, Flerden, Fürstenau, Hinterrhein, Lohn, Masein, Mathon, Mutten, Nufenen, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Splügen, Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen;
-- g) regione ospedaliera Oberhalbstein con il Comune di Surses;
-- h) regione ospedaliera Prättigau con i Comuni di Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
-- i) regione ospedaliera Val Müstair con il Comune di Val Müstair;
-- j) regione ospedaliera Poschiavo con i Comuni di Brusio, Poschiavo;
-- k) regione ospedaliera Bregaglia con il Comune di Bregaglia;
-- l) regione ospedaliera Mesolcina-Calanca con i Comuni di Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+- a) regione di assistenza sanitaria Churer Rheintal con i Comuni di Bonaduz, Domat/Ems, Felsberg, Flims, Rhäzüns, Tamins e Trin nella sottoregione Imboden, i Comuni di Fläsch, Jenins, Landquart, Maienfeld, Malans, Trimmis, Untervaz e Zizers nella sottoregione Landquart nonché i Comuni di Arosa, Churwalden, Coira, Haldenstein e Tschiertschen-Praden nella sottoregione Plessur;
+- b) regione di assistenza sanitaria Oberengadin con i Comuni di Bever, Celerina/Schlarigna, La Punt Chamues-ch, Madulain, Pontresina, Samedan, S-chanf, Sils i.E./Segl, Silvaplana, St. Moritz, Zuoz;
+- c) regione di assistenza sanitaria Engiadina Bassa con i Comuni di Samnaun, Scuol, Valsot, Zernez;
+- d) regione di assistenza sanitaria Davos con il Comune di Davos;
+- e) regione di assistenza sanitaria Surselva con i Comuni di Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals;
+- f) regione di assistenza sanitaria Albula/Viamala con i Comuni di Albula/Alvra, Andeer, Avers, Bergün Filisur, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lantsch/Lenz, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Schmitten, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Vaz/Obervaz, Urmein, Zillis-Reischen;
+- g) regione di assistenza sanitaria Surses con il Comune di Surses;
+- h) regione di assistenza sanitaria Prättigau con i Comuni di Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
+- i) regione di assistenza sanitaria Val Müstair con il Comune di Val Müstair;
+- j) regione di assistenza sanitaria Valposchiavo con i Comuni di Brusio, Poschiavo;
+- k) regione di assistenza sanitaria Bregaglia con il Comune di Bregaglia;
+- l) regione di assistenza sanitaria Mesolcina-Calanca con i Comuni di Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+
+<sup>2</sup> Le regioni di assistenza sanitaria possono aggregarsi per l'inizio di un anno civile.
 
 #### Art. 8
 
-**Regioni di pianificazione**
-
-<sup>1</sup> Sentiti i comuni, il Governo può definire regioni di pianificazione per le offerte per la cura e l'assistenza stazionarie a pazienti lungodegenti e persone anziane nonché per i servizi di cura e assistenza a domicilio e può attribuire i comuni alle regioni di pianificazione.
+**…**
 
 #### Art. 9
 
-**Organizzazione delle regioni ospedaliere e di pianificazione**
+**2. Organizzazione delle regioni ospedaliere e di pianificazione**
 
-<sup>1</sup> I comuni delle singole regioni ospedaliere e delle regioni di pianificazione per la cura e l'assistenza stazionarie a pazienti lungodegenti e persone anziane, nonché per la cura e l'assistenza a domicilio devono organizzarsi in modo opportuno.
+<sup>1</sup> I comuni delle singole regioni di assistenza sanitaria devono organizzarsi in modo opportuno.
 
-<sup>2</sup> Gli enti responsabili dei fornitori di prestazioni devono concedere un adeguato diritto di partecipazione ai comuni della loro regione ospedaliera, rispettivamente alla loro regione di pianificazione per la cura e l'assistenza stazionarie a pazienti lungodegenti e persone anziane, nonché per i servizi di cura e assistenza a domicilio.
+<sup>2</sup> Gli enti responsabili dei fornitori di prestazioni devono concedere ai comuni della loro regione di assistenza sanitaria un adeguato diritto di pronunciarsi. A questo scopo la regione di assistenza sanitaria stipula un accordo di prestazioni con gli enti responsabili dei fornitori di prestazioni.
+
+#### Art. 9a
+
+**3. Sussidi**
+
+<sup>1</sup> La politica sanitaria del Cantone si pone quale obiettivo che tutti i fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere a – c della presente legge di una regione di assistenza sanitaria rispettivamente che tutti i fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere b e c della presente legge delle sottoregioni Imboden, Landquart e Plessur affidino la direzione strategica e operativa a un'organizzazione designata a tale scopo e la sviluppino ulteriormente.
+
+<sup>2</sup> A tale scopo il Cantone può versare un sussidio pari al massimo al 50 per cento dei costi computabili:
+
+- a) a favore di progetti per l'affidamento della direzione strategica e operativa di tutti i fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere a – c della presente legge di una regione di assistenza sanitaria rispettivamente di tutti i fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere b e c della presente legge delle sottoregioni Imboden, Landquart e Plessur a un'organizzazione designata a tale scopo;
+- b) a favore di progetti per l'aggregazione di fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere a – c della presente legge di una regione di assistenza sanitaria rispettivamente di fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere b e c della presente legge delle sottoregioni Imboden, Landquart e Plessur, se l'aggregazione contribuisce a ottimizzare l'assistenza sanitaria nella regione di assistenza sanitaria;
+- c) a favore di progetti di messa in rete e di coordinamento dei fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere a – c della presente legge di una regione di assistenza sanitaria rispettivamente dei fornitori di prestazioni di cui all'articolo 2 capoverso 1 lettere b e c della presente legge delle sottoregioni Imboden, Landquart e Plessur;
+- d) a favore di progetti per l'ulteriore sviluppo, la messa in rete o l'aggregazione delle organizzazioni designate per l'assunzione della direzione strategica e operativa all'interno di una regione di assistenza sanitaria conformemente al capoverso 1.
+
+<sup>3</sup> Il Governo stabilisce le condizioni per il sussidio e i costi computabili.
 
 ## 2. Pianificazione ospedaliera ed elenco degli ospedali
 
@@ -268,9 +283,9 @@ decide:
 - a) Cantone: 90 per cento
 - b) Comuni: 10 per cento
 
-<sup>2</sup> Sono tenuti a versare i sussidi conformemente all'articolo 19 capoverso 1 lettere a e b i comuni della regione ospedaliera in cui la persona trattata ha il proprio domicilio civile. Nel caso di lavoratori stranieri e di loro familiari assicurati secondo la LAMal[^20-1] e privi di domicilio civile in Svizzera, sono chiamati a contribuire i comuni della regione ospedaliera in cui si trova il comune di dimora del lavoratore.
+<sup>2</sup> Sono tenuti a versare i sussidi conformemente all'articolo 19 capoverso 1 lettere a e b i comuni della regione di assistenza sanitaria in cui la persona trattata ha il proprio domicilio civile. Nel caso di lavoratori stranieri e di loro familiari assicurati secondo la LAMal[^20-1] e privi di domicilio civile in Svizzera, sono chiamati a contribuire i comuni della regione di assistenza sanitaria in cui si trova il comune di dimora del lavoratore.
 
-<sup>3</sup> Sono tenuti a versare i sussidi conformemente all'articolo 19 capoverso 1 lettere c ed e i comuni della rispettiva regione ospedaliera.
+<sup>3</sup> Sono tenuti a versare i sussidi conformemente all'articolo 19 capoverso 1 lettere c ed e i comuni della rispettiva regione di assistenza sanitaria.
 
 <sup>4</sup> Sono a carico del Cantone in misura del 100 per cento i sussidi conformemente all'articolo 19 capoverso 1 lettere d, f e g nonché i sussidi conformemente all'articolo 19 capoverso 1 lettera a per persone del settore dell'asilo, se queste soggiornano in un alloggio collettivo e non esercitano un'attività lucrativa.
 
@@ -282,7 +297,7 @@ decide:
 
 <sup>1</sup> Il Gran Consiglio fissa annualmente e definitivamente nel preventivo:
 
-- a) il credito globale per la quota del Cantone ai sussidi del Cantone e dei comuni a favore del servizio pre-ospedaliero di soccorso e trasporto sanitario degli ospedali pubblici e della regione ospedaliera Mesolcina-Calanca;
+- a) il credito globale per la quota del Cantone ai sussidi del Cantone e dei comuni a favore del servizio pre-ospedaliero di soccorso e trasporto sanitario degli ospedali pubblici e della regione di assistenza sanitaria Mesolcina-Calanca;
 - b) il credito globale per i sussidi del Cantone a favore degli ospedali per la formazione universitaria e la ricerca;
 - c) il credito globale per la quota del Cantone ai sussidi del Cantone e dei comuni a favore degli ospedali pubblici per prestazioni economicamente di interesse generale;
 - d) il credito globale per i sussidi del Cantone a favore di ospedali privati ed extracantonali per garantire l'assistenza sanitaria.
@@ -291,7 +306,7 @@ decide:
 
 **Servizio pre-ospedaliero di soccorso e trasporto sanitario**
 
-<sup>1</sup> Il Governo ripartisce il credito globale per la quota del Cantone ai sussidi del Cantone e dei comuni per il servizio pre-ospedaliero di soccorso e trasporto sanitario tra gli ospedali e la regione ospedaliera Mesolcina-Calanca in considerazione del concetto di salvataggio, del grado di copertura dei costi in caso di gestione economica e in caso di configurazione e organizzazione adeguate del servizio di salvataggio.
+<sup>1</sup> Il Governo ripartisce il credito globale per la quota del Cantone ai sussidi del Cantone e dei comuni per il servizio pre-ospedaliero di soccorso e trasporto sanitario tra gli ospedali e la regione di assistenza sanitaria Mesolcina-Calanca in considerazione del concetto di salvataggio nonché del grado di copertura dei costi in caso di gestione economica e in caso di configurazione e organizzazione adeguate del servizio di salvataggio.
 
 #### Art. 23
 
@@ -333,7 +348,7 @@ decide:
 - d) l'ospedale non fornisce le prestazioni di formazione per professioni sanitarie stabilite dal Governo;
 - e) l'ospedale non mette a disposizione il numero di posti di formazione e perfezionamento professionale per professioni sanitarie stabilito dal Governo.
 
-<sup>2</sup> La riduzione non può superare i 50 franchi per abitante della regione ospedaliera.
+<sup>2</sup> La riduzione non può superare i 50 franchi per abitante della regione di assistenza sanitaria.
 
 <sup>3</sup> I sussidi che vengono ridotti in applicazione del capoverso 1 lettere d ed e devono essere versati proporzionalmente agli ospedali che forniscono prestazioni di formazione per professioni sanitarie in misura superiore a quanto stabilito dal Governo.
 
@@ -360,7 +375,7 @@ decide:
 
 <sup>1</sup> Il Governo allestisce una pianificazione per la cura e l'assistenza a pazienti lungodegenti e persone anziane secondo le direttive della legislazione sulla cura degli ammalati ed emana un elenco delle case di cura sulla base della pianificazione delle case di cura.
 
-<sup>2</sup> Esso può far dipendere l'inserimento di un'istituzione nell'elenco delle case di cura dal consenso dei comuni della regione di pianificazione.
+<sup>2</sup> Esso può far dipendere l'inserimento di un'istituzione nell'elenco delle case di cura dal consenso della regione di assistenza sanitaria rispettivamente della sottoregione competente della regione di assistenza sanitaria Churer Rheintal.
 
 <sup>3</sup> Fanno stato per analogia le disposizioni relative alla pianificazione ospedaliera e all'elenco degli ospedali.
 
@@ -368,13 +383,15 @@ decide:
 
 #### Art. 29
 
-**Competenza 1. Comuni**
+**Competenza 1. Regioni di assistenza sanitaria**
 
-<sup>1</sup> I comuni provvedono a un'offerta sufficiente per la cura e l'assistenza semistazionarie e stazionarie a pazienti lungodegenti e persone anziane.
+<sup>1</sup> Le regioni di assistenza sanitaria rispettivamente le sottoregioni della regione di assistenza sanitaria Churer Rheintal provvedono a un'offerta sufficiente per la cura e l'assistenza semistazionarie e stazionarie a pazienti lungodegenti e persone anziane.
 
 <sup>2</sup> Essi mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
 
 <sup>3</sup> L'ammissione di persone domiciliate fuori Cantone presuppone una garanzia di assunzione delle spese del Cantone di domicilio e/o del comune di domicilio.
+
+<sup>4</sup> Le regioni di assistenza sanitaria disciplinano la procedura per l'ammissione di una persona bisognosa di cure domiciliata all'interno della regione di assistenza sanitaria in caso di mancata disponibilità all'ammissione da parte delle case per anziani e di cura nonché l'assunzione di eventuali spese non coperte dai contributi previsti dalla legge.
 
 #### Art. 30
 
@@ -388,7 +405,7 @@ decide:
 
 **Sussidi agli investimenti 1. Principio e ammontare**
 
-<sup>1</sup> Per ogni posto letto di cura supplementare creato conformemente alla pianificazione quadro cantonale, il Cantone e i comuni concedono alla regione di pianificazione il seguente sussidio agli investimenti:
+<sup>1</sup> Per ogni posto letto di cura supplementare creato conformemente alla pianificazione quadro cantonale, il Cantone e i comuni della regione di assistenza sanitaria rispettivamente delle sottoregioni della regione di assistenza sanitaria Churer Rheintal concedono agli enti responsabili il seguente sussidio agli investimenti:
 
 - a) case per anziani e di cura: 160 000 franchi;
 - b) unità di cura: 120 000 franchi.
@@ -399,7 +416,7 @@ decide:
 
 <sup>4</sup> Il Governo può adeguare al rincaro i sussidi agli investimenti.
 
-<sup>5</sup> Ogni comune di una regione di pianificazione è tenuto a partecipare ai sussidi agli investimenti conformemente al capoverso 1 per offerte nella propria regione. La ripartizione avviene secondo una chiave che deve essere definita dai comuni.
+<sup>5</sup> Ogni comune di una regione di assistenza sanitaria è tenuto a partecipare ai sussidi agli investimenti conformemente ai capoversi 1 e 3 per offerte nella propria regione. La ripartizione dei sussidi comunali avviene secondo una chiave che deve essere definita dai comuni.
 
 #### Art. 32
 
@@ -486,7 +503,7 @@ decide:
 
 **Competenza**
 
-<sup>1</sup> I comuni provvedono a una sufficiente offerta di servizi di cura e assistenza a domicilio.
+<sup>1</sup> Le regioni di assistenza sanitaria rispettivamente le sottoregioni della regione di assistenza sanitaria Churer Rheintal provvedono a una sufficiente offerta di servizi di cura e assistenza a domicilio.
 
 <sup>2</sup> Essi mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
 
@@ -525,7 +542,7 @@ decide:
 - c) le prestazioni di economia domestica e di assistenza;
 - d) il servizio pasti.
 
-<sup>2</sup> I sussidi del Cantone e dei comuni ammontano al 55 per cento, rispettivamente al 45 per cento delle spese riconosciute non coperte dall'assicurazione obbligatoria contro le malattie e dalla partecipazione alle spese massima degli utenti.
+<sup>2</sup> Per ciascuna categoria di prestazioni, i sussidi del Cantone e dei comuni ammontano al 55 per cento rispettivamente al 45 per cento delle spese riconosciute non coperte dall'assicurazione obbligatoria contro le malattie e dalla partecipazione alle spese massima degli utenti.
 
 <sup>3</sup> La base per la determinazione dei sussidi riferiti alle prestazioni è costituita dai dati relativi alle spese e alle prestazioni derivati dalla contabilità analitica dei tre anni precedenti quello della decisione dei servizi economici. Nella determinazione il Governo tiene conto delle modifiche di spesa rispetto agli anni di base causate da fattori esogeni e dal rincaro.
 
@@ -681,9 +698,9 @@ decide:
 
 **Casi speciali**
 
-<sup>1</sup> Se in una regione ospedaliera non vi è alcun ospedale pubblico, la regione ospedaliera deve incaricare un altro ospedale o un'altra organizzazione del servizio pre-ospedaliero di soccorso e trasporto sanitario su strada nella propria regione. L'articolo 20 capoverso 1 e l'articolo 54 capoverso 1 si applicano per analogia.
+<sup>1</sup> Se in una regione di assistenza sanitaria non vi è alcun ospedale pubblico, la regione di assistenza sanitaria deve incaricare un altro ospedale o un'altra organizzazione del servizio pre-ospedaliero di soccorso e trasporto sanitario su strada nella propria regione. L'articolo 20 capoverso 1 e l'articolo 54 capoverso 1 si applicano per analogia.
 
-<sup>2</sup> Il Governo può approvare l'adesione delle regioni ospedaliere a un posto di coordinamento extracantonale, se ciò appare opportuno al fine di soddisfare gli obiettivi del servizio di salvataggio nel Cantone. I relativi costi sono a carico del Cantone.
+<sup>2</sup> Il Governo può stipulare accordi con posti di coordinamento extracantonali, se ciò appare opportuno al fine di soddisfare gli obiettivi del servizio di salvataggio nel Cantone in determinate regioni di assistenza sanitaria. I relativi costi sono a carico del Cantone.
 
 #### Art. 56
 
@@ -720,7 +737,7 @@ decide:
 
 **Spese irrecuperabili**
 
-<sup>1</sup> Se le spese di un trasporto su strada di ammalati e in caso d'emergenza effettuato da un'organizzazione riconosciuta sono irrecuperabili, esse vanno a carico del conto d'esercizio dell'ospedale della rispettiva regione ospedaliera.
+<sup>1</sup> Se le spese di un trasporto su strada di ammalati e in caso d'emergenza effettuato da un'organizzazione riconosciuta sono irrecuperabili, esse vanno a carico del conto d'esercizio dell'ospedale della rispettiva regione di assistenza sanitaria.
 
 <sup>2</sup> Il Cantone può assumersi le spese irrecuperabili di operazioni di ricerca, di soccorso e di salvataggio delle altre organizzazioni coinvolte.
 

@@ -4,13 +4,13 @@ number: "506.000"
 title: Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Krankenpflegegesetz, KPG"
 language: de
-version: 2018-01-01
-corrected: 2020-10-05
-version_adopted: 2017-08-30
+version: 2021-01-01
+corrected: 2021-02-08
+version_adopted: 2020-08-26
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2856/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2856/pdf_file"
 
 (Krankenpflegegesetz, KPG)
 
-Vom 30.08.2017 (Stand 01.01.2018)
+Vom 30.08.2017 (Stand 01.01.2021)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -91,42 +91,57 @@ beschliesst:
 
 **Öffentliche Spitäler**
 
-<sup>1</sup> Als öffentliche akutsomatische Spitäler im Sinne dieses Gesetzes gelten das Kantonsspital Graubünden in Chur, das Spital Oberengadin in Samedan, das Spital Davos in Davos, das Regionalspital Surselva in Ilanz, das Spital Thusis in Thusis, das Spital Unterengadin in Scuol, das Spital Schiers in Schiers, das Spital Surses in Savognin, das Spital San Sisto in Poschiavo, das Gesundheitszentrum Bergell in Promontogno, das Spital Val Müstair in Sta. Maria.
+<sup>1</sup> Als öffentliche akutsomatische Spitäler im Sinne dieses Gesetzes gelten das Kantonsspital Graubünden in Chur, das Spital Oberengadin in Samedan, das Spital Davos in Davos, das Regionalspital Surselva in Ilanz, das Spital Thusis in Thusis, das Spital des Center da sandà Engiadina Bassa in Scuol, das Spital Schiers der Flury-Stiftung in Schiers, das Spital des Center da Sanadad Savognin in Savognin, das Spital San Sisto des Centro Sanitario Valposchiavo in Poschiavo, das Centro Sanitario Bregaglia in Promontogno, das Spital des Center da sandà Val Müstair in Sta. Maria.
 
-<sup>2</sup> Als öffentliche psychiatrische Spitäler im Sinne dieses Gesetzes gelten die Kliniken Waldhaus und Beverin der Psychiatrischen Dienste Graubünden und die Kinder- und Jugendstation der Kinder- und Jugendpsychiatrie Graubünden.
+<sup>2</sup> Als öffentliche psychiatrische Spitäler im Sinne dieses Gesetzes gelten die Kliniken Waldhaus und Beverin und die kinder- und jugendpsychiatrische Station Fürstenwald der Psychiatrischen Dienste Graubünden.
 
 #### Art. 7
 
-**Spitalregionen**
+**Gesundheitsversorgungsregionen 1. Einteilung**
 
-<sup>1</sup> Das Kantonsgebiet wird in folgende Spitalregionen eingeteilt:
+<sup>1</sup> Die Gemeinden werden folgenden Gesundheitsversorgungsregionen zugeteilt:
 
-- a) Spitalregion Churer Rheintal mit den Gemeinden Arosa, Bonaduz, Chur, Churwalden, Domat/Ems, Felsberg, Fläsch, Flims, Haldenstein, Jenins, Landquart, Lantsch/Lenz, Maienfeld, Maladers, Malans, Rhäzüns, Tamins, Trimmis, Trin, Tschiertschen-Praden, Untervaz, Vaz/Obervaz, Zizers;
-- b) Spitalregion Oberengadin mit den Gemeinden Bever, Celerina/Schlarigna, La Punt-Chamues-ch, Madulain, Pontresina, Samedan, S-chanf, Sils i.E./Segl, Silvaplana, St. Moritz, Zuoz;
-- c) Spitalregion Engiadina Bassa mit den Gemeinden Samnaun, Scuol, Valsot, Zernez;
-- d) Spitalregion Davos mit den Gemeinden Davos, Schmitten;
-- e) Spitalregion Surselva mit den Gemeinden Andiast, Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals, Waltensburg/Vuorz;
-- f) Spitalregion Heinzenberg/Domleschg/Hinterrhein/Albula mit den Gemeinden Albula/Alvra, Andeer, Avers, Bergün/Bravuogn, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Filisur, Flerden, Fürstenau, Hinterrhein, Lohn, Masein, Mathon, Mutten, Nufenen, Rongellen, Rothenbrunnen, Scharans, Sils i.D., Splügen, Sufers, Thusis, Tschappina, Urmein, Zillis-Reischen;
-- g) Spitalregion Oberhalbstein mit der Gemeinde Surses;
-- h) Spitalregion Prättigau mit den Gemeinden Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
-- i) Spitalregion Val Müstair mit der Gemeinde Val Müstair;
-- j) Spitalregion Poschiavo mit den Gemeinden Brusio, Poschiavo;
-- k) Spitalregion Bergell mit der Gemeinde Bregaglia;
-- l) Spitalregion Mesolcina-Calanca mit den Gemeinden Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+- a) Gesundheitsversorgungsregion Churer Rheintal mit den Gemeinden Bonaduz, Domat/Ems, Felsberg, Flims, Rhäzüns, Tamins und Trin in der Subregion Imboden, den Gemeinden Fläsch, Jenins, Landquart, Maienfeld, Malans, Trimmis, Untervaz und Zizers in der Subregion Landquart sowie den Gemeinden Arosa, Chur, Churwalden, Haldenstein und Tschiertschen-Praden in der Subregion Plessur;
+- b) Gesundheitsversorgungsregion Oberengadin mit den Gemeinden Bever, Celerina/Schlarigna, La Punt Chamues-ch, Madulain, Pontresina, Samedan, S-chanf, Sils i.E./Segl, Silvaplana, St. Moritz, Zuoz;
+- c) Gesundheitsversorgungsregion Engiadina Bassa mit den Gemeinden Samnaun, Scuol, Valsot, Zernez;
+- d) Gesundheitsversorgungsregion Davos mit der Gemeinde Davos;
+- e) Gesundheitsversorgungsregion Surselva mit den Gemeinden Breil/Brigels, Disentis/Mustér, Falera, Ilanz/Glion, Laax, Lumnezia, Medel (Lucmagn), Obersaxen Mundaun, Safiental, Sagogn, Schluein, Sumvitg, Trun, Tujetsch, Vals;
+- f) Gesundheitsversorgungsregion Albula/Viamala mit den Gemeinden Albula/Alvra, Andeer, Avers, Bergün Filisur, Casti-Wergenstein, Cazis, Domleschg, Donat, Ferrera, Flerden, Fürstenau, Lantsch/Lenz, Lohn, Masein, Mathon, Rheinwald, Rongellen, Rothenbrunnen, Schmitten, Scharans, Sils i.D., Sufers, Thusis, Tschappina, Vaz/Obervaz, Urmein, Zillis-Reischen;
+- g) Gesundheitsversorgungsregion Surses mit der Gemeinde Surses;
+- h) Gesundheitsversorgungsregion Prättigau mit den Gemeinden Conters i.P., Fideris, Furna, Grüsch, Jenaz, Klosters-Serneus, Küblis, Luzein, Schiers, Seewis i.P.;
+- i) Gesundheitsversorgungsregion Val Müstair mit der Gemeinde Val Müstair;
+- j) Gesundheitsversorgungsregion Valposchiavo mit den Gemeinden Brusio, Poschiavo;
+- k) Gesundheitsversorgungsregion Bregaglia mit der Gemeinde Bregaglia;
+- l) Gesundheitsversorgungsregion Mesolcina-Calanca mit den Gemeinden Buseno, Calanca, Cama, Castaneda, Grono, Lostallo, Mesocco, Rossa, Roveredo, San Vittore, Soazza, Sta. Maria i.C.
+
+<sup>2</sup> Gesundheitsversorgungsregionen können sich auf Beginn eines Kalenderjahres zusammenschliessen.
 
 #### Art. 8
 
-**Planungsregionen**
-
-<sup>1</sup> Die Regierung kann nach Anhören der Gemeinden für Angebote für die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen sowie die Dienste der häuslichen Pflege und Betreuung Planungsregionen bezeichnen und die Gemeinden den Planungsregionen zuteilen.
+**…**
 
 #### Art. 9
 
-**Organisation der Spital- und Planungsregionen**
+**2. Organisation der Spital- und Planungsregionen**
 
-<sup>1</sup> Die Gemeinden der einzelnen Spitalregionen sowie der Planungsregionen für die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen sowie die häusliche Pflege und Betreuung haben sich in zweckmässiger Weise zu organisieren.
+<sup>1</sup> Die Gemeinden der einzelnen Gesundheitsversorgungsregionen haben sich in zweckmässiger Weise zu organisieren.
 
-<sup>2</sup> Die Trägerschaften der Leistungserbringer haben den Gemeinden ihrer Spitalregion beziehungsweise ihrer Planungsregion für die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen sowie für die Dienste der häuslichen Pflege und Betreuung ein angemessenes Mitspracherecht einzuräumen.
+<sup>2</sup> Die Trägerschaften der Leistungserbringer haben den Gemeinden ihrer Gesundheitsversorgungsregion ein angemessenes Mitspracherecht einzuräumen. Zu diesem Zweck schliesst die Gesundheitsversorgungsregion mit den Trägerschaften der Leistungserbringer eine Leistungsvereinbarung ab.
+
+#### Art. 9a
+
+**3. Beiträge**
+
+<sup>1</sup> Ziel der Gesundheitspolitik des Kantons ist, dass alle Leistungserbringer gemäss Artikel 2 Absatz 1 Litera a bis c dieses Gesetzes in einer Gesundheitsversorgungsregion beziehungsweise alle Leistungserbringer gemäss Artikel 2 Absatz 1 Litera b und c dieses Gesetzes in den Subregionen Imboden, Landquart und Plessur die strategische und operative Betriebsführung an eine dafür bestimmte Organisation übertragen und diese weiterentwickeln.
+
+<sup>2</sup> Der Kanton kann zu diesem Zweck einen Beitrag bis maximal 50 Prozent der anrechenbaren Kosten gewähren:
+
+- a) an Projekte zur Übertragung der strategischen und operativen Betriebsführung aller Leistungserbringer gemäss Artikel 2 Absatz 1 Litera a bis c dieses Gesetzes in einer Gesundheitsversorgungsregion beziehungsweise aller Leistungserbringer gemäss Artikel 2 Absatz 1 Litera b und c dieses Gesetzes in den Subregionen Imboden, Landquart und Plessur an eine dafür bestimmte Organisation;
+- b) an Projekte zum Zusammenschluss von Leistungserbringern gemäss Artikel 2 Absatz 1 Litera a bis c dieses Gesetzes in einer Gesundheitsversorgungsregion beziehungsweise von Leistungserbringern gemäss Artikel 2 Absatz 1 Litera b und c dieses Gesetzes in den Subregionen Imboden, Landquart und Plessur, wenn der Zusammenschluss zur Optimierung der Gesundheitsversorgung in der Gesundheitsversorgungsregion beiträgt;
+- c) an Projekte zur Vernetzung und Koordination der Leistungserbringer gemäss Artikel 2 Absatz 1 Litera a bis c dieses Gesetzes in einer Gesundheitsversorgungsregion beziehungsweise der Leistungserbringer gemäss Artikel 2 Absatz 1 Litera b und c dieses Gesetzes in den Subregionen Imboden, Landquart und Plessur;
+- d) an Projekte zur Weiterentwicklung, zur Vernetzung oder zum Zusammenschluss der gemäss Absatz 1 zur Übernahme der strategischen und operativen Betriebsführung in einer Gesundheitsversorgungsregion bestimmten Organisationen.
+
+<sup>3</sup> Die Regierung legt die Beitragsvoraussetzungen und die anrechenbaren Kosten fest.
 
 ## 2. Spitalplanung und Spitalliste
 
@@ -268,9 +283,9 @@ beschliesst:
 - a) Kanton: 90 Prozent
 - b) Gemeinden: 10 Prozent
 
-<sup>2</sup> Leistungspflichtig für die Beiträge gemäss Artikel 19 Absatz 1 Litera a und b sind die Gemeinden der Spitalregion, in welcher die behandelte Person ihren zivilrechtlichen Wohnsitz hat. Für nach KVG[^20-1] versicherte ausländische Arbeitnehmerinnen und Arbeitnehmer und deren Angehörige ohne zivilrechtlichen Wohnsitz in der Schweiz sind die Gemeinden der Spitalregion der Aufenthaltsgemeinde der Arbeitnehmerin oder des Arbeitnehmers beitragspflichtig.
+<sup>2</sup> Leistungspflichtig für die Beiträge gemäss Artikel 19 Absatz 1 Litera a und b sind die Gemeinden der Gesundheitsversorgungsregion, in welcher die behandelte Person ihren zivilrechtlichen Wohnsitz hat. Für nach KVG[^20-1] versicherte ausländische Arbeitnehmerinnen und Arbeitnehmer und deren Angehörige ohne zivilrechtlichen Wohnsitz in der Schweiz sind die Gemeinden der Gesundheitsversorgungsregion, in der sich die Aufenthaltsgemeinde der Arbeitnehmerin oder des Arbeitnehmers befindet, beitragspflichtig.
 
-<sup>3</sup> Leistungspflichtig für die Beiträge gemäss Artikel 19 Absatz 1 Litera c und e sind die Gemeinden der betreffenden Spitalregion.
+<sup>3</sup> Leistungspflichtig für die Beiträge gemäss Artikel 19 Absatz 1 Litera c und e sind die Gemeinden der betreffenden Gesundheitsversorgungsregion.
 
 <sup>4</sup> Zu 100 Prozent zu Lasten des Kantons gehen die Beiträge gemäss Artikel 19 Absatz 1 Litera d, f und g sowie die Beiträge gemäss Artikel 19 Absatz 1 Litera a für Personen des Asylbereichs, soweit sie sich in einer Kollektivunterkunft aufhalten und keine Erwerbstätigkeit ausüben.
 
@@ -282,7 +297,7 @@ beschliesst:
 
 <sup>1</sup> Der Grosse Rat legt jährlich im Budget abschliessend fest:
 
-- a) den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden an den Notfall- und Krankentransportdienst der öffentlichen Spitäler und der Spitalregion Mesolcina-Calanca;
+- a) den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden an den Notfall- und Krankentransportdienst der öffentlichen Spitäler und der Gesundheitsversorgungsregion Mesolcina-Calanca;
 - b) den Gesamtkredit für die Beiträge des Kantons an die Spitäler für die universitäre Lehre und die Forschung;
 - c) den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden an die öffentlichen Spitäler für gemeinwirtschaftliche Leistungen;
 - d) den Gesamtkredit für die Beiträge des Kantons an private und ausserkantonale Spitäler zur Sicherstellung der Versorgung.
@@ -291,7 +306,7 @@ beschliesst:
 
 **Notfall- und Krankentransport**
 
-<sup>1</sup> Die Regierung teilt den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden für den Notfall- und Krankentransportdienst unter Berücksichtigung des Rettungskonzepts sowie des Kostendeckungsgrades bei wirtschaftlicher Führung und angemessener Ausgestaltung und Organisation des Rettungsdienstes auf die Spitäler und auf die Spitalregion Mesolcina-Calanca auf.
+<sup>1</sup> Die Regierung teilt den Gesamtkredit für den Anteil des Kantons an den Beiträgen des Kantons und der Gemeinden für den Notfall- und Krankentransportdienst unter Berücksichtigung des Rettungskonzepts sowie des Kostendeckungsgrades bei wirtschaftlicher Führung und angemessener Ausgestaltung und Organisation des Rettungsdienstes auf die Spitäler und auf die Gesundheitsversorgungsregion Mesolcina-Calanca auf.
 
 #### Art. 23
 
@@ -333,7 +348,7 @@ beschliesst:
 - d) die von der Regierung festgelegten Ausbildungsleistungen für Gesundheitsberufe vom Spital nicht erbracht werden;
 - e) die von der Regierung festgelegte Anzahl Aus- und Weiterbildungsplätze für Gesundheitsberufe vom Spital nicht zur Verfügung gestellt wird.
 
-<sup>2</sup> Die Kürzung darf pro Einwohnerin oder Einwohner der Spitalregion nicht mehr als 50 Franken betragen.
+<sup>2</sup> Die Kürzung darf pro Einwohnerin oder Einwohner der Gesundheitsversorgungsregion nicht mehr als 50 Franken betragen.
 
 <sup>3</sup> Die Beiträge, die in Anwendung von Absatz 1 Litera d und e gekürzt werden, sind anteilmässig denjenigen Spitälern auszurichten, die mehr Ausbildungsleistungen für Gesundheitsberufe erbringen als von der Regierung festgelegt.
 
@@ -360,7 +375,7 @@ beschliesst:
 
 <sup>1</sup> Die Regierung erstellt nach den Vorgaben der Krankenversicherungsgesetzgebung eine Planung für die Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen und erlässt gestützt auf die Pflegeheimplanung eine Pflegeheimliste.
 
-<sup>2</sup> Sie kann die Aufnahme einer Institution auf die Pflegeheimliste von der Zustimmung der Gemeinden der Planungsregion abhängig machen.
+<sup>2</sup> Sie kann die Aufnahme einer Institution auf die Pflegeheimliste von der Zustimmung der Gesundheitsversorgungsregion beziehungsweise der zuständigen Subregion der Gesundheitsversorgungsregion Churer Rheintal abhängig machen.
 
 <sup>3</sup> Die Bestimmungen zur Spitalplanung und Spitalliste gelten dabei sinngemäss.
 
@@ -368,13 +383,15 @@ beschliesst:
 
 #### Art. 29
 
-**Zuständigkeit 1. Gemeinden**
+**Zuständigkeit 1. Gesundheitsversorgungsregionen**
 
-<sup>1</sup> Die Gemeinden sorgen für ein ausreichendes Angebot für die teilstationäre und die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen.
+<sup>1</sup> Die Gesundheitsversorgungsregionen beziehungsweise die Subregionen der Gesundheitsversorgungsregion Churer Rheintal sorgen für ein ausreichendes Angebot für die teilstationäre und die stationäre Pflege und Betreuung von Langzeitpatientinnen und -patienten und betagten Personen.
 
 <sup>2</sup> Sie erstellen eine regional abgestimmte Bedarfsplanung.
 
 <sup>3</sup> Die Aufnahme von Personen mit ausserkantonalem Wohnsitz setzt eine Kostengutsprache des Wohnsitzkantons und/oder der Wohnsitzgemeinde voraus.
+
+<sup>4</sup> Die Gesundheitsversorgungsregionen regeln das Verfahren für die Aufnahme einer pflegebedürftigen Person mit Wohnsitz in der Gesundheitsversorgungsregion bei fehlender Aufnahmebereitschaft der Alters- und Pflegeheime und die Kostentragung allfälliger durch die gesetzlichen Beiträge nicht gedeckter Aufwendungen.
 
 #### Art. 30
 
@@ -388,7 +405,7 @@ beschliesst:
 
 **Investitionsbeiträge 1. Grundsatz und Höhe**
 
-<sup>1</sup> Der Kanton und die Gemeinden gewähren der Planungsregion für jedes in Übereinstimmung mit der kantonalen Rahmenplanung zusätzlich geschaffene Pflegebett folgenden Investitionsbeitrag:
+<sup>1</sup> Der Kanton und die Gemeinden der Gesundheitsversorgungsregion beziehungsweise der Subregionen der Gesundheitsversorgungsregion Churer Rheintal gewähren den Trägerschaften für jedes in Übereinstimmung mit der kantonalen Rahmenplanung zusätzlich geschaffene Pflegebett folgenden Investitionsbeitrag:
 
 - a) Alters- und Pflegeheime: 160 000 Franken;
 - b) Pflegegruppen: 120 000 Franken.
@@ -399,7 +416,7 @@ beschliesst:
 
 <sup>4</sup> Die Regierung kann die Investitionsbeiträge der Teuerung anpassen.
 
-<sup>5</sup> Jede Gemeinde einer Planungsregion ist verpflichtet, sich an den Investitionsbeiträgen gemäss Absatz 1 für Angebote in ihrer Region zu beteiligen. Die Aufteilung erfolgt nach einem von den Gemeinden zu bestimmenden Schlüssel.
+<sup>5</sup> Jede Gemeinde einer Gesundheitsversorgungsregion ist verpflichtet, sich an den Investitionsbeiträgen gemäss den Absätzen 1 und 3 für Angebote in ihrer Region zu beteiligen. Die Aufteilung der Gemeindebeiträge erfolgt nach einem von den Gemeinden zu bestimmenden Schlüssel.
 
 #### Art. 32
 
@@ -486,7 +503,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Gemeinden sorgen für ein ausreichendes Angebot an Diensten der häuslichen Pflege und Betreuung.
+<sup>1</sup> Die Gesundheitsversorgungsregionen beziehungsweise die Subregionen der Gesundheitsversorgungsregion Churer Rheintal sorgen für ein ausreichendes Angebot an Diensten der häuslichen Pflege und Betreuung.
 
 <sup>2</sup> Sie erstellen eine regional abgestimmte Bedarfsplanung.
 
@@ -525,7 +542,7 @@ beschliesst:
 - c) die hauswirtschaftlichen und betreuerischen Leistungen;
 - d) den Mahlzeitendienst.
 
-<sup>2</sup> Der Beitrag des Kantons und der Gemeinden beträgt 55 Prozent beziehungsweise 45 Prozent der nicht durch die obligatorische Krankenpflegeversicherung und die maximale Kostenbeteiligung der Klientinnen und Klienten gedeckten anerkannten Kosten.
+<sup>2</sup> Der Beitrag des Kantons und der Gemeinden beträgt 55 Prozent beziehungsweise 45 Prozent pro Leistungskategorie der nicht durch die obligatorische Krankenpflegeversicherung und die maximale Kostenbeteiligung der Klientinnen und Klienten gedeckten anerkannten Kosten.
 
 <sup>3</sup> Basis für die Festlegung der leistungsbezogenen Beiträge bilden die Kosten- und Leistungsdaten der Kostenrechnung der drei der Beschlussfassung vorangehenden Jahre der wirtschaftlichen Dienste. Bei der Festlegung berücksichtigt die Regierung die gegenüber den Basisjahren durch exogene Faktoren und die Teuerung verursachten Aufwandänderungen.
 
@@ -681,9 +698,9 @@ beschliesst:
 
 **Sonderfälle**
 
-<sup>1</sup> Befindet sich in einer Spitalregion kein öffentliches Spital, hat die Spitalregion ein anderes Spital oder eine andere Organisation mit dem Notfall- und Krankentransportdienst auf der Strasse in ihrer Region zu beauftragen. Artikel 20 Absatz 1 und Artikel 54 Absatz 1 finden sinngemäss Anwendung.
+<sup>1</sup> Befindet sich in einer Gesundheitsversorgungsregion kein öffentliches Spital, hat die Gesundheitsversorgungsregion ein anderes Spital oder eine andere Organisation mit dem Notfall- und Krankentransportdienst auf der Strasse in ihrer Region zu beauftragen. Artikel 20 Absatz 1 und Artikel 54 Absatz 1 finden sinngemäss Anwendung.
 
-<sup>2</sup> Die Regierung kann Spitalregionen den Anschluss an eine ausserkantonale Koordinationsstelle genehmigen, wenn dies zur Erfüllung der Zielsetzung des Rettungswesens im Kanton als zweckmässig erscheint. Die entsprechenden Kosten gehen zu Lasten des Kantons.
+<sup>2</sup> Die Regierung kann Vereinbarungen mit ausserkantonalen Koordinationsstellen abschliessen, wenn dies zur Erfüllung der Zielsetzung des Rettungswesens im Kanton in bestimmten Gesundheitsversorgungsregionen als zweckmässig erscheint. Die entsprechenden Kosten gehen zu Lasten des Kantons.
 
 #### Art. 56
 
@@ -720,7 +737,7 @@ beschliesst:
 
 **Uneinbringliche Kosten**
 
-<sup>1</sup> Sind Kosten eines durch eine anerkannte Organisation durchgeführten Notfall- und Krankentransportes auf der Strasse uneinbringlich, so gehen diese zu Lasten der Betriebsrechnung des Spitals der betreffenden Spitalregion.
+<sup>1</sup> Sind Kosten eines durch eine anerkannte Organisation durchgeführten Notfall- und Krankentransportes auf der Strasse uneinbringlich, so gehen diese zu Lasten der Betriebsrechnung des Spitals der betreffenden Gesundheitsversorgungsregion.
 
 <sup>2</sup> Der Kanton kann uneinbringliche Kosten von Such-, Bergungs- und Rettungsaktionen der übrigen beteiligten Organisationen übernehmen.
 
