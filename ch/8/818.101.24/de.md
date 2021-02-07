@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-01-28
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210128/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210128-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 28. Januar 2021)
+vom 19. Juni 2020 (Stand am 8. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -71,8 +71,7 @@ Um die Kapazitäten der Schweiz zur Bewältigung der Covid-19-Epidemie aufrechtz
 Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis zu drei Monaten wird verweigert (Art. 10 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^4-2], AIG):
 
 - a. Ausländerinnen und Ausländern, die aus einem Risikoland oder aus einer Risikoregion kommend in die Schweiz einreisen wollen und nicht vom Geltungsbereich des Abkommens vom 21. Juni 1999[^4-3] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (FZA) oder des Übereinkommens vom 4. Januar 1960[^4-4] zur Errichtung der Europäischen Freihandelsassoziation (EFTA-Übereinkommen) erfasst werden;
-- b. Ausländerinnen und Ausländern, die aus Südafrika kommend in die Schweiz einreisen wollen;
-- c. Ausländerinnen und Ausländern, die aus dem Vereinigten Königreich kommend in die Schweiz einreisen wollen.[^4-5]
+- b. und c.[^4-5] ... .[^4-6]
 
 <sup>2</sup> Von diesem Einreiseverbot ausgenommen sind Personen, die glaubhaft machen, dass sie sich in einer Situation der äussersten Notwendigkeit befinden. Das Staatssekretariat für Migration (SEM) erlässt die notwendigen Weisungen.
 
@@ -84,7 +83,8 @@ Die Einreise für einen bewilligungsfreien Aufenthalt ohne Erwerbstätigkeit bis
 [^4-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^4-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-5]: Fassung gemäss Ziff. I der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-5]: Aufgehoben durch Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, mit Wirkung seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^4-6]: Fassung gemäss Ziff. I der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
 
 #### Art. 5–7
 
@@ -669,7 +669,7 @@ Anhang 1*[^t-1]*
 
 ## Liste der Risikoländer und -regionen
 
-[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 23. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6735](https://fedlex.data.admin.ch/eli/oc/2020/1076)).
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 2. Febr. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
 
 Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 
@@ -678,7 +678,6 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Bulgarien
 - – Heiliger Stuhl
 - – Irland
-- – Japan
 - – Korea (Süd-)
 - – Kroatien
 - – Monaco
@@ -701,12 +700,9 @@ Anhang 3*[^t-3]*
 
 ## Einschränkungen des grenzüberschreitenden Personenverkehrs
 
-[^t-3]: Fassung gemäss Ziff. II der V vom 21. Dez. 2020, in Kraft seit 21. Dez. 2020 um 13.00 Uhr ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^t-3]: Fassung gemäss Ziff. II der V vom 21. Dez. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Bereinigt gemäss Anhang 2 Ziff. 2 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Jan. 2021, in Kraft seit 8. Febr. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
-
-- – Südafrika
-- – Vereinigtes Königreich
 
 Anhang 4*[^t-4]*
 

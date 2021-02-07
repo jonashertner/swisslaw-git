@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-01-28
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210128/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210128-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 28 January 2021)
+of 19 June 2020 (Status as of 8 February 2021)
 
 The Swiss Federal Council,
 
@@ -73,8 +73,7 @@ In order to maintain Switzerland’s capacities to manage the COVID-19 epidemic 
 The following persons shall be refused entry for a period of stay of up to three months that does not require a permit and does not involve gainful employment (Art. 10 of the Foreign Nationals and Integration Act of 16 December 2005[^4-2] (FNIA):
 
 - a. foreign nationals who wish to enter Switzerland from a high-risk country or from a high-risk region and who do not fall within the scope of the Agreement of 21 June 1999[^4-3] between the European Community and its Member States, of the one part, and the Swiss Confederation, of the other part, on the Free Movement of Persons (AFMP) or of the Convention of 4 January 1960[^4-4] establishing the European Free Trade Association (EFTA Convention);
-- b. foreign nationals who wish to enter Switzerland from South Africa;
-- c. foreign nationals who wish to enter Switzerland from the United Kingdom.[^4-5]
+- b. und c.[^4-5] ... .[^4-6]
 
 <sup>2</sup> Persons who provide credible evidence that they are in a situation of special necessity are exempted from this ban on entry. The State Secretariat for Migration (SEM) shall issue the required directives.
 
@@ -86,7 +85,8 @@ The following persons shall be refused entry for a period of stay of up to three
 [^4-2]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^4-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-4]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-5]: Amended by No I of the O of 21 Dec. 2020, in force from 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-5]: Repealed by Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, with effect from 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^4-6]: Amended by No I of the O of 21 Dec. 2020, in force since 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
 
 #### Art. 5–7
 
@@ -475,11 +475,11 @@ The Confederation shall pay the costs only if the services specified in Annex 6 
   - 1\. doctors,
   - 2\. pharmacists,
   - 3\. hospitals,
-  - 4\. laboratories in accordance with Article 54 paragraph 3 of the Ordinance of 27 June 1995[^26-5] on Health Insurance (HIO) and hospital laboratories in accordance with Article 54 paragraph 2 HIO that hold a licence under Article 16 paragraph 1 EpidA;
+  - 4\. laboratories in accordance with Article 54 paragraph 3 of the Ordinance of 27 June 1995[^26-5] on Health Insurance (HIO) and hospital laboratories in accordance with Article 54 paragraph 2 HIO that hold a licence under Article 16 paragraph 1 EpidA,
   - 5\. care homes,
   - 6\. organisations that provide nursing services and other assistance at home;
 
-- b. test centres that are operated by or on behalf of the canton.
+- b. test centres that are operated by or on behalf of the canton;
 - c. homes for the elderly;
 - d. socio-medical institutions.[^26-6]
 
@@ -548,7 +548,7 @@ Where the analysis for Sars-CoV-2 is carried out to prevent COVID-19 in persons 
 
 <sup>8</sup> The joint institution shall invoice the FOPH every quarter on a time and material basis for the administrative costs of its activities as an insurer under Article 26*a* paragraphs 1 letter c and 3 letter a. The hourly rate shall be 95 francs and includes salary costs, social insurance payments and infrastructure costs. The actual costs of any expenditure on audits, system modifications and negative interest not included in the administrative costs shall be reimbursed.
 
-<sup>9</sup> The invoice for analyses for Sars-CoV-2 carried out in relation to persons who do not meet the FOPH criteria for suspicion, sampling and reporting of 27 January 2021[^26b-4] must be marked “Analysis for Sars-CoV-2 without meeting the testing criteria”.
+<sup>9</sup> The invoice for analyses for Sars-CoV-2 carried out in relation to persons who do not meet the FOPH criteria for suspicion, sampling and reporting of 27 January 2021[^26b-4] must be marked «Analysis for Sars-CoV-2 without meeting the testing criteria».
 
 [^26b-1]: Inserted by No I of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 [^26b-2]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
@@ -671,7 +671,7 @@ Annex 1*[^t-1]*
 
 ## List of high-risk countries and regions
 
-[^t-1]: Amended by No I of the FDJP O of 23 Dec. 2020, in force since 1 Jan. 2021 ([AS 2020 6735](https://fedlex.data.admin.ch/eli/oc/2020/1076)).
+[^t-1]: Amended by No I of the FDJP O of 2 Feb. 2021, in force since 8 Feb. 2021 ([AS 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
 
 All states outside the Schengen area, with the exception of:
 
@@ -682,7 +682,6 @@ All states outside the Schengen area, with the exception of:
 - – Cyprus
 - – Holy See
 - – Ireland
-- – Japan
 - – Monaco
 - – New Zealand
 - – Romania
@@ -702,12 +701,9 @@ Annex 3*[^t-3]*
 
 ## Restrictions on cross-border movements of persons
 
-[^t-3]: Amended by No II of the O of 21 Dec. 2020, in force from 21 Dec. 2020 at 1pm ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^t-3]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 The movement of persons from the following states into Switzerland is prohibited:
-
-- – South Africa
-- – United Kingdom
 
 Annex 4*[^t-4]*
 
@@ -910,7 +906,7 @@ Annex 6*[^t-7]*
 
 ## Services and maximum amounts paid for Sars-CoV-2 analyses
 
-[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No II para. 2 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021, Nos 1.5 and 4.3 in force from 1 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54))
+[^t-7]: Inserted by No II of the O of 28 Oct. 2020 (Sars-CoV-2 Rapid Antigen Tests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Amended by No II para. 2 of the O of 27 Jan. 2021 (Tests for Sars-CoV-2 and FFP Masks), in force since 28 Jan. 2021, Nos 1.5 and 4.3 in force from 1 Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 ### 1 Analyses for Sars-CoV-2 pursuant to Numbers 1–4.3 of the FOPH criteria for suspicion, sampling and reporting of 27 January 2021****
 
@@ -1000,7 +996,7 @@ Annex 6*[^t-7]*
   - a. for taking a sample:
 
 <table>
-<tr><td>Service</td><td>Maximum amount</td></tr>
+<tr><th>Service</th><th>Maximum amount</th></tr>
 <tr><td>Patient consultation and taking sample, including protective materials, by the service provider under Article 26 paragraph 2</td><td>25 Fr.</td></tr>
 <tr><td>Communicating the test result to the person tested in accordance with Article 26 paragraph 2 and to the responsible authorities under Article 12 paragraph 1 EpidA and requesting the activation code generated by the PT system when infection is detected</td><td>2.50 Fr.</td></tr>
 <tr><td>Detailed doctor-patient consultation on the indications, where such is carried out</td><td>22.50 Fr.</td></tr>
@@ -1033,8 +1029,10 @@ Annex 6*[^t-7]*
 
 <table>
 <tr><th>Service</th><th>Maximum amount</th></tr>
-<tr><td>When carried out by microbiological diagnostic laboratories with accreditation from the Swiss Accreditation Service (SAS) in sequencing and reference laboratories that meet the requirements of Article 17 EpidA, on the specific order of the Chief Cantonal Medical Officer, comprising: analysis and report to the authorities under Article 12 paragraph 2 EpidA order processing, overheads and sampling materials</td><td>243.50 Fr. 219.50 Fr. 24 Fr.</td></tr>
+<tr><td>When carried out by microbiological diagnostic laboratories with accreditation from the Swiss Accreditation Service (SAS) in sequencing[^annex6-lvlu1-lvl1-lvl16-1] and reference laboratories that meet the requirements of Article 17 EpidA, on the specific order of the Chief Cantonal Medical Officer, comprising: analysis and report to the authorities under Article 12 paragraph 2 EpidA order processing, overheads and sampling materials</td><td>243.50 Fr. 219.50 Fr. 24 Fr.</td></tr>
 </table>
+
+[^annex6-lvlu1-lvl1-lvl16-1]: The SAS list of accredited diagnostic laboratories in Switzerland with experience in sequencing of microbiological samples is available at www.sas.admin.ch
 
 ### 2 Analyses for Sars-CoV-2 in situations where there is an increased risk of transmission (Sec. 4.5 of the FOPH criteria for suspicion, sampling and reporting of 27 Jan. 2021)
 

@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-01-28
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210128/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210128-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 28 gennaio 2021) (Stato 28 gennaio 2021)
+del 19 giugno 2020 (Stato 8 febbraio 2021) (Stato 8 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -71,8 +71,7 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 È rifiutata l’entrata per un soggiorno esente da permesso di tre mesi al massimo senza attività lucrativa (art. 10 della legge federale del 16 dicembre 2005[^4-2] sugli stranieri e la loro integrazione, LStrI):
 
 - a. agli stranieri provenienti da un Paese o da una regione a rischio, che intendono entrare in Svizzera e non rientrano nel campo d’applicazione dell’Accordo del 21 giugno 1999[^4-3] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (ALC) o della Convenzione del 4 gennaio 1960[^4-4] istitutiva dell’Associazione europea di libero scambio (Accordo AELS);
-- b. agli stranieri provenienti dal Sudafrica che vogliono entrare in Svizzera;
-- c. agli stranieri provenienti dal Regno Unito che vogliono entrare in Svizzera.[^4-5]
+- [tab] b. e c.[^4-5] ... .[^4-6]
 
 <sup>2</sup> Sono escluse dal presente divieto d’entrata le persone che rendono verosimile di trovarsi in una situazione di assoluta necessità. La Segreteria di Stato della migrazione (SEM) emana le necessarie istruzioni.
 
@@ -84,7 +83,8 @@ Al fine di salvaguardare le capacità della Svizzera di fare fronte all’epidem
 [^4-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^4-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-5]: Nuovo testo giusta il n. I dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-5]: Abrogate dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, con effetto dal 8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^4-6]: Nuovo testo giusta il n. I dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
 
 #### Art. 5 a 7
 
@@ -587,7 +587,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^27-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2020 (Proroga; spese per i test), in vigore dal 14 set. 2020 ([RU 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## Capitolo 4*a*: Provvedimenti per proteggere i lavoratori particolarmente a rischio
+## Capitolo 4*a*:**** Provvedimenti per proteggere i lavoratori particolarmente a rischio
 
 [^chap4a-1]
 
@@ -669,9 +669,11 @@ Allegato 1*[^t-1]*
 
 ## Elenco dei Paesi e delle regioni a rischio
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 23 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6735](https://fedlex.data.admin.ch/eli/oc/2020/1076)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 2 feb. 2021, in vigore dall’8 feb. 2021 ([RU 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
 
-Tutti gli Stati al di fuori dello spazio Schengen, tranne
+## Elenco dei Paesi e delle regioni a rischio
+
+Tutti gli Stati al di fuori dello spazio Schengen, tranne:
 
 - – Andorra
 - – Australia
@@ -679,7 +681,6 @@ Tutti gli Stati al di fuori dello spazio Schengen, tranne
 - – Cipro
 - – Corea (Sud)
 - – Croazia
-- – Giappone
 - – Irlanda
 - – Monaco
 - – Nuova Zelanda
@@ -696,16 +697,13 @@ Allegato 2*[^t-2]*
 
 Allegato 3*[^t-3]*
 
-(art. 9 cpv. 3)
-
 ## Restrizioni del traffico transfrontaliero delle persone
 
-[^t-3]: Nuovo testo giusta il n. II dell’O del 21 dic. 2020, in vigore dalle ore 13.00 del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^t-3]: Nuovo testo giusta il n. II dell’O del 21 dic. 2020 ([RU 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Aggiornato dall’all. 2 n. 2 dell’O COVID-19 del 27 gen. 2021 sui provvedimenti nel settore del traffico internazionale viaggiatori, in vigore dall’8 feb. 2021 ([RU 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 Il traffico delle persone dai seguenti Stati in Svizzera è vietato:
 
-- – Regno Unito
-- – Sudafrica
+...
 
 Allegato 4*[^t-4]*
 
@@ -763,7 +761,7 @@ Allegato 4*[^t-4]*
 - 44\. Immunoterapia contro il COVID-19
 - 45\. Gas medicinali
 
-### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001 relativa ai dispositivi medici
+### 2. Dispositivi medici ai sensi dell’ordinanza del 17 ottobre 2001**** relativa ai dispositivi medici
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -781,7 +779,7 @@ Allegato 4*[^t-4]*
 
 ### 3. Dispositivi di protezione individuale e altri dispositivi
 
-### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanza del 25 ottobre 2017 sui DPI
+### 3.1 Dispositivi di protezione individuale ai sensi dell’ordinanza del 25 ottobre 2017**** sui DPI
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 

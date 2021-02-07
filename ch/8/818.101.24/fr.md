@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-01-28
+version: 2021-02-08
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210128/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210128-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210128/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 28 janvier 2021)
+du 19 juin 2020 (Etat le 8 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -71,8 +71,7 @@ Afin de conserver la capacité de la Suisse à faire face à l’épidémie de C
 Se voient refuser l’entrée les personnes suivantes qui souhaitent entrer en Suisse pour un séjour non soumis à autorisation d’une durée de trois mois au plus sans avoir pour but d’exercer une activité lucrative (art. 10 de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration[^4-2]):
 
 - a. les étrangers en provenance d’un pays à risque ou d’une région à risque qui souhaitent entrer en Suisse et qui ne peuvent se prévaloir de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (ALCP)[^4-3] ou de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (convention AELE)[^4-4];
-- b. les étrangers en provenance d’Afrique du Sud qui souhaitent entrer en Suisse;
-- c. les étrangers en provenance du Royaume-Uni qui souhaitent entrer en Suisse.[^4-5]
+- b. et c.[^4-5] ... .[^4-6]
 
 <sup>2</sup> Ne sont pas soumises à la présente interdiction d’entrée les personnes qui démontrent de manière vraisemblable qu’elles sont dans une situation d’absolue nécessité. Le Secrétariat d’État aux migrations (SEM) publie les directives nécessaires.
 
@@ -84,7 +83,8 @@ Se voient refuser l’entrée les personnes suivantes qui souhaitent entrer en S
 [^4-2]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^4-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^4-4]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
-[^4-5]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2020, en vigueur depuis le 21 déc. 2020 à 13 h 00 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^4-5]: Abrogés par l’annexe 2 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, avec effet au 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61))
+[^4-6]: Nouvelle teneur selon le ch. I de l’O du 21 déc. 2020, en vigueur depuis le 21 déc. 2020 à 13 h 00 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
 
 #### Art. 5 à 7
 
@@ -669,7 +669,7 @@ Annexe 1*[^t-1]*
 
 ## Liste des pays et régions à risque
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 23 déc. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6735](https://fedlex.data.admin.ch/eli/oc/2020/1076)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 2 fév. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
 
 Tous les États en dehors de l’espace Schengen, sauf les suivants:
 
@@ -680,7 +680,6 @@ Tous les États en dehors de l’espace Schengen, sauf les suivants:
 - – Corée (Sud)
 - – Croatie
 - – Irlande
-- – Japon
 - – Monaco
 - – Nouvelle-Zélande
 - – Roumanie
@@ -700,12 +699,11 @@ Annexe 3*[^t-3]*
 
 ## Limitation du trafic transfrontalier des personnes
 
-[^t-3]: Nouvelle teneur selon le ch. II de l’O du 21 déc. 2020, en vigueur depuis le 21 déc. 2020 à 13 h 00 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)).
+[^t-3]: Nouvelle teneur selon le ch. II de l’O du 21 déc. 2020 ([RO 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Mise à jour par l’annexe 2 ch. 2 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021, en vigueur depuis le 8 fév. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 La circulation des personnes entre les États suivants et la Suisse est interdite:
 
-- – Afrique du Sud
-- – Royaume-Uni
+...
 
 Annexe 4*[^t-4]*
 
