@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2019-02-01
+version: 2021-02-08
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20190201/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20190201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 1° febbraio 2019) (Stato 1° febbraio 2019)
+del 19 novembre 2003 (Stato 8 febbraio 2021) (Stato 8 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -231,7 +231,7 @@ Esse disciplinano inoltre la composizione e i compiti delle commissioni svizzere
 [^12-5]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^12-6]: Abrogato dall’art. 82 n. 3 dell’O del 23 mag. 2012 sulla promozione dello sport, con effetto dal 1° ott. 2012 ([RU 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 [^12-7]: [<sup>RS</sup> <sup>814.501</sup>](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^12-8]: Introdotto dal n. II 1 dell’O del 24 ott. 2007 ([RU 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nuovo testo giusta il n. 1 dell’all. 11 all’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^12-8]: Introdotto dal n. II 1 dell’O del 24 ott. 2007 ([RU 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nuovo testo giusta l’all. 11 n. 1 dell’O del 26 apr. 2017 sulla radioprotezione, in vigore dal 1° gen. 2018 ([RU 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
 
@@ -438,7 +438,7 @@ Le scuole specializzate superiori sono disciplinate da un’ordinanza del Dipart
 
 [^28a-1]
 
-[^28a-1]: Introdotto dal n. I dell’O del 15 set. 2017 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogato dal n. 1 dell’all. all’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^28a-1]: Introdotto dal n. I dell’O del 15 set. 2017 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogato dall’all. n. 1 dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ## Capitolo 4: Formazione professionale continua
 
@@ -578,7 +578,7 @@ La SEFRI pubblica un elenco in forma elettronica[^38-2]:
 [^38-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-2]: www.bvz.admin.ch
 [^38-3]: Nuovo testo giusta il n. I dell’O del 15 set. 2017, in vigore dal 1° gen. 2018 ([RU 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-4]: Per. abrogato dal n. 2 dell’all. all’O dal 16 giu. 2006 sugli emolumenti della SEFRI, con effetto dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
+[^38-4]: Per. abrogato dall’all. n. 2 dell’O dal 16 giu. 2006 sugli emolumenti della SEFRI, con effetto dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
 #### Art. 39
 
@@ -801,7 +801,7 @@ I diplomi e gli attestati di frequentazione dei corsi sono riconosciuti se:
 
 [^5354-1]
 
-[^5354-1]: Abrogati dal n. 1 dell’all. all’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^5354-1]: Abrogati dall’all. n. 1 dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ## Capitolo 7: Orientamento professionale, negli studi e nella carriera
 
@@ -1325,7 +1325,7 @@ La domanda è presentata per scritto alla SEFRI e contiene segnatamente le segue
 
 [^chap9-1]
 
-[^chap9-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^chap9-1]: Nuovo testo giusta l’all. n. 2 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69
 
@@ -1338,7 +1338,7 @@ La SEFRI o terzi (conformemente all’art. 67 LFPr) confrontano, su richiesta, u
 - a. il titolo estero si basa su disposizioni legislative, regolamentari o amministrative statali ed è stato rilasciato dall’autorità o dall’istituzione competente nello Stato d’origine; e
 - b. il detentore del titolo estero dimostra di possedere le necessarie conoscenze linguistiche in una lingua ufficiale della Confederazione per l’esercizio della professione in Svizzera.
 
-[^69-1]: Nuovo testo giusta il n. 2 dell’all. all’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69-1]: Nuovo testo giusta l’all. n. 2 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69a
 
@@ -1359,7 +1359,7 @@ La SEFRI o terzi riconoscono un titolo estero ai fini dell’esercizio di una pr
 
 <sup>3</sup> I costi dei provvedimenti di compensazione sono addebitati ai candidati.
 
-[^69a-1]: Introdotto dal n. 2 dell’all. all’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69a-1]: Introdotto dall’all. n. 2 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69b
 
@@ -1371,19 +1371,19 @@ La SEFRI o terzi riconoscono un titolo estero ai fini dell’esercizio di una pr
 
 <sup>2</sup> Se sono soddisfatte tutte le condizioni di cui all’articolo 69*a* capoverso 1, la SEFRI o terzi riconoscono il titolo estero.
 
-[^69b-1]: Introdotto dal n. 2 dell’all. all’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69b-1]: Introdotto dall’all. n. 2 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, in vigore dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69c
 
 [^69c-1]
 
-[^69c-1]: Originario art. 69*a*. Introdotto dal n. II dell’O del 14 set. 2005 ([RU 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogato dal n. 2 dell’all. all’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^69c-1]: Originario art. 69*a*. Introdotto dal n. II dell’O del 14 set. 2005 ([RU 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogato dall’all. n. 2 dell’O del 21 dic. 2016, con effetto dal 1° gen. 2017 ([RU 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
 
 #### Art. 70
 
 [^70-1]
 
-[^70-1]: Abrogato dal n. 2 dell’all. all’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^70-1]: Abrogato dall’all. n. 2 dell’O del 12 nov. 2014 concernente la L sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 ## Capitolo 10: Disposizioni finali
 
@@ -1413,7 +1413,7 @@ La SEFRI è l’organo di contatto per il mutuo riconoscimento dei diplomi nell�
 
 Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il campo d’attività della SEFRI sono disciplinati nell’ordinanza sugli emolumenti SEFRI del 16 giugno 2006[^71a-2].
 
-[^71a-1]: Introdotto dal n. 2 dell’all. all’O dal 16 giu. 2006 sugli emolumenti del SEFRI, in vigore dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
+[^71a-1]: Introdotto dall’all. n. 2 dell’O dal 16 giu. 2006 sugli emolumenti del SEFRI, in vigore dal 1° ago. 2006 ([RU 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 [^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 #### Art. 72
@@ -1434,7 +1434,9 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 
 <sup>1</sup> La SEFRI ritira certificati e titoli ottenuti illecitamente. È fatto salvo il perseguimento penale.
 
-<sup>2</sup> La revoca definitiva di un certificato è comunicata ai Cantoni; un’eventuale iscrizione nel registro pubblico è cancellata.
+<sup>2</sup> La revoca definitiva di un certificato è comunicata ai Cantoni; un’eventuale iscrizione nel registro pubblico è cancellata.[^73-1]
+
+[^73-1]: La correzione dell’8 feb. 2021 concerne soltanto il testo francese ([RU 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
 
 ### Sezione 2: Abrogazione e modifica del diritto vigente
 
@@ -1475,7 +1477,7 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 <sup>4</sup> Eventuali qualificazioni complementari devono avvenire entro cinque anni dalla decisione della SEFRI.
 
 [^76-1]: [[RU 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687)]
-[^76-2]: Abrogati dal n. 1 dell’all. all’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^76-2]: Abrogati dall’all. n. 1 dell’O del 14 dic. 2018, con effetto dal 1° feb. 2019 ([RU 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art 76a
 
@@ -1559,7 +1561,7 @@ II
 
 Le seguenti ordinanze sono modificate come segue:
 
-…[^annexu1-lvlu1-2]
+...[^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[RU 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)n. I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. b, [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)n. II].
 [^annexu1-lvlu1-2]: Le mod. possono essere consultate alla [RU 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

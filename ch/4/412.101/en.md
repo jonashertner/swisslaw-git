@@ -4,11 +4,11 @@ title: "Ordinance of 19 November 2003 on Vocational and Professional Education a
 short: VPETO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: en
-version: 2019-02-01
+version: 2021-02-08
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20190201/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20190201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Ordinance, VPETO)
 
-of 19 November 2003 (Status as of 1 February 2019)
+of 19 November 2003 (Status as of 8 February 2021)
 
 The Swiss Federal Council,
 
@@ -58,7 +58,7 @@ The Confederation generally works with national professional organisations that 
 
 <sup>3</sup> Federally funded VPET research shall be aligned with prevailing conditions applicable to general education research, the education statistics programme and the economic and business world.
 
-[^2-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 (RO **2004** 4937) on 1 Jan. 2013. The amendment has been made throughout the text.
+[^2-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013. The amendment has been made throughout the text.
 
 #### Art. 3
 
@@ -98,7 +98,7 @@ Recognition of non-formal and informal learning shall be decided by:
 
 When establishing an adequate availability of VET programmes and branch courses, the Cantons shall take particular account of courses offered to learners free of charge by private providers.
 
-## Chapter 2 Vocational Education and Training (VET)
+## Chapter 2 Vocational Education and Training
 
 ### Section 1 General Provisions
 
@@ -129,7 +129,7 @@ In implementation of the Federal Vocational and Professional Education and Train
 
 **Apprenticeship contract**
 
-### (Art. 14 and Art. 18 para. 1 VPETA)
+### (Art. 14 and 18 para. 1 VPETA)
 
 <sup>1</sup> If several apprenticeship contracts mentioned in Article 14 paragraph 2 sentence 2 of VPETA are needed to cover the various portions of workplace training, then all of these contracts must be signed and approved by the cantonal authorities prior to commencement of the first apprenticeship.
 
@@ -163,7 +163,7 @@ In implementation of the Federal Vocational and Professional Education and Train
 
 **Special requirements for two-year VET programmes**
 
-### (Art. 17 para. 2 and Art. 18 para. 2 VPETA)
+### (Art. 17 para. 2 and 18 para. 2 VPETA)
 
 <sup>1</sup> Compared to three-year and four-year VET programmes, two-year VET programmes provide learners with specific vocational qualifications that are easier to acquire. They take account of the individual capabilities of learners by offering them a particularly broad range of courses and a personalised teaching approach.
 
@@ -218,7 +218,7 @@ VET ordinances also regulate the composition and tasks of Swiss committees for o
 
 <sup>2</sup> As a rule, learners are required to attend a foreign language course. This requirement shall be met in accordance with the needs of the VET programme.
 
-<sup>3</sup> Education regulations that depart from Articles 47, 48 letter b and 49 of the Federal Act of 13 March 1964 on Employment in Business, Trade and Industry (Employment Act, EmpA)[^12-4], shall require approval from the State Secretariat for Economic Affairs (SECO).
+<sup>3</sup> Education regulations that depart from Articles 47, 48 letter b and 49 of the Federal Act of 13 March 1964[^12-4] on Employment in Business, Trade and Industry (Employment Act, EmpA), shall require approval from the State Secretariat for Economic Affairs (SECO).
 
 <sup>4</sup> VET ordinances may include provisions regarding special offers that take into account workplace training and classroom instruction.
 
@@ -232,7 +232,7 @@ VET ordinances also regulate the composition and tasks of Swiss committees for o
 [^12-4]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^12-5]: Repealed by Art. 82 No 3 of the Sport Promotion Ordinance of 23 May 2012, with effect from 1 Oct. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 [^12-6]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^12-7]: Inserted by No II 1 of the O of 24 Oct. 2007 ([AS 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Amended by Annex 11 No. 1 of the Radiological Protection Ordinance of 26 April 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^12-7]: Inserted by No II 1 of the O of 24 Oct. 2007 ([AS 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Amended by Annex 11 No 1 of the Radiological Protection Ordinance of 26 April 2017, in force since 1 Jan. 2018 ([AS 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
 
@@ -266,7 +266,7 @@ VET ordinances also regulate the composition and tasks of Swiss committees for o
 
 **Traineeship places**
 
-### (Art. 16 para. 1 let. a and para. 2 let. a VPETA)
+### (Art. 16 para. 1 let. a and 2 let. a VPETA)
 
 <sup>1</sup> For school-based VET programmes, VET schools shall ensure that the number of traineeship places matches the number of learners. The VET school shall provide the corresponding supervisory authority with proof of this.
 
@@ -346,7 +346,7 @@ Before a school may obtain VET accreditation to provide practical training withi
 
 <sup>3</sup> The host company shall pay learner costs in relation to attendance of branch courses and similar third-party training courses.
 
-### Section 6 Federal Vocational Baccalaureate (FVB)
+### Section 6 Federal Vocational Baccalaureate
 
 ### (Art. 25 VPETA)
 
@@ -356,7 +356,7 @@ Before a school may obtain VET accreditation to provide practical training withi
 
 The Federal Vocational Baccalaureate (FVB) is governed by the Vocational Baccalaureate Ordinance of 24 June 2009[^22-2].
 
-[^22-1]: Amended by Art. 35 para. 2 of the Vocational Baccalaureate Ordinance of 24 June 2009, in force since 1 Aug. 2009 (RO **2009** 3447).
+[^22-1]: Amended by Art. 35 para. 2 of the Vocational Baccalaureate Ordinance of 24 June 2009, in force since 1 Aug. 2009 ([AS 2009 3447](https://fedlex.data.admin.ch/eli/oc/2009/423)).
 [^22-2]: [SR 412.103.1](https://fedlex.data.admin.ch/eli/cc/2009/423)
 
 ## Chapter 3 Professional Education
@@ -435,7 +435,7 @@ If the group of sponsors fails to adhere to examination regulations after receiv
 
 Professional education institutions shall be regulated by an ordinance of the Federal Department of Economic Affairs, Education and Research (EAER)[^28-1] on study programmes at professional education institutions.
 
-[^28-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 (RO **2004** 4937) on 1 Jan. 2013. The amendment has been made throughout the text.
+[^28-1]: The name of this administrative unit was amended in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2013. The amendment has been made throughout the text.
 
 #### Art. 28a
 
@@ -461,14 +461,14 @@ Professional education institutions shall be regulated by an ordinance of the Fe
 
 **Qualification procedure requirements**
 
-### (Art. 33 and Art. 34 para. 1 VPETA)
+### (Art. 33 and 34 para. 1 VPETA)
 
 <sup>1</sup>
 
 Qualification procedures must:
 
-- a. be aligned with qualification targets established in the relevant VET ordinances.
-- b. assess verbal, written and practical aspects that are judged according to the specific features of the corresponding qualification field and take account of school education and practical experience.
+- a. be aligned with qualification targets established in the relevant VET ordinances;
+- b. assess verbal, written and practical aspects that are judged according to the specific features of the corresponding qualification field and take account of school education and practical experience;
 - c. use competence assessment approaches that are appropriate and suited to the target group.
 
 <sup>2</sup> A final interdisciplinary examination or equivalent qualification procedure shall be required if the competence assessment is being performed for the purpose of issuing a qualification.
@@ -565,7 +565,7 @@ SERI’s register of holders of tertiary-level professional qualifications shall
 
 **Titles and List of Vocational and Professional Qualifications**
 
-### (Art. 19 para. 2 let. e, Art. 28 para. 2 and 29 para. 3 VPETA)
+### (Art. 19 para. 2 let. e, 28 para. 2 and 29 para. 3 VPETA)
 
 [^38-1]
 
@@ -581,7 +581,7 @@ SERI shall publish a list in electronic form[^38-2]:
 [^38-1]: Amended by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-2]: The list is available at: www.bvz.admin.ch
 [^38-3]: Amended by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-4]: Sentence repealed by Annex No 2 of the OFPET Ordinance of 16 June 2006, with effect from 1 Aug. 2006 (RO **2006** 2639).
+[^38-4]: Sentence repealed by Annex No 2 of the OFPET Ordinance of 16 June 2006, with effect from 1 Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
 #### Art. 39
 
@@ -605,7 +605,7 @@ SERI shall publish a list in electronic form[^38-2]:
 
 **VET professionals**
 
-### (Art. 45 para. 3 and Art. 46 para. 2 VPETA)
+### (Art. 45 para. 3 and 46 para. 2 VPETA)
 
 <sup>1</sup>
 
@@ -624,7 +624,7 @@ Individuals who provide workplace training or classroom instruction within the f
 
 **Teachers at professional education institutions**
 
-### (Art. 29 para. 3 and Art. 46 para. 2 VPETA)
+### (Art. 29 para. 3 and 46 para. 2 VPETA)
 
 The EAER shall establish the minimum requirements for teachers at professional education institutions.
 
@@ -862,7 +862,7 @@ Specialised training for vocational, educational and career guidance counsellors
 
 <sup>1</sup> Education and training institutions shall decide whether candidates may gain access to qualification procedures. When doing so, these institutions shall also consider competences obtained outside their own education and training programmes.
 
-<sup>2</sup> Individuals who successfully complete qualification procedures shall be awarded a qualification from the education and training institution and shall have the right to use the title “certified vocational, educational and career guidance counsellor”.
+<sup>2</sup> Individuals who successfully complete qualification procedures shall be awarded a qualification from the education and training institution and shall have the right to use the title «certified vocational, educational and career guidance counsellor».
 
 ## Chapter 8 Confederation’s Share of VPET costs; VPET Fund
 
@@ -948,7 +948,7 @@ Federal lump-sum funding provided to the Cantons under Article 53 VPETA shall be
 
 **Federal subsidies for projects to develop the VPET system and improve quality**
 
-### (Art. 4 and Art. 54 VPETA)
+### (Art. 4 and 54 VPETA)
 
 [^63-1]
 
@@ -1197,7 +1197,7 @@ Providers wishing to have their preparatory courses included in this list must s
 
 SERI shall include a preparatory course in the list if the following prerequisites have been met:
 
-- a. the course takes place in Switzerland.
+- a. the course takes place in Switzerland;
 - b. the course content prepares students directly for a federal professional examination and covers all or part of the required competences.
 
 <sup>5</sup> In justified exceptional cases, in particular when Switzerland lacks a corresponding preparatory course, then the list may include a preparatory course that does not take place in Switzerland or a preparatory course offered by a provider whose legal domicile is outside of Switzerland.
@@ -1243,7 +1243,7 @@ The course provider shall issue a confirmation form to the participant using a t
 
 ### Section 7 Reduction or Withholding of Federal Funding
 
-### Art. 58 VPETA)
+### (Art. 58 VPETA)
 
 [^chap8-sec7-1]
 
@@ -1403,7 +1403,7 @@ SERI or a third party will recognise a foreign qualification as equivalent to a 
 
 SERI shall act as the point of contact for the mutual recognition of qualifications by virtue of the following international agreements:
 
-- a. Bilateral Agreement of 21 June 1999 between the Swiss Confederation and the European Union and its Member States on the Free Movement of Persons;[^71-1]
+- a. Bilateral Agreement of 21 June 1999[^71-1] between the Swiss Confederation and the European Union and its Member States on the Free Movement of Persons;
 - b. Convention of 4 January 1960[^71-2] Establishing the European Free Trade Association.
 
 [^71-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
@@ -1415,7 +1415,7 @@ SERI shall act as the point of contact for the mutual recognition of qualificati
 
 SERI fees charged for rendering first instance decisions and services shall be governed by the SERI Ordinance of 16 June 2006[^71a-2] on Fees.
 
-[^71a-1]: Inserted by Annex No 2 of the SERI Ordinance of 16 June 2006, in force since 1. Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
+[^71a-1]: Inserted by Annex No 2 of the SERI Ordinance of 16 June 2006, in force since 1 Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 [^71a-2]: [SR 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 #### Art. 72
@@ -1436,7 +1436,9 @@ SERI fees charged for rendering first instance decisions and services shall be g
 
 <sup>1</sup> SERI may withdraw qualifications that were obtained by illicit means. The right to prosecute is reserved.
 
-<sup>2</sup> The cantons shall be notified of the legal revocation of qualifications; any entries in the public register shall be deleted.
+<sup>2</sup> The cantons shall be notified of the legal revocation of qualifications; any entries in the public register shall be deleted.[^73-1]
+
+[^73-1]: The correction of 8 Feb. 2021 relates to the French text only ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
 
 ### Section 2 Repeal and Amendment of Current Legislation
 
@@ -1483,7 +1485,7 @@ SERI fees charged for rendering first instance decisions and services shall be g
 
 **Qualifications required to teach sport**[^76a-1]
 
-Holders of the following qualifications meet the requirement established in Article 46 paragraph 3 to teach sport: Federal Diploma I or II in Physical Education and Sports Instruction, UAS Degree in Sports Instruction or Bachelor of Science in Sports issued by the Swiss Federal Institute of Sport Magglingen (SFISM).
+Holders of the following qualifications meet the requirement established in Article 46 paragraph 3 to teach sport: Federal Diploma I or II in Physical Education and Sports Instruction, UAS Degree in Sports Instruction or Bachelor of Science in Sports issued by the Swiss Federal Institute of Sport Magglingen.
 
 [^76a-1]: Inserted by Art. 82 No 3 of the Sport Promotion Ordinance of 23 May 2012, in force since 1 Oct. 2012 ([AS 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 
@@ -1555,7 +1557,7 @@ Annex
 
 I
 
-The Federal Ordinance of 7 November 1979 on Vocational Education and Training (BBV)[^annexu1-lvlu1-1] is repealed.
+The Federal Ordinance of 7 November 1979[^annexu1-lvlu1-1] on Vocational Education and Training (BBV) is repealed.
 
 II
 
@@ -1564,4 +1566,4 @@ The following ordinances are amended as follows:
 ... [^annexu1-lvlu1-2]
 
 [^annexu1-lvlu1-1]: [[AS 1979 1712](https://fedlex.data.admin.ch/eli/oc/1979/1712_1712_1712), [1985 670](https://fedlex.data.admin.ch/eli/oc/1985/670_670_670)No I 1, [1993 7](https://fedlex.data.admin.ch/eli/oc/1993/7_7_7), [1998 1822](https://fedlex.data.admin.ch/eli/oc/1998/1822_1822_1822)Art. 26, [2001 979](https://fedlex.data.admin.ch/eli/oc/2001/136)No II]
-[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748)..
+[^annexu1-lvlu1-2]: The amendments may be consulted under [AS 2003 5047](https://fedlex.data.admin.ch/eli/oc/2003/748).

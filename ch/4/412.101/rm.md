@@ -4,11 +4,11 @@ title: Ordinaziun dals 19 da november 2003 davart la furmaziun professiunala (OF
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: rm
-version: 2019-02-01
+version: 2021-02-08
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20190201/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20190201-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OFPr)
 
-dals 19 da november 2003 (versiun dal 1. da favrer 2019)
+dals 19 da november 2003 (versiun dals 8 da favrer 2021)
 
 Il Cussegl federal svizzer,
 
@@ -1439,7 +1439,9 @@ Las taxas che vegnan incassadas dal SEFRI per disposiziuns prendidas en emprima 
 
 <sup>1</sup> Il SEFRI retira attestats e titels ch’èn vegnids acquirids en moda illegala. La persecuziun penala resta resalvada.
 
-<sup>2</sup> La retratga definitiva d’in attestat vegn communitgada als chantuns; in’eventuala inscripziun en il register uffizial vegn annullada.
+<sup>2</sup> La retratga definitiva d’in attestat vegn communitgada als chantuns; in’eventuala inscripziun en il register uffizial vegn annullada.[^73-1]
+
+[^73-1]: La rectificaziun dals 8 da favr. 2021 concerna mo il text franzos ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
 
 ### 2. part Aboliziun e midada dal dretg vertent
 

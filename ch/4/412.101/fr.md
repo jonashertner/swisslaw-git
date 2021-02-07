@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2019-02-01
+version: 2021-02-08
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20190201/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20190201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (Etat le 1<sup>er</sup> février 2019)
+du 19 novembre 2003 (Etat le 8 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -41,7 +41,7 @@ arrête:
 
 La Confédération collabore en règle générale avec des organisations du monde du travail qui sont actives à l’échelle nationale et sur l’ensemble du territoire suisse. En l’absence de telles organisations dans un domaine donné de la formation professionnelle, l’autorité fédérale fait appel:
 
-- a. à des organisations actives dans un domaine connexe de la formation professionnelle; ou
+- a. à des organisations actives dans un domaine connexe de la formation professionnelle, ou
 - b. à des organisations actives à l’échelle régionale dans le domaine de la formation professionnelle concerné, ainsi qu’aux cantons concernés.
 
 #### Art. 2
@@ -50,7 +50,7 @@ La Confédération collabore en règle générale avec des organisations du mond
 
 ### (art. 4 LFPr)
 
-<sup>1</sup> Le Secrétariat d’Etat à la formation, à la recherche et à l’innovation (SEFRI)[^2-1] encourage la recherche suisse sur la formation professionnelle jusqu’à ce qu’une structure durable en terme d’organisation et de personnel ait atteint un niveau scientifique reconnu à l’échelle internationale.
+<sup>1</sup> Le Secrétariat d’État à la formation, à la recherche et à l’innovation (SEFRI)[^2-1] encourage la recherche suisse sur la formation professionnelle jusqu’à ce qu’une structure durable en terme d’organisation et de personnel ait atteint un niveau scientifique reconnu à l’échelle internationale.
 
 <sup>2</sup> Dix ans après l’entrée en vigueur de la présente ordonnance, la Confédération examine si la recherche sur la formation professionnelle peut être intégrée dans les structures nationales existantes d’encouragement de la recherche en tant que domaine de recherche ordinaire sur la formation.
 
@@ -216,7 +216,7 @@ Elles règlent au surplus la composition et les tâches des commissions suisses 
 
 <sup>2</sup> L’enseignement d’une deuxième langue doit en règle générale être prévu. Il sera fonction des besoins de la formation initiale concernée.
 
-<sup>3</sup> Les prescriptions sur la formation dérogeant aux art. 47, 48, let. b, et 49, de la loi du 13 mars 1964 sur le travail[^12-3] doivent avoir été approuvées par le Secrétariat d’Etat à l’économie (SECO).
+<sup>3</sup> Les prescriptions sur la formation dérogeant aux art. 47, 48, let. b, et 49, de la loi du 13 mars 1964 sur le travail[^12-3] doivent avoir été approuvées par le Secrétariat d’État à l’économie (SECO).
 
 <sup>4</sup> Les ordonnances sur la formation peuvent prévoir des procédures de promotion. Ces dernières prennent en compte la formation à la pratique professionnelle et la formation scolaire.
 
@@ -229,7 +229,7 @@ Elles règlent au surplus la composition et les tâches des commissions suisses 
 [^12-3]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 [^12-4]: Abrogé par l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, avec effet au 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
 [^12-5]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
-[^12-6]: Introduit par le ch. II 1 de l’O du 24 oct. 2007 ([RO 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nouvelle teneur selon le ch. 1 de l’annexe 11 à l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
+[^12-6]: Introduit par le ch. II 1 de l’O du 24 oct. 2007 ([RO 2007 5651](https://fedlex.data.admin.ch/eli/oc/2007/778)). Nouvelle teneur selon l’annexe 11 ch. 1 de l’O du 26 avr. 2017 sur la radioprotection, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 4261](https://fedlex.data.admin.ch/eli/oc/2017/502)).
 
 #### Art. 13
 
@@ -285,7 +285,7 @@ Avant d’octroyer l’autorisation de dispenser une formation à la pratique pr
 
 #### Art. 17
 
-**Ecole professionnelle**
+**École professionnelle**
 
 ### (art. 21 LFPr)
 
@@ -426,7 +426,7 @@ Si, malgré un avertissement, un organe responsable ne respecte pas un règlemen
 
 #### Art. 28
 
-**Ecoles supérieures**
+**Écoles supérieures**
 
 ### (art. 29, al. 3, LFPr)
 
@@ -438,7 +438,7 @@ Les écoles supérieures sont régies par une ordonnance du Département fédér
 
 [^28a-1]
 
-[^28a-1]: Introduit par le ch. I de l’O du 15 sept. 2017 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogé par le ch. 1 de l’annexe à l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^28a-1]: Introduit par le ch. I de l’O du 15 sept. 2017 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)). Abrogé par l’annexe ch. 1 de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ## Chapitre 4 Formation continue à des fins professionnelles
 
@@ -578,7 +578,7 @@ Le SEFRI publie sous forme électronique une liste[^38-2]:
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-2]: www.bvz.admin.ch &gt; FR
 [^38-3]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-4]: Phrase abrogée par le ch. 2 de l’annexe à l’O du 16 juin 2006 sur les émoluments de l’OFTT, avec effet au 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
+[^38-4]: Phrase abrogée par l’annexe ch. 2 de l’O du 16 juin 2006 sur les émoluments de l’OFTT, avec effet au 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
 #### Art. 39
 
@@ -608,7 +608,7 @@ Le SEFRI publie sous forme électronique une liste[^38-2]:
 
 Les personnes qui enseignent la pratique ou la théorie dans le cadre de la formation professionnelle initiale doivent avoir une formation répondant aux exigences minimales mentionnées aux art. 44 à 47. Cette formation est attestée:
 
-- a. par un diplôme fédéral ou par un diplôme reconnu par la Confédération; ou,
+- a. par un diplôme fédéral ou par un diplôme reconnu par la Confédération, ou,
 - b. pour les formateurs qui ont suivi un cours de 40 heures, par une attestation.
 
 <sup>2</sup> Les personnes qui, au début de leur activité, ne répondent pas aux exigences minimales doivent acquérir la qualification correspondante dans un délai de cinq ans.
@@ -707,7 +707,7 @@ Pour être autorisé à enseigner les branches spécifiques à la profession, l�
 Pour enseigner la culture générale, le sport ou des branches qui demandent des études du niveau d’une haute école, l’enseignant doit:
 
 - a. être autorisé à enseigner à l’école obligatoire et avoir suivi en plus une formation complémentaire pour enseigner la culture générale ou le sport selon le plan d’études correspondant et une formation à la pédagogie professionnelle de 300 heures de formation;
-- b. être autorisé à enseigner au gymnase et avoir suivi en plus une formation à la pédagogie professionnelle de 300 heures de formation; ou
+- b. être autorisé à enseigner au gymnase et avoir suivi en plus une formation à la pédagogie professionnelle de 300 heures de formation, ou
 - c. avoir fait des études du niveau d’une haute école dans le domaine correspondant et avoir suivi en plus une formation à la pédagogie professionnelle de 1800 heures de formation.[^46-1]
 
 [^46-1]: Nouvelle teneur selon l’art. 82 ch. 3 de l’O du 23 mai 2012 sur l’encouragement du sport, en vigueur depuis le 1<sup>er</sup> oct. 2012 ([RO 2012 3967](https://fedlex.data.admin.ch/eli/oc/2012/461)).
@@ -801,7 +801,7 @@ Les diplômes et les attestations de cours sont reconnus:
 
 [^5354-1]
 
-[^5354-1]: Abrogés par le ch. 1 de l’annexe à l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^5354-1]: Abrogés par l’annexe ch. 1 de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 ## Chapitre 7 Orientation professionnelle, universitaire et de carrière
 
@@ -1271,7 +1271,7 @@ La réduction d’une subvention fédérale ou le refus d’en allouer de nouvel
 
 Les demandes visant à déclarer obligatoire la cotisation à un fonds en faveur de la formation professionnelle doivent être présentées par:
 
-- a. des organisations du monde du travail actives à l’échelle nationale, sur l’ensemble du territoire suisse et pour toutes les entreprises de la branche; ou par
+- a. des organisations du monde du travail actives à l’échelle nationale, sur l’ensemble du territoire suisse et pour toutes les entreprises de la branche, ou par
 - b. des organisations du monde du travail actives à l’échelle régionale, pour les entreprises de la branche de la région.
 
 <sup>2</sup>
@@ -1327,7 +1327,7 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 
 [^chap9-1]
 
-[^chap9-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^chap9-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69
 
@@ -1337,10 +1337,10 @@ La demande sera présentée par écrit au SEFRI et contiendra les données suiva
 
 Sur demande, le SEFRI ou des tiers (selon l’art. 67 LFPr) comparent un diplôme étranger avec le diplôme de la formation professionnelle suisse correspondant lorsque:
 
-- a. le titre étranger repose sur des dispositions de droit public ou des dispositions administratives et a été délivré par l’autorité ou institution compétente de l’Etat d’origine; et que
+- a. le titre étranger repose sur des dispositions de droit public ou des dispositions administratives et a été délivré par l’autorité ou institution compétente de l’État d’origine, et que
 - b. le titulaire du titre étranger justifie de connaissances linguistiques dans l’une des langues officielles de la Confédération, lorsque ces connaissances sont nécessaires pour l’exercice de la profession en Suisse.
 
-[^69-1]: Nouvelle teneur selon le ch. 2 de l’annexe à l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69-1]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69a
 
@@ -1361,7 +1361,7 @@ Le SEFRI ou des tiers reconnaissent un diplôme étranger aux fins d’exercer u
 
 <sup>3</sup> Les frais des mesures de compensation sont facturés aux participants.
 
-[^69a-1]: Introduit par le ch. 2 de l’annexe à l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69a-1]: Introduit par l’annexe ch. 2 de l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69b
 
@@ -1373,19 +1373,19 @@ Le SEFRI ou des tiers reconnaissent un diplôme étranger aux fins d’exercer u
 
 <sup>2</sup> Si toutes les conditions visées à l’art. 69*a*, al. 1, sont remplies, le SEFRI ou des tiers reconnaissent le diplôme étranger.
 
-[^69b-1]: Introduit par le ch. 2 de l’annexe à l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^69b-1]: Introduit par l’annexe ch. 2 de l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 #### Art. 69c
 
 [^69c-1]
 
-[^69c-1]: Anciennement art. 69*a*. Introduit par le ch. II de l’O du 14 sept. 2005 ([RO 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogé par le ch. 2 de l’annexe à l’O du 21 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
+[^69c-1]: Anciennement art. 69*a*. Introduit par le ch. II de l’O du 14 sept. 2005 ([RO 2005 4645](https://fedlex.data.admin.ch/eli/oc/2005/608)). Abrogé par l’annexe ch. 2 de l’O du 21 déc. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 5113](https://fedlex.data.admin.ch/eli/oc/2016/812)).
 
 #### Art. 70
 
 [^70-1]
 
-[^70-1]: Abrogé par le ch. 2 de l’annexe à l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
+[^70-1]: Abrogé par l’annexe ch. 2 de l’O du 12 nov. 2014 relative à la L sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4137](https://fedlex.data.admin.ch/eli/oc/2014/692)).
 
 ## Chapitre 10 Dispositions finales
 
@@ -1403,19 +1403,19 @@ Le SEFRI ou des tiers reconnaissent un diplôme étranger aux fins d’exercer u
 
 Il est l’autorité de contact pour la reconnaissance réciproque des diplômes dans le cadre de l’exécution:
 
-- a. de l’Accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses Etats membres, d’autre part, sur la libre circulation des personnes[^71-1];
-- b. de la Convention du 4 janvier 1960 instituant l’Association européenne de Libre-Echange (AELE)[^71-2].
+- a. de l’Accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes[^71-1];
+- b. de la Convention du 4 janvier 1960 instituant l’Association européenne de Libre-Échange (AELE)[^71-2].
 
 [^71-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^71-2]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
 #### Art. 71a
 
-**Emoluments perçus par le SEFRI**[^71a-1]
+**Émoluments perçus par le SEFRI**[^71a-1]
 
 Les émoluments perçus pour les décisions rendues en première instance et pour les prestations fournies dans le domaine du SEFRI sont régis par l’ordonnance du 16 juin 2006 sur les émoluments du SEFRI[^71a-2].
 
-[^71a-1]: Introduit par le ch. 2 de l’annexe à l’O du 16 juin 2006 sur les émoluments du SEFRI, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
+[^71a-1]: Introduit par l’annexe ch. 2 de l’O du 16 juin 2006 sur les émoluments du SEFRI, en vigueur depuis le 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 [^71a-2]: [RS 412.109.3](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 #### Art. 72
@@ -1436,7 +1436,9 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 
 <sup>1</sup> Le SEFRI retire les titres et les certificats acquis de manière frauduleuse. La poursuite pénale est réservée.
 
-<sup>2</sup> La décision exécutoire de retrait d’un titre est annoncée aux cantons; le cas échéant, l’inscription correspondante est radiée du registre officiel.
+<sup>2</sup> La décision exécutoire de retrait d’un certificat est annoncée aux cantons; le cas échéant, l’inscription correspondante est radiée du registre officiel.[^73-1]
+
+[^73-1]: Erratum du 8 fév. 2021 ([RO 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
 
 ### Section 2 Abrogation et modification du droit en vigueur
 
@@ -1477,7 +1479,7 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 <sup>4</sup> Les qualifications complémentaires doivent être acquises dans un délai de cinq ans après la date de la décision du SEFRI.
 
 [^76-1]: [[RO 1979 1687](https://fedlex.data.admin.ch/eli/oc/1979/1687_1687_1687), [1985 660](https://fedlex.data.admin.ch/eli/oc/1985/660_660_660)ch. I 21, [1987 600](https://fedlex.data.admin.ch/eli/oc/1987/600_600_600)art. 17 ch. 3, [1991 857](https://fedlex.data.admin.ch/eli/oc/1991/857_857_857)annexe ch. 4, [1992 288](https://fedlex.data.admin.ch/eli/oc/1992/288_288_288)annexe ch. 17 [2521](https://fedlex.data.admin.ch/eli/oc/1992/2521_2521_2521)art. 55 ch. 1, [1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588)art. 25 al. 2 et annexe ch. 1, **1998** 1822 art. 2, **1999** 2374 ch. I 2, **2003** 187 annexe ch. II 2. [RO 2003 4557](https://fedlex.data.admin.ch/eli/oc/2003/674)annexe ch. I 1]
-[^76-2]: Abrogés par le ch. 1 de l’annexe à l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
+[^76-2]: Abrogés par l’annexe ch. 1 de l’O du 14 déc. 2018, avec effet au 1<sup>er</sup> fév. 2019 ([RO 2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)).
 
 #### Art. 76a
 

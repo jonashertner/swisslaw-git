@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2019-02-01
+version: 2021-02-08
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20190201/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20190201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20210208-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20210208/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20190201/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 1. Februar 2019) (Stand am 1. Februar 2019)
+vom 19. November 2003 (Stand am 8. Februar 2021) (Stand am 8. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1437,7 +1437,9 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 
 <sup>1</sup> Das SBFI entzieht Ausweise und Titel, die auf rechtswidrige Weise erwirkt wurden. Die strafrechtliche Verfolgung bleibt vorbehalten.
 
-<sup>2</sup> Der rechtskräftige Entzug eines Ausweises wird den Kantonen mitgeteilt; ein allfälliger Eintrag im öffentlichen Register wird gelöscht.
+<sup>2</sup> Der rechtskräftige Entzug eines Ausweises wird den Kantonen mitgeteilt; ein allfälliger Eintrag im öffentlichen Register wird gelöscht.[^73-1]
+
+[^73-1]: Die Berichtigung vom 8. Febr. 2021 betrifft nur den französischen Text ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
 
 ### 2. Abschnitt: Aufhebung und Änderung bisherigen Rechts
 
