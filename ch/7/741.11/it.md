@@ -4,20 +4,20 @@ title: Ordinanza del 13 novembre 1962 sulle norme della circolazione stradale (O
 short: ONC
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: it
-version: 2021-01-01
+version: 2021-02-09
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/it/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sulle norme della circolazione stradale
 
-(ONC)**[^t-1]**
+(ONC)[^t-1]
 
-del 13 novembre 1962 (Stato 1° gennaio 2021)
+del 13 novembre 1962 (Stato 9 febbraio 2021)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 10 mar. 1975, in vigore dal 1° gen. 1976 ([RU 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -994,7 +994,7 @@ I conducenti, i passeggeri e gli ausiliari non devono cagionare alcun rumore evi
 [^36-2]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-3]: Nuovo testo giusta il n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-4]: Introdotto dal n. I dell’O del 22 dic. 1976 ([RU 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)). Nuovo testo giusta il n. I dell’O del 24 giu. 2015, in vigore dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^36-5]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-5]: Introdotto dal n. I dell’O del 20 mag. 2020, in vigore dal 1° gen. 2021 ([RU 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). La correzione del 9 feb. 2021 concerne soltanto il testo francese ([RU 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
 
 #### Art. 37
 
@@ -1263,7 +1263,7 @@ I conducenti di velocipedi e di ciclomotori non devono circolare accanto ad altr
 
 [^49-1]: Abrogato dal n. I dell’O del 24 giu. 2015, con effetto dal 1° gen. 2016 ([RU 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
 
-### Capo 1*a*: Utenti di mezzi simili a veicoli****
+### Capo 1*a*: Utenti di mezzi simili a veicoli
 
 [^part2-chap1a-1]
 
@@ -2125,7 +2125,7 @@ Eccezioni alle dimensioni e ai pesi massimi legali (art. 64–67) sono ammesse s
 [^85-1]: Abrogato dal n. I dell’O del 28 mar. 2007, con effetto dal 1° lug. 2007 ([RU 2007 2101](https://fedlex.data.admin.ch/eli/oc/2007/297)).
 [^85-2]: Nuovo testo giusta il n. I dell’O del 16 nov. 2016, in vigore dal 15 gen. 2017 ([RU 2016 5129](https://fedlex.data.admin.ch/eli/oc/2016/817)).
 
-### Capo terzo: Veicoli agricoli e forestali****
+### Capo terzo: Veicoli agricoli e forestali
 
 [^part4-chap3-1]
 
@@ -2500,7 +2500,7 @@ I veicoli già in circolazione che corrispondono alla definizione vigente prima 
 [^99-3]: [CS **9** 363]
 [^99-4]: [CS **7** 535 555; [RU 1948 478](https://fedlex.data.admin.ch/eli/oc/1948/532_520_478), **1949** II 1525 art. 4, [1959 685](https://fedlex.data.admin.ch/eli/oc/1959/679_705_685)art. 107 cpv. 3, [1960 1205](https://fedlex.data.admin.ch/eli/oc/1960/1157_1209_1205)art. 28 cpv. 1 n. 1 [1365](https://fedlex.data.admin.ch/eli/oc/1960/1308_1365_1365)art. 4 cpv. 6.]
 
-## Disposizioni finali della modifica del 25 gennaio 1989****
+## Disposizioni finali della modifica del 25 gennaio 1989
 
 [^u1-1]
 
@@ -2514,7 +2514,7 @@ Ad art. 41 cpv. 1 e 1<sup>bis</sup>
 
 L’articolo 41 capoversi 1 e 1<sup>bis</sup> è applicabile dal 1° luglio 1989
 
-## Disposizioni finali della modifica del 22 dicembre 1993****
+## Disposizioni finali della modifica del 22 dicembre 1993
 
 [^u2-1]
 
@@ -2532,7 +2532,7 @@ Ad art. 59a
 
 [^u2-2]: [[RU 1969 839](https://fedlex.data.admin.ch/eli/oc/1969/821_841_839), [1972 1781](https://fedlex.data.admin.ch/eli/oc/1972/1577_1609_1781), [1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)n. II 2, [1976 2611](https://fedlex.data.admin.ch/eli/oc/1976/2611_2611_2611)2867, [1979 1922](https://fedlex.data.admin.ch/eli/oc/1979/1922_1922_1922), [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 3, [1982 495](https://fedlex.data.admin.ch/eli/oc/1982/495_495_495)[531](https://fedlex.data.admin.ch/eli/oc/1982/531_531_531)n. II [1107](https://fedlex.data.admin.ch/eli/oc/1982/1107_1107_1107), [1983 627](https://fedlex.data.admin.ch/eli/oc/1983/627_627_627)art. 88 n. 1, [1984 1338](https://fedlex.data.admin.ch/eli/oc/1984/1338_1338_1338), [1985 608](https://fedlex.data.admin.ch/eli/oc/1985/608_608_608)[620](https://fedlex.data.admin.ch/eli/oc/1985/620_620_620)art. 36 cpv. 1, [1986 1833](https://fedlex.data.admin.ch/eli/oc/1986/1833_1833_1833), [1988 876](https://fedlex.data.admin.ch/eli/oc/1988/__876), [1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)n. II 2 [1195](https://fedlex.data.admin.ch/eli/oc/1989/1195_1195_1195), [1991 78](https://fedlex.data.admin.ch/eli/oc/1991/78_78_78)n. III, [1992 536](https://fedlex.data.admin.ch/eli/oc/1992/536_536_536), [1993 2062](https://fedlex.data.admin.ch/eli/oc/1993/__2062), [1994 167](https://fedlex.data.admin.ch/eli/oc/1994/167_167_167)n. II 214 n. I, II [816](https://fedlex.data.admin.ch/eli/oc/1994/816_816_816)n. II 3 [1326](https://fedlex.data.admin.ch/eli/oc/1994/1326_1326_1326). [RU 1995 4425](https://fedlex.data.admin.ch/eli/oc/1995/4425_4425_4425)all. 1 n. I lett. a]. Vedi ora l’O del 19 giu. 1995 concernente le esigenze tecniche per i veicoli stradali ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)).
 
-## Disposizione finale della modifica del 22 ottobre 1997****
+## Disposizione finale della modifica del 22 ottobre 1997
 
 [^u3-1]
 

@@ -4,11 +4,11 @@ title: Ordonnance du 13 novembre 1962 sur les règles de la circulation routièr
 short: OCR
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: fr
-version: 2021-01-01
+version: 2021-02-09
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/fr/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210101/fr"
 
 (OCR)**[^t-1]**
 
-du 13 novembre 1962 (Etat le 1<sup>er</sup> janvier 2021)
+du 13 novembre 1962 (Etat le 9 février 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 10 mars 1975, en vigueur depuis le 1<sup>er</sup> janv. 1976 ([RO 1975 541](https://fedlex.data.admin.ch/eli/oc/1975/541_541_541)).
 
@@ -979,13 +979,13 @@ Il est interdit de dépasser des véhicules par la droite en déboîtant puis en
 
 <sup>6</sup> Sur les autoroutes ayant au moins trois voies dans le même sens, la voie extérieure de gauche ne peut être utilisée que par les véhicules avec lesquels il est permis de rouler à plus de 100 km/h.[^36-4]
 
-<sup>7</sup> Si, sur des autoroutes ou semi-autoroutes ayant au moins deux voies par sens de circulation, les véhicules circulent au pas ou sont à l’arrêt, ces véhicules doivent laisser un couloir libre pour le passage des véhicules du service du feu, du service de santé, de la police ou de la douane entre la voie la plus à gauche et la voie située juste à sa droite.[^36-5]
+<sup>7</sup> Si, sur des autoroutes ou semi-autoroutes ayant au moins deux voies par sens de circulation, les véhicules circulent au pas ou sont à l’arrêt, ces véhicules doivent laisser un couloir libre pour le passage des véhicules du service du feu, du service de santé, de la police ou de la douane et des véhicules auxiliaires entre la voie la plus à gauche et la voie située juste à sa droite.[^36-5]
 
 [^36-1]: Nouvelle teneur selon le ch. I de l’O du 14 nov. 1979, en vigueur depuis le 1<sup>er</sup> janv. 1980 ([RO 1979 1583](https://fedlex.data.admin.ch/eli/oc/1979/1583_1583_1583)).
 [^36-2]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-3]: Nouvelle teneur selon le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-4]: Introduit par le ch. I de l’O du 22 déc. 1976 ([RO 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)Nouvelle teneur selon le ch. I de l’O du 24 juin 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^36-5]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-5]: Introduit par le ch. I de l’O du 20 mai 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Erratum du 9 fév. 2021 ([RO 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
 
 #### Art. 37
 
@@ -1623,7 +1623,6 @@ Un cycliste âgé de plus de seize ans peut transporter:
 <tr><td>d. autocars ayant plus de deux essieux</td><td>15,00</td></tr>
 <tr><td>e. véhicules articulés</td><td>16,50</td></tr>
 <tr><td>f. trains routiers</td><td>18,75</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>g. bus à plate-forme pivotante</td><td>18,75.[^65-3]</td></tr>
 </table>
 

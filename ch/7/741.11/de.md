@@ -4,11 +4,11 @@ title: Verkehrsregelnverordnung vom 13. November 1962 (VRV)
 short: VRV
 eli: "https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420"
 language: de
-version: 2021-01-01
+version: 2021-02-09
 adopted: 1962-11-13
 in_force: 1963-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420/20210209/de/xml/fedlex-data-admin-ch-eli-cc-1962-1364_1409_1420-20210209-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/20210101/de"
 
 (VRV)**[^t-1]**
 
-vom 13. November 1962 (Stand am 1. Januar 2021)
+vom 13. November 1962 (Stand am 9. Februar 2021)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 25. Jan. 1989, in Kraft seit 1. Mai 1989 ([AS 1989 410](https://fedlex.data.admin.ch/eli/oc/1989/410_410_410)).
 
@@ -980,7 +980,7 @@ Das Rechtsüberholen durch Ausschwenken und Wiedereinbiegen ist untersagt. Der F
 [^36-2]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-3]: Fassung gemäss Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
 [^36-4]: Eingefügt durch Ziff. I der V vom 22. Dez. 1976 ([AS 1976 2810](https://fedlex.data.admin.ch/eli/oc/1976/2810_2810_2810)). Fassung gemäss Ziff. I der V vom 24. Juni 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 2451](https://fedlex.data.admin.ch/eli/oc/2015/460)).
-[^36-5]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)).
+[^36-5]: Eingefügt durch Ziff. I der V vom 20. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 2139](https://fedlex.data.admin.ch/eli/oc/2020/423)). Die Berichtigung vom 9. Febr. 2021 betrifft nur den französischen Text ([AS 2021 76](https://fedlex.data.admin.ch/eli/oc/2021/76)).
 
 #### Art. 37
 
