@@ -3,11 +3,11 @@ sr: "0.741.611.2"
 title: Zusatzprotokoll vom 20. Februar 2008 zum Übereinkommen über den Beförderungsvertrag im internationalen Strassengüterverkehr (CMR) betreffend den elektronischen Frachtbrief
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/280"
 language: de
-version: 2020-07-02
+version: 2021-02-09
 adopted: 2008-02-20
 in_force: 2011-06-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20200702/de/xml/fedlex-data-admin-ch-eli-cc-2011-280-20200702-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20200702/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/280/20210209/de/xml/fedlex-data-admin-ch-eli-cc-2011-280-20210209-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/280/20210209/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 2009
 
 In Kraft getreten für die Schweiz am 5. Juni 2011
 
-(Stand am 2. Juli 2020)
+(Stand am 9. Februar 2021)
 
 Die Vertragsparteien dieses Protokolls,
 
@@ -224,7 +224,7 @@ Geschehen zu Genf am 20. Februar 2008, in einer Originalausfertigung in englisch
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 2. Juli 2020**[^t-1]**
+Geltungsbereich am 9. Februar 2021**[^t-1]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -241,6 +241,7 @@ Geltungsbereich am 2. Juli 2020**[^t-1]**
 <tr><td>Moldau</td><td>14. März</td><td>2018 B</td><td>12. Juni</td><td>2018</td></tr>
 <tr><td>Niederlande <sup>b</sup></td><td>7. Januar</td><td>2009</td><td>5. Juni</td><td>2011</td></tr>
 <tr><td>Norwegen</td><td>11. Juni</td><td>2020</td><td>9. September</td><td>2020</td></tr>
+<tr><td>Oman<sup>\*</sup></td><td>23. September</td><td>2020 B</td><td>22. Dezember</td><td>2020</td></tr>
 <tr><td>Polen</td><td>13. Juni</td><td>2019 B</td><td>11. September</td><td>2019</td></tr>
 <tr><td>Portugal</td><td>26. September</td><td>2019 B</td><td>25. Dezember</td><td>2019</td></tr>
 <tr><td>Rumänien</td><td>14. März</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
@@ -253,10 +254,12 @@ Geltungsbereich am 2. Juli 2020**[^t-1]**
 <tr><td>Tadschikistan</td><td>9. Juli</td><td>2019 B</td><td>7. Oktober</td><td>2019</td></tr>
 <tr><td>Tschechische Republik</td><td>14. April</td><td>2011 B</td><td>13. Juli</td><td>2011</td></tr>
 <tr><td>Türkei<sup>\*</sup></td><td>31. Januar</td><td>2018 B</td><td>1. Mai</td><td>2018</td></tr>
+<tr><td>Ukraine<sup>\*</sup></td><td>10. Juli</td><td>2020 B</td><td>8. Oktober</td><td>2020</td></tr>
+<tr><td>Usbekistan</td><td>16. Oktober</td><td>2020 B</td><td>14. Januar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>20. Dezember</td><td>2019 B</td><td>19. März</td><td>2020</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-1]: AS 2**011** 1925, **2014** 3285, **2016** 3863, **2018** 1259, **2019** 3299, **2020** 3341. Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: Diese Veröffentlichung ergänzt die früheren in [AS 2011 1925](https://fedlex.data.admin.ch/eli/oc/2011/280); [2014 3285](https://fedlex.data.admin.ch/eli/oc/2014/569); [2016 3863](https://fedlex.data.admin.ch/eli/oc/2016/652); [2018 1259](https://fedlex.data.admin.ch/eli/oc/2018/206); [2019 3299](https://fedlex.data.admin.ch/eli/oc/2019/605); [2020 3341](https://fedlex.data.admin.ch/eli/oc/2020/569)und [2021 82](https://fedlex.data.admin.ch/eli/oc/2021/82). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty
