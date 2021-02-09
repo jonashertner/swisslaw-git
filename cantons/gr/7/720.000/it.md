@@ -9,7 +9,7 @@ version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3142/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3143/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -610,7 +610,9 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Per la sostanza privata possono essere dedotte:
 
 - a) le necessarie spese di amministrazione da parte di terzi e le imposte alla fonte estere che non possono essere né rimborsate né computate;
-- b) le spese di manutenzione di fondi, le spese di sistemazione degli immobili appena acquistati, i premi di assicurazione, le spese di amministrazione da parte di terzi e i canoni del diritto di superficie.
+- b) le spese di manutenzione di fondi, le spese di sistemazione degli immobili appena acquistati, i premi di assicurazione, le spese di amministrazione da parte di terzi e i canoni del diritto di superficie. Alle spese di manutenzione sono equiparati gli investimenti utili a risparmiare energia o a proteggere l'ambiente, per quanto questi siano deducibili ai fini dell'imposta federale diretta.
+
+<sup>1<sup>bis</sup></sup> Le spese d'investimento di cui al capoverso 1 lettera b seconda frase e le spese di smantellamento in relazione a un edificio sostitutivo sono deducibili nei due periodi fiscali seguenti se esse non possono essere considerate integralmente ai fini fiscali nel periodo fiscale in corso in cui le spese sono state sostenute.
 
 <sup>2</sup> Per i fondi sovredificati il contribuente può pretendere una deduzione globale fissata dal Governo in sostituzione di quella delle effettive spese d'amministrazione e di manutenzione.[^35-1]
 

@@ -9,7 +9,7 @@ version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3142/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -613,7 +613,9 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 <sup>1</sup> Tar il possess da facultad privata pon vegnir deducids:
 
 - a) ils custs necessaris da l'administraziun tras terzas persunas e las taglias estras a la funtauna che na pon ni vegnir pretendidas enavos ni ch'èn imputablas,
-- b) en cas da bains immobigliars ils custs dal mantegniment, ils custs per la reparatura d'immobiglias ch'èn vegnidas acquistadas da nov, las premias d'assicuranza, ils custs per l'administraziun tras terzas persunas ed ils tschains dal dretg da construcziun.
+- b) en cas da bains immobigliars ils custs dal mantegniment, ils custs per la reparatura d'immobiglias ch'èn vegnidas acquistadas da nov, las premias d'assicuranza, ils custs per l'administraziun tras terzas persunas ed ils tschains dal dretg da construcziun. Investiziuns ch'èn destinadas a spargnar energia ed a proteger l'ambient pon vegnir tractadas da medema maniera sco ils custs da mantegniment, uschenavant ch'ellas pon vegnir deducidas da la taglia federala directa.
+
+<sup>1<sup>bis</sup></sup> Ils custs d'investiziun tenor l'alinea 1 litera b segunda frasa ed ils custs da demoliziun en vista a la construcziun d'in edifizi cumpensatoric pon vegnir deducids durant las duas periodas fiscalas suandantas, sch'els na pon betg vegnir resguardads cumplainamain en la perioda fiscala currenta, en la quala els èn resultads.
 
 <sup>2</sup> Il pajataglia po far valair ina deducziun pauschala fixada da la regenza per bains immobigliars surbajegiads empè da la deducziun dals custs effectivs d'administraziun e da mantegniment[^35-1].
 

@@ -9,7 +9,7 @@ version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3142/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -613,7 +613,9 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Bei privatem Vermögensbesitz können abgezogen werden:
 
 - a) die notwendigen Kosten der Verwaltung durch Dritte und die weder rückforderbaren noch anrechenbaren ausländischen Quellensteuern;
-- b) bei Grundstücken die Kosten des Unterhalts, die Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien, die Kosten der Verwaltung durch Dritte und die Baurechtszinsen.
+- b) bei Grundstücken die Kosten des Unterhalts, die Kosten der Instandstellung von neu erworbenen Liegenschaften, die Versicherungsprämien, die Kosten der Verwaltung durch Dritte und die Baurechtszinsen. Den Unterhaltskosten sind Investitionen gleichgestellt, die dem Energiesparen oder dem Umweltschutz dienen, soweit sie bei der direkten Bundessteuer abzugsfähig sind.
+
+<sup>1<sup>bis</sup></sup> Investitionskosten nach Absatz 1 Litera b zweiter Satz und Rückbaukosten im Hinblick auf einen Ersatzneubau sind in den zwei nachfolgenden Steuerperioden abziehbar, soweit sie in der laufenden Steuerperiode, in welcher die Aufwendungen angefallen sind, steuerlich nicht vollständig berücksichtigt werden können.
 
 <sup>2</sup> Der Steuerpflichtige kann für überbaute Grundstücke anstelle der tatsächlichen Verwaltungs- und Unterhaltskosten einen von der Regierung festgelegten Pauschalabzug beanspruchen[^35-1].
 
