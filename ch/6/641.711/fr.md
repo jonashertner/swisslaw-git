@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordonnance du 30 novembre 2012 sur la réduction des émissions de CO<sub>2</sub> (Ordonnance sur le CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: fr
-version: 2021-01-01
+version: 2021-02-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/fr/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210210-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/fr"
 
 (Ordonnance sur le CO<sub>2</sub>)
 
-du 30 novembre 2012 (Etat le 1<sup>er</sup> janvier 2021)
+du 30 novembre 2012 (Etat le 10 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -3460,7 +3460,7 @@ Au sens de la présente annexe, on entend par:
 
 Le facteur d’oxydation (OX) est un paramètre indispensable au calcul des réductions d’émissions. Le choix de sa valeur découle de l’arbre de décision suivant:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/fr/xml/image/image1.png)
 
 ### 3.3 Calcul ex-ante des réductions d’émissions
 
@@ -3845,7 +3845,7 @@ Annexe 9*[^t-11]*
 
 ## Calcul des droits d’émission attribués à titre gratuit aux exploitants d’installations participant au SEQE
 
-[^t-11]: Mise à jour par le ch. II des O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) et du 22 juin 2016 ([RO 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)) et le ch. II al. 1 des O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) et du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-11]: Mise à jour par le ch. II des O du 8 oct. 2014 ([RO 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)) et du 22 juin 2016 ([RO 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)) et le ch. II al. 1 des O du 13 nov. 2019 ([RO 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), du 25 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) et par l’erratum du 10 fév. 2021 ([RO 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)).
 
 ### 1 Référentiels de produits
 
@@ -3965,7 +3965,7 @@ Annexe 9*[^t-11]*
 - [tab] Dans de tels cas, la quantité de droits d’émission attribués chaque année à titre gratuit est calculée comme suit:
 - *Attribution**<sub>i</sub>* *= (E**<sub>directes</sub>* */ (E**<sub>directes</sub>* *+ Ein**<sub>directes</sub>**)) \* Réf \* NA \* CA**<sub>i</sub>* *\* FCS**<sub>i</sub>*
 - Attribution<sub>i</sub> Attribution pour l’année i
-- E<sub>directes</sub> Émissions directes générées au sein de l’élément d’attribution correspondant assorti d’un référentiel de produit au cours de la période de référence visée au ch. 2. Sont également prises en compte les émissions liées à la chaleur consommée au sein de l’élément d’attribution, acquise directement auprès d’autres installations couvertes ou non par le SEQE, multipliées par [...] tonne(s) de CO<sub>2</sub> par TJ.
+- E<sub>directes</sub> Émissions directes générées au sein de l’élément d’attribution correspondant assorti d’un référentiel de produit au cours de la période de référence visée au ch. 2. Sont également prises en compte les émissions liées à la chaleur consommée au sein de l’élément d’attribution, acquise directement auprès d’autres installations couvertes ou non par le SEQE, multipliées par 62,3 tonne(s) de CO<sub>2</sub> par TJ.
 - E<sub>indirectes</sub> Émissions indirectes liées à l’électricité consommée au sein de l’élément d’attribution assorti d’un référentiel de produit au cours de la période de référence visée au ch. 2.
 - Réf référentiel
 - NA Niveau d’activité (rapporté au référentiel concerné)

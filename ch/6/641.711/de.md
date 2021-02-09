@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Verordnung vom 30. November 2012 über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Verordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: de
-version: 2021-01-01
+version: 2021-02-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/de/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210210-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/de"
 
 (CO<sub>2</sub>-Verordnung)
 
-vom 30. November 2012 (Stand am 1. Januar 2021)
+vom 30. November 2012 (Stand am 10. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -3457,7 +3457,7 @@ Im Sinne dieses Anhangs bedeuten:
 
 Für die Festlegung des Werts für den in den Berechnungen der Emissionsverminderungen notwendige Paramater Oxidationsfaktor (OX) ist der folgende Entscheidungsbaum zu verwenden:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/de/xml/image/image1.png)
 
 ### 3.3 Ex-ante Berechnung der Emissionsverminderungen
 
@@ -3844,7 +3844,7 @@ Anhang 9*[^t-11]*
 
 ## Berechnung der kostenlos zugeteilten Emissionsrechte für Betreiber von Anlagen im EHS
 
-[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)) und 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-11]: Bereinigt gemäss Ziff. II der V vom 8. Okt. 2014 ([AS 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), vom 22. Juni 2016 ([AS 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), Ziff. II Abs. 1 der V vom 13. Nov. 2019 ([AS 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) und der Berichtigung vom 10. Febr. 2021 ([AS 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)).
 
 ### 1 Benchmarks
 
@@ -3964,7 +3964,7 @@ Anhang 9*[^t-11]*
 - [tab] Die Menge der jährlich kostenlos zuzuteilenden Emissionsrechte wird in diesen Fällen wie folgt berechnet:
 - *Zuteilung**<sub>i</sub>* *= (E**<sub>direkt</sub>* */ (E**<sub>direkt</sub>* *+ E**<sub>indirekt</sub>**)) \* BM \* AR \* AF**<sub>i</sub>* *\* SKF**<sub>i</sub>*
 - Zuteilung<sub>i</sub> Zuteilung im Jahr i
-- E<sub>direkt</sub> Direkte Emissionen innerhalb des entsprechenden Zuteilungselements mit Produktbenchmark in der Bezugsperiode nach Ziffer 2. Berücksichtigt werden zusätzlich auch die Emissionen aus der innerhalb des Zuteilungselements genutzten Wärme, die direkt von anderen Anlagen im oder ausserhalb des EHS bezogen wurde, bestimmt mit [...] t CO<sub>2</sub> pro TJ.
+- E<sub>direkt</sub> Direkte Emissionen innerhalb des entsprechenden Zuteilungselements mit Produktbenchmark in der Bezugsperiode nach Ziffer 2. Berücksichtigt werden zusätzlich auch die Emissionen aus der innerhalb des Zuteilungselements genutzten Wärme, die direkt von anderen Anlagen im oder ausserhalb des EHS bezogen wurde, bestimmt mit 62,3 t CO<sub>2</sub> pro TJ.
 - E<sub>indirekt</sub> Indirekte Emissionen aus dem innerhalb des entsprechenden Zuteilungselements mit Produktbenchmark genutzten Stroms in der Bezugsperiode nach Ziffer 2.
 - BM Benchmark
 - AR Aktivitätsrate (auf den entsprechenden Benchmark bezogen)

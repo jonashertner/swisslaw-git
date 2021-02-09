@@ -3,11 +3,11 @@ sr: "641.711"
 title: "Ordinanza del 30 novembre 2012 sulla riduzione delle emissioni di CO<sub>2</sub> (Ordinanza sul CO<sub>2</sub>)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/856"
 language: it
-version: 2021-01-01
+version: 2021-02-10
 adopted: 2012-11-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/it/xml/fedlex-data-admin-ch-eli-cc-2012-856-20210210-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/856/20210101/it"
 
 (Ordinanza sul CO<sub>2</sub>)
 
-del 30 novembre 2012 (Stato 1° gennaio 2021)
+del 30 novembre 2012 (Stato 10 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -3451,7 +3451,7 @@ Ai sensi del presente allegato si intendono per:
 
 Per la determinazione del valore del fattore di ossidazione (OX) necessario per i calcoli delle riduzioni di emissioni deve essere utilizzato il seguente albero decisionale:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/856/20210210/it/xml/image/image1.png)
 
 ### 3.3 Calcolo ex ante delle riduzioni delle emissioni
 
@@ -3836,7 +3836,7 @@ Allegato 9*[^t-11]*
 
 ## Calcolo dei diritti di emissione da assegnare a titolo gratuito per i gestori di impianti nel SSQE
 
-[^t-11]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)) e dal n. II cpv. 1 dell’O del 13 nov. 2019, in vigore dal 1° gen. 2020 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)).
+[^t-11]: Aggiornato dai n. II delle O dell’8 ott. 2014 ([RU 2014 3293](https://fedlex.data.admin.ch/eli/oc/2014/573)), del 22 giu. 2016 ([RU 2016 2473](https://fedlex.data.admin.ch/eli/oc/2016/394)), dal n. II cpv. 1 delle O del 13 nov. 2019 ([RU 2019 4335](https://fedlex.data.admin.ch/eli/oc/2019/753)), del 25 nov. 2021, in vigore dal 1° gen. 2021 ([RU 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)) e dalla correzione del 10 feb. 2021 ([RU 2021 80](https://fedlex.data.admin.ch/eli/oc/2021/80)).
 
 ### 1 Parametri di riferimento
 
@@ -3956,8 +3956,8 @@ Allegato 9*[^t-11]*
 - [tab] In questi casi, la quantità di diritti di emissione da assegnare annualmente a titolo gratuito è calcolata come segue:
 - [tab] *Assegnazione**<sub>i</sub>* *= (E**<sub>dirette</sub>* */ (E**<sub>dirette</sub>* *+ E**<sub>indirette</sub>**)) \* PR \* QA \* FA**<sub>i</sub>* *\* FCI**<sub>i</sub>*
 - Assegnazionei assegnazione nell’anno i
-- E<sub>dirette</sub> emissioni dirette all’interno del rispettivo elemento di assegnazione con parametro di riferimento relativo al prodotto nel periodo di riferimento di cui al numero 2. Si tiene conto anche delle emissioni del calore consumato all’interno dell’elemento di assegnazione prelevato direttamente da altri impianti nel o fuori dal SSQE, calcolate in [...] t CO<sub>2</sub> per TJ
-- E<sub>indirette</sub> emissioni indirette dell’energia elettrica consumata nel periodo di riferimento di cui al numero 2 all’interno del rispettivo elemento di assegnazione con parametro di riferimento relativo al prodotto.
+- E<sub>dirette</sub> emissioni dirette all’interno del rispettivo elemento di assegnazione con parametro di riferimento relativo al prodotto nel periodo di riferimento di cui al numero 2. Si tiene conto anche delle emissioni del calore consumato all’interno dell’elemento di assegnazione prelevato direttamente da altri impianti nel o fuori dal SSQE, calcolate in 62,3 t CO<sub>2</sub> per TJ
+- E<sub>indirette</sub> emissioni indirette dell’energia elettrica consumata nel periodo di riferimento di cui al numero 2 all’interno del rispettivo elemento di assegnazione con parametro di riferimento relativo al prodotto
 - PR parametro di riferimento
 - QA quota di attività (riferita al rispettivo parametro di riferimento)
 - FA<sub>i</sub> fattore di adeguamento nell’anno conformemente all’allegato 9 numero 3
