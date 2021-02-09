@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-01-21
-valid_until: 2021-02-09
-version_adopted: 2021-01-20
+version: 2021-02-10
+valid_until: 2021-02-28
+version_adopted: 2021-02-03
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2134/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2134/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 21.01.2021)
+vom 04.11.2020 (Stand 10.02.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -162,7 +162,7 @@ beschliesst:
 
 <sup>2</sup> Diese Pflicht gilt nicht
 
-- a für Schülerinnen und Schüler im Kindergarten und auf der Primarstufe,
+- a für Schülerinnen und Schüler im Kindergarten und im ersten bis vierten Schuljahr der Primarstufe,
 - b für Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind,
 - c für alle Personen in Situationen, in denen das Tragen einer Gesichtsmaske den Unterricht wesentlich erschwert, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
 
@@ -170,7 +170,7 @@ beschliesst:
 
 **Sportunterricht**
 
-<sup>1</sup> Im Sportunterricht auf der Sekundarstufe I und II dürfen nur Aktivitäten ohne Körperkontakt ausgeübt werden, wobei
+<sup>1</sup> Im Sportunterricht des fünften und sechsten Schuljahrs der Primarstufe sowie auf der Sekundarstufe I und II dürfen nur Aktivitäten ohne Körperkontakt ausgeübt werden, wobei
 
 - a in Innenräumen eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten werden muss; auf das Tragen einer Gesichtsmaske kann verzichtet werden in grossen Räumlichkeiten, wenn zusätzliche Abstandsvorgaben eingehalten werden können,
 - b im Freien eine Gesichtsmaske getragen oder der erforderliche Abstand eingehalten werden muss.
@@ -179,7 +179,7 @@ beschliesst:
 
 **Unterricht im Bereich Künste bzw. Kultur**
 
-<sup>1</sup> Im Unterricht im Bereich Künste bzw. Kultur auf der Sekundarstufe I und II dürfen Proben stattfinden, wenn eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten wird; auf das Tragen einer Gesichtsmaske kann verzichtet werden in grossen Räumlichkeiten, wenn zusätzliche Abstandsvorgaben gelten.
+<sup>1</sup> Im Unterricht im Bereich Künste bzw. Kultur des fünften und sechsten Schuljahrs der Primarstufe sowie auf der Sekundarstufe I und II dürfen Proben stattfinden, wenn eine Gesichtsmaske getragen und der erforderliche Abstand eingehalten wird; auf das Tragen einer Gesichtsmaske kann verzichtet werden in grossen Räumlichkeiten, wenn zusätzliche Abstandsvorgaben gelten.
 
 ### 2.4
 
@@ -358,6 +358,14 @@ beschliesst:
 <sup>1</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter nimmt die Aufsicht über die Einhaltung der Schutzkonzepte in den Skigebieten wahr. Wird ein Schutzkonzept trotz Mahnung nicht eingehalten, erstattet sie oder er der Direktion für Inneres und Justiz Bericht.
 
 <sup>2</sup> Der Regierungsrat entscheidet auf Antrag der Direktion für Inneres und Justiz über den Widerruf der Bewilligung wegen Nichteinhaltung des Schutzkonzepts (Art. 5c Abs. 5 Bst. a der Covid-19-Verordnung besondere Lage).
+
+#### Art. 20d
+
+**Covid-19-Impfungen durch Apothekerinnen und Apotheker**
+
+<sup>1</sup> Apothekerinnen und Apotheker, die gestützt auf Artikel 19 Absatz 2 der Verordnung vom 24. Oktober 2001 über die beruflichen Tätigkeiten im Gesundheitswesen (Gesundheitsverordnung, GesV)[^20d-1] über eine Bewilligung zur Durchführung von Impfungen verfügen, sind ermächtigt und beauftragt, an gesunden Personen ab 16 Jahren Covid-19-Impfungen in der Apotheke vorzunehmen.
+
+[^20d-1]: BSG [811.111](https://www.belex.sites.be.ch/data/811.111/de)
 
 ### 3.2 Gemeinden
 

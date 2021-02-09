@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-01-21
-valid_until: 2021-02-09
-version_adopted: 2021-01-20
+version: 2021-02-10
+valid_until: 2021-02-28
+version_adopted: 2021-02-03
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2134/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2137/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2134/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 21.01.2021)
+du 04.11.2020 (état au 10.02.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -162,7 +162,7 @@ arrête:
 
 <sup>2</sup> Cette obligation ne vaut pas pour
 
-- a les élèves de l’école enfantine et du degré primaire;
+- a les élèves de l’école enfantine et de la 1<sup>re</sup> à la 4<sup>e</sup> années du degré primaire (3H à 6H);
 - b les personnes pouvant attester qu’elles ne peuvent pas porter de masque facial pour des raisons particulières, notamment médicales, pour autant que d’autres mesures de protection appropriées soient prises;
 - c toutes les personnes se trouvant dans une situation dans laquelle le port d'un masque facial entrave considérablement l’enseignement, pour autant que d’autres mesures de protection appropriées soient prises.
 
@@ -170,7 +170,7 @@ arrête:
 
 **Enseignement du sport**
 
-<sup>1</sup> L’enseignement du sport aux degrés secondaires I et II n'admet que des activités sans contact physique, pour autant que,
+<sup>1</sup> L’enseignement du sport en 5<sup>e</sup> et 6<sup>e</sup> années du degré primaire (7H et 8H) ainsi qu’aux degrés secondaires I et II n'admet que des activités sans contact physique, pour autant que,
 
 - a dans les espaces clos, les personnes concernées portent un masque facial et maintiennent la distance requise; elles peuvent se passer de masque dans les locaux spacieux s’ils permettent de respecter des règles de distanciation physique supplémentaires;
 - b en plein air, les personnes concernées portent un masque facial ou respectent la distance requise.
@@ -179,7 +179,7 @@ arrête:
 
 **Enseignement dans les domaines artistique et culturel**
 
-<sup>1</sup> Les répétitions s’inscrivant dans le cadre d’un enseignement artistique ou culturel aux degrés secondaires I et II ne peuvent avoir lieu que si les personnes concernées portent un masque facial et maintiennent la distance requise; elles peuvent se passer de masque dans les locaux spacieux si des règles de distanciation physique supplémentaires sont appliquées.
+<sup>1</sup> Les répétitions s’inscrivant dans le cadre d’un enseignement artistique ou culturel en 5<sup>e</sup> et 6<sup>e</sup> années du degré primaire (7H et 8H) ainsi qu’aux degrés secondaires I et II ne peuvent avoir lieu que si les personnes concernées portent un masque facial et maintiennent la distance requise; elles peuvent se passer de masque dans les locaux spacieux si des règles de distanciation physique supplémentaires sont appliquées.
 
 ### 2.4
 
@@ -358,6 +358,14 @@ arrête:
 <sup>1</sup> Le préfet ou la préfète surveille le respect des plans de protection dans les domaines skiables. Si le plan de protection n’est pas respecté malgré avertissement, il ou elle en rend compte à la Direction de l'intérieur et de la justice.
 
 <sup>2</sup> Si le plan de protection n'est pas respecté, le Conseil-exécutif statue sur la révocation de l'autorisation sur proposition de la Direction de l'intérieur et de la justice (art. 5c, al. 5, lit. a ordonnance COVID-19 situation particulière).
+
+#### Art. 20d
+
+**Vaccination contre le COVID-19 par les pharmaciens et pharmaciennes**
+
+<sup>1</sup> Les pharmaciens et pharmaciennes autorisés à administrer des vaccins sur la base de l'article 19, alinéa 2 de l'ordonnance du 24 octobre 2001 sur les activités professionnelles dans le secteur sanitaire (ordonnance sur la santé publique, OSP)[^20d-1] sont habilités à et chargés de vacciner des personnes en bonne santé dès 16 ans contre le COVID-19 dans les pharmacies.
+
+[^20d-1]: RSB [811.111](https://www.belex.sites.be.ch/data/811.111/fr)
 
 ### 3.2 Communes
 
