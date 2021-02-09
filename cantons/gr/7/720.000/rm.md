@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Lescha da taglia per il chantun Grischun
 language: rm
-version: 2020-01-01
+version: 2021-01-01
 corrected: 2021-02-10
 version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3009/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha da taglia per il chantun Grischun
 
-dals 08-06-1986 (versiun dals 01-01-2020)
+dals 08-06-1986 (versiun dals 01-01-2021)
 
 acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
@@ -33,7 +33,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - a) ina taglia sin las entradas ed ina taglia sin la facultad da las persunas natiralas sco er ina taglia sin il gudogn tras la vendita da bains immobigliars da las persunas natiralas e da las persunas giuridicas libras da taglia,
 - b) ina taglia sin il gudogn e sin il chapital da las persunas giuridicas, e quai per il chantun e per las vischnancas,
 - c) ina taglia a la funtauna da las persunas natiralas e giuridicas, e quai per il chantun, per las vischnancas sco er per las baselgias chantunalas e per lur cumins-baselgia,
-- d) ina taglia sin l'ierta ed ina taglia sin donaziuns da las persunas natiralas e giuridicas,
+- d) ina taglia sin l'ierta ed ina taglia sin donaziuns da las persunas natiralas e giuridicas;
 - e) …
 - f) ina taglia da cultus per las baselgias chantunalas.
 
@@ -91,11 +91,13 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 4
 
-**VI. Taglia chantunala simpla e pe da taglia**
+**VI. Gulivaziun da las consequenzas da la progressiun fraida**
 
 <sup>1</sup> Sche l'index naziunal dals pretschs da consum divergescha il mais da fanadur d'in onn chalendar dal stadi da la fin da december 2005 per 3 pertschient u per in import multipel, midan ils imports fixads en francs en l'artitgel 31 litera c, en l'artitgel 35 alinea 3, en l'artitgel 36 literas h ed l, en l'artitgel 38, en l'artitgel 39, en l'artitgel 40a, en l'artitgel 52 alineas 1 e 3, en l'artitgel 63 alinea 1, en l'artitgel 64 alinea 1, en l'artitgel 87, en l'artitgel 91 ed en l'artitgel 114 alinea 1 per la proxima perioda fiscala respectivamain per il proxim onn chalendar per 3 pertschient u per l'import multipel correspundent. Las deducziuns ston vegnir arrundadas sin 100 francs, ils imports en l'artitgel 35 alinea 3 ed en l'artitgel 63 alinea 1 sin 1000 francs.
 
 <sup>2</sup> Per persunas giuridicas èn decisivs ils imports valaivels a la fin da la perioda fiscala.
+
+<sup>3</sup> Sche la sava da l'alinea 1 ch'è vegnida cuntanschida ina giada vegn sutpassada, exista vinavant la correctura d'index da l'onn current.
 
 #### Art. 5
 
@@ -713,8 +715,8 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - p) 11,2 % per ils ulteriurs 100 000.– fr.,
 - q) 11,3 % per ils ulteriurs 100 000.– fr.,
 - r) 11,4 % per ils ulteriurs 100 000.– fr.,
-- s) 11,6 % per ils ulteriurs 300 000.– fr.,
-- t) 11,0 % per tut las entradas imponiblas, sche quellas surpassan 700 500.– fr.,
+- s) 11,6 % per ils ulteriurs 315 500.– fr.,
+- t) 11,0 % per tut las entradas suttamessas a la taglia, sche quellas surpassan 716 000.– fr.
 
 <sup>2</sup> Per eruir la tariffa fiscala da conjugals suttamess communablamain a la taglia, vegn partida l'entrada suttamessa a la taglia cun il divisur dad 1.9.
 
@@ -1858,21 +1860,25 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>2</sup> L'attribuziun a las vischnancas vegn fatga tenor ils princips dal dretg interchantunal davart l'imposiziun dubla da taglia. Las quotas vegnan bunifitgadas periodicamain al conto current da la vischnanca.
 
-## 5. Taglia sin il relasch e sin donaziuns
+## 5. Taglia sin l'ierta e taglia sin donaziuns
 
 #### Art. 106
 
-**I. Object da la taglia 1. taglia sin il relasch**
+**I. Object da la taglia 1. Taglia sin l'ierta:**
 
-<sup>1</sup> A la taglia sin il relasch è suttamessa la successiun en la facultad netta dal testader, spezialmain:
+<sup>1</sup> A la taglia sin l'ierta èn suttamess tut ils transferiments da facultad (successiuns d'ierta ed assegnaziuns) tenor il dretg d'ierta legal u sin basa d'ina disposiziun per causa da mort.
 
-- a) il transferiment da facultad tras ina successiun d'ierta legala u testamentara, per contract ereditar,
-- b) l'ierta anticipada a quint da l'ierta futura,
-- c) l'assegnaziun tranter vivs cun l'intent da renunziar a l'ierta,
-- d) il transferiment da facultad en consequenza da donaziun al mortori,
+- a) …
+- b) …
+- c) …
+- d) …
 - e) …
-- f) l'acquist dal pajament da chapital or d'ina assicuranza u or d'ina responsabladad che scada en consequenza da la mort, uschenavant che quest pajament da chapital na vegn betg suttamess a la taglia sco entrada;
-- g) il transferiment da facultad en consequenza d'in contract da vitalizi, uschenavant che la prestaziun dal vitalizià surpassa la prestaziun dal vitaliziari.
+- f) …
+- g) …
+
+<sup>2</sup> Suttamessas a la taglia èn cunzunt assegnaziuns pervia d'instituziun d'ertavels u pervia da legat, pervia da donaziun per causa da mort, pervia d'instituziun da fundaziuns u da trusts renconuschids fiscalmain respectivamain d'assegnaziuns a fundaziuns u a trusts existents per causa da mort sco er pervia d'ina instituziun d'ertavels secundars.
+
+<sup>3</sup> Las assegnaziuns da prestaziuns d'assicuranza che ston vegnir pajadas cun u suenter la mort dal testader, èn suttamessas a la taglia sin l'ierta, nun ch'ellas vegnian taxadas sco entradas.
 
 #### Art. 106a
 
@@ -1880,34 +1886,64 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> A la taglia sin donaziuns è suttamessa, independentamain da l'intent da la donaziun, mintga assegnaziun voluntara tranter vivs, cun la quala insatgi enritgescha in auter or da sia atgna facultad senza cuntraprestaziun correspundenta.
 
-<sup>2</sup> Sco donaziuns valan er:
+<sup>2</sup> Suttamessas a la taglia èn cunzunt donaziuns tranter vivs, retratgas anticipadas da l'ierta che vegnan messas a quint a l'ierta futura, assegnaziuns tras contract, nun che las prestaziuns vicendaivlas stettian en ina disproporziun evidenta, sco er assegnaziuns per instituir fundaziuns u trusts renconuschids fiscalmain respectivamain a fundaziuns u a trusts existents.
 
-- a) l'assegnaziun tranter vivs cun in contract da reciprocadad, uschenavant che la prestaziun da l'in è evidentamain sproporziunada en cumparegliaziun cun la prestaziun da l'auter;
-- b) l'assegnaziun a terzas persunas da pajaments da chapital or d'ina assicuranza, sch'il pajament scada durant la vita da l'assicurà;
-- c) l'assegnaziun tranter vivs d'ina facultad per in intent spezial.
+- a) …
+- b) …
+- c) …
+
+<sup>3</sup> Las assegnaziuns da prestaziuns d'assicuranza che ston vegnir pajadas durant la vita dal donatur, èn suttamessas a la taglia sin donaziuns, nun ch'ellas vegnian taxadas sco entradas.
 
 #### Art. 107
 
-**II. Obligaziun da pajar taglia**
+**II. Obligaziun da pajar taglia 1. en general**
 
-<sup>1</sup> Obligà da pajar taglia è il retschavider da l'assegnaziun, sche:
+<sup>1</sup> L'obligaziun da pajar taglia exista, sche:
 
-- a) il testader aveva domicil fiscal u dimora fiscala en il chantun il mument da sia mort,
-- b) la successiun d'ierta è vegnida communitgada en il chantun,
-- c) il donatur aveva ses domicil fiscal u sia dimora fiscala en il chantun il mument dal pajament da l'assegnaziun;
+- a) il testader aveva ses ultim domicil en il chantun;
+- b) il donatur ha ses domicil en il chantun il mument da l'assegnaziun;
+- c) bains immobigliars situads en il chantun u dretgs vi da tals bains immobigliars vegnan transferids.
 - d) …
-- e) la facultad immovibla situada en il chantun u dretgs reals vi da quella appartegnan respectivamain vegnan transferids al relasch;
-- f) i vegn transferida facultad movibla situada en il chantun che vegn attribuida tenor in contract internaziunal al lieu da manaschi u al stadi cun dretg d'imponer taglias per la taxaziun.
+- e) …
+- f) …
 
-<sup>2</sup> Il conjugal survivent, ils descendents ed il partenari da concubinat èn liberads da la taglia. Uffants figliasters ed uffants confidads han il medem status sco las descendentas ed ils descendents.
+<sup>2</sup> En la relaziun internaziunala exista l'obligaziun da pajar taglia ultra da quai, sche facultad movibla suttamessa a la taglia en il chantun vegn transferida.
 
-<sup>3</sup> L'assegnaziun da facultad ad ina fundaziun cun benefizienza irrevocabla da l'assegnader u da las persunas tenor l'alinea 2 ha il medem status sco l'assegnaziun directa a questas persunas benefiziadas.
+<sup>3</sup> …
 
-<sup>4</sup> En cas d'ina instituziun posteriura d'ertavels vegn il relasch suttamess a la taglia, sche l'emprim ertavel u sche l'ertavel posteriur è suttamess a l'obligaziun da pajar taglia.
+<sup>4</sup> …
+
+#### Art. 107a
+
+**2. subject da taglia**
+
+<sup>1</sup> Obligà da pajar taglia è il retschavider da l'assegnaziun (ertavel, legatari, donatari, benefiziari u autramain legitimà).
+
+<sup>2</sup> En cas d'assegnaziuns da giudidas, d'auters dretgs d'utilisaziun u da prestaziuns periodicas è la persuna cun il dretg da giudida u il retschavider da las prestaziuns obligà da pajar taglia.
+
+<sup>3</sup> En cas d'assegnaziuns ad ina societad da chapital u ad in'associaziun è il proprietari da la participaziun obligà da pajar taglia.
+
+<sup>4</sup> En cas d'ina instituziun d'ertavels secundars èn tant l'emprim ertavel sco er l'ertavel secundar obligads da pajar taglia.
+
+#### Art. 107b
+
+**3. liberaziun da taglia**
+
+<sup>1</sup> Da l'obligaziun da pajar taglia èn liberads:
+
+- a) ils conjugals ed ils partenaris da concubinat;
+- b) ils descendents, ils figliasters ed ils uffants confidads ed ils descendents betg cuminaivels da conjugals e da partenaris da concubinat sco er lur descendents respectivs;
+- c) ils geniturs, il padraster e la madrastra ed ils geniturs da tgira;
+- d) las persunas giuridicas tenor l'artitgel 78 che han lur sedia en il chantun, sche la facultad assegnada serva a l'intent che profita da facilitaziuns fiscalas e na po betg vegnir alienada;
+- e) las persunas giuridicas extrachantunalas en il senn da l'artitgel 78, sch'il dretg federal prevesa quai u sche l'auter chantun garantescha dretg reciproc respectivamain sch'igl exista ina cunvegna da dretg reciproc cun in auter stadi.
+
+<sup>2</sup> La regenza po extender la liberaziun da taglia sin retschaviders extrachantunals, sche ed uschenavant ch'il chantun u stadi respectiv garantescha dretg reciproc.
+
+<sup>3</sup> Fundaziuns e trusts renconuschids fiscalmain cun benefizienza irrevocabla da l'assegnader sez u da persunas liberadas da la taglia èn liberads da l'obligaziun da pajar taglia.
 
 #### Art. 108
 
-**III. Mument da la taxaziun**
+**III. Dretg da taglia**
 
 <sup>1</sup> Il dretg da taglia nascha il mument dal transferiment da la facultad respectivamain da l'assegnaziun.
 
@@ -1921,13 +1957,13 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 **IV. Calculaziun da la taglia 1. basa da calculaziun**
 
-<sup>1</sup> La taglia vegn calculada tenor la valur da l'entira facultad netta nunrepartida respectivamain assegnada.
+<sup>1</sup> La taglia vegn calculada sin basa da la valur che la facultad netta che vegn transferida ha il mument dal transferiment da la facultad.
 
-<sup>2</sup> Decisivas èn las relaziuns il mument da la mort respectivamain da l'assegnaziun.
+<sup>2</sup> …
 
 #### Art. 110
 
-**2. calculaziun objectiva a) activas**
+**2. Activas a) princip**
 
 <sup>1</sup> Las activas vegnan valitadas per la valur commerziala.
 
@@ -1945,24 +1981,29 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 111
 
-**b) passivas**
+**b) cas spezials**
 
-<sup>1</sup> Ils debits dal testader ed ils debits ch'èn vegnids transferids al retschavider cun l'assegnaziun vegnan deducids. Obligaziuns eventualas sco debits solidars e debits da garanzia pon vegnir deducidas mo, uschenavant ch'ils ertavels las ston surpigliar.
+<sup>1</sup> Per bains immobigliars pon l'administraziun da taglia ed il pajataglia pretender ina nova stimaziun.
 
-<sup>2</sup> Ils usufructs, ils dretgs d'abitar, auters dretgs da giudida e las obligaziuns da far prestaziuns regularas ch'existivan gia avant la mort dal testader e ch'existan vinavant er suenter la mort, vegnan mess a quint per lur valur chapitalisada.
+<sup>2</sup> Giudidas, auters dretgs d'utilisaziun, rentas ed autras prestaziuns periodicas vegnan valitadas tenor lur valur chapitalisada.
 
-<sup>3</sup> En cas d'ina obligaziun parziala da pajar taglia vegnan las passivas messas a quint proporziunalmain.
+<sup>3</sup> En cas d'ina instituziun d'ertavels secundars che na sa restrenscha betg a la restanza da l'ierta, vegn valitada la facultad che vegn transferida sin l'emprim ertavel, per la valur chapitalisada da l'emprima ierta.
+
+<sup>4</sup> En cas da transferiments da facultad tras in contract d'assicuranza è decisiva per la valitaziun la valur da recumpra u la prestaziun d'assicuranza pajada.
+
+<sup>5</sup> Sche la taglia sin l'ierta vegn adossada al relasch u sche la taglia sin donaziuns vegn surpigliada dal donatur, s'augmenta l'assegnaziun suttamessa a la taglia per l'import da taglia respectiv.
 
 #### Art. 112
 
 **3. deducziuns**
 
-<sup>1</sup> Per calcular la taglia sin il relasch vegnan deducids da la facultad netta:
+<sup>1</sup> Per fixar la taglia vegnan deducids:
 
-- a) ils custs da la sepultura usitads al lieu,
-- b) las prelevaziuns per uffants impedids u ch'èn anc en scolaziun tenor l'artitgel 631 alinea 2 CCS,
-- c) las pajas per lavur en il manaschi dals geniturs,
-- d) ils custs per il mantegniment dals cussedents tenor l'artitgel 606 CCS.
+- a) ils debits che vegnan transferids sin l'ertavel cun l'ierta u cun l'assegnaziun tranter vivs;
+- b) giudidas, dretgs d'abitar, auters dretgs d'utilisaziun ed obligaziuns da prestaziuns periodicas, che han existì avant la mort dal testader e ch'existan vinavant respectivamain ch'engrevgeschan l'object da la taglia sin donaziuns;
+- c) ils custs usitads al lieu da la sepultura e dal mantegniment da la fossa;
+- d) las expensas per realisar la successiun d'ierta sco er ils custs da l'execuziun dal testament e da la partiziun d'ierta;
+- e) ils custs da dretgira e d'advocat per plants da nunvalaivladad, da reducziun u d'ierta.
 
 <sup>2</sup> En cas d'ina obligaziun parziala da pajar taglia vegnan las deducziuns messas a quint proporziunalmain.
 
@@ -1970,11 +2011,11 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 **4. assegnaziuns libras da taglia**
 
-<sup>1</sup> Las assegnaziuns a persunas giuridicas tenor l'artitgel 78 che han lur sedia en il chantun èn libras da taglia, sche la facultad assegnada serva ad in intent che benefiziescha da facilitaziuns fiscalas e na po betg vegnir alienada dad el.
+<sup>1</sup> …
 
-<sup>2</sup> La regenza po extender la liberaziun da la taglia sin l'ierta er sin retschaviders extrachantunals, sche ed uschenavant ch'il chantun u stadi respectiv accorda dretg reciproc.
+<sup>2</sup> …
 
-<sup>3</sup> Libras da taglia èn er:
+<sup>3</sup> Libers da taglia èn:
 
 - a) l'assegnaziun da las contribuziuns usitadas al mantegniment ed a la scolaziun;
 - b) las assegnaziuns per evitar in concurs u ina sequestraziun;
@@ -1988,14 +2029,21 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 <sup>1</sup> Per calcular la taglia vegnan deducids:
 
 - a) da las assegnaziuns a persunas basegnusas: 14 000.– francs,
-- b) da las assegnaziuns ad in genitur: 100 000.– francs,
+- b) …
 - c) da mintga autra assegnaziun: 7000.– francs.
 
 <sup>2</sup> En cas d'ina obligaziun parziala da pajar taglia vegnan las deducziuns messas a quint proporziunalmain.
 
-<sup>3</sup> La taglia importa 10 pertschient.
+<sup>3</sup> La taglia importa:
 
-<sup>4</sup> En cas da pliras assegnaziuns al medem retschavider tras la medema persuna po l'import liber da taglia vegnir fatg valair mo ina giada entaifer ina perioda da tschintg onns.
+- a) 5 pertschient per retschaviders dal tschep dals geniturs;
+- b) 15 pertschient per ils ulteriurs retschaviders.
+
+<sup>3<sup>bis</sup></sup> Per l'attribuziun al tschep dals geniturs han ils figliasters ed ils uffants confidads sco er ils descendents betg cuminaivels da conjugals e da partenaris da concubinat sco er lur descendents respectivs il medem status sco ils agens uffants e lur descendents.
+
+<sup>3<sup>ter</sup></sup> Per ertavels secundars è decisiva la relaziun da parentella cun il testader oriund.
+
+<sup>4</sup> …
 
 #### Art. 114a
 
@@ -2005,15 +2053,17 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>2</sup> La medema reducziun vegn concedida – per ina participaziun d'almain 40 pertschient – ad ina persuna giuridica che ha in manaschi, sche la persuna benefiziada è engaschada là en ina funcziun directiva.
 
-<sup>3</sup> La reducziun tenor l'alinea 1 croda posteriuramain, sche las valurs da facultad vegnan retratgas dal manaschi entaifer 10 onns, sche l'activitad da manader e d'interprendider vegn bandunada u sch'il manaschi vegn translocà a l'exteriur. L'import, per il qual la taglia è vegnida reducida, vegn incassà sco taglia supplementara.
+<sup>3</sup> La reducziun croda davent posteriuramain, sche las valurs da facultad vegnan retratgas dal manaschi entaifer 10 onns, sch'il manaschi vegn alienà u translocà a l'exteriur, sche l'activitad directiva da l'interpresa vegn bandunada u sche la participaziun vegn alienada.
+
+<sup>4</sup> L'import, per il qual la taglia è vegnida reducida, vegn incassà sco taglia supplementara.
 
 #### Art. 115
 
-**VII. Incassament e responsabladad**
+**VII. Responsabladad**
 
-<sup>1</sup> La taglia sin il relasch sto vegnir pajada or da l'ierta avant sia repartiziun e vegn incassada en ina giada.
+<sup>1</sup> Per la taglia sin l'ierta dad ertavels e da legataris cun domicil u sedia a l'exteriur èn responsabels solidaricamain ils ertavels ed ils legataris fin a l'import che correspunda a la valur da la facultad ch'è vegnida transferida sin els. Administraturs d'ierta, executurs dal testament ed autras persunas, a las qualas è affidada la partiziun d'ierta, èn responsabels cun lur entira facultad, sch'els pajan ora parts d'ierta u legats, avant che las taglias sin l'ierta che vegnan debitadas per quai èn pajadas.
 
-<sup>2</sup> Plirs retschaviders da las valurs da facultad stattan solitariamain buns per la taglia fin a l'import da lur devoluziun d'ierta. Sch'ina part dal relasch u da l'assegnaziun pervegn a l'exteriur e sch'i na pon vegnir fatgs valair nagins dretgs da regress, sa restrenscha la responsabladad dals retschaviders da facultad domiciliads en Svizra sin quella part da la taglia ch'els ston purtar en tut.
+<sup>2</sup> Per la taglia sin donaziuns è responsabel il donatur solidaricamain cun il pajataglia.
 
 <sup>3</sup> Dal rest valan l'artitgel 13 e l'artitgel 77 confurm al senn.
 
@@ -2296,7 +2346,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 134
 
-**2. taglia sin il relasch e sin donaziuns**
+**2. Taglia sin l'ierta e taglia sin donaziuns**
 
 <sup>1</sup> Ils ertavels u lur represchentants ston inoltrar a l'administraziun da taglia entaifer 90 dis dapi la mort dal testader tut ils documents ch'èn necessaris per constatar l'obligaziun da pajar taglia sco l'attest d'ierta, ils contracts da lètg, las disposiziuns testamentaras e.u.v.
 
@@ -2330,7 +2380,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> Cunter las decisiuns da taxaziun definitivas po il pajataglia far protesta en scrit tar l'autoritad da taxaziun aifer 30 dis dapi la consegna da la decisiun da taxaziun.
 
-<sup>2</sup> La protesta che vegn fatga d'in cunertavel cunter ina decisiun da taxaziun concernent la taglia sin l'ierta vala er per las ulteriuras persunas pertutgadas da la decisiun.
+<sup>2</sup> …
 
 <sup>3</sup> Sch'ina protesta na cuntegna nagina proposta, sch'ella n'è betg motivada u sch'ils eventuals mussaments na vegnan betg numnads, po l'autoritad da taxaziun envidar il pajataglia da cumplettar sia protesta aifer in termin da 10 dis.
 

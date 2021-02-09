@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
-version: 2020-01-01
+version: 2021-01-01
 corrected: 2021-02-10
 version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3009/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3142/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle imposte per il Cantone dei Grigioni
 
-del 08.06.1986 (stato 01.01.2020)
+del 08.06.1986 (stato 01.01.2021)
 
 accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
@@ -28,12 +28,12 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **I. Oggetto della legge**
 
-<sup>1</sup> Il Cantone riscuote secondo le disposizioni della presente legge
+<sup>1</sup> Il Cantone riscuote secondo le disposizioni della presente legge:
 
 - a) un'imposta sul reddito e sulla sostanza dalle persone fisiche nonché un'imposta sugli utili da sostanza immobiliare ) dalle persone fisiche e dalle persone giuridiche esonerate dalle imposte;
 - b) un'imposta sugli utili e sul capitale dalle persone giuridiche per il Cantone e per i comuni;
 - c) un'imposta alla fonte dalle persone fisiche e giuridiche per il Cantone, i comuni e per le Chiese riconosciute dallo Stato con i loro comuni parrocchiali;
-- d) un'imposta sulle successioni e sulle donazioni dalle persone fisiche e giuridiche;
+- d) un'imposta sull'eredità e un'imposta sulle donazioni dalle persone fisiche e giuridiche;
 - e) …
 - f) un'imposta di culto a favore delle Chiese riconosciute dallo Stato.
 
@@ -91,11 +91,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 4
 
-**VI. Imposta cantonale semplice e tasso fiscale**
+**VI. Compensazione degli effetti della progressione a freddo**
 
 <sup>1</sup> Se nel luglio di un anno civile l'indice nazionale dei prezzi al consumo varia del tre per cento o del relativo multiplo rispetto alla situazione di fine dicembre 2005, gli importi fissati in franchi nell'articolo 31 lettera c, nell'articolo 35 capoverso 3, nell'articolo 36 lettere h e l, nell'articolo 38, nell'articolo 39, nell'articolo 40a, nell'articolo 52 capoversi 1 e 3, nell'articolo 63 capoverso 1, nell'articolo 64 capoverso 1, nell'articolo 87, nell'articolo 91 e nell'articolo 114 capoverso 1 per il prossimo anno fiscale, rispettivamente anno civile variano del tre per cento oppure del relativo multiplo. Le deduzioni devono essere arrotondate per eccesso a 100 franchi, gli importi nell'articolo 35 capoverso 3 e nell'articolo 63 capoverso 1 a 1 000 franchi.
 
 <sup>2</sup> Per le persone giuridiche fanno stato gli importi validi alla fine del periodo fiscale.
+
+<sup>3</sup> Se la variazione dopo aver raggiunto il valore soglia di cui al capoverso 1 torna ad essere inferiore, la correzione dell'indice dell'anno in corso permane.
 
 #### Art. 5
 
@@ -710,8 +712,8 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - p) 11,2 % per ulteriori fr. 100 000.–,
 - q) 11,3 % per ulteriori fr. 100 000.–,
 - r) 11,4 % per ulteriori fr. 100 000.–,
-- s) 11,6 % per ulteriori fr. 300 000.–,
-- t) 11,0 % per l'intero reddito imponibile, se questo supera fr. 700 500.–.
+- s) 11,6 % per ulteriori fr. 315 500.–,
+- t) 11,0 % per l'intero reddito imponibile, se questo supera fr. 716 000.–.
 
 <sup>2</sup> Per determinare l'aliquota d'imposta dei coniugi tassati congiuntamente il reddito imponibile viene diviso per 1,9.
 
@@ -1855,21 +1857,25 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>2</sup> L'attribuzione ai comuni avviene secondo i principi del diritto intercantonale sulla doppia imposizione. Le quote parti vengono accreditate periodicamente sul conto corrente del comune.
 
-## 5. Imposta sulle successioni e sulle donazioni
+## 5. Imposta sull'eredità e sulle donazioni
 
 #### Art. 106
 
-**I. Oggetto dell'imposta 1. Imposta sulle successioni**
+**I. Oggetto dell'imposta 1. Imposta sull'eredità**
 
-<sup>1</sup> Sono soggetti all'imposta sulle successioni per la devoluzione per successione della sostanza netta del testatore specialmente:
+<sup>1</sup> Sono soggette all'imposta sull'eredità tutte le devoluzioni di sostanza (quote ereditarie e assegnazioni) in virtù del diritto successorio legale o in base a una disposizione a causa di morte.
 
-- a) la devoluzione di sostanza per successione in forza di legge, di contratto successorio o di successione testamentaria,
-- b) l'anticipo sulla futura eredità,
-- c) l'assegnazione per atto tra vivi allo scopo di fine ereditaria,
-- d) la trasmissione di sostanza in seguito a donazione in caso di morte,
+- a) …
+- b) …
+- c) …
+- d) …
 - e) …
-- f) l'acquisizione di tacitamenti in capitale provenienti da assicurazione e da responsabilità civile che maturano in seguito al decesso, nella misura in cui ciò non venga tassato quale reddito,
-- g) la devoluzione di sostanza in seguito a un contratto di vitalizio, ove la prestazione del costituente superi quella del debitore del vitalizio.
+- f) …
+- g) …
+
+<sup>2</sup> Sono imponibili in particolare le assegnazioni a seguito di istituzione d'erede o legato, donazione in caso di morte, costituzione di fondazioni fiscalmente riconosciute o trust e assegnazioni a fondazioni o a trust esistenti in caso di morte nonché a seguito di una sostituzione fedecommissaria.
+
+<sup>3</sup> Assegnazioni di prestazioni assicurative che divengono dovute al momento del decesso o dopo il decesso del testatore sono soggette all'imposta sull'eredità, per quanto esse non vengano assoggettate quale reddito.
 
 #### Art. 106a
 
@@ -1877,34 +1883,64 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> È soggetta all'imposta sulle donazioni, indipendentemente dall'intenzione di donare, ogni assegnazione volontaria fra i vivi mediante la quale qualcuno arricchisce un altro con i propri beni senza controprestazione corrispondente.
 
-<sup>2</sup> Si considerano donazioni anche:
+<sup>2</sup> Risultano imponibili in particolare donazioni tra vivi, anticipi sull'eredità a titolo di computo dell'eredità futura, assegnazioni secondo contratto, per quanto le prestazioni reciproche presentino una sproporzione evidente, nonché assegnazioni per la costituzione di fondazioni fiscalmente riconosciute o di trust oppure a fondazioni o a trust esistenti.
 
-- a) le assegnazioni fra vivi secondo accordo di reciprocità, quando la prestazione dell'uno sia evidentemente sproporzionata alla prestazione dell'altro;
-- b) l'assegnazione a terzi di versamenti di capitale proveniente da assicurazione, se il tacitamento matura durante la vita dell'assicurato;
-- c) l'assegnazione di beni patrimoniali per atto fra vivi destinata a uno speciale scopo.
+- a) …
+- b) …
+- c) …
+
+<sup>3</sup> Assegnazioni di prestazioni assicurative che divengono dovute quando il donatore è ancora in vita sono soggette all'imposta sulle donazioni, per quanto esse non vengano assoggettate quale reddito.
 
 #### Art. 107
 
-**II. Assoggettamento**
+**II. Assoggettamento 1. In generale**
 
-<sup>1</sup> Il beneficiario dell'assegnazione è soggetto all'obbligo fiscale, se:
+<sup>1</sup> L'obbligo fiscale sussiste se:
 
-- a) il testatore al momento del decesso aveva domicilio o dimora fiscale nel Cantone;
-- b) la successione è stata aperta nel Cantone;
-- c) la persona assegnante aveva domicilio o dimora fiscale nel Cantone al momento del versamento dell'assegnazione;
+- a) il testatore aveva il proprio ultimo domicilio nel Cantone;
+- b) il donatore al momento dell'assegnazione ha il proprio domicilio nel Cantone;
+- c) sono oggetto di devoluzione fondi situati nel Cantone o diritti relativi a tali fondi.
 - d) …
-- e) la sostanza immobile situata nel Cantone o i diritti reali su di essa fanno parte della successione rispettivamente vengono trasferiti nella successione;
-- f) viene trasferita sostanza mobile situata nel Cantone, la quale in base ad accordo bilaterale viene assegnata per l'imposizione allo Stato sede dello stabilimento d'impresa oppure allo Stato del luogo di situazione della cosa.
+- e) …
+- f) …
 
-<sup>2</sup> Il coniuge superstite, i discendenti e il concubino sono esenti dall'imposta. I figliastri e i figli affiliati sono equiparati ai discendenti.
+<sup>2</sup> Nel contesto internazionale l'obbligo fiscale sussiste inoltre quando sostanza mobile imponibile nel Cantone è oggetto di devoluzione.
 
-<sup>3</sup> L'assegnazione di sostanza ad una fondazione con irrevocabile beneficio della persona assegnante o delle persone secondo il capoverso 2 è equiparata all'assegnazione diretta a questi beneficiari.
+<sup>3</sup> …
 
-<sup>4</sup> In caso di sostituzione fedecommissaria la successione viene tassata se l'erede istituito o l'erede sostituito è soggetto all'obbligo fiscale.
+<sup>4</sup> …
+
+#### Art. 107a
+
+**2. Soggetto fiscale**
+
+<sup>1</sup> Il destinatario dell'assegnazione è soggetto all'obbligo fiscale (erede, legatario, donatario, beneficiario o altro avente diritto).
+
+<sup>2</sup> In caso di assegnazioni da usufrutti, altri diritti di godimento o da prestazioni ricorrenti è l'usufruttuario o il destinatario della prestazione a essere soggetto all'obbligo fiscale.
+
+<sup>3</sup> In caso di assegnazioni a una società di capitali o a una cooperativa è il proprietario della partecipazione a essere soggetto all'obbligo fiscale.
+
+<sup>4</sup> In caso di una sostituzione fedecommissaria sia l'erede istituito, sia l'erede sostituito sono soggetti all'obbligo fiscale.
+
+#### Art. 107b
+
+**3. Esenzione fiscale**
+
+<sup>1</sup> Sono esenti dall'assoggettamento:
+
+- a) i coniugi e i concubini;
+- b) i discendenti, i figliastri e i figli affiliati e i discendenti non comuni di coniugi e concubini nonché i loro rispettivi discendenti;
+- c) i genitori, il patrigno e la matrigna e i genitori affilianti;
+- d) le persone giuridiche secondo l'articolo 78 con sede nel Cantone, per quanto la sostanza assegnata serva allo scopo privilegiato fiscalmente e non possa essere sottratta allo stesso;
+- e) le persone giuridiche di fuori Cantone ai sensi dell'articolo 78 se previsto dal diritto federale o per quanto l'altro Cantone accordi la reciprocità o esista un accordo di reciprocità con un altro Stato.
+
+<sup>2</sup> Il Governo può estendere l'esenzione fiscale a beneficiari fuori Cantone, se e nella misura in cui l'altro Cantone o Stato accordi la reciprocità.
+
+<sup>3</sup> Fondazioni fiscalmente riconosciute e trust con irrevocabile beneficio della persona assegnante oppure di persone esenti dall'imposizione sono esentate dall'obbligo fiscale.
 
 #### Art. 108
 
-**III. Momento dell'imposizione**
+**III. Diritto all'imposta**
 
 <sup>1</sup> Il diritto all'imposta sorge al momento del trasferimento della sostanza, rispettivamente dell'assegnazione.
 
@@ -1918,13 +1954,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **IV. Computo dell'imposta 1. Base di calcolo**
 
-<sup>1</sup> L'imposta viene calcolata in base al valore dell'intera sostanza netta indivisa, rispettivamente assegnata.
+<sup>1</sup> L'imposizione viene calcolata sulla base del valore della sostanza netta oggetto di trasferimento al momento della devoluzione della sostanza.
 
-<sup>2</sup> È determinante la situazione al momento del decesso, rispettivamente dell'assegnazione.
+<sup>2</sup> …
 
 #### Art. 110
 
-**2. Computo oggettivo a) Attivi**
+**2. Attivi a) Principio**
 
 <sup>1</sup> Gli attivi vengono valutati al loro valore venale.
 
@@ -1942,24 +1978,29 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 111
 
-**b) Passivi**
+**b) Casi particolari**
 
-<sup>1</sup> Vengono dedotti i debiti del testatore e i debiti trasferiti con l'assegnazione al beneficiario. Impegni eventuali, come quelli solidali e da fideiussione, sono deducibili solo nella misura in cui gli eredi ne debbano rispondere.
+<sup>1</sup> L'Amministrazione delle imposte e il contribuente possono chiedere una nuova stima per fondi.
 
-<sup>2</sup> Gli usufrutti, i diritti d'abitazione, altri diritti di godimento e gli obblighi di prestazione ricorrenti, se esistenti sia prima che dopo il decesso del testatore, vengono calcolati al loro valore capitalizzato.
+<sup>2</sup> Usufrutti, altri diritti di godimento, rendite e altre prestazioni ricorrenti vengono valutati secondo il loro valore capitalizzato.
 
-<sup>3</sup> In caso di assoggettamento parziale i passivi si conteggiano pro rata.
+<sup>3</sup> In caso di una sostituzione fedecommissaria che non si limita alla parte residua, la sostanza che viene devoluta all'erede istituito viene valutata al valore capitalizzato dell'eredità istituita.
+
+<sup>4</sup> In caso di devoluzioni di sostanza da un contratto assicurativo, ai fini della valutazione risulta determinante il valore di riscatto o la prestazione assicurativa erogata.
+
+<sup>5</sup> Se l'imposta sull'eredità viene addebitata alla massa successoria oppure se l'imposta sulle donazioni viene assunta dal donatore, l'assegnazione imponibile aumenta dell'importo d'imposta corrispondente.
 
 #### Art. 112
 
 **3. Deduzioni**
 
-<sup>1</sup> Per il calcolo dell'imposta sulle successioni vengono dedotti dalla sostanza netta:
+<sup>1</sup> Per il calcolo dell'imposta vengono dedotti:
 
-- a) le spese di sepoltura usuali nella località;
-- b) i prelevamenti per figli in fase di istruzione e colpiti da infermità ai sensi dell'articolo 631 capoverso 2 CC;
-- c) i compensi per la contribuzione alle spese e dei lavori domestici di figli e abiatici;
-- d) le spese di mantenimento, nell'economia domestica del defunto, ai sensi dell'articolo 606 CC.
+- a) debiti trasferiti con l'eredità o l'assegnazione tra vivi;
+- b) usufrutti, diritti d'abitazione, altri diritti di godimento e obblighi di prestazione ricorrenti ed esistenti prima del decesso del testatore o gravanti l'oggetto dell'imposta sulle donazioni;
+- c) spese di sepoltura e di manutenzione della tomba usuali nella località;
+- d) spese per l'esecuzione della successione nonché spese dell'esecuzione testamentaria e della divisione ereditaria;
+- e) spese giudiziarie e di avvocato per azioni di nullità, di riduzione o per petizioni d'eredità.
 
 <sup>2</sup> In caso di assoggettamento parziale le deduzioni si fanno pro rata.
 
@@ -1967,11 +2008,11 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 **4. Assegnazioni esenti da imposta**
 
-<sup>1</sup> Le assegnazioni a persone giuridiche giusta l'articolo 78 che hanno sede nel Cantone sono esenti da imposta nella misura in cui la sostanza assegnata serva allo scopo privilegiato fiscalmente e non possa essere sottratta allo stesso.
+<sup>1</sup> …
 
-<sup>2</sup> Il Governo può estendere l'esenzione dall'imposta sulle successioni anche a beneficiari di fuori Cantone, se e nella misura in cui l'altro cantone o Stato accordi la reciprocità.
+<sup>2</sup> …
 
-<sup>3</sup> Sono esenti da imposta anche:
+<sup>3</sup> Sono esenti da imposta:
 
 - a) le usuali prestazioni necessarie al sostentamento e alla formazione;
 - b) le assegnazioni tendenti a evitare un fallimento o un pignoramento;
@@ -1985,14 +2026,21 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> Nel calcolo dell'imposta vengono dedotti:
 
 - a) dalle assegnazioni a persone bisognose: fr. 14 000.–;
-- b) dalle assegnazioni a un genitore: fr. 100 000.–;
+- b) …
 - c) da ogni altra assegnazione: fr. 7000.–.
 
 <sup>2</sup> In caso di assoggettamento parziale le deduzioni vengono concesse pro rata.
 
-<sup>3</sup> L'imposta ammonta al 10 per cento.
+<sup>3</sup> L'imposta ammonta:
 
-<sup>4</sup> In caso di più assegnazioni allo stesso beneficiario da parte della stessa persona la suddetta deduzione può essere fatta valere una sola volta entro un periodo di cinque anni.
+- a) al 5 per cento per beneficiari della stirpe dei genitori;
+- b) al 15 per cento per gli altri beneficiari.
+
+<sup>3<sup>bis</sup></sup> Ai fini dell'attribuzione alla stirpe dei genitori, i figliastri e i figli affiliati e i discendenti non comuni di coniugi e concubini nonché i loro rispettivi discendenti vengono equiparati ai figli naturali e ai loro discendenti.
+
+<sup>3<sup>ter</sup></sup> Per gli eredi sostituiti è determinante il rapporto di parentela con il testatore originario.
+
+<sup>4</sup> …
 
 #### Art. 114a
 
@@ -2002,15 +2050,17 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>2</sup> La stessa riduzione viene concessa per una partecipazione di almeno il 40 per cento ad una persona giuridica che dirige un'azienda commerciale, se il beneficiario occupa una funzione direttiva.
 
-<sup>3</sup> La riduzione secondo il capoverso 1 viene meno successivamente se entro dieci anni i valori patrimoniali vengono sottratti all'azienda, se l'attività imprenditoriale direttiva viene interrotta o se l'attività viene trasferita all'estero. L'importo di cui l'imposta è stata ridotta viene riscosso quale ricupero d'imposta.
+<sup>3</sup> La riduzione viene meno successivamente se entro dieci anni i valori patrimoniali vengono sottratti all'azienda, se l'azienda viene ceduta o viene trasferita all'estero, se l'attività imprenditoriale direttiva viene abbandonata o la partecipazione viene ceduta.
+
+<sup>4</sup> L'importo di cui l'imposta è stata ridotta viene riscosso quale ricupero d'imposta.
 
 #### Art. 115
 
-**VII. Riscossione e responsabilità**
+**VII. Responsabilità**
 
-<sup>1</sup> L'imposta sulle successioni va versata prelevandola dalla successione prima della divisione ereditaria e in una sola volta.
+<sup>1</sup> Per l'imposta sull'eredità dovuta da eredi e legatari con domicilio o sede all'estero gli eredi e i legatari rispondono solidalmente fino a concorrenza dell'importo che corrisponde al valore della sostanza a loro trasferita. Amministratori d'eredità, esecutori testamentari e altre persone incaricate della divisione dell'eredità che versano quote ereditarie prima che siano state versate le imposte sull'eredità dovute rispondono con tutto il loro patrimonio.
 
-<sup>2</sup> Più beneficiari dei valori patrimoniali rispondono solidalmente dell'imposta fino all'ammontare della loro quota ereditaria. Se una parte della successione o dell'assegnazione viene devoluta all'estero e non si possono far valere diritti di regresso, la responsabilità dei beneficiari residenti in Svizzera si limita a quella parte d'imposta che essi devono pagare complessivamente.
+<sup>2</sup> Il donatore risponde solidalmente insieme al contribuente per l'imposta sulle donazioni.
 
 <sup>3</sup> Per il resto fanno stato per analogia gli articoli 13 e 77.
 
@@ -2293,7 +2343,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 134
 
-**2. Imposta sulle successioni e sulle donazioni**
+**2. Imposta sull'eredità e sulle donazioni**
 
 <sup>1</sup> Gli eredi o i loro rappresentanti devono inoltrare all'Amministrazione delle imposte, entro 90 giorni dal decesso del testatore, tutti i documenti necessari all'accertamento dell'obbligo fiscale, come certificato ereditario, contratti di matrimonio, testamenti, ecc.
 
@@ -2327,7 +2377,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Contro le decisioni definitive di tassazione il contribuente può presentare reclamo scritto all'autorità di tassazione entro 30 giorni dalla notifica della decisione di tassazione.
 
-<sup>2</sup> Il reclamo presentato da un coerede contro una decisione di tassazione concernente l'imposta sulle successioni vale anche per le altre persone colpite dalla decisione.
+<sup>2</sup> …
 
 <sup>3</sup> Se il reclamo non contiene una proposta, non è motivato o non vengono menzionati gli eventuali mezzi di prova, l'autorità di tassazione può invitare il contribuente a completare il suo reclamo entro un termine di 10 giorni.
 

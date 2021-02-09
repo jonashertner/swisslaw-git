@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Steuergesetz für den Kanton Graubünden
 language: de
-version: 2020-01-01
+version: 2021-01-01
 corrected: 2021-02-10
 version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3009/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz für den Kanton Graubünden
 
-Vom 08.06.1986 (Stand 01.01.2020)
+Vom 08.06.1986 (Stand 01.01.2021)
 
 Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
@@ -33,7 +33,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - a) eine Einkommens- und eine Vermögenssteuer von den natürlichen Personen sowie eine Grundstückgewinnsteuer von den natürlichen und den steuerbefreiten juristischen Personen;
 - b) von den juristischen Personen eine Gewinn- und Kapitalsteuer für den Kanton und für die Gemeinden;
 - c) von den natürlichen und den juristischen Personen eine Quellensteuer für den Kanton, für die Gemeinden und für die Landeskirchen mit ihren Kirchgemeinden;
-- d) eine Nachlass- und eine Schenkungssteuer von den natürlichen und juristischen Personen;
+- d) eine Erbschafts- und eine Schenkungssteuer von den natürlichen und juristischen Personen;
 - e) …
 - f) eine Kultussteuer für die Landeskirchen.
 
@@ -91,11 +91,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 4
 
-**VI. Einfache Kantonssteuer und Steuerfuss**
+**VI. Ausgleich der Folgen der kalten Progression**
 
 <sup>1</sup> Weicht der Landesindex der Konsumentenpreise im Juli eines Kalenderjahres vom Stand Ende Dezember 2005 um drei Prozent oder ein Mehrfaches davon ab, ändern sich die in Artikel 31 Litera c, Artikel 35 Abs. 3, Artikel 36 Litera h und l, Artikel 38, Artikel 39, Artikel 40a, Artikel 52 Absatz 1 und 3, Artikel 63 Absatz 1, Artikel 64 Absatz 1, Artikel 87, Artikel 91 und Artikel 114 Absatz 1 in Franken festgelegten Beträge für das nächste Steuer- beziehungsweise Kalenderjahr um drei Prozent oder das entsprechende Mehrfache davon. Die Abzüge sind auf 100 Franken, die Beträge in Artikel 35 Absatz 3 und Artikel 63 Absatz 1 auf 1000 Franken aufzurunden.
 
 <sup>2</sup> Für juristische Personen sind die am Ende der Steuerperiode geltenden Beträge massgebend.
+
+<sup>3</sup> Wird die einmal erreichte Schwelle von Absatz 1 unterschritten, bleibt die Indexkorrektur des laufenden Jahres bestehen.
 
 #### Art. 5
 
@@ -713,8 +715,8 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - p) 11,2 % für die weiteren Fr. 100 000.–
 - q) 11,3 % für die weiteren Fr. 100 000.–
 - r) 11,4 % für die weiteren Fr. 100 000.–
-- s) 11,6 % für die weiteren Fr. 300 000.–
-- t) 11,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 700 500.– übersteigt.
+- s) 11,6 % für die weiteren Fr. 315 500.–
+- t) 11,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 716 000.– übersteigt.
 
 <sup>2</sup> Zur Ermittlung des Steuersatzes von gemeinsam steuerpflichtigen Ehegatten wird das steuerbare Einkommen durch den Divisor von 1.9 geteilt.
 
@@ -1858,21 +1860,25 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Die Zuweisung an die Gemeinden erfolgt nach den Grundsätzen des interkantonalen Doppelbesteuerungsrechts. Die Treffnisse werden periodisch dem Gemeindekontokorrent gutgeschrieben.
 
-## 5. Nachlass- und Schenkungssteuer
+## 5. Erbschafts- und Schenkungssteuer
 
 #### Art. 106
 
-**I. Gegenstand der Steuer 1. Nachlasssteuer**
+**I. Gegenstand der Steuer 1. Erbschaftssteuer**
 
-<sup>1</sup> Der Nachlasssteuer unterliegt die Nachfolge in das Reinvermögen des Erblassers, insbesondere:
+<sup>1</sup> Der Erbschaftssteuer unterliegen alle Vermögensübergänge (Erbanfälle und Zuwendungen) kraft gesetzlichen Erbrechts oder aufgrund einer Verfügung von Todes wegen.
 
-- a) der Vermögensübergang kraft gesetzlicher, erbvertraglicher oder testamentarischer Erbfolge;
-- b) der Vorempfang auf Rechnung künftiger Erbschaft;
-- c) die lebzeitige Zuwendung zum Zwecke des Erbauskaufes;
-- d) der Vermögensübergang infolge Schenkung auf den Todesfall;
+- a) …
+- b) …
+- c) …
+- d) …
 - e) …
-- f) der Erwerb infolge Todes fällig werdender Kapitalzahlung aus Versicherung und aus Haftpflicht, soweit dieser nicht als Einkommen besteuert wird;
-- g) der Vermögensübergang auf Grund eines Verpfründungsvertrages, soweit die Leistung des Pfrundnehmers die Leistung des Pfrundgebers übersteigt.
+- f) …
+- g) …
+
+<sup>2</sup> Steuerbar sind insbesondere Zuwendungen aufgrund von Erbeinsetzung oder Vermächtnis, Schenkung auf den Todesfall, Errichtung von steuerlich anerkannten Stiftungen oder Trusts beziehungsweise Zuwendungen an bestehende Stiftungen oder Trusts auf den Todesfall sowie aufgrund einer Nacherbeneinsetzung.
+
+<sup>3</sup> Zuwendungen von Versicherungsleistungen, die mit oder nach dem Tod des Erblassers fällig werden, unterliegen der Erbschaftssteuer, soweit sie nicht als Einkommen besteuert werden.
 
 #### Art. 106a
 
@@ -1880,34 +1886,64 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Der Schenkungssteuer unterliegt unbekümmert einer Schenkungsabsicht jede freiwillige Zuwendung unter Lebenden, mit der jemand aus seinem Vermögen einen anderen ohne entsprechende Gegenleistung bereichert.
 
-<sup>2</sup> Als Schenkungen gelten auch:
+<sup>2</sup> Steuerbar sind insbesondere Schenkungen unter Lebenden, Vorempfänge in Anrechnung an die künftige Erbschaft, Zuwendungen aus Vertrag, soweit die gegenseitigen Leistungen in offenbarem Missverhältnis stehen, sowie Zuwendungen zur Errichtung steuerlich anerkannter Stiftungen oder Trusts beziehungsweise an bestehende Stiftungen oder Trusts.
 
-- a) die lebzeitige Zuwendung aus gegenseitigem Vertrag, soweit die Leistung des einen in offenbarem Missverhältnis zur Leistung des andern steht;
-- b) die Zuwendung von Kapitalzahlungen an Dritte aus Versicherung, wenn die Auszahlung zu Lebzeiten des Versicherungsnehmers fällig wird;
-- c) die lebzeitige Widmung eines Vermögens für einen besonderen Zweck.
+- a) …
+- b) …
+- c) …
+
+<sup>3</sup> Zuwendungen von Versicherungsleistungen, die zu Lebzeiten des Schenkers fällig werden, sind der Schenkungssteuer unterworfen, soweit sie nicht als Einkommen besteuert werden.
 
 #### Art. 107
 
-**II. Steuerpflicht**
+**II. Steuerpflicht 1. Im Allgemeinen**
 
-<sup>1</sup> Steuerpflichtig ist der Empfänger der Zuwendung, wenn:
+<sup>1</sup> Die Steuerpflicht besteht, wenn:
 
-- a) der Erblasser zur Zeit seines Todes im Kanton steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
-- b) der Erbgang im Kanton eröffnet wurde;
-- c) die zuwendende Person zur Zeit der Ausrichtung der Zuwendung im Kanton steuerrechtlichen Wohnsitz oder Aufenthalt hatte;
+- a) der Erblasser seinen letzten Wohnsitz im Kanton hatte;
+- b) der Schenker im Zeitpunkt der Zuwendung seinen Wohnsitz im Kanton hat;
+- c) im Kanton gelegene Grundstücke oder Rechte an solchen Grundstücken übergehen.
 - d) …
-- e) im Kanton gelegenes unbewegliches Vermögen oder dingliche Rechte daran zum Nachlass gehören beziehungsweise übertragen werden;
-- f) im Kanton gelegenes bewegliches Vermögen übergeht, das nach Staatsvertrag dem Betriebsstätte- oder dem Belegenheitsstaat zur Besteuerung zugewiesen wird.
+- e) …
+- f) …
 
-<sup>2</sup> Der überlebende Ehegatte, die Nachkommen und der Konkubinatspartner sind von der Steuer befreit. Stief- und Pflegekinder sind den Nachkommen gleichgestellt.
+<sup>2</sup> Im internationalen Verhältnis besteht die Steuerpflicht ausserdem, wenn im Kanton steuerbares bewegliches Vermögen übergeht.
 
-<sup>3</sup> Die Vermögenszuwendung an eine Stiftung mit unwiderruflicher Begünstigung des Zuwendenden oder Personen nach Absatz 2 ist der direkten Zuwendung an diese Begünstigten gleichgestellt.
+<sup>3</sup> …
 
-<sup>4</sup> Bei einer Nacherbeneinsetzung wird der Nachlass besteuert, wenn der Vorerbe oder der Nacherbe der Steuerpflicht unterliegen.
+<sup>4</sup> …
+
+#### Art. 107a
+
+**2. Steuersubjekt**
+
+<sup>1</sup> Steuerpflichtig ist der Empfänger der Zuwendung (Erbe, Vermächtnisnehmer, Beschenkter, Begünstigter oder sonstiger Berechtigter).
+
+<sup>2</sup> Bei Zuwendungen von Nutzniessungen, anderen Nutzungsrechten oder wiederkehrenden Leistungen ist die nutzungsberechtigte Person oder der Leistungsempfänger steuerpflichtig.
+
+<sup>3</sup> Bei Zuwendungen an eine Kapitalgesellschaft oder eine Genossenschaft ist der Eigentümer der Beteiligung steuerpflichtig.
+
+<sup>4</sup> Bei einer Nacherbeneinsetzung sind sowohl der Vorerbe als auch der Nacherbe steuerpflichtig.
+
+#### Art. 107b
+
+**3. Steuerbefreiung**
+
+<sup>1</sup> Von der Steuerpflicht sind befreit:
+
+- a) die Ehegatten und die Konkubinatspartner;
+- b) die Nachkommen, die Stief- und Pflegekinder und die nichtgemeinsamen Nachkommen von Ehegatten und Konkubinatspartnern sowie deren jeweilige Nachkommen;
+- c) die Eltern, Stief- und Pflegeeltern;
+- d) die juristischen Personen nach Artikel 78 mit Sitz im Kanton, soweit das zugewendete Vermögen dem steuerbegünstigten Zweck dient und ihm nicht entfremdet werden kann;
+- e) die ausserkantonalen juristischen Personen im Sinne von Artikel 78, wenn das Bundesrecht es vorsieht oder soweit der andere Kanton Gegenrecht hält beziehungsweise eine Gegenrechtsvereinbarung mit einem anderen Staat besteht.
+
+<sup>2</sup> Die Regierung kann die Steuerbefreiung auf ausserkantonale Empfänger ausdehnen, wenn und soweit der betreffende Kanton oder Staat Gegenrecht hält.
+
+<sup>3</sup> Steuerlich anerkannte Stiftungen und Trusts mit unwiderruflicher Begünstigung des Zuwendenden selber oder von steuerbefreiten Personen sind von der Steuerpflicht befreit.
 
 #### Art. 108
 
-**III. Zeitpunkt der Besteuerung**
+**III. Steueranspruch**
 
 <sup>1</sup> Der Steueranspruch entsteht im Zeitpunkt des Vermögensübergangs beziehungsweise der Zuwendung.
 
@@ -1921,13 +1957,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **IV. Steuerbemessung 1. Berechnungsgrundlage**
 
-<sup>1</sup> Die Steuer wird nach dem Wert des gesamten unverteilten beziehungsweise zugewendeten Reinvermögens berechnet.
+<sup>1</sup> Die Steuer wird auf Basis des Werts des übergehenden Reinvermögens zum Zeitpunkt des Vermögensübergangs berechnet.
 
-<sup>2</sup> Massgebend sind die Verhältnisse im Zeitpunkt des Todes beziehungsweise der Zuwendung.
+<sup>2</sup> …
 
 #### Art. 110
 
-**2. Sachliche Bemessung a) Aktiven**
+**2. Aktiven a) Grundsatz**
 
 <sup>1</sup> Die Aktiven werden zum Verkehrswert bewertet.
 
@@ -1945,24 +1981,29 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 111
 
-**b) Passiven**
+**b) Besondere Fälle**
 
-<sup>1</sup> Die Schulden des Erblassers und die mit der Zuwendung an den Empfänger übertragenen Schulden werden abgezogen. Eventualverpflichtungen wie Solidar- und Bürgschaftsschulden sind nur abzugsfähig, soweit die Erben hiefür aufkommen müssen.
+<sup>1</sup> Für Grundstücke können die Steuerverwaltung und der Steuerpflichtige eine Neuschätzung verlangen.
 
-<sup>2</sup> Nutzniessungen, Wohnrechte, andere Nutzungsrechte und Verpflichtungen zu wiederkehrenden Leistungen, die vor dem Tode des Erblassers bestanden und nach dem Tode weiterbestehen, werden zum kapitalisierten Wert in Rechnung gestellt.
+<sup>2</sup> Nutzniessungen, andere Nutzungsrechte, Renten und andere wiederkehrende Leistungen werden nach ihrem kapitalisierten Wert bewertet.
 
-<sup>3</sup> Bei teilweiser Steuerpflicht werden die Passiven anteilmässig angerechnet.
+<sup>3</sup> Bei einer Nacherbeneinsetzung, die sich nicht auf den Überrest beschränkt, wird das auf den Vorerben übergehende Vermögen zum kapitalisierten Wert der Vorerbschaft bewertet.
+
+<sup>4</sup> Bei Vermögensübergängen aus Versicherungsvertrag ist für die Bewertung der Rückkaufswert oder die ausbezahlte Versicherungsleistung massgebend.
+
+<sup>5</sup> Wird die Erbschaftssteuer dem Nachlass überbunden oder wird die Schenkungssteuer vom Schenker übernommen, erhöht sich die steuerbare Zuwendung um den entsprechenden Steuerbetrag.
 
 #### Art. 112
 
 **3. Abzüge**
 
-<sup>1</sup> Für die Berechnung der Nachlasssteuer werden vom Reinvermögen abgezogen:
+<sup>1</sup> Für die Steuerbemessung werden abgezogen:
 
-- a) die ortsüblichen Kosten der Bestattung;
-- b) die Vorausbezüge für in der Erziehung stehende und gebrechliche Kinder gemäss Artikel 631 Absatz 2 ZGB;
-- c) die Lidlöhne;
-- d) die Kosten für den Unterhalt der Hausgenossen gemäss Artikel 606 ZGB.
+- a) die mit der Erbschaft oder der lebzeitigen Zuwendung übergehenden Schulden;
+- b) Nutzniessungen, Wohnrechte, andere Nutzungsrechte und Verpflichtungen zu wiederkehrenden Leistungen, die vor dem Tod des Erblassers bestanden haben und weiterbestehen beziehungsweise das Objekt der Schenkungssteuer belasten;
+- c) die ortsüblichen Kosten der Bestattung und des Grabunterhalts;
+- d) die Auslagen für die Abwicklung des Erbgangs sowie die Kosten der Testamentsvollstreckung und der Erbteilung;
+- e) Gerichts- und Anwaltskosten für Ungültigkeits-, Herabsetzungs- oder Erbschaftsklagen.
 
 <sup>2</sup> Bei teilweiser Steuerpflicht werden die Abzüge anteilmässig angerechnet.
 
@@ -1970,11 +2011,11 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **4. Steuerfreie Zuwendungen**
 
-<sup>1</sup> Zuwendungen an juristische Personen gemäss Artikel 78, die ihren Sitz im Kanton haben, sind steuerfrei, soweit das zugewendete Vermögen dem steuerbegünstigten Zwecke dient und ihm nicht entfremdet werden kann.
+<sup>1</sup> …
 
-<sup>2</sup> Die Regierung kann die Befreiung von der Nachlasssteuer auch auf ausserkantonale Empfänger ausdehnen, wenn und soweit der betreffende Kanton oder Staat Gegenrecht hält.
+<sup>2</sup> …
 
-<sup>3</sup> Steuerfrei sind auch:
+<sup>3</sup> Steuerfrei sind:
 
 - a) die Zuwendung von üblichen Beiträgen zum Unterhalt und zur Ausbildung;
 - b) die Zuwendungen zur Abwehr von Konkurs oder Pfändung;
@@ -1988,14 +2029,21 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Für die Steuerberechnung werden abgezogen:
 
 - a) von den Zuwendungen an bedürftige Personen: Fr. 14 000.–;
-- b) von den Zuwendungen an einen Elternteil: Fr. 100 000.–;
+- b) …
 - c) von jeder anderen Zuwendung: Fr. 7000.–.
 
 <sup>2</sup> Bei teilweiser Steuerpflicht werden die Abzüge anteilmässig gewährt.
 
-<sup>3</sup> Die Steuer beträgt zehn Prozent.
+<sup>3</sup> Die Steuer beträgt:
 
-<sup>4</sup> Bei mehreren Zuwendungen an den gleichen Empfänger durch die gleiche Person kann der steuerfreie Betrag innerhalb eines Zeitraumes von fünf Jahren nur einmal geltend gemacht werden.
+- a) 5 Prozent für Empfänger des elterlichen Stammes;
+- b) 15 Prozent für die übrigen Empfänger.
+
+<sup>3<sup>bis</sup></sup> Für die Zuordnung zum elterlichen Stamm werden die Stief- und Pflegekinder und die nichtgemeinsamen Nachkommen von Ehegatten und Konkubinatspartnern sowie deren jeweilige Nachkommen den leiblichen Kindern und deren Nachkommen gleichgestellt.
+
+<sup>3<sup>ter</sup></sup> Für Nacherben ist das Verwandtschaftsverhältnis zum ursprünglichen Erblasser massgebend.
+
+<sup>4</sup> …
 
 #### Art. 114a
 
@@ -2005,15 +2053,17 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Die gleiche Ermässigung wird gewährt für eine Beteiligung von mindestens 40 Prozent an einer juristischen Person, die einen Geschäftsbetrieb führt, wenn der Begünstigte in leitender Funktion angestellt ist.
 
-<sup>3</sup> Die Ermässigung nach Absatz 1 entfällt nachträglich, wenn innert zehn Jahren die Vermögenswerte dem Betrieb entzogen, die leitende unternehmerische Tätigkeit aufgegeben oder der Betrieb ins Ausland verlegt werden. Der Betrag, um den die Steuer ermässigt wurde, wird als Nachsteuer erhoben.
+<sup>3</sup> Die Ermässigung entfällt nachträglich, wenn innert zehn Jahren die Vermögenswerte dem Betrieb entzogen werden, der Betrieb veräussert oder ins Ausland verlegt, die leitende unternehmerische Tätigkeit aufgegeben oder die Beteiligung veräussert wird.
+
+<sup>4</sup> Der Betrag, um den die Steuer ermässigt wurde, wird als Nachsteuer erhoben.
 
 #### Art. 115
 
-**VII. Bezug und Haftung**
+**VII. Haftung**
 
-<sup>1</sup> Die Nachlasssteuer ist aus dem Nachlass vor dessen Verteilung zu bezahlen und wird gesamthaft bezogen.
+<sup>1</sup> Für die Erbschaftssteuer von Erben und Vermächtnisnehmern mit Wohnsitz oder Sitz im Ausland haften Erben und Vermächtnisnehmer solidarisch bis zum Betrag, der dem Wert des auf sie übergegangenen Vermögens entspricht. Mit ihrem ganzen Vermögen haften Erbschaftsverwalter, Willensvollstrecker und andere mit der Teilung des Nachlasses betraute Personen, die Erbanteile oder Vermächtnisse ausrichten, bevor die hierfür geschuldeten Erbschaftssteuern entrichtet sind.
 
-<sup>2</sup> Mehrere Empfänger der Vermögenswerte haften bis auf den Betrag ihres Anfalles solidarisch für die Steuer. Fällt ein Teil des Nachlasses oder der Zuwendung ins Ausland und können keine Regressrechte geltend gemacht werden, beschränkt sich die Haftung der in der Schweiz wohnenden Vermögensempfänger auf den Teil der Steuer, der von ihnen insgesamt zu tragen ist.
+<sup>2</sup> Für die Schenkungssteuer haftet der Schenker solidarisch mit dem Steuerpflichtigen.
 
 <sup>3</sup> Im übrigen gelten sinngemäss Artikel 13 und Artikel 77.
 
@@ -2296,7 +2346,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 134
 
-**2. Nachlass- und Schenkungssteuer**
+**2. Erbschafts- und Schenkungssteuer**
 
 <sup>1</sup> Die Erben oder deren Vertreter haben der Steuerverwaltung innert 90 Tagen seit dem Tod des Erblassers alle notwendigen Unterlagen zur Feststellung der Steuerpflicht wie Erbbescheinigung, Eheverträge, letztwillige Verfügungen, etc. einzureichen.
 
@@ -2330,7 +2380,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Gegen definitive Veranlagungsverfügungen kann der Steuerpflichtige innert 30 Tagen seit Zustellung der Veranlagungsverfügung bei der Veranlagungsbehörde schriftlich Einsprache erheben.
 
-<sup>2</sup> Die von einem Miterben erhobene Einsprache gegen eine Veranlagungsverfügung über die Nachlasssteuer gilt auch für die übrigen von der Verfügung betroffenen Personen.
+<sup>2</sup> …
 
 <sup>3</sup> Enthält eine Einsprache keinen Antrag, ist sie nicht begründet oder werden allfällige Beweismittel nicht genannt, kann die Veranlagungsbehörde den Steuerpflichtigen auffordern, seine Einsprache innert einer Frist von zehn Tagen zu ergänzen.
 
