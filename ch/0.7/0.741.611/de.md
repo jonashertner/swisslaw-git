@@ -4,11 +4,11 @@ title: Übereinkommen vom 19. Mai 1956 über den Beförderungsvertrag im interna
 short: CMR
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/851_851_851"
 language: de
-version: 2011-08-30
+version: 2021-02-10
 adopted: 1956-05-19
 in_force: 1970-05-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20110830/de/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20110830-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20110830/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20210210/de/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20210210-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20210210/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20110830/de"
 
 AS **1970** 851; BBl **1969** I 773
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen In Genf am 19. Mai 1956 Unterzeichnet von der Schweiz am 19. Mai 1956 Von der Bundesversammlung genehmigt am 4. Dezember 1969[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 27. Februar 1970 In Kraft getreten für die Schweiz am 28. Mai 1970
+Abgeschlossen In Genf am 19. Mai 1956 Unterzeichnet von der Schweiz am 19. Mai 1956 Von der Bundesversammlung genehmigt am 4. Dezember 1969[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 27. Februar 1970 In Kraft getreten für die Schweiz am 28. Mai 1970
 
-(Stand am 30. August 2011)
+(Stand am 10. Februar 2021)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: [AS 1970 850](https://fedlex.data.admin.ch/eli/oc/1970/850_850_850)
+[^t-1]: [AS 1970 850](https://fedlex.data.admin.ch/eli/oc/1970/850_850_850)
 
-Präambel
+*Präambel*
 
 Die Vertragsparteien
 
@@ -293,7 +292,7 @@ Wird das Gut dem Empfänger ohne Einziehung der nach dem Beförderungsvertrag vo
 [^23-1]: Fassung gemäss Art. 2 Ziff. 1 des Prot. zum CMR vom 5. Juli 1978, in Kraft für die Schweiz seit 8. Jan. 1984 ([AS 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 [^23-2]: Eingefügt durch Art. 2 Ziff. 2 des Prot. zum CMR vom 5. Juli 1978, in Kraft für die Schweiz seit 8. Jan. 1984 ([AS 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 [^23-3]: Eingefügt durch Art. 2 Ziff. 2 des Prot. zum CMR vom 5. Juli 1978, in Kraft für die Schweiz seit 8. Jan. 1984 ([AS 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
-[^23-4]: [SR 0.741.611.1](https://fedlex.data.admin.ch/eli/cc/1983/1933_1933_1933)
+[^23-4]: [SR 0.741.611.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2861)
 [^23-5]: Eingefügt durch Art. 2 Ziff. 2 des Prot. zum CMR vom 5. Juli 1978, in Kraft für die Schweiz seit 8. Jan. 1984 ([AS 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 
 #### Art. 24
@@ -527,72 +526,72 @@ Geschehen zu Genf am neunzehnten Mai neunzehnhundertsechsundfünfzig in einer ei
 
 (Es folgen die Unterschriften)
 
-## Geltungsbereich am 30. August 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: AS **1970** 871, [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776), [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012), [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932), [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770), [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270), [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360), [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604)und [2011 4317](https://fedlex.data.admin.ch/eli/oc/2011/584). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (http://www.eda.admin.ch/vertraege).
+Geltungsbereich am 10. Februar 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Albanien</td><td>20. Juli</td><td>2006 B</td><td>18. Oktober</td><td>2006</td></tr>
-<tr><td colspan="2">Armenien</td><td>9. Juni</td><td>2006 B</td><td>7. September</td><td>2006</td></tr>
-<tr><td colspan="2">Aserbaidschan</td><td>18. September</td><td>2006 B</td><td>17. Dezember</td><td>2006</td></tr>
-<tr><td colspan="2">Belarus</td><td>5. April</td><td>1993 B</td><td>4. Juli</td><td>1993</td></tr>
-<tr><td colspan="2">Belgien</td><td>18. September</td><td>1962</td><td>17. Dezember</td><td>1962</td></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>1. September</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>20. Oktober</td><td>1977 B</td><td>18. Januar</td><td>1978</td></tr>
-<tr><td colspan="2">Dänemark</td><td>28. Juni</td><td>1965 B</td><td>26. September</td><td>1965</td></tr>
-<tr><td colspan="2">Deutschland</td><td>7. November</td><td>1961</td><td>5. Februar</td><td>1962</td></tr>
-<tr><td colspan="2">Estland</td><td>3. Mai</td><td>1993 B</td><td>1. August</td><td>1993</td></tr>
-<tr><td colspan="2">Finnland</td><td>27. Juni</td><td>1973 B</td><td>25. September</td><td>1973</td></tr>
-<tr><td colspan="2">Frankreich</td><td>20. Mai</td><td>1959</td><td>2. Juli</td><td>1961</td></tr>
-<tr><td colspan="2">Georgien</td><td>4. August</td><td>1999 B</td><td>2. November</td><td>1999</td></tr>
-<tr><td colspan="2">Griechenland</td><td>24. Mai</td><td>1977 B</td><td>22. August</td><td>1977</td></tr>
-<tr><td colspan="2">Iran</td><td>17. September</td><td>1998 B</td><td>16. Dezember</td><td>1998</td></tr>
-<tr><td colspan="2">Irland\*</td><td>31. Januar</td><td>1991 B</td><td>1. Mai</td><td>1991</td></tr>
-<tr><td colspan="2">Italien</td><td>3. April</td><td>1961 B</td><td>2. Juli</td><td>1961</td></tr>
-<tr><td colspan="2">Jordanien</td><td>13. November</td><td>2008 B</td><td>11. Februar</td><td>2009</td></tr>
-<tr><td colspan="2">Kasachstan</td><td>17. Juli</td><td>1995 B</td><td>15. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Kirgisistan</td><td>2. April</td><td>1998 B</td><td>1. Juli</td><td>1998</td></tr>
-<tr><td colspan="2">Kroatien</td><td>3. August</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
-<tr><td colspan="2">Lettland</td><td>14. Januar</td><td>1994 B</td><td>14. April</td><td>1994</td></tr>
-<tr><td colspan="2">Libanon</td><td>22. März</td><td>2006 B</td><td>20. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Litauen</td><td>17. März</td><td>1993 B</td><td>15. Juni</td><td>1993</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>20. April</td><td>1964</td><td>19. Juli</td><td>1964</td></tr>
-<tr><td colspan="2">Malta</td><td>21. Dezember</td><td>2007 B</td><td>20. März</td><td>2008</td></tr>
-<tr><td colspan="2">Marokko\*</td><td>23. Februar</td><td>1995 B</td><td>24. Mai</td><td>1995</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>20. Juni</td><td>1997 N</td><td>17. September</td><td>1991</td></tr>
-<tr><td colspan="2">Moldau</td><td>26. Mai</td><td>1993 B</td><td>24. August</td><td>1993</td></tr>
-<tr><td colspan="2">Mongolei</td><td>18. September</td><td>2003 B</td><td>17. Dezember</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Niederlande<sup>a</sup></td><td>27. September</td><td>1960</td><td>2. Juli</td><td>1961</td></tr>
-<tr><td colspan="2">Norwegen</td><td>1. Juli</td><td>1969 B</td><td>29. September</td><td>1969</td></tr>
-<tr><td colspan="2">Österreich</td><td>18. Juli</td><td>1960</td><td>2. Juli</td><td>1961</td></tr>
-<tr><td colspan="2">Polen</td><td>13. Juni</td><td>1962</td><td>11. September</td><td>1962</td></tr>
-<tr><td colspan="2">Portugal</td><td>22. September</td><td>1969 B</td><td>21. Dezember</td><td>1969</td></tr>
-<tr><td colspan="2">Rumänien\*</td><td>23. Januar</td><td>1973 B</td><td>23. April</td><td>1973</td></tr>
-<tr><td colspan="2">Russland\*</td><td>2. September</td><td>1983 B</td><td>1. Dezember</td><td>1983</td></tr>
-<tr><td colspan="2">Schweden</td><td>2. April</td><td>1969</td><td>1. Juli</td><td>1969</td></tr>
-<tr><td colspan="2">Schweiz</td><td>27. Februar</td><td>1970</td><td>28. Mai</td><td>1970</td></tr>
-<tr><td colspan="2">Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
-<tr><td colspan="2">Slowakei</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Slowenien</td><td>6. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
-<tr><td colspan="2">Spanien\*</td><td>12. Februar</td><td>1974 B</td><td>13. Mai</td><td>1974</td></tr>
-<tr><td colspan="2">Syrien</td><td>10. September</td><td>2008 B</td><td>9. Dezember</td><td>2008</td></tr>
-<tr><td colspan="2">Tadschikistan</td><td>11. September</td><td>1996 B</td><td>10. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
-<tr><td colspan="2">Tunesien</td><td>24. Januar</td><td>1994 B</td><td>24. April</td><td>1994</td></tr>
-<tr><td colspan="2">Türkei\*</td><td>2. August</td><td>1995 B</td><td>31. Oktober</td><td>1995</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td>18. September</td><td>1996 B</td><td>17. Dezember</td><td>1996</td></tr>
-<tr><td colspan="2">Ukraine\*</td><td>16. Februar</td><td>2007 B</td><td>17. Mai</td><td>2007</td></tr>
-<tr><td colspan="2">Ungarn\*</td><td>29. April</td><td>1970 B</td><td>28. Juli</td><td>1970</td></tr>
-<tr><td colspan="2">Usbekistan</td><td>28. September</td><td>1995 B</td><td>27. Dezember</td><td>1995</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich</td><td>21. Juli</td><td>1967 B</td><td>19. Oktober</td><td>1967</td></tr>
-<tr><td colspan="2">[tab] Gibraltar</td><td>31. Oktober</td><td>1968</td><td>29. Januar</td><td>1969</td></tr>
-<tr><td colspan="2">[tab] Guernsey</td><td>3. März</td><td>1972</td><td>1. Juni</td><td>1972</td></tr>
-<tr><td colspan="2">[tab] Insel Man</td><td>12. November</td><td>1969</td><td>10. Februar</td><td>1970</td></tr>
-<tr><td colspan="2">Zypern</td><td>2. Juli</td><td>2003 B</td><td>30. September</td><td>2003</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Afghanistan</td><td>7. Oktober</td><td>2020 B</td><td>5. Januar</td><td>2021</td></tr>
+<tr><td>Albanien</td><td>20. Juli</td><td>2006 B</td><td>18. Oktober</td><td>2006</td></tr>
+<tr><td>Armenien</td><td>9. Juni</td><td>2006 B</td><td>7. September</td><td>2006</td></tr>
+<tr><td>Aserbaidschan</td><td>18. September</td><td>2006 B</td><td>17. Dezember</td><td>2006</td></tr>
+<tr><td>Belarus</td><td>5. April</td><td>1993 B</td><td>4. Juli</td><td>1993</td></tr>
+<tr><td>Belgien</td><td>18. September</td><td>1962</td><td>17. Dezember</td><td>1962</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>1. September</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Bulgarien</td><td>20. Oktober</td><td>1977 B</td><td>18. Januar</td><td>1978</td></tr>
+<tr><td>Dänemark</td><td>28. Juni</td><td>1965 B</td><td>26. September</td><td>1965</td></tr>
+<tr><td>Deutschland</td><td>7. November</td><td>1961</td><td>5. Februar</td><td>1962</td></tr>
+<tr><td>Estland</td><td>3. Mai</td><td>1993 B</td><td>1. August</td><td>1993</td></tr>
+<tr><td>Finnland</td><td>27. Juni</td><td>1973 B</td><td>25. September</td><td>1973</td></tr>
+<tr><td>Frankreich</td><td>20. Mai</td><td>1959</td><td>2. Juli</td><td>1961</td></tr>
+<tr><td>Georgien</td><td>4. August</td><td>1999 B</td><td>2. November</td><td>1999</td></tr>
+<tr><td>Griechenland</td><td>24. Mai</td><td>1977 B</td><td>22. August</td><td>1977</td></tr>
+<tr><td>Iran</td><td>17. September</td><td>1998 B</td><td>16. Dezember</td><td>1998</td></tr>
+<tr><td>Irland\*</td><td>31. Januar</td><td>1991 B</td><td>1. Mai</td><td>1991</td></tr>
+<tr><td>Italien</td><td>3. April</td><td>1961 B</td><td>2. Juli</td><td>1961</td></tr>
+<tr><td>Jordanien</td><td>13. November</td><td>2008 B</td><td>11. Februar</td><td>2009</td></tr>
+<tr><td>Kasachstan</td><td>17. Juli</td><td>1995 B</td><td>15. Oktober</td><td>1995</td></tr>
+<tr><td>Kirgisistan</td><td>2. April</td><td>1998 B</td><td>1. Juli</td><td>1998</td></tr>
+<tr><td>Kroatien</td><td>3. August</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
+<tr><td>Lettland</td><td>14. Januar</td><td>1994 B</td><td>14. April</td><td>1994</td></tr>
+<tr><td>Libanon</td><td>22. März</td><td>2006 B</td><td>20. Juni</td><td>2006</td></tr>
+<tr><td>Litauen</td><td>17. März</td><td>1993 B</td><td>15. Juni</td><td>1993</td></tr>
+<tr><td>Luxemburg</td><td>20. April</td><td>1964</td><td>19. Juli</td><td>1964</td></tr>
+<tr><td>Malta</td><td>21. Dezember</td><td>2007 B</td><td>20. März</td><td>2008</td></tr>
+<tr><td>Marokko\*</td><td>23. Februar</td><td>1995 B</td><td>24. Mai</td><td>1995</td></tr>
+<tr><td>Nordmazedonien</td><td>20. Juni</td><td>1997 N</td><td>17. September</td><td>1991</td></tr>
+<tr><td>Moldau</td><td>26. Mai</td><td>1993 B</td><td>24. August</td><td>1993</td></tr>
+<tr><td>Mongolei</td><td>18. September</td><td>2003 B</td><td>17. Dezember</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>23. Oktober</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande <sup>a</sup></td><td>27. September</td><td>1960</td><td>2. Juli</td><td>1961</td></tr>
+<tr><td>Norwegen</td><td>1. Juli</td><td>1969 B</td><td>29. September</td><td>1969</td></tr>
+<tr><td>Oman\*</td><td>23. September</td><td>2020 B</td><td>22. Dezember</td><td>2020</td></tr>
+<tr><td>Österreich</td><td>18. Juli</td><td>1960</td><td>2. Juli</td><td>1961</td></tr>
+<tr><td>Pakistan\*</td><td>30. Mai</td><td>2019 B</td><td>28. August</td><td>2019</td></tr>
+<tr><td>Polen</td><td>13. Juni</td><td>1962</td><td>11. September</td><td>1962</td></tr>
+<tr><td>Portugal</td><td>22. September</td><td>1969 B</td><td>21. Dezember</td><td>1969</td></tr>
+<tr><td>Rumänien\*</td><td>23. Januar</td><td>1973 B</td><td>23. April</td><td>1973</td></tr>
+<tr><td>Russland\*</td><td>2. September</td><td>1983 B</td><td>1. Dezember</td><td>1983</td></tr>
+<tr><td>Schweden</td><td>2. April</td><td>1969</td><td>1. Juli</td><td>1969</td></tr>
+<tr><td>Schweiz</td><td>27. Februar</td><td>1970</td><td>28. Mai</td><td>1970</td></tr>
+<tr><td>Serbien</td><td>12. März</td><td>2001 N</td><td>27. April</td><td>1992</td></tr>
+<tr><td>Slowakei</td><td>28. Mai</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Slowenien</td><td>6. Juli</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
+<tr><td>Spanien\*</td><td>12. Februar</td><td>1974 B</td><td>13. Mai</td><td>1974</td></tr>
+<tr><td>Syrien</td><td>10. September</td><td>2008 B</td><td>9. Dezember</td><td>2008</td></tr>
+<tr><td>Tadschikistan</td><td>11. September</td><td>1996 B</td><td>10. Dezember</td><td>1996</td></tr>
+<tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
+<tr><td>Tunesien</td><td>24. Januar</td><td>1994 B</td><td>24. April</td><td>1994</td></tr>
+<tr><td>Türkei\*</td><td>2. August</td><td>1995 B</td><td>31. Oktober</td><td>1995</td></tr>
+<tr><td>Turkmenistan</td><td>18. September</td><td>1996 B</td><td>17. Dezember</td><td>1996</td></tr>
+<tr><td>Ukraine\*</td><td>16. Februar</td><td>2007 B</td><td>17. Mai</td><td>2007</td></tr>
+<tr><td>Ungarn\*</td><td>29. April</td><td>1970 B</td><td>28. Juli</td><td>1970</td></tr>
+<tr><td>Usbekistan</td><td>28. September</td><td>1995 B</td><td>27. Dezember</td><td>1995</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>21. Juli</td><td>1967 B</td><td>19. Oktober</td><td>1967</td></tr>
+<tr><td>Gibraltar</td><td>31. Oktober</td><td>1968</td><td>29. Januar</td><td>1969</td></tr>
+<tr><td>Guernsey</td><td>3. März</td><td>1972</td><td>1. Juni</td><td>1972</td></tr>
+<tr><td>Insel Man</td><td>12. November</td><td>1969</td><td>10. Februar</td><td>1970</td></tr>
+<tr><td>Zypern</td><td>2. Juli</td><td>2003 B</td><td>30. September</td><td>2003</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
+
+[^t-2]: [AS 1970 851](https://fedlex.data.admin.ch/eli/oc/1970/851_851_851); [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776); [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012); [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932); [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770); [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270); [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360); [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604); [2011 4317](https://fedlex.data.admin.ch/eli/oc/2011/584); [2021 150](https://fedlex.data.admin.ch/eli/oc/2021/150). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

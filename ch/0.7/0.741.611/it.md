@@ -4,11 +4,11 @@ title: Convenzione del 19 maggio 1956 concernente il contratto di trasporto inte
 short: CMR
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/851_851_851"
 language: it
-version: 2011-08-30
+version: 2021-02-10
 adopted: 1956-05-19
 in_force: 1970-05-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20110830/it/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20110830-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20110830/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20210210/it/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20210210-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20210210/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,23 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20110830/it"
 
 RU **1970** 851; FF **1969** I 545
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Ginevra il 19 maggio 1956 Firmata dalla Svizzera il 19 maggio 1956 Approvata dall’Assemblea federale il 4 dicembre 1969[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 27 febbraio 1970 Entrata in vigore per la Svizzera il 28 maggio 1970
+Conchiusa a Ginevra il 19 maggio 1956
 
-(Stato 30 agosto 2011)
+Firmata dalla Svizzera il 19 maggio 1956
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1970 850](https://fedlex.data.admin.ch/eli/oc/1970/850_850_850)
+Approvata dall’Assemblea federale il 4 dicembre 1969[^t-1]
 
-Preambolo
+Istrumento di ratificazione depositato dalla Svizzera il 27 febbraio 1970
+
+Entrata in vigore per la Svizzera il 28 maggio 1970
+
+(Stato 10 febbraio 2021)
+
+[^t-1]: [RU 1970 850](https://fedlex.data.admin.ch/eli/oc/1970/850_850_850)
+
+*Preambolo*
 
 Le Parti contraenti,
 
@@ -291,7 +298,7 @@ Se la merce è riconsegnata al destinatario senza incasso del rimborso che avreb
 [^23-1]: Nuovo testo giusta l’art. 2 n. 1 del Prot. del 5 lug. 1978, in vigore per la Svizzera dall’8 gen. 1984 ([RU 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 [^23-2]: Introdotto dall’art. 2 n. 2 del Prot. del 5 lug. 1978, in vigore per la Svizzera dall’8 gen. 1984 ([RU 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 [^23-3]: Introdotto dall’art. 2 n. 2 del Prot. del 5 lug. 1978, in vigore per la Svizzera dall’8 gen. 1984 ([RU 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
-[^23-4]: [RS 0.741.611.1](https://fedlex.data.admin.ch/eli/cc/1983/1933_1933_1933)
+[^23-4]: [RS 0.741.611.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2861)
 [^23-5]: Introdotto dall’art. 2 n. 2 del Prot. del 5 lug. 1978, in vigore per la Svizzera dall’8 gen. 1984 ([RU 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 
 #### Art. 24
@@ -521,72 +528,72 @@ Fatto a Ginevra, il diciannove maggio millenovecentocinquantasei, in un solo ese
 
 (Seguono le firme)
 
-## Campo d'applicazione il 30 agosto 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: RU **1970** 871, [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776), [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012), [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932), [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770), [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270), [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360), [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604)e [2011 4317](https://fedlex.data.admin.ch/eli/oc/2011/584). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+Campo d’applicazione il 10 febbraio 2021[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td>20 luglio</td><td>2006 A</td><td>18 ottobre</td><td>2006</td></tr>
-<tr><td colspan="2">Armenia</td><td>9 giugno</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
-<tr><td colspan="2">Austria</td><td>18 luglio</td><td>1960</td><td>2 luglio</td><td>1961</td></tr>
-<tr><td colspan="2">Azerbaigian</td><td>18 settembre</td><td>2006 A</td><td>17 dicembre</td><td>2006</td></tr>
-<tr><td colspan="2">Belarus</td><td>5 aprile</td><td>1993 A</td><td>4 luglio</td><td>1993</td></tr>
-<tr><td colspan="2">Belgio</td><td>18 settembre</td><td>1962</td><td>17 dicembre</td><td>1962</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>20 ottobre</td><td>1977 A</td><td>18 gennaio</td><td>1978</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Cipro</td><td>2 luglio</td><td>2003 A</td><td>30 settembre</td><td>2003</td></tr>
-<tr><td colspan="2">Croazia</td><td>3 agosto</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Danimarca</td><td>28 giugno</td><td>1965 A</td><td>26 settembre</td><td>1965</td></tr>
-<tr><td colspan="2">Estonia</td><td>3 maggio</td><td>1993 A</td><td>1° agosto</td><td>1993</td></tr>
-<tr><td colspan="2">Finlandia</td><td>27 giugno</td><td>1973 A</td><td>25 settembre</td><td>1973</td></tr>
-<tr><td colspan="2">Francia</td><td>20 maggio</td><td>1959</td><td>2 luglio</td><td>1961</td></tr>
-<tr><td colspan="2">Georgia</td><td>4 agosto</td><td>1999 A</td><td>2 novembre</td><td>1999</td></tr>
-<tr><td colspan="2">Germania</td><td>7 novembre</td><td>1961</td><td>5 febbraio</td><td>1962</td></tr>
-<tr><td colspan="2">Giordania</td><td>13 novembre</td><td>2008 A</td><td>11 febbraio</td><td>2009</td></tr>
-<tr><td colspan="2">Grecia</td><td>24 maggio</td><td>1977 A</td><td>22 agosto</td><td>1977</td></tr>
-<tr><td colspan="2">Iran</td><td>17 settembre</td><td>1998 A</td><td>16 dicembre</td><td>1998</td></tr>
-<tr><td colspan="2">Irlanda<sup>\*</sup></td><td>31 gennaio</td><td>1991 A</td><td>1° maggio</td><td>1991</td></tr>
-<tr><td colspan="2">Italia</td><td>3 aprile</td><td>1961 A</td><td>2 luglio</td><td>1961</td></tr>
-<tr><td colspan="2">Kazakstan</td><td>17 luglio</td><td>1995 A</td><td>15 ottobre</td><td>1995</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>2 aprile</td><td>1998 A</td><td>1° luglio</td><td>1998</td></tr>
-<tr><td colspan="2">Lettonia</td><td>14 gennaio</td><td>1994 A</td><td>14 aprile</td><td>1994</td></tr>
-<tr><td colspan="2">Libano</td><td>22 marzo</td><td>2006 A</td><td>20 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Lituania</td><td>17 marzo</td><td>1993 A</td><td>15 giugno</td><td>1993</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>20 aprile</td><td>1964</td><td>19 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Macedonia</td><td>20 giugno</td><td>1997 S</td><td>17 settembre</td><td>1991</td></tr>
-<tr><td colspan="2">Malta</td><td>21 dicembre</td><td>2007 A</td><td>20 marzo</td><td>2008</td></tr>
-<tr><td colspan="2">Marocco<sup>\*</sup></td><td>23 febbraio</td><td>1995 A</td><td>24 maggio</td><td>1995</td></tr>
-<tr><td colspan="2">Moldova</td><td>26 maggio</td><td>1993 A</td><td>24 agosto</td><td>1993</td></tr>
-<tr><td colspan="2">Mongolia</td><td>18 settembre</td><td>2003 A</td><td>17 dicembre</td><td>2003</td></tr>
-<tr><td colspan="2">Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Norvegia</td><td>1° luglio</td><td>1969 A</td><td>29 settembre</td><td>1969</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>a</sup></td><td>27 settembre</td><td>1960</td><td>2 luglio</td><td>1961</td></tr>
-<tr><td colspan="2">Polonia</td><td>13 giugno</td><td>1962</td><td>11 settembre</td><td>1962</td></tr>
-<tr><td colspan="2">Portogallo</td><td>22 settembre</td><td>1969 A</td><td>21 dicembre</td><td>1969</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>21 luglio</td><td>1967 A</td><td>19 ottobre</td><td>1967</td></tr>
-<tr><td colspan="2">[tab] Gibilterra</td><td>31 ottobre</td><td>1968</td><td>29 gennaio</td><td>1969</td></tr>
-<tr><td colspan="2">[tab] Guernesey</td><td>3 marzo</td><td>1972</td><td>1° giugno</td><td>1972</td></tr>
-<tr><td colspan="2">[tab] Isola di Man</td><td>12 novembre</td><td>1969</td><td>10 febbraio</td><td>1970</td></tr>
-<tr><td colspan="2">Romania<sup>\*</sup></td><td>23 gennaio</td><td>1973 A</td><td>23 aprile</td><td>1973</td></tr>
-<tr><td colspan="2">Russia<sup>\*</sup></td><td>2 settembre</td><td>1983 A</td><td>1° dicembre</td><td>1983</td></tr>
-<tr><td colspan="2">Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
-<tr><td colspan="2">Siria</td><td>10 settembre</td><td>2008 A</td><td>9 dicembre</td><td>2008</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="2">Spagna<sup>\*</sup></td><td>12 febbraio</td><td>1974 A</td><td>13 maggio</td><td>1974</td></tr>
-<tr><td colspan="2">Svezia</td><td>2 aprile</td><td>1969</td><td>1° luglio</td><td>1969</td></tr>
-<tr><td colspan="2">Svizzera</td><td>27 febbraio</td><td>1970</td><td>28 maggio</td><td>1970</td></tr>
-<tr><td colspan="2">Tagikistan</td><td>11 settembre</td><td>1996 A</td><td>10 dicembre</td><td>1996</td></tr>
-<tr><td colspan="2">Tunisia</td><td>24 gennaio</td><td>1994 A</td><td>24 aprile</td><td>1994</td></tr>
-<tr><td colspan="2">Turchia<sup>\*</sup></td><td>2 agosto</td><td>1995 A</td><td>31 ottobre</td><td>1995</td></tr>
-<tr><td colspan="2">Turkmenistan</td><td>18 settembre</td><td>1996 A</td><td>17 dicembre</td><td>1996</td></tr>
-<tr><td colspan="2">Ucraina<sup>\*</sup></td><td>16 febbraio</td><td>2007 A</td><td>17 maggio</td><td>2007</td></tr>
-<tr><td colspan="2">Ungheria<sup>\*</sup></td><td>29 aprile</td><td>1970 A</td><td>28 luglio</td><td>1970</td></tr>
-<tr><td colspan="2">Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>27 dicembre</td><td>1995</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e in inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Al Regno in Europa.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>7 ottobre</td><td>2020 A</td><td>5 gennaio</td><td>2021</td></tr>
+<tr><td>Albania</td><td>20 luglio</td><td>2006 A</td><td>18 ottobre</td><td>2006</td></tr>
+<tr><td>Armenia</td><td>9 giugno</td><td>2006 A</td><td>7 settembre</td><td>2006</td></tr>
+<tr><td>Austria</td><td>18 luglio</td><td>1960</td><td>2 luglio</td><td>1961</td></tr>
+<tr><td>Azerbaigian</td><td>18 settembre</td><td>2006 A</td><td>17 dicembre</td><td>2006</td></tr>
+<tr><td>Belarus</td><td>5 aprile</td><td>1993 A</td><td>4 luglio</td><td>1993</td></tr>
+<tr><td>Belgio</td><td>18 settembre</td><td>1962</td><td>17 dicembre</td><td>1962</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>1° settembre</td><td>1993 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Bulgaria</td><td>20 ottobre</td><td>1977 A</td><td>18 gennaio</td><td>1978</td></tr>
+<tr><td>Ceca, Repubblica</td><td>2 giugno</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Cipro</td><td>2 luglio</td><td>2003 A</td><td>30 settembre</td><td>2003</td></tr>
+<tr><td>Croazia</td><td>3 agosto</td><td>1992 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Danimarca</td><td>28 giugno</td><td>1965 A</td><td>26 settembre</td><td>1965</td></tr>
+<tr><td>Estonia</td><td>3 maggio</td><td>1993 A</td><td>1° agosto</td><td>1993</td></tr>
+<tr><td>Finlandia</td><td>27 giugno</td><td>1973 A</td><td>25 settembre</td><td>1973</td></tr>
+<tr><td>Francia</td><td>20 maggio</td><td>1959</td><td>2 luglio</td><td>1961</td></tr>
+<tr><td>Georgia</td><td>4 agosto</td><td>1999 A</td><td>2 novembre</td><td>1999</td></tr>
+<tr><td>Germania</td><td>7 novembre</td><td>1961</td><td>5 febbraio</td><td>1962</td></tr>
+<tr><td>Giordania</td><td>13 novembre</td><td>2008 A</td><td>11 febbraio</td><td>2009</td></tr>
+<tr><td>Grecia</td><td>24 maggio</td><td>1977 A</td><td>22 agosto</td><td>1977</td></tr>
+<tr><td>Iran</td><td>17 settembre</td><td>1998 A</td><td>16 dicembre</td><td>1998</td></tr>
+<tr><td>Irlanda<sup>\*</sup></td><td>31 gennaio</td><td>1991 A</td><td>1° maggio</td><td>1991</td></tr>
+<tr><td>Italia</td><td>3 aprile</td><td>1961 A</td><td>2 luglio</td><td>1961</td></tr>
+<tr><td>Kazakstan</td><td>17 luglio</td><td>1995 A</td><td>15 ottobre</td><td>1995</td></tr>
+<tr><td>Kirghizistan</td><td>2 aprile</td><td>1998 A</td><td>1° luglio</td><td>1998</td></tr>
+<tr><td>Lettonia</td><td>14 gennaio</td><td>1994 A</td><td>14 aprile</td><td>1994</td></tr>
+<tr><td>Libano</td><td>22 marzo</td><td>2006 A</td><td>20 giugno</td><td>2006</td></tr>
+<tr><td>Lituania</td><td>17 marzo</td><td>1993 A</td><td>15 giugno</td><td>1993</td></tr>
+<tr><td>Lussemburgo</td><td>20 aprile</td><td>1964</td><td>19 luglio</td><td>1964</td></tr>
+<tr><td>Macedonia del Nord</td><td>20 giugno</td><td>1997 S</td><td>17 settembre</td><td>1991</td></tr>
+<tr><td>Malta</td><td>21 dicembre</td><td>2007 A</td><td>20 marzo</td><td>2008</td></tr>
+<tr><td>Marocco<sup>\*</sup></td><td>23 febbraio</td><td>1995 A</td><td>24 maggio</td><td>1995</td></tr>
+<tr><td>Moldova</td><td>26 maggio</td><td>1993 A</td><td>24 agosto</td><td>1993</td></tr>
+<tr><td>Mongolia</td><td>18 settembre</td><td>2003 A</td><td>17 dicembre</td><td>2003</td></tr>
+<tr><td>Montenegro</td><td>23 ottobre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Norvegia</td><td>1° luglio</td><td>1969 A</td><td>29 settembre</td><td>1969</td></tr>
+<tr><td>Oman\*</td><td>23 settembre</td><td>2020 A</td><td>22 dicembre</td><td>2020</td></tr>
+<tr><td>Paesi Bassi <sup>a</sup></td><td>27 settembre</td><td>1960</td><td>2 luglio</td><td>1961</td></tr>
+<tr><td>Pakistan\*</td><td>30 maggio</td><td>2019 A</td><td>28 agosto</td><td>2019</td></tr>
+<tr><td>Polonia</td><td>13 giugno</td><td>1962</td><td>11 settembre</td><td>1962</td></tr>
+<tr><td>Portogallo</td><td>22 settembre</td><td>1969 A</td><td>21 dicembre</td><td>1969</td></tr>
+<tr><td>Regno Unito</td><td>21 luglio</td><td>1967 A</td><td>19 ottobre</td><td>1967</td></tr>
+<tr><td>[tab] Gibilterra</td><td>31 ottobre</td><td>1968</td><td>29 gennaio</td><td>1969</td></tr>
+<tr><td>[tab] Guernesey</td><td>3 marzo</td><td>1972</td><td>1° giugno</td><td>1972</td></tr>
+<tr><td>[tab] Isola di Man</td><td>12 novembre</td><td>1969</td><td>10 febbraio</td><td>1970</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>23 gennaio</td><td>1973 A</td><td>23 aprile</td><td>1973</td></tr>
+<tr><td>Russia<sup>\*</sup></td><td>2 settembre</td><td>1983 A</td><td>1° dicembre</td><td>1983</td></tr>
+<tr><td>Serbia</td><td>12 marzo</td><td>2001 S</td><td>27 aprile</td><td>1992</td></tr>
+<tr><td>Siria</td><td>10 settembre</td><td>2008 A</td><td>9 dicembre</td><td>2008</td></tr>
+<tr><td>Slovacchia</td><td>28 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>6 luglio</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Spagna<sup>\*</sup></td><td>12 febbraio</td><td>1974 A</td><td>13 maggio</td><td>1974</td></tr>
+<tr><td>Svezia</td><td>2 aprile</td><td>1969</td><td>1° luglio</td><td>1969</td></tr>
+<tr><td>Svizzera</td><td>27 febbraio</td><td>1970</td><td>28 maggio</td><td>1970</td></tr>
+<tr><td>Tagikistan</td><td>11 settembre</td><td>1996 A</td><td>10 dicembre</td><td>1996</td></tr>
+<tr><td>Tunisia</td><td>24 gennaio</td><td>1994 A</td><td>24 aprile</td><td>1994</td></tr>
+<tr><td>Turchia<sup>\*</sup></td><td>2 agosto</td><td>1995 A</td><td>31 ottobre</td><td>1995</td></tr>
+<tr><td>Turkmenistan</td><td>18 settembre</td><td>1996 A</td><td>17 dicembre</td><td>1996</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>16 febbraio</td><td>2007 A</td><td>17 maggio</td><td>2007</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>29 aprile</td><td>1970 A</td><td>28 luglio</td><td>1970</td></tr>
+<tr><td>Uzbekistan</td><td>28 settembre</td><td>1995 A</td><td>27 dicembre</td><td>1995</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
+
+[^t-2]: [RU 1970 851](https://fedlex.data.admin.ch/eli/oc/1970/851_851_851); [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776); [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012); [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932); [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770); [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270); [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360); [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604); [2011 4317](https://fedlex.data.admin.ch/eli/oc/2011/584); [2021 150](https://fedlex.data.admin.ch/eli/oc/2021/150). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.

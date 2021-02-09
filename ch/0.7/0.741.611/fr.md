@@ -4,11 +4,11 @@ title: Convention du 19 mai 1956 relative au contrat de transport international 
 short: CMR
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/851_851_851"
 language: fr
-version: 2011-08-30
+version: 2021-02-10
 adopted: 1956-05-19
 in_force: 1970-05-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20110830/fr/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20110830-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20110830/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/851_851_851/20210210/fr/xml/fedlex-data-admin-ch-eli-cc-1970-851_851_851-20210210-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/851_851_851/20210210/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -21,7 +21,7 @@ Texte original
 
 Conclue à Genève le 19 mai 1956 Signée par la Suisse le 19 mai 1956 Approuvée par l’Assemblée fédérale le 4 décembre 1969[^t-1] Instrument de ratification déposé par la Suisse le 27 février 1970 Entrée en vigueur pour la Suisse le 28 mai 1970
 
-(Etat le 30 août 2011)
+(État le 10 février 2021)
 
 [^t-1]: [RO 1970 850](https://fedlex.data.admin.ch/eli/oc/1970/850_850_850)
 
@@ -41,7 +41,7 @@ Sont convenues de ce qui suit:
 
 <sup>2.</sup> Pour l’application de la présente Convention, il faut entendre par «véhicules» les automobiles, les véhicules articulés, les remorques et les semi-remorques, tels qu’ils sont définis par l’art. 4 de la Convention sur la circulation routière en date du 19 septembre 1949.
 
-<sup>3.</sup> La présente Convention s’applique même si les transports rentrant dans son champ d’application sont effectués par des Etats ou par des institutions ou organisations gouvernementales.
+<sup>3.</sup> La présente Convention s’applique même si les transports rentrant dans son champ d’application sont effectués par des États ou par des institutions ou organisations gouvernementales.
 
 <sup>4.</sup>
 
@@ -251,7 +251,7 @@ Il y a retard à la livraison lorsque la marchandise n’a pas été livrée dan
 
 <sup>3.</sup> Dans les trente jours qui suivent la réception de cet avis, l’ayant droit peut exiger que la marchandise lui soit livrée contre paiement des créances résultant de la lettre de voiture et contre restitution de l’indemnité qu’il a reçue, déduction faite éventuellement des frais qui auraient été compris dans cette indemnité, et sous réserve de tous droits à l’indemnité pour retard à la livraison prévue à l’art. 23 et, s’il y a lieu, à l’art. 26.
 
-<sup>4.</sup> A défaut soit de la demande prévue au par. 2, soit d’instructions données dans le délai de trente jours prévu au par. 3, ou encore si la marchandise n’a été retrouvée que plus d’un an après le paiement de l’indemnité, le transporteur en dispose conformément à la loi du lieu où se trouve la marchandise.
+<sup>4.</sup> À défaut soit de la demande prévue au par. 2, soit d’instructions données dans le délai de trente jours prévu au par. 3, ou encore si la marchandise n’a été retrouvée que plus d’un an après le paiement de l’indemnité, le transporteur en dispose conformément à la loi du lieu où se trouve la marchandise.
 
 #### Art. 21
 
@@ -277,16 +277,16 @@ Si la marchandise est livrée au destinataire sans encaissement du remboursement
 
 <sup>6.</sup> Des indemnités plus élevées ne peuvent être réclamées qu’en cas de déclaration de la valeur de la marchandise ou de déclaration d’intérêt spécial à la livraison, conformément aux art. 24 et 26.
 
-7.[^23-2] L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Le montant visé au par. 3 du présent article est converti dans la monnaie nationale de l’Etat dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un Etat qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet Etat.
+7.[^23-2] L’unité de compte mentionnée dans la présente Convention est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Le montant visé au par. 3 du présent article est converti dans la monnaie nationale de l’État dont relève le tribunal saisi du litige sur la base de la valeur de cette monnaie à la date du jugement ou à la date adoptée d’un commun accord par les parties. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui est membre du Fonds monétaire international, est calculée selon la méthode d’évaluation appliquée par le Fonds monétaire international à la date en question pour ses propres opérations et transactions. La valeur, en Droit de tirage spécial, de la monnaie nationale d’un État qui n’est pas membre du Fonds monétaire international, est calculée de la façon déterminée par cet État.
 
-8.[^23-3] Toutefois, un Etat qui n’est pas membre du Fonds monétaire international et dont la législation ne permet pas d’appliquer les dispositions du par. 7 du présent article peut, au moment de la ratification du Protocole à la CMR[^23-4] ou de l’adhésion à celui-ci, ou à tout moment ultérieur, déclarer que la limite de la responsabilité prévue au par. 3 du présent article et applicable sur son territoire est fixée à 25 unités monétaires. L’unité monétaire dont il est question dans le présent paragraphe correspond à 10/31 de gramme d’or au titre de neuf cents millièmes de fin. La conversion en monnaie nationale du montant indiqué dans le présent paragraphe s’effectue conformément à la législation de l’Etat concerné.
+8.[^23-3] Toutefois, un État qui n’est pas membre du Fonds monétaire international et dont la législation ne permet pas d’appliquer les dispositions du par. 7 du présent article peut, au moment de la ratification du Protocole à la CMR[^23-4] ou de l’adhésion à celui-ci, ou à tout moment ultérieur, déclarer que la limite de la responsabilité prévue au par. 3 du présent article et applicable sur son territoire est fixée à 25 unités monétaires. L’unité monétaire dont il est question dans le présent paragraphe correspond à 10/31 de gramme d’or au titre de neuf cents millièmes de fin. La conversion en monnaie nationale du montant indiqué dans le présent paragraphe s’effectue conformément à la législation de l’État concerné.
 
-9.[^23-5] Le calcul mentionné à la dernière phrase du par. 7, et de la conversion mentionnée au par. 8, du présent article doivent être faits de façon à exprimer en monnaie nationale de l’Etat la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte au par. 3 du présent article. Lors du dépôt d’un instrument visé à l’art. 3 du Protocole à la CMR et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les Etats communiquent au Secrétaire général de l’Organisation des Nations Unies leur méthode de calcul conformément au par. 7, ou les résultats de la conversion conformément au par. 8, du présent article, selon le cas.
+9.[^23-5] Le calcul mentionné à la dernière phrase du par. 7, et de la conversion mentionnée au par. 8, du présent article doivent être faits de façon à exprimer en monnaie nationale de l’État la même valeur réelle, dans la mesure du possible, que celle exprimée en unités de compte au par. 3 du présent article. Lors du dépôt d’un instrument visé à l’art. 3 du Protocole à la CMR et chaque fois qu’un changement se produit dans leur méthode de calcul ou dans la valeur de leur monnaie nationale par rapport à l’unité de compte ou à l’unité monétaire, les États communiquent au Secrétaire général de l’Organisation des Nations Unies leur méthode de calcul conformément au par. 7, ou les résultats de la conversion conformément au par. 8, du présent article, selon le cas.
 
-[^23-1]: Nouvelle teneur selon l’art. 2 ch. 1 du prot. du 5 juillet 1978, en vigueur pour la Suisse depuis le 8 janv. 1984 ([RS 0.741.611.1](https://fedlex.data.admin.ch/eli/cc/1983/1933_1933_1933)).
+[^23-1]: Nouvelle teneur selon l’art. 2 ch. 1 du prot. du 5 juillet 1978, en vigueur pour la Suisse depuis le 8 janv. 1984 ([RS 0.741.611.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2861)).
 [^23-2]: Introduit par l’art. 2 ch. du prot. du 5 juillet 1978, en vigueur pour la Suisse depuis le 8 janv. 1984 ([RO 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 [^23-3]: Introduit par l’art. 2 ch. du prot. du 5 juillet 1978, en vigueur pour la Suisse depuis le 8 janv. 1984 ([RO 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
-[^23-4]: [RS 0.741.611.1](https://fedlex.data.admin.ch/eli/cc/1983/1933_1933_1933)
+[^23-4]: [RS 0.741.611.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2861)
 [^23-5]: Introduit par l’art. 2 ch. du prot. du 5 juillet 1978, en vigueur pour la Suisse depuis le 8 janv. 1984 ([RO 1983 1933](https://fedlex.data.admin.ch/eli/oc/1983/1933_1933_1933)).
 
 #### Art. 24
@@ -389,7 +389,7 @@ Si un transport régi par un contrat unique est exécuté par des transporteurs 
 
 #### Art. 36
 
-A moins qu’il ne s’agisse d’une demande reconventionnelle ou d’une exception formulée dans une instance relative à une demande fondée sur le même contrat de transport, l’action en responsabilité pour perte, avarie ou retard ne peut être dirigée que contre le premier transporteur, le dernier transporteur, ou le transporteur qui exécutait la partie du transport au cours de laquelle s’est produit le fait ayant causé la perte, l’avarie ou le retard; l’action peut être dirigée à la fois contre plusieurs de ces transporteurs.
+À moins qu’il ne s’agisse d’une demande reconventionnelle ou d’une exception formulée dans une instance relative à une demande fondée sur le même contrat de transport, l’action en responsabilité pour perte, avarie ou retard ne peut être dirigée que contre le premier transporteur, le dernier transporteur, ou le transporteur qui exécutait la partie du transport au cours de laquelle s’est produit le fait ayant causé la perte, l’avarie ou le retard; l’action peut être dirigée à la fois contre plusieurs de ces transporteurs.
 
 #### Art. 37
 
@@ -514,72 +514,72 @@ Fait à Genève, le dix-neuf mai mil neuf cent cinquante-six, en un seul exempla
 
 (Suivent les signatures)
 
-## Champ d'application le 30 août 2011****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: RO **1970** 870, [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776), [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012), [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932), [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770), [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270), [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360), [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604)et **2011** 4317. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+Champ d’application le 10 février 2021[^t-2]
 
 <table>
-<tr><th colspan="3">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="3">Albanie</td><td colspan="2">20 juillet</td><td colspan="2">2006 A</td><td>18 octobre</td><td>2006</td></tr>
-<tr><td colspan="3">Allemagne</td><td colspan="2">7 novembre</td><td colspan="2">1961</td><td>5 février</td><td>1962</td></tr>
-<tr><td colspan="3">Arménie</td><td colspan="2">9 juin</td><td colspan="2">2006 A</td><td>7 septembre</td><td>2006</td></tr>
-<tr><td colspan="3">Autriche</td><td colspan="2">18 juillet</td><td colspan="2">1960</td><td>2 juillet</td><td>1961</td></tr>
-<tr><td colspan="3">Azerbaïdjan</td><td colspan="2">18 septembre</td><td colspan="2">2006 A</td><td>17 décembre</td><td>2006</td></tr>
-<tr><td colspan="3">Bélarus</td><td colspan="2">5 avril</td><td colspan="2">1993 A</td><td>4 juillet</td><td>1993</td></tr>
-<tr><td colspan="3">Belgique</td><td colspan="2">18 septembre</td><td colspan="2">1962</td><td>17 décembre</td><td>1962</td></tr>
-<tr><td colspan="3">Bosnie et Herzégovine</td><td colspan="2">1<sup>er</sup> septembre</td><td colspan="2">1993 S</td><td>6 mars</td><td>1992</td></tr>
-<tr><td colspan="3">Bulgarie</td><td colspan="2">20 octobre</td><td colspan="2">1977 A</td><td>18 janvier</td><td>1978</td></tr>
-<tr><td colspan="3">Chypre</td><td colspan="2">2 juillet</td><td colspan="2">2003 A</td><td>30 septembre</td><td>2003</td></tr>
-<tr><td colspan="3">Croatie</td><td colspan="2">3 août</td><td colspan="2">1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="3">Danemark</td><td colspan="2">28 juin</td><td colspan="2">1965 A</td><td>26 septembre</td><td>1965</td></tr>
-<tr><td colspan="3">Espagne<sup>\*</sup></td><td colspan="2">12 février</td><td colspan="2">1974 A</td><td>13 mai</td><td>1974</td></tr>
-<tr><td colspan="3">Estonie</td><td colspan="2">3 mai</td><td colspan="2">1993 A</td><td>1<sup>er</sup> août</td><td>1993</td></tr>
-<tr><td colspan="3">Finlande</td><td colspan="2">27 juin</td><td colspan="2">1973 A</td><td>25 septembre</td><td>1973</td></tr>
-<tr><td colspan="3">France</td><td colspan="2">20 mai</td><td colspan="2">1959</td><td>2 juillet</td><td>1961</td></tr>
-<tr><td colspan="3">Géorgie</td><td colspan="2">4 août</td><td colspan="2">1999 A</td><td>2 novembre</td><td>1999</td></tr>
-<tr><td colspan="3">Grèce</td><td colspan="2">24 mai</td><td colspan="2">1977 A</td><td>22 août</td><td>1977</td></tr>
-<tr><td colspan="3">Hongrie<sup>\*</sup></td><td colspan="2">29 avril</td><td colspan="2">1970 A</td><td>28 juillet</td><td>1970</td></tr>
-<tr><td colspan="3">Iran</td><td colspan="2">17 septembre</td><td colspan="2">1998 A</td><td>16 décembre</td><td>1998</td></tr>
-<tr><td colspan="3">Irlande<sup>\*</sup></td><td colspan="2">31 janvier</td><td colspan="2">1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
-<tr><td colspan="3">Italie</td><td colspan="2">3 avril</td><td colspan="2">1961 A</td><td>2 juillet</td><td>1961</td></tr>
-<tr><td colspan="3">Jordanie</td><td colspan="2">13 novembre</td><td colspan="2">2008 A</td><td>11 février</td><td>2009</td></tr>
-<tr><td colspan="3">Kazakhstan</td><td colspan="2">17 juillet</td><td colspan="2">1995 A</td><td>15 octobre</td><td>1995</td></tr>
-<tr><td colspan="3">Kirghizistan</td><td colspan="2">2 avril</td><td colspan="2">1998 A</td><td>1<sup>er</sup> juillet</td><td>1998</td></tr>
-<tr><td colspan="3">Lettonie</td><td colspan="2">14 janvier</td><td colspan="2">1994 A</td><td>14 avril</td><td>1994</td></tr>
-<tr><td colspan="3">Liban</td><td colspan="2">22 mars</td><td colspan="2">2006 A</td><td>20 juin</td><td>2006</td></tr>
-<tr><td colspan="3">Lituanie</td><td colspan="2">17 mars</td><td colspan="2">1993 A</td><td>15 juin</td><td>1993</td></tr>
-<tr><td colspan="3">Luxembourg</td><td colspan="2">20 avril</td><td colspan="2">1964</td><td>19 juillet</td><td>1964</td></tr>
-<tr><td colspan="3">Macédoine</td><td colspan="2">20 juin</td><td colspan="2">1997 S</td><td>17 septembre</td><td>1991</td></tr>
-<tr><td colspan="3">Malte</td><td colspan="2">21 décembre</td><td colspan="2">2007 A</td><td>20 mars</td><td>2008</td></tr>
-<tr><td colspan="3">Maroc<sup>\*</sup></td><td colspan="2">23 février</td><td colspan="2">1995 A</td><td>24 mai</td><td>1995</td></tr>
-<tr><td colspan="3">Moldova</td><td colspan="2">26 mai</td><td colspan="2">1993 A</td><td>24 août</td><td>1993</td></tr>
-<tr><td colspan="3">Mongolie</td><td colspan="2">18 septembre</td><td colspan="2">2003 A</td><td>17 décembre</td><td>2003</td></tr>
-<tr><td colspan="3">Monténégro</td><td colspan="2">23 octobre</td><td colspan="2">2006 S</td><td>3 juin</td><td>2006</td></tr>
-<tr><td colspan="3">Norvège</td><td colspan="2">1<sup>er</sup> juillet</td><td colspan="2">1969 A</td><td>29 septembre</td><td>1969</td></tr>
-<tr><td colspan="3">Ouzbékistan</td><td colspan="2">28 septembre</td><td colspan="2">1995 A</td><td>27 décembre</td><td>1995</td></tr>
-<tr><td colspan="3">Pays-Bas<sup>a</sup></td><td colspan="2">27 septembre</td><td colspan="2">1960</td><td>2 juillet</td><td>1961</td></tr>
-<tr><td colspan="3">Pologne</td><td colspan="2">13 juin</td><td colspan="2">1962</td><td>11 septembre</td><td>1962</td></tr>
-<tr><td colspan="3">Portugal</td><td colspan="2">22 septembre</td><td colspan="2">1969 A</td><td>21 décembre</td><td>1969</td></tr>
-<tr><td colspan="3">République tchèque</td><td colspan="2">2 juin</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="3">Roumanie<sup>\*</sup></td><td colspan="2">23 janvier</td><td colspan="2">1973 A</td><td>23 avril</td><td>1973</td></tr>
-<tr><td colspan="3">Royaume-Uni</td><td colspan="2">21 juillet</td><td colspan="2">1967 A</td><td>19 octobre</td><td>1967</td></tr>
-<tr><td colspan="3">[tab] Gibraltar</td><td colspan="2">31 octobre</td><td colspan="2">1968</td><td>29 janvier</td><td>1969</td></tr>
-<tr><td colspan="3">[tab] Guernesey</td><td colspan="2">3 mars</td><td colspan="2">1972</td><td>1<sup>er</sup> juin</td><td>1972</td></tr>
-<tr><td colspan="3">[tab] Ile de Man</td><td colspan="2">12 novembre</td><td colspan="2">1969</td><td>10 février</td><td>1970</td></tr>
-<tr><td colspan="3">Russie<sup>\*</sup></td><td colspan="2">2 septembre</td><td colspan="2">1983 A</td><td>1<sup>er</sup> décembre</td><td>1983</td></tr>
-<tr><td colspan="3">Serbie</td><td colspan="2">12 mars</td><td colspan="2">2001 S</td><td>27 avril</td><td>1992</td></tr>
-<tr><td colspan="3">Slovaquie</td><td colspan="2">28 mai</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="3">Slovénie</td><td colspan="2">6 juillet</td><td colspan="2">1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="3">Suède</td><td colspan="2">2 avril</td><td colspan="2">1969</td><td>1<sup>er</sup> juillet</td><td>1969</td></tr>
-<tr><td colspan="3">Suisse</td><td colspan="2">27 février</td><td colspan="2">1970</td><td>28 mai</td><td>1970</td></tr>
-<tr><td colspan="3">Syrie</td><td colspan="2">10 septembre</td><td colspan="2">2008 A</td><td>9 décembre</td><td>2008</td></tr>
-<tr><td colspan="3">Tadjikistan</td><td colspan="2">11 septembre</td><td colspan="2">1996 A</td><td>10 décembre</td><td>1996</td></tr>
-<tr><td colspan="3">Tunisie</td><td colspan="2">24 janvier</td><td colspan="2">1994 A</td><td>24 avril</td><td>1994</td></tr>
-<tr><td colspan="3">Turkménistan</td><td colspan="2">18 septembre</td><td colspan="2">1996 A</td><td>17 décembre</td><td>1996</td></tr>
-<tr><td colspan="3">Turquie<sup>\*</sup></td><td colspan="2">2 août</td><td colspan="2">1995 A</td><td>31 octobre</td><td>1995</td></tr>
-<tr><td colspan="3">Ukraine<sup>\*</sup></td><td colspan="2">16 février</td><td colspan="2">2007 A</td><td>17 mai</td><td>2007</td></tr>
-<tr><td>\*</td><td colspan="8">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="8">Pour le Royaume en Europe.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>7 octobre</td><td>2020 A</td><td>5 janvier</td><td>2021</td></tr>
+<tr><td>Albanie</td><td>20 juillet</td><td>2006 A</td><td>18 octobre</td><td>2006</td></tr>
+<tr><td>Allemagne</td><td>7 novembre</td><td>1961</td><td>5 février</td><td>1962</td></tr>
+<tr><td>Arménie</td><td>9 juin</td><td>2006 A</td><td>7 septembre</td><td>2006</td></tr>
+<tr><td>Autriche</td><td>18 juillet</td><td>1960</td><td>2 juillet</td><td>1961</td></tr>
+<tr><td>Azerbaïdjan</td><td>18 septembre</td><td>2006 A</td><td>17 décembre</td><td>2006</td></tr>
+<tr><td>Bélarus</td><td>5 avril</td><td>1993 A</td><td>4 juillet</td><td>1993</td></tr>
+<tr><td>Belgique</td><td>18 septembre</td><td>1962</td><td>17 décembre</td><td>1962</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Bulgarie</td><td>20 octobre</td><td>1977 A</td><td>18 janvier</td><td>1978</td></tr>
+<tr><td>Chypre</td><td>2 juillet</td><td>2003 A</td><td>30 septembre</td><td>2003</td></tr>
+<tr><td>Croatie</td><td>3 août</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Danemark</td><td>28 juin</td><td>1965 A</td><td>26 septembre</td><td>1965</td></tr>
+<tr><td>Espagne<sup>\*</sup></td><td>12 février</td><td>1974 A</td><td>13 mai</td><td>1974</td></tr>
+<tr><td>Estonie</td><td>3 mai</td><td>1993 A</td><td>1<sup>er</sup> août</td><td>1993</td></tr>
+<tr><td>Finlande</td><td>27 juin</td><td>1973 A</td><td>25 septembre</td><td>1973</td></tr>
+<tr><td>France</td><td>20 mai</td><td>1959</td><td>2 juillet</td><td>1961</td></tr>
+<tr><td>Géorgie</td><td>4 août</td><td>1999 A</td><td>2 novembre</td><td>1999</td></tr>
+<tr><td>Grèce</td><td>24 mai</td><td>1977 A</td><td>22 août</td><td>1977</td></tr>
+<tr><td>Hongrie<sup>\*</sup></td><td>29 avril</td><td>1970 A</td><td>28 juillet</td><td>1970</td></tr>
+<tr><td>Iran</td><td>17 septembre</td><td>1998 A</td><td>16 décembre</td><td>1998</td></tr>
+<tr><td>Irlande<sup>\*</sup></td><td>31 janvier</td><td>1991 A</td><td>1<sup>er</sup> mai</td><td>1991</td></tr>
+<tr><td>Italie</td><td>3 avril</td><td>1961 A</td><td>2 juillet</td><td>1961</td></tr>
+<tr><td>Jordanie</td><td>13 novembre</td><td>2008 A</td><td>11 février</td><td>2009</td></tr>
+<tr><td>Kazakhstan</td><td>17 juillet</td><td>1995 A</td><td>15 octobre</td><td>1995</td></tr>
+<tr><td>Kirghizistan</td><td>2 avril</td><td>1998 A</td><td>1<sup>er</sup> juillet</td><td>1998</td></tr>
+<tr><td>Lettonie</td><td>14 janvier</td><td>1994 A</td><td>14 avril</td><td>1994</td></tr>
+<tr><td>Liban</td><td>22 mars</td><td>2006 A</td><td>20 juin</td><td>2006</td></tr>
+<tr><td>Lituanie</td><td>17 mars</td><td>1993 A</td><td>15 juin</td><td>1993</td></tr>
+<tr><td>Luxembourg</td><td>20 avril</td><td>1964</td><td>19 juillet</td><td>1964</td></tr>
+<tr><td>Macédoine du Nord</td><td>20 juin</td><td>1997 S</td><td>17 septembre</td><td>1991</td></tr>
+<tr><td>Malte</td><td>21 décembre</td><td>2007 A</td><td>20 mars</td><td>2008</td></tr>
+<tr><td>Maroc<sup>\*</sup></td><td>23 février</td><td>1995 A</td><td>24 mai</td><td>1995</td></tr>
+<tr><td>Moldova</td><td>26 mai</td><td>1993 A</td><td>24 août</td><td>1993</td></tr>
+<tr><td>Mongolie</td><td>18 septembre</td><td>2003 A</td><td>17 décembre</td><td>2003</td></tr>
+<tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Norvège</td><td>1<sup>er</sup> juillet</td><td>1969 A</td><td>29 septembre</td><td>1969</td></tr>
+<tr><td>Oman\*</td><td>23 septembre</td><td>2020 A</td><td>22 décembre</td><td>2020</td></tr>
+<tr><td>Ouzbékistan</td><td>28 septembre</td><td>1995 A</td><td>27 décembre</td><td>1995</td></tr>
+<tr><td>Pakistan\*</td><td>30 mai</td><td>2019 A</td><td>28 août</td><td>2019</td></tr>
+<tr><td>Pays-Bas <sup>a</sup></td><td>27 septembre</td><td>1960</td><td>2 juillet</td><td>1961</td></tr>
+<tr><td>Pologne</td><td>13 juin</td><td>1962</td><td>11 septembre</td><td>1962</td></tr>
+<tr><td>Portugal</td><td>22 septembre</td><td>1969 A</td><td>21 décembre</td><td>1969</td></tr>
+<tr><td>République tchèque</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie<sup>\*</sup></td><td>23 janvier</td><td>1973 A</td><td>23 avril</td><td>1973</td></tr>
+<tr><td>Royaume-Uni</td><td>21 juillet</td><td>1967 A</td><td>19 octobre</td><td>1967</td></tr>
+<tr><td>[tab] Gibraltar</td><td>31 octobre</td><td>1968</td><td>29 janvier</td><td>1969</td></tr>
+<tr><td>[tab] Guernesey</td><td>3 mars</td><td>1972</td><td>1<sup>er</sup> juin</td><td>1972</td></tr>
+<tr><td>[tab] Île de Man</td><td>12 novembre</td><td>1969</td><td>10 février</td><td>1970</td></tr>
+<tr><td>Russie<sup>\*</sup></td><td>2 septembre</td><td>1983 A</td><td>1<sup>er</sup> décembre</td><td>1983</td></tr>
+<tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Slovaquie</td><td>28 mai</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Suède</td><td>2 avril</td><td>1969</td><td>1<sup>er</sup> juillet</td><td>1969</td></tr>
+<tr><td>Suisse</td><td>27 février</td><td>1970</td><td>28 mai</td><td>1970</td></tr>
+<tr><td>Syrie</td><td>10 septembre</td><td>2008 A</td><td>9 décembre</td><td>2008</td></tr>
+<tr><td>Tadjikistan</td><td>11 septembre</td><td>1996 A</td><td>10 décembre</td><td>1996</td></tr>
+<tr><td>Tunisie</td><td>24 janvier</td><td>1994 A</td><td>24 avril</td><td>1994</td></tr>
+<tr><td>Turkménistan</td><td>18 septembre</td><td>1996 A</td><td>17 décembre</td><td>1996</td></tr>
+<tr><td>Turquie<sup>\*</sup></td><td>2 août</td><td>1995 A</td><td>31 octobre</td><td>1995</td></tr>
+<tr><td>Ukraine<sup>\*</sup></td><td>16 février</td><td>2007 A</td><td>17 mai</td><td>2007</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
+
+[^t-2]: [RO 1970 851](https://fedlex.data.admin.ch/eli/oc/1970/851_851_851); [1973 1776](https://fedlex.data.admin.ch/eli/oc/1973/1776_1776_1776); [1981 1012](https://fedlex.data.admin.ch/eli/oc/1981/1012_1012_1012); [1983 1932](https://fedlex.data.admin.ch/eli/oc/1983/1932_1932_1932); [1990 1770](https://fedlex.data.admin.ch/eli/oc/1990/1770_1770_1770); [1991 2270](https://fedlex.data.admin.ch/eli/oc/1991/2270_2270_2270); [2005 2189](https://fedlex.data.admin.ch/eli/oc/2005/360); [2007 4403](https://fedlex.data.admin.ch/eli/oc/2007/604); [2011 4317](https://fedlex.data.admin.ch/eli/oc/2011/584); [2021 150](https://fedlex.data.admin.ch/eli/oc/2021/150). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
