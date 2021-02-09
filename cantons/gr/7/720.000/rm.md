@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Lescha da taglia per il chantun Grischun
 language: rm
-version: 2018-01-01
-corrected: 2019-07-11
-version_adopted: 2015-10-20
+version: 2020-01-01
+corrected: 2021-02-10
+version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2813/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Lescha da taglia per il chantun Grischun
 
-dals 08-06-1986 (versiun dals 01-01-2018)
+dals 08-06-1986 (versiun dals 01-01-2020)
 
 acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
@@ -138,7 +138,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - a) èn possessuras, participantas u usufructuarias da manaschis commerzials en il chantun,
 - b) mantegnan lieus da manaschi en il chantun,
 - c) han proprietad, usufruct u sumegliants dretgs a bains immobigliars en il chantun,
-- d) fan commerzi cun bains immobigliars en il chantun u intermedieschan tals.
+- d) fan commerzi cun bains immobigliars en il chantun.
 
 <sup>2</sup> Sco stabiliment da l'interpresa vala ina installaziun fixa, en la quala vegn pratitgada totalmain u parzialmain l'activitad commerziala d'ina interpresa u ina professiun libra.
 
@@ -153,8 +153,9 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - c) èn credituras u usufructuarias da credits che vegnan garantids tras bains immobigliars situads en il chantun u tras pegns immobigliars sin tals bains immobigliars,
 - d) retschaivan rentas, pensiuns u autras indemnisaziuns che vegnan pajadas, sin fundament d'ina relaziun publica da lavur anteriura, d'in patrun u d'ina instituziun da prevenziun cun sedia u lieu da manaschi en il chantun,
 - e) survegnan prestaziuns d'instituziuns svizras da dretg privat da la prevenziun professiunala u da furmas renconuschidas da l'atgna prevenziun liada,
-- f) retiran sco lavurant d'in patrun cun sedia u lieu da manaschi en il chantun ina paja u autras indemnisaziuns per la lavur en il traffic internaziunal.
+- f) retiran sco lavurant d'in patrun cun sedia u lieu da manaschi en il chantun ina paja u autras indemnisaziuns per la lavur en il traffic internaziunal,
 - g) …
+- h) intermedieschan bains immobigliars situads en il chantun.
 
 <sup>2</sup> Sche las remuneraziuns na pervegnan betg a las persunas surmenziunadas, mabain a terzas persunas, èn quellas obligadas da pajar taglia per quai.
 
@@ -361,9 +362,15 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>3</sup> Sche betg tut ils ertavels na mainan vinavant la fatschenta en cas d'ina partiziun d'ierta, vegn – sin dumonda dals ertavels che surpiglian il manaschi – suspendida l'imposiziun da las reservas zuppadas fin al mument da l'ulteriura realisaziun, uschenavant che quests ertavels surpiglian las valurs vertentas sco decisivas per la taglia sin las entradas.
 
+#### Art. 18c
+
+**d) entradas da patentas e da dretgs cumparegliabels**
+
+<sup>1</sup> Per las entradas da patentas e da dretgs cumparegliabels en cas d'activitad da gudogn independenta èn applitgabels ils artitgels 79a e 79b confurm al senn.
+
 #### Art. 19
 
-**d) agricultura**
+**e) agricultura**
 
 <sup>1</sup> Las entradas da l'agricultura ston vegnir taxadas tenor il resultat da la contabilitad u sin fundament da registraziuns en il senn da l'artitgel 127 alinea 3.
 
@@ -373,7 +380,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 20
 
-**e) restructuraziuns**
+**f) restructuraziuns**
 
 <sup>1</sup> Las reservas zuppadas d'ina interpresa da persunas (firma singula, societad da persunas) na vegnan betg suttamessas a la taglia tar restructuraziuns, en spezial tar ina fusiun, tar ina partiziun u tar ina transfurmaziun, sche l'obligaziun da pajar taglia en Svizra cuntinuescha e sche las valurs ch'eran decisivas fin uss per la taglia sin las entradas pon vegnir surpigliadas:
 
@@ -383,7 +390,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>2</sup> Las reservas zuppadas transferidas vegnan – tar ina restructuraziun tenor l'alinea 1 litera b – suttamessas supplementarmain a la taglia en la procedura tenor ils artitgels 145 ss., sche durant ils tschintg onns successivs a la restructuraziun vegnan alienads dretgs da participaziun u da commembranza ad in pretsch superiur a quel da l'agen chapital transferì suttamess a la taglia; en quest cas po la persuna giuridica far valair reservas zuppadas correspundentas ch'èn gia vegnidas suttamessas a la taglia sco gudogn.
 
-<sup>3</sup> Sche las reservas zuppadas vegnan transferidas ad ina interpresa libra da taglias u ad ina persuna giuridica suttamessa a la taglia tenor ils artitgels 89 – 89b, vegn fatg giu quint sur las reservas zuppadas. Exceptadas da quai èn las reservas zuppadas sin las immobiglias.
+<sup>3</sup> Sche las reservas zuppadas vegnan transferidas ad ina interpresa libra da taglias, vegn fatg giu quint sur las reservas zuppadas. Exceptadas da quai èn las reservas zuppadas sin las immobiglias.
 
 #### Art. 21
 
@@ -398,7 +405,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - e) entradas da bains immaterials,
 - f) entradas da parts da fonds d'investiziun collectiva tenor la lescha davart las investiziuns collectivas[^21-2], uschenavant ch'ils retgavs totals da las investiziuns collectivas da chapital surpassan ils retgavs or dal possess funsil direct.
 
-<sup>2</sup> Il rembursament d'apports, d'agios e da pajaments supplementars ch'èn vegnids prestads dals titulars dals dretgs da participaziun suenter ils 31 da december 1996, vegn tractà da medema moda sco il rembursament da chapital da basa u da tschep.
+<sup>2</sup> …
 
 [^21-1]: lescha federala davart la taglia anticipada; CS [642.21](https://db.clex.ch/link/Bund/642.21/rm)
 [^21-2]: lescha federala davart las investiziuns collectivas da chapital dals 23 da zercladur 2006 (lescha davart las investiziuns collectivas, LICol, CS [951.31](https://db.clex.ch/link/Bund/951.31/rm))
@@ -407,7 +414,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 **b) facultad privata suttamessa parzialmain a la taglia**
 
-<sup>1</sup> Per diminuir l'imposiziun economica dubla da taglia en cas da participaziuns decisivas pon dividendas, quotas da gudogn, surplis da liquidaziuns ed avantatgs finanzials or d'aczias, or da participaziuns a societads cun responsabladad limitada, or da participaziuns ad associaziuns ed or da certificats da participaziun vegnir suttamess a la taglia en la dimensiun da 60 pertschient, sche quests dretgs da participaziun represchentan almain 10 pertschient dal chapital da basa u da tschep d'ina societad da chapital u d'ina associaziun.
+<sup>1</sup> Per diminuir l'imposiziun economica dubla da taglia en cas da participaziuns decisivas pon dividendas, quotas da gudogn, surplis da liquidaziuns ed avantatgs finanzials or d'aczias, or da participaziuns a societads cun responsabladad limitada, or da participaziuns ad associaziuns ed or da certificats da participaziun vegnir suttamess a la taglia en la dimensiun da 50 pertschient, sche quests dretgs da participaziun represchentan almain 10 pertschient dal chapital da basa u da tschep d'ina societad da chapital u d'ina associaziun.
 
 #### Art. 21b
 
@@ -416,9 +423,27 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 <sup>1</sup> Sco retgav da facultad vala er:
 
 - a) Il retgav or da la vendita d'ina participaziun d'almain 20 pertschient al chapital da basa u al chapital da tschep d'ina societad da chapital u d'ina associaziun, dal transferiment da facultad privata en la facultad da fatschenta d'ina autra persuna natirala u d'ina persuna giuridica, uschenavant che la substanza vegn pajada entaifer tschintg onns suenter la vendita cun la cooperaziun dal vendider, la substanza che n'è betg necessaria per il manaschi, che era dentant gia avant maun il mument da la vendita e che pudeva vegnir pajada tenor il dretg commerzial. Quai vala confurm al senn er, sche plirs participads vendan entaifer tschintg onns communablamain ina tala participaziun u sch'i vegnan vendidas talas participaziuns da totalmain almain 20 pertschient. La substanza pajada vegn suttamessa posteriuramain a la taglia tar il vendider, e quai eventualmain en la procedura tenor ils artitgels 145 ss.;
-- b) Il retgav or dal transferiment d'ina participaziun d'almain 5 pertschient dal chapital da basa u dal chapital da tschep d'ina societad da chapital u d'ina associaziun, da la facultad privata en la facultad da fatschenta d'ina interpresa da persunas u d'ina persuna giuridica, al chapital da la quala l'alienader u l'apportader è participà suenter il transferiment cun almain 50 pertschient, uschenavant che la cuntraprestaziun ch'è vegnida obtegnida totalmain surpassa la valur nominala da la participaziun transferida. Quai vala confurm al senn er, sche plirs participads fan communablamain il transferiment.
+- b) Il retgav or dal transferiment d'ina participaziun al chapital da basa u al chapital da tschep d'ina societad da chapital u d'ina associaziun, da la facultad privata en la facultad da fatschenta d'ina interpresa da persunas u d'ina persuna giuridica, al chapital da la quala l'alienader u l'apportader è participà suenter il transferiment cun almain 50 pertschient, uschenavant che la cuntraprestaziun ch'è vegnida obtegnida totalmain surpassa la summa da la valur nominala da la participaziun transferida e da las reservas or d'apports da chapital tenor l'artitgel 21c. Quai vala confurm al senn er, sche plirs participads fan communablamain il transferiment.
 
 <sup>2</sup> Ina cooperaziun en il senn da l'alinea 1 litera a exista, sch'il vendider sa u sto savair ch'i vegnan prelevads meds finanzials da la societad cun l'intenziun da finanziar il pretsch da cumpra e che quests meds na vegnan betg pli restituids.
+
+#### Art. 21c
+
+**d) princip da l'apport da chapital**
+
+<sup>1</sup> Il rembursament d'apports, d'agios e da pajaments supplementars (reservas or d'apports da chapital) ch'èn vegnids prestads dals titulars dals dretgs da participaziun suenter ils 31 da december 1996, vegn tractà da medema maniera sco il rembursament da chapital da basa u da tschep. L'alinea 2 resta resalvà.
+
+<sup>2</sup> Sch'ina societad da chapital u in'associaziun ch'è quotada ad ina bursa svizra na distribuescha betg, en il rom dal rembursament da reservas or d'apports da chapital tenor l'alinea 1, ulteriuras reservas almain d'in import equivalent, sto il rembursament vegnir suttamess a la taglia en la dimensiun da la mesa differenza tranter il rembursament e la distribuziun da las ulteriuras reservas, però maximalmain en la dimensiun da las reservas disponiblas en la societad che pon vegnir distribuidas tenor il dretg commerzial.
+
+<sup>3</sup> L'alinea 2 n'è betg applitgabel per reservas or d'apports da chapital:
+
+- a) ch'èn resultadas suenter ils 24 da favrer 2008 en il rom da concentraziuns sumegliantas a fusiuns tras l'apport da dretgs da participaziun e da commembranza vi d'ina societad da chapital u vi d'ina associaziun estra tenor l'artitgel 83 alinea 1 litera c u tras in transferiment transcunfinal ad ina societad affiliada en Svizra tenor l'artitgel 83 alinea 1 litera d;
+- b) ch'eran gia avant maun suenter ils 24 da favrer 2008 en ina societad da chapital u en in'associaziun estra il mument d'ina fusiun u d'ina restructuraziun transcunfinala tenor l'artitgel 83 alinea 1 litera b ed alinea 3 u il mument da la dischlocaziun da la sedia u da l'administraziun effectiva;
+- c) sche la societad da chapital u l'associaziun vegn liquidada.
+
+<sup>4</sup> Ils alineas 2 e 3 valan confurm al senn er per reservas or d'apports da chapital che vegnan duvrads per l'emissiun d'aczias gratuitas u per augments gratuits da la valur nominala.
+
+<sup>5</sup> Sch'il rembursament da las reservas or d'apports da chapital na correspunda – en cas da la restituziun da dretgs da participaziun vi d'ina societad da chapital u d'ina associaziun ch'è quotada ad ina bursa svizra – betg almain a la mesadad dal surpli da liquidaziun obtegnì, sa reducescha la part da quest surpli da liquidaziun ch'è suttamess a la taglia per la mesadad da la differenza tranter questa part ed il rembursament, però maximalmain en la dimensiun da las reservas or d'apports da chapital disponiblas en la societad ch'èn imputablas sin quests dretgs da participaziun.
 
 #### Art. 22
 
@@ -505,8 +530,12 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - i) pajaments per lavur en il manaschi dals geniturs che n'eran betg vegnids deducids dals geniturs u dals tats en las taxaziuns ordinarias da fin uss,
 - k) pajaments da summas da satisfacziun,
 - l) las entradas sin fundament da la legislaziun federala davart las prestaziuns supplementaras tar l'assicuranza da vegls, survivents ed invaliditad sco er ulteriuras prestaziuns supplementaras dal maun public,
-- m) ils gudogns obtegnids tar gieus da fortuna en bancas da gieu en il senn da la lescha da bancas da gieu.
-- n) ils singuls gudogns d'ina lottaria u d'ina occurrenza sumeglianta ad ina lottaria fin ad in import da 1000 francs.
+- m) ils gudogns realisads en casinos cun gieus da casino ch'èn admess tenor la lescha federala davart gieus per daners dals 29 da settember 2017 (lescha da gieus per daners, LGD)[^30-1], sche quests gudogns na derivan betg d'ina activitad da gudogn independenta,
+- m<sup>bis</sup>) ils singuls gudogns fin ad ina summa dad 1 milliun francs che derivan da la participaziun a gieus da gronda extensiun admess tenor la LGD e da la participaziun online a gieus da casino admess tenor la LGD,
+- m<sup>ter</sup>) ils gudogns che derivan da la participaziun a gieus da pitschna extensiun admess tenor la LGD,
+- n) ils singuls gudogns fin 1000 francs che derivan da lottarias e da gieus d'inschign per promover la vendita e che n'èn – tenor l'artitgel 1 alinea 2 literas d ed e LGD – betg suttamess a la LGD.
+
+[^30-1]: CS [935.51](https://db.clex.ch/link/Bund/935.51/rm)
 
 #### Art. 31
 
@@ -543,9 +572,15 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 [^32-1]: Art. 12 ss. DERtLT; DG [720.015](https://www.gr-lex.gr.ch/data/720.015/rm)
 [^32-2]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
 
+#### Art. 32a
+
+**b) perscrutaziun e svilup**
+
+<sup>1</sup> Per la deducziun d'expensas da perscrutaziun e da svilup en cas d'activitad da gudogn independenta è applitgabel l'artitgel 81a confurm al senn.
+
 #### Art. 33
 
-**b) acquisiziun da cumpensaziun**
+**c) acquisiziun da cumpensaziun**
 
 <sup>1</sup> Sch'i vegnan remplazzads objects da la facultad d'investiziun ch'è necessaria per il manaschi, pon las reservas zuppadas vegnir transferidas sin ils bains d'investiziun ch'èn vegnids acquistads sco cumpensaziun, sche quels èn medemamain necessaris per il manaschi. Resalvada resta l'imposiziun en cas che immobiglias vegnan remplazzadas tras objects da la facultad movibla.
 
@@ -559,7 +594,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 34
 
-**c) deducziun da perditas**
+**d) deducziun da perditas**
 
 <sup>1</sup> Surplis da perditas dals set onns da gestiun precedents a la perioda fiscala pon vegnir deducids, uschenavant ch'els n'han betg pudì vegnir resguardads per calcular l'entrada suttamessa a la taglia dals onns precedents.
 
@@ -610,7 +645,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
   - 1\. èn inscrittas en il register da las partidas tenor l'artitgel 76a da la lescha federala dals 17 da december 1976 davart ils dretgs politics;
   - 2\. èn represchentadas en il parlament chantunal; u
   - 3\. han obtegnì en il chantun almain 3 pertschient da las vuschs a chaschun da las ultimas elecziuns dal parlament chantunal;
-- n) ils custs da pegn en l'autezza da 5 pertschient dals singuls gudogns d'ina lottaria u d'ina occurrenza sumeglianta ad ina lottaria (art. 29 lit. g en cumbinaziun cun art. 30 lit. n); la deducziun maximalmain admissibla importa 5000 francs;
+- n) ils custs da las messas en l'autezza da 5 pertschient, dentant maximalmain 5000 francs, per ils singuls gudogns che derivan da la participaziun a gieus per daners, ils quals n'èn betg libers da taglia tenor l'artitgel 30 alinea 1 literas m fin n. Dals singuls gudogns che derivan da la participaziun online a gieus da casino tenor l'artitgel 30 alinea 1 litera m<sup>bis</sup> vegnan deducidas las messas prelevadas durant l'onn fiscal dal conto online, dentant maximalmain 25 000 francs;
 - o) ils custs da la scolaziun e furmaziun supplementara orientada a la professiun, inclusiv ils custs da rescolaziun, fin a l'import maximal tenor l'artitgel 33 alinea 1 litera j da la lescha federala davart la taglia federala directa dals 14 da december 1990 (LTFD)[^36-2];, sche:
   - 1\. igl è avant maun in emprim diplom dal nivel dal stgalim secundar II; u
   - 2\. il 20avel onn da vita è cumplenì e sch'i na sa tracta betg dals custs da scolaziun fin a l'emprim diplom dal stgalim secundar II.
@@ -661,7 +696,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> La taglia sin las entradas importa:
 
-- a) 0,0 % per ils emprims 15 000.– fr.,
+- a) 0,0 % per ils emprims 15 500.– fr.,
 - b) 2,5 % per ils ulteriurs 1000.– fr.,
 - c) 4 % per ils ulteriurs 1000.– fr.,
 - d) 5 % per ils ulteriurs 1000.– fr.,
@@ -679,7 +714,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - q) 11,3 % per ils ulteriurs 100 000.– fr.,
 - r) 11,4 % per ils ulteriurs 100 000.– fr.,
 - s) 11,6 % per ils ulteriurs 300 000.– fr.,
-- t) 11,0 % per tut las entradas imponiblas, sche quellas surpassan 700 000.– fr.,
+- t) 11,0 % per tut las entradas imponiblas, sche quellas surpassan 700 500.– fr.,
 
 <sup>2</sup> Per eruir la tariffa fiscala da conjugals suttamess communablamain a la taglia, vegn partida l'entrada suttamessa a la taglia cun il divisur dad 1.9.
 
@@ -983,9 +1018,15 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>2</sup> In'obligaziun da pajar ina renta vegn resguardada sco debit, e quai per la valur respectiva da la renta en daner blut, danor sche quella è vegnida garantida gratuitamain e per accumplir obligaziuns dal dretg da famiglia.
 
+#### Art. 62a
+
+**IV. Reducziun da taglia sin patentas**
+
+<sup>1</sup> La facultad da fatschenta netta sa reducescha en la relaziun da las patentas e dals dretgs cumparegliabels tenor l'artitgel 18c tar la facultad da fatschenta totala.
+
 #### Art. 63
 
-**IV. Calculaziun da la taglia 1. imports libers da taglia**
+**V. Calculaziun da la taglia 1. imports libers da taglia**
 
 <sup>1</sup> Per la calculaziun da la taglia vegnan deducids da la facultad netta:
 
@@ -1130,12 +1171,13 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - b) mantegnan lieus da manaschi en il chantun,
 - c) han proprietad, dretgs reals limitads u dretgs da giudida persunals ch'èn economicamain eguals a quels vi da bains immobigliars en il chantun,
 - d) alieneschan sulettas u ensemen cun terzas persunas dretgs da participaziun e sche questa alienaziun correspunda economicamain a l'alienaziun da proprietad da bains immobigliars en il chantun.
-- e) intermedieschan u fan commerzi cun bains immobigliars situads en il chantun.
+- e) fan commerzi cun bains immobigliars situads en il chantun.
 
 <sup>2</sup> Las persunas giuridicas cun sedia ed administraziun effectiva a l'exteriur èn ultra da quai obligadas da pajar taglia, sch'ellas
 
 - a) èn credituras u usufructuarias da credits che vegnan garantids tras bains immobigliars situads en il chantun,
 - b) …
+- c) intermedieschan bains immobigliars situads en il chantun.
 
 <sup>3</sup> Sco stabiliment da l'interpresa vala ina installaziun fixa, en la quala vegn pratitgada totalmain u parzialmain l'activitad commerziala d'ina interpresa.
 
@@ -1216,7 +1258,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
   - 6\. ils transferiments dal gudogn,
   - 7\. las anticipaziuns dal gudogn,
   - 8\. las assegnaziuns a terzas persunas betg motivadas da la fatschenta,
-- c) ils retgavs betg bunifitgads al quint da gudogn e perdita, inclusiv ils gudogns da chapital, da liquidaziun e da revalitaziun; il medem status giuridic sco la liquidaziun han, areguard las reservas zuppadas, il transferiment a l'exteriur da la sedia u da l'administraziun d'in manaschi commerzial u d'in lieu da manaschi;
+- c) ils retgavs betg bunifitgads al quint da gudogn e perdita, inclusiv ils gudogns da chapital, da liquidaziun e da revalitaziun.
 - d) …
 
 <sup>2</sup> Las prestaziuns a socis u a persunas che stattan datiers ston vegnir valitadas tenor la valur reala.
@@ -1225,15 +1267,65 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 [^79-1]: Cun il CR dals 19 d'avust 1997 ha la regenza mess en vigur l'al. 3 retroactivamain per il 1. da schaner 1997. Cun l'entrada en vigur vegn aboli l'art. 191
 
+#### Art. 79a
+
+**2. patentas e dretgs cumparegliabels: noziuns**
+
+<sup>1</sup> Sco patentas valan:
+
+- a) patentas tenor la convenziun davart las patentas europeicas dals 5 d'october 1973 en sia versiun revedida dals 29 da november 2000[^79a-1] cun denominaziun da la Svizra;
+- b) patentas tenor la lescha da patentas dals 25 da zercladur 1954[^79a-2];
+- c) patentas estras che correspundan a las patentas tenor la litera a u b.
+
+<sup>2</sup> Sco dretgs cumparegliabels valan:
+
+- a) certificats da protecziun cumplementars tenor la lescha da patentas dals 25 da zercladur 1954 e la prolungaziun da lur durada;
+- b) topografias ch'èn protegidas tenor la lescha davart las topografias dals 9 d'october 1992[^79a-3];
+- c) spezias da plantas ch'èn protegidas tenor la lescha federala davart la protecziun da la cultivaziun da plantas dals 20 da mars 1975[^79a-4];
+- d) documents ch'èn protegids tenor la lescha davart ils products terapeutics dals 15 da december 2000[^79a-5];
+- e) rapports ch'èn protegids sin basa da disposiziuns executivas tar la lescha d'agricultura dals 29 d'avrigl 1998[^79a-6];
+- f) dretgs esters che correspundan als dretgs tenor las literas a fin e.
+
+[^79a-1]: CS [0.232.142.2](https://db.clex.ch/link/Bund/0.232.142.2/rm)
+[^79a-2]: CS [232.14](https://db.clex.ch/link/Bund/232.14/rm)
+[^79a-3]: CS [231.2](https://db.clex.ch/link/Bund/231.2/rm)
+[^79a-4]: CS [232.16](https://db.clex.ch/link/Bund/232.16/rm)
+[^79a-5]: CS [812.21](https://db.clex.ch/link/Bund/812.21/rm)
+[^79a-6]: CS [910.1](https://db.clex.ch/link/Bund/910.1/rm)
+
+#### Art. 79b
+
+**3. patentas e dretgs cumparegliabels: imposiziun da taglia**
+
+<sup>1</sup> Il gudogn net or da patentas ed or da dretgs cumparegliabels vegn resguardà sin dumonda dal pajataglia en la relaziun da las expensas da perscrutaziun e da svilup qualifitgadas tar las expensas da perscrutaziun e da svilup totalas per patenta u per dretg cumparegliabel (quozient nexus) cun ina reducziun da 90 pertschient per calcular il gudogn net ch'è suttamess a la taglia.
+
+<sup>2</sup> Il gudogn net or da patentas ed or da dretgs cumparegliabels ch'èn cuntegnids en products, vegn eruì deducind dal gudogn net or da quests products mintgamai 6 pertschient dals custs attribuids a quests products sco er l'indemnisaziun per la marca.
+
+<sup>3</sup> L'imposiziun da taglia reducida sin il gudogn net or da patentas ed or da dretgs cumparegliabels ha lieu suenter l'apport da quests dretgs en la patent box pir, sche quest gudogn surpassa las expensas da perscrutaziun e da svilup totalas ch'èn resultadas fin a l'apport e vegnidas deducidas en moda fiscalmain valaivla per quests dretgs, sco er in'eventuala deducziun tenor l'artitgel 81a, uschenavant che tala è effectivamain deducibla. Il tschintgavel onn suenter l'entrada en la patent box stoi vegnir fatg giu quint davart las expensas da perscrutaziun e da svilup betg anc scuntradas sco er davart in'eventuala deducziun tenor l'artitgel 81a. Il pajataglia ha il dretg d'agiuntar las expensas da perscrutaziun e da svilup betg anc scuntradas da tut temp al gudogn net ch'è suttamess a la taglia. En la dimensiun da la summa agiuntada sto vegnir furmada ina reserva zuppada ch'è suttamessa a la taglia.
+
+<sup>4</sup> Sch'il pajataglia transferescha entaifer ils 5 onns la sedia u l'administraziun effectiva a l'exteriur u en in chantun che prevesa in'autra imposiziun da taglia che quella tenor l'alinea 3, vegnan las expensas da perscrutaziun e da svilup che n'èn betg anc vegnidas scuntradas, inclusiv la deducziun tenor l'artitgel 81a, agiuntadas al gudogn net ch'è suttamess a la taglia.
+
+<sup>5</sup> Las ulteriuras regulaziuns dal cussegl federal tenor l'artitgel 24b alinea 4 da la lescha federala davart l'armonisaziun da la taglia directa dals chantuns e da las vischnancas[^79b-1] èn applitgablas.
+
+[^79b-1]: CS [642.14](https://db.clex.ch/link/Bund/642.14/rm)
+
 #### Art. 80
 
-**2. tschains sin agen chapital zuppà**
+**4. tschains sin agen chapital zuppà**
 
 <sup>1</sup> Tar il gudogn suttamess a la taglia da las societads da chapital e da las associaziuns appartegnan er ils tschains da debits da quella part dal chapital ester che sto vegnir quintada sco agen chapital.
 
+#### Art. 80a
+
+**5. imposiziun da taglia sin reservas zuppadas a la fin da l'obligaziun da pajar taglia**
+
+<sup>1</sup> Sche l'obligaziun da pajar taglia finescha, èn suttamessas a la taglia las reservas zuppadas betg decleradas ch'èn avant maun quel mument, inclusiv la plivalur creada sez.
+
+<sup>2</sup> Sco fin da l'obligaziun da pajar taglia valan la dischlocaziun da valurs da facultad, d'interpresas, da parts d'ina interpresa u da funcziuns davent da la Svizra en ina interpresa u en ina filiala da l'interpresa a l'exteriur, la midada ad ina liberaziun da taglia tenor l'artitgel 78 sco er la dischlocaziun da la sedia u da l'administraziun effectiva a l'exteriur.
+
 #### Art. 81
 
-**3. expensas motivadas da la fatschenta**
+**6. expensas motivadas da la fatschenta**
 
 <sup>1</sup> Tar las expensas motivadas da la fatschenta appartegnan spezialmain:
 
@@ -1254,18 +1346,61 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 [^81-1]: Art. 12 ss. DERtLT; DG [720.015](https://www.gr-lex.gr.ch/data/720.015/rm)
 [^81-2]: CS [831.40](https://db.clex.ch/link/Bund/831.40/rm)
 
+#### Art. 81a
+
+**7. deducziun supplementara d'expensas da perscrutaziun e da svilup**
+
+<sup>1</sup> Sin dumonda vegni permess da deducir supplementarmain 50 pertschient da las expensas da perscrutaziun e da svilup ch'èn motivadas da la fatschenta e ch'èn resultadas per il pajataglia directamain u indirectamain tras terzas persunas en Svizra.
+
+<sup>2</sup> Sco perscrutaziun e svilup valan la perscrutaziun scientifica e l'innovaziun che sa basa sin la scienza tenor l'artitgel 2 da la lescha federala davart la promoziun da la perscrutaziun e da l'innovaziun dals 14 da december 2012[^81a-1].
+
+<sup>3</sup> Ina deducziun pli gronda è admessa per:
+
+- a) ils custs da persunal imputabels directamain a la perscrutaziun ed al svilup, plus in supplement da 35 pertschient da quests custs da persunal, dentant maximalmain fin a las expensas totalas dal pajataglia;
+- b) 80 pertschient da las expensas da perscrutaziun e da svilup che vegnan messas a quint tras terzas persunas.
+
+<sup>4</sup> Sch'il mandant da la perscrutaziun e dal svilup ha il dretg da far deducziuns, n'ha il mandatari nagin dretg da far deducziuns.
+
+[^81a-1]: CS [420.1](https://db.clex.ch/link/Bund/420.1/rm)
+
+#### Art. 81b
+
+**8. distgargia maximala**
+
+<sup>1</sup> L'entira reducziun fiscala tenor l'artitgel 79b alineas 1 e 2 e tenor l'artitgel 81a sco er sin basa d'amortisaziuns tenor l'artitgel 189d alinea 3 na dastga betg surpassar 55 pertschient dal gudogn suttamess a la taglia avant la deducziun da las perditas, cun exclusiun dal retgav net da las participaziuns tenor ils artitgels 88 ed 88a, ed avant la deducziun da las reducziuns fatgas.
+
+<sup>2</sup> Ni tras las singulas reducziuns ni tras l'entira reducziun fiscala na dastgan resultar transports da perditas.
+
+<sup>3</sup> Eventualas stritgadas ston vegnir fatgas en la suandanta successiun:
+
+- a) deducziun supplementara per expensas da perscrutaziun e da svilup (art. 81a);
+- b) amortisaziuns sin las reservas zuppadas decleradas (art. 189d al. 3);
+- c) reducziun per retgavs che derivan da patentas e da dretgs cumparegliabels (art. 79b).
+
 #### Art. 82
 
-**4. operaziuns neutralas per il gudogn**
+**9. operaziuns neutralas per il gudogn**
 
 <sup>1</sup> Nagin gudogn suttamess a la taglia resulta tras
 
 - a) ils apports da chapital dals commembers da societads da chapital e d'associaziuns, inclusiv ils agios,
 - b) l'augment da chapital or d'ierta, legat e donaziun.
 
+#### Art. 82a
+
+**10. decleraziun da las reservas zuppadas al cumenzament da l'obligaziun da pajar taglia**
+
+<sup>1</sup> Sch'il pajataglia declera al cumenzament da l'obligaziun da pajar taglia reservas zuppadas, inclusiv la plivalur creada sez, n'èn quellas betg suttamessas a la taglia sin il gudogn. Betg vegnir decleradas na dastgan reservas zuppadas d'ina societad da chapital u d'ina associaziun che derivan da participaziuns d'almain 10 pertschient dal chapital da basa u da tschep u dal gudogn e da las reservas d'ina autra societad.
+
+<sup>2</sup> Sco cumenzament da l'obligaziun da pajar taglia valan la dischlocaziun da valurs da facultad, d'interpresas, da parts d'ina interpresa u da funcziuns davent da l'exteriur en ina interpresa u en ina filiala da l'interpresa en Svizra, la fin d'ina liberaziun da taglia tenor l'artitgel 78 sco er la dischlocaziun da la sedia u da l'administraziun effectiva en Svizra.
+
+<sup>3</sup> Las reservas zuppadas decleradas ston vegnir amortisadas mintga onn per la tariffa che vegn applitgada fiscalmain per amortisaziuns sin las valurs da facultad respectivas.
+
+<sup>4</sup> La plivalur creada sez e declerada sto vegnir amortisada entaifer 10 onns.
+
 #### Art. 83
 
-**5. restructuraziuns**
+**11. restructuraziuns**
 
 <sup>1</sup> Las reservas zuppadas d'ina persuna giuridica na vegnan betg suttamessas a la taglia tar restructuraziuns, en spezial tar ina fusiun, tar ina partiziun u tar ina transfurmaziun, sche l'obligaziun da pajar taglia en Svizra cuntinuescha e sche las valurs ch'eran decisivas fin ussa per la taglia sin il gudogn pon vegnir surpigliadas:
 
@@ -1280,13 +1415,13 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>4</sup> Sche – durant ils tschintg onns successivs ad in transferiment tenor l'alinea 3 – las valurs da facultad transferidas vegnan alienadas u sche la direcziun unica vegn bandunada durant quest temp, vegnan las reservas zuppadas transferidas suttamessas supplementarmain a la taglia en la procedura tenor ils artitgels 145 ss. En quest cas po la persuna giuridica benefiziada far valair reservas zuppadas correspundentas ch'èn gia vegnidas suttamessas a la taglia sco gudogn. Las societads da chapital e las associaziuns svizras concentradas sut ina direcziun unica il mument da la violaziun dal termin da bloccada stattan solidarmain bunas per la taglia supplementara.
 
-<sup>5</sup> Sche las reservas zuppadas vegnan transferidas ad ina interpresa libra da taglias u ad ina persuna giuridica suttamessa a la taglia tenor ils artitgels 89 – 89b, vegn fatg giu quint sur las reservas zuppadas. Exceptadas da quai èn las reservas zuppadas sin las immobiglias sco er sin las participaziuns tenor l'artitgel 88a.
+<sup>5</sup> Sche las reservas zuppadas vegnan transferidas ad ina interpresa libra da taglias, vegn fatg giu quint sur las reservas zuppadas. Exceptadas da quai èn las reservas zuppadas sin las immobiglias sco er sin las participaziuns tenor l'artitgel 88a.
 
 <sup>6</sup> Sche – cun surpigliar las activas e las passivas d'ina societad da chapital u d'ina associaziun – la societad da chapital u l'associaziun che surpiglia ha ina perdita da contabilitad sin la participaziun da tala societad da chapital u associaziun, na po ella betg deducir fiscalmain questa perdita; in eventual gudogn da contabilitad sin la participaziun vegn suttamess a la taglia.
 
 #### Art. 84
 
-**6. cumpra da cumpensaziun**
+**12. acquist da cumpensaziun**
 
 <sup>1</sup> Sch'i vegnan remplazzads objects da la facultad d'investiziun ch'è necessaria per il manaschi, pon las reservas zuppadas vegnir transferidas sin ils bains d'investiziun ch'èn vegnids acquistads sco cumpensaziun, sche quels èn medemamain necessaris per il manaschi. Resalvada resta l'imposiziun en cas che immobiglias vegnan remplazzadas tras objects da la facultad movibla.
 
@@ -1303,7 +1438,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 85
 
-**7. prescripziuns spezialas per uniuns, per fundaziuns e per investiziuns collectivas da chapital**
+**13. prescripziuns spezialas per uniuns, per fundaziuns e per investiziuns collectivas da chapital**
 
 <sup>1</sup> Las contribuziuns statutaras dals commembers a las uniuns ed ils apports en la facultad da las fundaziuns na vegnan betg quintads tar il gudogn suttamess a la taglia.
 
@@ -1313,7 +1448,7 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 86
 
-**8. deducziun da las perditas**
+**14. deducziun da las perditas**
 
 <sup>1</sup> Dal gudogn net da la perioda fiscala pon vegnir deducids ils surplis da perditas da las set periodas da gestiun precedentas a la perioda fiscala, uschenavant ch'els n'han betg sminuì il gudogn net suttamess a la taglia da las periodas precedentas.
 
@@ -1321,18 +1456,19 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>3</sup> Ils alineas 1 e 2 valan er en il cas d'in transferiment da la sedia u da l'administraziun effectiva entaifer la Svizra.
 
+<sup>4</sup> Las societads ch'eran suttamessas a la taglia tenor ils artitgels 89 fin 89b dal dretg vertent han mo il dretg d'ina deducziun da las perditas, uschenavant che resultats positivs fissan vegnids suttamess a la taglia sco gudogn.
+
 #### Art. 87
 
 **II. Calculaziun da la taglia 1. en general**
 
-<sup>1</sup> La taglia sin il gudogn importa 5.5 pertschient.
+<sup>1</sup> La taglia sin il gudogn importa 4,5 pertschient.
 
 <sup>2</sup> Persunas giuridicas che han intents ideals na pajan betg ina taglia sin il gudogn, sche lur gudogn net na surpassa betg la limita da l'artitgel 66 da la lescha federala davart la taglia federala directa dals 14 da december 1990 (LTFD)[^87-1] ed è deditgà exclusivamain ed irrevocablamain a quests intents.
 
-<sup>3</sup> Persunas giuridicas cun las caracteristicas d'ina societad da domicil en il senn da l'artitgel 89a u d'ina societad maschadada en il senn da l'artitgel 89b cun entradas passivas che derivan per gronda part da societads svizras u estras dal medem concern pajan ina taglia dad 8.5 pertschient sin ils gudogns or da las entradas passivas. Ils ulteriurs gudogns èn suttamess a la taglia ordinaria sin il gudogn tenor l'artitgel 89a. Resalvads restan ils artitgels 88 ed 88a.[^87-2]
+<sup>3</sup> Sch'ina societad da chapital u in'associaziun appartegna ad in concern internaziunal, vegn la tariffa da taglia abolida uschenavant, che la grevezza fiscala minimala acceptada dal stadi ester vegn cuntanschida ensemen cun la taglia federala directa.
 
 [^87-1]: CS [642.11](https://db.clex.ch/link/Bund/642.11/rm)
-[^87-2]: art. 24 DERtLT; DG [720.015](https://www.gr-lex.gr.ch/data/720.015/rm)
 
 #### Art. 88
 
@@ -1368,39 +1504,15 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 89
 
-**3. societads da holding**
-
-<sup>1</sup> Las persunas giuridicas, da las qualas l'intent principal è l'administraziun permanenta da participaziuns e che n'han nagina activitad commerziala en Svizra, na pajan betg la taglia sin il gudogn, sche las participaziuns u ils retgavs da questas importan a lunga vista almain dus terzs da las activas totalas u dals retgavs totals.
-
-<sup>2</sup> La taglia sin il gudogn en atgna progressiun vegn dentant incassada:
-
-- a) sin ils retgavs da proprietad funsila svizra, resguardond las deducziuns che correspundan ad ina grevezza ipotecara usitada;
-- b) sin ils retgavs, per ils quals vegn fatga valair ina distgargia da la taglia a la funtauna estra e per ils quals in contract internaziunal premetta la taxaziun ordinaria en Svizra.
-- c) sin ils gudogns, sch'ella alienescha suletta u ensemen cun terzas persunas dretgs da participaziun e sche quai correspunda economicamain a l'alienaziun da proprietad funsila en il chantun.
-
-<sup>3</sup> …
+**…**
 
 #### Art. 89a
 
-**4. societads da domicil**
-
-<sup>1</sup> Las persunas giuridicas che han in'activitad administrativa dentant nagina activitad commerziala en Svizra, na pajan betg la taglia sin il gudogn per retgavs da participaziuns en il senn da l'artitgel 88 sco er sin il gudogn da chapital e da revalitaziuns da talas participaziuns.
-
-<sup>2</sup> Ellas pajan dentant la taglia sin il gudogn en atgna progressiun:
-
-- a) sin ils ulteriurs retgavs da la Svizra, inclusiv ils gudogns da chapital e da revalitaziun;
-- b) sin ina part dals ulteriurs retgavs da l'exteriur, inclusiv ils gudogns da chapital e da revalitaziun, tenor l'impurtanza da l’activitad administrativa en Svizra.
-- c) sin ils gudogns, sch'ella alienescha suletta u ensemen cun terzas persunas dretgs da participaziun e sche quai correspunda economicamain a l'alienaziun da proprietad funsila en il chantun.
-
-<sup>3</sup> Da la reducziun tenor l'alinea 2 litera b èn exclus ils retgavs, per ils quals vegn fatga valair ina distgargia da la taglia a la funtauna estra e per ils quals in contract internaziunal premetta la taxaziun ordinaria en Svizra.
-
-<sup>4</sup> Las expensas motivadas da la fatschenta che stattan en in connex economic cun tscherts retgavs, vegnan deducidas ordavant da quests. Las perditas da participaziuns tenor l'alinea 1 pon vegnir quintadas mo cun ils retgavs da questas participaziuns.
+**…**
 
 #### Art. 89b
 
-**5. societads maschadadas**
-
-<sup>1</sup> Societads da chapital ed associaziuns, da las qualas l'activitad commerziala ha principalmain ina relaziun cun l'exteriur e che han mo in'activitad commerziala subordinada en Svizra, pajan la taglia sin il gudogn tenor l'artitgel 89a. Las ulteriuras entradas da l'exteriur vegnan suttamessas a la taglia a norma da l'activitad commerziala en Svizra.
+**…**
 
 ### 2.3. Taglia sin il chapital
 
@@ -1416,6 +1528,8 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 - b) tar uniuns, fundaziuns e tar las ulteriuras persunas giuridicas: da la facultad netta, sco ch'ella vegn calculada tenor las disposiziuns per las persunas natiralas.
 
 <sup>3</sup> L'agen chapital suttamess a la taglia da societads da chapital ed associaziuns vegn augmentà per quella part dal chapital ester che ha l'impurtanza economica d'agen chapital.
+
+<sup>4</sup> L'agen chapital suttamess a la taglia sa reducescha en la relaziun da las participaziuns tenor l'artitgel 88, dals dretgs tenor l'artitgel 79a e dals emprests a societads da concern tar las activas totalas. Questa reducziun na vegn betg concedida a societads cun ina imposiziun da taglia sin il chapital tenor l'artitgel 92.
 
 #### Art. 90a
 
@@ -1445,11 +1559,15 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 #### Art. 92
 
-**2. societads da domicil e da holding**
+**2. societads senza activitad commerziala**
 
-<sup>1</sup> L'agen chapital suttamess a la taglia consista tar societads da holding e da domicil sco er tar las persunas giuridicas ch'èn vegnidas suttamessas a la taglia tenor l'artitgel 87 alinea 3 dal chapital da basa u da tschep pajà, da las reservas avertas e da quella part da las reservas zuppadas che fiss vegnida furmada – en cas da la taxaziun dal gudogn – or da gudogn ch'era gia vegnì suttamess a la taglia. La taglia sin il chapital importa 0.05 promils, dentant almain 300 francs.
+<sup>1</sup> Persunas giuridicas senza activitad commerziala sco tala en Svizra vegnan suttamessas – sin dumonda – ad ina taglia sin il chapital pli bassa. Quai èn:
 
-<sup>2</sup> La taglia sin il gudogn e sin il chapital per las vischnancas sco er la taglia da cultus na vegnan betg incassadas.
+- a) persunas giuridicas, da las qualas l'intent è l'administraziun permanenta da participaziuns, uschenavant che las participaziuns u ils retgavs da talas importan almain dus terzs da las activas totalas u dals retgavs totals;
+- b) persunas giuridicas ch'exequeschan en Svizra mo in'activitad administrativa ordaifer il sectur d'immobiglias;
+- c) persunas giuridicas, da las qualas l'activitad commerziala sa referescha principalmain a l'exteriur e sa restrenscha a funcziuns subordinadas en il concern.
+
+<sup>2</sup> La taglia chantunala simpla importa 0,05 promils, dentant almain 200 francs.
 
 <sup>3</sup> …
 
@@ -3130,9 +3248,19 @@ acceptada dal pievel ils 8 da zercladur 1986[^ingress-1]
 
 <sup>1</sup> Sche la vendita da las aczias ad ina societad immobigliara è vegnida registrada suenter ils 31 da december 1996 cun la taglia sin il gudogn tras la vendita da bains immobigliars, pon las immobiglias ch'èn anc en possess vegnir augmentadas en la bilantscha fiscala per ils gudogns ch'èn suttamess a la taglia fin la fin da l'onn chalendar 2011 u 2012, senza che quai haja consequenzas per la taglia sin il gudogn. L'augment da la valur sto vegnir cudeschà sco augment da las reservas generalas.
 
+#### Art. 189d
+
+**e) stritgada da l'imposiziun da taglia sco societad cun status spezial**
+
+<sup>1</sup> Sche persunas giuridicas èn vegnidas suttamessas a la taglia tenor ils artitgels 89 fin 89b dal dretg vertent, vegnan las reservas zuppadas ch'existan a la fin da questa imposiziun da taglia, inclusiv la plivalur creada sez, suttamessas – en cas da lur realisaziun – separadamain a la taglia entaifer ils 5 onns suandants, uschenavant che quellas na fissan betg stadas suttamessas a la taglia fin lura. La taglia chantunala simpla importa 0,5 pertschient.
+
+<sup>2</sup> L'autezza da las reservas zuppadas che la persuna giuridica fa valair, inclusiv la plivalur creada sez, vegn fixada da l'autoritad da taxaziun a maun d'ina disposiziun.
+
+<sup>3</sup> Las amortisaziuns sin reservas zuppadas, inclusiv la plivalur creada sez, ch'èn vegnidas decleradas a la fin da l'imposiziun da taglia tenor ils artitgels 89 fin 89b dal dretg vertent, vegnan resguardadas per calcular la distgargia maximala tenor l'artitgel 81b.
+
 #### Art. 190
 
-**e) metter a quint taglias d'onns anteriurs**
+**f) metter a quint taglias d'onns anteriurs**
 
 <sup>1</sup> Sche l'onn da gestiun che terminescha durant l'onn chalendar 1987 tanscha fin en onns chalendars anteriurs, vegn la taglia che correspunda a questa perioda messa a quint tenor il dretg vegl a la taglia che pertutga la medema perioda e che vegn incassada tenor questa lescha.
 

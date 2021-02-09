@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Steuergesetz für den Kanton Graubünden
 language: de
-version: 2018-01-01
-corrected: 2019-07-11
-version_adopted: 2015-10-20
+version: 2020-01-01
+corrected: 2021-02-10
+version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2813/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Steuergesetz für den Kanton Graubünden
 
-Vom 08.06.1986 (Stand 01.01.2018)
+Vom 08.06.1986 (Stand 01.01.2020)
 
 Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
@@ -138,7 +138,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - a) Inhaber, Teilhaber oder Nutzniesser von geschäftlichen Betrieben im Kanton sind;
 - b) im Kanton Betriebsstätten unterhalten;
 - c) an Grundstücken im Kanton Eigentum, Nutzniessung oder ähnliche Rechte haben;
-- d) mit Grundstücken im Kanton handeln oder solche vermitteln.
+- d) mit Grundstücken im Kanton handeln.
 
 <sup>2</sup> Als Betriebsstätte gilt eine feste Geschäftseinrichtung, in der die Geschäftstätigkeit eines Unternehmens oder ein freier Beruf ganz oder teilweise ausgeübt wird.
 
@@ -153,8 +153,9 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - c) Gläubiger oder Nutzniesser von Forderungen sind, die durch im Kanton gelegene Grundstücke oder durch Grundpfandtitel auf solchen Grundstücken sichergestellt sind;
 - d) Pensionen, Ruhegehälter oder andere Vergütungen erhalten, die aufgrund eines früheren öffentlichen Arbeitsverhältnisses von einem Arbeitgeber oder einer Vorsorgeeinrichtung mit Sitz oder Betriebsstätte im Kanton ausgerichtet werden;
 - e) Leistungen aus schweizerischen privatrechtlichen Einrichtungen der beruflichen Vorsorge oder aus anerkannten Formen der gebundenen Selbstvorsorge erhalten;
-- f) als Arbeitnehmer von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton Lohn oder andere Vergütungen beziehen für Arbeit im internationalen Verkehr.
+- f) als Arbeitnehmer von einem Arbeitgeber mit Sitz oder Betriebsstätte im Kanton Lohn oder andere Vergütungen beziehen für Arbeit im internationalen Verkehr;
 - g) …
+- h) im Kanton gelegene Grundstücke vermitteln.
 
 <sup>2</sup> Kommen die Entgelte nicht den vorstehend genannten Personen, sondern Dritten zu, sind diese hiefür steuerpflichtig.
 
@@ -363,9 +364,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>3</sup> Wird bei einer Erbteilung der Geschäftsbetrieb nicht von allen Erben fortgeführt, so wird die Besteuerung der stillen Reserven auf Gesuch der den Betrieb übernehmenden Erben bis zur späteren Realisierung aufgeschoben, soweit diese Erben die bisherigen für die Einkommenssteuer massgebenden Werte übernehmen.
 
+#### Art. 18c
+
+**d) Einkommen aus Patenten und vergleichbaren Rechten**
+
+<sup>1</sup> Für das Einkommen aus Patenten und vergleichbaren Rechten bei selbständiger Erwerbstätigkeit sind die Artikel 79a und 79b sinngemäss anwendbar.
+
 #### Art. 19
 
-**d) Landwirtschaft**
+**e) Landwirtschaft**
 
 <sup>1</sup> Das landwirtschaftliche Einkommen ist nach dem Ergebnis der Buchhaltung oder aufgrund von Aufzeichnungen im Sinne von Artikel 127 Absatz 3 zu veranlagen.
 
@@ -375,7 +382,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 20
 
-**e) Umstrukturierungen**
+**f) Umstrukturierungen**
 
 <sup>1</sup> Stille Reserven einer Personenunternehmung (Einzelfirma, Personengesellschaft) werden bei Umstrukturierungen, insbesondere im Fall der Fusion, Spaltung oder Umwandlung, nicht besteuert, soweit die Steuerpflicht in der Schweiz fortbesteht und die bisher für die Einkommenssteuer massgeblichen Werte übernommen werden:
 
@@ -385,7 +392,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Bei einer Umstrukturierung nach Absatz 1 Litera b werden die übertragenen stillen Reserven im Verfahren nach Artikel 145 ff. nachträglich besteuert, soweit während der der Umstrukturierung nachfolgenden fünf Jahre Beteiligungs- oder Mitgliedschaftsrechte zu einem über dem übertragenen steuerlichen Eigenkapital liegenden Preis veräussert werden; die juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen.
 
-<sup>3</sup> Werden stille Reserven auf eine steuerbefreite Unternehmung oder auf eine nach Artikel 89–89b besteuerte juristische Person übertragen, wird über die stillen Reserven abgerechnet. Davon ausgenommen sind die stillen Reserven auf den Liegenschaften.
+<sup>3</sup> Werden stille Reserven auf eine steuerbefreite Unternehmung übertragen, wird über die stillen Reserven abgerechnet. Davon ausgenommen sind die stillen Reserven auf den Liegenschaften.
 
 #### Art. 21
 
@@ -400,7 +407,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - e) Einkünfte aus immateriellen Gütern;
 - f) Einkünfte aus Anteilen an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz[^21-2], soweit die Gesamterträge der kollektiven Kapitalanlage deren Erträge aus direktem Grundbesitz übersteigen.
 
-<sup>2</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital.
+<sup>2</sup> …
 
 [^21-1]: Bundesgesetz über die Verrechnungssteuer; SR [642.21](https://db.clex.ch/link/Bund/642.21/de)
 [^21-2]: Bundesgesetz über die kollektiven Kapitalanlagen vom 23. Juni 2006 (Kollektivanlagengesetz, KAG; SR [951.31](https://db.clex.ch/link/Bund/951.31/de))
@@ -409,7 +416,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 **b) Teilbesteuerung im Privatvermögen**
 
-<sup>1</sup> Zur Milderung der wirtschaftlichen Doppelbelastung bei massgebenden Beteiligungen sind Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen im Umfang von 60 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.
+<sup>1</sup> Zur Milderung der wirtschaftlichen Doppelbelastung bei massgebenden Beteiligungen sind Dividenden, Gewinnanteile, Liquidationsüberschüsse und geldwerte Vorteile aus Aktien, Anteilen an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteilen und Partizipationsscheinen im Umfang von 50 Prozent steuerbar, wenn diese Beteiligungsrechte mindestens 10 Prozent des Grund- oder Stammkapitals einer Kapitalgesellschaft oder Genossenschaft darstellen.
 
 #### Art. 21b
 
@@ -418,9 +425,27 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 <sup>1</sup> Als Vermögensertrag gilt auch:
 
 - a) Der Erlös aus dem Verkauf einer Beteiligung von mindestens 20 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer anderen natürlichen oder einer juristischen Person, soweit innert fünf Jahren nach dem Verkauf, unter Mitwirkung des Verkäufers, nicht betriebsnotwendige Substanz ausgeschüttet wird, die im Zeitpunkt des Verkaufs bereits vorhanden und handelsrechtlich ausschüttungsfähig war. Dies gilt sinngemäss auch, wenn innert fünf Jahren mehrere Beteiligte eine solche Beteiligung gemeinsam verkaufen oder Beteiligungen von insgesamt mindestens 20 Prozent verkauft werden. Ausgeschüttete Substanz wird beim Verkäufer gegebenenfalls im Verfahren nach Artikel 145 ff. nachträglich besteuert;
-- b) Der Erlös aus der Übertragung einer Beteiligung von mindestens 5 Prozent am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer oder Einbringer nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung den Nennwert der übertragenen Beteiligung übersteigt. Dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
+- b) Der Erlös aus der Übertragung einer Beteiligung am Grund- oder Stammkapital einer Kapitalgesellschaft oder Genossenschaft aus dem Privatvermögen in das Geschäftsvermögen einer Personenunternehmung oder einer juristischen Person, an welcher der Veräusserer oder Einbringer nach der Übertragung zu mindestens 50 Prozent am Kapital beteiligt ist, soweit die gesamthaft erhaltene Gegenleistung die Summe aus dem Nennwert der übertragenen Beteiligung und den Reserven aus Kapitaleinlagen nach Artikel 21c übersteigt. Dies gilt sinngemäss auch, wenn mehrere Beteiligte die Übertragung gemeinsam vornehmen.
 
 <sup>2</sup> Mitwirkung im Sinne von Absatz 1 Litera a liegt vor, wenn der Verkäufer weiss oder wissen muss, dass der Gesellschaft zwecks Finanzierung des Kaufpreises Mittel entnommen und nicht wieder zugeführt werden.
+
+#### Art. 21c
+
+**d) Kapitaleinlageprinzip**
+
+<sup>1</sup> Die Rückzahlung von Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen), die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital. Absatz 2 bleibt vorbehalten.
+
+<sup>2</sup> Schüttet eine Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1 nicht mindestens im gleichen Umfang übrige Reserven aus, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der in der Gesellschaft vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven.
+
+<sup>3</sup> Absatz 2 ist nicht anwendbar auf Reserven aus Kapitaleinlagen:
+
+- a) die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Artikel 83 Absatz 1 Litera c oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Artikel 83 Absatz 1 Litera d nach dem 24. Februar 2008 entstanden sind;
+- b) die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Artikel 83 Absatz 1 Litera b und Absatz 3 oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;
+- c) im Falle der Liquidation der Kapitalgesellschaft oder Genossenschaft.
+
+<sup>4</sup> Die Absätze 2 und 3 gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.
+
+<sup>5</sup> Entspricht bei der Rückgabe von Beteiligungsrechten an einer Kapitalgesellschaft oder Genossenschaft, die an einer schweizerischen Börse kotiert ist, die Rückzahlung der Reserven aus Kapitaleinlagen nicht mindestens der Hälfte des erhaltenen Liquidationsüberschusses, so vermindert sich der steuerbare Anteil dieses Liquidationsüberschusses um die halbe Differenz zwischen diesem Anteil und der Rückzahlung, höchstens aber im Umfang der in der Gesellschaft vorhandenen Reserven aus Kapitaleinlagen, die auf diese Beteiligungsrechte entfallen.
 
 #### Art. 22
 
@@ -507,8 +532,12 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - i) Lidlohnzahlungen, die von den Eltern oder Grosseltern in den bisherigen ordentlichen Veranlagungen nicht abgezogen wurden;
 - k) Zahlungen von Genugtuungssummen;
 - l) die Einkünfte aufgrund der Bundesgesetzgebung über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung sowie weitere Ergänzungsleistungen der öffentlichen Hand;
-- m) die bei Glücksspielen in Spielbanken im Sinne des Spielbankengesetzes erzielten Gewinne;
-- n) die einzelnen Gewinne aus einer Lotterie oder einer lotterieähnlichen Veranstaltung bis zu einem Betrag von 1000 Franken.
+- m) die Gewinne, die in Spielbanken mit Spielbankenspielen erzielt werden, die nach dem Bundesgesetz über Geldspiele vom 29. September 2017 (Geldspielgesetz, BGS)[^30-1] zugelassen sind, sofern diese Gewinne nicht aus selbständiger Erwerbstätigkeit stammen;
+- m<sup>bis</sup>) die einzelnen Gewinne bis zu einem Betrag von 1 Million Franken aus der Teilnahme an Grossspielen, die nach dem BGS zugelassen sind, und aus der Online-Teilnahme an Spielbankenspielen, die nach dem BGS zugelassen sind;
+- m<sup>ter</sup>) die Gewinne aus Kleinspielen, die nach dem BGS zugelassen sind;
+- n) die einzelnen Gewinne aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Litera d und e BGS diesem nicht unterstehen, sofern die Grenze von 1000 Franken nicht überschritten wird.
+
+[^30-1]: SR [935.51](https://db.clex.ch/link/Bund/935.51/de)
 
 #### Art. 31
 
@@ -545,9 +574,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 [^32-1]: Art. 12 ff. ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 [^32-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
+#### Art. 32a
+
+**b) Forschung und Entwicklung**
+
+<sup>1</sup> Für den Abzug von Forschungs- und Entwicklungsaufwand bei selbständiger Erwerbstätigkeit ist Artikel 81a sinngemäss anwendbar.
+
 #### Art. 33
 
-**b) Ersatzbeschaffung**
+**c) Ersatzbeschaffung**
 
 <sup>1</sup> Werden Gegenstände des betriebsnotwendigen Anlagevermögens ersetzt, so können die stillen Reserven auf die als Ersatz erworbenen Anlagegüter übertragen werden, wenn diese ebenfalls betriebsnotwendig sind. Vorbehalten bleibt die Besteuerung beim Ersatz von Liegenschaften durch Gegenstände des beweglichen Vermögens.
 
@@ -561,7 +596,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 34
 
-**c) Abzug von Verlusten**
+**d) Abzug von Verlusten**
 
 <sup>1</sup> Verlustüberschüsse aus den sieben der Steuerperiode vorangegangenen Geschäftsjahren können abgezogen werden, soweit sie für die Berechnung des steuerbaren Einkommens der Vorjahre nicht berücksichtigt werden konnten.
 
@@ -610,7 +645,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
   - 1\. im Parteienregister nach Artikel 76a des Bundesgesetzes vom 17. Dezember 1976 über die politischen Rechte eingetragen sind;
   - 2\. im kantonalen Parlament vertreten sind, oder
   - 3\. im Kanton bei den letzten Wahlen des kantonalen Parlaments mindestens 3 Prozent der Stimmen erreicht haben;
-- n) die Einsatzkosten in der Höhe von 5 Prozent der einzelnen Gewinne aus einer Lotterie oder einer lotterieähnlichen Veranstaltung (Art. 29 lit. g i. V. m. Art. 30 lit. n); der maximal zulässige Abzug beträgt 5000 Franken;
+- n) die Einsatzkosten in der Höhe von 5 Prozent, jedoch höchstens 5000 Franken, der einzelnen Gewinne aus der Teilnahme an Geldspielen, welche nicht nach Artikel 30 Absatz 1 Litera m-n steuerfrei sind. Von den einzelnen Gewinnen aus der Online-Teilnahme an Spielbankenspielen nach Artikel 30 Absatz 1 Litera m<sup>bis</sup> werden die vom Online-Spielerkonto abgebuchten Spieleinsätze im Steuerjahr abgezogen, jedoch höchstens 25 000 Franken;
 - o) die Kosten der berufsorientierten Aus- und Weiterbildung, einschliesslich der Umschulungskosten, bis zum Maximalbetrag gemäss Artikel 33 Absatz 1 Litera j des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^36-2], sofern:
   - 1\. ein erster Abschluss auf der Sekundarstufe II vorliegt; oder
   - 2\. das 20. Lebensjahr vollendet ist und es sich nicht um die Ausbildungskosten bis zum ersten Abschluss auf der Sekundarstufe II handelt.
@@ -641,7 +676,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - c) …
 - d)
   - 1\. 6000 Franken für jedes Kind im Vorschulalter, dessen finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
-  - 2\. 9000 Franken für ältere minderjährige Kinder sowie Kinder in schulischer oder beruflicher Ausblidung, deren finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
+  - 2\. 9000 Franken für ältere minderjährige Kinder sowie Kinder in schulischer oder beruflicher Ausbildung, deren finanziellen Unterhalt der Steuerpflichtige zur Hauptsache bestreitet;
   - 3\. Der Abzug erhöht sich auf 18 000 Franken, wenn sich das Kind während der Woche am Ausbildungsort aufhält;
 - e) …
 - f) 5000 Franken für jede erwerbsunfähige oder beschränkt erwerbsfähige Person, an deren Unterhalt der Steuerpflichtige mindestens in der Höhe des Abzuges beiträgt. Der Abzug kann nicht gewährt werden für Ehegatten und Konkubinatspartner sowie für Kinder, für die ein Elternteil oder ein Konkubinatspartner einen Kinderabzug beanspruchen kann;
@@ -661,7 +696,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Die Einkommenssteuer beträgt:
 
-- a) 0,0 % für die ersten Fr. 15 000.–
+- a) 0,0 % für die ersten Fr. 15 500.–
 - b) 2,5 % für die weiteren Fr. 1000.–
 - c) 4 % für die weiteren Fr. 1000.–
 - d) 5 % für die weiteren Fr. 1000.–
@@ -679,7 +714,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - q) 11,3 % für die weiteren Fr. 100 000.–
 - r) 11,4 % für die weiteren Fr. 100 000.–
 - s) 11,6 % für die weiteren Fr. 300 000.–
-- t) 11,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 700 000.– übersteigt.
+- t) 11,0 % für das gesamte steuerbare Einkommen, wenn dieses Fr. 700 500.– übersteigt.
 
 <sup>2</sup> Zur Ermittlung des Steuersatzes von gemeinsam steuerpflichtigen Ehegatten wird das steuerbare Einkommen durch den Divisor von 1.9 geteilt.
 
@@ -983,9 +1018,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>2</sup> Eine Rentenverpflichtung wird mit dem jeweiligen Barwert der Rente als Schuld berücksichtigt, ausser wenn sie unentgeltlich und in Erfüllung familienrechtlicher Pflichten zugesichert worden ist.
 
+#### Art. 62a
+
+**IV. Steuerermässigung auf Patenten**
+
+<sup>1</sup> Das Nettogeschäftsvermögen ermässigt sich im Verhältnis der Patente und der vergleichbaren Rechte nach Artikel 18c zum gesamten Geschäftsvermögen.
+
 #### Art. 63
 
-**IV. Steuerberechnung 1. Steuerfreie Beträge**
+**V. Steuerberechnung 1. Steuerfreie Beträge**
 
 <sup>1</sup> Für die Steuerberechnung werden vom Reinvermögen abgezogen:
 
@@ -1130,12 +1171,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - b) im Kanton Betriebsstätten unterhalten;
 - c) an Grundstücken im Kanton Eigentum, beschränkte dingliche Rechte oder diesen wirtschaftlich gleichkommende persönliche Nutzungsrechte haben;
 - d) alleine oder zusammen mit Dritten Beteiligungsrechte veräussern und dies wirtschaftlich der Veräusserung von Grundeigentum im Kanton gleichkommt;
-- e) im Kanton gelegene Grundstücke vermitteln oder damit handeln.
+- e) mit im Kanton gelegenen Grundstücken handeln.
 
 <sup>2</sup> Juristische Personen mit Sitz und tatsächlicher Verwaltung im Ausland sind ausserdem steuerpflichtig, wenn sie:
 
-- a) Gläubiger oder Nutzniesser von Forderungen sind, die durch Grundstücke im Kanton sichergestellt sind.
+- a) Gläubiger oder Nutzniesser von Forderungen sind, die durch Grundstücke im Kanton sichergestellt sind;
 - b) …
+- c) im Kanton gelegene Grundstücke vermitteln.
 
 <sup>3</sup> Als Betriebsstätte gilt eine feste Geschäftseinrichtung, in der die Geschäftstätigkeit eines Unternehmens ganz oder teilweise ausgeübt wird.
 
@@ -1217,7 +1259,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
   - 6\. Gewinnverschiebungen;
   - 7\. Gewinnvorwegnahmen;
   - 8\. geschäftsmässig nicht begründete Zuwendungen an Dritte;
-- c) aus den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Liquidations- und Aufwertungsgewinne; der Liquidation ist hinsichtlich der stillen Reserven die Verlegung des Sitzes, der Verwaltung eines geschäftlichen Betriebes oder einer Betriebsstätte ins Ausland gleichgestellt.
+- c) aus den der Erfolgsrechnung nicht gutgeschriebenen Erträgen, mit Einschluss der Kapital-, Liquidations- und Aufwertungsgewinne.
 - d) …
 
 <sup>2</sup> Leistungen an Gesellschafter oder nahestehende Personen sind zum wirklichen Wert zu bewerten.
@@ -1226,15 +1268,65 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 [^79-1]: Die Regierung hat mit RB vom 19. August 1997 Art. 79 Abs. 3 rückwirkend auf den 1. Januar 1997 in Kraft gesetzt; mit dem Inkrafttreten wird Art. 191 aufgehoben.
 
+#### Art. 79a
+
+**2. Patente und vergleichbare Rechte: Begriffe**
+
+<sup>1</sup> Als Patente gelten:
+
+- a) Patente nach dem Europäischen Patentübereinkommen vom 5. Oktober 1973 in seiner revidierten Fassung vom 29. November 2000[^79a-1] mit Benennung Schweiz;
+- b) Patente nach dem Patentgesetz vom 25. Juni 1954[^79a-2];
+- c) ausländische Patente, die den Patenten nach den Litera a oder b entsprechen.
+
+<sup>2</sup> Als vergleichbare Rechte gelten:
+
+- a) ergänzende Schutzzertifikate nach dem Patentgesetz vom 25. Juni 1954 und deren Verlängerung;
+- b) Topographien, die nach dem Topographiengesetz vom 9. Oktober 1992[^79a-3] geschützt sind;
+- c) Pflanzensorten, die nach dem Sortenschutzgesetz vom 20. März 1975[^79a-4] geschützt sind;
+- d) Unterlagen, die nach dem Heilmittelgesetz vom 15. Dezember 2000[^79a-5] geschützt sind;
+- e) Berichte, für die gestützt auf Ausführungsbestimmungen zum Landwirtschaftsgesetz vom 29. April 1998[^79a-6] ein Berichtschutz besteht;
+- f) ausländische Rechte, die den Rechten nach den Literas a-e entsprechen.
+
+[^79a-1]: SR [0.232.142.2](https://db.clex.ch/link/Bund/0.232.142.2/de)
+[^79a-2]: SR [232.14](https://db.clex.ch/link/Bund/232.14/de)
+[^79a-3]: SR [231.2](https://db.clex.ch/link/Bund/231.2/de)
+[^79a-4]: SR [232.16](https://db.clex.ch/link/Bund/232.16/de)
+[^79a-5]: SR [812.21](https://db.clex.ch/link/Bund/812.21/de)
+[^79a-6]: SR [910.1](https://db.clex.ch/link/Bund/910.1/de)
+
+#### Art. 79b
+
+**3. Patente und vergleichbare Rechte: Besteuerung**
+
+<sup>1</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten wird auf Antrag der steuerpflichtigen Person im Verhältnis des qualifizierenden Forschungs- und Entwicklungsaufwandes zum gesamten Forschungs- und Entwicklungsaufwand pro Patent oder vergleichbares Recht (Nexusquotient) mit einer Ermässigung von 90 Prozent in die Berechnung des steuerbaren Reingewinns einbezogen.
+
+<sup>2</sup> Der Reingewinn aus Patenten und vergleichbaren Rechten, die in Produkten enthalten sind, ermittelt sich, indem der Reingewinn aus diesen Produkten jeweils um 6 Prozent der diesen Produkten zugewiesenen Kosten sowie um das Markenentgelt vermindert wird.
+
+<sup>3</sup> Die ermässigte Besteuerung des Reingewinnes aus Patenten und vergleichbaren Rechten erfolgt nach Einbringung dieser Rechte in die Patentbox erst, soweit er den gesamten bis zur Einbringung entstandenen und steuerwirksam abgezogenen Forschungs- und Entwicklungsaufwand für diese Rechte sowie einen allfälligen Abzug nach Artikel 81a, soweit effektiv abziehbar, übersteigt. Im fünften Jahr nach Eintritt in die Patentbox ist über den noch nicht verrechneten Forschungs- und Entwicklungsaufwand sowie über einen allfälligen Abzug nach Artikel 81a abzurechnen. Die steuerpflichtige Person hat das Recht, den noch nicht verrechneten Forschungs- und Entwicklungsaufwand jederzeit zum steuerbaren Reingewinn hinzuzurechnen. Im Umfang des hinzugerechneten Betrages ist eine versteuerte stille Reserve zu bilden.
+
+<sup>4</sup> Verlegt die steuerpflichtige Person innerhalb der fünf Jahre den Sitz oder die tatsächliche Verwaltung ins Ausland oder in einen Kanton, der eine von Absatz 3 abweichende Besteuerung vorsieht, wird der noch nicht verrechnete Forschungs- und Entwicklungsaufwand inklusive Abzug nach Artikel 81a zum steuerbaren Reingewinn hinzugerechnet.
+
+<sup>5</sup> Die weiter führenden Regelungen des Bundesrates gemäss Artikel 24b Absatz 4 des Bundesgesetzes über die Harmonisierung der direkten Steuern der Kantone und Gemeinden[^79b-1] sind anwendbar.
+
+[^79b-1]: SR [642.14](https://db.clex.ch/link/Bund/642.14/de)
+
 #### Art. 80
 
-**2. Zinsen auf verdecktem Eigenkapital**
+**4. Zinsen auf verdecktem Eigenkapital**
 
 <sup>1</sup> Zum steuerbaren Gewinn der Kapitalgesellschaften und Genossenschaften gehören auch die Schuldzinsen jenes Teils des Fremdkapitals, der zum Eigenkapital zu rechnen ist.
 
+#### Art. 80a
+
+**5. Besteuerung stiller Reserven am Ende der Steuerpflicht**
+
+<sup>1</sup> Endet die Steuerpflicht, so werden die in diesem Zeitpunkt vorhandenen, nicht versteuerten stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes besteuert.
+
+<sup>2</sup> Als Ende der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Inland in einen ausländischen Geschäftsbetrieb oder in eine ausländische Betriebsstätte, der Übergang zu einer Steuerbefreiung nach Artikel 78 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung ins Ausland.
+
 #### Art. 81
 
-**3. Geschäftsmässig begründeter Aufwand**
+**6. Geschäftsmässig begründeter Aufwand**
 
 <sup>1</sup> Zum geschäftsmässig begründeten Aufwand gehören insbesondere:
 
@@ -1255,18 +1347,61 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 [^81-1]: Art. 12 ff. ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 [^81-2]: SR [831.40](https://db.clex.ch/link/Bund/831.40/de)
 
+#### Art. 81a
+
+**7. Zusätzlicher Abzug von Forschungs- und Entwicklungsaufwand**
+
+<sup>1</sup> Auf Antrag werden zusätzlich 50 Prozent des geschäftsmässig begründeten Forschungs- und Entwicklungsaufwandes, welcher der steuerpflichtigen Person direkt oder durch Dritte im Inland indirekt entstanden ist, zum Abzug zugelassen.
+
+<sup>2</sup> Als Forschung und Entwicklung gelten die wissenschaftliche Forschung und die wissenschaftsbasierte Innovation nach Artikel 2 des Bundesgesetzes vom 14. Dezember 2012 über die Förderung der Forschung und der Innovation[^81a-1].
+
+<sup>3</sup> Ein erhöhter Abzug ist zulässig auf:
+
+- a) dem direkt zurechenbaren Personalaufwand für Forschung und Entwicklung, zuzüglich eines Zuschlags von 35 Prozent dieses Personalaufwandes, höchstens aber bis zum gesamten Aufwand der steuerpflichtigen Person;
+- b) 80 Prozent des Aufwandes für durch Dritte in Rechnung gestellte Forschung und Entwicklung.
+
+<sup>4</sup> Ist der Auftraggeber der Forschung und Entwicklung abzugsberechtigt, steht dem Auftragnehmer dafür kein Abzug zu.
+
+[^81a-1]: SR [420.1](https://db.clex.ch/link/Bund/420.1/de)
+
+#### Art. 81b
+
+**8. Entlastungsbegrenzung**
+
+<sup>1</sup> Die gesamte steuerliche Ermässigung nach Artikel 79b Absätze 1 und 2 und Artikel 81a sowie aufgrund der Abschreibungen nach Artikel 189d Absatz 3 darf nicht höher sein als 55 Prozent des steuerbaren Gewinnes vor Verlustverrechnung, wobei der Nettobeteiligungsertrag nach Artikel 88 und 88a ausgeklammert wird, und vor Abzug der vorgenommenen Ermässigungen.
+
+<sup>2</sup> Weder aus den einzelnen Ermässigungen noch aus der gesamten steuerlichen Ermässigung dürfen Verlustvorträge resultieren.
+
+<sup>3</sup> Allfällige Kürzungen sind in folgender Reihenfolge vorzunehmen:
+
+- a) zusätzlicher Abzug für den Forschungs- und Entwicklungsaufwand (Art. 81a);
+- b) Abschreibungen auf den aufgedeckten stillen Reserven (Art. 189d Abs. 3);
+- c) Ermässigung für Erträge aus Patenten und vergleichbaren Rechten (Art. 79b).
+
 #### Art. 82
 
-**4. Erfolgsneutrale Vorgänge**
+**9. Erfolgsneutrale Vorgänge**
 
 <sup>1</sup> Kein steuerbarer Gewinn entsteht durch:
 
 - a) Kapitaleinlagen von Mitgliedern von Kapitalgesellschaften und Genossenschaften, einschliesslich der Aufgelder;
 - b) Kapitalzuwachs aus Erbschaft, Vermächtnis und Schenkung.
 
+#### Art. 82a
+
+**10. Aufdeckung der stillen Reserven bei Beginn der Steuerpflicht**
+
+<sup>1</sup> Deckt die steuerpflichtige Person bei Beginn der Steuerpflicht stille Reserven einschliesslich des selbst geschaffenen Mehrwertes auf, so unterliegen diese nicht der Gewinnsteuer. Nicht aufgedeckt werden dürfen stille Reserven einer Kapitalgesellschaft oder Genossenschaft aus Beteiligungen von mindestens 10 Prozent am Grund- oder Stammkapital oder am Gewinn und an den Reserven einer anderen Gesellschaft.
+
+<sup>2</sup> Als Beginn der Steuerpflicht gelten die Verlegung von Vermögenswerten, Betrieben, Teilbetrieben oder Funktionen aus dem Ausland in einen inländischen Geschäftsbetrieb oder in eine inländische Betriebsstätte, das Ende einer Steuerbefreiung nach Artikel 78 sowie die Verlegung des Sitzes oder der tatsächlichen Verwaltung in die Schweiz.
+
+<sup>3</sup> Die aufgedeckten stillen Reserven sind jährlich zum Satz abzuschreiben, der für Abschreibungen auf den betreffenden Vermögenswerten steuerlich angewendet wird.
+
+<sup>4</sup> Der aufgedeckte selbst geschaffene Mehrwert ist innert zehn Jahren abzuschreiben.
+
 #### Art. 83
 
-**5. Umstrukturierungen**
+**11. Umstrukturierungen**
 
 <sup>1</sup> Stille Reserven einer juristischen Person werden bei Umstrukturierungen, insbesondere im Fall der Fusion, Spaltung oder Umwandlung, nicht besteuert, soweit die Steuerpflicht in der Schweiz fortbesteht und die bisher für die Gewinnsteuer massgeblichen Werte übernommen werden:
 
@@ -1281,13 +1416,13 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>4</sup> Werden im Fall einer Übertragung nach Absatz 3 während der nachfolgenden fünf Jahre die übertragenen Vermögenswerte veräussert oder wird während dieser Zeit die einheitliche Leitung aufgegeben, so werden die übertragenen stillen Reserven im Verfahren nach Artikel 145 ff. nachträglich besteuert. Die begünstigte juristische Person kann in diesem Fall entsprechende, als Gewinn versteuerte stille Reserven geltend machen. Die im Zeitpunkt der Sperrfristverletzung unter einheitlicher Leitung zusammengefassten inländischen Kapitalgesellschaften und Genossenschaften haften für die Nachsteuer solidarisch.
 
-<sup>5</sup> Werden stille Reserven auf eine steuerbefreite Unternehmung oder auf eine nach Artikel 89–89b besteuerte juristische Person übertragen, wird über die stillen Reserven abgerechnet. Davon ausgenommen sind die stillen Reserven auf den Liegenschaften sowie auf Beteiligungen nach Artikel 88a.
+<sup>5</sup> Werden stille Reserven auf eine steuerbefreite Unternehmung übertragen, wird über die stillen Reserven abgerechnet. Davon ausgenommen sind die stillen Reserven auf den Liegenschaften sowie auf Beteiligungen nach Artikel 88a.
 
 <sup>6</sup> Entsteht durch die Übernahme der Aktiven und Passiven einer Kapitalgesellschaft oder einer Genossenschaft, deren Beteiligungsrechte der übernehmenden Kapitalgesellschaft oder Genossenschaft gehören, ein Buchverlust auf der Beteiligung, so kann dieser steuerlich nicht abgezogen werden; ein allfälliger Buchgewinn auf der Beteiligung wird besteuert.
 
 #### Art. 84
 
-**6. Ersatzbeschaffung**
+**12. Ersatzbeschaffung**
 
 <sup>1</sup> Werden Gegenstände des betriebsnotwendigen Anlagevermögens ersetzt, so können die stillen Reserven auf die als Ersatz erworbenen Anlagegüter übertragen werden, wenn diese ebenfalls betriebsnotwendig sind. Vorbehalten bleibt die Besteuerung beim Ersatz von Liegenschaften durch Gegenstände des beweglichen Vermögens.
 
@@ -1303,7 +1438,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 85
 
-**7. Sondervorschriften für Vereine, Stiftungen und kollektive Kapitalanlagen**
+**13. Sondervorschriften für Vereine, Stiftungen und kollektive Kapitalanlagen**
 
 <sup>1</sup> Die statutarischen Mitgliederbeiträge an die Vereine und die Einlagen in das Vermögen der Stiftungen werden nicht zum steuerbaren Gewinn gerechnet.
 
@@ -1313,7 +1448,7 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 86
 
-**8. Verlustverrechnung**
+**14. Verlustverrechnung**
 
 <sup>1</sup> Vom Reingewinn der Steuerperiode können Verlustüberschüsse aus den sieben der Steuerperiode vorangehenden Geschäftsperioden abgezogen werden, soweit sie den steuerbaren Reingewinn der Vorperioden nicht vermindert haben.
 
@@ -1321,18 +1456,19 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>3</sup> Die Absätze 1 und 2 gelten auch bei Verlegung des Sitzes oder der tatsächlichen Verwaltung innerhalb der Schweiz.
 
+<sup>4</sup> Für die nach Artikel 89 bis 89b des bisherigen Rechts besteuerten Gesellschaften besteht ein Anspruch auf Verlustverrechnung nur soweit positive Ergebnisse als Gewinn besteuert worden wären.
+
 #### Art. 87
 
 **II. Steuerberechnung 1. Im allgemeinen**
 
-<sup>1</sup> Die Gewinnsteuer beträgt 5,5 Prozent.
+<sup>1</sup> Die Gewinnsteuer beträgt 4,5 Prozent.
 
 <sup>2</sup> Juristische Personen mit ideellen Zwecken zahlen keine Gewinnsteuer, sofern ihr steuerbarer Gewinn die Limite von Artikel 66a des Bundesgesetzes über die direkte Bundessteuer vom 14. Dezember 1990 (DBG)[^87-1] nicht übersteigt und ausschliesslich und unwiderruflich diesen Zwecken gewidmet ist.
 
-<sup>3</sup> Juristische Personen mit den Merkmalen einer Domizilgesellschaft im Sinne von Artikel 89a oder einer gemischten Gesellschaft im Sinne von Artikel 89b mit überwiegenden Passiveinkünften aus in- oder ausländischen Konzerngesellschaften entrichten eine Steuer von 8,5 Prozent auf den Gewinnen aus Passiveinkünften. Die übrigen Gewinne unterliegen der ordentlichen Gewinnsteuer nach Artikel 89a. Vorbehalten bleiben Artikel 88 und 88a[^87-2].
+<sup>3</sup> Gehört eine Kapitalgesellschaft oder Genossenschaft zu einem internationalen Konzern, wird der Steuersatz auf Antrag soweit angehoben, dass zusammen mit der direkten Bundessteuer die vom ausländischen Staat akzeptierte minimale Steuerbelastung erreicht wird.
 
 [^87-1]: SR [642.11](https://db.clex.ch/link/Bund/642.11/de)
-[^87-2]: Art. 24 ABzStG; BR [720.015](https://www.gr-lex.gr.ch/data/720.015/de)
 
 #### Art. 88
 
@@ -1368,39 +1504,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 89
 
-**3. Holdinggesellschaften**
-
-<sup>1</sup> Juristische Personen, deren Zweck zur Hauptsache in der dauernden Verwaltung von Beteiligungen besteht und die in der Schweiz keine Geschäftstätigkeit ausüben, entrichten keine Gewinnsteuer, sofern die Beteiligungen oder die Erträge aus ihnen längerfristig mindestens zwei Drittel der gesamten Aktiven oder Erträge ausmachen.
-
-<sup>2</sup> Die Gewinnsteuer in eigener Progression wird jedoch erhoben:
-
-- a) auf den Erträgen aus schweizerischem Grundeigentum, unter Berücksichtigung der Abzüge, die einer üblichen hypothekarischen Belastung entsprechen;
-- b) auf den Erträgen, für die eine Entlastung von ausländischen Quellensteuern beansprucht wird und für die ein Staatsvertrag die ordentliche Besteuerung in der Schweiz voraussetzt;
-- c) auf Gewinnen, wenn die juristische Person alleine oder zusammen mit Dritten Beteiligungsrechte veräussert und dies wirtschaftlich der Veräusserung von Grundeigentum im Kanton gleichkommt.
-
-<sup>3</sup> …
+**…**
 
 #### Art. 89a
 
-**4. Domizilgesellschaften**
-
-<sup>1</sup> Juristische Personen, die in der Schweiz eine Verwaltungstätigkeit, aber keine Geschäftstätigkeit ausüben, entrichten keine Gewinnsteuern für Erträge aus Beteiligungen im Sinne von Artikel 88 sowie auf Kapital- und Aufwertungsgewinnen auf solchen Beteiligungen.
-
-<sup>2</sup> Sie entrichten jedoch die Gewinnsteuer in eigener Progression:
-
-- a) auf den übrigen Erträgen aus der Schweiz, einschliesslich der Kapital- und Aufwertungsgewinne;
-- b) auf einem Anteil der übrigen Erträge aus dem Ausland, einschliesslich der Kapital- und Aufwertungsgewinne, nach der Bedeutung der Verwaltungstätigkeit in der Schweiz;
-- c) auf Gewinnen, wenn sie alleine oder zusammen mit Dritten Beteiligungsrechte veräussern und dies wirtschaftlich der Veräusserung von Grundeigentum im Kanton gleichkommt.
-
-<sup>3</sup> Von der Ermässigung gemäss Absatz 2 Litera b ausgeschlossen sind Erträge, für die eine Entlastung von ausländischen Quellensteuern beansprucht wird und für die ein Staatsvertrag die ordentliche Besteuerung in der Schweiz voraussetzt.
-
-<sup>4</sup> Der geschäftsmässig begründete Aufwand, der mit bestimmten Erträgen in wirtschaftlichem Zusammenhang steht, wird von diesen vorweg abgezogen. Verluste aus Beteiligungen gemäss Absatz 1 können nur mit Erträgen aus solchen Beteiligungen verrechnet werden.
+**…**
 
 #### Art. 89b
 
-**5. Gemischte Gesellschaften**
-
-<sup>1</sup> Kapitalgesellschaften und Genossenschaften, deren Geschäftstätigkeit überwiegend auslandsbezogen ist und die in der Schweiz nur eine untergeordnete Geschäftstätigkeit ausüben, entrichten die Gewinnsteuer gemäss Artikel 89a. Die übrigen Einkünfte aus dem Ausland werden nach Massgabe des Umfangs der Geschäftstätigkeit in der Schweiz besteuert.
+**…**
 
 ### 2.3. Kapitalsteuer
 
@@ -1416,6 +1528,8 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 - b) bei Vereinen, Stiftungen und den übrigen juristischen Personen aus dem Reinvermögen, wie es nach den Bestimmungen für die natürlichen Personen berechnet wird.
 
 <sup>3</sup> Das steuerbare Eigenkapital von Kapitalgesellschaften und Genossenschaften wird um jenen Teil des Fremdkapitals erhöht, dem wirtschaftlich die Bedeutung von Eigenkapital zukommt.
+
+<sup>4</sup> Das steuerbare Eigenkapital ermässigt sich im Verhältnis der Beteiligungen nach Artikel 88, der Rechte nach Artikel 79a und der Darlehen an Konzerngesellschaften zu den gesamten Aktiven. Diese Ermässigung wird Gesellschaften mit einer Kapitalbesteuerung nach Artikel 92 nicht gewährt.
 
 #### Art. 90a
 
@@ -1445,11 +1559,15 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 #### Art. 92
 
-**2. Domizil- und Holdinggesellschaften**
+**2. Gesellschaften ohne Geschäftstätigkeit**
 
-<sup>1</sup> Das steuerbare Eigenkapital besteht bei Holding- und Domizilgesellschaften sowie bei den nach Artikel 87 Absatz 3 besteuerten juristischen Personen aus dem einbezahlten Grund- oder Stammkapital, den offenen Reserven und jenem Teil der stillen Reserven, der im Falle der Gewinnbesteuerung aus versteuertem Gewinn gebildet worden wäre. Die Kapitalsteuer beträgt 0.05 Promille, mindestens jedoch 300 Franken.
+<sup>1</sup> Juristische Personen ohne eigentliche Geschäftstätigkeit in der Schweiz werden auf Antrag einer tieferen Kapitalsteuer unterstellt. Es sind dies die:
 
-<sup>2</sup> Die Gewinn- und Kapitalsteuer für die Gemeinden sowie die Kultussteuer werden nicht erhoben.
+- a) juristischen Personen, deren Zweck in der dauernden Verwaltung von Beteiligungen besteht, sofern die Beteiligungen oder die Erträge aus ihnen mindestens zwei Drittel der gesamten Aktiven oder Erträge ausmachen;
+- b) juristischen Personen, die in der Schweiz eine blosse Verwaltungstätigkeit ausserhalb des Immobilienbereichs ausüben;
+- c) juristischen Personen, deren Geschäftstätigkeit überwiegend auslandbezogen ist und sich auf untergeordnete Funktionen im Konzern beschränkt.
+
+<sup>2</sup> Die einfache Kantonssteuer beträgt 0,05 Promille, mindestens jedoch 200 Franken.
 
 <sup>3</sup> …
 
@@ -3128,9 +3246,19 @@ Vom Volke angenommen am 8. Juni 1986[^ingress-1]
 
 <sup>1</sup> Wurde nach dem 31. Dezember 1996 der Verkauf der Aktien an einer Immobiliengesellschaft mit der Grundstückgewinnsteuer erfasst, können die noch gehaltenen Liegenschaften in der Steuerbilanz endend im Kalenderjahr 2011 oder 2012 ohne Gewinnsteuerfolgen um die besteuerten Gewinne aufgewertet werden. Die Aufwertung muss als Erhöhung der allgemeinen Reserven verbucht werden.
 
+#### Art. 189d
+
+**e) Streichung der Besteuerung als Statusgesellschaft**
+
+<sup>1</sup> Wurden juristische Personen nach Artikel 89 bis 89b des bisherigen Rechts besteuert, so werden die bei Ende dieser Besteuerung bestehenden stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den nächsten fünf Jahren gesondert besteuert. Die einfache Kantonssteuer beträgt 0,5 Prozent.
+
+<sup>2</sup> Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes wird von der Veranlagungsbehörde mittels Verfügung festgesetzt.
+
+<sup>3</sup> Abschreibungen auf stillen Reserven einschliesslich des selbst geschaffenen Mehrwertes, die bei Ende der Besteuerung nach Artikel 89 bis 89b des bisherigen Rechts aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach Artikel 81b einbezogen.
+
 #### Art. 190
 
-**e) Anrechnung von Steuern früherer Jahre**
+**f) Anrechnung von Steuern früherer Jahre**
 
 <sup>1</sup> Soweit das im Kalenderjahr 1987 zu Ende gehende Geschäftsjahr in frühere Kalenderjahre hineinreicht, wird die diesem Zeitraum entsprechende Steuer nach bisherigem Recht auf die auf den gleichen Zeitraum entfallende, gemäss diesem Gesetz erhobene Steuer angerechnet.
 

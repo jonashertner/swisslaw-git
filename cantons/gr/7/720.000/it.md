@@ -3,20 +3,20 @@ canton: GR
 number: "720.000"
 title: Legge sulle imposte per il Cantone dei Grigioni
 language: it
-version: 2018-01-01
-corrected: 2019-07-11
-version_adopted: 2015-10-20
+version: 2020-01-01
+corrected: 2021-02-10
+version_adopted: 2020-10-20
 adopted: 1986-06-08
 in_force: 1987-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/720.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2813/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3009/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Legge sulle imposte per il Cantone dei Grigioni
 
-del 08.06.1986 (stato 01.01.2018)
+del 08.06.1986 (stato 01.01.2020)
 
 accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
@@ -138,7 +138,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - a) sono titolari, socie o usufruttuarie di aziende commerciali nel Cantone,
 - b) conducono stabilimenti d'impresa nel Cantone,
 - c) hanno proprietà, usufrutto o simili diritti su fondi nel Cantone,
-- d) commerciano con fondi situati nel Cantone o fungono da intermediari degli stessi.
+- d) commerciano con fondi situati nel Cantone.
 
 <sup>2</sup> Per stabilimento d'impresa si intende una sede fissa di affari o di lavoro dove si svolge, in tutto o in parte, l'attività di un'impresa o di una libera professione.
 
@@ -153,8 +153,9 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - c) sono beneficiarie o usufruttuarie di crediti garantiti da fondi situati nel Cantone o da titoli di pegno immobiliare posti sugli stessi,
 - d) godono di pensioni, rendite o altri compensi versati in base ad un precedente rapporto di lavoro di diritto pubblico da un datore di lavoro o da un istituto di previdenza avente la sede o uno stabilimento d'impresa nel Cantone,
 - e) ricevono prestazioni da istituzioni della previdenza professionale svizzere di diritto privato o da forme riconosciute della previdenza individuale vincolata,
-- f) quali lavoratori dipendenti ricevono da un datore di lavoro avente la sua sede o il suo stabilimento d'impresa nel Cantone uno stipendio o altri compensi per lavoro svolto nei trasporti internazionali,
+- f) quali lavoratori dipendenti ricevono da un datore di lavoro avente la sua sede o il suo stabilimento d'impresa nel Cantone uno stipendio o altri compensi per lavoro svolto nei trasporti internazionali;
 - g) …
+- h) fungono da intermediari di fondi situati nel Cantone.
 
 <sup>2</sup> Se le retribuzioni non spettano alle persone suddette bensì a terzi, questi ultimi sono imponibili per esse.
 
@@ -363,9 +364,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>3</sup> Se in caso di divisione ereditaria l'azienda commerciale non è proseguita da tutti gli eredi, su domanda degli eredi che riprendono l'azienda l'imposizione delle riserve occulte è differita sino al momento della loro realizzazione, purché la ripresa avvenga ai valori fino a quel momento determinanti ai fini dell'imposta sul reddito.
 
+#### Art. 18c
+
+**d) Redditi da brevetti e diritti analoghi**
+
+<sup>1</sup> Ai redditi da brevetti e diritti analoghi in caso di attività lucrativa indipendente si applicano per analogia gli articoli 79a e 79b.
+
 #### Art. 19
 
-**d) Agricoltura**
+**e) Agricoltura**
 
 <sup>1</sup> Il reddito agricolo deve essere tassato secondo il risultato della contabilità o in base a distinte ai sensi dell'articolo 127 capoverso 3.
 
@@ -375,7 +382,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 20
 
-**e) Ristrutturazioni**
+**f) Ristrutturazioni**
 
 <sup>1</sup> Le riserve occulte di un'impresa di persone (ditta individuale, società di persone) non sono imponibili nell'ambito di ristrutturazioni, in particolare in caso di fusione, di scissione o di trasformazione, se l'impresa rimane assoggettata all'imposta in Svizzera e gli elementi fino ad allora determinanti per l'imposta sul reddito vengono ripresi:
 
@@ -385,7 +392,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>2</sup> Nell'ambito di una ristrutturazione ai sensi del capoverso 1 lettera b, le riserve occulte trasferite sono tassate a posteriori secondo la procedura di cui all'articolo 145 e segg., se nei cinque anni seguenti la ristrutturazione diritti di partecipazione o societari sono alienati a un prezzo superiore al valore fiscalmente determinante del capitale proprio trasferito; la persona giuridica può in tal caso far valere corrispondenti riserve occulte già tassate come utili.
 
-<sup>3</sup> Se riserve occulte vengono trasferite ad un'impresa esente da imposta o ad una persona giuridica tassata secondo gli articoli 89–89b, l'imposizione avviene tramite le riserve occulte. Fanno eccezione le riserve occulte sugli immobili.
+<sup>3</sup> Se riserve occulte vengono trasferite ad un'impresa esente da imposta, l'imposizione avviene tramite le riserve occulte. Fanno eccezione le riserve occulte sugli immobili.
 
 #### Art. 21
 
@@ -400,13 +407,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - e) le entrate derivanti da beni immateriali,
 - f) i proventi da quote di partecipazione a investimenti collettivi di capitale conformemente alla legge sugli investimenti collettivi ), nella misura in cui la totalità dei proventi dell'investimento collettivo di capitale supera i proventi del possesso fondiario diretto.
 
-<sup>2</sup> Il rimborso degli apporti, dell'aggio e dei pagamenti suppletivi forniti dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico al rimborso del capitale azionario o sociale.
+<sup>2</sup> …
 
 #### Art. 21a
 
 **b) Imposizione parziale nella sostanza privata**
 
-<sup>1</sup> Al fine di attenuare la doppia imposizione economica in caso di partecipazioni determinanti, i dividendi, le quote di utili, le eccedenze di liquidazione come pure le prestazioni valutabili in denaro provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipazione sono imponibili in ragione del 60 per cento se questi diritti di partecipazione rappresentano almeno il 10 per cento del capitale azionario o sociale di una società di capitali o di una società cooperativa.
+<sup>1</sup> Al fine di attenuare la doppia imposizione economica in caso di partecipazioni determinanti, i dividendi, le quote di utili, le eccedenze di liquidazione come pure le prestazioni valutabili in denaro provenienti da azioni, quote in società a garanzia limitata o in società cooperative e buoni di partecipazione sono imponibili in ragione del 50 per cento se questi diritti di partecipazione rappresentano almeno il 10 per cento del capitale azionario o sociale di una società di capitali o di una società cooperativa.
 
 #### Art. 21b
 
@@ -415,9 +422,27 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 <sup>1</sup> È considerato reddito da sostanza anche:
 
 - a) il ricavo della vendita di una partecipazione del 20 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, con trasferimento dal patrimonio privato al patrimonio commerciale di un'altra persona fisica o di una persona giuridica, sempre che nei cinque anni dopo la vendita venga distribuita, con la collaborazione del venditore, sostanza non necessaria all'esercizio aziendale che esisteva già al momento della vendita e che già allora avrebbe potuto essere distribuita secondo il diritto commerciale. Ciò vale per analogia anche quando, nell'arco di cinque anni, più partecipanti vendono in comune una tale partecipazione o vengono vendute partecipazioni per un totale di almeno il 20 per cento. La sostanza distribuita è se del caso tassata presso il venditore in procedura di recupero d'imposta secondo gli articoli 145 e segg.;
-- b) il ricavo del trasferimento di una partecipazione del 5 per cento almeno al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un'impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione di almeno il 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi il valore nominale della partecipazione trasferita. Questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
+- b) il ricavo del trasferimento di una partecipazione al capitale azionario o sociale di una società di capitali o di una società cooperativa, dal patrimonio privato a quello commerciale di un'impresa di persone o di una persona giuridica in cui, dopo il trasferimento, il venditore o il conferente partecipa in ragione di almeno il 50 per cento al capitale, per quanto il totale della controprestazione ricevuta superi la somma tra valore nominale della partecipazione trasferita e le riserve da apporti di capitale secondo l'articolo 21c. Questa regola si applica per analogia anche nel caso in cui diversi partecipanti attuino il trasferimento in comune.
 
 <sup>2</sup> Vi è collaborazione ai sensi del capoverso 1 lettera a quando il venditore sa o è tenuto a sapere che per finanziare il prezzo d'acquisto dalla società vengono prelevati mezzi a fondo perso.
+
+#### Art. 21c
+
+**d) Principio dell'apporto di capitale**
+
+<sup>1</sup> Il rimborso degli apporti, dell'aggio e dei pagamenti suppletivi (riserve da apporti di capitale) forniti dai titolari dei diritti di partecipazione dopo il 31 dicembre 1996 è trattato in modo identico al rimborso del capitale azionario o sociale. È fatto salvo il capoverso 2.
+
+<sup>2</sup> Se, in occasione del rimborso di riserve da apporti di capitale di cui al capoverso 1, una società di capitali o società cooperativa quotata in una borsa svizzera non distribuisce altre riserve almeno per un importo equivalente, il rimborso è imponibile per un importo pari alla metà della differenza tra il rimborso stesso e la distribuzione delle altre riserve, ma al massimo per un importo pari a quello delle altre riserve disponibili nella società che possono essere distribuite in virtù del diritto commerciale.
+
+<sup>3</sup> Il capoverso 2 non è applicabile alle riserve da apporti di capitale:
+
+- a) costituite, dopo il 24 febbraio 2008, mediante il conferimento di diritti di partecipazione o societari a una società di capitali o società cooperativa estera nell'ambito di concentrazioni aventi carattere di fusione ai sensi dell'articolo 83 capoverso 1 lettera c o mediante un trasferimento transfrontaliero a una filiale svizzera ai sensi dell'articolo 83 capoverso 1 lettera d;
+- b) già esistenti in una società di capitali o società cooperativa estera, dopo il 24 febbraio 2008, al momento di una fusione o ristrutturazione transfrontaliera ai sensi dell'articolo 83 capoverso 1 lettera b e capoverso 3 o del trasferimento della sede o dell'amministrazione effettiva;
+- c) in caso di liquidazione della società di capitali o società cooperativa.
+
+<sup>4</sup> I capoversi 2 e 3 si applicano per analogia anche alle riserve da apporti di capitale utilizzate per l'emissione di azioni gratuite o gli aumenti gratuiti del valore nominale.
+
+<sup>5</sup> Se, in occasione della vendita di diritti di partecipazione a una società di capitali o società cooperativa che è quotata in una borsa svizzera e li ha emessi, il rimborso delle riserve da apporti di capitale non corrisponde almeno alla metà dell'eccedenza di liquidazione ottenuta, la parte imponibile di questa eccedenza di liquidazione è ridotta della metà della differenza tra la parte stessa e il rimborso, ma al massimo di un importo pari a quello delle riserve da apporti di capitale disponibili nella società e imputabili a tali diritti di partecipazione.
 
 #### Art. 22
 
@@ -504,8 +529,12 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - i) i compensi per la contribuzione alle spese e dei lavori domestici che non sono stati dedotti dai genitori o nonni nelle precedenti tassazioni ordinarie,
 - k) i pagamenti di somme per riparazione morale,
 - l) le entrate in base alla legislazione federale sulle prestazioni complementari all'assicurazione per la vecchiaia, i superstiti e l'invalidità nonché altre prestazioni complementari dell'ente pubblico,
-- m) gli utili conseguiti con giochi d'azzardo praticati in case da gioco ai sensi della legge sulle case da gioco.
-- n) i proventi da lotterie e da manifestazioni analoghe fino a un importo di 1000 franchi.
+- m) le vincite ai giochi da casinò ammessi secondo la legge federale sui giochi in denaro del 29 settembre 2017 (LGD)[^30-1] realizzate nelle case da gioco, purché tali vincite non provengano da un'attività lucrativa indipendente;
+- m<sup>bis</sup>) le singole vincite fino a un milione di franchi ai giochi di grande estensione ammessi secondo la LGD e ai giochi da casinò in linea ammessi secondo la LGD;
+- m<sup>ter</sup>) le vincite ai giochi di piccola estensione ammessi secondo la LGD;
+- n) le singole vincite alle lotterie e ai giochi di destrezza destinati a promuovere le vendite che secondo l'articolo 1 capoverso 2 lettere d ed e LGD non sottostanno a quest'ultima, purché non superino il limite di 1000 franchi.
+
+[^30-1]: RS [935.51](https://db.clex.ch/link/Bund/935.51/it)
 
 #### Art. 31
 
@@ -542,9 +571,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 [^32-1]: Art. 12 segg. DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 [^32-2]: RS [831.40](https://db.clex.ch/link/Bund/831.40/it)
 
+#### Art. 32a
+
+**b) Ricerca e sviluppo**
+
+<sup>1</sup> Alla deduzione delle spese di ricerca e sviluppo in caso di attività lucrativa indipendente si applica per analogia l'articolo 81a.
+
 #### Art. 33
 
-**b) Sostituzione di beni**
+**c) Sostituzione di beni**
 
 <sup>1</sup> In caso di sostituzione di immobilizzi necessari all'azienda, le riserve occulte possono essere trasferite su beni sostitutivi se questi beni sono parimenti necessari all'azienda. Rimane salva l'imposizione in caso di sostituzione di immobili con beni mobili.
 
@@ -558,7 +593,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 34
 
-**c) Deduzione delle perdite**
+**d) Deduzione delle perdite**
 
 <sup>1</sup> Le eccedenze di perdite dei sette esercizi commerciali precedenti il periodo fiscale possono venir dedotte per quanto non abbiano potuto essere considerate nel calcolo del reddito imponibile degli anni precedenti.
 
@@ -607,7 +642,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
   - 1\. sono iscritti nel registro dei partiti secondo l'articolo 76a della legge federale del 17 dicembre 1976 sui diritti politici,
   - 2\. sono rappresentati nel Parlamento cantonale o che
   - 3\. nelle ultime elezioni del Parlamento cantonale hanno raggiunto almeno il 3 per cento dei suffragi,
-- n) i costi delle poste giocate per un importo pari al 5 per cento dei singoli proventi da lotterie o da manifestazioni analoghe (art. 29 lett. g in unione con l'art. 30 lett. n); la deduzione massima consentita ammonta a 5000 franchi,
+- n) i costi delle poste giocate pari al 5 per cento, tuttavia al massimo 5000 franchi, delle singole vincite dalla partecipazione ai giochi in denaro non esentate dall'imposta conformemente all'articolo 30 capoverso 1 lettere m-n. Dalle singole vincite ai giochi da casinò in linea di cui all'articolo 30 capoverso 1 lettera m<sup>bis</sup> sono dedotte le poste prelevate durante l'anno fiscale dal conto in linea del giocatore, tuttavia al massimo 25 000 franchi,
 - o) le spese di formazione e perfezionamento professionali, comprese le spese di riqualificazione, fino all'importo massimo di cui all'articolo 33 capoverso 1 lettera j della legge federale sull'imposta federale diretta del 14 dicembre 1990 (LIFD)[^36-2], purché il contribuente:
   - 1\. abbia conseguito un diploma del livello secondario II, oppure
   - 2\. abbia compiuto i 20 anni e non si tratti di costi di formazione sostenuti fino al conseguimento di un primo diploma del livello secondario II.
@@ -658,7 +693,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> L'imposta sul reddito comporta:
 
-- a) 0,0 % per i primi fr. 15 000.–,
+- a) 0,0 % per i primi fr. 15 500.–,
 - b) 2,5 % per ulteriori fr. 1000.–,
 - c) 4 % per ulteriori fr. 1000.–,
 - d) 5 % per ulteriori fr. 1000.–,
@@ -676,7 +711,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - q) 11,3 % per ulteriori fr. 100 000.–,
 - r) 11,4 % per ulteriori fr. 100 000.–,
 - s) 11,6 % per ulteriori fr. 300 000.–,
-- t) 11,0 % per ulteriori fr. 700 000.–.
+- t) 11,0 % per l'intero reddito imponibile, se questo supera fr. 700 500.–.
 
 <sup>2</sup> Per determinare l'aliquota d'imposta dei coniugi tassati congiuntamente il reddito imponibile viene diviso per 1,9.
 
@@ -980,9 +1015,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>2</sup> L'obbligo di versare una rendita viene considerato alla stregua di debito, basandosi sul suo valore in contanti del momento, a meno che essa non sia stata assegnata a titolo gratuito e in adempimento di obblighi familiari previsti dalla legge.
 
+#### Art. 62a
+
+**IV. Riduzione dell'imposta su brevetti**
+
+<sup>1</sup> Il patrimonio commerciale netto si riduce in misura pari al rapporto tra i brevetti e i diritti analoghi secondo l'articolo 18c rispetto al patrimonio commerciale complessivo.
+
 #### Art. 63
 
-**IV. Calcolo dell'imposta 1. Importi esenti**
+**V. Calcolo dell'imposta 1. Importi esenti**
 
 <sup>1</sup> Nel calcolo dell'imposta si deducono dalla sostanza netta
 
@@ -1127,12 +1168,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - b) conducono nel Cantone stabilimenti d'impresa,
 - c) hanno proprietà fondiarie nel Cantone, sono titolari di diritti di godimento reali limitati o diritti di godimento personali economicamente equivalenti a questi,
 - d) da sole o insieme a terzi alienano diritti di partecipazione e ciò equivale economicamente all'alienazione di proprietà fondiaria nel Cantone,
-- e) fungono da intermediari di fondi situati nel Cantone o commerciano con gli stessi.
+- e) commerciano con fondi situati nel Cantone.
 
 <sup>2</sup> Le persone giuridiche con sede e amministrazione effettiva all'estero sono inoltre soggette all'obbligo fiscale se:
 
-- a) sono titolari o usufruttuarie di crediti garantiti da fondi situati nel Cantone,
+- a) sono titolari o usufruttuarie di crediti garantiti da fondi situati nel Cantone;
 - b) …
+- c) fungono da intermediari di fondi situati nel Cantone.
 
 <sup>3</sup> Per stabilimento d'impresa si intende una sede fissa di affari o di lavoro dove si svolge, in tutto o in parte, l'attività di un'impresa.
 
@@ -1213,7 +1255,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
   - 6\. i trasferimenti di utili,
   - 7\. gli anticipi sugli utili,
   - 8\. le assegnazioni a terzi non giustificate dall'uso commerciale,
-- c) dei proventi non accreditati al conto profitti e perdite compresi gli utili in capitale, di liquidazione e di rivalutazione; il trasferimento della sede nonché dell'amministrazione di un'azienda commerciale o di uno stabilimento d'impresa all'estero è parificato alla liquidazione riguardo alle riserve occulte,
+- c) dei proventi non accreditati al conto profitti e perdite compresi gli utili in capitale, di liquidazione e di rivalutazione.
 - d) …
 
 <sup>2</sup> Le prestazioni a favore di soci o di persone con le quali esistono stretti rapporti personali, devono essere stimate secondo il loro valore reale.
@@ -1222,15 +1264,65 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 [^79-1]: Con DG del 19 ago. 1997 il Governo ha posto in vigore con effetto retroattivo al 1o gen. 1997 l'art. 79 cpv. 3. Con l'entrata in vigore viene abrogato l'art. 191.
 
+#### Art. 79a
+
+**2. Brevetti e diritti analoghi: definizioni**
+
+<sup>1</sup> Sono considerati brevetti:
+
+- a) brevetti secondo la Convenzione del 5 ottobre 1973 sul brevetto europeo, nella versione riveduta del 29 novembre 2000[^79a-1], con designazione «Svizzera»;
+- b) i brevetti secondo la legge del 25 giugno 1954 sui brevetti[^79a-2];
+- c) i brevetti esteri che corrispondono ai brevetti di cui alle lettere a o b.
+
+<sup>2</sup> Sono considerati diritti analoghi:
+
+- a) i certificati protettivi complementari secondo la legge del 25 giugno 1954 sui brevetti e la loro proroga;
+- b) le topografie protette secondo la legge del 9 ottobre 1992 sulle topografie[^79a-3];
+- c) le varietà vegetali protette secondo la legge federale del 20 marzo 1975[^79a-4] sulla protezione delle novità vegetali;
+- d) i documenti protetti secondo la legge del 15 dicembre 2000 sugli agenti terapeutici[^79a-5];
+- e) le relazioni alle quali si applica la protezione in virtù di disposizioni di esecuzione della legge del 29 aprile 1998 sull'agricoltura[^79a-6];
+- f) i diritti esteri che corrispondono ai diritti di cui alle lettere a–e.
+
+[^79a-1]: RS [0.232.142.2](https://db.clex.ch/link/Bund/0.232.142.2/it)
+[^79a-2]: RS [232.14](https://db.clex.ch/link/Bund/232.14/it)
+[^79a-3]: RS [231.2](https://db.clex.ch/link/Bund/231.2/it)
+[^79a-4]: RS [232.16](https://db.clex.ch/link/Bund/232.16/it)
+[^79a-5]: RS [812.21](https://db.clex.ch/link/Bund/812.21/it)
+[^79a-6]: RS [910.1](https://db.clex.ch/link/Bund/910.1/it)
+
+#### Art. 79b
+
+**3. Brevetti e diritti analoghi: imposizione**
+
+<sup>1</sup> Su richiesta del contribuente, l'utile netto da brevetti e diritti analoghi è considerato nel rapporto tra le spese di ricerca e sviluppo ammesse e le spese di ricerca e sviluppo complessive per ogni brevetto o diritto analogo (quoziente Nexus) con una riduzione del 90 per cento nel calcolo dell'utile netto imponibile.
+
+<sup>2</sup> L'utile netto da brevetti e diritti analoghi compresi nei prodotti è determinato diminuendo l'utile netto derivante da ciascun prodotto del 6 per cento dei costi attribuiti a ciascun prodotto nonché del compenso per l'uso del marchio.
+
+<sup>3</sup> L'imposizione ad aliquota ridotta dell'utile netto da brevetti e diritti analoghi avviene dopo l'ingresso di questi diritti nel patent box solo se tale utile supera le spese di ricerca e sviluppo sostenute complessivamente fino all'ingresso e dedotte fiscalmente per tali diritti nonché un'eventuale deduzione secondo l'articolo 81a, per quanto questa sia effettivamente ammissibile. Nel quinto anno dall'ingresso nel patent box occorre conteggiare le spese di ricerca e sviluppo non ancora compensate nonché un'eventuale deduzione secondo l'articolo 81a. Il contribuente ha il diritto di addizionare in qualsiasi momento le spese di ricerca e di sviluppo non compensate all'utile netto imponibile. Deve essere costituita una riserva occulta tassata di entità pari all'importo addizionato.
+
+<sup>4</sup> Se entro cinque anni il contribuente trasferisce la sede o l'amministrazione effettiva all'estero o in un Cantone che prevede un'imposizione divergente da quella prevista dal capoverso 3, le spese di ricerca e sviluppo non ancora compensate, ivi compresa la deduzione secondo l'articolo 81a, vengono addizionate all'utile netto imponibile.
+
+<sup>5</sup> Sono applicabili le ulteriori disposizioni del Consiglio federale conformemente all'articolo 24b capoverso 4 della legge federale sull'armonizzazione delle imposte dirette dei Cantoni e dei Comuni[^79b-1].
+
+[^79b-1]: RS [642.14](https://db.clex.ch/link/Bund/642.14/it)
+
 #### Art. 80
 
-**2. Interessi su capitale proprio dissimulato**
+**4. Interessi su capitale proprio dissimulato**
 
 <sup>1</sup> Fanno parte dell'utile imponibile delle società di capitali e delle cooperative anche gli interessi passivi di quella parte del capitale di terzi che deve essere considerata capitale proprio.
 
+#### Art. 80a
+
+**5. Imposizione di riserve occulte alla fine dell'assoggettamento**
+
+<sup>1</sup> In caso di cessazione dell'assoggettamento, le riserve occulte non tassate esistenti a quel momento, compreso il valore aggiunto generato internamente, sono imponibili.
+
+<sup>2</sup> Sono considerati fine dell'assoggettamento il trasferimento di beni, di esercizi, di rami d'attività o di funzioni dalla Svizzera in un'impresa o in uno stabilimento d'impresa situati all'estero, il passaggio a un'esenzione fiscale secondo l'articolo 78 nonché il trasferimento all'estero della sede o dell'amministrazione effettiva.
+
 #### Art. 81
 
-**3. Spese giustificate dall'uso commerciale**
+**6. Spese giustificate dall'uso commerciale**
 
 <sup>1</sup> Fanno parte delle spese giustificate dall'uso commerciale specialmente:
 
@@ -1252,18 +1344,61 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 [^81-2]: Art. 12 segg. DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 [^81-3]: RS [831.40](https://db.clex.ch/link/Bund/831.40/it)
 
+#### Art. 81a
+
+**7. Deduzione supplementare delle spese di ricerca e sviluppo**
+
+<sup>1</sup> Su richiesta è permessa la deduzione in via aggiuntiva del 50 per cento delle spese di ricerca e sviluppo giustificate dall'uso commerciale sostenute in Svizzera direttamente dal contribuente o indirettamente da terzi.
+
+<sup>2</sup> Sono considerate ricerca e sviluppo la ricerca scientifica e l'innovazione fondata sulla scienza di cui all'articolo 2 della legge federale del 14 dicembre 2012 sulla promozione della ricerca e dell'innovazione[^81a-1].
+
+<sup>3</sup> Una deduzione superiore è ammessa per:
+
+- a) le spese per il personale direttamente imputabili alla ricerca e allo sviluppo, a cui si aggiunge un supplemento pari al 35 per cento di queste spese, fino a concorrenza delle spese complessive del contribuente;
+- b) l'80 per cento delle spese per le attività di ricerca e sviluppo fatturate da terzi.
+
+<sup>4</sup> Se la persona che ha conferito il mandato di ricerca e sviluppo ha diritto alla relativa deduzione, il mandatario non può farla valere.
+
+[^81a-1]: RS [420.1](https://db.clex.ch/link/Bund/420.1/it)
+
+#### Art. 81b
+
+**8. Limitazione dello sgravio fiscale**
+
+<sup>1</sup> La riduzione fiscale complessiva secondo l'articolo 79b capoversi 1 e 2 e l'articolo 81a nonché in base agli ammortamenti secondo l'articolo 189d capoverso 3 non può eccedere il 55 per cento dell'utile imponibile prima della compensazione delle perdite, escludendo il ricavo netto delle partecipazioni conformemente agli articoli 88 e 88a, e prima della deduzione delle riduzioni effettuate.
+
+<sup>2</sup> Le singole riduzioni e la riduzione fiscale complessiva non possono comportare un riporto delle perdite.
+
+<sup>3</sup> Eventuali riduzioni devono essere effettuate secondo il seguente ordine:
+
+- a) deduzione supplementare per spese di ricerca e sviluppo (art. 81a);
+- b) ammortamenti delle riserve occulte dichiarate (art. 189d cpv. 3);
+- c) riduzione per redditi da brevetti e diritti analoghi (art. 79b).
+
 #### Art. 82
 
-**4. Operazioni senza influenza sul risultato**
+**9. Operazioni senza influenza sul risultato**
 
 <sup>1</sup> Non costituiscono utile imponibile:
 
 - a) gli apporti dei soci di società di capitali e di cooperative, compresi gli aggi,
 - b) gli aumenti di capitale in seguito a eredità, legato e donazione.
 
+#### Art. 82a
+
+**10. Dichiarazione di riserve occulte all'inizio dell'assoggettamento**
+
+<sup>1</sup> Se all'inizio dell'assoggettamento il contribuente dichiara le riserve occulte, compreso il valore aggiunto generato internamente, queste non sottostanno all'imposta sull'utile. Non possono essere dichiarate le riserve occulte di una società di capitali o di una società cooperativa costituite mediante partecipazioni di almeno il 10 per cento al capitale azionario o sociale o all'utile e alle riserve di un'altra società.
+
+<sup>2</sup> Sono considerati inizio dell'assoggettamento il trasferimento di beni, di esercizi, di rami d'attività o di funzioni dall'estero in un'impresa o in uno stabilimento d'impresa situati in Svizzera, la fine di un'esenzione fiscale secondo l'articolo 78 nonché il trasferimento in Svizzera della sede o dell'amministrazione effettiva.
+
+<sup>3</sup> Le riserve occulte dichiarate sono ammortizzate annualmente mediante l'aliquota applicata a fini fiscali agli ammortamenti dei beni interessati.
+
+<sup>4</sup> Il valore aggiunto generato internamente e dichiarato deve essere ammortizzato entro dieci anni.
+
 #### Art. 83
 
-**5. Ristrutturazioni**
+**11. Ristrutturazioni**
 
 <sup>1</sup> Le riserve occulte di una persona giuridica non sono imponibili nell'ambito di ristrutturazioni, in particolare in caso di fusione, di scissione o di trasformazione, se la persona giuridica rimane assoggettata all'imposta in Svizzera e gli elementi fino ad allora determinanti per l'imposta sull'utile vengono ripresi:
 
@@ -1278,13 +1413,13 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>4</sup> Se nei cinque anni seguenti un trasferimento ai sensi del capoverso 3 i beni trasferiti sono alienati o la direzione unica è abbandonata, le riserve occulte trasferite sono tassate a posteriori secondo la procedura di cui all'articolo 145 e segg. La persona giuridica beneficiaria può in tal caso far valere corrispondenti riserve occulte già tassate come utili. Le società di capitali o cooperative svizzere riunite sotto direzione unica al momento della violazione del termine di blocco rispondono solidalmente del pagamento dell'imposta riscossa a posteriori.
 
-<sup>5</sup> Se riserve occulte vengono trasferite ad un'impresa esente da imposta o ad una persona giuridica tassata secondo gli articoli 89–89b, l'imposizione avviene tramite le riserve occulte. Fanno eccezione le riserve occulte sugli immobili, nonché le partecipazioni secondo l'articolo 88a.
+<sup>5</sup> Se riserve occulte vengono trasferite ad un'impresa esente da imposta, l'imposizione avviene tramite le riserve occulte. Fanno eccezione le riserve occulte sugli immobili, nonché le partecipazioni secondo l'articolo 88a.
 
 <sup>6</sup> La società di capitali o società cooperativa che subisce una perdita contabile sulla partecipazione a un'altra società di capitali o cooperativa a seguito della ripresa degli attivi e dei passivi di quest'ultima non può dedurre fiscalmente tale perdita; un eventuale utile contabile sulla partecipazione è imponibile.
 
 #### Art. 84
 
-**6. Sostituzione di beni**
+**12. Sostituzione di beni**
 
 <sup>1</sup> In caso di sostituzione di immobilizzi necessari all'azienda, le riserve occulte possono essere trasferite su beni sostitutivi se questi beni sono parimenti necessari all'azienda. Rimane salva l'imposizione in caso di sostituzione di immobili con beni mobili.
 
@@ -1300,7 +1435,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 85
 
-**7. Prescrizioni speciali per associazioni, fondazioni e investimenti collettivi di capitale**
+**13. Prescrizioni speciali per associazioni, fondazioni e investimenti collettivi di capitale**
 
 <sup>1</sup> Le quote sociali pagate a un'associazione secondo il suo statuto e gli apporti al patrimonio di una fondazione non vengono aggiunti all'utile imponibile.
 
@@ -1310,7 +1445,7 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 86
 
-**8. Compensazione delle perdite**
+**14. Compensazione delle perdite**
 
 <sup>1</sup> Dall'utile netto del periodo fiscale possono essere dedotte le perdite dei sette periodi d'esercizio precedenti il periodo fiscale, per quanto esse non abbiano ridotto l'utile netto imponibile dei periodi precedenti.
 
@@ -1318,18 +1453,19 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>3</sup> I capoversi 1 e 2 si applicano anche in caso di trasferimento della sede o dell'amministrazione effettiva all'interno della Svizzera.
 
+<sup>4</sup> Le società tassate secondo gli articoli 89-89b del diritto anteriore hanno diritto a compensare le perdite solo nella misura in cui risultati positivi sarebbero stati tassati come utili.
+
 #### Art. 87
 
 **II. Calcolo delle imposte 1. In generale**
 
-<sup>1</sup> L'imposta sull'utile ammonta al 5,5 per cento.
+<sup>1</sup> L'imposta sull'utile ammonta al 4,5 per cento.
 
 <sup>2</sup> Le persone giuridiche che perseguono scopi ideali non sono assoggettate all'imposta sugli utili a condizione che i loro utili imponibili non superino il limite di cui all'articolo 66a della legge federale sull'imposta federale diretta del 14 dicembre 1990 (LIFD)[^87-1] e siano esclusivamente e irrevocabilmente destinati a tali scopi.
 
-<sup>3</sup> Le persone giuridiche con le caratteristiche di una società di domicilio ai sensi dell'articolo 89a o di una società mista ai sensi dell'articolo 89b con entrate passive prevalentemente derivanti da società svizzere o straniere consociate versano un'imposta dell'8,5 per cento sugli utili da entrate passive. Gli utili rimanenti sono soggetti all'imposta ordinaria sugli utili secondo l'articolo 89a. Sono fatti salvi gli articoli 88 e 88a.[^87-2]
+<sup>3</sup> Se una società di capitali o una società cooperativa fa parte di un gruppo internazionale, su richiesta l'aliquota d'imposta viene alzata nella misura necessaria affinché insieme all'imposta federale diretta venga raggiunto l'onere fiscale minimo accettato dallo Stato estero.
 
 [^87-1]: RS [642.11](https://db.clex.ch/link/Bund/642.11/it)
-[^87-2]: Art. 24 DELIG; CSC [720.015](https://www.gr-lex.gr.ch/data/720.015/it)
 
 #### Art. 88
 
@@ -1365,39 +1501,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 89
 
-**3. Società holding**
-
-<sup>1</sup> Le persone giuridiche il cui scopo principale consiste nell'amministrazione durevole di partecipazioni e che non esercitano alcuna attività commerciale in Svizzera, non pagano l'imposta sull'utile, se a lunga scadenza le partecipazioni o il reddito delle stesse rappresentano almeno due terzi degli attivi o ricavi complessivi.
-
-<sup>2</sup> L'imposta sull'utile in progressione propria è comunque riscossa:
-
-- a) sui redditi della proprietà fondiaria svizzera, in considerazione delle deduzioni corrispondenti all'onere ipotecario usuale,
-- b) sui ricavi per i quali viene richiesto uno sgravio dalle imposte estere alla fonte sempre che una convenzione internazionale ne disponga l'imposizione ordinaria in Svizzera.
-- c) sugli utili, se la persona giuridica da sola o con terzi aliena diritti di partecipazione e ciò equivale economicamente all'alienazione di proprietà fondiaria nel Cantone.
-
-<sup>3</sup> …
+**…**
 
 #### Art. 89a
 
-**4. Società di domicilio**
-
-<sup>1</sup> Le persone giuridiche che esercitano un'attività amministrativa in Svizzera, senza tuttavia esercitarvi un'attività commerciale, non pagano l'imposta sull'utile per ricavi da partecipazioni ai sensi dell'articolo 88 nonché su utili in capitale e di rivalutazione su tali partecipazioni.
-
-<sup>2</sup> Esse versano tuttavia l'imposta sull'utile in progressione propria:
-
-- a) sugli altri proventi da fonti svizzere, compresi gli utili in capitale e di rivalutazione,
-- b) su una quota degli altri proventi da fonti estere, compresi gli utili in capitale e di rivalutazione, in funzione dell'importanza dell'attività amministrativa esercitata in Svizzera.
-- c) sugli utili, se da sole o con terzi alienano diritti di partecipazione e ciò equivale economicamente all'alienazione di proprietà fondiaria nel Cantone.
-
-<sup>3</sup> Sono eccettuati dalla riduzione ai sensi del capoverso 2 lettera b) i ricavi per i quali viene richiesto uno sgravio dalle imposte estere alla fonte, sempre che la convenzione internazionale ne disponga l'imposizione ordinaria in Svizzera.
-
-<sup>4</sup> Le spese giustificate dall'uso commerciale e in relazione economica con determinati proventi devono prima di tutto essere dedotte da questi ultimi. Le perdite subite su partecipazioni giusta il capoverso 1 possono essere compensate unicamente con i ricavi da tali partecipazioni.
+**…**
 
 #### Art. 89b
 
-**5. Società miste**
-
-<sup>1</sup> Società di capitali e società cooperative, la cui attività commerciale è prevalentemente riferita all'estero e le quali esercitano in Svizzera soltanto un'attività commerciale subordinata, versano l'imposta sull'utile giusta l'articolo 89a. Gli altri proventi derivanti dall'estero vengono tassati nella misura dell'attività commerciale esercitata in Svizzera.
+**…**
 
 ### 2.3. Imposta sul capitale
 
@@ -1413,6 +1525,8 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 - b) nelle associazioni, nelle fondazioni e nelle rimanenti persone giuridiche della sostanza netta calcolata in base alle disposizioni per le persone fisiche.
 
 <sup>3</sup> Il capitale proprio imponibile di società di capitali e cooperative viene aumentato della parte del capitale di terzi che dal punto di vista economico viene considerata capitale proprio.
+
+<sup>4</sup> Il capitale proprio imponibile si riduce in misura pari al rapporto tra le partecipazioni secondo l'articolo 88, i diritti secondo l'articolo 79a e i mutui concessi a società del gruppo rispetto agli attivi complessivi. Tale riduzione non viene concessa a società con tassazione del capitale secondo l'articolo 92.
 
 #### Art. 90a
 
@@ -1442,11 +1556,15 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 #### Art. 92
 
-**2. Società di domicilio e società holding**
+**2. Società senza attività commerciale**
 
-<sup>1</sup> Il capitale proprio imponibile per società holding e società di domicilio, nonché per le persone giuridiche tassate secondo l'articolo 87 capoverso 3 consiste nel capitale azionario o sociale liberato, nelle riserve palesi e nella quota di riserve occulte costituita con l'utile tassato in caso di imposizione dell'utile. L'imposta sul capitale ammonta allo 0,05 per mille, pari comunque almeno a 300 franchi.
+<sup>1</sup> Su richiesta persone giuridiche senza attività commerciale effettiva in Svizzera vengono assoggettate a un'imposta sul capitale più bassa. Si tratta di
 
-<sup>2</sup> Non vengono riscosse imposte sugli utili e sul capitale per i comuni, nonché l'imposta di culto.
+- a) persone giuridiche il cui scopo consiste nell'amministrazione durevole di partecipazioni, se le partecipazioni o il reddito delle stesse rappresentano almeno due terzi degli attivi o ricavi complessivi;
+- b) persone giuridiche che svolgono una mera attività amministrativa in Svizzera al di fuori del settore immobiliare;
+- c) persone giuridiche la cui attività commerciale è prevalentemente riferita all'estero e si limita a funzioni subordinate all'interno del gruppo.
+
+<sup>2</sup> L'imposta cantonale semplice ammonta allo 0,05 per mille, tuttavia almeno a 200 franchi.
 
 <sup>3</sup> …
 
@@ -3127,9 +3245,19 @@ accettata dal Popolo l'8 giugno 1986[^ingress-1]
 
 <sup>1</sup> Se dopo il 31 dicembre 1996 con l'imposta sugli utili da sostanza immobiliare è stata rilevata la vendita di azioni a una società immobiliare, gli immobili ancora tenuti nel bilancio fiscale che si chiude nell'anno civile 2011 o 2012 possono essere rivalutati in misura degli utili tassati senza conseguenze per l'imposta sull'utile. La rivalutazione deve essere contabilizzata quale aumento delle riserve generali.
 
+#### Art. 189d
+
+**e) Stralcio dell'imposizione quale società con statuto speciale**
+
+<sup>1</sup> Se una persona giuridica è stata tassata conformemente agli articoli 89-89b del diritto anteriore, in caso di realizzazione le riserve occulte esistenti al termine di questa imposizione, compreso il valore aggiunto generato internamente, sono tassate separatamente entro cinque anni, nella misura in cui non erano imponibili sino a quel momento. L'imposta cantonale semplice ammonta allo 0,5 per cento.
+
+<sup>2</sup> L'importo delle riserve occulte fatte valere dalla persona giuridica, compreso il valore aggiunto generato internamente, è stabilito mediante decisione dall'autorità di tassazione.
+
+<sup>3</sup> Gli ammortamenti di riserve occulte, compreso il valore aggiunto generato internamente, dichiarate al termine dell'imposizione conformemente agli articoli 89-89b del diritto anteriore sono considerati nel calcolo della limitazione dello sgravio fiscale di cui all'articolo 81b.
+
 #### Art. 190
 
-**e) Computo di imposte di anni precedenti**
+**f) Computo di imposte di anni precedenti**
 
 <sup>1</sup> Se un esercizio commerciale che finisce nell'anno civile 1987 ha inizio in anni civili precedenti, l'imposta corrispondente a questo periodo di tempo secondo il diritto previgente viene aggiunta all'imposta riscossa in base alla presente legge per lo stesso periodo di tempo.
 
