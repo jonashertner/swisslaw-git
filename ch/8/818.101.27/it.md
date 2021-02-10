@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-02-08
+version: 2021-02-11
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210208/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 8 febbraio 2021)
+del 27 gennaio 2021 (Stato 11 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -236,7 +236,7 @@ Le autorità di controllo alla frontiera possono controllare in funzione del ris
 
 La presente ordinanza entra in vigore l’8 febbraio 2021.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 2 cpv. 2)
 
@@ -244,6 +244,7 @@ Allegato 1
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 feb. 2021, in vigore dall’11 feb. 2021 ([RU 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni
@@ -251,8 +252,6 @@ Allegato 1
 Andorra
 
 Brasile
-
-Cipro
 
 Estonia
 
@@ -300,16 +299,16 @@ Stati Uniti
 
 Regioni in Germania:
 
-- – Land Sassonia
 - – Land Turingia
-- [tab] Regioni in Francia:
+
+Regioni in Francia:
+
 - – Regione Provenza-Alpi-Costa Azzurra
 
 Regioni in Italia:
 
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
-- – Regione Veneto
 
 Regioni in Austria:
 

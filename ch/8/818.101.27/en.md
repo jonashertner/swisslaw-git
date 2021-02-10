@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-02-08
+version: 2021-02-11
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210208-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210208/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 8 February 2021)
+of 27 January 2021 (Status as of 11 February 2021)
 
 The Swiss Federal Council,
 
@@ -28,7 +28,7 @@ ordains:
 
 [^ingress-1]: AS **2021** 61 SR **818.101**
 
-## Section 1: Purpose and Subject Matter
+## Section 1 Purpose and Subject Matter
 
 #### Art. 1
 
@@ -44,7 +44,7 @@ It regulates the following matters for persons who enter Switzerland from a coun
 
 <sup>3</sup> It further regulates recording the contact data of persons who enter Switzerland by rail, bus, ship or aircraft from a country or region that does not have an increased risk of infection.
 
-## Section 2: Countries and Regions with an Increased Risk of Infection
+## Section 2 Countries and Regions with an Increased Risk of Infection
 
 #### Art. 2
 
@@ -63,7 +63,7 @@ There is an increased risk of infection with Sars-CoV-2A in a country or region 
 
 <sup>4</sup> Regions on the border with Switzerland which have close economic, social and cultural ties with Switzerland may be exempted from inclusion in the lists mentioned in paragraph 2 even if they meet the requirements set out in paragraph 1.
 
-## Section 3: Recording Contact Data
+## Section 3 Recording Contact Data
 
 #### Art. 3
 
@@ -127,7 +127,7 @@ As soon as it is notified that a person infected with Sars-CoV-2 has entered Swi
 
 <sup>5</sup> The cantons shall destroy the data one month after they have received the same from the FOPH.
 
-## Section 4: Testing, Quarantine, and Notification Requirements for Persons entering Switzerland
+## Section 4 Testing, Quarantine, and Notification Requirements for Persons entering Switzerland
 
 #### Art. 7
 
@@ -205,7 +205,7 @@ The following persons are exempted from the requirement to be tested and to quar
 
 Any person who is required to go into quarantine on entry in accordance with this Ordinance must notify the competent cantonal authority within two days of their arrival in Switzerland and follow the instructions they are given by this authority.
 
-## Section 5: Checks and Reports by Border Control Authorities
+## Section 5 Checks and Reports by Border Control Authorities
 
 #### Art. 10
 
@@ -220,7 +220,7 @@ The border control authorities may conduct risk-based checks on persons entering
 
 <sup>3</sup> The border control authorities may impose fixed penalty fines.
 
-## Section 6: Final Provisions
+## Section 6 Final Provisions
 
 #### Art. 11
 
@@ -238,7 +238,7 @@ The border control authorities may conduct risk-based checks on persons entering
 
 This Ordinance comes into force on 8 February 2021.
 
-Annex 1
+Annex 1*[^t-1]*
 
 (Art. 2 para. 2)
 
@@ -246,6 +246,7 @@ Annex 1
 
 [^annex1-lvlu1-1]
 
+[^t-1]: Amended by Annex No I of the O of the FDHA of 10 Feb. 2021, in force since 11 Feb. 2021 ([AS 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
@@ -253,8 +254,6 @@ Annex 1
 Andorra
 
 Brazil
-
-Cyprus
 
 Czech Republic
 
@@ -302,7 +301,6 @@ United States of America
 
 Regions in Germany:
 
-- – State of Saxony
 - – State of Thüringen
 
 Regions in France:
@@ -313,7 +311,6 @@ Regions in Italy:
 
 - – Region of Emilia Romagna
 - – Region of Friuli Venezia Giulia
-- – Region of Veneto
 
 Regions in Austria:
 
