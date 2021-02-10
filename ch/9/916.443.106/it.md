@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 18 novembre 2015 concernente l'importazione, il tr
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: it
-version: 2021-01-23
+version: 2021-02-11
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210123/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210123-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210123/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210211/it/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210211-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210123/it"
 
 (OITE-PT-DFI)
 
-del 18 novembre 2015 (Stato 23 gennaio 2021)
+del 18 novembre 2015 (Stato 11 febbraio 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -147,13 +147,13 @@ L’ordinanza del DFI del 16 maggio 2007[^12-1] sul controllo dell’importazion
 
 La presente ordinanza entra in vigore il 1° gennaio 2016.
 
-Allegato 1[^t-1]
+Allegato 1*[^t-1]*
 
 (art. 1)
 
 ## Atti normativi determinanti dell’UE sulle condizioni di importazione e transito armonizzate
 
-[^t-1]: Aggiornato dai n. I delle O dell’USAV del 21 dic. 2015 ([RU 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), del 14 gen. 2016 ([RU 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), del 27 mag. 2016 ([RU 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), dell’11 ott. 2016 ([RU 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), del 31 ott. 2016 ([RU 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), del 3 nov. 2016 ([RU 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), del 30 gen. 2017 ([RU 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), del 24 mar. 2017 ([RU 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), del 27 giu. 2017 ([RU 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), dell’8 ago. 2017 ([RU 2017 3969](https://fedlex.data.admin.ch/eli/oc/2017/470)), del 27 nov. 2017 ([RU 2017 6507](https://fedlex.data.admin.ch/eli/oc/2017/713)), del 29 dic. 2017 ([RU 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), del 27 sett. 2018 ([RU 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), del 27 mar. 2019 ([RU 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), del 2 apr. 2019 ([RU 2019 1087](https://fedlex.data.admin.ch/eli/oc/2019/208)), del 27 giu. 2019 ([RU 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), del 25 lug. 2019 ([RU 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), del 22 ago. 2019 ([RU 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), del 12 nov. 2019 ([RU 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), del 18 nov. 2019 ([RU 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), del 19 dic. 2019 ([RU 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), del 23 dic. 2019 ([RU 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), del 5 mar. 2020 ([RU 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), dal n. I cpv. 1 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), dal n. I dell’O dell’USAV, del 4 ago. 2020 ([RU 2020 3505](https://fedlex.data.admin.ch/eli/oc/2020/614)), del 26 nov. 2020 ([RU 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), del 21 dic. 2020 ([RU 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), del 30 dic. 2020 ([RU 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)) e del 21 gen. 2021, in vigore dal 23 gen. 2021 ([RU 2021 32](https://fedlex.data.admin.ch/eli/oc/2021/32)).
+[^t-1]: Aggiornato dai n. I delle O dell’USAV del 21 dic. 2015 ([RU 2015 5939](https://fedlex.data.admin.ch/eli/oc/2015/911)), del 14 gen. 2016 ([RU 2016 55](https://fedlex.data.admin.ch/eli/oc/2016/13)), del 27 mag. 2016 ([RU 2016 1661](https://fedlex.data.admin.ch/eli/oc/2016/303)), dell’11 ott. 2016 ([RU 2016 3437](https://fedlex.data.admin.ch/eli/oc/2016/579)), del 31 ott. 2016 ([RU 2016 3697](https://fedlex.data.admin.ch/eli/oc/2016/622)), del 3 nov. 2016 ([RU 2016 3701](https://fedlex.data.admin.ch/eli/oc/2016/624)), del 30 gen. 2017 ([RU 2017 471](https://fedlex.data.admin.ch/eli/oc/2017/76)), del 24 mar. 2017 ([RU 2017 1679](https://fedlex.data.admin.ch/eli/oc/2017/175)), del 27 giu. 2017 ([RU 2017 3635](https://fedlex.data.admin.ch/eli/oc/2017/408)), dell’8 ago. 2017 ([RU 2017 3969](https://fedlex.data.admin.ch/eli/oc/2017/470)), del 27 nov. 2017 ([RU 2017 6507](https://fedlex.data.admin.ch/eli/oc/2017/713)), del 29 dic. 2017 ([RU 2018 1](https://fedlex.data.admin.ch/eli/oc/2018/1)), del 27 sett. 2018 ([RU 2018 3261](https://fedlex.data.admin.ch/eli/oc/2018/526)), del 27 mar. 2019 ([RU 2019 1049](https://fedlex.data.admin.ch/eli/oc/2019/192)), del 2 apr. 2019 ([RU 2019 1087](https://fedlex.data.admin.ch/eli/oc/2019/208)), del 27 giu. 2019 ([RU 2019 1955](https://fedlex.data.admin.ch/eli/oc/2019/359)), del 25 lug. 2019 ([RU 2019 2271](https://fedlex.data.admin.ch/eli/oc/2019/431)), del 22 ago. 2019 ([RU 2019 2631](https://fedlex.data.admin.ch/eli/oc/2019/490)), del 12 nov. 2019 ([RU 2019 3535](https://fedlex.data.admin.ch/eli/oc/2019/650)), del 18 nov. 2019 ([RU 2019 3689](https://fedlex.data.admin.ch/eli/oc/2019/668)), del 19 dic. 2019 ([RU 2019 4727](https://fedlex.data.admin.ch/eli/oc/2019/768)), del 23 dic. 2019 ([RU 2019 5019](https://fedlex.data.admin.ch/eli/oc/2019/793)), del 5 mar. 2020 ([RU 2020 635](https://fedlex.data.admin.ch/eli/oc/2020/124)), dal n. I cpv. 1 dell’O dell’USAV del 13 lug. 2020 ([RU 2020 2911](https://fedlex.data.admin.ch/eli/oc/2020/541)), dal n. I dell’O dell’USAV, del 4 ago. 2020 ([RU 2020 3505](https://fedlex.data.admin.ch/eli/oc/2020/614)), del 26 nov. 2020 ([RU 2020 4931](https://fedlex.data.admin.ch/eli/oc/2020/877)), del 21 dic. 2020 ([RU 2020 6403](https://fedlex.data.admin.ch/eli/oc/2020/1048)), del 30 dic. 2020 ([RU 2020 6741](https://fedlex.data.admin.ch/eli/oc/2020/1078)) e del 9 feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 79](https://fedlex.data.admin.ch/eli/oc/2021/79)).
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
@@ -204,7 +204,7 @@ Allegato 1[^t-1]
 <tr><td>46. Decisione 2008/636/CE</td><td>Decisione 2008/636/CE della Commissione, del 22 luglio 2008, che stabilisce l’elenco dei paesi terzi dai quali gli Stati membri autorizzano l’importazione di ovuli ed embrioni della specie suina, versione della GU L 206 del 2.8.2008, pag. 32.</td></tr>
 <tr><td>47. ...</td><td></td></tr>
 <tr><td>48. Decisione 2008/698/CE</td><td>Decisione 2008/698/CE della Commissione, dell’8 agosto 2008, relativa all’ammissione temporanea e alle importazioni nella Comunità di cavalli registrati in provenienza dal Sudafrica, versione della GU L 235 del 2.9.2008, pag. 16.</td></tr>
-<tr><th>49. Regolamento (CE) n. 798/2008</th><th>Regolamento (CE) n. 798/2008 della Commissione, dell’8 agosto 2008, che istituisce un elenco di paesi terzi, loro territori, zone o compartimenti da cui sono consentiti le importazioni e il transito nella Comunità di pollame e prodotti a base di pollame e che definisce le condizioni di certificazione veterinaria, GU L 226 del 23.8.2008, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/24, GU L 11 del 14.1.2021, pag. 1.</th></tr>
+<tr><th>49. Regolamento (CE) n. 798/2008</th><th>Regolamento (CE) n. 798/2008 della Commissione, dell’8 agosto 2008, che istituisce un elenco di paesi terzi, loro territori, zone o compartimenti da cui sono consentiti le importazioni e il transito nella Comunità di pollame e prodotti a base di pollame e che definisce le condizioni di certificazione veterinaria, GU L 226 del 23.8.2008, pag. 1; modificato da ultimo dal regolamento di esecuzione (UE) 2021/130, GU L 40 del 4.2.2021, pag. 16.</th></tr>
 <tr><td>50. ...</td><td></td></tr>
 <tr><td>51. Decisione 2008/946/CE</td><td>Decisione 2008/946/CE della Commissione, del 12 dicembre 2008, recante modalità di applicazione della direttiva 2006/88/CE del Consiglio per quanto riguarda le prescrizioni in materia di quarantena degli animali d’acquacoltura, versione della GU L 337 del 16.12.2008, pag. 94.</td></tr>
 <tr><td>52. Regolamento (CE) n. 1251/2008</td><td>Regolamento (CE) n. 1251/2008 della Commissione, del 12 dicembre 2008, recante modalità di esecuzione della direttiva 2006/88/CE per quanto riguarda le condizioni e le certificazioni necessarie per l’immissione sul mercato e l’importazione nella Comunità di animali d’acquacoltura e i relativi prodotti e che stabilisce un elenco di specie vettrici, GU L 337 del 16.12.2008, pag. 41; modificato da ultimo dal regolamento di esecuzione (UE) 2020/2202, GU L 438 del 28.12.2020, pag. 1.</td></tr>
@@ -251,7 +251,7 @@ Allegato 1[^t-1]
 <tr><th>96. Regolamento di esecuzione (UE) 2020/2208</th><th>Regolamento di esecuzione (UE) 2020/2208 della Commissione del 22 dicembre 2020 che inserisce il Regno Unito tra i paesi terzi autorizzati a importare nell’Unione partite di fieno e paglia, versione della GU L 438 del 28.12.2020, pag. 21.</th></tr>
 </table>
 
-Allegato 2[^t-2]
+Allegato 2*[^t-2]*
 
 (art. 2 cpv. 2)
 
@@ -271,7 +271,7 @@ Le garanzie sanitarie di cui all’articolo 2 capoverso 1 lettera b sono riconos
 
 [^annex2-lvlu1-lvl2-1]: Decisione 2008/185/CE della Commissione, del 21 febbraio 2008, che stabilisce garanzie supplementari per la malattia di Aujeszky negli scambi intracomunitari di suini, e fissa i criteri relativi alle informazioni da fornire su tale malattia, GU L 59 del 4.3.2008, pag. 19; modificata da ultimo dalla decisione di esecuzione (UE) 2016/1782, GU L 272 del 7.10.2016, pag. 90.
 
-Allegato 3[^t-3]
+Allegato 3*[^t-3]*
 
 (art. 3)
 
@@ -294,7 +294,7 @@ I prodotti animali che comportano rischi più elevati di epizoozie o per l’igi
 
 [^annex3-lvlu1-1]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1, modificato da ultimo dal regolamento (UE) 2020/797, GU L 194 del 18.6.2020, pag. 1.
 
-Allegato 4[^t-4]
+Allegato 4*[^t-4]*
 
 (art. 5)
 
