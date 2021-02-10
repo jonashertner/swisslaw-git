@@ -3,11 +3,11 @@ sr: "0.443.3"
 title: Übereinkommen des Europarats vom 30. Januar 2017 über die Gemeinschaftsproduktion von Kinofilmen (revidiert)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/442"
 language: de
-version: 2020-05-12
+version: 2021-02-11
 adopted: 2017-01-30
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20200512/de/xml/fedlex-data-admin-ch-eli-cc-2019-442-20200512-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20200512/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20210211/de/xml/fedlex-data-admin-ch-eli-cc-2019-442-20210211-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20210211/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 10. April 2019
 
 In Kraft getreten für die Schweiz am 1. August 2019
 
-(Stand am 12. Mai 2020)
+(Stand am 11. Februar 2021)
 
 *Präambel*
 
@@ -416,20 +416,24 @@ Anhang II
 <tr><td></td><td>16</td></tr>
 </table>
 
-Geltungsbereich am 12. Mai 2020**[^t-1]**
+Geltungsbereich am 11. Februar 2021**[^t-1]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Armenien\*</td><td>20. Dezember</td><td>2020</td><td>1. Februar</td><td>2021</td></tr>
 <tr><td>Bulgarien</td><td>10. Dezember</td><td>2019</td><td>1. April</td><td>2020</td></tr>
 <tr><td>Dänemark</td><td>25. Januar</td><td>2019</td><td>1. Mai</td><td>2019</td></tr>
+<tr><td>Estland</td><td>21. Mai</td><td>2021</td><td>1. Mai</td><td>2021</td></tr>
 <tr><td>Georgien</td><td>13. März</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
 <tr><td>Irland\*</td><td>16. Mai</td><td>2019 U</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Kroatien</td><td>28. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Lettland\*</td><td>17. April</td><td>2019</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Litauen\*</td><td>26. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Luxemburg\*</td><td>26. Januar</td><td>2021</td><td>1. Mai</td><td>2021</td></tr>
 <tr><td>Malta</td><td>16. Januar</td><td>2018</td><td>1. Mai</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>9. August</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Niederlande\*</td><td>24. August</td><td>2017</td><td>1. Dezember</td><td>2017</td></tr>
+<tr><td>Nordmazedonien\*</td><td>19. Juni</td><td>2020</td><td>1. Oktober</td><td>2020</td></tr>
 <tr><td>Norwegen\*</td><td>3. März</td><td>2017</td><td>1. Oktober</td><td>2017</td></tr>
 <tr><td>Polen\*</td><td>18. April</td><td>2019</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Schweden</td><td>3. Mai</td><td>2017 U</td><td>1. Oktober</td><td>2017</td></tr>
@@ -437,11 +441,12 @@ Geltungsbereich am 12. Mai 2020**[^t-1]**
 <tr><td>Serbien</td><td>27. November</td><td>2018</td><td>1. März</td><td>2019</td></tr>
 <tr><td>Slowakei</td><td>29. Juni</td><td>2017</td><td>1. Oktober</td><td>2017</td></tr>
 <tr><td>Slowenien<sup>\*</sup></td><td>23. Januar</td><td>2020</td><td>1. Mai</td><td>2020</td></tr>
+<tr><td>Tschechische Republik\*</td><td>11. Dezember</td><td>2020</td><td>1. April</td><td>2021</td></tr>
 <tr><td>Ungarn</td><td>10. September</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen (Erklärungen zu den in Artikel 5 genannten zuständigen Behörden dürfen in diesem Bereich nicht mit einem \* gekennzeichnet werden). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-1]: [AS 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442)und [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442); [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360); [2021 99](https://fedlex.data.admin.ch/eli/oc/2021/99). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
 
 Zuständige Behörde gemäss Art. 5 Abs. 5
 

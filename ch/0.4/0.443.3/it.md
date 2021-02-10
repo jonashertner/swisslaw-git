@@ -3,11 +3,11 @@ sr: "0.443.3"
 title: "Convenzione del Consiglio d'Europa del 30 gennaio 2017 sulla coproduzione cinematografica (riveduta)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/442"
 language: it
-version: 2020-05-12
+version: 2021-02-11
 adopted: 2017-01-30
 in_force: 2019-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20200512/it/xml/fedlex-data-admin-ch-eli-cc-2019-442-20200512-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20200512/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/442/20210211/it/xml/fedlex-data-admin-ch-eli-cc-2019-442-20210211-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/442/20210211/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Strumento di ratifica depositato dalla Svizzera il 10 aprile 2019
 
 Entrata in vigore per la Svizzera il 1° agosto 2019
 
-(Stato 12 maggio 2020)
+(Stato 11 febbraio 2021)
 
 Preambolo
 
@@ -418,17 +418,22 @@ Allegato II
 <tr><td></td><td>16</td></tr>
 </table>
 
-Campo d’applicazione il 12 maggio 2020**[^t-1]**
+Campo d’applicazione l’11 febbraio 2021**[^t-1]**
 
 <table>
 <tr><th>Stati contraenti</th><th>Ratifica Firmato senza riserva di ratifica (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Armenia<sup>\*</sup></td><td>20 dicembre</td><td>2020</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>Bulgaria</td><td>10 dicembre</td><td>2019</td><td>1° aprile</td><td>2020</td></tr>
+<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>11 dicembre</td><td>2020</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Croazia</td><td>28 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
 <tr><td>Danimarca</td><td>25 gennaio</td><td>2019</td><td>1° maggio</td><td>2019</td></tr>
+<tr><td>Estonia</td><td>21 maggio</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
 <tr><td>Georgia</td><td>13 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Irlanda\*</td><td>16 maggio</td><td>2019 F</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Lettonia\*</td><td>17 aprile</td><td>2019</td><td>1° agosto</td><td>2019</td></tr>
 <tr><td>Lituania\*</td><td>26 settembre</td><td>2018</td><td>1° gennaio</td><td>2019</td></tr>
+<tr><td>Lussemburgo<sup>\*</sup></td><td>26 gennaio</td><td>2021</td><td>1° maggio</td><td>2021</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td>19 giugno</td><td>2020</td><td>1° ottobre</td><td>2020</td></tr>
 <tr><td>Malta</td><td>16 gennaio</td><td>2018</td><td>1° maggio</td><td>2018</td></tr>
 <tr><td>Montenegro</td><td>9 agosto</td><td>2019</td><td>1° dicembre</td><td>2019</td></tr>
 <tr><td>Norvegia\*</td><td>3 marzo</td><td>2017</td><td>1° ottobre</td><td>2017</td></tr>
@@ -440,10 +445,10 @@ Campo d’applicazione il 12 maggio 2020**[^t-1]**
 <tr><td>Svezia</td><td>3 maggio</td><td>2017 F</td><td>1° ottobre</td><td>2017</td></tr>
 <tr><td>Svizzera</td><td>10 aprile</td><td>2019</td><td>1° agosto</td><td>2019</td></tr>
 <tr><td>Ungheria</td><td>10 settembre</td><td>2019</td><td>1° dicembre</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni (conformemente all’art. 5 della Conv., le dichiarazioni concernenti le autorità competenti non sono indicate con \* nel presente campo di applicazione). Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni (conformemente all’art. 5 della Conv., le dichiarazioni concernenti le autorità competenti non sono indicate con \* nel presente campo di applicazione). Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-1]: [RU 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442)e [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: [RU 2019 2353](https://fedlex.data.admin.ch/eli/oc/2019/442); [2020 1799](https://fedlex.data.admin.ch/eli/oc/2020/360); [2021 99](https://fedlex.data.admin.ch/eli/oc/2021/99)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
 
 Autorità competente svizzera:
 
