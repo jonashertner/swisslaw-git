@@ -4,13 +4,13 @@ number: "505.11"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung BL
 language: de
-version: 2021-01-29
-valid_until: 2021-02-11
-version_adopted: 2021-01-26
+version: 2021-02-12
+valid_until: 2021-03-08
+version_adopted: 2021-02-12
 adopted: 2021-01-26
 in_force: 2021-01-29
 url: "https://bl.clex.ch/app/de/texts_of_law/505.11"
-pdf: "https://bl.clex.ch/api/de/versions/2892/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2913/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2892/pdf_file"
 
 (Härtefallverordnung BL)
 
-Vom 26.01.2021 (Stand 29.01.2021)
+Vom 26.01.2021 (Stand 12.02.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,9 +62,9 @@ beschliesst:
 - a. dem Anteil der Schliessungsdauer ab 1. November 2020 an einem Jahr in Prozenten;
 - b. und einer branchenspezifischen Fixkostenquote (Fixkosten in Prozent des Umsatzes) gemäss Anhang 1.
 
-<sup>3</sup> Bei besonderer Betroffenheit kann der Anteil gemäss Abs. 2 Bst. a um maximal 10 Prozentpunkte erhöht werden.
+<sup>3</sup> Bei Branchen gemäss Anhang 2, welche besondere Härte erleiden, wird der Anteil gemäss Abs. 2 Bst. a um maximal 10 Prozentpunkte erhöht.
 
-<sup>4</sup> Die Dauer der Schliessung wird auf ganze Monate aufgerundet.
+<sup>4</sup> Die Schliessungsdauer nach Abs. 2 Bst. a bemisst sich an der auf ganze Monate gerundeten Dauer der behördlich angeordneten Schliessungen im Kanton Basel-Landschaft.
 
 <sup>5</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2–4 und Art. 8 Abs. 2 und 4 der Covid-19-Härtefallverordnung des Bundes.
 
