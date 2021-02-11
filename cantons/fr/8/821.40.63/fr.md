@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2020-12-01
-valid_until: 2021-02-11
-version_adopted: 2020-12-01
+version: 2021-02-12
+valid_until: 2021-03-04
+version_adopted: 2021-02-08
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6662/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6769/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 01.12.2020)
+du 16.11.2020 (version entrée en vigueur le 12.02.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -57,23 +57,36 @@ Arrête:
 
 <sup>2</sup> Les mesures de soutien en faveur des cas de rigueur peuvent prendre la forme de contributions non remboursables (ci-après: soutiens à fonds perdu), de prêts, de cautionnements ou de garanties.
 
+<sup>2a</sup> Elles peuvent être différentes en fonction de la branche, de la taille de l'entreprise ou de la forme des instruments.
+
 <sup>3</sup> Ces mesures de soutien sont assimilées à des contributions individuelles au sens de l'article 5 LSub et à des subventions au sens du droit fiscal.
+
+<sup>4</sup> Lorsqu'elles sont versées pour atténuer ou compenser les décisions de fermeture ordonnées par les autorités, elles sont assimilées à des indemnités au sens de l'article 4 LSub.
 
 #### Art. 2
 
 **Moyens financiers**
 
-<sup>1</sup> Un montant maximum de 15 millions de francs est alloué à ces fins conformément à l'article 6 al. 1 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19.
+<sup>1</sup> Les moyens financiers mis à disposition pour le financement des mesures de soutien en faveur des cas de rigueur sont définis par le droit fédéral.
 
-<sup>2</sup> En cas de traitement des demandes par un tiers mandaté, les frais sont couverts par le montant prévu à l'alinéa 1.
+<sup>1a</sup> Le financement de la part cantonale exigée par le droit fédéral provient:
 
-<sup>3</sup> Ce montant sera augmenté des montants provenant de l'ordonnance fédérale du 25 novembre 2020 concernant les mesures pour les cas de rigueur destinées aux entreprises en lien avec l'épidémie de COVID-19 (Ordonnance COVID-19 cas de rigueur), sous réserve de l'approbation par le SECO.
+- a) d'une part, du montant de 15 millions de francs fixé à l'article 6 al. 1 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19 (ci-après: la loi cantonale d'approbation) et,
+- b) d'autre part, des montants déjà engagés dans des mesures d'aide d'urgence reconnues par le droit fédéral.
+
+<sup>1b</sup> En cas de besoin, le Conseil d'Etat détermine la manière dont la part cantonale additionnelle doit être couverte.
+
+<sup>2</sup> En cas de traitement des demandes par un tiers mandaté, les frais sont couverts par le montant prévu à l'alinéa 1a let. a.
+
+<sup>3</sup> …
+
+<sup>4</sup> Les aides versées au titre de la présente ordonnance doivent être identifiées de manière spécifique dans les comptes de l'Etat. L'Administration des finances fournit les instructions nécessaires à cet effet.
 
 #### Art. 3
 
 **Entreprises**
 
-<sup>1</sup> Sont considérées comme entreprise au sens de la présente ordonnance les sociétés en raison individuelle, les sociétés de personnes et les personnes morales au sens du droit suisse.
+<sup>1</sup> Sont considérées comme «entreprises» au sens de la présente ordonnance les sociétés en raison individuelle, les sociétés de personnes et les personnes morales au sens du droit suisse.
 
 <sup>2</sup> Sont exclues des mesures de soutien au sens de la présente ordonnance les entreprises:
 
@@ -88,6 +101,8 @@ Arrête:
 <sup>1</sup> Sont considérées comme «cas de rigueur» les entreprises particulièrement touchées par les conséquences de l'épidémie de COVID-19 en raison de la nature même de leur activité économique, en particulier les entreprises actives dans la chaîne de création de valeur du secteur évènementiel, les forains, les prestataires du secteur des voyages ainsi que les entreprises touristiques.
 
 <sup>2</sup> Un cas de rigueur existe si le chiffre d'affaires annuel de l'entreprise est inférieur à 60 % de la moyenne pluriannuelle (chiffre d'affaires de référence) en raison des effets des mesures prises par les autorités afin de lutter contre la pandémie.
+
+<sup>2a</sup> Est aussi considérée comme «cas de rigueur» l'entreprise qui, en raison des mesures prises par la Confédération ou le canton pour endiguer l'épidémie de COVID-19, doit cesser, sur décision desdites autorités, son activité pour au moins quarante jours civils cumulés entre le 1<sup>er</sup> novembre 2020 et le 30 juin 2021.
 
 <sup>3</sup> La situation patrimoniale et la dotation en capital globales doivent être prises en considération.
 
@@ -116,7 +131,7 @@ Arrête:
 
 - a) elle est rentable ou viable;
 - b) elle a pris les mesures qui s'imposent pour protéger ses liquidités et sa base de capital;
-- c) elle n'a pas droit aux aides financières au titre du COVID-19 accordées spécifiquement par la Confédération aux domaines de la culture, du sport, des transports publics ou des médias ni n'a déjà bénéficié d'autres soutiens financiers COVID de l'Etat de Fribourg, à l'exception de ceux qui sont admis à l'article 10 al. 2.
+- c) elle n'a pas droit aux aides financières au titre du COVID-19 accordées spécifiquement par la Confédération aux domaines de la culture, du sport, des transports publics ou des médias ni n'a déjà bénéficié d'autres soutiens financiers COVID de l'Etat de Fribourg, à l'exception de ceux qui sont admis à l'article 10 al. 2 et 3.
 
 #### Art. 7
 
@@ -124,12 +139,14 @@ Arrête:
 
 <sup>1</sup> Est considérée comme rentable ou viable en vertu de l'article 6 al. 1 let. a, l'entreprise qui atteste que:
 
-- a) elle n'était pas surendettée entre le 1<sup>er</sup> janvier 2019 et le 31 décembre 2019;
+- a) …
 - b) elle ne fait pas l'objet d'une procédure de faillite ou d'une liquidation au moment du dépôt de la demande;
-- c) elle ne faisait pas, le 15 mars 2020, l'objet d'une procédure de poursuite relative à des cotisations sociales;
-- d) elle peut présenter une preuve de viabilité montrant de manière crédible que son financement peut être assuré au moyen de la mesure pour les cas de rigueur.
+- c) elle ne faisait pas, le 15 mars 2020, l'objet d'une procédure de poursuite relative à des cotisations sociales, à moins qu'un plan de paiement n'ait été convenu ou que la procédure ne se soit conclue par un paiement au moment du dépôt de la demande;
+- d) …
 
-<sup>2</sup> Les conditions de l'alinéa 1 du présent article s'appliquent de manière alternative ou cumulative selon la nature juridique de la demanderesse et les règles de la loi fédérale du 30 mars 1911 complétant le Code civil suisse (Livre cinquième: Droit des obligations) y liées.
+<sup>2</sup> …
+
+<sup>3</sup> Si, lors de l'examen de la demande, l'entreprise présente une situation de surendettement qui permet de préjuger que sa survie demeurerait menacée malgré l'aide, celle-ci peut lui être refusée.
 
 #### Art. 8
 
@@ -142,8 +159,8 @@ Arrête:
 <sup>1</sup> La demanderesse atteste que:
 
 - a) elle ne distribue aucun dividende ou tantième, ne rembourse pas d'apports de capital et n'octroie pas de prêts à ses propriétaires
-  - 1\. pendant les cinq années suivant l'obtention d'une contribution non remboursable ou jusqu'à restitution volontaire de cette contribution au canton;
-  - 2\. pendant toute la durée du prêt, du cautionnement ou de la garantie.
+  - 1\. pendant les trois années suivant l'obtention d'une contribution non remboursable ou jusqu'à restitution volontaire de cette contribution au canton;
+  - 2\. pendant toute la durée du prêt, du cautionnement ou de la garantie ou jusqu'à remboursement du prêt ou extinction des obligations contractuelles mentionnées ci-avant.
 - b) …
 - c) elle ne transfère pas les fonds accordés à une société du groupe qui lui est liée directement ou indirectement et n'a pas son siège en Suisse; il lui est toutefois permis en particulier de s'acquitter des obligations préexistantes de paiement d'intérêts et d'amortissements à l'intérieur d'un groupe.
 
@@ -156,10 +173,10 @@ Arrête:
 <sup>2</sup> Ne tombent pas sous le coup de l'interdiction du cumul de subventions:
 
 - a) les soutiens financiers ordinaires aux entreprises prévus en dehors de la crise COVID-19, notamment dans le domaine de la politique régionale, de la promotion économique et de l'énergie;
-- b) les indemnités pour réduction d'horaire de travail (RHT) et les allocations pour perte de gain (APG) ainsi que leurs pendants cantonaux introduit par la loi du 14 octobre 2020 complétant les mesures économiques destinées à lutter contre les effets du coronavirus pour les entrepreneurs et entrepreneuses et les indépendants et indépendantes (LMEI COVID-19);
+- b) les indemnités pour réduction d'horaire de travail (RHT) et les allocations pour perte de gain (APG) ainsi que leurs pendants cantonaux introduits par la loi du 14 octobre 2020 complétant les mesures économiques destinées à lutter contre les effets du coronavirus pour les entrepreneurs et entrepreneuses et les indépendants et indépendantes (LMEI COVID-19) et par l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les employé‑e‑s d'établissements contraints à la fermeture lors de la deuxième vague de coronavirus (OMAE COVID-19);
 - c) les soutiens prévus par l'ordonnance du 21 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux loyers ou fermages de locaux commerciaux (OMEB COVID-19) et par l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les établissements contraints à la fermeture sur décision des autorités lors de la deuxième vague de coronavirus (OMAF COVID-19).
 
-<sup>3</sup> Il en va de même pour les bénéficiaires du soutien obtenu en vertu de l'ordonnance du 14 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine du tourisme (MET COVID-19). En cas d'éligibilité, la contribution perçue sera déduite du montant de la présente contribution.
+<sup>3</sup> Il en va de même pour les bénéficiaires du soutien obtenu en vertu de l'ordonnance du 14 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine du tourisme (MET COVID-19) et du soutien obtenu en vertu de l'article 4a de l'ordonnance d'exécution du 24 novembre 2020 du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus (OPCR-Gastro COVID-19). En cas d'éligibilité, la contribution perçue sera déduite du montant de la présente contribution.
 
 #### Art. 11
 
@@ -167,9 +184,21 @@ Arrête:
 
 <sup>1</sup> La demanderesse atteste également que son chiffre d'affaires 2020 est inférieur à 60 % du chiffre d'affaires moyen des exercices 2018 et 2019 en raison des mesures ordonnées par les autorités aux fins de la lutte contre l'épidémie de COVID-19.
 
+<sup>1a</sup> En cas de perte de chiffre d'affaires durant les mois de janvier 2021 à juin 2021 en raison des mesures ordonnées par les autorités afin de combattre l'épidémie de COVID-19, la demanderesse peut fonder sa demande sur le recul du chiffre d'affaires des douze derniers mois au lieu du chiffre d'affaires de l'exercice 2020.
+
 <sup>2</sup> …
 
 <sup>3</sup> Pour les entreprises créées après le 31 décembre 2017, le chiffre d'affaires calculé conformément à l'article 5 al. 3 est réputé chiffre d'affaires moyen des exercices 2018 et 2019.
+
+<sup>4</sup> Dans tous les cas, l'entreprise a confirmé au canton que le recul du chiffre d'affaires entraîne d'importants coûts fixes non couverts.
+
+#### Art. 11a
+
+**Dérogation en faveur des entreprises fermées par les autorités**
+
+<sup>1</sup> Conformément à l'article 5b de l'ordonnance fédérale COVID-19 cas de rigueur, les entreprises qui ont dû fermer, sur décision des autorités fédérales ou cantonales, au moins quarante jours entre le 1<sup>er</sup> novembre 2020 et le 30 juin 2021 ne sont pas tenues de remplir les conditions d'octroi d'un soutien financier visées aux articles 6 al. 1 let. b et 11 al. 1, 1a et 4.
+
+<sup>2</sup> Si, après obtention d'une indemnité sur la base de l'article 13a, l'entreprise peut démontrer qu'il subsiste une part importante de coûts fixes non couverts, elle peut déposer une demande d'aide au sens de l'article 13.
 
 ## 3 Calcul, montant maximal et durée du soutien
 
@@ -177,45 +206,102 @@ Arrête:
 
 **Principe**
 
-<sup>1</sup> Le calcul et la forme du soutien financier au sens de la présente ordonnance tiennent compte des coûts fixes et des fonds propres, respectivement de la situation patrimoniale de l'entreprise et de ses principaux ayants droit économiques.
+<sup>1</sup> Conformément à l'article 12 al. 1<sup>bis</sup> de la loi fédérale COVID-19 et à l'article 6 al. 2 de la loi cantonale d'approbation, le calcul et la forme du soutien financier au sens de la présente ordonnance tiennent compte des coûts fixes et des fonds propres, plus précisément de la part des coûts fixes non couverts et de la situation patrimoniale de l'entreprise et de ses principaux ayants droit économiques.
 
 <sup>2</sup> La situation patrimoniale d'un ayant droit économique est prise en considération dès lors que sa participation au capital de la société atteint au moins un tiers dudit capital.
 
+<sup>3</sup> Pour les cas de rigueur au sens de l'article 4 al. 2a de la présente ordonnance, il n'est pas tenu compte de la situation patrimoniale de l'entreprise ni de celle de ses principaux ayants droit économiques.
+
 #### Art. 13
 
-**Prise en charge des coûts fixes**
+**Prise en charge des coûts fixes – Procédure ordinaire**
 
-<sup>1</sup> Le soutien financier aux cas de rigueur consiste en la prise en charge partielle des coûts fixes de l'entreprise, au maximum à hauteur d'un pourcentage équivalent à la perte de chiffre d'affaires.
+<sup>1</sup> Pour les cas de rigueur au sens de l'article 4 al. 2, le soutien financier consiste en la prise en charge partielle des coûts fixes de l'entreprise, au maximum à hauteur d'un pourcentage équivalant à la perte de chiffre d'affaires sur les douze mois qui précèdent la demande et après déduction des indemnités et subventions fédérales et cantonales déjà perçues au sens de l'article 10 al. 2 let. b et c et al. 3.
+
+<sup>1a</sup> Seules les dépenses effectivement supportées sont prises en compte (art. 22 al. 1 LSub).
 
 <sup>2</sup> Les coûts fixes pris en considération comprennent:
 
-- a) les salaires versés par l'entreprise, après déduction de l'indemnité RHT ou des APG et de leurs pendants cantonaux prévus par la LMEI;
-- b) 50 % des coûts liés aux frais de publicité et de représentation et frais analogues;
-- c) les autres coûts fixes directement liés à l'exploitation (loyer, électricité, etc.), après déduction des contributions y liées déjà versées dans le cadre d'une mesure visant à contrer les effets de la crise due au coronavirus (notamment le soutien cantonal perçu par le biais de l'OMEB COVID-19 et le renoncement à la perception du loyer accordé par le bailleur dans ce cadre et de l'OMAF COVID-19).
+- a) les salaires versés par l'entreprise, après déduction de l'indemnité RHT ou des APG et de leurs pendants cantonaux prévus par la LMEI COVID-19 et l'OMAE COVID-19;
+- b) 50 % des coûts liés aux frais de publicité et de représentation et frais analogues, mais au maximum 100 % des coûts effectifs s'ils sont disponibles au travers d'un bouclement intermédiaire ou provisoire;
+- c) les autres coûts fixes directement liés à l'exploitation (loyer, électricité, etc.), après déduction des contributions y liées déjà versées dans le cadre d'une mesure visant à contrer les effets de la crise due au coronavirus (notamment le soutien cantonal perçu par le biais de l'OMEB COVID-19 et la renonciation à la perception du loyer accordée par le bailleur dans ce cadre et dans celui de l'OMAF COVID-19) et de 75 % des indemnités d'assurance perçues en couverture du risque objet de la présente aide.
+
+<sup>2a</sup> Les amortissements sont exclus de l'alinéa 2.
 
 <sup>3</sup> Sont pris en compte les coûts correspondant à la période pour laquelle le soutien est demandé.
+
+#### Art. 13a
+
+**Prise en charge des coûts fixes – Procédure allégée (fermeture totale)**
+
+<sup>1</sup> Pour les cas de rigueur au sens de l'article 4 al. 2a, le soutien financier consiste en une indemnité composée:
+
+- a) de l'équivalent du loyer hors charges ou des intérêts de la dette hypothécaire des locaux consacrés à l'activité économique de la demanderesse, au prorata de la durée de fermeture, et
+- b) de l'indemnisation partielle de la perte effective de chiffre d'affaires sur le ou les mois de la demande en comparaison avec le ou les mois correspondants pour l'année 2019 ou 2020.
+
+<sup>2</sup> L'indemnité est versée sous forme d'acomptes durant la période de fermeture ordonnée, au plus tôt à compter du 23 octobre 2020. Elle est complétée au sortir de cette période, après décompte, d'une prise en charge partielle de la perte effective du chiffre d'affaires.
+
+<sup>3</sup> Elle est versée comme il suit:
+
+- a) un premier acompte versé au prorata du temps de fermeture ordonnée, correspondant à 130 % du loyer mensuel hors charges ou des intérêts mensuels de la dette, et dont est déduite l'aide versée par le biais de l'OMAF COVID-19 pour cette même période;
+- b) un ou des acomptes complémentaires versés mensuellement à la suite du premier acompte, correspondant à 130 % du loyer mensuel hors charges ou des intérêts mensuels de la dette, pour les mois suivants et jusqu'à la levée de la décision de fermeture par les autorités;
+- c) un solde versé à la suite de la réouverture et sur décompte, correspondant à un pourcentage de la perte effective de chiffre d'affaires mensuel durant l'entier de la période de fermeture, duquel est déduite la part des acomptes versés selon les lettres a et b ci-avant dépassant le nominal du loyer mensuel hors charges ou des intérêts mensuels de la dette.
+
+<sup>4</sup> Le loyer mensuel pris en considération ne peut excéder 40'000 francs.
+
+<sup>5</sup> En fonction de sa situation, la demanderesse peut renoncer à la majoration prévue pour les acomptes selon l'alinéa 3 let. a et b.
+
+<sup>6</sup> Le pourcentage de la perte effective de chiffre d'affaires mensuel de l'alinéa 3 let. c est déterminé comme il suit selon les branches:
+
+- a) 20 % pour la restauration;
+- b) 15 % pour les activités sportives, récréatives et de loisirs, sous réserve de l'article 10 al. 1;
+- c) 7,5 % pour le commerce de détail;
+- d) 10 % pour les autres secteurs.
+
+#### Art. 13b
+
+**Prise en charge des coûts fixes – Procédure allégée (fermeture partielle)**
+
+<sup>1</sup> Pour les entreprises dont une partie du domaine d'activité est sous le coup d'une interdiction d'exercice équivalant à une fermeture partielle, une indemnisation est possible aux conditions suivantes:
+
+- a) la perte de chiffre d'affaires au sens de l'article 11 doit être au moins de 20 %;
+- b) la demande ne peut être déposée qu'à la réouverture.
+
+<sup>2</sup> Au demeurant, les exigences de l'article 13a sont applicables.
+
+#### Art. 13c
+
+**Prise en charge des coûts fixes – Dérogation**
+
+<sup>1</sup> Pour les entreprises et les établissements publics soumis à patente, au sens de la loi sur les établissements publics (LEPu), créés après le 1<sup>er</sup> mars 2020 et ayant déjà perçu de l'aide par le biais de l'OMAF COVID-19 ou de l'OPCR-Gastro COVID-19, une aide forfaitaire exceptionnelle équivalant à un loyer mensuel hors charges ou aux intérêts mensuels de la dette peut être octroyée, sans déduction des aides déjà perçues sur la base desdites ordonnances.
 
 #### Art. 14
 
 **Prise en compte de la situation patrimoniale de l'entreprise et de ses principaux ayants droit économiques**
 
-<sup>1</sup> La fixation de la contribution tient compte de la situation de fortune de l'entreprise et de son ou de ses principaux ayants droit économiques.
+<sup>1</sup> La forme de la contribution tient compte de la situation de fortune de l'entreprise et de son ou de ses principaux ayants droit économiques.
 
-<sup>2</sup> Pour les sociétés de capitaux, la contribution est réduite de la somme des fonds propres disponibles au 31 décembre 2019, soit les réserves et les bénéfices reportés, à laquelle est ajoutée le tiers de la valeur du capital-actions ou du capital social et des comptes-courants actionnaire au passif. Sont réservés les comptes-courants actionnaire liés à l'exploitation de la société.
+<sup>2</sup> Pour les sociétés de capitaux, la contribution non remboursable est réduite de la part des fonds propres disponibles au 31 décembre 2019 (soit les réserves, les bénéfices reportés et le capital-actions ou le capital social) qui excède 500'000 francs. Le montant de la réduction peut être octroyé sous forme de prêt.
 
-<sup>3</sup> Pour les demanderesses en raison individuelle ou société de personnes, la réduction correspond au maximum à 50 % de leur fortune privée et commerciale au 31 décembre 2019.
+<sup>3</sup> Pour les demanderesses en raison individuelle ou société de personnes, la contribution non remboursable est réduite du montant de la fortune commerciale au 31 décembre 2019 qui dépasse 500'000 francs. Le montant de la réduction peut être octroyé sous forme de prêt.
 
-<sup>4</sup> La réduction de la contribution par le biais de l'imputation sur la fortune se fait pour l'une moitié sur la contribution versée en 2020 et pour l'autre moitié sur la contribution versée en 2021.
+<sup>4</sup> …
 
 <sup>5</sup> En cas d'existence avérée de réserves latentes excédant le calcul de la contribution, celle-ci prend la forme d'un prêt sans intérêt ou d'un cautionnement.
 
-<sup>6</sup> Dans la mesure où la situation fiscale du ou des principaux ayants droit économiques détenant plus du tiers de la fortune de la société démontre une capacité financière qui excède le calcul de la contribution, celle-ci prend la forme d'un prêt sans intérêt ou d'un cautionnement.
+<sup>6</sup> Dans la mesure où la situation fiscale du ou des principaux ayants droit économiques détenant plus du tiers de la fortune de la société démontre une capacité financière qui excède le calcul de la contribution à fonds perdu, celle-ci prend la forme d'un prêt sans intérêt ou d'un cautionnement.
+
+<sup>7</sup> La détermination de la situation fiscale de l'ayant droit ne tient pas compte de la valeur des titres de la société bénéficiaire. Elle est fixée en considérant une franchise de 750'000 francs.
 
 #### Art. 15
 
 **Montant maximal**
 
-<sup>1</sup> Le montant maximal de la contribution par demanderesse, quelle qu'en soit la forme au sens de l'article 1 al. 2, est plafonné à 10 % du chiffre d'affaires moyen des exercices 2018 et 2019 mais au maximum à 500'000 francs par entreprise pour l'entier de la période au sens de l'article 16.
+<sup>1</sup> Le montant maximal de la contribution par demanderesse, quelle qu'en soit la forme au sens de l'article 1 al. 2, est plafonné à 20 % du chiffre d'affaires moyen des exercices 2018 et 2019, mais au maximum à 750'000 francs par entreprise pour l'entier de la période au sens de l'article 16.
+
+<sup>1a</sup> Le montant maximal de l'alinéa 1 peut exceptionnellement être augmenté jusqu'à 1,5 million de francs au maximum si les propriétaires apportent des fonds propres frais ou si les prêteurs renoncent à leurs créances. Les fonds propres supplémentaires et les abandons de créances doivent au total correspondre au moins à la contribution supplémentaire accordée par le canton.
+
+<sup>1b</sup> Quelle que soit la forme de l'aide et sa procédure d'octroi, le montant total ne peut en principe pas dépasser au final la perte financière réelle documentée (à savoir la perte d'exploitation équivalant au résultat avant impôts, intérêts et amortissements) pour la période correspondant à l'aide.
 
 <sup>2</sup> Il peut être décidé et versé en plusieurs étapes.
 
@@ -223,27 +309,38 @@ Arrête:
 
 **Durée**
 
-<sup>1</sup> Les mesures prévues par la présente ordonnance s'étendent du 1<sup>er</sup> avril 2020 au 30 avril 2021.
+<sup>1</sup> Les mesures prévues par la présente ordonnance s'étendent du 1<sup>er</sup> avril 2020 au 30 juin 2021.
+
+<sup>2</sup> Pour les entreprises qui ont dû fermer, sur décision des autorités fédérales ou cantonales, au moins quarante jours entre le 1<sup>er</sup> novembre 2020 et le 30 juin 2021, les mesures sont prolongées tant que les fermetures sont ordonnées, mais au plus tard jusqu'au 30 juin 2021.
+
+<sup>3</sup> La durée totale de l'aide ne peut excéder douze mois.
+
+#### Art. 16a
+
+**Dérogation – Importance majeure ou systémique**
+
+<sup>1</sup> Pour des cas exceptionnels, qui représentent une importance majeure ou systémique pour l'économie cantonale, le Conseil d'Etat peut prévoir des exceptions sous l'angle aussi bien des conditions d'éligibilité que de celles du calcul, des montants et/ou de la durée du soutien.
 
 ## 4 Procédure
 
 #### Art. 17
 
-**Demande**
+**Demande – Procédure ordinaire**
 
-<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur déposent leur demande au moyen du formulaire officiel, auprès du Secrétariat général de la Direction de l'économie et de l'emploi (ci-après: le Service), avec la mention «cas de rigueur – demande de soutien». En cas de mise à disposition d'un dispositif électronique sur le site www.promfr.ch, celui-ci sera privilégié.
+<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur au sens de l'article 4 al. 1 et 2 (procédure ordinaire) déposent leur demande auprès du Secrétariat général de la Direction de l'économie et de l'emploi (ci-après: le Service), au moyen de la formule en ligne sur le site dédié à cette fin www.promfr.ch.
 
 <sup>2</sup> Elles annexent à leur demande:
 
-- a) les états financiers, soit au minimum leur bilan et comptes de pertes et profits des années 2018 et 2019;
-- b) le document attestant de leur chiffre d'affaires pour l'année 2020, ou pour les trois premiers trimestres 2020 si la demande est déposée jusqu'au 31 janvier 2021;
+- a) les états financiers, soit au minimum leurs bilans et comptes de pertes et profits des années 2018 et 2019;
+- b) le document attestant leur chiffre d'affaires pour les douze mois précédant la demande;
 - c) le document attestant de leurs charges de personnel pour la période relative à la demande;
 - d) le décompte des indemnités RHT ou des APG touchées et leurs pendants cantonaux prévus par la LMEI pour la période relative à la demande, le cas échéant le décompte des soutiens touchés sur la base de l'OMEB et de l'OMAF;
-- e) l'attestation que l'entreprise ne faisait pas, le 15 mars 2020, l'objet d'une procédure de poursuite relative à des cotisations sociales;
+- e) …
 - f) l'attestation que l'entreprise est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s;
 - g) un extrait récent du registre des poursuites;
-- h) un plan financier à moyen terme montrant de manière crédible que le financement de l'entreprise au moyen de la mesure pour les cas de rigueur peut être assuré pendant toute la durée du plan financier;
-- i) l'avis de taxation du ou des ayants droit économiques dont la participation au capital de la société atteint au moins un tiers dudit capital au sens l'article 12 al. 2.
+- h) …
+- i) l'avis de taxation du ou des ayants droit économiques dont la participation au capital de la société atteint au moins un tiers dudit capital au sens de l'article 12 al. 2;
+- j) une confirmation que l'entreprise ne dispose pas d'une assurance privée permettant de couvrir tout ou partie des pertes de chiffre d'affaires ou une attestation des indemnités obtenues grâce à une telle assurance.
 
 <sup>3</sup> En cas de renouvellement de la demande, seuls les documents prévus à l'alinéa 2 let. b, c, et d doivent être produits à nouveau.
 
@@ -253,19 +350,64 @@ Arrête:
 
 <sup>6</sup> Le Service peut s'adjoindre les services d'un tiers mandaté afin de traiter les demandes, en collaboration avec le Service cantonal des contributions (SCC).
 
-<sup>7</sup> L'article 7 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19 demeure réservé.
+<sup>7</sup> L'article 7 de la loi cantonale d'approbation demeure réservé.
+
+#### Art. 17a
+
+**Demande – Procédure allégée**
+
+<sup>1</sup> Les entreprises qui s'estiment éligibles à la mesure de soutien aux cas de rigueur au sens de l'article 4 al. 2a (procédure allégée) déposent leur demande auprès du Service au moyen de la formule en ligne sur le site dédié à cette fin www.promfr.ch.
+
+<sup>2</sup> Elles annexent à leur demande:
+
+- a) les états financiers, soit au minimum leurs bilans et comptes de pertes et profits des années 2018 et 2019;
+- b) les recettes hors TVA réparties mensuellement;
+- c) les justificatifs permettant d'attester les recettes indiquées sous la lettre b (extraits des comptes de produits et attestations bancaires, lectures des caisses enregistreuses);
+- d) un extrait récent du registre des poursuites;
+- e) la copie du contrat de bail ou l'attestation de la dette hypothécaire;
+- f) la copie d'une pièce d'identité du ou des représentants de la demanderesse.
+
+<sup>3</sup> En cas de renouvellement de la demande, seuls les documents prévus à l'alinéa 2 let. b et c actualisés au mois faisant l'objet de la demande doivent être produits à nouveau.
+
+<sup>4</sup> Les informations suivantes sont certifiées par autodéclaration:
+
+- a) la demanderesse a régulièrement payé les charges sociales à sa charge et celles qu'elle doit verser pour le compte de ses employé‑e‑s;
+- b) la demanderesse a régulièrement payé ses taxes d'exploitation selon la LEPu si son activité est soumise à patente au sens de dite loi;
+- c) la demanderesse est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s;
+- d) l'entreprise ne dispose pas d'une assurance privée permettant de couvrir tout ou partie des pertes de chiffres d'affaires ou, le cas échéant, elle s'engage à fournir une attestation des indemnités obtenues grâce à une telle assurance.
+
+<sup>5</sup> Au demeurant, les alinéas 4 à 7 de l'article 17 sont applicables.
+
+#### Art. 17b
+
+**Coordination des procédures**
+
+<sup>1</sup> Une même entreprise ne peut être traitée simultanément en procédure ordinaire (art. 17) et en procédure allégée (art. 17a).
+
+#### Art. 17c
+
+**Secteur**
+
+<sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 5 al. 1 let. b et c, 6 al. 1 let. c, 11 al. 1 et 4 et 15 de la présente ordonnance soit vérifié séparément pour chaque secteur.
+
+<sup>2</sup> Dans ce cas, l'article 10 al. 1 de la présente ordonnance ne s'applique pas.
+
+<sup>3</sup> Chaque secteur fera l'objet d'une demande spécifique qui sera traitée par l'autorité compétente.
 
 #### Art. 18
 
 **Délais**
 
-<sup>1</sup> La demande est introduite comme suit:
+<sup>1</sup> Pour les demandes en procédure ordinaire au sens de l'article 17, la demande d'aide est introduite comme il suit:
 
-- a) jusqu'au 31 janvier 2021 pour la période de soutien comprise entre le 1<sup>er</sup> avril et le 30 septembre 2020;
-- b) le 31 janvier 2021 pour le 4<sup>e</sup> trimestre 2020; l'entreprise peut introduire une seule demande pour l'ensemble du soutien portant sur 2020;
-- c) le 30 avril 2021 pour le 1<sup>er</sup> trimestre 2021.
+- a) …
+- b) le 31 mars 2021 pour les 2<sup>e</sup>, 3<sup>e</sup> et 4<sup>e</sup> trimestres 2020; l'entreprise peut introduire une seule demande pour l'ensemble du soutien portant sur 2020;
+- c) le 30 juin 2021 pour le 1<sup>er</sup> trimestre 2021;
+- d) le 30 septembre 2021 pour le 2<sup>e</sup> trimestre 2021.
 
 <sup>2</sup> Une première demande au sens de l'article 17 al. 1 peut être introduite à partir de n'importe laquelle des périodes mentionnées dans le précédent alinéa.
+
+<sup>3</sup> Pour les demandes en procédure allégée au sens de l'article 17a, la demande d'aide est introduite d'ici au 30 juin 2021.
 
 #### Art. 19
 
@@ -277,8 +419,25 @@ Arrête:
 
 <sup>3</sup> Pour l'octroi des contributions au sens de la présente ordonnance, les compétences financières sont fixées comme suit:
 
-- a) jusqu'à 100'000 francs pour la DEE;
+- a) jusqu'à 200'000 francs pour la DEE;
 - b) au-delà, pour le Conseil d'Etat.
+
+<sup>4</sup> Les décisions prises par la DEE ou le Conseil d'Etat sont sujettes à recours conformément au code de procédure et de juridiction administrative.
+
+#### Art. 19a
+
+**Procédure et modalités des prêts**
+
+<sup>1</sup> Lorsque l'aide est accordée sous forme de prêt, l'autorité compétente pour le traitement de la demande transmet sa décision à la Promotion économique du canton de Fribourg (ci-après: la PromFR). Cette dernière peut s'adjoindre les services d'un tiers sur mandat (p. ex. la Fondation Seed Capital Fribourg).
+
+<sup>2</sup> La PromFR conclut au nom et pour le compte de l'Etat avec l'entreprise bénéficiaire une convention, laquelle prévoit au moins:
+
+- a) les conditions du prêt;
+- b) le plan de remboursement.
+
+<sup>3</sup> Le prêt préférentiel est accordé sans intérêts, au sens de l'article 7 al. 1 du règlement du 22 août 2000 sur les subventions.
+
+<sup>4</sup> Il est remboursable dans un délai maximal de cinq ans à compter de la date d'octroi.
 
 ## 5 Divers
 
@@ -289,6 +448,8 @@ Arrête:
 <sup>1</sup> Les contributions versées au titre de la présente ordonnance doivent être identifiées de manière spécifique dans les comptes de l'Etat.
 
 <sup>2</sup> L'Administration des finances fournit les instructions nécessaires à cet effet.
+
+<sup>3</sup> Le montant de la contribution octroyée par l'Etat au sens de la présente ordonnance fera partie intégrante de la comptabilité commerciale de l'entité bénéficiaire.
 
 #### Art. 21
 
@@ -306,13 +467,13 @@ Arrête:
 
 **Droit au soutien financier**
 
-<sup>1</sup> Il n'existe aucun droit à l'obtention du soutien financier prévu par la présente ordonnance.
+<sup>1</sup> Il n'existe aucun droit à l'obtention du soutien financier prévu par la présente ordonnance, quelle que soit sa forme.
 
 #### Art. 23
 
 **Protection des données**
 
-<sup>1</sup> Les données sont collectées par le Service dans le cadre de l'article 17.
+<sup>1</sup> Les données sont collectées par le Service dans le cadre des articles 17 et 17a.
 
 <sup>2</sup> Les données collectées conformément à l'alinéa 1 peuvent être communiquées à d'autres autorités publiques dans le cadre de l'accomplissement de leur(s) tâche(s) légale(s) respective(s), sous réserve de l'existence d'une disposition légale pour l'utilisation des données. Des contrôles seront effectués.
 
@@ -328,13 +489,35 @@ Arrête:
 
 <sup>1</sup> Les obligations de l'entreprise bénéficiaire, la révocation de la décision et la restitution de la contribution sont réglées conformément aux dispositions de la LSub.
 
+<sup>2</sup> Le remboursement de l'aide financière, qu'elle soit considérée comme une contribution individuelle ou comme une indemnité, peut être exigé si le montant total de l'aide dépasse la perte financière réelle au sens de l'article 15 al. 1b (surindemnisation).
+
+<sup>3</sup> Il en va de même si les conditions émises dans la présente ordonnance ainsi que dans la loi fédérale COVID-19 et son ordonnance d'application ne sont pas remplies ou si les informations remises par l'entreprise bénéficiaire se révèlent inexactes ou erronées.
+
+<sup>4</sup> En cas de versement d'indemnités par une assurance privée, dont l'existence n'aurait pas été communiquée au moment du dépôt de la demande, couvrant tout ou partie de la perte de chiffre d'affaires objet des mesures de soutien en application de la présente ordonnance, l'entreprise bénéficiaire s'engage à rembourser à l'Etat le montant, jusqu'à concurrence de l'aide perçue.
+
 ## 6 Dispositions finales
+
+#### Art. 24a
+
+**Droit transitoire relatif à la modification du 8 février 2021**
+
+<sup>1</sup> Le droit faisant suite à la modification du 8 février 2021 de la présente ordonnance est applicable à toutes les demandes pendantes et rétroactivement à toutes les demandes déjà traitées, quelle que soit la décision prise, à la condition qu'elle concerne une demande d'aide recevable à compter du 1<sup>er</sup> novembre 2020.
+
+<sup>2</sup> La révision des décisions s'effectue d'office par le Service, ou sur requête des demanderesses. Au besoin, le Service demande les pièces complémentaires nécessaires selon les articles 17 al. 2 et 17a al. 2 afin que les conditions d'octroi soient conformes aux exigences minimales des articles 14 et suivants de l'ordonnance fédérale COVID-19 cas de rigueur.
+
+<sup>3</sup> Les demandes déposées en procédure ordinaire au sens de l'article 17 sont traitées selon dite procédure, sous réserve qu'elles remplissent les critères d'éligibilité.
+
+<sup>4</sup> Les demandes déposées dans le cadre de l'article 4a OPCR-Gastro COVID-19 sont traitées d'office en procédure allégée au sens de l'article 17a. Est réservée une nouvelle demande en procédure ordinaire.
 
 #### Art. 25
 
 **Droit fédéral**
 
-<sup>1</sup> En cas de modification des conditions de l'ordonnance fédérale sur les cas de rigueur COVID-19, celles-ci s'appliquent de suite si elles sont plus favorables à la demanderesse dans l'attente des modifications de la présente ordonnance.
+<sup>1</sup> En cas de modification des conditions impératives de la loi fédérale COVID-19 et/ou de l'ordonnance fédérale COVID-19 cas de rigueur, celles-là s'appliquent avec effet immédiat si elles sont plus favorables à la demanderesse dans l'attente des modifications de la présente ordonnance. La loi cantonale demeure réservée.
+
+<sup>1a</sup> Il en va de même pour l'adaptation éventuelle des montants maximaux prévus à l'article 15.
+
+<sup>1b</sup> L'alinéa 1 n'est pas applicable pour les cas d'assouplissement qui impliquent un choix de la part des cantons.
 
 <sup>2</sup> La participation de la Confédération aux mesures cantonales prévues par la présente ordonnance est conditionnée à l'approbation de celle-ci par le Secrétariat d'Etat à l'économie (SECO).
 
@@ -342,6 +525,6 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 30 juin 2021. Selon l'évolution de la situation, sa durée de validité peut être prolongée.
+<sup>1</sup> La présente ordonnance reste en vigueur jusqu'au 31 décembre 2021. Selon l'évolution de la situation, sa durée de validité peut être prolongée.
 
 2020\_148
