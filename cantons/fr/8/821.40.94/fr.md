@@ -4,13 +4,13 @@ number: "821.40.94"
 title: "Ordonnance d'exécution du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus («Bars, discothèques et restaurants»)"
 short: OPCR-Gastro COVID-19
 language: fr
-version: 2021-01-13
-valid_until: 2021-02-11
-version_adopted: 2021-01-13
+version: 2021-02-12
+valid_until: 2021-10-11
+version_adopted: 2021-02-08
 adopted: 2020-11-24
 in_force: 2020-11-24
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.94"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6723/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6770/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, plan de relance – Bars, discothèques et restaurants – O
 
 (OPCR-Gastro COVID-19)
 
-du 24.11.2020 (version entrée en vigueur le 13.01.2021)
+du 24.11.2020 (version entrée en vigueur le 12.02.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -131,22 +131,7 @@ Arrête:
 
 #### Art. 4a
 
-**Activation anticipée de la mesure à titre de «mesure urgente»**
-
-<sup>1</sup> En complément aux articles 3 et 4 ci-avant, les conditions d'octroi et les modalités de traitement des demandes de contribution en raison de l'activation anticipée de la mesure à titre de «mesure urgente» sont les suivantes:
-
-- a) bénéficiaires de l'aide: peuvent déposer une demande les bénéficiaires au sens de l'article 3 al. 1 let. a dont l'établissement ou l'installation accessible au public a fait l'objet d'une fermeture sur décision des autorités au sens de l'article 1 de l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les établissements contraints à la fermeture lors de la deuxième vague de coronavirus (OMAF COVID-19);
-- b) durée de l'aide: la mesure de relance actionnée de manière anticipée à titre de «mesure urgente» est applicable dès le 1<sup>er</sup> novembre 2020 et jusqu'au 31 janvier 2021 au plus tard;
-- c) dépôt des demandes: à compter du 4 janvier 2021;
-- d) levée d'exclusions: les exclusions prévues à l'article 3 al. 2 let. b et c ne sont pas applicables à la «mesure urgente» prévue par le présent article;
-- e) documents complémentaires, allégement: il n'est pas nécessaire de produire l'attestation RHT prévue à l'article 4 al. 1 let. c ch. 5;
-- f) auto-déclaration: les informations contenues dans les documents complémentaires exigés à l'article 4 al. 1 let. c ch. 6 à 9 sont certifiées par auto-déclaration.
-
-<sup>2</sup> L'UFT procédera à des contrôles.
-
-<sup>3</sup> Les exigences sanitaires de l'ordonnance du 10 novembre 2020 relative aux mesures cantonales pour freiner la propagation du coronavirus demeurent réservées.
-
-<sup>4</sup> En complément des moyens définis à l'article 2 al. 1, les moyens additionnels nécessaires au financement de la demande seront imputés sur le montant alloué aux cas de rigueur au sens de l'article 6 al. 3 de la loi du 14 octobre 2020 approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19.
+**…**
 
 #### Art. 5
 
