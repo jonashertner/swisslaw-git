@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordinanza dell'USAV del 18 dicembre 2017 che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell'Unione europea, Islanda et Norvegia"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/832"
 language: it
-version: 2021-01-01
+version: 2021-02-12
 adopted: 2017-12-18
 in_force: 2017-12-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210212/it/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210212-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210212/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza dell’USAV che istituisce provvedimenti contro la propagazione della peste suina africana nel traffico con Stati membri dell’Unione europea, Islanda e Norvegia****
 
-del 18 dicembre 2017 (Stato 1° gennaio 2021)[^t-1]
+del 18 dicembre 2017 (Stato 12 febbraio 2021) (Stato 12 febbraio 2021)[^t-1]
 
 [^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 13 giu. 2018, in vigore dal 15 giu. 2018 ([RU 2018 2327](https://fedlex.data.admin.ch/eli/oc/2018/332)).
 
@@ -70,8 +70,8 @@ L’importazione di animali vivi e prodotti di origine animale di cui all’arti
 <sup>2</sup> L’importazione di cinghiali vivi provenienti dall’intero territorio degli Stati membri dell’UE, dell’Islanda e della Norvegia è vietata.[^2-5]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 17 ott. 2018, in vigore dal 19 ott. 2018 ([RU 2018 3455](https://fedlex.data.admin.ch/eli/oc/2018/561)).
-[^2-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 30 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6745](https://fedlex.data.admin.ch/eli/oc/2020/1079)).
-[^2-3]: Decisione di esecuzione 2014/709/UE della Commissione, del 9 ottobre 2014, recante misure di protezione contro la peste suina africana in taluni Stati membri e che abroga la decisione di esecuzione 2014/178/UE, GU L 295 dell’11.10.2014, pag. 63; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2241, GU L 436 del 28.12.2020, pag. 39.
+[^2-2]: Nuovo testo giusta il n. I dell’O dell’USAV del 10 feb. 2021, in vigore dal 12 feb. 2021 ([RU 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
+[^2-3]: Decisione di esecuzione 2014/709/UE della Commissione, del 9 ottobre 2014, recante misure di protezione contro la peste suina africana in taluni Stati membri e che abroga la decisione di esecuzione 2014/178/UE, GU L 295 dell’11.10.2014, pag. 63; modificata da ultimo dalla decisione di esecuzione (UE) 2021/123, GU L 38 del 3.2.2021, pag. 63.
 [^2-4]: Direttiva 2002/60/CE del Consiglio, del 27 giugno 2002, recante disposizioni specifiche per la lotta contro la peste suina africana e recante modifica della direttiva 92/119/CEE per quanto riguarda la malattia di Teschen e la peste suina africana, GU L 192 del 20.7.2002, pag. 27; modificata da ultimo dalla direttiva 2008/73/CE, GU L 219 del 14.8.2008, pag. 40.
 [^2-5]: Nuovo testo giusta il n. I dell’O dell’USAV del 5 nov. 2018, in vigore dal 7 nov. 2018 ([RU 2018 3901](https://fedlex.data.admin.ch/eli/oc/2018/621)).
 
@@ -145,7 +145,7 @@ Allegato*[^t-2]*
 
 ## Stati membri e zone interessati
 
-[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 21 dic. 2020 ([RU 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Aggiornato dal n. II dell’O dell’USAV del 30 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6745](https://fedlex.data.admin.ch/eli/oc/2020/1079)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 21 dic. 2020 ([RU 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Aggiornato dal n. II dell’O dell’USAV del 10 feb. 2021, in vigore dal 12 feb. 2021 ([RU 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
 
 ### 1 Zone disciplinate secondo la decisione di esecuzione 2014/709/UE
 
@@ -153,7 +153,7 @@ Gli Stati membri dell’Unione europea e le zone con un rischio elevato di intro
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione 2014/709/UE</td><td>Decisione di esecuzione 2014/709/UE della Commissione, del 9 ottobre 2014, recante misure di protezione contro la peste suina africana in taluni Stati membri e che abroga la decisione di esecuzione 2014/178/UE, GU L 295 dell’11.10.2014, pag. 63; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2241, GU L 436 del 28.12.2020, pag. 39</td></tr>
+<tr><td>Decisione di esecuzione 2014/709/UE</td><td>Decisione di esecuzione 2014/709/UE della Commissione, del 9 ottobre 2014, recante misure di protezione contro la peste suina africana in taluni Stati membri e che abroga la decisione di esecuzione 2014/178/UE, GU L 295 dell’11.10.2014, pag. 63; modificata da ultimo dalla decisione di esecuzione (UE) 2021/123, GU L 38 del 3.2.2021, pag. 63</td></tr>
 </table>
 
 Nell’allegato della decisione di esecuzione sopra citata, determinate zone negli Stati membri interessati sono suddivise in base al rischio di introduzione della peste suina africana nelle quattro parti seguenti:
@@ -198,8 +198,6 @@ Lettonia
 Lituania
 
 Polonia
-
-Romania
 
 Slovacchia
 
