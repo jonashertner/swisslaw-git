@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les prestations transitoires pour les chômeurs âgés
 document: Projet
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulle prestazioni transitorie per i disoccupati anziani
 document: Avamprogetto
 language: it

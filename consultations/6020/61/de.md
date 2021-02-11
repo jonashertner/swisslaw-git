@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Überbrückungsleistungen für ältere Arbeitslose
 document: Vorlage
 language: de
