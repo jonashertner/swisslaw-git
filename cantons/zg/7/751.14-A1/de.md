@@ -4,13 +4,13 @@ number: 751.14-A1
 title: "Gesetz über Strassen und Wege (Anhang 1: Verzeichnis der Kantonsstrassen gemäss § 5 GSW)"
 short: GSW
 language: de
-version: 2014-12-06
-valid_until: 2021-02-12
-version_adopted: 2014-12-02
+version: 2021-02-13
+valid_until: 2021-04-30
+version_adopted: 2018-06-19
 adopted: 1996-05-30
 in_force: 2010-02-05
 url: "https://bgs.zg.ch/app/de/texts_of_law/751.14-A1"
-pdf: "https://bgs.zg.ch/api/de/versions/1387/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2215/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,15 @@ pdf: "https://bgs.zg.ch/api/de/versions/1387/pdf_file"
 
 (GSW)
 
-Vom 30. Mai 1996 (Stand 6. Dezember 2014)
+Vom 30. Mai 1996 (Stand 13. Februar 2021)
+
+Der Regierungsrat des Kantons Zug,
+
+gestützt auf § 5 Abs. 1 und § 9 Abs. 1 und 2 des Gesetzes über Strassen und Wege vom 30. Mai 1996 (GSW)[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: BGS [751.14](https://bgs.zg.ch/data/751.14/de)
 
 #### § 1
 
@@ -66,7 +74,7 @@ Vom 30. Mai 1996 (Stand 6. Dezember 2014)
 - a) Holzbrücke Sins, Hünenberg
 - b) Mühlauerbrücke, Hünenberg
 - c) Steinbogenbrücke Lorzentobel inkl. Zufahrtsstrecken, Baar und Menzingen
-- d) Alte Sagentobelbrücke, Walchwil
+- d) …
 
 <sup>2</sup> Folgende Brücke steht im Eigentum des Kantons und wird von der Gemeinde unterhalten:
 
