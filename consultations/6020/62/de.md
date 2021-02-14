@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Aufhebung der Verordnung über die Bundeskriegstransportversicherung
 document: Vorlage
 language: de

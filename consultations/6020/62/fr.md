@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Abrogation de l'ordonnance sur l'assurance fédérale des transports contre les risques de guerre"
 document: Projet
 language: fr

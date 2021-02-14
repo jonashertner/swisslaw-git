@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Abrogazione dell'ordinanza sull'assicurazione federale dei trasporti contro i rischi di guerra"
 document: Avamprogetto
 language: it
