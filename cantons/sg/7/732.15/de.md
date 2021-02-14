@@ -3,20 +3,19 @@ canton: SG
 number: "732.15"
 title: Kantonsratsbeschluss über den Kantonsstrassenplan
 language: de
-version: 2020-01-01
-valid_until: 2021-02-14
-version_adopted: 2018-09-19
+version: 2021-02-15
+version_adopted: 2021-02-15
 adopted: 1987-09-28
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.15"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2986/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Kantonsratsbeschluss über den Kantonsstrassenplan
 
-vom 28.09.1987 (Stand 01.01.2020)
+vom 28.09.1987 (Stand 15.02.2021)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -30,7 +29,7 @@ als Beschluss:[^ingress-3]
 
 [^ingress-1]: ABl 1986, 1585 und 1706.
 [^ingress-2]: sGS [732.1](https://www.gesetzessammlung.sg.ch/data/732.1/de).
-[^ingress-3]: nGS 23–41. Vom Grossen Rat erlassen am 28. September 1987; in Vollzug ab 1. Januar 1989. Geändert durch Ziff. 5 des GRB über den Bau einer Thurbrücke bei Lütisburg samt Geh- und Radweg entlang der Toggenburger Strasse vom 7. April 1994, nGS 29–26 (sGS 732.43); Nachtrag vom 28. September 1995, nGS 30–128; II. Nachtrag vom 24. September 1997, nGS 37–48; III. Nachtrag vom 29. November 2001, nGS 37–49; IV. Nachtrag vom 25. September 2006, nGS 41–84; Art. 11 des G über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen vom 23. September 2007, nGS 43–40 (sGS 813.6); V. Nachtrag vom 24. September 2008, nGS 43–157; VI. Nachtrag vom 1. Dezember 2009, nGS 45–37; VII. Nachtrag vom 1. Dezember 2009, nGS 45–38; VIII. Nachtrag vom 16. Februar 2011, nGS 46–82; IX. Nachtrag vom 18. September 2013, nGS 2013-018; X. Nachtrag vom 24. November 2014, nGS 2015-014; XI. Nachtrag vom 19. September 2018, nGS 2020-001.
+[^ingress-3]: nGS 23–41. Vom Grossen Rat erlassen am 28. September 1987; in Vollzug ab 1. Januar 1989. Geändert durch Ziff. 5 des GRB über den Bau einer Thurbrücke bei Lütisburg samt Geh- und Radweg entlang der Toggenburger Strasse vom 7. April 1994, nGS 29–26 (sGS 732.43); Nachtrag vom 28. September 1995, nGS 30–128; II. Nachtrag vom 24. September 1997, nGS 37–48; III. Nachtrag vom 29. November 2001, nGS 37–49; IV. Nachtrag vom 25. September 2006, nGS 41–84; Art. 11 des G über die Umsetzung der Neugestaltung des Finanzausgleichs und der Aufgabenteilung zwischen Bund und Kantonen vom 23. September 2007, nGS 43–40 (sGS 813.6); V. Nachtrag vom 24. September 2008, nGS 43–157; VI. Nachtrag vom 1. Dezember 2009, nGS 45–37; VII. Nachtrag vom 1. Dezember 2009, nGS 45–38; VIII. Nachtrag vom 16. Februar 2011, nGS 46–82; IX. Nachtrag vom 18. September 2013, nGS 2013-018; X. Nachtrag vom 24. November 2014, nGS 2015-014; XI. Nachtrag vom 19. September 2018, nGS 2020-001; XII. Nachtrag vom 15. Februar 2021, nGS 2021-022.
 
 #### Art. 1
 
