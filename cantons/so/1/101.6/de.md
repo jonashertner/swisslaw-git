@@ -4,13 +4,13 @@ number: "101.6"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung-SO
 language: de
-version: 2021-01-20
-valid_until: 2021-02-15
-version_adopted: 2021-01-19
+version: 2021-02-16
+valid_until: 2021-03-11
+version_adopted: 2021-02-15
 adopted: 2020-12-07
 in_force: 2021-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/101.6"
-pdf: "https://bgs.so.ch/api/de/versions/5056/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5056/pdf_file"
 
 (Härtefallverordnung-SO)
 
-Vom 07.12.2020 (Stand 20.01.2021)
+Vom 07.12.2020 (Stand 16.02.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -75,11 +75,11 @@ beschliesst:
 
 **Härtefallbeiträge**
 
-<sup>1</sup> Die Fachstelle Standortförderung gewährt in erster Linie nicht rückzahlbare Härtefallbeiträge.
+<sup>1</sup> Die Fachstelle Standortförderung gewährt einmalig nicht rückzahlbare Härtefallbeiträge.
 
-<sup>2</sup> Die Höhe des nicht rückzahlbaren Härtefallbeitrages beläuft sich pro Unternehmen auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019, jedoch auf höchstens 200'000 Franken.
+<sup>2</sup> Die Höhe des nicht rückzahlbaren Härtefallbeitrages beläuft sich pro Unternehmen auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019, jedoch auf höchstens 750'000 Franken.
 
-<sup>2<sup>bis</sup></sup> In Abweichung von Absatz 2 kann der nicht rückzahlbare Härtefallbeitrag auf maximal 400'000 Franken erhöht werden, wenn die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital einbringen oder Fremdkapitalgeber bzw. Fremdkapitalgeberinnen auf ihre Forderungen verzichten. Das zusätzliche Eigenkapital und der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Härtefallbeitrag entsprechen.
+<sup>2<sup>bis</sup></sup> In Abweichung von Absatz 2 kann der nicht rückzahlbare Härtefallbeitrag auf maximal 1.5 Millionen Franken erhöht werden, wenn die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital einbringen oder Fremdkapitalgeber bzw. Fremdkapitalgeberinnen auf ihre Forderungen verzichten. Das zusätzliche Eigenkapital und der Forderungsverzicht müssen insgesamt mindestens dem vom Kanton zusätzlich gewährten Härtefallbeitrag entsprechen. Dabei bleibt der Höchstbeitrag auf 20 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 begrenzt.
 
 <sup>3</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach § 8 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
 
@@ -87,9 +87,9 @@ beschliesst:
 
 **Solidarbürgschaft**
 
-<sup>1</sup> Erreicht ein Unternehmen den maximalen Härtefallbeitrag von 200'000 Franken, kann die Fachstelle Standortförderung unter Vorbehalt von Absatz 2 und § 6 zusätzlich zu einem Härtefallbeitrag eine Solidarbürgschaft durch eine Bürgschaftsorganisation zusichern, sofern der verbürgte Kredit mindestens 100'000 Franken beträgt.
+<sup>1</sup> Erreicht ein Unternehmen den maximalen Härtefallbeitrag von 750'000 Franken, kann die Fachstelle Standortförderung unter Vorbehalt von Absatz 2 und § 6 zusätzlich zu einem Härtefallbeitrag eine Solidarbürgschaft durch eine Bürgschaftsorganisation zusichern, sofern der verbürgte Kredit mindestens 500'000 Franken beträgt.
 
-<sup>2</sup> Die Höhe der vom Kanton mittels einer Bürgschaftsorganisation eingegangenen Bürgschaft beträgt pro Unternehmen höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 jedoch höchstens 500'000 Franken (inkl. Zinszahlungen und Spesen).
+<sup>2</sup> Die Höhe der vom Kanton mittels einer Bürgschaftsorganisation eingegangenen Bürgschaft beträgt pro Unternehmen höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 jedoch höchstens 2 Millionen Franken (inkl. Zinszahlungen und Spesen).
 
 <sup>3</sup> Die Dauer einer Solidarbürgschaft nach dieser Verordnung beträgt höchstens zehn Jahre. Die nach dieser Verordnung gewährten Kredite sind innerhalb dieser Frist vollständig zu amortisieren.
 
@@ -110,9 +110,9 @@ beschliesst:
 
 **Kumulation von Härtefallmassnahmen**
 
-<sup>1</sup> Pro Unternehmen darf die rückzahlbare und die nicht rückzahlbare Unterstützung gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 700'000 Franken betragen.
+<sup>1</sup> Pro Unternehmen darf die rückzahlbare und die nicht rückzahlbare Unterstützung gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 2.75 Millionen Franken betragen.
 
-<sup>1[[<sup>bis</sup>]]</sup> Bringen die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital ein oder verzichten Fremdkapitalgeber bzw. Fremdkapitalgeberinnen gemäss § 4 Absatz 2<sup>bis</sup> auf Forderungen, darf die rückzahlbare und die nicht rückzahlbare Unterstützung pro Unternehmen gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 900'000 Franken betragen.
+<sup>1[[<sup>bis</sup>]]</sup> Bringen die Eigentümer bzw. die Eigentümerinnen zusätzliches Eigenkapital ein oder verzichten Fremdkapitalgeber bzw. Fremdkapitalgeberinnen gemäss § 4 Absatz 2<sup>bis</sup> auf Forderungen, darf die rückzahlbare und die nicht rückzahlbare Unterstützung pro Unternehmen gesamthaft nicht mehr als 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und höchstens 3.5 Millionen Franken betragen.
 
 <sup>2</sup> Für Unternehmen, die nach dem 31. Dezember 2017 gegründet worden sind, gilt der nach § 8 Absatz 2 berechnete Umsatz als durchschnittlicher Jahresumsatz der Jahre 2018 und 2019.
 
@@ -142,7 +142,7 @@ beschliesst:
 
 - a) es vor dem 1. März 2020 ins Handelsregister eingetragen worden ist oder, bei fehlendem Handelsregistereintrag, vor dem 1. März 2020 gegründet worden ist;
 - b) es im Durchschnitt der Jahre 2018 und 2019 einen Umsatz von mindestens 50'000 Franken erzielt hat;
-- c) seine Lohnkosten überwiegend im Kanton Solothurn anfallen.
+- c) seine Lohnkosten überwiegend in der Schweiz anfallen.
 
 <sup>2</sup> Hat das Unternehmen die Geschäftstätigkeit auf den 1. Januar 2020 oder später aufgenommen oder wurde es 2019 oder 2018 gegründet und sind darum die Geschäftsjahre 2019 oder 2018 überlang, so gilt als durchschnittlicher Umsatz nach Absatz 1 Buchstabe b der Umsatz, der zwischen dem 1. Januar 2018 und dem 29. Februar 2020 erzielt wurde, berechnet auf 12 Monate.
 
@@ -183,7 +183,18 @@ beschliesst:
 
 **Entfallende Anspruchsvoraussetzungen für behördlich geschlossene Unternehmen**
 
-<sup>1</sup> Für Unternehmen, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, entfallen die Anspruchsvoraussetzungen nach den §§ 9 Absatz 1 Buchstabe b, 10 Absätze 1 und 1<sup>bis</sup> und 10a.
+<sup>1</sup> Für Unternehmen, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage schliessen müssen, entfallen die Anspruchsvoraussetzungen nach den §§ 9 Absatz 1 Buchstabe b und 10 Absätze 1 und 1<sup>bis</sup>.
+
+#### § 10c
+
+**Anspruchsvoraussetzungen für teilgeschlossene Unternehmen**
+
+<sup>1</sup> Als teilgeschlossen gelten Unternehmen, die aufgrund von Massnahmen des Bundes oder des Kantons zur Eindämmung der Covid-19-Epidemie ihren Betrieb zwischen dem 1. November 2020 und dem 30. Juni 2021 für mindestens 40 Tage teilweise schliessen müssen.
+
+<sup>2</sup> Das teilgeschlossene Unternehmen belegt, dass
+
+- a) sein Jahresumsatz 2020 oder der Umsatz der letzten 12 Monate in Zusammenhang mit behördlich angeordneten Massnahmen zur Bekämpfung der Covid-19-Epidemie unter 75 Prozent des durchschnittlichen Jahresumsatzes der Jahre 2018 und 2019 liegt; und
+- b) mehr als 25 Prozent der Umsatzeinbusse (im Vergleich mit dem durchschnittlichen Jahresumsatz 2018 und 2019) durch die behördliche Schliessung verursacht wurde.
 
 #### § 11
 
@@ -203,7 +214,7 @@ beschliesst:
 <sup>1</sup> Nicht anspruchsberechtigt sind Unternehmen
 
 - a) an deren Kapital Bund, Kantone oder Gemeinden mit mehr als 12'000 Einwohnerinnen und Einwohnern insgesamt zu mehr als 10 Prozent beteiligt sind;
-- b) die im Kanton weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen.
+- b) die in der Schweiz weder eine Geschäftstätigkeit ausüben noch eigenes Personal beschäftigen.
 
 ## 4. Verfahren
 
@@ -241,10 +252,10 @@ beschliesst:
 - d) …
 - e) letzte definitive Steuerverfügung (falls steuerpflichtig);
 - f) Jahresabschlüsse 2018 und 2019 (revidierte Jahresrechnung mit Bericht der Revisionsstelle, falls das Unternehmen der Revisionspflicht unterliegt);
-- g) definitiver Jahresabschluss 2020; soweit dieser noch nicht vorliegt, ist die provisorische Fassung einzureichen;
-- h) die Mehrwertsteuerabrechnung 2018, 2019 und 2020, soweit nicht mehrwertsteuerpflichtig entsprechende Selbstdeklaration inkl. der vom Treuhänder bzw. von der Treuhänderin bestätigten Jahresumsätze 2018, 2019 und 2020;
-- i) Auszug des Geschäftskontos per 31. Dezember 2020 sowie letzter aktueller Kontoabschluss;
-- j) bei Umsatzrückgang gemäss § 10 Absatz 1<sup>bis</sup> die Mehrwertsteuerabrechnung für die bereits abgelaufenen und deklarationspflichtigen Monate, Quartale oder Semester 2021; soweit für Monate noch keine Mehrwertsteuerabrechnung deklariert wurde oder das Unternehmen nicht mehrwertsteuerpflichtig ist die entsprechende Selbstdeklaration inkl. der vom Treuhänder bzw. von der Treuhänderin bestätigten Monatsumsätze 2021;
+- g) durch einen Treuhänder bzw. eine Treuhänderin bestätigter definitiver Jahresabschluss 2020; soweit dieser noch nicht vorliegt, ist die durch einen Treuhänder bzw. eine Treuhänderin bestätigte provisorische Fassung einzureichen;
+- h) durch einen Treuhänder bzw. eine Treuhänderin bestätigte Jahresumsätze 2018, 2019, 2020 bzw. Monatsumsätze 2021 bei Umsatzrückgang gemäss § 10 Absatz 1<sup>bis</sup>;
+- i) Kontobescheinigung des Geschäftskontos per 31. Dezember 2020;
+- j) …
 - k) Fixkostenübersicht.
 
 <sup>2</sup> Zur Überprüfung der Anforderungen an die Unternehmen gemäss dieser Verordnung, kann die Fachstelle Standortförderung weitere Belege einverlangen.
