@@ -3,18 +3,20 @@ sr: "916.443.102.1"
 title: "Ordinanza dell'USAV che istituisce provvedimenti per evitare l'introduzione dell'influenza aviaria da taluni Stati membri dell'Unione europea"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/973"
 language: it
-version: 2021-01-01
+version: 2021-02-17
 adopted: 2020-12-15
 in_force: 2020-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210217/it/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210217-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea
+# Ordinanza dell’USAV che istituisce provvedimenti per evitare l’introduzione dell’influenza aviaria da taluni Stati membri dell’Unione europea e dall’Irlanda del Nord****
 
-del 15 dicembre 2020 (Stato 1° gennaio 2021)
+del 15 dicembre 2020 (Stato 17 febbraio 2021) (Stato 17 febbraio 2021)[^t-1]
+
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 15 feb. 2021, in vigore dal 17 feb. 2021 ([RU 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
 L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV),
 
@@ -80,11 +82,11 @@ L’importazione di carni di pollame dalle zone di protezione stabilite nell’a
 L’importazione di uova da cova è ammessa se:
 
 - a. sono destinate alla produzione di vaccini;
-- b.[^5-1] l’autorità competente dello Stato membro dell’Unione europea interessato ha autorizzato l’esportazione secondo le condizioni di cui all’articolo 4 della decisione di esecuzione (UE) 2020/1809[^5-2]; e
+- b.[^5-1] l’autorità competente dello Stato membro dell’Unione europea (UE) interessato o l’autorità competente dell’Irlanda del Nord ha autorizzato l’esportazione secondo le condizioni di cui all’articolo 4 della decisione di esecuzione (UE) 2020/1809[^5-2]; e
 - c. la partita è accompagnata da un certificato sanitario che contiene la seguente dicitura: «La partita è conforme alle norme di polizia sanitaria specificate nella decisione di esecuzione (UE) 2020/1809 della Commissione».
 
-[^5-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 30 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6737](https://fedlex.data.admin.ch/eli/oc/2020/1077)).
-[^5-2]: Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 del 1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2238, GU L 436 del 28.12.2020, pag. 4.
+[^5-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 15 feb. 2021, in vigore dal 17 feb. 2021 ([RU 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
+[^5-2]: Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 del 1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/151, GU L 45 del 9.2.2021, pag. 7.
 
 #### Art. 6
 
@@ -100,36 +102,35 @@ L’ordinanza dell’USAV del 16 gennaio 2020[^6-1] che istituisce provvedimenti
 
 La presente ordinanza entra in vigore il 17 dicembre 2020.
 
-Allegato*[^t-1]*
+Allegato*[^t-2]*
 
 (art. 1–5)
 
 ## Stati membri e zone interessati
 
-[^t-1]: Nuovo testo giusta il n. II dell’O dell’USAV del 30 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6737](https://fedlex.data.admin.ch/eli/oc/2020/1077)).
+[^t-2]: Nuovo testo giusta il n. II dell’O dell’USAV del 15 feb. 2021, in vigore dal 17 feb. 2021 ([RU 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
-### 1 Zone di protezione e zone di sorveglianza negli Stati membri dell’UE colpiti
+### 1 Zone di protezione e zone di sorveglianza negli Stati membri dell’UE interessati e nell’Irlanda del Nord
 
-Gli Stati membri dell’Unione europea colpiti nonché le zone di protezione e le zone di sorveglianza sono stabiliti nelle decisioni di esecuzione seguenti:
+Gli Stati membri dell’Unione europea e altri territori interessati nonché le zone di protezione e le zone di sorveglianza sono stabiliti nella decisione di esecuzione seguente:
 
 <table>
 <tr><th>Atto normativo di base UE</th><th>Titolo e data di pubblicazione dell’atto normativo di base nonché atti modificatori con date di pubblicazione</th></tr>
-<tr><td>Decisione di esecuzione (UE) 2020/1809</td><td>Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 del 1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2238, GU L 436 del 28.12.2020, pag. 4</td></tr>
-<tr><td>Decisione di esecuzione (UE) 2020/1742[^annexu1-lvlu1-lvl1-1]</td><td>Decisione di esecuzione (UE) 2020/1742 della Commissione, del 20 novembre 2020, relativa ad alcune misure di protezione contro l’influenza aviaria ad alta patogenicità del sottotipo H5N8 nel Regno Unito, GU L 392 del 23.11.2020, pag. 60; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2051, GU L 420 del 14.12.2020, pag. 28</td></tr>
+<tr><td>Decisione di esecuzione (UE) 2020/1809</td><td>Decisione di esecuzione (UE) 2020/1809 della Commissione, del 30 novembre 2020, relativa ad alcune misure di protezione contro focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri, GU L 402 del 1.12.2020, pag. 144; modificata da ultimo dalla decisione di esecuzione (UE) 2021/151, GU L 45 del 9.2.2021, pag. 7</td></tr>
 </table>
 
-Gli allegati delle decisioni di esecuzione elencano le zone di protezione e le zone di sorveglianza come segue:
+Gli allegati della decisione di esecuzione elencano le zone di protezione e le zone di sorveglianza come segue:
 
 - Parte A zone di protezione
 - Parte B zone di sorveglianza
 
-[^annexu1-lvlu1-lvl1-1]: Il Regno Unito è trattato come uno Stato membro dell’UE fino al 31.12.2020. La decisione di esecuzione (UE) 2020/1742 scade il 31.12.2020.
+### 2 Stati membri dell’UE e altre zone interessati
 
-### 2 Stati membri dell’UE colpiti
+Nei seguenti Stati membri dell’UE e nelle seguenti altre zone vi sono zone di protezione e zone di sorveglianza:
 
-Nei seguenti Stati membri dell’UE vi sono zone di protezione e zone di sorveglianza:
+Belgio
 
-Croazia
+Bulgaria
 
 Danimarca
 
@@ -137,12 +138,18 @@ Francia
 
 Germania
 
-Irlanda
+Irlanda del Nord
 
-Paesi Bassi
+Italia
 
 Polonia
 
-Regno Unito[^annexu1-lvlu1-lvl2-1]
+Repubblica Ceca
 
-[^annexu1-lvlu1-lvl2-1]: Il Regno Unito è trattato come uno Stato membro dell’UE fino al 31.12.2020.
+Romania
+
+Slovacchia
+
+Svezia
+
+Ungheria

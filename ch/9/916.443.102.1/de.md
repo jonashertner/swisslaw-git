@@ -3,18 +3,20 @@ sr: "916.443.102.1"
 title: Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/973"
 language: de
-version: 2021-01-01
+version: 2021-02-17
 adopted: 2020-12-15
 in_force: 2020-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210217/de/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210217-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210217/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
+# Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland****
 
-vom 15. Dezember 2020 (Stand am 1. Januar 2021)
+vom 15. Dezember 2020 (Stand am 17. Februar 2021)[^t-1]
+
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 15. Febr. 2021, in Kraft seit 17. Febr. 2021 ([AS 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
 Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV),
 
@@ -80,11 +82,11 @@ Erlaubt ist die Einfuhr von Verarbeitungseiern:
 Erlaubt ist die Einfuhr von Bruteiern, wenn:
 
 - a. sie für die Impfstoffherstellung bestimmt sind;
-- b.[^5-1] die zuständige Behörde des betroffenen Mitgliedstaates der Europäischen Union die Ausfuhr nach den Bedingungen in Artikel 4 des Durchführungsbeschlusses (EU) 2020/1809[^5-2] genehmigt hat; und
+- b.[^5-1] die zuständige Behörde des betroffenen Mitgliedstaates der Europäischen Union (EU) oder die zuständige Behörde von Nordirland die Ausfuhr nach den Bedingungen in Artikel 4 des Durchführungsbeschlusses (EU) 2020/ 1809[^5-2] genehmigt hat; und
 - c. die Sendung von einer Gesundheitsbescheinigung begleitet wird, die folgenden Hinweis enthält: «Diese Sendung erfüllt die Tiergesundheitsbedingungen des Durchführungsbeschlusses (EU) 2020/1809 der Kommission».
 
-[^5-1]: Fassung gemäss Ziff. I der V des BLV vom 30. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6737](https://fedlex.data.admin.ch/eli/oc/2020/1077)).
-[^5-2]: Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2238, ABl. L 436 vom 28.12.2020, S. 4.
+[^5-1]: Fassung gemäss Ziff. I der V des BLV vom 15. Febr. 2021, in Kraft seit 17. Febr. 2021 ([AS 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
+[^5-2]: Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/151, ABl. L 45 vom 9.2.2021, S. 7.
 
 #### Art. 6
 
@@ -100,34 +102,35 @@ Die Verordnung des BLV vom 16. Januar 2020[^6-1] über Massnahmen zur Verhinderu
 
 Diese Verordnung tritt am 17. Dezember 2020 in Kraft.
 
-Anhang*[^t-1]*
+Anhang*[^t-2]*
 
-(Art. 1–3)
+(Art. 1–5)
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-1]: Fassung gemäss Ziff. II der V des BLV vom 30. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6737](https://fedlex.data.admin.ch/eli/oc/2020/1077)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 15. Febr. 2021, in Kraft seit 17. Febr. 2021 ([AS 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
-### 1 Schutz- und Überwachungszonen in den betroffenen Mitgliedstaaten der EU
+### 1 Schutz- und Überwachungszonen in den betroffenen Mitgliedstaaten der EU und in Nordirland
 
-Die betroffenen Mitgliedstaaten der EU sowie die dort festgelegten Schutz- und Überwachungszonen werden in folgenden Durchführungsbeschlüssen festgelegt:
+Die betroffenen Mitgliedstaaten der EU und weitere Gebiete sowie die dort festgelegten Schutz- und Überwachungszonen werden in folgendem Durchführungsbeschluss festgelegt:
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2020/1809</td><td>Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2238, ABl. L 436 vom 28.12.2020, S. 4</td></tr>
-<tr><td>Durchführungsbeschluss (EU) 2020/1742[^annexu1-lvlu1-lvl1-1]</td><td>Durchführungsbeschluss (EU) 2020/1742 der Kommission vom 20. November 2020 betreffend bestimmte Massnahmen zum Schutz gegen die Aviäre Influenza des Subtyps H5N8 im Vereinigten Königreich, ABl. L 392 vom 23.11.2020, S. 60; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2051, ABl. L 420 vom 14.12.2020, S. 28</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2020/1809</td><td>Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/151, ABl. L 45 vom 9.2.2021, S. 7</td></tr>
 </table>
 
-Die Durchführungsbeschlüsse listen im Anhang die Schutz- und Überwachungszonen folgendermassen auf:
+Der Durchführungsbeschluss listet im Anhang die Schutz- und Überwachungszonen folgendermassen auf:
 
 - Teil A Schutzzonen
 - Teil B Überwachungszonen
 
-[^annexu1-lvlu1-lvl1-1]: Bis zum 31.12.2020 wird das Vereinigte Königreich noch wie ein EU-Mitgliedstaat behandelt. Die Geltungsdauer des Durchführungsbeschlusses (EU) 2020/1742 endet am 31.12.2020.
+### 2 Betroffene Mitgliedstaaten der EU und weitere Gebiete
 
-### 2 Betroffene Mitgliedstaaten der EU
+In folgenden Mitgliedstaaten der EU und in folgenden weiteren Gebieten bestehen Schutz- und Überwachungszonen:
 
-In folgenden Mitgliedstaaten der EU bestehen Schutz- und Überwachungszonen:
+Belgien
+
+Bulgarien
 
 Dänemark
 
@@ -135,14 +138,18 @@ Deutschland
 
 Frankreich
 
-Irland
+Italien
 
-Kroatien
-
-Niederlande
+Nordirland
 
 Polen
 
-Vereinigtes Königreich[^annexu1-lvlu1-lvl2-1]
+Rumänien
 
-[^annexu1-lvlu1-lvl2-1]: Bis zum 31.12.2020 wird das Vereinigte Königreich noch wie ein EU-Mitgliedstaat behandelt.
+Schweden
+
+Slowakei
+
+Tschechien
+
+Ungarn
