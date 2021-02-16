@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Convenzione del 25 gennaio 1988 sulla reciproca assistenza amministrativa in materia fiscale, emendata dal suo protocollo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: it
-version: 2020-06-26
+version: 2021-02-17
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20200626/it/xml/fedlex-data-admin-ch-eli-cc-2016-806-20200626-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20200626/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20210217/it/xml/fedlex-data-admin-ch-eli-cc-2016-806-20210217-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20210217/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratifica depositato dalla Svizzera il 26 settembre 2016
 
 Entrata in vigore per la Svizzera il 1° gennaio 2017
 
-(Stato 26 giugno 2020)
+(Stato 17 febbraio 2021)
 
 [^t-1]: [RU 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,7 +485,7 @@ Il Depositario presso cui è compiuto un atto, una notifica o una comunicazione 
 
 *In fede di che*, i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Convenzione. (Seguono le firme) Fatto il 1° giugno 2011 dai Depositari in virtù dell’articolo X.4 del Protocollo di modifica della Convenzione sulla reciproca assistenza amministrativa in materia fiscale, in francese e in inglese, entrambi i testi facenti ugualmente fede, in due esemplari che saranno depositati negli archivi di ogni Depositario. I Depositari trasmetteranno una copia autenticata a ogni Parte della Convenzione, come emendata dal Protocollo, e a ogni Stato legittimato a diventarne Parte.
 
-Campo d’applicazione il 26 giugno 2020**[^t-2]**
+Campo d’applicazione il 17 febbraio 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -503,6 +503,7 @@ Campo d’applicazione il 26 giugno 2020**[^t-2]**
 <tr><td>Barbados\*</td><td>4 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
 <tr><td>Belgio\*</td><td>8 dicembre</td><td>2014</td><td>1° aprile</td><td>2015</td></tr>
 <tr><td>Belize\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
+<tr><td>Bosnia ed Erzegovina<sup>\*</sup></td><td>21 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Brasile\*</td><td>1° giugno</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Brunei\*</td><td>28 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Bulgaria\*</td><td>14 marzo</td><td>2016</td><td>1° luglio</td><td>2016</td></tr>
@@ -547,6 +548,7 @@ Campo d’applicazione il 26 giugno 2020**[^t-2]**
 <tr><td>Israele\*</td><td>31 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Italia\*</td><td>17 gennaio</td><td>2012</td><td>1° maggio</td><td>2012</td></tr>
 <tr><td>Kazakistan\*</td><td>8 aprile</td><td>2015</td><td>1° agosto</td><td>2015</td></tr>
+<tr><td>Kenya<sup>\*</sup></td><td>22 luglio</td><td>2020</td><td>1° novembre</td><td>2020</td></tr>
 <tr><td>Kuwait\*</td><td>17 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
 <tr><td>Lettonia\*</td><td>15 luglio</td><td>2014</td><td>1° novembre</td><td>2014</td></tr>
 <tr><td>Libano<sup>\*</sup></td><td>12 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
@@ -564,11 +566,13 @@ Campo d’applicazione il 26 giugno 2020**[^t-2]**
 <tr><td>Monaco<sup>\*</sup></td><td>14 dicembre</td><td>2016</td><td>1° maggio</td><td>2017</td></tr>
 <tr><td>Mongolia\*</td><td>19 febbraio</td><td>2020</td><td>1° giugno</td><td>2020</td></tr>
 <tr><td>Montenegro\*</td><td>28 gennaio</td><td>2020</td><td>1° maggio</td><td>2020</td></tr>
+<tr><td>Namibia<sup>\*</sup></td><td>9 dicembre</td><td>2020</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Nauru\*</td><td>28 giugno</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Nigeria\*</td><td>29 maggio</td><td>2015</td><td>1° settembre</td><td>2015</td></tr>
 <tr><td>Niue\*</td><td>6 giugno</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Norvegia\*</td><td>18 febbraio</td><td>2011</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Nuova Zelanda\*</td><td>21 novembre</td><td>2013</td><td>1° marzo</td><td>2014</td></tr>
+<tr><td>Oman<sup>\*</sup></td><td>7 luglio</td><td>2020</td><td>1° novembre</td><td>2020</td></tr>
 <tr><td>Paesi Bassi\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Aruba\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
 <tr><td>Curaçao\*</td><td>29 maggio</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
@@ -616,13 +620,13 @@ Campo d’applicazione il 26 giugno 2020**[^t-2]**
 <tr><td>Ungheria\*</td><td>7 novembre</td><td>2014</td><td>1° marzo</td><td>2015</td></tr>
 <tr><td>Uruguay\*</td><td>31 agosto</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Vanuatu\*</td><td>23 agosto</td><td>2018</td><td>1° dicembre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni Le riserve, dichiarazioni e obiezioni non sono pubblicate nella RU, ad eccezione delle riserve e dichiarazioni della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna</td></tr>
 </table>
 
-[^t-2]: [RU 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806), [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433), [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146)e [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
 [^t-3]: È stata ratificata soltanto la Conv. sulla reciproca assistenza in materia fiscale del 25.1.1988. I testi francese e inglese possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127.
 
-Riserve e dichiarazioni**[^t-4]**
+Riserve e dichiarazioni[^t-4]
 
 Svizzera
 

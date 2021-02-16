@@ -3,11 +3,11 @@ sr: "0.652.1"
 title: "Convention du 25 janvier 1988 concernant l'assistance administrative mutuelle en matière fiscale, telle qu'amendée par son Protocole"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/806"
 language: fr
-version: 2020-06-26
+version: 2021-02-17
 adopted: 1988-01-25
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20200626/fr/xml/fedlex-data-admin-ch-eli-cc-2016-806-20200626-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20200626/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/806/20210217/fr/xml/fedlex-data-admin-ch-eli-cc-2016-806-20210217-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/806/20210217/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 26 septembre 2016
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2017
 
-(Etat le 26 juin 2020)
+(Etat le 17 février 2021)
 
 [^t-1]: [RO 2016 5059](https://fedlex.data.admin.ch/eli/oc/2016/805)
 
@@ -485,7 +485,7 @@ Le Dépositaire auprès duquel un acte, une notification ou une communication se
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. (Suivent les signatures) Établi par les Dépositaires le 1<sup>er</sup> juin 2011 en vertu de l’art. X.4 du Protocole d’amendement à la Convention concernant l’assistance administrative mutuelle en matière fiscale, en français et en anglais, les deux textes faisant également foi, en deux exemplaires dont un sera déposé dans les archives de chaque Dépositaire. Les Dépositaires en communiqueront copie certifiée conforme à chacune des Parties à la Convention telle qu’amendée par le Protocole et à chacun des États ayant qualité pour devenir partie.
 
-Champ d’application le 26 juin 2020**[^t-2]**
+Champ d’application le 17 février 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -505,6 +505,7 @@ Champ d’application le 26 juin 2020**[^t-2]**
 <tr><td>Barbade\*</td><td>4 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
 <tr><td>Belgique\*</td><td>8 décembre</td><td>2014</td><td>1<sup>er</sup> avril</td><td>2015</td></tr>
 <tr><td>Belize\*</td><td>29 mai</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
+<tr><td>Bosnie et Herzégovine<sup>\*</sup></td><td>21 septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Brésil\*</td><td>1<sup>er</sup> juin</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
 <tr><td>Brunéi\*</td><td>28 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
 <tr><td>Bulgarie\*</td><td>14 mars</td><td>2016</td><td>1<sup>er</sup> juillet</td><td>2016</td></tr>
@@ -550,6 +551,7 @@ Champ d’application le 26 juin 2020**[^t-2]**
 <tr><td>Jamaïque\*</td><td>29 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
 <tr><td>Japon\*</td><td>28 juin</td><td>2013</td><td>1<sup>er</sup> octobre</td><td>2013</td></tr>
 <tr><td>Kazakhstan\*</td><td>8 avril</td><td>2015</td><td>1<sup>er</sup> août</td><td>2015</td></tr>
+<tr><td>Kenya<sup>\*</sup></td><td>22 juillet</td><td>2020</td><td>1<sup>er</sup> novembre</td><td>2020</td></tr>
 <tr><td>Koweït\*</td><td>17 août</td><td>2018</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
 <tr><td>Lettonie\*</td><td>15 juillet</td><td>2014</td><td>1<sup>er</sup> novembre</td><td>2014</td></tr>
 <tr><td>Liban\*</td><td>12 mai</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
@@ -566,11 +568,13 @@ Champ d’application le 26 juin 2020**[^t-2]**
 <tr><td>Monaco\*</td><td>14 décembre</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
 <tr><td>Mongolie\*</td><td>19 février</td><td>2020</td><td>1<sup>er</sup> juin</td><td>2020</td></tr>
 <tr><td>Monténégro\*</td><td>28 janvier</td><td>2020</td><td>1<sup>er</sup> mai</td><td>2020</td></tr>
+<tr><td>Namibie<sup>\*</sup></td><td>9 décembre</td><td>2020</td><td>1<sup>er</sup> avril</td><td>2021</td></tr>
 <tr><td>Nauru\*</td><td>28 juin</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
 <tr><td>Nigéria\*</td><td>29 mai</td><td>2015</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
 <tr><td>Nioué\*</td><td>6 juin</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
 <tr><td>Norvège\*</td><td>18 février</td><td>2011</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Nouvelle-Zélande\*</td><td>21 novembre</td><td>2013</td><td>1<sup>er</sup> mars</td><td>2014</td></tr>
+<tr><td>Oman<sup>\*</sup></td><td>7 juillet</td><td>2020</td><td>1<sup>er</sup> novembre</td><td>2020</td></tr>
 <tr><td>Ouganda\*</td><td>26 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
 <tr><td>Pakistan\*</td><td>14 décembre</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>16 mars</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
@@ -619,10 +623,10 @@ Champ d’application le 26 juin 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations \*\* Objections Les réserves, déclarations et objections, à l’exception des réserves et déclarations de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806), [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433), [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146), [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2016 5071](https://fedlex.data.admin.ch/eli/oc/2016/806); [2017 3729](https://fedlex.data.admin.ch/eli/oc/2017/433); [2019 847](https://fedlex.data.admin.ch/eli/oc/2019/146); [2020 2893](https://fedlex.data.admin.ch/eli/oc/2020/533); [2021 105](https://fedlex.data.admin.ch/eli/oc/2021/105). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
 [^t-3]: Seule la Convention concernant l’assistance administrative mutuelle en matière fiscale du 25.1.1988 a été ratifiée. Le texte en français et en anglais peut être consulté à l’adresse du site Internet du Conseil de l’Europe: www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/127.
 
-Réserves et déclarations**[^t-4]**
+Réserves et déclarations[^t-4]
 
 **Suisse**
 
