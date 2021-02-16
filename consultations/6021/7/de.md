@@ -1,0 +1,598 @@
+---
+status: Vernehmlassung
+title: Befristetes Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Mobilität von Dienstleistungserbringern
+document: Vorlage
+language: de
+opened: 2021-02-17
+closes: 2021-04-30
+affects: ["0.946.293.671.2"]
+consultation: dl/proj/6021/7/cons_1
+url: "https://www.fedlex.admin.ch/eli/dl/proj/6021/7/cons_1/de"
+text: pdf
+---
+
+> Entwurf in der Vernehmlassung, kein geltendes Recht. Nicht amtliche Wiedergabe aus dem PDF auf Fedlex; der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+
+# Befristetes Abkommen
+
+Übersetzung
+
+zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Mobilität von Dienstleistungserbringern
+
+Abgeschlossen am 14. Dezember 2020 Vorläufig angewendet ab 1. Januar 2021
+
+Die Schweizerische Eidgenossenschaft (die «Schweiz») und das Vereinigte Königreich von Grossbritannien und Nordirland (das «Vereinigte Königreich»), gemeinsam als die «Vertragsparteien» bezeichnet;
+
+in Anerkennung der Tatsache, dass die Anwendung des Abkommens zwischen der Europäischen Gemeinschaft und ihren Mitgliedstaaten einerseits und der Schweizerischen Eidgenossenschaft andererseits über die Freizügigkeit[^t-1] (das «FZA») zwischen der Schweiz und dem Vereinigten Königreich infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union endet;
+
+in dem Wunsch, die Rechte und Pflichten zwischen ihnen hinsichtlich der Grenzüberschreitung natürlicher Personen zur Erbringung einer Dienstleistung so weit wie möglich zu wahren;
+
+in dem Wunsch, die Anerkennung von Berufsqualifikationen in Ergänzung zu bestehenden Regeln zu erleichtern;
+
+in Bekräftigung der gemeinsamen Absicht, weiter auf die Entwicklung der Anerkennung von Berufsqualifikationen im Hinblick auf ein künftiges umfassendes Abkommen oder eine künftige umfassende Vereinbarung hinzuarbeiten, sowie der Verpflichtung der Vertragsparteien, diese Absicht im Rahmen der bestehenden Arbeitsgruppe über die Anerkennung von Berufsqualifikationen weiterzuverfolgen; in Bekräftigung der Rechte und Pflichten der Vertragsparteien aus dem Übereinkommen von Marrakesch zur Errichtung der Welthandelsorganisation[^t-2] (das «WTO-Abkommen») und dem Allgemeinen Abkommen über den Handel mit Dienstleistungen (GATS), aus dem am 25. Februar 2019[^t-3] in Bern abgeschlossenen Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und
+
+SR 0.946.293.671.2
+
+**6675**
+
+2020-3687 Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens (das «Abkommen über die erworbenen Rechte der Bürgerinnen und Bürger») und aus dem in Bern am 11. Februar 2019[^t-4] abgeschlossenen Handelsabkommen zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland (das «Handelsabkommen»); und in Bekräftigung der Verpflichtung der Vertragsparteien nach Artikel 8 des Handelsabkommens, exploratorische Gespräche aufzunehmen, um das Handelsabkommen zu ersetzen, zu modernisieren oder weiterzuentwickeln und dabei unter anderem zusätzliche Bereiche wie den Handel mit Dienstleistungen zu berücksichtigen; haben beschlossen, zur Erreichung dieser Ziele folgendes Abkommen («dieses Abkommen») abzuschliessen:
+
+[^t-1]: SR 0.142.112.681
+[^t-2]: SR 0.632.20
+[^t-3]: SR 0.142.113.672
+[^t-4]: SR 0.946.293.671
+
+### Kapitel 1: Allgemeine Bestimmungen
+
+#### Art. 1
+
+**Ziele**
+
+- 1\. Das Ziel dieses Abkommens ist, für einen begrenzten Zeitraum die Auswirkungen auf Unternehmen und Berufspersonen der Schweiz und des Vereinigten Königreichs zu mildern, die sich hinsichtlich der Grenzüberschreitung natürlicher Personen als Dienstleistungserbringer nach Beendigung der Anwendung des FZA zwischen den Vertragspartien ergeben.
+
+- 2\. Dieses Abkommen hat ausserdem das Ziel;
+
+(a) die Absicht der Vertragsparteien zu bekräftigen, unter dieses Abkommen fallenden qualifizierten Berufspersonen zusätzliche Sicherheit und Klarheit zu verschaffen; und (b) die Verpflichtung der Vertragsparteien zu bekräftigen, die gemeinsamen Arbeiten im Hinblick auf ein umfassendes Abkommen oder eine umfassende Vereinbarung über die Anerkennung von Berufsqualifikationen fortzusetzen.
+
+#### Art. 2
+
+**Räumlicher Anwendungsbereich**
+
+Die Bestimmungen dieses Abkommens finden einerseits Anwendung auf das Vereinigte Königreich und Gibraltar und andererseits auf die Schweiz.
+
+#### Art. 3
+
+**Verhältnis zu anderen internationalen Abkommen**
+
+- 1\. Die Vertragsparteien bekräftigen ihre Rechte und Pflichten, die sich aus dem WTO-Abkommen und den anderen im WTO-Rahmen ausgehandelten Abkommen, dem Abkommen über die erworbenen Rechte der Bürgerinnen und Bürger und dem Handelsabkommen sowie aus anderen relevanten internationalen Übereinkommen, die sie unterzeichnet haben, ergeben.
+
+- 2\. Dieses Abkommen wird abgeschlossen, um die Rechte und Pflichten der Vertragsparteien in Bezug auf natürliche Personen als Dienstleistungserbringer gemäss dem Abkommen über die erworbenen Rechte der Bürgerinnen und Bürger zu ergänzen, und führt nicht zur Aktivierung von Artikel 23 Absatz 3 des Abkommens über die erworbenen Rechte der Bürgerinnen und Bürger.
+
+#### Art. 4
+
+**Einhaltung von Verpflichtungen**
+
+- 1\. Jede Vertragspartei trifft zur Einhaltung ihrer Verpflichtungen aus diesem Abkommen alle erforderlichen Massnahmen allgemeiner oder besonderer Art.
+
+- 2\. Jede Vertragspartei stellt sicher, dass sämtliche Pflichten und Verpflichtungen aus diesem Abkommen durch ihre zentralen, regionalen und lokalen Regierungen und Behörden sowie durch nichtstaatliche Stellen, die in Ausübung der ihnen von zentralen, regionalen und lokalen Regierungen oder Behörden übertragenen Befugnisse handeln, eingehalten werden.
+
+#### Art. 5
+
+**Transparenz**
+
+- 1\. Jede Vertragspartei veröffentlicht ihre Gesetze, Vorschriften, Gerichts- und Verwaltungsentscheide von allgemeiner Tragweite sowie ihre internationalen Abkommen, die die Durchführung dieses Abkommens berühren können, oder macht diese anderweitig öffentlich zugänglich.
+
+- 2\. Jede Vertragspartei antwortet unverzüglich auf spezifische Fragen der anderen Vertragspartei, und beide Vertragsparteien stellen einander auf Ersuchen Informationen zu den in Absatz 1 genannten Angelegenheiten zur Verfügung.
+
+- 3\. Die Vertragsparteien sind nach diesem Abkommen nicht verpflichtet, vertrauliche Informationen preiszugeben, deren Offenlegung die Durchsetzung von Rechtsvorschriften behindern oder dem öffentlichen Interesse sonst zuwiderlaufen oder die berechtigten Geschäftsinteressen eines Wirtschaftsakteurs beeinträchtigen würde.
+
+- 4\. Im Falle einer Unvereinbarkeit zwischen diesem Artikel und Artikel 11 hat bezüglich dieser Unvereinbarkeit letzterer Vorrang.
+
+#### Art. 6
+
+**Konsultationen**
+
+- 1\. Die Vertragsparteien bemühen sich stets um eine einvernehmliche Auslegung und Anwendung dieses Abkommens und unternehmen durch Zusammenarbeit und Konsultationen jeden Versuch, um eine für beide Seiten zufriedenstellende Lösung aller vorgebrachten Angelegenheiten zu erreichen.
+
+- 2\. Ist eine Vertragspartei der Ansicht, eine Massnahme sei mit diesem Abkommen unvereinbar, so kann sie schriftlich um Konsultationen mit der anderen Vertragspartei ersuchen. Im Gesuch werden die Gründe für das Gesuch aufgeführt, einschliesslich der Angabe der betreffenden Massnahme und der rechtlichen Grundlage für die Beschwerde. Die Vertragspartei, an die sich das Gesuch richtet, antwortet innerhalb von zehn Tagen nach dessen Erhalt.
+
+- 3\. Während der Konsultationen:
+
+(a) stellt jede Vertragspartei ausreichende Tatsacheninformationen zur Verfügung, um eine umfassende Prüfung der Frage zu ermöglichen, wie die den Gegenstand der Konsultationen bildende Angelegenheit die Durchführung und Anwendung dieses Abkommens beeinträchtigen könnte;
+
+(b) behandelt jede Vertragspartei die bei Konsultationen ausgetauschten vertraulichen oder geschützten Informationen auf derselben Grundlage wie die Vertragspartei, welche die Informationen bereitstellt; und (c) bemüht sich jede Vertragspartei, die Teilnahme von Mitarbeitern ihrer zuständigen staatlichen Stellen oder sonstiger Regulierungsstellen sicherzustellen, welche Verantwortung für die oder Fachkompetenzen in der den Gegenstand der Konsultationen bildenden Angelegenheit haben.
+
+- 4\. Jede Vertragspartei kann beantragen, dass die andere Vertragspartei die Mitarbeiter ihrer zuständigen staatlichen Stellen oder sonstiger Regulierungsstellen zur Verfügung stellt, welche Verantwortung für die oder Fachkompetenzen in der den Gegenstand der Konsultationen bildenden Angelegenheit haben.
+
+- 5\. Konsultationen können persönlich geführt werden oder mittels beliebiger technologischer Mittel, die den Vertragsparteien zur Verfügung stehen. Werden die Konsultationen persönlich geführt, finden sie in der Hauptstadt der ersuchten Vertragspartei statt, sofern die Vertragsparteien nichts anderes vereinbaren.
+
+- 6\. Die Konsultationen und insbesondere die von den Vertragsparteien während der Konsultationen vertretenen Standpunkte bleiben vertraulich.
+
+- 7\. Die Vertragsparteien sind an die Bedingungen einer jeglichen Vereinbarung gebunden, die sie bei der Behebung der Beschwerde nach Massgabe dieses Artikels treffen. Jede Vertragspartei trifft die Massnahmen, die zur Umsetzung der Vereinbarung notwendig sind.
+
+A rt. 7 Allgemeine Ausnahmen Für die Zwecke dieses Abkommens finden Artikel XIV Buchstaben (a), (b) und (c) des GATS Anwendung und werden hiermit mutatis mutandis zu Bestandteilen dieses Abkommens erklärt.
+
+#### Art. 8
+
+**Ausnahmen zur Wahrung der Sicherheit**
+
+Für die Zwecke dieses Abkommens findet Artikel XIV<sup>bis</sup> Absatz 1 des GATS Anwendung und wird hiermit mutatis mutandis zum Bestandteil dieses Abkommens erklärt.
+
+### Kapitel 2: Grenzüberschreitung natürlicher Personen zur Erbringung
+
+einer Dienstleistung
+
+#### Art. 9
+
+**Ziel, Anwendungsbereich und allgemeine Bestimmungen**
+
+- 1\. Dieses Kapitel widerspiegelt die starken Handelsbeziehungen zwischen den Vertragsparteien und den Wunsch der Vertragsparteien, die Einreise und den vorübergehenden Aufenthalt natürlicher Personen zur Erbringung einer Dienstleistung zu erleichtern und transparente Verfahren zu gewährleisten.
+
+- 2\. Dieses Kapitel gilt für Massnahmen einer Vertragspartei, welche die Einreise und den vorübergehenden Aufenthalt in dessen Hoheitsgebiet von Dienstleistungserbringern der anderen Vertragspartei betreffen.
+
+- 3\. Dieses Kapitel gilt nicht für Massnahmen, die:
+
+(a) natürliche Personen betreffen, welche sich um Zugang zum Arbeitsmarkt der anderen Vertragspartei bemühen; oder (b) die Staatsangehörigkeit oder Staatsbürgerschaft, den Daueraufenthalt oder die Dauerbeschäftigung betreffen.
+
+- 4\. Soweit in diesem Kapitel keine Verpflichtungen eingegangen werden, finden alle Anforderungen, die sich aus den Gesetzen und Vorschriften einer Vertragspartei für die Einreise und den vorübergehenden Aufenthalt ergeben, einschliesslich der die Aufenthaltsdauer betreffenden Gesetze und Vorschriften, weiterhin Anwendung.
+
+- 5\. Ungeachtet der Bestimmungen dieses Kapitels finden alle in den Gesetzen und Vorschriften einer Vertragspartei vorgesehenen Anforderungen betreffend Sozialversicherungs- und Arbeitsmassnahmen, einschliesslich der Lohnbedingungen sowie der Gesetze und Vorschriften über Mindestlöhne und Gesamtarbeitsverträge, weiterhin Anwendung.[^9-1]
+
+- 6\. Dieses Kapitel hindert eine Vertragspartei nicht daran, Massnahmen zur Regelung der Einreise oder des vorübergehenden Aufenthalts natürlicher Personen in ihrem Hoheitsgebiet einschliesslich solcher Massnahmen zu treffen, die zum Schutz der Unversehrtheit seiner Grenzen und zur Gewährleistung der ordnungsgemässen Grenzüberschreitung natürlicher Personen erforderlich sind; jedoch dürfen solche Massnahmen nicht auf eine Weise angewendet werden, dass sie die Vorteile, die einer Vertragspartei aufgrund der Bedingungen dieses Kapitels zustehen, zunichtemachen oder schmälern.[^9-2]
+
+- 7\. Jede Vertragspartei wendet ihre Massnahmen im Zusammenhang mit den Bestimmungen dieses Kapitels im Einklang mit dem in Absatz 1 dargelegten Wunsch an; insbesondere wendet sie diese Massnahmen so an, dass dabei der Handel im Rahmen dieses Abkommens nicht unangemessen beeinträchtigt oder verzögert wird.
+
+[^9-1]: In Bezug auf die Schweiz bezieht sich der Begriff «Arbeitsmassnahmen» auf im Sektor und am Ort der Tätigkeit bestehende Massnahmen, die in Gesetzen, Vorschriften und Gesamtarbeitsverträgen (in Bezug auf Entlöhnung, Arbeitszeit usw.) vorgesehen sind.
+[^9-2]: Allein die Tatsache, dass für natürliche Personen eines bestimmten Landes im Gegensatz zu natürlichen Personen anderer Länder ein Visum gefordert wird, wird nicht als Zunichtemachung oder Schmälerung von Vorteilen aus diesem Kapitel betrachtet.
+
+#### Art. 10
+
+**Begriffsbestimmungen**
+
+Für die Zwecke dieses Kapitels und der Anhänge 1 und 2 bedeutet:
+
+(a) «Niederlassung» die Errichtung oder den Erwerb einer juristischen Person, einschliesslich durch Kapitalbeteiligung, oder die Errichtung einer Zweigstelle oder einer Vertretung in der Schweiz oder im Vereinigten Königreich zur Schaffung oder Aufrechterhaltung dauerhafter wirtschaftlicher Verbindungen.
+
+(b) «juristische Person» eine nach dem geltendem Recht einer Vertragspartei ordnungsgemäss gegründete oder anderweitig errichtete rechtsfähige Organisationseinheit, unabhängig davon, ob sie der Gewinnerzielung dient oder nicht und ob sie sich in privater oder staatlichem Eigentum befindet, einschliesslich Kapitalgesellschaften, Trusts, Personengesellschaften, Gemeinschaftsunternehmen, Einzelunternehmen oder Verbänden;
+
+(c) «Dienstleistungserbringer» Dienstleistungen erbringende Personen der Schweiz oder des Vereinigten Königreichs gemäss Definition in Anhang 1 bzw. Anhang 2.
+
+#### Art. 11
+
+**Transparenz**
+
+- 1\. Eine Vertragspartei macht Informationen über die Einreise, den vorübergehenden Aufenthalt und andere Immigrationsanforderungen im Zusammenhang mit der Erbringung einer Dienstleistung durch Dienstleistungserbringer der anderen Vertragspartei öffentlich und hält diese Informationen auf dem aktuellen Stand.
+
+- 2\. Die in Absatz 1 genannten Informationen enthalten gegebenenfalls die folgenden Angaben:
+
+(a) Kategorien von Visa, Arbeitserlaubnissen oder ähnlicher Formen der Bewilligung in Bezug auf die Einreise, den vorübergehenden Aufenthalt und die
+
+Arbeit natürlicher Personen, die von diesem Kapitel erfasst werden;
+
+(b) erforderliche Unterlagen und zu erfüllende Bedingungen;
+
+(c) Methode der Antragstellung;
+
+(d) Antragsgebühren und ungefährer Zeitrahmen für die Bearbeitung eines Antrags;
+
+(e) maximale Aufenthaltsdauer für jede Form der in Buchstabe (a) beschriebenen Bewilligung;
+
+(f) Bedingungen für eine mögliche Verlängerung oder Erneuerung;
+
+(g) Regeln in Bezug auf begleitende Angehörige;
+
+(h) verfügbare Überprüfungs- oder Rechtsbehelfsverfahren; und (i) relevante, allgemein anwendbare Gesetze in Bezug auf die Einreise von Dienstleistungserbringern.
+
+- 3\. Bezüglich der in Absatz 1 genannten Informationen übermittelt jede Vertragspartei der anderen Vertragspartei Angaben zu relevanten Veröffentlichungen oder Websites, durch welche Informationen zur Verfügung gestellt werden. Ausserdem bemüht sich jede Vertragspartei, die andere Vertragspartei über jegliche Änderung von Anforderungen und Verfahren zu informieren, welche die Nutzung der in diesem Kapitel vorgesehenen Vorteile durch Dienstleistungserbringer beeinträchtigen würde.
+
+#### Art. 12
+
+**Zugang für Dienstleistungserbringer**
+
+- 1\. Die Schweiz erlaubt Dienstleistungserbringern aus dem Vereinigten Königreich die Einreise und den vorübergehenden Aufenthalt gemäss Anhang 1.
+
+- 2\. Das Vereinigte Königreich erlaubt Dienstleistungserbringern der Schweiz die Einreise gemäss Anhang 2.
+
+- 3\. Sofern in Anhang 2 nichts anderes bestimmt ist, werden vom Vereinigten Königreich keine Beschränkungen in Bezug auf die Gesamtzahl der zur Einreise zugelassenen Dienstleistungserbringer in Form von zahlenmässigen Quoten oder des Erfordernisses einer wirtschaftlichen Bedarfsprüfung eingeführt oder aufrechterhalten.
+
+- 4\. In Bezug auf das Vereinte Königreich gelten die Verpflichtungen hinsichtlich der Einreise von natürlichen Personen für geschäftliche Zwecke nicht in Fällen, in denen durch die Einreise ein Eingreifen in oder eine anderweitige Einflussnahme auf eine a rbeitsrechtliche oder betriebliche Auseinandersetzung oder Verhandlung oder die Beschäftigung einer an einer solchen Auseinandersetzung oder Verhandlung beteiligten natürlichen Personen bezweckt oder bewirkt wird.
+
+#### Art. 13
+
+**Kontaktstellen**
+
+Jede Vertragspartei bestimmt eine Kontaktstelle für die wirksame Umsetzung und Anwendung dieses Kapitels und informiert die andere Vertragspartei über die relevanten Kontaktdaten. Die Vertragsparteien informieren sich unverzüglich gegenseitig über Änderungen dieser Kontaktdaten.
+
+### Kapitel 3: Anerkennung der Berufsqualifikationen von beruflichen Dienstleistungserbringern
+
+#### Art. 14
+
+**Begriffsbestimmungen**
+
+Für die Zwecke dieses Kapitels bedeutet:
+
+(a) «berufliche Tätigkeit» eine Tätigkeit im Rahmen eines reglementierten Berufs;
+
+(b) «reglementierter Beruf» eine Erwerbstätigkeit, deren Ausübung, einschliesslich der Verwendung eines Titels oder einer Bezeichnung, durch eine Mass-
+
+nahme an den Besitz bestimmter Berufsqualifikationen gebunden ist.
+
+(c) «zuständige Behörde» eine Behörde oder Stelle, die nach einer Massnahme für die Anerkennung von Qualifikationen und die Genehmigung der Ausübung eines Berufs in einem Zuständigkeitsgebiet benannt wurde; und (d) «berufliche Dienstleistungserbringer» Staatsangehörige einer Vertragspartei, deren Berufsqualifikationen im Zuständigkeitsbereich dieser Vertragspartei erworben wurde.
+
+#### Art. 15
+
+**Regeln für die Anerkennung der Berufsqualifikationen**
+
+von beruflichen Dienstleistungserbringern Die Vertragsparteien bekräftigen, dass:
+
+(a) die zuständigen Behörden an das Gesetz gebunden sind, welches von der zuständigen Behörde bei der Anerkennung von Berufsqualifikationen anzuwenden ist; und (b) die zuständigen Behörden günstigere Regelungen für die Anerkennung von Berufsqualifikationen vereinbaren oder einseitig günstigere Regelungen für berufliche Dienstleistungserbringer festlegen oder diese weiterhin anwenden können.
+
+#### Art. 16
+
+Arbeitsgruppe über die Anerkennung von Berufsqualifikationen 1. Zur Unterstützung der Arbeit der zuständigen Behörden setzen die Vertragsparteien nach Massgabe von Artikel 15 gegebenenfalls ihre Arbeit in einer Arbeitsgruppe über die Anerkennung von Berufsqualifikationen fort, die von den Vertragsparteien eingerichtet wird. Um die langfristige Weiterentwicklung der Anerkennung von Berufsqualifikationen im Allgemeinen zu gewährleisten, setzt diese Gruppe ihre Gespräche auch mit dem Ziel fort, ein umfassendes Abkommen oder eine umfassende Vereinbarung zwischen den Vertragsparteien über die Anerkennung von Berufsqualifikationen auszuhandeln. Die Arbeitsgruppe trifft sich in regelmässigen Abständen zu den einvernehmlich festgelegten Zeiten.
+
+- 2\. Die Vertragsparteien können vereinbaren, dass dieses Kapitel durch ein Abkommen oder eine Vereinbarung nach Absatz 1 ersetzt wird.
+
+### Kapitel 4: Schlussbestimmungen
+
+#### Art. 17
+
+**Anhänge**
+
+Die Anhänge zu diesem Abkommen bilden feste Bestandteile dieses Abkommens.
+
+#### Art. 18
+
+**Änderungen**
+
+Die Vertragsparteien können schriftlich vereinbaren, dieses Abkommen zu ändern. Änderungen treten am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei erfolgt ist, dass ihre internen Verfahren abgeschlossen sind, oder zu einem anderen von den Vertragsparteien vereinbarten Zeitpunkt.
+
+#### Art. 19
+
+**Inkrafttreten, vorläufige Anwendung und Dauer**
+
+- 1\. Die Vertragsparteien ratifizieren oder genehmigen dieses Abkommen gemäss ihren innerstaatlichen Verfahren. Jede Vertragspartei notifiziert die andere Vertragspartei über den Abschluss dieser Verfahren.
+
+- 2\. Dieses Abkommen tritt in Kraft, wenn das FZA nicht mehr auf das Vereinigte Königreich Anwendung findet, sofern sich die Vertragsparteien bis zu diesem Datum gegenseitig nach Absatz 1 notifiziert haben. Andernfalls tritt dieses Abkommen am ersten Tag des zweiten Monats in Kraft, nachdem die Mitteilung der zweiten Vertragspartei nach Absatz 1 erfolgt ist.
+
+- 3\. Bis zum Inkrafttreten dieses Abkommens können die Vertragsparteien dieses Abkommen gemäss ihren jeweiligen internen Anforderungen und Verfahren vorläufig anwenden. Beabsichtigt eine Vertragspartei, dieses Abkommen vorläufig anzuwenden, notifiziert sie die andere Vertragspartei darüber, dass ihre internen Anforderungen und Verfahren in dieser Hinsicht abgeschlossen sind. Diese vorläufige Anwendung tritt am späteren der beiden folgenden Daten in Kraft:
+
+(a) dem Datum, an dem das FZA nicht mehr auf das Vereinigte Königreich Anwendung findet; und b) dem Datum der Notifikation der zweiten Vertragspartei über den Abschluss ihrer internen Anforderungen und Verfahren für die vorläufige Anwendung.
+
+- 4\. Eine Vertragspartei kann die vorläufige Anwendung dieses Abkommens mit schriftlicher Notifikation an die andere Vertragspartei beenden. Die Beendigung w ird am ersten Tag des zweiten Monats nach dieser Notifikation wirksam. Wird dieses Abkommen vorläufig angewendet, ist der Begriff «Inkrafttreten dieses Abkommens» als der Zeitpunkt zu verstehen, an dem eine solche vorläufige Anwendung Geltung erlangt.
+
+- 5\. Eine Vertragspartei kann dieses Abkommen beenden, indem sie die andere Vertragspartei über ihre Absicht notifiziert. Es tritt sechs Monate nach Erhalt dieser Notifikation ausser Kraft.
+
+- 6\. Dieses Abkommen endet zwei Jahre nach seinem Inkrafttreten, sofern die Vertragsparteien nichts anderes vereinbaren.
+
+Zu Urkund dessen haben die hierzu von ihrer jeweiligen Regierung gehörig befugten Unterzeichnenden dieses Abkommen unterzeichnet.
+
+Geschehen zu London am 14. Dezember 2020 in zwei Urschriften in englischer Sprache.
+
+Für die Für die Regierung der Regierung des Vereinigten Königreichs Schweizerischen Eidgenossenschaft: von Grossbritannien und Nordirland:
+
+Guy Parmelin Elizabeth Truss
+
+### Anhang 1 Gemäss Artikel 12 Absatz 1
+
+### Zugang für Dienstleistungserbringer des Vereinigten Königreichs
+
+#### Art. 1
+
+Für die Zwecke dieses Anhangs bedeutet «Dienstleistungserbringer des Vereinigten Königreichs»:
+
+(a) Staatsangehörige des Vereinigten Königreichs, die im Hoheitsgebiet des Vereinigten Königreichs niedergelassen sind und eine Dienstleistung auf dem Hoheitsgebiet der Schweiz erbringen möchten; und (b) Arbeitnehmende, unabhängig von ihrer Staatsangehörigkeit, die in den regulären Arbeitsmarkt des Vereinigten Königreichs integriert sind und von ihrem im Vereinigten Königreich ansässigen Arbeitgeber zur Erbringung von
+
+Dienstleistungen in das Hoheitsgebiet der Schweiz entsandt werden.
+
+#### Art. 2
+
+- 1\. Unbeschadet anderer besonderer Abkommen über die Erbringung von Dienstleistungen zwischen den Vertragsparteien wird einem Dienstleistungserbringer des Vereinigten Königreichs das Recht eingeräumt, Dienstleistungen in der Schweiz zu erbringen, deren tatsächliche Dauer 90 Arbeitstage pro Kalenderjahr nicht überschreitet.
+
+- 2\. Hinsichtlich der Erbringung von Dienstleistungen gemäss Absatz 1 nimmt die Schweiz keine Einschränkung des Rechts auf Einreise und vorübergehenden Aufenthalt von Dienstleistungserbringern aus dem Vereinigten Königreich vor.
+
+#### Art. 3
+
+Artikel 2 dieses Anhangs gilt für die juristischen Personen, die nach dem Recht des Vereinigten Königreichs gegründet wurden und ihren satzungsmässigen Sitz, ihre Hauptverwaltung oder ihre Hauptniederlassung im Vereinigten Königreich haben.
+
+#### Art. 4
+
+- 1\. Die Dienstleistungserbringer aus dem Vereinigten Königreich nach Artikel 2 dieses Anhangs, die zur Erbringung von Dienstleistungen berechtigt sind, benötigen keine Kurzaufenthaltsbewilligung.
+
+- 2\. Die Schweiz kann von Dienstleistungserbringern aus dem Vereinigten Königreich nach Artikel 2 dieses Anhangs verlangen, ihren Aufenthalt auf Schweizer Hoheitsgebiet nach Massgabe der jeweiligen nationalen Gesetze und Vorschriften der Schweiz zu melden.
+
+#### Art. 5
+
+- 1\. Bei der Erbringung von Dienstleistungen nach Artikel 2 Absatz 1 dieses Anhangs kann es sich um eine ununterbrochene Dienstleistung oder um aufeinanderfolgende Dienstleistungen handeln.
+
+- 2\. Die Höchstdauer von 90 Tagen nach Artikel 2 Absatz 1 dieses Anhangs lässt die Erfüllung der gesetzlichen Verpflichtungen des Dienstleistungserbringers hinsichtlich der Gewährleistungspflicht gegenüber dem Empfänger der Dienstleistung unberührt und gilt nicht im Falle höherer Gewalt.
+
+#### Art. 6
+
+- 1\. Von der Anwendung der Bestimmungen von Artikel 2 Absatz 1 dieses Anhangs ausgenommen sind die Tätigkeiten, die auch nur gelegentlich die Ausübung hoheitlicher Befugnisse in der Schweiz umfassen.
+
+- 2\. Ungeachtet der Bestimmungen von Artikel 2 Absatz 1 dieses Anhangs finden alle in den Gesetzen und Vorschriften der Schweiz vorgesehenen Anforderungen betreffend Sozialversicherungs- und Arbeitsmassnahmen, einschliesslich der Lohnbedingungen sowie der Gesetze und Vorschriften über Mindestlöhne und Gesamtarbeitsverträge, weiterhin Anwendung. Diese Anforderungen werden von den zuständigen Behörden kontrolliert und durchgesetzt. Der Begriff «Arbeitsmassnahmen» bezieht sich auf im Sektor und am Ort der Tätigkeit bestehende Massnahmen, die in Gesetzen, Vorschriften und Gesamtarbeitsverträgen (in Bezug auf Entlöhnung, Arbeitszeit usw.) vorgesehen sind.
+
+- 3\. Die Bestimmungen von Artikel 2 Absatz 1 dieses Anhangs lassen die zum Zeitpunkt des Inkrafttretens dieses Abkommens in der Schweiz bestehenden Gesetze, Vorschriften und Verwaltungsbestimmungen in folgenden Bereichen unberührt: (a) Tätigkeiten von Agenturen für die Vermittlung und Beschaffung von Personal;
+
+(b) Finanzdienstleistungen, für die in der Schweiz eine vorherige Genehmigung erforderlich ist und deren Erbringer der Aufsicht der Schweizer Behörden unterliegen.
+
+- 4\. Die Bestimmungen von Artikel 2 Absatz 1 dieses Anhangs lassen die Schweizer Gesetze, Vorschriften und Verwaltungsbestimmungen betreffend die Erbringung von Dienstleistungen mit einer Dauer von höchstens 90 tatsächlichen Arbeitstagen unberührt, sofern diese aus zwingenden Gründen des Allgemeininteresses oder betreffend die öffentliche Sicherheit und Ordnung in Bezug auf einzelne Dienstleistungserbringer gerechtfertigt sind.
+
+### Anhang 2 Gemäss Artikel 12 Absatz 2
+
+### Zugang für Dienstleistungserbringer der Schweiz
+
+- 1\. Das Vereinigte Königreich gestattet in seinem Hoheitsgebiet die Erbringung von Dienstleistungen durch Erbringer vertraglicher Dienstleistungen oder Selbstständigerwerbende der Schweiz in Form der Präsenz natürlicher Personen gemäss Artikel 12 dieses Abkommens für die in diesem Anhang aufgeführten Sektoren vorbehaltlich der jeweiligen in Absatz 15 dieses Anhangs aufgeführten Beschränkungen.
+
+- 2\. Für die Zwecke dieses Anhangs bedeutet:
+
+(a) «Erbringer vertraglicher Dienstleistungen» eine natürliche Person, die bei einer juristischen Person der Schweiz beschäftigt ist, welche:
+
+(i) selbst keine Agentur für die Vermittlung und Beschaffung von Personal ist und auch nicht über eine solche tätig ist, (ii) nicht im Hoheitsgebiet des Vereinigten Königreichs niedergelassen ist, und (iii) einen Bona-fide-Vertrag über die Erbringung einer Dienstleistung für einen Endkonsumenten im Vereinigten Königreich abgeschlossen hat, zu dessen Erfüllung die vorübergehende Präsenz ihrer Arbeitnehmenden im Hoheitsgebiet des Vereinigten Königreichs erforderlich ist;[^hZugangfürDienstlei_2-1] (b) «Selbstständigerwerbende» natürliche Personen, die:
+
+(i) eine Dienstleistung erbringen und im Hoheitsgebiet der Schweiz als Selbstständige niedergelassen sind, (ii) nicht im Hoheitsgebiet des Vereinigten Königreichs niedergelassen sind, und (iii) einen Bona-fide-Vertrag über die Erbringung einer Dienstleistung für einen Endkonsumenten im Vereinigten Königreich abgeschlossen haben (nicht über eine Agentur für die Vermittlung und Beschaffung von Personal), zu dessen Erfüllung die vorübergehende Präsenz im Ho-
+
+heitsgebiet des Vereinigten Königreichs erforderlich ist;[^hZugangfürDienstlei_2-2]
+
+(c) «juristische Person der Schweiz» eine juristische Person, die im Hoheitsgebiet der Schweiz in erheblichem Umfang Geschäfte tätigt, wobei «im Hoheitsgebiet der Schweiz in erheblichem Umfang Geschäfte tätigt» heisst, dass die juristische Person eine echte Verbindung zur Wirtschaft der Schweiz aufweisen muss;
+
+(d) «natürliche Person der Schweiz» einen Staatsangehörigen der Schweiz oder einen dauerhaft Gebietsansässigen der Schweiz nach ihren geltenden Gesetzen und Vorschriften; und (e) «Dienstleistungserbringer der Schweiz» eine natürliche Person der Schweiz, die ein Erbringer vertraglicher Dienstleistungen oder ein Selbstständigerwerbender ist.
+
+- 3\. Die Liste der Vorbehalte in Absatz 15 dieses Anhangs ist wie folgt aufgebaut: (a) In der ersten Spalte wird der Sektor oder der Teilsektor angegeben, in dem die Kategorie der Erbringer vertraglicher Dienstleistungen und Selbstständigerwerbenden liberalisiert wird; und (b) in der zweiten Spalte werden die geltenden Beschränkungen beschrieben.
+
+- 4\. Zusätzlich zu den in der Liste in diesem Anhang aufgeführten Vorbehalten kann das Vereinigte Königreich eine Massnahme einführen oder aufrechterhalten, die sich auf Qualifikationsanforderungen, Qualifikationsverfahren, technische Normen oder Zulassungsanforderungen und -verfahren bezieht, die keine Beschränkungen im Sinne von Artikel 12 dieses Abkommens darstellen. Solche Massnahmen, unter anderem eine Zulassungspflicht, Pflicht zur Erlangung der Anerkennung von Qualifikationen in regulierten Sektoren oder Pflicht zur Ablegung besonderer Prüfungen gelten für Erbringer vertraglicher Dienstleistungen und Selbstständigerwerbende der Schweiz auch dann, wenn sie in diesem Anhang nicht aufgeführt sind.
+
+- 5\. Das Vereinigte Königreich geht keinerlei Verpflichtung für Erbringer vertraglicher Dienstleistungen und Selbstständigerwerbende im Zusammenhang mit wirtschaftlichen Aktivitäten, die nicht aufgelistet sind, ein.
+
+- 6\. Verpflichtungen in Bezug auf Erbringer vertraglicher Dienstleistungen und Selbstständigerwerbende gelten nicht in Fällen, in denen durch deren vorübergehenden Aufenthalt ein Eingreifen in oder eine anderweitige Einflussnahme auf arbeitsrechtliche oder betriebliche Auseinandersetzungen oder Verhandlungen bezweckt oder bewirkt wird.
+
+- 7\. Die Massnahmen zur Umsetzung der Verpflichtungen des Vereinigten Königreichs nach Absatz 1 sehen nicht vor, dass Dienstleistungserbringer der Schweiz Anforderungen bezüglich englischer Sprache als Voraussetzung für eine vorübergehende Einreise erfüllen müssen.
+
+- 8\. In der nachfolgenden Liste werden folgende Abkürzungen verwendet:
+
+EVD Erbringer vertraglicher Dienstleistungen SE Selbstständigerwerbende
+
+[^hZugangfürDienstlei_2-1]: Der in Unterabsatz (a)(iii) genannte Vertrag über die Erbringung von Dienstleistungen muss den Anforderungen der Gesetze und Vorschriften genügen, die am Ort der Vertragsausführung gelten.
+[^hZugangfürDienstlei_2-2]: Der in Unterabsatz (b)(iii) genannte Vertrag über die Erbringung von Dienstleistungen muss den Anforderungen der Gesetze und Vorschriften genügen, die am Ort der Vertragsausführung gelten.
+
+### Erbringer vertraglicher Dienstleistungen
+
+- 9\. Vorbehaltlich der Bedingungen in den Absätzen 10 und 11 und der Liste der Vorbehalte in Absatz 15 dieses Anhangs geht das Vereinigte Königreich Verpflichtungen gemäss Artikel 12 dieses Abkommens bezüglich der Kategorie der Erbringer vertraglicher Dienstleistungen in den folgenden Sektoren oder Teilsektoren ein: (a) Rechtsberatung im Bereich des Völkerrechts und des ausländischen Rechts; (b) Dienstleistungen von Rechnungslegern, Wirtschaftsprüfern und Buchhaltern;
+
+(c) Dienstleistungen von Steuerberatern;
+
+(d) Dienstleistungen von Architekten und Dienstleistungen von Städteplanern und Landschaftsarchitekten;
+
+(e) Ingenieurdienstleistungen und integrierte Ingenieurdienstleistungen;
+
+(f) Computer- und verwandte Dienstleistungen;
+
+(g) Dienstleistungen im Bereich Forschung und Entwicklung;
+
+(h) Werbedienstleistungen;
+
+(i) Dienstleistungen der Marktforschung und Erhebung der öffentlichen Meinung;
+
+(j) Managementberatung;
+
+(k) mit der Managementberatung verwandte Leistungen;
+
+(l) technische Test- und Analysedienstleistungen;
+
+(m) verwandte wissenschaftliche und technische Beratung;
+
+(n) Bergbau;
+
+(o) Wartung und Instandsetzung von Schiffen;
+
+(p) Wartung und Instandsetzung von Eisenbahnausrüstungen;
+
+(q) Wartung und Instandsetzung von Kraftfahrzeugen, Krafträdern, Schneemobilen und Ausrüstung für den Strassenverkehr;
+
+(r) Wartung und Instandsetzung von Luftfahrzeugen und Teilen davon;
+
+(s) Wartung und Instandsetzung von Metallerzeugnissen, Maschinen (ausser Büromaschinen), Ausrüstungen (ausser Fahrzeugen und Büroeinrichtungen) und Gebrauchsgütern;
+
+(t) Übersetzungs- und Dolmetschdienstleistungen;
+
+(u) Telekommunikationsdienstleistungen;
+
+(v) Postdienstleistungen und Dienstleistungen privater Kurier- und Expressdienste;
+
+(w) Baustellenerkundung;
+
+(x) Umweltdienstleistungen;
+
+(y) Versicherungsdienstleistungen und damit verwandte Beratungsdienstleistungen;
+
+(z) sonstige Finanzberatungsdienstleistungen;
+
+(aa) Beratungsdienstleistungen im Bereich Verkehr;
+
+(bb) Dienstleistungen von Reiseagenturen und Reiseveranstaltern;
+
+(cc) Dienstleistungen von Fremdenführern; und (dd) Beratungsdienstleistungen im Bereich des verarbeitenden Gewerbes.
+
+- 10\. Die Erbringer vertraglicher Dienstleistungen erfüllen die folgenden Bedingungen:
+
+(a) Die natürlichen Personen erbringen als Arbeitnehmende einer juristischen Person, die einen Dienstleistungsvertrag mit einer Laufzeit von höchstens
+
+12 Monaten abgeschlossen hat, vorübergehend eine Dienstleistung;
+
+(b) die in das Vereinigte Königreich einreisenden natürlichen Personen bieten die betreffenden Dienstleistungen seit mindestens einem Jahr, gerechnet ab Beantragung der Einreise in das Vereinigte Königreich, als Arbeitnehmende der die Dienstleistungen erbringenden juristischen Person an und verfügen zum Zeitpunkt der Beantragung der Einreise in das Vereinigte Königreich über mindestens drei Jahre Berufserfahrung[^hErbringervertraglic-1] in dem Tätigkeitsbereich, auf den sich der Vertrag erstreckt;
+
+(c) die in das Vereinigte Königreich einreisenden natürlichen Personen verfügen über:
+
+(i) einen Hochschulabschluss oder eine gleichwertige Qualifikation,[^hErbringervertraglic-2] und (ii) die Berufsqualifikation zur Ausübung einer Tätigkeit, sofern dies nach den Gesetzen, Vorschriften oder rechtlichen Anforderungen des Vereinigten Königreichs erforderlich ist;
+
+(d) die natürliche Person erhält für die Dienstleistungserbringung im Hoheitsgebiet des Vereinigten Königreichs keine andere Vergütung als die Vergütung durch das Unternehmen, das die natürliche Person beschäftigt;
+
+(e) der gewährte Zugang bezieht sich ausschliesslich auf die Dienstleistung, die Gegenstand des Vertrags ist und verleiht nicht das Recht, die Berufsbezeichnung des Vereinigten Königreichs zu führen, wo die Dienstleistung erbracht wird; und (f) die Zahl der Personen, die unter den Dienstleistungsvertrag fallen, darf nicht grösser sein, als für die Erfüllung des Vertrages erforderlich ist; dies kann in den Gesetzen, Vorschriften oder sonstigen rechtlichen Anforderungen des Vereinigten Königreichs festgelegt werden.
+
+- 11\. Die zulässige Aufenthaltsdauer für Erbringer vertraglicher Dienstleistungen ist auf insgesamt höchstens 12 Monate je 24-Monatszeitraum begrenzt oder auf die Laufzeit des Vertrags, je nachdem, welcher Zeitraum kürzer ist.
+
+[^hErbringervertraglic-1]: Die Berufserfahrung muss nach Erreichen der Volljährigkeit erworben werden.
+[^hErbringervertraglic-2]: Wurde der Abschluss oder die Qualifikation nicht im Vereinigten Königreich erworben, kann das Vereinigte Königreich prüfen, ob der Abschluss oder die Qualifikation dem in seinem Gebiet erforderlichen Hochschulabschluss gleichwertig sind.
+
+### Selbstständigerwerbende
+
+- 12\. Vorbehaltlich der Bedingungen in den Absätzen 13 und 14 und der Liste der Vorbehalte in Absatz 15 geht das Vereinigte Königreich Verpflichtungen gemäss Artikel 12 dieses Abkommens bezüglich der Kategorie der Selbstständigerwerbenden in den folgenden Sektoren oder Teilsektoren ein:
+
+(a) Rechtsberatung im Bereich des Völkerrechts und des ausländischen Rechts; (b) Dienstleistungen von Architekten und Dienstleistungen von Städteplanern und Landschaftsarchitekten;
+
+(c) Ingenieurdienstleistungen und integrierte Ingenieurdienstleistungen;
+
+(d) Computer- und verwandte Dienstleistungen;
+
+(e) Dienstleistungen im Bereich Forschung und Entwicklung;
+
+(f) Dienstleistungen der Marktforschung und Erhebung der öffentlichen Meinung;
+
+(g) Managementberatung;
+
+(h) mit der Managementberatung verwandte Leistungen;
+
+(i) Bergbau;
+
+(j) Übersetzungs- und Dolmetschdienstleistungen;
+
+(k) Telekommunikationsdienstleistungen;
+
+(l) Postdienstleistungen und Dienstleistungen privater Kurier- und Expressdienste;
+
+(m) Versicherungsdienstleistungen und damit verwandte Beratungsdienstleistungen;
+
+(n) sonstige Finanzberatungsdienstleistungen;
+
+(o) Beratungsdienstleistungen im Bereich Verkehr; und (p) Beratungsdienstleistungen im Bereich des verarbeitenden Gewerbes.
+
+- 13\. Die Selbstständigerwerbenden erfüllen die folgenden Bedingungen:
+
+(a) Die natürlichen Personen erbringen vorübergehend eine Dienstleistung als in der Schweiz niedergelassene Selbstständige und haben einen Dienstleistungsvertrag mit einer Laufzeit von höchstens 12 Monaten abgeschlossen; (b) die in das Hoheitsgebiet des Vereinigten Königreichs einreisenden natürlichen Personen verfügen bei Beantragung der Einreise in das Vereinigte Königreich in dem Tätigkeitsbereich, auf den sich der Vertrag erstreckt, über mindestens sechs Jahre Berufserfahrung;
+
+(c) die in das Vereinigte Königreich einreisenden natürlichen Personen verfügen über Folgendes:
+
+(i) einen Hochschulabschluss oder eine gleichwertige Qualifikation,[^hSelbstständigerwerbe-1] und (ii) die Berufsqualifikationen zur Ausübung einer Tätigkeit, sofern dies nach den Gesetzen, Vorschriften oder anderen rechtlichen Anforderungen des Vereinigten Königreichs erforderlich ist; und (d) der gewährte Zugang bezieht sich ausschliesslich auf die Dienstleistung, die Gegenstand des Vertrags ist und verleiht nicht das Recht, die Berufsbezeichnung des Vereinigten Königreichs zu führen.
+
+- 14\. Die zulässige Aufenthaltsdauer für Selbstständigerwerbende ist auf insgesamt höchstens 12 Monate je 24-Monatszeitraum begrenzt oder auf die Laufzeit des Vertrags, je nachdem, welcher Zeitraum kürzer ist.
+
+- 15\. Das Vereinigte Königreich listet in der nachfolgenden Tabelle die Vorbehalte gemäss Absatz 1 auf:
+
+**Beschreibung der Vorbehalte EVD: Keine. SE: Keine. EVD: Keine. Ungebunden. EVD: Keine. Ungebunden. EVD: Keine. SE: Keine.**
+
+Sektor oder Teilsektor[^hSelbstständigerwerbe-2] Rechtsberatung im Bereich des Völkerrechts und des ausländischen Rechts (Teil von CPC 861)
+
+Dienstleistungen von Rechnungslegern, Wirtschaftsprüfern und Buchhaltern (CPC 86211, 86212, 86213, 86219 und 86220) SE:
+
+Dienstleistungen von Steuerberatern (CPC 863)13 SE:
+
+Dienstleistungen von Architekten und Dienstleistungen von Städteplanern und Landschaftsarchitekten (CPC 8671 und 8674)
+
+**EVD: Keine. SE: Keine. EVD: Keine. Keine. EVD: Keine. SE: Keine.**
+
+Ingenieurdienstleistungen und integrierte Ingenieurdienstleistungen (CPC 8672 und 8673)
+
+Computer- und verwandte Dienstleistungen (CPC 84) SE:
+
+Dienstleistungen im Bereich Forschung und Entwicklung (CPC 851, 852 ausser Dienstleistungen von Psychologen14 und 853)
+
+**EVD: Keine. Ungebunden. EVD: Keine. SE: Keine.**
+
+Werbedienstleistungen (CPC 871) SE:
+
+Dienstleistungen der Marktforschung und Erhebung der öffentlichen Meinung (CPC 864) Sektor oder Teilsektor Managementberatung (CPC 865) SE:
+
+**Beschreibung der Vorbehalte EVD: Keine. Keine.**
+
+Mit der Managementberatung verwandte Leistungen (CPC 866) EVD: Keine. SE:
+
+**Keine. EVD: Keine. Ungebunden. EVD: Keine. SE: Ungebunden. EVD: Keine. Keine.**
+
+Technische Test- und Analysedienstleistungen (CPC 8676) SE:
+
+Verwandte wissenschaftliche und technische Beratung (CPC 8675)
+
+Bergbau (CPC 883, nur Beratungsdienstleistungen) SE:
+
+Wartung und Instandsetzung von Schiffen (Teil von CPC 8868) EVD: Keine. SE:
+
+**Ungebunden. EVD: Keine. SE: Ungebunden. EVD: Keine. SE: Ungebunden.**
+
+Wartung und Instandsetzung von Eisenbahnausrüstungen (Teil von CPC 8868)
+
+Wartung und Instandsetzung von Kraftfahrzeugen, Krafträdern, Schneemobilen und Ausrüstung für den Strassenverkehr (CPC 6112, 6122, Teil von 8867 und Teil von 8868)
+
+Wartung und Instandsetzung von Luftfahrzeugen und Teilen da- EVD: Keine. von (Teil von CPC 8868)
+
+**SE: Ungebunden. EVD: Keine. SE: Ungebunden.**
+
+Wartung und Instandsetzung von Metallerzeugnissen, Maschinen (ausser Büromaschinen), Ausrüstungen (ausser Fahrzeugen und Büroeinrichtungen) und Gebrauchsgütern15 (CPC 633, 7545, 8861, 8862, 8864, 8865 und 8866)
+
+Übersetzungs- und Dolmetschdienstleistungen (CPC 87905, ausge- EVD: Keine. nommen Tätigkeiten amtlich bestellter oder ermächtigter Übersetzer SE:
+
+**Keine.**
+
+und Dolmetscher)
+
+Telekommunikationsdienstleistungen (CPC 7544, nur Beratungs- EVD: Keine. dienstleistungen)
+
+**SE: Keine. EVD: Keine. SE: Keine. EVD: Keine. Ungebunden. EVD: Keine. SE: Ungebunden.**
+
+Post- und Kurierdienstleistungen (CPC 751, nur Beratungsdienstleistungen)
+
+Baustellenerkundung (CPC 5111) SE:
+
+Umweltdienstleistungen (CPC 9401, 9402, 9403, 9404, Teil von 94060, 9405, Teil von 9406 und 9409) Sektor oder Teilsektor Versicherungsdienstleistungen und damit verwandte Dienstleistungen (nur Beratungsdienstleistungen)
+
+**Beschreibung der Vorbehalte EVD: Keine. SE: Keine.**
+
+Sonstige Finanzdienstleistungen (nur Beratungsdienstleistungen) EVD: Keine. SE:
+
+**Keine.**
+
+Verkehr (CPC 71, 72, 73 und 74, nur Beratungsdienstleistungen) EVD: Keine. SE:
+
+**Keine.**
+
+Dienstleistungen von Reiseagenturen und Reiseveranstaltern (ein- EVD: Keine. schliesslich Reiseleitern[^hSelbstständigerwerbe-3] (CPC 7471)
+
+**SE: Ungebunden. EVD: Keine. Ungebunden. EVD: Keine. SE: Keine.**
+
+Dienstleistungen von Fremdenführern (CPC 7472) SE:
+
+Verarbeitendes Gewerbe (CPC 884 und 885, nur Beratungsdienstleistungen) Herr Guy Parmelin 14. Dezember 2020 Bundesrat, Schweizerische Eidgenossenschaft Bern Rt Hon Elizabeth Truss MP Secretary of State for International Trade and President of the Board of Trade
+
+Frau Ministerin
+
+Ich beehre mich, den Eingang Ihres Schreibens vom 14. Dezember 2020 zu bestätigen, das wie folgt lautet:
+
+«Herr Bundesrat Ich beehre mich, Bezug zu nehmen auf das am 14. Dezember 2020 in London unterzeichnete Befristete Abkommen zwischen der Schweizerischen Eidgenossenschaft (die «Schweiz») und dem Vereinigten Königreich von Grossbritannien und Nordirland (das «Vereinigte Königreich») über die Mobilität von Dienstleistungserbringern (das «SMA»).
+
+Ich beehre mich, vorzuschlagen, dass das Vereinigte Königreich:
+
+(a) darum bestrebt ist, sicherzustellen, dass das National Recognition Information Centre des Vereinigten Königreichs (das «NARIC») festlegt, ob im Rahmen der Schweizer Berufsbildung erlangte Qualifikationen einen Wissensstand nachweisen, der dem eines Hochschulabschlusses gleichwertig ist; (b) darum bestrebt ist, sicherzustellen, dass sich die unter (a) genannte Tätigkeit des NARIC auf die Qualifikationen konzentriert, die zur Erbringung von Dienstleistungen in den Sektoren, für die das Vereinigte Königreich im SMA Verpflichtungen eingeht, erforderlich sind;
+
+(c) das NARIC ersucht, die von der Schweizer Regierung innerhalb des Europäischen Qualifikationsrahmens (EQR) vorgenommene Klassifikation von Schweizer Qualifikationen zu berücksichtigen;
+
+(d) darum bestrebt ist, den Dialog zwischen den zuständigen Organisationen im Vereinigten Königreich und in der Schweiz sicherzustellen, um die unter (a) erwähnte Tätigkeit zu unterstützen; und (e) darum bestrebt ist, sicherzustellen, dass die in Kapitel 3 Artikel 3 des SMA erwähnte Arbeitsgruppe über die unter (a) erwähnte Tätigkeit informiert wird.
+
+Sofern die Schweiz zum oben erwähnten Vorschlag ihre Zustimmung erteilt, bin ich beehrt, vorzuschlagen, dass dieses Schreiben zusammen mit Ihrer Antwort als Abkommen zwischen unseren beiden Regierungen betrachtet wird, das ab dem Tag in V ereinigten Königreich
+
+Kraft tritt, ab dem das SMA vorläufig angewendet wird oder zwischen der Schweiz und dem Vereinigten Königreich in Kraft tritt, je nachdem, welches Datum früher liegt, und das solange Anwendung findet, wie das SMA zwischen der Schweiz und dem Vereinigten Königreich gilt.
+
+Ich benutze diesen Anlass, um Sie, Herr Bundesrat, meiner ausgezeichneten Hocha chtung zu versichern.»
+
+Als Antwort beehre ich mich, Ihnen, Frau Ministerin, mitzuteilen, dass die Schweiz zum oben erwähnten Vorschlag ihre Zustimmung erteilt. Ihr Schreiben wird deshalb zusammen mit dieser Antwort als ein Abkommen zwischen der Schweiz und dem Vereinigten Königreich betrachtet, das ab dem Tag in Kraft tritt, ab dem das SMA vorläufig angewendet wird oder zwischen der Schweiz und dem Vereinigten Königreich in Kraft tritt, je nachdem, welches Datum früher liegt, und das solange Anwendung findet, wie das SMA zwischen der Schweiz und dem Vereinigten Königreich gilt.
+
+Ich benutze diesen Anlass, um Sie, Frau Ministerin, meiner ausgezeichneten Hochachtung zu versichern.
+
+[^hSelbstständigerwerbe-1]: Wurde der Abschluss oder die Qualifikation nicht im Vereinigten Königreich erworben, kann das Vereinigte Königreich prüfen, ob der Abschluss oder die Qualifikation dem in seinem Gebiet erforderlichen Hochschulabschluss gleichwertig sind.
+[^hSelbstständigerwerbe-2]: «CPC» bezeichnet die vorläufige Zentrale Gütersystematik (Statistical Papers Series M No. 77, Departement für internationale wirtschaftliche und soziale Angelegenheiten, Statistisches Amt der Vereinten Nationen, New York, 1991).
+[^hSelbstständigerwerbe-3]: Dienstleistungserbringer, deren Aufgabe es ist, eine Reisegruppe von mindestens zehn natürlichen Personen zu begleiten, ohne als Führer an bestimmten Orten tätig zu sein.
+
+## Weitere Fussnoten
+
+- [13] Die Dienstleistungen von Steuerberatern umfassen keine Rechtsberatungs- und Rechtsvertretungsleistungen in Steuerangelegenheiten, die unter Rechtsberatung im Bereich des Völkerrechts und des ausländischen Rechts fallen.
+- [14] Teil von CPC 85201, unter medizinische und zahnmedizinische Dienstleistungen.
+- [15] Wartung und Instandsetzung von Büromaschinen und -einrichtungen einschliesslich Computern (CPC 845) ist unter Computerdienstleistungen zu finden.
