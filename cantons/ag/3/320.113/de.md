@@ -4,13 +4,13 @@ number: "320.113"
 title: Sonderverordnung 1 zur Begegnung von Störungen der öffentlichen Ordnung und Sicherheit sowie sozialen Notständen infolge des Coronavirus
 short: SonderV 20-1
 language: de
-version: 2021-01-01
-valid_until: 2021-02-17
-version_adopted: 2020-12-09
+version: 2021-02-18
+valid_until: 2021-07-31
+version_adopted: 2021-02-17
 adopted: 2020-04-01
 in_force: 2020-04-02
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/320.113"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2955/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2956/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2955/pdf_file"
 
 (SonderV 20-1)
 
-Vom 01.04.2020 (Stand 01.01.2021)
+Vom 01.04.2020 (Stand 18.02.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -127,6 +127,21 @@ beschliesst:
 #### § 9
 
 **…**
+
+#### § 9a
+
+**Berufskosten während der COVID-19-Pandemie**
+
+<sup>1</sup> Unselbständig erwerbende Personen können die Berufskosten gemäss § 35 Abs. 1 lit. a und b des Steuergesetzes (StG) vom 15. Dezember 1998[^9a-1] weiterhin so geltend machen, wie sie ohne Massnahmen zur Bekämpfung der COVID-19-Pandemie angefallen wären.
+
+<sup>2</sup> Die Berufskosten gemäss § 35 Abs. 1 lit. a und b StG werden nicht um die COVID-19-bedingten Homeoffice-Tage gekürzt.
+
+<sup>3</sup> Personen, die übrige Berufskosten für private Arbeitszimmer und Nebenkosten gemäss § 35 Abs. 1 lit. c StG und über die Pauschalansätze gemäss Ziff. 1 des Anhangs zur Verordnung des EFD über den Abzug der Berufskosten unselbstständig Erwerbstätiger bei der direkten Bundessteuer (Berufskostenverordnung) vom 10. Februar 1993[^9a-2] hinausgehend geltend machen, können nicht gleichzeitig die administrative Erleichterung gemäss den Absätzen 1 und 2 anrufen.
+
+<sup>4</sup> Steuerpflichtige, die mit dem Auto anstatt mit öffentlichen Verkehrsmitteln an den Arbeitsplatz gefahren sind, können hierfür die Autokosten zum Abzug bringen (Maximalbetrag Fr. 7'000.–), wenn bei ihnen aufgrund der behördlichen Massnahmen eine Nutzung des öffentlichen Verkehrs nicht als zumutbar erachtet werden kann. Das Steueramt kann eine Arbeitgeberbestätigung verlangen, um zu prüfen, ob die Arbeitnehmerin oder der Arbeitnehmer während dieser Zeit am bisherigen Arbeitsort tätig war.
+
+[^9a-1]: SAR [651.100](https://gesetzessammlungen.ag.ch/data/651.100/de)
+[^9a-2]: SR [642.118.1](https://db.clex.ch/link/Bund/642.118.1/de)
 
 ## 7. Massnahmen im Bereich des Bau-, Planungs- und Umweltrechts
 
@@ -240,6 +255,8 @@ beschliesst:
 <sup>6</sup> …
 
 <sup>7</sup> Die Massnahmen gemäss den §§ 4a, 6a, 10–12b und 17 gelten bis zum 30. Juni 2021.
+
+<sup>8</sup> Die Massnahme gemäss § 9a gilt bis 31. Dezember 2021.
 
 Aarau, 1. April 2020
 
