@@ -4,11 +4,11 @@ title: "Ordinanza del 12 marzo 2004 sulle sanzioni in caso di limitazioni illeci
 short: OS LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/175"
 language: it
-version: 2013-01-01
+version: 2021-02-18
 adopted: 2004-03-12
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2004-175-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20210218/it/xml/fedlex-data-admin-ch-eli-cc-2004-175-20210218-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20210218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/it"
 
 (LCart – Ordinanza sulle sanzioni, OS LCart)
 
-del 12 marzo 2004 (Stato 1° gennaio 2013) (Stato 1° gennaio 2013)
+del 12 marzo 2004 (Stato 18 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -125,8 +125,10 @@ Rinuncia alla sanzione solo se l’impresa:
 
 Si rinuncia alla sanzione secondo il capoverso 1 lettera b solo se:
 
-- a. un’altra impresa ha già adempiuto le condizioni per essere esentata dalla sanzione conformemente al capoverso 1 lettera a; e
-- b. l’autorità in materia di concorrenza dispone già di prove sufficienti per stabilire l’esistenza della limitazione illecita della concorrenza.
+- a. un’altra impresa non ha già adempiuto le condizioni per essere esentata dalla sanzione conformemente al capoverso 1 lettera a; e
+- b. l’autorità in materia di concorrenza non dispone già di prove sufficienti per stabilire l’esistenza della limitazione illecita della concorrenza.[^8-1]
+
+[^8-1]: Correzione del 18 feb. 2021 ([RU 2021 100](https://fedlex.data.admin.ch/eli/oc/2021/100)).
 
 #### Art. 9
 

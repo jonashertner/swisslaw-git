@@ -4,11 +4,11 @@ title: "Ordinance of 12 March 2004 on Sanctions imposed for Unlawful Restraints 
 short: CASO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/175"
 language: en
-version: 2013-01-01
+version: 2021-02-18
 adopted: 2004-03-12
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20130101/en/xml/fedlex-data-admin-ch-eli-cc-2004-175-20130101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20210218/en/xml/fedlex-data-admin-ch-eli-cc-2004-175-20210218-en-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20210218/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Cartel Act Sanctions Ordinance, CASO)
 
-of 12 March 2004 (Status as of 1 January 2013)
+of 12 March 2004 (Status as of 18 February 2021)
 
 The Swiss Federal Council,
 
@@ -29,7 +29,7 @@ ordains:
 
 [^ingress-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
 
-## Section 1: General Provisions
+## Section 1 General Provisions
 
 #### Art. 1
 
@@ -39,7 +39,7 @@ This Ordinance regulates:
 - b. the conditions and the procedure for obtaining complete or partial immunity from sanctions in accordance with Article 49*a* paragraph 2 Cartel Act;
 - c. the conditions and the procedure for notifications under Article 49*a* paragraph 3 letter a Cartel Act.
 
-## Section 2: Calculation of Sanctions
+## Section 2 Calculation of Sanctions
 
 #### Art. 2
 
@@ -99,7 +99,7 @@ In the case of restraints of competition in accordance with Article 5 paragraphs
 
 In no case shall the sanction exceed 10 per cent of the turnover achieved by the undertaking in Switzerland during the preceding three financial years (Art. 49*a* para. 1 Cartel Act).
 
-## Section 3: Complete Immunity from a Sanction
+## Section 3 Complete Immunity from a Sanction
 
 #### Art. 8
 
@@ -128,7 +128,9 @@ Immunity from a sanction shall be granted only if the undertaking:
 Immunity from a sanction in accordance with paragraph 1 letter b shall only be granted if:
 
 - a. no other undertaking already fulfils the requirements for complete immunity in accordance with paragraph 1 letter a, and
-- b. the competition authority does not already possess sufficient evidence to prove the infringement of competition.
+- b. the competition authority does not already possess sufficient evidence to prove the infringement of competition.[^8-1]
+
+[^8-1]: The correction of 18 Feb. 2021 concerns the Italian text only ([AS 2021 100](https://fedlex.data.admin.ch/eli/oc/2021/100)).
 
 #### Art. 9
 
@@ -160,7 +162,7 @@ The competition authority shall consider any subsequently received voluntary rep
 
 <sup>2</sup> The Competition Commission may only depart from a communication by the Secretariat pursuant to Article 9 paragraph 3 letter a if it subsequently receives information that precludes the granting of immunity from a sanction.
 
-## Section 4: Reduction of Sanction
+## Section 4 Reduction of Sanction
 
 #### Art. 12
 
@@ -188,13 +190,13 @@ The competition authority shall consider any subsequently received voluntary rep
 
 <sup>2</sup> If the cooperating undertaking produces evidence that contains information on the duration of the infringement of competition of which the Competition Commission had no knowledge, the latter shall calculate the sanction without taking this period into consideration.
 
-## Section 5: Notification and Objection Procedure
+## Section 5 Notification and Objection Procedure
 
 #### Art. 15
 
 **Notification of a potentially unlawful restraint of competition**
 
-A notification within the meaning of Article 49a paragraph 3 letter a Cartel Act shall be submitted to the Secretariat in triplicate in one of the official languages.
+A notification within the meaning of Article 49*a* paragraph 3 letter a Cartel Act shall be submitted to the Secretariat in triplicate in one of the official languages.
 
 #### Art. 16
 
@@ -202,7 +204,7 @@ A notification within the meaning of Article 49a paragraph 3 letter a Cartel Act
 
 <sup>1</sup> The Competition Commission shall specify the information required for the notification in a notification form. It shall communicate the extent to which a notification submitted to a foreign authority may be of use for the purposes of a Swiss notification.
 
-<sup>2</sup> It shall arrange for the publication of the notification forms and explanatory notes in the Federal Gazette
+<sup>2</sup> It shall arrange for the publication of the notification forms and explanatory notes in the Federal Gazette.
 
 #### Art. 17
 
@@ -222,7 +224,7 @@ The Secretariat shall confirm to the notifying undertaking that it has received 
 
 If the undertaking has not been informed of the opening of proceedings under Articles 26 to 30 Cartel Act within five months of receipt of the notification, any sanction pursuant to Article 49*a* paragraph 1 Cartel Act shall be waived in respect of the notified facts.
 
-## Section 6: Commencement
+## Section 6 Commencement
 
 #### Art. 20
 

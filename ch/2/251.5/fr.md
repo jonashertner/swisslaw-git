@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mars 2004 sur les sanctions en cas de restrictions illi
 short: OS LCart
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/175"
 language: fr
-version: 2013-01-01
+version: 2021-02-18
 adopted: 2004-03-12
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-175-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-2004-175-20210218-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20210218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/fr"
 
 (Ordonnance sur les sanctions LCart, OS LCart)
 
-du 12 mars 2004 (Etat le 1<sup>er</sup> janvier 2013)
+du 12 mars 2004 (État le 18 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -126,7 +126,9 @@ Elle renonce à la sanction uniquement si l’entreprise:
 Il n’est renoncé à la sanction aux termes de l’al. 1, let. b, que:
 
 - a. si une autre entreprise n’a pas déjà satisfait aux conditions requises pour être exemptée d’une sanction aux termes de l’al. 1, let. a, et
-- b. si l’autorité en matière de concurrence ne dispose pas déjà de preuves suffisantes pour établir l’existence de la restriction illicite à la concurrence.
+- b. si l’autorité en matière de concurrence ne dispose pas déjà de preuves suffisantes pour établir l’existence de la restriction illicite à la concurrence.[^8-1]
+
+[^8-1]: Erratum du 18 fév. 2021, ne concerne que le texte italien ([RO 2021 100](https://fedlex.data.admin.ch/eli/oc/2021/100)).
 
 #### Art. 9
 

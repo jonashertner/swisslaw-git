@@ -4,11 +4,11 @@ title: "Verordnung vom 12. März 2004 über die Sanktionen bei unzulässigen Wet
 short: SVKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/175"
 language: de
-version: 2013-01-01
+version: 2021-02-18
 adopted: 2004-03-12
 in_force: 2004-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2004-175-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/175/20210218/de/xml/fedlex-data-admin-ch-eli-cc-2004-175-20210218-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20210218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/175/20130101/de"
 
 (KG-Sanktionsverordnung, SVKG)
 
-vom 12. März 2004 (Stand am 1. Januar 2013)
+vom 12. März 2004 (Stand am 18. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -126,7 +126,9 @@ Sie erlässt die Sanktion nur, wenn das Unternehmen:
 Der Erlass der Sanktion gemäss Absatz 1 Buchstabe b wird nur gewährt, sofern:
 
 - a. nicht bereits ein anderes Unternehmen die Voraussetzungen für einen Erlass gemäss Absatz 1 Buchstabe a erfüllt; und
-- b. die Wettbewerbsbehörde nicht bereits über ausreichende Beweismittel verfügt, um den Wettbewerbsverstoss zu beweisen.
+- b. die Wettbewerbsbehörde nicht bereits über ausreichende Beweismittel verfügt, um den Wettbewerbsverstoss zu beweisen.[^8-1]
+
+[^8-1]: Die Berichtigung vom 18. Febr. 2021 betrifft nur den italienischen Text ([AS 2021 100](https://fedlex.data.admin.ch/eli/oc/2021/100)).
 
 #### Art. 9
 
