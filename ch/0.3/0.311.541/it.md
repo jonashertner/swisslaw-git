@@ -3,11 +3,11 @@ sr: "0.311.541"
 title: "Protocollo addizionale del 15 novembre 2000 della Convenzione delle Nazioni Unite contro la Criminalità organizzata transnazionale per combattere il traffico di migranti via terra, via mare e via aria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: it
-version: 2018-10-29
+version: 2021-02-18
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20181029/it/xml/fedlex-data-admin-ch-eli-cc-2006-863-20181029-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20181029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/it/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 27 ottobre 2006
 
 Entrato in vigore per la Svizzera il 26 novembre 2006
 
-(Stato 29 ottobre 2018)
+(Stato 18 febbraio 2021)
 
 [^t-1]: Art.1 cpv.1 lett. c del DF del 23 giu. 2006 ([RU 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861)).
 
@@ -395,7 +395,7 @@ Gli Stati Parte prendono in considerazione la conclusione di accordi bilaterali 
 
 *In fede di ciò*, i sottoscritti plenipotenziari, all’uopo debitamente autorizzati dai rispettivi Governi, hanno sottoscritto il presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 29 ottobre 2018**[^t-2]**
+Campo d’applicazione il 18 febbraio 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
@@ -430,6 +430,7 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td>Ceca, Repubblica<sup>\*\*</sup></td><td>24 settembre</td><td>2013</td><td>24 ottobre</td><td colspan="2">2013</td></tr>
 <tr><td>Cile</td><td>29 novembre</td><td>2004</td><td>29 dicembre</td><td colspan="2">2004</td></tr>
 <tr><td>Cipro</td><td>6 agosto</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
+<tr><td>Comore</td><td>15 dicembre</td><td>2020 A</td><td>14 gennaio</td><td colspan="2">2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>2005 A</td><td>27 novembre</td><td colspan="2">2005</td></tr>
 <tr><td>Corea del Sud</td><td>5 novembre</td><td>2015</td><td>5 dicembre</td><td colspan="2">2015</td></tr>
 <tr><td>Costa d’Avorio</td><td>8 giugno</td><td>2017 A</td><td>8 luglio</td><td colspan="2">2017</td></tr>
@@ -443,11 +444,13 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td>Egitto</td><td>1° marzo</td><td>2005 A</td><td>31 marzo</td><td colspan="2">2005</td></tr>
 <tr><td>El Salvador<sup>\*</sup></td><td>18 marzo</td><td>2004</td><td>17 aprile</td><td colspan="2">2004</td></tr>
 <tr><td>Estonia<sup>\*\*</sup></td><td>12 maggio</td><td>2004</td><td>11 giugno</td><td colspan="2">2004</td></tr>
+<tr><td>Eswatini</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td colspan="2">2012</td></tr>
 <tr><td>Etiopia<sup>\*</sup></td><td>22 giugno</td><td>2012 A</td><td>22 luglio</td><td colspan="2">2012</td></tr>
 <tr><td>Figi<sup>\*</sup></td><td>19 settembre</td><td>2017 A</td><td>19 ottobre</td><td colspan="2">2017</td></tr>
 <tr><td>Filippine</td><td>28 maggio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
 <tr><td>Finlandia<sup>\*\*</sup></td><td>7 settembre</td><td>2006</td><td>7 ottobre</td><td colspan="2">2006</td></tr>
 <tr><td>Francia</td><td>29 ottobre</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
+<tr><td>Gabon</td><td>10 maggio</td><td>2019 A</td><td>9 giugno</td><td colspan="2">2019</td></tr>
 <tr><td>Gambia</td><td>5 maggio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
 <tr><td>Georgia</td><td>5 settembre</td><td>2006</td><td>5 ottobre</td><td colspan="2">2006</td></tr>
 <tr><td>Germania<sup>\*\*</sup></td><td>14 giugno</td><td>2006</td><td>14 luglio</td><td colspan="2">2006</td></tr>
@@ -480,7 +483,7 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>20 febbraio</td><td>2008</td><td>21 marzo</td><td colspan="2">2008</td></tr>
 <tr><td>Lituania<sup>\* \*\*</sup></td><td>12 maggio</td><td>2003</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
 <tr><td>Lussemburgo</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td colspan="2">2012</td></tr>
-<tr><td>Macedonia</td><td>12 gennaio</td><td>2005</td><td>11 febbraio</td><td colspan="2">2005</td></tr>
+<tr><td>Macedonia del Nord</td><td>12 gennaio</td><td>2005</td><td>11 febbraio</td><td colspan="2">2005</td></tr>
 <tr><td>Madagascar</td><td>15 settembre</td><td>2005</td><td>15 ottobre</td><td colspan="2">2005</td></tr>
 <tr><td>Malawi<sup>\*</sup></td><td>17 marzo</td><td>2005 A</td><td>16 aprile</td><td colspan="2">2005</td></tr>
 <tr><td>Mali</td><td>12 aprile</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
@@ -505,6 +508,7 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td>Paesi Bassi<sup>\*\*</sup> <sup>c</sup></td><td>27 luglio</td><td>2005</td><td>26 agosto</td><td colspan="2">2005</td></tr>
 <tr><td>Aruba</td><td>18 gennaio</td><td>2007</td><td>18 gennaio</td><td colspan="2">2007</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 ottobre</td><td colspan="2">2010</td></tr>
+<tr><td>Palau</td><td>27 maggio</td><td>2019 A</td><td>26 giugno</td><td colspan="2">2019</td></tr>
 <tr><td>Panama</td><td>18 agosto</td><td>2004</td><td>17 settembre</td><td colspan="2">2004</td></tr>
 <tr><td>Paraguay</td><td>23 settembre</td><td>2008 A</td><td>23 ottobre</td><td colspan="2">2008</td></tr>
 <tr><td>Perù</td><td>23 gennaio</td><td>2002</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
@@ -533,7 +537,6 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td>Suriname</td><td>25 maggio</td><td>2007 A</td><td>24 giugno</td><td colspan="2">2007</td></tr>
 <tr><td>Svezia<sup>\*\*</sup></td><td>6 settembre</td><td>2006</td><td>6 ottobre</td><td colspan="2">2006</td></tr>
 <tr><td>Svizzera</td><td>27 ottobre</td><td>2006</td><td>26 novembre</td><td colspan="2">2006</td></tr>
-<tr><td>Swaziland</td><td>24 settembre</td><td>2012</td><td>24 ottobre</td><td colspan="2">2012</td></tr>
 <tr><td>Tagikistan</td><td>8 luglio</td><td>2002 A</td><td>28 gennaio</td><td colspan="2">2004</td></tr>
 <tr><td>Tanzania</td><td>24 maggio</td><td>2006</td><td>23 giugno</td><td colspan="2">2006</td></tr>
 <tr><td>Timor–Leste</td><td>9 novembre</td><td>2009 A</td><td>9 dicembre</td><td colspan="2">2009</td></tr>
@@ -554,7 +557,7 @@ Campo d’applicazione il 29 ottobre 2018**[^t-2]**
 <tr><td colspan="5"><sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863), [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140)[4059](https://fedlex.data.admin.ch/eli/oc/2008/560), [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481),[2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494), [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37), [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543), [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188)[5687](https://fedlex.data.admin.ch/eli/oc/2017/614)e [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), 405; [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
 
 Designazione dell’autorità Svizzera
 

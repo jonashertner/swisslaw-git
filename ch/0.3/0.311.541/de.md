@@ -3,11 +3,11 @@ sr: "0.311.541"
 title: "Zusatzprotokoll vom 15. November 2000 gegen die Schleusung von Migranten auf dem Land-, See- und Luftweg zum Übereinkommen der Vereinten Nationen gegen die grenzüberschreitende organisierte Kriminalität"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: de
-version: 2018-10-29
+version: 2021-02-18
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20181029/de/xml/fedlex-data-admin-ch-eli-cc-2006-863-20181029-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20181029/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/de/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Oktober 2006
 
 In Kraft getreten für die Schweiz am 26. November 2006
 
-(Stand am 29. Oktober 2018)
+(Stand am 18. Februar 2021)
 
 [^t-1]: Für Österreich und die Schweiz (durchgehend): Schlepperei
 [^t-2]: Art. 1 Abs. 1 Bst. c des BB vom 23. Juni 2006 ([AS 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
@@ -403,7 +403,7 @@ Die Vertragsstaaten erwägen den Abschluss zweiseitiger oder regionaler Überein
 
 *Zu Urkund dessen* haben die unterzeichneten, von ihren Regierungen hierzu gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Oktober 2018**[^t-3]**
+Geltungsbereich am 18. Februar 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -442,10 +442,12 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Ecuador\*</td><td>17. September</td><td>2002</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>El Salvador\*</td><td>18. März</td><td>2004</td><td>17. April</td><td>2004</td></tr>
 <tr><td>Estland\*\*</td><td>12. Mai</td><td>2004</td><td>11. Juni</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
 <tr><td>[tab] Europäische Union\*</td><td>6. September</td><td>2006</td><td>6. Oktober</td><td>2006</td></tr>
 <tr><td>Fidschi\*</td><td>19. September</td><td>2017 B</td><td>19. Oktober</td><td>2017</td></tr>
 <tr><td>Finnland</td><td>7. September</td><td>2006</td><td>7. Oktober</td><td>2006</td></tr>
 <tr><td>Frankreich</td><td>29. Oktober</td><td>2002</td><td>28. Januar</td><td>2004</td></tr>
+<tr><td>Gabun</td><td>10. Mai</td><td>2019 B</td><td>9. Juni</td><td>2019</td></tr>
 <tr><td>Gambia</td><td>5. Mai</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Georgien</td><td>5. September</td><td>2006</td><td>5. Oktober</td><td>2006</td></tr>
 <tr><td>Ghana</td><td>21. August</td><td>2012 B</td><td>20. September</td><td>2012</td></tr>
@@ -470,6 +472,7 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Kenia</td><td>5. Januar</td><td>2005 B</td><td>4. Februar</td><td>2005</td></tr>
 <tr><td>Kirgisistan</td><td>2. Oktober</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Kiribati</td><td>15. September</td><td>2005 B</td><td>15. Oktober</td><td>2005</td></tr>
+<tr><td>Komoren</td><td>15. Dezember</td><td>2020 B</td><td>14. Januar</td><td>2021</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. Oktober</td><td>2005 B</td><td>27. November</td><td>2005</td></tr>
 <tr><td>Korea (Süd-)</td><td>5. November</td><td>2015</td><td>5. Dezember</td><td>2015</td></tr>
 <tr><td>Kroatien\*\*</td><td>24. Januar</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
@@ -490,7 +493,6 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Malta</td><td>24. September</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Mauretanien</td><td>22. Juli</td><td>2005 B</td><td>21. August</td><td>2005</td></tr>
 <tr><td>Mauritius</td><td>24. September</td><td>2003 B</td><td>28. Januar</td><td>2004</td></tr>
-<tr><td>Mazedonien</td><td>12. Januar</td><td>2005</td><td>11. Februar</td><td>2005</td></tr>
 <tr><td>Mexiko\*\*</td><td>4. März</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Moldau\*</td><td>16. September</td><td>2005</td><td>16. Oktober</td><td>2005</td></tr>
 <tr><td>Monaco</td><td>5. Juni</td><td>2001</td><td>28. Januar</td><td>2004</td></tr>
@@ -507,9 +509,11 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>18. März</td><td>2009 B</td><td>17. April</td><td>2009</td></tr>
 <tr><td>Nigeria</td><td>27. September</td><td>2001</td><td>28. Januar</td><td>2004</td></tr>
+<tr><td>Nordmazedonien</td><td>12. Januar</td><td>2005</td><td>11. Februar</td><td>2005</td></tr>
 <tr><td>Norwegen\*\*</td><td>23. September</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Oman</td><td>13. Mai</td><td>2005 B</td><td>12. Juni</td><td>2005</td></tr>
 <tr><td>Österreich\*\*</td><td>30. November</td><td>2007</td><td>30. Dezember</td><td>2007</td></tr>
+<tr><td>Palau</td><td>27. Mai</td><td>2019 B</td><td>26. Juni</td><td>2019</td></tr>
 <tr><td>Panama</td><td>18. August</td><td>2004</td><td>17. September</td><td>2004</td></tr>
 <tr><td>Paraguay</td><td>23. September</td><td>2008 B</td><td>23. Oktober</td><td>2008</td></tr>
 <tr><td>Peru</td><td>23. Januar</td><td>2002</td><td>28. Januar</td><td>2004</td></tr>
@@ -537,7 +541,6 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Südafrika\*</td><td>20. Februar</td><td>2004</td><td>21. März</td><td>2004</td></tr>
 <tr><td>Sudan\*</td><td>9. Oktober</td><td>2018</td><td>8. November</td><td>2018</td></tr>
 <tr><td>Suriname</td><td>25. Mai</td><td>2007 B</td><td>24. Juni</td><td>2007</td></tr>
-<tr><td>Swasiland</td><td>24. September</td><td>2012</td><td>24. Oktober</td><td>2012</td></tr>
 <tr><td>Syrien\*</td><td>8. April</td><td>2009</td><td>8. Mai</td><td>2009</td></tr>
 <tr><td>Tadschikistan</td><td>8. Juli</td><td>2002 B</td><td>28. Januar</td><td>2004</td></tr>
 <tr><td>Tansania</td><td>24. Mai</td><td>2006</td><td>23. Juni</td><td>2006</td></tr>
@@ -556,13 +559,13 @@ Geltungsbereich am 29. Oktober 2018**[^t-3]**
 <tr><td>Vereinigtes Königreich</td><td>9. Februar</td><td>2006</td><td>11. März</td><td>2006</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>6. Oktober</td><td>2006 B</td><td>5. November</td><td>2006</td></tr>
 <tr><td>Zypern</td><td>6. August</td><td>2003</td><td>28. Januar</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die von den Vertragsstaaten gemäss Artikel 8 Absatz 6 bestimmten Behörden sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die von den Vertragsstaaten gemäss Artikel 8 Absatz 6 bestimmten Behörden sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Protokoll findet keine Anwendung auf die Färöer und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863), [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140)[4059](https://fedlex.data.admin.ch/eli/oc/2008/560), [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481), [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494), [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37), [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543), [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188)[5687](https://fedlex.data.admin.ch/eli/oc/2017/614), [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188), [5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht. https://fedlex.admin.ch/de/Treaty.
 
 Erklärung
 

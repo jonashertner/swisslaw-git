@@ -3,11 +3,11 @@ sr: "0.311.541"
 title: "Protocole du 15 novembre 2000 contre le trafic illicite de migrants par terre, air et mer, additionnel à la Convention des Nations Unies contre la criminalité transnationale organisée"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/863"
 language: fr
-version: 2018-10-29
+version: 2021-02-18
 adopted: 2000-11-15
 in_force: 2006-11-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20181029/fr/xml/fedlex-data-admin-ch-eli-cc-2006-863-20181029-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20181029/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/863/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-2006-863-20210218-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/863/20210218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,23 +26,23 @@ Instrument de ratification déposé par la Suisse le 27 octobre 2006
 
 Entré en vigueur pour la Suisse le 26 novembre 2006
 
-(Etat le 29 octobre 2018)
+(Etat le 18 février 2021)
 
 [^t-1]: Art. 1, al. 1, let c, de l’AF du 23 juin 2006 ([RO 2006 5859](https://fedlex.data.admin.ch/eli/oc/2006/861))
 
 *Préambule*
 
-Les Etats parties au présent Protocole,
+Les États parties au présent Protocole,
 
 déclarant qu’une action efficace visant à prévenir et combattre le trafic illicite de migrants par terre, air et mer exige une approche globale et internationale, y compris une coopération, des échanges d’informations et d’autres mesures appropriées, d’ordre social et économique notamment, aux niveaux national, régional et international,
 
-rappelant la résolution 54/212 de l’Assemblée générale du 22 décembre 1999, dans laquelle l’Assemblée a instamment engagé les Etats Membres et les organismes des Nations Unies à renforcer la coopération internationale dans le domaine des migrations internationales et du développement afin de s’attaquer aux causes profondes des migrations, en particulier celles qui sont liées à la pauvreté, et de porter au maximum les avantages que les migrations internationales procurent aux intéressés, et a encouragé, selon qu’il convenait, les mécanismes interrégionaux, régionaux et sous-régionaux à continuer de s’occuper de la question des migrations et du développement,
+rappelant la résolution 54/212 de l’Assemblée générale du 22 décembre 1999, dans laquelle l’Assemblée a instamment engagé les États Membres et les organismes des Nations Unies à renforcer la coopération internationale dans le domaine des migrations internationales et du développement afin de s’attaquer aux causes profondes des migrations, en particulier celles qui sont liées à la pauvreté, et de porter au maximum les avantages que les migrations internationales procurent aux intéressés, et a encouragé, selon qu’il convenait, les mécanismes interrégionaux, régionaux et sous-régionaux à continuer de s’occuper de la question des migrations et du développement,
 
 convaincus qu’il faut traiter les migrants avec humanité et protéger pleinement leurs droits,
 
 tenant compte du fait que, malgré les travaux entrepris dans d’autres instances internationales, il n’y a aucun instrument universel qui porte sur tous les aspects du trafic illicite de migrants et d’autres questions connexes,
 
-préoccupés par l’accroissement considérable des activités des groupes criminels organisés en matière de trafic illicite de migrants et des autres activités criminelles connexes énoncées dans le présent Protocole, qui portent gravement préjudice aux Etats concernés,
+préoccupés par l’accroissement considérable des activités des groupes criminels organisés en matière de trafic illicite de migrants et des autres activités criminelles connexes énoncées dans le présent Protocole, qui portent gravement préjudice aux États concernés,
 
 également préoccupés par le fait que le trafic illicite de migrants risque de mettre en danger la vie ou la sécurité des migrants concernés,
 
@@ -70,7 +70,7 @@ sont convenus de ce qui suit:
 
 **Objet**
 
-Le présent Protocole a pour objet de prévenir et combattre le trafic illicite de migrants, ainsi que de promouvoir la coopération entre les Etats parties à cette fin, tout en protégeant les droits des migrants objet d’un tel trafic.
+Le présent Protocole a pour objet de prévenir et combattre le trafic illicite de migrants, ainsi que de promouvoir la coopération entre les États parties à cette fin, tout en protégeant les droits des migrants objet d’un tel trafic.
 
 #### Art. 3
 
@@ -78,13 +78,13 @@ Le présent Protocole a pour objet de prévenir et combattre le trafic illicite 
 
 Aux fins du présent Protocole:
 
-- a) l’expression «trafic illicite de migrants» désigne le fait d’assurer, afin d’en tirer, directement ou indirectement, un avantage financier ou un autre avantage matériel, l’entrée illégale dans un Etat partie d’une personne qui n’est ni un ressortissant ni un résident permanent de cet Etat;
-- b) l’expression «entrée illégale» désigne le franchissement de frontières alors que les conditions nécessaires à l’entrée légale dans l’Etat d’accueil ne sont pas satisfaites;
+- a) l’expression «trafic illicite de migrants» désigne le fait d’assurer, afin d’en tirer, directement ou indirectement, un avantage financier ou un autre avantage matériel, l’entrée illégale dans un État partie d’une personne qui n’est ni un ressortissant ni un résident permanent de cet État;
+- b) l’expression «entrée illégale» désigne le franchissement de frontières alors que les conditions nécessaires à l’entrée légale dans l’État d’accueil ne sont pas satisfaites;
 - c)
 
   l’expression «document de voyage ou d’identité frauduleux» désigne tout document de voyage ou d’identité:
 
-  - i) qui a été contrefait ou modifié de manière substantielle par quiconque autre qu’une personne ou une autorité légalement habilitée à établir ou à délivrer le document de voyage ou d’identité au nom d’un Etat, ou
+  - i) qui a été contrefait ou modifié de manière substantielle par quiconque autre qu’une personne ou une autorité légalement habilitée à établir ou à délivrer le document de voyage ou d’identité au nom d’un État, ou
   - ii) qui a été délivré ou obtenu de manière irrégulière moyennant fausse déclaration, corruption ou contrainte, ou de toute autre manière illégale, ou
   - iii) qui est utilisé par une personne autre que le titulaire légitime;
 
@@ -108,7 +108,7 @@ Les migrants ne deviennent pas passibles de poursuites pénales en vertu du pré
 
 <sup>1.</sup>
 
-Chaque Etat partie adopte les mesures législatives et autres nécessaires pour conférer le caractère d’infraction pénale, lorsque les actes ont été commis intentionnellement et pour en tirer, directement ou indirectement, un avantage financier ou autre avantage matériel:
+Chaque État partie adopte les mesures législatives et autres nécessaires pour conférer le caractère d’infraction pénale, lorsque les actes ont été commis intentionnellement et pour en tirer, directement ou indirectement, un avantage financier ou autre avantage matériel:
 
 - a) au trafic illicite de migrants;
 - b)
@@ -118,11 +118,11 @@ Chaque Etat partie adopte les mesures législatives et autres nécessaires pour 
   - i) à la fabrication d’un document de voyage ou d’identité frauduleux,
   - ii) au fait de procurer, de fournir ou de posséder un tel document;
 
-- c) au fait de permettre à une personne, qui n’est ni un ressortissant ni un résident permanent, de demeurer dans l’Etat concerné, sans satisfaire aux conditions nécessaires au séjour légal dans ledit Etat, par les moyens mentionnés à l’al. b) du présent paragraphe ou par tous autres moyens illégaux.
+- c) au fait de permettre à une personne, qui n’est ni un ressortissant ni un résident permanent, de demeurer dans l’État concerné, sans satisfaire aux conditions nécessaires au séjour légal dans ledit État, par les moyens mentionnés à l’al. b) du présent paragraphe ou par tous autres moyens illégaux.
 
 <sup>2.</sup>
 
-Chaque Etat partie adopte également les mesures législatives et autres nécessaires pour conférer le caractère d’infraction pénale:
+Chaque État partie adopte également les mesures législatives et autres nécessaires pour conférer le caractère d’infraction pénale:
 
 - a) sous réserve des concepts fondamentaux de son système juridique, au fait de tenter de commettre une infraction établie conformément au par. 1 du présent article;
 - b) au fait de se rendre complice d’une infraction établie conformément à l’al. a), à l’al. b) i) ou à l’al. c) du par. 1 du présent article et, sous réserve des concepts fondamentaux de son système juridique, au fait de se rendre complice d’une infraction établie conformément à l’al. b) ii) du par. 1 du présent article;
@@ -130,12 +130,12 @@ Chaque Etat partie adopte également les mesures législatives et autres nécess
 
 <sup>3.</sup>
 
-Chaque Etat partie adopte les mesures législatives et autres nécessaires pour conférer le caractère de circonstance aggravante des infractions établies conformément aux al. a), b) i) et c) du par. 1 du présent article et, sous réserve des concepts fondamentaux de son système juridique, des infractions établies conformément aux al. b) et c) du par. 2 du présent article:
+Chaque État partie adopte les mesures législatives et autres nécessaires pour conférer le caractère de circonstance aggravante des infractions établies conformément aux al. a), b) i) et c) du par. 1 du présent article et, sous réserve des concepts fondamentaux de son système juridique, des infractions établies conformément aux al. b) et c) du par. 2 du présent article:
 
-- a) au fait de mettre en danger ou de risquer de mettre en danger la vie ou la sécurité des migrants concernés; ou
+- a) au fait de mettre en danger ou de risquer de mettre en danger la vie ou la sécurité des migrants concernés, ou
 - b) au traitement inhumain ou dégradant de ces migrants, y compris pour l’exploitation.
 
-<sup>4.</sup> Aucune disposition du présent Protocole n’empêche un Etat partie de prendre des mesures contre une personne dont les actes constituent, dans son droit interne, une infraction.
+<sup>4.</sup> Aucune disposition du présent Protocole n’empêche un État partie de prendre des mesures contre une personne dont les actes constituent, dans son droit interne, une infraction.
 
 ## II. Trafic illicite de migrants par mer
 
@@ -143,31 +143,31 @@ Chaque Etat partie adopte les mesures législatives et autres nécessaires pour 
 
 **Coopération**
 
-Les Etats parties coopèrent dans toute la mesure possible en vue de prévenir et de réprimer le trafic illicite de migrants par mer, conformément au droit international de la mer.
+Les États parties coopèrent dans toute la mesure possible en vue de prévenir et de réprimer le trafic illicite de migrants par mer, conformément au droit international de la mer.
 
 #### Art. 8
 
 **Mesures contre le trafic illicite de migrants par mer**
 
-<sup>1.</sup> Un Etat partie qui a des motifs raisonnables de soupçonner qu’un navire battant son pavillon ou se prévalant de l’immatriculation sur son registre, sans nationalité, ou possédant en réalité la nationalité de l’Etat partie en question bien qu’il batte un pavillon étranger ou refuse d’arborer son pavillon, se livre au trafic illicite de migrants par mer peut demander à d’autres Etats parties de l’aider à mettre fin à l’utilisation dudit navire dans ce but. Les Etats parties ainsi requis fournissent cette assistance dans la mesure du possible compte tenu des moyens dont ils disposent.
+<sup>1.</sup> Un État partie qui a des motifs raisonnables de soupçonner qu’un navire battant son pavillon ou se prévalant de l’immatriculation sur son registre, sans nationalité, ou possédant en réalité la nationalité de l’État partie en question bien qu’il batte un pavillon étranger ou refuse d’arborer son pavillon, se livre au trafic illicite de migrants par mer peut demander à d’autres États parties de l’aider à mettre fin à l’utilisation dudit navire dans ce but. Les États parties ainsi requis fournissent cette assistance dans la mesure du possible compte tenu des moyens dont ils disposent.
 
 <sup>2.</sup>
 
-Un Etat partie qui a des motifs raisonnables de soupçonner qu’un navire exerçant la liberté de navigation conformément au droit international et battant le pavillon ou portant les marques d’immatriculation d’un autre Etat partie se livre au trafic illicite de migrants par mer peut le notifier à l’Etat du pavillon, demander confirmation de l’immatriculation et, si celle-ci est confirmée, demander l’autorisation à cet Etat de prendre les mesures appropriées à l’égard de ce navire. L’Etat du pavillon peut notamment autoriser l’Etat requérant à:
+Un État partie qui a des motifs raisonnables de soupçonner qu’un navire exerçant la liberté de navigation conformément au droit international et battant le pavillon ou portant les marques d’immatriculation d’un autre État partie se livre au trafic illicite de migrants par mer peut le notifier à l’État du pavillon, demander confirmation de l’immatriculation et, si celle-ci est confirmée, demander l’autorisation à cet État de prendre les mesures appropriées à l’égard de ce navire. L’État du pavillon peut notamment autoriser l’État requérant à:
 
 - a) arraisonner le navire;
-- b) visiter le navire; et
-- c) s’il trouve des preuves que le navire se livre au trafic illicite de migrants par mer, prendre les mesures appropriées à l’égard du navire, des personnes et de la cargaison à bord, ainsi que l’Etat du pavillon l’a autorisé à le faire.
+- b) visiter le navire, et
+- c) s’il trouve des preuves que le navire se livre au trafic illicite de migrants par mer, prendre les mesures appropriées à l’égard du navire, des personnes et de la cargaison à bord, ainsi que l’État du pavillon l’a autorisé à le faire.
 
-<sup>3.</sup> Un Etat partie qui a pris une des mesures conformément au par. 2 du présent article informe sans retard l’Etat du pavillon concerné des résultats de cette mesure.
+<sup>3.</sup> Un État partie qui a pris une des mesures conformément au par. 2 du présent article informe sans retard l’État du pavillon concerné des résultats de cette mesure.
 
-<sup>4.</sup> Un Etat partie répond sans retard à une demande que lui adresse un autre Etat partie en vue de déterminer si un navire qui se prévaut de l’immatriculation sur son registre ou qui bat son pavillon y est habilité, ainsi qu’à une demande d’autorisation présentée conformément au par. 2 du présent article.
+<sup>4.</sup> Un État partie répond sans retard à une demande que lui adresse un autre État partie en vue de déterminer si un navire qui se prévaut de l’immatriculation sur son registre ou qui bat son pavillon y est habilité, ainsi qu’à une demande d’autorisation présentée conformément au par. 2 du présent article.
 
-<sup>5.</sup> Un Etat du pavillon peut, dans la mesure compatible avec l’art. 7 du présent Protocole, subordonner son autorisation à des conditions arrêtées d’un commun accord entre lui et l’Etat requérant, notamment en ce qui concerne la responsabilité et la portée des mesures effectives à prendre. Un Etat partie ne prend aucune mesure supplémentaire sans l’autorisation expresse de l’Etat du pavillon, à l’exception de celles qui sont nécessaires pour écarter un danger imminent pour la vie des personnes ou de celles qui résultent d’accords bilatéraux ou multilatéraux pertinents.
+<sup>5.</sup> Un État du pavillon peut, dans la mesure compatible avec l’art. 7 du présent Protocole, subordonner son autorisation à des conditions arrêtées d’un commun accord entre lui et l’État requérant, notamment en ce qui concerne la responsabilité et la portée des mesures effectives à prendre. Un État partie ne prend aucune mesure supplémentaire sans l’autorisation expresse de l’État du pavillon, à l’exception de celles qui sont nécessaires pour écarter un danger imminent pour la vie des personnes ou de celles qui résultent d’accords bilatéraux ou multilatéraux pertinents.
 
-<sup>6.</sup> Chaque Etat partie désigne une ou, s’il y a lieu, plusieurs autorités habilitées à recevoir les demandes d’assistance, de confirmation de l’immatriculation sur son registre ou du droit de battre son pavillon, ainsi que les demandes d’autorisation de prendre les mesures appropriées et à y répondre. Le Secrétaire général notifie à tous les autres Etats parties l’autorité désignée par chacun d’eux dans le mois qui suit cette désignation.
+<sup>6.</sup> Chaque État partie désigne une ou, s’il y a lieu, plusieurs autorités habilitées à recevoir les demandes d’assistance, de confirmation de l’immatriculation sur son registre ou du droit de battre son pavillon, ainsi que les demandes d’autorisation de prendre les mesures appropriées et à y répondre. Le Secrétaire général notifie à tous les autres États parties l’autorité désignée par chacun d’eux dans le mois qui suit cette désignation.
 
-<sup>7.</sup> Un Etat partie qui a des motifs raisonnables de soupçonner qu’un navire se livre au trafic illicite de migrants par mer et que ce navire est sans nationalité ou peut être assimilé à un navire sans nationalité peut l’arraisonner et le visiter. Si les soupçons sont confirmés par des preuves, cet Etat partie prend les mesures appropriées conformément au droit interne et au droit international pertinents.
+<sup>7.</sup> Un État partie qui a des motifs raisonnables de soupçonner qu’un navire se livre au trafic illicite de migrants par mer et que ce navire est sans nationalité ou peut être assimilé à un navire sans nationalité peut l’arraisonner et le visiter. Si les soupçons sont confirmés par des preuves, cet État partie prend les mesures appropriées conformément au droit interne et au droit international pertinents.
 
 #### Art. 9
 
@@ -175,11 +175,11 @@ Un Etat partie qui a des motifs raisonnables de soupçonner qu’un navire exer�
 
 <sup>1.</sup>
 
-Lorsqu’il prend des mesures à l’encontre d’un navire conformément à l’art. 8 du présent Protocole, un Etat partie:
+Lorsqu’il prend des mesures à l’encontre d’un navire conformément à l’art. 8 du présent Protocole, un État partie:
 
 - a) veille à la sécurité et au traitement humain des personnes à bord;
 - b) tient dûment compte de la nécessité de ne pas compromettre la sécurité du navire ou de sa cargaison;
-- c) tient dûment compte de la nécessité de ne pas porter préjudice aux intérêts commerciaux ou aux droits de l’Etat du pavillon ou de tout autre Etat intéressé;
+- c) tient dûment compte de la nécessité de ne pas porter préjudice aux intérêts commerciaux ou aux droits de l’État du pavillon ou de tout autre État intéressé;
 - d) veille, selon ses moyens, à ce que toute mesure prise à l’égard du navire soit écologiquement rationnelle.
 
 <sup>2.</sup> Lorsque les motifs des mesures prises en application de l’art. 8 du présent Protocole se révèlent dénués de fondement, le navire est indemnisé de toute perte ou de tout dommage éventuel, à condition qu’il n’ait commis aucun acte justifiant les mesures prises.
@@ -188,10 +188,10 @@ Lorsqu’il prend des mesures à l’encontre d’un navire conformément à l�
 
 Lorsqu’une mesure est prise, adoptée ou appliquée conformément au présent chapitre, il est tenu dûment compte de la nécessité de ne pas affecter ni entraver:
 
-- a) les droits et obligations des Etats côtiers et l’exercice de leur compétence conformément au droit international de la mer; ou
-- b) le pouvoir de l’Etat du pavillon d’exercer sa compétence et son contrôle pour les questions d’ordre administratif, technique et social concernant le navire.
+- a) les droits et obligations des États côtiers et l’exercice de leur compétence conformément au droit international de la mer, ou
+- b) le pouvoir de l’État du pavillon d’exercer sa compétence et son contrôle pour les questions d’ordre administratif, technique et social concernant le navire.
 
-<sup>4.</sup> Toute mesure prise en mer en application du présent chapitre est exécutée uniquement par des navires de guerre ou des aéronefs militaires, ou d’autres navires ou aéronefs à ce dûment habilités, portant visiblement une marque extérieure et identifiables comme étant au service de l’Etat.
+<sup>4.</sup> Toute mesure prise en mer en application du présent chapitre est exécutée uniquement par des navires de guerre ou des aéronefs militaires, ou d’autres navires ou aéronefs à ce dûment habilités, portant visiblement une marque extérieure et identifiables comme étant au service de l’État.
 
 ## III. Prévention, coopération et autres mesures
 
@@ -201,89 +201,89 @@ Lorsqu’une mesure est prise, adoptée ou appliquée conformément au présent 
 
 <sup>1.</sup>
 
-Sans préjudice des art. 27 et 28 de la Convention, les Etats parties, en particulier ceux qui ont des frontières communes ou sont situés sur des itinéraires empruntés pour le trafic illicite de migrants, pour atteindre les objectifs du présent Protocole, échangent, conformément à leurs systèmes juridiques et administratifs respectifs, des informations pertinentes concernant notamment:
+Sans préjudice des art. 27 et 28 de la Convention, les États parties, en particulier ceux qui ont des frontières communes ou sont situés sur des itinéraires empruntés pour le trafic illicite de migrants, pour atteindre les objectifs du présent Protocole, échangent, conformément à leurs systèmes juridiques et administratifs respectifs, des informations pertinentes concernant notamment:
 
 - a) les points d’embarquement et de destination ainsi que les itinéraires, les transporteurs et les moyens de transport dont on sait ou dont on soupçonne qu’ils sont utilisés par un groupe criminel organisé commettant les actes énoncés à l’art. 6 du présent Protocole;
 - b) l’identité et les méthodes des organisations ou groupes criminels organisés dont on sait ou dont on soupçonne qu’ils commettent les actes énoncés à l’art. 6 du présent Protocole;
-- c) l’authenticité et les caractéristiques des documents de voyage délivrés par un Etat partie, ainsi que le vol de documents de voyage ou d’identité vierges ou l’usage impropre qui en est fait;
+- c) l’authenticité et les caractéristiques des documents de voyage délivrés par un État partie, ainsi que le vol de documents de voyage ou d’identité vierges ou l’usage impropre qui en est fait;
 - d) les moyens et méthodes de dissimulation et de transport des personnes, la modification, la reproduction ou l’acquisition illicites ou tout autre usage impropre de documents de voyage ou d’identité utilisés dans les actes énoncés à l’art. 6 du présent Protocole, et les moyens de les détecter;
-- e) les données d’expérience d’ordre législatif ainsi que les pratiques et mesures tendant à prévenir et à combattre les actes énoncés à l’art. 6 du présent Protocole; et
+- e) les données d’expérience d’ordre législatif ainsi que les pratiques et mesures tendant à prévenir et à combattre les actes énoncés à l’art. 6 du présent Protocole, et
 - f) des questions scientifiques et techniques présentant une utilité pour la détection et la répression, afin de renforcer mutuellement leur capacité à prévenir et détecter les actes énoncés à l’art. 6 du présent Protocole, à mener des enquêtes sur ces actes et à en poursuivre les auteurs.
 
-<sup>2.</sup> Un Etat partie qui reçoit des informations se conforme à toute demande de l’Etat partie qui les a communiquées soumettant leur usage à des restrictions.
+<sup>2.</sup> Un État partie qui reçoit des informations se conforme à toute demande de l’État partie qui les a communiquées soumettant leur usage à des restrictions.
 
 #### Art. 11
 
 **Mesures aux frontières**
 
-<sup>1.</sup> Sans préjudice des engagements internationaux relatifs à la libre circulation des personnes, les Etats parties renforcent, dans la mesure du possible, les contrôles aux frontières nécessaires pour prévenir et détecter le trafic illicite de migrants.
+<sup>1.</sup> Sans préjudice des engagements internationaux relatifs à la libre circulation des personnes, les États parties renforcent, dans la mesure du possible, les contrôles aux frontières nécessaires pour prévenir et détecter le trafic illicite de migrants.
 
-<sup>2.</sup> Chaque Etat partie adopte les mesures législatives ou autres appropriées pour prévenir, dans la mesure du possible, l’utilisation des moyens de transport exploités par des transporteurs commerciaux pour la commission de l’infraction établie conformément à l’al. a) du par. 1 de l’art. 6 du présent Protocole.
+<sup>2.</sup> Chaque État partie adopte les mesures législatives ou autres appropriées pour prévenir, dans la mesure du possible, l’utilisation des moyens de transport exploités par des transporteurs commerciaux pour la commission de l’infraction établie conformément à l’al. a) du par. 1 de l’art. 6 du présent Protocole.
 
-<sup>3.</sup> Lorsqu’il y a lieu, et sans préjudice des conventions internationales applicables, ces mesures consistent notamment à prévoir l’obligation pour les transporteurs commerciaux, y compris toute compagnie de transport ou tout propriétaire ou exploitant d’un quelconque moyen de transport, de vérifier que tous les passagers sont en possession des documents de voyage requis pour l’entrée dans l’Etat d’accueil.
+<sup>3.</sup> Lorsqu’il y a lieu, et sans préjudice des conventions internationales applicables, ces mesures consistent notamment à prévoir l’obligation pour les transporteurs commerciaux, y compris toute compagnie de transport ou tout propriétaire ou exploitant d’un quelconque moyen de transport, de vérifier que tous les passagers sont en possession des documents de voyage requis pour l’entrée dans l’État d’accueil.
 
-<sup>4.</sup> Chaque Etat partie prend les mesures nécessaires, conformément à son droit interne, pour assortir de sanctions l’obligation énoncée au par. 3 du présent article.
+<sup>4.</sup> Chaque État partie prend les mesures nécessaires, conformément à son droit interne, pour assortir de sanctions l’obligation énoncée au par. 3 du présent article.
 
-<sup>5.</sup> Chaque Etat partie envisage de prendre des mesures qui permettent, conformément à son droit interne, de refuser l’entrée de personnes impliquées dans la commission des infractions établies conformément au présent Protocole ou d’annuler leur visa.
+<sup>5.</sup> Chaque État partie envisage de prendre des mesures qui permettent, conformément à son droit interne, de refuser l’entrée de personnes impliquées dans la commission des infractions établies conformément au présent Protocole ou d’annuler leur visa.
 
-<sup>6.</sup> Sans préjudice de l’art. 27 de la Convention, les Etats parties envisagent de renforcer la coopération entre leurs services de contrôle aux frontières, notamment par l’établissement et le maintien de voies de communication directes.
+<sup>6.</sup> Sans préjudice de l’art. 27 de la Convention, les États parties envisagent de renforcer la coopération entre leurs services de contrôle aux frontières, notamment par l’établissement et le maintien de voies de communication directes.
 
 #### Art. 12
 
 **Sécurité et contrôle des documents**
 
-Chaque Etat partie prend les mesures nécessaires, selon les moyens disponibles:
+Chaque État partie prend les mesures nécessaires, selon les moyens disponibles:
 
-- a) pour faire en sorte que les documents de voyage ou d’identité qu’il délivre soient d’une qualité telle qu’on ne puisse facilement en faire un usage impropre et les falsifier ou les modifier, les reproduire ou les délivrer illicitement; et
+- a) pour faire en sorte que les documents de voyage ou d’identité qu’il délivre soient d’une qualité telle qu’on ne puisse facilement en faire un usage impropre et les falsifier ou les modifier, les reproduire ou les délivrer illicitement, et
 - b) pour assurer l’intégrité et la sécurité des documents de voyage ou d’identité délivrés par lui ou en son nom et pour empêcher qu’ils ne soient créés, délivrés et utilisés illicitement.
 
 #### Art. 13
 
 **Légitimité et validité des documents**
 
-A la demande d’un autre Etat partie, un Etat partie vérifie, conformément à son droit interne et dans un délai raisonnable, la légitimité et la validité des documents de voyage ou d’identité délivrés ou censés avoir été délivrés en son nom et dont on soupçonne qu’ils sont utilisés pour commettre les actes énoncés à l’art. 6 du présent Protocole.
+À la demande d’un autre État partie, un État partie vérifie, conformément à son droit interne et dans un délai raisonnable, la légitimité et la validité des documents de voyage ou d’identité délivrés ou censés avoir été délivrés en son nom et dont on soupçonne qu’ils sont utilisés pour commettre les actes énoncés à l’art. 6 du présent Protocole.
 
 #### Art. 14
 
 **Formation et coopération technique**
 
-<sup>1.</sup> Les Etats parties assurent ou renforcent la formation spécialisée des agents des services d’immigration et autres agents compétents à la prévention des actes énoncés à l’art. 6 du présent Protocole et au traitement humain des migrants objet de tels actes, ainsi qu’au respect des droits qui leur sont reconnus dans le présent Protocole.
+<sup>1.</sup> Les États parties assurent ou renforcent la formation spécialisée des agents des services d’immigration et autres agents compétents à la prévention des actes énoncés à l’art. 6 du présent Protocole et au traitement humain des migrants objet de tels actes, ainsi qu’au respect des droits qui leur sont reconnus dans le présent Protocole.
 
 <sup>2.</sup>
 
-Les Etats parties coopèrent entre eux et avec les organisations internationales, les organisations non gouvernementales et les autres organisations compétentes ainsi qu’avec d’autres éléments de la société civile, selon qu’il convient, pour assurer une formation adéquate des personnels sur leur territoire, en vue de prévenir, de combattre et d’éradiquer les actes énoncés à l’art. 6 du présent Protocole et de protéger les droits des migrants objet de tels actes. Cette formation porte notamment sur:
+Les États parties coopèrent entre eux et avec les organisations internationales, les organisations non gouvernementales et les autres organisations compétentes ainsi qu’avec d’autres éléments de la société civile, selon qu’il convient, pour assurer une formation adéquate des personnels sur leur territoire, en vue de prévenir, de combattre et d’éradiquer les actes énoncés à l’art. 6 du présent Protocole et de protéger les droits des migrants objet de tels actes. Cette formation porte notamment sur:
 
 - a) l’amélioration de la sécurité et de la qualité des documents de voyage;
 - b) la reconnaissance et la détection des documents de voyage ou d’identité frauduleux;
 - c) les activités de renseignement à caractère pénal, en particulier ce qui touche à l’identification des groupes criminels organisés dont on sait ou dont on soupçonne qu’ils commettent les actes énoncés à l’art. 6 du présent Protocole, aux méthodes employées pour transporter les migrants objet d’un trafic illicite, à l’usage impropre de documents de voyage ou d’identité pour commettre les actes énoncés à l’art. 6 et aux moyens de dissimulation utilisés dans le trafic illicite de migrants;
-- d) l’amélioration des procédures de détection, aux points d’entrée et de sortie traditionnels et non traditionnels, des migrants objet d’un trafic illicite; et
+- d) l’amélioration des procédures de détection, aux points d’entrée et de sortie traditionnels et non traditionnels, des migrants objet d’un trafic illicite, et
 - e) le traitement humain des migrants et la protection des droits qui leur sont reconnus dans le présent Protocole.
 
-<sup>3.</sup> Les Etats parties ayant l’expertise appropriée envisagent d’apporter une assistance technique aux Etats qui sont fréquemment des pays d’origine ou de transit pour les personnes ayant été l’objet des actes énoncés à l’art. 6 du présent Protocole. Les Etats parties font tout leur possible pour fournir les ressources nécessaires, telles que véhicules, systèmes informatiques et lecteurs de documents, afin de combattre les actes énoncés à l’art. 6.
+<sup>3.</sup> Les États parties ayant l’expertise appropriée envisagent d’apporter une assistance technique aux États qui sont fréquemment des pays d’origine ou de transit pour les personnes ayant été l’objet des actes énoncés à l’art. 6 du présent Protocole. Les États parties font tout leur possible pour fournir les ressources nécessaires, telles que véhicules, systèmes informatiques et lecteurs de documents, afin de combattre les actes énoncés à l’art. 6.
 
 #### Art. 15
 
 **Autres mesures de prévention**
 
-<sup>1.</sup> Chaque Etat partie prend des mesures visant à mettre en place ou renforcer des programmes d’information pour sensibiliser le public au fait que les actes énoncés à l’art. 6 du présent Protocole constituent une activité criminelle fréquemment perpétrée par des groupes criminels organisés afin d’en tirer un profit et qu’ils font courir de graves risques aux migrants concernés.
+<sup>1.</sup> Chaque État partie prend des mesures visant à mettre en place ou renforcer des programmes d’information pour sensibiliser le public au fait que les actes énoncés à l’art. 6 du présent Protocole constituent une activité criminelle fréquemment perpétrée par des groupes criminels organisés afin d’en tirer un profit et qu’ils font courir de graves risques aux migrants concernés.
 
-<sup>2.</sup> Conformément à l’art. 31 de la Convention, les Etats parties coopèrent dans le domaine de l’information afin d’empêcher que les migrants potentiels ne deviennent victimes de groupes criminels organisés.
+<sup>2.</sup> Conformément à l’art. 31 de la Convention, les États parties coopèrent dans le domaine de l’information afin d’empêcher que les migrants potentiels ne deviennent victimes de groupes criminels organisés.
 
-<sup>3.</sup> Chaque Etat partie promeut ou renforce, selon qu’il convient, des programmes de développement et une coopération aux niveaux national, régional et international, en tenant compte des réalités socioéconomiques des migrations, et en accordant une attention particulière aux zones économiquement et socialement défavorisées, afin de s’attaquer aux causes socioéconomiques profondes du trafic illicite de migrants, telles que la pauvreté et le sous-développement.
+<sup>3.</sup> Chaque État partie promeut ou renforce, selon qu’il convient, des programmes de développement et une coopération aux niveaux national, régional et international, en tenant compte des réalités socioéconomiques des migrations, et en accordant une attention particulière aux zones économiquement et socialement défavorisées, afin de s’attaquer aux causes socioéconomiques profondes du trafic illicite de migrants, telles que la pauvreté et le sous-développement.
 
 #### Art. 16
 
 **Mesures de protection et d’assistance**
 
-<sup>1.</sup> Lorsqu’il applique le présent Protocole, chaque Etat partie prend, conformément aux obligations qu’il a contractées en vertu du droit international, toutes les mesures appropriées, y compris, s’il y a lieu, des mesures législatives, pour sauvegarder et protéger les droits des personnes qui ont été l’objet des actes énoncés à l’art. 6 du présent Protocole, tels que ces droits leur sont accordés en vertu du droit international applicable, en particulier le droit à la vie et le droit de ne pas être soumis à la torture ou à d’autres peines ou traitements cruels, inhumains ou dégradants.
+<sup>1.</sup> Lorsqu’il applique le présent Protocole, chaque État partie prend, conformément aux obligations qu’il a contractées en vertu du droit international, toutes les mesures appropriées, y compris, s’il y a lieu, des mesures législatives, pour sauvegarder et protéger les droits des personnes qui ont été l’objet des actes énoncés à l’art. 6 du présent Protocole, tels que ces droits leur sont accordés en vertu du droit international applicable, en particulier le droit à la vie et le droit de ne pas être soumis à la torture ou à d’autres peines ou traitements cruels, inhumains ou dégradants.
 
-<sup>2.</sup> Chaque Etat partie prend les mesures appropriées pour accorder aux migrants une protection adéquate contre toute violence pouvant leur être infligée, aussi bien par des personnes que par des groupes, du fait qu’ils ont été l’objet des actes énoncés à l’art. 6 du présent Protocole.
+<sup>2.</sup> Chaque État partie prend les mesures appropriées pour accorder aux migrants une protection adéquate contre toute violence pouvant leur être infligée, aussi bien par des personnes que par des groupes, du fait qu’ils ont été l’objet des actes énoncés à l’art. 6 du présent Protocole.
 
-<sup>3.</sup> Chaque Etat partie accorde une assistance appropriée aux migrants dont la vie ou la sécurité sont mises en danger par le fait qu’ils ont été l’objet des actes énoncés à l’art. 6 du présent Protocole.
+<sup>3.</sup> Chaque État partie accorde une assistance appropriée aux migrants dont la vie ou la sécurité sont mises en danger par le fait qu’ils ont été l’objet des actes énoncés à l’art. 6 du présent Protocole.
 
-<sup>4.</sup> Lorsqu’ils appliquent les dispositions du présent article, les Etats parties tiennent compte des besoins particuliers des femmes et des enfants.
+<sup>4.</sup> Lorsqu’ils appliquent les dispositions du présent article, les États parties tiennent compte des besoins particuliers des femmes et des enfants.
 
-<sup>5.</sup> En cas de détention d’une personne qui a été l’objet des actes énoncés à l’art. 6 du présent Protocole, chaque Etat partie respecte les obligations qu’il a contractées en vertu de la Convention de Vienne sur les relations consulaires[^16-1], dans les cas applicables, y compris l’obligation d’informer sans retard la personne concernée des dispositions relatives à la notification aux fonctionnaires consulaires et à la communication avec ces derniers.
+<sup>5.</sup> En cas de détention d’une personne qui a été l’objet des actes énoncés à l’art. 6 du présent Protocole, chaque État partie respecte les obligations qu’il a contractées en vertu de la Convention de Vienne sur les relations consulaires[^16-1], dans les cas applicables, y compris l’obligation d’informer sans retard la personne concernée des dispositions relatives à la notification aux fonctionnaires consulaires et à la communication avec ces derniers.
 
 [^16-1]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
 
@@ -291,28 +291,28 @@ Les Etats parties coopèrent entre eux et avec les organisations internationales
 
 **Accords et arrangements**
 
-Les Etats parties envisagent la conclusion d’accords bilatéraux ou régionaux, d’arrangements opérationnels ou d’ententes visant à:
+Les États parties envisagent la conclusion d’accords bilatéraux ou régionaux, d’arrangements opérationnels ou d’ententes visant à:
 
-- a) établir les mesures les plus appropriées et efficaces pour prévenir et combattre les actes énoncés à l’art. 6 du présent Protocole; ou
+- a) établir les mesures les plus appropriées et efficaces pour prévenir et combattre les actes énoncés à l’art. 6 du présent Protocole, ou
 - b) développer les dispositions du présent Protocole entre eux.
 
 #### Art. 18
 
 **Retour des migrants objet d’un trafic illicite**
 
-<sup>1.</sup> Chaque Etat partie consent à faciliter et à accepter, sans retard injustifié ou déraisonnable, le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et qui est son ressortissant ou a le droit de résider à titre permanent sur son territoire au moment du retour.
+<sup>1.</sup> Chaque État partie consent à faciliter et à accepter, sans retard injustifié ou déraisonnable, le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et qui est son ressortissant ou a le droit de résider à titre permanent sur son territoire au moment du retour.
 
-<sup>2.</sup> Chaque Etat partie étudie la possibilité de faciliter et d’accepter, conformément à son droit interne, le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et qui avait le droit de résider à titre permanent sur son territoire au moment de l’entrée de ladite personne sur le territoire de l’Etat d’accueil.
+<sup>2.</sup> Chaque État partie étudie la possibilité de faciliter et d’accepter, conformément à son droit interne, le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et qui avait le droit de résider à titre permanent sur son territoire au moment de l’entrée de ladite personne sur le territoire de l’État d’accueil.
 
-<sup>3.</sup> A la demande de l’Etat partie d’accueil, un Etat partie requis vérifie, sans retard injustifié ou déraisonnable, si une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole est son ressortissant ou a le droit de résider à titre permanent sur son territoire.
+<sup>3.</sup> À la demande de l’État partie d’accueil, un État partie requis vérifie, sans retard injustifié ou déraisonnable, si une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole est son ressortissant ou a le droit de résider à titre permanent sur son territoire.
 
-<sup>4.</sup> Afin de faciliter le retour d’une personne ayant été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et ne possédant pas les documents voulus, l’Etat partie dont cette personne est ressortissante ou dans lequel elle a le droit de résider à titre permanent accepte de délivrer, à la demande de l’Etat partie d’accueil, les documents de voyage ou toute autre autorisation nécessaires pour permettre à la personne de se rendre et d’être réadmise sur son territoire.
+<sup>4.</sup> Afin de faciliter le retour d’une personne ayant été l’objet d’un acte énoncé à l’art. 6 du présent Protocole et ne possédant pas les documents voulus, l’État partie dont cette personne est ressortissante ou dans lequel elle a le droit de résider à titre permanent accepte de délivrer, à la demande de l’État partie d’accueil, les documents de voyage ou toute autre autorisation nécessaires pour permettre à la personne de se rendre et d’être réadmise sur son territoire.
 
-<sup>5.</sup> Chaque Etat partie concerné par le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole prend toutes les mesures appropriées pour organiser ce retour de manière ordonnée et en tenant dûment compte de la sécurité et de la dignité de la personne.
+<sup>5.</sup> Chaque État partie concerné par le retour d’une personne qui a été l’objet d’un acte énoncé à l’art. 6 du présent Protocole prend toutes les mesures appropriées pour organiser ce retour de manière ordonnée et en tenant dûment compte de la sécurité et de la dignité de la personne.
 
-<sup>6.</sup> Les Etats parties peuvent coopérer avec les organisations internationales compétentes pour l’application du présent article.
+<sup>6.</sup> Les États parties peuvent coopérer avec les organisations internationales compétentes pour l’application du présent article.
 
-<sup>7.</sup> Le présent article s’entend sans préjudice de tout droit accordé par toute loi de l’Etat partie d’accueil aux personnes qui ont été l’objet d’un acte énoncé à l’art. 6 du présent Protocole.
+<sup>7.</sup> Le présent article s’entend sans préjudice de tout droit accordé par toute loi de l’État partie d’accueil aux personnes qui ont été l’objet d’un acte énoncé à l’art. 6 du présent Protocole.
 
 <sup>8.</sup> Le présent article n’a pas d’incidences sur les obligations contractées en vertu de tout autre traité bilatéral ou multilatéral applicable ou de tout autre accord ou arrangement opérationnel applicable régissant, en totalité ou en partie, le retour des personnes qui ont été l’objet d’un acte énoncé à l’art. 6 du présent Protocole.
 
@@ -322,7 +322,7 @@ Les Etats parties envisagent la conclusion d’accords bilatéraux ou régionaux
 
 **Clause de sauvegarde**
 
-<sup>1.</sup> Aucune disposition du présent Protocole n’a d’incidences sur les autres droits, obligations et responsabilités des Etats et des particuliers en vertu du droit international, y compris du droit international humanitaire et du droit international relatif aux droits de l’homme et en particulier, lorsqu’ils s’appliquent, de la Convention de 1951[^19-1] et du Protocole de 1967[^19-2] relatifs au statut des réfugiés ainsi que du principe de non-refoulement qui y est énoncé.
+<sup>1.</sup> Aucune disposition du présent Protocole n’a d’incidences sur les autres droits, obligations et responsabilités des États et des particuliers en vertu du droit international, y compris du droit international humanitaire et du droit international relatif aux droits de l’homme et en particulier, lorsqu’ils s’appliquent, de la Convention de 1951[^19-1] et du Protocole de 1967[^19-2] relatifs au statut des réfugiés ainsi que du principe de non-refoulement qui y est énoncé.
 
 <sup>2.</sup> Les mesures énoncées dans le présent Protocole sont interprétées et appliquées d’une façon telle que les personnes ne font pas l’objet d’une discrimination au motif qu’elles sont l’objet des actes énoncés à l’art. 6 du présent Protocole. L’interprétation et l’application de ces mesures sont conformes aux principes de non-discrimination internationalement reconnus.
 
@@ -333,13 +333,13 @@ Les Etats parties envisagent la conclusion d’accords bilatéraux ou régionaux
 
 **Règlement des différends**
 
-<sup>1.</sup> Les Etats parties s’efforcent de régler les différends concernant l’interprétation ou l’application du présent Protocole par voie de négociation.
+<sup>1.</sup> Les États parties s’efforcent de régler les différends concernant l’interprétation ou l’application du présent Protocole par voie de négociation.
 
-<sup>2.</sup> Tout différend entre deux Etats parties ou plus concernant l’interprétation ou l’application du présent Protocole qui ne peut être réglé par voie de négociation dans un délai raisonnable est, à la demande de l’un de ces Etats parties, soumis à l’arbitrage. Si, dans un délai de six mois à compter de la date de la demande d’arbitrage, les Etats parties ne peuvent s’entendre sur l’organisation de l’arbitrage, l’un quelconque d’entre eux peut soumettre le différend à la Cour internationale de Justice en adressant une requête conformément au Statut de la Cour[^20-1].
+<sup>2.</sup> Tout différend entre deux États parties ou plus concernant l’interprétation ou l’application du présent Protocole qui ne peut être réglé par voie de négociation dans un délai raisonnable est, à la demande de l’un de ces États parties, soumis à l’arbitrage. Si, dans un délai de six mois à compter de la date de la demande d’arbitrage, les États parties ne peuvent s’entendre sur l’organisation de l’arbitrage, l’un quelconque d’entre eux peut soumettre le différend à la Cour internationale de Justice en adressant une requête conformément au Statut de la Cour[^20-1].
 
-<sup>3.</sup> Chaque Etat partie peut, au moment de la signature, de la ratification, de l’acceptation ou de l’approbation du présent Protocole ou de l’adhésion à celui-ci, déclarer qu’il ne se considère pas lié par le par. 2 du présent article. Les autres Etats parties ne sont pas liés par le par. 2 du présent article envers tout Etat partie ayant émis une telle réserve.
+<sup>3.</sup> Chaque État partie peut, au moment de la signature, de la ratification, de l’acceptation ou de l’approbation du présent Protocole ou de l’adhésion à celui-ci, déclarer qu’il ne se considère pas lié par le par. 2 du présent article. Les autres États parties ne sont pas liés par le par. 2 du présent article envers tout État partie ayant émis une telle réserve.
 
-<sup>4.</sup> Tout Etat partie qui a émis une réserve en vertu du par. 3 du présent article peut la retirer à tout moment en adressant une notification au Secrétaire général de l’Organisation des Nations Unies.
+<sup>4.</sup> Tout État partie qui a émis une réserve en vertu du par. 3 du présent article peut la retirer à tout moment en adressant une notification au Secrétaire général de l’Organisation des Nations Unies.
 
 [^20-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
 
@@ -347,43 +347,43 @@ Les Etats parties envisagent la conclusion d’accords bilatéraux ou régionaux
 
 **Signature, ratification, acceptation, approbation et adhésion**
 
-<sup>1.</sup> Le présent Protocole sera ouvert à la signature de tous les Etats du 12 au 15 décembre 2000 à Palerme (Italie) et, par la suite, au Siège de l’Organisation des Nations Unies, à New York, jusqu’au 12 décembre 2002.
+<sup>1.</sup> Le présent Protocole sera ouvert à la signature de tous les États du 12 au 15 décembre 2000 à Palerme (Italie) et, par la suite, au Siège de l’Organisation des Nations Unies, à New York, jusqu’au 12 décembre 2002.
 
-<sup>2.</sup> Le présent Protocole est également ouvert à la signature des organisations régionales d’intégration économique à la condition qu’au moins un Etat membre d’une telle organisation ait signé le présent Protocole conformément au par. 1 du présent article.
+<sup>2.</sup> Le présent Protocole est également ouvert à la signature des organisations régionales d’intégration économique à la condition qu’au moins un État membre d’une telle organisation ait signé le présent Protocole conformément au par. 1 du présent article.
 
-<sup>3.</sup> Le présent Protocole est soumis à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies. Une organisation régionale d’intégration économique peut déposer ses instruments de ratification, d’acceptation ou d’approbation si au moins un de ses Etats membres l’a fait. Dans cet instrument de ratification, d’acceptation ou d’approbation, cette organisation déclare l’étendue de sa compétence concernant les questions régies par le présent Protocole. Elle informe également le dépositaire de toute modification pertinente de l’étendue de sa compétence.
+<sup>3.</sup> Le présent Protocole est soumis à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés auprès du Secrétaire général de l’Organisation des Nations Unies. Une organisation régionale d’intégration économique peut déposer ses instruments de ratification, d’acceptation ou d’approbation si au moins un de ses États membres l’a fait. Dans cet instrument de ratification, d’acceptation ou d’approbation, cette organisation déclare l’étendue de sa compétence concernant les questions régies par le présent Protocole. Elle informe également le dépositaire de toute modification pertinente de l’étendue de sa compétence.
 
-<sup>4.</sup> Le présent Protocole est ouvert à l’adhésion de tout Etat ou de toute organisation régionale d’intégration économique dont au moins un Etat membre est partie au présent Protocole. Les instruments d’adhésion sont déposés auprès du Secrétaire général de l’Organisation des Nations Unies. Au moment de son adhésion, une organisation régionale d’intégration économique déclare l’étendue de sa compétence concernant les questions régies par le présent Protocole. Elle informe également le dépositaire de toute modification pertinente de l’étendue de sa compétence.
+<sup>4.</sup> Le présent Protocole est ouvert à l’adhésion de tout État ou de toute organisation régionale d’intégration économique dont au moins un État membre est partie au présent Protocole. Les instruments d’adhésion sont déposés auprès du Secrétaire général de l’Organisation des Nations Unies. Au moment de son adhésion, une organisation régionale d’intégration économique déclare l’étendue de sa compétence concernant les questions régies par le présent Protocole. Elle informe également le dépositaire de toute modification pertinente de l’étendue de sa compétence.
 
 #### Art. 22
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent Protocole entrera en vigueur le quatre-vingt-dixième jour suivant la date de dépôt du quarantième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, étant entendu qu’il n’entrera pas en vigueur avant que la Convention n’entre elle-même en vigueur. Aux fins du présent paragraphe, aucun des instruments déposés par une organisation régionale d’intégration économique n’est considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les Etats membres de cette organisation.
+<sup>1.</sup> Le présent Protocole entrera en vigueur le quatre-vingt-dixième jour suivant la date de dépôt du quarantième instrument de ratification, d’acceptation, d’approbation ou d’adhésion, étant entendu qu’il n’entrera pas en vigueur avant que la Convention n’entre elle-même en vigueur. Aux fins du présent paragraphe, aucun des instruments déposés par une organisation régionale d’intégration économique n’est considéré comme un instrument venant s’ajouter aux instruments déjà déposés par les États membres de cette organisation.
 
-<sup>2.</sup> Pour chaque Etat ou organisation régionale d’intégration économique qui ratifiera, acceptera ou approuvera le présent Protocole ou y adhérera après le dépôt du quarantième instrument pertinent, le présent Protocole entrera en vigueur le trentième jour suivant la date de dépôt de l’instrument pertinent par ledit Etat ou ladite organisation ou à la date à laquelle il entre en vigueur en application du par. 1 du présent article, si celle-ci est postérieure.
+<sup>2.</sup> Pour chaque État ou organisation régionale d’intégration économique qui ratifiera, acceptera ou approuvera le présent Protocole ou y adhérera après le dépôt du quarantième instrument pertinent, le présent Protocole entrera en vigueur le trentième jour suivant la date de dépôt de l’instrument pertinent par ledit État ou ladite organisation ou à la date à laquelle il entre en vigueur en application du par. 1 du présent article, si celle-ci est postérieure.
 
 #### Art. 23
 
 **Amendement**
 
-<sup>1.</sup> A l’expiration d’un délai de cinq ans à compter de l’entrée en vigueur du présent Protocole, un Etat partie au Protocole peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Ce dernier communique alors la proposition d’amendement aux Etats parties et à la Conférence des parties à la Convention en vue de l’examen de la proposition et de l’adoption d’une décision. Les Etats parties au présent Protocole réunis en Conférence des Parties n’épargnent aucun effort pour parvenir à un consensus sur tout amendement. Si tous les efforts en ce sens ont été épuisés sans qu’un accord soit intervenu, il faudra, en dernier recours, pour que l’amendement soit adopté, un vote à la majorité des deux tiers des Etats parties au présent Protocole présents à la Conférence des parties et exprimant leur vote.
+<sup>1.</sup> À l’expiration d’un délai de cinq ans à compter de l’entrée en vigueur du présent Protocole, un État partie au Protocole peut proposer un amendement et en déposer le texte auprès du Secrétaire général de l’Organisation des Nations Unies. Ce dernier communique alors la proposition d’amendement aux États parties et à la Conférence des parties à la Convention en vue de l’examen de la proposition et de l’adoption d’une décision. Les États parties au présent Protocole réunis en Conférence des Parties n’épargnent aucun effort pour parvenir à un consensus sur tout amendement. Si tous les efforts en ce sens ont été épuisés sans qu’un accord soit intervenu, il faudra, en dernier recours, pour que l’amendement soit adopté, un vote à la majorité des deux tiers des États parties au présent Protocole présents à la Conférence des parties et exprimant leur vote.
 
-<sup>2.</sup> Les organisations régionales d’intégration économique disposent, pour exercer, en vertu du présent article, leur droit de vote dans les domaines qui relèvent de leur compétence, d’un nombre de voix égal au nombre de leurs Etats membres parties au présent Protocole. Elles n’exercent pas leur droit de vote si leurs Etats membres exercent le leur, et inversement.
+<sup>2.</sup> Les organisations régionales d’intégration économique disposent, pour exercer, en vertu du présent article, leur droit de vote dans les domaines qui relèvent de leur compétence, d’un nombre de voix égal au nombre de leurs États membres parties au présent Protocole. Elles n’exercent pas leur droit de vote si leurs États membres exercent le leur, et inversement.
 
-<sup>3.</sup> Un amendement adopté conformément au par. 1 du présent article est soumis à ratification, acceptation ou approbation des Etats parties.
+<sup>3.</sup> Un amendement adopté conformément au par. 1 du présent article est soumis à ratification, acceptation ou approbation des États parties.
 
-<sup>4.</sup> Un amendement adopté conformément au par. 1 du présent article entrera en vigueur pour un Etat partie quatre-vingt-dix jours après la date de dépôt par ledit Etat partie auprès du Secrétaire général de l’Organisation des Nations Unies d’un instrument de ratification, d’acceptation ou d’approbation dudit amendement.
+<sup>4.</sup> Un amendement adopté conformément au par. 1 du présent article entrera en vigueur pour un État partie quatre-vingt-dix jours après la date de dépôt par ledit État partie auprès du Secrétaire général de l’Organisation des Nations Unies d’un instrument de ratification, d’acceptation ou d’approbation dudit amendement.
 
-\5. Un amendement entré en vigueur a force obligatoire à l’égard des Etats parties qui ont exprimé leur consentement à être liés par lui. Les autres Etats parties restent liés par les dispositions du présent Protocole et tous amendements antérieurs qu’ils ont ratifiés, acceptés ou approuvés.
+\5. Un amendement entré en vigueur a force obligatoire à l’égard des États parties qui ont exprimé leur consentement à être liés par lui. Les autres États parties restent liés par les dispositions du présent Protocole et tous amendements antérieurs qu’ils ont ratifiés, acceptés ou approuvés.
 
 #### Art. 24
 
 **Dénonciation**
 
-<sup>1.</sup> Un Etat partie peut dénoncer le présent Protocole par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies. Une telle dénonciation prend effet un an après la date de réception de la notification par le Secrétaire général.
+<sup>1.</sup> Un État partie peut dénoncer le présent Protocole par notification écrite adressée au Secrétaire général de l’Organisation des Nations Unies. Une telle dénonciation prend effet un an après la date de réception de la notification par le Secrétaire général.
 
-<sup>2.</sup> Une organisation régionale d’intégration économique cesse d’être Partie au présent Protocole lorsque tous ses Etats membres l’ont dénoncé.
+<sup>2.</sup> Une organisation régionale d’intégration économique cesse d’être Partie au présent Protocole lorsque tous ses États membres l’ont dénoncé.
 
 #### Art. 25
 
@@ -395,10 +395,10 @@ Les Etats parties envisagent la conclusion d’accords bilatéraux ou régionaux
 
 *En foi de quoi*, les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements respectifs, ont signé le présent Protocole. (Suivent les signatures)
 
-Champ d’application le 29 octobre 2018**[^t-2]**
+Champ d’application le 18 février 2021**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan<sup>\*</sup></td><td>2 février</td><td>2017 A</td><td>4 mars</td><td>2017</td></tr>
 <tr><td>Afrique du Sud\*</td><td>20 février</td><td>2004</td><td>21 mars</td><td>2004</td></tr>
 <tr><td>Albanie</td><td>21 août</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
@@ -431,6 +431,7 @@ Champ d’application le 29 octobre 2018**[^t-2]**
 <tr><td>Cap-Vert</td><td>15 juillet</td><td>2004</td><td>14 août</td><td>2004</td></tr>
 <tr><td>Chili</td><td>29 novembre</td><td>2004</td><td>29 décembre</td><td>2004</td></tr>
 <tr><td>Chypre</td><td>6 août</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
+<tr><td>Comores</td><td>15 décembre</td><td>2020 A</td><td>14 janvier</td><td>2021</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>28 octobre</td><td>2005 A</td><td>27 novembre</td><td>2005</td></tr>
 <tr><td>Corée (Sud)</td><td>5 novembre</td><td>2015</td><td>5 décembre</td><td>2015</td></tr>
 <tr><td>Costa Rica</td><td>7 août</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
@@ -440,16 +441,18 @@ Champ d’application le 29 octobre 2018**[^t-2]**
 <tr><td>Danemark <sup>a</sup></td><td>8 décembre</td><td>2006</td><td>7 janvier</td><td>2007</td></tr>
 <tr><td>Djibouti</td><td>20 avril</td><td>2005 A</td><td>20 mai</td><td>2005</td></tr>
 <tr><td>Dominique</td><td>17 mai</td><td>2013 A</td><td>16 juin</td><td>2013</td></tr>
-<tr><td>Egypte</td><td>1<sup>er</sup> mars</td><td>2005 A</td><td>31 mars</td><td>2005</td></tr>
+<tr><td>Égypte</td><td>1<sup>er</sup> mars</td><td>2005 A</td><td>31 mars</td><td>2005</td></tr>
 <tr><td>El Salvador\*</td><td>18 mars</td><td>2004</td><td>17 avril</td><td>2004</td></tr>
-<tr><td>Equateur\*</td><td>17 septembre</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
+<tr><td>Équateur\*</td><td>17 septembre</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Espagne\*\*</td><td>1<sup>er</sup> mars</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Estonie\*\*</td><td>12 mai</td><td>2004</td><td>11 juin</td><td>2004</td></tr>
-<tr><td>Etats-Unis\*</td><td>3 novembre</td><td>2005</td><td>3 décembre</td><td>2005</td></tr>
-<tr><td>Ethiopie\*</td><td>22 juin</td><td>2012 A</td><td>22 juillet</td><td>2012</td></tr>
+<tr><td>Eswatini</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
+<tr><td>États-Unis\*</td><td>3 novembre</td><td>2005</td><td>3 décembre</td><td>2005</td></tr>
+<tr><td>Éthiopie\*</td><td>22 juin</td><td>2012 A</td><td>22 juillet</td><td>2012</td></tr>
 <tr><td>Fidji\*</td><td>19 septembre</td><td>2017 A</td><td>19 octobre</td><td>2017</td></tr>
 <tr><td>Finlande\*\*</td><td>7 septembre</td><td>2006</td><td>7 octobre</td><td>2006</td></tr>
 <tr><td>France</td><td>29 octobre</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
+<tr><td>Gabon</td><td>10 mai</td><td>2019 A</td><td>9 juin</td><td>2019</td></tr>
 <tr><td>Gambie</td><td>5 mai</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Géorgie</td><td>5 septembre</td><td>2006</td><td>5 octobre</td><td>2006</td></tr>
 <tr><td>Ghana</td><td>21 août</td><td>2012 A</td><td>20 septembre</td><td>2012</td></tr>
@@ -481,7 +484,7 @@ Champ d’application le 29 octobre 2018**[^t-2]**
 <tr><td>Liechtenstein</td><td>20 février</td><td>2008</td><td>21 mars</td><td>2008</td></tr>
 <tr><td>Lituanie\* \*\*</td><td>12 mai</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
-<tr><td>Macédoine</td><td>12 janvier</td><td>2005</td><td>11 février</td><td>2005</td></tr>
+<tr><td>Macédoine du Nord</td><td>12 janvier</td><td>2005</td><td>11 février</td><td>2005</td></tr>
 <tr><td>Madagascar</td><td>15 septembre</td><td>2005</td><td>15 octobre</td><td>2005</td></tr>
 <tr><td>Malawi\*</td><td>17 mars</td><td>2005 A</td><td>16 avril</td><td>2005</td></tr>
 <tr><td>Mali</td><td>12 avril</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
@@ -503,6 +506,7 @@ Champ d’application le 29 octobre 2018**[^t-2]**
 <tr><td>Norvège\*\*</td><td>23 septembre</td><td>2003</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>19 juillet</td><td>2002</td><td>28 janvier</td><td>2004</td></tr>
 <tr><td>Oman</td><td>13 mai</td><td>2005 A</td><td>12 juin</td><td>2005</td></tr>
+<tr><td>Palaos</td><td>27 mai</td><td>2019 A</td><td>26 juin</td><td>2019</td></tr>
 <tr><td>Panama</td><td>18 août</td><td>2004</td><td>17 septembre</td><td>2004</td></tr>
 <tr><td>Paraguay</td><td>23 septembre</td><td>2008 A</td><td>23 octobre</td><td>2008</td></tr>
 <tr><td>Pays-Bas\*\* <sup>c</sup></td><td>27 juillet</td><td>2005</td><td>26 août</td><td>2005</td></tr>
@@ -547,14 +551,13 @@ Champ d’application le 29 octobre 2018**[^t-2]**
 <tr><td>Uruguay</td><td>4 mars</td><td>2005</td><td>3 avril</td><td>2005</td></tr>
 <tr><td>Venezuela\*</td><td>19 avril</td><td>2005</td><td>19 mai</td><td>2005</td></tr>
 <tr><td>Zambie</td><td>24 avril</td><td>2005 A</td><td>24 mai</td><td>2005</td></tr>
-<tr><td>Swaziland</td><td>24 septembre</td><td>2012</td><td>24 octobre</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. <sup>\*\*</sup> Objections. Les \* du champ d’application ci-dessus ne comprennent pas les notifications concernant les autorités désignées des Etats parties, en vertu de l’art. 8, par. 6. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. <sup>\*\*</sup> Objections. Les \* du champ d’application ci-dessus ne comprennent pas les notifications concernant les autorités désignées des États parties, en vertu de l’art. 8, par. 6. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne</td></tr>
 <tr><td colspan="5"><sup>a</sup> Le protocole ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Le protocole ne s’applique pas à Tokélaou.</td></tr>
 <tr><td colspan="5"><sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863), [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140)[4059](https://fedlex.data.admin.ch/eli/oc/2008/560), [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481), [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494), [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37), [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543), [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188)[5687](https://fedlex.data.admin.ch/eli/oc/2017/614), [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2006 5899](https://fedlex.data.admin.ch/eli/oc/2006/863); [2008 619](https://fedlex.data.admin.ch/eli/oc/2008/140), [4059](https://fedlex.data.admin.ch/eli/oc/2008/560); [2009 3867](https://fedlex.data.admin.ch/eli/oc/2009/481); [2011 3575](https://fedlex.data.admin.ch/eli/oc/2011/494); [2013 273](https://fedlex.data.admin.ch/eli/oc/2013/37); [2014 3195](https://fedlex.data.admin.ch/eli/oc/2014/543); [2017 2099](https://fedlex.data.admin.ch/eli/oc/2017/188)[5687](https://fedlex.data.admin.ch/eli/oc/2017/614); [2018 3959](https://fedlex.data.admin.ch/eli/oc/2018/635); [2021 104](https://fedlex.data.admin.ch/eli/oc/2021/104). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
 
 Déclaration
 
