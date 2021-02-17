@@ -3,11 +3,11 @@ sr: "0.972.0"
 title: "Accordo del 13 giugno 1976 per l'istituzione di un Fondo internazionale di sviluppo agricolo (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/840_840_840"
 language: it
-version: 2020-07-08
+version: 2021-02-18
 adopted: 1976-06-13
 in_force: 1977-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/it/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20200708-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20200708/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/it/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20210218-it-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20210218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Roma il 13 giugno 1976 Approvato dall’Assemblea federale il 24 giugno 1977[^t-1] Ratificato con strumento depositato dalla Svizzera il 21 ottobre 1977 Entrato in vigore per la Svizzera il 30 novembre 1977
 
-(Stato 8 luglio 2020)
+(Stato 18 febbraio 2021)
 
 [^t-1]: [RU 1978 838](https://fedlex.data.admin.ch/eli/oc/1978/838_838_838)
 
@@ -115,7 +115,9 @@ Le risorse del Fondo sono le seguenti:
 - i) contributi iniziali;
 - ii) contributi supplementari;
 - iii) contributi speciali di Stati non membri e provenienti da altre fonti;
-- iv) risorse provenienti o che proverranno da operazioni del Fondo e da altre fonti.
+- iv)[^4-subdivu1-2] risorse che provengono che proverranno da operazioni del Fondo e da altre fonti, in particolare tramite prestiti da parte di Membri o da altre fonti.
+
+[^4-subdivu1-2]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Sezione 2 – Contributi iniziali
 
@@ -144,16 +146,27 @@ Il Consiglio dei Governatori può autorizzare, in qualsiasi momento, un Membro a
 
   - i) i contributi vengono utilizzati in proporzione al loro ammontare, ad intervalli ragionevoli, secondo le decisioni del Consiglio di Amministrazione;
   - ii) nel caso in cui una parte soltanto di un contributo sia versata in contanti, viene utilizzata detta parte, secondo il disposto del comma i), prima del resto del contributo. Salvo nella misura in cui detta quota versata in contanti sia in tal modo impiegata, il Fondo può depositarla o investirla in maniera da farle produrre un reddito che contribuisca a coprire le proprie spese amministrative e altre spese;
-  - iii) i contributi iniziali, ivi compresi tutti gli aumenti, vengono utilizzati prima dei contributi supplementari. La stessa norma si applica ai futuri contributi supplementari.
+  - iii)[^4-subdivu5-2] i contributi iniziali, ivi compresi tutti gli aumenti, vengono utilizzati prima dei contributi supplementari. La stessa norma si applica ai futuri contributi supplementari.
 
-- d)[^4-subdivu5-2] Fatte salve le disposizioni della lettera c) della presente sezione, i contributi al Fondo possono anche prendere la forma di un elemento di liberalità in un prestito concesso da un partner a condizioni favorevoli; a tale scopo, con «prestito concesso da un partner a condizioni favorevoli» si intende qualsiasi prestito concesso da un Membro o da una delle istituzioni che beneficiano del suo appoggio che comporti un elemento di liberalità a vantaggio del Fondo e che sia inoltre compatibile con il quadro relativo ai prestiti concessi dai partner a condizioni favorevoli («Concessional Partner Loan Framework») approvato dal Consiglio di amministrazione, mentre con «istituzione che beneficia dell’appoggio di uno Stato» si intende qualsiasi impresa o istituto finanziario operante nell’ambito dello sviluppo, statale o sotto il controllo delle autorità statali di uno dei Membri, ad eccezione delle istituzioni multilaterali.
+- d)[^4-subdivu5-3] Fatte salve le disposizioni della lettera c) della presente sezione, i contributi al Fondo possono anche prendere la forma di un elemento di liberalità in un prestito concesso da un partner a condizioni favorevoli; a tale scopo, con «prestito concesso da un partner a condizioni favorevoli» si intende qualsiasi prestito concesso da un Membro o da una delle istituzioni che beneficiano del suo appoggio che comporti un elemento di liberalità a vantaggio del Fondo e che sia inoltre compatibile con il quadro relativo ai prestiti concessi dai partner a condizioni favorevoli («Concessional Partner Loan Framework») approvato dal Consiglio di amministrazione, mentre con «istituzione che beneficia dell’appoggio di uno Stato» si intende qualsiasi impresa o istituto finanziario operante nell’ambito dello sviluppo, statale o sotto il controllo delle autorità statali di uno dei Membri, ad eccezione delle istituzioni multilaterali.
+- e)[^4-subdivu5-4] Fatte salve le disposizioni della lettera c) della presente sezione, i contributi al Fondo possono essere versati sotto forma di una riduzione o di un credito generato dalla riscossione anticipata dei contributi, conformemente al meccanismo approvato dal Consiglio dei Governatori.
 
 [^4-subdivu5-1]: Nuovo testo giusta la Risoluzione 86/XVIII del Consiglio dei Governatori del 26 gen. 1995, in vigore dal 20 feb. 1997 ([RU 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
-[^4-subdivu5-2]: Introdotta dalla Risoluzione 201/XLI del Consiglio dei Governatori del 13 feb. 2018, in vigore dal 13 feb. 2018 ([RU 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-2]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^4-subdivu5-3]: Introdotta dalla Risoluzione 201/XLI del Consiglio dei Governatori del 13 feb. 2018, in vigore dal 13 feb. 2018 ([RU 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-4]: Introdotta dalla Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Sezione 6 – Contributi speciali
 
 Le risorse del Fondo possono essere aumentate mediante contributi speciali di Stati non membri o di altre fonti, secondo modalità e condizioni che siano compatibili con la sezione 5 del presente articolo e che siano approvate dal Consiglio dei Governatori, dietro raccomandazione del Consiglio di amministrazione.
+
+### Sezione 7 – Attività di assunzione di prestiti
+
+[^4-subdivu7-1]
+
+[^4-subdivu7-1]: Introdotta dalla Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+
+Il Fondo è autorizzato a prendere a prestito fondi dai suoi Stati Membri o da altre fonti, ad acquistare e vendere titoli che ha emesso o garantito e a esercitare, nel quadro delle sue attività di prestito, tutti i poteri necessari o auspicabili al fine di raggiungere i suoi obiettivi.
 
 #### Art. 5
 
@@ -222,20 +235,24 @@ Il Fondo è dotato:
     *i voti originali,* in totale mille otto cento (1800), si suddividono in voti di Membro e voti di contributo:
 
     - A) *i voti di Membro* sono ripartiti in egual misura tra tutti i Membri,
-    - B) *i voti di contributo* sono ripartiti tra tutti i Membri in proporzione, per ciascuno di essi, al rapporto tra i contributi cumulativi forniti alle risorse totali del Fondo, autorizzati dal Consiglio dei Governatori prima del 26 gennaio 1995 e versati dai Membri conformemente alle sezioni 2, 3 e 4 dell’articolo 4 del presente Accordo, e la somma totale dei contributi in questione forniti da tutti i Membri;
+    - B)[^6-subdivu3-2] *i voti di contributo* sono ripartiti tra tutti i Membri in proporzione, per ciascuno di essi, al rapporto tra i contributi cumulativi forniti alle risorse totali del Fondo, autorizzati dal Consiglio dei Governatori prima del 26 gennaio 1995 e versati dai Membri conformemente alle sezioni 2, 3 e 4 dell’articolo 4 del presente Accordo, e la somma totale dei contributi in questione forniti da tutti i Membri;
 
   - ii)
 
-    *i voti di ricostituzione* si suddividono in voti di Membro e voti di contributo di cui il Consiglio dei Governatori stabilisce il totale ogni volta che invita al versamento di contributi supplementari in virtù della sezione 3 dell’articolo 4 del presente Accordo («una ricostituzione»), a partire dalla quarta ricostituzione. Salvo decisione contraria del Consiglio dei Governatori con una maggioranza dei due terzi del totale dei voti, a ogni ricostituzione vengono attribuiti cento (100) voti per l’equivalente di cento cinquant’otto milioni di dollari USA (158 000 000 USD) versati sul totale della ricostituzione o per una frazione di tale importo:
+    *i voti di ricostituzione* si suddividono in voti di Membro e voti di contributo di cui il Consiglio dei Governatori stabilisce il totale ogni volta che invita al versamento di contributi supplementari in virtù della sezione 3 dell’articolo 4 del presente Accordo («una ricostituzione»), a partire dalla quarta ricostituzione. Salvo decisione contraria del Consiglio dei Governatori con una maggioranza dei due terzi del totale dei voti, a ogni ricostituzione vengono attribuiti cento (100) voti per l’equivalente di cento cinquant’otto milioni di dollari USA (158 000 000 USD) versati sul totale della ricostituzione o per una frazione di tale importo:[^6-subdivu3-3]
 
     - A) *i voti di Membro* sono parimenti ripartiti tra tutti i Membri in base ai principi già stabiliti al paragrafo i) lettera A),
-    - B) *i voti di contributo* sono ripartiti tra tutti i Membri in proporzione, per ciascuno di essi, al rapporto tra il contributo che un Membro ha fornito alle risorse concesse al Fondo dai Membri per ogni ricostituzione e la somma totale dei contributi in questione forniti da tutti i Membri in occasione della ricostituzione in questione;
+    - B)[^6-subdivu3-4] *i voti di contributo* sono ripartiti tra tutti i Membri in proporzione, per ciascuno di essi, al rapporto tra il contributo che un Membro ha fornito alle risorse concesse al Fondo dai Membri per ogni ricostituzione e la somma totale dei contributi in questione forniti da tutti i Membri in occasione della ricostituzione in questione;
 
   - iii) il Consiglio dei Governatori stabilisce il totale dei voti da ripartire come voti di Membro e come voti di contributo secondo quanto disposto ai paragrafi i) e ii) della presente sezione. Dopo ogni cambiamento del numero di Membri del Fondo, i voti di Membro e i voti di contributo ripartiti secondo quanto disposto ai paragrafi i) e ii) della presente sezione sono ridistribuiti in conformità ai principi enunciati in detti paragrafi. Nel ripartire i voti, il Consiglio dei Governatori si accerta che i Membri assegnati alla categoria III prima del 26 gennaio 1995 ricevano un terzo del totale dei voti sotto forma di voti di Membro.
 
-- b) Salvo disposizioni contrarie del presente Accordo, le decisioni del Consiglio dei Governatori vengono prese con la maggioranza semplice del totale dei voti.
+- b)[^6-subdivu3-5] Ai fini della presente sezione 3 lettera a) i) B) e ii) B), l’elemento di liberalità di qualsiasi prestito da parte di un partner concesso a condizioni favorevoli e la riduzione o il credito generato dalla riscossione anticipata dei contributi sono considerati «contributi versati» e i voti di contributo sono ripartiti di conseguenza;
 
 [^6-subdivu3-1]: Nuovo testo giusta la Risoluzione 86/XVIII del Consiglio dei Governatori del 26 gen. 1995, in vigore dal 20 feb. 1997 ([RU 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
+[^6-subdivu3-2]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-3]: Nuovo periodo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-4]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-5]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Sezione 4 – Presidente del Consiglio dei Governatori
 
@@ -300,7 +317,7 @@ Il Fondo pubblica una relazione annuale contenente il proprio bilancio di chiusu
 ### Sezione 1 – Impiego delle risorse e condizioni di finanziamento
 
 - a) Il Fondo impiega le proprie risorse per i fini di cui all’articolo 2.
-- b) Il Fondo concede mezzi finanziari soltanto agli Stati in sviluppo che sono Membri del Fondo, o ad organizzazioni intergovernative ai cui lavori partecipano detti Membri. Nel caso di un prestito concesso ad una organizzazione intergovernativa, il Fondo può richiedere una garanzia governativa o altre forme di garanzia.
+- b)[^7-subdivu1-1] Il Fondo concede mezzi finanziari soltanto agli Stati in sviluppo che sono Membri del Fondo. Questi finanziamenti possono essere concessi sia direttamente agli Stati Membri in sviluppo o alle loro suddivisioni politiche, sia tramite organizzazioni intergovernative ai cui lavori partecipano detti Membri, sia infine a, o tramite, banche nazionali di sviluppo, organismi e imprese del settore privato o altre entità scelte di volta in volta dal Consiglio di amministrazione. In caso di prestito a un’entità diversa da uno Stato membro, il Fondo richiede, in linea di principio, una garanzia governativa o altre forme di garanzia appropriate, a meno che il Consiglio di amministrazione non decida altrimenti sulla base di una valutazione approfondita riguardante i rischi correlati e le misure di salvaguardia.
 - c) Il Fondo adotta disposizioni per assicurare che le risorse provenienti da qualsiasi finanziamento vengano impiegate esclusivamente ai fini per i quali detto finanziamento è stato concesso, tenendo debitamente conto delle considerazioni di economia, di efficacia e di giustizia sociale.
 - d)
 
@@ -311,6 +328,8 @@ Il Fondo pubblica una relazione annuale contenente il proprio bilancio di chiusu
 
 - Nel quadro delle priorità suddette, la concessione di aiuti è in funzione di criteri economici e sociali obiettivi, ed in particolar modo delle necessità dei Paesi a basso reddito, nonché del loro potenziale d’incremento della produzione alimentare, tenuto debito conto altresì del criterio di un’equa distribuzione geografica delle risorse in questione.
 - e) Fatte salve le disposizioni del presente Accordo, la concessione di un finanziamento da parte del Fondo è regolata dalle politiche generali, dai criteri e regolamenti adottati di quando in quando dal Consiglio dei Governatori, con la maggioranza dei due terzi del totale dei voti.
+
+[^7-subdivu1-1]: Nuovo testo giusta la Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Sezione 2 – Modalità e condizioni di finanziamento
 
@@ -391,6 +410,19 @@ Il Fondo ha la personalità giuridica internazionale.
   - iii) quelli definiti in altri accordi stipulati dal Fondo.
 
 - c) Quando un Membro è costituito da un gruppo di Stati, questo garantisce l’applicazione, sul territorio di tutti gli Stati stessi, dei privilegi e delle immunità definiti dal presente articolo.
+- d)[^10-subdivu2-1]
+
+  Fatte salve le sezioni 2 a)–2 c) del presente articolo, un’azione contro il Fondo per attività derivanti dai poteri che gli conferisce la sezione 7 dell’articolo 4 può essere intentata solo davanti a un tribunale competente per il territorio di un Membro, nel quale, a seconda dei casi, il Fondo:
+
+  - i) abbia nominato un agente incaricato di ricevere citazioni o notificazioni giudiziali, o abbia emesso o garantito titoli;
+  - ii)
+
+    benché resti inteso che:
+
+    - A) nessun procedimento potrà essere intentato da Stati Membri o da persone che agiscono per conto di detti Stati o che fanno valere diritti da essi ceduti;
+    - B) i beni e gli altri attivi del Fondo, ovunque si trovino e chiunque ne sia detentore, saranno esenti da ogni misura di sequestro, pignoramento o esecuzione, fintanto che una sentenza definitiva non sia stata pronunciata contro il Fondo.
+
+[^10-subdivu2-1]: Introdotta dalla Risoluzione 220/XLIV del Consiglio dei Governatori del 18 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 #### Art. 11
 
@@ -495,7 +527,7 @@ Allegato I[^t-2]
 <tr><td>Categoria I</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Australia</td><td>Dollaro australiano</td><td>8 000 000</td><td></td><td><sup>c</sup></td><td>8 609 840</td></tr>
 <tr><td>Austria</td><td>Dollaro S.U.</td><td>4 800 000</td><td></td><td><sup>c</sup></td><td>4 197 864</td></tr>
-<tr><td>Belgio</td><td>Franco belga Dollaro S.U.</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/it/xml/image/image1.png)</td><td><sup>c</sup></td><td>11 930 855</td></tr>
+<tr><td>Belgio</td><td>Franco belga Dollaro S.U.</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/it/xml/image/image1.png)</td><td><sup>c</sup></td><td>11 930 855</td></tr>
 <tr><td>Canada</td><td>Dollaro canadese</td><td>33 000 000</td><td></td><td></td><td>29 447 446</td></tr>
 <tr><td>Danimarca</td><td>Dollaro S.U.</td><td>7 500 000</td><td></td><td><sup>c</sup></td><td>6 559 163</td></tr>
 <tr><td>Finlandia</td><td>Marco finlandese</td><td>12 000 000</td><td></td><td><sup>c</sup></td><td>2 692 320</td></tr>
@@ -505,13 +537,13 @@ Allegato I[^t-2]
 <tr><td>Irlanda</td><td>Lira sterlina</td><td>570 000</td><td></td><td><sup>c</sup></td><td>883 335</td></tr>
 <tr><td>Italia</td><td>Dollaro S.U.</td><td>25 000 000</td><td></td><td><sup>c</sup></td><td>21 863 875</td></tr>
 <tr><td>Lussemburgo</td><td>DTS</td><td>320 000</td><td></td><td><sup>c</sup></td><td>320 000</td></tr>
-<tr><td>Norvegia</td><td>Corona norvegese Dollaro S.U.</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/it/xml/image/image1.png)</td><td><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
+<tr><td>Norvegia</td><td>Corona norvegese Dollaro S.U.</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/it/xml/image/image1.png)</td><td><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
 <tr><td>Nuova Zelanda</td><td>Dollaro neozelandese</td><td>2 000 000</td><td></td><td><sup>c</sup></td><td>1 721 998</td></tr>
-<tr><td>Paesi Bassi</td><td>Fiorino Dollaro S.U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/it/xml/image/image1.png)</td><td></td><td>34 594 265</td></tr>
+<tr><td>Paesi Bassi</td><td>Fiorino Dollaro S.U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/it/xml/image/image1.png)</td><td></td><td>34 594 265</td></tr>
 <tr><td>[tab] Regno Unito di Gran Bretagna e d’Irlanda del Nord</td><td>Lira sterlina</td><td>18 000 000</td><td></td><td></td><td>27 894 780</td></tr>
 <tr><td>Spagna</td><td>Dollaro S.U.</td><td>2 000 000</td><td></td><td><sup>e</sup></td><td>1 749 110</td></tr>
 <tr><td>Stati Uniti d’America</td><td>Dollaro S.U.</td><td>200 000 000</td><td></td><td></td><td>174 911 000</td></tr>
-<tr><td>Svezia</td><td>Corona svedese Dollaro S.U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/it/xml/image/image1.png)</td><td>\*\*\*</td><td>22 325 265</td></tr>
+<tr><td>Svezia</td><td>Corona svedese Dollaro S.U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/it/xml/image/image1.png)</td><td>\*\*\*</td><td>22 325 265</td></tr>
 <tr><td>Svizzera</td><td>Franco svizzero</td><td>22 000 000</td><td></td><td><sup>c</sup></td><td>7 720 790</td></tr>
 <tr><td>Totale parziale</td><td></td><td></td><td></td><td></td><td>496 149 059</td></tr>
 <tr><td>Categoria II</td><td></td><td></td><td></td><td></td><td></td></tr>

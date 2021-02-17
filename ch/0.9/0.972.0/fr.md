@@ -3,11 +3,11 @@ sr: "0.972.0"
 title: Accord du 13 juin 1976 portant création du Fonds international de développement agricole (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/840_840_840"
 language: fr
-version: 2020-07-08
+version: 2021-02-18
 adopted: 1976-06-13
 in_force: 1977-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/fr/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20200708-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20200708/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20210218-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20210218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Rome le 13 juin 1976 Approuvé par l’Assemblée fédérale le 24 juin 1977[^t-1] Instrument de ratification déposé par la Suisse le 21 octobre 1977 Entré en vigueur pour la Suisse le 30 novembre 1977
 
-(État le 8 juillet 2020)
+(État le 18 février 2021)
 
 [^t-1]: [RO 1978 838](https://fedlex.data.admin.ch/eli/oc/1978/838_838_838)
 
@@ -115,7 +115,9 @@ Les ressources du Fonds sont les suivantes:
 - i) contributions initiales;
 - ii) contributions supplémentaires;
 - iii) contributions spéciales d’États non membres et d’autres sources;
-- iv) ressources provenant ou qui proviendront des opérations du Fonds et d’autres sources.
+- iv)[^4-subdivu1-2] ressources qui proviennent ou proviendront des opérations du Fonds et d’autres sources, notamment par l’emprunt auprès des Membres et d’autres sources.
+
+[^4-subdivu1-2]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Section 2 – Contributions initiales
 
@@ -144,16 +146,27 @@ Le Conseil des gouverneurs peut autoriser à tout moment un Membre à accroître
 
   - i) les contributions sont utilisées au prorata de celles‑ci, à des intervalles raisonnables, selon les décisions du Conseil d’administration;
   - ii) dans le cas où une partie seulement d’une contribution est versée en espèces, c’est cette partie qui est utilisée, comme prévu à l’al. i), avant le reste de la contribution. Sauf dans la mesure où ladite partie versée en espèces est ainsi utilisée, le Fonds peut en faire le dépôt ou le placement de façon à lui faire produire des revenus qui contribuent à couvrir ses dépenses d’administration et autres frais;
-  - iii) les contributions initiales, y compris toutes augmentations, sont utilisées avant les contributions supplémentaires. La même règle s’applique aux futures contributions supplémentaires.
+  - iii)[^4-subdivu5-2] les contributions initiales, y compris toutes augmentations, sont utilisées avant les contributions supplémentaires. La même règle s’applique aux futures contributions supplémentaires.
 
-- d)[^4-subdivu5-2] Nonobstant l’alinéa c) ci-dessus, les contributions au Fonds peuvent aussi prendre la forme d’un élément de libéralité dans un prêt consenti par un partenaire à des conditions favorables; à cette fin, on entend par «prêt consenti par un partenaire à des conditions favorables» tout prêt accordé par un Membre ou l’une des institutions bénéficiant de son appui, qui comporte un élément de libéralité au profit du Fonds et qui est par ailleurs cohérent avec le Cadre relatif aux prêts de partenaires à des conditions favorables approuvé par le Conseil d’administration, et on entend par «institution bénéficiant de l’appui d’un État» toute entreprise ou institution financière de développement publique ou sous la tutelle publique d’un Membre, à l’exception des institutions multilatérales.
+- d)[^4-subdivu5-3] Nonobstant l’alinéa c) ci-dessus, les contributions au Fonds peuvent aussi prendre la forme d’un élément de libéralité dans un prêt consenti par un partenaire à des conditions favorables; à cette fin, on entend par «prêt consenti par un partenaire à des conditions favorables» tout prêt accordé par un Membre ou l’une des institutions bénéficiant de son appui, qui comporte un élément de libéralité au profit du Fonds et qui est par ailleurs cohérent avec le Cadre relatif aux prêts de partenaires à des conditions favorables approuvé par le Conseil d’administration, et on entend par «institution bénéficiant de l’appui d’un État» toute entreprise ou institution financière de développement publique ou sous la tutelle publique d’un Membre, à l’exception des institutions multilatérales.
+- e)[^4-subdivu5-4] Nonobstant l’alinéa c) ci-dessus, les contributions au Fonds peuvent aussi être versées sous la forme d’un abattement ou d’un crédit généré par l’encaissement anticipé des contributions, conformément au mécanisme approuvé par le Conseil des gouverneurs.
 
 [^4-subdivu5-1]: Nouvelle teneur selon la Rés. 86/XVIII du Conseil des gouverneurs du 26 janv. 1995, en vigueur depuis le 20 fév. 1997 ([RO 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
-[^4-subdivu5-2]: Introduite par la Rés. 201/XLI du Conseil des gouverneurs du 13 fév. 2018, en vigueur depuis le 13 fév. 2018 ([RO 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-2]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^4-subdivu5-3]: Introduite par la Rés. 201/XLI du Conseil des gouverneurs du 13 fév. 2018, en vigueur depuis le 13 fév. 2018 ([RO 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-4]: Introduite par la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Section 6 – Contributions spéciales
 
 Les ressources du Fonds peuvent être accrues par des contributions spéciales d’États non membres ou d’autres sources selon des modalités et à des conditions qui sont compatibles avec la section 5 du présent article et qui sont approuvées par le Conseil des gouverneurs sur recommandation du Conseil d’administration.
+
+### Section 7 – Activités d’emprunt
+
+[^4-subdivu7-1]
+
+[^4-subdivu7-1]: Introduite par la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+
+Le Fonds est autorisé à emprunter des fonds auprès de ses États membres ou d’autres sources, à acheter et à vendre des titres qu’il a émis ou garantis, et à exercer, dans le cadre de ses activités d’emprunt, les pouvoirs nécessaires ou souhaitables pour atteindre ses objectifs.
 
 #### Art. 5
 
@@ -222,19 +235,23 @@ Le Fonds est doté:
     l*es voix originelles**,* au nombre de mille huit cents (1 800) au total, se décomposent en voix de Membre et voix de contribution:
 
     - A) *les voix de Membre* sont réparties également entre tous les Membres,
-    - B) *les voix de contribution* sont réparties entre tous les Membres à proportion, pour chaque Membre, du rapport entre les contributions cumulatives qu’il a versées aux ressources totales du Fonds, autorisées par le Conseil des gouverneurs avant le 26 janvier 1995 et apportées par les Membres en conformité avec les sections 2, 3 et 4 de l’art. 4 du présent Accord, et la somme totale des contributions en cause versées par tous les Membres;
+    - B)[^6-subdivu3-2] *les voix de contribution* sont réparties entre tous les Membres à proportion, pour chaque Membre, du rapport entre les contributions cumulatives qu’il a versées aux ressources totales du Fonds, autorisées par le Conseil des gouverneurs avant le 26 janvier 1995 et apportées par les Membres en conformité avec les sections 2, 3 et 4 de l’art. 4 du présent Accord, et la somme totale des contributions en cause versées par tous les Membres;
 
   - ii)
 
-    l*es voix de reconstitution* se composent de voix de Membre et de voix de contribution dont le nombre total est arrêté par le Conseil des gouverneurs chaque fois qu’il appelle au versement de contributions supplémentaires en vertu de la section 3 de l’art. 4 du présent Accord («une reconstitution»), à compter de la Quatrième reconstitution. Sauf décision contraire du Conseil des gouverneurs à une majorité des deux tiers du nombre total des voix, les voix attribuées pour chaque reconstitution sont déterminées à raison de cent (100) voix pour l’équivalent de chaque cent cinquante-huit millions de dollars des États-Unis (158 000 000 USD) apportés au montant total de la reconstitution, ou une fraction du montant en cause:
+    l*es voix de reconstitution* se composent de voix de Membre et de voix de contribution dont le nombre total est arrêté par le Conseil des gouverneurs chaque fois qu’il appelle au versement de contributions supplémentaires en vertu de la section 3 de l’art. 4 du présent Accord («une reconstitution»), à compter de la Quatrième reconstitution. Sauf décision contraire du Conseil des gouverneurs à une majorité des deux tiers du nombre total des voix, les voix attribuées pour chaque reconstitution sont déterminées à raison de cent (100) voix pour l’équivalent de chaque cent cinquante-huit millions de dollars des États-Unis (158 000 000 USD) apportés au montant total de la reconstitution, ou une fraction du montant en cause:[^6-subdivu3-3]
 
     - A) *les voix de Membre* sont également réparties entre tous les Membres sur la base déjà indiquée en i) A) ci-dessus,
-    - B) *les voix de contribution* sont réparties entre tous les Membres à proportion, pour chaque Membre, du rapport entre la contribution qu’il a versée aux ressources apportées au Fonds par les Membres pour chaque reconstitution et la somme totale des contributions versées par tous les Membres à la reconstitution en cause;
+    - B)[^6-subdivu3-4] *les voix de contribution* sont réparties entre tous les Membres à proportion, pour chaque Membre, du rapport entre la contribution qu’il a versée aux ressources apportées au Fonds par les Membres pour chaque reconstitution et la somme totale des contributions versées par tous les Membres à la reconstitution en cause;
 
 - iii) Le Conseil des gouverneurs arrête le nombre total de voix à répartir comme voix de Membre et voix de contribution, selon les par. i) et ii) de la présente section. Après tout changement dans le nombre de Membres du Fonds, les voix de Membre et les voix de contribution qui ont été réparties selon les dispositions des par. i) et ii) de la présente section sont redistribuées en accord avec les principes énoncés dans ces paragraphes. Dans la répartition des voix, le Conseil des gouverneurs s’assure que les Membres classés comme Membres de la Catégorie III avant le 26 janvier 1995 reçoivent un tiers du nombre total de voix comme voix de Membre.
-- b) Sauf dispositions contraires du présent Accord, les décisions du Conseil des gouverneurs sont prises à la majorité simple du nombre total des voix.
+- b)[^6-subdivu3-5] Aux fins des al. a) i) B) et ii) B) de la section 3 susvisés, l’élément de libéralité de tout prêt de partenaire consenti à des conditions favorables et l’abattement ou le crédit généré par l’encaissement anticipé des contributions sont considérés comme des «contributions versées», et les voix de contribution sont réparties en conséquence.
 
 [^6-subdivu3-1]: Nouvelle teneur selon la Rés. 86/XVIII du Conseil des gouverneurs du 26 janv. 1995, en vigueur depuis le 20 fév. 1997 ([RO 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
+[^6-subdivu3-2]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-3]: Nouvelle teneur de la phrase selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-4]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-5]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Section 4 – Président dit Conseil des gouverneurs
 
@@ -301,7 +318,7 @@ Le Fonds publie un rapport annuel contenant un état vérifié de ses comptes et
 ### Section 1 – Utilisation des ressources et conditions de financement
 
 - a) Le Fonds utilise ses ressources aux fins de l’objectif énoncé à l’art. 2.
-- b) Le Fonds n’accorde de moyens financiers qu’aux États en développement qui sont Membres du Fonds ou à des organisations intergouvernementales aux travaux desquelles ces Membres participent. En cas de prêt à une organisation intergouvernementale, le Fonds peut requérir une garantie gouvernementale ou d’autres formes de garantie.
+- b)[^7-subdivu1-1] Le Fonds n’accorde de moyens financiers qu’au profit d’États en développement qui sont Membres du Fonds. Ces financements peuvent être accordés soit directement aux États membres en développement ou à leurs subdivisions politiques, soit à des organisations intergouvernementales aux travaux desquelles ces Membres participent, soit à des banques nationales de développement, à des organismes et entreprises du secteur privé, ou par leur intermédiaire, ou à d’autres entités choisies de temps à autre par le Conseil d’administration. En cas de prêt à une entité autre qu’un État membre, le Fonds requiert en principe une garantie gouvernementale ou d’autres formes de garantie appropriées, excepté si le Conseil d’administration en décide autrement sur la base d’une évaluation approfondie concernant les risques encourus et les mesures de sauvegarde.
 - c) Le Fonds prend des dispositions pour s’assurer que les ressources provenant de tout financement sont utilisées exclusivement aux fins auxquelles ledit financement a été accordé, compte dûment tenu des considérations d’économie, d’efficacité et de justice sociale.
 - d)
 
@@ -312,6 +329,8 @@ Le Fonds publie un rapport annuel contenant un état vérifié de ses comptes et
 
 - Dans le cadre des priorités susmentionnées, l’octroi de l’aide est fonction de critères économiques et sociaux objectifs, une place particulière étant faite aux besoins des pays à faible revenu ainsi qu’à leur potentiel d’accroissement de la production alimentaire, et compte étant en outre dûment tenu du principe d’une répartition géographique équitable des ressources en question.
 - e) Sous réserve des dispositions du présent Accord, l’octroi d’un financement par le Fonds est régi par les politiques générales, critères et règlements adoptés de temps à autre par le Conseil des gouverneurs à la majorité des deux tiers du nombre total des voix.
+
+[^7-subdivu1-1]: Nouvelle teneur selon la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Section 2 – Modalités et conditions du financement
 
@@ -392,6 +411,19 @@ Le Fonds a la personnalité juridique internationale.
   - iii) ceux définis dans d’autres accords conclus par le Fonds.
 
 - c) Lorsqu’un Membre est un groupement d’États, celui‑ci assure l’application, sur le territoire de tous les États constituant le groupement, des privilèges et immunités définis dans le présent article.
+- d)[^10-subdivu2-1]
+
+  Nonobstant les sections 2 a) à c) ci-dessus, le Fonds ne peut faire l’objet de poursuites découlant des pouvoirs que lui confère la section 7 de l’art. 4 que devant un tribunal compétent sur le territoire d’un Membre où, selon le cas:
+
+  - i) il a désigné un agent chargé de recevoir des significations ou sommations;
+  - ii)
+
+    le Fonds a émis ou garanti des titres, étant entendu néanmoins que:
+
+    - A) aucune poursuite ne pourra être intentée par des États membres ou par des personnes agissant pour le compte desdits États ou faisant valoir des droits cédés par eux,
+    - B) les biens et les avoirs du Fonds, en quelque lieu qu’ils se trouvent et quels qu’en soient les détenteurs, seront à l’abri de toute forme de saisie, d’opposition ou d’exécution, avant qu’un jugement définitif contre le Fonds n’ait été rendu.
+
+[^10-subdivu2-1]: Introduite par la Rés. 220/XLIV du Conseil des gouverneurs du 18 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 #### Art. 11
 
@@ -496,7 +528,7 @@ Annexe I[^t-2]
 <tr><td>Allemagne</td><td>Dollar E.-U.</td><td>55 000 000</td><td></td><td><sup>c d</sup></td><td>48 100 525</td></tr>
 <tr><td>Australien</td><td>Dollar australien</td><td>8 000.000</td><td></td><td><sup>c</sup></td><td>8 609 840</td></tr>
 <tr><td>Autriche</td><td>Dollar E.-U.</td><td>4 800 000</td><td></td><td><sup>c</sup></td><td>4 197 864</td></tr>
-<tr><td>Belgique</td><td>Franc belge Dollar E.-U.</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/fr/xml/image/image1.png)</td><td><sup>c</sup></td><td>11 930 855</td></tr>
+<tr><td>Belgique</td><td>Franc belge Dollar E.-U.</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/fr/xml/image/image1.png)</td><td><sup>c</sup></td><td>11 930 855</td></tr>
 <tr><td>Canada</td><td>Dollar canadien</td><td>33 000 00</td><td></td><td><sup>c</sup></td><td>29 497 446</td></tr>
 <tr><td>Danemark</td><td>Dollar E.-U.</td><td>7 500 000</td><td></td><td><sup>c</sup></td><td>6 559 163</td></tr>
 <tr><td>Espagne</td><td>Dollar E.-U.</td><td>2 000 000</td><td></td><td><sup>e</sup></td><td>1 749 110</td></tr>
@@ -507,11 +539,11 @@ Annexe I[^t-2]
 <tr><td>Italie</td><td>Dollar E.-U.</td><td>25 000 000</td><td></td><td><sup>c</sup></td><td>21 863 875</td></tr>
 <tr><td>Japon</td><td>Dollar E.-U.</td><td>55 000 000</td><td></td><td><sup>c</sup></td><td>48 100 525</td></tr>
 <tr><td>Luxembourg</td><td>DTS</td><td>320 000</td><td></td><td><sup>c</sup></td><td>320 000</td></tr>
-<tr><td>Norvège</td><td>Couronne norvégienne Dollar E.-U.</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/fr/xml/image/image1.png)</td><td><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
+<tr><td>Norvège</td><td>Couronne norvégienne Dollar E.-U.</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/fr/xml/image/image1.png)</td><td><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>Dollar néo-zélandis</td><td>2 000 000</td><td></td><td><sup>c</sup></td><td>1 721 998</td></tr>
-<tr><td>Pays-Bas</td><td>Florin Dollar E.-U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/fr/xml/image/image1.png)</td><td></td><td>34 594 265</td></tr>
+<tr><td>Pays-Bas</td><td>Florin Dollar E.-U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/fr/xml/image/image1.png)</td><td></td><td>34 594 265</td></tr>
 <tr><td>Royaume-Uni de Grande‑Bretagne et d’Irlande du Nord</td><td>Livre sterling</td><td>18 000 000</td><td></td><td></td><td>27 894 780</td></tr>
-<tr><td>Suède</td><td>Couronne suédoise Dollar E.-U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/fr/xml/image/image1.png)</td><td>\*\*\*</td><td>22 325 265</td></tr>
+<tr><td>Suède</td><td>Couronne suédoise Dollar E.-U.</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/fr/xml/image/image1.png)</td><td>\*\*\*</td><td>22 325 265</td></tr>
 <tr><td>Suisse</td><td>France suisse</td><td>22 000 000</td><td></td><td><sup>c</sup></td><td>7 720 790</td></tr>
 <tr><td>Total partiel</td><td></td><td></td><td></td><td></td><td>496 149 059</td></tr>
 <tr><td>Catégorie II</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -854,7 +886,7 @@ Champ d’application le 8 juillet 2020[^t-4]
 <tr><td>Yémen</td><td>13 décembre</td><td>1977 A</td><td>13 décembre</td><td>1977</td></tr>
 <tr><td>Zambie</td><td>16 décembre</td><td>1977 A</td><td>16 décembre</td><td>1977</td></tr>
 <tr><td>Zimbabwe</td><td>22 janvier</td><td>1981 A</td><td>22 janvier</td><td>1981</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org/), ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
 [^t-4]: [RO 1978 840](https://fedlex.data.admin.ch/eli/oc/1978/840_840_840); [1979 250](https://fedlex.data.admin.ch/eli/oc/1979/250_250_250), [776](https://fedlex.data.admin.ch/eli/oc/1979/776_776_776); [1981 1356](https://fedlex.data.admin.ch/eli/oc/1981/1356_1356_1356); [1982 1948](https://fedlex.data.admin.ch/eli/oc/1982/1948_1948_1948); [1985 311](https://fedlex.data.admin.ch/eli/oc/1985/311_311_311); [1986 1960](https://fedlex.data.admin.ch/eli/oc/1986/1960_1960_1960); [1987 1386](https://fedlex.data.admin.ch/eli/oc/1987/1386_1386_1386); [1991 802](https://fedlex.data.admin.ch/eli/oc/1991/802_802_802); [2005 2101](https://fedlex.data.admin.ch/eli/oc/2005/338); [2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510); [2011 341](https://fedlex.data.admin.ch/eli/oc/2011/53); [2013 541](https://fedlex.data.admin.ch/eli/oc/2013/100); [2015 763](https://fedlex.data.admin.ch/eli/oc/2015/136); [2020 3439](https://fedlex.data.admin.ch/eli/oc/2020/590). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

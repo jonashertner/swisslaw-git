@@ -3,11 +3,11 @@ sr: "0.972.0"
 title: Vereinbarung vom 13. Juni 1976 über die Errichtung des Internationalen Fonds für landwirtschaftliche Entwicklung (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1978/840_840_840"
 language: de
-version: 2020-07-08
+version: 2021-02-18
 adopted: 1976-06-13
 in_force: 1977-11-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/de/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20200708-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20200708/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/de/xml/fedlex-data-admin-ch-eli-cc-1978-840_840_840-20210218-de-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1978/840_840_840/20210218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Oktober 1977
 
 In Kraft getreten für die Schweiz am 30. November 1977
 
-(Stand am 8. Juli 2020)
+(Stand am 18. Februar 2021)
 
 [^t-1]: [AS 1978 838](https://fedlex.data.admin.ch/eli/oc/1978/838_838_838)
 
@@ -121,7 +121,9 @@ Die Mittel des Fonds ergeben sich aus den
 - i) Erstbeiträgen;
 - ii) Zusatzbeiträgen;
 - iii) Sonderbeiträgen von Nicht-Mitgliedstaaten und aus anderen Quellen;
-- iv) Mitteln, die dem Fonds aus seinen Geschäften oder aus anderen Quellen zugeflossen sind oder zufliessen werden.
+- iv)[^4-subdivu1-2] Mittel, die aus der Tätigkeit des Fonds und aus anderen Quellen stammen oder stammen werden, insbesondere durch Kreditaufnahme bei den Mitgliedern und aus anderen Quellen.
+
+[^4-subdivu1-2]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Abschnitt 2 – Erstbeiträge
 
@@ -149,17 +151,28 @@ Der Gouverneursrat kann jederzeit ein Mitglied zur Erhöhung eines jeden seiner 
   Beiträge an den Fonds sind in bar zu leisten oder können, soweit der Fonds solche Beiträge nicht unmittelbar für seine Geschäftstätigkeit benötigt, in der Form unübertragbarer, unwiderruflicher, zinsfreier, auf Sicht zahlbarer Schuldscheine oder Obligationen geleistet werden. Zur Finanzierung seiner Geschäfte wird der Fonds alle Beiträge (ungeachtet der Form, in der sie geleistet werden) wie folgt beziehen:
 
   - i) über die Beiträge wird *pro rata* über vom Verwaltungsrat zu bestimmende angemessene Zeiträume verfügt;
-  - ii) wird ein Beitrag nur teilweise in bar geleistet, so wird über diesen Teil gemäss Absatz i) vor dem verbleibenden Rest verfügt. Ausser für den Fall, dass über den in bar einbezahlten Beitragsteil bereits verfügt wurde, wird dieser Teil vom Fonds hinterlegt oder angelegt, um ein Einkommen zu erzielen, das zur Deckung der Verwaltungskosten oder anderer Ausgaben beiträgt;
-  - iii) zunächst ist über die Erstbeiträge und deren allfällige Erhöhungen zu verfügen, bevor zulasten der Zusatzbeiträge gezogen wird. Die gleiche Regelung findet auch bezüglich künftiger Zusatzbeiträge Anwendung.
+  - ii) wird ein Beitrag nur teilweise in bar geleistet, so wird über diesen Teil gemäss Absatz i) vor dem verbleibenden Rest verfügt. Ausser für den Fall, dass über den in bar einbezahlten Beitragsteil bereits verfügt wurde, wird dieser Teil vom Fonds hinterlegt oder angelegt, um ein Einkommen zu erzielen, das zur Deckung der Verwaltungskosten oder anderer Ausgaben beiträgt.
+  - iii)[^4-subdivu5-2] Die ursprünglichen Beiträge, einschließlich aller Erhöhungen, werden vor den zusätzlichen Beiträgen verwendet. Dies gilt auch für zukünftige zusätzliche Beiträge.
 
-- d)[^4-subdivu5-2] Ungeachtet des vorstehenden Buchstabens c können Beiträge zum Fonds auch in Form einer Zuwendungskomponente in einem von einem Partner zu günstigen Bedingungen gewährten Darlehen geleistet werden; Zu diesem Zweck bezeichnet der Ausdruck «zinsgünstiges Partnerdarlehen» ein von einem Mitglied oder einer von ihm unterstützten Institution gewährtes Darlehen, das ein Zuschusselement zugunsten des Fonds enthält und mit dem vom Verwaltungsrat genehmigten Rahmen für zinsgünstige Partnerdarlehen im Einklang steht, und der Ausdruck «staatlich unterstützte Institution» ein staatliches oder unter staatlicher Aufsicht stehendes Entwicklungsunternehmen oder Finanzinstitut eines Mitglieds, mit Ausnahme von multilateralen Institutionen.
+- d)[^4-subdivu5-3] Ungeachtet des vorstehenden Buchstabens c können Beiträge zum Fonds auch in Form einer Zuwendungskomponente in einem von einem Partner zu günstigen Bedingungen gewährten Darlehen geleistet werden; Zu diesem Zweck bezeichnet der Ausdruck «zinsgünstiges Partnerdarlehen» ein von einem Mitglied oder einer von ihm unterstützten Institution gewährtes Darlehen, das ein Zuschusselement zugunsten des Fonds enthält und mit dem vom Verwaltungsrat genehmigten Rahmen für zinsgünstige Partnerdarlehen im Einklang steht, und der Ausdruck «staatlich unterstützte Institution» ein staatliches oder unter staatlicher Aufsicht stehendes Entwicklungsunternehmen oder Finanzinstitut eines Mitglieds, mit Ausnahme von multilateralen Institutionen.
+- e)[^4-subdivu5-4] Ungeachtet des vorstehenden Buchstaben (c) können Beiträge zum Fonds auch in Form eines Abschlags oder eines Guthabens, das durch die vorzeitige Einziehung von Beiträgen entsteht, nach Massgabe des vom Gouverneursrat genehmigten Mechanismus geleistet werden.
 
 [^4-subdivu5-1]: Fassung gemäss Resolution 86/XVIII des Gourverneursrats vom 26. Jan. 1995, in Kraft seit 20. Febr. 1997 ([AS 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
-[^4-subdivu5-2]: Eingefügt durch Resolution 201/XLI des Gourverneursrats vom 13. Febr. 2018, in Kraft seit 13. Febr. 2018 ([AS 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-2]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^4-subdivu5-3]: Eingefügt durch Resolution 201/XLI des Gourverneursrats vom 13. Febr. 2018, in Kraft seit 13. Febr. 2018 ([AS 2025 66](https://fedlex.data.admin.ch/eli/oc/2025/66)).
+[^4-subdivu5-4]: Eingefügt durch Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Abschnitt 6 – Sonderbeiträge
 
 Die Mittel des Fonds können um die von Nicht‑Mitgliedstaaten oder aus anderen Quellen zufliessenden Sonderbeiträge nach Verfahren und zu Bedingungen erhöht werden, die im Sinne von Abschnitt 5 dieses Artikels vom Gouverneursrat auf Empfehlung des Verwaltungsrates gutzuheissen sind.
+
+### Abschnitt 7 – Kreditaufnahme
+
+[^4-subdivu7-1]
+
+[^4-subdivu7-1]: Eingefügt durch Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+
+Der Fonds ist berechtigt, von seinen Mitgliedstaaten oder aus anderen Quellen Gelder zu leihen, von ihm ausgegebene oder garantierte Wertpapiere zu kaufen und zu verkaufen und im Rahmen seiner Kreditaufnahme die zur Erreichung seiner Ziele erforderlichen oder wünschenswerten Befugnisse auszuüben.
 
 #### Art. 5
 
@@ -228,20 +241,24 @@ Der Fonds besitzt:
     Die Gründungsstimmen, deren Anzahl insgesamt eintausendachthundert (1800) beträgt, setzen sich zusammen aus Mitgliedsstimmen und Beitragssstimmen:
 
     - A) die Mitgliedsstimmen sind gleichmässig auf alle Mitglieder verteilt,
-    - B) die Beitragsstimmen sind anteilmässig auf alle Mitglieder verteilt; der Anteil jedes Mitgliedes richtet sich nach dem Verhältnis zwischen seinen kumulativen Beiträgen zu den Gesamtmitteln des Fonds, die vom Gouverneursrat vor dem 26. Januar 1995 genehmigt und von den Mitgliedern in Übereinstimmung mit den Abschnitten 2, 3 und 4 von Artikel 4 dieser Vereinbarung geleistet wurden, und der Gesamtsumme der von allen Mitgliedern geleisteten Beiträge;
+    - B)[^6-subdivu3-2] die Beitragsstimmen werden auf alle Mitglieder verteilt, und zwar für jedes Mitglied im Verhältnis des Verhältnisses zwischen den kumulativen Beiträgen, die es zu den vom Gouverneursrat vor dem 26. Januar 1995 genehmigten und von den Mitgliedern nach Artikel 4 Abschnitte 2, 3 und 4 dieses Übereinkommens geleisteten Gesamtmitteln des Fonds beigetragen hat, und der Gesamtsumme der von allen Mitgliedern gezahlten betreffenden Beiträge;
 
   - ii)
 
-    Die Wiederauffüllungssstimmen setzen sich zusammen aus Mitgliedsstimmen und Beitragssstimmen, deren Gesamtzahl der Gouverneursrat jedes Mal festlegt, wenn er gemäss Artikel 4 Abschnitt 3 dieser Vereinbarung ab der vierten Wiederauffüllung zur Zahlung zusätzlicher Beiträge aufruft («Wiederauffüllung»). Sofern der Gouverneursrat nicht mit einer Mehrheit von zwei Dritteln der Gesamtstimmenzahl anders beschliesst, werden bei jeder Wiederauffüllung einhundert (100) Stimmen für jeweils einen Beitrag in Höhe von einhundertachtundfünfzig Millionen US-Dollar (158 000 000 USD) zur Gesamtsumme der Wiederauffüllung oder anteilmässig für einen Bruchteil dieses Beitrags zugeteilt:
+    Die Wiederauffüllungssstimmen setzen sich zusammen aus Mitgliedsstimmen und Beitragssstimmen, deren Gesamtzahl der Gouverneursrat jedes Mal festlegt, wenn er gemäss Artikel 4 Abschnitt 3 dieser Vereinbarung ab der vierten Wiederauffüllung zur Zahlung zusätzlicher Beiträge aufruft («Wiederauffüllung»). Sofern der Gouverneursrat nicht mit einer Mehrheit von zwei Dritteln der Gesamtstimmenzahl etwas anderes beschließt, werden die für jede Auffüllung zugeteilten Stimmen im Verhältnis von hundert (100) Stimmen für den Gegenwert von je einhundertachtundfünfzig Millionen US-Dollar (158 000 000 USD), die auf den Gesamtbetrag der Auffüllung entfallen, oder einen Bruchteil des betreffenden Betrags festgelegt:[^6-subdivu3-3]
 
     - A) die Mitgliedsstimmen werden auf der Grundlage von Absatz i) A) oben gleichmässig unter allen Mitgliedern verteilt,
-    - B) die Beitragssstimmen werden anteilmässig auf alle Mitglieder verteilt; der Anteil jedes Mitgliedes richtet sich nach dem Verhältnis zwischen seinem Beitrag zu den Mitteln, welche die Mitglieder bei jeder Wiederauffüllung in den Fonds eingezahlt haben, und der Gesamtsumme der von allen Mitgliedern geleisteten Beiträge zu der betreffenden Wiederauffüllung;
+    - B)[^6-subdivu3-4] die Beitragsstimmen werden auf alle Mitglieder verteilt, und zwar für jedes Mitglied im Verhältnis des Beitrags, den es zu den von den Mitgliedern für jede Auffüllung in den Fonds eingebrachten Mitteln geleistet hat, zur Gesamtsumme der von allen Mitgliedern für die betreffende Auffüllung gezahlten Beiträge;
 
   - iii) Der Gouverneursrat bestimmt die Gesamtzahl der Stimmen, die gemäss Absatz i und ii dieses Abschnitts als Mitgliedsstimmen und Beitragssstimmen zu verteilen sind. Im Anschluss an jede Änderung der Anzahl der Mitglieder des Fonds werden die gemäss Absatz i und ii dieses Abschnitts verteilten Mitgliedsstimmen und Beitragssstimmen in Übereinstimmung mit den in diesen Absätzen dargelegten Grundsätzen neu verteilt. Bei derVerteilung der Stimmen stellt der Gouverneursrat sicher, dass die Mitglieder, die vor dem 26. Januar 1995 als Mitglieder der Kategorie III eingestuft waren, ein Drittel der Gesamtstimmenzahl als Mitgliedsstimmen erhalten.
 
-- b) Die Beschlüsse des Gouverneursrates werden, sofern in dieser Vereinbarung nicht anders bestimmt, mit einfachem Mehr der Gesamtstimmenzahl gefasst.
+- b)[^6-subdivu3-5] Für die Zwecke der oben genannten Unterabsätze a) i) B) und ii) B) des Abschnitts 3 gelten das Zuwendungselement einer zu vorteilhaften Bedingung gewährten Partnerdarlehens und der Abschlag oder die Gutschrift, die durch die vorzeitige Einziehung von Beiträgen entsteht, als «geleistete Beiträge», und die Beitragsstimmen werden entsprechend aufgeteilt.
 
 [^6-subdivu3-1]: Fassung gemäss Resolution 86/XVIII des Gourverneursrats vom 26. Jan. 1995, in Kraft seit 20. Febr. 1997 ([AS 2008 3765](https://fedlex.data.admin.ch/eli/oc/2008/510)).
+[^6-subdivu3-2]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-3]: Fassung des zweiten Satzes gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-4]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
+[^6-subdivu3-5]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Abschnitt 4 – Vorsitz des Gouverneursrates
 
@@ -306,7 +323,7 @@ Der Fonds veröffentlicht einen Jahresbericht mit einer geprüften Geschäftsrec
 ### Abschnitt 1 – Verwendung der Mittel und Finanzierungsbedingungen
 
 - a) Die Mittel des Fonds werden zur Verwirklichung des in Artikel 2 festgelegten Zieles eingesetzt.
-- b) Der Fonds stellt seine Finanzmittel nur Entwicklungsländern, die Mitglieder des Fonds sind, oder zwischenstaatlichen Organisationen, an denen solche Mitglieder teilhaben, zur Verfügung. Im Falle von Darlehen an zwischenstaatliche Organisationen kann der Fonds geeignete staatliche oder andere Garantien verlangen.
+- b)[^7-subdivu1-1] Der Fonds gewährt Finanzmittel nur zugunsten von Entwicklungsstaaten, die Mitglieder des Fonds sind. Diese Finanzmittel können entweder unmittelbar den Entwicklungsländern oder ihren politischen Untergliederungen, zwischen¬staatlichen Organisationen, an deren Arbeit diese Mitglieder beteiligt sind, nationalen Entwicklungsbanken, Einrichtungen und Unternehmen des Privatsektors oder über diese oder anderen vom Verwaltungsrat von Zeit zu Zeit ausgewählten Einrichtungen gewährt werden. Bei Darlehen an eine Einrichtung, die kein Mitgliedstaat ist, verlangt der Fonds grundsätzlich eine staatliche Garantie oder andere geeignete Formen der Garantie, es sei denn, der Verwaltungsrat beschliesst auf der Grundlage einer eingehenden Bewertung der damit verbundenen Risiken und der Schutzmassnahmen etwas anderes.
 - c) Der Fonds trifft Massnahmen, damit die aus einer Finanzierung anfallenden Mittel allein für den Zweck eingesetzt werden, für den die Finanzierung vorgenommen wurde. Dabei ist der Wirtschaftlichkeit, Effizienz und sozialen Gerechtigkeit gebührende Beachtung zu schenken.
 - d)
 
@@ -317,6 +334,8 @@ Der Fonds veröffentlicht einen Jahresbericht mit einer geprüften Geschäftsrec
 
 - Im Rahmen der obenvermerkten Prioritäten soll die Qualifikation für einen Hilfsanspruch von objektiven wirtschaftlichen und sozialen Kriterien bestimmt werden. Dabei ist besonders den Bedürfnissen der Länder mit niederem Volkseinkommen und ihrem Potential, die Nahrungsmittelproduktion zu erhöhen, Bedeutung beizumessen, ohne indessen die gerechte geographische Verteilung im Einsatz der Mittel ausser acht zu lassen.
 - e) Vorbehältlich der Bestimmungen dieser Vereinbarung soll die Finanzierung durch den Fonds gemäss den allgemeinen Richtlinien, Kriterien und Vorschriften erfolgen, die von Zeit zu Zeit vom Gouverneursrat mit Zweidrittelsmehrheit der Gesamtstimmenzahl festgelegt werden.
+
+[^7-subdivu1-1]: Fassung gemäss Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 ### Abschnitt 2 – Finanzierungsmodalitäten und -bedingungen
 
@@ -397,6 +416,19 @@ Der Fonds besitzt internationale Rechtspersönlichkeit.
   - iii) solche, wie sie in anderen vom Fonds abgeschlossenen Abkommen umschrieben sind.
 
 - c) Ein Mitglied, welches aus einer Staatengruppe besteht, wird dafür sorgen, dass die in diesem Artikel umschriebenen Vorrechte und Immunitäten in den Gebieten aller Mitglieder der Gruppe gewährleistet sind.
+- d)[^10-subdivu2-1]
+
+  Ungeachtet der vorstehenden Abschnitte 2 a) bis c) kann der Fonds aufgrund seiner Befugnisse nach Artikel 4 Abschnitt 7 nur vor einem zuständigen Gericht im Territorium eines Mitglieds verklagt werden, in dem, je nachdem, was zutrifft:
+
+  - i) er einen Zustellungsbevollmächtigten benannt hat;
+  - ii)
+
+    der Fonds Wertpapiere ausgegeben oder garantiert hat; dies gilt jedoch nur unter der Voraussetzung, dass:
+
+    - A) keine Klage von Mitgliedstaaten oder von Personen, die im Namen dieser Staaten handeln oder von ihnen abgetretene Rechte geltend machen, erhoben werden kann,
+    - B) das Eigentum und die Vermögenswerte des Fonds, gleichgültig wo und in wessen Händen sie sich befinden, jeglicher Form von Beschlagnahme, Pfändung oder Zwangsvollstreckung entzogen sind, solange nicht ein rechtskräftiges Urteil gegen den Fonds ergangen ist.
+
+[^10-subdivu2-1]: Eingefügt durch Resolution 220/XLIV des Gourverneursrats vom 18. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2025 68](https://fedlex.data.admin.ch/eli/oc/2025/68)).
 
 #### Art. 11
 
@@ -496,7 +528,7 @@ Anlage I[^t-2]
 <tr><th>Staat</th><th>Währungseinheit</th><th>Betrag</th><th></th><th></th><th colspan="2">Gegenwert in Sonderziehungsrechten<sup>b</sup></th></tr>
 <tr><td>Kategorie I</td><td></td><td></td><td></td><td colspan="2"></td><td></td></tr>
 <tr><td>Australien</td><td>australische Dollar</td><td>8 000 000</td><td></td><td colspan="2"><sup>c</sup></td><td>8 609 840</td></tr>
-<tr><td>Belgien</td><td>belgischer Franken US-Dollar</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/de/xml/image/image1.png)</td><td colspan="2"><sup>c</sup></td><td>11 930 855</td></tr>
+<tr><td>Belgien</td><td>belgischer Franken US-Dollar</td><td>500 000 000 1 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/de/xml/image/image1.png)</td><td colspan="2"><sup>c</sup></td><td>11 930 855</td></tr>
 <tr><td>Dänemark</td><td>US-Dollar</td><td>7 500 000</td><td></td><td colspan="2"><sup>c</sup></td><td>6 559 163</td></tr>
 <tr><td>Deutschland</td><td>US-Dollar</td><td>55 000 000</td><td></td><td colspan="2"><sup>c d</sup></td><td>48 100 525</td></tr>
 <tr><td>Finnland</td><td>Markkas</td><td>12 000 000</td><td></td><td colspan="2"><sup>c</sup></td><td>2 692 320</td></tr>
@@ -507,10 +539,10 @@ Anlage I[^t-2]
 <tr><td>Kanada</td><td>kanadische Dollar</td><td>33 000 000</td><td></td><td colspan="2"><sup>c</sup></td><td>29 497 446</td></tr>
 <tr><td>Luxemburg</td><td>Sonderziehungsrechte</td><td>320 000</td><td></td><td colspan="2"><sup>c</sup></td><td>320 000</td></tr>
 <tr><td>Neuseeland</td><td>neuseeländischer Dollar</td><td>2 000 000</td><td></td><td colspan="2"><sup>c</sup></td><td>1 721 998</td></tr>
-<tr><td>Niederlande</td><td>Gulden US-Dollar</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/de/xml/image/image1.png)</td><td colspan="2"></td><td>34 594 265</td></tr>
-<tr><td>Norwegen</td><td>norwegische Krone US-Dollar</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/de/xml/image/image1.png)</td><td colspan="2"><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
+<tr><td>Niederlande</td><td>Gulden US-Dollar</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/de/xml/image/image1.png)</td><td colspan="2"></td><td>34 594 265</td></tr>
+<tr><td>Norwegen</td><td>norwegische Krone US-Dollar</td><td>75 000 000 9 981 851</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/de/xml/image/image1.png)</td><td colspan="2"><sup>c</sup> \*\*</td><td>20 612 228</td></tr>
 <tr><td>Österreich</td><td>US-Dollar</td><td>4 800 000</td><td></td><td colspan="2"><sup>c</sup></td><td>4 197 864</td></tr>
-<tr><td>Schweden</td><td>schwedische Krone US-Dollar</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20200708/de/xml/image/image1.png)</td><td colspan="2">\*\*\*</td><td>22 325 265</td></tr>
+<tr><td>Schweden</td><td>schwedische Krone US-Dollar</td><td>100 000 000 3 000 000</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1978/840_840_840/20210218/de/xml/image/image1.png)</td><td colspan="2">\*\*\*</td><td>22 325 265</td></tr>
 <tr><td>Schweiz</td><td>Schweizer Franken</td><td>22 000 000</td><td></td><td colspan="2"><sup>c</sup></td><td>7 720 790</td></tr>
 <tr><td>Spanien</td><td>US-Dollar</td><td>2 000 000</td><td></td><td colspan="2"><sup>e</sup></td><td>1 749 110</td></tr>
 <tr><td>Vereinigtes Königreich Grossbritannien und Nordirland</td><td>Pfund Sterling</td><td>18 000 000</td><td></td><td colspan="2"></td><td>27 894 780</td></tr>
