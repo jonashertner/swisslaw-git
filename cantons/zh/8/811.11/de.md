@@ -4,11 +4,11 @@ number: "811.11"
 title: Verordnung über die universitären Medizinalberufe (MedBV)
 short: MedBV
 language: de
-version: "2020-07-01"
-nachtrag: "109"
-valid_until: 2021-02-17
+version: "2021-02-17"
+nachtrag: "112"
+valid_until: 2021-11-05
 adopted: 2008-05-28
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-811_11-2008_05_28-2008_07_01-112.html"
 text: pdf
 ---
 
@@ -67,7 +67,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 ### B. Vertretung
 
@@ -157,7 +157,7 @@ Die Bewilligung wird jeweils für die Dauer von zehn Jahren erteilt, jedoch län
 
 **3**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 <sup>3</sup> Praktikantinnen und Praktikanten im Sinne von § 7 dürfen nur unter ständiger Aufsicht einer universitären Medizinalperson Tätigkeiten im Sinne von § 3 GesG[^9-1] vornehmen.
 
@@ -253,7 +253,7 @@ Die selbstständig tätige Person meldet der zuständigen Stelle schriftlich:
 
 **5**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 - e. die Meldung von Neueröffnung, Verlegung und Schliessung von Standorten,
 
@@ -347,7 +347,7 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 **7**
 
-- 1\. 7. 20 - 109
+- 1\. 4. 21 - 112
 
 <sup>3</sup> Sie sind im Rahmen ihrer Berufsausübung zur Anwendung von verschreibungspflichtigen und nicht verschreibungspflichtigen Arzneimitteln berechtigt. Mit Bewilligung der Gesundheitsdirektion sind sie befugt, ohne ärztliche Verschreibung an Personen ab 16 Jahren folgende Impfungen vorzunehmen:
 
@@ -357,7 +357,7 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 
 - c. Impfung gegen Hepatitis A und B,
 
-- d. Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis.
+- d. Impfung gegen Diphtherie, Tetanus, Pertussis und Poliomyelitis, e.[^h4AbschnittApothe-2] Impfung gegen Covid-19.
 
 <sup>4</sup> Impfungen durch Apothekerinnen und Apotheker sind unzulässig bei Vorliegen einer a. Kontraindikation,
 
@@ -370,6 +370,7 @@ Für die Beschäftigung von Chiropraktorinnen und Chiropraktoren in Spitälern, 
 <sup>5</sup> Die Bewilligung nach Abs. 3 Satz 2 wird Apothekerinnen und Apothekern erteilt, die über eine genügende fachliche Aus- oder Weiterbildung verfügen.
 
 [^h4AbschnittApothe-1]: Fassung gemäss RRB vom 29. April 2020 (OS 75, 310; ABl 2020-05-08). In Kraft seit 1. Juli 2020.
+[^h4AbschnittApothe-2]: Eingefügt durch RRB vom 3. Februar 2021 (OS 76, 30; ABl 2021-02-12). In Kraft seit 17. Februar 2021.
 
 #### § 25
 
@@ -457,7 +458,7 @@ Vorbehältlich abweichender Zuständigkeitsregelungen sind folgende Stellen für
 
 **9**
 
-- 1\. 7. 20 - 109 § 31. <sup>1</sup> Für Personen, die bei Inkrafttreten dieser Verordnung bereits unselbstständig tätig sind und deren Tätigkeit neu bewilligungspflichtig wird, ist innert eines Jahres nach Inkrafttreten dieser Verordnung eine Bewilligung bei der zuständigen Stelle einzuholen.
+- 1\. 4. 21 - 112 § 31. <sup>1</sup> Für Personen, die bei Inkrafttreten dieser Verordnung bereits unselbstständig tätig sind und deren Tätigkeit neu bewilligungspflichtig wird, ist innert eines Jahres nach Inkrafttreten dieser Verordnung eine Bewilligung bei der zuständigen Stelle einzuholen.
 
 **Übergangsbestimmungen**
 
