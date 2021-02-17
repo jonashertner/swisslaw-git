@@ -4,11 +4,11 @@ title: "Ordonnance du 28 novembre 2014 concernant l'importation, le transit et l
 short: OITE-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: fr
-version: 2018-03-01
+version: 2021-02-18
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20180301/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20180301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/fr"
 
 (OITE-AC)
 
-du 28 novembre 2014 (Etat le 1<sup>er</sup> mars 2018)
+du 28 novembre 2014 (Etat le 18 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -73,7 +73,7 @@ Dans la présente ordonnance, on entend par:
 - c. *vétérinaire autorisé:* un vétérinaire habilité conformément au droit national à effectuer les tâches prévues par la présente ordonnance;
 - d. *importation:* introduction durable ou temporaire d’animaux de compagnie sur le territoire d’importation;
 - e. *territoire d’importation:* le territoire suisse, y compris les enclaves douanières suisses (Samnaun et Sampuoir) et les enclaves douanières étrangères (Principauté de Liechtenstein, Büsingen et Campione);
-- f. *pays tiers:* tout pays à l’exception des Etats membres de l’UE, de l’Islande, de la Norvège, de la Suisse et du Liechtenstein.
+- f. *pays tiers:* tout pays à l’exception des États membres de l’UE, de l’Islande, de la Norvège, de la Suisse et du Liechtenstein.
 
 ## Chapitre 2 Dispositions sur l’importation
 
@@ -123,23 +123,23 @@ Les mesures de protection édictées par l’OSAV en vertu de l’art. 24, al. 3
 
 #### Art. 6
 
-**Classification des Etats et territoires**
+**Classification des États et territoires**
 
 <sup>1</sup>
 
-Afin de réglementer l’importation de chiens, de chats et de furets, les Etats et territoires sont classés en trois catégories:
+Afin de réglementer l’importation de chiens, de chats et de furets, les États et territoires sont classés en trois catégories:
 
-- a. Etats membres de l’UE et autres Etats européens utilisant un passeport pour animal de compagnie reconnu par l’UE;
-- b. Etats et territoires jouissant d’une situation épizootique favorable au regard de la rage, et
-- c. Etats et territoires où la rage urbaine ne peut être exclue.
+- a. États membres de l’UE et autres États européens utilisant un passeport pour animal de compagnie reconnu par l’UE;
+- b. États et territoires jouissant d’une situation épizootique favorable au regard de la rage, et
+- c. États et territoires où la rage urbaine ne peut être exclue.
 
-<sup>2</sup> Les Etats et territoires visés à l’al. 1 sont mentionnés à l’annexe 3.
+<sup>2</sup> Les États et territoires visés à l’al. 1 sont mentionnés à l’annexe 3.
 
 #### Art. 7
 
 **Nombre maximal**
 
-<sup>1</sup> Le nombre maximal autorisé fixé à l’art. 3, al. 1 et 2, et les exigences qui y sont définies en matière de dérogations sont applicables par analogie à l’importation de chiens, de chats et de furets de pays membres de l’UE, de l’Islande et de la Norvège. Si un voyageur emporte plus de cinq animaux, l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les Etats membres de l’UE, l’Islande et la Norvège[^7-1] est applicable à tous les animaux.[^7-2]
+<sup>1</sup> Le nombre maximal autorisé fixé à l’art. 3, al. 1 et 2, et les exigences qui y sont définies en matière de dérogations sont applicables par analogie à l’importation de chiens, de chats et de furets de pays membres de l’UE, de l’Islande et de la Norvège. Si un voyageur emporte plus de cinq animaux, l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège[^7-1] est applicable à tous les animaux.[^7-2]
 
 <sup>2</sup> Aucune autorisation n’est requise pour ces importations.
 
@@ -185,7 +185,7 @@ Il doit être rempli et signé:
 
 <sup>4</sup> En cas d’importation par voie aérienne directe, il est valable jusqu’au jour où il est contrôlé à un aéroport national, mais dix jours au plus à partir de la date d’établissement.
 
-<sup>5</sup> En cas d’importation d’un pays tiers via des Etats membres de l’UE, l’Islande ou la Norvège, le certificat vétérinaire muni d’une attestation de contrôle d’un de ces pays peut être utilisé à la place du passeport pour animal de compagnie. Il est valable quatre mois à partir de la date d’établissement ou jusqu’à la date d’expiration de la vaccination antirabique valable, si cette date tombe plus tôt.
+<sup>5</sup> En cas d’importation d’un pays tiers via des États membres de l’UE, l’Islande ou la Norvège, le certificat vétérinaire muni d’une attestation de contrôle d’un de ces pays peut être utilisé à la place du passeport pour animal de compagnie. Il est valable quatre mois à partir de la date d’établissement ou jusqu’à la date d’expiration de la vaccination antirabique valable, si cette date tombe plus tôt.
 
 [^10-1]: Nouvelle teneur selon l’annexe ch. II 4 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
@@ -210,9 +210,9 @@ La vaccination antirabique est valable à partir:
 
 #### Art. 12
 
-**Animaux en provenance de l’UE ou d’autres Etats européens accompagnés d’un passeport pour animal de compagnie reconnu par l’UE**
+**Animaux en provenance de l’UE ou d’autres États européens accompagnés d’un passeport pour animal de compagnie reconnu par l’UE**
 
-<sup>1</sup> Les chiens, les chats et les furets provenant d’Etats visés à l’art. 6, al. 1, let. a, doivent être accompagnés d’un passeport pour animal de compagnie.
+<sup>1</sup> Les chiens, les chats et les furets provenant d’États visés à l’art. 6, al. 1, let. a, doivent être accompagnés d’un passeport pour animal de compagnie.
 
 <sup>2</sup> Les animaux doivent avoir fait l’objet d’une vaccination antirabique valable. La vaccination doit être inscrite dans le passeport pour animal de compagnie.
 
@@ -227,13 +227,13 @@ Les animaux âgés de moins de 12 semaines sans vaccination antirabique et les a
 
 #### Art. 13
 
-**Animaux provenant d’Etats et territoires jouissant d’une situation épizootique favorable au regard de la rage**
+**Animaux provenant d’États et territoires jouissant d’une situation épizootique favorable au regard de la rage**
 
-<sup>1</sup> Les chiens, les chats et les furets provenant d’Etats et territoires visés à l’art. 6, al. 1, let. b, doivent être accompagnés d’un certificat vétérinaire.
+<sup>1</sup> Les chiens, les chats et les furets provenant d’États et territoires visés à l’art. 6, al. 1, let. b, doivent être accompagnés d’un certificat vétérinaire.
 
-<sup>2</sup> S’ils sont accompagnés d’un passeport pour animal de compagnie valable et s’ils ont fait l’objet d’une vaccination antirabique valable, les animaux provenant du territoire d’importation ou d’un Etat visé à l’art. 6, al. 1, let. a, peuvent être importés ou réimportés sans certificat vétérinaire en provenance d’un Etat ou territoire visé à l’art. 6, al. 1, let. b, dans lequel ils ont séjourné temporairement.
+<sup>2</sup> S’ils sont accompagnés d’un passeport pour animal de compagnie valable et s’ils ont fait l’objet d’une vaccination antirabique valable, les animaux provenant du territoire d’importation ou d’un État visé à l’art. 6, al. 1, let. a, peuvent être importés ou réimportés sans certificat vétérinaire en provenance d’un État ou territoire visé à l’art. 6, al. 1, let. b, dans lequel ils ont séjourné temporairement.
 
-<sup>3</sup> Les chiens, les chats et les furets provenant d’Etats et territoires visés à l’art. 6, al. 1, let. b, doivent avoir fait l’objet d’une vaccination antirabique valable. La vaccination doit être inscrite sur le certificat vétérinaire.
+<sup>3</sup> Les chiens, les chats et les furets provenant d’États et territoires visés à l’art. 6, al. 1, let. b, doivent avoir fait l’objet d’une vaccination antirabique valable. La vaccination doit être inscrite sur le certificat vétérinaire.
 
 <sup>4</sup>
 
@@ -244,9 +244,9 @@ Les animaux âgés de moins de 12 semaines sans vaccination antirabique et les a
 
 #### Art. 14
 
-**Animaux provenant d’Etats et territoires où la rage urbaine ne peut être exclue**
+**Animaux provenant d’États et territoires où la rage urbaine ne peut être exclue**
 
-<sup>1</sup> Les chiens, les chats et les furets provenant d’Etats et territoires visés à l’art. 6, al. 1, let. c, doivent être accompagnés d’un certificat vétérinaire.
+<sup>1</sup> Les chiens, les chats et les furets provenant d’États et territoires visés à l’art. 6, al. 1, let. c, doivent être accompagnés d’un certificat vétérinaire.
 
 <sup>2</sup>
 
@@ -257,30 +257,30 @@ Le certificat vétérinaire doit attester:
 
 <sup>3</sup>
 
-Si des animaux provenant du territoire d’importation ou d’un Etat ou territoire visé à l’art. 6, al. 1, let. a, sont importés d’un Etat ou territoire visé à l’art. 6, al. 1, let. c, le certificat vétérinaire n’est pas requis pour les animaux:
+Si des animaux provenant du territoire d’importation ou d’un État ou territoire visé à l’art. 6, al. 1, let. a, sont importés d’un État ou territoire visé à l’art. 6, al. 1, let. c, le certificat vétérinaire n’est pas requis pour les animaux:
 
-- a. qui ont été vaccinés contre la rage et soumis à un titrage d’anticorps en territoire d’importation ou dans un Etat visé à l’art. 6, al. 1, let. a, et
+- a. qui ont été vaccinés contre la rage et soumis à un titrage d’anticorps en territoire d’importation ou dans un État visé à l’art. 6, al. 1, let. a, et
 - b. dont la vaccination et le titrage d’anticorps sont valables et mentionnés dans le passeport pour animal de compagnie ou attestés spécialement.
 
-<sup>4</sup> Une autorisation de l’OSAV est requise pour l’importation par voie aérienne directe de chiens, de chats et de furets en provenance d’Etats et territoires visés à l’art. 6, al. 1, let. c. Les demandes d’autorisation doivent être adressées à l’OSAV au minimum 21 jours avant l’arrivée des animaux et être accompagnées des documents nécessaires pour vérifier le respect des dispositions sur l’importation.
+<sup>4</sup> Une autorisation de l’OSAV est requise pour l’importation par voie aérienne directe de chiens, de chats et de furets en provenance d’États et territoires visés à l’art. 6, al. 1, let. c. Les demandes d’autorisation doivent être adressées à l’OSAV au minimum 21 jours avant l’arrivée des animaux et être accompagnées des documents nécessaires pour vérifier le respect des dispositions sur l’importation.
 
 [^14-1]: www.osav.admin.ch &gt; Animaux &gt; Voyager avec des animaux de compagnie &gt; Chiens, chats et furets
 
 #### Art. 15
 
-**Titrage d’anticorps pour les animaux provenant d’Etats et territoires où la rage urbaine ne peut être exclue**
+**Titrage d’anticorps pour les animaux provenant d’États et territoires où la rage urbaine ne peut être exclue**
 
-<sup>1</sup> Pour les chiens, les chats et les furets en provenance d’Etats et territoires visés à l’art. 6, al. 1, let. c, le titrage des anticorps neutralisants, qui doit être égal ou supérieur à 0,5 UI/ml, est effectué à partir d’un échantillon de sang prélevé par un vétérinaire autorisé 30 jours ou plus après la vaccination et trois mois avant l’importation.
+<sup>1</sup> Pour les chiens, les chats et les furets en provenance d’États et territoires visés à l’art. 6, al. 1, let. c, le titrage des anticorps neutralisants, qui doit être égal ou supérieur à 0,5 UI/ml, est effectué à partir d’un échantillon de sang prélevé par un vétérinaire autorisé 30 jours ou plus après la vaccination et trois mois avant l’importation.
 
-<sup>2</sup> Le délai de trois mois n’est pas applicable s’il s’agit de la réimportation d’un animal dont le passeport pour animal de compagnie atteste le titrage d’anticorps réalisé avec un résultat positif avant que l’animal quitte le territoire d’importation ou le territoire d’un Etat membre de l’UE, de l’Islande ou de la Norvège.
+<sup>2</sup> Le délai de trois mois n’est pas applicable s’il s’agit de la réimportation d’un animal dont le passeport pour animal de compagnie atteste le titrage d’anticorps réalisé avec un résultat positif avant que l’animal quitte le territoire d’importation ou le territoire d’un État membre de l’UE, de l’Islande ou de la Norvège.
 
 <sup>3</sup> En cas de vaccination de rappel conformément à l’art. 11, al. 2, let. b, le titrage d’anticorps ne doit pas être renouvelé.
 
 <sup>4</sup>
 
-Si des animaux provenant d’Etats ou territoires visés à l’art. 6, al. 1, let. b, sont importés d’Etats ou territoires visés à l’art. 6, al. 1, let. c, le titrage d’anticorps n’est pas requis pour les animaux:
+Si des animaux provenant d’États ou territoires visés à l’art. 6, al. 1, let. b, sont importés d’États ou territoires visés à l’art. 6, al. 1, let. c, le titrage d’anticorps n’est pas requis pour les animaux:
 
-- a. lorsque le détenteur ou la personne autorisée fournit une déclaration conforme aux exigences fixées à l’annexe 4, ch. 5, dont il ou elle est le signataire, établissant que les animaux n’ont pas été en contact avec des animaux d’espèces sensibles à la rage au cours du transit par l’Etat ou le territoire visé à l’art. 6, al. 1, let c, et
+- a. lorsque le détenteur ou la personne autorisée fournit une déclaration conforme aux exigences fixées à l’annexe 4, ch. 5, dont il ou elle est le signataire, établissant que les animaux n’ont pas été en contact avec des animaux d’espèces sensibles à la rage au cours du transit par l’État ou le territoire visé à l’art. 6, al. 1, let c, et
 - b. lorsque les animaux sont restés confinés dans le moyen de transport ou à l’intérieur du périmètre d’un aéroport international.
 
 ### Section 3 Oiseaux
@@ -310,9 +310,9 @@ Les dispositions sur l’importation sont applicables au transit dans les cas su
 
 **Exportation**
 
-<sup>1</sup> Les dispositions sur l’importation et, le cas échéant, d’autres exigences de police des épizooties du pays de destination sont applicables à l’exportation d’animaux de compagnie vers les Etats membres de l’UE, vers l’Islande et vers la Norvège.
+<sup>1</sup> Les dispositions sur l’importation et, le cas échéant, d’autres exigences de police des épizooties du pays de destination sont applicables à l’exportation d’animaux de compagnie vers les États membres de l’UE, vers l’Islande et vers la Norvège.
 
-<sup>2</sup> Les exigences de police des épizooties du pays de destination s’appliquent à l’exportation vers d’autres Etats.
+<sup>2</sup> Les exigences de police des épizooties du pays de destination s’appliquent à l’exportation vers d’autres États.
 
 ## Chapitre 4 Obligations lors du passage de la frontière
 
@@ -370,7 +370,7 @@ L’administration des douanes contrôle le respect des dispositions sur l’imp
 
 **Inscription du contrôle**
 
-L’administration des douanes inscrit le contrôle dans le passeport pour animal de compagnie ou le certificat vétérinaire, lorsque les chiens, les chats et les furets sont importés ou transitent en provenance d’Etats et territoires selon l’art. 6, al. 1, let. b et c.
+L’administration des douanes inscrit le contrôle dans le passeport pour animal de compagnie ou le certificat vétérinaire, lorsque les chiens, les chats et les furets sont importés ou transitent en provenance d’États et territoires selon l’art. 6, al. 1, let. b et c.
 
 #### Art. 26
 
@@ -439,7 +439,7 @@ Le vétérinaire officiel du canton ou du Service vétérinaire de frontière an
 
 <sup>3</sup> L’administration des douanes notifie et exécute, à la demande de l’OSAV ou des autorités cantonales compétentes, les mandats de répression et les prononcés pénaux pour les infractions ayant fait l’objet d’une enquête par l’administration des douanes.
 
-## Chapitre 7 Emoluments et prise en charge des coûts
+## Chapitre 7 Émoluments et prise en charge des coûts
 
 #### Art. 32
 
@@ -461,7 +461,7 @@ Le vétérinaire officiel du canton ou du Service vétérinaire de frontière an
 
 <sup>3</sup> Les émoluments perçus pour la fabrication et la distribution du passeport pour animal de compagnie sont régis par l’ordonnance du 23 novembre 2005 sur les émoluments des publications[^33-1]. Ils sont à la charge des vétérinaires.
 
-[^33-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711). A partir du 1<sup>er</sup> janv. 2015: O du 19 nov. 2014 sur les émoluments relatifs aux publications ([RO 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)).
+[^33-1]: [[RO 2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741). [RO 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)Art. 8]. V. actuellement l’O du 19 nov. 2014 sur les émoluments relatifs aux publications ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
 
 #### Art. 34
 
@@ -514,120 +514,117 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 La présente ordonnance entre en vigueur le 29 décembre 2014.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 2)
 
 ## Liste des animaux de compagnie
 
-La liste des animaux de compagnie applicable est celle définie dans l’annexe I du règlement (CE) n<sup>o</sup> 576/2013[^annex1-lvlu1-1], qui prévoit les animaux de compagnie suivants:
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-- 1\. les chiens;
-- 2\. les chats;
-- 3\. les furets;
-- 4\. les lapins domestiques;
-- 5\. les rongeurs;
-- 6\. les oiseaux, excepté les volailles selon la directive 2009/158/CE[^annex1-lvlu1-2];
-- 7\. les reptiles;
-- 8\. les amphibiens;
-- 9\. les poissons d’ornement et les animaux aquatiques ornementaux;
-- 10\. les invertébrés, excepté les abeilles et les crustacés.
+- 1\. Chiens;
+- 2\. Chats;
+- 3\. Furets;
+- 4\. Lapins domestiques;
+- 5\. Rongeurs;
+- 6\. Oiseaux, excepté poules, dindes, pintades, canards, oies, cailles, pigeons, faisans, perdrix et oiseaux coureurs (ratites);
+- 7\. Reptiles;
+- 8\. Amphibiens;
+- 9\. Poissons d’ornement et animaux aquatiques ornementaux;
+- 10\. Invertébrés, excepté abeilles et crustacés.
 
-[^annex1-lvlu1-1]: R (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil du 12 juin 2013 relatif aux mouvements non commerciaux d’animaux de compagnie et abrogeant le R (CE) n<sup>o</sup> 998/2003, JO L 178 du 28.6.2013, p. 1
-[^annex1-lvlu1-2]: Directive 2009/158/CE du Conseil du 30 nov. 2009 relative aux conditions de police sanitaire régissant les échanges intracommunautaires et les importations en provenance des pays tiers de volailles et d’œufs à couver, JO L 343 du 22.12.2009, p. 74; modifiée en dernier lieu par la D d’exécution 2011/879/UE, JO L 343 du 23.12.2011, p. 105.
+Annexe 2[^t-2]
 
-Annexe 2*[^t-1]*
+[^t-2]: Abrogée par l’annexe ch. II 4 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-[^t-1]: Abrogée par l’annexe ch. II 4 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-
-Annexe 3*[^t-2]*
+Annexe 3*[^t-3]*
 
 (art. 6, al. 2)
 
-## Classification des Etats et territoires
+## Classification des États et territoires
 
-[^t-2]: Mise à jour selon le ch. I des O de l’OSAV du 3 mars 2015 ([RO 2015 799](https://fedlex.data.admin.ch/eli/oc/2015/149)) et du 9 juin 2016, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2016 2273](https://fedlex.data.admin.ch/eli/oc/2016/364)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-La liste des Etats et territoires applicable est celle définie dans l’annexe II du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex3-lvlu1-1], qui prévoit le classement suivant des pays:
+La classification suivante des États et territoires est applicable:
 
-a. Les Etats suivants:
+a. les États membres de l’UE et autres États européens utilisant un passeport pour animal de compagnie reconnu par l’UE:
 
 - 1\.
 
-  les Etats membres de l’UE, y compris:
+  les États membres de l’UE, y compris:
 
   - 1\.1 Açores et île de Madère
   - 1\.2 Baléares, îles Canaries, Ceuta et Melilla
-  - 1\.3 Iles Féroé
+  - 1\.3 Îles Féroé
   - 1\.4 Guyane française, Guadeloupe, Martinique, Mayotte et Réunion
-  - 1\.5 Gibraltar
-  - 1\.6 Groenland, et
+  - 1\.5 Groenland
 
 - 2\.
 
-  les autres Etats européens suivants utilisant un passeport pour animal de compagnie reconnu par l’UE:
+  les autres États et territoires européens suivants utilisant un passeport pour animal de compagnie reconnu par l’UE:
 
   - 2\.1 Andorre
-  - 2\.2 Islande
-  - 2\.3 Monaco
-  - 2\.4 Norvège
-  - 2\.5 Saint-Marin
-  - 2\.6 Cité du Vatican
+  - 2\.2 Gibraltar
+  - 2\.3 Islande
+  - 2\.4 Monaco
+  - 2\.5 Irlande du Nord
+  - 2\.6 Norvège
+  - 2\.7 Saint-Marin
+  - 2\.8 Cité du Vatican
 
-b. Les autres Etats et territoires suivants jouissant d’une situation épizootique favorable au regard de la rage:
+b. les autres États et territoires suivants jouissant d’une situation épizootique favorable au regard de la rage:
 
 - 1\. Antigua-et-Barbuda
 - 2\. Argentine
 - 3\. Aruba
-- 4\. Ile de l’Ascension
+- 4\. Ascension
 - 5\. Australie
 - 6\. Bahreïn
 - 7\. Barbade
 - 8\. Bélarus
 - 9\. Bermudes
-- 10\. Bonaire
+- 10\. Bonaire, Saint-Eustache et Saba
 - 11\. Bosnie et Herzégovine
-- 12\. Iles Vierges britanniques
+- 12\. Îles Vierges britanniques
 - 13\. Chili
 - 14\. Curaçao
-- 15\. Iles Malouines
+- 15\. Îles Malouines
 - 16\. Fidji
 - 17\. Polynésie française
-- 18\. Hong-Kong
-- 19\. Jamaïque
-- 20\. Japon
-- 21\. Iles Caïmans
-- 22\. Canada
-- 23\. Malaisie
-- 24\. Maurice
-- 25\. …
-- 26\. Macédoine
-- 27\. Mexique
-- 28\. Montserrat
-- 29\. Nouvelle-Calédonie
-- 30\. Nouvelle-Zélande
-- 31\. Russie
-- 32\. Saba
-- 33\. Singapour
-- 34\. Saint-Eustache
+- 18\. Guernesey
+- 19\. HongKong
+- 20\. Île de Man
+- 21\. Jamaïque
+- 22\. Japon
+- 23\. Jersey
+- 24\. Îles Caïmans
+- 25\. Canada
+- 26\. Malaisie
+- 27\. Maurice
+- 28\. Mexique
+- 29\. Montserrat
+- 30\. Nouvelle-Calédonie
+- 31\. Nouvelle-Zélande
+- 32\. Macédoine du Nord
+- 33\. Russie
+- 34\. Singapour
 - 35\. Sainte-Hélène
 - 36\. Saint-Kitts-et-Nevis
 - 37\. Sainte-Lucie
-- 38\. Sint-Maarten
+- 38\. Sint Maarten
 - 39\. Saint-Pierre-et-Miquelon
 - 40\. Saint-Vincent-et-les-Grenadines
 - 41\. Taïwan (Taipei chinois)
 - 42\. Trinité-et-Tobago
 - 43\. Vanuatu
-- 44\. Emirats arabes unis
-- 45\. Etats-Unis (y compris Guam, îles Mariannes du Nord, îles Vierges américaines, Porto Rico et Samoa américaines)
-- 46\. Iles Wallis-et-Futuna
+- 44\. Émirats arabes unis
+- 45\. États-Unis (y compris Guam, îles Mariannes du Nord, îles Vierges américaines, Porto Rico et Samoa américaines)
+- 46\. Royaume-Uni excepté l'Irlande du Nord
+- 47\. Wallis-et-Futuna
 
-c. Les Etats et territoires suivants où la rage urbaine ne peut être exclue:
+c. les États et territoires suivants où la rage urbaine ne peut être exclue:
 
-Les Etats et territoires qui ne sont pas énumérés aux let. a et b.
-
-[^annex3-lvlu1-1]: Règlement d’exécution (UE) n<sup>o</sup> 577/2013 de la Commission du 28 juin 2013 concernant les modèles de documents d’identification relatifs aux mouvements non commerciaux de chiens, de chats et de furets, l’établissement de listes de territoires et de pays tiers ainsi que les exigences en matière de format, de présentation et de langues applicables aux déclarations attestant la conformité à certaines conditions prévues par le règlement (UE) n<sup>o</sup> 576/2013 du Parlement européen et du Conseil, JO L 178 du 28.6.2013, p. 109; modifié en dernier lieu par le règlement d’exécution (UE) 2016/561, JO L 96 du 12.4.2016, p. 26.
+les États et territoires qui ne sont pas énumérés aux let. a et b.
 
 Annexe 4
 
@@ -647,16 +644,16 @@ Annexe 4
 [^annex4-lvlu1-lvl1-1]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 [^annex4-lvlu1-lvl1-2]: Cette norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
 
-### 2. Passeport pour animaux provenant d’Etats visés à l’art. 6, al. 1, let. a
+### 2. Passeport pour animaux provenant d’États visés à l’art. 6, al. 1, let. a
 
-- 2\.1 Le passeport pour animal de compagnie destiné aux chiens, aux chats et aux furets en provenance d’Etats visés à l’art. 6, al. 1, let. a, doit être conforme aux exigences fixées à l’annexe III du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex4-lvlu1-lvl2-1].
-- 2\.2 Dans les passeports établis par les Etats qui ne sont pas membres de l’UE, l’emblème de l’UE et les indications concernant l’UE doivent être remplacés par ceux de l’Etat en question.
+- 2\.1 Le passeport pour animal de compagnie destiné aux chiens, aux chats et aux furets en provenance d’États visés à l’art. 6, al. 1, let. a, doit être conforme aux exigences fixées à l’annexe III du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex4-lvlu1-lvl2-1].
+- 2\.2 Dans les passeports établis par les États qui ne sont pas membres de l’UE, l’emblème de l’UE et les indications concernant l’UE doivent être remplacés par ceux de l’État en question.
 
 [^annex4-lvlu1-lvl2-1]: Voir note de bas de page concernant l’annexe 3.
 
-### 3. Certificat vétérinaire pour animaux provenant d’Etats et territoires visés à l’art. 6, al. 1, let. b et c
+### 3. Certificat vétérinaire pour animaux provenant d’États et territoires visés à l’art. 6, al. 1, let. b et c
 
-Le certificat vétérinaire destiné aux animaux en provenance d’Etats et territoires visés à l’art. 6, al. 1, let. b et c, doit être conforme aux exigences fixées à l’annexe IV du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex4-lvlu1-lvl3-1].
+Le certificat vétérinaire destiné aux animaux en provenance d’États et territoires visés à l’art. 6, al. 1, let. b et c, doit être conforme aux exigences fixées à l’annexe IV du règlement d’exécution (UE) n<sup>o</sup> 577/2013[^annex4-lvlu1-lvl3-1].
 
 [^annex4-lvlu1-lvl3-1]: Voir note de bas de page concernant l’annexe 3.
 
@@ -674,7 +671,7 @@ Le certificat vétérinaire destiné aux animaux en provenance d’Etats et terr
   Exigences auxquelles doit satisfaire le vaccin au moment de l’administration:
 
   - 4\.2.1 en Suisse: être autorisé conformément à la loi du 15 décembre 2000 sur les produits thérapeutiques[^annex4-lvlu1-lvl4-1];
-  - 4\.2.2 dans un Etat membre de l’UE: avoir obtenu une autorisation de mise sur le marché conforme à la législation européenne;
+  - 4\.2.2 dans un État membre de l’UE: avoir obtenu une autorisation de mise sur le marché conforme à la législation européenne;
   - 4\.2.3 dans un pays tiers: respecter les conditions mentionnées dans les chap. 1.1.8 et 2.1.13 du Manuel des tests de diagnostic et des vaccins pour les animaux terrestres[^annex4-lvlu1-lvl4-2] de l’Organisation mondiale de la santé animale.
 
 [^annex4-lvlu1-lvl4-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
@@ -686,15 +683,17 @@ Les déclarations visées aux art. 12, al. 3, let. a, 13, al. 4, let. a, et 15, 
 
 [^annex4-lvlu1-lvl5-1]: Voir note de bas de page concernant l’annexe 3.
 
-Annexe 5
+Annexe 5*[^t-4]*
 
 (art. 16, al. 1)
 
 ## Mesures à prendre en relation avec le certificat vétérinaire avant l’importation d’oiseaux
 
+[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+
 Sont applicables les conditions fixées dans les annexes II et III de la décision 2007/25/CE[^annex5-lvlu1-1].
 
-[^annex5-lvlu1-1]: D 2007/25/CE de la Commission du 22 déc. 2006 relative à certaines mesures de protection en relation avec l’influenza aviaire hautement pathogène et l’introduction dans la Communauté d’oiseaux de compagnie accompagnant leur propriétaire, JO L 8 du 13.1.2007, p. 29; modifiée en dernier lieu par la D d’exécution n<sup>o</sup> 2013/635/UE, JO L 293 du 5.11.2013, p. 40.
+[^annex5-lvlu1-1]: Décision 2007/25/CE de la Commission du 22 décembre 2006 relative à certaines mesures de protection en relation avec l’influenza aviaire hautement pathogène et l’introduction dans la Communauté d’oiseaux de compagnie accompagnant leur propriétaire, JO L 8 du 13.1.2007, p. 29; modifiée en dernier lieu par la décision d’exécution (UE) 2020/2107, JO L 425 du 16.12.2020, p. 103
 
 Annexe 6
 
@@ -710,7 +709,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-…[^annex6-lvlu1-2]
+...[^annex6-lvlu1-2]
 
 [^annex6-lvlu1-1]: [[RO 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362), [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595), [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338), [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454)[3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 3, [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)annexe ch. 4 [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
 [^annex6-lvlu1-2]: Les mod. peuvent être consultées au [RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755).

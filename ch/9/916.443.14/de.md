@@ -4,11 +4,11 @@ title: "Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-Ht
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: de
-version: 2018-03-01
+version: 2021-02-18
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20180301/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20180301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/de"
 
 (EDAV-Ht)
 
-vom 28. November 2014 (Stand am 1. März 2018)
+vom 28. November 2014 (Stand am 18. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -461,7 +461,7 @@ Die amtliche Tierärztin oder der amtliche Tierarzt des Kantons oder des grenzti
 
 <sup>3</sup> Die Gebühren für die Herstellung und den Vertrieb des Heimtierpasses richten sich nach der Gebührenverordnung Publikationen vom 23. November 2005[^33-1]. Sie werden den Tierärztinnen und Tierärzten auferlegt.
 
-[^33-1]: [SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711). Ab dem 1. Jan. 2015: Gebührenverordnung Publikationen vom 19. Nov. 2014 ([AS 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)).
+[^33-1]: [[AS 2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741). [AS 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)Art. 8]. Siehe heute: die Gebührenverordnung Publikationen vom 19. Nov. 2014 ([SR 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
 
 #### Art. 34
 
@@ -514,11 +514,13 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 6 geregelt.
 
 Diese Verordnung tritt am 29. Dezember 2014 in Kraft.
 
-Anhang 1
+Anhang 1*[^t-1]*
 
 (Art. 2)
 
 ## Liste der Heimtiere
+
+[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
 Es gilt Anhang I der Verordnung (EG) Nr. 576/2013[^annex1-lvlu1-1], der folgende Heimtiere vorsieht:
 
@@ -527,30 +529,29 @@ Es gilt Anhang I der Verordnung (EG) Nr. 576/2013[^annex1-lvlu1-1], der folgende
 - 3\. Frettchen;
 - 4\. Hauskaninchen;
 - 5\. Nagetiere;
-- 6\. Vögel, ausgenommen Geflügel im Sinne der Richtlinie 2009/158/EG[^annex1-lvlu1-2];
+- 6\. Vögel, ausgenommen Hühner, Truthühner, Perlhühner, Enten, Gänse, Wachteln, Tauben, Fasane, Rebhühner und Laufvögel (*Ratitae*);
 - 7\. Reptilien;
 - 8\. Amphibien;
 - 9\. Zierfische und für Zierzwecke gehaltene Wassertiere;
 - 10\. wirbellose Tiere, ausgenommen Bienen und Krustentiere.
 
 [^annex1-lvlu1-1]: Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003, Fassung gemäss ABl. L 178 vom 28.6.2013, S. 1.
-[^annex1-lvlu1-2]: Richtlinie 2009/158/EG des Rates vom 30. Nov. 2009 über die tierseuchenrechtlichen Bedingungen für den innergemeinschaftlichen Handel mit Geflügel und Bruteiern sowie für ihre Einfuhr aus Drittländern, ABl. L 343 vom 22.12.2009, S. 74; zuletzt geändert durch Durchführungsbeschluss 2011/879/EU, ABl. L 343 vom 23.12.2011, S. 105.
 
-Anhang 2*[^t-1]*
+Anhang 2*[^t-2]*
 
-[^t-1]: Aufgehoben durch Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^t-2]: Aufgehoben durch Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-Anhang 3*[^t-2]*
+Anhang 3*[^t-3]*
 
 (Art. 6 Abs. 2)
 
 ## Einteilung der Staaten und Territorien
 
-[^t-2]: Bereinigt gemäss Ziff. I der V des BLV vom 3. März 2015 ([AS 2015 799](https://fedlex.data.admin.ch/eli/oc/2015/149)) und vom 9. Juni 2016, in Kraft seit 1. Sept. 2016 ([AS 2016 2273](https://fedlex.data.admin.ch/eli/oc/2016/364)).
+[^t-3]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-Es gilt Anhang II der Durchführungsverordnung (EU) Nr. 577/2013[^annex3-lvlu1-1], der folgende Einteilung der Staaten und Territorien vorsieht:
+Es gilt die folgende Einteilung der Staaten und Territorien:
 
-a. die folgenden Staaten:
+a. EU-Mitgliedstaaten und weitere europäische Staaten und Territorien, die einen von der EU anerkannten Heimtierpass verwenden:
 
 - 1\.
 
@@ -560,19 +561,20 @@ a. die folgenden Staaten:
   - 1\.2 Balearen, Kanarische Inseln, Ceuta und Melilla
   - 1\.3 Färöer
   - 1\.4 Französisch-Guayana, Guadeloupe, Martinique, Mayotte und Réunion
-  - 1\.5 Gibraltar
-  - 1\.6 Grönland, und
+  - 1\.5 Grönland
 
 - 2\.
 
-  die folgenden weiteren europäischen Staaten, die einen von der EU anerkannten Heimtierpass verwenden:
+  die folgenden weiteren europäischen Staaten und Territorien, die einen von der EU anerkannten Heimtierpass verwenden:
 
   - 2\.1 Andorra
-  - 2\.2 Island
-  - 2\.3 Monaco
-  - 2\.4 Norwegen
-  - 2\.5 San Marino
-  - 2\.6 Vatikanstadt
+  - 2\.2 Gibraltar
+  - 2\.3 Island
+  - 2\.4 Monaco
+  - 2\.5 Nordirland
+  - 2\.6 Norwegen
+  - 2\.7 San Marino
+  - 2\.8 Vatikanstadt
 
 b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich Tollwut:
 
@@ -585,7 +587,7 @@ b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich T
 - 7\. Barbados
 - 8\. Belarus
 - 9\. Bermuda
-- 10\. Bonaire
+- 10\. Bonaire, St. Eustatius und Saba
 - 11\. Bosnien und Herzegowina
 - 12\. Britische Jungferninseln
 - 13\. Chile
@@ -593,23 +595,23 @@ b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich T
 - 15\. Falklandinseln
 - 16\. Fidschi
 - 17\. Französisch-Polynesien
-- 18\. Hongkong
-- 19\. Jamaika
-- 20\. Japan
-- 21\. Kaimaninseln
-- 22\. Kanada
-- 23\. Malaysia
-- 24\. Mauritius
-- 25\. …
-- 26\. Mazedonien
-- 27\. Mexiko
-- 28\. Montserrat
-- 29\. Neukaledonien
-- 30\. Neuseeland
-- 31\. Russland
-- 32\. Saba
-- 33\. Singapur
-- 34\. St. Eustatius
+- 18\. Guernsey
+- 19\. Hongkong
+- 20\. Insel Man
+- 21\. Jamaika
+- 22\. Japan
+- 23\. Jersey
+- 24\. Kaimaninseln
+- 25\. Kanada
+- 26\. Malaysia
+- 27\. Mauritius
+- 28\. Mexiko
+- 29\. Montserrat
+- 30\. Neukaledonien
+- 31\. Neuseeland
+- 32\. Nordmazedonien
+- 33\. Russland
+- 34\. Singapur
 - 35\. St. Helena
 - 36\. St. Kitts und Nevis
 - 37\. St. Lucia
@@ -621,13 +623,12 @@ b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich T
 - 43\. Vanuatu
 - 44\. Vereinigte Arabische Emirate
 - 45\. Vereinigte Staaten (einschliesslich Amerikanisch-Samoa, Amerikanische Jungferninseln, Guam, Nördliche Marianen und Puerto Rico)
-- 46\. Wallis und Futuna
+- 46\. Vereinigtes Königreich ohne Nordirland
+- 47\. Wallis und Futuna
 
 c. die folgenden Staaten und Territorien, in denen urbane Tollwut nicht ausgeschlossen werden kann:
 
 Alle Staaten und Territorien, die nicht in den Buchstaben a und b aufgelistet sind.
-
-[^annex3-lvlu1-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates, ABl. L 178 vom 28.6.2013, S. 109; zuletzt geändert durch Durchführungsverordnung (EU) 2016/561, ABl. L 96 vom 12.4.2016, S. 26.
 
 Anhang 4
 
@@ -689,15 +690,17 @@ Für die Erklärungen nach den Artikeln 12 Absatz 3 Buchstabe a, 13 Absatz 4 Buc
 
 [^annex4-lvlu1-lvl5-1]: Siehe Fussnote zu Anhang 3.
 
-Anhang 5
+Anhang 5*[^t-4]*
 
 (Art. 16 Abs. 1)
 
 ## Massnahmen vor der Einfuhr von Vögeln in Bezug auf die Veterinärbescheinigung
 
-Es gelten die Anforderungen nach den Anhängen II und III der Entscheidung 2007/25/EG[^annex5-lvlu1-1].
+[^t-4]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-[^annex5-lvlu1-1]: Entscheidung 2007/25/EG der Kommission vom 22. Dez. 2006 hinsichtlich bestimmter Massnahmen zum Schutz gegen die hoch pathogene Aviäre Influenza und zur Regelung der Verbringung von Heimvögeln, die von ihren Besitzern aus Drittländern mitgeführt werden, ABl. L 8 vom 13.1.2007, S. 29; zuletzt geändert durch Durchführungsbeschluss 2013/635/EU, ABl. L 293 vom 5.11.2013, S. 40.
+Es gelten die Anforderungen nach den Anhängen II und III der Entscheidung 2007/ 25/EG[^annex5-lvlu1-1].
+
+[^annex5-lvlu1-1]: Entscheidung 2007/25/EG der Kommission vom 22. Dez. 2006 hinsichtlich bestimmter Massnahmen zum Schutz gegen die hoch pathogene Aviäre Influenza und zur Regelung der Verbringung von Heimvögeln, die von ihren Besitzern aus Drittländern mitgeführt werden, ABl. L 8 vom 13.1.2007, S. 29; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2107, ABl. L 425 vom 16.12.2020, S 103.
 
 Anhang 6
 
@@ -713,7 +716,7 @@ II
 
 Die nachstehenden Erlasse werden wie folgt geändert:
 
-…[^annex6-lvlu1-2]
+...[^annex6-lvlu1-2]
 
 [^annex6-lvlu1-1]: [[AS 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362), [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595), [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338), [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454)[3111](https://fedlex.data.admin.ch/eli/oc/2013/601)Anhang Ziff. II 3, [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)Anhang Ziff. 4 [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
 [^annex6-lvlu1-2]: Die Änderungen können unter [AS 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)konsultiert werden.

@@ -4,11 +4,11 @@ title: "Ordinanza del 28 novembre 2014 concernente l'importazione, il transito e
 short: OITEAc
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: it
-version: 2018-03-01
+version: 2021-02-18
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20180301/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20180301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20210218/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20210218-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20210218/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20180301/it"
 
 (OITEAc)
 
-del 28 novembre 2014 (Stato 1° marzo 2018)
+del 28 novembre 2014 (Stato 18 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -58,7 +58,7 @@ Sono fatte salve le seguenti ordinanze:
 
 [^1-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 [^1-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^1-3]: Nuovo testo giusta il n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^1-3]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^1-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^1-5]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
@@ -103,7 +103,7 @@ L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) autorizz
 <sup>4</sup> L’autorizzazione va portata con sé al momento dell’entrata nel territorio d’importazione e presentata spontaneamente agli organi di controllo.
 
 [^3-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^3-2]: Nuovo testo giusta il n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^3-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 4
 
@@ -144,7 +144,7 @@ Al fine di disciplinare l’importazione di cani, gatti e furetti, gli Stati e i
 <sup>2</sup> Non è richiesta nessuna autorizzazione.
 
 [^7-1]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^7-2]: Nuovo testo giusta il n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^7-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 8
 
@@ -187,7 +187,7 @@ Esso deve essere compilato e firmato da:
 
 <sup>5</sup> In caso d’importazione da un Paese terzo attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia, al posto di un passaporto per animali da compagnia può essere utilizzato il certificato veterinario munito del visto di controllo apposto da uno di tali Stati. Questo è valido per una durata di quattro mesi dalla data di rilascio o fino alla data di scadenza della vaccinazione antirabbica valida, a seconda di quale data sia precedente.
 
-[^10-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^10-1]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 #### Art. 11
 
@@ -393,7 +393,7 @@ Per cani, gatti e furetti importati da Paesi terzi per via aerea diretta, l’Am
 
 Per gli uccelli provenienti da Paesi terzi, il servizio veterinario di confine esegue un controllo veterinario di confine completo secondo l’ordinanza del 18 novembre 2015[^27-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
 
-[^27-1]: Nuovo testo giusta il n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^27-1]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 [^27-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 ### Sezione 4: Misure
@@ -461,7 +461,7 @@ Il veterinario ufficiale del Cantone o del servizio veterinario di confine notif
 
 <sup>3</sup> Le tasse per l’emissione e la distribuzione del passaporto per animali da compagnia sono rette dall’ordinanza del 23 novembre 2005[^33-1] sugli emolumenti per le pubblicazioni. Esse sono addossate ai veterinari.
 
-[^33-1]: [RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711). A partire del 1° gen. 2015: l’O del 19 nov. 2014 ([RU 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)).
+[^33-1]: [[RU 2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741). [RU 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)art. 8].Vedi ora l’O del 19 nov. 2014 ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
 
 #### Art. 34
 
@@ -514,45 +514,42 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 La presente ordinanza entra in vigore il 29 dicembre 2014.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 2)
 
 ## Elenco degli animali da compagnia
 
-Si applica l’allegato I del regolamento (CE) n. 576/2013[^annex1-lvlu1-1] che prevede gli animali da compagnia seguenti:
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
 - 1\. cani;
 - 2\. gatti;
 - 3\. furetti;
 - 4\. conigli domestici;
 - 5\. roditori;
-- 6\. uccelli, a eccezione del pollame ai sensi della direttiva 2009/158/CE[^annex1-lvlu1-2];
+- 6\. uccelli, ad eccezione di galline, tacchini, faraone, anatre, oche, quaglie, piccioni, fagiani, pernici, e uccelli corridori (ratiti);
 - 7\. rettili;
 - 8\. anfibi;
 - 9\. pesci d’acquario e animali acquatici tenuti per scopi ornamentali;
-- 10\. animali invertebrati, a eccezione di api e crostacei.
+- 10\. animali invertebrati, ad eccezione di api e crostacei.
 
-[^annex1-lvlu1-1]: Regolamento (UE) n. 576/2013 del Parlamento europeo e del Consiglio, del 12 giugno 2013, sui movimenti a carattere non commerciale di animali da compagnia e che abroga il regolamento (CE) n. 998/2003, versione della GU L 178 del 28.6.2013, pag. 1.
-[^annex1-lvlu1-2]: Direttiva 2009/158/CE del Consiglio, del 30 novembre 2009, relativa alle norme di polizia sanitaria per gli scambi intracomunitari e le importazioni in provenienza dai paesi terzi di pollame e uova da cova, GU L 343 del 22.12.2009, pag. 74; modificato da ultimo dalla decisione di esecuzione 2011/879/UE, GU L 343 del 23.12.2011, pag. 105.
-
-Allegato 2*[^t-1]*
+Allegato 2*[^t-2]*
 
 ## ...
 
-[^t-1]: Abrogato dal n. II 4 dell’all. all’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^t-2]: Abrogato dall’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-Allegato 3*[^t-2]*
+Allegato 3*[^t-3]*
 
 (art. 6 cpv. 2)
 
 ## Suddivisione degli Stati e dei territori
 
-[^t-2]: Aggiornato dal n. I delle O dell’USAV del 3 mar. 2015 ([RU 2015 799](https://fedlex.data.admin.ch/eli/oc/2015/149)) e del 9 giu. 2016, in vigore dal 1° set. 2016 ([RU 2016 2273](https://fedlex.data.admin.ch/eli/oc/2016/364)).
+[^t-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-Si applica l’allegato II del regolamento di esecuzione (UE) n. 577/2013[^annex3-lvlu1-1] che prevede la seguente suddivisione degli Stati e dei territori:
+Si applica la seguente suddivisione degli Stati e dei territori:
 
-a. i seguenti Stati:
+a. Stati membri dell’UE e altri Stati europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE:
 
 - 1\.
 
@@ -562,19 +559,20 @@ a. i seguenti Stati:
   - 1\.2 Baleari, Isole Canarie, Ceuta e Melilla
   - 1\.3 Faeröer
   - 1\.4 Guyana Francese, Guadalupa, Martinica, Mayotte e Riunione
-  - 1\.5 Gibilterra
-  - 1\.6 Groenlandia, e
+  - 1\.5 Groenlandia
 
 - 2\.
 
-  i seguenti altri Stati europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE:
+  i seguenti altri Stati e territori europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE:
 
   - 2\.1 Andorra
-  - 2\.2 Islanda
-  - 2\.3 Monaco
-  - 2\.4 Norvegia
-  - 2\.5 San Marino
-  - 2\.6 Città del Vaticano
+  - 2\.2 Gibilterra
+  - 2\.3 Islanda
+  - 2\.4 Monaco
+  - 2\.5 Irlanda del Nord
+  - 2\.6 Norvegia
+  - 2\.7 San Marino
+  - 2\.8 Città del Vaticano
 
 b. i seguenti Stati e territori con situazione epizooziologica favorevole riguardo alla rabbia:
 
@@ -585,36 +583,36 @@ b. i seguenti Stati e territori con situazione epizooziologica favorevole riguar
 - 5\. Australia
 - 6\. Bahrein
 - 7\. Barbados
-- 8\. Bielorussia
+- 8\. Belarus
 - 9\. Bermuda
-- 10\. Bonaire
-- 11\. Bosnia ed Erzegovina
+- 10\. Bonaire, Sint Eustatius e Saba
+- 11\. Bosnia e Erzegovina
 - 12\. Isole Vergini Britanniche
 - 13\. Cile
 - 14\. Curaçao
 - 15\. Isole Falkland
 - 16\. Figi
-- 17\. Polinesia Francese
-- 18\. Hong Kong
-- 19\. Giamaica
-- 20\. Giappone
-- 21\. Isole Cayman
-- 22\. Canada
-- 23\. Malaysia
-- 24\. Maurizio
-- 25\. …
-- 26\. Macedonia
-- 27\. Messico
-- 28\. Montserrat
-- 29\. Nuova Caledonia
-- 30\. Nuova Zelanda
-- 31\. Russia
-- 32\. Saba
-- 33\. Singapore
-- 34\. Sant’Eustachio
+- 17\. Polinesia francese
+- 18\. Guernsey
+- 19\. Hong Kong
+- 20\. Isola di Man
+- 21\. Giamaica
+- 22\. Giappone
+- 23\. Jersey
+- 24\. Isole Cayman
+- 25\. Canada
+- 26\. Malaysia
+- 27\. Maurizio
+- 28\. Messico
+- 29\. Montserrat
+- 30\. Nuova Caledonia
+- 31\. Nuova Zelanda
+- 32\. Macedonia del Nord
+- 33\. Russia
+- 34\. Singapore
 - 35\. Sant’Elena
 - 36\. Saint Kitts e Nevis
-- 37\. Santa Lucia
+- 37\. Saint Lucia
 - 38\. Sint Maarten
 - 39\. Saint Pierre e Miquelon
 - 40\. Saint Vincent e Grenadine
@@ -623,13 +621,12 @@ b. i seguenti Stati e territori con situazione epizooziologica favorevole riguar
 - 43\. Vanuatu
 - 44\. Emirati Arabi Uniti
 - 45\. Stati Uniti d’America (inclusi Guam, Isole Vergini Americane, Marianne settentrionali, Porto Rico e Samoa americane)
-- 46\. Wallis e Futuna
+- 46\. Regno Unito eccetto l’Irlanda del Nord
+- 47\. Wallis e Futuna
 
 c. i seguenti Stati e territori in cui la presenza di rabbia urbana non può essere esclusa:
 
-Tutti gli Stati e i territori che non sono elencati alle lettere a e b.
-
-[^annex3-lvlu1-1]: Regolamento di esecuzione (UE) n. 577/2013 della Commissione, del 28 giugno 2013, relativo ai modelli dei documenti di identificazione per i movimenti a carattere non commerciale di cani, gatti e furetti, alla definizione di elenchi di territori e paesi terzi, e ai requisiti relativi al formato, all’aspetto e alle lingue delle dichiarazioni attestanti il rispetto di determinate condizioni di cui al regolamento (UE) n. 576/2013 del Parlamento europeo e del Consiglio, GU L 178 del 28.6.2013, pag. 109; modificato da ultimo dal regolamento di esecuzione (UE) 2016/561, GU L 96 del 12.4.2016, pag. 26.
+tutti gli Stati e i territori che non sono elencati nelle lettere a e b.
 
 Allegato 4
 
@@ -657,13 +654,13 @@ Allegato 4
 - 2\.1 Il passaporto per animali da compagnia destinato agli animali provenienti da Stati di cui all’articolo 6 capoverso 1 lettera a deve soddisfare i requisiti di cui all’allegato III del regolamento di esecuzione (UE) n. 577/2013[^annex4-lvlu1-lvl2-1].
 - 2\.2 Nei passaporti per animali da compagnia rilasciati da Stati non comunitari, l’emblema dell’UE e i dati che rinviano a essa devono essere sostituiti dai dati concernenti il Paese in questione.
 
-[^annex4-lvlu1-lvl2-1]: Cfr. nota a piè di pagina nell’allegato 3.
+[^annex4-lvlu1-lvl2-1]: Cfr. nota a piè di pagina nell’all. 3.
 
 ### 3. Certificato veterinario per gli animali provenienti da Stati di cui all’articolo 6 capoverso 1 lettere b e c
 
 Il il certificato veterinario destinato agli animali provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettere b e c deve soddisfare i requisiti di cui all’allegato IV del regolamento di esecuzione (UE) n. 577/2013[^annex4-lvlu1-lvl3-1].
 
-[^annex4-lvlu1-lvl3-1]: Cfr. nota a piè di pagina nell’allegato 3.
+[^annex4-lvlu1-lvl3-1]: Cfr. nota a piè di pagina nell’all. 3.
 
 ### 4. Vaccinazione antirabbica
 
@@ -689,17 +686,19 @@ Il il certificato veterinario destinato agli animali provenienti da Stati e terr
 
 Per le dichiarazioni conformemente agli articoli 12 capoverso 3 lettera a, 13 capoverso 4 lettera a e 15 capoverso 4 lettera a si applicano i requisiti di cui all’allegato I del regolamento di esecuzione (UE) n. 577/2013[^annex4-lvlu1-lvl5-1].
 
-[^annex4-lvlu1-lvl5-1]: Cfr. nota a piè di pagina nell’allegato 3.
+[^annex4-lvlu1-lvl5-1]: Cfr. nota a piè di pagina nell’all. 3.
 
-Allegato 5
+Allegato 5*[^t-4]*
 
 (art. 16 cpv. 1)
 
 ## Misure prima dell’importazione di uccelli per quanto riguarda il certificato veterinario
 
+[^t-4]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+
 Si applicano i requisiti di cui agli allegati II e III della decisione 2007/25/CE[^annex5-lvlu1-1].
 
-[^annex5-lvlu1-1]: Decisione 2007/25/CE della Commissione, del 22 dicembre 2006, relativa a talune misure di protezione contro l’influenza aviaria ad alta patogenicità e ai movimenti di volatili al seguito dei rispettivi proprietari all’interno della Comunità, GU L 8 del 13.1.2007, pag. 29; modificata da ultimo dalla decisione di esecuzione 2013/635/UE, GU L 293 del 5.11.2013, pag. 40.
+[^annex5-lvlu1-1]: Decisione 2007/25/CE della Commissione, del 22 dicembre 2006, relativa a talune misure di protezione contro l’influenza aviaria ad alta patogenicità e ai movimenti di volatili al seguito dei rispettivi proprietari all’interno della Comunità, GU L 8 del 13.1.2007, pag. 29; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2107, GU L 425 del 16.12.2020, pag. 103.
 
 Allegato 6
 
