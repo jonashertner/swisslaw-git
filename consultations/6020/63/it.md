@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "17.448 n Iv.Pa. Aumento del limite determinante della cifra d'affari in modo da permettere alle associazioni sportive e culturali di essere esentate dall'IVA"
 document: Avamprogetto
 language: it

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: 17.448 n Pa.Iv. Feller. Sport- und Kulturvereine. Anheben der Umsatzgrenze für die Befreiung von der Mehrwertsteuerpflicht
 document: Vorlage
 language: de

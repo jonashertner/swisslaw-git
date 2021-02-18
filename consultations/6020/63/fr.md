@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "17.448 n Iv.Pa. Elévation du seuil du chiffre d'affaires permettant aux associations sportives et culturelles de ne pas être assujetties à la TVA"
 document: Projet
 language: fr
