@@ -3,11 +3,11 @@ sr: "0.274.132"
 title: "Convention du 18 mars 1970 sur l'obtention des preuves à l'étranger en matière civile ou commerciale"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824"
 language: fr
-version: 2020-05-18
+version: 2021-02-19
 adopted: 1970-03-18
 in_force: 1995-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20200518/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20200518-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20200518/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/2824_2824_2824/20210219/fr/xml/fedlex-data-admin-ch-eli-cc-1994-2824_2824_2824-20210219-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/2824_2824_2824/20210219/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à La Haye le 18 mars 1970 Approuvée par l’Assemblée fédérale le 9 juin 1994[^t-1] Instrument de ratification déposé par la Suisse le 2 novembre 1994 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1995
 
-(Etat le 18 mai 2020)
+(État le 19 février 2021)
 
 [^t-1]: Art. 2 al. 1 de l’ AF du 9 juin 1994 ([RO 1994 2807](https://fedlex.data.admin.ch/eli/oc/1994/2807_2807_2807))
 
@@ -115,7 +115,7 @@ En outre, tout État contractant peut déclarer qu’il reconnaît de telles dis
 
 La commission rogatoire n’est pas exécutée pour autant que la personne qu’elle vise invoque une dispense ou une interdiction de déposer, établies:
 
-- a. soit par la loi de l’État requis; ou
+- a. soit par la loi de l’État requis, ou
 - b. soit par la loi de l’État requérant et spécifiées dans la commission rogatoire ou, le cas échéant, attestées par l’autorité requérante à la demande de l’autorité requise.
 
 #### Art. 12
@@ -164,7 +164,7 @@ Tout État contractant peut déclarer que les actes d’instruction prévus ci-d
 
 En matière civile ou commerciale, toute personne régulièrement désignée à cet effet comme commissaire peut procéder, sans contrainte, sur le territoire d’un État contractant à tout acte d’instruction concernant une procédure engagée devant un tribunal d’un autre État contractant:
 
-- a. si une autorité compétente désignée par l’État de l’exécution a donné son autorisation, soit d’une manière générale, soit pour chaque cas particulier; et
+- a. si une autorité compétente désignée par l’État de l’exécution a donné son autorisation, soit d’une manière générale, soit pour chaque cas particulier, et
 - b. si elle respecte les conditions que l’autorité compétente a fixées dans l’autorisation.
 
 #### Art. 18
@@ -343,13 +343,14 @@ Le Ministère des Affaires Étrangères des Pays-Bas notifiera aux États visés
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé la présente Convention. Fait à La Haye, le 18 mars 1970, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Gouvernement des Pays-Bas et dont une copie certifiée conforme sera remise, par la voie diplomatique, à chacun des États représentés à la Onzième session de la Conférence de La Haye de droit international privé. (Suivent les signatures)
 
-Champ d’application le 18 mai 2020**[^t-2]**
+Champ d’application le 19 février 2021[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud\* <sup>a</sup></td><td>8 juillet</td><td>1997 A</td><td>11 juillet</td><td>1998</td></tr>
 <tr><td>Albanie\* <sup>a</sup></td><td>16 juillet</td><td>2010 A</td><td>22 novembre</td><td>2011</td></tr>
 <tr><td>Allemagne\*</td><td>27 avril</td><td>1979</td><td>26 juin</td><td>1979</td></tr>
+<tr><td>Andorre <sup>a</sup></td><td>26 avril</td><td>2017 A</td><td>2 novembre</td><td>2020</td></tr>
 <tr><td>Argentine\* <sup>a</sup></td><td>8 mai</td><td>1987 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Arménie\* <sup>a</sup></td><td>27 juin</td><td>2012 A</td><td>19 mai</td><td>2015</td></tr>
 <tr><td>Australie\* <sup>a</sup></td><td>23 octobre</td><td>1992 A</td><td>13 janvier</td><td>1995</td></tr>
@@ -381,13 +382,15 @@ Champ d’application le 18 mai 2020**[^t-2]**
 <tr><td>Islande\* <sup>a</sup></td><td>10 novembre</td><td>2008 A</td><td>23 novembre</td><td>2009</td></tr>
 <tr><td>Israël\*</td><td>19 juillet</td><td>1979</td><td>17 septembre</td><td>1979</td></tr>
 <tr><td>Italie\*</td><td>22 juin</td><td>1982</td><td>21 août</td><td>1982</td></tr>
+<tr><td>Kazakhstan\* <sup>a</sup></td><td>26 septembre</td><td>2016 A</td><td>2 novembre</td><td>2020</td></tr>
 <tr><td>Koweït <sup>a</sup></td><td>8 mai</td><td>2002 A</td><td>11 novembre</td><td>2005</td></tr>
 <tr><td>Lettonie\* <sup>a</sup></td><td>28 mars</td><td>1995 A</td><td>11 juillet</td><td>1998</td></tr>
 <tr><td>Liechtenstein\* <sup>a</sup></td><td>12 novembre</td><td>2008 A</td><td>23 novembre</td><td>2009</td></tr>
 <tr><td>Lituanie\* <sup>a</sup></td><td>2 août</td><td>2000 A</td><td>12 mars</td><td>2002</td></tr>
 <tr><td>Luxembourg\*</td><td>26 juillet</td><td>1977</td><td>24 septembre</td><td>1977</td></tr>
-<tr><td>Malte<sup>\*</sup> <sup>a</sup></td><td>24 février</td><td>2011 A</td><td>22 novembre</td><td>2011</td></tr>
-<tr><td>Maroc<sup>a</sup></td><td>24 mars</td><td>2011 A</td><td>22 novembre</td><td>2011</td></tr>
+<tr><td>Macédoine du Nord\* <sup>a</sup></td><td>19 mars</td><td>2009 A</td><td>2 novembre</td><td>2020</td></tr>
+<tr><td>Malte\* <sup>a</sup></td><td>24 février</td><td>2011 A</td><td>22 novembre</td><td>2011</td></tr>
+<tr><td>Maroc <sup>a</sup></td><td>24 mars</td><td>2011 A</td><td>22 novembre</td><td>2011</td></tr>
 <tr><td>Mexique\* <sup>a</sup></td><td>27 juillet</td><td>1989 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Monaco\* <sup>a</sup></td><td>17 janvier</td><td>1986 A</td><td>13 janvier</td><td>1995</td></tr>
 <tr><td>Monténégro<sup>\* a</sup></td><td>16 janvier</td><td>2012 A</td><td>19 mai</td><td>2015</td></tr>
@@ -407,7 +410,7 @@ Champ d’application le 18 mai 2020**[^t-2]**
 <tr><td>Îles Cayman\*</td><td>16 septembre</td><td>1980 A</td><td>15 novembre</td><td>1980</td></tr>
 <tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)\*</td><td>26 novembre</td><td>1979 A</td><td>25 janvier</td><td>1980</td></tr>
 <tr><td>Jersey\*</td><td>6 janvier</td><td>1987 A</td><td>7 mars</td><td>1987</td></tr>
-<tr><td>Russie<sup>\*</sup> <sup>a</sup></td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>12 mars</td><td>2002</td></tr>
+<tr><td>Russie\* <sup>a</sup></td><td>1<sup>er</sup> mai</td><td>2001 A</td><td>12 mars</td><td>2002</td></tr>
 <tr><td>Serbie\* <sup>a</sup></td><td>2 juillet</td><td>2010 A</td><td>22 novembre</td><td>2011</td></tr>
 <tr><td>Seychelles\* <sup>a</sup></td><td>7 janvier</td><td>2004 A</td><td>11 novembre</td><td>2005</td></tr>
 <tr><td>Singapour\* <sup>a</sup></td><td>27 octobre</td><td>1978 A</td><td>13 janvier</td><td>1995</td></tr>
@@ -419,13 +422,10 @@ Champ d’application le 18 mai 2020**[^t-2]**
 <tr><td>Turquie\*</td><td>13 août</td><td>2004</td><td>12 octobre</td><td>2004</td></tr>
 <tr><td>Ukraine\* <sup>a</sup></td><td>1<sup>er</sup> février</td><td>2001 A</td><td>12 mars</td><td>2002</td></tr>
 <tr><td>Venezuela\* <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>1993 A</td><td>11 juillet</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> L’adhésion est soumise à une procédure d’acceptation. La date d’entrée en vigueur est celle entre la Suisse et cet État partie ou ce territoire.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique due 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Suite à une déclaration de la République populaire de Chine du 16 déc. 1999, la convention est applicable à la Région administrative spéciale de Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: [www.hcch.net](http://www.hcch.net) &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’adhésion est soumise à une procédure d’acceptation. La date d’entrée en vigueur est celle entre la Suisse et cet État partie ou ce territoire. <sup>b</sup> Jusqu’au 30 juin 1997, la convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration sino-britannique due 19 déc. 1984, les accords qui étaient applicables à Hong Kong avant sa rétrocession à la République populaire de Chine demeurent applicables à la RAS. <sup>c</sup> Suite à une déclaration de la République populaire de Chine du 16 déc. 1999, la convention est applicable à la Région administrative spéciale de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150)[4989](https://fedlex.data.admin.ch/eli/oc/2005/680), [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11), [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124), [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212),[2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2005 1139](https://fedlex.data.admin.ch/eli/oc/2005/150), [4989](https://fedlex.data.admin.ch/eli/oc/2005/680); [2012 101](https://fedlex.data.admin.ch/eli/oc/2012/11); [2014 583](https://fedlex.data.admin.ch/eli/oc/2014/124); [2015 1075](https://fedlex.data.admin.ch/eli/oc/2015/212);[2020 1855](https://fedlex.data.admin.ch/eli/oc/2020/378); [2021 103](https://fedlex.data.admin.ch/eli/oc/2021/103). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
 
 Réserves et déclarations
 
@@ -460,11 +460,15 @@ Conformément à l’art. 23, la Suisse déclare que les commissions rogatoires 
 - c) il est exigé d’une personne qu’elle présente aussi d’autres pièces que celles désignées dans la demande d’entraide judiciaire et qui se trouvent vraisemblablement en sa possession, sa détention ou son pouvoir de disposition; ou
 - d) des intérêts dignes de protection des personnes visées risquent d’être compromis.
 
-**Liste des autorités suisses**
+## Liste des autorités suisses
+
+[^declu2-lvlu1-1]
+
+[^declu2-lvlu1-1]: Cette liste a été adaptée en application de l’art. 12, al. 2, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 a) Autorités centrales cantonales
 
-Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: www.rhf.admin.ch/rhf/fr/home/zivil/behoerden/zentral.html
+Une liste mise à jour des autorités centrales cantonales avec leurs coordonnées peut être consultée en ligne à l’adresse suivante: https://www.rhf.admin.ch &gt; Droit civil &gt; autorités &gt; Liste des autorités centrales cantonales
 
 Pour déterminer l’autorité centrale compétente à raison du lieu, on peut consulter en ligne la banque de données des localités et tribunaux suisses à l’adresse suivante: www.elorge.admin.ch
 
