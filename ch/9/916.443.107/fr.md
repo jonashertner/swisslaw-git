@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Ordonnance de l'OSAV du 18 décembre 2017 instituant des mesures contre la propagation de la peste porcine africaine par les échanges d'importation, de transit et d'exportation aves les États membres de l'Union européenne, l'Islande et la Norvège"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/832"
 language: fr
-version: 2021-02-12
+version: 2021-02-19
 adopted: 2017-12-18
 in_force: 2017-12-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210212/fr/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210212-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210212/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210219/fr/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210219-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210219/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège****
+# Ordonnance de l’OSAV instituant des mesures contre la propagation de la peste porcine africaine par les échanges d’importation, de transit et d’exportation avec les États membres de l’Union européenne, l’Islande et la Norvège
 
-du 18 décembre 2017 (Etat le 12 février 2021)[^t-1]
+du 18 décembre 2017 (Etat le 19 février 2021)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 13 juin 2018, en vigueur depuis le 15 juin 2018 ([RO 2018 2327](https://fedlex.data.admin.ch/eli/oc/2018/332)).
 
@@ -70,8 +70,8 @@ Il est interdit d’importer les animaux et produits animaux visés à l’art. 
 <sup>2</sup> Il est interdit d’importer des sangliers vivants en provenance de l’entier du territoire des États membres de l’UE, de Norvège et d’Islande.[^2-5]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 17 oct. 2018, en vigueur depuis le 19 oct. 2018 ([RO 2018 3455](https://fedlex.data.admin.ch/eli/oc/2018/561)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 10 fév. 2021, en vigueur depuis le 12 fév. 2021 ([RO 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
-[^2-3]: Décision d’exécution 2014/709/UE de la Commission du 9 octobre 2014 concernant des mesures zoosanitaires de lutte contre la peste porcine africaine dans certains États membres et abrogeant la décision d’exécution 2014/178/UE, JO L 295 du 11.10.2014, p. 63; modifiée en dernier lieu par la décision d’exécution (UE) 2021/123, JO L 38 du 3.2.2021, p. 63.
+[^2-2]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 17 fév. 2021, en vigueur depuis le 19 fév. 2021 ([RO 2021 98](https://fedlex.data.admin.ch/eli/oc/2021/98)).
+[^2-3]: Décision d’exécution 2014/709/UE de la Commission du 9 octobre 2014 concernant des mesures zoosanitaires de lutte contre la peste porcine africaine dans certains États membres et abrogeant la décision d’exécution 2014/178/UE, JO L 295 du 11.10.2014, p. 63; modifiée en dernier lieu par la décision d’exécution (UE) 2021/175, JO L 52 du 15.2.2021, p. 1
 [^2-4]: Directive 2002/60/CE du Conseil du 27 juin 2002 établissant des dispositions spécifiques pour la lutte contre la peste porcine africaine et modifiant la directive 92/119/CEE, en ce qui concerne la maladie de Teschen et la peste porcine africaine, JO L 192 du 20.7.2002, p. 27; modifiée en dernier lieu par la directive 2008/73/CE, JO L 219 du 14.8.2008, p. 40.
 [^2-5]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 5 nov. 2018, en vigueur depuis le 7 nov. 2018 ([RO 2018 3901](https://fedlex.data.admin.ch/eli/oc/2018/621)).
 
@@ -145,7 +145,7 @@ Annexe*[^t-2]*
 
 ## États membres et zones concernés
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 21 déc. 2020 ([RO 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Mise à jour par le ch. II de l’O de l’OSAV du 10 fév. 2021, en vigueur depuis le 12 fév. 2021 ([RO 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 21 déc. 2020 ([RO 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Mise à jour par le ch. II de l’O de l’OSAV du 17 fév. 2021, en vigueur depuis le 19 fév. 2021 ([RO 2021 98](https://fedlex.data.admin.ch/eli/oc/2021/98)).
 
 ### 1 Zones réglementées conformément à la décision d’exécution 2014/709/UE
 
@@ -153,7 +153,7 @@ Les États membres de l’UE et les zones considérés à risque élevé par rap
 
 <table>
 <tr><th>Acte de l’UE</th><th>Titre et date de publication de l’acte et dates de publication des actes modificateurs</th></tr>
-<tr><td>Décision d’exécution 2014/709/UE</td><td>Décision d’exécution 2014/709/UE de la Commission du 9 octobre 2014 concernant des mesures zoosanitaires de lutte contre la peste porcine africaine dans certains États membres et abrogeant la décision d’exécution 2014/178/UE, JO L 295 du 11.10.2014, p. 63; modifiée en dernier lieu par la décision d’exécution (UE) 2021/123, JO L 38 du 3.2.2021, p. 63</td></tr>
+<tr><td>Décision d’exécution 2014/709/UE</td><td>Décision d’exécution 2014/709/UE de la Commission du 9 octobre 2014 concernant des mesures zoosanitaires de lutte contre la peste porcine africaine dans certains États membres et abrogeant la décision d’exécution 2014/178/UE, JO L 295 du 11.10.2014, p. 63; modifiée en dernier lieu par la décision d’exécution (UE) 2021/175, JO L 52 du 15.2.2021, p. 1</td></tr>
 </table>
 
 L’annexe de la décision d’exécution précitée classe certaines zones des États membres concernés dans les quatre parties ci-après en fonction du risque d’introduction du virus de la peste porcine africaine:

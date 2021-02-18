@@ -3,18 +3,18 @@ sr: "916.443.107"
 title: "Verordnung des BLV vom 18. Dezember 2017 über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/832"
 language: de
-version: 2021-02-12
+version: 2021-02-19
 adopted: 2017-12-18
 in_force: 2017-12-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210212/de/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210212-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210212/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/832/20210219/de/xml/fedlex-data-admin-ch-eli-cc-2017-832-20210219-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/832/20210219/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen gegen die Verschleppung der Afrikanischen Schweinepest im Verkehr mit den Mitgliedstaaten der Europäischen Union, Island und Norwegen****
 
-vom 18. Dezember 2017 (Stand am 12. Februar 2021)[^t-1]
+vom 18. Dezember 2017 (Stand am 19. Februar 2021)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BLV vom 13. Juni 2018, in Kraft seit 15. Juni 2018 ([AS 2018 2327](https://fedlex.data.admin.ch/eli/oc/2018/332)).
 
@@ -70,8 +70,8 @@ Die Einfuhr von lebenden Tieren und Tierprodukten nach Artikel 1 Absatz 2 aus de
 <sup>2</sup> Die Einfuhr von lebenden Wildschweinen aus dem gesamten Hoheitsgebiet von Mitgliedstaaten der EU, Island und Norwegen ist verboten.[^2-5]
 
 [^2-1]: Fassung gemäss Ziff. I der V des BLV vom 17. Okt. 2018, in Kraft seit 19. Okt. 2018 ([AS 2018 3455](https://fedlex.data.admin.ch/eli/oc/2018/561)).
-[^2-2]: Fassung gemäss Ziff. I der V des BLV vom 10. Febr. 2021, in Kraft seit 12. Febr. 2021 ([AS 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
-[^2-3]: Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU, ABl. L 295 vom 11.10.2014, S. 63; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/123, ABl. L 38 vom 3.2.2021, S. 63.
+[^2-2]: Fassung gemäss Ziff. I der V des BLV vom 17. Febr. 2021, in Kraft seit 19. Febr. 2021 ([AS 2021 98](https://fedlex.data.admin.ch/eli/oc/2021/98)).
+[^2-3]: Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU, ABl. L 295 vom 11.10.2014, S. 63; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/175, ABl. L 52 vom 15.2.2021, S. 1.
 [^2-4]: Richtlinie 2002/60/EG des Rates vom 27. Juni 2002 zur Festlegung von besonderen Vorschriften für die Bekämpfung der Afrikanischen Schweinepest sowie zur Änderungen der Richtlinie 92/119/EWG hinsichtlich der Teschener Krankheit und der Afrikanischen Schweinepest, ABl. L 192 vom 20.7.2002, S. 27; zuletzt geändert durch Richtlinie 2008/73/EG, ABl. L 219 vom 14.8.2008, S. 40.
 [^2-5]: Fassung gemäss Ziff. I der V des BLV vom 5. Nov. 2018, in Kraft seit 7. Nov. 2018 ([AS 2018 3901](https://fedlex.data.admin.ch/eli/oc/2018/621)).
 
@@ -145,7 +145,7 @@ Anhang*[^t-2]*
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 21. Dez. 2020 ([AS 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Bereinigt gemäss Ziff. II der V des BLV vom 10. Febr. 2021, in Kraft seit 12. Febr. 2021 ([AS 2021 81](https://fedlex.data.admin.ch/eli/oc/2021/81)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 21. Dez. 2020 ([AS 2020 6405](https://fedlex.data.admin.ch/eli/oc/2020/1049)). Bereinigt gemäss Ziff. II der V des BLV vom 17. Febr. 2021, in Kraft seit 19. Febr. 2021 ([AS 2021 98](https://fedlex.data.admin.ch/eli/oc/2021/98)).
 
 ### 1 Nach dem Durchführungsbeschluss 2014/709/EU geregelte Gebiete
 
@@ -153,7 +153,7 @@ Die Mitgliedstaaten der EU sowie die Gebiete mit erhöhtem Risiko betreffend Ein
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss 2014/709/EU</td><td>Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU, ABl. L 295 vom 11.10.2014, S. 63; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/123, ABl. L 38 vom 3.2.2021, S. 63.</td></tr>
+<tr><td>Durchführungsbeschluss 2014/709/EU</td><td>Durchführungsbeschluss 2014/709/EU der Kommission vom 9. Oktober 2014 mit tierseuchenrechtlichen Massnahmen zur Bekämpfung der Afrikanischen Schweinepest in bestimmten Mitgliedstaaten und zur Aufhebung des Durchführungsbeschlusses 2014/178/EU, ABl. L 295 vom 11.10.2014, S. 63; zuletzt geändert durch Durchführungsbeschluss (EU) ) 2021/175, ABl. L 52 vom 15.2.2021, S. 1.</td></tr>
 </table>
 
 Im Anhang des obengenannten Durchführungsbeschlusses werden bestimmte Gebiete von betroffenen Mitgliedstaaten entsprechend dem Risiko der Verschleppung des Virus der Afrikanischen Schweinepest in die folgenden vier Teile eingeteilt:
