@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Strategie Nachhaltige Entwicklung 2030
 document: Vorlage
 language: de

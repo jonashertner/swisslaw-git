@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Stratégie pour le développement durable 2030
 document: Projet
 language: fr

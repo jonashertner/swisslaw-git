@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Strategia per uno sviluppo sostenibile 2030
 document: Avamprogetto
 language: it
