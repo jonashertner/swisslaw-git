@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung KVG-Revision (Zulassung Leistungserbringer) - Änderung der Verordnung über die Krankenversicherung (KVV) und weiterer Verordnungen
 document: Vorlage Registerverordnung Var 1
 language: de

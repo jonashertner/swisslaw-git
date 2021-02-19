@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Attuazione della revisione LAMal (ammissione di fornitori di prestazioni) - modifica dell'ordinanza sull'assicurazione malattie (OAMal) e di altre ordinanze"
 document: Avamprogetto O sul registro Var 2
 language: it

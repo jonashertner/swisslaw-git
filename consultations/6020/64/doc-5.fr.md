@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Mise en œuvre de la révision LAMal (admission des fournisseurs de prestations) - modification de l'ordonnance sur l'assurance-maladie (OAMal) et d'autres ordonnances"
 document: Projet O sur les nombres maximaux
 language: fr
