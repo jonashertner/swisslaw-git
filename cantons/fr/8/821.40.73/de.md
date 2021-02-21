@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-01-19
-valid_until: 2021-02-21
-version_adopted: 2021-01-19
+version: 2021-02-22
+valid_until: 2021-02-28
+version_adopted: 2021-02-08
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6725/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6768/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6725/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 19.01.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 22.02.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -130,7 +130,7 @@ beschliesst:
 
 **Bildungsbereich – Allgemeine Bestimmungen (alle Bildungsstufen)**
 
-<sup>1</sup> Für alle Studierenden sowie sämtliche Schülerinnen und Schüler ab Orientierungsstufe besteht auf dem gesamten Gelände der Bildungseinrichtung, auch in den Pausen, und auf dem Weg von einer Haltestelle des öffentlichen Verkehrs zur Bildungseinrichtung eine Maskenpflicht, wenn der Abstand nicht eingehalten werden kann.
+<sup>1</sup> Für alle Studierenden sowie sämtliche Schülerinnen und Schüler ab Orientierungsstufe besteht auf dem gesamten Gelände der Bildungseinrichtung, auch in den Pausen, und auf dem Weg von einer Haltestelle des öffentlichen Verkehrs zur Bildungseinrichtung eine Maskenpflicht, wenn der Abstand nicht eingehalten werden kann. Die Direktion für Erziehung, Kultur und Sport kann das Tragen einer Gesichtsmaske für Schülerinnen und Schüler der Primarschule für obligatorisch erklären, sofern die gesundheitliche Lage es gebietet.
 
 <sup>2</sup> Das gesamte Personal (Lehrpersonal, pädagogisch-therapeutisches Fachpersonal sowie administratives, technisches und Hauswartpersonal) und alle Personen, die gelegentlich in der Bildungseinrichtung tätig sind, müssen auf dem gesamten Gelände der Bildungseinrichtung, auch in den Pausen, eine Gesichtsmaske tragen und sich wenn immer möglich an die Abstandsregeln halten.
 
@@ -146,7 +146,7 @@ beschliesst:
 
 <sup>2</sup> Auf Vorschlag der Gesundheitsbehörden können die zuständigen Direktionen den Unterricht in einer anderen Form organisieren, beispielsweise indem Klassen aufgeteilt werden oder durch die Umstellung auf teilweisen oder vollständigen Fernunterricht.
 
-<sup>3</sup> Schullager und Studienreisen sowie ähnliche Aktivitäten mit Übernachtung sind bis 31. März 2021 verboten.
+<sup>3</sup> Schullager und Studienreisen sowie ähnliche Aktivitäten mit Übernachtung sind bis Ende des Schuljahres 2020/21 verboten.
 
 <sup>4</sup> Die Schutzmassnahmen für den Bewegungs- und Sportunterricht werden auf der Website des Sportamtes veröffentlicht.
 

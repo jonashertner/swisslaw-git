@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-01-19
-valid_until: 2021-02-21
-version_adopted: 2021-01-19
+version: 2021-02-22
+valid_until: 2021-02-28
+version_adopted: 2021-02-08
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6725/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6768/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6725/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 19.01.2021)
+du 10.11.2020 (version entrée en vigueur le 22.02.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -130,7 +130,7 @@ Arrête:
 
 **Enseignement – Dispositions générales (pour tous les degrés d'enseignement)**
 
-<sup>1</sup> Le port d'un masque facial est obligatoire pour tous les étudiants et étudiantes ainsi que pour tous les élèves dès le niveau du cycle d'orientation sur tout le périmètre de l'établissement de formation, y compris pendant les pauses, ainsi que lors des déplacements entre l'arrêt de transport public et l'établissement de formation lorsque la distance interpersonnelle ne peut pas être respectée.
+<sup>1</sup> Le port d'un masque facial est obligatoire pour tous les étudiants et étudiantes ainsi que pour tous les élèves dès le niveau du cycle d'orientation sur tout le périmètre de l'établissement de formation, y compris pendant les pauses, ainsi que lors des déplacements entre l'arrêt de transport public et l'établissement de formation lorsque la distance interpersonnelle ne peut pas être respectée. La Direction de l'instruction publique, de la culture et du sport peut décider du port obligatoire d'un masque facial pour les élèves de l'école primaire si la situation sanitaire le justifie.
 
 <sup>2</sup> L'ensemble du personnel (enseignant, pédago-thérapeutique, administratif, technique et d'intendance) ou toute autre personne intervenant ponctuellement dans l'établissement de formation doit porter un masque facial et respecter les règles en matière de distance interpersonnelle dans la mesure du possible, sur tout le périmètre de l'établissement de formation, y compris pendant les pauses.
 
@@ -146,7 +146,7 @@ Arrête:
 
 <sup>2</sup> Sur la proposition des autorités sanitaires, les Directions compétentes peuvent organiser l'enseignement sous une autre forme, notamment en divisant les classes ou en dispensant l'enseignement partiellement ou totalement à distance.
 
-<sup>3</sup> Les camps scolaires et voyages d'étude, ainsi que d'autres activités similaires comprenant une nuitée, sont interdits jusqu'au 31 mars 2021.
+<sup>3</sup> Les camps scolaires et voyages d'études, ainsi que d'autres activités similaires comprenant une nuitée, sont interdits jusqu'au terme de l'année scolaire 2020/21.
 
 <sup>4</sup> Les mesures de protection applicables à l'enseignement de l'éducation physique et du sport sont publiées sur le site Internet du Service du sport.
 
