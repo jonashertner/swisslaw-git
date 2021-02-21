@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-02-11
+version: 2021-02-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210222/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210222-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210222/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 11 febbraio 2021)
+del 27 gennaio 2021 (Stato 22 febbraio 2021)
 
 Il Consiglio federale svizzero,
 
@@ -74,12 +74,22 @@ Le persone che entrano in Svizzera da uno Stato o una regione con rischio elevat
 - a. elettronicamente tramite la piattaforma per la registrazione dei dati di contatto delle persone in entrata[^3-2], messa a disposizione dall’Ufficio federale della sanità pubblica (UFSP); oppure
 - b. su carta tramite le schede di contatto messe a disposizione dall’UFSP.
 
+<sup>1bis</sup> Le persone che entrano in Svizzera senza utilizzare un’impresa che trasporta persone secondo l’articolo 4 e che registrano i loro dati di contatto mediante schede di contatto devono conservare queste ultime per 14 giorni.[^3-3]
+
 <sup>2</sup> Le persone che entrano in Svizzera da Stati o regioni senza rischio elevato di contagio devono registrare i loro dati di contatto elettronicamente o su carta solo se l’entrata avviene in treno, autobus, nave o aereo.
 
-<sup>3</sup> Sono esentate dall’obbligo di cui ai capoversi 1 e 2 le persone che entrano in Svizzera da regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale.
+<sup>3</sup>
+
+Sono esentate dagli obblighi di cui ai capoversi 1 e 2 le persone che:
+
+- a. entrano in Svizzera da regioni confinanti con la Svizzera con le quali esiste uno stretto scambio economico, sociale e culturale;
+- b. nell’ambito della loro attività professionale effettuano il trasporto transfrontaliero di merci o persone;
+- c. entrano in Svizzera unicamente a fini di transito, con l’intenzione e la possibilità di recarsi direttamente in un altro Paese.[^3-4]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La piattaforma per la registrazione dei dati di contatto delle persone in entrata è accessibile all’indirizzo https://swissplf.admin.ch
+[^3-3]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -99,11 +109,9 @@ Le persone che entrano in Svizzera da uno Stato o una regione con rischio elevat
 
 #### Art. 5
 
-**Obblighi particolari per le imprese di trasporti aerei**
+[^5-1]
 
-<sup>1</sup> Le imprese di trasporti aerei devono informare i passeggeri che prima della partenza devono sottoporsi a un’analisi di biologia molecolare per il SARS-CoV-2 e che sono ammessi sul velivolo soltanto se il test è risultato negativo.
-
-<sup>2</sup> Prima della partenza, devono verificare l’esistenza di un risultato negativo del test e, se questo non fosse attestabile, negare l’accesso al velivolo.
+[^5-1]: Abrogato dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), con effetto dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 6
 
@@ -147,22 +155,13 @@ Le persone di cui al capoverso 1 che all’entrata in Svizzera non possono prese
 - a. a un’analisi di biologia molecolare per il SARS-CoV-2; oppure
 - b. a un test rapido per il SARS-CoV-2.
 
-<sup>4</sup>
-
-Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se:
-
-- a.
-
-  presentano all’autorità cantonale competente il risultato negativo di una delle seguenti analisi eseguite a proprie spese, purché l’analisi sia stata eseguita a partire dal settimo giorno di quarantena:
-
-  - 1\. analisi di biologia molecolare per il SARS-CoV-2,
-  - 2\. test rapido per il SARS-CoV-2; e
-
-- b. l’autorità cantonale competente acconsente alla conclusione anticipata della quarantena.
+<sup>4</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a proprie spese a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 e se il risultato è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena.[^7-1]
 
 <sup>5</sup> Le persone che concludono anticipatamente la quarantena per le persone in entrata secondo il capoverso 4 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena secondo il capoverso 2.
 
 <sup>6</sup> Se la persona è entrata in Svizzera passando da uno Stato o una regione senza rischio elevato di contagio, l’autorità cantonale competente può considerare la durata del soggiorno in questo Stato o in questa regione nel calcolo del periodo di quarantena secondo il capoverso 2.
+
+[^7-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 8
 
@@ -189,6 +188,13 @@ Sono esentate dall’obbligo di test e di quarantena di cui all’articolo 7 le 
 - g. rientrano in Svizzera dopo aver partecipato a una manifestazione svoltasi in un Paese o una regione con rischio elevato di contagio, se attestano che per la partecipazione e il soggiorno è stato rispettato un piano di protezione specifico; per partecipazione a una manifestazione si intende segnatamente la partecipazione, generalmente per motivi professionali, a una competizione sportiva, a un evento culturale o a un congresso per professionisti;
 - h. attestano che nei tre mesi precedenti l’entrata in Svizzera erano già state contagiate dal SARS-CoV-2 e sono considerate guarite.
 
+<sup>1bis</sup>
+
+Sono inoltre esentati dall’obbligo di test di cui all’articolo 7:
+
+- a. i bambini sotto i 12 anni;
+- b. le persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.[^8-2]
+
 <sup>2</sup> Il capoverso 1 non si applica alle persone che presentano sintomi di COVID-19, a meno che non possano attestare con un certificato medico che i sintomi sono riconducibili a altra causa.
 
 <sup>3</sup> Per le persone di cui al capoverso 1 lettera a, il datore di lavoro verifica se sussiste un’attività assolutamente necessaria e la attesta.
@@ -196,12 +202,46 @@ Sono esentate dall’obbligo di test e di quarantena di cui all’articolo 7 le 
 <sup>4</sup> In casi motivati l’autorità cantonale competente può autorizzare altre deroghe all’obbligo di test e di quarantena oppure concedere agevolazioni.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^8-2]: Introdotto dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 9
 
 **Obbligo di notifica**
 
 Chi è sottoposto alla quarantena per le persone in entrata secondo la presente ordinanza deve notificare l’entrata entro due giorni all’autorità cantonale competente e seguirne le istruzioni.
+
+## Sezione 4*a*:**** Obblighi particolari per le imprese di trasporto aereo
+
+[^sec4-1]
+
+[^sec4-1]: Introdotta dal n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+
+**Art. 9**a
+
+<sup>1</sup> Le imprese di trasporto aereo devono informare i passeggeri che, prima della partenza, devono sottoporsi a un test per il SARS-CoV-2 e che sono ammessi sul velivolo soltanto se possono presentare un risultato negativo del test.
+
+<sup>2</sup> Prima della partenza, devono verificare l’esistenza di un risultato negativo del test effettuato in base a una procedura che corrisponda allo stato attuale della scienza e della tecnica. Vige il principio che il prelievo dei campioni per:
+
+- a. un’analisi di biologia molecolare per il SARS-CoV-2 sia stato effettuato non più di 72 ore prima;
+- b. un test rapido immunologico per il SARS-CoV-2 sia stato effettuato non più di 24 ore prima.
+
+<sup>3</sup> Sul documento con il risultato del test devono essere riportati i dati seguenti:
+
+- a. il cognome, il nome e la data di nascita della persona testata;
+- b. la data e l’ora del prelievo dei campioni;
+- c. il tipo di test eseguito di cui al capoverso 2 lettera a o b;
+- d. il risultato del test.
+
+<sup>4</sup> Le imprese di trasporto aereo devono negare l’accesso al velivolo ai passeggeri che non possono presentare un risultato negativo del test secondo il capoverso 2.
+
+<sup>5</sup> Le imprese di trasporto aereo possono trasportare i seguenti passeggeri in assenza di un risultato negativo del test:
+
+- a. bambini sotto i 12 anni;
+- b. persone che possono provare mediante un attestato medico che, per motivi medici, devono essere urgentemente trasportate in Svizzera;
+- c. persone che hanno la cittadinanza svizzera o un titolo di soggiorno rilasciato dalla Svizzera e che non hanno la possibilità di sottoporsi al test per il SARS-CoV-2 entro un termine utile o a spese ragionevoli; l’impossibilità di sottoporsi al test deve essere attestata mediante un’autodichiarazione;
+- d. persone in transito in un aeroporto svizzero che non escono dall’area di transito prima di proseguire il viaggio;
+- e. persone che possono provare mediante un attestato medico che, nei tre mesi precedenti l’entrata in Svizzera, erano già state contagiate dal SARS-CoV-2 e sono considerate guarite;
+- f. persone che possono provare mediante un attestato medico che, per motivi medici, non posso sottoporsi allo striscio nasofaringeo necessario per il test per il SARS-CoV-2.
 
 ## Sezione 5: Controlli e notifiche da parte dell’Amministrazione federale delle dogane
 
@@ -244,14 +284,22 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 feb. 2021, in vigore dall’11 feb. 2021 ([RU 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 feb. 2021, in vigore dal 22 feb. 2021 ([RU 2021 89](https://fedlex.data.admin.ch/eli/oc/2021/89)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni
 
+Albania
+
 Andorra
 
+Bahrein
+
 Brasile
+
+Colombia
+
+Emirati Arabi Uniti
 
 Estonia
 
@@ -279,6 +327,14 @@ Portogallo
 
 San Marino
 
+Santa-Lucia
+
+Saint Vincent e Grenadine
+
+Seicelle
+
+Serbia
+
 Svezia
 
 Slovacchia
@@ -299,16 +355,28 @@ Stati Uniti
 
 Regioni in Germania:
 
+- – Land Brandenburgo
+- – Land Sassonia-Anhalt
 - – Land Turingia
 
 Regioni in Francia:
 
+- – Regione Alta Francia
+- – Regione Centro-Valle della Loira
+- – Regione Isola di Francia
+- – Regione Normandia
+- – Regione Nuova Aquitania
+- – Regione Occitania
+- – Regione Paesi della Loira
 - – Regione Provenza-Alpi-Costa Azzurra
 
 Regioni in Italia:
 
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
+- – Regione Marche
+- – Regione Puglia
+- – Regione Umbria
 
 Regioni in Austria:
 

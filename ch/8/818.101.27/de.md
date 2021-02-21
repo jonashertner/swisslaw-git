@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-02-11
+version: 2021-02-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210222/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210222-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210222/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 11. Februar 2021)
+vom 27. Januar 2021 (Stand am 22. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -74,12 +74,22 @@ Personen, die aus einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko in die
 - a. elektronisch über die vom Bundesamt für Gesundheit (BAG) zur Verfügung gestellte Plattform für die Kontaktdatenerfassung für Reisende[^3-2]; oder
 - b. auf den vom BAG in Papierform zur Verfügung gestellten Kontaktkarten.
 
+<sup>1bis</sup> Personen, die nicht mit einem Personenbeförderungsunternehmen nach Artikel 4 einreisen und ihre Kontaktdaten auf Kontaktkarten erfassen, müssen diese 14 Tage aufbewahren.[^3-3]
+
 <sup>2</sup> Personen, die aus Staaten oder Gebieten ohne erhöhtes Ansteckungsrisiko in die Schweiz einreisen, müssen ihre Kontaktdaten elektronisch oder auf Papier nur erfassen, wenn die Einreise mit Bahn, Bus, Schiff oder Flugzeug erfolgt.
 
-<sup>3</sup> Ausgenommen von der Pflicht nach den Absätzen 1 und 2 sind Personen, die aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet.
+<sup>3</sup>
+
+Ausgenommen von den Pflichten nach den Absätzen 1 und 2 sind Personen, die:
+
+- a. aus Gebieten an der Grenze zur Schweiz einreisen, mit denen ein enger wirtschaftlicher, gesellschaftlicher und kultureller Austausch stattfindet;
+- b. im Rahmen ihrer beruflichen Tätigkeit grenzüberschreitend Güter oder Personen befördern;
+- c. lediglich zur Durchreise in die Schweiz einreisen mit der Absicht und der Möglichkeit, direkt in ein anderes Land weiterzureisen.[^3-4]
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: Die Plattform für die Kontaktdatenerfassung für Reisende ist zugänglich unter https://swissplf.admin.ch
+[^3-3]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -99,11 +109,9 @@ Personen, die aus einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko in die
 
 #### Art. 5
 
-**Besondere Pflichten der Luftverkehrsunternehmen**
+[^5-1]
 
-<sup>1</sup> Luftverkehrsunternehmen müssen die Passagiere informieren, dass sie sich vor dem Abflug mit einer molekularbiologischen Analyse auf Sars-CoV-2 testen lassen müssen und zum Flugzeug nur zugelassen werden, wenn das Ergebnis des Tests negativ ausgefallen ist.
-
-<sup>2</sup> Sie müssen das Vorhandensein eines negativen Testergebnisses vor dem Abflug überprüfen und, falls kein solches nachgewiesen werden kann, den Zutritt zum Flugzeug verweigern.
+[^5-1]: Aufgehoben durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), mit Wirkung seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 6
 
@@ -147,22 +155,13 @@ Personen nach Absatz 1, die bei der Einreise in die Schweiz keinen Test mit nega
 - a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
 - b. mit einem Sars-CoV-2-Schnelltest.
 
-<sup>4</sup>
-
-Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn:
-
-- a.
-
-  sie der zuständigen kantonalen Behörde das negative Resultat einer der folgenden auf eigene Kosten durchgeführten Analysen vorlegen, wobei die Analyse frühestens am siebten Tag durchgeführt worden sein darf:
-
-  - 1\. molekularbiologische Analyse auf Sars-CoV-2,
-  - 2\. Sars-CoV-2-Schnelltest; und
-
-- b. die zuständige kantonale Behörde der vorzeitigen Beendigung der Quarantäne zustimmt.
+<sup>4</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich auf eigene Kosten mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen.[^7-1]
 
 <sup>5</sup> Personen, die nach Absatz 4 die Einreisequarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne nach Absatz 2 gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
 
 <sup>6</sup> Ist die Person über einen Staat oder ein Gebiet ohne erhöhtes Ansteckungsrisiko eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Quarantäne nach Absatz 2 anrechnen.
+
+[^7-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 8
 
@@ -189,6 +188,13 @@ Von der Test- und Quarantänepflicht nach Artikel 7 ausgenommen sind Personen:
 - g. die nach der Teilnahme an einer Veranstaltung in einem Staat oder Gebiet mit erhöhtem Ansteckungsrisiko wieder in die Schweiz einreisen, wenn der Nachweis erbracht wird, dass die Teilnahme und der Aufenthalt unter Einhaltung eines spezifischen Schutzkonzepts stattgefunden haben; als Teilnahme an einer Veranstaltung gilt namentlich die in der Regel berufsmässige Teilnahme an einem Sportwettkampf oder Kulturanlass oder an einem Fachkongress für Berufsleute;
 - h. die den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und als geheilt gelten.
 
+<sup>1bis</sup>
+
+Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
+
+- a. Kinder unter 12 Jahren;
+- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.[^8-2]
+
 <sup>2</sup> Auf Personen, die Symptome einer Erkrankung mit Covid-19 aufweisen, ist Absatz 1 nicht anwendbar, es sei denn, die betreffende Person kann mit einem ärztlichen Attest nachweisen, dass die Symptome auf eine andere Ursache zurückzuführen sind.
 
 <sup>3</sup> Bei Personen nach Absatz 1 Buchstabe a prüft der Arbeitgeber, ob die zwingende Notwendigkeit gegeben ist, und bescheinigt diese.
@@ -196,12 +202,52 @@ Von der Test- und Quarantänepflicht nach Artikel 7 ausgenommen sind Personen:
 <sup>4</sup> Die zuständige kantonale Behörde kann in begründeten Fällen weitere Ausnahmen von der Test- und Quarantänepflicht bewilligen oder Erleichterungen gewähren.
 
 [^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^8-2]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 9
 
 **Meldepflicht**
 
 Wer gemäss dieser Verordnung verpflichtet ist, sich in Einreisequarantäne zu begeben, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Behörde melden und die Anweisungen dieser Behörde befolgen.
+
+## 4*a*. Abschnitt:**** Besondere Pflichten der Luftverkehrsunternehmen
+
+[^sec4a-1]
+
+[^sec4a-1]: Eingefügt durch Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+
+#### Art. 9a
+
+<sup>1</sup> Die Luftverkehrsunternehmen müssen die Passagiere informieren, dass diese sich vor dem Abflug auf Sars-CoV-2 testen lassen müssen und dass sie zum Flugzeug nur zugelassen werden, wenn sie ein negatives Testergebnis vorweisen können.
+
+<sup>2</sup>
+
+Sie müssen vor dem Abflug überprüfen, ob ein negatives Testergebnis vorliegt, das auf einem Verfahren beruht, das dem Stand von Wissenschaft und Technik entspricht. Dabei gilt, dass die Probeentnahme für:
+
+- a. eine molekularbiologische Analyse auf Sars-CoV-2 nicht vor mehr als 72 Stunden durchgeführt wurde;
+- b. einen immunologischen Sars-CoV-2-Schnelltest nicht vor mehr als 24 Stunden durchgeführt wurde.
+
+<sup>3</sup>
+
+Das Dokument mit dem Testergebnis muss folgende Angaben enthalten:
+
+- a. Name, Vorname und Geburtsdatum der getesteten Person;
+- b. Datum und Zeit der Probeentnahme;
+- c. die Art der Testung nach Absatz 2 Buchstabe a oder b;
+- d. das Testergebnis selber.
+
+<sup>4</sup> Die Luftverkehrsunternehmen müssen Passagieren, die kein negatives Testergebnis nach Absatz 2 nachweisen können, den Zutritt zum Flugzeug verweigern.
+
+<sup>5</sup>
+
+Sie dürfen folgende Passagiere ohne das Vorhandensein eines negativen Testergebnisses befördern:
+
+- a. Kinder unter zwölf Jahren;
+- b. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen dringend in die Schweiz transportiert werden müssen;
+- c. Personen, die das Schweizer Bürgerrecht oder einen von der Schweiz ausgestellten Aufenthaltstitel besitzen und keine Möglichkeit haben, sich innert nützlicher Frist oder mit vernünftigem Aufwand auf Sars-CoV-2 testen zu lassen; die fehlende Möglichkeit muss mit einer Selbstdeklaration bestätigt werden;
+- d. Personen, die auf der Durchreise einen schweizerischen Flughafen nutzen, ohne diesen vor der Weiterreise zu verlassen;
+- e. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie sich innerhalb der letzten drei Monate vor der Einreise in die Schweiz mit Sars-CoV-2 angesteckt haben und dass sie als geheilt gelten;
+- f. Personen, die mit einem ärztlichen Attest den Nachweis erbringen, dass sie aus medizinischen Gründen keinen für einen Sars-CoV-2-Test notwendigen Nasen-Rachen-Abstrich machen können.
 
 ## 5. Abschnitt: Kontrollen und Meldungen durch Grenzkontrollbehörden
 
@@ -228,7 +274,7 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 <sup>2</sup> Die Änderung anderer Erlasse ist in Anhang 2 geregelt.
 
-[^11-1]: [[AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496), [3549](https://fedlex.data.admin.ch/eli/oc/2020/626), [3699](https://fedlex.data.admin.ch/eli/oc/2020/672), [4513](https://fedlex.data.admin.ch/eli/oc/2020/794), [6399](https://fedlex.data.admin.ch/eli/oc/2020/1047); [2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)]
+[^11-1]: [[AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496), [3549](https://fedlex.data.admin.ch/eli/oc/2020/626), [3699](https://fedlex.data.admin.ch/eli/oc/2020/672), [4513](https://fedlex.data.admin.ch/eli/oc/2020/794), [6399](https://fedlex.data.admin.ch/eli/oc/2020/1047), [2021 43](https://fedlex.data.admin.ch/eli/oc/2021/43)]
 
 #### Art. 12
 
@@ -244,12 +290,16 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Febr. 2021, in Kraft seit 11. Febr. 2021 ([AS 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 10. Febr. 2021, in Kraft seit 22. Febr. 2021 ([AS 2021 89](https://fedlex.data.admin.ch/eli/oc/2021/89)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
 
+Albanien
+
 Andorra
+
+Bahrain
 
 Brasilien
 
@@ -258,6 +308,8 @@ Estland
 Irland
 
 Israel
+
+Kolumbien
 
 Lettland
 
@@ -281,15 +333,25 @@ San Marino
 
 Schweden
 
+Serbien
+
+Seychellen
+
 Slowakei
 
 Slowenien
 
 Spanien
 
+St. Lucia
+
+St. Vincent und die Grenadinen
+
 Südafrika
 
 Tschechien
+
+Vereinigte Arabische Emirate
 
 Vereinigtes Königreich
 
@@ -299,16 +361,28 @@ Vereinigte Staaten von Amerika
 
 Gebiete in Deutschland:
 
+- – Land Brandenburg
+- – Land Sachsen-Anhalt
 - – Land Thüringen
 
 Gebiete in Frankreich:
 
+- – Region Centre-Val de Loire
+- – Region Hauts-de-France
+- – Region Île de France
+- – Region Normandie
+- – Region Nouvelle-Aquitaine
+- – Region Occitanie
+- – Region Pays de la Loire
 - – Region Provence-Alpes-Côte d’Azur
 
 Gebiete in Italien:
 
+- – Region Apulien
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien
+- – Region Marken
+- – Region Umbrien
 
 Gebiete in Österreich:
 

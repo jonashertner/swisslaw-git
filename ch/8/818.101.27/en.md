@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-02-11
+version: 2021-02-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210222/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210222-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210222/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 11 February 2021)
+of 27 January 2021 (Status as of 22 February 2021)
 
 The Swiss Federal Council,
 
@@ -76,12 +76,20 @@ Persons entering Switzerland from a country or region with an increased risk of 
 - a. online by means of the platform for recording contact data for travellers[^3-2] provided by the Federal Office of Public Health (FOPH); or
 - b. on the paper contact forms provided by the FOPH.
 
+<sup>1bis</sup> Persons who do not enter Switzerland as a passenger with a passenger transport operator pursuant to Article 4 and who record their contact details on a contact form must retain the form for 14 days..[^3-3]
+
 <sup>2</sup> Persons entering Switzerland from countries or regions that do not have an increased risk of infection must provide their contact data online or on paper only if they are entering Switzerland by rail, bus, ship or aircraft.
 
-<sup>3</sup> Persons entering from regions on the border with Switzerland that have close economic, social and cultural ties with Switzerland are exempted from the obligation in paragraphs 1 and 2.
+<sup>3</sup> The following persons are exempted from the obligations in paragraphs 1 and 2.
+
+- a. persons entering from regions on the border with Switzerland that have close economic, social and cultural ties with Switzerland;
+- b. persons who carry goods or persons across the border as part of their professional activity;
+- c. persons who enter Switzerland solely in order to transit the country and who intend and are able to travel directly to another country.[^3-4]
 
 [^3-1]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: The platform for recording contact data for travellers can be accessed at https://swissplf.admin.ch
+[^3-3]: Inserted by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Amended by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -101,11 +109,9 @@ Persons entering Switzerland from a country or region with an increased risk of 
 
 #### Art. 5
 
-**Special obligations for airlines**
+[^5-1]
 
-<sup>1</sup> Airlines must inform their passengers that they must take a molecular-biological test for Sars-CoV-2 before departure and will only be permitted to board the aircraft if the test result is negative.
-
-<sup>2</sup> Airlines must verify the existence of a negative test result before departure and, if no proof is available, refuse to allow the passenger concerned to board the aircraft.
+[^5-1]: Repealed by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), with effect from 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 6
 
@@ -149,22 +155,13 @@ Persons under paragraph 1 who are unable to produce proof of a negative test on 
 - a. a molecular-biological test for Sars-CoV-2; or
 - b. a Sars-CoV-2 rapid test.
 
-<sup>4</sup>
-
-Persons required to quarantine on entry may leave quarantine within 10 days provided:
-
-- a.
-
-  they provide the responsible cantonal authority with proof of a negative result for one of the following tests carried out at their own expense on or after the seventh day of quarantine:
-
-  - 1\. a molecular-biological test for Sars-CoV-2,
-  - 2\. a Sars-CoV-2 rapid test; and
-
-- b. the responsible cantonal authority agrees to the early termination of quarantine.
+<sup>4</sup> Persons required to quarantine on entry may leave quarantine within 10 days provided they undergo at their own expense either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine.[^7-1]
 
 <sup>5</sup> Persons who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
 
 <sup>6</sup> If a person has entered Switzerland from a country or region that does not have an increased risk of infection, the responsible cantonal authority may take account of the duration of the person’s stay in that country or region when calculating the time to be spent in quarantine under paragraph 2.
+
+[^7-1]: Amended by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 8
 
@@ -191,6 +188,13 @@ The following persons are exempted from the requirement to be tested and to quar
 - g. persons who re-enter Switzerland after participating in an event in a country or region with an increased risk of infection, provided they prove that their participation and stay took place in compliance with a specific precautionary measures plan; participating in an event includes in particular participating, normally in a professional capacity, in a sporting competition or cultural event, or attending a professional conference;
 - h. persons who prove that they were infected with Sars-CoV-2 within the three months prior to entering Switzerland and have recovered.
 
+<sup>1bis</sup>
+
+The following persons are also exempted from the requirement to be tested under Article 7:
+
+- a. children under 12 years of age;
+- b. persons who can provide a medical certificate to prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test.[^8-2]
+
 <sup>2</sup> Paragraph 1 does not apply to persons displaying symptoms of COVID-19, unless the person concerned can provide certified medical evidence that the symptoms have a different cause.
 
 <sup>3</sup> In the case of persons under paragraph 1 letter a, their employer shall verify and certify that entering Switzerland is essential.
@@ -198,12 +202,52 @@ The following persons are exempted from the requirement to be tested and to quar
 <sup>4</sup> The competent cantonal authority may in justified cases permit further exceptions from the requirement to be tested and to quarantine or relax certain conditions.
 
 [^8-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^8-2]: Inserted by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 9
 
 **Notification requirement**
 
 Any person who is required to go into quarantine on entry in accordance with this Ordinance must notify the competent cantonal authority within two days of their arrival in Switzerland and follow the instructions they are given by this authority.
+
+## Section 4*a***** Special Obligations for Airlines
+
+[^sec4a-1]
+
+[^sec4a-1]: Inserted by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+
+#### Art. 9a
+
+<sup>1</sup> Airlines must inform their passengers that they must be tested for Sars-CoV-2 before departure and that they will only be permitted to board the aircraft if they can produce a negative test result.
+
+<sup>2</sup>
+
+Airlines must verify before departure whether a negative test result is available that is based on a procedure that corresponds to the current state of the art in science and technology. In doing so, they must verify that:
+
+- a. the sample for a molecular-biological analysis for Sars-CoV-2 was taken no more than 72 hours previously;
+- b. the sample for an immunological Sars-CoV-2-rapid test was taken no more than 24 hours previously.
+
+<sup>3</sup>
+
+The document with the test result must contain the following information:
+
+- a. the surname, first name and date of birth of the person tested;
+- b. the date and time of taking the sample;
+- c. the form of test pursuant to paragraph 2 letter a or b;
+- d. the test result itself.
+
+<sup>4</sup> The airlines must not permit passengers who are unable to produce a negative test result under paragraph 2 to board the aircraft.
+
+<sup>5</sup>
+
+They may carry the following passengers without these passengers being required to produce a negative test result:
+
+- a. children under twelve years of age;
+- b. persons who can provide a medical certificate to prove that they must be transported to Switzerland as a matter of urgency on medical grounds;
+- c. persons who have Swiss citizenship or hold a residence permit issued by Switzerland and who are unable to be tested for Sars-CoV-2 within a reasonable time or at reasonable expense; the persons concerned must sign a declaration confirming the lack of opportunity;
+- d. persons who are using a Swiss airport while in transit without leaving that airport before continuing their journey;
+- e. persons who can provide a medical certificate to prove that they were infected with Sars-CoV-2 within the three months prior to entering Switzerland and that they have recovered;
+- f. persons who can provide a medical certificate to prove that they are unable on medical grounds to provide the nasopharyngeal swab required for the Sars-CoV-2 test.
 
 ## Section 5 Checks and Reports by Border Control Authorities
 
@@ -246,14 +290,20 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by Annex No I of the O of the FDHA of 10 Feb. 2021, in force since 11 Feb. 2021 ([AS 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
+[^t-1]: Amended by Annex No I of the O of the FDHA of 10 Feb. 2021, in force since 22 Feb. 2021 ([AS 2021 89](https://fedlex.data.admin.ch/eli/oc/2021/89)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
 
+Albania
+
 Andorra
 
+Bahrain
+
 Brazil
+
+Colombia
 
 Czech Republic
 
@@ -283,15 +333,25 @@ Portugal
 
 San Marino
 
+Serbia
+
+Seychelles
+
 Slovakia
 
 Slovenia
 
 Spain
 
+St. Lucia
+
+St. Vincent and the Grenadines
+
 South Africa
 
 Sweden
+
+United Arab Emirates
 
 United Kingdom
 
@@ -301,16 +361,28 @@ United States of America
 
 Regions in Germany:
 
-- – State of Thüringen
+- – State of Brandenburg
+- – State of Saxony-Anhalt
+- – State of Thuringia
 
 Regions in France:
 
+- – Centre-Val de Loire Region
+- – Hauts-de-France Region
+- – Île de France Region
+- – Normandy Region
+- – Nouvelle-Aquitaine Region
+- – Occitanie Region
+- – Pays de la Loire Region
 - – Provence-Alpes-Côte d’Azur Region
 
 Regions in Italy:
 
-- – Region of Emilia Romagna
-- – Region of Friuli Venezia Giulia
+- – Apulia Region
+- – Emilia Romagna Region
+- – Friuli Venezia Giulia Region
+- – Marche Region
+- – Umbria Region
 
 Regions in Austria:
 

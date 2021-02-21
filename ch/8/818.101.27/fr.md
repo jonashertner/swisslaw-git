@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-02-11
+version: 2021-02-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210211/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210211-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210222/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210222-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210222/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210211/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 11 février 2021)
+du 27 janvier 2021 (Etat le 22 février 2021)
 
 Le Conseil fédéral suisse,
 
@@ -74,12 +74,22 @@ Les personnes entrant en Suisse en provenance d’un État ou d’une zone prés
 - a. sous forme électronique via la plateforme d’enregistrement des coordonnées des voyageurs mise à disposition par l’Office fédéral de la santé publique (OFSP)[^3-2], ou
 - b. sur papier sur les cartes de contact fournies par l’OFSP.
 
+<sup>1bis</sup> Les personnes qui n’entrent pas en Suisse avec une entreprise de transport visée à l’art. 4 et qui enregistrent leurs coordonnées sur une carte de contact doivent conserver cette carte pendant 14 jours.[^3-3]
+
 <sup>2</sup> Les personnes entrant en Suisse en provenance d’un État ou d’une zone ne présentant pas un risque élevé d’infection ne sont tenues d’enregistrer leurs coordonnées sous forme électronique ou sur papier que si leur arrivée en Suisse a lieu en train, en bus, en bateau ou en avion.
 
-<sup>3</sup> Sont exemptées de l’obligation prévue aux al. 1 et 2 les personnes en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse.
+<sup>3</sup>
+
+Sont exemptées des obligations prévues aux al. 1 et 2 les personnes:
+
+- a. qui entrent en Suisse en provenance de zones frontalières qui entretiennent des liens économiques, sociaux et culturels étroits avec la Suisse;
+- b. qui transportent des voyageurs ou des biens dans le cadre de leur activité professionnelle en traversant la frontière;
+- c. qui n’entrent en Suisse que pour la traverser, avec l’intention et la possibilité de continuer directement leur voyage vers un autre pays.[^3-4]
 
 [^3-1]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 [^3-2]: La plateforme d’enregistrement des coordonnées des voyageurs est accessible à l’adresse https://swissplf.admin.ch
+[^3-3]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^3-4]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 4
 
@@ -99,11 +109,9 @@ Les personnes entrant en Suisse en provenance d’un État ou d’une zone prés
 
 #### Art. 5
 
-**Obligations particulières des entreprises de transport aérien**
+[^5-1]
 
-<sup>1</sup> Les entreprises de transport aérien doivent informer les passagers qu’ils sont tenus de se faire tester avant le départ par une analyse de biologie moléculaire pour le SARS-CoV-2 et qu’ils ne seront admis dans l’avion que si le résultat du test s’est avéré négatif.
-
-<sup>2</sup> Elles doivent vérifier l’existence d’un résultat de test négatif avant le départ et, si le passager ne peut en apporter la preuve, lui refuser l’accès à l’avion.
+[^5-1]: Abrogé par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), avec effet au 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 6
 
@@ -147,22 +155,13 @@ Les personnes visées à l’al. 1 qui ne peuvent pas présenter de résultat de
 - a. par une analyse de biologie moléculaire pour le SARS-CoV-2, ou
 - b. par un test rapide pour le SARS-CoV-2.
 
-<sup>4</sup>
-
-Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si:
-
-- a.
-
-  elles présentent à l’autorité cantonale compétente le résultat négatif d’une analyse effectuée à leurs propres frais; l’analyse peut avoir lieu au plus tôt le septième jour de la quarantaine au moyen:
-
-  - 1\. d’une analyse de biologie moléculaire pour le SARS-CoV-2,
-  - 2\. d’un test rapide pour le SARSCoV-2, et que
-
-- b. l’autorité cantonale compétente donne son accord à la fin anticipée de la quarantaine.
+<sup>4</sup> Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si elles font faire à leurs propres frais une analyse de biologie moléculaire ou un test rapide pour le SARS-CoV-2, et que le résultat est négatif. Le test peut être effectué au plus tôt le septième jour de la quarantaine.[^7-1]
 
 <sup>5</sup> Les personnes qui mettent fin à la quarantaine-voyage de manière anticipée en vertu de l’al. 4 doivent, jusqu’à la date à laquelle la quarantaine était fixée en vertu de l’al. 2, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
 
 <sup>6</sup> Si la personne est entrée en Suisse en passant par un État ou une zone ne présentant pas un risque élevé d’infection, l’autorité cantonale compétente peut réduire la durée de la quarantaine prévue à l’al. 2 de la durée du séjour dans cet État ou cette zone.
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 8
 
@@ -189,6 +188,13 @@ Sont exemptées de l’obligation de test et de quarantaine visée à l’art. 7
 - g. qui reviennent en Suisse après avoir participé à une manifestation dans un État ou une zone présentant un risque élevé d’infection, pour autant que la preuve soit fournie que la participation et le séjour se sont déroulés dans le respect d’un plan de protection spécifique; est notamment considérée comme participation à une manifestation la participation en règle générale professionnelle à une compétition sportive ou à une manifestation culturelle, ainsi qu’à un congrès spécialisé pour professionnels;
 - h. qui peuvent fournir la preuve qu’elles ont déjà contracté le SARS-CoV-2 au cours des trois derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries.
 
+<sup>1bis</sup>
+
+Sont également exemptés de l’obligation de test visée à l’art. 7:
+
+- a. les enfants de moins de douze ans;
+- b. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.[^8-2]
+
 <sup>2</sup> L’al. 1 ne s’applique pas aux personnes qui présentent des symptômes du COVID-19 à moins que celles-ci puissent prouver, attestation médicale à l’appui, que les symptômes peuvent être attribués à une autre cause.
 
 <sup>3</sup> L’employeur vérifie le caractère absolument nécessaire de l’activité exercée par les personnes visées à l’al. 1, let. a, et l’atteste.
@@ -196,12 +202,46 @@ Sont exemptées de l’obligation de test et de quarantaine visée à l’art. 7
 <sup>4</sup> Dans des cas fondés, l’autorité cantonale compétente peut autoriser d’autres dérogations à l’obligation de test et de quarantaine ou accorder des allégements.
 
 [^8-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^8-2]: Introduit par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
 #### Art. 9
 
 **Obligation de déclaration**
 
 Toute personne obligée de se mettre en quarantaine-voyage en vertu de la présente ordonnance doit déclarer son entrée en Suisse à l’autorité cantonale compétente dans un délai de 2 jours et suivre ses instructions.
+
+## Section 4*a***** Obligations particulières des entreprises de transport aérien
+
+[^sec4a-1]
+
+[^sec4a-1]: Introduite par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+
+**Art. 9**a
+
+<sup>1</sup> Les entreprises de transport aérien doivent informer les passagers qu’ils sont tenus de se faire tester pour le SARS-CoV-2 avant le départ et qu’ils ne seront autorisés à monter dans l’avion que s’ils peuvent présenter un résultat de test négatif.
+
+<sup>2</sup> Avant le départ, elles doivent vérifier l’existence d’un résultat de test négatif basé sur une analyse répondant à l’état de la science et de la technique. Le prélèvement ne doit pas avoir été réalisé depuis:
+
+- a. plus de 72 heures dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2;
+- b. plus de 24 heures dans le cas d’un test immunologique rapide SARS-CoV-2.
+
+<sup>3</sup> Le document contenant le résultat du test doit contenir les informations suivantes:
+
+- a. le nom, le prénom et la date de naissance de la personne testée;
+- b. la date et l’heure du prélèvement;
+- c. le type de test selon l’al. 2, let. a ou b;
+- d. le résultat du test.
+
+<sup>4</sup> Les entreprises de transport aérien doivent refuser l’accès à l’avion à tous les passagers qui ne peuvent apporter la preuve d’un résultat de test négatif au sens de l’al. 2.
+
+<sup>5</sup> Elles peuvent transporter les passagers suivants en l’absence d’un résultat de test négatif:
+
+- a. les enfants de moins de douze ans;
+- b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
+- c. les personnes de nationalité suisse ou titulaires d’un titre de séjour délivré par la Suisse qui n’ont pas la possibilité de se faire tester pour le SARS-CoV-2 en temps utile ou sans efforts disproportionnés; ces personnes doivent remplir une déclaration confirmant cette impossibilité;
+- d. les personnes qui transitent par un aéroport suisse et ne le quittent pas avant de poursuivre leur voyage;
+- e. les personnes munies d’une attestation médicale prouvant qu’elles ont déjà contracté le SARS-CoV-2 au cours des trois derniers mois précédant leur entrée en Suisse et qu’elles sont considérées comme guéries;
+- f. les personnes munies d’une attestation médicale prouvant que, pour des raisons médicales, elles ne peuvent pas subir le frottis nasopharyngé nécessaire au dépistage du SARS-CoV-2.
 
 ## Section 5 Contrôles et signalements des autorités chargées des contrôle à la frontière
 
@@ -242,16 +282,24 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 fév. 2021, en vigueur depuis le 11 fév. 2021 ([RO 2021 78](https://fedlex.data.admin.ch/eli/oc/2021/78)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 fév. 2021, en vigueur depuis le 22 fév. 2021 ([RO 2021 89](https://fedlex.data.admin.ch/eli/oc/2021/89)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
 
 Afrique du Sud
 
+Albanie
+
 Andorre
 
+Bahreïn
+
 Brésil
+
+Colombie
+
+Émirats arabes unis
 
 Espagne
 
@@ -283,7 +331,15 @@ Royaume des Pays-Bas
 
 Royaume-Uni
 
+Sainte-Lucie
+
 Saint-Marin
+
+Saint-Vincent-et-les Grenadines
+
+Serbie
+
+Seychelles
 
 Slovaquie
 
@@ -297,16 +353,28 @@ Tchéquie
 
 Zones en Allemagne:
 
+- – Land Brandenburg
+- – Land Sachsen-Anhalt
 - – Land Thüringen
 
 Zones en France:
 
+- – Région Centre-Val de Loire
+- – Région Hauts-de-France
+- – Région Île de France
+- – Région Normandie
+- – Région Nouvelle-Aquitaine
+- – Région Occitanie
+- – Région Pays de la Loire
 - – Région Provence-Alpes-Côte d’Azur
 
 Zones en Italie:
 
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
+- – Regione Marche
+- – Regione Puglia
+- – Regione Umbria
 
 Zones en Autriche:
 
