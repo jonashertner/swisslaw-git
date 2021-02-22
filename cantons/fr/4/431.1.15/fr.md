@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.15"
-title: "Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2020/21"
+title: "Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2021/22"
 language: fr
-version: 2020-05-19
-valid_until: 2021-02-22
-version_adopted: 2020-05-19
+version: 2021-02-23
+valid_until: 2021-11-29
+version_adopted: 2021-02-23
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/431.1.15"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6525/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6775/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2020/21
+# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2021/22
 
 Université, bachelor en sciences du sport et de la motricité – O
 
-du 19.05.2020 (version entrée en vigueur le 19.05.2020)
+du 23.02.2021 (version entrée en vigueur le 23.02.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -40,7 +40,7 @@ Arrête:
 
 **Champ d'application et but**
 
-<sup>1</sup> La présente ordonnance s'applique à tous les candidats et toutes les candidates qui souhaitent commencer un programme d'études de niveau bachelor en SSM (branche principale ou branche complémentaire) à l'Université de Fribourg dès le semestre d'automne 2020.
+<sup>1</sup> La présente ordonnance s'applique à tous les candidats et toutes les candidates qui souhaitent commencer un programme d'études de niveau bachelor en SSM (branche principale ou branche complémentaire) à l'Université de Fribourg dès le semestre d'automne 2021.
 
 <sup>2</sup> Elle règle la limitation du nombre de places d'études ainsi que la procédure de sélection.
 
@@ -50,7 +50,7 @@ Arrête:
 
 **Capacité d'accueil**
 
-<sup>1</sup> Pour l'année académique 2020/21, la capacité d'accueil est fixée à 50 nouvelles places d'études au total, tous programmes SSM confondus.
+<sup>1</sup> Pour l'année académique 2021/22, la capacité d'accueil est fixée à 50 nouvelles places d'études au total, tous programmes SSM confondus.
 
 #### Art. 3
 
@@ -78,7 +78,7 @@ Arrête:
 
 <sup>1</sup> Si le nombre de candidats et candidates ayant réussi le TCPM est supérieur au nombre de places d'études disponibles, celles-ci sont attribuées selon l'ordre des résultats obtenus au test.
 
-<sup>2</sup> La décision relative à l'attribution de la place d'études est communiquée aux candidats et candidates par le Décanat de la Faculté des sciences et de médecine, par écrit, au plus tard le 1<sup>er</sup> septembre 2020.
+<sup>2</sup> La décision relative à l'attribution de la place d'études est communiquée aux candidats et candidates par le Décanat de la Faculté des sciences et de médecine, par écrit, au plus tard le 30 juillet 2021.
 
 <sup>3</sup> L'attribution de la place d'études est soumise à la réserve que les autres conditions générales d'admission à l'Université de Fribourg soient remplies. Le Service d'admission et d'inscription rend sa décision indépendamment de la procédure réglée par la présente ordonnance.
 
@@ -92,7 +92,7 @@ Arrête:
 
 **Validité du TCPM**
 
-<sup>1</sup> La validité du TCPM 2020 s'applique exclusivement pour un début d'études en automne 2020. Elle ne peut être reportée à l'année académique suivante.
+<sup>1</sup> La validité du TCPM 2021 s'applique exclusivement pour un début d'études en automne 2021. Elle ne peut être reportée à l'année académique suivante.
 
 #### Art. 7
 
@@ -106,7 +106,7 @@ Arrête:
 
 **Dates du TCPM**
 
-<sup>1</sup> Compte tenu de la situation actuelle liée à la pandémie de COVID-19, le TCPM, initialement prévu les 29 et 30 juin 2020, est reporté aux 22 et 23 août 2020.
+<sup>1</sup> Le TCPM a lieu les 5 et 6 juillet 2021.
 
 #### Art. 9
 
@@ -118,4 +118,4 @@ Arrête:
 
 <sup>3</sup> Les décisions du Rectorat peuvent faire l'objet d'un recours auprès de la Commission de recours de l'Université de Fribourg.
 
-2020\_054
+2021\_023

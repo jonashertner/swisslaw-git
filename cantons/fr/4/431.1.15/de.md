@@ -1,24 +1,24 @@
 ---
 canton: FR
 number: "431.1.15"
-title: Verordnung über die Beschränkung der Studienplätze 2020/21 für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg
+title: Verordnung über die Beschränkung der Studienplätze 2021/22 für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg
 language: de
-version: 2020-05-19
-valid_until: 2021-02-22
-version_adopted: 2020-05-19
+version: 2021-02-23
+valid_until: 2021-11-29
+version_adopted: 2021-02-23
 adopted: 2025-12-09
 in_force: 2026-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/431.1.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/6525/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6775/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die Beschränkung der Studienplätze 2020/21 für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg
+# Verordnung über die Beschränkung der Studienplätze 2021/22 für den Studiengang Bachelor of Science in Sport- und Bewegungswissenschaften an der Universität Freiburg
 
 Universität, Bachelor of Science in Sport- und Bewegungswissenschaften – V
 
-vom 19.05.2020 (Fassung in Kraft getreten am 19.05.2020)
+vom 23.02.2021 (Fassung in Kraft getreten am 23.02.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,19 +28,19 @@ in Erwägung:
 
 Seit Herbst 2007 bietet die Mathematisch-Naturwissenschaftliche Fakultät[^ingress-1] der Universität Freiburg den Studiengang Bachelor of Science (BSc) in Sport- und Bewegungswissenschaften (SBW) an.
 
-Diese Studienrichtung, die der Abteilung Medizin angegliedert ist, erfreut sich eines grossen Interesses. Jedes Jahr stellen rund 100 Studienanwärterinnen und ‑anwärter bis 30. April ein Zulassungsgesuch für das kommende Studienjahr. Die Sportinfrastrukturen auf der Pérolles-Ebene und in ihrer Umgebung erlauben es nicht, jährlich mehr als 50 Studierende aufzunehmen, wenn die Sicherheitsnormen in der Organisation der praktisch-methodischen Kurse eingehalten werden sollen. Deshalb ist eine Beschränkung der Studienplätze notwendig.
+Diese Studienrichtung, die der Abteilung Medizin angegliedert ist, erfreut sich grosser Beliebtheit. Jedes Jahr stellen rund 100 Studienanwärterinnen und ‑anwärter bis zum 30. April ein Zulassungsgesuch für das kommende Studienjahr. Die Sportinfrastrukturen auf der Pérolles-Ebene und in ihrer Umgebung erlauben es nicht, jährlich mehr als 50 Studierende aufzunehmen, wenn die Sicherheitsnormen in der Organisation der praktisch-methodischen Kurse eingehalten werden sollen. Deshalb ist eine Beschränkung der Studienplätze notwendig.
 
 Auf Antrag der Direktion für Erziehung, Kultur und Sport,
 
 beschliesst:
 
-[^ingress-1]: Anmerkung des Autors – Heute: Mathematisch-Naturwissenschaftliche und Medizinische Fakultät.
+[^ingress-1]: Anmerkung des Verfassers – Heute: Mathematisch-Naturwissenschaftliche und Medizinische Fakultät.
 
 #### Art. 1
 
 **Geltungsbereich und Zweck**
 
-<sup>1</sup> Diese Verordnung gilt für alle Studienanwärterinnen und ‑anwärter, die ab dem Herbstsemester 2020 ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg beginnen möchten.
+<sup>1</sup> Diese Verordnung gilt für alle Studienanwärterinnen und ‑anwärter, die ab dem Herbstsemester 2021 ein Studienprogramm des Bachelor of Science in SBW (Hauptfach oder Nebenfach) an der Universität Freiburg beginnen möchten.
 
 <sup>2</sup> Die Verordnung regelt die Beschränkung der Studienplätze und das Auswahlverfahren.
 
@@ -50,7 +50,7 @@ beschliesst:
 
 **Aufnahmekapazität**
 
-<sup>1</sup> Für das akademische Jahr 2020/21 wird die Aufnahmekapazität auf insgesamt 50 neue Studienplätze für alle SBW-Studienprogramme festgelegt.
+<sup>1</sup> Für das akademische Jahr 2021/22 wird die Aufnahmekapazität auf insgesamt 50 neue Studienplätze für alle SBW-Studienprogramme festgelegt.
 
 #### Art. 3
 
@@ -78,7 +78,7 @@ beschliesst:
 
 <sup>1</sup> Übersteigt die Anzahl Studienanwärterinnen und ‑anwärter, die den TKMF bestanden haben, die Anzahl zur Verfügung stehender Studienplätze, so werden die Plätze in der Reihenfolge der beim TKMF erzielten Resultate zugeteilt.
 
-<sup>2</sup> Der Entscheid über die Zuteilung eines Studienplatzes wird den Studienanwärterinnen und ‑anwärtern bis spätestens 1. September 2020 vom Dekanat der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät schriftlich mitgeteilt.
+<sup>2</sup> Der Entscheid über die Zuteilung eines Studienplatzes wird den Studienanwärterinnen und ‑anwärtern bis spätestens am 30. Juli 2021 vom Dekanat der Mathematisch-Naturwissenschaftlichen und Medizinischen Fakultät schriftlich mitgeteilt.
 
 <sup>3</sup> Damit ein Studienplatz zugeteilt werden kann, müssen alle übrigen allgemeinen Zulassungsbedingungen der Universität Freiburg erfüllt sein. Die Dienststelle für Zulassung und Einschreibung erlässt ihren Entscheid unabhängig vom Verfahren, das in dieser Verordnung beschrieben wird.
 
@@ -92,7 +92,7 @@ beschliesst:
 
 **Gültigkeit des TKMF**
 
-<sup>1</sup> Ein bestandener TKMF 2020 ist ausschliesslich für einen Studienbeginn im Herbst 2020 gültig. Er kann nicht auf das folgende akademische Jahr übertragen werden.
+<sup>1</sup> Ein bestandener TKMF 2021 ist ausschliesslich für einen Studienbeginn im Herbst 2021 gültig. Er kann nicht auf das folgende akademische Jahr übertragen werden.
 
 #### Art. 7
 
@@ -106,7 +106,7 @@ beschliesst:
 
 **Datum des TKMF**
 
-<sup>1</sup> Angesichts der aktuellen Situation im Zusammenhang mit der COVID-19-Pandemie wird der ursprünglich für den 29. und 30. Juni 2020 geplante TKMF auf den 22. und 23. August 2020 verschoben.
+<sup>1</sup> Der TKMF findet am 5. und 6. Juli 2021 statt.
 
 #### Art. 9
 
@@ -118,4 +118,4 @@ beschliesst:
 
 <sup>3</sup> Gegen Entscheide des Rektorats kann bei der Rekurskommission der Universität Freiburg Beschwerde eingereicht werden.
 
-2020\_054
+2021\_023
