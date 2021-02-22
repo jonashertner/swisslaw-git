@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Übereinkommen von Paris vom 12. Dezember 2015 (Klimaübereinkommen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: de
-version: 2020-12-08
+version: 2021-02-23
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20201208/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20201208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20201208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20210223/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20210223-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20210223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2017** 5735; BBl **2017** 317
 
 *Übersetzung*[^t-1]
 
-(Klimaübereinkommen)**[^t-2]**
+(Klimaübereinkommen)[^t-2]
 
 Abgeschlossen in Paris am 12. Dezember 2015
 
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 6. Oktober 2017
 
 In Kraft getreten für die Schweiz am 5. November 2017
 
-(Stand am 8. Dezember 2020)
+(Stand am 23. Februar 2021)
 
 [^t-1]: Amtliche deutsche Übersetzung des Originaltexts.
 [^t-2]: Berichtigung vom 8. Dez. 2020 ([AS 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
@@ -458,7 +458,7 @@ Geschehen zu Paris am 12. Dezember 2015.
 
 *Zu Urkunde dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. Mai 2020**[^t-4]**
+Geltungsbereich am 23. Februar 2021**[^t-4]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -467,6 +467,7 @@ Geltungsbereich am 18. Mai 2020**[^t-4]**
 <tr><td>Albanien</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Algerien</td><td>20. Oktober</td><td>2016</td><td>19. November</td><td>2016</td></tr>
 <tr><td>Andorra</td><td>24. März</td><td>2017</td><td>23. April</td><td>2017</td></tr>
+<tr><td>Angola</td><td>16. November</td><td>2020</td><td>16. Dezember</td><td>2020</td></tr>
 <tr><td>Antigua und Barbuda</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Äquatorialguinea</td><td>30. Oktober</td><td>2018</td><td>29. November</td><td>2018</td></tr>
 <tr><td>Argentinien</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
@@ -648,6 +649,7 @@ Geltungsbereich am 18. Mai 2020**[^t-4]**
 <tr><td>Vanuatu\*</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Venezuela</td><td>21. Juli</td><td>2017</td><td>20. August</td><td>2017</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
+<tr><td>Vereinigte Staaten</td><td>20. Januar</td><td>2021</td><td>19. Februar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>18. November</td><td>2016</td><td>18. Dezember</td><td>2016</td></tr>
 <tr><td>Vietnam</td><td>3. November</td><td>2016</td><td>3. Dezember</td><td>2016</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016</td><td>10. November</td><td>2016</td></tr>
@@ -655,4 +657,4 @@ Geltungsbereich am 18. Mai 2020**[^t-4]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Groenland. <sup>b</sup> Das Abkommen gilt nicht für Tokelau. <sup>c</sup> Für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619), [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618), [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457), [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385)und [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).

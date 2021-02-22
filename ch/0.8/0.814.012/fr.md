@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accord de Paris du 12 décembre 2015 (Accord sur le climat)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: fr
-version: 2020-12-08
+version: 2021-02-23
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20201208/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20201208-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20201208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20210223/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20210223-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20210223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 6 octobre 2017
 
 Entré en vigueur pour la Suisse le 5 novembre 2017
 
-(Etat le 8 décembre 2020) décembre 2020)
+(Etat le 23 février 2021)
 
 [^t-1]: Erratum du 8 déc. 2020 ([RO 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RO 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -458,7 +458,7 @@ Fait à Paris le douze décembre deux mille quinze.
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. (Suivent les signatures)
 
-Champ d’application le 18 mai 2020**[^t-3]**
+Champ d’application le 23 février 2021**[^t-3]**
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -468,6 +468,7 @@ Champ d’application le 18 mai 2020**[^t-3]**
 <tr><td>Algérie</td><td>20 octobre</td><td>2016</td><td>19 novembre</td><td>2016</td></tr>
 <tr><td>Allemagne</td><td>5 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Andorre</td><td>24 mars</td><td>2017</td><td>23 avril</td><td>2017</td></tr>
+<tr><td>Angola</td><td>16 novembre</td><td>2020</td><td>16 décembre</td><td>2020</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Arabie Saoudite</td><td>3 novembre</td><td>2016</td><td>3 décembre</td><td>2016</td></tr>
 <tr><td>Argentine</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -521,6 +522,7 @@ Champ d’application le 18 mai 2020**[^t-3]**
 <tr><td>Espagne\*</td><td>12 janvier</td><td>2017</td><td>11 février</td><td>2017</td></tr>
 <tr><td>Estonie</td><td>4 novembre</td><td>2016</td><td>4 décembre</td><td>2016</td></tr>
 <tr><td>Eswatini</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
+<tr><td>États-Unis</td><td>20 janvier</td><td>2021</td><td>19 février</td><td>2021</td></tr>
 <tr><td>Éthiopie</td><td>9 mars</td><td>2017</td><td>8 avril</td><td>2017</td></tr>
 <tr><td>Fidji</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Finlande</td><td>14 novembre</td><td>2016</td><td>14 décembre</td><td>2016</td></tr>
@@ -655,4 +657,4 @@ Champ d’application le 18 mai 2020**[^t-3]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord ne s’applique pas au Groenland. <sup>b</sup> L’Accord s’applique aux Tokélaou. <sup>c</sup> Pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619), [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618), [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457), [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385). Une version du champ d’application mise à jour est publiée sur le site Internet du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty

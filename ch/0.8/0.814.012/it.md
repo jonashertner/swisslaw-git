@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accordo di Parigi del 12 dicembre 2015 (Accordo sul clima)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: it
-version: 2020-12-08
+version: 2021-02-23
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20201208/it/xml/fedlex-data-admin-ch-eli-cc-2017-619-20201208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20201208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20210223/it/xml/fedlex-data-admin-ch-eli-cc-2017-619-20210223-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20210223/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Ratificato con strumenti depositati dalla Svizzera il 6 ottobre 2017
 
 Entrato in vigore per la Svizzera il 5 novembre 2017
 
-(Stato 8 dicembre 2020)
+(Stato 23 febbraio 2021)
 
 [^t-1]: Correzione dell’8 dic. 2020 ([RU 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RU 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -457,7 +457,7 @@ Fatto a Parigi, il 12 dicembre 2015.
 
 *In fede di che* i sottoscritti, debitamente autorizzati a tal fine hanno firmato il presente Accordo. (Seguono le firme)
 
-Campo d’applicazione il 18 maggio 2020**[^t-3]**
+Campo d’applicazione il 23 febbraio 2021**[^t-3]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -465,6 +465,7 @@ Campo d’applicazione il 18 maggio 2020**[^t-3]**
 <tr><td>Albania</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Algeria</td><td>20 ottobre</td><td>2016</td><td>19 novembre</td><td>2016</td></tr>
 <tr><td>Andorra</td><td>24 marzo</td><td>2017</td><td>23 aprile</td><td>2017</td></tr>
+<tr><td>Angola</td><td>16 novembre</td><td>2020</td><td>16 dicembre</td><td>2020</td></tr>
 <tr><td>Antigua e Barbuda</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Arabia Saudita</td><td>3 novembre</td><td>2016</td><td>3 dicembre</td><td>2016</td></tr>
 <tr><td>Argentina</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -472,7 +473,6 @@ Campo d’applicazione il 18 maggio 2020**[^t-3]**
 <tr><td>Australia</td><td>9 novembre</td><td>2016</td><td>9 dicembre</td><td>2016</td></tr>
 <tr><td>Austria</td><td>5 ottobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Azerbaigian</td><td>9 gennaio</td><td>2017</td><td>8 febbraio</td><td>2017</td></tr>
-<tr><td>Burundi</td><td>17 gennaio</td><td>2018</td><td>16 febbraio</td><td>2018</td></tr>
 <tr><td>Bahamas</td><td>22 agosto</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Bahrein</td><td>23 dicembre</td><td>2016</td><td>22 gennaio</td><td>2017</td></tr>
 <tr><td>Bangladesh</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -482,6 +482,7 @@ Campo d’applicazione il 18 maggio 2020**[^t-3]**
 <tr><td>Belize</td><td>22 aprile</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Benin</td><td>31 ottobre</td><td>2016</td><td>30 novembre</td><td>2016</td></tr>
 <tr><td>Bhutan</td><td>19 settembre</td><td>2017</td><td>19 ottobre</td><td>2017</td></tr>
+<tr><td>Burundi</td><td>17 gennaio</td><td>2018</td><td>16 febbraio</td><td>2018</td></tr>
 <tr><td>Bolivia</td><td>5 ottobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>16 marzo</td><td>2017</td><td>15 aprile</td><td>2017</td></tr>
 <tr><td>Botswana</td><td>11 novembre</td><td>2016</td><td>11 dicembre</td><td>2016</td></tr>
@@ -625,6 +626,7 @@ Campo d’applicazione il 18 maggio 2020**[^t-3]**
 <tr><td>Somalia</td><td>22 aprile</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Spagna\*</td><td>12 gennaio</td><td>2017</td><td>11 febbraio</td><td>2017</td></tr>
 <tr><td>Sri Lanka</td><td>21 settembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
+<tr><td>Stati Uniti</td><td>20 gennaio</td><td>2021</td><td>19 febbraio</td><td>2021</td></tr>
 <tr><td>Sudafrica</td><td>1° novembre</td><td>2016</td><td>1° dicembre</td><td>2016</td></tr>
 <tr><td>Sudan</td><td>2 agosto</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
 <tr><td>Suriname</td><td>13 febbraio</td><td>2019</td><td>15 marzo</td><td>2019</td></tr>
@@ -657,4 +659,4 @@ Campo d’applicazione il 18 maggio 2020**[^t-3]**
 <tr><td colspan="5"><sup>c</sup> Per il territorio europeo dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-3]: [RU 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619), [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618), [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457), [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
