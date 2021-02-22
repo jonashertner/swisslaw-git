@@ -3,11 +3,11 @@ sr: "0.451.431"
 title: Protokoll von Cartagena vom 29. Januar 2000 über die biologische Sicherheit zum Übereinkommen über die biologische Vielfalt (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/44"
 language: de
-version: 2018-05-01
+version: 2021-02-23
 adopted: 2000-01-29
 in_force: 2003-09-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/44/20180501/de/xml/fedlex-data-admin-ch-eli-cc-2004-44-20180501-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/44/20180501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/44/20210223/de/xml/fedlex-data-admin-ch-eli-cc-2004-44-20210223-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/44/20210223/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2004** 579; BBl **2001** 4079
 
 Übersetzung
 
-Abgeschlossen in Montreal am 29. Januar 2000
+Abgeschlossen in Montreal am 29. Januar 2000 Von der Bundesversammlung genehmigt am 4. März 2002[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 26. März 2003 In Kraft getreten für die Schweiz am 11. September 2003
 
-Von der Bundesversammlung genehmigt am 4. März 2002[^t-1]
-
-Ratifikationsurkunde von der Schweiz hinterlegt am 26. März 2003
-
-In Kraft getreten für die Schweiz am 11. September 2003
-
-(Stand am 1. Mai 2018)
+(Stand am 23. Februar 2021)
 
 [^t-1]: [AS 2004 577](https://fedlex.data.admin.ch/eli/oc/2004/43)
 
@@ -56,7 +50,7 @@ in dem Verständnis, dass vorstehender Beweggrund nicht darauf abzielt, dieses P
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 1
 
@@ -632,7 +626,7 @@ Zu berücksichtigende Punkte
 - g) *Angaben zur beabsichtigten Verwendung:.* Angaben über die beabsichtigte Verwendung des lebenden veränderten Organismus, einschliesslich einer im Vergleich zum Empfängerorganismus oder zu den Ausgangsorganismen neuen oder geänderten Verwendung, und
 - h) *aufnehmende Umwelt:* Angaben über die Örtlichkeit und die geografischen, klimatischen und ökologischen Merkmale, einschliesslich einschlägiger Angaben über die biologische Vielfalt und die Ursprungszentren der voraussichtlichen aufnehmenden Umwelt.
 
-Geltungsbereich am 1. Mai 2018**[^t-2]**
+Geltungsbereich am 23. Februar 2021[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -674,6 +668,7 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>El Salvador</td><td>26. September</td><td>2003</td><td>25. Dezember</td><td>2003</td></tr>
 <tr><td>Eritrea</td><td>10. März</td><td>2005 B</td><td>8. Juni</td><td>2005</td></tr>
 <tr><td>Estland</td><td>24. März</td><td>2004</td><td>22. Juni</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td>13. Januar</td><td>2006 B</td><td>13. April</td><td>2006</td></tr>
 <tr><td>Europäische Union\*</td><td>27. August</td><td>2002</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Fidschi</td><td>5. Juni</td><td>2001</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Finnland</td><td>9. Juli</td><td>2004</td><td>7. Oktober</td><td>2004</td></tr>
@@ -734,7 +729,6 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Marshallinseln</td><td>27. Januar</td><td>2003 B</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Mauretanien</td><td>22. Juli</td><td>2005 B</td><td>20. Oktober</td><td>2005</td></tr>
 <tr><td>Mauritius</td><td>11. April</td><td>2002 B</td><td>11. September</td><td>2003</td></tr>
-<tr><td>Mazedonien</td><td>14. Juni</td><td>2005</td><td>12. September</td><td>2005</td></tr>
 <tr><td>Mexiko</td><td>27. August</td><td>2002</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Moldau</td><td>4. März</td><td>2003</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Mongolei</td><td>22. Juli</td><td>2003 B</td><td>20. Oktober</td><td>2003</td></tr>
@@ -749,6 +743,7 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Niger</td><td>30. September</td><td>2004</td><td>29. Dezember</td><td>2004</td></tr>
 <tr><td>Nigeria</td><td>15. Juli</td><td>2003</td><td>13. Oktober</td><td>2003</td></tr>
 <tr><td>Niue</td><td>8. Juli</td><td>2002 B</td><td>11. September</td><td>2003</td></tr>
+<tr><td>Nordmazedonien</td><td>14. Juni</td><td>2005</td><td>12. September</td><td>2005</td></tr>
 <tr><td>Norwegen</td><td>10. Mai</td><td>2001</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Oman</td><td>11. April</td><td>2003 B</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Österreich</td><td>27. August</td><td>2002</td><td>11. September</td><td>2003</td></tr>
@@ -773,6 +768,7 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Senegal</td><td>8. Oktober</td><td>2003</td><td>6. Januar</td><td>2004</td></tr>
 <tr><td>Serbien</td><td>8. Februar</td><td>2006 B</td><td>9. Mai</td><td>2006</td></tr>
 <tr><td>Seychellen</td><td>13. Mai</td><td>2004</td><td>11. August</td><td>2004</td></tr>
+<tr><td>Sierra Leone</td><td>15. Juni</td><td>2020 B</td><td>13. September</td><td>2020</td></tr>
 <tr><td>Simbabwe</td><td>25. Februar</td><td>2005</td><td>26. Mai</td><td>2005</td></tr>
 <tr><td>Slowakei</td><td>24. November</td><td>2003</td><td>22. Februar</td><td>2004</td></tr>
 <tr><td>Slowenien</td><td>20. November</td><td>2002</td><td>11. September</td><td>2003</td></tr>
@@ -785,7 +781,6 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Sudan</td><td>13. Juni</td><td>2005 B</td><td>11. September</td><td>2005</td></tr>
 <tr><td>Südafrika</td><td>14. August</td><td>2003 B</td><td>12. November</td><td>2003</td></tr>
 <tr><td>Suriname</td><td>27. März</td><td>2008 B</td><td>25. Juni</td><td>2008</td></tr>
-<tr><td>Swasiland</td><td>13. Januar</td><td>2006 B</td><td>13. April</td><td>2006</td></tr>
 <tr><td>Syrien</td><td>1. April</td><td>2004 B</td><td>30. Juni</td><td>2004</td></tr>
 <tr><td>Tadschikistan</td><td>12. Februar</td><td>2004 B</td><td>12. Mai</td><td>2004</td></tr>
 <tr><td>Tansania</td><td>24. April</td><td>2003 B</td><td>11. September</td><td>2003</td></tr>
@@ -802,6 +797,7 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Ukraine</td><td>6. Dezember</td><td>2002 B</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Ungarn</td><td>13. Januar</td><td>2004</td><td>12. April</td><td>2004</td></tr>
 <tr><td>Uruguay</td><td>2. November</td><td>2011</td><td>31. Januar</td><td>2012</td></tr>
+<tr><td>Usbekistan</td><td>25. Oktober</td><td>2019 B</td><td>23. Januar</td><td>2020</td></tr>
 <tr><td>Venezuela</td><td>13. Mai</td><td>2002</td><td>11. September</td><td>2003</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>12. September</td><td>2014 B</td><td>11. Dezember</td><td>2014</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>19. November</td><td>2003</td><td>17. Februar</td><td>2004</td></tr>
@@ -809,12 +805,7 @@ Geltungsbereich am 1. Mai 2018**[^t-2]**
 <tr><td>Vietnam</td><td>21. Januar</td><td>2004 B</td><td>20. April</td><td>2004</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>18. November</td><td>2008</td><td>16. Februar</td><td>2009</td></tr>
 <tr><td>Zypern</td><td>5. Dezember</td><td>2003 B</td><td>4. März</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französi-schen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Das Protokoll gilt nicht für Macau, besondere Verwaltungsregion der Volkrepublik China.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für die Färöer-Inseln und Grönland.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französi-schen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Macau, besondere Verwaltungsregion der Volkrepublik China. <sup>b</sup> Das Protokoll gilt nicht für die Färöer-Inseln und Grönland. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-- [tab]
-
-[^t-2]: [AS 2004 579](https://fedlex.data.admin.ch/eli/oc/2004/44)[3713](https://fedlex.data.admin.ch/eli/oc/2004/518), [2005 2335](https://fedlex.data.admin.ch/eli/oc/2005/398), [2006 791](https://fedlex.data.admin.ch/eli/oc/2006/117)[4451](https://fedlex.data.admin.ch/eli/oc/2006/681), [2007 1401](https://fedlex.data.admin.ch/eli/oc/2007/244), [2008 4121](https://fedlex.data.admin.ch/eli/oc/2008/577), [2010 17](https://fedlex.data.admin.ch/eli/oc/2010/5), [2011 4887](https://fedlex.data.admin.ch/eli/oc/2011/696), [2013 1485](https://fedlex.data.admin.ch/eli/oc/2013/348), [2015 591](https://fedlex.data.admin.ch/eli/oc/2015/91)und [2018 1795](https://fedlex.data.admin.ch/eli/oc/2018/268). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 579](https://fedlex.data.admin.ch/eli/oc/2004/44)[3713](https://fedlex.data.admin.ch/eli/oc/2004/518), [2005 2335](https://fedlex.data.admin.ch/eli/oc/2005/398), [2006 791](https://fedlex.data.admin.ch/eli/oc/2006/117)[4451](https://fedlex.data.admin.ch/eli/oc/2006/681), [2007 1401](https://fedlex.data.admin.ch/eli/oc/2007/244), [2008 4121](https://fedlex.data.admin.ch/eli/oc/2008/577), [2010 17](https://fedlex.data.admin.ch/eli/oc/2010/5), [2011 4887](https://fedlex.data.admin.ch/eli/oc/2011/696), [2013 1485](https://fedlex.data.admin.ch/eli/oc/2013/348), [2015 591](https://fedlex.data.admin.ch/eli/oc/2015/91), [2018 1795](https://fedlex.data.admin.ch/eli/oc/2018/268), [2021 117](https://fedlex.data.admin.ch/eli/oc/2021/117). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

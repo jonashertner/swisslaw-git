@@ -3,11 +3,11 @@ sr: "0.451.431"
 title: Protocole de Cartagena du 29 janvier 2000 sur la prévention des risques biotechnologiques relatif à la Convention sur la diversité biologique (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/44"
 language: fr
-version: 2018-05-01
+version: 2021-02-23
 adopted: 2000-01-29
 in_force: 2003-09-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/44/20180501/fr/xml/fedlex-data-admin-ch-eli-cc-2004-44-20180501-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/44/20180501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/44/20210223/fr/xml/fedlex-data-admin-ch-eli-cc-2004-44-20210223-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/44/20210223/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2004** 579; FF **2001** 3884
 
 Texte original
 
-Conclu à Montréal le 29 janvier 2000
+Conclu à Montréal le 29 janvier 2000 Approuvé par l’Assemblée fédérale le 4 mars 2002[^t-1] Instrument de ratification déposé par la Suisse le 26 mars 2003 Entré en vigueur pour la Suisse le 11 septembre 2003
 
-Approuvé par l’Assemblée fédérale le 4 mars 2002[^t-1]
-
-Instrument de ratification déposé par la Suisse le 26 mars 2003
-
-Entré en vigueur pour la Suisse le 11 septembre 2003
-
-(Etat le 1<sup>er</sup> mai 2018)
+(État le 23 février 2021)
 
 [^t-1]: [RO 2004 577](https://fedlex.data.admin.ch/eli/oc/2004/43)
 
@@ -56,7 +50,7 @@ considérant qu’il est entendu que le présent préambule ne vise pas à subor
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
+[^ingress-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
 
 #### Art. 1
 
@@ -99,7 +93,7 @@ Aux fins du Protocole:
   - a. de l’application de techniques *in vitro* aux acides nucléiques, y compris la recombinaison de l’acide désoxyribonucléique (ADN) et l’introduction directe d’acides nucléiques dans des cellules ou organites,
   - b. de la fusion cellulaire d’organismes n’appartenant pas à une même famille taxonomique,
 
-- qui surmontent les barrières naturelles de la physiologie de la reproduction ou de la recombinaison et qui ne sont pas des techniques utilisées pour la reproduction et la sélection de type classique.
+- qui surmontent les barrières naturelles de la physiologie de la reproduction ou de la recombinaison et qui ne sont pas des techniques utilisées pour la reproduction et la sélection de type classique;
 - j. «Organisation régionale d’intégration économique» s’entend de toute organisation constituée par des Etats souverains d’une région donnée, à laquelle ses Etats membres ont transféré leur compétence pour toutes les questions relevant du Protocole et qui a été dûment habilitée, conformément à ses procédures internes, à signer, ratifier, accepter ou approuver le Protocole, ou à y adhérer;
 - k. «Mouvement transfrontière» s’entend de tout mouvement d’un organisme vivant modifié en provenance d’une Partie et à destination d’une autre Partie, à ceci près qu’aux fins des art. 17 et 24, «mouvement transfrontière» s’étend aux mouvements entre Parties et non-Parties.
 
@@ -563,9 +557,7 @@ Aucune réserve ne peut être faite au présent Protocole.
 
 L’original du présent Protocole, dont les textes anglais, arabe, chinois, espagnol, français et russe font également foi, sera déposé auprès du Secrétaire général de l’Organisation des Nations Unies.
 
-*En foi de quoi,* les soussignés, à ce dûment habilités, ont signé le présent Protocole. Fait à Montréal, le vingt-neuf janvier deux mille.
-
-(Suivent les signatures)
+*En foi de quoi,* les soussignés, à ce dûment habilités, ont signé le présent Protocole. Fait à Montréal, le vingt-neuf janvier deux mille. (Suivent les signatures)
 
 Annexe I
 
@@ -607,31 +599,29 @@ Annexe III
 
 ## Evaluation des risques
 
-**Objectif**
+Objectif
 
-<sup>1.</sup> Aux fins du présent Protocole, l’évaluation des risques a pour objet de déterminer et d’évaluer les effets défavorables potentiels des organismes vivants modifiés sur la conservation et l’utilisation durable de la diversité biologique dans le milieu récepteur potentiel probable, en tenant compte également des risques pour la santé humaine.
+\1. Aux fins du présent Protocole, l’évaluation des risques a pour objet de déterminer et d’évaluer les effets défavorables potentiels des organismes vivants modifiés sur la conservation et l’utilisation durable de la diversité biologique dans le milieu récepteur potentiel probable, en tenant compte également des risques pour la santé humaine.
 
-### Utilisation des évaluations des risques
+Utilisation des évaluations des risques
 
-<sup>2.</sup> L’évaluation des risques est utilisée notamment par les autorités compétentes pour prendre une décision en connaissance de cause concernant les organismes vivants modifiés.
+\2. L’évaluation des risques est utilisée notamment par les autorités compétentes pour prendre une décision en connaissance de cause concernant les organismes vivants modifiés.
 
-### Principes généraux
+Principes généraux
 
-<sup>3.</sup> L’évaluation des risques devrait être effectuée selon des méthodes scientifiques éprouvées et dans la transparence et peut tenir compte des avis techniques et directives des organisations internationales compétentes.
+\3. L’évaluation des risques devrait être effectuée selon des méthodes scientifiques éprouvées et dans la transparence et peut tenir compte des avis techniques et directives des organisations internationales compétentes.
 
-<sup>4.</sup> Il ne faut pas nécessairement déduire de l’absence de connaissances ou de consensus scientifiques la gravité d’un risque, l’absence de risque, ou l’existence d’un risque acceptable.
+\4. Il ne faut pas nécessairement déduire de l’absence de connaissances ou de consensus scientifiques la gravité d’un risque, l’absence de risque, ou l’existence d’un risque acceptable.
 
-<sup>5.</sup> Les risques associés aux organismes vivants modifiés ou aux produits qui en sont dérivés, à savoir le matériel transformé provenant d’organismes vivants modifiés qui contient des combinaisons nouvelles décelables de matériel génétique réplicable obtenu par le recours à la biotechnologie moderne, devraient être considérés en regard des risques posés par les organismes récepteurs ou parents non modifiés dans le milieu récepteur potentiel probable.
+\5. Les risques associés aux organismes vivants modifiés ou aux produits qui en sont dérivés, à savoir le matériel transformé provenant d’organismes vivants modifiés qui contient des combinaisons nouvelles décelables de matériel génétique réplicable obtenu par le recours à la biotechnologie moderne, devraient être considérés en regard des risques posés par les organismes récepteurs ou parents non modifiés dans le milieu récepteur potentiel probable.
 
-<sup>6.</sup> L’évaluation des risques devrait être effectuée au cas par cas. La nature et le degré de précision de l’information requise peuvent varier selon le cas, en fonction de l’organisme vivant modifié concerné, de son utilisation prévue et du milieu récepteur potentiel probable.
+\6. L’évaluation des risques devrait être effectuée au cas par cas. La nature et le degré de précision de l’information requise peuvent varier selon le cas, en fonction de l’organisme vivant modifié concerné, de son utilisation prévue et du milieu récepteur potentiel probable.
 
-### Méthodes
+Méthodes
 
-<sup>7.</sup> L’évaluation des risques peut nécessiter un complément d’information sur des questions particulières, qui peut être défini et demandé à l’occasion de l’évaluation; en revanche, des informations sur d’autres questions peuvent ne pas être pertinentes, dans certains cas.
+\7. L’évaluation des risques peut nécessiter un complément d’information sur des questions particulières, qui peut être défini et demandé à l’occasion de l’évaluation; en revanche, des informations sur d’autres questions peuvent ne pas être pertinentes, dans certains cas.
 
-<sup>8.</sup>
-
-Pour atteindre son objectif, l’évaluation des risques comportera, le cas échéant, les étapes suivantes:
+\8. Pour atteindre son objectif, l’évaluation des risques comportera, le cas échéant, les étapes suivantes:
 
 - a. l’identification de toutes nouvelles caractéristiques génotypiques et phénotypiques liées à l’organisme vivant modifié qui peuvent avoir des effets défavorables sur la diversité biologique dans le milieu récepteur potentiel probable, et comporter aussi des risques pour la santé humaine;
 - b. l’évaluation de la probabilité que ces effets défavorables surviennent, compte tenu du degré et du type d’exposition du milieu récepteur potentiel probable de l’organisme vivant modifié
@@ -640,11 +630,9 @@ Pour atteindre son objectif, l’évaluation des risques comportera, le cas éch
 - e. une recommandation indiquant si les risques sont acceptables ou gérables, y compris, au besoin, la définition de stratégies de gestion de ces risques; et
 - f. lorsqu’il existe des incertitudes quant à la gravité du risque, on peut demander un complément d’information sur des points précis préoccupants, ou mettre en oeuvre des stratégies appropriées de gestion des risques et/ou contrôler l’organisme vivant modifié dans le milieu récepteur.
 
-### Points à examiner
+Points à examiner
 
-<sup>9.</sup>
-
-Selon le cas, l’évaluation des risques tient compte des données techniques et scientifiques pertinentes concernant:
+\9. Selon le cas, l’évaluation des risques tient compte des données techniques et scientifiques pertinentes concernant:
 
 - a. *l’organisme récepteur ou les organismes parents:* Les caractéristiques biologiques de l’organisme récepteur ou des organismes parents, y compris des précisions concernant la taxonomie, le nom commun, l’origine, les centres d’origine et les centres de diversité génétique, lorsqu’ils sont connus, et une description de l’habitat où les organismes peuvent persister ou proliférer;
 - b. *l’organisme ou les organismes donneurs:* Taxonomie et nom commun, source et caractéristiques biologiques pertinentes des organismes donneurs;
@@ -655,7 +643,7 @@ Selon le cas, l’évaluation des risques tient compte des données techniques e
 - g. *l’information relative à l’utilisation prévue:* Information relative à l’utilisation prévue de l’organisme vivant modifié, y compris toute utilisation nouvelle ou toute utilisation différant de celle de l’organisme récepteur ou parent; et
 - h. *le milieu récepteur:* Information sur l’emplacement et les caractéristiques géographiques, climatiques et écologiques du milieu récepteur potentiel probable, y compris information pertinente sur la diversité biologique et les centres d’origine qui s’y trouvent.
 
-Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
+Champ d’application le 23 février 2021[^t-2]
 
 <table>
 <tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -689,7 +677,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Cambodge</td><td>17 septembre</td><td>2003 A</td><td>16 décembre</td><td>2003</td></tr>
 <tr><td>Cameroun</td><td>20 février</td><td>2003</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Cap-Vert</td><td>1<sup>er</sup> novembre</td><td>2005 A</td><td>30 janvier</td><td>2006</td></tr>
-<tr><td>Chine<sup>a</sup></td><td>8 juin</td><td>2005</td><td>6 septembre</td><td>2005</td></tr>
+<tr><td>Chine <sup>a</sup></td><td>8 juin</td><td>2005</td><td>6 septembre</td><td>2005</td></tr>
 <tr><td>[tab] Hong Kong</td><td>9 mai</td><td>2011</td><td>9 mai</td><td>2011</td></tr>
 <tr><td>Chypre</td><td>5 décembre</td><td>2003 A</td><td>4 mars</td><td>2004</td></tr>
 <tr><td>Colombie</td><td>20 mai</td><td>2003</td><td>11 septembre</td><td>2003</td></tr>
@@ -702,7 +690,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>12 mars</td><td>2015 A</td><td>10 juin</td><td>2015</td></tr>
 <tr><td>Croatie</td><td>29 août</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Cuba</td><td>17 septembre</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
-<tr><td>Danemark<sup>b</sup></td><td>27 août</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
+<tr><td>Danemark <sup>b</sup></td><td>27 août</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Djibouti</td><td>8 avril</td><td>2002 A</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Dominique</td><td>13 juillet</td><td>2004 A</td><td>11 octobre</td><td>2004</td></tr>
 <tr><td>Egypte</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
@@ -712,6 +700,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Erythrée</td><td>10 mars</td><td>2005 A</td><td>8 juin</td><td>2005</td></tr>
 <tr><td>Espagne<sup>\*</sup></td><td>16 janvier</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Estonie</td><td>24 mars</td><td>2004</td><td>22 juin</td><td>2004</td></tr>
+<tr><td>Eswatini</td><td>13 janvier</td><td>2006 A</td><td>13 avril</td><td>2006</td></tr>
 <tr><td>Ethiopie</td><td>9 octobre</td><td>2003</td><td>7 janvier</td><td>2004</td></tr>
 <tr><td>Fidji</td><td>5 juin</td><td>2001</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Finlande</td><td>9 juillet</td><td>2004</td><td>7 octobre</td><td>2004</td></tr>
@@ -751,7 +740,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Libye</td><td>14 juin</td><td>2005 A</td><td>12 septembre</td><td>2005</td></tr>
 <tr><td>Lituanie</td><td>7 novembre</td><td>2003</td><td>5 février</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>28 août</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
-<tr><td>Macédoine</td><td>14 juin</td><td>2005</td><td>12 septembre</td><td>2005</td></tr>
+<tr><td>Macédoine du Nord</td><td>14 juin</td><td>2005</td><td>12 septembre</td><td>2005</td></tr>
 <tr><td>Madagascar</td><td>24 novembre</td><td>2003</td><td>22 février</td><td>2004</td></tr>
 <tr><td>Malaisie</td><td>3 septembre</td><td>2003</td><td>2 décembre</td><td>2003</td></tr>
 <tr><td>Malawi</td><td>27 février</td><td>2009</td><td>27 mai</td><td>2009</td></tr>
@@ -774,9 +763,10 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Nigéria</td><td>15 juillet</td><td>2003</td><td>13 octobre</td><td>2003</td></tr>
 <tr><td>Nioué</td><td>8 juillet</td><td>2002 A</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Norvège</td><td>10 mai</td><td>2001</td><td>11 septembre</td><td>2003</td></tr>
-<tr><td>Nouvelle-Zélande<sup>c</sup></td><td>24 février</td><td>2005</td><td>25 mai</td><td>2005</td></tr>
+<tr><td>Nouvelle-Zélande <sup>c</sup></td><td>24 février</td><td>2005</td><td>25 mai</td><td>2005</td></tr>
 <tr><td>Oman</td><td>11 avril</td><td>2003 A</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Ouganda</td><td>30 novembre</td><td>2001</td><td>11 septembre</td><td>2003</td></tr>
+<tr><td>Ouzbékistan</td><td>25 octobre</td><td>2019 A</td><td>23 janvier</td><td>2020</td></tr>
 <tr><td>Pakistan</td><td>2 mars</td><td>2009</td><td>31 mai</td><td>2009</td></tr>
 <tr><td>Palaos</td><td>13 juin</td><td>2003</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Palestine</td><td>2 janvier</td><td>2015 A</td><td>2 avril</td><td>2015</td></tr>
@@ -804,6 +794,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Sénégal</td><td>8 octobre</td><td>2003</td><td>6 janvier</td><td>2004</td></tr>
 <tr><td>Serbie</td><td>8 février</td><td>2006 A</td><td>9 mai</td><td>2006</td></tr>
 <tr><td>Seychelles</td><td>13 mai</td><td>2004</td><td>11 août</td><td>2004</td></tr>
+<tr><td>Sierra Leone</td><td>15 juin</td><td>2020 A</td><td>13 septembre</td><td>2020</td></tr>
 <tr><td>Slovaquie</td><td>24 novembre</td><td>2003</td><td>22 février</td><td>2004</td></tr>
 <tr><td>Slovénie</td><td>20 novembre</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Somalie</td><td>26 juillet</td><td>2010 A</td><td>24 octobre</td><td>2010</td></tr>
@@ -812,7 +803,6 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Suède</td><td>8 août</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Suisse</td><td>26 mars</td><td>2002</td><td>11 septembre</td><td>2003</td></tr>
 <tr><td>Suriname</td><td>27 mars</td><td>2008 A</td><td>25 juin</td><td>2008</td></tr>
-<tr><td>Swaziland</td><td>13 janvier</td><td>2006 A</td><td>13 avril</td><td>2006</td></tr>
 <tr><td>Syrie</td><td>1<sup>er</sup> avril</td><td>2004 A</td><td>30 juin</td><td>2004</td></tr>
 <tr><td>Tadjikistan</td><td>12 février</td><td>2004 A</td><td>12 mai</td><td>2004</td></tr>
 <tr><td>Tanzanie</td><td>24 avril</td><td>2003 A</td><td>11 septembre</td><td>2003</td></tr>
@@ -832,10 +822,7 @@ Champ d’application le 1<sup>er</sup> mai 2018**[^t-2]**
 <tr><td>Yémen</td><td>1<sup>er</sup> décembre</td><td>2005 A</td><td>1<sup>er</sup> mars</td><td>2006</td></tr>
 <tr><td>Zambie</td><td>27 avril</td><td>2004 A</td><td>25 juillet</td><td>2004</td></tr>
 <tr><td>Zimbabwe</td><td>25 février</td><td>2005</td><td>26 mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Le Protocole ne s’applique pas à Macao, région administrative spéciale de la République populaire de Chine.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Le Protocole ne s’applique pas aux îles Féroés et au Groenland.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Le Protocole ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org](http://treaties.un.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas à Macao, région administrative spéciale de la République populaire de Chine. <sup>b</sup> Le Protocole ne s’applique pas aux îles Féroés et au Groenland. <sup>c</sup> Le Protocole ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: RO **2004** 606 [3713](https://fedlex.data.admin.ch/eli/oc/2004/518), [2005 2335](https://fedlex.data.admin.ch/eli/oc/2005/398), [2006 791](https://fedlex.data.admin.ch/eli/oc/2006/117)[4451](https://fedlex.data.admin.ch/eli/oc/2006/681), [2007 1401](https://fedlex.data.admin.ch/eli/oc/2007/244), [2008 4121](https://fedlex.data.admin.ch/eli/oc/2008/577), [2010 17](https://fedlex.data.admin.ch/eli/oc/2010/5), [2011 4887](https://fedlex.data.admin.ch/eli/oc/2011/696), [2013 1485](https://fedlex.data.admin.ch/eli/oc/2013/348), [2015 591](https://fedlex.data.admin.ch/eli/oc/2015/91), [2018 1795](https://fedlex.data.admin.ch/eli/oc/2018/268). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: RO **2004** 606, [3713](https://fedlex.data.admin.ch/eli/oc/2004/518); [2005 2335](https://fedlex.data.admin.ch/eli/oc/2005/398); [2006 791](https://fedlex.data.admin.ch/eli/oc/2006/117), [4451](https://fedlex.data.admin.ch/eli/oc/2006/681); [2007 1401](https://fedlex.data.admin.ch/eli/oc/2007/244); [2008 4121](https://fedlex.data.admin.ch/eli/oc/2008/577); [2010 17](https://fedlex.data.admin.ch/eli/oc/2010/5); [2011 4887](https://fedlex.data.admin.ch/eli/oc/2011/696); [2013 1485](https://fedlex.data.admin.ch/eli/oc/2013/348); [2015 591](https://fedlex.data.admin.ch/eli/oc/2015/91); [2018 1795](https://fedlex.data.admin.ch/eli/oc/2018/268); [2021 117](https://fedlex.data.admin.ch/eli/oc/2021/117). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty
