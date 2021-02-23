@@ -3,11 +3,11 @@ sr: "0.814.021.5"
 title: "Änderung des Montrealer Protokolls über Stoffe, die zu einem Abbau der Ozonschicht führen, vom 15. Oktober 2016"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/820"
 language: de
-version: 2021-01-27
+version: 2021-02-24
 adopted: 2016-10-15
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210127/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210127-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/820/20210224/de/xml/fedlex-data-admin-ch-eli-cc-2018-820-20210224-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/820/20210224/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 7. November 2018
 
 In Kraft getreten für die Schweiz am 1. Januar 2019
 
-(Stand am 27. Januar 2021)
+(Stand am 24. Februar 2021)
 
 Übersetzung
 
@@ -343,7 +343,7 @@ Jede Vertragspartei kann jederzeit vor Inkrafttreten dieser Änderung für sie e
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 27. Januar 2021**[^t-1]**
+Geltungsbereich am 24. Februar 2021**[^t-1]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -371,6 +371,7 @@ Geltungsbereich am 27. Januar 2021**[^t-1]**
 <tr><td>Deutschland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Ecuador</td><td>22. Januar</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Estland</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Eswatini</td><td>24. November</td><td>2020</td><td>22. Februar</td><td>2021</td></tr>
 <tr><td>Europäische Union\*</td><td>27. September</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Fidschi</td><td>16. Juni</td><td>2020</td><td>14. September</td><td>2020</td></tr>
 <tr><td>Finnland</td><td>14. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
@@ -383,6 +384,7 @@ Geltungsbereich am 27. Januar 2021**[^t-1]**
 <tr><td>Heiliger Stuhl\*</td><td>17. Juni</td><td>2020 B</td><td>15. September</td><td>2020</td></tr>
 <tr><td>Honduras</td><td>28. Januar</td><td>2019</td><td>28. April</td><td>2019</td></tr>
 <tr><td>Irland</td><td>12. März</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
+<tr><td>Island</td><td>25. Januar</td><td>2021</td><td>25. April</td><td>2021</td></tr>
 <tr><td>Japan</td><td>18. Dezember</td><td>2018</td><td>1. Januar</td><td>2019</td></tr>
 <tr><td>Jordanien</td><td>16. Oktober</td><td>2019</td><td>14. Januar</td><td>2020</td></tr>
 <tr><td>Kanada</td><td>3. November</td><td>2017</td><td>1. Januar</td><td>2019</td></tr>
@@ -460,4 +462,4 @@ Geltungsbereich am 27. Januar 2021**[^t-1]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Änderung des Montrealer Protokolls gilt nicht für Grönland. <sup>b</sup> Die Änderung des Montrealer Protokolls gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-1]: [AS 2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102)[2255](https://fedlex.data.admin.ch/eli/oc/2019/425)[2663](https://fedlex.data.admin.ch/eli/oc/2019/499), [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42)[563](https://fedlex.data.admin.ch/eli/oc/2020/102)[3491](https://fedlex.data.admin.ch/eli/oc/2020/609)[3959](https://fedlex.data.admin.ch/eli/oc/2020/733)[4655](https://fedlex.data.admin.ch/eli/oc/2020/833), [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-1]: Diese Veröffentlichung ergänzt die früheren in [AS 2018 5421](https://fedlex.data.admin.ch/eli/oc/2018/820); [2019 601](https://fedlex.data.admin.ch/eli/oc/2019/102), [2255](https://fedlex.data.admin.ch/eli/oc/2019/425), [2663](https://fedlex.data.admin.ch/eli/oc/2019/499); [2020 251](https://fedlex.data.admin.ch/eli/oc/2020/42), [563](https://fedlex.data.admin.ch/eli/oc/2020/102), [3491](https://fedlex.data.admin.ch/eli/oc/2020/609), [3959](https://fedlex.data.admin.ch/eli/oc/2020/733), [4655](https://fedlex.data.admin.ch/eli/oc/2020/833); [2021 56](https://fedlex.data.admin.ch/eli/oc/2021/56)und [120](https://fedlex.data.admin.ch/eli/oc/2021/120). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
