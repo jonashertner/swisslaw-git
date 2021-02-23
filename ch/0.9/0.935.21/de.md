@@ -4,11 +4,11 @@ title: Statuten vom 27. September 1970 der Weltorganisation für Tourismus (WTO)
 short: WTO
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: de
-version: 2021-01-25
+version: 2021-02-24
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210125/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210125-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210125/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210224/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210224-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210224/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -27,7 +27,7 @@ Schweizerische Annahmeerklärung hinterlegt am 12. Januar 1976
 
 In Kraft getreten für die Schweiz am 12. Januar 1976
 
-(Stand am 25. Januar 2021)
+(Stand am 24. Februar 2021)
 
 [^t-1]: [AS 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -407,7 +407,7 @@ Geschehen zu Mexiko am 27. September 1970.
 <tr><td>Der Präsident der ausserordentlichen Generalversammlung und Präsident der offiziellen Fremdenverkehrsorganisationen: Georges Faddoul</td><td>Der Generalsekretär der Internationalen Union der offiziellen Fremdenverkehrsorganisationen: Robert C. Lonati</td></tr>
 </table>
 
-Geltungsbereich am 11. Juli 2017**[^t-3]**
+Geltungsbereich am 24. Februar 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Nachfolgeerklärung (N)</th><th colspan="3"></th><th colspan="2">Inkrafttreten</th><th colspan="3"></th></tr>
@@ -483,6 +483,7 @@ Geltungsbereich am 11. Juli 2017**[^t-3]**
 <tr><td>Kenia</td><td colspan="2">24. September</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Kirgisistan</td><td colspan="2">2. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
 <tr><td>Kolumbien</td><td colspan="2">12. Juni</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
+<tr><td>Komoren</td><td colspan="2">16. September</td><td colspan="3">2017 B</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td colspan="2">29. Juli</td><td colspan="3">1977</td><td colspan="3">20. September</td><td colspan="3">1979</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td colspan="2">20. Januar</td><td colspan="3">1972</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Korea (Nord-)</td><td colspan="2">28. August</td><td colspan="3">1987</td><td colspan="3">1. Oktober</td><td colspan="3">1987</td></tr>
@@ -549,6 +550,7 @@ Geltungsbereich am 11. Juli 2017**[^t-3]**
 <tr><td>Simbabwe</td><td colspan="2">30. Juni</td><td colspan="3">1981</td><td colspan="3">17. September</td><td colspan="3">1981</td></tr>
 <tr><td>Slowakei</td><td colspan="2">22. Januar</td><td colspan="3">1993 N</td><td colspan="3">1. Januar</td><td colspan="3">1993</td></tr>
 <tr><td>Slowenien</td><td colspan="2">28. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
+<tr><td>Somalia</td><td colspan="2">16. September</td><td colspan="3">2017 B</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
 <tr><td>Spanien</td><td colspan="2">4. Juli</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Sri Lanka</td><td colspan="2">5. Dezember</td><td colspan="3">1972</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Südafrika</td><td colspan="2">12. April</td><td colspan="3">1994</td><td colspan="3">12. April</td><td colspan="3">1994</td></tr>
@@ -583,4 +585,4 @@ Geltungsbereich am 11. Juli 2017**[^t-3]**
 <tr><td colspan="11"><sup>d</sup> Der Heilige Stuhl ist ein ständiger Beobachter und nicht ein Vertragsstaat.</td></tr>
 </table>
 
-[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

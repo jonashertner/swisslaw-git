@@ -4,11 +4,11 @@ title: "Statuts du 27 septembre 1970 de l'Organisation mondiale du tourisme (OMT
 short: OMT
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: fr
-version: 2021-01-25
+version: 2021-02-24
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210125/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210125-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210125/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210224/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210224-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210224/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -29,7 +29,7 @@ Instrument d’adoption déposé par la Suisse le 12 janvier 1976
 
 Entrés en vigueur pour la Suisse le 12 janvier 1976
 
-(Etat le 25 janvier 2021)
+(Etat le 24 février 2021)
 
 [^t-1]: [RO 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -375,7 +375,7 @@ Annexe*[^t-2]*
 
 ## Règles de financement
 
-[^t-2]: Mise à jour par la mod. de l’Assemblée générale du 29 sept. 2001, appliquée provisoirement depuis le 29 sept. 2001 ([RO 2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449)).
+[^t-2]: Mise à jour par la D de l’Assemblée générale du 29 sept. 2001, appliquée provisoirement depuis le 29 sept. 2001 ([RO 2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449)).
 
 \1. La période financière de l’Organisation est de deux ans.
 
@@ -417,7 +417,7 @@ Fait à Mexico le 27 septembre 1970.
 <tr><td>Le Président de l’Assemblée générale extraordinaire, Président de l’Union internationale des organismes officiels de tourisme: Georges Faddoul</td><td>Le Secrétaire général de l’Union internationale des organismes officiels de tourisme: Robert C. Lonati</td></tr>
 </table>
 
-Champ d’application le 11 juillet 2017**[^t-3]**
+Champ d’application le 24 février 2021**[^t-3]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -439,7 +439,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>Barbade</td><td>17 septembre</td><td>2015</td><td>17 septembre</td><td>2015</td></tr>
 <tr><td>Bélarus</td><td>9 juin</td><td>2005</td><td>14 juin</td><td>2005</td></tr>
 <tr><td>Belgique</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Communauté flamande <sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
+<tr><td>[tab] Communauté flamande<sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
 <tr><td>Bénin</td><td>31 décembre</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Bhoutan</td><td>4 février</td><td>2003</td><td>19 octobre</td><td>2003</td></tr>
 <tr><td>Bolivie</td><td>21 mai</td><td>1975</td><td>21 mai</td><td>1975</td></tr>
@@ -459,6 +459,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>[tab] Macao <sup>a</sup> <sup>c</sup></td><td>8 avril</td><td>1980</td><td>17 septembre</td><td>1981</td></tr>
 <tr><td>Chypre</td><td>4 septembre</td><td>1974</td><td>12 janvier</td><td>1975</td></tr>
 <tr><td>Colombie</td><td>12 juin</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
+<tr><td>Comores</td><td>16 septembre</td><td>2017 A</td><td>16 septembre</td><td>2017</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>29 juillet</td><td>1977</td><td>20 septembre</td><td>1979</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 janvier</td><td>1972</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Corée (Nord)</td><td>28 août</td><td>1987</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
@@ -565,6 +566,7 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td>Sierra Leone</td><td>6 mai</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Slovaquie</td><td>22 janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>28 septembre</td><td>1993</td><td>8 octobre</td><td>1993</td></tr>
+<tr><td>Somalie</td><td>16 septembre</td><td>2017 A</td><td>16 septembre</td><td>2017</td></tr>
 <tr><td>Soudan</td><td>18 avril</td><td>1975</td><td>18 avril</td><td>1975</td></tr>
 <tr><td>Sri Lanka</td><td>5 décembre</td><td>1972</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Suisse</td><td>12 janvier</td><td>1976</td><td>12 janvier</td><td>1976</td></tr>
@@ -590,4 +592,4 @@ Champ d’application le 11 juillet 2017**[^t-3]**
 <tr><td colspan="5"><sup>a</sup> Membre associé en application de l’art. 6, par. 2. <sup>b</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>d</sup> Membre observateur permanent et non pas un État partie au Statuts de l’Organisation mondiale du tourisme</td></tr>
 </table>
 
-[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
