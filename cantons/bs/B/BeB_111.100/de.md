@@ -3,13 +3,12 @@ canton: BS
 number: BeB 111.100
 title: Gemeindeordnung der Bürgergemeinde Bettingen
 language: de
-version: 2015-01-01
-valid_until: 2021-02-24
-version_adopted: 2014-12-08
+version: 2021-02-25
+version_adopted: 2020-10-23
 adopted: 1985-04-18
 in_force: 1986-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BeB%20111.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3295/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5193/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/3295/pdf_file"
 
 Gemeindeordnung | Bettingen: Bürgergemeinde[^t-1]
 
-Vom 18. April 1985 (Stand 1. Januar 2015)
+Vom 18. April 1985 (Stand 25. Februar 2021)
 
 Die Versammlung der Bürgergemeinde Bettingen,
 
@@ -96,7 +95,7 @@ beschliesst folgende Gemeindeordnung:
 - 4\. Prüfung und Genehmigung von Rechnung und Verwaltungsbericht.
 - 5\. Erlass und Änderung von Ordnungen, insbesondere über die Entschädigung des Bürgerratspräsidenten, der Mitglieder des Bürgerrates, des Schreibers und des Kassiers, über die Wahlen und Abstimmungen sowie über die Ausübung des Initiativrechts.
 - 6\. Genehmigung der vom Bürgerrat abgeschlossenen wichtigen Verträge.
-- 7\. Wahl der Mitglieder der Rechnungsprüfungskommission und der Wahlprüfungskommission sowie der Mitglieder weiterer Kommissionen mit eigener Entscheidungsbefugnis.
+- 7\. Wahl der Bürgerratspräsidentin oder des Bürgerratspräsidenten sowie der Mitglieder des Bürgerrates, der Mitglieder der Rechnungsprüfungskommission und der Wahlprüfungskommission sowie der Mitglieder weiterer Kommissionen mit eigener Entscheidungsbefugnis.
 - 8\. Bewilligung wiederkehrender und einmaliger Ausgaben.
 - 9\. Beschlussfassung über die Aufnahme von Gemeindeanleihen.
 - 10\. Beschlussfassung über Erwerb, Veräusserung und Verpfändung von Grundstücken.
@@ -114,9 +113,9 @@ beschliesst folgende Gemeindeordnung:
 
 **Urnenwahl**
 
-<sup>1</sup> Der Bürgerratspräsident sowie die Mitglieder des Bürgerrates werden durch Stimmabgabe an der Urne gewählt.
+<sup>1</sup> Die Bürgerratspräsidentin oder der Bürgerratspräsident sowie die Mitglieder des Bürgerrates sowie die Mitglieder der Rechnungsprüfungskommission, der Wahlprüfungskommission sowie die Mitglieder weiterer Kommissionen mit eigener Entscheidungsbefugnis werden an der Urne gewählt, wenn es die Bürgergemeindeversammlung beschliesst.
 
-<sup>2</sup> Die Mitglieder der Rechnungsprüfungskommission sowie die Mitglieder weiterer Kommissionen mit eigener Entscheidungsbefugnis werden an der Urne gewählt, wenn es die Bürgergemeindeversammlung beschliesst.
+<sup>2</sup> …
 
 #### § 9
 
