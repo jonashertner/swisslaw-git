@@ -5,12 +5,12 @@ title: Verordnung über die Planung und die Finanzierung der Langzeitpflege
 short: VPFL
 language: de
 version: 2019-04-01
-corrected: 2019-05-15
+corrected: 2021-02-25
 version_adopted: 2019-04-03
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/de/versions/2516/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2528/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.

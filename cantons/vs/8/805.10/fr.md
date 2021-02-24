@@ -5,12 +5,12 @@ title: Ordonnance sur la planification et le financement des soins de longue dur
 short: OSLD
 language: fr
 version: 2019-04-01
-corrected: 2019-05-15
+corrected: 2021-02-25
 version_adopted: 2019-04-03
 adopted: 2014-10-15
 in_force: 2015-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.10"
-pdf: "https://lex.vs.ch/api/fr/versions/2516/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2528/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -76,7 +76,7 @@ ordonne:
 - a) la détermination des coûts facturables, au sens de l'article 22 de la présente ordonnance;
 - b) la séparation des coûts relevant de la LAMal et des coûts des autres prestations;
 - c) la gestion comptable et financière des EMS, des CMS et des autres organisations de soins à domicile;
-- d) die administrativen, finanziellen und analytischen Statistiken der Leistungserbringer, die einen Restbeitrag, einen Anteil der öffentlichen Hand an der Akut- und Übergangspflege, einen Beitrag des Kantons an die Wartebetten im Spital sowie Subventionen erhalten, die auf der kantonalen Gesetzgebung beruhen;
+- d) les statistiques administratives, financières et analytiques des fournisseurs de soins bénéficiant de la contribution résiduelle, de la part des pouvoirs publics aux soins aigus et de transition, de contribution du canton pour les lits d’attente hospitaliers ainsi que des subventions basées sur la législation cantonale;
 - e) le paiement des contributions résiduelles aux infirmières et infirmiers admis et aux autres organisations de soins et d'aide à domicile en veillant au respect des dispositions sur la protection des données;
 - f) le subventionnement des établissements et institutions sanitaires dispensant des soins de longue durée;
 - g) la détermination des frais retenus au subventionnement cantonal pour les investissements;
