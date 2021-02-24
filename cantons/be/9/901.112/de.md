@@ -4,13 +4,13 @@ number: "901.112"
 title: Kantonale Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung
 language: de
-version: 2021-02-04
-valid_until: 2021-02-24
-version_adopted: 2021-02-03
+version: 2021-02-25
+valid_until: 2021-04-07
+version_adopted: 2021-02-24
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2138/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2138/pdf_file"
 
 (Kantonale Härtefallverordnung)
 
-vom 18.12.2020 (Stand 04.02.2021)
+vom 18.12.2020 (Stand 25.02.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -74,21 +74,24 @@ beschliesst:
 
 **Fixkosten**
 
-<sup>1</sup> Als Fixkosten im Sinne dieser Verordnung gelten alle vom Umsatz unabhängigen Kosten exklusive Löhne und Beiträge für AHV, IV, EO und ALV, insbesondere
+<sup>1</sup> Als Fixkosten zur Berechnung der Sofortunterstützung und Bürgschaften gelten alle vom Umsatz unabhängigen Kosten exklusive Abschreibungen, Löhne und Beiträge für AHV, IV, EO und ALV, insbesondere
 
-- a Arbeitgeberbeiträge der beruflichen Vorsorge und Familienzulagen,
+- a Arbeitgeberbeiträge für die berufliche Vorsorge sowie für Familienzulagen, Krankentaggeldversicherung und Unfallversicherung,
 - b Miete, Pacht und Leasing,
 - c Gebühren,
 - d Wartungskosten,
 - e Versicherungskosten,
 - f Verwaltungskosten,
 - g Werbe- und Marketingkosten,
-- h Finanzkosten.
+- h Finanzkosten,
+- i Amortisationen.
 
 <sup>2</sup> Von den Fixkosten gemäss Absatz 1 werden abgezogen
 
 - a Miet- oder Pachterlasse,
 - b weitere Entschädigungen im Zusammenhang mit der Covid-19-Epidemie.
+
+<sup>3</sup> Als Amortisationen gemäss Absatz 1 Buchstabe i gelten vertraglich vereinbarte, periodische Rückzahlungen von Krediten, die für den Erwerb von Sachanlagen aufgenommen wurden. Ausgeschlossen sind Sonderrückzahlungen, Rückzahlungen des Covid-19-Kredits des Bundes und Zahlungen an direkt oder indirekt verbundene Gruppengesellschaften sowie Gesellschafterinnen und Gesellschafter.
 
 #### Art. 4a
 
@@ -104,7 +107,8 @@ beschliesst:
 
 <sup>1</sup> Das Unternehmen hat nachzuweisen, dass es
 
-- a die Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person mit Hauptsitz im Kanton hat,
+- a die Rechtsform eines Einzelunternehmens, einer Personengesellschaft oder einer juristischen Person hat,
+- a1 seinen Hauptsitz am 1. Oktober 2020 im Kanton hatte,
 - b über eine Unternehmens-Identifikationsnummer (UID-Nummer) verfügt,
 - c vor dem 1. März 2020 gegründet und im Handelsregister eingetragen ist.
 
@@ -268,6 +272,12 @@ beschliesst:
 
 <sup>3</sup> Im Übrigen gelten die Vorschriften des VRPG.
 
+#### Art. 17a
+
+**Verfahrenskosten**
+
+<sup>1</sup> Das Gesuchs- und das Einspracheverfahren sind kostenlos.
+
 ## 5 Schlussbestimmungen
 
 #### Art. 18
@@ -295,6 +305,12 @@ beschliesst:
 ## T2 Übergangsbestimmung der Änderung vom 03.02.2021
 
 #### Art. T2-1
+
+<sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
+
+## T3 Übergangsbestimmung der Änderung vom 24.02.2021
+
+#### Art. T3-1
 
 <sup>1</sup> Bei Inkrafttreten dieser Änderung hängige Gesuche sind nach neuem Recht zu behandeln.
 

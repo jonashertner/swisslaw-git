@@ -4,13 +4,13 @@ number: "901.112"
 title: "Ordonnance cantonale concernant les mesures destinées aux entreprises pour les cas de rigueur en lien avec l'épidémie de COVID-19"
 short: Ordonnance cantonale sur les cas de rigueur
 language: fr
-version: 2021-02-04
-valid_until: 2021-02-24
-version_adopted: 2021-02-03
+version: 2021-02-25
+valid_until: 2021-04-07
+version_adopted: 2021-02-24
 adopted: 2020-12-18
 in_force: 2020-12-18
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.112"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2138/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2157/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2138/pdf_file"
 
 (Ordonnance cantonale sur les cas de rigueur)
 
-du 18.12.2020 (état au 04.02.2021)
+du 18.12.2020 (état au 25.02.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -74,21 +74,24 @@ arrête:
 
 **Coûts fixes**
 
-<sup>1</sup> Sont considérés comme coûts fixes au sens de la présente ordonnance tous les coûts indépendants du chiffre d'affaires, sans les salaires et les cotisations à l'AVS, à l'AI, aux APG et à l'AC, en particulier
+<sup>1</sup> Sont considérés comme coûts fixes pour le calcul du soutien immédiat et des cautionnements tous les coûts indépendants du chiffre d'affaires, sans les amortissements comptables, les salaires et les cotisations à l'AVS, à l'AI, aux APG et à l'AC, en particulier
 
-- a les cotisations de l'employeur à la prévoyance professionnelle et aux allocations familiales,
+- a les cotisations de l'employeur pour la prévoyance professionnelle, les allocations familiales, l'assurance d'indemnités journalières en cas de maladie et l'assurance-accidents,
 - b les loyers, fermages et échéances de leasing,
 - c les taxes,
 - d les coûts d'entretien,
 - e les frais d'assurance,
 - f les frais administratifs,
 - g les coûts de publicité et de marketing,
-- h les charges financières.
+- h les charges financières,
+- i les amortissements financiers.
 
 <sup>2</sup> Sont déduites des coûts fixes énumérés à l'alinéa 1
 
 - a les remises de loyer ou de fermage,
 - b d'autres indemnités en lien avec l'épidémie de COVID-19.
+
+<sup>3</sup> Sont considérés comme amortissements au sens de l'alinéa 1, lettre i les remboursements périodiques convenus contractuellement de crédits contractés pour acquérir des immobilisations corporelles. Ne sont pas considérés comme tels les remboursements exceptionnels, les remboursements des crédits COVID-19 de la Confédération et les paiements destinés à des sociétés du groupe directement ou indirectement liées ainsi qu'à des associés.
 
 #### Art. 4a
 
@@ -104,7 +107,8 @@ arrête:
 
 <sup>1</sup> L'entreprise doit prouver qu'elle
 
-- a revêt la forme juridique d’une entreprise individuelle, d’une société de personnes ou d’une personne morale ayant son siège principal dans le canton;
+- a revêt la forme juridique d’une entreprise individuelle, d’une société de personnes ou d’une personne morale;
+- a1 avait son siège principal dans le canton de Berne au 1<sup>er</sup> octobre 2020;
 - b dispose d’un numéro d’identification des entreprises (IDE);
 - c a été créée avant le 1<sup>er</sup> mars 2020 et est inscrite au registre du commerce.
 
@@ -268,6 +272,12 @@ arrête:
 
 <sup>3</sup> Au surplus, les dispositions de la LPJA s'appliquent.
 
+#### Art. 17a
+
+**Frais de procédure**
+
+<sup>1</sup> Les procédures de demande et d'opposition sont gratuites.
+
 ## 5 Dispositions finales
 
 #### Art. 18
@@ -295,6 +305,12 @@ arrête:
 ## T2 Disposition transitoire de la modification du 03.02.2021
 
 #### Art. T2-1
+
+<sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
+
+## T3 Disposition transitoire de la modification du 24.02.2021
+
+#### Art. T3-1
 
 <sup>1</sup> Les demandes pendantes à l'entrée en vigueur de la présente modification sont traitées selon le nouveau droit.
 
