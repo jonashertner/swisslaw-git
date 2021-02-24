@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Convention du 30 mai 2008 sur les armes à sous-munitions
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: fr
-version: 2020-07-09
+version: 2021-02-25
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20200709/fr/xml/fedlex-data-admin-ch-eli-cc-2012-617-20200709-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20200709/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/fr/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 17 juillet 2012
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2013
 
-(Etat le 9 juillet 2020)
+(Etat le 25 février 2021)
 
 [^t-1]: [RO 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -460,7 +460,7 @@ Les textes de la présente Convention rédigés en anglais, arabe, chinois, espa
 
 (Suivent les signatures)
 
-Champ d’application le 9 juillet 2020**[^t-2]**
+Champ d’application le 25 février 2021**[^t-2]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -539,6 +539,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Niger</td><td>2 juin</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Norvège\*</td><td>3 décembre</td><td>2008</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>22 décembre</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
+<tr><td>Nioué</td><td>6 août</td><td>2020 A</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
 <tr><td>Palaos</td><td>19 avril</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
 <tr><td>Palestine</td><td>2 janvier</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
 <tr><td>Panama</td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
@@ -557,6 +558,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td>Saint-Marin</td><td>10 juillet</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Saint-Siège\*</td><td>3 décembre</td><td>2008</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 octobre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
+<tr><td>Sainte-Lucie</td><td>15 septembre</td><td>2020 A</td><td>1<sup>er</sup> mars</td><td>2021</td></tr>
 <tr><td>Samoa</td><td>28 avril</td><td>2010</td><td>1<sup>er</sup> octobre</td><td>2010</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>27 janvier</td><td>2020</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
 <tr><td>Seychelles</td><td>20 mai</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
@@ -577,7 +579,7 @@ Champ d’application le 9 juillet 2020**[^t-2]**
 <tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617), [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441), [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117)[3841](https://fedlex.data.admin.ch/eli/oc/2015/648), [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17), [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99), [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603). Une version du champ d´application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117)[3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
 
 Déclaration
 

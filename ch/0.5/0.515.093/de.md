@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Übereinkommen vom 30. Mai 2008 über Streumunition
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: de
-version: 2020-07-09
+version: 2021-02-25
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20200709/de/xml/fedlex-data-admin-ch-eli-cc-2012-617-20200709-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20200709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/de/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 17. Juli 2012
 
 Für die Schweiz in Kraft getreten am 1. Januar 2013
 
-(Stand am 9. Juli 2020)
+(Stand am 25. Februar 2021)
 
 [^t-1]: [AS 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -465,7 +465,7 @@ Der arabische, der chinesische, der englische, der französische, der russische 
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. Juli 2020**[^t-2]**
+Geltungsbereich am 25. Februar 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -538,6 +538,7 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Namibia</td><td>31. August</td><td>2018</td><td>1. Februar</td><td>2019</td></tr>
 <tr><td>Nauru</td><td>4. Februar</td><td>2013</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>22. Dezember</td><td>2009</td><td>1. August</td><td>2010</td></tr>
+<tr><td>Niue</td><td>6. August</td><td>2020 B</td><td>1. Februar</td><td>2021</td></tr>
 <tr><td>Nicaragua</td><td>2. November</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Niederlande</td><td>23. Februar</td><td>2011</td><td>1. August</td><td>2011</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>23. Februar</td><td>2011</td><td>1. August</td><td>2011</td></tr>
@@ -568,6 +569,7 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td>Spanien</td><td>17. Juni</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>1. März</td><td>2018 B</td><td>1. September</td><td>2018</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>13. September</td><td>2013 B</td><td>1. März</td><td>2014</td></tr>
+<tr><td>St. Lucia</td><td>15. September</td><td>2020 B</td><td>1. März</td><td>2021</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Südafrika</td><td>28. Mai</td><td>2015</td><td>1. November</td><td>2015</td></tr>
 <tr><td>Togo</td><td>22. Juni</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
@@ -582,7 +584,7 @@ Geltungsbereich am 9. Juli 2020**[^t-2]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617), [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441), [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117)[3841](https://fedlex.data.admin.ch/eli/oc/2015/648), [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17), [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99), [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
 
 Erklärung
 

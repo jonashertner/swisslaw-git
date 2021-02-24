@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Convenzione del 30 maggio 2008 sulle munizioni a grappolo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: it
-version: 2020-07-09
+version: 2021-02-25
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20200709/it/xml/fedlex-data-admin-ch-eli-cc-2012-617-20200709-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20200709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/it/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificata con strumenti depositati dalla Svizzera il 17 luglio 2012
 
 Entrata in vigore per la Svizzera il 1° gennaio 2013
 
-(Stato 9 luglio 2020)
+(Stato 25 febbraio 2021)
 
 [^t-1]: [RU 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -460,10 +460,10 @@ I testi della presente Convenzione redatti nelle lingue inglese, araba, cinese, 
 
 (Seguono le firme)
 
-Campo d’applicazione il 9 luglio 2020**[^t-2]**
+Campo d’applicazione il 25 febbraio 2021**[^t-2]**
 
 <table>
-<tr><th>Stati Parte</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>8 settembre</td><td>2011</td><td>1° marzo</td><td>2012</td></tr>
 <tr><td>Albania</td><td>16 giugno</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Andorra</td><td>9 aprile</td><td>2013 A</td><td>1° ottobre</td><td>2013</td></tr>
@@ -540,6 +540,7 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>Niger</td><td>2 giugno</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Norvegia\*</td><td>3 dicembre</td><td>2008</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Nuova Zelanda <sup>b</sup></td><td>22 dicembre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
+<tr><td>Niue</td><td>6 agosto</td><td>2020 A</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>Paesi Bassi</td><td>23 febbraio</td><td>2011</td><td>1° agosto</td><td>2011</td></tr>
 <tr><td>Palau</td><td>19 aprile</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Palestina</td><td>2 gennaio</td><td>2015 A</td><td>1° luglio</td><td>2015</td></tr>
@@ -555,6 +556,7 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>Saint Vincent e Grenadine</td><td>29 ottobre</td><td>2010</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Samoa</td><td>28 aprile</td><td>2010</td><td>1° ottobre</td><td>2010</td></tr>
 <tr><td>San Marino</td><td>10 luglio</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
+<tr><td>Santa Lucia</td><td>15 settembre</td><td>2020 A</td><td>1° marzo</td><td>2021</td></tr>
 <tr><td>Santa Sede\*</td><td>3 dicembre</td><td>2008</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>São Tomé e Príncipe</td><td>27 gennaio</td><td>2020</td><td>1° luglio</td><td>2020</td></tr>
 <tr><td>Seicelle</td><td>20 maggio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
@@ -574,12 +576,10 @@ Campo d’applicazione il 9 luglio 2020**[^t-2]**
 <tr><td>Ungheria</td><td>3 luglio</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Uruguay</td><td>24 settembre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>12 agosto</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Faeröer</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer <sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617), [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441), [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117)[3841](https://fedlex.data.admin.ch/eli/oc/2015/648), [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17), [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99), [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
 
 Dichiarazione
 
