@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Übereinkommen vom 20. Mai 1987 über ein gemeinsames Versandverfahren (mit Anlagen und Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: de
-version: 2021-01-01
+version: 2021-02-25
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 20. Mai 1987 Von der Bundesversammlung genehmigt am 8. Oktober 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1987 In Kraft getreten am 1. Januar 1988
 
-(Stand am 1. Januar 2021)
+(Stand am 25. Februar 2021)
 
 [^t-1]: Das Übereink. umfasste ursprünglich folgende Vertragsparteien: Europäische Wirtschaftsgemeinschaft, Republik Österreich, Republik Finnland, Republik Island, Königreich Norwegen, Königreich Schweden und Schweizerische Eidgenossenschaft. Die Republik Österreich, die Republik Finnland und das Königreich Schweden sind am 1. Jan. 1995 den Europäischen Gemeinschaften beigetreten und sind seither nicht mehr selbständige Vertragsparteien des Übereink. Die Republik Polen, die Slowakische Republik, die Tschechische Republik und die Republik Ungarn sind dem Übereink. am 1. Juli 1996 beigetreten (AS **1996** 2508). Mit dem Beitritt zur Europäischen Union, sind diese vier Länder seit dem 1. Mai 2004 nicht mehr selbständige Vertragsparteien des Übereinkommens. Die Republik Kroatien ist dem Übereink. am 1. Juli 2012 beigetreten (AS **2013** 81), die Republik Türkei am 1. Dez. 2012 (AS **2013** 827), die ehemalige jugoslawische Republik Mazdonien (heute: Nordmazedonien) am 1. Juli 2015 (AS **2015** 5967) und die Republik Serbien am 1. Febr. 2016 (AS **2016** 535).
 [^t-2]: Art. 1 Abs. 1 Bst. b des BB vom 8. Okt. 1987 ([AS 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -4630,7 +4630,7 @@ Anhang A3 zu Anlage III
 
 ## Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image1.png)
 
 Anhang A4 zu Anlage III
 
@@ -4942,7 +4942,7 @@ Vorbehaltlich etwaiger besonderer Vorschriften über den Einsatz von Datenverarb
 
 Siehe Anhang B6 Titel III
 
-Anhang B3 zu Anlage IIIa
+Anhang B3 zu Anlage III
 
 ## In den Vordrucken zur Ausstellung des Papiers zum Nachweis des zollrechtlichen Status von Unionswaren zu verwendende Codes
 
@@ -5762,7 +5762,7 @@ Anhang B9 zu Anlage III
 
 ## Muster für den vom zugelassenen Versender zu verwendenden Sonderstempel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image2.png)
 
 - 1\. Wappen oder sonstige Zeichen oder Buchstaben des Landes
 - 2\. Kennnummer der Abgangszollstelle
@@ -5776,7 +5776,7 @@ Anhang B10 zu Anlage III
 ## Eingangsbescheinigung (TC 11)
 
 <table>
-<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ............ (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am .................. (TT/MM/JJ) unter der Nr. .................. (MRN<sup>(2)</sup>) von der Abgangszollstelle von .............................. (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image3.png) (Ort) ..............., den ............... (TT/MM/JJ) ............................................................ (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
+<tr><td>TC 11 – EINGANGSBESCHEINIGUNG Die Bestimmungszollstelle von ............ (Ort, Bezeichnung und Kennnummer) bescheinigt, dass ihr die Versandanmeldung T1, T2, T2F<sup>(1)</sup> registriert am .................. (TT/MM/JJ) unter der Nr. .................. (MRN<sup>(2)</sup>) von der Abgangszollstelle von .............................. (Ort, Bezeichnung und Kennnummer) übergeben worden ist. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image3.png) (Ort) ..............., den ............... (TT/MM/JJ) ............................................................ (Unterschrift) <sup>(1)</sup> Nichtzutreffendes streichen. <sup>(2)</sup> Im Falle eines zeitweiligen Ausfalls des elektronischen Versandsystems ist eine im BKP verwendete Nummer einzutragen.</td></tr>
 </table>
 
 Anhang B11 zu Anlage III
@@ -5785,7 +5785,7 @@ Anhang B11 zu Anlage III
 
 (Versandverfahren im Eisenbahnverkehr)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image4.png)
 
 Anhang C1 zu Anlage III
 
@@ -5833,7 +5833,7 @@ Der/Die Unterzeichnete verpflichtet sich, die Wahldomizile beizubehalten oder ei
 
 Zollstelle der Sicherheitsleistung
 
-Verpflichtungserklärung des Bürgen genehmigt am ……………. für das Zollverfahren mit der Zollanmeldung/Anmeldung zur vorübergehenden Verwahrung Nr. …………… vom …………… (10)
+Verpflichtungserklärung des Bürgen genehmigt am ................ für das Zollverfahren mit der Zollanmeldung/Anmeldung zur vorübergehenden Verwahrung Nr. ............... vom ............... (10)
 
 (Stempel und Unterschrift)
 
@@ -5919,7 +5919,7 @@ Anhang C3 zu Anlage III
 
 ## Einzelsicherheitstitel
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image5.png)
 
 Technische Anforderungen an den Sicherheitstitel
 
@@ -5957,7 +5957,7 @@ Der Höchstbetrag der Sicherheitsleistung setzt sich zusammen aus einem Betrag i
 
 - a) vorübergehende Verwahrung – ...,
 - b) Unionsversandverfahren/gemeinsames Versandverfahren – ...,
-- c) Zolllagerverfahren – …,
+- c) Zolllagerverfahren – ...,
 - d) vorübergehende Verwendung mit vollständiger Befreiung von den Einfuhrabgaben – ...,
 - e) aktive Veredelung – ...,
 - f) Endverwendung – ... (9),
@@ -6663,7 +6663,7 @@ Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 
 
 Muster des Versandbegleitdokuments
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image6.png)
 
 Anhang A4a zu Anlage IIIa
 
@@ -7009,7 +7009,7 @@ Falls zutreffend ist bei Containern gemäss ISO-Norm Nr. 6346 die vom Bureau Int
 
 Bei Wechselbehältern und Sattelanhängern ist der durch die europäische Norm EN 13044 eingeführte ILU-Code (Code zur Identifizierung intermodaler Ladeeinheiten) zu verwenden.
 
-Anhang B3a zu Anlage III
+Anhang B3a zu Anlage IIIa
 
 ## Formate und Codes der gemeinsamen Datenanforderungen für T2L/T2LF als Nachweise des zollrechtlichen Status von Unionswaren
 
@@ -7195,7 +7195,7 @@ Dieser Anhang gilt ab dem im Anhang des Durchführungsbeschlusses (EU) 2016/578 
 
 Muster der Liste der Warenpositionen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/de/xml/image/image7.png)
 
 Anhang A6a zu Anlage IIIa
 
@@ -8299,7 +8299,7 @@ den Erlass von Sicherungsmassnahmen hinsichtlich der nachstehend bezeichneten Pe
 <tr><td><sup>3</sup></td><td colspan="14">Sofern es sich um einen globalen Vollstreckungstitel handelt, sind die Forderungsbeträge getrennt nach Forderungen aufzuführen.</td></tr>
 </table>
 
-Geltungsbereich am 1. Februar 2016**[^t-11]**
+Geltungsbereich am 25. Februar 2021**[^t-11]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -8310,7 +8310,8 @@ Geltungsbereich am 1. Februar 2016**[^t-11]**
 <tr><td>Schweiz <sup>b</sup></td><td>28. Oktober</td><td>1987</td><td>1. Januar</td><td>1988</td></tr>
 <tr><td>Serbien</td><td>9. Dezember</td><td>2015 B</td><td>1. Februar</td><td>2016</td></tr>
 <tr><td>Türkei</td><td>1. Dezember</td><td>2012 B</td><td>1. Dezember</td><td>2012</td></tr>
-<tr><td colspan="5"><sup>a</sup> Mitglieder der Europäischen Union: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Kroatien, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien Spanien, Tschechische Republik, Ungarn, Vereinigtes Königreich, Zypern. <sup>b</sup> Mitglied der EFTA.</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Januar</td><td>2021 B</td><td>1. Januar</td><td>2021</td></tr>
+<tr><td colspan="5"><sup>a</sup> Mitglieder der Europäischen Union: Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Griechenland, Irland, Kroatien, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Polen, Portugal, Rumänien, Schweden, Slowakei, Slowenien, Spanien, Tschechische Republik, Ungarn, Zypern. <sup>b</sup> Mitglied der EFTA.</td></tr>
 </table>
 
-[^t-11]: [AS 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA www.eda.admin.ch/vertraege).
+[^t-11]: [AS 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

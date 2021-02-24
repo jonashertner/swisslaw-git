@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convention du 20 mai 1987 relative à un régime de transit commun (avec appendices et prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: fr
-version: 2021-01-01
+version: 2021-02-25
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1987
 
 Entrée en vigueur le 1<sup>er</sup> janvier 1988
 
-(Etat le 1<sup>er</sup> janvier 2021)
+(Etat le 25 février 2021)
 
 [^t-1]: Cette Conv. comprenait primitivement les parties contractantes suivantes: la CEE, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse. La République d’Autriche, la République de Finlande et le Royaume de Suède ont adhéré aux Communautés européennes le 1<sup>er</sup> janv. 1995 et, depuis cette date, ne sont plus des parties contractantes autonomes à la Conv. La Pologne, la Slovaquie, la Tchéquie et la Hongrie ont adhéré à la Conv. le 1<sup>er</sup> juil. 1996 ([RO 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Suite à leur adhésion à l’UE, ces 4 pays ne sont plus des parties contractantes autonomes à la Conv. depuis le 1<sup>er</sup> mai 2004. Sont également parties contractantes la République de Croatie depuis le 1<sup>er</sup> juil. 2012 ([RO 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la République de Turquie depuis le 1<sup>er</sup> déc. 2012 ([RO 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), la Macédoine depuis le 1<sup>er</sup> juil 2015 ([RO 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) et la Serbie depuis le 1<sup>er</sup> fév. 2016 ([RO 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 8 oct. 1987 ([RO 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -4646,7 +4646,7 @@ Annexe A3 de l’appendice III
 
 ## Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image1.png)
 
 Annexe A4 de l’appendice III
 
@@ -5747,7 +5747,7 @@ Annexe B9 de l’appendice III
 
 ## Modèle d’un cachet spécial utilisé par un expéditeur agréé
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image2.png)
 
 - 1\. Les armoiries ou tous autres signes ou lettres caractérisant le pays
 - 2\. Numéro de référence du bureau de douane de départ
@@ -5761,7 +5761,7 @@ Annexe B10 de l’appendice III
 ## TC 11 – RECEPISSE
 
 <table>
-<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
+<tr><td>TC 11 – RECEPISSE Le bureau de douane de destination situé à ............ (lieu, nom et numéro de référence) certifie que la déclaration de transit T1, T2, T2F<sup>(1)</sup> enregistrée le .................. (jj/mm/aa) sous le n<sup>o</sup> .................. (MRN<sup>(2)</sup>) par le bureau de douane de départ situé à .............................. (lieu, nom et numéro de référence) lui a été remis. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image3.png) Fait à ..............., le ............... (jj/mm/aa) ............................................................ (Signature) <sup>(1)</sup> Biffer les mentions inutiles. <sup>(2)</sup> En cas de panne temporaire du système de transit électronique, veuillez indiquer un numéro utilisé dans le cadre du PCA.</td></tr>
 </table>
 
 Annexe B11 de l’appendice III
@@ -5770,7 +5770,7 @@ Annexe B11 de l’appendice III
 
 (transit par chemin de fer)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image4.png)
 
 Annexe C1 de l’appendice III
 
@@ -5905,11 +5905,11 @@ Annexe C3 de l’appendice III
 
 *(Recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image5.png)
 
 *(Verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image6.png)
 
 Normes techniques applicables au titre
 
@@ -6658,7 +6658,7 @@ Le présent appendice s’appliquera à partir de la date de mise à niveau du s
 
 Modèle de document d’accompagnement transit
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image7.png)
 
 Annexe A4<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -6741,7 +6741,7 @@ La présente annexe s’appliquera à partir de la date de mise à niveau du sys
 
 Modèle de liste d’articles
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/fr/xml/image/image8.png)
 
 Annexe A6<sup>bis</sup> de l’appendice III<sup>bis</sup>
 
@@ -8299,19 +8299,20 @@ requérante désignée ci-dessus, demande par la présente
 <tr><td><sup>3</sup></td><td colspan="14">En cas de titre exécutoire global, indiquer le montant des créances de nature différente.</td></tr>
 </table>
 
-Champ d’application le 1<sup>er</sup> février 2016**[^t-11]**
+Champ d’application le 25 février 2021**[^t-11]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Islande <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Macédoine du Nord</td><td>28 mai</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
 <tr><td>Norvège <sup>a</sup></td><td>31 juillet</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Royaume-Uni</td><td>1<sup>er</sup> janvier</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Serbie</td><td>9 décembre</td><td>2015 A</td><td>1<sup>er</sup> février</td><td>2016</td></tr>
 <tr><td>Suisse <sup>a</sup></td><td>28 octobre</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td>Turquie</td><td>1<sup>er</sup> décembre</td><td>2012 A</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
-<tr><td>Union européenne <sup>b</sup></td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
+<tr><td>Union européenne (UE) <sup>b</sup></td><td>15 juin</td><td>1987</td><td>1<sup>er</sup> janvier</td><td>1988</td></tr>
 <tr><td colspan="5"><sup>a</sup> Membre de l’AELE.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Royaume-Uni, Slovaque, Slovénie, Suède.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Membres de l’Union européenne: Allemagne, Autriche, Belgique, Bulgarie, Chypre, Croatie, Danemark, Espagne, Estonie, Finlande, France, Grèce, Hongrie, Irlande, Italie, Lettonie, Lituanie, Luxembourg, Malte, Pays-Bas, Pologne, Portugal, République tchèque, Roumanie, Slovaquie, Slovénie, Suède.</td></tr>
 </table>
 
-[^t-11]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-11]: [RO 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral « Fedlex » à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.

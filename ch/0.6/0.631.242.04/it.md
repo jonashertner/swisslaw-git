@@ -3,11 +3,11 @@ sr: "0.631.242.04"
 title: Convenzione del 20 maggio 1987 relativa ad un regime comune di transito (con appendici e Protocollo addizionale)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/308_308_308"
 language: it
-version: 2021-01-01
+version: 2021-02-25
 adopted: 1987-05-20
 in_force: 1988-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/fedlex-data-admin-ch-eli-cc-1988-308_308_308-20210225-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/308_308_308/20210225/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di ratificazione depositato dalla Svizzera il 28 ottobre 1987
 
 Entrata in vigore il 1° gennaio 1988
 
-(Stato 1° gennaio 2021)
+(Stato 25 febbraio 2021)
 
 [^t-1]: La Conv. concerneva originariamente le seguenti Parti contraenti: Comunità economica europea, Repubblica d’Austria, Repubblica di Finlandia, Repubblica d’Islanda, Regno di Norvegia, Regno di Svezia e Confederazione Svizzera. Il 1° gen. 1995, la Repubblica d’Austria, la Repubblica di Finlandia e il Regno di Svezia hanno aderito alle Comunità europee e da tale data non sono più Parti contraenti autonome della Conv. Il 1° lug. 1996, la Repubblica di Polonia, la Repubblica slovacca, la Repubblica ceca e la Repubblica di Ungheria hanno aderito alla Conv. ([RU 1996 2508](https://fedlex.data.admin.ch/eli/oc/1996/2508_2508_2508)). Con l’adesione all’Unione Europea, dal 1° mag. 2004 questi paesi non sono più Parti contraenti autonome della Conv. La Repubblica di Croazia ha aderito alla Conv. il 1° lug. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), la Repubblica della Turchia il 1° dic. 2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), l’ex Repubblica Jugoslava di Macedonia il 1° lug. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)) e la Repubblica di Serbia il 1° feb. 2016 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)).
 [^t-2]: Art. 1 n. 1 lett. b del DF dell’8 ott. 1987 ([RU 1988 300](https://fedlex.data.admin.ch/eli/oc/1988/300_300_300)).
@@ -300,7 +300,7 @@ In caso di sospetta irregolarità o sospetta infrazione riguardanti merci introd
 [^13-2]: Aggiornato dall’art. 1 n. 9 della Dec. n. 1 /2000 della Commissione mista CE-AELS del 20 dic. 2000 ([RU 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) e dall’art. 1 n. 1 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016, in vigore per la Svizzera dal 1° mag. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 [^13-3]: Aggiornato dall’art. 1 n. 9 della Dec. n. 1 /2000 della Commissione mista CE-AELS del 20 dic. 2000 ([RU 2001 542](https://fedlex.data.admin.ch/eli/oc/2001/106)) e dall’art. 1 n. 1 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016, in vigore per la Svizzera dal 1° mag. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)).
 
-## Recupero****
+## Recupero
 
 [^lvlu4-1]
 
@@ -366,7 +366,7 @@ Il comitato adotta, mediante decisione:
 [^15-8]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 ([RU 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)). Nuovo testo giusta l’art. 1 n. 4 della Dec. n. 3/97 del Comitato misto CE-AELS del 23 lug. 1997, in vigore per la Svizzera dal 1° ott. 1997 ([RU 1998 258](https://fedlex.data.admin.ch/eli/oc/1998/258_258_258)).
 [^15-9]: Introdotto dall’Acc. del 25 set. 1995, approvato dall’AF il 22 mar. 1995 e in vigore dal 1° lug. 1994 ([RU 1996 1059](https://fedlex.data.admin.ch/eli/oc/1996/1059_1059_1059)[2112](https://fedlex.data.admin.ch/eli/oc/1996/2112_2112_2112)[1048](https://fedlex.data.admin.ch/eli/oc/1996/1048_1048_1048); [FF 1995 II 1](https://fedlex.data.admin.ch/eli/fga/1995/2_1_1_1)).
 
-## Adesione dei Paesi terzi****
+## Adesione dei Paesi terzi
 
 [^lvlu6-1]
 
@@ -2530,11 +2530,11 @@ Allegato II dell’appendice I
 - 26\.1. Quando le merci arrivano in un luogo precisato nell’autorizzazione, il destinatario autorizzato informa senza indugio l’ufficio doganale di destinazione in merito a tale arrivo. Egli segnala la data di arrivo, lo stato dei sigilli eventualmente apposti nonché qualsiasi irregolarità negli esemplari n. 4 e n. 5 del DAU o nell’esemplare del DAT che hanno accompagnato le merci e li consegna all’ufficio doganale di destinazione conformemente alle norme previste nell’autorizzazione.
 - 26\.2. L’ufficio doganale di destinazione appone sugli esemplari n. 4 e n. 5 del DAU o sull’esemplare del DAT le annotazioni previste al punto 13 del presente allegato.
 
-Appendice II*[^t-4]*
+Appendice II[^t-4]
 
 ## Posizione doganale di merci unionali e disposizioni relative all’euro
 
-[^t-4]: Nuovo testo giusta l’art. 1 n. 5 della Dec. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 n. 3 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) e dall’art. 1 n. 2 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019, in vigore dal 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
+[^t-4]: Nuovo testo giusta l’art. 1 n. 5 della Dec. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 n. 3 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dell’art. 1 n. 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)) e dall’art. 1 n. 2 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019, in vigore dal 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)).
 
 #### Art. 1
 
@@ -2871,11 +2871,11 @@ Se, per una data valuta nazionale, tale tasso non è disponibile, il tasso da ap
 
 <sup>2.</sup> Il controvalore dell’euro da prendere in considerazione per l’applicazione del paragrafo 1 è quello applicabile alla data dell’accettazione della dichiarazione di transito comune coperta dal o dai certificati di garanzia isolata, conformemente all’articolo 30, paragrafo 2 dell’appendice I.
 
-Appendice III*[^t-5]*
+Appendice III[^t-5]
 
 ## Dichiarazione di transito e formulari in caso di utilizzo di procedimenti informatici
 
-[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Giusta l’art. 2 di detta dec. i formulari relativi alla garanzia di cui agli allegati da C1 a C6, nella versione applicabile il giorno prima dell’entrata in vigore della presente decisione, possono continuare a essere utilizzati, con i necessari adattamenti geografici, per un anno a decorrere dall’entrata in vigore della presente decisione.
+[^t-5]: Nuovo testo giusta l’art. 1 n. 6 e 7 della Dec. n. 1/2008 del Comitato congiunto CE-AELS del 16 giu. 2008 ([RU 2009 1325](https://fedlex.data.admin.ch/eli/oc/2009/212)). Aggiornata dagli art. 1 delle Dec. n. 3/2012 del Comitato congiunto del 26 giu. 2012 ([RU 2013 81](https://fedlex.data.admin.ch/eli/oc/2013/15)), n. 4/2012 del Comitato congiunto UE-AELS del 26 giu.2012 ([RU 2013 827](https://fedlex.data.admin.ch/eli/oc/2013/173)), n. 1/2013 del Comitato congiunto UE-AELS del 1° lug. 2013 ([RU 2014 293](https://fedlex.data.admin.ch/eli/oc/2014/48)), n. 2/2013 del Comitato misto UE-AELS del 7 nov. 2013 ([RU 2014 3495](https://fedlex.data.admin.ch/eli/oc/2014/609)), n. 2/2015 del Comitato congiunto UE-AELS del 17 giu. 2015 ([RU 2015 5967](https://fedlex.data.admin.ch/eli/oc/2015/924)), n. 4/2015 del Comitato congiunto UE-AELS del 26 nov. 2015 ([RU 2016 535](https://fedlex.data.admin.ch/eli/oc/2016/101)), dall’art. 1 n. 4 a 6 della Dec. n. 1/2016 del Comitato congiunto UE-AELS del 28 apr. 2016 ([RU 2016 1951](https://fedlex.data.admin.ch/eli/oc/2016/337)), dall’art. 1 n. 4 e 5 della Dec. n. 1/2017 del Comitato congiunto EU-EFTA del 5 dic. 2017 ([RU 2018 303](https://fedlex.data.admin.ch/eli/oc/2018/53)), dall’art. 1 n. 3 della Dec. n. 1/2019 Comitato congiunto UE-PTC del 4 dic. 2019 ([RU 2020 3687](https://fedlex.data.admin.ch/eli/oc/2020/670)) e dall’art. 1 della dec. n. 2/2018 del Comitato congiunto EU-EFTA del 4 dic. 2018, in vigore dal 1° gen. 2021 ([RU 2021 118](https://fedlex.data.admin.ch/eli/oc/2021/118)). Giusta l’art. 2 di detta dec. i formulari relativi alla garanzia di cui agli allegati da C1 a C6, nella versione applicabile il giorno prima dell’entrata in vigore della presente decisione, possono continuare a essere utilizzati, con i necessari adattamenti geografici, per un anno a decorrere dall’entrata in vigore della presente decisione.
 
 #### Art. 1
 
@@ -4692,7 +4692,7 @@ Allegato A3 dell’appendice III
 
 ## Modello di documento d’accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image1.png)
 
 Allegato A4 dell’appendice III
 
@@ -5794,7 +5794,7 @@ Allegato B9 dell’appendice III
 
 ## Modello di timbro speciale utilizzato da uno speditore autorizzato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image2.png)
 
 - 1\. Stemma o altri simboli o lettere che caratterizzano il Paese
 - 2\. Numero di riferimento dell’ufficio doganale di partenza
@@ -5808,7 +5808,7 @@ Allegato B10 dell’appendice III
 ## TC 11 – RICEVUTA
 
 <table>
-<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
+<tr><td>TC 11 – RICEVUTA L’ufficio doganale di destinazione di ……………… (luogo, nome e numero di riferimento) certifica che la dichiarazione di transito T1, T2, T2F<sup>(1)</sup> registrata il …………………… (gg/mm/aa) con il n. ………………… (MRN<sup>(2)</sup>) dall’ufficio doganale di partenza di ………………………… (luogo, nome e numero di riferimento) gli è stata consegnata. ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image3.png) Fatto a ……………, il …………… (gg/mm/aa) …………………………………………………… (firma) <sup>(1)</sup> Cancellare le diciture che non interessano. <sup>(2)</sup> In caso di malfunzionamento temporaneo del sistema di transito elettronico introdurre un numero utilizzato nel BCP.</td></tr>
 </table>
 
 Allegato B11 dell’appendice III
@@ -5817,7 +5817,7 @@ Allegato B11 dell’appendice III
 
 (transito per ferrovia)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image4.png)
 
 Allegato C1 dell’appendice III
 
@@ -5952,11 +5952,11 @@ Allegato C3 dell’appendice III
 
 *(recto)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image5.png)
 
 *(verso)*
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image6.png)
 
 Requisiti tecnici applicabili ai certificati
 
@@ -6133,7 +6133,7 @@ Allegato C7 dell’appendice III
 
 - Le modalità e diciture figurano nell’allegato IV, punto 4, dell’appendice I.
 
-Appendice III bis*[^t-6]*
+Appendice III bis[^t-6]
 
 ## Dichiarazioni di transito, documenti di accompagnamento transito e altri documenti
 
@@ -6692,7 +6692,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di documento di accompagnamento transito
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image7.png)
 
 Allegato A4 bis dell’appendice III bis
 
@@ -6775,7 +6775,7 @@ Il presente allegato si applica a decorrere dalla data di introduzione dell’ag
 
 Modello di elenco degli articoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/308_308_308/20210225/it/xml/image/image8.png)
 
 Allegato A6 bis dell’appendice III bis
 
@@ -7071,7 +7071,7 @@ Ai fini del presente dato le casse mobili e i semirimorchi utilizzati per il tra
 
 Se del caso, per i container contemplati dalla norma ISO 6346, l’identificativo (prefisso) assegnato dall’Ufficio internazionale dei contenitori e del trasporto intermodale (*Bureau international des containers* – BIC) viene fornito in aggiunta al numero di identificazione del container.
 
-Per le casse mobili e i semirimorchi si utilizza il codice ILU (*Intermodal Loading Units*) quale introdotto dalla norma europea EN 13044.
+Per le casse mobili e i semirimorchi si utilizza il codice ILU (*Intermodal Loading* Units) quale introdotto dalla norma europea EN 13044.
 
 Allegato B3 bis dell’appendice III bis
 
@@ -7113,7 +7113,7 @@ Esempi di lunghezze e formati del campo:
 
 \7. La cardinalità a livello di articolo nella tabella di cui al titolo II del presente allegato indica il numero di volte in cui il dato può essere ripetuto in relazione all’articolo nella prova della posizione doganale di merci unionali in questione.
 
-### Titolo II: Formati e cardinalità dei requisiti comuni in materia di dati per la prova della posizione doganale di merci unionali
+## Titolo II: Formati e cardinalità dei requisiti comuni in materia di dati per la prova della posizione doganale di merci unionali
 
 <table>
 <tr><th>Numero d’ordine del dato</th><th>Denominazione del dato</th><th>Formato del dato (tipo/lunghezza)</th><th>Elenco dei codici nel titolo III (S/N)</th><th>Cardinalità a livello di intestazione</th><th>Cardinalità a livello di articolo</th><th>Note</th></tr>
@@ -7147,7 +7147,7 @@ Esempi di lunghezze e formati del campo:
 <tr><td>7/10</td><td>Numero di identificazione del container</td><td>an..17</td><td>N</td><td>9999x</td><td>9999x</td><td></td></tr>
 </table>
 
-### Titolo III: Codici relativi ai requisiti comuni in materia di dati per la prova della posizione doganale di merci unionali
+## Titolo III: Codici relativi ai requisiti comuni in materia di dati per la prova della posizione doganale di merci unionali
 
 Il presente titolo contiene i codici da utilizzare per le prove standard su supporto cartaceo della posizione doganale di merci unionali.
 
@@ -8334,19 +8334,20 @@ richiedente designata qui sopra, domanda con la presente
 <tr><td colspan="21"><sup>3</sup> In caso di titolo esecutivo globale, indicare l’importo dei crediti di natura differente.</td></tr>
 </table>
 
-Campo d’applicazione il 1° febbraio 2016**[^t-11]**
+Campo d’applicazione il 25 febbraio 2021**[^t-11]**
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Statipartecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Islanda <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Macedonia del Nord</td><td>28 maggio</td><td>2015 A</td><td>1° luglio</td><td>2015</td></tr>
 <tr><td>Norvegia <sup>a</sup></td><td>31 luglio</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
+<tr><td>Regno Unito</td><td>1° gennaio</td><td>2021 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Serbia</td><td>9 dicembre</td><td>2015 A</td><td>1° febbraio</td><td>2016</td></tr>
 <tr><td>Svizzera <sup>a</sup></td><td>28 ottobre</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td>Turchia</td><td>1° dicembre</td><td>2012 A</td><td>1° dicembre</td><td>2012</td></tr>
 <tr><td>Unione europea <sup>b</sup></td><td>15 giugno</td><td>1987</td><td>1° gennaio</td><td>1988</td></tr>
 <tr><td colspan="5"><sup>a</sup> Stato partecipante dell’AELS.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Regno Unito, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Membri dell’Unione europea: Austria, Belgio, Bulgaria, Cipro, Croazia, Danimarca, Estonia, Finlandia, Francia, Germania, Grecia, Irlanda, Italia, Lettonia, Lituania, Lussemburgo, Malta, Paesi Bassi, Polonia, Portogallo, Repubblica ceca, Romania, Slovacchia, Slovenia, Spagna, Svezia, Ungheria.</td></tr>
 </table>
 
-[^t-11]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-11]: [RU 2016 549](https://fedlex.data.admin.ch/eli/oc/2016/102); [2021 129](https://fedlex.data.admin.ch/eli/oc/2021/129). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
