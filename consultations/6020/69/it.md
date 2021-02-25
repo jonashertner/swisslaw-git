@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica della legge sull'ingegneria genetica (proroga della moratoria sulla messa in commercio di organismi geneticamente modificati)"
 document: Avamprogetto
 language: it

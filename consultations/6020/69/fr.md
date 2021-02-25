@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de la loi sur le génie génétique (prolongation du moratoire sur la mise en circulation d'organismes génétiquement modifiés)"
 document: Projet
 language: fr

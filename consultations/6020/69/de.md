@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Gentechnikgesetzes (Verlängerung des Moratoriums zum Inverkehrbringen von gentechnisch veränderten Organismen)
 document: Vorlage
 language: de
