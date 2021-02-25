@@ -5,12 +5,12 @@ title: Lescha davart las vias dal chantun Grischun
 short: LVias
 language: rm
 version: 2016-01-01
-corrected: 2015-12-10
+corrected: 2021-02-26
 version_adopted: 2015-12-07
 adopted: 2005-09-01
 in_force: 2006-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/807.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2460/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -38,54 +38,65 @@ concluda:
 
 #### Art. 1
 
-**Champ d'applicaziun e princips**
+**Champ d'applicaziun**
 
-<sup>1</sup> Questa lescha regla la projectaziun, la construcziun, il mantegniment, l'utilisaziun e la finanziaziun da las vias chantunalas e da las sendas en il chantun Grischun.
+<sup>1</sup> Questa lescha regla la projectaziun, la construcziun, il mantegniment, l'utilisaziun e la finanziaziun da las vias chantunalas sco er las cumpetenzas e las incumbensas areguard il traffic betg motorisà.
 
-<sup>2</sup> Las vias chantunalas e lur indrizs tecnics ston vegnir projectads, construids, mantegnids e tegnids en funcziun tenor ils princips da la persistenza.
+<sup>2</sup> Ella vegn applitgada subsidiarmain per las vias naziunalas.
 
-<sup>3</sup> La coordinaziun da las vias chantunalas cun las ulteriuras incumbensas da las vischnancas, dal chantun e da la confederaziun che han in effect sin il territori succeda en la procedura chantunala dal plan directiv.
+<sup>3</sup> …
 
-<sup>4</sup> Questa lescha vegn applitgada subsidiarmain per las vias naziunalas.
+<sup>4</sup> …
 
 #### Art. 2
+
+**Princips**
+
+<sup>1</sup> Las vias chantunalas e lur indrizs tecnics ston vegnir projectads, construids e mantegnids tenor ils princips da la persistenza, da la segirezza, da la rentabilitad e da la protecziun da l'ambient.
+
+<sup>2</sup> La coordinaziun da las vias chantunalas cun las ulteriuras incumbensas da las vischnancas, dal chantun e da la confederaziun che han in effect sin il territori succeda en la procedura chantunala dal plan directiv.
+
+<sup>3</sup> …
+
+<sup>4</sup> …
+
+#### Art. 3
 
 **Cumpetenzas**
 
 <sup>1</sup> La regenza ha la surveglianza suprema dals fatgs da vias dal chantun.
 
-<sup>2</sup> Per exequir il mantegniment dal manaschi da las vias naziunalas ed il mantegniment architectonic da las vias naziunalas che na fa betg part d'in project sco er per ulteriuras incumbensas en quest sectur è la regenza autorisada da far cunvegnas da prestaziun cun la confederaziun.
+<sup>2</sup> Per reglar incumbensas en il sectur da las vias naziunalas po ella far cunvegnas da prestaziun cun la confederaziun.
 
-<sup>3</sup> Il departament surveglia la projectaziun, la construcziun, il mantegniment e la polizia da construcziun da vias.
+<sup>3</sup> Il departament surveglia la projectaziun, la construcziun ed il mantegniment da las vias chantunalas e fa la polizia da construcziun da vias.
 
-<sup>4</sup> Al departament è suttamess l'uffizi chantunal da construcziun bassa (uffizi da construcziun bassa) sco post spezialisà per ils fatgs da vias.
-
-#### Art. 3
-
-**Categorias da vias e da sendas**
-
-<sup>1</sup> Las vias vegnan partidas en vias naziunalas, en vias chantunalas ed en vias communalas sco er en vias privatas per il diever general.
-
-<sup>2</sup> Las sendas vegnan partidas en vias da velo, vias da chavaltgar, passapes ed en vias e sendas da viandar.
+<sup>4</sup> Al departament è suttamess l'uffizi chantunal da construcziun bassa (uffizi da construcziun bassa) sco post spezialisà per ils fatgs da vias, per il traffic betg motorisà e per la correcziun dals curs d'aua.
 
 #### Art. 4
-
-**Via**
-
-<sup>1</sup> Tar la via tutgan:
-
-- a) tut las surfatschas per il traffic che circulescha e per il traffic en paus;
-- b) tut ils edifizis e tut ils stabiliments publics entaifer ed ordaifer la zona da la via che servan a la concepziun tecnica da la via, ad utilisar la via confurm a l'intent ed a segirar la via u ch'èn necessaris per proteger il conturn.
-
-#### Art. 5
 
 **Vias chantunalas**
 
 <sup>1</sup> Sco vias chantunalas valan las vias principalas e las vias da colliaziun. Ellas èn proprietad dal chantun ed èn suttamessas a sia suveranitad.
 
-<sup>2</sup> Las vias principalas èn ils stabiliments per il traffic designads da la regenza, spezialmain ils stabiliments per il traffic da transit surregiunal.
+- a) …
+- b) …
+
+<sup>2</sup> Vias principalas èn quels stabiliments che la regenza ha designà sco talas, spezialmain ils stabiliments per il traffic surregiunal.
 
 <sup>3</sup> Las vias da colliaziun èn tut las autras vias chantunalas.
+
+#### Art. 5
+
+**Cumponentas da la via chantunala**
+
+<sup>1</sup> Tar la via chantunala tutgan:
+
+- a) tut las surfatschas per il traffic che circulescha, inclusiv vials da velo;
+- b) tut ils edifizis e tut ils stabiliments entaifer ed ordaifer la zona da la via che servan a la concepziun tecnica da la via, ad utilisar la via confurm a l'intent ed a segirar la via ubain ch'èn necessaris per proteger ils conturns, però betg edifizis e stabiliments da terzas persunas.
+
+<sup>2</sup> Las cumponentas da la via chantunala èn proprietad dal chantun, nun ch'i vegnian constituids auters dretgs.
+
+<sup>3</sup> …
 
 #### Art. 6
 
@@ -93,55 +104,55 @@ concluda:
 
 <sup>1</sup> Il traffic betg motorisà cumpiglia spezialmain il traffic da pedunas e da peduns ed il viandar, il traffic da velo sco er l'avanzament cun urdains sumegliants a vehichels.
 
-<sup>2</sup> Il chantun coordinescha la planisaziun e la construcziun dals stabiliments d'interess chantunal. La regenza fixescha las raits da vias e sendas correspundentas suenter avair tadlà las vischnancas e las regiuns.
+<sup>2</sup> La regenza fixescha las raits da vias e sendas en collavuraziun cun las vischnancas e las regiuns.
 
-<sup>3</sup> Il chantun procura ensemen cun las vischnancas per la signalisaziun dals stabiliments en l'interess chantunal.
+<sup>3</sup> Las vischnancas projecteschan, construeschan e mantegnan ils stabiliments cun resalva da las obligaziuns chantunalas. L'uffizi da construcziun bassa coordinescha la planisaziun, la construcziun e la signalisaziun.
 
-<sup>4</sup> Las vischnancas projecteschan, construeschan e mantegnan ils stabiliments.
+<sup>4</sup> En cas da stabiliments per lung da las vias chantunalas che servan a distgargiar quellas, po il chantun surpigliar la funcziun da patrun da construcziun.
 
 <sup>5</sup> Las vischnancas procuran ch'ils stabiliments possian vegnir utilisads senza privel e che l'access public saja segirà giuridicamain.
 
 <sup>6</sup> Per ils interess dal traffic betg motorisà pon il chantun e las vischnancas engaschar organisaziuns privatas spezialisadas e delegar a quellas singulas incumbensas cun in contract.
 
-<sup>7</sup> La regenza po designar in post spezialisà per il traffic betg motorisà.
+<sup>7</sup> …
 
 #### Art. 7
 
-**Dretg d'ina via chantunala**
+**Dretg d'ina via chantunala 1. princips**
 
-<sup>1</sup> Il chantun renda accessibla mintga vischnanca cun ina via chantunala.
+<sup>1</sup> Il chantun renda accessibla mintga vischnanca cun ina via chantunala, nun ch'i saja avant maun in'avertura tras ina via naziunala equivalenta.
 
-<sup>2</sup> Sch'ina vischnanca fusiunescha e daventa ina fracziun d'ina nova vischnanca, mantegna ella ses dretg d'avertura per l'anteriur abitadi principal.
+<sup>2</sup> Il medem dretg vala er per l'access d'ina fracziun communala, sche almain 30 persunas cun domicil stabel abitan là.
 
-<sup>3</sup> Il medem dretg vala er per l'access d'ina fracziun communala, sche almain 30 persunas cun domicil stabel abitan là.
+<sup>3</sup> Sco fracziun communala vala ina gruppa da chasas creschida istoricamain ch'è separada cleramain da l'abitadi principal da la vischnanca u in abitadi sparpaglià cun in'avertura principala communabla.
 
-<sup>4</sup> Sco fracziun communala vala ina gruppa da chasas creschida istoricamain ch'è separada cleramain da l'abitadi principal da la vischnanca u in abitadi sparpaglià cun in'avertura principala communabla.
+<sup>4</sup> Il dretg d'avertura d'ina vischnanca vala fin a la fin da l'abitadi principal, quel d'ina fracziun communala fin là, nua che la via serva a l'avertura da la maioritad da las abitantas e dals abitants da la fracziun.
 
-<sup>5</sup> Tar ina vischnanca tanscha la colliaziun cun ina via chantunala fin la fin da l'abitadi principal e tar ina fracziun communala fin là, nua ch'ella serva a l'avertura da la maioritad da las abitantas e dals abitants da la fracziun.
+<sup>5</sup> Sch'ina vischnanca fusiunescha e daventa ina fracziun d'ina nova vischnanca, mantegna ella ses dretg d'avertura per l'anteriur abitadi principal.
 
-<sup>6</sup> Tar la realisaziun d'in sviament sto la vischnanca surpigliar l'anteriura colliaziun. Ella ha vinavant il dretg d'ina suletta colliaziun chantunala fin al cumenzament dal vitg. Questa colliaziun vegn fixada da la regenza suenter avair tadlà la vischnanca.
+<sup>6</sup> Tar la realisaziun d'in sviament chantunal sto la vischnanca surpigliar l'anteriura colliaziun. Ella ha il dretg d'ina suletta colliaziun chantunala fin al cumenzament dal vitg. Questa colliaziun vegn fixada da la regenza suenter avair tadlà la vischnanca.
 
 <sup>7</sup> La colliaziun consista da princip d'ina via charrabla per vehichels a motor. Excepziunalmain pon vegnir previsas autras soluziuns, cunzunt pendicularas.
 
 #### Art. 8
 
-**Renconuschientscha**
+**2. integraziun en la rait da vias chantunalas**
 
-<sup>1</sup> La renconuschientscha d'ina via chantunala premetta ch'igl existia il dretg d'ina via chantunala ch'è reglà en l'artitgel 7.
+<sup>1</sup> L'integraziun d'ina via en la rait da vias chantunalas premetta ch'igl existia il dretg d'ina via chantunala sco ch'el è reglà en l'artitgel 7.
 
-<sup>2</sup> Il dumber minimal d'abitantas e d'abitants tenor l'artitgel 7 alinea 3 sto vegnir cumprovà durant 3 onns consecutivs.
+<sup>2</sup> Il dumber minimal d'abitantas e d'abitants tenor l'artitgel 7 alinea 2 sto vegnir cumprovà durant 3 onns consecutivs.
 
 <sup>3</sup> La via vegn surpigliada dal chantun en il stadi existent. La vischnanca n'ha nagin dretg d'indemnisaziun.
 
-<sup>4</sup> La renconuschientscha succeda tras la regenza.
+<sup>4</sup> L'integraziun vegn fatga da la regenza. La via vegn surpigliada dal chantun sco proprietad.
 
 #### Art. 9
 
-**Abgiudicaziun**
+**3. exclusiun da la rait da vias chantunalas**
 
-<sup>1</sup> L'abgiudicaziun d'ina via chantunala premetta ch'il dretg d'ina via chantunala tenor l'artitgel 7 n'existia betg pli u che la via haja pers ses intent sco via chantunala.
+<sup>1</sup> Sch'il dretg d'ina via chantunala tenor l'artitgel 7 scroda u sche la via ha pers ses intent sco via chantunala, vegn ella exclusa da la rait da vias chantunalas.
 
-<sup>2</sup> Il dumber minimal d'abitantas e d'abitants tenor l'artitgel 7 alinea 3 sto esser sutpassà durant 3 onns consecutivs.
+<sup>2</sup> Il dumber minimal d'abitantas e d'abitants tenor l'artitgel 7 alinea 2 sto esser sutpassà durant 3 onns consecutivs.
 
 <sup>3</sup> La via sto vegnir surpigliada da la vischnanca en il stadi existent. Il chantun n'ha nagin dretg d'indemnisaziun.
 
@@ -149,17 +160,17 @@ concluda:
 
 <sup>5</sup> En il rom da fusiuns da vischnancas po la regenza fixar l'avertura chantunala per contract.
 
-<sup>6</sup> L'abgiudicaziun vegn fatga tras la regenza suenter avair tadlà la vischnanca.
+<sup>6</sup> L'exclusiun vegn fatga tras la regenza suenter avair tadlà la vischnanca. La via vegn cedida a la vischnanca sco proprietad.
 
 #### Art. 10
 
-**Permissiun d'ina autra colliaziun**
+**4. permissiun d'ina autra colliaziun**
 
 <sup>1</sup> Sch'ils interess d'access e da traffic d'ina vischnanca u d'ina fracziun èn sa midads fundamentalmain, po vegnir permessa en barat in'autra colliaziun chantunala.
 
 <sup>2</sup> Sche la colliaziun existenta cumpiglia il territori da pliras vischnancas, ston quellas surpigliar sco proprietarias ils trajects da via che sa chattan sin lur territori.
 
-<sup>3</sup> La permissiun d'ina autra colliaziun chantunala succeda tras la regenza.
+<sup>3</sup> La permissiun d'ina autra colliaziun chantunala vegn dada da la regenza suenter avair tadlà la vischnanca.
 
 ## 2. Utilisaziun da las vias
 
@@ -175,11 +186,11 @@ concluda:
 
 **Diever general augmentà, utilisaziun speziala**
 
-<sup>1</sup> Mintga utilisaziun che surpassa il diever general da las vias chantunalas basegna ina permissiun da l'uffizi da construcziun bassa.
+<sup>1</sup> Mintga utilisaziun che surpassa il diever general da las zonas da via u dals stabiliments accessorics da vias naziunalas basegna ina permissiun da l'uffizi da construcziun bassa.
 
-<sup>2</sup> Ina concessiun da la regenza è necessaria per utilisaziuns da la via ch'èn spezialmain intensivas e da lunga durada.
+<sup>2</sup> Ina concessiun da la regenza è necessaria per utilisaziuns da las zonas da via u dals stabiliments accessorics da vias naziunalas ch'èn spezialmain intensivas e da lunga durada.
 
-<sup>3</sup> Tgi che basegna ina permissiun ed ina concessiun sto restituir tut ils custs ch'èn resultads per il chantun pervia da l'utilisaziun da la via. Las utilisadras ed ils utilisaders pon vegnir obligads da pajar prestaziuns anticipadas e prestaziuns da garanzia.
+<sup>3</sup> Tgi che basegna ina permissiun ed ina concessiun sto restituir tut ils custs che resultan per il chantun pervia da l'utilisaziun da las zonas da via u dals stabiliments accessorics da vias naziunalas. Las utilisadras ed ils utilisaders pon vegnir obligads da pajar prestaziuns anticipadas e prestaziuns da garanzia.
 
 #### Art. 13
 
@@ -207,7 +218,7 @@ concluda:
 
 <sup>2</sup> Las vias chantunalas èn da princip orientadas al traffic. Ils basegns dal traffic public, da las pedunas e dals peduns, da las ciclistas e dals ciclists sco er da persunas cun impediments ston vegnir resguardads adequatamain en enclegientscha cun las vischnancas pertutgadas.
 
-<sup>3</sup> La regenza relascha directivas concernent mesiras per quietar il traffic en il sectur entaifer il vitg da vias chantunalas. En quest connex sto vegnir prendì resguard sin la funcziun da la via e sin las relaziuns localas.
+<sup>3</sup> La regenza relascha directivas concernent mesiras per quietar il traffic en il sectur entaifer il vitg da vias chantunalas. En quest connex vegn fatga la differenza tranter vias ch'èn orientadas al traffic e vias ch'èn orientadas a l'abitadi, e quai resguardond lur funcziun e las relaziuns localas.
 
 #### Art. 16
 
@@ -221,15 +232,15 @@ concluda:
 
 #### Art. 17
 
-**Lingias da construcziun**
+**Lingias da construcziun 1. intent e vigur lianta**
 
 <sup>1</sup> En il project d'exposiziun pon vegnir fixadas lingias da construcziun. Quellas servan a tegnair liber spazis sur e sut terra per lung da las vias chantunalas, cunzunt en l'interess da la segirezza dal traffic, da la protecziun da la sanadad e da la cumplettaziun da la via en l'avegnir.
 
-<sup>2</sup> Sche las vischnancas fixeschan lingias da construcziun u lingias da furmaziun per construir en il sectur da vias chantunalas, ston ellas l'emprim coordinar quellas cun l'uffizi da construcziun bassa.
+<sup>2</sup> Sche las vischnancas fixeschan lingias da construcziun u lingias da furmaziun per construir en il sectur da vias chantunalas, ston ellas l'emprim coordinar quellas cun l'uffizi da construcziun bassa. Envers vias chantunalas èn liantas mo lingias da construcziun e lingias da furmaziun per construir ch'il chantun ha approvà.
 
 #### Art. 18
 
-**Permissiuns excepziunalas**
+**2. permissiuns excepziunalas**
 
 <sup>1</sup> Excepziuns en connex cun resguardar las lingias da construcziun pon vegnir permessas dal departament, sch'ils interess publics na vegnan betg violads.
 
@@ -237,25 +248,25 @@ concluda:
 
 #### Art. 19
 
-**Project d'exposiziun**
+**Project d'exposiziun 1. elements**
 
 <sup>1</sup> La regenza fixescha ils elements necessaris dals projects d'exposiziun da vias chantunalas.
 
 #### Art. 20
 
-**Exposiziun publica**
+**2. exposiziun publica**
 
-<sup>1</sup> Il departament expona publicamain il project d'exposiziun durant 30 dis en las vischnancas pertutgadas.
+<sup>1</sup> Il departament expona il project d'exposiziun, las dumondas per ulteriuras permissiuns che ston vegnir coordinadas sco er in eventual rapport davart la cumpatibilitad ecologica, e quai durant 30 dis publicamain en las vischnancas pertutgadas. Ils uffizis pertutgads vegnan tadlads en il rom d'ina procedura da cunrapport.
 
 <sup>2</sup> L'exposiziun sto vegnir publitgada en il fegl uffizial dal chantun ed il medem mument da las vischnancas confurm a l'usit local.
 
-<sup>3</sup> Durant l'exposiziun ston vegnir stajadas en il territori l'axa da la via inditgond las autezzas, e las lingias da construcziun.
+<sup>3</sup> Per la durada da l'exposiziun ston vegnir stajadas sche pussaivel en il terren l'axa da la via sco er eventualas lingias da construcziun. L'axa da la via sto vegnir marcada, inditgond la differenza d'autezza tranter il terren existent ed il terren projectà.
 
 <sup>4</sup> Construcziuns d'art, construcziuns autas e midadas impurtantas dal terren vegnan – tant sco pussaivel – profiladas sin giavisch da las persunas pertutgadas.
 
 #### Art. 21
 
-**Restricziun dal dretg da disponer, obligaziun d'annunzia**
+**3. restricziun dal dretg da disponer, obligaziun d'annunzia**
 
 <sup>1</sup> A partir dal di da la publicaziun da l'exposiziun, e tar la procedura scursanida suenter la publicaziun en scrit, èn ils projects da construcziun entaifer il territori cumpiglià dal project suttamess ad ina permissiun dal departament. Quella vegn concedida, sch'il project da construcziun n'ha naginas consequenzas engrevgiantas per acquistar il terren u per realisar il project.
 
@@ -263,52 +274,56 @@ concluda:
 
 #### Art. 22
 
-**Legitimaziun da far protesta**
+**Protestas 1. legitimaziun da far protesta**
 
-<sup>1</sup> Tgi ch'è, ultra da la vischnanca, pertutgà dal project d'exposiziun e po far valair in interess degn da vegnir protegì, è legitimà da far protesta.
+<sup>1</sup> Il dretg da far protesta ha ultra da la vischnanca pertutgada, tgi ch'è tangà dal project d'exposiziun e po far valair in interess degn da vegnir protegì u tgi ch'è legitimà tenor il dretg federal da far protesta.
 
 #### Art. 23
 
-**Termin ed object da protesta**
+**2. termin e cuntegn da la protesta**
 
 <sup>1</sup> Las protestas ston vegnir inoltradas entaifer il termin d'exposiziun da 30 dis en scrit al departament, e quai cun ina curta motivaziun.
 
 <sup>2</sup> I pon vegnir fatgas valair:
 
-- a) resalvas cunter il project d'exposiziun sco er cunter in'eventuala expropriaziun e sia dimensiun;
+- a) resalvas cunter il project d'exposiziun e cunter las dumondas per ulteriuras permissiuns ch'èn colliadas cun quel sco er cunter in'expropriaziun previsa e cunter sia dimensiun;
 - b) dumondas d'indemnisaziun, cunzunt pretensiuns per ils dretgs che vegnan fatgs valair ed autras pretensiuns che resultan dal dretg chantunal d'expropriaziun.
 
 <sup>3</sup> Dretgs che n'èn betg enumerads en la tabella davart l'acquist dals dretgs e che vegnan pertutgads dal project pon vegnir annunziads fin la fin da las tractativas da reconciliaziun en la procedura per l'acquist da terren.
 
+<sup>4</sup> Tgi che na fa betg protesta, è exclus da l'ulteriura procedura.
+
 #### Art. 24
 
-**Tractament da las protestas ed approvaziun dal project**
+**3. tractament da las protestas ed approvaziun dal project**
 
-<sup>1</sup> La regenza decida davart las protestas cunter il project e davart l'approvaziun dal project d'exposiziun.
+<sup>1</sup> La regenza decida davart las protestas cunter il project e davart l'approvaziun dal project d'exposiziun en in conclus coordinà e conceda per regla il medem mument las ulteriuras permissiuns necessarias. Permissiuns e plans che sa basan sin dretg communal n'èn betg necessaris.
 
 <sup>2</sup> La regulaziun da las pretensiuns d'indemnisaziun succeda en la procedura per l'acquist da terren tenor las disposiziuns dal dretg chantunal d'expropriaziun.
+
+<sup>3</sup> L'approvaziun dal project scada, sche las lavurs da construcziun na cumenzan betg entaifer 10 onns suenter l'entrada en vigur.
 
 #### Art. 25
 
 **Midada dal project**
 
-<sup>1</sup> Sche la decisiun d'approvaziun da la regenza chaschuna ina cumplettaziun u ina midada fundamentala dal project d'exposiziun, sto vegnir fatga ina nova exposiziun per quest intent.
+<sup>1</sup> Sch'i resultan da las protestas e da las posiziuns adattaziuns minimalas dal project, po quel vegnir approvà cun cundiziuns. En cas da cumplettaziuns u d'adattaziuns pli essenzialas sto vegnir fatga ina nova exposiziun, nun che la procedura simplifitgada saja applitgabla.
 
-<sup>2</sup> Sche midadas essenzialas dal project daventan necessarias suenter la decisiun d'approvaziun, sto vegnir procedì en medema moda.
+<sup>2</sup> Sch'igl è necessari da far midadas essenzialas vi dal project suenter la decisiun d'approvaziun, sto la midada da project vegnir exponida publicamain, nun che la procedura simplifitgada saja applitgabla.
 
 #### Art. 26
 
 **Procedura simplifitgada**
 
-<sup>1</sup> Sche projects limitads localmain u sche midadas dal project limitadas localmain pertutgan paucas proprietarias e paucs proprietaris da bains immobigliars ch'ins po determinar cleramain, sche quels na tutgan nagins interess da terzas persunas ch'èn degns da vegnir protegids e sche quels n'han naginas consequenzas considerablas per il spazi u per l'ambient, poi vegnir desistì da l'exposiziun publica.
+<sup>1</sup> En cas da projects u da midadas da project che sa restrenschan ad in tschert territori po vegnir applitgada la procedura simplifitgada, sche paucas proprietarias e paucs proprietaris da bains immobigliars ch'èn cleramain determinabels èn pertutgads, sche nagins interess da terzas persunas degns da vegnir protegids n'èn tangads e sch'i na resultan naginas consequenzas considerablas per il territori e per l'ambient. En cas da dubi vegn fatga la procedura ordinaria.
 
-<sup>2</sup> En tals cas communitgescha l'uffizi da construcziun bassa il project u la midada da project a las proprietarias ed als proprietaris da bains immobigliars sco er a terzas persunas pertutgadas. Entaifer 30 dis pon quels prender invista dals documents dal project tar l'uffizi da construcziun bassa e far protesta.
+<sup>2</sup> En la procedura simplifitgada croda davent l'exposiziun publica. L'uffizi da construcziun bassa infurmescha la vischnanca, las proprietarias ed ils proprietaris da bains immobigliars pertutgads e terzas persunas pertutgadas davart il project u davart la midada da project. Sche quellas e quels na dattan betg il consentiment en scrit, survegnan ellas ed els in termin da protesta da 30 dis.
 
-<sup>3</sup> Il project u la midada da project sto vegnir communitgà a la vischnanca.
+<sup>3</sup> Ils documents dal project èn accessibels a las parts pertutgadas durant il termin da protesta. Las disposiziuns davart la procedura da protesta e davart l'effect da l'approvaziun dal project valan confurm al senn.
 
-<sup>4</sup> Per la procedura da protesta e per l'approvaziun dal project valan ils artitgels 22, 23, 24 e 27 confurm al senn.
+<sup>4</sup> Sch'in project exponì publicamain vegn midà en ina procedura simplifitgada avant la decisiun d'approvaziun, vegn quel preschentà a la regenza ensemen cun las midadas correspundentas per l'approvaziun.
 
-<sup>5</sup> L'approvaziun dal project scada, sche tut las proprietarias e sche tut ils proprietaris da bains immobigliars desistan da la protesta e decleran en scrit lur consentiment per il project respectivamain per la midada da project.
+<sup>5</sup> Sch'ils consentiments tenor l'alinea 2 èn avant maun per projects che sa restrenschan ad in tschert territori, croda davent l'approvaziun dal project tras la regenza.
 
 #### Art. 27
 
@@ -326,21 +341,19 @@ concluda:
 
 <sup>2</sup> Las aboliziuns da projects ston vegnir communitgadas publicamain.
 
-<sup>3</sup> Suenter ch'igl èn scadids 5 onns dapi l'approvaziun, il pli tard dentant 7 onns suenter la publicaziun dal project d'exposiziun, pon las proprietarias ed ils proprietaris da bains mobigliars pretender ch'il chantun acquistia il terren ed ulteriurs dretgs pertutgads, sch'il project na vegn betg abolì.
+<sup>3</sup> En la procedura simplifitgada croda davent l'exposiziun publica. L'uffizi da construcziun bassa infurmescha la vischnanca, las proprietarias ed ils proprietaris da bains immobigliars pertutgads e terzas persunas pertutgadas davart il project u davart la midada da project. Sche quellas e quels na dattan betg il consentiment en scrit, survegnan ellas ed els in termin da protesta da 30 dis.
 
 #### Art. 29
 
 **Acquist da terren, cumpensaziun reala**
 
-<sup>1</sup> Ils dretgs reals vi dals bains immobigliars, ils quals èn necessaris per construir, per mantegnair e per tegnair en funcziun las vias chantunalas, sco er ulteriurs dretgs, vegnan acquistads tenor las disposiziuns dal dretg chantunal d'expropriaziun e davart la planisaziun dal territori.
+<sup>1</sup> Ils dretgs reals vi dals bains immobigliars, ils quals èn necessaris per construir e per mantegnair las vias chantunalas, sco er ulteriurs dretgs vegnan acquistads tenor las disposiziuns dal dretg chantunal d'expropriaziun e davart la planisaziun dal territori.
 
 <sup>2</sup> Sche vias, sendas, entradas u access vegnan midads, spustads u abolids, procura il chantun – uschenavant che quai è pussaivel – per ina cumpensaziun reala adequata.
 
 #### Art. 30
 
-**Cumplettaziun anticipada**
-
-<sup>1</sup> Las vischnancas pon – cun il consentiment da la regenza – pajar anticipadamain e senza tschains ils custs per mesiras architectonicas vi da las vias chantunalas, sch'ellas cumprovan la necessitad dal project.
+**…**
 
 ## 4. Mantegniment
 
@@ -356,19 +369,17 @@ concluda:
 
 #### Art. 32
 
-**Delegaziun a las vischnancas**
+**Cumpetenza**
 
-<sup>1</sup> L'uffizi da construcziun bassa po delegar per part u dal tuttafatg il mantegniment da singuls trajects da la via chantunala a las vischnancas.
+<sup>1</sup> Il chantun è cumpetent per il mantegniment da las vias chantunalas.
 
-<sup>2</sup> Ils detagls, spezialmain il cuntegn e la dimensiun da las prestaziuns sco er l'indemnisaziun, ston vegnir reglads en moda contractuala.
+<sup>2</sup> L'uffizi da construcziun bassa po delegar per part u dal tuttafatg il mantegniment da singuls trajects da la via chantunala a las vischnancas.
+
+<sup>3</sup> Ils detagls, spezialmain il cuntegn e la dimensiun da las prestaziuns sco er l'indemnisaziun, ston vegnir reglads en moda contractuala.
 
 #### Art. 33
 
-**Traject entaifer il vitg**
-
-<sup>1</sup> Sco traject entaifer il vitg vala la part da la via chantunala entaifer las tavlas dal lieu.
-
-<sup>2</sup> Sche las tavlas dal lieu mancan, vala il cumenzament da l'abitadi lartg sco cunfin dal traject entaifer il vitg. Ils puncts da cumenzament e da finiziun dal traject entaifer il vitg vegnan fixads en quest cas dal departament.
+**…**
 
 #### Art. 34
 
@@ -378,7 +389,7 @@ concluda:
 
 <sup>2</sup> Il departament fixescha il mument che quests trajects vegnan serrads ed averts.
 
-<sup>3</sup> La regenza po permetter a terzas persunas da tegnair avert vias chantunalas, sche quellas garanteschan ch'il mantegniment e la funcziun sajan irreproschabels sco er che la segirezza dal traffic saja suffizienta.
+<sup>3</sup> La regenza po permetter a terzas persunas da tegnair avert vias chantunalas ch'èn serradas durant l'enviern, sche quellas garanteschan ch'il mantegniment saja tecnicamain e professiunalmain irreproschabel sco er che la segirezza dal traffic saja suffizienta.
 
 #### Art. 35
 
@@ -386,14 +397,19 @@ concluda:
 
 <sup>1</sup> Il chantun procura per la rumida da la naiv sin las vias chantunalas entaifer ed ordaifer il vitg.
 
-<sup>2</sup> Entaifer il vitg èn las vischnancas obligadas:
+<sup>2</sup> Il departament decida davart la moda da rumir la naiv sin las vias chantunalas. Per rumir la naiv entaifer il vitg ston vegnir consultadas las vischnancas pertutgadas.
+
+- a) …
+- b) …
+
+<sup>3</sup> Entaifer il vitg èn las vischnancas obligadas:
 
 - a) da procurar per il servetsch da sterner e d'allontanar il sternim da la via e sper la via;
-- b) d'allontanar e da dismetter la naiv ed il glatsch che pervegn da la rumida.
+- b) d'allontanar e da dismetter la naiv ed il glatsch che pervegnan da la rumida.
 
-<sup>3</sup> Cunter ina indemnisaziun po il chantun surpigliar per la vischnanca il servetsch da sterner sin ils trajects entaifer il vitg.
+<sup>4</sup> Cunter ina indemnisaziun po il chantun surpigliar per la vischnanca il servetsch da sterner sin ils trajects entaifer il vitg.
 
-<sup>4</sup> Igl è chaussa da las vischnancas da tegnair liber las entradas ed ils access publics per lung da las vias chantunalas entaifer ed ordaifer il vitg.
+<sup>5</sup> Igl è chaussa da las vischnancas da tegnair liber las entradas ed ils access publics per lung da las vias chantunalas entaifer ed ordaifer il vitg.
 
 #### Art. 36
 
@@ -405,27 +421,43 @@ concluda:
 
 #### Art. 37
 
-**Cumbat cunter donns**
+**Cumbat cunter donns e privels 1. cumbat cunter donns**
 
-<sup>1</sup> Per cumbatter fieus sco er per la dustanza d'ieli e da chemia sin las vias chantunalas pon vegnir creadas basas.
+<sup>1</sup> L'agid en cas da donns sin la rait da vias chantunalas sa drizza tenor las disposiziuns da la legislaziun davart la protecziun cunter incendis.
 
-<sup>2</sup> Ils custs da las mesiras per cumbatter ils donns pon vegnir adossads a las chaschunadras ed als chaschunaders.
+<sup>2</sup> Tgi che chaschuna ina intervenziun per cumbatter e per eliminar in donn, sto da princip surpigliar ils custs respectivs.
+
+#### Art. 37a
+
+**2. eveniments da la natira ed auters privels**
+
+<sup>1</sup> Per cumbatter cunter in donn smanatschant u creschent en connex cun eveniments da la natira u en cas d'auters effects nuschaivels u periclitants sin las vias chantunalas, è l'uffizi da construcziun bassa autorisà da metter pe sin la proprietad funsila da terzas persunas e d'eliminar immediatamain il privel.
+
+#### Art. 37b
+
+**3. pinar laina per segirezza e tgirar la bostgaglia**
+
+<sup>1</sup> Per lung da vias chantunalas è da princip l'uffizi da construcziun bassa responsabel per la tgira preventiva dal guaud per segirar las vias e per tegnair libra la vista. La tgira dal guaud da protecziun è exclusa da quai.
+
+<sup>2</sup> L'uffizi da construcziun bassa exequescha las mesiras da mantegniment necessarias e surpiglia ils custs correspundents. In eventual retgav da la vendita da laina tutga al chantun.
+
+<sup>3</sup> Sch'i ston vegnir pinads bostgs, ston vegnir infurmads – sche pussaivel ordavant – las proprietarias ed ils proprietaris dals bains immobigliars pertutgads.
 
 #### Art. 38
 
-**Signalisaziun e marcaziun**
+**Signalisaziun da las vias**
 
-<sup>1</sup> La signalisaziun e la marcaziun sin e per lung da las vias chantunalas èn chaussa dal chantun.
+<sup>1</sup> La signalisaziun da las vias cumpiglia ils signals e las marcaziuns sco meds tecnics per diriger il traffic.
 
-<sup>2</sup> Ils custs per plazzar e per mantegnair signalisaziuns e marcaziuns entaifer il vitg ston vegnir surpigliads dal chantun e da las vischnancas tenor lur interess. Ils custs per las tavlas dal lieu e per las tavlas dal stadi da las vias surpiglia il chantun sulet.
+<sup>2</sup> La realisaziun ed il mantegniment da la signalisaziun da las vias chantunalas, da las strivlas melnas e dals vials da velo èn chaussa dal chantun. L'emprima signalisaziun da zonas per quietar il traffic è chaussa da las vischnancas.
 
-<sup>3</sup> Ils custs d'energia per la signalisaziun entaifer il vitg vegnan surpigliads da las vischnancas.
+<sup>3</sup> La regenza regla la repartiziun dals custs tranter ils chantuns e las vischnancas a norma da lur interess.
 
 #### Art. 39
 
 **Illuminaziun**
 
-<sup>1</sup> Las vischnancas èn responsablas per installar e per mantegnair l'illuminaziun sin las vias chantunalas entaifer il vitg.
+<sup>1</sup> Las vischnancas èn responsablas per installar e per mantegnair l'illuminaziun sin las vias chantunalas entaifer il vitg. Il medem vala per l'illuminaziun da strivlas melnas entaifer ed ordaifer ils vitgs.
 
 <sup>2</sup> Sch'il chantun installescha illuminaziuns da las vias ordaifer ils vitgs, sto el er mantegnair quellas.
 
@@ -455,11 +487,13 @@ concluda:
 
 **Stabiliments da protecziun**
 
-<sup>1</sup> Il chantun è autorisà da construir, da mantegnair e da tegnair en funcziun edifizis e stabiliments ordaifer la zona da la via ch'èn necessaris per proteger la via chantunala ed il conturn.
+<sup>1</sup> Il chantun è autorisà da construir e da mantegnair edifizis e stabiliments ordaifer la zona da la via ch'èn necessaris per proteger la via chantunala ed il conturn.
 
 <sup>2</sup> En cas d'in privel direct per la via chantunala, per sias utilisadras, per ses utilisaders u per ses conturn, pon ils stabiliments ed edifizis necessaris vegnir installads senza l'exposiziun dal project.
 
 <sup>3</sup> Sch'i resultan avantatgs per terzas persunas tras stabiliments entaifer ed ordaifer la zona da la via, pon quellas vegnir obligadas da pajar contribuziuns als custs da construcziun e da mantegniment.
+
+<sup>4</sup> Entradas che vegnan realisadas cun ils stabiliments ston vegnir repartidas tenor la clav da repartiziun dals custs per las lavurs da mantegniment tenor l'alinea 3.
 
 ## 5. Via e territori cunfinant
 
@@ -479,47 +513,70 @@ concluda:
 
 <sup>2</sup> Per construir sviaments, vias d'access ed installaziuns da construcziun sco er per deposits da material e.u.v. dastgan vegnir utilisads temporarmain ils bains immobigliars da terzas persunas cunter ina indemnisaziun.
 
-<sup>3</sup> Per la projectaziun sco er per la construcziun e per il mantegniment da las vias chantunalas ston vegnir toleradas las acziuns preparatoricas necessarias sco inspecziuns, registraziuns dal territori, sondaziuns, stajaziuns e mesiraziuns per regla senza indemnisaziun.
+<sup>3</sup> Per la projectaziun e per la construcziun da las vias chantunalas ston vegnir toleradas las acziuns preparatoricas necessarias per regla senza indemnisaziun. Il medem vala per l'utilisaziun da bains immobigliars da terzas persunas en connex cun las lavurs da mantegniment.
 
 <sup>4</sup> Ils bains immobigliars cunfinants pon vegnir utilisads per ils indrizs necessaris per diriger e per segirar il traffic. Interess giustifitgads da persunas pertutgadas ston vegnir resguardads.
 
+<sup>5</sup> En cas da lavurs tenor ils alineas 2 fin 4 ston vegnir infurmads – sche pussaivel ordavant – las proprietarias ed ils proprietaris dals bains immobigliars pertutgads.
+
+#### Art. 44a
+
+**Edifizis e stabiliments en, sin e sur las vias chantunalas**
+
+<sup>1</sup> Midadas da la via chantunala u da sias cumponentas tras terzas persunas ston vegnir permessas da l'uffizi da construcziun bassa, en spezial la construcziun u l'adattaziun dals suandants edifizis e stabiliments:
+
+- a) punct central da traffic, inclusiv ils vials per midar direcziun;
+- b) stabiliments dal traffic betg motorisà;
+- c) mesiras architectonicas per quietar il traffic;
+- d) plazzas da parcadi e da fermada;
+- e) concepziun da surfatschas da vias;
+- f) conducts;
+- g) surpassadis e sutpassadis sco er inslas per las pedunas ed ils peduns;
+- h) vials da bus.
+
+<sup>2</sup> Ils custs per construir, per midar, per renovar e per mantegnair edifizis e stabiliments tenor l'alinea 1 sco er auters indrizs da cruschar ston da princip vegnir surpigliads da las chaschunadras e dals chaschunaders.
+
+<sup>3</sup> Las petentas ed ils petents pon vegnir obligads da duvrar conducts libers ed autras cumponentas da la via. Il diever sto vegnir indemnisà en moda adequata.
+
 #### Art. 45
 
-**Edifizis e stabiliments per lung da las vias chantunalas**
+**Edifizis, stabiliments ed emplantaziuns per lung da las vias chantunalas 1. princip**
 
-<sup>1</sup> Tar la construcziun sco er tar transfurmaziuns u midadas essenzialas da l'intent d'edifizis e da stabiliments per lung da las vias chantunalas ston vegnir resguardadas distanzas adequatas. La regenza regla ils detagls.
+<sup>1</sup> Tar la construcziun sco er tar transfurmaziuns u midadas essenzialas da l'intent d'edifizis e da stabiliments per lung da las vias chantunalas ston vegnir resguardadas distanzas adequatas. Il medem vala per emplantar bostgs e chaglias.
 
 <sup>2</sup> Sco edifizis e stabiliments valan spezialmain edifizis sur e sut terra, construcziuns moviblas, mirs, vias, passapes e vias da velo, conducts, plazzas da parcar, tancadis, surpassadis e sutpassadis, indrizs da traffic, indrizs da transport, plazzas da deposit e midadas considerablas dal terren.
 
 #### Art. 46
 
-**Adattaziun d'edifizis e da stabiliments existents**
+**2. adattaziun d'edifizis e da stabiliments existents**
 
 <sup>1</sup> Edifizis e stabiliments ch'èn vegnids construids legalmain e che na correspundan betg pli a las distanzas prescrittas dastgan vegnir mantegnids e renovads sco er transfurmads minimalmain u utilisads minimalmain per in auter intent.
 
-<sup>2</sup> Sche quests edifizis e quests stabiliments vegnan transfurmads essenzialmain u vegnan utilisads essenzialmain per in auter intent, ston els – inclusiv eventualas construcziuns annexas – vegnir spustads enavos sin la distanza prescritta.
+<sup>2</sup> Sche quests edifizis e quests stabiliments vegnan transfurmads essenzialmain u vegnan utilisads essenzialmain per in auter intent ubain sche lur substanza architectonica vegn remplazzada per gronda part en il rom d'ina renovaziun, ston els – inclusiv eventualas construcziuns annexas – vegnir spustads enavos sin la distanza prescritta.
 
 <sup>3</sup> Suenter ch'els èn vegnids disfatgs u demolids, na dastgan els betg pli vegnir reconstruids en il medem lieu.
 
 #### Art. 47
 
-**Permissiuns excepziunalas**
+**3. dretgs da construir pli damanaivel**
 
-<sup>1</sup> Il departament po permetter excepziuns areguard l'observaziun da las distanzas prescrittas. Excepziuns èn pussaivlas cunzunt en vitgs cun ina moda da construcziun serrada, per mantegnair parts dal vitg preziusas, en cas d'autras relaziuns spezialas u en cas gravants, premess che la segirezza dal traffic na vegnia betg restrenschida tras quai.
+<sup>1</sup> Il departament po permetter excepziuns areguard l'observaziun da las distanzas prescrittas. Dretgs da construir pli damanaivel èn pussaivels cunzunt en vitgs cun ina moda da construcziun serrada, per mantegnair parts dal vitg preziusas, en cas d'autras relaziuns spezialas u en cas gravants, premess che la segirezza dal traffic na vegnia betg restrenschida tras quai.
 
-<sup>2</sup> Permissiuns excepziunalas pon vegnir colliadas cun ina clausula da plivalur u cun ina clausula d'allontanaziun.
+<sup>2</sup> La permissiun d'in dretg da construir pli damanaivel po vegnir colliada cun ina clausula da plivalur u cun ina clausula d'allontanaziun.
 
 #### Art. 48
 
-**Pretensiuns architectonicas**
+**4. pretensiuns architectonicas**
 
 <sup>1</sup> Edifizis e stabiliments per lung da las vias chantunalas ston vegnir construids e mantegnids uschia, ch'els resistan a las immissiuns da la via sco er a la chargia tras il traffic e tras il mantegniment da la via.
 
-<sup>2</sup> Sch'igl è necessari per motivs da la segirezza dal traffic, po vegnir pretendì da las proprietarias e dals proprietaris dals bains immobigliars cunfinants che edifizis e stabiliments ch'èn vegnids construids respectivamain emplantaziuns ch'èn vegnidas plantadas tenor il dretg vegl, vegnian adattads u allontanads cunter ina indemnisaziun.
+<sup>2</sup> Sch'igl è necessari per motivs da la segirezza dal traffic, po vegnir pretendì da las proprietarias e dals proprietaris dals bains immobigliars cunfinants che edifizis, stabiliments ed emplantaziuns vegnian adattads u allontanads.
+
+<sup>3</sup> Sch'igl è vegnì approvà senza resalvas da construir edifizis e stabiliments sco er da far emplantaziuns u sche quai è vegnì fatg, cura ch'i na valevan anc naginas prescripziuns da distanza u cura ch'i valevan anc autras prescripziuns da distanza, sto l'adattaziun u l'allontanament pretendì vegnir indemnisà.
 
 #### Art. 49
 
-**Lavurs d'adattaziun**
+**5. lavurs d'adattaziun**
 
 <sup>1</sup> Sche vias chantunalas vegnan midadas architectonicamain, sto il chantun far las adattaziuns necessarias vi dals bains immobigliars cunfinants sin agen quint.
 
@@ -527,25 +584,25 @@ concluda:
 
 #### Art. 50
 
-**Scumond da restricziuns**
+**6. scumond da restricziuns**
 
-<sup>1</sup> Edifizis, stabiliments ed emplantaziuns per lung da las vias chantunalas ston vegnir mantegnids e cultivads uschia ch'els na chaschunan nagins dischavantatgs e privels per questas vias, per sias utilisadras e per ses utilisaders.
+<sup>1</sup> Edifizis, stabiliments ed emplantaziuns per lung da las vias chantunalas ston vegnir construids u plantads, mantegnids e cultivads uschia ch'els na chaschunan nagins dischavantatgs e privels per questas vias, per sias utilisadras e per ses utilisaders.
 
 <sup>2</sup> Tgi che chaschuna ina restricziun, sto prender las mesiras necessarias per metter en urden la chaussa.
 
 #### Art. 51
 
-**Access a la via chantunala**
+**Access a la via chantunala 1. princip**
 
 <sup>1</sup> In access a la via chantunala duai render accessibel in territori uschè grond sco pussaivel.
 
 <sup>2</sup> Sch'il stabiliment permetta, sto vegnir tolerada la cunutilisaziun da l'access tras terzas persunas cunter ina indemnisaziun adequata.
 
-<sup>3</sup> Sche la segirezza dal traffic pretenda quai, ston las proprietarias ed ils proprietaris da bains immobigliars prender sin agens custs mesiras areguard il lieu sco er areguard il tip ed areguard la concepziun da l'access.
+<sup>3</sup> Sche la segirezza dal traffic pretenda quai, ston las proprietarias ed ils proprietaris da bains immobigliars prender sin agens custs mesiras areguard il lieu da l'access sco er areguard il tip ed areguard la concepziun dal punct central da traffic.
 
 #### Art. 52
 
-**Permissiun d'access**
+**2. permissiun d'access**
 
 <sup>1</sup> La construcziun e la midada d'entradas e d'access a las vias chantunalas basegnan ultra da la permissiun da construcziun ina permissiun da l'uffizi da construcziun bassa.
 
@@ -557,13 +614,13 @@ concluda:
 
 #### Art. 53
 
-**Obligaziun d'adattaziun**
+**3. obligaziun d'adattaziun**
 
-<sup>1</sup> Sch'in access existent a la via chantunala survegn ina chargia supplementara considerabla tras edifizis novs u tras midadas da l'intent, po il chantun pretender da las proprietarias e dals proprietaris da bains immobigliars ch'els adattian l'access sin agens custs a las relaziuns midadas.
+<sup>1</sup> Sch'in access existent a la via chantunala survegn ina chargia supplementara considerabla tras edifizis novs u tras midadas da l'intent, po il chantun pretender da las proprietarias e dals proprietaris dals bains immobigliars ch'els adattian il punct central da traffic sin agens custs a las relaziuns midadas.
 
 #### Art. 54
 
-**Restricziun ed aboliziun**
+**4. restricziun ed aboliziun**
 
 <sup>1</sup> Il departament po restrenscher u abolir access a la via chantunala.
 
@@ -583,9 +640,9 @@ concluda:
 
 <sup>2</sup> Il cussegl grond concluda en atgna cumpetenza las expensas annualas en il rom dal quint da las vias.
 
-<sup>3</sup> Cun il preventiv fixescha el la contribuziun ordinaria or da meds publics generals per il quint da las vias. Questa contribuziun importa minimalmain 25 e maximalmain 75 pertschient da la taglia da traffic. En cas d'in quint economic positiv po il cussegl grond concluder contribuziuns supplementaras per reducir il debit da las vias.
+<sup>3</sup> Cun il preventiv fixescha el la contribuziun ordinaria or da meds publics generals per il quint da las vias. Questa contribuziun importa minimalmain 25 e maximalmain 75 pertschient da la taglia da traffic. En cas d'in quint economic positiv po il cussegl grond concluder contribuziuns supplementaras per reducir il debit da las vias. Sch'igl è avant maun ina facultad da las vias d'almain 50 milliuns francs, po il cussegl grond reducir la contribuziun minimala.
 
-<sup>4</sup> Il debit da las vias è limità a 250 milliuns francs.
+<sup>4</sup> Il debit da las vias è limità a 250 milliuns francs e la facultad da las vias è limitada a 100 milliuns francs.
 
 #### Art. 56
 
@@ -594,7 +651,7 @@ concluda:
 <sup>1</sup> Las expensas per il quint da las vias vegnan finanziadas spezialmain tras:
 
 - a) contribuziuns e parts cun in intent specific or da retgavs da la confederaziun, inclusiv l'entira part da la taxa sin il traffic pesant dependenta da la prestaziun (TTPDP);
-- b) la taglia da traffic sco er ulteriuras taxas suenter avair deducì las expensas per l'uffizi per il traffic sin via e las incumbensas da la polizia chantunala en connex cun il traffic;
+- b) taglias da traffic sco er ulteriuras taxas e multas disciplinaras suenter avair deducì las expensas per l'uffizi per il traffic sin via e per las incumbensas da la polizia chantunala en connex cun il traffic;
 - c) contribuziuns ordinarias ed extraordinarias or da meds publics generals.
 
 #### Art. 57
@@ -603,26 +660,36 @@ concluda:
 
 #### Art. 58
 
-**Contribuziuns chantunalas**
+**Contribuziuns chantunalas 1. princip**
 
 <sup>1</sup> Il chantun po pajar contribuziuns da 5 fin 50 pertschient als custs imputabels:
 
-- a) per construir e per signalisar stabiliments dal traffic betg motorisà (senza passapes), sch'els correspundan a las prescripziuns da la regenza;
+- a) per construir stabiliments dal traffic betg motorisà sco er per realisar e per mantegnair lur signalisaziun (senza passapes);
 - b) …
 - c) ad organisaziuns spezialisadas privatas per ademplir las incumbensas delegadas ad ellas en il sectur dal traffic betg motorisà;
 - d) per construir plazzas da fermada per il traffic public per lung da las vias chantunalas;
-- e) per construir conducts d'aua persa che servan er a la deflussiun da l'aua da las vias chantunalas;
-- f) per construir e per metter en funcziun dustanzas cunter torrents, drenaschas, emplantaziuns, rempars da lavinas ed auters stabiliments che servan er a l'existenza ed a la segirezza da las vias chantunalas;
-- g) per tegnair avert vias chantunalas durant l'enviern tras terzas persunas;
-- h) per basas per cumbatter fieus e per la dustanza d'ieli e da chemia sin vias chantunalas.
+- e) per construir e per renovar conducts d'aua persa che servan er a la deflussiun da l'aua da las vias chantunalas;
+- f) per construir, per midar sco er per mantegnair architectonicamain e funcziunalmain dustanzas cunter torrents, drenaschas, emplantaziuns, rempars da lavinas, collecturs da gera ed auters stabiliments che servan er a l'existenza ed a la segirezza da las vias chantunalas;
+- g) per tegnair avert vias chantunalas durant l'enviern tras terzas persunas.
+- h) …
 
 <sup>2</sup> La regenza fixescha l'autezza da las contribuziuns, resguardond ils interess dal chantun e da las vischnancas.
 
-<sup>3</sup> Sche l'interess dal chantun vi da la realisaziun dal stabiliment predominescha, po la regenza – en il cas singul – augmentar adequatamain las contribuziuns tenor l'alinea 1.
+<sup>3</sup> Sche l'interess dal chantun vi da la realisaziun dal stabiliment predominescha, po la regenza augmentar adequatamain las contribuziuns tenor l'alinea 1.
+
+<sup>4</sup> Sch'ils custs, per ils quals las contribuziuns vegnan pajadas, èn vegnids chaschunads pervia da negligientscha dal mantegniment, pon las contribuziuns tenor l'alinea 1 vegnir reducidas adequatamain.
 
 #### Art. 59
 
 **…**
+
+#### Art. 59a
+
+**2. contribuziuns a pumpiers da basa per l'agid stradal**
+
+<sup>1</sup> Per equipar e per scolar pumpiers da basa per l'agid stradal po il chantun pajar contribuziuns da maximalmain 80 pertschient dals custs imputabels.
+
+<sup>2</sup> Sche l'equipament e la scolaziun da pumpiers da basa servan exclusivamain a l'agid stradal sin vias chantunalas, pon las contribuziuns vegnir augmentadas fin a 100 pertschient dals custs imputabels.
 
 #### Art. 60
 
@@ -632,17 +699,31 @@ concluda:
 
 #### Art. 61
 
-**Taxas**
+**Taxas 1. permissiuns**
 
-<sup>1</sup> Il chantun incassescha taxas da 50 fin 25 000 francs per:
+<sup>1</sup> Il chantun incassescha taxas fin 25 000 francs per:
 
-- a) utilisaziuns da la via chantunala che surpassan il diever general;
+- a) utilisaziuns da las zonas da via e dals stabiliments accessorics da las vias naziunalas che surpassan il diever general;
 - b) permissiuns d'edifizis e da stabiliments entaifer la zona da la via sco er entaifer las zonas da projectaziun, las lingias da construcziun, ils territoris da project e las distanzas da la via;
 - c) permissiuns da vias e d'access;
 - d) permissiuns da reclamas per lung da las vias;
 - e) …
+- f) permissiuns da plantas en cas che las distanzas da las emplantaziuns vegnan sutpassadas.
 
 <sup>2</sup> Tar la calculaziun da las taxas ston vegnir resguardads l'avantatg economic ch'è collià cun la permissiun, la dimensiun, la durada e l'intensitad da l'utilisaziun, l'interess da la persuna che sto pajar las taxas e la restricziun da la via.
+
+#### Art. 61a
+
+**2. concessiuns**
+
+<sup>1</sup> Il chantun è autorisà d'incassar taxas per dar, per midar e per transferir concessiuns.
+
+<sup>2</sup> L'autezza da las taxas da concessiun sa drizza en spezial tenor:
+
+- a) la valur commerziala dal bain immobigliar;
+- b) la dimensiun da la surfatscha utilisada;
+- c) il gener da l'utilisaziun e l'avantatg che resulta da quella per la concessiunaria u il concessiunari;
+- d) la restricziun dal diever general ch'è colliada cun l'utilisaziun speziala.
 
 ## 7. Procedura e protecziun giuridica
 
