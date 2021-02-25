@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Übereinkommen von Minamata vom 10. Oktober 2013 über Quecksilber
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: de
-version: 2020-08-10
+version: 2021-02-26
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20200810/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20200810-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20200810/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20210226/de/xml/fedlex-data-admin-ch-eli-cc-2017-467-20210226-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20210226/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Mai 2016[^t-2]
 
 In Kraft getreten für die Schweiz am 16. August 2017
 
-(Stand am 10. August 2020)
+(Stand am 26. Februar 2021)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 18. Dez. 2015 ([AS 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)).
 [^t-2]: Berichtigung vom 5. Nov. 2019 ([AS 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -1071,7 +1071,7 @@ Bei Uneinigkeit darüber, ob die Vergleichskommission für die Prüfung einer ih
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu gleichen Teilen getragen, wenn sie nichts anderes vereinbaren. Die Kommission führt über alle ihre Kosten Buch und legt den Parteien eine Schlussabrechnung vor.
 
-Geltungsbereich am 10. August 2020**[^t-3]**
+Geltungsbereich am 26. Februar 2021**[^t-3]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1119,10 +1119,12 @@ Geltungsbereich am 10. August 2020**[^t-3]**
 <tr><td>Iran\*</td><td>16. Juni</td><td>2017</td><td>14. September</td><td>2017</td></tr>
 <tr><td>Irland</td><td>18. März</td><td>2019</td><td>16. Juni</td><td>2019</td></tr>
 <tr><td>Island</td><td>3. Mai</td><td>2018 B</td><td>1. August</td><td>2018</td></tr>
+<tr><td>Italien</td><td>5. Januar</td><td>2021</td><td>5. April</td><td>2021</td></tr>
 <tr><td>Jamaika<sup>\*</sup></td><td>19. Juli</td><td>2017</td><td>17. Oktober</td><td>2017</td></tr>
 <tr><td>Japan</td><td>2. Februar</td><td>2016</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Jordanien</td><td>12. November</td><td>2015</td><td>16. August</td><td>2017</td></tr>
 <tr><td>Kanada\*</td><td>7. April</td><td>2017</td><td>16. August</td><td>2017</td></tr>
+<tr><td>Katar</td><td>4. November</td><td>2020 B</td><td>2. Februar</td><td>2021</td></tr>
 <tr><td>Kiribati</td><td>28. Juli</td><td>2017 B</td><td>26. Oktober</td><td>2017</td></tr>
 <tr><td>Kolumbien</td><td>26. August</td><td>2019</td><td>24. November</td><td>2019</td></tr>
 <tr><td>Komoren</td><td>23. Juli</td><td>2019</td><td>21. Oktober</td><td>2019</td></tr>
@@ -1202,4 +1204,4 @@ Geltungsbereich am 10. August 2020**[^t-3]**
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland und die Färöer. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467)[5133](https://fedlex.data.admin.ch/eli/oc/2017/559), [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219)[3439](https://fedlex.data.admin.ch/eli/oc/2018/558), [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174)[2557](https://fedlex.data.admin.ch/eli/oc/2019/471), [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55)[1875](https://fedlex.data.admin.ch/eli/oc/2020/386)[3579](https://fedlex.data.admin.ch/eli/oc/2020/638). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

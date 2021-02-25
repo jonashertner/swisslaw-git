@@ -3,11 +3,11 @@ sr: "0.814.82"
 title: Convention de Minamata du 10 octobre 2013 sur le mercure
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/467"
 language: fr
-version: 2020-08-10
+version: 2021-02-26
 adopted: 2013-10-10
 in_force: 2017-08-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20200810/fr/xml/fedlex-data-admin-ch-eli-cc-2017-467-20200810-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20200810/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/467/20210226/fr/xml/fedlex-data-admin-ch-eli-cc-2017-467-20210226-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/467/20210226/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 25 mai 2016[^t-2]
 
 Entrée en vigueur pour la Suisse le 16 août 2017
 
-(Etat le 10 août 2020)
+(Etat le 26 février 2021)
 
 [^t-1]: [RO 2017 3915](https://fedlex.data.admin.ch/eli/oc/2017/466)
 [^t-2]: Erratum du 5 nov. 2019 ([RO 2019 3439](https://fedlex.data.admin.ch/eli/oc/2019/626)).
@@ -1068,7 +1068,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission de conciliation sont supportés par les parties au différend à parts égales, à moins qu’elles n’en conviennent autrement. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Champ d’application le 10 août 2020**[^t-3]**
+Champ d’application le 26 février 2021**[^t-3]**
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1129,6 +1129,7 @@ Champ d’application le 10 août 2020**[^t-3]**
 <tr><td>Iran\*</td><td>16 juin</td><td>2017</td><td>14 septembre</td><td>2017</td></tr>
 <tr><td>Irlande</td><td>18 mars</td><td>2019</td><td>16 juin</td><td>2019</td></tr>
 <tr><td>Islande</td><td>3 mai</td><td>2018 A</td><td>1<sup>er</sup> août</td><td>2018</td></tr>
+<tr><td>Italie</td><td>5 janvier</td><td>2021</td><td>5 avril</td><td>2021</td></tr>
 <tr><td>Jamaïque<sup>\*</sup></td><td>19 juillet</td><td>2017</td><td>17 octobre</td><td>2017</td></tr>
 <tr><td>Japon</td><td>2 février</td><td>2016</td><td>16 août</td><td>2017</td></tr>
 <tr><td>Jordanie</td><td>12 novembre</td><td>2015</td><td>16 août</td><td>2017</td></tr>
@@ -1166,6 +1167,7 @@ Champ d’application le 10 août 2020**[^t-3]**
 <tr><td>Pérou\*</td><td>21 janvier</td><td>2016</td><td>16 août</td><td>2017</td></tr>
 <tr><td>Philippines</td><td>8 juillet</td><td>2020</td><td>6 octobre</td><td>2020</td></tr>
 <tr><td>Portugal</td><td>28 août</td><td>2018 A</td><td>26 novembre</td><td>2018</td></tr>
+<tr><td>Qatar</td><td>4 novembre</td><td>2020 A</td><td>2 février</td><td>2021</td></tr>
 <tr><td>République dominicaine</td><td>20 mars</td><td>2018</td><td>18 juin</td><td>2018</td></tr>
 <tr><td>République tchèque\*</td><td>19 juin</td><td>2017</td><td>17 septembre</td><td>2017</td></tr>
 <tr><td>Roumanie</td><td>18 mai</td><td>2017</td><td>16 août</td><td>2017</td></tr>
@@ -1199,4 +1201,4 @@ Champ d’application le 10 août 2020**[^t-3]**
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas au Groenland et aux Îles Féroé. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467)[5133](https://fedlex.data.admin.ch/eli/oc/2017/559), [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219)[3439](https://fedlex.data.admin.ch/eli/oc/2018/558), [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174)[2557](https://fedlex.data.admin.ch/eli/oc/2019/471), [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55)[1875](https://fedlex.data.admin.ch/eli/oc/2020/386)[3579](https://fedlex.data.admin.ch/eli/oc/2020/638). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2017 3917](https://fedlex.data.admin.ch/eli/oc/2017/467), [5133](https://fedlex.data.admin.ch/eli/oc/2017/559); [2018 1353](https://fedlex.data.admin.ch/eli/oc/2018/219), [3439](https://fedlex.data.admin.ch/eli/oc/2018/558); [2019 967](https://fedlex.data.admin.ch/eli/oc/2019/174), [2557](https://fedlex.data.admin.ch/eli/oc/2019/471); [2020 347](https://fedlex.data.admin.ch/eli/oc/2020/55), [1875](https://fedlex.data.admin.ch/eli/oc/2020/386), [3579](https://fedlex.data.admin.ch/eli/oc/2020/638); [2021 130](https://fedlex.data.admin.ch/eli/oc/2021/130). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
