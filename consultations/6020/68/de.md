@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Bundesgesetzes gegen den unlauteren Wettbewerb (UWG)
 document: Vorlage
 language: de

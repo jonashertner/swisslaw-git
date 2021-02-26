@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale contre la concurrence déloyale (LCD)
 document: Projet
 language: fr

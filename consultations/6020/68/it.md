@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale contro la concorrenza sleale (LCSl)
 document: Avamprogetto
 language: it
