@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: "Ordonnance de l'OSAV instituant des mesures destinées à prévenir l'introduction de l'influenza aviaire présente dans certains États membres de l'Union européenne"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/973"
 language: fr
-version: 2021-02-17
+version: 2021-02-27
 adopted: 2020-12-15
 in_force: 2020-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210217/fr/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210217-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210217/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210227/fr/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210227-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210227/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance de l’OSAV instituant des mesures destinées à prévenir l’introduction de l’influenza aviaire présente dans certains États membres de l’Union européenne et en Irlande du Nord****
 
-du 15 décembre 2020 (Etat le 17 février 2021)[^t-1]
+du 15 décembre 2020 (Etat le 27 février 2021)[^t-1]
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 15 fév. 2021, en vigueur depuis le 17 fév. 2021 ([RO 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
@@ -85,8 +85,8 @@ Sont admises les importations d’œufs à couver si:
 - b.[^5-1] l’autorité compétente de l’État membre de l’Union européenne (UE) concerné ou l’autorité compétente d’Irlande du Nord a autorisé l’exportation selon les conditions prévues à l’art. 4 de la décision d’exécution (UE) 2020/1809[^5-2], et
 - c. le lot est accompagné d’un certificat sanitaire sur lequel doit figurer la mention suivante: «L’envoi satisfait aux conditions de police sanitaire fixées par la décision d’exécution (UE) 2020/1809 de la Commission».
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 15 fév. 2021, en vigueur depuis le 17 fév. 2021 ([RO 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
-[^5-2]: Décision d’exécution (UE) 2020/1809 de la Commission du 30 novembre 2020 concernant certaines mesures de protection motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 402 du 1.12.2020, p. 144, modifiée en dernier lieu par la décision d’exécution (UE) 2021/151, JO L 45 du 9.2.2021, p. 7.
+[^5-1]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 25 fév. 2021, en vigueur depuis le 27 fév. 2021 ([RO 2021 116](https://fedlex.data.admin.ch/eli/oc/2021/116)).
+[^5-2]: Décision d’exécution (UE) 2020/1809 de la Commission du 30 novembre 2020 concernant certaines mesures de protection motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 402 du 1.12.2020, p. 144, modifiée en dernier lieu par la décision d’exécution (UE) 2021/239, JO L 56I du 17.2.2021, p. 1
 
 #### Art. 6
 
@@ -108,7 +108,7 @@ Annexe 1*[^t-2]*
 
 ## États membres et zones concernés
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 15 fév. 2021, en vigueur depuis le 17 fév. 2021 ([RO 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
+[^t-2]: Nouvelle teneur selon le ch. II de l’O de l’OSAV du 25 fév. 2021, en vigueur depuis le 27 fév. 2021 ([RO 2021 116](https://fedlex.data.admin.ch/eli/oc/2021/116)).
 
 ### 1 Zones de protection et zones de surveillance dans les États membres de l’UE concernés et en Irlande du Nord
 
@@ -116,7 +116,7 @@ Les États membres de l’UE et d’autres zones concernés ainsi que les zones 
 
 <table>
 <tr><th>Acte législatif de l’UE</th><th>Titre et date de publication du texte législatif et de l’acte modificateur</th></tr>
-<tr><td>Décision d’exécution (UE) 2020/1809</td><td>Décision d’exécution (UE) 2020/1809 de la Commission du 30 novembre 2020 concernant certaines mesures de protection motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 402 du 1.12.2020, p. 144, modifiée en dernier lieu par la décision d’exécution (UE) 2021/151, JO L 45 du 9.2.2021, p. 7</td></tr>
+<tr><td>Décision d’exécution (UE) 2020/1809</td><td>Décision d’exécution (UE) 2020/1809 de la Commission du 30 novembre 2020 concernant certaines mesures de protection motivées par l’apparition de foyers d’influenza aviaire hautement pathogène dans certains États membres, JO L 402 du 1.12.2020, p. 144; modifiée en dernier lieu par la décision d’exécution (UE) 2021/239, JO L 56I du 17.2.2021, p. 1</td></tr>
 </table>
 
 Dans son annexe, la décision d’exécution énumère les zones de protection et les zones de surveillance comme suit:
@@ -134,7 +134,7 @@ Belgique
 
 Bulgarie
 
-Danemark
+Finlande
 
 France
 
