@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über die Plattform für die elektronische Kommunikation in der Justiz (BEKJ)
 document: Vorlage
 language: de

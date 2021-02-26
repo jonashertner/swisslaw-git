@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur la plateforme de communication électronique dans le domaine judiciaire (LPCJ)
 document: Projet
 language: fr

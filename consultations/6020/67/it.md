@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale concernente la piattaforma per la comunicazione elettronica nella giustizia (LPCEG)
 document: Avamprogetto
 language: it
