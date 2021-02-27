@@ -3,11 +3,11 @@ sr: "196.127.67"
 title: Verordnung vom 25. Mai 2016 über die Sperrung von Vermögenswerten im Zusammenhang mit der Ukraine (Ukraine-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/325"
 language: de
-version: 2021-01-01
+version: 2021-02-28
 adopted: 2016-05-25
 in_force: 2016-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/325/20210228/de/xml/fedlex-data-admin-ch-eli-cc-2016-325-20210228-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20210228/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/325/20210101/de"
 
 (Ukraine-Verordnung)
 
-vom 25. Mai 2016 (Stand am 1. Januar 2021)
+vom 25. Mai 2016 (Stand am 28. Februar 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -62,10 +62,13 @@ Wenn der Vollzug der Sperrung Massnahmen bedarf wie etwa einer entsprechenden An
 
 <sup>5</sup> Die Geltungsdauer dieser Verordnung wird bis zum 27. Februar 2021 verlängert.[^4-4]
 
+<sup>6</sup> Die Geltungsdauer dieser Verordnung wird bis zum 27. Februar 2022 verlängert.[^4-5]
+
 [^4-1]: Eingefügt durch Ziff. I der V vom 9. Dez. 2016, in Kraft seit 28. Febr. 2017 ([AS 2016 4823](https://fedlex.data.admin.ch/eli/oc/2016/771)).
 [^4-2]: Eingefügt durch Ziff. I der V vom 20. Dez. 2017, in Kraft seit 28. Febr. 2018 ([AS 2018 563](https://fedlex.data.admin.ch/eli/oc/2018/74)).
 [^4-3]: Eingefügt durch Ziff. I der V vom 19. Dez. 2018, in Kraft seit 28. Febr. 2019 ([AS 2019 13](https://fedlex.data.admin.ch/eli/oc/2019/3)).
 [^4-4]: Eingefügt durch Ziff. I der V vom 13. Dez. 2019, in Kraft seit 28. Febr. 2020 ([AS 2020 3](https://fedlex.data.admin.ch/eli/oc/2020/2)).
+[^4-5]: Eingefügt durch Ziff. I der V vom 11. Dez. 2020, in Kraft seit 28. Febr. 2021 ([AS 2021 19](https://fedlex.data.admin.ch/eli/oc/2021/19)).
 
 Anhang*[^t-1]*
 
