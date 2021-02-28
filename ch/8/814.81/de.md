@@ -4,11 +4,11 @@ title: "Verordnung vom 18. Mai 2005 zur Reduktion von Risiken beim Umgang mit be
 short: ChemRRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: de
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210101/de"
 
 (Chemikalien-Risikoreduktions-Verordnung, ChemRRV)
 
-vom 18. Mai 2005 (Stand am 1. Januar 2021)
+vom 18. Mai 2005 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1250,7 +1250,7 @@ Verboten ist:
 - b. einem Hinweis auf die Gefahren für Mensch und Umwelt und die Schutzmassnahmen in mindestens zwei Amtssprachen und nach folgendem Muster:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/image/image1.png)</td><td>Kopf</td><td colspan="2">H = mindestens 5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">B = mindestens 2,5 cm</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 Prozent von H</td><td></td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 Prozent von H</td><td></td></tr>
@@ -1750,7 +1750,7 @@ Anhang 1.10*[^t-11]*
 
 ## Krebserzeugende, erbgutverändernde und fortpflanzungsgefährdende Stoffe
 
-[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 1. Juli 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V des BAG vom 5. Febr. 2018 ([AS 2018 715](https://fedlex.data.admin.ch/eli/oc/2018/87)), vom 31. Okt. 2018 ([AS 2018 4069](https://fedlex.data.admin.ch/eli/oc/2018/659)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) und Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft vom 15. Dez. 2020 bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-11]: Fassung gemäss Ziff. II Abs. 2 der V vom 7. Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Bereinigt gemäss Ziff. I der V vom 25. Okt. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), Ziff. I der V vom 17. April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Anhang Ziff. 2 der V vom 18. Nov. 2020, in Kraft vom 15. Dez. 2020 bis zum 1. Juni 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) und Ziff. I der V des BAG vom 1. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Verbot
 
@@ -1760,8 +1760,8 @@ Anhang 1.10*[^t-11]*
 
 <sup>3</sup> Verboten ist die Verwendung von Thermopapier mit einem Massengehalt an Bisphenol A (CAS-Nr. 80-05-7) oder Bisphenol S (CAS-Nr. 80-09-1) von 0,02 Prozent oder mehr.
 
-[^annex110-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2018/675, ABl. L 114 vom 4.5.2018, S. 4.
-[^annex110-lvlu1-lvl1-2]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch Verordnung (EU) 2018/669, ABl. L 115 vom 4.5.2018, S. 1.
+[^annex110-lvlu1-lvl1-1]: Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates vom 18. Dezember 2006 zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH), zur Schaffung einer Europäischen Agentur für chemische Stoffe, zur Änderung der Richtlinie 1999/45/EG und zur Aufhebung der Verordnung (EWG) Nr. 793/93 des Rates, der Verordnung (EG) Nr. 1488/94 der Kommission, der Richtlinie 76/769/EWG des Rates sowie der Richtlinien 91/155/EWG, 93/67/EWG, 93/105/EG und 2000/21/EG der Kommission, ABl. L 396 vom 30.12.2006, S. 1; zuletzt geändert durch Verordnung (EU) 2020/2096, ABl. L 425 vom 16.12.2020, S. 3.
+[^annex110-lvlu1-lvl1-2]: Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006, ABl. L 353 vom 31.12.2008, S. 1; zuletzt geändert durch die delegierte Verordnung (EU) 2020/1182, ABl. L 261 vom 11.8.2020, S.2.
 
 ### 2 Ausnahmen
 
@@ -1792,11 +1792,14 @@ Anhang 1.10*[^t-11]*
 
 <sup>2</sup> Die Aufschrift muss in mindestens zwei Amtssprachen abgefasst, gut sichtbar, leserlich und unverwischbar sein.
 
-### 4 Übergangsbestimmung zur Änderung vom 31. Oktober 2018
+### 4 Übergangsbestimmung zur Änderung vom 1. Februar 2021
 
-Stoffe, die durch die Verordnung (EU) 2018/675[^annex110-lvlu1-lvl4-1] neu in Anhang XVII Anlagen 1–6 der EU-REACH-Verordnung aufgenommen worden sind, sowie Stoffe und Zubereitungen, die solche Stoffe enthalten, dürfen bis zum 31. Mai 2019 an die breite Öffentlichkeit abgegeben werden.
+Die folgenden Stoffe, die durch die Verordnung (EU) 2020/2096[^annex110-lvlu1-lvl4-1] neu in Anhang XVII Anlagen 1–6 der EU-REACH-Verordnung aufgenommen worden sind, sowie Stoffe und Zubereitungen, die solche Stoffe enthalten, dürfen noch bis zum folgenden Zeitpunkt an die breite Öffentlichkeit abgegeben werden:
 
-[^annex110-lvlu1-lvl4-1]: Verordnung (EU) 2018/675 der Kommission vom 2. Mai 2018 zur Änderung der Anlagen zu Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) betreffend CMR-Stoffe, Fassung gemäss ABl. L 114 vom 4.5.2018, S. 4.
+- a. bis zum 4. Juli 2021: die Stoffe Pyrocatechol (CAS 120-80-9), Acetaldehyd (CAS 75-07-0), Spirodiclofen (CAS 148477-71-8), 2-Benzyl-2-dimethylamino-4′- morpholinobutyrophenon (CAS 119313-12-1), Propiconazol (CAS 60207-90-1) und 1-Vinylimidazol (CAS 1072-63-5);
+- b. bis zum 30. September 2021: alle Stoffe, die nicht unter Buchstabe a fallen.
+
+[^annex110-lvlu1-lvl4-1]: Verordnung (EU) 2020/2096 der Kommission vom 15. Dezember 2020 zur Änderung von Anhang XVII der Verordnung (EG) Nr. 1907/2006 des Europäischen Parlaments und des Rates zur Registrierung, Bewertung, Zulassung und Beschränkung chemischer Stoffe (REACH) in Bezug auf krebserzeugende, erbgutverändernde oder fortpflanzungsgefährdende Stoffe, unter die Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates fallende Produkte, persistente organische Schadstoffe, bestimmte flüssige Stoffe oder Gemische, Nonylphenol und Prüfverfahren für Azofarbstoffe, Fassung gemäss ABl. L 425 vom 16.12.2020, S. 3.
 
 Anhang 1.11*[^t-12]*
 
@@ -3224,7 +3227,7 @@ Einer Bewilligung des BAFU bedarf, wer folgende Stoffe und Zubereitungen, die so
 <tr><td>Fentinacetat</td><td>900-95-8</td></tr>
 <tr><td>Fenvalerat</td><td>51630-58-1</td></tr>
 <tr><td>Flurenol</td><td>467-69-6</td></tr>
-<tr><td>Fluzilazol</td><td>85509-19-9</td></tr>
+<tr><td>Flusilazol</td><td>85509-19-9</td></tr>
 <tr><td>Furathiocarb</td><td>65907-30-4</td></tr>
 <tr><td>Guazatin</td><td>108173-90-6</td></tr>
 <tr><td>Hexaconazol</td><td>79983-71-4</td></tr>
@@ -3732,7 +3735,7 @@ Anhang 2.9*[^t-28]*
 
 <sup>2</sup> Zubereitungen und Gegenstände, die Recycling-PVC enthalten, müssen mit der Aufschrift «Enthält Recycling-PVC» oder mit folgendem Piktogramm versehen sein:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/de/xml/image/image2.png)
 
 <sup>3</sup> Zubereitungen, deren Massengehalt an Methylendiphenyl-Diisocyanat 0,1 Prozent oder mehr beträgt, und die für die Abgabe an die breite Öffentlichkeit bestimmt sind, müssen mit folgender Aufschrift versehen sein: «Bei Personen, die bereits für Diisocyanate sensibilisiert sind, kann der Umgang mit diesem Produkt allergische Reaktionen auslösen. – Bei Asthma, ekzematösen Hauterkrankungen oder Hautproblemen Kontakt, einschließlich Hautkontakt, mit dem Produkt vermeiden. – Das Produkt nicht bei ungenügender Lüftung verwenden oder Schutzmaske mit entsprechendem Gasfilter (Typ A1 nach EN 14387) tragen.»
 

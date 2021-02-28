@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210101/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° gennaio 2021)
+del 18 maggio 2005 (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1194,7 +1194,7 @@ Per i contenitori con sostanze stabili nell’aria elencate nell’allegato A de
 [^annex15-lvlu1-lvl10-1]: [RS 0.814.011](https://fedlex.data.admin.ch/eli/cc/2004/802)
 [^annex15-lvlu1-lvl10-2]: [RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)
 
-Allegato 1.6[^t-7]
+Allegato 1.6*[^t-7]*
 
 (art. 3)
 
@@ -1251,7 +1251,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, redatta in almeno due lingue ufficiali e conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -1709,7 +1709,7 @@ I prodotti tessili che contengono sostanze secondo il numero 1.1 e che sono dest
 
 <sup>3</sup> L’allegato 2.18 si applica alle apparecchiature elettriche ed elettroniche contenenti DecaBDE.
 
-### 3**** ...
+### 3 ...
 
 [^annex19-lvlu1-lvl3-1]
 
@@ -1752,7 +1752,7 @@ Allegato 1.10*[^t-11]*
 
 ## Sostanze cancerogene, mutagene o pericolose per la riproduzione
 
-[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dal n. I dell’O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 715](https://fedlex.data.admin.ch/eli/oc/2018/87)), del 31 ott. 2018 ([RU 2018 4069](https://fedlex.data.admin.ch/eli/oc/2018/659)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O del 18 nov. 2020, in vigore dal 15 dic. 2020 al 1° giu. 2025 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-11]: Nuovo testo giusta il n. II cpv. 2 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Aggiornato dal n. I delle O del 25 ott. 2017 ([RU 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), dall’all. n. 2 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) e dal n. I dell’O dell’UFSP del 1° feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Divieto
 
@@ -1762,8 +1762,8 @@ Allegato 1.10*[^t-11]*
 
 <sup>3</sup> È vietato l’impiego di carta termica con un contenuto in massa di bisfenolo A (n. CAS 80-05-7) o bisfenolo S (n. CAS 80-09-1) dello 0,02 per cento o superiore.
 
-[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dic. 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato l’ultima volta dal regolamento (UE) 2018/675, GU L 114 del 4.5.2018, pag. 4.
-[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento (UE) 2018/669, GU L 115 del 4.5.2018, pag. 1.
+[^annex110-lvlu1-lvl1-1]: Regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un’Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonché la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE, GU L 396 del 30.12.2006, pag. 1; modificato da ultimo dal regolamento (UE) 2020/2096, GU L 425 del 16.12.2020, pag. 3.
+[^annex110-lvlu1-lvl1-2]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1182, GU L 261 dell’11.8.2020 pag. 2.
 
 ### 2 Deroghe
 
@@ -1794,11 +1794,14 @@ Allegato 1.10*[^t-11]*
 
 <sup>2</sup> L’etichetta deve essere scritta in almeno due lingue ufficiali, in modo visibile, leggibile e indelebile.
 
-### 4 Disposizione transitoria della modifica del 31 ottobre 2018
+### 4 Disposizione transitoria della modifica del 1° febbraio 2021
 
-Le sostanze che in virtù del regolamento (UE) 2018/675[^annex110-lvlu1-lvl4-1] sono ora elencate nell’allegato XVII appendici 1–6 del regolamento EU-REACH nonché le sostanze e i preparati che contengono sostanze di questo tipo possono essere forniti al grande pubblico fino al 31 maggio 2019.
+Le seguenti sostanze che in virtù del regolamento (UE) 2020/2096[^annex110-lvlu1-lvl4-1] sono ora elencate nell’allegato XVII appendici 1–6 del regolamento EU-REACH nonché le sostanze e i preparati che contengono sostanze di questo tipo possono essere forniti al grande pubblico fino alle seguenti date:
 
-[^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2018/675 della Commissione, del 2 maggio 2018, recante modifica delle appendici dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda le sostanze CMR, versione della GU L 114 del 4.5.2018, pag. 4.
+- a. fino al 4 luglio 2021: le sostanze pirocatecolo (CAS 120-80-9), acetaldeide (CAS 75-07-0), spirodiclofen (CAS 148477-71-8), 2-benzil-2-dimetilammino-4′-morfolinobutirofenone (CAS 119313-12-1), propiconazolo (CAS 60207-90-1) e 1-vinilimidazolo (CAS 1072-63-5);
+- b. fino al 30 settembre 2021: tutte le sostanze non contemplate dalla lettera a.
+
+[^annex110-lvlu1-lvl4-1]: Regolamento (UE) 2020/2096 della Commissione, del 15 dicembre 2020, recante modifica dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), per quanto riguarda le sostanze cancerogene, mutagene o tossiche per la riproduzione (CMR), i dispositivi disciplinati dal regolamento (UE) 2017/745 del Parlamento europeo e del Consiglio, gli inquinanti organici persistenti, determinate sostanze o miscele liquide, il nonilfenolo e i metodi di prova per i coloranti azoici, versione della GU L 425 del 16.12.2020, pag. 3.
 
 Allegato 1.11*[^t-12]*
 
@@ -1879,7 +1882,7 @@ Allegato 1.12*[^t-13]*
 
 [^annex112-lvlu1-lvl1-lvl12-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
 
-### 2**** Toluene
+### 2 Toluene
 
 [^annex112-lvlu1-lvl2-1]
 
@@ -1954,7 +1957,7 @@ Allegato 1.14*[^t-15]*
   - 1\. stampi a una e due componenti vulcanizzati a temperatura ambiente (stampi RTV-2),
   - 2\. rivestimenti per pareti e pavimenti.
 
-### 1.3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso
+### 1.3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso
 
 [^annex114-lvlu1-lvl1-lvl13-1]
 
@@ -2118,7 +2121,7 @@ Sono considerati acido perfluorottano sulfonato e suoi derivati (PFOS) le sostan
 
 ### 2 ...
 
-### 3**** Fluoroalchilsilanoli e loro derivati
+### 3 Fluoroalchilsilanoli e loro derivati
 
 [^annex116-lvlu1-lvl3-1]
 
@@ -2146,7 +2149,7 @@ Allegato 1.17*[^t-18]*
 
 (art. 3)
 
-## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006****
+## Sostanze di cui all’allegato XIV del regolamento (CE) n. 1907/2006
 
 [^annex117-lvlu1-1]
 
@@ -2271,9 +2274,6 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>35.</td><td>Acido 1,2- benzenedicarbossilico, esteri alchilici di-C7- 11-ramificati e lineari n. CE 271-084-6 n. CAS 68515-42-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>36.</td><td>Acido 1,2- benzendicarbossilico, dipentilestere, ramificato e lineare n. CE 284-032-2 n. CAS 84777-06-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>37.</td><td>Ftalato di bis(2-metossietile) n. CE 204-212-6 n. CAS 117-82-8</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
-</table>
-
-<table>
 <tr><th>N. di registrazione</th><th>Sostanza</th><th>Proprietà intrinseche alla base dei divieti</th><th>Periodo di transizione</th><th>Impieghi o categorie di impiego esentati</th><th>Periodi di revisione</th></tr>
 <tr><td>38.</td><td>Dipentilftalato n. CE 205-017-9 n. CAS 131-18-0</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
 <tr><td>39.</td><td>N-pentilisopentilftalato n. CE — n. CAS 776297-69-9</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 novembre 2023</td><td>–</td><td>–</td></tr>
@@ -2288,9 +2288,6 @@ L’immissione sul mercato per l’impiego delle sostanze elencate al numero 5 e
 <tr><td>48.</td><td>Perborato di sodio; acido perborico, sale di sodio n. CE 239-172-9; 234-390-0 n. CAS —</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>49.</td><td>Perossometaborato di sodio n. CE 231-556-4 n. CAS 7632-04-4</td><td>Tossico per la riproduzione (categoria 1B)</td><td>2 febbraio 2024</td><td>–</td><td>–</td></tr>
 <tr><td>50.</td><td>5-sec-butil-2-(2,4-dimetilcicloes-3-en-1-il)-5- metil-1,3-diossano [1], 5-sec-butil-2-(4,6-dimetilcicloes-3-en-1-il)-5-metil-1,3-diossano [2] (comprendenti qualsiasi singolo stereoisomero di [1] e [2] o qualsiasi combinazione degli stessi) n. CE — n. CAS —</td><td>vPvB</td><td>2 maggio 2024</td><td>–</td><td>–</td></tr>
-</table>
-
-<table>
 <tr><td>N. di registrazione</td><td>Sostanza</td><td>Proprietà intrinseche alla base dei divieti</td><td>Periodo di transizione</td><td>Impieghi o categorie di impiego esentati</td><td>Periodi di revisione</td></tr>
 <tr><td>51.</td><td>2-(2H-benzotriazol-2-il)-4,6-diterzpentilfenolo (UV-328) n. CE 247-384-8 n. CAS 25973-55-1</td><td>PBT, vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
 <tr><td>52.</td><td>2,4-di-terz-butil-6- (5-clorobenzotriazol-2-il) fenolo (UV-327) n. CE 223-383-8 n. CAS 3864-99-1</td><td>vPvB</td><td>2 agosto 2024</td><td>–</td><td>–</td></tr>
@@ -2360,7 +2357,7 @@ Allegato 1.18*[^t-19]*
 
 <sup>2</sup> Per l’immissione sul mercato di apparecchiature elettriche ed elettroniche contenenti ftalati si applica l’allegato 2.18.
 
-### 3 Relazione con l’ordinanza del 16 dicembre 2016**** sulle derrate alimentari e gli oggetti d’uso (ODerr)
+### 3 Relazione con l’ordinanza del 16 dicembre 2016 sulle derrate alimentari e gli oggetti d’uso (ODerr)
 
 [^annex118-lvlu1-lvl3-1]
 
@@ -3737,7 +3734,7 @@ Allegato 2.9*[^t-28]*
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 

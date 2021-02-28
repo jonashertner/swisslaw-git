@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Reduction of Risks relating to the Use o
 short: ORRChem
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: en
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2005-478-20210301-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20210301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Chemical Risk Reduction Ordinance, ORRChem)
 
-of 18 May 2005 (Status as of 1 January 2021)
+of 18 May 2005 (Status as of 1 March 2021)
 
 The Swiss Federal Council,
 
@@ -1253,7 +1253,7 @@ It is prohibited:
 - b. a warning about the dangers of asbestos to human health and the environment and reference to protective measures; it must appear in at least two official languages and comply with the following specifications:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/image/image1.png)</td><td>Head</td><td colspan="2">H = at least 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = at least 2.5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40% of H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60% of H</td></tr>
@@ -1749,7 +1749,7 @@ Annex 1.10*[^t-11]*
 
 ## Substances classified as carcinogenic, mutagenic or toxic to reproduction
 
-[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No II para. 2 of the O of 1 July 2015 ([AS 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the FOPH Ordinance of 5 Feb. 2018 ([AS 2018 715](https://fedlex.data.admin.ch/eli/oc/2018/87)), of 31 Oct 2018 ([AS 2018 4069](https://fedlex.data.admin.ch/eli/oc/2018/659)) and No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) and Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^t-11]: Amended by No II para. 2 of the O of 7 Nov. 2012 ([AS 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)). Revised by No I of the O of 25 Oct. 2017 ([AS 2017 5963](https://fedlex.data.admin.ch/eli/oc/2017/653)), No I of the O of 17 April 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)), Annex No 2 of the O of 18 Nov. 2020, in force from 15 Dec. 2020 until 1 June 2025 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)) and by No I of the O of FOPH of 1 Feb. 2021, in force from 1 March 2021 ([AS 2021 70](https://fedlex.data.admin.ch/eli/oc/2021/70)).
 
 ### 1 Prohibition
 
@@ -1759,7 +1759,7 @@ Annex 1.10*[^t-11]*
 
 <sup>3</sup> The use of thermal paper with a content by mass of bisphenol A (CAS No 80-05-7) or bisphenol S (CAS No 80-09-1) of 0.02 per cent or more.
 
-[^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2018/675, OJ L 114 of 4.5.2018, p. 4.
+[^annex110-lvlu1-lvl1-1]: Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC, OJ L 396, 30.12.2006, p. 1; last amended by Regulation (EU) 2020/2096, OJ L 125 of 16.12.2020, p. 3.
 [^annex110-lvlu1-lvl1-2]: Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC and amending Regulation (EC) No 1907/2006, OJ L 353, 31.12.2008, p. 1; last amended by Regulation (EU) 2018/669, OJ L 115 of 4.5.2018, p. 1.
 
 ### 2 Exemptions
@@ -1791,11 +1791,14 @@ Annex 1.10*[^t-11]*
 
 <sup>2</sup> This marking must appear in at least two official languages, be clearly legible and indelible.
 
-### 4 Transitional Provision to the Amendment of 31 October 2018
+### 4 Transitional Provision to the Amendment of 1 February 2021
 
-Substances included by Regulation (EU) 2018/675[^annex110-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may not be supplied to the general public before 31 May 2019.
+The following substances included by Regulation (EU) 2020/2096[^annex110-lvlu1-lvl4-1] in Annex XVII Appendices 1–6 of the EU REACH Regulation, and substances and preparations that contain such substances may continue to be supplied to the general public until the following dates:
 
-[^annex110-lvlu1-lvl4-1]: Commission Regulation (EU) 2018/675 of 2 May 2018 amending the Appendices to Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards CMR substances, amended by OJ L 114 of 4.5.2018, p. 4.
+- a. until 4 July 2021: pyrocatechol (CAS 120-80-9), acetaldehyde (CAS 75-07-0), spirodiclofen (CAS 148477-71-8), 2-benzyl-2-dimethylamino-4′- morpholinobutyrophenone (CAS 119313-12-1), propiconazole (CAS 60207-90-1) and 1-vinylimidazole (CAS 1072-63-5);
+- b. until 30 September 2021: all substances that do not fall under letter a.
+
+[^annex110-lvlu1-lvl4-1]: Commission Regulation (EU) 2020/2096 of 15 December 2020 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), as regards carcinogenic, mutagenic or reproductive toxicant (CMR) substances, devices covered by Regulation (EU) 2017/745 of the European Parliament and of the Council, persistent organic pollutants, certain liquid substances or mixtures, nonylphenol and testing methods for azocolourants, last amended by OJ L 425 of 16.12.2020, p. 3.
 
 Annex 1.11*[^t-12]*
 
@@ -3733,7 +3736,7 @@ Annex 2.9*[^t-28]*
 
 <sup>2</sup> Preparations and articles containing recovered PVC must be marked with the text «Contains recovered PVC» or with the following pictogram:
 
-<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210101/en/xml/image/image2.png)</sup>
+<sup>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20210301/en/xml/image/image2.png)</sup>
 
 <sup>3</sup> Preparations containing methylenediphenyl diisocyanate in a concentration of 0.1% or more by mass and intended for supply to the general public must be marked as follows: «Persons already sensitised to diisocyanates may develop allergic reactions when using this product. – Persons suffering from asthma, eczema or skin problems should avoid contact, including dermal contact, with this product. – This product should not be used under conditions of poor ventilation unless a protective mask with an appropriate gas filter (i.e. type A1 according to standard EN 14387) is used.»
 
