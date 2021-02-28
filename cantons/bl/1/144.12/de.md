@@ -3,20 +3,20 @@ canton: BL
 number: "144.12"
 title: Dienstordnung der Bau- und Umweltschutzdirektion
 language: de
-version: 2020-04-01
-valid_until: 2021-02-28
-version_adopted: 2020-02-18
+version: 2021-03-01
+valid_until: 2022-03-31
+version_adopted: 2021-01-19
 adopted: 2018-10-23
 in_force: 2019-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/144.12"
-pdf: "https://bl.clex.ch/api/de/versions/2590/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2887/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Bau- und Umweltschutzdirektion
 
-Vom 23.10.2018 (Stand 01.04.2020)
+Vom 23.10.2018 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -134,19 +134,33 @@ beschliesst:
 
 **Leitung und Organisation**
 
-<sup>1</sup> Die Generalsekretärin oder der Generalsekretär führt das Generalsekretariat.
+<sup>1</sup> Der Generalsekretärin oder dem Generalsekretär obliegt:
+
+- a. die Gesamtverantwortung für die Führung des Generalsekretariats;
+- b. die Leitung der funktionalen Einheit Strategie.
+
+<sup>1<sup>bis</sup></sup> Der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär obliegt die Leitung der funktionalen Einheit Prozesse.
 
 <sup>2</sup> Das Generalsekretariat gliedert sich in folgende funktionale Einheiten:
 
-- a. Abteilung Kommunikation;
-- b. Abteilung Recht;
-- c. Abteilung Wirtschaft und Finanzen;
-- d. Abteilung Personal;
-- e. Abteilung Informatik;
+- a. Strategie, bestehend aus folgenden Abteilungen:
+  - 1\. Abteilung Recht;
+  - 2\. Abteilung Wirtschaft und Finanzen;
+  - 3\. Abteilung Zentrale Beschaffungsstelle;
+  - 4\. administrativ zugeordnetes Aktuariat der Baurekurskommission;
+- b. Prozesse, bestehend aus folgenden Abteilungen:
+  - 1\. Abteilung Kommunikation;
+  - 2\. Abteilung Personal;
+  - 3\. Abteilung Informatik;
+  - 4\. Abteilung Rechnungswesen;
+  - 5\. Abteilung Zentrale Dienste.
+- c. …
+- d. …
+- e. …
 - f. …
-- g. Zentrale Beschaffungsstelle;
-- h. Sekretariat der Direktionsvorsteherin oder des Direktionsvorstehers;
-- i. administrativ zugeordnetes Aktuariat der Baurekurskommission.
+- g. …
+- h. …
+- i. …
 
 #### § 11
 
@@ -172,7 +186,7 @@ beschliesst:
 
 **Fachführung**
 
-<sup>1</sup> In den Fachbereichen Kommunikation, Recht, Wirtschaft und Finanzen, Personal, Informatik, öffentlicher Verkehr (vorbehältlich baulicher Aspekte) sowie Beschaffungswesen obliegt die Fachführung für die ganze Direktion dem Generalsekretariat.
+<sup>1</sup> In den Fachbereichen Kommunikation, Recht, Wirtschaft und Finanzen, Rechnungswesen, Personal, Informatik sowie Beschaffungswesen obliegt die Fachführung für die ganze Direktion den entsprechenden Abteilungen des Generalsekretariats.
 
 <sup>2</sup> Die in Abs. 1 aufgeführten Stellen sind berechtigt, in den genannten Fachbereichen den anderen Dienststellen Anweisungen zu erteilen und Fachaufsicht auszuüben.
 
@@ -180,8 +194,9 @@ beschliesst:
 
 - a. Medienmitteilungen und Medienveranstaltungen von Dienststellen sowie weiteres, für eine breitere Öffentlichkeit bestimmtes Informationsmaterial (Broschüren usw.) mit der Abteilung Kommunikation vorgängig koordiniert und abgesprochen werden; Medienkontakte sind der Abteilung Kommunikation unverzüglich zu melden;
 - b. direktionsexterne Juristinnen oder Juristen nur mit vorgängiger Zustimmung der Abteilung Recht konsultiert werden dürfen;
-- c. der gesamte Vollzug der Finanzhaushaltsgesetzgebung ausschliesslich mit vorgängiger Zustimmung der Abteilung Wirtschaft und Finanzen abzuwickeln ist und diese das Rechnungswesen mit Kreditoren-, Debitorenrechnung und Anlagebuchhaltung der gesamten Direktion führt sowie Weisungen betreffend Controlling und Reporting erteilen kann;
-- d. für die gesamte Direktion sämtliche Neu- und Wiederbesetzungen, die Stellenausschreibungen sowie die Anstellungen von Mitarbeiterinnen und Mitarbeitern, die Funktionsänderungen, die Personalentscheide, die Personalentwicklung, die Berufsbildung und die Personalplanung über die Abteilung Personal der Direktion zu koordinieren und abzuwickeln sind. Bei Arbeitsverträgen, die nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher mitunterzeichnet werden, erfolgt die Zweitunterschrift durch die Abteilung Personal; die Dienststellen unterbreiten über ihre Bereichsleitung Anträge auf Leistungsprämien und Stufenanstiege der Generalsekretärin oder dem Generalsekretär zum Entscheid;
+- c. der gesamte Vollzug der Finanzhaushaltsgesetzgebung ausschliesslich mit vorgängiger Zustimmung der Abteilung Wirtschaft und Finanzen abzuwickeln ist und diese Weisungen betreffend finanzieller Steuerung und Reporting der Direktion erteilen kann;
+- c<sup>bis</sup>. das Rechnungswesen mit Hauptbuch, Kreditoren-, Debitorenrechnung und Anlagebuchhaltung der gesamten Direktion durch die Abteilung Rechnungswesen geführt wird;
+- d. für die gesamte Direktion sämtliche Neu- und Wiederbesetzungen, die Stellenausschreibungen sowie die Anstellungen von Mitarbeiterinnen und Mitarbeitern, die Funktionsänderungen, die Personalentscheide, die Personalentwicklung, die Berufsbildung und die Personalplanung über die Abteilung Personal der Direktion zu koordinieren und abzuwickeln sind. Bei Arbeitsverträgen, die nicht von der Direktionsvorsteherin oder vom Direktionsvorsteher mitunterzeichnet werden, erfolgt die Zweitunterschrift durch die Abteilung Personal; die Dienststellen unterbreiten über ihre Bereichsleitung Anträge auf Leistungsprämien und Stufenanstiege der stellvertretenden Generalsekretärin oder dem stellvertretenden Generalsekretär zum Entscheid;
 - e. der Einkauf, die Lagerung und Wartung sowie die Installation von EDV-Material sowohl im Hardware- wie im Softwarebereich der vorgängigen Zustimmung der Informatikabteilung bedarf, die auch rechtzeitig in alle Projekte mit EDV-relevanten Aspekten miteinzubeziehen ist und bei Bedarf die Evaluation von Informatikmitteln koordiniert. Ausnahmen werden von der Direktion gewährt;
 - f. die zentrale Beschaffung der notwendigen Infrastruktur und die Festlegung der Schnittstellen und Verantwortlichkeiten in der Zusammenarbeit und Umsetzung von Beschaffungsverfahren mit den ausschreibenden Stellen und den Beauftragten durch die Zentrale Beschaffungsstelle erfolgt.
 
