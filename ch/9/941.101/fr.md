@@ -3,11 +3,11 @@ sr: "941.101"
 title: Ordonnance du 12 avril 2000 sur la monnaie (O sur la monnaie)
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/194"
 language: fr
-version: 2019-01-01
+version: 2021-03-01
 adopted: 2000-04-12
 in_force: 2000-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-194-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2000-194-20210301-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,16 +16,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/fr"
 
 (O sur la monnaie)
 
-du 12 avril 2000 (Etat le 1<sup>er</sup> janvier 2019)
+du 12 avril 2000 (État le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
-vu les art. 1, 4, 5 et 6 de la loi fédérale du 22 décembre 1999 sur l’unité monétaire et les moyens de paiement[^ingress-1], vu l’art. 4 de la loi fédérale du 4 octobre 1974 instituant des mesures destinées à améliorer les finances fédérales[^ingress-2],
+vu les art. 4, 5 et 6 de la loi fédérale du 22 décembre 1999 sur l’unité monétaire et les moyens de paiement[^ingress-1],[^ingress-2]
 
 arrête:
 
-[^ingress-1]: [RS 941.10](https://fedlex.data.admin.ch/eli/cc/2000/186)
-[^ingress-2]: [RS 611.010](https://fedlex.data.admin.ch/eli/cc/1975/65_65_65)
+[^ingress-1]: [RS 941.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11140)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du 18 décembre 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 1
 
@@ -46,7 +46,7 @@ Les dénominations officielles de l’unité monétaire suisse et leurs abrévia
 <sup>1</sup> Les monnaies courantes ont les valeurs nominales et les caractéristiques suivantes:
 
 <table>
-<tr><td>Valeur nominale</td><td>Diamètre (millimètres)</td><td>Poids (grammes)</td><td>Tranche (marque distinctive)</td><td>Alliage</td></tr>
+<tr><th>Valeur nominale</th><th>Diamètre (millimètres)</th><th>Poids (grammes)</th><th>Tranche (marque distinctive)</th><th>Alliage</th></tr>
 <tr><td>5 fr.</td><td>31</td><td>13,2</td><td>Inscription en relief</td><td>Cupronickel</td></tr>
 <tr><td>2 fr.</td><td>27</td><td>8,8</td><td>Cannelures</td><td>Cupronickel</td></tr>
 <tr><td>1 fr.</td><td>23</td><td>4,4</td><td>Cannelures</td><td>Cupronickel</td></tr>
@@ -58,8 +58,8 @@ Les dénominations officielles de l’unité monétaire suisse et leurs abrévia
 
 <sup>2</sup> Le Département fédéral des finances (DFF) fixe la composition exacte des alliages des monnaies ainsi que les tolérances applicables aux alliages et aux dimensions des monnaies.[^2-2]
 
-[^2-1]: Nouvelle teneur selon l’art. 2 de l’O du 12 avril 2006 sur la mise hors cours des pièces d’un centime, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 1799](https://fedlex.data.admin.ch/eli/oc/2006/283)).
-[^2-2]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3149](https://fedlex.data.admin.ch/eli/oc/2018/502)).
+[^2-1]: Nouvelle teneur selon l’art. 2 de l’O du 12 avril 2006 sur la mise hors cours des pièces d’un centime, en vigueur depuis le 1<sup>er</sup> janvier 2007 ([RO 2006 1799](https://fedlex.data.admin.ch/eli/oc/2006/283)).
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du 15 août 2018, en vigueur depuis le 1<sup>er</sup> janvier 2019 ([RO 2018 3149](https://fedlex.data.admin.ch/eli/oc/2018/502)).
 
 #### Art. 3
 
@@ -87,15 +87,33 @@ Le DFF établit le programme de frappe des monnaies courantes en accord avec la 
 
 <sup>4</sup> Les gros consommateurs de monnaies et les déposants de grandes quantités de monnaies peuvent être assujettis à des conditions spéciales.
 
-[^5-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 24 oct. 2012 relative à la L sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> déc. 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-1]: Nouvelle teneur selon le ch. 3 de l’annexe à l’O du 24 oct. 2012 relative à la L sur l’organisation de la Poste, en vigueur depuis le 1<sup>er</sup> décembre 2012 ([RO 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
 
 #### Art. 6
 
-**Retrait de la circulation**
+**Retrait de la circulation**[^6-1]
 
-<sup>1</sup> La Banque nationale suisse retire de la circulation les monnaies usées, détériorées ou qui n’ont plus cours.
+<sup>1</sup> La Banque nationale suisse retire de la circulation les pièces usées, détériorées ou qui n’ont plus cours.
 
-<sup>2</sup> Les monnaies usées sont remboursées à leur valeur nominale; pour les monnaies détériorées, une déduction peut être opérée sur la valeur nominale.
+<sup>2</sup> Les pièces usées et détériorées sont remboursées à leur valeur nominale.
+
+<sup>3</sup>
+
+La Banque nationale suisse n’accepte les pièces détériorées que si les conditions suivantes sont remplies:
+
+- a. le personnel chargé de la réception et du contrôle des pièces ne s’expose à aucun danger lors de l’accomplissement de ces tâches;
+- b. les pièces détériorées sont exemptes de toute substance ou matière étrangère;
+- c. les pièces détériorées sont identifiables en tant qu’unité et peuvent être traitées mécaniquement.
+
+<sup>4</sup> La Banque nationale suisse remet les pièces livrées non conformes aux conditions énoncées à l’al. 3 à la Monnaie fédérale. Cette dernière les élimine de façon appropriée. Le déposant peut demander la restitution, à ses frais, des monnaies livrées.
+
+<sup>5</sup> La Monnaie fédérale vérifie l’authenticité des pièces suspectes qui lui sont livrées.
+
+<sup>6</sup> La Banque nationale suisse peut prélever une indemnité correspondant au temps de travail extraordinaire qu’elle consacre à la réception des pièces détériorées et à la préparation de leur contrôle et déduire le montant de cette indemnité de la valeur nominale devant être remboursée.
+
+<sup>7</sup> Tout litige est réglé par décision de l’Administration fédérale des finances.
+
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 7
 
@@ -108,6 +126,16 @@ Le DFF établit le programme de frappe des monnaies courantes en accord avec la 
 <sup>3</sup> La Monnaie fédérale vérifie l’authenticité des pièces suspectes et établit des descriptions techniques. Elle rend inutilisables les pièces contrefaites ou falsifiées. La Monnaie fédérale exécute les décisions des autorités judiciaires et administratives compétentes concernant la destruction des pièces contrefaites ou falsifiées.
 
 <sup>4</sup> La Banque nationale remplace à leur valeur nominale les pièces de monnaie suspectes qui s’avèrent authentiques.
+
+#### Art. 7a
+
+**Conventions avec la Banque nationale suisse**[^7a-1]
+
+<sup>1</sup> Afin de régler la collaboration et la coordination en matière d’émission et de circulation de monnaies, le DFF peut conclure des conventions avec la Banque nationale suisse.
+
+<sup>2</sup> Il peut déléguer à l’Administration fédérale des finances la conclusion de conventions administratives ou techniques n’entraînant pas de dépenses importantes.
+
+[^7a-1]: Introduit par le ch. I de l’O du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 8
 

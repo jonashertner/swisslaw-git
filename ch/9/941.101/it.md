@@ -4,11 +4,11 @@ title: Ordinanza del 12 aprile 2000 sulle monete (OMon)
 short: OMon
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/194"
 language: it
-version: 2019-01-01
+version: 2021-03-01
 adopted: 2000-04-12
 in_force: 2000-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2000-194-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2000-194-20210301-it-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/it"
 
 (OMon)
 
-del 12 aprile 2000 (Stato 1° gennaio 2019)
+del 12 aprile 2000 (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 1, 4, 5 e 6 della legge federale del 22 dicembre 1999[^ingress-1] sull’unità monetaria e i mezzi di pagamento; visto l’articolo 4 della legge federale del 4 ottobre 1974[^ingress-2] a sostegno di provvedimenti per migliorare le finanze federali,
+visti gli articoli 4, 5 e 6 della legge federale del 22 dicembre 1999[^ingress-1] sull’unità monetaria e i mezzi di pagamento,[^ingress-2]
 
 ordina:
 
-[^ingress-1]: [RS 941.10](https://fedlex.data.admin.ch/eli/cc/2000/186)
-[^ingress-2]: [RS 611.010](https://fedlex.data.admin.ch/eli/cc/1975/65_65_65)
+[^ingress-1]: [RS 941.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11140)
+[^ingress-2]: Nuovo testo giusta la cifra I dell’O del 18 dic. 2020, in vigore dal 1° marzo 2021 ([RU 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 1
 
@@ -59,8 +59,8 @@ Le denominazioni ufficiali e le abbreviazioni dell’unità monetaria svizzera s
 
 <sup>2</sup> Il Dipartimento federale delle finanze (DFF) stabilisce la composizione esatta delle leghe delle monete, nonché le tolleranze applicabili alle leghe e alle dimensioni delle monete.[^2-2]
 
-[^2-1]: Nuovo testo giusta l’art. 2 dell’O del 12 apr. 2006 concernente la messa fuori corso delle monete da un centesimo, in vigore dal 1° gen. 2007 ([RU 2006 1799](https://fedlex.data.admin.ch/eli/oc/2006/283)).
-[^2-2]: Nuovo testo giusta il n. I dell’O del 15 ago. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3149](https://fedlex.data.admin.ch/eli/oc/2018/502)).
+[^2-1]: Nuovo testo giusta l’art. 2 dell’O del 12 aprile 2006 concernente la messa fuori corso delle monete da un centesimo, in vigore dal 1° gennaio 2007 ([RU 2006 1799](https://fedlex.data.admin.ch/eli/oc/2006/283)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O del 15 agosto 2018, in vigore dal 1° gennaio 2019 ([RU 2018 3149](https://fedlex.data.admin.ch/eli/oc/2018/502)).
 
 #### Art. 3
 
@@ -80,21 +80,41 @@ Il DFF stabilisce d’intesa con la Banca nazionale svizzera il programma di con
 
 **Approvvigionamento di monete**
 
-<sup>1</sup> La Banca nazionale svizzera funge da ufficio centrale per l’approvvigionamento di monete. La Posta Svizzera e le Ferrovie federali svizzere aiutano la Banca Nazionale svizzera a mettere in circolazione monete circolanti e a ritirare monete circolanti, monete commemorative e monete d’investimento. Possono demandare l’adempimento di questo obbligo a imprese che controllano direttamente.<sup>2</sup> In linea di principio, la Banca nazionale svizzera, la Posta Svizzera e le Ferrovie federali svizzere mettono in circolazione e ritirano monete al valore nominale. Per le monete circolanti non utilizzate dall’acquirente nel traffico dei pagamenti e di costo superiore al valore nominale, il DFF stabilisce un prezzo che copra le spese.[^5-1]
+<sup>1</sup> La Banca nazionale svizzera funge da ufficio centrale per l’approvvigionamento di monete. La Posta Svizzera e le Ferrovie federali svizzere aiutano la Banca Nazionale svizzera a mettere in circolazione monete circolanti e a ritirare monete circolanti, monete commemorative e monete d’investimento. Possono demandare l’adempimento di questo obbligo a imprese che controllano direttamente.
+
+<sup>2</sup> In linea di principio, la Banca nazionale svizzera, la Posta Svizzera e le Ferrovie federali svizzere mettono in circolazione e ritirano monete al valore nominale. Per le monete circolanti non utilizzate dall’acquirente nel traffico dei pagamenti e di costo superiore al valore nominale, il DFF stabilisce un prezzo che copra le spese.[^5-1]
 
 <sup>3</sup> Le casse della Posta Svizzera e delle Ferrovie federali svizzere cambiano le monete entro i limiti della loro liquidità di cassa.
 
 <sup>4</sup> I grandi consumatori e i grandi fornitori di moneta possono essere assoggettati a condizioni speciali.
 
-[^5-1]: Nuovo testo giusta il n. 3 dell’all. all’O del 24 ott. 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dic. 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
+[^5-1]: Nuovo testo giusta l’all. n. 3 dell’O del 24 ottobre 2012 sull’organizzazione della Posta Svizzera, in vigore dal 1° dicembre 2012 ([RU 2012 6089](https://fedlex.data.admin.ch/eli/oc/2012/721)).
 
 #### Art. 6
 
-**Ritiro dalla circolazione**
+**Ritiro dalla circolazione**[^6-1]
 
-<sup>1</sup> La Banca nazionale svizzera ritira dalla circolazione le monete logore, deteriorate o messe fuori corso.
+<sup>1</sup> La Banca nazionale svizzera ritira dalla circolazione le monete logore, danneggiate o messe fuori corso.
 
-<sup>2</sup> Le monete logore sono rimborsate al loro valore nominale; per le monete deteriorate può essere fatta una deduzione sul valore nominale.
+<sup>2</sup> Le monete logore e danneggiate sono rimborsate al loro valore nominale.
+
+<sup>3</sup>
+
+La Banca nazionale svizzera accetta le monete danneggiate soltanto se sono soddisfatte le seguenti condizioni:
+
+- a. si può escludere qualsiasi pericolo per il personale derivante dai lavori relativi all’accettazione e al controllo delle monete;
+- b. le monete danneggiate sono prive di sostanze e di materiali estranei;
+- c. le monete danneggiate sono riconoscibili singolarmente come monete e sono adatte agli apparecchi automatici.
+
+<sup>4</sup> La Banca nazionale svizzera consegna le monete riportate che non soddisfano le condizioni di cui al capoverso 3 alla Zecca federale. Quest’ultima le elimina correttamente. Chi riporta le monete può chiederne la restituzione a proprie spese.
+
+<sup>5</sup> In caso di sospetto, la Zecca federale verifica l’autenticità delle monete consegnate.
+
+<sup>6</sup> Per i lavori straordinari eseguiti in relazione all’accettazione e alla preparazione del controllo delle monete danneggiate, la Banca nazionale svizzera può riscuotere un compenso in funzione del tempo impiegato che deduce dal valore nominale da rimborsare.
+
+<sup>7</sup> In caso di controversie, l’Amministrazione federale delle finanze (AFF) emana una decisione.
+
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 18 dicembre 2020, in vigore dal 1° marzo 2021 ([RU 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 7
 
@@ -108,6 +128,16 @@ Il DFF stabilisce d’intesa con la Banca nazionale svizzera il programma di con
 
 <sup>4</sup> Se la moneta sospetta risulta autentica, la Banca nazionale svizzera la cambia al suo valore nominale.
 
+#### Art. 7a
+
+**Convenzioni con la Banca nazionale svizzera**[^7a-1]
+
+<sup>1</sup> Il DFF può concludere convenzioni con la Banca nazionale svizzera al fine di disciplinare la collaborazione e il coordinamento negli ambiti dell’emissione e della circolazione delle monete.
+
+<sup>2</sup> Può delegare all’AFF la conclusione di convenzioni tecnico-amministrative che non implicano importanti oneri finanziari.
+
+[^7a-1]: Introdotto dalla cifra I dell’O del 18 dicembre 2020, in vigore dal 1° mar. 2021 ([RU 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
+
 #### Art. 8
 
 **Diritto previgente: abrogazione**
@@ -118,7 +148,7 @@ Sono abrogati:
 - b. il decreto del Consiglio federale del 1° aprile 1971[^8-2] concernente la messa fuori corso delle monete d’argento;
 - c. l’ordinanza del 2 luglio 1980[^8-3] sulla sostituzione delle monete di cinque centesimi.
 
-[^8-1]: [[RU 1997 2757](https://fedlex.data.admin.ch/eli/oc/1997/2757_2757_2757), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 32]
+[^8-1]: [[RU 1997 2757](https://fedlex.data.admin.ch/eli/oc/1997/2757_2757_2757), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)cifra II n. 32]
 [^8-2]: [[RU 1971 366](https://fedlex.data.admin.ch/eli/oc/1971/366_366_366)[1293](https://fedlex.data.admin.ch/eli/oc/1971/1297_1293_1293)]
 [^8-3]: [[RU 1980 895](https://fedlex.data.admin.ch/eli/oc/1980/895_895_895), [1981 498](https://fedlex.data.admin.ch/eli/oc/1981/498_498_498)]
 

@@ -4,11 +4,11 @@ title: Münzverordnung vom 12. April 2000 (MünzV)
 short: MünzV
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/194"
 language: de
-version: 2019-01-01
+version: 2021-03-01
 adopted: 2000-04-12
 in_force: 2000-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2000-194-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/194/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2000-194-20210301-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/194/20190101/de"
 
 (MünzV)
 
-vom 12. April 2000 (Stand am 1. Januar 2019)
+vom 12. April 2000 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 1, 4, 5 und 6 des Bundesgesetzes vom 22. Dezember 1999[^ingress-1] über die Währung und die Zahlungsmittel, sowie auf Artikel 4 des Bundesgesetzes vom 4. Oktober 1974[^ingress-2] über Massnahmen zur Verbesserung des Bundeshaushaltes,
+gestützt auf die Artikel 4, 5 und 6 des Bundesgesetzes vom 22. Dezember 1999[^ingress-1] über die Währung und die Zahlungsmittel,[^ingress-2]
 
 verordnet:
 
-[^ingress-1]: [SR 941.10](https://fedlex.data.admin.ch/eli/cc/2000/186)
-[^ingress-2]: [SR 611.010](https://fedlex.data.admin.ch/eli/cc/1975/65_65_65)
+[^ingress-1]: [SR 941.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11140)
+[^ingress-2]: Fassung gemäss Ziff. I der V vom 12. Dezember 2020, in Kraft seit 1. März 2021 (AS **20****21** 46).
 
 #### Art. 1
 
@@ -92,11 +92,25 @@ Die Prägeprogramme für die Umlaufmünzen werden vom EFD im Einvernehmen mit de
 
 #### Art. 6
 
-**Rückzug aus dem Verkehr**
+**Rückzug aus dem Verkehr**[^6-1]
 
-<sup>1</sup> Die Schweizerische Nationalbank entzieht dem Verkehr die unansehnlichen, beschädigten und ausser Kurs gesetzten Münzen.
+<sup>1</sup> Die Schweizerische Nationalbank entzieht die abgenützten, beschädigten und ausser Kurs gesetzten Münzen dem Verkehr.
 
-<sup>2</sup> Für unansehnliche Münzen ist der Nennwert zu vergüten; für beschädigte Münzen kann ein Abzug gemacht werden.
+<sup>2</sup> Für abgenützte und beschädigte Münzen ist der Nennwert zu vergüten.
+
+<sup>3</sup>
+
+Beschädigte Münzen werden von der Schweizerischen Nationalbank nur angenommen, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Eine Gefährdung des Personals durch die Arbeiten im Zusammenhang mit der Annahme und der Prüfung der Münzen kann ausgeschlossen werden.
+- b. Die beschädigten Münzen sind frei von Fremdstoffen und Fremdmaterialien.
+- c. Die beschädigten Münzen sind einzeln als Münzen erkennbar und automatenfähig.
+
+<sup>4</sup> Eingelieferte Münzen, die den Voraussetzungen nach Absatz 3 nicht entsprechen, übergibt die Schweizerischen Nationalbank der eidgenössischen Münzstätte. Diese entsorgt die Münzen fachgerecht. Der Einlieferer kann die Münzen auf eigene Kosten zurückfordern.
+
+<sup>5</sup> Die eidgenössische Münzstätte überprüft die eingelieferten Münzen im Verdachtsfall auf ihre Echtheit.
+
+[^6-1]: Fassung gemäss Ziff. I der V vom 12. Dezember 2020, in Kraft seit 1. März 2021 ([AS 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 7
 
@@ -109,6 +123,16 @@ Die Prägeprogramme für die Umlaufmünzen werden vom EFD im Einvernehmen mit de
 <sup>3</sup> Die eidgenössische Münzstätte überprüft die verdächtigen Münzen auf ihre Echtheit und erstellt technische Beschreibungen. Falsche und verfälschte Münzen werden von ihr unbrauchbar gemacht. Die eidgenössische Münzstätte vollzieht Entscheide der zuständigen Gerichts- und Verwaltungsbehörden über die Vernichtung von Falsifikaten.
 
 <sup>4</sup> Erweisen sich verdächtige Münzen als echt, so vergütet die Schweizerische Nationalbank ihren Nennwert.
+
+#### Art. 7a
+
+**Vereinbarungen mit der Schweizerischen Nationalbank**[^7a-1]
+
+<sup>1</sup> Das EFD kann zur Regelung der Zusammenarbeit und der Koordination in den Bereichen der Münzausgabe und des Münzverkehrs mit der Schweizerischen Nationalbank Vereinbarungen abschliessen.
+
+<sup>2</sup> Es kann den Abschluss von administrativ-technischen Vereinbarungen, die keine bedeutenden finanziellen Aufwendungen verursachen, an die EFV delegieren.
+
+[^7a-1]: Eingefügt durch Ziff. I der V vom 12. Dezember 2020, in Kraft seit 1. März 2021 ([AS 2021 46](https://fedlex.data.admin.ch/eli/oc/2021/46)).
 
 #### Art. 8
 
