@@ -4,7 +4,7 @@ number: "614.05"
 title: LOI du 12.03.2013 sur la Cour des comptes (LCComptes)
 short: LCComptes
 language: fr
-version: 2017-01-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/614.05?id=7edc09c1-d0c8-42c9-bd55-b891b29a58af"
 ---
 
@@ -154,14 +154,15 @@ décrète
 
 **Administration et statut des membres de la Cour des comptes [^sectionSectionII-1]**
 
-<sup>1</sup> La Cour des comptes élabore son budget sur la base des directives budgétaires de l'Etat. Il est proposé au Conseil d'Etat par l'intermédiaire du département en charge des finances et il est ensuite présenté au Grand Conseil. Le président de la Cour des comptes a le droit d'être entendu par la Commission des finances ou peut être convoqué par cette dernière. Le représentant du Conseil d'Etat peut apporter ses propres observations.
+<sup>1</sup> La Cour des comptes élabore son budget sur la base des directives budgétaires de l'Etat. Il est proposé au Conseil d'Etat par l'intermédiaire du département en charge des finances[^15-1] et il est ensuite présenté au Grand Conseil. Le président de la Cour des comptes a le droit d'être entendu par la Commission des finances ou peut être convoqué par cette dernière. Le représentant du Conseil d'Etat peut apporter ses propres observations.
 
-<sup>2</sup> La Cour des comptes engage ses collaborateurs selon les dispositions de la législation sur le personnel de l'Etat de Vaud[^15-1] . Le Conseil d'Etat fixe le niveau de fonction des collaborateurs de la Cour des comptes, sur proposition de cette dernière.
+<sup>2</sup> La Cour des comptes engage ses collaborateurs selon les dispositions de la législation sur le personnel de l'Etat de Vaud[^15-2] . Le Conseil d'Etat fixe le niveau de fonction des collaborateurs de la Cour des comptes, sur proposition de cette dernière.
 
 <sup>3</sup> Sauf si la présente loi en dispose autrement, la Cour des comptes applique les procédures administratives internes arrêtées par le Conseil d'Etat.
 
 [^sectionSectionII-1]: Modif. 1 du 14.12.2016: Modification Al. 1; entrée en vigueur au 01.01.2017
-[^15-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
+[^15-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^15-2]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
 
 #### Art. 16
 
@@ -343,7 +344,7 @@ décrète
 
 <sup>2</sup> L'entité contrôlée doit lui indiquer quelles suites elle donne à ces recommandations. La Cour des comptes peut entreprendre ses propres contrôles.
 
-<sup>3</sup> Dans son rapport annuel, la Cour des comptes doit mentionner ses recommandations ainsi que les suites qui leur ont été données. Les entités auxquelles des recommandations ont été adressées doivent prendre position par écrit. Une fois par semestre, la Cour des comptes établit un inventaire des recommandations non traitées et le transmet aux Commissions de surveillance du Grand Conseil et au Conseil d'Etat.
+<sup>3</sup> Dans son rapport annuel, la Cour des comptes doit mentionner ses recommandations ainsi que les suites qui leur ont été données. Les entités auxquelles des recommandations ont été adressées doivent prendre position par écrit. Une fois par année, la Cour des comptes établit un inventaire des recommandations non traitées et le transmet aux Commissions de surveillance du Grand Conseil et au Conseil d'Etat.
 
 [^32-1]: Modif. 2 du 08.12.2020: Modification Al. 3; entrée en vigueur au 01.03.2021
 
