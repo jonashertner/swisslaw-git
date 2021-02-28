@@ -4,13 +4,13 @@ number: "351.115"
 title: Heilmittel- und Betäubungsmittelverordnung
 short: HBV
 language: de
-version: 2020-10-01
-valid_until: 2021-02-28
-version_adopted: 2020-09-16
+version: 2021-03-01
+valid_until: 2026-02-28
+version_adopted: 2021-01-20
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/351.115"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2895/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3646/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2895/pdf_file"
 
 (HBV)
 
-Vom 11.11.2009 (Stand 01.10.2020)
+Vom 11.11.2009 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -251,7 +251,7 @@ beschliesst:
 
 <sup>1</sup> Die Abgabe von Heilmitteln an Gewerbeausstellung durch Apotheken und Drogerien bedarf eine vorgängige Bewilligung des Departements.
 
-<sup>2</sup> Die Bewilligung wird erteilt, wenn infrastrukturell und personell eine ordnungsgemäss Abgabe der Heilmittel sichergestellt ist.
+<sup>2</sup> Die Bewilligung wird erteilt, wenn infrastrukturell und personell eine ordnungsgemässe Abgabe der Heilmittel sichergestellt ist.
 
 #### § 22
 
@@ -269,7 +269,8 @@ beschliesst:
 
 - a) Impfung gegen Grippe,
 - b) Impfung gegen Frühsommer-Meningoenzephalitis (FSME),
-- c) Tetanus-Prophylaxe bei Verletzungen (Kombinationsimpfstoff).
+- c) Tetanus-Prophylaxe bei Verletzungen (Kombinationsimpfstoff),
+- d) Impfung gegen Covid-19.
 
 <sup>2</sup> Apothekerinnen und Apotheker dürfen keine Impfungen vornehmen bei
 
