@@ -4,13 +4,13 @@ number: "213.310"
 title: Kantonale Grundbuchverordnung
 short: kGBV
 language: de
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-12-12
+version: 2021-03-01
+valid_until: 2025-06-30
+version_adopted: 2021-02-23
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://ar.clex.ch/app/de/texts_of_law/213.310"
-pdf: "https://ar.clex.ch/api/de/versions/1209/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1356/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1209/pdf_file"
 
 (kGBV)
 
-vom 12.12.2017 (Stand 01.01.2018)
+vom 12.12.2017 (Stand 01.03.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -95,11 +95,48 @@ verordnet:
 
 #### Art. 8
 
-**Erweiterter Zugang zu Grundbuchdaten im Abrufverfahren**
+**Erweiterter elektronischer Zugang a) Allgemeines**
 
-<sup>1</sup> Das Departement Inneres und Sicherheit entscheidet über den Zugriff auf Daten des informatisierten Grundbuchs im Abrufverfahren und schliesst mit den Benutzern Vereinbarungen ab. Es kann die Aufgabe an den Träger des Auskunftssystems delegieren.
+<sup>1</sup> Das Departement Inneres und Sicherheit setzt einen privaten Aufgabenträger ein, um den Zugriff auf die Daten des Grundbuchs im Abrufverfahren zu gewährleisten[^8-1]. Es schliesst mit diesem eine entsprechende Vereinbarung ab.
 
-<sup>2</sup> Die Protokolle über die erfolgten Zugriffe sind für die Grundbuchämter jederzeit einsehbar und von ihnen monatlich zu kontrollieren. Begehren von Berechtigten um Einsicht in die Protokolle sind an das zuständige Grundbuchamt zu richten.
+<sup>1<sup>bis</sup></sup> Die Zugriffsberechtigungen der kantonalen und kommunalen Stellen im Sinne von Art. 28 Abs. 1 lit. a GBV[^8-2] werden im Anhang festgelegt. Gestützt darauf richtet das Departement Inneres und Sicherheit den Zugang für diejenigen Personen ein, welche die Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+
+<sup>1<sup>ter</sup></sup> Der private Aufgabenträger schliesst direkt mit den übrigen Benutzerinnen und Benutzern gemäss Art. 28 Abs. 1 GBV Vereinbarungen ab, welche die Modalitäten des erweiterten elektronischen Zugangs gemäss Bundesrecht regeln. Davon ausgenommen sind die im Anwaltsregister eingetragenen Rechtsanwältinnen und Rechtsanwälte.
+
+<sup>2</sup> Die Protokolle über die erfolgten Zugriffe sind für die Grundbuchämter jederzeit einsehbar und von ihnen regelmässig zu kontrollieren. Begehren von Berechtigten um Einsicht in die Protokolle sind an das zuständige Grundbuchamt zu richten.
+
+[^8-1]: Vgl. Art. 949d ZGB (SR [210](https://db.clex.ch/link/Bund/210/de))
+[^8-2]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de)
+
+#### Art. 8a
+
+**b) Zugangsmodalitäten für kantonale und kommunale Stellen**
+
+<sup>1</sup> Für die Einrichtung eines Zugangs reicht die kantonale oder kommunale Stelle beim Departement Inneres und Sicherheit ein begründetes Gesuch ein.
+
+<sup>2</sup> Mit der Einrichtung des Zugangs werden Benutzerkonten vergeben. Diese lauten auf natürliche Personen und dürfen nur von diesen genutzt werden.
+
+<sup>3</sup> Das Departement Inneres und Sicherheit legt die Art und Weise der Benutzeridentifikation sowie die Anforderungen an das Passwort fest.
+
+#### Art. 8b
+
+**c) Pflichten der kantonalen und kommunalen Stellen**
+
+<sup>1</sup> Die zugriffsberechtigten kantonalen und kommunalen Stellen treffen Massnahmen zur Einhaltung der datenschutzrechtlichen Bestimmungen. Sie haben insbesondere folgende Pflichten:
+
+- a) Sie sorgen dafür, dass der Zugriff nicht missbraucht wird und die Daten nicht unbefugten Dritten zugänglich gemacht werden.
+- b) Sie bringen den Benutzerinnen und Benutzern die mit der Zugriffserteilung verbundenen Bestimmungen zur Sicherstellung des Datenschutzes zur Kenntnis und sorgen für deren Einhaltung.
+- c) Sie führen eine Liste der Benutzerkonten und stellen diese dem Departement Inneres und Sicherheit einmal jährlich zu.
+- d) Sie melden dem Departement Inneres und Sicherheit umgehend Mutationen, insbesondere Austritte und Funktionsänderungen von Benutzerinnen und Benutzern.
+- e) Sie erteilen dem Departement Inneres und Sicherheit die erforderlichen Auskünfte und gewähren Einsicht in die erforderlichen Unterlagen.
+
+#### Art. 8c
+
+**d) Entzug der Zugriffsberechtigung bei unrechtmässiger Datenbearbeitung**
+
+<sup>1</sup> Bei unrechtmässiger Datenbearbeitung entzieht das Departement Inneres und Sicherheit die Zugriffsberechtigung unverzüglich.
+
+<sup>2</sup> Bei Verdacht einer unrechtmässigen Datenbearbeitung wird der elektronische Zugang bis zur Klärung suspendiert.
 
 #### Art. 9
 
@@ -117,7 +154,7 @@ verordnet:
 
 <sup>2</sup> Es sorgt dafür, dass ein qualifiziertes Zertifikat für ungültig erklärt wird, wenn der Zertifikatinhaber die Funktion nicht mehr ausübt.
 
-[^10-1]: SR [211.432.1](https://ar.clex.ch/data/211.432.1/de)
+[^10-1]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de)
 
 #### Art. 11
 
@@ -188,7 +225,7 @@ verordnet:
 
 <sup>3</sup> Bei der Neuausstellung eines Pfandtitels im Sinne von Art. 152 Abs. 2 GBV[^17-1] darf der gelöschte Titel weder dem Gläubiger noch dem Grundeigentümer ausgehändigt werden.
 
-[^17-1]: SR [211.432.1](https://ar.clex.ch/data/211.432.1/de)
+[^17-1]: SR [211.432.1](https://db.clex.ch/link/Bund/211.432.1/de)
 
 #### Art. 18
 
