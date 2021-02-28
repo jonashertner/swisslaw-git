@@ -1,281 +1,402 @@
 ---
 canton: BE
 number: "152.05"
-title: Gesetz über die Harmonisierung amtlicher Register
-short: RegG
+title: Gesetz über die zentralen Personendatensammlungen
+short: "Personendatensammlungsgesetz, PDSG"
 language: de
-version: 2013-01-01
-valid_until: 2021-02-28
-version_adopted: 2012-02-01
+version: 2021-03-01
+valid_until: 2021-11-30
+version_adopted: 2020-03-10
 adopted: 2020-03-10
 in_force: 2021-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/891/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2140/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Harmonisierung amtlicher Register
+# Gesetz über die zentralen Personendatensammlungen
 
-(RegG)
+(Personendatensammlungsgesetz, PDSG)
 
-vom 28.11.2006 (Stand 01.01.2013)
+vom 10.03.2020 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
-gestützt auf die Artikel 8 bis 12 und 21 Absatz 1 des Bundesgesetzes vom 23. Juni 2006 über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG)[^ingress-1] und Artikel 50e Absatz 3 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^ingress-2],
+gestützt auf die Artikel 8 Absätze 2 bis 4, Artikel 10 Absatz 1, Artikel 12 Absatz 1 und Artikel 21 Absatz 1 des Bundesgesetzes vom 23. Juni 2006 über die Harmonisierung der Einwohnerregister und anderer amtlicher Personenregister (Registerharmonisierungsgesetz, RHG)[^ingress-1] sowie Artikel 50e Absatz 3 des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG)[^ingress-2],
 
-auf Antrag des Regierungsrates,
+auf Antrag des Regierungsrates
 
 beschliesst:
 
-[^ingress-1]: SR 431.02
-[^ingress-2]: SR 831.10
+[^ingress-1]: SR [431.02](https://db.clex.ch/link/Bund/431.02/de)
+[^ingress-2]: SR [831.10](https://db.clex.ch/link/Bund/831.10/de)
 
-## 1 Zweck und Geltungsbereich
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-<sup>1</sup> Dieses Gesetz bezweckt die Vereinfachung des gesetzlich vorgesehenen Austauschs von Personendaten zwischen den Registern nach Absatz 3 durch deren Harmonisierung.
+**Zweck**
 
-<sup>2</sup> Es sieht hierzu eine kantonale Informatikplattform vor (Gemeinderegistersysteme-Plattform, im Folgenden GERES-Plattform) und regelt den entsprechenden Datenaustausch und Datenabruf.
+<sup>1</sup> Dieses Gesetz bezweckt
 
-<sup>3</sup> Es gilt für
+- a die effiziente zentrale Bearbeitung von Personendaten,
+- b den Aufbau, die Vereinheitlichung und den Betrieb von zentralen Personendatensammlungen,
+- c die richtige und vollständige sowie sichere und einheitliche Führung der Personendaten nach Massgabe ihres Inhalts und Verwendungszwecks,
+- d die Harmonisierung der Personendaten.
 
-- a die zentrale Personenverwaltung (ZPV) gemäss Artikel 5,
-- b das Einwohnerregister (inkl. Fremdenkontrolle), das Stimmregister sowie das Register für die Einkommens- und Vermögenssteuer der Gemeinden,
-- c die weiteren vom Regierungsrat durch Verordnung bestimmten amtlichen Register, die mit einem Melde- oder Abrufverfahren auf die GERES-Plattform oder auf die ZPV zugreifen (Art. 4 Abs. 2, Art. 5 Abs. 4, Art. 8 Abs. 1, Art. 14 Abs. 1 Bst. g, Art. 16).
-
-<sup>4</sup> In diesem Gesetz bezeichnet «Personenidentifikator» eine Nummer, die einer Person zur Identifikation zugeordnet wird und deren Aufbau keine Rückschlüsse auf Personendaten erlaubt.
-
-## 2 Aufgaben der Gemeinden
+<sup>2</sup> Es dient damit als Grundlage für die elektronische Verwaltungsführung im Rahmen der gesetzlichen Aufgabenerfüllung der Behörden des Kantons.
 
 #### Art. 2
 
-**Elektronische Registerführung**
+**Geltungsbereich**
 
-<sup>1</sup> Die Gemeinden führen das Einwohnerregister (inkl. Fremdenkontrolle), das Stimmregister sowie das Register für die Einkommens- und Vermögenssteuer elektronisch.
+<sup>1</sup> Dieses Gesetz gilt für die Behörden nach Artikel 2 Absatz 6 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^2-1].
 
-<sup>2</sup> Sie führen das Register für die Einkommens- und Vermögenssteuer mit Software, die vom Kanton angeboten wird. Der Kanton kann zusätzlich entsprechende Hardware anbieten.
-
-<sup>3</sup> Der Regierungsrat kann durch Verordnung vorsehen, dass den Gemeinden für die elektronische Führung des Einwohnerregisters (inkl. Fremdenkontrolle) und des Stimmregisters Hardware oder Software zur Verfügung gestellt wird und die Gemeinden bei der Registerführung technisch oder durch einen einmaligen Umstellungsbeitrag unterstützt werden.
+[^2-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 3
 
-**Datenlieferung**
+**Gegenstand**
 
-<sup>1</sup> Die Gemeinden übermitteln die Daten des Einwohnerregisters (inkl. Fremdenkontrolle) auf die GERES-Plattform und aktualisieren sie.
+<sup>1</sup> Dieses Gesetz regelt
 
-<sup>2</sup> Der Regierungsrat kann die Gemeinden durch Verordnung verpflichten, auch die Daten des Stimmregisters oder Teile davon auf die GERES-Plattform zu übermitteln und sie auf dem neusten Stand zu halten.
-
-<sup>3</sup> Er legt unter Berücksichtigung des entstehenden Nutzens die Abgeltung der Gemeinden für die Ein- und Nachführung der Gebäude- und Wohnungsidentifikatoren gemäss Artikel 6 Buchstabe c und d RHG durch Verordnung fest.
-
-<sup>4</sup> Er kann durch Verordnung vorsehen, dass den Gemeinden elektronische Übermittlungssysteme gegen Entgelt zur Verfügung gestellt werden.
-
-## 3 Aufgaben des Kantons
+- a die Bearbeitung der Daten von natürlichen oder juristischen Personen in zentralen Personendatensammlungen,
+- b die Umsetzung des RHG.
 
 #### Art. 4
 
-**GERES-Plattform**
+**Begriffe**
 
-<sup>1</sup> Die zuständige Stelle der Finanzdirektion betreibt die GERES-Plattform, auf der die nach Artikel 3 gelieferten Daten, einschliesslich der besonders schützenswerten Daten, gespeichert werden.
+<sup>1</sup> In diesem Gesetz bedeuten
 
-<sup>2</sup> Die GERES-Plattform dient
-
-- a der zuständigen Stelle der Finanzdirektion zum Abgleich der Daten mit der ZPV nach Artikel 5,
-- b der zuständigen Stelle der Finanzdirektion im Abrufverfahren zur Überprüfung der Berechtigung des Abzugs nach Artikel 40 Absatz 2 des Steuergesetzes vom 21. Mai 2000 (StG)[^4-1],
-- c kantonalen Behörden als Grundlage für die Feststellung von Änderungen in der Einwohnerkontrolle (inkl. Fremdenkontrolle) in Abruf- oder Meldeverfahren, die vom Regierungsrat durch Verordnung bezeichnet werden,
-- d bei einem Wegzug einer Person aus einer Gemeinde dazu, der betreffenden Gemeinde Meldung über den bevorstehenden Zuzug zu erstatten,
-- e den Gemeinden als Grundlage für Datenlieferungen, soweit sie hierzu ermächtigt oder verpflichtet sind,
-- f statistischen Zwecken, namentlich für die Durchführung der eidgenössischen Volkszählung.
-
-<sup>3</sup> Den Gemeinden verbleibt die Herrschaft über ihre auf der GERES-Plattform aufbewahrten Daten.
-
-<sup>4</sup> Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^4-2] trägt die zuständige Stelle der Finanzdirektion.
-
-[^4-1]: BSG 661.11
-[^4-2]: BSG 152.04
+- a Personendatensammlung: Eine Datensammlung nach Artikel 2 Absatz 2 des KDSG;
+- b Zentrale Personendatensammlung: Eine elektronische Personendatensammlung, die das Bearbeiten der Personendaten durch mehrere Behörden ermöglicht und als zentrale Personendatensammlung bezeichnet wird;
+- c Merkmal: Eigenschaft einer Person, die objektiv erfasst und beschrieben werden kann (Art. 3 Bst. f RHG);
+- d Basisprofil: Eine bezeichnete Gruppe von Merkmalen, die keine besonders schützenswerten Personendaten enthalten, kein Profiling nach der einschlägigen Gesetzgebung ermöglichen und deren Bekanntgabe nicht nach Artikel 14 KDSG eingeschränkt ist, z. B. Name, Vornamen und Korrespondenzsprache;
+- e Standardprofil: Eine bezeichnete Gruppe von Merkmalen, die auch besonders schützenswerte Personendaten enthalten können;
+- f Funktionalität: Eine besondere Art der Datenbearbeitung, die mit der Software der Datensammlung möglich ist, z. B. die Kombination von verschiedenen Personendaten, die Festlegung des örtlichen, zeitlichen oder sachlichen Umfangs der Datensammlung oder die Erteilung von Bearbeitungsrechten;
+- g Benutzerkonto: Eine auf eine natürliche Person oder auf ein System lautende Berechtigung für den Zugriff auf eine Personendatensammlung;
+- h Abrufverfahren: Datenbezug aus zentralen Personendatensammlungen mittels Internet-Zugriff;
+- i Meldeverfahren: Datenbekanntgabe mittels Meldung über die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex).
 
 #### Art. 5
 
-**Zentrale Personenverwaltung (ZPV)**
+**Grundsätze**
 
-<sup>1</sup> Die zuständige Stelle der Finanzdirektion betreibt die Zentrale Personenverwaltung (ZPV), auf der Daten der natürlichen und juristischen Personen und ihrer Vertretungen bearbeitet werden, die
+<sup>1</sup> Der Kanton führt zentrale Personendatensammlungen, die den Behörden zur Erfüllung ihrer gesetzlichen Aufgaben zur Verfügung stehen.
 
-- a auf der GERES-Plattform erfasst worden sind,
-- b infolge eines Verwaltungsverfahrens oder einer Kundenbeziehung mit kantonalen Behörden erfasst worden sind, sofern die besondere Gesetzgebung keine Ausnahme vorsieht,
-- c infolge einer Steuerbeziehung zum Kanton Bern erfasst worden sind,
-- d infolge eines Grundbucheintrags im Kanton Bern erfasst worden sind.
+<sup>2</sup> Eine zentrale Personendatensammlung enthält diejenigen Merkmale, die von mehreren Behörden zur Erfüllung ihrer gesetzlichen Aufgaben nach der besonderen Gesetzgebung des Bundes und des Kantons benötigt werden und bearbeitet werden dürfen.
 
-<sup>2</sup> Der ZPV-Eintrag einer natürlichen Person enthält insbesondere folgende Daten, soweit sie vorliegen:
+<sup>3</sup> Die mit dem Vollzug der besonderen Gesetzgebung betrauten Behörden können in zentralen Personendatensammlungen im Abruf- oder Meldeverfahren diejenigen Personendaten bearbeiten, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
 
-- a Name, Vorname und Adresse,
-- b Kontaktangaben wie Telefonnummern und E-Mail-Adressen,
-- c Kontoangaben für den Zahlungsverkehr,
-- d Geburtsdatum,
-- e ZPV-Nummer,
-- f Versichertennummer nach AHVG,
-- g Zivilstand,
-- h Zugehörigkeit zu einer Landeskirche oder einer öffentlich-rechtlich anerkannten Religionsgemeinschaft,
-- i Sperrvermerke nach Artikel 13 KDSG,
-- k einen Personenidentifikator des Ehegatten oder der eingetragenen Partnerin beziehungsweise des eingetragenen Partners,
-- l von Personen, die unter einer Beistandschaft stehen, einen Personenidentifikator der dafür zuständigen Person,
-- m Korrespondenzsprache.
+<sup>4</sup> Soweit für die Erfüllung ihrer gesetzlichen Aufgaben zwingend erforderlich, können die Behörden in zentralen Personendatensammlungen auch besonders schützenswerte Personendaten bearbeiten. Der Anhang 1 legt die einzelnen Daten, Datenkategorien und Funktionalitäten fest und ordnet diese den betreffenden Gesetzen zu.
 
-<sup>3</sup> Der ZPV-Eintrag einer juristischen Person enthält insbesondere folgende Daten, soweit sie vorliegen:
-
-- a Firma und Adresse,
-- b Kontaktangaben wie Telefonnummern und E-Mail-Adressen,
-- c Kontoangaben für den Zahlungsverkehr,
-- d bundesrechtlich vorgesehene Personenidentifikatoren oder Unternehmensnummern.
-
-<sup>4</sup> Die ZPV dient der zuständigen Stelle der Finanzdirektion für die Erfüllung ihrer Aufgaben sowie weiteren kantonalen und kommunalen Behörden als zentrale Adress- und Kontaktdatei im Abruf- oder Meldeverfahren sowie statistischen Zwecken.
+## 2 Inhalt, Organisation und Zugriff
 
 #### Art. 6
 
-**ZPV-Nummer**
+**Inhalt**
 
-<sup>1</sup> Die ZPV-Nummer ist ein Personenidentifikator gemäss Artikel 1 Absatz 4.
-
-<sup>2</sup> Sie wird den in der ZPV erfassten Personen zugeordnet und in den vom Regierungsrat durch Verordnung bezeichneten amtlichen Registern geführt.
-
-<sup>3</sup> Hat sich die betroffene Person im Kanton Bern zur Niederlassung oder zum Aufenthalt angemeldet, so wird die ZPV-Nummer von der Gemeinde in das Einwohnerregister (inkl. Fremdenkontrolle) übernommen.
-
-<sup>4</sup> Besonders schützenswerte Daten (Art. 3 KDSG) oder Angaben über Massnahmen des Kindes- und Erwachsenenschutzes dürfen in Verbindung mit der ZPV-Nummer weder öffentlich zugänglich gemacht noch in Unterlagen oder Dateien verwendet werden, die zur Legitimation gegenüber Privaten Verwendung finden.
-
-<sup>5</sup> Eine frei gewordene ZPV-Nummer darf nicht einer anderen Person zugeordnet werden.
+<sup>1</sup> Eine zentrale Personendatensammlung verfügt über ein Basisprofil und über so viele Standardprofile und Funktionalitäten wie nötig.
 
 #### Art. 7
 
-**Datenabgleich**
+**Organisation**
 
-<sup>1</sup> Die zuständige Stelle der Finanzdirektion gleicht die Daten der ZPV regelmässig anhand der ZPV-Nummer mit den auf der GERES-Plattform gespeicherten Daten ab.
+<sup>1</sup> Der Regierungsrat bezeichnet die zentralen Personendatensammlungen durch Verordnung und regelt dabei
 
-<sup>2</sup> Sie erstattet den Gemeinden Meldung, falls die Daten der ZPV aktueller sind als die auf der GERES-Plattform gespeicherten Daten.
+- a den Zweck der Personendatensammlung;
+- b die innerhalb einer Direktion, der Staatskanzlei oder der Justiz für die Personendatensammlung verantwortliche Behörde;
+- c die in der Datensammlung enthaltenen Personendaten;
+- d den örtlichen und zeitlichen Datenumfang;
+- e die besonders schützenswerten Personendaten;
+- f das Basisprofil;
+- g die Standardprofile;
+- h die Funktionalitäten, die ein Profiling ermöglichen oder die in anderer Form besonders schützenswerte Personendaten erzeugen;
+- i die Behörden, die trotz Sperre der Datenbekanntgabe nach Artikel 14 KDSG nach der besonderen Gesetzgebung zugriffsberechtig sind;[^7-1]
+- k den Zeitpunkt und die weiteren Modalitäten der Vernichtung der Personendaten;
+- l die besonderen Anforderungen an die Informationssicherheit und den Datenschutz;
+- m die weiteren technischen, organisatorischen und finanziellen Einzelheiten;
+- n allfällige Einschränkungen für die Bearbeitung von Personendatensammlungen.
+
+[^7-1]: Durch die Redaktionskommission am 23. Oktober 2020 in Anwendung von Artikel 25 des Publikationsgesetzes berichtigt.
 
 #### Art. 8
 
-**Abrufverfahren**
+**Berechtigungen für den Zugriff**
 
-<sup>1</sup> Die Gemeinden und die kantonalen Behörden haben im Abrufverfahren elektronischen Zugriff auf diejenigen Daten der ZPV, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.
+<sup>1</sup> Der Regierungsrat regelt durch Verordnung die Berechtigung für den Zugriff auf zentrale Personendatensammlungen.
 
-<sup>2</sup> Im Rahmen des Abrufverfahrens nach Absatz 1 haben die Gemeinden auch Zugriff auf die besonders schützenswerten Daten der ZPV.
+<sup>2</sup> Er kann vorsehen, dass
 
-## 4 Weitere Bestimmungen
+- a die Direktionen, die Staatskanzlei und die Justiz die Zugriffsrechte ihrer unterstellten Organisationseinheiten sowie der anderen Trägerinnen und Träger öffentlicher Aufgaben in ihrem Aufgabenbereich durch Direktionsverordnungen oder Reglemente regeln,
+- b die Behörden nach dem Gemeindegesetz vom 16. März 1998 (GG)[^8-1] und dem Gesetz vom 21. März 2018 über die bernischen Landeskirchen (Landeskirchengesetz, LKG)[^8-2] die Zugriffsrechte ihrer unterstellten Organisationseinheiten sowie beaufsichtigten anderen Trägerinnen und Trägern öffentlicher Aufgaben durch Verordnung regeln.
+
+[^8-1]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
+[^8-2]: BSG [410.11](https://www.belex.sites.be.ch/data/410.11/de)
 
 #### Art. 9
 
-**Systematische Verwendung der Versichertennummer nach AHVG**
+**Voraussetzungen für den Zugriff**
 
-<sup>1</sup> Stellen und Institutionen, die mit dem Vollzug von kantonalem Recht betraut sind, dürfen zu diesem Zweck die Versichertennummer nach AHVG systematisch verwenden, wenn die Bedingungen des Bundesrechts erfüllt sind.
+<sup>1</sup> Wer Berechtigungsregeln nach Artikel 8 erlässt,
 
-<sup>2</sup> Die besondere Gesetzgebung kann Einschränkungen oder Auflagen vorsehen.
+- a sieht den Zugriff auf zentrale Personendatensammlungen nur vor, wenn für die Datenbearbeitung eine ausreichende gesetzliche Grundlage nach Massgabe der Datenschutzgesetzgebung besteht;
+- b stellt sicher, dass die berechtigten Behörden nur über diejenigen Personendaten, Funktionalitäten und Zugriffsrechte verfügen, die sie zur Erfüllung ihrer gesetzlichen Aufgaben benötigen, und Gewähr für die Einhaltung der Informationssicherheits- und Datenschutzvorschriften bieten.
 
 #### Art. 10
 
-**Datensperre**
+**Zugriff auf Basisprofile**
 
-<sup>1</sup> Sperrvermerke im Einwohnerregister nach Artikel 13 Absatz 1 oder 3 KDSG werden auch in die GERES-Plattform und die ZPV übernommen. Die betroffene Person kann bei der zuständigen Stelle der Finanzdirektion den Sperrvermerk aus der ZPV entfernen lassen oder ihn nur für die ZPV verlangen.
-
-<sup>2</sup> Datenbekanntgaben aus der GERES-Plattform und der ZPV an Private sind unzulässig. Für die Auskunftserteilung durch die Einwohnerkontrolle gelten die Bestimmungen des KDSG.
+<sup>1</sup> Der Regierungsrat kann vorsehen, dass Basisprofile allen Behörden zur Verfügung stehen, die diese Personendaten zur Erfüllung der gesetzlichen Aufgaben benötigen.
 
 #### Art. 11
 
-**Meldepflichten**
+**Prüfung, Anwendung und Publikation der Berechtigungsregeln**
 
-<sup>1</sup> Wenn jemand bei der Einwohnerkontrolle (inkl. Fremdenkontrolle) ihn betreffende Daten ändern lässt, erfüllt er damit auch allfällige weitere Pflichten, diese Änderung bei kantonalen Behörden zu melden, die auf die ZPV zurückgreifen. Entgegenstehende bundesrechtliche Meldepflichten bleiben vorbehalten.
+<sup>1</sup> Wer Berechtigungsregeln nach Artikel 8 erlässt, legt sie vorgängig der zuständigen Datenschutzaufsichtsstelle zur Stellungnahme vor (Art. 34 Abs. 1 Bst. k KDSG). Die Stellungnahme kann in der Form eines begründeten Antrags erfolgen (Art. 35 Abs. 3 KDSG).
 
-<sup>2</sup> Die Einwohnerkontrolle teilt der betroffenen Person mit, welche Meldepflichten mit der Änderungsmeldung erfüllt sind.
+<sup>2</sup> Die für eine zentrale Personendatensammlung verantwortliche Organisationseinheit stellt sicher, dass die Benutzerkonti gemäss den Berechtigungsregeln verwaltet werden.
 
-<sup>3</sup> Erhalten kommunale oder kantonale Behörden über die GERES-Plattform oder die ZPV Kenntnis von einem meldepflichtigen Sachverhalt, fordern sie die betroffene Person mit angemessener Nachfrist zur Meldung auf.
+<sup>3</sup> Sie veröffentlicht die Verordnungen der Behörden nach GG und LKG im Internet, nachdem die Publikation nach den Vorschriften der Gemeindegesetzgebung stattgefunden hat.
+
+## 3 Identifikationsnummern
 
 #### Art. 12
 
-**Datenführung und -vernichtung auf der GERES-Plattform**
+<sup>1</sup> Die Behörden des Kantons nutzen als Personen-Identifikationsnummer die Versichertennummer gemäss AHVG, die Unternehmens- oder eine andere Identifikationsnummer des Bundes, wenn die Bedingungen der Bundesgesetzgebung erfüllt sind.
 
-<sup>1</sup> Die Mutation von Daten auf der GERES-Plattform erfolgt ausschliesslich auf dem Wege der Datenlieferung nach Artikel 3.
+<sup>2</sup> Der Regierungsrat kann für den Kanton eine eigene Identifikationsnummer für natürliche und juristische Personen durch Verordnung vorsehen.
 
-<sup>2</sup> Daten, die gemäss Meldung der zuständigen Gemeinde nicht mehr in den von der Meldepflicht betroffenen Registern geführt werden, werden von der zuständigen Stelle der Finanzdirektion auf der GERES-Plattform als passiv gekennzeichnet und spätestens fünf Jahre nach der Meldung der Gemeinde vernichtet.
-
-<sup>3</sup> Die Vernichtung von Daten auf der GERES-Plattform hat keinen Einfluss auf allfällige Verpflichtungen zur Führung oder Aufbewahrung von Daten in anderen Datensammlungen.
+## 4 Datenverantwortung, Informationssicherheit und Datenschutz
 
 #### Art. 13
 
-**Datenführung und -vernichtung in der ZPV**
+**Datenverantwortung**
 
-<sup>1</sup> Die zuständige Stelle der Finanzdirektion prüft mindestens alle fünf Jahre, ob für eine Person, deren Daten in der ZPV, nicht aber aktiv auf der GERES-Plattform geführt werden, weiterhin Gründe für eine Datenführung nach Artikel 5 Absatz 1 Buchstabe b, c oder d bestehen. Bestehen die Gründe nicht mehr, sind die Daten zehn Jahre nach der Prüfung von Amtes wegen in der ZPV zu vernichten.
+<sup>1</sup> Die Behörde, die nach der besonderen Gesetzgebung für die Erfassung und Aktualisierung von Personendaten zuständig ist, verantwortet die Richtigkeit und die Vollständigkeit der entsprechenden Merkmale in den zentralen Personendatensammlungen.
 
-<sup>2</sup> Seit zehn Jahren nicht mehr benötigte Daten nach Absatz 1 werden auf Gesuch hin in der ZPV vernichtet.
-
-<sup>3</sup> Die Vernichtung von Daten in der ZPV hat keinen Einfluss auf allfällige Verpflichtungen zur Führung oder Aufbewahrung von Daten in anderen Datensammlungen.
-
-## 5 Ausführungsbestimmungen des Regierungsrates
+<sup>2</sup> Der Regierungsrat kann vorsehen, dass das Einsichtsrecht nach Artikel 21 Absatz 4 KDSG in zentrale Personendatensammlungen durch die betroffene Person direkt und auf elektronischem Weg ausgeübt werden kann.
 
 #### Art. 14
 
-<sup>1</sup> Der Regierungsrat erlässt die nötigen Ausführungsbestimmungen, namentlich über
+**Informationssicherheit und Datenschutz**
 
-- a die elektronische Registerführung,
-- b die technischen Anforderungen an die Datenlieferung und die Schnittstellen,
-- c die Abruf- und Meldeverfahren,
-- d die Berechtigungen der einzelnen Stellen,
-- e die Informationssicherheit,
-- f die Abgeltung der Gemeinden,
-- g weitere Verfahren zum Abgleich der GERES-Plattform und der ZPV mit anderen elektronischen amtlichen Registern, um die Datenaktualität und -qualität zu gewährleisten,
-- h die Zertifizierung elektronischer Schnittstellen zu den harmonisierten Registern,
-- i die Zuständigkeiten für die Durchführung und Koordination der Registerharmonisierung durch den Kanton,
-- k die Durchführung der eidgenössischen Volkszählungen und anderer statistischer Erhebungen des Bundes im Kanton einschliesslich der Kostenregelung,
-- l die Erfassung und Nachführung der Daten gemäss Artikel 5 der eidgenössischen Verordnung vom 31. Mai 2000 über das eidgenössische Gebäude- und Wohnungsregister (GWR-VO)[^14-1]
-- m die physische Wohnungsnummerierung; er kann diese Befugnis ganz oder teilweise den Gemeinden übertragen.
-
-<sup>2</sup> Die Bestimmungen über die Informationssicherheit und den Datenschutz werden durch geeignete technische und organisatorische Massnahmen umgesetzt.
-
-[^14-1]: SR 431.841
-
-## 6 Übergangs- und Schlussbestimmungen
+<sup>1</sup> Jede Behörde, die eine zentrale Personendatensammlung betreibt, auf eine solche zugreift oder deren Personendaten in anderer Weise bearbeitet, ist in ihrem Herrschaftsbereich für die Informationssicherheit und den Datenschutz nach Massgabe der Datenschutz- und besonderen Gesetzgebung verantwortlich.
 
 #### Art. 15
 
-**Übergangsfrist**
+**Sperren und Einschränkungen der Datenbekanntgabe**
 
-<sup>1</sup> Die Gemeinden richten die elektronische Registerführung nach Artikel 2 und die Datenlieferung nach Artikel 3 bis spätestens am 31. Dezember 2008 ein.
+<sup>1</sup> Auskunfts- und Adresssperren nach Artikel 13 KDSG sowie Einschränkungen der Datenbekanntgabe nach Artikel 14 KDSG sind in den zentralen Personendatensammlungen umzusetzen.
 
-<sup>2</sup> Der Regierungsrat kann die Übergangsfrist erstrecken.
+<sup>2</sup> Die betroffene Person kann Sperren oder Einschränkungen der Datenbekanntgabe bei der zuständigen Behörde vornehmen oder löschen lassen.
 
 #### Art. 16
 
-**Änderung von Erlassen**
+**Datenvernichtung**
 
-<sup>1</sup> Folgende Erlasse werden geändert:
+<sup>1</sup> Personendaten, die gemäss Feststellung der verantwortlichen Behörde nach Artikel 13 nicht mehr in den zentralen Personendatensammlungen geführt werden dürfen, sind nach den Fristen der besonderen Gesetzgebung und den Verordnungen des Regierungsrates zur entsprechenden zentralen Personendatensammlung zu vernichten.
 
-- 1\. Gesetz vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizer (GNA)[^16-1]:
-- 2\. Datenschutzgesetz vom 19. Februar 1986[^16-2]:
-- 3\. Gesetz vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^16-3]:
-- 4\. Steuergesetz vom 21. Mai 2000 (StG)[^16-4]:
-
-[^16-1]: BSB 122.11
-[^16-2]: BSG 152.04
-[^16-3]: BSG 211.1
-[^16-4]: BSG 661.11
+## 5 Kosten für Fehlerbehebung und Datenlieferung
 
 #### Art. 17
+
+<sup>1</sup> Der Regierungsrat regelt, ob und nach welchen Kriterien der Aufwand, der durch die vorschriftswidrige Erfassung oder Veränderung von Personendaten verursacht worden ist, von der für den Betrieb verantwortlichen Organisationseinheit den Verursacherinnen und Verursachern in Rechnung gestellt wird.
+
+<sup>2</sup> Er regelt die Verrechnung der Kosten für die Nutzung der Informatik- und Telekommunikationsmittel der Kantonsverwaltung.
+
+<sup>3</sup> Er kann vorsehen, dass für die Lieferung von Personendaten an Behörden ausserhalb der zentralen Kantonsverwaltung Gebühren erhoben werden, wenn die Personendaten auch kommerziell genutzt werden.
+
+## 6 Registerwesen
+
+#### Art. 18
+
+**Elektronische Registerführung**
+
+<sup>1</sup> Der Kanton betreibt eine zentrale Personendatensammlung zur Erfüllung der Aufgaben gemäss dem RHG sowie dem Gesetz vom 12. September 1985 über Niederlassung und Aufenthalt der Schweizer (GNA)[^18-1].
+
+<sup>2</sup> Die zentrale Personendatensammlung enthält insbesondere auch diese besonders schützenswerten Personendaten:
+
+- a Konfession,
+- b Angaben über den persönlichen Geheimbereich, insbesondere den seelischen, geistigen und körperlichen Zustand,
+- c Ausweis- und Schriftensperre nach Artikel 237 Absatz 2 Buchstabe b der Schweizerischen Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordnung, StPO)[^18-2],
+- d Angaben zum Kindes- und Erwachsenenschutz,
+- e Angaben zum Haushalt,
+- f Funktionalitäten nach Artikel 7 Absatz 1 Buchstabe h.
+
+<sup>3</sup> Sie dient den Behörden auch für ihre weitere Erfüllung gesetzlicher Aufgaben.
+
+[^18-1]: BSG [122.11](https://www.belex.sites.be.ch/data/122.11/de)
+[^18-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
+
+#### Art. 19
+
+**Einwohnerregister**
+
+<sup>1</sup> Die Gemeinden führen das Einwohnerregister einschliesslich der Fremdenkontrolle sowie das Stimmregister elektronisch.
+
+<sup>2</sup> Der Regierungsrat kann hierfür durch Verordnung den Gemeinden Hard- und Software zur Verfügung stellen lassen oder vorsehen, dass sie bei der Registerführung technisch oder finanziell unterstützt werden.
+
+#### Art. 20
+
+**Datenlieferung durch die Gemeinden**
+
+<sup>1</sup> Die Gemeinden übermitteln die Personendaten ihrer Einwohnerregister laufend an die zentrale Personendatensammlung nach Artikel 18 Absatz 1.
+
+<sup>2</sup> Der Regierungsrat bezeichnet eine sichere Übermittlungsplattform, worüber die Datenlieferung zu erfolgen hat.
+
+<sup>3</sup> Er regelt die weiteren technischen, organisatorischen und finanziellen Einzelheiten durch Verordnung.
+
+#### Art. 21
+
+**Datenlieferung durch den Kanton**
+
+<sup>1</sup> Die vom Regierungsrat bezeichnete Behörde stellt sicher, dass die von der Bundesgesetzgebung bestimmten Personendaten an die zuständige Bundesbehörde übermittelt werden.
+
+<sup>2</sup> Der Regierungsrat regelt die technischen, organisatorischen und finanziellen Einzelheiten durch Verordnung.
+
+#### Art. 22
+
+**Meldung einer Person**
+
+<sup>1</sup> Wenn eine Person bei der Einwohnerkontrolle sie betreffende Daten ändern lässt, muss sie diese Änderung den kantonalen Behörden, die auf die entsprechenden Personendatensammlungen zugreifen können, nicht mehr melden. Bundesrechtliche Meldepflichten bleiben vorbehalten.
+
+<sup>2</sup> Die Einwohnerkontrolle teilt der betroffenen Person mit, welche Meldepflichten mit der Änderungsmeldung erfüllt sind.
+
+<sup>3</sup> Erhalten zuständige Behörden Kenntnis von einem meldepflichtigen Sachverhalt, fordern sie die betroffene Person mit angemessener Nachfrist zur Meldung auf.
+
+#### Art. 23
+
+**Datenvernichtung**
+
+<sup>1</sup> Personendaten, die gemäss Meldung der Gemeinde nicht mehr in den von der Meldepflicht betroffenen Registern geführt werden müssen, werden von der verantwortlichen Organisationseinheit spätestens fünf Jahre nach der Meldung der Gemeinde vernichtet.
+
+## 7 Übergangs- und Schlussbestimmungen
+
+#### Art. 24
+
+**Konkurrenz- und Übergangsbestimmung**
+
+<sup>1</sup> Artikel 5 Absatz 4 inklusive Anhang 1 geht abweichenden Bestimmungen anderer Gesetze über die Bearbeitung besonders schützenswerter Personendaten in zentralen Personendatensammlungen vor.
+
+<sup>2</sup> Absatz 1 gilt, bis besondere Gesetze die Bearbeitung besonders schützenswerter Personendaten in ihrem Anwendungsbereich abschliessend regeln.
+
+#### Art. 25
+
+**Änderung eines Erlasses**
+
+<sup>1</sup> Das Steuergesetz vom 21. Mai 2000 (StG)[^25-1] wird geändert.
+
+[^25-1]: BSG [661.11](https://www.belex.sites.be.ch/data/661.11/de)
+
+#### Art. 26
+
+**Aufhebung eines Erlasses**
+
+<sup>1</sup> Das Gesetz vom 28. November 2006 über die Harmonisierung amtlicher Register (RegG)[^26-1] wird aufgehoben.
+
+[^26-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+
+#### Art. 27
 
 **Inkrafttreten**
 
 <sup>1</sup> Der Regierungsrat bestimmt den Zeitpunkt des Inkrafttretens.
 
-Bern, 28. November 2006
+## 8 Anhang 1 zu Artikel 5 Absatz 4
+
+#### Art. A1-1
+
+<sup>1</sup> Die Daten, Datenkategorien und Funktionalitäten nach Artikel 5 Absatz 4 sind
+
+- a Konfession,
+- b Angaben über den persönlichen Geheimbereich, insbesondere den seelischen, geistigen und körperlichen Zustand,
+- c Ausweis- und Schriftensperre nach Artikel 237 Absatz 2 Buchstabe b StPO,
+- d Angaben zum Kindes- und Erwachsenenschutz,
+- e Angaben zum Haushalt,
+- f Funktionalitäten nach Artikel 7 Absatz 1 Buchstabe h.
+
+<sup>2</sup> Bei der Erfüllung der Aufgaben gemäss den nachfolgenden Gesetzen ist die Bearbeitung der aufgelisteten Daten, Datenkategorien und Funktionalitäten zulässig, sofern die Verhältnismässigkeit gewahrt bleibt (Art. 5 Abs. 3 KDSG):
+
+<table>
+<tr><th>Nr.</th><th>Gesetz</th><th>Daten, Datenkategorien und Funktionalitäten (Abs. 1)</th></tr>
+<tr><td>I.</td><td>Bundesgesetze</td><td></td></tr>
+<tr><td>1.</td><td>Schweizerische Zivilprozessordnung (Zivilprozessordnung, ZPO; SR 272)</td><td>a, d, e, f</td></tr>
+<tr><td>2.</td><td>Schweizerische Strafprozessordnung (Strafprozessordnung, StPO; SR 312.0)</td><td>a, c, d, e, f</td></tr>
+<tr><td>3.</td><td>Schweizerische Jugendstrafprozessordnung (Jugendstrafprozessordnung, JStPO; SR 312.1)</td><td>a, c, d, e, f</td></tr>
+<tr><td>4.</td><td>Bundesgesetz über die Armee und die Militärverwaltung (Militärgesetz, MG; SR 510.10)</td><td>c, d, e, f</td></tr>
+<tr><td>5.</td><td>Bundesgesetz über den Bevölkerungsschutz und den Zivilschutz (Bevölkerungs- und Zivilschutzgesetz, BZG; SR 520.1)</td><td>d, e, f</td></tr>
+<tr><td>6.</td><td>Bundesgesetz über die Wehrpflichtersatzabgabe (WPEG; SR 661)</td><td>c, d</td></tr>
+<tr><td>7.</td><td>Bundesgesetz über die Registrierung von Krebserkrankungen (Krebsregistrierungsgesetz, KRG; SR 818.33)</td><td>d, f</td></tr>
+<tr><td>8.</td><td>Bundesgesetz über die Invalidenversicherung (IVG; SR 831.20)</td><td>d, f</td></tr>
+<tr><td>9.</td><td>Bundesgesetz über die Krankenversicherung (KVG; SR 832.10)</td><td>d, f</td></tr>
+<tr><td>10.</td><td>Bundesgesetz über die Unfallversicherung (UVG; SR 832.20)</td><td>d, f</td></tr>
+<tr><td>II.</td><td>Gesetze Kanton Bern</td><td></td></tr>
+<tr><td>1.</td><td>Gesetz über das Kantons- und Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, KBüG; BSG 121.1)</td><td>c, d, e, f</td></tr>
+<tr><td>2.</td><td>Gesetz über Niederlassung und Aufenthalt der Schweizer (GNA; BSG122.11)</td><td>a, c, d, e, f</td></tr>
+<tr><td>3.</td><td>Gesetz über die politischen Rechte (PRG; BSG 141.1)</td><td>f</td></tr>
+<tr><td>4.</td><td>Gesetz über die Regierungsstatthalterinnen und Regierungsstatthalter (RStG; BSG 152.321)</td><td>d, e, f</td></tr>
+<tr><td>5.</td><td>Personalgesetz (PG; BSG 153.01)</td><td>a, b, d, f</td></tr>
+<tr><td>6.</td><td>Gesetz über die Organisation der Gerichtsbehörden und der Staatsanwaltschaft (GSOG; BSG 161.1)</td><td>a, c, d, e, f</td></tr>
+<tr><td>7.</td><td>Gesetz betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB; BSG 211.1)</td><td>d, e, f</td></tr>
+<tr><td>8.</td><td>Gesetz über den Kindes- und Erwachsenenschutz (KESG; BSG 213.316)</td><td>b, d, e, f</td></tr>
+<tr><td>9.</td><td>Einführungsgesetz zum Bundesgesetz vom 16. Dezember 1983 über den Erwerb von Grundstücken durch Personen im Ausland (EG BewG; BSG 215.126.1)</td><td>d, e, f</td></tr>
+<tr><td>10.</td><td>Gesetz betreffend die Handänderungssteuer (HG; BSG 215.326.2)</td><td>f</td></tr>
+<tr><td>11.</td><td>Kantonales Geoinformationsgesetz (KGeolG; BSG 215.341)</td><td>f</td></tr>
+<tr><td>12.</td><td>Einführungsgesetz zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ; BSG 271.1)</td><td>a, c, d, e, f</td></tr>
+<tr><td>13.</td><td>Gesetz über den Justizvollzug (Justizvollzugsgesetz, JVG; BSG 341.1)</td><td>c, d, e, f</td></tr>
+<tr><td>14.</td><td>Gesetz über die bernischen Landeskirchen (Landeskirchengesetz, LKG; BSG 410.11)</td><td>a, d, f</td></tr>
+<tr><td>15.</td><td>Volksschulgesetz (VSG; BSG 432.210)</td><td>d, e, f</td></tr>
+<tr><td>16.</td><td>Mittelschulgesetz (MiSG; BSG 433.12)</td><td>d, e</td></tr>
+<tr><td>17.</td><td>Gesetz über die Berufsbildung, die Weiterbildung und die Berufsberatung (BerG; BSG 435.11)</td><td>d, e</td></tr>
+<tr><td>18.</td><td>Gesetz über die Ausbildungsbeiträge (ABG; BSG 438.31)</td><td>d</td></tr>
+<tr><td>19.</td><td>Kantonales Bevölkerungsschutz- und Zivilschutzgesetz (KBZG; BSG 521.1)</td><td>d, f</td></tr>
+<tr><td>20.</td><td>Polizeigesetz (PolG; BSG 551.1)</td><td>c, d, e, f</td></tr>
+<tr><td>21.</td><td>Gesetz über die Steuerung von Finanzen und Leistungen (FLG; BSG 620.0)</td><td>f</td></tr>
+<tr><td>22.</td><td>Gesetz über die Finanzkontrolle (Kantonales Finanzkontrollgesetz, KFKG; BSG 622.1)</td><td>a, b, d, e, f</td></tr>
+<tr><td>23.</td><td>Steuergesetz (StG; BSG 661.11)</td><td>a, c, d, e, f</td></tr>
+<tr><td>24.</td><td>Gesetz über See- und Flussufer (See- und Flussufergesetz, SFG; BSG 704.1)</td><td>f</td></tr>
+<tr><td>25.</td><td>Baugesetz (BauG; BSG 721.0)</td><td>f</td></tr>
+<tr><td>26.</td><td>Strassengesetz (SG; BSG 732.11)</td><td>f</td></tr>
+<tr><td>27.</td><td>Gesetz über Gewässerunterhalt und Wasserbau (Wasserbaugesetz, WBG; BSG 751.11)</td><td>f</td></tr>
+<tr><td>28.</td><td>Spitalversorgungsgesetz (SpVG; BSG 812.11)</td><td>d, f</td></tr>
+<tr><td>29.</td><td>Kantonales Gewässerschutzgesetz (KGSchG; BSG 821.0)</td><td>f</td></tr>
+<tr><td>30.</td><td>Gesetz über die Abfälle (Abfallgesetz, AbfG; BSG 822.1)</td><td>f</td></tr>
+<tr><td>31.</td><td>Gesetz über die Familienzulagen (KFamZG; BSG 832.71)</td><td>d, f</td></tr>
+<tr><td>32.</td><td>Einführungsgesetz zum Bundesgesetz über die Alters- und Hinterlassenenversicherung (EG AHVG; BSG 841.11)</td><td>d, f</td></tr>
+<tr><td>33.</td><td>Einführungsgesetz zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung (EG ELG; BSG 841.31)</td><td>d, f</td></tr>
+<tr><td>34.</td><td>Gesetz betreffend die Einführung der Bundesgesetze über die Kranken-, die Unfall- und die Militärversicherung (EG KUMV; BSG 842.11)</td><td>d, e, f</td></tr>
+<tr><td>35.</td><td>Gesetz über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG; BSG 860.1)</td><td>d, e, f</td></tr>
+<tr><td>36.</td><td>Feuerschutz- und Feuerwehrgesetz (FFG; BSG 871.11)</td><td>d, e, f</td></tr>
+<tr><td>37.</td><td>Kantonales Landwirtschaftsgesetz (KLwG; BSG 910.1)</td><td>d, e, f</td></tr>
+<tr><td>38.</td><td>Hundegesetz (BSG 916.31)</td><td>d, e</td></tr>
+<tr><td>39.</td><td>Gesetz über Jagd und Wildtierschutz (JWG; BSG 922.11)</td><td>f</td></tr>
+<tr><td>40.</td><td>Gastgewerbegesetz (GGG; BSG 935.11)</td><td>d, e, f</td></tr>
+<tr><td>41.</td><td>Einführungsgesetz zum Ausländer- und Integrationsgesetz sowie zum Asylgesetz (EG AIG und AsylG; BSG 122.20)</td><td>c, d, e, f</td></tr>
+</table>
+
+Bern, 10. März 2020
 
 Im Namen des Grossen Rates
 
-Der Präsident: Lüthi
+Der Präsident: Zaugg-Graf
 
-Der Vizestaatsschreiber: Krähenbühl
+Der Generalsekretär: Trees
 
-RRB Nr. 817 vom 9. Mai 2007:
+Auszug aus dem Protokoll des Regierungsrates vom 12. August 2020
 
-Inkraftsetzung auf den 1. Juli 2007
+Der Regierungsrat stellt fest, dass vom Referendumsrecht zum Gesetz über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG) innerhalb der festgesetzten Frist kein Gebrauch gemacht worden ist.
 
-Vom Eidgenössischen Departement des Innern zur Kenntnis genommen am 5. Dezember 2007.
+Das Gesetz ist in die Bernische Amtliche Gesetzessammlung aufzunehmen.
 
-07-50
+Für getreuen Protokollauszug
+
+Der Staatsschreiber: Auer
+
+RRB Nr. 53 vom 20. Januar 2021:
+
+Inkraftsetzung auf den 1. März 2021
+
+21-005
