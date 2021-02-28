@@ -4,13 +4,13 @@ number: "152.221.171"
 title: "Ordonnance sur l'organisation et les tâches de la Direction des finances"
 short: "Ordonnance d'organisation FIN, OO FIN"
 language: fr
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-20
+version: 2021-03-01
+valid_until: 2021-04-30
+version_adopted: 2021-01-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1779/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2147/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1779/pdf_file"
 
 (Ordonnance d'organisation FIN, OO FIN)
 
-du 18.10.1995 (état au 01.01.2020)
+du 18.10.1995 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -242,7 +242,7 @@ arrête:
 
 - a dans le domaine des TIC: conformément à l'ordonnance du 24 janvier 2018 sur les technologies de l'information et de la communication de l'administration (OTIC)[^11-1],
 - b dans le domaine des marchés publics: conformément à l'ordonnance du 5 novembre 2014 sur l’organisation des marchés publics (OOMP)[^11-2],
-- c dans le domaine des registres officiels: conformément à la loi du 28 novembre 2006 sur l'harmonisation des registres officiels (LReg)[^11-3].
+- c dans le domaine des registres officiels: conformément à la loi du 10 mars 2020 sur les fichiers centralisés de données personnelles (LFDP)[^11-3] et à l'ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^11-4].
 
 <sup>3</sup> Il assume en outre les tâches suivantes:
 
@@ -254,6 +254,7 @@ arrête:
 [^11-1]: RSB [152.042](https://www.belex.sites.be.ch/data/152.042/fr)
 [^11-2]: RSB [731.22](https://www.belex.sites.be.ch/data/731.22/fr)
 [^11-3]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+[^11-4]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
 
 #### Art. 12–13
 

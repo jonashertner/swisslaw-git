@@ -4,13 +4,13 @@ number: "152.221.171"
 title: Verordnung über die Organisation und die Aufgaben der Finanzdirektion
 short: Organisationsverordnung FIN; OrV FIN
 language: de
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-20
+version: 2021-03-01
+valid_until: 2021-04-30
+version_adopted: 2021-01-20
 adopted: 1995-10-18
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.171"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1779/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1779/pdf_file"
 
 (Organisationsverordnung FIN; OrV FIN)
 
-vom 18.10.1995 (Stand 01.01.2020)
+vom 18.10.1995 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -242,7 +242,7 @@ beschliesst:
 
 - a im Bereich ICT: gemäss der Verordnung vom 24. Januar 2018 über die Informations-und Telekommunikationstechnik der Verwaltung (ICTV)[^11-1],
 - b im Bereich des öffentlichen Beschaffungswesens: gemäss der Verordnung vom 5. November 2014 über die Organisation des öffentlichen Beschaffungswesens (OÖBV)[^11-2],
-- c im Bereich der amtlichen Register: gemäss dem Gesetz vom 28. November 2006 über die Harmonisierung amtlicher Register (RegG)[^11-3].
+- c im Bereich der amtlichen Register: gemäss dem Gesetz vom 10. März 2020 über die zentralen Personendatensammlungen (Personendatensammlungsgesetz, PDSG)[^11-3] und der Verordnung vom 20. Januar 2021 über die Gemeinderegistersysteme-Plattform (GERES V)[^11-4].
 
 <sup>3</sup> Zudem erfüllt es folgende Aufgaben:
 
@@ -254,6 +254,7 @@ beschliesst:
 [^11-1]: BSG [152.042](https://www.belex.sites.be.ch/data/152.042/de)
 [^11-2]: BSG [731.22](https://www.belex.sites.be.ch/data/731.22/de)
 [^11-3]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+[^11-4]: BSG [152.051](https://www.belex.sites.be.ch/data/152.051/de)
 
 #### Art. 12–13
 
