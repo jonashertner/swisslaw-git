@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "862.61"
-title: Verordnung über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits- und Fürsorgedirektion
+title: "Verordnung über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion"
 short: PSIV
 language: de
-version: 2019-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2006-02-08
 in_force: 2006-04-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.61"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1543/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits- und Fürsorgedirektion
+# Verordnung über die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion
 
 (PSIV)
 
-vom 08.02.2006 (Stand 01.01.2019)
+vom 08.02.2006 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Rechtsstellung**
 
-<sup>1</sup> Die folgenden Institutionen sind als kantonale pädagogische und sozialpädagogische Institutionen der Gesundheits- und Fürsorgedirektion Organisationseinheiten der Gesundheits- und Fürsorgedirektion:
+<sup>1</sup> Die folgenden Institutionen sind als kantonale pädagogische und sozialpädagogische Institutionen der Gesundheits-, Sozial- und Integrationsdirektion Organisationseinheiten der Gesundheits-, Sozial- und Integrationsdirektion:
 
 - a Pädagogisches Zentrum für Hören und Sprache Münchenbuchsee (HSM),
 - b Schulheim Schloss Erlach (SHE),
@@ -54,7 +54,7 @@ beschliesst:
 
 <sup>2</sup> Das HSM bezweckt die heilpädagogische Schulung und sozialpädagogische Betreuung sprach- oder hörbehinderter Kinder und Jugendlicher und die Führung des audiopädagogischen Dienstes.
 
-<sup>3</sup> Die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits- und Fürsorgedirektion (Institutionen) erbringen als Kompetenzzentren stationäre und ambulante Leistungen.
+<sup>3</sup> Die kantonalen pädagogischen und sozialpädagogischen Institutionen der Gesundheits-, Sozial- und Integrationsdirektion (Institutionen) erbringen als Kompetenzzentren stationäre und ambulante Leistungen.
 
 #### Art. 3
 
@@ -68,7 +68,7 @@ beschliesst:
 
 ## 2 Aufsicht
 
-### 2.1 Gesundheits- und Fürsorgedirektion
+### 2.1 Gesundheits-, Sozial- und Integrationsdirektion
 
 #### Art. 4
 
@@ -76,13 +76,13 @@ beschliesst:
 
 <sup>1</sup> Die Institutionen stehen unter der Oberaufsicht des Alters- und Behindertenamts.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektorin oder der Gesundheits- und Fürsorgedirektor
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor
 
 - a stellt dem Regierungsrat Antrag auf Begründung des Anstellungsverhältnisses der Gesamtleiterinnen und Gesamtleiter,
 - b ernennt die Mitglieder der Heimkommissionen,
 - c genehmigt auf Antrag der Heimkommission das Organisations- und Geschäftsreglement, das Organigramm, das Leitbild und das Konzept der Institution, das Reglement der Heimkommission sowie die Stellenbeschreibung der Gesamtleiterin oder des Gesamtleiters der Institution,
 - d genehmigt den Budgetvorschlag und die Jahresrechnung,
-- e steuert das Leistungsangebot im Rahmen der Leistungsvereinbarung zwischen den Institutionen und der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor.
+- e steuert das Leistungsangebot im Rahmen der Leistungsvereinbarung zwischen den Institutionen und der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor.
 
 <sup>3</sup> Das Alters- und Behindertenamt behandelt aufsichtsrechtliche Anzeigen gegen Organe der Institutionen
 
@@ -94,7 +94,7 @@ beschliesst:
 
 <sup>1</sup> Für jede Institution besteht eine Heimkommission von fünf bis neun Mitgliedern.
 
-<sup>2</sup> Sie ist vorgesetzte Behörde der Gesamtleiterin oder des Gesamtleiters der Institution und besitzt gegenüber der Gesundheits- und Fürsorgedirektion ein Antragsrecht.
+<sup>2</sup> Sie ist vorgesetzte Behörde der Gesamtleiterin oder des Gesamtleiters der Institution und besitzt gegenüber der Gesundheits-, Sozial- und Integrationsdirektion ein Antragsrecht.
 
 <sup>3</sup> Die Mitglieder der Kommission haben das Recht, Einsicht in die zur Wahrnehmung ihrer Aufgaben benötigten Akten zu nehmen, und sie haben Zutritt zu den Räumlichkeiten der Institution.
 
@@ -108,20 +108,20 @@ beschliesst:
 
 <sup>2</sup> Die Kommission
 
-- a erarbeitet das Kommissionsreglement und stellt der Gesundheits- und Fürsorgedirektion Antrag auf dessen Genehmigung,
-- b genehmigt zuhanden der Gesundheits- und Fürsorgedirektorin oder des Gesundheits- und Fürsorgedirektors das Organisations- und Geschäftsreglement, das Organigramm, das Leitbild und das Konzept der Institution,
-- c genehmigt zuhanden der Gesundheits- und Fürsorgedirektion den Budgetvorschlag,
+- a erarbeitet das Kommissionsreglement und stellt der Gesundheits-, Sozial- und Integrationsdirektion Antrag auf dessen Genehmigung,
+- b genehmigt zuhanden der Gesundheits-, Sozial- und Integrationsdirektorin oder des Gesundheits-, Sozial- und Integrationsdirektors das Organisations- und Geschäftsreglement, das Organigramm, das Leitbild und das Konzept der Institution,
+- c genehmigt zuhanden der Gesundheits-, Sozial- und Integrationsdirektion den Budgetvorschlag,
 - d nimmt Kenntnis von der Jahresrechnung,
-- e erarbeitet die Stellenbeschreibung der Gesamtleiterin oder des Gesamtleiters der Institution und stellt der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor Antrag auf deren Genehmigung,
-- f unterbreitet der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor einen Zweiervorschlag für die Anstellung der Gesamtleiterinnen und Gesamtleiter mit ihrer Stellungnahme,
+- e erarbeitet die Stellenbeschreibung der Gesamtleiterin oder des Gesamtleiters der Institution und stellt der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor Antrag auf deren Genehmigung,
+- f unterbreitet der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor einen Zweiervorschlag für die Anstellung der Gesamtleiterinnen und Gesamtleiter mit ihrer Stellungnahme,
 - g ernennt die Stellvertreterin oder den Stellvertreter der Gesamtleiterin oder des Gesamtleiters auf deren oder dessen Antrag hin,
-- h unterstützt und berät die Gesamtleiterin oder den Gesamtleiter der Institution in Fragen, welche die Leitung der Institution, den pädagogischen Auftrag und die Administration betreffen und nimmt zuhanden der Gesundheits- und Fürsorgedirektion Stellung zu Geschäften aus diesen Bereichen,
+- h unterstützt und berät die Gesamtleiterin oder den Gesamtleiter der Institution in Fragen, welche die Leitung der Institution, den pädagogischen Auftrag und die Administration betreffen und nimmt zuhanden der Gesundheits-, Sozial- und Integrationsdirektion Stellung zu Geschäften aus diesen Bereichen,
 - i qualifiziert periodisch die Gesamtleiterin oder den Gesamtleiter der Institution,
 - j vermittelt bei Konflikten,
-- k vertritt die Institution nach aussen, soweit diese Aufgabe nicht der Gesamtleiterin oder dem Gesamtleiter der Institution delegiert wird oder in den Zuständigkeitsbereich der Gesundheits- und Fürsorgedirektion fällt,
-- l erarbeitet und unterzeichnet gemeinsam mit der Gesamtleiterin oder dem Gesamtleiter der Institution die Leistungsvereinbarung zwischen der Institution und der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor.
+- k vertritt die Institution nach aussen, soweit diese Aufgabe nicht der Gesamtleiterin oder dem Gesamtleiter der Institution delegiert wird oder in den Zuständigkeitsbereich der Gesundheits-, Sozial- und Integrationsdirektion fällt,
+- l erarbeitet und unterzeichnet gemeinsam mit der Gesamtleiterin oder dem Gesamtleiter der Institution die Leistungsvereinbarung zwischen der Institution und der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor.
 
-<sup>3</sup> Die Heimkommission stellt Antrag an die Gesundheits- und Fürsorgedirektion für die Bereitstellung und die Sanierung von Bauten und Anlagen.
+<sup>3</sup> Die Heimkommission stellt Antrag an die Gesundheits-, Sozial- und Integrationsdirektion für die Bereitstellung und die Sanierung von Bauten und Anlagen.
 
 #### Art. 7
 
@@ -129,7 +129,7 @@ beschliesst:
 
 <sup>1</sup> Als Mitglieder wählbar sind Fachpersonen sowie Vertreterinnen und Vertreter der Standortregion und weitere geeignete Personen. Beide Geschlechter sind angemessen vertreten.
 
-<sup>2</sup> Die Präsidentin oder der Präsident und die Mitglieder der Heimkommission werden von der Gesundheits- und Fürsorgedirektorin oder vom Gesundheits- und Fürsorgedirektor für eine Amtsdauer von vier Jahren gewählt. Im Übrigen konstituiert sich die Kommission selbst.
+<sup>2</sup> Die Präsidentin oder der Präsident und die Mitglieder der Heimkommission werden von der Gesundheits-, Sozial- und Integrationsdirektorin oder vom Gesundheits-, Sozial- und Integrationsdirektor für eine Amtsdauer von vier Jahren gewählt. Im Übrigen konstituiert sich die Kommission selbst.
 
 #### Art. 8
 
@@ -171,9 +171,9 @@ beschliesst:
 
 <sup>1</sup> Die Gesamtleiterin oder der Gesamtleiter der Institution ist für die operative Führung der Institution verantwortlich.
 
-<sup>2</sup> Gemeinsam mit der Heimkommission erarbeitet sie oder er die Leistungsvereinbarung zwischen der Institution und der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor und unterzeichnet diese gemeinsam mit der Präsidentin oder dem Präsidenten der Heimkommission.
+<sup>2</sup> Gemeinsam mit der Heimkommission erarbeitet sie oder er die Leistungsvereinbarung zwischen der Institution und der Gesundheits-, Sozial- und Integrationsdirektorin oder dem Gesundheits-, Sozial- und Integrationsdirektor und unterzeichnet diese gemeinsam mit der Präsidentin oder dem Präsidenten der Heimkommission.
 
-<sup>3</sup> Die Gesamtleiterin oder der Gesamtleiter der Institution erarbeitet zuhanden der Heimkommission
+<sup>3</sup> Sie oder er erarbeitet zuhanden der Heimkommission
 
 - a das Organisations- und Geschäftsreglement, das Organigramm, das Leitbild und das Konzept der Institution,
 - b den Budgetvorschlag.
@@ -204,11 +204,11 @@ beschliesst:
 
 **Beschwerde, Verfahren**
 
-<sup>1</sup> Verfügungen der Gesamtleiterin oder des Gesamtleiters einer Institution können mit Beschwerde bei der Gesundheits- und Fürsorgedirektion angefochten werden.
+<sup>1</sup> Verfügungen der Gesamtleiterin oder des Gesamtleiters einer Institution können mit Beschwerde bei der Gesundheits-, Sozial- und Integrationsdirektion angefochten werden.
 
-<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege[^14-1].
+<sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^14-1].
 
-[^14-1]: BSG 155.21
+[^14-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 5 Übergangs- und Schlussbestimmungen
 

@@ -1,25 +1,25 @@
 ---
 canton: BE
 number: "862.61"
-title: "Ordonnance sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé publique et de la prévoyance sociale *"
+title: "Ordonnance sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l’intégration *"
 short: "Ordonnance sur les institutions pédagogiques, OIPS"
 language: fr
-version: 2019-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2006-02-08
 in_force: 2006-04-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.61"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1543/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2132/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé publique et de la prévoyance sociale
+# Ordonnance sur les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l’intégration
 
 (Ordonnance sur les institutions pédagogiques, OIPS)
 
-du 08.02.2006 (état au 01.01.2019)
+du 08.02.2006 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -38,13 +38,13 @@ arrête:
 
 **Statut juridique**
 
-<sup>1</sup> Les institutions pédagogiques et socio-pédagogiques cantonales ci-dessous sont des unités administratives de la Direction de la santé publique et de la prévoyance sociale du canton de Berne:
+<sup>1</sup> Les institutions pédagogiques et socio-pédagogiques cantonales ci-dessous sont des unités administratives de la Direction de la santé, des affaires sociales et de l’intégration du canton de Berne:
 
 - a Centre pédagogique de logopédie et d’entraînement auditif de Münchenbuchsee (CPLEAM),
 - b Foyer scolaire du Château de Cerlier (FSCC),
 - c Centre de pédagogie spécialisée Landorf Köniz – Schlössli Kehrsatz (CPSKK).
 
-<sup>2</sup> Ils sont rattachés administrativement à l'Office des personnes âgées et handicapées.
+<sup>2</sup> Elles sont rattachées administrativement à l'Office des personnes âgées et des personnes handicapées.
 
 #### Art. 2
 
@@ -54,7 +54,7 @@ arrête:
 
 <sup>2</sup> Le CPLEAM assure l'encadrement sociopédagogique et le soutien pédagogique spécialisé d'enfants et d'adolescents présentant des troubles du langage ou de l'audition, ainsi que la conduite du service audiopédagogique du canton de Berne.
 
-<sup>3</sup> En leur qualité de centres de compétences, les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé publique et de la prévoyance sociale du canton de Berne (ci-après institutions), fournissent des prestations de type résidentiel et ambulatoire.
+<sup>3</sup> En leur qualité de centres de compétences, les institutions pédagogiques et socio-pédagogiques cantonales de la Direction de la santé, des affaires sociales et de l’intégration du canton de Berne (ci-après institutions), fournissent des prestations de type résidentiel et ambulatoire.
 
 #### Art. 3
 
@@ -68,23 +68,23 @@ arrête:
 
 ## 2 Surveillance
 
-### 2.1 Direction de la santé publique et de la prévoyance sociale
+### 2.1 Direction de la santé, des affaires sociales et de l’intégration
 
 #### Art. 4
 
 **Surveillance**
 
-<sup>1</sup> Les institutions sont placées sous la haute surveillance de l'Office des personnes âgées et handicapées.
+<sup>1</sup> Les institutions sont placées sous la haute surveillance de l'Office des personnes âgées et des personnes handicapées.
 
-<sup>2</sup> Le directeur ou la directrice de la santé publique et de la prévoyance sociale
+<sup>2</sup> Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration
 
 - a propose au Conseil-exécutif la nomination des directeurs ou des directrices;
 - b nomme les membres des comités;
 - c approuve, sur proposition du comité, le règlement, l'organigramme, le plan directeur et le programme de l'institution ainsi que le règlement du comité et la description du poste de directeur ou de directrice;
 - d approuve le budget et les comptes annuels;
-- e pilote les prestations dans le cadre des conventions que le directeur ou la directrice de la santé publique et de la prévoyance sociale conclut avec les institutions.
+- e pilote les prestations dans le cadre des conventions que le directeur ou la directrice de la santé, des affaires sociales et de l’intégration conclut avec les institutions.
 
-<sup>3</sup> L'Office des personnes âgées et handicapées traite les dénonciations faites à l'autorité de surveillance contre les organes des institutions.
+<sup>3</sup> L'Office des personnes âgées et des personnes handicapées traite les dénonciations faites à l'autorité de surveillance contre les organes des institutions.
 
 ### 2.2 Comité
 
@@ -94,7 +94,7 @@ arrête:
 
 <sup>1</sup> Un comité composé de cinq à neuf membres est constitué pour chaque institution.
 
-<sup>2</sup> Il constitue l'autorité supérieure des institutions et est habilité à soumettre des propositions à la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Il constitue l'autorité supérieure des institutions et est habilité à soumettre des propositions à la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>3</sup> Les membres du comité ont accès aux locaux de l'institution et aux dossiers nécessaires à l'accomplissement de leurs tâches.
 
@@ -108,20 +108,20 @@ arrête:
 
 <sup>2</sup> Le comité
 
-- a élabore son règlement intérieur et le soumet pour approbation à la Direction de la santé publique et de la prévoyance sociale,
-- b approuve le règlement, l'organigramme, le plan directeur et le programme de l'institution, à l’intention du directeur ou de la directrice de la santé publique et de la prévoyance sociale,
-- c approuve le budget à l'intention de la Direction de la santé publique et de la prévoyance sociale,
+- a élabore son règlement intérieur et le soumet pour approbation à la Direction de la santé, des affaires sociales et de l’intégration,
+- b approuve le règlement, l'organigramme, le plan directeur et le programme de l'institution, à l’intention du directeur ou de la directrice de la santé, des affaires sociales et de l’intégration,
+- c approuve le budget à l'intention de la Direction de la santé, des affaires sociales et de l’intégration,
 - d prend connaissance des comptes annuels,
-- e élabore la description du poste de directeur ou de directrice de l’institution et la soumet pour approbation au directeur ou à la directrice de la santé publique et de la prévoyance sociale,
-- f soumet au directeur ou à la directrice de la santé publique et de la prévoyance sociale deux propositions pour la nomination du directeur ou de la directrice de chaque institution ainsi que sa prise de position,
+- e élabore la description du poste de directeur ou de directrice de l’institution et la soumet pour approbation au directeur ou à la directrice de la santé, des affaires sociales et de l’intégration,
+- f soumet au directeur ou à la directrice de la santé, des affaires sociales et de l’intégration deux propositions pour la nomination du directeur ou de la directrice de chaque institution ainsi que sa prise de position,
 - g nomme le suppléant ou la suppléante du directeur ou de la directrice sur proposition de ce dernier ou de cette dernière,
-- h soutient et conseille la direction de l'établissement pour toute question relative à la conduite de l'institution, au mandat pédagogique ou à l'administration, et rend un avis à l'intention de la Direction de la santé publique et de la prévoyance sociale sur les affaires relevant des domaines précités,
+- h soutient et conseille la direction de l'établissement pour toute question relative à la conduite de l'institution, au mandat pédagogique ou à l'administration, et rend un avis à l'intention de la Direction de la santé, des affaires sociales et de l’intégration sur les affaires relevant des domaines précités,
 - i évalue périodiquement la direction de l'institution,
 - j assume le rôle de médiateur en cas de conflit,
-- k représente l’institution auprès de tiers, pour autant que cette tâche n’ait pas été déléguée au directeur ou à la directrice ou qu’elle ne relève pas des compétences de la Direction de la santé publique et de la prévoyance sociale,
-- l élabore et signe, avec le directeur ou la directrice, les conventions de prestations que le directeur ou la directrice de la santé publique et de la prévoyance sociale conclut avec les institutions.
+- k représente l’institution auprès de tiers, pour autant que cette tâche n’ait pas été déléguée au directeur ou à la directrice ou qu’elle ne relève pas des compétences de la Direction de la santé, des affaires sociales et de l’intégration,
+- l élabore et signe, avec le directeur ou la directrice, les conventions de prestations que le directeur ou la directrice de la santé, des affaires sociales et de l’intégration conclut avec les institutions.
 
-<sup>3</sup> Le comité fait des propositions à la Direction de la santé publique et de la prévoyance sociale concernant la mise à disposition et l'assainissement des bâtiments et des équipements.
+<sup>3</sup> Le comité fait des propositions à la Direction de la santé, des affaires sociales et de l’intégration concernant la mise à disposition et l'assainissement des bâtiments et des équipements.
 
 #### Art. 7
 
@@ -129,7 +129,7 @@ arrête:
 
 <sup>1</sup> Peuvent être nommés au comité, selon un quota assurant un nombre équitable d'hommes et de femmes, des spécialistes, des représentants et des représentantes de la région dans laquelle se trouvent les foyers scolaires et l'Ecole de logopédie ainsi que d'autres personnes compétentes.
 
-<sup>2</sup> Le président ou la présidente ainsi que les membres du comité sont nommés par le directeur ou la directrice de la santé publique et de la prévoyance sociale pour une durée de quatre ans. Pour le reste, le comité se constitue lui-même.
+<sup>2</sup> Le président ou la présidente ainsi que les membres du comité sont nommés par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration pour une durée de quatre ans. Pour le reste, le comité se constitue lui-même.
 
 #### Art. 8
 
@@ -171,7 +171,7 @@ arrête:
 
 <sup>1</sup> La direction assure la conduite opérationnelle des institutions.
 
-<sup>2</sup> Elle élabore, conjointement avec le comité, la convention de prestations conclue avec le directeur ou la directrice de la santé publique et de la prévoyance sociale, et la cosigne avec le président ou la présidente du comité.
+<sup>2</sup> Elle élabore, conjointement avec le comité, la convention de prestations conclue avec le directeur ou la directrice de la santé, des affaires sociales et de l’intégration, et la cosigne avec le président ou la présidente du comité.
 
 <sup>3</sup> Elle élabore à l'intention du comité
 
@@ -204,11 +204,11 @@ arrête:
 
 **Recours, procédure**
 
-<sup>1</sup> Les décisions prises par la direction des institutions peuvent donner lieu à un recours auprès de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les décisions prises par la direction des institutions peuvent donner lieu à un recours auprès de la Direction de la santé, des affaires sociales et de l’intégration.
 
-<sup>2</sup> La procédure est définie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives[^14-1].
+<sup>2</sup> La procédure est définie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^14-1].
 
-[^14-1]: RSB 155.21
+[^14-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 5 Dispositions transitoires et dispositions finales
 
