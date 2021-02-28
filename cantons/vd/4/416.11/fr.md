@@ -4,7 +4,7 @@ number: "416.11"
 title: LOI du 01.07.2014 sur l’aide aux études et à la formation professionnelle (LAEF)
 short: LAEF
 language: fr
-version: 2021-01-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.11?id=f639ccbd-15e3-4ec1-9f24-482f7edac40d"
 ---
 
@@ -18,15 +18,16 @@ du 1 juillet 2014
 
 LE GRAND CONSEIL DU CANTON DE VAUD
 
-vu l'article 66 de la Constitution fédérale
+vu l'article 66 de la Constitution fédérale[^ingress-1]
 
-vu l'Accord intercantonal du 18 juin 2009 sur l'harmonisation des régimes de bourses d'études[^ingress-1]
+vu l'Accord intercantonal du 18 juin 2009 sur l'harmonisation des régimes de bourses d'études[^ingress-2]
 
 vu le projet de loi présenté par le Conseil d'Etat
 
 décrète
 
-[^ingress-1]: Accord intercantonal du 18.06.2009 sur l'harmonisation des régimes de bourses d'études ([BLV 416.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.91?id=b0d54ea9-cd47-4eef-b185-9d1fd209ea7f))
+[^ingress-1]: [Constitution fédérale de la Confédération suisse du 18.04.1999, RS 101](https://www.admin.ch/opc/fr/classified-compilation/19995395/index.html)
+[^ingress-2]: Accord intercantonal du 18.06.2009 sur l'harmonisation des régimes de bourses d'études ([BLV 416.91](https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.91?id=b0d54ea9-cd47-4eef-b185-9d1fd209ea7f))
 
 ## Chapitre I Généralités
 
@@ -213,17 +214,21 @@ décrète
 
 <sup>1</sup> Sauf circonstances particulières, l'aide financière de l'Etat ne s'étend pas au-delà de la durée minimale prévue par la réglementation applicable à la formation suivie prolongée de deux semestres.
 
+<sup>1bis</sup> Le Conseil d'Etat peut prévoir la possibilité de déroger à la durée minimale prévue par la réglementation applicable à la formation. Il édicte les dispositions nécessaires à cet effet.
+
 <sup>2</sup> Dans les cas de formation à temps partiel, la durée du droit à une allocation est prolongée en conséquence.
 
 <sup>3</sup> En cas de circonstances particulières au sens du premier alinéa, seule une allocation sous forme de prêt peut être octroyée.
 
-[^16-2]: Modif. 3 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Art. 18, Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Art. 39, Al. 3; entrée en vigueur au 01.03.2021
+[^16-2]: Modif. 3 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1bis; entrée en vigueur au 01.03.2021
 
 #### Art. 18
 
 **b) Absolue [^17-1]**
 
 <sup>1</sup> Une allocation sous forme de bourse ne peut être octroyée pour une formation ou part de formation entreprise ou poursuivie après une durée totale de dix années de formation postobligatoire.
+
+<sup>1bis</sup> Le Conseil d'Etat peut prévoir la possibilité de déroger à la durée totale de dix ans. Il édicte les dispositions nécessaires à cet effet.
 
 <sup>2</sup> Sont réservés les cas de :
 
@@ -232,7 +237,7 @@ décrète
 - c. changement de formation pour des raisons médicales visé à l'article 19, alinéa 4 ;
 - d. formation exceptionnellement longue, notamment la médecine, ou un parcours long comprenant des formations visées à l'article 10, lettres a et b de la présente loi.
 
-[^17-1]: Modif. 3 du 08.12.2020: Introduction Art. 17, Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Art. 39, Al. 3; entrée en vigueur au 01.03.2021
+[^17-1]: Modif. 3 du 08.12.2020: Introduction Al. 1bis; entrée en vigueur au 01.03.2021
 
 #### Art. 19
 
@@ -340,7 +345,9 @@ décrète
 
 **c) Subrogation**
 
-<sup>1</sup> Lorsque l'Etat accorde un prêt en application de l'article 25, alinéa 1, il peut se subroger aux droits du requérant créancier de l'obligation d'entretien, pour autant que le revenu de ses parents dépasse les valeurs seuils découlant de l'article 328, alinéa 1, du Code civil .
+<sup>1</sup> Lorsque l'Etat accorde un prêt en application de l'article 25, alinéa 1, il peut se subroger aux droits du requérant créancier de l'obligation d'entretien, pour autant que le revenu de ses parents dépasse les valeurs seuils découlant de l'article 328, alinéa 1, du Code civil[^27-1] .
+
+[^27-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
 
 #### Art. 28
 
@@ -473,7 +480,9 @@ décrète
 
 <sup>2</sup> Elle doit être signée du requérant et, s'il est mineur, de son représentant légal.
 
-[^sectionSectionI-1]: Modif. 3 du 08.12.2020: Introduction Art. 17, Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Art. 18, Al. 1bis; entrée en vigueur au 01.03.2021; Introduction Al. 3; entrée en vigueur au 01.03.2021 · Modif. 4 du 31.03.2026: Modification Al. 1-3; entrée en vigueur au 01.01.2027; Introduction Al. 4; entrée en vigueur au 01.01.2027; Introduction Art. 44, Al. 1, a-d; entrée en vigueur au 01.01.2027; Introduction Art. 44a; entrée en vigueur au 01.01.2027; Introduction Art. 45, Al. 5-6; entrée en vigueur au 01.01.2027; Introduction Art. 45a; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
+<sup>3</sup> En dérogation à l'alinéa 2, le Conseil d'Etat peut prévoir la possibilité de déposer une demande de bourse par voie électronique. Il édicte les dispositions nécessaires à cet effet.
+
+[^sectionSectionI-1]: Modif. 3 du 08.12.2020: Introduction Al. 3; entrée en vigueur au 01.03.2021 · Modif. 4 du 31.03.2026: Modification Al. 1-3; entrée en vigueur au 01.01.2027; Introduction Al. 4; entrée en vigueur au 01.01.2027; Introduction Art. 44, Al. 1, a-d; entrée en vigueur au 01.01.2027; Introduction Art. 44a; entrée en vigueur au 01.01.2027; Introduction Art. 45, Al. 5-6; entrée en vigueur au 01.01.2027; Introduction Art. 45a; entrée en vigueur au 01.01.2027; Introduction Art. 45b; entrée en vigueur au 01.01.2027
 
 #### Art. 40
 
