@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2017 über die Anforderungen an die Energieef
 short: EnEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/765"
 language: de
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2017-765-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/765/20210101/de"
 
 (Energieeffizienzverordnung, EnEV)
 
-vom 1. November 2017 (Stand am 1. Januar 2021)
+vom 1. November 2017 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -229,7 +229,7 @@ Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation 
 
 **Inverkehrbringen und Abgeben von Reifen**
 
-Wer Reifen der Klassen C1, C2 oder C3 gemäss der Verordnung (EG) Nr. 1222/ 2009[^13-1] in Verkehr bringt oder abgibt, muss die Anforderungen nach Anhang 4.2 erfüllen.
+Wer Reifen der Klassen C1, C2 oder C3 gemäss der Verordnung (EG) Nr. 1222/2009[^13-1] in Verkehr bringt oder abgibt, muss die Anforderungen nach Anhang 4.2 erfüllen.
 
 [^13-1]: Verordnung (EG) Nr. 1222/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die Kennzeichnung von Reifen in Bezug auf die Kraftstoffeffizienz und andere wesentliche Parameter, ABl. L 342 vom 22.12.2009, S. 46; zuletzt geändert durch Verordnung (EU) Nr. 1235/2011, ABl. L 317 vom 30.11.2011, S. 17.
 
@@ -313,81 +313,88 @@ Die Änderung anderer Erlasse wird in Anhang 5 geregelt.
 
 Diese Verordnung tritt am 1. Januar 2018 in Kraft.
 
-Anhang 1.1
+Anhang 1.1*[^t-1]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
-## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Kühl- und Gefriergeräte sowie deren Kombinationen
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Kühlgeräte
+
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 1. März 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt für netzbetriebene Kühl-, Tiefkühl- und Gefriergeräte (Kühl- und Gefriergeräte) sowie deren Kombinationen mit einem Nutzinhalt zwischen 10 und 1500 Liter.
-- 1\.2
+- 1\.1 Dieser Anhang gilt für netzbetriebene Kühlgeräte mit einem Gesamtrauminhalt von mehr als 10 Litern und höchstens 1500 Litern nach Artikel 1 Absatz 1 der Verordnung (EU) 2019/2019[^annex11-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind die Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2019/2019.
+- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) 2019/2019.
 
-  Ausgenommen sind:
-
-  - a. Geräte nach Artikel 1 Ziffer 3 der Verordnung (EG) Nr. 643/2009[^annex11-lvlu1-lvl1-1];
-  - b. Geräte nach Anhang 1.14 dieser Verordnung.
-
-- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EG) Nr. 643/2009.
-
-[^annex11-lvlu1-lvl1-1]: Verordnung (EG) Nr. 643/2009 der Kommission vom 22. Juli 2009 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Haushaltskühlgeräten, ABl. L 191 vom 23.7.2009, S. 53; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex11-lvlu1-lvl1-1]: Verordnung (EU) 2019/2019 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Kühlgeräte gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 643/2009 der Kommission, ABl. L 315 vom 5.12.2019, S. 187.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- 2\.1 Kühl- und Gefriergeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) gemäss Anhang IV der Verordnung (EG) Nr. 643/2009[^annex11-lvlu1-lvl2-1] unter 33 liegt.
-- 2\.2 Absorptionsgeräte und Kühlgeräte, die keine Kompressorgeräte sind, dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Nutzinhalt kleiner als 60 Liter ist und wenn ihr Energieeffizienzindex (EEI) gemäss Anhang IV der Verordnung (EG) Nr. 643/2009 unter 110 liegt.
-- 2\.3 Weinlagerschränke dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) gemäss Anhang IV der Verordnung (EG) Nr. 643/2009 unter 55 liegt.
-
-[^annex11-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
+- 2\.1 Kühlgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) nach Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 100 beträgt sowie die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
+- 2\.2 Eintürige Kühlgeräte nach Ziffer 1, deren Drei-Sterne- oder Vier-Sterne- Fach oder -Fächer einen Rauminhalt aufweist bzw. aufweisen, der weniger als 18 Prozent des Gesamtrauminhalts ausmacht, dürfen in Verkehr gebracht und abgegeben werden, wenn ihr Energieeffizienzindex (EEI) gemäss Anhang III der Verordnung (EU) 2019/2019 nicht mehr als 125 beträgt und die Anforderungen nach Artikel 3 und Anhang II Ziffern 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
+- 2\.3 Ab 1. März 2024 sind für Kühlgeräte nach Ziffer 2.2 zusätzlich die Anforderungen nach Anhang II Ziffer 1 Buchstabe b der Verordnung (EU) 2019/2019 zu erfüllen.
+- 2\.4 Weinlagerschränke und geräuscharme Kühlgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 Anhang II Ziffern 1 Buchstabe a und 2–4, ausgenommen Ziffern 3 Buchstabe d und 4 Buchstabe o, der Verordnung (EU) 2019/2019 erfüllen.
+- 2\.5 Ab 1. März 2024 sind für Weinlagerschränke und geräuscharme Kühlgeräte nach Ziffer 1 zusätzlich die Anforderungen nach Anhang II Ziffer 1 Buchstabe b der Verordnung (EU) 2019/2019 zu erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Kühl- und Gefriergeräte nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen III und IV der Verordnung (EG) Nr. 643/2009[^annex11-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle ein Kühl- oder Gefriergerät anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang V Ziffer 2 der Verordnung (EG) Nr. 643/2009 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Kühlgeräte nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II und III der Verordnung (EU) 2019/2019 sowie den Anhängen II und IV der Delegierten Verordnung (EU) 2019/2016[^annex11-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle ein Kühl- gerät anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Ziffer 2 der Verordnung (EU) 2019/2019 sowie nach Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2016 erfüllen.
 
-[^annex11-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
+[^annex11-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2019/2016 der Kommission vom 11. März 2019 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Kühlgeräten und zur Aufhebung der Delegierten Verordnung (EU) Nr. 1060/2010 der Kommission, ABl. L 315 vom 5.12.2019, S. 102.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen II–VI, VIII und IX der Delegierten Verordnung (EU) Nr. 1060/2010[^annex11-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang X der Delegierten Verordnung (EU) Nr. 1060/2010.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV und VI der Delegierten Verordnung (EU) 2019/2016 vorzunehmen. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial für den Fernabsatz und beim Telemarketing richten sich nach Anhang VII der Delegierten Verordnung (EU) 2019/2016.
+- 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2019/2016.
 
-[^annex11-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 1060/2010 der Kommission vom 28. September 2010 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Haushaltskühlgeräten in Bezug auf den Energieverbrauch, ABl. L 314 vom 30.11.2010, S. 17; geändert durch Verordnung (EU) Nr. 518/2014, ABl. L 147 vom 17.5.2014, S. 1.
+### 5 Übergangsbestimmungen
 
-Anhang 1.2
+- 5\.1 Kühlgeräte, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+- 5\.2 Kühlgeräte, welche die ab 1. März 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
+- 5\.3 Kühlgeräte, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+
+Anhang 1.2*[^t-2]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
-## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltswaschmaschinen
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltswaschmaschinen und Haushaltswaschtrockner
+
+[^t-2]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 1. März 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt für netzbetriebene Haushaltswaschmaschinen.
-- 1\.2 Ausgenommen sind Haushaltswaschmaschinen, die auch mit anderen Energiequellen betrieben werden können.
-- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) Nr. 1015/2010[^annex12-lvlu1-lvl1-1].
+- 1\.1 Dieser Anhang gilt für netzbetriebene Haushaltswaschmaschinen und Haushaltswaschtrockner nach Artikel 1 Absatz 1 der Verordnung (EU) 2019/2023[^annex12-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind die Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2019/2023.
+- 1\.3 Von den Anforderungen nach Anhang II Artikel 1–6 und 9 Ziffer 1 Buchstaben a und c Ziffer 2 Buchstaben i und vii der Verordnung (EU) 2019/2023 ausgenommen sind die Geräte nach Artikel 1 Absatz 3 der Verordnung (EU) 2019/2023.
+- 1\.4 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) 2019/2023.
 
-[^annex12-lvlu1-lvl1-1]: Verordnung (EU) Nr. 1015/2010 der Kommission vom 10. November 2010 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Haushaltswaschmaschinen, ABl. L 293 vom 11.11.2010, S. 21; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex12-lvlu1-lvl1-1]: Verordnung (EU) 2019/2023 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Haushaltswaschmaschinen und Haushaltswaschtrockner gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 1275/2008 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 1015/2010 der Kommission, ABl. L 315 vom 5.12.2019, S. 285.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- Haushaltswaschmaschinen nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Anhang I der Verordnung (EU) Nr. 1015/2010[^annex12-lvlu1-lvl2-1] erfüllen.
-
-[^annex12-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.3.
+- Haushaltswaschmaschinen und Haushaltswaschtrockner nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II, ausgenommen Ziffern 8 Artikel 5 und 9 Artikel 1 Buchstabe h, der Verordnung (EU) 2019/2023 erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltswaschmaschinen nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EU) Nr. 1015/2010[^annex12-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltswaschmaschine anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) Nr. 1015/2010 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltswaschmaschinen und Haushaltswaschtrockner nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II, III und VI der Verordnung (EU) 2019/2023 sowie den Anhängen II, IV und VI der Delegierten Verordnung (EU) 2019/2014[^annex12-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Haushaltswaschmaschine oder einen Haushaltswaschtrockner anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Ziffer 2 der Verordnung (EU) 2019/2023 sowie nach Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2014 erfüllen.
 
-[^annex12-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.3.
+[^annex12-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2019/2014 der Kommission vom 11. März 2019 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates in Bezug auf die Energieverbrauchskennzeichnung von Haushaltswaschmaschinen und Haushaltswaschtrocknern sowie zur Aufhebung der Delegierten Verordnung (EU) Nr. 1061/2010 der Kommission und der Richtlinie 96/60/EG der Kommission, ABl. L 315 vom 5.12.2019, S. 29.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–IV, VI und VII der Delegierten Verordnung (EU) Nr. 1061/2010[^annex12-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) Nr. 1061/2010.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV und VI der Delegierten Verordnung (EU) 2019/2014 vorzunehmen. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial für den Fernabsatz und beim Telemarketing richten sich nach Anhang VII der Delegierten Verordnung (EU) 2019/2014.
+- 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2019/2014.
 
-[^annex12-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 1061/2010 der Kommission vom 28. September 2010 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Haushaltswaschmaschinen in Bezug auf den Energieverbrauch, ABl. L 314 vom 30.11.2010, S. 47; geändert durch Verordnung (EU) Nr. 518/2014, ABl. L 147 vom 17.5.2014, S. 1.
+### 5 Übergangsbestimmungen
+
+- 5\.1 Haushaltswaschmaschinen und Haushaltswaschtrockner, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+- 5\.2 Haushaltswaschmaschinen und Haushaltswaschtrockner, welche die ab 1. März 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
+- 5\.3 Haushaltswaschmaschinen und Haushaltswaschtrockner, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 
 Anhang 1.3
 
@@ -423,79 +430,57 @@ Anhang 1.3
 
 [^annex13-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 392/2012 der Kommission vom 1. März 2012 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Haushaltswäschetrocknern in Bezug auf den Energieverbrauch, ABl. L 123 vom 9.5.2012, S. 1; geändert durch Verordnung (EU) Nr. 518/2014, ABl. L 147 vom 17.5.2014, S. 1.
 
-Anhang 1.4
+Anhang 1.4*[^t-3]*
 
-(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs.1)
+[^t-3]: Aufgehoben durch Ziff. II Abs. 4 der V vom 22. April 2020, mit Wirkung seit 1. März 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
-## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener kombinierter Haushalts-Wasch-Trocken-Automaten
-
-### 1 Geltungsbereich
-
-- 1\.1 Dieser Anhang gilt für netzbetriebene kombinierte Haushalts-Wasch-Trocken-Automaten.
-- 1\.2 Ausgenommen sind Haushalts-Wasch-Trocken-Automaten, die auch mit anderen Energiequellen betrieben werden können.
-
-### 2 Anforderungen an das Inverkehrbringen und Abgeben
-
-- Haushalts-Wasch-Trocken-Automaten nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie höchstens 0,93 kWh elektrische Energie pro kg Wäsche für einen vollständigen Betriebszyklus Waschen, Schleudern und Trocknen bei Verwendung des Standardprogramms «Baumwolle 60 °C» und des Trockenprogramms «Baumwolle schranktrocken», ermittelt nach den Definitionen und Prüfverfahren der Richtlinie 96/60/EG[^annex14-lvlu1-lvl2-1] und der Norm EN 50229[^annex14-lvlu1-lvl2-2], verbrauchen.
-
-[^annex14-lvlu1-lvl2-1]: Richtlinie 96/60/EG der Kommission vom 19. September 1996 zur Durchführung der Richtlinie 92/75/EWG des Rates betreffend die Energieetikettierung für kombinierte Haushalts-Wasch-Trockenautomaten, ABl. L 266 vom 18.10.1996, S. 1.
-[^annex14-lvlu1-lvl2-2]: Der Text der EN-Norm kann bezogen werden beim Verband für Elektro-, Energie- und Informationstechnik (Electrosuisse), Luppmenstrasse 1, 8320 Fehraltorf; www.electrosuisse.ch.
-
-### 3 Konformitätsbewertungsverfahren
-
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushalts-Wasch-Trocken-Automaten nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und IV der Richtlinie 96/60/EG[^annex14-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Haushalts-Wasch-Trocken-Automaten anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte dürfen höchstens 10 Prozent von den vorgeschriebenen Werten abweichen.
-
-[^annex14-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 2.
-
-### 4 Angabe des Energieverbrauchs und Kennzeichnung
-
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen gemäss der Richtlinie 96/60/EG[^annex14-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-
-[^annex14-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 2.
-
-Anhang 1.5
+Anhang 1.5*[^t-4]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltsgeschirrspüler
 
+[^t-4]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 25. Nov. 2020, in Kraft seit 1. März 2021 ([AS 2020 6125](https://fedlex.data.admin.ch/eli/oc/2020/1012)).
+
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt für netzbetriebene Haushaltsgeschirrspüler.
-- 1\.2 Er gilt auch für Haushaltsgeschirrspüler, die für nicht haushaltsübliche Zwecke in Verkehr gebracht oder abgegeben werden.
-- 1\.3 Ausgenommen sind Haushaltsgeschirrspüler, die auch mit nicht elektrischen Energiequellen betrieben werden können.
-- 1\.4 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) Nr. 1016/2010[^annex15-lvlu1-lvl1-1].
+- 1\.1 Dieser Anhang gilt für netzbetriebene Haushaltsgeschirrspüler nach Artikel 1 Absatz 1 der Verordnung (EU) 2019/2022[^annex15-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2019/2022.
+- 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) 2019/2022.
 
-[^annex15-lvlu1-lvl1-1]: Verordnung (EU) Nr. 1016/2010 der Kommission vom 10. November 2010 zur Durchführung der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Haushaltsgeschirrspülern, ABl. L 293 vom 11.11.2010, S. 31; geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex15-lvlu1-lvl1-1]: Verordnung (EU) 2019/2022 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Haushaltsgeschirrspüler gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 1275/2008 der Kommission und zur Aufhebung der Verordnung (EU) Nr. 1016/2010 der Kommission, ABl. L 315 vom 5.12.2019, S. 267.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- Haushaltsgeschirrspüler nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Anhang I der Verordnung (EU) Nr. 1016/2010[^annex15-lvlu1-lvl2-1] erfüllen.
-
-[^annex15-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.4.
+- Haushaltsgeschirrspüler nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II, ausgenommen Ziffer 5 Artikel 5 und Ziffer 6 Artikel 7, der Verordnung (EU) 2019/2022 erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltsgeschirrspüler nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EU) Nr. 1016/2010[^annex15-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Haushaltsgeschirrspüler anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EU) Nr. 1016/2010 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Haushaltsgeschirrspüler nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II und III der Verordnung (EU) 2019/2022[^annex15-lvlu1-lvl3-1] sowie den Anhängen II und IV der Delegierten Verordnung (EU) 2019/2017[^annex15-lvlu1-lvl3-2] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle einen Haushaltsgeschirrspüler anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Ziffer 2 der Verordnung (EU) 2019/2022 sowie nach Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2017 erfüllen.
 
-[^annex15-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.4.
+[^annex15-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.1.
+[^annex15-lvlu1-lvl3-2]: Delegierte Verordnung (EU) 2019/2017 der Kommission vom 11. März 2019 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates in Bezug auf die Energieverbrauchskennzeichnung von Haushaltsgeschirrspülern und zur Aufhebung der Delegierten Verordnung (EU) Nr. 1059/2010 der Kommission, ABl. L 315 vom 5.12.2019, S. 134.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–IV, VI und VII der Delegierten Verordnung (EU) Nr. 1059/2010[^annex15-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) Nr. 1059/2010.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV und VI der Delegierten Verordnung (EU) 2019/2017 vorzunehmen. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial für den Fernabsatz und beim Telemarketing richten sich nach Anhang VII der Delegierten Verordnung (EU) 2019/2017.
+- 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2019/2017.
 
-[^annex15-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 1059/2010 der Kommission vom 28. September 2010 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Haushaltsgeschirrspülern in Bezug auf den Energieverbrauch, ABl. L 314 vom 30.11.2010, S. 1; geändert durch Verordnung (EU) Nr. 518/2014, ABl. L 147 vom 17.5.2014, S. 1.
+### 5 Übergangsbestimmungen
 
-Anhang 1.6*[^t-1]*
+- 5\.1 Haushaltsgeschirrspüler, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+- 5\.2 Haushaltsgeschirrspüler, welche die ab 1. März 2024 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2024 abgegeben werden.
+- 5\.3 Haushaltsgeschirrspüler, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+
+Anhang 1.6*[^t-5]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltselektrobacköfen
 
-[^t-1]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -527,15 +512,15 @@ Anhang 1.6*[^t-1]*
 - 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–VI der Delegierten Verordnung (EU) Nr. 65/2014[^annex16-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
 - 4\.2 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VII der Delegierten Verordnung (EU) Nr. 65/2014.
 
-[^annex16-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober 2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Haushaltsbacköfen und -dunstabzugshauben, Fassung gemäss ABl. L 29 vom 31.1.2014, S. 1.
+[^annex16-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 65/2014 der Kommission vom 1. Oktober 2013 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Haushaltsbacköfen und –dunstabzugshauben, Fassung gemäss ABl. L 29 vom 31.1.2014, S. 1.
 
-Anhang 1.7*[^t-2]*
+Anhang 1.7*[^t-6]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltsdunstabzugshauben
 
-[^t-2]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -569,13 +554,13 @@ Anhang 1.7*[^t-2]*
 - 5\.1 Haushaltsdunstabzugshauben, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht und abgegeben werden.
 - 5\.2 Haushaltsdunstabzugshauben, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4.2 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 1.8*[^t-3]*
+Anhang 1.8*[^t-7]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Staubsauger
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -646,7 +631,7 @@ Anhang 1.10
 ### 1 Geltungsbereich
 
 - 1\.1 Dieser Anhang gilt für Leuchtstofflampen ohne eingebautes Vorschaltgerät, Hochdruckentladungslampen sowie Vorschaltgeräte und Leuchten, auch wenn diese in andere energiebetriebene Produkte eingebaut sind.
-- 1\.2 Ausgenommen sind Lampen nach Anhang I der Verordnung (EG) Nr. 245/2009[^annex110-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind Lampen nach Anhang I der Verordnung (EG) Nr. 245/ 2009[^annex110-lvlu1-lvl1-1].
 - 1\.3 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang II der Verordnung (EG) Nr. 245/2009.
 
 [^annex110-lvlu1-lvl1-1]: Verordnung (EG) Nr. 245/2009 der Kommission vom 18. März 2009 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Leuchtstofflampen ohne eingebautes Vorschaltgerät, Hochdruckentladungslampen sowie Vorschaltgeräte und Leuchten zu ihrem Betrieb und zur Aufhebung der Richtlinie 2000/55/EG des Europäischen Parlaments und des Rates, ABl. L 76 vom 24.3.2009, S. 17; zuletzt geändert durch Verordnung (EU) Nr. 2015/1428, ABl. L 224 vom 27.8.2015, S. 1.
@@ -728,47 +713,44 @@ Anhang 1.11
 
 - Lampen und Geräte, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. August 2018 abgegeben werden.
 
-Anhang 1.12
+Anhang 1.12*[^t-8]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
-## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Fernsehgeräten
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von elektronischen Displays
+
+[^t-8]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 1. März 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
-- 1\.1 Dieser Anhang gilt für Fernsehgeräte. Videomonitore gelten im Sinne dieser Verordnung ebenfalls als Fernsehgeräte.
-- 1\.2 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EG) Nr. 642/2009[^annex112-lvlu1-lvl1-1].
+- 1\.1 Dieser Anhang gilt für elektronische Displays nach Artikel 1 Absatz 1 der Verordnung (EU) 2019/2021[^annex112-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2019/2021.
+- 1\.3 Von den Anforderungen nach Anhang II Buchstaben A und B ausgenommen sind die Geräte nach Artikel 1 Absatz 3 der Verordnung (EU) 2019/2021.
+- 1\.4 Es gelten die Begriffsbestimmungen nach Artikel 2 der Verordnung (EU) 2019/2021.
 
-[^annex112-lvlu1-lvl1-1]: Verordnung (EG) Nr. 642/2009 der Kommission vom 22. Juli 2009 zur Durchführung der Richtlinie 2005/32/EG des Europäischen Parlaments und des Rates im Hinblick auf die Festlegung von Anforderungen an die umweltgerechte Gestaltung von Fernsehgeräten, ABl. L 191 vom 23.7.2009, S. 42; zuletzt geändert durch Verordnung (EU) Nr. 2016/2282, ABl. L 346 vom 20.12.2016, S. 51.
+[^annex112-lvlu1-lvl1-1]: Verordnung (EU) 2019/2021 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an elektronische Displays gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, zur Änderung der Verordnung (EG) Nr. 1275/2008 der Kommission und zur Aufhebung der Verordnung (EG) Nr. 642/2009 der Kommission, ABl. L 315 vom 5.12.2019, S. 241.
 
 ### 2 Anforderungen an das Inverkehrbringen und Abgeben
 
-- 2\.1 Fernsehgeräte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Anhang I der Verordnung (EG) Nr. 642/2009[^annex112-lvlu1-lvl2-1] erfüllen.
-- 2\.2 Ab 1. Januar 2019 sind die Anforderungen nach Anhang I Ziffer 3 Absatz 3 zu erfüllen.
-
-[^annex112-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
+- 2\.1 Elektronische Displays nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II, ausgenommen Buchstabe D Ziffern 1–4, der Verordnung (EU) 2019/2021 erfüllen.
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Fernsehgeräte nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen I und II der Verordnung (EG) Nr. 642/2009[^annex112-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
-- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle ein Fernsehgerät anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Teil A Ziffer 2 und Teil B der Verordnung (EG) Nr. 642/2009 erfüllen.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der elektronischen Displays nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II und III der Verordnung (EU) 2019/2021 sowie Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2013[^annex112-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle ein elektronisches Display anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Ziffer 1 der Verordnung (EU) 2019/2021 sowie nach Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2013 erfüllen.
 
-[^annex112-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
+[^annex112-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2019/2013 der Kommission vom 11. März 2019 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates in Bezug auf die Energieverbrauchskennzeichnung elektronischer Displays und zur Aufhebung der Delegierten Verordnung (EU) Nr. 1062/2010 der Kommission, ABl. L 315 vom 5.12.2019, S. 1.
 
 ### 4 Angabe des Energieverbrauchs und Kennzeichnung
 
-- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen I–VII der Delegierten Verordnung (EU) Nr. 1062/2010[^annex112-lvlu1-lvl4-1] vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
-- 4\.2 Bezüglich des Zeitplans für die Inkraftsetzung der neuen Etiketten und ihrer Gestaltung gelten die Vorschriften nach Artikel 3 Ziffer 3 der Delegierten Verordnung (EU) Nr. 1062/2010.
-- 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang IX der Delegierten Verordnung (EU) Nr. 1062/2010.
-- 4\.4 Die Angabe weiterer Geräteeigenschaften ist nach Anhang I Ziffer 6 Absatz 2 der Verordnung (EG) Nr. 642/2009[^annex112-lvlu1-lvl4-2] vorzunehmen.
-
-[^annex112-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 1062/2010 der Kommission vom 28. September 2010 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Fernsehgeräten in Bezug auf den Energieverbrauch, ABl. L 314 vom 30.11.2010, S. 64; geändert durch Verordnung (EU) Nr. 518/2014, ABl. L 147 vom 17.5.2014, S. 1.
-[^annex112-lvlu1-lvl4-2]: Siehe Fussnote zu Ziff. 1.2.
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV und VI der Delegierten Verordnung (EU) 2019/2013 vorzunehmen. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial für den Fernabsatz und beim Telemarketing richten sich nach Anhang VII der Delegierten Verordnung (EU) 2019/2013.
+- 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2019/2013.
 
 ### 5 Übergangsbestimmungen
 
-- 5\.1 Fernsehgeräte, welche die ab 1. Januar 2019 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2019 abgegeben werden.
-- 5\.2 Fernsehgeräte, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4.2 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
+- 5\.1 Elektronische Displays, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+- 5\.2 Elektronische Displays, welche die ab 1. März 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2023 abgegeben werden.
 
 Anhang 1.13
 
@@ -809,13 +791,13 @@ Anhang 1.13
 
 - Raumklimageräte und Komfortventilatoren, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4.2 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 1.14*[^t-4]*
+Anhang 1.14*[^t-9]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener gewerblicher Kühllagerschränke, Schnellkühler/-froster, Verflüssigungssätze und Prozesskühler
 
-[^t-4]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-9]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -867,13 +849,13 @@ Anhang 1.14*[^t-4]*
 - 5\.1 Geräte, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht und abgegeben werden.
 - 5\.2 Geräte, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4.2 nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 1.15*[^t-5]*
+Anhang 1.15*[^t-10]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Warmwasserbereitern und Warmwasserspeichern
 
-[^t-5]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-10]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -917,13 +899,13 @@ Anhang 1.15*[^t-5]*
 - 5\.1 Warmwasserbereiter und Warmwasserspeicher, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht und abgegeben werden.
 - 5\.2 Warmwasserbereiter und Warmwasserspeicher, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 Buchstabe b nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 1.16*[^t-6]*
+Anhang 1.16*[^t-11]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Raumheizgeräten und Kombiheizgeräten
 
-[^t-6]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-11]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -953,7 +935,7 @@ Anhang 1.16*[^t-6]*
 
   Bei Geräten nach Artikel 1 der Delegierten Verordnung (EU) Nr. 811/2013[^annex116-lvlu1-lvl4-1] gilt:
 
-  - a. Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen II, III Ziffern 1 (Raumheizgeräte), 2 (Kombigeräte) und 5–10 sowie IV–VII und IX der Delegierten Verordnung (EU) Nr. 811/2013 vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+  - a. Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen nach den Anhängen II, III Ziffern 1 (Raumheizgeräte), 2 (Kombigeräte) und 5–10 sowie IV–VII und IX der Delegierten Verordnung (EU) Nr. 811/ 2013 vorzunehmen. Soweit EU-Hoheitszeichen in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
   - b. Bezüglich des Zeitplans für die Inkraftsetzung der neuen Etiketten und ihrer Gestaltung gelten die Vorschriften nach Artikel 3 der Delegierten Verordnung (EU) Nr. 811/2013.
   - c. Die Angaben nach Anhang II Ziffer 5 Buchstabe c der Verordnung (EU) Nr. 813/2013[^annex116-lvlu1-lvl4-2] sind dauerhaft auf dem Heizgerät anzubringen.
 
@@ -965,13 +947,13 @@ Anhang 1.16*[^t-6]*
 - 5\.1 Raumheizgeräte und Kombiheizgeräte, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht und abgegeben werden.
 - 5\.2 Raumheizgeräte und Kombiheizgeräte, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 Buchstabe b nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Raumheizgeräte und Kombiheizgeräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 1.17*[^t-7]*
+Anhang 1.17*[^t-12]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Lüftungsanlagen
 
-[^t-7]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-12]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)) und vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1002,13 +984,13 @@ Anhang 1.17*[^t-7]*
 
 [^annex117-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 1254/2014 der Kommission vom 11. Juli 2014 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Kennzeichnung von Wohnraumlüftungsgeräten in Bezug auf den Energieverbrauch, Fassung gemäss ABl. L 337 vom 25.11.2014, S. 27.
 
-Anhang 1.18*[^t-8]*
+Anhang 1.18*[^t-13]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Einzelraumheizgeräten
 
-[^t-8]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-13]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1042,13 +1024,13 @@ Anhang 1.18*[^t-8]*
 
 [^annex118-lvlu1-lvl4-1]: Delegierte Verordnung (EU) Nr. 2015/1186 der Kommission vom 24. April 2015 zur Ergänzung der Richtlinie 2010/30/EU des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Einzelraumheizgeräten, ABl. L 193 vom 21.7.2015, S. 20; zuletzt geändert durch Delegierte Verordnung (EU) 2017/254, ABl. L 38 vom 15.2.2017, S. 1.
 
-Anhang 1.19*[^t-9]*
+Anhang 1.19*[^t-14]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Festbrennstoff-Einzelraumheizgeräten
 
-[^t-9]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-14]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1086,13 +1068,13 @@ Anhang 1.19*[^t-9]*
 
 - Festbrennstoff-Einzelraumheizgeräte, welche die ab 1. Januar 2022 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht oder abgegeben werden.
 
-Anhang 1.20*[^t-10]*
+Anhang 1.20*[^t-15]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Festbrennstoffkesseln
 
-[^t-10]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-15]: Eingefügt durch Ziff. II Abs. 2 der V vom 11. April 2018 ([AS 2018 1675](https://fedlex.data.admin.ch/eli/oc/2018/250)). Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1130,13 +1112,56 @@ Anhang 1.20*[^t-10]*
 - 5\.1 Festbrennstoffkessel, welche die geltenden Anforderungen an die Kennzeichnung nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2020 abgegeben werden.
 - 5\.2 Festbrennstoffkessel, welche die Anforderungen an die Kennzeichnung gemäss Ziffer 4 Buchstabe b nicht erfüllen, dürfen ab Datum der Inkraftsetzung der neuen Etiketten nicht mehr in Verkehr gebracht werden. Geräte mit bisherigen Etiketten dürfen ab diesem Datum noch während zwei Jahren abgegeben werden.
 
-Anhang 2.1*[^t-11]*
+Anhang 1.21*[^t-16]*
+
+(Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
+
+## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von netzbetriebenen Kühlgeräten mit Direktverkaufsfunktion
+
+[^t-16]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. März 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+
+### 1 Geltungsbereich
+
+- 1\.1 Dieser Anhang gilt für netzbetriebene Kühlgeräte mit Direktverkaufsfunktion nach Artikel 1 Absatz 1 der Verordnung (EU) 2019/2024[^annex121-lvlu1-lvl1-1].
+- 1\.2 Ausgenommen sind Geräte nach Artikel 1 Absatz 2 der Verordnung (EU) 2019/2024.
+- 1\.3 Von den Anforderungen nach Anhang II Artikel 1 und 3 Buchstabe k ausgenommen sind die Geräte nach Artikel 1 Absatz 3 der Verordnung (EU) 2019/2024.
+- 1\.4 Es gelten die Begriffsbestimmungen nach Artikel 2 und Anhang I der Verordnung (EU) 2019/2024.
+
+[^annex121-lvlu1-lvl1-1]: Verordnung (EU) 2019/2024 der Kommission vom 1. Oktober 2019 zur Festlegung von Ökodesign-Anforderungen an Kühlgeräte mit Direktverkaufsfunktion gemäss der Richtlinie 2009/125/EG des Europäischen Parlaments und des Rates, ABl. L 315 vom 5.12.2019, S. 313.
+
+### 2 Anforderungen an das Inverkehrbringen und Abgeben
+
+- 2\.1 Kühlgeräte mit Direktverkaufsfunktion nach Ziffer 1, ausgenommen Getränkekühler, vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte, dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II Ziffern 1 Buchstabe a, 2, ausgenommen Buchstabe d, und 3, ausgenommen Buchstabe k, der Verordnung (EU) 2019/2024 erfüllen.
+- 2\.2 Getränkekühler, vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte nach Ziffer 1 dürfen in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II Ziffern 1 Buchstabe b, 2, ausgenommen Buchstabe d, und 3, ausgenommen Buchstabe k, der Verordnung (EU) 2019/2024 erfüllen.
+- 2\.3 Ab dem 1. September 2023 dürfen Kühlgeräte mit Direktverkaufsfunktion nach Ziffer 1 in Verkehr gebracht und abgegeben werden, wenn sie die Anforderungen nach Artikel 3 und Anhang II Ziffern 1 Buchstabe b, 2, ausgenommen Buchstabe d, und 3, ausgenommen Buchstabe k, der Verordnung (EU) 2019/2024 erfüllen.
+- 2\.4 Ab dem 1. September 2023 dürfen Getränkekühler nach Ziffer 1 in Verkehr gebracht und abgegeben werden, wenn zusätzlich zu den Anforderungen nach Ziffer 2.2 ihr Energieeffizienzindex (EEI) gemäss Anhang III der Verordnung (EU) 2019/2024 unter 50 liegt.
+- 2\.5 Ab dem 1. September 2023 dürfen vertikale und kombinierte Kühlschränke für Supermärkte sowie vertikale und kombinierte Gefrierschränke für Supermärkte nach Ziffer 1 in Verkehr gebracht und abgegeben werden, wenn zusätzlich zu den Anforderungen nach Ziffer 2.2 ihr EEI gemäss Anhang III der Verordnung (EU) 2019/2024 unter 65 liegt.
+
+### 3 Konformitätsbewertungsverfahren
+
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Kühlgeräte mit Direktverkaufsfunktion nach Ziffer 1 anhand der Vorgaben und Methoden nach den Anhängen II und III der Verordnung (EU) 2019/2024 sowie den Anhängen II und IV der Delegierten Verordnung (EU) 2019/2018[^annex121-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle ein Kühlgerät mit Direktverkaufsfunktion anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang IV Ziffer 2 der Verordnung (EU) 2019/2024 sowie nach Anhang IX Ziffer 2 der Delegierten Verordnung (EU) 2019/2018 erfüllen.
+
+[^annex121-lvlu1-lvl3-1]: Delegierte Verordnung (EU) 2019/2018 der Kommission vom 11. März 2019 zur Ergänzung der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates im Hinblick auf die Energieverbrauchskennzeichnung von Kühlgeräten mit Direktverkaufsfunktion, ABl. L 315 vom 5.12.2019, S. 155.
+
+### 4 Angabe des Energieverbrauchs und Kennzeichnung
+
+- 4\.1 Die Angabe der energieverbrauchsrelevanten Eigenschaften und die Kennzeichnung sind mit Ausnahme der EU-Hoheitszeichen und des QR-Codes nach den Anhängen I–IV und VI der Delegierten Verordnung (EU) 2019/2018 vorzunehmen. Soweit EU-Hoheitszeichen und QR-Codes in Übereinstimmung mit den Vorschriften der EU bereits angebracht sind, können sie belassen werden.
+- 4\.2 Die Vorgaben für die bereitzustellenden Informationen bei visuell wahrnehmbarer Werbung, bei technischem Werbematerial für den Fernabsatz und beim Telemarketing richten sich nach Anhang VII der Delegierten Verordnung (EU) 2019/2018.
+- 4\.3 Die für den Internetverkauf massgebenden Vorgaben richten sich nach Anhang VIII der Delegierten Verordnung (EU) 2019/2018.
+
+### 5 Übergangsbestimmungen
+
+- 5\.1 Kühlgeräte mit Direktverkaufsfunktion, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
+- 5\.2 Kühlgeräte mit Direktverkaufsfunktion, welche die ab 1. September 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 30. Juni 2024 abgegeben werden.
+
+Anhang 2.1*[^t-17]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener elektrischer und elektronischer Haushalts- und Bürogeräte im Bereitschafts- und Aus-Zustand
 
-[^t-11]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-17]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1178,13 +1203,13 @@ Anhang 2.1*[^t-11]*
 
 [^annex21-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.1.
 
-Anhang 2.2*[^t-12]*
+Anhang 2.2*[^t-18]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener externer Netzteile
 
-[^t-12]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-18]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1211,13 +1236,13 @@ Anhang 2.2*[^t-12]*
 
 - Netzteile, welche die geltenden Anforderungen nicht erfüllen, dürfen ab dem 31. Dezember 2020 nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 
-Anhang 2.3*[^t-13]*
+Anhang 2.3*[^t-19]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Computern
 
-[^t-13]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-19]: Fassung gemäss Ziff. II Abs. 2 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1281,13 +1306,13 @@ Anhang 2.4
 
 - Wer Set-Top-Boxen nach Ziffer 1 Buchstabe a in Verkehr bringt oder abgibt, muss dafür sorgen, dass der Energieverbrauch im aktiven Betriebsmodus (P<sub>on</sub> in W) und im vorinstallierten Bereitschaftszustand (P<sub>standby</sub> und P<sub>APD</sub> in W) sowie der jährliche Gesamtenergieverbrauch (TEC in kWh) im Internet frei einsehbar ist.
 
-Anhang 2.5*[^t-14]*
+Anhang 2.5*[^t-20]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben netzbetriebener Haushaltskochmulden
 
-[^t-14]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-20]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1395,13 +1420,13 @@ Anhang 2.7
 
 - Asynchronmotoren, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2018 abgegeben werden.
 
-Anhang 2.8*[^t-15]*
+Anhang 2.8*[^t-21]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Nassläufer-Umwälzpumpen
 
-[^t-15]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-21]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1419,7 +1444,7 @@ Anhang 2.8*[^t-15]*
 
 ### 3 Konformitätsbewertungsverfahren
 
-- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Nassläufer-Umwälzpumpen nach Ziffer 1 anhand der Vorgaben und Methoden nach Anhang II der Verordnung (EG) Nr. 641/2009[^annex28-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
+- 3\.1 Im Rahmen der Konformitätsbewertung werden die energieverbrauchsrelevanten Eigenschaften der Nassläufer-Umwälzpumpen nach Ziffer 1 anhand der Vorgaben und Methoden nach Anhang II der Verordnung (EG) Nr. 641/ 2009[^annex28-lvlu1-lvl3-1] gemessen und berechnet; die technischen Unterlagen müssen die Ergebnisse der Messungen und Berechnungen enthalten.
 - 3\.2 Im Rahmen der Konformitätsüberprüfung testet die Kontrollstelle eine Nassläufer-Umwälzpumpe anhand der Vorgaben und Methoden nach Ziffer 3.1; die Messwerte müssen die Anforderungen nach Anhang III Ziffer 2 der Verordnung (EG) Nr. 641/2009 erfüllen.
 
 [^annex28-lvlu1-lvl3-1]: Siehe Fussnote zu Ziff. 1.2.
@@ -1463,13 +1488,13 @@ Anhang 2.9
 
 [^annex29-lvlu1-lvl4-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.10*[^t-16]*
+Anhang 2.10*[^t-22]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Leistungstransformatoren
 
-[^t-16]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-22]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1507,13 +1532,13 @@ Anhang 2.10*[^t-16]*
 
 [^annex210-lvlu1-lvl5-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 2.11*[^t-17]*
+Anhang 2.11*[^t-23]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Luftheizungsprodukten, Kühlungsprodukten, Prozesskühlern mit hoher Betriebstemperatur und Gebläsekonvektoren
 
-[^t-17]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-23]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1540,13 +1565,13 @@ Anhang 2.11*[^t-17]*
 
 - 5\.1 Luftheizungsprodukte, Kühlungsprodukte, Prozesskühler mit hoher Betriebstemperatur und Gebläsekonvektoren, welche die geltenden Anforderungen nicht erfüllen, dürfen nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 
-Anhang 2.12*[^t-18]*
+Anhang 2.12*[^t-24]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Servern und Datenspeicherprodukten
 
-[^t-18]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-24]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1577,13 +1602,13 @@ Anhang 2.12*[^t-18]*
 - 5\.2 Server und Online-Datenspeicherprodukte, welche die ab 1. März 2021 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2021 abgegeben werden.
 - 5\.3 Server und Online-Datenspeicherprodukte, welche die ab 1. Januar 2023 geltenden Anforderungen nicht erfüllen, dürfen ab diesem Datum nicht mehr in Verkehr gebracht werden. Sie dürfen längstens bis zum 31. Dezember 2023 abgegeben werden.
 
-Anhang 2.13*[^t-19]*
+Anhang 2.13*[^t-25]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Anforderungen an die Energieeffizienz und an das Inverkehrbringen und Abgeben von Schweissgeräten
 
-[^t-19]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-25]: Eingefügt durch Ziff. II Abs. 3 der V vom 22. April 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1643,13 +1668,13 @@ Anhang 3.1
 
 [^annex31-lvlu1-lvl2-1]: Siehe Fussnote zu Ziff. 1.2.
 
-Anhang 3.2*[^t-20]*
+Anhang 3.2*[^t-26]*
 
 (Art. 4 Abs. 1, 5 Abs. 1, 6 Abs. 1, 7 Abs. 1, 8 Abs. 1)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften netzbetriebener Haushaltskaffeemaschinen
 
-[^t-20]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
+[^t-26]: Bereinigt gemäss Ziff. II Abs. 1 der V vom 22. April 2020, in Kraft seit 15. Mai 2020 ([AS 2020 1415](https://fedlex.data.admin.ch/eli/oc/2020/280)).
 
 ### 1 Geltungsbereich
 
@@ -1667,7 +1692,7 @@ Anhang 3.2*[^t-20]*
 
 - 3\.1 Die Energieetikette muss mindestens 60 mm breit und 120 mm hoch sein. Wird die Energieetikette in einem grösseren Format gedruckt, so müssen die Proportionen der Spezifikationen gewahrt bleiben. Die grafischen Elemente werden proportional skaliert. Der Hintergrund ist weiss.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image1.png)
 
 - A) Begrenzungslinie: 3 pt – abgerundete Ecken 2 mm – X-00-00-00
 - B) CH-Logo:Breite 8 mm, Höhe 8 mm – abgerundete Ecken 2 mm – 00‑X-X-00
@@ -1702,13 +1727,13 @@ Anhang 3.2*[^t-20]*
 
 - 3\.3 Zudem muss beim Internetverkauf mit dem ersten Mausklick respektive beim Rollover über das Produktebild oder den Pfeil mit der Energieeffizienzklasse die ganze Energieetikette erscheinen.
 
-Anhang 4.1*[^t-21]*
+Anhang 4.1*[^t-27]*
 
 (Art. 10, 11 und 12*a*)
 
 ## Angabe des Energieverbrauchs und weiterer Eigenschaften von Personenwagen, Lieferwagen und leichten Sattelschleppern
 
-[^t-21]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
+[^t-27]: Fassung gemäss Ziff. II der V vom 23. Okt. 2019 ([AS 2019 3469](https://fedlex.data.admin.ch/eli/oc/2019/634)). Bereinigt gemäss Ziff. III der V vom 25. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6081](https://fedlex.data.admin.ch/eli/oc/2020/1009)).
 
 ### 1 Bestimmungen zum Energieverbrauch
 
@@ -1802,11 +1827,11 @@ Für das Jahr 2020 gelten als aktuelle Fahrzeugtypen im Sinne von Ziffer 3.3 typ
 
 ### 10 Beispiel der Darstellung der Energieetikette
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image2.png)
 
 ### 11 Beispiel der Darstellung der Skala der Energieeffizienz-Kategorien
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/765/20210301/de/xml/image/image3.png)
 
 Anhang 4.2
 
