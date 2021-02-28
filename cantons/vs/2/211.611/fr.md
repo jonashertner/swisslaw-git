@@ -4,51 +4,52 @@ number: "211.611"
 title: Ordonnance cantonale sur le registre foncier
 short: OcRF
 language: fr
-version: 2015-01-02
-corrected: 2017-09-04
-version_adopted: 2014-11-05
+version: 2021-03-01
+valid_until: 2025-09-30
+version_adopted: 2020-12-23
 adopted: 2014-11-05
 in_force: 2015-01-02
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.611"
-pdf: "https://lex.vs.ch/api/fr/versions/606/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2788/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance cantonale sur le registre foncier (OcRF)
+# Ordonnance cantonale sur le registre foncier
 
-du 5 novembre 2014
+(OcRF)
+
+du 05.11.2014 (état 01.03.2021)
 
 Le Conseil d'Etat du canton du Valais
 
-vu les art. 953 ss du Code civil suisse;
+vu les articles 953 et suivants du Code civil suisse;
 
-vu l'ordonnance fédérale sur le registre foncier du 23 septembre 2011 (ORF); vu les art. 66 ss et 184 ss de la loi d'application du code civil suisse du 24 mars 1998 (LACC);
+vu l'ordonnance fédérale sur le registre foncier du 23 septembre 2011 (ORF);
+
+vu les articles 66 et suivants et 184 et suivants de la loi d'application du code civil suisse du 24 mars 1998 (LACC);
 
 vu la loi sur les droits de mutations du 15 mars 2012;
 
 sur proposition du Département de l'économie, de l'énergie et du territoire,
 
-ordonne:[^t-1]
+ordonne:[^ingress-1]
 
-[^t-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+[^ingress-1]: Dans la présente ordonnance, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
 
-### Section 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
 **Contenu**
 
-La présente ordonnance règle en exécution du droit supérieur:
+<sup>1</sup> La présente ordonnance règle en exécution du droit supérieur:
 
-- a) L'organisation des registres fonciers,
+- a) l'organisation des registres fonciers;
+- b) la tenue du registre foncier;
+- c) les émoluments du registre foncier.
 
-- b) La tenue du registre foncier,
-
-- c) Les émoluments du registre foncier.
-
-### Section 2: Organisation des registres fonciers
+## 2 Organisation des registres fonciers
 
 #### Art. 2
 
@@ -62,13 +63,13 @@ La présente ordonnance règle en exécution du droit supérieur:
 
 **Conservateur**
 
-Chaque office est dirigé par un conservateur avec un ou plusieurs substituts.
+<sup>1</sup> Chaque office est dirigé par un conservateur avec un ou plusieurs substituts.
 
 #### Art. 4
 
 **Nominations**
 
-Les conservateurs et leurs substituts sont nommés par le Conseil d'Etat selon les dispositions de la loi sur le personnel de l'Etat du Valais.
+<sup>1</sup> Les conservateurs et leurs substituts sont nommés par le Conseil d'Etat selon les dispositions de la loi sur le personnel de l'Etat du Valais.
 
 #### Art. 5
 
@@ -84,7 +85,7 @@ Les conservateurs et leurs substituts sont nommés par le Conseil d'Etat selon l
 
 **Inspections**
 
-L'inspectorat du registre foncier contrôle régulièrement la tenue du registre foncier de chaque office. Dans les cas de graves réclamations, il en fait rapport au département.
+<sup>1</sup> L'inspectorat du registre foncier contrôle régulièrement la tenue du registre foncier de chaque office. Dans les cas de graves réclamations, il en fait rapport au département.
 
 #### Art. 7
 
@@ -100,13 +101,13 @@ L'inspectorat du registre foncier contrôle régulièrement la tenue du registre
 
 **Localité**
 
-Le registre foncier doit être ouvert au public et, à l'exception des autres offices du service auquel il appartient, il doit disposer de locaux indépendants.
+<sup>1</sup> Le registre foncier doit être ouvert au public et, à l'exception des autres offices du service auquel il appartient, il doit disposer de locaux indépendants.
 
 #### Art. 9
 
 **Heures d'ouverture des guichets**
 
-Les offices du registre foncier sont ouverts au public tous les jours ouvrables, le matin durant quatre heures.
+<sup>1</sup> Les offices du registre foncier sont ouverts au public tous les jours ouvrables, le matin durant quatre heures.
 
 #### Art. 10
 
@@ -114,13 +115,13 @@ Les offices du registre foncier sont ouverts au public tous les jours ouvrables,
 
 <sup>1</sup> Les employés des offices du registre foncier sont tenus au secret de fonction.
 
-<sup>1</sup> Les dispositions de la loi sur le personnel de l'Etat du Valais concernant le secret de fonction sont applicables.
+<sup>2</sup> Les dispositions de la loi sur le personnel de l'Etat du Valais concernant le secret de fonction sont applicables.
 
 #### Art. 11
 
 **Récusation**
 
-Les employés des offices du registre foncier sont tenus de se récuser dans les cas où ils sont eux-mêmes parties ou lorsqu'il s'agit d'inscriptions intéressant leur conjoint, leur partenaire enregistré, leurs parents et alliés jusqu'au troisième degré compris.
+<sup>1</sup> Les employés des offices du registre foncier sont tenus de se récuser dans les cas où ils sont eux-mêmes parties ou lorsqu'il s'agit d'inscriptions intéressant leur conjoint, leur partenaire enregistré, leurs parents et alliés jusqu'au troisième degré compris.
 
 #### Art. 12
 
@@ -130,13 +131,13 @@ Les employés des offices du registre foncier sont tenus de se récuser dans les
 
 <sup>2</sup> Les renseignement oraux des employés de l'inspectorat et des offices des registres fonciers n'entrainent aucune responsabilité.
 
-### Section 3: Tenue du registre foncier
+## 3 Tenue du registre foncier
 
 #### Art. 13
 
 **Bases légales**
 
-Les dispositions du Code civil suisse et de l'ordonnance du conseil fédéral sur le registre foncier de même que la loi d'application du code civil suisse et les dispositions suivantes valent en particulier pour la tenue du registre foncier.
+<sup>1</sup> Les dispositions du Code civil suisse et de l'ordonnance du conseil fédéral sur le registre foncier de même que la loi d'application du code civil suisse et les dispositions suivantes valent en particulier pour la tenue du registre foncier.
 
 #### Art. 14
 
@@ -150,25 +151,25 @@ Les dispositions du Code civil suisse et de l'ordonnance du conseil fédéral su
 
 **Sceau officiel**
 
-Les employés des offices du registre foncier apposent le sceau officiel à chacune de leur signature lors de la délivrance d'attestations et de déclarations sous forme papier.
+<sup>1</sup> Les employés des offices du registre foncier apposent le sceau officiel à chacune de leur signature lors de la délivrance d'attestations et de déclarations sous forme papier.
 
 #### Art. 16
 
 **Légalisation de signatures**
 
-Le conservateur et son substitut ont qualité, conformément aux dispositions de la LACC, pour légaliser les signatures en rapport avec les réquisitions destinées au registre foncier.
+<sup>1</sup> Le conservateur et son substitut ont qualité, conformément aux dispositions de la LACC, pour légaliser les signatures en rapport avec les réquisitions destinées au registre foncier.
 
 #### Art. 17
 
 **Registre des propriétaires**
 
-Les offices du registre foncier tiennent un registre des propriétaires au sens de l'art. 11 ORF.
+<sup>1</sup> Les offices du registre foncier tiennent un registre des propriétaires au sens de l'article 11 ORF.
 
 #### Art. 18
 
 **Registre des créanciers**
 
-Les offices du registre foncier tiennent un registre des créanciers au sens de l'art. 12 ORF.
+<sup>1</sup> Les offices du registre foncier tiennent un registre des créanciers au sens de l'article 12 ORF.
 
 #### Art. 19
 
@@ -202,13 +203,13 @@ Les offices du registre foncier tiennent un registre des créanciers au sens de 
 
 **Propriété par étages**
 
-Les règles techniques pour la constitution d'une propriété par étages sont établies dans une directive de l'inspectorat du registre foncier.
+<sup>1</sup> Les règles techniques pour la constitution d'une propriété par étages sont établies dans une directive de l'inspectorat du registre foncier.
 
 #### Art. 22
 
 **Conservation des pièces justificatives sur papier**
 
-<sup>1</sup> Les pièces justificatives entièrement disponibles sous forme électronique sont conservées aux archives cantonales ou dans un autre lieu sûr au sens de l'art. 37 al. 4 ORF.
+<sup>1</sup> Les pièces justificatives entièrement disponibles sous forme électronique sont conservées aux archives cantonales ou dans un autre lieu sûr au sens de l'article 37 alinéa 4 ORF.
 
 <sup>2</sup> Les autres documents du registre foncier sont conservés dans les offices du registre foncier.
 
@@ -218,33 +219,29 @@ Les règles techniques pour la constitution d'une propriété par étages sont �
 
 **Plan de servitude**
 
-Lorsque l'assiette d'une servitude est limitée à une partie seulement de l'immeuble, le conservateur du registre foncier peut exiger la production d'un plan de servitude signé par le géomètre.
+<sup>1</sup> Lorsque l'assiette d'une servitude est limitée à une partie seulement de l'immeuble, le conservateur du registre foncier peut exiger la production d'un plan de servitude signé par le géomètre.
 
 #### Art. 24
 
 **Hypothèques légales**
 
-Les droits de gage légaux sont inscrits au registre foncier de la même manière que les hypothèques conventionnelles (art. 118 al. 3 ORF).
+<sup>1</sup> Les droits de gage légaux sont inscrits au registre foncier de la même manière que les hypothèques conventionnelles (art. 118 al. 3 ORF).
 
 #### Art. 25
 
 **Inscription de droits de gage partiels**
 
-Lorsque plusieurs immeubles sont constitués en gage pour la même créance, sans qu'il y ait lieu de créer un gage collectif et que les parties n'ont pas fait la répartition, le conservateur du registre foncier rejette la réquisition (art. 113 al.
-
-2 ORF).
+<sup>1</sup> Lorsque plusieurs immeubles sont constitués en gage pour la même créance, sans qu'il y ait lieu de créer un gage collectif et que les parties n'ont pas fait la répartition, le conservateur du registre foncier rejette la réquisition (art. 113 al. 2 ORF).
 
 #### Art. 26
 
 **Radiations en cas de décès**
 
-La réquisition de radiation d'un usufruit ou d'un droit d'habitation en cas de décès du bénéficiaire doit être accompagnée d'une attestation officielle.
+<sup>1</sup> La réquisition de radiation d'un usufruit ou d'un droit d'habitation en cas de décès du bénéficiaire doit être accompagnée d'une attestation officielle.
 
 #### Art. 27
 
 **Registre foncier cantonal**
-
-**2.5‰, au minimum Fr. 100.- et au maximum**
 
 <sup>1</sup> Jusqu'à l'introduction du registre foncier fédéral, il est nécessaire de poursuivre la tenue du registre analytique et du registre hypothécaire sous forme de livre ou de feuillet mobile.
 
@@ -254,9 +251,9 @@ La réquisition de radiation d'un usufruit ou d'un droit d'habitation en cas de 
 
 **Transactions électroniques**
 
-La réglementation concernant les transactions électroniques sera prévue dans une ordonnance séparée.
+<sup>1</sup> Les offices du registre foncier sont habilités à communiquer et à conduire des transactions par voie électronique. La réglementation est prévue dans une ordonnance séparée.
 
-### Section 4: Emoluments du registre foncier
+## 4 Emoluments du registre foncier
 
 #### Art. 29
 
@@ -296,25 +293,12 @@ La réglementation concernant les transactions électroniques sera prévue dans 
 
 <sup>2</sup> Les émoluments proportionnels sont fixés de la façon suivante:
 
-**2‰, au minimun Fr. 100.- et au maximum**
-
-- a) Inscription des droits de propriété sur les immeubles Fr. 5'000.-
-
-- b) Constitution de cédule hypothécaire sur papier, chaque titre Fr. 2'500.-
-
-**100.- et au maximum**
-
-- c) Constitution des cédules hypothécaires de 1‰, au minimum Fr. registre ainsi que des hypothèques Fr. 2'500.-
-
-- d) Augmentation ainsi que remplacement de 2.5‰, au minimum Fr. l'objet du gage des cédules hypothécaires sur 100.- et au papier
-
-**maximum Fr. 2'500.-**
-
-- e) Augmentation ainsi que remplacement de 1‰, au minimum Fr. l'objet du gage des cédules hypothécaires de 100.- et au registre et des hypothèques
-
-**maximum Fr. 2'500.-**
-
-- f) Transformation des cédules hypothécaires de 1.5‰, au minimum Fr. registre en cédules hypothécaires sur papier 100.- et au maximum Fr. 2'500.-
+- a) inscription des droits de propriété sur les immeubles — 2‰, au minimun 100 francs et au maximum 5'000 francs
+- b) constitution de cédule hypothécaire sur papier, chaque titre — 2.5‰, au minimum 100 francs et au maximum 2'500 francs
+- c) constitution des cédules hypothécaires de registre ainsi que des hypothèques — 1‰, au minimum 100 francs et au maximum 2'500 francs
+- d) augmentation ainsi que remplacement de l'objet du gage des cédules hypothécaires sur papier — 2.5‰, au minimum 100 francs et au maximum 2'500 francs
+- e) augmentation ainsi que remplacement de l'objet du gage des cédules hypothécaires de registre et des hypothèques — 1‰, au minimum 100 francs et au maximum 2'500 francs
+- f) transformation des cédules hypothécaires de registre en cédules hypothécaires sur papier — 1.5‰, au minimum 100 francs et au maximum 2'500 francs
 
 <sup>3</sup> Lors du calcul de l'émolument proportionnel, la base de calcul est arrondie au millier de francs supérieurs.
 
@@ -332,17 +316,43 @@ La réglementation concernant les transactions électroniques sera prévue dans 
 
 <sup>2</sup> Les émoluments fixes sont déterminés de la manière suivante et facturés forfaitairement par les nombre des actes juridiques selon les lettres a, b et c.
 
-- a) Fr. 100.- pour les actes juridiques suivantes:
-
-Copropriété - Changement de propriété commune en copropriété et inversement Propriété par étages - Constitution d'une propriété par étages - Modification d'une propriété par étages - Suppression d'une propriété par étages Servitudes et charges foncières - Constitution de servitudes et de charges foncières, par servitude et charge foncière - Transfert de servitudes, et de charges foncières, par servitude et charge foncière - Modification de servitudes et de charges foncières, par servitude et charge foncière
-
-- b) Fr. 50.- pour les actes juridiques suivantes:
-
-Droits de gage - Modification du taux d'intérêt - Extension ou diminution du gage, pour chaque immeuble - Changement de créancier - Transformation d'une cédule hypothécaire sur papier en cédule hypothécaire de registre - Création de cases libres - Modification de rang - Reparution du gage Annotations - Constitution, par annotation - Modification, par annotation Mentions - Constitution, par mention - Modification, par mention Observation, par observation Changements de nom, de raison sociale, de forme juridique, par modification
-
-- c) Fr. 20.- pour les actes juridiques suivantes:
-
-Propriété par étages - Immatriculation d'une part de propriété par étages, pour chaque unité - Modification d'une part de propriété par étages, pour chaque unité Radiations, par radiation Déclarations, communications, avis aux créanciers, aux personnes privés et aux autorités, par avis Inscription ou modification dans le registre des créanciers, par créancier Déréliction, par immeuble Légalisation par signature Divisions ou réunions de parcelles, pour chaque parcelle
+- a) 100 francs pour les actes juridiques suivantes:
+  - 1\. copropriété: changement de propriété commune en copropriété et inversement,
+  - 2\. propriété par étages:
+  - 2\.1. constitution d'une propriété par étages,
+  - 2\.2. modification d'une propriété par étages,
+  - 2\.3. suppression d'une propriété par étages,
+  - 3\. servitudes et charges foncières:
+  - 3\.1. constitution de servitudes et de charges foncières, par servitude et charge foncière,
+  - 3\.2. transfert de servitudes, et de charges foncières, par servitude et charge foncière,
+  - 3\.3. modification de servitudes et de charges foncières, par servitude et charge foncière;
+- b) 50 francs pour les actes juridiques suivantes:
+  - 1\. droits de gage:
+  - 1\.1. modification du taux d'intérêt,
+  - 1\.2. extension ou diminution du gage, pour chaque immeuble,
+  - 1\.3. Changement de créancier,
+  - 1\.4. transformation d'une cédule hypothécaire sur papier en cédule hypothécaire de registre,
+  - 1\.5. création de cases libres,
+  - 1\.6. modification de rang,
+  - 1\.7. reparution du gage,
+  - 2\. annotations:
+  - 2\.1. constitution, par annotation,
+  - 2\.2. modification, par annotation,
+  - 3\. mentions:
+  - 3\.1. constitution, par mention,
+  - 3\.2. modification, par mention,
+  - 4\. observation, par observation,
+  - 5\. changements de nom, de raison sociale, de forme juridique, par modification;
+- c) 20 francs pour les actes juridiques suivantes:
+  - 1\. propriété par étages:
+  - 1\.1. immatriculation d'une part de propriété par étages, pour chaque unité,
+  - 1\.2. modification d'une part de propriété par étages, pour chaque unité,
+  - 2\. radiations, par radiation,
+  - 3\. déclarations, communications, avis aux créanciers, aux personnes privés et aux autorités, par avis,
+  - 4\. inscription ou modification dans le registre des créanciers, par créancier,
+  - 5\. déréliction, par immeuble,
+  - 6\. légalisation par signature,
+  - 7\. divisions ou réunions de parcelles, pour chaque parcelle.
 
 <sup>3</sup> Le présent tarif relatif aux émoluments doit être appliqué par analogie à tous les cas non expressément mentionnés ci-dessus.
 
@@ -350,7 +360,9 @@ Propriété par étages - Immatriculation d'une part de propriété par étages,
 
 #### Art. 34
 
-Rejet/instruction pour la correction des réquisitions imparfaites Pour le rejet ou l'instruction pour la correction des réquisitions imparfaites, il est perçu en fonction du temps consacré un émolument minimum de 20 francs et au maximum 200 francs.
+**Rejet - instruction pour la correction des réquisitions imparfaites**
+
+<sup>1</sup> Pour le rejet ou l'instruction pour la correction des réquisitions imparfaites, il est perçu en fonction du temps consacré un émolument minimum de 20 francs et au maximum 200 francs.
 
 #### Art. 35
 
@@ -364,17 +376,17 @@ Rejet/instruction pour la correction des réquisitions imparfaites Pour le rejet
 
 **Extraits du registre foncier et états des charges**
 
-<sup>1</sup> Pour l'établissement d'un extrait du registre foncier, il est perçu un montant de Fr. 20.- ainsi qu'un montant de Fr. 5.- pour chaque page supplémentaire.
+<sup>1</sup> Pour l'établissement d'un extrait du registre foncier, il est perçu un montant de 20 francs ainsi qu'un montant de 5 francs pour chaque page supplémentaire.
 
-<sup>2</sup> Pour les extraits d'une propriété par étages, il est perçu un montant de Fr. 20.- par immeuble de base ainsi qu'un montant de Fr. 5.- par unité de propriété par étages.
+<sup>2</sup> Pour les extraits d'une propriété par étages, il est perçu un montant de 20 francs par immeuble de base ainsi qu'un montant de 5 francs par unité de propriété par étages.
 
-<sup>3</sup> Pour l'établissement d'un état des charges, il est perçu un émolument de Fr. 20.-.
+<sup>3</sup> Pour l'établissement d'un état des charges, il est perçu un émolument de 20 francs.
 
 #### Art. 37
 
 **Copies**
 
-Pour l'établissement des copies, il est perçu par page un montant de Fr. 1.-.
+<sup>1</sup> Pour l'établissement des copies, il est perçu par page un montant de 1 francs.
 
 #### Art. 38
 
@@ -384,7 +396,7 @@ Pour l'établissement des copies, il est perçu par page un montant de Fr. 1.-.
 
 <sup>2</sup> Aucun émolument n'est perçu dans le cadre de l'entraide administrative et judiciaire.
 
-### Section 5: Voies de droit
+## 5 Voies de droit
 
 #### Art. 39
 
@@ -394,46 +406,29 @@ Pour l'établissement des copies, il est perçu par page un montant de Fr. 1.-.
 
 <sup>2</sup> L'inspectorat du registre foncier, agissant au nom de l'autorité cantonale de surveillance, a un droit de recours contre les décisions de première instance.
 
-### Section 6: Dispositions finales et transitoires
+## 6 Dispositions finales et transitoires
 
 #### Art. 40
 
 **Registre des propriétaires**
 
-Aussi longtemps que l'introduction du registre foncier n'est pas terminée au niveau cantonal et que les données du registre foncier ne sont pas complètement informatisées, le registre des propriétaires doit être tenu de la façon suivante:
+<sup>1</sup> Aussi longtemps que l'introduction du registre foncier n'est pas terminée au niveau cantonal et que les données du registre foncier ne sont pas complètement informatisées, le registre des propriétaires doit être tenu de la façon suivante:
 
-<sup>1</sup> Le registre des propriétaires est établi par ordre alphabétique et contient le nom de famille, les prénoms, la filiation et la date de naissance.
-
-<sup>2</sup> Chaque propriétaire est inscrit sous son nom de célibataire. Le nom de célibataire est complété par le nom et prénom du conjoint ou du partenaire enregistré.
-
-<sup>3</sup> En cas de copropriété, chaque copropriétaire est inscrit dans le registre des propriétaires.
-
-<sup>4</sup> Dans le registre foncier tenu sur papier, la communauté héréditaire est inscrite sous le nom du défunt et complétée par l'ajout «communauté héréditaire».
+- a) le registre des propriétaires est établi par ordre alphabétique et contient le nom de famille, les prénoms, la filiation et la date de naissance;
+- b) chaque propriétaire est inscrit sous son nom de célibataire. Le nom de célibataire est complété par le nom et prénom du conjoint ou du partenaire enregistré;
+- c) en cas de copropriété, chaque copropriétaire est inscrit dans le registre des propriétaires;
+- d) dans le registre foncier tenu sur papier, la communauté héréditaire est inscrite sous le nom du défunt et complétée par l'ajout "communauté héréditaire".
 
 #### Art. 41
 
 **Abrogation**
 
-L'ordonnance concernant la tenue du registre foncier cantonal du 17 avril 1920 est abrogée.
+<sup>1</sup> L'ordonnance concernant la tenue du registre foncier cantonal du 17 avril 1920 est abrogée.
 
 #### Art. 42
 
 **Entrée en vigueur**
 
-Le présent acte législatif entre en vigueur dès sa publication dans le Bulletin officiel.
+<sup>1</sup> Le présent acte législatif entre en vigueur dès sa publication dans le Bulletin officiel.
 
-A2 insi arrêté en Conseil d'Etat, à Sion, le 5 novembre 2014.
-
-Le président du Conseil d'Etat: Jean-Michel Cina
-
-Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Ainsi arrêté en Conseil d'Etat, à Sion, le 5 BO No 1/2015 02.01.2015 novembre 2014
-
-## Autres notes
-
-- [2] Approuvé par le Département fédéral de justice et police (DFJP) le 18 décembre 2014.
+RCV BO/Abl. 1/2015

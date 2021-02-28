@@ -4,51 +4,52 @@ number: "211.611"
 title: Kantonale Grundbuchverordnung
 short: kGBV
 language: de
-version: 2015-01-02
-corrected: 2017-09-04
-version_adopted: 2014-11-05
+version: 2021-03-01
+valid_until: 2025-09-30
+version_adopted: 2020-12-23
 adopted: 2014-11-05
 in_force: 2015-01-02
 url: "https://lex.vs.ch/app/de/texts_of_law/211.611"
-pdf: "https://lex.vs.ch/api/de/versions/606/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2788/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonale Grundbuchverordnung (kGBV)
+# Kantonale Grundbuchverordnung
 
-vom 5. November 2014
+(kGBV)
+
+vom 05.11.2014 (Stand 01.03.2021)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen die Artikel 953 ff. des Schweizerischen Zivilgesetzbuchs;
+eingesehen die Artikel 953 und folgende des Schweizerischen Zivilgesetzbuchs;
 
 eingesehen die bundesrechtliche Grundbuchverordnung vom 23. September 2011(GBV);
 
-eingesehen die Artikel 66 ff. und 184 ff. des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998 (EGZG);
+eingesehen die Artikel 66 und folgende und 184 und folgende des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 24. März 1998 (EGZG);
 
-eingesehen das Gesetz über die Handänderungssteuer vom 15. März 2012; auf Antrag des Departements für Volkswirtschaft, Energie und Raumentwicklung,
+eingesehen das Gesetz über die Handänderungssteuer vom 15. März 2012;
 
-verordnet:[^t-1]
+auf Antrag des Departements für Volkswirtschaft, Energie und Raumentwicklung,
 
-[^t-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+verordnet:[^ingress-1]
 
-### 1. Abschnitt: Allgemeine Bestimmungen1
+[^ingress-1]: In der vorliegenden Verordnung gilt jede Bezeichnung der Person, des Statuts oder der Funktion in gleicher Weise für Mann oder Frau.
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Inhalt**
 
-Diese Verordnung regelt in Vollzug des übergeordneten Rechts:
+<sup>1</sup> Diese Verordnung regelt in Vollzug des übergeordneten Rechts:
 
-- a) Die Organisation der Grundbuchämter
+- a) die Organisation der Grundbuchämter;
+- b) die Grundbuchführung;
+- c) die Grundbuchgebühren.
 
-- b) Die Grundbuchführung
-
-- c) Die Grundbuchgebühren
-
-### 2. Abschnitt: Organisation der Grundbuchämter
+## 2 Organisation der Grundbuchämter
 
 #### Art. 2
 
@@ -62,13 +63,13 @@ Diese Verordnung regelt in Vollzug des übergeordneten Rechts:
 
 **Grundbuchverwalter**
 
-Jedes Amt wird von einem Grundbuchverwalter geleitet mit einem oder mehreren Stellvertretern.
+<sup>1</sup> Jedes Amt wird von einem Grundbuchverwalter geleitet mit einem oder mehreren Stellvertretern.
 
 #### Art. 4
 
 **Ernennungen**
 
-Die Grundbuchverwalter und ihre Stellvertreter werden gemäss den Bestimmungen des Gesetzes über das Personal des Staates Wallis vom Staatsrat ernannt.
+<sup>1</sup> Die Grundbuchverwalter und ihre Stellvertreter werden gemäss den Bestimmungen des Gesetzes über das Personal des Staates Wallis vom Staatsrat ernannt.
 
 #### Art. 5
 
@@ -84,7 +85,7 @@ Die Grundbuchverwalter und ihre Stellvertreter werden gemäss den Bestimmungen d
 
 **Inspektionen**
 
-Das Grundbuchinspektorat überprüft regelmässig die Grundbuchführung der einzelnen Ämter. Über schwerwiegende Beanstandungen erstattet es dem Departement Bericht.
+<sup>1</sup> Das Grundbuchinspektorat überprüft regelmässig die Grundbuchführung der einzelnen Ämter. Über schwerwiegende Beanstandungen erstattet es dem Departement Bericht.
 
 #### Art. 7
 
@@ -100,13 +101,13 @@ Das Grundbuchinspektorat überprüft regelmässig die Grundbuchführung der einz
 
 **Lokalitäten**
 
-Das Grundbuchamt muss für die Öffentlichkeit zugänglich und mit Ausnahme von Ämtern der Dienststelle, in welche es einverleibt ist, räumlich getrennt sein.
+<sup>1</sup> Das Grundbuchamt muss für die Öffentlichkeit zugänglich und mit Ausnahme von Ämtern der Dienststelle, in welche es einverleibt ist, räumlich getrennt sein.
 
 #### Art. 9
 
 **Schalteröffnungszeiten**
 
-Die Grundbuchämter stehen dem Publikum an allen Arbeitstagen während vier Stunden vormittags offen.
+<sup>1</sup> Die Grundbuchämter stehen dem Publikum an allen Arbeitstagen während vier Stunden vormittags offen.
 
 #### Art. 10
 
@@ -120,7 +121,7 @@ Die Grundbuchämter stehen dem Publikum an allen Arbeitstagen während vier Stun
 
 **Ausstand**
 
-Die Angestellten der Grundbuchämter haben sich in den Ausstand zu begeben in Fällen, in denen sie selber Partei sind oder in denen ihre Ehegatten, ihre eingetragenen Partner, ihre Verwandten und Verschwägerten bis und mit dem dritten Grad beteiligt sind.
+<sup>1</sup> Die Angestellten der Grundbuchämter haben sich in den Ausstand zu begeben in Fällen, in denen sie selber Partei sind oder in denen ihre Ehegatten, ihre eingetragenen Partner, ihre Verwandten und Verschwägerten bis und mit dem dritten Grad beteiligt sind.
 
 #### Art. 12
 
@@ -130,13 +131,13 @@ Die Angestellten der Grundbuchämter haben sich in den Ausstand zu begeben in F�
 
 <sup>2</sup> Mündliche Auskünfte der Angestellten des Grundbuchinspektorats und der Grundbuchämter ziehen keine Haftbarkeit nach sich.
 
-### 3. Abschnitt: Grundbuchführung
+## 3 Grundbuchführung
 
 #### Art. 13
 
 **Gesetzliche Grundlage**
 
-Für die Grundbuchführung gelten insbesondere die Vorschriften des Schweizerischen Zivilgesetzbuchs und der bundesrätlichen Grundbuchverordnung sowie das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch und die nachfolgenden Bestimmungen.
+<sup>1</sup> Für die Grundbuchführung gelten insbesondere die Vorschriften des Schweizerischen Zivilgesetzbuchs und der bundesrätlichen Grundbuchverordnung sowie das Einführungsgesetz zum Schweizerischen Zivilgesetzbuch und die nachfolgenden Bestimmungen.
 
 #### Art. 14
 
@@ -150,25 +151,25 @@ Für die Grundbuchführung gelten insbesondere die Vorschriften des Schweizerisc
 
 **Amtssiegel**
 
-Die Angestellten der Grundbuchämter fügen bei der Ausstellung von Bescheinigungen und Erklärungen in Papierform ihrer Unterschrift immer das amtliche Siegel bei.
+<sup>1</sup> Die Angestellten der Grundbuchämter fügen bei der Ausstellung von Bescheinigungen und Erklärungen in Papierform ihrer Unterschrift immer das amtliche Siegel bei.
 
 #### Art. 16
 
 **Unterschriftsbeglaubigung**
 
-Der Grundbuchverwalter und seine Vertretung haben die Befugnis, gemäss den Bestimmungen des EGZGB, Unterschriften im Zusammenhang mit Grundbuchanmeldungen zu beglaubigen.
+<sup>1</sup> Der Grundbuchverwalter und seine Vertretung haben die Befugnis, gemäss den Bestimmungen des EGZGB, Unterschriften im Zusammenhang mit Grundbuchanmeldungen zu beglaubigen.
 
 #### Art. 17
 
 **Eigentümerregister**
 
-Die Grundbuchämter führen ein Eigentümerregister im Sinne von Art 11 GBV.
+<sup>1</sup> Die Grundbuchämter führen ein Eigentümerregister im Sinne von Artikel 11 GBV.
 
 #### Art. 18
 
 **Gläubigerregister**
 
-Die Grundbuchämter führen ein Gläubigerregister im Sinne von Art. 12 GBV.
+<sup>1</sup> Die Grundbuchämter führen ein Gläubigerregister im Sinne von Artikel 12 GBV.
 
 #### Art. 19
 
@@ -202,13 +203,13 @@ Die Grundbuchämter führen ein Gläubigerregister im Sinne von Art. 12 GBV.
 
 **Stockwerkeigentum**
 
-Die technischen Vorschriften zur Errichtung von Stockwerkeigentum sind in einer Weisung des Grundbuchinspektorats geregelt.
+<sup>1</sup> Die technischen Vorschriften zur Errichtung von Stockwerkeigentum sind in einer Weisung des Grundbuchinspektorats geregelt.
 
 #### Art. 22
 
 **Aufbewahrung von Papierbelegen**
 
-<sup>1</sup> Die vollständig elektronisch eingelesenen Belege werden im Staatsarchiv oder an einem anderen sicheren Ort im Sinne von Art. 37 Abs. 4 GBV aufbewahrt.
+<sup>1</sup> Die vollständig elektronisch eingelesenen Belege werden im Staatsarchiv oder an einem anderen sicheren Ort im Sinne von Artikel 37 Absatz 4 GBV aufbewahrt.
 
 <sup>2</sup> Die übrigen Grundbuchakten werden in den Grundbuchämtern aufbewahrt.
 
@@ -218,25 +219,25 @@ Die technischen Vorschriften zur Errichtung von Stockwerkeigentum sind in einer 
 
 **Dienstbarkeitsplan**
 
-Der Grundbuchverwalter kann in Bezug auf die örtliche Lage einer Dienstbarkeit, welche sich nur auf einen Teil des Grundstücks beschränkt, die Darstellung auf einem Plan, der von einem Geometer unterzeichnet ist, verlangen.
+<sup>1</sup> Der Grundbuchverwalter kann in Bezug auf die örtliche Lage einer Dienstbarkeit, welche sich nur auf einen Teil des Grundstücks beschränkt, die Darstellung auf einem Plan, der von einem Geometer unterzeichnet ist, verlangen.
 
 #### Art. 24
 
 **Gesetzliche Grundpfandrechte**
 
-Die gesetzlichen Pfandrechte werden im Grundbuch gleich wie die vertraglichen Grundpfandverschreibungen dargestellt (Art. 118 Abs. 3 GBV).
+<sup>1</sup> Die gesetzlichen Pfandrechte werden im Grundbuch gleich wie die vertraglichen Grundpfandverschreibungen dargestellt (Art. 118 Abs. 3 GBV).
 
 #### Art. 25
 
 **Eintragung von Teilpfandrechten**
 
-Werden mehrere Grundstücke für dieselbe Forderung verpfändet, ohne dass ein Gesamtpfand errichtet werden soll, und haben die Parteien für die Verteilung nichts bestimmt, so weist der Grundbuchverwalter die Anmeldung ab (Art. 113 Abs. 2 GBV).
+<sup>1</sup> Werden mehrere Grundstücke für dieselbe Forderung verpfändet, ohne dass ein Gesamtpfand errichtet werden soll, und haben die Parteien für die Verteilung nichts bestimmt, so weist der Grundbuchverwalter die Anmeldung ab (Art. 113 Abs. 2 GBV).
 
 #### Art. 26
 
 **Löschungen im Todesfall**
 
-Der Anmeldung zur Löschung einer Nutzniessung oder Wohnrechts im Todesfall, ist eine amtliche Bescheinigung beizulegen.
+<sup>1</sup> Der Anmeldung zur Löschung einer Nutzniessung oder Wohnrechts im Todesfall, ist eine amtliche Bescheinigung beizulegen.
 
 #### Art. 27
 
@@ -250,9 +251,9 @@ Der Anmeldung zur Löschung einer Nutzniessung oder Wohnrechts im Todesfall, ist
 
 **Elektronischer Geschäftsverkehr**
 
-Die Regelung des elektronischen Geschäftsverkehrs bildet Gegenstand einer separaten Verordnung.
+<sup>1</sup> Die Grundbuchämter sind berechtigt elektronischen Geschäftsverkehr durchzuführen. Die Regelung bildet Gegenstand einer separaten Verordnung.
 
-### 4. Abschnitt: Grundbuchgebühren
+## 4 Grundbuchgebühren
 
 #### Art. 29
 
@@ -262,7 +263,7 @@ Die Regelung des elektronischen Geschäftsverkehrs bildet Gegenstand einer separ
 
 <sup>2</sup> Portoauslagen sind in den Gebühren nicht inbegriffen und werden zusätzlich in ihrer effektiven Höhe erhoben.
 
-<sup>3</sup> Für den Arbeitsaufwand im Zusammenhang mit der Vorbereitung und dem Versand wird ein Betrag von fünf Franken pro einfache Sendung, bzw. ein Betrag von zehn Franken für die übrigen Sendungen erhoben.
+<sup>3</sup> Für den Arbeitsaufwand im Zusammenhang mit der Vorbereitung und dem Versand wird ein Betrag von fünf Franken pro einfache Sendung, beziehungsweise ein Betrag von zehn Franken für die übrigen Sendungen erhoben.
 
 <sup>4</sup> Für Versandanzeigen an kantonale und kommunale Dienststellen sowie Gerichte werden keine festen Gebühren erhoben.
 
@@ -288,33 +289,16 @@ Die Regelung des elektronischen Geschäftsverkehrs bildet Gegenstand einer separ
 
 **Verhältnismässige Gebühr**
 
-<sup>1</sup> Die Bemessungsgrundlage für die verhältnismässige Gebühr entspricht der Bemessungsgrundlage von Art. 11 des Gesetzes über die Handänderungssteuer.
+<sup>1</sup> Die Bemessungsgrundlage für die verhältnismässige Gebühr entspricht der Bemessungsgrundlage von Artikel 11 des Gesetzes über die Handänderungssteuer.
 
 <sup>2</sup> Es werden folgende verhältnismässige Gebühren festgelegt:
 
-**2‰, mindestens Fr. 100.- und höchstens Fr.**
-
-- a) Eintragung von Eigentumsrechten an Grundstücken 5'000.-
-
-**2.5‰, mindestens Fr.**
-
-- b) Errichtung Papierschuldbrief, je Titel 100.- und höchstens Fr. 2'500.-
-
-**100.- und höchstens Fr.**
-
-- c) Errichtung von Registerschuldbriefen sowie 1‰, mindestens Fr. Grundpfandverschreibungen 2'500.-
-
-**100.- und höchstens Fr.**
-
-- d) Erhöhung sowie Pfandauswechslung von 2.5‰, mindestens Fr. Papierschuldbriefen 2'500.-
-
-**1‰, mindestens Fr. 100.- und höchstens Fr. 2'500.-**
-
-- e) Erhöhung sowie Pfandauswechslung bei Registerschuldbriefen sowie Grundpfandverschreibungen
-
-**100.- und höchstens Fr.**
-
-- f) Umwandlung von Registerschuldbriefen in 1.5‰, mindestens Fr. Papierschuldbriefe 2'500.-
+- a) Eintragung von Eigentumsrechten an Grundstücken — 2‰, mindestens 100 Franken und höchstens 5'000 Franken
+- b) Errichtung Papierschuldbrief, je Titel — 2.5‰, mindestens 100 Franken und höchstens 2'500 Franken
+- c) Errichtung von Registerschuldbriefen sowie Grundpfandverschreibungen — 1‰, mindestens 100 Franken und höchstens 2'500 Franken
+- d) Erhöhung sowie Pfandauswechslung von Papierschuldbriefen — 2.5‰, mindestens 100 Franken und höchstens 2'500 Franken
+- e) Erhöhung sowie Pfandauswechslung bei Registerschuldbriefen sowie Grundpfandverschreibungen — 1‰, mindestens 100 Franken und höchstens 2'500 Franken
+- f) Umwandlung von Registerschuldbriefen in Papierschuldbriefe — 1.5‰, mindestens 100 Franken und höchstens 2'500 Franken
 
 <sup>3</sup> Bei der Berechnung der verhältnismässigen Gebühr wird die Bemessungsgrundlage auf 1'000 Franken aufgerundet.
 
@@ -332,17 +316,43 @@ Die Regelung des elektronischen Geschäftsverkehrs bildet Gegenstand einer separ
 
 <sup>2</sup> Die feste Gebühr wird wie folgt festgesetzt und pro Anzahl Rechtsgeschäfte gemäss den Buchstaben a, b und c pauschal erhoben:
 
-- a) Fr. 100.- für nachfolgende Rechtsgeschäfte:
-
-Miteigentum - Umwandlung Gesamteigentum in Miteigentum und umgekehrt Stockwerkeigentum - Begründung von Stockwerkeigentum - Änderung von Stockwerkeigentum - Aufhebung von Stockwerkeigentum Dienstbarkeiten und Grundlasten - Begründung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast - Übertragung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast - Änderungen von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast
-
-- b) Fr. 50.- für nachfolgende Rechtsgeschäfte:
-
-Grundpfandrechte - Änderung des Zinsfusses - Pfandvermehrungen oder Pfandentlassung, je Grundstück - Gläubigerwechsel - Umwandlung Papierschuldbrief in Registerschuldbrief - Errichtung leerer Pfandstellen - Rangversetzung - Pfandaufteilung Vormerkungen - Begründung, pro Vormerkung - Änderung, pro Vormerkung Anmerkungen - Begründung, pro Anmerkung - Änderung, pro Anmerkung Bemerkungen, pro Bemerkung Namen-, Firmen-, Sitz- und Rechtsformänderungen, je Änderung
-
-- c) Fr. 20.- für nachfolgende Rechtsgeschäfte:
-
-Stockwerkeigentum - Eintragung einer Stockwerkseigentumseinheit, je Einheit - Änderung einer Stockwerkseigentumseinheit, je Einheit Löschungen, pro Löschung Erklärungen, Mitteilungen, Anzeigen an Gläubiger, Private und Behörden, je Mitteilung Eintrag oder Änderung im Gläubigerregister, je Gläubiger Dereliktion, je Grundstück Beglaubigung pro Unterschrift Teilungen oder Zusammenlegungen von Parzellen, je Parzelle
+- a) 100 Franken für nachfolgende Rechtsgeschäfte:
+  - 1\. Miteigentum: Umwandlung Gesamteigentum in Miteigentum und umgekehrt,
+  - 2\. Stockwerkeigentum:
+  - 2\.1. Begründung von Stockwerkeigentum,
+  - 2\.2. Änderung von Stockwerkeigentum,
+  - 2\.3. Aufhebung von Stockwerkeigentum,
+  - 3\. Dienstbarkeiten und Grundlasten:
+  - 3\.1. Begründung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast,
+  - 3\.2. Übertragung von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast,
+  - 3\.3. Änderungen von Dienstbarkeiten und Grundlasten, pro Dienstbarkeit und Grundlast;
+- b) 50 Franken für nachfolgende Rechtsgeschäfte:
+  - 1\. Grundpfandrechte:
+  - 1\.1. Änderung des Zinsfusses,
+  - 1\.2. Pfandvermehrungen oder Pfandentlassung, je Grundstück,
+  - 1\.3. Gläubigerwechsel,
+  - 1\.4. Umwandlung Papierschuldbrief in Registerschuldbrief,
+  - 1\.5. Errichtung leerer Pfandstellen,
+  - 1\.6. Rangversetzung,
+  - 1\.7. Pfandaufteilung,
+  - 2\. Vormerkungen:
+  - 2\.1. Begründung, pro Vormerkung,
+  - 2\.2. Änderung, pro Vormerkung,
+  - 3\. Anmerkungen:
+  - 3\.1. Begründung, pro Anmerkung,
+  - 3\.2. Änderung, pro Anmerkung,
+  - 4\. Bemerkungen, pro Bemerkung,
+  - 5\. Namen-, Firmen-, Sitz- und Rechtsformänderungen, je Änderung;
+- c) 20 Franken für nachfolgende Rechtsgeschäfte:
+  - 1\. Stockwerkeigentum:
+  - 1\.1. Eintragung einer Stockwerkseigentumseinheit, je Einheit,
+  - 1\.2. Änderung einer Stockwerkseigentumseinheit, je Einheit,
+  - 2\. Löschungen, pro Löschung,
+  - 3\. Erklärungen, Mitteilungen, Anzeigen an Gläubiger, Private und Behörden, je Mitteilung,
+  - 4\. Eintrag oder Änderung im Gläubigerregister, je Gläubiger,
+  - 5\. Dereliktion, je Grundstück,
+  - 6\. Beglaubigung pro Unterschrift,
+  - 7\. Teilungen oder Zusammenlegungen von Parzellen, je Parzelle.
 
 <sup>3</sup> Vorstehender Gebührentarif ist analog auf alle nicht ausdrücklich erwähnten Fälle anzuwenden.
 
@@ -350,7 +360,9 @@ Stockwerkeigentum - Eintragung einer Stockwerkseigentumseinheit, je Einheit - Ä
 
 #### Art. 34
 
-Abweisung / Rückweisung zur Verbesserung von Grundbuchanmeldungen Für die Abweisung oder Rückweisung zur Verbesserung von Grundbuchanmeldungen wird unter Berücksichtigung des Zeitaufwandes eine Gebühr von mindestens Fr. 20.- und maximal Fr. 200.- erhoben.
+**Abweisung - Rückweisung zur Verbesserung von Grundbuchanmeldungen**
+
+<sup>1</sup> Für die Abweisung oder Rückweisung zur Verbesserung von Grundbuchanmeldungen wird unter Berücksichtigung des Zeitaufwandes eine Gebühr von mindestens 20 Franken und maximal 200 Franken erhoben.
 
 #### Art. 35
 
@@ -358,23 +370,23 @@ Abweisung / Rückweisung zur Verbesserung von Grundbuchanmeldungen Für die Abwe
 
 <sup>1</sup> Die einfache mündliche Auskunftserteilung ist in der Regel unentgeltlich.
 
-<sup>2</sup> Die Beantwortung von Voranfragen, spezifische Nachforschungen sowie Korrespondenzen sind gebührenpflichtig und werden nach dem Zeitaufwand verrechnet. Die Mindestgebühr beträgt Fr. 20.-. Der Stundenansatz beträgt für Grundbuchmitarbeiter Fr. 70.- und für Grundbuchjuristen Fr. 150.-.
+<sup>2</sup> Die Beantwortung von Voranfragen, spezifische Nachforschungen sowie Korrespondenzen sind gebührenpflichtig und werden nach dem Zeitaufwand verrechnet. Die Mindestgebühr beträgt Fr. 20.-. Der Stundenansatz beträgt für Grundbuchmitarbeiter 70 Franken und für Grundbuchjuristen 150 Franken.
 
 #### Art. 36
 
 **Grundbuchauszüge und Lastenverzeichnisse**
 
-<sup>1</sup> Für die Errichtung eines Grundbuchauszuges wird ein Betrag von Fr. 20.- und zusätzlich Fr. 5.- für jedes weitere Blatt erhoben.
+<sup>1</sup> Für die Errichtung eines Grundbuchauszuges wird ein Betrag von 20 Franken und zusätzlich 5 Franken für jedes weitere Blatt erhoben.
 
-<sup>2</sup> Für Grundbuchauszüge von Stockwerkeigentum wird ein Betrag von Fr. 20.- pro Stammgrundstück sowie ein Betrag von Fr. 5.- pro Stockwerkeigentumseinheit erhoben.
+<sup>2</sup> Für Grundbuchauszüge von Stockwerkeigentum wird ein Betrag von 20 Franken pro Stammgrundstück sowie ein Betrag von 5 Franken pro Stockwerkeigentumseinheit erhoben.
 
-<sup>3</sup> Für die Ausstellung eines Lastenverzeichnisses wird ein Betrag von Fr. 20.- erhoben.
+<sup>3</sup> Für die Ausstellung eines Lastenverzeichnisses wird ein Betrag von 20 Franken erhoben.
 
 #### Art. 37
 
 **Kopien**
 
-Für die Erstellung von Kopien wird ein Betrag von Fr. 1.- pro Seite erhoben.
+<sup>1</sup> Für die Erstellung von Kopien wird ein Betrag von 1 Franken pro Seite erhoben.
 
 #### Art. 38
 
@@ -384,54 +396,39 @@ Für die Erstellung von Kopien wird ein Betrag von Fr. 1.- pro Seite erhoben.
 
 <sup>2</sup> Im Rahmen von Amts- und Rechtshilfeverfahren werden keine Grundbuchgebühren erhoben.
 
-### 5. Abschnitt: Rechtsweg
+## 5 Rechtsweg
 
 #### Art. 39
 
 **Rechtsmittel**
 
-<sup>1</sup> Beschwerden gegen Entscheide der Grundbuchämter sind innert 30 Tagen an den Staatsrat zu richten. Das Verfahren bestimmt sich nach Art. 69 EGZGB.
+<sup>1</sup> Beschwerden gegen Entscheide der Grundbuchämter sind innert 30 Tagen an den Staatsrat zu richten. Das Verfahren bestimmt sich nach Artikel 69 EGZGB.
 
 <sup>2</sup> Das Grundbuchinspektorat ist im Namen der kantonalen Aufsichtsbehörde zur Beschwerde gegen erstinstanzliche Entscheide berechtigt.
 
-### 6. Abschnitt: Übergangs- und Schlussbestimmungen
+## 6 Übergangs- und Schlussbestimmungen
 
 #### Art. 40
 
 **Eigentümerregister**
 
-Solange die Grundbucheinführung im Kanton nicht abgeschlossen und die Daten des Grundbuchs nicht vollständig informatisiert sind, wird das Eigentümerregister wie folgt geführt:
+<sup>1</sup> Solange die Grundbucheinführung im Kanton nicht abgeschlossen und die Daten des Grundbuchs nicht vollständig informatisiert sind, wird das Eigentümerregister wie folgt geführt:
 
-<sup>1</sup> Das Eigentümerregister ist in alphabetischer Reihenfolge anzulegen und enthält Name, Vornamen, Abstammung und Geburtsdatum.
-
-<sup>2</sup> Jeder Eigentümer wird unter dem Ledignamen eingetragen. Der Ledigname wird mit dem Namen und Vornamen des Ehegatten oder des eingetragenen Partners ergänzt.
-
-<sup>3</sup> Bei Miteigentum wird jeder Miteigentümer in das Eigentümerverzeichnis eingetragen.
-
-<sup>4</sup> Im Papiergrundbuch wird die Erbengemeinschaft unter dem Namen des Erblassers eingetragen und mit dem Zusatz «Erbengemeinschaft» ergänzt.
+- a) das Eigentümerregister ist in alphabetischer Reihenfolge anzulegen und enthält Name, Vornamen, Abstammung und Geburtsdatum;
+- b) jeder Eigentümer wird unter dem Ledignamen eingetragen. Der Ledigname wird mit dem Namen und Vornamen des Ehegatten oder des eingetragenen Partners ergänzt;
+- c) bei Miteigentum wird jeder Miteigentümer in das Eigentümerverzeichnis eingetragen;
+- d) im Papiergrundbuch wird die Erbengemeinschaft unter dem Namen des Erblassers eingetragen und mit dem Zusatz "Erbengemeinschaft" ergänzt.
 
 #### Art. 41
 
 **Aufhebung**
 
-Die Verordnung betreffend die Führung des kantonalen Grundbuchs vom 17. April 1920 wird aufgehoben.
+<sup>1</sup> Die Verordnung betreffend die Führung des kantonalen Grundbuchs vom 17. April 1920 wird aufgehoben.
 
 #### Art. 42
 
 **Inkrafttreten**
 
-Der vorliegende Rechtserlass tritt mit seiner Veröffentlichung im Amtsblatt in Kraft.
+<sup>1</sup> Der vorliegende Rechtserlass tritt mit seiner Veröffentlichung im Amtsblatt in Kraft.
 
-S2 o angenommen im Staatsrat zu Sitten, den 5. November 2014.
-
-Der Präsident des Staatsrates: Jean-Michel Cina
-
-Der Staatskanzler: Philipp Spörri
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-Kantonale Grundbuchverordnung (kGBV) Abl. Nr. 1/2015 02.01.2015 vom 5. November 2014
-
-## Weitere Fussnoten
-
-- [2] Genehmigt durch das Eidgenössische Justiz- und Polizeidepartement (EJPD) am 18. Dezember 2014.
+CSW BO/Abl. 1/2015
