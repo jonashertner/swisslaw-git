@@ -3,20 +3,20 @@ canton: BE
 number: "862.71"
 title: "Arrêté du Conseil-exécutif concernant l'adhésion du canton de Berne à la Convention intercantonale relative aux institutions sociales (CIIS) *"
 language: fr
-version: 2019-06-01
-valid_until: 2021-02-28
-version_adopted: 2019-04-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2003-12-10
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.71"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1653/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2133/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l'adhésion du canton de Berne à la Convention intercantonale relative aux institutions sociales (CIIS)
 
-du 10.12.2003 (état au 01.06.2019)
+du 10.12.2003 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,7 +42,7 @@ arrête:
 
 #### Art. 3
 
-<sup>1</sup> L'Office des personnes âgées et handicapées de la SAP est désigné comme office de liaison au sens de l'article 10 de la convention.
+<sup>1</sup> L'Office des personnes âgées et des personnes handicapées de la DSSI est désigné comme office de liaison au sens de l'article 10 de la convention.
 
 #### Art. 4
 
@@ -50,7 +50,7 @@ arrête:
 
 #### Art. 5
 
-<sup>1</sup> Les directives édictées par le comité de la Conférence de la convention conformément à l'article 9, lettre g) CIIS sont publiées sous forme de renvoi dans le Recueil officiel des lois bernoises sur avis de la SAP.
+<sup>1</sup> Les directives édictées par le comité de la Conférence de la convention conformément à l'article 9, alinéa 1, lettre g de la convention sont publiées sous forme de renvoi dans le Recueil officiel des lois bernoises sur avis de la DSSI.
 
 #### Art. 6
 

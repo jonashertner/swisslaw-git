@@ -3,20 +3,20 @@ canton: BE
 number: "862.71"
 title: Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
 language: de
-version: 2019-06-01
-valid_until: 2021-02-28
-version_adopted: 2019-04-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2003-12-10
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.71"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1653/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2133/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss betreffend den Beitritt des Kantons Bern zur Interkantonalen Vereinbarung für soziale Einrichtungen (IVSE)
 
-vom 10.12.2003 (Stand 01.06.2019)
+vom 10.12.2003 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,7 +42,7 @@ beschliesst:
 
 #### Art. 3
 
-<sup>1</sup> Das Alters- und Behindertenamt der GEF ist Verbindungsstelle nach Artikel 10 der Vereinbarung.
+<sup>1</sup> Das Alters- und Behindertenamt der GSI ist Verbindungsstelle nach Artikel 10 der Vereinbarung.
 
 #### Art. 4
 
@@ -50,7 +50,7 @@ beschliesst:
 
 #### Art. 5
 
-<sup>1</sup> Die auf Grund von Artikel 9 Buchstabe g) IVSE vom Vorstand der Vereinbarungskonferenz zu erlassenden Richtlinien werden auf Meldung der GEF hin in der Bernischen Amtlichen Gesetzessammlung in der Form eines Verweises veröffentlicht.
+<sup>1</sup> Die auf Grund von Artikel 9 Absatz 1 Buchstabe g der Vereinbarung vom Vorstand der Vereinbarungskonferenz zu erlassenden Richtlinien werden auf Meldung der GSI hin in der Bernischen Amtlichen Gesetzessammlung in der Form eines Verweises veröffentlicht.
 
 #### Art. 6
 
