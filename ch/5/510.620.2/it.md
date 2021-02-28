@@ -1,0 +1,157 @@
+---
+sr: "510.620.2"
+title: Ordinanza del DDPS del 3 aprile 2020 sugli emolumenti dell’Ufficio federale di topografia (OEm-swisstopo)
+eli: "https://fedlex.data.admin.ch/eli/cc/2021/38"
+language: it
+version: 2021-03-01
+adopted: 2020-04-03
+in_force: 2021-03-01
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/38/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2021-38-20210301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/38/20210301/it"
+---
+
+> Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
+
+# Ordinanza del DDPS sugli emolumenti dell’Ufficio federale di topografia
+
+(OEm-swisstopo)
+
+del 3 aprile 2020 (Stato 1° marzo 2021)
+
+Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS),
+
+visto l’articolo 46*a* dell’ordinanza del 21 maggio 2008[^ingress-1] sulla geoinformazione (OGI),
+
+ordina:
+
+[^ingress-1]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
+#### Art. 1
+
+**Oggetto**
+
+La presente ordinanza disciplina le tariffe degli emolumenti per le prestazioni ufficiali dell’Ufficio federale di topografia.
+
+#### Art. 2
+
+**Calcolo dell’emolumento**
+
+Le aliquote per il calcolo degli emolumenti sono stabilite nell’allegato.
+
+#### Art. 3
+
+**Rinuncia alla riscossione degli emolumenti**
+
+<sup>1</sup>
+
+L’Ufficio federale di topografia può rinunciare in generale o per un determinato periodo di tempo alla riscossione degli emolumenti per determinate prestazioni ufficiali o per determinate modalità di prestazioni ufficiali. Ciò è applicabile in particolare alle prestazioni ufficiali per:
+
+- a. scopi promozionali dell’Ufficio federale di topografia;
+- b. scopi di test;
+- c. progetti comuni dell’Ufficio federale di topografia con terzi.
+
+<sup>2</sup> Per determinate prestazioni ufficiali l’Ufficio federale di topografia può inoltre rinunciare nel singolo caso alla riscossione degli emolumenti se le prestazioni sono impiegate per l’elaborazione o la pubblicazione di lavori puramente scientifici, segnatamente di rapporti di ricerca e di lavori qualificati (lavori di diploma, tesi di master, dottorati e simili).
+
+#### Art. 4
+
+**Abrogazione di un altro atto normativo**
+
+L’ordinanza del DDPS del 20 novembre 2009[^4-1] sugli emolumenti dell’Ufficio federale di topografia è abrogata.
+
+[^4-1]: [[RU 2009 6195](https://fedlex.data.admin.ch/eli/oc/2009/760), [2016 3031](https://fedlex.data.admin.ch/eli/oc/2016/513), [2017 5905](https://fedlex.data.admin.ch/eli/oc/2017/644)]
+
+#### Art. 5
+
+**Entrata in vigore**
+
+La presente ordinanza entra in vigore il 1° marzo 2021.
+
+Allegato
+
+(art. 2)
+
+## Aliquote per il calcolo degli emolumenti
+
+### 1 Emolumento per l’utilizzazione eccessiva
+
+<sup>1</sup> L’emolumento per l’utilizzazione eccessiva secondo l’articolo 44 capoverso 2 OGI ammonta a:
+
+- a. 1–20 franchi per ogni milione di interrogazioni (request);
+- b. 0,01–1 franchi per ogni gigabyte (GB) di volume dati.
+
+<sup>2</sup> L’emolumento può essere calcolato sulla base di una combinazione di tariffe secondo il capoverso 1.
+
+### 2 Emolumento in funzione del tempo impiegato
+
+<sup>1</sup> L’emolumento in funzione del tempo impiegato equivale a 160 franchi l’ora.
+
+<sup>2</sup> Se per i prodotti analogici (n. 3) e i servizi e le prestazioni particolari (n. 4) non è riscosso un emolumento forfettario, l’emolumento è calcolato in funzione del tempo impiegato.
+
+### 3 Emolumenti forfettari per prodotto analogici
+
+### 3.1 Carte e atlanti analogici
+
+<table>
+<tr><th>Prestazione</th><th>Emolumento / tariffa Aliquota per esemplare / franchi</th></tr>
+<tr><td>Carte nazionali analogiche</td><td></td></tr>
+<tr><td>Da 1:10 000 a 1:1 000 000</td><td>da 8 a 20</td></tr>
+<tr><td>Composizioni</td><td>da 8 a 35</td></tr>
+<tr><td>Carte speciali</td><td></td></tr>
+<tr><td>Carta OACI della Svizzera 1:500 000</td><td>da 10 a 26</td></tr>
+<tr><td>Carta del volo a vela della Svizzera 1:300 000</td><td>da 10 a 26</td></tr>
+<tr><td>Altre carte speciali ufficiali</td><td>da 10 a 30</td></tr>
+<tr><td>Atlanti nazionali e carte geologiche</td><td></td></tr>
+<tr><td>Atlante climatico della Svizzera, singoli fogli</td><td>da 40 a 60</td></tr>
+<tr><td>Atlante climatico della Svizzera, opera completa</td><td>da 250 a 370</td></tr>
+<tr><td>Atlante idrologico della Svizzera, singoli fogli</td><td>da 50 a 90</td></tr>
+<tr><td>Atlante idrologico della Svizzera, opera completa</td><td>da 400 a 600</td></tr>
+<tr><td>Carte geologiche, carte geofisiche e carte geotecniche</td><td>da 10 a 90</td></tr>
+</table>
+
+### 3.2 Altri prodotti editoriali
+
+L’emolumento per altri prodotti editoriali analogici (ad es. rapporti) ammonta a 5–60 franchi al pezzo.
+
+### 3.3 Sconti per prodotti analogici
+
+Per quanto riguarda i prodotti analogici, sugli emolumenti secondo i numeri 3.1 e 3.2 sono concessi i seguenti sconti:
+
+- a. in caso di acquisizione per la rivendita: 20–60 per cento;
+- b. sconto di quantità per clienti finali: 20–30 per cento.
+
+### 4 Emolumenti forfetari per servizi e prestazioni particolari
+
+### 4.1 Swiss positioning service (swipos)
+
+<sup>1</sup> L’emolumento per il Swiss positioning service (swipos) secondo l’articolo 3 capoverso 3 dell’ordinanza del DDPS del 5 giugno 2008[^annexu1-lvlu1-lvl4-lvl41-1] sulla misurazione nazionale ammonta a:
+
+- a. 0,5 franchi al minuto per consultazioni singole (pay per use); o
+- b. 2000 franchi l’anno (flat rate).
+
+<sup>2</sup> Sull’emolumento secondo il capoverso 1 lettera b sono concessi i seguenti sconti:
+
+- a. in caso di acquisizione per la rivendita: 20–80 per cento;
+- b. nel caso di clienti finali con licenze multiple: moltiplicazione per √n, dove n equivale al numero di licenze per la medesima persona fisica o la medesima azienda.
+
+[^annexu1-lvlu1-lvl4-lvl41-1]: [RS 510.626.1](https://fedlex.data.admin.ch/eli/cc/2008/395)
+
+### 4.2 Altri servizi
+
+<sup>1</sup> In applicazione per analogia dell’articolo 44 capoverso 2 OGI l’emolumento per altri servizi ammonta a:
+
+- a. 1–20 franchi per ogni milione di interrogazioni (request);
+- b. 0,01–1 franchi per ogni gigabyte (GB) di volume dati.
+
+<sup>2</sup> L’emolumento può essere calcolato sulla base di una combinazione di tariffe secondo il capoverso 1.
+
+### 4.3 Software
+
+<sup>1</sup> L’emolumento per lo scaricamento e l’utilizzazione di *software* (programmi e biblioteche) è di regola definito contrattualmente.
+
+<sup>2</sup> In considerazione dei costi di sviluppo, della complessità e dell’utilità economica, l’emolumento ammonta a 0–6000 franchi.
+
+### 5 Decisioni
+
+Agli emolumenti per le decisioni si applicano le disposizioni dell’ordinanza generale dell’8 settembre 2004[^annexu1-lvlu1-lvl5-1] sugli emolumenti.
+
+[^annexu1-lvlu1-lvl5-1]: [RS 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
