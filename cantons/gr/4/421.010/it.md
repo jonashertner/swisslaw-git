@@ -4,34 +4,37 @@ number: "421.010"
 title: Ordinanza relativa alla legge scolastica
 short: Ordinanza scolastica
 language: it
-version: 2013-08-01
-corrected: 2014-10-09
-version_adopted: 2012-09-25
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-09
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1857/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3161/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza relativa alla legge scolastica (Ordinanza scolastica)
+# Ordinanza relativa alla legge scolastica
+
+(Ordinanza scolastica)
+
+del 25.09.2012 (stato 01.03.2021)
 
 emanata dal Governo il 25 settembre 2012
 
-visti l'art. 45 cpv. 1 della Costituzione cantonale[^t-1] e l'art. 97 della legge per le scuole popolari del Cantone dei Grigioni (legge scolastica)[^t-2]
+visti l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1] e l'art. 97 della legge per le scuole popolari del Cantone dei Grigioni (legge scolastica)[^ingress-2]
 
-I. Enti scolastici
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-2]: CSC [421.000](https://www.gr-lex.gr.ch/data/421.000/it)
 
-[^t-1]: CSC 110.100
-[^t-2]: CSC 421.000 1.8.2013 1
+## 1. Enti scolastici
 
 #### Art. 1
 
 **Obbligo di ammissione**
 
-Ogni ente scolastico è tenuto ad ammettere alla frequenza della scuola allievi di comuni limitrofi privi di una corrispondente offerta pubblica, se sono disponibili l'infrastruttura e un numero sufficiente di insegnanti.
+<sup>1</sup> Ogni ente scolastico è tenuto ad ammettere alla frequenza della scuola allievi di comuni limitrofi privi di una corrispondente offerta pubblica, se sono disponibili l'infrastruttura e un numero sufficiente di insegnanti.
 
 #### Art. 2
 
@@ -47,17 +50,17 @@ Ogni ente scolastico è tenuto ad ammettere alla frequenza della scuola allievi 
 
 **Collaborazione con enti scolastici privati**
 
-I contratti tra enti scolastici privati e pubblici necessitano dell'autorizzazione del Dipartimento.
+<sup>1</sup> I contratti tra enti scolastici privati e pubblici necessitano dell'autorizzazione del Dipartimento.
 
-### II. Offerte scolastiche e di formazione
+## 2. Offerte scolastiche e di formazione
 
-- 1\. GRADI SCOLASTICI
+### 2.1. Gradi scolastici
 
 #### Art. 4
 
 **Ammissione e frequenza della scuola dell'infanzia**
 
-L'ammissione alla scuola dell'infanzia avviene per l'inizio dell'anno scolastico. La scuola dell'infanzia va frequentata regolarmente.
+<sup>1</sup> L'ammissione alla scuola dell'infanzia avviene per l'inizio dell'anno scolastico. La scuola dell'infanzia va frequentata regolarmente.
 
 #### Art. 5
 
@@ -69,9 +72,7 @@ L'ammissione alla scuola dell'infanzia avviene per l'inizio dell'anno scolastico
 
 <sup>3</sup> Il Dipartimento emana direttive relative all'organizzazione e alla permeabilità.
 
-- 2\. OBBLIGO SCOLASTICO, LUOGO DI FREQUENZA
-
-DELLA SCUOLA E CARATTERE GRATUITO
+### 2.2. Obbligo scolastico, luogo di frequenza della scuola e carattere gratuito
 
 #### Art. 6
 
@@ -88,10 +89,6 @@ DELLA SCUOLA E CARATTERE GRATUITO
 <sup>1</sup> Gli enti scolastici possono ammettere alla scuola dell'infanzia anche bambini che compiranno il quarto anno d'età entro il 31 dicembre dell'anno civile in corso.
 
 <sup>2</sup> Dopo aver sentito i titolari dell'autorità parentale, il consiglio scolastico può differire di un anno la frequenza della scuola dell'infanzia, se una perizia psicoscolastica attesta che secondo lo stato di sviluppo le condizioni per un accesso alla scuola dell'infanzia non sono soddisfatte e che un'istruzione scolastica speciale non entra in considerazione.
-
-**2**
-
-1.8.2013
 
 #### Art. 8
 
@@ -121,23 +118,18 @@ DELLA SCUOLA E CARATTERE GRATUITO
 
 **Trasporto degli allievi**
 
-Le condizioni che richiedono il trasporto degli allievi sono date se dagli allievi non si può pretendere che raggiungano la scuola a piedi, in particolare se:
+<sup>1</sup> Le condizioni che richiedono il trasporto degli allievi sono date se dagli allievi non si può pretendere che raggiungano la scuola a piedi, in particolare se:
 
 - a) la strada è particolarmente lunga o pericolosa;
-
 - b) vi è un handicap che pregiudica in misura considerevole la possibilità di percorrere la strada senza un mezzo di trasporto.
 
-- 3\. SCUOLE PRIVATE E INSEGNAMENTO PRIVATO
+### 2.3. Scuole private e insegnamento privato
 
 #### Art. 12
 
 **Autorizzazione all'insegnamento**
 
-Gli insegnanti di scuole private e quelli che impartiscono insegnamento privato devono soddisfare le stesse condizioni valide per gli insegnanti della scuola popolare pubblica.
-
-**3**
-
-1.8.2013
+<sup>1</sup> Gli insegnanti di scuole private e quelli che impartiscono insegnamento privato devono soddisfare le stesse condizioni valide per gli insegnanti della scuola popolare pubblica.
 
 #### Art. 13
 
@@ -147,28 +139,25 @@ Gli insegnanti di scuole private e quelli che impartiscono insegnamento privato 
 
 <sup>2</sup> Il Governo può decidere la chiusura di scuole private se queste non soddisfano le disposizioni legali o le condizioni poste.
 
-### III. Organizzazione della scuola
+## 3. Organizzazione della scuola
 
-- 1\. CONDUZIONE E ORGANIZZAZIONE
+### 3.1. Conduzione e organizzazione
 
 #### Art. 14
 
 **Approvazione del regolamento della scuola**
 
-Per essere valido, il regolamento della scuola deve essere approvato dal Dipartimento.
+<sup>1</sup> Per essere valido, il regolamento della scuola deve essere approvato dal Dipartimento.
 
 #### Art. 15
 
 **Condizioni minime per le direzioni scolastiche**
 
-Le direzioni scolastiche soddisfano le condizioni minime se:
+<sup>1</sup> Le direzioni scolastiche soddisfano le condizioni minime se:
 
 - a) ai membri della direzione scolastica viene delegata la gestione operativa della scuola nei settori della pedagogia e della pedagogia specializzata, del personale, dell'organizzazione, dell'amministrazione e delle finanze e se i rispettivi compiti sono stabiliti in un mansionario;
-
 - b) i membri della direzione scolastica dispongono di esperienza professionale nel settore della pedagogia e di una formazione complementare nel settore della direzione di scuole. L'Ufficio decide in merito all'equivalenza di esperienze professionali e formazioni extrascolastiche;
-
 - c) il volume d'impiego che un direttore scolastico dedica all'adempimento dei suoi compiti è almeno del 20 per cento. Per il calcolo del volume d'impiego minimo fanno stato le disposizioni della legislazione cantonale sul personale;
-
 - d) sono osservate le direttive del Dipartimento concernenti i contatti con le autorità cantonali.
 
 #### Art. 16
@@ -179,23 +168,19 @@ Le direzioni scolastiche soddisfano le condizioni minime se:
 
 <sup>2</sup> Le direzioni scolastiche sono tenute a fornire informazioni all'Ufficio.
 
-**4**
-
-1.8.2013
-
 #### Art. 17
 
 **Direzioni scolastiche comuni**
 
-Per le direzioni scolastiche attive per diversi enti scolastici va stabilita contrattualmente una regolamentazione comune e unitaria dell'orario di lavoro e delle competenze.
+<sup>1</sup> Per le direzioni scolastiche attive per diversi enti scolastici va stabilita contrattualmente una regolamentazione comune e unitaria dell'orario di lavoro e delle competenze.
 
 #### Art. 18
 
 **Rilevamento di dati statistici**
 
-Gli enti scolastici sono tenuti a rilevare dati statistici secondo le direttive del Dipartimento.
+<sup>1</sup> Gli enti scolastici sono tenuti a rilevare dati statistici secondo le direttive del Dipartimento.
 
-- 2\. ATTIVITÀ SCOLASTICA
+### 3.2. Attività scolastica
 
 #### Art. 19
 
@@ -203,31 +188,28 @@ Gli enti scolastici sono tenuti a rilevare dati statistici secondo le direttive 
 
 <sup>1</sup> Una sezione di scuola dell'infanzia non può di norma contare più di 20 bambini.
 
-<sup>2</sup> Una sezione di scuola elementare non può di norma contare più di: 24 allievi in una sezione monoclasse;
+<sup>2</sup> Una sezione di scuola elementare non può di norma contare più di:
 
-20 allievi in una sezione di due classi;
+- a) 24 allievi in una sezione monoclasse;
+- b) 20 allievi in una sezione di due classi;
+- c) 18 allievi in una sezione di tre classi;
+- d) 16 allievi in una sezione di quattro classi;
+- e) 14 allievi in una sezione di cinque o sei classi.
 
-18 allievi in una sezione di tre classi;
+<sup>3</sup> Una sezione di scuola secondaria non può di norma contare più di:
 
-16 allievi in una sezione di quattro classi;
-
-14 allievi in una sezione di cinque o sei classi.
-
-<sup>3</sup> Una sezione di scuola secondaria non può di norma contare più di: 22 allievi in una sezione monoclasse;
-
-18 allievi in una sezione di due o tre classi.
+- a) 22 allievi in una sezione monoclasse;
+- b) 18 allievi in una sezione di due o tre classi.
 
 <sup>4</sup> Una sezione di scuola di avviamento pratico non può di norma contare più di:
 
-20 allievi in una sezione monoclasse;
-
-16 allievi in una sezione di due o tre classi.
+- a) 20 allievi in una sezione monoclasse;
+- b) 16 allievi in una sezione di due o tre classi.
 
 <sup>5</sup> Una sezione di attività artigianali e tessili e di economia domestica non può di norma contare più di:
 
-14 allievi in una sezione monoclasse;
-
-12 allievi in una sezione pluriclasse.
+- a) 14 allievi in una sezione monoclasse;
+- b) 12 allievi in una sezione pluriclasse.
 
 #### Art. 20
 
@@ -235,15 +217,12 @@ Gli enti scolastici sono tenuti a rilevare dati statistici secondo le direttive 
 
 <sup>1</sup> Le sezioni non possono di norma essere più piccole di:
 
-Scuola dell'infanzia: 5 bambini Scuola elementare: 5 allievi Scuola di avviamento 7 allievi pratico:
-
-Scuola secondaria: 10 allievi
+- a) Scuola dell'infanzia: 5 bambini
+- b) Scuola elementare: 5 allievi
+- c) Scuola di avviamento pratico: 7 allievi
+- d) Scuola secondaria: 10 allievi
 
 <sup>2</sup> Il grado secondario I deve contare complessivamente almeno 17 allievi.
-
-**5**
-
-1.8.2013
 
 #### Art. 21
 
@@ -257,7 +236,7 @@ Scuola secondaria: 10 allievi
 
 **Eventi scolastici particolari**
 
-L'ente scolastico può dichiarare obbligatori particolari eventi scolastici durante pomeriggi liberi o di sabato.
+<sup>1</sup> L'ente scolastico può dichiarare obbligatori particolari eventi scolastici durante pomeriggi liberi o di sabato.
 
 #### Art. 23
 
@@ -281,41 +260,37 @@ L'ente scolastico può dichiarare obbligatori particolari eventi scolastici dura
 
 **Giorni di congedo**
 
-I giorni di congedo concessi dall'ente scolastico agli allievi possono essere autorizzati anche sotto forma di singole lezioni. L'entità totale non può superare i 15 giorni di scuola oppure il triplo del numero di ore settimanali del corrispondente grado scolastico.
+<sup>1</sup> I giorni di congedo concessi dall'ente scolastico agli allievi possono essere autorizzati anche sotto forma di singole lezioni. L'entità totale non può superare i 15 giorni di scuola oppure il triplo del numero di ore settimanali del corrispondente grado scolastico.
 
-- 3\. CONTENUTI, PROGRAMMA DIDATTICO E TESTI DIDATTICI
+### 3.3. Contenuti, programma didattico e testi didattici
 
 #### Art. 26
 
 **Materie d'insegnamento 1. Grado elementare**
 
-<sup>1</sup> Sono materie obbligatorie nel grado elementare: lingua scolastica quale prima lingua, un'altra lingua cantonale quale lingua seconda, inglese, matematica, insegnamento oggettivo/studio dell'ambiente locale, storia, geografia, scienze naturali, religione, disegno ed espressione creativa, calligrafia, canto e musica, ginnastica, attività manuali (tessili o artigianali).
+<sup>1</sup> La griglia oraria del grado elementare comprende materie obbligatorie.
 
-**6**
-
-1.8.2013
-
-<sup>2</sup> Le esigenze e le competenze interdisciplinari quali igiene e salute, educazione ambientale ed educazione stradale vanno integrate nelle diverse materie d'insegnamento.
+<sup>2</sup> La materia religione si svolge sotto la responsabilità delle Chiese riconosciute dallo Stato e deve figurare quale materia obbligatoria nei piani delle lezioni.
 
 #### Art. 27
 
 **2. Grado secondario I**
 
-<sup>1</sup> Sono materie obbligatorie nel grado secondario I: lingua scolastica quale prima lingua, un'ulteriore lingua cantonale quale lingua seconda, inglese, matematica (aritmetica, algebra, geometria), uomo e ambiente (religione, scienza delle religioni ed etica, scienze naturali, geografia, storia/civica e nozioni commerciali, economia domestica), educazione figurativa, attività manuali (tessili o artigianali), canto e musica, educazione fisica, informatica di base.
+<sup>1</sup> La griglia oraria per il grado secondario comprende materie obbligatorie e opzionali.
 
-<sup>2</sup> Se vi partecipano almeno cinque allievi e vi sono i necessari insegnanti possono essere impartite quali materie d'opzione obbligatoria e materie opzionali: metodi di studio e di lavoro, coro/orchestra, altre lingue straniere (italiano, romancio, francese), disegno tecnico, attività manuali (tessili o artigianali), economia domestica, dattilografia, esercitazioni matematiche, esercitazioni scientifiche, esercitazioni tecniche, teatro e danza, educazione fisica, nozioni commerciali.
+<sup>2</sup> La materia religione si svolge sotto la responsabilità delle Chiese riconosciute dallo Stato e deve figurare quale materia obbligatoria nei piani delle lezioni.
 
-<sup>3</sup> Le lingue nazionali non indicate quali materie obbligatorie devono essere proposte quali materie opzionali indipendentemente dal numero di partecipanti; parti di questo insegnamento possono anche essere svolte quali settimane intensive nelle regioni linguistiche.
+<sup>3</sup> …
 
-<sup>4</sup> Le esigenze e le competenze interdisciplinari quali igiene e salute, educazione ambientale, mediatica e stradale, nonché quelle legate alla preparazione alla scelta professionale vanno integrate nelle diverse materie d'insegnamento.
+<sup>4</sup> …
 
-<sup>5</sup> Il Dipartimento emana direttive sulle possibilità di rinunciare a determinate materie.
+<sup>5</sup> …
 
 #### Art. 28
 
 **Scuole e classi bilingui**
 
-Il Governo autorizza sulla base di una domanda e di un corrispondente piano scuole e classi gestite in due lingue cantonali.
+<sup>1</sup> Il Governo autorizza sulla base di una domanda e di un corrispondente piano scuole e classi gestite in due lingue cantonali.
 
 #### Art. 29
 
@@ -329,17 +304,13 @@ Il Governo autorizza sulla base di una domanda e di un corrispondente piano scuo
 
 <sup>4</sup> L'Ufficio fissa il prezzo di vendita del materiale didattico.
 
-**7**
-
-**8**
-
-1.8.2013 4. OFFERTE COMPLEMENTARI
+### 3.4. Offerte complementari
 
 #### Art. 30
 
 **Scuole secondarie di valle 1. Organizzazione**
 
-La scuola secondaria di valle comprende al massimo tre classi basate sulla 6<sup>a</sup> classe elementare. La 3<sup>a</sup> classe può essere gestita secondo le disposizioni della Confederazione per le scuole di maturità.
+<sup>1</sup> La scuola secondaria di valle comprende al massimo tre classi basate sulla 6a classe elementare. La 3a classe può essere gestita secondo le disposizioni della Confederazione per le scuole di maturità.
 
 #### Art. 31
 
@@ -347,7 +318,7 @@ La scuola secondaria di valle comprende al massimo tre classi basate sulla 6<sup
 
 <sup>1</sup> Il Governo decide in merito al riconoscimento di una scuola secondaria quale scuola secondaria di valle, se viene dimostrato il bisogno.
 
-<sup>2</sup> Il Governo rilascia e ritira alla scuola secondaria di valle l'autorizzazione alla gestione della 3<sup>a</sup> classe secondo le disposizioni della Confederazione per le scuole di maturità.
+<sup>2</sup> Il Governo rilascia e ritira alla scuola secondaria di valle l'autorizzazione alla gestione della 3a classe secondo le disposizioni della Confederazione per le scuole di maturità.
 
 #### Art. 32
 
@@ -357,27 +328,23 @@ La scuola secondaria di valle comprende al massimo tre classi basate sulla 6<sup
 
 <sup>2</sup> L'Ufficio può dispensare dalla frequenza di singole materie del programma didattico ordinario della scuola secondaria allievi iscritti a materie particolari.
 
-<sup>3</sup> Se la 3<sup>a</sup> classe viene gestita secondo le disposizioni della Confederazione per le scuole di maturità, vengono applicati per analogia il programma didattico e la griglia oraria della Scuola cantonale.
+<sup>3</sup> Se la 3a classe viene gestita secondo le disposizioni della Confederazione per le scuole di maturità, vengono applicati per analogia il programma didattico e la griglia oraria della Scuola cantonale.
 
 #### Art. 33
 
 **4. Garanzia della qualità**
 
-Se una classe viene gestita secondo le disposizioni della Confederazione per le scuole di maturità, devono essere adempite le seguenti condizioni per garantire la qualità della formazione:
+<sup>1</sup> Se una classe viene gestita secondo le disposizioni della Confederazione per le scuole di maturità, devono essere adempite le seguenti condizioni per garantire la qualità della formazione:
 
 - a) gli insegnanti frequentano attività di perfezionamento professionale per insegnanti di scuola media grigionesi secondo le condizioni valide per le scuole medie private;
-
-- b) gli allievi devono essere preparati in modo che, alla fine della 3<sup>a</sup> classe, possano di regola accedere a una scuola media grigionese senza dover ripetere un anno scolastico;
-
-- c) prima di accedere alla 4<sup>a</sup> classe di una scuola media grigionese, coloro che hanno assolto la 3<sup>a</sup> classe devono frequentare di regola un corso intensivo di tedesco da stabilirsi da parte del Dipartimento. Il Cantone si assume i costi del corso.
+- b) gli allievi devono essere preparati in modo che, alla fine della 3a classe, possano di regola accedere a una scuola media grigionese senza dover ripetere un anno scolastico;
+- c) prima di accedere alla 4a classe di una scuola media grigionese, coloro che hanno assolto la 3a classe devono frequentare di regola un corso intensivo di tedesco da stabilirsi da parte del Dipartimento. Il Cantone si assume i costi del corso.
 
 #### Art. 34
 
 **Classi per ragazzi dotati di particolari talenti**
 
-<sup>1</sup> L'ammissione di allievi a una classe per allievi dotati di particolari talenti è vincolata a condizioni stabilite dal Dipartimento.
-
-1.8.2013
+<sup>1</sup> L'ammissione di allievi a una classe per allievi dotati di particolari talenti è vincolata a condizioni stabilite dal Governo.
 
 <sup>2</sup> Le classi per allievi dotati di particolari talenti possono essere gestite solo nel grado secondario I.
 
@@ -411,7 +378,7 @@ Se una classe viene gestita secondo le disposizioni della Confederazione per le 
 
 <sup>4</sup> Per quanto possibile, vanno trasmessi gli stessi contenuti d'insegnamento della classe regolare. Si deve mirare al reintegro nella classe regolare.
 
-- 5\. PROMOZIONE E PASSAGGIO
+### 3.5. Promozione e passaggio
 
 #### Art. 38
 
@@ -427,11 +394,7 @@ Se una classe viene gestita secondo le disposizioni della Confederazione per le 
 
 **Promozione minacciata**
 
-Se la promozione è minacciata, l'insegnante di classe informa i titolari dell'autorità parentale almeno dodici settimane prima della fine dell'anno scolastico.
-
-**9**
-
-1.8.2013
+<sup>1</sup> Se la promozione è minacciata, l'insegnante di classe informa i titolari dell'autorità parentale almeno dodici settimane prima della fine dell'anno scolastico.
 
 #### Art. 40
 
@@ -445,13 +408,13 @@ Se la promozione è minacciata, l'insegnante di classe informa i titolari dell'a
 
 **Continuazione dell'anno scolastico in una classe inferiore**
 
-Se il livello richiesto risulta evidentemente troppo elevato per un allievo, il consiglio scolastico, con il consenso dei titolari dell'autorità parentale e dell'insegnante di classe, può eccezionalmente decidere nel corso del primo semestre un passaggio alla classe inferiore.
+<sup>1</sup> Se il livello richiesto risulta evidentemente troppo elevato per un allievo, il consiglio scolastico, con il consenso dei titolari dell'autorità parentale e dell'insegnante di classe, può eccezionalmente decidere nel corso del primo semestre un passaggio alla classe inferiore.
 
 #### Art. 42
 
 **Salto di una classe**
 
-Sulla base di un rapporto dell'insegnante di classe relativo alle prestazioni e allo stato di sviluppo di un allievo, il consiglio scolastico può autorizzare la richiesta dei titolari dell'autorità parentale per il salto di una classe. In caso di dubbi o se gli interessati non riescono ad accordarsi, si può fare capo al Servizio psicologico scolastico.
+<sup>1</sup> Sulla base di un rapporto dell'insegnante di classe relativo alle prestazioni e allo stato di sviluppo di un allievo, il consiglio scolastico può autorizzare la richiesta dei titolari dell'autorità parentale per il salto di una classe. In caso di dubbi o se gli interessati non riescono ad accordarsi, si può fare capo al Servizio psicologico scolastico.
 
 #### Art. 43
 
@@ -461,7 +424,7 @@ Sulla base di un rapporto dell'insegnante di classe relativo alle prestazioni e 
 
 <sup>2</sup> L'Ufficio emana direttive sulla procedura di passaggio.
 
-- 6\. PROVVEDIMENTI DI PEDAGOGIA SPECIALIZZATA
+### 3.6. Provvedimenti di pedagogia specializzata
 
 #### Art. 44
 
@@ -473,13 +436,7 @@ Sulla base di un rapporto dell'insegnante di classe relativo alle prestazioni e 
 
 <sup>3</sup> L'insegnamento nel quadro dell'istruzione scolastica speciale comprende il sostegno e l'istruzione a bambini e adolescenti che, nonostante i provvedimenti a bassa soglia, non sono in grado di seguire a medio e lungo termine le lezioni nella scuola regolare.
 
-<sup>4</sup> La corrispondente assistenza comprende le offerte di strutture diurne, l'assistenza stazionaria e la cura in istituzioni per l'istruzione scolastica
-
-**10**
-
-**11**
-
-1.8.2013 speciale. Essa si può estendere anche all'assistenza durante i fine settimana o le vacanze.
+<sup>4</sup> La corrispondente assistenza comprende le offerte di strutture diurne, l'assistenza stazionaria e la cura in istituzioni per l'istruzione scolastica speciale. Essa si può estendere anche all'assistenza durante i fine settimana o le vacanze.
 
 <sup>5</sup> Le misure in caso di elevato bisogno di sostegno comprendono l'educazione speciale precoce, la logopedia nella prima infanzia e dopo l'adempimento dell'obbligo scolastico, l'audiopedagogia e le misure in caso di danni alla vista.
 
@@ -499,7 +456,7 @@ Sulla base di un rapporto dell'insegnante di classe relativo alle prestazioni e 
 
 **Garanzia dell'offerta di pedagogia specializzata a bassa soglia**
 
-Allo scopo di garantire i provvedimenti a bassa soglia, in particolare la promozione della prevenzione, gli enti scolastici sono tenuti a impiegare in classe, a livello di scuola dell'infanzia e di scuola elementare, un pedagogista specializzato per almeno due unità d'insegnamento settimanali per sezione.
+<sup>1</sup> Allo scopo di garantire i provvedimenti a bassa soglia, in particolare la promozione della prevenzione, gli enti scolastici sono tenuti a impiegare in classe, a livello di scuola dell'infanzia e di scuola elementare, un pedagogista specializzato per almeno due unità d'insegnamento settimanali per sezione.
 
 #### Art. 47
 
@@ -518,12 +475,8 @@ Allo scopo di garantire i provvedimenti a bassa soglia, in particolare la promoz
 <sup>1</sup> L'accertamento da parte dei servizi riconosciuti dal Dipartimento nel settore a bassa soglia avviene se:
 
 - a) vi sono dubbi o se gli interessati non riescono ad accordarsi circa lo svolgimento di provvedimenti di pedagogia specializzata;
-
 - b) si deve procedere a un adeguamento degli obiettivi di apprendimento;
-
 - c) sono indicati provvedimenti pedagogico-terapeutici.
-
-1.8.2013
 
 <sup>2</sup> Per l'esonero di allievi da singole materie è necessaria l'autorizzazione dell'Ufficio.
 
@@ -539,7 +492,7 @@ Allo scopo di garantire i provvedimenti a bassa soglia, in particolare la promoz
 
 **Mandati di prestazioni**
 
-I mandati di prestazioni a istituzioni per l'istruzione scolastica speciale hanno di norma una validità di quattro anni. Essi disciplinano in particolare il tipo, la qualità e la quantità dell'offerta, le qualifiche del personale, la verifica delle prestazioni fatturate e i principi per l'indennizzo delle prestazioni.
+<sup>1</sup> I mandati di prestazioni a istituzioni per l'istruzione scolastica speciale hanno di norma una validità di quattro anni. Essi disciplinano in particolare il tipo, la qualità e la quantità dell'offerta, le qualifiche del personale, la verifica delle prestazioni fatturate e i principi per l'indennizzo delle prestazioni.
 
 #### Art. 51
 
@@ -551,39 +504,34 @@ I mandati di prestazioni a istituzioni per l'istruzione scolastica speciale hann
 
 <sup>3</sup> Possono essere riscossi contributi adeguati dai titolari dell'autorità parentale.
 
-- 7\. ASSICURAZIONE
+### 3.7. Assicurazione
 
 #### Art. 52
 
 **Assicurazione contro gli infortuni**
 
-Gli allievi devono essere assicurati contro gli infortuni a scuola, durante manifestazioni scolastiche e sul tragitto casa – scuola per le seguenti prestazioni minime:
+<sup>1</sup> Gli allievi devono essere assicurati contro gli infortuni a scuola, durante manifestazioni scolastiche e sul tragitto casa – scuola per le seguenti prestazioni minime:
 
-- Decesso fr. 10 000
-
-- Invalidità fr. 150 000 350 per cento cumulativo
+- a) Decesso fr. 10 000
+- b) Invalidità fr. 150 000, 350 per cento cumulativo
 
 #### Art. 53
 
 **Assicurazione responsabilità civile**
 
-La somma di garanzia per danni a persone e danni materiali deve ammontare complessivamente almeno a 5 milioni di franchi per sinistro.
+<sup>1</sup> La somma di garanzia per danni a persone e danni materiali deve ammontare complessivamente almeno a 5 milioni di franchi per sinistro.
 
-**12**
-
-1.8.2013
-
-### IV. Allievi
+## 4. Allievi
 
 #### Art. 54
 
 **Espulsione dalla scuola**
 
-Prima di decidere un'espulsione dalla scuola, il consiglio scolastico deve concedere ai titolari dell'autorità parentale la possibilità di prendere posizione per iscritto od oralmente. Vi si può rinunciare se è necessario un intervento immediato.
+<sup>1</sup> Prima di decidere un'espulsione dalla scuola, il consiglio scolastico deve concedere ai titolari dell'autorità parentale la possibilità di prendere posizione per iscritto od oralmente. Vi si può rinunciare se è necessario un intervento immediato.
 
-### V. Insegnanti
+## 5. Insegnanti
 
-- 1\. ASSUNZIONE E DOVERI
+### 5.1. Assunzione e doveri
 
 #### Art. 55
 
@@ -597,19 +545,23 @@ Prima di decidere un'espulsione dalla scuola, il consiglio scolastico deve conce
 
 **Corsi di perfezionamento professionale obbligatori**
 
-L'Ufficio può organizzare corsi di perfezionamento professionale e seminari per insegnanti e dichiararne obbligatoria la partecipazione. Può anche dichiarare obbligatoria la partecipazione a corsi e seminari proposti da organizzazioni professionali.
+<sup>1</sup> L'Ufficio può organizzare corsi di perfezionamento professionale e seminari per insegnanti e dichiararne obbligatoria la partecipazione. Può anche dichiarare obbligatoria la partecipazione a corsi e seminari proposti da organizzazioni professionali.
 
 #### Art. 57
 
 **Corsi di perfezionamento facoltativi**
 
-I corsi di perfezionamento professionale facoltativi si svolgono fuori dall'orario di scuola o di scuola dell'infanzia.
+<sup>1</sup> I corsi di perfezionamento professionale facoltativi si svolgono fuori dall'orario di scuola o di scuola dell'infanzia.
 
 #### Art. 58
 
 **Congedo di perfezionamento**
 
-<sup>1</sup> Il congedo di perfezionamento è vincolato alla condizione che, durante l'attività svolta finora, l'insegnante abbia frequentato corsi di perfezionamento professionale facoltativi per una durata complessiva pari almeno alla metà del congedo richiesto.
+<sup>1</sup> Il congedo di perfezionamento è vincolato alle seguenti condizioni:
+
+- a) durante l'attività svolta finora, l'insegnante ha frequentato corsi di perfezionamento professionale facoltativi per una durata complessiva pari almeno alla metà del congedo richiesto;
+- b) il congedo di perfezionamento presenta una continuità temporale e si svolge in linea di principio durante il periodo scolastico;
+- c) il contenuto del congedo di perfezionamento presenta di norma una stretta correlazione con il programma didattico.
 
 <sup>2</sup> L'attività scolastica non deve essere pregiudicata dal congedo.
 
@@ -619,19 +571,15 @@ I corsi di perfezionamento professionale facoltativi si svolgono fuori dall'orar
 
 <sup>1</sup> Agli insegnanti assunti a tempo pieno viene concesso uno sgravio per anzianità di due unità d'insegnamento settimanali a partire dal 55° anno d'età e di tre unità d'insegnamento settimanali a partire dal 60° anno d'età. Lo sgravio per anzianità viene concesso dall'inizio dell'anno scolastico in cui l'insegnante compie 55 rispettivamente 60 anni.
 
-**13**
-
-1.8.2013
-
 <sup>2</sup> Lo sgravio per anzianità vale anche per gli insegnanti impiegati presso diversi enti scolastici.
 
 #### Art. 60
 
 **Risoluzione del rapporto di lavoro**
 
-La risoluzione ordinaria del rapporto di lavoro deve avvenire per la fine dell'anno scolastico. Essa va comunicata per iscritto all'insegnante, rispettivamente all'ente scolastico entro la fine del mese di marzo.
+<sup>1</sup> La risoluzione ordinaria del rapporto di lavoro deve avvenire per la fine dell'anno scolastico. Essa va comunicata per iscritto all'insegnante, rispettivamente all'ente scolastico entro la fine del mese di marzo.
 
-- 2\. STIPENDIO
+### 5.2. Stipendio
 
 #### Art. 61
 
@@ -641,31 +589,23 @@ La risoluzione ordinaria del rapporto di lavoro deve avvenire per la fine dell'a
 
 <sup>2</sup> Gli enti scolastici possono anche stabilire per lo sviluppo degli stipendi una regolamentazione analoga a quella del diritto cantonale sul personale.
 
-### VI. Finanziamento delle scuole
+## 6. Finanziamento delle scuole
 
-- 1\. PRINCIPIO
+### 6.1. Principio
 
 #### Art. 62
 
-**Indici di capacità finanziaria**
+**…**
 
-<sup>1</sup> Per la determinazione dei sussidi cantonali alle corporazioni di comuni viene ponderata la capacità finanziaria dei comuni interessati in proporzione al numero dei loro abitanti.
-
-<sup>2</sup> Quale base per il numero di abitanti dei comuni vale l'ultima statistica federale dello stato annuale della popolazione (STATPOP) disponibile.
-
-<sup>3</sup> Le basi statistiche per la determinazione delle aliquote di sussidio determinanti per le corporazioni di comuni vengono aggiornate ogni due anni.
-
-- 2\. CONTRIBUTI DEL CANTONE E DEGLI ENTI SCOLASTICI
+### 6.2. Contributi del Cantone e degli enti scolastici
 
 #### Art. 63
 
 **Versamento delle forfetarie per la scuola regolare**
 
-Il Cantone versa agli enti scolastici le forfetarie per la scuola regolare per anno scolastico con almeno un pagamento in acconto e un pagamento a saldo. È determinante il numero di allievi che gli enti scolastici contano il giorno di riferimento del censimento degli allievi.
+<sup>1</sup> Il Cantone versa agli enti scolastici le forfetarie per la scuola regolare per anno scolastico con almeno un pagamento in acconto e un pagamento a saldo. È determinante il numero di allievi che gli enti scolastici contano il giorno di riferimento del censimento degli allievi.
 
-**14**
-
-1.8.2013
+<sup>2</sup> …
 
 #### Art. 64
 
@@ -686,7 +626,6 @@ Il Cantone versa agli enti scolastici le forfetarie per la scuola regolare per a
 <sup>2</sup> Un'ubicazione è considerata discosta se:
 
 - a) si trova al di fuori di un insediamento chiuso oppure in zona periferica e se a una distanza adeguata non si trova un'altra ubicazione con la stessa lingua scolastica e lo stesso grado scolastico;
-
 - b) oppure se il comprensorio è molto vasto e la maggior parte degli allievi deve coprire un lungo tragitto per raggiungere la scuola.
 
 <sup>3</sup> Il Dipartimento allestisce annualmente un elenco degli enti scolastici con ubicazioni discoste. Per l'allestimento dell'elenco fa stato la situazione a ottobre dell'anno precedente.
@@ -695,23 +634,21 @@ Il Cantone versa agli enti scolastici le forfetarie per la scuola regolare per a
 
 **2. Calcolo**
 
-<sup>1</sup> Le aliquote di base delle forfetarie supplementari per le piccole scuole ammontano per il grado elementare al massimo a 12 000 franchi e per il grado secondario I al massimo a 3 000 franchi. È determinante il numero complessivo di allievi per ubicazione.
+<sup>1</sup> Le aliquote di base delle forfetarie supplementari per le piccole scuole ammontano per il grado elementare al massimo a 4000 franchi e per il grado secondario I al massimo a 1000 franchi. È determinante il numero complessivo di allievi per ubicazione.
 
 <sup>2</sup> Il prodotto risultante dalla moltiplicazione del numero di allievi per la rispettiva aliquota di base conformemente al capoverso 1 si riduce in modo lineare con l'aumento del numero di allievi fino a raggiungere zero franchi con 66 allievi.
 
 #### Art. 67
 
-**Forfetaria supplementare per scuole secondarie di valle Contributi del comune e dei genitori per l'istruzione scolastica speciale**
+**Forfetaria supplementare per scuole secondarie di valle**
 
-Quali forfetarie supplementari per scuole secondarie di valle sono computabili esclusivamente le lezioni effettivamente impartite.
+<sup>1</sup> Quali forfetarie supplementari per scuole secondarie di valle sono computabili esclusivamente le lezioni effettivamente impartite.
 
 #### Art. 68
 
-La partecipazione ai costi degli enti scolastici ammonta a 21 franchi per giorno di calendario. La partecipazione ai costi dei titolari dell'autorità parentale per il vitto e l'assistenza ammonta in caso di istruzione scolastica speciale in internato a 10 franchi e in caso di istruzione scolastica speciale in esternato a 5 franchi per giorno di permanenza.
+**Contributi del comune e dei genitori per l'istruzione scolastica speciale**
 
-**15**
-
-1.8.2013
+<sup>1</sup> La partecipazione ai costi degli enti scolastici ammonta a 21 franchi per giorno di calendario. La partecipazione ai costi dei titolari dell'autorità parentale per il vitto e l'assistenza ammonta in caso di istruzione scolastica speciale in internato a 10 franchi e in caso di istruzione scolastica speciale in esternato a 5 franchi per giorno di permanenza.
 
 #### Art. 69
 
@@ -719,16 +656,14 @@ La partecipazione ai costi degli enti scolastici ammonta a 21 franchi per giorno
 
 <sup>1</sup> Il Cantone versa contributi per le seguenti spese di perfezionamento professionale obbligatorio e di congedo di perfezionamento:
 
-- a) costi per i corsi;
-
+- a) costi per i corsi fino a un massimo di 11 000 franchi;
 - b) costi per la supplenza.
 
-<sup>2</sup> Le aliquote di base per il calcolo dei contributi ai costi per le supplenze corrispondono al 138 per cento dello stipendio iniziale di un insegnante della categoria corrispondente. Esse vanno moltiplicate per la percentuale della classe di capacità finanziaria del comune.
+<sup>2</sup> I contributi ai costi per le supplenze corrispondono al 28 per cento dello stipendio iniziale di un insegnante della categoria corrispondente.
 
 <sup>3</sup> Gli enti scolastici si assumono le seguenti spese:
 
 - a) retribuzione dell'insegnante e del supplente;
-
 - b) spese di viaggio, nonché spese per alloggio e vitto fuori casa, secondo un'aliquota stabilita dal Dipartimento.
 
 <sup>4</sup> In caso di perfezionamento professionale obbligatorio, il Cantone si assume in aggiunta i costi del materiale per il corso.
@@ -739,15 +674,19 @@ La partecipazione ai costi degli enti scolastici ammonta a 21 franchi per giorno
 
 **2. Condizioni per il versamento dei contributi**
 
-L'Ufficio può vincolare il versamento dei contributi alla positiva conclusione del perfezionamento professionale.
+<sup>1</sup> L'Ufficio può vincolare il versamento dei contributi alla positiva conclusione del perfezionamento professionale.
 
 #### Art. 71
 
-**Contributi ai costi di trasporto**
+**Forfetarie per i trasporti di allievi**
 
-Il Cantone partecipa ai costi di trasporto per il tragitto casa – scuola. Non sono computabili i costi di trasporto per coprire il tragitto tra diverse ubicazioni scolastiche durante l'orario scolastico.
+<sup>1</sup> Il Cantone concede agli enti scolastici contributi forfetari per tragitti casa-scuola degli allievi di oltre due chilometri.
 
-### VII. Autorità
+<sup>2</sup> Il tragitto casa-scuola corrisponde alla distanza tra il luogo di domicilio degli allievi e la sede scolastica. L'Ufficio stabilisce la distanza computabile tra le località in questione. Fa stato l'elenco delle località dell'Ufficio federale di statistica. La base è costituita dalla rilevazione del numero di allievi e dei luoghi di domicilio a settembre.
+
+<sup>3</sup> La forfetaria ammonta a 65 franchi per allievo e anno scolastico per ogni chilometro di tragitto computabile casa-scuola in una sola direzione.
+
+## 7. Autorità
 
 #### Art. 72
 
@@ -756,16 +695,10 @@ Il Cantone partecipa ai costi di trasporto per il tragitto casa – scuola. Non 
 <sup>1</sup> L'Ispettorato ha in particolare i seguenti compiti:
 
 - a) verificare l'attuazione e il rispetto delle prescrizioni e degli standard di qualità cantonali da parte degli enti scolastici;
-
 - b) valutazione periodica delle scuole popolari;
-
 - c) consulenza a insegnati, direzioni scolastiche e autorità scolastiche comunali in questioni relative all'insegnamento, alla pianificazione scolastica, al perfezionamento professionale e alla gestione dei conflitti.
 
 <sup>2</sup> L'Ufficio emana direttive sull'organizzazione, i doveri e i compiti e suddivide il territorio cantonale in circondari d'ispezione, tenendo conto delle regioni linguistiche.
-
-**16**
-
-1.8.2013
 
 #### Art. 73
 
@@ -779,7 +712,7 @@ Il Cantone partecipa ai costi di trasporto per il tragitto casa – scuola. Non 
 
 <sup>4</sup> L'Ufficio emana direttive sull'organizzazione, i doveri e i compiti del Servizio psicologico scolastico e suddivide il territorio cantonale in regioni di consulenza.
 
-### VIII. Disposizioni finali
+## 8. Disposizioni finali
 
 #### Art. 74
 
@@ -788,43 +721,22 @@ Il Cantone partecipa ai costi di trasporto per il tragitto casa – scuola. Non 
 <sup>1</sup> Con l'entrata in vigore della presente ordinanza sono abrogati gli atti normativi seguenti:
 
 - a) ordinanza concernente l'accoglienza di bambini di quattro anni nelle scuole dell'infanzia del 19 marzo 1996;
-
 - b) decreto governativo sull'eleggibilità delle educatrici di scuola dell'infanzia dell'8 marzo 1994;
-
 - c) ordinanza sulle ispezioni nelle scuole dell'infanzia nel Cantone dei Grigioni del 27 ottobre 1998;
-
 - d) ordinanza sulla promozione di bambini portatori di handicap nelle scuole dell'infanzia del Cantone dei Grigioni del 2 luglio 1996;
-
 - e) ordinanza sulle prestazioni assicurative per educatrici e bambini della scuola dell'infanzia del 29 giugno 1996;
-
 - f) ordinanza per la gestione e l'organizzazione del grado superiore della scuola popolare del 27 ottobre 1998;
-
 - g) ordinanza per l'organizzazione di classi ridotte del 6 marzo 2001;
-
 - h) ordinanza concernente i sussidi per direzioni scolastiche (ordinanza sulle direzioni scolastiche) del 9 febbraio 2009;
-
 - i) ordinanza sull'eleggibilità di personale insegnante di classe ridotta, scuola di avviamento pratico, scuola secondaria e di materie specifiche del 15 maggio 2001;
-
 - j) disposizioni di attuazione concernenti la concessione e il sussidiamento dei congedi ai fini della formazione permanente dei maestri delle scuole popolari del 19 marzo 1991;
-
 - k) ordinanza sulla promozione nelle scuole popolari del Cantone dei Grigioni (ordinanza sulla promozione) del 15 maggio 2001;
-
-**17**
-
-**18**
-
-1.8.2013 l) ordinanza sulla procedura di passaggio alla scuola popolare di grado superiore (ordinanza sul passaggio) del 17 giugno 1996;
-
+- l) ordinanza sulla procedura di passaggio alla scuola popolare di grado superiore (ordinanza sul passaggio) del 17 giugno 1996;
 - m) ordinanza sul sovvenzionamento di edifici e impianti sportivi scolastici (ordinanza sulle costruzioni scolastiche) del 29 giugno 2010;
-
 - n) ordinanza sul perfezionamento e l'aggiornamento permanente del personale insegnante della scuola popolare e della scuola dell'infanzia del 27 ottobre 1998;
-
 - o) ordinanza sulle ispezioni scolastiche nel Cantone dei Grigioni del 27 ottobre 1998;
-
 - p) ordinanza sulle prestazioni assicurative per scolare e scolari e per il personale insegnante del 20 maggio 1975;
-
 - q) ordinanza sul promovimento linguistico di bambini alloglotti nelle scuole dell'infanzia e nelle scuole popolari del Cantone dei Grigioni del 25 giugno 1996;
-
 - r) ordinanza sull'istruzione scolastica speciale del 27 novembre 2007.
 
 <sup>2</sup> Se atti normativi vigenti rimandano a disposizioni che vengono sostituite dalla presente ordinanza, trovano applicazione le corrispondenti disposizioni della presente ordinanza.
@@ -833,6 +745,6 @@ Il Cantone partecipa ai costi di trasporto per il tragitto casa – scuola. Non 
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° agosto 2013.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° agosto 2013.
 
-1.8.2013
+-

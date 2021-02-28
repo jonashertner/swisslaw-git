@@ -4,34 +4,37 @@ number: "421.010"
 title: Verordnung zum Schulgesetz
 short: Schulverordnung
 language: de
-version: 2013-08-01
-corrected: 2014-10-09
-version_adopted: 2012-09-25
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-09
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1857/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3161/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Schulgesetz (Schulverordnung)
+# Verordnung zum Schulgesetz
 
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^t-1] und Art. 97 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz)[^t-2]
+(Schulverordnung)
+
+Vom 25.09.2012 (Stand 01.03.2021)
+
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1] und Art. 97 des Gesetzes für die Volksschulen des Kantons Graubünden (Schulgesetz)[^ingress-2]
 
 von der Regierung erlassen am 25. September 2012
 
-I. Schulträgerschaften
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-2]: BR [421.000](https://www.gr-lex.gr.ch/data/421.000/de)
 
-[^t-1]: BR 110.100
-[^t-2]: BR 421.000 01.08.2013 1
+## 1. Schulträgerschaften
 
 #### Art. 1
 
 **Pflicht zur Aufnahme**
 
-Jede Schulträgerschaft ist verpflichtet, Schülerinnen und Schüler aus benachbarten Gemeinden ohne entsprechende öffentliche Angebote zum Schulbesuch aufzunehmen, sofern die Infrastruktur und genügend Lehrpersonen vorhanden sind.
+<sup>1</sup> Jede Schulträgerschaft ist verpflichtet, Schülerinnen und Schüler aus benachbarten Gemeinden ohne entsprechende öffentliche Angebote zum Schulbesuch aufzunehmen, sofern die Infrastruktur und genügend Lehrpersonen vorhanden sind.
 
 #### Art. 2
 
@@ -47,17 +50,17 @@ Jede Schulträgerschaft ist verpflichtet, Schülerinnen und Schüler aus benachb
 
 **Zusammenarbeit mit privaten Schulträgerschaften**
 
-Verträge zwischen privaten und öffentlichen Schulträgerschaften bedürfen der Bewilligung durch das Departement.
+<sup>1</sup> Verträge zwischen privaten und öffentlichen Schulträgerschaften bedürfen der Bewilligung durch das Departement.
 
-### II. Schul- und Bildungsangebote
+## 2. Schul- und Bildungsangebote
 
-- 1\. SCHULSTUFEN
+### 2.1. Schulstufen
 
 #### Art. 4
 
 **Eintritt und Besuch Kindergartenstufe**
 
-Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Kindergarten ist regelmässig zu besuchen.
+<sup>1</sup> Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Kindergarten ist regelmässig zu besuchen.
 
 #### Art. 5
 
@@ -69,7 +72,7 @@ Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Ki
 
 <sup>3</sup> Das Departement erlässt Richtlinien zu Organisation und Durchlässigkeit.
 
-- 2\. SCHULPFLICHT, SCHULORT UND UNENTGELTLICHKEIT
+### 2.2. Schulpflicht, Schulort und Unentgeltlichkeit
 
 #### Art. 6
 
@@ -95,10 +98,6 @@ Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Ki
 
 <sup>2</sup> Der Schulrat kann Kinder nach Anhören der Erziehungsberechtigten in der Schulpflicht zurückstellen, sofern ein schulpsychologisches Gutachten bescheinigt, dass die Voraussetzungen für den Schuleintritt gemäss Entwicklungsstand nicht erfüllt sind und eine Sonderschulung ausser Betracht fällt.
 
-**2**
-
-01.08.2013
-
 #### Art. 9
 
 **Nachobligatorischer Schulbesuch**
@@ -119,19 +118,18 @@ Der Eintritt in die Kindergartenstufe erfolgt auf Beginn des Schuljahres. Der Ki
 
 **Transport Schülerinnen und Schüler**
 
-Verhältnisse, die den Transport der Schülerinnen und Schüler erfordern, liegen vor, wenn diesen nicht zugemutet werden kann, die Schule zu Fuss zu erreichen, insbesondere wenn:
+<sup>1</sup> Verhältnisse, die den Transport der Schülerinnen und Schüler erfordern, liegen vor, wenn diesen nicht zugemutet werden kann, die Schule zu Fuss zu erreichen, insbesondere wenn:
 
 - a) der Weg besonders lang oder gefährlich ist;
-
 - b) eine Behinderung vorliegt, welche die Bewältigung des Weges ohne Transport erheblich beeinträchtigt.
 
-- 3\. PRIVATSCHULEN UND PRIVATUNTERRICHT
+### 2.3. Privatschulen und Privatunterricht
 
 #### Art. 12
 
 **Unterrichtsberechtigung**
 
-Lehrpersonen an Privatschulen und für den Privatunterricht müssen die gleichen Voraussetzungen für die Unterrichtsberechtigung erfüllen wie Lehrpersonen der öffentlichen Volksschule.
+<sup>1</sup> Lehrpersonen an Privatschulen und für den Privatunterricht müssen die gleichen Voraussetzungen für die Unterrichtsberechtigung erfüllen wie Lehrpersonen der öffentlichen Volksschule.
 
 #### Art. 13
 
@@ -141,32 +139,25 @@ Lehrpersonen an Privatschulen und für den Privatunterricht müssen die gleichen
 
 <sup>2</sup> Die Regierung kann die Schliessung von Privatschulen verfügen, sofern diese die gesetzlichen Bestimmungen oder Auflagen nicht erfüllen.
 
-**3**
+## 3. Organisation der Schule
 
-01.08.2013
-
-### III. Organisation der Schule
-
-- 1\. FÜHRUNG UND ORGANISATION
+### 3.1. Führung und Organisation
 
 #### Art. 14
 
 **Genehmigung Schulordnung**
 
-Die Schulordnung bedarf zu ihrer Gültigkeit der Genehmigung durch das Departement.
+<sup>1</sup> Die Schulordnung bedarf zu ihrer Gültigkeit der Genehmigung durch das Departement.
 
 #### Art. 15
 
 **Mindestvoraussetzungen an Schulleitungen**
 
-Schulleitungen erfüllen die Mindestvoraussetzungen, wenn:
+<sup>1</sup> Schulleitungen erfüllen die Mindestvoraussetzungen, wenn:
 
 - a) den Schulleitungspersonen die operative Führung der Schule in den Bereichen Pädagogik und Sonderpädagogik, Personal, Organisation, Administration und Finanzen übertragen wird und die entsprechenden Aufgaben in einem Pflichtenheft festgehalten sind;
-
 - b) die Schulleitungspersonen über Berufserfahrung im pädagogischen Bereich sowie über eine Zusatzausbildung im Schulleitungsbereich verfügen. Das Amt entscheidet über die Äquivalenz von ausserschulischen Berufserfahrungen und Ausbildungen;
-
 - c) das Beschäftigungspensum einer Schulleitungsperson für die Aufgabenerfüllung mindestens 20 Stellenprozent beträgt. Für die Berechnung des minimalen Beschäftigungspensums gelten die Bestimmungen der kantonalen Personalgesetzgebung;
-
 - d) die Vorgaben des Departements bezüglich Schnittstellen zu den kantonalen Instanzen eingehalten werden.
 
 #### Art. 16
@@ -181,19 +172,15 @@ Schulleitungen erfüllen die Mindestvoraussetzungen, wenn:
 
 **Gemeinsame Schulleitungen**
 
-Für Schulleitungen, die für verschiedene Schulträgerschaften tätig sind, ist vertraglich eine gemeinsame und einheitliche Arbeitszeit- und Kompetenzregelung festzuschreiben.
+<sup>1</sup> Für Schulleitungen, die für verschiedene Schulträgerschaften tätig sind, ist vertraglich eine gemeinsame und einheitliche Arbeitszeit- und Kompetenzregelung festzuschreiben.
 
 #### Art. 18
 
 **Erhebung statistischer Daten**
 
-Die Schulträgerschaften sind verpflichtet, statistische Daten gemäss den Vorgaben des Departements zu erheben.
+<sup>1</sup> Die Schulträgerschaften sind verpflichtet, statistische Daten gemäss den Vorgaben des Departements zu erheben.
 
-**4**
-
-**5**
-
-01.08.2013 2. SCHULBETRIEB
+### 3.2. Schulbetrieb
 
 #### Art. 19
 
@@ -201,31 +188,28 @@ Die Schulträgerschaften sind verpflichtet, statistische Daten gemäss den Vorga
 
 <sup>1</sup> Eine Kindergartenabteilung darf in der Regel nicht mehr als 20 Kinder zählen.
 
-<sup>2</sup> Eine Primarschulabteilung darf in der Regel nicht mehr zählen als: 24 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+<sup>2</sup> Eine Primarschulabteilung darf in der Regel nicht mehr zählen als:
 
-20 Schülerinnen und Schüler bei einer zweiklassigen Abteilung;
+- a) 24 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+- b) 20 Schülerinnen und Schüler bei einer zweiklassigen Abteilung;
+- c) 18 Schülerinnen und Schüler bei einer dreiklassigen Abteilung;
+- d) 16 Schülerinnen und Schüler bei einer vierklassigen Abteilung;
+- e) 14 Schülerinnen und Schüler bei einer fünf- oder sechsklassigen Abteilung.
 
-18 Schülerinnen und Schüler bei einer dreiklassigen Abteilung;
+<sup>3</sup> Eine Sekundarschulabteilung darf in der Regel nicht mehr zählen als:
 
-16 Schülerinnen und Schüler bei einer vierklassigen Abteilung;
-
-14 Schülerinnen und Schüler bei einer fünf- oder sechsklassigen Abteilung.
-
-<sup>3</sup> Eine Sekundarschulabteilung darf in der Regel nicht mehr zählen als: 22 Schülerinnen und Schüler bei einer einklassigen Abteilung;
-
-18 Schülerinnen und Schüler bei einer zwei- oder dreiklassigen Abteilung.
+- a) 22 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+- b) 18 Schülerinnen und Schüler bei einer zwei- oder dreiklassigen Abteilung.
 
 <sup>4</sup> Eine Realschulabteilung darf in der Regel nicht mehr zählen als:
 
-20 Schülerinnen und Schüler bei einer einklassigen Abteilung;
-
-16 Schülerinnen und Schüler bei einer zwei- oder dreiklassigen Abteilung.
+- a) 20 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+- b) 16 Schülerinnen und Schüler bei einer zwei- oder dreiklassigen Abteilung.
 
 <sup>5</sup> Eine Handarbeits- und Hauswirtschaftsabteilung darf in der Regel nicht mehr zählen als:
 
-14 Schülerinnen und Schüler bei einer einklassigen Abteilung;
-
-12 Schülerinnen und Schüler bei einer mehrklassigen Abteilung.
+- a) 14 Schülerinnen und Schüler bei einer einklassigen Abteilung;
+- b) 12 Schülerinnen und Schüler bei einer mehrklassigen Abteilung.
 
 #### Art. 20
 
@@ -233,7 +217,10 @@ Die Schulträgerschaften sind verpflichtet, statistische Daten gemäss den Vorga
 
 <sup>1</sup> Die Abteilungen dürfen in der Regel die folgenden Minimalzahlen nicht unterschreiten:
 
-Kindergarten: 5 Kinder Primarschule: 5 Schülerinnen und Schüler Realschule: 7 Schülerinnen und Schüler Sekundarschule: 10 Schülerinnen und Schüler
+- a) Kindergarten: 5 Kinder
+- b) Primarschule: 5 Schülerinnen und Schüler
+- c) Realschule: 7 Schülerinnen und Schüler
+- d) Sekundarschule: 10 Schülerinnen und Schüler
 
 <sup>2</sup> Die Sekundarstufe I muss gesamthaft mindestens 17 Schülerinnen und Schüler umfassen.
 
@@ -243,17 +230,13 @@ Kindergarten: 5 Kinder Primarschule: 5 Schülerinnen und Schüler Realschule: 7 
 
 <sup>1</sup> Wenn fremdsprachige, behinderte oder anderweitig intensiv förderbedürftige Schülerinnen und Schüler in eine Abteilung aufgenommen werden, ist die höchstzulässige Schülerzahl angemessen zu reduzieren. Das Departement erlässt Richtlinien zum Vollzug.
 
-<sup>2</sup> Das Departement kann auf Antrag der Schulträgerschaft eine befristete Bewilligung erteilen zur vorübergehenden Abweichung von der minima-
-
-**6**
-
-01.08.2013 len beziehungsweise maximalen Anzahl Schülerinnen und Schüler pro Abteilung.
+<sup>2</sup> Das Departement kann auf Antrag der Schulträgerschaft eine befristete Bewilligung erteilen zur vorübergehenden Abweichung von der minimalen beziehungsweise maximalen Anzahl Schülerinnen und Schüler pro Abteilung.
 
 #### Art. 22
 
 **Besondere Schulanlässe**
 
-Die Schulträgerschaft kann besondere Schulanlässe an freien Nachmittagen oder Samstagen obligatorisch erklären.
+<sup>1</sup> Die Schulträgerschaft kann besondere Schulanlässe an freien Nachmittagen oder Samstagen obligatorisch erklären.
 
 #### Art. 23
 
@@ -277,41 +260,37 @@ Die Schulträgerschaft kann besondere Schulanlässe an freien Nachmittagen oder 
 
 **Urlaubstage**
 
-Die von der Schulträgerschaft gewährten Urlaubstage für Schülerinnen und Schüler können auch in Form von Einzellektionen bewilligt werden. Der Gesamtumfang darf 15 Schultage oder das Dreifache der wöchentlichen Lektionendotation der entsprechenden Schulstufe nicht überschreiten.
+<sup>1</sup> Die von der Schulträgerschaft gewährten Urlaubstage für Schülerinnen und Schüler können auch in Form von Einzellektionen bewilligt werden. Der Gesamtumfang darf 15 Schultage oder das Dreifache der wöchentlichen Lektionendotation der entsprechenden Schulstufe nicht überschreiten.
 
-- 3\. LERNINHALTE, LEHRPLAN UND LEHRMITTEL
+### 3.3. Lerninhalte, Lehrplan und Lehrmittel
 
 #### Art. 26
 
 **Unterrichtsfächer 1. Primarstufe**
 
-<sup>1</sup> Pflichtfächer in der Primarstufe sind: die Schulsprache als Erstsprache, eine zusätzliche Kantonssprache als Zweitsprache, Englisch, Mathematik, Sachunterricht/Heimatkunde, Geschichte, Geographie, Naturkunde, Religion, Zeichnen und Gestalten, Schreiben, Singen und Musik, Sporterziehung, Handarbeit (Handarbeit textil und Werken).
+<sup>1</sup> Die Lektionentafel für die Primarstufe umfasst Pflichtfächer.
 
-<sup>2</sup> Fächerübergreifende Anliegen und Kompetenzen wie Gesundheits-, Umwelt- und Verkehrserziehung sind in die verschiedenen Unterrichtsfächer einzubeziehen.
+<sup>2</sup> Das Fach Religion wird von den Landeskirchen verantwortet und ist als Pflichtfach in den Stundenplänen aufzuführen.
 
 #### Art. 27
 
 **2. Sekundarstufe I**
 
-<sup>1</sup> Pflichtfächer in der Sekundarstufe I sind: die Schulsprache als Erstsprache, eine zusätzliche Kantonssprache als Zweitsprache, Englisch,
+<sup>1</sup> Die Lektionentafel für die Sekundarstufe umfasst Pflicht- und Wahlfächer.
 
-**7**
+<sup>2</sup> Das Fach Religion wird von den Landeskirchen verantwortet und ist als Pflichtfach in den Stundenplänen aufzuführen.
 
-01.08.2013 Mathematik (Arithmetik, Algebra, Geometrie), Mensch und Umwelt (Religion, Religionskunde und Ethik, Naturlehre, Geographie, Geschichte/ Staats- und Wirtschaftskunde, Hauswirtschaft), Bildnerisches Gestalten, Handarbeit (Handarbeit textil und Werken), Singen und Musik, Sporterziehung, Grundlagen der Informatik.
+<sup>3</sup> …
 
-<sup>2</sup> Als Wahlpflichtfächer und Wahlfächer können bei einer Beteiligung von mindestens fünf Schülerinnen und Schülern und bei Verfügbarkeit der erforderlichen Lehrpersonen erteilt werden: Lern- und Arbeitstechnik, Chor/Orchester, weitere Fremdsprachen (Italienisch, Romanisch, Französisch), Geometrisches Zeichnen, Handarbeit (Handarbeit textil und Werken), Hauswirtschaft, Tastaturschreiben, Mathematisches Praktikum, Natur- und Heimatkundliches Praktikum, Technisches Praktikum, Theater/Darstellendes Spiel/Tanz, Sporterziehung, Wirtschaftskunde.
+<sup>4</sup> …
 
-<sup>3</sup> Landessprachen, welche nicht als Pflichtfächer aufgeführt sind, müssen unabhängig von der Anzahl Teilnehmenden als Wahlfächer angeboten werden, wobei Teile davon auch als Kompaktwochen in den Sprachregionen absolviert werden können.
-
-<sup>4</sup> Fächerübergreifende Anliegen und Kompetenzen wie Gesundheits-, Umwelt-, Medien- und Verkehrserziehung sowie solche der Berufswahlvorbereitung sind in die verschiedenen Unterrichtsfächer einzubeziehen.
-
-<sup>5</sup> Das Departement erlässt Richtlinien über Abwahlmöglichkeiten.
+<sup>5</sup> …
 
 #### Art. 28
 
 **Zweisprachig geführte Schulen und Klassen**
 
-In zwei Kantonssprachen geführte Schulen und Klassen werden gestützt auf ein Gesuch und ein entsprechendes Konzept von der Regierung bewilligt.
+<sup>1</sup> In zwei Kantonssprachen geführte Schulen und Klassen werden gestützt auf ein Gesuch und ein entsprechendes Konzept von der Regierung bewilligt.
 
 #### Art. 29
 
@@ -325,15 +304,13 @@ In zwei Kantonssprachen geführte Schulen und Klassen werden gestützt auf ein G
 
 <sup>4</sup> Das Amt bestimmt den Abgabepreis der Lehrmittel.
 
-- 4\. ERGÄNZENDE ANGEBOTE
+### 3.4. Ergänzende Angebote
 
 #### Art. 30
 
 **Talschaftssekundarschulen 1. Aufbau**
 
-Die Talschaftssekundarschule umfasst höchstens drei auf der 6. Primarklasse aufbauende Klassen. Die 3. Klasse kann nach den Bestimmungen des Bundes für Maturitätsschulen geführt werden.
-
-01.08.2013
+<sup>1</sup> Die Talschaftssekundarschule umfasst höchstens drei auf der 6. Primarklasse aufbauende Klassen. Die 3. Klasse kann nach den Bestimmungen des Bundes für Maturitätsschulen geführt werden.
 
 #### Art. 31
 
@@ -357,19 +334,17 @@ Die Talschaftssekundarschule umfasst höchstens drei auf der 6. Primarklasse auf
 
 **4. Qualitätssicherung**
 
-Wird eine Klasse nach den Bestimmungen des Bundes für Maturitätsschulen geführt, sind folgende Auflagen zur Sicherung der Ausbildungsqualität zu erfüllen:
+<sup>1</sup> Wird eine Klasse nach den Bestimmungen des Bundes für Maturitätsschulen geführt, sind folgende Auflagen zur Sicherung der Ausbildungsqualität zu erfüllen:
 
 - a) Die Lehrpersonen besuchen Weiterbildungsveranstaltungen für Bündner Mittelschullehrpersonen entsprechend den Bedingungen für private Mittelschulen;
-
 - b) Die Schülerinnen und Schüler sind so vorzubereiten, dass sie am Ende der 3. Klasse in der Regel ohne Wiederholung eines Schuljahres in eine Bündner Mittelschule eintreten können;
-
 - c) Die Absolventinnen und Absolventen einer 3. Klasse haben in der Regel vor ihrem Eintritt in die 4. Klasse einer Bündner Mittelschule einen vom Departement zu bestimmenden Intensivsprachkurs Deutsch zu besuchen. Der Kanton übernimmt die Kurskosten.
 
 #### Art. 34
 
 **Talentklassen**
 
-<sup>1</sup> Die Aufnahme von Schülerinnen und Schülern in eine Talentklasse ist an Voraussetzungen geknüpft, welche vom Departement bestimmt werden.
+<sup>1</sup> Die Aufnahme von Schülerinnen und Schülern in eine Talentklasse ist an Voraussetzungen geknüpft, welche von der Regierung bestimmt werden.
 
 <sup>2</sup> Talentklassen können nur auf der Sekundarstufe I geführt werden.
 
@@ -378,10 +353,6 @@ Wird eine Klasse nach den Bestimmungen des Bundes für Maturitätsschulen gefüh
 **Zusätzliche Angebote für Fremdsprachige**
 
 <sup>1</sup> Die Schulträgerschaften bieten Förderunterricht für fremdsprachige Schülerinnen und Schüler an. Bei Bedarf bilden sie Einschulungsklassen für fremdsprachige Schülerinnen und Schüler.
-
-**8**
-
-01.08.2013
 
 <sup>2</sup> Der Förderunterricht für Fremdsprachige findet in der Regel während der ordentlichen Unterrichtszeit statt.
 
@@ -407,7 +378,7 @@ Wird eine Klasse nach den Bestimmungen des Bundes für Maturitätsschulen gefüh
 
 <sup>4</sup> Es ist nach Möglichkeit der Lernstoff der Regelklasse zu vermitteln. Die Reintegration in die Regelklasse ist anzustreben.
 
-- 5\. PROMOTION UND ÜBERTRITT
+### 3.5. Promotion und Übertritt
 
 #### Art. 38
 
@@ -423,19 +394,13 @@ Wird eine Klasse nach den Bestimmungen des Bundes für Maturitätsschulen gefüh
 
 **Gefährdete Promotion**
 
-Ist die Promotion gefährdet, orientiert die Klassenlehrperson die Erziehungsberechtigten spätestens zwölf Wochen vor Schuljahresende schriftlich.
+<sup>1</sup> Ist die Promotion gefährdet, orientiert die Klassenlehrperson die Erziehungsberechtigten spätestens zwölf Wochen vor Schuljahresende schriftlich.
 
 #### Art. 40
 
 **Nichtpromotion**
 
-<sup>1</sup> Für Schülerinnen und Schüler, die dem Unterricht gemäss Lehrplan nicht zu folgen vermögen und das Lehr- und Lernziel einer Klasse nicht errei-
-
-**9**
-
-**10**
-
-01.08.2013 chen, kann am Ende des Schuljahres eine Nichtpromotion ausgesprochen werden.
+<sup>1</sup> Für Schülerinnen und Schüler, die dem Unterricht gemäss Lehrplan nicht zu folgen vermögen und das Lehr- und Lernziel einer Klasse nicht erreichen, kann am Ende des Schuljahres eine Nichtpromotion ausgesprochen werden.
 
 <sup>2</sup> Der Entscheid betreffend Nichtpromotion wird den Erziehungsberechtigten zusammen mit der Rechtsmittelbelehrung spätestens 20 Tage vor Schuljahresende von der zuständigen Klassenlehrperson schriftlich mitgeteilt.
 
@@ -443,13 +408,13 @@ Ist die Promotion gefährdet, orientiert die Klassenlehrperson die Erziehungsber
 
 **Fortsetzung des Schuljahres in unterer Klasse**
 
-Bei Überforderung einer Schülerin oder eines Schülers kann der Schulrat im Einverständnis mit den Erziehungsberechtigten und der Klassenlehrperson ausnahmsweise während des ersten Semesters eine Versetzung in die untere Klasse beschliessen.
+<sup>1</sup> Bei Überforderung einer Schülerin oder eines Schülers kann der Schulrat im Einverständnis mit den Erziehungsberechtigten und der Klassenlehrperson ausnahmsweise während des ersten Semesters eine Versetzung in die untere Klasse beschliessen.
 
 #### Art. 42
 
 **Überspringen einer Klasse**
 
-Auf Grund eines Berichts der Klassenlehrperson zu Leistung und Entwicklungsstand einer Schülerin oder eines Schülers kann der Schulrat das Gesuch der Erziehungsberechtigten zum Überspringen einer Klasse bewilligen. Bei Unklarheiten oder wenn unter den Beteiligten keine Einigung zu erzielen ist, kann der Schulpsychologische Dienst beigezogen werden.
+<sup>1</sup> Auf Grund eines Berichts der Klassenlehrperson zu Leistung und Entwicklungsstand einer Schülerin oder eines Schülers kann der Schulrat das Gesuch der Erziehungsberechtigten zum Überspringen einer Klasse bewilligen. Bei Unklarheiten oder wenn unter den Beteiligten keine Einigung zu erzielen ist, kann der Schulpsychologische Dienst beigezogen werden.
 
 #### Art. 43
 
@@ -459,7 +424,7 @@ Auf Grund eines Berichts der Klassenlehrperson zu Leistung und Entwicklungsstand
 
 <sup>2</sup> Das Amt erlässt Richtlinien zum Übertrittsverfahren.
 
-- 6\. SONDERPÄDAGOGISCHE MASSNAHMEN
+### 3.6. Sonderpädagogische Massnahmen
 
 #### Art. 44
 
@@ -472,8 +437,6 @@ Auf Grund eines Berichts der Klassenlehrperson zu Leistung und Entwicklungsstand
 <sup>3</sup> Der Unterricht im Rahmen der Sonderschulung umfasst die Förderung und Schulung von Kindern und Jugendlichen, die dem Unterricht in der Regelschule trotz der niederschwelligen Massnahmen mittel- und langfristig nicht zu folgen vermögen.
 
 <sup>4</sup> Die dazugehörende Betreuung umfasst die Tagesstrukturangebote, den stationären Aufenthalt und die Pflege in Institutionen der Sonderschulung. Sie kann sich auch auf die Betreuung während Wochenenden oder Ferien erstrecken.
-
-01.08.2013
 
 <sup>5</sup> Die Massnahmen bei hohem Förderbedarf umfassen die Heilpädagogische Früherziehung, die Logopädie im Frühbereich und nach Erfüllung der obligatorischen Schulpflicht, die Audiopädagogik sowie die Massnahmen bei Sehschädigung.
 
@@ -493,7 +456,7 @@ Auf Grund eines Berichts der Klassenlehrperson zu Leistung und Entwicklungsstand
 
 **Gewährleistung des niederschwelligen sonderpädagogischen Angebots**
 
-Zur Gewährleistung der niederschwelligen Massnahmen, insbesondere der Förderung der Prävention, sind die Schulträgerschaften gehalten, auf Kindergarten- und Primarstufe pro Abteilung während mindestens zwei Unterrichtseinheiten pro Woche eine heilpädagogische Fachperson in der Klasse einzusetzen.
+<sup>1</sup> Zur Gewährleistung der niederschwelligen Massnahmen, insbesondere der Förderung der Prävention, sind die Schulträgerschaften gehalten, auf Kindergarten- und Primarstufe pro Abteilung während mindestens zwei Unterrichtseinheiten pro Woche eine heilpädagogische Fachperson in der Klasse einzusetzen.
 
 #### Art. 47
 
@@ -512,16 +475,10 @@ Zur Gewährleistung der niederschwelligen Massnahmen, insbesondere der Förderun
 <sup>1</sup> Die Abklärung durch die vom Departement anerkannten Fachstellen im niederschwelligen Bereich erfolgt, wenn:
 
 - a) Unklarheiten bestehen oder unter den Beteiligten keine Einigung über die Durchführung sonderpädagogischer Massnahmen erzielt werden kann;
-
 - b) eine Anpassung der Lernziele vorgenommen werden soll;
-
 - c) pädagogisch-therapeutische Massnahmen angezeigt sind.
 
 <sup>2</sup> Für die Befreiung von Schülerinnen und Schülern von einzelnen Fächern bedarf es der Bewilligung des Amtes.
-
-**11**
-
-01.08.2013
 
 #### Art. 49
 
@@ -535,7 +492,7 @@ Zur Gewährleistung der niederschwelligen Massnahmen, insbesondere der Förderun
 
 **Leistungsaufträge**
 
-Leistungsaufträge an Institutionen der Sonderschulung erstrecken sich in der Regel über vier Jahre. Sie regeln insbesondere die Art, die Qualität und die Quantität des Angebotes, die Qualifikationen des Personals, die Überprüfung der in Rechnung gestellten Leistungen und die Grundsätze der Leistungsabgeltung.
+<sup>1</sup> Leistungsaufträge an Institutionen der Sonderschulung erstrecken sich in der Regel über vier Jahre. Sie regeln insbesondere die Art, die Qualität und die Quantität des Angebotes, die Qualifikationen des Personals, die Überprüfung der in Rechnung gestellten Leistungen und die Grundsätze der Leistungsabgeltung.
 
 #### Art. 51
 
@@ -547,41 +504,34 @@ Leistungsaufträge an Institutionen der Sonderschulung erstrecken sich in der Re
 
 <sup>3</sup> Von den Erziehungsberechtigten können angemessene Beiträge erhoben werden.
 
-- 7\. VERSICHERUNG
+### 3.7. Versicherung
 
 #### Art. 52
 
 **Unfallversicherung**
 
-Die Schülerinnen und Schüler sind gegen Unfälle in der Schule, bei Schulanlässen und auf dem Schulweg für folgende Mindestleistungen zu versichern:
+<sup>1</sup> Die Schülerinnen und Schüler sind gegen Unfälle in der Schule, bei Schulanlässen und auf dem Schulweg für folgende Mindestleistungen zu versichern:
 
-- Todesfall Fr. 10 000
-
-- Invalidität Fr. 150 000 350 Prozent kumulativ
+- a) Todesfall: Fr. 10 000
+- b) Invalidität: Fr. 150 000, 350 Prozent kumulativ
 
 #### Art. 53
 
 **Haftpflichtversicherung**
 
-Die Garantiesumme für Personen- und Sachschäden zusammen hat mindestens 5 Mio. Franken je Schadenereignis zu betragen.
+<sup>1</sup> Die Garantiesumme für Personen- und Sachschäden zusammen hat mindestens 5 Mio. Franken je Schadenereignis zu betragen.
 
-### IV. Die Schülerinnen und Schüler
+## 4. Die Schülerinnen und Schüler
 
 #### Art. 54
 
 **Schulausschluss**
 
-Der Schulrat hat vor dem Entscheid eines Schulausschlusses den Erziehungsberechtigten Gelegenheit zur schriftlichen oder mündlichen Stel-
+<sup>1</sup> Der Schulrat hat vor dem Entscheid eines Schulausschlusses den Erziehungsberechtigten Gelegenheit zur schriftlichen oder mündlichen Stellungnahme zu geben. Er kann darauf verzichten, wenn sofortiges Handeln notwendig ist.
 
-**12**
+## 5. Die Lehrpersonen
 
-**13**
-
-01.08.2013 lungnahme zu geben. Er kann darauf verzichten, wenn sofortiges Handeln notwendig ist.
-
-### V. Die Lehrpersonen
-
-- 1\. ANSTELLUNG UND PFLICHTEN
+### 5.1. Anstellung und Pflichten
 
 #### Art. 55
 
@@ -595,19 +545,23 @@ Der Schulrat hat vor dem Entscheid eines Schulausschlusses den Erziehungsberecht
 
 **Obligatorische Weiterbildungskurse**
 
-Das Amt kann Weiterbildungskurse und Arbeitstagungen für Lehrpersonen durchführen und die Teilnahme obligatorisch erklären. Es kann auch die Teilnahme an Kursen und Arbeitstagungen obligatorisch erklären, die von Fachorganisationen durchgeführt werden.
+<sup>1</sup> Das Amt kann Weiterbildungskurse und Arbeitstagungen für Lehrpersonen durchführen und die Teilnahme obligatorisch erklären. Es kann auch die Teilnahme an Kursen und Arbeitstagungen obligatorisch erklären, die von Fachorganisationen durchgeführt werden.
 
 #### Art. 57
 
 **Freiwillige Weiterbildungskurse**
 
-Freiwillige Weiterbildungskurse finden in der schul- beziehungsweise kindergartenfreien Zeit statt.
+<sup>1</sup> Freiwillige Weiterbildungskurse finden in der schul- beziehungsweise kindergartenfreien Zeit statt.
 
 #### Art. 58
 
 **Weiterbildungsurlaub**
 
-<sup>1</sup> Der Weiterbildungsurlaub ist an die Bedingung geknüpft, dass die Lehrperson während ihrer bisherigen Tätigkeit auf freiwilliger Basis Weiterbildungskurse besuchte, die insgesamt mindestens halb so lange wie der beantragte Urlaub dauerten.
+<sup>1</sup> Der Weiterbildungsurlaub ist an folgende Bedingungen geknüpft:
+
+- a) die Lehrperson besuchte während ihrer bisherigen Tätigkeit auf freiwilliger Basis Weiterbildungskurse, die insgesamt mindestens halb so lange wie der beantragte Urlaub dauerten;
+- b) der Weiterbildungsurlaub findet in zeitlich zusammenhängender Form und grundsätzlich während der Schulzeit statt;
+- c) der Inhalt des Weiterbildungsurlaubs steht in der Regel in engem Zusammenhang mit dem Lehrplan.
 
 <sup>2</sup> Der Schulbetrieb darf durch den Urlaub nicht beeinträchtigt werden.
 
@@ -619,15 +573,13 @@ Freiwillige Weiterbildungskurse finden in der schul- beziehungsweise kindergarte
 
 <sup>2</sup> Die Altersentlastung gilt auch für Lehrpersonen, die bei mehreren Schulträgerschaften angestellt sind.
 
-01.08.2013
-
 #### Art. 60
 
 **Auflösung Arbeitsverhältnis**
 
-Die ordentliche Auflösung des Anstellungsverhältnisses hat auf Ende des Schuljahres zu erfolgen. Sie ist der Lehrperson beziehungsweise der Schulträgerschaft bis Ende März schriftlich mitzuteilen.
+<sup>1</sup> Die ordentliche Auflösung des Anstellungsverhältnisses hat auf Ende des Schuljahres zu erfolgen. Sie ist der Lehrperson beziehungsweise der Schulträgerschaft bis Ende März schriftlich mitzuteilen.
 
-- 2\. BESOLDUNG
+### 5.2. Besoldung
 
 #### Art. 61
 
@@ -637,37 +589,29 @@ Die ordentliche Auflösung des Anstellungsverhältnisses hat auf Ende des Schulj
 
 <sup>2</sup> Die Schulträgerschaften können auch eine Regelung betreffend Lohnentwicklung analog dem kantonalen Personalrecht festlegen.
 
-### VI. Finanzierung der Schulen
+## 6. Finanzierung der Schulen
 
-- 1\. GRUNDSATZ
+### 6.1. Grundsatz
 
 #### Art. 62
 
-**Finanzkraftsätze**
+**…**
 
-<sup>1</sup> Für die Ermittlung der Kantonsbeiträge an Gemeindeverbände wird die Finanzkraft der beteiligten Gemeinden proportional zur Einwohnerzahl gewichtet.
-
-<sup>2</sup> Als Grundlage für die Einwohnerzahl der Gemeinden dient die letzte verfügbare eidgenössische Statistik des jährlichen Bevölkerungsstandes (STATPOP).
-
-<sup>3</sup> Die statistischen Grundlagen für die Ermittlung der für die Gemeindeverbände massgebenden Beitragssätze werden alle zwei Jahre aktualisiert.
-
-- 2\. BEITRÄGE DES KANTONS UND DER SCHULTRÄGERSCHAFTEN
+### 6.2. Beiträge des Kantons und der Schulträgerschaften
 
 #### Art. 63
 
 **Überweisung Regelschulpauschalen**
 
-Der Kanton überweist die Regelschulpauschalen den Schulträgerschaften pro Schuljahr mit mindestens einer Akontozahlung und einer Schlusszahlung. Massgebend sind die Schülerinnen und Schüler, welche die Schulträgerschaften am Stichtag der Schülerzahlerhebung unterrichten.
+<sup>1</sup> Der Kanton überweist die Regelschulpauschalen den Schulträgerschaften pro Schuljahr mit mindestens einer Akontozahlung und einer Schlusszahlung. Massgebend sind die Schülerinnen und Schüler, welche die Schulträgerschaften am Stichtag der Schülerzahlerhebung unterrichten.
+
+<sup>2</sup> …
 
 #### Art. 64
 
 **Schulleitungspauschale**
 
 <sup>1</sup> Beitragsberechtigt für das folgende Schuljahr sind Schulträgerschaften, die bis zum 31. Juli eine Schulleitung eingerichtet haben.
-
-**14**
-
-01.08.2013
 
 <sup>2</sup> Die Schulträgerschaften sind verpflichtet, Änderungen, die für die Beitragsberechtigung von Bedeutung sind, sowie personelle Änderungen in den Schulleitungen innerhalb von 20 Tagen dem Amt zu melden.
 
@@ -682,7 +626,6 @@ Der Kanton überweist die Regelschulpauschalen den Schulträgerschaften pro Schu
 <sup>2</sup> Ein Standort gilt als abgelegen, wenn:
 
 - a) er sich ausserhalb eines geschlossenen Siedlungsgebietes oder in peripherer Lage befindet und sich in angemessener Nähe kein anderer Standort mit der gleichen Schulsprache und -stufe befindet;
-
 - b) oder das Einzugsgebiet sehr weitläufig ist und die Mehrheit der Schülerinnen und Schüler einen langen Schulweg hat.
 
 <sup>3</sup> Das Departement erstellt jährlich eine Liste der Schulträgerschaften mit abgelegenen Standorten. Für die Erstellung der Liste gilt die Situation Stand Oktober des Vorjahres.
@@ -691,7 +634,7 @@ Der Kanton überweist die Regelschulpauschalen den Schulträgerschaften pro Schu
 
 **2. Berechnung**
 
-<sup>1</sup> Die Ausgangssätze der Zusatzpauschalen für Kleinschulen betragen maximal für die Primarstufe 12 000 Franken und für die Sekundarstufe I 3 000 Franken. Massgebend ist die Gesamtschülerzahl pro Standort.
+<sup>1</sup> Die Ausgangssätze der Zusatzpauschalen für Kleinschulen betragen maximal für die Primarstufe 4000 Franken und für die Sekundarstufe I 1000 Franken. Massgebend ist die Gesamtschülerzahl pro Standort.
 
 <sup>2</sup> Das Produkt aus der Schülerzahl multipliziert mit dem jeweiligen Ausgangssatz gemäss Absatz 1 reduziert sich linear mit der Schülerzahl auf null Franken bei 66 Schülerinnen und Schülern.
 
@@ -699,13 +642,13 @@ Der Kanton überweist die Regelschulpauschalen den Schulträgerschaften pro Schu
 
 **Zusatzpauschale für Talschaftssekundarschulen**
 
-Anrechenbar als Zusatzpauschalen für Talschaftssekundarschulen sind ausschliesslich die tatsächlich erteilten Lektionen.
+<sup>1</sup> Anrechenbar als Zusatzpauschalen für Talschaftssekundarschulen sind ausschliesslich die tatsächlich erteilten Lektionen.
 
 #### Art. 68
 
 **Gemeinde- und Elternbeiträge Sonderschulung**
 
-Die Kostenbeteiligung der Schulträgerschaften beträgt 21 Franken pro Kalendertag. Die Kostenbeteiligung der Erziehungsberechtigten für die Verpflegung und Betreuung beträgt bei interner Sonderschulung 10 Franken und bei externer Sonderschulung 5 Franken pro Aufenthaltstag.
+<sup>1</sup> Die Kostenbeteiligung der Schulträgerschaften beträgt 21 Franken pro Kalendertag. Die Kostenbeteiligung der Erziehungsberechtigten für die Verpflegung und Betreuung beträgt bei interner Sonderschulung 10 Franken und bei externer Sonderschulung 5 Franken pro Aufenthaltstag.
 
 #### Art. 69
 
@@ -713,22 +656,14 @@ Die Kostenbeteiligung der Schulträgerschaften beträgt 21 Franken pro Kalendert
 
 <sup>1</sup> An folgende Aufwendungen für die obligatorische Weiterbildung und den Weiterbildungsurlaub leistet der Kanton Beiträge:
 
-- a) Kurskosten;
-
+- a) Kurskosten bis maximal 11 000 Franken;
 - b) Kosten für die Stellvertretung.
 
-<sup>2</sup> Die Ausgangssätze zur Berechnung der Beiträge an die Kosten für die Stellvertretungen entsprechen 138 Prozent der Anfangsbesoldung einer
-
-**15**
-
-**16**
-
-01.08.2013 Lehrperson der entsprechenden Lehrpersonenkategorie. Sie sind mit dem Prozentsatz der Finanzkraftklasse der Gemeinde zu multiplizieren.
+<sup>2</sup> Die Beiträge an die Kosten für die Stellvertretungen entsprechen 28 Prozent der Anfangsbesoldung einer Lehrperson der entsprechenden Lehrpersonenkategorie.
 
 <sup>3</sup> Die Schulträgerschaften kommen für folgende Kosten auf:
 
 - a) Entlöhnung der Lehrperson und der Stellvertretung;
-
 - b) Reisekosten sowie Kosten für die auswärtige Unterkunft und Verpflegung gemäss einem vom Departement festzulegenden Ansatz.
 
 <sup>4</sup> Bei der obligatorischen Weiterbildung übernimmt der Kanton zusätzlich die Kosten für Kursunterlagen.
@@ -739,15 +674,19 @@ Die Kostenbeteiligung der Schulträgerschaften beträgt 21 Franken pro Kalendert
 
 **2. Voraussetzungen für Beitragsausrichtung**
 
-Das Amt kann die Ausrichtung der Beiträge vom erfolgreichen Abschluss der Weiterbildung abhängig machen.
+<sup>1</sup> Das Amt kann die Ausrichtung der Beiträge vom erfolgreichen Abschluss der Weiterbildung abhängig machen.
 
 #### Art. 71
 
-**Beiträge an Transportkosten**
+**Pauschalen für Schülertransporte**
 
-Der Kanton beteiligt sich an den Transportkosten für den Schulweg. Nicht anrechenbar sind die Transportkosten für Wege während der Schulzeit zwischen verschiedenen Schulstandorten.
+<sup>1</sup> Der Kanton gewährt den Schulträgerschaften für Schulwege von Schülerinnen und Schülern von mehr als zwei Kilometern Pauschalbeiträge.
 
-### VII. Instanzen
+<sup>2</sup> Als Schulweg gilt die Entfernung zwischen dem Wohnort der Schülerinnen und Schüler und dem Schulstandort. Das Amt legt die anrechenbare Entfernung zwischen den betreffenden Orten fest. Massgebend ist das Ortschaftenverzeichnis des Bundesamtes für Statistik. Grundlage bildet die Schülerzahl- und Wohnortserhebung jeweils im September.
+
+<sup>3</sup> Die Pauschale beträgt für ein Schuljahr pro Schülerin und Schüler 65 Franken pro Kilometer anrechenbarer einfacher Schulweg.
+
+## 7. Instanzen
 
 #### Art. 72
 
@@ -756,9 +695,7 @@ Der Kanton beteiligt sich an den Transportkosten für den Schulweg. Nicht anrech
 <sup>1</sup> Das Inspektorat hat insbesondere folgende Aufgaben:
 
 - a) Überprüfung der Umsetzung und der Einhaltung der kantonalen Vorschriften und Qualitätsstandards durch die Schulträgerschaften;
-
 - b) periodische Evaluation der Volksschulen;
-
 - c) Beratung von Lehrpersonen, Schulleitungen und kommunalen Schulbehörden in Fragen des Unterrichts, der Schulplanung, der Weiterbildung und des Konfliktmanagements.
 
 <sup>2</sup> Das Amt erlässt Richtlinien über die Organisation, Pflichten und Aufgaben und teilt das Kantonsgebiet unter Berücksichtigung der Sprachregionen in Inspektoratsbezirke ein.
@@ -771,13 +708,11 @@ Der Kanton beteiligt sich an den Transportkosten für den Schulweg. Nicht anrech
 
 <sup>2</sup> Der Schulpsychologische Dienst führt Abklärungen und Beratungen durch bei Lern-, Leistungs-, Verhaltens- und Entwicklungsschwierigkeiten sowie bei Fragen der Bildungslaufbahn von Kindern und Jugendlichen.
 
-01.08.2013
-
 <sup>3</sup> Neben der Hilfe im Einzelfall wirkt der Schulpsychologische Dienst mit bei der Prävention von Schul-, Entwicklungs- und Erziehungsproblemen.
 
 <sup>4</sup> Das Amt erlässt Richtlinien über die Organisation, Pflichten und Aufgaben des Schulpsychologischen Dienstes und teilt das Kantonsgebiet in Beratungsregionen ein.
 
-### VIII. Schlussbestimmungen
+## 8. Schlussbestimmungen
 
 #### Art. 74
 
@@ -786,43 +721,22 @@ Der Kanton beteiligt sich an den Transportkosten für den Schulweg. Nicht anrech
 <sup>1</sup> Mit dem Inkrafttreten dieser Verordnung werden folgende Erlasse aufgehoben:
 
 - a) Verordnung betreffend Aufnahme von vierjährigen Kindern in den Kindergarten vom 19. März 1996;
-
 - b) Regierungsbeschluss über die Wählbarkeit von Kindergärtnerinnen vom 8. März 1994;
-
 - c) Verordnung über die Kindergartenaufsicht im Kanton Graubünden vom 27. Oktober 1998;
-
 - d) Verordnung über die Förderung von Kindern mit Behinderungen in den Kindergärten des Kantons Graubünden vom 2. Juli 1996;
-
 - e) Verordnung über Versicherungsleistungen für Kindergärtnerinnen und Kinder im Kindergarten vom 29. Juni 1996;
-
 - f) Verordnung für die Führung und Organisation der Volksschul-Oberstufe vom 27. Oktober 1998;
-
 - g) Verordnung zur Organisation von Kleinklassen vom 6. März 2001;
-
 - h) Verordnung über Beitragsleistungen für Schulleitungen (Schulleitungsverordnung) vom 9. Februar 2009;
-
 - i) Verordnung über die Wählbarkeit von Lehrpersonen für Kleinklassen, Realschulen und Sekundarschulen sowie von Fachlehrpersonen vom 15. Mai 2001;
-
 - j) Ausführungsbestimmungen über die Bewilligung und Subventionierung von Fortbildungsurlauben der Volksschullehrer vom 19. März 1991;
-
 - k) Verordnung über die Promotion an den Volksschulen des Kantons Graubünden (Promotionsverordnung) vom 15. Mai 2001;
-
 - l) Verordnung über das Übertrittsverfahren in die Volksschul-Oberstufe (Übertrittsverordnung) vom 17. Juni 1996;
-
 - m) Verordnung über die Subventionierung von Schul- und Schulsportanlagen (Schulbauverordnung) vom 29. Juni 2010;
-
 - n) Verordnung über die Fort- und Weiterbildung von Lehrpersonen der Volksschule und des Kindergartens vom 27. Oktober 1998;
-
 - o) Verordnung über die Schulaufsicht im Kanton Graubünden vom 27. Oktober 1998;
-
 - p) Verordnung über die Versicherungsleistungen für die Schülerinnen und Schüler und für die Lehrpersonen vom 20. Mai 1975;
-
-**17**
-
-**18**
-
-01.08.2013 q) Verordnung über die sprachliche Förderung fremdsprachiger Kinder in den Kindergärten und Volksschulen des Kantons Graubünden vom 25. Juni 1996;
-
+- q) Verordnung über die sprachliche Förderung fremdsprachiger Kinder in den Kindergärten und Volksschulen des Kantons Graubünden vom 25. Juni 1996;
 - r) Verordnung über die Sonderschulung vom 27. November 2007.
 
 <sup>2</sup> Verweisen geltende Erlasse auf Bestimmungen, die durch diese Verordnung ersetzt werden, finden die entsprechenden Bestimmungen dieser Verordnung Anwendung.
@@ -831,6 +745,6 @@ Der Kanton beteiligt sich an den Transportkosten für den Schulweg. Nicht anrech
 
 **Inkrafttreten**
 
-Diese Verordnung tritt auf den 1. August 2013 in Kraft.
+<sup>1</sup> Diese Verordnung tritt auf den 1. August 2013 in Kraft.
 
-01.08.2013
+-

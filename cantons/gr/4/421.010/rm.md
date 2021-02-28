@@ -4,34 +4,37 @@ number: "421.010"
 title: Ordinaziun tar la lescha da scola
 short: ordinaziun da scola
 language: rm
-version: 2013-08-01
-corrected: 2014-10-09
-version_adopted: 2012-09-25
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2021-02-09
 adopted: 2012-09-25
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1857/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3161/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun tar la lescha da scola (ordinaziun da scola)
+# Ordinaziun tar la lescha da scola
 
-sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^t-1] e sin l'art. 97 da la lescha davart las scolas popularas dal chantun Grischun (lescha da scola)[^t-2]
+(ordinaziun da scola)
+
+dals 25-09-2012 (versiun dals 01-03-2021)
+
+sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1] e sin l'art. 97 da la lescha davart las scolas popularas dal chantun Grischun (lescha da scola)[^ingress-2]
 
 relaschada da la regenza ils 25 da settember 2012
 
-I. Instituziuns responsablas per la scola
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-2]: DG [421.000](https://www.gr-lex.gr.ch/data/421.000/rm)
 
-[^t-1]: DG 110.100
-[^t-2]: DG 421.000 1-8-2013 1
+## 1. Instituziuns responsablas per la scola
 
 #### Art. 1
 
 **Obligaziun d'admissiun**
 
-Mintga instituziun responsabla per la scola è obligada d'admetter scolaras e scolars da vischnancas vischinas che n'han betg las purschidas publicas correspundentas per laschar frequentar la scola, premess che l'infrastructura e che persunas d'instrucziun avunda sajan avant maun.
+<sup>1</sup> Mintga instituziun responsabla per la scola è obligada d'admetter scolaras e scolars da vischnancas vischinas che n'han betg las purschidas publicas correspundentas per laschar frequentar la scola, premess che l'infrastructura e che persunas d'instrucziun avunda sajan avant maun.
 
 #### Art. 2
 
@@ -47,17 +50,17 @@ Mintga instituziun responsabla per la scola è obligada d'admetter scolaras e sc
 
 **Collavuraziun cun instituziuns privatas ch'èn responsablas per la scola**
 
-Contracts tranter instituziuns responsablas per la scola privatas e publicas ston vegnir approvads dal departament.
+<sup>1</sup> Contracts tranter instituziuns responsablas per la scola privatas e publicas ston vegnir approvads dal departament.
 
-### II. Purschidas da scola e da furmaziun
+## 2. Purschidas da scola e da furmaziun
 
-- 1\. STGALIMS DA SCOLA
+### 2.1. Stgalims da scola
 
 #### Art. 4
 
 **Entrada e frequentaziun dal stgalim da la scolina**
 
-Entrà en il stgalim da la scolina vegni il cumenzament da l'onn da scola. La scolina sto vegnir frequentada regularmain.
+<sup>1</sup> Entrà en il stgalim da la scolina vegni il cumenzament da l'onn da scola. La scolina sto vegnir frequentada regularmain.
 
 #### Art. 5
 
@@ -69,7 +72,7 @@ Entrà en il stgalim da la scolina vegni il cumenzament da l'onn da scola. La sc
 
 <sup>3</sup> Il departament relascha directivas davart l'organisaziun e per la permeabilitad.
 
-- 2\. OBLIGAZIUN D'IR A SCOLA, LIEU DA SCOLA E FREQUENTAZIUN GRATUITA
+### 2.2. Obligaziun d'ir a scola, lieu da scola e frequentaziun gratuita
 
 #### Art. 6
 
@@ -86,10 +89,6 @@ Entrà en il stgalim da la scolina vegni il cumenzament da l'onn da scola. La sc
 <sup>1</sup> Las instituziuns responsablas per la scola pon er admetter al stgalim da la scolina uffants che cumpleneschan il 4. onn da vegliadetgna fin ils 31 da december da l'onn chalendar current.
 
 <sup>2</sup> Suenter avair tadlà las persunas cun la pussanza dals geniturs po il cussegl da scola suspender l'entrada en scolina per 1 onn, sch'ina expertisa dal servetsch psicologic da scola attesta che las premissas per entrar en scolina n'èn betg ademplidas tenor il stadi da svilup e ch'ina scolaziun speziala na vegn betg en dumonda.
-
-**2**
-
-1-8-2013
 
 #### Art. 8
 
@@ -119,23 +118,18 @@ Entrà en il stgalim da la scolina vegni il cumenzament da l'onn da scola. La sc
 
 **Transport da scolaras e da scolars**
 
-Relaziuns che pretendan in transport da las scolaras e dals scolars èn avant maun, sch'i na po betg vegnir pretendì dad ellas e dad els d'ir a pe a scola, en spezial, sche:
+<sup>1</sup> Relaziuns che pretendan in transport da las scolaras e dals scolars èn avant maun, sch'i na po betg vegnir pretendì dad ellas e dad els d'ir a pe a scola, en spezial, sche:
 
 - a) la via è spezialmain lunga u privlusa;
-
 - b) igl è avant maun in impediment che engrevgescha considerablamain da far la via senza transport.
 
-**3**
-
-**4**
-
-1-8-2013 3. SCOLAS PRIVATAS ED INSTRUCZIUN PRIVATA
+### 2.3. Scolas privatas ed instrucziun privata
 
 #### Art. 12
 
 **Dretg d'instruir**
 
-Persunas d'instrucziun da scolas privatas e per l'instrucziun privata ston ademplir las medemas premissas concernent il dretg d'instruir sco las persunas d'instrucziun da la scola populara publica.
+<sup>1</sup> Persunas d'instrucziun da scolas privatas e per l'instrucziun privata ston ademplir las medemas premissas concernent il dretg d'instruir sco las persunas d'instrucziun da la scola populara publica.
 
 #### Art. 13
 
@@ -145,31 +139,28 @@ Persunas d'instrucziun da scolas privatas e per l'instrucziun privata ston ademp
 
 <sup>2</sup> La regenza po disponer che scolas privatas vegnian serradas, sch'ellas n'adempleschan betg las disposiziuns legalas u las cundiziuns.
 
-### III. Organisaziun da la scola
+## 3. Organisaziun da la scola
 
-- 1\. GESTIUN ED ORGANISAZIUN
+### 3.1. Gestiun ed organisaziun
 
 #### Art. 14
 
 **Approvaziun da l'urden da scola**
 
-Per esser valaivel sto l'urden da scola vegnir approvà dal departament.
+<sup>1</sup> Per esser valaivel sto l'urden da scola vegnir approvà dal departament.
 
 #### Art. 15
 
 **Premissas minimalas a direcziuns da scola**
 
-Las direcziuns da scola adempleschan las premissas minimalas, sche:
+<sup>1</sup> Las direcziuns da scola adempleschan las premissas minimalas, sche:
 
 - a) la direcziun operativa da la scola vegn surdada a las manadras ed als manaders da scola en ils secturs da la pedagogia e da la pedagogia speziala, dal persunal, da l'organisaziun, da l'administraziun e da las finanzas e sche las incumbensas correspundentas èn fixadas en in carnet d'obligaziuns;
-
 - b) las manadras ed ils manaders da scola han experientschas professiunalas en il sectur pedagogic sco er ina scolaziun supplementara en il sectur da la direcziun d'ina scola. L'uffizi decida davart l'equivalenza d'experientschas professiunalas e da scolaziuns d'ordaifer la scola;
-
-- c) il pensum da lavur da la manadra u dal manader da scola per ademplir questa incumbensa importa almain 20 pertschient d'ina plazza. Per calcular il pensum d'occupaziun minimal valan las disposiziuns da la lescha chantunala dal persunal;
-
+- c) il pensum da lavur da la manadra u dal manader da scola per ademplir questa incumbensa importa almain 20 pertschient d'ina plazza. Per calcular il pensum d'occupaziun minimal valan las disposiziuns da la lescha chantunala dal persunal[^15-1];
 - d) las directivas dal departament areguard las interfatschas a las instanzas chantunalas vegnan ademplidas.
 
-1-8-2013
+[^15-1]: DG [170.400](https://www.gr-lex.gr.ch/data/170.400/rm)
 
 #### Art. 16
 
@@ -183,15 +174,15 @@ Las direcziuns da scola adempleschan las premissas minimalas, sche:
 
 **Direcziuns da scola cuminaivlas**
 
-Per direcziuns da scola che lavuran per differentas instituziuns responsablas per la scola sto ina regulaziun cuminaivla ed unitara dal temp da lavur e da las cumpetenzas vegnir fixada en in contract.
+<sup>1</sup> Per direcziuns da scola che lavuran per differentas instituziuns responsablas per la scola sto ina regulaziun cuminaivla ed unitara dal temp da lavur e da las cumpetenzas vegnir fixada en in contract.
 
 #### Art. 18
 
 **Registraziun da datas statisticas**
 
-Las instituziuns responsablas per la scola èn obligadas da registrar datas statisticas tenor las directivas dal departament.
+<sup>1</sup> Las instituziuns responsablas per la scola èn obligadas da registrar datas statisticas tenor las directivas dal departament.
 
-- 2\. MANASCHI DA SCOLA
+### 3.2. Manaschi da scola
 
 #### Art. 19
 
@@ -199,29 +190,28 @@ Las instituziuns responsablas per la scola èn obligadas da registrar datas stat
 
 <sup>1</sup> Ina partiziun da scolina na dastga per regla betg avair dapli che 20 uffants.
 
-<sup>2</sup> Ina partiziun da scola primara na dastga per regla betg avair dapli che: 24 scolaras e scolars tar ina partiziun d'ina classa;
+<sup>2</sup> Ina partiziun da scola primara na dastga per regla betg avair dapli che:
 
-20 scolaras e scolars tar ina partiziun da duas classas;
+- a) 24 scolaras e scolars tar ina partiziun d'ina classa;
+- b) 20 scolaras e scolars tar ina partiziun da duas classas;
+- c) 18 scolaras e scolars tar ina partiziun da trais classas;
+- d) 16 scolaras e scolars tar ina partiziun da quatter classas;
+- e) 14 scolaras e scolars tar ina partiziun da tschintg u da sis classas.
 
-18 scolaras e scolars tar ina partiziun da trais classas;
+<sup>3</sup> Ina partiziun da scola secundara na dastga per regla betg avair dapli che:
 
-16 scolaras e scolars tar ina partiziun da quatter classas;
+- a) 22 scolaras e scolars tar ina partiziun d'ina classa;
+- b) 18 scolaras e scolars tar ina partiziun da duas u da trais classas.
 
-14 scolaras e scolars tar ina partiziun da tschintg u da sis classas.
+<sup>4</sup> Ina partiziun da scola reala na dastga per regla betg avair dapli che:
 
-<sup>3</sup> Ina partiziun da scola secundara na dastga per regla betg avair dapli che: 22 scolaras e scolars tar ina partiziun d'ina classa;
-
-18 scolaras e scolars tar ina partiziun da duas u da trais classas.
-
-<sup>4</sup> Ina partiziun da scola reala na dastga per regla betg avair dapli che: 20 scolaras e scolars tar ina partiziun d'ina classa;
-
-16 scolaras e scolars tar ina partiziun da duas u da trais classas.
+- a) 20 scolaras e scolars tar ina partiziun d'ina classa;
+- b) 16 scolaras e scolars tar ina partiziun da duas u da trais classas.
 
 <sup>5</sup> Ina partiziun da lavurs a maun e d'economia da chasa na dastga per regla betg avair dapli che:
 
-14 scolaras e scolars tar ina partiziun d'ina classa;
-
-12 scolaras e scolars tar ina partiziun da pliras classas.
+- a) 14 scolaras e scolars tar ina partiziun d'ina classa;
+- b) 12 scolaras e scolars tar ina partiziun da pliras classas.
 
 #### Art. 20
 
@@ -229,11 +219,10 @@ Las instituziuns responsablas per la scola èn obligadas da registrar datas stat
 
 <sup>1</sup> Las partiziuns na dastgan per regla betg sutpassar ils suandants dumbers minimals:
 
-scolina: 5 uffants scola primara: 5 scolaras e scolars scola reala: 7 scolaras e scolars scola secundara: 10 scolaras e scolars
-
-**5**
-
-1-8-2013
+- a) scolina: 5 uffants;
+- b) scola primara: 5 scolaras e scolars;
+- c) scola reala: 7 scolaras e scolars;
+- d) scola secundara: 10 scolaras e scolars.
 
 <sup>2</sup> Il stgalim secundar I sto avair tut en tut almain 17 scolaras e scolars.
 
@@ -249,7 +238,7 @@ scolina: 5 uffants scola primara: 5 scolaras e scolars scola reala: 7 scolaras e
 
 **Occurrenzas da scola spezialas**
 
-L'instituziun responsabla per la scola po declerar sco obligatoricas occurrenzas da scola spezialas che han lieu ils suentermezdis libers u las sondas.
+<sup>1</sup> L'instituziun responsabla per la scola po declerar sco obligatoricas occurrenzas da scola spezialas che han lieu ils suentermezdis libers u las sondas.
 
 #### Art. 23
 
@@ -273,43 +262,37 @@ L'instituziun responsabla per la scola po declerar sco obligatoricas occurrenzas
 
 **Dis da congedi**
 
-Ils dis da congedi per scolaras e scolars che vegnan concedids da l'instituziun responsabla per la scola pon er vegnir permess en furma da lecziuns singulas. La quantitad totala na dastga betg surpassar 15 dis da scola u il tripel da la dotaziun da lecziuns per emna dal stgalim da scola respectiv.
+<sup>1</sup> Ils dis da congedi per scolaras e scolars che vegnan concedids da l'instituziun responsabla per la scola pon er vegnir permess en furma da lecziuns singulas. La quantitad totala na dastga betg surpassar 15 dis da scola u il tripel da la dotaziun da lecziuns per emna dal stgalim da scola respectiv.
 
-- 3\. CUNTEGNS DIDACTICS, PLAN D'INSTRUCZIUN E MEDS D'INSTRUCZIUN
+### 3.3. Cuntegns didactics, plan d'instrucziun e meds d'instrucziun
 
 #### Art. 26
 
 **Roms d'instrucziun 1. stgalim primar**
 
-<sup>1</sup> Ils roms d'instrucziun obligatorics dal stgalim primar èn: la lingua da scola sco emprima lingua, in'ulteriura lingua chantunala sco segunda
+<sup>1</sup> La tavla da lecziuns per il stgalim primar cumpiglia roms obligatorics.
 
-**6**
-
-**7**
-
-1-8-2013 lingua, englais, matematica, instrucziun reala/enconuschientscha da la patria, istorgia, geografia, istorgia natirala, religiun, dissegn e furmar, scriver, chant e musica, educaziun sportiva, lavurs a maun (lavurs a maun textil e zambregiar).
-
-<sup>2</sup> Tematicas e cumpetenzas interdisciplinaras sco educaziun da sanadad, d'ambient e da traffic ston vegnir integradas en ils differents roms d'instrucziun.
+<sup>2</sup> Per il rom "religiun" èn responsablas las baselgias chantunalas. El sto vegnir integrà en ils uraris sco rom obligatoric.
 
 #### Art. 27
 
 **2. stgalim secundar I**
 
-<sup>1</sup> Ils roms d'instrucziun obligatorics dal stgalim secundar I èn: la lingua da scola sco emprima lingua, in'ulteriura lingua chantunala sco segunda lingua, englais, matematica (aritmetica, algebra, geometria), uman ed ambient (religiun, enconuschientscha da las religiuns ed etica, instrucziun da la natira, geografia, istorgia/instrucziun civica ed economica, economia da chasa), furmar creativ, lavurs a maun (lavurs a maun textil u zambregiar), chant e musica, educaziun sportiva, enconuschientschas da basa da l'informatica.
+<sup>1</sup> La tavla da lecziuns per il stgalim secundar cumpiglia roms obligatorics e roms d'elecziun.
 
-<sup>2</sup> Sco roms d'elecziun obligatorics e sco roms facultativs pon vegnir instruids tar ina participaziun d'almain 5 scolaras e scolars e sche las persunas d'instrucziun necessarias èn avant maun: tecnica d'emprender e da lavurar, chor/orchester, ulteriuras linguas estras (rumantsch, talian, franzos), dissegn geometric, lavur a maun (lavur a maun textil e zambregiar), economia da chasa, scriver cun la tastatura, praticum matematic, praticum en scienza natirala ed en enconuschientschas da la patria, praticum tecnic, teater/gieu figurativ/saut, educaziun sportiva, instrucziun economica.
+<sup>2</sup> Per il rom "religiun" èn responsablas las baselgias chantunalas. El sto vegnir integrà en ils uraris sco rom obligatoric.
 
-<sup>3</sup> Las linguas naziunalas che n'èn betg menziunadas sco roms obligatorics, ston vegnir purschidas sco roms d'elecziun, independentamain dal dumber da participantas e da participants. En quest connex pon parts dad ellas er vegnir absolvidas sco emnas cumpactas en las regiuns linguisticas.
+<sup>3</sup> …
 
-<sup>4</sup> Tematicas e cumpetenzas interdisciplinaras sco educaziun da sanadad, d'ambient, da medias e da traffic sco er talas da la preparaziun da la tscherna da professiun ston vegnir integradas en differents roms d'instrucziun.
+<sup>4</sup> …
 
-<sup>5</sup> Il departament relascha directivas davart las pussaivladads per renunziar a l'elecziun dals roms respectivs.
+<sup>5</sup> …
 
 #### Art. 28
 
 **Scolas e classas che vegnan manadas en moda bilingua**
 
-Scolas e classas che vegnan manadas en moda bilingua vegnan permessas da la regenza sin basa d'ina dumonda e d'in concept correspundent.
+<sup>1</sup> Scolas e classas che vegnan manadas en moda bilingua vegnan permessas da la regenza sin basa d'ina dumonda e d'in concept correspundent.
 
 #### Art. 29
 
@@ -317,21 +300,19 @@ Scolas e classas che vegnan manadas en moda bilingua vegnan permessas da la rege
 
 <sup>1</sup> La regenza concluda davart l'ediziun u davart la nova elavuraziun d'in med d'instrucziun.
 
-1-8-2013
-
 <sup>2</sup> Per meds d'instrucziun che vegnan duvrads probablamain da main che 500 scolaras e scolars pon vegnir realisadas soluziuns pli favuraivlas.
 
 <sup>3</sup> L'uffizi dispona la reediziun da meds d'instrucziun senza midadas.
 
 <sup>4</sup> L'uffizi fixescha il pretsch da vendita dals meds d'instrucziun.
 
-- 4\. PURSCHIDAS CUMPLEMENTARAS
+### 3.4. Purschidas cumplementaras
 
 #### Art. 30
 
 **Scolas secundaras da vallada 1. structura**
 
-La scola secundara da vallada cumpiglia maximalmain 3 classas che suondan la 6. classa primara. La 3. classa po vegnir manada tenor las disposiziuns federalas per scolas da maturitad.
+<sup>1</sup> La scola secundara da vallada cumpiglia maximalmain 3 classas che suondan la 6. classa primara. La 3. classa po vegnir manada tenor las disposiziuns federalas per scolas da maturitad.
 
 #### Art. 31
 
@@ -355,25 +336,17 @@ La scola secundara da vallada cumpiglia maximalmain 3 classas che suondan la 6. 
 
 **4. garanzia da la qualitad**
 
-Sch'ina classa vegn manada tenor las disposiziuns federalas per scolas da maturitad, ston vegnir ademplidas las suandantas cundiziuns per garantir la qualitad da la scolaziun:
+<sup>1</sup> Sch'ina classa vegn manada tenor las disposiziuns federalas per scolas da maturitad, ston vegnir ademplidas las suandantas cundiziuns per garantir la qualitad da la scolaziun:
 
 - a) las persunas d'instrucziun frequentan occurrenzas da furmaziun supplementara per persunas d'instrucziun da las scolas medias dal Grischun confurm a las premissas per scolas medias privatas;
-
 - b) las scolaras ed ils scolars ston vegnir preparads uschia ch'els pon entrar a la fin da la 3. classa en ina scola media dal Grischun, per regla senza ch'els stoppian repeter in onn da scola;
-
-- c) las absolventas ed ils absolvents d'ina 3. classa ston frequentar per regla avant che cumenzar cun la 4. classa d'ina scola media dal
-
-**8**
-
-**9**
-
-1-8-2013 Grischun in curs intensiv da lingua tudestga che sto vegnir definì dal departament. Il chantun surpiglia ils custs dal curs.
+- c) las absolventas ed ils absolvents d'ina 3. classa ston frequentar per regla avant che cumenzar cun la 4. classa d'ina scola media dal Grischun in curs intensiv da lingua tudestga che sto vegnir definì dal departament. Il chantun surpiglia ils custs dal curs.
 
 #### Art. 34
 
 **Classas da talent**
 
-<sup>1</sup> L'admissiun da scolaras e da scolars en ina classa da talent è colliada cun premissas che vegnan fixadas dal departament.
+<sup>1</sup> L'admissiun da scolaras e da scolars en ina classa da talent è colliada cun premissas che vegnan fixadas da la regenza.
 
 <sup>2</sup> Classas da talent pon vegnir manadas mo sin il stgalim secundar I.
 
@@ -407,15 +380,13 @@ Sch'ina classa vegn manada tenor las disposiziuns federalas per scolas da maturi
 
 <sup>4</sup> Sche pussaivel sto vegnir intermediada la materia da la classa regulara. La finamira è la reintegraziun en la classa regulara.
 
-- 5\. PROMOZIUN E MIDADA DA STGALIM
+### 3.5. Promoziun e midada da stgalim
 
 #### Art. 38
 
 **Promoziun, princips**
 
 <sup>1</sup> Las decisiuns da promoziun han primarmain l'intent da promover l'emprender.
-
-1-8-2013
 
 <sup>2</sup> En in giudicament cumplessiv da las scolaras e dals scolars ston – per la promoziun – vegnir resguardads commensuradamain er facturs sco l'existenza d'ina lingua estra sco er il stadi da svilup corporal e spiertal.
 
@@ -425,7 +396,7 @@ Sch'ina classa vegn manada tenor las disposiziuns federalas per scolas da maturi
 
 **Promoziun periclitada**
 
-Sche la promoziun è periclitada, orientescha la persuna d'instrucziun da classa las persunas cun la pussanza dals geniturs en scrit il pli tard 12 emnas avant la fin da l'onn da scola.
+<sup>1</sup> Sche la promoziun è periclitada, orientescha la persuna d'instrucziun da classa las persunas cun la pussanza dals geniturs en scrit il pli tard 12 emnas avant la fin da l'onn da scola.
 
 #### Art. 40
 
@@ -439,13 +410,13 @@ Sche la promoziun è periclitada, orientescha la persuna d'instrucziun da classa
 
 **Cuntinuaziun da l'onn da scola en la classa pli bassa**
 
-Sch'ina scolara u in scolar è surdumandà, po il cussegl da scola – cun il consentiment da las persunas cun la pussanza dals geniturs e da la persuna d'instrucziun da classa – concluder excepziunalmain durant l'emprim semester che la scolara u il scolar stoppia midar en la classa pli bassa.
+<sup>1</sup> Sch'ina scolara u in scolar è surdumandà, po il cussegl da scola – cun il consentiment da las persunas cun la pussanza dals geniturs e da la persuna d'instrucziun da classa – concluder excepziunalmain durant l'emprim semester che la scolara u il scolar stoppia midar en la classa pli bassa.
 
 #### Art. 42
 
 **Sursiglir ina classa**
 
-Sin basa d'in rapport da la persuna d'instrucziun da classa davart la prestaziun e davart il stadi da svilup d'ina scolara u d'in scolar po il cussegl da scola approvar la dumonda da las persunas cun la pussanza dals geniturs da sursiglir ina classa. En cas d'intschertezzas u sch'i na po betg vegnir cuntanschì in accord tranter las parts participadas, po vegnir consultà il servetsch psicologic da scola.
+<sup>1</sup> Sin basa d'in rapport da la persuna d'instrucziun da classa davart la prestaziun e davart il stadi da svilup d'ina scolara u d'in scolar po il cussegl da scola approvar la dumonda da las persunas cun la pussanza dals geniturs da sursiglir ina classa. En cas d'intschertezzas u sch'i na po betg vegnir cuntanschì in accord tranter las parts participadas, po vegnir consultà il servetsch psicologic da scola.
 
 #### Art. 43
 
@@ -455,11 +426,7 @@ Sin basa d'in rapport da la persuna d'instrucziun da classa davart la prestaziun
 
 <sup>2</sup> L'uffizi relascha directivas davart la procedura d'admissiun.
 
-**10**
-
-**11**
-
-1-8-2013 6. MESIRAS DA LA PEDAGOGIA SPEZIALA
+### 3.6. Mesiras da la pedagogia speziala
 
 #### Art. 44
 
@@ -491,9 +458,7 @@ Sin basa d'in rapport da la persuna d'instrucziun da classa davart la prestaziun
 
 **Garanzia da la purschida simpla da la pedagogia speziala**
 
-Per garantir las mesiras simplas, en spezial la promoziun da la prevenziun, vegnan las instituziuns responsablas per la scola animadas d'engaschar ina persuna spezialisada per la pedagogia curativa per almain duas unitads d'instrucziun per emna per partiziun dal stgalim da scolina e dal stgalim primar.
-
-1-8-2013
+<sup>1</sup> Per garantir las mesiras simplas, en spezial la promoziun da la prevenziun, vegnan las instituziuns responsablas per la scola animadas d'engaschar ina persuna spezialisada per la pedagogia curativa per almain duas unitads d'instrucziun per emna per partiziun dal stgalim da scolina e dal stgalim primar.
 
 #### Art. 47
 
@@ -512,9 +477,7 @@ Per garantir las mesiras simplas, en spezial la promoziun da la prevenziun, vegn
 <sup>1</sup> Il scleriment en il sectur simpel vegn fatg dals posts spezialisads renconuschids dal departament, sche:
 
 - a) igl existan intschertezzas u i na po betg vegnir cuntanschì in accord tranter las parts participadas davart la realisaziun da mesiras da la pedagogia speziala;
-
 - b) las finamiras da l'instrucziun duain vegnir adattadas;
-
 - c) igl è necessari da realisar mesiras pedagogic-terapeuticas.
 
 <sup>2</sup> La deliberaziun da scolaras e da scolars da singuls roms dovra la permissiun da l'uffizi.
@@ -531,7 +494,7 @@ Per garantir las mesiras simplas, en spezial la promoziun da la prevenziun, vegn
 
 **Incaricas da prestaziun**
 
-Las incaricas da prestaziun ad instituziuns da la scolaziun speziala valan per regla 4 onns. Ellas reglan en spezial il gener, la qualitad e la quantitad da la purschida, la qualificaziun dal persunal, la controlla da las prestaziuns che vegnan messas a quint ed ils princips da l'indemnisaziun da las prestaziuns.
+<sup>1</sup> Las incaricas da prestaziun ad instituziuns da la scolaziun speziala valan per regla 4 onns. Ellas reglan en spezial il gener, la qualitad e la quantitad da la purschida, la qualificaziun dal persunal, la controlla da las prestaziuns che vegnan messas a quint ed ils princips da l'indemnisaziun da las prestaziuns.
 
 #### Art. 51
 
@@ -541,41 +504,36 @@ Las incaricas da prestaziun ad instituziuns da la scolaziun speziala valan per r
 
 <sup>2</sup> Ad uffants che profitan da talas purschidas sto sche necessari vegnir dà il temp necessari er durant il temp d'instrucziun usità.
 
-**12**
-
-1-8-2013
-
 <sup>3</sup> Da las persunas cun la pussanza dals geniturs po vegnir incassada ina contribuziun adequata.
 
-- 7\. ASSICURANZA
+### 3.7. Assicuranza
 
 #### Art. 52
 
 **Assicuranza cunter accidents**
 
-Las scolaras ed ils scolars ston vegnir assicurads cunter accidents en scola, tar occurrenzas da scola e sin via a scola per las suandantas prestaziuns minimalas:
+<sup>1</sup> Las scolaras ed ils scolars ston vegnir assicurads cunter accidents en scola, tar occurrenzas da scola e sin via a scola per las suandantas prestaziuns minimalas:
 
-- cas da mort fr. 10 000
-
-- invaliditad fr. 150 000 350 pertschient cumulativ
+- a) cas da mort: 10 000 francs;
+- b) invaliditad: 150 000 francs, 350 pertschient cumulativ.
 
 #### Art. 53
 
 **Assicuranza da responsabladad**
 
-La summa da garanzia per donns da persunas e per donns materials sto importar ensemen almain 5 milliuns francs per cas da donn.
+<sup>1</sup> La summa da garanzia per donns da persunas e per donns materials sto importar ensemen almain 5 milliuns francs per cas da donn.
 
-### IV. Las scolaras ed ils scolars
+## 4. Las scolaras ed ils scolars
 
 #### Art. 54
 
 **Exclusiun da la scola**
 
-Avant che prender la decisiun sin exclusiun da la scola sto il cussegl da scola dar la pussaivladad a las persunas cun la pussanza dals geniturs da prender posiziun en scrit u a bucca. El po desister da quai, sch'igl è necessari d'agir immediatamain.
+<sup>1</sup> Avant che prender la decisiun sin exclusiun da la scola sto il cussegl da scola dar la pussaivladad a las persunas cun la pussanza dals geniturs da prender posiziun en scrit u a bucca. El po desister da quai, sch'igl è necessari d'agir immediatamain.
 
-### V. Las persunas d'instrucziun
+## 5. Las persunas d'instrucziun
 
-- 1\. ENGASCHAMENT ED OBLIGAZIUNS
+### 5.1. Engaschament ed obligaziuns
 
 #### Art. 55
 
@@ -583,29 +541,29 @@ Avant che prender la decisiun sin exclusiun da la scola sto il cussegl da scola 
 
 <sup>1</sup> Sco persuna d'instrucziun è elegibla tgi che posseda in certificat da qualificaziun che correspunda al reglament da furmaziun correspundent, relaschà da la conferenza svizra dals directurs chantunals da l'educaziun publica (CDEP).
 
-2 En cas da certificats da qualificaziun esters sto vegnir inoltrada a l'uffizi la verificaziun da l'equivalenza da la CDEP.
+<sup>2</sup> En cas da certificats da qualificaziun esters sto vegnir inoltrada a l'uffizi la verificaziun da l'equivalenza da la CDEP.
 
 #### Art. 56
 
 **Curs da furmaziun supplementara obligatorics**
 
-L'uffizi po organisar curs da furmaziun supplementara e dietas da lavur per persunas d'instrucziun e declerar la participaziun sco obligatorica. El po er declerar sco obligatorica la participaziun a curs ed a dietas da lavur che vegnan arranschads d'organisaziuns professiunalas.
-
-**13**
-
-1-8-2013
+<sup>1</sup> L'uffizi po organisar curs da furmaziun supplementara e dietas da lavur per persunas d'instrucziun e declerar la participaziun sco obligatorica. El po er declerar sco obligatorica la participaziun a curs ed a dietas da lavur che vegnan arranschads d'organisaziuns professiunalas.
 
 #### Art. 57
 
 **Curs da furmaziun supplementara facultativs**
 
-Curs da furmaziun supplementara facultativs han lieu durant il temp liber da scola respectivamain da scolina.
+<sup>1</sup> Curs da furmaziun supplementara facultativs han lieu durant il temp liber da scola respectivamain da scolina.
 
 #### Art. 58
 
 **Congedi da furmaziun supplementara**
 
-<sup>1</sup> Il congedi da furmaziun supplementara premetta che la persuna d'instrucziun haja frequentà sin basa facultativa durant sia activitad d'instrucziun vertenta curs da furmaziun supplementara che han durà tut en tut almain mez uschè ditg sco il congedi dumandà.
+<sup>1</sup> Il congedi da furmaziun supplementara è collià cun las suandantas cundiziuns:
+
+- a) la persuna d'instrucziun ha frequentà sin basa facultativa durant sia activitad d'instrucziun da fin ussa curs da furmaziun supplementara che han durà tut en tut almain mez uschè ditg sco il congedi dumandà;
+- b) il congedi da furmaziun supplementara sto vegnir prendì en in temp coerent ed ha lieu da princip durant il temp da scola;
+- c) il cuntegn dal congedi da furmaziun supplementara stat per regla en in stretg connex cun il plan d'instrucziun.
 
 <sup>2</sup> Il manaschi da scola na dastga betg vegnir pregiuditgà tras il congedi.
 
@@ -621,9 +579,9 @@ Curs da furmaziun supplementara facultativs han lieu durant il temp liber da sco
 
 **Schliaziun da la relaziun da lavur**
 
-La schliaziun ordinaria da la relaziun d'engaschament sto succeder per la fin da l'onn da scola. Ella sto vegnir communitgada en scrit a la persuna d'instrucziun respectivamain a l'instituziun responsabla per la scola fin la fin da mars.
+<sup>1</sup> La schliaziun ordinaria da la relaziun d'engaschament sto succeder per la fin da l'onn da scola. Ella sto vegnir communitgada en scrit a la persuna d'instrucziun respectivamain a l'instituziun responsabla per la scola fin la fin da mars.
 
-- 2\. SALARISAZIUN
+### 5.2. Salarisaziun
 
 #### Art. 61
 
@@ -633,31 +591,23 @@ La schliaziun ordinaria da la relaziun d'engaschament sto succeder per la fin da
 
 <sup>2</sup> Las instituziuns responsablas per la scola pon er fixar ina regulaziun concernent il svilup dal salari analogamain al dretg chantunal da persunal.
 
-**14**
+## 6. Finanziaziun da las scolas
 
-1-8-2013
-
-### VI. Finanziaziun da las scolas
-
-- 1\. PRINCIP
+### 6.1. Princip
 
 #### Art. 62
 
-**Tariffas da la forza finanziala**
+**…**
 
-<sup>1</sup> Per eruir las contribuziuns chantunalas a corporaziuns da vischnancas vegn la forza finanziala da las vischnancas participadas valitada proporziunalmain a lur dumber d'abitantas e d'abitants.
-
-<sup>2</sup> Sco basa dal dumber d'abitantas e d'abitants da las vischnancas serva l'ultima statistica federala disponibla dal stadi annual da la populaziun (STATPOP).
-
-<sup>3</sup> La basa statistica per eruir las taxas da contribuziun decisivas per las corporaziuns da vischnancas u per ils circuls vegnan actualisadas mintga 2 onns.
-
-- 2\. CONTRIBUZIUNS DAL CHANTUN E DA LAS INSTITUZIUNS RESPONSABLAS PER LA SCOLA
+### 6.2. Contribuziuns dal chantun e da las instituziuns responsablas per la scola
 
 #### Art. 63
 
 **Assegn da las pauschalas per la scola regulara**
 
-Il chantun assegna las pauschalas per la scola regulara a las instituziuns responsablas per la scola cun almain in pajament a quint e cun in pajament final per onn da scola. Decisivs èn las scolaras ed ils scolars che vegnan instruids da l'instituziun responsabla per la scola il di da referenza da la dumbraziun da las scolaras e dals scolars.
+<sup>1</sup> Il chantun assegna las pauschalas per la scola regulara a las instituziuns responsablas per la scola cun almain in pajament a quint e cun in pajament final per onn da scola. Decisivs èn las scolaras ed ils scolars che vegnan instruids da l'instituziun responsabla per la scola il di da referenza da la dumbraziun da las scolaras e dals scolars.
+
+<sup>2</sup> …
 
 #### Art. 64
 
@@ -677,13 +627,8 @@ Il chantun assegna las pauschalas per la scola regulara a las instituziuns respo
 
 <sup>2</sup> In lieu da scola vala sco periferic:
 
-- a) sch'el sa chatta ordaifer in territori d'abitadi serrà u en ina situaziun allontanada ed i na sa chatta en ina vischinanza adequata nagin lieu
-
-**15**
-
-**16**
-
-1-8-2013 da scola che ha la medema lingua da scola u il medem stgalim da scola; u b) sche l'intschess è fitg grond e la maioritad da las scolaras e dals scolars ha ina lunga via da scola.
+- a) sch'el sa chatta ordaifer in territori d'abitadi serrà u en ina situaziun allontanada ed i na sa chatta en ina vischinanza adequata nagin lieu da scola che ha la medema lingua da scola u il medem stgalim da scola; u
+- b) sche l'intschess è fitg grond e la maioritad da las scolaras e dals scolars ha ina lunga via da scola.
 
 <sup>3</sup> Il departament fa mintga onn ina glista da las instituziuns responsablas per la scola che han lieus da scola periferics. Per far la glista vala la situaziun da l'october da l'onn precedent.
 
@@ -691,19 +636,21 @@ Il chantun assegna las pauschalas per la scola regulara a las instituziuns respo
 
 **2. calculaziun**
 
-<sup>1</sup> Las tariffas da partenza da las pauschalas supplementaras per scolas pitschnas importan per il stgalim primar maximalmain 12 000 francs e per il stgalim secundar I maximalmain 3 000 francs. Decisiv è il dumber total da scolaras e da scolars al lieu da scola.
+<sup>1</sup> Las tariffas da partenza da las pauschalas supplementaras per scolas pitschnas importan per il stgalim primar maximalmain 4000 francs e per il stgalim secundar I maximalmain 1000 francs. Decisiv è il dumber total da scolaras e scolars al lieu da scola.
 
 <sup>2</sup> Il product or dal dumber da scolaras e da scolars multiplitgà cun la tariffa da partenza respectiva tenor l'alinea 1 sa reducescha linearmain cun il dumber da scolaras e da scolars a 0 francs tar 66 scolaras e scolars.
 
 #### Art. 67
 
-**Pauschala supplementara per scolas secundaras da vallada Contribuziuns da la vischnanca e dals geniturs a la scolaziun speziala**
+**Pauschala supplementara per scolas secundaras da vallada**
 
-Imputablas sco pauschala supplementara per scolas secundaras da vallada èn sulettamain quellas lecziuns ch'èn vegnidas dadas effectivamain.
+<sup>1</sup> Imputablas sco pauschala supplementara per scolas secundaras da vallada èn sulettamain quellas lecziuns ch'èn vegnidas dadas effectivamain.
 
 #### Art. 68
 
-La participaziun als custs da las instituziuns responsablas per la scola importa 21 francs per di chalendar. La participaziun da las persunas cun la pussanza dals geniturs als custs per l'alimentaziun e per l'assistenza importa per di da dimora 10 francs en cas d'ina scolaziun speziala interna e 5 francs en cas d'ina scolaziun speziala externa.
+**Contribuziuns da la vischnanca e dals geniturs a la scolaziun speziala**
+
+<sup>1</sup> La participaziun als custs da las instituziuns responsablas per la scola importa 21 francs per di chalendar. La participaziun da las persunas cun la pussanza dals geniturs als custs per l'alimentaziun e per l'assistenza importa per di da dimora 10 francs en cas d'ina scolaziun speziala interna e 5 francs en cas d'ina scolaziun speziala externa.
 
 #### Art. 69
 
@@ -711,21 +658,17 @@ La participaziun als custs da las instituziuns responsablas per la scola importa
 
 <sup>1</sup> Als suandants custs per la furmaziun supplementara obligatorica e per il congedi da furmaziun supplementara paja il chantun contribuziuns:
 
-- a) custs dal curs;
-
+- a) custs da curs fin maximalmain 11 000 francs;
 - b) custs da la substituziun.
 
-<sup>2</sup> Las tariffas da partenza per calcular las contribuziuns als custs da la substituziun correspundan a 138 pertschient da la salarisaziun iniziala d'ina persuna d'instrucziun da la categoria da persunas d'instrucziun respectiva. Ellas ston vegnir multiplitgadas cun la procentuala da la classa da forza finanziala da la vischnanca.
+<sup>2</sup> Las contribuziuns als custs da la substituziun correspundan a 28 pertschient da la salarisaziun iniziala d'ina persuna d'instrucziun da la categoria da persunas d'instrucziun respectiva.
 
 <sup>3</sup> Las instituziuns responsablas per la scola surpiglian ils suandants custs:
 
 - a) la salarisaziun da la persuna d'instrucziun e da sia substituziun;
-
 - b) ils custs da viadi sco er ils custs da l'alloschi e da l'alimentaziun ordaifer, e quai tenor ina tariffa che vegn fixada dal departament.
 
 <sup>4</sup> En cas d'ina furmaziun supplementara obligatorica surpiglia il chantun supplementarmain ils custs dals documents dal curs.
-
-1-8-2013
 
 <sup>5</sup> Ils curs da furmaziun supplementara ch'èn obligatorics ston vegnir frequentads per regla per almain la mesadad en il temp liber d'instrucziun. La durada da la substituziun vegn fixada dal departament.
 
@@ -733,15 +676,19 @@ La participaziun als custs da las instituziuns responsablas per la scola importa
 
 **2. premissas per survegnir contribuziuns**
 
-L'uffizi po colliar il pajament da las contribuziuns cun la cundiziun che la furmaziun supplementara vegnia terminada cun success.
+<sup>1</sup> L'uffizi po colliar il pajament da las contribuziuns cun la cundiziun che la furmaziun supplementara vegnia terminada cun success.
 
 #### Art. 71
 
-**Contribuziuns als custs da transport**
+**Pauschalas per transports da scolaras e scolars**
 
-Il chantun sa participescha als custs da transport per la via da scola. Betg imputabels n'èn ils custs da transport per viadis durant il temp da scola tranter differents lieus da scola.
+<sup>1</sup> Il chantun conceda contribuziuns pauschalas a las instituziuns responsablas per la scola per vias da scola da scolaras e scolars da passa 2 kilometers.
 
-### VII. Instanzas
+<sup>2</sup> Sco via da scola vala la distanza tranter il lieu da domicil da las scolaras e dals scolars ed il lieu da scola. L'uffizi fixescha la distanza tranter ils lieus correspundents che po vegnir imputada. Decisiv è il register dals lieus da l'uffizi federal da statistica. La basa furma l'enquista dal dumber da scolaras e scolars e dal lieu da domicil che vegn fatga mintgamai il settember.
+
+<sup>3</sup> Per in onn da scola e per mintga scolara u scolar importa la pauschala 65 francs per kilometer viadi da scola simpel imputabel.
+
+## 7. Instanzas
 
 #### Art. 72
 
@@ -750,9 +697,7 @@ Il chantun sa participescha als custs da transport per la via da scola. Betg imp
 <sup>1</sup> L'inspecturat ha en spezial las suandantas incumbensas:
 
 - a) controllar, sche las instituziuns responsablas per la scola realiseschan ed observan las prescripziuns chantunalas ed ils standards da qualitad;
-
 - b) evaluar periodicamain las scolas popularas;
-
 - c) cussegliar persunas d'instrucziun, direcziuns da scola ed autoritads communalas da scola en dumondas da l'instrucziun, da la planisaziun da scola, da la furmaziun supplementara e dal management da conflicts.
 
 <sup>2</sup> L'uffizi relascha directivas davart l'organisaziun, davart las obligaziuns e davart las incumbensas e divida il territori chantunal en districts d'inspecturat, resguardond en quest connex las regiuns linguisticas.
@@ -769,11 +714,7 @@ Il chantun sa participescha als custs da transport per la via da scola. Betg imp
 
 <sup>4</sup> L'uffizi relascha directivas davart l'organisaziun, davart las obligaziuns e davart las incumbensas dal servetsch psicologic da scola e divida il territori chantunal en regiuns da cussegliaziun.
 
-**17**
-
-1-8-2013
-
-### VIII. Disposiziuns finalas
+## 8. Disposiziuns finalas
 
 #### Art. 74
 
@@ -782,44 +723,23 @@ Il chantun sa participescha als custs da transport per la via da scola. Betg imp
 <sup>1</sup> Cun l'entrada en vigur da questa ordinaziun vegnan abolids ils suandants relaschs:
 
 - a) ordinaziun davart l'admissiun d'uffants da quatter onns en scolina dals 19 da mars 1996;
-
 - b) conclus da la regenza davart l'elegibladad da mussadras dals 8 da mars 1994;
-
 - c) ordinaziun davart la surveglianza da las scolinas en il chantun Grischun dals 27 d'october 1998;
-
 - d) ordinaziun davart la promoziun d'uffants cun impediments en las scolinas dal chantun Grischun dals 2 da fanadur 1996;
-
 - e) ordinaziun davart las prestaziuns d'assicuranza per mussadras ed uffants en scolina dals 29 da zercladur 1992;
-
 - f) ordinaziun per manar ed organisar il stgalim superiur da la scola populara dals 27 d'october 1998;
-
 - g) ordinaziun davart l'organisaziun da classas pitschnas dals 6 da mars 2001;
-
 - h) ordinaziun davart il pajament da contribuziuns per las direcziuns da scolas (ordinaziun davart las direcziuns da scolas) dals 9 da favrer 2009;
-
 - i) ordinaziun davart l'elegibladad da persunas d'instrucziun per classas pitschnas, scolas realas e scolas secundaras sco er da persunas d'instrucziun da roms spezials dals 15 da matg 2001;
-
 - j) disposiziuns executivas per conceder e subvenziunar congedis da perfecziunament dals magisters da las scolas popularas dals 19 da mars 1991;
-
 - k) ordinaziun davart la promoziun a las scolas popularas dal chantun Grischun (ordinaziun da promoziun) dals 15 da matg 2001;
-
 - l) ordinaziun davart la procedura d'admissiun al stgalim superiur da la scola populara (ordinaziun d'admissiun) dals 17 da zercladur 1996;
-
 - m) ordinaziun davart il subvenziunament da stabiliments da scola e da sport da scola (ordinaziun davart la construcziun da scolas) dals 29 da zercladur 2010;
-
 - n) ordinaziun davart il perfecziunament e la furmaziun supplementara da las persunas d'instrucziun da las scolas popularas e scolinas dals 27 d'october 1998;
-
 - o) ordinaziun davart la surveglianza da scola en il chantun Grischun dals 27 d'october 1998;
-
 - p) ordinaziun davart las prestaziuns d'assicuranza per scolaras e scolars e per persunas d'instrucziun dals 20 da matg 1975;
-
 - q) ordinaziun davart la promoziun linguistica d'uffants da lingua estra en las scolinas e las scolas popularas dal chantun Grischun dals 25 da zercladur 1996;
-
-**18**
-
-**19**
-
-1-8-2013 r) ordinaziun davart la scolaziun speziala dals 27 da november 2007.
+- r) ordinaziun davart la scolaziun speziala dals 27 da november 2007.
 
 <sup>2</sup> Sche relaschs vertents renvieschan a disposiziuns che vegnan abolidas tras questa ordinaziun, vegnan applitgadas las disposiziuns correspundentas da questa ordinaziun.
 
@@ -827,6 +747,6 @@ Il chantun sa participescha als custs da transport per la via da scola. Betg imp
 
 **Entrada en vigur**
 
-Questa ordinaziun entra en vigur il 1. d'avust 2013.
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. d'avust 2013.
 
-1-8-2013
+-
