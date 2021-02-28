@@ -4,11 +4,11 @@ title: "Code de procédure pénale suisse du 5 octobre 2007 (Code de procédure 
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: fr
-version: 2020-02-01
+version: 2021-03-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20200201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20200201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/fr"
 
 (Code de procédure pénale, CPP)
 
-du 5 octobre 2007 (Etat le 1<sup>er</sup> février 2020)
+du 5 octobre 2007 (Etat le 1<sup>er</sup> mars 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -5016,6 +5016,42 @@ Le tribunal apprécie librement:
 <sup>3</sup> Le tribunal examine si les conditions de la décision judiciaire ultérieure sont réunies, complète le dossier si nécessaire ou fait exécuter d’autres investigations par la police.
 
 <sup>4</sup> Il donne à la personne concernée et aux autorités l’occasion de s’exprimer sur les décisions envisagées et de soumettre leurs propositions.
+
+#### Art. 364a
+
+**Détention pour des motifs de sûreté ordonnée en vue d’une décision judiciaire ultérieure indépendante**[^364a-1]
+
+<sup>1</sup>
+
+L’autorité compétente pour l’introduction de la procédure tendant à rendre une décision judiciaire ultérieure indépendante peut faire arrêter le condamné s’il y a de sérieuses raisons de penser:
+
+- a. que l’exécution d’une peine ou d’une mesure privative de liberté sera ordonnée à son encontre, et
+- b.
+
+  qu’il:
+
+  - 1\. se soustraira à son exécution, ou qu’il
+  - 2\. commettra à nouveau un crime ou un délit grave.
+
+<sup>2</sup> Les art. 222 à 228 sont applicables par analogie à la procédure.
+
+<sup>3</sup> L’autorité compétente transmet le dossier et sa demande dès que possible au tribunal qui rend la décision ultérieure indépendante.
+
+[^364a-1]: Introduit par le ch. I de la LF du 25 sept. 2020 (Détention pour des motifs de sûreté dans le cadre d’une procédure ultérieure indépendante), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 364b
+
+**Détention pour des motifs de sûreté pendant la procédure judiciaire**[^364b-1]
+
+<sup>1</sup> La direction de la procédure peut faire arrêter le condamné aux conditions de l’art. 364*a*, al. 1.
+
+<sup>2</sup> Elle mène une procédure de détention en appliquant par analogie l’art. 224 et propose au tribunal des mesures de contrainte ou à la direction de la procédure de la juridiction d’appel d’ordonner la détention pour des motifs de sûreté. Les art. 225 et 226 sont applicables par analogie à la procédure.
+
+<sup>3</sup> L’art. 227 est applicable par analogie à la procédure lorsqu’il y a eu détention pour des motifs de sûreté.
+
+<sup>4</sup> Au surplus, les art. 222 et 230 à 233 sont applicables par analogie.
+
+[^364b-1]: Introduit par le ch. I de la LF du 25 sept. 2020 (Détention pour des motifs de sûreté dans le cadre d’une procédure ultérieure indépendante), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [FF 2019 6351](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 365
 

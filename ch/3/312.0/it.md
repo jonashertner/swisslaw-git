@@ -4,11 +4,11 @@ title: "Codice di diritto processuale penale svizzero del 5 ottobre 2007 (Codice
 short: CPP
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: it
-version: 2020-02-01
+version: 2021-03-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20200201/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20200201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/it"
 
 (Codice di procedura penale, CPP)
 
-del 5 ottobre 2007 (Stato 1° febbraio 2020)
+del 5 ottobre 2007 (Stato 1° marzo 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -5018,6 +5018,42 @@ Il tribunale di primo grado decide liberamente se:
 <sup>3</sup> Il giudice esamina se le condizioni per una decisione giudiziaria successiva sono soddisfatte e, se necessario, completa gli atti o incarica la polizia di procedere a nuove indagini.
 
 <sup>4</sup> Il giudice offre alle persone e autorità interessate l’opportunità di esprimersi sulla decisione prevista e di presentare istanze e conclusioni.
+
+#### Art. 364a
+
+**Carcerazione di sicurezza in vista di una decisione giudiziaria indipendente successiva**[^364a-1]
+
+<sup>1</sup>
+
+L’autorità cui compete l’avvio della procedura per l’emanazione di una decisione giudiziaria indipendente successiva può far arrestare il condannato se vi è seriamente da attendersi che:
+
+- a. contro di lui sarà disposta l’esecuzione di una sanzione privativa della libertà; e
+- b.
+
+  egli:
+
+  - 1\. si sottrarrà all’esecuzione, o
+  - 2\. commetterà nuovamente un crimine o un grave delitto.
+
+<sup>2</sup> La procedura è retta per analogia dagli articoli 222–228.
+
+<sup>3</sup> L’autorità competente trasmette quanto prima gli atti corrispondenti, unitamente alla sua richiesta, al giudice cui compete la decisione indipendente successiva.
+
+[^364a-1]: Introdotto dal n. I della LF del 25 set. 2020 (Carcerazione di sicurezza nel quadro di una procedura indipendente successiva), in vigore dal 1° mar. 2021 ([RU 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
+
+#### Art. 364b
+
+**Carcerazione di sicurezza durante il procedimento giudiziario**[^364b-1]
+
+<sup>1</sup> Chi dirige il procedimento può far arrestare il condannato alle condizioni di cui all’articolo 364*a* capoverso 1.
+
+<sup>2</sup> Chi dirige il procedimento svolge una procedura di carcerazione applicando per analogia l’articolo 224 e propone al giudice dei provvedimenti coercitivi o a chi dirige il procedimento in sede di appello di ordinare la carcerazione di sicurezza. La procedura è retta per analogia dagli articoli 225 e 226.
+
+<sup>3</sup> Se è già stata ordinata la carcerazione di sicurezza, la procedura è retta per analogia dall’articolo 227.
+
+<sup>4</sup> Per altro, sono applicabili per analogia gli articoli 222 e 230–233.
+
+[^364b-1]: Introdotto dal n. I della LF del 25 set. 2020 (Carcerazione di sicurezza nel quadro di una procedura indipendente successiva), in vigore dal 1° mar. 2021 ([RU 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [FF 2019 5523](https://fedlex.data.admin.ch/eli/fga/2019/2368)).
 
 #### Art. 365
 

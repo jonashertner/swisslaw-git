@@ -4,11 +4,11 @@ title: "Schweizerische Strafprozessordnung vom 5. Oktober 2007 (Strafprozessordn
 short: StPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/267"
 language: de
-version: 2020-02-01
+version: 2021-03-01
 adopted: 2007-10-05
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20200201/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20200201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/267/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2010-267-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/267/20200201/de"
 
 (Strafprozessordnung, StPO)
 
-vom 5. Oktober 2007 (Stand am 1. Februar 2020)
+vom 5. Oktober 2007 (Stand am 1. März 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -702,7 +702,7 @@ Wird ein Ausstandsgrund nach Artikel 56 Buchstabe a oder f geltend gemacht oder 
 
 <sup>3</sup> Wird der Ausstandsgrund erst nach Abschluss des Verfahrens entdeckt, so gelten die Bestimmungen über die Revision.
 
-### 7. Kapitel: Verfahrensleitung****
+### 7. Kapitel: Verfahrensleitung
 
 [^tit2-chap7-1]
 
@@ -3838,7 +3838,7 @@ Die Bank oder das bankähnliche Institut haben keine Informationen oder Dokument
 
 <sup>4</sup> Personen, deren Bankverkehr überwacht wurde, können Beschwerde nach den Artikeln 393–397 führen. Die Beschwerdefrist beginnt mit Erhalt der Mitteilung zu laufen.
 
-### 5. Abschnitt:**** Verdeckte Ermittlung
+### 5. Abschnitt: Verdeckte Ermittlung
 
 [^tit5-chap8-sec5-1]
 
@@ -4056,7 +4056,7 @@ Die Mitteilung kann mit Zustimmung des Zwangsmassnahmengerichts aufgeschoben ode
 
 <sup>3</sup> Personen, gegen die verdeckt ermittelt wurde, können Beschwerde nach den Artikeln 393–397 führen. Die Beschwerdefrist beginnt mit Erhalt der Mitteilung zu laufen.
 
-### 5*a*. Abschnitt:**** Verdeckte Fahndung
+### 5*a*. Abschnitt: Verdeckte Fahndung
 
 [^tit5-chap8-sec5a-1]
 
@@ -5020,6 +5020,42 @@ Das Gericht befindet frei darüber, ob:
 <sup>3</sup> Das Gericht prüft, ob die Voraussetzungen für den nachträglichen richterlichen Entscheid erfüllt sind, und ergänzt wenn nötig die Akten oder lässt weitere Erhebungen durch die Polizei durchführen.
 
 <sup>4</sup> Es gibt den betroffenen Personen und Behörden Gelegenheit, sich zum vorgesehenen Entscheid zu äussern und Anträge zu stellen.
+
+#### Art. 364a
+
+**Sicherheitshaft im Hinblick auf einen selbstständigen nachträglichen Entscheid des Gerichts**[^364a-1]
+
+<sup>1</sup>
+
+Die Behörde, die für die Einleitung des Verfahrens auf Erlass eines selbstständigen nachträglichen Entscheids des Gerichts zuständig ist, kann die verurteilte Person festnehmen lassen, wenn ernsthaft zu erwarten ist, dass:
+
+- a. gegen die Person der Vollzug einer freiheitsentziehenden Sanktion angeordnet wird; und
+- b.
+
+  die Person:
+
+  - 1\. sich deren Vollzug entzieht, oder
+  - 2\. erneut ein Verbrechen oder ein schweres Vergehen begeht.
+
+<sup>2</sup> Das Verfahren richtet sich sinngemäss nach den Artikeln 222–228.
+
+<sup>3</sup> Die zuständige Behörde reicht dem für den selbstständigen nachträglichen Entscheid zuständigen Gericht so rasch als möglich die entsprechenden Akten und ihren Antrag ein.
+
+[^364a-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Sicherheitshaft im selbstständigen nachträglichen Verfahren), in Kraft seit 1. März 2021 ([AS 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368))
+
+#### Art. 364b
+
+**Sicherheitshaft während des Gerichtsverfahrens**[^364b-1]
+
+<sup>1</sup> Die Verfahrensleitung kann die verurteilte Person unter den Voraussetzungen von Artikel 364*a* Absatz 1 festnehmen lassen.
+
+<sup>2</sup> Sie führt in sinngemässer Anwendung von Artikel 224 ein Haftverfahren durch und beantragt dem Zwangsmassnahmengericht beziehungsweise der Verfahrensleitung des Berufungsgerichts die Anordnung der Sicherheitshaft. Das Verfahren richtet sich sinngemäss nach den Artikeln 225 und 226.
+
+<sup>3</sup> Bei vorbestehender Sicherheitshaft richtet sich das Verfahren sinngemäss nach Artikel 227.
+
+<sup>4</sup> Im Übrigen gelten die Artikel 222 und 230–233 sinngemäss.
+
+[^364b-1]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Sicherheitshaft im selbstständigen nachträglichen Verfahren), in Kraft seit 1. März 2021 ([AS 2021 75](https://fedlex.data.admin.ch/eli/oc/2021/75); [BBl 2019 6697](https://fedlex.data.admin.ch/eli/fga/2019/2368))
 
 #### Art. 365
 
@@ -6160,7 +6196,7 @@ Für Einsprachen gegen Strafbefehle gilt Artikel 453 sinngemäss.
 
 Privatstrafklageverfahren nach bisherigem kantonalem Recht, die bei Inkrafttreten dieses Gesetzes bei einem erstinstanzlichen Gericht hängig sind, werden bis zum Abschluss des erstinstanzlichen Verfahrens nach bisherigem Recht, vom bisher zuständigen Gericht, fortgeführt.
 
-### 5. Abschnitt:**** Übergangsbestimmung zur Änderung vom 28. September 2012
+### 5. Abschnitt: Übergangsbestimmung zur Änderung vom 28. September 2012
 
 [^tit12-chap3-sec5-1]
 
@@ -6211,13 +6247,13 @@ Anhang 2
 
 ## Koordinationsbestimmungen
 
-### 1. Koordination von Artikel 305 Absatz 2 Buchstabe b Strafprozessordnung mit dem neuen Opferhilfegesetz****
+### 1. Koordination von Artikel 305 Absatz 2 Buchstabe b Strafprozessordnung mit dem neuen Opferhilfegesetz
 
 [^annex2-lvlu1-lvl1-1]
 
 [^annex2-lvlu1-lvl1-1]: Das neue OHG trat am 1. Jan. 2009 in Kraft.
 
-Unabhängig davon, ob das neue Opferhilfegesetz vom 23. März 2007*[^annex2-lvlu1-lvl1-2]* (neues OHG) oder die Strafprozessordnung vom 5. Oktober 2007 (StPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Artikel 305 Absatz 2 Buchstabe b StPO wie folgt geändert:
+Unabhängig davon, ob das neue Opferhilfegesetz vom 23. März 2007[^annex2-lvlu1-lvl1-2] (neues OHG) oder die Strafprozessordnung vom 5. Oktober 2007 (StPO) zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Artikel 305 Absatz 2 Buchstabe b StPO wie folgt geändert:
 
 ...
 
@@ -6227,7 +6263,7 @@ Unabhängig davon, ob das neue Opferhilfegesetz vom 23. März 2007*[^annex2-lvlu
 
 Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, wird mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten Ziffer 9 des Anhangs 1 der StPO gegenstandslos und das neue OHG wird gemäss Ziffer 10 des Anhangs 1 der StPO geändert.
 
-### 3. Koordination des Militärstrafprozesses vom 23. März 1979**** (Anhang 1 Ziffer 12) mit dem neuen OHG
+### 3. Koordination des Militärstrafprozesses vom 23. März 1979 (Anhang 1 Ziffer 12) mit dem neuen OHG
 
 [^annex2-lvlu1-lvl3-1]
 
@@ -6239,7 +6275,7 @@ Unabhängig davon, ob das neue OHG oder die StPO zuerst in Kraft tritt, werden m
 
 ### 4. Koordination von Art. 269 Abs. 2 Bst. a mit dem BB vom 18. Dezember 2015 über die Genehmigung und die Umsetzung des Internationalen Übereinkommens zum Schutz aller Personen vor dem Verschwindenlassen
 
-Unabhängig davon, ob zuerst die vorliegende Änderung der Strafprozessordnung oder die Änderung vom 18. Dezember 2015*[^annex2-lvlu1-lvl4-1]* in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgende Bestimmung wie folgt:
+Unabhängig davon, ob zuerst die vorliegende Änderung der Strafprozessordnung oder die Änderung vom 18. Dezember 2015[^annex2-lvlu1-lvl4-1] in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes sowie bei gleichzeitigem Inkrafttreten die nachfolgende Bestimmung wie folgt:
 
 ...
 
