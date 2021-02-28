@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über die Landesvermessung (Landesvermessung
 short: LVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: de
-version: 2008-07-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20080701/de/xml/fedlex-data-admin-ch-eli-cc-2008-394-20080701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/de"
 
 (Landesvermessungsverordnung, LVV)
 
-vom 21. Mai 2008(Stand am 1. Juli 2008)
+vom 21. Mai 2008 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -334,9 +334,14 @@ Das Bundesamt für Landestopografie betreibt im Auftrag der Gruppe Verteidigung 
 
 #### Art. 29
 
-<sup>1</sup> Das VBS kann festlegen, für welche Geobasisdaten und Geodienste der Landesvermessung die Nutzung generell ohne Einwilligung zulässig ist.
+[^29-1]
 
-<sup>2</sup> Das Bundesamt für Landestopografie bestimmt im Einzelfall, für welche Geobasisdaten und Geodienste der Landesvermessung die Nutzung ohne Einwilligung zulässig ist.
+<sup>1</sup> Das Bundesamt für Landestopografie bestimmt, für welche Geobasisdaten und Geodienste der Landesvermessung die Nutzung ohne Einwilligung zulässig ist.
+
+<sup>2</sup> Es legt insbesondere fest, welche Geobasisdaten der Landesvermessung als offene Verwaltungsdaten im Sinne von Artikel 28*a* GeoIV[^29-2] frei zugänglich und nutzbar sind.
+
+[^29-1]: Fassung gemäss Ziff. II 2 der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^29-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 ## 8. Abschnitt: Schlussbestimmungen
 
@@ -348,11 +353,9 @@ Die Änderung bisherigen Rechts wird im Anhang geregelt.
 
 #### Art. 31
 
-**Übergangsbestimmungen**
+[^31-1]
 
-<sup>1</sup> Für die nationalen Atlanten sind innert zwei Jahren nach Inkrafttreten dieser Verordnung öffentlich-rechtliche Verträge abzuschliessen. Bis zum Abschluss dieser Verträge behalten die bestehenden Beschlüsse und Verträge ihre Gültigkeit.
-
-<sup>2</sup> Im Zeitpunkt des Inkrafttretens dieser Verordnung bestehende Verträge über die Nutzung von Geobasisdaten und Geodiensten der Landesvermessung und über die dafür zu entrichtenden Gebühren bleiben bis zum Ende der vereinbarten Dauer, längstens jedoch bis zum Inkrafttreten neuer Verordnungsbestimmungen über die Gebühren der Geoinformation des Bundes oder bis zum 31. Dezember 2009 in Kraft.
+[^31-1]: Aufgehoben durch Ziff. II 2 der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 32
 
@@ -368,6 +371,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 2871](https://fedlex.data.admin.ch/eli/oc/2008/394)konsultiert werden
+[^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2008 2871](https://fedlex.data.admin.ch/eli/oc/2008/394)konsultiert werden.

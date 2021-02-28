@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la mensuration nationale (OMN)
 short: OMN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: fr
-version: 2008-07-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20080701/fr/xml/fedlex-data-admin-ch-eli-cc-2008-394-20080701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/fr"
 
 (OMN)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> juillet 2008)
+du 21 mai 2008 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse
 
@@ -155,11 +155,11 @@ Les géoservices géodésiques, topographiques et cartographiques font partie de
 
 **Collaboration technique avec l’étranger**
 
-<sup>1</sup> L’Office fédéral de topographie collabore, dans le domaine de la mensuration nationale, avec des services des Etats voisins et avec des organisations internationales.
+<sup>1</sup> L’Office fédéral de topographie collabore, dans le domaine de la mensuration nationale, avec des services des États voisins et avec des organisations internationales.
 
 <sup>2</sup> Il participe à l’élaboration de normes et de systèmes aux niveaux européen et mondial.
 
-<sup>3</sup> Il peut conclure lui-même des traités de portée mineure avec d’autres Etats et avec des organisations internationales relatifs à la collaboration technique dans le domaine de la mensuration nationale, dans la limite des budgets et des dépenses autorisés.
+<sup>3</sup> Il peut conclure lui-même des traités de portée mineure avec d’autres États et avec des organisations internationales relatifs à la collaboration technique dans le domaine de la mensuration nationale, dans la limite des budgets et des dépenses autorisés.
 
 ## Section 2 Frontière nationale
 
@@ -259,7 +259,7 @@ L’Office fédéral de topographie fixe les normes de qualité applicables aux 
 
 <table>
 <tr><td>Nom de l’ensemble de cartes</td><td>Service compétent de la Confédération</td></tr>
-<tr><td>Atlas de la Suisse</td><td>Ecole polytechnique fédérale de Zurich</td></tr>
+<tr><td>Atlas de la Suisse</td><td>École polytechnique fédérale de Zurich</td></tr>
 <tr><td>Cartes géologiques</td><td>Office fédéral de topographie</td></tr>
 <tr><td>Cartes géophysiques</td><td>Office fédéral de topographie</td></tr>
 <tr><td>Cartes géotechniques</td><td>Office fédéral de topographie</td></tr>
@@ -334,9 +334,14 @@ L’Office fédéral de topographie gère l’Institut géographique militaire s
 
 #### Art. 29
 
-<sup>1</sup> Le DDPS peut spécifier les géodonnées de base et les géoservices de la mensuration nationale qui peuvent en principe être utilisés sans autorisation.
+[^29-1]
 
-<sup>2</sup> L’Office fédéral de topographie spécifie en détail les géodonnées de base et les géoservices de la mensuration nationale qui peuvent être utilisés sans autorisation.
+<sup>1</sup> L’Office fédéral de topographie spécifie les géodonnées de base et les géoservices de la mensuration nationale qui peuvent être utilisés sans autorisation.
+
+<sup>2</sup> Il définit en particulier les géodonnées de base de la mensuration nationale qui sont considérées comme des données publiques en libre accès au sens de l’art. 28*a* OGéo[^29-2] et qui sont donc librement utilisables.
+
+[^29-1]: Nouvelle teneur selon le ch. II 2 de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^29-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 ## Section 8 Dispositions finales
 
@@ -348,11 +353,9 @@ La modification du droit en vigueur est réglée en annexe.
 
 #### Art. 31
 
-**Dispositions transitoires**
+[^31-1]
 
-<sup>1</sup> Pour les atlas nationaux, des contrats de droit public doivent être conclus dans un délai de deux ans à compter de l’entrée en vigueur de la présente ordonnance. Les décisions et contrats existants restent valables jusqu’à la conclusion de tels contrats.
-
-<sup>2</sup> Les contrats existant à l’entrée en vigueur de la présente ordonnance qui concernent l’utilisation de géodonnées de base et de géoservices de la mensuration nationale, ainsi que les émoluments perçus, restent valables jusqu’à l’échéance convenue, mais au plus tard jusqu’à l’entrée en vigueur de nouvelles dispositions d’exécution régissant les émoluments perçus pour l’utilisation des géoinformations de la Confédération ou jusqu’au 31 décembre 2009.
+[^31-1]: Abrogé par le ch. II 2 de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 32
 
@@ -368,6 +371,6 @@ Annexe
 
 Les ordonnances suivantes sont modifiées comme suit:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 2871](https://fedlex.data.admin.ch/eli/oc/2008/394).

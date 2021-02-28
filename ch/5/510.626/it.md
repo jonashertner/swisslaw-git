@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla misurazione nazionale (OMN)
 short: OMN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/394"
 language: it
-version: 2008-07-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20080701/it/xml/fedlex-data-admin-ch-eli-cc-2008-394-20080701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/394/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2008-394-20210301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/394/20080701/it"
 
 (OMN)
 
-del 21 maggio 2008 (Stato 1° luglio 2008)
+del 21 maggio 2008 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -334,9 +334,14 @@ L’Ufficio federale di topografia gestisce l’Istituto geografico militare per
 
 #### Art. 29
 
-<sup>1</sup> Il DDPS può stabilire per quali geodati di base e geoservizi della misurazione nazionale è ammessa in generale l’utilizzazione senza l’autorizzazione dell’autorità competente.
+[^29-1]
 
-<sup>2</sup> L’Ufficio federale di topografia stabilisce caso per caso per quali geodati di base e geoservizi della misurazione nazionale è ammessa l’utilizzazione senza l’autorizzazione dell’autorità competente.
+<sup>1</sup> L’Ufficio federale di topografia stabilisce per quali geodati di base e geoservizi della misurazione nazionale è ammessa l’utilizzazione senza l’autorizzazione dell’autorità competente.
+
+<sup>2</sup> Esso stabilisce in particolare quali geodati di base della misurazione nazionale sono liberamente accessibili e utilizzabili quali dati pubblici aperti ai sensi dell’articolo 28*a* OGI[^29-2].
+
+[^29-1]: Nuovo testo giusta il n. II 2 dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^29-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 ## Sezione 8: Disposizioni finali
 
@@ -348,11 +353,9 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 #### Art. 31
 
-**Disposizioni transitorie**
+[^31-1]
 
-<sup>1</sup> Per gli atlanti nazionali sono conclusi contratti di diritto pubblico entro due anni dall’entrata in vigore della presente ordinanza. Fino alla conclusione di detti contratti, le decisioni e i contratti esistenti mantengono la loro validità.
-
-<sup>2</sup> I contratti relativi all’utilizzazione di geodati di base e geoservizi della misurazione nazionale nonché ai relativi emolumenti, vigenti alla data dell’entrata in vigore della presente ordinanza, rimangono in vigore fino alla fine della durata concordata, ma al più tardi fino all’entrata in vigore di nuove disposizioni d’ordinanza relative agli emolumenti della geoinformazione della Confederazione oppure fino al 31 dicembre 2009.
+[^31-1]: Abrogato dal n. II 2 dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 32
 
@@ -365,6 +368,8 @@ Allegato
 (art. 30)
 
 ## Modifica del diritto vigente
+
+Le ordinanze qui appresso sono modificate come segue:
 
 ...[^annexu1-lvlu1-1]
 
