@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geologia nazionale (OGN)
 short: OGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/391"
 language: it
-version: 2018-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20180101/it/xml/fedlex-data-admin-ch-eli-cc-2008-391-20180101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2008-391-20210301-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/it"
 
 (OGN)
 
-del 21 maggio 2008 (Stato 1° gennaio 2018) (Stato 1° gennaio 2018)
+del 21 maggio 2008 (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -216,6 +216,15 @@ Le informazioni geologiche sono attribuite ai livelli di autorizzazione all’ac
 [^13-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^13-4]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
+#### Art. 13a
+
+**Emolumenti**[^13a-1]
+
+Gli emolumenti per l’accesso a dati e informazioni geologici e per la loro utilizzazione, per le prestazioni ufficiali della geologia nazionale e per le prestazioni di servizio dei servizi specializzati in materia di geologia nazionale sono retti per analogia dagli articoli 43–46*a* OGI[^13a-2].
+
+[^13a-1]: Introdotto dal n. II 1 dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^13a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
 ## Sezione 5: Organizzazione
 
 #### Art. 14
@@ -289,11 +298,9 @@ Il competente servizio specializzato in materia di geologia nazionale rappresent
 
 #### Art. 20
 
-**Disposizione transitoria**
+[^20-1]
 
-Fino all’entrata in vigore di un nuovo disciplinamento in materia di emolumenti per le geoinformazioni, ma al più tardi fino al 31 dicembre 2009, gli emolumenti per le prestazioni della geologia nazionale sono calcolati conformemente alle disposizioni dell’ordinanza del 3 luglio 2001[^20-1] sugli emolumenti dell’Ufficio federale delle acque e della geologia, nonché ai listini dei prezzi emanati su tale base dall’Ufficio federale di topografia e vigenti al momento dell’entrata in vigore della presente ordinanza.
-
-[^20-1]: [[RU 2001 2133](https://fedlex.data.admin.ch/eli/oc/2001/309), [2003 3677](https://fedlex.data.admin.ch/eli/oc/2003/520), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 58 [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)all. 2 n. 1. [RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)n. II 5]
+[^20-1]: Abrogato dal n. II 1 dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 21
 

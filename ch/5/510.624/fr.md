@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géologie nationale (OGN)
 short: OGN
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/391"
 language: fr
-version: 2018-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-391-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-391-20210301-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/fr"
 
 (OGN)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> janvier 2018)
+du 21 mai 2008 (État le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -185,7 +185,7 @@ Les services spécialisés en charge de la géologie nationale peuvent fournir l
 - b. exécuter des travaux de coopération au développement dans les domaines de la géologie et de l’hydrogéologie;
 - c. proposer sous une forme particulière des données et des informations de la géologie nationale.
 
-<sup>3</sup> Ils peuvent collaborer avec des tiers pour fournir leurs prestations.
+<sup>2</sup> Ils peuvent collaborer avec des tiers pour fournir leurs prestations.
 
 #### Art. 12
 
@@ -215,6 +215,15 @@ Les informations géologiques sont dotées des niveaux d’autorisation d’acc�
 [^13-2]: Introduite par le ch. I de l’O du 1<sup>er</sup> nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6745](https://fedlex.data.admin.ch/eli/oc/2017/755)).
 [^13-3]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^13-4]: [RS 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
+
+#### Art. 13a
+
+**Émoluments**[^13a-1]
+
+Les art. 43 à 46*a* OGéo[^13a-2] s’appliquent par analogie aux émoluments dus pour l’accès aux données et aux informations géologiques ainsi que pour leur utilisation, pour les prestations officielles de la géologie nationale et pour les prestations des services spécialisés chargés de la géologie nationale.
+
+[^13a-1]: Introduit par le ch. II 1 de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^13a-2]: [RS 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
 
 ## Section 5 Organisation
 
@@ -289,11 +298,9 @@ Le service spécialisé en charge de la géologie nationale représente la Suiss
 
 #### Art. 20
 
-**Disposition transitoire**
+[^20-1]
 
-Jusqu’à l’entrée en vigueur d’un nouveau règlement régissant les émoluments pour les géoinformations, mais au plus tard jusqu’au 31 décembre 2009, les émoluments perçus pour les prestations de la géologie nationale sont calculés conformément aux dispositions de l’ordonnance du 3 juillet 2001 sur les émoluments de l’Office fédéral des eaux et de la géologie[^20-1] et aux listes de prix de l’Office fédéral de topographie qui se fondent sur l’ordonnance précitée et qui sont en vigueur à l’entrée en vigueur de la présente ordonnance.
-
-[^20-1]: [[RO 2001 2133](https://fedlex.data.admin.ch/eli/oc/2001/309), [2003 3677](https://fedlex.data.admin.ch/eli/oc/2003/520), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)ch. II 58 [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)annexe 2 ch. 1. [RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)ch. II 5]
+[^20-1]: Abrogé par le ch. II 1 de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 21
 

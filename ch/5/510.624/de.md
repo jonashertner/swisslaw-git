@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über die Landesgeologie (Landesgeologievero
 short: LGeoIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/391"
 language: de
-version: 2018-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2008-391-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/391/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2008-391-20210301-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/391/20180101/de"
 
 (Landesgeologieverordnung, LGeolV)
 
-vom 21. Mai 2008 (Stand am 1. Januar 2018)
+vom 21. Mai 2008 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -216,6 +216,15 @@ Die geologischen Informationen werden wie folgt den Zugangsberechtigungsstufen n
 [^13-3]: [SR 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
 [^13-4]: [SR 641.711](https://fedlex.data.admin.ch/eli/cc/2012/856)
 
+#### Art. 13a
+
+**Gebühren**[^13a-1]
+
+Die Gebühren für den Zugang zu geologischen Daten und Informationen und für deren Nutzung, für amtliche Leistungen der Landesgeologie und für Dienstleistungen der Fachstellen für Landesgeologie richten sich sinngemäss nach den Artikeln 43–46*a* GeoIV[^13a-2].
+
+[^13a-1]: Eingefügt durch Ziff. II 1 der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^13a-2]: [SR 510.620](https://fedlex.data.admin.ch/eli/cc/2008/389)
+
 ## 5. Abschnitt: Organisation
 
 #### Art. 14
@@ -289,11 +298,9 @@ Die zuständige Fachstelle für Landesgeologie vertritt die Schweiz in internati
 
 #### Art. 20
 
-**Übergangsbestimmung**
+[^20-1]
 
-Die Gebühren für Leistungen der Landesgeologie bestimmen sich bis zum Inkrafttreten einer neuen Gebührenregelung für Geoinformationen, längstens aber bis zum 31. Dezember 2009, nach der Verordnung vom 3. Juli 2001[^20-1] über die Gebühren des Bundesamtes für Wasser und Geologie und nach den gestützt darauf vom Bundesamt für Landestopografie erlassenen, beim Inkrafttreten dieser Verordnung bestehenden Preislisten.
-
-[^20-1]: [[AS 2001 2133](https://fedlex.data.admin.ch/eli/oc/2001/309), [2003 3677](https://fedlex.data.admin.ch/eli/oc/2003/520), [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 58 [4889](https://fedlex.data.admin.ch/eli/oc/2006/762)Anhang 2 Ziff. 1. [AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)Ziff. II 5]
+[^20-1]: Aufgehoben durch Ziff. II 1 der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 21
 
