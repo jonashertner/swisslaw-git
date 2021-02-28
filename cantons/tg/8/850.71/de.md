@@ -1,25 +1,27 @@
 ---
 canton: TG
 number: "850.71"
-title: Verordnung des Regierungsrates über die Heimaufsicht
+title: Heimaufsichtsverordnung
 short: HAV
 language: de
-version: 2013-01-01
-valid_until: 2021-02-28
-version_adopted: 2012-12-04
+version: 2021-03-01
+valid_until: 2023-05-31
+version_adopted: 2021-02-16
 adopted: 2021-02-16
 in_force: 2021-03-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/850.71"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/610/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung des Regierungsrates über die Heimaufsicht
+# Heimaufsichtsverordnung
 
-RRV Heimaufsicht
+HAV
 
-vom 22.11.2005 (Stand 01.01.2013)
+(HAV)
+
+vom 16.02.2021 (Stand 01.03.2021)
 
 ## 1. Allgemeines
 
@@ -33,17 +35,17 @@ vom 22.11.2005 (Stand 01.01.2013)
 
 <sup>3</sup> Errichtung und Betrieb von Betreuungs- und Pflegeangeboten, in denen bis zu vier volljährige Personen gegen Entgelt Unterkunft, Verpflegung, Betreuung oder weitere Dienstleistungen gewährt werden, bedürfen einer Bewilligung der Standortgemeinde und unterstehen deren Aufsicht.
 
-<sup>4</sup> Die Betreuung und Pflege von höchstens zwei Personen durch Angehörige, Lebenspartnerinnen und Lebenspartner sowie enge Bezugspersonen ist von der Heimaufsicht durch Kanton und Gemeinden ausgenommen.
+<sup>4</sup> Die Betreuung und Pflege von bis zu zwei volljährigen Personen durch Angehörige, Lebenspartnerinnen und Lebenspartner sowie enge Bezugspersonen ist von der Heimaufsicht durch Kanton und Gemeinden ausgenommen.
 
 #### § 2
 
 **Oberaufsicht**
 
-<sup>1</sup> Das Heimwesen unterliegt der Oberaufsicht des Regierungsrates, soweit es in den Zuständigkeitsbereich des Kantons fällt.
+<sup>1</sup> Die Oberaufsicht über das Heimwesen obliegt dem Regierungsrat.
 
 #### § 3
 
-**Aufsicht**
+**Zuständigkeit betreffend direkte Aufsicht**
 
 <sup>1</sup> Die direkte Aufsicht obliegt:
 
@@ -51,33 +53,38 @@ vom 22.11.2005 (Stand 01.01.2013)
 - 2\. dem Departement für Justiz und Sicherheit für Kinder- und Jugendheime;
 - 3\. dem Departement für Finanzen und Soziales für Heime für erwachsene Menschen mit und ohne Behinderung sowie für Heime für Betagte und Pflegebedürftige.
 
-<sup>2</sup> Die Departemente können Fachstellen und kantonale Ämter mit der Durchführung der direkten Aufsicht beauftragen.
+<sup>2</sup> Sind bezüglich der Aufsichtstätigkeit mehrere Bereiche betroffen, wird dem Heim die Zuständigkeit nach Absprache mit den Beteiligten per Departementsentscheid mitgeteilt.
+
+<sup>3</sup> Die Departemente können kantonale Fachstellen und kantonale Ämter mit der Durchführung der direkten Aufsicht beauftragen.
 
 #### § 4
 
 **Heimkommission**
 
-<sup>1</sup> Für die Beratung der Aufsichtsinstanzen insbesondere in Fragen der Aufsichtstätigkeit, Koordination und Schulung setzt der Regierungsrat eine Heimkommission ein. Diese ist administrativ dem Departement für Finanzen und Soziales unterstellt.
+<sup>1</sup> Für die Beratung der Aufsichtsbehörden insbesondere in Fragen der Aufsichtstätigkeit, Koordination und Schulung setzt der Regierungsrat eine Heimkommission ein. Diese ist administrativ dem Departement für Finanzen und Soziales unterstellt.
 
-<sup>2</sup> Die Heimkommission besteht aus Vertreterinnen und Vertretern der Departemente und Fachstellen. Sie kann mit externen Fachleuten ergänzt werden.
+<sup>2</sup> Die Heimkommission besteht aus Vertreterinnen und Vertretern der Departemente. Sie kann mit externen Fachleuten ergänzt werden.
+
+## 2. Bewilligungsvoraussetzungen
 
 #### § 5
 
 **Gesuch und Bewilligung**
 
-<sup>1</sup> Gesuche um eine kantonale Bewilligung für den Betrieb eines Heims sind beim für die Aufsicht zuständigen Departement einzureichen.
+<sup>1</sup> Gesuche um eine kantonale Bewilligung für den Betrieb eines Heims sind beim zuständigen Departement einzureichen.
 
-<sup>2</sup> Dem Gesuch sind insbesondere folgende Unterlagen beizulegen:
+<sup>2</sup> Dem Gesuch sind insbesondere beizulegen:
 
-- 1\. Ausweis über die berufliche Ausbildung und die bisherige Tätigkeit der Heimleitung und des leitenden Personals sowie Referenzen der Heimleitung;
-- 2\. Auszug aus dem Zentralstrafregister der Heimleitung und aller Mitarbeiterinnen und Mitarbeiter mit Leitungsfunktionen;
+- 1\. Ausweis über die berufliche Aus- und Weiterbildung und die bisherige Tätigkeit der Mitglieder des operativen Führungsorgans und des leitenden Personals sowie Referenzen der Mitglieder des operativen Führungsorgans;
+- 2\. Privatauszug und Sonderprivatauszug aus dem Zentralstrafregister der Mitglieder des operativen Führungsorgans und aller Mitarbeiterinnen und Mitarbeiter mit Leitungsfunktion sowie eine Selbstdeklaration zum Gesundheitszustand und zu laufenden Strafverfahren;
 - 3\. Nachweis über Personal in genügender Anzahl und einer mit Bezug auf Funktion und Art des Heims angemessenen Ausbildung;
 - 4\. Planunterlagen über die Räumlichkeiten und Einrichtungen;
-- 5\. Betreuungs- und Betriebskonzept;
-- 6\. Nachweis der gesicherten Finanzierung;
-- 7\. Muster der Aufenthaltsvereinbarung.
+- 5\. Betriebskonzept inklusive Nennung der Organe;
+- 6\. Betreuungskonzept;
+- 7\. Nachweis der gesicherten Finanzierung;
+- 8\. Muster der Aufenthaltsvereinbarung.
 
-<sup>3</sup> Das für das Gesuch zuständige Departement bestimmt, welche zusätzlichen Unterlagen dem Gesuch beizulegen sind.
+<sup>3</sup> Das zuständige Departement kann zusätzliche Unterlagen verlangen.
 
 <sup>4</sup> Änderungen der für die Erteilung der Bewilligung massgebenden Tatsachen sind dem zuständigen Departement umgehend zu melden.
 
@@ -85,148 +92,105 @@ vom 22.11.2005 (Stand 01.01.2013)
 
 #### § 6
 
-**Widerruf der Betriebsbewilligung**
+**Einschränkung oder Widerruf der Betriebsbewilligung**
 
-<sup>1</sup> Sind die Voraussetzungen für die Betriebsbewilligung nicht mehr erfüllt, widerruft das zuständige Departement die Bewilligung.
+<sup>1</sup> Sind die Voraussetzungen für die Betriebsbewilligung nicht mehr erfüllt, schränkt das zuständige Departement diese ein, bis die Voraussetzungen wieder erfüllt sind oder widerruft diese.
 
-## 2. Organisation, Qualitätssicherung und interne Aufsicht
+## 3. Organisation und Qualitätssicherung
 
 #### § 7
 
 **Organe**
 
-<sup>1</sup> Die Führungsorgane sind für die Gewährleistung der Qualität der Pflege und Betreuung, die Einhaltung der Rechte der betreuten Personen und die Verhinderung von Missbräuchen verantwortlich.
+<sup>1</sup> Ein Heim verfügt über ein personell getrenntes strategisches und operatives Führungsorgan. Das strategische Führungsorgan regelt die interne Aufsicht.
 
-<sup>2</sup> Die Führungs- und Organisationsstruktur, die Zuständigkeiten im operativen und im strategischen Bereich sowie die Verantwortlichkeiten werden durch das Heim verbindlich im Betriebskonzept definiert.
+<sup>2</sup> Die Organe sind entsprechend dem Betriebskonzept für die Gewährleistung der Qualität der Pflege und Betreuung, die Einhaltung der Rechte der betreuten Personen und die Verhinderung von Missbräuchen verantwortlich.
+
+<sup>3</sup> Die Organisationsstruktur sowie die Zuständigkeiten und Verantwortlichkeiten der Führungsorgane werden im Betriebskonzept definiert.
+
+<sup>4</sup> Die operative Führung von Heimen darf nur Personen anvertraut werden, die sich in gesundheitlicher und fachlicher Hinsicht eignen und über einen einwandfreien Leumund verfügen.
 
 #### § 8
 
-**Heimleitung**
+**Anforderungen an die Heime**
 
-<sup>1</sup> Die Leitung von Heimen darf nur Personen anvertraut werden, die sich in gesundheitlicher, charakterlicher und fachlicher Hinsicht zur einwandfreien Führung des Heims eignen.
+<sup>1</sup> Betreuung, Pflege, Therapie, Unterkunft und Verpflegung in den Heimen haben dem Bedarf der betreuten Personen zu entsprechen.
 
-<sup>2</sup> Das zuständige Departement regelt die Anforderungen für das übrige Personal.
+<sup>2</sup> Das zuständige Departement regelt die Anforderungen für das Personal.
+
+<sup>3</sup> Die Bauten und Räumlichkeiten sind zweckentsprechend zu erstellen und einzurichten. Sie haben die hygienischen und feuerpolizeilichen Vorschriften sowie die Vorgaben für Sonderbauten zu erfüllen.
+
+<sup>4</sup> Das zuständige Departement erlässt die erforderlichen Weisungen. Es hört die Branchenverbände an.
 
 #### § 9
 
-**Anforderungen an die Heime**
+**Qualitätsmanagement**
 
-<sup>1</sup> Betreuung, Pflege, Therapie, Unterkunft und Verpflegung in den Heimen haben den Bedürfnissen der betreuten Personen zu entsprechen.
-
-<sup>2</sup> Die Räumlichkeiten sind zweckentsprechend einzurichten und haben im Besonderen den hygienischen und den feuerpolizeilichen Ansprüchen zu genügen.
-
-<sup>3</sup> Das zuständige Departement erlässt die erforderlichen Richtlinien. Diese sind periodisch zu überprüfen. Die Branchenverbände sind anzuhören.
-
-#### § 10
-
-**Qualitätssicherung**
-
-<sup>1</sup> Die Heime sichern die Qualität aufgrund eines Qualitätsmanagements, welches:
+<sup>1</sup> Die Heime sichern die Qualität aufgrund eines Qualitätsmanagements, das:
 
 - 1\. Aufgaben, Verantwortung und Prozesse der Qualitätssteuerung beschreibt;
-- 2\. Qualitätsstandards und die dazugehörenden Qualitätsindikatoren sowie deren Mess- beziehungsweise Überprüfungsinstrumente für die Kernleistungen festlegt;
+- 2\. Qualitätskonzepte und -standards und die dazugehörenden Qualitätsindikatoren sowie deren Mess- und Überprüfungsinstrumente für die Kernleistungen festlegt;
 - 3\. die Qualität der erbrachten Dienstleistungen periodisch beurteilt;
 - 4\. die Ergebnisse der Qualitätsprüfung und Massnahmen bei Zielabweichungen dokumentiert.
 
-<sup>2</sup> Die Ergebnisse der Qualitätsüberprüfung sind den betreuten Personen sowie ihren Angehörigen und gesetzlichen Vertreterinnen und Vertretern in geeigneter Form zugänglich zu machen.
+<sup>2</sup> Die Ergebnisse der Qualitätsüberprüfung sind den betreuten sowie den vertretungsberechtigten Personen in geeigneter Form zugänglich zu machen.
 
-<sup>3</sup> Die Qualitätsmanagement-Dokumentation ist innerhalb von zwei Jahren nach Eröffnung des Heims der Aufsichtsbehörde unaufgefordert einzureichen.
+<sup>3</sup> Die Qualitätsmanagement-Dokumentation ist dem zuständigen Departement innerhalb eines Jahres nach Eröffnung des Heims unaufgefordert einzureichen.
 
-#### § 11
+## 4. Aufsicht
+
+#### § 10
 
 **Interne Aufsicht**
 
-<sup>1</sup> Das Heim legt Aufgaben, Kompetenzen und Abläufe für eine wirksame interne Aufsicht und Behandlung von Beanstandungen im Betriebskonzept fest. Durch geeignete organisatorische und personelle Massnahmen sichert das Heim die Unabhängigkeit der internen Aufsicht.
+<sup>1</sup> Das strategische Führungsorgan legt Aufgaben, Kompetenzen und Verantwortung für eine wirksame interne Aufsicht und Behandlung von Beanstandungen im Betriebskonzept fest.
 
-## 3. Rechte und Pflichten der betreuten Personen
+<sup>2</sup> Durch geeignete organisatorische und personelle Massnahmen sichert das Heim die Unabhängigkeit der internen Aufsicht.
 
-#### § 12
+#### § 11
 
-**Grundsatz**
+**Kantonale Aufsicht**
 
-<sup>1</sup> Das Heim richtet sich bei seinem Angebot nach den Bedürfnissen und dem Wohl der betreuten Personen. Es verpflichtet sich, im Rahmen der betrieblichen Möglichkeiten das Selbstbestimmungsrecht der betreuten Personen zu wahren, deren Persönlichkeit und Würde zu achten und ihre persönliche Weiterentwicklung zu fördern.
-
-#### § 13
-
-**Akteneinsicht**
-
-<sup>1</sup> Den betreuten Personen ist auf Wunsch Einsicht in die über sie geführten Akten oder das über sie geführte Journal zu gewähren.
-
-#### § 14
-
-**Aktenaufbewahrung**
-
-<sup>1</sup> Akten über betreute Personen sind vom Heim für die Dauer von zehn Jahren aufzubewahren.
-
-<sup>2</sup> Der betreuten Person oder ihrer gesetzlichen Vertretung sind beim Heimaustritt die Akten auf schriftliches Gesuch herauszugeben.
-
-#### § 15
-
-**Auskunfts- und Einsichtsrecht Dritter**
-
-<sup>1</sup> Die Herausgabe von Akten an Dritte oder deren Akteneinsicht setzen das Einverständnis der betreuten Person oder ihrer gesetzlichen Vertretung voraus.
-
-<sup>2</sup> Beim Ehegatten oder der Ehegattin sowie dem Partner oder der Partnerin, der oder die mit der betreuten Person einen gemeinsamen Haushalt führt oder ihr regelmässig und persönlich Beistand leistet, wird das Einverständnis vermutet.
-
-<sup>3</sup> Der gesetzlichen Vertretung und den Aufsichtsbehörden steht unabhängig vom Einverständnis der betroffenen Person das Recht auf Auskunft und Akteneinsicht zu.
-
-#### § 16
-
-**Pflichten der betreuten Person**
-
-<sup>1</sup> Die betreuten Personen haben sich an die Weisungen des Heims zu halten und Anordnungen des Personals zu befolgen.
-
-#### § 17
-
-**Beanstandungen**
-
-<sup>1</sup> Beanstandungen von betreuten oder ihnen nahestehenden Personen gegen Heimleitung und Personal sind beim zuständigen Heimorgan einzureichen. Die Beanstandung ist innert Monatsfrist schriftlich zu beantworten.
-
-#### § 18
-
-**Anzeigen**
-
-<sup>1</sup> Missstände im Heim oder die mangelhafte Behandlung einer Beanstandung können dem zuständigen Departement schriftlich angezeigt werden.
-
-<sup>2</sup> Dieses klärt den Sachverhalt ab und trifft die notwendigen Massnahmen.
-
-<sup>3</sup> Die Anzeige erstattende Person ist soweit erforderlich über das Ergebnis zu orientieren. Schutzwürdige Geheimhaltungsinteressen Dritter sind zu wahren.
-
-## 4. Kantonale Aufsichtstätigkeit
-
-#### § 19
-
-**Kantonale Audits**
-
-<sup>1</sup> Die Aufsichtsinstanzen orientieren sich am Wohl der betreuten Personen. Sie führen periodisch Audits durch und nehmen dabei insbesondere folgende Aufgaben wahr:
+<sup>1</sup> Die Aufsicht orientiert sich am Wohl der betreuten Personen. Das zuständige Departement fordert die benötigten Unterlagen ein, führt periodisch Aufsichtsbesuche durch und nimmt dabei insbesondere folgende Aufgaben wahr:
 
 - 1\. Überprüfung der Bewilligungsvoraussetzungen;
 - 2\. Überprüfung der Qualitätssicherung und internen Aufsicht;
 - 3\. Überprüfung der Rechtsstellung der betreuten Personen;
-- 4\. Befragung von betreuten Personen;
+- 4\. Eruierung der Sicht der betroffenen Personen, insbesondere durch Befragung von betreuten Personen sowie in begründeten Fällen deren Bezugspersonen und bevollmächtigten und gesetzlichen Vertreterinnen und Vertretern;
 - 5\. Beratung und Befragung von Führungsorganen und Personal.
 
-<sup>2</sup> Die Heime haben den Aufsichtsinstanzen auf Verlangen vollständig und wahrheitsgemäss Auskunft über die betreuten Personen, Personal und Betrieb zu erteilen und Einsicht in sämtliche Unterlagen sowie freien Zutritt zu allen Räumlichkeiten zu gewähren.
+<sup>2</sup> Die Heime haben dem zuständigen Departement vollständig und wahrheitsgemäss Auskunft über die betreuten Personen, Personal und Betrieb zu erteilen und Einsicht in sämtliche Unterlagen sowie freien Zutritt zu allen Räumlichkeiten zu gewähren.
 
-<sup>3</sup> Sie ermöglichen den betreuten Personen und dem Personal, sich unbeobachtet und frei zu äussern.
+<sup>3</sup> Sie ermöglichen den befragten Personen, sich unbeobachtet und frei zu äussern.
 
-#### § 20
+#### § 12
 
 **Bericht**
 
-<sup>1</sup> Die Aufsichtsinstanz erstellt über den Audit einen Bericht und gewährt dem Heim das rechtliche Gehör dazu.
+<sup>1</sup> Das zuständige Departement erstellt über den Aufsichtsbesuch einen Bericht und gewährt dem Heim das rechtliche Gehör dazu.
 
-<sup>2</sup> Sie kann im Bericht Anordnungen und Empfehlungen aufnehmen und überprüft deren Einhaltung und Umsetzung.
+<sup>2</sup> Es kann im Bericht mit Fristen versehene Anordnungen sowie Empfehlungen aufnehmen.
 
-#### § 21
+#### § 13
 
 **Massnahmen**
 
-<sup>1</sup> Werden Anordnungen und Empfehlungen nicht befolgt, fordert die Aufsichtsinstanz das Heim auf, das Versäumte unverzüglich nachzuholen.
+<sup>1</sup> Das Heim kann zu den Empfehlungen Stellung nehmen. Anordnungen sind umzusetzen.
 
-<sup>2</sup> Können Mängel durch Beratung oder Vermittlung fachkundiger Hilfe nicht beseitigt werden, kann die Aufsichtsinstanz eine externe, unabhängige Expertise in Auftrag geben. Die Kosten gehen zu Lasten des Heims, sofern die Expertise Mängel in der Betriebsführung feststellt.
+<sup>2</sup> Können Mängel durch Beratung oder Vermittlung fachkundiger Hilfe nicht beseitigt werden, kann das zuständige Departement eine externe, unabhängige Expertise in Auftrag geben. Die Kosten gehen zu Lasten des Heims, sofern die Expertise Mängel in der Betriebsführung feststellt.
 
-#### § 22
+<sup>3</sup> Werden Anordnungen nicht innert Frist umgesetzt, kann das zuständige Departement eine Nachfrist ansetzen oder direkt Massnahmen anordnen, insbesondere:
+
+- 1\. eine externe, unabhängige Begleitung einsetzen;
+- 2\. eine vorübergehende operative Leitung einsetzen;
+- 3\. einen Aufnahmestopp verhängen;
+- 4\. die Anzahl Heimplätze reduzieren;
+- 5\. die Verlegung von betreuten Personen verfügen;
+- 6\. Beiträge ans Heim kürzen, sistieren oder streichen.
+
+<sup>4</sup> Die Kosten für Massnahmen gehen zulasten des Heims.
+
+#### § 14
 
 **Bewilligungsentzug**
 
@@ -234,26 +198,70 @@ vom 22.11.2005 (Stand 01.01.2013)
 
 <sup>2</sup> Ist Gefahr in Verzug, ordnet das zuständige Departement die sofortige Schliessung des Heims an.
 
-## 5. Übergangs- und Schlussbestimmungen
+## 5. Rechte und Pflichten der betreuten Personen
 
-#### § 23
+#### § 15
+
+**Grundsatz**
+
+<sup>1</sup> Das Heim richtet sich bei seinem Angebot nach dem Bedarf und dem Wohl der betreuten Personen. Es verpflichtet sich, deren Persönlichkeit und Würde zu achten, im Rahmen der betrieblichen Möglichkeiten die Partizipation und das Selbstbestimmungsrecht der betreuten Personen zu wahren und ihre Weiterentwicklung zu fördern.
+
+#### § 16
+
+**Datenauskunft, Dateneinsicht, Datenherausgabe**
+
+<sup>1</sup> Datenauskunft, Dateneinsicht und Datenherausgabe sind nach Massgabe des kantonalen Gesetzes über den Datenschutz[^16-1] zu gewähren:
+
+- 1\. den betreuten Personen;
+- 2\. dem zuständigen Departement;
+- 3\. Bevollmächtigten oder der gesetzlichen Vertretung, soweit die urteilsfähige betreute Person nicht widerspricht;
+- 4\. übrigen Personen, soweit das Einverständnis der betreuten Person vorliegt. Bei Ehepaaren, eingetragenen Partnerschaften und dem Partner oder der Partnerin wird das Einverständnis vermutet, sofern der betreuten Person regelmässig und persönlich Beistand geleistet wird.
+
+[^16-1]: RB [170.7](https://www.rechtsbuch.tg.ch/data/170.7/de)
+
+#### § 17
+
+**Datenaufbewahrung**
+
+<sup>1</sup> Das Heim bewahrt Daten über betreute Personen zwanzig Jahre auf.
+
+#### § 18
+
+**Pflichten der betreuten Personen**
+
+<sup>1</sup> Die betreuten Personen haben sich an die Weisungen des Heims zu halten und diesbezügliche Anordnungen des Personals zu befolgen.
+
+#### § 19
+
+**Beanstandungen**
+
+<sup>1</sup> Beanstandungen von betreuten oder ihnen nahestehenden Personen sind innert Monatsfrist einzureichen:
+
+- 1\. gegen das operative Führungsorgan beim strategischen Führungsorgan;
+- 2\. gegen das Personal beim zuständigen Heimorgan.
+
+<sup>2</sup> Sie sind innert Monatsfrist schriftlich zu beantworten.
+
+<sup>3</sup> Der Beanstandungsweg ist für die betreuten Personen und Dritte transparent darzulegen.
+
+#### § 20
+
+**Anzeigen**
+
+<sup>1</sup> Missstände im Heim oder die mangelhafte Behandlung einer Beanstandung können dem zuständigen Departement schriftlich angezeigt werden. Anonyme Anzeigen werden nur in begründeten Fällen behandelt.
+
+<sup>2</sup> Dieses klärt den Sachverhalt ab und trifft die notwendigen Massnahmen. Die Anonymität der Anzeige erstattenden Person ist zu wahren.
+
+<sup>3</sup> Die Anzeige erstattende Person ist, soweit erforderlich, über das Ergebnis zu orientieren. Schutzwürdige Geheimhaltungsinteressen Dritter sind zu wahren.
+
+## 6. Übergangs- und Schlussbestimmungen
+
+#### § 21
 
 **Bisherige Bewilligungen**
 
 <sup>1</sup> Bereits erteilte Bewilligungen bleiben in Kraft.
 
-<sup>2</sup> Bestehende Heime haben bis spätestens 31. Dezember 2007 die gemäss § 10 zu erstellende Qualitätsmanagement-Dokumentation bei der Aufsichtsbehörde einzureichen.
+<sup>2</sup> Bestehende Heime haben bis spätestens 31. Dezember 2022 die gemäss § 7 Abs. 1 statuierten Anforderungen zu erfüllen und das entsprechende Organigramm beim zuständigen Departement einzureichen.
 
-#### § 24
-
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Die Verordnung des Regierungsrates über die Heimaufsicht vom 20. Dezember 1977 wird aufgehoben.
-
-#### § 25
-
-**Inkrafttreten**
-
-<sup>1</sup> Diese Verordnung tritt auf den 1. Januar 2006 in Kraft.
-
-ABl. 47/2005
+7/2021
