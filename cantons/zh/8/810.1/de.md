@@ -4,11 +4,11 @@ number: "810.1"
 title: Gesundheitsgesetz (GesG)
 short: GesG
 language: de
-version: "2020-03-01"
-nachtrag: "108"
-valid_until: 2021-03-01
+version: "2021-03-01"
+nachtrag: "112"
+valid_until: 2022-11-01
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-810_1-2007_04_02-2008_07_01-112.html"
 text: pdf
 ---
 
@@ -16,13 +16,16 @@ text: pdf
 
 # Gesundheitsgesetz (GesG)
 
-(vom 2. April 2007)<sup>1</sup>
+(vom 2. April 2007)[^t-1]
 
 Der Kantonsrat,
 
-nach Einsichtnahme in die Anträge des Regierungsrates vom 26. Januar 2005<sup>2</sup> und der Kommission für soziale Sicherheit und Gesundheit vom 16. Januar 2007,
+nach Einsichtnahme in die Anträge des Regierungsrates vom 26. Januar 2005[^t-2] und der Kommission für soziale Sicherheit und Gesundheit vom 16. Januar 2007,
 
 beschliesst:
+
+[^t-1]: OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
+[^t-2]: ABl 2005, 121.
 
 ### 1. Teil: Einleitung
 
@@ -58,7 +61,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
 - d. Verrichtungen zur Veränderung der Empfängnis- und Zeugungsfähigkeit vornimmt,
 
@@ -136,11 +139,13 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 <sup>4</sup> Die Vertretung handelt fachlich eigenverantwortlich.
 
+[^8-1]: SR 0.142.112.681.
+
 #### § 9
 
 **90-Tage-Dienstleister**
 
-<sup>1</sup> Inhaberinnen und Inhaber einer ausländischen Berufsausübungsbewilligung zeigen der Direktion an, wenn sie in Anwendung von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit<sup>12</sup> eine nach § 3 bewilligungspflichtige Tätigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr im Kanton Zürich ausüben wollen.
+<sup>1</sup> Inhaberinnen und Inhaber einer ausländischen Berufsausübungsbewilligung zeigen der Direktion an, wenn sie in Anwendung von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit[^8-1] eine nach § 3 bewilligungspflichtige Tätigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr im Kanton Zürich ausüben wollen.
 
 <sup>2</sup> Sie legen der Anzeige bei:
 
@@ -154,7 +159,7 @@ Direktion im Sinne dieses Gesetzes ist die für das Gesundheitswesen zuständige
 
 **3**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
 <sup>5</sup> Die §§ 5–8 und 10–21 sowie die für die jeweilige Berufskategorie anwendbaren allgemeinen und besonderen Bestimmungen gelten sinngemäss.
 
@@ -232,7 +237,7 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
 ### C. Notfalldienst<sup>23</sup>
 
@@ -248,7 +253,7 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 - a. Bezirksärztinnen und -ärzte,
 
-- b. Legalinspektorinnen und -inspektoren gemäss Art. 253 Abs. 1 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007<sup>6</sup>,
+- b. Legalinspektorinnen und -inspektoren gemäss Art. 253 Abs. 1 der Schweizerischen Strafprozessordnung vom 5. Oktober 2007[^hCNotfalldienstsup-1],
 
 - c. andere Berufsangehörige, wenn sie in einer stationären oder ambulanten Institution mit 24-Stunden-Notfallversorgung und Versorgungsaufträgen des Kantons oder von Gemeinden tätig sind und
 
@@ -318,9 +323,9 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 
 **7**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
-<sup>2</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959<sup>3</sup>.
+<sup>2</sup> Entscheide der Standesorganisation und Entscheide von Dritten gemäss § 17 b sind mit Rekurs bei der Direktion anfechtbar. Entscheidet die Gemeinde, richtet sich der Rechtsmittelweg nach dem Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^hCNotfalldienstsup-2].
 
 **Triagestelle**
 
@@ -339,6 +344,9 @@ Die Bekanntmachung der Berufstätigkeit und Werbung müssen sachlich sein und d�
 <sup>4</sup> Die Gemeinden tragen 50% der dem Kanton gemäss Abs. 1–3 entstehenden Kosten. Die Direktion berechnet den Anteil der Gemeinden nach der Einwohnerzahl.
 
 <sup>5</sup> Die Triagestelle veröffentlicht ihren Jahresbericht. Sie weist darin die Anzahl der Anrufe auf die Notfallrufnummer aus.
+
+[^hCNotfalldienstsup-1]: SR 312.0.
+[^hCNotfalldienstsup-2]: LS 175.2.
 
 ### D.<sup>24</sup> Besondere Aufgaben
 
@@ -368,11 +376,13 @@ Die Direktion beaufsichtigt Personen, die Tätigkeiten nach § 3 ausüben.
 
 **Schulen für nichtärztliches Gesundheitspersonal**
 
-§ 20 a.<sup>14</sup> <sup>1</sup> An Schulen, die nichtärztliches Gesundheitspersonal ausbilden, können Staatsbeiträge nach Massgabe des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008<sup>4</sup> ausgerichtet werden. Sie können von der für das Bildungswesen zuständigen Direktion des Regierungsrates mit zusätzlichen Subventionen unterstützt werden, sofern sie eine ausreichende Ausbildung gewährleisten und einem Bedürfnis des Kantons dienen.
+§ 20 a.<sup>14</sup> <sup>1</sup> An Schulen, die nichtärztliches Gesundheitspersonal ausbilden, können Staatsbeiträge nach Massgabe des Einführungsgesetzes zum Bundesgesetz über die Berufsbildung vom 14. Januar 2008[^20-1] ausgerichtet werden. Sie können von der für das Bildungswesen zuständigen Direktion des Regierungsrates mit zusätzlichen Subventionen unterstützt werden, sofern sie eine ausreichende Ausbildung gewährleisten und einem Bedürfnis des Kantons dienen.
 
 <sup>2</sup> Zusätzliche Subventionen können unter den gleichen Voraussetzungen auch an Schulen ausgerichtet werden, die eine Vorschulung für einen Fachberuf dieser Art anbieten.
 
 <sup>3</sup> Der Regierungsrat kann die Voraussetzungen zur Gewährung zusätzlicher Subventionen konkretisieren und entscheidet über deren Art und Höhe. Sie werden unter der Bedingung gewährt, dass die Schulen den zürcherischen Spitälern und Pflegeheimen in angemessenem Umfang Personal zur Verfügung stellen.
+
+[^20-1]: LS 413.31.
 
 #### § 21
 
@@ -380,13 +390,29 @@ Die Direktion beaufsichtigt Personen, die Tätigkeiten nach § 3 ausüben.
 
 Der Kanton kann, soweit notwendig, den praktischen Teil der Grundausbildung sowie die Weiterbildung in Berufen des Gesundheitswesens in eigenen Einrichtungen fördern oder Dritte damit beauftragen.
 
-#### § 22
+**Aus- und Weiterbildung a. Aus- und Weiterbildungspflicht**
 
-**Ausbildungsstellen und Praktikumsplätze**
+§ 22.<sup>28</sup> <sup>1</sup> Die Direktion kann die nach diesem Gesetz bewilligungspflichtigen Institutionen verpflichten, in angemessenem Umfang die Aus- und Weiterbildung im Bereich der Gesundheitsberufe sicherzustellen.
 
-<sup>1</sup> Die Direktion kann die bewilligungspflichtigen Institutionen verpflichten, eine angemessene Zahl von Aus- und Weiterbildungsstellen sowie von Praktikumsplätzen zur Verfügung zu stellen.
+<sup>2</sup> Sie berücksichtigt bei der Berechnung des Umfangs der Aus- und Weiterbildungsverpflichtung der Institutionen insbesondere den gesamtkantonalen Bedarf, die Besonderheiten der einzelnen Institutionstypen und Berufsgruppen und den Arbeitsmarkt.
 
-<sup>2</sup> Kommt eine Institution ihren Verpflichtungen nicht nach, kann die Direktion die Staatsbeiträge kürzen oder Ersatzabgaben erheben. Die Höhe der Staatsbeitragskürzung oder der Ersatzabgabe entspricht bis zu 150 Prozent der durchschnittlichen Kosten von Aus- und Weiterbildungsstellen bzw. von Praktikumsplätzen im jeweiligen Beruf.
+<sup>3</sup> Die Institutionen dürfen Minderleistungen bei der Aus- und Weiterbildung in einem Beruf durch Mehrleistungen in einem anderen Beruf ausgleichen. Sie dürfen untereinander mit Aus- und Weiterbildungsleistungen handeln. Der Regierungsrat regelt das Nähere.
+
+**9**
+
+- 1\. 4. 21 - 112 § 22 a.<sup>27</sup> <sup>1</sup> Erfüllt eine Institution ihre Aus- und Weiterbildungspflicht nicht, kürzt die Direktion allfällige Staatsbeiträge oder erhebt eine Ersatzabgabe. In begründeten Fällen kann sie darauf verzichten.
+
+**b. Ersatzabgaben**
+
+<sup>2</sup> Die Höhe der Kürzung oder Ersatzabgabe beträgt 150% der durchschnittlichen Kosten der nicht geleisteten Aus- oder Weiterbildung. Der Regierungsrat kann für einzelne Institutionstypen oder Berufsgruppen einen tieferen Prozentsatz für die Kürzung oder Ersatzabgabe vorsehen.
+
+<sup>3</sup> Aus den Ersatzabgaben und den durch die Kürzung eingesparten Beiträgen kann die Direktion Beiträge an Institutionen ausrichten, die ihre Aus- und Weiterbildungsverpflichtung übertreffen. Der Regierungsrat regelt das Nähere.
+
+**c. Vollzug und Datenaustausch**
+
+§ 22 b.<sup>27</sup> <sup>1</sup> Für den Vollzug der Vorschriften über die Aus- und Weiterbildungsverpflichtung kann die Direktion Verbände der bewilligungspflichtigen Institutionen beiziehen. Diese werden aus den Ersatzabgaben oder ergänzend aus der Staatskasse entschädigt.
+
+<sup>2</sup> Die bewilligungspflichtigen Institutionen, die Bildungsinstitutionen, die beigezogenen Verbände und die Direktion stellen einander die für den Vollzug erforderlichen Daten einschliesslich ausbildungsbezogene Personendaten kostenlos zur Verfügung.
 
 #### § 23
 
@@ -394,19 +420,22 @@ Der Kanton kann, soweit notwendig, den praktischen Teil der Grundausbildung sowi
 
 Bei Katastrophen oder anderen aussergewöhnlichen Ereignissen kann die Direktion zur Sicherstellung der medizinischen Versorgung Personen zu Einsatzleistungen verpflichten, die bewilligungspflichtige Tätigkeiten berufsmässig verrichten.
 
-**9**
-
-- 1\. 4. 20 - 108 § 24. Die Direktion sorgt für die regelmässige Information der Bevölkerung über den Umfang der Bewilligungspflicht und der kantonalen Aufsicht. Sie kann Dritte mit der Information beauftragen.
+#### § 24
 
 **Information der Bevölkerung**
 
+Die Direktion sorgt für die regelmässige Information der Bevölkerung über den Umfang der Bewilligungspflicht und der kantonalen Aufsicht. Sie kann Dritte mit der Information beauftragen.
+
 ### 2. Abschnitt: Die bewilligungspflichtigen Berufe im Einzelnen
+
+[^h2AbschnittDiebe-1]: SR 811.11.
+[^h2AbschnittDiebe-2]: SR 935.81.
 
 #### § 25
 
 **Medizinalberufe nach Bundesrecht**
 
-<sup>1</sup> Die Bewilligung der selbstständigen Ausübung von universitären Medizinalberufen gemäss Art. 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe<sup>7</sup> und des Psychotherapieberufes gemäss Bundesgesetz vom 18. März 2011 über die Psychologieberufe<sup>11</sup> richtet sich nach Bundesrecht. Gleiches gilt für die Berufspflichten.<sup>22</sup>
+<sup>1</sup> Die Bewilligung der selbstständigen Ausübung von universitären Medizinalberufen gemäss Art. 2 des Bundesgesetzes vom 23. Juni 2006 über die universitären Medizinalberufe[^h2AbschnittDiebe-1] und des Psychotherapieberufes gemäss Bundesgesetz vom 18. März 2011 über die Psychologieberufe[^h2AbschnittDiebe-2] richtet sich nach Bundesrecht. Gleiches gilt für die Berufspflichten.<sup>22</sup>
 
 <sup>2</sup> Ohne Bewilligung zur selbstständigen Berufsausübung berechtigt sind die Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung.
 
@@ -444,11 +473,11 @@ Die Bewilligung zur selbstständigen Tätigkeit als Drogistin oder Drogist setzt
 
 Die Bewilligung zur selbstständigen zahnprothetischen Tätigkeit setzt in fachlicher Hinsicht voraus, dass die Gesuchstellerin oder der Gesuchsteller über ein zürcherisches Zahnprothetikdiplom oder ein von der Direktion als gleichwertig anerkanntes ausserkantonales oder ausländisches Diplom verfügt.
 
-#### § 32
+**11**
+
+- 1\. 4. 21 - 112 § 32. <sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
 
 **b. Tätigkeitsbereich**
-
-<sup>1</sup> Die Bewilligung berechtigt die Inhaberin oder den Inhaber, selbstständig abnehmbaren Zahnersatz (Total- und Teilprothesen) herzustellen und die dazu erforderlichen Zahnreinigungen, Abdrücke und Einpassungen vorzunehmen.
 
 <sup>2</sup> Unzulässig sind zahnärztliche Tätigkeiten wie namentlich zahnchirurgische, zahnkonservierende oder orthodontische Behandlungen, das Beschleifen von Zähnen und Parodontitis-Behandlungen.
 
@@ -474,19 +503,13 @@ des Gesundheitswesens
 
 **Betriebsbewilligung a. Grundsatz**
 
-<sup>1</sup> Eine Betriebsbewilligung der Direktion ist erforderlich, wenn a. Verrichtungen, die nach § 3 dieses Gesetzes bewilligungspflichtig sind, nicht im Namen und auf Rechnung der Inhaberin oder des Inhabers einer persönlichen Berufsbewilligung erbracht werden oder
-
-**11**
-
-- 1\. 4. 20 - 108
-
-- b. Spitalbetten oder mehr als fünf Pflege- oder Altersheimbetten stationär betrieben werden.
+<sup>1</sup> Eine Betriebsbewilligung der Direktion ist erforderlich, wenn a. Verrichtungen, die nach § 3 dieses Gesetzes bewilligungspflichtig sind, nicht im Namen und auf Rechnung der Inhaberin oder des Inhabers einer persönlichen Berufsbewilligung erbracht werden oder b. Spitalbetten oder mehr als fünf Pflege- oder Altersheimbetten stationär betrieben werden.
 
 <sup>2</sup> Bewilligungen werden nur für folgende Institutionen erteilt:
 
 - a. Spitäler,
 
-- b. Altersheime, Alters- und Pflegeheime sowie Pflegeheime, einschliesslich Pflegezentren, Pflegewohnungen, Sterbehospize und andere stationäre Pflegeeinrichtungen im Sinne des KVG<sup>10</sup>,
+- b. Altersheime, Alters- und Pflegeheime sowie Pflegeheime, einschliesslich Pflegezentren, Pflegewohnungen, Sterbehospize und andere stationäre Pflegeeinrichtungen im Sinne des KVG[^35-1],
 
 - c. Institutionen der spitalexternen Kranken- und Gesundheitspflege (Spitex),
 
@@ -498,9 +521,12 @@ des Gesundheitswesens
 
 - h. tierärztliche Gesundheitsdienste,
 
-- i. Institutionen, die nach dem Bundesgesetz über die Krankenversicherung<sup>10</sup> oder nach dem Bundesgesetz über Arzneimittel und Medizinprodukte<sup>8</sup> bewilligungspflichtig sind.
+- i. Institutionen, die nach dem Bundesgesetz über die Krankenversicherung[^35-1] oder nach dem Bundesgesetz über Arzneimittel und Medizinprodukte[^35-2] bewilligungspflichtig sind.
 
 <sup>3</sup> Der Regierungsrat kann Bestimmungen über die Höchstzahl von Mitarbeiterinnen und Mitarbeitern erlassen, die von ambulanten ärztlichen Institutionen beschäftigt werden dürfen.
+
+[^35-1]: SR 832.10.
+[^35-2]: SR 812.21.
 
 #### § 36
 
@@ -534,15 +560,21 @@ des Gesundheitswesens
 
 <sup>1</sup> Die Institutionen des Gesundheitswesens leisten in dringenden Fällen Beistand. Bei Katastrophen oder anderen aussergewöhnlichen Ereignissen können sie zur Einsatzleistung nach § 23 verpflichtet werden.
 
+**13**
+
+- 1\. 4. 21 - 112
+
 <sup>2</sup> Spitäler oder Geburtshäuser mit kantonalem Leistungsauftrag nehmen Personen auf, die einer stationären Behandlung bedürfen. Die Direktion kann ihnen nach Voranzeige Patientinnen und Patienten zuweisen, die andernorts nicht untergebracht werden können oder deren Zustand eine Verlegung als geboten erscheinen lässt.<sup>15</sup>
 
 <sup>3</sup> Über die Pflichtleistungen nach Massgabe der Sozialversicherungsgesetzgebung des Bundes hinaus besteht kein Recht auf Inanspruchnahme von medizinischen Leistungen. Bei Nichtpflichtleistungen gilt die Beistandspflicht der Institutionen solange und im Umfang, als es nach den Umständen zumutbar ist. Der Regierungsrat kann in einer Verordnung den kantonalen Spitälern die Vornahme von solchen Nichtpflichtleistungen untersagen, deren Kosten die durchschnittlichen Untersuchungs-, Diagnose-, Therapie- und Pflegekosten in einem für das Gemeinwesen untragbaren Ausmass übersteigen. Die Spitäler der hochspezialisierten Versorgung und die Universität werden angehört.
+
+[^38-1]: LS 813.13.
 
 #### § 39
 
 **Patientendokumentation**
 
-In den Institutionen des Gesundheitswesens werden Patientendokumentationen gemäss § 13 geführt. Für Institutionen im Geltungsbereich des Patientinnen- und Patientengesetzes<sup>5</sup> gelten die entsprechenden Vorschriften jenes Gesetzes.
+In den Institutionen des Gesundheitswesens werden Patientendokumentationen gemäss § 13 geführt. Für Institutionen im Geltungsbereich des Patientinnen- und Patientengesetzes[^38-1] gelten die entsprechenden Vorschriften jenes Gesetzes.
 
 #### § 40
 
@@ -553,10 +585,6 @@ Von den allgemeinen Bestimmungen über die Berufe im Gesundheitswesen werden die
 ### 2. Abschnitt: Spitalplanung<sup>13</sup>
 
 §§ 41–43.<sup>16</sup>
-
-**13**
-
-- 1\. 4. 20 - 108
 
 ### 3. Abschnitt: Krankentransport- und Rettungswesen
 
@@ -616,6 +644,10 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 
 - b. Werbung direkt in und an den Verkaufsstellen,
 
+**15**
+
+- 1\. 4. 21 - 112
+
 - c. Hinweise auf Anlässe zur Verkaufsförderung für Bier, Wein sowie andere Getränke, die weniger als 15 Prozent vergorenen Alkohol enthalten,
 
 - d. weitere vom Regierungsrat bezeichnete Ausnahmen.
@@ -638,19 +670,17 @@ Der Regierungsrat erlässt die Vorschriften zum Vollzug der Bundesgesetzgebung �
 
 <sup>1</sup> Kanton und Gemeinden sorgen dafür, dass die Schülerinnen und Schüler der Volks-, Mittel- und Berufsschulen dazu angeleitet werden, ihre Gesundheit zu fördern und Erkrankungen zu verhüten.
 
-**15**
-
-- 1\. 4. 20 - 108
-
 <sup>2</sup> Der Kanton sorgt für die entsprechende Aus- und Weiterbildung der Lehrkräfte und stellt entsprechende Lehrmittel bereit.
 
 **Gesundheit während der Schulpflicht a. Im Allgemeinen**
 
 § 50.<sup>26</sup> <sup>1</sup> Schulen, an denen die Schulpflicht erfüllt werden kann, ergreifen Massnahmen zur Prävention und ärztlichen Überwachung ihrer schulpflichtigen Schülerinnen und Schüler.
 
-<sup>2</sup> Sie sorgen für die Beratung in Impffragen und die Erfüllung der Aufgaben nach Art. 21 Abs. 1 des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)<sup>9</sup>. Der Regierungsrat bezeichnet die Impfungen, die nach Art. 21 Abs. 2 EpG kostenlos angeboten werden.
+<sup>2</sup> Sie sorgen für die Beratung in Impffragen und die Erfüllung der Aufgaben nach Art. 21 Abs. 1 des Bundesgesetzes vom 28. September 2012 über die Bekämpfung übertragbarer Krankheiten des Menschen (Epidemiengesetz, EpG)[^49-1]. Der Regierungsrat bezeichnet die Impfungen, die nach Art. 21 Abs. 2 EpG kostenlos angeboten werden.
 
 <sup>3</sup> Sie bezeichnen eine Schulärztin oder einen Schularzt. Diese oder dieser unterstützt die Schulen bei der Erfüllung der Aufgaben nach Abs. 1 und 2 sowie § 54 b. Die freie Arztwahl ist gewährleistet.
+
+[^49-1]: SR 818.101.
 
 #### § 51
 
@@ -694,9 +724,11 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>2</sup> Die Gemeinden wirken bei der Verhütung und Bekämpfung übertragbarer Krankheiten mit.
 
-**Massnahmen in Institutionen**
+**17**
 
-§ 54 b.<sup>25</sup> <sup>1</sup> Schulen, an denen die Schulpflicht erfüllt werden kann, und Institutionen, die Personen mit einem erhöhten Ansteckungs- oder Übertragungsrisiko ausbilden, betreuen oder beschäftigen, erfüllen folgende Pflichten:
+- 1\. 4. 21 - 112 § 54 b.<sup>25</sup> <sup>1</sup> Schulen, an denen die Schulpflicht erfüllt werden kann, und Institutionen, die Personen mit einem erhöhten Ansteckungs- oder Übertragungsrisiko ausbilden, betreuen oder beschäftigen, erfüllen folgende Pflichten:
+
+**Massnahmen in Institutionen**
 
 - a. Sie treffen Massnahmen zur Verhütung übertragbarer Krankheiten. Der Regierungsrat legt diese Massnahmen fest. Die Direktion kann Weisungen erteilen.
 
@@ -712,11 +744,9 @@ Die Direktion und die Gemeinden können gemeinnützige Institutionen bis zu 100 
 
 <sup>2</sup> Der Kanton trägt die Kosten für angeordnete Untersuchungen, soweit sie nicht anderweitig gedeckt sind.
 
-**17**
-
-- 1\. 4. 20 - 108 § 54 d.<sup>25</sup> <sup>1</sup> Die Direktion kann Institutionen des Gesundheitswesens zur Mitwirkung bei Vorbereitungsmassnahmen nach Art. 8 EpG verpflichten.
-
 **Mitwirkungspflichten von Gesundheitsfachpersonen und -institutionen**
+
+§ 54 d.<sup>25</sup> <sup>1</sup> Die Direktion kann Institutionen des Gesundheitswesens zur Mitwirkung bei Vorbereitungsmassnahmen nach Art. 8 EpG verpflichten.
 
 <sup>2</sup> Liegt eine besondere Lage nach Art. 6 EpG oder ein Notfall vor, kann die Direktion eine Mitwirkungspflicht bei der Verhütung oder Bekämpfung übertragbarer Krankheiten festlegen für a. Gesundheitsfachpersonen,
 
@@ -778,6 +808,10 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 - b. besondere Vorschriften über die Berufsbildung im Bereich des Gesundheitswesens und die Gesundheitspflege an den Schulen.
 
+**19**
+
+- 1\. 4. 21 - 112
+
 <sup>2</sup> Die Direktion ist befugt:
 
 - a. bei Personen und Institutionen, die eine Heiltätigkeit auskünden oder ausüben, jederzeit unangemeldet Kontrollen und Inspektionen durchzuführen,
@@ -800,10 +834,6 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 <sup>4</sup> Die Direktion kann Gemeinden, die eigene amtsärztliche Dienste unterhalten, einzelnen Spitälern oder dem Institut für Rechtsmedizin der Universität Zürich Aufgaben nach Abs. 2 übertragen.
 
-**19**
-
-- 1\. 4. 20 - 108
-
 <sup>5</sup> Sie kann Bezirkszahnärztinnen und Bezirkszahnärzte und Bezirkstierärztinnen und Bezirkstierärzte sowie deren Stellvertretungen ernennen. Abs. 2 lit. b und c, Abs. 3 und 4 gelten sinngemäss.
 
 **Entzug der aufschiebenden Wirkung**
@@ -822,7 +852,7 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 - c. eine nach diesem Gesetz bewilligungsfreie Heiltätigkeit ausübt und dies unsachlich oder in einer Weise bekannt macht, die zu Täuschungen Anlass gibt,
 
-- d. eine befristete selbstständige Tätigkeit im Sinne von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit<sup>12</sup> ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 aufnimmt,
+- d. eine befristete selbstständige Tätigkeit im Sinne von Art. 5 des bilateralen Abkommens vom 21. Juni 1999 über die Freizügigkeit[^61-1] ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 aufnimmt,
 
 - e. als Inhaberin oder Inhaber einer ausserkantonalen Berufsausübungsbewilligung ohne vorgängige Anzeige bei der Direktion oder vor der Mitteilung durch die Direktion gemäss § 9 Abs. 3 die selbstständige Tätigkeit aufnimmt,
 
@@ -842,6 +872,10 @@ Die Gemeinden stellen auf den Friedhöfen genügend Grabplätze für Erd- und Ur
 
 m.<sup>25</sup> eine gestützt auf § 54 Abs. 2 obligatorisch erklärte Impfung verweigert, n.<sup>25</sup> Melde- oder Mitwirkungspflichten nach § 54 b Abs. 1 oder § 54 d verletzt.
 
+**21**
+
+- 1\. 4. 21 - 112
+
 <sup>2</sup> Wer gewerbsmässig oder gewinnsüchtig handelt, wird mit Busse bis Fr. 500 000 bestraft.
 
 <sup>3</sup> Wer fahrlässig handelt, wird mit Busse bis Fr. 5000 bestraft.
@@ -851,6 +885,8 @@ m.<sup>25</sup> eine gestützt auf § 54 Abs. 2 obligatorisch erklärte Impfung 
 <sup>5</sup> In besonders leichten Fällen kann auf Bestrafung verzichtet werden.
 
 <sup>6</sup> Der Regierungsrat ist berechtigt, Verstösse gegen das Ausführungsrecht zum Gesundheitsgesetz unter Strafe zu stellen. Als Sanktion kann Busse bis Fr. 10 000 vorgesehen werden.
+
+[^61-1]: SR 0.142.112.681.
 
 ### 3. Abschnitt: Übergangsbestimmungen
 
@@ -866,10 +902,6 @@ Bewilligungen, die gestützt auf bisheriges Recht erteilt wurden, bleiben in Kra
 
 Tabakautomaten, die der Regelung von § 48 Abs. 5 widersprechen, sind spätestens ein Jahr nach Inkrafttreten dieses Gesetzes ausser Betrieb zu setzen.
 
-**21**
-
-- 1\. 4. 20 - 108
-
 ### 4. Abschnitt: Aufhebung bisherigen Rechts und Übergangsrecht
 
 **Aufhebung**
@@ -882,11 +914,13 @@ Tabakautomaten, die der Regelung von § 48 Abs. 5 widersprechen, sind spätesten
 
 Bis zur Schaffung eidgenössisch anerkannter Diplome der Komplementärmedizin kann der Regierungsrat die Bewilligungspflicht nach diesem Gesetz auf Personen ausdehnen, die unter einem von ihm anerkannten, von einem gesamtschweizerischen Berufsverband ausgestellten Diplom mit Qualifikation für Homöopathie, Traditionelle Chinesische Medizin (TCM), Phytotherapie oder Osteopathie tätig werden.
 
+[^65-1]: SR 811.11.
+
 #### § 66
 
 **Medizinalberufe nach Bundesrecht a. Im Allgemeinen**
 
-Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberufe (MedBG)<sup>7</sup> gelten an Stelle von § 25 dieses Gesetzes die nachstehenden Zulassungsregeln.
+Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberufe (MedBG)[^65-1] gelten an Stelle von § 25 dieses Gesetzes die nachstehenden Zulassungsregeln.
 
 #### § 67
 
@@ -926,6 +960,10 @@ Bis zum Inkrafttreten des Bundesgesetzes über die universitären Medizinalberuf
 
 - 1\. Professorinnen und Professoren der Universität Zürich mit einem Lehrauftrag für klinische Fächer im Rahmen ihrer Anstellung,
 
+**23**
+
+- 1\. 4. 21 - 112
+
 - 2\. im Grenzgebiet zu anderen Kantonen und zum Ausland praxisberechtigte Tierärztinnen und Tierärzte mit eidgenössischem oder eidgenössisch anerkanntem ausländischem Diplom für die gelegentliche Berufstätigkeit, die sie von ihrem Praxisstandort aus im Grenzgebiet des Kantons Zürich ausüben.
 
 <sup>3</sup> Für die Tierärztinnen und Tierärzte gelten § 15 Abs. 1, 2, 3 lit. a und 4 sowie die §§ 20–22 nicht. Wo die allgemeinen Bestimmungen dieses Gesetzes gelten, werden sie auf Tierärztinnen und Tierärzte sinngemäss angewendet.
@@ -944,35 +982,7 @@ Die Bewilligung zur selbstständigen chiropraktorischen Tätigkeit setzt in fach
 
 - 1\. über ein von der Schweizerischen Gesundheitsdirektorenkonferenz ausgestelltes oder ein von ihr anerkanntes ausländisches Diplom verfügt und
 
-**23**
-
-- 1\. 4. 20 - 108
-
-- 2\. die Weiterbildung nachweist, die gemäss Bundesgesetz über die Krankenversicherung<sup>10</sup> erforderlich ist, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen zu können.
-
-<sup>1</sup> OS 63, 204. Inkrafttreten: 1. Juli 2008 (OS 63, 224).
-
-<sup>2</sup> ABl 2005, 121.
-
-<sup>3</sup> LS 175.2.
-
-<sup>4</sup> LS 413.31.
-
-<sup>5</sup> LS 813.13.
-
-<sup>6</sup> SR 312.0.
-
-<sup>7</sup> SR 811.11.
-
-<sup>8</sup> SR 812.21.
-
-<sup>9</sup> SR 818.101.
-
-<sup>10</sup> SR 832.10.
-
-<sup>11</sup> SR 935.81.
-
-<sup>12</sup> SR 0.142.112.681.
+- 2\. die Weiterbildung nachweist, die gemäss Bundesgesetz über die Krankenversicherung[^71-1] erforderlich ist, um Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen zu können.
 
 <sup>13</sup> Fassung gemäss Pflegegesetz vom 27. September 2010 (OS 65, 613; ABl 2010, 918). In Kraft seit 1. Januar 2011.
 
@@ -1002,6 +1012,12 @@ Die Bewilligung zur selbstständigen chiropraktorischen Tätigkeit setzt in fach
 
 <sup>26</sup> Fassung gemäss G vom 29. Oktober 2018 (OS 75, 187; ABl 2017-02-03). In Kraft seit 1. März 2020.
 
+<sup>27</sup> Eingefügt durch G vom 21. September 2020 (OS 76, 47; ABl 2018-12-21). In Kraft seit 1. März 2021.
+
+<sup>28</sup> Fassung gemäss G vom 21. September 2020 (OS 76, 47; ABl 2018-12-21). In Kraft seit 1. März 2021.
+
 **25**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
+
+[^71-1]: SR 832.10.
