@@ -4,13 +4,13 @@ number: "813.133"
 title: Ordonnance sur la Commission cantonale de promotion de la santé et de lutte contre les dépendances
 short: OCPSD
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-11-18
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2007-09-19
 in_force: 2008-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/813.133"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2080/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2126/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2080/pdf_file"
 
 (OCPSD)
 
-du 19.09.2007 (état au 01.01.2021)
+du 19.09.2007 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -38,7 +38,7 @@ arrête:
 
 **But**
 
-<sup>1</sup> La Commission cantonale de promotion de la santé et de lutte contre les dépendances est un organe consultatif de la Direction de la santé, des affaires sociales et de l'intégration.
+<sup>1</sup> La Commission cantonale de promotion de la santé et de lutte contre les dépendances est un organe consultatif de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Elle s’occupe des questions de promotion de la santé, de prévention des dépendances et d’aide en cas d'addiction.
 
@@ -50,10 +50,10 @@ arrête:
 
 - a un représentant ou une représentante des partenaires de l’aide en cas d’addiction dans chacun des cinq domaines de prestations que sont la consultation et la thérapie, la sociothérapie, la substitution, la réduction des risques ainsi que le logement et le travail,
 - b un représentant ou une représentante de chacune des plateformes régionales,
-- c respectivement un représentant ou une représentante de la Direction de l’intérieur et de la justice, de la Direction de l’instruction publique et de la culture et de la Direction de la sécurité,
+- c respectivement un représentant ou une représentante de la Direction de l’instruction publique et de la culture, de la Direction de l’intérieur et de la justice et de la Direction de la sécurité,
 - d un représentant ou une représentante des partenaires de la médecine de l’addiction,
 - e un représentant ou une représentante des partenaires de la psychiatrie,
-- f un représentant ou une représentante des partenaires de la promotion de la santé et de la prévention,
+- f des représentants et représentantes de l’Office de l’intégration et de l’action sociale,
 - g des représentants et représentantes de la Direction de la santé, des affaires sociales et de l’intégration,
 - h d’autres membres.
 
@@ -63,7 +63,7 @@ arrête:
 
 **Nomination et constitution**
 
-<sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de la Commission sur proposition de la Direction de la santé, des affaires sociales et de l’intégration. Cette dernière nomme les autres membres.
+<sup>1</sup> Le Conseil-exécutif nomme, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration, les membres de la Commission pour un mandat de quatre ans.
 
 <sup>2</sup> La vice-présidence peut être exercée conjointement par deux personnes. Par ailleurs, la Commission se constitue elle-même.
 
@@ -77,7 +77,7 @@ arrête:
 
 <sup>2</sup> Les affaires urgentes et celles qui ne revêtent pas d’importance majeure peuvent être réglées par voie de circulation.
 
-<sup>3</sup> La Direction de la santé, des affaires sociales et de l'intégration peut en tout temps demander que la Commission se réunisse.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration peut en tout temps demander que la Commission se réunisse.
 
 #### Art. 5
 
@@ -105,7 +105,7 @@ arrête:
 
 **Secrétariat, procès-verbal**
 
-<sup>1</sup> Le secrétariat de la Commission et des groupes de travail est tenu par la Direction de la santé, des affaires sociales et de l'intégration.
+<sup>1</sup> Le secrétariat de la Commission et des groupes de travail est tenu par la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Un procès-verbal est rédigé pour chaque séance de la Commission et des groupes de travail.
 
@@ -119,7 +119,7 @@ arrête:
 
 **Indemnités**
 
-<sup>1</sup> L'indemnisation des membres de la Commission est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales[^10-1].
+<sup>1</sup> L'indemnisation des membres de la Commission est régie par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales[^10-1], sous réserve de l'alinéa 2.
 
 <sup>2</sup> …
 
@@ -137,17 +137,17 @@ arrête:
 
 - a conseille le Conseil-exécutif et l’administration cantonale sur les questions de promotion de la santé et de lutte contre les dépendances,
 - b prend position au sujet des questions spécifiques, des stratégies et des projets, ainsi que des actes législatifs et des interventions parlementaires traitant de la promotion de la santé et de la lutte contre les dépendances;
-- c se prononce sur d’autres dossiers que lui soumet la Direction de la santé, des affaires sociales et de l'intégration,
-- d peut demander à la Direction de la santé, des affaires sociales et de l'intégration d’étudier, de mettre en œuvre et de coordonner des mesures de promotion de la santé, de prévention, de conseil, de thérapie, de répression et de réduction des risques,
+- c se prononce sur d’autres dossiers que lui soumet la Direction de la santé, des affaires sociales et de l’intégration,
+- d peut demander à la Direction de la santé, des affaires sociales et de l’intégration d’étudier, de mettre en œuvre et de coordonner des mesures de promotion de la santé, de prévention, de conseil, de thérapie, de répression et de réduction des risques,
 - e s’exprime au sujet des mesures de pilotage et de régulation de l’offre,
-- f peut émettre des recommandations à l’intention de la Direction de la santé, des affaires sociales et de l'intégration ainsi que du Conseil-exécutif,
-- g évalue les besoins et valide le programme d’aide en cas d'addiction prévu par la Direction de la santé, des affaires sociales et de l'intégration.
+- f peut émettre des recommandations à l’intention de la Direction de la santé, des affaires sociales et de l’intégration ainsi que du Conseil-exécutif,
+- g évalue les besoins et valide le programme d’aide aux personnes dépendantes prévu par la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 12
 
 **Relations avec les autorités**
 
-<sup>1</sup> Les relations avec d’autres autorités sont réservées à la Direction de la santé, des affaires sociales et de l'intégration qui peut, de cas en cas, transférer cette compétence à la Commission.
+<sup>1</sup> Les relations avec d’autres autorités sont réservées à la Direction de la santé, des affaires sociales et de l’intégration qui peut, de cas en cas, transférer cette compétence à la Commission.
 
 ## 3 Dispositions finales
 
