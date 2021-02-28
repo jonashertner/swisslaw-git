@@ -4,13 +4,13 @@ number: "815.21"
 title: Einführungsgesetz zur eidgenössischen Krebsregistrierungsgesetzgebung
 short: EG KRG
 language: de
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-09-06
+version: 2021-03-01
+valid_until: 2026-08-31
+version_adopted: 2020-12-16
 adopted: 2018-09-06
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1632/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2127/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1632/pdf_file"
 
 (EG KRG)
 
-vom 06.09.2018 (Stand 01.01.2020)
+vom 06.09.2018 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -54,13 +54,13 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bewilligt die Ausgaben für die Abgeltung der Leistungen der kantonalen Krebsregistrierungsstelle abschliessend.
 
-<sup>3</sup> Die Modalitäten der Leistungserbringung und deren Abgeltung werden in einem Leistungsvertrag zwischen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion und der kantonalen Krebsregistrierungsstelle festgelegt.
+<sup>3</sup> Die Modalitäten der Leistungserbringung und deren Abgeltung werden in einem Leistungsvertrag zwischen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion und der kantonalen Krebsregistrierungsstelle festgelegt.
 
 #### Art. 4
 
 **Aufsicht über die kantonale Krebsregistrierungsstelle**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion beaufsichtigt die kantonale Krebsregistrierungsstelle.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion beaufsichtigt die kantonale Krebsregistrierungsstelle.
 
 <sup>2</sup> Sie kann ihr Weisungen und Aufträge erteilen.
 

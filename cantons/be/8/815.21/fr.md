@@ -4,13 +4,13 @@ number: "815.21"
 title: "Loi portant introduction de la législation fédérale sur l'enregistrement des maladies oncologiques"
 short: LiLEMO
 language: fr
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-09-06
+version: 2021-03-01
+valid_until: 2026-08-31
+version_adopted: 2020-12-16
 adopted: 2018-09-06
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1632/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2127/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1632/pdf_file"
 
 (LiLEMO)
 
-du 06.09.2018 (état au 01.01.2020)
+du 06.09.2018 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -54,13 +54,13 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif est seul compétent pour autoriser les dépenses liées à la rémunération des prestations fournies par l'organe cantonal d'enregistrement du cancer.
 
-<sup>3</sup> Les modalités de la fourniture et de la rémunération des prestations sont définies dans un contrat conclu entre le service compétent de la Direction de la santé publique et de la prévoyance sociale et l'organe cantonal d'enregistrement du cancer.
+<sup>3</sup> Les modalités de la fourniture et de la rémunération des prestations sont définies dans un contrat conclu entre le service compétent de la Direction de la santé, des affaires sociales et de l’intégration et l'organe cantonal d'enregistrement du cancer.
 
 #### Art. 4
 
 **Surveillance de l'organe cantonal d'enregistrement du cancer**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale surveille l'organe cantonal d'enregistrement du cancer.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration surveille l'organe cantonal d'enregistrement du cancer.
 
 <sup>2</sup> Il peut lui donner des directives et lui confier des mandats.
 
