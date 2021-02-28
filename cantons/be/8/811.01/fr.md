@@ -4,13 +4,13 @@ number: "811.01"
 title: "Loi sur la santé publique *"
 short: LSP
 language: fr
-version: 2018-12-01
-valid_until: 2021-02-28
-version_adopted: 2018-01-23
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1549/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2121/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1549/pdf_file"
 
 (LSP)
 
-du 02.12.1984 (état au 01.12.2018)
+du 02.12.1984 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -115,13 +115,13 @@ arrête:
 
 #### Art. 8
 
-**2 Direction de la santé publique et de la prévoyance sociale**
+**2 Direction de la santé, des affaires sociales et de l’intégration**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale applique la présente loi dans tous les domaines où aucune autre autorité ou institution n'est déclarée compétente.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration applique la présente loi dans tous les domaines où aucune autre autorité ou institution n'est déclarée compétente.
 
 <sup>2</sup> Elle est compétente pour délier une personne du secret professionnel au sens de l'article 321, chiffre 2 du Code pénal suisse[^8-1].
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale accorde et retire les autorisations prévues par la présente loi.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration accorde et retire les autorisations prévues par la présente loi.
 
 <sup>4</sup> …
 
@@ -131,7 +131,7 @@ arrête:
 
 **3 Collège de santé; commissions spéciales**
 
-<sup>1</sup> Le Collège de santé assiste le Conseil-exécutif, les directions compétentes ainsi que les autorités de police et les autorités judiciaires dans les domaines spécialisés régis par la présente loi. Les membres en sont nommés par le Conseil-exécutif sur proposition de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Le Collège de santé assiste le Conseil-exécutif, les Directions compétentes ainsi que les autorités de police et les autorités judiciaires dans les domaines spécialisés régis par la présente loi. Les membres en sont nommés par le Conseil-exécutif sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Le Conseil-exécutif est autorisé à constituer d'autres commissions pour l'étude de questions spécifiques dans le domaine de la santé publique.
 
@@ -141,11 +141,11 @@ arrête:
 
 **4 Planification de la santé publique, évaluation**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale procède à la planification de la santé publique, puis à l'évaluation des expériences faites.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration procède à la planification de la santé publique, puis à l'évaluation des expériences faites.
 
 <sup>2</sup> Les principes de la planification de la santé publique sont soumis à l'approbation du Grand Conseil.
 
-<sup>3</sup> Les institutions de la santé publique qui bénéficient du soutien financier des pouvoirs publics se doivent de mettre à la disposition de la Direction de la santé publique et de la prévoyance sociale , tout en garantissant la protection de la personnalité, les informations qui sont nécessaires à la planification et à l'évaluation. Lorsque les institutions non subventionnées fournissent spontanément les informations nécessaires, elles peuvent recevoir une indemnité appropriée pour le travail effectué.
+<sup>3</sup> Les institutions de la santé publique qui bénéficient du soutien financier des pouvoirs publics se doivent de mettre à la disposition de la Direction de la santé, des affaires sociales et de l’intégration , tout en garantissant la protection de la personnalité, les informations qui sont nécessaires à la planification et à l'évaluation. Lorsque les institutions non subventionnées fournissent spontanément les informations nécessaires, elles peuvent recevoir une indemnité appropriée pour le travail effectué.
 
 #### Art. 11
 
@@ -193,7 +193,7 @@ arrête:
 
 **Autorisation d'exercer 1 Principe**
 
-<sup>1</sup> Celui ou celle qui exerce une activité sanitaire soumise à des exigences particulières pour assurer la qualité des soins médicaux doit requérir l'autorisation au service compétent de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Celui ou celle qui exerce une activité sanitaire soumise à des exigences particulières pour assurer la qualité des soins médicaux doit requérir l'autorisation au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Le Conseil-exécutif désigne les activités ou professions qui requièrent une autorisation.
 
@@ -237,7 +237,7 @@ arrête:
 
 **Autorisation d'exploiter 1 Principe**
 
-<sup>1</sup> Les entreprises exerçant des activités soumises à autorisation doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé publique et de la prévoyance sociale dès lors que les locaux et les équipements ou les prestations qu’elles proposent requièrent un contrôle du canton visant à protéger la santé.
+<sup>1</sup> Les entreprises exerçant des activités soumises à autorisation doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé, des affaires sociales et de l’intégration dès lors que les locaux et les équipements ou les prestations qu’elles proposent requièrent un contrôle du canton visant à protéger la santé.
 
 <sup>2</sup> Le Conseil-exécutif désigne les entreprises qui sont soumises à autorisation et réglemente les contrôles de qualité.
 
@@ -266,19 +266,19 @@ arrête:
 
 **Mesures administratives 1 Retrait de l’autorisation**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale retire une autorisation d’exercer ou d’exploiter si les conditions requises pour son octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration retire une autorisation d’exercer ou d’exploiter si les conditions requises pour son octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
 
 #### Art. 17a
 
 **2 Mesures disciplinaires**
 
-<sup>1</sup> En cas de violation des devoirs professionnels ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exercer les mesures disciplinaires prévues à l’article 43 LPMéd.
+<sup>1</sup> En cas de violation des devoirs professionnels ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exercer les mesures disciplinaires prévues à l’article 43 LPMéd.
 
 #### Art. 17b
 
 **3 Mesures à l’encontre des titulaires d’une autorisation d’exploiter**
 
-<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exploiter les mesures suivantes:
+<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise ou d’autres prescriptions de santé publique, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exploiter les mesures suivantes:
 
 - a un avertissement,
 - b un blâme,
@@ -290,7 +290,7 @@ arrête:
 
 **4 Obligation d’informer**
 
-<sup>1</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé publique et de la prévoyance sociale les faits susceptibles de constituer une violation du devoir de diligence lié à la profession ou à l’entreprise.
+<sup>1</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les faits susceptibles de constituer une violation du devoir de diligence lié à la profession ou à l’entreprise.
 
 #### Art. 18
 
@@ -316,19 +316,19 @@ arrête:
 
 **2 Mesures de l'autorité de surveillance**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut interdire ou restreindre le libre exercice d'une activité sanitaire si elle met en danger la santé des personnes traitées ou y porte atteinte.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut interdire ou restreindre le libre exercice d'une activité sanitaire si elle met en danger la santé des personnes traitées ou y porte atteinte.
 
-<sup>2</sup> Lorsqu'il existe une présomption sérieuse qu'une activité mette la santé en danger, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut exiger la preuve de son caractère inoffensif. A titre préventif, il peut en interdire l'exercice si cela s'avère nécessaire pour protéger les personnes traitées.
+<sup>2</sup> Lorsqu'il existe une présomption sérieuse qu'une activité mette la santé en danger, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut exiger la preuve de son caractère inoffensif. A titre préventif, il peut en interdire l'exercice si cela s'avère nécessaire pour protéger les personnes traitées.
 
 #### Art. 20
 
 **Communications, publication**
 
-<sup>1</sup> Les professionnels de la santé dont l'activité requiert une autorisation communiquent au service compétent de la Direction de la santé publique et de la prévoyance sociale l'adresse de leur cabinet et l'arrêt définitif de leur activité.
+<sup>1</sup> Les professionnels de la santé dont l'activité requiert une autorisation communiquent au service compétent de la Direction de la santé, des affaires sociales et de l’intégration l'adresse de leur cabinet et l'arrêt définitif de leur activité.
 
-<sup>2</sup> Les titulaires d'une autorisation d'exercer ou d'exploiter sont inscrits dans un registre officiel tenu par le service compétent de la Direction de la santé publique et de la prévoyance sociale, dont la consultation est gratuite.
+<sup>2</sup> Les titulaires d'une autorisation d'exercer ou d'exploiter sont inscrits dans un registre officiel tenu par le service compétent de la Direction de la santé, des affaires sociales et de l’intégration, dont la consultation est gratuite.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale peut rendre public le registre au sens de l’alinéa 2 au moyen d’une procédure d’appel sur Internet.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration peut rendre public le registre au sens de l’alinéa 2 au moyen d’une procédure d’appel sur Internet.
 
 <sup>4</sup> Le retrait d'une autorisation d'exercer ou d'exploiter de même que l'interdiction d'exercer une activité sanitaire font l'objet d'une publication officielle si l'intérêt public le justifie.[^20-1]
 
@@ -372,7 +372,7 @@ arrête:
 
 <sup>2</sup> Ils peuvent se faire remplacer uniquement par des personnes titulaires d'une autorisation d'exercer la même activité.
 
-<sup>3</sup> En cas de maladie, de vacances ou d'empêchement momentané, ils peuvent, avec l'accord du service compétent de la Direction de la santé publique et de la prévoyance sociale, être remplacés par une personne non titulaire de l'autorisation d'exercer, pour autant qu'elle possède les qualifications professionnelles requises.
+<sup>3</sup> En cas de maladie, de vacances ou d'empêchement momentané, ils peuvent, avec l'accord du service compétent de la Direction de la santé, des affaires sociales et de l’intégration, être remplacés par une personne non titulaire de l'autorisation d'exercer, pour autant qu'elle possède les qualifications professionnelles requises.
 
 #### Art. 26
 
@@ -386,7 +386,7 @@ arrête:
 
 <sup>4</sup> Les professionnels de la santé peuvent se dégager de leur obligation moyennant l'accord écrit de leurs patients et patientes en leur remettant leurs dossiers ou en les transmettant au professionnel ou à la professionnelle de la santé assurant la continuation du traitement.
 
-<sup>5</sup> Si des professionnels de la santé manquent à leur obligation de conserver les documents, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut ordonner à leurs frais une exécution par substitution.
+<sup>5</sup> Si des professionnels de la santé manquent à leur obligation de conserver les documents, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut ordonner à leurs frais une exécution par substitution.
 
 #### Art. 27
 
@@ -394,7 +394,7 @@ arrête:
 
 <sup>1</sup> Les professionnels de la santé sont tenus de garder secrets tous les faits que leur communiquent leurs patients et patientes dans le cadre de leur traitement et toutes les observations dont ils prennent note.
 
-<sup>2</sup> lls sont libérés de leur devoir de discrétion lorsque le patient ou la patiente ou le service compétent de la Direction de la santé publique et de la prévoyance sociale les autorisent à donner des renseignements ou lorsqu'une disposition légale prévoit un droit ou une obligation d'informer.
+<sup>2</sup> lls sont libérés de leur devoir de discrétion lorsque le patient ou la patiente ou le service compétent de la Direction de la santé, des affaires sociales et de l’intégration les autorisent à donner des renseignements ou lorsqu'une disposition légale prévoit un droit ou une obligation d'informer.
 
 #### Art. 28
 
@@ -427,7 +427,7 @@ arrête:
 
 <sup>2</sup> Dans les localités comptant au moins deux pharmacies publiques, celles-ci sont tenues d'assurer une permanence pour l'approvisionnement en médicaments.
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale doit être informé de l'organisation du service des urgences. Il la règle lui-même si elle n'est pas assurée par une personne ou une association désignée à cet effet et tranche les différends y relatifs.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration doit être informé de l'organisation du service des urgences. Il la règle lui-même si elle n'est pas assurée par une personne ou une association désignée à cet effet et tranche les différends y relatifs.
 
 #### Art. 30b
 
@@ -453,7 +453,7 @@ arrête:
 
 **2 Pharmacies privées**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale autorise à tenir une pharmacie privée
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration autorise à tenir une pharmacie privée
 
 - a les médecins exerçant dans des localités où la dispensation de médicaments en urgence n'est pas assurée par au moins deux pharmacies publiques;
 - b les institutions de santé publique, dans la mesure où leur activité le requiert et pour autant qu'un pharmacien, une pharmacienne ou un médecin titulaire d'une autorisation d'exercer en assume la responsabilité.
@@ -464,7 +464,7 @@ arrête:
 
 **3 Stocks de médicaments**
 
-<sup>1</sup> Les professionnels de la santé doivent conserver leurs stocks conformément aux règles de l'art. Le service compétent de la Direction de la santé publique et de la prévoyance sociale en contrôle périodiquement le respect par sondage.
+<sup>1</sup> Les professionnels de la santé doivent conserver leurs stocks conformément aux règles de l'art. Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration en contrôle périodiquement le respect par sondage.
 
 #### Art. 34
 
@@ -489,7 +489,7 @@ arrête:
 
 <sup>2</sup> Il est possible d'effectuer le prélèvement d'un organe pour garantir le diagnostic si les personnes directement concernées n'en ont pas décidé autrement.
 
-<sup>3</sup> Les dispositions de la procédure pénale et les mesures spécifiques du service compétent de la Direction de la santé publique et de la prévoyance sociale destinées à garantir le diagnostic sont réservées.
+<sup>3</sup> Les dispositions de la procédure pénale et les mesures spécifiques du service compétent de la Direction de la santé, des affaires sociales et de l’intégration destinées à garantir le diagnostic sont réservées.
 
 #### Art. 35a
 
@@ -521,7 +521,7 @@ arrête:
 
 **Dispositions d'exécution**
 
-<sup>1</sup> Le Conseil-exécutif édicte par voie d'ordonnance des dispositions d'exécution sur les droits et les devoirs des professionnels de la santé. Il peut déléguer l'édiction et l'exécution des dispositions d'exécution concernant l'exercice de la profession ainsi que la formation postgrade à des institutions intercantonales, à des personnes ou organisations privées ou à la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Le Conseil-exécutif édicte par voie d'ordonnance des dispositions d'exécution sur les droits et les devoirs des professionnels de la santé. Il peut déléguer l'édiction et l'exécution des dispositions d'exécution concernant l'exercice de la profession ainsi que la formation postgrade à des institutions intercantonales, à des personnes ou organisations privées ou à la Direction de la santé, des affaires sociales et de l’intégration.
 
 ### 2.3
 
@@ -654,13 +654,13 @@ arrête:
 
 **4 Information**
 
-<sup>1</sup> Les tribunaux communiquent au service compétent de la Direction de la santé publique et de la prévoyance sociale les jugements entrés en force concernant des violations d'obligations commises par des professionnels de la santé.
+<sup>1</sup> Les tribunaux communiquent au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les jugements entrés en force concernant des violations d'obligations commises par des professionnels de la santé.
 
 #### Art. 50
 
 **Confiscation; déchéance d'avantages pécuniaires acquis de manière illicite**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale est autorisé à ordonner la confiscation administrative d'installations ou d'objets servant ou ayant servi à une activité illicite.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration est autorisé à ordonner la confiscation administrative d'installations ou d'objets servant ou ayant servi à une activité illicite.
 
 <sup>2</sup> Les avantages pécuniaires qui sont le produit d'une infraction à la présente loi ou aux dispositions d'exécution et décisions s'y rapportant sont acquis à l'Etat de Berne, quel que soit le caractère répréhensible de l'infraction.
 

@@ -4,13 +4,13 @@ number: "811.01"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2018-12-01
-valid_until: 2021-02-28
-version_adopted: 2018-01-23
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1549/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2121/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1549/pdf_file"
 
 (GesG)
 
-vom 02.12.1984 (Stand 01.12.2018)
+vom 02.12.1984 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -115,13 +115,13 @@ beschliesst:
 
 #### Art. 8
 
-**2 Gesundheits- und Fürsorgedirektion**
+**2 Gesundheits-, Sozial- und Integrationsdirektion**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion vollzieht dieses Gesetz, soweit hierfür nicht andere Behörden oder Institutionen als zuständig bezeichnet sind.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion vollzieht dieses Gesetz, soweit hierfür nicht andere Behörden oder Institutionen als zuständig bezeichnet sind.
 
 <sup>2</sup> Sie entscheidet über die Befreiung vom Berufsgeheimnis im Sinne von Artikel 321 Ziffer 2 des Schweizerischen Strafgesetzbuches[^8-1].
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion erteilt und entzieht die in diesem Gesetz vorgesehenen Bewilligungen.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erteilt und entzieht die in diesem Gesetz vorgesehenen Bewilligungen.
 
 <sup>4</sup> …
 
@@ -131,7 +131,7 @@ beschliesst:
 
 **3 Sanitätskollegium; besondere Kommissionen**
 
-<sup>1</sup> Das Sanitätskollegium berät den Regierungsrat, die zuständigen Direktionen sowie die Polizei- und Gerichtsbehörden in Fachfragen im Rahmen dieses Gesetzes. Die Mitglieder werden auf Antrag der Gesundheits- und Fürsorgedirektion vom Regierungsrat gewählt.
+<sup>1</sup> Das Sanitätskollegium berät den Regierungsrat, die zuständigen Direktionen sowie die Polizei- und Gerichtsbehörden in Fachfragen im Rahmen dieses Gesetzes. Die Mitglieder werden auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion vom Regierungsrat gewählt.
 
 <sup>2</sup> Der Regierungsrat ist ermächtigt, für besondere Fragen des Gesundheitswesens weitere Kommissionen einzusetzen.
 
@@ -141,11 +141,11 @@ beschliesst:
 
 **4 Gesundheitsplanung und Auswertung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion erstellt eine Gesundheitsplanung und wertet damit gemachte Erfahrungen aus.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erstellt eine Gesundheitsplanung und wertet damit gemachte Erfahrungen aus.
 
 <sup>2</sup> Die Genehmigung der Grundsätze der Gesundheitsplanung erfolgt durch den Grossen Rat.
 
-<sup>3</sup> Die durch öffentliche Gelder unterstützten Institutionen des Gesundheitswesens haben der Gesundheits- und Fürsorgedirektion unter Wahrung des Persönlichkeitsschutzes jene Angaben zur Verfügung zu stellen, welche zur Planung und Auswertung erforderlich sind. Liefern nicht unterstützte Institutionen entsprechende Unterlagen freiwillig, so kann ihnen der daraus entstehende Aufwand angemessen entschädigt werden.
+<sup>3</sup> Die durch öffentliche Gelder unterstützten Institutionen des Gesundheitswesens haben der Gesundheits-, Sozial- und Integrationsdirektion unter Wahrung des Persönlichkeitsschutzes jene Angaben zur Verfügung zu stellen, welche zur Planung und Auswertung erforderlich sind. Liefern nicht unterstützte Institutionen entsprechende Unterlagen freiwillig, so kann ihnen der daraus entstehende Aufwand angemessen entschädigt werden.
 
 #### Art. 11
 
@@ -193,7 +193,7 @@ beschliesst:
 
 **Berufsausübungsbewilligung 1 Grundsatz**
 
-<sup>1</sup> Wer eine Tätigkeit des Gesundheitswesens ausübt, für die aus Gründen der Qualitätssicherung für den Gesundheitsschutz erhöhte Anforderungen gestellt werden müssen, benötigt eine Berufsausübungsbewilligung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion.
+<sup>1</sup> Wer eine Tätigkeit des Gesundheitswesens ausübt, für die aus Gründen der Qualitätssicherung für den Gesundheitsschutz erhöhte Anforderungen gestellt werden müssen, benötigt eine Berufsausübungsbewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 
 <sup>2</sup> Der Regierungsrat bestimmt die einzelnen bewilligungspflichtigen Tätigkeiten oder Berufe.
 
@@ -237,7 +237,7 @@ beschliesst:
 
 **Betriebsbewilligung 1 Grundsatz**
 
-<sup>1</sup> Die Führung von Betrieben, in denen bewilligungspflichtige Tätigkeiten ausgeübt werden, setzt eine Betriebsbewilligung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion voraus, sofern die Räumlichkeiten und Einrichtungen oder die angebotenen Dienstleistungen zum Schutz der Gesundheit eine staatliche Kontrolle erfordern.
+<sup>1</sup> Die Führung von Betrieben, in denen bewilligungspflichtige Tätigkeiten ausgeübt werden, setzt eine Betriebsbewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion voraus, sofern die Räumlichkeiten und Einrichtungen oder die angebotenen Dienstleistungen zum Schutz der Gesundheit eine staatliche Kontrolle erfordern.
 
 <sup>2</sup> Der Regierungsrat bezeichnet die bewilligungspflichtigen Betriebe und regelt die Qualitätskontrollen.
 
@@ -266,19 +266,19 @@ beschliesst:
 
 **Administrative Massnahmen 1 Entzug der Bewilligung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entzieht eine Berufsausübungs- oder eine Betriebsbewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, auf Grund derer sie hätte verweigert werden müssen.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entzieht eine Berufsausübungs- oder eine Betriebsbewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, auf Grund derer sie hätte verweigert werden müssen.
 
 #### Art. 17a
 
 **2 Disziplinarmassnahmen**
 
-<sup>1</sup> Bei Verletzung beruflicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion die in Artikel 43 MedBG vorgesehenen Disziplinarmassnahmen gegen die Inhaberin oder den Inhaber einer Berufsausübungsbewilligung anordnen.
+<sup>1</sup> Bei Verletzung beruflicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die in Artikel 43 MedBG vorgesehenen Disziplinarmassnahmen gegen die Inhaberin oder den Inhaber einer Berufsausübungsbewilligung anordnen.
 
 #### Art. 17b
 
-**3 Massnahmen gegen Inhaberinnen oder Inhaber einer Betriebsbewilligung**
+**3 Massnahmen gegen Inhaberinnen und Inhaber einer Betriebsbewilligung**
 
-<sup>1</sup> Bei Verletzung betrieblicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion folgende Massnahmen gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung anordnen:
+<sup>1</sup> Bei Verletzung betrieblicher Pflichten oder anderer gesundheitsrechtlicher Vorschriften kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion folgende Massnahmen gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung anordnen:
 
 - a eine Verwarnung,
 - b einen Verweis,
@@ -290,7 +290,7 @@ beschliesst:
 
 **4 Meldepflicht**
 
-<sup>1</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion unverzüglich Vorfälle, bei denen berufliche oder betriebliche Pflichten verletzt worden sein könnten.
+<sup>1</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion unverzüglich Vorfälle, bei denen berufliche oder betriebliche Pflichten verletzt worden sein könnten.
 
 #### Art. 18
 
@@ -316,19 +316,19 @@ beschliesst:
 
 **2 Aufsichtsrechtliche Massnahmen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann eine bewilligungsfreie Tätigkeit verbieten oder einschränken, wenn sie die Gesundheit der behandelten Personen gefährdet oder schädigt.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann eine bewilligungsfreie Tätigkeit verbieten oder einschränken, wenn sie die Gesundheit der behandelten Personen gefährdet oder schädigt.
 
-<sup>2</sup> Bei begründetem Verdacht auf eine Gesundheitsgefährdung kann die zuständige Stelle der Gesundheits-und Fürsorgedirektion den Nachweis der Gesundheitsverträglichkeit verlangen. Sie kann die Tätigkeit vorsorglich verbieten, wenn das zum Schutz der Betroffenen notwendig erscheint.
+<sup>2</sup> Bei begründetem Verdacht auf eine Gesundheitsgefährdung kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den Nachweis der Gesundheitsverträglichkeit verlangen. Sie kann die Tätigkeit vorsorglich verbieten, wenn das zum Schutz der Betroffenen notwendig erscheint.
 
 #### Art. 20
 
 **Mitteilungen, Veröffentlichung**
 
-<sup>1</sup> Fachpersonen, die für ihre Tätigkeit einer Bewilligung bedürfen, haben der zuständigen Stelle der Gesundheits- und Fürsorgedirektion das Praxisdomizil sowie die definitive Aufgabe ihrer Tätigkeit zu melden.
+<sup>1</sup> Fachpersonen, die für ihre Tätigkeit einer Bewilligung bedürfen, haben der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion das Praxisdomizil sowie die definitive Aufgabe ihrer Tätigkeit zu melden.
 
-<sup>2</sup> Inhaberinnen und Inhaber einer Berufsausübungs- oder Betriebsbewilligung werden in einem öffentlichen Register der zuständigen Stelle der Gesundheits- und Fürsorgedirektion aufgeführt. Die Einsichtnahme ist kostenlos.
+<sup>2</sup> Inhaberinnen und Inhaber einer Berufsausübungs- oder Betriebsbewilligung werden in einem öffentlichen Register der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion aufgeführt. Die Einsichtnahme ist kostenlos.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion kann die Register nach Absatz 2 durch ein Abrufverfahren im Internet öffentlich zugänglich machen.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann die Register nach Absatz 2 durch ein Abrufverfahren im Internet öffentlich zugänglich machen.
 
 <sup>4</sup> Der Entzug einer Berufsausübungs- oder Betriebsbewilligung oder das Verbot einer Tätigkeit des Gesundheitswesens wird veröffentlicht, wenn dies im Interesse der Öffentlichkeit geboten erscheint.[^20-1]
 
@@ -370,9 +370,9 @@ beschliesst:
 
 <sup>1</sup> Die Fachperson hat ihre bewilligte Tätigkeit persönlich auszuüben. Sie kann einzelne Verrichtungen an Personen unter ihrer fachlichen Aufsicht und Verantwortung übertragen, wenn diese dafür hinreichend qualifiziert sind und die allenfalls erforderlichen Fähigkeitsausweise besitzen.
 
-<sup>2</sup> Die Fachperson darf sich nur durch eine andere Fachperson vertreten lassen, die als Inhaberin oder Inhaber einer Berufsausübungsbewilligung zur Ausübung derselben Tätigkeit berechtigt ist.
+<sup>2</sup> Sie darf sich nur durch eine andere Fachperson vertreten lassen, die als Inhaberin oder Inhaber einer Berufsausübungsbewilligung zur Ausübung derselben Tätigkeit berechtigt ist.
 
-<sup>3</sup> Die Fachperson kann wegen Krankheit, Ferien oder anderweitiger vorübergehender Verhinderung mit Bewilligung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion durch eine Person vertreten werden, die die fachlichen Voraussetzungen erfüllt, aber nicht Inhaberin einer Berufsausübungsbewilligung ist.
+<sup>3</sup> Sie kann wegen Krankheit, Ferien oder anderweitiger vorübergehender Verhinderung mit Bewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion durch eine Person vertreten werden, welche die fachlichen Voraussetzungen erfüllt, aber nicht Inhaberin oder Inhaber einer Berufsausübungsbewilligung ist.
 
 #### Art. 26
 
@@ -386,7 +386,7 @@ beschliesst:
 
 <sup>4</sup> Die Fachperson kann sich auf Grund einer schriftlichen Vereinbarung mit der Patientin oder dem Patienten von ihrer Aufbewahrungspflicht befreien, indem sie die Behandlungsdokumentation der nachbehandelnden Fachperson oder der Patientin oder dem Patienten übergibt.
 
-<sup>5</sup> Wenn die vorschriftsmässige Aufbewahrung der Behandlungsdokumentation durch die Fachperson nicht gewährleistet wird, kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion die Ersatzvornahme durch eine von ihr bezeichnete Stelle auf Kosten der Fachperson anordnen.
+<sup>5</sup> Wenn die vorschriftsmässige Aufbewahrung der Behandlungsdokumentation durch die Fachperson nicht gewährleistet wird, kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die Ersatzvornahme durch eine von ihr bezeichnete Stelle auf Kosten der Fachperson anordnen.
 
 #### Art. 27
 
@@ -394,7 +394,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachperson ist verpflichtet, über alles, was ihr Patientinnen und Patienten im Zusammenhang mit der Behandlung mitteilen und was sie dabei wahrnimmt, gegenüber Drittpersonen Stillschweigen zu bewahren.
 
-<sup>2</sup> Die Schweigepflicht entfällt, wenn die Patientin oder der Patient oder die zuständige Stelle der Gesundheits- und Fürsorgedirektion zur Auskunftserteilung ermächtigt hat oder wenn auf Grund einer gesetzlichen Bestimmung eine Auskunftspflicht oder ein Auskunftsrecht besteht.
+<sup>2</sup> Die Schweigepflicht entfällt, wenn die Patientin oder der Patient oder die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion zur Auskunftserteilung ermächtigt hat oder wenn auf Grund einer gesetzlichen Bestimmung eine Auskunftspflicht oder ein Auskunftsrecht besteht.
 
 #### Art. 28
 
@@ -427,7 +427,7 @@ beschliesst:
 
 <sup>2</sup> In Ortschaften mit mindestens zwei öffentlichen Apotheken sind deren Inhaberinnen und Inhaber verpflichtet, die Notfallversorgung mit Heilmitteln zu gewährleisten.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion ist über die Organisation des ambulanten Notfalldienstes zu orientieren. Sie regelt die Organisation des ambulanten Notfalldienstes, wenn diese nicht anderweitig sichergestellt ist, und entscheidet bei Streitigkeiten aus der Notfalldienstpflicht.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ist über die Organisation des ambulanten Notfalldienstes zu orientieren. Sie regelt die Organisation des ambulanten Notfalldienstes, wenn diese nicht anderweitig sichergestellt ist, und entscheidet bei Streitigkeiten aus der Notfalldienstpflicht.
 
 #### Art. 30b
 
@@ -453,7 +453,7 @@ beschliesst:
 
 **2 Privatapotheken**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion ermächtigt zur Führung einer Privatapotheke
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ermächtigt zur Führung einer Privatapotheke
 
 - a Ärztinnen und Ärzte in Ortschaften, in denen die Notfallversorgung mit Arzneimitteln nicht durch mindestens zwei öffentliche Apotheken gewährleistet ist;
 - b eine Institution des Gesundheitswesens, soweit diese zur Erfüllung ihres Auftrags darauf angewiesen ist und wenn die fachliche Verantwortung bei einer Apothekerin oder einem Apotheker oder bei einer Ärztin oder einem Arzt mit Berufsausübungsbewilligung liegt.
@@ -464,7 +464,7 @@ beschliesst:
 
 **3 Heilmittelbestände**
 
-<sup>1</sup> Die Fachpersonen haben ihre Heilmittelbestände nach den Regeln der Fachkunde zu halten. Die zuständige Stelle der Gesundheits- und Fürsorgedirektion überprüft die Einhaltung dieser Vorschriften durch periodische, stichprobenartige Inspektionen.
+<sup>1</sup> Die Fachpersonen haben ihre Heilmittelbestände nach den Regeln der Fachkunde zu halten. Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion überprüft die Einhaltung dieser Vorschriften durch periodische, stichprobenartige Inspektionen.
 
 #### Art. 34
 
@@ -489,7 +489,7 @@ beschliesst:
 
 <sup>2</sup> Die Entnahme eines Organs zur Sicherung der Diagnose ist möglich, wenn die berechtigten Personen nichts anderes verfügt haben.
 
-<sup>3</sup> Vorbehalten bleiben die Vorschriften des Strafverfahrens sowie besondere Anordnungen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion zur Sicherung der Diagnose.
+<sup>3</sup> Vorbehalten bleiben die Vorschriften des Strafverfahrens sowie besondere Anordnungen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion zur Sicherung der Diagnose.
 
 #### Art. 35a
 
@@ -519,7 +519,7 @@ beschliesst:
 
 **Ausführungsbestimmungen**
 
-<sup>1</sup> Der Regierungsrat erlässt durch Verordnung ausführende Bestimmungen über die Rechte und Pflichten der Fachpersonen. Er kann den Erlass und den Vollzug von Ausführungsbestimmungen betreffend die Berufsausübung und die Fort- und Weiterbildung an interkantonale Institutionen, an Private oder an die Gesundheits- und Fürsorgedirektion delegieren.
+<sup>1</sup> Der Regierungsrat erlässt durch Verordnung ausführende Bestimmungen über die Rechte und Pflichten der Fachpersonen. Er kann den Erlass und den Vollzug von Ausführungsbestimmungen betreffend die Berufsausübung und die Fort- und Weiterbildung an interkantonale Institutionen, an Private oder an die Gesundheits-, Sozial- und Integrationsdirektion delegieren.
 
 ### 2.3
 
@@ -652,13 +652,13 @@ beschliesst:
 
 **4 Information**
 
-<sup>1</sup> Die Gerichte teilen rechtskräftige Urteile betreffend Pflichtverletzungen von Fachpersonen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion mit.
+<sup>1</sup> Die Gerichte teilen rechtskräftige Urteile betreffend Pflichtverletzungen von Fachpersonen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion mit.
 
 #### Art. 50
 
 **Einziehung; Verfall unrechtmässig erworbener Vermögensvorteile**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion ist zur administrativen Einziehung von Einrichtungen und Gegenständen befugt, die einer verbotenen Tätigkeit dienen oder gedient haben.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ist zur administrativen Einziehung von Einrichtungen und Gegenständen befugt, die einer verbotenen Tätigkeit dienen oder gedient haben.
 
 <sup>2</sup> Vermögensvorteile, die aufgrund einer Verletzung dieses Gesetzes oder der gestützt darauf erlassenen Ausführungsbestimmungen und Verfügungen erlangt wurden, verfallen ohne Rücksicht auf die Strafbarkeit der Verletzung zugunsten des Staates Bern.
 
