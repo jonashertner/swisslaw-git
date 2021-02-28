@@ -4,13 +4,13 @@ number: "125.12"
 title: Gesetz über die Gerichtsorganisation
 short: GO
 language: de
-version: 2020-09-01
-valid_until: 2021-02-28
-version_adopted: 2020-01-28
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-05-06
 adopted: 1977-03-13
 in_force: 1977-05-01
 url: "https://bgs.so.ch/app/de/texts_of_law/125.12"
-pdf: "https://bgs.so.ch/api/de/versions/4962/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4962/pdf_file"
 
 (GO)
 
-Vom 13.03.1977 (Stand 01.09.2020)
+Vom 13.03.1977 (Stand 01.03.2021)
 
 Der Kantonsrat von Solothurn
 
