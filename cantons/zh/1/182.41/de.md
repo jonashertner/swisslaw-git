@@ -3,11 +3,11 @@ canton: ZH
 number: "182.41"
 title: Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 language: de
-version: "2020-01-01"
-nachtrag: "108"
-valid_until: 2021-03-01
+version: "2021-03-01"
+nachtrag: "112"
+valid_until: 2023-04-01
 adopted: 2007-03-22
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-108.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_41-2007_03_22-2008_01_01-112.html"
 text: pdf
 ---
 
@@ -15,11 +15,9 @@ text: pdf
 
 # Anstellungsordnung der Römisch-katholischen Körperschaft des Kantons Zürich
 
-(vom 22. März 2007)[^t-1]
+(vom 22. März 2007)<sup>1</sup>
 
 Die Synode der Römisch-katholischen Körperschaft des Kantons Zürich beschliesst:
-
-[^t-1]: OS 69, 76.
 
 ### Präambel
 
@@ -45,27 +43,23 @@ Die staatskirchenrechtlichen und innerkirchlichen Organe entscheiden und handeln
 
 **1**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
 - 1\. Allgemeine Bestimmungen
 
 **Geltungsbereich**
 
-§ 1. <sup>1</sup> Die Anstellungsordnung regelt verbindlich das Arbeitsverhältnis der voll- und teilzeitlichen Angestellten, (…) eingeschlossen die gemäss dem Reglement über die Neuwahl von Pfarrern[^hPräambel-1] von der Kirchgemeinde gewählten Pfarrer, Diakone mit Gemeindeleitungsfunktion und Pfarreibeauftragten.[^hPräambel-2]
+§ 1. <sup>1</sup> Die Anstellungsordnung regelt verbindlich das Arbeitsverhältnis der voll- und teilzeitlichen Angestellten, (…) eingeschlossen die gemäss dem Reglement über die Neuwahl von Pfarrern<sup>3</sup> von der Kirchgemeinde gewählten Pfarrer, Diakone mit Gemeindeleitungsfunktion und Pfarreibeauftragten.<sup>8</sup>
 
 <sup>2</sup> Weitere kirchliche Institutionen können mit Zustimmung des Synodalrates diese Anstellungsordnung für ihre Angestellten als verbindlich erklären.
 
 <sup>3</sup> Die Mitglieder von Behörden und Personen, die Freiwilligenarbeit leisten, sind der Anstellungsordnung nicht unterstellt.
 
-[^hPräambel-1]: LS 182.22.
-[^hPräambel-2]: Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
-[^hPräambel-3]: SR 220.
-
 #### § 2
 
 **Ergänzendes Recht**
 
-Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf den Einzelfall anwendbare Regelung, gelten sinngemäss die Bestimmungen des Obligationenrechts[^hPräambel-3].
+Enthalten diese Verordnung und die zugehörigen Vollzugsverordnungen keine auf den Einzelfall anwendbare Regelung, gelten sinngemäss die Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 #### § 3
 
@@ -107,13 +101,11 @@ Das Arbeitsverhältnis mit staatskirchlichen Organisationen ist öffentlich-rech
 
 Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
-[^7-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
-
 #### § 8
 
 **Entstehung des Arbeitsverhältnisses**
 
-<sup>1</sup> Die Arbeitsverhältnisse werden durch Verfügung begründet.[^7-1]
+<sup>1</sup> Die Arbeitsverhältnisse werden durch Verfügung begründet.<sup>8</sup>
 
 <sup>2</sup> Sie können in begründeten Fällen mit öffentlich-rechtlichem Vertrag begründet werden. Dieser kann insbesondere hinsichtlich des Lohnes, der Arbeitszeit, der Ferien sowie der Beendigung des Arbeitsverhältnisses von dieser Anstellungsordnung abweichen.
 
@@ -121,7 +113,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **Privatauszug aus dem Strafregister und Sonderprivatauszug**
 
-§ 8 a.[^8-1] <sup>1</sup> Die Anstellung erfolgt unter der Voraussetzung, dass die Bewerberinnen und Bewerber der Anstellungsinstanz einen Privatauszug aus dem Strafregister einreichen.
+§ 8 a.<sup>9</sup> <sup>1</sup> Die Anstellung erfolgt unter der Voraussetzung, dass die Bewerberinnen und Bewerber der Anstellungsinstanz einen Privatauszug aus dem Strafregister einreichen.
 
 <sup>2</sup> Bei der Anstellung von Bewerberinnen und Bewerbern in seelsorgerlicher, erzieherischer oder betreuender Funktion ist zusätzlich zum Privatauszug aus dem Strafregister ein Sonderprivatauszug einzureichen.
 
@@ -129,7 +121,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **Vorgehen bei Verurteilungen**
 
-§ 8 b.[^8-1] <sup>1</sup> Erhält die Anstellungsinstanz Kenntnis von einer Verurteilung wegen eines Verbrechens oder eines Vergehens, welche die Vertrauenswürdigkeit der Bewerberin oder des Bewerbers oder der angestellten Person schwer beeinträchtigt, kann die Anstellungsinstanz die Anstellung verweigern oder ein bestehendes Arbeitsverhältnis auflösen.
+§ 8 b.<sup>9</sup> <sup>1</sup> Erhält die Anstellungsinstanz Kenntnis von einer Verurteilung wegen eines Verbrechens oder eines Vergehens, welche die Vertrauenswürdigkeit der Bewerberin oder des Bewerbers oder der angestellten Person schwer beeinträchtigt, kann die Anstellungsinstanz die Anstellung verweigern oder ein bestehendes Arbeitsverhältnis auflösen.
 
 <sup>2</sup> Bei einer Verurteilung zu einem Verbrechen oder Vergehen gegen die sexuelle Integrität von Kindern, Jugendlichen oder abhängigen Personen darf die Anstellung nicht erfolgen. Bestehende Arbeitsverhältnisse müssen beendet werden.
 
@@ -137,11 +129,9 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **3**
 
-- 1\. 4. 20 - 108 § 9. Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
+- 1\. 4. 21 - 112 § 9. Übt eine Angestellte bzw. ein Angestellter mehr als eine Funktion aus, so ist für jede Funktion eine separate Anstellungsverfügung zu erlassen.
 
 **Mehrere Funktionen**
-
-[^8-1]: Eingefügt durch B vom 7. November 2019 (OS 75, 102; ABl 2019-11-22). In Kraft seit 1. Januar 2020. 1. 4. 20 - 108 15
 
 ### 2.2 Dauer
 
@@ -227,19 +217,17 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 <sup>2</sup> Bei der Kündigung von Mitarbeitenden im Verkündigungsdienst ist die schriftliche Stellungnahme der kirchlichen Instanzen einzuholen.
 
-<sup>3</sup> Die Kündigung durch die Anstellungsinstanz darf nicht missbräuchlich sein und setzt einen sachlich zureichenden Grund voraus. Der Tatbestand der missbräuchlichen Kündigung richtet sich nach den Bestimmungen des Obligationenrechts[^16-1].
+<sup>3</sup> Die Kündigung durch die Anstellungsinstanz darf nicht missbräuchlich sein und setzt einen sachlich zureichenden Grund voraus. Der Tatbestand der missbräuchlichen Kündigung richtet sich nach den Bestimmungen des Obligationenrechts<sup>4</sup>.
 
-<sup>4</sup> Erweist sich die Kündigung als missbräuchlich oder sachlich nicht gerechtfertigt und wird der oder die Angestellte nicht wieder eingestellt, so bemisst sich die Entschädigung nach den Bestimmungen des Obligationenrechts[^16-1] über die missbräuchliche Kündigung.
+<sup>4</sup> Erweist sich die Kündigung als missbräuchlich oder sachlich nicht gerechtfertigt und wird der oder die Angestellte nicht wieder eingestellt, so bemisst sich die Entschädigung nach den Bestimmungen des Obligationenrechts<sup>4</sup> über die missbräuchliche Kündigung.
 
 <sup>5</sup> Vor dem Erlass einer Kündigung ist der oder die Betroffene anzuhören.
-
-[^16-1]: SR 220.
 
 #### § 17
 
 **Kündigung zur Unzeit**
 
-<sup>1</sup> Tatbestand und Rechtsfolgen der Kündigung zur Unzeit richten sich nach den Bestimmungen des Obligationenrechts[^16-1].
+<sup>1</sup> Tatbestand und Rechtsfolgen der Kündigung zur Unzeit richten sich nach den Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 <sup>2</sup> Eine fortgesetzte Kündigungsfrist verlängert sich bis zum nächstfolgenden Monatsende.
 
@@ -251,15 +239,13 @@ Angestellte können unter Wahrung einer angemessenen Frist an einen anderen Arbe
 
 **5**
 
-- 1\. 4. 20 - 108
+- 1\. 4. 21 - 112
 
 <sup>2</sup> Als wichtiger Grund gilt jeder Umstand, bei dessen Vorhandensein nach Treu und Glauben die Fortsetzung des Arbeitsverhältnisses nicht zumutbar ist.
 
-<sup>3</sup> Tatbestand und Rechtsfolgen der fristlosen Auflösung richten sich nach den Bestimmungen des Obligationenrechts[^18-1].
+<sup>3</sup> Tatbestand und Rechtsfolgen der fristlosen Auflösung richten sich nach den Bestimmungen des Obligationenrechts<sup>4</sup>.
 
 <sup>4</sup> Bei den Pfarrern ist der Synodalrat für die Auflösung aus wichtigen Gründen zuständig. Er nimmt dabei Rücksprache mit dem Generalvikar.
-
-[^18-1]: SR 220.
 
 #### § 19
 
@@ -363,7 +349,7 @@ Der Synodalrat umschreibt, soweit erforderlich, die Richtpositionen und die Vora
 
 **7**
 
-- 1\. 4. 20 - 108 § 31. Der Synodalrat regelt den Ersatz dienstlicher Auslagen.
+- 1\. 4. 21 - 112 § 31. Der Synodalrat regelt den Ersatz dienstlicher Auslagen.
 
 #### § 32
 
@@ -443,25 +429,29 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Anliegen der Menschen
 
 <sup>2</sup> Diese Verpflichtung bleibt nach Beendigung des Arbeitsverhältnisses bestehen.
 
-**Geschenkannahmeverbot**
+**Seelsorgegeheimis**
 
-§ 40 a.[^40-1] <sup>1</sup> Angestellte dürfen keine Geschenke oder andere Vergünstigungen, die im Zusammenhang mit ihrer dienstlichen Stellung stehen oder stehen könnten, für sich oder andere annehmen oder sich versprechen lassen.
+§ 40 a.<sup>10</sup> <sup>1</sup> Das Seelsorgegeheimnis umfasst die Verschwiegenheitspflicht bei Geheimnissen, die Seelsorgerinnen und Seelsorgern und ihren Hilfspersonen aufgrund ihres Berufs anvertraut worden sind. Eine Offenlegung ist nur bei ausdrücklicher Entbindung gestattet.
+
+<sup>2</sup> Eine Entbindung vom Seelsorgegeheimnis ist nur mit Bewilligung der anvertrauenden Person oder eines vom Synodalrat und vom Generalvikar bezeichneten Gremiums möglich.
+
+<sup>3</sup> Das Gremium entbindet die Seelsorgerin oder den Seelsorger auf deren oder dessen Gesuch hin vom Seelsorgegeheimnis, wenn ein überwiegendes Interesse an der Offenlegung besteht. Ein überwiegendes Interesse an der Offenlegung besteht insbesondere, wenn die ernsthafte Gefahr besteht, dass die anvertrauende Person sich selbst oder Dritte gefährdet oder eine Straftat begeht, mit der sie jemanden körperlich, seelisch oder materiell schwer schädigt.
+
+**9**
+
+- 1\. 4. 21 - 112 § 40 b.<sup>11</sup> <sup>1</sup> Angestellte dürfen keine Geschenke oder andere Vergünstigungen, die im Zusammenhang mit ihrer dienstlichen Stellung stehen oder stehen könnten, für sich oder andere annehmen oder sich versprechen lassen.
+
+**Geschenkannahmeverbot**
 
 <sup>2</sup> Ausgenommen sind Spenden zugunsten von kirchlichen Institutionen im In- und Ausland sowie Höflichkeitsgeschenke von geringem Wert.
 
 <sup>3</sup> Besteht Zweifel, ob eine Spende zugunsten von kirchlichen Institutionen oder ein geringfügiges Höflichkeitsgeschenk die Unabhängigkeit von Angestellten beeinträchtigen könnte, entscheidet die personalverantwortliche Stelle der Anstellungsbehörde über die Zulässigkeit der Annahme.
-
-[^40-1]: Eingefügt durch B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
 
 #### § 41
 
 **Arbeitszeit**
 
 <sup>1</sup> Der Synodalrat regelt die Arbeitszeit und deren grundsätzliche Ausgestaltung.
-
-**9**
-
-- 1\. 4. 20 - 108
 
 <sup>2</sup> Die Angestellten können auch ausserhalb der ordentlichen Dienstzeit und über die vereinbarte Arbeitszeit hinaus in Anspruch genommen werden, wenn es der Dienst erfordert und soweit es zumutbar ist.
 
@@ -507,13 +497,11 @@ Der Synodalrat regelt die Modalitäten der vorgeschriebenen, erwünschten und fr
 
 <sup>2</sup> Für die Vortage von Karfreitag, Auffahrt und Weihnachten legt die Arbeitgeberin den Arbeitsschluss fest.
 
-[^45-1]: Fassung gemäss B vom 7. Dezember 2017 (OS 73, 163; ABl 2018-01-05). In Kraft seit 1. Januar 2019.
-
 #### § 47
 
 **Ferien**
 
-<sup>1</sup> Den voll- und teilzeitbeschäftigten Angestellten steht im Kalenderjahr folgender Ferienanspruch zu:[^45-1] bis und mit dem Kalenderjahr, in dem sie das 59. Altersjahr vollenden:
+<sup>1</sup> Den voll- und teilzeitbeschäftigten Angestellten steht im Kalenderjahr folgender Ferienanspruch zu:<sup>6</sup> bis und mit dem Kalenderjahr, in dem sie das 59. Altersjahr vollenden:
 
 **5 Wochen**
 
@@ -547,19 +535,15 @@ Der Synodalrat regelt die Gewährung von bezahltem und unbezahltem Urlaub.
 
 <sup>2</sup> Der bezahlte Urlaub bei der Geburt eines eigenen Kindes wird der Dauer des Vaterschaftsurlaubs angerechnet.
 
-#### § 51
+**11**
+
+- 1\. 4. 21 - 112 § 51. <sup>1</sup> Für die Besoldung der Angestellten, die Militär-, Schutz- oder Zivildienst leisten, gilt während ihrer Dienstzeit folgende Regelung:
 
 **Abwesenheit wegen Militär-, Schutz- und Zivildienst**
-
-<sup>1</sup> Für die Besoldung der Angestellten, die Militär-, Schutz- oder Zivildienst leisten, gilt während ihrer Dienstzeit folgende Regelung:
 
 Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervorkurse, besteht ein Anspruch auf die volle Besoldung, bei Rekrutenschule oder anderen obligatorischen Instruktionskursen auf 100%, sofern der bzw. die Angestellte verheiratet ist oder sonst eine Unterstützungspflicht erfüllt, und auf 75%, wenn er bzw. sie ledig ist.
 
 <sup>2</sup> Die Durchdiener-Rekrutenschule berechtigt höchstens bis zur Dauer der ordentlichen Rekrutenschule zur Lohnfortzahlung gemäss Abs. 1.
-
-**11**
-
-- 1\. 4. 20 - 108
 
 <sup>3</sup> Der Synodalrat bezeichnet die freiwilligen Dienstleistungen, welche zum Bezug von bezahltem Urlaub berechtigen.
 
@@ -573,13 +557,11 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 § 52. Die Angestellten werden im Rahmen der gesetzlichen Bestimmungen auf Kosten der Arbeitgeberin gegen Berufs- und Nichtberufsunfälle versichert. Die Arbeitgeberin übernimmt die Hälfte der Prämien für die Nichtberufsunfallversicherung.
 
-[^51-1]: SR 832.20.
-
 #### § 53
 
 **Lohnfortzahlung bei Krankheit und Unfall**
 
-<sup>1</sup> Dienstaussetzungen wegen Krankheit und Unfall im Sinne des Bundesgesetzes über die Unfallversicherung[^51-1] werden hinsichtlich der Lohnzahlung gleich behandelt.
+<sup>1</sup> Dienstaussetzungen wegen Krankheit und Unfall im Sinne des Bundesgesetzes über die Unfallversicherung<sup>5</sup> werden hinsichtlich der Lohnzahlung gleich behandelt.
 
 <sup>2</sup> Den Angestellten wird im ersten und zweiten Dienstjahr der Lohn unabhängig des Grades der Arbeitsverhinderung wie folgt ausgerichtet:
 
@@ -591,9 +573,7 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 **Verhältnis Lohnfortzahlung und Taggeld**
 
-§ 53 a.[^53-1] Übersteigt das ausbezahlte Taggeld den Betrag der Lohnfortzahlung gemäss § 53, so ist der oder dem Angestellten mindestens das volle Taggeld auszurichten.
-
-[^53-1]: Eingefügt durch B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+§ 53 a.<sup>7</sup> Übersteigt das ausbezahlte Taggeld den Betrag der Lohnfortzahlung gemäss § 53, so ist der oder dem Angestellten mindestens das volle Taggeld auszurichten.
 
 #### § 54
 
@@ -605,9 +585,7 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 **Krankentaggeldversicherung**
 
-§ 55.[^54-1] Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
-
-[^54-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+§ 55.<sup>8</sup> Die Arbeitgeberin oder der Arbeitgeber kann eine für alle Angestellten obligatorische Taggeldversicherung abschliessen. Diese löst nach Ablauf der im Versicherungsvertrag vereinbarten Karenzfrist die Lohnfortzahlung nach §§ 53 und 54 ab. Der Anspruch auf Versicherungsleistungen richtet sich nach den jeweils anwendbaren Versicherungsbedingungen. Die Prämien werden von der Arbeitgeberin oder dem Arbeitgeber und von den Angestellten zu gleichen Teilen getragen.
 
 #### § 56
 
@@ -623,13 +601,13 @@ Bei Wiederholungs- und Ergänzungskursen, einschliesslich vorangehender Kadervor
 
 Wer aus gesundheitlichen Gründen an der Arbeit verhindert ist, hat dies der vorgesetzten Stelle unverzüglich zu melden. Die Arbeitgeberin kann die Einreichung eines ärztlichen Zeugnisses verlangen. Spätestens nach drei Arbeitstagen Absenz ist ein ärztliches Zeugnis beizubringen.
 
-#### § 58
+**13**
 
-**Pensionskasse**
-
-Die Mitarbeiterinnen und Mitarbeiter werden nach Massgabe der entsprechenden Reglemente in die Pensionskasse für Angestellte der römisch-katholischen Kirchgemeinden des Kantons Zürich aufgenommen.
+- 1\. 4. 21 - 112 § 58. Die Mitarbeiterinnen und Mitarbeiter werden nach Massgabe der entsprechenden Reglemente in die Pensionskasse für Angestellte der römisch-katholischen Kirchgemeinden des Kantons Zürich aufgenommen.
 
 #### § 59
+
+**Pensionskasse**
 
 **Besoldungszahlung im Todesfall**
 
@@ -638,10 +616,6 @@ Im Todesfall wird die volle Besoldung für den laufenden und die zwei folgenden 
 - 2\. minderjährige Kinder und Kinder, die sich in der Ausbildung befinden, bis zum vollendeten 25. Altersjahr,
 
 - 3\. die Eltern, Geschwister, die Lebenspartnerin, der Lebenspartner oder andere Personen, wenn sie von ihr bzw. ihm regelmässig unterstützt worden sind.
-
-**13**
-
-- 1\. 4. 20 - 108
 
 - 6\. Datenschutz
 
@@ -681,7 +655,7 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 
 **Rechtsmittel**
 
-§ 65.[^64-1] Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz[^64-2].
+§ 65.<sup>8</sup> Soweit diese Anstellungsordnung nichts Abweichendes regelt, richtet sich das Verfahren des Weiterzugs von personalrechtlichen Entscheiden durch das Personal nach dem Verwaltungsrechtspflegegesetz<sup>2</sup>.
 
 - 8\. Übergangs- und Schlussbestimmungen
 
@@ -690,9 +664,6 @@ Streitigkeiten aus privatrechtlichen Arbeitsverhältnissen entscheidet das Zivil
 § 66. <sup>1</sup> Für alle beim Inkrafttreten dieses Gesetzes bereits bestehenden Arbeitsverhältnisse gelten ab diesem Zeitpunkt die neue Anstellungsordnung und ihre Ausführungserlasse. Soweit bisherige Anstellungsverhältnisse mit der neuen Anstellungsordnung nicht übereinstimmen, gehen deren Bestimmungen vor.
 
 <sup>2</sup> Für Arbeitsverhältnisse, die beim Inkrafttreten des Personalgesetzes bereits gekündigt, aber noch nicht aufgelöst sind, gilt bisheriges Recht.
-
-[^64-1]: Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
-[^64-2]: LS 175.2.
 
 #### § 67
 
@@ -710,11 +681,33 @@ Für diejenigen Kirchgemeinden, welche die Anstellungsordnung bisher noch nicht 
 
 <sup>3</sup> Im Jahr der Überführung in die neue Lohnklasse wird kein Stufenanstieg gewährt.
 
-#### § 69
+**15**
+
+- 1\. 4. 21 - 112 § 69. Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2008 in Kraft.
 
 **Inkrafttreten**
 
-Diese Anstellungsordnung ersetzt jene vom 23. Mai 1996. Sie tritt am 1. Januar 2008 in Kraft.
+<sup>1</sup> OS 69, 76.
+
+<sup>2</sup> LS 175.2.
+
+<sup>3</sup> LS 182.22.
+
+<sup>4</sup> SR 220.
+
+<sup>5</sup> SR 832.20.
+
+<sup>6</sup> Fassung gemäss B vom 7. Dezember 2017 (OS 73, 163; ABl 2018-01-05). In Kraft seit 1. Januar 2019.
+
+<sup>7</sup> Eingefügt durch B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+
+<sup>8</sup> Fassung gemäss B vom 11. April 2019 (OS 74, 454; ABl 2019-05-03). In Kraft seit 1. September 2019.
+
+<sup>9</sup> Eingefügt durch B vom 7. November 2019 (OS 75, 102; ABl 2019-11-22). In Kraft seit 1. Januar 2020.
+
+<sup>10</sup> Eingefügt durch B vom 5. November 2020 (OS 76, 31; ABl 2020-11-20). In Kraft seit 1. März 2021.
+
+<sup>11</sup> Nummerierung gemäss B vom 5. November 2020 (OS 76, 31; ABl 2020-11- 20). In Kraft seit 1. März 2021.
 
 ### Anhang
 
@@ -727,3 +720,7 @@ Besoldungsklasse Minimum (AS 1) 1. Maximum (ES 16) 2. Maximum (LS 12)
 **67 605 68 482 69 603 70 988 72 664 74 657 76 998 79 718 82 842 86 404 90 437 94 975 100 051 105 697 111 951 118 846 126 427 134 724 142 605 152 454 163 138 173 525 186 003 199 438 213 877**
 
 1 44 684 59 270 2 45 263 60 039 3 46 005 61 022 4 46 920 62 235 5 48 027 63 705 6 49 346 65 453 7 50 892 67 505 8 52 689 69 890 9 54 756 72 630 10 57 110 75 749 11 59 775 79 289 12 62 774 83 265 13 66 129 87 714 14 69 861 92 665 15 73 995 98 148 16 78 553 104 195 17 83 565 110 839 18 89 046 118 113 19 94 255 125 021 20 100 767 133 659 21 107 826 143 023 22 114 693 152 131 23 122 941 163 071 24 131 822 174 851 25 141 363 187 509
+
+**17**
+
+- 1\. 4. 21 - 112
