@@ -4,13 +4,13 @@ number: "123.22"
 title: "Ordonnance portant introduction de la loi fédérale sur les documents d'identité"
 short: OiLDI
 language: fr
-version: 2012-08-01
-valid_until: 2021-02-28
-version_adopted: 2012-05-23
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-01-20
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/39/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2143/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/39/pdf_file"
 
 (OiLDI)
 
-du 23.12.2009 (état au 01.08.2012)
+du 23.12.2009 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -111,9 +111,9 @@ arrête:
 
 **Données personnelles**
 
-<sup>1</sup> Conformément à l’article 10, alinéa1 OLDI, les données personnelles du registre informatisé de l’état civil (Infostar) servent de base pour l’établissement de documents d’identité destinés aux ressortissants suisses. A titre complémentaire, l’OPM peut avoir recours aux données du registre du contrôle des habitants conformément à l’ordonnance du 12 mars 2008 sur l’harmonisation des registres officiels (OReg)[^9-1] par le biais des systèmes des registres communaux (GERES) et de la gestion centrale des personnes.
+<sup>1</sup> Conformément à l’article 10, alinéa1 OLDI, les données personnelles du registre informatisé de l’état civil (Infostar) servent de base pour l’établissement de documents d’identité destinés aux ressortissants suisses. A titre complémentaire, l'Office de la population peut avoir recours aux données du registre du contrôle des habitants conformément à l’ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^9-1].
 
-[^9-1]: RSB 152.051
+[^9-1]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
 
 #### Art. 10
 

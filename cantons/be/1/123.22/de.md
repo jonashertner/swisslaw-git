@@ -4,13 +4,13 @@ number: "123.22"
 title: Einführungsverordnung zum eidgenössischen Ausweisgesetz
 short: EV AwG
 language: de
-version: 2012-08-01
-valid_until: 2021-02-28
-version_adopted: 2012-05-23
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-01-20
 adopted: 2009-12-23
 in_force: 2010-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/123.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/39/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/39/pdf_file"
 
 (EV AwG)
 
-vom 23.12.2009 (Stand 01.08.2012)
+vom 23.12.2009 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -111,7 +111,9 @@ beschliesst:
 
 **Bezug von Personendaten**
 
-<sup>1</sup> Als Grundlage für die Ausstellung von Ausweisen für Schweizer Staatsangehörige dienen gemäss Artikel 10 Absatz 1 VAwG die Daten aus dem elektronischen Personenstandsregister (Infostar). Ergänzend kann das Amt für Migration und Personenstand Daten der Einwohnerkontrollregister gemäss Verordnung vom 12. März 2008 über die Harmonisierung amtlicher Register (RegV){{fn|BSG 152.051} über die Gemeinderegistersysteme (GERES) und die zentrale Personenverwaltung beziehen.
+<sup>1</sup> Als Grundlage für die Ausstellung von Ausweisen für Schweizer Staatsangehörige dienen gemäss Artikel 10 Absatz 1 VAwG die Daten aus dem elektronischen Personenstandsregister (Infostar). Ergänzend kann das Amt für Bevölkerungsdienste Daten der Einwohnerkontrollregister gemäss der Verordnung vom 20. Januar 2021 über die Gemeinderegistersysteme-Plattform (GERES V)[^9-1] beziehen.
+
+[^9-1]: BSG [152.051](https://www.belex.sites.be.ch/data/152.051/de)
 
 #### Art. 10
 
