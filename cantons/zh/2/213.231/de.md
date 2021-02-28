@@ -3,11 +3,10 @@ canton: ZH
 number: "213.231"
 title: Reglement der Direktion der Justiz und des Innern über die Organisation und die Tätigkeit der Prüfungskommission für die Staatsanwaltschaften
 language: de
-version: "2013-10-01"
-nachtrag: "82"
-valid_until: 2021-03-01
+version: "2021-03-01"
+nachtrag: "112"
 adopted: 2006-01-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-213_231-2006_01_06-2006_02_01-082.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-213_231-2006_01_06-2006_02_01-112.html"
 text: pdf
 ---
 
@@ -62,7 +61,7 @@ Der Prüfungskommission obliegen alle Aufgaben, die nicht dem Präsidium oder ei
 
 **1**
 
-- 1\. 10. 13 - 82
+- 1\. 4. 21 - 112
 
 - g. Ressourcenplanung und Abrechnung zuhanden der Oberstaatsanwaltschaft,
 
@@ -111,7 +110,7 @@ Die Oberstaatsanwaltschaft führt das Sekretariat der Prüfungskommission und st
 <sup>3</sup> Die Oberstaatsanwaltschaft meldet der Kommission unter Beilage der Bewerbungsakten die von ihr zugelassenen Personen.
 
 [^6-1]: LS 211.1.
-[^6-2]: Fassung gemäss Vfg. vom 19. Juli 2013 (OS 68, 310; ABl 2013-08-02). In Kraft seit 1. Oktober 2013. 1. 10. 13 - 82 7
+[^6-2]: Fassung gemäss Vfg. vom 19. Juli 2013 (OS 68, 310; ABl 2013-08-02). In Kraft seit 1. Oktober 2013.
 
 #### § 8
 
@@ -151,7 +150,7 @@ Entfallen nach der Zulassung zur Prüfung oder Kandidatur deren Voraussetzungen 
 
 **3**
 
-- 1\. 10. 13 - 82
+- 1\. 4. 21 - 112
 
 - Behördenorganisation in Bund und Kanton Zürich;
 
@@ -263,7 +262,7 @@ Die Kandidatin oder der Kandidat legt der ihr zugeteilten Begleitperson auf dere
 
 **5**
 
-- 1\. 10. 13 - 82 § 23. <sup>1</sup> Die Begleitperson nimmt an ausgewählten Untersuchungshandlungen der Kandidatin oder des Kandidaten teil. Sie führt quartalsweise Gespräche mit den Vorgesetzten der Kandidatin oder des Kandidaten, um deren Beurteilung einzubeziehen.
+- 1\. 4. 21 - 112 § 23. <sup>1</sup> Die Begleitperson nimmt an ausgewählten Untersuchungshandlungen der Kandidatin oder des Kandidaten teil. Sie führt quartalsweise Gespräche mit den Vorgesetzten der Kandidatin oder des Kandidaten, um deren Beurteilung einzubeziehen.
 
 **Aufgaben der Begleitperson**
 
@@ -307,19 +306,16 @@ Die Oberstaatsanwaltschaft stellt das Fähigkeitszeugnis auf Antrag der Prüfung
 
 ### VI. Entschädigungen
 
-[^hVIEntschädigungen-1]: LS 177.111.
-
-#### § 29
-
 **Mitglieder ausserhalb der Staatsanwaltschaften**
 
-Mitglieder der Prüfungskommission, welche nicht Angehörige einer Staatsanwaltschaft sind, werden für ihre Tätigkeit zulasten der Rechnung der Oberstaatsanwaltschaft gemäss § 55 Abs. 2 VVO[^hVIEntschädigungen-1] entschädigt. Sie erstellen hierfür ihre Abrechnungen zuhanden der Präsidentin oder des Präsidenten.
-
-#### § 30
+§ 29.[^hVIEntschädigungen-1] Mitglieder und Ersatzmitglieder der Prüfungskommission, die nicht Angehörige einer Staatsanwaltschaft sind, werden für ihre Tätigkeit zulasten der Rechnung der Oberstaatsanwaltschaft gemäss § 55 Abs. 2 VVO[^hVIEntschädigungen-2] entschädigt. Sie erstellen hierfür ihre Abrechnungen zuhanden der Präsidentin oder des Präsidenten.
 
 **Angehörige der Staatsanwaltschaften**
 
-Mitgliedern der Prüfungskommission, welche Angehörige einer Staatsanwaltschaft sind, steht nur die Entschädigung von Fahr- und anderen Spesen im Zusammenhang mit ihrer Tätigkeit für die Prüfungskommission zu. Sie sind hierfür jedoch soweit möglich zu entlasten.
+§ 30.[^hVIEntschädigungen-1] Mitglieder und Ersatzmitglieder der Prüfungskommission, die Angehörige einer Staatsanwaltschaft sind, werden für ihre Tätigkeit, insbesondere für die Begleitung und Beurteilung der Kandidaturen, pauschal mit Fr. 4000 pro Jahr entschädigt.
+
+[^hVIEntschädigungen-1]: Fassung gemäss Vfg. vom 26. November 2020 (OS 76, 29; ABl 2020-12-04). In Kraft seit 1. März 2021. 1. 4. 21 - 112 7
+[^hVIEntschädigungen-2]: LS 177.111.
 
 #### § 31
 
