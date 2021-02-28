@@ -4,13 +4,13 @@ number: "811.011"
 title: Verordnung über die Rechte und Pflichten der Patientinnen und Patienten und der Gesundheitsfachpersonen
 short: "Patientenrechtsverordnung, PatV"
 language: de
-version: 2013-01-01
-valid_until: 2021-02-28
-version_adopted: 2012-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/346/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2122/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/346/pdf_file"
 
 (Patientenrechtsverordnung, PatV)
 
-vom 23.10.2002 (Stand 01.01.2013)
+vom 23.10.2002 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -135,7 +135,7 @@ beschliesst:
 - b Bestimmungen über die Schweigepflicht,
 - c Auflagen und Vereinbarungen betreffend Datensicherheit und Datenschutz.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion kann Vorschriften über die Aufnahme bestimmter Vertragsbestimmungen erlassen.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Vorschriften über die Aufnahme bestimmter Vertragsbestimmungen erlassen.
 
 #### Art. 13
 

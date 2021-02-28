@@ -4,13 +4,13 @@ number: "811.011"
 title: Ordonnance sur les droits et les devoirs des patients et patientes et des professionnels et professionnelles de la santé
 short: "Ordonnance sur les patients et les professionnels de la santé, OPat"
 language: fr
-version: 2013-01-01
-valid_until: 2021-02-28
-version_adopted: 2012-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2002-10-23
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.011"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/346/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2122/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/346/pdf_file"
 
 (Ordonnance sur les patients et les professionnels de la santé, OPat)
 
-du 23.10.2002 (état au 01.01.2013)
+du 23.10.2002 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -135,7 +135,7 @@ arrête:
 - b les dispositions sur le devoir de discrétion,
 - c les charges et les conventions portant sur la sécurité et la protection des données.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale peut édicter des prescriptions sur l'inclusion de dispositions contractuelles déterminées.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration peut édicter des prescriptions sur l'inclusion de dispositions contractuelles déterminées.
 
 #### Art. 13
 
