@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2000 sur la libre circulation des avocats (Loi
 short: LLCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: fr
-version: 2017-01-01
+version: 2021-03-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20170101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20170101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,11 +17,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/fr"
 
 (Loi sur les avocats, LLCA)
 
-du 23 juin 2000 (Etat le 1<sup>er</sup> janvier 2017)
+du 23 juin 2000 (Etat le 1<sup>er</sup> mars 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu l’art. 95 de la Constitution[^ingress-1], vu l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse et, d’autre part, la Communauté européenne et ses Etats membres sur la libre circulation des personnes[^ingress-2], vu le message du Conseil fédéral du 28 avril 1999[^ingress-3],
+vu l’art. 95 de la Constitution[^ingress-1], vu l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse et, d’autre part, la Communauté européenne et ses États membres sur la libre circulation des personnes[^ingress-2], vu le message du Conseil fédéral du 28 avril 1999[^ingress-3],
 
 arrête:
 
@@ -43,12 +43,21 @@ La présente loi garantit la libre circulation des avocats et fixe les principes
 
 <sup>1</sup> La présente loi s’applique aux titulaires d’un brevet d’avocat qui pratiquent, dans le cadre d’un monopole, la représentation en justice en Suisse.
 
-<sup>2</sup> Elle détermine les modalités selon lesquelles les avocats ressortissants des Etats membres de l’Union européenne (UE) ou de l’Association européenne de libre échange (AELE) peuvent pratiquer la représentation en justice.[^2-1]
+<sup>2</sup>
 
-<sup>3</sup> Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un Etat membre de l’UE ou de l’AELE[^2-2] sous un titre figurant en annexe.
+Elle détermine les modalités selon lesquelles les personnes suivantes peuvent pratiquer la représentation en justice:
 
-[^2-1]: Nouvelle teneur selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)).
-[^2-2]: Nouvelle expression selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)). Il a été tenu compte de cette mod. dans tout le texte.
+- a. les avocats ressortissants des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);
+- b. les avocats ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique la quatrième partie de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes[^2-1].[^2-2]
+
+<sup>3</sup> Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un État membre de l’UE ou de l’AELE[^2-3] sous un titre figurant en annexe.
+
+<sup>4</sup> Les dispositions concernant les avocats ressortissants des États membres de l’UE ou de l’AELE sont applicables par analogie aux avocats ressortissants du Royaume-Uni visés à l’al. 2, let. b.[^2-4]
+
+[^2-1]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^2-2]: Nouvelle teneur selon l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-3]: Nouvelle expression selon le ch. I de la LF du 22 mars 2002, en vigueur depuis le 1<sup>er</sup> août 2002 ([RO 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2477](https://fedlex.data.admin.ch/eli/fga/2002/337)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-4]: Introduit par l’annexe ch. 2 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Accord entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 
 #### Art. 3
 
@@ -104,7 +113,7 @@ Le registre contient les données personnelles suivantes:
 
 Pour être inscrit au registre, l’avocat doit être titulaire d’un brevet d’avocat. Les cantons ne peuvent délivrer un tel brevet que si le titulaire a effectué:
 
-- a. des études de droit sanctionnées soit par une licence ou un master délivrés par une université suisse, soit par un diplôme équivalent délivré par une université de l’un des Etats qui ont conclu avec la Suisse un accord de reconnaissance mutuelle des diplômes;
+- a. des études de droit sanctionnées soit par une licence ou un master délivrés par une université suisse, soit par un diplôme équivalent délivré par une université de l’un des États qui ont conclu avec la Suisse un accord de reconnaissance mutuelle des diplômes;
 - b. un stage d’une durée d’un an au moins effectué en Suisse et sanctionné par un examen portant sur les connaissances juridiques théoriques et pratiques.
 
 <sup>2</sup> Les cantons dans lesquels l’italien est langue officielle peuvent reconnaître un diplôme étranger obtenu en langue italienne équivalant à une licence ou à un master.
@@ -145,7 +154,7 @@ L’avocat qui ne remplit plus l’une des conditions d’inscription est radié
 Sont admis à consulter le registre:
 
 - a. les autorités judiciaires et administratives fédérales et cantonales devant lesquelles l’avocat exerce son activité;
-- b. les autorités judiciaires et administratives des Etats membres de l’UE ou de l’AELE devant lesquelles un avocat inscrit au registre exerce ses activités;
+- b. les autorités judiciaires et administratives des États membres de l’UE ou de l’AELE devant lesquelles un avocat inscrit au registre exerce ses activités;
 - c. les autorités cantonales de surveillance des avocats;
 - d. l’avocat, pour les indications qui le concernent.
 
@@ -157,7 +166,7 @@ Sont admis à consulter le registre:
 
 Les données du registre nécessaires à l’attribution et à l’utilisation du numéro d’identification des entreprises au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises[^10a-2], sont communiquées à l’Office fédéral de la statistique.
 
-[^10a-1]: Introduit par le ch. 3 de l’annexe à la LF du 18 juin 2010 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 7093](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^10a-1]: Introduit par l’annexe ch. 3 de la LF du 18 juin 2010 sur le numéro d’identification des entreprises, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 7093](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 [^10a-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 11
@@ -269,13 +278,13 @@ En cas de violation de la présente loi, l’autorité de surveillance peut pron
 
 <sup>2</sup> L’interdiction temporaire de pratiquer est radiée du registre dix ans après la fin de ses effets.
 
-## Section 4 Prestation de services par les avocats des Etats membres de l’UE ou de l’AELE
+## Section 4 Prestation de services par les avocats des États membres de l’UE ou de l’AELE
 
 #### Art. 21
 
 **Principes**
 
-<sup>1</sup> L’avocat ressortissant d’un Etat membre de l’UE ou de l’AELE habilité à exercer dans son Etat de provenance sous l’une des dénominations figurant en annexe peut pratiquer la représentation en justice en Suisse sous la forme de prestation de services.
+<sup>1</sup> L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous l’une des dénominations figurant en annexe peut pratiquer la représentation en justice en Suisse sous la forme de prestation de services.
 
 <sup>2</sup> L’avocat prestataire de services n’est pas inscrit au registre cantonal des avocats.
 
@@ -295,7 +304,7 @@ Pour les procédures où l’assistance d’un avocat est obligatoire, l’avoca
 
 **Titre professionnel**
 
-L’avocat prestataire de services fait usage de son titre professionnel d’origine exprimé dans la ou l’une des langues officielles de l’Etat de provenance, accompagné du nom de l’organisme professionnel dont il relève ou de celui de la juridiction auprès de laquelle il est habilité à exercer en application de la législation de cet Etat.
+L’avocat prestataire de services fait usage de son titre professionnel d’origine exprimé dans la ou l’une des langues officielles de l’État de provenance, accompagné du nom de l’organisme professionnel dont il relève ou de celui de la juridiction auprès de laquelle il est habilité à exercer en application de la législation de cet État.
 
 #### Art. 25
 
@@ -307,15 +316,15 @@ L’avocat prestataire de services est soumis aux règles professionnelles prév
 
 **Communication des mesures disciplinaires**
 
-L’autorité de surveillance informe l’autorité compétente de l’Etat de provenance des mesures disciplinaires qu’elle a prises à l’encontre de l’avocat prestataire de services.
+L’autorité de surveillance informe l’autorité compétente de l’État de provenance des mesures disciplinaires qu’elle a prises à l’encontre de l’avocat prestataire de services.
 
-## Section 5 Exercice permanent, par les avocats des Etats membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine
+## Section 5 Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine
 
 #### Art. 27
 
 **Principes**
 
-<sup>1</sup> L’avocat ressortissant d’un Etat membre de l’UE ou de l’AELE habilité à exercer dans son Etat de provenance sous un titre figurant en annexe peut pratiquer la représentation en justice en Suisse à titre permanent, sous son titre professionnel d’origine, après s’être inscrit au tableau.
+<sup>1</sup> L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous un titre figurant en annexe peut pratiquer la représentation en justice en Suisse à titre permanent, sous son titre professionnel d’origine, après s’être inscrit au tableau.
 
 <sup>2</sup> Les art. 23 à 25 sont applicables.
 
@@ -323,21 +332,21 @@ L’autorité de surveillance informe l’autorité compétente de l’Etat de p
 
 **Inscription au tableau**
 
-<sup>1</sup> L’autorité de surveillance tient un tableau public des avocats des Etats membres de l’UE ou de l’AELE autorisés à pratiquer la représentation en justice en Suisse de manière permanente sous leur titre d’origine.
+<sup>1</sup> L’autorité de surveillance tient un tableau public des avocats des États membres de l’UE ou de l’AELE autorisés à pratiquer la représentation en justice en Suisse de manière permanente sous leur titre d’origine.
 
-<sup>2</sup> L’avocat s’inscrit auprès de l’autorité de surveillance du canton sur le territoire duquel il a une adresse professionnelle. Il établit sa qualité d’avocat en produisant une attestation de son inscription auprès de l’autorité compétente de son Etat de provenance; cette attestation ne doit pas dater de plus de trois mois.
+<sup>2</sup> L’avocat s’inscrit auprès de l’autorité de surveillance du canton sur le territoire duquel il a une adresse professionnelle. Il établit sa qualité d’avocat en produisant une attestation de son inscription auprès de l’autorité compétente de son État de provenance; cette attestation ne doit pas dater de plus de trois mois.
 
-<sup>3</sup> Après avoir inscrit l’avocat au tableau, l’autorité de surveillance en informe l’autorité compétente de l’Etat de provenance.
+<sup>3</sup> Après avoir inscrit l’avocat au tableau, l’autorité de surveillance en informe l’autorité compétente de l’État de provenance.
 
 #### Art. 29
 
-**Coopération avec l’autorité compétente de l’Etat de provenance**
+**Coopération avec l’autorité compétente de l’État de provenance**
 
-<sup>1</sup> Avant d’ouvrir une procédure disciplinaire contre un avocat ressortissant d’un Etat membre de l’UE ou de l’AELE exerçant de manière permanente en Suisse sous son titre d’origine, l’autorité de surveillance informe l’autorité compétente de l’Etat de provenance.
+<sup>1</sup> Avant d’ouvrir une procédure disciplinaire contre un avocat ressortissant d’un État membre de l’UE ou de l’AELE exerçant de manière permanente en Suisse sous son titre d’origine, l’autorité de surveillance informe l’autorité compétente de l’État de provenance.
 
-<sup>2</sup> L’autorité de surveillance coopère avec l’autorité compétente de l’Etat de provenance pendant la procédure disciplinaire en lui donnant notamment la possibilité de déposer des observations.
+<sup>2</sup> L’autorité de surveillance coopère avec l’autorité compétente de l’État de provenance pendant la procédure disciplinaire en lui donnant notamment la possibilité de déposer des observations.
 
-## Section 6 Inscription des avocats des Etats membres de l’UE ou de l’AELE au registre cantonal des avocats
+## Section 6 Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats
 
 #### Art. 30
 
@@ -345,7 +354,7 @@ L’autorité de surveillance informe l’autorité compétente de l’Etat de p
 
 <sup>1</sup>
 
-L’avocat ressortissant d’un Etat membre de l’UE ou de l’AELE peut être inscrit à un registre cantonal des avocats sans remplir les conditions prévues à l’art. 7, let. b:
+L’avocat ressortissant d’un État membre de l’UE ou de l’AELE peut être inscrit à un registre cantonal des avocats sans remplir les conditions prévues à l’art. 7, let. b:
 
 - a. s’il a réussi une épreuve d’aptitude (art. 31), ou
 - b.
@@ -359,18 +368,18 @@ L’avocat ressortissant d’un Etat membre de l’UE ou de l’AELE peut être 
 
 #### Art. 31
 
-**Epreuve d’aptitude**
+**Épreuve d’aptitude**
 
 <sup>1</sup>
 
-Peuvent se présenter à l’épreuve d’aptitude les avocats ressortissants des Etats membres de l’UE ou de l’AELE qui:
+Peuvent se présenter à l’épreuve d’aptitude les avocats ressortissants des États membres de l’UE ou de l’AELE qui:
 
 - a. ont suivi avec succès un cycle d’études d’une durée minimale de trois ans dans une université et, le cas échéant, la formation complémentaire requise en plus de ce cycle d’études, et
-- b. possèdent un diplôme permettant l’exercice de la profession d’avocat dans un Etat membre de l’UE ou de l’AELE.
+- b. possèdent un diplôme permettant l’exercice de la profession d’avocat dans un État membre de l’UE ou de l’AELE.
 
 <sup>2</sup> La commission des examens d’avocat du canton au registre duquel l’avocat souhaite être inscrit lui fait passer une épreuve d’aptitude.
 
-<sup>3</sup> L’épreuve porte sur les matières qui figurent au programme de l’examen cantonal d’accès à la profession d’avocat, et qui sont substantiellement différentes de celles comprises dans le cadre de la formation suivie par le candidat dans son Etat de provenance. Le contenu de l’épreuve est fixé compte tenu également de l’expérience professionnelle du candidat.
+<sup>3</sup> L’épreuve porte sur les matières qui figurent au programme de l’examen cantonal d’accès à la profession d’avocat, et qui sont substantiellement différentes de celles comprises dans le cadre de la formation suivie par le candidat dans son État de provenance. Le contenu de l’épreuve est fixé compte tenu également de l’expérience professionnelle du candidat.
 
 <sup>4</sup> L’épreuve d’aptitude peut être repassée deux fois.
 
@@ -420,9 +429,9 @@ Les titulaires de brevets d’avocat délivrés conformément à l’ancien droi
 
 <sup>1</sup> La présente loi est sujette au référendum.
 
-<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur. Les art. 2, al. 2 et 3, 10, al. 1, let. b, ainsi que les sections 4 à 6 n’entrent en vigueur que si l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse et, d’autre part, la Communauté européenne et ses Etats membres sur la libre circulation des personnes[^37-1] entre lui-même en vigueur.
+<sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur. Les art. 2, al. 2 et 3, 10, al. 1, let. b, ainsi que les sections 4 à 6 n’entrent en vigueur que si l’Accord du 21 juin 1999 entre, d’une part, la Confédération suisse et, d’autre part, la Communauté européenne et ses États membres sur la libre circulation des personnes[^37-1] entre lui-même en vigueur.
 
-<sup>3</sup> Pour les ressortissants des Etats membres de l’AELE, les art. 2, al. 2 et 3, 10, al. 1, let. b, ainsi que les sections 4 à 6 n’entrent en vigueur que si la loi fédérale du 14 décembre 2001 relative aux dispositions concernant la libre circulation des personnes de l’Accord du 21 juin 2001 amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^37-2] entre elle-même en vigueur.[^37-3]
+<sup>3</sup> Pour les ressortissants des États membres de l’AELE, les art. 2, al. 2 et 3, 10, al. 1, let. b, ainsi que les sections 4 à 6 n’entrent en vigueur que si la loi fédérale du 14 décembre 2001 relative aux dispositions concernant la libre circulation des personnes de l’Accord du 21 juin 2001 amendant la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (AELE)[^37-2] entre elle-même en vigueur.[^37-3]
 
 Date de l’entrée en vigueur: 1<sup>er</sup> juin 2002[^37-4]
 
@@ -435,9 +444,9 @@ Annexe*[^t-1]*
 
 (art. 21, al. 1, et 27, al. 1)
 
-## Liste des titres professionnels dans les Etats membres de l’UE et de l’AELE selon les directives 77/249/CEE et 98/5/CE
+## Liste des titres professionnels dans les États membres de l’UE et de l’AELE selon les directives 77/249/CEE et 98/5/CE
 
-[^t-1]: Nouvelle teneur selon le ch. 11 de l’annexe à l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^t-1]: Nouvelle teneur selon l’annexe ch. 11 de l’AF du 17 juin 2016 (Extension de l’Ac. sur la libre circulation des personnes à la Croatie), en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 2059](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 
 Allemagne Rechtsanwalt
 

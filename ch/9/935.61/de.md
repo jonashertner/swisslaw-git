@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2000 über die Freizügigkeit der Anwältinnen
 short: BGFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: de
-version: 2017-01-01
+version: 2021-03-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20170101/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20170101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/de"
 
 (Anwaltsgesetz, BGFA)
 
-vom 23. Juni 2000 (Stand am 1. Januar 2017)
+vom 23. Juni 2000 (Stand am 1. März 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -43,12 +43,21 @@ Dieses Gesetz gewährleistet die Freizügigkeit der Anwältinnen und Anwälte un
 
 <sup>1</sup> Dieses Gesetz gilt für Personen, die über ein Anwaltspatent verfügen und in der Schweiz im Rahmen des Anwaltsmonopols Parteien vor Gerichtsbehörden vertreten.
 
-<sup>2</sup> Es bestimmt die Modalitäten für die Vertretung von Parteien vor Gerichtsbehörden durch Anwältinnen und Anwälte, die Staatsangehörige von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) sind.[^2-1]
+<sup>2</sup>
 
-<sup>3</sup> Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA[^2-2] auszuüben.
+Es bestimmt die Modalitäten für die Vertretung von Parteien vor Gerichtsbehörden durch Anwältinnen und Anwälte, die:
 
-[^2-1]: Fassung gemäss Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)).
-[^2-2]: Ausdruck beigefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+- a. Staatsangehörige von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) sind;
+- b. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands sind, die von Teil Vier des Abkommens vom 25. Februar 2019[^2-1] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden.[^2-2]
+
+<sup>3</sup> Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA[^2-3] auszuüben.
+
+<sup>4</sup> Die Bestimmungen über Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten sinngemäss auch für Anwältinnen und Anwälte des Vereinigten Königreichs nach Absatz 2 Buchstabe b.[^2-4]
+
+[^2-1]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^2-2]: Fassung gemäss Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-3]: Ausdruck beigefügt durch Ziff. I des BG vom 22. März 2002, in Kraft seit 1. Aug. 2002 ([AS 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [BBl 2002 2637](https://fedlex.data.admin.ch/eli/fga/2002/337)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^2-4]: Eingefügt durch Anhang Ziff. 2 des BB vom 25. Sept. 2020 über die Genehmigung und die Umsetzung des Abk. zwischen der Schweiz und dem Vereinigten Königreich über die Rechte der Bürgerinnen und Bürger infolge dessen Austritt aus der EU und des Wegfalls des Freizügigkeitsabkommens, in Kraft seit 1. März 2021 ([AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [BBl 2020 1029](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 
 #### Art. 3
 
@@ -404,7 +413,7 @@ Die Anwältinnen und Anwälte können neben der Berufsbezeichnung des Kantons, i
 
 **Änderung bisherigen Rechts**
 
-…[^35-1]
+...[^35-1]
 
 [^35-1]: Die Änderung kann unter [AS 2002 863](https://fedlex.data.admin.ch/eli/oc/2002/153)konsultiert werden.
 

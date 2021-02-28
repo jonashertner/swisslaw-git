@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2000 sulla libera circolazione degli avvoca
 short: LLCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/153"
 language: it
-version: 2017-01-01
+version: 2021-03-01
 adopted: 2000-06-23
 in_force: 2002-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20170101/it/xml/fedlex-data-admin-ch-eli-cc-2002-153-20170101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/153/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2002-153-20210301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/153/20170101/it"
 
 (Legge sugli avvocati, LLCA)
 
-del 23 giugno 2000 (Stato 1° gennaio 2017)
+del 23 giugno 2000 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -43,12 +43,21 @@ La presente legge garantisce la libera circolazione degli avvocati e stabilisce 
 
 <sup>1</sup> La presente legge si applica ai titolari di una patente di avvocato che esercitano la rappresentanza in giudizio in Svizzera nell’ambito di un monopolio.
 
-<sup>2</sup> Determina le modalità secondo cui gli avvocati cittadini degli Stati membri dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS) possono esercitare la rappresentanza in giudizio.[^2-1]
+<sup>2</sup>
 
-<sup>3</sup> Tali modalità si applicano anche ai cittadini svizzeri abilitati a esercitare l’avvocatura in uno Stato membro dell’UE o dell’AELS[^2-2] con uno dei titoli professionali elencati nell’allegato.
+Determina le modalità secondo cui possono esercitare la rappresentanza in giudizio:
 
-[^2-1]: Nuovo testo giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° ago. 2002 ([RU 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2381](https://fedlex.data.admin.ch/eli/fga/2002/337)).
-[^2-2]: Nuova espr. giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° ago. 2002 ([RU 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2381](https://fedlex.data.admin.ch/eli/fga/2002/337)). Di detta mod. è tenuto conto in tutto il presente testo.
+- a. gli avvocati cittadini degli Stati membri dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS);
+- b. gli avvocati cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord ai quali si applica la parte quarta dell’Accordo del 25 febbraio 2019[^2-1] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone.[^2-2]
+
+<sup>3</sup> Tali modalità si applicano anche ai cittadini svizzeri abilitati a esercitare l’avvocatura in uno Stato membro dell’UE o dell’AELS[^2-3] con uno dei titoli professionali elencati nell’allegato.
+
+<sup>4</sup> Le disposizioni concernenti gli avvocati cittadini degli Stati membri dell’UE o dell’AELS sono applicabili per analogia agli avvocati cittadini del Regno Unito di cui al capoverso 2 lettera b.[^2-4]
+
+[^2-1]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^2-2]: Nuovo testo giusta l’all. n. 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^2-3]: Nuova espr. giusta il n. I della LF del 22 mar. 2002, in vigore dal 1° ago. 2002 ([RU 2002 2134](https://fedlex.data.admin.ch/eli/oc/2002/318); [FF 2002 2381](https://fedlex.data.admin.ch/eli/fga/2002/337)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-4]: Introdotto dall’all. n. 2 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
 
 #### Art. 3
 
@@ -157,7 +166,7 @@ Il registro può essere consultato:
 
 I dati del registro necessari per l’attribuzione e l’utilizzo del numero d’identificazione delle imprese ai sensi della legge federale del 18 giugno 2010[^10a-2] sul numero d’identificazione delle imprese sono inoltre comunicati all’Ufficio federale di statistica.
 
-[^10a-1]: Introdotto dal n. 3 dell'all. alla LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
+[^10a-1]: Introdotto dall’all. n. 3 della LF del 18 giu. 2010 sul numero d’identificazione delle imprese, in vigore dal 1° gen. 2011 ([RU 2010 4989](https://fedlex.data.admin.ch/eli/oc/2010/705); [FF 2009 6817](https://fedlex.data.admin.ch/eli/fga/2009/1395)).
 [^10a-2]: [RS 431.03](https://fedlex.data.admin.ch/eli/cc/2010/705)
 
 #### Art. 11
@@ -437,7 +446,7 @@ Allegato*[^t-1]*
 
 ## Elenco dei titoli professionali negli Stati membri dell’UE e dell’AELS secondo le direttive 77/249/CEE e 98/5/CE
 
-[^t-1]: Nuovo testo giusta il n. 11 dell’all. al DF del 17 giu. 2016 (estensione alla Croazia dell’Acc. sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
+[^t-1]: Nuovo testo l’all. n. 11 del DF del 17 giu. 2016 (estensione alla Croazia dell’Acc. sulla libera circolazione delle persone), in vigore dal 1° gen. 2017 ([RU 2016 5233](https://fedlex.data.admin.ch/eli/oc/2016/828); [FF 2016 1899](https://fedlex.data.admin.ch/eli/fga/2016/467)).
 
 Austria Rechtsanwalt
 
