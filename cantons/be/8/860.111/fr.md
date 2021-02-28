@@ -4,13 +4,13 @@ number: "860.111"
 title: "Ordonnance sur l'aide sociale"
 short: OASoc
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2021-01-29
+version: 2021-03-01
+valid_until: 2021-04-30
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2154/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2155/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2154/pdf_file"
 
 (OASoc)
 
-du 24.10.2001 (état au 01.01.2021)
+du 24.10.2001 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -66,7 +66,7 @@ arrête:
 - b les objectifs d'effets et les critères de qualité peuvent être respectés et que
 - c la suppléance ainsi que l'échange avec d'autres membres de la profession sont assurés par le biais d'une réglementation.
 
-<sup>3</sup> L'Office des affaires sociales (OAS) de la Direction de la santé publique et de la prévoyance sociale (SAP) décide si le service social satisfait à ces exigences.
+<sup>3</sup> L'Office de l’intégration et de l’action sociale (OIAS) de la Direction de la santé, des affaires sociales et de l’intégration (DSSI) décide si le service social satisfait à ces exigences.
 
 #### Art. 3a
 
@@ -142,13 +142,13 @@ arrête:
 - a prend position et émet des recommandations sur des questions fondamentales ainsi que sur des projets législatifs en lien avec la politique sociale, la politique de couverture du minimum vital et la politique de la famille;
 - b suit l’évolution de ces politiques à l’échelle cantonale, nationale et internationale;
 - c encourage l’échange d’informations et d’expériences en la matière entre le canton, les communes, les organisations professionnelles et les partenaires sociaux;
-- d se prononce sur les questions et les projets qui lui sont soumis par le Conseil-exécutif, la SAP ou des communes.
+- d se prononce sur les questions et les projets qui lui sont soumis par le Conseil-exécutif, la DSSI ou des communes.
 
 #### Art. 6
 
 **3 Composition**
 
-<sup>1</sup> La commission est présidée par le directeur ou la directrice de la santé publique et de la prévoyance sociale et se compose au maximum de
+<sup>1</sup> La commission est présidée par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration et se compose au maximum de
 
 - a sept représentants et représentantes de l’administration cantonale,
 - b trois représentants et représentantes des communes,
@@ -164,7 +164,7 @@ arrête:
 
 **4 Nomination, durée de fonction, organisation et marche des affaires**
 
-<sup>1</sup> Les membres de la commission sont nommés par le Conseil-exécutif sur proposition de la SAP. Lorsqu’ils sont empêchés de participer à une séance, ils peuvent se faire remplacer.
+<sup>1</sup> Les membres de la commission sont nommés par le Conseil-exécutif sur proposition de la DSSI. Lorsqu’ils sont empêchés de participer à une séance, ils peuvent se faire remplacer.
 
 <sup>1a</sup> Le Jura bernois et les Francophones de l’arrondissement administratif de Biel/Bienne doivent être équitablement représentés.
 
@@ -323,7 +323,7 @@ arrête:
 
 <sup>3</sup> Si plusieurs offres équivalentes et appropriées sont proposées pour une même prestation circonstancielle, il convient d’opter pour la meilleur marché.
 
-<sup>4</sup> La SAP édicte une ordonnance sur le calcul des prestations circonstancielles.
+<sup>4</sup> La DSSI édicte une ordonnance sur le calcul des prestations circonstancielles.
 
 #### Art. 8k
 
@@ -449,21 +449,21 @@ arrête:
 
 **2 Avis d'assistance**
 
-<sup>1</sup> Les communes chargées de l'assistance sont tenues de notifier un avis d'assistance à l'OAS dans les 30 jours suivant la décision.
+<sup>1</sup> Les communes chargées de l'assistance sont tenues de notifier un avis d'assistance à l'OIAS dans les 30 jours suivant la décision.
 
-<sup>2</sup> Dans les cas d'urgence au sens de l'article 13 LAS[^14-1], l'avis d'assistance doit être notifié à l'OAS aussi rapidement que possible.
+<sup>2</sup> Dans les cas d'urgence au sens de l'article 13 LAS[^14-1], l'avis d'assistance doit être notifié à l'OIAS aussi rapidement que possible.
 
-<sup>3</sup> Les avis d'assistance doivent être notifiés au moyen des formulaires prescrits par l'OAS.
+<sup>3</sup> Les avis d'assistance doivent être notifiés au moyen des formulaires prescrits par l'OIAS.
 
-[^14-1]: RS 851.1
+[^14-1]: RS [851.1](https://db.clex.ch/link/Bund/851.1/fr)
 
 #### Art. 15
 
 **3 Comptes**
 
-<sup>1</sup> Lorsqu'au cours d'un trimestre, une commune a versé des prestations d'assistance qui doivent lui être remboursées partiellement ou entièrement par d'autres cantons, elle doit présenter à l'OAS dans les 30 jours suivant la fin du trimestre un décompte des frais à rembourser.
+<sup>1</sup> Lorsqu'au cours d'un trimestre, une commune a versé des prestations d'assistance qui doivent lui être remboursées partiellement ou entièrement par d'autres cantons, elle doit présenter à l'OIAS dans les 30 jours suivant la fin du trimestre un décompte des frais à rembourser.
 
-<sup>2</sup> Les décomptes doivent être établis sur les formulaires prescrits par l'OAS.
+<sup>2</sup> Les décomptes doivent être établis sur les formulaires prescrits par l'OIAS.
 
 #### Art. 16
 
@@ -485,7 +485,7 @@ arrête:
 
 **3 Renonciation**
 
-<sup>1</sup> Les communes qui renoncent à exercer l'aide sociale bourgeoise doivent en faire la déclaration à l'OAS.
+<sup>1</sup> Les communes qui renoncent à exercer l'aide sociale bourgeoise doivent en faire la déclaration à l'OIAS.
 
 <sup>2</sup> La commune ou corporation bourgeoise est tenue de payer des contributions de biens de bourgeoisie dès l'extinction de l'aide sociale bourgeoise.
 
@@ -495,7 +495,7 @@ arrête:
 
 **4 Retrait**
 
-<sup>1</sup> L'OAS peut retirer le droit d'exercer l'aide sociale bourgeoise à une commune ou corporation bourgeoise si, en dépit d'avertissements, celle-ci manque à ses devoirs ou ne satisfait pas aux exigences légales.
+<sup>1</sup> L'OIAS peut retirer le droit d'exercer l'aide sociale bourgeoise à une commune ou corporation bourgeoise si, en dépit d'avertissements, celle-ci manque à ses devoirs ou ne satisfait pas aux exigences légales.
 
 <sup>2</sup> Le retrait entraîne les mêmes conséquences que la renonciation.
 
@@ -503,7 +503,7 @@ arrête:
 
 **Contributions des biens de bourgeoisie 1 Période de contribution et période de calcul**
 
-<sup>1</sup> L’OAS fixe le montant des contributions des biens de bourgeoisie pour une période de quatre ans.
+<sup>1</sup> L’OIAS fixe le montant des contributions des biens de bourgeoisie pour une période de quatre ans.
 
 <sup>2</sup> Le calcul se fonde sur les données de la période comprise entre la troisième et la sixième année précédant le début de la période de contribution.
 
@@ -521,19 +521,19 @@ arrête:
 
 <sup>1</sup> Les contributions sont fixées sur la base des taxations fiscales de la période de calcul entrées en force.
 
-<sup>2</sup> Si ces données ne sont pas disponibles, le calcul se fonde sur les chiffres provisoires. L’OAS adapte le montant de la contribution après réception des données entrées en force.
+<sup>2</sup> Si ces données ne sont pas disponibles, le calcul se fonde sur les chiffres provisoires. L’OIAS adapte le montant de la contribution après réception des données entrées en force.
 
 #### Art. 23
 
 **3 Perception**
 
-<sup>1</sup> L’OAS facture les contributions à fin juin avec un délai de paiement de 30 jours.
+<sup>1</sup> L’OIAS facture les contributions à fin juin avec un délai de paiement de 30 jours.
 
 <sup>2</sup> Un intérêt moratoire est perçu en cas de retard de paiement. Un intérêt rémunératoire est versé pour les montants facturés et payés en trop.
 
 <sup>3</sup> Le calcul et le taux des intérêts moratoires et des intérêts rémunératoires sont régis par l’ordonnance du 18 octobre 2000 sur la perception des redevances et autres créances transmises à l’encaissement, sur les facilités de paiement, sur la remise, sur les éliminations de créances irrécouvrables ainsi que sur les intérêts que portent les créances à recouvrer (ordonnance sur la perception, OPER)[^23-1].
 
-<sup>4</sup> En cas de rigueur particulière, l’OAS peut libérer des communes et corporations bourgeoises de leur obligation de contribuer pour une année.
+<sup>4</sup> En cas de rigueur particulière, l’OIAS peut libérer des communes et corporations bourgeoises de leur obligation de contribuer pour une année.
 
 [^23-1]: RSB 661.733
 
@@ -581,7 +581,7 @@ arrête:
 
 **Rapport**
 
-<sup>1</sup> Les services sociaux rendent compte à la fin de chaque année civile à l’OAS des inspections sociales effectuées.
+<sup>1</sup> Les services sociaux rendent compte à la fin de chaque année civile à l’OIAS des inspections sociales effectuées.
 
 <sup>2</sup> Le rapport contient des indications sur le nombre d’enquêtes, leurs conclusions, leur durée et leurs coûts ainsi que sur les sanctions prononcées et précise le cas échéant les noms des tiers mandatés pour les réaliser.
 
@@ -612,7 +612,7 @@ arrête:
 
 **Coûts des soins en mode résidentiel 1 Contribution du canton**
 
-<sup>1</sup> L’Office des personnes âgées et handicapées (OPAH) rémunère les fournisseurs de prestations pour les soins résidentiels qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne comme suit:
+<sup>1</sup> L’Office des personnes âgées et des personnes handicapées (OPAH) rémunère les fournisseurs de prestations pour les soins résidentiels qui ne sont pas couverts par les assurances sociales ni par les bénéficiaires de prestations et qui sont prodigués à des personnes domiciliées dans le canton de Berne comme suit:
 
 - a degré de soins 1: — CHF 0.00 par jour
 - b degré de soins 2: — CHF 0.00 par jour
@@ -672,13 +672,13 @@ arrête:
 
 <sup>1</sup> Les subventions cantonales de construction et d’investissement sont autorisées par le Conseil-exécutif.
 
-<sup>2</sup> La SAP est habilitée à autoriser des subventions cantonales de construction et d’investissement dans les limites des compétences en matière d’autorisation de dépenses qui lui sont déléguées en vertu de l’article 152 de l’ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^26-1].
+<sup>2</sup> La DSSI est habilitée à autoriser des subventions cantonales de construction et d’investissement dans les limites des compétences en matière d’autorisation de dépenses qui lui sont déléguées en vertu de l’article 152 de l’ordonnance du 3 décembre 2003 sur le pilotage des finances et des prestations (OFP)[^26-1].
 
-<sup>3</sup> Les subventions cantonales d’exploitation sont autorisées par la SAP.
+<sup>3</sup> Les subventions cantonales d’exploitation sont autorisées par la DSSI.
 
 <sup>4</sup> Les contributions communales sont autorisées par l’organe communal compétent en matière d’autorisation de dépenses.
 
-[^26-1]: RSB 621.1
+[^26-1]: RSB [621.1](https://www.belex.sites.be.ch/data/621.1/fr)
 
 #### Art. 27
 
@@ -688,7 +688,7 @@ arrête:
 
 <sup>2</sup> En l'absence de coûts normatifs, le montant des contributions peut être fixé sur la base des coûts d'exploitation et de construction effectifs.
 
-<sup>3</sup> La SAP est habilitée à limiter uniformément les coûts imputables pour la fixation du montant des contributions et à déterminer des coûts plafonds d'entente avec la Direction des finances.
+<sup>3</sup> La DSSI est habilitée à limiter uniformément les coûts imputables pour la fixation du montant des contributions et à déterminer des coûts plafonds d'entente avec la Direction des finances.
 
 #### Art. 28
 
@@ -702,7 +702,7 @@ arrête:
 - b les contributions et les taxes des bénéficiaires,
 - c les fonds propres des fournisseurs de prestations.
 
-<sup>3</sup> La SAP est habilitée à édicter des prescriptions sur l'imputation des fonds propres d'entente avec la Direction des finances.
+<sup>3</sup> La DSSI est habilitée à édicter des prescriptions sur l'imputation des fonds propres d'entente avec la Direction des finances.
 
 #### Art. 29
 
@@ -710,7 +710,7 @@ arrête:
 
 <sup>1</sup> Les modalités d'application des tarifs sont réglées dans les contrats de prestations.
 
-<sup>2</sup> La SAP est habilitée à édicter des prescriptions tarifaires.
+<sup>2</sup> La DSSI est habilitée à édicter des prescriptions tarifaires.
 
 #### Art. 30
 
@@ -718,13 +718,13 @@ arrête:
 
 <sup>1</sup> Les fournisseurs de prestations tiennent une comptabilité selon des prescriptions uniformes.
 
-<sup>2</sup> La SAP est habilitée à édicter des prescriptions en conséquence.
+<sup>2</sup> La DSSI est habilitée à édicter des prescriptions en conséquence.
 
 #### Art. 31
 
 **Essais-pilotes**
 
-<sup>1</sup> La SAP ou, avec son autorisation, les communes peuvent expérimenter des formes particulières de rétribution des prestations dans le cadre d'essais ou de projets-pilotes.
+<sup>1</sup> La DSSI ou, avec son autorisation, les communes peuvent expérimenter des formes particulières de rétribution des prestations dans le cadre d'essais ou de projets-pilotes.
 
 ## 3a Formation et perfectionnement
 
@@ -822,7 +822,7 @@ arrête:
 
 **Versement compensatoire**
 
-<sup>1</sup> Le fournisseur de prestations verse une compensation à la Direction de la santé publique et de la prévoyance sociale si la prestation de formation et de perfectionnement fournie en points est inférieure de plus de dix pour cent à celle qui est prévue à l’article 31f, alinéa 1.
+<sup>1</sup> Le fournisseur de prestations verse une compensation à la DSSI si la prestation de formation et de perfectionnement fournie en points est inférieure de plus de dix pour cent à celle qui est prévue à l’article 31f, alinéa 1.
 
 <sup>2</sup> Le montant de la compensation correspond à trois fois la différence mentionnée à l’article 31h, alinéa 2.
 
@@ -850,11 +850,11 @@ arrête:
 
 **Inspection sociale 1 Services d’inspection sociale des communes**
 
-<sup>1</sup> Par mandat d'inspection sociale au sens de l'article 23b, l’OAS verse aux communes qui disposent de leur propre service d’inspection un forfait selon l’article 34d, alinéa 1 lorsque le mandat est réalisé par une personne dotée des qualifications au sens de l'article 23a.
+<sup>1</sup> Par mandat d'inspection sociale au sens de l'article 23b, l’OIAS verse aux communes qui disposent de leur propre service d’inspection un forfait selon l’article 34d, alinéa 1 lorsque le mandat est réalisé par une personne dotée des qualifications au sens de l'article 23a.
 
 <sup>2–3</sup> …
 
-<sup>4</sup> L’OAS paie le forfait à la demande des communes et après examen de l’attestation du besoin fournie par ces dernières.
+<sup>4</sup> L’OIAS paie le forfait à la demande des communes et après examen de l’attestation du besoin fournie par ces dernières.
 
 <sup>5</sup> …
 
@@ -864,20 +864,20 @@ arrête:
 
 **2 Mandats des communes à des tiers**
 
-<sup>1</sup> L’OAS rémunère les coûts des inspections sociales aux communes confiant des mandats à des tiers à hauteur de
+<sup>1</sup> L’OIAS rémunère les coûts des inspections sociales aux communes confiant des mandats à des tiers à hauteur de
 
 - a 4000 francs au maximum par personne concernée et par année civile,
 - b 6000 francs au maximum par personne concernée et par année civile si des surveillances ont été nécessaires pour établir les faits.
 
-<sup>2</sup> Les services sociaux des communes procèdent au décompte des inspections sociales achevées dans le cadre du rapport annuel adressé à l’OAS.
+<sup>2</sup> Les services sociaux des communes procèdent au décompte des inspections sociales achevées dans le cadre du rapport annuel adressé à l’OIAS.
 
-<sup>3</sup> L’OAS rembourse les coûts après examen du rapport et des factures.
+<sup>3</sup> L’OIAS rembourse les coûts après examen du rapport et des factures.
 
 #### Art. 32c
 
 **3 Montant admis à la compensation des charges**
 
-<sup>1</sup> L’OAS porte à la compensation des charges les dépenses engagées au sens des articles 32a et 32b ainsi que les rémunérations versées aux tiers mandatés pour effectuer des inspections sociales.
+<sup>1</sup> L’OIAS porte à la compensation des charges les dépenses engagées au sens des articles 32a et 32b ainsi que les rémunérations versées aux tiers mandatés pour effectuer des inspections sociales.
 
 ### 4.2 Charges des communes
 
@@ -902,7 +902,7 @@ arrête:
 
 <sup>4</sup> Lorsqu'une commune est déchue du droit de remboursement au sens de la LAS pour n'avoir pas présenté un avis d'assistance ou un décompte ou pour ne l'avoir pas fait dans les délais fixés ou lorsqu'elle omet de faire valoir le remboursement au sens de l'article 47, alinéa 2 LASoc auprès de la commune ou corporation bourgeoise compétente, les prestations d'aide matérielle correspondantes sont exclues de la compensation des charges.
 
-<sup>5</sup> La SAP peut édicter des directives sur l'admission à la compensation des charges de prestations d'aide matérielle octroyées au titre de remboursement de frais découlant de prestations de l'aide sociale institutionnelle (art. 32, al. 1, lit. d LASoc).
+<sup>5</sup> La DSSI peut édicter des directives sur l'admission à la compensation des charges de prestations d'aide matérielle octroyées au titre de remboursement de frais découlant de prestations de l'aide sociale institutionnelle (art. 32, al. 1, lit. d LASoc).
 
 [^33-1]: RSB 860.1
 
@@ -998,7 +998,7 @@ arrête:
 
 **Détermination des forfaits**
 
-<sup>1</sup> La SAP adapte les forfaits selon les articles 34d, alinéa 1, 34e, alinéa 1, 34f, alinéa 1 et 34g, alinéa 1 au début de l'année en fonction de la croissance de la masse salariale du personnel cantonal.
+<sup>1</sup> La DSSI adapte les forfaits selon les articles 34d, alinéa 1, 34e, alinéa 1, 34f, alinéa 1 et 34g, alinéa 1 au début de l'année en fonction de la croissance de la masse salariale du personnel cantonal.
 
 #### Art. 36a
 
@@ -1008,7 +1008,7 @@ arrête:
 
 **Détermination du montant admis à la compensation des charges**
 
-<sup>1</sup> L'OAS détermine le total des forfaits par cas selon leur nombre de l'année précédente et y ajoute le montant des frais de traitement pour les stagiaires.
+<sup>1</sup> L'OIAS détermine le total des forfaits par cas selon leur nombre de l'année précédente et y ajoute le montant des frais de traitement pour les stagiaires.
 
 <sup>2</sup> Il détermine le montant admis à la compensation des charges en calculant la moyenne des montants des deux années précédentes établis selon l'alinéa 1.
 
@@ -1022,9 +1022,9 @@ arrête:
 
 **Avec autorisation**
 
-<sup>1</sup> Les contributions versées par les communes aux fournisseurs de prestations de l'aide sociale institutionnelle sont admises à la compensation des charges pour autant qu'elles soient octroyées conformément aux dispositions sur la rétribution des prestations de la présente ordonnance (art. 25ss) et avec l'autorisation de la SAP.
+<sup>1</sup> Les contributions versées par les communes aux fournisseurs de prestations de l'aide sociale institutionnelle sont admises à la compensation des charges pour autant qu'elles soient octroyées conformément aux dispositions sur la rétribution des prestations de la présente ordonnance (art. 25ss) et avec l'autorisation de la DSSI.
 
-<sup>2</sup> Les communes peuvent porter à la compensation des charges les dépenses découlant de la planification des prestations de l'aide sociale institutionnelle pour autant qu'elle soit réalisée sur mandat de la SAP ou avec son consentement.
+<sup>2</sup> Les communes peuvent porter à la compensation des charges les dépenses découlant de la planification des prestations de l'aide sociale institutionnelle pour autant qu'elle soit réalisée sur mandat de la DSSI ou avec son consentement.
 
 <sup>3</sup> Les demandes d'autorisation déposées pour des prestations d'aide sociale institutionnelle doivent être examinées en tenant compte des frais de traitement versés aux personnes accomplissant un stage dans l'institution dans le cadre d'une formation spécialisée.
 
@@ -1044,15 +1044,15 @@ arrête:
 
 #### Art. 42
 
-**Décompte avec l'Office des affaires sociales**
+**Décompte avec l'Office de l’intégration et de l’action sociale**
 
-<sup>1</sup> Chaque commune procède à un décompte de compensation des charges séparé avec l'OAS.
+<sup>1</sup> Chaque commune procède à un décompte de compensation des charges séparé avec l'OIAS.
 
-<sup>2</sup> Les communes ayant un service social conjoint peuvent charger la commune siège ou l’organisme responsable du service social de procéder seul avec l’OAS au décompte des dépenses de l’aide sociale individuelle, des frais de traitement admis à la compensation des charges ou des dépenses découlant de la législation spéciale pour toutes les communes affiliées. Si la commune siège ou l’organisme responsable du service social est déclaré seul compétent pour procéder au décompte de dépenses déterminées, les dépenses concernées sont exclusivement décomptées par la commune siège ou l’organisme responsable.
+<sup>2</sup> Les communes ayant un service social conjoint peuvent charger la commune siège ou l’organisme responsable du service social de procéder seul avec l’OIAS au décompte des dépenses de l’aide sociale individuelle, des frais de traitement admis à la compensation des charges ou des dépenses découlant de la législation spéciale pour toutes les communes affiliées. Si la commune siège ou l’organisme responsable du service social est déclaré seul compétent pour procéder au décompte de dépenses déterminées, les dépenses concernées sont exclusivement décomptées par la commune siège ou l’organisme responsable.
 
 <sup>3</sup> Les communes offrant conjointement des prestations institutionnelles à l'échelle de leur région doivent indiquer dans leur demande d'admission à la compensation des charges un seul bureau désigné pour procéder au décompte. Cette tâche est généralement assurée par la commune-siège de l'organe responsable de l'institution. Si les communes sont affiliées à un service social conjoint, le décompte peut être confié à son organe responsable à condition que les compétences des différents organes soient clairement réglées.
 
-<sup>4</sup> Si les communes sont affiliées à un service social dont l'organe responsable est une association, elles assument la responsabilité solidaire pour les engagements de cette dernière envers la SAP découlant du décompte de compensation des charges.
+<sup>4</sup> Si les communes sont affiliées à un service social dont l'organe responsable est une association, elles assument la responsabilité solidaire pour les engagements de cette dernière envers la DSSI découlant du décompte de compensation des charges.
 
 #### Art. 43
 
@@ -1060,15 +1060,15 @@ arrête:
 
 <sup>1</sup> Les communes comptabilisent les charges et les revenus de l'aide sociale conformément aux directives de l'Office des affaires communales et de l'organisation du territoire (OACOT) sur la gestion financière des communes.
 
-<sup>2</sup> Les adaptations des directives de l'OACOT en matière de comptabilisation de l'aide sociale sont effectuées d'entente avec l'OAS.
+<sup>2</sup> Les adaptations des directives de l'OACOT en matière de comptabilisation de l'aide sociale sont effectuées d'entente avec l'OIAS.
 
 #### Art. 44
 
 **Données à fournir**
 
-<sup>1</sup> Les communes sont tenues de fournir à l'OAS avant la fin du mois de mars de chaque année les données statistiques et les dépenses d'aide sociale de l'année civile précédente qui sont nécessaires pour procéder au décompte de compensation des charges et pour rédiger les rapports à remettre aux services fédéraux sur l'utilisation des subventions fédérales.
+<sup>1</sup> Les communes sont tenues de fournir à l'OIAS avant la fin du mois de mars de chaque année les données statistiques et les dépenses d'aide sociale de l'année civile précédente qui sont nécessaires pour procéder au décompte de compensation des charges et pour rédiger les rapports à remettre aux services fédéraux sur l'utilisation des subventions fédérales.
 
-<sup>2</sup> L'OAS peut exiger que les communes lui soumettent le budget de leurs dépenses d'aide sociale ainsi qu'un relevé de leurs bouclements semestriels.
+<sup>2</sup> L'OIAS peut exiger que les communes lui soumettent le budget de leurs dépenses d'aide sociale ainsi qu'un relevé de leurs bouclements semestriels.
 
 <sup>2a</sup> Il peut exiger qu'elles lui soumettent les qualifications et les dépenses effectives de traitement du personnel des services sociaux.
 

@@ -4,13 +4,13 @@ number: "860.111"
 title: Verordnung über die öffentliche Sozialhilfe
 short: "Sozialhilfeverordnung, SHV"
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2021-01-29
+version: 2021-03-01
+valid_until: 2021-04-30
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2154/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2155/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2154/pdf_file"
 
 (Sozialhilfeverordnung, SHV)
 
-vom 24.10.2001 (Stand 01.01.2021)
+vom 24.10.2001 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -68,7 +68,7 @@ beschliesst:
 - b die Wirkungsziele und Qualitätsvorgaben erreicht werden können und
 - c eine Regelung besteht, wie die Stellvertretung und der fachliche Austausch mit anderen Fachleuten gewährleistet werden.
 
-<sup>3</sup> Das Sozialamt (SOA) der Gesundheits- und Fürsorgedirektion (GEF) entscheidet, ob der Sozialdienst diesen Anforderungen genügt.
+<sup>3</sup> Das Amt für Integration und Soziales (AIS) der Gesundheits-, Sozial- und Integrationsdirektion (GSI) entscheidet, ob der Sozialdienst diesen Anforderungen genügt.
 
 #### Art. 3a
 
@@ -144,13 +144,13 @@ beschliesst:
 - a nimmt Stellung und gibt Empfehlungen ab zu grundlegenden Fragen und Rechtsetzungsprojekten mit Bezug zur Sozial-, Existenzsicherungs- und Familienpolitik,
 - b verfolgt die kantonale, gesamtschweizerische und internationale Entwicklung der Sozial-, Existenzsicherungs- und Familienpolitik,
 - c fördert den Informations- und Erfahrungsaustausch zwischen Kanton, Gemeinden, Fachorganisationen und Sozialpartnern in Fragen der Sozial-, Existenzsicherungs- und Familienpolitik ,
-- d nimmt zu Fragen und Projekten Stellung, die ihr vom Regierungsrat, der Gesundheits- und Fürsorgedirektion oder von Gemeinden unterbreitet werden.
+- d nimmt zu Fragen und Projekten Stellung, die ihr vom Regierungsrat, der GSI oder von Gemeinden unterbreitet werden.
 
 #### Art. 6
 
 **3 Zusammensetzung**
 
-<sup>1</sup> Die Kommission wird von der Gesundheits- und Fürsorgedirektorin oder vom Gesundheits- und Fürsorgedirektor präsidiert und setzt sich zusammen aus höchstens
+<sup>1</sup> Die Kommission wird von der Gesundheits-, Sozial- und Integrationsdirektorin oder vom Gesundheits-, Sozial- und Integrationsdirektor präsidiert und setzt sich zusammen aus höchstens
 
 - a sieben Vertreterinnen und Vertretern der Kantonsverwaltung,
 - b drei Vertreterinnen und Vertretern der Gemeinden,
@@ -166,7 +166,7 @@ beschliesst:
 
 **4 Ernennung, Amtsdauer, Organisation und Geschäftsgang**
 
-<sup>1</sup> Die Mitglieder der Kommission werden auf Antrag der GEF vom Regierungsrat ernannt. Sie können sich im Verhinderungsfall an Sitzungen vertreten lassen.
+<sup>1</sup> Die Mitglieder der Kommission werden auf Antrag der GSI vom Regierungsrat ernannt. Sie können sich im Verhinderungsfall an Sitzungen vertreten lassen.
 
 <sup>1a</sup> Der Berner Jura und die französischsprachige Bevölkerung des Verwaltungskreises Biel/Bienne müssen angemessen vertreten sein.
 
@@ -325,7 +325,7 @@ beschliesst:
 
 <sup>3</sup> Besteht bezüglich einer situationsbedingten Leistung eine Auswahl gleichermassen zweckmässiger Angebote, ist die kostengünstigste Leistung zu gewähren.
 
-<sup>4</sup> Die GEF erlässt eine Verordnung zur Bemessung von situationsbedingten Leistungen.
+<sup>4</sup> Die GSI erlässt eine Verordnung zur Bemessung von situationsbedingten Leistungen.
 
 #### Art. 8k
 
@@ -452,21 +452,21 @@ beschliesst:
 
 **2 Unterstützungsanzeigen**
 
-<sup>1</sup> Unterstützungspflichtige Gemeinden haben dem SOA binnen 30 Tagen seit dem Unterstützungsbeschluss Unterstützungsanzeige zu erstatten.
+<sup>1</sup> Unterstützungspflichtige Gemeinden haben dem AIS binnen 30 Tagen seit dem Unterstützungsbeschluss Unterstützungsanzeige zu erstatten.
 
-<sup>2</sup> In Notfällen gemäss Artikel 13 ZUG[^14-1] ist die Unterstützungsanzeige dem SOA so rasch als möglich zu erstatten.
+<sup>2</sup> In Notfällen gemäss Artikel 13 ZUG[^14-1] ist die Unterstützungsanzeige dem AIS so rasch als möglich zu erstatten.
 
-<sup>3</sup> Für die Unterstützungsanzeigen sind die vom SOA vorgeschriebenen Formulare zu verwenden.
+<sup>3</sup> Für die Unterstützungsanzeigen sind die vom AIS vorgeschriebenen Formulare zu verwenden.
 
-[^14-1]: SR 851.1
+[^14-1]: SR [851.1](https://db.clex.ch/link/Bund/851.1/de)
 
 #### Art. 15
 
 **3 Abrechnungen**
 
-<sup>1</sup> Hat eine Gemeinde im Laufe eines Kalendervierteljahres Unterstützungen ausgerichtet, die ganz oder teilweise von anderen Kantonen zu vergüten sind, hat sie darüber dem SOA binnen 30 Tagen nach Ablauf des Vierteljahres eine Abrechnung zuzustellen.
+<sup>1</sup> Hat eine Gemeinde im Laufe eines Kalendervierteljahres Unterstützungen ausgerichtet, die ganz oder teilweise von anderen Kantonen zu vergüten sind, hat sie darüber dem AIS binnen 30 Tagen nach Ablauf des Vierteljahres eine Abrechnung zuzustellen.
 
-<sup>2</sup> Für die Abrechnungen sind die vom SOA vorgeschriebenen Formulare zu verwenden.
+<sup>2</sup> Für die Abrechnungen sind die vom AIS vorgeschriebenen Formulare zu verwenden.
 
 #### Art. 16
 
@@ -490,9 +490,9 @@ beschliesst:
 
 **3 Rücktritt**
 
-<sup>1</sup> Der Rücktritt von der burgerlichen Sozialhilfe erfolgt durch Abgabe einer entsprechenden Erklärung an das SOA.
+<sup>1</sup> Der Rücktritt von der burgerlichen Sozialhilfe erfolgt durch Abgabe einer entsprechenden Erklärung an das AIS.
 
-<sup>2</sup> Mit dem Rücktritt wird die Burgergemeinde und die burgerliche Korporation burgergutsbeitragspflichtig.
+<sup>2</sup> Mit dem Rücktritt werden die Burgergemeinde und die burgerliche Korporation burgergutsbeitragspflichtig.
 
 <sup>3</sup> Die Wiederaufnahme der burgerlichen Sozialhilfe nach dem Rücktritt ist nicht zulässig.
 
@@ -500,7 +500,7 @@ beschliesst:
 
 **4 Entzug**
 
-<sup>1</sup> Das SOA kann einer Burgergemeinde oder einer burgerlichen Korporation, die ihre Pflichten vernachlässigt oder den gesetzlichen Anforderungen nicht genügt, das Recht zur Ausübung der burgerlichen Sozialhilfe nach vorgängiger Mahnung entziehen.
+<sup>1</sup> Das AIS kann einer Burgergemeinde oder einer burgerlichen Korporation, die ihre Pflichten vernachlässigt oder den gesetzlichen Anforderungen nicht genügt, das Recht zur Ausübung der burgerlichen Sozialhilfe nach vorgängiger Mahnung entziehen.
 
 <sup>2</sup> Die Folgen des Entzugs sind die gleichen wie beim Rücktritt.
 
@@ -508,7 +508,7 @@ beschliesst:
 
 **Burgergutsbeiträge 1 Beitrags- und Bemessungsperiode**
 
-<sup>1</sup> Das SOA setzt die Burgergutsbeiträge jeweils für eine vierjährige Beitragsperiode fest.
+<sup>1</sup> Das AIS setzt die Burgergutsbeiträge jeweils für eine vierjährige Beitragsperiode fest.
 
 <sup>2</sup> Die Bemessungsperiode umfasst jeweils das dritte bis und mit dem sechsten Jahr vor Beginn der Beitragsperiode.
 
@@ -528,19 +528,19 @@ beschliesst:
 
 <sup>1</sup> Die Beiträge werden auf Grund der rechtskräftigen Steuerveranlagungen der Bemessungsperiode festgesetzt.
 
-<sup>2</sup> Falls noch keine rechtskräftigen Daten vorliegen, erfolgt die Festsetzung auf Grund der vorliegenden provisorischen Daten. Nach Vorliegen der rechtskräftigen Daten passt das SOA den Beitrag entsprechend an.
+<sup>2</sup> Falls noch keine rechtskräftigen Daten vorliegen, erfolgt die Festsetzung auf Grund der vorliegenden provisorischen Daten. Nach Vorliegen der rechtskräftigen Daten passt das AIS den Beitrag entsprechend an.
 
 #### Art. 23
 
 **4 Bezug**
 
-<sup>1</sup> Das SOA fordert die Beiträge jeweils Ende Juni mit einer Zahlungsfrist von 30 Tagen ein.
+<sup>1</sup> Das AIS fordert die Beiträge jeweils Ende Juni mit einer Zahlungsfrist von 30 Tagen ein.
 
 <sup>2</sup> Bei verspäteter Zahlung ist ein Verzugszins geschuldet. Für zu viel in Rechnung gestellte und bezahlte Beiträge wird ein Vergütungszins gutgeschrieben.
 
-<sup>3</sup> Die Berechnung und der Zinssatz für die Verzugs- und Vergütungszinse richten sich nach der Verordnung vom 18. Oktober 2000 über den Bezug und die Verzinsung von Abgaben und anderen zum Inkasso übertragenen Forderungen, über Zahlungserleichterungen, Erlass sowie Abschreibungen infolge Uneinbringlichkeit (Bezugsverordnung, BEZV[^23-1]).
+<sup>3</sup> Die Berechnung und der Zinssatz für die Verzugs- und Vergütungszinse richten sich nach der Verordnung vom 18. Oktober 2000 über den Bezug und die Verzinsung von Abgaben und anderen zum Inkasso übertragenen Forderungen, über Zahlungserleichterungen, Erlass sowie Abschreibungen infolge Uneinbringlichkeit (Bezugsverordnung, BEZV)[^23-1].
 
-<sup>4</sup> Das SOA kann Burgergemeinden und burgerliche Korporationen bei Vorliegen einer grossen Härte für jeweils ein Jahr von der Beitragspflicht befreien.
+<sup>4</sup> Das AIS kann Burgergemeinden und burgerliche Korporationen bei Vorliegen einer grossen Härte für jeweils ein Jahr von der Beitragspflicht befreien.
 
 [^23-1]: BSG 661.733
 
@@ -588,7 +588,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Sozialdienste erstatten dem SOA Ende jeden Kalenderjahres Bericht über die durchgeführten Sozialinspektionen.
+<sup>1</sup> Die Sozialdienste erstatten dem AIS Ende jeden Kalenderjahres Bericht über die durchgeführten Sozialinspektionen.
 
 <sup>2</sup> Der Bericht enthält Angaben über die Anzahl der Sozialinspektionen, die Ergebnisse, die Sanktionen, die Dauer und Kosten der Abklärungen sowie gegebenenfalls die Namen der vom Sozialdienst beauftragten Dritten.
 
@@ -680,13 +680,13 @@ beschliesst:
 
 <sup>1</sup> Die Bau- und Investitionsbeiträge des Kantons werden vom Regierungsrat bewilligt.
 
-<sup>2</sup> Die GEF bewilligt die Bau- und Investitionsbeiträge des Kantons im Rahmen der ihr gemäss Artikel 152 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV[^26-1]) übertragenen Ausgabenbefugnisse.
+<sup>2</sup> Die GSI bewilligt die Bau- und Investitionsbeiträge des Kantons im Rahmen der ihr gemäss Artikel 152 der Verordnung vom 3. Dezember 2003 über die Steuerung von Finanzen und Leistungen (FLV)[^26-1] übertragenen Ausgabenbefugnisse.
 
 <sup>3</sup> Sie bewilligt die Betriebsbeiträge des Kantons.
 
 <sup>4</sup> Die Beiträge der Gemeinden werden von dem für die Bewilligung der Ausgabe zuständigen Gemeindeorgan bewilligt.
 
-[^26-1]: BSG 621.1
+[^26-1]: BSG [621.1](https://www.belex.sites.be.ch/data/621.1/de)
 
 #### Art. 27
 
@@ -696,7 +696,7 @@ beschliesst:
 
 <sup>2</sup> Bei Fehlen von Normkosten können die Beiträge unter Berücksichtigung der effektiven Betriebs- und Baukosten festgesetzt werden.
 
-<sup>3</sup> Die GEF wird ermächtigt, im Einvernehmen mit der Finanzdirektion die für die Beitragsfestsetzung anrechenbaren Kosten auf ein einheitliches Mass zu beschränken und Kostenobergrenzen festzusetzen.
+<sup>3</sup> Die GSI wird ermächtigt, im Einvernehmen mit der Finanzdirektion die für die Beitragsfestsetzung anrechenbaren Kosten auf ein einheitliches Mass zu beschränken und Kostenobergrenzen festzusetzen.
 
 #### Art. 28
 
@@ -710,7 +710,7 @@ beschliesst:
 - b Beiträge und Gebühren der Benutzerinnen und Benutzer,
 - c Eigenmittel der Leistungserbringer.
 
-<sup>3</sup> Die GEF wird ermächtigt, im Einvernehmen mit der Finanzdirektion Vorschriften zur Anrechnung der Eigenmittel zu erlassen.
+<sup>3</sup> Die GSI wird ermächtigt, im Einvernehmen mit der Finanzdirektion Vorschriften zur Anrechnung der Eigenmittel zu erlassen.
 
 #### Art. 29
 
@@ -718,7 +718,7 @@ beschliesst:
 
 <sup>1</sup> Die Modalitäten der Tarifanwendung sind in den Leistungsverträgen zu regeln.
 
-<sup>2</sup> Die GEF wird zum Erlass von Tarifvorschriften ermächtigt.
+<sup>2</sup> Die GSI wird zum Erlass von Tarifvorschriften ermächtigt.
 
 #### Art. 30
 
@@ -726,13 +726,13 @@ beschliesst:
 
 <sup>1</sup> Die Leistungserbringer haben nach einheitlichen Vorschriften Rechnung zu führen.
 
-<sup>2</sup> Die GEF wird zum Erlass entsprechender Vorschriften ermächtigt.
+<sup>2</sup> Die GSI wird zum Erlass entsprechender Vorschriften ermächtigt.
 
 #### Art. 31
 
 **Pilotversuche**
 
-<sup>1</sup> Die GEF, oder mit ihrer Ermächtigung die Gemeinden, können im Rahmen von Versuchen und Pilotprojekten besondere Formen der Leistungsabgeltung erproben.
+<sup>1</sup> Die GSI, oder mit ihrer Ermächtigung die Gemeinden, können im Rahmen von Versuchen und Pilotprojekten besondere Formen der Leistungsabgeltung erproben.
 
 ## 3a Aus- und Weiterbildung
 
@@ -830,7 +830,7 @@ beschliesst:
 
 **Ausgleichszahlung**
 
-<sup>1</sup> Der Leistungserbringer hat eine Ausgleichszahlung an die Gesundheits- und Fürsorgedirektion zu leisten, wenn die erbrachte Aus- und Weiterbildungsleistung mehr als zehn Prozent unter der Aus- und Weiterbildungsleistung gemäss Artikel 31f Absatz 1 liegt.
+<sup>1</sup> Der Leistungserbringer hat eine Ausgleichszahlung an die GSI zu leisten, wenn die erbrachte Aus- und Weiterbildungsleistung mehr als zehn Prozent unter der Aus- und Weiterbildungsleistung gemäss Artikel 31f Absatz 1 liegt.
 
 <sup>2</sup> Die Höhe der Ausgleichszahlung entspricht der dreifachen Differenz nach Artikel 31h Absatz 2.
 
@@ -858,11 +858,11 @@ beschliesst:
 
 **Sozialinspektion 1 Sozialinspektorate der Gemeinden**
 
-<sup>1</sup> Das SOA vergütet den Gemeinden, die eigene Sozialinspektorate führen, pro Sozialinspektionsauftrag gemäss Artikel 23b eine Pauschale gemäss Artikel 34d Absatz 1, sofern der Auftrag durch eine Person mit der Qualifikation gemäss Artikel 23a ausgeführt wird.
+<sup>1</sup> Das AIS vergütet den Gemeinden, die eigene Sozialinspektorate führen, pro Sozialinspektionsauftrag gemäss Artikel 23b eine Pauschale gemäss Artikel 34d Absatz 1, sofern der Auftrag durch eine Person mit der Qualifikation gemäss Artikel 23a ausgeführt wird.
 
 <sup>2–3</sup> …
 
-<sup>4</sup> Das SOA vergütet die Pauschale auf Gesuch hin, nach Prüfung des von der Gemeinde erbrachten Bedarfsnachweises.
+<sup>4</sup> Das AIS vergütet die Pauschale auf Gesuch hin, nach Prüfung des von der Gemeinde erbrachten Bedarfsnachweises.
 
 <sup>5</sup> …
 
@@ -872,20 +872,20 @@ beschliesst:
 
 **2 Aufträge der Gemeinden an Dritte**
 
-<sup>1</sup> Das SOA vergütet den Gemeinden, die Dritte mit der Durchführung von Sozialinspektionen beauftragen, die Kosten für Sozialinspektionen
+<sup>1</sup> Das AIS vergütet den Gemeinden, die Dritte mit der Durchführung von Sozialinspektionen beauftragen, die Kosten für Sozialinspektionen
 
 - a bis höchstens 4000 Franken pro betroffene Person und Kalenderjahr,
 - b bis höchstens 6000 Franken pro betroffene Person und Kalenderjahr, wenn zur Beweismittelerhebung Überwachungen durchgeführt werden.
 
-<sup>2</sup> Die Sozialdienste der Gemeinden rechnen nach Abschluss der Sozialinspektion im Rahmen der jährlichen Berichterstattung mit dem SOA ab.
+<sup>2</sup> Die Sozialdienste der Gemeinden rechnen nach Abschluss der Sozialinspektion im Rahmen der jährlichen Berichterstattung mit dem AIS ab.
 
-<sup>3</sup> Das SOA vergütet die Kosten nach Prüfung der Berichterstattung und der Rechnungen.
+<sup>3</sup> Das AIS vergütet die Kosten nach Prüfung der Berichterstattung und der Rechnungen.
 
 #### Art. 32c
 
 **3 Lastenausgleichsberechtigter Betrag**
 
-<sup>1</sup> Die Aufwendungen des SOA gemäss Artikel 32a und 32b sowie die Abgeltungen des SOA für Leistungen Dritter, die in ihrem Auftrag Sozialinspektionen durchführen, sind lastenausgleichsberechtigt.
+<sup>1</sup> Die Aufwendungen des AIS gemäss Artikel 32a und 32b sowie die Abgeltungen des AIS für Leistungen Dritter, die in ihrem Auftrag Sozialinspektionen durchführen, sind lastenausgleichsberechtigt.
 
 ### 4.2 Aufwand der Gemeinden
 
@@ -910,7 +910,7 @@ beschliesst:
 
 <sup>4</sup> Kann eine Gemeinde wegen Unterlassung oder Verspätung einer Unterstützungsanzeige oder einer Abrechnung eine Kostenvergütung gemäss ZUG nicht realisieren oder unterlässt sie es, den Kostenersatz gemäss Artikel 47 Absatz 2 SHG bei der zuständigen Burgergemeinde oder burgerlichen Korporation geltend zu machen, werden die entsprechenden Leistungen für die wirtschaftliche Hilfe vom Lastenausgleich ausgeschlossen.
 
-<sup>5</sup> Die GEF kann Richtlinien erlassen über die Zulassung von Leistungen der wirtschaftlichen Hilfe zum Lastenausgleich, welche zur Vergütung von Kosten institutioneller Leistungsangebote gewährt werden (Art. 32 Abs. 1 Bst. d SHG).
+<sup>5</sup> Die GSI kann Richtlinien erlassen über die Zulassung von Leistungen der wirtschaftlichen Hilfe zum Lastenausgleich, welche zur Vergütung von Kosten institutioneller Leistungsangebote gewährt werden (Art. 32 Abs. 1 Bst. d SHG).
 
 ### 4.2.2 Bestattungskosten
 
@@ -1004,7 +1004,7 @@ beschliesst:
 
 **Festlegung der Pauschalen**
 
-<sup>1</sup> Die GEF setzt die Fallpauschalen gemäss den Artikeln 34d Absatz 1, 34e Absatz 1, 34f Absatz 1 und 34g Absatz 1 jeweils auf Jahresbeginn im Umfang des für das Kantonspersonal beschlossenen Lohnsummenwachstums neu fest.
+<sup>1</sup> Die GSI setzt die Fallpauschalen gemäss den Artikeln 34d Absatz 1, 34e Absatz 1, 34f Absatz 1 und 34g Absatz 1 jeweils auf Jahresbeginn im Umfang des für das Kantonspersonal beschlossenen Lohnsummenwachstums neu fest.
 
 #### Art. 36a
 
@@ -1014,7 +1014,7 @@ beschliesst:
 
 **Festlegung des lastenausgleichsberechtigten Betrags**
 
-<sup>1</sup> Das SOA berechnet das Total der Fallpauschalen gestützt auf die Fallzahlen des vorangehenden Kalenderjahres und rechnet die Besoldungsaufwendungen für Praktikantinnen und Praktikanten dazu.
+<sup>1</sup> Das AIS berechnet das Total der Fallpauschalen gestützt auf die Fallzahlen des vorangehenden Kalenderjahres und rechnet die Besoldungsaufwendungen für Praktikantinnen und Praktikanten dazu.
 
 <sup>2</sup> Es bestimmt den lastenausgleichsberechtigten Betrag, indem es den Durchschnitt der gemäss Absatz 1 über die letzten zwei Jahre berechneten Beträge bestimmt.
 
@@ -1028,9 +1028,9 @@ beschliesst:
 
 **Mit Ermächtigung**
 
-<sup>1</sup> Die Beiträge der Gemeinden an die Leistungserbringer im Bereich der institutionellen Sozialhilfe sind lastenausgleichsberechtigt, soweit sie im Rahmen der vorstehenden Bestimmungen über die Leistungsabgeltung (Art. 25ff.) und der Ermächtigung der GEF gewährt werden.
+<sup>1</sup> Die Beiträge der Gemeinden an die Leistungserbringer im Bereich der institutionellen Sozialhilfe sind lastenausgleichsberechtigt, soweit sie im Rahmen der vorstehenden Bestimmungen über die Leistungsabgeltung (Art. 25ff.) und der Ermächtigung der GSI gewährt werden.
 
-<sup>2</sup> Die Aufwendungen der Gemeinden für die Planung der institutionellen Leistungsangebote sind lastenausgleichsberechtigt, sofern die Planung im Auftrag oder mit Zustimmung der GEF erfolgt.
+<sup>2</sup> Die Aufwendungen der Gemeinden für die Planung der institutionellen Leistungsangebote sind lastenausgleichsberechtigt, sofern die Planung im Auftrag oder mit Zustimmung der GSI erfolgt.
 
 <sup>3</sup> Bei der Erteilung von Ermächtigungen für institutionelle Leistungsangebote sind die Besoldungsaufwendungen für Personen, die in der entsprechenden Institution für die Erlangung einer Fachausbildung Praktika absolvieren, zu berücksichtigen.
 
@@ -1050,15 +1050,15 @@ beschliesst:
 
 #### Art. 42
 
-**Abrechnung mit dem Sozialamt**
+**Abrechnung mit dem Amt für Integration und Soziales**
 
-<sup>1</sup> Jede Gemeinde rechnet mit dem SOA den lastenausgleichsberechtigten Aufwand separat ab.
+<sup>1</sup> Jede Gemeinde rechnet mit dem AIS den lastenausgleichsberechtigten Aufwand separat ab.
 
-<sup>2</sup> Gemeinden mit einem gemeinsamen Sozialdienst können die Sitzgemeinde oder die Trägerschaft des Sozialdienstes für allein zuständig erklären, um die Aufwendungen für die individuelle Sozialhilfe, den lastenausgleichsberechtigten Besoldungsaufwand oder Aufwendungen gemäss besonderer Gesetzgebung für alle angeschlossenen Gemeinden mit dem SOA abzurechnen. Wird die Sitzgemeinde oder die Trägerschaft des Sozialdienstes für die Abrechnung bestimmter Aufwendungen für allein zuständig erklärt, so werden die entsprechenden Aufwendungen ausschliesslich von der Sitzgemeinde oder der Trägerschaft abgerechnet.
+<sup>2</sup> Gemeinden mit einem gemeinsamen Sozialdienst können die Sitzgemeinde oder die Trägerschaft des Sozialdienstes für allein zuständig erklären, um die Aufwendungen für die individuelle Sozialhilfe, den lastenausgleichsberechtigten Besoldungsaufwand oder Aufwendungen gemäss besonderer Gesetzgebung für alle angeschlossenen Gemeinden mit dem AIS abzurechnen. Wird die Sitzgemeinde oder die Trägerschaft des Sozialdienstes für die Abrechnung bestimmter Aufwendungen für allein zuständig erklärt, so werden die entsprechenden Aufwendungen ausschliesslich von der Sitzgemeinde oder der Trägerschaft abgerechnet.
 
 <sup>3</sup> Für die Abrechnung der Aufwendungen regionaler institutioneller Leistungsangebote haben die beteiligten Gemeinden in ihrem Gesuch um Ermächtigung eine einzige Abrechnungsstelle zu bezeichnen. Gemeinsame Abrechnungsstelle ist in der Regel die Sitzgemeinde der Trägerschaft des Leistungsangebotes. Sofern die beteiligten Gemeinden einen gemeinsamen Sozialdienst führen, kann die Abrechnung der Trägerschaft des Sozialdienstes übertragen werden, sofern die Aufgaben der beteiligten Organe klar geregelt sind.
 
-<sup>4</sup> Ist die Trägerschaft des Sozialdienstes ein Verein, haften die Mitgliedsgemeinden gegenüber der GEF für Verbindlichkeiten des Vereins aus der Lastenausgleichsabrechnung.
+<sup>4</sup> Ist die Trägerschaft des Sozialdienstes ein Verein, haften die Mitgliedsgemeinden gegenüber der GSI für Verbindlichkeiten des Vereins aus der Lastenausgleichsabrechnung.
 
 #### Art. 43
 
@@ -1066,15 +1066,15 @@ beschliesst:
 
 <sup>1</sup> Aufwand und Ertrag der Gemeinden im Bereich der Sozialhilfe werden nach den Weisungen des Amtes für Gemeinden und Raumordnung (AGR) über den Finanzhaushalt der Gemeinden einheitlich verbucht.
 
-<sup>2</sup> Die Weiterentwicklung der Buchungsweisungen des AGR im Bereich der Sozialhilfe erfolgt im Einvernehmen mit dem SOA.
+<sup>2</sup> Die Weiterentwicklung der Buchungsweisungen des AGR im Bereich der Sozialhilfe erfolgt im Einvernehmen mit dem AIS.
 
 #### Art. 44
 
 **Datenlieferung**
 
-<sup>1</sup> Die Gemeinden sind verpflichtet, dem SOA bis Ende März jedes Jahres die statistischen Angaben und die Sozialhilfeaufwendungen des vorangehenden Kalenderjahres zu liefern, die für die Abrechnung des Lastenausgleichs sowie für die Abfassung der Berichte an eidgenössische Amtsstellen über die Verwendung von Bundesbeiträgen erforderlich sind.
+<sup>1</sup> Die Gemeinden sind verpflichtet, dem AIS bis Ende März jedes Jahres die statistischen Angaben und die Sozialhilfeaufwendungen des vorangehenden Kalenderjahres zu liefern, die für die Abrechnung des Lastenausgleichs sowie für die Abfassung der Berichte an eidgenössische Amtsstellen über die Verwendung von Bundesbeiträgen erforderlich sind.
 
-<sup>2</sup> Das SOA kann von den Gemeinden Budgets der Sozialhilfeaufwendungen und Halbjahresabschlüsse einfordern.
+<sup>2</sup> Das AIS kann von den Gemeinden Budgets der Sozialhilfeaufwendungen und Halbjahresabschlüsse einfordern.
 
 <sup>2a</sup> Es kann von den Gemeinden Angaben über die Qualifikation ihres Sozialdienstpersonals sowie zu den effektiven Besoldungsaufwendungen einfordern.
 
