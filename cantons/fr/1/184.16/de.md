@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Verordnung über das kantonale Bezugssystem von Daten von Personen, von Organisationen und von Verzeichnissen (Pilotprojekt)"
 language: de
-version: 2019-08-01
-valid_until: 2021-02-28
-version_adopted: 2019-06-24
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-09
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/6084/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6773/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,11 +18,11 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6084/pdf_file"
 
 Kantonale Bezugssystem von Daten – V
 
-vom 24.06.2019 (Fassung in Kraft getreten am 01.08.2019)
+vom 24.06.2019 (Fassung in Kraft getreten am 01.03.2021)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG), insbesondere auf die Artikel 13–16 und 21;
+gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG), umgewandelt in das E-Government-Gesetz vom 18. Dezember 2020 (E-GovG), insbesondere auf die Artikel 17–22 und 35;
 
 gestützt auf die Stellungnahme der Kantonalen Behörde für Öffentlichkeit und Datenschutz vom 4. Februar 2019;
 
@@ -30,7 +30,7 @@ in Erwägung:
 
 Der Aufbau eines kantonalen Bezugssystems, das verifizierte und aktualisierte Referenzdaten von Personen und Organisationen, die direkt mit den Organen des Staates interagieren oder in Verbindung stehen, enthält, ist ein wesentlicher Schritt zur Festigung der Basis für die Digitalisierung der Verwaltung.
 
-Die Bestimmungen des E-GovSchG erlauben jetzt schon die Schaffung einer solchen Infrastruktur, aber sie müssen vervollständigt und präzisiert werden. Gemäss Artikel 21 E-GovSchG kann der Staatsrat die Einführung von befristeten Pilotprojekten im Bereich der Digitalisierung erlauben, bevor die definitiven formellen gesetzlichen Grundlagen angenommen werden. Der Vorteil ist, dass diese dadurch besser, präziser und, was die Dichte betrifft, sicherer werden.
+Die Bestimmungen des E-GovG erlauben jetzt schon die Schaffung einer solchen Infrastruktur, aber sie müssen vervollständigt und präzisiert werden. Gemäss Artikel 35 E-GovG kann der Staatsrat die Einführung von befristeten Pilotprojekten im Bereich der Digitalisierung erlauben, bevor die definitiven formellen gesetzlichen Grundlagen angenommen werden. Der Vorteil ist, dass diese dadurch besser, präziser und, was die Dichte betrifft, sicherer werden.
 
 Langfristig hat dieses Bezugssystem das Ziel, die vereinheitlichte und verifizierte Hauptinformationsquelle für Referenzdaten für die öffentlichen Organe des Kantons Freiburg zu werden.
 
@@ -98,7 +98,7 @@ beschliesst:
 
 <sup>1</sup> Für die Umsetzung und den Betrieb des kantonalen Bezugssystems bewilligt diese Verordnung:
 
-- a) die systematische Zuweisung einer eindeutigen User-ID im Sinne von Artikel 14 E-GovSchG an jede Person oder Organisation, die mit einem Organ des Staats interagiert oder in Verbindung steht;
+- a) die systematische Zuweisung einer eindeutigen User-ID im Sinne von Artikel 18 E-GovG an jede Person oder Organisation, die mit einem Organ des Staats interagiert oder in Verbindung steht;
 - b) die systematische Verknüpfung von Referenzdaten, die von Informationssystemen eines datenliefernden Organs im Sinne von Artikel 5 Abs. 1 stammen.
 
 <sup>2</sup> Die Umsetzungsmodalitäten der Vorverarbeitungsprozesse werden in Anhang 3 dieser Verordnung dargestellt.

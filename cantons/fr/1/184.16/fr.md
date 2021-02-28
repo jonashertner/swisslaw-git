@@ -3,13 +3,13 @@ canton: FR
 number: "184.16"
 title: "Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)"
 language: fr
-version: 2019-08-01
-valid_until: 2021-02-28
-version_adopted: 2019-06-24
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-09
 adopted: 2019-06-24
 in_force: 2019-08-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6084/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6773/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,21 +18,21 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6084/pdf_file"
 
 Référentiel cantonal de données – O
 
-du 24.06.2019 (version entrée en vigueur le 01.08.2019)
+du 24.06.2019 (version entrée en vigueur le 01.03.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration (LGCyb), en particulier ses articles 13 à 16 et 21;
+Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration (LGCyb) convertie en loi du 18 décembre 2020 sur la cyberadministration (LCyb), en particulier ses articles 17 à 22 et 35;
 
 Vu le préavis de l'Autorité cantonale de la transparence et de la protection des données du 4 février 2019;
 
 Considérant:
 
-La mise sur pied d'un référentiel cantonal qui contient des données de référence qualifiées et actualisées de personnes et d'organisations en interaction et/ou en relation directe avec les organes de l'Etat représente une étape essentielle dont le but est de poser le socle de la digitalisation de l'administration.
+La mise sur pied d'un Référentiel cantonal qui contient des données de référence qualifiées et actualisées de personnes et d'organisations en interaction et/ou en relation directe avec les organes de l'Etat représente une étape essentielle dont le but est de poser le socle de la digitalisation de l'administration.
 
-Les dispositions de la LGCyb permettent déjà l'élaboration d'une telle infrastructure, mais elles nécessitent d'être complétées et précisées. En vertu de l'article 21 LGCyb, le Conseil d'Etat peut autoriser le lancement de projets pilotes en matière de digitalisation pour une durée limitée avant l'adoption des bases légales formelles définitives. Celles-ci auront l'avantage d'être plus abouties et plus sûres en termes de densité et de précision.
+Les dispositions de la LCyb permettent déjà l'élaboration d'une telle infrastructure, mais elles nécessitent d'être complétées et précisées. En vertu de l'article 35 LCyb, le Conseil d'Etat peut autoriser le lancement de projets pilotes en matière de digitalisation pour une durée limitée avant l'adoption des bases légales formelles définitives. Celles-ci auront l'avantage d'être plus abouties et plus sûres en termes de densité et de précision.
 
-A terme, ce référentiel a pour objectif de devenir la principale source d'information unifiée et qualifiée de données de référence à la disposition des organes publics du canton de Fribourg.
+A terme, ce Référentiel a pour objectif de devenir la principale source d'information unifiée et qualifiée de données de référence à la disposition des organes publics du canton de Fribourg.
 
 Sur la proposition de la Direction des finances et de la Chancellerie d'Etat,
 
@@ -42,7 +42,7 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> La présente ordonnance règle la mise en œuvre et l'exploitation d'un référentiel cantonal de données de personnes, organisations et nomenclatures (ci-après: le Référentiel cantonal) durant une phase pilote limitée dans le temps.
+<sup>1</sup> La présente ordonnance règle la mise en œuvre et l'exploitation d'un Référentiel cantonal de données de personnes, organisations et nomenclatures (ci-après: le Référentiel cantonal) durant une phase pilote limitée dans le temps.
 
 <sup>2</sup> Il est constitué à partir d'un ensemble de données communes à plusieurs applications et/ou systèmes d'information.
 
@@ -98,7 +98,7 @@ Arrête:
 
 <sup>1</sup> Pour permettre la mise en œuvre et l'exploitation du Référentiel cantonal, la présente ordonnance autorise:
 
-- a) l'attribution systématique d'un identifiant unique au sens de l'article 14 LGCyb à toute personne ou organisation qui est en interaction et/ou en relation avec un organe de l'Etat;
+- a) l'attribution systématique d'un identifiant unique au sens de l'article 18 LCyb à toute personne ou organisation qui est en interaction et/ou en relation avec un organe de l'Etat;
 - b) l'appariement systématique des données de référence provenant des systèmes d'information d'un organe contributeur de données au sens de l'article 5 al. 1.
 
 <sup>2</sup> Les modalités de mise en œuvre des opérations de prétraitement sont précisées dans l'Annexe 3 à la présente ordonnance.
