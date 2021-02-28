@@ -4,7 +4,7 @@ number: "850.053"
 title: LOI du 23.11.2010 sur les prestations complémentaires cantonales pour familles et les prestations cantonales de la rente-pont (LPCFam)
 short: LPCFam
 language: fr
-version: 2020-03-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.053?id=fc2c787d-e508-430e-9fa6-60f0a24f06ed"
 ---
 
@@ -34,19 +34,20 @@ décrète
 
 **Autorités compétentes [^1-1]**
 
-<sup>1</sup> Le département en charge de l'action sociale (ci-après : le département), par le service en charge des assurances sociales (ci-après : le service) est l'autorité compétente pour exécuter la loi lorsque celle-ci n'en dispose pas autrement.
+<sup>1</sup> Le département en charge de l'action sociale (ci-après : le département)[^1a-1], par le service en charge des assurances sociales (ci-après : le service) est l'autorité compétente pour exécuter la loi lorsque celle-ci n'en dispose pas autrement.
 
 [^1-1]: Modif. 3 du 08.12.2015: Introduction Art. 1a; entrée en vigueur au 01.01.2016 · Modif. 10 du 20.12.2022: Modification Al. 1; entrée en vigueur au 01.01.2023; Introduction Art. 1b, Al. 1bis; entrée en vigueur au 01.01.2023
+[^1a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 1b
 
-**Organisation et délégation [^1a-1]**
+**Organisation et délégation [^1a-2]**
 
 <sup>1</sup> Le Conseil d'Etat délègue à un ou plusieurs organes décisionnels décentralisés (ci-après : organes décisionnels) l'exécution des tâches relatives aux prestations régies par la présente loi, à l'exception de celles prévues par l'article 27b.
 
 <sup>2</sup> Les organes décisionnels sont rattachés à des collectivités publiques ou à des personnes morales de droit public.
 
-[^1a-1]: Modif. 3 du 08.12.2015: Introduction Art. 1b; entrée en vigueur au 01.01.2016 · Modif. 6 du 11.12.2018: Modification Al. 1; entrée en vigueur au 01.03.2019 · Modif. 10 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
+[^1a-2]: Modif. 3 du 08.12.2015: Introduction Art. 1b; entrée en vigueur au 01.01.2016 · Modif. 6 du 11.12.2018: Modification Al. 1; entrée en vigueur au 01.03.2019 · Modif. 10 du 20.12.2022: Introduction Al. 1bis; entrée en vigueur au 01.01.2023
 
 #### Art. 2
 
@@ -72,30 +73,30 @@ décrète
 
 <sup>3</sup> Sont considérés comme enfants au sens de l'alinéa 1, lettre b :
 
-- a. les enfants avec lesquels existe un lien de filiation en vertu du code civil ;
+- a. les enfants avec lesquels existe un lien de filiation en vertu du code civil [^3-1] ;
 - b. les enfants du conjoint, du partenaire enregistré ou de la personne avec laquelle l'ayant droit fait durablement ménage commun (ci-après : le concubin) ;
-- c. les enfants recueillis donnant droit à des allocations familiales en application de l'article 4, alinéa 1, lettre c de la loi fédérale du 24 mars 2006 sur les allocations familiales (LAFam) [^3-1] .
+- c. les enfants recueillis donnant droit à des allocations familiales en application de l'article 4, alinéa 1, lettre c de la loi fédérale du 24 mars 2006 sur les allocations familiales (LAFam) [^3-2] .
 
 <sup>4</sup> Lorsque les circonstances le justifient, le Conseil d'Etat peut prévoir un droit aux prestations même en l'absence de ménage commun au sens de l'alinéa 1, lettre b, si celui-ci est suspendu en raison d'un séjour prolongé hors canton pour des raisons professionnelles ou liées à une formation, dans un home ou dans un internat.
 
-<sup>5</sup> Les personnes pouvant prétendre à des prestations en vertu de la loi du 7 mars 2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers (LARA) [^3-2] n'ont pas droit aux prestations complémentaires cantonales pour familles. Le Conseil d'Etat fixe les conditions d'octroi des prestations complémentaires cantonales pour familles aux personnes au bénéfice d'une admission provisoire qui ne peuvent pas prétendre aux prestations de la LARA en raison de leur autonomie financière.
+<sup>5</sup> Les personnes pouvant prétendre à des prestations en vertu de la loi du 7 mars 2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers (LARA) [^3-3] n'ont pas droit aux prestations complémentaires cantonales pour familles. Le Conseil d'Etat fixe les conditions d'octroi des prestations complémentaires cantonales pour familles aux personnes au bénéfice d'une admission provisoire qui ne peuvent pas prétendre aux prestations de la LARA en raison de leur autonomie financière.
 
-[^3-1]: Loi fédérale du 24.03.2006 sur les allocations familiales (RS 836.2)
-[^3-2]: Loi du 07.03.2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers ([BLV 142.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.21?id=8b402f66-4535-47e0-943f-0e314536c811))
+[^3-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
+[^3-2]: Loi fédérale du 24.03.2006 sur les allocations familiales (RS 836.2)
+[^3-3]: Loi du 07.03.2006 sur l'aide aux requérants d'asile et à certaines catégories d'étrangers ([BLV 142.21](https://prestations.vd.ch/pub/blv-publication/actes/consolide/142.21?id=8b402f66-4535-47e0-943f-0e314536c811))
 
 #### Art. 4
 
-**Exclusion du cumul [^3-3]**
+**Exclusion du cumul [^3-4]**
 
 <sup>1</sup> Le cumul des prestations complémentaires cantonales pour familles et de la prestation financière du revenu d'insertion vaudois (RI) au sens des articles 31 et suivants de la loi du 2 décembre 2003 sur l'action sociale vaudoise (LASV) [^4-1] est exclu.
 
 <sup>2</sup> Les prestations complémentaires cantonales pour familles ne sont versées que dans la mesure où le montant octroyé permet à l'ayant droit d'éviter le recours à la prestation financière du RI. Le Conseil d'Etat peut prévoir des exceptions.
 
-<sup>3</sup> Le droit à une prestation complémentaire au sens de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC) [^4-2] exclut le droit à des prestations complémentaires cantonales pour familles. Est réservé le droit au remboursement des frais de garde pour enfants au sens de l'article 14.
+<sup>3</sup> Le droit à une prestation complémentaire au sens de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS et à l'AI (LPC) exclut le droit à des prestations complémentaires cantonales pour familles. Est réservé le droit au remboursement des frais de garde pour enfants au sens de l'article 14, lorsque ces frais ne peuvent être reconnus comme dépenses au sens de l'article 10, alinéa 3, lettre f LPC.
 
-[^3-3]: Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021; Introduction Art. 11, Al. 1, k; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
+[^3-4]: Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021
 [^4-1]: Loi du 02.12.2003 sur l'action sociale vaudoise ([BLV 850.051](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.051?id=8b71b9d3-03d0-4865-8475-19e60cc46a73))
-[^4-2]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
 
 #### Art. 5
 
@@ -169,9 +170,9 @@ décrète
 
 - a. les montants annuels destinés à la couverture des besoins vitaux calculés sur la base des montants forfaitaires fixés à l'article 10, alinéa 1, lettre a, chiffres 1 et 2 LPC [^10-1] et adaptés selon l'échelle d'équivalence du barème du revenu d'insertion vaudois. Le Conseil d'Etat peut réduire ces montants de 15 % au plus ;
 - b. le montant annuel des frais de loyer, jusqu'à concurrence des montants admis dans le cadre du revenu d'insertion vaudois ; s'y ajoutent 10% au maximum pour les charges ;
-- c. les dépenses reconnues au sens de l'article 10, alinéa 3 LPC, à l'exclusion du montant forfaitaire annuel pour l'assurance obligatoire des soins au sens de l'article 10, alinéa 3, lettre d LPC.
+- c. les dépenses reconnues au sens de l'article 10, alinéa 3 LPC, à l'exclusion du montant pour l'assurance obligatoire des soins au sens de l'article 10, alinéa 3, lettre d et des frais de garde au sens de l'article 10, alinéa 3, lettre f, LPC.
 
-[^9-1]: Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1, c; entrée en vigueur au 01.03.2021; Introduction Art. 11, Al. 1, k; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
+[^9-1]: Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1, c; entrée en vigueur au 01.03.2021
 [^10-1]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
 
 #### Art. 11
@@ -188,8 +189,9 @@ décrète
 - f. les aides aux études et à la formation professionnelle, à l'exception des frais d'étude, d'écolage et de matériel d'étude ;
 - g. les indemnités journalières d'assurance ;
 - h. les prestations versées au sens de la loi fédérale du 25 septembre 1952 sur les allocations pour perte de gain en cas de service et de maternité [^11-1] ;
-- i. les revenus reconnus au sens de l'article 11, alinéa 1, lettres d à g LPC [^11-2] ;
-- j. le produit de la fortune mobilière et immobilière.
+- i. les revenus reconnus au sens de l'article 11, alinéa 1, lettres d à f LPC ;
+- j. le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d'un usufruit ou d'un droit d'habitation ou la valeur locative annuelle d'un immeuble dont le bénéficiaire de prestations complémentaires cantonales pour familles ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d'habitation à l'une de ces personnes au moins ;
+- k. les revenus ou parts de fortune auxquels il a été renoncé au sens de l'article 11a LPC.
 
 <sup>2</sup> Les montants annuels suivants sont toujours pris en compte à titre de revenu net minimal de l'activité lucrative (revenu hypothétique) :
 
@@ -197,18 +199,17 @@ CHF 12'700.– si la famille compte une personne majeure ; CHF 24'370.– si la 
 
 Est assimilé au revenu d'activité lucrative, tout revenu de substitution perçu en lieu et place de l'activité lucrative.
 
-<sup>3</sup> Le Conseil d'Etat peut prévoir des dérogations à l'alinéa 1, lettre a, pour les jeunes en formation au sens de l'article 25, alinéa 5 de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants (LAVS) [^11-3] .
+<sup>3</sup> Le Conseil d'Etat peut prévoir des dérogations à l'alinéa 1, lettre a, pour les jeunes en formation au sens de l'article 25, alinéa 5 de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants (LAVS) [^11-2] .
 
 <sup>4</sup> Le Conseil d'Etat peut prévoir des dérogations à l'alinéa 2 afin de tenir compte des cas dans lesquels des membres majeurs de la famille ne sont pas en mesure d'exercer une activité lucrative pendant une période donnée, pour des raisons de santé ou d'autres motifs indépendants de leur volonté.
 
-[^10-2]: Modif. 1 du 11.12.2012: Modification Al. 1 a; entrée en vigueur au 01.01.2013 · Modif. 3 du 08.12.2015: Introduction Al. 1 j; entrée en vigueur au 01.01.2016 · Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1, i-j; entrée en vigueur au 01.03.2021; Introduction Al. 1, k; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
+[^10-2]: Modif. 1 du 11.12.2012: Modification Al. 1 a; entrée en vigueur au 01.01.2013 · Modif. 3 du 08.12.2015: Introduction Al. 1 j; entrée en vigueur au 01.01.2016 · Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 1, i-j; entrée en vigueur au 01.03.2021; Introduction Al. 1, k; entrée en vigueur au 01.03.2021
 [^11-1]: Loi fédérale du 25.09.1952 sur les allocations pour perte de gain en cas de service et de maternité (RS 834.1)
-[^11-2]: Loi fédérale du 06.10.2006 sur les prestations complémentaires à l'AVS et à l'AI (RS 831.30)
-[^11-3]: Loi fédérale du 20.12.1946 sur l’assurance-vieillesse et survivants (RS 831.10)
+[^11-2]: Loi fédérale du 20.12.1946 sur l’assurance-vieillesse et survivants (RS 831.10)
 
 #### Art. 12
 
-**Naissance et extinction du droit à la prestation complémentaire annuelle pour familles [^11-4]**
+**Naissance et extinction du droit à la prestation complémentaire annuelle pour familles [^11-3]**
 
 <sup>1</sup> Le Conseil d'Etat fixe le début du droit à la prestation complémentaire annuelle pour familles, ainsi que les modalités de révision du droit.
 
@@ -216,7 +217,7 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>3</sup> …
 
-[^11-4]: Modif. 5 du 14.12.2016: Modification Al. 1; entrée en vigueur au 01.01.2017; Abrogation Al. 3; entrée en vigueur au 01.01.2017
+[^11-3]: Modif. 5 du 14.12.2016: Modification Al. 1; entrée en vigueur au 01.01.2017; Abrogation Al. 3; entrée en vigueur au 01.01.2017
 
 #### Art. 13
 
@@ -503,7 +504,7 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>1</sup> Le Conseil d'Etat institue une commission d'évaluation de la présente loi (ci-après : la Commission).
 
-<sup>2</sup> La Commission est composée de représentants d'associations d'employeurs et d'employés, ainsi que des collectivités publiques concernées. Elle est présidée par le chef du département en charge de l'action sociale.
+<sup>2</sup> La Commission est composée de représentants d'associations d'employeurs et d'employés, ainsi que des collectivités publiques concernées. Elle est présidée par le chef du département en charge de l'action sociale[^27-1].
 
 <sup>3</sup> Le Conseil d'Etat désigne les membres pour la durée d'une législature. Leur mandat est renouvelable.
 
@@ -518,11 +519,12 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>6</sup> Il règle les modalités d'organisation et de fonctionnement de la Commission.
 
-[^27-1]: Modif. 6 du 11.12.2018: Introduction ; entrée en vigueur au 01.03.2019
+[^27-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^27-2]: Modif. 6 du 11.12.2018: Introduction ; entrée en vigueur au 01.03.2019
 
 ### Sous-section Ibis Comité pour l'octroi de prestations ponctuelles
 
-[^27-1]
+[^27-2]
 
 #### Art. 27a
 
@@ -584,11 +586,11 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 
 <sup>2</sup> La restitution ne peut être exigée lorsque le bénéficiaire était de bonne foi et qu'elle le mettrait dans une situation difficile.
 
-<sup>3</sup> Les héritiers du bénéficiaire décédé sont tenus à restitution, pour autant qu'ils tirent profit de la succession, et jusqu'à concurrence de celle-ci.
+<sup>3</sup> Les héritiers du bénéficiaire décédé sont tenus à restitution, pour autant qu'ils tirent profit de la succession, et jusqu'à concurrence de celle-ci. La restitution est seulement exigible pour la part de la succession supérieure à 40'000 francs.
 
 <sup>4</sup> L'obligation de restituer se prescrit par dix ans à compter du jour où la dernière prestation a été versée. A l'égard des héritiers du bénéficiaire, le délai de prescription est de un an dès la dévolution de la succession.
 
-[^subsectionSoussectionII-2]: Modif. 4 du 07.06.2016: Introduction Al. 1 bis; entrée en vigueur au 01.01.2017 · Modif. 8 du 08.12.2020: Introduction Art. 11, Al. 1, k; entrée en vigueur au 01.03.2021; Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
+[^subsectionSoussectionII-2]: Modif. 4 du 07.06.2016: Introduction Al. 1 bis; entrée en vigueur au 01.01.2017 · Modif. 8 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Modification Al. 3; entrée en vigueur au 01.03.2021
 
 #### Art. 28a
 
@@ -659,6 +661,14 @@ Est assimilé au revenu d'activité lucrative, tout revenu de substitution perç
 <sup>3</sup> L'Etat verse à la Caisse, aux conditions prévues par le règlement, un montant correspondant aux frais d'administration liés à l'exécution des tâches décrites à l'alinéa 1.
 
 [^30a-1]: Correspond à l'article 2 de la loi modifiante du 08.12.2015
+
+#### Art. 30c
+
+**Dispositions transitoires de la loi du 8 décembre 2020 [^30b-1]**
+
+<sup>1</sup> L'ancien droit reste applicable pendant trois ans à compter de l'entrée en vigueur de la présente modification aux ayants-droits au 31 décembre 2020 pour lesquels, du fait de la modification légale, le droit aux prestations serait diminué ou perdu.
+
+[^30b-1]: Modif. 8 du 08.12.2020: Introduction tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1; entrée en vigueur au 01.03.2021; Introduction Art. 30c; entrée en vigueur au 01.03.2021
 
 #### Art. 31
 
