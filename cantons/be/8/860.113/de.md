@@ -4,13 +4,13 @@ number: "860.113"
 title: Verordnung über die Angebote zur sozialen Integration
 short: ASIV
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2021-01-29
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-01-20
 adopted: 2011-11-02
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2151/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2153/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2151/pdf_file"
 
 (ASIV)
 
-vom 02.11.2011 (Stand 01.01.2021)
+vom 02.11.2011 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -63,7 +63,7 @@ beschliesst:
 
 **Ermächtigung 1. Begriff**
 
-<sup>1</sup> Das Sozialamt (SOA) der Gesundheits- und Fürsorgedirektion (GEF) ermächtigt eine Gemeinde durch Verfügung, Aufwendungen für ein bestimmtes Leistungsangebot zur sozialen Integration dem Lastenausgleich zuzuführen.
+<sup>1</sup> Das Amt für Integration und Soziales (AIS) der Gesundheits-, Sozial- und Integrationsdirektion (GSI) ermächtigt eine Gemeinde durch Verfügung, Aufwendungen für ein bestimmtes Leistungsangebot zur sozialen Integration dem Lastenausgleich zuzuführen.
 
 <sup>2</sup> Die Ermächtigung wird in der Regel für eine Dauer von vier Jahren ausgestellt.
 
@@ -75,7 +75,7 @@ beschliesst:
 
 <sup>1</sup> Die Ermächtigung wird von Amtes wegen oder auf Gesuch der Gemeinde angepasst oder aufgehoben, falls
 
-- a das SOA feststellt, dass der Bedarf nicht mehr ausgewiesen ist oder sich verändert hat,
+- a das AIS feststellt, dass der Bedarf nicht mehr ausgewiesen ist oder sich verändert hat,
 - b die zur Verfügung stehenden finanziellen Mittel des Kantons es erfordern,
 - c die mit der Ermächtigung verbundenen Bedingungen und Auflagen nicht eingehalten werden und andere Sanktionen wirkungslos geblieben sind oder
 - d das Angebot die Voraussetzungen für die Zulassung zum Lastenausgleich nicht mehr erfüllt.
@@ -92,7 +92,7 @@ beschliesst:
 
 <sup>3</sup> Sie kann für die Ausübung der Aufsicht unabhängige, sachkundige Personen oder Fachstellen beiziehen.
 
-<sup>4</sup> Das SOA beaufsichtigt die vom Kanton bereitgestellten Angebote und überprüft regelmässig, ob die Gemeinden ihre Aufsicht wahrnehmen.
+<sup>4</sup> Das AIS beaufsichtigt die vom Kanton bereitgestellten Angebote und überprüft regelmässig, ob die Gemeinden ihre Aufsicht wahrnehmen.
 
 ## 2 Familienergänzende Kinderbetreuung
 
@@ -149,7 +149,7 @@ beschliesst:
 
 **Angebotsverteilung**
 
-<sup>1</sup> Das SOA sorgt für eine angemessene regionale Angebotsverteilung.
+<sup>1</sup> Das AIS sorgt für eine angemessene regionale Angebotsverteilung.
 
 <sup>2</sup> Falls die zur Deckung des nachgewiesenen Bedarfs erforderlichen Aufwendungen die bewilligten finanziellen Mittel des Kantons übersteigen, werden die Gesuche auf ihre Priorität hin geprüft.
 
@@ -166,7 +166,7 @@ beschliesst:
 
 <sup>1</sup> Kindertagesstätten, die zusätzlich zu den über den Lastenausgleich finanzierten Plätzen über weitere nicht subventionierte Plätze verfügen, unterstehen der Aufsicht der zuständigen Gemeinde.
 
-<sup>2</sup> Das SOA informiert das Kantonale Jugendamt jährlich über die Anzahl der nicht subventionierten Plätze.
+<sup>2</sup> Das AIS informiert das Kantonale Jugendamt jährlich über die Anzahl der nicht subventionierten Plätze.
 
 <sup>3</sup> Kindertagesstätten mit einer Betriebsbewilligung des Kantonalen Jugendamts unterstehen der Aufsicht dieses Amts, auch wenn sie zusätzlich über Plätze verfügen, die über den Lastenausgleich finanziert werden.
 
@@ -444,7 +444,7 @@ beschliesst:
 
 **Anpassung der Tarifansätze**
 
-<sup>1</sup> Die GEF kann die für die Berechnung der Gebühren massgebenden Tarifansätze nach Artikel 25 und 29 jeweils auf den 1. August im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
+<sup>1</sup> Die GSI kann die für die Berechnung der Gebühren massgebenden Tarifansätze nach Artikel 25 und 29 jeweils auf den 1. August im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
 
 ### 2.3.2 Betreuungsgutscheine
 
@@ -505,7 +505,7 @@ beschliesst:
 
 <sup>3</sup> Einen zusätzlichen Bedarf haben Eltern, deren Kinder aufgrund ihrer besonderen Bedürfnisse einen ausserordentlichen Betreuungsaufwand aufweisen, der höhere Betreuungskosten verursacht.
 
-<sup>4</sup> Die GEF bestimmt die Anforderungen an den Bedarf nach Absatz 1 sowie Absatz 3 durch Direktionsverordnung.
+<sup>4</sup> Die GSI bestimmt die Anforderungen an den Bedarf nach Absatz 1 sowie Absatz 3 durch Direktionsverordnung.
 
 #### Art. 34e
 
@@ -523,7 +523,7 @@ beschliesst:
 
 <sup>3</sup> Bei einem Bedarf nach Artikel 34d Absatz 1 Buchstabe f besteht kein erforderliches Beschäftigungspensum.
 
-<sup>4</sup> Die GEF legt die Regeln zur Bestimmung des erforderlichen Beschäftigungspensums durch Direktionsverordnung fest.
+<sup>4</sup> Die GSI legt die Regeln zur Bestimmung des erforderlichen Beschäftigungspensums durch Direktionsverordnung fest.
 
 #### Art. 34f
 
@@ -577,7 +577,7 @@ beschliesst:
 
 <sup>3</sup> Ein Bedarf nach Artikel 34d Absatz 3 wird einkommensunabhängig durch eine Pauschale abgegolten.
 
-<sup>4</sup> Die GEF bestimmt die Berechnung der Betreuungseinheit in einer Kindertagesstätte und in einer Tagesfamilie sowie die Höhe der Pauschale nach Absatz 3 durch Direktionsverordnung.
+<sup>4</sup> Die GSI bestimmt die Berechnung der Betreuungseinheit in einer Kindertagesstätte und in einer Tagesfamilie sowie die Höhe der Pauschale nach Absatz 3 durch Direktionsverordnung.
 
 #### Art. 34l
 
@@ -631,7 +631,7 @@ beschliesst:
 
 <sup>4</sup> Der Betreuungsgutschein wird auf den Folgemonat nach Einreichung des vollständigen Gesuchs und ab Beginn des Betreuungsverhältnisses ausgestellt. Die Wohnsitzgemeinde kann den Betreuungsgutschein in begründeten Ausnahmefällen früher ausstellen.
 
-<sup>5</sup> Die GEF kann die Einzelheiten durch Direktionsverordnung regeln.
+<sup>5</sup> Die GSI kann die Einzelheiten durch Direktionsverordnung regeln.
 
 #### Art. 34p
 
@@ -649,9 +649,9 @@ beschliesst:
 - f das vereinbarte Betreuungspensum sowie
 - g die Kosten für das vereinbarte Betreuungspensum.
 
-<sup>3</sup> Die Wohnsitzgemeinde kann die Angaben der Eltern nach Artikel 8c Absatz 3 SHG bei den Steuerbehörden und auf der Gemeinderegistersysteme-Plattform (GERES) mit dem Zugriff auf die erforderlichen Daten gemäss dem Gesetz vom 28. November 2006 über die Harmonisierung amtlicher Register (RegG)[^34p-1] überprüfen.
+<sup>3</sup> Die Wohnsitzgemeinde kann die Angaben der Eltern nach Artikel 8c Absatz 3 SHG bei den Steuerbehörden und auf der Gemeinderegistersysteme-Plattform (GERES-Plattform) mit dem Zugriff auf die erforderlichen Daten gemäss Verordnung vom 20. Januar 2021 über die Gemeinderegistersysteme-Plattform (GERES V)[^34p-1] überprüfen.
 
-[^34p-1]: BSG [152.05](https://www.belex.sites.be.ch/data/152.05/de)
+[^34p-1]: BSG [152.051](https://www.belex.sites.be.ch/data/152.051/de)
 
 #### Art. 34q
 
@@ -744,11 +744,11 @@ beschliesst:
 
 <sup>2</sup> Tagesfamilienorganisationen haben zusätzlich zu den Anforderungen nach Absatz 1 die Voraussetzungen nach Artikel 20 zu erfüllen.
 
-<sup>3</sup> Die Zulassung wird auf Gesuch hin und nach Einreichen der erforderlichen Belege durch das SOA erteilt.
+<sup>3</sup> Die Zulassung wird auf Gesuch hin und nach Einreichen der erforderlichen Belege durch das AIS erteilt.
 
 <sup>4</sup> Für das Zulassungsverfahren werden keine Gebühren erhoben.
 
-<sup>5</sup> Sind die Voraussetzungen für die Zulassung nach Absatz 1 nicht mehr erfüllt, hebt das SOA die Zulassung auf.
+<sup>5</sup> Sind die Voraussetzungen für die Zulassung nach Absatz 1 nicht mehr erfüllt, hebt das AIS die Zulassung auf.
 
 ### 2.4 Lastenausgleichsberechtigte Aufwendungen
 
@@ -795,7 +795,7 @@ beschliesst:
 - a die Gebührenerträge für die Betreuung,
 - b die übrigen Betriebserträge (ohne freiwillige zweckbestimmte Zuwendungen Dritter, Mitgliederbeiträge an die Leistungserbringer, Finanzhilfen des Bundes und Erträge für Verpflegung).
 
-<sup>2</sup> Falls eine Gemeinde für die von ihr finanzierten Angebote weniger hohe Gebühren in Rechnung stellt als diese Verordnung vorsieht, hat sie die Differenz zum Ertrag gemäss Gebührentarif selbst zu tragen. Für die Ermittlung der lastenausgleichsberechtigten Aufwendungen sind die Erträge nach dem Gebührentarif zu berechnen und gegenüber dem SOA auszuweisen.
+<sup>2</sup> Falls eine Gemeinde für die von ihr finanzierten Angebote weniger hohe Gebühren in Rechnung stellt als diese Verordnung vorsieht, hat sie die Differenz zum Ertrag gemäss Gebührentarif selbst zu tragen. Für die Ermittlung der lastenausgleichsberechtigten Aufwendungen sind die Erträge nach dem Gebührentarif zu berechnen und gegenüber dem AIS auszuweisen.
 
 #### Art. 39
 
@@ -822,7 +822,7 @@ beschliesst:
 
 <sup>2</sup> Für die Berechnung des Selbstbehalts wird jedoch an Stelle des tatsächlichen Gebührenertrags der Leistungsangebote der Gemeinde der durchschnittliche Gebührenertrag aller Leistungsangebote im ganzen Kanton pro Betreuungstag oder pro Betreuungsstunde in die Berechnung einbezogen.
 
-<sup>3</sup> Das SOA ermittelt jährlich die durchschnittlichen Gebührenerträge und gibt sie den Gemeinden jeweils für die Lastenausgleichsabrechnung des Folgejahrs bekannt.
+<sup>3</sup> Das AIS ermittelt jährlich die durchschnittlichen Gebührenerträge und gibt sie den Gemeinden jeweils für die Lastenausgleichsabrechnung des Folgejahrs bekannt.
 
 #### Art. 42
 
@@ -836,7 +836,7 @@ beschliesst:
 
 **Anpassung der Abgeltungsansätze**
 
-<sup>1</sup> Die GEF kann die Ansätze gemäss den Artikeln 37 Absatz 2 und 39 jeweils auf Jahresbeginn im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
+<sup>1</sup> Die GSI kann die Ansätze gemäss den Artikeln 37 Absatz 2 und 39 jeweils auf Jahresbeginn im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
 
 #### Art. 43a
 
@@ -850,7 +850,7 @@ beschliesst:
 
 <sup>3</sup> Für die Berechnung des Selbstbehalts werden die im Kanton durchschnittlichen Aufwendungen für ein vergünstigtes Betreuungspensum von 100 Prozent berücksichtigt.
 
-<sup>4</sup> Das SOA ermittelt jährlich den Selbstbehalt aufgrund der Aufwendungen des Vorjahres und gibt ihn den Gemeinden jeweils für die Lastenausgleichsabrechnung im Folgejahr bekannt.
+<sup>4</sup> Das AIS ermittelt jährlich den Selbstbehalt aufgrund der Aufwendungen des Vorjahres und gibt ihn den Gemeinden jeweils für die Lastenausgleichsabrechnung im Folgejahr bekannt.
 
 [^43a-1]: BSG [861.1](https://www.belex.sites.be.ch/data/861.1/de)
 
@@ -901,9 +901,9 @@ beschliesst:
 
 **Einzugsgebiet**
 
-<sup>1</sup> Das SOA erteilt Ermächtigungen für Leistungsangebote der offenen Kinder- und Jugendarbeit an Gemeinden oder Einzugsgebiete mit mehreren Gemeinden, in denen mindestens 2000 Kinder und Jugendliche bis zum vollendeten zwanzigsten Altersjahr wohnen.
+<sup>1</sup> Das AIS erteilt Ermächtigungen für Leistungsangebote der offenen Kinder- und Jugendarbeit an Gemeinden oder Einzugsgebiete mit mehreren Gemeinden, in denen mindestens 2000 Kinder und Jugendliche bis zum vollendeten zwanzigsten Altersjahr wohnen.
 
-<sup>2</sup> In begründeten Einzelfällen, insbesondere in grenznahen Gebieten, kann das SOA Ermächtigungen für Gemeinden oder Einzugsgebiete ausstellen, welche die Anforderungen nicht erfüllen.
+<sup>2</sup> In begründeten Einzelfällen, insbesondere in grenznahen Gebieten, kann das AIS Ermächtigungen für Gemeinden oder Einzugsgebiete ausstellen, welche die Anforderungen nicht erfüllen.
 
 #### Art. 49
 
@@ -978,7 +978,7 @@ beschliesst:
 
 **Anrechenbare Beiträge**
 
-<sup>1</sup> Das SOA legt in den Ermächtigungen den Höchstbetrag der anrechenbaren Beiträge fest.
+<sup>1</sup> Das AIS legt in den Ermächtigungen den Höchstbetrag der anrechenbaren Beiträge fest.
 
 <sup>2</sup> Als anrechenbar gelten die Beiträge an den Nettoaufwand der Leistungserbringer, soweit damit der Höchstbetrag gemäss Absatz 1 nicht überschritten wird.
 
@@ -1000,7 +1000,7 @@ beschliesst:
 
 <sup>3</sup> Der Grundbetrag wird um einen Franken pro Altersjahr gekürzt, für das in einem Einzugsgebiet keine Angebote bereitgestellt werden.
 
-<sup>4</sup> Die GEF kann den Grundbetrag gemäss Absatz 1 Buchstabe a jeweils auf Jahresbeginn im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
+<sup>4</sup> Die GSI kann den Grundbetrag gemäss Absatz 1 Buchstabe a jeweils auf Jahresbeginn im Umfang der vom Regierungsrat für das Kantonspersonal beschlossenen Anhebung der Gehälter anpassen.
 
 #### Art. 60
 
@@ -1010,9 +1010,9 @@ beschliesst:
 
 #### Art. 61
 
-<sup>1</sup> Gesuche um Erteilung einer Ermächtigung sind jeweils bis spätestens am 31. März des der Vierjahresperiode vorangehenden Jahres beim SOA einzureichen.
+<sup>1</sup> Gesuche um Erteilung einer Ermächtigung sind jeweils bis spätestens am 31. März des der Vierjahresperiode vorangehenden Jahres beim AIS einzureichen.
 
-<sup>2</sup> Gesuche, die nach der Frist gemäss Absatz 1 eingereicht werden, müssen bis spätestens am 31. März des Folgejahres eingereicht werden und die entsprechende Ermächtigung erfolgt ab dem darauffolgenden Jahresbeginn und lediglich bis zum Ablauf der laufenden, vierjährigen Ermächtigungsperiode.
+<sup>2</sup> Gesuche, die nach der Frist gemäss Absatz 1 eingereicht werden, müssen bis spätestens am 31. März des Folgejahres eingereicht werden, und die entsprechende Ermächtigung erfolgt ab dem darauffolgenden Jahresbeginn und lediglich bis zum Ablauf der laufenden, vierjährigen Ermächtigungsperiode.
 
 ## 4 Übergangsbestimmungen
 

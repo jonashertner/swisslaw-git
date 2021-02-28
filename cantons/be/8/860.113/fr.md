@@ -4,13 +4,13 @@ number: "860.113"
 title: Ordonnance sur les prestations d’insertion sociale
 short: OPIS
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2021-01-29
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-01-20
 adopted: 2011-11-02
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2151/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2153/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2151/pdf_file"
 
 (OPIS)
 
-du 02.11.2011 (état au 01.01.2021)
+du 02.11.2011 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -63,7 +63,7 @@ arrête:
 
 **Autorisation d’admission à la compensation des charges 1. Définition**
 
-<sup>1</sup> L’Office des affaires sociales (OAS) de la Direction de la santé publique et de la prévoyance sociale (SAP) autorise par voie de décision une commune à porter à la compensation des charges les dépenses encourues pour une prestation d’insertion sociale donnée.
+<sup>1</sup> L’Office de l’intégration et de l’action sociale (OIAS) de la Direction de la santé, des affaires sociales et de l’intégration (DSSI) autorise par voie de décision une commune à porter à la compensation des charges les dépenses encourues pour une prestation d’insertion sociale donnée.
 
 <sup>2</sup> L’autorisation est en général établie pour une durée de quatre ans.
 
@@ -75,7 +75,7 @@ arrête:
 
 <sup>1</sup> L’autorisation est adaptée ou révoquée d’office ou sur demande de la commune, si
 
-- a l’OAS constate que le besoin n’est plus attesté ou a changé;
+- a l’OIAS constate que le besoin n’est plus attesté ou a changé;
 - b la situation financière du canton l’exige;
 - c les conditions et les charges inscrites dans l’autorisation ne sont pas respectées et d’autres sanctions sont restées sans effet ou si
 - d les prestations ne satisfont plus aux conditions requises pour être admises à la compensation des charges.
@@ -92,7 +92,7 @@ arrête:
 
 <sup>3</sup> Elle peut confier l’exercice de la surveillance à des tiers ou à des services spécialisés indépendants.
 
-<sup>4</sup> L’OAS surveille les prestations mises sur pied par le canton et contrôle régulièrement si les communes assument leur tâche de surveillance.
+<sup>4</sup> L’OIAS surveille les prestations mises sur pied par le canton et contrôle régulièrement si les communes assument leur tâche de surveillance.
 
 ## 2 Structures d’accueil extrafamilial
 
@@ -149,7 +149,7 @@ arrête:
 
 **Répartition des prestations**
 
-<sup>1</sup> L’OAS veille à répartir équitablement les prestations à l’échelle régionale.
+<sup>1</sup> L’OIAS veille à répartir équitablement les prestations à l’échelle régionale.
 
 <sup>2</sup> Si le besoin est attesté, mais que les dépenses requises pour le couvrir dépassent les moyens financiers du canton qui ont été approuvés, les demandes sont traitées en fonction de leur priorité.
 
@@ -166,7 +166,7 @@ arrête:
 
 <sup>1</sup> Les garderies disposant de places non subventionnées en sus de places financées par le biais de la compensation des charges sont soumises à la surveillance de la commune compétente.
 
-<sup>2</sup> L’OAS communique chaque année le nombre de places non subventionnées à l’Office des mineurs du canton de Berne.
+<sup>2</sup> L’OIAS communique chaque année le nombre de places non subventionnées à l’Office des mineurs du canton de Berne.
 
 <sup>3</sup> Les garderies titulaires d’une autorisation d’exploiter délivrée par l’Office des mineurs sont soumises à la surveillance de ce dernier, même si elles disposent également de places financées par le biais de la compensation des charges.
 
@@ -444,7 +444,7 @@ arrête:
 
 **Adaptation des tarifs**
 
-<sup>1</sup> La SAP peut adapter les tarifs déterminants pour le calcul des émoluments selon les articles 25 et 29 avec effet au 1<sup>er</sup> août à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
+<sup>1</sup> La DSSI peut adapter les tarifs déterminants pour le calcul des émoluments selon les articles 25 et 29 avec effet au 1<sup>er</sup> août à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
 
 ### 2.3.2 Bons de garde
 
@@ -505,7 +505,7 @@ arrête:
 
 <sup>3</sup> Un besoin supplémentaire est reconnu aux parents dont les enfants présentent des besoins particuliers entraînant des frais de prise en charge extraordinaires.
 
-<sup>4</sup> La SAP définit les conditions requises en matière de besoin au sens des alinéas 1 et 3 par voie d’ordonnance de Direction.
+<sup>4</sup> La DSSI définit les conditions requises en matière de besoin au sens des alinéas 1 et 3 par voie d’ordonnance de Direction.
 
 #### Art. 34e
 
@@ -523,7 +523,7 @@ arrête:
 
 <sup>3</sup> En cas de besoin au sens de l’article 34d, alinéa 1, lettre f, aucun taux d’activité minimal n’est exigé.
 
-<sup>4</sup> La SAP définit par voie d’ordonnance de Direction les règles servant à déterminer le taux d’activité minimal requis.
+<sup>4</sup> La DSSI définit par voie d’ordonnance de Direction les règles servant à déterminer le taux d’activité minimal requis.
 
 #### Art. 34f
 
@@ -577,7 +577,7 @@ arrête:
 
 <sup>3</sup> Un besoin au sens de l’article 34d, alinéa 3 est subventionné au moyen d’un forfait indépendamment du revenu des parents.
 
-<sup>4</sup> La SAP définit par voie d’ordonnance de Direction l’unité de prise en charge en garderie et en famille d’accueil ainsi que le montant du forfait visé à l’alinéa 3.
+<sup>4</sup> La DSSI définit par voie d’ordonnance de Direction l’unité de prise en charge en garderie et en famille d’accueil ainsi que le montant du forfait visé à l’alinéa 3.
 
 #### Art. 34l
 
@@ -631,7 +631,7 @@ arrête:
 
 <sup>4</sup> La commune de domicile établit le bon de garde pour le mois suivant le dépôt d’une demande complète et à partir du début de la prise en charge. Elle peut le faire plus tôt à titre exceptionnel, dans des cas particuliers justifiés.
 
-<sup>5</sup> La SAP peut régler les détails par voie d'ordonnance de Direction.
+<sup>5</sup> La DSSI peut régler les détails par voie d'ordonnance de Direction.
 
 #### Art. 34p
 
@@ -649,9 +649,9 @@ arrête:
 - f le taux de prise en charge convenu et
 - g les frais pour le taux de prise en charge convenu.
 
-<sup>3</sup> La commune de domicile peut vérifier les informations fournies par les parents conformément à l’article 8c, alinéa 3 LASoc auprès des autorités fiscales et par l’intermédiaire de la plate-forme des systèmes des registres communaux (GERES) en accédant aux données requises selon la loi du 28 novembre 2006 sur l’harmonisation des registres officiels (LReg)[^34p-1].
+<sup>3</sup> La commune de domicile peut vérifier les informations fournies par les parents conformément à l’article 8c, alinéa 3 LASoc auprès des autorités fiscales et par l’intermédiaire de la plate-forme des systèmes des registres communaux (GERES) en accédant aux données requises selon l'ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^34p-1].
 
-[^34p-1]: RSB [152.05](https://www.belex.sites.be.ch/data/152.05/fr)
+[^34p-1]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
 
 #### Art. 34q
 
@@ -744,11 +744,11 @@ arrête:
 
 <sup>2</sup> Outre les conditions fixées à l’alinéa 1, les organisations d’accueil familial de jour doivent satisfaire aux exigences visées à l’article 20.
 
-<sup>3</sup> L’admission dans le système est accordée par l’OAS sur demande et après remise des justificatifs requis.
+<sup>3</sup> L’admission dans le système est accordée par l’OIAS sur demande et après remise des justificatifs requis.
 
 <sup>4</sup> Aucun émolument n’est perçu pour la procédure d’admission dans le système.
 
-<sup>5</sup> Si les conditions visées à l’alinéa 1 ne sont plus remplies, l’OAS suspend l’admission dans le système.
+<sup>5</sup> Si les conditions visées à l’alinéa 1 ne sont plus remplies, l’OIAS suspend l’admission dans le système.
 
 ### 2.4 Dépenses admises à la compensation des charges
 
@@ -795,7 +795,7 @@ arrête:
 - a produit des émoluments facturés pour la prise en charge extrafamiliale,
 - b autres recettes d’exploitation (sans les donations volontaires de tiers à affectation déterminée, les cotisations de membres versées aux fournisseurs de prestations, les aides financières de la Confédération et les recettes provenant des repas).
 
-<sup>2</sup> Si une commune facture pour une prestation qu’elle finance un tarif inférieur à celui prévu par la présente ordonnance, la différence lui incombe et le montant porté à la compensation des charges qu’elle soumet à l’OAS doit être calculé sur la base des recettes qu’elle aurait obtenues en appliquant le tarif des émoluments.
+<sup>2</sup> Si une commune facture pour une prestation qu’elle finance un tarif inférieur à celui prévu par la présente ordonnance, la différence lui incombe et le montant porté à la compensation des charges qu’elle soumet à l’OIAS doit être calculé sur la base des recettes qu’elle aurait obtenues en appliquant le tarif des émoluments.
 
 #### Art. 39
 
@@ -822,7 +822,7 @@ arrête:
 
 <sup>2</sup> Elle est calculée sur la base du produit moyen des émoluments perçus par jour ou par heure de prise en charge pour toutes les prestations fournies dans le canton et non pas en fonction du produit effectif des émoluments résultant des prestations proposées par chaque commune.
 
-<sup>3</sup> L’OAS détermine chaque année le produit moyen des émoluments et le communique aux communes pour le décompte de compensation des charges de l’exercice suivant.
+<sup>3</sup> L’OIAS détermine chaque année le produit moyen des émoluments et le communique aux communes pour le décompte de compensation des charges de l’exercice suivant.
 
 #### Art. 42
 
@@ -836,7 +836,7 @@ arrête:
 
 **Adaptation du montant des rémunérations**
 
-<sup>1</sup> La SAP peut adapter le montant des rémunérations au sens de l’article 37, alinéa 2 et de l’article 39 avec effet au début d’une année à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
+<sup>1</sup> La DSSI peut adapter le montant des rémunérations au sens de l’article 37, alinéa 2 et de l’article 39 avec effet au début d’une année à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
 
 #### Art. 43a
 
@@ -850,7 +850,7 @@ arrête:
 
 <sup>3</sup> Elle est calculée sur la base des dépenses moyennes encourues dans le canton pour un taux de prise en charge subventionné de 100 pour cent.
 
-<sup>4</sup> L’OAS détermine chaque année la franchise en se fondant sur les dépenses de l’année précédente et la communique aux communes pour le décompte de compensation des charges de l’exercice suivant.
+<sup>4</sup> L’OIAS détermine chaque année la franchise en se fondant sur les dépenses de l’année précédente et la communique aux communes pour le décompte de compensation des charges de l’exercice suivant.
 
 [^43a-1]: RSB [861.1](https://www.belex.sites.be.ch/data/861.1/fr)
 
@@ -901,7 +901,7 @@ arrête:
 
 **Bassin de population**
 
-<sup>1</sup> L’OAS délivre des autorisations d’admission à la compensation des charges pour les prestations d’animation de jeunesse à des communes ou à des bassins de population regroupant plusieurs communes et comptant au moins 2000 enfants et adolescents jusqu’à l’âge de 20 ans révolus.
+<sup>1</sup> L’OIAS délivre des autorisations d’admission à la compensation des charges pour les prestations d’animation de jeunesse à des communes ou à des bassins de population regroupant plusieurs communes et comptant au moins 2000 enfants et adolescents jusqu’à l’âge de 20 ans révolus.
 
 <sup>2</sup> Dans des cas dûment motivés, en particulier dans les régions proches des frontières du canton, il peut établir des autorisations pour des communes ou des bassins de population ne remplissant pas les exigences requises.
 
@@ -978,7 +978,7 @@ arrête:
 
 **Subventions imputables**
 
-<sup>1</sup> L’OAS notifie dans les autorisations d’admission à la compensation des charges le montant maximal pouvant être porté à la compensation des charges.
+<sup>1</sup> L’OIAS notifie dans les autorisations d’admission à la compensation des charges le montant maximal pouvant être porté à la compensation des charges.
 
 <sup>2</sup> Sont considérées comme imputables les subventions allouées pour les charges nettes des fournisseurs de prestations, à condition qu’elles ne dépassent pas le montant maximal au sens de l’alinéa 1.
 
@@ -1000,7 +1000,7 @@ arrête:
 
 <sup>3</sup> Le montant de base est réduit d’un franc par année d’âge pour laquelle aucune prestation n’est proposée dans le bassin de population considéré.
 
-<sup>4</sup> La SAP peut adapter le montant de base selon l’alinéa 1, lettre a avec effet au début d’une année à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
+<sup>4</sup> La DSSI peut adapter le montant de base selon l’alinéa 1, lettre a avec effet au début d’une année à hauteur de l’augmentation des traitements arrêtée par le Conseil-exécutif pour le personnel cantonal.
 
 #### Art. 60
 
@@ -1010,7 +1010,7 @@ arrête:
 
 #### Art. 61
 
-<sup>1</sup> Les demandes d’admission à la compensation des charges doivent être soumises à l’OAS au plus tard le 31 mars de l’année précédant la période quadriennale.
+<sup>1</sup> Les demandes d’admission à la compensation des charges doivent être soumises à l’OIAS au plus tard le 31 mars de l’année précédant la période quadriennale.
 
 <sup>2</sup> Les demandes déposées après le délai fixé à l’alinéa 1 doivent être soumises au plus tard le 31 mars de l’exercice suivant. L’ autorisation prend alors effet au début de l’année d’après et n’est valable que jusqu’à la fin de la période quadriennale en cours.
 
