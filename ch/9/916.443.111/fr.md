@@ -4,20 +4,20 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-UE-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/847"
 language: fr
-version: 2018-12-15
+version: 2021-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20181215/fr/xml/fedlex-data-admin-ch-eli-cc-2015-847-20181215-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20181215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-847-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DFI réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les Etats membres de l’UE, l’Islande et la Norvège
+# Ordonnance du DFI réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège
 
 (OITE-UE-DFI)
 
-du 18 novembre 2015 (Etat le 15 décembre 2018)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -80,7 +80,7 @@ L’OSAV adapte l’annexe 2 au contexte international et aux progrès technique
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2016.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1)
 
@@ -140,26 +140,53 @@ Les garanties sanitaires additionnelles visées à l’art. 2, al. 1, let. b, ne
 
 [^annex2-lvlu1-lvl2-1]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie, JO L 59 du 4.3.2008, p. 19 ; modifiée en dernier lieu par la décision d’exécution (UE) 2018/187, JO L 34 du 8.2.2018, p. 36.
 
-Annexe 3
+Annexe 3*[^t-3]*
 
 (art. 3)
 
 ## Exigences formelles auxquelles doivent satisfaire les certificats sanitaires
 
-\1. Le représentant de l’autorité du pays exportateur ou de l’entreprise qui délivre le certificat sanitaire doit le signer et le munir du cachet officiel. Cette exigence vaut pour chaque page du certificat, si celui-ci en comporte plus d’une. Le cachet et la signature doivent être d’une couleur différente de celle des autres données figurant sur le certificat. On y ajoutera le nom et le titre de fonction du signataire en caractères lisibles et en capitales.
+[^t-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 26 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 65](https://fedlex.data.admin.ch/eli/oc/2021/65)).
 
-\2. Le contenu et l’aspect du certificat sanitaire doivent correspondre au modèle fixé pour l’animal, le produit animal et l’État en question. Le certificat doit être rempli entièrement et ne peut être établi que pour un seul établissement de destination.
+### 1 Exigences formelles auxquelles doivent satisfaire les certificats sanitaires sous forme papier
 
-\3. Les certificats doivent être rédigés en allemand, français, italien ou anglais ainsi que dans la langue officielle du pays de destination s’il s’agit d’un lot en transit ou d’un lot destiné à l’exportation, ou être accompagnés d’une traduction légalisée dans la langue pertinente.
+\1. Les certificats sanitaires doivent être munis de la signature de la personne habilitée à les signer et d’un cachet officiel. La couleur de la signature doit être différente de celle du texte imprimé. Cette règle vaut également pour les cachets, à l’exclusion des reliefs et des filigranes. On y ajoutera le nom et le titre de fonction du signataire en caractères lisibles et en capitales.
 
-\4. Les certificats doivent être constitués:
+\2. Les certificats sanitaires doivent être conformes au modèle fixé pour l’animal, le produit animal et l’État en question. Ils doivent être remplis entièrement et ne peuvent être établis que pour un seul établissement de destination. Les mentions non pertinentes doivent être biffées et paraphées par la personne habilitée à signer le certificat et cachetées ou être entièrement supprimées.
+
+\3. Les certificats sanitaires doivent être rédigés en allemand, en français, en italien ou en anglais et, s’il s’agit de lots présentés au transit et à l’exportation, dans la langue officielle du pays de destination; sinon ils doivent être accompagnés d’une traduction légalisée dans la langue pertinente.
+
+\4. Les certificats sanitaires doivent être constitués:
 
 - a. d’une feuille de papier unique;
-- b. de deux ou plusieurs pages faisant partie d’une feuille de papier unique qui ne doit pas être divisée; ou
-- c. d’une séquence de pages numérotées de manière à indiquer qu’il s’agit d’une page spécifique d’une séquence finie (par exemple: «page 2 sur 4»).
+- b. de plusieurs pages indivisibles constituant un tout, ou
+- c. d’une séquence de pages numérotées de manière à indiquer qu’il s’agit d’une page spécifique d’une séquence finie (par ex.: «page 2 sur 4»).
 
-\5. Les certificats doivent porter un numéro d’identification unique. Lorsque le certificat se compose d’une séquence de pages, chaque page doit indiquer ce numéro.
+\5. Les certificats sanitaires doivent porter un numéro d’identification unique. Lorsque le certificat se compose d’une séquence de pages, chaque page doit être munie du numéro d’identification, de la signature de la personne habilitée à signer et du cachet officiel.
 
-\6. Les éventuelles modifications doivent être effectuées au moyen de ratures dûment signées et cachetées par la personne chargée de la certification.
+\6. Les éventuelles modifications doivent être effectuées au moyen de ratures signées par la personne habilitée à signer et munies d’un cachet officiel.
 
-\7. Le certificat doit être délivré avant que le lot auquel il se réfère ne quitte le service de contrôle de l’autorité compétente du pays expéditeur.
+\7. Les certificats sanitaires doivent être délivrés avant que le lot auquel ils se réfèrent ne quitte le service de contrôle de l’autorité compétente.
+
+### 2 Exigences formelles auxquelles doivent satisfaire les certificats sanitaires sous forme électronique qui sont transmis via TRACES
+
+\1. Les certificats sanitaires doivent être conformes au modèle fixé pour l’animal, le produit animal et l’État en question.
+
+\2. Les certificats sanitaires doivent être transmis via TRACES avant que le lot auquel ils se réfèrent ne quitte le service de contrôle de l’autorité compétente.
+
+### 3 Certificats de remplacement
+
+\1. L’autorité compétente peut délivrer un certificat de remplacement lorsque le certificat initial:
+
+- a. présente des erreurs de plume;
+- b. a été endommagé, ou
+- c. a été perdu.
+
+\2. Le certificat de remplacement ne doit pas modifier les informations contenues dans le certificat initial en ce qui concerne l’identification, la traçabilité et les garanties sanitaires des lots.
+
+\3. Le certificat de remplacement doit:
+
+- a. renvoyer clairement au numéro d’identification et à la date de délivrance du certificat initial, et indiquer clairement qu’il remplace le certificat initial;
+- b. porter un nouveau numéro d’identification, distinct de celui du certificat initial;
+- c. porter la date de sa délivrance, et
+- d. être soit présenté dans sa version originale sur papier à l’autorité compétente, soit transmis sous forme électronique via TRACES.

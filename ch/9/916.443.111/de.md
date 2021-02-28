@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-EU-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/847"
 language: de
-version: 2018-12-15
+version: 2021-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20181215/de/xml/fedlex-data-admin-ch-eli-cc-2015-847-20181215-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20181215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2015-847-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20181215/de"
 
 (EDAV-EU-EDI)
 
-vom 18. November 2015 (Stand am 15. Dezember 2018)
+vom 18. November 2015 (Stand am 1. März 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -140,26 +140,53 @@ Die Gesundheitsgarantien nach Artikel 2 Absatz 1 Buchstabe b werden nur anerkann
 
 [^annex2-lvlu1-lvl2-1]: Entscheidung 2008/185/EG der Kommission vom 21. Februar 2008 zur Festlegung zusätzlicher Garantien für den innergemeinschaftlichen Handel mit Schweinen hinsichtlich der Aujeszky-Krankheit und der Kriterien für die Informationsübermittlung, ABl. L 59 vom 4.3.2008, S. 19; zuletzt geändert durch Durchführungsbeschluss (EU) 2018/187, ABl. L 34 vom 8.2.2018, S. 36.
 
-Anhang 3
+Anhang 3*[^t-3]*
 
 (Art. 3)
 
-## Formale Anforderungen an die Gesundheitsbescheinigungen
+## Formale Anforderungen an Gesundheitsbescheinigungen
 
-\1. Die Vertreterin oder der Vertreter der zuständigen Behörde des Versandstaats oder des Unternehmens, die oder der eine Gesundheitsbescheinigung ausstellt, muss die Gesundheitsbescheinigung unterzeichnen und mit einem amtlichen Stempel versehen. Dies gilt bei mehrseitigen Gesundheitsbescheinigungen für jede Seite. Die Unterschrift und der Stempel müssen eine andere Farbe als die übrigen Angaben haben. Der Name und die Amtsbezeichnung der unterzeichnenden Person sind in einem gut leserlichen Aufdruck in Druckbuchstaben beizufügen.
+[^t-3]: Fassung gemäss Ziff. I der V des EDI vom 26. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 65](https://fedlex.data.admin.ch/eli/oc/2021/65)).
 
-\2. Die Gesundheitsbescheinigungen müssen inhaltlich und äusserlich dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde. Sie müssen vollständig ausgefüllt und dürfen nur für einen einzigen Bestimmungsbetrieb ausgestellt sein.
+### 1 Formale Anforderungen an Gesundheitsbescheinigungen in Papierform
+
+\1. Die Gesundheitsbescheinigungen müssen mit der Unterschrift der unterzeichnungsberechtigten Person und mit einem amtlichen Stempel versehen sein. Die Unterschrift muss sich farblich von der Druckfarbe der Bescheinigung absetzen. Diese Anforderung gilt auch für Stempel, bei denen es sich nicht um Prägestempel oder Wasserzeichen handelt. Der Name und die Amtsbezeichnung der unterzeichnenden Person sind in einem gut leserlichen Aufdruck in Druckbuchstaben beizufügen.
+
+\2. Die Gesundheitsbescheinigungen müssen dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde. Sie müssen vollständig ausgefüllt und dürfen nur für einen einzigen Bestimmungsbetrieb ausgestellt sein. Nicht zutreffende Passagen müssen von der unterzeichnungsberechtigten Person durchgestrichen und mit ihren Initialen und einem Stempel versehen oder vollständig aus der Bescheinigung entfernt werden.
 
 \3. Die Gesundheitsbescheinigungen müssen in deutscher, französischer, italienischer oder englischer Sprache und bei Durch- und Ausfuhrsendungen zusätzlich in einer Amtssprache des Bestimmungsstaates ausgestellt sein, oder es muss ihnen eine beglaubigte Übersetzung in die betreffende Sprache beiliegen.
 
 \4. Die Gesundheitsbescheinigungen müssen bestehen aus:
 
 - a. einem einzigen Blatt Papier;
-- b. zwei oder mehr Seiten, die Teil eines zusammenhängenden, nicht zu trennenden Blattes Papier sind; oder
-- c. einer Reihe nummerierter Seiten, auf denen jeweils angegeben ist, dass es sich um eine bestimmte Seite einer endlichen Reihe handelt (z. B. «Seite 2 von 4 Seiten»).
+- b. mehreren fest miteinander verbundenen Seiten, die eine Einheit bilden; oder
+- c. mehreren aufeinanderfolgenden Seiten, deren Nummerierung kenntlich macht, dass es sich jeweils um eine bestimmte Seite einer endlichen Reihe handelt (z. B. «Seite 2 von 4 Seiten»).
 
-\5. Die Gesundheitsbescheinigungen müssen eine individuelle Identifizierungsnummer tragen. Besteht eine Gesundheitsbescheinigung aus einer Reihe von Seiten, so ist die Identifizierungsnummer auf jeder Seite anzugeben.
+\5. Die Gesundheitsbescheinigungen müssen eine individuelle Identifizierungsnummer tragen. Besteht eine Gesundheitsbescheinigung aus mehreren aufeinanderfolgenden Seiten, so ist jede Seite mit der Identifizierungsnummer sowie mit der Unterschrift der unterzeichnungsberechtigten Person und dem amtlichen Stempel zu versehen.
 
-\6. Allfällige Änderungen sind durch Streichungen und mit Unterschrift und Stempel der ausstellenden Person zu kennzeichnen.
+\6. Allfällige Änderungen sind durch Streichungen und mit Unterschrift der unterzeichnungsberechtigten Person und amtlichem Stempel zu kennzeichnen.
 
-\7. Die Gesundheitsbescheinigungen müssen ausgestellt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörde des Versandstaats verlässt.
+\7. Die Gesundheitsbescheinigungen müssen ausgestellt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörde verlässt.
+
+### 2 Formale Anforderungen an Gesundheitsbescheinigungen in elektronischer Form, die via TRACES übermittelt werden
+
+\1. Die Gesundheitsbescheinigungen müssen dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde.
+
+\2. Die Gesundheitsbescheinigungen müssen über TRACES übermittelt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörden verlässt.
+
+### 3 Ersatzbescheinigungen
+
+\1. Die zuständige Behörde darf eine Ersatzbescheinigung ausstellen, wenn die Originalbescheinigung:
+
+- a. Schreibversehen aufweist;
+- b. beschädigt ist; oder
+- c. verloren gegangen ist.
+
+\2. In der Ersatzbescheinigung dürfen keine Änderungen an den in der Originalbescheinigung enthaltenen Angaben zur Identifizierung, zur Rückverfolgbarkeit und zu den Gesundheitsgarantien der Sendung vorgenommen werden.
+
+\3. Die Ersatzbescheinigung muss:
+
+- a. klar erkennbar auf die Identifizierungsnummer und das Datum der Ausstellung des Originals verweisen und deutlich darauf hinweisen, dass sie die Originalbescheinigung ersetzt;
+- b. mit einer neuen Identifizierungsnummer versehen sein, die sich von der des Originals unterscheidet;
+- c. mit dem Datum ihrer Ausstellung versehen sein; und
+- d. der zuständigen Behörde entweder im Original in Papierform vorgelegt oder elektronisch über TRACES übermittelt werden.

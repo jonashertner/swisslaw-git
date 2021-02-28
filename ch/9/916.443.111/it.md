@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 18 novembre 2015 concernente l'importazione, il tr
 short: OITE-UE-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/847"
 language: it
-version: 2018-12-15
+version: 2021-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20181215/it/xml/fedlex-data-admin-ch-eli-cc-2015-847-20181215-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20181215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/847/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2015-847-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/847/20181215/it"
 
 (OITE-UE-DFI)
 
-del 18 novembre 2015 (Stato 15 dicembre 2018)
+del 18 novembre 2015 (Stato 1° marzo 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -140,26 +140,53 @@ Le garanzie sanitarie di cui all’articolo 2 capoverso 1 lettera b sono riconos
 
 [^annex2-lvlu1-lvl2-1]: Decisione 2008/185/CE della Commissione, del 21 febbraio 2008, che stabilisce garanzie supplementari per la malattia di Aujeszky negli scambi intracomunitari di suini, e fissa i criteri relativi alle informazioni da fornire su tale malattia, GU L 59 del 4.3.2008, pag. 19; modificata da ultimo dalla decisione di esecuzione (UE) 2018/187, GU L 34 dell’8.2.2018, pag. 36.
 
-Allegato 3
+Allegato 3*[^t-3]*
 
 (art. 3)
 
 ## Requisiti formali per i certificati sanitari
 
-\1. Il rappresentante dellʼautorità competente del Paese speditore o della società che rilascia un certificato sanitario deve apporre la sua firma e il timbro ufficiale. Ciò vale per ciascuna pagina del certificato sanitario qualora esso si componga di più pagine. La firma e il timbro devono essere di colore diverso da quello degli altri dati. Il nome e la denominazione ufficiale della persona che firma devono essere indicati in stampatello e in maniera ben leggibile.
+[^t-3]: Nuovo testo giusta il n. I dell’O del DFI del 26 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 65](https://fedlex.data.admin.ch/eli/oc/2021/65)).
 
-\2. I certificati sanitari devono corrispondere nel contenuto e nella forma al modello stabilito per lʼanimale o il prodotto animale e il Paese in questione. Devono essere compilati in ogni loro parte e rilasciati a un’unica azienda destinataria.
+### 1. Requisiti formali per i certificati sanitari in forma cartacea
 
-\3. I certificati sanitari devono essere redatti in tedesco, francese, italiano o inglese e per le partite in transito o di esportazione anche in una lingua ufficiale del Paese di destinazione oppure va allegata una traduzione autenticata nella lingua di tale Paese.
+\1. I certificati sanitari devono recare la firma della persona autorizzata a firmare e un timbro ufficiale. La firma deve essere di colore diverso da quello del testo a stampa. Lo stesso requisito si applica anche ai timbri diversi da quelli a secco o in filigrana. Il nome e la denominazione ufficiale della persona che firma devono essere indicati in stampatello e in maniera ben leggibile.
+
+\2. I certificati sanitari devono corrispondere al modello stabilito per lʼanimale o il prodotto animale e il Paese in questione. Devono essere compilati in ogni loro parte e rilasciati a un’unica azienda di destinazione. Le dichiarazioni non pertinenti devono essere barrate, siglate e timbrate dalla persona autorizzata a firmare oppure completamente eliminate dal certificato.
+
+\3. I certificati sanitari devono essere redatti in tedesco, francese, italiano o inglese, e per le partite in transito o di esportazione anche in una lingua ufficiale del Paese di destinazione; oppure devono essere accompagnati da una traduzione autenticata nella lingua di tale Paese.
 
 \4. I certificati sanitari devono essere composti di:
 
-- a. un singolo foglio di carta;
-- b. due o più pagine che compongono un foglio di carta integrato e indivisibile; oppure
-- c. una serie di pagine numerate in modo da indicarne la posizione nella sequenza (ad esempio «pagina 2 di 4»).
+- a. un unico foglio;
+- b. diversi fogli non separabili che costituiscono un insieme unitario; oppure
+- c. una serie di pagine numerate in modo da indicare che si tratta di una pagina specifica di una sequenza finita (ad es. «pagina 2 di 4»).
 
-\5. I certificati sanitari devono recare un numero di identificazione unico. In un certificato sanitario composto di una serie di pagine, ciascuna pagina deve recare detto numero.
+\5. I certificati sanitari devono recare un numero di identificazione unico. Nei certificati composti di una serie di pagine, ciascuna pagina deve recare detto numero, la firma della persona autorizzata a firmare e il timbro ufficiale.
 
-\6. Eventuali modifiche si effettuano depennando le indicazioni erronee e aggiungendo la firma e il timbro della persona che rilascia il certificato.
+\6. Eventuali modifiche si effettuano depennando le indicazioni erronee e aggiungendo la firma e il timbro della persona autorizzata a firmare.
 
-\7. I certificati sanitari devono essere rilasciati prima che la partita cui si riferisce esca dal controllo dell’autorità competente del Paese di spedizione.
+\7. I certificati sanitari devono essere rilasciati prima che la partita cui si riferiscono esca dal controllo dell’autorità competente.
+
+### 2. Requisiti formali per i certificati sanitari in forma elettronica trasmessi mediante TRACES
+
+\1. I certificati sanitari devono corrispondere al modello stabilito per l’animale o il prodotto animale e il Paese in questione.
+
+\2. I certificati sanitari devono essere trasmessi mediante TRACES prima che la partita cui si riferiscono esca dal controllo dell’autorità competente.
+
+### 3. Certificati sostitutivi
+
+\1. L’autorità competente può rilasciare un certificato sostitutivo se il certificato originale:
+
+- a. contiene errori di scrittura;
+- b. è danneggiato; oppure
+- c. è stato smarrito.
+
+\2. Nel certificato sostitutivo non possono essere modificate le informazioni contenute nel certificato originale riguardanti l’identificazione, la tracciabilità e le garanzie sanitarie della partita.
+
+\3. Il certificato sostitutivo:
+
+- a. fa chiaramente riferimento al numero di identificazione e alla data di rilascio del certificato originale, e indica chiaramente che sostituisce il certificato originale;
+- b. è dotato di un nuovo numero di identificazione diverso da quello del certificato originale;
+- c. reca la data in cui è stato rilasciato; ed
+- d. è presentato all’autorità competente nella sua versione originale in forma cartacea o trasmesso in via elettronica mediante TRACES.
