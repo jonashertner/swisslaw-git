@@ -3,28 +3,27 @@ canton: BL
 number: "640.214"
 title: Reglement über die Notengebung an den berufsbildenden Schulen des Kantons Basel-Landschaft
 language: de
-version: 2007-08-01
-valid_until: 2021-02-28
-version_adopted: 2007-05-15
+version: 2021-03-01
+version_adopted: 2021-02-08
 adopted: 2007-05-15
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.214"
-pdf: "https://bl.clex.ch/api/de/versions/2931/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2945/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Notengebung an den berufsbildenden Schulen des Kantons Basel-Landschaft
 
-Vom 15.05.2007 (Stand 01.08.2007)
+Vom 15.05.2007 (Stand 01.03.2021)
 
 Die Bildungs-, Kultur- und Sportdirektion,
 
-gestützt auf § 14 der Verordnung vom 9. November 2004[^ingress-1] über Beurteilung, Beförderung, Zeugnis und Übertritt (VO BBZ),
+gestützt auf § 17 der Verordnung über die schulische Laufbahn (Laufbahnverordnung) vom 11. Juni 2013[^ingress-1],
 
 beschliesst auf Antrag des Amtes für Berufsbildung und Berufsberatung:
 
-[^ingress-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de/art14)
+[^ingress-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de/art17)
 
 #### § 1
 
@@ -85,6 +84,24 @@ beschliesst auf Antrag des Amtes für Berufsbildung und Berufsberatung:
 - c. mündliche Nachweise und Referate;
 - d. Ergebnisse der Hausaufgaben;
 - e. Semesterarbeiten.
+
+<sup>3</sup> Es bestehen folgende Durchführungsformen von Qualifikationsnachweisen:
+
+- a. analog;
+- b. digital.
+
+<sup>4</sup> Kommen digitale Tools zum Einsatz, die besondere Risiken mit sich bringen, müssen diese vorgängig den datenschutzrechtlichen Prüfprozess gemäss § 12 IDG[^5-1] durchlaufen.
+
+<sup>5</sup> Die Schulen definieren im Rahmen ihres pädagogischen Konzepts ihres Schulprogramms folgende Eckpfeiler für Qualifikationsnachweise:
+
+- a. Prüfungsinhalte und Anforderungsniveau;
+- b. Ausgestaltungsform der analogen Qualifikationsnachweise;
+- c. Ausgestaltungsform der digitalen Qualifikationsnachweise;
+- d. IT-Infrastruktur für die jeweiligen Prüfungsformen;
+- e. alternative Leistungserhebung bei Störung der IT-Infrastruktur;
+- f. Form der eidesstattlichen Erklärung für analoge und digitale Qualifikationsnachweise.
+
+[^5-1]: [SGS 162](https://bl.clex.ch/data/162/de/art12)
 
 #### § 6
 
