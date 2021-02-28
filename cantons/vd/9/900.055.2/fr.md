@@ -3,7 +3,7 @@ canton: VD
 number: "900.055.2"
 title: "RÈGLEMENT du 25.11.2020 sur l'emploi du fonds de soutien à l'industrie dans le contexte de la pandémie de coronavirus (COVID-19)"
 language: fr
-version: 2021-01-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/900.055.2?id=ab7e6839-2959-4c28-a8f7-3cf8869cb31e"
 ---
 
@@ -48,7 +48,11 @@ arrête
 
 **Bénéficiaires [^sectionSectionI-1]**
 
-<sup>1</sup> Peuvent bénéficier d'aides du fonds de soutien à l'industrie, les entreprises classifiées dans la section « C ‑ INDUSTRIE MANUFACTURIERE » de la nomenclature générale des activités économiques (NOGA) 2008.
+<sup>1</sup> Peuvent bénéficier des aides du fonds de soutien à l'industrie les entreprises classifiées dans la section "C - INDUSTRIE MANUFACTURIERE" de la nomenclature générale des activités économiques (NOGA) 2008 à la condition que leur outil de production soit situé sur le territoire vaudois et qu'il réponde à tous les critères suivants :
+
+- a. transformation de matières premières ou de matières ayant déjà subi une ou plusieurs transformations ;
+- b. utilisation de machines automatisées dans le cadre de la production ;
+- c. production en série et et volume important de pièces produites.
 
 <sup>2</sup> Le recours à une aide financière doit être justifié et documenté par un recul avéré de la marche des affaires de l'entreprise.
 
@@ -157,7 +161,7 @@ arrête
 
 <sup>1</sup> Le Service procède à l'examen de la demande.
 
-- a. La fixation du montant de l'aide se fonde notamment sur :
+- a. La décision sur une demande d'aide et la fixation de son montant se fondent notamment sur :
 - 1\. la situation financière du demandeur ;
 - 2\. le budget nécessaire à l'accomplissement économe et efficace du projet ;
 - 3\. la justification du recul de la marche des affaires de l'entreprise en lien avec la pandémie ;
@@ -165,7 +169,7 @@ arrête
 
 <sup>2</sup> Le résultat de l'examen et du calcul de l'aide est soumis à l'autorité compétente pour l'octroi de la subvention.
 
-[^7-2]: Modif. 1 du 10.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.03.2021; Modification Al. 1, a; entrée en vigueur au 01.03.2021
+[^7-2]: Modif. 1 du 10.03.2021: Modification Al. 1, a; entrée en vigueur au 01.03.2021
 
 ### Section III Aide à fonds perdu
 
