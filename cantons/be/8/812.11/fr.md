@@ -4,13 +4,13 @@ number: "812.11"
 title: Loi sur les soins hospitaliers
 short: LSH
 language: fr
-version: 2019-02-01
-valid_until: 2021-02-28
-version_adopted: 2018-06-13
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1606/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2125/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1606/pdf_file"
 
 (LSH)
 
-du 13.06.2013 (état au 01.02.2019)
+du 13.06.2013 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -72,7 +72,7 @@ arrête:
 
 <sup>2</sup> Il fixe leur composition, définit leurs tâches et nomme leurs membres.
 
-<sup>3</sup> Il peut, par voie d’ordonnance, déléguer la compétence de nommer les membres des commissions à la Direction de la santé publique et de la prévoyance sociale.
+<sup>3</sup> Il peut, par voie d’ordonnance, déléguer la compétence de nommer les membres des commissions à la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 5
 
@@ -84,7 +84,7 @@ arrête:
 
 **Planification des soins 1. Contenu**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale planifie les prestations à la population définies à l’article 2.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration planifie les prestations à la population définies à l’article 2.
 
 <sup>2</sup> La planification des soins fixe les objectifs à atteindre, détermine les besoins à couvrir, estime les conséquences financières des prestations à fournir et concrétise les structures de soins devant assurer ces prestations.
 
@@ -120,7 +120,7 @@ arrête:
 
 **3. Violation du contrat**
 
-<sup>1</sup> En cas de violation des obligations convenues dans un contrat de prestations, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut, après une sommation infructueuse, réduire l’indemnisation, cesser son versement ou, si elle a déjà été versée, exiger son remboursement assorti d’intérêts.
+<sup>1</sup> En cas de violation des obligations convenues dans un contrat de prestations, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut, après une sommation infructueuse, réduire l’indemnisation, cesser son versement ou, si elle a déjà été versée, exiger son remboursement assorti d’intérêts.
 
 <sup>2</sup> En cas de violation grave, le contrat de prestations peut être résilié avec effet immédiat.
 
@@ -128,7 +128,7 @@ arrête:
 
 **4. Aliénation de l’exploitation**
 
-<sup>1</sup> En cas d’aliénation de l’exploitation pendant la durée de validité d’un contrat de prestations, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut le résilier avec effet immédiat.
+<sup>1</sup> En cas d’aliénation de l’exploitation pendant la durée de validité d’un contrat de prestations, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut le résilier avec effet immédiat.
 
 #### Art. 12
 
@@ -146,7 +146,7 @@ arrête:
 
 **Contributions à des organisations**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, accorder des contributions à des organisations du secteur hospitalier et du sauvetage. De telles contributions sont en particulier octroyées à des organisations qui assument un travail de fond ou des tâches de coordination.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, accorder des contributions à des organisations du secteur hospitalier et du sauvetage. De telles contributions sont en particulier octroyées à des organisations qui assument un travail de fond ou des tâches de coordination.
 
 ## 2 Soins hospitaliers
 
@@ -273,7 +273,7 @@ arrête:
 
 **Autres tâches et activités**
 
-<sup>1</sup> Les CHR peuvent se voir attribuer, en plus des mandats de prestations, d’autres tâches par la Direction de la santé publique et de la prévoyance sociale par voie de contrat de prestations.
+<sup>1</sup> Les CHR peuvent se voir attribuer, en plus des mandats de prestations, d’autres tâches par la Direction de la santé, des affaires sociales et de l’intégration par voie de contrat de prestations.
 
 <sup>2</sup> Les CHR peuvent exercer d’autres activités lorsque celles-ci sont matériellement proches de leurs mandats de prestations ou de leurs tâches. Ils peuvent accomplir en particulier des tâches relevant de l’enseignement et de la recherche en complément de l’offre des hôpitaux universitaires.
 
@@ -351,7 +351,7 @@ arrête:
 
 <sup>3</sup> Ils fournissent des prestations relevant des soins de base en plus de celles de la médecine de pointe, pour autant qu’elles soient économiques et nécessaires du point de vue de la formation, de l’enseignement et de la recherche ou de la couverture en soins.
 
-<sup>4</sup> En plus des mandats de prestations, ils peuvent se voir attribuer d’autres tâches par la Direction de la santé publique et de la prévoyance sociale par voie de contrat de prestations.
+<sup>4</sup> En plus des mandats de prestations, ils peuvent se voir attribuer d’autres tâches par la Direction de la santé, des affaires sociales et de l’intégration par voie de contrat de prestations.
 
 <sup>5</sup> Ils peuvent fournir des prestations relevant de l’enseignement et de la recherche en faveur de tiers, à condition que leurs coûts soient couverts et que cette activité ne les empêche pas de remplir leurs engagements conformément aux alinéas 1 à 4.
 
@@ -415,7 +415,7 @@ arrête:
 
 **Arrêté du Grand Conseil**
 
-<sup>1</sup> Si la Direction de la santé publique et de la prévoyance sociale constate une augmentation du volume des prestations non justifiée du point de vue médical dans un domaine de soins, le Grand Conseil peut, sur proposition du Conseil-exécutif, charger la Direction de la santé publique et de la prévoyance sociale de prélever une taxe d’incitation.
+<sup>1</sup> Si la Direction de la santé, des affaires sociales et de l’intégration constate une augmentation du volume des prestations non justifiée du point de vue médical dans un domaine de soins, le Grand Conseil peut, sur proposition du Conseil-exécutif, charger la Direction de la santé, des affaires sociales et de l’intégration de prélever une taxe d’incitation.
 
 #### Art. 43
 
@@ -439,7 +439,7 @@ arrête:
 
 **3. Calcul individuel**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale prélève une taxe d’incitation auprès de chaque hôpital répertorié situé dans le canton de Berne qui a dépassé son casemix individuel de l’année précédente de plus de 6,1 pour cent pendant la première année suivant l’entrée en vigueur de la présente loi, et de plus de 2,5 pour cent pendant les années suivantes.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration prélève une taxe d’incitation auprès de chaque hôpital répertorié situé dans le canton de Berne qui a dépassé son casemix individuel de l’année précédente de plus de 6,1 pour cent pendant la première année suivant l’entrée en vigueur de la présente loi, et de plus de 2,5 pour cent pendant les années suivantes.
 
 <sup>2</sup> Le montant de la taxe d’incitation prélevée auprès d’un hôpital répertorié correspond proportionnellement à sa part des casemix individuels dépassés par rapport à la somme globale visée à l’article 44.
 
@@ -467,7 +467,7 @@ arrête:
 
 **3. Calcul individuel**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale prélève une taxe d’incitation auprès de chaque hôpital répertorié situé dans le canton de Berne qui a dépassé son volume de prestations de plus de 6,1 pour cent pendant la première année suivant l’entrée en vigueur de la présente loi, et de plus de 2,5 pour cent pendant les années suivantes.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration prélève une taxe d’incitation auprès de chaque hôpital répertorié situé dans le canton de Berne qui a dépassé son volume de prestations de plus de 6,1 pour cent pendant la première année suivant l’entrée en vigueur de la présente loi, et de plus de 2,5 pour cent pendant les années suivantes.
 
 <sup>2</sup> Le montant de la taxe d’incitation prélevée auprès d’un hôpital répertorié correspond proportionnellement à sa part des volumes de prestations individuels dépassés par rapport à la somme globale visée à l’article 47.
 
@@ -549,9 +549,9 @@ arrête:
 
 <sup>1</sup> Les hôpitaux et les maisons de naissance répertoriés gèrent le cycle de vie de leur infrastructure.
 
-<sup>2</sup> Ils informent de cette gestion le service compétent de la Direction de la santé publique et de la prévoyance sociale et lui communiquent la part de la rémunération visée à l’article 49a LAMal imputée aux coûts d’investissement, déduction faite des coûts d’utilisation des immobilisations.
+<sup>2</sup> Ils informent de cette gestion le service compétent de la Direction de la santé, des affaires sociales et de l’intégration et lui communiquent la part de la rémunération visée à l’article 49a LAMal imputée aux coûts d’investissement, déduction faite des coûts d’utilisation des immobilisations.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale définit, d’entente avec les hôpitaux et les maisons de naissance répertoriés, les indicateurs de la gestion du cycle de vie à lui présenter, à quelle fréquence et sous quelle forme.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration définit, d’entente avec les hôpitaux et les maisons de naissance répertoriés, les indicateurs de la gestion du cycle de vie à lui présenter, à quelle fréquence et sous quelle forme.
 
 <sup>4</sup> Le Conseil-exécutif règle les détails par voie d’ordonnance.
 
@@ -559,7 +559,7 @@ arrête:
 
 **Sanctions**
 
-<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 49 à 56, le service compétent de la Direction de la santé publique et de la prévoyance sociale prélève auprès du fournisseur de prestations pour l’année considérée un montant déterminé conformément aux alinéas 2 à 5.
+<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 49 à 56, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration prélève auprès du fournisseur de prestations pour l’année considérée un montant déterminé conformément aux alinéas 2 à 5.
 
 <sup>2</sup> En cas de violation de l’obligation énoncée à l’article 49, le montant prélevé pour l’année considérée correspond au maximum à 36 francs
 
@@ -573,7 +573,7 @@ arrête:
 - a par sortie hospitalière enregistrée dans le secteur des soins aigus somatiques,
 - b par journée de soins fournie en mode hospitalier dans les secteurs de la réadaptation et de la psychiatrie.
 
-<sup>5</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale adapte chaque année les montants maximaux prévus aux alinéas 2 et 4 à l’indice suisse des prix à la consommation.
+<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte chaque année les montants maximaux prévus aux alinéas 2 et 4 à l’indice suisse des prix à la consommation.
 
 [^57-1]: RS 831.10
 
@@ -591,7 +591,7 @@ arrête:
 
 **Indemnisation des prestations ambulatoires en milieu hospitalier 1. But**
 
-<sup>1</sup> Afin de promouvoir les traitements ambulatoires en milieu hospitalier, la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, indemniser des prestations ambulatoires fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne, sur la base de contrats de prestations.
+<sup>1</sup> Afin de promouvoir les traitements ambulatoires en milieu hospitalier, la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, indemniser des prestations ambulatoires fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne, sur la base de contrats de prestations.
 
 <sup>2</sup> L’indemnité octroyée par le canton s’ajoute à celle versée par les assureurs-maladie.
 
@@ -611,13 +611,13 @@ arrête:
 
 **4. Dispositions d’exécution**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale établit la liste des prestations ambulatoires en milieu hospitalier conjointement avec les hôpitaux et les maisons de naissance répertoriés. Le Conseil-exécutif édicte les règles de calcul des forfaits par voie d’ordonnance.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration établit la liste des prestations ambulatoires en milieu hospitalier conjointement avec les hôpitaux et les maisons de naissance répertoriés. Le Conseil-exécutif édicte les règles de calcul des forfaits par voie d’ordonnance.
 
 #### Art. 63
 
 **Indemnisation des prestations de gestion intégrée des soins 1. But**
 
-<sup>1</sup> Afin d’assurer des soins conformes aux besoins et économiques, la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, indemniser des prestations de gestion intégrée des soins fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne, sur la base de contrats de prestations.
+<sup>1</sup> Afin d’assurer des soins conformes aux besoins et économiques, la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, indemniser des prestations de gestion intégrée des soins fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne, sur la base de contrats de prestations.
 
 #### Art. 64
 
@@ -635,7 +635,7 @@ arrête:
 
 **Indemnisation de prestations supplémentaires**
 
-<sup>1</sup> Afin de contribuer à optimiser les soins, la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, indemniser des prestations fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne sur la base de contrats de prestations, lorsque ces prestations ne sont pas financées en vertu de l’article 49 LAMal.
+<sup>1</sup> Afin de contribuer à optimiser les soins, la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, indemniser des prestations fournies par les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne sur la base de contrats de prestations, lorsque ces prestations ne sont pas financées en vertu de l’article 49 LAMal.
 
 <sup>2</sup> Elle peut indemniser en particulier les prestations fournies par les centres de consultation en matière de grossesse et les services d’information et de conseil en matière d’analyse prénatale.
 
@@ -643,7 +643,7 @@ arrête:
 
 **Indemnisation des prestations de base fixes 1. But**
 
-<sup>1</sup> Dans le cadre des dépenses autorisées, la Direction de la santé publique et de la prévoyance sociale peut indemniser des prestations de base fixes fournies par les hôpitaux et les maisons de naissance répertoriés.
+<sup>1</sup> Dans le cadre des dépenses autorisées, la Direction de la santé, des affaires sociales et de l’intégration peut indemniser des prestations de base fixes fournies par les hôpitaux et les maisons de naissance répertoriés.
 
 #### Art. 68
 
@@ -664,7 +664,7 @@ arrête:
 
 **Contributions aux restructurations 1. But**
 
-<sup>1</sup> Afin de promouvoir les restructurations au sens de la planification des soins, la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, accorder des contributions aux hôpitaux et aux maisons de naissance répertoriés situés dans le canton de Berne.
+<sup>1</sup> Afin de promouvoir les restructurations au sens de la planification des soins, la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, accorder des contributions aux hôpitaux et aux maisons de naissance répertoriés situés dans le canton de Berne.
 
 <sup>2</sup> Ces contributions peuvent être octroyées à titre de participation à la reconversion de l’infrastructure, aux coûts de liquidation, aux plans sociaux, aux mesures d’accompagnement visant à fidéliser le personnel et à l’aide au démarrage de la partie restructurée de l’exploitation.
 
@@ -696,7 +696,7 @@ arrête:
 
 **Cautionnements et prêts destinés à assurer les liquidités 1. But**
 
-<sup>1</sup> Afin d’assurer aux hôpitaux et aux maisons de naissance répertoriés des liquidités suffisantes en cas d’investissement, la Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, leur accorder des cautionnements conformément aux articles 492 à 512 CO et des prêts avec intérêts.
+<sup>1</sup> Afin d’assurer aux hôpitaux et aux maisons de naissance répertoriés des liquidités suffisantes en cas d’investissement, la Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, leur accorder des cautionnements conformément aux articles 492 à 512 CO et des prêts avec intérêts.
 
 #### Art. 74
 
@@ -719,7 +719,7 @@ arrête:
 
 **Subventions aux investissements 1. But**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut, dans le cadre des dépenses autorisées, octroyer aux hôpitaux et aux maisons de naissance répertoriés des subventions aux investissements nécessaires pour assurer la couverture en soins dont les coûts ne sont pas couverts par la rémunération forfaitaire selon l’article 49a LAMal.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut, dans le cadre des dépenses autorisées, octroyer aux hôpitaux et aux maisons de naissance répertoriés des subventions aux investissements nécessaires pour assurer la couverture en soins dont les coûts ne sont pas couverts par la rémunération forfaitaire selon l’article 49a LAMal.
 
 #### Art. 77
 
@@ -737,7 +737,7 @@ arrête:
 
 **Obligation de rembourser 1. Conditions**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale exige le remboursement de la contribution aux restructurations selon l’article 70 et de la subvention aux investissements selon l’article 76 lorsque le ou la bénéficiaire
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration exige le remboursement de la contribution aux restructurations selon l’article 70 et de la subvention aux investissements selon l’article 76 lorsque le ou la bénéficiaire
 
 - a a obtenu la contribution sur la base de données fausses ou incomplètes;
 - b n’utilise pas la contribution aux fins convenues;
@@ -762,7 +762,7 @@ arrête:
 
 #### Art. 81
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale fait valoir les droits transférés au canton selon l’article 79a LAMal.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fait valoir les droits transférés au canton selon l’article 79a LAMal.
 
 <sup>2</sup> Il peut déléguer cette tâche à un tiers par contrat et décider que les fournisseurs de prestations de soins hospitaliers et de sauvetage transmettent directement à ce tiers les données qu’ils sont tenus de remettre selon l’article 127, alinéa 1, lettre h.
 
@@ -790,7 +790,7 @@ arrête:
 
 <sup>1</sup> La centrale d’appels sanitaires urgents est exploitée par le canton.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut confier l’exploitation de la centrale d’appels sanitaires urgents à un tiers par voie de contrat de prestations.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut confier l’exploitation de la centrale d’appels sanitaires urgents à un tiers par voie de contrat de prestations.
 
 <sup>3</sup> Si cela s’avère nécessaire pour améliorer la couverture du sauvetage, il peut confier l’exploitation de la centrale d’appels sanitaires urgents dans une ou plusieurs parties du territoire cantonal à un tiers par voie de contrat de prestations.
 
@@ -830,7 +830,7 @@ arrête:
 
 #### Art. 87
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut déléguer par voie de contrat de prestations des tâches relevant du sauvetage à d’autres services de sauvetage cantonaux, hors canton ou intercantonaux, en particulier à des services spécialisés dans le sauvetage aquatique et aérien.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut déléguer par voie de contrat de prestations des tâches relevant du sauvetage à d’autres services de sauvetage cantonaux, hors canton ou intercantonaux, en particulier à des services spécialisés dans le sauvetage aquatique et aérien.
 
 ### 3.1.4 Organisation cantonale de sauvetage
 
@@ -844,7 +844,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif peut régler par voie d’ordonnance l’acquisition et l’utilisation uniformes de l’infrastructure des fournisseurs de prestations.
 
-<sup>2</sup> Il peut déléguer cette compétence à la Direction de la santé publique et de la prévoyance sociale par voie d’ordonnance.
+<sup>2</sup> Il peut déléguer cette compétence à la Direction de la santé, des affaires sociales et de l’intégration par voie d’ordonnance.
 
 ### 3.3 Obligations
 
@@ -888,7 +888,7 @@ arrête:
 
 **Sanctions**
 
-<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 92, 50 ou 56, le service compétent de la Direction de la santé publique et de la prévoyance sociale prélève auprès du fournisseur de prestations concerné un montant déterminé conformément aux alinéas 2 à 5.
+<sup>1</sup> En cas de violation partielle ou totale des obligations énoncées aux articles 92, 50 ou 56, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration prélève auprès du fournisseur de prestations concerné un montant déterminé conformément aux alinéas 2 à 5.
 
 <sup>2</sup> En cas de violation des obligations énoncées à l’article 92, le montant prélevé correspond au nombre de sauvetages enregistrés durant l’année considérée multiplié au maximum par 36 francs.
 
@@ -896,7 +896,7 @@ arrête:
 
 <sup>4</sup> En cas de violation des obligations énoncées à l’article 56, le montant prélevé correspond au nombre de sauvetages enregistrés durant l’année considérée multiplié au maximum par douze francs.
 
-<sup>5</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale adapte les montants maximaux prévus aux alinéas 2 et 4 chaque année à l’indice suisse des prix à la consommation.
+<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte les montants maximaux prévus aux alinéas 2 et 4 chaque année à l’indice suisse des prix à la consommation.
 
 [^96-1]: RS 831.10
 
@@ -906,7 +906,7 @@ arrête:
 
 **Conclusion**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale conclut les contrats de prestations avec les fournisseurs de prestations de sauvetage.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration conclut les contrats de prestations avec les fournisseurs de prestations de sauvetage.
 
 #### Art. 98
 
@@ -923,7 +923,7 @@ arrête:
 - a les services de sauvetage cantonaux ou hors canton titulaires d’une autorisation cantonale d’exploiter,
 - b les médecins établis titulaires d’une autorisation du canton de Berne d’exercer la profession.
 
-<sup>2</sup> Le contrat est conclu par écrit et porté à la connaisance du service compétent de la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Le contrat est conclu par écrit et porté à la connaisance du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 ### 3.5 Financement
 
@@ -970,7 +970,7 @@ arrête:
 
 #### Art. 103
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut prendre des mesures touchant la formation postgrade en médecine et en pharmacie ainsi que la formation et le perfectionnement dans les professions de la santé non universitaires, quand la relève pour les soins hospitaliers et le sauvetage est menacée.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures touchant la formation postgrade en médecine et en pharmacie ainsi que la formation et le perfectionnement dans les professions de la santé non universitaires, quand la relève pour les soins hospitaliers et le sauvetage est menacée.
 
 <sup>2</sup> A cet effet, il peut conclure des contrats de prestations avec les fournisseurs de prestations ou avec d’autres organisations appropriées.
 
@@ -990,7 +990,7 @@ arrête:
 
 **Indemnisation**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut conclure des contrats de prestations avec les fournisseurs qui dispensent des formations postgrades en médecine et en pharmacie reconnues par la LPMéd.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut conclure des contrats de prestations avec les fournisseurs qui dispensent des formations postgrades en médecine et en pharmacie reconnues par la LPMéd.
 
 <sup>2</sup> Le Conseil-exécutif règle les détails du montant de l’indemnité par voie d’ordonnance. Il fixe les forfaits et tient compte en particulier de la prestation de travail des personnes en formation.
 
@@ -1016,7 +1016,7 @@ arrête:
 
 **Prestation de formation et de perfectionnement**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale fixe la prestation de formation et de perfectionnement à réaliser par chaque fournisseur de prestations durant l’exercice annuel. Pour ce faire, il se fonde sur la planification cantonale des soins et sur les consignes cantonales relatives au calcul du potentiel de formation.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fixe la prestation de formation et de perfectionnement à réaliser par chaque fournisseur de prestations durant l’exercice annuel. Pour ce faire, il se fonde sur la planification cantonale des soins et sur les consignes cantonales relatives au calcul du potentiel de formation.
 
 <sup>2</sup> Les consignes cantonales relatives au calcul du potentiel de formation prennent notamment en compte
 
@@ -1032,9 +1032,9 @@ arrête:
 
 **Indemnisation**
 
-<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé publique et de la prévoyance sociale, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
+<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
 
 <sup>3</sup> ll peut verser des avances périodiques au fournisseur de prestations durant l’exercice pour la formation et le perfectionnement convenus.
 
@@ -1056,7 +1056,7 @@ arrête:
 
 **Délégation de compétences**
 
-<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé publique et de la prévoyance sociale ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
+<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé, des affaires sociales et de l’intégration ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
 
 ### 4.3.2 Formation et perfectionnement théoriques du personnel des fournisseurs de prestations
 
@@ -1064,9 +1064,9 @@ arrête:
 
 **But**
 
-<sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
+<sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions accordées.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions accordées.
 
 #### Art. 113
 
@@ -1086,7 +1086,7 @@ arrête:
 
 **Essais pilotes**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut réaliser ou, dans le cadre des dépenses autorisées, subventionner des essais pilotes destinés à tester des méthodes, stratégies, réglementations, formes ou procédures entièrement ou partiellement nouvelles
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut réaliser ou, dans le cadre des dépenses autorisées, subventionner des essais pilotes destinés à tester des méthodes, stratégies, réglementations, formes ou procédures entièrement ou partiellement nouvelles
 
 - a dans les domaines des soins hospitaliers, du sauvetage, de la formation et du perfectionnement ainsi que dans leurs secteurs de coopération,
 - b dans les domaines à la jonction entre le champ d’application de la présente loi ainsi que de ceux de la loi du 2 décembre 1984 sur la santé publique (LSP)[^115-1] et de la loi du 11 juin 2001 sur l’aide sociale (LASoc)[^115-2], dès lors que les essais pilotes concernent la prise en charge en amont et en aval.
@@ -1097,7 +1097,7 @@ arrête:
 - b viser des améliorations au niveau médical, stratégique ou économique;
 - c s’accompagner d’un controlling et faire l’objet d’une évaluation.
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale règle la réalisation et le subventionnement des essais pilotes dans des contrats de prestations conclus avec les fournisseurs de prestations ou avec d’autres organisations appropriées.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration règle la réalisation et le subventionnement des essais pilotes dans des contrats de prestations conclus avec les fournisseurs de prestations ou avec d’autres organisations appropriées.
 
 <sup>4</sup> Les ressources financières requises pour les essais pilotes sont présentées dans la planification des soins ou dans un rapport spécifique.
 
@@ -1113,7 +1113,7 @@ arrête:
 
 **Subventions à l’innovation médicale**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut octroyer aux hôpitaux universitaires et aux autres hôpitaux répertoriés des subventions visant à promouvoir des innovations médicales spécifiques, dans le cadre des dépenses autorisées.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut octroyer aux hôpitaux universitaires et aux autres hôpitaux répertoriés des subventions visant à promouvoir des innovations médicales spécifiques, dans le cadre des dépenses autorisées.
 
 <sup>2</sup> De telles subventions ne sont allouées que si les coûts de l’innovation médicale ne peuvent pas être couverts par la rémunération forfaitaire selon l’article 49a LAMal, par des prestations d’assurances, par des subventions ou des indemnités d’autres collectivités ou par des contributions de personnes privées.
 
@@ -1135,7 +1135,7 @@ arrête:
 
 <sup>1</sup> Quiconque fournit des prestations dans le champ d’application de la présente loi est soumis à la surveillance du canton.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale vérifie périodiquement si les fournisseurs de prestations remplissent les conditions légales pour exercer leur activité.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration vérifie périodiquement si les fournisseurs de prestations remplissent les conditions légales pour exercer leur activité.
 
 #### Art. 119
 
@@ -1147,7 +1147,7 @@ arrête:
 
 **Hôpitaux et maisons de naissance**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale délivre l’autorisation d’exploiter l’hôpital ou la maison de naissance lorsque le fournisseur de prestations
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration délivre l’autorisation d’exploiter l’hôpital ou la maison de naissance lorsque le fournisseur de prestations
 
 - a donne la garantie que les patients et les patientes bénéficient d’un traitement médical et de soins professionnels;
 - b dispose de locaux et d’équipements médicaux adéquats;
@@ -1161,7 +1161,7 @@ arrête:
 
 **Services de sauvetage**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale délivre l’autorisation d’exploiter le service de sauvetage lorsque le fournisseur de prestations dispose
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration délivre l’autorisation d’exploiter le service de sauvetage lorsque le fournisseur de prestations dispose
 
 - a d’une direction pour l’exploitation et d’une direction médicale,
 - b du personnel qualifié nécessaire,
@@ -1185,7 +1185,7 @@ arrête:
 
 **Retrait et extinction de l’autorisation d’exploiter**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale retire l’autorisation d’exploiter lorsque les conditions d’octroi ne sont plus remplies ou s’il constate ultérieurement que celle-ci n’aurait pas dû être délivrée.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration retire l’autorisation d’exploiter lorsque les conditions d’octroi ne sont plus remplies ou s’il constate ultérieurement que celle-ci n’aurait pas dû être délivrée.
 
 <sup>2</sup> L’autorisation s’éteint avec la cessation de l’activité.
 
@@ -1193,7 +1193,7 @@ arrête:
 
 **Mesures envers les titulaires d’une autorisation d’exploiter**
 
-<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise, de non-respect des conditions ou des charges dont l’autorisation est assortie ou d’infraction aux dispositions de la législation sur les soins hospitaliers, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut ordonner envers le ou la titulaire d’une autorisation d’exploiter les mesures suivantes:
+<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise, de non-respect des conditions ou des charges dont l’autorisation est assortie ou d’infraction aux dispositions de la législation sur les soins hospitaliers, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut ordonner envers le ou la titulaire d’une autorisation d’exploiter les mesures suivantes:
 
 - a un avertissement,
 - b une amende de 200'000 francs au plus,
@@ -1205,15 +1205,15 @@ arrête:
 
 **Surveillance par des tiers**
 
-<sup>1</sup> Dans le cadre de sa mission de surveillance, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut mandater des tiers pour effectuer des contrôles auprès des fournisseurs de prestations et pour lui rendre rapport.
+<sup>1</sup> Dans le cadre de sa mission de surveillance, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut mandater des tiers pour effectuer des contrôles auprès des fournisseurs de prestations et pour lui rendre rapport.
 
 #### Art. 126
 
 **Prescription**
 
-<sup>1</sup> La poursuite administrative se prescrit par deux ans à compter de la date à laquelle le service compétent de la Direction de la santé publique et de la prévoyance sociale a eu connaissance des faits déterminants.
+<sup>1</sup> La poursuite administrative se prescrit par deux ans à compter de la date à laquelle le service compétent de la Direction de la santé, des affaires sociales et de l’intégration a eu connaissance des faits déterminants.
 
-<sup>2</sup> Le délai de prescription est interrompu par tout acte d’instruction ou de procédure que le service compétent de la Direction de la santé publique et de la prévoyance sociale, une autorité de poursuite pénale ou un tribunal opère en rapport avec les faits déterminants.
+<sup>2</sup> Le délai de prescription est interrompu par tout acte d’instruction ou de procédure que le service compétent de la Direction de la santé, des affaires sociales et de l’intégration, une autorité de poursuite pénale ou un tribunal opère en rapport avec les faits déterminants.
 
 <sup>3</sup> La poursuite administrative se prescrit en tout cas par dix ans à compter du jour où les faits incriminés se sont produits.
 
@@ -1223,7 +1223,7 @@ arrête:
 
 **Remise des données 1. Obligation**
 
-<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé publique et de la prévoyance sociale toutes les données nécessaires pour
+<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données nécessaires pour
 
 - a la planification des soins hospitaliers, la planification du sauvetage ainsi que les mesures requises pour garantir la relève professionnelle,
 - b le contrôle comparatif de la qualité,
@@ -1242,19 +1242,19 @@ arrête:
 
 **2. Sanction**
 
-<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les consignes du Conseil-exécutif en la matière, le service compétent de la Direction de la santé publique et de la prévoyance sociale perçoit de sa part un montant de douze francs au maximum
+<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les consignes du Conseil-exécutif en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration perçoit de sa part un montant de douze francs au maximum
 
 - a par sortie hospitalière enregistrée l’année considérée dans le secteur des soins aigus,
 - b par journée de soins en mode hospitalier fournie l’année considérée dans les secteurs de la réadaptation ou de la psychiatrie,
 - c par intervention enregistrée l’année considérée dans le secteur du sauvetage.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale adapte chaque année le montant selon l’alinéa 1 à l’indice suisse des prix à la consommation.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration adapte chaque année le montant selon l’alinéa 1 à l’indice suisse des prix à la consommation.
 
 #### Art. 129
 
 **Publication des données**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale est habilitée à traiter les données relevées selon les consignes de la Confédération auprès des fournisseurs de prestations et à les publier sous une forme permettant d’identifier ces derniers.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration est habilitée à traiter les données relevées selon les consignes de la Confédération auprès des fournisseurs de prestations et à les publier sous une forme permettant d’identifier ces derniers.
 
 <sup>2</sup> Elle peut par ailleurs publier dans un média accessible à tous les données suivantes concernant les fournisseurs de prestations:
 
@@ -1278,22 +1278,22 @@ arrête:
 
 **Obligation de collaborer**
 
-<sup>1</sup> Les fournisseurs de prestations renseignent gratuitement le service compétent de la Direction de la santé publique et de la prévoyance sociale ou la personne mandatée par ce dernier, leur permettent de consulter les dossiers sans frais, leur donnent accès aux terrains, exploitations, locaux et équipements et les soutiennent dans tous les domaines dans la mesure nécessaire à l’accomplissement des tâches du canton.
+<sup>1</sup> Les fournisseurs de prestations renseignent gratuitement le service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou la personne mandatée par ce dernier, leur permettent de consulter les dossiers sans frais, leur donnent accès aux terrains, exploitations, locaux et équipements et les soutiennent dans tous les domaines dans la mesure nécessaire à l’accomplissement des tâches du canton.
 
-<sup>2</sup> Leurs organes et leurs auxiliaires ne peuvent pas invoquer d’obligations légales ou contractuelles de garder le secret vis-à-vis du service compétent de la Direction de la santé publique et de la prévoyance sociale ou de la personne mandatée par ce dernier.
+<sup>2</sup> Leurs organes et leurs auxiliaires ne peuvent pas invoquer d’obligations légales ou contractuelles de garder le secret vis-à-vis du service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou de la personne mandatée par ce dernier.
 
 #### Art. 132
 
 **Obligation d’informer**
 
-<sup>1</sup> Les titulaires d’une autorisation d’exploiter du canton de Berne informent le service compétent de la Direction de la santé publique et de la prévoyance sociale
+<sup>1</sup> Les titulaires d’une autorisation d’exploiter du canton de Berne informent le service compétent de la Direction de la santé, des affaires sociales et de l’intégration
 
 - a au préalable de toute modification majeure concernant le programme d’exploitation, la prise en charge des urgences ou la fourniture des médicaments;
 - b immédiatement de toute autre modification majeure susceptible de compromettre l’accomplissement des tâches publiques qui leur sont déléguées.
 
-<sup>2</sup> Les titulaires d’une autorisation d’exploiter d’un autre canton informent le service compétent de la Direction de la santé publique et de la prévoyance sociale de leur activité sur le territoire bernois.
+<sup>2</sup> Les titulaires d’une autorisation d’exploiter d’un autre canton informent le service compétent de la Direction de la santé, des affaires sociales et de l’intégration de leur activité sur le territoire bernois.
 
-<sup>3</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé publique et de la prévoyance sociale les faits susceptibles de constituer une violation du devoir de diligence lié à l’entreprise.
+<sup>3</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les faits susceptibles de constituer une violation du devoir de diligence lié à l’entreprise.
 
 ## 10 Dispositions pénales
 
@@ -1353,7 +1353,7 @@ arrête:
 - f l’indemnisation des prestations de base fixes,
 - g l’indemnisation de la formation postgrade en médecine et en pharmacie.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale décide de l’utilisation du crédit-cadre.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration décide de l’utilisation du crédit-cadre.
 
 <sup>3</sup> Elle est compétente pour autoriser les dépenses concernant
 
@@ -1475,7 +1475,7 @@ arrête:
 
 #### Art. 150
 
-<sup>1</sup> Tant que la liste des prestations ambulatoires en milieu hospitalier et les règles de calcul des forfaits visées à l’article 62 ne sont pas établies, la Direction de la santé publique et de la prévoyance sociale peut indemniser, par contrat de prestations, les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne pour les soins ambulatoires fournis lorsque ceux-ci ne peuvent être assurés autrement et que l’absence de tels soins aurait des conséquences insupportables pour la population.
+<sup>1</sup> Tant que la liste des prestations ambulatoires en milieu hospitalier et les règles de calcul des forfaits visées à l’article 62 ne sont pas établies, la Direction de la santé, des affaires sociales et de l’intégration peut indemniser, par contrat de prestations, les hôpitaux et les maisons de naissance répertoriés situés dans le canton de Berne pour les soins ambulatoires fournis lorsque ceux-ci ne peuvent être assurés autrement et que l’absence de tels soins aurait des conséquences insupportables pour la population.
 
 ### 14.4 Gestion du cycle de vie
 
@@ -1507,7 +1507,7 @@ arrête:
 
 **Obligation de rembourser**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale exige le remboursement de la contribution à un projet d’investissement accordée selon l’article 31 LSH 2005 lorsque le ou la bénéficiaire
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration exige le remboursement de la contribution à un projet d’investissement accordée selon l’article 31 LSH 2005 lorsque le ou la bénéficiaire
 
 - a a obtenu la subvention sur la base de données fausses ou incomplètes;
 - b n’utilise pas la subvention aux fins convenues;

@@ -4,13 +4,13 @@ number: "812.11"
 title: Spitalversorgungsgesetz
 short: SpVG
 language: de
-version: 2019-02-01
-valid_until: 2021-02-28
-version_adopted: 2018-06-13
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 2013-06-13
 in_force: 2014-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/812.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1606/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2125/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1606/pdf_file"
 
 (SpVG)
 
-vom 13.06.2013 (Stand 01.02.2019)
+vom 13.06.2013 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -72,7 +72,7 @@ beschliesst:
 
 <sup>2</sup> Er regelt ihre Zusammensetzung, ihre Aufgaben und ernennt ihre Mitglieder.
 
-<sup>3</sup> Er kann durch Verordnung die Zuständigkeit zur Ernennung der Kommissionsmitglieder an die Gesundheits- und Fürsorgedirektion übertragen.
+<sup>3</sup> Er kann durch Verordnung die Zuständigkeit zur Ernennung der Kommissionsmitglieder an die Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 #### Art. 5
 
@@ -84,7 +84,7 @@ beschliesst:
 
 **Versorgungsplanung 1. Inhalt**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion plant die Versorgung der Bevölkerung des Kantons mit Leistungen nach Artikel 2.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion plant die Versorgung der Bevölkerung des Kantons mit Leistungen nach Artikel 2.
 
 <sup>2</sup> Die Versorgungsplanung legt die Versorgungsziele fest, weist den Bedarf an Leistungen aus, schätzt die finanziellen Auswirkungen dieser voraussichtlich zu erbringenden Leistungen ab und konkretisiert die Versorgungsstrukturen, in denen die Leistungen zu erbringen sind.
 
@@ -120,7 +120,7 @@ beschliesst:
 
 **3. Verletzung der Leistungsverträge**
 
-<sup>1</sup> Verletzt ein Leistungserbringer vertragliche Pflichten, kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion die Abgeltung nach erfolgloser Mahnung kürzen, einstellen oder sie samt Zins seit der Auszahlung zurückfordern.
+<sup>1</sup> Verletzt ein Leistungserbringer vertragliche Pflichten, kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die Abgeltung nach erfolgloser Mahnung kürzen, einstellen oder sie samt Zins seit der Auszahlung zurückfordern.
 
 <sup>2</sup> Bei schwerwiegenden Pflichtverletzungen können die Leistungsverträge fristlos gekündigt werden.
 
@@ -128,7 +128,7 @@ beschliesst:
 
 **4. Betriebsveräusserung**
 
-<sup>1</sup> Veräussert ein Leistungserbringer während der Laufzeit eines Leistungsvertrags seinen Betrieb, so kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion den Vertrag fristlos kündigen.
+<sup>1</sup> Veräussert ein Leistungserbringer während der Laufzeit eines Leistungsvertrags seinen Betrieb, so kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den Vertrag fristlos kündigen.
 
 #### Art. 12
 
@@ -146,7 +146,7 @@ beschliesst:
 
 **Beiträge an Organisationen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann im Rahmen der dafür bewilligten Ausgaben Beiträge an Organisationen des Spital- und Rettungswesens gewähren. Die Beiträge werden insbesondere Organisationen gewährt, die Grundlagenarbeit leisten oder Koordinationsaufgaben übernehmen.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann im Rahmen der dafür bewilligten Ausgaben Beiträge an Organisationen des Spital- und Rettungswesens gewähren. Die Beiträge werden insbesondere Organisationen gewährt, die Grundlagenarbeit leisten oder Koordinationsaufgaben übernehmen.
 
 ## 2 Spitalversorgung
 
@@ -273,7 +273,7 @@ beschliesst:
 
 **Weitere Aufgaben und Tätigkeiten**
 
-<sup>1</sup> Zusätzlich zu den Leistungsaufträgen kann die Gesundheits- und Fürsorgedirektion den RSZ durch Leistungsverträge weitere Aufgaben übertragen.
+<sup>1</sup> Zusätzlich zu den Leistungsaufträgen kann die Gesundheits-, Sozial- und Integrationsdirektion den RSZ durch Leistungsverträge weitere Aufgaben übertragen.
 
 <sup>2</sup> Die RSZ können weitere Tätigkeiten ausüben, wenn diese in einem sachlich nahen Bezug zu ihren Leistungsaufträgen oder übertragenen Aufgaben stehen. Insbesondere können sie in Ergänzung zu den Universitätsspitälern Leistungen der Lehre und der Forschung erbringen.
 
@@ -351,7 +351,7 @@ beschliesst:
 
 <sup>3</sup> Sie erbringen neben hoch spezialisierten Spitalleistungen auch Leistungen der umfassenden Grundversorgung, soweit dies für die Ausbildung, die Lehre, die Forschung oder die Versorgungssicherheit notwendig und wirtschaftlich ist.
 
-<sup>4</sup> Die Gesundheits- und Fürsorgedirektion kann den Universitätsspitälern zusätzlich zu den Leistungsaufträgen weitere Aufgaben durch Leistungsverträge übertragen.
+<sup>4</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann den Universitätsspitälern zusätzlich zu den Leistungsaufträgen weitere Aufgaben durch Leistungsverträge übertragen.
 
 <sup>5</sup> Die Universitätsspitäler können Leistungen der Lehre und der Forschung zugunsten Dritter erbringen, soweit diese Leistungen mindestens kostendeckend abgegolten werden und die Erfüllung der Aufgaben nach Absatz 1 bis 4 nicht beeinträchtigt wird.
 
@@ -415,7 +415,7 @@ beschliesst:
 
 **Beschluss des Grossen Rates**
 
-<sup>1</sup> Stellt die Gesundheits- und Fürsorgedirektion in einem Versorgungsbereich ein medizinisch nicht gerechtfertigtes Wachstum des Leistungsvolumens fest, kann der Grosse Rat auf Antrag des Regierungsrates beschliessen, dass die Gesundheits- und Fürsorgedirektion eine Lenkungsabgabe erhebt.
+<sup>1</sup> Stellt die Gesundheits-, Sozial- und Integrationsdirektion in einem Versorgungsbereich ein medizinisch nicht gerechtfertigtes Wachstum des Leistungsvolumens fest, kann der Grosse Rat auf Antrag des Regierungsrates beschliessen, dass die Gesundheits-, Sozial- und Integrationsdirektion eine Lenkungsabgabe erhebt.
 
 #### Art. 43
 
@@ -439,7 +439,7 @@ beschliesst:
 
 **3. Individuelle Bemessung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion erhebt gegenüber einem im Kanton Bern gelegenen Listenspital eine Lenkungsabgabe, wenn es seinen individuellen Case-Mix des Vorjahres um mehr als 6,1 Prozent im ersten Jahr nach Inkrafttreten des Gesetzes und um mehr als 2,5 Prozent in den Folgejahren überschritten hat.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erhebt gegenüber einem im Kanton Bern gelegenen Listenspital eine Lenkungsabgabe, wenn es seinen individuellen Case-Mix des Vorjahres um mehr als 6,1 Prozent im ersten Jahr nach Inkrafttreten des Gesetzes und um mehr als 2,5 Prozent in den Folgejahren überschritten hat.
 
 <sup>2</sup> Die Höhe der Lenkungsabgabe für das Listenspital ergibt sich proportional zu seinem Anteil an allen individuell überschrittenen Case-Mixen an der Summe gemäss Artikel 44.
 
@@ -467,7 +467,7 @@ beschliesst:
 
 **3. Individuelle Bemessung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion erhebt gegenüber einem im Kanton Bern gelegenen Listenspital eine Lenkungsabgabe, wenn es sein Leistungsvolumen im ersten Jahr nach Inkrafttreten des Gesetzes um mehr als 6,1 Prozent und in den Folgejahren um mehr als 2,5 Prozent überschritten hat.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erhebt gegenüber einem im Kanton Bern gelegenen Listenspital eine Lenkungsabgabe, wenn es sein Leistungsvolumen im ersten Jahr nach Inkrafttreten des Gesetzes um mehr als 6,1 Prozent und in den Folgejahren um mehr als 2,5 Prozent überschritten hat.
 
 <sup>2</sup> Die Höhe der Lenkungsabgabe für das Listenspital ergibt sich proportional zu seinem Anteil an allen individuell überschrittenen Leistungsvolumen an der Summe gemäss Artikel 47.
 
@@ -549,9 +549,9 @@ beschliesst:
 
 <sup>1</sup> Die Listenspitäler und Listengeburtshäuser führen ein Lebenszyklusmanagement über ihre Infrastruktur.
 
-<sup>2</sup> Sie bringen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion das Lebenszyklusmanagement und den Investitionskostenanteil der Abgeltung nach Artikel 49a KVG abzüglich den Anlagenutzungskosten zur Kenntnis.
+<sup>2</sup> Sie bringen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion das Lebenszyklusmanagement und den Investitionskostenanteil der Abgeltung nach Artikel 49a KVG abzüglich den Anlagenutzungskosten zur Kenntnis.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion definiert gemeinsam mit den Listenspitälern und Listengeburtshäusern die aus dem Lebenszyklusmanagement darzustellenden Kennzahlen, die Periodizität sowie die abzugebende Form der Daten.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion definiert gemeinsam mit den Listenspitälern und Listengeburtshäusern die aus dem Lebenszyklusmanagement darzustellenden Kennzahlen, die Periodizität sowie die abzugebende Form der Daten.
 
 <sup>4</sup> Das Nähere regelt der Regierungsrat durch Verordnung.
 
@@ -559,7 +559,7 @@ beschliesst:
 
 **Sanktionen**
 
-<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 49 bis 56, erhebt die zuständige Stelle der Gesundheits- und Fürsorgedirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
+<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 49 bis 56, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
 
 <sup>2</sup> Bei einer Verletzung der Pflicht nach Artikel 49 entspricht der Betrag für das betreffende Jahr maximal 36 Franken multipliziert mit
 
@@ -573,7 +573,7 @@ beschliesst:
 - a der Anzahl stationärer Austritte bei Leistungserbringern der Akutsomatik,
 - b der Anzahl stationärer Pflegetage bei Leistungserbringern der Rehabilitation oder Psychiatrie.
 
-<sup>5</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
+<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
 
 [^57-1]: SR 831.10
 
@@ -591,7 +591,7 @@ beschliesst:
 
 **Abgeltung ambulanter Spitalversorgungsleistungen 1. Zweck**
 
-<sup>1</sup> Zur Förderung der ambulanten Spitalversorgung kann die Gesundheits- und Fürsorgedirektion im Rahmen der dafür bewilligten Ausgaben ambulante Spitalversorgungsleistungen der im Kanton Bern gelegenen Listenspitäler und Listengeburtshäuser über Leistungsverträge abgelten.
+<sup>1</sup> Zur Förderung der ambulanten Spitalversorgung kann die Gesundheits-, Sozial- und Integrationsdirektion im Rahmen der dafür bewilligten Ausgaben ambulante Spitalversorgungsleistungen der im Kanton Bern gelegenen Listenspitäler und Listengeburtshäuser über Leistungsverträge abgelten.
 
 <sup>2</sup> Die kantonale Abgeltung erfolgt zusätzlich zu derjenigen der Krankenversicherer.
 
@@ -611,13 +611,13 @@ beschliesst:
 
 **4. Ausführungsbestimmungen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion definiert gemeinsam mit den Listenspitälern und Geburtshäusern die Liste der ambulanten Spitalversorgungsleistungen. Der Regierungsrat erlässt die Bemessungsregeln für die Pauschalen durch Verordnung.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion definiert gemeinsam mit den Listenspitälern und Geburtshäusern die Liste der ambulanten Spitalversorgungsleistungen. Der Regierungsrat erlässt die Bemessungsregeln für die Pauschalen durch Verordnung.
 
 #### Art. 63
 
 **Abgeltung der Leistungen der integrierten Versorgung 1. Zweck**
 
-<sup>1</sup> Zur Sicherstellung einer bedarfsgerechten und wirtschaftlichen Versorgung kann die Gesundheits- und Fürsorgedirektion im Rahmen der dafür bewilligten Ausgaben Leistungen der integrierten Versorgung der im Kanton Bern gelegenen Listenspitäler und Listengeburtshäuser über Leistungsverträge abgelten.
+<sup>1</sup> Zur Sicherstellung einer bedarfsgerechten und wirtschaftlichen Versorgung kann die Gesundheits-, Sozial- und Integrationsdirektion im Rahmen der dafür bewilligten Ausgaben Leistungen der integrierten Versorgung der im Kanton Bern gelegenen Listenspitäler und Listengeburtshäuser über Leistungsverträge abgelten.
 
 #### Art. 64
 
@@ -635,7 +635,7 @@ beschliesst:
 
 **Abgeltung zusätzlicher Leistungen**
 
-<sup>1</sup> Zur Verbesserung der Versorgung kann die Gesundheits- und Fürsorgedirektion im Rahmen der dafür bewilligten Ausgaben den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern die Leistungen, die nicht bereits nach Artikel 49 KVG finanziert sind, über Leistungsverträge abgelten.
+<sup>1</sup> Zur Verbesserung der Versorgung kann die Gesundheits-, Sozial- und Integrationsdirektion im Rahmen der dafür bewilligten Ausgaben den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern die Leistungen, die nicht bereits nach Artikel 49 KVG finanziert sind, über Leistungsverträge abgelten.
 
 <sup>2</sup> Sie kann insbesondere die Leistungen der Schwangerschaftsberatungsstellen und der Informations- und Beratungsstellen für pränatale Untersuchungen abgelten.
 
@@ -643,7 +643,7 @@ beschliesst:
 
 **Abgeltung von Vorhalteleistungen 1. Zweck**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kann im Rahmen der dafür bewilligten Ausgaben versorgungsnotwendige Vorhalteleistungen von Listenspitälern und Listengeburtshäusern abgelten.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann im Rahmen der dafür bewilligten Ausgaben versorgungsnotwendige Vorhalteleistungen von Listenspitälern und Listengeburtshäusern abgelten.
 
 #### Art. 68
 
@@ -664,7 +664,7 @@ beschliesst:
 
 **Beiträge für Restrukturierungen 1. Zweck**
 
-<sup>1</sup> Zur Förderung von Restrukturierungen im Sinne der Versorgungsplanung kann die Gesundheits- und Fürsorgedirektion den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern im Rahmen der dafür bewilligten Ausgaben Beiträge gewähren.
+<sup>1</sup> Zur Förderung von Restrukturierungen im Sinne der Versorgungsplanung kann die Gesundheits-, Sozial- und Integrationsdirektion den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern im Rahmen der dafür bewilligten Ausgaben Beiträge gewähren.
 
 <sup>2</sup> Beiträge können an den Umbau der Infrastruktur, an die Liquidationskosten, an Sozialplankosten, an Kosten von flankierenden Massnahmen zum Personalerhalt und an Kosten für den Anschub des umstrukturierten Betriebsteils gewährt werden.
 
@@ -696,7 +696,7 @@ beschliesst:
 
 **Bürgschaften und Darlehen zur Sicherstellung der Liquidität 1. Zweck**
 
-<sup>1</sup> Zur Sicherstellung der Liquidität der Listenspitäler und Listengeburtshäuser bei Investitionen kann die Gesundheits- und Fürsorgedirektion im Rahmen der dafür bewilligten Ausgaben Bürgschaften nach Artikel 492 bis 512 OR und verzinsliche Darlehen gewähren.
+<sup>1</sup> Zur Sicherstellung der Liquidität der Listenspitäler und Listengeburtshäuser bei Investitionen kann die Gesundheits-, Sozial- und Integrationsdirektion im Rahmen der dafür bewilligten Ausgaben Bürgschaften nach Artikel 492 bis 512 OR und verzinsliche Darlehen gewähren.
 
 #### Art. 74
 
@@ -719,7 +719,7 @@ beschliesst:
 
 **Beiträge für Investitionen 1. Zweck**
 
-<sup>1</sup> Zur Ermöglichung der für die Versorgung notwendigen Investitionen, deren Kosten durch die pauschale Abgeltung nach Artikel 49a KVG nicht gedeckt sind, kann die Gesundheits- und Fürsorgedirektion den Listenspitälern und Listengeburtshäusern im Rahmen der dafür bewilligten Ausgaben Beiträge gewähren.
+<sup>1</sup> Zur Ermöglichung der für die Versorgung notwendigen Investitionen, deren Kosten durch die pauschale Abgeltung nach Artikel 49a KVG nicht gedeckt sind, kann die Gesundheits-, Sozial- und Integrationsdirektion den Listenspitälern und Listengeburtshäusern im Rahmen der dafür bewilligten Ausgaben Beiträge gewähren.
 
 #### Art. 77
 
@@ -737,7 +737,7 @@ beschliesst:
 
 **Rückerstattungspflicht 1. Voraussetzungen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion fordert den Beitrag für Restrukturierungen nach Artikel 70 und den Beitrag für Investitionen nach Artikel 76 zurück, wenn die Beitragsempfängerin oder der Beitragsempfänger
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion fordert den Beitrag für Restrukturierungen nach Artikel 70 und den Beitrag für Investitionen nach Artikel 76 zurück, wenn die Beitragsempfängerin oder der Beitragsempfänger
 
 - a den Beitrag aufgrund falscher oder unvollständiger Angaben erhalten hat,
 - b den Beitrag zweckwidrig verwendet,
@@ -762,7 +762,7 @@ beschliesst:
 
 #### Art. 81
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion macht die nach Artikel 79a KVG auf den Kanton übergegangenen Ansprüche geltend.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion macht die nach Artikel 79a KVG auf den Kanton übergegangenen Ansprüche geltend.
 
 <sup>2</sup> Sie kann die Geltendmachung vertraglich an einen Dritten übertragen und bestimmen, dass die Erbringer von Spital- und Rettungsleistungen ihre Datenlieferungspflicht nach Artikel 127 Absatz 1 Buchstabe h direkt gegenüber diesem Dritten erfüllen.
 
@@ -790,7 +790,7 @@ beschliesst:
 
 <sup>1</sup> Der Kanton betreibt die Sanitätsnotrufzentrale.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann durch Leistungsvertrag einen Dritten mit dem Betrieb der Sanitätsnotrufzentrale beauftragen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann durch Leistungsvertrag einen Dritten mit dem Betrieb der Sanitätsnotrufzentrale beauftragen.
 
 <sup>3</sup> Sie kann durch Leistungsverträge Dritte mit dem Betrieb der Sanitätsnotrufzentrale für Teile des Kantonsgebiets beauftragen, soweit dies die Versorgung mit Rettungsleistungen verbessert.
 
@@ -830,7 +830,7 @@ beschliesst:
 
 #### Art. 87
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann durch Leistungsverträge weiteren inner-, ausser- oder interkantonalen Rettungsdiensten Aufgaben des Rettungswesens übertragen, insbesondere spezialisierten Rettungsdiensten für die Rettung zu Wasser und durch die Luft.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann durch Leistungsverträge weiteren inner-, ausser- oder interkantonalen Rettungsdiensten Aufgaben des Rettungswesens übertragen, insbesondere spezialisierten Rettungsdiensten für die Rettung zu Wasser und durch die Luft.
 
 ### 3.1.4 Kantonale Rettungsorganisation
 
@@ -844,7 +844,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat kann die einheitliche Beschaffung und den einheitlichen Einsatz der Infrastruktur von Leistungserbringern durch Verordnung regeln.
 
-<sup>2</sup> Er kann diese Befugnis durch Verordnung an die Gesundheits- und Fürsorgedirektion übertragen.
+<sup>2</sup> Er kann diese Befugnis durch Verordnung an die Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 ### 3.3 Pflichten
 
@@ -888,7 +888,7 @@ beschliesst:
 
 **Sanktionen**
 
-<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 92, 50 oder 56, erhebt die zuständige Stelle der Gesundheits- und Fürsorgedirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
+<sup>1</sup> Verletzt ein Leistungserbringer teilweise oder vollständig eine Pflicht nach Artikel 92, 50 oder 56, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag nach Massgabe von Absatz 2 bis 5.
 
 <sup>2</sup> Bei einer Verletzung der Pflicht nach Artikel 92 entspricht der Betrag für das betreffende Jahr der Anzahl Rettungseinsätze multipliziert mit maximal 36 Franken.
 
@@ -896,7 +896,7 @@ beschliesst:
 
 <sup>4</sup> Bei einer Verletzung der Pflicht nach Artikel 56 entspricht der Betrag für das betreffende Jahr der Anzahl Rettungseinsätze multipliziert mit maximal zwölf Franken.
 
-<sup>5</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
+<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt die Beträge nach Absatz 2 und 4 jährlich dem Landesindex der Konsumentenpreise an.
 
 ### 3.4 Leistungsverträge
 
@@ -904,7 +904,7 @@ beschliesst:
 
 **Abschluss**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion schliesst mit den Leistungserbringern des Rettungswesens Leistungsverträge ab.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion schliesst mit den Leistungserbringern des Rettungswesens Leistungsverträge ab.
 
 #### Art. 98
 
@@ -921,7 +921,7 @@ beschliesst:
 - a inner- und ausserkantonalen Rettungsdiensten mit einer kantonalen Betriebsbewilligung,
 - b privat praktizierenden Ärztinnen und Ärzten mit Berufsausübungsbewilligung des Kantons Bern.
 
-<sup>2</sup> Die Verträge mit Dritten sind schriftlich abzuschliessen und der zuständigen Stelle der Gesundheits- und Fürsorgedirektion zur Kenntnis zu bringen.
+<sup>2</sup> Die Verträge mit Dritten sind schriftlich abzuschliessen und der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion zur Kenntnis zu bringen.
 
 ### 3.5 Finanzierung
 
@@ -968,7 +968,7 @@ beschliesst:
 
 #### Art. 103
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann Massnahmen im Bereich der ärztlichen und pharmazeutischen Weiterbildung und im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in der Spitalversorgung und im Rettungswesen gefährdet ist.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann Massnahmen im Bereich der ärztlichen und pharmazeutischen Weiterbildung und im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in der Spitalversorgung und im Rettungswesen gefährdet ist.
 
 <sup>2</sup> Sie kann zu diesem Zweck Leistungsverträge mit Leistungserbringern oder weiteren geeigneten Organisationen abschliessen.
 
@@ -988,7 +988,7 @@ beschliesst:
 
 **Abgeltung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann Leistungsverträge mit Leistungserbringern abschliessen, die durch das Medizinalberufegesetz anerkannte ärztliche oder pharmazeutische Weiterbildungen durchführen.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann Leistungsverträge mit Leistungserbringern abschliessen, die durch das MedBG anerkannte ärztliche oder pharmazeutische Weiterbildungen durchführen.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten zur Höhe der Abgeltung durch Verordnung. Er legt Pauschalen fest und berücksichtigt insbesondere die Arbeitsleistung, welche die in Weiterbildung stehenden Personen erbringen.
 
@@ -1014,7 +1014,7 @@ beschliesst:
 
 **Aus- und Weiterbildungsleistung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Aus- und Weiterbildungsleistung fest. Sie stützt sich dabei auf die kantonale Versorgungsplanung und die kantonalen Vorgaben über das Ausbildungspotenzial.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Aus- und Weiterbildungsleistung fest. Sie stützt sich dabei auf die kantonale Versorgungsplanung und die kantonalen Vorgaben über das Ausbildungspotenzial.
 
 <sup>2</sup> Die kantonalen Vorgaben zur Berechnung des Ausbildungspotenzials des Leistungserbringers berücksichtigen insbesondere
 
@@ -1030,11 +1030,11 @@ beschliesst:
 
 **Abgeltung**
 
-<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits- und Fürsorgedirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
+<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann dem Leistungserbringer während des Rechnungsjahres periodische Vorschüsse auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung ausrichten.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann dem Leistungserbringer während des Rechnungsjahres periodische Vorschüsse auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung ausrichten.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Entrichtung der Abgeltung durch Verordnung.
 
@@ -1054,7 +1054,7 @@ beschliesst:
 
 **Delegation**
 
-<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung durch Verordnung an die Gesundheits- und Fürsorgedirektion übertragen.
+<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung durch Verordnung an die Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 ### 4.3.2 Theoretische Aus- und Weiterbildung des Personals der Leistungserbringer
 
@@ -1062,9 +1062,9 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Zur Sicherung des beruflichen Nachwuchses in den nichtuniversitären Gesundheitsberufen kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion den im Kanton Bern gelegenen Leistungserbringern Beiträge für die theoretische Aus- und Weiterbildung ihres Personals gewähren.
+<sup>1</sup> Zur Sicherung des beruflichen Nachwuchses in den nichtuniversitären Gesundheitsberufen kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den im Kanton Bern gelegenen Leistungserbringern Beiträge für die theoretische Aus- und Weiterbildung ihres Personals gewähren.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
 
 #### Art. 113
 
@@ -1084,7 +1084,7 @@ beschliesst:
 
 **Modellversuche**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kann Modellversuche durchführen oder im Rahmen der dafür bewilligten Ausgaben mit Beiträgen fördern, um neue oder veränderte Methoden, Konzepte, Regelungen, Formen oder Abläufe zu erproben
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Modellversuche durchführen oder im Rahmen der dafür bewilligten Ausgaben mit Beiträgen fördern, um neue oder veränderte Methoden, Konzepte, Regelungen, Formen oder Abläufe zu erproben
 
 - a in der Spitalversorgung, dem Rettungswesen oder in der Aus- und Weiterbildung sowie in deren Kooperationsfeldern,
 - b in den Kooperationsfeldern des Geltungsbereichs dieses Gesetzes sowie den Geltungsbereichen des Gesundheitsgesetzes vom 2. Dezember 1984 (GesG)[^115-1] und des Gesetzes vom 11. Juni 2001 über die öffentliche Sozialhilfe (Sozialhilfegesetz, SHG)[^115-2], soweit diese Modellversuche vor- und nachgelagerte Versorgungsbereiche betreffen.
@@ -1095,7 +1095,7 @@ beschliesst:
 - b Die Modellversuche müssen auf die Erzielung medizinischer, versorgungstechnischer oder wirtschaftlicher Verbesserungen ausgerichtet sein.
 - c Sie sind durch ein Controlling zu begleiten und müssen evaluiert werden.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion regelt die Modellversuche in Leistungsverträgen mit den Leistungserbringern oder mit anderen geeigneten Organisationen.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion regelt die Modellversuche in Leistungsverträgen mit den Leistungserbringern oder mit anderen geeigneten Organisationen.
 
 <sup>4</sup> Der Finanzbedarf für die Modellversuche ist in der Versorgungsplanung oder in einem besonderen Bericht auszuweisen.
 
@@ -1111,7 +1111,7 @@ beschliesst:
 
 **Beiträge für medizinische Innovationen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann den Universitätsspitälern und anderen Listenspitälern im Rahmen der dafür bewilligten Ausgaben Beiträge zur Förderung einzelner medizinischer Innovationen gewähren.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann den Universitätsspitälern und anderen Listenspitälern im Rahmen der dafür bewilligten Ausgaben Beiträge zur Förderung einzelner medizinischer Innovationen gewähren.
 
 <sup>2</sup> Beiträge werden nur gewährt, wenn die Kosten der medizinischen Innovation nicht durch die pauschale Abgeltung nach Artikel 49a KVG, durch Versicherungsleistungen, durch Beiträge oder Abgeltungen anderer Gemeinwesen oder durch Beiträge Privater gedeckt werden können.
 
@@ -1133,7 +1133,7 @@ beschliesst:
 
 <sup>1</sup> Wer Leistungen nach diesem Gesetz erbringt, ist der kantonalen Aufsicht unterstellt.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion überprüft periodisch, ob die Leistungserbringer die gesetzlichen Voraussetzungen für ihre Tätigkeit erfüllen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion überprüft periodisch, ob die Leistungserbringer die gesetzlichen Voraussetzungen für ihre Tätigkeit erfüllen.
 
 #### Art. 119
 
@@ -1145,7 +1145,7 @@ beschliesst:
 
 **Spitäler und Geburtshäuser**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion erteilt die Betriebsbewilligung für Spitäler und Geburtshäuser, wenn der Leistungserbringer
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erteilt die Betriebsbewilligung für Spitäler und Geburtshäuser, wenn der Leistungserbringer
 
 - a Gewähr für die fachgerechte medizinische Behandlung und Pflege der Patientinnen und Patienten bietet,
 - b über zweckentsprechende Räumlichkeiten und medizinische Einrichtungen verfügt,
@@ -1159,7 +1159,7 @@ beschliesst:
 
 **Rettungsdienste**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion erteilt die Betriebsbewilligung für Rettungsdienste, wenn der Leistungserbringer
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erteilt die Betriebsbewilligung für Rettungsdienste, wenn der Leistungserbringer
 
 - a über eine betriebliche und eine ärztliche Leitung verfügt,
 - b über das erforderliche Fachpersonal verfügt,
@@ -1183,7 +1183,7 @@ beschliesst:
 
 **Entzug und Erlöschen der Betriebsbewilligung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entzieht eine Betriebsbewilligung, wenn ihre Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie zu verweigern gewesen wäre.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entzieht eine Betriebsbewilligung, wenn ihre Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie zu verweigern gewesen wäre.
 
 <sup>2</sup> Die Betriebsbewilligung erlischt mit der Aufgabe der Tätigkeit.
 
@@ -1191,7 +1191,7 @@ beschliesst:
 
 **Massnahmen gegen Inhaberinnen oder Inhaber einer Betriebsbewilligung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann bei Verletzung betrieblicher Pflichten, Missachtung von Bedingungen oder Auflagen oder Verstoss gegen die Vorschriften der Spitalversorgungsgesetzgebung gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung anordnen:
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann bei Verletzung betrieblicher Pflichten, Missachtung von Bedingungen oder Auflagen oder Verstoss gegen die Vorschriften der Spitalversorgungsgesetzgebung gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung anordnen:
 
 - a eine Verwarnung,
 - b eine Busse bis zu 200'000 Franken,
@@ -1203,15 +1203,15 @@ beschliesst:
 
 **Aufsicht durch Dritte**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann Dritte beauftragen, bei den Leistungserbringern Kontrollen im Rahmen der Aufsicht durchzuführen und ihr Bericht zu erstatten.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann Dritte beauftragen, bei den Leistungserbringern Kontrollen im Rahmen der Aufsicht durchzuführen und ihr Bericht zu erstatten.
 
 #### Art. 126
 
 **Verjährung**
 
-<sup>1</sup> Die administrative Verfolgung verjährt mit Ablauf von zwei Jahren, nachdem die zuständige Stelle der Gesundheits- und Fürsorgedirektion vom beanstandeten Vorfall Kenntnis erhalten hat.
+<sup>1</sup> Die administrative Verfolgung verjährt mit Ablauf von zwei Jahren, nachdem die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion vom beanstandeten Vorfall Kenntnis erhalten hat.
 
-<sup>2</sup> Die Frist wird durch jede Untersuchungs- und Prozesshandlung über den beanstandeten Vorfall unterbrochen, welche die zuständige Stelle der Gesundheits- und Fürsorgedirektion, eine Strafverfolgungsbehörde oder ein Gericht vornimmt.
+<sup>2</sup> Die Frist wird durch jede Untersuchungs- und Prozesshandlung über den beanstandeten Vorfall unterbrochen, welche die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion, eine Strafverfolgungsbehörde oder ein Gericht vornimmt.
 
 <sup>3</sup> Die administrative Verfolgung verjährt in jedem Fall mit Ablauf von zehn Jahren nach dem zu beanstandenden Vorfall.
 
@@ -1221,7 +1221,7 @@ beschliesst:
 
 **Datenlieferung 1. Pflicht**
 
-<sup>1</sup> Die Erbringer von Spital- und Rettungsleistungen liefern der zuständigen Stelle der Gesundheits- und Fürsorgedirektion innert angesetzter Frist alle Daten, die erforderlich sind für
+<sup>1</sup> Die Erbringer von Spital- und Rettungsleistungen liefern der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion innert angesetzter Frist alle Daten, die erforderlich sind für
 
 - a die Planung der Spitalversorgung, die Planung des Rettungswesens und die Massnahmen zur Sicherung des beruflichen Nachwuchses,
 - b die vergleichende Überprüfung der Qualität,
@@ -1240,19 +1240,19 @@ beschliesst:
 
 **2. Sanktion**
 
-<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, erhebt die zuständige Stelle der Gesundheits- und Fürsorgedirektion ihm gegenüber für das betreffende Jahr einen Betrag von maximal zwölf Franken multipliziert mit
+<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber für das betreffende Jahr einen Betrag von maximal zwölf Franken multipliziert mit
 
 - a der Anzahl stationärer Austritte bei Leistungserbringern der Akutsomatik.
 - b der Anzahl stationärer Pflegetage bei Leistungserbringern der Rehabilitation oder Psychiatrie,
 - c der Anzahl Rettungseinsätze bei Leistungserbringern des Rettungswesens.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion passt den Betrag nach Absatz 1 jährlich dem Landesindex der Konsumentenpreise an.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion passt den Betrag nach Absatz 1 jährlich dem Landesindex der Konsumentenpreise an.
 
 #### Art. 129
 
 **Datenveröffentlichung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion ist berechtigt, die nach Bundesvorgaben bei den Leistungserbringern erhobenen betriebsbezogenen Daten zu bearbeiten und so zu veröffentlichen, dass die einzelnen Leistungserbringer ersichtlich sind.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist berechtigt, die nach Bundesvorgaben bei den Leistungserbringern erhobenen betriebsbezogenen Daten zu bearbeiten und so zu veröffentlichen, dass die einzelnen Leistungserbringer ersichtlich sind.
 
 <sup>2</sup> Sie kann zudem in einem allgemein zugänglichen Medium folgende Daten veröffentlichen:
 
@@ -1276,22 +1276,22 @@ beschliesst:
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Die Leistungserbringer erteilen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion oder der von ihr beauftragten Person unentgeltlich Auskünfte, gewähren ihr unentgeltlich Einsicht in Akten, verschaffen ihr Zutritt zu den Grundstücken, Betrieben, Räumen sowie Einrichtungen und unterstützen sie in allen Belangen, soweit dies für die Erfüllung der Aufgaben des Kantons erforderlich ist.
+<sup>1</sup> Die Leistungserbringer erteilen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder der von ihr beauftragten Person unentgeltlich Auskünfte, gewähren ihr unentgeltlich Einsicht in Akten, verschaffen ihr Zutritt zu den Grundstücken, Betrieben, Räumen sowie Einrichtungen und unterstützen sie in allen Belangen, soweit dies für die Erfüllung der Aufgaben des Kantons erforderlich ist.
 
-<sup>2</sup> Ihre Organe und Hilfspersonen können sich gegenüber der zuständigen Stelle der Gesundheits- und Fürsorgedirektion oder der von ihr beauftragten Person nicht auf gesetzliche oder vertragliche Geheimhaltungspflichten berufen.
+<sup>2</sup> Ihre Organe und Hilfspersonen können sich gegenüber der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder der von ihr beauftragten Person nicht auf gesetzliche oder vertragliche Geheimhaltungspflichten berufen.
 
 #### Art. 132
 
 **Meldepflichten**
 
-<sup>1</sup> Die Inhaberinnen und Inhaber von Betriebsbewilligungen des Kantons Bern melden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion
+<sup>1</sup> Die Inhaberinnen und Inhaber von Betriebsbewilligungen des Kantons Bern melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion
 
 - a wesentliche Änderungen des Betriebskonzepts, des Notfallkonzepts oder der pharmazeutischen Versorgung, bevor sie die Änderungen umsetzen.
 - b unverzüglich andere wesentliche Änderungen, welche die Erfüllung von übertragenen öffentlichen Aufgaben beeinträchtigen könnten.
 
-<sup>2</sup> Die Inhaberinnen und Inhaber einer Betriebsbewilligung eines anderen Kantons melden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion ihre Tätigkeit auf dem Gebiet des Kantons Bern.
+<sup>2</sup> Die Inhaberinnen und Inhaber einer Betriebsbewilligung eines anderen Kantons melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihre Tätigkeit auf dem Gebiet des Kantons Bern.
 
-<sup>3</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion unverzüglich Vorfälle, bei denen betriebliche Pflichten verletzt worden sein könnten.
+<sup>3</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion unverzüglich Vorfälle, bei denen betriebliche Pflichten verletzt worden sein könnten.
 
 ## 10 Strafbestimmungen
 
@@ -1351,7 +1351,7 @@ beschliesst:
 - f die Abgeltung von Vorhalteleistungen,
 - g die Ausgaben für die ärztliche und pharmazeutische Weiterbildung.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion beschliesst über die Verwendung des Rahmenkredits.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion beschliesst über die Verwendung des Rahmenkredits.
 
 <sup>3</sup> Sie bewilligt die Ausgaben für
 
@@ -1473,7 +1473,7 @@ beschliesst:
 
 #### Art. 150
 
-<sup>1</sup> Bis zum Vorliegen der Liste der ambulanten Spitalversorgungsleistungen und der Bemessungsregeln für die Pauschalen nach Artikel 62 kann die Gesundheits- und Fürsorgedirektion den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern ambulante Spitalversorgungsleistungen über Leistungsverträge abgelten, wenn die ambulante Spitalversorgung nicht auf andere Weise sichergestellt oder weiterentwickelt werden kann und ein Verzicht unzumutbare Folgen für die Bevölkerung hätte.
+<sup>1</sup> Bis zum Vorliegen der Liste der ambulanten Spitalversorgungsleistungen und der Bemessungsregeln für die Pauschalen nach Artikel 62 kann die Gesundheits-, Sozial- und Integrationsdirektion den im Kanton Bern gelegenen Listenspitälern und Listengeburtshäusern ambulante Spitalversorgungsleistungen über Leistungsverträge abgelten, wenn die ambulante Spitalversorgung nicht auf andere Weise sichergestellt oder weiterentwickelt werden kann und ein Verzicht unzumutbare Folgen für die Bevölkerung hätte.
 
 ### 14.4 Lebenszyklusmanagement
 
@@ -1505,7 +1505,7 @@ beschliesst:
 
 **Rückerstattungspflicht**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion fordert den nach Artikel 31 SpVG 2005 oder nach Artikel 153 gewährten Beitrag an ein Investitionsprojekt zurück, wenn die Beitragsempfängerin oder der Beitragsempfänger
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion fordert den nach Artikel 31 SpVG 2005 oder nach Artikel 153 gewährten Beitrag an ein Investitionsprojekt zurück, wenn die Beitragsempfängerin oder der Beitragsempfänger
 
 - a den Beitrag aufgrund falscher oder unvollständiger Angaben erhalten hat,
 - b den Beitrag zweckwidrig verwendet,
