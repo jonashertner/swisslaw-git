@@ -4,11 +4,11 @@ title: "Verordnung vom 21. Mai 2008 über Geoinformation (Geoinformationsverordn
 short: GeoIV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: de
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/de"
 
 (Geoinformationsverordnung, GeoIV)
 
-vom 21. Mai 2008 (Stand am 1. Januar 2021)
+vom 21. Mai 2008 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -63,7 +63,10 @@ In dieser Verordnung bedeuten:
 - h. *Suchdienst:* Internetdienst, mit dem nach Geodiensten und, auf der Grundlage entsprechender Geometadaten, nach Geodatensätzen gesucht werden kann;
 - i. *Darstellungsdienst:* Internetdienst, mit dem darstellbare Geodatensätze angezeigt, vergrössert, verkleinert und verschoben, Daten überlagert und die für die Daten relevanten Inhalte von Geometadaten angezeigt werden können und der ein Navigieren in den Geodaten ermöglicht;
 - j. *Download-Dienst:* Internetdienst, der das Herunterladen von Kopien vollständiger Geodatensätze oder von Teilen davon und, wenn durchführbar, den direkten Zugriff darauf ermöglicht;
-- k. *Transformationsdienst:* Internetdienst zur Umwandlung von Geodatensätzen.
+- k. *Transformationsdienst:* Internetdienst zur Umwandlung von Geodatensätzen;
+- l.[^2-1] *offene Verwaltungsdaten:* Geobasisdaten, die frei zugänglich sind und bei denen für Zugang und Nutzung keine Gebühren erhoben werden.
+
+[^2-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 3
 
@@ -362,6 +365,20 @@ Für die Nutzung zum Eigengebrauch gelten die entsprechenden Bestimmungen des Ur
 
 [^28-1]: [SR 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
+#### Art. 28a
+
+**Offene Verwaltungsdaten**[^28a-1]
+
+<sup>1</sup> Die nach Artikel 8 Absatz 1 GeoIG zuständige Stelle kann Geobasisdaten der Zugangsberechtigungsstufe A durch Geodienste als offene Verwaltungsdaten zugänglich machen.
+
+<sup>2</sup> Bei offenen Verwaltungsdaten gilt die Einwilligung zur Nutzung als erteilt.
+
+<sup>3</sup> Bei übermässiger, unangemessener oder missbräuchlicher Nutzung kann der Zugang eingeschränkt oder verweigert werden.
+
+<sup>4</sup> Zur Verhinderung von übermässiger, unangemessener und missbräuchlicher Nutzung kann die zuständige Stelle den freien Zugang durch geeignete Instrumente, einschliesslich der Erfassung von IP-Adressen, überwachen.
+
+[^28a-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
 #### Art. 29
 
 **Datenschutz**
@@ -530,122 +547,62 @@ Soweit diese Verordnung keine besondere Regelung enthält, gelten die Bestimmung
 
 #### Art. 44
 
-**Gebührenbemessung**[^44-1]
+**Gebühren**[^44-1]
 
 <sup>1</sup>
 
-Die Gebühr für die Nutzung von Geobasisdaten setzt sich zusammen aus:
+Keine Gebühren werden erhoben für:
 
-- a. der Grundgebühr, vermindert durch allfällige Rabatte (Art. 45–45*c*);
-- b. den festen Bereitstellungskosten;
-- c. den variablen Bereitstellungskosten;
-- d. den Transportkosten.
+- a. den Zugang zu den offenen Verwaltungsdaten nach Artikel 28*a*;
+- b. den Zugang zu den Geodiensten nach den Artikeln 35 und 36 und deren Nutzung;
+- c. die Nutzung von Geobasisdaten, unabhängig von der Art des Zugangs und der Art der Nutzung;
+- d. die Nutzung von digitalen amtlichen Produkten, zu denen freier Zugang im Sinne von Artikel 28*a* gewährt wird.
+
+<sup>2</sup> Gebühren können erhoben werden bei übermässiger Nutzung dieser Daten, Dienste und Produkte. Sie entsprechen einem angemessenen Beitrag an die Infrastrukturkosten für die übermässige Anzahl Abfragen oder das übermässige Datenvolumen.
+
+<sup>3</sup>
+
+Gebühren werden erhoben für:
+
+- a. den Zugang zu Geobasisdaten, die nicht als offene Verwaltungsdaten nach Artikel 28*a* gelten;
+- b. den Zugang zu Geobasisdaten, der nicht über Geodienste möglich ist;
+- c. besondere Dienstleistungen;
+- d. die Produkte, Dienste und Leistungen nach Artikel 46 Absatz 1.
+
+<sup>4</sup> Soweit diese Verordnung und der Gebührentarif des zuständigen Departements keine anderen Regelungen enthalten und keine vertraglichen Regelungen bestehen, wird eine Gebühr nach Zeitaufwand erhoben.
+
+<sup>5</sup> Bereitstellungs- und Transportkosten können zusätzlich zu den Gebühren nach den Absätzen 3 und 4 in Rechnung gestellt werden.
+
+[^44-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
+#### Art. 44a
+
+**Bereitstellungskosten**[^44a-1]
+
+<sup>1</sup> Zur Abgeltung des Aufwands für die Bereitstellung ausserhalb des Zugangs nach Artikel 28*a* wird eine Gebühr nach dem Gebührentarif des Departements erhoben.
 
 <sup>2</sup>
 
-Die Grundgebühr wird berechnet:
+Für die Bereitstellung werden zusätzlich die folgenden Kosten in Rechnung gestellt:
 
-- a. für die Nutzung zum Eigengebrauch: durch Multiplikation der abgegebenen Anzahl Informationseinheiten mit dem Ansatz nach dem Gebührentarif des Departements;
-- b. für die gewerbliche Nutzung: durch Multiplikation der im Endprodukt verwendeten Anzahl Informationseinheiten mit dem Ansatz nach dem Gebührentarif des Departements und mit der Anzahl der bei der gewerblichen Nutzung weitergegebenen Produkte.
+- a. Datenträger: Einstandspreis pro Einheit;
+- b. Verpackung und Versand: 0–25 Franken pro Versandeinheit.
 
-<sup>3</sup> Wer Geobasisdaten gewerblich nutzt, schuldet die Grundgebühr für die gewerbliche Nutzung unabhängig davon, ob die genutzten Geobasisdaten beim zuständigen Bundesamt oder bei Dritten bezogen werden.
-
-<sup>4</sup> Wer eine Einwilligung zur gewerblichen Nutzung besitzt und innerhalb von 12 Monaten oder einer längeren, vertraglich festgelegten Frist kein Endprodukt vorlegt, schuldet die Grundgebühr nach Absatz 2 Buchstabe a.
-
-[^44-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^44a-1]: Eingefügt durch Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45
 
-**Rabatte**[^45-1]
+**Mehrwertsteuer**[^45-1]
 
-<sup>1</sup>
+Für die amtlichen Leistungen, die der Mehrwertsteuer unterliegen, wird die Steuer zusätzlich zu den Gebühren erhoben.
 
-Der Gebührentarif des Departements kann Rabatte vorsehen aufgrund:
+[^45-1]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
-- a. der Intensität der Nutzung;
-- b. der Dauer der Nutzung;
-- c. einer besonderen Art der Nutzung;
-- d. der Menge der Informationseinheiten;
-- e. der Umsätze.
+#### Art. 45a–45e
 
-<sup>2</sup> Die Rabatte werden durch Multiplikation der Grundgebühr mit einem Rabattfaktor berechnet. Sie können kumuliert werden, ausser es handle sich um mehrere Rabatte aufgrund verschiedener besonderer Arten der Nutzung.
+[^45a45e-1]
 
-[^45-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45a
-
-**Rabatte für die Nutzung zum Eigengebrauch**[^45a-1]
-
-<sup>1</sup> Wird die Funktionalität oder Nutzbarkeit der Geobasisdaten durch die Intensität ihrer Nutzung zum Eigengebrauch oder durch ihre Umarbeitung vermindert, so wird ein Rabatt gewährt.
-
-<sup>2</sup> Für Abonnentinnen und Abonnenten wird ein besonderer Rabattfaktor angewendet.
-
-[^45a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45b
-
-**Rabatte für die gewerbliche Nutzung**[^45b-1]
-
-<sup>1</sup> Wird die Bedeutung, Funktionalität oder Nutzbarkeit der Geobasisdaten im Endprodukt durch die Intensität ihrer gewerblichen Nutzung oder durch ihre Umarbeitung vermindert, so wird ein Rabatt gewährt.
-
-<sup>2</sup>
-
-Für folgende besondere Arten der gewerblichen Nutzung gelten die nachfolgenden Rabattfaktoren. Die Nutzerin oder der Nutzer:
-
-- a. ist eine steuerbefreite gemeinnützige Institution oder Organisation und nutzt die Daten im Rahmen ihrer statutarischen Tätigkeiten: 0,5;
-- b. ist eine staatliche oder staatlich anerkannte Bildungseinrichtung und nutzt die Daten im Rahmen ihres Bildungsauftrags: 0,5;
-- c. nutzt die Daten ausschliesslich zum Wiederverkauf: 0,5 bis 0,7;
-- d. nutzt die Daten in Lehrmitteln: 0,5;
-- e. nutzt die Daten zur Weitergabe an Abonnentinnen und Abonnenten: 0,3.
-
-[^45b-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45c
-
-**Rabatte nach Mengen und Umsätzen**[^45c-1]
-
-<sup>1</sup>
-
-Mengenrabatte werden gewährt aufgrund:
-
-- a. der Anzahl Informationseinheiten;
-- b. der Höhe der Auflage;
-- c. der Anzahl Transaktionen.
-
-<sup>2</sup> Für den Wiederverkauf von Verlagsprodukten wird ein Umsatzrabatt aufgrund des Umsatzes pro Kalenderjahr gewährt.
-
-<sup>3</sup> Rabatte nach Absatz 1 Buchstaben a und c dürfen nicht kumuliert werden.
-
-[^45c-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45d
-
-**Feste Bereitstellungskosten**[^45d-1]
-
-Zur Abgeltung der festen Bereitstellungskosten werden folgende Gebühren erhoben:
-
-- a. nicht netzgebundene Bereitstellung (offline) in analoger oder digitaler Form: höchstens 50 Franken für jede eingegangene Bestellung;
-- b. netzgebundene Bereitstellung (online) in digitaler Form: entweder höchstens 30 Franken für jede eingegangene Bestellung oder höchstens 3000 Franken pro Jahr für jeden Anschluss.
-
-[^45d-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45e
-
-**Variable Bereitstellungskosten**[^45e-1]
-
-<sup>1</sup>
-
-Zur Abgeltung der variablen Bereitstellungskosten bei nicht netzgebundener Bereitstellung (offline) werden die folgenden Gebühren erhoben:
-
-- a. analoger oder digitaler Datenträger: Einstandspreis pro Einheit;
-- b. Beschreiben des Datenträgers: 20–500 Franken pro Einheit;
-- c. Verpackung und Versand: 5–25 Franken pro Versandeinheit.
-
-<sup>2</sup> Zur Abgeltung der variablen Bereitstellungskosten bei netzgebundener Bereitstellung (online) wird eine Gebühr nach dem Gebührentarif des Departements erhoben.
-
-<sup>3</sup> Mit Abonnentinnen und Abonnenten sowie gewerblichen Nutzerinnen und Nutzern kann vertraglich eine Pauschale für eine bestimmte oder unbeschränkte Anzahl Informationseinheiten oder Anzahl Benutzungen eines Geodienstes vereinbart werden.
-
-[^45e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^45a45e-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45f
 
@@ -666,62 +623,44 @@ Zur Abgeltung der variablen Bereitstellungskosten bei nicht netzgebundener Berei
 Pauschalgebühren werden erhoben für:
 
 - a. analoge Karten und Atlanten;
-- b. besondere Fälle der Veröffentlichung von Geobasisdaten;
+- b.[^46-2] die Nutzung besonderer Dienste und Leistungen;
 - c. Software;
 - d. Berichte und Studien;
-- e. das amtliche Ortschaftenverzeichnis;
-- f. amtliche Leistungen von Sammlungen und geologischen Informationsstellen;
+- e. und f.[^46-3] ...
 - g. Änderungen von Einwilligungen und Lizenzen;
 - h. das Verfahren der nachträglichen Einwilligung (Art. 27);
 - i. die Verfügung der Vernichtung oder Einziehung (Art. 33).
 
-<sup>2</sup>
+<sup>2</sup> Zusätzlich zur Pauschalgebühr können die Bereitstellungskosten und die Transportkosten erhoben werden.[^46-4]
 
-Zusätzlich zur Pauschalgebühr erhoben werden:
-
-- a. die festen Bereitstellungskosten nach Artikel 45*d*;
-- b. die Verpackungs- und Versandkosten nach Artikel 45*e* Absatz 1 Buchstabe c;
-- c. die Transportkosten nach Artikel 45*f*.
-
-<sup>3</sup> Die übrigen Bestimmungen der Artikel 44–45*f* sind nicht anwendbar.
+<sup>3</sup> ...[^46-5]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^46-2]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-3]: Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-4]: Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-5]: Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 46a
 
-**Gebührentarife**[^46a-1]
+**Gebührentarif**[^46a-1]
 
-Das zuständige Departement erlässt einen Gebührentarif. Darin legt es die Ansätze für die Grundgebühr, die Rabattfaktoren, die Bereitstellungskosten und die Pauschalgebühren fest.
-
-[^46a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009, in Kraft seit 1. Jan. 2010 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 47
-
-**Gebührenfreiheit**
-
-<sup>1</sup>
-
-Von einer Gebühr für die Nutzung der Geobasisdaten des Bundes mit Ausnahme des Bereitstellungs- und Vertriebsaufwands befreit sind:
-
-- a. öffentliche Bildungsinstitutionen des Bundes, der Kantone und der Gemeinden: für den Eigengebrauch;
-- b. Forschungsinstitutionen des Bundes und der Kantone: für den Eigengebrauch;
-- c. steuerbefreite gemeinnützige Organisationen: für alle Nutzungen, ausser für die Weitergabe an Dritte.
-
-<sup>1bis</sup>
-
-Von einer Gebühr befreit ist die Nutzung von Daten der kartografischen Landesvermessung, die:
-
-- a. tiefgreifend umgearbeitet und nachweislich ins Ausland ausgeführt werden; oder
-- b. im Ausland tiefgreifend umgearbeitet und vertrieben werden.[^47-1]
+<sup>1</sup> Das zuständige Departement erlässt einen Gebührentarif. Darin legt es die Ansätze für die Gebühren nach Artikel 44 Absätze 2–4, die Bereitstellungskosten und die Pauschalgebühren fest.
 
 <sup>2</sup>
 
-In den Fällen nach Absatz 1 kann eine Gebühr erhoben werden, wenn die Gesuche um Zugang und Nutzung:
+Es kann im Gebührentarif Ausnahmen von der Gebührenerhebung oder Gebührenreduktionen vorsehen, wenn:
 
-- a. offensichtlich unsinnig, missbräuchlich oder querulatorisch sind;
-- b. einen ausserordentlichen Bearbeitungsaufwand erfordern, beispielsweise durch umfangreiche Recherchen, besondere Arten der Reproduktion oder eine besondere elektronische Verarbeitung.
+- a. dies im Interesse des Bundes liegt;
+- b. die Nutzung für Bildungs- und Forschungszwecke erfolgt.
 
-[^47-1]: Eingefügt durch Ziff. I der V vom 28. März 2012, in Kraft seit 1. Mai 2012 ([AS 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)).
+[^46a-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2009 ([AS 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Fassung gemäss Ziff. I der V vom 3. April 2020, in Kraft seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
+#### Art. 47
+
+[^47-1]
+
+[^47-1]: Aufgehoben durch Ziff. I der V vom 3. April 2020, mit Wirkung seit 1. März 2021 ([AS 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 ## 12. Abschnitt: Koordination, Mitwirkung
 

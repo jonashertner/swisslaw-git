@@ -4,11 +4,11 @@ title: Ordinanza del 21 maggio 2008 sulla geoinformazione (OGI)
 short: OGI
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: it
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/it"
 
 (OGI)
 
-del 21 maggio 2008 (Stato 1° gennaio 2021)
+del 21 maggio 2008 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -63,7 +63,11 @@ Ai sensi della presente ordinanza si intende per:
 - h. *servizio di ricerca*: servizio in Internet che consente di cercare geoservizi e, sulla base di corrispondenti geometadati, raccolte di geodati;
 - i. *servizio di rappresentazione*: servizio in Internet che consente di visualizzare, ingrandire, rimpicciolire e trasferire raccolte di geodati rappresentabili, di sovrapporre dati, di visualizzare contenuti di geometadati rilevanti per i dati e di navigare all’interno dei geodati;
 - j. *servizio di telecaricamento*: servizio in Internet che consente di telecaricare copie di raccolte complete di geodati o di parti di raccolte di geodati e, se eseguibile, di accedervi direttamente;
-- l. *servizio di trasformazione*: servizio in Internet per la trasformazione di raccolte di geodati.
+- k.[^2-1] *servizio di trasformazione**:* servizio in Internet per la trasformazione di raccolte di geodati;
+- l.[^2-2] *dati pubblici aperti:* geodati di base che sono liberamente accessibili e per i quali non sono riscossi emolumenti per l’accesso e l’utilizzazione.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^2-2]: Introdotta dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 3
 
@@ -362,6 +366,20 @@ All’utilizzazione per uso privato si applicano per analogia le pertinenti disp
 
 [^28-1]: rs **231.1**
 
+#### Art. 28a
+
+**Dati pubblici aperti**[^28a-1]
+
+<sup>1</sup> Mediante geoservizi, il servizio competente di cui all’articolo 8 capoverso 1 LGI può rendere accessibili quali dati pubblici aperti i geodati di base del livello di autorizzazione all’accesso A.
+
+<sup>2</sup> Nel caso di dati pubblici aperti, l’autorizzazione di utilizzare i dati è considerata accordata.
+
+<sup>3</sup> In caso di utilizzazione eccessiva, inadeguata o abusiva, l’accesso può essere limitato o negato.
+
+<sup>4</sup> Per impedire un’utilizzazione eccessiva, inadeguata e abusiva il servizio competente può sorvegliare il libero accesso mediante strumenti adeguati, compresa la registrazione di indirizzi IP.
+
+[^28a-1]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
 #### Art. 29
 
 **Protezione dei dati**
@@ -530,122 +548,58 @@ Nella misura in cui la presente ordinanza non preveda disciplinamenti speciali, 
 
 #### Art. 44
 
-**Calcolo dell’emolumento**[^44-1]
+**Emolumenti**[^44-1]
 
 <sup>1</sup>
 
-L’emolumento per l’utilizzazione di geodati di base si compone:
+Non sono riscossi emolumenti per:
 
-- a. dell’emolumento di base, dedotti gli eventuali sconti (art. 45–45*c*);
-- b. dei costi di approntamento fissi;
-- c. dei costi di approntamento variabili;
-- d. dei costi di trasporto.
+- a. l’accesso ai dati pubblici aperti di cui all’articolo 28*a*;
+- b. l’accesso ai geoservizi di cui agli articoli 35 e 36 e la loro utilizzazione;
+- c. l’utilizzazione di geodati di base a prescindere dal genere di accesso e dal genere di utilizzazione;
+- d. l’utilizzazione di prodotti ufficiali digitali liberamente accessibili ai sensi dell’articolo 28*a*.
 
-<sup>2</sup>
+<sup>2</sup> In caso di utilizzazione eccessiva di questi dati, servizi e prodotti possono essere riscossi emolumenti. Essi corrispondono a un contributo adeguato ai costi infrastrutturali per il numero eccessivo di consultazioni o il volume eccessivo di dati.
 
-L’emolumento di base è calcolato come segue:
+<sup>3</sup>
 
-- a. in caso di utilizzazione per uso privato: moltiplicando il numero di unità di informazione consegnate per l’aliquota conformemente alle tariffe degli emolumenti del Dipartimento;
-- b. in caso di utilizzazione commerciale: moltiplicando il numero di unità di informazione impiegate nel prodotto finale per l’aliquota conformemente alle tariffe degli emolumenti del Dipartimento e per il numero dei prodotti ceduti nell’ambito dell’utilizzazione commerciale.
+Sono riscossi emolumenti per:
 
-<sup>3</sup> Chi utilizza geodati di base a scopi commerciali è tenuto al pagamento dell’emolumento di base per l’utilizzazione commerciale indipendentemente dal fatto che i geodati di base impiegati siano stati ottenuti presso l’Ufficio federale competente o presso terzi.
+- a. l’accesso a geodati di base che non sono considerati dati pubblici aperti secondo l’articolo 28*a*;
+- b. l’accesso a geodati di base che non è possibile mediante geoservizi;
+- c. prestazioni di servizio particolari;
+- d. i prodotti, i servizi e le prestazioni di cui all’articolo 46;
 
-<sup>4</sup> Chi è titolare di un’autorizzazione all’utilizzazione commerciale e non presenta un prodotto finale entro 12 mesi o entro un termine più lungo convenuto per contratto è tenuto al pagamento dell’emolumento di base conformemente al capoverso 2 lettera a.
+<sup>4</sup> Per quanto la presente ordinanza e le tariffe degli emolumenti dei Dipartimenti non prevedano disciplinamenti e non sussistano disposizioni contrattuali, è riscosso un emolumento in funzione del tempo impiegato.
 
-[^44-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+<sup>5</sup> I costi di approntamento e i costi di trasporto possono essere fatturati in aggiunta agli emolumenti di cui ai capoversi 3 e 4.
+
+**Art. 44***a*[^44-2] Costi di approntamento
+
+<sup>1</sup> Per indennizzare costi di approntamento al di fuori dell’accesso secondo l’articolo 28*a* è riscosso un emolumento conformemente alle tariffe degli emolumenti del Dipartimento.
+
+<sup>2</sup> b. imballaggio e spedizione: 0–25 franchi per unità di spedizione.
+
+Per l’approntamento sono inoltre riscossi i seguenti emolumenti:
+
+- a. supporto di dati: prezzo di fabbricazione per unità;
+
+[^44-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^44-2]: Introdotto dal n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45
 
-**Sconti**[^45-1]
+**Imposta sul valore aggiunto**[^45-1]
 
-<sup>1</sup>
+L’imposta sul valore aggiunto è riscossa, in aggiunta agli emolumenti, per le prestazioni ufficiali che vi sono soggette.
 
-Nelle tariffe degli emolumenti del Dipartimento possono essere previsti sconti in base:
+[^45-1]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
-- a. all’intensità dell’utilizzazione;
-- b. alla durata dell’utilizzazione;
-- c. a un particolare genere di utilizzazione;
-- d. alla quantità di unità di informazione;
-- e. alla cifra d’affari.
+#### Art. 45a–45e
 
-<sup>2</sup> Gli sconti sono calcolati moltiplicando l’emolumento di base per un fattore di sconto. Possono essere cumulati, tranne in presenza di diversi sconti in base a diversi generi particolari di utilizzazione.
+[^45a45e-1]
 
-[^45-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45a
-
-**Sconti in caso di utilizzazione per uso privato**[^45a-1]
-
-<sup>1</sup> Se la funzionalità o l’utilizzabilità dei geodati di base è ridotta a causa dell’intensità della loro utilizzazione per uso privato o in seguito a una loro trasformazione, è concesso uno sconto.
-
-<sup>2</sup> Per gli abbonati è applicato un fattore di sconto particolare.
-
-[^45a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45b
-
-**Sconti in caso di utilizzazione commerciale**[^45b-1]
-
-<sup>1</sup> Se, nel prodotto finale, la rilevanza, la funzionalità o l’utilizzabilità dei geodati di base è ridotta a causa dell’intensità della loro utilizzazione commerciale o in seguito a una loro trasformazione, è concesso uno sconto.
-
-<sup>2</sup>
-
-Per i seguenti generi particolari di utilizzazione commerciale sono applicabili i fattori di sconto indicati qui di seguito. L’utente:
-
-- a. è un’istituzione o un’organizzazione di utilità pubblica esentata dall’obbligo fiscale e utilizza i dati nel quadro delle proprie attività statutarie: 0,5;
-- b. è un istituto d'insegnamento statale o riconosciuto dallo Stato e utilizza i dati nel quadro del proprio mandato di formazione: 0,5;
-- c. utilizza i dati esclusivamente per rivenderli: da 0,5 a 0,7;
-- d. utilizza i dati in mezzi didattici: 0,5;
-- e. utilizza i dati per trasmetterli ad abbonati: 0,3.
-
-[^45b-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45c
-
-**Sconti in base alla quantità e alla cifra d’affari**[^45c-1]
-
-<sup>1</sup>
-
-Sono concessi sconti di quantità in base:
-
-- a. al numero di unità di informazione;
-- b. all’entità della tiratura;
-- c. al numero di transazioni.
-
-<sup>2</sup> Per la rivendita di prodotti editoriali è concesso uno sconto sulla cifra d’affari in base alla cifra d’affari per anno civile.
-
-<sup>3</sup> Gli sconti giusta il capoverso 1 lettere a e c non possono essere cumulati.
-
-[^45c-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45d
-
-**Costi di approntamento fissi**[^45d-1]
-
-Per indennizzare i costi di approntamento fissi sono riscossi i seguenti emolumenti:
-
-- a. approntamento fuori rete (offline) in forma analogica o digitale: 50 franchi al massimo per ogni ordinazione pervenuta;
-- b. approntamento in rete (online) in forma digitale: 30 franchi al massimo per ogni ordinazione pervenuta o 3000 franchi al massimo l’anno per ogni collegamento.
-
-[^45d-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45e
-
-**Costi di approntamento variabili**[^45e-1]
-
-<sup>1</sup>
-
-Per indennizzare i costi di approntamento variabili sono riscossi, in caso di approntamento fuori rete (offline), i seguenti emolumenti:
-
-- a. supporto di dati analogico o digitale: prezzo di fabbricazione per unità;
-- b. scrittura dei dati sul supporto di dati: 20–500 franchi per unità;
-- c. imballaggio e spedizione: 5–25 franchi per unità di spedizione.
-
-<sup>2</sup> Per indennizzare i costi di approntamento variabili è riscosso, in caso di approntamento in rete (online), un emolumento conformemente alle tariffe degli emolumenti del Dipartimento.
-
-<sup>3</sup> Con gli abbonati e con gli utenti commerciali può essere convenuto per contratto un emolumento forfettario per un numero determinato o illimitato di unità di informazione o di utilizzazioni di un geoservizio.
-
-[^45e-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^45a45e-1]: Introdotti dal n. I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Abrogati dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45f
 
@@ -666,62 +620,43 @@ Per indennizzare i costi di approntamento variabili sono riscossi, in caso di ap
 Sono riscossi emolumenti forfettari per:
 
 - a. carte e atlanti analogici;
-- b. casi particolari di pubblicazione di geodati di base;
+- b.[^46-2] l’utilizzazione di servizi e prestazioni particolari;
 - c. software;
 - d. rapporti e studi;
-- e. l’elenco ufficiale delle località;
-- f. prestazioni ufficiali di raccolte e di servizi d’informazione geologica;
+- [tab] e. e f.[^46-3] ...
 - g. modifiche di autorizzazioni e licenze;
 - h. la procedura per l’autorizzazione a posteriori (art. 27);
 - i. la decisione di distruzione o di confisca (art. 33).
 
-<sup>2</sup>
+<sup>2</sup> Oltre all’emolumento forfettario possono essere riscossi i costi di approntamento e i costi di trasporto. [^46-4]
 
-Oltre all’emolumento forfettario sono riscossi:
-
-- a. i costi di approntamento fissi conformemente all’articolo 45*d*;
-- b. i costi di imballaggio e i costi di spedizione conformemente all’articolo 45*e* capoverso 1 lettera c;
-- c. i costi di trasporto conformemente all’articolo 45*f*.
-
-<sup>3</sup> Le rimanenti disposizioni degli articoli 44–45*f* non sono applicabili.
+<sup>3</sup> ... [^46-5]
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^46-2]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-3]: Abrogate dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-4]: Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-5]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 46a
 
 **Tariffe degli emolumenti**[^46a-1]
 
-Il Dipartimento competente emana le tariffe degli emolumenti. Nel quadro delle tariffe degli emolumenti, esso stabilisce le aliquote per l’emolumento di base, i fattori di sconto, i costi di approntamento e gli emolumenti forfettari.
+<sup>1</sup> Il Dipartimento competente emana le tariffe degli emolumenti. Esso vi stabilisce le aliquote per gli emolumenti di cui all’articolo 44 capoversi 2–4, i costi di approntamento e gli emolumenti forfetari.
 
-[^46a-1]: Introdotto dal n. I dell’O del 18 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+<sup>2</sup> Nelle tariffe degli emolumenti, esso può prevedere eccezioni alla riscossione degli emolumenti o riduzioni degli emolumenti se:
+
+a. ciò è nell’interesse della Confederazione;
+
+b. l’utilizzazione avviene a scopi di formazione e di ricerca.
+
+[^46a-1]: Introdotto dal n. I dell’O del 18 nov. 2009 ([RU 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Nuovo testo giusta il n. I dell’O del 3 apr. 2020, in vigore dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 47
 
-**Esenzione dagli emolumenti**
+[^47-1]
 
-<sup>1</sup>
-
-Sono esentati dagli emolumenti per l’utilizzazione dei geodati di base della Confederazione, fatta eccezione per i costi di approntamento e di distribuzione:
-
-- a. gli istituti di formazione pubblici della Confederazione, dei Cantoni e dei Comuni: in caso di utilizzazione per uso privato;
-- b. gli istituti di ricerca della Confederazione e dei Cantoni: in caso di utilizzazione per uso privato;
-- c. le organizzazioni di utilità pubblica esentate dall’obbligo fiscale: per tutte le utilizzazioni, ad eccezione della trasmissione a terzi.
-
-<sup>1bis</sup>
-
-L’utilizzazione di dati della misurazione nazionale cartografica è esentata dagli emolumenti se i dati:
-
-- a. subiscono una profonda trasformazione e la loro esportazione è dimostrata; o
-- b. subiscono una profonda trasformazione all’estero e sono ivi distribuiti.[^47-1]
-
-<sup>2</sup>
-
-Nei casi di cui al capoverso 1 può essere riscosso un emolumento se le domande di accesso e di utilizzazione:
-
-- a. sono manifestamente insensate, abusive o di contenuto querulomane;
-- b. necessitano di un onere di elaborazione straordinario, ad esempio perché implicanti vaste ricerche, particolari procedimenti di riproduzione o una particolare elaborazione elettronica.
-
-[^47-1]: Introdotto dal n. I dell’O del 28 mar. 2012, in vigore dal 1° mag. 2012 ([RU 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)).
+[^47-1]: Abrogato dal n. I dell’O del 3 apr. 2020, con effetto dal 1° mar. 2021 ([RU 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 ## Sezione 12: Coordinamento e partecipazione
 

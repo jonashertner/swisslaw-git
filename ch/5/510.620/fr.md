@@ -4,11 +4,11 @@ title: Ordonnance du 21 mai 2008 sur la géoinformation (OGéo)
 short: OGéo
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/389"
 language: fr
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2008-05-21
 in_force: 2008-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/389/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2008-389-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/389/20210101/fr"
 
 (OGéo)
 
-du 21 mai 2008 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 mai 2008 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -60,7 +60,10 @@ Dans la présente ordonnance, on entend par:
 - h. *service de recherche:* service Internet permettant la recherche de géoservices et de jeux de géodonnées, sur la base de géométadonnées correspondantes;
 - i. *service de consultation:* service Internet permettant d’afficher, d’agrandir, de réduire, de déplacer des jeux de géodonnées représentables, de superposer des données, d’afficher le contenu pertinent de géométadonnées et de naviguer au sein des géodonnées;
 - j. *service de téléchargement:* service Internet permettant de télécharger des copies de jeux de géodonnées ou des parties de ces jeux et, lorsque c’est possible, d’y accéder directement;
-- k. *service de transformation:* service Internet permettant de transformer des jeux de géodonnées.
+- k. *service de transformation:* service Internet permettant de transformer des jeux de géodonnées;
+- l.[^2-1] *données publiques en libre accès:* géodonnées de base ouvertes à tous dont l’accès et l’utilisation ne donnent lieu à la perception d’aucun émolument.
+
+[^2-1]: Introduite par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 3
 
@@ -357,6 +360,20 @@ Les dispositions de la loi du 9 octobre 1992 sur le droit d’auteur[^28-1] rég
 
 [^28-1]: [RS 231.1](https://fedlex.data.admin.ch/eli/cc/1993/1798_1798_1798)
 
+#### Art. 28a
+
+**Données publiques en libre accès**[^28a-1]
+
+<sup>1</sup> Le service compétent visé à l’art. 8, al. 1, LGéo peut rendre des géodonnées de base de niveau A accessibles en tant que données publiques en libre accès via des géoservices.
+
+<sup>2</sup> L’autorisation d’utilisation est réputée délivrée pour les données publiques en libre accès.
+
+<sup>3</sup> L’accès peut être restreint ou refusé en cas d’utilisation excessive, inappropriée ou abusive.
+
+<sup>4</sup> Le service compétent peut surveiller le libre accès à l’aide d’instruments adéquats, incluant la saisie d’adresses IP, en vue d’empêcher une utilisation excessive, inappropriée et abusive.
+
+[^28a-1]: Introduit par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
 #### Art. 29
 
 **Protection des données**
@@ -525,122 +542,62 @@ L’ordonnance générale du 8 septembre 2004 sur les émoluments[^43a-2] est ap
 
 #### Art. 44
 
-**Composition et calcul des émoluments**[^44-1]
+**Émoluments**[^44-1]
 
 <sup>1</sup>
 
-L’émolument dû pour l’utilisation de géodonnées de base se compose des éléments suivants:
+Aucun émolument n’est perçu pour:
 
-- a. l’émolument de base, éventuellement minoré d’un rabais (art. 45 à 45*c*);
-- b. les frais fixes de préparation;
-- c. les frais variables de préparation;
-- d. les frais de transport.
+- a. l’accès à des données publiques en libre accès selon l’art. 28*a*;
+- b. l’accès aux géoservices selon les art. 35 et 36 ainsi que leur utilisation;
+- c. l’utilisation de géodonnées de base, indépendamment du mode d’accès et du genre d’utilisation;
+- d. l’utilisation de produits officiels numériques auxquels le libre accès est accordé en vertu de l’art. 28*a*.
+
+<sup>2</sup> Des émoluments peuvent être perçus en cas d’utilisation excessive de ces données, services et produits. Ils correspondent à une contribution appropriée aux frais d’infrastructure pour le nombre excessif de requêtes ou le volume de données excessif.
+
+<sup>3</sup>
+
+Des émoluments sont perçus pour:
+
+- a. l’accès à des géodonnées de base qui ne sont pas considérées comme des données publiques en libre accès selon l’art. 28*a*;
+- b. l’accès à des géodonnées de base qui n’est pas possible via des géoservices;
+- c. des prestations de services particulières;
+- d. les produits, services et prestations selon l’art. 46, al. 1.
+
+<sup>4</sup> Si la présente ordonnance et le tarif des émoluments du département compétent ne comportent aucune autre règle et s’il n’existe aucune règle contractuelle, l’émolument perçu est calculé en fonction du temps consacré.
+
+<sup>5</sup> Les frais de préparation et de transport peuvent être facturés en plus des émoluments prévus aux al. 3 et 4.
+
+[^44-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
+#### Art. 44a
+
+**Frais de préparation**[^44a-1]
+
+<sup>1</sup> Un émolument défini dans le tarif des émoluments du département est perçu au titre des frais de préparation lorsque l’accès ne s’effectue pas selon l’art. 28*a*.
 
 <sup>2</sup>
 
-L’émolument de base est calculé:
+Les frais suivants sont facturés en plus pour la préparation:
 
-- a. s’il s’agit d’un usage privé: en multipliant le nombre des unités d’information remises par le prix unitaire fixé dans le tarif des émoluments du département;
-- b. s’il s’agit d’une utilisation à des fins commerciales: en multipliant le nombre des unités d’information utilisées dans le produit final par le prix unitaire fixé dans le tarif des émoluments du département, puis en multipliant le résultat obtenu par le nombre de produits transmis dans le cadre de l’utilisation à des fins commerciales.
+- a. support de données: prix de revient par unité;
+- b. emballage et expédition: de 0 à 25 francs par unité d’expédition.
 
-<sup>3</sup> Quiconque utilise des géodonnées de base à des fins commerciales est redevable de l’émolument de base dû pour une telle utilisation, que les géodonnées de base utilisées soient obtenues auprès de l’office fédéral compétent ou d’un tiers.
-
-<sup>4</sup> Quiconque est titulaire d’une autorisation d’utilisation à des fins commerciales et ne présente aucun produit final dans un délai de douze mois ou d’une durée supérieure fixée par contrat, est redevable de l’émolument de base prévu par l’al. 2, let. a.
-
-[^44-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^44a-1]: Introduit par le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45
 
-**Rabais**[^45-1]
+**Taxe sur la valeur ajoutée**[^45-1]
 
-<sup>1</sup>
+La taxe sur la valeur ajoutée est perçue, en sus des émoluments dus, pour les prestations officielles qui y sont soumises.
 
-Le tarif des émoluments du département peut prévoir des rabais fondés sur:
+[^45-1]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
-- a. l’intensité de l’utilisation;
-- b. la durée d’utilisation;
-- c. un genre particulier d’utilisation;
-- d. la quantité d’unités d’information;
-- e. le chiffre d’affaires réalisé.
+#### Art. 45a à 45e
 
-<sup>2</sup> Les rabais sont calculés en multipliant l’émolument de base par un coefficient de rabais. Ils peuvent être cumulés, sauf s’il s’agit de plusieurs rabais consentis pour des genres particuliers d’utilisation différents.
+[^45a45e-1]
 
-[^45-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45a
-
-**Rabais pour usage privé**[^45a-1]
-
-<sup>1</sup> Un rabais est consenti si la fonctionnalité ou l’utilisabilité des géodonnées de base est réduite du fait de l’intensité de leur utilisation à des fins privées ou de leur transformation.
-
-<sup>2</sup> Un coefficient de rabais particulier est appliqué aux abonnés.
-
-[^45a-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45b
-
-**Rabais pour utilisation à des fins commerciales**[^45b-1]
-
-<sup>1</sup> Un rabais est consenti si l’importance, la fonctionnalité ou l’utilisabilité des géodonnées de base est réduite dans le produit final du fait de l’intensité de leur utilisation à des fins commerciales ou de leur transformation.
-
-<sup>2</sup>
-
-Les coefficients de rabais indiqués ci-après sont appliqués en fonction de l’utilisation à des fins commerciales concernée. Ainsi, si l’utilisateur:
-
-- a. est une institution ou une organisation d’utilité publique exonérée d’impôt qui utilise les données dans le cadre de son activité statutaire: 0,5;
-- b. est un établissement de formation public ou reconnu par l’État qui utilise les données dans le cadre de son mandat de formation: 0,5;
-- c. utilise les données pour la revente exclusivement: de 0,5 à 0,7;
-- d. utilise les données comme matériel d’enseignement: 0,5;
-- e. utilise les données pour les transmettre à des abonnés: 0,3.
-
-[^45b-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45c
-
-**Rabais en fonction des quantités et du chiffre d’affaires**[^45c-1]
-
-<sup>1</sup>
-
-Des rabais quantitatifs sont accordés en fonction:
-
-- a. du nombre d’unités d’information;
-- b. du tirage;
-- c. du nombre de transactions.
-
-<sup>2</sup> Un rabais rapporté au chiffre d’affaires réalisé par année civile est consenti pour la revente de produits d’édition.
-
-<sup>3</sup> Les rabais prévus par l’al. 1, let. a et c, ne peuvent être cumulés.
-
-[^45c-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45d
-
-**Frais fixes de préparation**[^45d-1]
-
-Les émoluments suivants sont perçus au titre des frais fixes de préparation:
-
-- a. préparation sous forme analogique ou numérique, non connectée à un réseau (hors ligne): 50 francs au plus pour chaque commande enregistrée;
-- b. préparation sous forme numérique, connectée à un réseau (en ligne): 30 francs au plus pour chaque commande enregistrée ou 3000 francs au plus par an pour chaque connexion.
-
-[^45d-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 45e
-
-**Frais variables de préparation**[^45e-1]
-
-<sup>1</sup>
-
-Les émoluments suivants sont perçus au titre des frais variables de préparation lorsque la préparation n’est pas connectée à un réseau (hors ligne):
-
-- a. support analogique ou numérique: prix de revient par unité;
-- b. description du support: de 20 francs à 500 francs par unité;
-- c. emballage et expédition: de 5 francs à 25 francs par unité d’expédition.
-
-<sup>2</sup> Un émolument est perçu au titre des frais variables de préparation lorsque la préparation est connectée à un réseau (en ligne), dont le montant est fixé selon le tarif des émoluments du département.
-
-<sup>3</sup> Un forfait peut être convenu par contrat avec des abonnés ou des utilisateurs à des fins commerciales pour un nombre fixe ou illimité d’unités d’information ou pour un nombre d’utilisations d’un géoservice.
-
-[^45e-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^45a45e-1]: Introduits par le ch. I de l’O du 18 nov. 2009 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Abrogés par le ch. I de l’O du 3 avr. 2020 avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 45f
 
@@ -661,62 +618,44 @@ Les émoluments suivants sont perçus au titre des frais variables de préparati
 Des émoluments forfaitaires sont perçus pour:
 
 - a. les cartes analogiques et les atlas;
-- b. certains cas particuliers de publication de géodonnées de base;
+- b.[^46-2] l’utilisation de prestations et de services particuliers;
 - c. les logiciels;
 - d. les rapports et les études;
-- e. le répertoire officiel des localités;
-- f. les prestations officielles relevant des fonds documentaires ou des services d’information géologiques;
+- e. et f.[^46-3] ...
 - g. les modifications d’autorisations ou de licences;
 - h. la procédure d’autorisation a posteriori (art. 27);
 - i. la décision de destruction ou de confiscation (art. 33).
 
-<sup>2</sup>
+<sup>2</sup> Les frais de préparation et les frais de transport peuvent être perçus en complément de l’émolument forfaitaire.[^46-4]
 
-Sont perçus en complément de l’émolument forfaitaire:
-
-- a. les frais fixes de préparation prévus par l’art. 45*d*;
-- b. les frais d’emballage et d’expédition prévus par l’art. 45*e,* al. 1, let. c;
-- c. les frais de transport prévus par l’art. 45*f*.
-
-<sup>3</sup> Les autres dispositions des art. 44 à 45*f* ne s’appliquent pas.
+<sup>3</sup> ...[^46-5]
 
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
+[^46-2]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-3]: Abrogées par le ch. I de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-4]: Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+[^46-5]: Abrogé par le ch. I de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 #### Art. 46a
 
-**Tarifs des émoluments**[^46a-1]
+**Tarif des émoluments**[^46a-1]
 
-Le département compétent édicte un tarif des émoluments. Il y définit les prix unitaires de l’émolument de base, les coefficients de rabais, les frais de préparation et les émoluments forfaitaires.
-
-[^46a-1]: Introduit par le ch. I de l’O du 18 nov. 2009, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)).
-
-#### Art. 47
-
-**Exemption**
-
-<sup>1</sup>
-
-Sont exemptés de tout émolument pour l’utilisation des géodonnées de base de la Confédération, à l’exception des frais de préparation et de distribution:
-
-- a. les institutions de formation publiques de la Confédération, des cantons et des communes, pour un usage privé;
-- b. les institutions de recherche de la Confédération et des cantons, pour un usage privé;
-- c. les organisations d’utilité publique exonérées d’impôt, pour toute utilisation à l’exception de la transmission à des tiers.
-
-<sup>1bis</sup>
-
-L’utilisation de données de la mensuration nationale cartographique est exemptée de tout émolument dans les cas suivants:
-
-- a. les données subissent de profondes transformations et leur exportation est prouvée; ou
-- b. les données subissent de profondes transformations à l’étranger et elles y sont commercialisées.[^47-1]
+<sup>1</sup> Le département compétent édicte un tarif des émoluments. Il y définit les prix unitaires des émoluments selon l’art. 44, al. 2 à 4, les frais de préparation et les émoluments forfaitaires.
 
 <sup>2</sup>
 
-Un émolument peut être perçu dans les cas visés à l’al. 1 si les demandes d’accès et d’utilisation:
+Il peut prévoir des exceptions à la perception d’émoluments ou des réductions dans son tarif si:
 
-- a. sont manifestement absurdes, abusives ou quérulantes;
-- b. impliquent un traitement très lourd, par exemple des recherches approfondies, des types particuliers de reproduction ou un traitement électronique spécifique.
+- a. c’est dans l’intérêt de la Confédération;
+- b. l’utilisation concerne la formation et la recherche.
 
-[^47-1]: Introduit par le ch. I de l’O du 28 mars 2012, en vigueur depuis le 1<sup>er</sup> mai 2012 ([RO 2012 1791](https://fedlex.data.admin.ch/eli/oc/2012/254)).
+[^46a-1]: Introduit par le ch. I de l’O du 18 nov. 2009 ([RO 2009 6189](https://fedlex.data.admin.ch/eli/oc/2009/759)). Nouvelle teneur selon le ch. I de l’O du 3 avr. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
+
+#### Art. 47
+
+[^47-1]
+
+[^47-1]: Abrogé par le ch. I de l’O du 3 avr. 2020, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 37](https://fedlex.data.admin.ch/eli/oc/2021/37)).
 
 ## Section 12 Coordination, participation
 
@@ -817,7 +756,7 @@ Les délais de transition ci-après sont fixés pour le passage des systèmes et
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> juillet 2008.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, al. 2)
 
