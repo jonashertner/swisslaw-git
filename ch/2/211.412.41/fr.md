@@ -4,11 +4,11 @@ title: "Loi fédérale du 16 décembre 1983 sur l'acquisition d'immeubles par de
 short: LFAIE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: fr
-version: 2013-03-01
+version: 2021-03-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20130301/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20130301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20130301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20130301/fr"
 
 (LFAIE)
 
-du 16 décembre 1983 (Etat le 1<sup>er</sup> mars 2013)
+du 16 décembre 1983 (Etat le 1<sup>er</sup> mars 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu la compétence de la Confédération en matière de politique étrangère[^ingress-1], vu les art. 64 et 64<sup>bis</sup> de la constitution[^ingress-2],[^ingress-3] vu le message du Conseil fédéral du 16 septembre 1981[^ingress-4],
+vu la compétence de la Confédération en matière de politique étrangère[^ingress-1],[^ingress-2] vu les art. 54, al. 1, 122, al. 1, et 123, al. 1, de la Constitution[^ingress-3],[^ingress-4] vu le message du Conseil fédéral du 16 septembre 1981[^ingress-5],
 
 arrête:
 
 [^ingress-1]: Cette compétence correspond à l’art. 54, al. 1 de la Cst. du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-2]: [RS **1** 3]. Aux disp. mentionnées correspondent les art. 122 et 123 de la Cst. du 18 avril 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nouvelle teneur des 1<sup>ère</sup> et 2<sup>e</sup> lignes selon le ch. 4 de l’annexe à la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
-[^ingress-4]: [FF 1981 III 553](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
+[^ingress-2]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^ingress-3]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-4]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^ingress-5]: [FF 1981 III 553](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
 ## Chapitre 1 But et principes
 
@@ -87,8 +88,8 @@ Par acquisition d’immeubles on entend:
 <sup>2</sup> Est assimilé à une acquisition d’immeubles le fait, pour une personne morale ou une société sans personnalité juridique mais ayant la capacité d’acquérir, de conserver, lors du transfert à l’étranger de son siège statutaire ou réel, un droit sur un immeuble dont l’acquisition n’est pas soustraite au régime de l’autorisation en vertu de l’art. 2, al. 2, let. a.[^4-7]
 
 [^4-1]: Nouvelle teneur selon le ch. I de la LF du 30 avril 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^4-2]: Nouvelle teneur selon le ch. 1 de l’annexe à la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^4-3]: Introduite par le ch. 1 de l’annexe à la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^4-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^4-3]: Introduite par l’annexe ch. 1 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^4-4]: Abrogée par le ch. I de la LF du 30 avril 1997, avec effet au 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^4-5]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> avril 2005 ([RO 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3900](https://fedlex.data.admin.ch/eli/fga/2003/674)).
 [^4-6]: Nouvelle teneur selon le ch. I de la LF du 30 avril 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
@@ -102,19 +103,26 @@ Par acquisition d’immeubles on entend:
 
 Par personnes à l’étranger on entend:
 
-- a.[^5-1] les ressortissants des Etats membres de la Communauté européenne ou de l’Association européenne de libre-échange qui n’ont pas leur domicile légalement constitué et effectif en Suisse;
-- a<sup>bis</sup>.[^5-2] les ressortissants des autres Etats étrangers qui n’ont pas le droit de s’établir en Suisse;
+- a.[^5-1]
+
+  les ressortissants suivants qui n’ont pas leur domicile légalement constitué et effectif en Suisse:
+
+  - 1\. les ressortissants des États membres de l’Union européenne ou de l’Association européenne de libre-échange,
+  - 2\. les ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique l’art. 22, ch. 2, de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes[^5-2];
+
+- a<sup>bis</sup>.[^5-3] les ressortissants des autres États étrangers qui n’ont pas le droit de s’établir en Suisse;
 - b. les personnes morales ou les sociétés sans personnalité juridique, mais ayant la capacité d’acquérir, qui ont leur siège statutaire ou réel à l’étranger;
 - c. les personnes morales ou les sociétés sans personnalité juridique, mais ayant la capacité d’acquérir, qui ont leur siège statutaire et réel en Suisse, et dans lesquelles des personnes à l’étranger ont une position dominante;
-- d.[^5-3] les personnes physiques ainsi que, les personnes morales ou les sociétés sans personnalité juridique, mais ayant la capacité d’acquérir, qui ne sont pas des personnes à l’étranger au sens des let. a, a<sup>bis</sup> et c, lorsqu’elles acquièrent un immeuble pour le compte de personnes à l’étranger.[^5-4]
+- d.[^5-4] les personnes physiques ainsi que, les personnes morales ou les sociétés sans personnalité juridique, mais ayant la capacité d’acquérir, qui ne sont pas des personnes à l’étranger au sens des let. a, a<sup>bis</sup> et c, lorsqu’elles acquièrent un immeuble pour le compte de personnes à l’étranger.[^5-5]
 
-<sup>2</sup> …[^5-5]
+<sup>2</sup> …[^5-6]
 
-[^5-1]: Nouvelle teneur selon le ch. I 2 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. amendant la Conv. instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^5-2]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses Etats membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^5-3]: Nouvelle teneur selon le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses Etats membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^5-4]: Rectifié par la Commission de rédaction de l’Ass. féd. [art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
-[^5-5]: Abrogé par le ch. I de la LF du 30 avril 1997, avec effet au 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
+[^5-1]: Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)). Voir aussi la disp. fin. de cette mod. à la fin du texte.
+[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
+[^5-3]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^5-4]: Nouvelle teneur selon le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^5-5]: Rectifié par la Commission de rédaction de l’Ass. féd. [art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)].
+[^5-6]: Abrogé par le ch. I de la LF du 30 avril 1997, avec effet au 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 6
 
@@ -150,8 +158,8 @@ Une SICAV immobilière est présumée être dominée par des personnes à l’é
 - c. elle mettent à disposition des fonds remboursables dont la somme excède la moitié de la différence entre l’ensemble des actifs du capital-actions des investisseurs de la SICAV immobilière et l’ensemble des dettes contractées par celle-ci auprès de personnes non assujetties au régime de l’autorisation.[^6-3]
 
 [^6-1]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> avril 2005 ([RO 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3900](https://fedlex.data.admin.ch/eli/fga/2003/674)).
-[^6-2]: Introduit par le ch. 1 de l’annexe à la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^6-3]: Introduit par le ch. 1 de l’annexe à la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^6-2]: Introduit par l’annexe ch. 1 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^6-3]: Introduit par l’annexe ch. 1 de la LF du 28 sept. 2012, en vigueur depuis le 1<sup>er</sup> mars 2013 ([RO 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3383](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 7
 
@@ -168,22 +176,28 @@ Ne sont pas assujettis au régime de l’autorisation:
 - g. l’acquéreur d’une surface de faible importance par suite d’une rectification de limite ou, en cas de propriété par étages, d’une augmentation de la valeur de la quote-part;
 - h.[^7-4] l’acquéreur lorsque l’intérêt supérieur de la Confédération le commande; la surface ne doit cependant pas être supérieure à ce qu’exige l’affectation de l’immeuble;
 - i.[^7-5] les personnes physiques qui acquièrent un logement à la suite de la liquidation d’une personne morale dont le but réel est l’acquisition d’immeubles et qui a été fondée avant le 1<sup>er</sup> février 1974, si elles ont acquis, conformément aux dispositions légales qui étaient alors en vigueur, des parts de la personne morale qui correspondent à ce logement;
-- j.[^7-6] les ressortissants des Etats membres de la Communauté européenne ou de l’Association européenne de libre-échange qui, en tant que frontaliers, acquièrent une résidence secondaire dans la région de leur lieu de travail.
+- j.[^7-6]
+
+  les ressortissants suivants qui, en tant que frontaliers, acquièrent une résidence secondaire dans la région de leur lieu de travail:
+
+  - 1\. les ressortissants des États membres de l’Union européenne ou de l’Association européenne de libre-échange,
+  - 2\. les ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique l’art. 22, ch. 3, de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes[^7-7].
 
 [^7-1]: Nouvelle teneur selon le ch. I de la LF du 30 avril 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^7-2]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^7-2]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^7-3]: Nouvelle teneur selon le ch. I de la LF du 8 oct. 2004, en vigueur depuis le 1<sup>er</sup> avril 2005 ([RO 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3900](https://fedlex.data.admin.ch/eli/fga/2003/674)).
-[^7-4]: Nouvelle teneur selon le ch. II 3 de la LF du 22 juin 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^7-4]: Nouvelle teneur selon le ch. II 3 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Introduite par le ch. I de la LF du 30 avril 1997, en vigueur depuis le 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^7-6]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses Etats membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. I 2 de la LF du 14 déc. 2001 relative aux disp. concernant la libre circulation des personnes de l’Ac. du 21 juin 2001 amendant la Conv. du 4 janv. 1960 instituant l’AELE, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^7-6]: Introduite par le ch. I 2 de la LF du 8 oct. 1999 sur l’Ac. entre d’une part, la Suisse et, d’autre part, la CE et ses États membres sur la libre circulation des personnes ([RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon l’annexe ch. 1 de l’AF du 25 sept. 2020 portant approbation et mise en œuvre de l’Ac. entre la Suisse et le Royaume-Uni relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’UE et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059); [FF 2020 1041](https://fedlex.data.admin.ch/eli/fga/2020/228)
 
 #### Art. 7a
 
 **Bénéficiaires institutionnels de privilèges, d’immunités et de facilités**[^7a-1]
 
-L’acquisition d’un immeuble effectuée à des fins officielles par des bénéficiaires institutionnels de privilèges, d’immunités et de facilités visés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’Etat hôte[^7a-2] est régie exclusivement par le chapitre 3 de la loi précitée.
+L’acquisition d’un immeuble effectuée à des fins officielles par des bénéficiaires institutionnels de privilèges, d’immunités et de facilités visés à l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte[^7a-2] est régie exclusivement par le chapitre 3 de la loi précitée.
 
-[^7a-1]: Introduit par le ch. II 3 de la LF du 22 juin 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^7a-1]: Introduit par le ch. II 3 de la LF du 22 juin 2007 sur l’État hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 ## Chapitre 3 Motifs d’autorisation et de refus
@@ -276,7 +290,7 @@ L’autorisation d’acquérir est refusée en tout état de cause, lorsque:
 - e.[^12-2] …
 - f. l’acquisition est contraire aux intérêts supérieurs du pays.
 
-[^12-1]: Nouvelle teneur selon le ch. 10 de l’annexe à la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^12-1]: Nouvelle teneur selon l’annexe ch. 10 de la LF du 18 juin 2004 sur le partenariat, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1192](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^12-2]: Abrogée par le ch. I de la LF du 30 avril 1997, avec effet au 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 13
@@ -305,7 +319,7 @@ Les cantons peuvent soumettre, par la voie législative, l’acquisition de loge
 
 <sup>3</sup> Les charges doivent être mentionnées dans le registre foncier.
 
-<sup>4</sup> A la demande de l’acquéreur, elles peuvent être révoquées pour des motifs impérieux.
+<sup>4</sup> À la demande de l’acquéreur, elles peuvent être révoquées pour des motifs impérieux.
 
 <sup>5</sup> Lorsque le non-assujettissement au régime de l’autorisation est constaté pour le motif que des personnes à l’étranger n’ont pas une position dominante, la décision doit être assortie d’une charge obligeant l’acquéreur à requérir une nouvelle décision de constatation avant chaque modification de la situation qui pourrait justifier l’assujettissement.
 
@@ -344,7 +358,7 @@ Après avoir consulté le gouvernement cantonal intéressé, le Conseil fédéra
 
 <sup>4</sup> Sont compétents dans les autres cas, le Département fédéral de justice et police et, pour autant que la présente loi le prévoit, l’Office fédéral de la justice.
 
-[^16-1]: Abrogé par le ch. II 3 de la LF du 22 juin 2007 sur l’Etat hôte, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^16-1]: Abrogé par le ch. II 3 de la LF du 22 juin 2007 sur l’État hôte, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7603](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^16-2]: Abrogé par le ch. I de la LF du 30 avril 1997, avec effet au 1<sup>er</sup> oct. 1997 ([RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1115](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 17
@@ -417,7 +431,7 @@ Ont qualité pour recourir:
 
 <sup>2</sup> Les parties et les autorités habilitées à recourir devant l’autorité cantonale de recours ont également qualité pour recourir devant les autorités fédérales.
 
-[^21-1]: Nouvelle teneur selon le ch. 17 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-1]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 22
 
@@ -431,7 +445,7 @@ Ont qualité pour recourir:
 
 <sup>4</sup> L’autorité peut statuer au détriment de l’acquéreur lorsqu’une personne tenue de fournir des renseignements refuse de prêter le concours nécessaire qu’on peut attendre d’elle.
 
-[^22-1]: Nouvelle teneur selon le ch. 17 de l’annexe à la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^22-1]: Nouvelle teneur selon l’annexe ch. 17 de la LF du 17 juin 2005 sur le TAF, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 4000](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 23
 
@@ -520,7 +534,7 @@ Les deux actions doivent être intentées:
 
 <sup>5</sup> L’art. 975, al. 2, du code civil est applicable en matière de protection des droits réels acquis de bonne foi et de dommages-intérêts.
 
-[^27-1]: Nouvelle teneur selon le ch. 4 de l’annexe à la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
+[^27-1]: Nouvelle teneur selon l’annexe ch. 4 de la LF du 24 mars 2000 sur les fors, en vigueur depuis le 1<sup>er</sup> janv. 2001 ([RO 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2591).
 [^27-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### Section 3 Droit pénal
@@ -696,3 +710,13 @@ Les dispositions finales de la modification du 30 avril 1997[^chap6-lvlu7-2] son
 [^chap6-lvlu8-1]: [RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)
 
 La présente modification s’applique aussi aux actes juridiques qui ont été conclus avant son entrée en vigueur, mais qui n’ont pas encore été exécutés ou n’ont pas encore fait l’objet d’une décision entrée en force.
+
+## Disposition finale relative à la modification du 25 septembre 2020****
+
+[^u1-1]
+
+[^u1-1]: [RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 989](https://fedlex.data.admin.ch/eli/fga/2020/226)
+
+Les dispositions finales de la modification du 30 avril 1997[^u1-2] sont applicables par analogie à la modification du 25 septembre 2020.
+
+[^u1-2]: [RO 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)

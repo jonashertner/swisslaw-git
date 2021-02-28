@@ -4,11 +4,11 @@ title: "Legge federale del 16 dicembre 1983 sull'acquisto di fondi da parte di p
 short: LAFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148"
 language: it
-version: 2013-03-01
+version: 2021-03-01
 adopted: 1983-12-16
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20130301/it/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20130301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20130301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1148_1148_1148/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1984-1148_1148_1148-20210301-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,18 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1148_1148_1148/20130301/it"
 
 (LAFE)
 
-del 16 dicembre 1983 (Stato 1° marzo 2013)
+del 16 dicembre 1983 (Stato 1° marzo 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti la competenza della Confederazione in materia di affari esteri[^ingress-1] nonché gli articoli 64 e 64<sup>bis</sup> della Costituzione federale[^ingress-2] (Cost.);[^ingress-3] visto il messaggio del Consiglio federale del 16 settembre 1981[^ingress-4],
+visti gli articoli 54 capoverso 1, 122 capoverso 1 e 123 capoverso 1 della Costituzione federale (Cost.)[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 16 settembre 1981[^ingress-3],
 
 decreta:
 
-[^ingress-1]: Questa attribuzione di competenze corrisponde all’art. 54 cpv. 1 della Cost. del 18 apr. 1999 ([RU 1999 2556](https://fedlex.data.admin.ch/eli/oc/1999/404)).
-[^ingress-2]: [CS **1** 3]. A queste disp. corrispondono ora gli art. 122 e 123 della Cost. del 18 apr. 1999 ([RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)).
-[^ingress-3]: Nuovo testo giusta il n. 4 dell’all. alla L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
-[^ingress-4]: [FF 1981 III 521](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-2]: Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^ingress-3]: [FF 1981 III 521](https://fedlex.data.admin.ch/eli/fga/1981/3_585_553_521)
 
 ## Capitolo 1: Scopo e principi
 
@@ -87,7 +86,7 @@ L’acquisto non necessita di autorizzazione se:
 <sup>2</sup> È considerato acquisto di un fondo anche il mantenimento di diritti su un fondo che non può essere acquistato senza autorizzazione giusta l’articolo 2 capoverso 2 lettera a da parte di una persona giuridica o di una società senza personalità giuridica ma con capacità patrimoniale che trasferisce all’estero la sede statutaria o effettiva.[^4-7]
 
 [^4-1]: Nuovo testo giusta il n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^4-2]: Nuovo testo giusta il n. 1 dell’all. alla LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^4-2]: Nuovo testo giusta l’all. n. 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^4-3]: Introdotta dal n. III 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 [^4-4]: Abrogata dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 [^4-5]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3753](https://fedlex.data.admin.ch/eli/fga/2003/674)).
@@ -102,18 +101,25 @@ L’acquisto non necessita di autorizzazione se:
 
 Sono considerate persone all’estero:
 
-- a.[^5-1] i cittadini degli Stati membri della Comunità europea o dell’Associazione europea di libero scambio che non hanno il domicilio legale ed effettivo in Svizzera;
-- a.<sup>bis</sup>[^5-2] i cittadini di altri Stati esteri che non hanno il diritto di stabilirsi in Svizzera;
+- a.[^5-1]
+
+  i cittadini seguenti che non hanno il domicilio legale ed effettivo in Svizzera:
+
+  - 1\. i cittadini degli Stati membri dell’Unione europea o dell’Associazione europea di libero scambio,
+  - 2\. i cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord ai quali si applica l’articolo 22 numero 2 dell’Accordo del 25 febbraio 2019[^5-2] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone;
+
+- a.<sup>bis</sup>[^5-3] i cittadini di altri Stati esteri che non hanno il diritto di stabilirsi in Svizzera;
 - b. le persone giuridiche o le società senza personalità giuridica ma con capacità patrimoniale, che hanno la sede statutaria o effettiva all’estero;
 - c. le persone giuridiche o le società senza personalità giuridica ma con capacità patrimoniale, che hanno la sede statutaria e effettiva in Svizzera e nelle quali persone all’estero occupano una posizione preponderante;
-- d.[^5-3] le persone fisiche e giuridiche nonché le società senza personalità giuridica ma con capacità patrimoniale, che non sono persone all’estero secondo le lettere a, a<sup>bis</sup> e c, qualora acquistino un fondo per conto di persone all’estero.
+- d.[^5-4] le persone fisiche e giuridiche nonché le società senza personalità giuridica ma con capacità patrimoniale, che non sono persone all’estero secondo le lettere a, a<sup>bis</sup> e c, qualora acquistino un fondo per conto di persone all’estero.
 
-<sup>2</sup> ...[^5-4]
+<sup>2</sup> ...[^5-5]
 
-[^5-1]: Nuovo testo giusta il n. I 2 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^5-2]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^5-3]: Nuovo testo giusta il n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
-[^5-4]: Abrogato dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
+[^5-1]: Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 (RU **2****021** 85; [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^5-2]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^5-3]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^5-4]: Nuovo testo giusta il n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)).
+[^5-5]: Abrogato dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 6
 
@@ -148,9 +154,9 @@ La posizione preponderante di persone all’estero in una SICAV immobiliare è p
 - b. costituiscono la maggioranza del consiglio di amministrazione;
 - c. mettono a disposizione mezzi finanziari rimborsabili che superano la metà della differenza tra gli attivi del capitale azionario degli investitori della SICAV immobiliare e i suoi debiti nei confronti di persone non sottostanti all’obbligo di autorizzazione.[^6-3]
 
-[^6-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3753](https://fedlex.data.admin.ch/eli/fga/2003/674)).
-[^6-2]: Introdotto dal n. 1 dell’all. alla LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
-[^6-3]: Introdotto dal n. 1 dell’all. alla LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^6-1]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); FF **200****3** 3753).
+[^6-2]: Introdotto dall’all. n. 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
+[^6-3]: Introdotto dall’all. n. 1 della LF del 28 set. 2012, in vigore dal 1° mar. 2013 ([RU 2013 585](https://fedlex.data.admin.ch/eli/oc/2013/116); [FF 2012 3229](https://fedlex.data.admin.ch/eli/fga/2012/495)).
 
 #### Art. 7
 
@@ -167,14 +173,20 @@ Non sottostanno all’obbligo dell’autorizzazione:
 - g. l’acquirente di superficie esigue in seguito a una rettificazione di confine oppure, qualora trattisi di proprietà per piani, in seguito a un aumento della quota di valore;
 - h.[^7-4] l’acquirente, se lo esige l’interesse superiore della Confederazione; la superficie non può però essere superiore a quanto è necessario per lo scopo dell’utilizzazione del fondo;
 - i.[^7-5] le persone fisiche che acquistano un’abitazione in seguito alla liquidazione di una persona giuridica costituita prima del 1° febbraio 1974 e il cui scopo effettivo è l’acquisto di fondi, qualora esse abbiano acquistato conformemente alle disposizioni allora in vigore, in misura corrispondente, quote di tale persona giuridica;
-- j.[^7-6] i cittadini degli Stati membri della Comunità europea o dell’Associazione europea di libero scambio che, come frontalieri, acquistano un’abitazione secondaria nella regione del loro luogo di lavoro.
+- j.[^7-6]
+
+  i cittadini seguenti che, come frontalieri, acquistano un’abitazione secondaria nella regione del loro luogo di lavoro:
+
+  - 1\. i cittadini degli Stati membri dell’Unione europea o dell’Associazione europea di libero scambio,
+  - 2\. i cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord ai quali si applica l’articolo 22 numero 3 dell’Accordo del 25 febbraio 2019[^7-7] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione
 
 [^7-1]: Nuovo testo giusta il n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^7-2]: Nuovo testo giusta il n. 10 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^7-2]: Nuovo testo giusta l’all. n. 10 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^7-3]: Nuovo testo giusta il n. I della LF dell’8 ott. 2004, in vigore dal 1° apr. 2005 ([RU 2005 1337](https://fedlex.data.admin.ch/eli/oc/2005/204); [FF 2003 3753](https://fedlex.data.admin.ch/eli/fga/2003/674)).
-[^7-4]: Nuovo testo giusta il n. II 3 dell’all. alla LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^7-4]: Nuovo testo giusta l’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7-5]: Introdotta dal n. I della LF del 30 apr. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
-[^7-6]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I 2 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^7-6]: Introdotta dal n. I 2 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone, in vigore dal 1° giu. 2002 ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta l’all. n. 1 del DF del 25 set. 2020 che approva e traspone nel diritto svizzero l’Accordo tra la Svizzera e il Regno Unito sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone, in vigore dal 1° mar. 2021 ([RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)).
+[^7-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 
 #### Art. 7a
 
@@ -182,7 +194,7 @@ Non sottostanno all’obbligo dell’autorizzazione:
 
 L’acquisto di un fondo effettuato per scopi ufficiali da beneficiari istituzionali di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 1 della legge del 22 giugno 2007[^7a-2] sullo Stato ospite è disciplinato esclusivamente dal capitolo 3 della legge sullo Stato ospite.
 
-[^7a-1]: Introdotto n. II 3 dell’all. alla LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^7a-1]: Introdotto l’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^7a-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 ## Capitolo 3: Motivi per la concessione e il diniego dell’autorizzazione
@@ -276,7 +288,7 @@ L’autorizzazione è negata in ogni caso se:
 - e.[^12-2] ...
 - f. l’acquisto contrasta con interessi superiori dello Stato.
 
-[^12-1]: Nuovo testo giusta il n. 10 dell’all. alla L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^12-1]: Nuovo testo giusta l’all. n. 10 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
 [^12-2]: Abrogata dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 13
@@ -344,7 +356,7 @@ Il Consiglio federale, sentito il governo cantonale interessato, accerta se:
 
 <sup>4</sup> Negli altri casi la competenza spetta al Dipartimento federale di giustizia e polizia e, nella misura in cui la presente legge lo preveda, all’Ufficio federale di giustizia.
 
-[^16-1]: Abrogato dal n. II 3 dell’all. alla LF del 22 giu. 2007 sullo Stato ospite, con effetto dal 1° gen. 2008 ([RU 2007 6637](https://fedlex.data.admin.ch/eli/oc/2007/860); [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
+[^16-1]: Abrogato dall’all. n. II 3 della LF del 22 giu. 2007 sullo Stato ospite, con effetto dal 1° gen. 2008 (RU **20****07** 6637; [FF 2006 7359](https://fedlex.data.admin.ch/eli/fga/2006/1012)).
 [^16-2]: Abrogato dal n. I della LF del 30 apr. 1997, con effetto dal 1° ott. 1997 ([RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086); [FF 1997 II 1022](https://fedlex.data.admin.ch/eli/fga/1997/2_1221_1115_1022)).
 
 #### Art. 17
@@ -417,7 +429,7 @@ Il diritto di ricorso spetta:
 
 <sup>2</sup> Le parti e le autorità legittimate a ricorrere all’autorità cantonale di ricorso possono parimente interporre ricorso alle autorità federali.
 
-[^21-1]: Nuovo testo giusta il n. 17 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2006 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^21-1]: Nuovo testo giusta l’all. n. 17 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2006 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 22
 
@@ -431,7 +443,7 @@ Il diritto di ricorso spetta:
 
 <sup>4</sup> L’autorità può decidere a svantaggio dell’acquirente, se un assoggettato all’obbligo d’informare nega la cooperazione indispensabile che si può ragionevolmente pretendere da lui.
 
-[^22-1]: Nuovo testo giusta il n. 17 dell’all. alla L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2006 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
+[^22-1]: Nuovo testo giusta l’all. n. 17 della L del 17 giu. 2005 sul Tribunale amministrativo federale, in vigore dal 1° gen. 2006 ([RU 2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)[1069](https://fedlex.data.admin.ch/eli/oc/2006/188); [FF 2001 3764](https://fedlex.data.admin.ch/eli/fga/2001/731)).
 
 #### Art. 23
 
@@ -520,7 +532,7 @@ Le due azioni devono essere promosse:
 
 <sup>5</sup> L’articolo 975 capoverso 2 del Codice civile svizzero è applicabile alla protezione dei diritti reali acquisiti in buona fede e all’obbligo di risarcimento.
 
-[^27-1]: Nuovo testo giusta il n. 4 dell’all. alla L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
+[^27-1]: Nuovo testo giusta l’all. n. 4 della L del 24 mar. 2000 sul foro, in vigore dal 1° gen. 2001 ([RU 2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374); FF **1999** 2427).
 [^27-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 ### Sezione 3: Diritto penale
@@ -616,7 +628,7 @@ Alle infrazioni commesse nella gestione dell’azienda sono applicabili per anal
 
 <sup>3</sup> ...[^35-1]
 
-[^35-1]: Abrogato dal n. II 6 dell’all. 1 al codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^35-1]: Abrogato dall’all. 1 n. II 6 del Codice di procedura penale del 5 ott. 2007, con effetto dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 ## Capitolo 6: Disposizioni finali
 
@@ -699,6 +711,15 @@ Le disposizioni finali della modifica del 30 aprile 1997[^u2-2] sono applicabili
 
 La presente modifica è applicabile ai negozi giuridici conclusi prima della sua entrata in vigore, ma che non sono ancora stati eseguiti o non sono ancora stati oggetto di una decisione passata in giudicato.
 
-Data dell’entrata in vigore: 1° gennaio 1985[^u3-2]
+## Disposizione finale della modifica del 25 settembre 2020****
 
-[^u3-2]: DCF del 27 mar. 1984.
+[^u4-1]
+
+[^u4-1]: [RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85); [FF 2020 915](https://fedlex.data.admin.ch/eli/fga/2020/226)
+
+Le disposizioni finali della modifica del 30 aprile 1997[^u4-2] si applicano per analogia alla modifica del 25 settembre 2020.
+
+Data dell’entrata in vigore: 1° gennaio 1985[^u4-3]
+
+[^u4-2]: [RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
+[^u4-3]: DCF del 27 mar. 1984.
