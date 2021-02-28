@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: "Arrêté concernant l'estivage 2020"
+title: "Arrêté concernant l'estivage 2021"
 language: fr
-version: 2020-03-01
-valid_until: 2021-02-28
-version_adopted: 2020-03-25
+version: 2021-03-01
+valid_until: 2022-02-28
+version_adopted: 2021-03-17
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/fr/versions/2639/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2870/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Arrêté concernant l'estivage 2020
+# Arrêté concernant l'estivage 2021
 
-du 25.03.2020 (état 01.03.2020)
+du 17.03.2021 (état 01.03.2021)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -62,9 +62,11 @@ arrête:
 - c) la quantité exprimée en unités de confection;
 - d) le fournisseur ou la personne qui reprend les médicaments.
 
-<sup>7</sup> Les prescriptions en matière de protection des animaux, notamment celles qui concernent le transport et la détention, sont également applicables à l'estivage.
+<sup>7</sup> Les utilisations et la remise d’antibiotiques doivent être notifiées au SI ABV. En cas de traitements, il faut indiquer le numéro BDTA de l’unité d’élevage où séjourne effectivement l’animal lors du traitement. En cas de remise à titre de stocks, il faut indiquer le numéro BDTA de l’unité d’élevage qui a acquis les MédV.
 
-<sup>8</sup> L'application de médicaments vétérinaires à distance (au moyen de sarbacanes ou de fusils anesthésiants) est interdite. Exceptions: l'administration de tranquillisants au moyen de sarbacane ou de fusils anesthésiants.
+<sup>8</sup> Les prescriptions en matière de protection des animaux, notamment celles qui concernent le transport et la détention, sont également applicables à l'estivage.
+
+<sup>9</sup> L'application de médicaments vétérinaires à distance (au moyen de sarbacanes ou de fusils anesthésiants) est interdite. Exceptions: l'administration de tranquillisants au moyen de sarbacane ou de fusils anesthésiants.
 
 #### Art. 2
 
@@ -138,7 +140,7 @@ arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Par pacage frontalier, on entend, par définition, l’action de mener au pâturage du bétail bovin vers une zone frontalière limitée à dix kilomètres d’un côté et de l’autre de la frontière entre un Etat membre de l'UE et la Suisse. Cependant, les autorités compétentes concernées peuvent exceptionnellement autoriser une profondeur plus grande de part et d’autre de la frontière entre la Suisse et l’UE.
+<sup>1</sup> Par pacage frontalier, on entend, par définition, l’action de mener au pâturage du bétail bovin vers une zone frontalière limitée à 10 kilomètres d’un côté et de l’autre de la frontière entre un Etat membre de l'UE et la Suisse. Cependant, les autorités compétentes concernées peuvent exceptionnellement autoriser une profondeur plus grande de part et d’autre de la frontière entre la Suisse et l’UE.
 
 #### Art. 11
 
@@ -152,7 +154,7 @@ arrête:
 
 - a) la confirmation officielle que l’exploitation de provenance des animaux qu’il est prévu d’estiver ne fait l’objet d’aucune interdiction ou limitation liée à une épizootie bovine;
 - b) la confirmation officielle que le troupeau de provenance est reconnu officiellement indemne de leucose, de tuberculose et de brucellose;
-- c) au cours des trente derniers jours, les bovins qu'il est prévu d'estiver ont séjourné dans l'exploitation de provenance et ils n'ont pas eu de contact avec des animaux importés;
+- c) au cours des 30 derniers jours, les bovins qu'il est prévu d'estiver ont séjourné dans l'exploitation de provenance et ils n'ont pas eu de contact avec des animaux importés;
 - d) nombre d’animaux de l’espèce bovine et identification des animaux (marque auriculaire);
 - e) numéro d’agrément du transporteur (si la distance de transport est supérieure à 50km);
 - f) adresse de l’exploitation de destination, y compris code d’enregistrement du pâturage; en cas de pacage frontalier en Allemagne, cette rubrique ne doit pas être remplie.
@@ -179,7 +181,7 @@ arrête:
 
 <sup>2</sup> Les autorités vétérinaires compétentes procèdent sans tarder à un contrôle vétérinaire officiel des animaux au lieu de destination. Le détenteur d'animaux doit annoncer à temps, à l'autorité vétérinaire étrangère, l'arrivée des animaux sur le lieu de pacage.
 
-<sup>3</sup> Selon la décision 2001/672 CE, les animaux doivent être enregistrés dans la banque de données nationale sur les mouvements d’animaux du pays destination au plus tard sept jours après la date de montée à l'alpage.
+<sup>3</sup> Selon la décision 2001/672 CE, les animaux doivent être enregistrés dans la banque de données nationale sur les mouvements d’animaux du pays destination au plus tard 7 jours après la date de montée à l'alpage.
 
 <sup>4</sup> Le vétérinaire officiel de l'exploitation d'estivage procède à l’examen des animaux dans les 48 heures avant leur départ et établit un certificat sanitaire pour le retour des animaux du pacage frontalier. A cette fin, il utilisera, pour les bovins, le certificat sanitaire pour l'estivage reproduit dans le système TRACES. Le détenteur suisse des animaux doit demander le certificat requis et annoncer à temps à l'autorité étrangère la date du retour des animaux en Suisse. Le certificat sanitaire pour le retour des bovins du pacage frontalier doit comporter les données suivantes:
 
@@ -207,6 +209,8 @@ arrête:
 <sup>4</sup> L'OSAV ne prévoit aucune mesure de surveillance vétérinaire officielle après le retour de l'estivage, sous réserve des mesures temporaires à prendre en raison de foyers d'épizooties. Dans des cas fondés, le vétérinaire cantonal peut toutefois exiger des examens à l'égard de l'IBR ou à l'égard d'autres maladies.
 
 <sup>5</sup> Mesures spéciales applicables au pacage transfrontalier dans les pays où des zones ont été délimitées pour cause de la maladie de la langue bleue: tous les animaux qui n’ont pas été vaccinés contre la maladie de la langue bleue avant le départ pour l’estivage doivent faire l’objet d’une analyse sanguine de dépistage du virus de la maladie de la langue bleue.
+
+<sup>6</sup> Mesures spéciales applicables au pacage transfrontalier dans le Vorarlberg (Autriche) : tous les bovins doivent faire l’objet d’un dépistage de la tuberculose bovine au moyen du test cutané à la tuberculine. Le test de dépistage est effectué au plus tôt 8 semaines après le retour des animaux en Suisse. Les bovins sont frappés d’une interdiction de déplacement jusqu’à ce que les résultats des tests de dépistage soient connus.
 
 #### Art. 14
 
@@ -268,7 +272,7 @@ arrête:
 
 <sup>5</sup> Les vaches, qui n’ont pas eu de gestation complète en 24 mois, ainsi que les génisses âgées de quatre ans et plus, sont exclues d’un alpage commun.
 
-<sup>6</sup> Pour une vache une durée de gestation de 283 +/- 21 jours peut être considérée comme normale. Un vêlage avant terme, (gestation de moins de 262 jours) et dont le veau survit c'est à dire qu'il atteint l'âge de dix jours au moins, peut être considéré comme un vêlage normal. Une attestation vétérinaire est alors exigée.
+<sup>6</sup> Pour une vache une durée de gestation de 283 +/- 21 jours peut être considérée comme normale. Un vêlage avant terme, (gestation de moins de 262 jours) et dont le veau survit c'est à dire qu'il atteint l'âge de 10 jours au moins, peut être considéré comme un vêlage normal. Une attestation vétérinaire est alors exigée.
 
 <sup>7</sup> Au cours de l’estivage, les procureurs ou directeurs d’alpages sont compétents pour faire désalper une bête qui rentrerait dans l’une des catégories mentionnées ci-dessus.
 
@@ -348,7 +352,7 @@ arrête:
 
 <sup>1</sup> Assurer l’exécution de la législation sur l’ordonnance réglant l’hygiène dans la production laitière dans toute zone aménagée pour ces infrastructures et de garantir la protection des eaux.
 
-<sup>2</sup> Les zones d'estivage concernées sont toutes celles qui utilisent les traites mobiles stationnant au moins sept jours de suite sur la même place.
+<sup>2</sup> Les zones d'estivage concernées sont toutes celles qui utilisent les traites mobiles stationnant au moins 7 jours de suite sur la même place.
 
 #### Art. 27
 
@@ -356,7 +360,7 @@ arrête:
 
 <sup>1</sup> Une place de traite mobile comprend deux zones:
 
-- a) l’aire de traite qui est la surface comprenant la place occupée par l’installation de traite mobile et la surface s’étendant jusqu’à une distance de trois mètres sur tout le pourtour depuis le bord extérieur de l’installation de traite mobile;
+- a) l’aire de traite qui est la surface comprenant la place occupée par l’installation de traite mobile et la surface s’étendant jusqu’à une distance de 3 mètres sur tout le pourtour depuis le bord extérieur de l’installation de traite mobile;
 - b) l’aire d’attente qui est attenante à l’aire de traite et où se tiennent les vaches en attendant leur tour pour la traite.
 
 #### Art. 28
@@ -406,4 +410,4 @@ arrête:
 
 <sup>3</sup> Le vétérinaire cantonal de même que le chimiste cantonal (section 7) sont chargés de l’exécution des présentes prescriptions. Ils sont autorisés à prendre d’urgence les mesures qu’ils jugeront utiles en vue de l'exécution du présent arrêté.
 
-RCV RO/AGS 2020-035
+RCV RO/AGS 2021-032

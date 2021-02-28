@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "916.500"
-title: Beschluss betreffend die Sömmerung 2020
+title: Beschluss betreffend die Sömmerung 2021
 language: de
-version: 2020-03-01
-valid_until: 2021-02-28
-version_adopted: 2020-03-25
+version: 2021-03-01
+valid_until: 2022-02-28
+version_adopted: 2021-03-17
 adopted: 2026-04-01
 in_force: 2026-04-01
 url: "https://lex.vs.ch/app/de/texts_of_law/916.500"
-pdf: "https://lex.vs.ch/api/de/versions/2639/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2870/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss betreffend die Sömmerung 2020
+# Beschluss betreffend die Sömmerung 2021
 
-vom 25.03.2020 (Stand 01.03.2020)
+vom 17.03.2021 (Stand 01.03.2021)
 
 Der Staatsrat des Kantons Wallis
 
@@ -62,9 +62,11 @@ beschliesst:
 - c) die Menge in Konfektionseinheiten;
 - d) die Bezugsquelle, resp. die Person, welche die Arzneimittel zurücknimmt.
 
-<sup>7</sup> Die Tierschutzvorschriften namentlich zum Transport und zur Haltung gelten auch während der Sömmerung.
+<sup>7</sup> Anwendungen und Abgabe von Antibiotika sind gemäss ISABV-V zu melden. Bei Behandlungen ist die TVD-Nummer des tatsächlichen Tierstandortes des betreffenden Tieres bei der Behandlung anzugeben. Bei Abgabe auf Vorrat ist die TVD-Nummer des Tierstandortes anzugeben, die die TAM bezogen hat.
 
-<sup>8</sup> Die Fernapplikation von Tierarzneimitteln (mit Blasrohren oder "Narkosegewehren") ist verboten. Davon ausgenommen ist die Verabreichung von Beruhigungsmitteln mit Blasrohren oder "Narkosegewehren".
+<sup>8</sup> Die Tierschutzvorschriften namentlich zum Transport und zur Haltung gelten auch während der Sömmerung.
+
+<sup>9</sup> Die Fernapplikation von Tierarzneimitteln (mit Blasrohren oder "Narkosegewehren") ist verboten. Davon ausgenommen ist die Verabreichung von Beruhigungsmitteln mit Blasrohren oder "Narkosegewehren".
 
 #### Art. 2
 
@@ -163,7 +165,7 @@ beschliesst:
 
 <sup>7</sup> Die Tiere stehen während des gesamten Weideganges im Ausland unter zolltechnischer Kontrolle. Der Tierbesitzer hat sich beim Zoll über die entsprechenden Vorschriften und Abläufe zu orientieren.
 
-<sup>8</sup> Aufgrund der nachführten bilateralen Verträge erhebt der Schweizer Zoll keine "veterinärtechnischen“ Gebühren im Auftrag des BLV mehr.
+<sup>8</sup> Aufgrund der Anwendung der bilateralen Verträge erhebt der Schweizer Zoll keine veterinärtechnischen Gebühren im Auftrag des BLV mehr.
 
 <sup>9</sup> Besondere Massnahmen für den Grenzweidegang in Vorarlberg (Österreich): Die Kantone machen die Tierhalter auf das erhöhte Risiko einer Infektion mit boviner Tuberkulose aufmerksam.
 
@@ -177,7 +179,7 @@ beschliesst:
 
 <sup>2</sup> Die Tiere sind am Bestimmungsort von den zuständigen Veterinärbehörden unverzüglich amtstierärztlich zu kontrollieren. Der Tierhalter ist dafür verantwortlich, dass die ausländischen Behörden rechtzeitig über die Ankunft der Tiere informiert werden.
 
-<sup>3</sup> Die Tiere sind gemäss Entscheidung 2001/672/EG spätestens sieben Tage nach Datum des Auftriebs in die nationale Tierverkehrsdatenbank des Sömmerungslandes aufzunehmen.
+<sup>3</sup> Die Tiere sind gemäss Entscheidung 2001/672/EG spätestens 7 Tage nach Datum des Auftriebs in die nationale Tierverkehrsdatenbank des Sömmerungslandes aufzunehmen.
 
 <sup>4</sup> Vor der Rückkehr muss innerhalb von 48 Stunden vor der Abreise durch den amtlichen Tierarzt des Sömmerungsbetriebes eine Gesundheitsbescheinigung ausgestellt werden. Für Tiere der Rindergattung ist dafür das in TRACES abgebildete Sömmerungszeugnis zu verwenden. Die Einforderung des entsprechenden Zeugnisses obliegt dem Schweizerischen Tierhalter. Er ist dafür verantwortlich, die ausländischen Veterinärdienste rechtzeitig über die geplante Rückkehr zu informieren. Die Gesundheitsbescheinigung für die vom Grenzweidegang zurückkehrenden Rinder beinhaltet:
 
@@ -205,6 +207,8 @@ beschliesst:
 <sup>4</sup> Es gibt keine Vorschriften des BLV zur amtstierärztlichen Überwachung nach der Rückkehr von der Sömmerung, vorbehaltlich vorübergehender Massnahmen wegen Seuchenausbrüchen. Der/die Kantonstierarzt/-ärztin kann jedoch in begründeten Fällen IBR- oder andere Untersuchungen anordnen.
 
 <sup>5</sup> Besondere Massnahmen für den Grenzweidegang in Ländern mit Blauzungenzonen: Alle Tiere, die vor der Auffuhr zur Sömmerung nicht gegen die Blauzungenkrankheit geimpft wurden, müssen mittels Blutuntersuchung auf das Vorhandensein von Blauzungenvirus untersucht werden.
+
+<sup>6</sup> Besondere Massnahmen für den Grenzweidegang in Vorarlberg (Österreich): Alle Rinder werden einer Untersuchung auf bovine Tuberkulose mittels Hauttuberkulintest unterzogen. Die Untersuchung findet frühestens 8 Wochen nach der Rückkehr in die Schweiz statt. Die Rinder unterliegen bis zum Vorliegen des Untersuchungsresultates einer Verbringungssperre.
 
 #### Art. 14
 
@@ -266,7 +270,7 @@ beschliesst:
 
 <sup>5</sup> Kühe, die innerhalb von 24 Monaten keine vollständige Trächtigkeit gehabt haben sowie vierjährige und ältere Rinder werden von einer gemeinsamen Alpung ausgeschlossen.
 
-<sup>6</sup> Bei Kühen ist eine Trächtigkeitsdauer von 283 +/- 21 Tagen als normal zu betrachten. Ebenso zu beurteilen ist ein vorzeitiges Abkalben (Trächtigkeit von weniger als 262 Tage), wobei das Kalb während mindestens zehn Tagen überlebt. In diesem Fall ist eine tierärztliche Bestätigung erforderlich.
+<sup>6</sup> Bei Kühen ist eine Trächtigkeitsdauer von 283 +/- 21 Tagen als normal zu betrachten. Ebenso zu beurteilen ist ein vorzeitiges Abkalben (Trächtigkeit von weniger als 262 Tage), wobei das Kalb während mindestens 10 Tagen überlebt. In diesem Fall ist eine tierärztliche Bestätigung erforderlich.
 
 <sup>7</sup> Während der Sömmerungszeit sind die Alpvorstände und Alpvögte berechtigt, ein Tier, das in eine der beiden vorgenannten Kategorien eingereiht werden müsste, wegzubringen.
 
@@ -302,7 +306,7 @@ beschliesst:
 
 <sup>2</sup> Herdenschutzhunde unterstehen ausschliesslich den Bestimmungen des Bundesrechts, d.h. insbesondere den Richtlinien des BAFUs.
 
-<sup>3</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat, über ein Tier länger als worübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Herdenschutzhunde gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
+<sup>3</sup> Der Hundehalter im Sinne der Tierschutzgesetzgebung ist die Person, welche den Anspruch hat, über ein Tier länger als vorübergehend zu verfügen. Personen, die während mehreren Wochen die Verantwortung für ein Tier haben, gelten als Tierhalter. Für die Herdenschutzhunde gilt während der Sömmerung der Verantwortliche der Alpe als Hundehalter.
 
 <sup>4</sup> Die strategische Gruppe für Herdenschutz ist die zuständige kantonale Stelle, sie steht unter der Leitung des kantonalen Herdenschutzbeauftragten und besteht mindestens aus:
 
@@ -346,7 +350,7 @@ beschliesst:
 
 <sup>1</sup> Die Einhaltung der Gesetzgebung betreffend die Verordnung über die Hygiene bei der Milchproduktion in allen für diese Infrastrukturen eingerichteten Zonen gewährleisten und den Wasserschutz garantieren.
 
-<sup>2</sup> Betrifft diejenigen Sömmerungsgebiete, die mobile Melkstände benutzen, die an mindestens sieben aufeinanderfolgenden Tagen am gleichen Ort aufgestellt sind.
+<sup>2</sup> Betrifft diejenigen Sömmerungsgebiete, die mobile Melkstände benutzen, die an mindestens 7 aufeinanderfolgenden Tagen am gleichen Ort aufgestellt sind.
 
 #### Art. 27
 
@@ -354,7 +358,7 @@ beschliesst:
 
 <sup>1</sup> Ein Platz für einen mobilen Melkstand umfasst zwei Zonen:
 
-- a) der Melkplatz umfasst die Fläche des Platzes, auf dem die Melkanlage aufgestellt ist, plus die Fläche bis zum Abstand von drei Metern um die äussere Begrenzung des mobilen Melkstandes herum;
+- a) der Melkplatz umfasst die Fläche des Platzes, auf dem die Melkanlage aufgestellt ist, plus die Fläche bis zum Abstand von 3 Metern um die äussere Begrenzung des mobilen Melkstandes herum;
 - b) der Warteraum grenzt an den Melkplatz an und ist der Ort, an dem die Kühe vor dem Melken versammelt werden.
 
 #### Art. 28
@@ -404,4 +408,4 @@ beschliesst:
 
 <sup>3</sup> Der Kantonstierarzt sowie der Kantonschemiker (Abschnitt 7) sind mit der Ausführung der vorliegenden Vorschriften beauftragt. Sie sind ermächtigt, in Dringlichkeitsfällen, alle ihnen notwendig erscheinenden Massnahmen zur Ausführung dieses Beschlusses zu treffen.
 
-CSW RO/AGS 2020-035
+CSW RO/AGS 2021-032
