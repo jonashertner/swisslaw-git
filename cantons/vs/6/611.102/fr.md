@@ -4,39 +4,39 @@ number: "611.102"
 title: Ordonnance sur la gestion financière des communes
 short: OGFCo
 language: fr
-version: 2012-10-05
-corrected: 2017-09-13
-version_adopted: 2012-09-26
+version: 2021-03-01
+version_adopted: 2021-02-24
 adopted: 2021-02-24
 in_force: 2021-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/611.102"
-pdf: "https://lex.vs.ch/api/fr/versions/374/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/2858/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur la gestion financière des communes
 
-du 16 juin 2004
+(OGFCo)
+
+du 24.02.2021 (état 01.03.2021)
 
 Le Conseil d'Etat du canton du Valais
 
 vu l'article 57 alinéa 2 de la Constitution cantonale;
 
-vu les dispositions de la loi sur les communes du 5 février 2004, en particulier les articles 17 et 74 à 86;
+vu les dispositions de la loi sur les communes du 5 février 2004 (LCo), en particulier les articles 17 et 74 à 86;
 
-sur la proposition conjointe du département des finances, de l'agriculture et des affaires extérieures, ainsi que du département de l'économie, des institutions et de la sécurité,
+sur la proposition du département en charge des institutions,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
-<sup>2</sup> But
+**But**
 
-La présente ordonnance a pour but de compléter et de préciser les dispositions relatives à la gestion financière des communes figurant dans la loi sur les communes, ci-après LCo.
+<sup>1</sup> La présente ordonnance a pour but de compléter et de préciser les dispositions relatives à la gestion financière des communes figurant dans la loi sur les communes (ci-après: LCo).
 
 #### Art. 2
 
@@ -45,42 +45,31 @@ La présente ordonnance a pour but de compléter et de préciser les disposition
 <sup>1</sup> La présente ordonnance fixe les règles concernant:
 
 - a) les principes de la gestion financière;
-
 - b) les prescriptions relatives à la gestion financière et à la tenue des comptes;
-
 - c) les dépenses et les autorisations de dépenses;
-
 - d) l'organisation et le système de contrôle interne;
-
-- e) la révision des comptes; <sup>2</sup>
-
+- e) la révision des comptes;
 - f) la surveillance cantonale.
 
-<sup>2</sup> Elle s’applique aux communes municipales et aux communes bourgeoisiales (ci-après communes). <sup>2</sup>
+<sup>2</sup> Elle s’applique aux communes municipales et aux communes bourgeoisiales (ci-après: communes).
 
 #### Art. 3
 
 **Compétences**
 
-<sup>1</sup> Le département en charge de la surveillance financière des communes est le Département en charge des institutions, ci après Département. <sup>2</sup>
+<sup>1</sup> Le département en charge de la surveillance financière des communes est le département en charge des institutions (ci-après: département).
 
 <sup>2</sup> Le département peut édicter des instructions complémentaires à la présente ordonnance notamment en ce qui concerne:
 
 - a) les modèles de compte;
-
 - b) les consolidations comptables;
+- c) la révision du compte annuel.
 
-- c) la révision du compte annuel. <sup>2</sup>
-
-<sup>3</sup> Il est par ailleurs compétent pour autoriser:
-
-- a) des dérogations aux taux minimaux applicables aux amortissements;
-
-- b) d'autres dérogations aux prescriptions relatives à la gestion financière, dans la mesure où elles découlent de nouvelles formes de gestion administrative. <sup>2</sup>
+<sup>3</sup> Il est par ailleurs compétent pour autoriser les dérogations aux prescriptions relatives à la gestion financière, dans la mesure où elles découlent de nouvelles formes de gestion administrative.
 
 #### Art. 4
 
-<sup>2</sup> Directives
+**Directives**
 
 <sup>1</sup> Le service compétent peut exposer les principes de la gestion financière dans des directives.
 
@@ -90,121 +79,185 @@ La présente ordonnance a pour but de compléter et de préciser les disposition
 
 **Principes de la gestion financière**
 
-Les finances des communes sont gérées conformément aux principes:
+<sup>1</sup> Les finances des communes sont gérées conformément aux principes:
 
 - a) de la légalité;
-
-- b) de l'emploi économique et judicieux des fonds; <sup>2</sup>
-
-- c) de l'équilibre budgétaire à terme; <sup>2</sup>
-
-- d) du paiement par l'utilisateur. <sup>2</sup>
-
-- e) abrogé <sup>2</sup>
+- b) de l'équilibre budgétaire;
+- c) de l'emploi économe des fonds;
+- d) de l’urgence;
+- e) de la rentabilité;
+- f) de la causalité;
+- g) de l’indemnisation des avantages;
+- h) de la non-affectation des impôts généraux;
+- i) de la gestion axée sur les résultats;
+- j) du paiement par l'utilisateur;
+- k) de la transparence financière.
 
 #### Art. 6
 
 **Légalité**
 
-Les dépenses et les recettes nécessitent une base légale soit dans une loi, soit dans un règlement ou une décision acceptée par le législatif communal.
+<sup>1</sup> Chaque dépense doit se fonder sur une base légale (fédérale, cantonale ou communale), une décision du législatif communal ou une décision de justice.
 
 #### Art. 7
 
-<sup>2</sup> Emploi économique et judicieux des fonds
+**Equilibre budgétaire**
 
-<sup>1</sup> Les dépenses à engager doivent être nécessaires, supportables et effectuées selon un ordre prioritaire.
+<sup>1</sup> L'équilibre des charges et des revenus doit être maintenu à terme.
 
-<sup>2</sup> Chaque projet est choisi, compte tenu de l'objectif visé, sur la base de la variante économiquement la plus avantageuse.
+<sup>2</sup> Un excédent de charges ne peut être budgétisé que s'il est couvert par l’excédent du bilan.
 
 #### Art. 8
 
-<sup>2</sup>
+**Emploi économe des fonds**
 
-Abrogé
+<sup>1</sup> Les dépenses à engager doivent être nécessaires et supportables.
 
 #### Art. 9
 
-**Paiement par l'utilisateur**
+**Urgence**
 
-Le bénéficiaire d'une prestation particulière, telle que la fourniture d'un service, de marchandises, d'énergie ou d'avantages particuliers, doit en principe en supporter les frais raisonnablement exigibles.
+<sup>1</sup> Les dépenses doivent se faire par ordre d’urgence.
 
 #### Art. 10
 
-<sup>2</sup> Transparence financière lors de la prise de décision
+**Rentabilité**
 
-L'organe appelé à prendre une décision générant immédiatement ou ultérieurement des charges ou des revenus pour la commune doit être informé des coûts, des coûts induits, du financement et des répercussions sur l'équilibre des finances.
-
-### Chapitre 2: Prescriptions relatives à la gestion financière et à la
-
-tenue des comptes
-
-### Section 1: Principes
+<sup>1</sup> Pour chaque projet, la variante retenue doit garantir la solution la plus avantageuse sur le plan économique.
 
 #### Art. 11
 
-**Généralités**
+**Causalité**
 
-<sup>1</sup> Les principes de la comptabilité publique sont applicables, en particulier ceux reconnus par le modèle comptable harmonisé des collectivités publiques.
-
-<sup>2</sup> Les principes de la comptabilité commerciale généralement reconnus s'appliquent à titre subsidiaire.
+<sup>1</sup> Le bénéficiaire de prestations particulières et le responsable de coûts particuliers assument en règle générale les charges qui peuvent raisonnablement leur être attribuées. La situation sociale et économique des parties concernées est prise en compte dans la répercussion des coûts.
 
 #### Art. 12
 
-**Clarté et sincérité**
+**Indemnisation des avantages**
 
-Le compte annuel doit donner une situation claire, complète et véridique de la gestion financière, du patrimoine et des dettes.
+<sup>1</sup> La personne qui retire un avantage économique particulier d’un équipement public ou d’une mesure particulière peut être appelée à contributions. La législation ou une convention fixe les modalités et l'importance de la participation.
 
 #### Art. 13
 
-**Annualité**
+**Non-affectation des impôts généraux**
 
-Le budget et le compte annuels sont établis pour une année civile.
+<sup>1</sup> Il n'est pas permis de réserver une part fixe des impôts généraux pour couvrir des dépenses individuelles à l'aide de financements spéciaux ou pour amortir directement des dépenses déterminées.
 
 #### Art. 14
 
-**Universalité**
+**Gestion axée sur les résultats**
 
-Toutes les opérations financières et comptables doivent figurer dans la comptabilité.
+<sup>1</sup> Les décisions financières doivent être prises en fonction de leur efficacité. Des indicateurs devraient permettre de mesurer les effets d’une dépense, la réalisation des objectifs et le rapport coût/prestation.
 
 #### Art. 15
 
-**Produit brut**
+**Paiement par l'utilisateur**
 
-Les dépenses et les recettes, ainsi que les charges et revenus sont comptabilisés de manière brute. Elles ne peuvent être compensées.
+<sup>1</sup> Le bénéficiaire d'une prestation particulière, telle que la fourniture d'un service, de marchandises, d'énergie ou d'avantages particuliers, doit en principe en supporter les frais raisonnablement exigibles. La législation ou une convention fixe les modalités et l'importance de la participation.
 
 #### Art. 16
 
-**Echéance**
+**Transparence financière lors de la prise de décision**
 
-Les opérations doivent être comptabilisées au moment de l'origine effective des droits et des obligations.
+<sup>1</sup> L'organe appelé à prendre une décision générant immédiatement ou ultérieurement des charges ou des revenus pour la commune doit être informé des coûts, des coûts induits, du financement et des répercussions sur l'équilibre des finances.
+
+## 2 Prescriptions relatives à la gestion financière et à la tenue des comptes annuels
+
+### 2.1 Principes
 
 #### Art. 17
 
-**Spécialisation des crédits**
+**Généralités**
 
-<sup>1</sup> Un crédit budgétaire non utilisé est périmé à la fin de l'exercice.
+<sup>1</sup> Les principes de la comptabilité publique sont applicables, en particulier ceux reconnus par le manuel du modèle comptable harmonisé pour les cantons et les communes MCH2.
 
-<sup>2</sup> Les crédits budgétaires ne peuvent être utilisés à d'autres fins que celles prévues au budget.
-
-<sup>3</sup> Abrogé <sup>2</sup>
-
-### Section 2: Plan financier
+<sup>2</sup> Les principes de la comptabilité commerciale généralement reconnus s'appliquent à titre subsidiaire.
 
 #### Art. 18
 
-<sup>2</sup> Principes
+**Annualité**
 
-<sup>1</sup> Le Conseil communal établit, pour une durée de quatre ans au moins, un plan financier.
-
-<sup>2</sup> Ce plan financier donne une vue d'ensemble sur l'évolution prévisible des recettes et des dépenses courantes, des investissements, ainsi que de la fortune et de l'endettement.
-
-<sup>3</sup> Le plan financier est porté à la connaissance de l'assemblée primaire ou du conseil général en même temps que le budget.
-
-<sup>4</sup> Abrogé
+<sup>1</sup> Le budget et le compte sont établis pour une année civile.
 
 #### Art. 19
 
-<sup>2</sup> Compétence et contenu
+**Spécialité**
+
+<sup>1</sup> Les charges et revenus ainsi que les dépenses et recettes sont présentés par unité administrative, selon la classification par nature du plan comptable général et, lorsque cela paraît judicieux, par mesure et par affectation. Il est possible de déroger au principe de la spécialité pour le budget des unités administratives gérées par mandat de prestations et enveloppe budgétaire.
+
+#### Art. 20
+
+**Exhaustivité**
+
+<sup>1</sup> L'ensemble des charges et revenus attendus ainsi que des dépenses et recettes attendues doivent être inscrits dans le budget.
+
+#### Art. 21
+
+**Comparabilité**
+
+<sup>1</sup> Les comptes des communes doivent être comparables entre eux et au cours des années.
+
+#### Art. 22
+
+**Produit brut**
+
+<sup>1</sup> Les charges doivent être inscrites au budget séparément des revenus, les actifs séparément des passifs et les recettes d'investissement séparément des dépenses d'investissement, sans aucune compensation réciproque, chacun d'entre eux y figurant pour son montant intégral.
+
+#### Art. 23
+
+**Comptabilité d'exercice**
+
+<sup>1</sup> Toutes les charges et tous les revenus doivent être comptabilisés dans la période où ils sont occasionnés. Le bilan doit être établi en fonction de la date de clôture des comptes.
+
+#### Art. 24
+
+**Continuité**
+
+<sup>1</sup> La présentation des comptes doit tenir compte du principe de la continuité des activités de la collectivité publique.
+
+#### Art. 25
+
+**Importance**
+
+<sup>1</sup> Les comptes doivent présenter toutes les informations nécessaires permettant une appréciation rapide et complète de l’état de la fortune, des finances et des revenus.
+
+#### Art. 26
+
+**Clarté**
+
+<sup>1</sup> Les informations doivent être claires et compréhensibles.
+
+#### Art. 27
+
+**Fiabilité**
+
+<sup>1</sup> Les informations doivent refléter la réalité des faits et être fiables (exactitude). L'importance économique doit déterminer la présentation des comptes (perspective économique). Les informations doivent exclure l’arbitraire et être objectives (neutralité). La présentation doit être effectuée selon le principe de prudence. Il convient de ne pas omettre d’informations importantes (exhaustivité).
+
+#### Art. 28
+
+**Permanence**
+
+<sup>1</sup> Les principes régissant la présentation des comptes doivent dans toute la mesure du possible rester inchangés sur une longue période.
+
+#### Art. 29
+
+**Echéance**
+
+<sup>1</sup> Les opérations doivent être comptabilisées au moment de l'origine effective des droits et des obligations.
+
+### 2.2 Plan financier
+
+#### Art. 30
+
+**Principes**
+
+<sup>1</sup> Le Conseil communal établit, pour une durée de 4 ans au moins, un plan financier.
+
+<sup>2</sup> Le plan financier est porté à la connaissance de l'assemblée primaire ou du conseil général avant la présentation du budget.
+
+#### Art. 31
+
+**Compétence et contenu**
 
 <sup>1</sup> Le plan financier est traité et approuvé par le Conseil communal.
 
@@ -212,633 +265,620 @@ Les opérations doivent être comptabilisées au moment de l'origine effective d
 
 <sup>3</sup> Il informe notamment sur:
 
-- a) l'évolution probable des charges et des revenus de fonctionnement;
-
+- a) l'évolution probable des charges et des revenus du compte de résultats;
 - b) les dépenses et les recettes des investissements prévus, l'effet des investissements sur l'équilibre budgétaire, soit une estimation justifiant que les charges induites, y compris les amortissements comptables, seront supportables, ainsi que le mode de financement prévu des investissements;
+- c) l'évolution prévisible du capital propre et de l'endettement.
 
-- c) l'évolution prévisible de la fortune et de l'endettement.
+#### Art. 32
 
-#### Art. 20
-
-<sup>2</sup> Exception
+**Exception**
 
 <sup>1</sup> N’ont pas l’obligation d’établir un plan financier les communes dont:
 
-- a) le bilan ne comptabilise aucun découvert et;
-
-- b) le total du bilan est inférieur à deux millions de francs et;
-
-- c) les recettes brutes de fonctionnement (sans les imputations internes) sont inférieures à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos et;
-
-- d) aucun investissement relevant de la compétence du législatif communal n’est planifié dans les quatre prochaines années.
+- a) le bilan ne comptabilise aucun découvert, et
+- b) le total du bilan est inférieur à 2 millions de francs, et
+- c) les revenus bruts du compte de résultats (sans les imputations internes) sont inférieurs à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos, et
+- d) aucun investissement relevant de la compétence du législatif communal n'est planifié dans les 4 prochaines années.
 
 <sup>2</sup> Ces communes attestent dans le budget qu’elles remplissent les conditions ci-dessus.
 
-#### Art. 21
+#### Art. 33
 
 **Plan financier en cas de découvert du bilan**
 
-<sup>1</sup> En cas de découvert au bilan, la commune élabore un plan financier assorti de mesures d'assainissement au sens de l'article 81 de la loi sur les communes.
+<sup>1</sup> En cas de découvert au bilan, la commune élabore un plan financier assorti de mesures d'assainissement au sens de l'article 81 LCo.
 
-<sup>2</sup> Un plan financier assorti de mesures d'assainissement est réputé suffisant s'il indique les modalités et les mesures permettant d'amortir le découvert dans un délai maximum de quatre ans à compter de sa première inscription au bilan, et se fonde sur des hypothèses et des prévisions réalistes.
+<sup>2</sup> Un plan financier assorti de mesures d'assainissement est réputé suffisant s'il indique les modalités et les mesures permettant d'amortir le découvert du bilan dans un délai maximum de 4 ans à compter de sa première inscription au bilan, et s'il se fonde sur des hypothèses et des prévisions réalistes.
 
-<sup>3</sup> Le plan financier assorti de mesures d'assainissement doit être porté à la connaissance de l'assemblée primaire ou du Conseil général préalablement à l'adoption du budget puis au département. <sup>2</sup>
+<sup>3</sup> Le plan financier assorti de mesures d'assainissement doit être porté à la connaissance de l'assemblée primaire ou du Conseil général préalablement à l'adoption du budget puis au département.
 
-<sup>4</sup> Demeurent réservées les dispositions de l'article 159 de la loi sur les communes relatives au découvert existant à l'entrée en vigueur de la loi.
+### 2.3 Budget et équilibre budgétaire
 
-### Section 3: Budget et équilibre budgétaire
-
-#### Art. 22
+#### Art. 34
 
 **Définition et structure**
 
-<sup>1</sup> Le budget est établi pour le compte de fonctionnement et le compte des investissements.
+<sup>1</sup> Le budget est établi pour le compte de résultats et le compte des investissements.
 
-<sup>2</sup> La présentation est identique à celle du compte annuel et sa struc-ture est celle préconisée par le modèle comptable harmonisé (MCH). <sup>2</sup>
+<sup>2</sup> Sa présentation est identique à celle du compte annuel et sa structure est celle préconisée dans le manuel du modèle comptable harmonisé pour les cantons et les communes MCH2.
 
-#### Art. 23
+#### Art. 35
 
 **Etablissement et adoption**
 
 <sup>1</sup> Le budget est arrêté avant le début de l'exercice qu'il concerne.
 
-<sup>2</sup> Si ce n'est exceptionnellement pas possible, le Conseil communal informe le département de la procédure qu'il entend suivre. <sup>2</sup>
+<sup>2</sup> Si ce n'est exceptionnellement pas possible, le Conseil communal informe le département de la procédure qu'il entend suivre.
 
-<sup>3</sup> Demeurent réservées les dispositions des articles 7 alinéa 3 et 50 alinéa 2 de la loi sur les communes.
+<sup>3</sup> Demeurent réservés les articles 7 alinéa 3 et 50 alinéa 2 LCo.
 
-#### Art. 24
+#### Art. 36
 
 **Contenu minimum**
 
-Le budget comprend au moins:
+<sup>1</sup> Le budget comprend au moins:
 
-- a) le message introductif commentant le résultat du budget, l'évolution probable des engagements (fonds de tiers) et celle de la fortune nette, les principales modifications par rapport au budget précédent et au dernier compte annuel;
+- a) le message introductif commentant le résultat du budget, l'évolution probable des engagements (capitaux de tiers) et celle du capital propre, les principales modifications par rapport au budget précédent et au dernier compte annuel;
+- b) l'aperçu du budget du compte de résultats et du compte des investissements;
+- c) l’aperçu du budget du compte de résultats échelonnés;
+- d) un aperçu du budget du compte de résultats selon la classification fonctionnelle;
+- e) un aperçu du budget du compte de résultats selon la classification par nature;
+- f) un aperçu du budget du compte des investissements selon la classification fonctionnelle;
+- g) un aperçu du budget du compte des investissements selon la classification par nature;
+- h) le budget du compte de résultats et du compte des investissements détaillés.
 
-- b) l'aperçu du budget du compte de fonctionnement et du compte des investissements;
+#### Art. 37
 
-- c) le budget du compte de fonctionnement et du compte des investissements détaillés.
+**Exception**
 
-#### Art. 24bis
+<sup>1</sup> Les bourgeoisies sont mises au bénéfice d'exigences allégées en matière de présentation du budget. Elles sont dispensées:
 
-<sup>2</sup> Exception
+- a) de l'aperçu du budget du compte de résultats et du compte des investissements;
+- b) l’aperçu du budget du compte de résultats échelonnés;
+- c) de l'aperçu du budget du compte de résultats selon la classification fonctionnelle lorsque ce dernier ne porte que sur une fonction;
+- d) de l'aperçu du budget du compte des investissements selon la classification fonctionnelle.
 
-<sup>1</sup> N’ont pas l’obligation d’élaborer le message introductif les bourgeoisies dont:
+<sup>2</sup> N’ont pas l’obligation d’élaborer le message introductif les bourgeoisies dont:
 
-- a) le bilan ne comptabilise aucun découvert et;
+- a) le bilan ne comptabilise aucun découvert, et
+- b) le total du bilan est inférieur à 2 millions de francs, et
+- c) les revenus bruts du compte de résultats (sans les imputations internes) sont inférieurs à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos, et
+- d) aucun investissement relevant de la compétence du législatif communal n'est planifié dans les 4 prochaines années.
 
-- b) le total du bilan est inférieur à deux millions de francs et;
+<sup>3</sup> Ces bourgeoisies attestent dans le budget qu’elles remplissent les conditions ci-dessus.
 
-- c) les recettes brutes de fonctionnement (sans les imputations internes) sont inférieures à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos et;
-
-- d) aucun investissement relevant de la compétence du législatif communal n’est planifié dans les quatre prochaines années.
-
-<sup>2</sup> Ces bourgeoisies attestent dans le budget qu’elles remplissent les conditions ci-dessus.
-
-#### Art. 25
+#### Art. 38
 
 **Données comparatives**
 
-En regard des données du nouveau budget figurent les données du budget précédent et celles du dernier compte annuel.
+<sup>1</sup> En regard des données du nouveau budget figurent les données du budget précédent et celles du dernier compte annuel.
 
-#### Art. 26
+#### Art. 39
 
-<sup>2</sup> Défaut d’approbation du budget
+**Défaut d'approbation du budget**
 
-Si le budget n’est pas entré en force, la commune ne peut engager que les dépenses indispensables au fonctionnement de l’administration en particulier les dépenses liées.
+<sup>1</sup> Si le budget n’est pas entré en force, la commune ne peut engager que les dépenses liées et celles indispensables au fonctionnement de l’administration.
 
-#### Art. 27
+#### Art. 40
 
-**Equilibre**
-
-<sup>1</sup> Le budget est établi de manière à ce que les finances de la commune soient équilibrées.
-
-<sup>2</sup> Un excédent de charges ne peut être budgétisé que s'il est couvert par la fortune nette.
-
-#### Art. 28
-
-<sup>2</sup> Intervention du Conseil d'Etat
+**Intervention du Conseil d'Etat**
 
 <sup>1</sup> Si l'équilibre à terme des finances communales n'est pas respecté au sens des articles 80 et 81 LCo, le Conseil d'Etat nomme, aux frais de la commune et après l'avoir entendue, un préposé chargé d'établir un plan financier et de présenter des mesures d'assainissement.
 
 <sup>2</sup> Le Conseil d'Etat intervient et nomme un préposé:
 
 - a) lorsqu'une commune avec un découvert au bilan ne présente aucun plan financier assorti de mesures d'assainissement ou que le plan établi est insuffisant;
-
 - b) lorsqu'une commune avec un découvert au bilan a élaboré un plan financier assorti de mesures d'assainissement correctes, mais qu'elle prend des décisions contraires à l'objectif de l'assainissement.
 
-### Section 4: Comptes
+### 2.4 Comptes
 
-### Sous-section 1: Contenu et étendue
+### 2.4.1 Contenu et étendue
 
-#### Art. 29
+#### Art. 41
 
-**Modèle comptable harmonisé**
+**Modèle comptable harmonisé (MCH2)**
 
-<sup>1</sup> Le manuel de comptabilité publique, édité par la Conférence des directeurs cantonaux des finances, constitue la base du modèle comptable harmonisé dans la mesure où il n'est pas contraire au droit cantonal.
+<sup>1</sup> Le manuel modèle comptable harmonisé pour les cantons et les communes MCH2, édité par la Conférence des directrices et directeurs cantonaux des finances, constitue la base du modèle comptable harmonisé dans la mesure où il n'est pas contraire au droit cantonal.
 
-<sup>2</sup> Le schéma comptable, les modèles de présentation et les dispositions d'application édités par le département doivent être observés. <sup>2</sup>
+<sup>2</sup> Le schéma comptable, les modèles de présentation et les dispositions d'application édités par le département doivent être observés.
 
-#### Art. 30
+#### Art. 42
 
-**Compte annuel**
+**Comptes annuels**
 
-<sup>1</sup> Le compte annuel comprend le bilan et le compte administratif.
+<sup>1</sup> Les comptes annuels comprennent le bilan, le compte de résultats, le compte des investissements, le tableau de flux de trésorerie et l’annexe aux comptes.
 
-<sup>2</sup> Le compte annuel des communes contient, dans l'ordre défini ci-après, les positions suivantes:
+<sup>2</sup> Les comptes annuels contiennent, dans l'ordre défini ci-après, les positions suivantes:
 
-- a) le message introductif, y compris l'analyse du résultat et des indicateurs financiers;
+- a) le message introductif, y compris l'analyse du résultat et des indicateurs financiers suivants:
+  - 1\. le taux d'endettement net,
+  - 2\. le degré d’autofinancement,
+  - 3\. la part des charges d'intérêts,
+  - 4\. la dette brute par rapport aux revenus,
+  - 5\. la proportion des investissements,
+  - 6\. la part du service de la dette,
+  - 7\. la dette nette en francs par habitant,
+  - 8\. le taux d’autofinancement;
+- b) un aperçu des principaux éléments des comptes annuels à savoir:
+  - 1\. du compte de résultats et des investissements,
+  - 2\. du compte de résultats échelonnés,
+  - 3\. du bilan et du tableau de flux de trésorerie,
+  - 4\. du compte de résultats selon la classification fonctionnelle,
+  - 5\. du compte de résultats selon les natures,
+  - 6\. du compte des investissements la classification fonctionnelle,
+  - 7\. du compte des investissements selon les natures;
+- c) le tableau des crédits d'engagement utilisés et encore disponibles;
+- d) le tableau des crédits supplémentaires;
+- e) le détail du compte de résultats avec au minimum 3 positions fonctionnelles et 4 positions par nature;
+- f) le détail du compte des investissements avec au minimum 3 positions fonctionnelles et 4 positions par nature;
+- g) le détail du bilan avec au minimum 4 positions par nature;
+- h) le rapport succinct de l'instance de révision des comptes;
+- i) l'annexe aux comptes annuels.
 
-- b) un aperçu des principaux éléments du compte annuel à savoir:
+#### Art. 43
 
-- ba) du compte administratif;
+**Exception**
 
-- bb) du bilan et du financement;
+<sup>1</sup> Les bourgeoisies sont mises au bénéfice d'exigences allégées en matière de comptes annuels. Elles sont dispensées:
 
-- bc) du compte de fonctionnement selon les tâches;
+- a) de l'aperçu du compte de résultats et des investissements;
+- b) de l'analyse des indicateurs financiers;
+- c) de l'aperçu du compte de résultats échelonnés;
+- d) de l'aperçu du compte de résultats selon la classification fonctionnelle lorsque ce dernier ne porte que sur une fonction;
+- e) de l'aperçu du compte des investissements selon la classification fonctionnelle;
+- f) de l'aperçu du bilan et du tableau de flux de trésorerie.
 
-- bd) du compte de fonctionnement selon les natures;
+<sup>2</sup> N’ont pas l’obligation de présenter le message introductif et l’annexe aux comptes annuels, les bourgeoisies dont:
 
-- be) du compte des investissements selon les natures;
+- a) le bilan ne comptabilise aucun découvert, et
+- b) le total du bilan est inférieur à 2 millions de francs, et
+- c) les revenus bruts du compte de résultats (sans les imputations internes) sont inférieurs à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos, et
+- d) aucun investissement relevant de la compétence du législatif communal n'est planifié dans les 4 prochaines années.
 
-- bf) du compte des investissements selon les tâches;
+<sup>3</sup> Ces bourgeoisies attestent dans les comptes annuels qu’elles remplissent les conditions ci-dessus.
 
-- c) le tableau des amortissements;
+#### Art. 44
 
-- d) le tableau synoptique des crédits d'engagement utilisés et encore disponibles;
+**Registre**
 
-- e) le tableau des crédits complémentaires;
+<sup>1</sup> Le registre relatif aux comptes collectifs du bilan est tenu à part du compte annuel. Cette liste détaillée est supprimée lorsque les positions au bilan y sont détaillées.
 
-- f) le détail du compte de fonctionnement;
+### 2.4.2 Bilan
 
-- g) le détail du compte des investissements;
+#### Art. 45
 
-- h) le détail du bilan;
+**Principe**
 
-- i) le rapport succinct de l’instance de révision des comptes; <sup>2</sup>
+<sup>1</sup> Le bilan comprend les actifs et les passifs au 31 décembre.
 
-- j) l'annexe au bilan.
-
-<sup>3</sup> Abrogé <sup>2</sup>
-
-#### Art. 30bis
-
-<sup>2</sup> Exception
-
-<sup>1</sup> Les bourgeoisies sont mises au bénéfice d'exigences allégées en matière de comptes. Elles sont dispensées:
-
-- a) de l'aperçu du compte administratif;
-
-- b) de l'analyse des indicateurs de la gestion financière;
-
-- c) de l'aperçu du compte de fonctionnement selon les tâches lorsque ce dernier ne porte que sur une tâche;
-
-- d) de l'aperçu du compte des investissements selon les tâches;
-
-- e) de l'aperçu du bilan et du financement.
-
-<sup>2</sup> N’ont pas l’obligation de présenter le message introductif, les bourgeoisies dont:
-
-- a) le bilan ne comptabilise aucun découvert et;
-
-- b) le total du bilan est inférieur à deux millions de francs et;
-
-- c) les recettes brutes de fonctionnement (sans les imputations internes) sont inférieures à 200'000 francs, les seuils sont calculés sur la base de la moyenne des deux derniers exercices clos et;
-
-- d) aucun investissement relevant de la compétence du législatif communal n’est planifié dans les quatre prochaines années.
-
-<sup>3</sup> Ces bourgeoisies attestent dans le compte qu’elles remplissent les conditions ci-dessus.
-
-#### Art. 31
-
-**Engagements conditionnels**
-
-Les cautionnements et autres garanties, de même que les gages constitués en faveur de tiers sont indiqués en annexe au bilan.
-
-#### Art. 32
-
-**Inventaires**
-
-Les documents suivants sont tenus à part du compte annuel:
-
-- a) les inventaires;
-
-- b) le registre relatif aux comptes collectifs du bilan. Cette liste détaillée est supprimée lorsque les positions au bilan y sont détaillées.
-
-#### Art. 33
-
-**Autres informations**
-
-<sup>1</sup> La commune tient également un registre qui renseigne sur tous ses engagements et participations qui ont une incidence sur ses finances et qui n'apparaissent pas dans le compte. <sup>2</sup>
-
-<sup>2</sup> Le registre doit mentionner en particulier les engagements pris par la commune en matière de financement, de responsabilité et de versements supplémentaires en relation avec :
-
-- a) une participation à des organisations de droit public dans le cadre de la coopération intercommunale (association de communes, établissements, etc.);
-
-- b) une participation à des personnes morales de droit privé qui accomplissent des tâches communales;
-
-- c) des rapports conventionnels ou contractuels conclus en vue de l'accomplissement de tâches communales;
-
-- d) la qualité d'un membre d'une association, d'une société simple ou d'une société coopérative avec la quote-part et le montant de la participation;
-
-- e) des contrats de leasing lorsque les engagements sont conditionnels;
-
-- f) les valeurs d'assurance.
-
-### Sous-section 2: Bilan
-
-#### Art. 34
-
-<sup>2</sup> Principe
-
-Le bilan comprend les actifs et les passifs au 31 décembre.
-
-#### Art. 35
+#### Art. 46
 
 **Actif**
 
-L'actif se compose:
+<sup>1</sup> L'actif se compose:
 
 - a) du patrimoine financier;
+- b) du patrimoine administratif.
 
-- b) du patrimoine administratif;
+<sup>2</sup> Les actifs du patrimoine administratif et ceux du patrimoine financier sont présentés en fonction de leur degré de liquidité.
 
-- c) des avances aux financements spéciaux;
+#### Art. 47
 
-- d) du découvert éventuel.
-
-#### Art. 36
-
-**Patrimoine financier**
+**Patrimoine financier (PF)**
 
 <sup>1</sup> Le patrimoine financier comprend les valeurs qui peuvent être aliénées sans nuire à l'exécution des tâches publiques.
 
 <sup>2</sup> Il se subdivise en:
 
-- a) disponibilités;
+- a) disponibilités et placements à court terme;
+- b) créances;
+- c) placements financiers à court terme;
+- d) actifs de régularisation;
+- e) marchandises, fournitures et travaux en cours;
+- f) placements financiers;
+- g) immobilisations corporelles du patrimoine financier;
+- h) créances envers les financements spéciaux et fonds des capitaux de tiers.
 
-- b) avoirs;
+#### Art. 48
 
-- c) placements;
-
-- d) actifs transitoires.
-
-#### Art. 37
-
-**Patrimoine administratif**
+**Patrimoine administratif (PA)**
 
 <sup>1</sup> Le patrimoine administratif comprend les valeurs indispensables à l'accomplissement des tâches publiques.
 
 <sup>2</sup> Il se subdivise en:
 
-- a) investissements propres;
-
-- b) prêts et participations permanentes;
-
-- c) subventions aux investissements;
-
-- d) autres dépenses à porter à l'actif.
+- a) immobilisations corporelles du patrimoine administratif;
+- b) immobilisation incorporelles;
+- c) prêts;
+- d) participations, capital social;
+- e) subventions d’investissement.
 
 <sup>3</sup> Les valeurs qui ne sont plus indispensables à l'accomplissement des tâches publiques sont transférées au patrimoine financier.
 
-#### Art. 38
+<sup>4</sup> Les terrains parcellisés des autres travaux du génie civil et des bâtiments du patrimoine administratif peuvent être inscrits dans le groupe de matières approprié et amortis en conséquence.
 
-<sup>2</sup> Avances aux financements spéciaux
-
-Les avances aux financements spéciaux ne sont autorisées qu'à titre exceptionnel si les revenus affectés ne couvrent provisoirement pas les charges et seulement pour des tâches dont l'autofinancement est juridiquement obligatoire.
-
-#### Art. 39
-
-**Découvert**
-
-Le découvert est l'excédent des engagements sur les actifs.
-
-#### Art. 40
+#### Art. 49
 
 **Passif**
 
-Le passif comprend:
+<sup>1</sup> Le passif comprend:
 
-- a) les engagements (fonds de tiers);
+- a) les capitaux de tiers;
+- b) le capital propre.
 
-- b) les engagements envers les financements spéciaux;
+#### Art. 50
 
-- c) la fortune nette.
+**Capitaux de tiers**
 
-#### Art. 41
-
-**Engagements**
-
-Les engagements (fonds de tiers) comprennent:
+<sup>1</sup> Les capitaux de tiers comprennent:
 
 - a) les engagements courants;
+- b) les engagements financiers à court terme;
+- c) les passifs de régularisation;
+- d) les provisions à court terme;
+- e) les engagements financiers à long terme;
+- f) les provisions à long terme;
+- g) les engagements envers les financements spéciaux et fonds classés dans les capitaux de tiers.
 
-- b) les dettes à court terme;
+<sup>2</sup> Les capitaux de tiers sont présentés en fonction de leur degré d’exigibilité.
 
-- c) les dettes à moyen et à long terme;
+#### Art. 51
 
-- d) les engagements envers des entités particulières;
+**Capital propre**
 
-- e) les provisions;
+<sup>1</sup> Le capital propre comprend:
 
-- f) les passifs transitoires.
+- a) les engagements et avances sur financements spéciaux classés dans le capital propre;
+- b) les fonds classés dans le capital propre;
+- c) les réserves de politique budgétaire;
+- d) la réserve liée au retraitement du patrimoine financier;
+- e) excédent ou le découvert du bilan.
 
-#### Art. 42
+<sup>2</sup> Les avances aux financements spéciaux sont présentées comme du capital propre, mais leur montant porte un signe négatif.
 
-**Engagements envers les financements spéciaux**
+<sup>3</sup> Les avances aux financements spéciaux ne sont autorisées qu’à titre exceptionnel si les revenus affectés ne couvrent provisoirement pas les charges et seulement pour les tâches dont l’autofinancement est juridiquement obligatoire.
 
-Les excédents de revenus réalisés par une tâche faisant l'objet d'un financement spécial sont portés au crédit de l'engagement envers le financement spécial concerné.
+<sup>4</sup> Un découvert du bilan est présenté comme du capital propre, mais son montant porte un signe négatif.
 
-### Sous-section 3: Compte administratif
+### 2.4.3 Compte de résultats
 
-#### Art. 43
+#### Art. 52
 
 **Principes**
 
-<sup>1</sup> Le compte administratif comprend les dépenses et les recettes nécessaires à l'accomplissement des tâches publiques. Il se subdivise en un compte de fonctionnement et un compte des investissements.
+<sup>1</sup> Le compte de résultats comprend les charges et les revenus nécessaires à l'accomplissement des tâches publiques.
 
-<sup>2</sup> L'utilisation du patrimoine financier pour réaliser des tâches publiques constitue les dépenses.
+<sup>2</sup> Le premier niveau du compte de résultats montre le résultat opérationnel et le second niveau le résultat extraordinaire. Le résultat total modifie le capital propre.
 
-<sup>3</sup> Les opérations financières qui augmentent la fortune nette ou diminuent le découvert constituent les recettes; il en est de même du produit de la réalisation de biens du patrimoine administratif et des prestations de tiers entraînant la constitution de biens du patrimoine administratif.
+<sup>3</sup> L'utilisation du patrimoine financier pour réaliser des tâches publiques constitue les dépenses.
 
-#### Art. 44
+<sup>4</sup> Les opérations financières qui augmentent la fortune nette ou diminuent le découvert constituent les revenus; il en est de même du produit de la réalisation de biens du patrimoine administratif et des prestations de tiers entraînant la constitution de biens du patrimoine administratif.
 
-**Compte de fonctionnement**
+#### Art. 53
 
-<sup>1</sup> Les dépenses et les recettes comptabilisées dans le compte de fonctionnement sont désignées par les termes charges et revenus.
+**Compte de résultats**
 
-<sup>2</sup> Les charges regroupent:
+<sup>1</sup> Les charges regroupent:
 
 - a) les charges du personnel;
+- b) les charges de biens et services et autres charges d’exploitation;
+- c) les amortissements du patrimoine administratif;
+- d) les charges financières;
+- e) les attributions aux fonds de financements spéciaux;
+- f) les charges de transferts;
+- g) les subventions redistribuées;
+- h) les charges extraordinaires;
+- i) les imputations internes.
 
-- b) les biens, services et marchandises;
+<sup>2</sup> Les revenus regroupent:
 
-- c) les intérêts passifs;
-
-- d) les amortissements;
-
-- e) les parts et contributions sans affectation;
-
-- f) les dédommagements à des collectivités publiques;
-
-- g) les subventions accordées;
-
-- h) les subventions redistribuées;
-
-- i) les attributions aux financements spéciaux;
-
-- j) les imputations internes.
-
-<sup>3</sup> Les revenus regroupent:
-
-- a) les impôts;
-
-- b) les recettes provenant des patentes et des concessions;
-
-- c) les revenus des biens;
-
-- d) les contributions;
-
-- e) les parts à des recettes et contributions sans affectation;
-
-- f) les dédommagements de collectivités publiques;
-
-- g) les subventions acquises;
-
+- a) les revenus fiscaux;
+- b) les patentes et les concessions;
+- c) les taxes;
+- d) les revenus divers;
+- e) les revenus financiers;
+- f) les prélèvements sur les fonds et financement spéciaux;
+- g) les revenus de transferts;
 - h) les subventions à redistribuer;
-
-- i) les prélèvements sur les financements spéciaux;
-
+- i) les revenus extraordinaires;
 - j) les imputations internes.
 
-<sup>4</sup> Le solde du compte de fonctionnement modifie la fortune nette ou le découvert.
+<sup>3</sup> Les revenus fiscaux sont régularisés au minimum selon le principe de l’échéance des impôts.
 
-#### Art. 45
+### 2.4.4 Compte des investissements
+
+#### Art. 54
 
 **Compte des investissements**
 
 <sup>1</sup> Le compte des investissements comptabilise les dépenses et les recettes qui créent le patrimoine administratif. La durée d'utilisation de ce patrimoine et celle des objets subventionnés propriété de tiers s'étend sur plusieurs années.
 
-<sup>2</sup> Le résultat du compte des investissements modifie le patrimoine administratif.
+<sup>2</sup> Les dépenses regroupent:
 
-<sup>3</sup> Les dépenses d'investissement inférieures à un montant fixé par le Conseil communal ne sont pas activées. Le Conseil communal suivra une pratique constante en la matière. <sup>2</sup>
+- a) les immobilisations corporelles;
+- b) les investissements pour le compte de tiers;
+- c) les immobilisations incorporelles;
+- d) les prêts;
+- e) les participations et capital social;
+- f) les propres subventions d’investissement;
+- g) les subventions d’investissement redistribuées;
+- h) les investissements extraordinaires.
 
-#### Art. 46
+<sup>3</sup> Les recettes regroupent:
 
-<sup>2</sup> Clôture
+- a) les transferts d’immobilisations corporelles dans le patrimoine financier;
+- b) les remboursements;
+- c) les transferts d’immobilisations incorporelles dans le patrimoine financier;
+- d) les subventions d’investissement acquises;
+- e) les remboursements de prêts;
+- f) les transferts de participations;
+- g) les remboursements de propres subventions d’investissement;
+- h) les subventions d’investissement à redistribuer;
+- i) les recettes d’investissement extraordinaires.
+
+<sup>4</sup> Le résultat du compte des investissements modifie le patrimoine administratif.
+
+<sup>5</sup> Les dépenses d'investissement inférieures à un montant fixé par le Conseil communal ne sont pas activées. Le Conseil communal suivra une pratique constante en la matière et devra indiquer dans l’annexe aux comptes annuels le montant minimal d’activation des investissements.
+
+### 2.4.5 Le tableau de flux de trésorerie
+
+#### Art. 55
+
+**Le tableau des flux de trésorerie**
+
+<sup>1</sup> Le tableau des flux de trésorerie recense d’une part les encaissements ou les recettes d’une période déterminée (entrées de trésorerie) et d’autre part les décaissements ou les dépenses de la même période (sorties de trésorerie).
+
+<sup>2</sup> Le tableau des flux de trésorerie est organisé en trois parties:
+
+- a) la première partie présente le flux de trésorerie provenant de l’activité opérationnelle et extraordinaire;
+- b) la deuxième partie présente le flux de trésorerie provenant de l’activité d’investissement;
+- c) la troisième et dernière partie du tableau présente le flux de trésorerie provenant de l’activité de financement.
+
+<sup>3</sup> Pour déterminer le flux de trésorerie provenant de l’activité opérationnelle, la méthode indirecte est utilisée.
+
+### 2.4.6 Annexe aux comptes annuels
+
+#### Art. 56
+
+**Annexe aux comptes annuels**
+
+<sup>1</sup> L’annexe aux comptes annuels présente:
+
+- a) les règles régissant la présentation des comptes, ainsi que les raisons qui motivent d’éventuelles dérogations par rapport aux normes présentées ici;
+- b) les principes régissant la présentation des comptes, y compris les principaux principes relatifs à l’établissement du bilan et à l’évaluation (en particulier les méthodes et les taux d’amortissement) (cf. annexe 1);
+- c) l'état du capital propre;
+- d) le tableau des provisions;
+- e) le tableau des participations;
+- f) le tableau des garanties;
+- g) le tableau des immobilisations;
+- h) les indications supplémentaires permettant d'apprécier l'état des finances, du patrimoine et du résultat, ainsi que les risques financiers (contrats de leasing, etc.).
+
+<sup>2</sup> Dans le tableau des provisions, toutes les provisions existantes doivent apparaître individuellement.
+
+<sup>3</sup> Dans le tableau des participations doivent apparaître à la fois les participations au capital et les organisations que la commune influence significativement. La commune influence significativement une entité dès lors que sa part ou son apport au financement lui permet unilatéralement de prendre des mesures ou de procéder à des changements.
+
+<sup>4</sup> Dans le tableau des garanties doivent apparaître toutes les activités pouvant conduire à un engagement important de la collectivité publique à l’avenir.
+
+<sup>5</sup> Le tableau des immobilisations doit fournir une image aussi complète et transparente que possible de tous les biens d’investissement de la collectivité publique. Il est, pour partie, organisé en suivant la classification par nature.
+
+#### Art. 57
+
+**Clôture et approbation**
 
 <sup>1</sup> Le Conseil communal accorde à l’instance de révision des comptes un délai suffisant pour réviser le compte annuel clos.
 
 <sup>2</sup> Il soumet le compte annuel révisé à l'organe compétent fin juin au plus tard.
 
-### Section 5: Principes d'évaluation et d'amortissement
+<sup>3</sup> Si ce n'est exceptionnellement pas possible, le Conseil communal informe le département de la procédure qu'il entend suivre.
 
-### Sous-section 1: Principes d'évaluation
+### 2.5 Principes d'évaluation et d'amortissement
 
-#### Art. 47
+### 2.5.1 Principes d'évaluation
+
+#### Art. 58
 
 **Patrimoine financier**
 
-<sup>1</sup> Le patrimoine financier est inscrit au bilan à son prix d'acquisition ou de construction.
+<sup>1</sup> Lors du passage au MCH2, le patrimoine financier peut être inscrit à sa valeur comptable, ou réévalué à sa valeur vénale.
 
-<sup>2</sup> Il est amorti si des pertes ou des moins-values sont enregistrées.
+<sup>2</sup> En cas d’inscription à la valeur comptable, une réévaluation ultérieure à la valeur vénale est autorisée au plus tôt après 5 ans dès l’entrée en vigueur de la présente ordonnance sur présentation d’un rapport par un réviseur particulièrement qualifié au sens du code des obligations.
 
-<sup>3</sup> Le Conseil communal peut réévaluer le patrimoine financier à son prix d'acquisition ou de construction si ce dernier a fait précédemment l'objet d'amortissements ou si la valeur vénale est au moins égale à la nouvelle valeur comptable. <sup>2</sup>
+<sup>3</sup> En cas de réévaluation à la valeur vénale, lors du passage au MCH2, celle-ci se fait sur présentation d’un rapport par un réviseur particulièrement qualifié au sens du code des obligations.
 
-#### Art. 48
+<sup>4</sup> De plus, les réévaluations ultérieures à la valeur vénale, s’effectuent au plus tôt après 5 ans par un réviseur particulièrement qualifié au sens du code des obligations.
+
+<sup>5</sup> Les nouveaux éléments du patrimoine financier sont inscrits au bilan au prix d’acquisition ou de construction.
+
+<sup>6</sup> En cas d’acquisition d’immobilisation gratuitement, celle-ci doit être inscrite à la valeur vénale.
+
+<sup>7</sup> En cas de dépréciation effective durable ou de perte, des corrections de valeurs du patrimoine financier sont immédiatement effectuées.
+
+<sup>8</sup> Les dépréciations du patrimoine financier à caractère de réserve ne sont pas autorisées.
+
+<sup>9</sup> Le Conseil communal décide des principes d’évaluation du patrimoine financier.
+
+#### Art. 59
 
 **Patrimoine administratif**
 
-<sup>1</sup> La valeur comptable se compose:
+<sup>1</sup> La valeur comptable avant amortissement se compose:
 
-- a) de la valeur comptable résiduelle enregistrée au début de l'exercice et
-
+- a) de la valeur résiduelle enregistrée au début de l'exercice, et
 - b) de l'investissement net de l'exercice.
 
-<sup>2</sup> La réévaluation d'actif du patrimoine administratif n’est pas autorisée. <sup>2</sup>
+<sup>2</sup> La réévaluation d'actifs du patrimoine administratif n’est pas autorisée, sauf pour les prêts, participations et capital social.
 
-#### Art. 49
+#### Art. 60
 
 **Transferts entre patrimoines**
 
-<sup>1</sup> Le transfert d'éléments du patrimoine financier dans le patrimoine administratif s'opère au prix d'acquisition ou de revient. La valeur de transfert ne doit pas excéder la valeur vénale. <sup>2</sup>
+<sup>1</sup> Le transfert d'éléments du patrimoine financier dans le patrimoine administratif s'opère à la valeur comptable.
 
 <sup>2</sup> Les biens qui ne sont plus utilisés à des fins d'utilité publique sont transférés du patrimoine administratif dans le patrimoine financier à leur valeur résiduelle.
 
-#### Art. 50
+#### Art. 61
 
-**Prêts et participations du patrimoine administratif**
+**Prêts, participations et capital social du patrimoine administratif**
 
-Les prêts et participations du patrimoine administratif doivent être estimés dans la règle d'après les principes commerciaux.
+<sup>1</sup> Les prêts, participations et capital social du patrimoine administratif sont inscrits dans le bilan au maximum à leur valeur d’acquisition ou de cession et estimés d’après les principes commerciaux.
 
-### Sous-section 2: Amortissements
+### 2.5.2 Amortissements
 
-#### Art. 51
+#### Art. 62
 
-<sup>1</sup> Principes
+**Principes**
 
-<sup>1</sup> Le patrimoine administratif, après déduction de la valeur comptable des prêts et des participations permanentes, est amorti à raison de dix pour cent de sa valeur résiduelle. Cet amortissement est comptabilisé comme charge au titre d'amortissement ordinaire (compte par nature 331).
+<sup>1</sup> Le patrimoine administratif, après déduction de la valeur comptable des prêts, des participations permanentes et du capital social, est amorti de sa valeur résiduelle au 31 décembre, selon le type d’actif et la durée d’utilisation des installations. Cet amortissement est comptabilisé comme charge au titre d'amortissement (compte par nature 330, 332 et 366). L’annexe définit les taux ainsi que les fourchettes des taux usités.
 
-<sup>2</sup> Le Conseil communal peut fixer un taux d'amortissement plus élevé que celui prescrit à l'alinéa 1 à condition que celui-ci soit appliqué pour une durée minimum de quatre ans. <sup>2</sup>
+<sup>2</sup> Le Conseil communal décide du taux d’amortissement, selon le type d’actif, à l'intérieur des fourchettes recommandées.
 
-<sup>3</sup> Les amortissements doivent être comptabilisés individuellement pour les tâches financées par les recettes fiscales et pour chaque financement spécial.
+<sup>3</sup> Les taux usités à l'intérieur des fourchettes recommandées doivent être maintenus au minimum sur une durée de 5 ans.
 
-<sup>4</sup> Abrogé <sup>2</sup>
+<sup>4</sup> Les domaines d’activités spécifiques découlant de l’application de la législation de droit supérieur appliquent les taux d’amortissement prescrits par ledit domaine d’activité (Notice A 1995 – AFC).
 
-#### Art. 51bis
+<sup>5</sup> Les valeurs inscrites au bilan doivent être immédiatement rectifiées en cas de dépréciation effective durable ou de perte.
 
-<sup>2</sup> Exception
+<sup>6</sup> Les amortissements doivent être comptabilisés individuellement pour les tâches financées par les recettes fiscales et pour chaque financement spécial.
 
-Pour les communes bourgeoisiales, le patrimoine administratif à amortir tel que défini à l'alinéa 1 de l’article 51 ne comprend pas les actifs constitués par les forêts et les biens-fonds d'alpages non bâtis.
+#### Art. 63
 
-#### Art. 52
+**Exception**
 
-**Dérogations**
+<sup>1</sup> Pour les communes bourgeoisiales, le patrimoine administratif à amortir, tel que défini à l’article 62 alinéa 1, ne comprend pas les actifs constitués par les forêts et les biens-fonds d'alpages non bâtis.
 
-<sup>1</sup> Le département, par son service compétent, peut autoriser des dérogations à l'article 51 1er alinéa lorsque des raisons économiques le justifient.
+#### Art. 64
 
-<sup>2</sup> Des taux d'amortissement différenciés selon le type d'actif et la durée d'utilisation des installations sont autorisés sous réserve que le total des amortissements représente au minimum le dix pour cent du patrimoine administratif déterminant.
+**Amortissements supplémentaires**
 
-<sup>3</sup> Les règles cantonales particulières en matière d'amortissement sont réservées.
+<sup>1</sup> Les amortissements supplémentaires ne sont pas autorisés.
 
-#### Art. 53
+#### Art. 65
 
-**Amortissements complémentaires**
+**Amortissement des prêts, participations et capital social du patrimoine administratif**
 
-<sup>1</sup> Le Conseil communal décide des amortissements complémentaires. <sup>2</sup>
+<sup>1</sup> Les prêts, participations et capital social ne sont amortis qu'en cas de dépréciation effective durable ou de perte. La rectification intervient immédiatement.
 
-<sup>2</sup> Les amortissements complémentaires sont récapitulés séparément (compte par nature 332).
+<sup>2</sup> Les prêts, participations et capital social peuvent être réévalués à hauteur des amortissements effectués précédemment et prouvés mais jusqu'à concurrence du prix d'acquisition au plus, à condition que la valeur vénale soit au moins égale à la nouvelle valeur comptable.
 
-<sup>3</sup> Les amortissements du patrimoine financier (compte par nature 330), de même que l'amortissement du découvert (compte par nature 333) ne sont pas considérés comme amortissements complémentaires.
+<sup>3</sup> En cas de réévaluation, les montants seront comptabilisés en tant que autres revenus financiers dans le compte de résultats.
 
-#### Art. 54
-
-Amortissement des prêts et participations du patrimoine administratif
-
-<sup>1</sup> Les prêts et participations permanentes du patrimoine administratif sont amortis selon les règles établies pour le patrimoine financier.
-
-<sup>2</sup> Les participations permanentes, effectuées à long terme et ayant le caractère d'une subvention d'investissement doivent être amorties comptablement (nature 332).
-
-#### Art. 55
+#### Art. 66
 
 **Suspension d'amortissement**
 
-La suspension totale ou partielle d'amortissements est interdite.
+<sup>1</sup> La suspension totale ou partielle d'amortissements est interdite.
 
-### Section 6: Financements spéciaux
+### 2.6 Financements spéciaux
 
-#### Art. 56
+#### Art. 67
 
 **Principes**
 
 <sup>1</sup> Les financements spéciaux consistent en moyens financiers affectés à l'accomplissement d'une tâche publique déterminée.
 
-<sup>2</sup> Les engagements envers les financements spéciaux et les avances octroyées portent intérêt. La commune peut édicter une réglementation contraire pour autant qu'aucune disposition spéciale du droit supérieur ne l'exclue.
+<sup>2</sup> Les engagements envers les financements spéciaux et les créances octroyées portent intérêt. La commune peut édicter une réglementation contraire pour autant qu'aucune disposition spéciale du droit supérieur ne l'exclue.
 
-#### Art. 57
+#### Art. 68
 
 **Conditions**
 
-<sup>1</sup> Les financements spéciaux requièrent une base légale a) dans le droit supérieur ou b) dans un règlement communal.
+<sup>1</sup> Les financements spéciaux requièrent une base légale:
 
-<sup>2</sup> Le règlement fixe l'objet du financement spécial et la compétence pour effectuer les attributions et les prélèvements.
+- a) dans le droit supérieur, ou
+- b) dans un règlement communal.
 
-#### Art. 58
+<sup>2</sup> Le règlement communal fixe l'objet du financement spécial et la compétence pour effectuer les attributions et les prélèvements.
 
-**Avances**
+#### Art. 69
 
-Les avances aux financements spéciaux sont remboursées ou amorties dans un délai de 8 ans à compter de leur première inscription au bilan par les futurs excédents de revenus réalisés par la tâche concernée.
+**Créance et avances**
 
-### Section 7: Autres principes
+<sup>1</sup> Les créances envers les financements spéciaux et fonds des capitaux de tiers ainsi que les avances sur financements spéciaux classées dans le capital propre sont remboursées dans un délai de 8 ans à compter de leur première inscription au bilan par les futurs excédents de revenus réalisés par la tâche concernée.
 
-#### Art. 59
+### 2.7 Autres principes
+
+#### Art. 70
 
 **Imputations internes**
 
-<sup>1</sup> Les imputations internes de prestations effectuées entre services administratifs sont comptabilisées pour a) assurer la facturation envers les tiers;
+<sup>1</sup> Les imputations internes de prestations effectuées entre services administratifs sont comptabilisées pour:
 
+- a) assurer la facturation envers les tiers;
 - b) constater le résultat économique effectif des diverses activités administratives;
-
 - c) promouvoir la prise en compte des coûts et la responsabilité propre, ou
-
-- d) assurer la transparence et la comparabilité des comptes.
+- d) assurer la transparence et la comparabilité des comptes annuels.
 
 <sup>2</sup> Les imputations internes de charges et de revenus, en particulier celles des intérêts et des amortissements pour les tâches financées par l'instrument du financement spécial, doivent impérativement être comptabilisées sur la base de l'intégralité des coûts.
 
 <sup>3</sup> Les imputations internes concernent exclusivement des comptes avec les natures 39 et 49.
 
-<sup>4</sup> Les données de la récapitulation par natures du compte de fonctionnement clôturé doivent afficher des totaux identiques pour les natures 39 et 49.
+<sup>4</sup> Les données de la récapitulation par natures du compte de résultat clôturé doivent afficher des totaux identiques pour les natures 39 et 49.
 
-#### Art. 60
+#### Art. 71
 
 **Comptabilités séparées**
 
 <sup>1</sup> La commune est autorisée à tenir une comptabilité séparée si l'accomplissement de tâches particulières l'exige.
 
-<sup>2</sup> Les comptabilités séparées doivent être intégrées au budget et au compte annuel.
+<sup>2</sup> Les comptabilités séparées doivent au minimum être présentées dans l’annexe aux comptes annuels.
 
-#### Art. 61
+<sup>3</sup> Elles peuvent aussi être intégrées au budget et aux comptes annuels.
+
+#### Art. 72
 
 **Données statistiques**
 
-<sup>1</sup> Le service compétent peut demander aux communes de lui fournir des données. <sup>2</sup>
+<sup>1</sup> Le service compétent peut demander aux communes de lui fournir des données.
 
 <sup>2</sup> Les résultats sont mis gratuitement à la disposition des communes.
 
-### Chapitre 3: Compétences, dépenses, crédits, autorisations de
+## 3 Compétences, dépenses et crédits
 
-dépenses et de crédits
+### 3.1 Compétences financières
 
-### Section 1: Compétences financières
+#### Art. 73
 
-#### Art. 62
+**Principe**
 
-<sup>2</sup> Principe
+<sup>1</sup> La législation cantonale et le règlement communal d’organisation fixent les compétences financières des autorités communales.
 
-La législation cantonale et le règlement communal d’organisation fixent les compétences financières des autorités communales.
+#### Art. 74
 
-#### Art. 63
+**Placement du patrimoine financier**
 
-<sup>2</sup> Placement du patrimoine financier
+<sup>1</sup> Sauf réglementation communale contraire et à l'exception des placements immobiliers, la compétence d'effectuer des placements appartient au Conseil communal.
 
-Sauf réglementation communale contraire et à l'exception des placements immobiliers, la compétence d'effectuer des placements appartient au Conseil communal.
+#### Art. 75
 
-#### Art. 64
+**Critères déterminants**
 
-<sup>2</sup> Critères déterminants
+<sup>1</sup> La compétence financière en matière d'autorisation de dépenses fixée en fonction du coût à la charge de la commune par rapport aux revenus bruts du dernier exercice se détermine sur la base des éléments suivants:
 
-<sup>1</sup> La compétence financière en matière d'autorisation de dépenses fixée en fonction du coût à la charge de la commune par rapport aux recettes brutes du dernier exercice se détermine sur la base des éléments suivants:
-
-- a) Les recettes brutes prises en compte correspondent au total des revenus de fonctionnement (sans les imputations internes) du dernier exercice clos.
-
-- b) Chaque dépense doit être calculée dans sa globalité. Le fractionnement des coûts d'un même objet, pour rester dans les limites de compétences, n'est pas admis.
+- a) les revenus bruts pris en compte correspondent au total des revenus du compte de résultats (sans les imputations internes) du dernier exercice clos;
+- b) chaque dépense doit être calculée dans sa globalité. Le fractionnement des coûts d'un même objet, pour rester dans les limites de compétences, n'est pas admis.
 
 <sup>2</sup> Pour la location de biens et l'octroi de droits réels restreints au sens de l’article 17 alinéa 1 lettre g LCo, est déterminante leur valeur capitalisée. Celle-ci se calcule sur la base d’une valeur locative ou de la rente sur la du-rée du contrat mais au maximum 20 ans.
 
-### Section 2: Dépenses
+### 3.2 Dépenses
 
-#### Art. 65
+#### Art. 76
 
-<sup>2</sup> Dépense
+**Dépense**
 
 <sup>1</sup> Constitue une dépense, l'affectation durable de fonds ou de biens du patrimoine financier à l'accomplissement de tâches publiques.
 
-<sup>2</sup> Une dépense peut entraîner soit une consommation de moyens (compte de fonctionnement), soit un accroissement du patrimoine administratif (compte des investissements).
+<sup>2</sup> Une dépense peut entraîner soit une consommation de moyens (compte de résultats), soit un accroissement du patrimoine administratif (compte des investissements).
 
 <sup>3</sup> Constituent ou sont assimilés à une dépense:
 
 - a) la participation à des personnes morales de droit privé, exception faite des placements du patrimoine financier;
-
 - b) les placements immobiliers;
-
 - c) la désaffectation d'éléments du patrimoine administratif;
-
 - d) le transfert d'un élément du patrimoine financier au patrimoine administratif;
-
 - e) la renonciation à des recettes et la remise de dettes;
-
 - f) les dons.
 
-#### Art. 66
+#### Art. 77
 
 **Dépenses uniques**
 
@@ -846,41 +886,35 @@ Sauf réglementation communale contraire et à l'exception des placements immobi
 
 <sup>2</sup> L'autorisation de dépenses inclut toutes les dépenses indissociablement liées par une unité de matière et de temps. Celles-ci doivent être additionnées.
 
-<sup>3</sup> Abrogé <sup>2</sup>
-
-<sup>4</sup> Abrogé <sup>2</sup>
-
-#### Art. 67
+#### Art. 78
 
 **Dépenses périodiques**
 
 <sup>1</sup> Les dépenses qui servent à l'exécution d'une tâche permanente sont des dépenses périodiques.
 
-<sup>2</sup> Abrogé <sup>2</sup>
-
-#### Art. 68
+#### Art. 79
 
 **Dépenses liées**
 
-<sup>1</sup> Une dépense est considérée comme liée a) lorsque le principe de la dépense et son montant sont prescrits par une disposition légale ou un jugement;
+<sup>1</sup> Une dépense est considérée comme liée:
 
+- a) lorsque le principe de la dépense et son montant sont prescrits par une disposition légale ou un jugement;
 - b) lorsqu'elle est absolument indispensable à l'accomplissement d'une tâche administrative prescrite par la loi;
-
 - c) lorsqu'elle découle impérativement de l'exécution d'un contrat approuvé par l'organe compétent.
 
-<sup>2</sup> Le Conseil communal décide des dépenses liées. <sup>2</sup>
+<sup>2</sup> Le Conseil communal décide des dépenses liées.
 
-#### Art. 69
+#### Art. 80
 
 **Dépense nouvelle à caractère non obligatoire**
 
-Une dépense est considérée comme nouvelle lorsque l'organe compétent pour l'octroi de l'autorisation de dépenses dispose d'une liberté d'action relativement grande quant au montant de la dépense, à la date à laquelle elle sera engagée ou quant à d'autres modalités d'exécution essentielles.
+<sup>1</sup> Une dépense est considérée comme nouvelle lorsque l'organe compétent pour l'octroi de l'autorisation de dépenses dispose d'une liberté d'action relativement grande quant au montant de la dépense, à la date à laquelle elle sera engagée ou quant à d'autres modalités d'exécution essentielles.
 
-### Section 3: Crédits
+### 3.3 Crédits
 
-#### Art. 69bis
+#### Art. 81
 
-<sup>2</sup> Crédit d’engagement
+**Crédit d'engagement**
 
 <sup>1</sup> Un crédit d’engagement est une autorisation de procéder, pour un objectif visé, à des engagements financiers d'un montant déterminé. Il est décidé par l’autorité compétente (art. 17 al. 1, 31 al. 1 et 33 al. 2 LCo) pour les investissements et les subventions aux investissements de tiers qui s’étendent sur plusieurs années ainsi que pour les engagements conditionnels.
 
@@ -888,27 +922,26 @@ Une dépense est considérée comme nouvelle lorsque l'organe compétent pour l'
 
 <sup>3</sup> Un crédit d'engagement est périmé dès que le but est atteint ou qu'il est devenu sans objet ou que l'autorité compétente l'a annulé. A moins que l’autorité compétente ne présente une règle contraire lors de son octroi, le crédit d’engagement devient caduc après huit ans, si les travaux n’ont pas commencé.
 
-#### Art. 69ter
+#### Art. 82
 
-<sup>2</sup> Crédit complémentaire
+**Crédit complémentaire**
 
 <sup>1</sup> Si un crédit d'engagement se révèle insuffisant, avant ou pendant l'accomplissement du projet prévu, un crédit complémentaire doit être demandé à l'autorité compétente, avant tout nouvel engagement.
 
 <sup>2</sup> Lorsqu'un crédit d'engagement contient une clause d'indexation des prix, les dépenses liées au renchérissement sont approuvées avec le budget. En cas de baisse des prix, le crédit est réduit d'autant.
 
-<sup>3</sup> Le Conseil communal est compétent pour décider un crédit complémentaire. Demeure réservée l’approbation de l’assemblée primaire dans le cas suivant:
+<sup>3</sup> Le Conseil communal est compétent pour décider un crédit complémentaire. Demeure réservée l’approbation de l’assemblée primaire dans les cas suivants:
 
 - a) le crédit complémentaire relève de la compétence de l'assemblée primaire au sens de l'article 17 alinéa 1 lettre c LCo;
-
 - b) le crédit total soit le crédit initial additionné par le crédit complémentaire, relève de la compétence de l'assemblée primaire dans la mesure où le crédit initial a été approuvé par le Conseil communal.
 
 <sup>4</sup> L’assemblée primaire ou le conseil général est informé des crédits complémentaires supérieurs à 50'000 francs décidés par le Conseil communal dans le cadre de ses propres compétences.
 
-#### Art. 69quater
+#### Art. 83
 
-<sup>2</sup> Crédit budgétaire
+**Crédit budgétaire**
 
-<sup>1</sup> Un crédit budgétaire est celui décidé par l'autorité compétente pour une dépense annuelle concernant un but précis.
+<sup>1</sup> Un crédit budgétaire est celui décidé par l'organe législatif pour une dépense annuelle concernant un but précis.
 
 <sup>2</sup> Les crédits budgétaires ne peuvent être utilisés à d'autres fins que celles prévues au budget.
 
@@ -916,61 +949,71 @@ Une dépense est considérée comme nouvelle lorsque l'organe compétent pour l'
 
 <sup>4</sup> Un crédit budgétaire ne peut pas être dépassé sans une autorisation de l’organe compétent.
 
-Art. 69quinqiues <sup>2</sup> Crédit supplémentaire
+#### Art. 84
+
+**Crédit supplémentaire**
 
 <sup>1</sup> Si un crédit budgétaire est insuffisant pour remplir la tâche prévue, un crédit supplémentaire doit être demandé. Un crédit supplémentaire est décidé pour les dépenses urgentes ou fixées dans une loi ou couvertes dans le même exercice par des recettes correspondantes.
 
-<sup>2</sup> Le Conseil communal est compétent pour décider un crédit supplémentaire.
+<sup>2</sup> Le Conseil communal est compétent pour décider un crédit supplémentaire sous réserve de l'article 17 alinéa 1 lettre c LCo.
 
-<sup>3</sup> Demeure réservée l’approbation du conseil général dans la mesure ou le crédit supplémentaire dépasse dix pour cent de la rubrique budgétée et 50'000 francs.
+<sup>3</sup> Demeure réservée l’approbation du conseil général dans la mesure où le crédit supplémentaire dépasse dix pour cent de la rubrique budgétée et 50'000 francs.
 
 <sup>4</sup> L’assemblée primaire est informée des crédits supplémentaires supérieurs à 50'000 francs décidés par le Conseil communal.
 
-### Chapitre 4: Organisation et système de contrôle interne
+#### Art. 85
 
-#### Art. 70
+**Réserves de politique budgétaire**
+
+<sup>1</sup> Le Conseil communal est compétent pour décider du prélèvement ou de l’attribution de montants aux réserves de politique budgétaire. Ces montants seront comptabilisés en tant que charges et revenus extraordinaires dans le compte de résultats.
+
+<sup>2</sup> Le postfinancement des réserves de politique budgétaire n’est pas autorisé.
+
+#### Art. 86
+
+**Préfinancement des investissements**
+
+<sup>1</sup> Le préfinancement des investissements n’est pas autorisé.
+
+## 4 Organisation et système de contrôle interne
+
+#### Art. 87
 
 **Organisation**
 
-<sup>1</sup> Le Conseil communal prend les dispositions nécessaires à ce que l'organisation de la gestion financière et la comptabilité soient adaptées à l'importance des affaires. <sup>2</sup>
+<sup>1</sup> Le Conseil communal prend les dispositions nécessaires à ce que l'organisation de la gestion financière et la comptabilité soient adaptées à l'importance des affaires.
 
-<sup>2</sup> Le conseil communal veille notamment à ce a) que les tâches, devoirs et compétences, ainsi que la suppléance soient précisés par écrit pour chaque poste de l'administration des finances;
+<sup>2</sup> Le Conseil communal veille notamment à ce:
 
+- a) que les tâches, devoirs et compétences, ainsi que la suppléance soient précisés par écrit pour chaque poste de l'administration des finances;
 - b) que le supérieur et le successeur soient présents pour chaque remise des pouvoirs d'une personne assumant des responsabilités patrimoniales;
-
 - c) que les personnes présentes signent un procès-verbal.
 
-#### Art. 71
+#### Art. 88
 
-<sup>2</sup> Système de contrôle interne
+**Système de contrôle interne**
 
 <sup>1</sup> Le Conseil communal met en place un système de contrôle interne efficace et adapté à l'importance de la commune.
 
 <sup>2</sup> Le Conseil communal édicte des prescriptions notamment sur:
 
 - a) le droit de signature en application du principe de la signature collective à deux;
-
-- b) les règles d’activation des dépenses d’investissement;
-
+- b) les règles d'activation des dépenses d'investissement;
 - c) les règles pour décider les crédits d'engagement et utiliser les crédits autorisés;
-
 - d) les règles pour décider les crédits complémentaires et supplémentaires;
-
 - e) le droit d'ordonnancer les paiements;
-
 - f) le droit de viser;
+- g) le contrôle de l'encaissement et du contentieux des revenus et recettes.
 
-- g) le contrôle de l’encaissement et du contentieux des revenus et recettes.
+## 5 Révision des comptes
 
-### Chapitre 5: Révision des comptes
+#### Art. 89
 
-#### Art. 72
-
-<sup>2</sup> Organisation
+**Organisation**
 
 <sup>1</sup> L'assemblée primaire ou le conseil général nomme, sur proposition du Conseil communal, pour la période législative, une instance de révision agréée. Le mandat de révision peut être révoqué par l’assemblée primaire.
 
-<sup>2</sup> Est éligible comme instance de révision une entreprise de révision au sens de la loi fédérale du 16 décembre 2005 sur la surveillance de la révision, ci-après LSR, et selon les conditions de l’article 73 Ofinco.
+<sup>2</sup> Est éligible comme instance de révision une entreprise de révision au sens de la loi fédérale sur la surveillance de la révision (LSR) et selon les conditions de l’article 90 OGFCo.
 
 <sup>3</sup> Le mandat de révision débute avec le contrôle des comptes de la première année de la législature.
 
@@ -980,35 +1023,35 @@ Art. 69quinqiues <sup>2</sup> Crédit supplémentaire
 
 <sup>6</sup> Il appartient au Conseil communal d'apprécier si l’instance de révision et les personnes qui procèdent à la révision sont indépendantes de l'administration, respectivement si l’entreprise de révision est habilitée au sens de la LSR.
 
-#### Art. 73
+#### Art. 90
 
-<sup>2</sup> Conditions d’habilitation
+**Conditions d'habilitation**
 
 <sup>1</sup> L’instance de révision doit être une entreprise de révision au sens de la LSR.
 
-<sup>2</sup> L’entreprise de révision doit au minimum être agréée en qualité de réviseur selon la LSR pour pouvoir fonctionner comme instance de révision pour les communes dont le compte ne dépasse pas les deux valeurs suivantes: total du bilan 20 millions de francs, recettes brutes déterminantes 40 millions de francs. Le réviseur responsable du mandat doit être au minimum un réviseur agréé au sens de la LSR.
+<sup>2</sup> L’entreprise de révision doit au minimum être agréée en qualité de réviseur selon la LSR pour pouvoir fonctionner comme instance de révision pour les communes dont le compte ne dépasse pas les deux valeurs suivantes: total du bilan 20 millions de francs, revenus bruts déterminants 40 millions de francs. Le réviseur responsable du mandat doit être au minimum un réviseur agréé au sens de la LSR.
 
 <sup>3</sup> Si le compte dépasse ces deux valeurs, l’entreprise de révision doit être agréée en qualité d’expert-réviseur selon la LSR. Le réviseur responsable du mandat doit être un expert-réviseur agréé au sens de la LSR.
 
 <sup>4</sup> La personne qui dirige le mandat peut l’exercer pendant deux périodes législatives au plus. Elle ne peut reprendre le même mandat qu’après une interruption d’une période législative.
 
-#### Art. 73bis
+#### Art. 91
 
-<sup>2</sup> Exception
+**Exception**
 
 <sup>1</sup> Les bourgeoisies sont mises au bénéfice d'exigences allégées en matière de révision des comptes.
 
-<sup>2</sup> Si, au cours de deux exercices successifs, le compte d’une commune bourgeoisiale ne dépasse pas les deux valeurs suivantes: total du bilan deux millions de francs, recettes brutes déterminantes 200'000 francs, l’instance de révision ne doit pas être agréé au sens de la LSR. Il appartient au conseil bourgeoisial d'apprécier si l’instance de révision des comptes est habilitée.
+<sup>2</sup> Si, au cours de deux exercices successifs, le compte d’une commune bourgeoisiale ne dépasse pas les deux valeurs suivantes: total du bilan 2 millions de francs, revenus bruts déterminants 200'000 francs, l’instance de révision ne doit pas être agréé au sens de la LSR. Il appartient au conseil bourgeoisial d'apprécier si l’instance de révision des comptes est habilitée.
 
-#### Art. 74
+#### Art. 92
 
-<sup>2</sup> Tâches
+**Tâches**
 
-L'instance de révision des comptes contrôle la comptabilité et le compte annuel aux points de vue formel et matériel.
+<sup>1</sup> L'instance de révision des comptes contrôle la comptabilité et le compte annuel aux points de vue formel et matériel.
 
-#### Art. 75
+#### Art. 93
 
-<sup>1,2</sup> Rapports de révision
+**Rapports de révision**
 
 <sup>1</sup> L’instance de révision établit à l'intention du Conseil communal un rapport détaillé contenant le plan de travail des contrôles réalisés, des constatations relatives à l'établissement des comptes, au système de contrôle interne ainsi qu'à l'exécution et au résultat du contrôle.
 
@@ -1016,88 +1059,51 @@ L'instance de révision des comptes contrôle la comptabilité et le compte annu
 
 <sup>3</sup> Avec le rapport succinct, l‘instance de révision des comptes précise notamment:
 
-- a) qu'elle remplit les conditions légales et réglementaires en matière d’habilitation et d'indépendance;
-
+- a) qu'elle remplit les conditions légales et réglementaires en matière d'habilitation et d'indépendance;
 - b) qu'elle a vérifié que la comptabilité et le compte annuel ont été établis selon les dispositions légales et réglementaires;
-
 - c) qu'elle a effectué la révision selon les normes suisses de la profession, c'est-à-dire que la révision a été planifiée et exécutée de manière à ce que les principales données erronées du compte annuel puissent être reconnues;
-
 - d) qu'elle recommande d'approuver le compte annuel avec ou sans réserve ou de le refuser;
-
 - e) ses conclusions relatives à l'évolution de l'endettement et de l'équilibre financier à terme;
-
 - f) que l'entretien final avec le Conseil communal a eu lieu.
 
 <sup>4</sup> Le Conseil communal doit être préalablement informé au sujet du rapport et de la proposition. Il peut prendre position à leur égard.
 
 <sup>5</sup> Le rapport succinct fait partie intégrante du compte annuel.
 
-### Chapitre 6: Surveillance cantonale
+## 6 Surveillance cantonale
 
-#### Art. 76
+#### Art. 94
 
 **Surveillance générale**
 
-<sup>1</sup> Le département prend toutes les mesures nécessaires afin de garan-tir une gestion et une administration régulière des communes en la matière.[^76-1]
+<sup>1</sup> Le département prend toutes les mesures nécessaires afin de garantir une gestion et une administration régulière des communes en la matière.
 
 <sup>2</sup> Il conseille et soutient les communes.
 
-[^76-1]: Modification du 26.09.2012 BO No 40/2012 5.10.2012
-
-#### Art. 77
+#### Art. 95
 
 **Mesures arrêtées**
 
-<sup>1</sup> Le contrôle et le suivi des mesures arrêtées par le Conseil d’Etat ou le département incombent à l’Inspection des finances, à moins que des dispositions spéciales ne l’attribuent à un autre service ou au préposé.[^77-1]
+<sup>1</sup> Le contrôle et le suivi des mesures arrêtées par le Conseil d’Etat ou le département incombent à l’Inspection des finances, à moins que des dispositions spéciales ne l’attribuent à un autre service ou au préposé.
 
 <sup>2</sup> Elle peut en tout temps demander tous les documents nécessaires et effectuer des visites.
 
-[^77-1]: Modification du 26.09.2012 BO No 40/2012 5.10.2012
+#### Art. 96
 
-#### Art. 78
-
-<sup>2</sup> Inspections
+**Inspections**
 
 <sup>1</sup> L'Inspection des finances se rend aussi souvent que nécessaire dans les communes pour se rendre compte et vérifier si les mesures arrêtées sont appliquées et si elles sont gérées régulièrement et conformément au droit.
 
 <sup>2</sup> Elle rapporte par écrit les résultats de ses inspections conformément aux dispositions légales en la matière.
 
-<sup>3</sup> Si elle constate des irrégularités, elle informe le département et coordonne avec lui les mesures à prendre
+<sup>3</sup> Si elle constate des irrégularités, elle informe le département et coordonne avec lui les mesures à prendre.
 
-### Chapitre 7: Dispositions finales et transitoires
+## 7 Dispositions finales et transitoires
 
-[^hChapitre7Disposit-1]: Modification du 26.09.2012 BO No 40/2012 5.10.2012
+#### Art. 97
 
-#### Art. 79
+**Mise en oeuvre**
 
-**Abrogé**[^hChapitre7Disposit-1]
+<sup>1</sup> Les comptes 2021 restent soumis à l’ordonnance sur la gestion financière des communes du 16 juin 2004 (OGFCo).
 
-#### Art. 80
-
-**Découverts inscrits au bilan sous le régime de l'ancien droit**
-
-<sup>1</sup> Le Conseil d'Etat fixe, dans les plans financiers assortis de mesures d'assainissement, l'amortissement annuel du découvert inscrit au bilan avant l'entrée en vigueur de la loi sur les communes.
-
-<sup>2</sup> Cette charge est inscrite comme dépense liée et obligatoire dans le budget et dans le compte.
-
-#### Art. 81
-
-**Entrée en vigueur**
-
-La présente ordonnance sera publiée au Bulletin officiel, pour entrer en vigueur le 1<sup>er</sup> juillet 2004.
-
-Ainsi arrêté par le Conseil d'Etat à Sion le 16 juin 2004.
-
-Le président du Conseil d'Etat: Jean-René Fournier Le chancelier d'Etat: Henri v. Roten
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-**1.07.2004**
-
-vigueur BO No 29/2004
-
-## Autres notes
-
-- [1] Modification du 30.05.2007 BO No 27/2007 6.07.2007
+RCV RO/AGS 2021-019
