@@ -1,95 +1,102 @@
 ---
 canton: BL
 number: "630.11"
-title: Verordnung zum Gesetz über die Sportförderung
+title: Verordnung über die Sportförderung
 language: de
-version: 2006-06-01
-valid_until: 2021-02-28
-version_adopted: 2006-06-20
+version: 2021-03-01
+version_adopted: 2021-02-09
 adopted: 2021-02-09
 in_force: 2021-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/630.11"
-pdf: "https://bl.clex.ch/api/de/versions/759/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2908/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Gesetz über die Sportförderung
+# Verordnung über die Sportförderung
 
-Vom 20.06.2006 (Stand 01.06.2006)
+Vom 09.02.2021 (Stand 01.03.2021)
 
-Der Regierungsrat des Kantons Basel-Landschaft, gestüzt auf § 74 Absatz 2 der Verfassung vom 17. Mai 1984 des Kantons Basel-Landschaft, beschliesst:
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz vom 7. März 1991[^ingress-2] über die Sportförderung,
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 630](https://bl.clex.ch/data/630/de)
 
 #### § 1
 
-**Förderung von Bewegung und Sport**
+**Grundsatz**
 
-<sup>1</sup> Bewegungs- und Sporttätigkeiten werden in Form von Kursen, Lagern, Einzelanlässen und Veranstaltungen unterstützt.
+<sup>1</sup> Der Kanton fördert und unterstützt Sporttätigkeiten von Verbänden, Vereinen und öffentlich-rechtlichen Institutionen, die zur Erhaltung und Steigerung der sportlichen und körperlichen Leistungsfähigkeit, der Lebensqualität und des Wohlbefindens aller Altersgruppen führen.
 
 #### § 2
 
-**Jugendsport Baselland**
+**Form der Unterstützung**
 
-<sup>1</sup> Kinder und Jugendliche bis zum vollendeten 10. Altersjahr sollen sich ihrer Neigung entsprechend durch zeit- und altersgerechte Leitung und Betreuung bewegen und Sport treiben.
-
-<sup>2</sup> Der Kanton unterstützt die Verbände und Vereine bei der Förderung der Kinder und Jugendlichen.
-
-<sup>3</sup> Für Jugendliche bis zum 20. Altersjahr können Sporttätigkeiten ausserhalb der Bundesinstitution Jugend + Sport (kurz: J+S) unterstützt und organisiert werden.
+<sup>1</sup> Der Kanton unterstützt Sporttätigkeiten in Form von Kursen, Lagern, Veranstaltungen und Projekten.
 
 #### § 3
 
-**Jugend + Sport**
+**Angebot**
 
-<sup>1</sup> J+S ermöglicht Jugendlichen ab dem 10. Geburtstag Sport ganzheitlich zu erleben und mitzugestalten. J+S gestaltet und fördert nebst dem Schulsport jugendgerechten Sport auf freiwilliger Basis und unterstützt unter pädagogischen, sozialen und gesundheitlichen Gesichtspunkten die Entwicklung und Entfaltung junger Menschen.
+<sup>1</sup> Der Kanton führt eigene Sporttätigkeiten und Anlässe durch, insbesondere:
 
-<sup>2</sup> Das Sportamt sorgt für die Durchführung von Feriensportwochen und Veranstaltungen im Rahmen von J+S, organisiert und unterstützt die Aus-, Fort- und Weiterbildung der Leiterinnen und Leiter sowie J+S-Coaches in Zusammenarbeit mit dem Bundesamt für Sport (BASPO) sowie den Verbänden.
+- a. die Feriensportwochen für Kinder und Jugendliche;
+- b. den Baselbieter Team-OL;
+- c. den Familiensporttag;
+- d. das Aktionsprogramm BLyb SPORTlich;
+- e. das Spiel ohne Grenzen;
+- f. den School Dance Award;
+- g. die Verleihung der Baselbieter Sportpreise;
+- h. das Förderprogramm Talent Eye;
+- i. das Förderprogramm Kinder- und Jugendsport Baselland (KJSBL).
 
 #### § 4
 
-**Erwachsenensport**
+**Aus-, Fort- und Weiterbildung**
 
-<sup>1</sup> Mit Aufbau- und Schulungsprogrammen sowie Aktionen sollen einerseits Angebote zu regelmässiger Bewegung und Sport hinführen und es sollen andererseits gezielte, dem Alter entsprechende Programme angeboten werden.
+<sup>1</sup> Der Kanton stellt in Zusammenarbeit mit dem Bundesamt für Sport, Swiss Olympic, den Partnerkantonen, den Sportverbänden und anderen Institutionen die Aus-, Fort- und Weiterbildung von Sportleiterinnen und -leitern sowie Sportfunktionären sicher.
 
-<sup>2</sup> Trägerorganisationen sind Verbände, Vereine, privatrechtliche und öffentlich-rechtliche Institutionen, kommerzielle Anbieterinnen und Anbieter oder spezielle Gruppen.
+<sup>2</sup> Er kann zudem Aus-, Fort- und Weiterbildungen im Bereich der Sportförderung und des Sportmanagements anbieten.
 
 #### § 5
 
-**Ausbildung**
+**Beratung**
 
-<sup>1</sup> Das Sportamt sorgt in Zusammenarbeit mit den Fachorganisationen und den Verbänden für die Aus-, Fort- und Weiterbildung der Personen, die in Sportverbänden, Sportvereinen oder bei kommerziellen Sportanbietern administrativ oder technisch tätig sind.
-
-<sup>2</sup> Voraussetzungen für die Zulassung zur Aus-, Fort- oder Weiterbildung sind Erfahrung, Können und Wissen im Sport, Neigung und Eignung zum Erteilen von Sportunterricht mit Kindern, Jugendlichen und Erwachsenen oder ausgeprägte administrative sowie organisatorische Fähigkeiten und persönliche Qualitäten.
-
-<sup>3</sup> Das Sportamt sorgt in Zusammenarbeit mit den Fachorganisationen für die Aus-, Fort- und Weiterbildung der Personen, welche sich im nicht organisierten niederschwelligen Breitensport engagieren, mit dem Ziel, möglichst viele Personen zu regelmässiger Bewegung hinzuführen.
-
-<sup>4</sup> Das Sportamt kann weitere Fachausbildungen wie Seminarien und Workshops im Bereich Bewegung und Sport anbieten.
-
-<sup>5</sup> Das Sportamt schlägt dem BASPO nach Absprache mit dem entsprechenden Verband Personen für die Ausbildung zu Fachexpertinnen und Fachexperten vor.
+<sup>1</sup> Der Kanton bietet im Breiten- und Leistungssport Beratungsleistungen für Sportvereine, Sportverbände, Gemeinden, Jugendorganisationen, Schulen sowie Sportlerinnen und Sportler an.
 
 #### § 6
+
+**Vermittlung**
+
+<sup>1</sup> Der Kanton orientiert die Bevölkerung über die Sportangebote und die öffentlich zugängliche Sportinfrastruktur.
+
+<sup>2</sup> Der Kanton stellt Sportveranstalterinnen und -veranstaltern mobile Sportinfrastrukturen und Sportmaterial zur Verfügung.
+
+#### § 7
 
 **Fachkommission für Sportfragen**
 
 <sup>1</sup> Der Regierungsrat wählt eine Fachkommission für Sportfragen (Sportkommission).
 
-<sup>2</sup> Sie besteht aus maximal 11 Mitgliedern und setzt sich aus Vertretungen des öffentlich-rechtlichen und des privatrechtlichen Sports zusammen. Sie konstituiert sich selbst.
+<sup>2</sup> Sie besteht aus maximal 11 Mitgliedern und setzt sich aus Vertretungen des öffentlich-rechtlichen und des privatrechtlichen Sports zusammen. Sie umfasst:
 
-<sup>3</sup> Die Sportkommission berät den Regierungsrat, die Bildungs- Kultur- und Sportdirektion und das Sportamt. Sie unterstützt die Bestrebungen von Sport- und Jugendverbänden sowie weiterer Institutionen.
+- a. 1 Vertretung des Sportamts;
+- b. 1 Vertretung der Gesundheitsförderung (Amt für Gesundheit der Volkswirtschafts- und Gesundheitsdirektion);
+- c. 3 Vertretungen der IG Baselbieter Sportverbände;
+- d. 1 Vertretung des Basellandschaftlichen Vereins für Sport in der Schule (BLVSS);
+- e. 1 Vertretung der Vereinigung Basellandschaftlicher Sportjournalisten;
+- f. bis zu 4 weitere Mitglieder, die in Ergänzung zu den unter a–e genannten Mitgliedern eine ausgewogene Vertretung aller Sportbereiche, insbesondere von Kinder-, Jugend- und Erwachsenensport, Breiten- und Leistungssport sowie Bau und Betrieb von Sportanlagen gewährleisten.
 
-<sup>4</sup> Die Bildungs-, Kultur- und Sportdirektion kann weitere Fachgruppen bilden und diesen weitere Aufgaben übertragen.
+<sup>3</sup> Die Geschäftsführung obliegt dem Sportamt.
 
-#### § 7
+<sup>4</sup> Im Übrigen konstituiert sich die Sportkommission selbst.
 
-**Aufhebung bisherigen Rechts**
+<sup>5</sup> Die Sportkommission berät den Regierungsrat, die Bildungs-, Kultur- und Sportdirektion sowie das Sportamt.
 
-<sup>1</sup> Die Verordnung vom 17. September 1991[^7-1] zum Gesetz über die Sportförderung wird aufgehoben
+<sup>6</sup> Die Bildungs-, Kultur- und Sportdirektion kann weitere Fachgruppen bilden und diesen weitere Aufgaben übertragen.
 
-[^7-1]: GS 30.644, SGS 630.11
-
-#### § 8
-
-**In-Kraft-Treten**
-
-<sup>1</sup> Die Verordnung tritt rückwirkend am 1. Juni 2006 in Kraft.
-
-GS 35.0940
+GS 2021.009
