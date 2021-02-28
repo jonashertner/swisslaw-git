@@ -3,20 +3,20 @@ canton: OW
 number: "141.113"
 title: Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung
 language: de
-version: 2019-07-01
-valid_until: 2021-02-28
-version_adopted: 2019-02-19
+version: 2021-03-01
+valid_until: 2021-11-30
+version_adopted: 2021-02-26
 adopted: 2008-08-19
 in_force: 2008-10-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.113"
-pdf: "http://gdb.ow.ch/api/de/versions/1356/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Arbeitszeit bei der kantonalen Verwaltung
 
-vom 19.08.2008 (Stand 01.07.2019)
+vom 19.08.2008 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -77,7 +77,7 @@ beschliesst:
 
 <sup>1</sup> Die Schalter und die Telefonzentrale sind von Montag bis Freitag zwischen 08.00 und 11.45 Uhr und zwischen 13.30 und 17.00 Uhr besetzt; vor Feiertagen bis 16.00 Uhr.
 
-<sup>2</sup> Die Departementsvorsteherin oder der Departementsvorsteher kann bei Bedarf die Öffnungszeiten im Einzelfall oder generell verlängern.
+<sup>2</sup> Die Departementsvorsteherin oder der Departementsvorsteher kann bei Bedarf die Öffnungszeiten im Einzelfall oder generell verlängern oder verkürzen.
 
 <sup>3</sup> Besprechungen sind mit gegenseitiger Terminabsprache auch ausserhalb der Schalteröffnungszeiten möglich.
 
@@ -272,6 +272,8 @@ Geändert durch:
 
 \- Nachtrag vom 13. Dezember 2016, in Kraft seit 1. Januar 2017 (OGS 2016, 84),
 
-\- Nachtrag vom 19. Februar 2019, in Kraft seit 1. Juli 2019 (OGS 2019, 20)
+\- Nachtrag vom 19. Februar 2019, in Kraft seit 1. Juli 2019 (OGS 2019, 20),
+
+\- Nachtrag vom 26. Februar (richtig Januar) 2021, in Kraft seit 1. März 2021 (OGS 2021, 10)
 
 OGS 2008, 65 und 69
