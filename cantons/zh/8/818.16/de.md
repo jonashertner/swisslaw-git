@@ -4,96 +4,106 @@ number: "818.16"
 title: Gesetz über die finanzielle Unterstützung der privaten institutionellen familienergänzenden Kinderbetreuung aufgrund der Coronapandemie (GUpfK)
 short: GUpfK
 language: de
-nachtrag: "109"
-valid_until: 2021-03-01
+nachtrag: "115"
+valid_until: 2022-01-01
 adopted: 2021-11-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-818_16-2020_05_12-2020_05_18-109.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-818_16-2021_10_25-2021_11_01-115.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Reglement über die Maturitätsprüfungen an den kantonalen Gymnasien während der Corona-Pandemie
+# Gesetz über die Verwendung der Zusatzbeiträge des Bundes an Covid-19-Härtefallmassnahmen für Unternehmen
 
-(vom 12. Mai 2020)[^t-1],[^t-2]
+(vom 25. Oktober 2021)[^t-1],[^t-2]
 
-Der Bildungsrat,
+Der Kantonsrat,
 
-gestützt auf Art. 5 Abs. 2 der Verordnung 2 vom 13. März 2020 über Massnahmen zur Bekämpfung des Coronavirus (COVID-19)[^t-3], Art. 1 Abs. 3 und Art. 2 der Verordnung vom 29. April 2020 über die Durchführung der kantonalen gymnasialen Maturitätsprüfungen 2020 angesichts der Pandemie des Coronavirus[^t-4], §§ 4 und 16 Abs. 2 des Mittelschulgesetzes vom 13. Juni 1999[^t-5],
+nach Einsichtnahme in die gleichlautenden Anträge des Regierungsrates vom 8. September 2021[^t-3] und der Finanzkommission vom 30. September 2021,
 
 beschliesst:
 
-[^t-1]: OS 75, 328; Begründung siehe ABl 2020-06-05.
-[^t-2]: Inkrafttreten: 18. Mai 2020.
-[^t-3]: SR 818.101.24. 1. 7. 20 - 109 3
-[^t-4]: SR 413.16.
-[^t-5]: LS 413.21.
-
-### A. Allgemeines
+[^t-1]: OS 76, 440.
+[^t-2]: Inkrafttreten: 1. November 2021.
+[^t-3]: ABl 2021-09-17.
 
 #### § 1
 
-Dieses Reglement regelt die Maturitätsprüfungen an den kantonalen Gymnasien für das Schuljahr 2019/2020 in Abweichung von folgenden Reglementen:
+**Grundsatz**
 
-- a. Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich vom 10. März 1998[^1-1],
+<sup>1</sup> Der Kanton kann Unternehmen der Gastronomiebranche Staatsbeiträge gewähren.
 
-- b. Reglement für die Maturitätsprüfungen des schweizerisch-italienischen Liceo artistico (Kunstgymnasium) Zürich vom 11.August 1998[^1-2].
+<sup>2</sup> Die Staatsbeiträge werden durch die Zusatzbeiträge des Bundes gemäss Art. 12 Abs. 2 des Bundesgesetzes vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)[^1-1] und der Verordnung vom 25. November 2020 über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie (Covid-19- Härtefallverordnung)[^1-2] finanziert.
 
-[^1-1]: LS 413.252.1.
-[^1-2]: LS 413.252.8.
+<sup>3</sup> Nicht unter dieses Gesetz fallen Staatsbeiträge gemäss den Beschlüssen des Kantonsrates über einen Verpflichtungskredit für das Covid-19- Härtefallprogramm des Kantons Zürich vom 14. Dezember 2020, über einen Zusatzkredit und die Nachtragskredite für eine zweite Zuteilungsrunde im Covid-19-Härtefallprogramm des Kantons Zürich vom 25. Januar 2021 und über einen zweiten Zusatzkredit und die weiteren Nachtragskredite für das Covid-19-Härtefallprogramm des Kantons Zürich vom 15. März 2021.
 
-### B. Verzicht auf die Durchführung von Prüfungen
+[^1-1]: SR 818.102.
+[^1-2]: SR 951.262. 1. 1. 22 - 115 3
 
 #### § 2
 
-**Grundsatz**
+**Unternehmen**
 
-Es finden am Ende der Maturitätsausbildung keine schriftlichen oder mündlichen Maturitätsprüfungen statt. Vorbehalten bleiben die Prüfungen der Halbtagesklasse der Kantonalen Maturitätsschule für Erwachsene im Dezember 2020 und Januar 2021, sofern die pandemiologische Entwicklung deren Durchführung zulässt.
+<sup>1</sup> Staatsbeiträge können Unternehmen der Gastronomiebranche gewährt werden, die a. ihren Sitz im Zeitpunkt, der gemäss dem Bundesrecht massgeblich ist, im Kanton Zürich hatten,
 
-#### § 3
+- b. eine hohe Zahl von Betrieben innerhalb und ausserhalb des Kantons führen,
 
-**Prüfungen**
-
-<sup>1</sup> Schülerinnen und Schüler, die gestützt auf § 4 dieses Reglements die Maturität nicht bestehen würden, haben Anspruch auf das Ablegen der schriftlichen und mündlichen Maturitätsprüfungen.
+- c. die Voraussetzungen von Art. 12 des Covid-19-Gesetzes und der Covid-19-Härtefallverordnung erfüllen,
 
 **1**
 
-- 1\. 7. 20 - 109
+- 1\. 1. 22 - 115
 
-<sup>2</sup> Die Prüfungen richten sich nach dem Reglement für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich vom 10. März 1998 oder dem Reglement für die Maturitätsprüfungen des schweizerischitalienischen Liceo artistico (Kunstgymnasium) Zürich vom 11. August 1998.
+- d. einen Umsatzrückgang im Sinne der Covid-19-Härtefallverordnung von mehr als 40 Mio. Franken erlitten haben,
 
-<sup>3</sup> Das Ablegen der Prüfungen gilt nicht als Wiederholung der Maturitätsprüfung.
+- e. im Zeitraum, der gemäss dem Bundesrecht massgeblich ist, keinen Gewinn erzielt haben und tatsächliche Kosten hatten, denen kein Umsatz entgegensteht, und
 
-### C. Ermittlung der Noten und Prüfungsentscheid
+- f. in der 3. Zuteilungsrunde des Covid-19-Härtefallprogramms gemäss dem Beschluss des Kantonsrates vom 15. März 2021 ein Gesuch um einen Staatsbeitrag gestellt haben.
+
+<sup>2</sup> Die Unternehmen müssen die Erfüllung dieser Voraussetzungen nachweisen.
+
+#### § 3
+
+**Staatsbeiträge a. Form und Bemessung**
+
+<sup>1</sup> Die Form und die Bemessung der Staatsbeiträge richten sich nach Art. 12 des Covid-19-Gesetzes und der Covid-19-Härtefallverordnung sowie nach den verfügbaren Zusatzbeiträgen des Bundes.
+
+<sup>2</sup> Von den Vorgaben dieser Erlasse kann abgewichen werden, soweit die Erlasse dies erlauben.
+
+<sup>3</sup> Ausgeschlossen ist eine Erhöhung des pauschalen Fixkostenanteils gemäss Art. 8 b Abs. 3 der Covid-19-Härtefallverordnung.
 
 #### § 4
 
-**Maturitätsnoten a. Grundsatz**
+**b. Begrenzung und Anrechnung**
 
-<sup>1</sup> Die Maturitätsnoten ergeben sich aus:
+<sup>1</sup> Die Staatsbeiträge dürfen höchstens die ungedeckten Kosten gemäss § 2 Abs. 1 lit. e decken. Sie dürfen nicht zu einem Gewinn führen.
 
-- a. dem Mittel der Erfahrungsnoten des letzten Ausbildungsjahres, in dem das Fach erteilt wurde, und der Prüfungsnoten aus Fächern, in denen vorgezogene Maturitätsprüfungen durchgeführt wurden, und
+<sup>2</sup> An die Staatsbeiträge werden angerechnet:
 
-- b. der Note der Maturitätsarbeit.
+- a. Staatsbeiträge aus der 1., 2. und 3. Zuteilungsrunde des Covid-19- Härtefallprogramms gemäss den Beschlüssen des Kantonsrates vom 14. Dezember 2020, 25. Januar 2021 und 15. März 2021,
 
-<sup>2</sup> Bei Schülerinnen und Schülern der Halbtagesschule der Kantonalen Maturitätsschule für Erwachsene ergeben sich die Maturitätsnoten aus:
-
-- a. dem Mittel der Erfahrungsnoten des letzten Ausbildungsjahres, in dem das Fach erteilt wurde, und der Prüfungsnoten aus den Fächern, in denen Maturitätsprüfungen durchgeführt wurden, und
-
-- b. der Note der Maturitätsarbeit.
-
-<sup>3</sup> Die Note der Maturitätsarbeit wird aufgrund des Arbeitsprozesses, der schriftlichen Arbeit und ihrer Präsentation gesetzt. Kann die Maturitätsarbeit nicht präsentiert werden, werden nur der Arbeitsprozess und die schriftliche Arbeit bewertet.
+- b. Leistungen Dritter, insbesondere von Versicherungen sowie Vermieterinnen und Vermietern, im Zusammenhang mit der Covid-19- Epidemie.
 
 #### § 5
 
-**b. Abgelegte Prüfung**
+**c. Rechtsnatur**
 
-<sup>1</sup> Bei Ablegen der Prüfungen ergeben sich die Maturitätsnoten aus dem Mittel der Erfahrungs- und der Prüfungsnoten.
+<sup>1</sup> Die Staatsbeiträge sind Subventionen gemäss dem Staatsbeitragsgesetz vom 1. April 1990.
 
-<sup>2</sup> Bei Ablegen der Prüfungen werden die Maturitätsnoten gemäss §§ 14 Abs. 6 des Reglements für die Maturitätsprüfungen an den Gymnasien des Kantons Zürich vom 10. März 1998 oder des Reglements für die Maturitätsprüfungen des schweizerisch-italienischen Liceo artistico (Kunstgymnasium) Zürich vom 11. August 1998 ermittelt.
-
-### D. Geltungsdauer
+<sup>2</sup> Auf die Staatsbeiträge besteht kein Anspruch.
 
 #### § 6
 
-Dieses Reglement gilt bis zum 28. Februar 2021.
+**Vollzug**
+
+<sup>1</sup> Die für die Finanzen zuständige Direktion (Direktion) vollzieht dieses Gesetz.
+
+<sup>2</sup> Sie kann Ausführungsbestimmungen erlassen.
+
+#### § 7
+
+**Geltungsdauer**
+
+<sup>1</sup> Dieses Gesetz gilt bis zum 31. Dezember 2021.
+
+<sup>2</sup> Werden die gesetzlichen Grundlagen des Bundes für die Covid-19- Härtefallmassnahmen für Unternehmen verlängert, kann die Direktion die Geltungsdauer dieses Gesetzes entsprechend verlängern.
