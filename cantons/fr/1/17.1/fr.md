@@ -4,13 +4,13 @@ number: "17.1"
 title: Loi sur la protection des données
 short: LPrD
 language: fr
-version: 2017-01-01
-valid_until: 2021-02-28
-version_adopted: 2016-10-05
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-18
 adopted: 2023-10-12
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/17.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6236/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6852/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Protection des données – L
 
 (LPrD)
 
-du 25.11.1994 (version entrée en vigueur le 01.01.2017)
+du 25.11.1994 (version entrée en vigueur le 01.03.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -62,18 +62,20 @@ Décrète:
 
 <sup>1</sup> On entend par:
 
-- a) données personnelles ( données ), toutes les informations qui se rapportent à une personne identifiée ou identifiable;
-- b) personne concernée , la personne physique ou morale au sujet de laquelle des données sont traitées;
-- c) données sensibles , les données personnelles sur:
+- a) données personnelles (données), toutes les informations qui se rapportent à une personne identifiée ou identifiable;
+- b) personne concernée, la personne physique ou morale au sujet de laquelle des données sont traitées;
+- c) données sensibles, les données personnelles sur:
   - 1\. les opinions ou activités religieuses, philosophiques, politiques ou syndicales,
   - 2\. la santé, la sphère intime ou l'appartenance à une race,
   - 3\. des mesures d'aide sociale,
   - 4\. des sanctions pénales ou administratives et les procédures y relatives;
-- d) traitement, toute opération relative à des données personnelles – quels que soient les moyens et procédés utilisés – notamment la collecte, la conservation, l'exploitation, la modification, la communication, l'archivage ou la destruction de données;
+- d) traitement, toute opération relative à des données personnelles – quels que soient les moyens et procédés utilisés –, notamment la collecte, la conservation, l'hébergement, l'exploitation, la modification, la communication, l'archivage ou la destruction de données;
 - e) communication, le fait de rendre des données personnelles accessibles, par exemple en autorisant leur consultation, en les transmettant ou en les diffusant;
+- e1) externalisation du traitement, une forme de sous-traitance impliquant la délocalisation du traitement sur les infrastructures du sous-traitant;
 - f) fichier, tout ensemble de données personnelles dont la structure permet de rechercher les données par personne concernée;
 - g) responsable du fichier, l'organe public qui décide du but et du contenu du fichier;
 - h) participant au fichier, l'organe public qui, sans être responsable du fichier, est en droit d'introduire des données dans le fichier ou d'y procéder à des mutations.
+- i) sous-traitant, la personne privée ou l'organe public relevant d'une autre collectivité qui traite des données personnelles pour le compte d'un ou plusieurs responsables du fichier.
 
 ## 2 Principes régissant le traitement de données personnelles
 
@@ -168,6 +170,74 @@ Décrète:
 
 <sup>3</sup> L'organe public informe le ou la préposé-e cantonal-e à la protection des données des garanties prises en vertu de l'alinéa 2 let. a avant la communication des données à l'étranger.
 
+#### Art. 12b
+
+**Externalisation – Principes**
+
+<sup>1</sup> Le traitement de données personnelles, y compris de données sensibles, peut être externalisé aux conditions posées par les présentes dispositions.
+
+<sup>2</sup> Les lieux de traitement doivent être situés en tout temps sur le territoire suisse ou sur le territoire d'un Etat garantissant un niveau de protection des données équivalent.
+
+<sup>3</sup> Lorsque l'externalisation implique une délégation de tâches à des tiers au sens de l'article 54 de la Constitution du canton de Fribourg du 16 mai 2004, les exigences particulières prévues par cette disposition sont applicables.
+
+<sup>4</sup> Le Conseil d'Etat présente tous les deux ans à la Commission des finances et de gestion un rapport sur l'externalisation.
+
+#### Art. 12c
+
+**Externalisation – Responsabilités**
+
+<sup>1</sup> L'organe public qui procède à une externalisation demeure responsable de la protection des données personnelles, en particulier de leur confidentialité ainsi que de la pérennité de leur conservation et de leur exploitation. En particulier:
+
+- a) il prend les précautions commandées par les circonstances quant au choix du sous-traitant, à son instruction et à sa surveillance;
+- b) il assure la protection et la sécurité des données et de ses propres systèmes d'information par la conclusion d'un contrat qui décrit au minimum:
+  - 1\. l'objet, la nature, la finalité et la durée de l'externalisation;
+  - 2\. les catégories de données concernées;
+  - 3\. les obligations et les droits de chaque partie;
+  - 4\. les droits et possibilités de contrôle de l'autorité de surveillance en matière de protection des données;
+  - 5\. l'interdiction faite au sous-traitant de sous-traiter à son tour un traitement sans l'autorisation préalable du responsable du fichier;
+  - 6\. le devoir du sous-traitant d'informer immédiatement le responsable du fichier lorsque, en vertu d'une loi étrangère ou d'une décision de justice, il est tenu de communiquer des données à une autorité étrangère ou risque de devoir le faire;
+- c) il ne confie pas au sous-traitant des traitements qu'il ne serait pas en droit d'effectuer lui-même;
+- d) il veille à ce que les données et les outils informatiques concernés par une externalisation puissent être récupérés en tout temps, notamment dans le but de changer de sous-traitant, de procéder à leur réinternalisation ou de les verser aux archives historiques.
+
+<sup>2</sup> Lorsque l'externalisation concerne plusieurs organes différents au sein d'une même collectivité publique, un organe principalement responsable est désigné.
+
+<sup>3</sup> Au sein de l'administration cantonale, la responsabilité de la mise en œuvre et du suivi des règles de la présente section est assumée conjointement par l'organe compétent à raison de la matière et par le service en charge de l'informatique[^12c-1]. Sont réservés les cas dans lesquels l'organe compétent à raison de la matière gère de manière autonome ses systèmes informatiques.
+
+[^12c-1]: Actuellement: Service de l'informatique et des télécommunications.
+
+#### Art. 12d
+
+**Externalisation – Mesures de sécurité**
+
+<sup>1</sup> L'intégrité, l'authenticité, la disponibilité et la confidentialité des données personnelles externalisées ainsi que la pérennité de leur conservation et de leur exploitation doivent être garanties par des mesures organisationnelles et techniques appropriées et adaptées à l'évolution des technologies disponibles.
+
+<sup>2</sup> La définition des mesures de sécurité tient compte des risques que le traitement des données en question présente pour la personnalité et les droits fondamentaux des personnes concernées.
+
+<sup>3</sup> Lorsque l'externalisation concerne des données indispensables au fonctionnement de l'administration, la continuité des activités externalisées doit, en cas d'incident, être garantie par un dispositif adéquat.
+
+#### Art. 12e
+
+**Externalisation – Mesures relatives aux données sensibles**
+
+<sup>1</sup> Le traitement de données personnelles sensibles qui présente un risque concret d'atteinte aux droits des personnes concernées et le traitement de données qui font l'objet d'une obligation légale ou contractuelle de garder le secret peuvent être externalisés si la confidentialité à l'égard du sous-traitant est assurée de manière que ce dernier ne puisse avoir accès à leur contenu.
+
+<sup>2</sup> Lorsque le sous-traitant doit impérativement avoir accès aux données pour des raisons techniques, le contrat d'externalisation fixe les exigences particulières nécessaires, en particulier l'engagement du sous-traitant de n'accéder au contenu des données qu'avec le consentement exprès de l'organe public qui procède à l'externalisation et l'obligation de tenir un journal des accès.
+
+#### Art. 12f
+
+**Essais pilotes**
+
+<sup>1</sup> Sur la base d'un dossier dûment établi et après consultation de l'Autorité cantonale de la transparence et de la protection des données, le Conseil d'Etat peut autoriser par voie d'ordonnance le traitement automatisé de données sensibles si cela paraît indispensable pour réaliser un essai pilote ou préparer une application pendant la procédure d'adoption ou d'adaptation de sa base légale.
+
+<sup>2</sup> Une phase d'essai peut être considérée comme indispensable pour traiter les données:
+
+- a) si l'accomplissement des tâches nécessite l'introduction d'innovations techniques dont les effets doivent être évalués;
+- b) si l'accomplissement des tâches nécessite la prise de mesures organisationnelles ou techniques importantes dont l'efficacité doit être examinée, notamment dans le cadre d'une collaboration entre les organes fédéraux et les cantons.
+
+<sup>3</sup> L'organe responsable transmet, au plus tard deux ans après la mise en œuvre de la phase d'essai, un rapport d'évaluation au Conseil d'Etat et à l'autorité de surveillance. Dans ce rapport, il lui propose la poursuite ou l'interruption du traitement.
+
+<sup>4</sup> Si le Conseil d'Etat autorise la poursuite du traitement, il engage immédiatement la procédure législative pour donner une base légale formelle au traitement de ces données.
+
 #### Art. 13
 
 **Destruction**
@@ -221,9 +291,9 @@ Décrète:
 
 #### Art. 18
 
-**Responsabilité – Traitement sur mandat**
+**Responsabilité – Sous-traitance**
 
-<sup>1</sup> L'organe public qui fait traiter des données personnelles par un tiers demeure responsable de la protection des données. Il doit notamment donner au ou à la mandataire les instructions nécessaires et veiller à ce que celui-ci ou celle-ci n'utilise les données ou ne les communique que pour l'exécution du mandat.
+<sup>1</sup> L'organe public qui fait traiter des données personnelles par un sous-traitant demeure responsable de la protection des données. Il doit notamment donner au sous-traitant les instructions nécessaires et veiller à ce que ce dernier n'utilise les données ou ne les communique que pour l'exécution du mandat.
 
 <sup>2</sup> Lorsque le ou la mandataire n'est pas soumis-e à la présente loi, l'organe public assure la protection des données par un contrat, à moins que d'autres dispositions légales n'offrent une protection suffisante.
 
@@ -462,6 +532,12 @@ Décrète:
 **Droit transitoire – Communes sans fichiers automatisés**
 
 <sup>1</sup> Tant qu'une commune ne dispose d'aucun fichier automatisé, ses organes ne sont pas soumis à l'obligation de déclarer leurs fichiers à l'autorité de surveillance.
+
+#### Art. 34a
+
+**Droit transitoire – Contrats d'externalisation**
+
+<sup>1</sup> Pour autant que besoin, les contrats d'externalisation conclus avant l'entrée en vigueur de la modification du 18 décembre 2020 de la présente loi sont adaptés aux exigences des articles 12b et suivants lors de leur renouvellement, mais au plus tard dans un délai de cinq ans.
 
 #### Art. 35
 

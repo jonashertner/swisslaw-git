@@ -4,13 +4,13 @@ number: "17.1"
 title: Gesetz über den Datenschutz
 short: DSchG
 language: de
-version: 2017-01-01
-valid_until: 2021-02-28
-version_adopted: 2016-10-05
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-18
 adopted: 2023-10-12
 in_force: 2024-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/17.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6236/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6852/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Datenschutz – G
 
 (DSchG)
 
-vom 25.11.1994 (Fassung in Kraft getreten am 01.01.2017)
+vom 25.11.1994 (Fassung in Kraft getreten am 01.03.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -69,11 +69,13 @@ beschliesst:
   - 2\. die Gesundheit, die Intimsphäre oder die Rassenzugehörigkeit,
   - 3\. Massnahmen der sozialen Hilfe,
   - 4\. strafrechtliche oder administrative Sanktionen und diesbezügliche Verfahren;
-- d) Bearbeiten: jeder Umgang mit Personendaten, unabhängig von den angewandten Mitteln und Verfahren, insbesondere das Beschaffen, Aufbewahren, Verwenden, Umarbeiten, Bekanntgeben, Archivieren oder Vernichten von Daten;
+- d) Bearbeiten, jeder Umgang mit Personendaten, unabhängig von den angewandten Mitteln und Verfahren, insbesondere das Beschaffen, Aufbewahren, Hosten, Verwenden, Umarbeiten, Bekanntgeben, Archivieren oder Vernichten von Daten;
 - e) Bekanntgeben: das Zugänglichmachen von Personendaten, wie das Einsicht gewähren, Weitergeben oder Veröffentlichen;
+- e1) Auslagerung des Bearbeitens, Form der Bearbeitung durch Auftragsbearbeiter, das zur Folge hat, dass das Bearbeiten auf die Infrastrukturen des Auftragsbearbeiters übertragen wird;
 - f) Datensammlung: jeder Bestand von Personendaten, der so aufgebaut ist, dass die Daten nach den betroffenen Personen erschliessbar sind;
 - g) Verantwortlicher der Datensammlung: das öffentliche Organ, das über den Zweck und den Inhalt einer Datensammlung entscheidet;
 - h) Beteiligter an der Datensammlung: das öffentliche Organ, das, ohne Verantwortlicher der Datensammlung zu sein, Daten in eine Datensammlung eingeben oder Änderungen an den Daten vornehmen darf.
+- i) Auftragsbearbeiter, Privatperson oder öffentliches Organ eines anderen Gemeinwesens, das Personendaten für einen oder mehrere Verantwortliche der Datensammlung bearbeitet.
 
 ## 2 Grundsätze für das Bearbeiten von Personendaten
 
@@ -168,6 +170,74 @@ beschliesst:
 
 <sup>3</sup> Vor der Bekanntgabe der Daten ins Ausland informiert das öffentliche Organ die kantonale Datenschutzbeauftragte oder den kantonalen Datenschutzbeauftragten über die Garantien nach Absatz 2 Bst. a.
 
+#### Art. 12b
+
+**Auslagerung – Grundsätze**
+
+<sup>1</sup> Die Bearbeitung personenbezogener Daten, einschliesslich besonders schützenswerter Daten, kann unter den in diesen Bestimmungen festgelegten Bedingungen ausgelagert werden.
+
+<sup>2</sup> Die Daten müssen jederzeit auf dem Gebiet der Schweiz oder auf dem Gebiet eines Staates, der einen gleichwertigen Datenschutz gewährleistet, bearbeitet werden.
+
+<sup>3</sup> Wenn die Auslagerung eine Delegation von Aufgaben an Dritte im Sinne von Artikel 54 der Kantonsverfassung vom 16. Mai 2004 zur Folge hat, gelten die besonderen Anforderungen gemäss dieser Bestimmung.
+
+<sup>4</sup> Der Staatsrat unterbreitet der Finanz- und Geschäftsprüfungskommission alle zwei Jahre einen Bericht über die Auslagerung.
+
+#### Art. 12c
+
+**Auslagerung – Verantwortung**
+
+<sup>1</sup> Das öffentliche Organ, das Daten auslagert, bleibt für den Schutz der Personendaten, insbesondere für die Vertraulichkeit und die Kontinuität ihrer Aufbewahrung und Nutzung, verantwortlich. Insbesondere:
+
+- a) ergreift es die Vorsichtsmassnahmen, die bei der Wahl des Auftragsbearbeiters, den Weisungen an diesen und der Aufsicht über diesen aufgrund der Umstände geboten sind;
+- b) gewährleistet es den Schutz und die Sicherheit der Daten und deren eigenen Informationssysteme, indem sie einen Vertrag abschliesst, der mindestens Folgendes beschreibt:
+  - 1\. den Gegenstand, die Art, den Zweck und die Dauer der Auslagerung;
+  - 2\. die betroffenen Datenkategorien;
+  - 3\. die Pflichten und Rechte jeder Partei;
+  - 4\. die Rechte und die Kontrollmöglichkeiten der Aufsichtsbehörde im Bereich des Datenschutzes;
+  - 5\. das an den Auftragsbearbeiter gerichtete Verbot, ohne vorherige Genehmigung des für die Datensammlung Verantwortlichen seinerseits einen weiteren Auftragsbearbeiter für die Bearbeitung zu beauftragen;
+  - 6\. die Pflicht des Auftragsbearbeiters, den Verantwortlichen der Datensammlung unverzüglich zu informieren, wenn er aufgrund eines ausländischen Gesetzes oder eines richterlichen Entscheids die Daten einer ausländischen Behörde bekanntgeben muss oder Gefahr läuft, dass er es tun muss.
+- c) überträgt es dem Auftragsbearbeiter kein Bearbeiten, das es nicht selber ausführen darf.
+- d) sorgt es dafür, dass es die von einer Auslagerung betroffenen Daten und Informatikwerkzeuge jederzeit zurückbekommen kann, namentlich damit es den Auftragsbearbeiter wechseln, die Daten wieder bei sich bearbeiten oder sie dem Historischen Archiv abliefern kann.
+
+<sup>2</sup> Wenn die Auslagerung mehrere verschiedene Organe desselben Gemeinwesens betrifft, wird eine hauptverantwortliches Organ bezeichnet.
+
+<sup>3</sup> Bei der Kantonsverwaltung übernehmen das sachlich zuständige Organ und das Amt, das für die Informatik zuständig ist[^12c-1], gemeinsam die Verantwortung für die Umsetzung und die Kontrolle der Vorschriften dieses Abschnitts. Fälle, in denen das sachlich zuständige Organ seine Informatiksysteme autonom verwaltet, bleiben vorbehalten.
+
+[^12c-1]: Heute: Amt für Informatik und Telekommunikation.
+
+#### Art. 12d
+
+**Auslagerung – Sicherheitsmassnahmen**
+
+<sup>1</sup> Die Unversehrtheit, die Authentizität, die Verfügbarkeit und die Vertraulichkeit der Personendaten, die von einer Auslagerung betroffen sind, sowie deren ständige Aufbewahrung und Verwendung müssen mit geeigneten organisatorischen und technischen Massnahmen, die der Entwicklung der verfügbaren Technologien angepasst sind, sichergestellt werden.
+
+<sup>2</sup> Die Definition der Sicherheitsmassnahmen berücksichtigt die Gefahren, die das Bearbeiten der fraglichen Daten für die Persönlichkeit und die Grundrechte der betroffenen Personen mit sich bringt.
+
+<sup>3</sup> Wenn die Auslagerung Daten betrifft, die für den Betrieb der Verwaltung unbedingt nötig sind, muss die Fortführung der ausgelagerten Tätigkeiten bei einem Zwischenfall mit einem angemessenen Dispositiv sichergestellt werden.
+
+#### Art. 12e
+
+**Auslagerung – Massnahmen für besonders schützenswerte Personendaten**
+
+<sup>1</sup> Das Bearbeiten von besonders schützenswerten Personendaten bei dem ein konkretes Risiko besteht, dass gegen das Recht der betroffenen Personen verstossen wird, und das Bearbeiten von Daten die einer gesetzlichen oder vertraglichen Geheimhaltungspflicht unterliegen, darf dann ausgelagert werden, wenn die Vertraulichkeit gegenüber dem Auftragsbearbeiter sichergestellt ist, so dass dieser auf deren Inhalt keinen Zugriff hat.
+
+<sup>2</sup> Wenn der Auftragsbearbeiter aus technischen Gründen unbedingt Zugriff auf die Daten haben muss, werden im Auslagerungsvertrag die nötigen besonderen Anforderungen festgelegt, insbesondere die Verpflichtung des Auftragsbearbeiters, nur mit ausdrücklichem Einverständnis des öffentlichen Organs, welches die Daten auslagert, auf den Inhalt der Daten zuzugreifen, und die Pflicht, ein Zugriffsjournal zu führen.
+
+#### Art. 12f
+
+**Pilotversuche**
+
+<sup>1</sup> Auf der Basis eines ordnungsgemäss erstellten Dossiers und nach Anhörung der kantonalen Behörde für Öffentlichkeit und Datenschutz darf der Staatsrat mit Verordnung das automatisierte Bearbeiten von heiklen Daten bewilligen, wenn das unbedingt nötig ist, um einen Pilotversuch durchzuführen oder eine Anwendung während des Genehmigungs- und Anpassungsverfahrens für die gesetzliche Grundlage vorzubereiten.
+
+<sup>2</sup> Eine Versuchsphase kann als unbedingt nötig für das Bearbeiten von Daten betrachtet werden, wenn:
+
+- a) für die Erfüllung der Aufgaben technische Innovationen, deren Auswirkungen beurteilt werden müssen, eingeführt werden müssen;
+- b) für die Erfüllung der Aufgaben organisatorische oder technische Massnahmen, deren Wirksamkeit geprüft werden muss, ergriffen werden müssen, namentlich im Rahmen einer Zusammenarbeit zwischen den Organen des Bundes und den Kantonen.
+
+<sup>3</sup> Das verantwortliche Organ übermittelt dem Staatsrat und der Aufsichtsbehörde spätestens zwei Jahre nach der Umsetzung der Versuchsphase einen Beurteilungsbericht. In diesem Bericht beantragt es ihm, dass das Bearbeiten fortgesetzt oder abgebrochen wird.
+
+<sup>4</sup> Wenn der Staatsrat die Fortsetzung des Bearbeitens bewilligt, leitet er unverzüglich ein Gesetzgebungsverfahren ein, um dem Bearbeiten dieser Daten eine formale gesetzliche Grundlage zu geben.
+
 #### Art. 13
 
 **Vernichten der Daten**
@@ -221,9 +291,9 @@ beschliesst:
 
 #### Art. 18
 
-**Verantwortlichkeit – Bearbeiten im Auftrag**
+**Verantwortung – Auftragsbearbeitung**
 
-<sup>1</sup> Das öffentliche Organ, das Personendaten durch eine Drittperson bearbeiten lässt, bleibt für den Datenschutz verantwortlich. Es hat namentlich der beauftragten Drittperson die nötigen Weisungen zu geben und dafür zu sorgen, dass sie die Daten nur für die Ausführung des Auftrags verwendet oder bekanntgibt.
+<sup>1</sup> Das öffentliche Organ, das Personendaten von einem Auftragsbearbeiter bearbeiten lässt, bleibt für den Datenschutz verantwortlich. Es muss namentlich dem Auftragsbearbeiter die nötigen Weisungen geben und dafür sorgen, dass er die Daten nur für die Ausführung des Auftrags verwendet oder bekanntgibt.
 
 <sup>2</sup> Ist dieses Gesetz auf die beauftragte Drittperson nicht anwendbar und gewährleisten keine anderen gesetzlichen Bestimmungen einen genügenden Datenschutz, so hat das öffentliche Organ den Datenschutz durch einen Vertrag sicherzustellen.
 
@@ -462,6 +532,12 @@ beschliesst:
 **Übergangsrecht – Gemeinden ohne automatisierte Datensammlungen**
 
 <sup>1</sup> Solange eine Gemeinde über keine automatisierte Datensammlung verfügt, sind ihre Organe nicht verpflichtet, ihre Datensammlungen bei der Aufsichtsbehörde anzumelden.
+
+#### Art. 34a
+
+**Übergangsrecht – Auslagerungsverträge**
+
+<sup>1</sup> Falls nötig werden die Auslagerungsverträge, die vor dem Inkrafttreten der Änderung vom 18. Dezember 2020 dieses Gesetzes abgeschlossen wurden, bei ihrer Erneuerung, aber spätestens innert 5 Jahren an die Anforderungen von Artikel 12b ff. angepasst.
 
 #### Art. 35
 
