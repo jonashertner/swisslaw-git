@@ -3,28 +3,28 @@ canton: BL
 number: "640.213"
 title: Reglement über die Notengebung an den basellandschaftlichen Gymnasien
 language: de
-version: 2014-08-01
-valid_until: 2021-02-28
-version_adopted: 2014-06-12
+version: 2021-03-01
+valid_until: 2025-07-31
+version_adopted: 2021-02-08
 adopted: 2005-08-10
 in_force: 2005-08-15
 url: "https://bl.clex.ch/app/de/texts_of_law/640.213"
-pdf: "https://bl.clex.ch/api/de/versions/2929/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Notengebung an den basellandschaftlichen Gymnasien
 
-Vom 10.08.2005 (Stand 01.08.2014)
+Vom 10.08.2005 (Stand 01.03.2021)
 
 Die Bildungs-, Kultur- und Sportdirektion,
 
-gestützt auf § 14 der Verordnung vom 9. November 2004[^ingress-1] über Beurteilung, Beförderung, Zeugnis und Übertritt (VO BBZ),
+gestützt auf § 17 der Verordnung über die schulische Laufbahn (Laufbahnverordnung) vom 11. Juni 2013[^ingress-1],
 
 beschliesst auf Antrag der Schulleitungskonferenz der Gymnasien:
 
-[^ingress-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de/art14)
+[^ingress-1]: [SGS 640.21](https://bl.clex.ch/data/640.21/de/art17)
 
 #### § 1
 
@@ -73,6 +73,24 @@ beschliesst auf Antrag der Schulleitungskonferenz der Gymnasien:
 - e. Ergebnisse der Hausaufgaben,
 - f. Gruppenarbeiten,
 - g. Vergleichsarbeiten.
+
+<sup>2</sup> Es bestehen folgende Durchführungsformen von Leistungserhebungen:
+
+- a. analog;
+- b. digital.
+
+<sup>3</sup> Kommen digitale Tools zum Einsatz, die besondere Risiken mit sich bringen, müssen diese vorgängig den datenschutzrechtlichen Prüfprozess gemäss § 12 IDG[^4-1] durchlaufen.
+
+<sup>4</sup> Die Schulen definieren im Rahmen ihres pädagogischen Konzepts ihres Schulprogramms folgende Eckpfeiler für Leistungserhebungen:
+
+- a. Prüfungsinhalte und Anforderungsniveau;
+- b. Ausgestaltungsform der analogen Leistungserhebungen;
+- c. Ausgestaltungsform der digitalen Leistungserhebungen;
+- d. IT-Infrastruktur für die jeweiligen Prüfungsformen;
+- e. alternative Leistungserhebung bei Störung der IT-Infrastruktur;
+- f. Form der eidesstattlichen Erklärung für analoge und digitale Leistungserhebungen.
+
+[^4-1]: [SGS 162](https://bl.clex.ch/data/162/de/art12)
 
 #### § 5
 
