@@ -4,13 +4,12 @@ number: "326.111"
 title: Kantonale Opferhilfeverordnung
 short: KOHV
 language: de
-version: 2020-09-01
-valid_until: 2021-02-28
-version_adopted: 2020-07-01
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2010-04-28
 in_force: 2010-04-28
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/326.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1937/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2119/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1937/pdf_file"
 
 (KOHV)
 
-vom 28.04.2010 (Stand 01.09.2020)
+vom 28.04.2010 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 **Formulare**
 
-<sup>1</sup> Für die Gesuchseinreichung sind die entsprechenden Formulare der Gesundheits- und Fürsorgedirektion zu verwenden.
+<sup>1</sup> Für die Gesuchseinreichung sind die entsprechenden Formulare der Gesundheits-, Sozial- und Integrationsdirektion zu verwenden.
 
 #### Art. 2
 

@@ -4,13 +4,12 @@ number: "326.111"
 title: Ordonnance cantonale sur l’aide aux victimes d’infractions
 short: OCAVI
 language: fr
-version: 2020-09-01
-valid_until: 2021-02-28
-version_adopted: 2020-07-01
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2010-04-28
 in_force: 2010-04-28
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/326.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1937/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2119/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1937/pdf_file"
 
 (OCAVI)
 
-du 28.04.2010 (état au 01.09.2020)
+du 28.04.2010 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -37,7 +36,7 @@ arrête:
 
 **Formulaires**
 
-<sup>1</sup> Les demandes de prestations doivent être déposées au moyen des formulaires préparés à cet effet par la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les demandes de prestations doivent être déposées au moyen des formulaires préparés à cet effet par la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 2
 
