@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-11-10
+version: 2021-03-01
+valid_until: 2021-06-30
+version_adopted: 2021-02-09
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/2949/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2951/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2949/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.01.2021)
+Vom 19.12.2000 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -86,7 +86,7 @@ beschliesst:
 
 **Verlängerung Probezeit**
 
-<sup>1</sup> Bei einer effektiven Verkürzung der Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht kann die Anstellungsbehörde die Probezeit angemessen verlängern.
+<sup>1</sup> Die Anstellungsbehörde kann die Probezeit angemessen verlängern, insbesondere wenn die Probezeit infolge Krankheit, Unfall oder Erfüllung einer nicht freiwillig übernommenen gesetzlichen Pflicht effektiv verkürzt wurde.
 
 #### § 6
 
@@ -139,6 +139,12 @@ beschliesst:
 <sup>1</sup> Besteht für Mitarbeitende eine Bedrohungs- oder Gefahrensituation, können die Generalsekretärinnen und Generalsekretäre der Direktionen, die Landschreiberin oder der Landschreiber, eine Leiterin oder ein Leiter der Gerichtsverwaltung und die Vorsteherinnen bzw. Vorsteher der besonderen Behörden vom Regierungsrat bezeichnete Fachpersonen für die Beurteilung der Bedrohungs- oder Gefahrensituation beiziehen.
 
 <sup>2</sup> Wird zur Beurteilung einer Bedrohungs- oder Gefahrensituation eine Fachperson beigezogen, welche nicht der kantonalen Personalgesetzgebung untersteht, so ist die Schweigepflicht gegenüber Dritten sicherzustellen.
+
+#### § 8b
+
+**Schadenersatz**
+
+<sup>1</sup> Erleiden Mitarbeiterinnen und Mitarbeiter bei der Erfüllung ihrer Aufgaben einen Personen- oder Sachschaden, der weder von einem Dritten noch vom Arbeitgeber aufgrund einer anderen Regelung ersetzt wird, leistet die Anstellungsbehörde oder eine andere von ihr bestimmte Stelle auf schriftliches Gesuch hin vollumfänglich oder teilweise Ersatz. Der erlittene Schaden darf nicht ausschliesslich auf rechtswidriges sowie vorsätzliches oder grobfahrlässiges Handeln der Mitarbeiterinnen und Mitarbeiter zurückzuführen sein.
 
 ### 1.2 Mitarbeitendengespräch
 
