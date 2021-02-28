@@ -1,295 +1,296 @@
 ---
 canton: GR
 number: "730.220"
-title: Disposizioni di attuazione della legge sul conguaglio finanziario intercomunale
-short: Disp. LCF
+title: Ordinanza sulla perequazione finanziaria
+short: OPF
 language: it
-version: 2012-12-01
-corrected: 2014-10-19
-version_adopted: 2010-11-23
+version: 2021-03-01
+version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1593/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3854/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Disposizioni di attuazione della legge sul conguaglio finanziario intercomunale (Disp. LCF)
+# Ordinanza sulla perequazione finanziaria
 
-emanate dal Governo il 29 novembre 1993
+(OPF)
 
-in base all'art. 14 dell'ordinanza d'esecuzione del Gran Consiglio della legge sul conguaglio finanziario del 3 marzo 1993[^t-1]
+del 30.06.2015 (stato 01.03.2021)
 
-I. Conguaglio finanziario diretto
+emanata dal Governo il 30 giugno 2015
 
-- 1\. ACQUISIZIONE DEI MEZZI
+visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
-[^t-1]: CSC 730.210
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Diritto d'imposta**
+**Competenza**
 
-<sup>1</sup> Se il comune vuol far valere nei confronti di un soggetto d'imposta ai sensi dell'articolo 5 della legge sul conguaglio finanziario un diritto d'imposta nuovo rispetto a quello del periodo precedente, esso lo notifica entro 6 mesi al revisorato dell'Amministrazione cantonale delle imposte.
+<sup>1</sup> L'Ufficio per i comuni (Ufficio) è competente per l'esecuzione della perequazione finanziaria, per quanto non sia stata stabilita una competenza particolare.
 
-<sup>2</sup> Un nuovo diritto d'imposta può sorgere a causa del trasferimento della sede o del luogo dell'effettiva direzione aziendale nonché a causa dell'apertura di un nuovo stabilimento d'impresa o dell'acquisto di un immobile sul territorio comunale.
-
-<sup>3</sup> Se la notifica del diritto d'imposta non viene fatta entro 6 mesi dal suo verificarsi, il diritto del comune alle quote comunali conteggiate definitivamente dell'imposta supplementare viene meno.
-
-[^1-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007 1.12.2012 1
+<sup>2</sup> I servizi che gestiscono dati relativi alla perequazione finanziaria provvedono affinché i dati necessari vengano messi a disposizione in maniera tempestiva e affinché tali informazioni siano complete e corrette.
 
 #### Art. 2
 
-**Tasso d'imposta computabile**[^1-1]
+**Compiti dell'Ufficio**
 
-<sup>1</sup> L'Ufficio per i comuni (Ufficio) verifica nel quadro del riscontro dei conti annuali dei comuni e del calcolo della capacità finanziaria se vi è motivo di rivedere il tasso fiscale e ne fa rapporto al Governo.
+<sup>1</sup> L'Ufficio coordina i lavori con i servizi che gestiscono dati relativi alla perequazione finanziaria. Elabora le basi decisionali per il Dipartimento e per il Governo.
 
-<sup>2</sup> Il Governo decide se deve aver luogo una verifica e ne incarica l'Ufficio.
+<sup>2</sup> Esso procede al versamento dei contributi. Sono esclusi i contributi della perequazione degli oneri in ambito sociale. Fattura ai comuni finanziariamente forti i contributi di finanziamento per la perequazione delle risorse.
 
-- 2\. IMPIEGO DEI MEZZI
+<sup>3</sup> Esso verifica l'efficacia della perequazione finanziaria e redige il rapporto sull'efficacia. Incarica i comuni di inoltrare i dati comunali necessari e informa questi ultimi in forma adeguata in merito al funzionamento e agli effetti della perequazione finanziaria.
 
-- a) Presupposti
+<sup>4</sup> Esso promuove aggregazioni di comuni e prepara decisioni per contributi promozionali.
 
 #### Art. 3
 
-**Imposte**
+**Anni di perequazione e di calcolo**
 
-<sup>1</sup>[^3-1]I comuni che richiedono contributi di conguaglio secondo l'articolo 16 capoverso 4, gli articoli 18 e 19 della legge devono riscuotere almeno le seguenti imposte:
+<sup>1</sup> L'anno di perequazione è l'anno di esecuzione per la perequazione delle risorse e la compensazione degli oneri. Nell'anno di perequazione vengono versati i contributi di dotazione per la perequazione delle risorse (PR) nonché i contributi per la perequazione dell'aggravio geotopografico e degli oneri scolastici (PAG), mentre i contributi di finanziamento devono essere versati alla PR. I contributi per la perequazione degli oneri in ambito sociale (PAS) vengono versati l'anno successivo.
 
-- a)[^3-2]un'imposta sul reddito e sulla sostanza pari almeno al 120 percento dell'imposta cantonale semplice,
+<sup>2</sup> Gli anni di calcolo sono gli anni che fungono da base per il rilevamento dei dati. Le risorse determinanti si basano sulla media degli ultimi due anni disponibili, incluse le aggiunte. I dati determinanti alla data di riferimento si basano sull'ultimo rilevamento disponibile.
 
-- b) …[^3-3]
-
-- c) ...[^3-4]
-
-- d)[^3-5]un'imposta sulle successioni e sulle donazioni con le seguenti aliquote minime:
-
-4 percento per eredi e beneficiari della stirpe dei genitori, nonché per il concubino 7 percento per eredi e beneficiari della stirpe dei nonni 15 percento per tutti gli altri beneficiari;
-
-- e)[^3-6]un'imposta sugli immobili pari almeno all'1 permille del valore fiscale senza deduzione dei debiti;
-
-- f)[^3-7]un'imposta sul trapasso di proprietà pari almeno all'1 percento.
-
-<sup>2</sup> I comuni che fanno valere un diritto a contributi per opere pubbliche, devono aver applicato in media negli ultimi tre anni un tasso fiscale comunale pari almeno al 120 percento dell'imposta cantonale semplice.
-
-<sup>3</sup>[^3-8]I comuni con diritto a conguaglio del fabbisogno straordinario devono riscuotere un'imposta sul reddito e sulla sostanza pari almeno al 130 percento dell'imposta cantonale semplice, un'imposta sugli immobili del 2 permille del valore fiscale della sostanza, nonché un'imposta sul trapasso di proprietà del 2 percento.
-
-[^3-1]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-2]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-3]: Abrogazione giusta DG del 3 ottobre 2006; entra in vigore il 1° gennaio 2007
-[^3-4]: Abrogazione giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-5]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-6]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-7]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^3-8]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011 2 1.12.2012
+<sup>3</sup> Nel caso di aggregazioni di comuni che entrano in vigore a gennaio di un anno di perequazione, le basi di calcolo dei comuni interessati vengono aggregate.
 
 #### Art. 4
 
-**Compensi**
+**Scadenze**
 
-<sup>1</sup>[^4-1]I comuni che richiedono contributi di conguaglio devono riscuotere adeguati contributi per spese che tornano utili in misura particolare a singole categorie della proprietà privata.
+<sup>1</sup> Il Governo stabilisce il potenziale di risorse, l'indice delle risorse, i contributi di finanziamento e di dotazione per la PR nonché i contributi per la PAG entro la fine di agosto dell'anno precedente l'anno di perequazione e li comunica ai comuni.
 
-<sup>2</sup> Le tasse di allacciamento e d'uso degli impianti di approvvigionamento e smaltimento devono di regolo coprire le spese.
+<sup>2</sup> I contributi per la PR e per la PAG, la cui erogazione è di competenza dell'Ufficio, vengono versati in due rate di pari importo con scadenza il 20 giugno e il 20 dicembre. Se tale valuta dovesse cadere su un fine settimana, la scadenza si intende spostata al lunedì successivo. Di norma, le fatture per gli importi di finanziamento relativi alla PR devono essere recapitate ai comuni interessati due mesi prima della scadenza.
 
-<sup>3</sup> Se non è possibile una riscossione che copre le spese, le aliquote applicate non possono tuttavia essere inferiori a quelle di solito in uso nei comuni grigioni di una certa grandezza.
-
-<sup>4</sup> Sono considerati compensi pretendibili le aliquote massime che vengono applicate nei comuni grigioni di una certa grandezza.
-
-[^4-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
+<sup>3</sup> La domanda dei comuni relativa a un contributo dalla PAS deve essere presentata entro fine aprile dell'anno successivo all'anno di perequazione.
 
 #### Art. 5
 
-**Principi del bilancio**
+**Diritto di presa in visione**
 
-<sup>1</sup>[^5-1]I comuni che richiedono contributi di conguaglio devono gestire le proprie finanze, secondo i principi della legalità, dell'equilibrio delle finanze, della parsimonia, dell'economicità e del finanziamento secondo causalità.
-
-<sup>2</sup> Le spese che non rientrano nella sfera dei compiti del comune politico non sono consentite.
-
-<sup>3</sup>[^5-2]L'Ufficio può stabilire nel dettaglio d'intesa con il Dipartimento delle finanze e dei comuni (Dipartimento) i principi in direttive a parte.
-
-[^5-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^5-2]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
+<sup>1</sup> Su richiesta, i comuni possono prendere completa visione delle basi di calcolo per loro determinanti.
 
 #### Art. 6
 
-**Altri oneri e altre condizioni**
+**Dati di base**
 
-<sup>1</sup>[^6-1]I comuni che richiedono contributi di conguaglio, devono presentare all'Ufficio al più tardi entro fine novembre di ogni anno, un programma degli investimenti pluriennale secondo le direttive dell'Ufficio.
+<sup>1</sup> Le seguenti basi statistiche sono prese a riferimento per la determinazione dei singoli parametri (fra parentesi: servizio competente per la fornitura dei dati):
 
-<sup>2</sup> Alla garanzia di contributi alle spese per opere pubbliche possono essere vincolate ulteriori condizioni, segnatamente per quanto riguarda il finanziamento mediante contributi e tasse.
+- a) imposte sul reddito e sulla sostanza, imposte sugli utili di liquidazione e imposte sul dispendio delle persone fisiche nonché imposte alla fonte 3 e 4 anni prima dell'anno di perequazione (Amministrazione delle imposte);
+- b) imposte sugli utili e sul capitale delle persone giuridiche 3 e 4 anni prima dell'anno di perequazione (Amministrazione delle imposte);
+- c) …
+- d) …
+- e) valori fiscali degli immobili con aliquota dell'1,5 per mille alla fine del secondo anno prima dell'anno di perequazione (Ufficio per le valutazioni immobiliari);
+- f) canoni d'acqua 2 e 3 anni prima dell'anno di perequazione (Ufficio dell'energia e dei trasporti);
+- g) indennizzi per le perdite nell'utilizzazione delle forze idriche 2 e 3 anni prima dell'anno di perequazione (Ufficio dell'energia e dei trasporti);
+- h) popolazione residente permanente secondo la statistica federale della popolazione e delle economie domestiche (STATPOP) alla fine del terzo anno prima dell'anno di perequazione (Ufficio dell'economia e del turismo);
+- i) numero determinante di contribuenti alla fine del terzo anno prima dell'anno di perequazione (Amministrazione delle imposte);
+- j) numero di allievi della scuola dell'infanzia e della scuola popolare secondo la statistica federale degli allievi e del liceo inferiore suddivisi per luogo di domicilio e sede scolastica per l'ultimo anno scolastico concluso prima dell'anno di perequazione (Ufficio per la scuola popolare e lo sport);
+- k) superficie complessiva al netto della superficie di corsi d'acqua e acque stagnanti e dell'ulteriore superficie non produttiva secondo la statistica della superficie dell'Ufficio federale di statistica (Ufficio dell'economia e del turismo);
+- l) statistica federale riguardo al numero di abitanti in insediamenti sparsi alla fine del terzo anno precedente l'anno di perequazione (Ufficio per l'agricoltura e la geoinformazione; centrale SIG);
+- m) classificazione delle strade comunali secondo l'Ufficio federale di topografia (Ufficio per l'agricoltura e la geoinformazione; Centrale SIG);
+- n) lunghezza della strada cantonale all'interno dell'abitato (Ufficio tecnico).
 
-<sup>3</sup>[^6-2]I comuni con diritto a conguaglio del fabbisogno straordinario necessitano dell'approvazione dell'Ufficio per nuove spese superiori a 10 000 franchi, modifiche di leggi e regolamenti comunali, stipulazioni di contratti di grande importanza finanziaria, come pure l'adesione ad associazioni e organizzazioni con permanente partecipazione alle spese. Essi devono gestire l'amministrazione e in modo particolare tenere la contabilità secondo le istruzioni dell'Ufficio.
+<sup>2</sup> I dati devono essere rettificati in maniera tale da corrispondere ai parametri di riferimento definiti dalla perequazione finanziaria. Elementi non pertinenti devono essere eliminati, errori palesi devono essere corretti. Le relative rettifiche devono essere documentate in maniera tale da garantire che le modifiche siano comprensibili anche per terzi.
 
-- b) Contributi
+<sup>3</sup> Sono determinanti gli ultimi dati disponibili alla fine di marzo.
 
-[^6-1]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^6-2]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007 1.12.2012 3
+<sup>4</sup> I servizi che gestiscono dati per il calcolo del potenziale di risorse e la PAG forniscono all'Ufficio le informazioni necessarie per ciascun comune e in totale entro la fine di aprile.
 
 #### Art. 7
 
-**Conguaglio della capacità fiscale**
+**Condizioni straordinarie**
 
-<sup>1</sup>[^7-1]L'Ufficio accerta la capacità fiscale relativa dei comuni, calcola annualmente i contributi di conguaglio e presenta le relative proposte.
+<sup>1</sup> Nei casi in cui i dati di base portino a un risultato evidentemente iniquo, il Governo può, sentito il comune, procedere a delle correzioni. Queste ultime devono essere documentate in maniera opportuna. È necessario garantire la comprensibilità.
 
-<sup>2</sup>[^7-2]Il Governo comunica entro metà settembre di ogni anno ai comuni i contributi di conguaglio da esso stabiliti.
+#### Art. 7a
 
-<sup>3</sup> All'atto di accertare i contributi si verifica pure se le aliquote per il conguaglio ai sensi dell'articolo 4 capoverso 3 dell'ordinanza devono essere adeguate e se in singoli casi vi sono motivi per negare o decurtare i contributi.
+**Calcoli errati**
 
-<sup>4</sup> I contributi vengono ridotti o non vengono più versati del tutto, se un comune avente diritto non adempie per nulla o solo in parte i presupposti.
+<sup>1</sup> Se le correzioni superano le soglie di rilevanza di cui all'articolo 15a della legge sulla perequazione finanziaria[^7a-1] il Governo emana un decreto corretto. Calcoli errati devono essere corretti senza indugio.
 
-[^7-1]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^7-2]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
+<sup>2</sup> Le correzioni possono essere compensate con i contributi dell'anno successivo.
+
+[^7a-1]: CSC [730.200](https://www.gr-lex.gr.ch/data/730.200/it)
 
 #### Art. 8
 
-**Contributi a opere pubbliche**
+**Divieto di compensazione**
 
-<sup>1</sup>[^8-1]Le domande di contributo a opere pubbliche devono essere presentate con la documentazione necessaria prima dell'inizio dei lavori.
+<sup>1</sup> Le prestazioni risultanti dalla perequazione finanziaria non possono essere compensate fra loro, nemmeno con crediti derivanti da altro titolo giuridico. Fanno eccezione i valori corretti conformemente all'articolo 7a.
 
-<sup>2</sup>[^8-2]L'Ufficio esegue i rilevamenti necessari.
-
-<sup>3</sup>[^8-3]Viene verificato se la necessità degli investimenti è dimostrata, se venvengono fornite prestazioni proprie esigibili e se gli investimenti sono accettabili dal punto di vista finanziario. La soglia di esigibilità per i compensi aumenta se comuni comparabili dispongono di importi superiori.
-
-<sup>4</sup>[^8-4]L'aliquota per contributi alle spese computabili di opere pubbliche comporta:
-
-- a) 40 percento per i comuni aventi diritto al conguaglio con un tasso fiscale pari almeno al 130 percento dell'imposta cantonale semplice;
-
-- b) 30 percento per i comuni aventi diritto al conguaglio con un tasso fiscale inferiore al 130 percento, ma almeno pari al 120 percento dell'imposta cantonale semplice.
-
-<sup>5</sup>[^8-5]Se un comune modifica il proprio tasso fiscale, cambia pure l'aliquota di contributo alle spese che si verificano nel relativo anno.
-
-[^8-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^8-2]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^8-3]: Introduzione giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^8-4]: Nuova numerazione a seguito all'introduzione del capoverso 3; testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^8-5]: Nuova numerazione a seguito dell'introduzione del capoverso 3 4 1.12.2012
+## 2. Perequazione delle risorse (PR)
 
 #### Art. 9
 
-**Conguaglio del fabbisogno straordinario**
+**Calcolo dei contributi**
 
-<sup>1</sup>[^9-1]Per il conguaglio del fabbisogno straordinario fanno stato in modo particolare i seguenti criteri:
+<sup>1</sup> I contributi di finanziamento relativi alla PR e i contributi di dotazione relativi alla PR vengono calcolati annualmente nell'anno precedente all'anno di perequazione in base alle aliquote da richiedere al Gran Consiglio.
 
-- a) un indebitamento particolarmente elevato o il vigente disequilibrio del bilancio;
+<sup>2</sup> Per i comuni con un indice delle risorse compreso tra 40 e 100 punti si procede a una perequazione con effetto progressivo. La tariffa per la progressione deve essere stabilita in modo tale che l'aliquota di perequazione aumenti gradualmente con un indice delle risorse in diminuzione.
 
-- b) oneri speciali straordinari al cui verificarsi il comune non ha alcuna influenza;
+## 3. Compensazione degli oneri
 
-- c) un fabbisogno elevato di ammortamento in seguito a investimenti necessari;
-
-- d) …[^9-2]
-
-<sup>2</sup>[^9-3]L'Ufficio esamina annualmente in base alla situazione finanziaria del comune, se e in quale misura occorrono contributi supplementari per il conguaglio del fabbisogno straordinario e presenta al Governo una relativa proposta.
-
-[^9-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^9-2]: Abrogazione giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^9-3]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^9-4]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007 1.12.2012 5
+### 3.1. Perequazione dell'aggravio geotopografico e degli oneri scolastici (PAG)
 
 #### Art. 10
 
-**Assegnazione dei contributi**[^9-4]
+**Parametri**
 
-<sup>1</sup> L'assegnazione annuale dei contributi di conguaglio finanziario ai sensi dell'articolo 15 della legge e dell'articolo 3 dell'ordinanza avviene ad opera del Governo su proposta del Dipartimento.
+<sup>1</sup> Al fine di determinare gli oneri straordinari dovuti a struttura d'insediamento, superficie e topografia nonché quota degli allievi, tre parametri vengono utilizzati quali indicatori degli oneri.
 
-<sup>2</sup> L'Ufficio fa rapporto al Dipartimento sui conteggi avvenuti e sul fabbisogno di mezzi per le differenti categorie di contributo.
+<sup>2</sup> Il parametro struttura d'insediamento rileva da una parte il numero di abitanti per comune che vivono in insediamenti sparsi con un massimo di 25, 50, 100 e 200 abitanti, d'altra parte la superficie produttiva per abitante. A entrambi gli indicatori viene attribuita la stessa ponderazione.
 
-<sup>3</sup> I conteggi per le opere pubbliche devono essere presentati all'Ufficio di volta in volta entro fine settembre.
+<sup>3</sup> Il parametro lunghezza delle strade rileva per ciascun comune categorie di costi con costi standard per la conservazione del valore e per l'esercizio per chilometro e anno, con distinzione tra strade comunali, strade di quartiere e strade cantonali all'interno dell'abitato. Per ciascun comune vengono determinati i costi standard per abitante.
+
+<sup>4</sup> Il parametro quota degli allievi viene calcolato in base al numero di allievi della scuola popolare, inclusi gli allievi del liceo inferiore, per abitante.
 
 #### Art. 11
 
-**Versamento dei contributi**
+**Determinazione dei valori dell'indice**
 
-Il versamento dei contributi avviene di regola una volta all'anno, al più tardi per il 31 dicembre.
+<sup>1</sup> I parametri rilevanti ai fini della ripartizione di mezzi PAG vengono convertiti in indici in modo tale che il relativo indice per tutti i comuni sia pari a 100 punti.
 
-- c) Quota per le spese di amministrazione a favore dell'Ufficio per i comuni
+<sup>2</sup> I sottoindicatori vengono resi comparabili tramite una standardizzazione. Ai fini della standardizzazione, i valori dell'indice superiori a 200 punti vengono computati come segue:
 
-[^11-1]: Testo giusta ordinanza sull'adeguamento di ordinanze governative in relazione all'introduzione del MCA2; posto in vigore il 1° dicembre 2012 con DG del 25 settembre 2012
+- a) valori dell'indice da 200 a 300 punti — 75 per cento;
+- b) valori dell'indice da 300 a 400 punti — 50 per cento;
+- c) valori dell'indice da 400 a 500 punti — 25 per cento;
+- d) valori dell'indice oltre 500 punti — 0 per cento.
 
-#### Art. 11a
-
-**Quota per le spese di amministrazione a favore dell'Ufficio per i comuni**[^11-1]
-
-Per l'attuazione del conguaglio finanziario viene prelevata annualmente una quota per le spese di amministrazione a favore dell'Ufficio pari a 500 000 franchi forfetari a carico del finanziamento speciale perequazione finanziaria.
-
-- d) Vigilanza, consulenza e controllo[^11a-1]
-
-[^11a-1]: Introduzione giusta DG del 17 feb. 2004; entra in vigore il 1° mar. 2004
-[^11a-2]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
+<sup>3</sup> L'indice complessivo corrisponde alla somma degli indici parziali dei tre sottoindici.
 
 #### Art. 12
 
-**Vigilanza e consulenza**[^11a-2]
+**Calcolo del contributo**
 
-L'Ufficio vigila sul bilancio dei comuni aventi diritto a conguaglio finanziario e consiglia quest'ultimi in questioni amministrative fondamentali.
+<sup>1</sup> L'indice complessivo per comune costituisce il punto di partenza per la determinazione del contributo di perequazione. Risulta determinante il valore dell'indice che supera i 300 punti. L'eccedenza viene ponderata per il numero di abitanti. Ai fini della ripartizione dei mezzi PAG tra i comuni viene preso a riferimento un valore corrispondente al 10 per cento del potenziale di risorse moltiplicato per l'indice delle risorse di ciascun comune.
+
+<sup>2</sup> …
 
 #### Art. 13
 
-**Esame del diritto a conguaglio**
+**PAG in caso di aggregazione di comuni**
 
-<sup>1</sup> Le domande di riconoscimento del diritto a conguaglio per contributi a opere pubbliche o per contributi del fabbisogno straordinario devono essere presentate al Governo.
+<sup>1</sup> Se un'aggregazione di comuni comporta una perdita sostanziale di mezzi PAG, il Governo può concedere un contributo PAG per un periodo massimo pari a dieci anni, per quanto la perdita non sia stata indennizzata con il contributo promozionale versato una tantum. Il contributo annuale corrisponde al massimo all'importo complessivo per i comuni interessati dall'aggregazione nell'anno della garanzia del contributo. È fatto salvo il versamento di un importo superiore in seguito al nuovo calcolo ordinario.
 
-<sup>2</sup>[^13-1]L'Ufficio esamina le domande, esegue i necessari rilevamenti e fa una proposta all'attenzione del Governo.
-
-<sup>3</sup>[^13-2]Se in base alla situazione finanziaria un comune non dipende più da contributi o se non adempie più oppure solo in parte le condizioni, l'Ufficio presenta un rapporto e una proposta all'attenzione del Governo.
-
-[^13-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^13-2]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
+### 3.2. Perequazione degli oneri in ambito sociale (PAS)
 
 #### Art. 14
 
-**Controllo regolare**
+**Domanda**
 
-<sup>1</sup>[^14-1]I conti annuali dei comuni aventi diritto a conguaglio vengono riveduti ampiamente dall'Ufficio.
+<sup>1</sup> Un comune che richiede un contributo di perequazione presenta una domanda all'Ufficio degli affari sociali entro la fine di aprile dell'anno successivo.
 
-<sup>2</sup> In caso di necessità possono essere effettuati ulteriori accertamenti.
+<sup>2</sup> Il comune è tenuto a fornire prova delle spese e dei ricavi determinanti nonché dell'ammontare del contributo di perequazione secondo quanto disposto dall'Ufficio degli affari sociali.
 
-<sup>3</sup>[^14-2]L'Ufficio effettua annualmente una revisione dei conti in quei comuni che avanzano una pretesa di conguaglio del fabbisogno straordinario.
-
-[^14-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
-[^14-2]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007 6 1.12.2012
-
-### II. Conguaglio finanziario indiretto
-
-[^hIIConguagliofinan-1]: Testo giusta DG del 3 ott. 2006; entra in vigore il 1° gen. 2007
+<sup>3</sup> Alla domanda devono essere allegati un corrispondente estratto dal conto annuale nonché una dichiarazione di completezza. Se a fine aprile il conto annuale non è ancora disponibile, l'estratto e la dichiarazione di completezza devono essere inoltrati entro il termine concesso dall'Ufficio degli affari sociali.
 
 #### Art. 15
 
-**Calcolo della capacità finanziaria**[^hIIConguagliofinan-1]
+**Valori di calcolo determinanti**
 
-L'Ufficio esegue i calcoli e procura la documentazione necessaria presso gli uffici cantonali competenti. Questi ultimi sono responsabili dell'esattezza delle indicazioni.
+<sup>1</sup> Sono determinanti le uscite effettive dovute a prestazioni assistenziali e ad anticipi di alimenti dell'anno precedente secondo quanto previsto dalla legge.
+
+<sup>2</sup> Diritti a rimborsi della Confederazione, di altri Cantoni o di terzi derivanti da prestazioni assistenziali, anticipi di alimenti e dall'obbligo di sostegno tra parenti nonché a prestazioni assicurative devono essere fatti valere dai comuni. Relative entrate devono essere compensate con le spese determinanti.
+
+<sup>3</sup> Il potenziale di risorse determinante corrisponde a quello stabilito dal Governo per la perequazione delle risorse dell'anno precedente.
+
+<sup>4</sup> Se a seguito di prestazioni erogate su un arco di più anni risulta una tantum una perequazione degli oneri in ambito sociale elevata e questa non viene conteggiata annualmente, il potenziale delle risorse determinante viene calcolato per il medesimo periodo per il quale le prestazioni sono state erogate.
 
 #### Art. 16
 
-**Verifica della classificazione della capacità finanziaria**
+**Competenze e versamento**
 
-<sup>1</sup>[^16-1]Se in un comune subentra una situazione evidentemente speciale che richiede una verifica della vigente classificazione della capacità finanziaria, può essere presentata al Governo una domanda motivata al più tardi un anno prima dell'inizio del prossimo periodo di capacità finanziaria.
+<sup>1</sup> Le spese nette comprovate dal comune richiedente nonché il contributo di perequazione vengono verificati dall'Ufficio degli affari sociali con riguardo alla loro computabilità facendo riferimento ad aspetti di rischio. Entro la fine di giugno l'Ufficio degli affari sociali recapita all'Ufficio per i comuni la documentazione con il diritto ai contributi dei comuni.
 
-<sup>2</sup>[^16-2]L'Ufficio esamina la domanda e presenta una proposta. Se vi sono dubbi per quanto riguarda la conformità del tasso d'imposta comunale ai sensi dell'articolo 9 capoverso 2 della legge sul conguaglio finanziario[^16-3], la verifica viene effettuata d'ufficio.
+<sup>2</sup> Il Governo stabilisce il contributo di perequazione entro la fine di agosto.
 
-<sup>3</sup>[^16-4]Una classificazione straordinaria diviene effettiva solo a partire dal prossimo periodo di capacità finanziaria. In caso di aggregazioni di comuni, il Governo stabilisce la classificazione nel quadro del sussidio promozionale.
+<sup>3</sup> Contributi di perequazione inferiori a 500 franchi non vengono versati.
 
-<sup>4</sup>[^16-5]I comuni che giusta decreto del Governo hanno diritto al conguaglio del fabbisogno straordinario, vengono assegnati senza eccezione al gruppo di capacità finanziaria cinque.
+#### Art. 16a
 
-[^16-1]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^16-2]: Testo giusta DG del 3 ottobre 2006; entra in vigore il 1° gennaio 2007
-[^16-3]: CSC 730.200
-[^16-4]: Introduzione giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011
-[^16-5]: Nuovo numero di capoverso a seguito dell'introduzione del capoverso 3
+**Rimborso di contributi ingiustificati**
 
-### III. Disposizioni transitorie e finali
+<sup>1</sup> Se l'Ufficio degli affari sociali scopre che un conteggio effettuato in passato ha comportato un contributo ingiustificatamente più elevato dalla perequazione degli oneri in ambito sociale, il comune può chiedere il rimborso della differenza.
 
-[^hIIIDisposizionitr-1]: Testo giusta DG del 23 novembre 2010; entra in vigore il 1° gennaio 2011 1.12.2012 7
+<sup>2</sup> Una richiesta di rimborso risulta opportuna in particolare se a posteriori vengono scoperte indicazioni scorrette o un rimborso al comune avrebbe avuto conseguenze determinanti sul periodo di conteggio interessato.
+
+<sup>3</sup> In presenza di contributi ingiustificati l'Ufficio degli affari sociali dispone una correzione.
+
+### 3.3. Compensazione individuale dei casi di rigore per oneri speciali (CCR)
 
 #### Art. 17
 
-**Disposizioni transitorie**[^hIIIDisposizionitr-1]
+**Domanda**
 
-I comuni che hanno diritto al conguaglio del fabbisogno straordinario devono soddisfare le condizioni minime conformemente all'articolo 3 entro la fine del 2011, in caso contrario il diritto viene a cadere.
+<sup>1</sup> Un comune può presentare una domanda di contributo CCR all'Ufficio in qualsiasi momento.
+
+<sup>2</sup> La domanda deve contenere tutte le informazioni e i documenti necessari per l'esame. Deve comprovare nel dettaglio gli oneri straordinari e non influenzabili, l'alterazione duratura dell'equilibrio della gestione finanziaria nonché l'esaurimento delle misure di autoaiuto che si possono ragionevolmente esigere.
 
 #### Art. 18
 
-**Entrata in vigore, abrogazione**
+**Concessione dei contributi e competenza**
 
-Le presenti disposizioni di attuazione entrano in vigore il 1<sup>o</sup> gennaio 1994 e sostituiscono quelle del 5 giugno 1990.
+<sup>1</sup> Di norma, il contributo CCR viene concesso quale contributo una tantum. Esso deve essere stabilito in maniera tale da rappresentare uno sgravio efficace e duraturo per il comune.
+
+<sup>2</sup> L'Ufficio esamina la domanda ed esegue gli accertamenti necessari. In particolare, esamina la sostenibilità dell'utilizzo del contributo.
+
+<sup>3</sup> Nei singoli casi il Governo decide in merito alla concessione di contributi nonché alla durata e al grado della vigilanza finanziaria particolare. È fatta salva la concessione del credito necessario da parte del Gran Consiglio.
+
+## 4. Efficacia
+
+#### Art. 19
+
+**Rapporto sull'efficacia**
+
+<sup>1</sup> Il Governo sottopone periodicamente al Gran Consiglio un rapporto sull'esecuzione e sull'efficacia della perequazione finanziaria. Il rapporto mostra gli effetti degli strumenti della perequazione finanziaria.
+
+<sup>2</sup> Con riferimento al periodo analizzato, il rapporto informa in particolare riguardo:
+
+- a) alla variazione nella ripartizione dei compiti pubblici tra Cantone e comuni nonché alle ripercussioni da ciò derivanti sul margine di manovra e sulle finanze dei comuni;
+- b) all'evoluzione delle risorse dei comuni e dell'onere che deriva dall'adempimento dei compiti necessari;
+- c) agli effetti della perequazione finanziaria sulle strutture comunali;
+- d) al raggiungimento degli obiettivi della perequazione finanziaria, in particolare riguardo all'evoluzione delle differenze di carico fiscale;
+- e) all'idoneità delle basi di calcolo per il rilevamento della capacità finanziaria e degli oneri straordinari nonché all'adeguatezza della dotazione dei fondi di perequazione;
+- f) alla volatilità annuale dei contributi di perequazione nonché alle domande per contributi CCR accolte e respinte;
+- g) alla necessità di adeguare le basi giuridiche.
+
+<sup>3</sup> Il rapporto corredato da eventuali proposte di misure può essere sottoposto al Gran Consiglio separatamente oppure nel quadro del messaggio relativo al preventivo o nel quadro del conto annuale.
+
+## 5.
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+#### Art. 22
+
+**…**
+
+## A1 Appendice 1: perequazione limitata nel tempo (art. 20)
+
+#### Art. A1-1
+
+<sup>1</sup> La presente appendice si basa sul bilancio globale PF in base alla legge mantello sulla riforma PF decisa dal Gran Consiglio il 5 dicembre 2013.
+
+<sup>2</sup> La perequazione limitata nel tempo per i comuni indicati nell'appendice alla legge sulla perequazione finanziaria corrisponde al massimo all'onere supplementare dovuto all'introduzione della riforma PF secondo il bilancio globale PF. I seguenti importi risultano determinanti:
+
+- a) Fideris: — fr. 62'485.00
+- b) Küblis: — fr. 470'541.00
+- c) Masein: — fr. 140'220.00
+- d) Rhäzüns: — fr. 451'245.00
+- e) Sagogn: — fr. 142'454.00
+- f) Schmitten: — fr. 67'651.00
+- g) Trun: — fr. 793'694.00
+- h) Verdabbio: — fr. 60'042.00
+
+2015-021

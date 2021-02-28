@@ -1,293 +1,296 @@
 ---
 canton: GR
 number: "730.220"
-title: Ausführungsbestimmungen zum Gesetz über den interkommunalen Finanzausgleich
-short: ABzFAG
+title: Verordnung über den Finanzausgleich
+short: FAV
 language: de
-version: 2012-12-01
-corrected: 2014-10-19
-version_adopted: 2010-11-23
+version: 2021-03-01
+version_adopted: 2021-02-09
 adopted: 2015-06-30
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.220"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1593/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3854/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ausführungsbestimmungen zum Gesetz über den interkommunalen Finanzausgleich (ABzFAG)
+# Verordnung über den Finanzausgleich
 
-Gestützt auf Art. 14 der grossrätlichen Vollziehungsverordnung zum Finanzausgleichsgesetz vom 3. März 1993[^t-1]
+(FAV)
 
-von der Regierung erlassen am 29. November 1993
+Vom 30.06.2015 (Stand 01.03.2021)
 
-I. Direkter Finanzausgleich
+Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
-- 1\. MITTELBESCHAFFUNG
+von der Regierung erlassen am 30. Juni 2015
 
-[^t-1]: BR 730.210
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Steueranspruch**
+**Zuständigkeit**
 
-<sup>1</sup> Will die Gemeinde gegenüber einem Steuersubjekt im Sinne von Artikel 5 des Finanzausgleichsgesetzes einen gegenüber der Vorperiode neuen Steueranspruch erheben, meldet sie diesen innert 6 Monaten seit der Entstehung dem Revisorat der Kantonalen Steuerverwaltung.
+<sup>1</sup> Das Amt für Gemeinden (Amt) ist für den Vollzug des Finanzausgleichs zuständig, soweit nicht eine besondere Zuständigkeit bestimmt ist.
 
-<sup>2</sup> Ein neuer Steueranspruch kann entstehen durch die Verlegung des Sitzes oder des Ortes der effektiven Geschäftsleitung sowie durch die Eröffnung einer neuen Betriebsstätte oder den Erwerb einer Liegenschaft auf Gemeindegebiet.
-
-<sup>3</sup> Erfolgt die Meldung des Steueranspruchs nicht innerhalb von 6 Monaten seit der Entstehung, so hat die Gemeinde ihren Anspruch auf die definitiv abgerechneten Gemeindetreffnisse an der Zuschlagssteuer verwirkt.
-
-[^1-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft 01.12.2012 1
+<sup>2</sup> Die Dienststellen, welche Daten für den Finanzausgleich verwalten, sorgen für das fristgerechte Bereitstellen der benötigten Daten und für die Vollständigkeit und Richtigkeit der Angaben.
 
 #### Art. 2
 
-**Anrechenbarer Steuerfuss**[^1-1]
+**Aufgaben des Amtes**
 
-<sup>1</sup> Das Amt für Gemeinden (Amt) prüft im Rahmen der Durchsicht der Jahresrechnungen der Gemeinden und bei der Finanzkraftberechnung, ob Anlass für die Überprüfung des Steuerfusses besteht und erstattet darüber Bericht an die Regierung.
+<sup>1</sup> Das Amt koordiniert die Arbeiten mit jenen Dienststellen, welche Daten für den Finanzausgleich verwalten. Es erarbeitet die Entscheidungsgrundlagen für das Departement und für die Regierung.
 
-<sup>2</sup> Die Regierung entscheidet, ob eine Überprüfung stattfinden soll und beauftragt das Amt damit.
+<sup>2</sup> Es nimmt die Auszahlungen der Beiträge vor. Davon ausgenommen sind die Beiträge des Lastenausgleichs Soziales. Es stellt den ressourcenstarken Gemeinden die Finanzierungsbeiträge für den Ressourcenausgleich in Rechnung.
 
-- 2\. MITTELVERWENDUNG
+<sup>3</sup> Es prüft die Wirksamkeit des Finanzausgleichs und erstellt den Wirksamkeitsbericht. Es beauftragt die Gemeinden mit der Zustellung der benötigten Gemeindedaten und orientiert sie in geeigneter Form über die Funktionsweise und Wirkungen des Finanzausgleichs.
 
-A. Voraussetzungen
+<sup>4</sup> Es fördert Gemeindezusammenschlüsse und bereitet die Beschlüsse für Förderbeiträge vor.
 
 #### Art. 3
 
-**Steuern**
+**Ausgleichs- und Bemessungsjahre**
 
-<sup>1</sup>[^3-1]Gemeinden, welche Ausgleichsbeiträge gemäss Artikel 16 Absatz 4, Artikel 18 und Artikel 19 des Gesetzes beanspruchen, haben mindestens folgende Steuern zu erheben:
+<sup>1</sup> Das Ausgleichsjahr ist das Vollzugsjahr für den Ressourcen- und Lastenausgleich. Im Ausgleichsjahr werden die Ausstattungsbeiträge für den Ressourcenausgleich (RA) sowie die Beiträge für den Gebirgs- und Schullastenausgleich (GLA) ausgerichtet und die Finanzierungsbeiträge sind an den RA zu entrichten. Die Beiträge für den Lastenausgleich Soziales (SLA) werden im Folgejahr ausgerichtet.
 
-- a)[^3-2]eine Einkommens- und Vermögenssteuer von mindestens 120 Prozent der einfachen Kantonssteuer
+<sup>2</sup> Die Bemessungsjahre sind jene Jahre, welche als Grundlage für die Datenermittlung dienen. Die massgebenden Ressourcen basieren auf dem Durchschnitt der letzten zwei verfügbaren Jahre einschliesslich der Nachträge. Die massgebenden Stichtagsdaten basieren auf der letztverfügbaren Erhebung.
 
-- b) …[^3-3]
-
-- c) ...[^3-4]
-
-- d)[^3-5]eine Erbschafts- und Schenkungssteuer mit folgenden Mindestansätzen:
-
-4 Prozent für Erben und Begünstigte des elterlichen Stammes sowie den Konkubinatspartner 7 Prozent für Erben und Begünstigte des grosselterlichen Stammes 15 Prozent für alle übrigen Begünstigten e)[^3-6]eine Liegenschaftensteuer von mindestens 1 Promille des Steuerwertes ohne Schuldenabzug f)[^3-7]eine Handänderungssteuer von mindestens 1 Prozent.
-
-<sup>2</sup> Gemeinden, welche Anspruch auf Beiträge an öffentliche Werke erheben, müssen im Durchschnitt der letzten drei Jahre einen Gemeindesteuerfuss von mindestens 120 Prozent der einfachen Kantonssteuer angewendet haben.
-
-<sup>3</sup>[^3-8]Gemeinden mit Anspruch auf Sonderbedarfsausgleich müssen eine Einkommens- und Vermögenssteuer von mindestens 130 Prozent der einfachen Kantonssteuer, eine Liegenschaftensteuer von 2 Promille des Vermögenssteuerwertes sowie eine Handänderungssteuer von 2 Prozent erheben.
-
-[^3-1]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-2]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-3]: Aufgehoben gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^3-4]: Aufgehoben gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-5]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-6]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-7]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^3-8]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft 2 01.12.2012
+<sup>3</sup> Bei Gemeindezusammenschlüssen, welche auf den Januar eines Ausgleichsjahres in Kraft treten, werden die Bemessungsgrundlagen der betroffenen Gemeinden aggregiert.
 
 #### Art. 4
 
-**Entgelte**
+**Termine**
 
-<sup>1</sup>[^4-1]Gemeinden, welche Ausgleichsbeiträge beanspruchen, haben für Aufwendungen, die einzelnen Gattungen des Privateigentums in besonderem Masse zugute kommen, angemessene Beiträge zu erheben.
+<sup>1</sup> Die Regierung legt das Ressourcenpotenzial, den Ressourcenindex, die Finanzierungs- und Ausstattungsbeiträge für den RA sowie die Beiträge für den GLA jeweils bis spätestens Ende August des dem Ausgleichsjahr vorausgehenden Jahres fest und teilt diese den Gemeinden mit.
 
-<sup>2</sup> Die Anschluss- und Benützungsgebühren für die Versorgungs- und Entsorgungseinrichtungen müssen in der Regel kostendeckend sein.
+<sup>2</sup> Die vom Amt anzuweisenden Beiträge für den RA und für den GLA erfolgen jeweils in zwei gleich grossen Teilzahlungen mit Fälligkeiten 20. Juni und 20. Dezember. Fällt diese Valuta auf ein Wochenende, verschiebt sich die Fälligkeit auf den folgenden Montag. Die Rechnungen für die RA-Finanzierungsbeträge sind den betroffenen Gemeinden in der Regel zwei Monate vor der Fälligkeit zuzustellen.
 
-<sup>3</sup> Soweit eine kostendeckende Erhebung nicht möglich ist, dürfen die angewendeten Ansätze jedoch die in grösseren Bündner Gemeinden üblichen Ansätze nicht unterschreiten.
-
-<sup>4</sup> Als zumutbare Entgelte gelten die jeweils höchsten Ansätze, welche in den grösseren Bündner Gemeinden angewendet werden.
-
-[^4-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
+<sup>3</sup> Das Gesuch der Gemeinden um einen Beitrag aus dem SLA ist jeweils bis spätestens Ende April des dem Ausgleichsjahr folgenden Jahres einzureichen.
 
 #### Art. 5
 
-**Haushaltsgrundsätze**
+**Einsichtsrecht**
 
-<sup>1</sup>[^5-1]Gemeinden, welche Ausgleichsbeiträge beanspruchen, haben ihren Finanzhaushalt nach den Grundsätzen der Gesetzmässigkeit, des Haushaltsgleichgewichtes, der Sparsamkeit, der Wirtschaftlichkeit und der Verursacherfinanzierung zu führen.
-
-<sup>2</sup> Ausgaben, die nicht in den Aufgabenbereich der politischen Gemeinde fallen, sind nicht zulässig.
-
-<sup>3</sup>[^5-2]Das Amt kann im Einvernehmen mit dem Departement für Finanzen und Gemeinden (Departement) die Grundsätze in separaten Richtlinien detaillierter festlegen.
-
-[^5-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^5-2]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
+<sup>1</sup> Die Gemeinden erhalten auf Verlangen umfassende Einsicht in die für sie massgeblichen Berechnungsgrundlagen.
 
 #### Art. 6
 
-**Weitere Auflagen und Bedingungen**
+**Datengrundlagen**
 
-<sup>1</sup>[^6-1]Gemeinden, welche Ausgleichsbeiträge beanspruchen, haben dem Amt Amt jeweils bis spätestens Ende November ein mehrjähriges Investitionsprogramm nach Vorgaben des Amtes einzureichen.
+<sup>1</sup> Zur Ermittlung der einzelnen Masszahlen dienen folgende statistische Grundlagen (in Klammern: zuständige Dienststelle für Datenlieferungen):
 
-<sup>2</sup> An die Zusicherung von Beiträgen an die Kosten öffentlicher Werke können weitere Bedingungen geknüpft werden, insbesondere hinsichtlich der Finanzierung durch Beiträge und Gebühren.
+- a) Einkommens- und Vermögenssteuern, Liquidationsgewinnsteuern und Aufwandsteuern der natürlichen Personen sowie Quellensteuern 3 und 4 Jahre vor dem Ausgleichsjahr (Steuerverwaltung);
+- b) Gewinn- und Kapitalsteuern der juristischen Personen 3 und 4 Jahre vor dem Ausgleichsjahr (Steuerverwaltung);
+- c) …
+- d) …
+- e) Steuerwerte der Liegenschaften zum Ansatz von 1,5 Promille per Ende des zweiten Jahres vor dem Ausgleichsjahr (Amt für Immobilienbewertung);
+- f) Wasserzinsen 2 und 3 Jahre vor dem Ausgleichsjahr (Amt für Energie und Verkehr);
+- g) Abgeltungsleistungen für Einbussen bei der Wasserkraftnutzung 2 und 3 Jahre vor dem Ausgleichsjahr (Amt für Energie und Verkehr);
+- h) ständige Wohnbevölkerung gemäss der eidgenössischen Statistik der Bevölkerung und der Haushalte (STATPOP) per Ende des dritten Jahres vor dem Ausgleichsjahr (Amt für Wirtschaft und Tourismus);
+- i) massgebende Anzahl steuerpflichtiger Personen per Ende des dritten Jahres vor dem Ausgleichsjahr (Steuerverwaltung);
+- j) Schülerzahl des Kindergartens und der Volksschule gemäss eidgenössischer Schülerstatistik und des Untergymnasiums nach Wohnort und Schulort für das letzte abgelaufene Schuljahr vor dem Ausgleichsjahr (Amt für Volksschule und Sport);
+- k) Gesamtfläche abzüglich der Fläche für stehende und fliessende Gewässer und der weiteren unproduktiven Fläche gemäss Arealstatistik des Bundesamtes für Statistik (Amt für Wirtschaft und Tourismus);
+- l) eidgenössische Statistik über die Anzahl Einwohner in Streusiedlungen per Ende des dritten Jahres vor dem Ausgleichsjahr (Amt für Landwirtschaft und Geoinformation; GIS-Zentrale);
+- m) Strassenklassifizierung der Gemeindestrassen gemäss dem Bundesamt für Landestopografie (Amt für Landwirtschaft und Geoinformation; GIS-Zentrale);
+- n) Länge Kantonsstrasse innerorts (Tiefbauamt).
 
-<sup>3</sup>[^6-2]Gemeinden mit Anspruch auf Sonderbedarfsausgleich bedürfen der Zustimmung des Amtes für neue Ausgaben von mehr als 10 000 Franken, für Änderungen kommunaler Gesetze und Reglemente, für Vertragsabschlüsse von grösserer finanzieller Tragweite sowie für den Beitritt zu Verbänden und Organisationen mit dauernder Kostenbeteiligung. Sie haben die Verwaltung und insbesondere das Rechnungswesen nach den Weisungen des Amtes zu führen.
+<sup>2</sup> Die Daten sind so zu bereinigen, dass sie den definierten Bezugsgrössen des Finanzausgleichs entsprechen. Elemente, welche nicht dazu gehören, sind zu entfernen, offensichtliche Fehler zu korrigieren. Die entsprechenden Bereinigungen sind so zu dokumentieren, dass der Nachvollzug der Änderungen auch für Dritte gewährleistet ist.
 
-B. Beiträge
+<sup>3</sup> Massgebend sind die jeweils Ende März letztverfügbaren Daten.
 
-[^6-1]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^6-2]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft 01.12.2012 3
+<sup>4</sup> Die Dienststellen, welche Daten für die Berechnung des Ressourcenpotenzials und den GLA verwalten, liefern dem Amt die erforderlichen Angaben pro Gemeinde und im Total bis spätestens Ende April.
 
 #### Art. 7
 
-**Steuerkraftausgleich**
+**Ausserordentliche Verhältnisse**
 
-<sup>1</sup>[^7-1]Das Amt ermittelt die relative Steuerkraft der Gemeinden, berechnet jährlich die Ausgleichsbeiträge und stellt die entsprechenden Anträge.
+<sup>1</sup> Wo die Datengrundlagen zu einem offensichtlich unbilligen Ergebnis führen, kann die Regierung nach Anhören der Gemeinde Korrekturen vornehmen. Diese sind zweckmässig zu dokumentieren. Die Nachvollziehbarkeit ist sicherzustellen.
 
-<sup>2</sup>[^7-2]Die Regierung teilt die von ihr festgelegten Ausgleichsbeiträge den Gemeinden jeweils bis Mitte September mit.
+#### Art. 7a
 
-<sup>3</sup> Bei der Ermittlung der Beiträge wird auch geprüft, ob die Ansätze für den Ausgleich im Sinne von Artikel 4 Absatz 3 der Verordnung anzupassen sind und in Einzelfällen Gründe für die Verweigerung oder Kürzung von Beiträgen vorliegen.
+**Fehlerhafte Berechnungen**
 
-<sup>4</sup> Die Beiträge werden gekürzt oder entfallen in vollem Umfang, wenn eine anspruchsberechtigte Gemeinde die Voraussetzungen nicht oder nur teilweise erfüllt.
+<sup>1</sup> Übersteigen die Korrekturen die Erheblichkeitsgrenzen gemäss Artikel 15a des Finanzausgleichsgesetzes[^7a-1], erfolgt ein korrigierter Beschluss der Regierung. Fehlerhafte Berechnungen sind unverzüglich zu korrigieren.
 
-[^7-1]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^7-2]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
+<sup>2</sup> Die Korrekturen können mit den Beiträgen des Folgejahres verrechnet werden.
+
+[^7a-1]: BR [730.200](https://www.gr-lex.gr.ch/data/730.200/de)
 
 #### Art. 8
 
-**Beiträge an öffentliche Werke**
+**Verrechnungsverbot**
 
-<sup>1</sup>[^8-1]Gesuche um Beiträge an öffentliche Werke sind vor Baubeginn mit den erforderlichen Unterlagen einzureichen.
+<sup>1</sup> Die aus dem Finanzausgleich resultierenden Leistungen können nicht gegenseitig verrechnet werden, dies auch nicht mit Forderungen unter anderen Rechtstiteln. Ausgenommen sind korrigierte Werte gemäss Artikel 7a.
 
-<sup>2</sup>[^8-2]Das Amt führt die erforderlichen Erhebungen durch.
-
-<sup>3</sup>[^8-3]Geprüft wird, ob der Bedarf für die Investition ausgewiesen ist, zumutzumutbare Eigenleistungen zur Anwendung kommen und ob die Inves¬tition finanziell verantwortet werden kann. Die Zumutbarkeitsschwelle für Entgelte erhöht sich, wenn vergleichbare Gemein¬den über höhere Ansätze verfügen.
-
-<sup>4</sup>[^8-4]Der Satz für Beiträge an die anrechenbaren Kosten öffentlicher Werke beträgt:
-
-- a) 40 Prozent für ausgleichsberechtigte Gemeinden mit einem Steuerfuss von mindestens 130 Prozent der einfachen Kantonssteuer;
-
-- b) 30 Prozent für ausgleichsberechtigte Gemeinden mit einem Steuerfuss von weniger als 130 Prozent aber mindestens 120 Prozent der einfachen Kantonssteuer.
-
-<sup>5</sup>[^8-5]Ändert eine Gemeinde ihren Steuerfuss, so verändert sich auch der Beitragssatz für Aufwendungen, die im entsprechenden Jahr anfallen.
-
-[^8-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^8-2]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^8-3]: Einfügung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^8-4]: Neue Absatznummer als Folge der Einfügung von Absatz 3; Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^8-5]: Neue Absatznummer als Folge der Einfügung von Absatz 3 4 01.12.2012
+## 2. Ressourcenausgleich (RA)
 
 #### Art. 9
 
-**Sonderbedarfsausgleich**
+**Berechnung der Beiträge**
 
-<sup>1</sup>[^9-1]Für den Sonderbedarfsausgleich gelten im Besonderen die folgenden Kriterien:
+<sup>1</sup> Die RA-Finanzierungsbeiträge und die RA-Ausstattungsbeiträge werden jährlich im Vorjahr des Ausgleichsjahres aufgrund der dem Grossen Rat zu beantragenden Ansätze berechnet.
 
-- a) besonders hohe Verschuldung oder bestehendes Haushaltsungleichgewicht;
+<sup>2</sup> Für Gemeinden mit einem Ressourcenindex zwischen 40 und 100 Punkten erfolgt ein progressiv wirkender Ausgleich. Der Tarif für die Progression ist so festzulegen, dass der Ausgleichssatz mit fallendem Ressourcenindex kontinuierlich steigt.
 
-- b) ausserordentliche Sonderlasten, auf deren Entstehung die Gemeinde keinen Einfluss hat;
+## 3. Lastenausgleich
 
-- c) hoher Abschreibungsbedarf infolge notwendiger Investitionen;
-
-- d)[^9-2]…
-
-<sup>2</sup>[^9-3]Das Amt prüft jährlich aufgrund der finanziellen Situation der Gemeinde, ob und inwieweit zusätzliche Beiträge für den Sonderbedarfsausgleich erforderlich sind und stellt der Regierung entsprechenden Antrag.
-
-[^9-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^9-2]: Aufgehoben gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^9-3]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^9-4]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
+### 3.1. Gebirgs- und Schullastenausgleich (GLA)
 
 #### Art. 10
 
-**Zuteilung der Beiträge**[^9-4]
+**Masszahlen**
 
-<sup>1</sup> Die jährliche Zuteilung der Finanzausgleichsbeiträge gemäss Artikel 15 des Gesetzes und Artikel 3 der Verordnung erfolgt durch die Regierung auf Antrag des Departementes.
+<sup>1</sup> Zur Ermittlung von Sonderlasten aufgrund von Besiedlungsstruktur, Fläche und Topografie sowie Schülerquote werden drei Masszahlen im Sinne von Lastenindikatoren verwendet.
 
-<sup>2</sup> Das Amt erstattet dem Departement Bericht über die erfolgten Abrechnungen und den Mittelbedarf für die verschiedenen Beitragskategorien.
+<sup>2</sup> Die Masszahl Besiedlungsstruktur erfasst einerseits die Anzahl Einwohner pro Gemeinde, welche in dispersen Siedlungen bis 25, 50, 100 und 200 Einwohner leben und andererseits die produktive Fläche pro Einwohner. Diese beiden Indikatoren werden gleich stark gewichtet.
 
-<sup>3</sup> Die Abrechnungen für öffentliche Werke sind dem Amt jeweils bis Ende September einzureichen.
+<sup>3</sup> Die Masszahl Strassenlänge erfasst für jede Gemeinde Aufwandkategorien mit Normkosten für die Werterhaltung und den Betrieb pro Kilometer und Jahr, unterschieden nach Gemeindestrassen, Quartierstrassen und Kantonsstrassen innerorts. Pro Gemeinde werden die Normkosten pro Einwohner ermittelt.
+
+<sup>4</sup> Die Masszahl Schülerquote bemisst sich aufgrund der Anzahl Volksschüler inklusive Untergymnasialschüler pro Einwohner.
 
 #### Art. 11
 
-**Auszahlung der Beiträge**
+**Ermittlung Indexwerte**
 
-Die Auszahlung der Beiträge erfolgt in der Regel einmal jährlich, spätestens per 31. Dezember.
+<sup>1</sup> Die für die Verteilung der GLA-Mittel relevanten Masszahlen werden so in Indexzahlen umgerechnet, dass der jeweilige Index für sämtliche Gemeinden 100 Indexpunkte beträgt.
 
-C. Verwaltungskostenanteil Amt für Gemeinden
+<sup>2</sup> Die Teilindikatoren werden durch Standardisierung vergleichbar gemacht. Zur Standardisierung werden Indexwerte über 200 Punkte wie folgt angerechnet:
 
-[^11-1]: Fassung gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 01.12.2012 5
+- a) Indexwerte von 200 bis 300 Punkten — 75 Prozent;
+- b) Indexwerte von 300 bis 400 Punkten — 50 Prozent;
+- c) Indexwerte von 400 bis 500 Punkten — 25 Prozent;
+- d) Indexwerte über 500 Punkte — 0 Prozent.
 
-#### Art. 11a
-
-**Verwaltungskostenanteil Amt für Gemeinden**[^11-1]
-
-Für den Vollzug des Finanzausgleichs wird jährlich ein Verwaltungskostenanteil für das Amt von pauschal 500 000 Franken zu Lasten der Spezialfinanzierung Finanzausgleich erhoben.
-
-D. Aufsicht, Beratung und Kontrolle[^11a-1]
-
-[^11a-1]: Einfügung gemäss RB vom 17. Februar 2004; tritt am 1. März 2004 in Kraft
-[^11a-2]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
+<sup>3</sup> Der Totalindex entspricht der Summe der Teilindizes der drei Masszahlen.
 
 #### Art. 12
 
-**Aufsicht und Beratung**[^11a-2]
+**Berechnung des Beitrags**
 
-Das Amt überwacht den Haushalt der finanzausgleichsberechtigten Gemeinden und berät diese in grundsätzlichen Verwaltungsfragen.
+<sup>1</sup> Ausgangspunkt für die Ermittlung des Ausgleichsbeitrags bildet der Totalindex pro Gemeinde. Massgebend ist jener Indexwert, welcher 300 Punkte übersteigt. Der Indexüberschuss wird mit der Einwohnerzahl gewichtet. Für die Verteilung der GLA-Mittel auf die Gemeinden werden 10 Prozent des Ressourcenpotenzials multipliziert mit dem Ressourcenindex jeder Gemeinde berücksichtigt.
+
+<sup>2</sup> …
 
 #### Art. 13
 
-**Prüfung der Ausgleichsberechtigung**
+**GLA bei Gemeindezusammenschluss**
 
-<sup>1</sup> Gesuche um Anerkennung der Ausgleichsberechtigung für Beiträge an öffentliche Werke oder für Sonderbedarfsbeiträge sind an die Regierung zu richten.
+<sup>1</sup> Führt ein Gemeindezusammenschluss zu einer substanziellen Einbusse an GLA-Mitteln, kann die Regierung der neuen Gemeinde – soweit nicht im einmaligen Förderbeitrag abgegolten – während längstens zehn Jahren einen GLA-Beitrag gewähren. Der jährliche Beitrag entspricht maximal dem Total der vom Zusammenschluss betroffenen Gemeinden im Jahr der Beitragszusicherung. Vorbehalten bleibt ein allfällig höherer Beitrag aufgrund der ordentlichen Neuberechnung.
 
-<sup>2</sup>[^13-1]Das Amt prüft die Gesuche, führt die erforderlichen Erhebungen durch und stellt Antrag zuhanden der Regierung.
-
-<sup>3</sup>[^13-2]Ist eine Gemeinde aufgrund der Finanzlage nicht mehr auf Beiträge angewiesen oder erfüllt sie die Bedingungen nicht oder nur teilweise, erstattet das Amt zuhanden der Regierung Bericht und Antrag.
-
-[^13-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^13-2]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
+### 3.2. Lastenausgleich Soziales (SLA)
 
 #### Art. 14
 
-**Laufende Kontrolle**
+**Gesuch**
 
-<sup>1</sup>[^14-1]Die Jahresrechnungen der ausgleichsberechtigten Gemeinden werden vom Amt umfassend durchgesehen.
+<sup>1</sup> Eine Gemeinde, welche einen Ausgleichsbeitrag beansprucht, reicht dem Amt für Soziales bis spätestens Ende April des Folgejahres ein Gesuch ein.
 
-<sup>2</sup> Bei Bedarf können zusätzliche Abklärungen vorgenommen werden.
+<sup>2</sup> Die Gemeinde hat die massgeblichen Aufwendungen und Erträge sowie die Höhe des Ausgleichsbeitrags gemäss den Vorgaben des Amts für Soziales nachzuweisen.
 
-<sup>3</sup>[^14-2]Das Amt führt bei Gemeinden, welche Anspruch auf den Sonderbedarfsausgleich erheben, jährlich eine Rechnungsrevision durch.
-
-[^14-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^14-2]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-
-### II. Indirekter Finanzausgleich
-
-[^hIIIndirekterFinan-1]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
+<sup>3</sup> Dem Gesuch sind ein entsprechender Auszug aus der Jahresrechnung sowie eine Vollständigkeitserklärung beizulegen. Liegt die Jahresrechnung Ende April noch nicht vor, müssen der Auszug und die Vollständigkeitserklärung bis zu einer vom Amt für Soziales eingeräumten Frist nachgereicht werden.
 
 #### Art. 15
 
-**Finanzkraftberechnung**[^hIIIndirekterFinan-1]
+**Massgebliche Berechnungsgrössen**
 
-Das Amt führt die Berechnungen durch und beschafft die erforderlichen Unterlagen bei den zuständigen kantonalen Ämtern. Letztere sind für die Richtigkeit der Angaben verantwortlich.
+<sup>1</sup> Massgeblich sind die tatsächlichen Ausgaben aufgrund von Unterstützungsleistungen und Alimentenbevorschussungen des Vorjahres gemäss den gesetzlichen Vorgaben.
+
+<sup>2</sup> Ansprüche auf Rückerstattungen des Bundes, anderer Kantone oder Dritter aus Unterstützungsleistungen, Alimentenbevorschussungen und Verwandtenunterstützungspflicht sowie auf Versicherungsleistungen sind durch die Gemeinden geltend zu machen. Diesbezügliche Einnahmen sind mit den massgeblichen Aufwendungen zu verrechnen.
+
+<sup>3</sup> Das massgebliche Ressourcenpotenzial entspricht jenem, welches die Regierung für den Ressourcenausgleich des Vorjahres festgelegt hat.
+
+<sup>4</sup> Entsteht aufgrund überjähriger Leistungen einmalig ein hoher Lastenausgleich Soziales und wird dieser nicht jährlich abgerechnet, wird das massgebliche Ressourcenpotenzial für dieselbe Zeitdauer berechnet, für welche die Leistungen erbracht worden sind.
 
 #### Art. 16
 
-**Überprüfung der Finanzkrafteinteilung**
+**Zuständigkeiten und Auszahlung**
 
-<sup>1</sup>[^16-1]Treten in einer Gemeinde offensichtlich besondere Verhältnisse ein, welche eine Überprüfung der geltenden Finanzkrafteinteilung erfordern, kann der Regierung bis spätestens ein Jahr vor Beginn der nächsten Finanzkraftperiode ein begründetes Gesuch eingereicht werden.
+<sup>1</sup> Die von der gesuchstellenden Gemeinde nachgewiesenen Nettoaufwendungen sowie der Ausgleichsbeitrag werden vom Amt für Soziales betreffend Anrechenbarkeit nach Risikogesichtspunkten geprüft. Das Amt für Soziales stellt dem Amt für Gemeinden bis spätestens Ende Juni die Unterlagen mit den Beitragsansprüchen der Gemeinden zu.
 
-<sup>2</sup>[^16-2]Das Amt prüft das Gesuch und stellt Antrag. Wenn Zweifel bezüglich der Angemessenheit des Gemeindesteuerfusses im Sinne von Artikel 9 Absatz 2 des Finanzausgleichsgesetzes[^16-3] bestehen, erfolgt die Überprüfung von Amtes wegen.
+<sup>2</sup> Die Regierung legt den Ausgleichsbeitrag bis spätestens Ende August fest.
 
-<sup>3</sup>[^16-4]Eine ausserordentliche Einteilung wird erst für die kommende Finanzkraftperiode wirksam. Bei Gemeindezusammenschlüssen legt die Regierung die Einteilung im Rahmen des Förderbeitrages fest.
+<sup>3</sup> Ausgleichsbeiträge unter 500 Franken werden nicht ausgerichtet.
 
-<sup>4</sup>[^16-5]Gemeinden, welche gemäss Regierungsbeschluss Anspruch auf Sonderbedarfsausgleich haben, werden ausnahmslos der Finanzkraftgruppe fünf zugeteilt.
+#### Art. 16a
 
-[^16-1]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft 6 01.12.2012
-[^16-2]: Fassung gemäss RB vom 3. Oktober 2006; tritt am 1. Januar 2007 in Kraft
-[^16-3]: BR 730.200
-[^16-4]: Einfügung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
-[^16-5]: Neue Absatznummer als Folge der Einfügung von Absatz 3
+**Rückerstattung ungerechtfertigter Beiträge**
 
-### III. Übergangs- und Schlussbestimmungen
+<sup>1</sup> Entdeckt das Amt für Soziales, dass eine frühere Abrechnung zu einer ungerechtfertigten höheren Beitragsleistung des Lastenausgleichs Soziales geführt hat, kann die Differenz von der Gemeinde zurückgefordert werden.
 
-[^hIIIÜbergangsund-1]: Fassung gemäss RB vom 23. November 2010; tritt am 1. Januar 2011 in Kraft
+<sup>2</sup> Eine Rückforderung ist insbesondere dann angezeigt, wenn im Nachhinein unkorrekte Angaben entdeckt werden oder eine Rückzahlung an die Gemeinde die betroffene Abrechnungsperiode massgeblich beeinflusst hätte.
+
+<sup>3</sup> Liegt ein Fall von ungerechtfertigten Beiträgen vor, so verfügt das Amt für Soziales eine Korrektur.
+
+### 3.3. Individueller Härteausgleich für besondere Lasten (ILA)
 
 #### Art. 17
 
-**Übergangsbestimmungen**[^hIIIÜbergangsund-1]
+**Gesuch**
 
-Die Gemeinden mit Anspruch auf Sonderbedarfsausgleich haben bis Ende 2011 die Mindestvoraussetzungen gemäss Artikel 3 zu erfüllen, andernfalls der Anspruch entfällt.
+<sup>1</sup> Eine Gemeinde kann dem Amt jederzeit ein Gesuch um einen ILA-Beitrag unterbreiten.
+
+<sup>2</sup> Das Gesuch hat alle zur Prüfung notwendigen Informationen und Unterlagen zu enthalten. Es hat die ausserordentlichen und unbeeinflussbaren Lasten, die nachhaltige Störung des Haushaltsgleichgewichts sowie das Ausschöpfen der zumutbaren Selbsthilfe im Detail nachzuweisen.
 
 #### Art. 18
 
-**Inkrafttreten, aufgehobenes Recht**
+**Beitragsgewährung und Zuständigkeit**
 
-Diese Ausführungsbestimmungen treten am 1. Januar 1994 in Kraft und ersetzen jene vom 5. Juni 1990.[^18-1]
+<sup>1</sup> Der ILA-Beitrag wird in der Regel als einmaliger Beitrag gewährt. Er ist so festzulegen, dass die Gemeinde dadurch wirksam und nachhaltig entlastet wird.
 
-[^18-1]: AGS 1990, 2349 01.12.2012 7
+<sup>2</sup> Das Amt prüft das Gesuch und führt die erforderlichen Erhebungen durch. Es prüft insbesondere die Nachhaltigkeit der Beitragsverwendung.
+
+<sup>3</sup> Die Regierung entscheidet im Einzelfall über die Beitragsgewährung sowie über die Dauer und Stufe der besonderen Finanzaufsicht. Vorbehalten ist der erforderliche Kredit des Grossen Rates.
+
+## 4. Wirksamkeit
+
+#### Art. 19
+
+**Wirksamkeitsbericht**
+
+<sup>1</sup> Die Regierung unterbreitet dem Grossen Rat periodisch einen Bericht über den Vollzug und die Wirksamkeit des Finanzausgleichs. Der Bericht zeigt, wie sich die Instrumente des Finanzausgleichs auswirken.
+
+<sup>2</sup> Der Bericht gibt jeweils für die analysierte Periode Auskunft über insbesondere:
+
+- a) die Veränderung in der Verteilung der öffentlichen Aufgaben zwischen Kanton und Gemeinden sowie die sich daraus ergebenden Auswirkungen auf den Handlungsspielraum und die Finanzen der Gemeinden;
+- b) die Entwicklung der Ressourcen der Gemeinden und ihrer Belastung durch die Erfüllung der notwendigen Aufgaben;
+- c) die Wirkung des Finanzausgleichs auf die Gemeindestrukturen;
+- d) die Erreichung der Ziele des Finanzausgleichs, insbesondere über die Entwicklung der Steuerbelastungsunterschiede;
+- e) die Zweckmässigkeit der Bemessungsgrundlagen für die Erfassung der Ressourcenstärke und der Sonderlasten sowie die Angemessenheit der Dotierung der Ausgleichsgefässe;
+- f) die jährliche Volatilität der Ausgleichsbeiträge sowie die bewilligten und abgelehnten Gesuche für ILA-Beiträge;
+- g) den Bedarf für eine Anpassung der Rechtsgrundlagen.
+
+<sup>3</sup> Der Bericht mit allfälligen Massnahmenvorschlägen kann dem Grossen Rat separat oder im Rahmen der Botschaft zum Budget oder der Jahresrechnung unterbreitet werden.
+
+## 5.
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+#### Art. 22
+
+**…**
+
+## A1 Anhang 1: Befristeter Ausgleich (Art. 20)
+
+#### Art. A1-1
+
+<sup>1</sup> Dieser Anhang basiert auf der FA-Globalbilanz aufgrund des vom Grossen Rat am 5. Dezember 2013 beschlossenen Mantelgesetzes über die FA-Reform.
+
+<sup>2</sup> Der befristete Ausgleich für die im Anhang zum Finanzausgleichsgesetz aufgeführten Gemeinden entspricht höchstens der Mehrbelastung durch die Einführung der FA-Reform gemäss der FA-Globalbilanz. Massgebend sind die folgenden Beträge:
+
+- a) Fideris: — Fr. 62'485.00
+- b) Küblis: — Fr. 470'541.00
+- c) Masein: — Fr. 140'220.00
+- d) Rhäzüns: — Fr. 451'245.00
+- e) Sagogn: — Fr. 142'454.00
+- f) Schmitten: — Fr. 67'651.00
+- g) Trun: — Fr. 793'694.00
+- h) Verdabbio: — Fr. 60'042.00
+
+2015-021
