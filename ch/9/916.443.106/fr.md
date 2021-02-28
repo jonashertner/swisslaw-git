@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 18 novembre 2015 réglant les échanges d'importati
 short: OITE-PT-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: fr
-version: 2021-02-26
+version: 2021-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210226/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210226-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210226/fr"
 
 (OITE-PT-DFI)
 
-du 18 novembre 2015 (Etat le 26 février 2021)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -90,10 +90,12 @@ Les conditions d’importation et de transit fixées par la législation sur les
 
 ### (art. 15 et 39, let. b, OITE-PT)
 
-Les rubriques du tarif des douanes et les produits composés devant faire l’objet d’un contrôle vétérinaire à la frontière lors de l’importation ou du transit sont définis aux art. 4 et 6 ainsi qu’aux annexes I et II de la décision 2007/275/CE[^6-2].
+Les animaux et les produits animaux devant faire l’objet d’un contrôle vétérinaire de frontière lors de l’importation ou du transit sont définis dans le règlement d’exécution (UE) 2019/2007[^6-2], aux art. 3 et 4 du règlement délégué (UE) 2019/2122[^6-3] et dans la décision 2007/275/CE[^6-4].
 
-[^6-1]: Nouvelle teneur par le ch. I de l’O du DFI du 3 mars 2017, en vigueur depuis le 1<sup>er</sup> avr. 2017 ([RO 2017 1669](https://fedlex.data.admin.ch/eli/oc/2017/172)).
-[^6-2]: Décision 2007/275/CE de la Commission du 17 avril 2007 relative aux listes des animaux et des produits devant faire l’objet de contrôles aux postes d’inspection frontaliers conformément aux directives du Conseil 91/496/CEE et 97/78/CE, JO L 116 du 4.5.2007, p. 9; modifiée en dernier lieu par la décision d’exécution 2016/1196/UE, JO L 197 du 22.7.2016, p. 10.
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 26 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+[^6-2]: Règlement d’exécution (UE) 2019/2007 de la Commission du 18 novembre 2019 portant modalités d’application du règlement (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne les listes indiquant les animaux, les produits d’origine animale, les produits germinaux, les sous-produits animaux et les produits dérivés, ainsi que le foin et la paille, soumis à des contrôles officiels aux postes de contrôle frontaliers et modifiant la décision 2007/275/CE, version du JO L 312 du 3.12.2019, p. 1
+[^6-3]: Règlement délégué (UE) 2019/2122 de la Commission du 10 octobre 2019 complétant le règlement (UE) 2017/625 du Parlement européen et du Conseil en ce qui concerne certaines catégories d’animaux et de biens exemptées des contrôles officiels aux postes de contrôle frontaliers, des contrôles spécifiques des bagages personnels des passagers et de petits envois de biens expédiés à des personnes physiques, qui ne sont pas destinés à être mis sur le marché et modifiant le règlement (UE) n<sup>o</sup> 142/2011 de la Commission, version du JO L 321 du 12.12.2019, p. 9
+[^6-4]: Décision 2007/275/CE de la Commission du 17 avril 2007 relative aux listes des animaux et des produits devant faire l’objet de contrôles aux postes d’inspection frontaliers, JO L 116 du 4.5.2007, p. 9; modifiée en dernier lieu par la décision d’exécution (UE) 2019/2007, JO L 312 du 3.12.2019, p. 1
 
 #### Art. 7
 
@@ -204,7 +206,7 @@ Annexe 1*[^t-1]*
 <tr><td>46. Décision 2008/636/CE</td><td>Décision 2008/636/CE de la Commission du 22 juillet 2008 établissant la liste des pays tiers en provenance desquels les États membres autorisent les importations d’ovules et d’embryons de l’espèce porcine, version du JO L 206 du 2.8.2008, p. 32</td></tr>
 <tr><td>47. ...</td><td></td></tr>
 <tr><td>48. Décision 2008/698/CE</td><td>Décision 2008/698/CE de la Commission du 8 août 2008 concernant l’admission temporaire et les importations dans la Communauté de chevaux enregistrés en provenance d’Afrique du Sud, version du JO L 235 du 2.9.2008, p. 16</td></tr>
-<tr><td>49. Règlement (CE) n<sup>o</sup> 798/2008</td><td>Règlement (CE) n<sup>o</sup> 798/2008 de la Commission du 8 août 2008 établissant une liste des pays tiers, territoires, zones ou compartiments en provenance desquels les volailles et les produits de volailles peuvent être importés dans la Communauté et transiter par celle-ci ainsi que les règles en matière de certification vétérinaire, JO L 226 du 23.8.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/256, JO L 58 du 19.2.2021, p. 36</td></tr>
+<tr><td>[tab] 49. Règlement (CE) n<sup>o</sup> 798/2008</td><td>Règlement (CE) n<sup>o</sup> 798/2008 de la Commission du 8 août 2008 établissant une liste des pays tiers, territoires, zones ou compartiments en provenance desquels les volailles et les produits de volailles peuvent être importés dans la Communauté et transiter par celle-ci ainsi que les règles en matière de certification vétérinaire, JO L 226 du 23.8.2008, p. 1; modifié en dernier lieu par le règlement d’exécution (UE) 2021/256, JO L 58 du 19.2.2021, p. 36</td></tr>
 <tr><td>50. ...</td><td></td></tr>
 <tr><td>51. Décision 2008/946/CE</td><td>Décision 2008/946/CE de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les exigences liées à la mise en quarantaine d’animaux d’aquaculture, JO L 337 du 16.12.2008, p. 94</td></tr>
 <tr><td>52. Règlement (CE) n<sup>o</sup> 1251/2008</td><td>Règlement (CE) n<sup>o</sup> 1251/2008 de la Commission du 12 décembre 2008 portant application de la directive 2006/88/CE du Conseil en ce qui concerne les conditions et les exigences de certification applicables à la mise sur le marché et à l’importation dans la Communauté d’animaux d’aquaculture et de produits issus de ces animaux et établissant une liste des espèces vectrices, JO L 337 du 16.12.2008, p. 41; modifié en dernier lieu par le règlement d’exécution (UE) 2020/2202, JO L 438 du 28.12.2020, p. 1</td></tr>
@@ -251,7 +253,7 @@ Annexe 1*[^t-1]*
 <tr><td>96. Règlement d’exécution (UE) 2020/2208</td><td>Règlement d’exécution (UE) 2020/2208 de la Commission du 22 décembre 2020 prenant en considération le Royaume-Uni en tant que pays tiers autorisé à importer des lots de foin et de paille dans l’Union, version du JO L 438 du 28.12.2020, p. 21.</td></tr>
 </table>
 
-Annexe 2[^t-2]
+Annexe 2*[^t-2]*
 
 (art. 2, al. 2)
 
@@ -271,7 +273,7 @@ Les garanties sanitaires additionnelles définies à l’art. 2, al. 1, let. b, 
 
 [^annex2-lvlu1-lvl2-1]: Décision 2008/185/CE de la Commission du 21 février 2008 établissant des garanties supplémentaires concernant la maladie d’Aujeszky pour les porcs destinés aux échanges intracommunautaires et fixant les critères relatifs aux renseignements à fournir sur cette maladie, JO L 59 du 4.3.2008, p. 19; modifiée en dernier lieu par la décision d’exécution (UE) n<sup>o</sup> 2016/1782, JO L 272 du 7.10.2016, p. 90.
 
-Annexe 3[^t-3]
+Annexe 3*[^t-3]*
 
 (art. 3)
 
@@ -294,7 +296,7 @@ Les produits d’origine animale qui présentent un risque élevé sur le plan d
 
 [^annex3-lvlu1-1]: Règlement (UE) n<sup>o</sup> 142/2011 de la Commission du 25 février 2011 portant application du règlement (CE) n<sup>o</sup> 1069/2009 du Parlement européen et du Conseil établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et portant application de la directive 97/78/CE du Conseil en ce qui concerne certains échantillons et articles exemptés des contrôles vétérinaires effectués aux frontières en vertu de cette directive, JO L 54 du 26.2.2011, p. 1; modifié en dernier lieu par le règlement (UE) 2020/797, JO L 194 du 18.6.2020, p. 1.
 
-Annexe 4[^t-4]
+Annexe 4*[^t-4]*
 
 (art. 5)
 
@@ -364,37 +366,68 @@ III. Les produits animaux suivants ne peuvent être importés en Suisse ou trans
 <tr><td>4. Denrées alimentaires mentionnées sous le ch. I, let. b, et sous-produits animaux destinés à l’alimentation des animaux de compagnie.</td><td>Îles Féroé, Groenland</td><td>au maximum 10 kg par personne</td></tr>
 </table>
 
-Annexe 5
+Annexe 5*[^t-5]*
 
 (art. 7)
 
-## Actes législatifs de l’UE relatifs à l’étiquetage de l’emballage extérieur des lots
+## Actes législatifs de l’UE relatifs à l’étiquetage de l’emballage extérieur des produits animaux
+
+[^t-5]: Nouvelle teneur selon le ch. II de l’O du DFI du 26 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
 
 <table>
 <tr><th>Texte législatif de l’UE</th><th>Dispositions pertinentes</th></tr>
-<tr><th>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 1137/2014, JO L 307 du 28.10.2014, p. 28.</th><th>Annexe II</th></tr>
+<tr><th>Règlement (CE) n<sup>o</sup> 853/2004 du Parlement européen et du Conseil du 29 avril 2004 fixant des règles spécifiques d’hygiène applicables aux denrées alimentaires d’origine animale, JO L 139 du 30.4.2004, p. 55; modifié en dernier lieu par le règlement (UE) 2019/1243, JO L 198 du 25.7.2019, p. 241</th><th>Annexe II</th></tr>
 </table>
 
-Annexe 6
+Annexe 6*[^t-6]*
 
 (art. 8)
 
 ## Exigences formelles auxquelles doivent satisfaire les certificats sanitaires
 
-- 1 Le représentant de l’autorité du pays exportateur ou de l’entreprise qui délivre le certificat sanitaire doit le signer et le munir du cachet officiel. Cette exigence vaut pour chaque page du certificat, si celui-ci en comporte plus d’une. Le cachet et la signature doivent être d’une couleur différente de celle des autres données figurant sur le certificat. On y ajoutera le nom et le titre de fonction du signataire en caractères lisibles et en capitales.
-- 2 Le contenu et l’aspect du certificat sanitaire doivent correspondre au modèle fixé pour l’animal, le produit animal et l’État en question. Le certificat doit être rempli entièrement et ne peut être établi que pour un seul établissement de destination.
-- 3 Les certificats doivent être rédigés en allemand, en français, en italien ou en anglais et, s’il s’agit d’un lot en transit à destination des États membres de l’UE, de l’Islande ou de la Norvège, dans la langue officielle du pays de destination; sinon ils doivent être accompagnés d’une traduction légalisée dans la langue pertinente.
+[^t-6]: Nouvelle teneur selon le ch. II de l’O du DFI du 26 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+
+### 1 Exigences formelles auxquelles doivent satisfaire les certificats sanitaires sous forme papier
+
+- 1 Les certificats sanitaires doivent être munis de la signature de la personne habilitée à les signer et d’un cachet officiel. La couleur de la signature doit être différente de celle du texte imprimé. Cette règle vaut également pour les cachets, à l’exclusion des reliefs et des filigranes. On y ajoutera le nom et le titre de fonction du signataire en caractères lisibles et en capitales.
+- 2 Les certificats sanitaires doivent être conformes au modèle fixé pour l’animal, le produit animal et l’État en question. Ils doivent être remplis entièrement et ne peuvent être établis que pour un seul établissement de destination. Les mentions non pertinentes doivent être biffées et paraphées par la personne habilitée à signer le certificat et cachetées ou être entièrement supprimées.
+- 3 Les certificats sanitaires doivent être rédigés en allemand, en français, en italien ou en anglais et, s’il s’agit d’un lot en transit à destination des États membres de l’UE, de l’Islande ou de la Norvège, dans la langue officielle du pays de destination; sinon ils doivent être accompagnés d’une traduction légalisée dans la langue pertinente.
 - 4
 
-  Les certificats doivent être constitués:
+  Les certificats sanitaires doivent être constitués:
 
   - a. d’une feuille de papier unique;
-  - b. de deux ou plusieurs pages faisant partie d’une feuille de papier unique qui ne doit pas être divisée, ou
+  - b. de plusieurs pages indivisibles constituant un tout, ou
   - c. d’une séquence de pages numérotées de manière à indiquer qu’il s’agit d’une page spécifique d’une séquence finie (par ex.: «page 2 sur 4»).
 
-- 5 Les certificats doivent porter un numéro d’identification unique. Lorsque le certificat se compose d’une séquence de pages, chaque page doit indiquer ce numéro.
-- 6 Les éventuelles modifications doivent être effectuées au moyen de ratures dûment signées et cachetées par la personne chargée de la certification.
-- 7 Le certificat doit être délivré avant que le lot auquel il se réfère ne quitte le service de contrôle de l’autorité compétente du pays expéditeur.
+- 5 Les certificats sanitaires doivent porter un numéro d’identification unique. Lorsque le certificat se compose d’une séquence de pages, chaque page doit être munie du numéro d’identification, de la signature de la personne habilitée à signer et du cachet officiel.
+- 6 Les éventuelles modifications doivent être effectuées au moyen de ratures signées par la personne habilitée à signer et munies d’un cachet officiel.
+- 7 Les certificats sanitaires doivent être délivrés avant que le lot auquel ils se réfèrent ne quitte le service de contrôle de l’autorité compétente.
+
+### 2 Exigences formelles auxquelles doivent satisfaire les certificats sanitaires sous forme électronique qui sont transmis via TRACES
+
+- 1 Les certificats sanitaires doivent être conformes au modèle fixé pour l’animal, le produit animal et l’État en question.
+- 2 Les certificats sanitaires doivent être transmis via TRACES avant que le lot auquel ils se réfèrent ne quitte le service de contrôle de l’autorité compétente.
+
+### 3 Certificats de remplacement
+
+- 1
+
+  L’autorité compétente peut délivrer un certificat de remplacement lorsque le certificat initial:
+
+  - a. présente des erreurs de plume;
+  - b. a été endommagé, ou
+  - c. a été perdu.
+
+- 2 Le certificat de remplacement ne doit pas modifier les informations contenues dans le certificat initial en ce qui concerne l’identification, la traçabilité et les garanties sanitaires du lot.
+- 3
+
+  Le certificat de remplacement doit:
+
+  - a. renvoyer clairement au numéro d’identification et à la date de délivrance du certificat initial, et indiquer clairement qu’il remplace le certificat initial;
+  - b. porter un nouveau numéro d’identification, distinct de celui du certificat initial;
+  - c. porter la date de sa délivrance, et
+  - d. être soit présenté dans sa version originale sur papier à l’autorité compétente, soit transmis sous forme électronique via TRACES.
 
 Annexe 7
 
@@ -420,59 +453,103 @@ Annexe 7
   - e. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
   - f. d’appareils et d’équipements de nettoyage et de désinfection.
 
-Annexe 8
+Annexe 8*[^t-7]*
 
 (art. 10)
 
 ## Exigences auxquelles doivent satisfaire les locaux, les équipements et les installations des postes d’inspection frontaliers agréés
 
-### 1 Postes d’inspection frontaliers agréés pour le contrôle des animaux
+[^t-7]: Nouvelle teneur selon le ch. II de l’O du DFI du 26 janv. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
 
--
+### 1 Exigences générales auxquelles doivent satisfaire les locaux, les équipements et les installations des postes d’inspection frontaliers agréés
 
-  Les postes d’inspection frontaliers doivent disposer:
+- 1\.1
 
-  - a. d’une file d’accès réservée au transport d’animaux vivants;
-  - b. d’installations faciles à nettoyer et à désinfecter, permettant le chargement et le déchargement des différents moyens de transport, le contrôle, l’approvisionnement et les soins des animaux et ayant une superficie, un éclairage, une aération et une aire d’approvisionnement adaptés au nombre d’animaux à contrôler;
-  - c. de locaux suffisamment vastes pour héberger, contrôler et séquestrer des animaux, ainsi que de vestiaires, douches et toilettes à la disposition du personnel chargé des tâches de contrôle;
-  - d. d’un local et d’un équipement appropriés pour le prélèvement et le traitement des échantillons et pour les contrôles de routine;
-  - e. des services d’un laboratoire spécialisé qui soit en mesure d’effectuer des analyses spéciales sur les échantillons prélevés au poste d’inspection en question;
-  - f. des services d’une entreprise qui, située à proximité immédiate, dispose des installations et équipements requis pour héberger, alimenter, abreuver, soigner et, le cas échéant, abattre les animaux;
-  - g. d’installations appropriées permettant, au cas où ces postes sont utilisés comme points d’arrêt ou de transbordement des animaux en cours de transport, de les décharger, de les abreuver et les alimenter, le cas échéant de les héberger convenablement et de leur donner des soins ou, si nécessaire, de procéder à leur mise à mort sur place d’une manière leur évitant toute souffrance inutile;
-  - h. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES, et
-  - i. d’appareils et d’équipements de nettoyage et de désinfection.
+  Les postes d’inspection frontaliers agréés doivent disposer:
 
-### 2 Postes d’inspection frontaliers agréés pour le contrôle des produits animaux
+  - a. de locaux dont des bureaux, des pièces réservées au personnel et des locaux d’archivage, de zones, d’équipements et d’installations adaptés à la nature et à la quantité des lots manipulés;
+  - b. de locaux, de zones, d’équipements et d’installations permettant d’effectuer les contrôles officiels des animaux et des produits animaux pour lesquels le poste d’inspection de contrôle frontalier est agréé;
+  - c. de locaux ou zones couverts pour décharger les animaux et les produits animaux;
+  - d. de locaux ou zones de contrôle;
+  - e. de locaux ou de zones d’hébergement pour les animaux ou de locaux ou de zones d’entreposage pour les produits animaux, y compris de chambres froides, lorsque cela est nécessaire pour les catégories de produits animaux pour lesquelles le poste d’inspection frontalier est agréé;
+  - f. d’un accès à des toilettes équipées d’installations pour le lavage et le séchage des mains et réservées aux personnes impliquées dans les contrôles officiels;
+  - g. d’un équipement de déchargement, d’ouverture et d’examen des lots;
+  - h. de matériel de nettoyage et de désinfection, ainsi que d’instructions relatives à son utilisation ou de dispositions documentées de nettoyage et de désinfection, lorsque les opérations de nettoyage et de désinfection sont effectuées par des agents extérieurs au poste d’inspection frontalier;
+  - i. d’installations adéquates pour l’entreposage temporaire d’échantillons sous conditions contrôlées de la température, dans l’attente de leur expédition au laboratoire, et de conteneurs appropriés pour leur transport;
+  - j. d’équipements permettant des échanges d’informations rapides, par le biais de TRACES;
+  - k. des services de laboratoires qui soient en mesure d’analyser les échantillons prélevés;
+  - l. de dispositions qui garantissent, s’il y a lieu, l’accès à tout autre local, zone, équipement, installation ou service permettant de prendre des mesures lorsque l’on soupçonne que des lots ne sont pas conformes ou lorsque des lots présentent un risque;
+  - m. de dispositions permettant de traiter les lots conformément aux prescriptions et de prévenir les risques pouvant résulter d’une contamination croisée;
+  - n. de dispositions permettant d’empêcher l’introduction de maladies en Suisse.
 
-- 2\.1 Les postes d’inspection frontaliers doivent être construits de manière à fournir un niveau d’hygiène adéquat et à éviter toute contamination croisée.
-- 2\.2
+- 1\.2
 
-  Les locaux où les produits sont déchargés, examinés ou entreposés doivent être suffisamment vastes et comporter les éléments suivants:
+  Les locaux de contrôle doivent être équipés des éléments suivants:
 
-  - a. des surfaces murales à finition lisse et lavable qui, tout comme les sols, sont faciles à nettoyer et à désinfecter, et un système d’écoulement des eaux adapté;
-  - b. un plafond facile à nettoyer;
-  - c. un éclairage naturel ou artificiel suffisant, et
-  - d. un système approprié d’approvisionnement en eau froide et en eau chaude dans tous les locaux d’inspection.
+  - a. de murs, sols et plafonds faciles à nettoyer et à désinfecter;
+  - b. d’un système approprié d’approvisionnement en eau froide et en eau chaude et de l’équipement nécessaire au nettoyage et au séchage des mains;
+  - c. d’un système de drainage approprié;
+  - d. d’un éclairage naturel ou artificiel approprié.
 
-- 2\.3 Les divers postes d’inspection frontaliers agréés d’un même bureau de douane doivent se situer à une distance utile les uns des autres.
-- 2\.4 Les postes d’inspection frontaliers agréés pour manipuler des produits réfrigérés, congelés ou à température ambiante doivent être capables de stocker simultanément des volumes adéquats de produits pour chaque catégorie de température. Le vétérinaire de frontière doit pouvoir disposer en tout temps du volume d’entreposage dont il a besoin.
-- 2\.5 Pour les produits sous contrôle d’une température définie, destinés à l’alimentation humaine, la jonction entre le moyen de transport et les zones de déchargement doit être protégée ou isolée de l’environnement extérieur.
-- 2\.6
+- 1\.3
 
-  Les postes d’inspection frontaliers doivent disposer:
+  Les zones de contrôle doivent être faciles à nettoyer et équipées des éléments suivants:
 
-  - a. d’un bureau muni de tous les moyens de communication requis, y compris un téléphone, un télécopieur, un terminal TRACES et une photocopieuse, de tous les documents nécessaires pour effectuer les contrôles et des ouvrages de référence, d’un local d’archivage d’un volume suffisant pour conserver tous les documents contrôlés;
-  - b. des locaux comprenant des vestiaires, des toilettes et des lavabos pour le personnel du poste d’inspection frontalier, lesquels ne peuvent être partagés qu’avec les autres personnes qui participent aux contrôles officiels;
-  - c. d’une zone fermée ou couverte destinée au déchargement des moyens de transport;
-  - d. d’un local d’inspection dans lequel les produits peuvent être examinés et des échantillons prélevés pour des tests ultérieurs; le lieu de prélèvement des échantillons peut se situer dans le local de contrôle;
-  - e. des locaux ou des zones d’entreposage adaptés pour permettre de conserver à la fois à des températures de réfrigération ou de congélation ou à la température ambiante, sous le contrôle du vétérinaire officiel, les lots séquestrés dans l’attente des résultats des analyses de laboratoire ou d’autres examens;
-  - f. de locaux et d’équipements appropriés pour le prélèvement et le traitement des échantillons et pour les contrôles de routine;
-  - g. des services d’un laboratoire qui soit en mesure d’analyser les échantillons prélevés au poste d’inspection;
-  - h. de locaux et d’installations frigorifiques permettant le stockage des échantillons prélevés sur les lots pour analyse et des produits dont la libération n’a pas été autorisée par le vétérinaire de frontière responsable du poste d’inspection frontalier;
-  - i. de locaux de réfrigération et d’installations où sont conservés séparément les denrées alimentaires et les autres produits animaux et qui permettent de les maintenir séparément à la température requise pour chaque catégorie de produits;
-  - j. d’équipements appropriés permettant des échanges d’informations rapides, par le biais de TRACES;
-  - k. des services d’une entreprise apte à procéder aux traitements prévus par l’ordonnance du 25 mai 2011 sur l’élimination des sous-produits animaux[^annex8-lvlu1-lvl2-1];
-  - l. d’un équipement et de produits de nettoyage et de désinfection rangés dans un lieu approprié et adaptés aux besoins du poste, ou d’un système éprouvé de nettoyage et de désinfection par une entreprise externe; l’efficacité des travaux de nettoyage et de désinfection doit être prouvée et documentée, et
-  - m. d’installations pour l’entreposage temporaire des échantillons sous contrôle de la température dans l’attente de leur envoi au laboratoire, ainsi que de conteneurs adaptés au transport de ces échantillons.
+  - a. d’un système approprié d’approvisionnement en eau froide et en eau chaude et de l’équipement nécessaire au nettoyage et au séchage des mains;
+  - b. d’un système de drainage approprié;
+  - c. d’un éclairage naturel ou artificiel approprié.
 
-[^annex8-lvlu1-lvl2-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+- 1\.4
+
+  Les locaux ou zones de contrôle doivent, selon les catégories d’animaux ou de produits animaux pour lesquelles le poste d’inspection frontalier a été agréé, en outre être équipés des éléments suivants:
+
+  - a. d’une table avec une surface lisse et lavable, facile à nettoyer et à désinfecter;
+  - b. d’un équipement destiné à l’échantillonnage;
+  - c. de ruban collant et de scellés ou d’étiquettes numérotés, clairement marqués afin d’assurer la traçabilité;
+  - d. d’un équipement destiné à la pesée des lots.
+
+- 1\.5. Si nécessaire, il faut établir des instructions détaillées concernant l’échantillonnage aux fins de l’analyse et du transport de ces échantillons au laboratoire officiel.
+- 1\.6. Les postes d’inspection frontaliers d’un même bureau de douane doivent être situés à une distance appropriée les uns des autres.
+
+### 2 Exigences spécifiques auxquelles doivent satisfaire les postes d’inspection frontaliers agréés pour le contrôle des animaux
+
+- 2\.1
+
+  Outre les exigences du ch. 1, les postes d’inspection frontaliers agréés pour le contrôle des animaux doivent disposer:
+
+  - a. d’une voie d’accès spécifique ou d’autres dispositions visant à épargner aux animaux toute attente inutile avant d’atteindre la zone de déchargement;
+  - b. d’équipements d’alimentation et d’abreuvement;
+  - c. de locaux ou zones de contrôle dotés d’un équipement d’immobilisation et de l’équipement nécessaire pour procéder à un examen clinique;
+  - d. d’installations conçues, construites, entretenues et exploitées de manière à pouvoir éviter les blessures et les souffrances inutiles des animaux et à garantir leur sécurité;
+  - e. de vestiaires avec douches réservés aux personnes impliquées dans les contrôles officiels.
+
+- 2\.2 Les locaux et zones de déchargement doivent être suffisamment grands, éclairés et ventilés.
+
+### 3 Exigences spécifiques auxquelles doivent satisfaire les postes d’inspection frontaliers agréés pour le contrôle des produits animaux
+
+- 3\.1
+
+  Outre les exigences du ch. 1, les postes d’inspection frontaliers agréés pour le contrôle des produits animaux doivent disposer:
+
+  - a. de locaux ou de zones permettant d’entreposer ces produits à la température adaptée à chaque catégorie, dans l’attente des résultats des analyses de laboratoire ou des contrôles;
+  - b. de vestiaires réservés aux personnes impliquées dans les contrôles officiels.
+
+- 3\.2
+
+  Les locaux ou zones de contrôle doivent, selon les catégories de produits animaux pour lesquelles le poste d’inspection frontalier a été agréé, en outre être équipés des éléments suivants:
+
+  - a d’un thermomètre pour mesurer la température en surface et à cœur des produits animaux;
+  - b. d’équipements de décongélation.
+
+- 3\.3 S’ils sont utilisés pour des denrées alimentaires d’origine animale, les locaux et les zones de contrôle et d’entreposage ne doivent pas être utilisés pour d’autres produits animaux.
+- 3\.4
+
+  Par dérogation au ch. 3.3, le Service vétérinaire de frontière est autorisé à utiliser de manière combinée les locaux et les zones qui y sont visés pour les denrées alimentaires d’origine animale et les autres produits animaux aux conditions suivantes:
+
+  - a. l’OSAV effectue une analyse des risques qui montre comment éviter toute contamination croisée;
+  - b. le Service vétérinaire de frontière prend les mesures nécessaires à cette fin;
+  - c. les lots de produits animaux non emballés ne sont pas traités en même temps que d’autres lots, emballés ou non; les locaux et les zones sont nettoyés et désinfectés si nécessaire entre-temps.
+
+- 3\.5 Le Service vétérinaire de frontière peut permettre aux tiers placés sous sa supervision d’utiliser des zones ou des locaux commerciaux d’entreposage, à condition que ceux-ci soient situés à proximité du poste d’inspection frontalier et relèvent de la compétence de la même autorité douanière.
+- 3\.6 Les produits animaux entreposés dans des zones ou des locaux commerciaux d’entreposage y sont entreposés dans de bonnes conditions d’hygiène et correctement identifiés. S’ils présentent un risque sur le plan de la police des épizooties ou de l’hygiène des denrées alimentaires, ils sont en plus placés dans un local séparé fermant à clé ou dans des zones séparées de tous les autres produits entreposés dans les zones ou les locaux commerciaux d’entreposage.
+- 3\.7 Les grenouilles vivantes, les poissons vivants et les invertébrés vivants destinés à la consommation humaine, les œufs à couver et les appâts de pêche peuvent être inspectés dans les locaux ou les zones affectés au contrôle des produits animaux.

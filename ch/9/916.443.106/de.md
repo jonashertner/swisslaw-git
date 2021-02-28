@@ -4,11 +4,11 @@ title: "Verordnung des EDI vom 18. November 2015 über die Ein-, Durch- und Ausf
 short: EDAV-DS-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/845"
 language: de
-version: 2021-02-26
+version: 2021-03-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210226/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210226-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/845/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2015-845-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/845/20210226/de"
 
 (EDAV-DS-EDI)
 
-vom 18. November 2015 (Stand am 26. Februar 2021) (Stand am 26. Februar 2021)
+vom 18. November 2015 (Stand am 1. März 2021) (Stand am 1. März 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -90,10 +90,12 @@ Die tierseuchenpolizeilichen Ein- und Durchfuhrbedingungen für Tierprodukte, di
 
 ### (Art. 15 und 39 Bst. b EDAV-DS)
 
-Die Positionen des Zolltarifs und die zusammengesetzten Produkte, bei denen bei der Ein- und Durchfuhr eine grenztierärztliche Kontrolle der Sendungen vorgeschrieben ist, richten sich nach den Artikeln 4 und 6 sowie den Anhängen I und II der Entscheidung 2007/275/EG[^6-2].
+Die Tiere und Tierprodukte, für die bei der Ein- und Durchfuhr eine grenztierärztliche Kontrolle der Sendungen vorgeschrieben ist, richten sich nach der Durchführungsverordnung (EU) 2019/2007[^6-2], den Artikeln 3 und 4 der delegierten Verordnung (EU) 2019/2122[^6-3] sowie der Entscheidung 2007/275/EG[^6-4].
 
-[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1669](https://fedlex.data.admin.ch/eli/oc/2017/172)).
-[^6-2]: Entscheidung 2007/275/EG der Kommission vom 17. April 2007 mit Verzeichnissen von Tieren und Erzeugnissen, die gemäss den Richtlinien 91/496/EWG und 97/78/EG des Rates an Grenzkontrollstellen zu kontrollieren sind, ABl. L 116 vom 4.5.2007, S. 9; zuletzt geändert durch Durchführungsbeschluss (EU) 2016/1196, ABl. L 197 vom 22.7.2016, S. 10.
+[^6-1]: Fassung gemäss Ziff. I der V des EDI vom 26. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+[^6-2]: Durchführungsverordnung (EU) 2019/2007 der Kommission vom 18. November 2019 zur Festlegung von Durchführungsbestimmungen zur Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates in Bezug auf die Liste der Tiere, der Erzeugnisse tierischen Ursprungs, des Zuchtmaterials, der tierischen Nebenprodukte und der Folgeprodukte sowie des Heus und des Strohs, die an Grenzkontrollstellen amtlich zu kontrollieren sind, und zur Änderung der Entscheidung 2007/275/EG, Fassung gemäss ABl. L 312 vom 3.12.2019, S. 1.
+[^6-3]: Delegierte Verordnung (EU) 2019/2122 der Kommission vom 10. Oktober 2019 zur Ergänzung der Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates hinsichtlich bestimmter Kategorien von Tieren und Waren, die von amtlichen Kontrollen an Grenzkontrollstellen ausgenommen sind, hinsichtlich besonderer Kontrollen des persönlichen Gepäcks von Fahrgästen bzw. Passagieren und von für natürliche Personen bestimmten Kleinsendungen von Waren, die nicht in Verkehr gebracht werden sollen, sowie zur Änderung der Verordnung (EU) Nr. 142/2011 der Kommission, Fassung gemäss ABl. L 321 vom 12.12.2019, S. 9.
+[^6-4]: Entscheidung 2007/275/EG der Kommission vom 17. April 2007 mit einer Liste von zusammengesetzten Erzeugnissen, die an Grenzkontrollstellen zu kontrollieren sind, ABl. L 116 vom 4.5.2007, S. 9; zuletzt geändert durch Durchführungsverordnung (EU) 2019/2007, ABl. L 312 vom 3.12.2019, S. 1.
 
 #### Art. 7
 
@@ -364,37 +366,70 @@ III. Folgende Tierprodukte dürfen nur in den nachstehend aufgeführten Mengen e
 <tr><td>4. Lebensmittel, die in Ziffer I Buchstabe b aufgeführt sind, sowie tierische Nebenprodukte, die zur Verfütterung an Heimtiere bestimmt sind.</td><td>Färöer, Grönland</td><td>höchstens 10 kg pro Person</td></tr>
 </table>
 
-Anhang 5
+Anhang 5*[^t-5]*
 
 (Art. 7)
 
 ## Massgebende Erlasse der EU über die Kennzeichnung der äussersten Verpackung von Tierprodukten
 
+[^t-5]: Fassung gemäss Ziff. II der V des EDI vom 26. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+
 <table>
 <tr><th>EU-Erlass</th><th>Massgebende Bestimmungen</th></tr>
-<tr><th>Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs; ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) Nr. 1137/2014, ABl. L 307 vom 28.10.2014, S. 28.</th><th>Anhang II</th></tr>
+<tr><th>Verordnung (EG) Nr. 853/2004 des Europäischen Parlaments und des Rates vom 29. April 2004 mit spezifischen Hygienevorschriften für Lebensmittel tierischen Ursprungs, ABl. L 139 vom 30.4.2004, S. 55; zuletzt geändert durch Verordnung (EU) 2019/1243, ABl. L 198 vom 25.7.2019, S. 241.</th><th>Anhang II</th></tr>
 </table>
 
-Anhang 6
+Anhang 6*[^t-6]*
 
 (Art. 8)
 
-## Formale Anforderungen an die Gesundheitsbescheinigungen
+## Formale Anforderungen an Gesundheitsbescheinigungen
 
-- 1 Die Vertreterin oder der Vertreter der zuständigen Behörde des Versandstaats oder des Unternehmens, die oder der eine Gesundheitsbescheinigung ausstellt, muss die Gesundheitsbescheinigung unterzeichnen und mit einem amtlichen Stempel versehen. Dies gilt bei mehrseitigen Gesundheitsbescheinigungen für jede Seite. Die Unterschrift und der Stempel müssen eine andere Farbe als die übrigen Angaben haben. Der Name und die Amtsbezeichnung der unterzeichnenden Person sind in einem gut leserlichen Aufdruck in Druckbuchstaben beizufügen.
-- 2 Die Gesundheitsbescheinigungen müssen inhaltlich und äusserlich dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde. Sie müssen vollständig ausgefüllt und dürfen nur für einen einzigen Bestimmungsbetrieb ausgestellt sein.
+[^t-6]: Fassung gemäss Ziff. II der V des EDI vom 26. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
+
+### 1 Formale Anforderungen an Gesundheitsbescheinigungen in Papierform
+
+- 1 Die Gesundheitsbescheinigungen müssen mit der Unterschrift der unterzeichnungsberechtigten Person und mit einem amtlichen Stempel versehen sein. Die Unterschrift muss sich farblich von der Druckfarbe der Bescheinigung absetzen. Diese Anforderung gilt auch für Stempel, bei denen es sich nicht um Prägestempel oder Wasserzeichen handelt. Der Name und die Amtsbezeichnung der unterzeichnenden Person sind in einem gut leserlichen Aufdruck in Druckbuchstaben beizufügen.
+- 2 Die Gesundheitsbescheinigungen müssen dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde. Sie müssen vollständig ausgefüllt und dürfen nur für einen einzigen Bestimmungsbetrieb ausgestellt sein. Nicht zutreffende Passagen müssen von der unterzeichnungsberechtigten Person durchgestrichen und mit ihren Initialen und einem Stempel versehen oder vollständig aus der Bescheinigung entfernt werden.
 - 3 Die Gesundheitsbescheinigungen müssen in deutscher, französischer, italienischer oder englischer Sprache und bei Durchfuhrsendungen nach den EU-Mitgliedstaaten, Island und Norwegen zusätzlich in einer Amtssprache des Bestimmungsstaates ausgestellt sein, oder es muss ihnen eine beglaubigte Übersetzung in die betreffende Sprache beiliegen.
 - 4
 
   Die Gesundheitsbescheinigungen müssen bestehen aus:
 
   - a. einem einzigen Blatt Papier;
-  - b. zwei oder mehr Seiten, die Teil eines zusammenhängenden, nicht zu trennenden Blattes Papier sind; oder
-  - c. einer Reihe nummerierter Seiten, auf denen jeweils angegeben ist, dass es sich um eine bestimmte Seite einer endlichen Reihe handelt (z. B. «Seite 2 von 4 Seiten»).
+  - b. mehreren fest miteinander verbundenen Seiten, die eine Einheit bilden; oder
+  - c. mehreren aufeinanderfolgenden Seiten, deren Nummerierung kenntlich macht, dass es sich jeweils um eine bestimmte Seite einer endlichen Reihe handelt (z. B. «Seite 2 von 4 Seiten»).
 
-- 5 Die Gesundheitsbescheinigungen müssen eine individuelle Identifizierungsnummer tragen. Besteht eine Gesundheitsbescheinigung aus einer Reihe von Seiten, so ist die Identifizierungsnummer auf jeder Seite anzugeben.
-- 6 Allfällige Änderungen sind durch Streichungen und mit Unterschrift und Stempel der ausstellenden Person zu kennzeichnen.
-- 7 Die Gesundheitsbescheinigungen müssen ausgestellt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörde des Versandstaats verlässt.
+- 5 Die Gesundheitsbescheinigungen müssen eine individuelle Identifizierungsnummer tragen. Besteht eine Gesundheitsbescheinigung aus mehreren aufeinanderfolgenden Seiten, so ist jede Seite mit der Identifizierungsnummer sowie mit der Unterschrift der unterzeichnungsberechtigten Person und dem amtlichen Stempel zu versehen.
+- 6 Allfällige Änderungen sind durch Streichungen und mit Unterschrift der unterzeichnungsberechtigten Person und amtlichem Stempel zu kennzeichnen.
+- 7 Die Gesundheitsbescheinigungen müssen ausgestellt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörde verlässt.
+
+### 2 Formale Anforderungen an Gesundheitsbescheinigungen in elektronischer Form, die via TRACES übermittelt werden
+
+- 1 Die Gesundheitsbescheinigungen müssen dem Muster entsprechen, das für das betreffende Tier oder Tierprodukt und den betreffenden Staat festgelegt wurde.
+- 2 Die Gesundheitsbescheinigungen müssen über TRACES übermittelt werden, bevor die Sendung, zu der sie gehören, die Kontrolle der zuständigen Behörden verlässt.
+
+### 3 Ersatzbescheinigungen
+
+- 1
+
+  Die zuständige Behörde darf eine Ersatzbescheinigung ausstellen, wenn die Originalbescheinigung:
+
+  - a. Schreibversehen aufweist;
+  - b. beschädigt ist; oder
+  - c. verloren gegangen ist.
+
+- 2 In der Ersatzbescheinigung dürfen keine Änderungen an den in der Originalbescheinigung enthaltenen Angaben zur Identifizierung, zur Rückverfolgbarkeit und zu den Gesundheitsgarantien der Sendung vorgenommen werden.
+- 3
+
+  Die Ersatzbescheinigung muss:
+
+  - a. klar erkennbar auf die Identifizierungsnummer und das Datum der Ausstellung des Originals verweisen und deutlich darauf hinweisen, dass sie die Originalbescheinigung ersetzt;
+  - b. mit einer neuen Identifizierungsnummer versehen sein, die sich von der des Originals unterscheidet;
+  - c. mit dem Datum ihrer Ausstellung versehen sein; und
+  - d. der zuständigen Behörde entweder im Original in Papierform vorgelegt oder elektronisch über TRACES übermittelt werden.
+
+- [tab]
 
 Anhang 7
 
@@ -420,59 +455,103 @@ Anhang 7
   - e. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES; und
   - f. Reinigungs- und Desinfektionsmittel, -geräte und -vorrichtungen.
 
-Anhang 8
+Anhang 8*[^t-7]*
 
 (Art. 10)
 
 ## Anforderungen an die Räume, Einrichtungen und Anlagen von zugelassenen Grenzkontrollstellen
 
-### 1 Für Tiere zugelassene Grenzkontrollstellen
+[^t-7]: Fassung gemäss Ziff. II der V des EDI vom 26. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 64](https://fedlex.data.admin.ch/eli/oc/2021/64)).
 
--
+### 1 Allgemeine Anforderungen an die Räume, Einrichtungen und Anlagen von zugelassenen Grenzkontrollstellen
 
-  Die Grenzkontrollstellen müssen verfügen über:
+- 1\.1
 
-  - a. eine eigens dem Transport lebender Tiere vorbehaltene Zufahrt;
-  - b. leicht zu reinigende und zu desinfizierende Anlagen, die das Ent- und Beladen der verschiedenen Transportmittel sowie die Kontrolle, die Versorgung und die Pflege der Tiere ermöglichen und deren Fläche, Beleuchtung, Be- und Entlüftung und Versorgungsbereich der Zahl der zu kontrollierenden Tiere gerecht wird;
-  - c. ausreichend grosse Räume für die Unterbringung, Kontrolle und Beschlagnahme von Tieren sowie Umkleideräume, Duschen und Toiletten für das Personal, das mit der Durchführung der Kontrollen beauftragt ist;
-  - d. einen angemessenen Raum und angemessene Einrichtungen für die Entnahme und die Bearbeitung der Proben für die Routinekontrollen;
-  - e. die Dienste eines Labors, das in der Lage ist, spezielle Analysen der an dieser Grenzkontrollstelle entnommenen Proben durchzuführen;
-  - f. die Dienste eines in unmittelbarer Nähe gelegenen Betriebs, der mit Anlagen und Vorrichtungen für die Unterbringung, die Fütterung, das Tränken, die Pflege und gegebenenfalls die Schlachtung der Tiere ausgestattet ist;
-  - g. angemessene Anlagen für den Fall, dass die Grenzkontrollstellen als Warte- oder Umladestationen für Tiere genutzt werden, sodass diese abgeladen, getränkt, gefüttert, gegebenenfalls ordnungsgemäss untergebracht und gepflegt oder erforderlichenfalls an Ort und Stelle auf eine Weise getötet werden können, die ihnen unnötiges Leiden erspart;
-  - h. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES; und
-  - i. Reinigungs- und Desinfektionsmittel, -geräte und -vorrichtungen.
+  Zugelassene Grenzkontrollstellen müssen verfügen über:
 
-### 2 Für Tierprodukte zugelassene Grenzkontrollstellen
+  - a. Räume, einschliesslich Büros, Sozial- und Archivräume, Bereiche, Einrichtungen und Anlagen, die für Art und Menge der abzufertigenden Sendungen geeignet sind;
+  - b. Räume, Bereiche, Einrichtungen und Anlagen, die es erlauben, amtliche Kontrollen bei den Tieren und Tierprodukten durchzuführen, für die die Grenzkontrollstelle zugelassen ist;
+  - c. überdachte Räume oder Bereiche zum Entladen der Tiere oder Tierprodukte;
+  - d. Kontrollräume oder Kontrollbereiche;
+  - e. Unterbringungsräume oder Unterbringungsbereiche für Tiere oder Lagerräume oder Lagerbereiche für Tierprodukte, einschliesslich Kühlräumen, wenn diese für die Tierproduktekategorien nötig sind, für die die Grenzkontrollstelle zugelassen ist;
+  - f. Zugang zu Toiletten mit Einrichtungen zum Händewaschen und Händetrocknen, die nur von an amtlichen Kontrollen beteiligten Personen benutzt werden dürfen;
+  - g. Ausrüstung zum Entladen, Öffnen und Untersuchen von Sendungen;
+  - h. Ausrüstung zum Reinigen und Desinfizieren sowie Anweisungen zu deren Verwendung oder ein dokumentiertes Reinigungs- und Desinfektionskonzept, wenn das Reinigen und Desinfizieren von einem von der Grenzkontrollstelle unabhängigen Unternehmen übernommen wird;
+  - i. geeignete Einrichtungen für die vorübergehende Lagerung von Proben unter kontrollierten Temperaturbedingungen vor ihrem Versand an das Labor sowie geeignete Transportbehälter für diese Proben;
+  - j. Ausrüstung für einen raschen Informationsaustausch über TRACES;
+  - k. die Dienste von Labors, welche in der Lage sind, die Untersuchung der entnommenen Proben durchzuführen;
+  - l. Konzepte, die gewährleisten, dass bei Bedarf weitere Räume, Bereiche, Einrichtungen, Anlagen und Dienstleistungen zur Verfügung stehen, um bei Verdacht auf nicht vorschriftsmässige Sendungen oder auf Sendungen, die ein Risiko darstellen, Massnahmen ergreifen zu können;
+  - m. Konzepte, um Sendungen vorschriftsmässig abfertigen und allfällige Risiken durch Kreuzkontamination vermeiden zu können;
+  - n. Konzepte, um die Einschleppung von Krankheiten in die Schweiz zu verhindern.
 
-- 2\.1 Die Grenzkontrollstellen müssen so gebaut sein, dass ein angemessenes Hygieneniveau gewährleistet ist und Kreuzkontaminationen vermieden werden.
-- 2\.2
+- 1\.2
 
-  Die Räume der Grenzkontrollstelle, in denen Tierprodukte entladen, untersucht oder gelagert werden, müssen genügend gross sein und Folgendes aufweisen:
+  Die Kontrollräume müssen mit Folgendem ausgestattet sein:
 
-  - a. glatte, abwaschbare Wände, die zusammen mit den Böden leicht zu reinigen und zu desinfizieren sind, sowie ein angemessenes Abflusssystem;
-  - b. leicht zu reinigende Decken;
-  - c. angemessene natürliche oder künstliche Beleuchtung; und
-  - d. angemessene Heiss- und Kaltwasserzufuhr in allen Untersuchungsräumen.
+  - a. Wänden, Böden und Decken, die leicht zu reinigen und zu desinfizieren sind;
+  - b. einer angemessenen Heiss- und Kaltwasserzufuhr sowie Einrichtungen zum Händewaschen und Händetrocknen;
+  - c. einem angemessenen Abflusssystem;
+  - d. angemessenem natürlichen oder künstlichen Licht.
 
-- 2\.3 Grenzkontrollstellen bei der gleichen Zollstelle müssen in angemessener Arbeitsentfernung zueinander stehen.
-- 2\.4 Grenzkontrollstellen, die zur Abfertigung gekühlter, gefrorener oder bei Umgebungstemperatur haltbarer Produkte zugelassen sind, müssen in der Lage sein, Produkte in jeder Temperaturkategorie zur gleichen Zeit und in angemessenen Mengen zu lagern. Der Grenztierärztin oder dem Grenztierarzt muss jederzeit so viel Lagerraum wie nötig zur Verfügung stehen.
-- 2\.5 Für zur menschlichen Ernährung bestimmte Produkte, für die bestimmte Temperaturauflagen gelten, muss der Übergang vom Transport- zum Entladebereich nach draussen abgeschirmt oder abgedichtet sein.
-- 2\.6
+- 1\.3
 
-  Die Grenzkontrollstellen müssen verfügen über:
+  Die Kontrollbereiche müssen leicht zu reinigen sein und mit Folgendem ausgestattet sein:
 
-  - a. ein Büro mit allen erforderlichen Kommunikationsmitteln, einschliesslich Telefon, Telefax, TRACES-Terminal und Fotokopiergerät, allen für die Durchführung der Kontrollen erforderlichen Dokumenten und Nachschlagewerken und einem Archivraum mit genügend Kapazität zur Aufbewahrung der Kontrollunterlagen;
-  - b. Sozialräume, einschliesslich Umkleideräume, Toiletten und Handwaschbecken für das Personal, die zusätzlich nur von anderen an amtlichen Kontrollen beteiligten Personen benutzt werden dürfen;
-  - c. einen geschlossenen oder überdachten Bereich zum Entladen von Transportmitteln;
-  - d. einen Kontrollraum, in dem Produkte kontrolliert und Proben für weitere Untersuchungen entnommen werden können; der Probenahmebereich kann sich innerhalb des Kontrollraums befinden;
-  - e. geeignete Lagerräume oder -bereiche, in denen beschlagnahmte Sendungen unter amtstierärztlicher Kontrolle gleichzeitig gekühlt, gefroren und bei Umgebungstemperatur gelagert werden können, bis die Ergebnisse etwaiger Laboruntersuchungen oder anderer Untersuchungen vorliegen;
-  - f. angemessene Räume und Einrichtungen für die Entnahme und die Bearbeitung der Proben für die Routinekontrollen;
-  - g. die Dienste eines Labors, das in der Lage ist, die Untersuchung der an dieser Grenzkontrollstelle entnommenen Proben durchzuführen;
-  - h. Räume und Kühleinrichtungen zur Lagerung der entnommenen Proben von Sendungen sowie der Tierprodukte, die von der verantwortlichen Grenztierärztin oder vom verantwortlichen Grenztierarzt nicht freigegeben worden sind;
-  - i. Kühlräume und Einrichtungen, die getrennt sind für Lebensmittel und andere Tierprodukte und für die verschiedenen Temperaturkategorien;
-  - j. eine angemessene Ausrüstung für einen raschen Informationsaustausch über TRACES;
-  - k. die Dienste eines Betriebs, der in der Lage ist, die in der Verordnung vom 25. Mai 2011[^annex8-lvlu1-lvl2-1] über die Entsorgung von tierischen Nebenprodukten vorgesehenen Behandlungen durchzuführen;
-  - l. an geeigneten Orten aufbewahrte Reinigungs- und Desinfektionsmittel, -geräte und ‑vorrichtungen oder Vergabe der Reinigungs- und Desinfektionsarbeiten an eine unabhängige Reinigungsfirma, wobei die Wirksamkeit der Arbeiten nachweislich dokumentiert sein muss; und
-  - m. Vorrichtungen, in denen Proben unter kontrollierten Temperaturbedingungen vor ihrer Weitersendung zum Labor vorübergehend gelagert werden können, sowie geeignete Transportbehälter für diese Proben.
+  - a. einer angemessenen Heiss- und Kaltwasserzufuhr sowie Einrichtungen zum Händewaschen und Händetrocknen;
+  - b. einem angemessenen Abflusssystem;
+  - c. angemessenem natürlichen oder künstlichen Licht.
 
-[^annex8-lvlu1-lvl2-1]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+- 1\.4
+
+  Die Kontrollräume oder Kontrollbereiche müssen je nach den Tier- oder Tierproduktekategorien, für die die Grenzkontrollstelle zugelassen ist, zudem mit Folgendem ausgestattet sein:
+
+  - a. einem Tisch mit glatter, abwaschbarer, leicht zu reinigender und zu desinfizierender Oberfläche;
+  - b. einer Probenahmeausrüstung;
+  - c. Klebeband und nummerierten Plomben oder deutlich gekennzeichneten Aufklebern, die die Rückverfolgbarkeit gewährleisten;
+  - d. Ausrüstung zum Wägen von Sendungen.
+
+- 1\.5 Wo erforderlich, müssen detaillierte Anweisungen für die Probenahme zu Untersuchungszwecken und für den Transport dieser Proben zum Labor zur Verfügung stehen.
+- 1\.6 Grenzkontrollstellen bei der gleichen Zollstelle müssen in angemessener Arbeitsentfernung zueinander stehen.
+
+### 2 Spezifische Anforderungen an für Tiere zugelassene Grenzkontrollstellen
+
+- 2\.1
+
+  Für Tiere zugelassene Grenzkontrollstellen müssen zusätzlich zu den in Ziffer 1 genannten Anforderungen verfügen über:
+
+  - a. eine eigene Zufahrtsspur oder andere Konzepte, um den Tieren unnötiges Warten zu ersparen, bevor sie den Entladebereich erreichen;
+  - b. Ausrüstung zum Füttern und Tränken;
+  - c. Kontrollräume oder Kontrollbereiche mit Halteausrüstung und der für klinische Untersuchungen notwendigen Ausrüstung;
+  - d. Einrichtungen, welche so ausgelegt, gebaut, instandgehalten und betrieben werden, dass Verletzungen und unnötiges Leiden der Tiere vermieden werden können und ihre Sicherheit gewährleistet ist;
+  - e. Umkleideräume mit Duschen, die nur von an amtlichen Kontrollen beteiligten Personen benutzt werden dürfen.
+
+- 2\.2 Die Entladeräume und Entladebereiche müssen ausreichend gross, hell und belüftet sein.
+
+### 3 Spezifische Anforderungen an für Tierprodukte zugelassene Grenzkontrollstellen
+
+- 3\.1
+
+  Für Tierprodukte zugelassene Grenzkontrollstellen müssen zusätzlich zu den in Ziffer 1 genannten Anforderungen verfügen über:
+
+  - a. Räume oder Bereiche, um Tierprodukte bei der für die jeweilige Kategorie geeigneten Temperatur zu lagern, bis die Ergebnisse der Laboruntersuchungen vorliegen beziehungsweise bis die Kontrollen abgeschlossen sind;
+  - b. Umkleideräume, die nur von an amtlichen Kontrollen beteiligten Personen benutzt werden dürfen.
+
+- 3\.2
+
+  Kontrollräume oder Kontrollbereiche müssen je nach den Tierproduktekategorien, für die die Grenzkontrollstelle zugelassen ist, mit Folgendem ausgestattet sein:
+
+  - a einem Thermometer zum Messen von Oberflächen- und Kerntemperatur der Tierprodukte;
+  - b. einer Ausrüstung zum Auftauen.
+
+- 3\.3 Kontrollräume, Kontrollbereiche, Lagerräume und Lagerbereiche dürfen, wenn sie für Lebensmittel tierischer Herkunft genutzt werden, nicht auch für andere Tierprodukte genutzt werden.
+- 3\.4
+
+  Abweichend von Ziffer 3.3 darf der grenztierärztliche Dienst die dort genannten Räume und Bereiche gemeinsam für Lebensmittel tierischer Herkunft und andere Tierprodukte nutzen, wenn folgende Bedingungen erfüllt sind:
+
+  - a. Das BLV führt eine Risikobewertung durch, die aufzeigt, wie eine Kreuzkontamination vermieden werden kann.
+  - b. Der grenztierärztliche Dienst ergreift die dazu nötigen Massnahmen.
+  - c. Sendungen mit unverpackten Tierprodukten werden zeitlich getrennt von anderen verpackten und unverpackten Sendungen abgefertigt. Zwischen den jeweiligen Abfertigungen werden die Räume und Bereiche soweit erforderlich gereinigt und desinfiziert.
+
+- 3\.5 Der grenztierärztliche Dienst kann Dritten unter seiner Aufsicht gestatten, gewerbliche Lagerräume oder Lagerbereiche zu nutzen, sofern sich diese nahe der Grenzkontrollstelle und im Zuständigkeitsbereich derselben Zollbehörde befinden.
+- 3\.6 Tierprodukte, die in gewerblichen Lagerräumen oder Lagerbereichen gelagert werden, müssen dort unter hygienischen Bedingungen gelagert und ordnungsgemäss gekennzeichnet werden. Besteht ein tierseuchenpolizeiliches oder lebensmittelhygienisches Risiko, so müssen sie zusätzlich in einem getrennten, abschliessbaren Raum oder in Bereichen aufbewahrt werden, die von allen übrigen in den gewerblichen Lagerräumen und Lagerbereichen gelagerten Produkten abgegrenzt sind.
+- 3\.7 Lebende Frösche, lebende Fische und lebende Wirbellose, die für den menschlichen Verzehr bestimmt sind, sowie Bruteier und Fischköder dürfen in Räumen und Bereichen untersucht werden, die für die Kontrolle von Tierprodukten bestimmt sind.
