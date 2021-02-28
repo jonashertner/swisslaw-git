@@ -4,13 +4,13 @@ number: "862.51"
 title: Verordnung über die Betreuung und Pflege von Personen in Heimen und privaten Haushalten
 short: Heimverordnung; HEV
 language: de
-version: 2019-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 1996-09-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/862.51"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1542/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2131/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1542/pdf_file"
 
 (Heimverordnung; HEV)
 
-vom 18.09.1996 (Stand 01.01.2019)
+vom 18.09.1996 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -68,7 +68,7 @@ beschliesst:
 
 - a die der Spitalversorgungsgesetzgebung unterstehenden Einrichtungen,
 - b die kantonalen Heime,
-- c Heime, die der Aufsicht der Justiz-, Gemeinde- und Kirchendirektion oder der Polizei- und Militärdirektion unterstehen,
+- c Heime, die der Aufsicht der Direktion für Inneres und Justiz oder der Sicherheitsdirektion unterstehen,
 - d Pflegekinderverhältnisse,
 - e …
 - f die Betreuung und Pflege durch Familienangehörige sowie Personen in eingetragener Partnerschaft oder familienähnlicher Gemeinschaft.
@@ -87,20 +87,21 @@ beschliesst:
 
 **Bewilligungsbehörden**
 
-<sup>1</sup> Bewilligungsbehörde für die Heime im Alters- und Behindertenbereich und für Kinder- und Jugendheime ist das Alters- und Behindertenamt, für die Heime und privaten Haushalte im Suchtbereich das Spitalamt der Gesundheits- und Fürsorgedirektion.
+<sup>1</sup> Bewilligungsbehörde für die Heime im Alters- und Behindertenbereich und für Kinder- und Jugendheime ist das Alters- und Behindertenamt, für die Heime und privaten Haushalte im Suchtbereich das Spitalamt der Gesundheits-, Sozial- und Integrationsdirektion.
 
-<sup>2</sup> Ist bezüglich des fraglichen Betriebs gleichzeitig ein Baubewilligungsverfahren hängig, nimmt die Bewilligungsbehörde in einem Amtsbericht gegenüber der Leitbehörde im Sinne des Koordinationsgesetzes Stellung zu den baulichen Voraussetzungen für den geplanten Heimbetrieb.
+<sup>2</sup> Ist bezüglich des fraglichen Betriebs gleichzeitig ein Baubewilligungsverfahren hängig, nimmt die Bewilligungsbehörde in einem Amtsbericht gegenüber der Leitbehörde im Sinne des Koordinationsgesetzes vom 21. März 1994 (KoG)[^6-1] Stellung zu den baulichen Voraussetzungen für den geplanten Heimbetrieb.
 
 <sup>3</sup> Die Prüfung der übrigen Erfordernisse für die Erteilung einer Betriebsbewilligung erfolgt im ordentlichen Verfahren durch die Bewilligungsbehörde.
 
 <sup>4</sup> Die Bewilligungsbehörde kann Dritte mit der Abklärung der Bewilligungsvoraussetzungen beauftragen.
 
-<sup>5</sup> Die Bewilligungsbehörde sorgt gegebenenfalls für eine Koordination des Bewilligungsverfahrens mit dem Verfahren zur Zulassung als Leistungserbringer gemäss dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG[^6-1]) und mit dem Abschluss von Leistungsverträgen.[^6-2]
+<sup>5</sup> Sie sorgt gegebenenfalls für eine Koordination des Bewilligungsverfahrens mit dem Verfahren zur Zulassung als Leistungserbringer gemäss dem Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)[^6-2] und mit dem Abschluss von Leistungsverträgen.[^6-3]
 
 <sup>6</sup> Im Alters- und Behindertenbereich erteilt die zuständige Gemeindebehörde die Bewilligung für die Betreuung und Pflege in privaten Haushalten auf ihrem Gebiet.
 
-[^6-1]: BSG 832.1
-[^6-2]: Absätze 5 und 6 entsprechen den bisherigen Absätzen 4 und 5
+[^6-1]: BSG [724.1](https://www.belex.sites.be.ch/data/724.1/de)
+[^6-2]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+[^6-3]: Absätze 5 und 6 entsprechen den bisherigen Absätzen 4 und 5
 
 ### 2.2 Bewilligungsvoraussetzungen
 
@@ -209,7 +210,7 @@ beschliesst:
 
 **8. Mitberichte**
 
-<sup>1</sup> Die Bewilligungsbehörde holt eine Stellungnahme der Standortgemeinde, der Fachämter der Gesundheits- und Fürsorgedirektion sowie Mitberichte der Gebäudeversicherung und bei Bauvorhaben der Bau-, Verkehrs- und Energiedirektion ein.
+<sup>1</sup> Die Bewilligungsbehörde holt eine Stellungnahme der Standortgemeinde, der Fachämter der Gesundheits-, Sozial- und Integrationsdirektion sowie Mitberichte der Gebäudeversicherung und bei Bauvorhaben der Bau- und Verkehrsdirektion ein.
 
 <sup>2</sup> Bei Heimen für Kinder und Jugendliche hat die Behörde zusätzlich das Kantonale Jugendamt zu konsultieren.
 
@@ -240,7 +241,7 @@ beschliesst:
 
 **3. Mitbericht**
 
-<sup>1</sup> Falls zweifelhaft ist, ob die Voraussetzungen für die Bewilligungserteilung vorliegen, holt die zuständige Behörde eine Stellungnahme der zuständigen Stelle der Gesundheits- und Fürsorgedirektion ein.
+<sup>1</sup> Falls zweifelhaft ist, ob die Voraussetzungen für die Bewilligungserteilung vorliegen, holt die zuständige Behörde eine Stellungnahme der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion ein.
 
 ### 2.3 Bewilligungserteilung
 
@@ -443,9 +444,9 @@ beschliesst:
 
 **Mitteilungen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion teilt der Standortgemeinde Erteilung, Änderung, Erlöschen, Widerruf und Entzug von Betriebsbewilligungen sowie weitere wesentliche Verfügungen mit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion teilt der Standortgemeinde Erteilung, Änderung, Erlöschen, Widerruf und Entzug von Betriebsbewilligungen sowie weitere wesentliche Verfügungen mit.
 
-<sup>2</sup> Die zuständige Gemeindebehörde erstattet die gleichen Mitteilungen der Gesundheits- und Fürsorgedirektion betreffend die Bewilligungen gemäss Artikel 15.
+<sup>2</sup> Die zuständige Gemeindebehörde erstattet die gleichen Mitteilungen der Gesundheits-, Sozial- und Integrationsdirektion betreffend die Bewilligungen gemäss Artikel 15.
 
 ## 4 Rechtspflege
 

@@ -4,13 +4,13 @@ number: "862.51"
 title: Ordonnance sur les foyers et les ménages privés prenant en charge des personnes tributaires de soins
 short: "Ordonnance sur les foyers, OFoy"
 language: fr
-version: 2019-01-01
-valid_until: 2021-02-28
-version_adopted: 2018-10-24
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 1996-09-18
 in_force: 1997-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/862.51"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1542/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2131/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1542/pdf_file"
 
 (Ordonnance sur les foyers, OFoy)
 
-du 18.09.1996 (état au 01.01.2019)
+du 18.09.1996 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -68,7 +68,7 @@ arrête:
 
 - a aux institutions soumises à la législation sur les soins hospitaliers,
 - b aux foyers cantonaux,
-- c aux foyers soumis à la surveillance de la Direction de la justice, des affaires communales et des affaires ecclésiastiques ou de la Direction de la police et des affaires militaires,
+- c aux foyers soumis à la surveillance de la Direction de l’intérieur et de la justice ou de la Direction de la sécurité,
 - d au placement d'enfants,
 - e …
 - f aux personnes prises en charge et soignées par des membres de leur famille ou par des personnes qui leur sont liées par un partenariat enregistré ou qui vivent avec elles dans une communauté de type familial.
@@ -87,21 +87,22 @@ arrête:
 
 **Autorités délivrant les autorisations**
 
-<sup>1</sup> Les autorisations d'exploiter sont délivrées par l'Office des personnes âgées et handicapées de la Direction de la santé publique et de la prévoyance sociale pour les institutions accueillant des personnes âgées et handicapées ainsi que pour les foyers pour enfants et adolescents et par l'Office des hôpitaux pour les institutions ainsi que les ménages privés hébergeant des toxicomanes.
+<sup>1</sup> Les autorisations d'exploiter sont délivrées par l'Office des personnes âgées et des personnes handicapées de la Direction de la santé, des affaires sociales et de l’intégration pour les institutions accueillant des personnes âgées et handicapées ainsi que pour les foyers pour enfants et adolescents et par l'Office des hôpitaux pour les institutions ainsi que les ménages privés hébergeant des toxicomanes.
 
-<sup>2</sup> Lorsque le foyer demande simultanément une autorisation d'exploiter et un permis de construire, l'autorité délivrant les autorisations donne son avis concernant les conditions requises pour la construction du foyer dans le rapport qu'il élabore à l'intention de l'autorité directrice au sens de la loi de coordination.
+<sup>2</sup> Lorsque le foyer demande simultanément une autorisation d'exploiter et un permis de construire, l'autorité délivrant les autorisations donne son avis concernant les conditions requises pour la construction du foyer dans le rapport qu'il élabore à l'intention de l'autorité directrice au sens de la loi de coordination du 21 mars 1994 (LCoord)[^6-1].
 
 <sup>3</sup> L'autorité délivrant les autorisations examine les autres conditions requises pour l'obtention d'une autorisation d'exercer selon la procédure ordinaire.
 
 <sup>4</sup> Elle peut mandater des tiers pour procéder à cet examen.
 
-<sup>5</sup> Elle coordonne le cas échéant la procédure d'autorisation avec la procédure d'admission pour les fournisseurs de prestations au sens de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)[^6-1] et avec la conclusion de contrats de prestations.[^6-2]
+<sup>5</sup> Elle coordonne le cas échéant la procédure d'autorisation avec la procédure d'admission pour les fournisseurs de prestations au sens de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)[^6-2] et avec la conclusion de contrats de prestations.[^6-3]
 
-<sup>6</sup> L'autorité communale compétente délivre les autorisations relatives à la prise en charge et aux soins pour les ménages privés accueillant des personnes âgées et handicapées situés sur le territoire de la commune.[^6-3]
+<sup>6</sup> L'autorité communale compétente délivre les autorisations relatives à la prise en charge et aux soins pour les ménages privés accueillant des personnes âgées et handicapées situés sur le territoire de la commune.[^6-4]
 
-[^6-1]: RS 832.1
-[^6-2]: Ancien alinéa 4
-[^6-3]: Ancien alinéa 5
+[^6-1]: RSB [724.1](https://www.belex.sites.be.ch/data/724.1/fr)
+[^6-2]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
+[^6-3]: Ancien alinéa 4
+[^6-4]: Ancien alinéa 5
 
 ### 2.2 Conditions d'octroi
 
@@ -210,7 +211,7 @@ arrête:
 
 **8. Corapports**
 
-<sup>1</sup> L'autorité délivrant les autorisations demande à la commune-siège et aux offices spécialisés de la Direction de la santé publique et de la prévoyance sociale de lui envoyer leur avis; elle réclame en outre un corapport à l'Assurance immobilière et à la Direction des travaux publics, des transports et de l'énergie lorsqu'il y a projet de construction.
+<sup>1</sup> L'autorité délivrant les autorisations demande à la commune-siège et aux offices spécialisés de la Direction de la santé, des affaires sociales et de l’intégration de lui envoyer leur avis; elle réclame en outre un corapport à l'Assurance immobilière et à la Direction des travaux publics et des transports lorsqu'il y a projet de construction.
 
 <sup>2</sup> Pour les foyers pour enfants et adolescents, l'autorité doit également consulter l'Office des mineurs.
 
@@ -241,7 +242,7 @@ arrête:
 
 **3. Corapport**
 
-<sup>1</sup> Lorsque l'autorité compétente doute que les conditions d'octroi d'une autorisation soient remplies, elle demande au service compétent de la Direction de la santé publique et de la prévoyance sociale de lui donner son avis.
+<sup>1</sup> Lorsque l'autorité compétente doute que les conditions d'octroi d'une autorisation soient remplies, elle demande au service compétent de la Direction de la santé, des affaires sociales et de l’intégration de lui donner son avis.
 
 ### 2.3 Octroi de l'autorisation
 
@@ -392,7 +393,7 @@ arrête:
 
 <sup>1</sup> Les organes responsables veillent à ce que les foyers soient dirigés conformément aux prescriptions légales.
 
-<sup>2</sup> L'autorité communale compétente s'assure, sous la haute surveillance de l'Office des personnes âgées et handicapées, que les conditions de prise en charge et de soins sont conformes aux autorisations qu'elle a délivrées.
+<sup>2</sup> L'autorité communale compétente s'assure, sous la haute surveillance de l'Office des personnes âgées et des personnes handicapées, que les conditions de prise en charge et de soins sont conformes aux autorisations qu'elle a délivrées.
 
 <sup>3</sup> L'autorité cantonale délivrant les autorisations exerce la surveillance sur l'exploitation des foyers ainsi que sur les conditions de prise en charge et de soins dans les ménages privés auxquels elle a accordé une autorisation. A cette fin, elle peut faire appel aux autorités communales ainsi qu'à des organes publics et privés de l'aide sociale.
 
@@ -444,9 +445,9 @@ arrête:
 
 **Communications**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale communique à la commune-siège toutes les informations concernant l'attribution, la modification, l'extinction, la révocation ou le retrait des autorisations d'exploiter ainsi que toute autre décision importante.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration communique à la commune-siège toutes les informations concernant l'attribution, la modification, l'extinction, la révocation ou le retrait des autorisations d'exploiter ainsi que toute autre décision importante.
 
-<sup>2</sup> L'autorité communale compétente communique les mêmes informations à la Direction de la santé publique et de la prévoyance sociale en ce qui concerne les autorisations qu'elle délivre en vertu de l'article 15.
+<sup>2</sup> L'autorité communale compétente communique les mêmes informations à la Direction de la santé, des affaires sociales et de l’intégration en ce qui concerne les autorisations qu'elle délivre en vertu de l'article 15.
 
 ## 4 Voies de droit
 
