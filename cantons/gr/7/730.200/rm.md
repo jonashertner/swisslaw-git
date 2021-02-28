@@ -1,306 +1,306 @@
 ---
 canton: GR
 number: "730.200"
-title: Lescha davart la gulivaziun da finanzas intercommunala
-short: LGF
+title: Lescha davart la gulivaziun da finanzas en il chantun Grischun
+short: "lescha davart la gulivaziun da finanzas, LGF"
 language: rm
-version: 2015-01-01
-corrected: 2015-03-24
-version_adopted: 2014-11-18
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-19
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Lescha davart la gulivaziun da finanzas intercommunala
+# Lescha davart la gulivaziun da finanzas en il chantun Grischun
 
-(LGF)
+(lescha davart la gulivaziun da finanzas, LGF)
 
-dals 26-09-1993 (versiun dals 01-01-2015)
+dals 05-12-2013 (versiun dals 01-03-2021)
 
-acceptada dal pievel ils 26 da settember 1993[^ingress-1]
+Il cussegl grond dal chantun Grischun[^ingress-1],
 
-[^ingress-1]: M dals 16 da november 1992, 663; PCG 1992/93, 859
+sa basond sin ils art. 31 al. 1 e 96 da la constituziun chantunala[^ingress-2],
+
+suenter avair gì invista da la missiva da la regenza dals 20 d'avust 2013[^ingress-3],
+
+concluda:
+
+[^ingress-1]: PCG 2013/2014, 340
+[^ingress-2]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
+[^ingress-3]: pagina 211
+
+## 1. Disposiziuns generalas
 
 #### Art. 1
 
-**Intent**
+**Object**
 
-<sup>1</sup> Questa lescha ha l'intent da mitigiar las differenzas tranter las capacitads finanzialas da las vischnancas, e quai cun
+<sup>1</sup> Questa lescha regla la gulivaziun da finanzas per las vischnancas. Questa gulivaziun cumpiglia la gulivaziun da las resursas, la gulivaziun da las grevezzas geografic-topograficas e da scola, la gulivaziun da las grevezzas socialas sco er la gulivaziun individuala d'inegualitads per grevezzas spezialas.
 
-- a) finanziar e pajar tschertas contribuziuns a las vischnancas finanzialmain deblas (gulivaziun da finanzas directa);
-- b) stgaffir las premissas per la graduaziun da prestaziuns tranter il chantun e las vischnancas tenor lur forza finanziala (gulivaziun indirecta da finanzas).
+<sup>2</sup> Ella regla plinavant:
 
-## 1. Gulivaziun da finanzas directa
-
-### 1.1. Procuraziun dals meds finanzials
+- a) las contribuziuns per promover fusiuns da vischnancas;
+- b) l'execuziun e l'analisa da l'efficacitad da la gulivaziun da finanzas.
+- c) …
 
 #### Art. 2
 
-**Finanziaziun speziala "gulivaziun da finanzas"**
+**Finamiras**
 
-<sup>1</sup> Per finanziar la gulivaziun da finanzas directa vegn manada ina finanziaziun speziala tenor las disposiziuns da la legislaziun da finanzas.
+<sup>1</sup> La gulivaziun da finanzas duai:
 
-<sup>2</sup> Pajaments anticipads che vegnan fatgs a la finanziaziun speziala cun meds publics generals èn admissibels mo transitoricamain, maximalmain fin a l'import da l'ultima contribuziun chantunala.
+- a) rinforzar l'independenza finanziala da las vischnancas;
+- b) reducir las differenzas tranter las vischnancas areguard la capacitad finanziala ed areguard la grevezza fiscala;
+- c) garantir a las vischnancas ina dotaziun da basa cun resursas finanzialas;
+- d) levgiar las grevezzas finanzialas sproporziunadas da las vischnancas che resultan da la structura da lur abitadi, da lur topografia e pervia da la quota da lur scolaras e scolars ubain da l'agid social material;
+- e) evitar cas da direzza che resultan pervia da grevezzas extraordinarias da singulas vischnancas.
+
+## 2. Gulivaziun da las resursas
 
 #### Art. 3
 
-**Finanziaziun**
+**Princips**
 
-<sup>1</sup> A la finanziaziun speziala vegnan attribuids ils suandants meds finanzials:
+<sup>1</sup> La gulivaziun da las resursas cumpiglia tut las vischnancas e sa concentrescha sin la reducziun da las differenzas en la dotaziun dals meds finanzials. Ella garantescha a las vischnancas in import da basa or da las resursas finanzialas ch'èn disponiblas libramain.
 
-- a) …
-- b) …
-- c) ina quota da solidaritad da las vischnancas da 6 pertschient dal tschains d'aua che pervegn ad ellas annualmain tenor las disposiziuns legalas respectivamain concessiunarias e che pervegn ad ellas da lur taxas da concessiun annualas per implants da pumpadi;
-- d) …
-- e) …
+<sup>2</sup> La capacitad finanziala da la vischnanca vegn calculada a maun dal potenzial da resursas per persuna decisiva (resursas decisivas) e cumprovada en furma d'in index da resursas.
 
-<sup>2</sup> …
-
-<sup>3</sup> …
+<sup>3</sup> Il dumber da persunas decisivas sa basa sin la populaziun residenta permanenta tenor la statistica federala da la populaziun (STATPOP) sco er sin il total da las pajataglias e dals pajataglias tenor las datas fiscalas da l'administraziun chantunala da taglia. Sch'il total da las pajataglias e dals pajataglias surpassa il dumber d'abitantas e d'abitants da la populaziun residenta permanenta, vegn adida la part che surpassa a 20 pertschient tar las persunas decisivas.
 
 #### Art. 4
 
-**Taglia supplementara**
+**Potenzial da resursas**
 
-<sup>1</sup> Per las vischnancas incassescha il chantun ina taglia supplementara tar la taglia chantunala sin il gudogn e sin il chapital.
+<sup>1</sup> Il potenzial da resursas d'ina vischnanca correspunda a las resursas ch'ella po prelevar or da sias taglias sco er als retgavs da ses tschains d'aua.
 
-<sup>2</sup> Uschenavant che questa lescha na cuntegna naginas regulaziuns divergentas, vegnan applitgadas analogamain las disposiziuns da la lescha chantunala da taglia[^4-1] ch'èn mintgamai en vigur.
+<sup>2</sup> El vegn calculà sin la basa da:
 
-<sup>3</sup> L'execuziun da questa taglia supplementara è chaussa da l'administraziun chantunala da taglia.
+- a) las taglias sin las entradas e sin la facultad inclusiv las taglias sin il gudogn da liquidaziun e las taglias sin las expensas da las persunas natiralas tenor la taglia chantunala simpla a 100 pertschient sco er las taglias a la funtauna tenor il pe da taglia fixà dal Cussegl grond;
+- b) las taglias sin il gudogn e sin il chapital da las persunas giuridicas tenor il pe da taglia fixà dal Cussegl grond;
+- c) …
+- d) las valurs fiscalas da las immobiglias a maximalmain 1,5 promil; sco er
+- e) ils tschains d'aua nets inclusiv las prestaziuns da cumpensaziun per las perditas da l'utilisaziun da la forza idraulica.
 
-[^4-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
+<sup>3</sup> La media dal potenzial da resursas da tut las vischnancas per persuna decisiva correspunda a la valur d'index da 100 puncts. Vischnancas cun ina valur d'index da passa 100 puncts valan sco vischnancas cun bleras resursas. Vischnancas cun ina valur d'index da sut 100 puncts valan sco vischnancas cun paucas resursas.
+
+<sup>4</sup> Sch'ina vischnanca cun paucas resursas obtegna retgavs da concessiun periodics annuals da passa 50 pertschient da ses potenzial da resursas, vegnan quintads vitiers quests retgavs fin ina valur d'index da 100 puncts.
+
+<sup>5</sup> Il potenzial da resursas sco er l'index da resursas vegn calculà annualmain sin basa da la media dals ultims 2 onns disponibels, inclusiv dals supplements dals onns precedents.
 
 #### Art. 5
 
-**Subject da taglia**
+**Finanziaziun**
 
-<sup>1</sup> Obligads da pajar taglia èn:
+<sup>1</sup> La gulivaziun da las resursas vegn finanziada dal chantun e da las vischnancas cun bleras resursas.
 
-- a) las persunas giuridicas ch'èn suttamessas a la taglia tenor la lescha chantunala da taglia;
-- b) ils fonds d'investiziun cun possess funsil direct;
-- c) …
-- d) las vischnancas, ils circuls e lur instituts sco er las corporaziuns da vischnancas per l'activitad d'interpresa che vegn pratitgada ordaifer lur agen territori.
+<sup>2</sup> Las vischnancas cun bleras resursas pajan ina contribuziun annuala che importa tranter 15 e 20 pertschient da quella part da lur atgnas resursas decisivas che surpassa la media da tut las vischnancas per persuna decisiva (valur d'index da 100 puncts). Per quellas resursas che surpassan ina valur d'index da 200 puncts, vegn augmentada la tariffa da contribuziun sco suonda:
+
+- a) fin a la valur d'index da 250 puncts: + 5 puncts procentuals;
+- b) fin a la valur d'index da 300 puncts: + 10 puncts procentuals;
+- c) a partir da la valur d'index da 300 puncts: + 15 puncts procentuals.
+
+<sup>3</sup> Il chantun paja la differenza tranter il volumen total per la gulivaziun da resursas e la contribuziun da las vischnancas cun bleras resursas.
 
 #### Art. 6
 
-**Calculaziun da la taglia**
+**Equipament**
 
-<sup>1</sup> La taglia supplementara vegn incassada en pertschients da la taglia chantunala simpla.
+<sup>1</sup> Tut las vischnancas cun paucas resursas survegnan contribuziuns da gulivaziun.
 
-<sup>2</sup> Las persunas giuridicas ch'èn suttamessas a la taglia tenor l'artitgel 5 litera d ston far ina contabilitad separada per lur activitad d'interpresa. Questa contabilitad è er decisiva per fixar la tariffa. Sch'igl existan plirs manaschis, vegn la calculaziun da la taglia fatga per la tariffa totala.
+<sup>2</sup> La contribuziun per persuna decisiva s'augmenta progressivamain, pli gronda che la differenza tranter l'agen potenzial da resursas e quel da la media chantunala daventa. La rangaziun da las vischnancas na dastga betg vegnir midada tras quai. Resalvada resta la dotaziun minimala tenor l'alinea 3.
 
-<sup>3</sup> Las disposiziuns da la lescha chantunala da taglia vegnan applitgadas confurm al senn.
+<sup>3</sup> A mintga vischnanca vegn garantida – ensemen cun las atgnas resursas decisivas per persuna decisiva – ina dotaziun d'almain 65 pertschient da la media chantunala.
+
+## 3. Gulivaziun da las grevezzas
 
 #### Art. 7
 
-**Pe da taglia**
+**Gulivaziun da las grevezzas geografic-topograficas e da scola**
 
-<sup>1</sup> Il cussegl grond fixescha a medem temp cun il pe da taglia per la taglia chantunala er il pe da taglia per la taglia supplementara.
+<sup>1</sup> Il chantun conceda ina gulivaziun a las vischnancas ch'èn suttamessas a grevezzas sproporziunadas pervia da la structura da lur abitadi, pervia da lur situaziun geografic-topografica sco er pervia da lur quota da scolaras e scolars.
 
-<sup>2</sup> Il pe da taglia po esser fin 10 pertschient pli aut u pli bass che la media da l'onn precedent dals pes da taglia da las vischnancas cun passa 2000 abitantas ed abitants e da medem bleras vischnancas cun il dumber il pli aut da las persunas giuridicas ch'èn obligadas da pajar ina taglia supplementara.
+<sup>2</sup> La gulivaziun vegn calculada tenor ils suandants trais facturs:
 
-<sup>3</sup> Decisiv è il pe da taglia ch'è valaivel a la fin da la perioda fiscala.
+- a) dumber d'abitantas e d'abitants en abitadis sparpagliads e spessezza da la populaziun pervia da la surfatscha productiva per abitanta u abitant (structura da l'abitadi);
+- b) lunghezza da las vias communalas e da las vias chantunalas entaifer il vitg per abitanta u abitant valitada tenor categoria da custs (lunghezza da las vias);
+- c) dumber da scolaras e scolars per abitanta u abitant.
+
+<sup>3</sup> Ils facturs vegnan mintgamai convertids en ina cifra d'index e mess sin ina basa cumparegliabla. L'index total correspunda a la media aritmetica dals trais facturs.
+
+<sup>4</sup> Ils meds finanzials vegnan repartids sin las vischnancas resguardond ina part da 10 pertschient dal potenzial da resursas tenor l'artitgel 4.
+
+<sup>5</sup> …
+
+<sup>6</sup> Per vischnancas che fusiuneschan po la regenza garantir las contribuziuns da gulivaziun al nivel vertent durant in termin transitoric da maximalmain 10 onns.
 
 #### Art. 8
 
-**Quotas fiscalas da las vischnancas**
+**Gulivaziun da las grevezzas socialas**
 
-<sup>1</sup> La taglia supplementara vegn repartida tenor las reglas da determinaziun ch'èn fixadas en il dretg chantunal davart l'imposiziun dubla da taglia, e quai sin las vischnancas che han il dretg da pretender taglias.
+<sup>1</sup> Il chantun conceda ina gulivaziun a las vischnancas ch'èn suttamessas ad ina grevezza sproporziunada en il sectur da l'agid social material.
 
-<sup>2</sup> …
+<sup>2</sup> La gulivaziun vegn calculada tenor las expensas nettas da las vischnancas sin basa da prestaziuns tenor:
 
-<sup>3</sup> …
+- a) la lescha davart il sustegn da persunas basegnusas[^8-1];
+- b) l'ordinaziun davart il pajament anticipà da contribuziuns al mantegniment per uffants cun dretg da mantegniment[^8-2].
+
+<sup>3</sup> Da las expensas nettas fan part prestaziuns che ston vegnir pajadas da las vischnancas tenor lescha, minus las entradas da restituziuns, d'obligaziuns da sustegnair parentas e parents e da prestaziuns d'assicuranza. La regenza po fixar custs normads per las expensas nettas.
+
+<sup>4</sup> Per la gulivaziun è decisiva la relaziun da las expensas nettas cun il potenzial da resursas da la vischnanca. La gulivaziun importa en pertschients dal potenzial da resursas:
+
+- a) fin a 3 pertschient dal potenzial da resursas: 0 pertschient;
+- b) da 3 fin 4,5 pertschient dal potenzial da resursas: 20 pertschient;
+- c) da 4,5 fin 6 pertschient dal potenzial da resursas: 40 pertschient;
+- d) da 6 fin 7,5 pertschient dal potenzial da resursas: 60 pertschient;
+- e) da 7,5 fin 9 pertschient dal potenzial da resursas: 80 pertschient;
+- f) a partir da 9 pertschient dal potenzial da resursas: 100 pertschient.
+
+<sup>5</sup> La regenza augmenta las limitas da gulivaziun tenor l'alinea 4 per mintgamai 1 punct procentual, sch'il total d'abitantas e d'abitants en las vischnancas da gulivaziun surpassa 50 pertschient dal total d'abitantas e d'abitants dal chantun.
+
+<sup>6</sup> Sin dumonda da las vischnancas vegnan las expensas nettas fixadas e gulivadas mintgamai l'onn suandant.
+
+<sup>7</sup> Las vischnancas èn obligadas da restituir contribuziuns nungiustifitgadas. Ina dumonda da restituziun sto vegnir fatga entaifer 3 onns suenter che la gulivaziun da las grevezzas socialas è vegnida concludida sin via ordinaria.
+
+[^8-1]: DG [546.250](https://www.gr-lex.gr.ch/data/546.250/rm)
+[^8-2]: DG [215.050](https://www.gr-lex.gr.ch/data/215.050/rm)
 
 #### Art. 9
 
-**…**
+**Gulivaziun individuala d'inegualitads per grevezzas spezialas**
+
+<sup>1</sup> La regenza po conceder ina contribuziun speziala ad ina vischnanca, sche la vischnanca cumprova ch'ella è suttamessa a grevezzas sproporziunadas pervia da relaziuns u d'eveniments extraordinaris. La contribuziun da gulivaziun premetta che la grevezza na possia betg vegnir influenzada tras la vischnanca, ch'ella na vegnia betg resguardada en la gulivaziun da las grevezzas e ch'ella na possia betg vegnir cumpensada cun la reducir.
+
+<sup>2</sup> Grevezzas spezialas èn avant maun, sch'igl existan ils suandants fatgs en moda cumulativa:
+
+- a) la grevezza netta per persuna en la categoria d'expensas respectiva è sproporziunada en cumparegliaziun cun la grevezza media da tut las vischnancas;
+- b) la grevezza extraordinaria è pli auta che 5 pertschient da l'agen potenzial da resursas;
+- c) la grevezza sproporziunada tenor las literas a e b chaschuna in disturbi persistent da las finanzas.
+
+<sup>3</sup> La vischnanca sto far valair sias pussaivladads d'agid a sasezza en ina dimensiun raschunaivla. Quai cumpiglia en spezial mesiras da l'utilisaziun dal potenzial da retgav, da la limitaziun d'expensas e da l'adattaziun structurala, l'incassament d'in pe da taglia d'almain 100 pertschient da la taglia chantunala simpla sco er l'incassament da taxas causalas a tariffas che cuvran ils custs a pli lunga vista.
+
+## 4. Procuraziun, dotaziun e repartiziun dals meds finanzials
 
 #### Art. 10
 
-**Acquisiziun da cumpensaziun**
+**Finanziaziun speziala "gulivaziun da finanzas"**
 
-<sup>1</sup> Sch'i vegnan transferidas suenter l'entrada en vigur da questa lescha – tras in'acquisiziun da cumpensaziun intercommunala – reservas zuppadas en in'autra vischnanca e sche quellas vegnan alura realisadas, ha l'emprima vischnanca il dretg da pretender ina taglia supplementara.
+<sup>1</sup> Per finanziar e per realisar la gulivaziun da las resursas e da las grevezzas sco er las contribuziuns per promover fusiuns da vischnancas vegn manada ina finanziaziun speziala tenor las disposiziuns da la legislaziun chantunala da finanzas[^10-1].
 
-<sup>2</sup> La summa da la pretensiun vegn calculada sin fundament da las reservas zuppadas ch'èn vegnidas transferidas a l'autra vischnanca, sch'ellas èn propi er vegnidas realisadas.
+<sup>2</sup> La finanziaziun speziala vegn alimentada cun contribuziuns da vischnancas cun bleras resursas tenor l'artitgel 5 alinea 2 sco er cun meds publics generals dal chantun. Ils meds finanzials chantunals importan minimalmain 150 pertschient e maximalmain 250 pertschient da las contribuziuns communalas.
+
+<sup>3</sup> Sche la facultad da la finanziaziun speziala manca, èn admess pajaments anticipads or da meds publics generals mo transitoricamain e maximalmain fin a l'import da l'ultima assegnaziun da meds finanzials.
+
+[^10-1]: DG [710.100](https://www.gr-lex.gr.ch/data/710.100/rm) e DG [710.110](https://www.gr-lex.gr.ch/data/710.110/rm)
 
 #### Art. 11
 
-**…**
+**Dotaziun dals meds finanzials**
+
+<sup>1</sup> En il rom dal preventiv fixescha il cussegl grond annualmain las suandantas grondezzas:
+
+- a) la tariffa da contribuziun da las vischnancas cun bleras resursas tenor l'artitgel 5 alinea 2 per finanziar la gulivaziun da las resursas;
+- b) la procentuala per la dotaziun minimala cun resursas da las vischnancas cun paucas resursas tenor l'artitgel 6 alinea 3;
+- c) il volumen total per la gulivaziun da las grevezzas geografic-topograficas e da scola tenor l'artitgel 7. Quest volumen importa 70 fin 100 pertschient dals meds finanzials per la gulivaziun da las resursas;
+- d) il volumen total per la gulivaziun individuala d'inegualitads per grevezzas spezialas tenor l'artitgel 9.
 
 #### Art. 12
 
-**Traffic da pajament**
+**Repartiziun dals meds finanzials**
 
-<sup>1</sup> Il cussegl grond regla ils detagls concernent la bunificaziun e concernent la grevezza da las quotas fiscalas da las vischnancas.
+<sup>1</sup> La regenza fixescha la repartiziun da las contribuziuns sin las vischnancas, e quai per la gulivaziun da las resursas, per la gulivaziun da las grevezzas geografic-topograficas e da scola e per la gulivaziun individuala d'inegualitads per grevezzas spezialas. Sia decisiun è definitiva.
+
+<sup>2</sup> Las calculaziuns sa basan sin las datas las pli novas che stattan mintgamai a disposiziun.
+
+<sup>3</sup> Las contribuziuns da la gulivaziun da las resursas e da la gulivaziun da las grevezzas geografic-topograficas e da scola vegnan pajadas a las vischnancas senza esser liadas ad in intent.
 
 #### Art. 13
 
-**Taxa d'incassament**
+**Pajaments parzials**
 
-<sup>1</sup> Il chantun pretenda per la taxaziun, per l'incassament e per il rendaquint da la taglia supplementara ina taxa da 2 pertschient da las quotas fiscalas da las vischnancas.
+<sup>1</sup> Il chantun paja a las vischnancas las contribuziuns per la gulivaziun da las resursas e per la gulivaziun da las grevezzas geografic-topograficas e da scola en dus pajaments parzials da medema grondezza mintgamai il zercladur ed il december.
+
+<sup>2</sup> Las vischnancas cun bleras resursas ston er pajar lur contribuziuns a la gulivaziun da las resursas en dus pajaments da medema grondezza mintgamai il zercladur ed il december.
 
 #### Art. 14
 
-**Procedura**
-
-<sup>1</sup> Las quotas fiscalas vegnan communitgadas a las vischnancas tras rendaquints periodics. Sche la vischnanca na va betg d'accord cun il rendaquint, po ella pretender ina disposiziun formala entaifer 30 dis.
-
-<sup>2</sup> Sch'ina vischnanca pretenda quotas fiscalas sin fundament da l'artitgel 5 litera d, sto ella far valair ses dretg entaifer in onn dapi la scadenza da l'onn fiscal correspundent. L'autoritad da taxaziun relascha ina disposiziun da constataziun en il senn da l'artitgel 136 da la lescha chantunala da taglia[^14-1]. Questa disposiziun po vegnir contestada er da la vischnanca che ha il dretg da pretender quotas fiscalas.
-
-<sup>3</sup> Disposiziuns tenor ils alineas 1 u 2 han il medem status sco ina decisiun da taxaziun en il senn da la lescha chantunala da taglia.
-
-<sup>4</sup> La vischnanca survegn invista en las actas da taglia.
-
-[^14-1]: DG [720.000](https://www.gr-lex.gr.ch/data/720.000/rm)
-
-### 1.2. Diever dals meds finanzials
-
-#### Art. 15
-
-**Princip**
-
-<sup>1</sup> Ils meds finanzials che stattan a disposiziun per la gulivaziun da finanzas ston vegnir applitgads per contribuziuns da gulivaziun a vischnancas finanzialmain deblas e per contribuziuns per promover fusiuns da vischnancas.
-
-<sup>2</sup> Las contribuziuns da gulivaziun a vischnancas vegnan impundidas:
-
-- a) per la gulivaziun da la forza fiscala;
-- b) per contribuziuns ad ovras publicas;
-- c) per la gulivaziun dal basegn spezial.
-
-<sup>3</sup> Davart la garanzia respectivamain davart la refusaziun da contribuziuns, per las qualas i n'exista nagin dretg legal, decida la regenza definitivamain.
-
-#### Art. 16
-
-**Gulivaziun da la forza fiscala**
-
-<sup>1</sup> Vischnancas ch'èn finanzialmain deblas e che han ina forza fiscala relativa ch'è pli bassa che la media chantunala survegnan contribuziuns or da la finanziaziun speziala, per che lur capacitad finanziala s'avischinia a la media chantunala.
-
-<sup>2</sup> La gulivaziun da la forza fiscala relativa ha lieu pass per pass cun ina contribuziun da basa e cun ina contribuziun sut il titel da la dotaziun minimala.
-
-<sup>3</sup> En in emprim pass gulivescha la contribuziun da basa la forza fiscala relativa mancanta fin ad ina tariffa da gulivaziun da 60 fin 65 pertschient da la media chantunala.
-
-<sup>4</sup> En in segund pass gulivescha la dotaziun minimala la forza fiscala relativa fin ad ina tariffa da gulivaziun da 75 fin 100 pertschient da la media chantunala. Il dretg da survegnir contribuziuns per quai han las vischnancas cun in pe da taglia da minimalmain 120 pertschient da la taglia chantunala simpla. La dotaziun minimala vegn limitada a 1000 abitantas ed abitants e reducida per maximalmain la mesadad per vischnancas cun main che 1000 abitantas ed abitants.
-
-<sup>5</sup> La regenza fixescha annualmain las quotas da gulivaziun.
-
-<sup>6</sup> En il rom da fusiuns da vischnancas po la regenza reducir il pe da taglia ch'è necessari per la dotaziun minimala durant in termin transitoric da maximalmain 15 onns a 90 pertschient da la taglia chantunala simpla e fixar la limita d'abitantas e d'abitants sco er la reducziun da las contribuziuns en il cas singul.
-
-#### Art. 17
-
-**Forza fiscala**
-
-<sup>1</sup> La forza fiscala resulta dal retgav da la taglia sin las entradas e sin la facultad da las persunas natiralas e da la taglia sin il gudogn e sin il chapital da las persunas giuridicas per la tariffa chantunala sco er dal retgav dals tschains d'aua nets.
-
-<sup>2</sup> La forza fiscala relativa correspunda a la forza fiscala per abitanta u per abitant da la vischnanca.
-
-<sup>3</sup> La media chantunala correspunda a la forza fiscala relativa da tut las vischnancas.
-
-#### Art. 18
-
-**Contribuziuns ad ovras publicas**
-
-<sup>1</sup> Contribuziuns ad ovras publicas survegnan vischnancas finanzialmain deblas, sch'ellas n'èn betg en cas da pajar las expensas d'investiziun necessarias, malgrà ch'ellas furneschan atgnas prestaziuns che pon vegnir pretendidas e malgrà ch'ellas retiran in'eventuala gulivaziun da la forza fiscala.
-
-<sup>2</sup> Il dretg da survegnir contribuziuns han vischnancas che applitgeschan in pe da taglia d'almain 120 pertschient da la taglia chantunala simpla e che tiran a niz las ulteriuras funtaunas da finanziaziun en ina dimensiun minimala che sto vegnir fixada da la regenza.
-
-<sup>3</sup> Sin dumonda examinescha la regenza, sch'ina vischnanca finanzialmain debla ha il dretg da survegnir contribuziuns ad ovras publicas. Ella po fixar ulteriuras cundiziuns e limitar il dretg da survegnir contribuziuns sin singulas ovras.
-
-<sup>4</sup> Il cussegl grond inditgescha las ovras publicas, regla il gener e la dimensiun dals custs imputabels e fixescha l'import da las contribuziuns e da la resalva persunala.
-
-#### Art. 19
-
-**Gulivaziun dal basegn spezial**
-
-<sup>1</sup> Sin dumonda po la regenza pajar ulteriuras contribuziuns a vischnancas finanzialmain deblas che n'èn betg en cas da mantegnair en equiliber lur finanzas or d'atgnas forzas, malgrà ch'ellas retiran in'eventuala gulivaziun da la forza fiscala e malgrà ch'ellas survegnan contribuziuns ad ovras publicas.
-
-<sup>2</sup> …
-
-#### Art. 19a
-
 **Contribuziuns per promover fusiuns da vischnancas**
 
-<sup>1</sup> Vischnancas che fusiuneschan survegnan contribuziuns da promoziun.
+<sup>1</sup> Las vischnancas che fusiuneschan survegnan contribuziuns da promoziun.
 
-<sup>2</sup> Talas contribuziuns pon er vegnir pajadas per projects e per studis.
+<sup>2</sup> Talas contribuziuns da promoziun pon er vegnir pajadas per projects e per studis.
 
 <sup>3</sup> La regenza fixescha ils criteris e l'import da las contribuziuns da promoziun.
 
 <sup>4</sup> Il cussegl grond concluda ils credits necessaris en atgna cumpetenza.
 
-#### Art. 20
+## 5. Prescripziuns d'execuziun
 
-**Pajament da las contribuziuns**
+#### Art. 15
 
-<sup>1</sup> Las contribuziuns da la gulivaziun da finanzas vegnan pajadas per regla ina giada l'onn.
+**Obligaziun da cooperar**
 
-<sup>2</sup> La regenza regla ils detagls.
+<sup>1</sup> Ils posts da servetsch chantunals e las vischnancas coopereschan per elavurar las basas da datas ch'èn necessarias per exequir questa lescha.
 
-## 2. Gulivaziun da finanzas indirecta
+#### Art. 15a
 
-#### Art. 21
+**Calculaziuns incorrectas**
 
-**Gruppas da forza finanziala**
+<sup>1</sup> Ina calculaziun incorrecta da la gulivaziun da las resursas sco er da la gulivaziun da las grevezzas geografic-topograficas e da scola vegn curregida posteriuramain mo, sch'i vegn constatada ina divergenza da passa 1 pertschient da las contribuziuns correspundentas tar pli ch'in 10avel da las vischnancas.
 
-<sup>1</sup> Las vischnancas vegnan classifitgadas tenor lur forza finanziala en differentas gruppas da forza finanziala che vegnan fixadas dal cussegl grond. La regenza reparta las vischnancas mintga 2 onns en las singulas gruppas da forza finanziala. Cunter la decisiun da la regenza n'èn admissibels nagins meds legals chantunals ordinaris.
+<sup>2</sup> Curregidas vegnan mo calculaziuns, da las qualas l'incorrectadad vegn constatada entaifer 6 mais suenter che las calculaziuns èn vegnidas concludidas formalmain.
 
-#### Art. 22
+#### Art. 16
 
-**Basa da calculaziun**
+**Analisa da l'efficacitad**
 
-<sup>1</sup> Per eruir la forza finanziala vegnan resguardads ils suandants facturs:
+<sup>1</sup> La regenza fa periodicamain in'analisa cumplessiva da l'execuziun e da l'efficacitad da la gulivaziun da finanzas e da grevezzas sco er dal svilup da las fusiuns da vischnancas.
 
-- a) la forza fiscala che resulta dal retgav
-  - aa) da la taglia sin las entradas e sin la facultad da las persunas natiralas sco er da la taglia sin il gudogn e sin il chapital da las persunas giuridicas a la tariffa chantunala;
-  - bb) dals tschains d'aua nets a 25 pertschient;
-  - cc) da las prestaziuns da cumpensaziun per las perditas da l'utilisaziun da la forza idraulica a 25 pertschient;
-- b) la grevezza fiscala cumparegliada cun il pe da taglia communal en ina procentuala da la taglia chantunala simpla;
-- c) il basegn finanzial che vegn deducì da
-  - aa) in basegn fundamental;
-  - bb) il dumber da scolaras e da scolars;
-  - cc) la surfatscha.
+<sup>2</sup> Ella orientescha il cussegl grond en ina furma adattada davart ils resultats e propona en cas da basegn da prender mesiras per meglierar la gulivaziun da las resursas e da las grevezzas.
 
-#### Art. 23
+## 6. Disposiziuns finalas
 
-**Excepziuns**
+#### Art. 17
 
-<sup>1</sup> La regenza po reparter ina vischnanca – divergentamain da las disposiziuns precedentas – en in'autra gruppa, sche relaziuns spezialas u sche la situaziun finanziala generala da la vischnanca pretendan quai. Cunter la decisiun da la regenza n'èn admissibels nagins meds legals chantunals ordinaris.
+**Aboliziun e midada da relaschs[^17-1]**
 
-## 3. Disposiziuns transitoricas e finalas
+[^17-1]: Las midadas e las aboliziuns dal dretg vertent na vegnan betg menziunadas.
 
-#### Art. 24
-
-**Execuziun**
-
-<sup>1</sup> Il cussegl grond relascha in'ordinaziun executiva.[^24-1]
-
-[^24-1]: DG [730.210](https://www.gr-lex.gr.ch/data/730.210/rm)
-
-#### Art. 25
-
-**Acquisiziun da cumpensaziun**
-
-<sup>1</sup> Sche l'object d'investiziun è vegnì alienà avant l'entrada en vigur da questa lescha tar in'acquisiziun da cumpensaziun e sche l'object da cumpensaziun è però vegnì acquistà pir suenter l'entrada en vigur da la lescha, vegn applitgada questa lescha.
-
-#### Art. 26
-
-**Pajament unic al fond**
-
-<sup>1</sup> Al fond da gulivaziun da finanzas vegnan assegnads meds finanzials chantunals unics en la dimensiun da 220 milliuns francs. Quests meds finanzials servan a finanziar fusiuns da vischnancas sco er projects per restructurar la gulivaziun da finanzas. Il cussegl grond conceda il credit necessari en atgna cumpetenza.
-
-#### Art. 27
+#### Art. 18
 
 **…**
 
-#### Art. 28
+#### Art. 19
+
+**…**
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+#### Art. 22
+
+**…**
+
+#### Art. 23
+
+**6. obligaziuns da contribuziun pendentas**
+
+<sup>1</sup> Per quant che la refurma da la GF abolescha la basa giuridica per pajar contribuziuns d'investiziun a vischnancas, vegnan garantidas e pajadas contribuziuns mo pli per quels projects, per ils quals ina dumonda da contribuziun che correspunda a las directivas da l'uffizi cumpetent è vegnida inoltrada avant l'entrada en vigur da questa lescha e per ils quals ils rendaquints da las investiziuns realisadas èn vegnids suttamess fin il pli tard la fin da l'onn 2019. Pretensiuns sin basa da garanzias da contribuziun per ovras publicas en connex cun fusiuns da vischnancas vegnan indemnisadas senza restricziuns.
+
+#### Art. 24
 
 **Entrada en vigur**
 
-<sup>1</sup> Questa lescha entra en vigur il 1. da schaner 1994. Ella remplazza la lescha dals 12 da mars 1967.[^28-1]
+<sup>1</sup> La regenza fixescha il termin da l'entrada en vigur[^24-1] da questa lescha. Ella po metter en vigur retroactivamain l'artitgel 17 alinea 2, il pli baud per il 1. da schaner 2014.
 
-[^28-1]: CUL 1967, 314 e midadas tenor il register da materias dal cudesch da dretg grischun
+[^24-1]: Messa en vigur cun CR dals 18 da november 2014 per il 1. da schaner 2016 cun excepziun da l'artitgel 17 alinea 2. L'artitgel 17 entra en vigur il 1. da schaner 2015.
 
--
+2014-031

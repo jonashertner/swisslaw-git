@@ -1,306 +1,306 @@
 ---
 canton: GR
 number: "730.200"
-title: Gesetz über den interkommunalen Finanzausgleich
-short: FAG
+title: Gesetz über den Finanzausgleich im Kanton Graubünden
+short: "Finanzausgleichsgesetz, FAG"
 language: de
-version: 2015-01-01
-corrected: 2015-03-24
-version_adopted: 2014-11-18
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-19
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über den interkommunalen Finanzausgleich
+# Gesetz über den Finanzausgleich im Kanton Graubünden
 
-(FAG)
+(Finanzausgleichsgesetz, FAG)
 
-Vom 26.09.1993 (Stand 01.01.2015)
+Vom 05.12.2013 (Stand 01.03.2021)
 
-Vom Volke angenommen am 26. September 1993[^ingress-1]
+Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
-[^ingress-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de) B vom 16. November 1992, 663; GRP 1992/93, 859
+gestützt auf Art. 31 Abs. 1 und Art. 96 der Kantonsverfassung[^ingress-2],
+
+nach Einsicht in die Botschaft der Regierung vom 20. August 2013[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: GRP 2013/2014, 340
+[^ingress-2]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
+[^ingress-3]: Seite 211
+
+## 1. Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Zweck**
+**Gegenstand**
 
-<sup>1</sup> Dieses Gesetz bezweckt, die Unterschiede in der finanziellen Leistungsfähigkeit der Gemeinden zu mildern, indem es
+<sup>1</sup> Dieses Gesetz regelt den Finanzausgleich für die Gemeinden. Dieser umfasst den Ressourcenausgleich, den Gebirgs- und Schullastenausgleich, den Lastenausgleich Soziales sowie den individuellen Härteausgleich für besondere Lasten.
 
-- a) die Finanzierung und Ausrichtung bestimmter Beiträge an finanzschwache Gemeinden ordnet (direkter Finanzausgleich);
-- b) die Voraussetzungen für die Abstufung von Leistungen zwischen Kanton und Gemeinden nach ihrer Finanzkraft schafft (indirekter Finanzausgleich).
+<sup>2</sup> Es regelt im Weiteren:
 
-## 1. Direkter Finanzausgleich
-
-### 1.1. Mittelbeschaffung
+- a) die Beiträge zur Förderung von Gemeindezusammenschlüssen;
+- b) den Vollzug und die Analyse über die Wirksamkeit des Finanzausgleichs.
+- c) …
 
 #### Art. 2
 
-**Spezialfinanzierung Finanzausgleich**
+**Ziele**
 
-<sup>1</sup> Zur Finanzierung des direkten Finanzausgleichs wird eine Spezialfinanzierung gemäss den Bestimmungen der Finanzhaushaltsgesetzgebung geführt.
+<sup>1</sup> Der Finanzausgleich soll:
 
-<sup>2</sup> Vorschüsse an die Spezialfinanzierung aus allgemeinen Staatsmitteln sind nur vorübergehend, höchstens bis zur Höhe des letzten Kantonsbeitrages zulässig.
+- a) die finanzielle Eigenständigkeit der Gemeinden stärken;
+- b) die Unterschiede in der finanziellen Leistungsfähigkeit und Steuerbelastung zwischen den Gemeinden verringern;
+- c) den Gemeinden eine Grundausstattung mit finanziellen Ressourcen gewährleisten;
+- d) übermässige finanzielle Lasten der Gemeinden aufgrund ihrer Besiedlungsstruktur, Topographie und Schülerquote oder aufgrund der materiellen Sozialhilfe mildern;
+- e) Härtefälle aufgrund ausserordentlicher Lasten einzelner Gemeinden vermeiden.
+
+## 2. Ressourcenausgleich
 
 #### Art. 3
 
-**Finanzierung**
+**Grundsätze**
 
-<sup>1</sup> Der Spezialfinanzierung werden folgende Mittel zugewiesen:
+<sup>1</sup> Der Ressourcenausgleich bezieht sämtliche Gemeinden ein und konzentriert sich auf die Verringerung der Unterschiede in der Mittelausstattung. Er sichert den Gemeinden einen Grundbetrag an frei verfügbaren finanziellen Ressourcen.
 
-- a) …
-- b) …
-- c) ein Solidaritätsanteil der Gemeinden von sechs Prozent des ihnen jährlich nach den gesetzlichen beziehungsweise konzessionsvertraglichen Bestimmungen zustehenden Wasserzinses und ihrer jährlichen Konzessionsgebühren für Pumpwerke;
-- d) …
-- e) …
+<sup>2</sup> Die finanzielle Leistungsfähigkeit der Gemeinde wird anhand des Ressourcenpotenzials pro massgebende Person (massgebende Ressourcen) bemessen und in Form eines Ressourcenindexes ausgewiesen.
 
-<sup>2</sup> …
-
-<sup>3</sup> …
+<sup>3</sup> Die massgebende Personenzahl basiert auf der ständigen Wohnbevölkerung gemäss der Bevölkerungsstatistik des Bundes (STATPOP) sowie dem Total der steuerpflichtigen Personen gemäss den Steuerdaten der kantonalen Steuerverwaltung. Übertrifft das Total der steuerpflichtigen Personen die Einwohnerzahl der ständigen Wohnbevölkerung, so wird der überschiessende Anteil zu 20 Prozent zu den massgebenden Personen gerechnet.
 
 #### Art. 4
 
-**Zuschlagssteuer**
+**Ressourcenpotenzial**
 
-<sup>1</sup> Der Kanton erhebt für die Gemeinden eine Zuschlagssteuer zur kantonalen Gewinn- und Kapitalsteuer.
+<sup>1</sup> Das Ressourcenpotenzial einer Gemeinde entspricht ihren fiskalisch ausschöpfbaren Ressourcen sowie ihren Wasserzinserträgen.
 
-<sup>2</sup> Soweit dieses Gesetz keine abweichenden Regelungen enthält, finden die Bestimmungen des jeweils geltenden kantonalen Steuergesetzes[^4-1] analog Anwendung.
+<sup>2</sup> Es wird berechnet auf der Grundlage:
 
-<sup>3</sup> Der Vollzug der Zuschlagssteuer obliegt der Kantonalen Steuerverwaltung.
+- a) der Einkommens- und Vermögenssteuern einschliesslich Liquidationsgewinnsteuern und Aufwandsteuern der natürlichen Personen gemäss einfacher Kantonssteuer zu 100 Prozent sowie der Quellensteuern gemäss dem vom Grossen Rat festgelegten Steuerfuss;
+- b) der Gewinn- und Kapitalsteuern der juristischen Personen gemäss dem vom Grossen Rat festgelegten Steuerfuss;
+- c) …
+- d) der Steuerwerte der Liegenschaften zu maximal 1,5 Promille; sowie
+- e) der Netto-Wasserzinsen einschliesslich der Abgeltungsleistungen für Einbussen der Wasserkraftnutzung.
 
-[^4-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
+<sup>3</sup> Der Durchschnitt des Ressourcenpotenzials sämtlicher Gemeinden pro massgebende Person entspricht dem Indexwert von 100 Punkten. Gemeinden mit einem Indexwert über 100 Punkten gelten als ressourcenstark. Gemeinden mit einem Indexwert unter 100 Punkten gelten als ressourcenschwach.
+
+<sup>4</sup> Erhält eine ressourcenschwache Gemeinde jährlich wiederkehrende Konzessionserträge von mehr als 50 Prozent ihres Ressourcenpotenzials, so werden diese Erträge bis zu einem Indexwert von 100 Punkten angerechnet.
+
+<sup>5</sup> Die Berechnung des Ressourcenpotenzials sowie des Ressourcenindexes erfolgt jährlich auf der Grundlage des Durchschnitts der letzten zwei verfügbaren Jahre, einschliesslich der Nachträge aus den vorangehenden Jahren.
 
 #### Art. 5
 
-**Steuersubjekt**
+**Finanzierung**
 
-<sup>1</sup> Steuerpflichtig sind:
+<sup>1</sup> Der Ressourcenausgleich wird vom Kanton und von den ressourcenstarken Gemeinden finanziert.
 
-- a) die nach kantonalem Steuergesetz steuerpflichtigen juristischen Personen;
-- b) die Anlagefonds mit direktem Grundbesitz;
-- c) …
-- d) die Gemeinden, Kreise und deren Anstalten sowie die Gemeindeverbände für die ausserhalb des eigenen Gebietes ausgeübte unternehmerische Tätigkeit.
+<sup>2</sup> Die ressourcenstarken Gemeinden entrichten einen jährlichen Beitrag zwischen 15 Prozent und 20 Prozent jenes Anteils an ihren massgebenden eigenen Ressourcen, der den Durchschnitt sämtlicher Gemeinden pro massgebende Person (Indexwert von 100 Punkten) übertrifft. Für jene Ressourcen, welche den Indexwert von 200 Punkten übersteigen, wird der Beitragssatz wie folgt erhöht:
+
+- a) bis zum Indexwert von 250 Punkten: + 5 Prozentpunkte;
+- b) bis zum Indexwert von 300 Punkten: + 10 Prozentpunkte;
+- c) ab dem Indexwert von 300 Punkten: + 15 Prozentpunkte.
+
+<sup>3</sup> Der Kanton leistet den Differenzbetrag zwischen dem Gesamtvolumen für den Ressourcenausgleich und dem Beitrag der ressourcenstarken Gemeinden.
 
 #### Art. 6
 
-**Steuerberechnung**
+**Ausstattung**
 
-<sup>1</sup> Die Zuschlagssteuer wird in Prozenten der einfachen Kantonssteuer erhoben.
+<sup>1</sup> Sämtliche Gemeinden, die ressourcenschwach sind, erhalten Ausgleichsbeiträge.
 
-<sup>2</sup> Die nach Artikel 5 Litera d steuerpflichtigen juristischen Personen müssen für ihre unternehmerische Tätigkeit eine separate Buchhaltung führen, die auch für die Satzbestimmung massgebend ist. Werden mehrere Betriebe geführt, erfolgt die Steuerberechnung zum Gesamtsatz.
+<sup>2</sup> Der Beitrag pro massgebende Person steigt progressiv mit zunehmender Differenz zwischen dem eigenen Ressourcenpotenzial und jenem gemäss dem kantonalen Durchschnitt. Die Rangfolge der Gemeinden darf dadurch nicht verändert werden. Vorbehalten bleibt die Mindestaustattung gemäss Absatz 3.
 
-<sup>3</sup> Die Bestimmungen des kantonalen Steuergesetzes finden sinngemäss Anwendung.
+<sup>3</sup> Jeder Gemeinde wird zusammen mit den eigenen massgebenden Ressourcen pro massgebende Person eine Ausstattung von mindestens 65 Prozent des kantonalen Durchschnitts garantiert.
+
+## 3. Lastenausgleich
 
 #### Art. 7
 
-**Steuerfuss**
+**Gebirgs- und Schullastenausgleich**
 
-<sup>1</sup> Der Grosse Rat setzt gleichzeitig mit dem Steuerfuss für die Kantonssteuer den Steuerfuss für die Zuschlagssteuer fest.
+<sup>1</sup> Der Kanton gewährt den Gemeinden, die durch ihre Besiedlungsstruktur, ihre geografisch-topografische Situation sowie ihre Schülerquote übermässig belastet sind, einen Ausgleich.
 
-<sup>2</sup> Der Steuerfuss kann bis zu zehn Prozent höher oder tiefer sein als das Vorjahresmittel der Steuerfüsse der Gemeinden mit mehr als 2000 Einwohnern und einer gleich grossen Anzahl Gemeinden mit der grössten Zahl zuschlagssteuerpflichtiger juristischer Personen.
+<sup>2</sup> Der Ausgleich bemisst sich nach folgenden drei Masszahlen:
 
-<sup>3</sup> Massgebend ist der am Ende der Steuerperiode geltende Steuerfuss.
+- a) Anzahl Einwohner in dispersen Siedlungen und Bevölkerungsdichte aufgrund der produktiven Fläche pro Einwohner (Besiedlungsstruktur);
+- b) Länge der Gemeindestrassen und Kantonsstrassen innerorts pro Einwohner nach Kostenkategorien gewichtet (Strassenlängen);
+- c) Anzahl Schüler pro Einwohner (Schülerquote).
+
+<sup>3</sup> Die Masszahlen werden je in eine Indexzahl umgerechnet und auf eine vergleichbare Basis gesetzt. Der Gesamtindex entspricht dem arithmetischen Mittel aus den drei Masszahlen.
+
+<sup>4</sup> Die Verteilung der Mittel auf die Gemeinden erfolgt unter Berücksichtigung eines Anteils von maximal 10 Prozent des Ressourcenpotenzials gemäss Artikel 4.
+
+<sup>5</sup> …
+
+<sup>6</sup> Für Gemeinden, die sich zusammenschliessen, kann die Regierung die Ausgleichsbeiträge für eine Übergangsfrist von maximal 10 Jahren auf dem bisherigen Niveau zusichern.
 
 #### Art. 8
 
-**Gemeindetreffnisse**
+**Lastenausgleich Soziales**
 
-<sup>1</sup> Die Zuschlagssteuer wird gemäss den Ausscheidungsregeln des interkantonalen Doppelbesteuerungsrechts auf die steuerberechtigten Gemeinden aufgeteilt.
+<sup>1</sup> Der Kanton gewährt den Gemeinden, die im Bereich der materiellen Sozialhilfe übermässig belastet sind, einen Ausgleich.
 
-<sup>2</sup> …
+<sup>2</sup> Der Ausgleich bemisst sich nach den Nettoaufwendungen der Gemeinden aufgrund von Leistungen gemäss:
 
-<sup>3</sup> …
+- a) Gesetz über die Unterstützung Bedürftiger[^8-1];
+- b) Verordnung über die Bevorschussung von Unterhaltsbeiträgen für unterhaltsberechtigte Kinder[^8-2].
+
+<sup>3</sup> Zu den Nettoaufwendungen zählen Leistungen, zu denen die Gemeinden gesetzlich verpflichtet sind, abzüglich der Einnahmen aus Rückerstattungen, aus der Verwandtenunterstützungspflicht und aus Versicherungsleistungen. Die Regierung kann für die Nettoaufwendungen Normkosten festlegen.
+
+<sup>4</sup> Für den Ausgleich massgebend ist das Verhältnis der Nettoaufwendungen zum Ressourcenpotenzial der Gemeinde. Der Ausgleich beträgt in Prozent des Ressourcenpotenzials:
+
+- a) bis zu 3 Prozent des Ressourcenpotenzials: 0 Prozent;
+- b) von 3 bis 4,5 Prozent des Ressourcenpotenzials: 20 Prozent;
+- c) von 4,5 bis 6 Prozent des Ressourcenpotenzials: 40 Prozent;
+- d) von 6 bis 7,5 Prozent des Ressourcenpotenzials: 60 Prozent;
+- e) von 7,5 bis 9 Prozent des Ressourcenpotenzials: 80 Prozent;
+- f) ab dem 9. Prozent des Ressourcenpotenzials: 100 Prozent.
+
+<sup>5</sup> Die Regierung erhöht die Ausgleichsschwellen gemäss Absatz 4 um je einen Prozentpunkt, sofern das Total der Einwohner in den Ausgleichsgemeinden 50 Prozent der Gesamteinwohner des Kantons übertrifft.
+
+<sup>6</sup> Die Nettoaufwendungen werden auf Gesuch der Gemeinden hin jeweils im Folgejahr festgelegt und ausgeglichen.
+
+<sup>7</sup> Die Gemeinden sind für ungerechtfertigte Beiträge rückzahlungspflichtig. Eine Rückforderung hat innerhalb von drei Jahren nach der ordentlichen Beschlussfassung des Lastenausgleichs Soziales zu erfolgen.
+
+[^8-1]: BR [546.250](https://www.gr-lex.gr.ch/data/546.250/de)
+[^8-2]: BR [215.050](https://www.gr-lex.gr.ch/data/215.050/de)
 
 #### Art. 9
 
-**…**
+**Individueller Härteausgleich für besondere Lasten**
+
+<sup>1</sup> Die Regierung kann einer Gemeinde einen Sonderbeitrag gewähren, wenn die Gemeinde nachweist, dass sie durch ausserordentliche Verhältnisse oder Ereignisse übermässig belastet ist. Der Ausgleichsbeitrag setzt voraus, dass die Belastung von der Gemeinde nicht beeinflusst werden kann, im Lastenausgleich nicht berücksichtigt wird und durch Minderlasten nicht kompensiert werden kann.
+
+<sup>2</sup> Besondere Lasten liegen vor, wenn kumulativ folgende Sachverhalte vorliegen:
+
+- a) die Pro-Kopf-Nettobelastung in der jeweiligen Ausgabenkategorie ist im Vergleich zur durchschnittlichen Belastung aller Gemeinden übermässig;
+- b) die ausserordentliche Belastung ist höher als 5 Prozent des eigenen Ressourcenpotenzials;
+- c) die gemäss Litera a und b übermässige Belastung führt zu einer nachhaltigen Störung des Finanzhaushalts.
+
+<sup>3</sup> Die Gemeinde hat ihre Möglichkeiten der Selbsthilfe in zumutbarem Masse auszuschöpfen. Dazu gehören insbesondere Massnahmen der Nutzung des Ertragspotenzials, der Ausgabenbeschränkung und der Strukturanpassung, das Erheben eines Steuerfusses von mindestens 100 Prozent der einfachen Kantonssteuer sowie das Erheben von Kausalabgaben zu längerfristig kostendeckenden Ansätzen.
+
+## 4. Mittelbeschaffung, -dotierung und -verteilung
 
 #### Art. 10
 
-**Ersatzbeschaffung**
+**Spezialfinanzierung Finanzausgleich**
 
-<sup>1</sup> Werden nach Inkrafttreten dieses Gesetzes durch eine interkommunale Ersatzbeschaffung stille Reserven in eine andere Gemeinde transferiert und werden diese in der Folge realisiert, hat die erste Gemeinde Anspruch auf die Zuschlagssteuer.
+<sup>1</sup> Zur Finanzierung und Abwicklung des Ressourcen- und Lastenausgleichs sowie der Beiträge zur Förderung von Gemeindezusammenschlüssen wird eine Spezialfinanzierung gemäss den Bestimmungen der kantonalen Finanzhaushaltsgesetzgebung[^10-1] geführt.
 
-<sup>2</sup> Die Höhe des Anspruches berechnet sich aufgrund der in die andere Gemeinde überführten stillen Reserven, soweit diese effektiv realisiert werden.
+<sup>2</sup> Die Spezialfinanzierung wird gespiesen mit Beiträgen der ressourcenstarken Gemeinden gemäss Artikel 5 Absatz 2 sowie mit allgemeinen Staatsmitteln des Kantons. Die kantonalen Mittel betragen mindestens 150 Prozent und höchstens 250 Prozent der Gemeindebeiträge.
+
+<sup>3</sup> Bei fehlendem Vermögen der Spezialfinanzierung sind Vorschüsse aus allgemeinen Staatsmitteln nur vorübergehend und höchstens bis zur Höhe der letzten Mittelzuweisung zulässig.
+
+[^10-1]: BR [710.100](https://www.gr-lex.gr.ch/data/710.100/de) und BR [710.110](https://www.gr-lex.gr.ch/data/710.110/de)
 
 #### Art. 11
 
-**…**
+**Dotierung der Mittel**
+
+<sup>1</sup> Der Grosse Rat legt im Rahmen des Budgets folgende Grössen jährlich fest:
+
+- a) den Beitragssatz zur Finanzierung des Ressourcenausgleichs durch die ressourcenstarken Gemeinden gemäss Artikel 5 Absatz 2;
+- b) den Prozentsatz für die minimale Ressourcenausstattung der ressourcenschwachen Gemeinden gemäss Artikel 6 Absatz 3;
+- c) das Gesamtvolumen für den Gebirgs- und Schullastenausgleich gemäss Artikel 7. Dieses beträgt 70 bis 100 Prozent der Mittel für den Ressourcenausgleich;
+- d) das Gesamtvolumen für den individuellen Härteausgleich für besondere Lasten gemäss Artikel 9.
 
 #### Art. 12
 
-**Zahlungsverkehr**
+**Verteilung der Mittel**
 
-<sup>1</sup> Der Grosse Rat regelt die Einzelheiten betreffend Gutschrift und Belastung der Gemeindetreffnisse.
+<sup>1</sup> Die Regierung legt die Verteilung der Beiträge auf die Gemeinden für den Ressourcenausgleich, den Gebirgs- und Schullastenausgleich und den individuellen Härteausgleich für besondere Lasten fest. Ihr Entscheid ist endgültig.
+
+<sup>2</sup> Die Berechnungen basieren auf den jeweils neusten verfügbaren Datengrundlagen.
+
+<sup>3</sup> Die Beiträge des Ressourcenausgleichs, des Gebirgs- und Schullastenausgleichs werden den Gemeinden ohne Zweckbindung ausgerichtet.
 
 #### Art. 13
 
-**Einzugsgebühr**
+**Teilzahlungen**
 
-<sup>1</sup> Der Kanton erhebt für die Veranlagung, den Einzug und die Abrechnung der Zuschlagssteuer eine Gebühr von zwei Prozent der Steuertreffnisse der Gemeinden.
+<sup>1</sup> Der Kanton entrichtet den Gemeinden die Beiträge für den Ressourcenausgleich und den Gebirgs- und Schullastenausgleich in zwei gleich grossen Teilzahlungen jeweils im Juni und Dezember.
+
+<sup>2</sup> Die ressourcenstarken Gemeinden haben ihre Beiträge für den Ressourcenausgleich ebenfalls in zwei gleich grossen Zahlungen jeweils im Juni und Dezember zu entrichten.
 
 #### Art. 14
-
-**Verfahren**
-
-<sup>1</sup> Die Steuertreffnisse werden der Gemeinde in periodischen Abrechnungen mitgeteilt. Ist die Gemeinde mit der Abrechnung nicht einverstanden, kann sie innert 30 Tagen eine formelle Verfügung verlangen.
-
-<sup>2</sup> Beansprucht eine Gemeinde Steuertreffnisse gestützt auf Artikel 5 Litera d, muss sie ihren Anspruch innerhalb eines Jahres seit Ablauf des entsprechenden Steuerjahres geltend machen. Die Veranlagungsbehörde erlässt eine Feststellungsverfügung im Sinne von Artikel 136 des kantonalen Steuergesetzes[^14-1], die auch von der anspruchsberechtigten Gemeinde angefochten werden kann.
-
-<sup>3</sup> Verfügungen nach Absatz 1 oder 2 sind einer Veranlagungsverfügung im Sinne des kantonalen Steuergesetzes gleichgestellt.
-
-<sup>4</sup> Der Gemeinde wird Einsicht in die Steuerakten gewährt.
-
-[^14-1]: BR [720.000](https://www.gr-lex.gr.ch/data/720.000/de)
-
-### 1.2. Mittelverwendung
-
-#### Art. 15
-
-**Grundsatz**
-
-<sup>1</sup> Die für den Finanzausgleich zur Verfügung stehenden Mittel sind für Ausgleichsbeiträge an finanzschwache Gemeinden und für Beiträge zur Förderung von Gemeindezusammenschlüssen zu verwenden.
-
-<sup>2</sup> Die Ausgleichsbeiträge an Gemeinden werden eingesetzt:
-
-- a) für den Steuerkraftausgleich
-- b) für Beiträge an öffentliche Werke
-- c) für den Sonderbedarfsausgleich
-
-<sup>3</sup> Über die Zusicherung beziehungsweise Verweigerung von Beiträgen, auf die kein gesetzlicher Anspruch besteht, entscheidet die Regierung endgültig.
-
-#### Art. 16
-
-**Steuerkraftausgleich**
-
-<sup>1</sup> Finanzschwache Gemeinden mit einer relativen Steuerkraft unter dem kantonalen Mittel erhalten Beiträge aus der Spezialfinanzierung, um ihre Leistungsfähigkeit dem Durchschnitt anzunähern.
-
-<sup>2</sup> Der Ausgleich der relativen Steuerkraft erfolgt stufenweise mit einem Sockelbeitrag und einem Beitrag unter dem Titel Mindestausstattung.
-
-<sup>3</sup> In einer ersten Stufe gleicht der Sockelbeitrag die fehlende relative Steuerkraft bis zu einem Ausgleichssatz zwischen 60 und 65 Prozent des kantonalen Mittels aus.
-
-<sup>4</sup> In einer zweiten Stufe gleicht die Mindestausstattung die relative Steuerkraft bis zu einem Ausgleichssatz zwischen 75 und 100 Prozent des kantonalen Mittels aus. Beitragsberechtigt dafür sind Gemeinden mit einem Steuerfuss von mindestens 120 Prozent der einfachen Kantonssteuer. Die Mindestausstattung wird auf 1000 Einwohner begrenzt und für Gemeinden mit weniger als 1000 Einwohner um maximal die Hälfte gekürzt.
-
-<sup>5</sup> Die Regierung legt die Ausgleichssätze jährlich fest.
-
-<sup>6</sup> Im Rahmen von Gemeindezusammenschlüssen kann die Regierung den für die Mindestausstattung erforderlichen Steuerfuss für eine Übergangsfrist von maximal 15 Jahren auf 90 Prozent der einfachen Kantonssteuer herabsetzen und die Einwohnerbegrenzung sowie die Beitragskürzung im Einzelfall festlegen.
-
-#### Art. 17
-
-**Steuerkraft**
-
-<sup>1</sup> Die Steuerkraft ergibt sich aus dem Ertrag der Einkommens- und Vermögenssteuer der natürlichen Personen und der Gewinn- und Kapitalsteuer der juristischen Personen zum kantonalen Ansatz sowie der Netto-Wasserzinsen.
-
-<sup>2</sup> Die relative Steuerkraft entspricht der Steuerkraft je Einwohner der Gemeinde.
-
-<sup>3</sup> Das kantonale Mittel entspricht der relativen Steuerkraft aller Gemeinden.
-
-#### Art. 18
-
-**Beiträge an öffentliche Werke**
-
-<sup>1</sup> Beiträge an öffentliche Werke erhalten finanzschwache Gemeinden, wenn sie notwendige Investitionsausgaben, trotz zumutbarer Eigenleistungen und eines allfälligen Steuerkraftausgleichs, nicht decken können.
-
-<sup>2</sup> Beitragsberechtigt sind Gemeinden, die einen Steuerfuss von mindestens 120 Prozent der einfachen Kantonssteuer anwenden und die übrigen Finanzierungsquellen in einem von der Regierung festzusetzenden Mindestmass ausschöpfen.
-
-<sup>3</sup> Die Regierung prüft auf Gesuch hin, ob eine Gemeinde Anspruch auf Beiträge an öffentliche Werke hat. Sie kann weitere Bedingungen und Auflagen festlegen und die Anspruchsberechtigung auf einzelne Werke beschränken.
-
-<sup>4</sup> Der Grosse Rat bezeichnet die öffentlichen Werke, regelt Art und Umfang der anrechenbaren Kosten und setzt die Höhe der Beiträge und des Selbstbehaltes fest.
-
-#### Art. 19
-
-**Sonderbedarfsausgleich**
-
-<sup>1</sup> Die Regierung kann auf Gesuch hin an finanzschwache Gemeinden, die ihren Finanzhaushalt trotz eines allfälligen Steuerkraftausgleichs und Beiträgen an öffentliche Werke aus eigener Kraft nicht im Gleichgewicht halten können, weitere Beiträge ausrichten.
-
-<sup>2</sup> …
-
-#### Art. 19a
 
 **Beiträge zur Förderung von Gemeindezusammenschlüssen**
 
 <sup>1</sup> Gemeinden, welche sich zusammenschliessen, erhalten Förderbeiträge.
 
-<sup>2</sup> Solche Beiträge können auch an Projekte und Studien ausgerichtet werden.
+<sup>2</sup> Die Förderbeiträge können auch an Projekte und Studien ausgerichtet werden.
 
 <sup>3</sup> Die Regierung legt die Kriterien und die Höhe der Förderbeiträge fest.
 
 <sup>4</sup> Der Grosse Rat beschliesst die erforderlichen Kredite in eigener Kompetenz.
 
-#### Art. 20
+## 5. Vollzugsvorgaben
 
-**Auszahlung der Beiträge**
+#### Art. 15
 
-<sup>1</sup> Die Finanzausgleichsbeiträge werden in der Regel einmal jährlich ausbezahlt.
+**Mitwirkungspflicht**
 
-<sup>2</sup> Die Regierung regelt die Einzelheiten.
+<sup>1</sup> Die kantonalen Dienststellen und die Gemeinden wirken bei der Erarbeitung der für den Vollzug dieses Gesetzes nötigen Datengrundlagen mit.
 
-## 2. Indirekter Finanzausgleich
+#### Art. 15a
 
-#### Art. 21
+**Fehlerhafte Berechnungen**
 
-**Finanzkraftgruppen**
+<sup>1</sup> Eine fehlerhafte Berechnung des Ressourcenausgleichs sowie des Gebirgs- und Schullastenausgleichs wird im Nachhinein nur dann korrigiert, wenn bei mehr als einem Zehntel der Gemeinden eine Abweichung von mehr als einem Prozent der entsprechenden Beiträge festgestellt wird.
 
-<sup>1</sup> Die Gemeinden werden nach ihrer Finanzkraft in verschiedene Finanzkraftgruppen eingeteilt, die der Grosse Rat bestimmt. Die Regierung teilt alle zwei Jahre die Gemeinden den einzelnen Finanzkraftgruppen zu. Gegen den Entscheid der Regierung ist kein ordentliches kantonales Rechtsmittel zulässig.
+<sup>2</sup> Es werden nur Berechnungen korrigiert, deren Fehlerhaftigkeit innerhalb von sechs Monaten, nachdem die Berechnungen formell beschlossen worden sind, festgestellt werden.
 
-#### Art. 22
+#### Art. 16
 
-**Berechnungsgrundlagen**
+**Wirksamkeitsanalyse**
 
-<sup>1</sup> Für die Ermittlung der Finanzkraft werden folgende Masszahlen berücksichtigt:
+<sup>1</sup> Die Regierung nimmt periodisch eine umfassende Prüfung des Vollzugs und der Wirksamkeit des Ressourcen- und Lastenausgleichs sowie der Entwicklung der Gemeindezusammenschlüsse vor.
 
-- a) die Steuerkraft, die sich ergibt aus dem Ertrag
-  - aa) der Einkommens- und Vermögenssteuer der natürlichen Personen und der Gewinn- und Kapitalsteuer der juristischen Personen zum kantonalen Ansatz;
-  - bb) der Netto-Wasserzinsen zu 25 Prozent;
-  - cc) der Abgeltungsleistungen für Einbussen der Wasserkraftnutzung zu 25 Prozent;
-- b) die Steuerbelastung gemessen am Gemeindesteuerfuss in Prozenten der einfachen Kantonssteuer;
-- c) der Finanzbedarf, der sich ableitet aus
-  - aa) einem Grundbedarf;
-  - bb) der Schülerzahl;
-  - cc) der Fläche.
+<sup>2</sup> Sie orientiert den Grossen Rat in geeigneter Form über die Ergebnisse und beantragt bei Bedarf Massnahmen zur Verbesserung des Ressourcen- und Lastenausgleichs.
 
-#### Art. 23
+## 6. Schlussbestimmungen
 
-**Ausnahmen**
+#### Art. 17
 
-<sup>1</sup> Die Regierung kann in Abweichung der vorstehenden Bestimmungen eine Gemeinde einer anderen Gruppe zuweisen, wenn besondere Verhältnisse oder ihre allgemeine finanzielle Lage dies erfordern. Gegen den Entscheid der Regierung ist kein ordentliches kantonales Rechtsmittel zulässig.
+**Aufhebung und Änderung von Erlassen[^17-1]**
 
-## 3. Übergangs- und Schlussbestimmungen
+[^17-1]: Änderungen und Aufhebungen bisherigen Rechts werden nicht aufgeführt.
 
-#### Art. 24
-
-**Vollzug**
-
-<sup>1</sup> Der Grosse Rat erlässt eine Vollziehungsverordnung[^24-1].
-
-[^24-1]: BR [730.210](https://www.gr-lex.gr.ch/data/730.210/de)
-
-#### Art. 25
-
-**Ersatzbeschaffung**
-
-<sup>1</sup> Wurde bei einer Ersatzbeschaffung das Anlageobjekt vor Inkrafttreten dieses Gesetzes veräussert, das Ersatzobjekt jedoch erst nach Inkrafttreten des Gesetzes beschafft, findet dieses Gesetz Anwendung.
-
-#### Art. 26
-
-**Einmalige Fondseinlage**
-
-<sup>1</sup> Dem Finanzausgleichsfonds werden einmalig kantonale Mittel im Umfang von 220 Millionen Franken zugewiesen. Diese Mittel dienen der Finanzierung von Gemeindezusammenschlüssen sowie von Projekten zur Neugestaltung des Finanzausgleichs. Der Grosse Rat gewährt den erforderlichen Kredit in eigener Kompetenz.
-
-#### Art. 27
+#### Art. 18
 
 **…**
 
-#### Art. 28
+#### Art. 19
+
+**…**
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+#### Art. 22
+
+**…**
+
+#### Art. 23
+
+**6. Offene Beitragsverpflichtungen**
+
+<sup>1</sup> Soweit die FA-Reform die Rechtsgrundlage für Investitionsbeiträge an Gemeinden aufhebt, werden Beiträge nur noch für jene Projekte zugesichert und ausgerichtet, für welche ein den Vorgaben des zuständigen Amtes entsprechendes Beitragsgesuch vor Inkrafttreten dieses Gesetzes eingereicht wurde und die Abrechnungen für die realisierten Investitionen bis spätestens Ende 2019 unterbreitet werden. Ansprüche aus Beitragszusicherungen für öffentliche Werke im Zusammenhang mit Gemeindezusammenschlüssen werden uneingeschränkt abgegolten.
+
+#### Art. 24
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt am 1. Januar 1994 in Kraft. Es ersetzt das Gesetz vom 12. März 1967[^28-1].
+<sup>1</sup> Die Regierung bestimmt den Zeitpunkt des Inkrafttretens[^24-1] dieses Gesetzes. Sie kann Artikel 17 Absatz 2 rückwirkend, frühestens auf den 1. Januar 2014, in Kraft setzen.
 
-[^28-1]: AGS 1967, 314 und Änderungen gemäss Sachwortregister Bündner Rechtsbuch
+[^24-1]: Mit RB vom 18. November 2014 mit Ausnahme von Artikel 17 Absatz 2 auf den 1. Januar 2016 in Kraft gesetzt. Artikel 17 Absatz 2 tritt am 1. Januar 2015 in Kraft.
 
--
+2014-031

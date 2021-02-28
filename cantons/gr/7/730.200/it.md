@@ -1,307 +1,306 @@
 ---
 canton: GR
 number: "730.200"
-title: Legge sul conguaglio finanziario intercomunale
-short: LCF
+title: Legge sulla perequazione finanziaria nel Cantone dei Grigioni
+short: "Legge sulla perequazione finanziaria, LPFC"
 language: it
-version: 2015-01-01
-corrected: 2015-03-24
-version_adopted: 2014-11-18
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-10-19
 adopted: 2013-12-05
 in_force: 2016-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/730.200"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3145/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sul conguaglio finanziario intercomunale
+# Legge sulla perequazione finanziaria nel Cantone dei Grigioni
 
-(LCF)
+(Legge sulla perequazione finanziaria, LPFC)
 
-del 26.09.1993 (stato 01.01.2015)
+del 05.12.2013 (stato 01.03.2021)
 
-accettata dal Popolo il 26 settembre 1993[^ingress-1]
+Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
-[^ingress-1]: M del 16 nov. 1992; 663; PGC 1992/93, 859
+visti l'art. 31 cpv. 1 e l'art. 96 della Costituzione cantonale[^ingress-2],
+
+visto il messaggio del Governo del 20 agosto 2013[^ingress-3],
+
+decide:
+
+[^ingress-1]: PGC 2013/2014, 340
+[^ingress-2]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
+[^ingress-3]: pagina 211
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
-**Scopo**
+**Oggetto**
 
-<sup>1</sup> La presente legge ha lo scopo di attenuare le differenze nella capacità finanziaria dei comuni,
+<sup>1</sup> La presente legge disciplina la perequazione finanziaria per i comuni. Essa comprende la perequazione delle risorse, la perequazione dell'aggravio geotopografico e degli oneri scolastici, la perequazione degli oneri in ambito sociale, nonché la compensazione individuale dei casi di rigore per oneri speciali.
 
-- a) disciplinando il finanziamento e il versamento di determinati contributi a comuni a debole capacità finanziaria (conguaglio diretto);
-- b) creando i presupposti per graduare le prestazioni del Cantone e dei comuni secondo la loro capacità finanziaria (conguaglio finanziario indiretto).
+<sup>2</sup> Essa disciplina inoltre:
 
-## 1. Conguaglio finanziario diretto
-
-### 1.1. Acquisizione dei mezzi
+- a) i contributi per la promozione di aggregazioni di comuni;
+- b) l'esecuzione e l'analisi dell'efficacia della perequazione finanziaria.
+- c) …
 
 #### Art. 2
 
-**Finanziamento speciale conguaglio finanziario**
+**Obiettivi**
 
-<sup>1</sup> Per finanziare il conguaglio finanziario diretto viene tenuto un finanziamento speciale ai sensi delle disposizioni della legislazione sulla gestione finanziaria.
+<sup>1</sup> La perequazione finanziaria mira a:
 
-<sup>2</sup> Gli anticipi al finanziamento speciale dai mezzi generali dello Stato sono ammessi soltanto temporaneamente, al massimo fino all'ammontare dell'ultimo contributo cantonale.
+- a) rafforzare l'indipendenza finanziaria dei comuni;
+- b) ridurre le disparità tra i comuni per quanto riguarda la capacità finanziaria e il carico fiscale;
+- c) garantire ai comuni una dotazione di base di risorse finanziarie;
+- d) attenuare gli oneri finanziari eccessivi dei comuni dovuti alla loro struttura d'insediamento, topografia e quota di allievi o dovuti all'aiuto sociale materiale;
+- e) evitare casi di rigore dovuti a oneri straordinari di singoli comuni.
+
+## 2. Perequazione delle risorse
 
 #### Art. 3
 
-**Finanziamento**
+**Principi**
 
-<sup>1</sup> Al finanziamento speciale vengono assegnati i seguenti mezzi:
+<sup>1</sup> La perequazione delle risorse coinvolge tutti i comuni e si concentra sulla riduzione delle differenze nella dotazione di mezzi. Essa garantisce ai comuni un importo di base di risorse finanziarie di cui disporre liberamente.
 
-- a) …
-- b) …
-- c) una quota comunale di solidarietà pari al 6 per cento del canone d'acqua annuo spettante ai comuni secondo le norme legali rispettivamente i contratti sulle concessioni e delle loro tasse annuali di concessione per le stazioni di pompaggio;
-- d) …
-- e) …
+<sup>2</sup> La capacità economica del comune viene calcolata in base al potenziale di risorse per persona determinante (risorse determinanti) e presentata sotto forma di un indice delle risorse.
 
-<sup>2</sup> …
-
-<sup>3</sup> …
+<sup>3</sup> Il numero di persone determinanti si basa sulla popolazione residente permanente secondo la Statistica della popolazione della Confederazione (STATPOP), nonché sul totale dei contribuenti secondo i dati fiscali dell'Amministrazione cantonale delle imposte. Se il totale dei contribuenti supera il numero di abitanti della popolazione residente permanente, il 20 per cento della parte eccedente viene aggiunto alle persone determinanti.
 
 #### Art. 4
 
-**Imposta supplementare**
+**Potenziale di risorse**
 
-<sup>1</sup> Il Cantone riscuote per i comuni un'imposta supplementare sulla base dell'imposta cantonale sull'utile e sul capitale.
+<sup>1</sup> Il potenziale di risorse di un comune corrisponde alle sue risorse utilizzabili fiscalmente, nonché ai suoi ricavi da canoni d'acqua.
 
-<sup>2</sup> Se la presente legge non contiene regolamentazioni divergenti, vengono applicate per analogia le disposizioni della legge sulle imposte[^4-1] valida in quel momento.
+<sup>2</sup> Esso è calcolato sulla base:
 
-<sup>3</sup> L'esecuzione dell'imposta supplementare compete all'Amministrazione cantonale delle imposte.
+- a) delle imposte sul reddito e sulla sostanza incluse le imposte sul plusvalore da liquidazione e sul dispendio delle persone fisiche secondo l'imposta cantonale semplice al 100 per cento nonché delle imposte alla fonte secondo il tasso fiscale stabilito dal Gran Consiglio;
+- b) delle imposte sugli utili e sul capitale delle persone giuridiche secondo il tasso fiscale stabilito dal Gran Consiglio;
+- c) …
+- d) dei valori fiscali degli immobili al massimo all'1,5 per mille; nonché
+- e) dei canoni d'acqua netti, compresi gli indennizzi per le perdite nell'utilizzazione delle forze idriche.
 
-[^4-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
+<sup>3</sup> La media del potenziale di risorse per persona determinante di tutti i comuni corrisponde al valore dell'indice di 100 punti. I comuni con un valore dell'indice superiore ai 100 punti sono considerati finanziariamente forti. I comuni con un valore dell'indice inferiore ai 100 punti sono considerati finanziariamente deboli.
+
+<sup>4</sup> Se un comune finanziariamente debole riceve ogni anno ricavi da concessioni ricorrenti pari a oltre il 50 per cento del potenziale di risorse, questi ricavi vengono considerati fino a un valore dell'indice di 100 punti.
+
+<sup>5</sup> Il calcolo del potenziale di risorse, nonché dell'indice delle risorse avviene annualmente in base alla media degli ultimi due anni disponibili, compresi i riporti dagli anni precedenti.
 
 #### Art. 5
 
-**Soggetto d'imposta**
+**Finanziamento**
 
-<sup>1</sup> Sono soggette all'obbligo fiscale:
+<sup>1</sup> La perequazione delle risorse viene finanziata dal Cantone e dai comuni finanziariamente forti.
 
-- a) le persone giuridiche sottoposte all'obbligo fiscale secondo la legge cantonale sulle imposte;
-- b) i fondi d'investimento con possesso fondiario diretto;
-- c) …
-- d) i comuni, circoli e i loro stabilimenti nonché le corporazioni di comuni per le attività imprenditoriali esercitate fuori dal proprio comprensorio.
+<sup>2</sup> I comuni finanziariamente forti versano un contributo annuo compreso tra il 15 e il 20 per cento della quota alle proprie risorse determinanti che supera la media per persona determinante di tutti i comuni (valore dell'indice di 100 punti). Per le risorse che superano il valore dell'indice di 200 punti, l'aliquota contributiva viene aumentata come segue:
+
+- a) fino al valore dell'indice di 250 punti: + 5 punti percentuali;
+- b) fino al valore dell'indice di 300 punti: + 10 punti percentuali;
+- c) a partire dal valore dell'indice di 300 punti: + 15 punti percentuali.
+
+<sup>3</sup> Il Cantone versa la differenza tra il volume complessivo necessario alla perequazione delle risorse e il contributo dei comuni finanziariamente forti.
 
 #### Art. 6
 
-**Calcolo dell'imposta**
+**Dotazione**
 
-<sup>1</sup> L'imposta supplementare viene riscossa in per cento dell'imposta cantonale semplice.
+<sup>1</sup> Tutti i comuni finanziariamente deboli ricevono dei contributi di compensazione.
 
-<sup>2</sup> Le persone giuridiche sottoposte all'obbligo fiscale secondo l'articolo 5 lettera d), devono tenere una contabilità separata determinante anche per la fissazione del tasso. Se vengono gestiti più esercizi il computo fiscale avviene in base al tasso totale. Le disposizioni relative alla legge cantonale sulle imposte vengono applicate per analogia.
+<sup>2</sup> Il contributo per persona determinante aumenta progressivamente con l'aumento della differenza tra il proprio potenziale di risorse e quello secondo la media cantonale. Ciò non deve modificare la graduatoria dei comuni. È fatta salva la dotazione minima conformemente al capoverso 3.
 
-<sup>3</sup>
+<sup>3</sup> Insieme alle proprie risorse determinanti per persona determinante, a ogni comune viene garantita una dotazione di almeno il 65 per cento della media cantonale.
+
+## 3. Compensazione degli oneri
 
 #### Art. 7
 
-**Tasso d'imposta**
+**Perequazione dell'aggravio geotopografico e degli oneri scolastici**
 
-<sup>1</sup> Il Gran Consiglio stabilisce contemporaneamente al tasso fiscale per l'imposta cantonale il tasso fiscale per l'imposta supplementare.
+<sup>1</sup> Il Cantone concede una perequazione ai comuni gravati eccessivamente in seguito alla loro struttura d'insediamento, alla loro situazione geotopografica, nonché alla loro quota di allievi.
 
-<sup>2</sup> Il tasso d'imposta può essere superiore o inferiore fino al massimo del 10 per cento alla media dell'anno precedente dei tassi d'imposta dei comuni con oltre 2000 abitanti e di un ugual numero di comuni con il maggior numero di persone giuridiche soggette all'imposta supplementare stessa.
+<sup>2</sup> La perequazione viene calcolata secondo i tre seguenti parametri:
 
-<sup>3</sup> Fa stato il tasso d'imposta valido alla fine del periodo fiscale.
+- a) numero di abitanti in insediamenti sparsi e densità della popolazione in base alla superficie produttiva per abitante (struttura d'insediamento);
+- b) lunghezza delle strade comunali e delle strade cantonali all'interno dell'abitato per abitante ponderata secondo categorie di costi (lunghezza delle strade);
+- c) numero di allievi per abitante (quota di allievi).
+
+<sup>3</sup> I parametri vengono convertiti ciascuno in un indice e posti su di una base paragonabile. L'indice globale corrisponde alla media aritmetica dei tre parametri.
+
+<sup>4</sup> La distribuzione dei mezzi tra i comuni avviene in considerazione di una quota di al massimo il 10 per cento del potenziale di risorse conformemente all'articolo 4.
+
+<sup>5</sup> …
+
+<sup>6</sup> Per comuni che si aggregano il Governo può garantire contributi di perequazione al livello attuale per un periodo transitorio di al massimo 10 anni.
 
 #### Art. 8
 
-**Quote comunali**
+**Compensazione degli oneri in ambito sociale**
 
-<sup>1</sup> L'imposta supplementare viene ripartita trai comuni aventi diritto all'imposta ai sensi delle regole di separazione del diritto intercantonale sulla doppia imposizione.
+<sup>1</sup> Il Cantone accorda una perequazione ai comuni gravati eccessivamente nell'ambito dell'aiuto sociale materiale.
 
-<sup>2</sup> …
+<sup>2</sup> La perequazione viene calcolata secondo le spese nette dei comuni in base alle prestazioni conformemente a:
 
-<sup>3</sup> …
+- a) legge sull'aiuto agli indigenti[^8-1];
+- b) ordinanza sull'anticipo di contributi per il mantenimento di figli aventi diritto al mantenimento[^8-2].
+
+<sup>3</sup> Tra le spese nette rientrano le prestazioni che i comuni sono tenuti a fornire per legge, dedotte le entrate da rimborsi, dall'obbligo di sostegno tra parenti e da prestazioni assicurative. Per le spese nette il Governo può fissare dei costi standard.
+
+<sup>4</sup> Per la perequazione è determinante il rapporto tra spese nette e potenziale di risorse del comune. La perequazione ammonta in per cento del potenziale di risorse:
+
+- a) fino al 3 per cento del potenziale di risorse: 0 per cento;
+- b) dal 3 al 4,5 per cento del potenziale di risorse: 20 per cento;
+- c) dal 4,5 al 6 per cento del potenziale di risorse: 40 per cento;
+- d) dal 6 al 7,5 per cento del potenziale di risorse: 60 per cento;
+- e) dal 7,5 al 9 per cento del potenziale di risorse: 80 per cento;
+- f) dal 9 per cento del potenziale di risorse: 100 per cento.
+
+<sup>5</sup> Il Governo aumenta di un punto percentuale le singole soglie di perequazione conformemente al capoverso 4, se il totale degli abitanti nei comuni che beneficiano della perequazione supera il 50 per cento del numero degli abitanti del Cantone.
+
+<sup>6</sup> Le spese nette vengono fissate e compensate nell'anno successivo su domanda dei comuni.
+
+<sup>7</sup> I comuni sono tenuti a rimborsare contributi ingiustificati. Il rimborso deve essere richiesto entro tre anni dalla decisione ordinaria in merito alla perequazione degli oneri in ambito sociale.
+
+[^8-1]: CSC [546.250](https://www.gr-lex.gr.ch/data/546.250/it)
+[^8-2]: CSC [215.050](https://www.gr-lex.gr.ch/data/215.050/it)
 
 #### Art. 9
 
-**…**
+**Compensazione individuale dei casi di rigore per oneri speciali**
+
+<sup>1</sup> Il Governo può concedere un contributo speciale a un comune se esso dimostra che, a causa di condizioni o avvenimenti straordinari, è gravato in modo eccessivo. Il contributo di compensazione presuppone che l'aggravio non possa venire influenzato dal comune, che non venga considerato nella compensazione degli oneri e che non possa venire compensato con riduzioni degli oneri.
+
+<sup>2</sup> Un onere speciale è dato se sono cumulativamente soddisfatte le fattispecie seguenti:
+
+- a) l'onere netto pro capite nella corrispondente categoria di uscite è eccessivo rispetto all'aggravio medio di tutti i comuni;
+- b) l'aggravio straordinario supera il 5 per cento del proprio potenziale di risorse;
+- c) l'onere eccessivo conformemente alle lettere a e b porta a un disturbo a lungo termine della gestione finanziaria.
+
+<sup>3</sup> Il comune deve sfruttare in misura ragionevole le sue possibilità di autoaiuto. Vi rientrano in particolare misure volte allo sfruttamento del potenziale di reddito, alla limitazione delle uscite e all'adeguamento strutturale, la riscossione di un tasso fiscale di almeno il 100 per cento dell'imposta cantonale semplice, nonché la riscossione di tasse causali ad aliquote in grado di coprire i costi a lungo termine.
+
+## 4. Raccolta, dotazione e distribuzione dei mezzi
 
 #### Art. 10
 
-**Sostituzione di beni**
+**Finanziamento speciale perequazione finanziaria**
 
-<sup>1</sup> Se dopo l'entrata in vigore della presente legge vengono trasferite delle riserve tacite in un altro comune mediante una sostituzione intercomunale di beni e se esse vengono successivamente realizzate, il primo comune ha diritto all'imposta supplementare.
+<sup>1</sup> Per finanziare ed eseguire la perequazione delle risorse e la compensazione degli oneri, nonché i contributi per la promozione delle aggregazioni di comuni viene tenuto un finanziamento speciale conformemente alle disposizioni della legislazione cantonale sulla gestione finanziaria[^10-1].
 
-<sup>2</sup> L'ammontare del diritto viene calcolato in base alla riserve tacite trasferite nell'altro comune, per quanto quest'ultime vengano effettivamente realizzate.
+<sup>2</sup> Il finanziamento speciale viene alimentato con contributi dei comuni finanziariamente forti conformemente all'articolo 5 capoverso 2, nonché con mezzi statali generali del Cantone. I mezzi cantonali ammontano almeno al 150 e al massimo al 250 per cento dei contributi dei comuni.
+
+<sup>3</sup> In caso di sostanza mancante del finanziamento speciale, anticipi da mezzi statali generali sono ammessi solo temporaneamente e al massimo per l'ammontare dell'ultima attribuzione di mezzi.
+
+[^10-1]: CSC [710.100](https://www.gr-lex.gr.ch/data/710.100/it) e CSC [710.110](https://www.gr-lex.gr.ch/data/710.110/it)
 
 #### Art. 11
 
-**…**
+**Dotazione dei mezzi**
+
+<sup>1</sup> Il Gran Consiglio stabilisce annualmente nel quadro del preventivo le cifre seguenti:
+
+- a) l'aliquota di contribuzione per il finanziamento della perequazione delle risorse da parte dei comuni finanziariamente forti conformemente all'articolo 5 capoverso 2;
+- b) la percentuale per la dotazione minima dei comuni finanziariamente deboli conformemente all'articolo 6 capoverso 3;
+- c) il volume complessivo per la perequazione dell'aggravio geotopografico e degli oneri scolastici conformemente all'articolo 7. Esso varia tra il 70 e il 100 per cento dei mezzi per la perequazione delle risorse;
+- d) il volume complessivo per la compensazione individuale dei casi di rigore per oneri speciali conformemente all'articolo 9.
 
 #### Art. 12
 
-**Pagamenti**
+**Distribuzione dei mezzi**
 
-<sup>1</sup> Il Gran Consiglio disciplina i particolari concernenti l'accredito e l'addebito delle quote comunali.
+<sup>1</sup> Il Governo stabilisce la distribuzione dei contributi tra i comuni per la perequazione delle risorse, la perequazione dell'aggravio geotopografico e degli oneri scolastici e la compensazione individuale dei casi di rigore per oneri speciali. La sua decisione è definitiva.
+
+<sup>2</sup> I calcoli si fondano sui parametri più recenti a disposizione.
+
+<sup>3</sup> I contributi della perequazione delle risorse nonché della perequazione dell'aggravio geotopografico e degli oneri scolastici vengono versati ai comuni senza vincolo di destinazione.
 
 #### Art. 13
 
-**Tassa di riscossione**
+**Versamenti rateali**
 
-<sup>1</sup> Per il suo lavoro di tassazione, riscossione e conteggio dell'imposta supplementare il Cantone preleva una tassa pari al due per cento delle quote fiscali dei comuni.
+<sup>1</sup> Il Cantone versa ai comuni i contributi per la perequazione delle risorse e per la perequazione dell'aggravio geotopografico e degli oneri scolastici in giugno e in dicembre in due rate di pari importo.
+
+<sup>2</sup> Anche i comuni finanziariamente forti devono versare i loro contributi alla perequazione delle risorse in giugno e in dicembre con due rate di pari importo.
 
 #### Art. 14
-
-**Procedura**
-
-<sup>1</sup> Le quote fiscali vengono notificate al comune in conteggi periodici. Se il comune non è d'accordo con il conteggio, può richiedere entro 30 giorni una decisione formale.
-
-<sup>2</sup> Se un comune richiede quote parti fiscale sulla base dell'articolo 5 lettera d), esso deve fare valere il suo diritto entro un anno dal decorso del rispettivo anno fiscale. L'autorità di tassazione emana una decisione d'accertamento ai sensi dell'articolo 136 della legge cantonale sulle imposte[^14-1] che può essere contestata anche dal comune avente diritto.
-
-<sup>3</sup> Le decisioni giusta il capoverso 1 o 2 sono parificate a una decisione di tassazione ai sensi della legge cantonale sulle imposte.[^14-2]
-
-<sup>4</sup> Al comune viene concesso di consultare gli atti fiscali.
-
-[^14-1]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
-[^14-2]: CSC [720.000](https://www.gr-lex.gr.ch/data/720.000/it)
-
-### 1.2. Impiego dei mezzi
-
-#### Art. 15
-
-**Principio**
-
-<sup>1</sup> I mezzi a disposizione per il conguaglio finanziario devono essere impiegati per contributi di conguaglio a favore di comuni a debole capacità finanziaria e per contributi destinati alla promozione di aggregazioni di comuni.
-
-<sup>2</sup> I contributi di conguaglio a favore di comuni vengono impiegati:
-
-- a) per il conguaglio della capacità fiscale
-- b) per contributi a opere pubbliche
-- c) per il conguaglio del fabbisogno straordinario
-
-<sup>3</sup> Il Governo decide in via definitiva sulla garanzia rispettivamente sul rifiuto di contributi ai quali non esiste un diritto legale.
-
-#### Art. 16
-
-**Conguaglio della capacità fiscale**
-
-<sup>1</sup> I comuni a debole capacità finanziaria con una capacità fiscale relativa inferiore alla media cantonale ricevono contributi dal finanziamento speciale, per avvicinare alla media la loro efficienza.
-
-<sup>2</sup> Il conguaglio della capacità fiscale relativa avviene gradualmente con un contributo base e un contributo sotto il titolo di dotazione minima.
-
-<sup>3</sup> In una prima fase il contributo base compensa la mancata capacità fiscale relativa fino a un'aliquota di compensazione compresa tra il 60 e il 65 per cento della media cantonale.
-
-<sup>4</sup> In una seconda fase la dotazione minima compensa la capacità fiscale relativa fino a un'aliquota di compensazione tra il 75 e il 100 per cento della media cantonale. Hanno diritto a contributo i comuni con un tasso d'imposta di almeno il 120 per cento dell'imposta cantonale semplice. La dotazione minima viene limitata a 1000 abitanti e per i comuni con meno di 1000 abitanti viene ridotta al massimo della metà.
-
-<sup>5</sup> Il Governo stabilisce ogni anno le aliquote di compensazione.
-
-<sup>6</sup> Nel quadro di aggregazioni di comuni, il Governo può ridurre il tasso d'imposta richiesto per la dotazione minima al 90 per cento dell'imposta cantonale semplice per un periodo transitorio di al massimo 15 anni e stabilire caso per caso il limite di abitanti, nonché la riduzione dei contributi.
-
-#### Art. 17
-
-**Capacità fiscale**
-
-<sup>1</sup> La capacità fiscale risulta dal gettito delle imposte sul reddito e sulla sostanza delle persone fisiche e delle imposte sull'utile e sul capitale delle persone giuridiche sulla base del tasso cantonale e dei canoni d'acqua netti.
-
-<sup>2</sup> La capacità fiscale relativa corrisponde alla capacità fiscale di ciascun abitante del comune.
-
-<sup>3</sup> La media cantonale corrisponde alla capacità fiscale relativa di tutti i comuni.
-
-#### Art. 18
-
-**Contributi a opere pubbliche**
-
-<sup>1</sup> I comuni a debole capacità finanziaria ricevono dei contributi per le opere pubbliche, se essi non possono coprire le spese d'investimento necessarie, nonostante prestazioni proprie accettabili e un eventuale conguaglio della capacità fiscale.
-
-<sup>2</sup> Hanno diritto a contributo i comuni che applicano un tasso d'imposta pari almeno al 120 per cento dell'imposta cantonale semplice e sfruttano le rimanenti fonti di finanziamento in una minima misura da stabilirsi da parte del Governo.
-
-<sup>3</sup> Su richiesta il Governo esamina se un comune ha diritto a contributi per le opere pubbliche. Esso può determinare altre condizioni e oneri e limitare il diritto a contributi per singole opere.
-
-<sup>4</sup> Il Gran Consiglio designa le opere pubbliche, disciplina il genere e il volume dei costi computabili e stabilisce l'ammontare dei contributi e della franchigia.
-
-#### Art. 19
-
-**Conguaglio del fabbisogno straordinario**
-
-<sup>1</sup> Il Governo su richiesta può concedere ulteriori contributi a comuni a debole capacità finanziaria, i quali da soli non possono mantenere in equilibrio la propria gestione finanziaria, nonostante un eventuale conguaglio della capacità fiscale e contributi a opere pubbliche.
-
-<sup>2</sup> …
-
-#### Art. 19a
 
 **Contributi per la promozione di aggregazioni di comuni**
 
 <sup>1</sup> I comuni che si aggregano ricevono contributi promozionali.
 
-<sup>2</sup> Tali contributi possono venire versati anche a progetti e studi.
+<sup>2</sup> I contributi promozionali possono venire versati anche a progetti e studi.
 
 <sup>3</sup> Il Governo stabilisce i criteri e l'ammontare dei contributi promozionali.
 
 <sup>4</sup> Il Gran Consiglio decide di propria competenza i crediti necessari.
 
-#### Art. 20
+## 5. Prescrizioni esecutive
 
-**Versamento dei contributi**
+#### Art. 15
 
-<sup>1</sup> I contributi di conguaglio finanziario vengono versati di regola una volta all'anno.
+**Obbligo di collaborazione**
 
-<sup>2</sup> Il Governo disciplina i particolari.
+<sup>1</sup> I servizi cantonali e i comuni partecipano alla preparazione dei dati di base necessari per l'esecuzione della presente legge.
 
-## 2. Conguaglio finanziario indiretto
+#### Art. 15a
 
-#### Art. 21
+**Calcoli errati**
 
-**Gruppi di capacità finanziaria**
+<sup>1</sup> Un calcolo errato della perequazione delle risorse nonché della perequazione dell'aggravio geotopografico e degli oneri scolastici viene corretto a posteriori soltanto se per più di un decimo dei comuni viene accertato uno scostamento superiore all'uno per cento dei corrispondenti contributi.
 
-<sup>1</sup> I comuni vengono suddivisi secondo la loro capacità finanziaria in diversi gruppi fissati dal Gran Consiglio. Ogni due anni il Governo assegna i comuni ai singoli gruppi di capacità finanziaria. Contro la decisione del Governo non è ammesso alcun rimedio giuridico cantonale ordinario.
+<sup>2</sup> Vengono corretti soltanto i calcoli che risultano errati entro sei mesi dalla decisione formale dei calcoli.
 
-#### Art. 22
+#### Art. 16
 
-**Basi di calcolo**
+**Analisi dell'efficacia**
 
-<sup>1</sup> Per determinare la capacità finanziaria si tiene conto dei seguenti dati indicativi:
+<sup>1</sup> Il Governo esegue periodicamente una verifica completa dell'esecuzione e dell'efficacia della perequazione delle risorse e della compensazione degli oneri, nonché dello sviluppo delle aggregazioni di comuni.
 
-- a) della capacità fiscale risultante dal gettito
-  - aa) delle imposte sul reddito e sulla sostanza delle persone fisiche e delle imposte sull'utile e sul capitale delle persone giuridiche sulla base del tasso cantonale;
-  - bb) dei canoni d'acqua netti sulla base del 25 per cento;
-  - cc) delle prestazioni d'indennità per le perdite dell'utilizzazione delle forze idriche sulla base del 25 per cento;
-- b) dell'onere fiscale calcolato sulla base del tasso comunale d'imposta in percentuale dell'imposta cantonale semplice;
-- c) del fabbisogno finanziario che scaturisce
-  - aa) da un fabbisogno base;
-  - bb) dal numero di allieve e allievi;
-  - cc) dalla superficie.
+<sup>2</sup> Esso informa il Gran Consiglio in forma adeguata in merito ai risultati e, se necessario, chiede delle misure per migliorare la perequazione delle risorse e la compensazione degli oneri.
 
-#### Art. 23
+## 6. Disposizioni finali
 
-**Esecuzioni**
+#### Art. 17
 
-<sup>1</sup> In deroga alle disposizioni di cui sopra il Governo può assegnare un comune a un altro gruppo, se condizioni particolari oppure la sua situazione finanziaria generale lo richiedono. Contro la decisione del Governo non è ammesso alcun rimedio giuridico cantonale ordinario.
+**Abrogazione e modifica di atti normativi[^17-1]**
 
-## 3. Disposizioni transitorie e finali
+[^17-1]: Le modifiche del diritto previgente non vengono indicate.
 
-#### Art. 24
-
-**Esecuzione**
-
-<sup>1</sup> Il Gran Consiglio emana un'ordinanza d'esecuzione.[^24-1]
-
-[^24-1]: CSC [730.210](https://www.gr-lex.gr.ch/data/730.210/it)
-
-#### Art. 25
-
-**Sostituzione di beni**
-
-<sup>1</sup> Se in caso di una sostituzione di beni l'oggetto d'investimento è stato alienato prima dell'entrata in vigore della presente legge e l'oggetto sostitutivo acquistato tuttavia solo dopo l'entrata in vigore della legge, viene applicata la presente legge.
-
-#### Art. 26
-
-**Assegnazione unica al fondo**
-
-<sup>1</sup> Al fondo di conguaglio finanziario viene attribuita un'assegnazione unica di mezzi cantonali pari a 220 milioni di franchi. Questi mezzi servono al finanziamento di aggregazioni di comuni, nonché di progetti per la nuova impostazione della perequazione finanziaria. Il Gran Consiglio concede di propria competenza il credito necessario.
-
-#### Art. 27
+#### Art. 18
 
 **…**
 
-#### Art. 28
+#### Art. 19
+
+**…**
+
+#### Art. 20
+
+**…**
+
+#### Art. 21
+
+**…**
+
+#### Art. 22
+
+**…**
+
+#### Art. 23
+
+**6. Impegni contributivi in sospeso**
+
+<sup>1</sup> Se la riforma PF abroga la base giuridica per i sussidi agli investimenti a favore di comuni, i contributi vengono garantiti e versati solo per i progetti per i quali una domanda di sussidio corrispondente alle direttive dell'Ufficio è stata presentata prima dell'entrata in vigore della presente disposizione e per i quali i conteggi degli investimenti realizzati saranno presentati al più tardi entro la fine del 2019. Diritti derivanti da garanzie di sussidio per opere pubbliche in relazione ad aggregazioni di comuni vengono indennizzati senza limitazioni.
+
+#### Art. 24
 
 **Entrata in vigore**
 
-<sup>1</sup> La presente legge entra in vigore il 1° gennaio 1994. Essa sostituisce la legge del 12 marzo 1967.[^28-1]
+<sup>1</sup> Il Governo stabilisce la data dell'entrata in vigore[^24-1] della presente legge. Esso può porre in vigore retroattivamente l'articolo 17 capoverso 2, al più presto con effetto al 1° gennaio 2014.
 
-[^28-1]: RC 1967, 314 e modifiche giusta l'indice alfabetico della CSC
+[^24-1]: Posta in vigore il 1° gennaio 2016 con DG del 18 novembre 2014 ad eccezione dell'articolo 17 capoverso 2. L'articolo 17 capoverso 2 entra in vigore il 1° gennaio 2015.
 
--
+2014-031
