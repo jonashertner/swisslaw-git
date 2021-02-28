@@ -4,11 +4,11 @@ title: Verordnung vom 1. Oktober 1984 über den Erwerb von Grundstücken durch P
 short: BewV
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: de
-version: 2008-01-01
+version: 2021-03-01
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20080101/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20080101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20080101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20080101/de"
 
 (BewV)
 
-vom 1. Oktober 1984 (Stand am 1. Januar 2008)
+vom 1. Oktober 1984 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -49,7 +49,7 @@ Als andere Rechte, die dem Erwerber eine ähnliche Stellung wie dem Eigentümer 
 - b. die Finanzierung des Kaufes oder der Überbauung eines Grundstückes, wenn die Abreden, die Höhe der Kredite oder die Vermögensverhältnisse des Schuldners den Käufer oder Bauherrn in eine besondere Abhängigkeit vom Gläubiger bringen;
 - c. die Begründung von Bauverboten und ähnlichen Eigentumsbeschränkungen mit dinglicher oder obligatorischer Wirkung, welche ein Nachbargrundstück betreffen.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^1-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^1-2]: Fassung gemäss Anhang Ziff. 3 der Handelsregisterverordnung vom 21. April 2004, in Kraft seit 1. Juli 2004 ([AS 2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)).
 [^1-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-4]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
@@ -58,20 +58,27 @@ Als andere Rechte, die dem Erwerber eine ähnliche Stellung wie dem Eigentümer 
 
 **Personen im Ausland**[^2-1]
 
-<sup>1</sup> Staatsangehörige der Mitgliedstaaten der Europäischen Gemeinschaft (EG) und der Europäischen Freihandelsassoziation (EFTA) gelten nicht als Personen im Ausland, wenn sie in der Schweiz Wohnsitz nach den Artikeln 23, 24 Absatz 1, 25 und 26 des Zivilgesetzbuches[^2-2] (ZGB) haben (Art. 5 Abs. 1 Bst. a BewG).
+<sup>1</sup>
 
-<sup>2</sup> Die Rechtmässigkeit des Wohnsitzes setzt ausserdem eine gültige Kurzaufenthalts‑, Aufenthalts‑ oder Niederlassungsbewilligung EG-EFTA (Art. 4 Abs. 1 und Art. 5 der V vom 23. Mai 2001[^2-3] über die Einführung des freien Personenverkehrs; VEP) zur Wohnsitznahme voraus.
+Nicht als Personen im Ausland gelten die folgenden Personen, sofern sie ihren Wohnsitz nach den Artikeln 23, 24 Absatz 1, 25 und 26 des Zivilgesetzbuchs (ZGB)[^2-2] in der Schweiz haben:
 
-<sup>3</sup> Als Personen, die nicht das Recht haben, sich in der Schweiz niederzulassen (Art. 5 Abs. 1 Bst. a<sup>bis</sup> BewG), gelten Ausländer ohne gültige Niederlassungsbewilligung (Art. 34 des Ausländer- und Integrationsgesetzes vom 16. Dez. 2005[^2-4] (AIG)[^2-5].[^2-6]
+- a. Staatsangehörige der Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA);
+- b. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirland nach Artikel 5 Absatz 1 Buchstabe a Ziffer 2 BewG.[^2-3]
+
+<sup>2</sup> Die Rechtmässigkeit des Wohnsitzes setzt ausserdem eine gültige Kurzaufenthalts‑, Aufenthalts‑ oder Niederlassungsbewilligung EU-EFTA (Art. 4 Abs. 1 und Art. 5 der V vom 23. Mai 2001[^2-4] über die Einführung des freien Personenverkehrs; VEP) zur Wohnsitznahme voraus.[^2-5]
+
+<sup>3</sup> Als Personen, die nicht das Recht haben, sich in der Schweiz niederzulassen (Art. 5 Abs. 1 Bst. a<sup>bis</sup> BewG), gelten Ausländer ohne gültige Niederlassungsbewilligung (Art. 34 des Ausländer- und Integrationsgesetzes vom 16. Dez. 2005[^2-6] (AIG)[^2-7].[^2-8]
 
 <sup>4</sup> Ausländer, die für ihren rechtmässigen Aufenthalt keiner Bewilligung der Fremdenpolizei bedürfen (Art. 5 Abs. 3), unterliegen der Bewilligungspflicht für den Erwerb von Grundstücken wie Ausländer, die einer Bewilligung der Fremdenpolizei bedürfen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 [^2-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^2-3]: [[AS 2002 1729](https://fedlex.data.admin.ch/eli/oc/2002/260)]. Heute: der V vom 22. Mai 2002 ([SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)).
-[^2-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^2-5]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
-[^2-6]: Fassung gemäss Ziff. I 2 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^2-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^2-5]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-6]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^2-7]: Der Titel wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2019 angepasst. Diese Anpassung wurde im ganzen Text vorgenommen.
+[^2-8]: Fassung gemäss Ziff. I 2 der V vom 24. Okt. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 
 ## 2. Kapitel: Bewilligungs- und Verweigerungsgründe
 
@@ -81,7 +88,7 @@ Als andere Rechte, die dem Erwerber eine ähnliche Stellung wie dem Eigentümer 
 
 Die Verwendung des Grundstückes für die Erstellung oder gewerbsmässige Vermietung von Wohnraum, der nicht zu einem Hotel oder Apparthotel gehört, begründet keine Betriebsstätte im Sinne von Artikel 2 Absatz 2 Buchstabe a BewG.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 #### Art. 4
 
@@ -131,16 +138,19 @@ Eine andere Berechtigung steht zu, wenn im Übrigen die Voraussetzungen des Wohn
 
 <sup>3</sup> Vorbehalten bleiben die nach kantonalem Recht für einen Hotelbetrieb erforderlichen Bewilligungen.
 
-[^7-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^7-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^7-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
 
 #### Art. 8
 
 **Erwerb einer Wohnung durch eine natürliche Person**[^8-1]
 
-Als Erwerb einer Wohnung durch eine natürliche Person (Art. 2 Abs. 2 Bst. b, 7 Bst. j, 8 Abs. 3 sowie 9 Abs. 1 Bst. c und Abs. 2 BewG) gilt der unmittelbare Erwerb auf deren persönlichen Namen und bei Mieteraktiengesellschaften, deren Gründung vor dem 1. Februar 1974 erfolgte, der Erwerb von Anteilen im entsprechenden Umfang.
+Als Erwerb einer Wohnung durch eine natürliche Person (Art. 2 Abs. 2 Bst. b, 7 Bst. j Ziff. 1 und 2, 8 Abs. 3 sowie 9 Abs. 1 Bst. c und Abs. 2 BewG) gilt:
 
-[^8-1]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+- a. der unmittelbare Erwerb auf deren persönlichen Namen;
+- b. bei Mieteraktiengesellschaften, deren Gründung vor dem 1. Februar 1974 erfolgte, der Erwerb von Anteilen im entsprechenden Umfang.
+
+[^8-1]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 
 #### Art. 9
 
@@ -180,7 +190,7 @@ Als Erwerb einer Wohnung durch eine natürliche Person (Art. 2 Abs. 2 Bst. b, 7 
 
 <sup>5</sup> Führt ein Tausch von Wohnungen oder eine Grenzbereinigung dazu, dass die zulässige Fläche überschritten wird, so entfällt die für diesen Erwerb vorgesehene Ausnahme von der Bewilligungspflicht (Art. 7 Bst. d und g BewG); der Grundbuchverwalter verweist in diesem Falle den Erwerber an die Bewilligungsbehörde (Art. 18 Abs. 1 BewG).
 
-[^10-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^10-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1635](https://fedlex.data.admin.ch/eli/oc/2003/255)).
 [^10-3]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
@@ -210,7 +220,7 @@ An die Bewilligungen sind in der Regel mindestens die folgenden, im Grundbuch an
 <sup>5</sup> Die Überprüfung der Einhaltung der Auflagen ist Sache der Bewilligungsbehörde oder, wenn diese nicht handelt, der beschwerdeberechtigten Behörden.
 
 [^11-1]: Fassung gemäss Anhang 2 Ziff. 2 der V vom 28. Juni 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
-[^11-2]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^11-2]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^11-3]: Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 12
@@ -225,13 +235,13 @@ An die Bewilligungen sind in der Regel mindestens die folgenden, im Grundbuch an
 
 <sup>4</sup> Grundsatzbewilligungen, die nicht befristet worden sind, verfallen am 31. Dezember 2000, soweit von ihnen nicht Gebrauch gemacht worden ist.[^12-1]
 
-[^12-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^12-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 #### Art. 13–14
 
 [^1314-1]
 
-[^1314-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^1314-1]: Aufgehoben durch Ziff. I der V vom 10. Sept. 1997, mit Wirkung seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 ## 3. Kapitel: Behörden und Verfahren
 
@@ -251,7 +261,7 @@ Im Übrigen entscheidet die Bewilligungsbehörde über die Bewilligungspflicht, 
 - b. eine beschwerdeberechtigte kantonale Behörde oder das Bundesamt für Justiz darum ersucht (Art. 22 Abs. 2 BewG);
 - c. der Zivilrichter, der Strafrichter oder eine andere Behörde darum ersucht.
 
-[^15-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^15-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^15-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^15-3]: [SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
 [^15-4]: Fassung gemäss Anhang Ziff. 5 der Gaststaatverordnung vom 7. Dez. 2007 ([SR 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)).
@@ -282,9 +292,9 @@ Die Bestimmung über die örtliche Zuständigkeit im Falle des Erwerbes von Ante
 
 <sup>4</sup> Als Geschäftsbücher (Art. 22 Abs. 3 BewG) gelten auch das Aktienbuch (Art. 685 OR[^18-4]), das Anteilbuch (Art. 790 OR) und das Genossenschafterverzeichnis (Art. 835 OR).
 
-[^18-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^18-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^18-2]: [SR 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^18-3]: Zweiter Satzteil eingefügt durch Ziff. I der V vom 10. Sept. 19977 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^18-3]: Zweiter Satzteil eingefügt durch Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^18-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377). Siehe heute Art. 686.
 
 #### Art. 18a
@@ -309,15 +319,17 @@ Für einen Erwerb nach Artikel 2 Absatz 2 Buchstabe b BewG (Hauptwohnung) ist au
 
 <sup>3</sup>
 
-Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Arbeitsorts (Art. 7 Bst. j BewG) ist auf die Verweisung zu verzichten, wenn:
+Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Arbeitsorts (Art. 7 Bst. j Ziff. 1 und 2 BewG) ist auf die Verweisung zu verzichten, wenn:[^18a-2]
 
-- a. der Erwerber eine gültige Grenzgängerbewilligung EG-EFTA (Art. 4 Abs. 1 VEP[^18a-2]) vorlegt;
+- a.[^18a-3] der Erwerber eine gültige Grenzgängerbewilligung EU-EFTA (Art. 4 Abs. 1 VEP[^18a-4]) vorlegt;
 - b. er schriftlich erklärt, das Grundstück als Zweitwohnung zu erwerben;
-- c. die Fläche des Grundstücks 1000 m<sup>2</sup> nicht übersteigt.[^18a-3]
+- c. die Fläche des Grundstücks 1000 m<sup>2</sup> nicht übersteigt.[^18a-5]
 
-[^18a-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
-[^18a-2]: [[AS 2002 1729](https://fedlex.data.admin.ch/eli/oc/2002/260)]. Heute: der V vom 22. Mai 2002 ([SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)).
-[^18a-3]: Eingefügt durch Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+[^18a-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^18a-2]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^18a-3]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^18a-4]: [SR 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^18a-5]: Eingefügt durch Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 18b
 
@@ -325,7 +337,7 @@ Für den Erwerb einer Zweitwohnung durch einen Grenzgänger in der Region des Ar
 
 Das Handelsregisteramt verweist die anmeldende Person in der Regel nur dann an die Bewilligungsbehörde (Art. 18 Abs. 1), wenn die Eintragung in das Handelsregister im Zusammenhang mit einer Beteiligung einer Person im Ausland an einer vermögensfähigen Gesellschaft ohne juristische Persönlichkeit oder an einer juristischen Person steht, deren tatsächlicher Zweck der Erwerb von Grundstücken ist (Art. 4 Abs. 1 Bst. b und e BewG; Art. 1 Abs. 1 Bst. a und b), die nicht nach Artikel 2 Absatz 2 Buchstabe a BewG ohne Bewilligung erworben werden können.
 
-[^18b-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^18b-1]: Eingefügt durch Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 #### Art. 19
 
@@ -367,9 +379,9 @@ Die Statistik über den Erwerb von Grundstücken durch Personen im Ausland (Art.
 
 <sup>5</sup> Eine Verwendung von Personendaten zu anderen als statistischen Zwecken ist nur zulässig, soweit das Gesetz es vorsieht.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
-[^20-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 1988 ([AS 1988 1998](https://fedlex.data.admin.ch/eli/oc/1988/1998_1998_1998)).
-[^20-3]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^20-1]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
+[^20-2]: Aufgehoben durch Ziff. I der V vom 23. Nov. 1988, mit Wirkung seit 1. Jan. 1989 ([AS 1988 1998](https://fedlex.data.admin.ch/eli/oc/1988/1998_1998_1998)).
+[^20-3]: Fassung gemäss Ziff. I der V vom 10. Sept. 1997, in Kraft seit 1. Okt. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 ## 4. Kapitel: Schlussbestimmungen
 
@@ -384,17 +396,18 @@ Es werden aufgehoben:
 - a. die Verordnung vom 21. Dezember 1973[^21-1] über den Erwerb von Grundstücken durch Personen im Ausland;
 - b. die Verfügung vom 25. März 1964[^21-2] des Eidgenössischen Militärdepartementes betreffend den Erwerb von Grundstücken in der Nähe wichtiger militärischer Anlagen durch Personen im Ausland.
 
-<sup>2</sup> Auflagen aufgrund von Bewilligungen, die nach dem früheren Recht (BB vom 23. März 1961[^21-3] über den Erwerb von Grundstücken durch Personen im Ausland, BRB vom 26. Juni 1972[^21-4] betreffend Verbot der Anlage ausländischer Gelder in inländischen Grundstücken und V vom 10. Nov. 1976[^21-5] über den Erwerb von Grundstücken in Fremdenverkehrsorten durch Personen im Ausland) erteilt worden sind, bleiben in Kraft; vorbehalten bleiben Absatz 2 der Schlussbestimmungen der Änderung vom 30. April 1997[^21-6] sowie die Schlussbestimmungen der Änderungen vom 8. Oktober 1999[^21-7] und 14. Dezember 2001[^21-8] des BewG.[^21-9]
+<sup>2</sup> Auflagen aufgrund von Bewilligungen, die nach dem früheren Recht (BB vom 23. März 1961[^21-3] über den Erwerb von Grundstücken durch Personen im Ausland, BRB vom 26. Juni 1972[^21-4] betreffend Verbot der Anlage ausländischer Gelder in inländischen Grundstücken und V vom 10. Nov. 1976[^21-5] über den Erwerb von Grundstücken in Fremdenverkehrsorten durch Personen im Ausland) erteilt worden sind, bleiben in Kraft; vorbehalten bleiben Absatz 2 der Schlussbestimmungen der Änderung vom 30. April 1997[^21-6] sowie die Schlussbestimmungen der Änderungen vom 8. Oktober 1999[^21-7], vom 14. Dezember 2001[^21-8] und vom 25. September 2020[^21-9] des BewG.[^21-10]
 
 [^21-1]: [[AS 1974 94](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)[1010](https://fedlex.data.admin.ch/eli/oc/1974/1010__), [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607)]
 [^21-2]: [[AS 1964 322](https://fedlex.data.admin.ch/eli/oc/1964/322_314_314)]
-[^21-3]: [[AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914). [AS 1984 1148](https://fedlex.data.admin.ch/eli/oc/1984/1148_1148_1148)Art. 37 Abs. 1]
-[^21-4]: [[AS 1972 1062](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238). [AS 1974 94](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)Art. 26]
-[^21-5]: [[AS 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389), [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806), [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875), [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070), [1982 2235](https://fedlex.data.admin.ch/eli/oc/1982/2235_2235_2235), [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)]
+[^21-3]: [AS 1961 203](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1239](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1199](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)Ziff. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)
+[^21-4]: [AS 1972 1062](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238)
+[^21-5]: [AS 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389), [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806), [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875), [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070), [1982 2235](https://fedlex.data.admin.ch/eli/oc/1982/2235_2235_2235), [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)
 [^21-6]: [AS 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 [^21-7]: [AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)
 [^21-8]: [AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)
-[^21-9]: Zweiter Satzteil eingefügt durch Ziff. I der V vom 10. Sept. 1997 ([AS 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)). Fassung gemäss Ziff. I der V vom 23. Jan. 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+[^21-9]: [BBl 2020 7907](https://fedlex.data.admin.ch/eli/fga/2020/2017)
+[^21-10]: Fassung gemäss Ziff. I der V vom 20. Jan. 2021, in Kraft seit 1. März 2021 ([AS 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 
 #### Art. 22
 
@@ -408,7 +421,7 @@ Anhang 1*[^t-1]*
 
 ## Bewilligungskontingente
 
-[^t-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007 ([AS 2007 5235](https://fedlex.data.admin.ch/eli/oc/2007/741)).
+[^t-1]: Fassung gemäss Ziff. I der V vom 14. Nov. 2007, in Kraft seit 1. Dez. 2007 ([AS 2007 5235](https://fedlex.data.admin.ch/eli/oc/2007/741)).
 
 <sup>1</sup> Die jährliche gesamtschweizerische Höchstzahl an Bewilligungen für Ferienwohnungen und Wohneinheiten in Apparthotels wird auf 1500 festgesetzt.
 

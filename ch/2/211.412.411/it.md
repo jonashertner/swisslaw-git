@@ -4,11 +4,11 @@ title: "Ordinanza del 1<sup>o</sup> ottobre 1984 sull'acquisto di fondi da parte
 short: OAFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164"
 language: it
-version: 2008-01-01
+version: 2021-03-01
 adopted: 1984-10-01
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20080101/it/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20080101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20080101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1984/1164_1164_1164/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1984-1164_1164_1164-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1984/1164_1164_1164/20080101/it"
 
 (OAFE)
 
-del 1° ottobre 1984 (Stato 1° gennaio 2008) (Stato 1° gennaio 2008)
+del 1° ottobre 1984 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -51,7 +51,7 @@ Per altri diritti che procurano all’acquirente una posizione analoga a quella 
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^1-2]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
-[^1-3]: Nuovo testo giusta il n. 3 dell’all. all’O del 21 apr. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)).
+[^1-3]: Nuovo testo giusta l’all. n. 3 dell’O del 21 apr. 2004, in vigore dal 1° lug. 2004 ([RU 2004 2669](https://fedlex.data.admin.ch/eli/oc/2004/321)).
 [^1-4]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 [^1-5]: [RS 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
 
@@ -59,20 +59,27 @@ Per altri diritti che procurano all’acquirente una posizione analoga a quella 
 
 **Persone all’estero**[^2-1]
 
-<sup>1</sup> I cittadini degli Stati membri della Comunità europea (CE) o dell’Associazione europea di libero scambio (AELS) non sono considerati persone all’estero (art. 5 cpv. 1 lett. a LAFE) se hanno il domicilio in Svizzera giusta gli articoli 23, 24 capoverso 1, 25 e 26 del Codice civile[^2-2] (CC).
+<sup>1</sup>
 
-<sup>2</sup> La legittimità del domicilio presuppone inoltre un permesso per dimoranti temporanei, di dimora o di domicilio CE-AELS valido (art. 4 cpv. 1 e 5 dell’O del 23 mag. 2001[^2-3] sull’introduzione della libera circolazione delle persone, OLCP) per la costituzione di un domicilio.
+Non sono considerati persone all’estero (art. 5 cpv. 1 lett. a LAFE), se hanno il domicilio in Svizzera giusta gli articoli 23, 24 capoverso 1, 25 e 26 del Codice civile (CC)[^2-2]:
 
-<sup>3</sup> Sono considerate persone che non hanno il diritto di stabilirsi in Svizzera (art. 5 cpv. 1 lett. a<sup>bis</sup> LAFE) gli stranieri senza un permesso di domicilio valido (art. 34 della LF del 16 dicembre 2005[^2-4] sugli stranieri e la loro integrazione; LStrI[^2-5]).[^2-6]
+- a. i cittadini degli Stati membri dell’Unione europea (UE) o dell’Associazione europea di libero scambio (AELS);
+- b. i cittadini del Regno Unito di Gran Bretagna e Irlanda del Nord giusta l’articolo 5 capoverso 1 lettera a numero 2 LAFE.[^2-3]
+
+<sup>2</sup> La legittimità del domicilio presuppone inoltre un permesso per dimoranti temporanei, di dimora o di domicilio UE / AELS valido (art. 4 cpv. 1 e 5 dell’O del 23 maggio 2001[^2-4] sull’introduzione della libera circolazione delle persone, OLCP) per la costituzione di un domicilio.[^2-5]
+
+<sup>3</sup> Sono considerate persone che non hanno il diritto di stabilirsi in Svizzera (art. 5 cpv. 1 lett. a<sup>bis</sup> LAFE) gli stranieri senza un permesso di domicilio valido (art. 34 della LF del 16 dicembre 2005[^2-6] sugli stranieri e la loro integrazione; LStrI[^2-7]).[^2-8]
 
 <sup>4</sup> Gli stranieri che per il soggiorno conforme alla legge non necessitano di un’autorizzazione della polizia degli stranieri (art. 5 cpv. 3) sottostanno all’obbligo dell’autorizzazione per l’acquisto di fondi come gli stranieri che necessitano di un’autorizzazione della polizia degli stranieri.
 
 [^2-1]: Nuovo testo giusta il n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 [^2-2]: [RS 210](https://fedlex.data.admin.ch/eli/cc/24/233_245_233)
-[^2-3]: [[RU 2002 1729](https://fedlex.data.admin.ch/eli/oc/2002/260)]. Ora:dell’O del 22 mag. 2002 ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)).
-[^2-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
-[^2-5]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
-[^2-6]: Nuovo testo giusta il n. I 2 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
+[^2-3]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^2-5]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^2-6]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^2-7]: Il titolo è stato adattato in applicazione dell’art. 12 cpv. 2 della LF del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° gen. 2019. Di detta mod. è tenuto conto in tutto il presente testo.
+[^2-8]: Nuovo testo giusta il n. I 2 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
 
 ## Capitolo 2: Motivi per la concessione e il diniego dell’autorizzazione
 
@@ -111,7 +118,7 @@ Sono considerate al beneficio di un’autorizzazione corrispondente, quando sono
 [^5-2]: Nuovo testo giusta il n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 [^5-3]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
 [^5-4]: Nuovo testo giusta il n. I 2 dell’O del 24 ott. 2007, in vigore dal 1° gen. 2008 ([RU 2007 5627](https://fedlex.data.admin.ch/eli/oc/2007/773)).
-[^5-5]: Nuovo testo giusta il n. 5 dell’all. all’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^5-5]: Nuovo testo giusta l’all. n. 5 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 [^5-6]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 
 #### Art. 6
@@ -139,9 +146,12 @@ Sono considerate al beneficio di un’autorizzazione corrispondente, quando sono
 
 **Acquisto di un’abitazione da parte di una persona fisica**[^8-1]
 
-È considerato acquisto di un’abitazione da parte di una persona fisica (art. 2 cpv. 2 lett. b, 7 lett. j, 8 cpv. 3 e 9 cpv. 1 lett. c e cpv. 2 LAFE) l’acquisto diretto in proprio nome e, quando si tratti di società di azionisti-inquilini costituite prima del 1° febbraio 1974, l’acquisto di quote in ragione corrispondente.
+È considerato acquisto di un’abitazione da parte di una persona fisica (art. 2 cpv. 2 lett. b, 7 lett. j n. 1 e 2, 8 cpv. 3, nonché 9 cpv. 1 lett. c e 2 LAFE):
 
-[^8-1]: Nuovo testo giusta il n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+- a. l’acquisto diretto in proprio nome;
+- b. quando si tratta di società di azionisti-inquilini costituite prima del 1° febbraio 1974, l’acquisto di quote in ragione corrispondente.
+
+[^8-1]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 
 #### Art. 9
 
@@ -210,7 +220,7 @@ Le autorizzazioni sono di regola subordinate almeno ai seguenti oneri da menzion
 
 <sup>5</sup> Il controllo dell’adempimento degli oneri spetta all’autorità di prima istanza oppure, se essa non agisce, alle autorità legittimate a ricorrere.
 
-[^11-1]: Nuovo testo giusta il n. 2 dell’all. 2 all’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
+[^11-1]: Nuovo testo giusta l’all. 2 n. 2 dell’O del 28 giu. 2006, in vigore dal 1° gen. 2007 ([RU 2006 2923](https://fedlex.data.admin.ch/eli/oc/2006/446)).
 [^11-2]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^11-3]: Nuovo testo giusta il n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
@@ -255,7 +265,7 @@ Inoltre l’autorità di prima istanza accerta se vi sia obbligo dell’autorizz
 [^15-1]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 [^15-2]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
 [^15-3]: [RS 192.121](https://fedlex.data.admin.ch/eli/cc/2007/861)
-[^15-4]: Nuovo testo giusta il n. 5 dell’all. all’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
+[^15-4]: Nuovo testo giusta l’all. n. 5 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 16
 
@@ -311,15 +321,17 @@ Nel caso di un acquisto secondo l’articolo 2 capoverso 2 lettera b LAFE (abita
 
 <sup>3</sup>
 
-Nel caso di un acquisto di un’abitazione secondaria da parte di un frontaliere nella regione del suo luogo di lavoro (art. 7 lett. j LAFE), si rinuncia al rinvio se:
+Nel caso di un acquisto di un’abitazione secondaria da parte di un frontaliere nella regione del suo luogo di lavoro (art. 7 lett. j n. 1 e 2 LAFE), si rinuncia al rinvio se:[^18a-2]
 
-- a. l’acquirente presenta un permesso per frontalieri CE-AELS valido (art. 4 cpv. 1 OLCP[^18a-2]);
+- a.[^18a-3] l’acquirente presenta un permesso per frontalieri UE / AELS valido (art. 4 cpv. 1 OLCP[^18a-4]);
 - b. l’acquirente dichiara in forma scritta di acquistare il fondo quale abitazione secondaria;
-- c. la superficie del fondo non supera i 1000 m<sup>2</sup>.[^18a-3]
+- c. la superficie del fondo non supera i 1000 m<sup>2</sup>.[^18a-5]
 
 [^18a-1]: Introdotto dal n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
-[^18a-2]: [[RU 2002 1729](https://fedlex.data.admin.ch/eli/oc/2002/260)]. Ora:dell’O del 22 mag. 2002 ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)).
-[^18a-3]: Introdotto dal n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+[^18a-2]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^18a-3]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
+[^18a-4]: [RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261)
+[^18a-5]: Introdotto dal n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
 
 #### Art. 18b
 
@@ -370,7 +382,7 @@ La statistica sull’acquisto di fondi da parte di persone all’estero (art. 24
 <sup>5</sup> L’uso dei dati personali per scopi diversi da quello statistico è ammissibile solo se è contemplato dalla legge.
 
 [^20-1]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
-[^20-2]: Abrogata dal n. I dell’O del 23 nov. 1988 ([RU 1988 1998](https://fedlex.data.admin.ch/eli/oc/1988/1998_1998_1998)).
+[^20-2]: Abrogata dal n. I dell’O del 23 nov. 1988, con effetto dal 1° gen. 1989 ([RU 1988 1998](https://fedlex.data.admin.ch/eli/oc/1988/1998_1998_1998)).
 [^20-3]: Nuovo testo giusta il n. I dell’O del 10 set. 1997, in vigore dal 1° ott. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)).
 
 ## Capitolo 4: Disposizioni finali
@@ -386,17 +398,18 @@ Sono abrogate:
 - a. l’ordinanza del 21 dicembre 1973[^21-1] sull’acquisto di fondi da parte di persone all’estero;
 - b. l’ordinanza del 25 marzo 1964[^21-2] del Dipartimento militare federale concernente l’acquisto di fondi situati in prossimità di opere militari importanti, da parte di persone all’estero.
 
-<sup>2</sup> Gli oneri derivanti da autorizzazioni rilasciate conformemente al diritto previgente (DF del 23 mar. 1961[^21-3] sull’acquisto di fondi da parte di persone all’estero, DCF del 26 giu. 1972[^21-4] che vieta l’investimento di capitali stranieri in immobili svizzeri e O del 10 nov. 1976[^21-5] sull’acquisto di fondi in luoghi turistici da parte di persone all’estero), restano in vigore; rimangono salvi il capoverso 2 delle disposizioni finali della modifica del 30 aprile 1997[^21-6] e le disposizioni finali della modifica dell’8 ottobre 1999[^21-7] e del 14 dicembre 2001[^21-8] della LAFE.[^21-9]
+<sup>2</sup> Gli oneri derivanti da autorizzazioni rilasciate conformemente al diritto previgente (DF del 23 marzo 1961[^21-3] sull’acquisto di fondi da parte di persone all’estero, DCF del 26 giugno 1972[^21-4] che vieta l’investimento di capitali stranieri in immobili svizzeri e O del 10 novembre 1976[^21-5] sull’acquisto di fondi in luoghi turistici da parte di persone all’estero), restano in vigore; rimangono salvi il capoverso 2 delle disposizioni finali della modifica del 30 aprile 1997[^21-6] e le disposizioni finali delle modifiche dell’8 ottobre 1999[^21-7], del 14 dicembre 2001[^21-8] e del 25 settembre 2020[^21-9] della LAFE.[^21-10]
 
 [^21-1]: [[RU 1974 95](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)[998](https://fedlex.data.admin.ch/eli/oc/1974/__998), [1976 607](https://fedlex.data.admin.ch/eli/oc/1976/607_607_607)[884](https://fedlex.data.admin.ch/eli/oc/1976/884_884_884)[1746](https://fedlex.data.admin.ch/eli/oc/1976/1746_1746_1746)]
 [^21-2]: [[RU 1964 314](https://fedlex.data.admin.ch/eli/oc/1964/322_314_314)]
-[^21-3]: [[RU 1961 213](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1240](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1195](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)n. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914). [RU 1984 1148](https://fedlex.data.admin.ch/eli/oc/1984/1148_1148_1148)art. 37 cpv. 1]
-[^21-4]: [[RU 1972 1238](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238). [RU 1974 95](https://fedlex.data.admin.ch/eli/oc/1974/94_94_95)art. 26]
-[^21-5]: [[RU 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389), [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806), [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875), [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070), [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)]
+[^21-3]: [[RU 1961 213](https://fedlex.data.admin.ch/eli/oc/1961/203_209_213), [1965 1240](https://fedlex.data.admin.ch/eli/oc/1965/1239_1252_1240), [1970 1195](https://fedlex.data.admin.ch/eli/oc/1970/1199_1195_1195), [1974 83](https://fedlex.data.admin.ch/eli/oc/1974/83_83_83), [1977 1689](https://fedlex.data.admin.ch/eli/oc/1977/1689_1689_1689)n. II, [1982 1914](https://fedlex.data.admin.ch/eli/oc/1982/1914_1914_1914)]
+[^21-4]: [[RU 1972 1238](https://fedlex.data.admin.ch/eli/oc/1972/1062_1074_1238)]
+[^21-5]: [[RU 1976 2389](https://fedlex.data.admin.ch/eli/oc/1976/2389_2389_2389), [1979 806](https://fedlex.data.admin.ch/eli/oc/1979/806_806_806), [1980 1875](https://fedlex.data.admin.ch/eli/oc/1980/1875_1875_1875), [1981 2070](https://fedlex.data.admin.ch/eli/oc/1981/2070_2070_2070), [1982 2235](https://fedlex.data.admin.ch/eli/oc/1982/2235_2235_2235), [1983 1614](https://fedlex.data.admin.ch/eli/oc/1983/1614_1614_1614)]
 [^21-6]: [RU 1997 2086](https://fedlex.data.admin.ch/eli/oc/1997/2086_2086_2086)
 [^21-7]: [RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140)
 [^21-8]: [RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139)
-[^21-9]: Per. introdotto dal n. I dell’O del 10 set. 1997 ([RU 1997 2122](https://fedlex.data.admin.ch/eli/oc/1997/2122_2122_2122)). Nuovo testo giusta il n. I dell’O del 23 gen. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1115](https://fedlex.data.admin.ch/eli/oc/2002/181)).
+[^21-9]: [FF 2020 6959](https://fedlex.data.admin.ch/eli/fga/2020/2017)
+[^21-10]: Nuovo testo giusta il n. I dell’O del 20 gen. 2021, in vigore dal 1° mar. 2021 ([RU 2021 87](https://fedlex.data.admin.ch/eli/oc/2021/87)).
 
 #### Art. 22
 
@@ -404,7 +417,7 @@ Sono abrogate:
 
 La presente ordinanza entra in vigore il 1° gennaio 1985.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 9 cpv. 1 e 5)
 
