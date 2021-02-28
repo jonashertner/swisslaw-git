@@ -4,13 +4,12 @@ number: "326.1"
 title: Einführungsgesetz zum Bundesgesetz über die Hilfe an Opfer von Straftaten
 short: EG OHG
 language: de
-version: 2017-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-09
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2009-09-02
 in_force: 2010-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/326.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1209/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1209/pdf_file"
 
 (EG OHG)
 
-vom 02.09.2009 (Stand 01.01.2017)
+vom 02.09.2009 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -37,11 +36,11 @@ beschliesst:
 
 **Angebot**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion sorgt für ein Angebot an Beratungsstellen im Sinne von Artikel 9 OHG.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion sorgt für ein Angebot an Beratungsstellen im Sinne von Artikel 9 OHG.
 
 <sup>2</sup> Sie koordiniert das Angebot und kann den Beratungsstellen die dazu notwendigen Weisungen erteilen.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion schliesst Leistungsverträge mit den Beratungsstellen ab.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion schliesst Leistungsverträge mit den Beratungsstellen ab.
 
 <sup>4</sup> Sie kann zur Erfüllung besonderer Aufgaben andere Verträge mit Dritten abschliessen.
 
@@ -57,7 +56,7 @@ beschliesst:
 
 <sup>1</sup> Für den Abschluss von Leistungsverträgen gelten die folgenden Voraussetzungen:
 
-- a ein ausgewiesener Bedarf gemäss Planung der Gesundheits- und Fürsorgedirektion,
+- a ein ausgewiesener Bedarf gemäss Planung der Gesundheits-, Sozial- und Integrationsdirektion,
 - b eine genügende fachliche Ausbildung der in der Beratung tätigen Personen,
 - c eine der Aufgabe entsprechende Organisation der Beratungsstellen.
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **2 Verletzung der Verträge**
 
-<sup>1</sup> Verletzt eine Beratungsstelle vertragliche Pflichten, kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion die Abgeltungen nach erfolgloser Mahnung durch Verfügung kürzen, einstellen oder sie samt Zins seit der Auszahlung zurückfordern.
+<sup>1</sup> Verletzt eine Beratungsstelle vertragliche Pflichten, kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion die Abgeltungen nach erfolgloser Mahnung durch Verfügung kürzen, einstellen oder sie samt Zins seit der Auszahlung zurückfordern.
 
 <sup>2</sup> Bei schwerwiegenden Pflichtverletzungen können die Verträge fristlos gekündigt werden.
 
@@ -79,9 +78,9 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Beratungsstellen unterstehen der Aufsicht der Gesundheits- und Fürsorgedirektion.
+<sup>1</sup> Die Beratungsstellen unterstehen der Aufsicht der Gesundheits-, Sozial- und Integrationsdirektion.
 
-<sup>2</sup> Sie stellen der Gesundheits- und Fürsorgedirektion fristgerecht alle Daten zur Verfügung, die für die Planung und die Aufsichtstätigkeit erforderlich sind.
+<sup>2</sup> Sie stellen der Gesundheits-, Sozial- und Integrationsdirektion fristgerecht alle Daten zur Verfügung, die für die Planung und die Aufsichtstätigkeit erforderlich sind.
 
 ## 2. Beratung, Soforthilfe und längerfristige Hilfe der Beratungsstellen
 
@@ -91,7 +90,7 @@ beschliesst:
 
 <sup>1</sup> Die Beratungsstellen beraten das Opfer sowie seine Angehörigen und leisten Soforthilfe und längerfristige Hilfe rasch und formlos.
 
-<sup>2</sup> Auf Begehren des Opfers oder seiner Angehörigen erlässt die Gesundheits- und Fürsorgedirektion eine Verfügung.
+<sup>2</sup> Auf Begehren des Opfers oder seiner Angehörigen erlässt die Gesundheits-, Sozial- und Integrationsdirektion eine Verfügung.
 
 <sup>3</sup> Der Regierungsrat regelt den Umfang der Soforthilfe und der längerfristigen Hilfe der Beratungsstellen durch Verordnung.
 
@@ -101,9 +100,9 @@ beschliesst:
 
 **Angebot**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion legt den Kostenbeitrag an die längerfristige Hilfe Dritter auf Gesuch des Opfers oder seiner Angehörigen in Briefform fest.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt den Kostenbeitrag an die längerfristige Hilfe Dritter auf Gesuch des Opfers oder seiner Angehörigen in Briefform fest.
 
-<sup>2</sup> Auf Begehren des Opfers oder seiner Angehörigen erlässt die Gesundheits- und Fürsorgedirektion eine Verfügung.
+<sup>2</sup> Auf Begehren des Opfers oder seiner Angehörigen erlässt die Gesundheits-, Sozial- und Integrationsdirektion eine Verfügung.
 
 <sup>3</sup> Der Regierungsrat regelt den Umfang der längerfristigen Hilfe Dritter durch Verordnung.
 
@@ -111,7 +110,7 @@ beschliesst:
 
 #### Art. 9
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion setzt die Höhe der Entschädigung und der Genugtuung auf Gesuch des Opfers oder seiner Angehörigen fest.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion setzt die Höhe der Entschädigung und der Genugtuung auf Gesuch des Opfers oder seiner Angehörigen fest.
 
 ## 5. Gemeinsame Bestimmungen
 
@@ -119,21 +118,21 @@ beschliesst:
 
 **Akteneinsicht**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion ist befugt, die gerichtlichen Akten einzusehen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist befugt, die gerichtlichen Akten einzusehen.
 
 #### Art. 11
 
 **Befreiung von der Mitteilungspflicht**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter der Gesundheits- und Fürsorgedirektion, welche Gesuche um Leistungen gemäss Opferhilfegesetz bearbeiten, sind von der Mitteilungspflicht gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ [^11-1]) ausgenommen.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter der Gesundheits-, Sozial- und Integrationsdirektion, welche Gesuche um Leistungen gemäss Opferhilfegesetz bearbeiten, sind von der Mitteilungspflicht gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ [^11-1]) ausgenommen.
 
-[^11-1]: BSG 271.1
+[^11-1]: BSG [271.1](https://www.belex.sites.be.ch/data/271.1/de)
 
 #### Art. 12
 
 **Geltendmachung von auf den Kanton übergegangenen Ansprüchen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion ist zuständig für die Geltendmachung von auf den Kanton übergegangenen Ansprüchen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ist zuständig für die Geltendmachung von auf den Kanton übergegangenen Ansprüchen.
 
 #### Art. 13
 
@@ -145,13 +144,13 @@ beschliesst:
 
 **Vertretung gegenüber Bund und Kantonen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion vertritt den Kanton gegenüber dem Bund und den anderen Kantonen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion vertritt den Kanton gegenüber dem Bund und den anderen Kantonen.
 
 #### Art. 15
 
 **Rechtspflege**
 
-<sup>1</sup> Die Verfügungen der Gesundheits- und Fürsorgedirektion können mit Beschwerde beim Verwaltungsgericht des Kantons Bern angefochten werden.
+<sup>1</sup> Die Verfügungen der Gesundheits-, Sozial- und Integrationsdirektion können mit Beschwerde beim Verwaltungsgericht des Kantons Bern angefochten werden.
 
 ## 6 Schlussbestimmungen
 
