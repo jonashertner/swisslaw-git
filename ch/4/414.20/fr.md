@@ -4,11 +4,11 @@ title: "Loi fédérale du 30 septembre 2011 sur l'encouragement des hautes écol
 short: LEHE
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: fr
-version: 2020-01-01
+version: 2021-03-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20200101/fr"
 
 (Loi sur l’encouragement et la coordination des hautes écoles, LEHE)[^t-1]
 
-du 30 septembre 2011 (Etat le 1<sup>er</sup> janvier 2020)
+du 30 septembre 2011 (État le 1<sup>er</sup> mars 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -473,7 +473,9 @@ L’accréditation d’institution est accordée aux conditions suivantes:
 - b. la haute école universitaire ou la haute école spécialisée offre un enseignement, une recherche et des prestations de services dans plusieurs disciplines ou domaines d’études;
 - c. la haute école ou toute autre institution du domaine des hautes écoles, de même que la collectivité responsable, présentent les garanties suffisantes pour garantir la pérennité de l’institution.
 
-<sup>2</sup> Le Conseil des hautes écoles précise les conditions dans des directives d’accréditation. Il tient compte à cet effet de la spécificité et de l’autonomie des hautes écoles universitaires, des hautes écoles spécialisées, des hautes écoles pédagogiques et des autres institutions du domaine des hautes écoles.
+<sup>2</sup> Le Conseil des hautes écoles précise les conditions d’accréditation dans une ordonnance.[^30-1] Il tient compte à cet effet de la spécificité et de l’autonomie des hautes écoles universitaires, des hautes écoles spécialisées, des hautes écoles pédagogiques et des autres institutions du domaine des hautes écoles.
+
+[^30-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 31
 
@@ -934,9 +936,11 @@ Les mesures administratives applicables sont notamment:
 
 <sup>1</sup> Les décisions prises en vertu de la présente loi et de ses dispositions d’exécution ou en vertu de la convention de coopération peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral.
 
-<sup>2</sup> Les décisions du Conseil fédéral concernant le droit aux contributions et les décisions du Conseil d’accréditation concernant l’accréditation ne sont pas sujettes à recours.
+<sup>2</sup> Les décisions du Conseil fédéral concernant le droit aux contributions ne sont pas sujettes à recours.[^65-1]
 
 <sup>3</sup> Au surplus, les dispositions générales de la procédure fédérale sont applicables.
+
+[^65-1]: Nouvelle teneur selon le ch. I de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 ## Chapitre 10 Compétence du Conseil fédéral en matière de conclusion d’accords internationaux
 

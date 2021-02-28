@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2011 über die Förderung der Hochschulen
 short: HFKG
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: de
-version: 2020-01-01
+version: 2021-03-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20200101/de"
 
 (Hochschulförderungs- und -koordinationsgesetz, HFKG)
 
-vom 30. September 2011 (Stand am 1. Januar 2020)
+vom 30. September 2011 (Stand am 1. März 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -471,7 +471,9 @@ Für die institutionelle Akkreditierung gelten die folgenden Voraussetzungen:
 - b. Die universitäre Hochschule und die Fachhochschule bieten Lehre, Forschung und Dienstleistungen in mehreren Disziplinen oder Fachbereichen an.
 - c. Die Hochschule und die andere Institution des Hochschulbereichs sowie ihr Träger bieten Gewähr dafür, dass die Institution auf Dauer betrieben werden kann.
 
-<sup>2</sup> Der Hochschulrat konkretisiert die Voraussetzungen in Akkreditierungsrichtlinien. Dabei trägt er den Besonderheiten und der Autonomie von universitären Hochschulen, Fachhochschulen, pädagogischen Hochschulen und anderen Institutionen des Hochschulbereichs Rechnung.
+<sup>2</sup> Der Hochschulrat konkretisiert die Voraussetzungen in einer Verordnung.[^30-1] Dabei trägt er den Besonderheiten und der Autonomie von universitären Hochschulen, Fachhochschulen, pädagogischen Hochschulen und anderen Institutionen des Hochschulbereichs Rechnung.
+
+[^30-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. März 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 31
 
@@ -932,9 +934,11 @@ Als Verwaltungsmassnahmen fallen insbesondere in Betracht:
 
 <sup>1</sup> Verfügungen, die aufgrund dieses Gesetzes, seiner Ausführungsbestimmungen oder der Zusammenarbeitsvereinbarung erlassen werden, können mit Beschwerde beim Bundesverwaltungsgericht angefochten werden.
 
-<sup>2</sup> Verfügungen des Bundesrates über die Beitragsberechtigung sowie des Akkreditierungsrates über die Akkreditierung sind nicht anfechtbar.
+<sup>2</sup> Verfügungen des Bundesrates über die Beitragsberechtigung sind nicht anfechtbar.[^65-1]
 
 <sup>3</sup> Im Übrigen gelten die allgemeinen Bestimmungen der Bundesrechtspflege.
+
+[^65-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2020, in Kraft seit 1. März 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 ## 10. Kapitel: Kompetenz des Bundesrates zum Abschluss internationaler Verträge
 
@@ -1052,7 +1056,7 @@ Das zuständige Departement bestimmt:
 - b. welche Zulassungsvoraussetzungen für Absolventinnen und Absolventen anderer Ausbildungsgänge gelten;
 - c. die Lernziele der einjährigen Arbeitswelterfahrung in den einzelnen Fachbereichen.
 
-[^73-1]: Nicht in der AS veröffentlicht. Der Text dieser Beschlüsse kann beim Staatssekretariat für Bildung, Forschung und Innovation (SBFI), Einsteinstrasse 2, 3003 Bern, bezogen und unter www.sbfi.admin.ch eingesehen werden.
+[^73-1]: Nicht in der AS veröffentlicht. Der Text dieser Beschlüsse kann beim Staatssekretariat für Bildung, Forschung und Innovation (SBFI), Einsteinstrasse 2, 3003 Bern, bezogen und unter: www.sbfi.admin.ch eingesehen werden.
 
 #### Art. 74
 
@@ -1075,8 +1079,8 @@ Das zuständige Departement bestimmt:
 <sup>3</sup> Die Hochschulen und die anderen Institutionen des Hochschulbereichs, die nach dem 1. Januar 2011 nach bisherigem Recht akkreditiert worden sind, gelten bis acht Jahre nach Inkrafttreten dieses Gesetzes als institutionell akkreditiert.
 
 [^75-1]: Eingefügt durch Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
-[^75-2]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10]
-[^75-3]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11]
+[^75-2]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10]
+[^75-3]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11]
 [^75-4]: Fassung gemäss Ziff. I des BG vom 30. Sept. 2016, in Kraft seit 1. Febr. 2017 ([AS 2017 159](https://fedlex.data.admin.ch/eli/oc/2017/44); [BBl 2016 3089](https://fedlex.data.admin.ch/eli/fga/2016/576)).
 
 #### Art. 76
@@ -1121,8 +1125,8 @@ Der Bundesrat kann bei einer Inkraftsetzung nach Artikel 81 Absatz 3 vorsehen, d
 - a. Universitätsförderungsgesetz vom 8. Oktober 1999[^80-1]: die Bestimmungen über die Bundesbeiträge (Art. 13–21) sowie Artikel 23;
 - b. Fachhochschulgesetz vom 6. Oktober 1995[^80-2]: die Bestimmungen über die Bundesbeiträge (Art. 18–21) sowie Artikel 23.
 
-[^80-1]: [AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
-[^80-2]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
+[^80-1]: [AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)
+[^80-2]: [AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607)
 
 ### 4. Abschnitt: Referendum und Inkrafttreten
 
@@ -1158,6 +1162,6 @@ Die nachstehenden Bundesgesetze werden wie folgt geändert:
 
 …[^annexu1-lvlu1-3]
 
-[^annexu1-lvlu1-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10]
-[^annexu1-lvlu1-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11]
+[^annexu1-lvlu1-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10]
+[^annexu1-lvlu1-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11]
 [^annexu1-lvlu1-3]: Die Änderungen können unter [AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)konsultiert werden.

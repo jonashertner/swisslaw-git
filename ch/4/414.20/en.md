@@ -4,11 +4,11 @@ title: "Federal Act of 30 September 2011 on Funding and Coordination of the Swis
 short: HEdA
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/691"
 language: en
-version: 2020-01-01
+version: 2021-03-01
 adopted: 2011-09-30
 in_force: 2015-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20200101/en/xml/fedlex-data-admin-ch-eli-cc-2014-691-20200101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20200101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/691/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2014-691-20210301-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/691/20210301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Higher Education Act, HEdA)
 
-of 30 September 2011 (Status as of 1 January 2020)
+of 30 September 2011 (Status as of 1 March 2021)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -58,7 +58,7 @@ For this purpose, the present Act establishes the basic principles applying to t
 
 Higher education institutions under the terms of this Act are:
 
-- a. tier-one universities: cantonal universities and federal institutes of technology (FITs);
+- a. cantonal universities and federal institutes of technology (FITs);
 - b. universities of applied sciences (UAS) and universities of teacher education (UTEs).
 
 <sup>3</sup> With the exception of the provisions on basic contributions and contributions to cover expenditure for construction and use of buildings, this Act applies to all FITs and other federal higher education institutions.
@@ -91,7 +91,7 @@ As part of its cooperation activities within the higher education sector, the Co
 
 <sup>3</sup> It shall manage and fund FITs under the terms of the FIT Act of 4 October 1991[^4-1] as well as other federal higher education institutions by virtue of their respective legal basis.
 
-<sup>4</sup> The Federal Assembly may issue decrees enabling the Confederation to fully or partially take over higher education institutions, with the consent of the sponsor, if the said institutions are particularly important for federal activities. Before taking such action, the Confederation shall hear the Higher Education Council.
+<sup>4</sup> The Federal Assembly may issue decrees enabling the Confederation to fully or partially take over higher education institutions, with the consent of the responsible body, if the said institutions are particularly important for federal activities. Before taking such action, the Confederation shall hear the Higher Education Council.
 
 <sup>5</sup> Under the terms of special legislation, the Confederation shall make contributions to the Swiss National Science Foundation, to the Swiss Innovation Agency (Innosuisse) as well as to national and international education and research programmes.[^4-2]
 
@@ -102,9 +102,9 @@ As part of its cooperation activities within the higher education sector, the Co
 
 **Principles of fulfilment of tasks**
 
-<sup>1</sup> The Confederation shall respect the autonomy granted by sponsors to higher education institutions as well as the principles of freedom and the unity of teaching and research.
+<sup>1</sup> The Confederation shall respect the autonomy granted by responsible bodies to higher education institutions as well as the principles of freedom and the unity of teaching and research.
 
-<sup>2</sup> When performing its tasks, it shall consider the specific characteristics of tier-one universities, universities of applied sciences, universities of teacher education and other institutions within the higher education sector.
+<sup>2</sup> When performing its tasks, it shall consider the specific characteristics of cantonal universities, federal institutes of technology, universities of applied sciences, universities of teacher education and other institutions within the higher education sector.
 
 ## Chapter 2 Cooperation Agreement
 
@@ -214,7 +214,7 @@ Within the framework of this Act, the Higher Education Council shall handle matt
 
   enactment of regulations on:
 
-  - 1\. study levels and transitions between levels, uniform names of titles as well as permeability and mobility between and within tier-one universities, universities of applied sciences and universities of teacher education,
+  - 1\. study levels and transitions between levels, uniform names of titles as well as permeability and mobility between and within cantonal universities, federal institutes of technology, universities of applied sciences and universities of teacher education,
   - 2\. the handling of quality control and accreditation at the request of the Swiss Accreditation Council,
   - 3\. recognition of qualifications and procedures for the recognition of prior learning,
   - 4\. continuing education and training in the form of uniform general regulations;
@@ -375,9 +375,9 @@ The Swiss Conference of Rectors of Higher Education Institutions has the tasks a
 
 #### Art. 23
 
-**Admission to tier-one universities**
+**Admission to cantonal universities and federal institutes of technology**
 
-<sup>1</sup> Admission to the first level of studies at tier-one universities is open to holders of a baccalaureate.
+<sup>1</sup> Admission to the first level of studies at cantonal universities and federal institutes of technology is open to holders of a baccalaureate.
 
 <sup>2</sup> They may grant admission to the first level of studies on the basis of equivalent prior education and training. For quality control purposes, the Higher Education Council issues guidelines on equivalency under the terms of the Cooperation Agreement.
 
@@ -446,7 +446,7 @@ Institutional accreditation is a prerequisite for:
 
 **Right to use reserved designations**
 
-<sup>1</sup> With institutional accreditation, higher education institutions and other institutions within the higher education sector have the right to use the reserved designation «university», «university of applied sciences» or «university of teacher education» or derived designations such as «tier-one college» or «UAS college».
+<sup>1</sup> With institutional accreditation, higher education institutions and other institutions within the higher education sector have the right to use the reserved designation ‘university’, ‘university of applied sciences’ or ‘university of teacher education’ or derived designations such as ‘university institute’ or ‘UAS institute’.
 
 <sup>2</sup> The right to use reserved designations also applies to equivalent terms in languages that are not national languages of Switzerland.
 
@@ -470,10 +470,12 @@ For institutional accreditation, the following requirements must be met:
   - 6\. tasks further the aims of economic, social and environmental sustainability;
   - 7\. it is possible to verify that the institution fulfils its mandate.
 
-- b. Tier-one universities and universities of applied sciences shall provide teaching, research and services in several disciplines or fields of study.
-- c. Higher education institutions and other institutions within the higher education sector and their sponsors shall take steps to ensure that the institution can be sustainably managed.
+- b. Cantonal universities, federal institutes of technology and universities of applied sciences shall provide teaching, research and services in several disciplines or fields of study.
+- c. Higher education institutions and other institutions within the higher education sector and their responsible bodies shall take steps to ensure that the institution can be sustainably managed.
 
-<sup>2</sup> The Swiss Higher Education Council establishes the specific requirements in accreditation guidelines. When doing so, it shall consider the specific characteristics and autonomy of tier-one universities, universities of applied sciences, universities of teacher education and other institutions within the higher education sector.
+<sup>2</sup> The Swiss Higher Education Council shall establish the requirements in an ordinance.[^30-1] When doing so, it shall consider the specific characteristics and autonomy of cantonal universities, federal institutes of technology, universities of applied sciences, universities of teacher education and other institutions within the higher education sector.
+
+[^30-1]: Amended by No I of the FA of 25 Sept. 2020, in force since 1 March 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 31
 
@@ -482,7 +484,7 @@ For institutional accreditation, the following requirements must be met:
 The following requirements must be met for programme accreditation:
 
 - a. Higher education institutions and other institutions within the higher education sector shall take steps to ensure high-quality teaching.
-- b. Higher education institutions and other institutions within the higher education sector and their sponsors shall take steps to ensure that study programmes may be completed.
+- b. Higher education institutions and other institutions within the higher education sector and their responsible bodies shall take steps to ensure that study programmes may be completed.
 
 #### Art. 32
 
@@ -516,7 +518,7 @@ The Swiss Higher Education Council shall decide on the duration of accreditation
 
 **Basic principles**
 
-<sup>1</sup> Through the Swiss Conference of Higher Education Institutions, the Confederation and the Cantons shall work together to ensure coordination of the entire Swiss higher education sector and decide on the allocation of tasks in particularly costly areas; this shall be done respecting the autonomy of higher education institutions and in consideration of the different remits of tier-one universities, universities of applied sciences and universities of teacher education.
+<sup>1</sup> Through the Swiss Conference of Higher Education Institutions, the Confederation and the Cantons shall work together to ensure coordination of the entire Swiss higher education sector and decide on the allocation of tasks in particularly costly areas; this shall be done respecting the autonomy of higher education institutions and in consideration of the different remits of cantonal universities, federal institutes of technology, universities of applied sciences and universities of teacher education.
 
 <sup>2</sup>
 
@@ -533,7 +535,7 @@ Coordination shall include:
 
 <sup>1</sup> Higher education institutions and other institutions within the higher education sector shall prepare a multi-annual development and financial plan. This document shall include multi-annual objectives and priorities as well as funding requirements.
 
-<sup>2</sup> Higher education institutions and other institutions within the higher education sector and their sponsors shall comply with the requirements of the Swiss Conference of Higher Education Institutions and heed the recommendations made by the Swiss Conference of Rectors of Higher Education Institutions.
+<sup>2</sup> Higher education institutions and other institutions within the higher education sector and their responsible bodies shall comply with the requirements of the Swiss Conference of Higher Education Institutions and heed the recommendations made by the Swiss Conference of Rectors of Higher Education Institutions.
 
 #### Art. 38
 
@@ -568,7 +570,7 @@ When doing so, it shall base itself on the development and financial plans prepa
 
 <sup>2</sup> When determining particularly cost-intensive areas, expenditure in a given field of study or discipline shall be compared with overall expenditure within the higher education sector. Expenditure for a particularly cost-intensive area must comprise a significant share of overall expenditure within the Swiss higher education sector.
 
-<sup>3</sup> If a sponsor is unable to comply with the decisions reached under paragraph 1, then the federal contributions under this Act may be reduced or denied.
+<sup>3</sup> If a responsible body is unable to comply with the decisions reached under paragraph 1, then the federal contributions under this Act may be reduced or denied.
 
 ## Chapter 7 Funding
 
@@ -617,7 +619,7 @@ On the basis of financial plans prepared by the Confederation and the Cantons, t
 
 <sup>2</sup> Output values used to establish reference costs shall reflect the average costs of teaching according to cost accounting records of higher education institutions.
 
-<sup>3</sup> Output values shall be adjusted so that public funding is enough to ensure high-quality teaching and the research required for this. Here, consideration shall be given to the specific characteristics of tier-one universities and universities of applied sciences as well as their specific fields of study and disciplines.
+<sup>3</sup> Output values shall be adjusted so that public funding is enough to ensure high-quality teaching and the research required for this. Here, consideration shall be given to the specific characteristics of cantonal universities, federal institutes of technology and universities of applied sciences as well as their specific fields of study and disciplines.
 
 <sup>4</sup> The Plenary Assembly shall determine reference costs and review these periodically.
 
@@ -750,7 +752,7 @@ The proportion of research is determined on the following basis:
 The Federal Council shall establish the proportions under paragraphs 2–4 as well as the combination and weighting of assessment criteria. It shall establish these proportions in such a way as to ensure that they further the objectives set out in Article 3. When doing so, it shall consider the following:
 
 - a. the categories of disciplines and fields of study established by the Plenary Assembly by virtue of the Cooperation Agreement as well as their corresponding weights and maximum durations of study;
-- b. the special characteristics of tier-one universities and universities of applied sciences as well as of their fields of study.
+- b. the special characteristics of cantonal universities, federal institutes of technology and universities of applied sciences as well as of their fields of study.
 
 <sup>6</sup> It shall review these proportions periodically.
 
@@ -863,7 +865,7 @@ Tasks that serve national higher education policy interests include the followin
 
 <sup>3</sup> The Cantons as well as higher education institutions and other institutions within the higher education sector involved in the project must contribute their own resources to an adequate degree.
 
-<sup>4</sup> Project funding for universities of teacher education requires the involvement of several universities of applied sciences or tier-one universities.
+<sup>4</sup> Project funding for universities of teacher education requires the involvement of several universities of applied sciences or cantonal universities or federal institutes of technology.
 
 #### Art. 60
 
@@ -893,9 +895,9 @@ Based on the decision reached by the Higher Education Council, the competent Dep
 
 **Protection of reserved designations**
 
-<sup>1</sup> The reserved designations «university», «university of applied sciences», «university of teacher education» and derived designations (e.g. «tier-one college» or «UAS college»), whether expressed in a national language of Switzerland or in any other language, may only be used by institutions that have been accredited under this Act.
+<sup>1</sup> The reserved designations ‘university’, ‘university of applied sciences’, ‘university of teacher education’ and derived designations (e.g. ‘university institute’ or ‘UAS institute’), whether expressed in a national language of Switzerland or in any other language, may only be used by institutions that have been accredited under this Act.
 
-<sup>2</sup> The titles given to graduates of tier-one universities, universities of applied sciences, universities of teacher education and other institutions within the higher education sector subject to this Act shall be protected under the corresponding legal basis.
+<sup>2</sup> The titles given to graduates of cantonal universities, federal institutes of technology, universities of applied sciences, universities of teacher education and other institutions within the higher education sector subject to this Act shall be protected under the corresponding legal basis.
 
 #### Art. 63
 
@@ -903,7 +905,7 @@ Based on the decision reached by the Higher Education Council, the competent Dep
 
 <sup>1</sup>
 
-If an institution lacking accreditation under this Act uses the title «university», «university of applied sciences», «university of teacher education» or a related title, whether expressed in a national language of Switzerland or in any other language, the managers of that institution are liable to the following penalties:
+If an institution lacking accreditation under this Act uses the title ‘university’, ‘university of applied sciences’, ‘university of teacher education’ or a related title, whether expressed in a national language of Switzerland or in any other language, the managers of that institution are liable to the following penalties:
 
 - a. a fine not exceeding CHF 200,000 in cases of wilful conduct;
 - b. a fine not exceeding CHF 100,000 in cases of negligent conduct.
@@ -934,9 +936,11 @@ The following administrative measures shall be considered:
 
 <sup>1</sup> Decisions reached on the basis of this Act, its implementing provisions or the Cooperation Agreement may be contested by appeal to the Federal Administrative Court.
 
-<sup>2</sup> Decisions of the Federal Council on funding entitlements and decisions by the Accreditation Council on accreditation are not appealable.
+<sup>2</sup> Decisions of the Federal Council on funding entitlements are not appealable.[^65-1]
 
 <sup>3</sup> Furthermore, the general provisions on the administration of federal justice apply.
+
+[^65-1]: Amended by No I of the FA of 25 Sept. 2020, in force since 1 March 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 ## Chapter 10 Authority of the Federal Council to Enter into International Agreements
 
