@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal administratif fédéral (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: fr
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/fr"
 
 (LTAF)[^t-1]
 
-du 17 juin 2005 (Etat le 1<sup>er</sup> janvier 2021)
+du 17 juin 2005 (Etat le 1<sup>er</sup> mars 2021)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -450,7 +450,8 @@ Le recours est irrecevable contre:
 - f.[^32-2] les décisions relatives à l’octroi ou l’extension de concessions d’infrastructures ferroviaires;
 - g. les décisions rendues par l’Autorité indépendante d’examen des plaintes en matière de radio-télévision;
 - h. les décisions relatives à l’octroi de concessions pour des maisons de jeu;
-- i.[^32-3] les décisions relatives à l’octroi, à la modification ou au renouvellement de la concession octroyée à la Société suisse de radiodiffusion et télévision (SSR).
+- i.[^32-3] les décisions relatives à l’octroi, à la modification ou au renouvellement de la concession octroyée à la Société suisse de radiodiffusion et télévision (SSR);
+- j.[^32-4] les décisions relatives au droit aux contributions d’une haute école ou d’une autre institution du domaine des hautes écoles.
 
 <sup>2</sup>
 
@@ -462,6 +463,7 @@ Le recours est également irrecevable contre:
 [^32-1]: Abrogée par l’annexe ch. II 1 de la L du 30 sept. 2011 sur l’encouragement et la coordination des hautes écoles, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 4067](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^32-2]: Nouvelle teneur selon le ch. I 3 de la LF du 16 mars 2012 sur la deuxième partie de la réforme des chemins de fer 2, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 857](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^32-3]: Introduite par l’annexe ch. 2 de la LF du 26 sept. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 4425](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^32-4]: Introduite par le ch. II de la LF du 25 sept. 2020, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [FF 2020 3577](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 33
 

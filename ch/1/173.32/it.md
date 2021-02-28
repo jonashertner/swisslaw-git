@@ -4,11 +4,11 @@ title: Legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF)
 short: LTAF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: it
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/it"
 
 (LTAF)
 
-del 17 giugno 2005 (Stato 1° gennaio 2021)
+del 17 giugno 2005 (Stato 1° marzo 2021)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -128,7 +128,7 @@ Non possono esercitare nel medesimo tempo la funzione di giudice del Tribunale a
 
 <sup>3</sup> I seggi divenuti vacanti sono riassegnati per il resto del periodo.
 
-[^9-1]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2012 (Innalzamento dell’età massima dei giudici), in vigore dal 1° dic. 2012 ([RU 2012 5647](https://fedlex.data.admin.ch/eli/oc/2012/657); [FF 2011 7975](https://fedlex.data.admin.ch/eli/fga/2011/1551)[7993](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
+[^9-1]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2012 (Innalzamento dell’età massima dei giudici), in vigore dal 1° dic. 2012 ([RU 2012 5647](https://fedlex.data.admin.ch/eli/oc/2012/657); [FF 2011 7975](https://fedlex.data.admin.ch/eli/fga/2011/1551), [7993](https://fedlex.data.admin.ch/eli/fga/2011/1554)).
 
 #### Art. 10
 
@@ -153,7 +153,7 @@ L’Assemblea federale può destituire un giudice prima della scadenza del suo m
 
 [^12-1]
 
-[^12-1]: Abrogato dall’all. n. 4 della LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294)[6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
+[^12-1]: Abrogato dall’all. n. 4 della LF del 17 giu. 2011 (Richieste di soppressione dell’immunità), con effetto dal 5 dic. 2011 ([RU 2011 4627](https://fedlex.data.admin.ch/eli/oc/2011/663); [FF 2010 6497](https://fedlex.data.admin.ch/eli/fga/2010/1294), [6537](https://fedlex.data.admin.ch/eli/fga/2010/1297)).
 
 #### Art. 13
 
@@ -410,7 +410,7 @@ Il segretario generale dirige l’amministrazione del Tribunale, compresi i serv
 
 ## Capitolo 2: Competenze
 
-### Sezione 1: Ricorso****
+### Sezione 1: Ricorso
 
 [^chap2-sec1-1]
 
@@ -448,7 +448,8 @@ Il ricorso è inammissibile contro:
 - f.[^32-2] le decisioni in materia di rilascio o estensione di concessioni di infrastrutture ferroviarie;
 - g. le decisioni dell’autorità indipendente di ricorso in materia radiotelevisiva;
 - h. le decisioni in materia di rilascio di concessioni per case da gioco;
-- i.[^32-3] le decisioni in materia di rilascio, modifica o rinnovo della concessione della Società svizzera di radiotelevisione (SSR).
+- i.[^32-3] le decisioni in materia di rilascio, modifica o rinnovo della concessione della Società svizzera di radiotelevisione (SSR);
+- j.[^32-4] le decisioni in materia di diritto ai sussidi di una scuola universitaria o di un altro istituto accademico.
 
 <sup>2</sup>
 
@@ -460,6 +461,7 @@ Il ricorso è inoltre inammissibile contro:
 [^32-1]: Abrogata dall’all. n. II 1 della LF del 30 set. 2011 sulla promozione e sul coordinamento del settore universitario svizzero, con effetto dal 1° gen. 2015 ([RU 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [FF 2009 3925](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^32-2]: Nuovo testo giusta il n. I 3 della LF del 16 mar. 2012 sulla seconda fase della Riforma delle ferrovie 2, in vigore dal 1° lug. 2013 ([RU 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [FF 2011 823](https://fedlex.data.admin.ch/eli/fga/2011/131)).
 [^32-3]: Introdotta dall’all. n. 2 della LF del 26 set. 2016, in vigore dal 1° lug. 2016 ([RU 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [FF 2013 2131](https://fedlex.data.admin.ch/eli/fga/2013/428)).
+[^32-4]: Introdotta dal n. II della LF del 25 set. 2020, in vigore dal 1° mar. 2021 ([RU 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); FF **2020** 3235).
 
 #### Art. 33
 
@@ -501,7 +503,7 @@ Il ricorso è ammissibile contro le decisioni:
 [^33-3]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 [^33-4]: Introdotto dall’all. n. 1 della L del 1° ott. 2010 sulla restituzione degli averi di provenienza illecita ([RU 2011 275](https://fedlex.data.admin.ch/eli/oc/2011/38); [FF 2010 2871](https://fedlex.data.admin.ch/eli/fga/2010/596)). Nuovo testo giusta l’art. 31 cpv. 2 n. 1 della L del 18 dic. 2015 sui valori patrimoniali di provenienza illecita, in vigore dal 1° lug. 2016 ([RU 2016 1803](https://fedlex.data.admin.ch/eli/oc/2016/322); [FF 2014 4555](https://fedlex.data.admin.ch/eli/fga/2014/1134)).
 [^33-5]: [RS 196.1](https://fedlex.data.admin.ch/eli/cc/2016/322)
-[^33-6]: Introdotto dall’all. n. 2 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729), [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
+[^33-6]: Introdotto dall’all. n. 2 della LF del 23 dic. 2011 ([RU 2012 3745](https://fedlex.data.admin.ch/eli/oc/2012/428); [FF 2007 4613](https://fedlex.data.admin.ch/eli/fga/2007/729); [2010 6923](https://fedlex.data.admin.ch/eli/fga/2010/1444)). Nuovo testo giusta l’all. n. II 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-7]: [RS 121](https://fedlex.data.admin.ch/eli/cc/2017/494)
 [^33-8]: Introdotto dall’all. n. II 3 della LF del 25 set. 2015 sulle attività informative, in vigore dal 1° set. 2017 ([RU 2017 4095](https://fedlex.data.admin.ch/eli/oc/2017/494); [FF 2014 1885](https://fedlex.data.admin.ch/eli/fga/2014/407)).
 [^33-9]: Introdotto dal n. 1 dell’art 26 della LF sull’Istituto federale di metrologia, in vigore dal 1° gen. 2013 ([RU 2011 6515](https://fedlex.data.admin.ch/eli/oc/2011/902); [FF 2010 7073](https://fedlex.data.admin.ch/eli/fga/2010/1470)).
@@ -527,7 +529,7 @@ Il ricorso è ammissibile contro le decisioni:
 
 [^34-1]: Abrogato dal n. II della LF del 21 dic. 2007 (Finanziamento ospedaliero), con effetto dal 1° gen. 2009 ([RU 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [FF 2004 4903](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
-### Sezione 2: Azione****
+### Sezione 2: Azione
 
 [^chap2-sec2-1]
 
@@ -554,7 +556,7 @@ Il Tribunale amministrativo federale giudica su azione in prima istanza:
 
 L’azione è inammissibile se un’altra legge federale deferisce la controversia a una delle autorità menzionate nell’articolo 33.
 
-### Sezione 3:**** Divergenze di opinione in materia di assistenza amministrativa e giudiziaria a livello nazionale
+### Sezione 3: Divergenze di opinione in materia di assistenza amministrativa e giudiziaria a livello nazionale
 
 [^chap2-sec3-1]
 
@@ -566,7 +568,7 @@ L’azione è inammissibile se un’altra legge federale deferisce la controvers
 
 <sup>2</sup> I terzi non possono partecipare alla procedura.
 
-### Sezione 4:**** Autorizzazione di misure di acquisizione del Servizio delle attività informative
+### Sezione 4: Autorizzazione di misure di acquisizione del Servizio delle attività informative
 
 [^chap2-sec4-1]
 

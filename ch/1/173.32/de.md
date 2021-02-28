@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesverwaltungsgericht (Verwa
 short: VGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/352"
 language: de
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/352/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2006-352-20210301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/352/20210101/de"
 
 (Verwaltungsgerichtsgesetz, VGG)
 
-vom 17. Juni 2005 (Stand am 1. Januar 2021)
+vom 17. Juni 2005 (Stand am 1. März 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -410,7 +410,7 @@ Der Generalsekretär oder die Generalsekretärin steht der Gerichtsverwaltung vo
 
 ## 2. Kapitel: Zuständigkeiten
 
-### 1. Abschnitt: Beschwerde****
+### 1. Abschnitt: Beschwerde
 
 [^chap2-sec1-1]
 
@@ -448,7 +448,8 @@ Die Beschwerde ist unzulässig gegen:
 - f.[^32-2] Verfügungen über die Erteilung oder Ausdehnung von Infrastrukturkonzessionen für Eisenbahnen;
 - g. Verfügungen der unabhängigen Beschwerdeinstanz für Radio und Fernsehen;
 - h. Verfügungen über die Erteilung von Konzessionen für Spielbanken;
-- i.[^32-3] Verfügungen über die Erteilung, Änderung oder Erneuerung der Konzession für die Schweizerische Radio- und Fernsehgesellschaft (SRG).
+- i.[^32-3] Verfügungen über die Erteilung, Änderung oder Erneuerung der Konzession für die Schweizerische Radio- und Fernsehgesellschaft (SRG);
+- j.[^32-4] Verfügungen über die Beitragsberechtigung einer Hochschule oder einer anderen Institution des Hochschulbereichs.
 
 <sup>2</sup>
 
@@ -460,6 +461,7 @@ Die Beschwerde ist auch unzulässig gegen:
 [^32-1]: Aufgehoben durch Anhang Ziff. 1 des Hochschulförderungs- und -koordinationsgesetzes vom 30. Sept. 2011, mit Wirkung seit 1. Jan. 2015 ([AS 2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691); [BBl 2009 4561](https://fedlex.data.admin.ch/eli/fga/2009/812)).
 [^32-2]: Fassung gemäss Ziff. I 3 des BG vom 16. März 2012 über den zweiten Schritt der Bahnreform 2, in Kraft seit 1. Juli 2013 ([AS 2012 5619](https://fedlex.data.admin.ch/eli/oc/2012/656), [2013 1603](https://fedlex.data.admin.ch/eli/oc/2013/375); [BBl 2011 911](https://fedlex.data.admin.ch/eli/fga/2011/131))
 [^32-3]: Eingefügt durch Anhang Ziff. 2 des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
+[^32-4]: Eingefügt durch Ziff. II des BG vom 25. Sept. 2020, in Kraft seit 1. März 2021 ([AS 2021 68](https://fedlex.data.admin.ch/eli/oc/2021/68); [BBl 2020 3681](https://fedlex.data.admin.ch/eli/fga/2020/866)).
 
 #### Art. 33
 
@@ -527,7 +529,7 @@ Die Beschwerde ist zulässig gegen Verfügungen:
 
 [^34-1]: Aufgehoben durch Ziff. II des BG vom 21. Dez. 2007 (Spitalfinanzierung), mit Wirkung seit 1. Jan. 2009 ([AS 2008 2049](https://fedlex.data.admin.ch/eli/oc/2008/291); [BBl 2004 5551](https://fedlex.data.admin.ch/eli/fga/2004/1024)).
 
-### 2. Abschnitt: Klage****
+### 2. Abschnitt: Klage
 
 [^chap2-sec2-1]
 
