@@ -3,10 +3,11 @@ canton: ZH
 number: "414.417"
 title: Reglement über die Erweiterungsstudien an der Pädagogischen Hochschule Zürich
 language: de
-nachtrag: "97"
-valid_until: 2021-03-01
+version: "2021-03-01"
+nachtrag: "112"
+valid_until: 2026-09-01
 adopted: 2026-01-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_417-2017_04_05-2017_08_01-097.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_417-2017_04_05-2017_08_01-112.html"
 text: pdf
 ---
 
@@ -58,25 +59,25 @@ Die Gebühren richten sich nach der Weisung zu den Gebühren der Pädagogischen 
 
 **1**
 
-- 1\. 7. 17 - 97
+- 1\. 4. 21 - 112
 
 ### B. Zulassung
 
-#### § 4
-
 **Erweiterungsstudium für ein zusätzliches Fach**
 
-<sup>1</sup> Zum Erweiterungsstudium für ein zusätzliches Fach zugelassen werden Bewerberinnen und Bewerber, die a. über ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom der betreffenden Stufe mit Hochschul- oder gleichwertigem Abschluss verfügen oder b. an der Pädagogischen Hochschule Zürich (PHZH) das Studium für Quereinsteigende mit einem kantonalen Lehrdiplom der betreffenden Stufe abgeschlossen oder ein kantonales Stufendiplom Sekundarstufe I erworben haben.
+§ 4.[^hBZulassung-1] <sup>1</sup> Zum Erweiterungsstudium für ein zusätzliches Fach zugelassen werden Bewerberinnen und Bewerber, die a. über ein von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) anerkanntes Lehrdiplom der betreffenden Stufe verfügen oder b. an der Pädagogischen Hochschule Zürich (PHZH) ein kantonales Stufendiplom Sekundarstufe I erworben haben.
 
 <sup>2</sup> Ausnahmsweise können Studierende der PHZH, welche die Zulassungsvoraussetzungen noch nicht erfüllen, unter Vorbehalt des Erwerbs des Stufendiploms zum Erweiterungsstudium zugelassen werden. Die Prorektoratsleitung Ausbildung regelt die Einzelheiten.
 
-#### § 5
-
 **Erweiterungsstudium für eine zusätzlicheStufe**
 
-<sup>1</sup> Zum Erweiterungsstudium Kindergartenstufe werden Bewerberinnen und Bewerber zugelassen, die über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe mit Hochschul- oder gleichwertigem Abschluss verfügen.
+§ 5.[^hBZulassung-1] <sup>1</sup> Zum Erweiterungsstudium Primarstufe (Schuljahre 1 und 2) wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Primarstufe (Schuljahre 3 bis 8) verfügt.
 
-<sup>2</sup> Zum Erweiterungsstudium Primarstufe werden Bewerberinnen und Bewerber zugelassen, die über ein von der EDK anerkanntes Lehrdiplom für die Kindergartenstufe oder die Kindergarten-Unterstufe mit Hochschul- oder gleichwertigem Abschluss verfügen.
+<sup>2</sup> Zum Erweiterungsstudium Unterstufe (Schuljahre 3 bis 5) wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Kindergartenstufe verfügt.
+
+<sup>3</sup> Zum Erweiterungsstudium Primarstufe (Schuljahre 1 bis 8) wird zugelassen, wer über ein von der EDK anerkanntes Lehrdiplom für die Kindergartenstufe oder die Kindergarten-Unterstufe verfügt.
+
+[^hBZulassung-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 37; ABl 2020-11-27). In Kraft seit 1. März 2021.
 
 ### C. Studienangebote und Studienstruktur
 
@@ -94,15 +95,17 @@ Die Gebühren richten sich nach der Weisung zu den Gebühren der Pädagogischen 
 
 <sup>3</sup> Facherweiterungen für die Sekundarstufe I sind für alle Fächer gemäss kantonalem Lehrplan der Volksschule möglich.
 
-#### § 7
-
 **Erweiterungsstudium für eine zusätzlicheStufe**
 
-Stufenerweiterungen führen zu folgenden Stufendiplomen:
+§ 7.[^6-1] Erweiterungsstudien führen zu folgenden Diplomen:
 
-- a. Kindergartenstufe (für Lehrpersonen mit einem Lehrdiplom für die Primarstufe),
+- a. für Lehrpersonen mit einem von der EDK anerkannten Lehrdiplom für die Primarstufe: Erweiterungsdiplom für die Primarstufe (Schuljahre 1 und 2),
 
-- b. Primarstufe (für Lehrpersonen mit einem Lehrdiplom für die Kindergartenstufe oder die Kindergarten-Unterstufe).
+- b. für Lehrpersonen mit einem von der EDK anerkannten Lehrdiplom für die Kindergartenstufe: Erweiterungsdiplom für die Primarstufe (Schuljahre 3 bis 5),
+
+- c. für Lehrpersonen mit einem von der EDK anerkannten Lehrdiplom für die Kindergartenstufe oder die Kindergarten-Unterstufe: Erweiterungsdiplom für die Primarstufe (Schuljahre 3 bis 8 bzw. 6 bis 8).
+
+[^6-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 37; ABl 2020-11-27). In Kraft seit 1. März 2021.
 
 #### § 8
 
@@ -132,29 +135,29 @@ Die für die Regelstudiengänge vorgesehene Zwischenprüfung entfällt.
 
 <sup>2</sup> Bei erheblichen Zweifeln an der beruflichen Eignung kann die zuständige Abteilungsleitung eine erweiterte Eignungsbeurteilung einleiten. Eine negative Beurteilung führt zum Ausschluss auf dem Erweiterungsstudium.
 
-#### § 12
-
 **Studienabschluss**
 
-<sup>1</sup> Nach erfolgreichem Abschluss des Erweiterungsstudiums wird eine Diplomurkunde ausgestellt, die das ursprüngliche Lehrdiplom ergänzt und die Lehrbefähigung für das Fach oder die zusätzliche Stufe bescheinigt.
+§ 12.[^11-1] <sup>1</sup> Nach erfolgreichem Abschluss des Erweiterungsstudiums wird eine Diplomurkunde ausgestellt, die das ursprüngliche Lehrdiplom ergänzt und die Lehrbefähigung für das Fach oder die zusätzliche Stufe bescheinigt.
 
 <sup>2</sup> Die Diplomurkunde enthält:
 
 - a. die Personalien der/des Diplomierten,
 
-- b. den Vermerk «Erweiterungsdiplom, Lehrbefähigung für … (Fach bzw. Klassenstufe)»,
+- b. den Vermerk «Erweiterungsdiplom, Lehrbefähigung für … [Fach oder Schuljahre x bis y der Primarstufe]»,
 
-- c. den Vermerk: «Dieses Diplom ergänzt das von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren anerkannte Lehrdiplom für … (Stufe, evtl. Fächer) … vom (Datum des Lehrdiploms)»,
+- c. den Vermerk: «Dieses Diplom ergänzt das von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren anerkannte Lehrdiplom für … [Stufe, Schuljahre x bis y vom (Datum des Lehrdiploms)]»,
 
 - d. die Unterschrift der Prorektorin oder des Prorektors Ausbildung und der zuständigen Abteilungsleitung.
 
-<sup>3</sup> Bei Studierenden, die gemäss § 4 Abs. 1 lit. b zugelassen wurden, lautet der Vermerk gemäss Abs. 2 lit. c: «Dieses Diplom ergänzt das kantonale Lehrdiplom für die Sekundarstufe I» vom … (Datum des Lehrdiploms).
-
-<sup>4</sup> Die absolvierten Ausbildungsmodule, die Diplomnote und die Kreditpunkte werden auf einem Beiblatt zur Diplomurkunde ausgewiesen.
+<sup>3</sup> Bei Studierenden, die gemäss § 4 Abs. 1 lit. b zugelassen wurden, lautet der Vermerk gemäss Abs. 2 lit. c: «Dieses Diplom ergänzt das kantonale Lehrdiplom für die Sekundarstufe I vom … [Datum des Lehrdiploms]».
 
 **3**
 
-- 1\. 7. 17 - 97
+- 1\. 4. 21 - 112
+
+<sup>4</sup> Die absolvierten Ausbildungsmodule, die Diplomnote und die Kreditpunkte werden auf einem Beiblatt zur Diplomurkunde ausgewiesen.
+
+[^11-1]: Fassung gemäss B vom 18. November 2020 (OS 76, 37; ABl 2020-11-27). In Kraft seit 1. März 2021.
 
 ### D. Schlussbestimmung
 
