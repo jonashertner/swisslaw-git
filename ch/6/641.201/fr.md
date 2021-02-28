@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2021-02-01
+version: 2021-03-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (Etat le 1<sup>er</sup> février 2021)
+du 27 novembre 2009 (Etat le 1<sup>er</sup> mars 2021)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -610,7 +610,7 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. II 1 de l’O du 12 mars 2021, en vigueur du 28 janv. au 31 déc. 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021, en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Erratum du 1<sup>er</sup> mars. 2021, ne concerne que le texte italien ([RO 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
 
 #### Art. 36
 
@@ -2429,7 +2429,9 @@ L’exonération de l’impôt n’est applicable qu’aux livraisons et aux pre
 
 ### (art. 107, al. 1, let. a, LTVA)
 
-L’assujetti doit conserver tous les originaux des formules officielles utilisées avec les autres pièces justificatives, en vertu de l’art. 70, al. 2, LTVA. En ce qui concerne les formules officielles transmises et conservées électroniquement, les dispositions des art. 122 à 125 sont applicables par analogie.
+L’assujetti doit conserver tous les originaux des formules officielles utilisées avec les autres pièces justificatives, en vertu de l’art. 70, al. 2, LTVA. En ce qui concerne les formules officielles transmises et conservées électroniquement, les dispositions de l’art. 122[^147-1] sont applicables par analogie.
+
+[^147-1]: Le renvoi a été adapté au 1<sup>er</sup> janv. 2018 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 148
 

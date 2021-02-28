@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2021-02-01
+version: 2021-03-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Februar 2021)
+vom 27. November 2009 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -592,7 +592,7 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. II 1 der V vom 12. März 2021, in Kraft vom 28. Jan. 2021 bis zum 31. Dez. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021, in Kraft vom 1. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Die Berichtigung vom 1. März 2021 betrifft nur den italienischen Text ([AS 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
 
 #### Art. 36
 
@@ -2412,7 +2412,9 @@ Die Steuerbefreiung gilt nur für Lieferungen und Dienstleistungen:
 
 ### (Art. 107 Abs. 1 Bst. a MWSTG)
 
-Die steuerpflichtige Person muss die verwendeten amtlichen Formulare im Original zusammen mit den übrigen Belegen vollständig nach Artikel 70 Absatz 2 MWSTG aufbewahren. Bezüglich elektronisch übermittelter und aufbewahrter amtlicher Formulare gelten die Artikel 122–125 sinngemäss.
+Die steuerpflichtige Person muss die verwendeten amtlichen Formulare im Original zusammen mit den übrigen Belegen vollständig nach Artikel 70 Absatz 2 MWSTG aufbewahren. Bezüglich elektronisch übermittelter und aufbewahrter amtlicher Formulare gilt Artikel 122[^147-1] sinngemäss.
+
+[^147-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Jan. 2018 angepasst
 
 #### Art. 148
 

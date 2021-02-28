@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2021-02-01
+version: 2021-03-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210201/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210201-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210201/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20210301-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20210301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 February 2021)
+of 27 November 2009 (Status as of 1 March 2021)
 
 The Swiss Federal Council,
 
@@ -594,7 +594,7 @@ Members of human medical and nursing professions within the meaning of Article 2
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No II 1 of the O of 12 March 2021, in force from 28 Jan. 2021 to 31 Dec. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Inserted by No II of the O of 27 Jan. 2021, in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)).
+[^35-4]: Inserted by No II of the O of 27 Jan. 2021, in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). The correction of 1 March 2021 relates to the Italian text only ([AS 2021 122](https://fedlex.data.admin.ch/eli/oc/2021/122)).
 
 #### Art. 36
 
@@ -2413,7 +2413,9 @@ The tax exemption applies only to supplies of goods and supplies of services:
 
 ### (Art. 107 para. 1 let. a VAT Act)
 
-The taxable person must retain in full the originals of the official forms used, together with the other receipts, in accordance with Article 70 paragraph 2 VAT Act. For electronically transmitted and stored official forms, Articles 122–125 apply by analogy.
+The taxable person must retain in full the originals of the official forms used, together with the other receipts, in accordance with Article 70 paragraph 2 VAT Act. For electronically transmitted and stored official forms, Article 122[^147-1] applies by analogy.
+
+[^147-1]: The reference has been adapted in application of Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) on 1. Jan. 2018.
 
 #### Art. 148
 
