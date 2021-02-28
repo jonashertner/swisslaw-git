@@ -1,29 +1,789 @@
 ---
 canton: VD
 number: "850.11"
-title: ARRÊTÉ du 02.12.2009 de mise en vigueur
+title: "LOI du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale (LAPRAMS)"
+short: LAPRAMS
 language: fr
-version: 2010-01-01
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=5cd0fee7-c029-44be-8f73-3aa345232801"
+version: 2021-03-01
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11?id=2fa7a6aa-651f-4e5c-88ba-73796e00dd98"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
-# ARRÊTÉ de mise en vigueur
+# LOI d'aide aux personnes recourant à l'action médico-sociale
 
-du 2 décembre 2009
+(LAPRAMS)
 
-LE CONSEIL D'ÉTAT DU CANTON DE VAUD
+du 24 janvier 2006
 
-vu le préavis du Service juridique et législatif
+LE GRAND CONSEIL DU CANTON DE VAUD
 
-arrête
+vu le projet de loi présenté par le Conseil d'Etat
+
+décrète
+
+## Titre I Généralités
 
 #### Art. 1
 
-<sup>1</sup> Les lois ci-après, publiées dans la "Feuille des avis officiels du Canton de Vaud" du 16 octobre 2009, entrent en vigueur le 1er janvier 2010 :
+**But [^titleTitreI-1]**
 
-- - loi du 29 septembre 2009 sur l'impôt 2010 (RI 642) ;
-- - loi du 6 octobre 2009 sur l'Association vaudoise d'aide et de soins à domicile (RSV 801.11) ;
-- - loi du 6 octobre 2009 modifiant celle du 2 décembre 2003 sur l'action sociale vaudoise (RSVM 850.051), à l'exception de l'article 4, alinéa 2 qui entre en vigueur le 1er juillet 2010 ;
-- - loi du 6 octobre 2009 modifiant celle du 24 janvier 2006 d'aide aux personnes recourant à l'action médico-sociale (RSVM 850.11).
+<sup>1</sup> La loi a pour but de garantir l'accès à un encadrement médico-social ou psycho-éducatif de qualité à domicile et lors d'hébergement.
+
+<sup>2</sup> Sont réservées les législations sur la planification et le financement des établissements sanitaires d'intérêt public (LPFES) [^1-1] , sur la santé publique (LSP) [^1-2] , sur l'Association vaudoise d'aide et de soins à domicile (LAVASAD) [^1-3] , sur les mesures d'aide et d'intégration pour personnes handicapées (LAIH) [^1-4] , sur le financement résiduel des soins de longue durée en EMS (LFR-EMS) [^1-5] , ainsi que la loi d'application du droit fédéral de la protection de l'adulte et de l'enfant (LVPAE) [^1-6] .
+
+[^titleTitreI-1]: Modif. 3 du 06.10.2009: Modification Al. 2; entrée en vigueur au 01.01.2010 · Modif. 7 du 24.04.2012: Modification Al. 2; entrée en vigueur au 01.05.2012 · Modif. 8 du 29.05.2012: Modification Al. 2; entrée en vigueur au 01.01.2013 · Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+[^1-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+[^1-2]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
+[^1-3]: Loi du 06.10.2009 sur l'Association vaudoise d'aide et de soins à domicile ([BLV 801.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/801.11?id=6ac3d501-1d6c-410c-b8bd-8ccde4be8136))
+[^1-4]: Loi du 10.02.2004 sur les mesures d'aide et d'intégration pour personnes handicapées ( [BLV 850.61](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61?id=8515f5f1-5503-47fa-8ea7-9df0c12c04d5))
+[^1-5]: Loi du 24.04.2012 sur le financement résiduel des soins de longue durée en EMS ([BLV 810.04](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.04?id=9248bb59-6e33-48f8-909f-70d157a5a9f7))
+[^1-6]: Loi du 29.05.2012 d'application du droit fédéral de la protection de l'adulte et de l'enfant [(BLV 211.255)](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.255?id=a8ce56eb-a2c3-480a-b0a8-8fcdd6723e3d)
+
+#### Art. 2
+
+**Objet [^1-7]**
+
+<sup>1</sup> La loi institue un appui social et une aide financière individuelle en faveur des bénéficiaires dont les ressources sont insuffisantes pour couvrir les frais liés à :
+
+- a. l'action médico-sociale dispensée à domicile et lors d'hébergement en établissement médico-social (ci-après EMS) ou en home non médicalisé (ci-après HNM) ;
+- b. l'action psycho-éducative dispensée à domicile et lors d'hébergement en établissement psycho-social médicalisé (ci-après EPSM) ou en pension psycho-sociale (ci-après PPS).
+
+<sup>2</sup> Elle peut octroyer des subventions à l'Association vaudoise d'aide et de soins à domicile (ci-après : AVASAD) ainsi qu'aux autres organismes favorisant le maintien à domicile au sens de l'article 10, alinéa 2, lettre b.
+
+[^1-7]: Modif. 3 du 06.10.2009: Modification Al. 2; entrée en vigueur au 01.01.2010 · Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+
+#### Art. 2a
+
+**Centrale des solidarités [^2-1]**
+
+<sup>1</sup> La loi institue également la centrale des solidarités au titre de projet pilote qui s'adresse aux citoyens vaudois sans aucun réseau de proximité ou dont le réseau ne peut remplir qu'une partie des besoins, sans proches ou sans soutien par un organisme social ou médico-social.
+
+<sup>2</sup> Cette centrale a pour but de fournir des informations et de coordonner la réponse à des besoins urgents et essentiels.
+
+<sup>3</sup> Cette centrale est instituée pour une période de 2 ans, soit jusqu'au 31 décembre 2022. Au terme de cette période, une évaluation sera présentée au Conseil d'Etat pour déterminer si le projet est pérennisé par le biais d'une décision de ce dernier.
+
+[^2-1]: Modif. 14 du 08.12.2020: Introduction Art. 2a; entrée en vigueur au 01.03.2021
+
+#### Art. 3
+
+**Champ d'application personnel [^2a-1]**
+
+<sup>1</sup> La loi s'applique à toute personne qui, en raison de son âge, de la maladie ou d'un handicap, nécessite notamment un appui social, une aide à l'intégration sociale, un encadrement médico-social ou psycho-éducatif:
+
+- a. à domicile, et pour autant qu'elle soit domiciliée dans le canton ;
+- b. dans un EMS, un EPSM, une PPS ou un HNM au sens de la présente loi, et qui peut justifier d'un domicile dans le canton immédiatement avant son admission.
+
+<sup>2</sup> La loi s'applique également aux membres de l'entourage familial ou social qui contribuent de manière active et régulière au maintien à domicile de la personne âgée, malade ou handicapée.
+
+[^2a-1]: Modif. 6 du 13.12.2011: Modification Al. 1; entrée en vigueur au 01.01.2012 · Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+
+#### Art. 4
+
+**Autorité compétente [^3-1]**
+
+<sup>1</sup> Le département en charge de l'action médico-sociale (ci-après : le département)[^4-1] est l'autorité compétente pour exécuter la loi.
+
+<sup>2</sup> Il délègue aux services compétents la mission de veiller à l'application de la loi, en particulier en ce qui concerne la coordination entre les régimes sociaux chargés de financer les aides et les fournisseurs de prestations à domicile ou lors d'hébergement, définis aux titres II et III.
+
+<sup>2bis</sup> Le département, par sa Direction en charge de l'octroi des prestations au sens de la présente loi, peut confier à la Caisse cantonale de compensation AVS (ci-après : la Caisse) l'exécution de certaines tâches prévues par la loi.
+
+<sup>3</sup> Le règlement [^4-2] précise les modalités.
+
+[^3-1]: Modif. 13 du 11.12.2019: Introduction Al. 2bis; entrée en vigueur au 01.03.2020 · Modif. 15 du 21.11.2023: Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^4-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^4-2]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 4a
+
+**Délégation à l'AVASAD [^4-3]**
+
+<sup>1</sup> Dans le cadre de la subvention prévue à l'article 2, alinéa 2, le département délègue à l'AVASAD la compétence de réduire le coût de ses prestations d'aide à domicile mises à la charge des bénéficiaires, en fonction de leurs ressources. Le département édicte des normes qui comprennent, entre autres, la liste et le barême des prix des prestations et qui portent notamment sur l'aide à la famille, les repas à domicile, l'aide au ménage et les veilles et présences.
+
+<sup>2</sup> Les prestations sont fournies sur la base d'une évaluation de la situation du requérant et de son entourage. La loi sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises [^4a-1] est applicable en ce qui concerne le calcul du revenu déterminant et la composition de l'unité économique de référence. Les articles 9, alinéa 3, 11, alinéas 2 et 4 et 12, alinéas 1 à 3 de la loi d'application vaudoise de la loi fédérale sur l'assurance-maladie[^4a-2] sont également applicables par analogie.
+
+[^4-3]: Modif. 3 du 06.10.2009: Introduction Art. 4a; entrée en vigueur au 01.01.2010 · Modif. 4 du 09.11.2010: Modification Al. 2; entrée en vigueur au 01.01.2013 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^4a-1]: Loi du 09.11.2010 sur l'harmonisation et la coordination de l'octroi des prestations sociales et d'aide à la formation et au logement cantonales vaudoises ([BLV 850.03](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.03?id=db1ccfb7-873f-4a81-8cd5-fbabe8fe816c))
+[^4a-2]: Loi du 25.06.1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie ( [BLV 832.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/832.01?id=604dfd14-925f-4149-ba81-bf2d4ecb9284))
+
+#### Art. 5
+
+**Conventions tarifaires [^4a-3]**
+
+<sup>1</sup> En principe, les aides financières accordées aux bénéficiaires des régimes sociaux, notamment les prestations complémentaires à l'AVS/AI (ci-après : PC AVS/AI) et les aides individuelles versées au titre de la loi, sont fixées dans le cadre de conventions tarifaires conclues entre le département et les fournisseurs de prestations.
+
+<sup>2</sup> Le Conseil d'Etat fixe les règles sur lesquelles se fondent les conventions, relativement aux montants que peuvent facturer les fournisseurs de prestations aux bénéficiaires de la loi, ainsi qu'au montant mensuel affecté à leurs dépenses personnelles. Elles ont notamment pour but de régler les conditions de prise en charge financière des bénéficiaires et le tarif des prestations.
+
+<sup>3</sup> En cas d'absence de conventions entre le département et les EMS, les EPSM, les PPS ou les HNM, le Conseil d'Etat fixe les tarifs par voie d'arrêté.
+
+[^4a-3]: Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Modification Al. 2; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+
+#### Art. 6
+
+**Subsidiarité**
+
+<sup>1</sup> L'aide financière individuelle de l'Etat est subsidiaire aux prestations des assurances sociales et des régimes sociaux, en particulier aux PC AVS/AI ainsi qu'aux autres ressources du requérant
+
+<sup>2</sup> Les subventions accordées aux organismes favorisant le maintien à domicile au sens de la loi sont subsidiaires aux subventions fédérales en vigueur.
+
+#### Art. 6a
+
+**Avance d'aide [^6-1]**
+
+<sup>1</sup> L'aide financière individuelle peut être accordée à titre d'avance :
+
+- a. au bénéficiaire en attente des prestations d'assurances sociales ou de la contribution d'assistance au sens de la législation fédérale qu'il aura préalablement demandées ;
+- b. au bénéficiaire qui s'est engagé à rembourser l'aide individuelle notamment sur la base d'une reconnaissance de dette ou d'un titre hypothécaire.
+
+<sup>2</sup> Lorsqu'une prestation d'assurance sociale est octroyée rétroactivement ou que des montants sont perçus ensuite de la réalisation de titres ou de la vente d'un bien immobilier, le bénéficiaire doit rembourser les aides accordées à titre d'avance à concurrence des montants perçus.
+
+<sup>3</sup> Une obligation de remboursement incombe également aux héritiers, pour autant qu'ils tirent profit de la succession.
+
+<sup>4</sup> L'autorité compétente réclame, par voie de décision, le remboursement des avances octroyées.
+
+<sup>5</sup> La décision entrée en force est assimilée à un jugement exécutoire au sens de l'article 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^6a-1].
+
+[^6-1]: Modif. 12 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-5; entrée en vigueur au 01.03.2019; Introduction Art. 6a; entrée en vigueur au 01.03.2019
+[^6a-1]: [Loi fédérale du 11.04.1889 sur la poursuite pour dettes et la faillite, RS 281.1](https://www.admin.ch/opc/fr/classified-compilation/18890002/index.html)
+
+#### Art. 6b
+
+**Avances à des propriétaires [^6a-2]**
+
+<sup>1</sup> L'aide individuelle peut exceptionnellement être octroyée à des personnes propriétaires de biens immobiliers ou d'autres valeurs dont on ne peut exiger la réalisation.
+
+<sup>2</sup> Le remboursement de telles avances est en règle générale garanti par la mise en gage d'un bien immobilier, au profit de l'Etat. Peuvent être grevés de ce gage, les immeubles inscrits au registre foncier au nom du bénéficiaire ou de celui de son conjoint au sens de l'article 30, alinéa 1. L'inscription, de même que la radiation du gage ont lieu sur réquisition du service.
+
+<sup>3</sup> S'il s'agit de valeurs non réalisables, celles-ci doivent être données en garantie, par exemple par cession de créance ou nantissement.
+
+<sup>4</sup> Le remboursement peut être exigé dès que les avoirs sont réalisables.
+
+<sup>5</sup> Les conditions de l'article 6a s'appliquent pour le surplus.
+
+[^6a-2]: Modif. 12 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-5; entrée en vigueur au 01.03.2019; Introduction Art. 6b; entrée en vigueur au 01.03.2019
+
+#### Art. 6c
+
+**Dessaisissement [^6b-1]**
+
+<sup>1</sup> La personne qui se dessaisit de sa fortune, et qui doit de ce fait faire appel aux prestations des régimes sociaux, ne peut en principe pas bénéficier d'une aide financière individuelle.
+
+<sup>1bis</sup> On entend notamment par dessaisissement de fortune, le fait qu'une personne renonce à exercer une activité lucrative que l'on pourrait raisonnablement exiger d'elle, les revenus, parts de fortune et droits légaux ou contractuels auxquels l'ayant droit a renoncé sans obligation légale ou sans contre-prestation adéquate ainsi que la consommation excessive de la fortune.
+
+<sup>2</sup> L'aide individuelle peut cependant être accordée exceptionnellement dans les situations suivantes :
+
+- a. lorsque le remboursement de l'aide individuelle fait l'objet d'une reconnaissance de dette du tiers ayant bénéficié du dessaisissement ;
+- b. lorsque le remboursement de l'aide individuelle est garanti par titre hypothécaire ;
+- c. dans des cas de rigueur, lorsque les circonstances le justifient au regard des buts de la présente loi.
+
+<sup>3</sup> Le règlement fixe les modalités.
+
+[^6b-1]: Modif. 12 du 11.12.2018: Introduction Art. 6c; entrée en vigueur au 01.03.2019 · Modif. 14 du 08.12.2020: Modification tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1bis; entrée en vigueur au 01.03.2021
+
+#### Art. 6d
+
+**Subrogation [^6c-1]**
+
+<sup>1</sup> Le bénéficiaire informe sans délai le département de toute demande de prestations d'assurances sociales déposée.
+
+<sup>2</sup> L'Etat qui a accordé une aide financière individuelle ou une avance d'aide est subrogé dans les droits du bénéficiaire envers les assurances sociales à concurrence des montants versés.
+
+[^6c-1]: Modif. 12 du 11.12.2018: Introduction Art. 6d; entrée en vigueur au 01.03.2019
+
+#### Art. 7
+
+**Contrôle et surveillance [^6d-1]**
+
+<sup>1</sup> Le département a notamment pour mission d'assurer le contrôle de la gestion et la surveillance des fournisseurs de prestations et organismes soumis à la loi, et de surveiller l'activité des organismes et établissements qu'il subventionne.
+
+<sup>2</sup> Ceux-ci sont tenus de fournir toutes les informations nécessaires concernant leur activité, notamment comptables, financières et statistiques. Les organismes et établissements subventionnés sont en outre tenus de communiquer sans délai tout changement de nature à modifier les subventions. Le département contrôle en particulier que les ressources allouées soient utilisées conformément à l'affectation prévue.
+
+<sup>3</sup> Pour les EMS, les EPSM, les PPS et les HNM, le département, par la Coordination interservices des visites en EMS au sens de la réglementation sur les établissements sanitaires, s'assure de la qualité de prise en charge sociale des personnes accueillies et peut visiter les établissements en tout temps.
+
+<sup>4</sup> …
+
+<sup>5</sup> Le règlement [^7-1] précise la portée et les modalités relatives à la surveillance, au contrôle et aux informations requises.
+
+[^6d-1]: Modif. 5 du 17.05.2011: Modification Al. 1,2; entrée en vigueur au 01.10.2011; Abrogation Al. 4; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 3; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^7-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 8
+
+**Répartition des dépenses et revenus**
+
+<sup>1</sup> La répartition entre l'Etat et les communes des dépenses et des revenus, engagés en vertu de la loi et relatifs à l'aide financière et aux subventions, s'effectue selon les principes établis dans la loi sur l'organisation et le financement de la politique sociale [^8-1] .
+
+[^8-1]: Loi du 24.11.2003 sur l'organisation et le financement de la politique sociale ([BLV 850.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.01?id=f297eb49-bbd1-467c-8406-c7b66e735f61))
+
+#### Art. 9
+
+**Obligation de renseigner**
+
+<sup>1</sup> Les autorités administratives cantonales et communales, ainsi que les offices à caractère public concernés, fournissent gratuitement au département les informations dont il a besoin pour atteindre le but qui lui incombe en vertu de la loi (octroi de l'aide financière individuelle).
+
+## Titre II Maintien à domicile
+
+### Chapitre I Définitions et prestations
+
+### Section I Maintien à domicile
+
+#### Art. 10
+
+**Prestations d'aide au maintien à domicile [^sectionSectionI-1]**
+
+<sup>1</sup> Les prestations d'aide au maintien à domicile, au sens de la loi, sont celles qui permettent d'éviter, de retarder ou d'interrompre l'hébergement en EMS, en EPSM, en PPS, en HNM ou en structure d'accueil au sens de la LAIH[^10-1] .
+
+<sup>2</sup> Il s'agit notamment :
+
+- a. des prestations fournies par les organisations de soins à domicile définies par la LSP [^10-2] (ci-après : OSAD);
+- b. des prestations délivrées par les organismes favorisant le maintien à domicile et qui comprennent notamment :
+- - l'aide, le soutien, l'accompagnement et l'encadrement socio-éducatif ainsi que l'encadrement sécuritaire à domicile;
+- - des mesures de soutien à l'entourage, dont notamment les services de relève;
+- - les mesures favorisant l'accessibilité aux transports adaptés des personnes à mobilité réduite;
+- - l'information et le conseil social;
+- - les mesures favorisant l'intégration sociale et l'entraide;
+- - le conseil spécialisé fourni par un organisme reconnu permettant l'engagement d'auxiliaires de vie par des personnes handicapées .
+- c. des prestations délivrées dans les structures intermédiaires au sens des articles 13 à 19.
+- d. des prestations d'auxiliaires de vie engagés par les personnes handicapées elles-mêmes, qui assument un rôle d'employeur, avec le soutien d'un organisme reconnu, pour autant que ces prestations soient reconnues par une assurance sociale fédérale.
+
+<sup>3</sup> Le règlement [^10-3] définit le détail de ces prestations.
+
+[^sectionSectionI-1]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+[^10-1]: Loi du 10.02.2004 sur les mesures d'aide et d'intégration pour personnes handicapées ( [BLV 850.61](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.61?id=8515f5f1-5503-47fa-8ea7-9df0c12c04d5))
+[^10-2]: Loi du 29.05.1985 sur la santé publique ([BLV 800.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/800.01?id=258cb2db-b772-411c-b0c5-6ed80967c762))
+[^10-3]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 11
+
+**Aide individuelle**
+
+<sup>1</sup> Dans les cas de rigueur, le département peut octroyer une aide financière aux personnes en difficulté bénéficiant des prestations favorisant le maintien à domicile ou d'un projet de maintien à domicile.
+
+<sup>2</sup> L'aide n'est octroyée que si les prestations sont dispensées par un fournisseur reconnu et signataire d'une convention tarifaire.
+
+<sup>3</sup> Le règlement [^11-1] définit le détail de ces prestations.
+
+[^11-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 12
+
+**Aide à l'entourage**
+
+<sup>1</sup> Une aide financière individuelle peut être octroyée au membre de l'entourage qui se trouve dans l'obligation de renoncer partiellement ou totalement à une activité lucrative en raison de son engagement auprès de la personne âgée, malade ou handicapée.
+
+<sup>2</sup> Une aide financière individuelle peut être octroyée sous certaines conditions aux personnes qui ne remplissent pas les conditions d'accès aux PC AVS/AI, mais dont les revenus leurs sont inférieurs.
+
+<sup>3</sup> La demande d'aide s'effectue sur la base d'une évaluation réalisée par un organisme délégataire reconnu par le département.
+
+<sup>4</sup> Le règlement [^12-1] fixe les modalités.
+
+[^12-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+[^12-2]: Modif. 11 du 07.11.2017: Modification ; entrée en vigueur au 01.01.2018
+
+### Section II Centre d'accueil temporaire
+
+[^12-2]
+
+#### Art. 13
+
+**Définition [^sectionSectionII-1]**
+
+<sup>1</sup> Un centre d'accueil temporaire (ci-après : CAT) est une "structure de soins de jour ou de nuit", au sens de l'article 26h LPFES[^13-1] , reconnue d'intérêt public.
+
+<sup>2</sup> L'accueil temporaire est limité à une durée maximale de 48 heures consécutives.
+
+[^sectionSectionII-1]: Modif. 5 du 17.05.2011: Modification Al. 1; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+[^13-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+
+#### Art. 13a
+
+**Autorisation d'exploiter [^13-2]**
+
+<sup>1</sup> Pour obtenir une autorisation d'exploiter délivrée par le département, le CAT doit notamment répondre aux conditions cumulatives suivantes :
+
+- a. disposer de locaux adaptés et du personnel nécessaire ;
+- b. être exploité par un EMS ou un EPSM reconnus d'intérêt public, une OSAD reconnue ou un organisme favorisant le maintien à domicile ;
+- c. soumettre un projet de Centre d'accueil ainsi qu'un règlement portant sur les éléments principaux de l'organisation ;
+- d. appliquer un contrat entre l'usager et le CAT, dont le département fixe le contenu minimal.
+
+<sup>2</sup> Le règlement fixe en particulier les exigences de dotation et le niveau de formation du personnel dévolu à l'accompagnement socio-culturel et aux soins, et les modalités des contrôles y relatifs.
+
+[^13-2]: Modif. 12 du 11.12.2018: Introduction Art. 13a; entrée en vigueur au 01.03.2019
+
+#### Art. 14
+
+**Prestations [^13a-1]**
+
+<sup>1</sup> Le CAT dispense notamment des prestations socio-hôtelières, de transport, d'animation ou des prestations psycho-éducatives.
+
+<sup>1bis</sup> Le CAT assure, en coordination avec un EMS, un EPSM ou un organisme favorisant le maintien à domicile, une prise en charge pour personnes âgées, handicapées ou souffrant de troubles psychiques vivant à domicile.
+
+<sup>2</sup> Le règlement[^14-1] définit le catalogue détaillé des prestations dispensées par le CAT.
+
+[^13a-1]: Modif. 11 du 07.11.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Introduction Al. 1bis; entrée en vigueur au 01.01.2018
+[^14-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 15
+
+**Aide individuelle [^14-2]**
+
+<sup>1</sup> Une aide financière individuelle peut être octroyée aux bénéficiaires des prestations dispensées dans un CAT partie à une convention tarifaire.
+
+<sup>2</sup> Les modalités de financement, notamment par subvention cantonale ainsi que par les personnes accueillies, sont fixées à l'article 20a de la loi et dans le règlement[^15-1] .
+
+[^14-2]: Modif. 5 du 17.05.2011: Modification Al. 2; entrée en vigueur au 01.10.2011 · Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+[^15-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+[^15-2]: Modif. 15 du 21.11.2023: Modification ; entrée en vigueur au 01.07.2023
+
+### Section III Logement protégé
+
+[^15-2]
+
+#### Art. 16
+
+**Définition [^sectionSectionIII-1]**
+
+<sup>1</sup> Un logement protégé (al. 2) ou un logement supervisé (al. 2<sup>bis</sup>) est un appartement indépendant conçu pour permettre le maintien à domicile de personnes âgées, handicapées ou souffrant de troubles psychiques et dans lequel des prestations médico-sociales ou psycho-éducatives reconnues par la loi sont dispensées.
+
+<sup>2</sup> Les personnes âgées qui, moyennant un bail à loyer, vivent en logement protégé, disposent au minimum d'un appartement adapté, d'espaces communautaires et d'un encadrement sécuritaire.
+
+<sup>2bis</sup> Les personnes souffrant de troubles psychiques ou handicapées psychiques qui, moyennant un bail à loyer, vivent en logement supervisé, disposent au minimum d'un appartement individuel, d'espaces communautaires et d'un soutien psycho-éducatif.
+
+<sup>3</sup> Le règlement [^16-1] fixe les modalités.
+
+[^sectionSectionIII-1]: Modif. 11 du 07.11.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Introduction Al. 2bis; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Modification Al. 1,2,2bis; entrée en vigueur au 01.07.2023; Introduction Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023
+[^16-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 17
+
+**Aide individuelle [^16-2]**
+
+<sup>1</sup> Une aide financière individuelle peut être octroyée à la personne résidant dans un logement protégé ou supervisé, dont les prestations médico-sociales, respectivement psycho-éducatives, sont gérées par une structure qui remplit cumulativement les conditions suivantes :
+
+- a. être constituée en association ou fondation ;
+- b. appliquer les tarifs convenus et s'engager avec le bénéficiaire par le biais d'un contrat de prise en charge ;
+- c. assurer une qualité de prise en charge satisfaisante dans l'application des prestations minimums définies à l'article 16 et disposer du personnel qualifié ;
+- d. collaborer avec les dispositifs d'information et d'orientation des résidents mis en place par le réseau de soins.
+
+<sup>2</sup> L'aide financière peut être octroyée sur la base d'une évaluation des besoins et des ressources du bénéficiaire par une OSAD reconnue ou par une institution signataire d'une convention tarifaire.
+
+<sup>3</sup> Elle est accordée sur la base d'un contrat conclu entre le résident et la structure gérant le logement protégé.
+
+<sup>4</sup> Le règlement[^17-1] précise les modalités.
+
+[^16-2]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018 · Modif. 15 du 21.11.2023: Introduction Art. 4, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 7, Al. 3bis; entrée en vigueur au 01.07.2023; Introduction Art. 12a; entrée en vigueur au 01.07.2023; Introduction Art. 16, Al. 2quater,2ter; entrée en vigueur au 01.07.2023; Introduction Art. 16a; entrée en vigueur au 01.07.2023; Introduction Art. 16b; entrée en vigueur au 01.07.2023; Modification Al. 1; entrée en vigueur au 01.07.2023; Modification Al. 1, a-b; entrée en vigueur au 01.07.2023; Modification Al. 2; entrée en vigueur au 01.07.2023
+[^17-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+### Section IV Court séjour
+
+#### Art. 18
+
+**Définition [^sectionSectionIV-1]**
+
+<sup>1</sup> Le court séjour est un hébergement temporaire pour des personnes nécessitant une prise en charge, des soins médico-sociaux ou un accompagnement psycho-éducatif en vue de favoriser le maintien ou le retour à domicile.
+
+<sup>2</sup> Le court séjour est en principe limité, par année civile, à 30 jours en EMS et à 60 jours en EPSM.
+
+<sup>2bis</sup> Le court séjour est réservé aux personnes domiciliées sur territoire vaudois.
+
+<sup>3</sup> Le règlement [^18-1] précise les modalités.
+
+[^sectionSectionIV-1]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018; Introduction Al. 2bis; entrée en vigueur au 01.01.2018
+[^18-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 19
+
+**Aide individuelle**
+
+<sup>1</sup> Par exception au principe de l'article 2, alinéa 1, l'aide au court séjour est octroyée à toute personne qui réalise les conditions de l'article 18, dans les limites des modalités fixées par le règlement [^19-1] .
+
+[^19-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+### Chapitre II Subventions aux organismes favorisant le maintien à domicile
+
+#### Art. 20
+
+**Subventions aux organismes favorisant le maintien à domicile [^chapterChapitreII-1]**
+
+<sup>1</sup> Le département peut accorder une subvention aux organismes favorisant le maintien à domicile qui mettent en oeuvre des programmes permettant de réaliser les prestations prévues à l'article 10, alinéa 2, lettre b.
+
+<sup>2</sup> Pour être subventionnés, ces organismes doivent, en principe, remplir les conditions cumulatives suivantes :
+
+- a. être constitués en association, fondation ou institution de droit public;
+- b. répondre à des besoins identifiés dans le cadre d'une activité cantonale;
+- c. garantir des prestations de qualité et disposer du personnel qualifié;
+- d. prévoir une évaluation des résultats;
+- e. passer une convention avec le département.
+
+<sup>3</sup> Le règlement[^20-1] précise les modalités.
+
+[^chapterChapitreII-1]: Modif. 5 du 17.05.2011: Modification Al. t; entrée en vigueur au 01.10.2011
+[^20-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 20a
+
+**Subventions aux établissements médico-sociaux pour les prestations de maintien à domicile [^20-2]**
+
+<sup>1</sup> Le département peut accorder une subvention :
+
+- a. aux établissements médico-sociaux et aux Associations/Fondation régionales d'aide et de soins à domicile au sens de la loi du 6 octobre 2009 sur l'Association vaudoise d'aide et de soins à domicile[^20a-1] , pour les prestations d'accueil temporaire au sens de l'article 13 ;
+- b. aux établissements médico-sociaux pour les prestations de court séjour au sens de l'article 18 de la loi.
+
+<sup>2</sup> La contribution de l'Etat est inscrite au budget du département et fait l'objet d'une convention entre le département et les EMS, respectivement les Associations/Fondation régionales, qui porte notamment sur :
+
+- a. les montants permettant de compenser les coûts administratifs induits par la prise en charge des résidents en court séjour ;
+- b. les montants permettant de contribuer au financement des charges fixes et du personnel d'encadrement pour les prestations en unité d'accueil temporaire ;
+- c. les montants permettant de compenser la part non prise en charge par les assureurs- maladie, au sens de l'article 26g, lettre b LPFES [^20a-2] , pour les prestations en unité d'accueil temporaire ;
+- d. la garantie des prestations de qualité et de mise à disposition de personnel qualifié ;
+- e. l'évaluation, le suivi et le contrôle.
+
+<sup>3</sup> Le règlement [^20a-3] précise les modalités.
+
+[^20-2]: Modif. 5 du 17.05.2011: Introduction Art. 20a; entrée en vigueur au 01.10.2011
+[^20a-1]: Loi du 06.10.2009 sur l'Association vaudoise d'aide et de soins à domicile ([BLV 801.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/801.11?id=6ac3d501-1d6c-410c-b8bd-8ccde4be8136))
+[^20a-2]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+[^20a-3]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+## Titre III Hébergement
+
+### Chapitre I Dispositions générales
+
+#### Art. 21
+
+**Etablissement médico-social et établissement psycho-social médicalisé [^chapterChapitreI-1]**
+
+<sup>1</sup> Un établissement médico-social, au sens de la présente loi, est l'établissement médico-social reconnu d'intérêt public sur la base de la LPFES[^21-1] .
+
+<sup>2</sup> Un EPSM, au sens de la présente loi, est un EMS reconnu d'intérêt public sur la base de la LPFES.
+
+[^chapterChapitreI-1]: Modif. 11 du 07.11.2017: Modification Al. t; entrée en vigueur au 01.01.2018; Introduction Al. 2; entrée en vigueur au 01.01.2018 · Modif. 16 du 03.06.2025: Modification Al. 1; entrée en vigueur au 01.09.2025
+[^21-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+
+#### Art. 21a
+
+**Pension psycho-sociale [^21-2]**
+
+<sup>1</sup> Une PPS est un lieu d'hébergement non médicalisé accueillant des personnes qui souffrent de difficultés psychiques et qui ne peuvent se suffire à elles-mêmes, sans nécessiter de soins continus. Elle propose des prestations psycho-éducatives ponctuelles.
+
+<sup>2</sup> Le cas échéant, le suivi médical y est assuré par des prestataires admis à pratiquer à charge de l'assurance obligatoire des soins.
+
+<sup>3</sup> La PPS bénéficie d'une participation de l'Etat à ses frais d'investissements et d'exploitation analogue à celle prévue par les articles 26 et 26 f LPFES[^21a-1] en faveur des EMS reconnus d'intérêt public.
+
+[^21-2]: Modif. 11 du 07.11.2017: Introduction Art. 21a; entrée en vigueur au 01.01.2018
+[^21a-1]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+
+#### Art. 22
+
+**Home non médicalisé [^21a-2]**
+
+<sup>1</sup> Un HNM est un home au bénéfice d'une autorisation d'exploiter au sens de l'article 23 et accueillant au minimum six personnes, en principe âgées, qui ne peuvent se suffire à elles-mêmes et sans nécessiter de soins continus. Il propose un accompagnement social et, le cas échéant, une aide pour effectuer certains actes de la vie quotidienne.
+
+[^21a-2]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+
+#### Art. 23
+
+**Autorisation d'exploiter un HNM ou une PPS [^22-1]**
+
+<sup>1</sup> Pour obtenir une autorisation d'exploiter, un HNM ou une PPS doit répondre aux conditions cumulatives suivantes :
+
+- a. remplir les conditions prévues par le règlement[^23-1] relatives à la qualité de la prise en charge ;
+- b. conclure un contrat type d'hébergement avec le bénéficiaire, dont les modalités sont fixées par le règlement ;
+- c. être dirigé par une ou des personnes justifiant de connaissances professionnelles reconnues suffisantes par le département ;
+- d. disposer du personnel qualifié pour assumer l'encadrement et l'animation ;
+- e. passer une convention tarifaire avec le département ;
+- f. appliquer les dispositions edictées par le Conseil d'Etat en matière de conditions de travail minimales.
+- g. présenter des garanties financières et en matière d'organisation, propres à assurer la pérennité du HNM ou de la PPS ;
+- h. appliquer les prix fixés par le département pour les prestations ordinaires supplémentaires et les prestations supplémentaires à choix ;
+- i. être géré par une structure constituée en association ou fondation.
+
+<sup>2</sup> L'autorisation d'exploiter est accordée pour une durée déterminée ; elle est renouvelable.
+
+<sup>3</sup> Le règlement précise les modalités et les conditions de l'autorisation d'exploiter.
+
+<sup>4</sup> Les dispositions de la LPFES[^23-2] concernant le barème et le calcul de la rémunération des directeurs d'EMS et celles relatives à la sous-traitance et à l'obligation de restitution de la participation financière s'appliquent par analogie.
+
+[^22-1]: Modif. 10 du 08.12.2015: Introduction Al. 1 f; entrée en vigueur au 01.01.2016 · Modif. 11 du 07.11.2017: Modification Al. t,1; entrée en vigueur au 01.01.2018 · Modif. 12 du 11.12.2018: Introduction Al. 1, g-i; entrée en vigueur au 01.03.2019; Introduction Al. 4; entrée en vigueur au 01.03.2019
+[^23-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+[^23-2]: Loi du 05.12.1978 sur la planification et le financement des établissement sanitaires d'intérêt public ([BLV 810.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/810.01?id=be2f6c06-545a-4c48-b908-a0fef1ecae74))
+
+#### Art. 24
+
+**Soutien administratif aux résidents [^23-3]**
+
+<sup>1</sup> Les EMS, les EPSM, les HNM et les PPS fournissent toutes informations utiles à leurs résidents et s'assurent que les démarches administratives nécessaires dans le cadre de l'hébergement soient accomplies, en particulier pour l'obtention de toutes les prestations sociales auxquelles ils peuvent prétendre.
+
+<sup>2</sup> L'aide individuelle n'est pas octroyée si le soutien prévu au précédent alinéa n'est pas fourni.
+
+[^23-3]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+
+### Chapitre II Prestations
+
+#### Art. 25
+
+**Long séjour [^chapterChapitreII-2]**
+
+<sup>1</sup> Le long séjour est un hébergement de durée indéterminée en EMS, en EPSM, en PPS ou en HNM.
+
+[^chapterChapitreII-2]: Modif. 11 du 07.11.2017: Modification Al. 1; entrée en vigueur au 01.01.2018
+
+#### Art. 26
+
+**Prestations socio-hôtelières**
+
+<sup>1</sup> Dans le cadre du long séjour, le résident bénéficie de prestations dans les domaines hôtelier et social, fixées dans un standard dont les modalités sont précisées dans le règlement [^26-1] .
+
+[^26-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 26a
+
+**Prestations socio-éducatives [^26-2]**
+
+<sup>1</sup> Dans le cadre du long séjour en EPSM ou en PPS, le résident bénéficie de prestations socio-éducatives, fixées dans un catalogue dont le standard et les modalités sont définies par le règlement[^26a-1].
+
+[^26-2]: Modif. 11 du 07.11.2017: Introduction Art. 26a; entrée en vigueur au 01.01.2018
+[^26a-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 27
+
+**Appui social**
+
+<sup>1</sup> Le département fournit l'appui social au résident, sous forme d'encadrement, de soutien, d'écoute, d'information, de conseil et d'intervention en sa faveur auprès d'autres organismes.
+
+### Chapitre III Aides individuelles
+
+#### Art. 28
+
+**Aide individuelle en cas de long séjour [^chapterChapitreIII-1]**
+
+<sup>1</sup> L'Etat accorde une aide financière aux personnes dont les ressources sont insuffisantes pour couvrir les frais dus à leur hébergement. Il verse le montant de l'aide à l'établissement dans lequel séjourne le bénéficiaire.
+
+<sup>2</sup> L'aide individuelle journalière correspond à la différence entre le coût des prestations fournies conformément aux articles 26 et 26a et le revenu déterminant au sens de l'article 29.
+
+[^chapterChapitreIII-1]: Modif. 11 du 07.11.2017: Modification Al. 2; entrée en vigueur au 01.01.2018
+
+#### Art. 28a
+
+**Conditions d'octroi des aides individuelles pour les résidents en EPSM et en PPS [^28-1]**
+
+<sup>1</sup> Le Conseil d'Etat définit dans le règlement[^28a-1] les conditions d'octroi des aides financières individuelles pour les résidents en EPSM et en PPS.
+
+[^28-1]: Modif. 11 du 07.11.2017: Introduction Art. 28a; entrée en vigueur au 01.01.2018
+[^28a-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 29
+
+**Revenu déterminant**
+
+<sup>1</sup> Le revenu déterminant correspond à la différence entre les ressources et les charges du bénéficiaire. Il tient compte de la fortune de ce dernier dans la mesure fixée par le règlement [^29-1] .
+
+<sup>2</sup> Lorsque les circonstances le justifient, les ressources prises en compte peuvent s'écarter du revenu déterminant.
+
+[^29-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 29a
+
+**Compléments pour cas de rigueur [^29-2]**
+
+<sup>1</sup> Le Conseil d'Etat peut prévoir des dérogations aux conditions d'octroi d'une aide financière individuelle aux personnes hébergées au sens de l'article 25, afin de tenir compte de situations particulièrement pénibles et dignes d'intérêt.
+
+[^29-2]: Modif. 12 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1; entrée en vigueur au 01.03.2019; Introduction Art. 29a; entrée en vigueur au 01.03.2019
+
+#### Art. 30
+
+**Aide au couple**
+
+<sup>1</sup> En cas de requête de personnes vivant durablement en ménage commun, dans une communauté économique dont l'un des membres demeure à domicile, l'aide accordée doit garantir à ce dernier le maintien d'un pouvoir d'achat raisonnable.
+
+<sup>2</sup> Le règlement [^30-1] fixe les modalités.
+
+[^30-1]: Règlement du 28.06.2006 d'application de la loi du 24.01.2006 d'aide aux personnes recourant à l'action médico-sociale ([BLV 850.11.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/850.11.1?id=760f3b93-373a-4006-a572-9ccac7852fb8))
+
+#### Art. 31
+
+**... [^30-2]**
+
+<sup>1</sup> ...
+
+<sup>2</sup> ...
+
+- a. ...
+- b. ...
+- c. ...
+
+<sup>3</sup> ...
+
+[^30-2]: Modif. 9 du 10.12.2013: Modification Al. 1,2; entrée en vigueur au 01.01.2014 · Modif. 12 du 11.12.2018: Abrogation tArt; entrée en vigueur au 01.03.2019; Abrogation Al. 1-3; entrée en vigueur au 01.03.2019
+
+#### Art. 32
+
+**... [^31-1]**
+
+<sup>1</sup> ...
+
+<sup>2</sup> ...
+
+[^31-1]: Modif. 12 du 11.12.2018: Abrogation tArt; entrée en vigueur au 01.03.2019; Abrogation Al. 1-2; entrée en vigueur au 01.03.2019
+
+#### Art. 33
+
+**... [^32-1]**
+
+<sup>1</sup> ...
+
+<sup>2</sup> ...
+
+<sup>3</sup> ...
+
+[^32-1]: Modif. 12 du 11.12.2018: Abrogation tArt; entrée en vigueur au 01.03.2019; Abrogation Al. 1-3; entrée en vigueur au 01.03.2019
+
+## Titre IV Voies de droit
+
+#### Art. 34
+
+**Réclamation et recours [^titleTitreIV-1]**
+
+<sup>1</sup> Les décisions du département peuvent faire l'objet d'une réclamation. Les décisions de l'AVASAD fondées sur l'article 4 bis peuvent faire l'objet d'un recours auprès du Service en charge des assurances sociales et de l'hébergement[^34-1].
+
+<sup>2</sup> La loi sur la procédure administrative [^34-2] est applicable.
+
+[^titleTitreIV-1]: Modif. 2 du 28.10.2008: Modification Art. 34; entrée en vigueur au 01.01.2009 · Modif. 3 du 06.10.2009: Modification Al. 1; entrée en vigueur au 01.01.2010
+[^34-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^34-2]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
+
+#### Art. 35
+
+**Recours [^34-3]**
+
+<sup>1</sup> Les décisions rendues sur réclamation et sur recours peuvent faire l'objet d'un recours au Tribunal cantonal.
+
+<sup>2</sup> …
+
+[^34-3]: Modif. 1 du 06.05.2008: Modification Al. 1; entrée en vigueur au 01.01.2009; Abrogation Al. 2; entrée en vigueur au 01.01.2009 · Modif. 3 du 06.10.2009: Modification Art. 35; entrée en vigueur au 01.01.2010
+
+#### Art. 36
+
+**Restitution de l'indu**
+
+<sup>1</sup> L'aide individuelle ou la subvention obtenues indûment doivent être restituées à l'Etat.
+
+<sup>2</sup> Les héritiers sont tenus à restitution de l'aide individuelle touchée indûment par le bénéficiaire défunt pour autant qu'ils tirent profit de la succession.
+
+#### Art. 36a
+
+**Contrôle et modalités particulières de restitution des tarifs socio-hôteliers [^36-1]**
+
+<sup>1</sup> S'il apparaît que l'élaboration d'un tarif socio-hôtelier s'est fondée sur des données erronées et que cela a mené à la fixation d'un tarif trop élevé, le département peut ordonner à l'EMS, l'EPSM, le HNM ou la PPS concerné de rembourser aux résidents la différence entre les montants payés et ceux qui auraient dû être payés si le tarif avait été fixé en fonction de données exactes.
+
+<sup>2</sup> Lorsque des frais socio-hôteliers à rembourser ont été payés à l'EMS, l'EPSM, le HNM ou la PPS par l'Etat, à titre d'aide individuelle au sens de la présente loi ou d'autres législations cantonales, leur remboursement se fait en mains de l'Etat. Le département peut aussi déduire les montants à rembourser des versements opérés en faveur de l'EMS, l'EPSM, le HNM ou la PPS pour le paiement des frais socio-hôteliers courants des résidents au bénéfice d'une aide individuelle.
+
+<sup>3</sup> Le droit d'ordonner un remboursement en application du présent article se prescrit par cinq ans ; si ce droit naît d'un acte punissable, pour lequel la loi pénale prévoit un délai de prescription plus long, ce délai est déterminant.
+
+[^36-1]: Modif. 12 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-3; entrée en vigueur au 01.03.2019; Introduction Art. 36a; entrée en vigueur au 01.03.2019
+
+#### Art. 37
+
+**Remise de l'obligation de restituer**
+
+<sup>1</sup> Lorsqu'une personne tenue à restituer ou son représentant légal a cru de bonne foi avoir le droit de toucher l'aide individuelle, il peut lui être fait remise de l'obligation de restituer tout ou partie du montant indûment touché, si cette restitution est de nature à la mettre dans une situation financière difficile.
+
+<sup>2</sup> La demande de remise doit être motivée et adressée par écrit au département dans les 30 jours dès la notification de la décision de restitution. La décision de remise est prise par le chef du département et notifiée à la personne ayant présenté la demande.
+
+#### Art. 37a
+
+**Compensation [^37-1]**
+
+<sup>1</sup> L'Etat peut notamment compenser les avances octroyées, ainsi que les montants indûment perçus, avec des aides individuelles ou des subventions octroyées en vertu de la loi.
+
+[^37-1]: Modif. 12 du 11.12.2018: Introduction Art. 37a; entrée en vigueur au 01.03.2019
+
+#### Art. 38
+
+**Prescription [^37a-1]**
+
+<sup>1</sup> Le droit d'exiger la restitution d'une subvention ou d'une aide individuelle se prescrit par une année à compter du jour où l'Etat a eu connaissance du fait qu'elles ont été perçues indûment, mais au plus tard par cinq ans à compter du jour où la dernière subvention ou aide individuelle a été versée.
+
+<sup>2</sup> Si le droit d'exiger la restitution naît d'un acte punissable, pour lequel la loi pénale prévoit un délai de prescription plus long, ce délai est déterminant.
+
+[^37a-1]: Modif. 17 du 17.12.2025: Introduction Art. 6e; entrée en vigueur au 01.03.2026; Modification Al. 1-2; entrée en vigueur au 01.03.2026
+
+#### Art. 38a
+
+**Emoluments [^38-1]**
+
+<sup>1</sup> Le service, de même que le département peuvent percevoir des émoluments, de frs 100.- à frs 10'000.-, pour toute opération ou décision prise en application de la présente loi.
+
+<sup>2</sup> L'émolument est calculé en fonction de l'importance du travail accompli.
+
+<sup>3</sup> Le Conseil d'Etat fixe le tarif des émoluments cantonaux.
+
+<sup>4</sup> Le montant des frais extraordinaires, tels que frais de recherche, d'expertise, d'enquête ou de publication, est perçu en sus.
+
+<sup>5</sup> En règle générale, les émoluments et les frais sont supportés par le requérant.
+
+<sup>6</sup> Le service peut les mettre à la charge d'un tiers si les circonstances le justifient, notamment lorsque celui-ci a rendu nécessaire l'intervention de l'autorité ou a adopté un comportement téméraire ou abusif.
+
+[^38-1]: Modif. 12 du 11.12.2018: Introduction tArt; entrée en vigueur au 01.03.2019; Introduction Al. 1-6; entrée en vigueur au 01.03.2019; Introduction Art. 38a; entrée en vigueur au 01.03.2019
+
+## Titre V Sanctions administratives et dispositions pénales
+
+#### Art. 39
+
+**Sanction administrative [^titleTitreV-1]**
+
+<sup>1</sup> Le département peut prononcer une sanction administrative à l'encontre de celui qui enfreint la présente loi ou l'une de ses dispositions d'exécution, y compris les directives d'application, ainsi que contre celui qui exerce sans autorisation d'exploiter ou ne remplissant pas les conditions légales fixées par la présente loi.
+
+<sup>2</sup> Les sanctions administratives suivantes peuvent être prononcées par le département :
+
+- a. l'avertissement
+- b. l'amende de CHF 500.- à CHF 20'000.- ;
+- c. la limitation de l'autorisation d'exploiter ;
+- d. le retrait temporaire ou définitif de l'autorisation d'exploiter ;
+- e. le retrait de la qualité de responsable d'un HNM ou d'une PPS.
+
+<sup>3</sup> L'amende est cumulable avec les sanctions prévues aux lettres c à e.
+
+<sup>4</sup> Dans les cas où une sanction administrative figurant à l'alinéa 2, lettres c à e, est prononcée, elle peut faire l'objet d'une publication dans la Feuille des Avis Officiels, une fois exécutoire.
+
+[^titleTitreV-1]: Modif. 11 du 07.11.2017: Modification Al. 1,2; entrée en vigueur au 01.01.2018; Introduction Al. 4; entrée en vigueur au 01.01.2018
+
+#### Art. 40
+
+**Fausses déclarations, contraventions**
+
+<sup>1</sup> Celui qui, pour se procurer ou procurer à un tiers une aide financière individuelle ou une subvention au sens de la loi aura sciemment trompé l'autorité par des déclarations inexactes, aura omis de lui fournir les informations indispensables, n'aura pas requis l'autorisation nécessaire ou aura gravement failli à ses obligations, est passible d'une amende de Fr. 500.- à Fr. 50'000.-.
+
+<sup>2</sup> La procédure est régie par la loi sur les contraventions [^40-1] .
+
+[^40-1]: Loi du 19.05.2009 sur les contraventions ([BLV 312.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/312.11?id=1b6bc951-dbb8-4926-aae9-8e0fdcc46bc3))
+
+## Titre VI Dispositions transitoires et finales
+
+#### Art. 40a
+
+**Dispositions transitoires de la loi modifiante du 07.11.2017[^titleTitreVI-1]**
+
+<sup>1</sup> Les EPSM et les PPS disposent d'un délai de 5 ans à compter de l'entrée en vigueur de la présente loi pour se mettre en conformité avec les dispositions les concernant.
+
+[^titleTitreVI-1]: Correspond à l'article 2 de la loi modifiante du 07.11.2017
+
+#### Art. 41
+
+**Abrogation**
+
+<sup>1</sup> La loi d'aide aux personnes recourant à l'hébergement médico-social du 11 décembre 1991 (LAPRHEMS) est abrogée.
+
+#### Art. 42
+
+**Entrée en vigueur**
+
+<sup>1</sup> Le Conseil d'Etat est chargé de l'exécution de la présente loi. Il en publiera le texte conformément à l'article 84, alinéa 1, lettre a) de la Constitution cantonale et en fixera, par voie d'arrêté, la date de son entrée en vigueur.
+
+#### Art. 40b
+
+**Disposition transitoire de la loi du 8 décembre 2020 [^42-1]**
+
+<sup>1</sup> Dans le cadre de l'examen d'un droit à une aide financière individuelle sur la base de la présente loi, celui-ci sera déterminé sur la base de la décision PC rendue par l'organe d'exécution PC compétent.
+
+<sup>2</sup> La présente disposition transitoire est valable pendant une période de 3 ans à compter de l'entrée en vigueur de la présente modification.
+
+[^42-1]: Modif. 14 du 08.12.2020: Introduction Art. 40b; entrée en vigueur au 01.03.2021
