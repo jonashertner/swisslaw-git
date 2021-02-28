@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2021-02-01
+version: 2021-03-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210201/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20210201/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Februar 2021)
+vom 26. Oktober 2011 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -509,7 +509,7 @@ Das BLW kann das Teilzollkontingent Nr. 07.4 bei ungenügender Versorgung des in
 
 [^36-1]: Fassung gemäss Ziff. I der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
 
-### 4. Abschnitt:**** Einfuhr von Kartoffeln und Kartoffelprodukten
+### 4. Abschnitt: Einfuhr von Kartoffeln und Kartoffelprodukten
 
 [^chap4-sec4-1]
 
@@ -1392,7 +1392,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften wie die Aufteilung des Kontingents und die Verteilung der Teilzollkontingente sind in den Artikeln 36*a*–42 geregelt. In der Spalte «Warenkategorie und Ergänzungen» ist die Unterteilung des Teilzollkontingents Nr. 14.4 nach Artikel 37 Absatz 2 angegeben.
 
-- **[1]** **Aufgeführt sind vom Generaltarif abweichende Zollansä****t****ze.** **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze ei****n****sehbar.**
+- **[1]** Aufgeführt sind vom Generaltarif abweichende Zollansätze. **Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 - [9-1] Der Zollansatz ist in der Verordnung des EFD vom 27. Januar 2005 über die anwendbaren beweglichen Teilbeträge bei der Einfuhr von Erzeugnissen aus Landwirtschaftsprodukten (SR *632.111.722.1*) festgelegt.
 - [9-2] Nicht betroffen von den marktordnungsspezifischen Vorschriften.
 
@@ -1454,17 +1454,17 @@ Die Tarifnummern-Gruppe nach Artikel 4 VEAGOG ist in der 5. Spalte angegeben.
 <tr><th>Tarifnummer</th><th></th><th>Zollansatz je 100 kg brutto **[1]**(CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingent (Nr)</th><th>Ergänzungen</th></tr>
 <tr><td>0702.0010</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0702.0011</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
-<tr><td>0702.0019</td><td></td><td>**600.00**</td><td></td><td>20</td><td></td><td>**bei Vollverso****r****gung**</td></tr>
+<tr><td>0702.0019</td><td></td><td>**600.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
 <tr><td>0702.0020</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0702.0021</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>ex 0702.0021</td><td></td><td></td><td></td><td>keine GEB-Pflicht</td><td>15</td><td>[10-1]</td></tr>
-<tr><td>0702.0029</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei Vollverso****r****gung**</td></tr>
+<tr><td>0702.0029</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung**</td></tr>
 <tr><td>0702.0030</td><td></td><td></td><td></td><td>20</td><td>15</td><td>[10-2.1]</td></tr>
 <tr><td>0702.0031</td><td></td><td></td><td></td><td>0</td><td>15</td><td>[10-2.1]</td></tr>
-<tr><td>0702.0039</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei Vollverso****r****gung** [10-2.1]</td></tr>
+<tr><td>0702.0039</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei Vollversorgung** [10-2.1]</td></tr>
 <tr><td>0702.0090</td><td></td><td></td><td></td><td>20</td><td>15</td><td>[10-2.1]</td></tr>
 <tr><td>0702.0091</td><td></td><td></td><td></td><td>0</td><td>15</td><td>[10-2.1]</td></tr>
-<tr><td>0702.0099</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei** **Vollverso****r****gung** [10-2.1]</td></tr>
+<tr><td>0702.0099</td><td></td><td>**150.00**</td><td></td><td>20</td><td></td><td>**bei** **Vollversorgung** [10-2.1]</td></tr>
 <tr><td>0703.1011</td><td></td><td></td><td></td><td>20</td><td>15</td><td></td></tr>
 <tr><td>0703.1013</td><td></td><td></td><td></td><td>0</td><td>15</td><td></td></tr>
 <tr><td>0703.1019</td><td></td><td></td><td></td><td>20</td><td></td><td></td></tr>
@@ -1802,7 +1802,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Marktordnungsspezifische Vorschriften sind in der VEAGOG (SR *916.121.10*) geregelt. Die Tarifnummer 0808.4011 ist von den Regelungen der VEAGOG nicht betroffen [13-1].
 
-**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zolla****n****sätze ei****n****sehbar.**
+**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Anzahl kg brutto ohne GEB-Pflicht</th><th>Zollkontingente (Nr)</th><th>Ergänzungen</th></tr>
@@ -2408,7 +2408,7 @@ Einfuhren im Reiseverkehr sind in Artikel 47 geregelt.
 
 Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln 28–33 und die Festlegung der Zollansätze der betroffenen Tarifnummern in Artikel 4 beziehungsweise in Artikel 6 geregelt. Für die Tarifnummern aus dem 12. Kapitel des Zolltarifs bestehen keine spezifischen Vorschriften.
 
-**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im G****e****brauchstarif www.tares.ch sind weitere anwendbare Zollansätze ei****n****sehbar.**
+**[1] Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 [15-1] Der Zollansatz wird nach Artikel 6 festgelegt.
 
@@ -2518,7 +2518,7 @@ Spezifische Vorschriften: Die Verteilung der Zollkontingente ist in den Artikeln
 
 Für die Einfuhr der aufgeführten Erzeugnisse ist eine GEB nach den Bestimmungen des LVG (SR *531*) erforderlich, wenn sie zu Speisezwecken dienen. Ausnahmen sind in der 3. Spalte vermerkt.
 
-[1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze ei****n****sehbar.**
+[1] **Aufgeführt sind vom Generaltarif abweichende Zollansätze. Im Gebrauchstarif www.tares.ch sind weitere anwendbare Zollansätze einsehbar.**
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto **[1]** (CHF)</th><th></th><th>Ergänzungen</th></tr>
@@ -2765,55 +2765,55 @@ Anhang 2*[^t-2]*
 
 ## Zollansätze der Marktordnungen Saatgetreide, Futtermittel, Ölsaaten, Zollansätze von Waren, bei deren Verarbeitung Futtermittel anfallen, sowie Zollansätze von Grobgetreide zur menschlichen Ernährung
 
-[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 18. Jan 2021, in Kraft seit 1. Febr. 2021 ([AS 2021 45](https://fedlex.data.admin.ch/eli/oc/2021/45)).
+[^t-2]: Fassung gemäss Ziff. I der V des BLW vom 15. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 95](https://fedlex.data.admin.ch/eli/oc/2021/95)).
 
 <table>
 <tr><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th><th>Tarifnummer</th><th>Zollansatz je 100 kg brutto (CHF)</th><th></th></tr>
 <tr><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th><th></th><th>**[1]**</th><th></th></tr>
 <tr><td>0505.9011</td><td>5.70</td><td></td><td>0508.0091</td><td>5.70</td><td></td><td>0511.9110</td><td>0.00</td><td></td><td>0511.9911</td><td>4.70</td><td></td></tr>
-<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>5.00</td><td>\*</td><td>0709.9991</td><td>8.00</td><td>\*</td><td>0712.9070</td><td>8.00</td><td>\*</td></tr>
-<tr><td>0713.1011</td><td>4.00</td><td>\*</td><td>0713.1012</td><td>0.40</td><td>\*</td><td>0713.1091</td><td>4.00</td><td>\*</td><td>0713.2011</td><td>4.00</td><td>\*</td></tr>
-<tr><td>0713.2012</td><td>0.40</td><td>\*</td><td>0713.2091</td><td>4.00</td><td>\*</td><td>0713.3111</td><td>5.00</td><td>\*</td><td>0713.3112</td><td>0.50</td><td>\*</td></tr>
-<tr><td>0713.3191</td><td>5.00</td><td>\*</td><td>0713.3211</td><td>5.00</td><td>\*</td><td>0713.3212</td><td>0.50</td><td>\*</td><td>0713.3291</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.3311</td><td>5.00</td><td>\*</td><td>0713.3312</td><td>0.50</td><td>\*</td><td>0713.3391</td><td>5.00</td><td>\*</td><td>0713.3411</td><td>4.00</td><td>\*</td></tr>
-<tr><td>0713.3412</td><td>0.40</td><td>\*</td><td>0713.3491</td><td>4.00</td><td>\*</td><td>0713.3511</td><td>5.00</td><td>\*</td><td>0713.3512</td><td>0.50</td><td>\*</td></tr>
-<tr><td>0713.3591</td><td>5.00</td><td>\*</td><td>0713.3911</td><td>5.00</td><td>\*</td><td>0713.3912</td><td>0.50</td><td>\*</td><td>0713.3991</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.4011</td><td>5.00</td><td>\*</td><td>0713.4012</td><td>0.50</td><td>\*</td><td>0713.4091</td><td>5.00</td><td>\*</td><td>0713.5012</td><td>5.00</td><td>\*</td></tr>
-<tr><td>0713.5013</td><td>0.50</td><td>\*</td><td>0713.5091</td><td>5.00</td><td>\*</td><td>0713.6011</td><td>4.00</td><td>\*</td><td>0713.6012</td><td>0.40</td><td>\*</td></tr>
-<tr><td>0713.6091</td><td>4.00</td><td>\*</td><td>0713.9021</td><td>5.00</td><td>\*</td><td>0713.9022</td><td>0.50</td><td>\*</td><td>0713.9081</td><td>5.00</td><td>\*</td></tr>
+<tr><td>0511.9919</td><td>4.70</td><td></td><td>0708.9010</td><td>3.00</td><td>\*</td><td>0709.9991</td><td>7.00</td><td>\*</td><td>0712.9070</td><td>7.00</td><td>\*</td></tr>
+<tr><td>0713.1011</td><td>2.00</td><td>\*</td><td>0713.1012</td><td>0.20</td><td>\*</td><td>0713.1091</td><td>2.00</td><td>\*</td><td>0713.2011</td><td>2.00</td><td>\*</td></tr>
+<tr><td>0713.2012</td><td>0.20</td><td>\*</td><td>0713.2091</td><td>2.00</td><td>\*</td><td>0713.3111</td><td>3.00</td><td>\*</td><td>0713.3112</td><td>0.30</td><td>\*</td></tr>
+<tr><td>0713.3191</td><td>3.00</td><td>\*</td><td>0713.3211</td><td>3.00</td><td>\*</td><td>0713.3212</td><td>0.30</td><td>\*</td><td>0713.3291</td><td>3.00</td><td>\*</td></tr>
+<tr><td>0713.3311</td><td>3.00</td><td>\*</td><td>0713.3312</td><td>0.30</td><td>\*</td><td>0713.3391</td><td>3.00</td><td>\*</td><td>0713.3411</td><td>2.00</td><td>\*</td></tr>
+<tr><td>0713.3412</td><td>0.20</td><td>\*</td><td>0713.3491</td><td>2.00</td><td>\*</td><td>0713.3511</td><td>3.00</td><td>\*</td><td>0713.3512</td><td>0.30</td><td>\*</td></tr>
+<tr><td>0713.3591</td><td>3.00</td><td>\*</td><td>0713.3911</td><td>3.00</td><td>\*</td><td>0713.3912</td><td>0.30</td><td>\*</td><td>0713.3991</td><td>3.00</td><td>\*</td></tr>
+<tr><td>0713.4011</td><td>3.00</td><td>\*</td><td>0713.4012</td><td>0.30</td><td>\*</td><td>0713.4091</td><td>3.00</td><td>\*</td><td>0713.5012</td><td>3.00</td><td>\*</td></tr>
+<tr><td>0713.5013</td><td>0.30</td><td>\*</td><td>0713.5091</td><td>3.00</td><td>\*</td><td>0713.6011</td><td>2.00</td><td>\*</td><td>0713.6012</td><td>0.20</td><td>\*</td></tr>
+<tr><td>0713.6091</td><td>2.00</td><td>\*</td><td>0713.9021</td><td>3.00</td><td>\*</td><td>0713.9022</td><td>0.30</td><td>\*</td><td>0713.9081</td><td>3.00</td><td>\*</td></tr>
 <tr><td>0714.1010</td><td>0.00</td><td></td><td>0714.2010</td><td>0.00</td><td></td><td>0714.3010</td><td>0.00</td><td></td><td>0714.4010</td><td>0.00</td><td></td></tr>
 <tr><td>0714.5010</td><td>0.00</td><td></td><td>0714.9020</td><td>0.00</td><td></td><td>0802.2110</td><td>0.00</td><td></td><td>0802.2120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.2210</td><td>1.70</td><td></td><td>0802.2220</td><td>0.00</td><td></td><td>0802.3110</td><td>0.00</td><td></td><td>0802.3120</td><td>0.00</td><td></td></tr>
 <tr><td>0802.3210</td><td>1.70</td><td></td><td>0802.3220</td><td>0.00</td><td></td><td>0813.4081</td><td>0.00</td><td></td><td>0813.4092</td><td>0.00</td><td></td></tr>
 <tr><td>0813.5012</td><td>4.70</td><td></td><td>0813.5021</td><td>4.70</td><td></td><td>0813.5081</td><td>0.00</td><td></td><td>0813.5092</td><td>4.70</td><td></td></tr>
-<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>12.00</td><td></td><td>1001.1939</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1001.1940</td><td>0.80</td><td>\*</td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>12.00</td><td></td><td>1001.9939</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1001.9940</td><td>0.80</td><td>\*</td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>12.00</td><td></td><td>1002.9039</td><td>11.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>1.10</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>5.00</td><td>\*</td><td>1003.9030</td><td>0.30</td><td>\*</td></tr>
-<tr><td>1003.9041</td><td>2.30</td><td>\*</td><td>1003.9051</td><td>12.00</td><td></td><td>1003.9059</td><td>10.00</td><td>\*</td><td>1003.9060</td><td>1.50</td><td>\*</td></tr>
-<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.35</td><td></td><td>1004.9031</td><td>12.00</td><td></td><td>1004.9039</td><td>2.00</td><td></td></tr>
-<tr><td>1004.9040</td><td>0.50</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.00</td><td>\*</td><td>1005.9031</td><td>12.00</td><td></td></tr>
-<tr><td>1005.9039</td><td>8.00</td><td>\*</td><td>1005.9040</td><td>0.80</td><td>\*</td><td>1006.1021</td><td>12.00</td><td></td><td>1006.1029</td><td>0.00</td><td>\*</td></tr>
-<tr><td>1006.2021</td><td>12.00</td><td></td><td>1006.2029</td><td>0.00</td><td>\*</td><td>1006.3021</td><td>12.00</td><td></td><td>1006.3029</td><td>0.00</td><td>\*</td></tr>
-<tr><td>1006.4021</td><td>12.00</td><td></td><td>1006.4029</td><td>0.00</td><td>\*</td><td>1007.9031</td><td>12.00</td><td></td><td>1007.9039</td><td>8.00</td><td></td></tr>
-<tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>12.00</td><td></td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
-<tr><td>1008.2931</td><td>12.00</td><td></td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>12.00</td><td></td></tr>
-<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>12.00</td><td></td><td>1008.4039</td><td>8.00</td><td>\*</td></tr>
-<tr><td>1008.4040</td><td>0.25</td><td>\*</td><td>1008.5031</td><td>12.00</td><td></td><td>1008.5039</td><td>8.00</td><td>\*</td><td>1008.5040</td><td>0.25</td><td>\*</td></tr>
-<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>12.00</td><td></td><td>1008.6049</td><td>12.00</td><td></td><td>1008.6050</td><td>1.20</td><td></td></tr>
-<tr><td>1008.9035</td><td>12.00</td><td></td><td>1008.9037</td><td>8.00</td><td>\*</td><td>1008.9040</td><td>0.25</td><td>\*</td><td>1101.0051</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1101.0059</td><td>19.00</td><td>\*</td><td>1102.2010</td><td>22.85</td><td>\*</td><td>1102.2020</td><td>14.00</td><td>\*</td><td>1102.9013</td><td>23.00</td><td></td></tr>
-<tr><td>1102.9045</td><td>17.00</td><td></td><td>1102.9046</td><td>15.00</td><td></td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>19.00</td><td>\*</td></tr>
-<tr><td>1103.1112</td><td>18.00</td><td>\*</td><td>1103.1192</td><td>16.00</td><td>\*</td><td>1103.1320</td><td>15.00</td><td>\*</td><td>1103.1390</td><td>24.00</td><td>\*</td></tr>
-<tr><td>1103.1912</td><td>20.00</td><td></td><td>1103.1922</td><td>20.00</td><td></td><td>1103.1929</td><td>20.55</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
-<tr><td>1103.1993</td><td>16.00</td><td>\*</td><td>1103.2012</td><td>15.00</td><td>\*</td><td>1103.2022</td><td>17.00</td><td></td><td>1103.2092</td><td>15.00</td><td>\*</td></tr>
-<tr><td>1104.1220</td><td>21.00</td><td></td><td>1104.1290</td><td>20.60</td><td></td><td>1104.1912</td><td>16.00</td><td>\*</td><td>1104.1922</td><td>19.00</td><td>\*</td></tr>
-<tr><td>1104.1929</td><td>23.30</td><td>\*</td><td>1104.1993</td><td>16.00</td><td>\*</td><td>1104.2220</td><td>20.55</td><td></td><td>1104.2230</td><td>20.00</td><td></td></tr>
-<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>25.55</td><td>\*</td><td>1104.2912</td><td>16.00</td><td>\*</td><td>1104.2923</td><td>1.70</td><td></td></tr>
-<tr><td>1104.2932</td><td>23.30</td><td>\*</td><td>1104.2933</td><td>18.00</td><td>\*</td><td>1104.2993</td><td>14.00</td><td>\*</td><td>1104.3070</td><td>3.70</td><td></td></tr>
+<tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>10.00</td><td>\*</td><td>1001.1939</td><td>8.00</td><td></td></tr>
+<tr><td>1001.1940</td><td>0.80</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>10.00</td><td>\*</td><td>1001.9939</td><td>8.00</td><td></td></tr>
+<tr><td>1001.9940</td><td>0.80</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>10.00</td><td>\*</td><td>1002.9039</td><td>9.00</td><td>\*</td></tr>
+<tr><td>1002.9040</td><td>0.90</td><td>\*</td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>4.00</td><td>\*</td><td>1003.9030</td><td>0.25</td><td>\*</td></tr>
+<tr><td>1003.9041</td><td>1.85</td><td>\*</td><td>1003.9051</td><td>10.00</td><td>\*</td><td>1003.9059</td><td>8.00</td><td>\*</td><td>1003.9060</td><td>1.20</td><td>\*</td></tr>
+<tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.35</td><td></td><td>1004.9031</td><td>10.00</td><td>\*</td><td>1004.9039</td><td>2.00</td><td></td></tr>
+<tr><td>1004.9040</td><td>0.50</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>1.75</td><td>\*</td><td>1005.9031</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1005.9039</td><td>7.00</td><td>\*</td><td>1005.9040</td><td>0.70</td><td>\*</td><td>1006.1021</td><td>10.00</td><td>\*</td><td>1006.1029</td><td>0.00</td><td></td></tr>
+<tr><td>1006.2021</td><td>10.00</td><td>\*</td><td>1006.2029</td><td>0.00</td><td></td><td>1006.3021</td><td>10.00</td><td>\*</td><td>1006.3029</td><td>0.00</td><td></td></tr>
+<tr><td>1006.4021</td><td>10.00</td><td>\*</td><td>1006.4029</td><td>0.00</td><td></td><td>1007.9031</td><td>10.00</td><td>\*</td><td>1007.9039</td><td>8.00</td><td></td></tr>
+<tr><td>1007.9040</td><td>0.25</td><td></td><td>1008.1031</td><td>10.00</td><td>\*</td><td>1008.1039</td><td>4.00</td><td></td><td>1008.1040</td><td>0.10</td><td></td></tr>
+<tr><td>1008.2931</td><td>10.00</td><td>\*</td><td>1008.2939</td><td>0.00</td><td></td><td>1008.2940</td><td>0.00</td><td></td><td>1008.3031</td><td>10.00</td><td>\*</td></tr>
+<tr><td>1008.3039</td><td>4.00</td><td></td><td>1008.3040</td><td>0.10</td><td></td><td>1008.4031</td><td>10.00</td><td>\*</td><td>1008.4039</td><td>8.00</td><td></td></tr>
+<tr><td>1008.4040</td><td>0.25</td><td></td><td>1008.5031</td><td>10.00</td><td>\*</td><td>1008.5039</td><td>8.00</td><td></td><td>1008.5040</td><td>0.25</td><td></td></tr>
+<tr><td>1008.6010</td><td>57.00</td><td></td><td>1008.6041</td><td>10.00</td><td>\*</td><td>1008.6049</td><td>10.00</td><td>\*</td><td>1008.6050</td><td>1.00</td><td>\*</td></tr>
+<tr><td>1008.9035</td><td>10.00</td><td>\*</td><td>1008.9037</td><td>8.00</td><td></td><td>1008.9040</td><td>0.25</td><td></td><td>1101.0051</td><td>15.00</td><td></td></tr>
+<tr><td>1101.0059</td><td>19.00</td><td></td><td>1102.2010</td><td>22.50</td><td>\*</td><td>1102.2020</td><td>13.00</td><td>\*</td><td>1102.9013</td><td>21.00</td><td>\*</td></tr>
+<tr><td>1102.9045</td><td>15.00</td><td>\*</td><td>1102.9046</td><td>13.00</td><td>\*</td><td>1102.9052</td><td>2.70</td><td></td><td>1102.9062</td><td>19.00</td><td></td></tr>
+<tr><td>1103.1112</td><td>18.00</td><td></td><td>1103.1192</td><td>16.00</td><td></td><td>1103.1320</td><td>14.00</td><td>\*</td><td>1103.1390</td><td>23.50</td><td>\*</td></tr>
+<tr><td>1103.1912</td><td>18.00</td><td>\*</td><td>1103.1922</td><td>20.00</td><td></td><td>1103.1929</td><td>20.55</td><td></td><td>1103.1932</td><td>0.70</td><td></td></tr>
+<tr><td>1103.1993</td><td>16.00</td><td></td><td>1103.2012</td><td>15.00</td><td></td><td>1103.2022</td><td>15.00</td><td>\*</td><td>1103.2092</td><td>15.00</td><td></td></tr>
+<tr><td>1104.1220</td><td>21.00</td><td></td><td>1104.1290</td><td>20.60</td><td></td><td>1104.1912</td><td>16.00</td><td></td><td>1104.1922</td><td>17.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>22.65</td><td>\*</td><td>1104.1993</td><td>16.00</td><td></td><td>1104.2220</td><td>20.55</td><td></td><td>1104.2230</td><td>20.00</td><td></td></tr>
+<tr><td>1104.2320</td><td>10.00</td><td></td><td>1104.2390</td><td>24.85</td><td>\*</td><td>1104.2912</td><td>16.00</td><td></td><td>1104.2923</td><td>1.70</td><td></td></tr>
+<tr><td>1104.2932</td><td>22.65</td><td>\*</td><td>1104.2933</td><td>16.00</td><td>\*</td><td>1104.2993</td><td>14.00</td><td></td><td>1104.3070</td><td>3.70</td><td></td></tr>
 <tr><td>1104.3081</td><td>3.70</td><td></td><td>1104.3093</td><td>0.00</td><td></td><td>1105.1021</td><td>9.70</td><td></td><td>1105.2021</td><td>11.70</td><td></td></tr>
-<tr><td>1106.1010</td><td>7.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
-<tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td>\*</td></tr>
+<tr><td>1106.1010</td><td>5.00</td><td>\*</td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>20.70</td><td></td><td>1107.1013</td><td>2.70</td><td></td></tr>
+<tr><td>1107.1094</td><td>2.70</td><td></td><td>1107.2013</td><td>2.70</td><td></td><td>1107.2094</td><td>2.70</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
 <tr><td>1108.1220</td><td>0.00</td><td></td><td>1108.1320</td><td>0.00</td><td></td><td>1108.1420</td><td>2.70</td><td></td><td>1108.1912</td><td>4.70</td><td></td></tr>
 <tr><td>1108.1992</td><td>4.70</td><td></td><td>1108.2020</td><td>5.70</td><td></td><td>1201.9010</td><td>0.00</td><td></td><td>1201.9021</td><td>0.10</td><td></td></tr>
 <tr><td>1201.9023</td><td>24.35</td><td></td><td>1201.9024</td><td>18.65</td><td></td><td>1201.9026</td><td>0.10</td><td></td><td>1201.9027</td><td>0.10</td><td></td></tr>
@@ -2823,11 +2823,11 @@ Anhang 2*[^t-2]*
 <tr><td>1202.4227</td><td>0.10</td><td></td><td>1203.0010</td><td>7.70</td><td></td><td>1203.0021</td><td>0.10</td><td></td><td>1203.0023</td><td>82.85</td><td></td></tr>
 <tr><td>1203.0024</td><td>77.15</td><td></td><td>1203.0026</td><td>0.10</td><td></td><td>1203.0027</td><td>0.10</td><td></td><td>1204.0010</td><td>0.00</td><td></td></tr>
 <tr><td>1204.0021</td><td>0.10</td><td></td><td>1204.0023</td><td>50.05</td><td></td><td>1204.0024</td><td>42.90</td><td></td><td>1204.0026</td><td>0.10</td><td></td></tr>
-<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>3.00</td><td>\*</td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>1.00</td><td>\*</td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>52.90</td><td></td></tr>
+<tr><td>1205.1024</td><td>45.75</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>1.00</td><td>\*</td></tr>
 <tr><td>1205.1051</td><td>0.10</td><td></td><td>1205.1053</td><td>60.00</td><td></td><td>1205.1054</td><td>52.90</td><td></td><td>1205.1056</td><td>0.10</td><td></td></tr>
-<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>3.00</td><td>\*</td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
-<tr><td>1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>1.00</td><td>\*</td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>52.90</td><td></td></tr>
+<tr><td>1205.9024</td><td>45.75</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>1.00</td><td>\*</td></tr>
 <tr><td>1205.9051</td><td>0.10</td><td></td><td>1205.9053</td><td>60.00</td><td></td><td>1205.9054</td><td>52.90</td><td></td><td>1205.9056</td><td>0.10</td><td></td></tr>
 <tr><td>1205.9057</td><td>0.10</td><td></td><td>1206.0010</td><td>0.00</td><td></td><td>1206.0021</td><td>0.10</td><td></td><td>1206.0023</td><td>58.30</td><td></td></tr>
 <tr><td>1206.0024</td><td>49.55</td><td></td><td>1206.0026</td><td>0.10</td><td></td><td>1206.0027</td><td>0.10</td><td></td><td>1206.0040</td><td>2.70</td><td></td></tr>
@@ -2874,12 +2874,12 @@ Anhang 2*[^t-2]*
 <tr><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>9.70</td><td></td><td>2301.1011</td><td>0.00</td><td></td><td>2301.1019</td><td>0.00</td><td></td></tr>
 <tr><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>16.00</td><td></td><td>2302.3020</td><td>15.00</td><td></td><td>2302.4030</td><td>16.00</td><td></td></tr>
 <tr><td>2302.4091</td><td>16.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td><td>2303.1012</td><td>4.00</td><td></td></tr>
-<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>4.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td><td>2304.0010</td><td>0.00</td><td></td></tr>
 <tr><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.70</td><td></td><td>2306.2010</td><td>0.00</td><td></td><td>2306.3010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td><td>2306.6010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.9011</td><td>12.70</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>3.70</td><td></td><td>2308.0030</td><td>0.00</td><td></td></tr>
-<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>7.00</td><td>\*</td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>5.75</td><td>\*</td></tr>
-<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.10</td><td>\*</td><td>2309.9082</td><td>5.75</td><td>\*</td><td>2309.9089</td><td>5.75</td><td>\*</td></tr>
+<tr><td>2308.0040</td><td>9.70</td><td></td><td>2308.0050</td><td>7.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td><td>2309.9011</td><td>5.05</td><td>\*</td></tr>
+<tr><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.05</td><td>\*</td><td>2309.9082</td><td>5.05</td><td>\*</td><td>2309.9089</td><td>5.05</td><td>\*</td></tr>
 <tr><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>12.70</td><td></td><td>3809.1010</td><td>18.70</td><td></td><td>3823.1110</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1210</td><td>4.70</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Die Zollansätze können vom Generaltarif abweichen. Neu festgelegte Zollansätze sind mit einem «\*» gekennzeichnet.</td></tr>
@@ -2891,7 +2891,7 @@ Anhang 3*[^t-3]*
 
 ## Zoll- und Teilzollkontingente
 
-[^t-3]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1759](https://fedlex.data.admin.ch/eli/oc/2015/345)), Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V des BLW vom 13. Jan. 2020 ([AS 2020 175](https://fedlex.data.admin.ch/eli/oc/2020/30)), vom 3. Febr. 2020 ([AS 2020 483](https://fedlex.data.admin.ch/eli/oc/2020/84)), vom 23. März 2020 ([AS 2020 1119](https://fedlex.data.admin.ch/eli/oc/2020/202)), vom 14. April 2020 ([AS 2020 1319](https://fedlex.data.admin.ch/eli/oc/2020/245)), vom 15. Mai 2020 ([AS 2020 1779](https://fedlex.data.admin.ch/eli/oc/2020/352)), vom 6. Aug. 2020 ([AS 2020 3573](https://fedlex.data.admin.ch/eli/oc/2020/635)), Ziff. I der V vom 11. Nov. 2020 ([AS 2020 4705](https://fedlex.data.admin.ch/eli/oc/2020/847)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)) und Ziff. II Abs. 1 der V vom 11. Nov. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)).
+[^t-3]: Bereinigt gemäss Ziff. I der V vom 20. Mai 2015 ([AS 2015 1759](https://fedlex.data.admin.ch/eli/oc/2015/345)), Ziff. I Abs. 1 der V vom 9. Dez. 2016 ([AS 2016 4947](https://fedlex.data.admin.ch/eli/oc/2016/796)), Ziff. II der V vom 18. Okt. 2017 ([AS 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), Ziff. I der V vom 18. Okt. 2017 ([AS 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), Ziff. II der V vom 31. Okt. 2018 ([AS 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), Ziff. I der V des BLW vom 13. Jan. 2020 ([AS 2020 175](https://fedlex.data.admin.ch/eli/oc/2020/30)), vom 3. Febr. 2020 ([AS 2020 483](https://fedlex.data.admin.ch/eli/oc/2020/84)), vom 23. März 2020 ([AS 2020 1119](https://fedlex.data.admin.ch/eli/oc/2020/202)), vom 14. April 2020 ([AS 2020 1319](https://fedlex.data.admin.ch/eli/oc/2020/245)), Anhang 2 Ziff. 2 der V vom 26. Aug. 2020 ([AS 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), Ziff. II Abs. 1 der V vom 11. Nov. 2020 ([AS 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)) und Ziff. I der V des BLW vom 16. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 102](https://fedlex.data.admin.ch/eli/oc/2021/102)).
 
 ### 1. Marktordnung Tiere der Pferdegattung
 
@@ -2952,32 +2952,30 @@ Anhang 3*[^t-3]*
 <tr><td>06.4</td><td>Übriges Fleisch vorwiegend auf der Basis von Kraftfutter produziert:</td><td>**48 681**</td></tr>
 <tr><td></td><td>von Geflügel, inklusive Geflügelkonserven und Schlachtnebenprodukte von Geflügel</td><td>**42 200 [2]**</td></tr>
 <tr><td></td><td>vom Schwein, inklusive Pâté und Fleischgranulat zur Suppenherstellung sowie Schlachtschweine aus den Freizonen</td><td>**6481 [2]**</td></tr>
-<tr><td colspan="4">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **E****r****zeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Konti****n****gentsmenge angerechnet.**</td></tr>
+<tr><td colspan="4">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.**</td></tr>
 <tr><td colspan="4">**[2]** **Richtmenge**</td></tr>
 </table>
 
 ### 4. Marktordnungen Milch und Milchprodukte sowie Kasein
 
 <table>
-<tr><th>Nummer des Zollkontingents</th><th colspan="2">Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
-<tr><th>**[1]**</th><th colspan="2">**[1]**</th><th>**[1]**</th></tr>
-<tr><td>07</td><td colspan="2">Milch und Milchprodukte der Unterkapitel 0401 bis 0406 des Generaltarifs [2], in Milchäquivalenten</td><td>527 000</td></tr>
-<tr><td></td><td colspan="2">davon:</td><td></td></tr>
-<tr><td></td><td colspan="2"></td><td>(Liter je Tag)</td></tr>
-<tr><td>07.1</td><td colspan="2">Milch aus den Freizonen</td><td>**62 128**</td></tr>
-<tr><td></td><td colspan="2"></td><td>[3]</td></tr>
-<tr><td></td><td colspan="2"></td><td>(Tonnen)</td></tr>
-<tr><td>07.2</td><td colspan="2">Milchpulver</td><td>**300**</td></tr>
-<tr><td>07.3</td><td colspan="2">Verschiedene Milchprodukte</td><td>210</td></tr>
-<tr><td>07.4</td><td colspan="2">Butter und andere Fettstoffe aus der Milch</td><td>**100**</td></tr>
-<tr><td>07.4.1</td><td colspan="2">Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 1 Juni bis 31. Dezember 2020</td><td>1000</td></tr>
-<tr><td>07.4.2</td><td colspan="2">Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 1. September bis 31. Dezember 2020</td><td>1800</td></tr>
-<tr><td>07.4.3</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2020: ab 23. November bis 31. Dezember 2020</td><td colspan="2">2000</td></tr>
-<tr><td>07.5</td><td colspan="2">«Fontalkontingent»</td><td>**2624**</td></tr>
-<tr><td></td><td colspan="2"></td><td>[4]</td></tr>
-<tr><td>07.6</td><td colspan="2">Übrige Milchprodukte</td><td>**[5]**</td></tr>
-<tr><td>08</td><td colspan="2">Kasein</td><td>697 **[5]**</td></tr>
-<tr><td colspan="5">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt** [2] ohne 0401.1090, 0401.2090, 0402.2119, 0402.2919, 0403.1010 (Bundesgesetz vom 13. Dezember 1974 über die Ein- und Ausfuhr von Erzeugnissen aus Landwirtschaftsprodukten; SR *632.111.72*), 0403.1099, 0403.9049, 0403.9059, 0403.9099, 0404.9089, 0405.1019, 0405.1099, 0405.2091, 0405.2099, 0405.9090 [3] in Milchäquivalenten: 23 360 Tonnen pro Jahr [4] in Milchäquivalenten: 26 240 Tonnen **[5]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><th>Nummer des Zollkontingents</th><th>Erzeugnis</th><th>Umfang des Zollkontingents (Tonnen)</th></tr>
+<tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
+<tr><td>07</td><td>Milch und Milchprodukte der Unterkapitel 0401 bis 0406 des Generaltarifs [2], in Milchäquivalenten</td><td>527 000</td></tr>
+<tr><td></td><td>davon:</td><td></td></tr>
+<tr><td></td><td></td><td>(Liter je Tag)</td></tr>
+<tr><td>07.1</td><td>Milch aus den Freizonen</td><td>**62 128**</td></tr>
+<tr><td></td><td></td><td>[3]</td></tr>
+<tr><td></td><td></td><td>(Tonnen)</td></tr>
+<tr><td>07.2</td><td>Milchpulver</td><td>**300**</td></tr>
+<tr><td>07.3</td><td>Verschiedene Milchprodukte</td><td>210</td></tr>
+<tr><td>07.4</td><td>Butter und andere Fettstoffe aus der Milch</td><td>100</td></tr>
+<tr><td>07.4.1</td><td>Vorübergehende Erhöhung des Teilzollkontingents für 2021: ab 1. März bis 31. Dezember 2021</td><td>1500</td></tr>
+<tr><td>07.5</td><td>«Fontalkontingent»</td><td>**2624**</td></tr>
+<tr><td></td><td></td><td>[4]</td></tr>
+<tr><td>07.6</td><td>Übrige Milchprodukte</td><td>**[5]**</td></tr>
+<tr><td>08</td><td>Kasein</td><td>697 **[5]**</td></tr>
+<tr><td colspan="4">**[1]** **Vom Generaltarif abweichende Angaben sind fett gedruckt** [2] ohne 0401.1090, 0401.2090, 0402.2119, 0402.2919, 0403.1010 (Bundesgesetz vom 13. Dezember 1974 über die Ein- und Ausfuhr von Erzeugnissen aus Landwirtschaftsprodukten; SR *632.111.72*), 0403.1099, 0403.9049, 0403.9059, 0403.9099, 0404.9089, 0405.1019, 0405.1099, 0405.2091, 0405.2099, 0405.9090 [3] in Milchäquivalenten: 23 360 Tonnen pro Jahr [4] in Milchäquivalenten: 26 240 Tonnen **[5]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 5. Marktordnung Eier und Eiprodukte
@@ -2991,7 +2989,7 @@ Anhang 3*[^t-3]*
 <tr><td></td><td></td><td>[2]</td></tr>
 <tr><td>11</td><td>Eiprodukte andere</td><td>6866</td></tr>
 <tr><td></td><td></td><td>[2]</td></tr>
-<tr><td colspan="3">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **E****r****zeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verte****i****lende Kontingentsmenge angerechnet.** **[2]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="3">**[1]** Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der **Erzeugnisse der Freizonen in die Schweiz (SR** ***0.631.256.934.953*****) werden nicht** **an die zu verteilende Kontingentsmenge angerechnet.** **[2]** **Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 6. Marktordnung Schnittblumen
@@ -3027,7 +3025,7 @@ Anhang 3*[^t-3]*
 <tr><th></th><th></th><th>**[1]**</th></tr>
 <tr><td>15</td><td>Gemüse</td><td>166 076</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der E****r****zeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verte****i****lende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist mö****g****lich.**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich.**</td></tr>
 </table>
 
 ### 9. Marktordnung Tiefkühlgemüse
@@ -3048,7 +3046,7 @@ Anhang 3*[^t-3]*
 <tr><td></td><td></td><td colspan="3">**[2]**</td></tr>
 <tr><td>19</td><td>Andere Früchte, frisch</td><td colspan="3">13 360</td></tr>
 <tr><td></td><td></td><td>**[2]** [3]</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der E****r****zeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich** [tab] **[3] Ohne Produkte zur industriellen Weiterverarbeitung**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich** [tab] **[3] Ohne Produkte zur industriellen Weiterverarbeitung**</td></tr>
 </table>
 
 ### 11. Marktordnung Mostobst und Obstprodukte
@@ -3071,7 +3069,7 @@ Anhang 3*[^t-3]*
 <tr><td>27.1</td><td>Vorübergehende Erhöhung des Zollkontingents für 2017</td><td>**30 000**</td></tr>
 <tr><td>28</td><td>Grobgetreide zur menschlichen Ernährung</td><td>70 000</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der E****r****zeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verte****i****lende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 ### 13. Marktordnung Wein, Traubensaft und ‑most
@@ -3082,7 +3080,7 @@ Anhang 3*[^t-3]*
 <tr><td>22</td><td>Traubensaft</td><td>100 000</td></tr>
 <tr><td></td><td></td><td>**[2]**</td></tr>
 <tr><td>23, 24 und 25</td><td>Wein</td><td>1 700 000</td></tr>
-<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freiz****o****nen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeu****g****nisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verte****i****lende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
+<tr><td colspan="4">[tab] **[1] Vom Generaltarif abweichende Angaben sind fett gedruckt. Einfuhren aus Freizonen nach dem Reglement vom 22. Dezember 1933 über die Einfuhr der Erzeugnisse der Freizonen in die Schweiz (SR** *0.631.256.934.953***) werden nicht an die zu verteilende Kontingentsmenge angerechnet.** [tab] **[2] Die Überschreitung der Zollkontingentsmenge ist möglich**</td></tr>
 </table>
 
 Anhang 4*[^t-4]*
@@ -3137,6 +3135,6 @@ Anhang 7
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...*[^annex7-lvlu1-1]*
+...[^annex7-lvlu1-1]
 
 [^annex7-lvlu1-1]: Die Änderungen können unter [AS 2011 5325](https://fedlex.data.admin.ch/eli/oc/2011/770)konsultiert werden.
