@@ -4,11 +4,11 @@ title: Verordnung vom 28. September 2007 über die Gebühren des Bundesamtes fü
 short: GebV-BAZL
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/720"
 language: de
-version: 2019-01-01
+version: 2021-03-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2007-720-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2007-720-20210301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20190101/de"
 
 (GebV-BAZL)
 
-vom 28. September 2007 (Stand am 1. Januar 2019)
+vom 28. September 2007 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -116,7 +116,7 @@ Ist der Landesindex der Konsumentenpreise seit Inkrafttreten oder seit der letzt
 
 Als Auslagen gelten über die Kosten nach Artikel 6 AllgGebV[^9-1] hinaus:
 
-- a.[^9-2] …
+- a.[^9-2] ...
 - b. Kosten, die durch Beweiserhebung, besondere Prüfungen, wissenschaftliche Untersuchungen oder die Beschaffung von Unterlagen oder Material verursacht werden;
 - c. Kosten, die durch Evaluationen und Stellungnahmen von Gemeinde-, Kantons- oder Bundesinstanzen beim Vollzug des Luftfahrtrechts entstehen;
 - d. ausserordentliche Kosten für die Ausbildung von Inspektorinnen und Inspektoren des BAZL, namentlich für die Aufnahme besonderer Flugzeugmuster ins Luftfahrzeugregister;
@@ -170,7 +170,7 @@ Als Auslagen gelten über die Kosten nach Artikel 6 AllgGebV[^9-1] hinaus:
 
 #### Art. 14
 
-**Musterzulassungen**
+**Musterzulassungen**[^14-1]
 
 <sup>1</sup>
 
@@ -178,25 +178,24 @@ Es werden direkt von der EASA erhoben:
 
 - a. die Gebühren für Musterprüfungen zur Erteilung von Musterzulassungen, eingeschränkten Musterzulassungen oder ergänzenden Musterzulassungen;
 - b. die Gebühren für die Genehmigung von Änderungen und Reparaturen;
-- c. die Jahresgebühren für Inhaber von Musterzulassungen oder von eingeschränkten Musterzulassungen.[^14-1]
+- c. die Jahresgebühren für Inhaber von Musterzulassungen oder von eingeschränkten Musterzulassungen.
 
-<sup>2</sup> Für Musterzulassungen, für andere Zulassungen und für Prüfungen für Luftfahrzeuge, die nicht in die Kompetenz der EASA fallen, werden die Gebühren vom BAZL erhoben und nach Zeitaufwand bemessen. Für sie gelten die folgenden Gebührenrahmen:[^14-2]
+<sup>2</sup> Für Musterzulassungen, für andere Zulassungen und für Prüfungen für Luftfahrzeuge, die nicht in die Kompetenz der EASA fallen, werden die Gebühren vom BAZL erhoben und nach Zeitaufwand bemessen. Für sie gelten die folgenden Gebührenrahmen:
 
 <table>
-<tr><td></td><td>Minimalgebühr Fr.</td><td>Maximalgebühr Fr.</td></tr>
-<tr><td>a. für Musterzulassungen von Eigenbauluftfahrzeugen mit motorischem Antrieb</td><td>2 000.–</td><td>10 000.–</td></tr>
-<tr><td>b. für Musterzulassungen von Eigenbausegelflugzeugen (mit oder ohne motorischen Antrieb) und Eigenbauballonen</td><td>1 000.–</td><td>5 000.–</td></tr>
-<tr><td>c. für Musterzulassungen anderer Luftfahrzeugen</td><td>10 000.–</td><td>700 000.–</td></tr>
-<tr><td>d. für Musterzulassungen von Triebwerken und Propellern</td><td>1 000.–</td><td>150 000.–</td></tr>
-<tr><td>e.[^14-3] für ergänzende Musterzulassungen und grosse Reparaturen von Luftfahrzeugen, Triebwerken und Propellern sowie für die Zulassungen von Luftfahrzeugteilen und Ausrüstungen</td><td>200.–</td><td>50 000.–</td></tr>
-<tr><td>f. für die Genehmigungsprüfungen von kleinen Änderungen und kleinen Reparaturen</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
+<tr><td>a. für Zulassungen von Eigenbauluftfahrzeugen</td><td>500.–</td><td>150 000.–</td></tr>
+<tr><td>b. für Musterzulassungen anderer Luftfahrzeuge</td><td>1 000.–</td><td>700 000.–</td></tr>
+<tr><td>c. für Musterzulassungen von Triebwerken und Propellern</td><td>1 000.–</td><td>150 000.–</td></tr>
+<tr><td>d. für grosse Änderungen wie einem erweitertem Baumusterzeugnis oder ergänzende Baumusterzulassungen, grosse Reparaturen von Luftfahrzeugen, Triebwerken und Propellern sowie für die Zulassungen von Luftfahrzeugteilen und Ausrüstungen zur Aufrechterhaltung der Lufttüchtigkeit</td><td>200.–</td><td>50 000.–</td></tr>
+<tr><td>e. für die Genehmigungsprüfungen von kleinen Änderungen und kleinen Reparaturen</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><td>f. für die jährliche Aufrechterhaltung der Lufttüchtigkeit eines Musters</td><td>200.–</td><td>100 000.–</td></tr>
+<tr><td>g. für die Genehmigung der Flugbedingungen für eine Flugbewilligung</td><td>200.–</td><td>180 000.–</td></tr>
 </table>
 
-<sup>3</sup> Für die Prüfung anderer Luftfahrtgeräte oder Simulatoren wird die Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 1000 bis 150 000 Franken bemessen.
+<sup>3</sup> Für die Prüfung anderer Luftfahrtgeräte wird die Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 1000 bis 150 000 Franken bemessen.
 
-[^14-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^14-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^14-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^14-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 15
 
@@ -232,9 +231,9 @@ Es werden direkt von der EASA erhoben:
 <tr><td>b. für die Eintragung:</td><td></td></tr>
 <tr><td>1. eines Segelflugzeuges, Motorseglers oder Ballons</td><td>300.–</td></tr>
 <tr><td>2. eines Luftfahrzeuges mit einem Abfluggewicht von höchstens 5700 kg oder eines einmotorigen Hubschraubers</td><td>400.–</td></tr>
-<tr><td>3. eines Luftfahrzeuges mit einem Abfluggewicht über 5700 kg oder eines mehrmotorigen Hubschraubers</td><td>600.–</td></tr>
+<tr><td>3.[^16-1] eines Luftfahrzeuges mit einem Abfluggewicht über 5700 kg oder eines mehrmotorigen Hubschraubers</td><td>800.–</td></tr>
 <tr><td>c. für die Ausstellung und die Erneuerung eines Lufttüchtigkeitsfolgezeugnisses oder Prüfbestätigung</td><td>110.–</td></tr>
-<tr><td>d. für eine amtliche Bescheinigung der Löschung im Luftfahrzeugregister oder der Nichteintragung</td><td>110.–</td></tr>
+<tr><td>d.[^16-2] für eine amtliche Bescheinigung der Löschung im Luftfahrzeugregister oder der Nichteintragung</td><td>60.–</td></tr>
 <tr><td>e. für die Ausstellung eines Lufttüchtigkeitszeugnisses, eines eingeschränktes Lufttüchtigkeitszeugnisses oder einer Fluggenehmigung</td><td>60.–</td></tr>
 </table>
 
@@ -242,13 +241,13 @@ Es werden direkt von der EASA erhoben:
 
 <sup>3</sup> Wird ein Luftfahrzeug im Luftfahrzeugregister von Amtes wegen gelöscht, so wird dafür keine Gebühr erhoben.
 
-<sup>4</sup> Für die Bewilligung der Eintragung eines Luftfahrzeugs ins Luftfahrzeugregister im Sinne von Artikel 3 Absatz 2 der Luftfahrtverordnung vom 14. November 1973[^16-1] (LFV) wird eine Gebühr von 600 Franken erhoben.
+<sup>4</sup> Für die Bewilligung der Eintragung eines Luftfahrzeugs ins Luftfahrzeugregister im Sinne von Artikel 3 Absatz 2 der Luftfahrtverordnung vom 14. November 1973[^16-3] (LFV) wird eine Gebühr von 600 Franken erhoben.
 
 <sup>5</sup> Nimmt der Halter beim BAZL hinterlegte Papiere wieder zurück, so wird eine Gebühr von 60 Franken pro Luftfahrzeug und von 120 Franken für eine ganze Flotte erhoben.
 
-<sup>6</sup> Für die Prüfung und die Genehmigung eines Instandhaltungsprogramms wird die Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 90–7000 Franken bemessen.[^16-2]
+<sup>6</sup> Für die Prüfung und die Genehmigung eines Instandhaltungsprogramms wird die Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 90–7000 Franken bemessen.[^16-4]
 
-<sup>7</sup> Für die laufenden Aufsichtstätigkeiten eines im Luftfahrzeugregister eingetragenen Luftfahrzeugs wird am Anfang jedes Kalenderjahres folgende Jahresgebühr erhoben:
+<sup>7</sup> Für die laufenden Aufsichtstätigkeiten eines im Luftfahrzeugregister eingetragenen Luftfahrzeugs wird am Ende jedes Kalenderjahres folgende Jahresgebühr erhoben:[^16-5]
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -257,14 +256,17 @@ Es werden direkt von der EASA erhoben:
 <tr><td>c. für andere Luftfahrzeuge mit einem Abfluggewicht über 5700 kg oder für mehrmotorige Hubschrauber</td><td>600.–</td></tr>
 </table>
 
-<sup>8</sup> Bei Hinterlegung der Bordpapiere während eines ganzen Kalenderjahres und im Falle eine Löschung eines Luftfahrzeuges innerhalb der ersten 6 Monate eines Kalenderjahres wird die Hälfte der in Absatz 7 aufgeführten Gebühr erhoben.[^16-3]
+<sup>8</sup> Werden während mindestens 6 Monaten eines Kalenderjahres die Bordpapiere ununterbrochen hinterlegt, oder wird innerhalb der ersten 6 Monate eines Kalenderjahres ein Luftfahrzeug gelöscht, so wird die Hälfte der in Absatz 7 aufgeführten Gebühr erhoben.[^16-6]
 
-<sup>9</sup> Bei der Eintragung eines Luftfahrzeugs innerhalb der ersten 6 Monate eines Kalenderjahres wird die Hälfte der in Absatz 7 bestimmten Gebühr erhoben. Bei der Eintragung nach den ersten 6 Monaten eines Kalenderjahres wird auf die Erhebung einer Gebühr verzichtet.[^16-4]
+<sup>9</sup> Bei der Eintragung eines Luftfahrzeugs innerhalb der ersten 6 Monate eines Kalenderjahres wird die Hälfte der in Absatz 7 bestimmten Gebühr erhoben. Bei der Eintragung nach den ersten 6 Monaten eines Kalenderjahres wird auf die Erhebung einer Gebühr verzichtet.[^16-7]
 
-[^16-1]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^16-2]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^16-3]: Eingefügt durch Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^16-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^16-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-2]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-3]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^16-4]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^16-5]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-6]: Eingefügt durch Ziff. I der V vom 10. Nov. 2010 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)). Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 
 #### Art. 17
 
@@ -376,6 +378,34 @@ Eine Gebühr nach Zeitaufwand ohne Gebührenrahmen wird erhoben für:
 
 <sup>2</sup> Es gilt ein Gebührenrahmen von 195 bis 10 320 Franken.
 
+#### Art. 21a
+
+**Kombinierte Lufttüchtigkeitsorganisation**[^21a-1]
+
+<sup>1</sup> Für die Genehmigung einer kombinierten Lufttüchtigkeitsorganisation werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
+
+<table>
+<tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
+<tr><td>a. für die Erteilung</td><td>2 000.–</td><td>50 000.–</td></tr>
+<tr><td>b. für die Erweiterung oder Änderung</td><td>200.–</td><td>50 000.–</td></tr>
+<tr><td>c. für die laufende Aufsicht (pro Dienstleistung)</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><td>d. für ausserordentliche Inspektionen</td><td>200.–</td><td>20 000.–</td></tr>
+</table>
+
+<sup>2</sup> Die Bearbeitung des Gesuchs um Genehmigung des Handbuchs für die kombinierte Lufttüchtigkeitsorganisation und die Betriebsprüfung sind in der Gebühr inbegriffen.
+
+<sup>3</sup> Für Sondergenehmigungen und Ausnahmebewilligungen wird eine Gebühr nach Zeitaufwand ohne Gebührenrahmen bemessen.
+
+<sup>4</sup> Für die Ermächtigung einer kombinierten Lufttüchtigkeitsorganisation, Bescheinigungen über die Prüfung der Lufttüchtigkeit auszustellen, werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
+
+<table>
+<tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
+<tr><td>a. für die Erteilung</td><td>1 000.–</td><td>30 000.–</td></tr>
+<tr><td>b. für die Erweiterung</td><td>200.–</td><td>30 000.–</td></tr>
+</table>
+
+[^21a-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+
 #### Art. 22
 
 **Eigentumsübergang**
@@ -426,107 +456,101 @@ Für jede andere Eintragung im Luftfahrzeugbuch wird eine Gebühr nach Zeitaufwa
 
 **Prüfungen des Flugpersonals**[^29-1]
 
-Für Prüfungen und für die Wiederholung von Prüfungen des Flugpersonals, welche durch Inspektorinnen oder Inspektoren des BAZL zum Erwerb und zur Erhaltung hoher fachlicher Qualifikation oder bei der Aufsichtstätigkeit abgenommen werden, sowie für Kurse, welche durch das BAZL durchgeführt werden, werden folgende Gebühren erhoben:
+<sup>1</sup> Für Prüfungen und für die Wiederholung von Prüfungen des Flugpersonals, welche durch Inspektorinnen oder Inspektoren des BAZL zum Erwerb und zur Erhaltung hoher fachlicher Qualifikation oder bei der Aufsichtstätigkeit abgenommen werden, sowie für Kurse, welche durch das BAZL durchgeführt werden, werden folgende Gebühren erhoben:
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>a. Bordradiotelefonistinnen und -telefonisten</td><td></td></tr>
-<tr><td>1. selbstständiger Ausweis (VFR)</td><td></td></tr>
-<tr><td>– theoretische Prüfung</td><td>100.–</td></tr>
-<tr><td>– praktische Prüfung</td><td>100.–</td></tr>
-<tr><td>2. Erweiterung des Pilotenausweises (VFR/IFR)</td><td></td></tr>
-<tr><td>– theoretische Prüfung</td><td>75.–</td></tr>
-<tr><td>– praktische Prüfung</td><td>100.–</td></tr>
-<tr><td>3. Sprachprüfungen (Language Proficiency Check)</td><td></td></tr>
-<tr><td>– für Level 4, Erst-, Verlängerungs- und Erneuerungsprüfung in Prüfungszentrum</td><td>150.–</td></tr>
+<tr><td>a. Radiotelefonieprüfung</td><td></td></tr>
+<tr><td>1. praktische Tischprüfung VFR/IFR</td><td>100.–</td></tr>
+<tr><td>2. Sprachprüfungen (Language Proficiency Check)</td><td></td></tr>
+<tr><td>– für Level 4, Erst-, Verlängerungs- und Erneuerungsprüfung im Prüfungszentrum</td><td>150.–</td></tr>
 <tr><td>– für Level 4, Verlängerungs- und Erneuerungsprüfung kombiniert mit Flug</td><td>75.–</td></tr>
-<tr><td>– für Level 5/6, Erst-, Verlängerungs- und Erneuerungsprüfung in Prüfungszentrum</td><td>250.–</td></tr>
+<tr><td>– für Level 5/6, Erst-, Verlängerungs- und Erneuerungsprüfung im Prüfungszentrum</td><td>250.–</td></tr>
 <tr><td>– für Level 6, Überprüfung der Sprechfertigkeit bei Muttersprachlern</td><td>200.–</td></tr>
-<tr><td>b. Leichtflugzeug-Piloten LAPL(A) und LAPL(H)</td><td></td></tr>
-<tr><td>1. vollständige theoretische Prüfung</td><td>200.–</td></tr>
-<tr><td>2. theoretische Teilprüfung (pro Teilprüfung)</td><td>100.–</td></tr>
-<tr><td>3. Flugprüfung (Skill Test und Proficiency Check) für einmotorige Flugzeuge SE, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>250.–</td></tr>
-<tr><td>c. Privatpiloten/Privatpilotinnen PPL(A) und PPL(H)</td><td></td></tr>
-<tr><td>1. vollständige theoretische Prüfung</td><td>200.–</td></tr>
-<tr><td>2. theoretische Teilprüfung (pro Teilprüfung)</td><td>100.–</td></tr>
-<tr><td>3. Flugprüfung (Skill Test) für einmotorige Flugzeuge oder Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>350.–</td></tr>
-<tr><td>4. Flugprüfung (Skill Test) für mehrmotorige Flugzeuge oder Hubschrauber ME</td><td>400.–</td></tr>
+<tr><td>b. Leichtflugzeug-Piloten/Pilotinnen LAPL(A) und LAPL(H)</td><td></td></tr>
+<tr><td>1. theoretische Prüfung, pro Fach</td><td>20.–</td></tr>
+<tr><td>2. Flugprüfung (Skill Test und Proficiency Check) für einmotorige Flugzeuge, für Hubschrauber, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>250.–</td></tr>
+<tr><td>c. Privatpiloten/Privatpilotinnen PPL(A) und PPL(H), Segelflugpilo-ten/Segelflugpilotinnen (SFCL) und Ballonfahrer/Ballonfahrerinnen (BFCL)</td><td></td></tr>
+<tr><td>1. theoretische Prüfung, pro Fach</td><td>20.–</td></tr>
+<tr><td>2. Flugprüfung (Skill Test) für einmotorige Flugzeuge oder Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>350.–</td></tr>
+<tr><td>3. Flugprüfung (Skill Test) für mehrmotorige Flugzeuge oder Hubschrauber ME</td><td>400.–</td></tr>
+<tr><td>4. Flugprüfung (Skill Test und Proficiency Check) für den Erwerb und die Aufrechterhaltung einer Segelfluglizenz</td><td>250.–</td></tr>
+<tr><td>5. Fahrprüfung (Skill Test und Proficiency Check) für den Erwerb und die Aufrechterhaltung einer Ballonlizenz sowie die Erweiterung auf weitere Ballonklasse</td><td>450.–</td></tr>
 <tr><td>d. Berufspiloten/Berufspilotinnen, CPL(A) und CPL(H)</td><td></td></tr>
-<tr><td>1. vollständige theoretische Prüfung</td><td>400.–</td></tr>
-<tr><td>2. theoretische Teilprüfung (pro Teilprüfung)</td><td>200.–</td></tr>
-<tr><td>3. Flugprüfung (Skill Test) für einmotorige Luftfahrzeuge</td><td>400.–</td></tr>
-<tr><td>4. Flugprüfung (Skill Test) für mehrmotorige Luftfahrzeuge</td><td>450.–</td></tr>
+<tr><td>1. theoretische Prüfung, pro Fach</td><td>30.–</td></tr>
+<tr><td>2. Flugprüfung (Skill Test) für einmotorige Luftfahrzeuge</td><td>400.–</td></tr>
+<tr><td>3. Flugprüfung (Skill Test) für mehrmotorige Luftfahrzeuge</td><td>450.–</td></tr>
 <tr><td>e. Multi-Crew Pilot Licence MPL, Flugprüfung</td><td>1250.–</td></tr>
 <tr><td>f. Linienpiloten/Linienpilotinnen ATPL(A) und ATPL(H)</td><td></td></tr>
-<tr><td>1. vollständige theoretische Prüfung</td><td>800.–</td></tr>
-<tr><td>2. theoretische Teilprüfung (pro Teilprüfung)</td><td>400.–</td></tr>
-<tr><td>3. Flugprüfung</td><td>800.–</td></tr>
-<tr><td>g. Klassen- und Musterberechtigung (Proficiency Check und Skill Test)</td><td></td></tr>
-<tr><td>1. Klassen- und Musterprüfung (Proficiency Check) für einmotorige Flugzeuge und Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>150.–</td></tr>
-<tr><td>2. Klassen- und Musterprüfung (Skill Test) für einmotorige Flugzeuge und Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG</td><td>200.–</td></tr>
-<tr><td>3. Klassen- und Musterprüfung (Skill Test und Proficiency Check) für mehrmotorige Flugzeuge oder Hubschrauber ME mit Einpersonenbesatzung</td><td>400.–</td></tr>
-<tr><td>4. Flugprüfung für Flugzeuge oder Hubschrauber mit Mehrpersonenbesatzung (Skill Test und Proficiency Check)</td><td>800.–</td></tr>
-<tr><td>5. Flug mit Prüfer/Prüferin, pro Flug</td><td>350.–</td></tr>
-<tr><td>h. Instrumentenflug (Flugzeug und Hubschrauber)</td><td></td></tr>
-<tr><td>1. vollständige theoretische Erstprüfung</td><td>400.–</td></tr>
-<tr><td>2. theoretische Erstprüfung in Teilen (pro Teilprüfung)</td><td>200.–</td></tr>
-<tr><td>3. Erstflugprüfung (IR Skill Test)</td><td>700.–</td></tr>
-<tr><td>4. für regelmässige Kontrollflüge für Klassen- oder Typenberechtigungen mit Erneuerung des Ausweises für den Instrumentenflug (IR Proficiency Check)</td><td></td></tr>
-<tr><td>– für einmotorige Flugzeuge oder Hubschrauber mit Einpersonenbesatzung</td><td>300.–</td></tr>
-<tr><td>– für mehrmotorige Flugzeuge oder Hubschrauber mit Einpersonenbesatzung</td><td>350.–</td></tr>
-<tr><td>– für Flugzeuge oder Hubschrauber mit Mehrpersonenbesatzung</td><td>700.–</td></tr>
-<tr><td>5. Prüfung auf Simulator oder entsprechendem Übungsgerät unter Aufsicht eines/einer Sachverständigen des BAZL</td><td>350.–</td></tr>
-<tr><td>i. Prüfungen zur Erweiterung des Motorpiloten- und Hubschrauberausweises</td><td></td></tr>
+<tr><td>1. theoretische Prüfung, pro Fach</td><td>55.–</td></tr>
+<tr><td>2. Flugprüfung</td><td>800.–</td></tr>
+<tr><td>g. Instrumentenflug (Flugzeug und Hubschrauber)</td><td></td></tr>
+<tr><td>1. theoretische Prüfung, pro Fach</td><td>55.–</td></tr>
+<tr><td>2. Flugprüfung (IR Skill Test) auf einmotorigen Flugzeugen oder Hubschraubern</td><td>500.–</td></tr>
+<tr><td>3. Flugprüfung (IR Skill Test) auf mehrmotorigen Flugzeugen oder Hubschraubern</td><td>700.–</td></tr>
+<tr><td>h. Klassen- und Musterberechtigung (Proficiency Check und Skill Test) und Verlängerung und Erneuerung von Instrumentenflugberechtigungen (Proficiency Check)</td><td></td></tr>
+<tr><td>1. Klassen- und Musterprüfung (Skill Test und Proficiency Check) für einmotorige Flugzeuge oder Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG im Sichtflug (VFR)</td><td>250.–</td></tr>
+<tr><td>2. Klassen- und Musterprüfung (Skill Test und Proficiency Check) für einmotorige Flugzeuge oder Hubschrauber SE, für Ecolight-Flugzeuge oder für Motorsegler TMG mit Instrumentenflugberechtigung (VFR und IFR)</td><td>350.–</td></tr>
+<tr><td>3. Verlängerung oder Erneuerung der Instrumentenflugberechtigung (Proficiency Check) für einmotorige Flugzeuge oder Hubschrauber (nur IFR)</td><td>250.–</td></tr>
+<tr><td>4. Klassen- und Musterprüfung (Skill Test und Proficiency Check) für mehrmotorige Flugzeuge oder Hubschrauber mit Einpersonenbesatzung im Sichtflug (VFR)</td><td>400.–</td></tr>
+<tr><td>5. Klassen- und Musterprüfung (Skill Test und Proficiency Check) für mehrmotorige Flugzeuge oder Hubschrauber mit Einpersonenbesatzung mit Instrumentenflugberechtigung (VFR und IFR)</td><td>500.–</td></tr>
+<tr><td>6. Verlängerung oder Erneuerung der Instrumentenflugberechtigung (Proficiency Check) für mehrmotorige Flugzeuge oder Hubschrauber mit Einpersonenbesatzung (nur IFR)</td><td>400.–</td></tr>
+<tr><td>7. Flugprüfung (Skill Test und Proficiency Check) für Flugzeuge oder Hubschrauber mit Mehrpersonenbesatzung</td><td>800.–</td></tr>
+<tr><td>8. Flug mit Prüfer/Prüferin, pro Flug</td><td>350.–</td></tr>
+<tr><td>i. Prüfungen zur Erweiterung des Motorpiloten-, Hubschrauberpiloten-, Segelflugpiloten- und Ballonfahrerausweises</td><td></td></tr>
 <tr><td>1. für Landungen im Gebirge (Flugzeuge und Hubschrauber, Skill Test oder Proficiency Check)</td><td>500.–</td></tr>
 <tr><td>2. für Abflüge bei Boden- oder Hochnebel (Hubschrauber)</td><td>350.–</td></tr>
-<tr><td>3. für Fluglehrerbefähigungen, soweit nicht nachstehend speziell geregelt</td><td></td></tr>
+<tr><td>3. für Fluglehrerbefähigungen oder Fahrlehrerbefähigungen, soweit nicht nachstehend speziell geregelt</td><td></td></tr>
 <tr><td>– Einweisungsprüfung (Initial Assessment of Competence AoC)</td><td>400.–</td></tr>
 <tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>300.–</td></tr>
 <tr><td>4. für Fluglehrerbefähigungen IRI(A) und IRI(H)</td><td></td></tr>
 <tr><td>– Einweisungsprüfung (AoC)</td><td>500.–</td></tr>
-<tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>250.–</td></tr>
+<tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>400.–</td></tr>
 <tr><td>5. für Fluglehrerbefähigungen TRI(A), TRI(H), SFI(A) und SFI(H)</td><td></td></tr>
 <tr><td>– Einweisungsprüfung (AoC)</td><td>600.–</td></tr>
 <tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>500.–</td></tr>
+<tr><td>6. für Wolkenflugberechtigung für Segelflugzeuge</td><td></td></tr>
+<tr><td>– Flugprüfung (Proficiency Check)</td><td>150.–</td></tr>
+<tr><td>7. für gewerbsmässige Fahrten</td><td></td></tr>
+<tr><td>– Fahrprüfung (Proficiency Check)</td><td>450.–</td></tr>
 <tr><td>j. Fluglehrer/in für Landungen im Gebirge (Hubschrauber)</td><td></td></tr>
 <tr><td>1. Zulassungsprüfung</td><td>400.–</td></tr>
 <tr><td>2. Grundkurs</td><td>2000.–</td></tr>
-<tr><td>k. Segelfliegerausweise SPL und LAPL(S)</td><td></td></tr>
-<tr><td>1. Segelfliegerausweis</td><td></td></tr>
-<tr><td>– vollständige theoretische Prüfung</td><td>200.–</td></tr>
-<tr><td>– theoretische Teilprüfung (pro Teilprüfung)</td><td>100.–</td></tr>
-<tr><td>– Flugprüfung (Skill Test und Proficiency Check)</td><td>250.–</td></tr>
-<tr><td>2. Erweiterung für Instrumentenflug (Wolkenflug)</td><td></td></tr>
-<tr><td>– Flugprüfung</td><td>150.–</td></tr>
-<tr><td>3. Erweiterung für gewerbsmässige Flüge, Flugprüfung (Proficiency Check)</td><td>250.–</td></tr>
-<tr><td>4. Erweiterung für Segelfluglehrer/in</td><td></td></tr>
-<tr><td>– Einweisungsprüfung (Initial Assessment of Competence (AoC)</td><td>400.–</td></tr>
-<tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>300.–</td></tr>
-<tr><td>l. Ballonfahrerausweise BPL und LAPL(B)</td><td></td></tr>
-<tr><td>1. Ballonfahrerausweise</td><td></td></tr>
-<tr><td>– vollständige theoretische Prüfung</td><td>200.–</td></tr>
-<tr><td>– theoretische Teilprüfung (pro Teilprüfung)</td><td>100.–</td></tr>
-<tr><td>– Fahrprüfung (Skill Test und Proficiency Check)</td><td>450.–</td></tr>
-<tr><td>2. Erweiterung für gewerbsmässige Flüge, Fahrprüfung (Proficiency Check)</td><td>450.–</td></tr>
-<tr><td>3. Erweiterung für Ballonfahrlehrer/in</td><td></td></tr>
-<tr><td>– Einweisungsprüfung (Initial Assessment of Competence (AoC)</td><td>400.–</td></tr>
-<tr><td>– Erneuerung oder Verlängerung (AoC)</td><td>300.–</td></tr>
-<tr><td>m. Hängegleiter-Pilotenausweis (Kat. Delta und Gleitschirm)</td><td></td></tr>
+<tr><td>k. Hängegleiter-Pilotenausweis (Kat. Delta und Gleitschirm)</td><td></td></tr>
 <tr><td>1. theoretische Prüfung</td><td>125.–</td></tr>
 <tr><td>2. Flugprüfung</td><td>125.–</td></tr>
 </table>
 
-[^29-1]: Fassung gemäss Ziff. I der V vom 30. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 5025](https://fedlex.data.admin.ch/eli/oc/2018/785)).
+<sup>2</sup> Die Prüfungsgebühren für theoretische Prüfungen können im Voraus entrichtet werden.
+
+[^29-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 29a
 
-**Berechtigung als Prüfungsexperte oder Prüfungsexpertin**[^29a-1]
+**Berechtigung als Prüfungsexperte oder Prüfungsexpertin und als Sprachprüfer oder Sprachprüferin**[^29a-1]
 
-<sup>1</sup> Für die Bearbeitung eines Gesuches um die Erteilung einer Berechtigung als Prüfungsexperte oder Prüfungsexpertin oder für das Verfahren auf Entzug einer solchen Berechtigung wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 5000 Franken bemessen.
+<sup>1</sup> Für die Bearbeitung eines Gesuches um die Erteilung einer Berechtigung als Prüfungsexperte oder Prüfungsexpertin und als Sprachprüfer oder Sprachprüferin wird eine Gebühr von 100 Franken erhoben.
 
-<sup>2</sup> Für die Instruktion und die laufende Überwachung eines Prüfungsexperten oder einer Prüfungsexpertin wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 40 000 Franken pro Jahr und Experte oder Expertin bemessen.
+<sup>2</sup> Für die Instruktion und die laufende Überwachung eines Prüfungsexperten oder einer Prüfungsexpertin werden folgenden Gebühren erhoben:
 
-[^29a-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. Praktische Ausbildung und Beurteilung der Kompetenz eines Prüfungsexperten oder einer Prüfungsexpertin (Examiner AoC) (pro Dienstleistung)</td><td></td></tr>
+<tr><td>1. Flugzeuge mit Einpersonenbesatzung</td><td>400.–</td></tr>
+<tr><td>2. Flugzeuge mit Mehrpersonenbesatzung</td><td>500.–</td></tr>
+<tr><td>3. Helikopter</td><td>400.–</td></tr>
+<tr><td>4. Ballon</td><td>200.–</td></tr>
+<tr><td>5. Segelflug</td><td>200.–</td></tr>
+<tr><td>b. Kurse für Prüfungsexperten/Prüfungsexpertinnen (pro Tag)</td><td></td></tr>
+<tr><td>1. Flugzeuge mit Einpersonenbesatzung</td><td>300.–</td></tr>
+<tr><td>2. Flugzeuge mit Mehrpersonenbesatzung</td><td>500.–</td></tr>
+<tr><td>3. Helikopter</td><td>300.–</td></tr>
+<tr><td>4. Ballon</td><td>100.–</td></tr>
+<tr><td>5. Segelflug</td><td>100.–</td></tr>
+<tr><td>6. Sprachprüfer/Sprachprüferin</td><td>100.–</td></tr>
+</table>
+
+[^29a-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)). Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 29b
 
@@ -573,32 +597,32 @@ Für die Übertragung der flugmedizinischen Unterlagen des Inhabers oder der Inh
 <sup>1</sup> Für die Bearbeitung von Ausweisen für das Flugpersonal werden folgende Gebühren erhoben:
 
 <table>
-<tr><th></th><th>Fr.</th></tr>
-<tr><td>a. für die Bearbeitung eines Gesuch um Erstausstellung</td><td></td></tr>
-<tr><td>1. eines Berufsausweises</td><td>125.–</td></tr>
-<tr><td>2. eines Nichtberufsausweises</td><td>100.–</td></tr>
-<tr><td>3. eines Ausweises für autonome Bordradiotelefonistinnen und -telefonisten</td><td>100.–</td></tr>
-<tr><td>b. für die Bearbeitung eines Gesuchs um Erneuerung, Verlängerung oder Erweiterung</td><td></td></tr>
-<tr><td>1. eines Berufsausweises</td><td>80.–</td></tr>
-<tr><td>2. eines Nichtberufsausweises</td><td>50.–</td></tr>
-<tr><td>3. einer Typen- oder Klassenberechtigung in einem Berufsausweis</td><td>80.–</td></tr>
-<tr><td>4. einer Typen- oder Klassenberechtigung in einem Nichtberufsausweis</td><td>50.–</td></tr>
-<tr><td>c. für das Ausstellen eines Duplikats</td><td>50.–</td></tr>
-<tr><td>d. für das Ausstellen einer Sonderbewilligung</td><td>600.–</td></tr>
-<tr><td>e.[^30-1] für die Konvertierung, Übertragung, Anerkennung oder Validierung eines ausländischen Ausweises</td><td></td></tr>
-<tr><td>1. für Nichtberufspiloten</td><td>230.–</td></tr>
-<tr><td>2. für Berufspiloten</td><td>600.–</td></tr>
-<tr><td>f.[^30-2] für die Konvertierung von einer Strecken-Instrumentenflugberechtigung (EIR) oder von einem kompetenzbasierten modularen IR(A)-Lehrgang (CB IR) aus Nicht-Easa-Staaten</td><td>140.–</td></tr>
-<tr><td>g. für die Kontrolle des Flugbuchs</td><td>25.–</td></tr>
+<tr><th></th><th colspan="2">Fr.</th></tr>
+<tr><td>a. für die Bearbeitung eines Gesuch um Erstausstellung</td><td colspan="2"></td></tr>
+<tr><td>1. eines Berufsausweises</td><td colspan="2">125.–</td></tr>
+<tr><td>2. eines Nichtberufsausweises</td><td colspan="2">100.–</td></tr>
+<tr><td>3. eines Ausweises für autonome Bordradiotelefonistinnen und -telefonisten</td><td colspan="2">100.–</td></tr>
+<tr><td>b.[^30-1] für die Bearbeitung eines Gesuchs um Ersteintrag, Erneuerung oder Verlängerung betreffend einer Typen- oder Klassenberechtigung oder der Erweiterung</td><td colspan="2"></td></tr>
+<tr><td colspan="2">1. in einem Berufsausweis</td><td>75.–</td></tr>
+<tr><td colspan="2">2. in einem Nichtberufsausweis</td><td>45.–</td></tr>
+<tr><td>c.[^30-2] für das Ausstellen eines Duplikats oder für die Neuausstellung nach Änderungen der persönlichen Angaben</td><td colspan="2">45.–</td></tr>
+<tr><td>d. für das Ausstellen einer Sonderbewilligung</td><td colspan="2">600.–</td></tr>
+<tr><td>e.[^30-3] für die Konvertierung, Übertragung, Anerkennung oder Validierung eines ausländischen Ausweises</td><td colspan="2"></td></tr>
+<tr><td>1. für Nichtberufspiloten</td><td colspan="2">230.–</td></tr>
+<tr><td>2. für Berufspiloten</td><td colspan="2">600.–</td></tr>
+<tr><td>f.[^30-4] für die Konvertierung von einer Strecken-Instrumentenflugberechtigung (EIR), von einer Basis-Instrumentenflugberechtigung (BIR) oder von einem kompetenzbasierten modularen IR(A)-Lehrgang (CB IR) aus Nicht-EASA-Staaten in eine EASA-Berechtigung</td><td colspan="2">140.–</td></tr>
+<tr><td>g. für die Kontrolle des Flugbuchs</td><td colspan="2">25.–</td></tr>
 </table>
 
-<sup>2</sup> Für die Bearbeitung eines Gesuchs um Ausstellung oder Erneuerung einer Anerkennung ausländischer Pilotenausweise für den Betrieb eines in der Schweiz eingetragenen Luftfahrzeugs («Certificate of Validation») wird eine Gebühr von 230 Franken erhoben.[^30-3]
+<sup>2</sup> Für die Bearbeitung eines Gesuchs um Ausstellung oder Erneuerung einer Anerkennung ausländischer Pilotenausweise für den Betrieb eines in der Schweiz eingetragenen Luftfahrzeugs («Certificate of Validation») wird eine Gebühr von 230 Franken erhoben.[^30-5]
 
 <sup>3</sup> Für jede Handlung zur Verwaltung des Dossiers kann eine Gebühr nach Zeitaufwand erhoben werden. Es gilt ein Höchstbetrag von 120 Franken.
 
-[^30-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^30-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^30-3]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^30-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-2]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-3]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^30-4]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-5]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
 
 #### Art. 31
 
@@ -643,18 +667,22 @@ Für Prüfungen und erweiterte Prüfungen für freigabeberechtigtes Personal wer
 <tr><td>1. Erneuerung oder Erweiterung</td><td>100.–</td></tr>
 <tr><td>2. Erweiterung für einen weiteren Luftfahrzeugtyp oder eine weitere Kategorie</td><td>50.–</td></tr>
 <tr><td>c.[^33-2] für das Ausstellen eines Ausweises, einer sonstigen Bewilligung oder eines Duplikats</td><td>50.–</td></tr>
+<tr><td>d.[^33-3] für die Erstausstellung einer Erlaubnis zur Prüfung der Lufttüchtigkeit für unabhängiges freigabeberechtigtes Personal</td><td>1000.–</td></tr>
+<tr><td>e.[^33-4] für die Erneuerung der Erlaubnis zur Prüfung der Lufttüchtigkeit für unabhängiges freigabeberechtigtes Personal</td><td>700.–</td></tr>
 </table>
 
 <sup>2</sup> Für jede Handlung zur Verwaltung des Dossiers kann eine Gebühr nach Zeitaufwand erhoben werden. Es gilt ein Höchstbetrag von 120 Franken.
 
-<sup>3</sup> Für die Genehmigung von Luftfahrzeugtypenkursen ausserhalb von Ausbildungseinrichtungen für freigabeberechtigtes Personal kann eine Gebühr nach Zeitaufwand erhoben werden; es gilt ein Höchstbetrag von 360 Franken.[^33-3]
+<sup>3</sup> Für die Genehmigung von Luftfahrzeugtypenkursen ausserhalb von Ausbildungseinrichtungen für freigabeberechtigtes Personal kann eine Gebühr nach Zeitaufwand erhoben werden; es gilt ein Höchstbetrag von 360 Franken.[^33-5]
 
-<sup>4</sup> Für die Bearbeitung eines Gesuchs für eine sonstige Bewilligung, die zur Durchführung und Bescheinigung von spezifischen Instandhaltungsarbeiten berechtigt, kann eine Gebühr nach Zeitaufwand erhoben werden; es gilt ein Höchstbetrag von 600 Franken.[^33-4]
+<sup>4</sup> Für die Bearbeitung eines Gesuchs für eine sonstige Bewilligung, die zur Durchführung und Bescheinigung von spezifischen Instandhaltungsarbeiten berechtigt, kann eine Gebühr nach Zeitaufwand erhoben werden; es gilt ein Höchstbetrag von 600 Franken.[^33-6]
 
 [^33-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 [^33-2]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^33-3]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^33-4]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^33-3]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^33-4]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^33-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^33-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 
 #### Art. 34
 
@@ -685,6 +713,21 @@ Für Prüfungen und erweiterte Prüfungen für freigabeberechtigtes Personal wer
 
 Für sonstige Prüfungen und Ausweise werden die Gebühren nach Zeitaufwand innerhalb eines Gebührenrahmens von 50 bis 600 Franken bemessen.
 
+#### Art. 36a
+
+**Betreiber von unbemannten Luftfahrzeugen**[^36a-1]
+
+Für die Registrierung und den Kompetenznachweis von Betreiber von unbemannten Luftfahrzeugen werden die folgenden Gebühren erhoben:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. für die Erstregistrierung inkl. Training und Prüfung</td><td>30.–</td></tr>
+<tr><td>b. für die Verlängerung inkl. Training und Prüfung</td><td>20.–</td></tr>
+<tr><td>c. für die Registrierung ohne Training und Prüfung (Modellflug)</td><td>10.–</td></tr>
+</table>
+
+[^36a-1]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+
 ## 5. Abschnitt: Öffentliche Flugveranstaltungen und luftpolizeiliche Bewilligungen
 
 #### Art. 37
@@ -705,125 +748,126 @@ Für sonstige Prüfungen und Ausweise werden die Gebühren nach Zeitaufwand inne
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>a.[^38-1] Bewilligung für Hängegleiter, Drachen, Drachenfallschirme, Fesselballone sowie unbemannte Luftfahrzeuge (Art. 14 und 18 Abs. 1 Bst. b der V vom 24. Nov. 1994[^38-2] über Luftfahrzeuge besonderer Kategorien), je nach Zeitaufwand</td><td>50.– bis 5 000.–</td></tr>
-<tr><td>b. Bewilligung zur Beförderung bedingt zugelassener Güter mit Luftfahrzeugen (Art. 14 Abs. 3 LFG)</td><td>300.–</td></tr>
-<tr><td>c. Bewilligung zum Abwurf von Gegenständen oder Stoffen aus Luftfahrzeugen (Art. 13 Abs. 1 der V vom 4. Mai 1981[^38-3] über die Verkehrsregeln für Luftfahrzeuge [VVR])</td><td>300.–</td></tr>
+<tr><td>a. Bewilligung für Hängegleiter, Drachen, Drachenfallschirme, Fesselballone sowie unbemannte Luftfahrzeuge (Art. 14 und 18 Abs. 1 Bst. b der V vom 24. Nov. 1994[^38-1] über Luftfahrzeuge besonderer Kategorien), je nach Zeitaufwand</td><td>50.– bis 5 000.–</td></tr>
+<tr><td>b. Bewilligung zur Beförderung bedingt zugelassener Güter mit Luftfahrzeugen (Art. 14 Abs. 3 LFG[^38-2])</td><td>300.–</td></tr>
+<tr><td>c. Bewilligung zum Abwurf von Gegenständen oder Stoffen aus Luftfahrzeugen (Art. 9 Abs. 1 der V vom 20. Mai 2015[^38-3] über die Verkehrsregeln für Luftfahrzeuge [VRV-L])</td><td>300.–</td></tr>
 <tr><td>d. Bewilligung für den Einsatz oder das Abschiessen von Flugkörpern (Art. 23 Abs. 3 LFV[^38-4])</td><td>400.–</td></tr>
-<tr><td>e.[^38-5] Bewilligung von Flügen mit Unterschreitung der Mindestflughöhe (Art. 44 Abs. 2 Bst. f VVR)</td><td></td></tr>
+<tr><td>e. Bewilligung von Flügen mit Unterschreitung der Mindestflughöhe (Art. 28 Abs. 2 Bst. f VRV-L)</td><td></td></tr>
 <tr><td>1. für gewerbsmässige Flüge</td><td>400.–</td></tr>
 <tr><td>2. für nichtgewerbsmässige Flüge</td><td>250.–</td></tr>
-<tr><td>f.[^38-6] Bewilligung für Aussenlandungen</td><td></td></tr>
-<tr><td>1. mit Flugzeugen, Tragschraubern, Luftschiffen sowie motorisierten Luftfahrzeugen, die nicht im schweizerischen Luftfahrzeugregister eingetragen sind (Art. 6 Abs. 1 der Aussenlandeverordnung vom 14. Mai 2014[^38-7] [AuLaV])</td><td>500.–</td></tr>
+<tr><td>f. Bewilligung für Aussenlandungen</td><td></td></tr>
+<tr><td>1. mit Flugzeugen, Hubschraubern, Luftschiffen sowie motorisierten Luftfahrzeugen, die nicht im schweizerischen Luftfahrzeugregister eingetragen sind (Art. 6 Abs. 1 der Aussenlandeverordnung vom 14. Mai 2014[^38-5] [AuLaV])</td><td>500.–</td></tr>
 <tr><td>2. auf öffentlichen Gewässern (Art. 6 Abs. 2 AuLaV)</td><td>500.–</td></tr>
 <tr><td>3. oberhalb von 2000 m über Meer für die Ausbildung von Personen, die im Dienste von Rettungsorganisationen oder der Polizei stehen (Art. 36 AuLaV)</td><td>0.–</td></tr>
-<tr><td>g.[^38-8] Bewilligung für Aussenlandungen oberhalb von 1100 m über Meer ausserhalb von bezeichneten Gebirgslandeplätzen bei Personentransporten zu touristischen oder sportlichen Zwecken (Art. 26 AuLaV)</td><td></td></tr>
-<tr><td>[tab] nach Zeitaufwand innerhalb eines Gebührenrahmens von:</td><td>100.– bis 5 000.–</td></tr>
-<tr><td>h.[^38-9] Bewilligung</td><td></td></tr>
-<tr><td>1. für mehrtägige Grossanlässe von internationaler Bedeutung (Art. 16 Abs. 3, Art. 29 und Art. 39 Abs. 4 AuLaV)</td><td></td></tr>
-<tr><td>2. für Abweichungen von den Voraussetzungen nach Artikel 8 Absatz 1 und von den zeitlichen und räumlichen Einschränkungen der Artikel 25, 27 Absatz 1 Buchstaben a und c, 32 und 34 AuLaV (Art. 10 Abs. 1 AuLaV)</td><td></td></tr>
-<tr><td>3. für Aussenlandungen zu Arbeitszwecken in Schutzgebieten nach Artikel 19 Absätze 1 und 2 AuLaV (Art. 28 Abs. 1 AuLaV)</td><td></td></tr>
-<tr><td>[tab] nach Zeitaufwand innerhalb eines Gebührenrahmens von:</td><td>100.– bis 50 000.–</td></tr>
-<tr><td>i. Ausnahmebewilligung für Werkflüge und andere Sonderfälle (Art. 2b Abs. 2 LFV)</td><td>300.–</td></tr>
-<tr><td>j. Bewilligung für die Benützung des schweizerischen Luftraums für Luftfahrzeuge der Sonderkategorie, die im Ausland eingetragen sind (Art. 2 Abs. 1 Bst. e LFG)</td><td>150.–</td></tr>
-<tr><td>k.[^38-10] …</td><td>150.–</td></tr>
+<tr><td>g. Bewilligung für Aussenlandungen oberhalb von 1100 m über Meer ausserhalb von bezeichneten Gebirgslandeplätzen bei Personentransporten zu touristischen oder sportlichen Zwecken (Art. 26 AuLaV)</td><td>180.–</td></tr>
+<tr><td>h. Bewilligung für mehrtägige Grossanlässe von internationaler Bedeutung (Art. 16 Abs. 3, Art. 29 und Art. 39 Abs. 4 AuLaV)</td><td>180.–</td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>[tab]</td><td></td></tr>
+<tr><td>i. Bewilligung für Abweichungen von den Voraussetzungen nach Artikel 8 Absatz 1 und von den zeitlichen und räumlichen Einschränkungen der Artikel 25, 27 Absatz 1 Buchstaben a und c, 32 und 34 AuLaV (Art. 10 Abs. 1 AuLaV)</td><td>180.–</td></tr>
+<tr><td>j. Bewilligung für Aussenlandungen zu Arbeitszwecken in Schutzgebieten nach Artikel 19 Absätze 1 und 2 AuLaV (Art. 28 Abs. 1 AuLaV)</td><td>180.–</td></tr>
+<tr><td>k. Ausnahmebewilligung für Forschungs- und Entwicklungsprojekte (Art. 2*b* Abs. 3 LFV)</td><td>300.–</td></tr>
+<tr><td>l. Bewilligung für die Benützung des schweizerischen Luftraums für Luftfahrzeuge der Sonderkategorie, die im Ausland eingetragen sind (Art. 2 Abs. 1 Bst. e LFG)</td><td></td></tr>
+<tr><td>1. Bewilligungsdauer bis zu einer Woche pro Kalenderjahr</td><td>100.– bis 250.–</td></tr>
+<tr><td>2. Bewilligungsdauer ab einer Woche pro Kalenderjahr</td><td>200.– bis 500.–.[^38-6]</td></tr>
 </table>
 
 <sup>2</sup> Für sonstige luftpolizeiliche Bewilligungen werden die Gebühren nach Zeitaufwand innerhalb eines Gebührenrahmens von 50 bis 600 Franken bemessen.
 
-[^38-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^38-2]: [SR 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
-[^38-3]: [[AS 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066), [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)Ziff. II, [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560), [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548), [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377), [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)Art. 22 Ziff. 1, [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103), [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654)[4701](https://fedlex.data.admin.ch/eli/oc/2006/723), [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150), [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167). [AS 2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326)Art. 32 Abs. 1]. Siehe heute: die V vom 20. Mai 2015 ([SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)).
+[^38-1]: [SR 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
+[^38-2]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^38-3]: [SR 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
 [^38-4]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^38-5]: Fassung gemäss Ziff. I der V vom 10. Nov. 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^38-6]: Fassung gemäss Anhang Ziff. 4 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-7]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^38-8]: Fassung gemäss Anhang Ziff. 4 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-9]: Fassung gemäss Anhang Ziff. 4 der Aussenlandeverordnung vom 14. Mai 2014, in Kraft seit 1. Sept. 2014 ([AS 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-10]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^38-5]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
+[^38-6]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
-## 6. Abschnitt: Betrieb technisch komplizierter Luftfahrzeuge und gewerbsmässiger Betrieb technisch nicht komplizierter Luftfahrzeuge****
+## 6. Abschnitt:**** Zulassung und Aufsicht im operationellen Flugbetrieb
 
 [^sec6-1]
 
-[^sec6-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^sec6-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 39
 
-**Geltungsbereich**[^39-1]
+**Geltungsbereich**
 
 Die Bestimmungen dieses Abschnitts gelten für:
 
-- a. den gewerbsmässigen und nicht gewerbsmässigen Betrieb technisch komplizierter Luftfahrzeuge;
-- b. den gewerbsmässigen Betrieb technisch nicht komplizierter Luftfahrzeuge.
-
-[^39-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+- a. den gewerbsmässigen Personen- und Gütertransport (CAT);
+- b. den nicht gewerbsmässigen Betrieb von technisch komplexen Luftfahrzeugen (NCC);
+- c. den nicht gewerbsmässigen Betrieb von technisch nicht komplexen Luftfahrzeugen (NCO);
+- d. den spezialisierten Flugbetrieb (SPO).
 
 #### Art. 40
 
-**Luftverkehrsbetreiberzeugnis, Betriebshandbuch, Flugbetriebshandbuch und andere betriebliche Dokumente und Systeme**[^40-1]
+**Gewerbsmässiger Personen- und Gütertransport (CAT)**
 
-<sup>1</sup> Für ein Luftverkehrsbetreiberzeugnis (AOC), ein Betriebshandbuch (OM), ein Flugbetriebshandbuch (FOM) oder andere betriebliche Dokumente und Systeme werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
+<sup>1</sup> Für ein Luftverkehrsbetreiberzeugnis (AOC), ein Betriebshandbuch (OM), eine Betriebsbewilligung oder andere betriebliche Dokumente und Systeme werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
 
 <table>
 <tr><td></td><td>Minimalgebühr Fr.</td><td>Maximalgebühr Fr.</td></tr>
-<tr><td>a. für die Ersterteilung oder Erstgenehmigung</td><td>600.–</td><td>250 000.–</td></tr>
-<tr><td>b. für die Genehmigung jeder Änderung oder Erneuerung, die Einschränkung oder den Entzug</td><td>200.–</td><td>250 000.–</td></tr>
-<tr><td>c. für die laufende Aufsicht (pro Dienstleistung)</td><td>100.–</td><td>20 000.–</td></tr>
+<tr><td>a. für die Erteilung</td><td>500.–</td><td>250 000.–</td></tr>
+<tr><td>b. für die Änderung oder Erneuerung, die Einschränkung oder den Entzug</td><td>100.–</td><td>250 000.–</td></tr>
 </table>
 
-<sup>2</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
+<sup>2</sup> Für die laufende Aufsicht und für ausserordentliche Inspektionen wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 20 000 Franken erhoben.
 
-[^40-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<sup>3</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
 
 #### Art. 41
-
-[^41-1]
-
-[^41-1]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 42
-
-**Betriebsbewilligung**[^42-1]
-
-Für eine Betriebsbewilligung für ein Unternehmen, das gewerbsmässig Personen oder Güter mit Luftfahrzeugen befördert, werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
-
-<table>
-<tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
-<tr><td>a. für die Ersterteilung oder den Entzug</td><td>500.–</td><td>20 000.–</td></tr>
-<tr><td>b. für die Änderung</td><td>200.–</td><td>10 000.–</td></tr>
-<tr><td>c. für die laufende Aufsicht (pro Dienstleistung)</td><td>100.–</td><td>10 000.–</td></tr>
-<tr><td>d. für ausserordentliche Inspektionen</td><td>100.–</td><td>10 000.–</td></tr>
-</table>
-
-[^42-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 43
-
-[^43-1]
-
-[^43-1]: Aufgehoben durch Ziff. I der V vom 28. Okt. 2015, mit Wirkung seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 44
 
 **Streckenkonzession**
 
 Für die Bearbeitung eines Gesuchs um Erteilung, Erneuerung oder Änderung einer Streckenkonzession wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 500 bis 10 000 Franken bemessen.
 
-## 7. Abschnitt:**** Nicht gewerbsmässiger Betrieb technisch nicht komplizierter Luftfahrzeuge
+#### Art. 42
 
-[^sec7-1]
+**Nicht gewerbsmässiger Betrieb von technisch komplexen Luftfahrzeugen (NCC)**
 
-[^sec7-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<sup>1</sup> Für eine Deklaration für einen nicht gewerbsmässigen Betrieb von technisch komplexen Luftfahrzeugen (NCC) werden folgende Gebühren erhoben:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. für die Erstbestätigung</td><td>150.–</td></tr>
+<tr><td>b. für die Änderung</td><td>100.–</td></tr>
+</table>
+
+<sup>2</sup> Für die laufende Aufsicht und für ausserordentliche Inspektionen wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 20 000 Franken erhoben.
+
+<sup>3</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
+
+#### Art. 43
+
+**Nicht gewerbsmässiger Betrieb von technisch nicht komplexen Luftfahrzeugen (NCO)**
+
+<sup>1</sup> Für eine Bewilligung, Bestätigung oder andere betriebliche Prüfung für nicht gewerbsmässige Operationen mit technisch nicht komplexen Luftfahrzeugen (NCO) wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 20 000 Franken erhoben.
+
+<sup>2</sup> Für die laufende Aufsicht und für ausserordentliche Inspektionen wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 20 000 Franken erhoben.
+
+<sup>3</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
+
+#### Art. 44
+
+**Spezialisierter Flugbetrieb (SPO)**
+
+<sup>1</sup> Für eine Deklaration für einen spezialisierten Flugbetrieb (SPO) werden folgende Gebühren erhoben:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. für die Erstbestätigung</td><td>150.–</td></tr>
+<tr><td>b. für die Änderung</td><td>100.–</td></tr>
+</table>
+
+<sup>2</sup> Für die laufende Aufsicht und für ausserordentliche Inspektionen wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 20 000 Franken erhoben.
+
+<sup>3</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
+
+## 7. Abschnitt: ...
 
 #### Art. 45
 
-**Bewilligung**
+[^45-1]
 
-<sup>1</sup> Für eine Bewilligung, Bestätigung oder betriebliche Prüfung für nicht gewerbsmässige Operationen mit technisch nicht komplizierten Luftfahrzeugen sowie für
-
-deren Änderung, Einschränkung oder Entzug wird eine Gebühr nach Zeitaufwand innerhalb eines Gebührenrahmens von 100 bis 40 000 Franken erhoben.
-
-<sup>2</sup> Für die laufende Aufsicht wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
+[^45-1]: Aufgehoben durch Ziff. I der V vom 3. Febr. 2021, mit Wirkung seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 ## 8. Abschnitt: Ausbildungseinrichtungen
 
@@ -840,9 +884,15 @@ deren Änderung, Einschränkung oder Entzug wird eine Gebühr nach Zeitaufwand i
 <tr><td>c. für die laufende Aufsicht (pro Dienstleistung)</td><td>300.–</td><td>20 000.–</td></tr>
 </table>
 
+<sup>1bis</sup> Für wiederkehrende Überprüfungen im Bereich Aufsicht über Flug- und Navigationsverfahrens-Übungsgeräte (FNPT) wird eine Gebühr von 1500 Franken pro Überprüfung erhoben.[^46-2]
+
 <sup>2</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
 
+<sup>3</sup> Für übermässigen Aufwand bei wiederkehrenden Überprüfungen im Bereich Aufsicht über FNPT wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.[^46-3]
+
 [^46-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^46-2]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^46-3]: Eingefügt durch Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 47
 
@@ -898,7 +948,6 @@ Zur Infrastruktur der Luftfahrt im Sinne dieser Verordnung gehören folgende Anl
 <table>
 <tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
 <tr><td>a. für die Erteilung, Erneuerung, Änderung, Übertragung oder den Entzug einer Betriebskonzession</td><td>500.–</td><td>200 000.–</td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>b. für die Erteilung, Änderung, Übertragung oder den Entzug einer Betriebsbewilligung</td><td>500.–</td><td>100 000.–</td></tr>
 <tr><td>c. für die Genehmigung oder Änderung eines Betriebsreglements</td><td>500.–</td><td>200 000.–</td></tr>
 <tr><td>d. für die Plangenehmigung</td><td>500.–</td><td>200 000.–</td></tr>

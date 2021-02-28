@@ -4,11 +4,11 @@ title: "Ordonnance du 28 septembre 2007 sur les émoluments de l'Office fédéra
 short: OEmol-OFAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/720"
 language: fr
-version: 2019-01-01
+version: 2021-03-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-720-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-720-20210301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20190101/fr"
 
 (OEmol-OFAC)
 
-du 28 septembre 2007 (Etat le 1<sup>er</sup> janvier 2019)
+du 28 septembre 2007 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -66,9 +66,9 @@ Toute personne qui provoque une décision de l’OFAC ou sollicite une prestatio
 
 **Exemption d’émoluments**
 
-<sup>1</sup> Aucun émolument n’est perçu pour l’octroi de concessions ni pour la délivrance d’autorisations aux entreprises étrangères de transport aérien, pour autant que l’Etat étranger concerné accorde la réciprocité à la Confédération.
+<sup>1</sup> Aucun émolument n’est perçu pour l’octroi de concessions ni pour la délivrance d’autorisations aux entreprises étrangères de transport aérien, pour autant que l’État étranger concerné accorde la réciprocité à la Confédération.
 
-<sup>2</sup> Lorsqu’un Etat tiers ou les Nations Unies empruntent l’espace aérien suisse, l’autorisation particulière qui leur est délivrée ne donne pas lieu à la perception d’un émolument, pour autant que l’Etat tiers accorde la réciprocité.
+<sup>2</sup> Lorsqu’un État tiers ou les Nations Unies empruntent l’espace aérien suisse, l’autorisation particulière qui leur est délivrée ne donne pas lieu à la perception d’un émolument, pour autant que l’État tiers accorde la réciprocité.
 
 #### Art. 5
 
@@ -116,7 +116,7 @@ Le Département fédéral de l’environnement, des transports, de l’énergie 
 
 Sont réputés débours, outre les frais visés à l’art. 6 OGEmol[^9-1]:
 
-- a.[^9-2] …
+- a.[^9-2] ...
 - b. les frais occasionnés par l’administration de la preuve, par des examens spéciaux, par des expertises scientifiques ou par la réunion de documentation ou de matériel;
 - c. les frais occasionnés par des évaluations et des prises de position des organes communaux, cantonaux et fédéraux requises en application des dispositions du droit aérien;
 - d. les frais extraordinaires engagés pour la formation d’inspecteurs de l’OFAC, notamment en vue de l’inscription au registre matricule de types particuliers d’aéronefs;
@@ -170,7 +170,7 @@ Sont réputés débours, outre les frais visés à l’art. 6 OGEmol[^9-1]:
 
 #### Art. 14
 
-**Certificats de type**
+**Certificats de type**[^14-1]
 
 <sup>1</sup>
 
@@ -178,25 +178,24 @@ Sont perçus directement par l’AESA:
 
 - a. les émoluments relatifs aux examens de type en vue de l’octroi de certificats de type, de certificats de type restreints ou de certificats de type supplémentaires;
 - b. les émoluments relatifs aux admissions de modifications et de réparations;
-- c. la redevance annuelle pour les titulaires de certificats de type ou de certificats de type restreints.[^14-1]
+- c. la redevance annuelle pour les titulaires de certificats de type ou de certificats de type restreints.
 
-<sup>2</sup> Les émoluments relatifs aux certificats de type, aux autres certificats et aux admissions pour les aéronefs qui n’entrent pas dans la compétence de l’AESA, calculés en fonction du temps consacré, sont perçus par l’OFAC. Ils sont compris dans le cadre tarifaire suivant:[^14-2]
+<sup>2</sup> Les émoluments relatifs aux certificats de type, aux autres certificats et aux admissions pour les aéronefs qui n’entrent pas dans la compétence de l’AESA, calculés en fonction du temps consacré, sont perçus par l’OFAC. Ils sont compris dans le cadre tarifaire suivant:
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
-<tr><td>a. pour les certificats de type d’aéronefs à moteur construits par des amateurs</td><td>2 000.–</td><td>10 000.–</td></tr>
-<tr><td>b. pour les certificats de type de planeurs (avec ou sans moteur) et de ballons construits par des amateurs</td><td>1 000.–</td><td>5 000.–</td></tr>
-<tr><td>c. pour les certificats de type d’autres aéronefs</td><td>10 000.–</td><td>700 000.–</td></tr>
-<tr><td>d. pour les certificats de type de moteurs et d’hélices</td><td>1 000.–</td><td>150 000.–</td></tr>
-<tr><td>e.[^14-3] pour les certificats de type supplémentaires et les grandes réparations d’aéronefs, de moteurs et d’hélices, ainsi que pour les certificats de parties et d’équipements d’aéronefs</td><td>200.–</td><td>50 000.–</td></tr>
-<tr><td>f. pour les admissions de petites modifications et de petites réparations</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
+<tr><td>a. pour les certificats d’aéronefs de construction amateur</td><td>500.–</td><td>150 000.–</td></tr>
+<tr><td>b. pour les certificats de type d’autres aéronefs</td><td>1 000.–</td><td>700 000.–</td></tr>
+<tr><td>c. pour les certificats de type de moteurs et d’hélices</td><td>1 000.–</td><td>150 000.–</td></tr>
+<tr><td>d. pour les modifications majeures, comme une extension du certificat de type ou un certificat de type supplémentaire, et les réparations majeures d’un aéronef, d’un moteur ou d’une hélice et pour la certification d’éléments d’aéronef et d’équipements servant au maintien de la navigabilité</td><td>200.–</td><td>50 000.–</td></tr>
+<tr><td>e. pour les admissions de modifications et réparations mineures</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><td>f. pour le maintien annuel de la navigabilité d’un type</td><td>200.–</td><td>100 000.–</td></tr>
+<tr><td>g. pour l’approbation des conditions de vol liées à une autorisation de vol</td><td>200.–</td><td>180 000.–</td></tr>
 </table>
 
-<sup>3</sup> L’émolument relatif aux examens d’autres appareils aéronautiques ou de simulateurs, calculé en fonction du temps consacré, est de 1000 francs au moins et de 150 000 francs au plus.
+<sup>3</sup> L’émolument relatif aux examens d’autres appareils aéronautiques, calculé en fonction du temps consacré, est de 1000 francs au moins et de 150 000 francs au plus.
 
-[^14-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^14-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^14-3]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^14-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 15
 
@@ -205,7 +204,7 @@ Sont perçus directement par l’AESA:
 <sup>1</sup> Les émoluments relatifs à des examens d’entrée, à des examens ultérieurs périodiques ou extraordinaires, à des examens en vue de l’exportation d’un aéronef, à des examens de reproduction et à des examens partiels de reproduction, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
 
 <table>
-<tr><th></th><th>Emolument minimal Fr.</th><th>Emolument maximal Fr.</th></tr>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
 <tr><td>[tab] a.[^15-1] pour les avions d’un poids au décollage inférieur ou égal à 5700 kg et pour les hélicoptères monomoteurs</td><td>360.–</td><td>8 000.–</td></tr>
 <tr><td>b.[^15-2] pour les avions d’un poids au décollage supérieur à 5700 kg et pour les hélicoptères multimoteurs</td><td>1000.–</td><td>30 000.–</td></tr>
 <tr><td>[tab] c.[^15-3] pour les planeurs et les ballons</td><td>200.–</td><td>2 000.–</td></tr>
@@ -232,9 +231,9 @@ Sont perçus directement par l’AESA:
 <tr><td>b. pour l’inscription:</td><td></td></tr>
 <tr><td>1. d’un planeur, d’un motoplaneur et d’un ballon</td><td>300.–</td></tr>
 <tr><td>2. d’un aéronef d’un poids au décollage inférieur ou égal à 5700 kg ou d’un hélicoptère monomoteur</td><td>400.–</td></tr>
-<tr><td>3. d’un aéronef d’un poids au décollage supérieur à 5700 kg ou d’un hélicoptère multimoteur</td><td>600.–</td></tr>
+<tr><td>3.[^16-1] d’un aéronef d’un poids au décollage supérieur à 5700 kg ou d’un hélicoptère multimoteur</td><td>800.–</td></tr>
 <tr><td>c. pour l’établissement et le renouvellement d’un certificat d’examen de navigabilité ou d’une attestation d’examen</td><td>110.–</td></tr>
-<tr><td>d. pour l’établissement d’une attestation officielle de radiation du registre matricule ou d’absence d’inscription</td><td>110.–</td></tr>
+<tr><td>d.[^16-2] pour l’établissement d’une attestation officielle de radiation du registre matricule ou d’absence d’inscription</td><td>60.–</td></tr>
 <tr><td>e. pour l’établissement d’un certificat de navigabilité, d’un certificat de navigabilité restreint ou d’une autorisation de vol</td><td>60.–</td></tr>
 </table>
 
@@ -242,13 +241,13 @@ Sont perçus directement par l’AESA:
 
 <sup>3</sup> Aucun émolument n’est perçu en cas de radiation d’office d’un aéronef du registre matricule.
 
-<sup>4</sup> L’émolument relatif à une autorisation d’inscrire un aéronef au registre matricule au sens de l’art. 3, al. 2, de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^16-1] est de 600 francs.
+<sup>4</sup> L’émolument relatif à une autorisation d’inscrire un aéronef au registre matricule au sens de l’art. 3, al. 2, de l’ordonnance du 14 novembre 1973 sur l’aviation (OSAv)[^16-3] est de 600 francs.
 
 <sup>5</sup> Lorsqu’il reprend les papiers de bord qui avaient été déposés à l’OFAC, l’exploitant acquitte un émolument de 60 francs par aéronef ou de 120 francs pour une flotte entière.
 
-<sup>6</sup> L’émolument relatif à l’examen et à l’approbation d’un programme de maintenance, calculé en fonction du temps consacré, est de 90 francs au moins et de 7000 francs au plus.[^16-2]
+<sup>6</sup> L’émolument relatif à l’examen et à l’approbation d’un programme de maintenance, calculé en fonction du temps consacré, est de 90 francs au moins et de 7000 francs au plus.[^16-4]
 
-<sup>7</sup> Un émolument est perçu chaque année pour les actes de surveillance courants d’un aéronef inscrit dans le registre matricule. Cet émolument annuel, dû au début de l’année civile, est le suivant:
+<sup>7</sup> Un émolument est perçu chaque année pour les actes de surveillance courants d’un aéronef inscrit dans le registre matricule. Cet émolument annuel, dû à la fin de l’année civile, est le suivant:[^16-5]
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
@@ -257,14 +256,17 @@ Sont perçus directement par l’AESA:
 <tr><td>c. pour tout autre aéronef d’un poids au décollage supérieur à 5700 kg ou pour un hélicoptère multimoteur</td><td>600.–</td></tr>
 </table>
 
-<sup>8</sup> La moitié de l’émolument fixé à l’al. 7 est perçue en cas de dépôt des papiers de bord pendant une année civile complète et en cas de radiation d’un aéronef au cours des six premiers mois de l’année civile.[^16-3]
+<sup>8</sup> La moitié de l’émolument fixé à l’al. 7 est perçue lorsque les papiers de bord sont déposés pendant une durée ininterrompue de six mois au moins ou en cas de radiation d’un aéronef au cours des six premiers mois de l’année civile.[^16-6]
 
-<sup>9</sup> La moitié de l’émolument fixé à l’al. 7 est perçue en cas d’inscription d’un aéronef au cours des six premiers mois de l’année civile. Aucun émolument n’est perçu en cas d’inscription après les six premiers mois de l’année civile.[^16-4]
+<sup>9</sup> La moitié de l’émolument fixé à l’al. 7 est perçue en cas d’inscription d’un aéronef au cours des six premiers mois de l’année civile. Aucun émolument n’est perçu en cas d’inscription après les six premiers mois de l’année civile.[^16-7]
 
-[^16-1]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^16-2]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^16-3]: Introduit par le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^16-4]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^16-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-2]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-3]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
+[^16-4]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^16-5]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-6]: Introduit par le ch. I de l’O du 10 nov. 2010 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)). Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^16-7]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 
 #### Art. 17
 
@@ -283,7 +285,7 @@ Sont perçus directement par l’AESA:
 <sup>1</sup> Les émoluments relatifs à l’agrément d’un organisme de production d’aéronefs, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^18-1]
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. pour l’octroi</td><td>2000.–</td><td>150 000.–</td></tr>
 <tr><td>b.[^18-2] pour l’extension ou la modification</td><td>200.–</td><td>150 000.–</td></tr>
 <tr><td>c.[^18-3] pour la surveillance courante (par prestation)</td><td>200.–</td><td>50 000.–</td></tr>
@@ -311,14 +313,14 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 <sup>1</sup> Les émoluments relatifs à l’agrément d’un organisme de maintenance d’aéronefs, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^19-1]
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. pour l’octroi</td><td>2000.–</td><td>150 000.–</td></tr>
 <tr><td>b.[^19-2] pour l’extension ou la modification</td><td>200.–</td><td>150 000.–</td></tr>
 <tr><td>c.[^19-3] pour la surveillance courante (par prestation)</td><td>200.–</td><td>50 000.–</td></tr>
 <tr><td>d.[^19-4] pour les inspections extraordinaires</td><td>200.–</td><td>50 000.–</td></tr>
 </table>
 
-<sup>2</sup> Le traitement de la demande d’approbation du manuel d’exploitation, l’examen de l’organisme et les frais supplémentaires occasionnés par le contrôle des certificats établis par des Etats tiers sont compris dans l’émolument.[^19-5]
+<sup>2</sup> Le traitement de la demande d’approbation du manuel d’exploitation, l’examen de l’organisme et les frais supplémentaires occasionnés par le contrôle des certificats établis par des États tiers sont compris dans l’émolument.[^19-5]
 
 <sup>3</sup>
 
@@ -340,7 +342,7 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 <sup>1</sup> Les émoluments relatifs à l’agrément d’un organisme de gestion du maintien de la navigabilité, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^20-1]
 
 <table>
-<tr><th></th><th>Emolument minimal Fr.</th><th>Emolument maximal Fr.</th></tr>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
 <tr><td>a. pour l’octroi</td><td>2000.–</td><td>50 000.–</td></tr>
 <tr><td>b.[^20-2] pour l’extension ou la modification</td><td>200.–</td><td>50 000.–</td></tr>
 <tr><td>[tab]</td><td></td><td></td></tr>
@@ -355,7 +357,7 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 <sup>4</sup> Les émoluments relatifs à l’agrément d’un organisme de gestion du maintien de la navigabilité pour l’octroi d’un certificat d’examen de navigabilité, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^20-5]
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. pour l’octroi</td><td>1000.–</td><td>30 000.–</td></tr>
 <tr><td>b.[^20-6] pour l’extension</td><td>200.–</td><td>30 000.–</td></tr>
 </table>
@@ -376,6 +378,34 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 <sup>1</sup> L’émolument perçu pour l’inscription d’un aéronef au registre des aéronefs dépend de la masse maximale admissible au décollage. Il est de 9 francs par 100 kg.
 
 <sup>2</sup> Le cadre tarifaire applicable va de 195 à 10 320 francs.
+
+#### Art. 21a
+
+**Organisme chargé de tâches combinées de navigabilité**[^21a-1]
+
+<sup>1</sup> Les émoluments relatifs à l’agrément d’un organisme chargé de tâches combinées de navigabilité, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
+
+<table>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
+<tr><td>a. pour l’octroi</td><td>2000.–</td><td>50 000.–</td></tr>
+<tr><td>b. pour l’extension ou la modification</td><td>200.–</td><td>50 000.–</td></tr>
+<tr><td>c. pour la surveillance courante (par prestation)</td><td>200.–</td><td>20 000.–</td></tr>
+<tr><td>d. pour les inspections extraordinaires</td><td>200.–</td><td>20 000.–</td></tr>
+</table>
+
+<sup>2</sup> Le traitement de la demande d’approbation des spécifications de l’organisme chargé de tâches combinées de navigabilité, et l’examen de l’organisme sont compris dans l’émolument.
+
+<sup>3</sup> Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu pour les autorisations spéciales et exceptionnelles.
+
+<sup>4</sup> Les émoluments relatifs à l’agrément d’un organisme chargé de tâches combinées de navigabilité pour l’octroi d’un certificat d’examen de navigabilité, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
+
+<table>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
+<tr><td>a. pour l’octroi</td><td>1000.–</td><td>30 000.–</td></tr>
+<tr><td>b. pour l’extension</td><td>200.–</td><td>30 000.–</td></tr>
+</table>
+
+[^21a-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 22
 
@@ -427,107 +457,101 @@ Pour toute autre inscription au registre des aéronefs, un émolument de 1200 fr
 
 **Examens du personnel navigant**[^29-1]
 
-Les émoluments suivants sont perçus pour les examens et la répétition des examens du personnel navigant supervisés par des inspecteurs de l’OFAC en vue de l’acquisition et du maintien de compétences spécifiques élevées ou pour l’activité de surveillance ainsi que pour les cours organisés par l’OFAC:
+<sup>1</sup> Les émoluments suivants sont perçus pour les examens et la répétition des examens du personnel navigant supervisés par des inspecteurs de l’OFAC en vue de l’acquisition et du maintien de compétences spécifiques élevées ou pour l’activité de surveillance ainsi que pour les cours organisés par l’OFAC:
 
 <table>
-<tr><th colspan="2"></th><th>Fr.</th></tr>
-<tr><td>a. radiotéléphoniste de bord</td><td colspan="2"></td></tr>
-<tr><td>1. licence autonome (VFR)</td><td colspan="2"></td></tr>
-<tr><td>– examen théorique</td><td colspan="2">100.–</td></tr>
-<tr><td>– examen pratique</td><td colspan="2">100.–</td></tr>
-<tr><td>2. extension de la licence de pilote (VFR/IFR)</td><td colspan="2"></td></tr>
-<tr><td>– examen théorique</td><td colspan="2">75.–</td></tr>
-<tr><td>– examen pratique</td><td colspan="2">100.–</td></tr>
-<tr><td>3. évaluations des compétences linguistiques (Language Proficiency Check)</td><td colspan="2"></td></tr>
-<tr><td>– pour le niveau 4, évaluation initiale, prorogation et renouvellement au centre d’examen</td><td colspan="2">150.–</td></tr>
-<tr><td>– pour le niveau 4, prorogation et renouvellement combiné avec vol</td><td colspan="2">75.–</td></tr>
-<tr><td>– pour les niveaux 5/6, évaluation initiale, prorogation et renouvellement au centre d’examen</td><td colspan="2">250.–</td></tr>
-<tr><td>– pour le niveau 6, évaluation de l’expression orale pour les locuteurs natifs</td><td colspan="2">200.–</td></tr>
-<tr><td>b. pilote d’aéronef léger LAPL(A) et LAPL(H)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique complet</td><td colspan="2">200.–</td></tr>
-<tr><td>2. examen théorique partiel (par session)</td><td colspan="2">100.–</td></tr>
-<tr><td>3. examen de vol (Skill Test et Proficiency Check) sur avion monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG</td><td colspan="2">250.–</td></tr>
-<tr><td>c. pilote privé PPL(A) et PPL(H)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique complet</td><td colspan="2">200.–</td></tr>
-<tr><td>2. examen théorique partiel (par session)</td><td colspan="2">100.–</td></tr>
-<tr><td>3. examen de vol (Skill Test) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG</td><td colspan="2">350.–</td></tr>
-<tr><td>4. examen de vol (Skill Test) sur avion ou hélicoptère multimoteur ME</td><td colspan="2">400.–</td></tr>
-<tr><td>d. pilote professionnel CPL(A) et CPL(H)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique complet</td><td colspan="2">400.–</td></tr>
-<tr><td>2. examen théorique partiel (par session)</td><td colspan="2">200.–</td></tr>
-<tr><td>3. examen de vol (Skill Test) sur aéronef monomoteur</td><td colspan="2">400.–</td></tr>
-<tr><td>4. examen de vol (Skill Test) sur aéronef multimoteur</td><td colspan="2">450.–</td></tr>
-<tr><td>e. licence multipilote MPL, examen de vol</td><td colspan="2">1250.–</td></tr>
-<tr><td>f. pilote de ligne ATPL(A) et ATPL(H)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique complet</td><td colspan="2">800.–</td></tr>
-<tr><td>2. examen théorique partiel (par session)</td><td colspan="2">400.–</td></tr>
-<tr><td>3. examen de vol</td><td colspan="2">800.–</td></tr>
-<tr><td>g. qualification de type et de classe (Proficiency Check et Skill Test)</td><td colspan="2"></td></tr>
-<tr><td>1. examen de type et examen de classe (Proficiency Check) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG</td><td colspan="2">150.–</td></tr>
-<tr><td>2. examen de type et examen de classe (Skill Test) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG</td><td colspan="2">200.–</td></tr>
-<tr><td>3. examen de type et examen de classe (Skill Test et Proficiency Check) sur avion ou hélicoptère multimoteur ME certifié monopilote</td><td colspan="2">400.–</td></tr>
-<tr><td>4. examen de vol (Skill Test et Proficiency Check) sur avion ou hélicoptère certifié multipilote</td><td colspan="2">800.–</td></tr>
-<tr><td>5. vol avec examinateur, par vol</td><td colspan="2">350.–</td></tr>
-<tr><td>h. vol aux instruments (avion et hélicoptère)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique initial complet</td><td colspan="2">400.–</td></tr>
-<tr><td>2. examen théorique initial partiel (par session)</td><td colspan="2">200.–</td></tr>
-<tr><td>3. examen de vol initial (IR Skill Test)</td><td colspan="2">700.–</td></tr>
-<tr><td>4. vol de contrôle périodique pour qualification de classe ou de type avec renouvellement du permis de vol aux instruments (IR Proficiency Check)</td><td colspan="2"></td></tr>
-<tr><td>– sur avion ou hélicoptère monomoteur certifié monopilote</td><td colspan="2">300.–</td></tr>
-<tr><td>– sur avion ou hélicoptère multimoteur certifié monopilote</td><td colspan="2">350.–</td></tr>
-<tr><td>– sur avion ou hélicoptère certifié multipilote</td><td colspan="2">700.–</td></tr>
-<tr><td>5. examen sur simulateur ou sur dispositifs d’entraînement appropriés, sous la surveillance d’un expert de l’OFAC</td><td colspan="2">350.–</td></tr>
-<tr><td>i. examens pour extension de la licence de pilote d’avion et d’hélicoptère</td><td colspan="2"></td></tr>
-<tr><td>1. aux atterrissages en montagne (avion et hélicoptère, Skill Test ou Proficiency Check)</td><td colspan="2">500.–</td></tr>
-<tr><td>2. aux décollages d’hélicoptère par brouillard au sol ou brouillard élevé (hélicoptère)</td><td colspan="2">350.–</td></tr>
-<tr><td>3. à la qualification d’instructeur, dans la mesure où ce n’est pas réglé aux chiffres suivants</td><td colspan="2"></td></tr>
-<tr><td>– examen initial (Initial Assessment of Competence AoC)</td><td colspan="2">400.–</td></tr>
-<tr><td>– renouvellement ou revalidation (AoC)</td><td colspan="2">300.–</td></tr>
-<tr><td>4. à la qualification d’instructeur IRI(A) et IRI(H)</td><td colspan="2"></td></tr>
-<tr><td>– examen initial (AoC)</td><td colspan="2">500.–</td></tr>
-<tr><td>– renouvellement ou revalidation (AoC)</td><td colspan="2">250.–</td></tr>
-<tr><td>5. à la qualification d’instructeur TRI(A), TRI(H), SFI(A) et FI(H)</td><td colspan="2"></td></tr>
-<tr><td>– examen initial (AoC)</td><td colspan="2">600.–</td></tr>
-<tr><td>– renouvellement ou revalidation (AoC)</td><td colspan="2">500.–</td></tr>
-<tr><td>j. cours d’instructeur d’atterrissage en montagne (hélicoptère)</td><td colspan="2"></td></tr>
-<tr><td>1. examen d’admission</td><td colspan="2">400.–</td></tr>
-<tr><td>2. cours de base</td><td colspan="2">2000.–</td></tr>
-<tr><td>k. pilote de planeur SPL et LAPL(S)</td><td colspan="2"></td></tr>
-<tr><td>1. licence de pilote de planeur</td><td colspan="2"></td></tr>
-<tr><td>– examen théorique complet</td><td colspan="2">200.–</td></tr>
-<tr><td>– examen théorique partiel (par session)</td><td colspan="2">100.–</td></tr>
-<tr><td>– examen de vol (Skill Test et Proficiency Check)</td><td colspan="2">250.–</td></tr>
-<tr><td>2. extension au vol aux instruments (vol dans les nuages)</td><td colspan="2"></td></tr>
-<tr><td>– examen de vol</td><td colspan="2">150.–</td></tr>
-<tr><td>3. extension aux vols commerciaux, examen de vol (Proficiency Check)</td><td colspan="2">250.–</td></tr>
-<tr><td>4. extension aux permis d’instructeur de vol à voile</td><td colspan="2"></td></tr>
-<tr><td>– examen initial (Initial Assessment of Competence AoC)</td><td colspan="2">400.–</td></tr>
-<tr><td>– renouvellement ou revalidation (AoC)</td><td colspan="2">300.–</td></tr>
-<tr><td>l. pilote de ballon BPL et LAPL(B)</td><td colspan="2"></td></tr>
-<tr><td>1. licence de pilote de ballon</td><td colspan="2"></td></tr>
-<tr><td>– examen théorique complet</td><td colspan="2">200.–</td></tr>
-<tr><td>– examen théorique partiel (par session)</td><td colspan="2">100.–</td></tr>
-<tr><td>– examen de vol (Skill Test et Proficiency Check)</td><td colspan="2">450.–</td></tr>
-<tr><td>2. extension aux vols commerciaux, examen de vol (Proficiency Check)</td><td colspan="2">450.–</td></tr>
-<tr><td>3. extension aux permis d’instructeur de pilotes de ballon</td><td colspan="2"></td></tr>
-<tr><td>– examen initial (Initial Assessment of Competence AoC)</td><td colspan="2">400.–</td></tr>
-<tr><td>– renouvellement ou revalidation (AoC)</td><td colspan="2">300.–</td></tr>
-<tr><td>m. pilote de planeur de pente (catégories delta et parapente)</td><td colspan="2"></td></tr>
-<tr><td>1. examen théorique</td><td colspan="2">125.–</td></tr>
-<tr><td>2. examen de vol</td><td colspan="2">125.–</td></tr>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. examen de radiotéléphonie</td><td></td></tr>
+<tr><td>1. examen pratique au sol VFR/IFR</td><td>100.–</td></tr>
+<tr><td>2. évaluations des compétences linguistiques (Language Proficiency Check)</td><td></td></tr>
+<tr><td>– pour le niveau 4, évaluation initiale, prorogation et renouvellement au centre d’examen</td><td>150.–</td></tr>
+<tr><td>– pour le niveau 4, prorogation et renouvellement combinés avec vol</td><td>75.–</td></tr>
+<tr><td>– pour les niveaux 5/6, évaluation initiale, prorogation et renouvellement au centre d’examen</td><td>250.–</td></tr>
+<tr><td>– pour le niveau 6, évaluation de l’expression orale pour les locuteurs natifs</td><td>200.–</td></tr>
+<tr><td>b. pilotes d’aéronef léger LAPL(A) et LAPL(H)</td><td></td></tr>
+<tr><td>1. examen théorique, par branche</td><td>20.–</td></tr>
+<tr><td>2. examen de vol (Skill Test et Proficiency Check) sur avion monomoteur, sur hélicoptère, sur avion Ecolight ou sur motoplaneur TMG</td><td>250.–</td></tr>
+<tr><td>c. pilotes privés PPL(A) et PPL(H), pilotes de planeur (SFCL) pilotes de ballon (BFCL)</td><td></td></tr>
+<tr><td>1. examen théorique, par branche</td><td>20.–</td></tr>
+<tr><td>2. examen de vol (Skill Test) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG</td><td>350.–</td></tr>
+<tr><td>3. examen de vol (Skill Test) sur avion ou hélicoptère multimo-teur ME</td><td>400.–</td></tr>
+<tr><td>4. examen de vol (Skill Test et Proficiency Check) pour l’acquisition et le maintien d’une licence de pilote de planeur</td><td>250.–</td></tr>
+<tr><td>5. examen de vol (Skill Test et Proficiency Check) pour l’acquisition et le maintien d’une licence de pilote de ballon et pour l’extension de la licence à une autre classe de ballons</td><td>450.–</td></tr>
+<tr><td>d. pilotes professionnels CPL(A) et CPL(H)</td><td></td></tr>
+<tr><td>1. examen théorique, par branche</td><td>30.–</td></tr>
+<tr><td>2. examen de vol (Skill Test) sur aéronef monomoteur</td><td>400.–</td></tr>
+<tr><td>3. examen de vol (Skill Test) sur aéronef multimoteur</td><td>450.–</td></tr>
+<tr><td>e. licence multipilote MPL, examen de vol</td><td>1250.–</td></tr>
+<tr><td>f. pilotes de ligne ATPL(A) et ATPL(H)</td><td></td></tr>
+<tr><td>1. examen théorique, par branche</td><td>55.–</td></tr>
+<tr><td>2. examen de vol</td><td>800.–</td></tr>
+<tr><td>g. vol aux instruments (avion et hélicoptère)</td><td></td></tr>
+<tr><td>1. examen théorique, par branche</td><td>55.–</td></tr>
+<tr><td>2. examen de vol (IR Skill Test) sur avion ou hélicoptère monomoteur</td><td>500.–</td></tr>
+<tr><td>3. examen de vol (IR Skill Test) sur avion ou hélicoptère multimoteur</td><td>700.–</td></tr>
+<tr><td>h. qualification de type et de classe (Skill Test et Proficiency Check) et prorogation et renouvellement des qualifications de vol aux instruments (Proficiency Check)</td><td></td></tr>
+<tr><td>1. examen de type et examen de classe (Skill test et Proficiency Check) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG en vol à vue (VFR)</td><td>250.–</td></tr>
+<tr><td>2. examen de type et examen de classe (Skill test et Proficiency Check) sur avion ou hélicoptère monomoteur SE, sur avion Ecolight ou sur motoplaneur TMG en vol à vue (VFR) avec qualification de vol aux instruments (VFR et IFR)</td><td>350.–</td></tr>
+<tr><td>3. prorogation ou renouvellement de la qualification de vol aux instruments (Proficiency Check) sur avion ou hélicoptère monomoteur (uniquement IFR)</td><td>250.–</td></tr>
+<tr><td>4. examen de type et examen de classe (Skill Test et Proficiency Check) sur avion ou hélicoptère multimoteur certifié monopilote en vol à vue (VFR)</td><td>400.–</td></tr>
+<tr><td>5. examen de type et examen de classe (Skill Test et Proficiency Check) sur avion ou hélicoptère multimoteur certifié monopilote avec qualification de vol aux instruments (VFR et IFR)</td><td>500.–</td></tr>
+<tr><td>6. prorogation ou renouvellement de la qualification de vol aux instruments (Proficiency Check) sur avion ou hélicoptère multimoteur certifié monopilote (uniquement IFR)</td><td>400.–</td></tr>
+<tr><td>7. examen de vol (Skill Test et Proficiency Check) sur avion ou hélicoptère certifié multipilote</td><td>800.–</td></tr>
+<tr><td>8. vol en compagnie d’un examinateur, par vol</td><td>350.–</td></tr>
+<tr><td>i. examens pour l’extension de la licence de pilote d’avion, d’hélicoptère, de planeur ou de ballon</td><td></td></tr>
+<tr><td>1. aux atterrissages en montagne (avion et hélicoptère, Skill Test ou Proficiency Check)</td><td>500.–</td></tr>
+<tr><td>2. aux décollages par brouillard au sol ou brouillard élevé (hélicoptère)</td><td>350.–</td></tr>
+<tr><td>3. à la qualification d’instructeur, dans la mesure où ce n’est pas réglementé aux chiffres suivants</td><td></td></tr>
+<tr><td>– examen initial (Initial Assessment of Competence AoC)</td><td>400.–</td></tr>
+<tr><td>– renouvellement ou prorogation (AoC)</td><td>300.–</td></tr>
+<tr><td>4. à la qualification d’instructeur IRI(A) et IRI(H)</td><td></td></tr>
+<tr><td>– examen initial (AoC)</td><td>500.–</td></tr>
+<tr><td>– renouvellement ou prorogation (AoC)</td><td>400.–</td></tr>
+<tr><td>5. à la qualification d’instructeur TRI(A), TRI(H), SFI(A) et SFI(H)</td><td></td></tr>
+<tr><td>– examen initial (AoC)</td><td>600.–</td></tr>
+<tr><td>– renouvellement ou prorogation (AoC)</td><td>500.–</td></tr>
+<tr><td>6. à la qualification de vol dans les nuages à bord de planeurs</td><td></td></tr>
+<tr><td>– examen de vol (Proficiency Check)</td><td>150.–</td></tr>
+<tr><td>7. aux vols commerciaux en ballon</td><td></td></tr>
+<tr><td>– examen de vol (Proficiency Check)</td><td>450.–</td></tr>
+<tr><td>j. cours d’instructeur d’atterrissage en montagne (hélicoptère)</td><td></td></tr>
+<tr><td>1. examen d’admission</td><td>400.–</td></tr>
+<tr><td>2. cours de base</td><td>2000.–</td></tr>
+<tr><td>k. pilotes de planeur de pente (catégories delta et parapente)</td><td></td></tr>
+<tr><td>1. examen théorique</td><td>125.–</td></tr>
+<tr><td>2. examen de vol</td><td>125.–</td></tr>
 </table>
 
-[^29-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5025](https://fedlex.data.admin.ch/eli/oc/2018/785)).
+<sup>2</sup> Les émoluments pour les examens théoriques peuvent être perçus à l’avance.
+
+[^29-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 29a
 
-**Autorisation d’expert examinateur**[^29a-1]
+**Autorisation d’expert examinateur et d’évaluateur des compétences linguistiques**[^29a-1]
 
-<sup>1</sup> L’émolument relatif au traitement d’une demande d’octroi de l’autorisation d’expert examinateur ou à la procédure de retrait d’une telle autorisation, calculé en fonction du temps consacré, est compris entre 100 et 5000 francs.
+<sup>1</sup> Un émolument de 100 francs est perçu pour le traitement d’une demande d’octroi de l’autorisation d’expert examinateur ou d’évaluateur des compétences linguistiques.
 
-<sup>2</sup> L’émolument relatif à l’instruction et à la surveillance ordinaire d’un expert examinateur, calculé en fonction du temps consacré, est compris entre 100 et 40 000 francs par année et par expert.
+<sup>2</sup> Les émoluments suivants sont perçus pour l’instruction et la surveillance ordinaire d’un expert examinateur:
 
-[^29a-1]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. formation pratique et évaluation des compétences d’un expert examinateur (Examiner AoC) (par prestation)</td><td></td></tr>
+<tr><td>1. avions certifiés monopilote</td><td>400.–</td></tr>
+<tr><td>2. avions certifiés multipilote</td><td>500.–</td></tr>
+<tr><td>3. hélicoptère</td><td>400.–</td></tr>
+<tr><td>4. ballons</td><td>200.–</td></tr>
+<tr><td>5. planeurs</td><td>200.–</td></tr>
+<tr><td>b. cours pour experts examinateurs et évaluateurs (par jour)</td><td></td></tr>
+<tr><td>1. avions certifiés monopilote</td><td>300.–</td></tr>
+<tr><td>2. avions certifiés multipilote</td><td>500.–</td></tr>
+<tr><td>3. hélicoptère</td><td>300.–</td></tr>
+<tr><td>4. ballons</td><td>100.–</td></tr>
+<tr><td>5. planeurs</td><td>100.–</td></tr>
+<tr><td>6. compétences linguistiques</td><td>100.–</td></tr>
+</table>
+
+[^29a-1]: Introduit par le ch. I de l’O du 28 oct. 2015 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)). Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 29b
 
@@ -563,7 +587,7 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 
 **Transfert de dossiers aéromédicaux de ou vers l’étranger**[^29e-1]
 
-Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu auprès du titulaire d’un certificat médical pour le transfert de son dossier aéromédical par une autorité étrangère à l’OFAC ou par l’OFAC à une autorité étrangère
+Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu auprès du titulaire d’un certificat médical pour le transfert de son dossier aéromédical par une autorité étrangère à l’OFAC ou par l’OFAC à une autorité étrangère.
 
 [^29e-1]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 
@@ -579,27 +603,27 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 <tr><td>1. d’une licence professionnelle</td><td>125.–</td></tr>
 <tr><td>2. d’une licence non professionnelle</td><td>100.–</td></tr>
 <tr><td>3. d’une licence autonome de radiotéléphoniste de bord</td><td>100.–</td></tr>
-<tr><td>b. pour le traitement d’une demande de renouvellement, de revalidation ou d’extension</td><td></td></tr>
-<tr><td>1. d’une licence professionnelle</td><td>80.–</td></tr>
-<tr><td>2. d’une licence non professionnelle</td><td>50.–</td></tr>
-<tr><td>3. d’une qualification de type ou de classe dans une licence professionnelle</td><td>80.–</td></tr>
-<tr><td>4. d’une qualification de type ou de classe dans une licence non professionnelle</td><td>50.–</td></tr>
-<tr><td>c. pour l’établissement d’un duplicata</td><td>50.–</td></tr>
+<tr><td>b.[^30-1] pour le traitement d’une demande d’inscription, de renouvellement ou de prorogation d’une qualification de type ou de classe ou d’extension</td><td></td></tr>
+<tr><td>1. d’une licence professionnelle</td><td>75.–</td></tr>
+<tr><td>2. d’une licence non professionnelle</td><td>45.–</td></tr>
+<tr><td>c.[^30-2] pour l’établissement d’un duplicata ou l’établissement d’un nouveau document à la suite de la modification des données personnelles</td><td>45.–</td></tr>
 <tr><td>d. pour l’établissement d’un permis spécial</td><td>600.–</td></tr>
-<tr><td>e.[^30-1] pour la conversion, le transfert, la reconnaissance ou la validation d’une licence étrangère</td><td></td></tr>
+<tr><td>e.[^30-3] pour la conversion, le transfert, la reconnaissance ou la validation d’une licence étrangère</td><td></td></tr>
 <tr><td>1. de pilote non professionnel</td><td>230.–</td></tr>
 <tr><td>2. de pilote professionnel</td><td>600.–</td></tr>
-<tr><td>f. [^30-2] pour la conversion d’une qualification de vol aux instruments en route (EIR) ou d’un cours modulaire IR(A) reposant sur les compétences (CB IR) délivré par un Etat tiers (non AESA)</td><td>140.–</td></tr>
+<tr><td>f. [^30-4] pour la conversion dans une qualification AESA d’une qualification de vol aux instruments en route (EIR), d’une qualification de base pour le vol aux instruments (BIR) ou d’un cours modulaire IR(A) reposant sur les compétences (CB IR) délivré par un État tiers (non AESA)</td><td>140.–</td></tr>
 <tr><td>g. pour le contrôle du carnet de vol</td><td>25.–</td></tr>
 </table>
 
-<sup>2</sup> Un émolument de 230 francs est perçu pour le traitement d’une demande d’établissement ou de renouvellement d’une reconnaissance de licences étrangères de pilote pour l’exploitation d’un aéronef immatriculé en Suisse («Certificate of Validation»).[^30-3]
+<sup>2</sup> Un émolument de 230 francs est perçu pour le traitement d’une demande d’établissement ou de renouvellement d’une reconnaissance de licences étrangères de pilote pour l’exploitation d’un aéronef immatriculé en Suisse («Certificate of Validation»).[^30-5]
 
 <sup>3</sup> Pour tout acte de gestion courante du dossier administratif, un émolument de 120 francs au plus peut être perçu en fonction du temps consacré.
 
-[^30-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^30-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^30-3]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
+[^30-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-2]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-3]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^30-4]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^30-5]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
 
 #### Art. 31
 
@@ -624,7 +648,7 @@ Un émolument calculé en fonction du temps consacré sans cadre tarifaire est p
 Les émoluments relatifs aux examens et aux examens étendus du personnel de certification, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^32-1]
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. examen théorique (par branche d’examen)</td><td>150.–</td><td>300.–</td></tr>
 <tr><td>b. examen pratique</td><td>300.–</td><td>500.–</td></tr>
 </table>
@@ -644,18 +668,22 @@ Les émoluments relatifs aux examens et aux examens étendus du personnel de cer
 <tr><td>1. renouvellement ou extension</td><td>100.–</td></tr>
 <tr><td>2. extension à un type ou à une catégorie d’aéronef supplémentaire</td><td>50.–</td></tr>
 <tr><td>c.[^33-2] pour l’établissement d’une licence, d’une autorisation spéciale ou d’un duplicata</td><td>50.–</td></tr>
+<tr><td>d.[^33-3] pour le premier établissement d’une habilitation autorisant le personnel de certification indépendant à réaliser des examens de navigabilité</td><td>1000.–</td></tr>
+<tr><td>e.[^33-4] pour le renouvellement d’une habilitation autorisant le personnel de certification indépendant à réaliser des examens de navigabilité</td><td>700.–</td></tr>
 </table>
 
 <sup>2</sup> Pour tout acte de gestion courante du dossier administratif, un émolument de 120 francs au plus peut être perçu en fonction du temps consacré.
 
-<sup>3</sup> Pour l’autorisation de cours sur des types d’aéronefs hors d’un organisme de formation du personnel de certification, un émolument de 360 francs au plus peut être perçu en fonction du temps consacré.[^33-3]
+<sup>3</sup> Pour l’autorisation de cours sur des types d’aéronefs hors d’un organisme de formation du personnel de certification, un émolument de 360 francs au plus peut être perçu en fonction du temps consacré.[^33-5]
 
-<sup>4</sup> Pour le traitement d’une demande d’autorisation spéciale certifiant l’exécution et l’attestation de travaux de maintenance spécifiques, un émolument de 600 francs au plus peut être perçu en fonction du temps consacré.[^33-4]
+<sup>4</sup> Pour le traitement d’une demande d’autorisation spéciale certifiant l’exécution et l’attestation de travaux de maintenance spécifiques, un émolument de 600 francs au plus peut être perçu en fonction du temps consacré.[^33-6]
 
 [^33-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 [^33-2]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^33-3]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^33-4]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^33-3]: Introduite par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^33-4]: Introduite par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^33-5]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^33-6]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
 
 #### Art. 34
 
@@ -674,7 +702,7 @@ Les émoluments relatifs aux examens et aux examens étendus du personnel de cer
 
 #### Art. 35
 
-**Emolument de participation aux cours**
+**Émolument de participation aux cours**
 
 <sup>1</sup> Les cours organisés par l’OFAC sont soumis à une participation aux frais.
 
@@ -685,6 +713,21 @@ Les émoluments relatifs aux examens et aux examens étendus du personnel de cer
 **Autres examens et licences**
 
 Les émoluments relatifs aux autres examens et licences, calculés en fonction du temps consacré, sont compris entre 50 et 600 francs.
+
+#### Art. 36a
+
+**Exploitants d’aéronef sans occupant**[^36a-1]
+
+Les émoluments suivants sont perçus pour l’enregistrement et le certificat d’aptitude des exploitants d’aéronef sans occupant:
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. pour le premier enregistrement, y compris la formation et l’examen</td><td>30.–</td></tr>
+<tr><td>b. pour la prorogation, y compris la formation et l’examen</td><td>20.–</td></tr>
+<tr><td>c. pour l’enregistrement sans formation, ni examen (aéromodélisme)</td><td>10.–</td></tr>
+</table>
+
+[^36a-1]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 ## Section 5 Manifestations publiques d’aviation et autorisations de police aérienne
 
@@ -706,123 +749,124 @@ Les émoluments relatifs aux autres examens et licences, calculés en fonction d
 
 <table>
 <tr><th></th><th>Fr.</th></tr>
-<tr><td>a.[^38-1] autorisation pour planeurs de pente, cerfs-volants, parachutes ascensionnels, ballons captifs et aéronefs sans occupant (art. 14 et 18, al. 1, let. b de l’O du 24 nov. 1994 sur les aéronefs de catégories spéciales[^38-2]), en fonction du temps consacré</td><td>de 50.– à 5000.–</td></tr>
-<tr><td>b. autorisation de transporter par aéronef des matières admises conditionnellement (art. 14, al. 3, LA)</td><td>300.–</td></tr>
-<tr><td>c. autorisation de jeter des objets ou des matières d’un aéronef (art. 13, al. 1, de l’O du 4 mai 1981 concernant les règles de l’air applicables aux aéronefs [ORA][^38-3])</td><td>300.–</td></tr>
-<tr><td>d. autorisation pour l’utilisation ou le lancement de projectiles (art. 23, al. 3, OSAv[^38-4])</td><td>400.–</td></tr>
-<tr><td>[tab] e.[^38-5] autorisation de voler au-dessous des hauteurs minimales (art. 44, al. 2, let. f, ORA)</td><td></td></tr>
+<tr><td>a. autorisation pour planeurs de pente, cerfs-volants, parachutes ascensionnels, ballons captifs et aéronefs sans occupant (art. 14 et 18, al. 1, let. b de l’O du 24 nov. 1994 sur les aéronefs de catégories spéciales[^38-1]), en fonction du temps consacré</td><td>de 50.– à 5 000.–</td></tr>
+<tr><td>b. autorisation de transporter par aéronef des matières admises conditionnellement (art. 14, al. 3, LA[^38-2])</td><td>300.–</td></tr>
+<tr><td>c. autorisation de jeter des objets ou des matières d’un aéronef (art. 9, al. 1, de l’O du DETEC du 20 mai 2015 concernant les règles de l’air applicables aux aéronefs [ORA][^38-3])</td><td>300.–</td></tr>
+<tr><td>d. autorisation pour l’utilisation ou le lancement de projectiles (art. 23, al. 3, OSAv [^38-4])</td><td>400.–</td></tr>
+<tr><td>e. autorisation de voler au-dessous des hauteurs minimales (art. 28, al. 2, let. f, ORA)</td><td></td></tr>
 <tr><td>1. pour des vols commerciaux</td><td>400.–</td></tr>
 <tr><td>2. pour des vols non commerciaux</td><td>250.–</td></tr>
-<tr><td>[tab] [tab] [tab]</td><td></td></tr>
-<tr><td>[tab] f.[^38-6] Autorisation d’atterrissage en campagne</td><td></td></tr>
-<tr><td>1. au moyen d’avions, d’autogires, de dirigeables et d’aéronefs à moteur, qui ne sont pas inscrits dans le registre matricule suisse des aéronefs (art. 6, al. 1, de l’ordonnance du 14 mai 2014 sur les atterrissages en campagne [OSAC][^38-7])</td><td>500.–</td></tr>
+<tr><td>f. autorisation d’atterrissage en campagne</td><td></td></tr>
+<tr><td>1. au moyen d’avions, d’hélicoptères, de dirigeables et d’aéronefs à moteur, qui ne sont pas inscrits dans le registre matricule suisse des aéronefs (art. 6, al. 1, de l’ordonnance du 14 mai 2014 sur les atterrissages en campagne [OSAC][^38-5])</td><td>500.–</td></tr>
 <tr><td>2. sur des étendues d’eau publiques (art. 6, al. 2, OSAC)</td><td>500.–</td></tr>
 <tr><td>3. à plus de 2000 m d’altitude dans le cadre de l’instruction de personnes au service d’organismes de sauvetage ou de la police (art. 36 OSAC)</td><td>0.–</td></tr>
-<tr><td>[tab] g.[^38-8] Autorisation d’atterrissage en campagne à plus de 1100 m d’altitude et en dehors des places d’atterrissage en montagne désignées, dans le cadre du transport de personnes à des fins touristiques ou sportives (art. 26 OSAC)</td><td></td></tr>
-<tr><td>[tab] en fonction du temps consacré et selon cadre tarifaire:</td><td>de 100.– à 5 000.–</td></tr>
-<tr><td>h.[^38-9] autorisation</td><td></td></tr>
-<tr><td>1. pour des grandes manifestations d’importance internationale d’une durée de plusieurs jours (art. 16, al. 3, 29 et 39, al. 4, OSAC);</td><td></td></tr>
-<tr><td>2. dérogeant aux conditions figurant à l’art. 8, al. 1, et aux restrictions temporelles et géographiques prévues par les art. 25, 27, al. 1, let. a et c, 32 et 34 OSAC (art. 10, al. 1, OSAC)</td><td></td></tr>
-<tr><td>3. pour les atterrissages en campagne à des fins de travail dans les zones réservées visées à l’art. 19, al. 1 et 2, OSAC (art. 28, al. 1, OSAC)</td><td></td></tr>
-<tr><td>[tab] en fonction du temps consacré et selon cadre tarifaire:</td><td>de 100.– à 50 000.–</td></tr>
-<tr><td>i. autorisation exceptionnelle pour des vols d’essai et autres cas particuliers (art. 2*b*, al. 2, OSAv)</td><td>300.–</td></tr>
-<tr><td>j. autorisation pour l’usage de l’espace aérien suisse par des aéronefs de catégorie spéciale, immatriculés à l’étranger (art. 2, al. 1, let. e, LA)</td><td>150.–</td></tr>
-<tr><td>[tab]</td><td></td></tr>
-<tr><td>k.[^38-10] …</td><td></td></tr>
+<tr><td>g. autorisation d’atterrissage en campagne à plus de 1100 m d’altitude et en dehors des places d’atterrissage en montagne désignées, dans le cadre du transport de personnes à des fins touristiques ou sportives (art. 26 OSAC)</td><td>180.–</td></tr>
+<tr><td>h. autorisation pour des grandes manifestations d’importance internationale d’une durée de plusieurs jours (art. 16, al. 3, 29 et 39, al. 4, OSAC)</td><td>180.–</td></tr>
+<tr><td>i. autorisation dérogeant aux conditions figurant à l’art. 8, al. 1, et aux restrictions temporelles et géographiques prévues par les art. 25, 27, al. 1, let. a et c, 32 et 34 OSAC (art. 10, al. 1, OSAC)</td><td>180.–</td></tr>
+<tr><td>j. autorisation pour les atterrissages en campagne à des fins de travail dans les zones réservées visées à l’art. 19, al. 1 et 2, OSAC (art. 28, al. 1, OSAC)</td><td>180.–</td></tr>
+<tr><td>k. autorisation exceptionnelle pour des projets de recherche et de développement (art. 2*b*, al. 3, OSAv)</td><td>300.–</td></tr>
+<tr><td>l. autorisation pour l’usage de l’espace aérien suisse par des aéronefs de catégorie spéciale, immatriculés à l’étranger (art. 2, al. 1, let. e, LA)</td><td></td></tr>
+<tr><td>1. durée de l’autorisation n’excédant pas une semaine par année civile</td><td>de 100.– à 250.–</td></tr>
+<tr><td>2. durée de l’autorisation supérieure à une semaine par année civile</td><td>de 200.– à 500.–[^38-6]</td></tr>
 </table>
 
 <sup>2</sup> Les émoluments relatifs à toutes autres autorisations de police aérienne, calculés en fonction du temps consacré, sont compris entre 50 et 600 francs.
 
-[^38-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-[^38-2]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
-[^38-3]: [[RO 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066), [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)ch. II, [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560), [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548), [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377), [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)art. 22 ch. 1, [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103), [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654)[4701](https://fedlex.data.admin.ch/eli/oc/2006/723), [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150), [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167). [RO 2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326)art. 32 al. 1]. Voir actuellement l’O du 20 mai 2015 ([RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)).
+[^38-1]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
+[^38-2]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
+[^38-3]: [RS 748.121.11](https://fedlex.data.admin.ch/eli/cc/2015/326)
 [^38-4]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^38-5]: Nouvelle teneur selon le ch. I de l’O du 10 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 5413](https://fedlex.data.admin.ch/eli/oc/2010/767)).
-[^38-6]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-7]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
-[^38-8]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-9]: Nouvelle teneur selon le ch. 4 de l’annexe à l’O du 14 mai 2014 sur les atterrissages en campagne, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 1339](https://fedlex.data.admin.ch/eli/oc/2014/286)).
-[^38-10]: Abrogée par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^38-5]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
+[^38-6]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
-## Section 6 Exploitation d’aéronefs à motorisation complexe et exploitation commerciale d’aéronefs à motorisation non complexe****
+## Section 6**** Certification et surveillance d’opérations de transport aérien
 
 [^sec6-1]
 
-[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 39
 
-**Champ d’application**[^39-1]
+**Champ d’application**
 
-Les dispositions de la présente section s’appliquent à:
+Les dispositions de la présente section s’appliquent:
 
-- a. l’exploitation commerciale et non commerciale d’aéronefs à motorisation complexe;
-- b. l’exploitation commerciale d’aéronefs à motorisation non complexe.
-
-[^39-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+- a. au transport commercial de personnes et de marchandises (CAT);
+- b. à l’exploitation d’aéronefs à motorisation complexe à des fins non commerciales (NCC);
+- c. à l’exploitation d’aéronefs à motorisation non complexe à des fins non commerciales (NCO);
+- d. aux exploitations spécialisées (SPO).
 
 #### Art. 40
 
-**Certificat de transporteur aérien, manuel d’exploitation, manuel de vol et autres documents et systèmes d’exploitation**[^40-1]
+**Transport commercial de personnes et de marchandises (CAT)**
 
-<sup>1</sup> Les émoluments relatifs à un certificat de transporteur aérien (AOC), à un manuel d’exploitation (OM), à un manuel de vol (FOM) ou à d’autres documents et systèmes d’exploitation, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
+<sup>1</sup> Les émoluments relatifs à un certificat de transporteur aérien (AOC), à un manuel d’exploitation (OM), à une autorisation d’exploitation ou à d’autres documents et systèmes d’exploitation, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
-<tr><td>a. pour le premier octroi ou la première approbation</td><td>600.–</td><td>250 000.–</td></tr>
-<tr><td>b. pour l’approbation de chaque modification ou le renouvellement, la limitation ou le retrait</td><td>200.–</td><td>250 000.–</td></tr>
-<tr><td>c. pour la surveillance courante (par prestation)</td><td>100.–</td><td>20 000.–</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
+<tr><td>a. pour la délivrance</td><td>500.–</td><td>250 000.–</td></tr>
+<tr><td>b. pour la modification ou le renouvellement, la limitation ou le retrait</td><td>100.–</td><td>250 000.–</td></tr>
 </table>
 
-<sup>2</sup> Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+<sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
 
-[^40-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
 
 #### Art. 41
-
-[^41-1]
-
-[^41-1]: Abrogé par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 42
-
-**Autorisation d’exploitation**[^42-1]
-
-Les émoluments relatifs à une autorisation d’exploitation délivrée à une entreprise qui effectue le transport commercial de personnes ou de marchandises au moyen d’aéronefs, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
-
-<table>
-<tr><th></th><th>Emolument minimal Fr.</th><th>Emolument maximal Fr.</th></tr>
-<tr><td>a. pour l’octroi ou le retrait</td><td>500.–</td><td>20 000.–</td></tr>
-<tr><td>b. pour la modification</td><td>200.–</td><td>10 000.–</td></tr>
-<tr><td>c. pour la surveillance courante (par prestation)</td><td>100.–</td><td>10 000.–</td></tr>
-<tr><td>d. pour les inspections extraordinaires</td><td>100.–</td><td>10 000.–</td></tr>
-</table>
-
-[^42-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 43
-
-[^43-1]
-
-[^43-1]: Abrogé par le ch. I de l’O du 28 oct. 2015, avec effet au 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
-
-#### Art. 44
 
 **Concession de routes**
 
 Les émoluments relatifs au traitement d’une demande d’octroi, de renouvellement ou de modification d’une concession de routes, calculés en fonction du temps consacré, sont compris entre 500 et 10 000 francs.
 
-## Section 7**** Exploitation non commerciale d’aéronefs à motorisation non complexe
+#### Art. 42
 
-[^sec7-1]
+**Exploitation d’aéronefs à motorisation complexe à des fins non commerciales (NCC)**
 
-[^sec7-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+<sup>1</sup> Les émoluments suivants sont perçus pour une déclaration concernant l’exploitation d’un aéronef à motorisation complexe à des fins non commerciales (NCC):
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. pour la première attestation</td><td>150.–</td></tr>
+<tr><td>b. pour la modification</td><td>100.–</td></tr>
+</table>
+
+<sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
+
+<sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+
+#### Art. 43
+
+**Exploitation d’aéronefs à motorisation non complexe à des fins non commerciales (NCO)**
+
+<sup>1</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour une autorisation, une attestation ou pour un autre examen opérationnel concernant l’exploitation d’aéronefs à motorisation non complexe à des fins non commerciales (NCO).
+
+<sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
+
+### <sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+
+#### Art. 44
+
+**Exploitations spécialisées (SPO)**
+
+<sup>1</sup> Les émoluments suivants sont perçus pour une déclaration concernant une exploitation spécialisée (SPO):
+
+<table>
+<tr><th></th><th>Fr.</th></tr>
+<tr><td>a. pour la première attestation</td><td>150.–</td></tr>
+<tr><td>b. pour la modification</td><td>100.–</td></tr>
+</table>
+
+<sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
+
+<sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+
+## Section 7 ...
 
 #### Art. 45
 
-<sup>1</sup> L’émolument relatif à une autorisation, une confirmation ou un examen d’entreprise destinés à des opérations non commerciales d’aéronefs à motorisation non complexe, ainsi que pour leur modification, limitation ou retrait, calculé en fonction du temps consacré, est compris entre 100 et 40 000 francs.
+[^45-1]
 
-<sup>2</sup> Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu pour la surveillance courante.
+[^45-1]: Abrogé par le ch. I de l’O du 3 fév. 2021, avec effet au 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 ## Section 8 Organismes de formation
 
@@ -833,15 +877,21 @@ Les émoluments relatifs au traitement d’une demande d’octroi, de renouvelle
 <sup>1</sup> Les émoluments relatifs à une certification ou à une autorisation d’un organisme de formation du personnel navigant ou d’un équipement ou système de simulation de vol, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. pour le premier octroi ou la première approbation</td><td>600.–</td><td>250 000.–</td></tr>
 <tr><td>b. pour l’approbation de chaque modification, la limitation ou le retrait</td><td>200.–</td><td>250 000.–</td></tr>
 <tr><td>c. pour la surveillance courante (par prestation)</td><td>300.–</td><td>20 000.–</td></tr>
 </table>
 
+<sup>1bis</sup> Un émolument de 1500 francs est perçu pour chacun des contrôles récurrents exécutés dans le cadre de la surveillance des systèmes d’entraînement aux procédures de vol et de navigation (FNPT).[^46-2]
+
 <sup>2</sup> Un émolument calculé en fonction du temps consacré sans cadre tarifaire est perçu pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
 
+<sup>3</sup> Lorsque les contrôles récurrents exécutés dans le cadre de la surveillance de FNPT occasionnent une charge de travail excessive, l’émolument est calculé sans cadre tarifaire, en fonction du temps consacré.[^46-3]
+
 [^46-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4411](https://fedlex.data.admin.ch/eli/oc/2015/732)).
+[^46-2]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
+[^46-3]: Introduit par le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
 #### Art. 47
 
@@ -850,7 +900,7 @@ Les émoluments relatifs au traitement d’une demande d’octroi, de renouvelle
 <sup>1</sup> Les émoluments relatifs à l’agrément d’un organisme de formation de maintenance, y compris la demande d’approbation de l’organisme, du programme de formation et du règlement d’école, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:[^47-1]
 
 <table>
-<tr><td></td><td>Emolument minimal Fr.</td><td>Emolument maximal Fr.</td></tr>
+<tr><td></td><td>Émolument minimal Fr.</td><td>Émolument maximal Fr.</td></tr>
 <tr><td>a. pour l’octroi</td><td>1000.–</td><td>100 000.–</td></tr>
 <tr><td>b.[^47-2] pour l’extension ou la modification</td><td>200.–</td><td>100 000.–</td></tr>
 <tr><td>c.[^47-3] pour la surveillance courante (par prestation)</td><td>200.–</td><td>50 000.–</td></tr>
@@ -889,12 +939,12 @@ Sont considérées comme relevant de l’infrastructure aéronautique au sens de
 
 #### Art. 49
 
-**Emoluments pour les installations**
+**Émoluments pour les installations**
 
 <sup>1</sup> Les émoluments relatifs à une installation de l’infrastructure aéronautique, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
 
 <table>
-<tr><th></th><th>Emolument minimal Fr.</th><th>Emolument maximal Fr.</th></tr>
+<tr><th></th><th>Émolument minimal Fr.</th><th>Émolument maximal Fr.</th></tr>
 <tr><td>a. pour l’octroi, le renouvellement, la modification, le transfert ou le retrait d’une concession d’exploitation</td><td>500.–</td><td>200 000.–</td></tr>
 <tr><td>b. pour l’octroi, la modification, le transfert ou le retrait d’une autorisation d’exploitation</td><td>500.–</td><td>100 000.–</td></tr>
 <tr><td>c. pour l’approbation ou la modification du règlement d’exploitation</td><td>500.–</td><td>200 000.–</td></tr>
