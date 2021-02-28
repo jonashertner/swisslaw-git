@@ -4,11 +4,11 @@ title: "Verordnung vom 29. April 2015 über die Bekämpfung übertragbarer Krank
 short: EpV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: de
-version: 2021-02-04
+version: 2021-03-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/de"
 
 (Epidemienverordnung, EpV)
 
-vom 29. April 2015 (Stand am 4. Februar 2021)
+vom 29. April 2015 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -851,7 +851,7 @@ Die Apothekerinnen und Apotheker müssen:
 - b. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sein; und
 - c. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
+<sup>3</sup> Der Bund übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 24.50.[^64a-7]
 
 <sup>4</sup>
 
@@ -871,6 +871,7 @@ Mit dem Betrag nach Absatz 3 sind sämtliche Leistungen im Zusammenhang mit der 
 [^64a-4]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft vom 4. Febr. 2021 bis zum 31. Dez. 2021 ([AS 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Abrufbar unter: www.fphch.org/impfen-und-blutentnahme.
+[^64a-7]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 #### Art. 64b
 
@@ -922,7 +923,12 @@ Er übernimmt die Kosten nur, wenn die Leistungserbringer:
 - a. vom Kanton mit der Durchführung von Covid-19-Impfungen beauftragt worden sind; und
 - b. die Vorgaben des Kantons hinsichtlich der Verwendung der vorgegebenen Software für die Terminvergabe, die Datenerfassung und die Dokumentation sowie des Reportings für das Impfmonitoring erfüllen.
 
-<sup>4</sup> Er übernimmt für jede Impfung nach Absatz 1 eine Pauschale von Fr. 14.50.
+<sup>4</sup>
+
+Er übernimmt für jede Impfung nach Absatz 1 eine der folgenden Pauschalen:
+
+- a. Fr. 14.50 für Impfungen in Impfzentren, in Spitälern und durch mobile Equipen;
+- b. Fr. 24.50 für Impfungen in Arztpraxen.[^64c-5]
 
 <sup>5</sup>
 
@@ -942,6 +948,7 @@ Mit dem Betrag nach Absatz 4 sind sämtliche Leistungen im Zusammenhang mit der 
 [^64c-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [SR 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten: Ausbrüche, Epidemien, Pandemien &gt; Aktuelle Ausbrüche und Epidemien &gt; Coronavirus &gt; Informationen für Gesundheitsfachpersonen &gt; Covid-19-Impfung &gt; Covid-19-Impfstrategie.
+[^64c-5]: Fassung gemäss Ziff. I der V vom 19. März 2021, in Kraft seit 1. März 2021 ([AS 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 ### 3. Abschnitt: Warenverkehr
 

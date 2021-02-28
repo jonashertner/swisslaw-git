@@ -4,11 +4,11 @@ title: "Ordinanza del 29 aprile 2015 concernente la lotta contro le malattie tra
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: it
-version: 2021-02-04
+version: 2021-03-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/it"
 
 (Ordinanza sulle epidemie, OEp)
 
-del 29 aprile 2015 (Stato 4 febbraio 2021)
+del 29 aprile 2015 (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -851,7 +851,7 @@ I farmacisti devono:
 - b. essere stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
 - c. adempiere le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
 
-<sup>3</sup> La Confederazione assume un importo forfettario di 14.50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.
+<sup>3</sup> La Confederazione assume un importo forfettario di 24,50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.[^64a-7]
 
 <sup>4</sup>
 
@@ -871,6 +871,7 @@ Con l’importo di cui al capoverso 3 sono indennizzate tutte le prestazioni for
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 4 feb. 2021 al 31 dic. 2021 ([RU 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Consultabile su [www.fphch.org/impfen-und-blutentnahme](https://www.fphch.org/impfen-und-blutentnahme)
+[^64a-7]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 #### Art. 64b
 
@@ -922,7 +923,12 @@ Assume i costi soltanto se i fornitori di prestazioni:
 - a. sono stati incaricati dal Cantone di effettuare vaccinazioni anti-COVID-19; e
 - b. adempiono le prescrizioni del Cantone sull’impiego del software prescritto per la fissazione degli appuntamenti, la registrazione dei dati, la documentazione e la stesura dei rapporti per il monitoraggio della vaccinazione.
 
-<sup>4</sup> Assume un importo forfettario di 14,50 franchi per ogni vaccinazione effettuata secondo il capoverso 1.
+<sup>4</sup>
+
+Assume i seguenti importi forfettari per ogni vaccinazione effettuata secondo il capoverso 1:
+
+- a. 14,50 franchi per le vaccinazioni effettuate in centri di vaccinazione, in ospedali o da équipe mobili;
+- b. 24,50 franchi per le vaccinazioni effettuate in studi medici.[^64c-5]
 
 <sup>5</sup>
 
@@ -942,6 +948,7 @@ Con l’importo di cui al capoverso 4 sono indennizzate tutte le prestazioni for
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Consultabile su www.ufsp.admin.ch &gt; Malattie &gt; Malattie infettive: focolai, epidemie e pandemie &gt; Insorgenze e epidemie attuali &gt; Coronavirus &gt; Informazioni per i professionisti della salute &gt; Vaccinazione anti-COVID-19 &gt; Strategia di vaccinazione anti-COVID-19.
+[^64c-5]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021, in vigore dal 1° mar. 2021 ([RU 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 ### Sezione 3: Trasporto di merci
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2021-02-04
+version: 2021-03-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210204/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210204-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20210204/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (Etat le 4 février 2021)
+du 29 avril 2015 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -852,7 +852,7 @@ Les pharmaciens doivent:
 - b. avoir reçu un mandat du canton pour effectuer les vaccinations contre le COVID-19, et
 - c. remplir les exigences du canton concernant l’utilisation du logiciel prescrit pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
 
-<sup>3</sup> La Confédération prend en charge un montant forfaitaire de 14 fr. 50 par vaccination effectuée au titre de l’al. 1.
+<sup>3</sup> La Confédération prend en charge un montant forfaitaire de 24 fr. 50 par vaccination effectuée au titre de l’al. 1.[^64a-7]
 
 <sup>4</sup>
 
@@ -872,6 +872,7 @@ Le montant visé à l’al. 3 couvre l’ensemble des prestations liées à la v
 [^64a-4]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64a-5]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur du 4 fév. 2021 au 31 déc. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)).
 [^64a-6]: Consultable sous www.fphch.org/fr/web/fph/vaccination-et-prélèvements-sanguins
+[^64a-7]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 #### Art. 64b
 
@@ -923,7 +924,12 @@ Elle prend en charge les coûts uniquement si les fournisseurs de prestations:
 - a. sont mandatés par le canton pour effectuer les vaccinations contre le COVID-19, et
 - b. remplissent les exigences du canton concernant l’utilisation du logiciel indiqué pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
 
-<sup>4</sup> Elle prend en charge un forfait de 14 fr. 50 par vaccination effectuée au titre de l’al. 1.
+<sup>4</sup>
+
+Elle prend en charge un des forfaits suivants par vaccination effectuée au titre de l’al. 1:
+
+- a. 14 fr. 50 par vaccination effectuée dans un centre de vaccination, un hôpital ou par une équipe mobile;
+- b. 24 fr. 50 par vaccination effectuée dans un cabinet médical.[^64c-5]
 
 <sup>5</sup>
 
@@ -943,6 +949,7 @@ Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la v
 [^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 [^64c-4]: Consultable sous www.ofsp.admin.ch &gt; Maladies&gt; Maladies infectieuses : Flambées, épidémies, pandémies &gt; Flambées et épidémies actuelles &gt; Coronavirus &gt; Informations pour les professionnels de la santé &gt; Vaccination contre le COVID-19 &gt; Stratégie de vaccination relative au COVID-19
+[^64c-5]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 156](https://fedlex.data.admin.ch/eli/oc/2021/156)).
 
 ### Section 3 Transport de marchandises
 
