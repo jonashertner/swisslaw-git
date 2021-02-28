@@ -4,13 +4,13 @@ number: "432.281"
 title: Verordnung über die sonderpädagogischen Massnahmen
 short: "Sonderpädagogikverordnung, SPMV"
 language: de
-version: 2013-08-01
-valid_until: 2021-02-28
-version_adopted: 2013-05-08
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2013-05-08
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.281"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/684/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2120/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/684/pdf_file"
 
 (Sonderpädagogikverordnung, SPMV)
 
-vom 08.05.2013 (Stand 01.08.2013)
+vom 08.05.2013 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -108,7 +108,7 @@ beschliesst:
 
 **2. Kostenübernahmegarantie**
 
-<sup>1</sup> Die Erteilung einer Kostenübernahmegarantie gemäss IVSE oder bilateraler Vereinbarung an eine Institution eines anderen Kantons erfolgt durch das Alters- und Behindertenamt (ALBA) der Gesundheits- und Fürsorgedirektion.
+<sup>1</sup> Die Erteilung einer Kostenübernahmegarantie gemäss IVSE oder bilateraler Vereinbarung an eine Institution eines anderen Kantons erfolgt durch das Alters- und Behindertenamt (ALBA) der Gesundheits-, Sozial- und Integrationsdirektion.
 
 <sup>2</sup> Sie setzt einen positiven Entscheid des ALBA über den Anspruch auf eine sonderpädagogische Massnahme gemäss dieser Verordnung voraus.
 
@@ -176,7 +176,7 @@ beschliesst:
 
 **4. Weitere Vorschriften**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kann durch Verordnung Vorschriften über den Umfang der Lektionen, die Klassen- und die Gruppengrössen im Unterricht erlassen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann durch Verordnung Vorschriften über den Umfang der Lektionen, die Klassen- und die Gruppengrössen im Unterricht erlassen.
 
 ### 2.2.3 Integrative Sonderschulung
 
@@ -258,7 +258,7 @@ beschliesst:
 
 <sup>1</sup> Die Durchführung der pädagogisch-therapeutischen Massnahmen hat sich nach den Qualitätsrichtlinien der entsprechenden Berufsverbände zu richten.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion kann durch Verordnung weitergehende Vorschriften zur Durchführung und Qualität erlassen.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann durch Verordnung weitergehende Vorschriften zur Durchführung und Qualität erlassen.
 
 #### Art. 23
 
@@ -297,7 +297,7 @@ beschliesst:
 
 **2. Vereinbarungen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion vereinbart mit den Berufsverbänden der Therapeutinnen und Therapeuten die Tarife für die Entschädigung der pädagogisch-therapeutischen Massnahmen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion vereinbart mit den Berufsverbänden der Therapeutinnen und Therapeuten die Tarife für die Entschädigung der pädagogisch-therapeutischen Massnahmen.
 
 <sup>2</sup> Nichtverbandsmitglieder, die pädagogisch-therapeutische Massnahmen erbringen, können maximal zu diesem Tarif abrechnen.
 
@@ -391,7 +391,7 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung von durch Sonderschulen oder Private durchgeführten Transporten erfolgt nach Kilometertarifen.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion legt die Kilometertarife durch Verordnung fest.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion legt die Kilometertarife durch Verordnung fest.
 
 <sup>3</sup> Die Kilometertarife für von Angehörigen durchgeführte Transporte dürfen die vom Regierungsrat gemäss Artikel 113 Absatz 2 der Personalverordnung vom 18. Mai 2005 (PV)[^36-1] festgesetzten Kilometerentschädigungen für Dienstfahrten mit privaten Motorfahrzeugen nicht überschreiten.
 
@@ -473,7 +473,7 @@ beschliesst:
 
 <sup>1</sup> Das ALBA erteilt Betriebsbewilligungen für Sonderschulen.
 
-<sup>2</sup> Zu den schulischen Aspekten hört es vorgängig das Amt für Kindergarten, Volksschule und Beratung der Erziehungsdirektion an.
+<sup>2</sup> Zu den schulischen Aspekten hört es vorgängig das Amt für Kindergarten, Volksschule und Beratung der Bildungs- und Kulturdirektion an.
 
 #### Art. 46
 
@@ -509,7 +509,7 @@ beschliesst:
 
 <sup>1</sup> Das ALBA übt die Aufsicht über die Sonderschulen aus.
 
-<sup>2</sup> In Fragen der schulischen Aufsicht zieht es das Amt für Kindergarten, Volksschule und Beratung der Erziehungsdirektion bei.
+<sup>2</sup> In Fragen der schulischen Aufsicht zieht es das Amt für Kindergarten, Volksschule und Beratung der Bildungs- und Kulturdirektion bei.
 
 #### Art. 50
 

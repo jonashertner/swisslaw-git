@@ -4,13 +4,13 @@ number: "432.281"
 title: Ordonnance sur les mesures de pédagogie spécialisée
 short: "Ordonnance sur la pédagogie spécialisée, OPSpéc"
 language: fr
-version: 2013-08-01
-valid_until: 2021-02-28
-version_adopted: 2013-05-08
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2013-05-08
 in_force: 2013-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.281"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/684/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2120/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/684/pdf_file"
 
 (Ordonnance sur la pédagogie spécialisée, OPSpéc)
 
-du 08.05.2013 (état au 01.08.2013)
+du 08.05.2013 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -108,7 +108,7 @@ arrête:
 
 **2. Garantie de participation aux frais**
 
-<sup>1</sup> La garantie de participation aux frais de l’institution de l’autre canton prévue par la CIIS ou par voie de convention bilatérale est octroyée par l’Office des personnes âgées et handicapées (OPAH) de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> La garantie de participation aux frais de l’institution de l’autre canton prévue par la CIIS ou par voie de convention bilatérale est octroyée par l’Office des personnes âgées et des personnes handicapées (OPAH) de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Elle requiert que l’OPAH ait reconnu le droit aux prestations de pédagogie spécialisée au sens de la présente ordonnance.
 
@@ -176,7 +176,7 @@ arrête:
 
 **4. Autres prescriptions**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut édicter par voie d’ordonnance des prescriptions sur l’étendue des leçons ainsi que de la taille des classes et des groupes dans l’enseignement.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut édicter par voie d’ordonnance des prescriptions sur l’étendue des leçons ainsi que la taille des classes et des groupes dans l’enseignement.
 
 ### 2.2.3 Scolarisation spécialisée intégrée
 
@@ -258,7 +258,7 @@ arrête:
 
 <sup>1</sup> L’exécution des mesures pédago-thérapeutiques est régie par les directives de qualité des associations professionnelles correspondantes.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale peut édicter, par voie d’ordonnance, des prescriptions supplémentaires concernant l’exécution et la qualité.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration peut édicter, par voie d’ordonnance, des prescriptions supplémentaires concernant l’exécution et la qualité.
 
 #### Art. 23
 
@@ -297,7 +297,7 @@ arrête:
 
 **2. Conventions**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale passe avec les associations professionnelles des thérapeutes une convention tarifaire fixant l’indemnité due pour les mesures pédago-thérapeutiques.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration passe avec les associations professionnelles des thérapeutes une convention tarifaire fixant l’indemnité due pour les mesures pédago-thérapeutiques.
 
 <sup>2</sup> Les personnes offrant des mesures pédago-thérapeutique qui ne sont pas membres d’une association, ne peuvent pas les facturer à un tarif plus élevé.
 
@@ -391,7 +391,7 @@ arrête:
 
 <sup>1</sup> L’indemnisation du transport organisé par l’école spécialisée ou du transport privé est calculée sur la base d’un tarif au kilomètre.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale fixe le tarif au kilomètre par voie d’ordonnance.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration fixe le tarif au kilomètre par voie d’ordonnance.
 
 <sup>3</sup> Le tarif au kilomètre pour les transports effectués par des proches ne doit pas dépasser le montant arrêté par le Conseil-exécutif conformément à l’article 113, alinéa 2 de l’ordonnance du 18 mai 2005 sur le personnel (OPers)[^36-1] pour les déplacements de service effectués avec un véhicule automobile privé.
 
@@ -473,7 +473,7 @@ arrête:
 
 <sup>1</sup> L’OPAH délivre les autorisations d’exploiter aux écoles spécialisées.
 
-<sup>2</sup> Il consulte préalablement l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation de la Direction de l’instruction publique quant aux aspects scolaires.
+<sup>2</sup> Il consulte préalablement l’Office de l’école obligatoire et du conseil de la Direction de l’instruction publique et de la culture quant aux aspects scolaires.
 
 #### Art. 46
 
@@ -509,7 +509,7 @@ arrête:
 
 <sup>1</sup> L’OPAH exerce la surveillance des écoles spécialisées.
 
-<sup>2</sup> Pour les questions concernant la surveillance scolaire, il fait appel à l’Office de l’enseignement préscolaire et obligatoire, du conseil et de l’orientation de la Direction de l’instruction publique.
+<sup>2</sup> Pour les questions concernant la surveillance scolaire, il fait appel à l’Office de l’école obligatoire et du conseil de la Direction de l’instruction publique et de la culture.
 
 #### Art. 50
 
