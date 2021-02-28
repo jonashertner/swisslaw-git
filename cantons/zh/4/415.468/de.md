@@ -4,77 +4,284 @@ number: "415.468"
 title: Verordnung über die Titularprofessur an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (TPV MNF)
 short: TPV MNF
 language: de
-nachtrag: "28"
-valid_until: 2021-03-01
+nachtrag: "114"
 adopted: 2021-06-03
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_468-1916_11_16-1917_01_01-028.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_468-2021_06_03-2021_10_01-114.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Regulativ über die Verwendung des Meyer-Keyser-Legates
+# Verordnung über die Titularprofessur an der Mathematischnaturwissenschaftlichen Fakultät der Universität Zürich (TPV MNF)
 
-(vom 16. November 1916)[^t-1]
+(vom 3. Juni 2021)[^t-1]
 
-§ 1. Das Legat des am 7. Juli 1896 gestorbenen Dr. Arnold Meyer-Keyser, gewesenen Professors an der Universität Zürich, laut Staatsrechnung von 1896 im Betrage von Fr. 63 101.65, wird auf 1. Januar 1917 aus dem Hochschulfonds ausgeschieden und unter der Bezeichnung «Meyer-Keyser-Legat» von der Finanzdirektion besonders verwaltet.
+Die Fakultätsversammlung,
 
-[^t-1]: OS 30, 360 und GS III, 455. Vom Regierungsrat erlassen.
+gestützt auf § 34 Abs. 3 Ziff. 2 des Universitätsgesetzes vom 15. März 1998 (UniG)[^t-2] und § 22 Abs. 1 der Rahmenverordnung über die Titularprofessur an der Universität Zürich vom 16. Dezember 2019 (RVO TP)[^t-3],
+
+beschliesst:
+
+[^t-1]: OS 76, 324; Begründung siehe ABl 2021-07-23. Von der Erweiterten Universitätsleitung am 13. Juli 2021 genehmigt.
+[^t-2]: LS 415.11.
+[^t-3]: LS 415.24.
+
+### A. Allgemeine Bestimmungen
+
+#### § 1
+
+**Geltungsbereich**
+
+<sup>1</sup> Diese Verordnung regelt das Verfahren über die Ernennung zur Titularprofessorin oder zum Titularprofessor und die Verlängerung der Titularprofessur an der Mathematisch-naturwissenschaftlichen Fakultät der Universität Zürich (UZH).
+
+<sup>2</sup> Sie stützt sich auf die Rahmenverordnung über die Titularprofessur an der Universität Zürich vom 16. Dezember 2019 (RVO TP) und konkretisiert diese nach Massgabe der besonderen Voraussetzungen für die Mathematisch-naturwissenschaftliche Fakultät.
+
+<sup>3</sup> Soweit die TPV MNF keine Bestimmungen enthält, gilt unmittelbar die RVO TP.
 
 #### § 2
 
-Das Kapital soll unvermindert bleiben. Die Zinsen dürfen zu wissenschaftlichen Zwecken verwendet werden nach den Vorschlägen der mathematisch-naturwissenschaftlichen Sektion, jetzt philosophischen Fakultät II, der Universität Zürich (Art. 1 des Testaments von Prof. Dr. Meyer-Keyser vom 17. April 1888).
+**Zweck**
 
-#### § 3
+<sup>1</sup> Mit der Titularprofessur will die Mathematisch-naturwissenschaftliche Fakultät qualifizierte Wissenschaftlerinnen und Wissenschaftler in Forschung und Lehre einbinden.
 
-Bei der Verwendung der Zinsen für die in Frage kommenden Zwecke handelt es sich im Besonderen um jene Fälle, wo die Beitragspflicht des Staates oder die Mittel der Stiftung für wissenschaftliche Forschung nicht ohne weiteres in Anspruch genommen werden können.
+<sup>2</sup> Die Mathematisch-naturwissenschaftliche Fakultät fördert im Hinblick auf die Gleichstellungspolitik der UZH insbesondere die Ernennung von Titularprofessorinnen.
 
-§ 4.[^3-1] Die jährlich zur Verteilung gelangenden Zinsbetreffnisse sollen nicht unter dem Gesamtbetrag von Fr. 2000 bleiben. Zum Bezug von Beiträgen sind die ordentlichen und ausserordentlichen sowie die Assistenz-Professoren der Fakultät berechtigt. Die Zuweisung erfolgt nach einer von der Fakultät festzusetzenden Kehrordnung.
-
-[^3-1]: Fassung gemäss RRB vom 18. Mai 1988 (OS 50, 468).
-
-#### § 5
-
-Bei der Verwendung kommen in Betracht:
-
-- a. Die Anschaffung von Naturobjekten, Apparaten, wissenschaftlichen Werken, Gebrauchsutensilien und Verbrauchsmaterialien für Versuchszwecke,
-
-- b. die Herstellung von Demonstrationsmaterialien (Zeichnungen, Modellen usw.),
-
-- c. die Ausführung von Studienreisen und Exkursionen,
-
-- d. die Ausrichtung von Beiträgen an Assistenten oder Studierende für besonders wertvolle Mitarbeit,
-
-- e. die Publikation der Ergebnisse wissenschaftlicher Forschungen, mit Ausnahme von Dissertationen.
+<sup>3</sup> Titularprofessorinnen und Titularprofessoren sind selbst verantwortlich für die Wahl ihrer Forschungsrichtung.
 
 **1**
 
-1.4.00 - 28 § 6. <sup>1</sup> Falls die Stärke des Fonds es ermöglicht, bleibt die Zuweisung von Beiträgen ausserhalb der Kehrordnung für solche wissenschaftliche Zwecke, die aussergewöhnliche Anforderungen stellen, sowie die Zuwendung von Beiträgen zu Forschungszwecken an Privatdozenten vorbehalten. Solche Beschlüsse sind mit Mehrheit der anwesenden Fakultätsmitglieder zu fassen.
+1.10. 21 - 114
 
-<sup>2</sup> Ausserdem können aus den Zinserträgnissen mit Ausschluss des zur Verteilung gelangenden Betrages von Fr. 2000 (§ 4) durch Beschluss des Regierungsrates nach Anhörung der Fakultät Personalzulagen gewährt werden zur Gewinnung oder Erhaltung vorzüglich qualifizierter Lehrkräfte der Fakultät.
+### B. Rechtstellung
 
-§ 7.[^5-1] Die Vorschläge über die Verwendung der Zinserträgnisse unterliegen der Genehmigung durch die Erziehungsdirektion.
+#### § 3
 
-§ 8.[^5-1] Die Dozenten, denen nach der Kehrordnung der Zinsanteil eines Jahres zukommt, reichen bis Anfang Januar dem Dekan ihre Vorschläge über die Verwendung ein. Nach Behandlung durch die Fakultät werden die Anträge bis spätestens Ende Januar an die Erziehungsdirektion weitergeleitet.
+**Befristung der Ernennung**
 
-§ 9.[^5-1] Die Übertragung eines Teiles des einem Dozenten zugesprochenen Betrages auf ein zweites Jahr ist zulässig, ebenso die Zuwendung eines allfälligen Restbetrages an die Institutskasse.
+Die Ernennung zur Titularprofessorin oder zum Titularprofessor erfolgt für die Dauer von höchstens sechs Jahren.
 
-[^5-1]: Fassung gemäss RRB vom 18. Mai 1988 (OS 50, 468).
+#### § 4
+
+**Unterstellung und Zuordnung**
+
+<sup>1</sup> Soweit die Titularprofessorinnen und Titularprofessoren in einem Arbeitsverhältnis mit der UZH stehen, werden sie in der Regel der Institutsdirektorin oder dem Institutsdirektor oder einem Mitglied der Institutsdirektion unterstellt.
+
+<sup>2</sup> An der UZH angestellte Titularprofessorinnen und Titularprofessoren beteiligen sich an der akademischen Selbstverwaltung ihres Instituts und der Mathematisch-naturwissenschaftlichen Fakultät. Sie nehmen an den regelmässigen Standortgesprächen mit den zuständigen Leitungspersonen gemäss Abs. 1 teil.
+
+<sup>3</sup> Nicht an der UZH angestellte Titularprofessorinnen und Titularprofessoren werden einem Institut zugeordnet.
+
+#### § 5
+
+**Lehrverpflichtung**
+
+Titularprofessorinnen und Titularprofessoren sind verpflichtet, im Rahmen von Studienprogrammen jährlich eine Lehrveranstaltung von mindestens einer Semesterwochenstunde durchzuführen.
+
+### C. Voraussetzungen und Verfahren zur Ernennung
+
+#### § 6
+
+**Voraussetzungen**
+
+<sup>1</sup> Die allgemeinen Voraussetzungen für die Eröffnung eines Verfahrens richten sich nach § 5 Abs. 1 RVO TP.
+
+<sup>2</sup> Spezifische Voraussetzungen sind:
+
+- a. eine mindestens fünfjährige eigenständige und erfolgreiche Tätigkeit in Forschung und Lehre,
+
+- b. die eigenständige Einwerbung von kompetitiven, extern begutachteten Drittmitteln als Hauptgesuchstellerin oder Hauptgesuchsteller sowie eine entsprechende Publikationstätigkeit in international anerkannten peer-reviewed Fachzeitschriften,
+
+- c. Nachweis über die bisherige wissenschaftliche Lehrtätigkeit während der letzten fünf Jahre sowie pädagogisch-didaktische Fähigkeiten (Lehrveranstaltungsbeurteilungen oder dergleichen),
+
+- d. Nachweis über die Nachwuchsförderung, z.B. Betreuung von Master- und PhD-Studierenden.
+
+<sup>3</sup> In besonderen Fällen kann von einzelnen Voraussetzungen abgesehen werden.
+
+#### § 7
+
+**Unterlagen**
+
+<sup>1</sup> Die Kandidatinnen und Kandidaten haben gemäss den für sie geltenden Voraussetzungen die folgenden Unterlagen einzureichen:
+
+- a. Darstellung des bisherigen und geplanten zukünftigen Beitrags in Forschung und Lehre im eigenen Fachgebiet (4500–5000 Wörter) mit Angabe der entsprechenden Referenzen,
+
+- b. Curriculum vitae, mit Angaben zu allfälligen Preisen und Auszeichnungen,
+
+- c. Publikationsliste,
+
+- d. Aufstellung der eingeworbenen Drittmittel (aufgeschlüsselt nach Haupt- und Mitgesuchstellung),
+
+- e. Nachweis über eine erfolgreiche Lehrtätigkeit sowie Angaben zu betreuten Bachelor- oder Masterarbeiten und Dissertationen,
+
+- f. Doktoratsurkunde,
+
+- g. Erklärung, ob bereits ein anderes Ernennungs- oder Berufungsverfahren an der UZH oder einer anderen Hochschule eröffnet wurde,
+
+- h. Nachweis und Erläuterung der Verbindung zur UZH,
+
+- i. Liste der vorgeschlagenen Gutachterinnen und Gutachter.
+
+<sup>2</sup> Zu beachten sind auch weitere Informationen, die auf der Webseite der Mathematisch-naturwissenschaftlichen Fakultät publiziert sind.
+
+<sup>3</sup> Formal ungenügende Gesuche werden zurückgewiesen.
+
+#### § 8
+
+**Eröffnung des Verfahrens**
+
+<sup>1</sup> Jedes Fakultätsmitglied kann mit Zustimmung der zu ernennenden Person der Dekanin oder dem Dekan der Mathematisch-naturwissenschaftlichen Fakultät Antrag auf Eröffnung eines Verfahrens auf Verleihung einer Titularprofessur stellen.
+
+<sup>2</sup> Der zuständige Fachbereich prüft die formalen Voraussetzungen gemäss §§ 6 und 7 und erstellt ein Dossier. Er nimmt zuhanden der Dekanin oder des Dekans zum Antrag und insbesondere zur geplanten Forschungs- und Lehrtätigkeit der Kandidatin oder des Kandidaten schriftlich Stellung.
+
+<sup>3</sup> Der Fakultätsvorstand beschliesst über die Eröffnung oder die Nichteröffnung des Verfahrens.
+
+#### § 9
+
+**Ernennungskommission Titularprofessur**
+
+<sup>1</sup> Die Fakultätsversammlung setzt die Ernennungskommission Titularprofessur (Kommission) ein.
+
+<sup>2</sup> Die Kommission setzt sich zusammen aus:
+
+- a. je einer Vertretung aus jedem Fachbereich,
+
+- b. einer weiteren Vertretung, die der betroffene Fachbereich entsenden kann,
+
+**3**
+
+1.10. 21 - 114 c. zusätzlich je einer Delegierten oder einem Delegierten aller Stände,
+
+- d. mindestens zwei weiteren Mitgliedern, die nicht der UZH angehören.
+
+<sup>3</sup> Ein Mitglied des Fakultätsvorstands leitet die Ernennungskommission.
+
+<sup>4</sup> Die Kommission lädt die Kandidatin oder den Kandidaten zu einem Vorstellungsgespräch ein, worin sie oder er ihre oder seine Forschungsschwerpunkte und Zukunftspläne darlegt.
 
 #### § 10
 
-Die Anschaffungen dauernden Charakters, die aus den Zinsen des Legates gemacht wurden, verbleiben Eigentum der Universität Zürich. Sie sind als «Erwerbung aus dem Meyer-Keyser-Legat» zu bezeichnen und im Inventar fortzuführen.
+**Begutachtung**
+
+<sup>1</sup> Die Kommission bezeichnet mindestens drei Gutachterinnen und Gutachter aus dem Forschungsbereich der zu ernennenden Person. Die Gutachterinnen und Gutachter sind nicht Mitglieder der Kommission.
+
+<sup>2</sup> Höchstens zwei der beauftragten Gutachterinnen und Gutachter dürfen aus der eingereichten Liste der Kandidatin oder des Kandidaten stammen.
+
+<sup>3</sup> Die Gutachterinnen und Gutachter dürfen nicht der UZH angehören.
 
 #### § 11
 
-Der Fonds wird geäufnet:
+**Entscheid nach Begutachtung**
 
-- a. Aus den Überschüssen der Zinsen, die nicht zur Verteilung kommen,
+<sup>1</sup> Die Kommission entscheidet gestützt auf die Gutachten über die Fortsetzung des Verfahrens.
 
-- b. aus Beträgen, auf deren Verwendung von den beitragsberechtigten Dozenten verzichtet worden ist,
-
-- c. aus Schenkungen.
+<sup>2</sup> Die oder der Vorsitzende teilt der Kandidatin oder dem Kandidaten den Entscheid schriftlich mit. Ein ablehnender Entscheid beendet das Verfahren.
 
 #### § 12
 
-Dieses Regulativ tritt auf 1. Januar 1917 in Kraft.
+**Mündliche Leistung**
+
+<sup>1</sup> Die Überprüfung der mündlichen Leistung erfolgt in der Form eines Probevortrags.
+
+<sup>2</sup> Der Probevortrag findet in der Regel innerhalb der Fakultät und unter Teilnahme der Kommissionsmitglieder auf Einladung der Dekanin oder des Dekans statt. Er dauert in der Regel 20 Minuten. Der Probevortrag behandelt ein Thema ausserhalb des eigenen Forschungsgebiets.
+
+<sup>3</sup> Die Kandidatin oder der Kandidat soll ein abgegrenztes Thema auf wissenschaftlichem Niveau verständlich darlegen und ihre oder seine didaktischen Fähigkeiten unter Beweis stellen.
+
+<sup>4</sup> Verlauf und Ergebnis der gesamten mündlichen Leistung werden in einem Protokoll zusammengefasst.
+
+<sup>5</sup> Bei an der Mathematisch-naturwissenschaftlichen Fakultät habilitierten Personen wird auf die mündliche Leistung verzichtet.
+
+#### § 13
+
+**Entscheid**
+
+<sup>1</sup> Die Kommission entscheidet über Annahme oder Ablehnung der mündlichen Leistung. Die oder der Vorsitzende teilt den Entscheid der Kandidatin oder dem Kandidaten schriftlich mit. Ein ablehnender Entscheid beendet das Verfahren.
+
+<sup>2</sup> Nimmt die Kommission die mündliche Leistung an und sind die übrigen Voraussetzungen für die Ernennung zur Titularprofessorin oder zum Titularprofessor erfüllt, nimmt sie zuhanden der Fakultätsversammlung schriftlich zum Antrag auf Ernennung Stellung.
+
+#### § 14
+
+**Fakultätsantrag an die Erweiterte Universitätsleitung**
+
+Die Fakultätsversammlung beschliesst gestützt auf die Stellungnahme der Kommission über den Antrag auf Ernennung zur Titularprofessorin oder zum Titularprofessor zuhanden der Erweiterten Universitätsleitung, unter Mitteilung an die Kandidatin oder den Kandidaten.
+
+#### § 15
+
+**Antrittsvorlesung**
+
+Die Titularprofessorin oder der Titularprofessor kann innerhalb eines Jahres nach der Ernennung eine öffentliche Antrittsvorlesung halten, sofern sie oder er noch keine Antrittsvorlesung an der UZH gehalten hat.
+
+### D. Verlängerung und Umschreibung
+
+#### § 16
+
+**Grundsatz**
+
+Die Titularprofessur kann um jeweils höchstens sechs Jahre verlängert werden, sofern die Titularprofessorin oder der Titularprofessor ihr oder sein Fachgebiet weiterhin durch besondere Leistungen gefördert hat und die Verlängerung auch im Interesse der UZH liegt.
+
+#### § 17
+
+**Verfahren**
+
+<sup>1</sup> Spätestens zu Beginn des sechsten Jahres der Titularprofessur kann die Titularprofessorin oder der Titularprofessor einen begründeten Antrag auf Verlängerung um höchstens sechs Jahre bei der Dekanin oder dem Dekan einreichen.
+
+<sup>2</sup> Der zuständige Fachbereich prüft die Voraussetzungen und die Unterlagen im Sinne von §§ 6 und 7 und nimmt zuhanden des Fakultätsausschusses schriftlich zum Antrag auf Verlängerung der Titularprofessur Stellung.
+
+<sup>3</sup> Der Fakultätsausschuss beurteilt die Voraussetzungen für die Verlängerung der Titularprofessur anhand der gesamten Unterlagen.
+
+#### § 18
+
+**Entscheid des Fakultätsausschusses**
+
+<sup>1</sup> Der Fakultätsausschuss beschliesst zuhanden der Erweiterten Universitätsleitung über die Verlängerung der Titularprofessur.
+
+<sup>2</sup> Er entscheidet abschliessend über die Nichtverlängerung.
+
+**5**
+
+1.10. 21 - 114
+
+<sup>3</sup> Der Beschluss des Fakultätsausschusses wird der Titularprofessorin oder dem Titularprofessor schriftlich mitgeteilt.
+
+<sup>4</sup> Der Fakultätsausschuss informiert die Fakultätsversammlung darüber.
+
+#### § 19
+
+**Umschreibung einer Titularprofessur einer anderen Universität**
+
+<sup>1</sup> Personen, die bereits an einer anderen Hochschule im Rahmen eines gleichwertigen Verfahrens eine Titularprofessur erhalten haben, können bei der Dekanin oder dem Dekan beantragen, diese umschreiben zu lassen.
+
+<sup>2</sup> Der zuständige Fachbereich prüft die Voraussetzungen und die Unterlagen gemäss §§ 6 und 7. Er nimmt schriftlich zum Antrag und insbesondere zur geplanten Forschungs- und Lehrtätigkeit der Kandidatin oder des Kandidaten zuhanden des Fakultätsausschusses Stellung.
+
+<sup>3</sup> Auf die mündliche Leistung kann verzichtet werden.
+
+<sup>4</sup> Der Fakultätsausschuss stellt anhand des Dossiers Antrag an die Fakultätsversammlung auf Umschreibung der Titularprofessur. In Zweifelsfällen kann er eine Ernennungskommission einsetzen. Lehnt entweder der Fakultätsausschuss oder die Ernennungskommission eine Umschreibung ab, entscheidet das jeweilige Gremium abschliessend.
+
+<sup>5</sup> Die Fakultätsversammlung beschliesst auf Antrag des Fakultätsausschusses oder der Ernennungskommission über die Ernennung bzw. Umschreibung zur Titularprofessorin oder zum Titularprofessor zuhanden der Erweiterten Universitätsleitung.
+
+### E. Entzug der Titularprofessur
+
+[^hEEntzugderTitula-1]: LS 415.27. 1.10. 21 - 114 7
+
+#### § 20
+
+**Verfahren**
+
+<sup>1</sup> Das Verfahren auf Entzug der Titularprofessur richtet sich nach der Verordnung über den Umgang mit wissenschaftlichem Fehlverhalten an der Universität Zürich vom 25. Mai 2020 (Integritätsverordnung)[^hEEntzugderTitula-1].
+
+<sup>2</sup> Bei anderweitigen ernsthaften Verletzungen der Interessen der UZH gelten §§ 17 und 18 RVO TP.
+
+### F. Schlussbestimmungen
+
+#### § 21
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Die Bestimmungen dieser Verordnung gelten für diejenigen Verfahren, die nach dem Inkrafttreten dieser Verordnung eröffnet werden.
+
+<sup>2</sup> Für die bisherigen Titularprofessorinnen und Titularprofessoren gilt § 84 a Abs. 3 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)[^21-1].
+
+[^21-1]: LS 415.111.
+
+#### § 22
+
+**Inkrafttreten**
+
+Diese Verordnung tritt am 1. Oktober 2021 in Kraft.
