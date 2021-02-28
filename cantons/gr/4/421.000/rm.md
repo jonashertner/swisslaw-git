@@ -4,13 +4,13 @@ number: "421.000"
 title: Lescha davart las scolas popularas dal chantun Grischun
 short: lescha da scola
 language: rm
-version: 2016-01-01
-corrected: 2018-10-24
-version_adopted: 2014-11-18
+version: 2021-03-01
+valid_until: 2024-12-31
+version_adopted: 2020-10-19
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2533/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3336/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2533/pdf_file"
 
 (lescha da scola)
 
-dals 21-03-2012 (versiun dals 01-01-2016)
+dals 21-03-2012 (versiun dals 01-03-2021)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -578,7 +578,7 @@ concluda:
 
 <sup>2</sup> Sche las relaziuns sa midan en moda essenziala, po il departament revocar la retratga.
 
-<sup>3</sup> Il departament communitgescha al secretariat general da la conferenza svizra da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
+<sup>3</sup> Il departament communitgescha al secretariat general da la Conferenza da las directuras e dals directurs chantunals da l'educaziun publica (CDEP) la retratga e la reconcessiun da la permissiun d'instruir.
 
 #### Art. 59
 
@@ -664,7 +664,7 @@ concluda:
 - b) stgalim primar:
   - 1\. persunas d'instrucziun da la scola primara e persunas d'instrucziun spezialisadas: fr. 72 000
   - 2\. persunas d'instrucziun che han in diplom en pedagogia speziala: fr. 79 000
-- c) secundar I:
+- c) stgalim secundar I:
   - 1\. persunas d'instrucziun da la scola reala e da la scola secundara e persunas d'instrucziun che han in diplom en pedagogia speziala: fr. 88 000
   - 2\. persunas d'instrucziun spezialisadas cun in u cun dapli che in rom respectivamain cun in u cun dapli che in sectur spezial: fr. 82 000
 
@@ -741,7 +741,7 @@ concluda:
   - 1\. scola reala: — fr. 1460
   - 2\. scola secundara: — fr. 1380
 
-<sup>3</sup> Las pauschalas vegnan cumplettadas cun contribuziuns annualas da la gulivaziun da las grevezzas geografic-topograficas e da scola sin basa dal dumber da la quota da scolaras e scolars tenor l'artitgel 7 alinea 5 da la lescha davart la gulivaziun da finanzas.
+<sup>3</sup> …
 
 #### Art. 73
 

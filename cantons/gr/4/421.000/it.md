@@ -4,13 +4,13 @@ number: "421.000"
 title: Legge per le scuole popolari del Cantone dei Grigioni
 short: Legge scolastica
 language: it
-version: 2016-01-01
-corrected: 2018-10-24
-version_adopted: 2014-11-18
+version: 2021-03-01
+valid_until: 2024-12-31
+version_adopted: 2020-10-19
 adopted: 2012-03-21
 in_force: 2013-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/421.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2533/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3336/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2533/pdf_file"
 
 (Legge scolastica)
 
-del 21.03.2012 (stato 01.01.2016)
+del 21.03.2012 (stato 01.03.2021)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -576,7 +576,7 @@ decide:
 
 <sup>2</sup> In caso di sostanziali cambiamenti della situazione, il Dipartimento può annullare la revoca.
 
-<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza svizzera dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
+<sup>3</sup> Il Dipartimento comunica al Segretariato generale della Conferenza delle direttrici e dei direttori cantonali della pubblica educazione (CDPE) la revoca e la nuova concessione del diritto all'insegnamento.
 
 #### Art. 59
 
@@ -735,7 +735,7 @@ decide:
   - 1\. scuola di avviamento pratico — fr. 1 460
   - 2\. scuola secondaria — fr. 1 380
 
-<sup>3</sup> Le forfetarie vengono completate con contributi annuali dalla perequazione dell'aggravio geotopografico e degli oneri scolastici versati in base al parametro quota degli allievi conformemente all'articolo 7 capoverso 5 della legge sulla perequazione finanziaria.
+<sup>3</sup> …
 
 #### Art. 73
 
