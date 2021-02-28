@@ -4,13 +4,12 @@ number: "124.111"
 title: Verordnung über die Integration der ausländischen Bevölkerung
 short: "Integrationsverordnung, IntV"
 language: de
-version: 2015-01-01
-valid_until: 2021-02-28
-version_adopted: 2014-10-22
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2014-10-22
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/124.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/965/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2115/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/965/pdf_file"
 
 (Integrationsverordnung, IntV)
 
-vom 22.10.2014 (Stand 01.01.2015)
+vom 22.10.2014 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -52,14 +51,14 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der Gemeinde prüft das Vorliegen eines besonderen Informationsbedarfs im Rahmen eines Erstgesprächs.
 
-<sup>2</sup> Sie hält dazu in dem von der Gesundheits- und Fürsorgedirektion (GEF) herausgegebenen Formular folgende Angaben fest:
+<sup>2</sup> Sie hält dazu in dem von der Gesundheits-, Sozial- und Integrationsdirektion (GSI) herausgegebenen Formular folgende Angaben fest:
 
 - a vorhandene Sprachkenntnisse,
 - b Schul- und Berufsbildung,
 - c aktuelle oder beabsichtigte Erwerbstätigkeit,
 - d minderjährige Kinder.
 
-<sup>3</sup> Die GEF gibt Empfehlungen für die Gestaltung der Gespräche sowie für die Zuweisung der betroffenen Personen an eine Ansprechstelle für die Integration (Ansprechstelle) ab.
+<sup>3</sup> Die GSI gibt Empfehlungen für die Gestaltung der Gespräche sowie für die Zuweisung der betroffenen Personen an eine Ansprechstelle für die Integration (Ansprechstelle) ab.
 
 #### Art. 3
 
@@ -142,7 +141,7 @@ beschliesst:
 
 #### Art. 11
 
-<sup>1</sup> Die GEF stellt den Arbeitgeberinnen und Arbeitgebern in Zusammenarbeit mit den Arbeitgeberverbänden die erforderlichen Dokumentationen für die Information der ausländischen Arbeitnehmerinnen und Arbeitnehmer zur Verfügung.
+<sup>1</sup> Die GSI stellt den Arbeitgeberinnen und Arbeitgebern in Zusammenarbeit mit den Arbeitgeberverbänden die erforderlichen Dokumentationen für die Information der ausländischen Arbeitnehmerinnen und Arbeitnehmer zur Verfügung.
 
 ## 4 Integrationskommission
 
@@ -152,7 +151,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonale Kommission für die Integration der ausländischen Bevölkerung (Integrationskommission) ist ein beratendes Organ und dient der Entwicklung und Umsetzung der Integrationspolitik des Kantons.
 
-<sup>2</sup> Sie ist der GEF zugeordnet.
+<sup>2</sup> Sie ist der GSI zugeordnet.
 
 #### Art. 13
 
@@ -169,9 +168,9 @@ beschliesst:
 
 <sup>3</sup> Bei der Ernennung werden Fachkenntnisse und eine angemessene Vertretung der Regionen und Sprachgebiete sowie beider Geschlechter berücksichtigt.
 
-<sup>4</sup> Der Regierungsrat ernennt die Kommissionsmitglieder auf Antrag der GEF für eine Amtsdauer von vier Jahren.
+<sup>4</sup> Der Regierungsrat ernennt die Kommissionsmitglieder auf Antrag der GSI für eine Amtsdauer von vier Jahren.
 
-<sup>5</sup> Die Gesundheits- und Fürsorgedirektorin oder der Gesundheits- und Fürsorgedirektor sowie die Vorsteherin oder der Vorsteher des kantonalen Sozialamtes sind von Amtes wegen Mitglieder der Integrationskommission.
+<sup>5</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor sowie die Vorsteherin oder der Vorsteher des kantonalen Amts für Integration und Soziales sind von Amtes wegen Mitglieder der Integrationskommission.
 
 <sup>6</sup> Die Integrationskommission kann Vertreterinnen oder Vertreter anderer Direktionen oder der Staatskanzlei sowie weitere Fachleute zu ihren Sitzungen einladen.
 
@@ -179,7 +178,7 @@ beschliesst:
 
 **Präsidium, Ausschuss**
 
-<sup>1</sup> Die Integrationskommission wird von der Gesundheits- und Fürsorgedirektorin oder dem Gesundheits- und Fürsorgedirektor präsidiert.
+<sup>1</sup> Die Integrationskommission wird von der Gesundheits-, Sozial- und Integrationsdirektorin oder vom Gesundheits-, Sozial- und Integrationsdirektor präsidiert.
 
 <sup>2</sup> Sie bildet einen geschäftsleitenden Ausschuss von fünf Mitgliedern unter dem Vorsitz ihrer Präsidentin oder ihres Präsidenten.
 
@@ -194,7 +193,7 @@ beschliesst:
 <sup>1</sup> Die Integrationskommission
 
 - a berät den Regierungsrat und die Verwaltung sowie die Gemeinden in Integrationsfragen,
-- b ermöglicht den Kontakt und den Informationsaustausch zwischen dem kantonalen Sozialamt und den verschiedenen Organisationen und Institutionen, die sich mit Integrationsfragen befassen,
+- b ermöglicht den Kontakt und den Informationsaustausch zwischen dem kantonalen Amt für Integration und Soziales und den verschiedenen Organisationen und Institutionen, die sich mit Integrationsfragen befassen,
 - c klärt die Bedürfnisse im Bereich Integration ab und informiert den Regierungsrat und die Verwaltung darüber,
 - d informiert regelmässig die Öffentlichkeit über ihre Tätigkeit.
 
@@ -213,13 +212,13 @@ beschliesst:
 
 **Reglement**
 
-<sup>1</sup> Die GEF kann für die weitere Organisation und den Geschäftsgang ein Reglement erlassen.
+<sup>1</sup> Die GSI kann für die weitere Organisation und den Geschäftsgang ein Reglement erlassen.
 
 #### Art. 18
 
 **Sekretariat**
 
-<sup>1</sup> Das kantonale Sozialamt führt das Sekretariat der Integrationskommission.
+<sup>1</sup> Das kantonale Amt für Integration und Soziales führt das Sekretariat der Integrationskommission.
 
 #### Art. 19
 

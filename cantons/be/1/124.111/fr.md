@@ -4,13 +4,12 @@ number: "124.111"
 title: "Ordonnance sur l'intégration de la population étrangère"
 short: "Ordonnance sur l’intégration, OInt"
 language: fr
-version: 2015-01-01
-valid_until: 2021-02-28
-version_adopted: 2014-10-22
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2014-10-22
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/124.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/965/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2115/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/965/pdf_file"
 
 (Ordonnance sur l’intégration, OInt)
 
-du 22.10.2014 (état au 01.01.2015)
+du 22.10.2014 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -52,14 +51,14 @@ arrête:
 
 <sup>1</sup> Le service compétent de la commune établit au cours du premier entretien personnel si ces personnes présentent des besoins particuliers d’information.
 
-<sup>2</sup> A cet effet, il consigne les indications suivantes dans le formulaire édité par la Direction de la santé publique et de la prévoyance sociale:
+<sup>2</sup> A cet effet, il consigne les indications suivantes dans le formulaire édité par la Direction de la santé, des affaires sociales et de l’intégration:
 
 - a connaissances linguistiques,
 - b formation scolaire et professionnelle,
 - c activité lucrative actuelle ou prévue,
 - d enfants mineurs.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale émet des recommandations relatives à la conduite de l’entretien et à l’envoi des personnes concernées à une antenne d’intégration.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration émet des recommandations relatives à la conduite de l’entretien et à l’envoi des personnes concernées à une antenne d’intégration.
 
 #### Art. 3
 
@@ -142,7 +141,7 @@ arrête:
 
 #### Art. 11
 
-<sup>1</sup> En collaboration avec les associations d’employeurs, la Direction de la santé publique et de la prévoyance sociale met à la disposition de ces derniers la documentation nécessaire à l’information des personnes étrangères.
+<sup>1</sup> En collaboration avec les associations d’employeurs, la Direction de la santé, des affaires sociales et de l’intégration met à la disposition de ces derniers la documentation nécessaire à l’information des personnes étrangères.
 
 ## 4 Commission de l’intégration
 
@@ -152,7 +151,7 @@ arrête:
 
 <sup>1</sup> La Commission cantonale pour l’intégration de la population étrangère (Commission de l’intégration) est un organe consultatif qui contribue au développement et à la mise en oeuvre de la politique du canton en matière d’intégration.
 
-<sup>2</sup> Elle est rattachée à la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Elle est rattachée à la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 13
 
@@ -169,9 +168,9 @@ arrête:
 
 <sup>3</sup> Sont prises en compte lors du choix des membres leurs compétences spécifiques. Il faut en outre veiller à une représentation équitable des régions géographiques et linguistiques ainsi que des deux sexes.
 
-<sup>4</sup> Les membres de la Commission sont nommés par le Conseilexécutif pour une durée de quatre ans, sur proposition de la Direction de la santé publique et de la prévoyance sociale.
+<sup>4</sup> Les membres de la Commission sont nommés par le Conseil exécutif pour une durée de quatre ans, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
 
-<sup>5</sup> Le directeur ou la directrice de la santé publique et de la prévoyance sociale et le chef ou la cheffe de l’Office des affaires sociales sont membres d’office de la Commission.
+<sup>5</sup> Le directeur ou la directrice de la santé, des affaires sociales et de l’intégration et le chef ou la cheffe de l’Office de l’intégration et de l’action sociale sont membres d’office de la Commission.
 
 <sup>6</sup> La Commission d’intégration peut inviter à ses séances des représentants ou des représentantes d’autres Directions ou de la Chancellerie d’Etat ainsi que des spécialistes.
 
@@ -179,7 +178,7 @@ arrête:
 
 **Présidence, comité directeur**
 
-<sup>1</sup> La Commission de l’intégration est présidée par le directeur ou la directrice de la santé publique et de la prévoyance sociale.
+<sup>1</sup> La Commission de l’intégration est présidée par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration sociale.
 
 <sup>2</sup> Elle désigne un comité directeur de cinq membres que dirige le président ou la présidente.
 
@@ -194,7 +193,7 @@ arrête:
 <sup>1</sup> La Commission de l’intégration
 
 - a conseille le Conseil-exécutif, l’administration cantonale et les communes sur les questions d’intégration;
-- b favorise le contact et l’échange d’informations entre l’Office des affaires sociales et les différentes organisations et institutions actives dans le domaine de l’intégration;
+- b favorise le contact et l’échange d’informations entre l’Office de l’intégration et de l’action sociale et les différentes organisations et institutions actives dans le domaine de l’intégration;
 - c étudie les besoins en matière d’intégration et en instruit le Conseilexécutif ainsi que l’administration cantonale;
 - d informe régulièrement le public de ses activités.
 
@@ -213,13 +212,13 @@ arrête:
 
 **Règlement**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut édicter un règlement portant sur l’organisation et la marche des affaires.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut édicter un règlement portant sur l’organisation et la marche des affaires.
 
 #### Art. 18
 
 **Secrétariat**
 
-<sup>1</sup> L’Office des affaires sociales assure le secrétariat de la Commission de l’intégration.
+<sup>1</sup> L’Office de l’intégration et de l’action sociale assure le secrétariat de la Commission de l’intégration.
 
 #### Art. 19
 
