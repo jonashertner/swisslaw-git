@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2020-03-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-05
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-05-06
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/4897/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4897/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.03.2020)
+Vom 08.03.2016 (Stand 01.03.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -726,9 +726,16 @@ beschliesst:
 
 #### § 64
 
-**Verfügungen**
+**Verfügungen, Vorladungen und Vorführungen**
 
 <sup>1</sup> Die Gebühren für die Zustellung von Verwaltungsverfügungen betragen 100 Franken.
+
+<sup>2</sup> Die Zustellung der ersten Vorladung ist gebührenfrei. Die Gebühr für die Zustellung der zweiten Vorladung an dieselbe Person und in derselben Sache beträgt 50 Franken, ausser die vorgeladene Person konnte der ersten Vorladung aus hinreichenden Gründen nicht nachkommen.
+
+<sup>3</sup> Die Gebühren für Vorführungen setzen sich zusammen aus:
+
+- a) der Gebühr nach § 66 Absatz 1 und
+- b) den Personalkosten gemäss Weisung des Regierungsrates über den Vollzug des Gebührentarifs.
 
 #### § 65
 
@@ -749,11 +756,11 @@ beschliesst:
 
 #### § 67
 
-**Polizeiboote**
+**Polizeiboote und unbemannte Luftfahrzeuge**
 
 <sup>1</sup> Es sind folgende Gebühren geschuldet:
 
-- a) Verwendung eines Polizeibootes, pro Stunde — 100
+- a) Verwendung eines Polizeibootes oder eines unbemannten Luftfahrzeuges, pro Stunde — 100
 - b) Personalkosten gemäss Weisung des Regierungsrates über den Vollzug des Gebührentarifs
 
 #### § 68
@@ -775,6 +782,16 @@ beschliesst:
 <sup>2</sup> Kostenersatz wird insbesondere verlangt vom Veranstalter von Anlässen, die einen aufwendigen, ausserordentlichen Polizeieinsatz erforderlich machen. Kostenersatz kann auch verlangt werden vom Verursacher ausserordentlicher Aufwendungen, die bei einem anderen Polizeieinsatz entstehen, namentlich wenn er vorsätzlich oder grobfahrlässig verursacht worden ist oder wenn er in überwiegend privatem oder kommerziellem Interesse erfolgt ist.
 
 <sup>3</sup> Das Departement kann auf den Kostenersatz ganz oder teilweise verzichten bei Veranstaltungen, die teilweise im öffentlichen Interesse liegen oder einem ideellen Zweck dienen, sowie bei Anlässen, die keinen oder nur einen geringen Gewinn abwerfen.
+
+#### § 69bis
+
+**Polizeiliche Leistungen bei Veranstaltungen mit Gewaltausübung**
+
+<sup>1</sup> Bei Veranstaltungen, bei denen Gewalt an Personen oder Sachen verübt wurde, können dem Veranstalter und der an der Gewaltausübung beteiligten Person zusätzlich zum Kostenersatz nach § 69 die Kosten des Polizeieinsatzes ab Beginn der Gewaltausübung in Rechnung gestellt werden.
+
+<sup>2</sup> Der Veranstalter wird nur kostenpflichtig, wenn er nicht über die erforderliche Bewilligung verfügt oder wenn er Bewilligungsauflagen vorsätzlich oder grobfahrlässig nicht eingehalten hat. Der von ihm zu tragende Kostenanteil richtet sich nach Massgabe seiner Einhaltung der Bewilligungsauflagen. Die Kosten nach Absatz 1 dürfen höchstens zu 40 Prozent dem Veranstalter auferlegt werden. Seine Kostenpflicht beträgt höchstens 10'000 Franken, in besonders schweren Fällen höchstens 30'000 Franken.
+
+<sup>3</sup> Der Kostenanteil der an der Gewaltausübung beteiligten Person richtet sich nach Massgabe ihrer individuellen Verantwortung für den Polizeieinsatz nach Absatz 1 und nach ihrem individuellen Tatbeitrag an der Gewaltausübung. Die Kosten nach Absatz 1 dürfen ihr höchstens zu 60 Prozent auferlegt werden. Für die maximale Kostenpflicht gilt Absatz 2 letzter Satz sinngemäss.
 
 #### § 70
 
@@ -813,6 +830,12 @@ beschliesst:
 <sup>4</sup> Wurde die Ordnungsbusse aufgrund eines Fehlers der Polizei des Kantons Solothurn überzahlt, erfolgt die Rückerstattung des zu viel bezahlten Betrages vollumfänglich und gebührenfrei.
 
 [^73-1]: SR [741.031](https://db.clex.ch/link/Bund/741.031/de).
+
+#### § 73bis
+
+**Kostenersatz für Leistungen beigezogener Dritter**
+
+<sup>1</sup> Ist für die Aufgabenerfüllung der Polizei der Beizug einer Drittperson zwingend nötig, ist die Verursacherin oder der Verursacher zum vollen Kostenersatz für die erbrachten Leistungen verpflichtet.
 
 ### 2.2.13. Raumplanung
 
