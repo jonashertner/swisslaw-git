@@ -1,138 +1,162 @@
 ---
 canton: GL
 number: IV G/5/3
-title: Beschluss über den Schutz des Feucht- und Trockenbiotops «Feldbach» Mollis
+title: Beschluss über den Schutz des Amphibienlaichgebietes «Feldbach» Mollis
 short: Schutzbeschluss Feldbach
 language: de
-version: 2006-05-07
-valid_until: 2021-02-28
-version_adopted: 2006-03-21
+version: 2021-03-01
+version_adopted: 2020-11-24
 adopted: 2020-11-24
 in_force: 2021-03-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/IV-G.5.3"
-pdf: "https://gesetze.gl.ch/api/de/versions/959/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über den Schutz des Feucht- und Trockenbiotops «Feldbach» Mollis
+# Beschluss über den Schutz des Amphibienlaichgebietes «Feldbach» Mollis
 
-Vom 13.10.1981 (Stand 07.05.2006)
+(Schutzbeschluss Feldbach)
+
+Vom 24.11.2020 (Stand 01.03.2021)
 
 Der Regierungsrat,
 
-gestützt auf Artikel 11 des Gesetzes vom 2. Mai 1971 über den Natur- und Heimatschutz[^ingress-1],
+gestützt auf Artikel 11 des Gesetzes über den Natur- und Heimatschutz[^ingress-1], Artikel 18a Absatz 2 des Bundesgesetzes über den Natur- und Heimatschutz[^ingress-2] und Artikel 5–8 der Amphibienlaichgebiete-Verordnung[^ingress-3],
 
-beschliesst:
+erlässt:
 
 [^ingress-1]: GS [IV G/1/1](https://gesetze.gl.ch/data/IV-G.1.1/de)
+[^ingress-2]: SR 451
+[^ingress-3]: SR 451.34
 
 #### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Um das bestehende und gemäss Projekt der Stiftung «Pro Mollis» von 1980 noch auszubauende Feucht- und Trockenbiotop im «Feldbach» in der natürlichen Eigenart und Schönheit als Landschafts-, Pflanzen- und Tierschutzgebiet sowie als Erholungslandschaft zu erhalten, wird das nachfolgend umschriebene, in der Gemeinde Mollis liegende Gebiet gemäss den in diesem Beschluss festgelegten Bestimmungen geschützt:
+<sup>1</sup> Das Schutzgebiet Feldbach umfasst das im Schutzzonenplan bezeichnete Gebiet.
 
-- a. Westgrenze: Kantonsstrasse (exkl.) Mollis–Netstal;
-- b. Südgrenze: Nördlicher Hangfuss des dortigen Hügels;
-- c. Ostgrenze: Waldrand östlich des Strässchens;
-- d. Nordgrenze: asphaltierte Zufahrtsstrasse und Abstellplätze (exkl.).
+<sup>2</sup> Es werden folgende Zonen ausgeschieden:
 
-<sup>2</sup> Das Gebiet umfasst folgende Parzellen:
+- a. Zone 1: Kernzone;
+- b. Zone 2: Umgebungszone.
 
-- a. Gemeinde Mollis Parz. Nr. 1334 (bewässertes Streueland);
-- b. Eidg. Militärdepartement, Teile der Parz. Nrn. 1198 und 957 (Feucht- und Trockengebiete, Wasserflächen, Wiesland, Fahrweg).
-
-<sup>3</sup> Das Schutzgebiet wird in zwei Zonen eingeteilt:
-
-- a. Zone I: Feucht- und Trockengebiet;
-- b. Zone II: Wiesland (70 m langer und 25 m breiter Streifen an der Südgrenze des Schutzgebietes und schmaler Streifen zwischen Weg und Waldrand an der Ostgrenze).
-
-<sup>4</sup> Das Schutzgebiet ist im Gelände mit Tafeln bezeichnet. Die Grenzen der Zonen sind auf dem zu diesen Bestimmungen gehörenden Plan 1:1000 dargestellt.
+<sup>3</sup> Die einzelnen Zonen sind im Schutzzonenplan dargestellt und abgegrenzt.
 
 #### Art. 2
 
-**Allgemeine Vorschriften für das ganze Schutzgebiet**
+**Ziele**
 
-<sup>1</sup> Im ganzen Gebiet sind alle Vorkehrungen und Einrichtungen, die im Landschaftsbild störend in Erscheinung treten oder Pflanzen, Tiere und Gewässer schädigen, gefährden oder stören, verboten.
+<sup>1</sup> Das Schutzgebiet soll als Biotop sowie als bedeutendes Element der Landschaft ungeschmälert erhalten bleiben.
 
-<sup>2</sup> Insbesondere sind verboten:
+<sup>2</sup> Die im Gebiet vorkommenden wildlebenden Pflanzen, Tiere und Pilze sollen vor Schädigung, Gefährdung oder Störung bewahrt werden.
 
-- a. das Errichten von Bauten aller Art, von Mauern, Einfriedungen, Reklamevorrichtungen, Freileitungen, Parkplätzen und dergleichen; wenn keine andere Möglichkeiten bestehen, ist das Erstellen elektrischer Einrichtungen längs der Kantonsstrasse im Grenzbereich des Biotops mit den Dienstbarkeitsberechtigten vorgängig abzusprechen;
-- b. das Zelten, Campieren und Feuern;
-- c. Abgraben, Ablagerungen und Terrainveränderungen aller Art;
-- d. das Pflücken, Ausgraben und Beseitigen von Pflanzen aller Art (Kleinpflanzen, Sträucher, Bäume usw.) sowie das Fangen oder Stören der Tiere und ihrer Gelege;
-- e. das Baden in den Gewässern und das Befahren derselben mit Booten aller Art;
-- f. das Anbringen von Hartbelägen auf den Wegen;
-- g. das Ausüben der Jagd und der Fischerei, ausgenommen jagdliche Massnahmen im Zusammenhang mit der Nachsuche von waidwundem Wild;
-- h. die Verwendung von Pestiziden und Düngern;
-- i. Aufforstungen;
-- k. das Einsetzen fremder und nicht standortgemässer Pflanzen und Tiere.
-
-<sup>3</sup> Das Entfernen, Versetzen und Neuanpflanzen von Bäumen und Sträuchern und Pflanzen jeglicher Art bedarf einer Bewilligung der Abteilung Umweltschutz und Energie (Abteilung).
-
-<sup>4</sup> Das Schutzgebiet darf nur auf den bestehenden, markierten Wegen betreten werden. Sofern Eislauf betrieben werden soll, sind geeignete Flächen auf Parzelle Nr. 1334 (in Nachachtung des Gemeindeversammlungsbeschlusses vom 19. Dezember 1962) in Zusammenarbeit mit den Dienstbarkeitsberechtigten auszuscheiden. Für diesen Fall ist eine provisorische Umzäunung zu erstellen und die Einhaltung der Schutzvorschriften speziell zu überwachen.
-
-<sup>5</sup> Auf dem Strässchen längs der östlichen Grenze gilt das allgemeine Fahrverbot, ausgenommen für die Bedürfnisse der Waldwirtschaft und des Militärs.
-
-<sup>6</sup> Das Schutzgebiet ist im Sinne des Schutzzieles nach den Weisungen der Abteilung durch die Stiftung «Pro Mollis» zu hegen.
+<sup>3</sup> Die Amphibienvorkommen im Schutzgebiet sollen gesichert und ihr Lebensraum bei sich bietenden Gelegenheiten im Sinne des Bundesrechts verbessert werden.
 
 #### Art. 3
 
-**Besondere Vorschriften für die Zone I**
+**Bestimmungen für das ganze Gebiet**
 
-<sup>1</sup> Die Zone I umfasst die eigentlichen Feucht- und Trockengebiete und die Teiche.
+<sup>1</sup> Im ganzen Schutzgebiet sind alle Nutzungen, Vorkehrungen und Einrichtungen, die im Landschaftsbild nachteilig in Erscheinung treten oder Pflanzen, Tiere oder Pilze gefährden oder stören verboten.
 
-<sup>2</sup> Die Schilf- und Seggenbestände sind wie bis anhin jährlich einmal zwischen dem 15. September und 15. März zu schneiden. Eine Verlandung und Verbuschung derselben ist zu vermeiden. Das Schnittgut ist abzuführen. Entwässerungen sind untersagt.
+<sup>2</sup> Insbesondere sind verboten:
 
-<sup>3</sup> Im nördlichen Teil, d. h. längs der dortigen Fahrpisten, ist die Bepflanzung derart niedrig zu halten, dass die darauf fahrenden Flugzeuge nicht gehindert werden (15 m Abstand längs Fahrbahn).
+- a. das Errichten von Bauten und Anlagen aller Art (Gebäude, Mauern, Reklamevorrichtungen, Antennen, Freileitungen und dergleichen), die nicht zwingend für die bestimmungsgemässe Nutzung des Gebietes notwendig sind oder ausserhalb des Schutzgebietes realisiert werden können;
+- b. das Entfachen von Feuern, das Lagern, Zelten und Campieren sowie das Überlassen von Standplätzen zum Aufstellen von Wohnwagen, Zelten und dergleichen;
+- c. Ablagerungen, Abgrabungen und Terrainveränderungen jeder Art;
+- d. das Ausbringen von Düngern und die Verwendung von Pestiziden jeglicher Art;
+- e. Ackerbau, Gartenbau sowie die Beweidung mit Nutz- oder Haustieren;
+- f. das Deponieren von Laub-, Garten- oder sonstigen Abfällen;
+- g. das Befahren, Betreten und Reiten abseits der markierten Wege;
+- h. das Aussetzen und Einbringen von Pflanzen, Tieren oder Pilzen;
+- i. das Pflücken, Sammeln, Ausgraben oder Zerstören von wildwachsenden Pflanzen oder Pilzen;
+- j. das Töten, Verletzen, Fangen oder Stören von Tieren sowie die Beschädigung, Zerstörung oder Entfernung ihrer Eier, Larven, Puppen, Nester oder Brutstätten;
+- k. das Ausüben der Jagd;
+- l. das Ausüben der Fischerei;
+- m. die Vornahme von Entwässerungen und das Einleiten von Abwässern oder belastetem Oberflächenwasser;
+- n. das Baden;
+- o. das Befahren der Gewässer mit Booten und Schwimmkörpern aller Art;
+- p. das Füttern von Tieren.
 
-<sup>4</sup> Die Teiche sind fischfrei zu halten.
+<sup>3</sup> Hunde sind im Schutzgebiet an der Leine zu führen.
 
 #### Art. 4
 
-**Besondere Vorschriften für die Zone II**
+**Besondere Vorschriften für die Zone 1 (Kernzone)**
 
-<sup>1</sup> Die Zone II umfasst das Wiesland am Süd- und Ostrand des Schutzgebietes.
-
-<sup>2</sup> Die landwirtschaftliche Nutzung ist unter Vorbehalt der Absätze 3 und 4 gestattet.
-
-<sup>3</sup> Die Düngung mit Natur- und Kunstdüngern sowie die Beweidung sind verboten.
-
-<sup>4</sup> Die Wiesen sind ein- bis zweimal jährlich und nicht vor Mitte Juni zu schneiden; das Gras bzw. das Heu ist abzuführen.
+<sup>1</sup> Die Gewässer sind soweit wie möglich fischfrei zu halten.
 
 #### Art. 5
 
-**Ausnahmen**
+**Besondere Vorschriften für die Zone 2 (Umgebungszone)**
 
-<sup>1</sup> Die Abteilung kann nach Anhören der Bodeneigentümer und der Stiftung «Pro Mollis» Ausnahmen von diesen Bestimmungen bewilligen, wenn öffentliche oder wissenschaftliche Interessen dies rechtfertigen.
+<sup>1</sup> Die Lagerung von Holz ist zulässig.
 
 #### Art. 6
 
-**Wiederherstellung, Strafbestimmung**
+**Ausnahmen**
 
-<sup>1</sup> Bei Übertretungen dieser Bestimmungen kann die Abteilung die Wiederherstellung des früheren Zustandes verlangen. Wird eine solche Anordnung nicht befolgt, so ist die Abteilung berechtigt, die notwendigen Massnahmen auf Kosten des Fehlbaren durchführen zu lassen.
+<sup>1</sup> Die Abteilung Umweltschutz und Energie kann Ausnahmen von diesen Bestimmungen bewilligen, wenn besondere Verhältnisse, insbesondere öffentliche Interessen, dies rechtfertigen, keine Beeinträchtigungen von Schutzzielen zu erwarten sind und übergeordnetes Recht dies zulässt.
 
-<sup>2</sup> Widerhandlungen gegen diese Bestimmungen werden gemäss Artikel 16 des Gesetzes über den Natur- und Heimatschutz bestraft; vorbehalten bleiben weitergehende Strafbestimmungen des eidgenössischen und kantonalen Rechtes.
+<sup>2</sup> Die Bewilligungen sind zu befristen, soweit es sich nicht um Bauten oder Anlagen handelt.
+
+<sup>3</sup> Eingriffe für den Hochwasserschutz, insbesondere die Freilegung verschütteter Gerinne und Sammler, sind zulässig. Soweit Biotope oder geschützte Arten betroffen sind, sind die Eingriffe schonend vorzunehmen beziehungsweise nach Möglichkeit wieder rückgängig zu machen.
+
+<sup>4</sup> Standortgebundene Tätigkeiten für die Bewirtschaftung des Waldes innerhalb und ausserhalb des Schutzgebietes, insbesondere das Befahren der Rückegassen und Wege, sowie die kurzfristige Lagerung von Holz sind zulässig. Voraussetzung ist, dass die Arbeiten innerhalb des Schutzgebietes gemäss dem Pflegeplan und ausserhalb davon gemäss den einschlägigen Vorgaben und Strategien für die Waldpflege und die Waldbewirtschaftung erfolgen.
+
+<sup>5</sup> Das Betreten und, soweit notwendig, das Befahren zum Zwecke der Pflege, des Unterhalts oder der Kontrolle ist zulässig durch:
+
+- a. die jeweiligen Bewirtschafterinnen und Bewirtschafter sowie die Grundeigentümerinnen und Grundeigentümer und ihre Beauftragten;
+- b. Organe des Bundes, des Kantons, der Gemeinden und ihre jeweiligen Beauftragten.
+
+<sup>6</sup> Der Unterhalt der militärischen Anlagen im Schutzgebiet sowie die Errichtung von Freifeldantennen durch die Armee auf den Unterständen im Schutzgebiet sind zulässig.
 
 #### Art. 7
 
-**Rechtsschutz**
+**Pflege, Unterhalt und Pflegeplan**
 
-<sup>1</sup> Der Rechtsschutz richtet sich nach dem Verwaltungsrechtspflegegesetz[^7-1].
+<sup>1</sup> Das Schutzgebiet ist fachgerecht zu unterhalten und zu pflegen. Die dafür erforderlichen Massnahmen sind von den Verboten gemäss Artikel 3 ausgenommen. Sie werden im Pflegeplan festgelegt.
 
-[^7-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+<sup>2</sup> Die Abteilung Umweltschutz und Energie beschliesst den Pflegeplan nach Anhörung der Grundeigentümerinnen und Grundeigentümer, der Gemeinde Glarus Nord, der interessierten Organisationen und kantonalen Fachstellen. Der Pflegeplan wird periodisch überprüft.
+
+<sup>3</sup> Die Abteilung Umweltschutz und Energie trägt die Kosten für die Massnahmen gemäss dem Pflegeplan, soweit sie nicht von Dritten finanziert werden.
 
 #### Art. 8
 
 **Vollzug**
 
-<sup>1</sup> Der Vollzug obliegt der Abteilung im Einvernehmen mit der Gemeinde Mollis. Für die Betreuungs- und Überwachungsfunktionen steht ihr die Stiftung «Pro Mollis» zur Verfügung. Es können auch private Organisationen des Naturschutzes zugezogen werden.
+<sup>1</sup> Der Vollzug dieses Beschlusses erfolgt durch die Abteilung Umweltschutz und Energie. Vorbehalten bleiben ausdrückliche andere Zuständigkeiten gemäss der übergeordneten Gesetzgebung oder in diesem Beschluss.
+
+<sup>2</sup> Für die Schutzgebietskontrolle ist Artikel 40 der Kantonalen Natur- und Heimatschutzverordnung[^8-1] massgeblich.
+
+[^8-1]: GS [IV G/1/2](https://gesetze.gl.ch/data/IV-G.1.2/de)
 
 #### Art. 9
 
-**Inkrafttreten**
+**Unterhaltsverträge**
 
-<sup>1</sup> Dieser Beschluss tritt auf den 1. November 1981 in Kraft und wird im Grundbuch als Dienstbarkeit zulasten der Grundeigentümer (Gemeinde Mollis, Parz. Nr. 1334; EMD, Teil der Parz. Nrn. 1198 und 957) und zugunsten des Kantons und des Schweizerischen Bundes für Naturschutz eingetragen.
+<sup>1</sup> Die Abteilung Umweltschutz und Energie sichert die Pflege und den Unterhalt der Flächen gemäss dem Pflegeplan durch Verträge mit den Grundeigentümerinnen und Grundeigentümern sowie den Bewirtschafterinnen und Bewirtschaftern.
 
-SBE II/2 109
+<sup>2</sup> Mit Zustimmung der Grundeigentümerinnen und Grundeigentümer können Pflegemassnahmen durch die Abteilung Umweltschutz und Energie oder von der Abteilung beauftragte Dritte durchgeführt werden.
+
+#### Art. 10
+
+**Strafbestimmungen**
+
+<sup>1</sup> Widerhandlungen gegen diese Bestimmungen werden gemäss Artikel 20 des Gesetzes über den Natur- und Heimatschutz bestraft. Vorbehalten bleiben weitergehende Strafbestimmungen des eidgenössischen oder kantonalen Rechts.
+
+#### Art. 11
+
+**Wiederherstellung**
+
+<sup>1</sup> Die Wiederherstellung des ursprünglichen Zustandes bei Widerhandlungen gegen die vorliegenden Bestimmungen richtet sich nach Artikel 22 des Gesetzes über den Natur- und Heimatschutz.
+
+#### Art. 12
+
+**Rechtsschutz**
+
+<sup>1</sup> Der Rechtsschutz richtet sich nach dem Verwaltungsrechtspflegegesetz[^12-1].
+
+[^12-1]: GS [III G/1](https://gesetze.gl.ch/data/III-G.1/de)
+
+SBE 2021 05
