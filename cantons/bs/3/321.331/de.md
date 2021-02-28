@@ -4,13 +4,13 @@ number: "321.331"
 title: Verordnung über zusätzliche Massnahmen des Kantons Basel-Stadt zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19-Verordnung zusätzliche Massnahmen
 language: de
-version: 2021-01-23
-valid_until: 2021-02-28
-version_adopted: 2021-01-19
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-02-24
 adopted: 2021-11-22
 in_force: 2021-11-24
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/321.331"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5187/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5194/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 zusätzliche Massnahmen: Verordnung | Übertragbare Krankheiten
 
 (Covid-19-Verordnung zusätzliche Massnahmen)
 
-Vom 3. November 2020 (Stand 23. Januar 2021)
+Vom 3. November 2020 (Stand 1. März 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -66,15 +66,15 @@ beschliesst:
 
 #### § 3a
 
-**Schliessung von Einrichtungen im Sportbereich**
+**Einrichtungen im Sportbereich**
 
-<sup>1</sup> Turnhallen, Hallenbäder, Tanzstudios, Fitness- und Wellnesszentren, Eissportanlagen und Innenräume von sonstigen Sportanlagen und Sportstadien, jeweils einschliesslich der Garderoben, sind geschlossen.
+<sup>1</sup> …
 
-<sup>2</sup> Zulässig ist die Nutzung von Turnhallen und Hallenbädern einschliesslich der Garderoben für Schülerinnen und Schüler der Primarstufe für den obligatorischen und freiwilligen Schulsport sowie die Nutzung von Turnhallen ohne Garderoben für Schülerinnen und Schüler der Sekundarstufe für alternativen Unterricht.
+<sup>2</sup> Die Nutzung von Turnhallen ist für Schülerinnen und Schüler der Sekundarstufe im Rahmen des Schulsports nur für alternativen Unterricht zulässig.
 
-<sup>2<sup>bis</sup></sup> Zulässig ist die Nutzung von Turnhallen, Hallenbädern, Tanzstudios, Eissportanlagen und Innenräumen von sonstigen Sportanlagen einschliesslich der Garderoben für ausserschulische Sportaktivitäten von Kindern und Jugendlichen vor ihrem 16. Geburtstag in festen Gruppen bis zu 15 Personen.
+<sup>2<sup>bis</sup></sup> …
 
-<sup>3</sup> Abs. 1 gilt nicht für Trainingsaktivitäten und Wettkämpfe beziehungsweise Wettkampfspiele gemäss Art. 6e Abs. 1 lit. c und d Covid-19-Verordnung besondere Lage sowie für Prüfungen zur Erlangung eines Studien- oder Lehrabschlusses bei Bildungsgängen im Bereich Sport, Tanz, Bewegung und Gesundheit.
+<sup>3</sup> Die Nutzung von Turnhallen und Hallenbädern sowie Innenräumen von sonstigen Sportanlagen und Sportstadien ist für Prüfungen zur Erlangung eines Studien- oder Lehrabschlusses bei Bildungsgängen im Bereich Sport, Tanz, Bewegung und Gesundheit zulässig.
 
 #### § 3b
 
@@ -83,7 +83,7 @@ beschliesst:
 <sup>1</sup> Folgende öffentlich zugängliche Einrichtungen und Betriebe sind für das Publikum geschlossen:
 
 - a) Spielsalons und Casinos;
-- b ) Innenräume von Freizeit- und Unterhaltungseinrichtungen (namentlich Jugendtreffpunkte oder Bowling- und Billiardcenter);
+- b ) Innenräume von Freizeit- und Unterhaltungseinrichtungen (namentlich Bowling- und Billiardcenter) mit Ausnahme von Jugendtreffpunkten;
 - c) Bordell- und Erotikbetriebe, Cabarets und ähnliche Lokale. Prostitution ist verboten.
 
 #### § 3c
@@ -98,8 +98,10 @@ beschliesst:
 
 <sup>2</sup> Davon ausgenommen sind:
 
-- a) Schülerinnen und Schüler der Primarstufe;
-- b) Personen, die aus besonderen Gründen, insbesondere aus medizinischen, keine Gesichtsmaske tragen können.
+- a) Schülerinnen und Schüler der Primarstufe bis und mit 4. Primarschulklasse, ausser sie besuchen eine Mehrjahrgangsklasse mit Schülerinnen und Schülern der 5. bzw. 6. Primarschulklasse;
+- b) Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere aus medizinischen, keine Gesichtsmaske tragen können, wobei andere, geeignete Massnahmen zum Schutz vor Ansteckung zu treffen sind.
+
+<sup>3</sup> Weitere Ausnahmen können im kantonalen Schutzkonzept für die Volksschulen geregelt werden.
 
 #### § 5
 
@@ -113,4 +115,4 @@ Diese Verordnung ist zu publizieren; sie tritt am 4. November 2020 in Kraft. Auf
 
 KB 04.11.2020
 
-[^footer-1]: Die Befristung für die §§ 3 - 4 wird neu bis 28. Februar 2021 festgelegt (RRB vom 19.01.2021, KB 20.01.2021)
+[^footer-1]: Die Befristung für die §§ 3 - 4 wird neu bis 31. März 2021 festgelegt (RRB vom 24.02.2021, KB 27.02.2021)
