@@ -4,13 +4,13 @@ number: "811.111"
 title: Ordonnance sur les activités professionnelles dans le secteur sanitaire
 short: "Ordonnance sur la santé publique, OSP"
 language: fr
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-11-15
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1391/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2124/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1391/pdf_file"
 
 (Ordonnance sur la santé publique, OSP)
 
-du 24.10.2001 (état au 01.01.2018)
+du 24.10.2001 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -73,7 +73,7 @@ arrête:
 
 **Documents à fournir**
 
-<sup>1</sup> La personne qui souhaite obtenir une autorisation d'exercer est tenue de fournir les documents suivants au service compétent de la Direction de la santé publique et de la prévoyance sociale (SAP; ci-après service compétent):
+<sup>1</sup> La personne qui souhaite obtenir une autorisation d'exercer est tenue de fournir les documents suivants au service compétent de la Direction de la santé, des affaires sociales et de l’intégration (DSSI; ci-après service compétent):
 
 - a un certificat de capacité reconnu;
 - b un certificat attestant l'exercice de l'activité pratique requise après l'obtention du diplôme;
@@ -271,9 +271,9 @@ arrête:
 
 #### Art. 13
 
-**Office des personnes âgées et handicapées**
+**Office des personnes âgées et des personnes handicapées**
 
-<sup>1</sup> L’Office des personnes âgées et handicapées (OPAH) est compétent pour délivrer
+<sup>1</sup> L’Office des personnes âgées et des personnes handicapées (OPAH) est compétent pour délivrer
 
 - a les autorisations d’exercer aux infirmiers et aux infirmières diplômées,
 - b les autorisations d’exploiter aux organisations d’aide et de soins à domicile.
@@ -687,7 +687,7 @@ arrête:
 
 <sup>3</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins six mois après avoir achevé sa formation.
 
-<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la SAP.
+<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
 <sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
@@ -712,7 +712,7 @@ arrête:
 
 <sup>3</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins six mois après avoir achevé sa formation.
 
-<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la SAP.
+<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
 <sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
@@ -737,7 +737,7 @@ arrête:
 
 <sup>3</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins six mois après avoir achevé sa formation.
 
-<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la SAP.
+<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
 <sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
@@ -766,7 +766,7 @@ arrête:
 
 <sup>3</sup> La personne qui souhaite obtenir une autorisation doit justifier qu'elle a exercé sa profession sous la surveillance d'un professionnel ou d'une professionnelle pendant au moins six mois après avoir achevé sa formation.
 
-<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la SAP.
+<sup>4</sup> La Commission spécialisée pour les médecines douces édicte des directives sur l'évaluation de la formation à l'intention de la DSSI.
 
 <sup>5</sup> L'OMC peut reconnaître d'autres formations, pour autant qu'elles soient au moins équivalentes.
 
@@ -904,7 +904,7 @@ arrête:
 
 <sup>2</sup> L'OPHC effectue des inspections supplémentaires en cas de changement de direction et en cas de faits contraires à la présente ordonnance ou de soupçon. Elles peuvent intervenir en tout temps et aussi souvent que nécessaire (inspections extraordinaires).
 
-<sup>3</sup> L'OPHC peut charger les pharmaciens et les pharmaciennes, les droguistes ou les médecins titulaires d'un diplôme fédéral d'effectuer des inspections. Les inspecteurs et les inspectrices sont nommés par la SAP, sur proposition de l'OPHC. La SAP fixe le montant des indemnités qui leur sont versées.
+<sup>3</sup> L'OPHC peut charger les pharmaciens et les pharmaciennes, les droguistes ou les médecins titulaires d'un diplôme fédéral d'effectuer des inspections. Les inspecteurs et les inspectrices sont nommés par la DSSI, sur proposition de l'OPHC. La DSSI fixe le montant des indemnités qui leur sont versées.
 
 <sup>4</sup> L'OPHC peut prélever gratuitement, dans le cadre de la surveillance du marché, les échantillons nécessaires pour contrôler la sécurité des produits thérapeutiques, exiger les renseignements et les documents indispensables et demander tout autre soutien.
 
@@ -1084,15 +1084,15 @@ arrête:
 
 **Surveillance**
 
-<sup>1</sup> Les activités et les entreprises du secteur sanitaire au sens de la LSP et de la présente ordonnance sont placées sous la surveillance de la SAP.
+<sup>1</sup> Les activités et les entreprises du secteur sanitaire au sens de la LSP et de la présente ordonnance sont placées sous la surveillance de la DSSI.
 
 #### Art. 87
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions du service compétent peuvent faire l'objet d'un recours auprès du directeur ou de la directrice de la santé publique et de la prévoyance sociale conformément aux dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives[^87-1].
+<sup>1</sup> Les décisions du service compétent peuvent faire l'objet d'un recours auprès du directeur ou de la directrice de la santé, des affaires sociales et de l’intégration conformément aux dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^87-1].
 
-[^87-1]: RSB 155.21
+[^87-1]: RSB [155.21](https://www.belex.sites.be.ch/data/155.21/fr)
 
 ## 5 Dispositions transitoires et dispositions finales
 

@@ -4,13 +4,13 @@ number: "811.111"
 title: Verordnung über die beruflichen Tätigkeiten im Gesundheitswesen
 short: "Gesundheitsverordnung, GesV"
 language: de
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-11-15
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1391/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2124/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1391/pdf_file"
 
 (Gesundheitsverordnung, GesV)
 
-vom 24.10.2001 (Stand 01.01.2018)
+vom 24.10.2001 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -73,7 +73,7 @@ beschliesst:
 
 **Nachweis der Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller hat zur Erlangung der Berufsausübungsbewilligung folgende Unterlagen bei der zuständigen Stelle der Gesundheits- und Fürsorgedirektion (GEF) (im Folgenden zuständige Stelle) einzureichen
+<sup>1</sup> Die Gesuchstellerin oder der Gesuchsteller hat zur Erlangung der Berufsausübungsbewilligung folgende Unterlagen bei der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion (GSI) (im Folgenden zuständige Stelle) einzureichen
 
 - a einen anerkannten Fähigkeitsausweis,
 - b einen Ausweis über die Absolvierung der verlangten praktischen Tätigkeit nach Ausbildungsabschluss,
@@ -683,7 +683,7 @@ beschliesst:
 
 <sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
 
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GEF Richtlinien zur Beurteilung der Ausbildung.
+<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
 <sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
@@ -708,7 +708,7 @@ beschliesst:
 
 <sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
 
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GEF Richtlinien zur Beurteilung der Ausbildung.
+<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
 <sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
@@ -733,7 +733,7 @@ beschliesst:
 
 <sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
 
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GEF Richtlinien zur Beurteilung der Ausbildung.
+<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zuhanden der GSI Richtlinien zur Beurteilung der Ausbildung.
 
 <sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
@@ -762,7 +762,7 @@ beschliesst:
 
 <sup>3</sup> Die Gesuchstellerinnen und Gesuchsteller haben nachzuweisen, dass sie ihren Beruf seit Abschluss der Ausbildung während mindestens sechs Monaten unter fachlicher Aufsicht ausgeübt haben.
 
-<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zu Handen der GEF Richtlinien zur Beurteilung der Ausbildung.
+<sup>4</sup> Die Fachkommission natürliche Heilmethoden erarbeitet zu Handen der GSI Richtlinien zur Beurteilung der Ausbildung.
 
 <sup>5</sup> Das KAZA kann andere Ausbildungsgänge anerkennen, wenn diese mindestens gleichwertig sind.
 
@@ -898,7 +898,7 @@ beschliesst:
 
 <sup>2</sup> Bei Wechsel der Betriebsleitung und soweit es verordnungswidrige Zustände oder ein entsprechender Verdacht notwendig machen, nimmt das KAPA zusätzliche Inspektionen vor. Diese können jederzeit und so oft als nötig durchgeführt werden (ausserordentliche Inspektionen).
 
-<sup>3</sup> Das KAPA kann eidgenössisch diplomierte Apothekerinnen und Apotheker, Drogistinnen und Drogisten sowie Ärztinnen und Ärzte mit der Durchführung von Inspektionen beauftragen. Die GEF bestimmt die Inspektorinnen und Inspektoren auf Antrag des KAPA und legt ihre Entschädigung fest.
+<sup>3</sup> Das KAPA kann eidgenössisch diplomierte Apothekerinnen und Apotheker, Drogistinnen und Drogisten sowie Ärztinnen und Ärzte mit der Durchführung von Inspektionen beauftragen. Die GSI bestimmt die Inspektorinnen und Inspektoren auf Antrag des KAPA und legt ihre Entschädigung fest.
 
 <sup>4</sup> Das KAPA kann im Rahmen der Marktüberwachung unentgeltlich die zur Überwachung der Sicherheit der Heilmittel notwendigen Muster erheben, die erforderlichen Auskünfte oder Unterlagen verlangen und jede erforderliche Unterstützung anfordern.
 
@@ -1075,15 +1075,15 @@ beschliesst:
 
 **Aufsicht**
 
-<sup>1</sup> Die Tätigkeiten und Betriebe des Gesundheitswesens nach dem Gesundheitsgesetz und dieser Verordnung unterstehen der Aufsicht der GEF.
+<sup>1</sup> Die Tätigkeiten und Betriebe des Gesundheitswesens nach dem Gesundheitsgesetz und dieser Verordnung unterstehen der Aufsicht der GSI.
 
 #### Art. 87
 
 **Rechtspflege**
 
-<sup>1</sup> Verfügungen der zuständigen Stelle können nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege[^87-1] bei der Gesundheits- und Fürsorgedirektorin oder beim Gesundheits- und Fürsorgedirektor angefochten werden.
+<sup>1</sup> Verfügungen der zuständigen Stelle können nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^87-1] bei der Gesundheits-, Sozial- und Integrationsdirektorin oder beim Gesundheits-, Sozial- und Integrationsdirektor angefochten werden.
 
-[^87-1]: BSG 155.21
+[^87-1]: BSG [155.21](https://www.belex.sites.be.ch/data/155.21/de)
 
 ## 5 Übergangs- und Schlussbestimmungen
 
