@@ -3,20 +3,20 @@ canton: AR
 number: "113.4"
 title: "Verordnung über COVID-19-Massnahmen: Bevölkerung"
 language: de
-version: 2021-01-20
-valid_until: 2021-02-28
-version_adopted: 2021-01-19
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-02-27
 adopted: 2020-12-12
 in_force: 2020-12-13
 url: "https://ar.clex.ch/app/de/texts_of_law/113.4"
-pdf: "https://ar.clex.ch/api/de/versions/1343/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1348/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über COVID-19-Massnahmen: Bevölkerung
 
-vom 12.12.2020 (Stand 20.01.2021)
+vom 12.12.2020 (Stand 01.03.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -58,6 +58,6 @@ verordnet:
 
 **Geltungsdauer**
 
-<sup>1</sup> Die Massnahmen dieser Verordnung dauern bis und mit 28. Februar 2021, 24.00 Uhr.
+<sup>1</sup> Die Massnahmen dieser Verordnung dauern bis und mit 31. März 2021, 24.00 Uhr.
 
 Lf. Nr. / Abl. 1416 / Nr. 54 / 13.12.2020
