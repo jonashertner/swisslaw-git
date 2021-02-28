@@ -4,13 +4,13 @@ number: "152.221.121.1"
 title: Verordnung über die Fachkommissionen
 short: "Fachkommissionenverordnung, FKV"
 language: de
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-11-15
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1388/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2116/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1388/pdf_file"
 
 (Fachkommissionenverordnung, FKV)
 
-vom 24.10.2001 (Stand 01.01.2018)
+vom 24.10.2001 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -37,7 +37,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Fachkommissionen beraten die Gesundheits- und Fürsorgedirektion sowie deren Ämter und Dienststellen im Bereich der beruflichen Tätigkeiten und Betriebe des Gesundheitswesens.
+<sup>1</sup> Die Fachkommissionen beraten die Gesundheits-, Sozial- und Integrationsdirektion sowie deren Ämter und Dienststellen im Bereich der beruflichen Tätigkeiten und Betriebe des Gesundheitswesens.
 
 <sup>2</sup> Sie können insbesondere zur Begutachtung und Berichterstattung für folgende Fragen herangezogen werden:
 
@@ -51,9 +51,9 @@ beschliesst:
 
 **Wahl**
 
-<sup>1</sup> Die Fachkommissionspräsidentin oder der Fachkommissionspräsident und die Mitglieder der Fachkommissionen werden vom Regierungsrat auf Antrag der Gesundheits- und Fürsorgedirektion für die Dauer von vier Jahren gewählt.
+<sup>1</sup> Die Fachkommissionspräsidentin oder der Fachkommissionspräsident und die Mitglieder der Fachkommissionen werden vom Regierungsrat auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion für die Dauer von vier Jahren gewählt.
 
-<sup>2</sup> Die Vizepräsidentinnen oder Vizepräsidenten werden von den Kommissionen bestimmt.
+<sup>2</sup> Die Vizepräsidentinnen und Vizepräsidenten werden von den Kommissionen bestimmt.
 
 #### Art. 3
 
@@ -61,7 +61,7 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Fachkommissionen werden gemäss der Verordnung vom 2. Juli über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen[^3-1] entschädigt. Spezielle Bestimmungen für öffentlich-rechtlich Angestellte bleiben vorbehalten.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion regelt durch Beschluss im Rahmen ihrer Ausgabenbefugnis die Entschädigung
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion regelt durch Beschluss im Rahmen ihrer Ausgabenbefugnis die Entschädigung
 
 - a für die Fachkommissionpräsidentinnen und -präsidenten,
 - b gegebenenfalls für weitere Zusatzfunktionen.
@@ -74,7 +74,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachkommissionen werden durch die Präsidentinnen und Präsidenten zu Sitzungen einberufen, so oft die Geschäfte es erfordern.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion kann jederzeit zu Sitzungen aufbieten.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann jederzeit zu Sitzungen aufbieten.
 
 #### Art. 5
 
@@ -82,7 +82,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachkommissionen können Fachausschüsse, einzelne Kommissionsmitglieder oder das Sekretariat mit der Vorbereitung einzelner Geschäfte betrauen.
 
-<sup>2</sup> Sie können mit Zustimmung der mit dem Sekretariat betrauten Stelle der Gesundheits- und Fürsorgedirektion Gutachten durch Dritte erstellen lassen, wenn sie bei der Beurteilung der ihnen unterbreiteten Fragen nicht über hinreichende Fachkenntnisse verfügen.
+<sup>2</sup> Sie können mit Zustimmung der mit dem Sekretariat betrauten Stelle der Gesundheits-, Sozial- und Integrationsdirektion Gutachten durch Dritte erstellen lassen, wenn sie bei der Beurteilung der ihnen unterbreiteten Fragen nicht über hinreichende Fachkenntnisse verfügen.
 
 #### Art. 6
 
@@ -146,7 +146,7 @@ beschliesst:
 
 **Sekretariat**
 
-<sup>1</sup> Das Sekretariat wird durch das Kantonsarztamt der Gesundheits- und Fürsorgedirektion geführt.
+<sup>1</sup> Das Sekretariat wird durch das Kantonsarztamt der Gesundheits-, Sozial- und Integrationsdirektion geführt.
 
 ## 6 Übergangs- und Schlussbestimmungen
 

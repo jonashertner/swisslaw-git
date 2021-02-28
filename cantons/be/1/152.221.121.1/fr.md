@@ -4,13 +4,13 @@ number: "152.221.121.1"
 title: Ordonnance sur les commissions spécialisées
 short: OCom
 language: fr
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-11-15
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2001-10-24
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1388/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2116/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1388/pdf_file"
 
 (OCom)
 
-du 24.10.2001 (état au 01.01.2018)
+du 24.10.2001 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -35,7 +35,7 @@ arrête:
 
 **Tâches**
 
-<sup>1</sup> Les commissions spécialisées conseillent la Direction de la santé publique et de la prévoyance sociale, ses offices et ses services pour tout ce qui a trait aux activités professionnelles et aux entreprises du secteur sanitaire.
+<sup>1</sup> Les commissions spécialisées conseillent la Direction de la santé, des affaires sociales et de l’intégration, ses offices et ses services pour tout ce qui a trait aux activités professionnelles et aux entreprises du secteur sanitaire.
 
 <sup>2</sup> Elles peuvent notamment être appelées à rendre des expertises ou des rapports sur les questions suivantes:
 
@@ -49,7 +49,7 @@ arrête:
 
 **Election**
 
-<sup>1</sup> Le président ou la présidente ainsi que les membres des commissions spécialisées sont élus pour quatre ans par le Conseil-exécutif, sur proposition de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Le président ou la présidente ainsi que les membres des commissions spécialisées sont élus pour quatre ans par le Conseil-exécutif, sur proposition de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Les commissions choisissent leur vice-président ou vice-présidente.
 
@@ -59,7 +59,7 @@ arrête:
 
 <sup>1</sup> Les indemnités dues aux membres des commissions spécialisées sont régies par l'ordonnance du 2 juillet 1980 concernant les indemnités journalières et de déplacement des membres de commissions cantonales[^3-1]. Les dispositions spéciales applicables aux employés dont l'engagement relève du droit public sont réservées.
 
-<sup>2</sup> Dans le cadre de sa compétence en matière d'autorisation de dépenses, la Direction de la santé publique et de la prévoyance sociale règle par voie de décision les indemnités versées
+<sup>2</sup> Dans le cadre de sa compétence en matière d'autorisation de dépenses, la Direction de la santé, des affaires sociales et de l’intégration règle par voie de décision les indemnités versées
 
 - a au président ou à la présidente de chaque commission spécialisée,
 - b le cas échéant, aux personnes assumant des fonctions supplémentaires.
@@ -72,7 +72,7 @@ arrête:
 
 <sup>1</sup> Le président ou la présidente de la commission spécialisée convoque les séances aussi souvent que l'exigent les affaires à traiter.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale peut à tout moment convoquer une séance.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration peut à tout moment convoquer une séance.
 
 #### Art. 5
 
@@ -80,7 +80,7 @@ arrête:
 
 <sup>1</sup> Les commissions spécialisées peuvent confier la préparation de certaines affaires à des sous-commissions, à un ou à plusieurs de leurs membres ou à leur secrétariat.
 
-<sup>2</sup> D'entente avec l'organe de la Direction de la santé publique et de la prévoyance sociale qui assure le secrétariat, elles peuvent demander des expertises à des tiers lorsque leurs membres ne disposent pas des connaissances requises pour traiter les questions qui leur sont soumises.
+<sup>2</sup> D'entente avec l'organe de la Direction de la santé, des affaires sociales et de l’intégration qui assure le secrétariat, elles peuvent demander des expertises à des tiers lorsque leurs membres ne disposent pas des connaissances requises pour traiter les questions qui leur sont soumises.
 
 #### Art. 6
 
@@ -144,7 +144,7 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> Le secrétariat est assuré par l'Office du médecin cantonal de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Le secrétariat est assuré par l'Office du médecin cantonal de la Direction de la santé, des affaires sociales et de l’intégration.
 
 ## 6 Dispositions transitoires et dispositions finales
 
