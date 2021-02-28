@@ -4,13 +4,13 @@ number: "301.111"
 title: Verordnung zum Gesundheitsgesetz
 short: GesV
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-11-11
+version: 2021-03-01
+valid_until: 2023-10-31
+version_adopted: 2021-02-17
 adopted: 2009-11-11
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2937/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2937/pdf_file"
 
 (GesV)
 
-Vom 11.11.2009 (Stand 01.01.2021)
+Vom 11.11.2009 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -420,7 +420,7 @@ beschliesst:
 
 <sup>2</sup> Anhang 1 regelt die Gesundheitsberufe mit Ausbildungsverpflichtung und die für sie massgebenden Berechnungswerte. Anhang 2 regelt die Gesundheitsberufe ohne Ausbildungsverpflichtung, aber mit anrechenbaren Ausbildungsleistungen gemäss § 29c, und die für sie massgebenden Berechnungswerte.
 
-<sup>3</sup> Das Departement Gesundheit und Soziales ist die zuständige kantonale Behörde zum Vollzug der §§ 40b–i und 56b GesG.
+<sup>3</sup> Die Abteilung Gesundheit ist die zuständige kantonale Behörde zum Vollzug der §§ 40b–i und 56b GesG.
 
 #### § 29b
 
@@ -462,7 +462,7 @@ beschliesst:
 
 <sup>2</sup> Ergibt die Berechnung gemäss Absatz 1 einen negativen Wert, ist eine Ersatzabgabe (Malus) gemäss § 29e geschuldet. Bei einem positiven Wert richtet sich der Anspruch auf einen Bonus nach § 29f.
 
-<sup>3</sup> Ein Ausbildungspunkt entspricht einem Franken.
+<sup>3</sup> …
 
 #### § 29e
 
@@ -498,13 +498,19 @@ beschliesst:
 
 **Steuergruppe**
 
-<sup>1</sup> Das Departement Gesundheit und Soziales setzt eine Steuergruppe ein, die aus je einer Vertreterin oder einem Vertreter des Departements Gesundheit und Soziales und des Departements Bildung, Kultur und Sport sowie aus je einer Vertreterin oder einem Vertreter der Verbände der Leistungserbringer zusammengesetzt ist.
+<sup>1</sup> Die Abteilung Gesundheit setzt eine Steuergruppe mit maximal acht Mitgliedern ein.
+
+<sup>1<sup>bis</sup></sup> Die Mitglieder werden von der Abteilung Gesundheit bestimmt. Bei der Zusammensetzung und bei der Stimmverteilung ist auf eine ausgewogene Vertretung der Interessengruppen (wie zum Beispiel der stationären und ambulanten Leistungserbringer) zu achten. Das Departement Bildung, Kultur und Sport und das Departement Gesundheit und Soziales sind je mit einer Person vertreten.
+
+<sup>1<sup>ter</sup></sup> Die Steuergruppe ist beschlussfähig, wenn mindestens zwei Drittel der Mitglieder anwesend sind. Bei Stimmengleichheit hat die Vertretung der Abteilung Gesundheit den Stichentscheid.
 
 <sup>2</sup> Der Steuergruppe obliegen insbesondere folgende Aufgaben:
 
-- a) Beobachtung der Entwicklungen in der Berufsbildung im Gesundheitswesen und der Umsetzung der Ausbildungsverpflichtung sowie bei Bedarf Antragstellung an die zuständige Behörde,
-- b) Periodische Überprüfung der Gesundheitsberufe mit Ausbildungsverpflichtung und der Berechnungswerte gemäss den Anhängen 1 bis 3 sowie bei Bedarf Antragstellung zur Änderung an den Regierungsrat,
-- c) Antragstellung an das Departement Gesundheit und Soziales über die Gewährung weiterer Beiträge gemäss § 29f.
+- a) Steuerung der Weiterentwicklung der Ausbildungsverpflichtung und Mitwirkung an derselben,
+- b) Periodische Überprüfung der Gesundheitsberufe mit Ausbildungsverpflichtung und der Berechnungswerte gemäss den Anhängen 1 bis 3,
+- c) Abgabe von Empfehlungen zur Anpassung der Berechnungswerte an die Abteilung Gesundheit,
+- d) Beobachtung der Entwicklungen in der Berufsbildung im Gesundheitswesen sowie bei Bedarf Antragstellung an die zuständige Behörde,
+- e) Antragstellung an die Abteilung Gesundheit über die Gewährung weiterer Beiträge gemäss § 29f.
 
 #### § 29h
 
