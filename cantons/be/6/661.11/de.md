@@ -4,13 +4,13 @@ number: "661.11"
 title: Steuergesetz
 short: StG
 language: de
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-03-09
+version: 2021-03-01
+valid_until: 2023-12-31
+version_adopted: 2020-03-10
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1940/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2139/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1940/pdf_file"
 
 (StG)
 
-vom 21.05.2000 (Stand 01.01.2020)
+vom 21.05.2000 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -2345,9 +2345,13 @@ beschliesst:
 
 <sup>2</sup> Sie führt die Aufsicht über die Gemeinden und Dritte, die am Vollzug beteiligt sind.
 
-<sup>3</sup> Sie betreibt in Zusammenarbeit mit den Gemeinden die Steuerregister für natürliche und juristische Personen. Darin sind insbesondere Angaben über die Steuerpflicht, die ZPV-Nummer nach Artikel 6 des Gesetzes vom 28. November 2006 über die Harmonisierung amtlicher Register (RegG)[^149-1], der Zivilstand und die Zugehörigkeit zu einer Landeskirche enthalten.
+<sup>2a</sup> Sie betreibt eine Personendatensammlung, in der
 
-[^149-1]: BSG 152.05
+- a Daten der natürlichen und juristischen Personen und ihrer Vertretungen bearbeitet werden,
+- b für natürliche Personen insbesondere die Konfession, Ehepartnerinnen und Ehepartner, Partnerinnen und Partner in eingetragener Partnerschaft, Massnahmen des Kindes- und Erwachsenenschutzes sowie Angaben zum Haushalt enthalten sind, soweit diese Daten vorliegen,
+- c soweit erforderlich die Angaben gemäss Buchstabe b nach ihrem zeitlichen Verlauf geordnet bearbeitet werden können (Historisierung).
+
+<sup>3</sup> Sie betreibt zudem in Zusammenarbeit mit den Gemeinden die Steuerregister für natürliche und juristische Personen. Darin sind insbesondere Angaben über die Steuerpflicht, die ZPV-Nummer, der Zivilstand und die Zugehörigkeit zu einer Landeskirche enthalten.
 
 #### Art. 150
 

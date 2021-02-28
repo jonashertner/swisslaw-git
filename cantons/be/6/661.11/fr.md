@@ -4,13 +4,13 @@ number: "661.11"
 title: Loi sur les impôts
 short: LI
 language: fr
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-03-09
+version: 2021-03-01
+valid_until: 2023-12-31
+version_adopted: 2020-03-10
 adopted: 2000-05-21
 in_force: 2001-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/661.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1940/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2139/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1940/pdf_file"
 
 (LI)
 
-du 21.05.2000 (état au 01.01.2020)
+du 21.05.2000 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -2353,9 +2353,13 @@ arrête:
 
 <sup>2</sup> Elle surveille les communes et les tiers chargés d'exécuter la présente loi.
 
-<sup>3</sup> Elle tient, en collaboration avec les communes, les registres d’impôt des personnes physiques et des personnes morales. Ces registres contiennent en particulier des informations sur l’assujettissement à l’impôt, le numéro GCP visé à l’article 6 de la loi du 28 novembre 2006 sur l’harmonisation des registres officiels (LReg)[^149-1], l’état civil et l’appartenance à une Eglise nationale.
+<sup>2a</sup> Elle tient un fichier de données personnelles
 
-[^149-1]: RSB 152.05
+- a dans lequel sont traitées des données des personnes physiques et des personnes morales ainsi que des personnes les représentant;
+- b qui indique en particulier pour les personnes physiques la confession, le conjoint ou la conjointe, le partenaire enregistré ou la partenaire enregistrée, les mesures relatives à la protection de l’enfant et de l’adulte, ainsi que des informations sur le ménage, pour autant que ces données soient disponibles;
+- c dans lequel, si nécessaire, ces informations peuvent être traitées dans l’ordre chronologique (historisation).
+
+<sup>3</sup> Elle tient en outre, en collaboration avec les communes, les registres d’impôt des personnes physiques et des personnes morales. Ces registres contiennent en particulier des informations sur l’assujettissement à l’impôt, le numéro GCP, l’état civil et l’appartenance à une Eglise nationale.
 
 #### Art. 150
 
