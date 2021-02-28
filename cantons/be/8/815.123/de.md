@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-02-10
-valid_until: 2021-02-28
-version_adopted: 2021-02-03
+version: 2021-03-01
+valid_until: 2021-03-10
+version_adopted: 2021-02-25
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2137/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2158/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2137/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 10.02.2021)
+vom 04.11.2020 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -49,9 +49,11 @@ beschliesst:
 
 #### Art. 2
 
-**Beschränkung der Anzahl Gäste**
+**Beschränkung der Anzahl Gäste[^2-1]**
 
 <sup>1</sup> In einem Restaurationsbetrieb dürfen sich höchstens 50 Gäste gleichzeitig aufhalten.
+
+[^2-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
 
 #### Art. 2a
 
@@ -59,7 +61,7 @@ beschliesst:
 
 #### Art. 3
 
-**Kontaktdaten von Gästen**
+**Kontaktdaten von Gästen[^3-1]**
 
 <sup>1</sup> Die Erhebung von Kontaktdaten richtet sich grundsätzlich nach Artikel 5 sowie Anhang Ziffer 4 der Covid-19-Verordnung besondere Lage.
 
@@ -73,19 +75,25 @@ beschliesst:
 
 <sup>3</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Gästeliste aufzubewahren.
 
+[^3-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
+
 #### Art. 4
 
-**Kontaktdaten von im Betrieb arbeitenden Personen**
+**Kontaktdaten von im Betrieb arbeitenden Personen[^4-1]**
 
 <sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen eine Liste der im jeweiligen Betrieb arbeitenden Personen führen.
 
 <sup>2</sup> Die Kontaktdaten sind in einer gegliederten und nach Kalendertagen geführten elektronischen Liste mit den jeweiligen Einsatzzeiten im Betrieb aufzubewahren.
 
+[^4-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
+
 #### Art. 5
 
-**Empfehlung der Verwendung der SwissCovid-App**
+**Empfehlung der Verwendung der SwissCovid-App[^5-1]**
 
 <sup>1</sup> Die Betreiberinnen und Betreiber von Restaurationsbetrieben müssen auf die Empfehlung zur Verwendung der SwissCovid-App mittels Aushang, Flyern oder anderen geeigneten Medien hinweisen.
+
+[^5-1]: Dieser Artikel ist nicht anwendbar (Art. 28 Abs. 3a).
 
 ### 2.2 Veranstaltungen
 
@@ -97,7 +105,7 @@ beschliesst:
 
 **Politische und zivilgesellschaftliche Kundgebungen**
 
-<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 5 Personen verboten.
+<sup>1</sup> In Abweichung von Artikel 6c Absatz 2 der Covid-19-Verordnung besondere Lage sind politische und zivilgesellschaftliche Kundgebungen von mehr als 15 Personen verboten.
 
 #### Art. 7
 
@@ -111,40 +119,9 @@ beschliesst:
 
 ### 2.2a Kantonale und kommunale Volksbegehren
 
-#### Art. 8a
+#### Art. 8a–8d
 
-**Verbot von Unterschriftensammlungen**
-
-<sup>1</sup> Das Sammeln von Unterschriften und das Zurverfügungstellen von Unterschriftenlisten für kantonale Volksbegehren sind verboten.
-
-#### Art. 8b
-
-**Stillstand der Fristen**
-
-<sup>1</sup> Die Fristen zur Einreichung von Unterschriftenbogen für eine Volksinitiative nach Artikel 146 Absatz 2 und 147 Absatz 1 des Gesetzes vom 5. Juni 2012 über die politischen Rechte (PRG)[^8b-1] stehen still.
-
-<sup>2</sup> Die Fristen zur Einreichung von Unterschriftenbogen für ein Referendum oder einen Volksvorschlag nach Artikel 128 Absatz 1 PRG stehen still, wenn der Staatskanzlei spätestens zehn Tage nach Veröffentlichung der entsprechenden Referendumsvorlagen im Amtsblatt die Sammlung von Unterschriften angezeigt wird.
-
-[^8b-1]: BSG [141.1](https://www.belex.sites.be.ch/data/141.1/de)
-
-#### Art. 8c
-
-**Stimmrechtsbescheinigungen**
-
-<sup>1</sup> Die stimmregisterführenden Stellen der Gemeinden nehmen während des Stillstands der Fristen keine Unterschriftenbogen entgegen.
-
-<sup>2</sup> Sie sorgen für eine sichere Aufbewahrung von bereits eingereichten Unterschriftenbogen.
-
-#### Art. 8d
-
-**Volksbegehren in den Gemeinden**
-
-<sup>1</sup> Die Artikel 8a bis 8c gelten sinngemäss für
-
-- a fakultative Volksabstimmungen nach Artikel 14 des Gemeindegesetzes vom 16. März 1998 (GG)[^8d-1] und Initiativen nach Artikel 15 bis 19 GG,
-- b Regionalkonferenzen bezüglich der Volksreferenden nach Artikel 150 GG und Volksinitiativen nach Artikel 151 GG.
-
-[^8d-1]: BSG [170.11](https://www.belex.sites.be.ch/data/170.11/de)
+**…**
 
 ### 2.3 Bildungseinrichtungen
 
@@ -464,11 +441,11 @@ beschliesst:
 
 <sup>2a</sup> Die Artikel 8a bis 8d gelten bis zum 22. Januar 2021.
 
-<sup>2b</sup> Die Artikel 6a, 8, 9 bis 12 sowie 16a bis 16h gelten bis zum 28. Februar 2021.
+<sup>2b</sup> Die Artikel 6a, 8, 9 bis 12 sowie 16a bis 16h gelten bis zum 31. März 2021.
 
 <sup>3</sup> …
 
-<sup>3a</sup> Die Artikel 2 sowie 3 bis 5 sind vom 22. Dezember 2020 bis zum 28. Februar 2021 nicht anwendbar.
+<sup>3a</sup> Die Artikel 2 sowie 3 bis 5 sind vom 22. Dezember 2020 bis zum 31. März 2021 nicht anwendbar.
 
 #### Art. 29
 

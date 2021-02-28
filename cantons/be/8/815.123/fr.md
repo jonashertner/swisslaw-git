@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-02-10
-valid_until: 2021-02-28
-version_adopted: 2021-02-03
+version: 2021-03-01
+valid_until: 2021-03-10
+version_adopted: 2021-02-25
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2137/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2158/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2137/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 10.02.2021)
+du 04.11.2020 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -49,9 +49,11 @@ arrête:
 
 #### Art. 2
 
-**Limitation du nombre de clients et clientes**
+**Limitation du nombre de clients et clientes[^2-1]**
 
 <sup>1</sup> Un maximum de 50 personnes peuvent être accueillies simultanément dans un établissement de restauration.
+
+[^2-1]: Cet article n'est pas applicable (art. 28, al. 3a).
 
 #### Art. 2a
 
@@ -59,7 +61,7 @@ arrête:
 
 #### Art. 3
 
-**Coordonnées de la clientèle**
+**Coordonnées de la clientèle[^3-1]**
 
 <sup>1</sup> La collecte de coordonnées est définie à l'article 5 et à l’annexe, chiffre 4, de l’ordonnance COVID-19 situation particulière.
 
@@ -73,19 +75,25 @@ arrête:
 
 <sup>3</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée et regroupées par jour.
 
+[^3-1]: Cet article n'est pas applicable (art. 28, al. 3a).
+
 #### Art. 4
 
-**Coordonnées du personnel de l'établissement**
+**Coordonnées du personnel de l'établissement[^4-1]**
 
 <sup>1</sup> Les exploitants et exploitantes sont tenus de recenser les personnes qui travaillent dans leur établissement de restauration.
 
 <sup>2</sup> Les coordonnées doivent être conservées dans une liste électronique ordonnée indiquant les heures de présence dans l'établissement et regroupées par jour.
 
+[^4-1]: Cet article n'est pas applicable (art. 28, al. 3a).
+
 #### Art. 5
 
-**Recommandation de l'utilisation de l'application SwissCovid**
+**Recommandation de l'utilisation de l'application SwissCovid[^5-1]**
 
 <sup>1</sup> Les exploitants et exploitantes d'établissements de restauration sont tenus de recommander à leur clientèle l'utilisation de l'application SwissCovid par des affiches, des dépliants ou tout autre moyen approprié.
+
+[^5-1]: Cet article n'est pas applicable (art. 28, al. 3a).
 
 ### 2.2 Manifestations
 
@@ -97,7 +105,7 @@ arrête:
 
 **Manifestations politiques ou de la société civile**
 
-<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 5 personnes sont interdites.
+<sup>1</sup> En dérogation à l'article 6c, alinéa 2 de l’ordonnance COVID-19 situation particulière, les manifestations politiques ou de la société civile de plus de 15 personnes sont interdites.
 
 #### Art. 7
 
@@ -111,40 +119,9 @@ arrête:
 
 ### 2.2a Initiatives populaires et demandes de vote populaire au niveau cantonal et communal
 
-#### Art. 8a
+#### Art. 8a–8d
 
-**Interdiction de récolter des signatures**
-
-<sup>1</sup> La récolte de signatures et la mise à disposition de listes permettant de récolter des signatures pour des initiatives populaires et des demandes de vote populaire cantonales sont interdites.
-
-#### Art. 8b
-
-**Suspension des délais**
-
-<sup>1</sup> Les délais de dépôt de listes de signatures pour une initiative populaire selon les articles 146, alinéa 2 et 147, alinéa 1 de la loi du 5 juin 2012 sur les droits politiques (LDP)[^8b-1] sont suspendus.
-
-<sup>2</sup> Les délais de dépôt de listes de signatures pour une demande de vote populaire (référendum) ou un projet populaire selon l'article 128, alinéa 1 LDP sont suspendus si la récolte des signatures est annoncée à la Chancellerie d’Etat dans les dix jours qui suivent la publication des projets dans la Feuille officielle.
-
-[^8b-1]: RSB [141.1](https://www.belex.sites.be.ch/data/141.1/fr)
-
-#### Art. 8c
-
-**Attestation de la qualité d’électeur ou d’électrice**
-
-<sup>1</sup> Aucune liste de signatures ne peut être remise aux services communaux qui tiennent le registre des électeurs et électrices durant la suspension des délais.
-
-<sup>2</sup> Les services communaux veillent à ce que les listes de signatures déjà déposées soient conservées en lieu sûr.
-
-#### Art. 8d
-
-**Initiatives et référendums dans les communes**
-
-<sup>1</sup> Les articles 8a à 8c s'appliquent par analogie
-
-- a aux votations facultatives selon l'article 14 de la loi du 16 mars 1998 sur les communes (LCo)[^8d-1] et aux initiatives selon les articles 15 à 19 LCo;
-- b aux conférences régionales, concernant les référendums populaires selon l'article 150 LCo et les initiatives populaires selon l'article 151 LCo.
-
-[^8d-1]: RSB [170.11](https://www.belex.sites.be.ch/data/170.11/fr)
+**…**
 
 ### 2.3 Institutions de formation
 
@@ -464,11 +441,11 @@ arrête:
 
 <sup>2a</sup> Les articles 8a à 8d sont valables jusqu'au 22 janvier 2021.
 
-<sup>2b</sup> Les articles 6a, 8, 9 à 12 et 16a à 16h sont valables jusqu'au 28 février 2021.
+<sup>2b</sup> Les articles 6a, 8, 9 à 12 et 16a à 16h sont valables jusqu'au 31 mars 2021.
 
 <sup>3</sup> …
 
-<sup>3a</sup> Les articles 2 et 3 à 5 ne sont pas applicables du 22 décembre 2020 jusqu'au 28 février 2021.
+<sup>3a</sup> Les articles 2 et 3 à 5 ne sont pas applicables du 22 décembre 2020 jusqu'au 31 mars 2021.
 
 #### Art. 29
 
