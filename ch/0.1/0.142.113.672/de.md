@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: Abkommen vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: de
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-de-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,11 +20,12 @@ AS **2020** 6451
 
 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens
 
-Abgeschlossen am 25. Februar 2019
+Abgeschlossen am 25. Februar 2019 Von der Bundesversammlung genehmigt am 25. September 2020[^t-1] Vorläufig angewendet ab 1. Januar 2021 In Kraft getreten durch Notenaustausch am 1. März 2021[^t-2]
 
-Vorläufig angewendet ab 1. Januar 2021
+(Stand am 1. März 2021)
 
-(Stand am 1. Januar 2021)
+[^t-1]: [AS 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
+[^t-2]: [AS 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
 
 Die Schweizerische Eidgenossenschaft und das Vereinigte Königreich von Grossbritannien und Nordirland
 
@@ -42,7 +43,7 @@ Unter Anerkennung ihrer Verpflichtungen in Bezug auf Artikel 23 des FZA sichern 
 
 Dieses Abkommen schützt die Rechte von Bürgerinnen und Bürgern der Schweiz und des Vereinigten Königreichs sowie, in Belangen betreffend Anhang II, von Staatsangehörigen der EU-Mitgliedstaaten, die Ansprüche aus dem FZA erworben haben.
 
-[^1-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-1]: [SR 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 2
 
@@ -526,7 +527,9 @@ Abweichend vom zweiten Unterabsatz von Absatz 1, wenn ein Rechtsakt zur Änderun
 - c) eine Geldleistung, die nach der genannten Verordnung unmittelbar vor dem festgelegten Stichtag für einen begrenzten Zeitraum exportierbar ist, für einen unbegrenzten Zeitraum exportierbar macht oder eine Geldleistung, die nach der genannten Verordnung unmittelbar vor dem festgelegten Stichtag für einen unbegrenzten Zeitraum exportierbar ist, nur für einen begrenzten Zeitraum exportierbar macht,
 - beurteilt der Gemischte Ausschuss die Auswirkungen des Rechtsakts. Bei seiner Beurteilung berücksichtigt der Gemischte Ausschuss in gutem Glauben das Ausmass der unter den Buchstaben a) bis c) genannten Änderungen sowie die Bedeutung des Fortbestands des guten Funktionierens der Verordnungen (EG) Nr. 883/2004 und (EG) Nr. 987/2009 zwischen der Schweiz und dem Vereinigten Königreich und des Vorhandenseins eines zuständigen Staates in Bezug auf eine Person im Geltungsbereich der Verordnung (EG) Nr. 883/2004.
 - Beschliesst der Gemischte Ausschuss dies innerhalb von sechs Monaten nach den gemäss Absatz 1 erhaltenen Angaben, so wird Teil II des Anhangs I zu diesem Abkommen nicht an den in Absatz 1 genannten Rechtsakt angepasst.
-- [tab] Für die Zwecke dieses Absatzes bedeutet:
+
+Für die Zwecke dieses Absatzes bedeutet:
+
 - d) «exportierbar» zahlbar gemäss der Verordnung (EG) Nr. 883/2004 an oder in Bezug auf eine Person mit Wohnsitz in einem anderen Mitgliedstaat als dem, in dem sich der für die Gewährung der Leistung verantwortliche Träger befindet. «Nicht exportierbar» ist entsprechend auszulegen; und
 - e) «unbefristet exportierbar» bedeutet exportierbar, solange die Voraussetzungen für die Entstehung der Ansprüche erfüllt sind.
 
@@ -748,8 +751,8 @@ Verordnung (EG) Nr. 987/2009 des Europäischen Parlaments und des Rates vom 16. 
 
 Ziffer II von Protokoll II zu Anhang II des Abkommens zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit vom 21. Juni 1999.
 
-[^annexI-lvlu1-partII-1]: [SR 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)
-[^annexI-lvlu1-partII-2]: [SR 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)
+[^annexI-lvlu1-partII-1]: [SR 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)
+[^annexI-lvlu1-partII-2]: [SR 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)
 
 ### Teil III: Anpassungen der Verordnung (EG) Nr. 883/2004 und Verordnung (EG) Nr. 987/2009
 
@@ -802,9 +805,9 @@ Alle Anträge auf Alters-, Hinterlassenen- und Invalidenrenten des Grundsystems 
 
 - g) *Anhang VIII Teil 2* wird wie folgt ergänzt:
 
-[^annexI-lvlu1-lvlu4-lvlu2-1]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexI-lvlu1-lvlu4-lvlu2-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annexI-lvlu1-lvlu4-lvlu2-3]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexI-lvlu1-lvlu4-lvlu2-1]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexI-lvlu1-lvlu4-lvlu2-2]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^annexI-lvlu1-lvlu4-lvlu2-3]: [SR 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ### «Vereinigtes Königreich
 

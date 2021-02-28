@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: "Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l'Union européenne et de la fin de l'applicabilité de l'accord sur la libre circulation des personnes (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: fr
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-fr-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,11 +18,12 @@ RO **2020** 6451
 
 *Traduction*
 
-Conclu le 25 février 2019
+Conclu le 25 février 2019 Approuvé par l’Assemblée fédérale le 25 sept. 2020[^t-1] Appliqué provisoirement dès le 1<sup>er</sup> janvier 2021 Entré en vigueur par échange de notes le 1<sup>er</sup> mars 2021[^t-2]
 
-Appliqué provisoirement dès le 1<sup>er</sup> janvier 2021
+(État le 1<sup>er</sup> mars 2021)
 
-(Etat le 1<sup>er</sup> janvier 2021)
+[^t-1]: [RO 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
+[^t-2]: [RO 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
 
 La Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord
 
@@ -40,7 +41,7 @@ En vertu de leurs engagements découlant de l’art. 23 ALCP, le Royaume-Uni et 
 
 Le présent Accord protège les droits des ressortissants de la Suisse, du Royaume-Uni et, pour les questions ayant trait à l’Annexe II, de l’Union qui ont acquis des droits en vertu de l’ALCP.
 
-[^1-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 2
 
@@ -524,7 +525,9 @@ En dérogation au deuxième alinéa du par. 1, lorsqu’un acte modifiant ou rem
 - c) rend exportable pour une durée illimitée une prestation en espèces qui est exportable pour une durée limitée en vertu de ce règlement immédiatement avant la date spécifiée ou, à l’inverse, rend exportable pour une durée limitée une prestation en espèces qui est exportable pour une durée illimitée en vertu dudit règlement immédiatement avant la date spécifiée,
 - le Comité mixte évalue les effets de cet acte. En procédant à son évaluation, le Comité mixte examine de bonne foi l’ampleur des modifications visées aux let. a à c, ainsi que l’importance du bon fonctionnement continu des règlements (CE) n<sup>o</sup> 883/2004 et (CE) n<sup>o</sup> 987/2009 entre la Suisse et le Royaume-Uni, et l’importance de définir un État compétent s’agissant des personnes qui relèvent du champ d’application du règlement (CE) n<sup>o</sup> 883/2004.
 - Si le Comité mixte en décide ainsi dans un délai de six mois à compter des informations fournies en vertu du par. 1, la deuxième partie de l’annexe I du présent Accord n’est pas adaptée à l’acte visé au par. 1.
-- [tab] Aux fins du présent paragraphe, on entend par:
+
+Aux fins du présent paragraphe, on entend par:
+
 - d) «exportable»: le caractère d’une prestation due en vertu du règlement (CE) n<sup>o</sup> 883/2004 à une personne, ou en relation avec une personne, résidant dans un État membre autre que celui dans lequel se trouve l’institution débitrice de la prestation; «non exportable» est interprété en conséquence, et
 - e) «exportable pour une durée illimitée»: exportable aussi longtemps que les conditions donnant lieu aux droits sont remplies.
 
@@ -746,8 +749,8 @@ Règlement (CE) n<sup>o</sup> 987/2009 du Parlement européen et du Conseil du 1
 
 Le chiffre II du Protocole à l’annexe II de l’Accord entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes du 21 juin 1999.
 
-[^annexI-lvlu1-partII-1]: [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)
-[^annexI-lvlu1-partII-2]: [RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)
+[^annexI-lvlu1-partII-1]: [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)
+[^annexI-lvlu1-partII-2]: [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)
 
 ### Partie III Adaptations au règlement (CE) n<sup>o</sup> 883/2004 et au règlement (CE) n<sup>o</sup> 987/2009
 
@@ -800,9 +803,9 @@ Toutes les demandes de rentes de vieillesse, de survivants et d’invalidité au
 
 - g) À l’*annexe VIII, partie 2*, le texte suivant est ajouté:
 
-[^annexI-lvlu1-lvlu4-lvlu2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexI-lvlu1-lvlu4-lvlu2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annexI-lvlu1-lvlu4-lvlu2-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexI-lvlu1-lvlu4-lvlu2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexI-lvlu1-lvlu4-lvlu2-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^annexI-lvlu1-lvlu4-lvlu2-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ### «Royaume-Uni
 
@@ -919,4 +922,5 @@ Pour l’application de cette disposition, il n’est tenu compte que des pério
 Aux fins du présent Accord, les dispositions du **règlement (CE) n****<sup>o</sup>** **987/2009** sont adaptées comme suit:
 
 - a) À l’*annexe 3*, le texte suivant est ajouté:
-- [tab] «**Royaume-Uni**».
+
+**«Royaume-Uni»**.

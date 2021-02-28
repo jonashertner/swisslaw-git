@@ -3,11 +3,11 @@ sr: "0.142.113.672"
 title: "Accordo del 25 febbraio 2019 tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall'Unione europea e dall'Accordo sulla libera circolazione delle persone (con allegato)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/1059"
 language: it
-version: 2021-01-01
+version: 2021-03-01
 adopted: 2019-02-25
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/1059/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2020-1059-20210301-it-xml-12.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/1059/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,12 @@ RU **2020** 6451
 
 *Traduzione*
 
-Concluso il 25 febbraio 2019
+Concluso il 25 febbraio 2019 Approvato dall’Assemblea federale il 25 settembre 2020[^t-1] Applicato provvisoriamente dal 1° gennaio 2021 Entrato in vigore mediante scambio di note il 1° marzo 2021[^t-2]
 
-Applicato provvisoriamente dal 1° gennaio 2021
+(Stato 1° marzo 2021)
 
-(Stato 1° gennaio 2021)
+[^t-1]: [RU 2021 85](https://fedlex.data.admin.ch/eli/oc/2021/85)
+[^t-2]: [RU 2021 86](https://fedlex.data.admin.ch/eli/oc/2021/86)
 
 La Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord
 
@@ -40,7 +41,7 @@ Riconoscendo gli impegni assunti in virtù dell’articolo 23 ALC, il Regno Unit
 
 Il presente Accordo tutela i diritti dei cittadini svizzeri, del Regno Unito e, per le questioni relative all’allegato II, dell’Unione acquisiti in virtù dell’ALC.
 
-[^1-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^1-1]: [RS 0.142.112.681](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/211)
 
 #### Art. 2
 
@@ -524,7 +525,9 @@ In deroga al paragrafo 1 secondo comma il Comitato misto valuta gli effetti di u
 - c) rende esportabili per una durata illimitata prestazioni in denaro che immediatamente prima della data stabilita erano esportabili soltanto per una durata limitata conformemente al regolamento (CE) n. 883/2004 o rende esportabili solo per una durata limitata prestazioni in denaro che immediatamente prima della data stabilita erano esportabili per una durata illimitata conformemente al suddetto regolamento.
 - Nell’effettuare la sua valutazione, il Comitato misto tiene conto in buona fede dell’entità delle modifiche di cui alle lettere a-c nonché dell’importanza di garantire la continuità del buon funzionamento dei regolamenti (CE) n. 883/2004 e (CE) n. 987/2009 tra la Svizzera e il Regno Unito e tiene parimenti conto della presenza di uno Stato competente in relazione a persone che rientrano nel campo di applicazione del regolamento (CE) n. 883/2004.
 - Se così deciso dal Comitato misto entro sei mesi dal ricevimento delle informazioni trasmesse a norma del paragrafo 1, l’allegato I parte II del presente Accordo non è adeguato all’atto di cui al primo comma del presente paragrafo.
-- [tab] Ai fini del presente paragrafo per:
+
+Ai fini del presente paragrafo per:
+
 - d) «prestazione esportabile» s’intende una prestazione dovuta a norma del regolamento (CE) n. 883/2004 a o in relazione a una persona che risiede in uno Stato membro diverso da quello in cui l’istituzione debitrice è situata. L’espressione «non esportabile» va interpretata di conseguenza; e
 - e) «prestazione esportabile per una durata illimitata» s’intende una prestazione esportabile fintantoché sono soddisfatte le condizioni che vi danno diritto.
 
@@ -746,8 +749,8 @@ Regolamento (CE) n. 987/2009 del Parlamento europeo e del Consiglio, del 16 sett
 
 Il capitolo II del Protocollo dell’allegato II dell’Accordo tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone.
 
-[^annexI-lvlu1-partII-1]: [RS 0.831.109.268.1](https://fedlex.data.admin.ch/eli/cc/2012/323)
-[^annexI-lvlu1-partII-2]: [RS 0.831.109.268.11](https://fedlex.data.admin.ch/eli/cc/2012/356)
+[^annexI-lvlu1-partII-1]: [RS 0.831.109.268.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3724)
+[^annexI-lvlu1-partII-2]: [RS 0.831.109.268.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3725)
 
 ### Parte III: Adeguamenti al regolamento (CE) n. 883/2004 e al regolamento (CE) n. 987/2009
 
@@ -800,9 +803,9 @@ Tutte le domande di rendite di vecchiaia, per i superstiti e d’invalidità del
 
 - g) All’*allegato VIII parte 2* è aggiunto il testo seguente:
 
-[^annexI-lvlu1-lvlu4-lvlu2-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^annexI-lvlu1-lvlu4-lvlu2-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^annexI-lvlu1-lvlu4-lvlu2-3]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexI-lvlu1-lvlu4-lvlu2-1]: [RS 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
+[^annexI-lvlu1-lvlu4-lvlu2-2]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
+[^annexI-lvlu1-lvlu4-lvlu2-3]: [RS 831.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10094)
 
 ### «Regno Unito
 
