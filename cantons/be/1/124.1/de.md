@@ -4,13 +4,12 @@ number: "124.1"
 title: Gesetz über die Integration der ausländischen Bevölkerung
 short: "Integrationsgesetz, IntG"
 language: de
-version: 2017-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-09
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2013-03-25
 in_force: 2013-03-25
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/124.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1208/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2114/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1208/pdf_file"
 
 (Integrationsgesetz, IntG)
 
-vom 25.03.2013 (Stand 01.01.2017)
+vom 25.03.2013 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -118,7 +117,7 @@ beschliesst:
 
 <sup>1</sup> Die Ansprechstellen für die Integration beraten Privatpersonen sowie private und öffentliche Organisationen in Fragen der Integration.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion stellt sicher, dass der Bevölkerung des ganzen Kantons Ansprechstellen zur Verfügung stehen.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt sicher, dass der Bevölkerung des ganzen Kantons Ansprechstellen zur Verfügung stehen.
 
 <sup>3</sup> Sie bezeichnet die zuständigen Ansprechstellen in Absprache mit den Gemeinden.
 
@@ -280,7 +279,7 @@ beschliesst:
 
 <sup>2</sup> Er analysiert die Situation der Ausländerinnen und Ausländer in Bezug auf die Integration, lässt Massnahmenpläne zum Vollzug dieses Gesetzes im gesamten Tätigkeitsgebiet der Kantonsverwaltung erarbeiten und genehmigt die Massnahmenpläne.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion koordiniert die Integrationsmassnahmen des Kantons. Sie ist Ansprechstelle für die Behörden von Bund und Kanton, für die Gemeinden und für private Organisationen. Sie überwacht die Durchführung der Integrationsmassnahmen in Zusammenarbeit insbesondere mit der Polizei- und Militärdirektion.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion koordiniert die Integrationsmassnahmen des Kantons. Sie ist Ansprechstelle für die Behörden von Bund und Kanton, für die Gemeinden und für private Organisationen. Sie überwacht die Durchführung der Integrationsmassnahmen in Zusammenarbeit insbesondere mit der Sicherheitsdirektion.
 
 ## 7 Schlussbestimmungen
 

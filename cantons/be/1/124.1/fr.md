@@ -4,13 +4,12 @@ number: "124.1"
 title: Loi sur l’intégration de la population étrangère
 short: "Loi sur l’intégration, LInt"
 language: fr
-version: 2017-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-09
+version: 2021-03-01
+version_adopted: 2020-12-16
 adopted: 2013-03-25
 in_force: 2013-03-25
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/124.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1208/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2114/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1208/pdf_file"
 
 (Loi sur l’intégration, LInt)
 
-du 25.03.2013 (état au 01.01.2017)
+du 25.03.2013 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -118,7 +117,7 @@ arrête:
 
 <sup>1</sup> Les antennes d’intégration conseillent aussi bien les particuliers que les organisations privées ou publiques.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale garantit que l’ensemble de la population ait accès aux antennes d’intégration.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration garantit que l’ensemble de la population ait accès aux antennes d’intégration.
 
 <sup>3</sup> Elle désigne d’entente avec les communes les antennes dont leurs habitants relèvent.
 
@@ -280,7 +279,7 @@ arrête:
 
 <sup>2</sup> Il analyse la situation des personnes étrangères sous l’angle de l’intégration, fait élaborer des plans de mesures pour l’application de la présente loi dans l’ensemble des domaines d’activité de l’administration cantonale et adopte lesdits plans.
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale coordonne les mesures d’intégration du canton. Il fait office d’interlocuteur des autorités fédérales, cantonales, des communes et des organisations privées. Il contrôle l’exécution des mesures d’intégration en collaboration, en particulier, avec la Direction de la police et des affaires militaires.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration coordonne les mesures d’intégration du canton. Il fait office d’interlocuteur des autorités fédérales, cantonales, des communes et des organisations privées. Il contrôle l’exécution des mesures d’intégration en collaboration, en particulier, avec la Direction de la sécurité.
 
 ## 7 Dispositions finales
 
