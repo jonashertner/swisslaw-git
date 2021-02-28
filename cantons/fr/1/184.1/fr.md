@@ -1,31 +1,35 @@
 ---
 canton: FR
 number: "184.1"
-title: "Loi sur le guichet de cyberadministration de l'Etat"
-short: LGCyb
+title: Loi sur la cyberadministration
+short: LCyb
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-08-21
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-18
 adopted: 2020-12-18
 in_force: 2021-03-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6745/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6758/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Loi sur le guichet de cyberadministration de l'Etat
+# Loi sur la cyberadministration
 
-Guichet de cyberadministration de l'Etat – L
+Cyberadministration – L
 
-(LGCyb)
+(LCyb)
 
-du 02.11.2016 (version entrée en vigueur le 01.01.2021)
+du 18.12.2020 (version entrée en vigueur le 01.03.2021)
 
 Le Grand Conseil du canton de Fribourg
 
 Vu le message 2016-CE-41 du Conseil d'Etat du 30 août 2016;
+
+Vu le message 2019-CE-239 du Conseil d'Etat du 21 avril 2020;
+
+Vu le message complémentaire 2019-CE-239 du Conseil d'Etat du 22 septembre 2020;
 
 Sur la proposition de cette autorité,
 
@@ -43,6 +47,16 @@ Décrète:
 
 #### Art. 2
 
+**Application aux communes**
+
+<sup>1</sup> Les communes (y compris les établissements communaux et les associations de communes) participent aux solutions informatiques de la cyberadministration conformément aux dispositions de l'article 33.
+
+<sup>2</sup> Leur sont en outre applicables les dispositions de la section 4 sur l'externalisation ainsi que, dans la mesure fixée par l'article 7, les dispositions de la section 2 sur le guichet virtuel.
+
+<sup>3</sup> L'implication de certaines communes dans la phase pilote de mise en œuvre et d'exploitation du Référentiel cantonal est définie par le Conseil d'Etat.
+
+#### Art. 3
+
 **Terminologie**
 
 <sup>1</sup> Dans la présente loi, le terme ou l'expression:
@@ -52,8 +66,13 @@ Décrète:
 - c) «transaction» désigne une transmission électronique de données entre un usager ou une usagère et une autorité administrative, ou entre autorités administratives;
 - d) «prestation» désigne une activité ou un résultat fourni par une autorité administrative à la suite d'un processus déclenché par une transaction;
 - e) «guichet virtuel» désigne l'infrastructure sécurisée s'appuyant sur les technologies de l'information et de la communication par laquelle les usagers et usagères obtiennent des informations ou des prestations de l'administration.
+- f) «cyberadministration» désigne l'utilisation des technologies de l'information et de la communication aussi bien dans le fonctionnement et l'organisation des collectivités publiques que dans leurs relations avec les tiers;
+- g) «externalisation» désigne une forme de sous-traitance impliquant la délocalisation du traitement de données ou de la gestion d'outils informatiques sur les infrastructures du sous-traitant;
+- h) «sous-traitant» désigne une personne privée ou un organe public relevant d'une autre collectivité qui traite des données ou gère des outils informatiques pour le compte d'une autorité administrative.
 
-#### Art. 3
+## 2 Guichet virtuel
+
+#### Art. 4
 
 **Prestations concernées**
 
@@ -67,11 +86,23 @@ Décrète:
 
 <sup>3</sup> Le guichet virtuel indique quelles autorités administratives offrent des prestations par le biais du guichet virtuel, quelles sont ces prestations, quelles transactions peuvent ou doivent être réalisées par ce biais et quels outils et standards informatiques doivent être utilisés.
 
-#### Art. 4
+#### Art. 5
+
+**Traitements de données personnelles**
+
+<sup>1</sup> Les traitements de données personnelles nécessaires en vue de la délivrance de la prestation ou du service demandé requièrent le consentement libre et éclairé de la personne concernée. Ils sont soumis à la législation sur la protection des données.
+
+<sup>2</sup> Lorsque le consentement a été donné en vue d'une prestation périodique, la personne concernée a la possibilité de retirer son consentement en tout temps et sans motif.
+
+<sup>3</sup> La preuve du consentement donné est conservée et doit pouvoir être démontrée en tout temps.
+
+<sup>4</sup> Les données traitées par le guichet virtuel sont conservées pendant une durée limitée. Le Conseil d'Etat règle les détails.
+
+#### Art. 6
 
 **Frais et émoluments**
 
-<sup>1</sup> L'utilisation du guichet virtuel est gratuite. En revanche, les frais d'accès (télécommunication, moyen d'authentification, etc.) sont à la charge des usagers et usagères.
+<sup>1</sup> L'utilisation du guichet virtuel est gratuite.
 
 <sup>2</sup> Un émolument peut toutefois être prévu dans le contrat d'utilisation lorsqu'une catégorie d'usagers ou d'usagères a accès à des prestations particulières occasionnant des frais aux autorités administratives.
 
@@ -81,15 +112,15 @@ Décrète:
 
 <sup>5</sup> Le Conseil d'Etat peut, par voie d'ordonnance, prévoir certains avantages financiers afin d'encourager le recours au guichet virtuel.
 
-#### Art. 5
+#### Art. 7
 
 **Communes**
 
-<sup>1</sup> Les communes (y compris les établissements communaux et les associations de communes) participent aux solutions informatiques de la cyberadministration, conformément aux dispositions de l'article 20.
+<sup>1</sup> Sur la base de conventions de droit administratif passées avec l'Etat, les communes (y compris les établissements communaux et les associations de communes) peuvent offrir leurs propres prestations par le biais du guichet virtuel.
 
-<sup>2</sup> Sur la base d'une convention de droit administratif passée avec l'Etat, elles peuvent également offrir leurs propres prestations par le biais du guichet virtuel. La convention définit en particulier la participation de la commune aux frais d'investissement et de fonctionnement du guichet virtuel.
+<sup>2</sup> Les conventions définissent en particulier la participation des communes aux frais d'investissement et de fonctionnement du guichet virtuel.
 
-#### Art. 6
+#### Art. 8
 
 **Autres fournisseurs**
 
@@ -97,7 +128,7 @@ Décrète:
 
 <sup>2</sup> La convention définit en particulier les prestations concernées et la participation de l'organe tiers aux frais d'investissement et de fonctionnement du guichet virtuel. Elle rappelle en outre les exigences de la législation en matière de protection des données.
 
-#### Art. 7
+#### Art. 9
 
 **Responsabilité des collectivités publiques**
 
@@ -105,13 +136,13 @@ Décrète:
 
 <sup>2</sup> La responsabilité pour le traitement des données personnelles est régie par la législation sur la protection des données.
 
-#### Art. 8
+#### Art. 10
 
 **Responsabilité des autres fournisseurs**
 
-<sup>1</sup> Les autres fournisseurs de prestations (art. 6) sont seuls responsables des données fournies et des dommages qui pourraient en résulter.
+<sup>1</sup> Les autres fournisseurs de prestations (art. 8) sont seuls responsables des données fournies et des dommages qui pourraient en résulter.
 
-#### Art. 9
+#### Art. 11
 
 **Responsabilité des usagers et usagères**
 
@@ -119,17 +150,29 @@ Décrète:
 
 <sup>2</sup> Ils supportent toutes les conséquences de l'utilisation de leurs droits d'accès par une tierce personne à qui ils ont communiqué leurs moyens d'identification et d'authentification.
 
-## 2 Accès au guichet
+#### Art. 12
 
-#### Art. 10
+**Protection des données par défaut et consentement**
+
+<sup>1</sup> Le guichet de cyberadministration et les applications qu'il supporte sont préréglés pour assurer par défaut que seules les données personnelles nécessaires au regard de chaque finalité spécifique du traitement sont traitées.
+
+<sup>2</sup> La personne concernée peut consentir à un traitement élargi de ses données afin de bénéficier de services et/ou de prestations supplémentaires.
+
+#### Art. 13
+
+**Participation à des organisations intercantonales**
+
+<sup>1</sup> Le Conseil d'Etat peut décider de participer à une organisation intercantonale dans le but de partager des compétences et de développer des solutions communes relatives au guichet virtuel. Il peut lui déléguer des tâches dans ce domaine.
+
+#### Art. 14
 
 **Droit d'accès**
 
 <sup>1</sup> La personne qui souhaite procéder à une transaction par le biais du guichet virtuel doit disposer des droits correspondant à son rôle dans la procédure concernée, des moyens d'authentification et, le cas échéant, d'identification nécessaires. L'accès est en outre subordonné à l'acceptation d'un contrat d'utilisation, passé par voie électronique ou par écrit.
 
-<sup>2</sup> Afin d'identifier cette personne et de lui attribuer l'accès à des prestations, les organes chargés de la gestion du guichet virtuel ou de la solution concernée utilisent le référentiel cantonal (art. 13ss) ainsi que les informations existant dans les registres et bases de données pertinents.
+<sup>2</sup> Afin d'identifier cette personne et de lui attribuer l'accès à des prestations, les organes chargés de la gestion du guichet virtuel ou de la solution concernée utilisent le Référentiel cantonal (art. 17ss) ainsi que les informations existant dans les registres et bases de données pertinents.
 
-#### Art. 11
+#### Art. 15
 
 **Représentation**
 
@@ -137,7 +180,7 @@ Décrète:
 
 <sup>2</sup> En cas de représentation contractuelle, la procuration définit clairement l'étendue des pouvoirs de représentation, et en particulier les prestations concernées. Elle peut être révoquée en tout temps.
 
-#### Art. 12
+#### Art. 16
 
 **Historique**
 
@@ -146,27 +189,25 @@ Décrète:
 - a) pour offrir aux usagers et usagères une vue des transactions qui les concernent;
 - b) pour permettre l'exploitation du guichet.
 
-## 3 Cyberadministration
+## 3 Référentiel cantonal
 
-### 3.1 Identificateur de personne et référentiel
-
-#### Art. 13
+#### Art. 17
 
 **Principes**
 
 <sup>1</sup> Pour mettre à la disposition des autorités administratives, de manière centralisée et sûre, des données de référence fiables, la présente loi autorise la création:
 
 - a) d'un identificateur unique de personne;
-- b) d'une plate-forme informatique gérant un référentiel des personnes et des données de base (ci-après: référentiel cantonal);
+- b) d'une plate-forme informatique gérant un référentiel des personnes et des données de base (ci-après: Référentiel cantonal);
 - c) de registres et bases de données adaptés aux exigences d'interopérabilité accrue des processus et prestations transversaux.
 
-<sup>2</sup> Le référentiel cantonal est un ensemble de données communes à plusieurs applications, qui ne contient que des données personnelles non sensibles au sens de la législation sur la protection des données ou dont l'utilisation dans le référentiel a été dûment autorisée. Il contient également les données nécessaires à l'exploitation du guichet.
+<sup>2</sup> Le Référentiel cantonal est un ensemble de données communes à plusieurs applications, qui ne contient que des données personnelles non sensibles au sens de la législation sur la protection des données ou dont l'utilisation dans le Référentiel a été dûment autorisée. Il contient également les données nécessaires à l'exploitation du guichet.
 
 <sup>3</sup> Les données de base sont des informations non sensibles et d'utilité générale, comme des informations sur les organes des collectivités publiques (noms et adresses des communes et des unités administratives, etc.), des adresses postales, la liste des pays ainsi que des nomenclatures standardisées (titres civils, genres, nationalités, types de personnes morales, etc.).
 
-<sup>4</sup> La gestion des registres et des bases de données repose sur les autorisations prévues par la législation spéciale. L'article 21 de la présente loi demeure réservé.
+<sup>4</sup> La gestion des registres et des bases de données repose sur les autorisations prévues par la législation spéciale. L'article 35 de la présente loi demeure réservé.
 
-#### Art. 14
+#### Art. 18
 
 **Identificateur de personne**
 
@@ -174,11 +215,11 @@ Décrète:
 
 <sup>2</sup> Un numéro qui n'est plus utilisé ne doit pas être attribué à une autre personne.
 
-#### Art. 15
+#### Art. 19
 
 **Référentiel des personnes physiques**
 
-<sup>1</sup> L'enregistrement des personnes physiques dans le référentiel cantonal contient en particulier les données suivantes:
+<sup>1</sup> L'enregistrement des personnes physiques dans le Référentiel cantonal contient en particulier les données suivantes:
 
 - a) nom, prénom et adresses (de domicile et postales);
 - b) données de contact telles que numéros de téléphone et adresses électroniques;
@@ -187,44 +228,141 @@ Décrète:
 - e) état civil;
 - f) identificateur de personne du conjoint ou de la conjointe, ou du ou de la partenaire enregistré-e;
 - g) identificateur de la personne qui représente légalement ou volontairement la personne concernée;
-- h) identificateur non signifiant (notamment fédéral) utilisé transversalement dans l'administration;
-- i) langue de correspondance;
-- j) autres données fournies volontairement par l'usager ou l'usagère.
+- h) numéro AVS;
+- i) identificateurs sectoriels utilisés par les métiers;
+- j) langue de correspondance;
+- k) autres données fournies volontairement par l'usager ou l'usagère.
 
-#### Art. 16
+#### Art. 20
+
+**Utilisation systématique du numéro AVS – Principes**
+
+<sup>1</sup> En application de l'article 50e al. 3 de la loi fédérale du 20 décembre 1946 sur l'assurance-vieillesse et survivants, l'utilisation systématique du numéro AVS dans le Référentiel cantonal est autorisée dans les buts suivants:
+
+- a) identifier de manière sûre et univoque les personnes physiques recensées;
+- b) assurer un taux d'exactitude des données traitées le plus élevé possible;
+- c) actualiser automatiquement les données d'une personne en cas de changement.
+
+<sup>2</sup> L'utilisation du numéro AVS à d'autres fins que celles qui sont décrites à l'alinéa 1 est prohibée. En particulier, il est interdit de faire usage du numéro AVS comme moyen d'apparier des données entre elles à des fins de profilage ou d'investigation. Les lois spéciales sont réservées.
+
+<sup>3</sup> Dans la mesure où une loi fédérale ou cantonale autorise d'autres organes publics ou des tiers à traiter cette donnée, le numéro AVS peut leur être communiqué par voie d'appel.
+
+#### Art. 21
+
+**Utilisation systématique du numéro AVS – Mesures de sécurité**
+
+<sup>1</sup> Le numéro AVS est protégé contre tout traitement non autorisé par des mesures organisationnelles et techniques appropriées, adaptées à l'évolution des technologies disponibles et conformes aux exigences du droit fédéral.
+
+<sup>2</sup> L'Autorité cantonale de la transparence et de la protection des données est consultée sur le choix des mesures à mettre en place.
+
+#### Art. 22
 
 **Référentiel des personnes morales**
 
-<sup>1</sup> L'enregistrement d'une personne morale dans le référentiel cantonal comprend en particulier les données suivantes:
+<sup>1</sup> L'enregistrement d'une personne morale dans le Référentiel cantonal comprend en particulier les données suivantes:
 
 - a) raison sociale et adresses;
 - b) données de contact telles que numéros de téléphone et adresses électroniques;
 - c) numéro de l'identificateur de personne;
 - d) date de fondation ou de dissolution de la personne morale;
 - e) identificateurs de personne des membres des organes ou des représentants ou représentantes de la personne morale concernée;
-- f) identificateur non signifiant (notamment fédéral) utilisé transversalement dans l'administration;
+- f) numéro unique d'identification des entreprises (ci-après: numéro IDE) au sens de la loi fédérale du 18 juin 2010 sur le numéro d'identification des entreprises (LIDE) et numéro d'enregistrement non significatif (ci-après: numéro REE) au sens de l'article 10 de la loi fédérale du 9 octobre 1992 sur la statistique;
 - g) langue de correspondance;
 - h) autres données fournies volontairement par l'usager ou l'usagère.
 
-#### Art. 17
+#### Art. 23
+
+**Utilisation systématique des numéros IDE et REE – Principes**
+
+<sup>1</sup> Le numéro IDE et le numéro REE peuvent être utilisés systématiquement dans le Référentiel cantonal dans les buts suivants:
+
+- a) identifier de manière sûre et univoque les personnes morales recensées;
+- b) assurer un taux d'exactitude des données traitées le plus élevé possible;
+- c) actualiser automatiquement les données d'une personne en cas de changement.
+
+<sup>2</sup> L'utilisation des numéros IDE et REE à d'autres fins que celles qui sont décrites à l'alinéa 1 est prohibée. En particulier, il est interdit de faire usage des numéros IDE et REE comme moyen d'apparier des données entre elles à des fins de profilage ou d'investigation. Les lois spéciales sont réservées.
+
+<sup>3</sup> Les numéros IDE et REE peuvent être communiqués par voie d'appel à d'autres organes publics ou à des tiers dans la mesure où le droit fédéral le permet et conformément aux conditions posées par celui-ci.
+
+#### Art. 24
+
+**Utilisation systématique des numéros IDE et REE – Mesures de sécurité**
+
+<sup>1</sup> Les numéros IDE et REE sont protégés contre tout traitement non autorisé par des mesures organisationnelles et techniques appropriées, adaptées à l'évolution des technologies disponibles et conformes aux exigences du droit fédéral.
+
+#### Art. 25
 
 **Protection et sécurité des données**
 
-<sup>1</sup> Le référentiel cantonal contient également les éventuelles mentions concernant la fiabilité des données et les restrictions de l'accès aux données.
+<sup>1</sup> Le Référentiel cantonal contient également les éventuelles mentions concernant la fiabilité des données et les restrictions de l'accès aux données.
 
-<sup>2</sup> La présente loi autorise le traitement par voie d'appel des données du référentiel cantonal si l'application appelante bénéficie d'une base légale autorisant le traitement de ces données.
+<sup>2</sup> La présente loi autorise le traitement par voie d'appel des données du Référentiel cantonal si l'application appelante bénéficie d'une base légale autorisant le traitement de ces données.
 
 <sup>3</sup> Des mesures de sécurité protègent les données personnelles contre toute atteinte à leur confidentialité et contre tout traitement non autorisé. Elles garantissent notamment qu'une application n'accède qu'aux données personnelles nécessaires pour la fourniture de la prestation requise.
 
-### 3.2 Principes généraux en matière de cyberadministration
+#### Art. 26
 
-#### Art. 18
+**Organe responsable du Référentiel cantonal**
+
+<sup>1</sup> Le Conseil d'Etat désigne l'organe responsable du Référentiel cantonal, qui a qualité de responsable du fichier au sens de la législation sur la protection des données.
+
+<sup>2</sup> L'organe responsable est autorisé à utiliser de manière systématique les numéros AVS, IDE et REE conformément à la présente loi.
+
+## 4 Externalisation
+
+#### Art. 27
+
+**Principes**
+
+<sup>1</sup> Le traitement électronique de données et la gestion d'outils informatiques peuvent être externalisés aux conditions de la présente section.
+
+<sup>2</sup> Sont toutefois réservées:
+
+- a) les exigences prévues par la législation sur la protection des données, lorsque l'externalisation porte sur le traitement de données personnelles;
+- b) les exigences particulières de l'article 54 de la Constitution du canton de Fribourg du 16 mai 2004, lorsque l'externalisation implique une délégation de tâches à des tiers au sens de cette disposition.
+
+#### Art. 28
+
+**Respect des secrets particuliers**
+
+<sup>1</sup> Le traitement de données qui font l'objet d'une obligation légale ou contractuelle de garder le secret ne peut être externalisé que si la confidentialité à l'égard du sous-traitant est assurée de manière que ce dernier ne puisse avoir accès à leur contenu.
+
+<sup>2</sup> Lorsque le sous-traitant doit impérativement avoir accès aux données pour des raisons techniques, le contrat d'externalisation fixe les exigences particulières nécessaires, en particulier l'engagement du sous-traitant de n'accéder au contenu des données qu'avec le consentement exprès de l'autorité administrative qui procède à l'externalisation et l'obligation de tenir un journal des accès.
+
+#### Art. 29
+
+**Mesures de sécurité**
+
+<sup>1</sup> L'intégrité, l'authenticité, la disponibilité et la confidentialité du patrimoine informationnel concerné par une externalisation ainsi que la pérennité de sa conservation et de son exploitation doivent être garanties par des mesures organisationnelles et techniques appropriées et adaptées à l'évolution des technologies disponibles.
+
+<sup>2</sup> Lorsque l'externalisation concerne des données indispensables au fonctionnement de l'administration, la continuité des activités externalisées doit, en cas d'incident, être garantie par un dispositif adéquat.
+
+#### Art. 30
+
+**Responsabilités**
+
+<sup>1</sup> L'autorité administrative qui procède à une externalisation demeure responsable de la pérennité de la conservation et de l'exploitation de son patrimoine informationnel. En particulier:
+
+- a) elle prend les précautions commandées par les circonstances quant au choix du sous-traitant, à son instruction et à sa surveillance;
+- b) elle assure la sécurité des données et de ses propres systèmes d'information par la conclusion d'un contrat qui décrit au minimum l'objet, la nature, la finalité et la durée de l'externalisation, les catégories de données concernées ainsi que les obligations et les droits de chaque partie;
+- c) elle ne confie pas au sous-traitant des traitements qu'elle ne serait pas en droit d'effectuer elle-même;
+- d) elle veille à ce que les données et les outils informatiques concernés par une externalisation puissent être récupérés en tout temps, notamment dans le but de changer de sous-traitant, de procéder à leur réinternalisation ou de les verser aux archives historiques.
+
+<sup>2</sup> Lorsque l'externalisation concerne plusieurs autorités différentes au sein d'une même collectivité publique, une autorité principalement responsable est désignée.
+
+<sup>3</sup> Au sein de l'administration cantonale, la responsabilité de la mise en œuvre et du suivi des règles de la présente section est assumée conjointement par l'autorité administrative et par le service en charge de l'informatique[^30-1]. Sont réservés les cas dans lesquels l'autorité administrative gère de manière autonome ses systèmes informatiques.
+
+[^30-1]: Actuellement: Service de l'informatique et des télécommunications.
+
+## 5 Développement de la cyberadministration
+
+#### Art. 31
 
 **Stratégie**
 
 <sup>1</sup> Le Conseil d'Etat adopte la stratégie cantonale de cyberadministration en tenant compte de la stratégie suisse en ce domaine.
 
-#### Art. 19
+#### Art. 32
 
 **Solutions uniformes**
 
@@ -237,7 +375,7 @@ Décrète:
 - e) les données publiques ouvertes;
 - f) l'archivage.
 
-#### Art. 20
+#### Art. 33
 
 **Communes**
 
@@ -249,39 +387,30 @@ Décrète:
 
 <sup>4</sup> Lorsque les nouvelles solutions imposées par l'Etat entrent en conflit avec celles qui ont déjà été mises en place par une ou des communes, l'Etat doit en tenir compte et assurer gratuitement un transfert de données efficace et fiable.
 
-#### Art. 21
+#### Art. 34
+
+**Moyen d'identification électronique**
+
+<sup>1</sup> L'accès aux prestations électroniques fournies par l'Etat et les communes est en principe subordonné à l'utilisation par les usagers et usagères d'un moyen d'identification électronique.
+
+<sup>2</sup> Pour certaines prestations, l'Etat peut imposer l'utilisation d'un moyen d'identification électronique déterminé qui doit répondre au niveau d'exigences prévu pour les prestations concernées; les frais d'utilisation sont alors pris en charge par l'Etat.
+
+<sup>3</sup> L'Etat peut mettre en place des autorités d'enregistrement qui procèdent gratuitement à la vérification de l'identité des personnes détentrices du ou des moyens d'identification électronique choisis. D'entente avec l'Etat, les communes peuvent également offrir ce service.
+
+<sup>4</sup> Le Conseil d'Etat règle les modalités par voie d'ordonnance.
+
+#### Art. 35
 
 **Dérogation en matière de protection des données**
 
-<sup>1</sup> Après consultation de l'Autorité cantonale de la transparence et de la protection des données, le Conseil d'Etat peut autoriser le traitement automatisé de données sensibles si cela paraît indispensable pour réaliser un essai pilote ou préparer une application pendant la procédure d'adoption ou d'adaptation de sa base légale. Les éventuelles mentions concernant la fiabilité des données et les restrictions de l'accès aux données doivent toutefois être prises en compte.
+<sup>1</sup> Le traitement automatisé de données personnelles sensibles dans des projets pilotes ou pendant la phase d'adoption ou d'adaptation des bases légales est régi par la loi sur la protection des données.
 
-<sup>2</sup> Une phase d'essai peut être considérée comme indispensable pour traiter les données:
+## 6 Disposition transitoire
 
-- a) si l'accomplissement des tâches nécessite l'introduction d'innovations techniques dont les effets doivent être évalués;
-- b) si l'accomplissement des tâches nécessite la prise de mesures organisationnelles ou techniques importantes dont l'efficacité doit être examinée, notamment dans le cadre d'une collaboration entre les organes fédéraux et les cantons.
+#### Art. 36
 
-<sup>3</sup> L'organe responsable transmet, au plus tard deux ans après la mise en œuvre de la phase d'essai, un rapport d'évaluation au Conseil d'Etat. Dans ce rapport, il lui propose la poursuite ou l'interruption du traitement.
+<sup>1</sup> Pour autant que besoin, les contrats d'externalisation conclus avant l'entrée en vigueur de la présente loi sont adaptés aux exigences de la section relative à l'externalisation lors de leur renouvellement, mais au plus tard dans un délai de cinq ans.
 
-<sup>4</sup> Si le Conseil d'Etat autorise la poursuite du traitement, il engage immédiatement la procédure législative pour donner une base légale formelle au traitement de ces données.
+<sup>2</sup> Les modalités de la gestion du consentement prévu à l'article 5 et de l'utilisation des moyens d'identification électronique mentionnés à l'article 34 sont mises en œuvre progressivement, mais au plus tard dans un délai de trois ans.
 
-## 4 Dispositions finales
-
-#### Art. 22
-
-**Modification**
-
-<sup>1</sup> Le code du 23 mai 1991 de procédure et de juridiction administrative (RSF 150.1) est modifié conformément à l'annexe[^22-1] de la présente loi.
-
-[^22-1]: Annexe modificatrice non reproduite dans le RSF.
-
-#### Art. 23
-
-**Entrée en vigueur et referendum**
-
-<sup>1</sup> Le Conseil d'Etat fixe la date d'entrée en vigueur de la présente loi.[^23-1]
-
-<sup>2</sup> La présente loi est soumise au referendum législatif. Elle n'est pas soumise au referendum financier.
-
-[^23-1]: Date d'entrée en vigueur: 1<sup>er</sup> janvier 2017 (ACE 20.12.2016).
-
-2016\_138
+2020\_195
