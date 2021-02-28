@@ -4,13 +4,13 @@ number: "811.05"
 title: Ordonnance sur la Commission cantonale d’éthique de la recherche
 short: OCCER
 language: fr
-version: 2016-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-10-28
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2014-08-20
 in_force: 2014-09-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.05"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2123/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/889/pdf_file"
 
 (OCCER)
 
-du 20.08.2014 (état au 01.01.2016)
+du 20.08.2014 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -39,13 +39,13 @@ arrête:
 
 <sup>2</sup> Elle est dotée d’un secrétariat scientifique.
 
-<sup>3</sup> Elle est soumise à la surveillance de la Direction de la santé publique et de la prévoyance sociale et est rattachée administrativement à l’Office du pharmacien cantonal.
+<sup>3</sup> Elle est soumise à la surveillance de la Direction de la santé, des affaires sociales et de l’intégration et est rattachée administrativement à l’Office du pharmacien cantonal.
 
-<sup>4</sup> La Direction de la santé publique et de la prévoyance sociale et la commission d’éthique concluent, en accord avec la Direction de l’instruction publique, un contrat de prestations au sens de l’article 22 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^1-1].
+<sup>4</sup> La Direction de la santé, des affaires sociales et de l’intégration et la commission d’éthique concluent, en accord avec la Direction de l’instruction publique et de la culture, un contrat de prestations au sens de l’article 22 de la loi du 20 juin 1995 sur l’organisation du Conseil-exécutif et de l’administration (loi d’organisation, LOCA)[^1-1].
 
-<sup>5</sup> L’organisation et la marche des affaires de la commission d’éthique sont définies dans un règlement à approuver par le directeur ou la directrice de la santé publique et de la prévoyance sociale, après consultation de la Direction de l’instruction publique.
+<sup>5</sup> L’organisation et la marche des affaires de la commission d’éthique sont définies dans un règlement à approuver par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration, après consultation de la Direction de l’instruction publique et de la culture.
 
-[^1-1]: RSB 152.01
+[^1-1]: RSB [152.01](https://www.belex.sites.be.ch/data/152.01/fr)
 
 #### Art. 2
 
@@ -61,9 +61,9 @@ arrête:
 
 **Nomination et période de fonction**
 
-<sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de la commission d’éthique sur proposition de la Direction de la santé publique et de la prévoyance sociale, après consultation de la Direction de l’instruction publique, pour une période de fonction de quatre ans.
+<sup>1</sup> Le Conseil-exécutif nomme le président ou la présidente de la commission d’éthique sur proposition de la Direction de la santé, des affaires sociales et de l’intégration, après consultation de la Direction de l’instruction publique et de la culture, pour une période de fonction de quatre ans.
 
-<sup>2</sup> Les autres membres de la commission d’éthique sont nommés par le directeur ou la directrice de la santé publique et de la prévoyance sociale, après consultation de la Direction de l’instruction publique, pour une durée de quatre ans.
+<sup>2</sup> Les autres membres de la commission d’éthique sont nommés par le directeur ou la directrice de la santé, des affaires sociales et de l’intégration, après consultation de la Direction de l’instruction publique et de la culture, pour une durée de quatre ans.
 
 <sup>3</sup> La Faculté de médecine de l’Université de Berne peut proposer quatre médecins et la Faculté des sciences humaines un ou une psychologue.
 
@@ -85,7 +85,7 @@ arrête:
 
 <sup>1</sup> Le secrétariat scientifique de la commission d’éthique se compose d’un directeur ou d’une directrice et de collaborateurs et de collaboratrices scientifiques remplissant les exigences définies à l’article 3, alinéa 1 Org LRH ainsi que de personnel administratif.
 
-<sup>2</sup> Le personnel du secrétariat scientifique est engagé par la Direction de la santé publique et de la prévoyance sociale selon les dispositions de la législation cantonale sur le personnel.
+<sup>2</sup> Le personnel du secrétariat scientifique est engagé par la Direction de la santé, des affaires sociales et de l’intégration selon les dispositions de la législation cantonale sur le personnel.
 
 <sup>3</sup> Le président ou la présidente de la commission d’éthique conduit l’entretien d’évaluation périodique avec le directeur ou la directrice du secrétariat scientifique après consultation du pharmacien cantonal ou de la pharmacienne cantonale concernant les questions d’organisation.
 
@@ -103,7 +103,7 @@ arrête:
 
 **Voies de droit**
 
-<sup>1</sup> Les décisions de la commission d’éthique peuvent faire l’objet d’un recours auprès de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les décisions de la commission d’éthique peuvent faire l’objet d’un recours auprès de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> La procédure est régie par les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^8-1].
 

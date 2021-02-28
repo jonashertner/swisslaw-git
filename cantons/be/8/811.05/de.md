@@ -4,13 +4,13 @@ number: "811.05"
 title: Verordnung über die Kantonale Ethikkommission für die Forschung
 short: KEKV
 language: de
-version: 2016-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-10-28
+version: 2021-03-01
+valid_until: 2021-07-31
+version_adopted: 2020-12-16
 adopted: 2014-08-20
 in_force: 2014-09-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.05"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/889/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2123/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/889/pdf_file"
 
 (KEKV)
 
-vom 20.08.2014 (Stand 01.01.2016)
+vom 20.08.2014 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -39,13 +39,13 @@ beschliesst:
 
 <sup>2</sup> Sie verfügt über ein wissenschaftliches Sekretariat.
 
-<sup>3</sup> Sie steht unter der Aufsicht der Gesundheits- und Fürsorgedirektion und ist dem Kantonsapothekeramt administrativ zugeordnet.
+<sup>3</sup> Sie steht unter der Aufsicht der Gesundheits-, Sozial- und Integrationsdirektion und ist dem Kantonsapothekeramt administrativ zugeordnet.
 
-<sup>4</sup> Die Gesundheits- und Fürsorgedirektion und die KEK Bern schliessen in Absprache mit der Erziehungsdirektion eine Leistungsvereinbarung im Sinne von Artikel 22 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG[^1-1]) ab.
+<sup>4</sup> Die Gesundheits-, Sozial- und Integrationsdirektion und die KEK Bern schliessen in Absprache mit der Bildungs- und Kulturdirektion eine Leistungsvereinbarung im Sinne von Artikel 22 des Gesetzes vom 20. Juni 1995 über die Organisation des Regierungsrates und der Verwaltung (Organisationsgesetz, OrG)[^1-1] ab.
 
-<sup>5</sup> Organisation und Geschäftsgang der KEK Bern werden in einem Geschäftsreglement geregelt, das durch die Gesundheits- und Fürsorgedirektorin oder den Gesundheits- und Fürsorgedirektor nach Konsultation der Erziehungsdirektion zu genehmigen ist.
+<sup>5</sup> Organisation und Geschäftsgang der KEK Bern werden in einem Geschäftsreglement geregelt, das durch die Gesundheits-, Sozial- und Integrationsdirektorin oder den Gesundheits-, Sozial- und Integrationsdirektor nach Konsultation der Bildungs- und Kulturdirektion zu genehmigen ist.
 
-[^1-1]: SR 810.308
+[^1-1]: BSG [152.01](https://www.belex.sites.be.ch/data/152.01/de)
 
 #### Art. 2
 
@@ -59,9 +59,9 @@ beschliesst:
 
 **Wahl, Amtsdauer**
 
-<sup>1</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten der KEK Bern auf Antrag der Gesundheits- und Fürsorgedirektion nach Konsultation der Erziehungsdirektion für eine Amtsdauer von vier Jahren.
+<sup>1</sup> Der Regierungsrat wählt die Präsidentin oder den Präsidenten der KEK Bern auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion nach Konsultation der Bildungs- und Kulturdirektion für eine Amtsdauer von vier Jahren.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektorin oder der Gesundheits- und Fürsorgedirektor wählt die übrigen Mitglieder der KEK Bern nach Konsultation der Erziehungsdirektion für eine Amtsdauer von vier Jahren.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektorin oder der Gesundheits-, Sozial- und Integrationsdirektor wählt die übrigen Mitglieder der KEK Bern nach Konsultation der Bildungs- und Kulturdirektion für eine Amtsdauer von vier Jahren.
 
 <sup>3</sup> Der Medizinischen Fakultät der Universität Bern steht ein Vorschlagsrecht für vier Ärztinnen und Ärzte, der Philosophisch-humanwissenschaftlichen Fakultät eines für eine Psychologin oder einen Psychologen zu.
 
@@ -83,7 +83,7 @@ beschliesst:
 
 <sup>1</sup> Das wissenschaftliche Sekretariat der KEK Bern besteht aus einer Leiterin oder einem Leiter und weiteren wissenschaftlichen Mitarbeiterinnen und Mitarbeitern, die den Anforderungen nach Artikel 3 Absatz 1 OV-HFG zu genügen haben, sowie administrativen Mitarbeiterinnen und Mitarbeitern.
 
-<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des wissenschaftlichen Sekretariats werden nach den Bestimmungen der kantonalen Personalgesetzgebung durch die Gesundheits- und Fürsorgedirektion angestellt.
+<sup>2</sup> Die Mitarbeiterinnen und Mitarbeiter des wissenschaftlichen Sekretariats werden nach den Bestimmungen der kantonalen Personalgesetzgebung durch die Gesundheits-, Sozial- und Integrationsdirektion angestellt.
 
 <sup>3</sup> Die Präsidentin oder der Präsident der KEK Bern führt das periodische Mitarbeitergespräch mit der Leiterin oder dem Leiter des wissenschaftlichen Sekretariats durch, wobei sie oder er vorgängig die Kantonsapothekerin oder den Kantonsapotheker bezüglich Anliegen organisatorischer Art konsultiert.
 
@@ -101,7 +101,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Verfügungen der KEK Bern können mit Beschwerde bei der Gesundheits- und Fürsorgedirektion angefochten werden.
+<sup>1</sup> Verfügungen der KEK Bern können mit Beschwerde bei der Gesundheits-, Sozial- und Integrationsdirektion angefochten werden.
 
 <sup>2</sup> Das Verfahren richtet sich nach den Bestimmungen des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^8-1]).
 
