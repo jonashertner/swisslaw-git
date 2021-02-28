@@ -4,7 +4,7 @@ number: "446.12"
 title: LOI du 08.04.2014 sur le patrimoine mobilier et immatériel (LPMI)
 short: LPMI
 language: fr
-version: 2019-03-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/446.12?id=f9bd60c5-294f-400c-819e-9ea617afdad4"
 ---
 
@@ -18,15 +18,16 @@ du 8 avril 2014
 
 LE GRAND CONSEIL DU CANTON DE VAUD
 
-vu les articles 52 et 53 de la Constitution du Canton de Vaud du 14 avril 2003
+vu les articles 52 et 53 de la Constitution du Canton de Vaud du 14 avril 2003 [^ingress-1]
 
-vu la loi du 22 février 2005 sur les subventions[^ingress-1]
+vu la loi du 22 février 2005 sur les subventions [^ingress-2]
 
 vu le projet de loi présenté par le Conseil d'Etat
 
 décrète
 
-[^ingress-1]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
+[^ingress-1]: Constitution du Canton de Vaud du 14.04.2003 ([BLV 101.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/101.01?id=f79b6681-185b-42a1-946d-55fb19430277))
+[^ingress-2]: Loi du 22.02.2005 sur les subventions ([BLV 610.15](https://prestations.vd.ch/pub/blv-publication/actes/consolide/610.15?id=83269e93-101d-4436-b84c-6232d5f7c73f))
 
 ## Titre I Dispositions générales
 
@@ -56,17 +57,14 @@ décrète
 
 **Définitions**
 
-<sup>1</sup> a) Patrimoine mobilier : l'ensemble des objets ou groupes d'objets mobiliers qui présentent un intérêt archéologique, historique, géologique, biologique, esthétique, scientifique, technique, ethnologique, anthropologique, documentaire, artistique ou éducatif, à titre religieux ou profane, en tant qu'héritage du passé ou témoin du monde actuel.
+<sup>1</sup> On entend par :
 
-b) Patrimoine immatériel : les pratiques, représentations, expressions, connaissances et savoir-faire – ainsi que les instruments, objets, artefacts et espaces culturels qui leur sont associés – que les communautés, les groupes et le cas échéant, les individus reconnaissent comme faisant partie de leur patrimoine culturel.
-
-c) Sauvegarde : les mesures visant à préserver, conserver et mettre en valeur le patrimoine mobilier et immatériel, y compris l'identification, la documentation, la recherche, la préservation, la protection, la mise en valeur, la transmission et la revitalisation des différents aspects de ces patrimoines.
-
-d) Bien culturel mobilier : tout objet ou groupe d'objets relevant du patrimoine mobilier. En font notamment partie les échantillons représentatifs des règnes minéral, végétal et animal, les vestiges archéologiques mobiliers, les objets et collections présentant un intérêt historique, ethnologique ou anthropologique, les sources historiques, les oeuvres d'art, les collections techniques et scientifiques ainsi que les documents sous toute forme de support.
-
-e) Elément du patrimoine immatériel : composante du patrimoine immatériel se manifestant notamment dans les traditions et expressions orales, arts du spectacle, pratiques sociales, rituels et événements festifs, connaissances et pratiques concernant la nature et l'univers, savoir-faire liés à l'artisanat traditionnel.
-
-f) Collection : ensemble de biens culturels mobiliers détenus par une institution patrimoniale en raison de leur valeur exemplaire, de référence ou de leur importance esthétique ou éducative. Les fonds déposés auprès d'une institution patrimoniale font partie des collections.
+- a. Patrimoine mobilier : l'ensemble des objets ou groupes d'objets mobiliers qui présentent un intérêt archéologique, historique, géologique, biologique, esthétique, scientifique, technique, ethnologique, anthropologique, documentaire, artistique ou éducatif, à titre religieux ou profane, en tant qu'héritage du passé ou témoin du monde actuel.
+- b. Patrimoine immatériel : les pratiques, représentations, expressions, connaissances et savoir-faire – ainsi que les instruments, objets, artefacts et espaces culturels qui leur sont associés – que les communautés, les groupes et le cas échéant, les individus reconnaissent comme faisant partie de leur patrimoine culturel.
+- c. Sauvegarde : les mesures visant à préserver, conserver et mettre en valeur le patrimoine mobilier et immatériel, y compris l'identification, la documentation, la recherche, la préservation, la protection, la mise en valeur, la transmission et la revitalisation des différents aspects de ces patrimoines.
+- d. Bien culturel mobilier : tout objet ou groupe d'objets relevant du patrimoine mobilier. En font notamment partie les échantillons représentatifs des règnes minéral, végétal et animal, les vestiges archéologiques mobiliers, les objets et collections présentant un intérêt historique, ethnologique ou anthropologique, les sources historiques, les oeuvres d'art, les collections techniques et scientifiques ainsi que les documents sous toute forme de support.
+- e. Élément du patrimoine immatériel : composante du patrimoine immatériel se manifestant notamment dans les traditions et expressions orales, arts du spectacle, pratiques sociales, rituels et événements festifs, connaissances et pratiques concernant la nature et l'univers, savoir-faire liés à l'artisanat traditionnel.
+- f. Collection : ensemble de biens culturels mobiliers détenus par une institution patrimoniale en raison de leur valeur exemplaire, de référence ou de leur importance esthétique ou éducative. Les fonds déposés auprès d'une institution patrimoniale font partie des collections.
 
 #### Art. 4
 
@@ -320,13 +318,15 @@ f) Collection : ensemble de biens culturels mobiliers détenus par une instituti
 
 **Signalement de la découverte**
 
-<sup>1</sup> La découverte dans le sol de curiosités naturelles ou d'antiquités qui, en vertu de l'article 724 CCS , sont propriété de l'Etat (ci-après : trouvailles) doit être immédiatement signalée au département en charge de la nature, respectivement de l'archéologie cantonale.
+<sup>1</sup> La découverte dans le sol de curiosités naturelles ou d'antiquités qui, en vertu de l'article 724 CCS[^27-1] , sont propriété de l'Etat (ci-après : trouvailles) doit être immédiatement signalée au département en charge de la nature, respectivement de l'archéologie cantonale.
 
 <sup>2</sup> Les trouvailles mises au jour de manière fortuite sont immédiatement remises au poste de police le plus proche ou à toute administration cantonale ou communale, qui en avise le département concerné.
 
 <sup>3</sup> Les auteurs de la découverte ont droit à une indemnisation équitable pour autant qu'ils aient agi légalement.
 
 <sup>4</sup> Les alinéas 1 à 3 s'appliquent par analogie en vertu de l'article 723, alinéa 2 CCS aux trouvailles monétaires offrant un intérêt scientifique.
+
+[^27-1]: [Code civil suisse du 10 décembre 1907, RS 210](https://www.admin.ch/opc/fr/classified-compilation/19070042/index.html)
 
 #### Art. 28
 
@@ -462,14 +462,14 @@ f) Collection : ensemble de biens culturels mobiliers détenus par une instituti
 
 <sup>4</sup> Les fonds existants suivants :
 
-- a. fonds du Musée de l'Elysée ;
-- b. fonds du Musée cantonal d'archéologie et d'histoire ;
+- a. ...
+- b. fonds des musées cantonaux d'archéologie;
 - c. fonds des publications du Musée cantonal d'archéologie et d'histoire ;
 - d. fonds de la Bibliothèque cantonale et universitaire ;
 - e. fonds des acquisitions pour l'Université de Lausanne ;
 - f. fonds de coordination du réseau vaudois des bibliothèques affiliées au Réseau romand et tessinois (RERO),
 
-sont destinés à faciliter l'achat d'objets culturels mobiliers, l'organisation d'expositions temporaires particulières ou d'événements spéciaux ainsi que des publications.
+sont destinés à faciliter l'achat d'objets culturels mobiliers, le financement de travaux de restauration, l'organisation d'expositions temporaires particulières ou d'événements spéciaux ainsi que des publications.
 
 <sup>5</sup> Les fonds spécifiques des institutions patrimoniales cantonales sont alimentées :
 
