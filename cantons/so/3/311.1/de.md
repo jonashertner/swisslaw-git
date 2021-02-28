@@ -3,20 +3,20 @@ canton: SO
 number: "311.1"
 title: Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches
 language: de
-version: 2018-01-01
-valid_until: 2021-02-28
-version_adopted: 2017-07-05
+version: 2021-03-01
+valid_until: 2021-10-31
+version_adopted: 2020-05-06
 adopted: 1941-09-14
 in_force: 1942-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/311.1"
-pdf: "https://bgs.so.ch/api/de/versions/4649/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5050/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über das kantonale Strafrecht und die Einführung des Schweizerischen Strafgesetzbuches
 
-Vom 14.09.1941 (Stand 01.01.2018)
+Vom 14.09.1941 (Stand 01.03.2021)
 
 Der Kantonsrat von Solothurn
 
@@ -333,6 +333,22 @@ beschliesst:
 **Ungehorsam gegen die Polizei**
 
 <sup>1</sup> Wer der Anordnung oder Aufforderung nicht nachkommt, die ein Polizeibeamter innerhalb seiner Befugnisse erlässt, wird mit Haft bis 8 Tage oder Busse bestraft.
+
+#### § 31bis
+
+**Feuerverbot**
+
+<sup>1</sup> Wer ein Feuerverbot nach § 39<sup>bis</sup> des Gesetzes über die Kantonspolizei vom 23. September 1990[^31bis-1] missachtet, wird mit Busse bestraft.
+
+[^31bis-1]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
+
+#### § 31ter
+
+**Flugverbot**
+
+<sup>1</sup> Wer ein Flugverbot nach § 39<sup>ter</sup> des Gesetzes über die Kantonspolizei vom 23. September 1990[^31ter-1] missachtet, wird mit Busse bestraft.
+
+[^31ter-1]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
 
 #### § 32
 
