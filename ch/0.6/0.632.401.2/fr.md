@@ -3,11 +3,11 @@ sr: "0.632.401.2"
 title: "Protocole n<sup>o</sup> 2 du 22 juillet 1972 concernant certains produits agricoles transformés (avec tableaux)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997"
 language: fr
-version: 2019-03-01
+version: 2021-03-01
 adopted: 1972-07-22
 in_force: 1973-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20190301/fr/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20190301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20190301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1972/3163_3217_2997/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1972-3163_3217_2997-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1972/3163_3217_2997/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Ratification suisse communiquée le 21 décembre 1972
 
 Entré en vigueur pour la Suisse le 1<sup>er</sup> janvier 1973
 
-(Etat le 1<sup>er</sup> mars 2019)
+(Etat le 1<sup>er</sup> mars 2021)
 
 [^t-1]: Nouvelle teneur selon l’art. 1 ch. 2 de l’Ac. du 26 oct. 2004 entre la Suisse et la CE modifiant l’Ac. entre la Suisse et la CE du 22 juil. 1972 pour ce qui concerne les disp. applicables aux produits agricoles transformés, approuvé par l’Ass. féd. le 8 déc. 2004, en vigueur depuis le 30 mars 2005 ([RO 2005 1533](https://fedlex.data.admin.ch/eli/oc/2005/238); [FF 2004 5593](https://fedlex.data.admin.ch/eli/fga/2004/1084)).
 [^t-2]: Art. 1 al. 1 de l’AF du 3 oct. 1972 ([RO 1972 3165](https://fedlex.data.admin.ch/eli/oc/1972/3111_3165_2945))
@@ -102,7 +102,7 @@ Tableau I*[^t-3]*
 
 ## Produits soumis à des mesures de compensation des prix
 
-[^t-3]: Mis à jour selon l’art. 1 de la D n<sup>o</sup> 2/2006 du Comité mixte Suisse-UE du 31 janv. 2006 en vigueur depuis le 1<sup>er</sup> fév. 2006 ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)[2797](https://fedlex.data.admin.ch/eli/oc/2006/433)).
+[^t-3]: Mis à jour par l’art. 1 de la D n<sup>o</sup> 2/2006 du Comité mixte Suisse-UE du 31 janv. 2006 en vigueur depuis le 1<sup>er</sup> fév. 2006 ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)[2797](https://fedlex.data.admin.ch/eli/oc/2006/433)).
 
 <table>
 <tr><th>Code du système harmonisé</th><th>Description des marchandises</th></tr>
@@ -167,7 +167,7 @@ Tableau II*[^t-4]*
 
 ## Produits en libre-échange
 
-[^t-4]: Mis à jour selon l’art. 1 de la D du Comité mixte Suisse-UE n<sup>o</sup> 2/2006 du 31 janv. 2006 ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)) et l’art. 1 let. a de la D du Comité mixte Suisse-UE n<sup>o</sup> 1/2017 du 8 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 2149](https://fedlex.data.admin.ch/eli/oc/2017/192)).
+[^t-4]: Mis à jour par l’art. 1 de la D du Comité mixte Suisse-UE n<sup>o</sup> 2/2006 du 31 janv. 2006 ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)) et l’art. 1 let. a de la D du Comité mixte Suisse-UE n<sup>o</sup> 1/2017 du 8 fév. 2017, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 2149](https://fedlex.data.admin.ch/eli/oc/2017/192)).
 
 <table>
 <tr><th>Code du système harmonisé</th><th>Désignation des marchandises</th></tr>
@@ -285,51 +285,51 @@ Tableau III*[^t-5]*
 
 ## Prix de référence intérieurs UE et suisses
 
-[^t-5]: Nouvelle teneur selon l’art. 1 let. a de la D n<sup>o</sup> 1/2019 du 29 janv. 2019 du Comité mixte Suisse-UE, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2019 843](https://fedlex.data.admin.ch/eli/oc/2019/145)).
+[^t-5]: Nouvelle teneur selon l’art. 1 let. a de la D n<sup>o</sup> 1/2021 du 12 fév. 2021 du Comité mixte Suisse-UE, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 137](https://fedlex.data.admin.ch/eli/oc/2021/137)).
 
 <table>
-<tr><td>Matière première agricole</td><td>Prix de référence intérieur suisse</td><td>Prix de référence intérieur UE</td><td>**Art. 4, par. 1 Appliqué du côté suisse** Différence prix de référence Suisse/UE</td><td>**Art. 3, par. 3 Appliqué du côté UE** Différence prix de référence Suisse/UE</td></tr>
-<tr><td></td><td>CHF par 100 kg net</td><td>CHF par 100 kg net</td><td>CHF par 100 kg net</td><td>EUR par 100 kg net</td></tr>
-<tr><td>Blé tendre</td><td>50,80</td><td>23,44</td><td>27,35</td><td>0,00</td></tr>
-<tr><td>Blé dur</td><td>–</td><td>–</td><td>1,20</td><td>0,00</td></tr>
-<tr><td>Seigle</td><td>42,50</td><td>21,92</td><td>20,60</td><td>0,00</td></tr>
+<tr><th>Matière première agricole</th><th>Prix de référence intérieur suisse</th><th>Prix de référence intérieur UE</th><th>**Art. 4, par. 1** Différence prix de référence suisse/UE appliquée du côté suisse</th><th>**Art. 3, par. 3** Différence prix de référence suisse/UE appliquée du côté UE</th></tr>
+<tr><th></th><th>CHF par 100 kg net</th><th>CHF par 100 kg net</th><th>CHF par 100 kg net</th><th>EUR par 100 kg net</th></tr>
+<tr><td>Blé tendre</td><td>50,60</td><td>20,46</td><td>30,15</td><td>0,00</td></tr>
+<tr><td>Froment (blé) dur</td><td>–</td><td>–</td><td>1,20</td><td>0,00</td></tr>
+<tr><td>Seigle</td><td>40,45</td><td>18,74</td><td>21,70</td><td>0,00</td></tr>
 <tr><td>Orge</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>Maïs</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
-<tr><td>Farine de blé tendre</td><td>91,95</td><td>46,69</td><td>45,25</td><td>0,00</td></tr>
-<tr><td>Lait entier en poudre</td><td>606,15</td><td>333,85</td><td>272,30</td><td>0,00</td></tr>
-<tr><td>Lait écrémé en poudre</td><td>400,80</td><td>181,60</td><td>219,20</td><td>0,00</td></tr>
-<tr><td>Beurre</td><td>1 056,00</td><td>656,39</td><td>399,60</td><td>0,00</td></tr>
-<tr><td>Sucres blancs</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><td>Farine de blé tendre</td><td>91,10</td><td>42,42</td><td>48,70</td><td>0,00</td></tr>
+<tr><td>Lait entier en poudre</td><td>601,45</td><td>321,47</td><td>280,00</td><td>0,00</td></tr>
+<tr><td>Lait écrémé en poudre</td><td>402,60</td><td>200,98</td><td>201,60</td><td>0,00</td></tr>
+<tr><td>Beurre</td><td>1 041,90</td><td>487,22</td><td>554,70</td><td>0,00</td></tr>
+<tr><td>Sucre blanc</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 <tr><td>Œufs</td><td>–</td><td>–</td><td>38,00</td><td>0,00</td></tr>
-<tr><td>Pommes de terre fraîches</td><td>40,95</td><td>28,00</td><td>12,95</td><td>0,00</td></tr>
-<tr><td>Graisse végétale</td><td>–</td><td>–</td><td>170,00</td><td>0,00»</td></tr>
+<tr><td>Pommes de terre fraîches</td><td>40,95</td><td>27,61</td><td>13,35</td><td>0,00</td></tr>
+<tr><td>Graisse végétale</td><td>–</td><td>–</td><td>170,00</td><td>0,00</td></tr>
 </table>
 
 Tableau IV*[^t-6]*
 
 ## Régime suisse des importations
 
-[^t-6]: Mis à jour par l’art. 1 de la D n° 2/2006 du 31 janv. 2006 du Comité mixte Suisse-UE ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)), l’art 1 let. c de la D du Comité mixte Suisse-UE n<sup>o</sup> 1/2017 du 8 fév. 2017 ([RO 2017 2149](https://fedlex.data.admin.ch/eli/oc/2017/192)) et l’art. 1 let. b de la D n<sup>o</sup> 1/2019 du 29 janv. 2019 du Comité mixte Suisse-UE, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2019 843](https://fedlex.data.admin.ch/eli/oc/2019/145)).
+[^t-6]: Mis à jour par l’art. 1 de la D n° 2/2006 du 31 janv. 2006 du Comité mixte Suisse-UE ([RO 2006 1163](https://fedlex.data.admin.ch/eli/oc/2006/211)), l’art 1 let. c de la D du Comité mixte Suisse-UE n<sup>o</sup> 1/2017 du 8 fév. 2017 ([RO 2017 2149](https://fedlex.data.admin.ch/eli/oc/2017/192)) et l’art. 1 let. b de la D n<sup>o</sup> 1/2021 du 12 fév. 2021 du Comité mixte Suisse-UE, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 137](https://fedlex.data.admin.ch/eli/oc/2021/137)).
 
 - a) Le droit de douane pour les produits énumérés dans l’appendice au présent tableau est un élément agricole calculé sur la base de la masse nette. Les recettes standard sont spécifiées dans l’appendice.
 - b) Montants de base des matières premières agricoles pris en compte pour le calcul des éléments agricoles:
 
 <table>
-<tr><td>Matière première agricole</td><td>**Montant de base appliqué du côté suisse** (art. 3, par. 2)</td><td>**Montant de base appliqué du côté UE** (art. 4, par. 2)</td></tr>
-<tr><td></td><td>CHF par 100 kg net</td><td>EUR par 100 kg net</td></tr>
-<tr><td>Blé tendre</td><td>22,30</td><td>0,00</td></tr>
-<tr><td>Blé dur</td><td>1,00</td><td>0,00</td></tr>
-<tr><td>Seigle</td><td>16,80</td><td>0,00</td></tr>
+<tr><th>Matière première agricole</th><th>**Montant de base appliqué du côté suisse** Art. 3, par. 2</th><th>**Montant de base appliqué du côté UE** Art. 4, par. 2</th></tr>
+<tr><th></th><th>CHF par 100 kg net</th><th>EUR par 100 kg net</th></tr>
+<tr><td>Blé tendre</td><td>24,55</td><td>0,00</td></tr>
+<tr><td>Froment (blé) dur</td><td>1,00</td><td>0,00</td></tr>
+<tr><td>Seigle</td><td>17,70</td><td>0,00</td></tr>
 <tr><td>Orge</td><td>–</td><td>–</td></tr>
 <tr><td>Maïs</td><td>–</td><td>–</td></tr>
-<tr><td>Farine de blé tendre</td><td>36,90</td><td>0,00</td></tr>
-<tr><td>Lait entier en poudre</td><td>221,60</td><td>0,00</td></tr>
-<tr><td>Lait écrémé en poudre</td><td>178,65</td><td>0,00</td></tr>
-<tr><td>Beurre</td><td>325,65</td><td>0,00</td></tr>
-<tr><td>Sucres blancs</td><td>–</td><td>–</td></tr>
+<tr><td>Farine de blé tendre</td><td>39,70</td><td>0,00</td></tr>
+<tr><td>Lait entier en poudre</td><td>227,80</td><td>0,00</td></tr>
+<tr><td>Lait écrémé en poudre</td><td>164,30</td><td>0,00</td></tr>
+<tr><td>Beurre</td><td>452,10</td><td>0,00</td></tr>
+<tr><td>Sucre blanc</td><td>–</td><td>–</td></tr>
 <tr><td>Œufs</td><td>30,95</td><td>0,00</td></tr>
-<tr><td>Pommes de terre fraîches</td><td>10,25</td><td>0,00</td></tr>
-<tr><td>Graisse végétale</td><td>138,55</td><td>0,00»</td></tr>
+<tr><td>Pommes de terre fraîches</td><td>10,90</td><td>0,00</td></tr>
+<tr><td>Graisse végétale</td><td>138,55</td><td>0,00</td></tr>
 </table>
 
 - c) Le droit de douane pour les produits énumérés dans le tableau ci-dessous est égal à zéro.
@@ -354,7 +354,7 @@ Tableau IV*[^t-6]*
 <tr><td>2208.9099</td><td></td></tr>
 </table>
 
-- d) A compter de l’application du présent Protocole, les droits de douane pour les produits énumérés dans le tableau ci-dessous sont réduits à zéro en trois étapes annuelles égales.
+- d) À compter de l’application du présent Protocole, les droits de douane pour les produits énumérés dans le tableau ci-dessous sont réduits à zéro en trois étapes annuelles égales.
 
 <table>
 <tr><td>N° du tarif douanier suisse</td><td>Droit appliqué à compter de l’entrée en vigueur</td><td>Droit appliqué après une année à compter de l’entrée en vigueur</td><td>Droit appliqué après deux années à compter de l’entrée en vigueur</td></tr>
