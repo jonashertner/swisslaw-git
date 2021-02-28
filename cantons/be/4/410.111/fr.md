@@ -4,13 +4,13 @@ number: "410.111"
 title: Ordonnance sur les Eglises nationales bernoises
 short: OEgN
 language: fr
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-06
+version: 2021-03-01
+valid_until: 2022-12-31
+version_adopted: 2021-01-20
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1741/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2554/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1741/pdf_file"
 
 (OEgN)
 
-du 24.04.2019 (état au 01.01.2020)
+du 24.04.2019 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -283,7 +283,7 @@ arrête:
 
 #### Art. 27
 
-<sup>1</sup> Les droits d’accès et l’étendue de l’accès des paroisses et paroisses générales aux données de la plate-forme GERES sont régis par les dispositions applicables au profil d’utilisateur 11 de l’annexe 1 de l’ordonnance du 12 mars 2008 sur l’harmonisation des registres officiels (OReg)[^27-1].
+<sup>1</sup> Les droits d’accès et l’étendue de l’accès des paroisses et paroisses générales aux données de la plate-forme des systèmes des registres communaux (plate-forme GERES) sont régis par l’ordonnance du 20 janvier 2021 sur la plate-forme des systèmes des registres communaux (O GERES)[^27-1].
 
 [^27-1]: RSB [152.051](https://www.belex.sites.be.ch/data/152.051/fr)
 

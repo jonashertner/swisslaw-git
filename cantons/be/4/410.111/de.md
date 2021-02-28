@@ -4,13 +4,13 @@ number: "410.111"
 title: Verordnung über die bernischen Landeskirchen
 short: LKV
 language: de
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-06
+version: 2021-03-01
+valid_until: 2022-12-31
+version_adopted: 2021-01-20
 adopted: 2019-04-24
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/410.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1741/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2554/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1741/pdf_file"
 
 (LKV)
 
-vom 24.04.2019 (Stand 01.01.2020)
+vom 24.04.2019 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -50,7 +50,7 @@ beschliesst:
 
 **Beauftragte oder Beauftragte für kirchliche und religiöse Angelegenheiten**
 
-<sup>1</sup> Die oder der Beauftrage für kirchliche und religiöse Angelegenheiten
+<sup>1</sup> Die oder der Beauftragte für kirchliche und religiöse Angelegenheiten
 
 - a bereitet sämtliche Geschäfte in kirchlichen und religiösen Angelegenheiten der Direktion für Inneres und Justiz vor,
 - b prüft und beurteilt die von den Landeskirchen in ihren Berichten ausgewiesenen Leistungen im gesamtgesellschaftlichen Interesse,
@@ -283,7 +283,7 @@ beschliesst:
 
 #### Art. 27
 
-<sup>1</sup> Die Zugangsberechtigung und der Umfang des Zugangs der Kirchgemeinden und Gesamtkirchgemeinden zu den Daten der GERES-Plattform richten sich nach den Bestimmungen des Benutzerprofils Nr. 11 des Anhangs 1 der Verordnung vom 12. März 2008 über die Harmonisierung amtlicher Register (RegV)[^27-1]
+<sup>1</sup> Die Zugangsberechtigung und der Umfang des Zugangs der Kirchgemeinden und Gesamtkirchgemeinden zu den Daten der Gemeinderegistersysteme-Plattform (GERES-Plattform) richten sich nach der Verordnung vom 20. Januar 2021 über die Gemeinderegistersysteme-Plattform (GERES V)[^27-1].
 
 [^27-1]: BSG [152.051](https://www.belex.sites.be.ch/data/152.051/de)
 
