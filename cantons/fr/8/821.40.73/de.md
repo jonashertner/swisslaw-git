@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-02-22
-valid_until: 2021-02-28
-version_adopted: 2021-02-08
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-03-02
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6768/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6784/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6768/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 22.02.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 01.03.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -180,7 +180,7 @@ beschliesst:
 
 **Andere Bildungsgänge und Kurse**
 
-<sup>1</sup> Gemäss der COVID-19-Verordnung besondere Lage des Bundes ist Präsenzunterricht für Personen ab 16 Jahren verboten, auch im Freizeitbereich. Fernunterricht ist möglich.
+<sup>1</sup> Gemäss der COVID-19-Verordnung besondere Lage des Bundes ist Präsenzunterricht für Personen mit Jahrgang 2000 oder älter verboten, auch im Freizeitbereich. Fernunterricht ist möglich.
 
 <sup>2</sup> Wenn der Fernunterricht nicht möglich ist und die Unterrichtsaktivitäten notwendiger Bestandteil eines zertifizierenden Bildungsgangs sind und als grundlegend erachtet werden (Sicherheit und Hilfeleistungen, Gesundheit, Soziales und Integration), darf der Unterricht mit bis zu 30 Teilnehmenden im Präsenzmodus abgehalten werden, sofern Gesichtsmasken getragen werden und der Abstand zwischen den Personen eingehalten wird.
 
@@ -190,50 +190,11 @@ beschliesst:
 
 #### Art. 12
 
-**Massnahmen in den Bereichen sportliche Aktivitäten und Tanz**
-
-<sup>1</sup> Personen unter 16 Jahren dürfen ohne Einschränkung und ohne Gesichtsmaske tanzen und alle übrigen Sportarten ausüben.
-
-<sup>2</sup> Für Personen ab 16 Jahren sind Tanzen und Sportarten mit Körperkontakt (z. B. Fussball, Hockey, Basketball, Kampfsport, Tanzsport) verboten. Bei diesen Sportarten sind individuelle Trainings ohne Körperkontakt erlaubt und Technikübungen in Gruppen ohne Körperkontakt sind nur im Freien gestattet.
-
-<sup>3</sup> Sporttrainings im Freien ohne Körperkontakt, mit Ausnahme von Wettkämpfen, sind einzeln und in Gruppen von bis zu 5 Personen erlaubt.
-
-- a) …
-- b) …
-
-<sup>4</sup> Auf das Tragen einer Gesichtsmaske kann verzichtet werden, wenn die sportliche Aktivität im Freien stattfindet. Die Schutzkonzepte für Skigebiete und Wintersportarten bleiben vorbehalten.
-
-<sup>5</sup> Sportliche Aktivitäten, namentlich Trainings und Wettkämpfe, sind auch drinnen erlaubt für:
-
-- a) Leistungssportlerinnen und ‑sportler, die dem nationalen Kader oder dem Nationalteam eines nationalen Sportverbands angehören und die als Einzelpersonen, in Gruppen bis zu 15 Personen oder als beständige Wettkampfteams trainieren;
-- b) Teams, die einer Liga mit überwiegend professionellem Spielbetrieb angehören.
-
-<sup>6</sup> Vorbehalten bleibt der Turn- und Sportunterricht im schulischen Rahmen, sofern Gesichtsmasken getragen werden (ausser im Freien) und die Regeln zu den Sportarten mit Körperkontakt eingehalten werden. Ein Schutzkonzept ist obligatorisch.
-
-<sup>7</sup> Privat- und Einzellektionen im Freien sind weiterhin erlaubt.
-
-<sup>8</sup> …
+**…**
 
 #### Art. 13
 
-**Massnahmen bei Aktivitäten im Kulturbereich (Musik, Gesang und Theater)**
-
-<sup>1</sup> Personen unter 16 Jahren dürfen alle kulturellen Aktivitäten ausser Singen ohne Einschränkung und ohne Gesichtsmaske ausüben.
-
-<sup>2</sup> Im Kulturbereich sind folgende Aktivitäten zulässig, einschliesslich der Nutzung der hierfür notwendigen Einrichtungen und Betriebe:
-
-- a) im nichtprofessionellen Bereich:
-  - 1\. Proben von Einzelpersonen ab 16 Jahren;
-  - 2\. Proben in Gruppen bis zu 5 Personen ab 16 Jahren, wenn eine Gesichtsmaske getragen und der Abstand zwischen den Personen eingehalten wird; auf das Tragen einer Gesichtsmaske kann in grossen Räumen verzichtet werden, wenn zusätzliche Abstandsvorgaben und Kapazitätsbeschränkungen gelten;
-- b) im professionellen Bereich: Proben von Künstlerinnen und Künstlern oder Ensembles sowie Konzerte und Aufführungen ohne Publikum.
-
-<sup>2a</sup> Im nichtprofessionellen Bereich sind Vorstellungen und Aufführungen verboten.
-
-<sup>3</sup> Proben von Chören oder solche mit Sängerinnen und Sängern sind nur für professionelle Künstlerinnen und Künstler zulässig und nur, wenn spezifische Schutzmassnahmen umgesetzt werden.
-
-<sup>4</sup> Privat- und Einzellektionen sind weiterhin erlaubt.
-
-<sup>5</sup> In den Primarklassen der 1H bis 8H ist Singen erlaubt.
+**…**
 
 #### Art. 13a
 
@@ -247,7 +208,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Massnahmen gelten bis 28. Februar 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
+<sup>1</sup> Diese Massnahmen gelten bis 31. März 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
 

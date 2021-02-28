@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Ordonnance relative aux mesures cantonales pour freiner la propagation du coronavirus
 language: fr
-version: 2021-02-22
-valid_until: 2021-02-28
-version_adopted: 2021-02-08
+version: 2021-03-01
+valid_until: 2021-03-31
+version_adopted: 2021-03-02
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6768/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6784/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6768/pdf_file"
 
 COVID-19, mesures cantonales – O
 
-du 10.11.2020 (version entrée en vigueur le 22.02.2021)
+du 10.11.2020 (version entrée en vigueur le 01.03.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -180,7 +180,7 @@ Arrête:
 
 **Autres formations et cours**
 
-<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes de plus de 16 ans, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
+<sup>1</sup> Conformément à l'ordonnance fédérale COVID-19 situation particulière, l'enseignement en présentiel est interdit pour les personnes nées en 2000 ou avant, y compris dans le domaine des loisirs. L'enseignement peut être donné à distance.
 
 <sup>2</sup> En cas d'impossibilité d'assurer un enseignement à distance et si les activités didactiques sont indispensables à la filière de formation certifiante et considérées comme essentielles (sécurité et secours, santé, social et intégration), l'enseignement peut se dérouler en présentiel avec 30 participants et participantes au maximum et moyennant le port du masque facial et le respect de la distance interpersonnelle.
 
@@ -190,50 +190,11 @@ Arrête:
 
 #### Art. 12
 
-**Mesures relatives aux activités sportives et de danse**
-
-<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer la danse et tous les types d'activités sportives, sans aucune restriction et sans port du masque facial.
-
-<sup>2</sup> Pour les personnes de plus de 16 ans, les activités sportives et de danse impliquant un contact physique (p. ex. football, hockey, basketball, sports de combat, danse sportive) sont interdites. Pour ces disciplines, les entraînements individuels sans contact physique sont autorisés et les exercices techniques en groupe sans contact physique sont autorisés en extérieur seulement.
-
-<sup>3</sup> Les activités sportives d'entraînement en plein air sans contact physique, à l'exclusion des compétitions, à titre individuel ou en groupes de 5 personnes au maximum sont autorisées.
-
-- a) …
-- b) …
-
-<sup>4</sup> Le port du masque facial n'est pas obligatoire lorsque l'activité sportive autorisée se déroule en extérieur. Sont réservés les plans de protection relatifs aux domaines skiables et aux sports de neige.
-
-<sup>5</sup> Les activités sportives, notamment les activités d'entraînement et les compétitions, sont autorisées, également en intérieur, pour:
-
-- a) les sportifs et sportives de haut niveau appartenant à l'un des cadres nationaux ou l'une des équipes nationales d'une fédération sportive nationale et s'entraînant à titre individuel, en groupes d'au maximum 15 personnes ou dans des équipes de compétition fixes;
-- b) les équipes appartenant à une ligue majoritairement professionnelle.
-
-<sup>6</sup> Les cours d'éducation physique dispensés dans le cadre scolaire sont réservés, moyennant le port du masque facial, sauf en extérieur, et le respect des règles relatives aux sports de contact. Un plan de protection est obligatoire.
-
-<sup>7</sup> Les leçons particulières et individuelles en extérieur demeurent autorisées.
-
-<sup>8</sup> …
+**…**
 
 #### Art. 13
 
-**Mesures relatives aux activités dans le domaine de la culture (musique, chant et théâtre)**
-
-<sup>1</sup> Les personnes de moins de 16 ans peuvent pratiquer toutes les activités culturelles, sauf le chant, sans aucune restriction et sans port du masque facial.
-
-<sup>2</sup> Dans le domaine de la culture, les activités suivantes, y compris l'utilisation des installations et établissements nécessaires à cette fin, sont autorisées:
-
-- a) dans le domaine non professionnel:
-  - 1\. les répétitions effectuées à titre individuel après 16 ans;
-  - 2\. les répétitions en groupe d'au maximum 5 personnes de plus de 16 ans si les personnes concernées portent un masque facial et respectent la distance interpersonnelle; elles peuvent renoncer au masque facial dans de grands locaux, à condition que des règles supplémentaires en matière de distance interpersonnelle et la limitation des capacités soient appliquées;
-- b) dans le domaine professionnel: les répétitions d'artistes ou d'ensembles ainsi que les concerts et représentations sans public.
-
-<sup>2a</sup> Les représentations et spectacles sont interdits dans le domaine non professionnel.
-
-<sup>3</sup> Les activités de répétition exercées par des chœurs ou impliquant des chanteurs et chanteuses ne sont autorisées que pour les professionnels et si des mesures de protection spécifiques sont mises en place.
-
-<sup>4</sup> Les leçons particulières et individuelles demeurent autorisées.
-
-<sup>5</sup> La pratique du chant dans les classes primaires de 1H à 8H est autorisée.
+**…**
 
 #### Art. 13a
 
@@ -247,7 +208,7 @@ Arrête:
 
 **Durée de validité**
 
-<sup>1</sup> Les présentes mesures portent effet jusqu'au 28 février 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
+<sup>1</sup> Les présentes mesures portent effet jusqu'au 31 mars 2021. En fonction de la situation sanitaire, elles peuvent être adaptées ou leur durée de validité, prolongée. Sont réservées les éventuelles mesures ultérieures prévues par le droit fédéral.
 
 <sup>2</sup> Elles remplacent les mesures consignées dans l'arrêté du 3 novembre 2020, publié dans la Feuille officielle du 6 novembre 2020, concernant les mesures cantonales pour freiner la propagation du coronavirus.
 
