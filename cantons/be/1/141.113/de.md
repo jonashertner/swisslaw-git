@@ -3,20 +3,20 @@ canton: BE
 number: "141.113"
 title: Verordnung über das Stimmregister
 language: de
-version: 2016-05-01
-valid_until: 2021-02-28
-version_adopted: 2016-03-16
+version: 2021-03-01
+valid_until: 2024-01-31
+version_adopted: 2021-01-20
 adopted: 1980-12-10
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.113"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1014/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Stimmregister
 
-vom 10.12.1980 (Stand 01.05.2016)
+vom 10.12.1980 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -160,14 +160,13 @@ beschliesst:
 - e der frühere Wohnort;
 - f die Daten des Beginns des Stimmrechts in eidgenössischen, kantonalen und Gemeindeangelegenheiten;
 - g die ZPV-Nummer der Zentralen Personenverwaltung der Kantonsverwaltung;
-- h die Angaben gemäss Ziffer 5 des Anhangs 1 der Verordnung vom 12. März 2008 über die Harmonisierung amtlicher Register[^14-2];
-- i bei Streichungen das Datum und der Grund der Streichung, bei Anmerkungen auch deren Dauer.[^14-3]
+- h die umfassende Beistandschaft, die Einsetzung der oder des Vorsorgebeauftragten und das Datum derer Anordnung;
+- i bei Streichungen das Datum und der Grund der Streichung, bei Anmerkungen auch deren Dauer.[^14-2]
 
 <sup>2</sup> Der Gemeinderat kann ausserdem die Angabe des Berufes vorschreiben.
 
 [^14-1]: Fassung vom 23. 10. 2002
-[^14-2]: BSG 152.051
-[^14-3]: Entspricht dem bisherigen Buchstaben h
+[^14-2]: Entspricht dem bisherigen Buchstaben h
 
 #### Art. 15
 

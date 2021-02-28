@@ -4,13 +4,13 @@ number: "141.113"
 title: Ordonnance concernant le registre des électeurs
 short: ORE
 language: fr
-version: 2016-05-01
-valid_until: 2021-02-28
-version_adopted: 2016-03-16
+version: 2021-03-01
+valid_until: 2024-01-31
+version_adopted: 2021-01-20
 adopted: 1980-12-10
 in_force: 1981-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.113"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1014/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2144/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1014/pdf_file"
 
 (ORE)
 
-du 10.12.1980 (état au 01.05.2016)
+du 10.12.1980 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -163,13 +163,12 @@ arrête:
 - e l'ancien lieu de domicile;
 - f les dates auxquelles il a obtenu le droit de vote en matière fédérale, cantonale et communale;
 - g le numéro GCP de la Gestion centrale des personnes de l'administration cantonale;
-- h les données figurant au chiffre 5 de l’annexe 1 de l’ordonnance du 12 mars 2008 sur l’harmonisation des registres officiels[^14-1];
-- i en cas de radiation de l'inscription, la date et le motif de la radiation; en cas d'annotation, la durée de celle-ci.[^14-2]
+- h la curatelle de portée générale, le mandat pour cause d'incapacité et la date à laquelle ils ont été institués;
+- i en cas de radiation de l'inscription, la date et le motif de la radiation; en cas d'annotation, la durée de celle-ci.[^14-1]
 
 <sup>2</sup> En outre, le conseil communal peut exiger la mention de la profession.
 
-[^14-1]: RSB 152.051
-[^14-2]: Ancienne lettre h
+[^14-1]: Ancienne lettre h
 
 #### Art. 15
 
