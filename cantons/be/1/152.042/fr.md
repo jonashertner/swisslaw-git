@@ -4,13 +4,13 @@ number: "152.042"
 title: Ordonnance sur les technologies de l’information et de la communication de l’administration cantonale
 short: OTIC
 language: fr
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-20
+version: 2021-03-01
+valid_until: 2023-02-28
+version_adopted: 2021-01-20
 adopted: 2018-01-24
 in_force: 2018-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.042"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1777/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2146/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1777/pdf_file"
 
 (OTIC)
 
-du 24.01.2018 (état au 01.01.2020)
+du 24.01.2018 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -73,7 +73,8 @@ arrête:
 - d OIO: Office d'informatique et d'organisation.
 - e COT: comité opérationnel TIC.
 - f Logiciel libre: logiciel distribué par le détenteur ou la détentrice du droit d'auteur avec le code source ouvert et dont la licence autorise toutes les personnes, sans distinction, gratuitement et à quelque fin que ce soit, à l'utiliser, le modifier et le redistribuer (y compris les œuvres dérivées).
-- g CST: comité stratégique TIC.
+- g CST: comité stratégique TIC,
+- h WAN: réseau étendu de l'administration cantonale (wide area network).
 
 <sup>2</sup> Les TIC sont divisés en trois couches:
 
@@ -233,6 +234,33 @@ arrête:
 <sup>1</sup> L'OIO tient des fichiers électroniques de données personnelles pour que les autorités puissent accomplir leurs tâches, pour autant que la législation spéciale le prévoie.
 
 <sup>2</sup> Il fournit, à des unités administratives et à d'autres organisations cantonales ou communales chargées de tâches publiques, d'autres prestations TIC sur la base de contrats de prestations.
+
+#### Art. 15a
+
+**Utilisation du WAN**
+
+<sup>1</sup> Les autorités au sens de l'article 2, alinéa 6 et leurs mandataires au sens de l'article 16 LCPD reçoivent l'accès au WAN du canton si cela est nécessaire à l'accomplissement de leurs tâches légales ou contractuelles.
+
+<sup>2</sup> L'accès au WAN se fait au moyen d'un routeur fourni par l'OIO ou d'un dispositif d'authentification VPN ou via VDI.
+
+<sup>3</sup> L'OIO arrête, par voie de décision, les conditions et charges auxquelles doivent se conformer les autorités et mandataires dotés de la personnalité juridique pour pouvoir accéder au WAN, en particulier,
+
+- a la base légale et le but de l'accès au WAN,
+- b le type et la quantité des dispositifs d'accès mis à disposition par le canton selon la taille de l'autorité,
+- c l'obligation de respecter les dispositions de SIPD,
+- d les coûts et les émoluments.
+
+<sup>4</sup> Les conditions et charges sont analogues à celles fixées dans les instructions administratives internes applicables aux autorités de l'administration cantonale raccordées au WAN.
+
+#### Art. 15b
+
+**Coût d'utilisation du WAN**
+
+<sup>1</sup> Les autorités de l'administration cantonale sans personnalité juridique, les communes municipales ou bourgeoises et les paroisses utilisent gratuitement le WAN.
+
+<sup>2</sup> Les coûts externes de l'OIO sont facturés aux autres organisations autonomes chargées de tâches publiques incombant à l'administration cantonale et aux autorités au sens de la loi sur les communes ou de la loi sur les Eglises nationales bernoises.
+
+<sup>3</sup> Les coûts, aussi bien externes qu'internes, sont facturés aux utilisateurs et utilisatrices du WAN qui poursuivent aussi un but commercial.
 
 #### Art. 16
 

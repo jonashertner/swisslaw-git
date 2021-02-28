@@ -4,13 +4,13 @@ number: "152.042"
 title: Verordnung über die Informations- und Telekommunikationstechnik der Kantonsverwaltung
 short: ICTV
 language: de
-version: 2020-01-01
-valid_until: 2021-02-28
-version_adopted: 2019-11-20
+version: 2021-03-01
+valid_until: 2023-02-28
+version_adopted: 2021-01-20
 adopted: 2018-01-24
 in_force: 2018-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.042"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1777/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1777/pdf_file"
 
 (ICTV)
 
-vom 24.01.2018 (Stand 01.01.2020)
+vom 24.01.2018 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -73,7 +73,8 @@ beschliesst:
 - d KAIO: Amt für Informatik und Organisation,
 - e OIA: Operativer ICT-Ausschuss,
 - f Open Source: Software, die von der Inhaberin oder vom Inhaber des Urheberrechts als Quelltext öffentlich verfügbar gemacht wird und deren Lizenz allen Personen unterschiedslos, kostenlos und ohne Rücksicht auf den Zweck die Nutzung, Änderung und Weiterverbreitung der Software einschliesslich daraus abgeleiteter Werke erlaubt,
-- g SIA: Strategischer ICT-Ausschuss.
+- g SIA: Strategischer ICT-Ausschuss,
+- h WAN: Weitbereichsdatennetz der Kantonsverwaltung (wide area network).
 
 <sup>2</sup> Die ICT gliedert sich in folgende drei Schichten:
 
@@ -233,6 +234,33 @@ beschliesst:
 <sup>1</sup> Das KAIO führt zentrale elektronische Personendatensammlungen für die Aufgabenerfüllung der Behörden, soweit die besondere Gesetzgebung dies vorsieht.
 
 <sup>2</sup> Es erbringt weitere ICT-Leistungen für Organisationseinheiten der Verwaltung und andere kantonale oder kommunale Träger öffentlicher Aufgaben auf der Basis von Leistungsvereinbarungen.
+
+#### Art. 15a
+
+**WAN-Nutzung**
+
+<sup>1</sup> Die Behörden nach Artikel 2 Absatz 6 sowie deren Beauftragten nach Artikel 16 KDSG erhalten einen Zugang zum WAN des Kantons, sofern dies zur Erfüllung ihrer gesetzlichen oder vertraglichen Aufgaben erforderlich ist.
+
+<sup>2</sup> Der Zugang zum WAN erfolgt über vom KAIO gelieferte Router, über VPN-Token oder über VDI.
+
+<sup>3</sup> Gegenüber den Behörden und Beauftragten mit eigener Rechtspersönlichkeit verfügt das KAIO die Bedingungen und Auflagen für den Zugang zum WAN, insbesondere
+
+- a die Rechtsgrundlage und den Zweck des WAN-Zugangs,
+- b die Art und Menge der vom Kanton zur Verfügung gestellten Zugangsausrüstung nach Massgabe der Grösse der Behörde,
+- c die Verpflichtung zur Einhaltung der ISDS-Vorschriften,
+- d die Kosten und Gebühren.
+
+<sup>4</sup> Die Bedingungen und Auflagen entsprechen sinngemäss denjenigen, die gemäss den verwaltungsinternen Weisungen für die an das WAN angeschlossenen Behörden der Kantonsverwaltung gelten.
+
+#### Art. 15b
+
+**Kosten der WAN-Nutzung**
+
+<sup>1</sup> Die WAN-Nutzung durch die Behörden der Kantonsverwaltung ohne Rechtspersönlichkeit sowie die Einwohner-, Burger- und Kirchgemeinden erfolgt kostenlos.
+
+<sup>2</sup> Für die WAN-Nutzung durch die anderen autonomen Trägerinnen und Trägern öffentlicher Aufgaben der Kantonsverwaltung und nach den Bestimmungen des Gemeindegesetzes oder des Gesetzes über die Landeskirchen werden die externen Kosten des KAIO auferlegt.
+
+<sup>3</sup> WAN-Nutzende, die auch einen kommerziellen Zweck verfolgen, werden sowohl die internen als auch die externen Kosten auferlegt.
 
 #### Art. 16
 
