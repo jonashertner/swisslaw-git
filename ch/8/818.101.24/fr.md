@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-02-08
+version: 2021-03-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 8 février 2021)
+du 19 juin 2020 (Etat le 1<sup>er</sup> mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -27,7 +27,7 @@ arrête:
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mars 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -591,7 +591,7 @@ L’organisateur d’une assemblée de société peut, quel que soit le nombre p
 
 [^chap4a-1]
 
-[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^chap4a-1]: Introduit par le ch. I de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mars 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 #### Art. 27a
 
@@ -1092,7 +1092,7 @@ Annexe 7*[^t-8]*
 
 ## Précisions médicales sur les maladies rendant vulnérables les personnes concernées
 
-[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 28 fév. 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^t-8]: Introduite par le ch. II de l’O du 13 janv. 2021 (Employés vulnérables), en vigueur du 18 janv. au 31 mars 2021 ([RO 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Mise à jour par le ch. I de l’O de l’OFSP du 25 fév. 2021 (Liste des maladies rendant vulnérables les personnes concernées), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 Selon l’état actuel de la science, seules certaines catégories d’adultes sont vulnérables. Partant, les critères ci-après concernent uniquement les adultes.
 
@@ -1137,12 +1137,12 @@ Selon l’état actuel de la science, seules certaines catégories d’adultes s
 
 - – Maladie cardiaque congénitale selon l’évaluation individuelle par le cardiologue traitant
 
-### 3. Maladies respiratoires chroniques
+### 3. Maladies pulmonaires et respiratoires chroniques
 
 - – Maladies pulmonaires obstructives chroniques, stades II-IV de GOLD
 - – Emphysème pulmonaire
 - – Asthme bronchique non contrôlé, notamment sévère
-- – Maladies pulmonaires interstitielles
+- – Maladies pulmonaires interstitielles / fibrose pulmonaire
 - – Cancer actif des poumons
 - – Hypertension artérielle pulmonaire
 - – Maladie vasculaire pulmonaire
@@ -1150,18 +1150,19 @@ Selon l’état actuel de la science, seules certaines catégories d’adultes s
 - – Fibrose kystique
 - – Infections pulmonaires chroniques (mycobactérioses atypiques, bronchectasies, etc.)
 - – Patients sous assistance respiratoire
+- – Maladies associées à une capacité pulmonaire fortement réduite
 
 ### 4. Diabète
 
-- – Diabète sucré, avec complications tardives ou une HbA1c &gt; 8 %
+- – Diabète sucré, avec complications tardives ou une HbA1c ≥ 8 %
 
 ### 5. Maladies ou traitements affaiblissant le système immunitaire
 
-- – Immunosuppression sévère (p. ex. CD4+ &lt; 200µl)
+- – Immunosuppression sévère (p. ex., infection au VIH avec un nombre de cellules T CD4+ &lt; 200/µl)
 - – Neutropénie (&lt; 1000 neutrophiles/µl) ≥ 1 semaine
 - – Lymphocytopénie (&lt; 200 lymphocytes/µl)
 - – Immunodéficiences héréditaires
-- – Prise de médicaments qui répriment les défenses immunitaires (p. ex. prise de glucocorticoïdes, d’anticorps monoclonaux, de cytostatiques, etc. durant une longue période)
+- – Prise de médicaments qui répriment les défenses immunitaires (p. ex., prise de glucocorticoïdes durant une longue période [une dose équivalente de prednisolone &gt; 20 mg/jour], anticorps monoclonaux, cytostatiques, produits biologiques, etc.)
 - – Lymphomes agressifs (tous les types)
 - – Leucémie lymphatique aiguë
 - – Leucémie myéloïde aiguë
@@ -1173,6 +1174,9 @@ Selon l’état actuel de la science, seules certaines catégories d’adultes s
 - – Leucémie lymphatique chronique
 - – Myélome multiple
 - – Drépanocytose
+- – Greffe de moelle osseuse
+- – Greffe dʼorganes
+- – Personnes sur liste dʼattente en vue dʼune greffe
 
 ### 6. Cancer
 
@@ -1180,4 +1184,12 @@ Selon l’état actuel de la science, seules certaines catégories d’adultes s
 
 ### 7. Obésité
 
-- – Patients ayant un indice de masse corporelle (IMC) d’au moins 40 kg/m<sup>2</sup>
+- – Patients ayant un indice de masse corporelle (IMC) dʼau moins 35 kg/m<sup>2</sup>
+
+### 8. Maladies hépatiques
+
+- – Cirrhose du foie
+
+### 9. Maladies rénales
+
+- – Insuffisance rénale chronique avec DFG &lt; 60 ml/min

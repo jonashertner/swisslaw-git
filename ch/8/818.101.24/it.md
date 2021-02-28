@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinanza 3 del 19 giugno 2020 sui provvedimenti per combattere il coronavirus (COVID-19) (Ordinanza 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: it
-version: 2021-02-08
+version: 2021-03-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/it"
 
 (Ordinanza 3 COVID-19)
 
-del 19 giugno 2020 (Stato 8 febbraio 2021) (Stato 8 febbraio 2021)
+del 19 giugno 2020 (Stato 1° marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 [^ingress-1]: [RS 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^ingress-4]: Nuovo testo giusta il n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mar. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 ## Capitolo 1: Disposizioni generali
 
@@ -591,7 +591,7 @@ In caso di assemblee di società, l’organizzatore può disporre, a prescindere
 
 [^chap4a-1]
 
-[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^chap4a-1]: Introdotto dal n. I dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mar. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 #### Art. 27a
 
@@ -670,8 +670,6 @@ Allegato 1*[^t-1]*
 ## Elenco dei Paesi e delle regioni a rischio
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 2 feb. 2021, in vigore dall’8 feb. 2021 ([RU 2021 71](https://fedlex.data.admin.ch/eli/oc/2021/71)).
-
-## Elenco dei Paesi e delle regioni a rischio
 
 Tutti gli Stati al di fuori dello spazio Schengen, tranne:
 
@@ -1043,7 +1041,7 @@ Allegato 7*[^t-8]*
 
 ## Precisazioni mediche sulle malattie che rendono le persone interessate particolarmente a rischio
 
-[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^t-8]: Introdotto dal n. II dell’O del 13 gen. 2021 (Lavoratori particolarmente a rischio), in vigore dal 18 gen. 2021 al 31 mar. 2021 ([RU 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Aggiornato dal n. I dell’O del UFSP del 25 feb. 2021 (Elenco delle malattie che rendono le persone interessate particolarmente a rischio), in vigore dal 1° mar. 2021 ([RU 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio particolare soltanto per determinate categorie di persone adulte. I criteri seguenti si riferiscono pertanto unicamente a persone adulte.
 
@@ -1088,12 +1086,12 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 
 - – Cardiopatia congenita dopo valutazione individuale da parte del cardiologo curante
 
-### 3. Malattie croniche delle vie respiratorie
+### 3. Malattie croniche dei polmoni e delle vie respiratorie
 
 - – Malattie polmonari ostruttive croniche allo stadio GOLD II–IV
 - – Enfisema polmonare
 - – Forme di asma bronchiale particolarmente severe e non controllate
-- – Malattie polmonari interstiziali
+- – Pneumopatie interstiziali / fibrosi polmonare
 - – Cancro attivo ai polmoni
 - – Ipertensione arteriosa polmonare
 - – Malattia vascolare polmonare
@@ -1101,18 +1099,19 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 - – Fibrosi cistica
 - – Infezioni polmonari croniche (micobatteriosi atipiche, bronchiectasie ecc.)
 - – Pazienti sottoposti a respirazione artificiale
+- – Malattie che riducono gravemente la capacità polmonare
 
 ### 4. Diabete
 
-- – Diabete mellito, con complicanze tardive o con un valore di HbA1c &gt; 8 %
+- – Diabete mellito, con complicanze tardive o con un valore di HbA1c uguale o superiore all’8 per cento
 
 ### 5. Malattie o terapie che indeboliscono il sistema immunitario
 
-- – Immunodepressione severa (p. es. CD4+ &lt; 200µl)
+- – Immunosoppressione grave (p. es. infezione da HIV con un numero di linfociti T CD4+ &lt; 200/µl)
 - – Neutropenia (&lt; 1000 neutrofili/µl) durante ≥ 1 settimana
 - – Linfocitopenia (&lt; 200 linfociti/µl)
 - – Immunodeficienze ereditarie
-- – Assunzione di medicamenti che sopprimono la risposta immunitaria (p. es. assunzione prolungata di glucocorticoidi, anticorpi monoclonali, citostatici ecc.)
+- – Assunzione di medicamenti che sopprimono la risposta immunitaria (p. es. assunzione prolungata di glucocorticoidi (equivalente di prednisolone &gt; 20 mg/giorno), anticorpi monoclonali, citostatici, terapie biologiche ecc.)
 - – Linfomi aggressivi (tutti i tipi)
 - – Leucemia linfatica acuta
 - – Leucemia mieloide acuta
@@ -1124,6 +1123,9 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 - – Leucemia linfatica cronica
 - – Mieloma multiplo
 - – Anemia falciforme
+- – Trapianto di midollo osseo
+- – Trapianto di organi
+- – Persone in lista d’attesa per un trapianto
 
 ### 6. Cancro
 
@@ -1131,4 +1133,12 @@ Secondo lo stato attuale delle conoscenze scientifiche, si presume un rischio pa
 
 ### 7. Obesità
 
-- – Pazienti con un indice di massa corporea (IMC) pari o superiore a 40 kg/m<sup>2</sup>
+- – Pazienti con un indice di massa corporea (IMC) pari o superiore a 35 kg/m<sup>2</sup>
+
+### 8. Epatopatia
+
+- – Cirrosi epatica
+
+### 9. Nefropatia
+
+- – Insufficienza renale cronica, a partire da GFR &lt; 60 ml/min

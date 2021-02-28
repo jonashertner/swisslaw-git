@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordinance 3 of 19 June 2020 on Measures to Combat the Coronavirus (COVID-19) (COVID-19 Ordinance 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: en
-version: 2021-02-08
+version: 2021-03-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance 3)
 
-of 19 June 2020 (Status as of 8 February 2021)
+of 19 June 2020 (Status as of 1 March 2021)
 
 The Swiss Federal Council,
 
@@ -29,7 +29,7 @@ ordains:
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Amended by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 28 Feb. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^ingress-4]: Amended by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 ## Chapter 1 General Provisions
 
@@ -593,7 +593,7 @@ In the case of company meetings, the organiser may, regardless of the probable n
 
 [^chap4a-1]
 
-[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 28 Feb. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^chap4a-1]: Inserted by No I of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 #### Art. 27a
 
@@ -639,7 +639,7 @@ Where for operational reasons the presence of employees at high risk in the work
 
 The COVID-19 Ordinance 2 of 13 March 2020[^28-1] is repealed.
 
-[^28-1]: [[AS 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141)[783](https://fedlex.data.admin.ch/eli/oc/2020/144)[841](https://fedlex.data.admin.ch/eli/oc/2020/158)[863](https://fedlex.data.admin.ch/eli/oc/2020/164)[867](https://fedlex.data.admin.ch/eli/oc/2020/165)[1059](https://fedlex.data.admin.ch/eli/oc/2020/188)[1065](https://fedlex.data.admin.ch/eli/oc/2020/190)[1101](https://fedlex.data.admin.ch/eli/oc/2020/196)[1131](https://fedlex.data.admin.ch/eli/oc/2020/206)[1137](https://fedlex.data.admin.ch/eli/oc/2020/207)[1155](https://fedlex.data.admin.ch/eli/oc/2020/213)[1199](https://fedlex.data.admin.ch/eli/oc/2020/225)[1245](https://fedlex.data.admin.ch/eli/oc/2020/238)[1249](https://fedlex.data.admin.ch/eli/oc/2020/239)[1333](https://fedlex.data.admin.ch/eli/oc/2020/252)[1401](https://fedlex.data.admin.ch/eli/oc/2020/275)[1501](https://fedlex.data.admin.ch/eli/oc/2020/299)[1505](https://fedlex.data.admin.ch/eli/oc/2020/300)[1585](https://fedlex.data.admin.ch/eli/oc/2020/323)[1751](https://fedlex.data.admin.ch/eli/oc/2020/343)[1815](https://fedlex.data.admin.ch/eli/oc/2020/366)[1823](https://fedlex.data.admin.ch/eli/oc/2020/367)[1835](https://fedlex.data.admin.ch/eli/oc/2020/371)[2097](https://fedlex.data.admin.ch/eli/oc/2020/413)[2099](https://fedlex.data.admin.ch/eli/oc/2020/414)[2213](https://fedlex.data.admin.ch/eli/oc/2020/439)art. 14 n. II]
+[^28-1]: [[AS 2020 773](https://fedlex.data.admin.ch/eli/oc/2020/141), [783](https://fedlex.data.admin.ch/eli/oc/2020/144), [841](https://fedlex.data.admin.ch/eli/oc/2020/158), [863](https://fedlex.data.admin.ch/eli/oc/2020/164), [867](https://fedlex.data.admin.ch/eli/oc/2020/165), [1059](https://fedlex.data.admin.ch/eli/oc/2020/188), [1065](https://fedlex.data.admin.ch/eli/oc/2020/190), [1101](https://fedlex.data.admin.ch/eli/oc/2020/196), [1131](https://fedlex.data.admin.ch/eli/oc/2020/206), [1137](https://fedlex.data.admin.ch/eli/oc/2020/207), [1155](https://fedlex.data.admin.ch/eli/oc/2020/213), [1199](https://fedlex.data.admin.ch/eli/oc/2020/225), [1245](https://fedlex.data.admin.ch/eli/oc/2020/238), [1249](https://fedlex.data.admin.ch/eli/oc/2020/239), [1333](https://fedlex.data.admin.ch/eli/oc/2020/252), [1401](https://fedlex.data.admin.ch/eli/oc/2020/275), [1501](https://fedlex.data.admin.ch/eli/oc/2020/299), [1505](https://fedlex.data.admin.ch/eli/oc/2020/300), [1585](https://fedlex.data.admin.ch/eli/oc/2020/323), [1751](https://fedlex.data.admin.ch/eli/oc/2020/343), [1815](https://fedlex.data.admin.ch/eli/oc/2020/366), [1823](https://fedlex.data.admin.ch/eli/oc/2020/367), [1835](https://fedlex.data.admin.ch/eli/oc/2020/371), [2097](https://fedlex.data.admin.ch/eli/oc/2020/413), [2099](https://fedlex.data.admin.ch/eli/oc/2020/414), [2213](https://fedlex.data.admin.ch/eli/oc/2020/439)art. 14 n. II]
 
 #### Art. 28a
 
@@ -693,7 +693,7 @@ All states outside the Schengen area, with the exception of:
 
 Annex 2*[^t-2]*
 
-[^t-2]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020; [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
+[^t-2]: Rendered obsolete by the repeal of Art. 8 (see Art. 6 No 1 of the COVID-19 Ordinance on International Passenger Transport Measures of 2 July 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
 Annex 3*[^t-3]*
 
@@ -701,7 +701,7 @@ Annex 3*[^t-3]*
 
 ## Restrictions on cross-border movements of persons
 
-[^t-3]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
+[^t-3]: Amended by No II of the O of 21 Dec. 2020 ([AS 2020 6395](https://fedlex.data.admin.ch/eli/oc/2020/1046)). Revised in accordance with Annex 2 No 2 of the COVID-19 Ordinance on International Passenger Transport Measures of 27 Jan. 2021, in force since 8 Feb. 2021 ([AS 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)).
 
 The movement of persons from the following states into Switzerland is prohibited:
 
@@ -1104,7 +1104,7 @@ Annex 7*[^t-8]*
 
 ## Medical specifications of diseases that make the persons concerned persons at high risk
 
-[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 28 Feb. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^t-8]: Inserted by No II of the O of 13 Jan. 2021 (Employees at High Risk), in force from 18 Jan. 2021 to 31 March 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Revised by No I of the FOPH O of 25 Feb. 2021 (List of Diseases that place Persons at High Risk), in force since 1 March 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 According to the current state of science, a high risk can only be assumed for certain categories of adult person. The following criteria therefore apply to adults only.
 
@@ -1149,12 +1149,12 @@ According to the current state of science, a high risk can only be assumed for c
 
 - – Congenital heart disease according to the individual assessment of the attending cardiologist
 
-### 3. Chronic respiratory diseases
+### 3. Chronic lung and respiratory diseases
 
 - – Chronic obstructive lung diseases GOLD Grade II-IV
 - – Pulmonary emphysema
 - – Unmanaged asthma, in particular serious bronchial asthma
-- – Interstitial lung diseases
+- – Interstitial lung diseases / pulmonary fibrosis
 - – Active lung cancer
 - – Pulmonary arterial hypertension
 - – Pulmonary vascular disease
@@ -1162,18 +1162,19 @@ According to the current state of science, a high risk can only be assumed for c
 - – Cystic fibrosis
 - – Chronic lung infections (atypical mycobacteriosis, bronchiectasis, etc.)
 - – Ventilated patients
+- – Diseases involving a severely reduced lung capacity
 
 ### 4. Diabetes
 
-- – Diabetes mellitus, with long-term complications or a HbA1c von &gt; 8%
+- – Diabetes mellitus, with long-term complications or a HbA1c of &gt; 8% or more
 
 ### 5. Diseases/Therapies that weaken the immune system
 
-- – Serious immunosuppression (e.g. CD4+&lt; 200µl)
+- – Serious immunosuppression (e.g. HIV infection with a CD4+ T-cell count &lt; 200µl)
 - – Neutropenia ≥ 1 week
 - – Lymphocytopenia &lt;0.2x109/L
 - – Hereditary immunodeficiencies
-- – Use of medication that suppresses the immune defences (such as long-term use of glucocorticoids, monoclonal antibodies, cytostatics, etc.)
+- – Use of medication that suppresses the immune defences (such as long-term use of glucocorticoids (prednisolone equivalent &gt; 20 mg/day), monoclonal antibodies, cytostatics, biologics, etc.)
 - – Aggressive lymphomas (all entities)
 - – Acute lymphatic leukaemia
 - – Acute myeloid leukaemia
@@ -1185,6 +1186,9 @@ According to the current state of science, a high risk can only be assumed for c
 - – Chronic lymphatic leukaemia
 - – Multiple myeloma
 - – Sickle-cell disease
+- – Bone marrow transplants
+- – Organ transplants
+- – Persons on a waiting list for a transplant
 
 ### 6. Cancer
 
@@ -1193,3 +1197,11 @@ According to the current state of science, a high risk can only be assumed for c
 ### 7. Obesity
 
 - – Patients with a Body Mass Index (BMI) of 40 kg/m<sup>2</sup> or more
+
+### 8. Liver disease
+
+- – Cirrhosis of the liver
+
+### 9. Kidney disease
+
+- – Chronic renal insufficiency from GFR &lt; 60 ml/min

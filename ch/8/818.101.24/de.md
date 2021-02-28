@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-02-08
+version: 2021-03-01
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210208/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210208-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210208/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 8. Februar 2021)
+vom 19. Juni 2020 (Stand am 1. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -27,7 +27,7 @@ verordnet:
 [^ingress-1]: [SR 818.102](https://fedlex.data.admin.ch/eli/cc/2020/711)
 [^ingress-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^ingress-3]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^ingress-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^ingress-4]: Fassung gemäss Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -587,11 +587,11 @@ Bei Versammlungen von Gesellschaften kann der Veranstalter ungeachtet der voraus
 
 [^27-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-## 4*a*. Kapitel:**** Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
+## 4*a*. Kapitel: Massnahmen zum Schutz von besonders gefährdeten Arbeitnehmerinnen und Arbeitnehmern
 
 [^chap4a-1]
 
-[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^chap4a-1]: Eingefügt durch Ziff. I der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)).
 
 #### Art. 27a
 
@@ -663,7 +663,7 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3 Abs. 2)
 
@@ -690,11 +690,11 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Zypern
 - [tab]
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 9 Abs. 3)
 
@@ -704,7 +704,7 @@ Anhang 3*[^t-3]*
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 
-Anhang 4*[^t-4]*
+Anhang 4[^t-4]
 
 (Art. 11 Abs. 1, 19 Abs. 1 und 21 Abs. 2)
 
@@ -760,7 +760,7 @@ Anhang 4*[^t-4]*
 - 44\. Covid-19-Immun-Therapeutika
 - 45\. Medizinalgase
 
-### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001****
+### 2. Medizinprodukte im Sinne der Medizinprodukteverordnung vom 17. Oktober 2001
 
 [^annex4-lvlu1-lvl2-1]
 
@@ -778,7 +778,7 @@ Anhang 4*[^t-4]*
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -798,7 +798,7 @@ Anhang 4*[^t-4]*
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
@@ -809,7 +809,7 @@ Anhang 5*[^t-5]*
 - 1\. Remdesivir
 - 2\. Tocilizumab
 
-Anhang 5a*[^t-6]*
+Anhang 5a[^t-6]
 
 (Art. 24*a* Abs. 1)
 
@@ -840,7 +840,7 @@ Anhang 5a*[^t-6]*
 
 - 3\.3 Die Anforderung an die Spezifität liegt bei mindestens 99 %.
 
-Anhang 6*[^t-7]*
+Anhang 6[^t-7]
 
 (Art. 26, 26*b* und 26*c*)
 
@@ -848,7 +848,7 @@ Anhang 6*[^t-7]*
 
 [^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. II Abs. 2 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021, Ziff. 1.5 und 4.3 in Kraft seit 1. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
-### 1 Analysen auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021****
+### 1 Analysen auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021
 
 [^annex6-lvlu1-lvl1-1]
 
@@ -1044,7 +1044,7 @@ Anhang 7*[^t-8]*
 
 ## Medizinische Präzisierungen zu Erkrankungen, welche die Betroffenen zu besonders gefährdeten Personen machen
 
-[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 28. Febr. 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5)).
+[^t-8]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Besonders gefährdete Arbeitnehmerinnen und Arbeitnehmer), in Kraft vom 18. Jan. 2021 bis zum 31. März 2021 ([AS 2021 5](https://fedlex.data.admin.ch/eli/oc/2021/5), [109](https://fedlex.data.admin.ch/eli/oc/2021/109)). Bereinigt gemäss Ziff. I der V des BAG vom 25. Febr. 2021 (Liste der Erkrankungen, die Personen zu besonders gefährdeten Personen machen), in Kraft seit 1. März 2021 ([AS 2021 115](https://fedlex.data.admin.ch/eli/oc/2021/115)).
 
 Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwachsener Personen von einer besonderen Gefährdung auszugehen. Die nachfolgenden Kriterien beziehen sich deshalb nur auf erwachsene Personen.
 
@@ -1089,12 +1089,12 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 
 - – Kongenitale Herzerkrankung nach individueller Beurteilung durch den behandelnden Kardiologen / die behandelnde Kardiologin
 
-### 3. Chronische Atemwegserkrankungen
+### 3. Chronische Lungen- und Atemwegserkrankungen
 
 - – Chronisch Obstruktive Lungenerkrankungen GOLD Stadium II-IV
 - – Lungenemphysem
 - – Unkontrolliertes, insbesondere schweres Asthma bronchiale
-- – Interstitielle Lungenerkrankungen
+- – Interstitielle Lungenerkrankungen / Lungenfibrose
 - – Aktiver Lungenkrebs
 - – Pulmonalarterielle Hypertonie
 - – Pulmonalvaskuläre Erkrankung
@@ -1102,18 +1102,19 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 - – Zystische Fibrose
 - – Chronische Lungeninfektionen (atypische Mykobakteriosen, Bronchiektasen etc.)
 - – Beatmete Patient/innen
+- – Krankheiten mit einer schwer verminderten Lungenkapazität
 
 ### 4. Diabetes
 
-- – Diabetes mellitus, mit Spätkomplikationen oder einem HbA1c von &gt; 8 %
+- – Diabetes mellitus, mit Spätkomplikationen oder einem HbA1c von 8 % oder mehr
 
 ### 5. Erkrankungen/Therapien, die das Immunsystem schwächen
 
-- – Schwere Immunsuppression (z. B. CD4+ &lt; 200/µl)
+- – Schwere Immunsuppression (z. B. HIV-Infektion mit einer CD4+ T-Zellzahl &lt; 200/µl)
 - – Neutropenie (&lt;1000 Neutrophile/µl) während ≥ 1 Woche
 - – Lymphozytopenie (&lt;200 Lymphozyten/µl)
 - – Hereditäre Immundefekte
-- – Einnahme von Medikamenten, die die Immunabwehr unterdrücken (wie z. B. Langzeit-Einnahme von Glukokortikoide, monoklonale Antikörper, Zytostatika, etc.)
+- – Einnahme von Medikamenten, die die Immunabwehr unterdrücken (wie z. B. Langzeit-Einnahme von Glukokortikoiden (Prednisolon-Äquivalent &gt; 20 mg/Tag), monoklonalen Antikörpern, Zytostatika, Biologika etc.)
 - – Aggressive Lymphome (alle Entitäten)
 - – Akute Lymphatische Leukämie
 - – Akute Myeloische Leukämie
@@ -1125,6 +1126,9 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 - – Chronische Lymphatische Leukämie
 - – Multiples Myelom
 - – Sichelzellkrankheit
+- – Knochenmarktransplantation
+- – Organtransplantation
+- – Personen auf einer Warteliste für Transplantationen
 
 ### 6. Krebs
 
@@ -1132,4 +1136,12 @@ Gemäss aktuellem Stand der Wissenschaft ist nur bei bestimmten Kategorien erwac
 
 ### 7. Adipositas
 
-- – Patient/innen mit einem Body-Mass-Index (BMI) von 40 kg/m<sup>2</sup> oder mehr
+- – Patient/innen mit einem Body-Mass-Index (BMI) von 35 kg/m<sup>2</sup> oder mehr
+
+### 8. Lebererkrankung
+
+- – Leberzirrhose
+
+### 9. Nierenerkrankung
+
+- – chronische Niereninsuffizienz ab GFR &lt; 60 ml/min
