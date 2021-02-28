@@ -3,13 +3,13 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2020-09-01
-valid_until: 2021-02-28
-version_adopted: 2020-06-18
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-29
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/3627/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3739/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-## vom 13. Juni 2014\* (Stand 1. September 2020)
+## vom 13. Juni 2014\* (Stand 1. März 2021)
 
 Der Fachhochschulrat der Hochschule Luzern, gestützt auf die Artikel 14 Absatz 1 und 22 Unterabsatz k der Zentralschweizer Fachhochschul-Vereinbarung (FHZ-Vereinbarung) vom 15. September 2011[^hvom13Juni2014-1],
 
@@ -647,17 +647,27 @@ Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung
 
 Dem Zulassungsstudium ist eine bestandene Aufnahmeprüfung für eine andere Schweizer Fachhochschule technischer Ausrichtung gleichgestellt, sofern diese das Niveau einer Berufsmaturitätsprüfung erreicht.
 
-**Anhang 225**
+[^hVoraussetzungenfür-1]: Fassung gemäss Änderung vom 29. März 2020, rückwirkend in Kraft seit dem 1. März 2021 (G 2021-020).
+
+### Anhang 2
+
+[^hVoraussetzungenfür-1]
 
 ## Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Wirtschaft
 
 Als Zulassungsvoraussetzungen zu den Bachelor-Studiengängen gelten:
 
-- a. aa. für den Bachelor of Science in Business Administration: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
+- a. aa. für den Bachelor of Science in Business Administration:
 
-- bb. für den Bachelor of Science in Business Psychology: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen oder Gesundheit und Soziales in Verbindung mit einer kaufmännischen oder gesundheitlich-sozialen Grundbildung,
+eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
 
-- cc. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Technik, Architektur und Life Sciences oder Wirtschaft und Dienstleistungen in Verbindung mit einer technischen oder kaufmännischen Grundbildung,
+- bb. für den Bachelor of Science in Business Psychology:
+
+eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
+
+- cc. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Technik, Architektur und Life Sciences oder Wirtschaft und Dienstleistungen in Verbin-
+
+dung mit einer technischen oder kaufmännischen Grundbildung,
 
 - b. eine eidgenössisch anerkannte Berufsmaturität ohne Grundbildung im jeweiligen Fachbereich und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 
@@ -677,7 +687,9 @@ Als Zulassungsvoraussetzungen zu den Bachelor-Studiengängen gelten:
 
 - j. dem Ausbildungsniveau entsprechende Kenntnisse der Unterrichtssprache.
 
-Das Departement regelt das Nähere zu den Aufnahmeprüfungen.
+Ergänzend wird für die Zulassung zur Bachelor-Ausbildung in Business Psychology das Bestehen einer psychologischen Eignungsabklärung an der Hochschule Luzern – Wirtschaft vorausgesetzt.
+
+Das Departement regelt das Nähere zu den Aufnahmeprüfungen und zur Eignungsabklärung.
 
 [^hVoraussetzungenfür_2-1]: Eingefügt durch Änderung vom 1. September 2016, in Kraft seit dem 1. September 2016 (G 2016 239).
 
@@ -929,4 +941,3 @@ In Ausnahmefällen kann von einer abgeschlossenen Ausbildung auf der Sekundarstu
 ## Weitere Fussnoten
 
 - [*] G 2014 299
-- [25] Fassung gemäss Änderung vom 18. Juni 2020, in Kraft seit dem 1. September 2020 (G 2020-048).
