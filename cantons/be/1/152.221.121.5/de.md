@@ -3,20 +3,20 @@ canton: BE
 number: "152.221.121.5"
 title: Verordnung über das Sanitätskollegium
 language: de
-version: 2007-01-01
-valid_until: 2021-02-28
-version_adopted: 2006-10-25
+version: 2021-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-16
 adopted: 1990-05-30
 in_force: 1990-10-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.221.121.5"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/73/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Sanitätskollegium
 
-vom 30.05.1990 (Stand 01.01.2007)
+vom 30.05.1990 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -93,7 +93,7 @@ beschliesst:
 
 **Wahl**
 
-<sup>1</sup> Die Mitglieder des Sanitätskollegiums und die Vorsitzenden des Gesamtkollegiums und der Sektionen werden auf Antrag der Gesundheits- und Fürsorgedirektion vom Regierungsrat gewählt. Die kantonalen Berufsverbände der Ärzte, Zahnärzte, Apotheker und Tierärzte reichen unverbindliche Wahlvorschläge ein. Die ordentliche Amtsdauer beträgt vier Jahre, wobei die Wiederwahlen jeweils auf den gleichen Zeitpunkt wie diejenigen für das Staatspersonal erfolgen.
+<sup>1</sup> Die Mitglieder des Sanitätskollegiums und die Vorsitzenden des Gesamtkollegiums und der Sektionen werden auf Antrag der Gesundheits-, Sozial- und Integrationsdirektion vom Regierungsrat gewählt. Die kantonalen Berufsverbände der Ärzte, Zahnärzte, Apotheker und Tierärzte reichen unverbindliche Wahlvorschläge ein. Die ordentliche Amtsdauer beträgt vier Jahre, wobei die Wiederwahlen jeweils auf den gleichen Zeitpunkt wie diejenigen für das Staatspersonal erfolgen.
 
 <sup>2</sup> Die Vizepräsidentinnen und Vizepräsidenten werden von den Mitgliedern der betreffenden Sektionen bestimmt.
 
@@ -185,7 +185,7 @@ beschliesst:
 
 <sup>2</sup> Jährlich findet mindestens eine Sitzung des Gesamtkollegiums statt.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion kann jederzeit zu Sitzungen aufbieten.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann jederzeit zu Sitzungen aufbieten.
 
 #### Art. 16
 
@@ -237,9 +237,9 @@ beschliesst:
 
 **Sekretariat und Administration**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt der Präsidentin oder dem Präsidenten des Gesamtkollegiums die notwendigen finanziellen Mittel zur Führung eines Sekretariates zur Verfügung.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt der Präsidentin oder dem Präsidenten des Gesamtkollegiums die notwendigen finanziellen Mittel zur Führung eines Sekretariates zur Verfügung.
 
-<sup>2</sup> Bei Bedarf können im administrativen Bereich die Dienstleistungen der Gesundheits- und Fürsorgedirektion in Anspruch genommen werden.
+<sup>2</sup> Bei Bedarf können im administrativen Bereich die Dienstleistungen der Gesundheits-, Sozial- und Integrationsdirektion in Anspruch genommen werden.
 
 <sup>3</sup> Die Akten des Sanitätskollegiums werden bei der Präsidentin oder beim Präsidenten des Gesamtkollegiums registriert und aufbewahrt.
 
@@ -249,7 +249,7 @@ beschliesst:
 
 <sup>1</sup> Das Sanitätskollegium untersteht der Aufsicht des Regierungsrates.
 
-<sup>2</sup> Es ist der Gesundheits- und Fürsorgedirektion administrativ beigeordnet.
+<sup>2</sup> Es ist der Gesundheits-, Sozial- und Integrationsdirektion administrativ beigeordnet.
 
 ## 5 Schlussbestimmungen
 

@@ -3,20 +3,20 @@ canton: BE
 number: "152.221.121.5"
 title: Ordonnance sur le Collège de santé
 language: fr
-version: 2007-01-01
-valid_until: 2021-02-28
-version_adopted: 2006-10-25
+version: 2021-03-01
+valid_until: 2022-12-31
+version_adopted: 2020-12-16
 adopted: 1990-05-30
 in_force: 1990-10-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.221.121.5"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/73/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2117/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur le Collège de santé
 
-du 30.05.1990 (état au 01.01.2007)
+du 30.05.1990 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -93,7 +93,7 @@ arrête:
 
 **Nominations**
 
-<sup>1</sup> Les membres du Collège de santé et les présidents du collège plénier et des sections sont nommés par le Conseil-exécutif sur proposition de la Direction de la santé publique et de la prévoyance sociale. Les associations professionnelles cantonales de médecins, dentistes, pharmaciens et vétérinaires proposent des nominations. La durée de fonction ordinaire est de quatre ans, les nominations étant reconduites à la même date que celles du personnel de l'Etat de Berne.
+<sup>1</sup> Les membres du Collège de santé et les présidents du collège plénier et des sections sont nommés par le Conseil-exécutif sur proposition de la Direction de la santé, des affaires sociales et de l’intégration. Les associations professionnelles cantonales de médecins, dentistes, pharmaciens et vétérinaires proposent des nominations. La durée de fonction ordinaire est de quatre ans, les nominations étant reconduites à la même date que celles du personnel de l'Etat de Berne.
 
 <sup>2</sup> Les vice-présidents ou vice-présidentes des sections sont désignés par les membres de la section concernée.
 
@@ -185,7 +185,7 @@ arrête:
 
 <sup>2</sup> Le collège plénier se réunit au moins une fois par an.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale est habilitée à convoquer le collège plénier ou les sections en tout temps.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration est habilitée à convoquer le collège plénier ou les sections en tout temps.
 
 #### Art. 16
 
@@ -237,9 +237,9 @@ arrête:
 
 **Secrétariat et administration**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale accorde au président ou à la présidente du collège plénier les moyens financiers nécessaires pour la tenue d’un secrétariat.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration accorde au président ou à la présidente du collège plénier les moyens financiers nécessaires pour la tenue d’un secrétariat.
 
-<sup>2</sup> Les services de la Direction de la santé publique et de la pré- voyance sociale peuvent être utilisés au besoin dans le domaine administratif.
+<sup>2</sup> Les services de la Direction de la santé, des affaires sociales et de l’intégration peuvent être utilisés au besoin dans le domaine administratif.
 
 <sup>3</sup> Les dossiers du Collège de santé sont enregistrés et conservés par le président ou la présidente du collège plénier.
 
@@ -249,7 +249,7 @@ arrête:
 
 <sup>1</sup> Le Collège de santé est placé sous la surveillance du Conseil-exécutif.
 
-<sup>2</sup> Il est subordonné administrativement à la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Il est subordonné administrativement à la Direction de la santé, des affaires sociales et de l’intégration.
 
 ## 5 Dispositions finales
 
