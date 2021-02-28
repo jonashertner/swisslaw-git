@@ -3,20 +3,19 @@ canton: BL
 number: "140.611"
 title: Reglement zur Verordnung über das Übersetzungswesen
 language: de
-version: 2016-10-01
-valid_until: 2021-02-28
-version_adopted: 2016-09-16
+version: 2021-03-01
+version_adopted: 2021-02-02
 adopted: 2014-09-17
 in_force: 2015-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.611"
-pdf: "https://bl.clex.ch/api/de/versions/2914/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2915/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Verordnung über das Übersetzungswesen
 
-Vom 17.09.2014 (Stand 01.10.2016)
+Vom 17.09.2014 (Stand 01.03.2021)
 
 Die Fachgruppe Übersetzungswesen (kurz: Fachgruppe),
 
@@ -49,7 +48,7 @@ erlässt das nachfolgende Reglement:
 
 **Aufnahmeverfahren (§ 10 der Verordnung)**
 
-<sup>1</sup> Die Bewerbung gemäss § 10 Abs. 1 dieser Verordnung hat auf dem von der Koordinationsstelle zur Verfügung gestellten offiziellen Formular zu erfolgen. Neben einem aktuellen Strafregisterauszug sind die Nachweise bezüglich der Sprachkenntnisse (Deutsch mindestens Niveau C2), die Erklärung bezüglich der Pflichten sowie die Entbindung vom Amtsgeheimnis für Polizei, Staatsanwaltschaft, Gerichte, Betreibungsämter und Kindes- und Erwachsenenschutzbehörden beizulegen.
+<sup>1</sup> Die Bewerbung gemäss § 10 Abs. 1 dieser Verordnung hat auf dem von der Koordinationsstelle zur Verfügung gestellten offiziellen Formular zu erfolgen. Neben einem aktuellen Strafregisterauszug sind die Nachweise bezüglich der Sprachkenntnisse (Deutsch sowie Arbeitssprachen mindestens Niveau C2), die Erklärung bezüglich der Pflichten sowie die Entbindung vom Amtsgeheimnis für Polizei, Staatsanwaltschaft, Gerichte, Betreibungsämter und Kindes- und Erwachsenenschutzbehörden beizulegen.
 
 <sup>2</sup> Sind diese formalen Anforderungen erfüllt und besteht Bedarf an Übersetzerinnen oder Übersetzern bezüglich der von der Bewerberin bzw. dem Bewerber beantragten Arbeitssprachen, führt eine Delegation der Fachgruppe, wenn möglich unter Beizug eines Gerichtspräsidiums oder einer Staatsanwältin bzw. eines Staatsanwalts, mit der Bewerberin bzw. dem Bewerber ein persönliches Gespräch.
 
