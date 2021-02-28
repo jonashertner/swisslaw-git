@@ -4,13 +4,12 @@ number: "141.114"
 title: Verordnung über die elektronische Stimmabgabe von Auslandschweizerinnen und Auslandschweizern
 short: ESASV
 language: de
-version: 2016-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-02
+version: 2021-03-01
+version_adopted: 2021-01-20
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/141.114"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/843/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/843/pdf_file"
 
 (ESASV)
 
-vom 27.10.2010 (Stand 01.01.2016)
+vom 27.10.2010 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -79,9 +78,9 @@ beschliesst:
 
 **Stimmregisterdaten**
 
-<sup>1</sup> Die Staatskanzlei des Kantons Bern liefert dem Kanton Genf die Stimmregisterdaten. Die Übermittlung erfolgt auf einem hinreichend gesicherten Weg.
+<sup>1</sup> Die Staatskanzlei des Kantons Bern ist für den Betrieb des Stimmregisters der Auslandschweizerinnen und Auslandschweizer verantwortlich.
 
-<sup>2</sup> Der Kanton Genf versieht die Daten mit den für die elektronische Stimmabgabe notwendigen Informationen.
+<sup>2</sup> …
 
 ## 2 Wahl- und Abstimmungsmaterial
 

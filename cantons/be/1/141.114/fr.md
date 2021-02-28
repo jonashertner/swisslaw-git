@@ -4,13 +4,12 @@ number: "141.114"
 title: "Ordonnance sur le vote électronique des électeurs et électrices suisses de l'étranger"
 short: OVEESE
 language: fr
-version: 2016-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-02
+version: 2021-03-01
+version_adopted: 2021-01-20
 adopted: 2010-10-27
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/141.114"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/843/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2145/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/843/pdf_file"
 
 (OVEESE)
 
-du 27.10.2010 (état au 01.01.2016)
+du 27.10.2010 (état au 01.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -77,9 +76,9 @@ arrête:
 
 **Données du registre électoral**
 
-<sup>1</sup> La Chancellerie d’Etat du canton de Berne livre au canton de Genève les données du registre électoral. La transmission se fait par voie sécurisée.
+<sup>1</sup> La Chancellerie d'Etat du canton de Berne est chargée de tenir le registre électoral des Suisses et Suissesses de l'étranger.
 
-<sup>2</sup> Le canton de Genève assortit ces données des informations nécessaires au vote électronique.
+<sup>2</sup> …
 
 ## 2 Matériel de vote
 
