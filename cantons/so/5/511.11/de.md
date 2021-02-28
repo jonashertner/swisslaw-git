@@ -3,30 +3,31 @@ canton: SO
 number: "511.11"
 title: Gesetz über die Kantonspolizei
 language: de
-version: 2019-09-01
-valid_until: 2021-02-28
-version_adopted: 2018-12-19
+version: 2021-03-01
+valid_until: 2021-10-31
+version_adopted: 2020-05-06
 adopted: 1990-09-23
 in_force: 1991-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/511.11"
-pdf: "https://bgs.so.ch/api/de/versions/4835/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Gesetz über die Kantonspolizei
 
-Vom 23.09.1990 (Stand 01.09.2019)
+Vom 23.09.1990 (Stand 01.03.2021)
 
 Der Kantonsrat von Solothurn
 
-gestützt auf Artikel 19, 21, 71, 86 litera b, 92 und 93 der Kantonsverfassung vom 8. Juni 1986
+gestützt auf Artikel 19, 21, 71, 86 Buchstabe b, 92 und 93 der Verfassung des Kantons Solothurn (KV) vom 8. Juni 1986[^ingress-1]
 
-nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 18. September 1989[^ingress-1]
+nach Kenntnisnahme von Botschaft und Entwurf des Regierungsrates vom 18. September 1989[^ingress-2]
 
 beschliesst:
 
-[^ingress-1]: KRV 1990 S. 29 und 140 sowie Beilage nach S.180.
+[^ingress-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de)
+[^ingress-2]: KRV 1990 S. 29 und 140 sowie Beilage nach S.180.
 
 ## 1. Aufgaben der Kantonspolizei
 
@@ -88,7 +89,7 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Polizisten und Polizeiliche Sicherheitsassistenten (PSA) bilden das Polizeikorps.
+<sup>2</sup> Polizisten, Polizeianwärter im Praxisjahr und Polizeiliche Sicherheitsassistenten bilden das Polizeikorps.
 
 #### § 9
 
@@ -98,9 +99,9 @@ beschliesst:
 
 #### § 10
 
-**2. Polizeischule a) Allgemein**
+**2. Polizeiausbildung a) Allgemein**
 
-<sup>1</sup> Das Kommando nimmt Schweizer Bürger, welche die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen erfüllen, als Polizeianwärter im Anstellungsverhältnis nach der Gesetzgebung über das Staatspersonal in die Polizeischule auf.
+<sup>1</sup> Das Kommando lässt Schweizer Bürger, welche die erforderlichen charakterlichen, geistigen und körperlichen Voraussetzungen erfüllen, als Polizeianwärter im Anstellungsverhältnis nach der Gesetzgebung über das Staatspersonal zur Absolvierung der Polizeiausbildung zu.
 
 <sup>2</sup> Unter denselben Voraussetzungen nimmt das Kommando Personen als Polizeiliche Sicherheitsassistenten (PSA) im Anstellungsverhältnis nach der Gesetzgebung über das Staatspersonal in das Polizeikorps auf. Die Paragraphen 11-13 sowie 15-18 gelten sinngemäss.
 
@@ -108,7 +109,7 @@ beschliesst:
 
 **Auslagerung der Aus- und Weiterbildung der Angehörigen der Kantonspolizei und Beitritt zum Konkordat**
 
-<sup>1</sup> Die Ausbildung der Polizeianwärter sowie die Weiterbildung der Polizeiangehörigen erfolgt an der Interkantonalen Polizeischule Hitzkirch. Die Ausbildung zum Polizeilichen Sicherheitsassistenten (PSA) erfolgt an der Interkantonalen Polizeischule Hitzkirch.
+<sup>1</sup> Die Polizeiausbildung dauert zwei Jahre. Sie umfasst eine schulische Grundausbildung und ein Praxisjahr. Die schulische Grundausbildung der Polizeianwärter erfolgt an der Interkantonalen Polizeischule Hitzkirch. Das Praxisjahr absolvieren die Polizeianwärter im Polizeikorps. Die Ausbildung zum Polizeilichen Sicherheitsassistenten erfolgt an der Interkantonalen Polizeischule Hitzkirch oder einer anderen Ausbildungsstätte.
 
 <sup>2</sup> Zu diesem Zweck tritt der Kanton Solothurn dem Konkordat vom 25. Juni 2003 über Errichtung und Betrieb einer Interkantonalen Polizeischule Hitzkirch bei.
 
@@ -116,7 +117,7 @@ beschliesst:
 
 <sup>4</sup> Der Kantonsrat bewilligt die zum Vollzug des Konkordats notwendigen finanziellen Mittel.
 
-<sup>5</sup> Bei Bedarf können spezialisierte Weiterbildungskurse am Schweizerischen Polizeiinstitut in Neuenburg (SPIN) oder an anderen Fachinstitutionen besucht werden.
+<sup>5</sup> Die Weiterbildung der Korpsangehörigen erfolgt an der Interkantonalen Polizeischule Hitzkirch, am Schweizerischen Polizeiinstitut in Neuenburg (SPIN), an einer anderen Ausbildungsstätte oder im Polizeikorps.
 
 #### § 11
 
@@ -124,16 +125,17 @@ beschliesst:
 
 <sup>1</sup> Das Kommando kann das Dienstverhältnis bei Pflichtverletzung und bei ungenügenden Leistungen auf Ende eines Monats kündigen. Die Kündigungsfrist beträgt einen Monat.
 
-<sup>2</sup> Der Polizeianwärter kann jederzeit aus der Schule austreten.
+<sup>2</sup> Der Polizeianwärter kann während der schulischen Grundausbildung jederzeit aus der Schule austreten. Während des Praxisjahres kann er unter Einhaltung einer Frist von einem Monat auf Ende eines Monats kündigen.
 
 #### § 12
 
 **c) Beitrag an die Ausbildungskosten**
 
-<sup>1</sup> Der Regierungsrat kann die Bezahlung eines Teils der Ausbildungskosten fordern, wenn
+<sup>1</sup> Das zuständige Departement kann die Bezahlung eines Teils der Ausbildungskosten fordern, wenn
 
-- a) der Polizeianwärter aus der Polizeischule austritt oder entlassen wird;
-- b) der Polizeibeamte den Dienst bei der Kantonspolizei innerhalb von 5 Jahren nach Abschluss der Polizeischule beendet.
+- a) der Polizeianwärter die Polizeiausbildung abbricht oder entlassen wird;
+- b) der Polizist den Dienst bei der Kantonspolizei innerhalb von vier Jahren nach Bestehen der eidgenössischen Berufsprüfung beendet;
+- c) der Polizeiliche Sicherheitsassistent den Dienst bei der Kantonspolizei innerhalb von fünf Jahren nach Erhalt des Zertifikats beendet.
 
 <sup>2</sup> Einzelheiten bestimmt das Dienstreglement.
 
@@ -141,7 +143,7 @@ beschliesst:
 
 **3. Polizeikorps a) Anstellung von Korpsangehörigen**
 
-<sup>1</sup> Die Anstellung von Korpsangehörigen richtet sich nach der Gesetzgebung über das Staatspersonal. Korpsangehörige müssen Schweizer Bürger sein. Die Tätigkeit als Polizist setzt den eidgenössischen Fachausweis voraus, die Tätigkeit als Polizeilicher Sicherheitsassistent das entsprechende Zertifikat.
+<sup>1</sup> Die Anstellung von Korpsangehörigen richtet sich nach der Gesetzgebung über das Staatspersonal. Korpsangehörige müssen Schweizer Bürger sein. Voraussetzung für die Tätigkeiten sind:
 
 <sup>2</sup> Für die Anstellung von Offizieren ist der Regierungsrat zuständig. Er kann vom Anstellungserfordernis einer abgeschlossenen Polizeirekrutenschule absehen.
 
@@ -149,7 +151,7 @@ beschliesst:
 
 **b) Beförderungen**
 
-<sup>1</sup> Das zuständige Departement beschliesst auf Antrag des Kommandos Beförderungen im Rahmen der vom Regierungsrat beschlossenen Beförderungsrichtlinien. Das Personalamt setzt die Löhne fest.
+<sup>1</sup> Das Kommando nimmt bei erfüllten Beförderungsbedingungen die Gradierung vor. Das Personalamt setzt die Löhne fest.
 
 #### § 15
 
@@ -189,25 +191,31 @@ beschliesst:
 
 #### § 18ter
 
-**5. Polizeiliche Sicherheitsassistenten (PSA)**
+**5. Polizeiliche Sicherheitsassistenten**
 
 <sup>1</sup> Polizeiliche Sicherheitsassistenten haben folgende Befugnisse:
 
-- a) Kontrolle des ruhenden Verkehrs inklusive Ahndung von Übertretungen gemäss Ordnungsbussengesetz sowie Verkehrsregelung des rollenden Verkehrs;
+- a) Kontrolle des ruhenden Verkehrs und Kontrolle von Fahrrädern und Motorfahrrädern im rollenden Verkehr inklusive Ahndung von Übertretungen nach der Ordnungsbussengesetzgebung des Bundes und des Kantons[^18ter-1];
 - b) Tätigkeit als Radaroperator;
-- c) Ausführung verschiedener Transportdienste;
+- c) Verkehrsregelung und Ausführung verschiedener Transportdienste;
 - d) Sichern von Unfallstellen und Absperren von Tatorten;
-- e) Überwachungs- und Kontrolltätigkeit;
+- e) Überwachungs- und Kontrolltätigkeit inklusive Ahndung von Übertretungen nach der Ordnungsbussengesetzgebung des Bundes und des Kantons[^18ter-2];
 - f) Vermisstensuche;
 - g) Sicherheitsaufgaben anlässlich von Veranstaltungen;
 - h) Objektschutz;
-- i) Begleiten von Ausnahmetransporten.
+- i) Begleiten von Ausnahmetransporten;
+- j) Leisten polizeilicher Vollzugsunterstützung nach § 1 Absatz 3.
+
+<sup>1<sup>bis</sup></sup> Nach erfolgter Instruktion und unter Anleitung eines Polizisten dürfen Polizeiliche Sicherheitsassistenten die im Einsatzkonzept des Kommandos aufgeführten Kontrollen des rollenden Verkehrs selbständig durchführen und Übertretungen nach der Ordnungsbussengesetzgebung des Bundes und des Kantons[^18ter-3] ahnden.
 
 <sup>2</sup> Das Kommando kann die Polizeilichen Sicherheitsassistenten im Einzelfall für weitere Hilfsdienste einsetzen. Diese Einsätze dürfen ausschliesslich unter der Kontrolle und Verantwortung eines Polizisten erfolgen.
 
-<sup>3</sup> Die Polizeilichen Sicherheitsassistenten sind zur Ausübung derjenigen polizeilichen Zwangsbefugnisse gemäss dem Gesetz über die Kantonspolizei und der Schweizerischen Strafprozessordnung[^18ter-1] befugt, derer sie zur Erfüllung ihrer Aufgaben bedürfen. Sie leisten ihren Dienst unbewaffnet.
+<sup>3</sup> Die Polizeilichen Sicherheitsassistenten sind zur Ausübung derjenigen polizeilichen Zwangsbefugnisse gemäss dem Gesetz über die Kantonspolizei und der Schweizerischen Strafprozessordnung[^18ter-4] befugt, derer sie zur Erfüllung ihrer Aufgaben bedürfen. Sie leisten ihren Dienst unbewaffnet.
 
-[^18ter-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+[^18ter-1]: BGS [311.4](https://bgs.so.ch/data/311.4/de).
+[^18ter-2]: BGS [311.4](https://bgs.so.ch/data/311.4/de).
+[^18ter-3]: BGS [311.4](https://bgs.so.ch/data/311.4/de).
+[^18ter-4]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
 
 ## 3. Zusammenarbeit mit Bund, Kantonen und Gemeinden sowie dem Ausland
 
@@ -229,9 +237,16 @@ beschliesst:
 
 **2. grenzüberschreitender Polizeieinsatz**
 
-<sup>1</sup> Der Regierungsrat kann unter Vorbehalt von Artikel 16 der Bundesverfassung andere Kantone um den Einsatz von Polizeikräften im Kanton Solothurn ersuchen oder auf Gesuch hin den Einsatz der Kantonspolizei ausserhalb des Kantons anordnen.
+<sup>1</sup> Der Regierungsrat kann unter Vorbehalt der Artikel 44 und 52 der Bundesverfassung (BV) vom 18. April 1999[^21-1] andere Kantone um den Einsatz von Polizeikräften im Kanton Solothurn ersuchen oder auf Gesuch hin den Einsatz der Kantonspolizei ausserhalb des Kantons anordnen.
 
-<sup>2</sup> In dringenden Fällen ist im Zusammenhang mit schweren Verbrechen oder mit Katastrophen das Kommando zuständig.
+<sup>1<sup>bis</sup></sup> Im Rahmen des Konkordats über die polizeiliche Zusammenarbeit in der Nordwestschweiz vom 20. Januar 1995[^21-2] ist das Departement des Innern für die Entscheide nach Absatz 1 zuständig.
+
+<sup>2</sup> In dringenden Fällen ist im Zusammenhang mit schweren Verbrechen und Vergehen, schweren Unglücksfällen und Katastrophen das Kommando zuständig. Es entscheidet zudem über Einsätze von untergeordneter Bedeutung.
+
+<sup>3</sup> Ausserkantonale Einsätze dürfen grundsätzlich nur geleistet werden, wenn die ersuchende Polizeibehörde den Kostenersatz zugesichert hat. Der Kanton Solothurn ersetzt den Kantonen, die auf sein Ersuchen hin Polizeikräfte zur Verfügung stellen, die Kosten. Vorbehalten bleiben abweichende vertragliche Vereinbarungen.
+
+[^21-1]: SR [101](https://db.clex.ch/link/Bund/101/de).
+[^21-2]: BGS [511.541](https://bgs.so.ch/data/511.541/de).
 
 #### § 22
 
@@ -361,6 +376,16 @@ beschliesst:
 **Zuführung Minderjähriger und Personen unter umfassender Beistandschaft**
 
 <sup>1</sup> Die Kantonspolizei führt Minderjährige oder Personen unter umfassender Beistandschaft auf Begehren berechtigter Personen dem Inhaber der elterlichen Sorge oder der zuständigen Behörde zu, wenn sie sich der elterlichen oder der behördlichen Aufsicht entziehen oder von einem ihnen zugewiesenen Pflegeplatz entweichen.
+
+#### § 32bis
+
+**Vorladung und Vorführung**
+
+<sup>1</sup> Zur Identitätsfeststellung, Durchführung erkennungsdienstlicher Massnahmen, Befragung und Herausgabe von Gegenständen kann die Kantonspolizei im Rahmen der Erfüllung ihrer Aufgaben ausserhalb eines Strafverfahrens eine Person unter Grundangabe ohne Beachtung besonderer Formen und Fristen vorladen.
+
+<sup>2</sup> Leistet die Person der Vorladung ohne hinreichenden Grund keine Folge und wurde sie schriftlich auf die Möglichkeit der Vorführung hingewiesen, kann die Kantonspolizei sie vorführen.
+
+<sup>3</sup> Die Vorführung kann ohne vorherige Vorladung angeordnet werden, wenn Gefahr im Verzug ist und befürchtet werden muss, dass der Vorladung nicht Folge geleistet wird.
 
 #### § 33
 
@@ -533,9 +558,16 @@ beschliesst:
 
 **Überwachung des Fernmeldeverkehrs**
 
-<sup>1</sup> Die Kantonspolizei ist zur Anordnung der Überwachung des Fernmeldeverkehrs im Rahmen der Suche und Rettung vermisster Personen gemäss der Bundesgesetzgebung[^36bis-1] zuständig.
+<sup>1</sup> Die Kantonspolizei ist in folgenden Fällen für die Anordnung der Überwachung des Post- und Fernmeldeverkehrs gemäss dem Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF) vom 18. März 2016 [^36bis-1] zuständig:
 
-[^36bis-1]: Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs vom 6. Oktober 2000 (BÜPF; SR [780.1](https://db.clex.ch/link/Bund/780.1/de)).
+- a) Suche und Rettung vermisster Personen;
+- b) Fahndung nach verurteilten Personen.
+
+<sup>2</sup> Anordnungen nach Absatz 1 sind vom Haftrichter zu genehmigen.
+
+<sup>3</sup> Das Obergericht beurteilt Beschwerden gegen Entscheide des Haftrichters.
+
+[^36bis-1]: SR [780.1](https://db.clex.ch/link/Bund/780.1/de).
 
 #### § 36ter
 
@@ -544,7 +576,7 @@ beschliesst:
 <sup>1</sup> Die Kantonspolizei kann Personen oder Sachen an allgemein zugänglichen Orten verdeckt sowie mit technischen Geräten beobachten und dabei insbesondere Bild- und Tonaufzeichnungen machen, wenn
 
 - a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass ein Verbrechen oder Vergehen vor der Ausführung steht und
-- b) mildere Massnahmen aussichtslos wären oder die Verhinderung der Straftat unverhältnismässig erschweren würden.
+- b) mildere Massnahmen aussichtslos wären oder die Erkennung und Verhinderung der Straftat unverhältnismässig erschweren würden.
 
 <sup>2</sup> Die Observation ist zudem zur Planung und Vorbereitung des Zugriffs auf eine Person zwecks Anhaltung oder vorläufiger Festnahme zulässig.
 
@@ -576,9 +608,9 @@ beschliesst:
 
 **Verdeckte Vorermittlung**
 
-<sup>1</sup> Die Kantonspolizei kann zur Erkennung und Verhinderung von Verbrechen und Vergehen an allgemein zugänglichen Orten sowie in virtuellen Begegnungsräumen im Internet, die einem grösseren Benutzerkreis offen stehen, eine verdeckte Vorermittlung durchführen, wenn
+<sup>1</sup> Die Kantonspolizei kann zur Erkennung und Verhinderung von Verbrechen und Vergehen eine verdeckte Vorermittlung durchführen, wenn
 
-- a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass es zu einer strafbaren Handlung nach Artikel 286 Absatz 2 StPO[^36quinquies-1] oder Artikel 260 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^36quinquies-2] kommen könnte und
+- a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass eine strafbare Handlung nach Artikel 286 Absatz 2 StPO[^36quinquies-1] oder Artikel 260 des Schweizerischen Strafgesetzbuches (StGB) vom 21. Dezember 1937[^36quinquies-2] vor der Ausführung steht und
 - b) die besondere Schwere oder Eigenart der Straftat die Massnahme rechtfertigt und
 - c) mildere Massnahmen erfolglos geblieben sind, aussichtslos wären oder die Erkennung und Verhinderung der Straftat unverhältnismässig erschweren würden und
 - d) der Haftrichter die Massnahme genehmigt.
@@ -614,6 +646,59 @@ beschliesst:
 - d) die Jugendlichen ihren Einsatz anonym leisten und dabei von einer erwachsenen Person begleitet werden;
 - e) keine Massnahmen getroffen werden, die das wahre Alter der Jugendlichen verschleiern;
 - f) der Testkauf umgehend protokolliert und dokumentiert wird.
+
+#### § 36septies
+
+**Verdeckte Fahndung**
+
+<sup>1</sup> Die Kantonspolizei kann zur Erkennung und Verhinderung von Straftaten eine verdeckte Fahndung im Sinne von Artikel 298a StPO[^36septies-1] anordnen, wenn
+
+- a) aufgrund konkreter Anhaltspunkte anzunehmen ist, dass ein Verbrechen oder Vergehen vor der Ausführung steht und
+- b) mildere Massnahmen aussichtslos wären oder die Erkennung und Verhinderung der Straftat unverhältnismässig erschweren würden.
+
+<sup>2</sup> Hat eine verdeckte Fahndung einen Monat gedauert, bedarf ihre Fortsetzung der Genehmigung durch den Haftrichter.
+
+<sup>3</sup> Fliessen die im Rahmen einer verdeckten Fahndung gewonnen Erkenntnisse nicht in ein Strafverfahren ein, sind sie innert 100 Tagen zu löschen beziehungsweise zu vernichten.
+
+<sup>4</sup> Die Kantonspolizei teilt der direkt betroffenen Person spätestens nach Beendigung der Massnahme mit, dass gegen sie verdeckt gefahndet worden ist. Die Mitteilung kann aufgeschoben oder unterlassen werden, wenn dies zum Schutz überwiegender öffentlicher oder privater Interessen notwendig ist.
+
+<sup>5</sup> Die Artikel 298c und 298d Absätze 1, 3 und 4 StPO[^36septies-2] gelten sinngemäss.
+
+[^36septies-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+[^36septies-2]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de).
+
+#### § 36octies
+
+**Automatisierte Fahrzeugfahndung**
+
+<sup>1</sup> Die Kantonspolizei kann Kontrollschilder von Fahrzeugen automatisiert erfassen und mit Datenbanken abgleichen.
+
+<sup>2</sup> Der automatisierte Abgleich ist zulässig:
+
+- a) mit polizeilichen Personen- und Sachfahndungsregistern;
+- b) mit Listen von Kontrollschildern von Fahrzeugen, deren Halter der Führerausweis entzogen oder verweigert worden ist;
+- c) mit konkreten Fahndungsaufträgen der Kantonspolizei.
+
+<sup>3</sup> Die Löschung automatisch erfasster Daten erfolgt:
+
+- a) bei fehlender Übereinstimmung mit einer Datenbank: unverzüglich;
+- b) bei einer Übereinstimmung mit der Datenbank: nach den Bestimmungen des entsprechenden Verwaltungs- oder Strafverfahrens.
+
+<sup>4</sup> Einzelheiten bestimmt das Dienstreglement.
+
+#### § 36novies
+
+**Einsatz unbemannter Luftfahrzeuge und Erstellen von Bildaufnahmen**
+
+<sup>1</sup> Die Kantonspolizei kann unbemannte Luftfahrzeuge einsetzen und Bildaufnahmen erstellen zum Zweck von
+
+- a) Such- und Rettungseinsätzen;
+- b) Dokumentation von Unfällen und Straftaten;
+- c) Einsätzen gemäss § 36<sup>quater</sup>.
+
+<sup>2</sup> Der Kommandant der Kantonspolizei kann in Einzelfällen, insbesondere bei Entführungen, Geiselnahmen sowie bei Flucht von Verurteilten und von mutmasslich gefährlichen Beschuldigten, den Einsatz unbemannter Luftfahrzeuge und das Erstellen von Bildaufnahmen anordnen.
+
+<sup>3</sup> Bildaufnahmen von Such- und Rettungseinsätzen nach Absatz 1 Buchstabe a sind spätestens nach 96 Stunden zu löschen. Für die Auswertung und Löschung der Bildaufnahmen nach Absatz 2 gelten § 36<sup>quater</sup> Absätze 3 und 4.
 
 #### § 37
 
@@ -728,7 +813,17 @@ beschliesst:
 
 **10. Feuerverbot**
 
-<sup>1</sup> Der Kommandant der Polizei Kanton Solothurn kann zur Verhinderung von Bränden unter Androhung der Strafverfolgung ein allgemeines oder teilweises Feuerverbot erlassen, sofern dies aufgrund von anhaltender Trockenheit oder anderer Umstände nötig ist. Feuerverbote treten sofort in Kraft.
+<sup>1</sup> Der Kommandant der Kantonspolizei kann zur Verhinderung von Bränden unter Androhung der Strafverfolgung ein allgemeines oder teilweises Feuerverbot erlassen, sofern dies aufgrund von anhaltender Trockenheit oder anderer Umstände nötig ist. Feuerverbote treten sofort in Kraft.
+
+#### § 39ter
+
+**11. Flugverbot für unbemannte Luftfahrzeuge bis 30 kg Gewicht**
+
+<sup>1</sup> Bei einem Einsatz der Polizei, der Feuerwehr, des Zivilschutzes und des Rettungsdienstes gilt im Umkreis von 300 m um den Ereignisort ein Flugverbot. Der zuständige Polizeioffizier der Kantonspolizei kann das Flugverbot ganz oder teilweise aufheben.
+
+<sup>2</sup> In Gefährdungslagen für Personen und Sachen Dritter auf dem Boden kann der zuständige Polizeioffizier ein Flugverbot erlassen. Das Flugverbot tritt sofort in Kraft.
+
+<sup>3</sup> Im Übrigen richtet sich die Benützung des Luftraums nach der Bundesgesetzgebung über die Luftfahrt.
 
 ## 6. Polizeiliche Daten
 
@@ -758,11 +853,24 @@ beschliesst:
 
 <sup>1</sup> Andern Amtsstellen, Behörden und Gemeinden dürfen Informationen nur übermittelt werden, wenn dies zur Erfüllung der Aufgaben des Informationsempfängers erforderlich ist.
 
+#### § 42bis
+
+**Elektronischer Datenaustausch**
+
+<sup>1</sup> Die Kantonspolizei kann mit den Polizeibehörden des Bundes und der Kantone bei der Übermittlung von Personendaten gemäss § 42 und zur Erkennung oder Bekämpfung von Verbrechen und Vergehen oder zur Suche nach vermissten oder entwichenen Personen auf elektronischem Weg zusammenarbeiten.
+
+<sup>2</sup> Sie kann soweit zur Aufgabenerfüllung erforderlich:
+
+- a) Schnittstellen zwischen eigenen polizeilichen Datenbearbeitungssystemen und jenen des Bundes und anderer Kantone einrichten;
+- b) mit den Polizeibehörden des Bundes und anderer Kantone gemeinsame Datenbearbeitungssysteme betreiben.
+
+<sup>3</sup> Zugriffsberechtigung, Beschränkungen und Einzelheiten unterstehen den kantonalen Bestimmungen zur Informationssicherheit und zum Datenschutz, soweit übergeordnetes Recht nichts Abweichendes vorsieht.
+
 #### § 43
 
 **Berichterstattung**
 
-<sup>1</sup> Die Kantonspolizei erstellt und veröffentlicht jährlich einen Bericht über die ergriffenen Massnahmen gemäss §§ 35<sup>quinquies</sup>, 36<sup>ter</sup>, 36<sup>quater</sup> und 36<sup>quinquies</sup>.
+<sup>1</sup> Die Kantonspolizei erstellt und veröffentlicht jährlich einen Bericht über die ergriffenen Massnahmen gemäss § 35<sup>quinquies</sup>, §§ 36<sup>ter</sup>-36<sup>quinquies</sup> und § 36<sup>septies</sup> und § 36<sup>novies</sup> Absatz 2.
 
 #### § 44
 
