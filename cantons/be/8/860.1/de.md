@@ -4,13 +4,13 @@ number: "860.1"
 title: Gesetz über die öffentliche Sozialhilfe
 short: "Sozialhilfegesetz, SHG"
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-06-10
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2057/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2128/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2057/pdf_file"
 
 (Sozialhilfegesetz, SHG)
 
-vom 11.06.2001 (Stand 01.01.2021)
+vom 11.06.2001 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -240,15 +240,15 @@ beschliesst:
 
 - a definiert die strategischen Ziele und Schwerpunkte der Sozialhilfe,
 - b beantragt das Bereitstellen der finanziellen Mittel durch den Grossen Rat,
-- c genehmigt die Leitbilder, Planungen und Berichte der Gesundheits- und Fürsorgedirektion,
-- d legt die Grundzüge des strategischen Controllings fest und nimmt Kenntnis von den Wirkungskontrollen der Gesundheits- und Fürsorgedirektion,
+- c genehmigt die Leitbilder, Planungen und Berichte der Gesundheits-, Sozial- und Integrationsdirektion,
+- d legt die Grundzüge des strategischen Controllings fest und nimmt Kenntnis von den Wirkungskontrollen der Gesundheits-, Sozial- und Integrationsdirektion,
 - e erfüllt weitere Aufgaben nach diesem Gesetz.
 
 #### Art. 14
 
-**Gesundheits- und Fürsorgedirektion**
+**Gesundheits-, Sozial- und Integrationsdirektion**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion
 
 - a konkretisiert die Ziele der Sozialhilfe und sorgt für deren Umsetzung,
 - b erhebt und analysiert regelmässig den Bedarf an Leistungsangeboten,
@@ -267,9 +267,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden stellen nach den kantonalen Vorgaben die individuellen Leistungsangebote bereit. Sie vollziehen die individuelle Sozialhilfe und überprüfen regelmässig die Wirkung der Leistungsangebote.
 
-<sup>2</sup> Sie unterstützen die Gesundheits- und Fürsorgedirektion beim Bereitstellen von institutionellen Leistungsangeboten und stellen mit deren Ermächtigung solche Angebote bereit.
+<sup>2</sup> Sie unterstützen die Gesundheits-, Sozial- und Integrationsdirektion beim Bereitstellen von institutionellen Leistungsangeboten und stellen mit deren Ermächtigung solche Angebote bereit.
 
-<sup>3</sup> Sie können auf eigene Kosten Leistungsangebote bereitstellen, welche über die kantonalen Vorgaben oder die Ermächtigung der Gesundheits- und Fürsorgedirektion hinausgehen.
+<sup>3</sup> Sie können auf eigene Kosten Leistungsangebote bereitstellen, welche über die kantonalen Vorgaben oder die Ermächtigung der Gesundheits-, Sozial- und Integrationsdirektion hinausgehen.
 
 #### Art. 16
 
@@ -304,7 +304,7 @@ beschliesst:
 - a grundsätzliche Fragen zur Ausrichtung von Leistungen der wirtschaftlichen Hilfe beurteilt und entscheidet,
 - b konsultativ Stellung zu Fragen aus dem Zuständigkeitsbereich des Sozialdienstes nimmt.
 
-<sup>4</sup> Sie nimmt Controlling- und Planungsaufgaben wahr, indem sie den Bedarf an Leistungsangeboten in der Gemeinde erhebt und der Gesundheits- und Fürsorgedirektion über ihre Arbeit und diejenige des Sozialdienstes Bericht erstattet.
+<sup>4</sup> Sie nimmt Controlling- und Planungsaufgaben wahr, indem sie den Bedarf an Leistungsangeboten in der Gemeinde erhebt und der Gesundheits-, Sozial- und Integrationsdirektion über ihre Arbeit und diejenige des Sozialdienstes Bericht erstattet.
 
 <sup>5</sup> Die Gemeinden können der Sozialbehörde Aufgaben im Bereich der institutionellen Sozialhilfe übertragen.
 
@@ -338,19 +338,19 @@ beschliesst:
 - e die Anordnung von Massnahmen,
 - f die Festsetzung und Gewährung von Leistungen.
 
-<sup>2</sup> Sie erfüllen auch Aufgaben nach besonderer Gesetzgebung, namentlich in den Bereichen Bevorschussung und Inkasso von Unterhaltsbeiträgen sowie Kindes- und Erwachsenenschutz. Sie können weitere Aufgaben aufgrund eines Leistungsvertrages zwischen der Trägerschaft und der Gesundheits- und Fürsorgedirektion erfüllen.
+<sup>2</sup> Sie erfüllen auch Aufgaben nach besonderer Gesetzgebung, namentlich in den Bereichen Bevorschussung und Inkasso von Unterhaltsbeiträgen sowie Kindes- und Erwachsenenschutz. Sie können weitere Aufgaben aufgrund eines Leistungsvertrages zwischen der Trägerschaft und der Gesundheits-, Sozial- und Integrationsdirektion erfüllen.
 
-<sup>3</sup> Die Trägerschaften der Sozialdienste erstatten der Gesundheits- und Fürsorgedirektion regelmässig Bericht und liefern ihr die erforderlichen Daten.
+<sup>3</sup> Die Trägerschaften der Sozialdienste erstatten der Gesundheits-, Sozial- und Integrationsdirektion regelmässig Bericht und liefern ihr die erforderlichen Daten.
 
 #### Art. 19a
 
 **Sozialinspektorat**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion sorgt dafür, dass alle Sozialdienste im Kanton die Möglichkeit haben, Sachverhalte in begründeten Einzelfällen mit Sozialinspektionen abzuklären.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion sorgt dafür, dass alle Sozialdienste im Kanton die Möglichkeit haben, Sachverhalte in begründeten Einzelfällen mit Sozialinspektionen abzuklären.
 
 <sup>2</sup> Die Gemeinden können ein Sozialinspektorat führen, das Sozialinspektionen gemäss Artikel 50a ff. durchführt, oder Dritte mit der Durchführung solcher Inspektionen beauftragen.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion kann eigene Sozialinspektorinnen und Sozialinspektoren einsetzen oder mit Dritten Leistungsverträge betreffend Sozialinspektionen gemäss Artikel 50a ff. abschliessen, in denen Art, Menge und Qualität der Leistungen, deren Abgeltung und die Qualitätssicherung geregelt werden.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann eigene Sozialinspektorinnen und Sozialinspektoren einsetzen oder mit Dritten Leistungsverträge betreffend Sozialinspektionen gemäss Artikel 50a ff. abschliessen, in denen Art, Menge und Qualität der Leistungen, deren Abgeltung und die Qualitätssicherung geregelt werden.
 
 <sup>4</sup> Der Kanton und die Gemeinden können Institutionen des privaten Rechts errichten, die im Auftrag der Sozialdienste Sozialinspektionen gemäss Artikel 50a ff. durchführen.
 
@@ -380,7 +380,7 @@ beschliesst:
 
 **Ombudsstellen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kann Ombudsstellen im Bereich der institutionellen Sozialhilfe fördern und unterstützen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann Ombudsstellen im Bereich der institutionellen Sozialhilfe fördern und unterstützen.
 
 ## 3 Leistungsangebote der individuellen Sozialhilfe
 
@@ -696,7 +696,7 @@ beschliesst:
 
 **Übertragung an Dritte**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion und die Gemeinden können die Gewährung der Sozialhilfe gemäss Artikel 46a in ihrem Zuständigkeitsbereich mit einem Leistungsvertrag an öffentliche oder private Trägerschaften übertragen. Diese können im Rahmen der übertragenen Zuständigkeiten Verfügungen erlassen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion und die Gemeinden können die Gewährung der Sozialhilfe gemäss Artikel 46a in ihrem Zuständigkeitsbereich mit einem Leistungsvertrag an öffentliche oder private Trägerschaften übertragen. Diese können im Rahmen der übertragenen Zuständigkeiten Verfügungen erlassen.
 
 <sup>2</sup> Die Bestimmungen von Artikel 62 bis 64 gelten sinngemäss.
 
@@ -714,7 +714,7 @@ beschliesst:
 
 **2. Burgergutsbeitrag**
 
-<sup>1</sup> Burgergemeinden und Burgerkorporationen, die nicht die burgerliche Sozialhilfe ausüben, haben der Gesundheits- und Fürsorgedirektion jährlich einen Burgergutsbeitrag zu leisten.
+<sup>1</sup> Burgergemeinden und Burgerkorporationen, die nicht die burgerliche Sozialhilfe ausüben, haben der Gesundheits-, Sozial- und Integrationsdirektion jährlich einen Burgergutsbeitrag zu leisten.
 
 <sup>2</sup> Die Burgergutsbeiträge der Burgergemeinden und Burgerkorporationen sind nach deren wirtschaftlicher Leistungskraft zu bemessen. Sie werden dem Lastenausgleich als Einnahme gutgeschrieben.
 
@@ -820,7 +820,7 @@ beschliesst:
 
 <sup>3</sup> Die betroffene Person wird vom Sozialdienst nach Abschluss der Sozialinspektion über die Beweismittelerhebungen informiert.
 
-<sup>4</sup> Die Sozialdienste erstatten der Gesundheits- und Fürsorgedirektion jährlich Bericht über die erfolgten Sozialinspektionen und deren Ergebnisse.
+<sup>4</sup> Die Sozialdienste erstatten der Gesundheits-, Sozial- und Integrationsdirektion jährlich Bericht über die erfolgten Sozialinspektionen und deren Ergebnisse.
 
 #### Art. 51
 
@@ -834,7 +834,7 @@ beschliesst:
 
 **Rechtsschutz**
 
-<sup>1</sup> Gegen Verfügungen der Sozialdienste und von öffentlichen und privaten Trägerinnen oder Trägern im Zuständigkeitsbereich der Gemeinden kann bei der Regierungsstatthalterin oder beim Regierungsstatthalter Beschwerde erhoben werden. Gegen Verfügungen von öffentlichen oder privaten Trägerinnen oder Trägern im Zuständigkeitsbereich der Gesundheits- und Fürsorgedirektion kann Beschwerde an diese erhoben werden.
+<sup>1</sup> Gegen Verfügungen der Sozialdienste und von öffentlichen und privaten Trägerinnen und Trägern im Zuständigkeitsbereich der Gemeinden kann bei der Regierungsstatthalterin oder beim Regierungsstatthalter Beschwerde erhoben werden. Gegen Verfügungen von öffentlichen oder privaten Trägerinnen und Trägern im Zuständigkeitsbereich der Gesundheits-, Sozial- und Integrationsdirektion kann Beschwerde an diese erhoben werden.
 
 <sup>2</sup> Anstelle der Regierungsstatthalterin oder des Regierungsstatthalters entscheidet die Oberwaisenkammer über Beschwerden gegen Verfügungen der Sozialhilfebehörden der Burgergemeinde Bern sowie ihrer Zünfte und Gesellschaften. Der Regierungsrat regelt die Organisation der Oberwaisenkammer durch Verordnung.
 
@@ -880,7 +880,7 @@ beschliesst:
 
 **Bedarfserhebung und Planung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion erhebt und analysiert regelmässig den Bedarf an institutionellen Leistungsangeboten.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erhebt und analysiert regelmässig den Bedarf an institutionellen Leistungsangeboten.
 
 <sup>2</sup> Sie plant gestützt auf die Bedarfsanalyse die Leistungsangebote und erarbeitet umfassende Leitbilder.
 
@@ -890,12 +890,12 @@ beschliesst:
 
 **Bereitstellung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt im Rahmen der verfügbaren Mittel und der strategischen Vorgaben des Regierungsrates die erforderlichen Leistungsangebote bereit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt im Rahmen der verfügbaren Mittel und der strategischen Vorgaben des Regierungsrates die erforderlichen Leistungsangebote bereit.
 
 <sup>2</sup> Zu diesem Zweck
 
-- a schliesst die zuständige Stelle der Gesundheits- und Fürsorgedirektion mit Leistungserbringern Leistungsverträge ab,
-- b ermächtigt die zuständige Stelle der Gesundheits- und Fürsorgedirektion Gemeinden zur Bereitstellung von Angeboten gemäss Artikel 71a,
+- a schliesst die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion mit Leistungserbringern Leistungsverträge ab,
+- b ermächtigt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion Gemeinden zur Bereitstellung von Angeboten gemäss Artikel 71a,
 - c erbringt ausnahmsweise der Kanton Leistungen.
 
 #### Art. 60a
@@ -912,7 +912,7 @@ beschliesst:
 
 **Interkantonale Zusammenarbeit**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion und die Gemeinden können beim Bereitstellen der Leistungsangebote auch ausserkantonale Leistungserbringer berücksichtigen, soweit das zur Bedarfsdeckung nötig ist.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion und die Gemeinden können beim Bereitstellen der Leistungsangebote auch ausserkantonale Leistungserbringer berücksichtigen, soweit das zur Bedarfsdeckung nötig ist.
 
 <sup>2</sup> Der Regierungsrat kann bei Bedarf mit anderen Kantonen Verträge über die Zusammenarbeit, über die Aufnahme von Personen in Institutionen und über die Kostentragung abschliessen.
 
@@ -952,17 +952,17 @@ beschliesst:
 
 <sup>1</sup> Wer Leistungen anbietet, die der Kanton bereitstellt, oder wer für sein Leistungsangebot einer kantonalen Bewilligungspflicht unterliegt, ist der Aufsicht des Kantons unterstellt.
 
-<sup>2</sup> Die Gemeinden beaufsichtigen die Erbringer von Leistungen, die sie mit Ermächtigung der Gesundheits- und Fürsorgedirektion bereitstellen oder die einer kommunalen Bewilligungspflicht unterliegen.
+<sup>2</sup> Die Gemeinden beaufsichtigen die Erbringer von Leistungen, die sie mit Ermächtigung der Gesundheits-, Sozial- und Integrationsdirektion bereitstellen oder die einer kommunalen Bewilligungspflicht unterliegen.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion überprüft periodisch, ob die Leistungserbringer die gesetzlichen Voraussetzungen für ihre Tätigkeit erfüllen und ihre Leistungen in guter Qualität erbringen.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion überprüft periodisch, ob die Leistungserbringer die gesetzlichen Voraussetzungen für ihre Tätigkeit erfüllen und ihre Leistungen in guter Qualität erbringen.
 
 #### Art. 66
 
 **Bewilligungspflicht**
 
-<sup>1</sup> Leistungserbringer, die eine stationäre Einrichtung betreiben und den aufgenommenen Personen Unterkunft, Verpflegung, Betreuung und Pflege gewähren, bedürfen einer Betriebsbewilligung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion.
+<sup>1</sup> Leistungserbringer, die eine stationäre Einrichtung betreiben und den aufgenommenen Personen Unterkunft, Verpflegung, Betreuung und Pflege gewähren, bedürfen einer Betriebsbewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 
-<sup>2</sup> Sonderschulen bedürfen einer Betriebsbewilligung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion.
+<sup>2</sup> Sonderschulen bedürfen einer Betriebsbewilligung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 
 <sup>3</sup> Der Regierungsrat kann die Zuständigkeit für die Erteilung von Bewilligungen zur Pflege in privaten Haushalten den Gemeinden übertragen.
 
@@ -970,7 +970,7 @@ beschliesst:
 
 **Bewilligungsvoraussetzungen**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion erteilt die Bewilligung, wenn der Leistungserbringer
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion erteilt die Bewilligung, wenn der Leistungserbringer
 
 - a sein Angebot in einem Betriebskonzept umschreibt,
 - b über die zum Betrieb notwendigen Räumlichkeiten und Einrichtungen verfügt,
@@ -990,7 +990,7 @@ beschliesst:
 
 **Entzug und Erlöschen der Bewilligung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entzieht eine Betriebsbewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie hätte verweigert werden müssen.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entzieht eine Betriebsbewilligung, wenn deren Voraussetzungen nicht mehr erfüllt sind oder nachträglich Tatsachen festgestellt werden, aufgrund derer sie hätte verweigert werden müssen.
 
 <sup>2</sup> Die Bewilligung erlischt mit der Aufgabe des Betreuungs-, Pflege- oder Bildungsangebots.
 
@@ -998,7 +998,7 @@ beschliesst:
 
 **Massnahmen gegen Inhaberinnen und Inhaber einer Bewilligung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann bei Verletzung betrieblicher Pflichten, Missachtung von Auflagen oder Bedingungen oder Verstoss gegen die Vorschriften dieses Gesetzes oder der Ausführungserlasse gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung folgende Massnahmen anordnen:
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann bei Verletzung betrieblicher Pflichten, Missachtung von Auflagen oder Bedingungen oder Verstoss gegen die Vorschriften dieses Gesetzes oder der Ausführungserlasse gegen die Inhaberin oder den Inhaber einer Betriebsbewilligung folgende Massnahmen anordnen:
 
 - a eine Verwarnung,
 - b eine Busse bis zu 50'000 Franken,
@@ -1010,25 +1010,25 @@ beschliesst:
 
 **Mitwirkungspflichten**
 
-<sup>1</sup> Die Leistungserbringer erteilen der zuständigen Stelle der Gesundheits- und Fürsorgedirektion oder der Gemeinde Auskünfte, gewähren ihr Einsicht in Akten, verschaffen ihr Zutritt zu den Räumlichkeiten und Einrichtungen und unterstützen sie in allen Belangen, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist.
+<sup>1</sup> Die Leistungserbringer erteilen der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder der Gemeinde Auskünfte, gewähren ihr Einsicht in Akten, verschaffen ihr Zutritt zu den Räumlichkeiten und Einrichtungen und unterstützen sie in allen Belangen, soweit dies für die Wahrnehmung der Aufsicht erforderlich ist.
 
-<sup>2</sup> Ihre Organe und Hilfspersonen können sich gegenüber der zuständigen Stelle der Gesundheits- und Fürsorgedirektion oder der Gemeinde nicht auf gesetzliche Geheimhaltungspflichten berufen.
+<sup>2</sup> Ihre Organe und Hilfspersonen können sich gegenüber der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion oder der Gemeinde nicht auf gesetzliche Geheimhaltungspflichten berufen.
 
-<sup>3</sup> Die Leistungserbringer sind verpflichtet, der Gesundheits- und Fürsorgedirektion die für die Beaufsichtigung und Steuerung erforderlichen Betriebs-, Leistungs- und Qualitätsdaten zu liefern.
+<sup>3</sup> Die Leistungserbringer sind verpflichtet, der Gesundheits-, Sozial- und Integrationsdirektion die für die Beaufsichtigung und Steuerung erforderlichen Betriebs-, Leistungs- und Qualitätsdaten zu liefern.
 
 #### Art. 66f
 
 **Amtshilfe**
 
-<sup>1</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits- und Fürsorgedirektion unverzüglich Vorfälle, die auf eine Verletzung betrieblicher Pflichten hindeuten.
+<sup>1</sup> Die Gerichts- und Verwaltungsbehörden melden der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion unverzüglich Vorfälle, die auf eine Verletzung betrieblicher Pflichten hindeuten.
 
 #### Art. 66g
 
 **Verjährung**
 
-<sup>1</sup> Die administrative Verfolgung verjährt nach Ablauf von zwei Jahren, nachdem die zuständige Stelle der Gesundheits- und Fürsorgedirektion vom beanstandeten Vorfall Kenntnis erhalten hat.
+<sup>1</sup> Die administrative Verfolgung verjährt nach Ablauf von zwei Jahren, nachdem die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion vom beanstandeten Vorfall Kenntnis erhalten hat.
 
-<sup>2</sup> Die Frist wird durch jede Untersuchungs- und Prozesshandlung über den beanstandeten Vorfall unterbrochen, welche die zuständige Stelle der Gesundheits- und Fürsorgedirektion, eine Strafverfolgungsbehörde oder ein Gericht vornimmt.
+<sup>2</sup> Die Frist wird durch jede Untersuchungs- und Prozesshandlung über den beanstandeten Vorfall unterbrochen, welche die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion, eine Strafverfolgungsbehörde oder ein Gericht vornimmt.
 
 <sup>3</sup> Die administrative Verfolgung verjährt in jedem Fall nach Ablauf von zehn Jahren nach dem zu beanstandenden Vorfall.
 
@@ -1038,7 +1038,7 @@ beschliesst:
 
 **Behinderungs- oder altersbedingter Pflege- und Betreuungsbedarf bei Erwachsenen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt die erforderlichen Angebote für erwachsene Menschen mit einem behinderungs- oder altersbedingten Pflege- und Betreuungsbedarf bereit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote für erwachsene Menschen mit einem behinderungs- oder altersbedingten Pflege- und Betreuungsbedarf bereit.
 
 <sup>2</sup> Zu den Angeboten gehören insbesondere die Leistungen von
 
@@ -1056,7 +1056,7 @@ beschliesst:
 
 **Pflege-, Betreuungs- oder Bildungsbedarf bei Kindern und Jugendlichen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt die erforderlichen Angebote für Kinder und Jugendliche mit einem behinderungsbedingten oder sonstigem besonderen Pflege-, Betreuungs- oder Bildungsbedarf bereit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote für Kinder und Jugendliche mit einem behinderungsbedingten oder sonstigem besonderen Pflege-, Betreuungs- oder Bildungsbedarf bereit.
 
 <sup>2</sup> Zu den Angeboten gehören insbesondere die Leistungen von
 
@@ -1073,7 +1073,7 @@ beschliesst:
 
 **Gesundheitsförderung und Suchthilfe 1. Leistungsangebote**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt die erforderlichen Angebote der allgemeinen Gesundheitsförderung, der Suchtprävention und der Suchthilfe bereit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote der allgemeinen Gesundheitsförderung, der Suchtprävention und der Suchthilfe bereit.
 
 <sup>2</sup> Zu den Angeboten gehören die Leistungen insbesondere von Einrichtungen zur Prävention, Beratung und Information, Früherkennung, Betreuung und Behandlung.
 
@@ -1095,7 +1095,7 @@ beschliesst:
 
 **Soziale Integration 1. Bereitstellung durch den Kanton**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt die erforderlichen Angebote zur sozialen Integration insbesondere in den folgenden Bereichen bereit:
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote zur sozialen Integration insbesondere in den folgenden Bereichen bereit:
 
 - a Mütter- und Väterberatung,
 - b Ehe-, Partnerschafts- und Familienberatung,
@@ -1124,7 +1124,7 @@ beschliesst:
 
 **Berufliche Integration und Beschäftigungsangebote**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion stellt die erforderlichen Angebote zur Beschäftigung, Arbeitsvermittlung und beruflichen Wiedereingliederung von gegenüber der Arbeitslosenversicherung nicht anspruchsberechtigten Erwerbslosen bereit.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion stellt die erforderlichen Angebote zur Beschäftigung, Arbeitsvermittlung und beruflichen Wiedereingliederung von gegenüber der Arbeitslosenversicherung nicht anspruchsberechtigten Erwerbslosen bereit.
 
 <sup>2</sup> Sie sorgt beim Abschluss der Leistungsverträge für eine angemessene regionale Angebotsverteilung.
 
@@ -1138,7 +1138,7 @@ beschliesst:
 
 **Besondere Massnahmen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kann zur Erreichung des Zwecks und der Wirkungsziele der Sozialhilfe besondere Massnahmen treffen.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kann zur Erreichung des Zwecks und der Wirkungsziele der Sozialhilfe besondere Massnahmen treffen.
 
 <sup>2</sup> Sie kann namentlich Leistungsangebote für besondere Bedürfnisse bereitstellen und Beiträge an Organisationen des Sozialwesens gewähren.
 
@@ -1164,13 +1164,13 @@ beschliesst:
 
 <sup>1</sup> Beiträge an Leistungserbringer können als Betriebs- oder Investitionsbeiträge gewährt werden. Der Regierungsrat kann Vorschriften über die für die Beitragsgewährung anrechenbaren Kosten erlassen.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion oder mit deren Ermächtigung die Gemeinden können Leistungserbringern Beiträge an die Kosten der Liquidation von institutionellen Leistungsangeboten sowie zur sozialverträglichen Ausgestaltung eines Stellenabbaus ausrichten.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion oder mit deren Ermächtigung die Gemeinden können Leistungserbringern Beiträge an die Kosten der Liquidation von institutionellen Leistungsangeboten sowie zur sozialverträglichen Ausgestaltung eines Stellenabbaus ausrichten.
 
 #### Art. 74b
 
 **Beiträge an Leistungsempfänger 1. Voraussetzungen**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion gewährt Beiträge an Personen für die Inanspruchnahme von institutionellen Leistungsangeboten, soweit diese nicht mit Betriebsbeiträgen der Gesundheits- und Fürsorgedirektion, mit Leistungen Dritter oder mit Eigenleistungen der Leistungsempfänger finanziert werden können.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion gewährt Beiträge an Personen für die Inanspruchnahme von institutionellen Leistungsangeboten, soweit diese nicht mit Betriebsbeiträgen der Gesundheits-, Sozial- und Integrationsdirektion, mit Leistungen Dritter oder mit Eigenleistungen der Leistungsempfänger finanziert werden können.
 
 <sup>2</sup> Sie gewährt die Beiträge aufgrund einer individuellen Bedarfsabklärung durch Verfügung.
 
@@ -1183,7 +1183,7 @@ beschliesst:
 
 **2. Sicherung des Verwendungszwecks und Rückerstattung**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion kontrolliert die zweckkonforme Verwendung der Beiträge. Zur Sicherung des Verwendungszwecks können die Beiträge an Dritte ausgerichtet werden.
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion kontrolliert die zweckkonforme Verwendung der Beiträge. Zur Sicherung des Verwendungszwecks können die Beiträge an Dritte ausgerichtet werden.
 
 <sup>2</sup> Personen, die unrechtmässig Beiträge bezogen oder die Beiträge nicht zweckbestimmt verwendet haben, sind zu deren Rückerstattung samt Zins verpflichtet.
 
@@ -1203,21 +1203,21 @@ beschliesst:
 
 **Finanzierung der Pflegekosten**
 
-<sup>1</sup> Die Gesundheits- und Fürsorgedirektion vergütet den Leistungserbringern die nicht von den Sozialversicherungen und den Leistungsempfängern gedeckten Pflegekosten gemäss Artikel 25a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^75a-1].
+<sup>1</sup> Die Gesundheits-, Sozial- und Integrationsdirektion vergütet den Leistungserbringern die nicht von den Sozialversicherungen und den Leistungsempfängern gedeckten Pflegekosten gemäss Artikel 25a des Bundesgesetzes vom 18. März 1994 über die Krankenversicherung (KVG)[^75a-1].
 
 <sup>2</sup> Der Regierungsrat kann Pauschalen festsetzen und regelt die Kostenbeteiligung der Leistungsempfänger durch Verordnung.
 
-[^75a-1]: SR 832.10
+[^75a-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### Art. 76
 
 **Beiträge des Kantons**
 
-<sup>1</sup> Der Kanton gewährt Beiträge an die Leistungserbringer, die im Auftrag der Gesundheits- und Fürsorgedirektion Leistungen anbieten und erbringen.
+<sup>1</sup> Der Kanton gewährt Beiträge an die Leistungserbringer, die im Auftrag der Gesundheits-, Sozial- und Integrationsdirektion Leistungen anbieten und erbringen.
 
 <sup>2</sup> Die entsprechenden Ausgaben werden abschliessend vom Regierungsrat bewilligt.
 
-<sup>3</sup> Der Regierungsrat kann diese Befugnis ganz oder teilweise der Gesundheits- und Fürsorgedirektion übertragen.
+<sup>3</sup> Der Regierungsrat kann diese Befugnis ganz oder teilweise der Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 #### Art. 77
 
@@ -1237,7 +1237,7 @@ beschliesst:
 
 #### Art. 77b
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann Massnahmen im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in den Betrieben der Leistungserbringer nach Absatz 2 gefährdet ist.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann Massnahmen im Bereich der Aus- und Weiterbildung in nichtuniversitären Gesundheitsberufen ergreifen, wenn die Sicherstellung des beruflichen Nachwuchses in den Betrieben der Leistungserbringer nach Absatz 2 gefährdet ist.
 
 <sup>2</sup> Die Bestimmungen über die Aus- und Weiterbildung gelten für folgende Leistungserbringer:
 
@@ -1266,7 +1266,7 @@ beschliesst:
 
 **Aus- und Weiterbildungsleistung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Aus- und Weiterbildungsleistung fest. Sie stützt sich dabei auf die kantonale Versorgungsplanung und die kantonalen Vorgaben über das Ausbildungspotenzial.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt gegenüber jedem Leistungserbringer die in einem Rechnungsjahr zu erbringende Aus- und Weiterbildungsleistung fest. Sie stützt sich dabei auf die kantonale Versorgungsplanung und die kantonalen Vorgaben über das Ausbildungspotenzial.
 
 <sup>2</sup> Die kantonalen Vorgaben zur Berechnung des Ausbildungspotenzials des Leistungserbringers berücksichtigen insbesondere
 
@@ -1282,11 +1282,11 @@ beschliesst:
 
 **Abgeltung**
 
-<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits- und Fürsorgedirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
+<sup>1</sup> Der Leistungserbringer meldet der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion am Ende des Rechnungsjahres für jeden nichtuniversitären Gesundheitsberuf die Aus- und Weiterbildungswochen, die während des Rechnungsjahres erbracht worden sind.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion entrichtet dem Leistungserbringer die Abgeltung für die im Rechnungsjahr erbrachte Aus- und Weiterbildungsleistung. Vergütungen für die Aus- und Weiterbildungsleistung, die der Leistungserbringer nach KVG erhält, werden davon abgezogen.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann dem Leistungserbringer während des Rechnungsjahres auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung periodische Vorschüsse ausrichten.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann dem Leistungserbringer während des Rechnungsjahres auf der Grundlage der festgelegten Aus- und Weiterbildungsleistung periodische Vorschüsse ausrichten.
 
 <sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Entrichtung der Abgeltung durch Verordnung.
 
@@ -1306,7 +1306,7 @@ beschliesst:
 
 **Datenlieferung 1. Pflicht**
 
-<sup>1</sup> Die Leistungserbringer liefern der zuständigen Stelle der Gesundheits- und Fürsorgedirektion innert angesetzter Frist alle Daten, die für die Prüfungen im Rahmen von Artikel 77e bis 77g erforderlich sind.
+<sup>1</sup> Die Leistungserbringer liefern der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion innert angesetzter Frist alle Daten, die für die Prüfungen im Rahmen von Artikel 77e bis 77g erforderlich sind.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten durch Verordnung. Er kann insbesondere die Art und den Umfang der Daten sowie den Zeitpunkt der Datenlieferung regeln.
 
@@ -1314,13 +1314,13 @@ beschliesst:
 
 **2. Sanktion**
 
-<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, erhebt die zuständige Stelle der Gesundheits- und Fürsorgedirektion ihm gegenüber einen Betrag von bis zu 20'000 Franken.
+<sup>1</sup> Liefert ein Leistungserbringer die Daten nicht oder nicht nach den Vorgaben des Regierungsrates, erhebt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ihm gegenüber einen Betrag von bis zu 20'000 Franken.
 
 #### Art. 77k
 
 **Delegation**
 
-<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung an die Gesundheits- und Fürsorgedirektion durch Verordnung übertragen.
+<sup>1</sup> Der Regierungsrat kann seine Regelungskompetenzen im Bereich der nichtuniversitären Aus- und Weiterbildung an die Gesundheits-, Sozial- und Integrationsdirektion durch Verordnung übertragen.
 
 ### 4a.3 Theoretische Aus- und Weiterbildung des Personals der Leistungserbringer
 
@@ -1328,9 +1328,9 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Zur Sicherung des beruflichen Nachwuchses in den nichtuniversitären Gesundheitsberufen kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion den im Kanton Bern gelegenen Leistungserbringern Beiträge für die theoretische Aus- und Weiterbildung ihres Personals gewähren.
+<sup>1</sup> Zur Sicherung des beruflichen Nachwuchses in den nichtuniversitären Gesundheitsberufen kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den im Kanton Bern gelegenen Leistungserbringern Beiträge für die theoretische Aus- und Weiterbildung ihres Personals gewähren.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion erstattet dem Regierungsrat jährlich Bericht. Sie gibt darin insbesondere Auskunft über die Höhe der gewährten Beiträge.
 
 #### Art. 77m
 
@@ -1376,7 +1376,7 @@ beschliesst:
 - a die Leistungen der wirtschaftlichen Hilfe für bedürftige Personen,
 - b die anrechenbaren Besoldungs- und Weiterbildungsaufwendungen für das Fach- und Administrativpersonal der Sozialdienste im Bereich der individuellen Sozialhilfe und der Aufgaben gemäss der besonderen Gesetzgebung,
 - c die Besoldungsaufwendungen für die Praktikantinnen und Praktikanten in den Sozialdiensten,
-- d 80 Prozent der anrechenbaren Beiträge an die Leistungserbringer im Bereich der institutionellen Sozialhilfe, soweit sie im Rahmen der gesetzlichen Vorschriften und der Ermächtigung der zuständigen Stelle der Gesundheits- und Fürsorgedirektion gewährt worden sind,
+- d 80 Prozent der anrechenbaren Beiträge an die Leistungserbringer im Bereich der institutionellen Sozialhilfe, soweit sie im Rahmen der gesetzlichen Vorschriften und der Ermächtigung der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion gewährt worden sind,
 - d1 mindestens 80 Prozent der anrechenbaren Aufwendungen für Leistungsangebote gemäss Artikel 71a Absatz 1 Buchstabe a,
 - e die anrechenbaren Aufwendungen für Leistungsangebote gemäss Artikel 71a Absatz 1 Buchstabe d,
 - f die Aufwendungen gemäss besonderer Gesetzgebung,
@@ -1399,7 +1399,7 @@ beschliesst:
 
 **Ersatzabgabe**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion kann eine Ersatzabgabe von Gemeinden verlangen, die der Verpflichtung, einen Sozialdienst zu führen, nicht nachkommen.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion kann eine Ersatzabgabe von Gemeinden verlangen, die der Verpflichtung, einen Sozialdienst zu führen, nicht nachkommen.
 
 <sup>2</sup> Die Ersatzabgabe ist nach dem Aufwand zu bemessen, der dem Kanton entsteht, wenn er für die Einwohnerinnen und Einwohner der entsprechenden Gemeinde Leistungen eines Sozialdienstes bereitstellen muss.
 
@@ -1407,12 +1407,12 @@ beschliesst:
 
 **Sanktionen gegen Gemeinden**
 
-<sup>1</sup> Wenn die Gemeinde oder die Trägerschaft des Sozialdienstes der zuständigen Stelle der Gesundheits- und Fürsorgedirektion für die Erstellung der Lastenausgleichsabrechnung unvollständige oder falsche Angaben macht oder die erforderlichen Berichte und statistischen Angaben nicht oder nicht rechtzeitig liefert, kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion
+<sup>1</sup> Wenn die Gemeinde oder die Trägerschaft des Sozialdienstes der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion für die Erstellung der Lastenausgleichsabrechnung unvollständige oder falsche Angaben macht oder die erforderlichen Berichte und statistischen Angaben nicht oder nicht rechtzeitig liefert, kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion
 
 - a den Aufwand der betroffenen Gemeinde ganz oder teilweise aus dem Lastenausgleich ausschliessen oder
 - b fällige Zahlungen zurückbehalten, bis die ergänzten oder korrigierten Daten geliefert werden.
 
-<sup>2</sup> Wenn der Sozialdienst die verbindlichen Bemessungsgrundlagen der wirtschaftlichen Hilfe systematisch missachtet, kann die zuständige Stelle der Gesundheits- und Fürsorgedirektion den Aufwand der Gemeinde im betroffenen Zeitraum vom Lastenausgleich ausschliessen.
+<sup>2</sup> Wenn der Sozialdienst die verbindlichen Bemessungsgrundlagen der wirtschaftlichen Hilfe systematisch missachtet, kann die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion den Aufwand der Gemeinde im betroffenen Zeitraum vom Lastenausgleich ausschliessen.
 
 <sup>3</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ergreift die erforderlichen aufsichtsrechtlichen Massnahmen.
 
@@ -1420,7 +1420,7 @@ beschliesst:
 
 **Anrechenbarer Aufwand der Gemeinden 1. Bonus und Malus**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion beurteilt jährlich die Wirkungen und Leistungen der Sozialdienste.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion beurteilt jährlich die Wirkungen und Leistungen der Sozialdienste.
 
 <sup>2</sup> Die Überprüfung der Wirkungen und Leistungen erfolgt insbesondere aufgrund der Kosteneffizienz der Sozialdienste bei der Ausrichtung der wirtschaftlichen Hilfe.
 
@@ -1436,7 +1436,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat regelt durch Verordnung, welche strukturellen Faktoren in die Berechnung mit einbezogen und wie die Ergebnisse ermittelt werden.
 
-<sup>3</sup> Die Gesundheits- und Fürsorgedirektion steht den Sozialdiensten und den Gemeinden zur Verbesserung der Situation beratend zur Verfügung.
+<sup>3</sup> Die Gesundheits-, Sozial- und Integrationsdirektion steht den Sozialdiensten und den Gemeinden zur Verbesserung der Situation beratend zur Verfügung.
 
 #### Art. 80f
 
@@ -1448,38 +1448,38 @@ beschliesst:
 
 <sup>3</sup> Der Bonus oder Malus wird allen dem Sozialdienst angeschlossenen Gemeinden gutgeschrieben oder belastet.
 
-<sup>4</sup> Die Gesundheits- und Fürsorgedirektion eröffnet den Entscheid über die Ausrichtung eines Bonus oder Auferlegung eines Malus den Trägerschaften der Sozialdienste mit der Lastenausgleichsabrechnung.
+<sup>4</sup> Die Gesundheits-, Sozial- und Integrationsdirektion eröffnet den Entscheid über die Ausrichtung eines Bonus oder Auferlegung eines Malus den Trägerschaften der Sozialdienste mit der Lastenausgleichsabrechnung.
 
 #### Art. 80g
 
 **Datenlieferung der Gemeinden**
 
-<sup>1</sup> Die Gemeinden sind verpflichtet, der zuständigen Stelle der Gesundheits- und Fürsorgedirektion regelmässig die erforderlichen Daten zur Verfügung zu stellen, damit die dem Lastenausgleich zugeführten Aufwendungen der Gemeinden überprüft werden können.
+<sup>1</sup> Die Gemeinden sind verpflichtet, der zuständigen Stelle der Gesundheits-, Sozial- und Integrationsdirektion regelmässig die erforderlichen Daten zur Verfügung zu stellen, damit die dem Lastenausgleich zugeführten Aufwendungen der Gemeinden überprüft werden können.
 
 <sup>2</sup> Im Bereich der individuellen Sozialhilfe liefern die Gemeinden die erforderlichen Daten, die eine auf das einzelne Sozialhilfedossier bezogene Auswertung durch die zuständige Stelle ermöglichen.
 
 <sup>3</sup> Die Daten sollen Auswertungen über Aufwand, Ertrag und Umfang der Leistungen der Gemeinden ermöglichen.
 
-<sup>4</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion stellt sicher, dass die Daten pseudonymisiert elektronisch übermittelt werden. Die Zuordnung des Pseudonyms darf nur der Gemeinde möglich sein. Es darf ausschliesslich in der von der Gesundheits- und Fürsorgedirektion geführten Software nach Absatz 5 verwendet werden.
+<sup>4</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion stellt sicher, dass die Daten pseudonymisiert elektronisch übermittelt werden. Die Zuordnung des Pseudonyms darf nur der Gemeinde möglich sein. Es darf ausschliesslich in der von der Gesundheits-, Sozial- und Integrationsdirektion geführten Software nach Absatz 5 verwendet werden.
 
-<sup>5</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion bearbeitet die Daten mit einer von ihr betriebenen Software. Diese dient
+<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion bearbeitet die Daten mit einer von ihr betriebenen Software. Diese dient
 
 - a einer risikoorientierten Revision der Dossiers,
 - b der Reihenauswertung der erhobenen Daten,
 - c der Durchführung eines Benchmarkings,
 - d der Berechnung der Bonus- und Malusleistungen der Sozialdienste.
 
-<sup>6</sup> Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^80g-1] trägt die zuständige Stelle der Gesundheits- und Fürsorgedirektion.
+<sup>6</sup> Die Verantwortung für den Datenschutz im Sinne von Artikel 8 Absatz 2 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^80g-1] trägt die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion.
 
 <sup>7</sup> …
 
-[^80g-1]: BSG 152.04
+[^80g-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 81
 
 **Aufteilung**
 
-<sup>1</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion ermittelt alljährlich den Gesamtbetrag des lastenausgleichsberechtigten Aufwandes des Kantons und der Gemeinden.
+<sup>1</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion ermittelt alljährlich den Gesamtbetrag des lastenausgleichsberechtigten Aufwandes des Kantons und der Gemeinden.
 
 <sup>2</sup> Der Gesamtbetrag des lastenausgleichsberechtigten Aufwandes wird nach den Bestimmungen des FILAG vom Kanton und von der Gesamtheit der Gemeinden getragen.
 
@@ -1489,13 +1489,13 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Stelle der Finanzdirektion berechnet die von den einzelnen Gemeinden zu tragenden Lastenanteile nach den Bestimmungen des FILAG.
 
-<sup>2</sup> Die Gesundheits- und Fürsorgedirektion ermittelt im Sinne von Artikel 80d bis 80f die Gemeinden, denen ein Bonus zusteht oder ein Malus in Rechnung gestellt wird und verrechnet den Betrag mit dem Lastenanteil gemäss Absatz 3.
+<sup>2</sup> Die Gesundheits-, Sozial- und Integrationsdirektion ermittelt im Sinne von Artikel 80d bis 80f die Gemeinden, denen ein Bonus zusteht oder ein Malus in Rechnung gestellt wird und verrechnet den Betrag mit dem Lastenanteil gemäss Absatz 3.
 
 <sup>3</sup> Der Saldo aus den Bonus- und Maluszahlungen wird in die Lastenausgleichsabrechnung des Folgejahrs mit einbezogen.
 
-<sup>4</sup> Ist der Lastenanteil einer Gemeinde kleiner als ihr lastenausgleichsberechtigter Aufwand, wird ihr der Differenzbetrag von der Gesundheits- und Fürsorgedirektion vergütet. Ist der Lastenanteil einer Gemeinde grösser als ihr lastenausgleichsberechtigter Aufwand, hat sie den Differenzbetrag der Gesundheits- und Fürsorgedirektion zu vergüten.[^82-1]
+<sup>4</sup> Ist der Lastenanteil einer Gemeinde kleiner als ihr lastenausgleichsberechtigter Aufwand, wird ihr der Differenzbetrag von der Gesundheits-, Sozial- und Integrationsdirektion vergütet. Ist der Lastenanteil einer Gemeinde grösser als ihr lastenausgleichsberechtigter Aufwand, hat sie den Differenzbetrag der Gesundheits-, Sozial- und Integrationsdirektion zu vergüten.[^82-1]
 
-<sup>5</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion eröffnet den Gemeinden die Lastenanteile und die Differenzbeträge durch Verfügung.[^82-2]
+<sup>5</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion eröffnet den Gemeinden die Lastenanteile und die Differenzbeträge durch Verfügung.[^82-2]
 
 [^82-1]: Die Absätze 4 und 5 entsprechen den bisherigen Absätzen 2 und 3
 [^82-2]: Die Absätze 4 und 5 entsprechen den bisherigen Absätzen 2 und 3
@@ -1514,7 +1514,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat erlässt die für den Vollzug erforderlichen Ausführungsbestimmungen.
 
-<sup>2</sup> Er kann seine Regelungsbefugnisse ganz oder teilweise der Gesundheits- und Fürsorgedirektion übertragen.
+<sup>2</sup> Er kann seine Regelungsbefugnisse ganz oder teilweise der Gesundheits-, Sozial- und Integrationsdirektion übertragen.
 
 #### Art. 85
 

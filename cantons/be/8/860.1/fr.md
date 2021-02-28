@@ -4,13 +4,13 @@ number: "860.1"
 title: "Loi sur l'aide sociale"
 short: LASoc
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-06-10
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2020-12-16
 adopted: 2001-06-11
 in_force: 2002-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/860.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2057/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2128/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2057/pdf_file"
 
 (LASoc)
 
-du 11.06.2001 (état au 01.01.2021)
+du 11.06.2001 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -240,15 +240,15 @@ arrête:
 
 - a définit les axes et objectifs stratégiques de l'aide sociale;
 - b demande au Grand Conseil de libérer les moyens financiers requis;
-- c approuve les modèles, les planifications et les rapports élaborés par la Direction de la santé publique et de la prévoyance sociale;
-- d fixe les principes du controlling stratégique et prend connaissance des contrôles de résultats réalisés par la Direction de la santé publique et de la prévoyance sociale;
+- c approuve les modèles, les planifications et les rapports élaborés par la Direction de la santé, des affaires sociales et de l’intégration;
+- d fixe les principes du controlling stratégique et prend connaissance des contrôles de résultats réalisés par la Direction de la santé, des affaires sociales et de l’intégration;
 - e remplit d'autres tâches prévues par la présente loi.
 
 #### Art. 14
 
-**Direction de la santé publique et de la prévoyance sociale**
+**Direction de la santé, des affaires sociales et de l’intégration**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration
 
 - a concrétise les objectifs de l'aide sociale et veille à leur mise en œuvre;
 - b procède régulièrement à l'inventaire et à l'analyse des besoins en prestations;
@@ -267,9 +267,9 @@ arrête:
 
 <sup>1</sup> Les communes assurent et exécutent les prestations de l'aide sociale individuelle conformément aux objectifs cantonaux et en contrôlent régulièrement l'efficacité.
 
-<sup>2</sup> Elles aident la Direction de la santé publique et de la prévoyance sociale à mettre sur pied des prestations d'aide sociale institutionnelle et les proposent avec l'autorisation de cette dernière.
+<sup>2</sup> Elles aident la Direction de la santé, des affaires sociales et de l’intégration à mettre sur pied des prestations d'aide sociale institutionnelle et les proposent avec l'autorisation de cette dernière.
 
-<sup>3</sup> Elles peuvent financer elles-mêmes des prestations de l’aide sociale institutionnelle non admises à la compensation des charges par la Direction de la santé publique et de la prévoyance sociale.
+<sup>3</sup> Elles peuvent financer elles-mêmes des prestations de l’aide sociale institutionnelle non admises à la compensation des charges par la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 16
 
@@ -301,7 +301,7 @@ arrête:
 - a en évaluant les problèmes fondamentaux liés au versement de l’aide matérielle et en prenant les décisions y relatives;
 - b en se prononçant à titre consultatif sur des questions relevant de la compétence du service social.
 
-<sup>4</sup> Elle assume des tâches de controlling et de planification en inventoriant les besoins en prestations dans la commune et en rendant compte à la Direction de la santé publique et de la prévoyance sociale de ses activités et du travail du service social.
+<sup>4</sup> Elle assume des tâches de controlling et de planification en inventoriant les besoins en prestations dans la commune et en rendant compte à la Direction de la santé, des affaires sociales et de l’intégration de ses activités et du travail du service social.
 
 <sup>5</sup> Les communes peuvent déléguer à l’autorité sociale des tâches relevant de l’aide sociale institutionnelle.
 
@@ -335,19 +335,19 @@ arrête:
 - e ordonnent des mesures;
 - f fixent le montant de l'aide et octroient les prestations.
 
-<sup>2</sup> Ils remplissent également des tâches relevant de la législation spéciale, notamment en matière d’aide au recouvrement et d’avance des contributions d’entretien ainsi que de protection de l’enfant et de l’adulte, ou d’un contrat de prestations passé entre l’organisme responsable et la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Ils remplissent également des tâches relevant de la législation spéciale, notamment en matière d’aide au recouvrement et d’avance des contributions d’entretien ainsi que de protection de l’enfant et de l’adulte, ou d’un contrat de prestations passé entre l’organisme responsable et la Direction de la santé, des affaires sociales et de l’intégration.
 
-<sup>3</sup> Les organismes responsables des services sociaux rendent régulièrement compte à la Direction de la santé publique et de la prévoyance sociale et lui fournissent les données requises.
+<sup>3</sup> Les organismes responsables des services sociaux rendent régulièrement compte à la Direction de la santé, des affaires sociales et de l’intégration et lui fournissent les données requises.
 
 #### Art. 19a
 
 **Service d’inspection sociale**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale veille à ce que tous les services sociaux du canton aient, dans des cas dûment motivés, la possibilité de faire appel à un inspecteur social ou à une inspectrice sociale pour établir des faits spécifiques.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration veille à ce que tous les services sociaux du canton aient, dans des cas dûment motivés, la possibilité de faire appel à un inspecteur social ou à une inspectrice sociale pour établir des faits spécifiques.
 
 <sup>2</sup> Les communes peuvent mettre sur pied des services d’inspection sociale chargés d’effectuer des enquêtes au sens des articles 50a ss ou charger des tiers d’effectuer de telles enquêtes.
 
-<sup>3</sup> La Direction de la santé publique et de la prévoyance sociale peut engager elle-même des inspecteurs sociaux et des inspectrices sociales ou charger des tiers de mener des inspections sociales au sens des articles 50a ss en concluant avec eux des contrats de prestations qui règlent la nature, la quantité et la qualité des prestations ainsi que leur rétribution et les modalités d’assurance-qualité.
+<sup>3</sup> La Direction de la santé, des affaires sociales et de l’intégration peut engager elle-même des inspecteurs sociaux et des inspectrices sociales ou charger des tiers de mener des inspections sociales au sens des articles 50a ss en concluant avec eux des contrats de prestations qui règlent la nature, la quantité et la qualité des prestations ainsi que leur rétribution et les modalités d’assurance-qualité.
 
 <sup>4</sup> Le canton et les communes peuvent instituer des organismes de droit privé chargés d’effectuer des inspections sociales au sens des articles 50a ss sur mandat des services sociaux.
 
@@ -377,7 +377,7 @@ arrête:
 
 **Organes de médiation**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut encourager la mise sur pied d'organes de médiation dans le domaine de l'aide sociale institutionnelle et les soutenir.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut encourager la mise sur pied d'organes de médiation dans le domaine de l'aide sociale institutionnelle et les soutenir.
 
 ## 3 Aide sociale individuelle
 
@@ -693,7 +693,7 @@ arrête:
 
 **Délégation à des tiers**
 
-<sup>1</sup> La Direction de la santé, des affaires sociales et de l'intégration et les communes peuvent déléguer l’octroi de l’aide sociale au sens de l'article 46a relevant de leur compétence à des organismes responsables publics ou privés par le biais de contrats de prestations. Ces organismes peuvent rendre des décisions dans les limites des compétences qui leur sont déléguées.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration et les communes peuvent déléguer l’octroi de l’aide sociale au sens de l'article 46a relevant de leur compétence à des organismes responsables publics ou privés par le biais de contrats de prestations. Ces organismes peuvent rendre des décisions dans les limites des compétences qui leur sont déléguées.
 
 <sup>2</sup> Les articles 62 à 64 sont applicables par analogie.
 
@@ -711,7 +711,7 @@ arrête:
 
 **2. Contribution des biens de bourgeoisie**
 
-<sup>1</sup> Les communes et les corporations bourgeoises qui n'exercent pas l'aide sociale bourgeoise sont tenues de verser chaque année une contribution des biens de bourgeoisie à la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les communes et les corporations bourgeoises qui n'exercent pas l'aide sociale bourgeoise sont tenues de verser chaque année une contribution des biens de bourgeoisie à la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>2</sup> Les contributions des biens de bourgeoisie dues par les communes et les corporations bourgeoises sont calculées en fonction de leur capacité économique. Elles sont portées à la compensation des charges au titre des recettes.
 
@@ -819,7 +819,7 @@ arrête:
 
 <sup>3</sup> Au terme de l’inspection sociale, le service social informe la personne concernée de l’administration des preuves.
 
-<sup>4</sup> Les services sociaux rendent compte chaque année à la Direction de la santé publique et de la prévoyance sociale des inspections effectuées ainsi que des résultats obtenus.
+<sup>4</sup> Les services sociaux rendent compte chaque année à la Direction de la santé, des affaires sociales et de l’intégration des inspections effectuées ainsi que des résultats obtenus.
 
 #### Art. 51
 
@@ -833,7 +833,7 @@ arrête:
 
 **Protection juridique**
 
-<sup>1</sup> Les décisions émanant d’un service social ou d’un organisme responsable public ou privé relevant de la compétence d’une commune peuvent faire l’objet d’un recours auprès du préfet ou de la préfète. La Direction de la santé publique et de la prévoyance sociale connaît pour sa part des recours formés contre les décisions rendues par un organisme responsable public ou privé qui relève de sa compétence.
+<sup>1</sup> Les décisions émanant d’un service social ou d’un organisme responsable public ou privé relevant de la compétence d’une commune peuvent faire l’objet d’un recours auprès du préfet ou de la préfète. La Direction de la santé, des affaires sociales et de l’intégration connaît pour sa part des recours formés contre les décisions rendues par un organisme responsable public ou privé qui relève de sa compétence.
 
 <sup>2</sup> La Chambre des orphelins connaît en lieu et place du préfet ou de la préfète des recours contre les décisions émanant des autorités sociales de la commune bourgeoise de Berne ou de ses abbayes et sociétés. Le Conseil-exécutif règle l’organisation de la Chambre des orphelins par voie d’ordonnance.
 
@@ -879,7 +879,7 @@ arrête:
 
 **Inventaire des besoins et planification**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale inventorie et analyse régulièrement les besoins en prestations.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration inventorie et analyse régulièrement les besoins en prestations.
 
 <sup>2</sup> Se fondant sur l'analyse des besoins, elle planifie les prestations et élabore des modèles.
 
@@ -889,12 +889,12 @@ arrête:
 
 **Mise sur pied**
 
-<sup>1</sup> Dans les limites des ressources disponibles et des directives stratégiques du Conseil-exécutif, la Direction de la santé publique et de la prévoyance sociale met sur pied les prestations nécessaires.
+<sup>1</sup> Dans les limites des ressources disponibles et des directives stratégiques du Conseil-exécutif, la Direction de la santé, des affaires sociales et de l’intégration met sur pied les prestations nécessaires.
 
 <sup>2</sup> A cette fin,
 
-- a le service compétent de la Direction de la santé publique et de la prévoyance sociale conclut des contrats de prestations avec les fournisseurs de prestations;
-- b le service compétent de la Direction de la santé publique et de la prévoyance sociale autorise les communes à mettre sur pied des prestations au sens de l’article 71a;
+- a le service compétent de la Direction de la santé, des affaires sociales et de l’intégration conclut des contrats de prestations avec les fournisseurs de prestations;
+- b le service compétent de la Direction de la santé, des affaires sociales et de l’intégration autorise les communes à mettre sur pied des prestations au sens de l’article 71a;
 - c le canton, à titre exceptionnel, fournit lui-même des prestations.
 
 #### Art. 60a
@@ -911,7 +911,7 @@ arrête:
 
 **Collaboration intercantonale**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale et les communes peuvent faire appel à des fournisseurs de prestations extracantonaux pour assurer les prestations requises si la couverture des besoins l'exige.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration et les communes peuvent faire appel à des fournisseurs de prestations extracantonaux pour assurer les prestations requises si la couverture des besoins l'exige.
 
 <sup>2</sup> En cas de nécessité, le Conseil-exécutif peut conclure avec d'autres cantons des contrats réglant la collaboration, les conditions d'admission dans les institutions concernées et la prise en charge des coûts.
 
@@ -951,17 +951,17 @@ arrête:
 
 <sup>1</sup> Quiconque propose des prestations mises sur pied par le canton ou doit requérir une autorisation cantonale pour les fournir est soumis à la surveillance du canton.
 
-<sup>2</sup> Les communes surveillent les fournisseurs des prestations qu’elles mettent sur pied et peuvent porter à la compensation des charges moyennant approbation de la Direction de la santé publique et de la prévoyance sociale ou qui requièrent une autorisation communale.
+<sup>2</sup> Les communes surveillent les fournisseurs des prestations qu’elles mettent sur pied et peuvent porter à la compensation des charges moyennant approbation de la Direction de la santé, des affaires sociales et de l’intégration ou qui requièrent une autorisation communale.
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale contrôle périodiquement si les fournisseurs de prestations remplissent les exigences légales requises pour l’exercice de leur activité et si leurs prestations sont de bonne qualité.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration contrôle périodiquement si les fournisseurs de prestations remplissent les exigences légales requises pour l’exercice de leur activité et si leurs prestations sont de bonne qualité.
 
 #### Art. 66
 
 **Autorisation obligatoire**
 
-<sup>1</sup> Les fournisseurs de prestations qui exploitent une institution résidentielle offrant aux pensionnaires logement, nourriture, prise en charge et soins doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé publique et de la prévoyance sociale.
+<sup>1</sup> Les fournisseurs de prestations qui exploitent une institution résidentielle offrant aux pensionnaires logement, nourriture, prise en charge et soins doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
-<sup>2</sup> Les écoles spécialisées doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Les écoles spécialisées doivent disposer d’une autorisation d’exploiter du service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>3</sup> Le Conseil-exécutif peut déléguer aux communes la compétence de délivrer les autorisations aux ménages privés prenant en charge des personnes tributaires de soins.
 
@@ -969,7 +969,7 @@ arrête:
 
 **Conditions d’octroi**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale délivre l’autorisation lorsque le fournisseur de prestations
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration délivre l’autorisation lorsque le fournisseur de prestations
 
 - a décrit son offre dans un programme d’exploitation;
 - b dispose des locaux et des équipements nécessaires à l’exploitation;
@@ -989,7 +989,7 @@ arrête:
 
 **Retrait et extinction de l’autorisation**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale retire l’autorisation d’exploiter lorsque les conditions d’octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration retire l’autorisation d’exploiter lorsque les conditions d’octroi ne sont plus remplies ou s’il constate, ultérieurement, que celle-ci n’aurait pas dû être délivrée.
 
 <sup>2</sup> L’autorisation s’éteint avec la cessation des activités de prise en charge, de soins ou de formation du fournisseur de prestations.
 
@@ -997,7 +997,7 @@ arrête:
 
 **Mesures à l’encontre du ou de la titulaire d’une autorisation**
 
-<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise, de non-respect des charges ou des conditions dont est assortie l’autorisation ou d’infraction à la présente loi ou à ses dispositions d’exécution, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exploiter les mesures suivantes:
+<sup>1</sup> En cas de violation du devoir de diligence lié à l’entreprise, de non-respect des charges ou des conditions dont est assortie l’autorisation ou d’infraction à la présente loi ou à ses dispositions d’exécution, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prononcer à l’encontre du ou de la titulaire de l’autorisation d’exploiter les mesures suivantes:
 
 - a un avertissement,
 - b une amende de 50'000 francs au plus,
@@ -1009,25 +1009,25 @@ arrête:
 
 **Obligation de collaborer**
 
-<sup>1</sup> Les fournisseurs de prestations remettent les renseignements nécessaires au service compétent de la Direction de la santé publique et de la prévoyance sociale ou de la commune, lui donnent accès aux dossiers ainsi qu’aux locaux et aux équipements et la soutiennent dans tous les domaines dans la mesure nécessaire pour qu’il puisse assumer son mandat de surveillance.
+<sup>1</sup> Les fournisseurs de prestations remettent les renseignements nécessaires au service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou de la commune, lui donnent accès aux dossiers ainsi qu’aux locaux et aux équipements et la soutiennent dans tous les domaines dans la mesure nécessaire pour qu’il puisse assumer son mandat de surveillance.
 
-<sup>2</sup> Leurs organes et leurs auxiliaires ne peuvent pas invoquer d’obligations légales de garder le secret vis-à-vis du service compétent de la Direction de la santé publique et de la prévoyance sociale ou de la commune.
+<sup>2</sup> Leurs organes et leurs auxiliaires ne peuvent pas invoquer d’obligations légales de garder le secret vis-à-vis du service compétent de la Direction de la santé, des affaires sociales et de l’intégration ou de la commune.
 
-<sup>3</sup> Les fournisseurs de prestations sont tenus de remettre à la Direction de la santé publique et de la prévoyance sociale les données relatives à l’exploitation, aux prestations et à la qualité nécessaires pour la surveillance et le pilotage.
+<sup>3</sup> Les fournisseurs de prestations sont tenus de remettre à la Direction de la santé, des affaires sociales et de l’intégration les données relatives à l’exploitation, aux prestations et à la qualité nécessaires pour la surveillance et le pilotage.
 
 #### Art. 66f
 
 **Assistance administrative**
 
-<sup>1</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé publique et de la prévoyance sociale les faits susceptibles de constituer une violation du devoir de diligence lié à l’entreprise.
+<sup>1</sup> Les autorités judiciaires et administratives annoncent sans retard au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les faits susceptibles de constituer une violation du devoir de diligence lié à l’entreprise.
 
 #### Art. 66g
 
 **Prescription**
 
-<sup>1</sup> La poursuite administrative se prescrit par deux ans à compter de la date à laquelle le service compétent de la Direction de la santé publique et de la prévoyance sociale a eu connaissance des faits incriminés.
+<sup>1</sup> La poursuite administrative se prescrit par deux ans à compter de la date à laquelle le service compétent de la Direction de la santé, des affaires sociales et de l’intégration a eu connaissance des faits incriminés.
 
-<sup>2</sup> Le délai de prescription est interrompu par tout acte d’instruction ou de procédure que le service compétent de la Direction de la santé publique et de la prévoyance sociale, une autorité de poursuite pénale ou un tribunal opère en rapport avec les faits incriminés.
+<sup>2</sup> Le délai de prescription est interrompu par tout acte d’instruction ou de procédure que le service compétent de la Direction de la santé, des affaires sociales et de l’intégration, une autorité de poursuite pénale ou un tribunal opère en rapport avec les faits incriminés.
 
 <sup>3</sup> La poursuite administrative se prescrit en tout cas par dix ans à compter du jour où les faits incriminés se sont produits.
 
@@ -1037,7 +1037,7 @@ arrête:
 
 **Besoin de soins et d’encadrement des adultes dû à un handicap ou à l’âge**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale assure les prestations requises en faveur des adultes nécessitant des soins et un encadrement en raison d’un handicap ou de l’âge.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en faveur des adultes nécessitant des soins et un encadrement en raison d’un handicap ou de l’âge.
 
 <sup>2</sup> Il s’agit notamment des prestations fournies par
 
@@ -1055,7 +1055,7 @@ arrête:
 
 **Besoin de soins, d’encadrement ou de formation particulière des enfants et adolescents dû à un handicap**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale assure les prestations requises en faveur des enfants et des adolescents nécessitant des soins, un encadrement ou une formation particulière en raison d’un handicap ou d’un autre trouble.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en faveur des enfants et des adolescents nécessitant des soins, un encadrement ou une formation particulière en raison d’un handicap ou d’un autre trouble.
 
 <sup>2</sup> Il s’agit notamment des prestations fournies par
 
@@ -1072,7 +1072,7 @@ arrête:
 
 **Promotion de la santé et aide aux toxicomanes 1. Prestations**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale assure les prestations requises pour la promotion de la santé, la prévention de la toxicomanie et l'aide aux toxicomanes.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises pour la promotion de la santé, la prévention de la toxicomanie et l'aide aux toxicomanes.
 
 <sup>2</sup> Il s'agit notamment des prestations fournies par les institutions de prévention, de consultation et d'information, de diagnostic précoce, de prise en charge et de traitement.
 
@@ -1094,7 +1094,7 @@ arrête:
 
 **Insertion sociale 1. Prestations assurées par le canton**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale assure les prestations requises pour l’insertion sociale, en particulier dans les domaines suivants:
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises pour l’insertion sociale, en particulier dans les domaines suivants:
 
 - a centres de puériculture,
 - b centres de consultation conjugale, partenariale et familiale,
@@ -1123,7 +1123,7 @@ arrête:
 
 **Insertion professionnelle et programmes d’occupation**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale assure les prestations requises en vue de l’occupation, du placement et de la réinsertion professionnelle des chômeurs et chômeuses qui n’ont pas droit à des indemnités de l’assurance-chômage.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration assure les prestations requises en vue de l’occupation, du placement et de la réinsertion professionnelle des chômeurs et chômeuses qui n’ont pas droit à des indemnités de l’assurance-chômage.
 
 <sup>2</sup> Elle veille à répartir équitablement les prestations à l’échelle régionale lors de la conclusion des contrats de prestations.
 
@@ -1137,7 +1137,7 @@ arrête:
 
 **Mesures particulières**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale peut prendre des mesures particulières pour atteindre le but et les objectifs de l'aide sociale.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures particulières pour atteindre le but et les objectifs de l'aide sociale.
 
 <sup>2</sup> Elle peut notamment mettre sur pied des prestations répondant à des besoins spécifiques et octroyer des contributions à des organisations sociales.
 
@@ -1163,13 +1163,13 @@ arrête:
 
 <sup>1</sup> Les contributions peuvent être allouées aux fournisseurs de prestations sous forme de subventions d’exploitation ou d’investissement. Le Conseil-exécutif peut édicter des prescriptions concernant les coûts pris en compte pour l’octroi des contributions.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale ou, moyennant son autorisation, les communes peuvent verser aux fournisseurs de prestations des contributions aux coûts de liquidation d’institutions sociales ou d‘un plan social en cas de suppression de postes.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration ou, moyennant son autorisation, les communes peuvent verser aux fournisseurs de prestations des contributions aux coûts de liquidation d’institutions sociales ou d‘un plan social en cas de suppression de postes.
 
 #### Art. 74b
 
 **Contributions aux bénéficiaires de prestations 1. Conditions d’octroi**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale alloue des contributions aux personnes devant recourir à des prestations de l’aide sociale institutionnelle, pour autant qu’elles ne puissent pas être financées par des subventions d’exploitation de la Direction de la santé publique et de la prévoyance sociale, des prestations de tiers ou des prestations personnelles des bénéficiaires.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration alloue des contributions aux personnes devant recourir à des prestations de l’aide sociale institutionnelle, pour autant qu’elles ne puissent pas être financées par des subventions d’exploitation de la Direction de la santé, des affaires sociales et de l’intégration, des prestations de tiers ou des prestations personnelles des bénéficiaires.
 
 <sup>2</sup> Elle octroie les contributions par voie de décision après évaluation des besoins des personnes concernées.
 
@@ -1182,7 +1182,7 @@ arrête:
 
 **2. Usage réservé et remboursement**
 
-<sup>1</sup> La Direction de la santé publique et de la prévoyance sociale s’assure que les bénéficiaires des contributions en font l’usage prévu et peut, à cette fin, les verser à des tiers.
+<sup>1</sup> La Direction de la santé, des affaires sociales et de l’intégration s’assure que les bénéficiaires des contributions en font l’usage prévu et peut, à cette fin, les verser à des tiers.
 
 <sup>2</sup> Les personnes ayant perçu des contributions de manière illicite ou n’en ayant pas fait l’usage prévu sont tenues de les rembourser avec intérêts.
 
@@ -1202,21 +1202,21 @@ arrête:
 
 **Financement des soins**
 
-<sup>1</sup> Conformément à l’article 25a de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^75a-1], la Direction de la santé publique et de la prévoyance sociale rémunère les fournisseurs de prestations pour les coûts des soins qui ne sont pas pris en charge par les assurances sociales et les bénéficiaires de prestations.
+<sup>1</sup> Conformément à l’article 25a de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^75a-1], la Direction de la santé, des affaires sociales et de l’intégration rémunère les fournisseurs de prestations pour les coûts des soins qui ne sont pas pris en charge par les assurances sociales et les bénéficiaires de prestations.
 
 <sup>2</sup> Le Conseil-exécutif peut fixer des forfaits et règle par voie d’ordonnance la participation aux coûts des bénéficiaires de prestations.
 
-[^75a-1]: RS 832.10
+[^75a-1]: RS [832.10](https://db.clex.ch/link/Bund/832.10/fr)
 
 #### Art. 76
 
 **Contributions cantonales**
 
-<sup>1</sup> Le canton verse des contributions aux fournisseurs que la Direction de la santé publique et de la prévoyance sociale a mandatés pour fournir des prestations.
+<sup>1</sup> Le canton verse des contributions aux fournisseurs que la Direction de la santé, des affaires sociales et de l’intégration a mandatés pour fournir des prestations.
 
 <sup>2</sup> Le Conseil-exécutif est seul compétent pour arrêter les dépenses correspondantes.
 
-<sup>3</sup> Le Conseil-exécutif peut déléguer tout ou partie de cette compétence à la Direction de la santé publique et de la prévoyance sociale.
+<sup>3</sup> Le Conseil-exécutif peut déléguer tout ou partie de cette compétence à la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 77
 
@@ -1236,7 +1236,7 @@ arrête:
 
 #### Art. 77b
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut prendre des mesures touchant la formation et le perfectionnement dans les professions de la santé non universitaires, quand la relève est menacée dans les entreprises des fournisseurs de prestations visés à l’alinéa 2.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut prendre des mesures touchant la formation et le perfectionnement dans les professions de la santé non universitaires, quand la relève est menacée dans les entreprises des fournisseurs de prestations visés à l’alinéa 2.
 
 <sup>2</sup> Les dispositions sur la formation et le perfectionnement s’appliquent aux fournisseurs de prestations suivants:
 
@@ -1265,7 +1265,7 @@ arrête:
 
 **Prestation de formation et de perfectionnement**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale fixe la prestation de formation et de perfectionnement à réaliser par chaque fournisseur durant l’exercice annuel. Pour ce faire, il se fonde sur la planification cantonale des soins et sur les consignes cantonales relatives au calcul du potentiel de formation.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fixe la prestation de formation et de perfectionnement à réaliser par chaque fournisseur durant l’exercice annuel. Pour ce faire, il se fonde sur la planification cantonale des soins et sur les consignes cantonales relatives au calcul du potentiel de formation.
 
 <sup>2</sup> Les consignes cantonales relatives au calcul du potentiel de formation prennent en particulier en compte
 
@@ -1281,9 +1281,9 @@ arrête:
 
 **Indemnisation**
 
-<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé publique et de la prévoyance sociale, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
+<sup>1</sup> A la fin de l’exercice annuel, le fournisseur de prestations communique au service compétent de la Direction de la santé, des affaires sociales et de l’intégration, pour chaque profession de la santé non universitaire, le nombre de semaines de formation et de perfectionnement qui ont eu lieu pendant ledit exercice.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration indemnise le fournisseur pour la prestation de formation et de perfectionnement réalisée pendant l’exercice annuel. Il déduit du montant versé les sommes que le fournisseur de prestations touche en vertu de la LAMal.
 
 <sup>3</sup> ll peut verser des avances périodiques au fournisseur de prestations durant l’exercice pour la formation et le perfectionnement convenus.
 
@@ -1305,7 +1305,7 @@ arrête:
 
 **Remise des données 1. Obligation**
 
-<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé publique et de la prévoyance sociale toutes les données requises pour les vérifications découlant des articles 77e à 77g.
+<sup>1</sup> Les fournisseurs de prestations remettent dans le délai imparti au service compétent de la Direction de la santé, des affaires sociales et de l’intégration toutes les données requises pour les vérifications découlant des articles 77e à 77g.
 
 <sup>2</sup> Le Conseil-exécutif règle les modalités de détail par voie d’ordonnance. Il peut en particulier préciser la nature et le volume des données ainsi que la date de remise.
 
@@ -1313,13 +1313,13 @@ arrête:
 
 **2. Sanction**
 
-<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les directives du Conseilexécutif en la matière, le service compétent de la Direction de la santé publique et de la prévoyance sociale perçoit de sa part un montant pouvant atteindre 20 000 francs.
+<sup>1</sup> Si un fournisseur de prestations ne communique pas les données requises ou ne respecte pas les directives du Conseil-exécutif en la matière, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration perçoit de sa part un montant pouvant atteindre 20'000 francs.
 
 #### Art. 77k
 
 **Délégation de compétences**
 
-<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé publique et de la prévoyance sociale ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
+<sup>1</sup> Le Conseil-exécutif peut déléguer à la Direction de la santé, des affaires sociales et de l’intégration ses compétences concernant la réglementation de la formation et du perfectionnement dans les professions de la santé non universitaires par voie d’ordonnance.
 
 ### 4a.3 Formation et perfectionnement théoriques du personnel des fournisseurs de prestations
 
@@ -1327,9 +1327,9 @@ arrête:
 
 **But**
 
-<sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
+<sup>1</sup> Afin de garantir la relève dans les professions de la santé non universitaires, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut octroyer aux fournisseurs de prestations établis dans le canton de Berne des subventions à la formation et au perfectionnement théoriques de leur personnel.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration soumet un rapport annuel au Conseil-exécutif. Ce rapport porte en particulier sur le montant des subventions.
 
 #### Art. 77m
 
@@ -1375,7 +1375,7 @@ arrête:
 - a l’aide matérielle accordée aux personnes dans le besoin;
 - b les frais imputables de traitement et de perfectionnement du personnel spécialisé et du personnel administratif employés par les services sociaux dans le domaine de l’aide sociale individuelle et des tâches attribuées par la législation spéciale;
 - c les traitements des stagiaires employés par les services sociaux;
-- d 80 pour cent des contributions imputables versées aux fournisseurs de prestations dans le domaine de l’aide sociale institutionnelle, à condition qu’elles aient été accordées conformément aux dispositions légales et avec l’autorisation du service compétent de la Direction de la santé publique et de la prévoyance sociale;
+- d 80 pour cent des contributions imputables versées aux fournisseurs de prestations dans le domaine de l’aide sociale institutionnelle, à condition qu’elles aient été accordées conformément aux dispositions légales et avec l’autorisation du service compétent de la Direction de la santé, des affaires sociales et de l’intégration;
 - d1 au moins 80 pour cent des dépenses imputables engagées pour les prestations visées à l’article 71a, alinéa 1, lettre a;
 - e les dépenses imputables engagées pour les prestations fournies conformément à l’article 71a, alinéa 1, lettre d;
 - f les dépenses découlant de la législation spéciale;
@@ -1398,7 +1398,7 @@ arrête:
 
 **Taxe de compensation**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale peut exiger des communes n’ayant pas satisfait à l’obligation d’exploiter un service social le versement d’une taxe de compensation.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut exiger des communes n’ayant pas satisfait à l’obligation d’exploiter un service social le versement d’une taxe de compensation.
 
 <sup>2</sup> Le montant de la taxe est calculé en fonction des dépenses engagées par le canton dès lors qu’il doit mettre sur pied les prestations d’un service social pour les habitants et habitantes de la commune concernée.
 
@@ -1406,12 +1406,12 @@ arrête:
 
 **Sanctions contre les communes**
 
-<sup>1</sup> Si une commune ou l’organisme responsable d’un service social lui fournit, pour l’établissement du décompte de compensation des charges, des données incomplètes ou fausses ou ne lui remet pas ou pas dans les délais les rapports et statistiques nécessaires, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut
+<sup>1</sup> Si une commune ou l’organisme responsable d’un service social lui fournit, pour l’établissement du décompte de compensation des charges, des données incomplètes ou fausses ou ne lui remet pas ou pas dans les délais les rapports et statistiques nécessaires, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut
 
 - a exclure de la compensation des charges tout ou partie des dépenses de la commune concernée ou
 - b retenir des paiements dus à cette dernière jusqu’à ce qu’elle ait remis les données complétées ou corrigées.
 
-<sup>2</sup> Si le service social contrevient systématiquement aux normes de calcul de l’aide matérielle, le service compétent de la Direction de la santé publique et de la prévoyance sociale peut exclure les dépenses de la commune de la compensation des charges pendant la période concernée.
+<sup>2</sup> Si le service social contrevient systématiquement aux normes de calcul de l’aide matérielle, le service compétent de la Direction de la santé, des affaires sociales et de l’intégration peut exclure les dépenses de la commune de la compensation des charges pendant la période concernée.
 
 <sup>3</sup> La préfecture prend les mesures de surveillance requises.
 
@@ -1419,7 +1419,7 @@ arrête:
 
 **Charges imputables des communes 1. Bonus et malus**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale évalue chaque année l’efficacité et les prestations des services sociaux.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration évalue chaque année l’efficacité et les prestations des services sociaux.
 
 <sup>2</sup> L’évaluation porte en particulier sur le rapport coûts–efficacité du versement de l’aide matérielle.
 
@@ -1435,7 +1435,7 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif détermine par voie d’ordonnance quels facteurs structurels sont inclus dans le calcul et comment les résultats sont établis.
 
-<sup>3</sup> Les services sociaux et les communes peuvent faire appel aux conseils de la Direction de la santé publique et de la prévoyance sociale pour améliorer leur situation.
+<sup>3</sup> Les services sociaux et les communes peuvent faire appel aux conseils de la Direction de la santé, des affaires sociales et de l’intégration pour améliorer leur situation.
 
 #### Art. 80f
 
@@ -1447,38 +1447,38 @@ arrête:
 
 <sup>3</sup> Le bonus ou le malus est respectivement crédité ou débité à toutes les communes affiliées au service social concerné.
 
-<sup>4</sup> La Direction de la santé publique et de la prévoyance sociale notifie sa décision de verser un bonus ou d’infliger un malus aux organismes responsables des services sociaux avec le décompte de compensation des charges.
+<sup>4</sup> La Direction de la santé, des affaires sociales et de l’intégration notifie sa décision de verser un bonus ou d’infliger un malus aux organismes responsables des services sociaux avec le décompte de compensation des charges.
 
 #### Art. 80g
 
 **Livraison de données par les communes**
 
-<sup>1</sup> Les communes sont tenues de remettre régulièrement au service compétent de la Direction de la santé publique et de la prévoyance sociale les données requises pour pouvoir contrôler les dépenses qu’elles ont portées à la compensation des charges.
+<sup>1</sup> Les communes sont tenues de remettre régulièrement au service compétent de la Direction de la santé, des affaires sociales et de l’intégration les données requises pour pouvoir contrôler les dépenses qu’elles ont portées à la compensation des charges.
 
 <sup>2</sup> Les données relevant de l’aide sociale individuelle doivent permettre au service compétent d’évaluer individuellement chaque dossier.
 
 <sup>3</sup> Les données fournies doivent permettre de procéder à des évaluations sur les dépenses et les revenus générés par la mise à disposition des prestations ainsi que sur l’ampleur de ces dernières.
 
-<sup>4</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale veille à ce que les données transmises par voie électronique soient pseudonymisées. L’attribution des pseudonymes est du ressort exclusif de la commune et ceux-ci peuvent être utilisés uniquement avec le logiciel géré par la Direction de la santé publique et de la prévoyance sociale au sens de l’alinéa 5.
+<sup>4</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration veille à ce que les données transmises par voie électronique soient pseudonymisées. L’attribution des pseudonymes est du ressort exclusif de la commune et ceux-ci peuvent être utilisés uniquement avec le logiciel géré par la Direction de la santé, des affaires sociales et de l’intégration au sens de l’alinéa 5.
 
-<sup>5</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale traite les données avec un logiciel exploité par cette dernière, qui permet
+<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration traite les données avec un logiciel exploité par cette dernière, qui permet
 
 - a une révision des dossiers axée sur les risques,
 - b une évaluation en série des données saisies,
 - c l’établissement d’un benchmarking,
 - d le calcul des bonus et des malus des services sociaux.
 
-<sup>6</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^80g-1] incombe au service compétent de la Direction de la santé publique et de la prévoyance sociale.
+<sup>6</sup> La responsabilité de la protection des données au sens de l’article 8, alinéa 2 de la loi du 19 février 1986 sur la protection des données (LCPD)[^80g-1] incombe au service compétent de la Direction de la santé, des affaires sociales et de l’intégration.
 
 <sup>7</sup> …
 
-[^80g-1]: RSB 152.04
+[^80g-1]: RSB [152.04](https://www.belex.sites.be.ch/data/152.04/fr)
 
 #### Art. 81
 
 **Répartition**
 
-<sup>1</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale détermine chaque année le montant total des dépenses admises à la compensation des charges pour le canton et les communes.
+<sup>1</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration détermine chaque année le montant total des dépenses admises à la compensation des charges pour le canton et les communes.
 
 <sup>2</sup> Le montant total des dépenses admises à la compensation des charges est supporté par le canton et l'ensemble des communes conformément à la LPFC.
 
@@ -1488,13 +1488,13 @@ arrête:
 
 <sup>1</sup> Le service compétent de la Direction des finances calcule la part de chaque commune selon les dispositions de la LPFC.
 
-<sup>2</sup> La Direction de la santé publique et de la prévoyance sociale détermine les communes recevant un bonus et celles frappées d’un malus selon les articles 80d à 80f et détermine le solde positif ou négatif devant être imputé à la compensation des charges conformément à l’article 3.
+<sup>2</sup> La Direction de la santé, des affaires sociales et de l’intégration détermine les communes recevant un bonus et celles frappées d’un malus selon les articles 80d à 80f et détermine le solde positif ou négatif devant être imputé à la compensation des charges conformément à l’article 3.
 
 <sup>3</sup> Le solde résultant du paiement d’un bonus ou d’un malus est porté au décompte de compensation des charges de l’exercice suivant.
 
-<sup>4</sup> Lorsque la part d'une commune est plus faible que le montant de ses dépenses admissibles à la compensation des charges, la Direction de la santé publique et de la prévoyance sociale rembourse la différence. Lorsque la part d'une commune est plus élevée que le montant de ses dépenses admissibles à la compensation des charges, la commune rembourse la différence à la Direction de la santé publique et de la prévoyance sociale.[^82-1]
+<sup>4</sup> Lorsque la part d'une commune est plus faible que le montant de ses dépenses admissibles à la compensation des charges, la Direction de la santé, des affaires sociales et de l’intégration rembourse la différence. Lorsque la part d'une commune est plus élevée que le montant de ses dépenses admissibles à la compensation des charges, la commune rembourse la différence à la Direction de la santé, des affaires sociales et de l’intégration.[^82-1]
 
-<sup>5</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale notifie aux communes par voie de décision les parts dues et les différences de montant.[^82-2]
+<sup>5</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration notifie aux communes par voie de décision les parts dues et les différences de montant.[^82-2]
 
 [^82-1]: Ancien alinéa 2
 [^82-2]: Ancien alinéa 3
@@ -1513,7 +1513,7 @@ arrête:
 
 <sup>1</sup> Le Conseil-exécutif édicte les dispositions d'exécution nécessaires.
 
-<sup>2</sup> Il peut déléguer tout ou partie de cette compétence à la Direction de la santé publique et de la prévoyance sociale.
+<sup>2</sup> Il peut déléguer tout ou partie de cette compétence à la Direction de la santé, des affaires sociales et de l’intégration.
 
 #### Art. 85
 
