@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: "Acte constitutif de l'Organisation des Nations Unies pour le développement industriel, du 8 avril 1979 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: fr
-version: 2019-02-21
+version: 2021-03-01
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20190221/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20190221-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20190221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,13 +26,13 @@ Instrument de ratification déposé par la Suisse le 10 février 1981
 
 Entré en vigueur pour la Suisse le 21 juin 1985
 
-(Etat le 21 février 2019)
+(Etat le 1<sup>er</sup> mars 2021)
 
 [^t-1]: [RO 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)
 
 *Préambule*
 
-Les Etats parties au présent Acte constitutif,
+Les États parties au présent Acte constitutif,
 
 agissant conformément à la Charte des Nations Unies[^ingress-1],
 
@@ -54,7 +54,7 @@ ayant présent à l’esprit ces idées directrices,
 
 désireux d’établir, aux termes du Chap. IX de la Charte des Nations Unies, une institution spécialisée portant le nom d’Organisation des Nations Unies pour le développement industriel (ONUDI) (ci‑après dénommée «l’Organisation») qui devra jouer le rôle central et être responsable d’examiner et de promouvoir la coordination de toutes les activités menées dans le domaine du développement industriel par les organismes des Nations Unies, conformément aux attributions que la Charte des Nations Unies confère au Conseil économique et social, ainsi qu’aux accords applicables en matière de relations,
 
-conviennent du présent Acte constitutif.
+conviennent du présent Acte constitutif:
 
 [^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
@@ -97,10 +97,10 @@ Pour atteindre ses objectifs susmentionnés, l’Organisation prend, d’une man
 
 **Membres**
 
-La qualité de Membre de l’Organisation est accessible à tous les Etats qui adhèrent à ses objectifs et à ses principes:
+La qualité de Membre de l’Organisation est accessible à tous les États qui adhèrent à ses objectifs et à ses principes:
 
-- a) les Etats membres de l’Organisation des Nations Unies ou d’une institution spécialisée ou de l’Agence internationale de l’énergie atomique peuvent être admis comme Membres de l’Organisation en devenant parties au présent Acte constitutif conformément à l’Art. 24 et au par. 2 de l’Art. 25;
-- b) les Etats autres que ceux visés à l’al. a) peuvent être admis comme Membres de l’Organisation en devenant parties au présent Acte constitutif conformément au par. 3 de l’Art. 24 et à l’al. c) du par. 2 de l’Art. 25, après que leur admission a été approuvée par la Conférence, à la majorité des deux tiers des Membres présents et votants, sur recommandation du Conseil.
+- a) les États membres de l’Organisation des Nations Unies ou d’une institution spécialisée ou de l’Agence internationale de l’énergie atomique peuvent être admis comme Membres de l’Organisation en devenant parties au présent Acte constitutif conformément à l’Art. 24 et au par. 2 de l’Art. 25;
+- b) les États autres que ceux visés à l’al. a) peuvent être admis comme Membres de l’Organisation en devenant parties au présent Acte constitutif conformément au par. 3 de l’Art. 24 et à l’al. c) du par. 2 de l’Art. 25, après que leur admission a été approuvée par la Conférence, à la majorité des deux tiers des Membres présents et votants, sur recommandation du Conseil.
 
 #### Art. 4
 
@@ -178,7 +178,7 @@ Outre les autres fonctions spécifiées dans le présent Acte constitutif, la Co
 
 **Conseil du développement industriel**
 
-<sup>1.</sup> Le Conseil comprend cinquante‑trois Membres de l’Organisation élus par la Conférence, laquelle tient dûment compte du principe d’une représentation géographique équitable. Pour l’élection des membres du Conseil, la Conférence adopte la répartition des sièges suivante: trente‑trois membres du Conseil sont élus parmi les Etats énumérés dans les parties A et C de l’Annexe I au présent Acte constitutif, quinze parmi les Etats énumérés dans la partie B et cinq parmi les Etats énumérés dans la partie D.
+<sup>1.</sup> Le Conseil comprend cinquante‑trois Membres de l’Organisation élus par la Conférence, laquelle tient dûment compte du principe d’une représentation géographique équitable. Pour l’élection des membres du Conseil, la Conférence adopte la répartition des sièges suivante: trente‑trois membres du Conseil sont élus parmi les États énumérés dans les parties A et C de l’Annexe I au présent Acte constitutif, quinze parmi les États énumérés dans la partie B et cinq parmi les États énumérés dans la partie D.
 
 <sup>2.</sup> Les membres du Conseil sont en fonction à partir de la clôture de la session ordinaire de la Conférence à laquelle ils ont été élus jusqu’à la clôture de la session ordinaire de la Conférence quatre ans plus tard, étant entendu toutefois que les membres élus à la première session sont en fonction à partir de cette élection et que la moitié d’entre eux ne sont en fonction que jusqu’à la clôture de la session ordinaire qui se tient deux ans après. Les membres du Conseil sont rééligibles.
 
@@ -208,7 +208,7 @@ Outre les autres fonctions spécifiées dans le présent Acte constitutif et cel
 
 **Comité des programmes et des budgets**
 
-<sup>1.</sup> Le Comité des programmes et des budgets comprend vingt‑sept membres de l’Organisation, élus par la Conférence, laquelle tient dûment compte du principe d’une représentation géographique équitable. Pour l’élection des membres du Comité, la Conférence adopte la répartition des sièges suivante: quinze membres du Comité sont élus parmi les Etats énumérés dans les parties A et C de l’Annexe I au présent Acte constitutif, neuf parmi les Etats énumérés dans la partie B et trois parmi les Etats énumérés dans la partie D. Pour désigner leurs représentants au Comité, les Etats tiendront compte de leurs qualifications et de leur expérience personnelles.
+<sup>1.</sup> Le Comité des programmes et des budgets comprend vingt‑sept membres de l’Organisation, élus par la Conférence, laquelle tient dûment compte du principe d’une représentation géographique équitable. Pour l’élection des membres du Comité, la Conférence adopte la répartition des sièges suivante: quinze membres du Comité sont élus parmi les États énumérés dans les parties A et C de l’Annexe I au présent Acte constitutif, neuf parmi les États énumérés dans la partie B et trois parmi les États énumérés dans la partie D. Pour désigner leurs représentants au Comité, les États tiendront compte de leurs qualifications et de leur expérience personnelles.
 
 <sup>2.</sup> Les membres du Comité sont en fonction à partir de la clôture de la session ordinaire de la Conférence à laquelle ils ont été élus jusqu’à la clôture de la session ordinaire de la Conférence deux ans plus tard. Les membres du Comité sont rééligibles.
 
@@ -348,7 +348,7 @@ Le Directeur général peut, avec l’approbation du Conseil et sous réserve de
 La capacité juridique, les privilèges et les immunités visés au par. 1 seront:
 
 - a) sur le territoire de tout Membre qui a adhéré, pour ce qui est de l’Organisation, à la Convention sur les privilèges et immunités des institutions spécialisées, ceux qui sont définis dans les clauses types de ladite Convention modifiée par une annexe à ladite Convention, approuvée par le Conseil;
-- b) sur le territoire de tout Membre qui n’a pas adhéré, pour ce qui est de l’Organisation, à la Convention sur les privilèges et immunités des institutions spécialisées, mais qui a adhéré à la Convention sur les privilèges et immunités des Nations Unies, ceux qui sont définis dans cette dernière Convention, à moins que ledit Etat ne notifie au Dépositaire, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, qu’il n’appliquera pas cette dernière Convention à l’Organisation; la Convention sur les privilèges et immunités des Nations Unies cesse de s’appliquer à l’Organisation trente jours après que ledit Etat en a donné notification au Dépositaire;
+- b) sur le territoire de tout Membre qui n’a pas adhéré, pour ce qui est de l’Organisation, à la Convention sur les privilèges et immunités des institutions spécialisées, mais qui a adhéré à la Convention sur les privilèges et immunités des Nations Unies, ceux qui sont définis dans cette dernière Convention, à moins que ledit État ne notifie au Dépositaire, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, qu’il n’appliquera pas cette dernière Convention à l’Organisation; la Convention sur les privilèges et immunités des Nations Unies cesse de s’appliquer à l’Organisation trente jours après que ledit État en a donné notification au Dépositaire;
 - c) ceux qui sont définis dans d’autres accords conclus par l’Organisation.
 
 #### Art. 22
@@ -388,32 +388,32 @@ Sous réserve des dispositions du par. 3, un amendement entre en vigueur et a fo
 Un amendement relatif aux art. 6, 9, 10, 13, 14 ou 23 ou à l’Annexe II entre en vigueur et a force obligatoire à l’égard de tous les Membres lorsque:
 
 - a) le Conseil l’a recommandé à la Conférence à la majorité des deux tiers de tous les membres du Conseil;
-- b) il a été approuvé par la Conférence à la majorité des deux tiers de tous les membres; et
+- b) il a été approuvé par la Conférence à la majorité des deux tiers de tous les membres, et
 - c) les trois quarts des Membres ont déposé des instruments de ratification, d’acceptation ou d’approbation dudit amendement auprès du dépositaire.
 
 #### Art. 24
 
 **Signature, ratification, acceptation, approbation et adhésion**
 
-<sup>1.</sup> Le présent Acte constitutif sera ouvert à la signature de tous les Etats visés à l’al. a) de l’Art. 3 au Ministère fédéral des affaires étrangères de la République d’Autriche jusqu’au 7 octobre 1979, puis au Siège de l’Organisation des Nations Unies, à New York, jusqu’à la date d’entrée en vigueur dudit Acte constitutif.
+<sup>1.</sup> Le présent Acte constitutif sera ouvert à la signature de tous les États visés à l’al. a) de l’Art. 3 au Ministère fédéral des affaires étrangères de la République d’Autriche jusqu’au 7 octobre 1979, puis au Siège de l’Organisation des Nations Unies, à New York, jusqu’à la date d’entrée en vigueur dudit Acte constitutif.
 
-<sup>2.</sup> Le présent Acte constitutif fera l’objet d’une ratification, acceptation ou approbation par les Etats signataires. Les instruments de ratification, d’acceptation ou d’approbation de ces Etats seront déposés auprès du Dépositaire.
+<sup>2.</sup> Le présent Acte constitutif fera l’objet d’une ratification, acceptation ou approbation par les États signataires. Les instruments de ratification, d’acceptation ou d’approbation de ces États seront déposés auprès du Dépositaire.
 
-<sup>3.</sup> Après l’entrée en vigueur du présent Acte constitutif conformément au par. 1 de l’Art. 25, les Etats visés à l’al. a) de l’Art. 3 qui n’auront pas signé l’Acte constitutif, ainsi que les Etats dont la demande d’admission aura été approuvée conformément à l’al. b) dudit Article, pourront adhérer au présent Acte constitutif en déposant un instrument d’adhésion.
+<sup>3.</sup> Après l’entrée en vigueur du présent Acte constitutif conformément au par. 1 de l’Art. 25, les États visés à l’al. a) de l’Art. 3 qui n’auront pas signé l’Acte constitutif, ainsi que les États dont la demande d’admission aura été approuvée conformément à l’al. b) dudit Article, pourront adhérer au présent Acte constitutif en déposant un instrument d’adhésion.
 
 #### Art. 25
 
 **Entrée en vigueur**
 
-<sup>1.</sup> Le présent Acte constitutif entrera en vigueur lorsqu’au moins quatre-vingts Etats ayant déposé leur instrument de ratification, d’acceptation ou d’approbation auront avisé le Dépositaire qu’ils se sont mis d’accord, après s’être consultés, pour que le présent Acte constitutif entre en vigueur.
+<sup>1.</sup> Le présent Acte constitutif entrera en vigueur lorsqu’au moins quatre-vingts États ayant déposé leur instrument de ratification, d’acceptation ou d’approbation auront avisé le Dépositaire qu’ils se sont mis d’accord, après s’être consultés, pour que le présent Acte constitutif entre en vigueur.
 
 <sup>2.</sup>
 
 Le présent Acte constitutif entrera en vigueur:
 
-- a) pour les Etats ayant procédé à la notification visée au par. 1, à la date de l’entrée en vigueur du présent Acte constitutif;
-- b) pour les Etats ayant déposé leur instrument de ratification, d’acceptation ou d’approbation avant l’entrée en vigueur du présent Acte constitutif, mais n’ayant pas procédé à la notification visée au par. 1, à la date ultérieure à laquelle ils auront avisé le Dépositaire que le présent Acte constitutif entre en vigueur à leur égard;
-- c) pour les Etats ayant déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion après l’entrée en vigueur du présent Acte constitutif, à la date dudit dépôt.
+- a) pour les États ayant procédé à la notification visée au par. 1, à la date de l’entrée en vigueur du présent Acte constitutif;
+- b) pour les États ayant déposé leur instrument de ratification, d’acceptation ou d’approbation avant l’entrée en vigueur du présent Acte constitutif, mais n’ayant pas procédé à la notification visée au par. 1, à la date ultérieure à laquelle ils auront avisé le Dépositaire que le présent Acte constitutif entre en vigueur à leur égard;
+- c) pour les États ayant déposé leur instrument de ratification, d’acceptation, d’approbation ou d’adhésion après l’entrée en vigueur du présent Acte constitutif, à la date dudit dépôt.
 
 #### Art. 26
 
@@ -435,7 +435,7 @@ Aucune réserve ne peut être formulée au sujet du présent Acte constitutif.
 
 <sup>1.</sup> Le Secrétaire général de l’Organisation des Nations Unies est le dépositaire du présent Acte constitutif.
 
-<sup>2.</sup> Le Dépositaire avise les Etats intéressés et le Directeur général de toutes questions concernant le présent Acte constitutif.
+<sup>2.</sup> Le Dépositaire avise les États intéressés et le Directeur général de toutes questions concernant le présent Acte constitutif.
 
 #### Art. 29
 
@@ -447,9 +447,9 @@ Les textes anglais, arabe, chinois, espagnol, français et russe du présent Act
 
 Annexe I
 
-## Listes d’Etats
+## Listes d’États
 
-\1. Si un Etat qui n’est pas visé dans l’une quelconque des listes ci‑après devient Membre de l’Organisation, la Conférence décide, après des consultations appropriées, sur laquelle de ces listes ledit pays doit être inscrit.
+\1. Si un État qui n’est pas visé dans l’une quelconque des listes ci‑après devient Membre de l’Organisation, la Conférence décide, après des consultations appropriées, sur laquelle de ces listes ledit pays doit être inscrit.
 
 \2. Après des consultations appropriées, la Conférence peut, à n’importe quel moment, modifier le classement d’un Membre dans les listes ci-après.
 
@@ -457,7 +457,7 @@ Annexe I
 
 **Listes**
 
-(Les listes d’Etats à insérer dans la présente Annexe par le Dépositaire sont celles qui ont été établies par l’Assemblée générale des Nations Unies aux fins du par. 4 de la section II de sa résolution 2152 (XXI) et qui sont valables à la date de l’entrée en vigueur du présent Acte constitutif.)
+(Les listes d’États à insérer dans la présente Annexe par le Dépositaire sont celles qui ont été établies par l’Assemblée générale des Nations Unies aux fins du par. 4 de la section II de sa résolution 2152 (XXI) et qui sont valables à la date de l’entrée en vigueur du présent Acte constitutif.)
 
 Annexe II
 
@@ -497,16 +497,17 @@ Sauf décision contraire de tous les Membres parties à un différend qui n’a 
   - a) Le tribunal arbitral clôt sa procédure par une sentence qui lie toutes les parties.
   - b) La commission de conciliation clôt sa procédure par un rapport qu’elle communique à toutes les parties au différend et qui contient des recommandations dont lesdites parties tiennent le plus grand compte.
 
-Champ d’application le 21 février 2019**[^t-2]**
+Champ d’application le 1<sup>er</sup> mars 2021**[^t-2]**
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>9 septembre</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Afrique du Sud</td><td>24 octobre</td><td>2000 A</td><td>24 octobre</td><td>2000</td></tr>
 <tr><td>Albanie</td><td>19 avril</td><td>1988 A</td><td>19 avril</td><td>1988</td></tr>
 <tr><td>Algérie</td><td>6 novembre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Allemagne</td><td>13 juillet</td><td>1983</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Angola</td><td>9 août</td><td>1985</td><td>9 août</td><td>1985</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>1<sup>er</sup> avril</td><td>2019</td><td>1<sup>er</sup> avril</td><td>2019</td></tr>
 <tr><td>Arabie Saoudite</td><td>21 juin</td><td>1985 A</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Argentine</td><td>6 mars</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Arménie</td><td>12 mai</td><td>1992 A</td><td>12 mai</td><td>1992</td></tr>
@@ -545,14 +546,14 @@ Champ d’application le 21 février 2019**[^t-2]**
 <tr><td>Cuba</td><td>16 mars</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Djibouti</td><td>20 août</td><td>1991</td><td>20 août</td><td>1991</td></tr>
 <tr><td>Dominique</td><td>8 juin</td><td>1982</td><td>27 novembre</td><td>1985</td></tr>
-<tr><td>Egypte</td><td>9 janvier</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Égypte</td><td>9 janvier</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>El Salvador</td><td>29 janvier</td><td>1988</td><td>29 janvier</td><td>1988</td></tr>
-<tr><td>Emirats arabes unis</td><td>4 décembre</td><td>1981</td><td>1<sup>er</sup> août</td><td>1985</td></tr>
-<tr><td>Equateur</td><td>15 avril</td><td>1982</td><td>21 juin</td><td>1985</td></tr>
-<tr><td>Erythrée</td><td>20 juin</td><td>1995 A</td><td>20 juin</td><td>1995</td></tr>
+<tr><td>Émirats arabes unis</td><td>4 décembre</td><td>1981</td><td>1<sup>er</sup> août</td><td>1985</td></tr>
+<tr><td>Équateur</td><td>15 avril</td><td>1982</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Érythrée</td><td>20 juin</td><td>1995 A</td><td>20 juin</td><td>1995</td></tr>
 <tr><td>Espagne</td><td>21 septembre</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Eswatini</td><td>19 août</td><td>1981</td><td>3 avril</td><td>1986</td></tr>
-<tr><td>Ethiopie</td><td>23 février</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Éthiopie</td><td>23 février</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Fidji</td><td>21 décembre</td><td>1981</td><td>30 décembre</td><td>1985</td></tr>
 <tr><td>Finlande</td><td>5 juin</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> février</td><td>1982</td><td>6 août</td><td>1985</td></tr>
@@ -568,7 +569,7 @@ Champ d’application le 21 février 2019**[^t-2]**
 <tr><td>Haïti</td><td>9 juillet</td><td>1982</td><td>5 août</td><td>1985</td></tr>
 <tr><td>Honduras</td><td>3 mars</td><td>1983</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Hongrie</td><td>15 août</td><td>1983</td><td>2 juillet</td><td>1985</td></tr>
-<tr><td>Iles Marshall</td><td>16 mars</td><td>2015 A</td><td>16 mars</td><td>2015</td></tr>
+<tr><td>Îles Marshall</td><td>16 mars</td><td>2015 A</td><td>16 mars</td><td>2015</td></tr>
 <tr><td>Inde</td><td>21 janvier</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Indonésie</td><td>10 novembre</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Iran</td><td>9 août</td><td>1985</td><td>9 août</td><td>1985</td></tr>
@@ -601,6 +602,7 @@ Champ d’application le 21 février 2019**[^t-2]**
 <tr><td>Maurice</td><td>9 décembre</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Mauritanie</td><td>29 juin</td><td>1981</td><td>9 août</td><td>1985</td></tr>
 <tr><td>Mexique</td><td>21 janvier</td><td>1980</td><td>21 juin</td><td>1985</td></tr>
+<tr><td>Micronésie</td><td>7 mars</td><td>2019 A</td><td>7 mars</td><td>2019</td></tr>
 <tr><td>Moldova</td><td>1<sup>er</sup> juin</td><td>1993 A</td><td>1<sup>er</sup> juin</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>23 janvier</td><td>2003 A</td><td>23 janvier</td><td>2003</td></tr>
 <tr><td>Mongolie\*</td><td>3 juin</td><td>1985</td><td>21 juin</td><td>1985</td></tr>
@@ -673,7 +675,7 @@ Champ d’application le 21 février 2019**[^t-2]**
 <tr><td>Yémen</td><td>29 janvier</td><td>1982</td><td>29 juillet</td><td>1985</td></tr>
 <tr><td>Zambie</td><td>15 mai</td><td>1981</td><td>21 juin</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>21 juin</td><td>1985 A</td><td>21 juin</td><td>1985</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **1985** 1307, [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339), [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662), [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254), [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995), [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587), [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292), [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154), [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563), [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510), [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.

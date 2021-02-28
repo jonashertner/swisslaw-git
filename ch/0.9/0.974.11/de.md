@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: Satzung der Organisation der Vereinten Nationen vom 8. April 1979 für industrielle Entwicklung (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: de
-version: 2019-02-21
+version: 2021-03-01
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20190221/de/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20190221-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20190221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/de/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 10. Februar 1981
 
 In Kraft getreten für die Schweiz am 21. Juni 1985
 
-(Stand am 21. Februar 2019)
+(Stand am 1. März 2021)
 
 [^t-1]: [AS 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)
 
@@ -480,7 +480,7 @@ Vorbehältlich anderslautender Beschlüsse aller Mitglieder, die an einer Streit
   - a) Das Schiedsgericht schliesst sein Verfahren mit einem Schiedsspruch, der für alle Parteien verbindlich ist.
   - b) Die Schlichtungskommission schliesst ihr Verfahren mit einem an alle Streitparteien gerichteten Bericht; er enthält Empfehlungen, welche die Parteien ernstlich zu berücksichtigen haben.
 
-Geltungsbereich am 21. Februar 2019**[^t-2]**
+Geltungsbereich am 1. März 2021**[^t-2]**
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -489,6 +489,7 @@ Geltungsbereich am 21. Februar 2019**[^t-2]**
 <tr><td>Albanien</td><td>19. April</td><td>1988 B</td><td>19. April</td><td>1988</td></tr>
 <tr><td>Algerien</td><td>6. November</td><td>1980</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Angola</td><td>9. August</td><td>1985</td><td>9. August</td><td>1985</td></tr>
+<tr><td>Antigua und Barbuda</td><td>1. April</td><td>2019</td><td>1. April</td><td>2019</td></tr>
 <tr><td>Äquatorialguinea</td><td>4. Mai</td><td>1984</td><td>20. Januar</td><td>1986</td></tr>
 <tr><td>Argentinien</td><td>6. März</td><td>1981</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Armenien</td><td>12. Mai</td><td>1992 B</td><td>12. Mai</td><td>1992</td></tr>
@@ -579,6 +580,7 @@ Geltungsbereich am 21. Februar 2019**[^t-2]**
 <tr><td>Mauretanien</td><td>29. Juni</td><td>1981</td><td>9. August</td><td>1985</td></tr>
 <tr><td>Mauritius</td><td>9. Dezember</td><td>1981</td><td>21. Juni</td><td>1985</td></tr>
 <tr><td>Mexiko</td><td>21. Januar</td><td>1980</td><td>21. Juni</td><td>1985</td></tr>
+<tr><td>Mikronesien</td><td>7. März</td><td>2019 B</td><td>7. März</td><td>2019</td></tr>
 <tr><td>Moldau</td><td>1. Juni</td><td>1993 B</td><td>1. Juni</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>23. Januar</td><td>2003 B</td><td>23. Januar</td><td>2003</td></tr>
 <tr><td>Mongolei\*</td><td>3. Juni</td><td>1985</td><td>21. Juni</td><td>1985</td></tr>
@@ -656,7 +658,7 @@ Geltungsbereich am 21. Februar 2019**[^t-2]**
 <tr><td>Vietnam</td><td>6. Mai</td><td>1983</td><td>19. Juli</td><td>1985</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>8. Januar</td><td>1982</td><td>9. Januar</td><td>1986</td></tr>
 <tr><td>Zypern</td><td>28. April</td><td>1983</td><td>21. Juni</td><td>1985</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287), [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339), [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662), [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254), [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995), [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587), [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292), [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154), [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563), [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510), [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149); [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.

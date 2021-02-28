@@ -3,11 +3,11 @@ sr: "0.974.11"
 title: "Atto costitutivo dell'Organizzazione delle Nazioni Unite per lo sviluppo industriale, dell'8 aprile 1979 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287"
 language: it
-version: 2019-02-21
+version: 2021-03-01
 adopted: 1979-04-08
 in_force: 1985-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20190221/it/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20190221-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20190221/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1287_1287_1287/20210301/it/xml/fedlex-data-admin-ch-eli-cc-1985-1287_1287_1287-20210301-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1287_1287_1287/20210301/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumenti depositati dalla Svizzera il 10 febbraio 1981
 
 Entrato in vigore per la Svizzera il 21 giugno 1985
 
-(Stato 21 febbraio 2019)
+(Stato 1° marzo 2021)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 20 giu. 1980 ([RU 1985 1286](https://fedlex.data.admin.ch/eli/oc/1985/1286_1286_1286)).
 
@@ -500,7 +500,7 @@ Tranne contraria decisione di tutti i Membri parti d’una controversia non comp
   - a) Il tribunale arbitrale chiude la propria procedura con un lodo che vincola tutte le parti.
   - b) La commissione di conciliazione chiude la propria procedura con un rapporto che comunica a tutte le parti in lite e che contiene delle raccomandazioni di cui dette parti terranno il massimo conto.
 
-Campo d’applicazione il 21 febbraio 2019**[^t-2]**
+Campo d’applicazione il 1° marzo 2021**[^t-2]**
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -508,6 +508,7 @@ Campo d’applicazione il 21 febbraio 2019**[^t-2]**
 <tr><td>Albania</td><td>19 aprile</td><td>1988 A</td><td>19 aprile</td><td>1988</td></tr>
 <tr><td>Algeria</td><td>6 novembre</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Angola</td><td>9 agosto</td><td>1985</td><td>9 agosto</td><td>1985</td></tr>
+<tr><td>Antigua e Barbuda</td><td>1° aprile</td><td>2019</td><td>1° aprile</td><td>2019</td></tr>
 <tr><td>Arabia Saudita</td><td>21 giugno</td><td>1985 A</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Argentina</td><td>6 marzo</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Armenia</td><td>12 maggio</td><td>1992 A</td><td>12 maggio</td><td>1992</td></tr>
@@ -605,6 +606,7 @@ Campo d’applicazione il 21 febbraio 2019**[^t-2]**
 <tr><td>Mauritania</td><td>29 giugno</td><td>1981</td><td>9 agosto</td><td>1985</td></tr>
 <tr><td>Maurizio</td><td>9 dicembre</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Messico</td><td>21 gennaio</td><td>1980</td><td>21 giugno</td><td>1985</td></tr>
+<tr><td>Micronesia</td><td>7 marzo</td><td>2019 A</td><td>7 marzo</td><td>2019</td></tr>
 <tr><td>Moldova</td><td>1° giugno</td><td>1993 A</td><td>1° giugno</td><td>1993</td></tr>
 <tr><td>Monaco</td><td>23 gennaio</td><td>2003 A</td><td>23 gennaio</td><td>2003</td></tr>
 <tr><td>Mongolia\*</td><td>3 giugno</td><td>1985</td><td>21 giugno</td><td>1985</td></tr>
@@ -676,7 +678,7 @@ Campo d’applicazione il 21 febbraio 2019**[^t-2]**
 <tr><td>Yemen</td><td>29 gennaio</td><td>1982</td><td>29 luglio</td><td>1985</td></tr>
 <tr><td>Zambia</td><td>15 maggio</td><td>1981</td><td>21 giugno</td><td>1985</td></tr>
 <tr><td>Zimbabwe</td><td>21 giugno</td><td>1985 A</td><td>21 giugno</td><td>1985</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione della Nazioni Unite: http://untreaty.un.org/ od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287), [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339), [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662), [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254), [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995), [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587), [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292), [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154), [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563), [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510)e [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1985 1287](https://fedlex.data.admin.ch/eli/oc/1985/1287_1287_1287); [1986 339](https://fedlex.data.admin.ch/eli/oc/1986/339_339_339); [1987 1662](https://fedlex.data.admin.ch/eli/oc/1987/1662_1662_1662); [1988 2254](https://fedlex.data.admin.ch/eli/oc/1988/2254_2254_2254); [1992 995](https://fedlex.data.admin.ch/eli/oc/1992/995_995_995); [2004 4029](https://fedlex.data.admin.ch/eli/oc/2004/587); [2007 2063](https://fedlex.data.admin.ch/eli/oc/2007/292); [2011 1029](https://fedlex.data.admin.ch/eli/oc/2011/154); [2013 2729](https://fedlex.data.admin.ch/eli/oc/2013/563); [2016 3011](https://fedlex.data.admin.ch/eli/oc/2016/510); [2019 853](https://fedlex.data.admin.ch/eli/oc/2019/149)e [2021 134](https://fedlex.data.admin.ch/eli/oc/2021/134). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
