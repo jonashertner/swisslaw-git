@@ -4,13 +4,13 @@ number: "152.01"
 title: Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Organisationsgesetz, OrG"
 language: de
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-12-16
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-08
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2100/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2100/pdf_file"
 
 (Organisationsgesetz, OrG)
 
-vom 20.06.1995 (Stand 01.01.2021)
+vom 20.06.1995 (Stand 01.03.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -89,19 +89,19 @@ beschliesst:
 
 <sup>3</sup> Jedes Mitglied des Regierungsrates kann jederzeit die Einberufung einer Sitzung verlangen.
 
+<sup>4</sup> Wenn die Umstände es erfordern, kann der Regierungsrat Geschäfte in Form von Telefon- oder Videokonferenzen oder mit anderen Mitteln wie schriftlich in Form eines Zirkulationsverfahrens verhandeln.
+
 #### Art. 5
 
 **Beschlussfassung**
 
-<sup>1</sup> Zur gültigen Verhandlung müssen wenigstens vier Mitglieder des Regierungsrates anwesend sein.
+<sup>1</sup> Zur gültigen Verhandlung müssen wenigstens vier Mitglieder des Regierungsrates teilnehmen.
 
-<sup>2</sup> Der Regierungsrat entscheidet mit Stimmenmehrheit. Ein Beschluss muss, um gültig zu sein, wenigstens drei Stimmen auf sich vereinigen. Stimmenthaltung ist nicht zulässig.
+<sup>2</sup> Der Regierungsrat entscheidet mit Stimmenmehrheit. Ein Beschluss muss, um gültig zu sein, wenigstens die Stimmen von drei Mitgliedern auf sich vereinigen. Stimmenthaltung ist nicht zulässig.
 
 <sup>3</sup> Die Regierungspräsidentin oder der Regierungspräsident stimmt mit. Bei Stimmengleichheit zählt ihre oder seine Stimme doppelt.
 
-<sup>4</sup> Die Beschlussfassung bei Katastrophen und in Notlagen richtet sich nach dem Gesetz über die Katastrophenhilfe und Gesamtverteidigung[^5-1].
-
-[^5-1]: Aufgehoben, jetzt Kantonales Bevölkerungsschutz- und Zivilschutzgesetz vom 24. 6. 2004, BSG 521.1
+<sup>4</sup> …
 
 #### Art. 6
 
@@ -183,11 +183,11 @@ beschliesst:
 
 **Präsidialentscheide**
 
-<sup>1</sup> In Fällen besonderer Dringlichkeit ordnet die Regierungspräsidentin oder der Regierungspräsident vorsorgliche Massnahmen an. Ist eine ordentliche oder ausserordentliche Verhandlung des Regierungsrates nicht möglich, so entscheidet sie oder er an dessen Stelle.
+<sup>1</sup> In Fällen besonderer Dringlichkeit ordnet die Regierungspräsidentin oder der Regierungspräsident vorsorgliche Massnahmen an. Ist eine Verhandlung des Regierungsrates nicht möglich, so entscheidet sie oder er an dessen Stelle.
 
 <sup>2</sup> Die Regierungspräsidentin oder der Regierungspräsident kann im weiteren ausnahmsweise für den Regierungsrat entscheiden, falls die Erledigungsweise nicht zweifelhaft sein kann.
 
-<sup>3</sup> Präsidialentscheide gemäss den Absätzen 1 und 2 müssen dem Regierungsrat ohne Verzug nachträglich zur Genehmigung unterbreitet werden.
+<sup>3</sup> Präsidialentscheide gemäss den Absätzen 1 und 2 müssen dem Regierungsrat ohne Verzug nachträglich zur Kenntnisnahme unterbreitet werden.
 
 <sup>4</sup> Der Regierungsrat kann Geschäfte förmlicher Natur abschliessend an die Regierungspräsidentin oder den Regierungspräsidenten delegieren.
 

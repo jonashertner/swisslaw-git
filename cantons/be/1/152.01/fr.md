@@ -4,13 +4,13 @@ number: "152.01"
 title: "Loi sur l'organisation du Conseil-exécutif et de l'administration"
 short: "Loi d'organisation, LOCA"
 language: fr
-version: 2021-01-01
-valid_until: 2021-02-28
-version_adopted: 2020-12-16
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-06-08
 adopted: 1995-06-20
 in_force: 1996-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/152.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2100/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2456/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2100/pdf_file"
 
 (Loi d'organisation, LOCA)
 
-du 20.06.1995 (état au 01.01.2021)
+du 20.06.1995 (état au 01.03.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -89,19 +89,19 @@ arrête:
 
 <sup>3</sup> Chaque membre du Conseil-exécutif peut en tout temps demander la convocation d'une séance.
 
+<sup>4</sup> Lorsque les circonstances l'exigent, le Conseil-exécutif peut délibérer des affaires par conférence téléphonique, par visioconférence ou par d'autres moyens tels que par écrit, à savoir par voie de circulation.
+
 #### Art. 5
 
 **Prise de décisions**
 
-<sup>1</sup> Le Conseil-exécutif délibère valablement si quatre au moins de ses membres sont présents.
+<sup>1</sup> Le Conseil-exécutif délibère valablement si quatre au moins de ses membres participent.
 
 <sup>2</sup> Le Conseil-exécutif prend ses décisions à la majorité des voix. Pour être valable, une décision doit réunir les voix de trois membres au moins. L'abstention n'est pas admise.
 
 <sup>3</sup> Le président ou la présidente du gouvernement vote. En cas d'égalité des voix, son vote compte double.
 
-<sup>4</sup> En cas de catastrophe ou en situation d'urgence, les décisions sont arrêtées conformément à la loi sur les secours en cas de catastrophe et la défense générale[^5-1].
-
-[^5-1]: Abrogée; actuellement L cantonale du 19. 3. 2014 sur la protection de la population et sur la protection civile ((LCPPCi); RSB 521.1
+<sup>4</sup> …
 
 #### Art. 6
 
@@ -183,11 +183,11 @@ arrête:
 
 **Décision présidentielle**
 
-<sup>1</sup> Dans les cas d'urgence particulière, le président ou la présidente du gouvernement ordonne des mesures provisoires. S'il est impossible de réunir le Conseil-exécutif en séance ordinaire ou extraordinaire, le président ou la présidente décide en lieu et place du gouvernement.
+<sup>1</sup> Dans les cas d'urgence particulière, le président ou la présidente du gouvernement ordonne des mesures provisoires. S'il est impossible de réunir le Conseil-exécutif en séance, le président ou la présidente décide en lieu et place du gouvernement.
 
 <sup>2</sup> Le président ou la présidente du gouvernement peut en outre à titre exceptionnel décider en lieu et place du Conseil-exécutif s'il ne peut y avoir de doute quant à la manière de régler l'affaire.
 
-<sup>3</sup> Les décisions présidentielles au sens du 1<sup>er</sup> et du 2<sup>e</sup> alinéa sont soumises sans délai au Conseil-exécutif pour approbation.
+<sup>3</sup> Les décisions présidentielles au sens des alinéas 1 et 2 sont soumises sans délai au Conseil-exécutif pour prise de connaissance.
 
 <sup>4</sup> Le Conseil-exécutif peut déléguer au président ou à la présidente du gouvernement la compétence exclusive de régler des affaires de caractère formel.
 
