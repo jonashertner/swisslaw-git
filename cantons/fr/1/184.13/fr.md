@@ -4,13 +4,13 @@ number: "184.13"
 title: "Ordonnance sur le guichet de cyberadministration de l'Etat"
 short: OGCyb
 language: fr
-version: 2017-06-01
-valid_until: 2021-02-28
-version_adopted: 2017-05-15
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-09
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/fr/versions/5102/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6772/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,11 +21,11 @@ Guichet de cyberadministration de l'Etat – O
 
 (OGCyb)
 
-du 15.05.2017 (version entrée en vigueur le 01.06.2017)
+du 15.05.2017 (version entrée en vigueur le 01.03.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
-Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration de l'Etat (LGCyb);
+Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration de l'Etat (LGCyb) convertie en loi du 18 décembre 2020 sur la cyberadministration (LCyb);
 
 Vu le préavis de la Commission de la cyberadministration du 27 avril 2017;
 
@@ -35,13 +35,13 @@ Arrête:
 
 #### Art. 1
 
-**Organe de gestion (art. 10 et 11 al. 1 LGCyb)**
+**Organe de gestion (art. 14 et 15 al. 1 LCyb)**
 
 <sup>1</sup> L'organe chargé de la gestion du guichet est la Chancellerie d'Etat. Il bénéficie de l'appui technique du Service de l'informatique et des télécommunications.
 
 #### Art. 2
 
-**Moyens d'identification et de signature (art. 10 LGCyb)**
+**Moyens d'identification et de signature (art. 14 LCyb)**
 
 <sup>1</sup> Dans toute la mesure du possible, le guichet autorise l'utilisation des moyens d'identification et de signature électroniques reconnus par la Confédération ou les organes suisses de la cyberadministration.
 
@@ -49,7 +49,7 @@ Arrête:
 
 #### Art. 3
 
-**Changement des conditions d'utilisation (art. 10 LGCyb)**
+**Changement des conditions d'utilisation (art. 14 LCyb)**
 
 <sup>1</sup> Tout changement important des conditions générales d'utilisation est préalablement validé par la Commission de la cyberadministration, sur le préavis de l'Autorité cantonale de la transparence et de la protection des données.
 
@@ -57,7 +57,7 @@ Arrête:
 
 #### Art. 4
 
-**Obligations des usagers et usagères (art. 9 LGCyb)**
+**Obligations des usagers et usagères (art. 11 LCyb)**
 
 <sup>1</sup> La personne autorisée à accéder au guichet est tenue:
 
@@ -70,7 +70,7 @@ Arrête:
 
 #### Art. 5
 
-**Fin de l'autorisation (art. 10 LGCyb)**
+**Fin de l'autorisation (art. 14 LCyb)**
 
 <sup>1</sup> La personne concernée peut, moyennant un préavis d'un mois, renoncer à son droit d'utiliser le guichet, sans indiquer de motifs. Les règles spécifiques de certaines applications métier demeurent réservées.
 
@@ -82,13 +82,13 @@ Arrête:
 
 #### Art. 6
 
-**Avantages (art. 4 al. 5 LGCyb)**
+**Avantages (art. 6 al. 5 LCyb)**
 
 <sup>1</sup> La législation spéciale règle les cas où un avantage est accordé aux personnes physiques ou morales qui procèdent à certaines transactions par le biais du guichet, à condition que l'Etat retire un avantage substantiel de l'utilisation de la voie électronique.
 
 #### Art. 7
 
-**Annuaire des usagers et usagères (art. 10ss LGCyb)**
+**Annuaire des usagers et usagères (art. 14ss LCyb)**
 
 <sup>1</sup> Aux fins d'exploitation technique du guichet de cyberadministration, il est créé un annuaire des usagers et usagères pouvant contenir les informations suivantes:
 
@@ -100,7 +100,7 @@ Arrête:
 
 #### Art. 8
 
-**Conservation des données (art. 12ss LGCyb)**
+**Conservation des données (art. 16ss LCyb)**
 
 <sup>1</sup> Le guichet fournit à la personne concernée un aperçu de l'historique des transactions qu'elle a réalisées au cours des vingt-quatre derniers mois.
 
@@ -113,21 +113,21 @@ Arrête:
 
 <sup>3</sup> Au terme de la durée de conservation susmentionnée, les données sont effacées du guichet. Des données techniques anonymisées peuvent toutefois être conservées à des fins statistiques.
 
-<sup>4</sup> L'identificateur cantonal et les données nécessaires à l'individualisation de la personne qui y correspond sont conservées dans le référentiel cantonal jusqu'au décès de la personne physique ou jusqu'à la dissolution de la personne morale concernée ainsi que pour la durée des procédures consécutives à leur disparition.
+<sup>4</sup> L'identificateur cantonal et les données nécessaires à l'individualisation de la personne qui y correspond sont conservées dans le Référentiel cantonal jusqu'au décès de la personne physique ou jusqu'à la dissolution de la personne morale concernée ainsi que pour la durée des procédures consécutives à leur disparition.
 
-<sup>5</sup> La conservation des autres données du référentiel cantonal ainsi que celle des données traitées par les unités administratives, dans le système d'information qui leur est dévolu, sont régies par la législation applicable à la procédure concernée et par celle sur l'archivage.
+<sup>5</sup> La conservation des autres données du Référentiel cantonal ainsi que celle des données traitées par les unités administratives, dans le système d'information qui leur est dévolu, sont régies par la législation applicable à la procédure concernée et par celle sur l'archivage.
 
 #### Art. 9
 
-**Identification des personnes physiques (art. 10 et 15 LGCyb)**
+**Identification des personnes physiques (art. 14 et 19 LCyb)**
 
-<sup>1</sup> Le système informatique compare les données que la personne fournit pour s'identifier avec celles du référentiel cantonal et signale à l'usager ou l'usagère les éventuelles divergences afin de disposer de données exactes et actualisées dans le référentiel cantonal et les registres et bases de données pertinents (art. 10 al. 2 LGCyb). L'usager ou l'usagère est invité-e à corriger sa saisie ou à entreprendre les démarches nécessaires pour actualiser les données requises.
+<sup>1</sup> Le système informatique compare les données que la personne fournit pour s'identifier avec celles du Référentiel cantonal et signale à l'usager ou l'usagère les éventuelles divergences afin de disposer de données exactes et actualisées dans le Référentiel cantonal et les registres et bases de données pertinents (art. 14 al. 2 LCyb). L'usager ou l'usagère est invité-e à corriger sa saisie ou à entreprendre les démarches nécessaires pour actualiser les données requises.
 
 <sup>2</sup> Si l'accès est refusé, la personne concernée en est informée par un message, si possible électronique, brièvement motivé. Elle peut demander que l'unité administrative compétente rende une décision au sens du code de procédure et de juridiction administrative ou examine si un motif particulier justifie néanmoins de lui autoriser l'accès au guichet.
 
 #### Art. 10
 
-**Droit d'accès particulier (art. 10 et 14 LGCyb)**
+**Droit d'accès particulier (art. 14 et 18 LCyb)**
 
 <sup>1</sup> Si le droit d'accès à certaines prestations est soumis à des exigences particulières, sa gestion incombe à l'unité administrative concernée.
 
@@ -135,7 +135,7 @@ Arrête:
 
 #### Art. 11
 
-**Représentation des personnes physiques (art. 11 LGCyb)**
+**Représentation des personnes physiques (art. 15 LCyb)**
 
 <sup>1</sup> La personne qui dispose d'un compte électronique et veut conférer à d'autres personnes le pouvoir de la représenter et d'effectuer par le biais du guichet des transactions en son nom et pour son propre compte signe une procuration au moyen d'un formulaire établi par la Chancellerie d'Etat.
 
@@ -151,7 +151,7 @@ Arrête:
 
 #### Art. 12
 
-**Contrat d'utilisation par des personnes morales et d'autres entreprises (art. 10 et 16 LGCyb)**
+**Contrat d'utilisation par des personnes morales et d'autres entreprises (art. 14 et 22 LCyb)**
 
 <sup>1</sup> Le contrat d'utilisation du guichet par une personne morale est, en principe, passé dans la forme écrite ordinaire. La Chancellerie d'Etat détermine dans quels cas le contrat d'utilisation peut être passé de manière électronique. Il en va de même pour les modalités relatives à la représentation.
 
@@ -177,7 +177,7 @@ Arrête:
 
 #### Art. 15
 
-**Emoluments (art. 4 al. 2 et 3 LGCyb)**
+**Emoluments (art. 6 al. 2 et 3 LCyb)**
 
 <sup>1</sup> Le tarif du 9 janvier 1968 des émoluments administratifs (RSF 126.21) est modifié comme il suit:
 

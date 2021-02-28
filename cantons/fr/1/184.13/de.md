@@ -4,13 +4,13 @@ number: "184.13"
 title: Verordnung über den E-Government-Schalter des Staates
 short: E-GovSchV
 language: de
-version: 2017-06-01
-valid_until: 2021-02-28
-version_adopted: 2017-05-15
+version: 2021-03-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-09
 adopted: 2023-11-20
 in_force: 2023-12-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/184.13"
-pdf: "https://bdlf.fr.ch/api/de/versions/5102/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,11 +21,11 @@ E-Government-Schalter des Staates – V
 
 (E-GovSchV)
 
-vom 15.05.2017 (Fassung in Kraft getreten am 01.06.2017)
+vom 15.05.2017 (Fassung in Kraft getreten am 01.03.2021)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG);
+gestützt auf das Gesetz vom 2. November 2016 über den E-Government-Schalter des Staates (E-GovSchG), umgewandelt in das E-Government-Gesetz vom 18. Dezember 2020 (E-GovG);
 
 gestützt auf die Stellungnahme der E-Governmentkommission vom 27. April 2017;
 
@@ -35,13 +35,13 @@ beschliesst:
 
 #### Art. 1
 
-**Verwaltungsorgan (Art. 10 und 11 Abs. 1 E-GovSchG)**
+**Verwaltungsorgan (Art. 14 und 15 Abs. 1 E-GovG)**
 
 <sup>1</sup> Die Staatskanzlei ist das Organ, das mit der Verwaltung des virtuellen Schalters beauftragt ist. Sie erhält technische Unterstützung vom Amt für Informatik und Telekommunikation.
 
 #### Art. 2
 
-**Mittel zur Identifikation und zur Unterschrift (Art. 10 E-GovSchG)**
+**Mittel zur Identifikation und zur Unterschrift (Art. 14 E-GovG)**
 
 <sup>1</sup> Im Rahmen des Möglichen bewilligt der virtuelle Schalter die Verwendung der Mittel zur Identifikation und zur Unterschrift, die vom Bund oder von den schweizerischen Organen des E-Governments anerkannt werden.
 
@@ -49,7 +49,7 @@ beschliesst:
 
 #### Art. 3
 
-**Änderung der Nutzungsbedingungen (Art. 10 E-GovSchG)**
+**Änderung der Nutzungsbedingungen (Art. 14 E-GovG)**
 
 <sup>1</sup> Jede bedeutende Änderung der allgemeinen Nutzungsbedingungen muss zunächst auf Stellungnahme der Behörde für Öffentlichkeit und Datenschutz von der E-Governmentkommission genehmigt werden.
 
@@ -57,7 +57,7 @@ beschliesst:
 
 #### Art. 4
 
-**Pflichten der Userinnen und User (Art. 9 E-GovSchG)**
+**Pflichten der Userinnen und User (Art. 11 E-GovG)**
 
 <sup>1</sup> Wer eine Bewilligung für den Zugriff auf den virtuellen Schalter hat, muss:
 
@@ -70,7 +70,7 @@ beschliesst:
 
 #### Art. 5
 
-**Ende der Bewilligung (Art. 10 E-GovSchG)**
+**Ende der Bewilligung (Art. 14 E-GovG)**
 
 <sup>1</sup> Die betroffene Person kann mit einer Kündigungsfrist von einem Monat ohne Angabe von Gründen auf ihr Recht, den virtuellen Schalter zu nutzen, verzichten. Die besonderen Vorschriften für gewisse Anwendungen bleiben vorbehalten.
 
@@ -82,13 +82,13 @@ beschliesst:
 
 #### Art. 6
 
-**Vorteile (Art. 4 Abs. 5 E-GovSchG)**
+**Vorteile (Art. 6 Abs. 5 E-GovG)**
 
 <sup>1</sup> In der Spezialgesetzgebung werden die Fälle, in denen natürlichen und juristischen Personen ein Vorteil gewährt wird, weil sie gewisse Transaktionen über den virtuellen Schalter erledigen, geregelt, falls dem Staat ein wesentlicher Vorteil aus der Nutzung des elektronischen Wegs entsteht.
 
 #### Art. 7
 
-**Verzeichnis der Userinnen und User (Art. 10 ff. E-GovSchG)**
+**Verzeichnis der Userinnen und User (Art. 14 ff. E-GovG)**
 
 <sup>1</sup> Für den technischen Betrieb des E-Government-Schalters wird ein Verzeichnis der Userinnen und User geschaffen; es kann folgende Informationen enthalten:
 
@@ -100,7 +100,7 @@ beschliesst:
 
 #### Art. 8
 
-**Aufbewahrung der Daten (Art. 12 ff. E-GovSchG)**
+**Aufbewahrung der Daten (Art. 16 ff. E-GovG)**
 
 <sup>1</sup> Der virtuelle Schalter gibt der betroffenen Person einen Überblick über den Verlauf der Transaktionen, die sie in den letzten 24 Monaten getätigt hat.
 
@@ -119,15 +119,15 @@ beschliesst:
 
 #### Art. 9
 
-**Identifikation der natürlichen Personen (Art. 10 und 15 E-GovSchG)**
+**Identifikation der natürlichen Personen (Art. 14 und 19 E-GovG)**
 
-<sup>1</sup> Das Informatiksystem gleicht die Daten, welche die Person eingibt, um sich zu identifizieren, mit denjenigen im kantonalen Bezugssystem ab und meldet der Userin oder dem User allfällige Abweichungen, damit es über genaue und nachgeführte Daten im kantonalen Bezugssystem und in den einschlägigen Registern und Datenbanken verfügt (Art. 10 Abs. 2 E-GovSchG). Die Userin oder der User wird aufgefordert, ihre oder seine Eingabe zu korrigieren oder die nötigen Schritte zu unternehmen, um die geforderten Daten nachzuführen.
+<sup>1</sup> Das Informatiksystem gleicht die Daten, welche die Person eingibt, um sich zu identifizieren, mit denjenigen im kantonalen Bezugssystem ab und meldet der Userin oder dem User allfällige Abweichungen, damit es über genaue und nachgeführte Daten im kantonalen Bezugssystem und in den einschlägigen Registern und Datenbanken verfügt (Art. 14 Abs. 2 E-GovG). Die Userin oder der User wird aufgefordert, ihre oder seine Eingabe zu korrigieren oder die nötigen Schritte zu unternehmen, um die geforderten Daten nachzuführen.
 
 <sup>2</sup> Wenn der Zugang verweigert wird, erhält die betroffene Person zur Information eine Nachricht, wenn möglich ein E-Mail, mit einer kurzen Begründung. Sie kann verlangen, dass die zuständige Verwaltungseinheit eine Verfügung im Sinn des Gesetzes über die Verwaltungsrechtspflege erlässt oder prüft, ob ein besonderer Grund vorliegt, ihr doch den Zugriff auf den virtuellen Schalter zu bewilligen.
 
 #### Art. 10
 
-**Besondere Zugangsberechtigung (Art. 10 und 14 E-GovSchG)**
+**Besondere Zugangsberechtigung (Art. 14 und 18 E-GovG)**
 
 <sup>1</sup> Wenn die Zugangsberechtigung zu gewissen Leistungen von besonderen Anforderungen abhängt, muss sie von der betreffenden Verwaltungseinheit verwaltet werden.
 
@@ -135,7 +135,7 @@ beschliesst:
 
 #### Art. 11
 
-**Identifikation der natürlichen Personen (Art. 11 E-GovSchG)**
+**Identifikation der natürlichen Personen (Art. 15 E-GovG)**
 
 <sup>1</sup> Eine Person, die über ein elektronisches Konto verfügt und die einer anderen Person die Vollmacht, sie zu vertreten und in ihrem Namen und auf eigene Rechnung Transaktionen auszuführen, erteilen will, unterzeichnet eine Vollmacht auf einem Formular, das von der Staatskanzlei erstellt wird.
 
@@ -151,7 +151,7 @@ beschliesst:
 
 #### Art. 12
 
-**Nutzungsvertrag der juristischen Personen und weiterer Firmen (Art. 10 und 16 E-GovSchG)**
+**Nutzungsvertrag der juristischen Personen und weiterer Firmen (Art. 14 und 22 E-GovG)**
 
 <sup>1</sup> Der Vertrag zur Nutzung des virtuellen Schalters durch eine juristische Person wird grundsätzlich in der ordentlichen schriftlichen Form abgeschlossen. Die Staatskanzlei bestimmt, in welchen Fällen der Nutzungsvertrag elektronisch abgeschlossen werden kann. Das gilt auch für die Modalitäten der Vertretung.
 
@@ -177,7 +177,7 @@ beschliesst:
 
 #### Art. 15
 
-**Gebühren (Art. 4 Abs. 2 und 3 E-GovSchG)**
+**Gebühren (Art. 6 Abs. 2 und 3 E-GovG)**
 
 <sup>1</sup> Der Tarif vom 9. Januar 1968 der Verwaltungsgebühren (SGF 126.21) wird wie folgt geändert:
 
