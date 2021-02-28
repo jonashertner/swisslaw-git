@@ -3,10 +3,10 @@ canton: ZH
 number: "415.117.1"
 title: Reglement über die Zuständigkeiten im Immobilienwesen der Universität Zürich
 language: de
-nachtrag: "104"
-valid_until: 2021-03-01
+version: "2021-03-01"
+nachtrag: "112"
 adopted: 2018-12-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_117_1-2018_12_17-2019_01_01-104.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_117_1-2018_12_17-2019_01_01-112.html"
 text: pdf
 ---
 
@@ -26,15 +26,16 @@ beschliesst:
 
 **Zweck und Geltungsbereich**
 
-§ 1. <sup>1</sup> Dieses Reglement regelt die finanzrelevanten Zuständigkeiten und Prozesse im Immobilienwesen der Universität Zürich.
+§ 1.[^t-4] <sup>1</sup> Dieses Reglement regelt die finanzrelevanten Zuständigkeiten und Prozesse im Immobilienwesen der Universität Zürich.
 
-<sup>2</sup> Sie gilt für Ausgaben in der laufenden Rechnung und in der Investitionsrechnung für bauliche Projekte der Universität.
+<sup>2</sup> Es gilt für Ausgaben in der laufenden Rechnung und in der Investitionsrechnung für bauliche Projekte der Universität.
 
-<sup>3</sup> Sofern dieses Reglement keine Regelung enthält, gilt das Finanzhandbuch der Universität vom 31. Januar 2013.
+<sup>3</sup> Sofern dieses Reglement keine Regelung enthält, gelten die allgemeinen finanzrechtlichen Bestimmungen der Universität Zürich.
 
 [^t-1]: OS 74, 106; Begründung siehe ABl 2019-01-11.
 [^t-2]: Inkrafttreten: 1. Januar 2019.
-[^t-3]: LS 415.117. 1. 4. 19 - 104 5
+[^t-3]: LS 415.117.
+[^t-4]: Fassung gemäss URB vom 7. Dezember 2020 (OS 76, 42; ABl 2020-12-18). In Kraft seit 1. März 2021. 1. 4. 21 - 112 5
 
 #### § 2
 
@@ -52,15 +53,13 @@ In diesem Reglement bedeuten:
 
 **1**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 21 - 112
 
 - e. Rahmenkredit: Ermächtigung, bei einem Programm von verschiedensten Projekten in der Projektierung und Realisierung finanzielle Verpflichtungen einzugehen. Der Rahmenkredit besteht aus Projekten mit aktivierungspflichtigen, gebundenen Ausgaben und/oder neuen Ausgaben unter 3 Mio. Franken;
 
-- f. Zusatzkredit: Ermächtigung, ergänzend zu einem Projektierungs- oder Objektkredit aufgrund von Projektänderungen bzw. unvorhersehbaren Umständen zusätzliche finanzielle Verpflichtungen einzugehen;
+f.[^2-1] Zusatzkredit: Ermächtigung, ergänzend zu einem Vorstudien-, Projektierungs-, Objekt- oder Ausstattungskredit aufgrund von Projektänderungen bzw. unvorhersehbaren Umständen zusätzliche finanzielle Verpflichtungen einzugehen;
 
-- g. Vergabe: Ermächtigung zur Auftragserteilung an Anbietende von Leistungen und Unterzeichnung der entsprechenden Verträge;
-
-- h. BKP 9: Baukostenplan 9 gemäss Norm SIA, d.h. Mittel für mobile Einrichtungen wie Geräte, Möbel, Textilien, Beleuchtungskörper, Kleininventar, künstlerischer Schmuck.
+- g. Vergabe: Ermächtigung zur Auftragserteilung an Anbietende von Leistungen und Unterzeichnung der entsprechenden Verträge; h.[^2-1] Ausstattungskredit: Mittel für mobile Einrichtungen wie Geräte, Möbel, Textilien, Beleuchtungskörper, Kleininventar, künstlerischer Schmuck.
 
 - 2\. Kreditbewilligung und Berichterstattung
 
@@ -74,7 +73,7 @@ In diesem Reglement bedeuten:
 
 - c. ab Fr. 1 000 000 der Universitätsrat.
 
-<sup>3</sup> Über die Bewilligung von einzelnen Projektierungs- und Objektkrediten im Rahmenkredit oder entsprechende Pauschalen entscheiden a. bis einschliesslich Fr. 250 000 kollektiv die Leitung Portfoliomanagement und die Direktorin oder der Direktor Immobilien und Betrieb,
+<sup>3</sup> Über die Bewilligung von einzelnen Projektierungs-, Objekt- und Ausstattungskrediten im Rahmenkredit oder entsprechende Pauschalen entscheiden[^2-1] a. bis einschliesslich Fr. 250 000 kollektiv die Leitung Portfoliomanagement und die Direktorin oder der Direktor Immobilien und Betrieb,
 
 - b. bis einschliesslich Fr. 1 000 000 kollektiv die Direktorin oder der Direktor Immobilien und Betrieb und die Direktorin oder der Direktor Finanzen und Personal,
 
@@ -83,6 +82,8 @@ In diesem Reglement bedeuten:
 <sup>4</sup> Der Universitätsrat beantragt zuhanden der Bildungsdirektion den Rahmenkredit sowie die Objektkredite in der Zuständigkeit des Kantonsrates.
 
 <sup>5</sup> Zusatzkredite werden von der gemäss der neuen Gesamtsumme des Kredits zuständigen Instanz bewilligt.
+
+[^2-1]: Fassung gemäss URB vom 7. Dezember 2020 (OS 76, 42; ABl 2020-12-18). In Kraft seit 1. März 2021. 1. 4. 21 - 112 5
 
 #### § 4
 
@@ -98,23 +99,19 @@ Die Entwicklung der Kredite ist Gegenstand der Zwischenberichterstattung zuhande
 
 <sup>2</sup> Die Projektsteuerung legt die Rahmenbedingungen für das Projekt fest, namentlich bezüglich Qualität, Leistung, Kosten und Terminen, und überwacht deren Einhaltung.
 
-<sup>3</sup> Die Gesamtprojektleitung unterstützt mit der Berichterstattung die Projektsteuerung bei der Erfüllung ihrer Aufgaben. Die Berichterstattung umfasst insbesondere Informationen über wichtige Vergaben, den Umgang mit der Reserve, das Änderungsmanagement sowie die Mittel für BKP 9.
-
-#### § 6
+<sup>3</sup> Die Gesamtprojektleitung unterstützt mit der Berichterstattung die Projektsteuerung bei der Erfüllung ihrer Aufgaben. Die Berichterstattung umfasst insbesondere Informationen über wichtige Vergaben, den Umgang mit der Reserve sowie das Änderungsmanagement bei allen zu einem Projekt gehörenden Teilkrediten.[^4-1]
 
 **Gesamtprojektleitung**
 
-<sup>1</sup> Die Gesamtprojektleitung ist für die operative Leitung des Projekts zuständig. Sie optimiert Aufwand und Nutzen und verantwortet das Gesamtresultat hinsichtlich Leistung, Kosten und Terminen.
+§ 6.[^4-1] <sup>1</sup> Die Gesamtprojektleitung ist für die operative Leitung des Projekts zuständig. Sie optimiert Aufwand und Nutzen und verantwortet das Gesamtresultat hinsichtlich Leistung, Kosten und Terminen.
 
-<sup>2</sup> Die Gesamtprojektleitung bewirtschaftet den Projektierungs- und Objektkredit sowie die Mittel für BKP 9 zuhanden der Projektsteuerung.
+<sup>2</sup> Die Gesamtprojektleitung bewirtschaftet den Vorstudien-, Projektierungs- und Objektkredit sowie die Mittel für die Ausstattung zuhanden der Projektsteuerung.
 
-<sup>3</sup> Sie unterbreitet den universitären Gremien mit der Beantragung des Objektkredits eine Schätzung der Mittel für BKP 9.
-
-#### § 7
+<sup>3</sup> Sie unterbreitet den universitären Gremien mit der Beantragung des Objektkredits eine Schätzung der Mittel für den Ausstattungskredit.
 
 **Vergaben für an der Universität geführte Projekte**
 
-<sup>1</sup> Über Vergaben im Rahmen von Vorstudien-, Projektierungs- und Objektkrediten für an der Universität geführte Projekte entscheidet a. bis einschliesslich Fr. 50 000 kollektiv die zuständige Gesamtprojektleitung mit einer weiteren Gesamtprojektleitung an der Universität,
+§ 7.[^4-1] <sup>1</sup> Über Vergaben im Rahmen von Vorstudien-, Projektierungs-, Objekt- und Ausstattungskrediten für an der Universität geführte Projekte entscheiden a. bis einschliesslich Fr. 50 000 kollektiv die zuständige Gesamtprojektleitung mit einer weiteren Gesamtprojektleitung an der Universität,
 
 - b. über Fr. 50 000 bis einschliesslich Fr. 100 000 kollektiv die zuständige Gesamtprojektleitung mit ihrer oder ihrem Vorgesetzten,
 
@@ -122,19 +119,21 @@ Die Entwicklung der Kredite ist Gegenstand der Zwischenberichterstattung zuhande
 
 **3**
 
-- 1\. 4. 19 - 104
+- 1\. 4. 21 - 112
 
 - d. über Fr. 250 000 kollektiv die zuständige Gesamtprojektleitung mit der Direktorin oder dem Direktor Immobilien und Betrieb und der Direktorin oder dem Direktor Finanzen und Personal.
 
-<sup>2</sup> Die Aufteilung von Vergaben zur Umgehung der Schwellenwerte ist unzulässig. Vorgeschriebene Vergabeverfahren bleiben vorbehalten.
+<sup>2</sup> Die Aufteilung von Vergaben zur Umgehung der Schwellenwerte ist unzulässig.
 
 <sup>3</sup> Die Verarbeitung der Kreditorenrechnungen aus den Vergaben erfolgt gemäss den Einstellungen in den Systemen der Universität.
+
+[^4-1]: Fassung gemäss URB vom 7. Dezember 2020 (OS 76, 42; ABl 2020-12-18). In Kraft seit 1. März 2021. 1. 4. 21 - 112 5
 
 #### § 8
 
 **Vergaben für beim Hochbauamt beauftragte Projekte**
 
-<sup>1</sup> Für Vergaben im Rahmen von Projektierungs- und Objektkrediten für beim Hochbauamt beauftragte Projekte gelten unter Vorbehalt von Abs. 3 die Regelungen des Hochbauamts.
+<sup>1</sup> Für Vergaben im Rahmen von Vorstudien-, Projektierungs-, Objekt- und Ausstattungskrediten für beim Hochbauamt beauftragte Projekte gelten vorbehältlich Abs. 3 die Regelungen des Hochbauamts.[^4-1]
 
 <sup>2</sup> Das Hochbauamt stellt prozessual kurze Durchlaufzeiten sicher.
 
@@ -154,14 +153,14 @@ Die Entwicklung der Kredite ist Gegenstand der Zwischenberichterstattung zuhande
 
 <sup>2</sup> Die zuständige Projektsteuerung beschliesst über die Nutzung der Reservepositionen für Unvorhergesehenes, für Zusatzbestellungen sowie für Umbuchungen ausserhalb der Reserveposition für Vergabeeffekte.
 
-#### § 10
+**Planung der Ausstattung**
 
-**Planung BKP 9**
+§ 10.[^9-1] <sup>1</sup> Die Gesamtprojektleitung legt den Prozess und die Eckwerte für die Planung der Ausstattung zuhanden der Projektleitung Nutzer und Betrieb fest.
 
-<sup>1</sup> Die Gesamtprojektleitung legt den Prozess und die Eckwerte für die Planung der BKP 9 zuhanden der Projektleitung Betrieb fest.
-
-<sup>2</sup> Die Projektleitung Betrieb erarbeitet eine Schätzung der benötigten Mittel für BKP 9. Sie stellt sicher, dass die Nutzervertretungen mit der für die Beschaffung Mobilien zuständigen Stellen eine geeignete Ausstattung festlegen. Sie definiert die baulich relevanten Ausstattungsmerkmale wie Anforderungen an Statik oder Anschlüsse.
+<sup>2</sup> Die Projektleitung Nutzer und Betrieb erarbeitet eine Schätzung der benötigten Mittel für die Ausstattung. Sie stellt sicher, dass die Nutzervertretungen mit der für die Beschaffung Mobilien zuständigen Stellen eine geeignete Ausstattung festlegen. Sie definiert die baulich relevanten Ausstattungsmerkmale wie Anforderungen an Statik oder Anschlüsse.
 
 <sup>3</sup> Die Nutzervertretungen und die für die Beschaffung Mobilien zuständige Stelle legen eine qualitativ und wirtschaftlich optimale Ausstattung fest. Sie können bei Bedarf weitere Stellen wie die Fakultätsleitung oder die Technologiekommission beiziehen.
 
-<sup>4</sup> Erhöhungen der Mittel für BKP 9 erfordern einen gemeinsamen Antrag der Direktionen Immobilien und Betrieb sowie Finanzen und Personal.
+<sup>4</sup> Erhöhungen der Mittel für den Ausstattungskredit erfordern einen gemeinsamen Antrag der Direktionen Immobilien und Betrieb sowie Finanzen und Personal.
+
+[^9-1]: Fassung gemäss URB vom 7. Dezember 2020 (OS 76, 42; ABl 2020-12-18). In Kraft seit 1. März 2021. 1. 4. 21 - 112 5
