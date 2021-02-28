@@ -4,13 +4,13 @@ number: "940.12"
 title: Verordnung zum Wirtschafts- und Arbeitsgesetz
 short: VWAG
 language: de
-version: 2016-01-01
-valid_until: 2021-02-28
-version_adopted: 2015-09-22
+version: 2021-03-01
+valid_until: 2026-08-31
+version_adopted: 2020-11-24
 adopted: 2015-09-22
 in_force: 2016-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/940.12"
-pdf: "https://bgs.so.ch/api/de/versions/4441/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5064/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4441/pdf_file"
 
 (VWAG)
 
-Vom 22.09.2015 (Stand 01.01.2016)
+Vom 22.09.2015 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -316,6 +316,18 @@ beschliesst:
 
 <sup>3</sup> Die stellvertretende Person ist berechtigt und verpflichtet, in allen Bereichen der Betriebsführung selbständig zu handeln.
 
+### 2.5. Kleinspiele
+
+#### § 22bis
+
+**Altersgrenze (G § 38)**
+
+<sup>1</sup> Minderjährige sind zu bewilligungspflichtigen Kleinspielen nicht zugelassen.
+
+<sup>2</sup> Die Bewilligungsbehörde kann die Altersgrenze herabsetzen oder ganz aufheben. Massgebend ist das Gefährdungspotenzial des Spiels in Bezug auf Spielsucht und unangemessene Spieleinsätze.
+
+<sup>3</sup> Bei kleinen Pokerturnieren darf die Bewilligungsbehörde die Altersgrenze nicht unter 16 Jahre herabsetzen.
+
 ## 3. Wirtschaftsförderung
 
 ### 3.1. Allgemeine Wirtschaftsförderung
@@ -441,11 +453,32 @@ beschliesst:
 
 ### 3.1.3. Durchführung
 
+### 3.1.3.1 Allgemeines
+
 #### § 34
 
 **Auskünfte und Unterlagen (G § 71)**
 
 <sup>1</sup> Die Gesuchsteller haben sämtliche für die Beurteilung des Gesuches notwendigen Auskünfte zu erteilen und alle benötigten Unterlagen gemäss den Vorgaben der Wirtschaftsförderungsstelle einzureichen.
+
+### 3.1.3.2. Transparenz
+
+#### § 34bis
+
+**Förderungsmassnahmen (G § 71)**
+
+<sup>1</sup> Einmal jährlich werden veröffentlicht:
+
+- a) Einmalige Förderungsmassnahmen der Fachstelle Standortförderung im Berichtsjahr in der Höhe von 5'000 Franken und mehr, unter Angabe der Empfängerin oder des Empfängers sowie der Beitragshöhe;
+- b) jährlich wiederkehrende Förderungsmassnahmen der Fachstelle Standortförderung, die im Berichtsjahr in der Höhe von 5'000 Franken und mehr ausgerichtet werden, unter Angabe der Empfängerin oder des Empfängers sowie der Beitragshöhe und Beitragsdauer.
+
+#### § 34ter
+
+**Steuererleichterungen (G § 71)**
+
+<sup>1</sup> Bewilligte Anträge auf Steuererleichterung im Berichtsjahr werden, unter Angabe der Empfängerin oder des Empfängers, des Standortes, des Erleichterungssatzes und der Dauer der Steuererleichterung sowie der Anzahl Arbeitsplätze, die dadurch geschaffen oder neu ausgerichtet werden sollen, einmal jährlich veröffentlicht.
+
+### 3.1.3.3 Finanzierung
 
 #### § 35
 
@@ -524,21 +557,28 @@ beschliesst:
 - b) gastwirtschaftliche Tätigkeiten;
 - c) Handel mit alkoholhaltigen Getränken;
 - d) Sexarbeit;
-- e) Lotterie und Geschicklichkeitsspiele;
+- e) Kleinspiele;
 - f) Arbeit in Industrie, Gewerbe und Handel;
-- g) allgemeine Wirtschaftsförderung;
-- h) Tourismusförderung;
-- i) wirtschaftliche Landesversorgung;
+- g) …
+- h) …
+- i) …
 - j) Messwesen;
 - k) in die Schweiz entstandte Arbeitnehmer und Arbeitnehmerinnen;
 - l) Filmwesen;
 - m) Vollzug aller in § 3 WAG[^41-1] aufgeführten Bundesgesetzgebungen.
 
+<sup>1<sup>bis</sup></sup> Der Chef oder die Chefin des Kantonalen Führungsstabes ist kantonale Zentralstelle für die wirtschaftliche Landesversorgung.
+
 <sup>2</sup> Das Volkswirtschaftsdepartement ist zuständige Behörde für:
 
 - a) den Entscheid über Streitfälle bezüglich des Rechts auf Auskunft und Einsichtnahme der Tripartiten Kommission in notwendige Dokumente der Betriebe gemäss Artikel 360b Absatz 5 OR [^41-2];
 - b) die Anordnung von Sanktionen gemäss Artikel 13 Absatz 1 Bundesgesetz gegen die Schwarzarbeit [^41-3];
-- c) den Vollzug aller Aufgaben der wirtschaftlichen Landesversorgung, soweit sie im Gesetz nicht anderen Organen übertragen sind.
+- c) …
+
+<sup>2<sup>bis</sup></sup> Das Departementssekretariat des Volkswirtschaftsdepartementes ist zuständige Behörde für:
+
+- a) Standortförderung;
+- b) Tourismusförderung.
 
 <sup>3</sup> Das Volkswirtschaftsdepartement ist zudem Beschwerdeinstanz im Sinne von § 84 Absatz 2 und § 87 WAG[^41-4].
 
@@ -555,12 +595,19 @@ beschliesst:
 
 <sup>1</sup> Sind für die Durchführung eines gastwirtschaftlichen Gelegenheitsanlasses, neben einer Bewilligung nach § 9 Absatz 2 WAG[^42-1], weitere kantonale oder kommunale Bewilligungen im Sinne von § 11 Absatz 4 WAG[^42-2] erforderlich, so ist die zuständige Behörde der Einwohnergemeinde Leitbehörde.
 
-<sup>2</sup> In dieser Funktion koordiniert sie die verschiedenen Verfahren und eröffnet alle Entscheide gleichzeitig und aufeinander abgestimmt.
+<sup>1<sup>bis</sup></sup> Bei überkommunalen oder regionalen Anlässen ist diejenige Einwohnergemeinde Leitbehörde, auf deren Gebiet die Hauptattraktivität aus gastwirtschaftlicher Sicht stattfindet.
+
+<sup>1<sup>ter</sup></sup> Bei Zuständigkeitskonflikten sprechen sich die Einwohnergemeinden ab und legen die Leitbehörde fest. Können sich die Einwohnergemeinden nicht einigen, bestimmt das Amt für Wirtschaft und Arbeit die Leitbehörde.
+
+<sup>2</sup> Die zuständige Behörde der Einwohnergemeinde koordiniert die verschiedenen Verfahren und eröffnet alle Entscheide gleichzeitig und aufeinander abgestimmt.
+
+<sup>2<sup>bis</sup></sup> Die zuständige Behörde der Einwohnergemeinde führt die nach Artikel 41 Absatz 2 des Bundesgesetzes über Geldspiele[^42-3] bewilligungsfreien Kleinlotterien in der Anlassbewilligung auf und stellt der zuständigen kantonalen Behörde davon eine Kopie zu.
 
 <sup>3</sup> Der Polizei Kanton Solothurn ist eine Kopie der Anlassbewilligung zuzustellen.
 
 [^42-1]: BGS [940.11](https://bgs.so.ch/data/940.11/de).
 [^42-2]: BGS [940.11](https://bgs.so.ch/data/940.11/de).
+[^42-3]: Bundesgesetz über Geldspiele (Geldspielgesetz, BGS) vom 29. September 2017 (SR [935.11)](https://bgs.so.ch/data/935.11)/de).
 
 RRB Nr. 2015/1505 vom 22. September 2015.
 
