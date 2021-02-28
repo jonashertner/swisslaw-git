@@ -4,7 +4,7 @@ number: "416.11.1"
 title: RÈGLEMENT du 11.11.2015 d’application de la loi du 1er juillet 2014 sur l’aide aux études et à la formation professionnelle (RLAEF)
 short: RLAEF
 language: fr
-version: 2019-04-01
+version: 2021-03-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.11.1?id=041a1810-1759-4c9b-9802-a3fd58c53b0f"
 ---
 
@@ -217,7 +217,9 @@ arrête
 
 <sup>2</sup> Sont notamment considérées comme circonstances particulières pouvant donner droit à l'octroi d'un prêt lorsque la durée relative est atteinte, toutes circonstances personnelles, familiales ou de santé, passagères ou durables, de nature à perturber de manière sensible et indépendamment de la volonté du requérant le cours normal de la formation.
 
-[^15-2]: Modif. 2 du 06.07.2022: Introduction Al. 3; entrée en vigueur au 01.03.2021; Introduction Art. 17, Al. 5; entrée en vigueur au 01.03.2021; Introduction Art. 55b; entrée en vigueur au 01.03.2021
+<sup>3</sup> En dérogation à l'alinéa premier et afin de tenir compte des mesures extraordinaires prises par les établissements de formation dans le cadre de la crise sanitaire COVID-19, l'office peut renoncer à comptabiliser une année.
+
+[^15-2]: Modif. 2 du 06.07.2022: Introduction Al. 3; entrée en vigueur au 01.03.2021
 
 #### Art. 17
 
@@ -231,7 +233,9 @@ arrête
 
 <sup>4</sup> Sont notamment considérées comme circonstances particulières, celles mentionnées à l'article 16, alinéa 2, ou encore, lorsque cela se justifie, un échec définitif sanctionnant l'une des formations suivies durant le parcours.
 
-[^16-1]: Modif. 2 du 06.07.2022: Introduction Art. 16, Al. 3; entrée en vigueur au 01.03.2021; Introduction Al. 5; entrée en vigueur au 01.03.2021; Introduction Art. 55b; entrée en vigueur au 01.03.2021
+<sup>5</sup> En dérogation à l'alinéa premier et afin de tenir compte des mesures extraordinaires prises par les établissements de formation dans le cadre de la crise sanitaire COVID-19, l'office peut renoncer à comptabiliser une année.
+
+[^16-1]: Modif. 2 du 06.07.2022: Introduction Al. 5; entrée en vigueur au 01.03.2021
 [^17-1]: Loi du 01.07.2014 sur l'aide aux études et à la formation professionnelle ([BLV 416.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/416.11?id=f639ccbd-15e3-4ec1-9f24-482f7edac40d))
 
 #### Art. 18
@@ -761,6 +765,14 @@ arrête
 
 [^chapterChapitreIV-1]: Modif. 1 du 27.03.2019: Introduction tArt; entrée en vigueur au 01.04.2019; Introduction Al. 1; entrée en vigueur au 01.04.2019; Introduction Art. 55a; entrée en vigueur au 01.04.2019
 
+#### Art. 55b
+
+**Dispositions transitoires du règlement modifiant du 6 juillet 2022 [^55a-1]**
+
+<sup>1</sup> Le Règlement du 6 juillet 2022 modifiant le présent règlement s'applique aux situations nées depuis le 1er mars 2021.
+
+[^55a-1]: Modif. 2 du 06.07.2022: Introduction Art. 55b; entrée en vigueur au 01.03.2021
+
 #### Art. 56
 
 **Abrogation (art. 49 de la loi)**
@@ -777,6 +789,6 @@ Annexes [^57-1]
 
 1
 
-[Barèmes](https://prestations.vd.ch/pub/blv-publication/api/actes/041a1810-1759-4c9b-9802-a3fd58c53b0f/annexes/1?dmev=01.04.2019)
+[Barèmes](https://prestations.vd.ch/pub/blv-publication/api/actes/041a1810-1759-4c9b-9802-a3fd58c53b0f/annexes/1?dmev=01.03.2021)
 
 [^57-1]: Modif. 1 du 27.03.2019: Modification Annexes, Ann. 1; entrée en vigueur au 01.04.2019 · Modif. 3 du 01.02.2023: Introduction Art. 55c; entrée en vigueur au 01.01.2023; Modification Annexes, Ann. 1; entrée en vigueur au 01.01.2023
