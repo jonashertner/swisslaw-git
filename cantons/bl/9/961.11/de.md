@@ -4,13 +4,13 @@ number: "961.11"
 title: Verordnung über die Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 Vo BL
 language: de
-version: 2021-01-20
-valid_until: 2021-02-28
-version_adopted: 2021-01-18
+version: 2021-03-01
+valid_until: 2021-03-22
+version_adopted: 2021-02-23
 adopted: 2020-11-10
 in_force: 2020-11-11
 url: "https://bl.clex.ch/app/de/texts_of_law/961.11"
-pdf: "https://bl.clex.ch/api/de/versions/2884/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2917/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2884/pdf_file"
 
 (Covid-19 Vo BL)
 
-Vom 10.11.2020 (Stand 20.01.2021)
+Vom 10.11.2020 (Stand 01.03.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -41,19 +41,7 @@ beschliesst:
 
 #### § 2
 
-**Maskenpflicht in Betrieben**
-
-<sup>1</sup> In Innenräumen von Betrieben sind alle Personen verpflichtet, eine Gesichtsmaske zu tragen.
-
-<sup>2</sup> Davon ausgenommen sind:
-
-- a. Personen, die nachweisen können, dass sie aus besonderen Gründen, insbesondere medizinischen, keine Gesichtsmasken tragen können;
-- b. Personen, die sich alleine in abgetrennten Räumen (Einzelbüros) aufhalten;
-- c. Tätigkeiten, bei denen aus Sicherheitsgründen oder aufgrund der Art der Tätigkeit keine Gesichtsmaske getragen werden kann.
-
-<sup>3</sup> Es gelten zudem die Ausnahmen von der Maskenpflicht gemäss Art. 3b Abs. 2 Covid-19-Verordnung besondere Lage[^2-1].
-
-[^2-1]: [SR 818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
+**…**
 
 #### § 3
 
