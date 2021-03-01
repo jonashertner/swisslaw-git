@@ -5,12 +5,12 @@ title: Gesetz über die Pflegefinanzierung
 short: PFG
 language: de
 version: 2021-01-01
-corrected: 2020-12-23
+corrected: 2021-03-02
 version_adopted: 2021-02-02
 adopted: 2011-02-13
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.2"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3060/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3062/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -74,9 +74,14 @@ als Gesetz:[^ingress-3]
 
 **Zuständige politische Gemeinde**
 
-<sup>1</sup> Als zuständige politische Gemeinde nach diesem Erlass gilt die politische Gemeinde, in der die versicherte Person beim erstmaligen Heimeintritt wohnte oder beim Bezug von Leistungen einer Organisation der Hilfe und Pflege zu Hause wohnt. Der Eintritt in ein Pflegeheim begründet keine neue Zuständigkeit.
+<sup>1</sup> Als zuständige politische Gemeinde nach diesem Erlass gilt die politische Gemeinde, in der die versicherte Person beim erstmaligen Heimeintritt wohnte oder beim Bezug von Leistungen einer Organisation der Hilfe und Pflege zu Hause wohnt. Der Eintritt in ein Pflegeheim oder die Nutzung eines Angebots des betreuten Wohnens nach Art. 4<sup>ter</sup> des Ergänzungsleistungsgesetzes vom 22. September 1991[^4-1] begründet keine neue Zuständigkeit.
 
 <sup>2</sup> Die versicherte Person reicht dem Pflegeheim beim erstmaligen Heimeintritt eine Wohnsitzbescheinigung der politischen Gemeinde ein, in der sie beim Heimeintritt wohnte.
+
+<sup>3</sup> Nutzt die versicherte Person ein Angebot des betreuten Wohnens nach Art. 4<sup>ter</sup> des Ergänzungsleistungsgesetzes vom 22. September 1991[^4-2], reicht sie der Gemeindezweigstelle eine Wohnsitzbescheinigung der Gemeinde ein, aus der sie zuzieht.
+
+[^4-1]: sGS [351.5](https://www.gesetzessammlung.sg.ch/data/351.5/de).
+[^4-2]: sGS [351.5](https://www.gesetzessammlung.sg.ch/data/351.5/de).
 
 #### Art. 4a
 
