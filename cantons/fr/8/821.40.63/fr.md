@@ -4,13 +4,13 @@ number: "821.40.63"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux cas de rigueur
 short: OMECR COVID-19
 language: fr
-version: 2021-02-12
-valid_until: 2021-03-04
-version_adopted: 2021-02-08
+version: 2021-03-05
+valid_until: 2021-05-13
+version_adopted: 2021-03-16
 adopted: 2020-11-16
 in_force: 2020-11-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.63"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6769/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6811/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, soutien aux cas de rigueur – O
 
 (OMECR COVID-19)
 
-du 16.11.2020 (version entrée en vigueur le 12.02.2021)
+du 16.11.2020 (version entrée en vigueur le 05.03.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -88,11 +88,13 @@ Arrête:
 
 <sup>1</sup> Sont considérées comme «entreprises» au sens de la présente ordonnance les sociétés en raison individuelle, les sociétés de personnes et les personnes morales au sens du droit suisse.
 
+<sup>1a</sup> Sont considérées comme «entreprises dont les domaines d'activité sont clairement délimités» les entreprises qui peuvent produire une comptabilité par secteur.
+
 <sup>2</sup> Sont exclues des mesures de soutien au sens de la présente ordonnance les entreprises:
 
 - a) dans lesquelles la Confédération, le canton ou les communes de plus de 12'000 habitants détiennent au total plus de 10 % du capital, de manière directe ou indirecte;
 - b) qui, dans le canton, n'exercent pas d'activité commerciale et n'emploient pas de personnel;
-- c) qui ont déjà bénéficié d'un soutien financier de l'Etat ou de la Confédération au sens de l'article 10 de la présente ordonnance.
+- c) qui ont déjà bénéficié d'un soutien financier de l'Etat ou de la Confédération au sens de l'article 10 al. 1 de la présente ordonnance, à l'exception des entreprises au sens de l'alinéa 1a du présent article.
 
 #### Art. 4
 
@@ -123,6 +125,20 @@ Arrête:
 
 <sup>3</sup> Si l'entreprise a commencé son activité commerciale le 1<sup>er</sup> janvier 2020 ou plus tard, ou si elle a été créée en 2018 ou en 2019 et présente ainsi un exercice d'une durée supérieure à une année civile, le chiffre d'affaires moyen visé à l'alinéa 1 let. b est celui qui a été réalisé entre le 1<sup>er</sup> janvier 2018 et le 29 février 2020, calculé sur douze mois.
 
+#### Art. 5a
+
+**Date de création – Dérogation**
+
+<sup>1</sup> Si la forme juridique de l'entreprise a changé après le 1<sup>er</sup> mars 2020, s'applique alors le principe de prééminence de la substance sur la forme.
+
+<sup>2</sup> En cas d'inscription au registre du commerce postérieure au 1<sup>er</sup> mars 2020, la demanderesse atteste que la date de création de l'entreprise est antérieure au 1<sup>er</sup> mars 2020.
+
+<sup>3</sup> Si une société de défaisance est créée après le 1<sup>er</sup> mars 2020, la demanderesse atteste que:
+
+- a) cette société a repris une partie substantielle des opérations d'une entreprise;
+- b) l'entreprise qui transfère une part a été créée avant le 1<sup>er</sup> mars 2020;
+- c) l'entreprise qui transfère une part n'a pas déjà reçu de soutien au titre de l'ordonnance COVID-19 cas de rigueur.
+
 #### Art. 6
 
 **Situation patrimoniale et dotation en capital**
@@ -132,6 +148,8 @@ Arrête:
 - a) elle est rentable ou viable;
 - b) elle a pris les mesures qui s'imposent pour protéger ses liquidités et sa base de capital;
 - c) elle n'a pas droit aux aides financières au titre du COVID-19 accordées spécifiquement par la Confédération aux domaines de la culture, du sport, des transports publics ou des médias ni n'a déjà bénéficié d'autres soutiens financiers COVID de l'Etat de Fribourg, à l'exception de ceux qui sont admis à l'article 10 al. 2 et 3.
+
+<sup>2</sup> Pour les entreprises au sens de l'article 3 al. 1a, l'attestation concernant l'alinéa 1 let. c du présent article vaut pour les activités clairement délimitées objet de la demande de soutien aux cas de rigueur.
 
 #### Art. 7
 
@@ -168,7 +186,9 @@ Arrête:
 
 **Interdiction du cumul de subventions**
 
-<sup>1</sup> Il n'est pas alloué de soutien financier au sens des cas de rigueur si l'entreprise a bénéficié d'un ou de plusieurs soutiens financiers dans le cadre des mesures prises par les autorités pour lutter contre les effets de la pandémie dans les domaines de la culture, du sport, des transports publics ou des médias.
+<sup>1</sup> Il n'est pas alloué de soutien financier au sens des cas de rigueur si l'entreprise a bénéficié d'un ou de plusieurs soutiens financiers dans le cadre des mesures prises par les autorités pour lutter contre les effets de la pandémie dans les domaines de la culture, du sport, des transports publics ou des médias. Pour les entreprises au sens de l'article 3 al. 1a (activités sectorielles), cet alinéa s'applique séparément à chaque secteur, conformément à l'article 17c al. 2.
+
+<sup>1a</sup> Les entreprises actives dans les domaines de la culture et du sport, sans domaines d'activité clairement délimités, peuvent déposer une demande d'aide aux cas de rigueur, si elles n'ont pas bénéficié, pour la période objet de la demande, d'un soutien financier au sens de l'alinéa 1.
 
 <sup>2</sup> Ne tombent pas sous le coup de l'interdiction du cumul de subventions:
 
@@ -176,7 +196,7 @@ Arrête:
 - b) les indemnités pour réduction d'horaire de travail (RHT) et les allocations pour perte de gain (APG) ainsi que leurs pendants cantonaux introduits par la loi du 14 octobre 2020 complétant les mesures économiques destinées à lutter contre les effets du coronavirus pour les entrepreneurs et entrepreneuses et les indépendants et indépendantes (LMEI COVID-19) et par l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les employé‑e‑s d'établissements contraints à la fermeture lors de la deuxième vague de coronavirus (OMAE COVID-19);
 - c) les soutiens prévus par l'ordonnance du 21 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus par un soutien aux loyers ou fermages de locaux commerciaux (OMEB COVID-19) et par l'ordonnance du 16 novembre 2020 sur les mesures d'accompagnement pour les établissements contraints à la fermeture sur décision des autorités lors de la deuxième vague de coronavirus (OMAF COVID-19).
 
-<sup>3</sup> Il en va de même pour les bénéficiaires du soutien obtenu en vertu de l'ordonnance du 14 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine du tourisme (MET COVID-19) et du soutien obtenu en vertu de l'article 4a de l'ordonnance d'exécution du 24 novembre 2020 du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus (OPCR-Gastro COVID-19). En cas d'éligibilité, la contribution perçue sera déduite du montant de la présente contribution.
+<sup>3</sup> Il en va de même pour les bénéficiaires du soutien obtenu en vertu de l'ordonnance du 14 avril 2020 sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine du tourisme (MET COVID-19) et du soutien obtenu en vertu de l'article 4a de l'ordonnance d'exécution du 24 novembre 2020 du plan cantonal de relance en vue de contrer les effets de la crise sanitaire et économique due au coronavirus (OPCR-Gastro COVID-19). En cas d'éligibilité, la contribution allouée, qu'elle soit déjà perçue ou non, sera déduite du montant de la présente contribution.
 
 #### Art. 11
 
@@ -189,6 +209,8 @@ Arrête:
 <sup>2</sup> …
 
 <sup>3</sup> Pour les entreprises créées après le 31 décembre 2017, le chiffre d'affaires calculé conformément à l'article 5 al. 3 est réputé chiffre d'affaires moyen des exercices 2018 et 2019.
+
+<sup>3a</sup> Pour les entreprises créées après le 1<sup>er</sup> mars 2020 en application de l'article 5a al. 3, le chiffre d'affaires de la société de défaisance est calculé sur la base de la part au chiffre d'affaires total que représente la partie de l'entreprise transférée.
 
 <sup>4</sup> Dans tous les cas, l'entreprise a confirmé au canton que le recul du chiffre d'affaires entraîne d'importants coûts fixes non couverts.
 
@@ -243,9 +265,11 @@ Arrête:
 
 <sup>3</sup> Elle est versée comme il suit:
 
-- a) un premier acompte versé au prorata du temps de fermeture ordonnée, correspondant à 130 % du loyer mensuel hors charges ou des intérêts mensuels de la dette, et dont est déduite l'aide versée par le biais de l'OMAF COVID-19 pour cette même période;
+- a) un premier acompte versé au prorata du temps de fermeture ordonnée, correspondant à 130 % du loyer mensuel hors charges ou des intérêts mensuels de la dette et dont est déduite l'aide versée par le biais de l'OMAF COVID-19 pour cette même période;
 - b) un ou des acomptes complémentaires versés mensuellement à la suite du premier acompte, correspondant à 130 % du loyer mensuel hors charges ou des intérêts mensuels de la dette, pour les mois suivants et jusqu'à la levée de la décision de fermeture par les autorités;
-- c) un solde versé à la suite de la réouverture et sur décompte, correspondant à un pourcentage de la perte effective de chiffre d'affaires mensuel durant l'entier de la période de fermeture, duquel est déduite la part des acomptes versés selon les lettres a et b ci-avant dépassant le nominal du loyer mensuel hors charges ou des intérêts mensuels de la dette.
+- c) un solde versé à la suite de la réouverture et sur décompte, correspondant à un pourcentage de la perte effective de chiffre d'affaires mensuel durant l'entier de la période de fermeture, duquel est déduite la part des acomptes versés selon les lettres a et b ci-avant dépassant le nominal du loyer mensuel hors charges ou des intérêts mensuels de la dette ainsi que 75 % des indemnités d'assurance perçues en couverture du risque objet de la présente aide.
+
+<sup>3a</sup> Un acompte intermédiaire complémentaire à hauteur de 11 % de la perte du chiffre d'affaires effective entre novembre 2020 et fin janvier 2021 peut être alloué aux entreprises ayant bénéficié de mesures au sens de l'article 4a OPCR-Gastro COVID-19.
 
 <sup>4</sup> Le loyer mensuel pris en considération ne peut excéder 40'000 francs.
 
@@ -265,7 +289,9 @@ Arrête:
 <sup>1</sup> Pour les entreprises dont une partie du domaine d'activité est sous le coup d'une interdiction d'exercice équivalant à une fermeture partielle, une indemnisation est possible aux conditions suivantes:
 
 - a) la perte de chiffre d'affaires au sens de l'article 11 doit être au moins de 20 %;
-- b) la demande ne peut être déposée qu'à la réouverture.
+- b) …
+
+<sup>1a</sup> Les entreprises qui ont bénéficié d'une aide en vertu de l'OMAF COVID-19 et/ou de l'OPCR-Gastro COVID-19 n'ont pas besoin de démonter la perte de chiffre d'affaires exigée à l'alinéa 1.
 
 <sup>2</sup> Au demeurant, les exigences de l'article 13a sont applicables.
 
@@ -273,7 +299,7 @@ Arrête:
 
 **Prise en charge des coûts fixes – Dérogation**
 
-<sup>1</sup> Pour les entreprises et les établissements publics soumis à patente, au sens de la loi sur les établissements publics (LEPu), créés après le 1<sup>er</sup> mars 2020 et ayant déjà perçu de l'aide par le biais de l'OMAF COVID-19 ou de l'OPCR-Gastro COVID-19, une aide forfaitaire exceptionnelle équivalant à un loyer mensuel hors charges ou aux intérêts mensuels de la dette peut être octroyée, sans déduction des aides déjà perçues sur la base desdites ordonnances.
+<sup>1</sup> Pour les entreprises et les établissements publics soumis à patente, au sens de la loi sur les établissements publics (LEPu), créés après le 1<sup>er</sup> mars 2020 et ayant déjà perçu de l'aide par le biais de l'OMAF COVID-19 ou de l'OPCR-Gastro COVID-19, une aide forfaitaire exceptionnelle équivalant à un loyer mensuel hors charges ou aux intérêts mensuels de la dette peut être octroyée, sans déduction des aides déjà perçues sur la base desdites ordonnances, pour chaque mois de fermeture à compter du 1<sup>er</sup> février 2021 et jusqu'à réouverture complète autorisée par les autorités.
 
 #### Art. 14
 
@@ -297,11 +323,11 @@ Arrête:
 
 **Montant maximal**
 
-<sup>1</sup> Le montant maximal de la contribution par demanderesse, quelle qu'en soit la forme au sens de l'article 1 al. 2, est plafonné à 20 % du chiffre d'affaires moyen des exercices 2018 et 2019, mais au maximum à 750'000 francs par entreprise pour l'entier de la période au sens de l'article 16.
+<sup>1</sup> Le montant maximal des mesures de soutien par demanderesse, composées de la présente contribution – quelle qu'en soit la forme au sens de l'article 1 al. 2 – et des contributions déjà versées au titre de l'OMAF COVID-19 et de l'OPCR-Gastro COVID-19, est plafonné à 20 % du chiffre d'affaires moyen des exercices 2018 et 2019, mais au maximum à 750'000 francs par entreprise pour l'entier de la période au sens de l'article 16.
 
 <sup>1a</sup> Le montant maximal de l'alinéa 1 peut exceptionnellement être augmenté jusqu'à 1,5 million de francs au maximum si les propriétaires apportent des fonds propres frais ou si les prêteurs renoncent à leurs créances. Les fonds propres supplémentaires et les abandons de créances doivent au total correspondre au moins à la contribution supplémentaire accordée par le canton.
 
-<sup>1b</sup> Quelle que soit la forme de l'aide et sa procédure d'octroi, le montant total ne peut en principe pas dépasser au final la perte financière réelle documentée (à savoir la perte d'exploitation équivalant au résultat avant impôts, intérêts et amortissements) pour la période correspondant à l'aide.
+<sup>1b</sup> Quelles que soient la forme de l'aide et sa procédure d'octroi, le montant total ne peut en principe pas dépasser au final la perte financière réelle documentée (à savoir la perte équivalant au résultat net avant impôts et amortissements) pour la période correspondant à l'aide.
 
 <sup>2</sup> Il peut être décidé et versé en plusieurs étapes.
 
@@ -331,10 +357,10 @@ Arrête:
 
 <sup>2</sup> Elles annexent à leur demande:
 
-- a) les états financiers, soit au minimum leurs bilans et comptes de pertes et profits des années 2018 et 2019;
+- a) les états financiers, soit au minimum leurs bilans et comptes de pertes et profits des années 2018, 2019 et 2020;
 - b) le document attestant leur chiffre d'affaires pour les douze mois précédant la demande;
 - c) le document attestant de leurs charges de personnel pour la période relative à la demande;
-- d) le décompte des indemnités RHT ou des APG touchées et leurs pendants cantonaux prévus par la LMEI pour la période relative à la demande, le cas échéant le décompte des soutiens touchés sur la base de l'OMEB et de l'OMAF;
+- d) le décompte des indemnités RHT ou des APG touchées et leurs pendants cantonaux prévus par la LMEI COVID-19 pour la période relative à la demande, le cas échéant le décompte des soutiens touchés sur la base de l'OMEB COVID-19 et de l'OMAF COVID-19;
 - e) …
 - f) l'attestation que l'entreprise est à jour s'agissant de sa situation fiscale, notamment en ce qui concerne le respect des délais de dépôt de ses déclarations fiscales, le paiement de ses impôts et les retenues de l'impôt à la source de ses employé‑e‑s;
 - g) un extrait récent du registre des poursuites;
@@ -384,15 +410,23 @@ Arrête:
 
 <sup>1</sup> Une même entreprise ne peut être traitée simultanément en procédure ordinaire (art. 17) et en procédure allégée (art. 17a).
 
+<sup>2</sup> Une demande de changement de procédure en cours de traitement équivaut à un retrait de la demande dans la procédure initiale.
+
+<sup>3</sup> Dès lors qu'une aide est allouée, il n'est plus possible de passer de la procédure ordinaire à la procédure allégée, à moins que la mesure de soutien n'ait la forme d'un prêt pour tout ou partie du montant de dite aide.
+
+<sup>4</sup> En cas de retrait de la demande en procédure ordinaire au profit d'un traitement en procédure allégée, la demanderesse n'est plus autorisée à déposer à la suite une nouvelle demande complémentaire en procédure ordinaire.
+
 #### Art. 17c
 
 **Secteur**
 
 <sup>1</sup> Les entreprises dont les domaines d'activité sont clairement délimités au moyen d'une comptabilité par secteur peuvent demander que le respect des exigences énoncées aux articles 5 al. 1 let. b et c, 6 al. 1 let. c, 11 al. 1 et 4 et 15 de la présente ordonnance soit vérifié séparément pour chaque secteur.
 
-<sup>2</sup> Dans ce cas, l'article 10 al. 1 de la présente ordonnance ne s'applique pas.
+<sup>2</sup> Dans ce cas, l'article 10 al. 1 de la présente ordonnance s'applique séparément à chaque secteur considéré.
 
 <sup>3</sup> Chaque secteur fera l'objet d'une demande spécifique qui sera traitée par l'autorité compétente.
+
+<sup>4</sup> Les entreprises dont le domaine d'activité culturel engendre un chiffre d'affaires inférieur à 50 % de leur chiffre d'affaires total peuvent déposer une demande d'aide au sens de la présente ordonnance.
 
 #### Art. 18
 
@@ -493,7 +527,7 @@ Arrête:
 
 <sup>3</sup> Il en va de même si les conditions émises dans la présente ordonnance ainsi que dans la loi fédérale COVID-19 et son ordonnance d'application ne sont pas remplies ou si les informations remises par l'entreprise bénéficiaire se révèlent inexactes ou erronées.
 
-<sup>4</sup> En cas de versement d'indemnités par une assurance privée, dont l'existence n'aurait pas été communiquée au moment du dépôt de la demande, couvrant tout ou partie de la perte de chiffre d'affaires objet des mesures de soutien en application de la présente ordonnance, l'entreprise bénéficiaire s'engage à rembourser à l'Etat le montant, jusqu'à concurrence de l'aide perçue.
+<sup>4</sup> En cas de versement d'indemnités par une assurance privée, dont l'existence n'aurait pas été communiquée au moment du dépôt de la demande, couvrant tout ou partie de la perte de chiffre d'affaires objet des mesures de soutien en application de la présente ordonnance, l'entreprise bénéficiaire s'engage à rembourser à l'Etat le montant, jusqu'à concurrence de l'aide perçue mais au maximum à hauteur de 75 % des indemnités versées par l'assurance privée.
 
 ## 6 Dispositions finales
 
