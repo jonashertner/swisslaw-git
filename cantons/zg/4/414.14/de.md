@@ -3,30 +3,29 @@ canton: ZG
 number: "414.14"
 title: Reglement über die Maturitätsprüfungen an den kantonalen und an den anerkannten privaten Gymnasien
 language: de
-version: 2019-01-01
-valid_until: 2021-03-05
-version_adopted: 2019-01-15
+version: 2021-03-06
+valid_until: 2022-07-31
+version_adopted: 2021-02-25
 adopted: 2008-05-02
 in_force: 2008-05-02
 url: "https://bgs.zg.ch/app/de/texts_of_law/414.14"
-pdf: "https://bgs.zg.ch/api/de/versions/1934/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Maturitätsprüfungen an den kantonalen und an den anerkannten privaten Gymnasien
 
-Vom 2. Mai 2008 (Stand 1. Januar 2019)
+Vom 2. Mai 2008 (Stand 6. März 2021)
 
 Die Direktion für Bildung und Kultur des Kantons Zug,
 
-gestützt auf die Verordnung des Bundesrates bzw. das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vom 16. Januar bzw. 15. Februar 1995[^ingress-1] sowie auf § 3 Bst. d des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-2] und auf § 76 Abs. 2 des Schulgesetzes vom 27. September 1990[^ingress-3],
+gestützt auf das Reglement der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren (EDK) über die Anerkennung von gymnasialen Maturitätsausweisen (MAR) vom 16. Januar 1995[^ingress-1] bzw. die Verordnung des Bundesrats über die Anerkennung von gymnasialen Maturitätsausweisen (Maturitäts-Anerkennungsverordnung, MAV) vom 15. Februar 1995 sowie auf § 3 Bst. d des Gesetzes über die kantonalen Schulen vom 27. September 1990[^ingress-2],
 
 verfügt:
 
 [^ingress-1]: BGS [411.3](https://bgs.zg.ch/data/411.3/de)
 [^ingress-2]: BGS [414.11](https://bgs.zg.ch/data/414.11/de)
-[^ingress-3]: BGS [412.11](https://bgs.zg.ch/data/412.11/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -158,7 +157,7 @@ verfügt:
 
 **Maturitätsfächer**
 
-<sup>1</sup> Für die Erteilung des Maturitätszeugnisses sind die Noten in den folgenden Fächern massgebend:
+<sup>1</sup> Für die Erteilung des Maturitätsausweises sind die Noten in den folgenden Fächern massgebend:
 
 - 1\. Deutsch
 - 2\. Zweite Landessprache (Französisch oder Italienisch)
@@ -206,11 +205,9 @@ verfügt:
 - b) Schwerpunktfach Biologie und Chemie
 - c) Ergänzungsfach Anwendungen der Mathematik
 - d) Ergänzungsfach Chemie
-- e) Ergänzungsfach Biologie, Chemie und Physik[^12-1]
+- e) …
 
 <sup>3</sup> Die Maturitätsnote ist jene Note, die dem Durchschnitt von Erfahrungsnote und Prüfungsnote am nächsten liegt. Liegt der Durchschnitt genau in der Mitte zwischen zwei möglichen Maturitätsnoten, entscheiden die oder der Examinierende und die Prüfungsexpertin bzw. der Prüfungsexperte gemeinsam über Auf- oder Abrunden.
-
-[^12-1]: Das Ergänzungsfach Biologie, Chemie und Physik wird nur an der Kantonsschule Menzingen geführt.
 
 #### § 13
 
@@ -279,7 +276,7 @@ verfügt:
 - c) die Bezeichnung der Schule;
 - d) den Namen, Vornamen, Heimatort (für Ausländerinnen und Ausländer: Staatsangehörigkeit und Geburtsort) und das Geburtsdatum der Inhaberin bzw. des Inhabers;
 - e) die Angabe der Zeit, während der die Inhaberin bzw. der Inhaber die Schule besucht hat, mit Datum des Eintritts und des Austritts;
-- f) die Noten der Maturitätsfächer nach § 10;
+- f) die Noten der Maturitätsfächer nach § 9;
 - g) das Thema der Maturaarbeit;
 - h) gegebenenfalls den Hinweis auf die Zweisprachigkeit der Matura mit Angabe der zweiten Sprache;
 - i) die Unterschrift der Vorsteherin oder des Vorstehers der Direktion für Bildung und Kultur und der Schulleiterin bzw. des Schulleiters.
@@ -288,13 +285,13 @@ verfügt:
 
 **Zusätzliche Fächer**
 
-<sup>1</sup> Der Maturitätsausweis kann ausser den Noten der Maturitätsfächer noch solche in weiteren Fächern enthalten, sofern diese während mindestens acht Semesterlektionen unterrichtet wurden und im betreffenden Fach eine Abschlussprüfung abgelegt wurde.
+<sup>1</sup> Der Maturitätsausweis enthält ausser den Noten der Maturitätsfächer die Noten der obligatorischen Fächer und des Sports. Die Angabe der Noten zusätzlicher Fächer bedarf der Genehmigung durch die Maturitätskommission.
 
-<sup>2</sup> Die Erfahrungsnote entspricht der letzten Zeugnisnote.
+<sup>2</sup> …
 
-<sup>3</sup> Es wird jene Note eingetragen, die dem Durchschnitt von Erfahrungsnote und Prüfungsnote am nächsten liegt. Liegt der Durchschnitt genau in der Mitte zwischen zwei möglichen Noten, entscheiden die oder der Examinierende und die Prüfungsexpertin bzw. der Prüfungsexperte gemeinsam über Auf- oder Abrunden.
+<sup>3</sup> …
 
-<sup>4</sup> Die Noten für nur kantonal vorgeschriebene oder frei gewählte Fächer sind ausdrücklich als solche zu bezeichnen und grafisch abzutrennen.
+<sup>4</sup> Die Noten der zusätzlichen Fächer sind ausdrücklich als solche zu bezeichnen und grafisch abzutrennen.
 
 ## 6. Schlussbestimmungen
 
