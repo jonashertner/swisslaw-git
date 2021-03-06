@@ -4,18 +4,18 @@ title: Constitution fédérale de la Confédération suisse du 18 avril 1999
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: fr
-version: 2021-01-01
+version: 2021-03-07
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/fr/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution fédérale de la Confédération suisse
 
-du 18 avril 1999 (Etat le 1<sup>er</sup> janvier 2021)
+du 18 avril 1999 (Etat le 7 mars 2021)
 
 **Préambule**
 
@@ -132,6 +132,19 @@ Toute personne a le droit d’être traitée par les organes de l’État sans a
 <sup>2</sup> Tout être humain a droit à la liberté personnelle, notamment à l’intégrité physique et psychique et à la liberté de mouvement.
 
 <sup>3</sup> La torture et tout autre traitement ou peine cruels, inhumains ou dégradants sont interdits.
+
+#### Art. 10a
+
+**Interdiction de se dissimuler le visage[^10a-2]\**[^10a-1]*
+
+<sup>1</sup> Nul ne peut se dissimuler le visage dans l’espace public, ni dans les lieux accessibles au public ou dans lesquels sont fournies des prestations ordinairement accessibles par tout un chacun; l’interdiction n’est pas applicable dans les lieux de culte.
+
+<sup>2</sup> Nul ne peut contraindre une personne de se dissimuler le visage en raison de son sexe.
+
+<sup>3</sup> La loi prévoit des exceptions. Celles-ci ne peuvent être justifiées que par des raisons de santé ou de sécurité, par des raisons climatiques ou par des coutumes locales.
+
+[^10a-1]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-2]: <sup>\*</sup> avec disposition transitoire
 
 #### Art. 11
 
@@ -2969,9 +2982,17 @@ D’ici à l’entrée en vigueur des dispositions légales, le Conseil fédéra
 
 <sup>2</sup> Si les lois d’application afférentes ne sont pas entrées en vigueur dans les trois ans à compter de l’acceptation de l’art. 121*a* par le peuple et les cantons, le Conseil fédéral édicte provisoirement les dispositions d’application nécessaires par voie d’ordonnance.
 
-Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu10-2]
+### 12.** Disposition transitoire ad art. 10a (Interdiction de se dissimuler le visage)
 
-[^197-subdivu10-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu11-1]
+
+[^197-subdivu11-1]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 7 mars 2021 (AF du 19 juin 2020, ACF du 31 mai 2021; [RO 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 6109](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2895](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5345](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+La législation d’exécution doit être élaborée dans les deux ans qui suivent l’acceptation de l’art. 10*a* par le peuple et les cantons.
+
+Date de l’entrée en vigueur: 1<sup>er</sup> janvier 2000[^197-subdivu11-2]
+
+[^197-subdivu11-2]: AF du 28 sept. 1999 ([RO 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 7145](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Dispositions finales de l’arrêté fédéral du 18 décembre 1998
 
@@ -3732,6 +3753,8 @@ Dispositions
 - – relatives aux subventions 159
 - – transitoires 196, 197
 
+**Dissimulation,** visage 10*a*
+
 **Distribution** de matériel de guerre 107
 
 **Divergences** entre les conseils 156
@@ -4321,6 +4344,7 @@ Institutions
 Interdiction
 
 - – de l’arbitraire 9
+- – de se dissimuler le visage 10*a*
 - – d’entrée sur le territoire 121
 - – des mandatsimpératifs 161
 
@@ -5458,6 +5482,8 @@ Vie
 **Villes** 50
 
 **Violation** de droits constitutionnels 189
+
+**Visage**, dissimulation 10*a*
 
 **Voies**
 

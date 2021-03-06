@@ -4,18 +4,18 @@ title: Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999
 short: BV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: de
-version: 2021-01-01
+version: 2021-03-07
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/de/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesverfassung der Schweizerischen Eidgenossenschaft
 
-vom 18. April 1999 (Stand am 1. Januar 2021)
+vom 18. April 1999 (Stand am 7. März 2021)
 
 **Präambel**
 
@@ -132,6 +132,19 @@ Jede Person hat Anspruch darauf, von den staatlichen Organen ohne Willkür und n
 <sup>2</sup> Jeder Mensch hat das Recht auf persönliche Freiheit, insbesondere auf körperliche und geistige Unversehrtheit und auf Bewegungsfreiheit.
 
 <sup>3</sup> Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung sind verboten.
+
+#### Art. 10a
+
+**Verbot der Verhüllung des eigenen Gesichts[^10a-2]\**[^10a-1]*
+
+<sup>1</sup> Niemand darf sein Gesicht im öffentlichen Raum und an Orten verhüllen, die öffentlich zugänglich sind oder an denen grundsätzlich von jedermann beanspruchbare Dienstleistungen angeboten werden; das Verbot gilt nicht für Sakralstätten.
+
+<sup>2</sup> Niemand darf eine Person zwingen, ihr Gesicht aufgrund ihres Geschlechts zu verhüllen.
+
+<sup>3</sup> Das Gesetz sieht Ausnahmen vor. Diese umfassen ausschliesslich Gründe der Gesundheit, der Sicherheit, der klimatischen Bedingungen und des einheimischen Brauchtums.
+
+[^10a-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 7. März 2021 (BB vom 19. Juni 2020, BRB vom 31. Mai 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-2]: <sup>\*</sup> Mit Übergangsbestimmung.
 
 #### Art. 11
 
@@ -450,7 +463,7 @@ Bund und Kantone setzen sich in Ergänzung zu persönlicher Verantwortung und pr
 
 <sup>1</sup> Der Bund erfüllt die Aufgaben, die ihm die Bundesverfassung zuweist.
 
-<sup>2</sup> …[^42-1]
+<sup>2</sup> ...[^42-1]
 
 [^42-1]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), mit Wirkung seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
@@ -691,7 +704,7 @@ Auf Antrag interessierter Kantone kann der Bund in folgenden Aufgabenbereichen i
 
 <sup>1</sup> Die Militärgesetzgebung sowie Organisation, Ausbildung und Ausrüstung der Armee sind Sache des Bundes.
 
-<sup>2</sup> …[^60-1]
+<sup>2</sup> ...[^60-1]
 
 <sup>3</sup> Der Bund kann militärische Einrichtungen der Kantone gegen angemessene Entschädigung übernehmen.
 
@@ -1513,7 +1526,7 @@ Die Versicherung wird finanziert:
 
 <sup>5</sup> Die Leistungen des Bundes werden in erster Linie aus dem Reinertrag der Tabaksteuer, der Steuer auf gebrannten Wassern und der Abgabe aus dem Betrieb von Spielbanken gedeckt.
 
-<sup>6</sup> …[^112-4]
+<sup>6</sup> ...[^112-4]
 
 [^112-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112-2]: Angenommen in der [Volksabstimmung vom 28. Nov. 2004](http://www.admin.ch/ch/d/pore/va/20041128/index.html), in Kraft seit 1. Jan. 2008 (BB vom 3. Okt. 2003, BRB vom 26. Jan. 2005, BRB vom 7. Nov. 2007 – [AS 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [BBl 2002 2291](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 6591](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 951](https://fedlex.data.admin.ch/eli/fga/2005/116)).
@@ -1874,7 +1887,7 @@ Der Bund kann eine direkte Steuer erheben:
 
 - a. von höchstens 11,5 Prozent auf dem Einkommen der natürlichen Personen;
 - b.[^128-2] von höchstens 8,5 Prozent auf dem Reinertrag der juristischen Personen;
-- c.[^128-3] …
+- c.[^128-3] ...
 
 <sup>2</sup> Der Bund nimmt bei der Festsetzung der Tarife auf die Belastung durch die direkten Steuern der Kantone und Gemeinden Rücksicht.
 
@@ -2070,7 +2083,7 @@ Volk und Ständen werden zur Abstimmung unterbreitet:
 Dem Volk werden zur Abstimmung unterbreitet:
 
 - a. die Volksinitiativen auf Totalrevision der Bundesverfassung;
-- a<sup>bis</sup>.[^140-1] …
+- a<sup>bis</sup>.[^140-1] ...
 - b.[^140-2] die Volksinitiativen auf Teilrevision der Bundesverfassung in der Form der allgemeinen Anregung, die von der Bundesversammlung abgelehnt worden sind;
 - c. die Frage, ob eine Totalrevision der Bundesverfassung durchzuführen ist, bei Uneinigkeit der beiden Räte.
 
@@ -2096,7 +2109,7 @@ Verlangen es 50 000 Stimmberechtigte oder acht Kantone innerhalb von 100 Tagen s
   - 2\. den Beitritt zu einer internationalen Organisation vorsehen,
   - 3\.[^141-2] wichtige rechtsetzende Bestimmungen enthalten oder deren Umsetzung den Erlass von Bundesgesetzen erfordert.
 
-<sup>2</sup> …[^141-3]
+<sup>2</sup> ...[^141-3]
 
 [^141-1]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 [^141-2]: Angenommen in der [Volksabstimmung vom 9. Febr. 2003](http://www.admin.ch/ch/d/pore/va/20030209/index.html), in Kraft seit 1. Aug. 2003 (BB vom 4. Okt. 2002, BRB vom 25. März 2003, BB vom 19. Juni 2003 – [AS 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [BBl 2001 4803](https://fedlex.data.admin.ch/eli/fga/2001/781)[6080](https://fedlex.data.admin.ch/eli/fga/2001/1021), [2002 6485](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 3111](https://fedlex.data.admin.ch/eli/fga/2003/390)[3954](https://fedlex.data.admin.ch/eli/fga/2003/586)[3960](https://fedlex.data.admin.ch/eli/fga/2003/588)).
@@ -2610,7 +2623,7 @@ Das Bundesgericht beurteilt Streitigkeiten wegen Verletzung:
 - e. der Gemeindeautonomie und anderer Garantien der Kantone zu Gunsten von öffentlich-rechtlichen Körperschaften;
 - f. von eidgenössischen und kantonalen Bestimmungen über die politischen Rechte.
 
-<sup>1bis</sup> …[^189-1]
+<sup>1bis</sup> ...[^189-1]
 
 <sup>2</sup> Es beurteilt Streitigkeiten zwischen Bund und Kantonen oder zwischen Kantonen.
 
@@ -2794,7 +2807,7 @@ Bis zum Erlass einer Bundesgesetzgebung sind die Kantone zur gegenseitigen Anerk
 
 Die Kantone können während längstens zehn Jahren ab Inkrafttreten der Verfassung bestehende Regelungen beibehalten, welche zur Sicherung der Existenz bedeutender Teile eines bestimmten Zweigs des Gastgewerbes die Eröffnung von Betrieben vom Bedürfnis abhängig machen.
 
-### 8.** …
+### 8.** ...
 
 [^196-subdivu8-1]
 
@@ -2808,7 +2821,7 @@ Die Kantone können während längstens zehn Jahren ab Inkrafttreten der Verfass
 
 [^196-subdivu9-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-### 10.** …
+### 10.** ...
 
 [^196-subdivu10-1]
 
@@ -2818,7 +2831,7 @@ Die Kantone können während längstens zehn Jahren ab Inkrafttreten der Verfass
 
 Versicherte, die zur Eintrittsgeneration gehören und deswegen nicht über die volle Beitragszeit verfügen, sollen je nach Höhe ihres Einkommens innert 10 bis 20 Jahren nach Inkrafttreten des Gesetzes den gesetzlich vorgeschriebenen Mindestschutz erhalten.
 
-### 12.** …
+### 12.** ...
 
 [^196-subdivu12-1]
 
@@ -2841,7 +2854,7 @@ Die Befugnis zur Erhebung der direkten Bundessteuer ist bis Ende 2035 befristet.
 
 <sup>1</sup> Die Befugnis zur Erhebung der Mehrwertsteuer ist bis Ende 2035 befristet.[^196-subdivu14-3]
 
-<sup>2</sup> Zur Sicherung der Finanzierung der Invalidenversicherung hebt der Bundesrat die Mehrwertsteuersätze vom 1. Januar 2011 bis 31. Dezember 2017 wie folgt an: …
+<sup>2</sup> Zur Sicherung der Finanzierung der Invalidenversicherung hebt der Bundesrat die Mehrwertsteuersätze vom 1. Januar 2011 bis 31. Dezember 2017 wie folgt an: ...
 
 <sup>3</sup> Der Ertrag aus der Anhebung nach Absatz 2 wird vollumfänglich dem Ausgleichsfonds der Invalidenversicherung zugewiesen.[^196-subdivu14-4]
 
@@ -2855,13 +2868,13 @@ Die Befugnis zur Erhebung der direkten Bundessteuer ist bis Ende 2035 befristet.
 [^196-subdivu14-6]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 [^196-subdivu14-7]: Angenommen in der [Volksabstimmung vom 9. Febr. 2014](http://www.admin.ch/ch/d/pore/va/20140209/index.html), in Kraft seit 1. Jan. 2016 (BB vom 20. Juni 2013, BRB vom 13. Mai 2014, BRB vom 2. Juni 2014, BRB vom 6. Juni 2014 – [AS 2015 645](https://fedlex.data.admin.ch/eli/oc/2015/104); [BBl 2010 6637](https://fedlex.data.admin.ch/eli/fga/2010/1168), [2012 1577](https://fedlex.data.admin.ch/eli/fga/2012/305), [2013 4725](https://fedlex.data.admin.ch/eli/fga/2013/897)[6518](https://fedlex.data.admin.ch/eli/fga/2013/1136), [2014 4113](https://fedlex.data.admin.ch/eli/fga/2014/970)[4117](https://fedlex.data.admin.ch/eli/fga/2014/972)).
 
-### 15.** …
+### 15.** ...
 
 [^196-subdivu15-1]
 
 [^196-subdivu15-1]: Aufgehoben in der [Volksabstimmung vom 4. März 2018](http://www.admin.ch/ch/d/pore/va/20180304/index.html), mit Wirkung seit 1. Jan. 2021 (BB vom 16. Juni 2017, BRB vom 13. Febr. 2019 – [AS 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [BBl 2016 6221](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 4205](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2761](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
-### 16.** …
+### 16.** ...
 
 [^196-subdivu16-1]
 
@@ -2970,9 +2983,17 @@ Bis zum Inkrafttreten der gesetzlichen Bestimmungen erlässt der Bundesrat inner
 
 <sup>2</sup> Ist die Ausführungsgesetzgebung zu Artikel 121*a* drei Jahre nach dessen Annahme durch Volk und Stände noch nicht in Kraft getreten, so erlässt der Bundesrat auf diesen Zeitpunkt hin die Ausführungsbestimmungen vorübergehend auf dem Verordnungsweg.
 
-Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu10-2]
+### 12.** Übergangsbestimmung zu Art. 10a (Verbot der Verhüllung des eigenen Gesichts)
 
-[^197-subdivu10-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu11-1]
+
+[^197-subdivu11-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 7. März 2021 (BB vom 19. Juni 2020, BRB vom 31. Mai 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+Die Ausführungsgesetzgebung zu Artikel 10*a* ist innert zweier Jahre nach dessen Annahme durch Volk und Stände zu erarbeiten.
+
+Datum des Inkrafttretens: 1. Januar 2000[^197-subdivu11-2]
+
+[^197-subdivu11-2]: BB vom 28. Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
 
 ## Schlussbestimmungen des Bundesbeschlusses vom 18. Dezember 1998
 
@@ -2988,17 +3009,17 @@ Das Hausieren mit geistigen Getränken sowie ihr Verkauf im Umherziehen sind unt
 
 b. Art. 36<sup>quinquies</sup> Abs. 1 erster Satz, 2 zweiter–letzter Satz und 4 zweiter Satz*[^u1-3]*
 
-<sup>1</sup> Der Bund erhebt für die Benützung der Nationalstrassen erster und zweiter Klasse auf in- und ausländischen Motorfahrzeugen und Anhängern bis zu einem Gesamtgewicht von je 3,5 Tonnen eine jährliche Abgabe von 40 Franken. …
+<sup>1</sup> Der Bund erhebt für die Benützung der Nationalstrassen erster und zweiter Klasse auf in- und ausländischen Motorfahrzeugen und Anhängern bis zu einem Gesamtgewicht von je 3,5 Tonnen eine jährliche Abgabe von 40 Franken. ...
 
-<sup>2</sup> … Der Bundesrat kann bestimmte Fahrzeuge von der Abgabe befreien und Sonderregelungen treffen, insbesondere für Fahrten im Grenzbereich. Dadurch dürfen im Ausland immatrikulierte Fahrzeuge nicht besser gestellt werden als schweizerische. Der Bundesrat kann für Übertretungen Bussen vorsehen. Die Kantone ziehen die Abgabe für die im Inland immatrikulierten Fahrzeuge ein und überwachen die Einhaltung der Vorschriften bei allen Fahrzeugen.
+<sup>2</sup> ... Der Bundesrat kann bestimmte Fahrzeuge von der Abgabe befreien und Sonderregelungen treffen, insbesondere für Fahrten im Grenzbereich. Dadurch dürfen im Ausland immatrikulierte Fahrzeuge nicht besser gestellt werden als schweizerische. Der Bundesrat kann für Übertretungen Bussen vorsehen. Die Kantone ziehen die Abgabe für die im Inland immatrikulierten Fahrzeuge ein und überwachen die Einhaltung der Vorschriften bei allen Fahrzeugen.
 
-<sup>4</sup> … Das Gesetz kann die Abgabe auf weitere Fahrzeugkategorien, die nicht der Schwerverkehrsabgabe unterstehen, ausdehnen.
+<sup>4</sup> ... Das Gesetz kann die Abgabe auf weitere Fahrzeugkategorien, die nicht der Schwerverkehrsabgabe unterstehen, ausdehnen.
 
 c. Art. 121<sup>bis</sup> Abs. 1, 2 und Abs. 3 erster und zweiter Satz*[^u1-4]*
 
 <sup>2</sup> Das absolute Mehr wird für jede Frage getrennt ermittelt. Unbeantwortete Fragen fallen ausser Betracht.
 
-<sup>3</sup> Werden sowohl das Volksbegehren als auch der Gegenentwurf angenommen, so entscheidet das Ergebnis der dritten Frage. In Kraft tritt die Vorlage, die bei dieser Frage mehr Volks- und mehr Standesstimmen erzielt. …
+<sup>3</sup> Werden sowohl das Volksbegehren als auch der Gegenentwurf angenommen, so entscheidet das Ergebnis der dritten Frage. In Kraft tritt die Vorlage, die bei dieser Frage mehr Volks- und mehr Standesstimmen erzielt. ...
 
 III
 
@@ -3953,6 +3974,8 @@ Gesetze
 - – Inhalt 164
 - – Rechtsgleichheit 8
 - – Vollzug 182
+
+**Gesichtsverhüllung**, Verbot 10*a*
 
 **Gestaltungsfreiheit** der Kantone 46
 
@@ -5277,6 +5300,8 @@ Verhandlungen
 - – internationale 55
 - – der Räte 156, 157
 - – Verhandlungsfähigkeit der Räte 159
+
+**Verhüllung** des Gesichts 10*a*
 
 **Verkauf** gebrannter Wasser 105
 

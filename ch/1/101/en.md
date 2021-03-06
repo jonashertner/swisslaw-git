@@ -4,11 +4,11 @@ title: Federal Constitution of 18 April 1999 of the Swiss Confederation
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: en
-version: 2021-01-01
+version: 2021-03-07
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/en/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 18 April 1999 (Status as of 1 January 2021)
+of 18 April 1999 (Status as of 7 March 2021)
 
 **Preamble**
 
@@ -134,6 +134,19 @@ Every person has the right to be treated by state authorities in good faith and 
 <sup>2</sup> Every person has the right to personal liberty and in particular to physical and mental integrity and to freedom of movement.
 
 <sup>3</sup> Torture and any other form of cruel, inhuman or degrading treatment or punishment are prohibited.
+
+#### Art. 10a
+
+**Ban on covering the face[^10a-2]\**[^10a-1]*
+
+<sup>1</sup> No person may cover their face in public spaces or in places that are accessible to the public or where services are offered to anyone wishing to partake of them; the ban does not apply to places of worship.
+
+<sup>2</sup> No person may force another person to cover their face on the grounds of their sex.
+
+<sup>3</sup> The law shall provide for exceptions. These may only be justified on the grounds of health, safety, weather conditions or local custom.
+
+[^10a-1]: Adopted by the popular vote on 7 March 2021, in force since 7 March 2021 (FedD of 19 June 2020, FCD of 31 May 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-2]: <sup>\*</sup> With transitional provision.
 
 #### Art. 11
 
@@ -1360,7 +1373,7 @@ The Confederation may support regions of the country that are under economic thr
 
 <sup>1</sup>
 
-The Confederation shall ensure that agricultural sector, by means of a sustainable and market oriented production policy, makes an essential contribution towards:
+The Confederation shall ensure that the agricultural sector, by means of a sustainable and market oriented production policy, makes an essential contribution towards:
 
 - a. the reliable provision of the population with foodstuffs;
 - b. the conservation of natural resources and the upkeep of the countryside;
@@ -2967,9 +2980,17 @@ Until the statutory provisions come into force, the Federal Council shall issue 
 
 <sup>2</sup> If the implementing legislation for Article 121*a* has not come into force within three years of its adoption by the People and the Cantons, the Federal Council shall issue temporary implementing provisions in the form of an ordinance.
 
-Commencement Date: 1 January 2000[^197-subdivu11-2]
+### 12.** Transitional provision to Art. 10a (Ban on covering the face)
 
-[^197-subdivu11-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784))
+[^197-subdivu12-1]
+
+[^197-subdivu12-1]: Adopted by the popular vote on 7 March 2021, in force since 7 March 2021 (FedD of 19 June 2020, FCD of 31 May 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+The implementing legislation for Article 10*a* must be drawn up within two years of its adoption by the People and the Cantons.
+
+Commencement Date: 1 January 2000[^197-subdivu12-2]
+
+[^197-subdivu12-2]: FedD of 28 Sept. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Final Provisions of the Federal Decree of 18 December 1998
 
@@ -3014,6 +3035,6 @@ IV
 - 3\. which of the two proposals should come into force in the event that the People and the Cantons prefer both proposals to the existing law.
 
 [^u1-1]: [BS **1** 3; [AS 1949 1511](https://fedlex.data.admin.ch/eli/oc/1949/1511_1614_1544), [1951 606](https://fedlex.data.admin.ch/eli/oc/1951/606_603_619), [1957 1027](https://fedlex.data.admin.ch/eli/oc/1957/1027_1041_1065), [1958 362](https://fedlex.data.admin.ch/eli/oc/1958/362_371_375)[768](https://fedlex.data.admin.ch/eli/oc/1958/768_798_804)[770](https://fedlex.data.admin.ch/eli/oc/1958/770_800_806), [1959 224](https://fedlex.data.admin.ch/eli/oc/1959/224_234_234)[912](https://fedlex.data.admin.ch/eli/oc/1959/912_942_933), [1961 476](https://fedlex.data.admin.ch/eli/oc/1961/476_486_498), [1962 749](https://fedlex.data.admin.ch/eli/oc/1962/749_783_803)[1637](https://fedlex.data.admin.ch/eli/oc/1962/1637_1695_1717)[1804](https://fedlex.data.admin.ch/eli/oc/1962/1804_1858_1888), [1964 97](https://fedlex.data.admin.ch/eli/oc/1964/97_93_93), [1966 1672](https://fedlex.data.admin.ch/eli/oc/1966/1672_1730_1714), [1969 1249](https://fedlex.data.admin.ch/eli/oc/1969/1249_1265_1267), [1970 1649](https://fedlex.data.admin.ch/eli/oc/1970/1649_1653_1653), [1971 325](https://fedlex.data.admin.ch/eli/oc/1971/325_329_329)[905](https://fedlex.data.admin.ch/eli/oc/1971/905_905_905)[907](https://fedlex.data.admin.ch/eli/oc/1971/907_907_907), [1972 1481](https://fedlex.data.admin.ch/eli/oc/1972/1481_1509_1681)[1484](https://fedlex.data.admin.ch/eli/oc/1972/1484_1512_1684), [1973 429](https://fedlex.data.admin.ch/eli/oc/1973/429_429_429)[1051](https://fedlex.data.admin.ch/eli/oc/1973/1051_1051_1049)[1455](https://fedlex.data.admin.ch/eli/oc/1973/1455_1455_1455), [1974 721](https://fedlex.data.admin.ch/eli/oc/1974/721_721_721), [1975 1205](https://fedlex.data.admin.ch/eli/oc/1975/1205_1205_1205), [1976 713](https://fedlex.data.admin.ch/eli/oc/1976/713_713_713)[715](https://fedlex.data.admin.ch/eli/oc/1976/715_715_715)[2003](https://fedlex.data.admin.ch/eli/oc/1976/2003_2003_2003), [1977 807](https://fedlex.data.admin.ch/eli/oc/1977/807_807_807)[1849](https://fedlex.data.admin.ch/eli/oc/1977/1849_1849_1849)[2228](https://fedlex.data.admin.ch/eli/oc/1977/2228_2228_2228)[2230](https://fedlex.data.admin.ch/eli/oc/1977/2230_2230_2230), [1978 212](https://fedlex.data.admin.ch/eli/oc/1978/212_212_212)[484](https://fedlex.data.admin.ch/eli/oc/1978/484_484_484)[1578](https://fedlex.data.admin.ch/eli/oc/1978/1578_1578_1578), [1979 678](https://fedlex.data.admin.ch/eli/oc/1979/678_678_678), [1980 380](https://fedlex.data.admin.ch/eli/oc/1980/380_380_380), [1981 1243](https://fedlex.data.admin.ch/eli/oc/1981/1243_1243_1243)[1244](https://fedlex.data.admin.ch/eli/oc/1981/1244_1244_1244), [1982 138](https://fedlex.data.admin.ch/eli/oc/1982/138_138_138), [1983 240](https://fedlex.data.admin.ch/eli/oc/1983/240_240_240)[444](https://fedlex.data.admin.ch/eli/oc/1983/444_444_444), [1984 290](https://fedlex.data.admin.ch/eli/oc/1984/290_290_290), [1985 150](https://fedlex.data.admin.ch/eli/oc/1985/150_150_150), [151](https://fedlex.data.admin.ch/eli/oc/1985/151_151_151)[658](https://fedlex.data.admin.ch/eli/oc/1985/658_658_658)[659](https://fedlex.data.admin.ch/eli/oc/1985/659_659_659)[1025](https://fedlex.data.admin.ch/eli/oc/1985/1025_1025_1025)[1026](https://fedlex.data.admin.ch/eli/oc/1985/1026_1026_1026)[1648](https://fedlex.data.admin.ch/eli/oc/1985/1648_1648_1648), [1987 282](https://fedlex.data.admin.ch/eli/oc/1987/282_282_282)[1125](https://fedlex.data.admin.ch/eli/oc/1987/1125_1125_1125), [1988 352](https://fedlex.data.admin.ch/eli/oc/1988/352_352_352), [1991 246](https://fedlex.data.admin.ch/eli/oc/1991/246_246_246)[247](https://fedlex.data.admin.ch/eli/oc/1991/247_247_247)[1122](https://fedlex.data.admin.ch/eli/oc/1991/1122_1122_1122), [1992 1578](https://fedlex.data.admin.ch/eli/oc/1992/1578_1578_1578)[1579](https://fedlex.data.admin.ch/eli/oc/1992/1579_1579_1579), [1993 3040](https://fedlex.data.admin.ch/eli/oc/1993/3040_3040_3040)[3041](https://fedlex.data.admin.ch/eli/oc/1993/3041_3041_3041), [1994 258](https://fedlex.data.admin.ch/eli/oc/1994/258_258_258)[263](https://fedlex.data.admin.ch/eli/oc/1994/263_263_263)[265](https://fedlex.data.admin.ch/eli/oc/1994/265_265_265)[267](https://fedlex.data.admin.ch/eli/oc/1994/267_267_267)[1096](https://fedlex.data.admin.ch/eli/oc/1994/1096_1096_1096)[1097](https://fedlex.data.admin.ch/eli/oc/1994/1097_1097_1097)[1099](https://fedlex.data.admin.ch/eli/oc/1994/1099_1099_1099)[1101](https://fedlex.data.admin.ch/eli/oc/1994/1101_1101_1101), [1995 1455](https://fedlex.data.admin.ch/eli/oc/1995/1455_1455_1455), [1996 1490](https://fedlex.data.admin.ch/eli/oc/1996/1490_1490_1490)[1491](https://fedlex.data.admin.ch/eli/oc/1996/1491_1491_1491)[1492](https://fedlex.data.admin.ch/eli/oc/1996/1492_1492_1492)[2502](https://fedlex.data.admin.ch/eli/oc/1996/2502_2502_2502), [1998 918](https://fedlex.data.admin.ch/eli/oc/1998/918_918_918)[2031](https://fedlex.data.admin.ch/eli/oc/1998/2031_2031_2031), [1999 741](https://fedlex.data.admin.ch/eli/oc/1999/110)[743](https://fedlex.data.admin.ch/eli/oc/1999/111)[1239](https://fedlex.data.admin.ch/eli/oc/1999/168)[1341](https://fedlex.data.admin.ch/eli/oc/1999/186)]
-[^u1-2]: Art. 105
-[^u1-3]: Art. 86 para. 2
+[^u1-2]: Art. 105.
+[^u1-3]: Art. 86 para. 2.
 [^u1-4]: See now: Art. 139*b.*

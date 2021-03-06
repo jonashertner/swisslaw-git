@@ -4,11 +4,11 @@ title: "Constituziun federala da la Confederaziun svizra dals 18 d'avrigl 1999"
 short: Cst.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: rm
-version: 2021-01-01
+version: 2021-03-07
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-rm-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/rm/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.
 
-dals 18 d’avrigl 1999 (versiun dal 1. da schaner 2021)
+dals 18 d’avrigl 1999 (versiun dals 7 da mars 2021)
 
 **Preambel**
 
@@ -134,6 +134,19 @@ Mintga persuna ha il dretg da vegnir tractada dals organs dal stadi senza arbitr
 <sup>2</sup> Mintga uman ha il dretg da la libertad persunala, particularmain da l’integritad corporala e spiertala e da la libertad da sa mover.
 
 <sup>3</sup> La tortura e mintg’autra sort da tractament e chasti crudaivel, inuman u degradant èn scumandadas.
+
+#### Art. 10a
+
+**Scumond da cuvrir l’atgna fatscha[^10a-2]\**[^10a-1]*
+
+<sup>1</sup> Nagin na dastga cuvrir sia fatscha en il spazi public ed en lieus accessibels publicamain ubain en lieus, nua ch’i vegnan purschids servetschs che pon da princip vegnir duvrads da tuts; il scumond na vala betg per lieus sacrals.
+
+<sup>2</sup> Nagin na dastga sfurzar ina persuna da cuvrir sia fatscha pervia da sia schlattaina.
+
+<sup>3</sup> La lescha prevesa excepziuns. Quellas cumpiglian exclusivamain motivs da la sanadad, da la segirezza, da las cundiziuns climaticas e dals usits indigens.
+
+[^10a-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2021, en vigur dapi ils 7 da mars 2021 (COF dals 19 da zer. 2020, COCF dals 31 da matg 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-2]: <sup>\*</sup> Cun disposiziun transitorica.
 
 #### Art. 11
 
@@ -2969,9 +2982,17 @@ Fin che las disposiziuns legalas entran en vigur, decretescha il Cussegl federal
 
 <sup>2</sup> Sche la legislaziun executiva n’è betg anc entrada en vigur 3 onns suenter che l’artitgel 121*a* è vegnì acceptà tras il pievel ed ils chantuns, decretescha il Cussegl federal per quest termin a maun d’ina ordinaziun las disposiziuns executivas transitoricas.
 
-Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu10-2]
+### 12.** Disposiziun transitorica tar l’art 10a (Scumond da cuvrir l’atgna fatscha)
 
-[^197-subdivu10-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu11-1]
+
+[^197-subdivu11-1]: Acceptà en la votaziun dal pievel dals 7 da mars 2021, en vigur dapi ils 7 da mars 2021 (COF dals 19 da zer. 2020, COCF dals 31 da matg 2021 – [AS 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [BBl 2017 6447](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2913](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 5507](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+La legislaziun executiva tar l’artitgel 10*a* sto vegnir elavurada entaifer 2 onns suenter che quel è vegnì acceptà dal pievel e dals chantuns.
+
+Data da l’entrada en vigur: 1. da schaner 2000[^197-subdivu11-2]
+
+[^197-subdivu11-2]: COF dals 28 da sett. 1999 ([AS 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [BBl 1999 7922](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposiziuns finalas dal Conclus federal dals 18 da december 1998 davart ina nova Constituziun federala
 

@@ -4,18 +4,18 @@ title: Costituzione federale della Confederazione Svizzera del 18 aprile 1999
 short: Cost.
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/404"
 language: it
-version: 2021-01-01
+version: 2021-03-07
 adopted: 1999-04-18
 in_force: 2000-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/404/20210307/it/xml/fedlex-data-admin-ch-eli-cc-1999-404-20210307-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/404/20210307/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Costituzione federale della Confederazione Svizzera
 
-del 18 aprile 1999 (Stato 1° gennaio 2021)
+del 18 aprile 1999 (Stato 7 marzo 2021)
 
 **Preambolo**
 
@@ -132,6 +132,19 @@ Ognuno ha diritto d’essere trattato senza arbitrio e secondo il principio dell
 <sup>2</sup> Ognuno ha diritto alla libertà personale, in particolare all’integrità fisica e psichica e alla libertà di movimento.
 
 <sup>3</sup> La tortura nonché ogni altro genere di trattamento o punizione crudele, inumano o degradante sono vietati.
+
+#### Art. 10a
+
+**Divieto di dissimulare il proprio viso[^10a-2]\**[^10a-1]*
+
+<sup>1</sup> Nessuno può dissimulare il proprio viso negli spazi pubblici né nei luoghi accessibili al pubblico o nei quali sono fornite prestazioni in linea di massima accessibili a ognuno; il divieto non si applica ai luoghi di culto.
+
+<sup>2</sup> Nessuno può obbligare una persona a dissimulare il viso a causa del suo sesso.
+
+<sup>3</sup> La legge prevede eccezioni. Queste possono essere giustificate esclusivamente da motivi inerenti alla salute, alla sicurezza, alle condizioni climatiche e alle usanze locali.
+
+[^10a-1]: Accettato nella [votazione popolare del 7 mar. 2001](http://www.admin.ch/ch/i/pore/va/20010307/index.html), in vigore dal 7 mar. 2021 (DF del 19 giu. 2020, DCF del 31 mag. 2021 – [RU 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 5515](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2519](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 4923](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+[^10a-2]: <sup>\*</sup> Con disposizione transitoria.
 
 #### Art. 11
 
@@ -450,7 +463,7 @@ A complemento della responsabilità e dell’iniziativa private, la Confederazio
 
 <sup>1</sup> La Confederazione adempie i compiti che le sono assegnati dalla Costituzione.
 
-<sup>2</sup> …[^42-1]
+<sup>2</sup> ...[^42-1]
 
 [^42-1]: Abrogato nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), con effetto dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 
@@ -693,7 +706,7 @@ Su domanda dei Cantoni interessati, la Confederazione può dichiarare di obbliga
 
 <sup>1</sup> La legislazione militare nonché l’organizzazione, l’istruzione e l’equipaggiamento dell’esercito competono alla Confederazione.
 
-<sup>2</sup> …[^60-1]
+<sup>2</sup> ...[^60-1]
 
 <sup>3</sup> La Confederazione può, contro equa indennità, assumere in proprio installazioni militari cantonali.
 
@@ -1513,7 +1526,7 @@ L’assicurazione è finanziata:
 
 <sup>5</sup> Le prestazioni della Confederazione sono coperte anzitutto con il prodotto netto dell’imposta sul tabacco, dell’imposta sulle bevande distillate e della tassa sui casinò.
 
-<sup>6</sup> …[^112-4]
+<sup>6</sup> ...[^112-4]
 
 [^112-1]: Accettata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
 [^112-2]: Accettata nella [votazione popolare del 28 nov. 2004](http://www.admin.ch/ch/i/pore/va/20041128/index.html), in vigore dal 1° gen. 2008 (DF del 3 ott. 2003, DCF del 26 gen. 2005, DCF del 7 nov. 2007 – [RU 2007 5765](https://fedlex.data.admin.ch/eli/oc/2007/785); [FF 2002 2065](https://fedlex.data.admin.ch/eli/fga/2002/316), [2003 5745](https://fedlex.data.admin.ch/eli/fga/2003/1089), [2005 849](https://fedlex.data.admin.ch/eli/fga/2005/116)).
@@ -1874,7 +1887,7 @@ La Confederazione può riscuotere un’imposta diretta:
 
 - a. sul reddito delle persone fisiche, con un’aliquota massima dell’11,5 per cento;
 - b.[^128-2] sul reddito netto delle persone giuridiche, con un’aliquota massima dell’8,5 per cento;
-- c.[^128-3] …
+- c.[^128-3] ...
 
 <sup>2</sup> Nella determinazione delle aliquote la Confederazione prende in considerazione l’onere causato dalle imposte dirette cantonali e comunali.
 
@@ -2070,7 +2083,7 @@ Sottostanno al voto del Popolo e dei Cantoni:
 Sottostanno al voto del Popolo:
 
 - a. le iniziative popolari per la revisione totale della Costituzione;
-- a<sup>bis</sup>.[^140-1] …
+- a<sup>bis</sup>.[^140-1] ...
 - b.[^140-2] le iniziative popolari per la revisione parziale della Costituzione presentate in forma di proposta generica e respinte dall’Assemblea federale;
 - c. il principio di una revisione totale della Costituzione in caso di disaccordo fra le due Camere.
 
@@ -2096,7 +2109,7 @@ Se 50 000 aventi diritto di voto o otto Cantoni ne fanno richiesta entro cento g
   - 2\. prevedenti l’adesione a un’organizzazione internazionale,
   - 3\.[^141-2] comprendenti disposizioni importanti che contengono norme di diritto o per l’attuazione dei quali è necessaria l’emanazione di leggi federali.
 
-<sup>2</sup> …[^141-3]
+<sup>2</sup> ...[^141-3]
 
 [^141-1]: Accettato nella [votazione popolare del 9 feb. 2003](http://www.admin.ch/ch/i/pore/va/20030209/index.html), in vigore dal 1° ago. 2003 (DF 4 ott. 2002, DCF 25 mar. 2003, DF 19 giu. 2003 – [RU 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4315](https://fedlex.data.admin.ch/eli/fga/2001/781)4511, [2002 5783](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2713](https://fedlex.data.admin.ch/eli/fga/2003/390)[3394](https://fedlex.data.admin.ch/eli/fga/2003/586)[3401](https://fedlex.data.admin.ch/eli/fga/2003/588)).
 [^141-2]: Accettato nella [votazione popolare del 9 feb. 2003](http://www.admin.ch/ch/i/pore/va/20030209/index.html), in vigore dal 1° ago. 2003 (DF 4 ott. 2002, DCF 25 mar. 2003, DF 19 giu. 2003 – [RU 2003 1949](https://fedlex.data.admin.ch/eli/oc/2003/296); [FF 2001 4315](https://fedlex.data.admin.ch/eli/fga/2001/781)4511, [2002 5783](https://fedlex.data.admin.ch/eli/fga/2002/1020), [2003 2713](https://fedlex.data.admin.ch/eli/fga/2003/390)[3394](https://fedlex.data.admin.ch/eli/fga/2003/586)[3401](https://fedlex.data.admin.ch/eli/fga/2003/588)).
@@ -2610,7 +2623,7 @@ Il Tribunale federale giudica le controversie per violazione:
 - e. dell’autonomia comunale e di altre garanzie che i Cantoni conferiscono ad altri enti di diritto pubblico;
 - f. delle disposizioni federali e cantonali sui diritti politici.
 
-<sup>1bis</sup> … [^189-1]
+<sup>1bis</sup> ... [^189-1]
 
 <sup>2</sup> Il Tribunale federale giudica inoltre le controversie tra la Confederazione e i Cantoni e quelle tra Cantoni.
 
@@ -2808,7 +2821,7 @@ Per non oltre dieci anni dall’entrata in vigore della presente Costituzione, i
 
 [^196-subdivu9-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-### …**
+### ...**
 
 [^196-subdivu10-1]
 
@@ -2865,7 +2878,7 @@ Per garantire il finanziamento dell’assicurazione invalidità, il Consiglio fe
 
 [^196-subdivu15-1]: Abrogato dalla [votazione popolare del 4 mar. 2018](http://www.admin.ch/ch/i/pore/va/20180304/index.html), con effetto dal 1° gen. 2021 (DF del 16. giu. 2017, DCF del 13 feb. 2019 – [RU 2019 769](https://fedlex.data.admin.ch/eli/oc/2019/137); [FF 2016 5609](https://fedlex.data.admin.ch/eli/fga/2016/1193), [2017 3611](https://fedlex.data.admin.ch/eli/fga/2017/1059), [2018 2297](https://fedlex.data.admin.ch/eli/fga/2018/1088)).
 
-### …**
+### ...**
 
 [^196-subdivu16-1]
 
@@ -2974,9 +2987,17 @@ Entro un anno dall’accettazione dell’articolo 95 capoverso 3 da parte del Po
 
 <sup>2</sup> Se la legislazione d’esecuzione relativa all’articolo 121*a* non è entrata in vigore entro tre anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni, il Consiglio federale emana provvisoriamente le disposizioni d’esecuzione in via d’ordinanza.
 
-Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu10-2]
+### 12.** Disposizione transitoria dell’art. 10a (Divieto di dissimulare il proprio viso)
 
-[^197-subdivu10-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
+[^197-subdivu11-1]
+
+[^197-subdivu11-1]: Accettato nella [votazione popolare del 7 mar. 2001](http://www.admin.ch/ch/i/pore/va/20010307/index.html), in vigore dal 7 mar. 2021 (DF del 19 giu. 2020, DCF 31 mag. 2021 – [RU 2021 310](https://fedlex.data.admin.ch/eli/oc/2021/310); [FF 2017 5515](https://fedlex.data.admin.ch/eli/fga/2017/1844); [2019 2519](https://fedlex.data.admin.ch/eli/fga/2019/868); [2020 4923](https://fedlex.data.admin.ch/eli/fga/2020/1295); [2021 1185](https://fedlex.data.admin.ch/eli/fga/2021/1185)).
+
+La legislazione d’esecuzione relativa all’articolo 10*a* è elaborata entro due anni dall’accettazione di detto articolo da parte del Popolo e dei Cantoni.
+
+Data dell’entrata in vigore: 1° gennaio 2000[^197-subdivu11-2]
+
+[^197-subdivu11-2]: DF del 28 set. 1999 ([RU 1999 2555](https://fedlex.data.admin.ch/eli/oc/1999/403); [FF 1999 6784](https://fedlex.data.admin.ch/eli/fga/1999/1_7922_7145_6784)).
 
 ## Disposizioni finali del Decreto federale del 18 dicembre 1998
 
@@ -2992,17 +3013,17 @@ Per le bevande spiritose sono vietati il commercio ambulante e ogni forma di ven
 
 b. Art. 36<sup>quinquies</sup> cpv. 1 primo periodo, 2 dal secondo all’ultimo periodo, e 4 secondo periodo*[^u1-3]*
 
-<sup>1</sup> La Confederazione riscuote, per l’utilizzazione delle strade nazionali di prima e seconda classe, una tassa annuale di 40 franchi sui veicoli a motore e sui rimorchi immatricolati in Svizzera o all’estero, il cui peso complessivo non superi le 3,5 tonnellate. …
+<sup>1</sup> La Confederazione riscuote, per l’utilizzazione delle strade nazionali di prima e seconda classe, una tassa annuale di 40 franchi sui veicoli a motore e sui rimorchi immatricolati in Svizzera o all’estero, il cui peso complessivo non superi le 3,5 tonnellate. ...
 
-<sup>2</sup> … [Il Consiglio federale] Può esentare dalla tassa determinati veicoli e prevedere disposizioni speciali, segnatamente per gli spostamenti nelle zone di confine. Queste disposizioni non devono privilegiare i veicoli immatricolati all’estero. Il Consiglio federale può prevedere multe in casi di contravvenzione. I Cantoni prelevano la tassa sui veicoli immatricolati in Svizzera e sorvegliano l’osservanza delle prescrizioni per tutti i veicoli.
+<sup>2</sup> ... [Il Consiglio federale] Può esentare dalla tassa determinati veicoli e prevedere disposizioni speciali, segnatamente per gli spostamenti nelle zone di confine. Queste disposizioni non devono privilegiare i veicoli immatricolati all’estero. Il Consiglio federale può prevedere multe in casi di contravvenzione. I Cantoni prelevano la tassa sui veicoli immatricolati in Svizzera e sorvegliano l’osservanza delle prescrizioni per tutti i veicoli.
 
-<sup>4</sup> … Essa [la tassa] può anche essere applicata ad altre categorie di veicoli che non sono assoggettati alla tassa sul traffico pesante.
+<sup>4</sup> ... Essa [la tassa] può anche essere applicata ad altre categorie di veicoli che non sono assoggettati alla tassa sul traffico pesante.
 
 c. Art. 121<sup>bis</sup> cpv. 1, 2 e 3 primo e secondo periodo*[^u1-4]*
 
 <sup>2</sup> La maggioranza assoluta è accertata separatamente per ogni domanda. Non è tenuto conto delle domande lasciate senza risposta.
 
-<sup>3</sup> Se risultano accettati sia l’iniziativa sia il controprogetto, è determinante l’esito della terza domanda. Entra in vigore il testo che, secondo le risposte a questa domanda, ha raccolto il maggior numero di voti del Popolo e dei Cantoni. …
+<sup>3</sup> Se risultano accettati sia l’iniziativa sia il controprogetto, è determinante l’esito della terza domanda. Entra in vigore il testo che, secondo le risposte a questa domanda, ha raccolto il maggior numero di voti del Popolo e dei Cantoni. ...
 
 III
 
@@ -3790,11 +3811,14 @@ Disposizioni
 - – in materia di sussidi 159
 - – transitorie 196, 197
 
+**Dissimulazione del viso** 10*a*
+
 **Distillati** 105, 131
 
 Divieto
 
 - – dell’arbitrio 9
+- – di dissimulare il proprio viso 10*a*
 - – dell’edificazione di minareti 72
 - – d'entrata 121
 - – di ricevere istruzioni 161
@@ -5526,6 +5550,10 @@ Vigilanza
 **Violazione** dei diritti
 
 - – Controversie di competenza del Tribunale federale 189
+
+Viso
+
+- – divieto di dissimulare il proprio - 10*a*
 
 Vita
 
