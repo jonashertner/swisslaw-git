@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-02-25
+version: 2021-03-08
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210225/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210225-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210308/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210308-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210308/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210225/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 25. Februar 2021)
+vom 27. Januar 2021 (Stand am 8. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -210,7 +210,7 @@ Von der Testpflicht nach Artikel 7 ebenfalls ausgenommen sind:
 
 Wer gemäss dieser Verordnung verpflichtet ist, sich in Einreisequarantäne zu begeben, muss die Einreise innerhalb von zwei Tagen der zuständigen kantonalen Behörde melden und die Anweisungen dieser Behörde befolgen.
 
-## 4*a*. Abschnitt:**** Besondere Pflichten der Luftverkehrsunternehmen
+## 4*a*. Abschnitt: Besondere Pflichten der Luftverkehrsunternehmen
 
 [^sec4a-1]
 
@@ -290,7 +290,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. Febr. 2021, in Kraft seit 25. Febr. 2021 ([AS 2021 108](https://fedlex.data.admin.ch/eli/oc/2021/108)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. Febr. 2021, in Kraft seit 8. März 2021 ([AS 2021 111](https://fedlex.data.admin.ch/eli/oc/2021/111)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
@@ -299,9 +299,15 @@ Albanien
 
 Andorra
 
+Antigua und Barbuda
+
 Bahrain
 
+Barbados
+
 Brasilien
+
+Chile
 
 Estland
 
@@ -309,19 +315,29 @@ Irland
 
 Israel
 
+Kuwait
+
 Lettland
 
 Libanon
 
 Litauen
 
+Luxemburg
+
+Malediven
+
 Malta
+
+Moldawien
 
 Monaco
 
 Montenegro
 
 Königreich der Niederlande
+
+Peru
 
 Portugal
 
@@ -364,19 +380,27 @@ Gebiete in Frankreich:
 - – Region Nouvelle-Aquitaine
 - – Region Occitanie
 - – Region Pays de la Loire
-- – Region Provence-Alpes-Côte d'Azur
+- – Region Provence-Alpes-Côte d’Azur
 
 Gebiete in Italien:
 
+- – Region Abruzzen
 - – Region Apulien
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien
+- – Region Kampanien
+- – Region Ligurien
 - – Region Marken
+- – Region Molise
+- – Region Toskana
 - – Region Umbrien
 
 Gebiete in Österreich:
 
+- – Land Kärnten
+- – Land Niederösterreich
 - – Land Salzburg
+- – Land Steiermark
 
 Anhang 2
 

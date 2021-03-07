@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-02-25
+version: 2021-03-08
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210225/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210225-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210308/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210308-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210308/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210225/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 25 février 2021)
+du 27 janvier 2021 (Etat le 8 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -282,7 +282,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 fév. 2021, en vigueur depuis le 25 fév. 2021 ([RO 2021 108](https://fedlex.data.admin.ch/eli/oc/2021/108)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 fév. 2021, en vigueur depuis le 8 mars 2021 ([RO 2021 111](https://fedlex.data.admin.ch/eli/oc/2021/111)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
@@ -293,9 +293,15 @@ Albanie
 
 Andorre
 
+Antigua et Barbuda
+
 Bahreïn
 
+Barbade
+
 Brésil
+
+Chili
 
 Émirats arabes unis
 
@@ -309,17 +315,27 @@ Irlande
 
 Israël
 
+Koweït
+
 Lettonie
 
 Liban
 
 Lituanie
 
+Luxembourg
+
+Maldives
+
 Malte
+
+Moldova
 
 Monaco
 
 Monténégro
+
+Pérou
 
 Portugal
 
@@ -360,15 +376,23 @@ Zones en France:
 
 Zones en Italie:
 
+- – Regione Abruzzo
+- – Regione Campania
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
+- – Regione Liguria
 - – Regione Marche
+- – Regione Molise
 - – Regione Puglia
+- – Regione Toscana
 - – Regione Umbria
 
 Zones en Autriche:
 
+- – Land Kärnten
+- – Land Niederösterreich
 - – Land Salzburg
+- – Land Steiermark
 
 Annexe 2
 
