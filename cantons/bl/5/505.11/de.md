@@ -4,13 +4,13 @@ number: "505.11"
 title: Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit Covid-19
 short: Härtefallverordnung BL
 language: de
-version: 2021-02-12
-valid_until: 2021-03-08
-version_adopted: 2021-02-12
+version: 2021-03-09
+valid_until: 2021-03-31
+version_adopted: 2021-03-09
 adopted: 2021-01-26
 in_force: 2021-01-29
 url: "https://bl.clex.ch/app/de/texts_of_law/505.11"
-pdf: "https://bl.clex.ch/api/de/versions/2913/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2941/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/2913/pdf_file"
 
 (Härtefallverordnung BL)
 
-Vom 26.01.2021 (Stand 12.02.2021)
+Vom 26.01.2021 (Stand 09.03.2021)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -83,11 +83,23 @@ beschliesst:
 
 <sup>4</sup> Es gelten die Mindestanforderungen und Höchstgrenzen gemäss Art. 2–4 und Art. 8 Abs. 2 und 4 der Covid-19-Härtefallverordnung des Bundes.
 
+#### § 4a
+
+**Branchenzugehörigkeit**
+
+<sup>1</sup> Die Branchenzugehörigkeit des antragstellenden Unternehmens richtet sich nach dem Eintrag im Betriebs- und Unternehmensregister (BUR) des Bundesamtes für Statistik.
+
+#### § 4b
+
+**Erhöhung des maximalen Beitrags**
+
+<sup>1</sup> Eine Erhöhung des maximalen Beitrags gemäss Art. 8 Abs. 2<sup>bis</sup> der Covid-19-Härtefallverordnung des Bundes ist nur möglich, wenn das antragstellende Unternehmen in einem Sanierungskonzept über 4 Jahre aufzeigen kann, dass das Unternehmen gewinnbringend betrieben werden kann.
+
 #### § 5
 
 **Vermögens- und Kapitalsituation**
 
-<sup>1</sup> In Bezug auf Art. 4 Abs. 1 der Covid-19-Härtefallverordnung des Bundes gilt für Rückerstattungen oder für Darlehen an Eigentümer oder an ausländische Gruppengesellschaften eine Wesentlichkeitsgrenze von maximal 10 % des A-fonds-perdu-Beitrags, jedoch maximal CHF 10'000.–.
+<sup>1</sup> In Bezug auf Art. 4 Abs. 1 der Covid-19-Härtefallverordnung des Bundes gilt für Rückerstattungen oder für Darlehen an Eigentümer oder an ausländische Gruppengesellschaften eine Wesentlichkeitsgrenze von maximal 10 % des A-fonds-perdu-Beitrags.
 
 #### § 6
 
