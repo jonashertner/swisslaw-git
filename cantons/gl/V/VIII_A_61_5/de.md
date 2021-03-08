@@ -4,13 +4,13 @@ number: VIII A/61/5
 title: Verordnung zum Spezialfonds Härtefallunterstützungen für Unternehmen im Zusammenhang mit der Covid-19-Pandemie
 short: "kantonale Härtefallverordnung, kHFV"
 language: de
-version: 2021-02-01
-valid_until: 2021-03-08
-version_adopted: 2021-02-01
+version: 2021-03-09
+valid_until: 2021-04-26
+version_adopted: 2021-03-09
 adopted: 2022-03-15
 in_force: 2022-04-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.61.5"
-pdf: "https://gesetze.gl.ch/api/de/versions/2223/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2229/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2223/pdf_file"
 
 (kantonale Härtefallverordnung, kHFV)
 
-Vom 22.12.2020 (Stand 01.02.2021)
+Vom 22.12.2020 (Stand 09.03.2021)
 
 Der Regierungsrat,
 
@@ -43,7 +43,7 @@ erlässt:
 
 - a. die Voraussetzungen gemäss dem zweiten Abschnitt der Covid-19-Härtefallverordnung erfüllen;
 - b. spätestens seit dem 1. Oktober 2020 ihren Sitz im Kanton Glarus haben;
-- c. im Kanton Glarus eine operative Geschäftstätigkeit ausüben, sodass ein signifikanter Lohnkostenanteil im Kanton Glarus anfällt;
+- c. …
 - d. keine substantiellen Betreibungen aufweisen;
 - e. einer solchen Unterstützung zur Fortsetzung ihrer unternehmerischen oder betrieblichen Tätigkeit bedürfen; und
 - f. entweder im Sinne von Artikel 5b Covid-19-Härtefallverordnung als geschlossen gelten oder aber von einem Umsatzrückgang nach Artikel 5 Covid-19-Härtefallverordnung betroffen sind und einer der folgenden Branchen angehören:
@@ -60,21 +60,21 @@ erlässt:
 
 #### Art. 3
 
-**Beitragsart und -höhe**
+**Unterstützungsbeiträge**
 
-<sup>1</sup> Die Unterstützung wird in Form nicht rückzahlbarer Beiträge im Rahmen der bei Eintritt der Rechtskraft der jeweiligen Entscheide verfügbaren Mittel gewährt.
+<sup>1</sup> Die Unterstützungsbeiträge sollen die ungedeckten Fixkosten abgelten und werden in Form nicht rückzahlbarer Beiträge im Rahmen der bei Eintritt der Rechtskraft der jeweiligen Entscheide verfügbaren Mittel gewährt.
 
 <sup>2</sup> Die Berechnung des individuellen Härtefallbeitrags (H) richtet sich nach folgender Formel (in Franken), wobei höchstens der jeweils tiefste Betrag zur Auszahlung gelangt:
 
-H = 0.5 (A1 + A2) - B - C - D - E ≤ 0.05 (A1 + A2) ≤ 500 000 ≤ 40 000 pro VZÄ
+H = 0.5 (A1 + A2) - B - C - D - E ≤ 0.1 (A1 + A2) ≤ 750 000 ≤ 80 000 pro VZÄ
 
 <sup>2a</sup> Für Unternehmen nach Artikel 5b Covid-19-Härtefallverordnung gilt folgende Formel (in Franken), wobei höchstens der jeweils tiefste Betrag zur Auszahlung gelangt:
 
-H = 0.5 (A1 + A2) ≤ 0.025 (A1 + A2) ≤ 250 000 ≤ 20 000 pro VZÄ
+H = 0.025 (A1 + A2) ≤ 750 000 ≤ 40 000 pro VZÄ
 
 <sup>2b</sup> Unter den Voraussetzungen nach Artikel 8 Absatz 2<sup>bis</sup> Covid-19-Härtefallverordnung gilt folgende Formel (in Franken), wobei höchstens der jeweils tiefste Betrag zur Auszahlung gelangt:
 
-H = 0.5 (A1 + A2) - B - C - D - E - F ≤ 0.1 (A1 + A2) ≤ 1 500 000 ≤ 40 000 pro VZÄ
+H = 0.5 (A1 + A2) - B - C - D - E - F ≤ 0.1 (A1 + A2) ≤ 1 500 000 ≤ 80 000 pro VZÄ
 
 <sup>3</sup> Für die Formeln in den Absätzen 2–2b gilt:
 
@@ -89,7 +89,7 @@ H = 0.5 (A1 + A2) - B - C - D - E - F ≤ 0.1 (A1 + A2) ≤ 1 500 000 ≤ 40 000
 
 <sup>4</sup> …
 
-<sup>4a</sup> Für Unternehmen, welche bereits vor dem 18. Januar 2021 von einer behördlichen Schliessung betroffen wurden und diese Massnahme besonders hart trifft, kann der Wert pro VZÄ bis höchstens 40 000 und der Beitragssatz bis zehn Prozent erhöht werden.
+<sup>4a</sup> Für Unternehmen, welche bereits vor dem 18. Januar 2021 von einer behördlichen Schliessung betroffen wurden und diese Massnahme besonders hart trifft, kann abweichend von Absatz 2a der Wert pro VZÄ bis höchstens 80 000 und der Beitragssatz bis zwanzig Prozent erhöht werden.
 
 <sup>5</sup> Es besteht weder Anspruch auf Unterstützung noch auf vollständige Ausschöpfung des sich nach diesem Artikel ergebenden Beitrags.
 
@@ -135,9 +135,9 @@ H = 0.5 (A1 + A2) - B - C - D - E - F ≤ 0.1 (A1 + A2) ≤ 1 500 000 ≤ 40 000
 
 **Missbrauchbekämpfung**
 
-<sup>1</sup> Der Kanton führt Stichproben durch, namentlich zur Mittelverwendung nach Artikel 6 Covid-19-Härtefallverordnung.
+<sup>1</sup> Die kantonale Finanzkontrolle führt laufend Stichproben durch. Sie kann Hilfspersonen beiziehen. Dabei überprüft sie die Gesuchunterlagen vertieft und namentlich auch die Mittelverwendung nach Artikel 6 Covid-19-Härtefallverordnung.
 
-<sup>2</sup> Der Kanton kann Beiträge zurückfordern, namentlich wenn:
+<sup>2</sup> Sie kann Beiträge zurückfordern, namentlich wenn:
 
 - a. sich Gesuchangaben als unrichtig oder unvollständig erweisen;
 - b. der Gesuchsteller seine Mittel entgegen der eigenen Bestätigung oder entgegen den Vorgaben der Covid-19-Härtefallverordnung verwendet.
