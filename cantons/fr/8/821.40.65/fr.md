@@ -4,13 +4,13 @@ number: "821.40.65"
 title: Ordonnance sur les mesures économiques destinées à lutter contre les effets du coronavirus dans le domaine des médias
 short: MEM COVID-19
 language: fr
-version: 2020-09-11
-valid_until: 2021-03-08
-version_adopted: 2020-09-01
+version: 2021-03-09
+valid_until: 2022-01-31
+version_adopted: 2021-03-09
 adopted: 2020-05-05
 in_force: 2020-05-08
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.65"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6587/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6788/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ COVID-19, mesures économiques dans le domaine des médias - O
 
 (MEM COVID-19)
 
-du 05.05.2020 (version entrée en vigueur le 11.09.2020)
+du 05.05.2020 (version entrée en vigueur le 09.03.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -128,6 +128,24 @@ Arrête:
 
 <sup>4</sup> En remplissant la formule de demande, les requérants autorisent le SG-DEE à échanger toutes les données contenues dans leurs demandes avec d'autres autorités publiques (fédérales, cantonales et communales) qu'ils délient de leur secret de fonction, bancaire et fiscal, en relation avec le traitement de ces données.
 
+#### Art. 4a
+
+**Prolongation de la contribution à fonds perdu**
+
+<sup>1</sup> En complément aux articles 3 et 4 ci-avant, les conditions d'octroi et les modalités de traitement des demandes de contributions en raison de la prolongation sont les suivantes:
+
+- a) étendue de l'aide pour 2021: l'Etat prend en charge 50 % des pertes publicitaires par rapport à l'exercice 2019 pour la même période, compensées par d'éventuels revenus supplémentaires dus à une hausse des abonnements;
+- b) demande unique: un bénéficiaire ne peut formuler qu'une seule demande pour l'ensemble des titres qu'il fait paraître et distribue sur le territoire cantonal;
+- c) délai de dépôt des demandes: les demandes doivent être déposées au plus tard
+  - 1\. jusqu'au 30 avril 2021 pour le 1<sup>er</sup> trimestre 2021;
+  - 2\. jusqu'au 31 juillet 2021 pour le 2<sup>e</sup> trimestre 2021;
+  - 3\. jusqu'au 31 octobre 2021 pour le 3<sup>e</sup> trimestre 2021;
+  - 4\. jusqu'au 31 janvier 2022 pour le 4<sup>e</sup> trimestre 2021.
+
+<sup>2</sup> Ces conditions d'octroi et modalités s'appliquent aussi bien pour la presse écrite que pour les médias radiodiffusés et télédiffusés.
+
+<sup>3</sup> En fonction de l'évolution des situations épidémique et économique et de la levée de l'état extraordinaire au sens de l'article 117 Cst., le Conseil d'Etat se réserve d'interrompre la mesure ou d'abroger les chiffres 2, 3 et/ou 4 de l'alinéa 1 let. c du présent article.
+
 #### Art. 5
 
 **Divers**
@@ -143,5 +161,7 @@ Arrête:
 <sup>1</sup> Pour autant qu'elle est approuvée par le Grand Conseil, la présente ordonnance reste en vigueur aussi longtemps que des mesures d'exécution sont nécessaires à sa mise en œuvre. Le Conseil d'Etat procède à son abrogation formelle dès que cette mise en œuvre est achevée.
 
 <sup>2</sup> A défaut d'approbation par le Grand Conseil, elle expire au terme du délai d'une année prévu par l'article 117 Cst.
+
+<sup>3</sup> Les alinéas 1 et 2 du présent article s'appliquent à l'article 4a de la présente ordonnance à compter de l'entrée en vigueur des modifications y liées.
 
 2020\_051

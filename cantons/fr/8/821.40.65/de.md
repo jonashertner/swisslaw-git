@@ -4,13 +4,13 @@ number: "821.40.65"
 title: Verordnung über die wirtschaftlichen Massnahmen zur Abfederung der Auswirkungen des Coronavirus im Bereich der Medien
 short: WMME-COVID-19
 language: de
-version: 2020-09-11
-valid_until: 2021-03-08
-version_adopted: 2020-09-01
+version: 2021-03-09
+valid_until: 2022-01-31
+version_adopted: 2021-03-09
 adopted: 2020-05-05
 in_force: 2020-05-08
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.65"
-pdf: "https://bdlf.fr.ch/api/de/versions/6587/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6788/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ COVID-19, wirtschaftliche Massnahmen im Bereich der Medien - V
 
 (WMME-COVID-19)
 
-vom 05.05.2020 (Fassung in Kraft getreten am 11.09.2020)
+vom 05.05.2020 (Fassung in Kraft getreten am 09.03.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -128,6 +128,24 @@ beschliesst:
 
 <sup>4</sup> Mit dem Ausfüllen des Gesuchformulars ermächtigen die Gesuchstellerinnen und Gesuchsteller das GS-VWD, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden (Bund, Kanton und Gemeinde) auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
 
+#### Art. 4a
+
+**Verlängerung des A-fonds-perdu-Beitrags**
+
+<sup>1</sup> In Ergänzung von Artikel 3 und 4 gelten die folgenden Bedingungen für die Gewährung der Beiträge und die Modalitäten für die Bearbeitung der Gesuche infolge der Verlängerung:
+
+- a) Umfang des Beitrags für 2021: Der Staat übernimmt 50 % der gegenüber dem Jahr 2019 weggefallenen Werbeeinnahmen nach Kompensation allfälliger Mehreinnahmen aus dem Verkauf zusätzlicher Abonnemente;
+- b) Einmaliges Gesuch: Ein Empfänger kann nur ein Gesuch stellen, das für alle auf dem Kantonsgebiet ausgetragenen Zeitungen gilt;
+- c) Frist für die Gesuchstellung: Die Gesuche sind spätestens einzureichen bis:
+  - 1\. 30. April 2021, für das 1. Quartal 2021;
+  - 2\. 31. Juli 2021, für das 2. Quartal 2021;
+  - 3\. 31. Oktober 2021, für das 3. Quartal 2021;
+  - 4\. 31. Januar 2022, für das 4. Quartal 2021.
+
+<sup>2</sup> Diese Bedingungen und Modalitäten für die Gewährung der Beiträge gelten sowohl für die Printmedien als auch für die Radio- und Fernsehveranstalter.
+
+<sup>3</sup> Der Staatsrat behält sich das Recht vor, je nach epidemiologischer und wirtschaftlicher Lage und dem Zeitpunkt, zu dem die ausserordentliche Lage im Sinne von Artikel 117 KV aufgehoben wird, die Massnahme abzubrechen beziehungsweise Absatz 1 Bst. c Ziff. 2, 3, und/oder 4 aufzuheben.
+
 #### Art. 5
 
 **Verschiedenes**
@@ -143,5 +161,7 @@ beschliesst:
 <sup>1</sup> Vorausgesetzt, dass diese Verordnung vom Grossen Rat genehmigt wird, bleibt sie so lange in Kraft, wie für ihre Umsetzung Durchführungsmassnahmen erforderlich sind. Der Staatsrat hebt sie formell auf, sobald diese Umsetzung abgeschlossen ist
 
 <sup>2</sup> Wird sie vom Grossen Rat nicht genehmigt, so läuft sie am Ende der Frist von einem Jahr nach Artikel 117 KV aus.
+
+<sup>3</sup> Die Absätze 1 und 2 dieses Artikels gelten für Artikel 4a ab Inkrafttreten der mit ihm eingeführten Änderungen.
 
 2020\_051
