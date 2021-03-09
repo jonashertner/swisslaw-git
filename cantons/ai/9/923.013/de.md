@@ -1,29 +1,29 @@
 ---
 canton: AI
 number: "923.013"
-title: Standeskommissionsbeschluss über die Fischerei 2020
+title: Standeskommissionsbeschluss über die Fischerei 2021
 short: StKB Fischerei
 language: de
-version: 2020-02-10
-valid_until: 2021-03-09
-version_adopted: 2020-02-04
+version: 2021-03-10
+valid_until: 2022-02-28
+version_adopted: 2021-03-02
 adopted: 2020-02-04
 in_force: 2020-02-10
 url: "https://ai.clex.ch/app/de/texts_of_law/923.013"
-pdf: "https://ai.clex.ch/api/de/versions/1818/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über die Fischerei 2020
+# Standeskommissionsbeschluss über die Fischerei 2021
 
 (StKB Fischerei)
 
-vom 04.02.2020 (Stand 10.02.2020)
+vom 04.02.2020 (Stand 10.03.2021)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
-gestütz auf Art. 2 Abs. 1 der Fischereiverordnung vom 28. Oktober 1996 (FischV),
+gestützt auf Art. 2 Abs. 1 der Fischereiverordnung vom 28. Oktober 1996 (FischV),
 
 beschliesst:
 
@@ -33,11 +33,11 @@ beschliesst:
 
 **Fangzeiten**
 
-<sup>1</sup> In Fliessgewässern kann vom 11. April bis am 12. September gefischt werden.
+<sup>1</sup> In Fliessgewässern kann vom 10. April bis am 11. September gefischt werden.
 
-<sup>2</sup> In den Bergseen kann vom 11. April bis am 26. September gefischt werden.
+<sup>2</sup> In den Bergseen kann vom 10. April bis am 25. September gefischt werden.
 
-<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 1. Mai bis am 12. September gefischt werden.
+<sup>3</sup> Mit Wochen- und Tagespatenten kann vom 1. Mai bis am 11. September gefischt werden.
 
 ## II. Mindestmasse und Fangzahlen
 
@@ -92,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Als Schongewässer, in denen jeder Fischfang verboten ist, gelten:
 
-- a. die Schwarz und der Kronbach bis zur Kantonsgrenze mit sämtlichen Nebengewässern, ausser dem Wissbach;
+- a. die Schwarz bis zur Bahnbrücke beim Neffenmoos mit sämtlichen Nebengewässern;
 - b. der Mühlelibach im Unterrain bis zur Einmündung in die Sitter;
 - c. das Rosenbächli bis zur Einmündung in den Kaubach;
 - d. die Sitter zwischen dem Brauereiwuhr und dem Mettlenwuhr;
