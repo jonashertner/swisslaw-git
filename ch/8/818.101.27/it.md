@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-03-08
+version: 2021-03-11
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210308/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210308-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210308/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210311/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210311-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210308/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 8 marzo 2021)
+del 27 gennaio 2021 (Stato 11 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -284,7 +284,7 @@ Allegato 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 24 feb. 2021, in vigore dall’8 mar. 2021 ([RU 2021 111](https://fedlex.data.admin.ch/eli/oc/2021/111)).
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFI del 10 mar. 2021, in vigore dall’11 mar. 2021 ([RU 2021 139](https://fedlex.data.admin.ch/eli/oc/2021/139)).
 [^annex1-lvlu1-1]: Uno Stato che figura nell’elenco comprende tutte le sue regioni, isole e regioni d’oltremare, anche se queste non sono elencate separatamente.
 
 ### 1. Stati e regioni
@@ -331,17 +331,13 @@ Monaco
 
 Montenegro
 
-Paesi Bassi
+Paesi Bassi (Regno dei)
 
 Perù
-
-Portogallo
 
 Repubblica Ceca
 
 Regno Unito
-
-Saint Vincent e Grenadine
 
 San Marino
 
@@ -351,17 +347,15 @@ Seicelle
 
 Serbia
 
-Svezia
-
 Slovacchia
 
 Slovenia
 
-Spagna
-
 Sudafrica
 
 Stati Uniti
+
+Svezia
 
 ### 2. Regioni degli Stati limitrofi
 
