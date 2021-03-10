@@ -3,18 +3,18 @@ sr: "442.131"
 title: Verordnung des EDI vom 29. Oktober 2020 über das Förderungskonzept zum Programm «Jugend und Musik»
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/999"
 language: de
-version: 2021-01-01
+version: 2021-03-11
 adopted: 2020-10-29
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210311/de/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210311-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210311/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des EDI über das Förderungskonzept zum Programm «Jugend und Musik»
 
-vom 29. Oktober 2020 (Stand am 1. Januar 2021)
+vom 29. Oktober 2020 (Stand am 11. März 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -164,7 +164,9 @@ Wer J+M-Kurse oder -Lager anbieten will (Trägerschaft), muss:
 - b. nach schweizerischem oder liechtensteinischem Recht konstituiert sein;
 - c. seinen Sitz in der Schweiz oder in Liechtenstein haben.
 
-<sup>2</sup> Musikschulen und Schulen können nur Beiträge für Kurse und Lager erhalten, die ausserhalb des ordentlichen Unterrichts stattfinden.
+<sup>2</sup> Musikschulen und Schulen können nur Beiträge für Kurse und Lager erhalten, die ausserhalb des ordentlichen Unterrichts stattfinden.[^12-1]
+
+[^12-1]: Die Berichtigung vom 11. März 2021 betrifft nur den französischen Text ([AS 2021 141](https://fedlex.data.admin.ch/eli/oc/2021/141)).
 
 #### Art. 13
 

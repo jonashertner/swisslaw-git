@@ -3,18 +3,18 @@ sr: "442.131"
 title: Ordinanza del DFI del 29 ottobre 2020 concernente il regime di promozione in favore del programma Gioventù e Musica
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/999"
 language: it
-version: 2021-01-01
+version: 2021-03-11
 adopted: 2020-10-29
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210311/it/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210311-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210311/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza del DFI concernente il regime di promozione in favore del programma Gioventù e Musica
 
-del 29 ottobre 2020 (Stato 1° gennaio 2021)
+del 29 ottobre 2020 (Stato 11 marzo 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -164,7 +164,9 @@ Chi intende proporre corsi o campi G+M (ente promotore) deve:
 - b. essere costituito secondo il diritto svizzero o del Liechtenstein;
 - c. avere la propria sede in Svizzera o nel Liechtenstein.
 
-<sup>2</sup> Le scuole di musica e le scuole possono ricevere contributi soltanto per corsi e campi che si tengono al di fuori del normale orario scolastico.
+<sup>2</sup> Le scuole di musica e le scuole possono ricevere contributi soltanto per corsi e campi che si tengono al di fuori del normale orario scolastico.[^12-1]
+
+[^12-1]: La correzione dell’11 mar. 2021 concerne soltanto il testo francese ([RU 2021 141](https://fedlex.data.admin.ch/eli/oc/2021/141)).
 
 #### Art. 13
 

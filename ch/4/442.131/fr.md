@@ -3,18 +3,18 @@ sr: "442.131"
 title: "Ordonnance du DFI du 29 octobre 2020 instituant un régime d'encouragement relatif au programme «Jeunesse et Musique»"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/999"
 language: fr
-version: 2021-01-01
+version: 2021-03-11
 adopted: 2020-10-29
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/999/20210311/fr/xml/fedlex-data-admin-ch-eli-cc-2020-999-20210311-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/999/20210311/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du DFI instituant un régime d’encouragement relatif au programme «Jeunesse et Musique»
 
-du 29 octobre 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 29 octobre 2020 (État le 11 mars 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -164,7 +164,9 @@ Quiconque entend proposer des cours ou des camps J+M (organisateur) doit:
 - b. être constitué conformément au droit suisse ou liechtensteinois;
 - c. avoir son siège en Suisse ou au Liechtenstein.
 
-<sup>2</sup> Les écoles de musique et les écoles ne peuvent recevoir des contributions de l’OFC que pour des camps qui ont lieu en dehors de l’enseignement scolaire.
+<sup>2</sup> Les écoles de musique et les écoles ne peuvent recevoir des contributions de l’OFC que pour des cours et des camps qui ont lieu en dehors de l’enseignement scolaire.[^12-1]
+
+[^12-1]: Erratum du 11 mars 2021 ([RO 2021 141](https://fedlex.data.admin.ch/eli/oc/2021/141)).
 
 #### Art. 13
 
@@ -206,7 +208,7 @@ Si les inscriptions des organisateurs dépassent les moyens financiers disponibl
 - b. contingents par domaine musical;
 - c. contingents selon l’âge des participants.
 
-## Section 5 Secrérariat J+M
+## Section 5 Secrétariat J+M
 
 #### Art. 17
 
