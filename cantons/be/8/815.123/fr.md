@@ -4,13 +4,13 @@ number: "815.123"
 title: Ordonnance sur les mesures destinées à lutter contre l’épidémie de COVID-19
 short: O COVID-19
 language: fr
-version: 2021-03-01
-valid_until: 2021-03-10
-version_adopted: 2021-02-25
+version: 2021-03-11
+valid_until: 2021-03-21
+version_adopted: 2021-03-03
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2158/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2245/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2158/pdf_file"
 
 (O COVID-19)
 
-du 04.11.2020 (état au 01.03.2021)
+du 04.11.2020 (état au 11.03.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -203,15 +203,17 @@ arrête:
 
 <sup>2</sup> Les personnes détenues qui observent une quarantaine sont autorisées à quitter leur cellule une heure par jour pour prendre l'air.
 
+<sup>3</sup> Au surplus, les dispositions de l'ordonnance COVID-19 situation particulière sur la quarantaine-contact s'appliquent par analogie.
+
 #### Art. 16d
 
 **Visites**
 
-<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont interdites à l'exception des visites d'avocats et d'avocates derrière une vitre de séparation.
+<sup>1</sup> Les visites au sein des établissements d'exécution au sens des articles 6 à 10 et 13 OEJ sont admises dans le respect de mesures de protection, notamment vitres de séparation, masques d'hygiène et règles de distance, et sous réserve de l'alinéa 2.
 
-<sup>2</sup> Chaque direction d'établissement d'exécution peut autoriser à titre exceptionnel d'autres visites officielles.
+<sup>2</sup> L'établissement d'exécution peut diminuer le contingent de visites découlant de l'article 68, alinéa 1 OEJ pour des raisons d'organisation.
 
-<sup>3</sup> Pour que les personnes détenues restent en contact avec l'extérieur, l'Office de l'exécution judiciaire peut prévoir des mesures de remplacement comme la visioconférence qui peuvent être comptabilisées dans le contingent de visites.
+<sup>3</sup> Afin de compenser une diminution du contingent de visites, l'Office de l'exécution judiciaire prévoit des mesures de remplacement comme la visioconférence qui peuvent être comptabilisées dans le contingent de visites.
 
 #### Art. 16e
 

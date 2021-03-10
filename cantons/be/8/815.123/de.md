@@ -4,13 +4,13 @@ number: "815.123"
 title: Verordnung über Massnahmen zur Bekämpfung der Covid-19-Epidemie
 short: Covid-19 V
 language: de
-version: 2021-03-01
-valid_until: 2021-03-10
-version_adopted: 2021-02-25
+version: 2021-03-11
+valid_until: 2021-03-21
+version_adopted: 2021-03-03
 adopted: 2020-11-04
 in_force: 2020-11-05
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/815.123"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2158/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2245/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2158/pdf_file"
 
 (Covid-19 V)
 
-vom 04.11.2020 (Stand 01.03.2021)
+vom 04.11.2020 (Stand 11.03.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -203,15 +203,17 @@ beschliesst:
 
 <sup>2</sup> Eingewiesene Personen, die sich in Quarantäne befinden, können sich während einer Stunde am Tag ausserhalb ihrer Zelle an der frischen Luft aufhalten.
 
+<sup>3</sup> Im Übrigen gelten die Bestimmungen zur Kontaktquarantäne gemäss Covid-19-Verordnung besondere Lage sinngemäss.
+
 #### Art. 16d
 
 **Besuche**
 
-<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind untersagt, mit Ausnahme von Besuchen hinter einer Trennscheibe von Anwältinnen und Anwälten.
+<sup>1</sup> Besuche in den Vollzugseinrichtungen gemäss Artikel 6 bis 10 und 13 JVV sind unter Einhaltung von Schutzmassnahmen, namentlich Trennscheiben, Hygienemasken und Abstandsregeln, und unter Vorbehalt von Absatz 2 zulässig.
 
-<sup>2</sup> Die Leitung der Vollzugseinrichtung kann ausnahmsweise andere amtliche Besuche genehmigen.
+<sup>2</sup> Das Besuchskontingent gemäss Artikel 68 Absatz 1 JVV kann aus organisatorischen Gründen von der Vollzugseinrichtung eingeschränkt werden.
 
-<sup>3</sup> Das Amt für Justizvollzug kann zur Aufrechterhaltung der Beziehungen zur Aussenwelt Ersatzmassnahmen vorsehen wie Videotelefonie, die an das Besuchskontingent angerechnet werden kann.
+<sup>3</sup> Das Amt für Justizvollzug sieht zum Ausgleich von Beschränkungen des Besuchskontingents Ersatzmassnahmen vor wie Videotelefonie, die an das Besuchskontingent angerechnet werden können.
 
 #### Art. 16e
 
