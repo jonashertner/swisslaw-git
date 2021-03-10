@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 20. Mai 2015 über die Verkehrsregeln für Luftfa
 short: VRV-L
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/326"
 language: de
-version: 2019-01-01
+version: 2021-03-11
 adopted: 2015-05-20
 in_force: 2015-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20190101/de/xml/fedlex-data-admin-ch-eli-cc-2015-326-20190101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20210311/de/xml/fedlex-data-admin-ch-eli-cc-2015-326-20210311-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20210311/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/de"
 
 (VRV-L)
 
-vom 20. Mai 2015 (Stand am 1. Januar 2019)
+vom 20. Mai 2015 (Stand am 11. März 2021)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
@@ -52,7 +52,7 @@ Die Verkehrsregeln nach dieser Verordnung gelten für den Luftraum der Schweiz.
 
 <sup>1</sup> Für die Militärluftfahrzeuge gilt diese Verordnung nicht; für sie gelten die vom Kommando der Luftwaffe im Einvernehmen mit dem Bundesamt für Zivilluftfahrt (BAZL) gestützt auf Artikel 107 des Luftfahrtgesetzes vom 21. Dezember 1948[^3-1] erlassenen Vorschriften.
 
-<sup>2</sup> Für Fallschirmabsprünge, Drachen, Drachenfallschirme, Fesselballone und unbemannte Luftfahrzeuge gilt diese Verordnung mit Ausnahme von Artikel 9 nicht; für sie gilt die Verordnung des UVEK vom 24. November 1994[^3-2] über Luftfahrzeuge besonderer Kategorien.
+<sup>2</sup> Für Fallschirmabsprünge, Drachen, Drachenfallschirme, Fesselballone und unbemannte Luftfahrzeuge gilt diese Verordnung mit Ausnahme von Artikel 9 nicht; für sie gilt die Verordnung des UVEK vom 24. November 1994[^3-2] über Luftfahrzeuge besonderer Kategorien.[^3-3]
 
 <sup>3</sup> Für Hängegleiter und für Hängegleiter mit elektrischem Antrieb gelten die Verkehrsregeln für Segelflugzeuge, soweit nicht die Verordnung vom 24. November 1994 über Luftfahrzeuge besonderer Kategorien etwas anderes bestimmt.
 
@@ -60,6 +60,7 @@ Die Verkehrsregeln nach dieser Verordnung gelten für den Luftraum der Schweiz.
 
 [^3-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^3-2]: [SR 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
+[^3-3]: Die Berichtigung vom 11. März 2021 betrifft nur den französischen Text ([AS 2021 143](https://fedlex.data.admin.ch/eli/oc/2021/143)).
 
 #### Art. 4
 
@@ -294,7 +295,7 @@ Wird bei einem Flug unter Instrumentenwetterbedingungen die Funkverbindung unter
 
 <sup>3</sup> Gilt die Freigabe für Flughöhen nur für einen Teil der Flugstrecke, so sind die zuletzt zugewiesenen und bestätigten Flughöhen bis zu den in der Freigabe genannten Punkten beizubehalten. Anschliessend sind die Reiseflughöhen des eingereichten Flugplans einzuhalten.
 
-<sup>4</sup> …[^22-1]
+<sup>4</sup> ...[^22-1]
 
 <sup>5</sup> Vorbehalten bleiben die im Luftfahrthandbuch[^22-2] veröffentlichten besonderen örtlichen Verfahren.
 
@@ -311,7 +312,7 @@ Wird bei einem Flug unter Instrumentenwetterbedingungen die Funkverbindung unter
 
 <sup>1</sup> Bei Tag sind Sichtflüge so durchzuführen, dass mit Ausnahme der Absätze 3 und 4 die Mindestwerte für Flugsicht und Abstand von Wolken gemäss SERA.5001 eingehalten werden.[^23-1]
 
-<sup>2</sup> …[^23-2]
+<sup>2</sup> ...[^23-2]
 
 <sup>3</sup> Im Luftraum der Klasse G ist der Flug ausserhalb von Wolken und mit ständiger Sicht auf den Grund durchzuführen.
 
@@ -526,7 +527,7 @@ Für Instrumentenflüge gelten die folgenden Mindestflughöhen:
 
 <sup>2</sup> Die Änderung eines anderen Erlasses ist in Anhang 2 geregelt.
 
-[^32-1]: [[AS 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066), [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)Ziff. II, [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560), [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548), [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377), [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)Art. 22 Ziff. 1, [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103), [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654)[4701](https://fedlex.data.admin.ch/eli/oc/2006/723), [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150), [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)]
+[^32-1]: [[AS 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066); [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)Ziff. II; [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560); [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548); [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377); [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)Art. 22 Ziff. 1; [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905); [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103); [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654), [4701](https://fedlex.data.admin.ch/eli/oc/2006/723); [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150); [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)]
 
 #### Art. 33
 
@@ -540,7 +541,7 @@ Zum Zeitpunkt des Inkrafttretens dieser Verordnung in Luftfahrzeugen bereits ein
 
 Diese Verordnung tritt am 15. Juni 2015 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 5)
 
@@ -570,6 +571,6 @@ Anhang 2
 
 ## Änderung eines anderen Erlasses
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Die Änd. kann unter [AS 2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326)konsultiert werden.

@@ -4,11 +4,11 @@ title: Ordinanza del DATEC del 20 maggio 2015 concernente le norme di circolazio
 short: ONCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/326"
 language: it
-version: 2019-01-01
+version: 2021-03-11
 adopted: 2015-05-20
 in_force: 2015-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20190101/it/xml/fedlex-data-admin-ch-eli-cc-2015-326-20190101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20210311/it/xml/fedlex-data-admin-ch-eli-cc-2015-326-20210311-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20210311/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/it"
 
 (ONCA)
 
-del 20 maggio 2015 (Stato 1° gennaio 2019)
+del 20 maggio 2015 (Stato 11 marzo 2021)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
@@ -52,7 +52,7 @@ Le norme di circolazione ai sensi della presente ordinanza si applicano allo spa
 
 <sup>1</sup> La presente ordinanza non si applica agli aeromobili dell’aviazione militare; a questi ultimi si applicano le prescrizioni emanate dal Comando delle Forze aeree d’intesa con l’Ufficio federale dell’aviazione civile (UFAC) sulla base dell’articolo 107 della legge federale del 21 dicembre 1948[^3-1] sulla navigazione aerea.
 
-<sup>2</sup> A eccezione dell’articolo 9, la presente ordinanza non si applica ai lanci con paracadute, ai cervi volanti, ai paracadute ascensionali, ai palloni frenati e agli aeromobili senza occupanti; a essi si applica l’ordinanza del DATEC del 24 novembre 1994[^3-2] sulle categorie speciali di aeromobili.
+<sup>2</sup> A eccezione dell’articolo 9, la presente ordinanza non si applica ai lanci con paracadute, ai cervi volanti, ai paracadute ascensionali, ai palloni frenati e agli aeromobili senza occupanti; a essi si applica l’ordinanza del DATEC del 24 novembre 1994[^3-2] sulle categorie speciali di aeromobili.[^3-3]
 
 <sup>3</sup> Agli alianti da pendio e agli alianti da pendio con propulsore elettrico si applicano le norme di circolazione per gli alianti, sempre che l’ordinanza del 24 novembre 1994 sulle categorie speciali di aeromobili non stabilisca altrimenti.
 
@@ -60,6 +60,7 @@ Le norme di circolazione ai sensi della presente ordinanza si applicano allo spa
 
 [^3-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^3-2]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
+[^3-3]: La correzione dell’11 mar. 2021 concerne soltanto il testo francese ([RU 2021 143](https://fedlex.data.admin.ch/eli/oc/2021/143)).
 
 #### Art. 4
 
@@ -526,7 +527,7 @@ Per i voli strumentali valgono le seguenti quote minime di volo:
 
 <sup>2</sup> La modifica di un altro atto normativo è disciplinata nell’allegato 2.
 
-[^32-1]: [[RU 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066), [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)n. II, [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560), [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548), [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377)[2354](https://fedlex.data.admin.ch/eli/oc/1993/2354_2354_2354), [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)art. 22 n. 1, [1996 2802](https://fedlex.data.admin.ch/eli/oc/1996/2802_2802_2802), [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103), [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654)[4701](https://fedlex.data.admin.ch/eli/oc/2006/723), [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150), [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)]
+[^32-1]: [[RU 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066); [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)n. II; [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560); [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548); [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377), [2354](https://fedlex.data.admin.ch/eli/oc/1993/2354_2354_2354); [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)art. 22 n. 1; [1996 2802](https://fedlex.data.admin.ch/eli/oc/1996/2802_2802_2802); [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905); [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103); [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654), [4701](https://fedlex.data.admin.ch/eli/oc/2006/723); [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150); [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)]
 
 #### Art. 33
 
@@ -540,7 +541,7 @@ In deroga all’articolo 29, i transponder in modo A/C già installati a bordo d
 
 La presente ordinanza entra in vigore il 15 giugno 2015.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 5)
 
@@ -560,7 +561,7 @@ Allegato 1*[^t-1]*
 </table>
 
 [^annex1-lvlu1-1]: FL = Flight Level (livello di volo).
-[^annex1-lvlu1-2]: La pubblicazione può essere richiesta, a pagamento, all’Ufficio federale di topografia, 3084 Wabern e consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), 3003 Berna*.*
+[^annex1-lvlu1-2]: La pubblicazione può essere richiesta, a pagamento, all’Ufficio federale di topografia, 3084 Wabern e consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), 3003 Berna.
 [^annex1-lvlu1-3]: La Pubblicazione di informazioni aeronautiche può essere richiesta, a pagamento, a Skyguide (aipversand@skyguide.ch) e consultata gratuitamente presso l’Ufficio federale dell’aviazione civile (UFAC), 3003 Berna.
 [^annex1-lvlu1-4]: AGL = *Above Ground Level* (altezza sul livello del suolo)
 
@@ -570,6 +571,6 @@ Allegato 2
 
 ## Modifica di un altro atto normativo
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: La mod. può essere consultata alla [RU 2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326).

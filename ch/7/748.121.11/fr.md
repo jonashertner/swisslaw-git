@@ -4,11 +4,11 @@ title: "Ordonnance du DETEC du 20 mai 2015 concernant les règles de l'air appli
 short: ORA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/326"
 language: fr
-version: 2019-01-01
+version: 2021-03-11
 adopted: 2015-05-20
 in_force: 2015-06-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20190101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-326-20190101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/326/20210311/fr/xml/fedlex-data-admin-ch-eli-cc-2015-326-20210311-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20210311/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/326/20190101/fr"
 
 (ORA)
 
-du 20 mai 2015 (Etat le 1<sup>er</sup> janvier 2019)
+du 20 mai 2015 (État le 11 mars 2021)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
@@ -52,7 +52,7 @@ Les règles de l’air au sens de la présente ordonnance s’appliquent dans l�
 
 <sup>1</sup> La présente ordonnance ne s’applique pas aux aéronefs militaires, ceux-ci étant soumis aux prescriptions édictées par le commandement des Forces aériennes en accord avec l’Office fédéral de l’aviation civile (OFAC) et dans les limites de l’art. 107 de la loi fédérale du 21 décembre 1948 sur l’aviation[^3-1].
 
-<sup>2</sup> A l’exception de l’art. 9, la présente ordonnance ne s’applique pas aux cerfs-volants, aux parachutes ascensionnels, aux ballons captifs et aux aéronefs sans occupants, lesquels sont soumis à l’ordonnance du 24 novembre 1994 sur les aéronefs de catégories spéciales[^3-2].
+<sup>2</sup> À l’exception de l’art. 9, la présente ordonnance ne s’applique pas aux sauts en parachute, aux cerfs-volants, aux parachutes ascensionnels, aux ballons captifs et aux aéronefs sans occupants, lesquels sont soumis à l’ordonnance du 24 novembre 1994 sur les aéronefs de catégories spéciales[^3-2].[^3-3]
 
 <sup>3</sup> Les planeurs de pente et les planeurs de pente à propulsion électrique sont soumis aux règles de l’air applicables aux planeurs, à moins que l’ordonnance du 24 novembre 1994 sur les aéronefs de catégories spéciales n’en dispose autrement.
 
@@ -60,6 +60,7 @@ Les règles de l’air au sens de la présente ordonnance s’appliquent dans l�
 
 [^3-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^3-2]: [RS 748.941](https://fedlex.data.admin.ch/eli/cc/2022/802)
+[^3-3]: Erratum du 11 mars 2021 ([RO 2021 143](https://fedlex.data.admin.ch/eli/oc/2021/143)).
 
 #### Art. 4
 
@@ -256,7 +257,7 @@ Il y a lieu de recourir au service du contrôle de la circulation aérienne pour
 
 Par dérogation aux prescriptions en matière de séparation prévues à la règle SERA.8005, l’organe du contrôle de la circulation aérienne peut, à titre exceptionnel, délivrer une clairance à la demande d’un aéronef dans un espace aérien de classe D ou E, à condition que:
 
-- a. cet aéronef maintienne sa propre séparation dans une partie spécifique du vol en dessous de 3050 m (10 000 ft) pendant la phase de montée ou de descente, de jour et dans des conditions météorologiques de vol à vue; et que
+- a. cet aéronef maintienne sa propre séparation dans une partie spécifique du vol en dessous de 3050 m (10 000 ft) pendant la phase de montée ou de descente, de jour et dans des conditions météorologiques de vol à vue, et que
 - b. l’autre aéronef approuve la clairance.
 
 <sup>3</sup> L’OFAC peut autoriser un exploitant d’aérodrome à appliquer une procédure d’approche aux instruments sans recours au service du contrôle de la circulation aérienne si les preuves de la sécurité exigées sont fournies.
@@ -296,7 +297,7 @@ En cas de panne de l’équipement radio durant un vol effectué en conditions m
 
 <sup>3</sup> Si la clairance relative aux niveaux ne concerne qu’une partie de la route, l’aéronef sera maintenu aux derniers niveaux communiqués et confirmés jusqu’aux points spécifiés dans la clairance. Par la suite, il sera maintenu aux niveaux de croisière spécifiés dans le plan de vol déposé.
 
-<sup>4</sup> …[^22-1]
+<sup>4</sup> ...[^22-1]
 
 <sup>5</sup> Les procédures locales particulières qui figurent dans la publication d’information aéronautique[^22-2] sont réservées.
 
@@ -313,7 +314,7 @@ En cas de panne de l’équipement radio durant un vol effectué en conditions m
 
 <sup>1</sup> De jour, les vols selon les règles de vol à vue seront effectués de telle manière que les minimums de visibilité et de distance par rapport aux nuages visés à la règle SERA.5001 soient respectés, sauf exceptions prévues aux al. 3 et 4.[^23-1]
 
-<sup>2</sup> …[^23-2]
+<sup>2</sup> ...[^23-2]
 
 <sup>3</sup> Dans l’espace aérien de classe G, le vol hors des nuages s’effectue en vue permanente du sol.
 
@@ -321,7 +322,7 @@ En cas de panne de l’équipement radio durant un vol effectué en conditions m
 
 La visibilité en vol dans l’espace aérien de classe G s’élève en principe à 5000 m. Des visibilités en vol réduites, au plus, à 1500 m peuvent être autorisées pour des vols effectués:
 
-- a. à des vitesses de 140 kts IAS[^23-3], ou moins, pour laisser la possibilité de voir tout autre aéronef ou tout obstacle à temps pour éviter une collision; ou
+- a. à des vitesses de 140 kts IAS[^23-3], ou moins, pour laisser la possibilité de voir tout autre aéronef ou tout obstacle à temps pour éviter une collision, ou
 - b. dans des circonstances où la probabilité de rencontrer d’autres aéronefs serait normalement faible, par exemple dans des zones à faible densité de circulation et pour des travaux aériens à basse altitude.
 
 <sup>5</sup> Les hélicoptères peuvent voler avec une visibilité en vol de 800 m au moins s’ils volent à une vitesse qui permet de voir tout autre aéronef ou tout obstacle à temps pour éviter une collision. Les vols à des visibilités en vol inférieures à 800 m sont autorisés dans des cas particuliers tels que les vols médicaux, les vols de recherche et de sauvetage ainsi que les vols de lutte contre les incendies.
@@ -374,7 +375,7 @@ Les vols dans les nuages en planeur obéissent aux règles suivantes:
 
 <sup>2</sup>
 
-A l’intérieur de ces zones de vol à voile, dans l’espace aérien de la classe E, les planeurs observent, par dérogation à l’art. 23, al. 1, les distances minimales suivantes:
+À l’intérieur de ces zones de vol à voile, dans l’espace aérien de la classe E, les planeurs observent, par dérogation à l’art. 23, al. 1, les distances minimales suivantes:
 
 - a. une distance verticale par rapport aux nuages de 50 m au moins;
 - b. une distance horizontale par rapport aux nuages de 100 m au moins.
@@ -442,7 +443,7 @@ Dans la mesure où ils sont nécessaires, les vols au-dessous des hauteurs minim
 - b. pour les besoins du décollage et de l’atterrissage;
 - c. dans le cadre d’exercices d’atterrissage d’urgence en avion en dehors des régions fortement peuplées à condition qu’un instructeur ou un pilote autorisé à diriger une initiation soit présent à bord;
 - d. lors de vols en hélicoptère effectués à des fins d’instruction en dehors des régions fortement peuplées et, avec l’autorisation du chef d’aérodrome, à des fins d’entraînement sur un aérodrome ou à proximité d’un aérodrome;
-- e. lors de vols en ballon libre effectués à des fins d’instruction, à condition qu’un instructeur soit présent à bord; ou
+- e. lors de vols en ballon libre effectués à des fins d’instruction, à condition qu’un instructeur soit présent à bord, ou
 - f. avec une autorisation spéciale de l’OFAC.
 
 <sup>3</sup> La hauteur minimale pour les vols de pente en planeur est de 60 m au-dessus du sol. Un écartement latéral de sécurité suffisant doit être maintenu par rapport à la pente.
@@ -528,7 +529,7 @@ Les hauteurs minimales de vol suivantes s’appliquent aux vols aux instruments:
 
 <sup>2</sup> La modification d’autres actes est réglée dans l’appendice 2.
 
-[^32-1]: [RO 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066), [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)ch. II, [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560), [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548), [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377), [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)art. 22 ch. 1, [1996 2802](https://fedlex.data.admin.ch/eli/oc/1996/2802_2802_2802), [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905), [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103), [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654)[4701](https://fedlex.data.admin.ch/eli/oc/2006/723), [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150), [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)
+[^32-1]: [RO 1981 1066](https://fedlex.data.admin.ch/eli/oc/1981/1066_1066_1066); [1985 1908](https://fedlex.data.admin.ch/eli/oc/1985/1908_1908_1908)ch. II; [1989 560](https://fedlex.data.admin.ch/eli/oc/1989/560_560_560); [1992 548](https://fedlex.data.admin.ch/eli/oc/1992/548_548_548); [1993 1377](https://fedlex.data.admin.ch/eli/oc/1993/1377_1377_1377); [1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076)art. 22 ch. 1; [1996 2802](https://fedlex.data.admin.ch/eli/oc/1996/2802_2802_2802); [1997 905](https://fedlex.data.admin.ch/eli/oc/1997/905_905_905); [2001 511](https://fedlex.data.admin.ch/eli/oc/2001/103); [2006 4279](https://fedlex.data.admin.ch/eli/oc/2006/654), [4701](https://fedlex.data.admin.ch/eli/oc/2006/723); [2008 639](https://fedlex.data.admin.ch/eli/oc/2008/150); [2011 1153](https://fedlex.data.admin.ch/eli/oc/2011/167)
 
 #### Art. 33
 
@@ -542,7 +543,7 @@ Par dérogation à l’art. 29, les transpondeurs mode A/C déjà installés à 
 
 La présente ordonnance entre en vigueur le 15 juin 2015.
 
-Appendice 1*[^t-1]*
+Appendice 1[^t-1]
 
 (art. 5)
 
@@ -572,6 +573,6 @@ Appendice 2
 
 ## Modification d’un autre acte
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: La mod. peut être consultée au [RO 2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326).
