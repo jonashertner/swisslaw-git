@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approbation et mise en œuvre du règlement (UE) 2020/493 relatif au système «Faux documents et documents authentiques en ligne» (FADO) et modification de la loi fédérale du 13 juin 2008 sur les systèmes d'information de police de la Confédération (Développement de l'acquis de Schengen)"
 document: Projet Echange de notes
 language: fr

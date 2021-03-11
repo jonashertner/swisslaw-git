@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approvazione e trasposizione nel diritto svizzero del regolamento (UE) sul sistema relativo ai documenti falsi e autentici online (FADO) e modifica della legge federale sui sistemi d'informazione di polizia della Confederazione (Sviluppo dell'acquis di Schengen)"
 document: Avamprogetto Regolamento
 language: it

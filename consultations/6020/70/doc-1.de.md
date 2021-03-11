@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Übernahme und Umsetzung der Verordnung (EU) 2020/493 über das System über gefälschte und echte Dokumente online (FADO) und Änderung des Bundesgesetzes über die polizeilichen Informationssysteme des Bundes (Weiterentwicklung des Schengen-Besitzstands)
 document: Vorlage Bundesbeschluss
 language: de
