@@ -4,20 +4,20 @@ number: 900b
 title: Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: Kantonale Härtefallverordnung Covid-19
 language: de
-version: 2021-01-20
-valid_until: 2021-03-12
-version_adopted: 2021-01-19
+version: 2021-03-13
+valid_until: 2021-04-20
+version_adopted: 2021-03-12
 adopted: 2022-03-29
 in_force: 2022-03-30
 url: "https://srl.lu.ch/app/de/texts_of_law/900b"
-pdf: "https://srl.lu.ch/api/de/versions/3710/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3720/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über Härtefallmassnahmen für Luzerner Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 
-vom 09.12.2020 (Stand 20.01.2021)
+vom 09.12.2020 (Stand 13.03.2021)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -110,7 +110,8 @@ beschliesst:
 - e. durchschnittlicher Jahresumsatz 2018 und 2019 unter dem durch das Bundesrecht festgesetzten Betrag,
 - f. laufendes Betreibungsverfahren für Sozialversicherungsbeiträge, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
 - g. Umsatzreduktion von weniger als 40 Prozent gemäss Selbstdeklaration,
-- h. ausstehende Staatssteuern der Steuerjahre 2018 oder früher oder laufendes Betreibungsverfahren für Staatssteuern der Steuerjahre 2019 und 2020, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen.
+- h. ausstehende Staatssteuern und direkte Bundessteuern der Steuerjahre 2019 oder früher oder laufendes Betreibungsverfahren für Staatssteuern oder direkte Bundessteuern des Steuerjahres 2020, es sei denn, zum Zeitpunkt der Einreichung des Gesuchs liegt eine vereinbarte Zahlungsplanung vor oder das Verfahren ist durch Zahlung abgeschlossen,
+- i. rechtskräftige oder hängige Veranlagung der Steuerjahre 2018, 2019 oder 2020 nach pflichtgemässem Ermessen.
 
 <sup>4</sup> Die Unternehmen bestätigen im Gesuch, dass sie keines der Ausschlusskriterien erfüllen, andernfalls wird das Gesuch nicht weiterbearbeitet. Ausgeschlossene Unternehmen werden durch das Finanzdepartement informiert.
 
@@ -182,7 +183,7 @@ beschliesst:
 
 **Missbrauchsbekämpfung**
 
-<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung verstösst oder im Gesuch falsche Angaben gemacht hat, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
+<sup>1</sup> Stellt sich im Nachhinein heraus, dass ein unterstütztes Unternehmen gegen das Verwendungsverbot gemäss Artikel 6 der Covid-19-Härtefallverordnung verstösst, im Gesuch falsche Angaben gemacht hat oder innerhalb eines Jahres seit Gewährung oder vor Rückzahlung der Unterstützung in missbräuchlicher Absicht Personal entlässt oder den Betrieb aufgibt, kann der Kreditvertrag von der Luzerner Kantonalbank gekündigt oder die Rückzahlung des gewährten Beitrages verlangt werden.
 
 <sup>2</sup> Zur Überprüfung der im Gesuch gemachten Angaben können das externe Wirtschaftsprüfungsunternehmen, die Luzerner Kantonalbank und die zuständigen kantonalen Stellen bei den Unternehmen Stichprobenkontrollen durchführen. Dieses Recht ist in die entsprechenden Verträge aufzunehmen.
 
@@ -236,6 +237,12 @@ beschliesst:
 **Vollzug**
 
 <sup>1</sup> Der Vollzug dieser Verordnung obliegt dem Finanzdepartement und der Dienststelle Raum und Wirtschaft.
+
+#### § 18a
+
+**Übergangsbestimmung der Änderung vom 12. März 2021**
+
+<sup>1</sup> Die Änderung von § 7 Absatz 3h und i vom 12. März 2021 ist auf alle hängigen Gesuche anwendbar.
 
 #### § 19
 
