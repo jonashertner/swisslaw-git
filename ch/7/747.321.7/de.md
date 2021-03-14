@@ -3,11 +3,11 @@ sr: "747.321.7"
 title: Verordnung vom 15. März 1971 über die schweizerischen Jachten zur See (Jachtenverordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/327_331_331"
 language: de
-version: 2009-07-01
+version: 2021-03-15
 adopted: 1971-03-15
 in_force: 1971-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20090701/de/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20090701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20210315/de/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20210315-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/de"
 
 (Jachtenverordnung)**[^t-1]**
 
-vom 15. März 1971 (Stand am 1. Juli 2009)
+vom 15. März 1971 (Stand am 15. März 2021)
 
 [^t-1]: Eingefügt durch Ziff. I der V vom 20. Mai 2009, in Kraft seit 1. Juli 2009 ([AS 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
@@ -75,7 +75,7 @@ Auf dem Registerblatt werden eingetragen:
 
 <sup>3</sup> Jede Änderung einer eingetragenen Tatsache ist vom Eigentümer der Jacht dem Schweizerischen Seeschifffahrtsamt unverzüglich zu melden. Artikel 149 des Seeschifffahrtsgesetzes findet sinngemäss Anwendung.
 
-[^3-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 1976 ([AS 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
+[^3-1]: Fassung gemäss Ziff. I der V vom 20. Sept. 1976, in Kraft seit 15. Okt. 1976 ([AS 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
 
 #### Art. 4
 
@@ -333,9 +333,11 @@ Der gewerbsmässige Transport von Personen oder Gütern auf schweizerischen Jach
 
 **Anwendbare Bestimmungen**
 
-<sup>1</sup> Die Bestimmungen der Artikel 51 Absätze 1 und 2, 52, 53, 54 Absatz 1, 55 Absätze 1 und 3, 58, 71 und 119 Absatz 1 des Seeschifffahrtsgesetzes finden entsprechende Anwendung auf den Schiffsführer einer schweizerischen Jacht.
+<sup>1</sup> Die Bestimmungen der Artikel 51 Absätze 1 und 2, 52, 53, 54 Absatz 1, 55 Absätze 1 und 3, 58, 71, 119 Absatz 1, 124*a* und 151*a* des Seeschifffahrtsgesetzes finden entsprechende Anwendung auf den Schiffsführer einer schweizerischen Jacht.[^20-1]
 
 <sup>2</sup> Das Schweizerische Seeschifffahrtsamt bestimmt entsprechend der Art, Grösse und Bauart einer Jacht die Schiffspapiere, die ausser dem Flaggenschein an Bord mitzuführen sind und deren Führung der Schiffsführer zu besorgen hat.
+
+[^20-1]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 15. März 2021 ([AS 2021 69](https://fedlex.data.admin.ch/eli/oc/2021/69)).
 
 ### Schiffsbesatzung
 

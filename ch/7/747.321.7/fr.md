@@ -3,11 +3,11 @@ sr: "747.321.7"
 title: Ordonnance du 15 mars 1971 sur les yachts suisses naviguant en mer (Ordonnance sur les yachts)
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/327_331_331"
 language: fr
-version: 2009-07-01
+version: 2021-03-15
 adopted: 1971-03-15
 in_force: 1971-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20090701/fr/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20090701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20210315-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/fr"
 
 (Ordonnance sur les yachts)**[^t-1]**
 
-du 15 mars 1971 (Etat le 1<sup>er</sup> juillet 2009)
+du 15 mars 1971 (Etat le 15 mars 2021)
 
 [^t-1]: Introduit par le ch. I de l’O du 20 mai 2009, en vigueur depuis le 1<sup>er</sup> juillet 2009 ([RO 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
@@ -39,7 +39,7 @@ arrête:
 
 <sup>2</sup> Bâle est le seul port d’enregistrement des yachts suisses.
 
-<sup>3</sup> Les yachts suisses arborent le pavillon suisse selon l’art. 3 de la loi sur la navigation maritime. L’Office suisse de la navigation maritime peut permettre aux propriétaires de yachts qui sont membres d’associations nautiques de caractère suisse, d’adjoindre au pavillon suisse l’emblème de leur association à condition qu’il n’en résulte pas de confusion avec le pavillon d’un autre Etat.
+<sup>3</sup> Les yachts suisses arborent le pavillon suisse selon l’art. 3 de la loi sur la navigation maritime. L’Office suisse de la navigation maritime peut permettre aux propriétaires de yachts qui sont membres d’associations nautiques de caractère suisse, d’adjoindre au pavillon suisse l’emblème de leur association à condition qu’il n’en résulte pas de confusion avec le pavillon d’un autre État.
 
 ### Registre suisse des yachts
 
@@ -75,7 +75,7 @@ Les indications suivantes sont portées sur le feuillet:
 
 <sup>3</sup> Chaque modification touchant les faits inscrits dans le registre doit être communiquée sans retard par le propriétaire du yacht à l’Office suisse de la navigation maritime. L’art. 149 de la loi sur la navigation maritime s’applique par analogie.
 
-[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 1976 ([RO 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
+[^3-1]: Nouvelle teneur selon le ch. I de l’O du 20 sept. 1976, en vigueur depuis le 15 oct. 1976 ([RO 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
 
 #### Art. 4
 
@@ -112,7 +112,7 @@ Seuls peuvent être immatriculés dans le registre suisse des yachts, des bateau
 
 **Nationalité**
 
-<sup>1</sup> Les propriétaires d’un yacht suisse doivent être citoyens suisses ou être une association suisse ayant pour but d’encourager les sports nautiques et la navigation de plaisance. Lorsque le propriétaire a la double nationalité, il ne peut pas faire immatriculer son yacht s’il réside dans l’Etat dont il est également ressortissant.
+<sup>1</sup> Les propriétaires d’un yacht suisse doivent être citoyens suisses ou être une association suisse ayant pour but d’encourager les sports nautiques et la navigation de plaisance. Lorsque le propriétaire a la double nationalité, il ne peut pas faire immatriculer son yacht s’il réside dans l’État dont il est également ressortissant.
 
 <sup>2</sup> Une association est considérée comme suisse au sens de la présente ordonnance lorsqu’elle a été créée en vertu des art. 60 et 61 du code civil suisse[^6-1], qu’elle a été inscrite au registre suisse du commerce, que les deux tiers au moins de ses membres sont des citoyens suisses ayant leur domicile en Suisse, que tous les membres du comité ou d’autres organes de l’association sont des citoyens suisses ayant leur domicile en Suisse, et qu’il n’y a aucun risque que des membres étrangers exercent une influence déterminante sur l’association.
 
@@ -176,7 +176,7 @@ L’assurance doit couvrir les droits à indemnisation des personnes lésées au
 
 <sup>3</sup>
 
-A l’appui de la demande, il y a lieu de joindre:
+À l’appui de la demande, il y a lieu de joindre:
 
 - a. pour les personnes physiques, l’acte d’origine ou le passeport du propriétaire;
 - b. pour les associations, les statuts, l’extrait du registre du commerce, la liste des membres avec indication de leur nationalité et de leur domicile, la composition des organes de l’association avec indication du lieu d’origine et du domicile des personnes constituant ces organes;
@@ -191,7 +191,7 @@ A l’appui de la demande, il y a lieu de joindre:
 
 #### Art. 11
 
-**Etablissement et contenu**
+**Établissement et contenu**
 
 <sup>1</sup> Après immatriculation du yacht dans le registre suisse des yachts, l’Office suisse de la navigation maritime délivre au propriétaire du yacht un certificat suisse de pavillon, dont il détermine la forme et le contenu.
 
@@ -338,9 +338,11 @@ Le transport professionnel de personnes ou de marchandises est interdit sur des 
 
 **Dispositions applicables**
 
-<sup>1</sup> Les dispositions des art. 51, al. 1 et 2, 52, 53, 54, al. 1, 55, al. 1 et 3, 58, 71 et 119, al. 1, de la loi sur la navigation maritime s’appliquent par analogie au conducteur d’un yacht suisse.
+<sup>1</sup> Les dispositions des art. 51, al. 1 et 2, 52, 53, 54, al. 1, 55, al. 1 et 3, 58, 71, 119, al. 1, 124*a* et 151*a* de la loi fédérale sur la navigation maritime sous pavillon suisse s’appliquent par analogie au conducteur d’un yacht suisse.[^20-1]
 
 <sup>2</sup> L’Office suisse de la navigation maritime détermine, compte tenu de la nature, de la grandeur et du type de construction d’un yacht, les papiers qui doivent être conservés à bord en sus du certificat de pavillon, et que le conducteur du bateau doit veiller à tenir à jour.
+
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 69](https://fedlex.data.admin.ch/eli/oc/2021/69)).
 
 ### De l’équipage
 

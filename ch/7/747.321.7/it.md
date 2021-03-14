@@ -3,11 +3,11 @@ sr: "747.321.7"
 title: Ordinanza del 15 marzo 1971 sugli yacht marittimi svizzeri (Ordinanza sugli yacht)
 eli: "https://fedlex.data.admin.ch/eli/cc/1971/327_331_331"
 language: it
-version: 2009-07-01
+version: 2021-03-15
 adopted: 1971-03-15
 in_force: 1971-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20090701/it/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20090701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1971/327_331_331/20210315/it/xml/fedlex-data-admin-ch-eli-cc-1971-327_331_331-20210315-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1971/327_331_331/20090701/it"
 
 (Ordinanza sugli yacht)**[^t-1]**
 
-del 15 marzo 1971 (Stato 1° luglio 2009)
+del 15 marzo 1971 (Stato 15 marzo 2021)
 
 [^t-1]: Introdotto dal n. I dell’O del 20 mag. 2009, in vigore dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 
@@ -75,7 +75,7 @@ Nella pagina del registro sono iscritti:
 
 <sup>3</sup> Ogni modificazione concernente l’immatricolazione deve essere subito comunicata dal proprietario dello yacht all’Ufficio svizzero della navigazione marittima. L’articolo 149 della legge sulla navigazione marittima si applica per analogia.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 20 set. 1976 ([RU 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
+[^3-1]: Nuovo testo giusta il n. I dell’O del 20 set. 1976, in vigore dal 15 ott. 1976 ([RU 1976 1893](https://fedlex.data.admin.ch/eli/oc/1976/1893_1893_1893)).
 
 #### Art. 4
 
@@ -101,9 +101,9 @@ Possono essere iscritti nel registro degli yacht svizzeri soltanto i panfili spo
 - b. per i quali siano adempiute le condizioni di cui nella presente ordinanza in quanto concerne la cittadinanza del proprietario, l’assicurazione responsabilità civile, la denominazione e la procedura;
 - c. che non sono iscritti in un registro pubblico estero.
 
-<sup>2</sup> …[^5-1]
+<sup>2</sup> ...[^5-1]
 
-<sup>3</sup> a <sup>5</sup> …[^5-2]
+<sup>3</sup> a <sup>5</sup> ...[^5-2]
 
 [^5-1]: Abrogato dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
 [^5-2]: Introdotti dal n. I dell’O del 19 ott. 1983 ([RU 1983 1385](https://fedlex.data.admin.ch/eli/oc/1983/1385_1385_1385)). Abrogati dal n. I dell’O del 20 mag. 2009, con effetto dal 1° lug. 2009 ([RU 2009 2567](https://fedlex.data.admin.ch/eli/oc/2009/335)).
@@ -336,9 +336,11 @@ Il trasporto professionale di persone o merci su yacht svizzeri è vietato.
 
 **Disposizioni applicabili**
 
-<sup>1</sup> Al comandante di uno yacht svizzero si applicano per analogia le disposizioni degli articoli 51 capoversi 1 e 2, 52, 53, 54 capoverso 1, 55 capoversi 1 e 3, 58, 71 e 119 capoverso 1 della legge sulla navigazione marittima.
+<sup>1</sup> Al comandante di uno yacht svizzero si applicano per analogia le disposizioni degli articoli 51 capoversi 1 e 2, 52, 53, 54 capoverso 1, 55 capoversi 1 e 3, 58, 71, 119 capoverso 1, 124*a* e 151*a* della legge federale sulla navigazione marittima sotto bandiera svizzera.[^20-1]
 
 <sup>2</sup> L’Ufficio svizzero della navigazione marittima stabilisce, in considerazione della natura, della grandezza e del tipo di costruzione dello yacht, quali siano i documenti, oltre al certificato di bandiera, da conservare a bordo e da tenere aggiornati da parte del comandante.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 15 mar. 2021 ([RU 2021 69](https://fedlex.data.admin.ch/eli/oc/2021/69)).
 
 ### Equipaggio
 
