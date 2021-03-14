@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Ordonnance 3 du 19 juin 2020 sur les mesures destinées à lutter contre le coronavirus (COVID-19) (Ordonnance 3 COVID-19)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: fr
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/fr"
 
 (Ordonnance 3 COVID-19)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> mars 2021)
+du 19 juin 2020 (Etat le 15 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -284,9 +284,9 @@ La Confédération peut distribuer contre paiement sur le marché, par elle-mêm
 
 #### Art. 23
 
-**Exceptions pour les dispositifs médicaux**
+**Exceptions pour les dispositifs médicaux: généralités[^23-1]**
 
-<sup>1</sup> Swissmedic peut, sur demande, autoriser la mise sur le marché et la mise en service de dispositifs médicaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 10 de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^23-1] n’a été réalisée, si leur utilisation en vue de prévenir et de combattre le coronavirus en Suisse relève de l’intérêt de la santé publique ou de la sécurité ou de la santé des patients et si, compte tenu de leur destination, il est démontré de façon suffisante qu’ils remplissent les exigences fondamentales et qu’ils sont efficaces et performants.
+<sup>1</sup> Swissmedic peut, sur demande, autoriser la mise sur le marché et la mise en service de dispositifs médicaux pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 10 de l’ordonnance du 17 octobre 2001 sur les dispositifs médicaux (ODim)[^23-2] n’a été réalisée, si leur utilisation en vue de prévenir et de combattre le coronavirus en Suisse relève de l’intérêt de la santé publique ou de la sécurité ou de la santé des patients et si, compte tenu de leur destination, il est démontré de façon suffisante qu’ils remplissent les exigences fondamentales et qu’ils sont efficaces et performants.
 
 <sup>2</sup> Dans le cadre de l’évaluation des risques visée à l’al. 1, Swissmedic tient compte en particulier du besoin d’acquisition démontré par l’OFSP en vue de prévenir et de combattre le coronavirus en Suisse.
 
@@ -303,13 +303,40 @@ Les masques faciaux pour lesquels aucune procédure d’évaluation de la confor
 
 <sup>6</sup> Les obligations concernant l’observation des produits au sens de l’ODim, en particulier l’obligation de collecter et de déclarer les incidents graves, continuent de s’appliquer.
 
-[^23-1]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-1]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23-2]: [RS 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 23a
 
-**Exception pour les masques de protection respiratoire**[^23a-1]
+**Exceptions pour les dispositifs médicaux: autotests SARS-CoV-2**[^23a-1]
 
-<sup>1</sup> Les masques de protection respiratoire qui ne répondent pas aux principes et procédures d’évaluation de la conformité selon l’art. 3, al. 2, de l’ordonnance du 25 octobre 2017 sur les EPI (OEPI)[^23a-2] et dont la divergence par rapport à ces principes et procédures n’a pas été approuvée en vertu de l’art. 24, al. 3, figurant dans la version du 22 juin 2020[^23a-3] ne doivent pas être mis à disposition sur le marché.
+<sup>1</sup> Swissmedic peut, sur demande, autoriser la mise sur le marché de tests rapides non automatisés à usage individuel pour la détection directe du SARS-CoV-2 (tests rapides SARS-CoV-2) que les fabricants destinent à l’usage personnel par le public (autotests SARS-CoV-2) et pour lesquels aucune procédure d’évaluation de la conformité au sens de l’art. 10 ODim[^23a-2] n’a été réalisée.
+
+<sup>2</sup>
+
+La demande doit contenir les indications suivantes:
+
+- a. description du produit;
+- b. preuve qu’une demande de procédure d’évaluation de la conformité a été déposée pour le produit auprès d’un organisme d’évaluation de la conformité au sens du droit suisse ou d’un organisme notifié en vertu du droit européen;
+- c. si aucun organisme n’accepte la demande visée à la let. b, copies des refus par au moins deux organismes;
+- d. marquage CE du test rapide SARS-CoV-2 avec application par un professionnel sur lequel se fonde l’autotest SARS-CoV-2;
+- e. preuve selon laquelle les exigences visées à l’art. 24*a* et les critères minimaux fixés à l’annexe 5*a*, ch. 3, sont remplis;
+- f. preuve de l’aptitude du produit pour l’usage personnel;
+- g. preuve selon laquelle les exigences essentielles définies pour les dispositifs servant à l’autodiagnostic conformément à l’annexe I de la directive 98/79/CE[^23a-3] sont remplies;
+- h. analyse de risque actuelle qui tient compte des risques inhérents à l’usage personnel;
+- i. marquage du produit et mode d’emploi dans les trois langues officielles.
+
+<sup>3</sup> L’autorisation est octroyée au fabricant ou à son représentant suisse. Elle peut être octroyée temporairement et être assortie de charges ou de conditions.
+
+[^23a-1]: Introduit par le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23a-2]: RS **812.813**
+[^23a-3]: Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro, JO. L 331 du 7.12.1998, p. 1; modifiée en dernier lieu par la directive 2011/100/UE, JO. L 341 du 22.12.2011, p. 50
+
+#### Art. 23b
+
+**Exception pour les masques de protection respiratoire**[^23b-1]
+
+<sup>1</sup> Les masques de protection respiratoire qui ne répondent pas aux principes et procédures d’évaluation de la conformité selon l’art. 3, al. 2, de l’ordonnance du 25 octobre 2017 sur les EPI (OEPI)[^23b-2] et dont la divergence par rapport à ces principes et procédures n’a pas été approuvée en vertu de l’art. 24, al. 3, figurant dans la version du 22 juin 2020[^23b-3] ne doivent pas être mis à disposition sur le marché.
 
 <sup>2</sup>
 
@@ -320,22 +347,22 @@ Les masques de protection respiratoire visés à l’al. 1 qui se trouvent dans 
 
 <sup>3</sup> L’information sur le produit est disponible lors de la remise et est rédigé au moins dans une langue officielle ou en anglais. Il doit être garanti que les utilisateurs disposent des prérequis nécessaires pour utiliser le produit conformément à sa destination.
 
-[^23a-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^23a-2]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
-[^23a-3]: [RO 2020 2195](https://fedlex.data.admin.ch/eli/oc/2020/438)
+[^23b-1]: Anciennement art. 23*a*. Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^23b-2]: [RS 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
+[^23b-3]: [RO 2020 2195](https://fedlex.data.admin.ch/eli/oc/2020/438)
 
 #### Art. 24
 
-**Établissements autorisés à effectuer des tests rapides non automatisés à usage individuel pour la détection directe du SARS-CoV-2**[^24-1]
+**Réalisation de tests rapides SARS-CoV-2 avec application par un professionnel ainsi que remise et utilisation d’autotests SARS-CoV-2[^24-2]**[^24-1]
 
 <sup>1</sup>
 
-Les tests rapides non automatisés à usage individuel pour la détection directe du SARS-CoV-2 (tests rapides SARS-CoV-2) peuvent être effectués uniquement dans les établissements suivants:
+Les tests rapides SARS-CoV-2 avec application par un professionnel ne peuvent être effectués que dans les établissements suivants:[^24-3]
 
-- a. les laboratoires autorisés au sens de l’art. 16 de la loi du 28 septembre 2012 sur les épidémies (LEp)[^24-2] et les points de prélèvement de l’échantillon exploités par ceux-ci;
-- b.[^24-3] les cabinets médicaux, les pharmacies, les hôpitaux, les établissements médico-sociaux, les institutions médico-sociales et les centres de tests exploités par le canton ou sur son mandat.
+- a. les laboratoires autorisés au sens de l’art. 16 de la loi du 28 septembre 2012 sur les épidémies (LEp)[^24-4] et les points de prélèvement de l’échantillon exploités par ceux-ci;
+- b.[^24-5] les cabinets médicaux, les pharmacies, les hôpitaux, les établissements médico-sociaux, les institutions médico-sociales et les centres de tests exploités par le canton ou sur son mandat.
 
-<sup>1bis</sup> Ils peuvent également être effectués au sein et par des organisations de soins et d’aide ou par celles-ci à domicile.[^24-4]
+<sup>1bis</sup> Ils peuvent également être effectués au sein et par des organisations de soins et d’aide ou par celles-ci à domicile ainsi que par des assistants au sens de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité (LAI)[^24-6].[^24-7]
 
 <sup>2</sup> Les tests rapides SARS-CoV-2 peuvent aussi être effectués en dehors des établissements visés à l’al. 1, à condition qu’un responsable de laboratoire, un médecin ou un pharmacien assume la responsabilité du respect des exigences fixées aux art. 24 à 24*b*.
 
@@ -348,29 +375,42 @@ Les tests rapides SARS-CoV-2 basés sur des analyses de biologie moléculaire pe
 
 <sup>4</sup>
 
-Les établissements visés aux al. 1, let. b, et 1<sup>bis</sup> peuvent effectuer des tests rapides SARS-CoV-2 sans autorisation au sens de l’art. 16 LEp et en dehors du milieu confiné si les conditions suivantes sont remplies:[^24-5]
+Les établissements visés aux al. 1, let. b, et 1<sup>bis</sup> peuvent effectuer des tests rapides SARS-CoV-2 avec application par un professionnel sans autorisation au sens de l’art. 16 LEp et en dehors du milieu confiné si les conditions suivantes sont remplies:[^24-8]
 
 - a. des mesures de sécurité ainsi que des plans de protection appropriés pour la protection de l’être humain, des animaux, de l’environnement et de la diversité biologique sont prévus et respectés;
-- b. les tests sont effectués uniquement par du personnel spécifiquement instruit à cette fin et selon les instructions du fabricant du test;
+- b.[^24-9] les tests sont effectués uniquement par des personnes spécifiquement instruites à cette fin et selon les instructions du fabricant du test;
 - c. les résultats sont interprétés sous la supervision de personnes possédant l’expertise spécifique nécessaire; il est possible de faire appel à des spécialistes externes;
 - d. les établissements établissent une documentation prouvant la traçabilité et la qualité des systèmes de test mis en place; ils doivent conserver cette documentation;
 - e. les établissements sont habilités à effectuer de tels tests par le canton.
 
+<sup>4bis</sup>
+
+Les autotests SARS-CoV-2 peuvent être remis et utilisés à condition qu’ils:
+
+- a. soient prévus et certifiés pour l’usage personnel conformément aux indications du fabricant ou autorisés par Swissmedic en vertu de l’art. 23*a*;
+- b. remplissent les exigences visées à l’art. 24*a* et les critères minimaux fixés à l’annexe 5*a,* ch. 3;
+- c. soient remis au public par une pharmacie.[^24-10]
+
 <sup>5</sup> Par tests rapides SARS-CoV-2, on entend des méthodes qui détectent directement les antigènes ou l’acide ribonucléique du SARS-CoV-2. Les tests ne sont pas automatisés et sont effectués avec un minimum d’instruments; seule la lecture des résultats peut être automatisée.
 
 [^24-1]: Nouvelle teneur selon le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24-2]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^24-3]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24-4]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-2]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-3]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^24-5]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-6]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-7]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-8]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-9]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-10]: Introduit par le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 24a
 
-**Tests rapides SARS-CoV-2 utilisés par d’autres établissements que les laboratoires autorisés au sens de l’art. 16 LEp[^24a-2]**[^24a-1]
+**Tests rapides SARS-CoV-2 autorisés[^24a-2]**[^24a-1]
 
 <sup>1</sup> Pour les tests rapides SARS-CoV-2, seuls peuvent être utilisés les systèmes de test pour lesquels la validation indépendante d’un laboratoire autorisé au sens de l’art. 16 LEp a démontré que la fiabilité et la performance satisfont aux critères minimaux visés par l’annexe 5*a*.[^24a-3]
 
-<sup>2</sup> En lieu et place des systèmes de test visé à l’al. 1, il est possible, dans des cas d’espèce, d’utiliser des systèmes validés par des établissements ou des laboratoires européens reconnus, pour autant que l’OFSP reconnaisse cette validation, en concertation avec la Société suisse de microbiologie (SSM) ou le Centre national de référence pour les infections virales émergentes (CRIVE).
+<sup>2</sup> En lieu et place des systèmes de test visés à l’al. 1, il est possible, dans des cas d’espèce, d’utiliser des systèmes validés par des établissements ou des laboratoires européens reconnus, pour autant que l’OFSP reconnaisse cette validation.[^24a-4]
 
 <sup>3</sup> Les systèmes de test visés aux al. 1 et 2 ne peuvent être utilisés que dans la mesure où cela ne compromet pas l’approvisionnement en matériel de test des laboratoires visés à l’art. 24, al. 1, let. a.
 
@@ -381,37 +421,22 @@ Les établissements visés aux al. 1, let. b, et 1<sup>bis</sup> peuvent effectu
 Les al. 1 à 4 ne s’appliquent pas aux tests rapides SARS-CoV-2 effectués par:
 
 - a. les laboratoires autorisés au sens de l’art. 16 LEp et les points de prélèvement de l’échantillon exploités par ceux-ci;
-- b. les établissements qui ne sont pas des laboratoires, mais qui sont contractuellement sous la surveillance et la responsabilité directes et actives d’un laboratoire autorisé et dont l’activité est exploitée par celui-ci.[^24a-4]
+- b. les établissements qui ne sont pas des laboratoires, mais qui sont contractuellement sous la surveillance et la responsabilité directes et actives d’un laboratoire autorisé et dont l’activité est exploitée par celui-ci.[^24a-5]
 
 [^24a-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24a-2]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-2]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24a-3]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24a-4]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-4]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24a-5]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 #### Art. 24b
 
-**Personnes sur lesquelles les tests rapides SARS-CoV-2 peuvent être effectués**[^24b-1]
+**Information du canton quant au résultat de test positif en l’absence d’un diagnostic de confirmation**[^24b-1]
 
-<sup>1</sup> Les tests rapides SARS-CoV-2 peuvent être effectués uniquement sur des personnes qui remplissent les critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021[^24b-2].[^24b-3]
+Lorsque, après un résultat positif, le test rapide SARS-CoV-2 ne donne pas lieu à un diagnostic de confirmation et que le DFI n’a pas fixé la déclaration du résultat du test rapide SARS-CoV-2 au sens de l’art. 19 de l’ordonnance du 29 avril 2015 sur les épidémies[^24b-2], l’établissement ou la personne responsable de l’exécution du test doit informer le service cantonal chargé du traçage des contacts quant au résultat positif.
 
-<sup>2</sup>
-
-Ils peuvent également être effectués sur des personnes qui ne remplissent pas les critères visés à l’al. 1 si:[^24b-4]
-
-- a. les exigences des art. 24, al. 4, et 24*a* sont remplies;
-- b.
-
-  l’établissement ou la personne qui effectue le test rapide SARS-CoV-2:
-
-  - 1\. prévoit la possibilité d’un prélèvement d’échantillon en vue d’une confirmation par une analyse de biologie moléculaire pour le SARS-CoV-2,
-  - 2\. informe le service cantonal chargé du traçage des contacts lorsque le test ne donne pas lieu à un diagnostic de confirmation.
-
-<sup>3</sup> L’OFSP publie des informations relatives à l’utilisation des tests rapides SARS-CoV-sur des personnes qui ne remplissent pas les critères prévus à l’al. 1.
-
-[^24b-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24b-2]: Les critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021 sont consultables sous www.ofsp.admin.ch &gt; Maladies &gt; Lutter contre les maladies infectieuses &gt; Systèmes de déclaration pour maladies infectieuses &gt; Système de déclaration pour maladies infectieuses à déclaration obligatoire &gt; Formulaires de déclaration
-[^24b-3]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24b-4]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24b-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24b-2]: [RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 
 #### Art. 24c
 
@@ -460,43 +485,18 @@ Swissmedic peut communiquer aux services fédéraux visés à l’art. 12, al. 1
 
 **Prise en charge des coûts des analyses pour le SARS-CoV-2**[^26-1]
 
-<sup>1</sup> La Confédération prend en charge les coûts des analyses pour le SARS-CoV-2 effectués en ambulatoire, conformément à l’annexe 6, sur des personnes qui remplissent les critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021[^26-2]. Les prestations dont les coûts sont pris en charge et les montants maximaux par prestation sont fixés à l’annexe 6. Le DFI peut adapter les montants maximaux à l’évolution des coûts effectifs.[^26-3]
+<sup>1</sup> La Confédération prend en charge les coûts des analyses pour le SARS-CoV-2 aux conditions prévues à l’annexe 6 et jusqu’à concurrence des montants maximaux fixés à l’annexe 6.
 
-<sup>2</sup>
+<sup>2</sup> L’OFSP publie chaque semaine sur son site Internet le nombre d’analyses de biologie moléculaire pour le SARS-CoV-2 visées à l’annexe 6, ch. 1, qui ont été effectuées durant une semaine civile en Suisse et au Liechtenstein. Le DFI peut adapter les montants maximaux à l’évolution des coûts effectifs.
 
-La Confédération prend en charge les coûts uniquement si les prestations visées à l’annexe 6 sont fournies par les fournisseurs de prestations suivants:
+<sup>3</sup> Pour les analyses pour le SARS-CoV-2 visées à l’annexe 6, la demande adressée au laboratoire doit contenir les indications nécessaires à la facturation électronique, notamment le numéro d’assuré ou de client de la personne testée auprès de l’assureur.
 
-- a.
+<sup>4</sup> Aucune participation aux coûts au sens de l’art. 64 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^26-2] n’est prélevée pour les prestations énumérées à l’annexe 6.
 
-  les fournisseurs de prestations visés par la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^26-4]:
+<sup>5</sup> Dans le cadre des prestations énumérées à l’annexe 6, les fournisseurs de prestations ne peuvent facturer aucun coût supplémentaire aux personnes testées. En outre, ils doivent répercuter sur le débiteur de la rémunération les avantages directs ou indirects sur la base des montants énumérés à l’annexe 6.
 
-  - 1\. médecins,
-  - 2\. pharmaciens,
-  - 3\. hôpitaux,
-  - 4\. laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^26-5] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp,
-  - 5\. établissements médicaux-sociaux,
-  - 6\. organisations de soins et d’aide à domicile;
-
-- b. les centres de tests exploités par le canton ou sur son mandat;
-- c. maisons pour personnes âgées;
-- d. institutions médico-sociales.[^26-6]
-
-<sup>3</sup> La demande d’analyse adressée au laboratoire doit contenir les indications nécessaires à la facturation électronique, notamment le numéro d’assuré ou de client de la personne testée auprès de l’assureur.[^26-7]
-
-<sup>4</sup> Aucune participation aux coûts au sens de l’art. 64 LAMal n’est prélevée pour les prestations énumérées à l’annexe 6.
-
-<sup>5</sup> Dans le cadre des prestations énumérées à l’annexe 6, les fournisseurs de prestations visés à l’al. 2 ne peuvent facturer aucun coût supplémentaire aux personnes testées. En outre, ils doivent répercuter sur le débiteur de la rémunération les avantages directs ou indirects sur la base des montants énumérés à l’annexe 6, ch. 1 à 3.
-
-<sup>6</sup> La Confédération ne prend pas en charge les coûts des analyses pour le SARS-CoV-2 effectuées sur des personnes qui ne remplissent pas les critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021.[^26-8]
-
-[^26-1]: Nouvelle teneur selon le ch. I de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), en vigueur depuis le 2 nov. 2020 ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)).
-[^26-2]: Cf. note de bas de page relative à l’art. 24*b*, al. 1.
-[^26-3]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-5]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^26-6]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-7]: Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-8]: Introduit par le ch. I de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26-1]: Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^26-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 26a
 
@@ -504,72 +504,68 @@ La Confédération prend en charge les coûts uniquement si les prestations vis�
 
 <sup>1</sup>
 
-Si l’analyse pour le SARS-CoV-2 est effectuée conformément aux ch. 1 à 4.3 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021[^26a-2] par un fournisseur de prestations visé à l’art. 26, al. 2, qui dispose d’un numéro au registre des codes-créanciers (numéro RCC), la rémunération des prestations est due selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal[^26a-3] par les assureurs suivants:
+Si la prestation fournie dans le cadre d’une analyse pour le SARS-CoV-2 visée à l’annexe 6, ch. 1, est effectuée par un fournisseur de prestations qui dispose d’un numéro au registre des codes-créanciers (numéro RCC) ou si l’autotest SARS-CoV-2 visé à l’annexe 6, ch. 3.3, est remis par un fournisseur de prestations qui dispose d’un numéro RCC, la rémunération des prestations est due selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal[^26a-2] par les assureurs suivants:
 
-- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^26a-4], auprès de laquelle la personne testée est assurée;
+- a. pour les personnes qui disposent d’une assurance obligatoire des soins au sens de la LAMal, par la caisse-maladie visée à l’art. 2 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie[^26a-3], auprès de laquelle la personne testée est assurée;
 - b. pour les personnes qui sont assurées en cas de maladie auprès de l’assurance militaire, par l’assurance militaire;
 - c. pour les personnes qui ne disposent pas d’une assurance obligatoire des soins au sens de la LAMal, par l’institution commune visée à l’art. 18 LAMal.
 
-<sup>2</sup> Si l’analyse pour le SARS-CoV-2 est effectuée conformément aux ch. 1 à 4.3 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021 par un fournisseur de prestations visé à l’art. 26, al. 2, qui ne dispose pas d’un numéro RCC, le canton dans lequel est effectuée l’analyse pour le SARS-CoV-2 est le débiteur de la rémunération des prestations.
+<sup>2</sup> Si la prestation fournie dans le cadre d’une analyse pour le SARS-CoV-2 visée à l’annexe 6, ch. 1, est effectuée par un fournisseur de prestations qui ne dispose pas d’un numéro RCC, le canton dans lequel l’échantillon est prélevé est le débiteur de la rémunération des prestations.
 
 <sup>3</sup>
 
-Si l’analyse pour le SARS-CoV-2 est effectuée aux fins de prévention du COVID-19 chez les personnes vulnérables (ch. 4.4 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021), les fournisseurs de prestations visés à l’art. 26, al. 2, peuvent choisir d’imputer la prestation:
+Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 1.1.1, let. i et j, 1.4.1, let. h et i, et 3.1.1, let. a, les fournisseurs de prestations peuvent choisir comme débiteur de la rémunération de la prestation:
 
-- a. soit à l’assureur visé à l’al. 1, qui est le débiteur de la rémunération des prestations selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal;
-- b. soit au canton dans lequel l’analyse pour le SARS-CoV-2 est effectuée.
+- a. l’assureur visé à l’al. 1, qui est le débiteur de la rémunération des prestations selon le système du tiers payant au sens de l’art. 42, al. 2, LAMal, ou
+- b. le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé.
 
-<sup>4</sup> Si l’analyse pour le SARS-CoV-2 est effectuée dans des situations présentant un risque de transmission élevé (ch. 4.5 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021), le canton dans lequel l’analyse pour le SARS-CoV-2 est effectuée est le débiteur de la rémunération des prestations.
+<sup>4</sup> Si l’analyse pour le SARS-CoV-2 est effectuée conformément à l’annexe 6, ch. 2, 3.1.1, let. b et c, et 3.2.1, let. b et c, le canton dans lequel l’échantillon pour le SARS-CoV-2 est prélevé est le débiteur de la rémunération des prestations.
 
-[^26a-1]: Introduit par le ch. I de l’O du 24 juin 2020 ([RO 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nouvelle teneur selon le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26a-2]: Cf. note de bas de page relative à l’art. 24*b*, al. 1.
-[^26a-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26a-4]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-1]: Introduit par le ch. I de l’O du 24 juin 2020 ([RO 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^26a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26a-3]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 26b
 
 **Procédure à suivre lorsque l’assureur est le débiteur de la rémunération de la prestation**[^26b-1]
 
-<sup>1</sup> Si un assureur est le débiteur de la rémunération de la prestation au sens de l’art. 26*a,* al. 1 et 3, let. a, les fournisseurs de prestations visés à l’art. 26, al. 2, envoient à l’assureur compétent la facture relative aux prestations visées à l’annexe 6 par personne testée. La facture ne peut contenir que les prestations visées à l’annexe 6. Dans l’idéal, la transmission se fait par voie électronique.
+<sup>1</sup> Si un assureur est le débiteur de la rémunération de la prestation au sens de l’art. 26*a,* al. 1 et 3, let. a, les fournisseurs de prestations envoient à l’assureur compétent la facture relative aux prestations visées à l’annexe 6 par personne testée, au cas par cas ou de manière groupée sur une base trimestrielle, au plus tard 9 mois après la fourniture des prestations. La facture ne peut contenir que les prestations visées à l’annexe 6. Dans l’idéal, la transmission se fait par voie électronique.
 
-<sup>2</sup> Dans les cas visés à l’art. 26*a*, al. 1, la facture peut être envoyée de cas en cas ou de manière groupée sur une base trimestrielle. Dans les cas visés à l’art. 26*a*, al. 3, let. a, la facture doit être envoyée de manière groupée sur une base trimestrielle. Dans tous les cas, la facture doit être envoyée au plus tard neuf mois après la fourniture des prestations.
+<sup>2</sup> Les fournisseurs de prestations ne peuvent pas facturer les prestations visées à l’annexe 6 selon la position 3186.00 de l’annexe 3 de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins (OPAS)[^26b-2].
 
-<sup>3</sup> Les fournisseurs de prestations visés à l’art. 26, al. 2, ne peuvent pas facturer les prestations visées à l’annexe 6 selon la position 3186.00 de l’annexe 3 de l’ordonnance du 29 septembre 1995 sur les prestations de l’assurance des soins (OPAS)[^26b-2].
+<sup>3</sup> Les assureurs contrôlent les factures et vérifient si le fournisseur de prestations a facturé correctement les prestations au sens de l’annexe 6. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^26b-3].
 
-<sup>4</sup> Les assureurs contrôlent les factures et vérifient si les prestations au sens de l’annexe 6 sont correctement facturées par un fournisseur de prestations selon l’art. 26, al. 2. Ils traitent les données conformément aux art. 84 à 84*b* LAMal[^26b-3].
+<sup>4</sup> Ils communiquent à l’OFSP le nombre d’analyses qu’ils ont remboursées aux fournisseurs de prestations, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre. Les services de révision externes des assureurs procèdent à un contrôle annuel des communications et de l’existence de contrôles appropriés au sens de l’al. 3 et font rapport à l’OFSP. L’OFSP peut demander aux assureurs des informations supplémentaires relatives aux montants remboursés par fournisseur de prestations.
 
-<sup>5</sup> Ils communiquent à l’OFSP le nombre d’analyses qu’ils ont remboursées aux fournisseurs de prestations visés à l’art. 26, al. 2, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre. Les services de révision externes des assureurs procèdent à un contrôle annuel des communications et de l’existence de contrôles appropriés au sens de l’al. 4 et font rapport à l’OFSP. L’OFSP peut demander aux assureurs des informations supplémentaires relatives aux montants remboursés par fournisseur de prestations visé à l’art. 26, al. 2.
+<sup>5</sup> Tous les trois mois, la Confédération paie aux assureurs les prestations qu’ils ont remboursées.
 
-<sup>6</sup> Tous les trois mois, la Confédération paie aux assureurs les prestations qu’ils ont remboursées.
+<sup>6</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, l’assureur peut exiger de lui la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 5, un éventuel droit au remboursement échoit à la Confédération. Les assureurs communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
 
-<sup>7</sup> Si le fournisseur de prestations ne remplit pas son obligation de déclarer conformément à l’art. 12 LEp pour les analyses pour le SARS-CoV-2 visées à l’annexe 6, ch. 1.1 et 1.3 à 1.6, la Confédération peut exiger de lui la restitution du montant remboursé.
+<sup>7</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
 
-<sup>8</sup> Tous les trois mois, l’institution commune facture à l’OFSP ses frais administratifs liés à son activité en tant qu’assureur au sens de l’art. 26*a*, al. 1, let. c, et 3, let. a, sur la base de ses coûts effectifs. Le tarif horaire est de 95 francs et comprend les coûts liés aux salaires, aux prestations sociales et aux infrastructures. S’agissant des dépenses qui ne sont pas incluses dans les frais administratifs concernant d’éventuels révisions, modifications du système et intérêts négatifs, les coûts effectifs sont remboursés.
+<sup>8</sup> Les factures des analyses pour le SARS-CoV-2 qui ne remplissent pas les conditions de l’annexe 6 doivent porter la mention «analyse pour le SARS-CoV-2 hors critères de prélèvement».
 
-<sup>9</sup> Les factures des analyses pour le SARS-CoV-2 effectuées sur des personnes qui ne remplissent pas les critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021[^26b-4] doivent porter la mention «analyse pour le SARS-CoV-2 hors critères de prélèvement».
-
-[^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26b-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Cf. note de bas de page relative à l’art. 24*b*, al. 1.
 
 #### Art. 26c
 
 **Procédure à suivre lorsque le canton est le débiteur de la rémunération de la prestation**[^26c-1]
 
-<sup>1</sup> Si le canton est le débiteur de la rémunération de la prestation au sens de l’art. 26*a*, al. 2, 3, let. b, et 4, les fournisseurs de prestations visés à l’art. 26, al. 2, envoient la facture au canton compétent, au plus tard neuf mois après la fourniture des prestations, de manière groupée et sur une base trimestrielle. La facture ne peut contenir que les prestations visées à l’annexe 6. Dans l’idéal, la transmission se fait par voie électronique.
+<sup>1</sup> Si le canton est le débiteur de la rémunération de la prestation au sens de l’art. 26*a*, al. 2, 3, let. b, et 4, les fournisseurs de prestations envoient la facture au canton compétent, au plus tard neuf mois après la fourniture des prestations, de manière groupée et sur une base trimestrielle. La facture ne peut contenir que les prestations visées à l’annexe 6. Dans l’idéal, la transmission se fait par voie électronique.
 
-<sup>2</sup> Les fournisseurs de prestations visés à l’art. 26, al. 2, ne peuvent pas facturer les prestations visées à l’annexe 6, selon la position 3186.00 de l’annexe 3 de l’OPAS[^26c-2].
+<sup>2</sup> Les fournisseurs de prestations ne peuvent pas facturer les prestations visées à l’annexe 6 selon la position 3186.00 de l’annexe 3 de l’OPAS[^26c-2].
 
-<sup>3</sup> Les cantons contrôlent les factures et vérifient si les prestations au sens de l’annexe 6 sont correctement facturées par les fournisseurs de prestations visés à l’art. 26, al. 2. Ils sont tenus de respecter les dispositions cantonales en matière de protection des données.
+<sup>3</sup> Les cantons contrôlent les factures et vérifient si le fournisseur de prestations a correctement facturé les prestations au sens de l’annexe 6. Ils sont tenus de respecter les dispositions cantonales en matière de protection des données.
 
-<sup>4</sup> Ils communiquent à l’OFSP le nombre d’analyses qu’ils ont remboursées aux fournisseurs de prestations visés à l’art. 26, al. 2, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre.
+<sup>4</sup> Ils communiquent à l’OFSP le nombre d’analyses qu’ils ont remboursées aux fournisseurs de prestations, ainsi que le montant remboursé au début des mois de janvier, d’avril, de juillet et d’octobre.
 
-<sup>5</sup> Tous les trois mois, la Confédération paie aux cantons les prestations qu’ils ont remboursées.
+<sup>5</sup> Tous les trois mois, la Confédération paie aux cantons les prestations qu’ils ont remboursées. En outre, elle verse un financement incitatif aux cantons qui mettent en place des tests ciblés et répétitifs pour la population. Les cantons ne facturent à la Confédération que les coûts effectifs, jusqu’à concurrence de 8 francs par habitant. Sont imputables les coûts dans le domaine de l’informatique et de la logistique.
 
-<sup>6</sup> Si le fournisseur de prestations ne remplit pas son obligation de déclarer conformément à l’art. 12 LEp pour les analyses pour le SARS-CoV-2 visées à l’annexe 6, ch. 1.1 et 1.3 à 1.6, la Confédération peut exiger de lui la restitution du montant remboursé.
+<sup>6</sup> Si la prestation a été indûment facturée par le fournisseur de prestations, le canton peut exiger la restitution du montant déjà remboursé. Avec le paiement de la prestation par la Confédération au sens de l’al. 5, un éventuel droit au remboursement échoit à la Confédération. Les cantons communiquent à la Confédération les données nécessaires pour faire valoir le droit au remboursement. Les données ne doivent pas contenir de données sensibles.
 
-[^26c-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26c-1]: Introduit par le ch. I de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire) ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Nouvelle teneur selon le ch. I de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26c-2]: [RS 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 
 ## Chapitre 4 Assemblées de sociétés
@@ -863,228 +859,537 @@ Annexe 5*[^t-5]*
 
 Annexe 5a*[^t-6]*
 
-(art. 24*a*, al. 1)
+(art. 23*a*, al. 2, let. e, 24, al. 4<sup>bis</sup>, let. b, et 24*a*, al. 1)
 
 ## Critères minimaux relatifs à la fiabilité et à la performance des tests rapides SARS-CoV-2
 
-[^t-6]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2), en vigueur depuis le 21 déc. 2020 ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^t-6]: Introduite par le ch. III al. 1 de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 ### 1 Généralités
 
-- 1\.1 Tous les tests à valider doivent être comparés à une amplification en chaîne par polymérase en temps réel après transcription inverse (RT-PCR) réalisée à partir d’un prélèvement nasopharyngé.
-- 1\.2 Une validation indépendante est requise pour l’utilisation des tests rapides SARS-CoV-2. Les critères de validation clinique mentionnés au ch. 2 servent de base de validation. Font exception les tests rapides antigéniques SARS-CoV-2 effectués par prélèvement nasopharyngé, pour lesquels il est possible d’appliquer une validation technique selon le ch. 3.
+- 1\.1 Les tests à valider doivent être comparés à une amplification en chaîne par polymérase en temps réel après transcription inverse (RT-PCR) réalisée à partir d’un prélèvement nasopharyngé. Pour calculer la spécificité de tests rapides SARS-CoV-2 basés sur des analyses de biologie moléculaire et effectués à partir d’un échantillon de salive, il est également possible de comparer le test à valider avec une RT-PCR réalisée à partir dʼun prélèvement salivaire.
+- 1\.2 Une validation indépendante est requise pour l’utilisation de tests rapides SARS-CoV-2.
 
-### 2 Critères de la validation clinique
+### 2 Critères pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic»
 
-- 2\.1 L’examen de sensibilité et de spécificité dans une validation clinique doit se baser sur au moins 100 échantillons positifs et 300 échantillons négatifs au SARS-CoV-2. Les échantillons utilisés doivent provenir de patients symptomatiques au sens des critères cliniques de l’OFSP et ayant été testés au cours des quatre premiers jours suivant le début des symptômes.
-- 2\.2 La sensibilité du test doit être d’au moins 85 % et sa spécificité d’au moins 99 %.
+### 2.1 Critères de la validation clinique
 
-### 3 Critères de validation technique des tests rapides antigéniques SARS-CoV-2 effectués par prélèvement nasopharyngé
+- 2\.1.1 L’examen de la sensibilité et de la spécificité dans la validation clinique doit se baser sur au moins 100 échantillons positifs et 300 échantillons négatifs au SARS-CoV-2. Les échantillons utilisés doivent provenir de patients symptomatiques au sens des critères cliniques de l’OFSP et ayant été testés au cours des 4 premiers jours suivant le début des symptômes.
+- 2\.1.2 La sensibilité du test doit être d’au moins 85 % et sa spécificité d’au moins 99 %.
 
-- 3\.1 La détermination de la sensibilité et de la spécificité dans la validation technique doit se baser sur au moins 100 échantillons positifs et 300 échantillons négatifs au SARS-CoV-2, dont au moins 50 échantillons avec une charge virale d’au moins 10e5 copies/ml.
-- 3\.2
+### 2.2 Critères de validation technique des tests rapides antigéniques SARS-CoV-2 effectués par prélèvement nasopharyngé
 
-  Les tests rapides antigéniques à valider doivent atteindre les valeurs de sensibilité minimales suivantes en fonction du nombre de copies du virus:
+- 2\.2.1 L’examen de la sensibilité et de la spécificité dans la validation technique doit se baser sur au moins 100 échantillons positifs et 300 échantillons négatifs au SARS-CoV-2, dont au moins 50 échantillons avec une charge virale d’au moins 10e5 copies/ml.
+- 2\.2.2
+
+  Les tests rapides antigéniques SARS-CoV-2 à valider doivent atteindre les valeurs de sensibilité minimales suivantes en fonction du nombre de copies du virus:
 
   - – pour 10e7 copies/ml: 95 %
   - – pour 10e6 copies/ml: 90 %
   - – pour 10e5 copies/ml: 80 %
 
-- 3\.3 La spécificité doit atteindre au minimum 99 %.
+- 2\.2.3 La spécificité du test doit atteindre au minimum 99 %.
+
+### 3 Critères de validation clinique des tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard screening» et des autotests SARS-CoV-2
+
+### 3.1 Sensibilité
+
+- 3\.1.1 L’examen de la sensibilité doit se baser sur au moins 100 échantillons positifs au SARS-CoV-2. Les échantillons utilisés doivent provenir de patients symptomatiques ayant été testés au cours des 7 premiers jours suivant le début des symptômes.
+- 3\.1.2 La sensibilité du test doit être d’au moins 80 %.
+
+### 3.2 Spécificité
+
+- 3\.2.1 L’examen de la spécificité doit se baser sur au moins 100 échantillons négatifs au SARS-CoV-2. Les échantillons utilisés doivent provenir de patients asymptomatiques sans risque concret d’exposition.
+- 3\.2.2 La spécificité du test doit être d’au moins 97 %.
+- 3\.3 Réactivité croisée: des échantillons présentant une forte concentration de coronavirus humains apparentés, dont au moins le coronavirus humain 229E, le coronavirus humain OC43, le coronavirus humain NL63 ou le coronavirus humain HKU1, sont également examinés.
+- 3\.4 Interférence: des échantillons positifs à des agents pathogènes lorsque ceux-ci peuvent provoquer des symptômes analogues (Influenza A, B; VRS) ou peuvent interférer avec le principe du test (*Staphylococcus aureus* positif à la protéine A avec prélèvement nasal comme matrice de l’échantillon) sont également examinés.
 
 Annexe 6*[^t-7]*
 
-(art. 26, 26*b* et 26*c*)
+(art. 26, 26*a*, 26*b* et 26*c*)
 
 ## Prestations et montants maximaux pris en charge pour les analyses pour le SARS-CoV-2
 
-[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. II al. 2 de l’O du 27 janv. 2021 (Tests pour le SARS-CoV-2 et masques de protection respiratoire), en vigueur depuis le 28 janv. 2021, sous réserve des ch. 1.5 et 4.3, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-7]: Introduite par le ch. II de l’O du 28 oct. 2020 (Tests rapides de l’antigène SARS-CoV-2), ([RO 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Nouvelle teneur selon le ch. III de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
-### 1 Analyses pour le SARS-CoV-2 conformément aux ch. 1 à 4.3 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021****
+### 1 Tarif régulier pour les dépistages axés sur les symptômes et le nombre de cas
 
-[^annex6-lvlu1-lvl1-1]
+### 1.1 Analyses de biologie moléculaire pour le SARS-CoV-2
 
-[^annex6-lvlu1-lvl1-1]: Cf. note de bas de page relative à l’art. 24*b*, al. 1
+- 1\.1.1
 
-### **1.1** **Analyses par biologie moléculaire pour le SARS-CoV-2**
+  La Confédération ne prend en charge les coûts des analyses de biologie moléculaire pour le SARS-CoV-2 que dans les cas suivants:
 
-- 1\.1.1 La Confédération prend en charge au maximum 156 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2.
-- 1\.1.2.
+  - a. pour les personnes symptomatiques;
+  - b. pour les personnes-contacts qui sont en quarantaine;
+  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 3*e* de l’ordonnance COVID-19 du 19 juin 2020 situation particulière[^annex6-lvlu1-lvl1-lvl11-1];
+  - d. pour les personnes souhaitant mettre fin de manière anticipée à la quarantaine-voyage visée à l’art. 7, al. 4, de l’ordonnance COVID-19 du 27 janvier 2021 mesures dans le domaine du transport international de voyageurs[^annex6-lvlu1-lvl1-lvl11-2];
+  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique, qui peut être effectué au plus tôt le 5<sup>e</sup> jour après la notification de l’application SwissCovid;
+  - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
+  - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à un test de biologie moléculaire pour le SARS-CoV-2 et que les coûts ne soient pas pris en charge autrement;
+  - h.
 
-  Le montant du ch. 1.1.1 comprend les prestations et les coûts suivants:
+    après un résultat positif d’un:
+
+    - – test rapide SARS-CoV-2 avec application par un professionnel conformément au ch. 1.4.1, let. d et j, 2.1 ou 3.1, que le test ait été effectué avec un test rapide SARS-CoV-2 selon le «standard diagnostic» ou selon le «standard screening»,
+    - – autotest SARS-CoV-2 conformément au ch. 3.3;
+
+  - i. après un résultat positif d’une analyse poolée de biologie moléculaire conformément au ch. 1.2, 2.2 ou 3.2;
+  - j. pour un contrôle et une enquête d’entourage ordonnés par un médecin.
+
+- 1\.1.2
+
+  Elle ne prend en charge les coûts que si les prestations ont été fournies par les fournisseurs suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal[^annex6-lvlu1-lvl1-lvl11-3]:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal)[^annex6-lvlu1-lvl1-lvl11-4] et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants au sens de la LAI[^annex6-lvlu1-lvl1-lvl11-5];
+
+- b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-6] et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+- 1\.1.3
+
+  Elle prend en charge au maximum 156 francs pour les analyses de biologie moléculaire pour le SARS-CoV-2. Ce montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
-<tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection, par un fournisseur de prestations au sens de l’art. 26, al. 2</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission des résultats de l’analyse par un fournisseur de prestations au sens de l’art. 26, al. 2, à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par l’application de traçage de proximité pour le coronavirus SARS-CoV-2 (système TP) en cas d’infection avérée</td><td>2,50 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par l’application de traçage de proximité pour le coronavirus SARS-CoV-2 (système TP) en cas d’infection avérée</td><td>2,50 francs</td></tr>
 <tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
 - b. pour l’analyse de biologie moléculaire:
 
 <table>
-<tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal[^annex6-lvlu1-lvl1-lvl11-1], ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>106 francs 82 francs 24 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>87 francs 82 francs 5 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>106 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp, si le nombre d’analyses effectuées au cours d’une semaine civile est de:</td><td></td></tr>
+<tr><td>– &lt; 100 000</td><td>82 francs</td></tr>
+<tr><td>– 100 000 – &lt; 150 000</td><td>74 francs</td></tr>
+<tr><td>– 150 000 – &lt; 200 000</td><td>70 francs</td></tr>
+<tr><td>– &gt; 200 000</td><td>64 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td>[tab] Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir: – pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp, si le nombre d’analyses effectuées au cours d’une semaine civile est de</td><td>87 francs</td></tr>
+<tr><td>– &lt; 100 000</td><td>82 francs</td></tr>
+<tr><td>– 100 000 – &lt; 150 000</td><td>74 francs</td></tr>
+<tr><td>– 150 000 – &lt; 200 000</td><td>70 francs</td></tr>
+<tr><td>– &gt; 200 000</td><td>64 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-1]: [RS 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl1-lvl11-2]: [RS 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex6-lvlu1-lvl1-lvl11-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^annex6-lvlu1-lvl1-lvl11-6]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 
-### 1.2 Analyses poolées par biologie moléculaire pour le SARS-CoV-2
+### 1.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
-- 1\.2.1 La Confédération prend en charge au maximum 273,50 francs pour les analyses poolées par biologie moléculaire pour le SARS-CoV-2.
-- 1\.2.2.
+- 1\.2.1 La Confédération prend en charge les coûts des analyses poolées de biologie moléculaire pour le SARS-CoV-2 uniquement dans le cadre d’un contrôle et d’une enquête d’entourage ordonnés par un médecin.
+- 1\.2.2
 
-  Le montant du ch. 1.2.1 comprend les prestations et les coûts suivants:
+  Elle prend en charge les coûts uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants visés par la LAI;
+
+  - b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+
+- 1\.2.3
+
+  Elle prend en charge au maximum 279,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection, par un fournisseur de prestations au sens de l’art. 26, al. 2 Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>25 francs 22,50 francs</td></tr>
+<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
+<tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
-- b. pour l’analyse poolée par biologie moléculaire:
+- b. pour l’analyse poolée de biologie moléculaire:
 
 <table>
-<tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>226 francs 82 francs 24 francs 30 francs 60 francs 90 francs 120 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>207 francs 82 francs 5 francs 30 francs 60 francs 90 francs 120 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool =</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
 </table>
 
-### **1.3** **Analyses des anticorps contre le SARS-CoV-2**
+### 1.3 Analyses des anticorps contre le SARS-CoV-2
 
-- 1\.3.1 La Confédération prend en charge au maximum 99 francs pour les analyses des anticorps contre le SARS-CoV-2.
+- 1\.3.1 La Confédération prend en charge les coûts pour les analyses des anticorps contre le SARS-CoV-2 uniquement si elles ont été ordonnées par le service cantonal compétent.
 - 1\.3.2
 
-  Le montant du ch. 1.3.1 comprend les prestations et les coûts suivants:
+  Elle prend en charge les coûts uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants visés par la LAI;
+
+  - b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+
+- 1\.3.3
+
+  Elle prend en charge au maximum 99 francs pour l’analyse des anticorps contre le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour l’entretien détaillé médecin-patient avec pose de l’indication par le médecin</td><td>22,50 francs</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon, y compris le matériel de protection, par un fournisseur de prestations visé à l’art. 26, al. 2, let. a, ch. 1, 3 et 4</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission des résultats de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp</td><td>2,50 francs</td></tr>
+<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp</td><td>2,50 francs</td></tr>
+<tr><td>Pour l’entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
 - b. pour l’analyse des anticorps contre le SARS-CoV-2:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal sur mandat du médecin cantonal, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>49 francs 25 francs 24 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>49 francs</td></tr>
+<tr><td>– pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>25 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>30 francs</td></tr>
+<tr><td>– pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>25 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
 </table>
 
-### 1.4 Analyses des antigènes du SARS-CoV-2 par immunologie et tests rapides SARS-CoV-2
+### 1.4 Analyses des antigènes du SARS-CoV-2 par immunologie et tests rapides SARS-CoV-2 avec application par un professionnel
 
-- 1\.4.1 La Confédération prend en charge au maximum 99 francs pour les analyses des antigènes du SARS-CoV-2 par immunologie ou pour un test rapide SARS-CoV-2.
-- 1\.4.2
+- 1\.4.1
 
-  Le montant du ch. 1.4.1 comprend les prestations et les coûts suivants:
+  La Confédération prend en charge les coûts pour les analyses des antigènes du SARS-CoV-2 par immunologie et pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» uniquement dans les cas suivants:
+
+  - a. pour les personnes symptomatiques;
+  - b. pour les personnes-contacts qui sont en quarantaine,
+  - c. pour les personnes souhaitant mettre fin de manière anticipée à une quarantaine-contact en vertu de l’art. 3*e* de l’ordonnance COVID-19 situation particulière;
+  - d. pour les personnes souhaitant mettre fin de manière anticipée à la quarantaine-voyage visée à l’art. 7, al. 4, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs;
+  - e. pour les personnes qui reçoivent une notification de l’application SwissCovid selon laquelle elles ont potentiellement eu un contact étroit avec une personne infectée au SARS-CoV-2; la Confédération prend en charge les coûts pour un test unique, qui peut être effectué au plus tôt le 5<sup>e</sup> jour après la notification de l’application SwissCovid;
+  - f. pour les personnes domiciliées à l’étranger qui travaillent ou suivent une formation en Suisse, à condition qu’elles aient l’obligation, à l’entrée dans leur pays de domicile, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
+  - g. pour les personnes domiciliées en Suisse qui travaillent ou suivent une formation à l’étranger, à condition qu’elles aient l’obligation, à l’entrée dans le pays étranger, de présenter un résultat négatif à une analyse des antigènes du SARS-CoV-2 par immunologie ou à un test rapide SARS-CoV-2 avec application par un professionnel et que les coûts ne soient pas pris en charge autrement;
+  - h. après un résultat positif d’une analyse poolée de biologie moléculaire au sens du ch. 1.2, 2.2 ou 3.2;
+  - i. pour un contrôle et une enquête d’entourage ordonnés par un médecin;
+  - j. pour toutes les personnes qui ne remplissent pas les critères des let. a à i.
+
+- 1\.4.2 En outre, elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard screening» dans les cas visés au ch. 1.4.1, let. f, g et j.
+- 1\.4.3
+
+  Elle prend en charge les coûts pour les analyses des antigènes du SARS-CoV-2 par immunologie et pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et selon le «standard screening» uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon et l’analyse par :
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants visés par la LAI.
+
+- 1\.4.4
+
+  Elle prend en charge au maximum 95,50 francs pour les analyses des antigènes du SARS-CoV-2 et pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et le «standard screening». Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour la réalisation de l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection, par un fournisseur de prestations au sens de l’art. 26, al. 2</td><td>25 francs</td></tr>
-<tr><td>Pour la transmission des résultats de l’analyse par un fournisseur de prestations au sens de l’art. 26, al. 2, à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par le système TP en cas d’infection avérée</td><td>2,50 francs</td></tr>
+<tr><td>Pour l’entretien avec le patient, le prélèvement de l’échantillon, y compris le matériel de protection</td><td>25 francs</td></tr>
+<tr><td>Pour la transmission du résultat de l’analyse à la personne testée et aux autorités compétentes selon l’art. 12, al. 1, LEp, ainsi que pour la demande du code d’autorisation généré par le système TP en cas d’infection avérée</td><td>2,50 francs</td></tr>
 <tr><td>Pour un entretien détaillé médecin-patient avec pose de l’indication par le médecin, pour autant qu’un tel entretien soit effectué</td><td>22,50 francs</td></tr>
 </table>
 
-- b. pour l’analyse des antigènes du SARS-CoV-2 par immunologie et un test rapide SARS-CoV-2:
+- b. pour l’analyse des antigènes du SARS-CoV-2 par immunologie et un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et le «standard screening»:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat</td><td>30 francs 25 francs 5 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal et mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>49 francs 25 francs 24 francs</td></tr>
-<tr><td>Pour la réalisation par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat</td><td>30 francs 25 francs 5 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>26,50 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>21,50 francs</td></tr>
+<tr><td>– pour le traitement du mandat</td><td>5 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>45,50 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>21,50 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
-### 1.5 Deuxième test PCR spécifique aux mutations du SARS-CoV-2
+### 1.5 Mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2
 
-- 1\.5.1 La Confédération prend en charge au maximum 106 francs pour le deuxième test PCR spécifique aux mutations du SARS-CoV-2.
-- 1\.5.2 Le montant du ch. 1.5.1 comprend les prestations et les coûts suivants:
+- 1\.5.1 La Confédération prend en charge les coûts pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 (*Variant of Concern*, VOC) uniquement après un résultat positif d’une analyse de biologie moléculaire.
+- 1\.5.2 Elle prend en charge les coûts uniquement si les prestations sont fournies par les laboratoires visés à l’art. 54, al. 3, OAMal, et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+- 1\.5.3 Elle prend en charge au maximum 106 francs pour la mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
-<tr><th colspan="2">Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>82 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>106 francs 82 francs 24 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>82 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>106 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
-### 1.6 Séquençage du SARS-CoV-2
+### 1.6 Séquençage diagnostique du SARS-CoV-2
 
-- 1\.6.1 La Confédération prend en charge au maximum 243,50 francs pour le séquençage du SARS-CoV-2.
-- 1\.6.2. Le montant du ch. 1.6.1 comprend les prestations et les coûts suivants:
+- 1\.6.1 La Confédération prend en charge les coûts pour le séquençage diagnostique du SARS-CoV-2 uniquement en cas de suspicion justifiée de la présence d’un variant préoccupant pour lequel aucune méthode de dépistage par screening n’a encore été établie ou n’est disponible, et uniquement sur ordre spécifique du médecin cantonal compétent.
+- 1\.6.2
+
+  Elle prend en charge les coûts uniquement si les prestations sont fournies par:
+
+  - a. des laboratoires de diagnostic microbiologique avec une accréditation du Service d’accréditation suisse (SAS) dans le domaine du séquençage[^annex6-lvlu1-lvl1-lvl16-1];
+  - b. des laboratoires de référence qui satisfont aux conditions visées à l’art. 17 LEp.
+
+- 1\.6.3 Elle prend en charge au maximum 243,50 francs pour le séquençage du SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
-<tr><th colspan="2">Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires de diagnostic microbiologique avec une accréditation auprès du Service d’accréditation suisse (SAS) dans le domaine du séquençage[^annex6-lvlu1-lvl16-1]; ou par des laboratoires de référence qui satisfont aux conditions visées à l’art. 17 LEp, sur mandat spécifique du médecin cantonal, à savoir: pour l’analyse et l’annonce aux autorités compétentes selon l’art. 12, al. 2, LEp pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>243,50 francs 219,50 francs 24 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour la réalisation de l’analyse, à savoir:</td><td>243,50 francs</td></tr>
+<tr><td>– pour l’analyse et la déclaration aux autorités compétentes selon l’art. 12, al. 2, LEp</td><td>219,50 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl16-1]: La liste SAS des laboratoires de diagnostic qui sont accrédités en Suisse et qui ont de l’expérience dans le séquençage d’échantillons microbiologiques est disponible à l’adresse www.sas.admin.ch.
+[^annex6-lvlu1-lvl1-lvl16-1]: La liste SAS des laboratoires de diagnostic qui sont accrédités en Suisse et qui ont de l’expérience dans le séquençage d’échantillons microbiologiques est disponible à l’adresse www.sas.admin.ch.
 
-### 2. Analyses pour le SARS-CoV-2 dans des situations présentant un risque élevé de transmission (ch. 4.5 des critères de suspicion, de prélèvement dʼéchantillons et de déclaration de lʼOFSP du 27 janvier 2021)
+### 2 Tarif réduit pour les dépistages ciblés et répétitifs
 
-- **2.1** **Tests rapides SARS-CoV-2**
-- 2\.1.1 La Confédération prend en charge au maximum 34 francs pour les tests rapides SARS-CoV-2 dans des situations présentant un risque élevé de transmission.
-- 2\.1.2. Le montant du ch. 2.1.1 comprend les prestations et les coûts suivants:
+### 2.1 Tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et selon le «standard screening»
+
+- 2\.1.1
+
+  La Confédération prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» et selon le «standard screening» uniquement dans les cas suivants:
+
+  - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP;
+  - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP;
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
+
+- 2\.1.2
+
+  Elle prend en charge les coûts uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon et l’analyse par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants visés par la LAI.
+
+- 2\.1.3 Elle prend en charge au maximum 34 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou selon le «standard screening». Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon et la réalisation avec un test rapide SARS-CoV-2, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat par un fournisseur de prestations au sens de l’art. 26, al. 2</td><td>34 francs</td></tr>
+<tr><td>Pour le prélèvement de l’échantillon et la réalisation du test, y compris le matériel de test, le matériel de protection et le temps de travail, ainsi que pour l’analyse et le traitement du mandat</td><td>34 francs</td></tr>
 </table>
 
-- [tab] **2.2 Analyses poolées par biologie moléculaire pour le SARS-CoV-2**
-- 2\.2.1 La Confédération prend en charge au maximum 244,50 francs pour les analyses poolées par biologie moléculaire pour le SARS-CoV-2 dans des situations présentant un risque élevé de transmission.
-- 2\.2.2.
+### 2.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
-  Le montant du ch. 2.2.1 comprend les prestations et les coûts suivants:
+- 2\.2.1
+
+  La Confédération prend en charge les coûts des analyses poolées de biologie moléculaire pour le SARS-CoV-2 uniquement dans les cas suivants:
+
+  - a. en cas de tests ciblés et répétitifs dans les écoles, les universités et les établissements de formation en vue de prévenir et de détecter les foyers, pour autant que le service cantonal compétent le prévoie et présente un projet à lʼOFSP;
+  - b. dans des situations à fort risque de transmission, pour autant que le service cantonal compétent le prévoie et présente un projet à l’OFSP;
+  - c. dans le cadre des tests limités dans le temps, dans l’environnement des foyers dʼinfection incontrôlés, pour autant que le service cantonal compétent le prévoie.
+
+- 2\.2.2
+
+  Elle prend en charge les coûts uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - a.
+
+    pour le prélèvement de l’échantillon par:
+
+    - 1\.
+
+      les fournisseurs de prestations suivants visés par la LAMal:
+
+      - – médecins
+      - – pharmaciens
+      - – hôpitaux
+      - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+      - – établissements médico-sociaux
+      - – organisations de soins et d’aide à domicile,
+
+    - 2\. les centres de tests exploités par le canton ou sur son mandat,
+    - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+    - 4\. les assistants visés par la LAI;
+
+  - b. pour l’analyse par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+
+- 2\.2.3
+
+  Elle prend en charge au maximum 250,50 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
   - a. pour le prélèvement de l’échantillon:
 
 <table>
 <tr><td>Prestation</td><td>Montant maximal</td></tr>
-<tr><td>Pour le prélèvement de l’échantillon, y compris le matériel de protection et le temps de travail, ainsi que le traitement du mandat par un fournisseur de prestations au sens de l’art. 26, al. 2</td><td>18,50 francs</td></tr>
+<tr><td>Pour le prélèvement de l’échantillon, y compris le matériel de protection, le temps de travail et le traitement du mandat</td><td>18,50 francs</td></tr>
 </table>
 
-- b. pour l’analyse poolée par biologie moléculaire:
+- b. pour l’analyse poolée de biologie moléculaire:
+
+<table>
+<tr><td>Prestation</td><td>Montant maximal</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+</table>
+
+### 3 Tarif de base pour les dépistages ciblés et répétitifs
+
+### 3.1 Tests rapides SARS-CoV-2 avec application par un professionnel
+
+- 3\.1.1
+
+  La Confédération prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» uniquement dans les cas suivants:
+
+  - a. lors de tests ciblés et répétitifs dans des hôpitaux, des maisons pour personnes âgées, des établissements médicaux-sociaux ainsi que d’autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
+  - b. lors de tests ciblés et répétitifs dans des entreprises et des associations, dans la mesure où le service cantonal compétent présente un projet à l’OFSP.
+  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué auprès de 80 % du personnel de l’entreprise dans laquelle travaille la personne-contact.
+
+- 3\.1.2 En outre, elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon le «standard screening» dans les cas visés au ch. 3.1.1, let. b.
+- 3\.1.3
+
+  Elle prend en charge les coûts pour les tests rapides SARS-CoV-2 avec application par un professionnel selon les ch. 3.1.1 et 3.1.2 uniquement si les prestations sont fournies par les fournisseurs de prestations suivants:
+
+  - 1\.
+
+    les fournisseurs de prestations suivants visés par la LAMal:
+
+    - – médecins
+    - – pharmaciens
+    - – hôpitaux
+    - – laboratoires visés à l’art. 54, al. 3, OAMal et laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp
+    - – établissements médico-sociaux
+    - – organisations de soins et d’aide à domicile,
+
+  - 2\. les centres de tests exploités par le canton ou sur son mandat,
+  - 3\. les institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation,
+  - 4\. les assistants visés par la LAI.
+
+- 3\.1.4 Elle prend en charge au maximum 8 francs pour un test rapide SARS-CoV-2 avec application par un professionnel selon les ch. 3.1.1 et 3.1.2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>226 francs 82 francs 24 francs 30 francs 60 francs 90 francs 120 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>207 francs 82 francs 5 francs 30 francs 60 francs 90 francs 120 franc</td></tr>
+<tr><td>Pour le test rapide SARS-CoV-2 avec application par un professionnel, matériel de test uniquement</td><td>8 francs</td></tr>
 </table>
 
-### **3.** **Analyses pour le SARS-CoV-2 aux fins de prévention du COVID-19 chez les personnes vulnérables (ch. 4.4 des critères de suspicion, de prélèvement d’échantillons et de déclaration de l’OFSP du 27 janvier 2021)**
+### 3.2 Analyses poolées de biologie moléculaire pour le SARS-CoV-2
 
-### 3.1 Tests rapides SARS-CoV-2
+- 3\.2.1
 
-- 3\.1.1 La Confédération prend en charge au maximum 8 francs pour un test rapide SARS-CoV-2 aux fins de prévention du COVID-19 chez les personnes vulnérables.
-- 3\.1.2 Le montant du ch. 3.1.1 comprend les prestations et les coûts suivants:
+  La Confédération prend en charge les coûts des analyses poolées de biologie moléculaire pour le SARS-CoV-2 uniquement dans les cas suivants:
+
+  - a. lors de tests ciblés et répétitifs dans des hôpitaux, des maisons pour personnes âgées, des établissements médicaux-sociaux ainsi que d’autres institutions médico-sociales qui admettent des personnes en vue de traitements ou de soins, de mesures de réadaptation ou de réadaptation socioprofessionnelle ou d’occupation;
+  - b. lors de tests ciblés et répétitifs dans des entreprises, dans la mesure où le service cantonal compétent présente un projet à l’OFSP;
+  - c. lorsqu’une personne-contact est en quarantaine et qu’un dépistage ciblé et répétitif est effectué auprès de 80 % du personnel de l’entreprise dans laquelle travaille la personne-contact.
+
+- 3\.2.2 Elle prend en charge les coûts uniquement si les prestations sont fournies par les laboratoires visés à l’art. 54, al. 3, OAMal et les laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui disposent d’une autorisation conformément à l’art. 16, al. 1, LEp.
+- 3\.2.3 Elle prend en charge au maximum 232 francs pour les analyses poolées de biologie moléculaire pour le SARS-CoV-2. Le montant comprend les prestations et les coûts suivants:
 
 <table>
 <tr><th>Prestation</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation dʼun test rapide SARS-CoV-2 par un fournisseur de prestations au sens de l’art. 26, al. 2; matériel de test uniquement</td><td>8 francs</td></tr>
+<tr><td>Pour la réalisation sur mandat d’un autre fournisseur de prestations, à savoir:</td><td>232 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>24 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
+<tr><td>Pour la réalisation sans mandat d’un autre fournisseur de prestations, à savoir:</td><td>213 francs</td></tr>
+<tr><td>– pour l’analyse avec taille minimale du pool = 4</td><td>82 francs</td></tr>
+<tr><td>– pour le traitement du mandat, les frais généraux et le matériel de prélèvement</td><td>5 francs</td></tr>
+<tr><td>– supplément par prélèvement supplémentaire jusqu’à une taille maximale du pool = 25</td><td>6 francs</td></tr>
 </table>
 
-### 3.2 Analyses poolées par biologie moléculaire pour le SARS-CoV-2
+### 3.3 Autotests SARS-CoV-2
 
-- 3\.2.1 La Confédération prend en charge au maximum 226 francs pour les analyses poolées par biologie moléculaire pour le SARS-CoV-2 aux fins de prévention du COVID-19 chez les personnes vulnérables.
-- 3\.2.2 Le montant du ch. 3.2.1 comprend les prestations et les coûts suivants:
+- 3\.3.1 La Confédération prend en charge les coûts pour 5 autotests SARS-CoV-2 au maximum par personne sur 30 jours.
+- 3\.3.2 Elle prend en charge au maximum 12 francs pour un autotest SARS-CoV-2. Le montant comprend les prestations et les coûts suivants :
 
 <table>
-<tr><th colspan="2">Prestatio</th><th>Montant maximal</th></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui ont été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>226 francs 82 francs 24 francs 30 francs 60 francs 90 francs 120 francs</td></tr>
-<tr><td>Pour la réalisation par des laboratoires visés à l’art. 54, al. 3, OAMal, ou par des laboratoires d’hôpitaux visés à l’art. 54, al. 2, OAMal, qui n’ont pas été mandatés par un autre fournisseur de prestations au sens de l’art. 26, al. 2, à savoir: pour l’analyse avec taille minimale du pool = 4 pour le traitement du mandat, les frais généraux et le matériel de prélèvement supplément selon la taille du pool: pool &gt;4 pool &gt;9 pool &gt;14 pool &gt;19</td><td>207 francs 82 francs 5 francs 30 francs 60 francs 90 francs 120 francs</td></tr>
+<tr><th>Prestation</th><th>Montant maximal</th></tr>
+<tr><td>Pour l’autotest SARS-CoV-2, uniquement le matériel de test incluant le prix de fabrique, un supplément de 80 % sur le prix de fabrique et la taxe sur la valeur ajoutée au taux de 7,7 %</td><td>12 francs</td></tr>
 </table>
 
-### 4 Prise en charge de plusieurs analyses réalisées sur une personne
+### 4 Limitations
 
-- 4\.1 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des anticorps contre le SARS-CoV-2 selon le ch. 1.3 sont réalisées le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.2, let. a, et 1.3.2, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.2, let. b, et 1.3.2, let. b.
-- 4\.2 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des antigènes du SARS-CoV-2 par immunologie selon le ch. 1.4 ou un test rapide SARS-CoV-2 selon le ch. 1.4 sont réalisés le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.2, let. a, et 1.4.2, let. a
-- 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et un deuxième test PCR spécifique aux mutations du SARS-CoV-2 selon le ch. 1.5 ou un séquençage selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations visé à l’art. 26, al. 2, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.2, let. b, 1.5.2, let. a, et 1.6.2, let. a.
+- 4\.1 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des anticorps contre le SARS-CoV-2 selon le ch. 1.3 sont réalisées le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.3, let. a, et 1.3.3, let. a, et une seule fois le montant comprenant le traitement du mandat, les frais généraux et le matériel de prélèvement visé aux ch. 1.1.3, let. b, et 1.3.3, let. b.
+- 4\.2 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une analyse des antigènes du SARS-CoV-2 par immunologie ou un test rapide SARS-CoV-2 avec application par un professionnel selon le «standard diagnostic» ou selon le «standard screening» conformément au ch. 1.4 sont réalisés le même jour sur une personne, la Confédération prend en charge une seule fois le montant pour le prélèvement de l’échantillon selon les ch. 1.1.3, let. a, et 1.4.4, let. a.
+- 4\.3 Si une analyse de biologie moléculaire pour le SARS-CoV-2 selon le ch. 1.1 et une mise en évidence par méthode de biologie moléculaire d’un ou de plusieurs variants préoccupants du SARS-CoV-2 selon le ch. 1.5 ou un séquençage du SARS-CoV-2 selon le ch. 1.6 sont réalisés sur une personne par le même fournisseur de prestations, la Confédération prend en charge une seule fois le montant comprenant le traitement du mandat et les frais généraux visés aux ch. 1.1.3, let. b, 1.5.3 et 1.6.3.
+- 4\.4 Lors d’analyses pour le SARS-CoV-2 pour lesquelles le prélèvement de l’échantillon est effectué par la personne testée elle-même, le coût du prélèvement ne doit pas être facturé.
 
 Annexe 7*[^t-8]*
 

@@ -3,11 +3,11 @@ sr: "818.101.24"
 title: Verordnung 3 vom 19. Juni 2020 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) (Covid-19-Verordnung 3)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/438"
 language: de
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/438/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2020-438-20210315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/438/20210301/de"
 
 (Covid-19-Verordnung 3)
 
-vom 19. Juni 2020 (Stand am 1. März 2021)
+vom 19. Juni 2020 (Stand am 15. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -284,9 +284,9 @@ Der Bund kann wichtige medizinische Güter gegen Bezahlung im Markt selber oder 
 
 #### Art. 23
 
-**Ausnahmen für Medizinprodukte**
+**Ausnahmen für Medizinprodukte: Allgemeines[^23-1]**
 
-<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen und die Inbetriebnahme von Medizinprodukten, für die kein Konformitätsbewertungsverfahren nach Artikel 10 der Medizinprodukteverordnung vom 17. Oktober 2001[^23-1] (MepV) durchgeführt wurde, bewilligen, wenn deren Verwendung zur Verhütung und Bekämpfung des Coronavirus in der Schweiz im Interesse der öffentlichen Gesundheit oder der Patientensicherheit oder -gesundheit liegt und unter Berücksichtigung ihrer Zweckbestimmung die Erfüllung der grundlegenden Anforderungen sowie die Wirksamkeit und Leistung ausreichend nachgewiesen werden.
+<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen und die Inbetriebnahme von Medizinprodukten, für die kein Konformitätsbewertungsverfahren nach Artikel 10 der Medizinprodukteverordnung vom 17. Oktober 2001[^23-2] (MepV) durchgeführt wurde, bewilligen, wenn deren Verwendung zur Verhütung und Bekämpfung des Coronavirus in der Schweiz im Interesse der öffentlichen Gesundheit oder der Patientensicherheit oder -gesundheit liegt und unter Berücksichtigung ihrer Zweckbestimmung die Erfüllung der grundlegenden Anforderungen sowie die Wirksamkeit und Leistung ausreichend nachgewiesen werden.
 
 <sup>2</sup> Im Rahmen der Risikoabwägung nach Absatz 1 berücksichtigt die Swissmedic insbesondere den durch das BAG ausgewiesenen Beschaffungsbedarf zur Verhütung und Bekämpfung des Coronavirus in der Schweiz.
 
@@ -303,13 +303,40 @@ Gesichtsmasken, für die kein Konformitätsbewertungsverfahren nach Artikel 10 M
 
 <sup>6</sup> Die Pflichten zur Produktebeobachtung nach der MepV, insbesondere die Sammel- und Meldepflichten betreffend schwerwiegende Vorkommnisse, gelten weiterhin.
 
-[^23-1]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
+[^23-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23-2]: [SR 812.213](https://fedlex.data.admin.ch/eli/cc/2020/552)
 
 #### Art. 23a
 
-**Ausnahme für Atemschutzmasken**[^23a-1]
+**Ausnahmen für Medizinprodukte: Sars-CoV-2-Selbsttests**[^23a-1]
 
-<sup>1</sup> Atemschutzmasken, die nicht den Grundsätzen und Verfahren für die Konformitätsbewertung nach Artikel 3 Absatz 2 der PSA-Verordnung vom 25. Oktober 2017[^23a-2] (PSAV) entsprechen und deren Abweichung von diesen Grundsätzen und Verfahren nicht gestützt auf Artikel 24 Absatz 3 in der Fassung vom 22. Juni 2020[^23a-3] genehmigt wurde, dürfen nicht auf dem Markt bereitgestellt werden.
+<sup>1</sup> Die Swissmedic kann auf Gesuch hin das Inverkehrbringen von nicht automatisierten Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 (Sars-CoV-2-Schnelltests), die vom Hersteller für die Eigenanwendung durch das Publikum vorgesehen sind (Sars-CoV-2-Selbsttests), für die kein Konformitätsbewertungsverfahren nach Artikel 10 MepV[^23a-2] durchgeführt wurde, bewilligen.
+
+<sup>2</sup>
+
+Das Gesuch muss folgende Angaben enthalten:
+
+- a. Beschreibung des Produkts;
+- b. Nachweis des Antrags für ein Konformitätsbewertungsverfahren für das Produkt bei einer nach schweizerischem Recht bezeichneten Konformitätsbewertungsstelle oder bei einer benannten Stelle nach EU-Recht;
+- c. sofern keine Stelle den Antrag nach Buchstabe b annimmt, Kopien der Ablehnungen von mindestens zwei Stellen;
+- d. CE-Kennzeichnung des Sars-CoV-2-Schnelltests zur Fachanwendung, auf dem der Sars-CoV-2-Selbsttest basiert;
+- e. Nachweis der Erfüllung der Anforderungen nach Artikel 24*a* und der Mindestkriterien nach Anhang 5*a* Ziffer 3;
+- f. Nachweis der Gebrauchstauglichkeit des Produkts bei Eigenanwendung;
+- g. Nachweis der Erfüllung der speziell für die Eigenanwendung spezifizierten grundlegenden Anforderungen nach Anhang I der Richtlinie 98/79/EG[^23a-3];
+- h aktuelle Risikoanalyse, die die Risiken, die sich aus der Eigenanwendung ergeben, berücksichtigt;
+- i. Produktkennzeichnung und Gebrauchsanweisung in den drei Amtssprachen.
+
+<sup>3</sup> Die Bewilligung wird gegenüber dem Hersteller oder seinem Schweizer Vertreter verfügt. Sie kann befristet werden und unter Auflagen oder Bedingungen erfolgen.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^23a-2]: SR **812.813**
+[^23a-3]: Richtlinie 98/79/EG des Europäischen Parlamentes und des Rates vom 27. Oktober 1998 über In-vitro-Diagnostika, ABl. L 331 vom 7.12.1998, S. 1; zuletzt geändert durch Richt-linie 2011/100/EU, ABl. L 341 vom 22.12.2011, S. 50.
+
+#### Art. 23b
+
+**Ausnahme für Atemschutzmasken**[^23b-1]
+
+<sup>1</sup> Atemschutzmasken, die nicht den Grundsätzen und Verfahren für die Konformitätsbewertung nach Artikel 3 Absatz 2 der PSA-Verordnung vom 25. Oktober 2017[^23b-2] (PSAV) entsprechen und deren Abweichung von diesen Grundsätzen und Verfahren nicht gestützt auf Artikel 24 Absatz 3 in der Fassung vom 22. Juni 2020[^23b-3] genehmigt wurde, dürfen nicht auf dem Markt bereitgestellt werden.
 
 <sup>2</sup>
 
@@ -320,22 +347,22 @@ Atemschutzmasken nach Absatz 1, die sich in Lagerbeständen von Bund und Kantone
 
 <sup>3</sup> Die Produktinformation muss bei der Abgabe verfügbar und mindestens in einer Amtssprache oder in Englisch abgefasst sein. Es muss sichergestellt sein, dass die Anwenderin oder der Anwender die notwendigen Voraussetzungen mitbringt, um das Produkt bestimmungsgemäss zu verwenden.
 
-[^23a-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^23a-2]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
-[^23a-3]: [AS 2020 2195](https://fedlex.data.admin.ch/eli/oc/2020/438)
+[^23b-1]: Ursprünglich: Art. 23*a*. Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^23b-2]: [SR 930.115](https://fedlex.data.admin.ch/eli/cc/2017/635)
+[^23b-3]: [AS 2020 2195](https://fedlex.data.admin.ch/eli/oc/2020/438)
 
 #### Art. 24
 
-**Einrichtungen, die nicht automatisierte Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 durchführen dürfen**[^24-1]
+**Durchführung von Sars-CoV-2-Schnelltests zur Fachanwendung sowie Abgabe und Verwendung von Sars-CoV-2-Selbsttests[^24-2]**[^24-1]
 
 <sup>1</sup>
 
-Nicht automatisierte Einzelpatienten-Schnelltests zum direkten Nachweis von Sars-CoV-2 (Sars-CoV-2-Schnelltests) dürfen nur in den folgenden Einrichtungen durchgeführt werden:
+Sars-CoV-2-Schnelltests zur Fachanwendung dürfen nur in den folgenden Einrichtungen durchgeführt werden:[^24-3]
 
-- a. in nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^24-2] (EpG) bewilligten Laboratorien und von ihnen betriebenen Probenentnahmestellen;
-- b.[^24-3] in Arztpraxen, Apotheken, Spitälern, Alters- und Pflegeheimen und sozialmedizinischen Institutionen sowie in Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden.
+- a. in nach Artikel 16 des Epidemiengesetzes vom 28. September 2012[^24-4] (EpG) bewilligten Laboratorien und von ihnen betriebenen Probenentnahmestellen;
+- b.[^24-5] in Arztpraxen, Apotheken, Spitälern, Alters- und Pflegeheimen und sozialmedizinischen Institutionen sowie in Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden.
 
-<sup>1bis</sup> Sie dürfen auch in und durch Organisationen der Krankenpflege und Hilfe zu Hause durchgeführt werden.[^24-4]
+<sup>1bis</sup> Sie dürfen auch in und durch Organisationen der Krankenpflege und Hilfe zu Hause sowie durch Assistenzpersonen nach dem Bundesgesetz vom 19. Juni 1959[^24-6] über die Invalidenversicherung (IVG) durchgeführt werden.[^24-7]
 
 <sup>2</sup> Sars-CoV-2-Schnelltests dürfen auch ausserhalb der in Absatz 1 erwähnten Einrichtungen durchgeführt werden, sofern eine Laborleiterin oder ein Laborleiter, eine Ärztin oder ein Arzt oder eine Apothekerin oder ein Apotheker die Verantwortung für die Einhaltung der Anforderungen der Artikel 24–24*b* übernimmt.
 
@@ -348,29 +375,42 @@ Auf molekularbiologischen Nachweisverfahren basierende Sars-CoV-2-Schnelltests d
 
 <sup>4</sup>
 
-Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-CoV-2-Schnelltests ohne Bewilligung nach Artikel 16 EpG und ausserhalb von geschlossenen Systemen durchführen, wenn sie die folgenden Anforderungen erfüllen:[^24-5]
+Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-CoV-2-Schnelltests zur Fachanwendung ohne Bewilligung nach Artikel 16 EpG und ausserhalb von geschlossenen Systemen durchführen, wenn sie die folgenden Anforderungen erfüllen:[^24-8]
 
 - a. Geeignete Sicherheitsmassnahmen und Schutzkonzepte zum Schutz der Menschen, der Tiere, der Umwelt und der biologischen Vielfalt sind vorgesehen und werden eingehalten.
-- b. Die Tests werden nur durch dafür spezifisch geschultes Personal und gemäss den Anweisungen der Testhersteller durchgeführt.
+- b.[^24-9] Die Tests werden nur durch dafür spezifisch geschulte Personen und gemäss den Anweisungen der Testhersteller durchgeführt.
 - c. Die Testergebnisse werden unter Aufsicht von Personen mit der notwendigen spezifischen Fachexpertise interpretiert; dazu können auch externe Fachpersonen beigezogen werden.
 - d. Die Einrichtungen führen eine Dokumentation, mit der die Rückverfolgbarkeit und die Qualität der eingesetzten Testsysteme nachgewiesen wird. Die Dokumentation ist aufzubewahren.
 - e. Die Einrichtungen sind vom Kanton ermächtigt, solche Tests durchzuführen.
 
+<sup>4bis</sup>
+
+Sars-CoV-2-Selbsttests dürfen abgegeben und verwendet werden, wenn sie:
+
+- a. gemäss Angaben des Herstellers zur Eigenanwendung vorgesehen und entsprechend zertifiziert oder nach Artikel 23*a* von der Swissmedic bewilligt sind;
+- b. die Anforderungen nach Artikel 24*a* und die Mindestkriterien nach Anhang 5*a* Ziffer 3 erfüllen;
+- c. durch Apotheken an das Publikum abgegeben werden.[^24-10]
+
 <sup>5</sup> Als Sars-CoV-2-Schnelltests gelten direkte Nachweismethoden, die die Antigene oder die Ribonukleinsäure von Sars-CoV-2 nachweisen. Die Tests erfolgen nicht automatisiert und mit minimalem Instrumentarium; automatisiert erfolgt höchstens das Ablesen des Testresultats.
 
 [^24-1]: Fassung gemäss Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24-2]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^24-3]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24-4]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-2]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-3]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
 [^24-5]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24-6]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^24-7]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-8]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-9]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24-10]: Eingefügt durch Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 24a
 
-**Durch andere Einrichtungen als nach Artikel 16 EpG bewilligten Laboratorien zu verwendende Sars-CoV-2-Schnelltests[^24a-2]**[^24a-1]
+**Zulässige Sars-CoV-2-Schnelltests[^24a-2]**[^24a-1]
 
 <sup>1</sup> Für Sars-CoV-2-Schnelltests dürfen nur Testsysteme verwendet werden, für die mittels einer unabhängigen Validierung durch ein nach Artikel 16 EpG bewilligtes Laboratorium nachgewiesen worden ist, dass deren Zuverlässigkeit und Leistung die Mindestkriterien nach Anhang 5*a* erfüllen.[^24a-3]
 
-<sup>2</sup> Statt der Testsysteme nach Absatz 1 können im Einzelfall auch Testsysteme verwendet werden, deren Validierung von einem europäisch anerkannten Laboratorium oder einer europäisch anerkannten Einrichtung durchgeführt wurde, sofern das BAG diese Validierung, unter Beizug der Schweizerischen Gesellschaft für Mikrobiologie (SGM) oder des Nationalen Referenzzentrum für neu auftretende Virusinfektionen (NAVI), anerkennt.
+<sup>2</sup> Statt der Testsysteme nach Absatz 1 können im Einzelfall auch Testsysteme verwendet werden, deren Validierung von einem europäisch anerkannten Laboratorium oder einer europäisch anerkannten Einrichtung durchgeführt wurde, sofern das BAG diese Validierung anerkennt.[^24a-4]
 
 <sup>3</sup> Die Testsysteme nach den Absätzen 1 und 2 dürfen nur verwendet werden, soweit dadurch eine genügende Versorgung mit Testmaterialien der Laboratorien nach Artikel 24 Absatz 1 Buchstabe a nicht gefährdet ist.
 
@@ -381,37 +421,22 @@ Einrichtungen nach den Absätzen 1 Buchstabe b und 1<sup>bis</sup> dürfen Sars-
 Die Absätze 1–4 gelten nicht für Sars-CoV-2-Schnelltests, die durchgeführt werden durch:
 
 - a. nach Artikel 16 EpG bewilligten Laboratorien und von ihnen betriebenen Probenentnahmestellen;
-- b. Einrichtungen, die keine Laboratorien sind, bei denen aber eine direkte und aktive Aufsicht und Verantwortung mit einem bewilligten Laboratorium vertraglich geregelt ist und die Aktivität von diesem betrieben wird.[^24a-4]
+- b. Einrichtungen, die keine Laboratorien sind, bei denen aber eine direkte und aktive Aufsicht und Verantwortung mit einem bewilligten Laboratorium vertraglich geregelt ist und die Aktivität von diesem betrieben wird.[^24a-5]
 
 [^24a-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24a-2]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-2]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^24a-3]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24a-4]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24a-4]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24a-5]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
 
 #### Art. 24b
 
-**Personen, bei denen Sars-CoV-2-Schnelltests durchgeführt werden dürfen**[^24b-1]
+**Information des Kantons über ein positives Testergebnis bei fehlender Bestätigungsdiagnostik**[^24b-1]
 
-<sup>1</sup> Sars-CoV-2-Schnelltests dürfen nur bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021[^24b-2] erfüllen.[^24b-3]
+Erfolgt nach einem positiven Ergebnis eines Sars-CoV-2-Schnelltests keine Bestätigungsdiagnostik und hat das EDI nicht gestützt auf Artikel 19 der Epidemienverordnung vom 29. April 2015[^24b-2] eine Meldung der Befunde des Sars-CoV-2-Schnelltests festgelegt, so muss die für die Durchführung des Tests verantwortliche Einrichtung oder Person die für das Contact-Tracing zuständige kantonale Stelle über das positive Testergebnis informieren.
 
-<sup>2</sup>
-
-Sie dürfen auch bei Personen durchgeführt werden, die die Kriterien nach Absatz 1 nicht erfüllen, wenn:[^24b-4]
-
-- a. die Anforderungen nach den Artikeln 24 Absatz 4 und 24*a* erfüllt sind;
-- b.
-
-  die Einrichtung oder die Person, die Sars-CoV-2-Schnelltests durchführt:
-
-  - 1\. eine Probeentnahme in Hinblick auf eine molekularbiologische Analyse auf Sars-CoV-2 als Bestätigungsdiagnostik ermöglicht,
-  - 2\. die für das Contact-Tracing zuständige kantonale Stelle informiert, wenn keine Bestätigungsdiagnostik erfolgt.
-
-<sup>3</sup> Das BAG veröffentlicht Informationen zum Einsatz von Sars-CoV-2-Schnelltests bei Personen, die die Kriterien nach Absatz 1 nicht erfüllen.
-
-[^24b-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
-[^24b-2]: Die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021 sind abrufbar unter www.bag.admin.ch &gt; Krankheiten &gt; Infektionskrankheiten bekämpfen &gt; Meldesysteme für Infektionskrankheiten &gt; Meldepflichtige Infektionskrankheiten &gt; Meldeformulare.
-[^24b-3]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^24b-4]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^24b-1]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^24b-2]: [SR 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)
 
 #### Art. 24c
 
@@ -460,116 +485,87 @@ Sie können zu diesem Zweck die Spitäler und Kliniken verpflichten:
 
 **Übernahme der Kosten für Analysen auf Sars-CoV-2**[^26-1]
 
-<sup>1</sup> Der Bund übernimmt die Kosten von ambulant durchgeführten Analysen auf Sars-CoV-2 nach Anhang 6 bei Personen, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021[^26-2] erfüllen. Die Leistungen, deren Kosten übernommen werden und die Höchstbeträge pro Leistung sind in Anhang 6 festgelegt. Das EDI kann die Höchstbeträge der Entwicklung der effektiven Kosten anpassen.[^26-3]
+<sup>1</sup> Der Bund übernimmt die Kosten von Analysen auf Sars-CoV-2 unter den Voraussetzungen nach Anhang 6 und bis zu den Höchstbeträgen, die in Anhang 6 festgelegt sind*.*
 
-<sup>2</sup>
+<sup>2</sup> Das BAG veröffentlicht wöchentlich auf seiner Webseite die Anzahl molekularbiologischer Analysen auf Sars-CoV-2 nach Anhang 6 Ziffer 1, die während einer Kalenderwoche in der Schweiz und in Liechtenstein durchgeführt worden sind. Das EDI kann die Höchstbeträge der Entwicklung der effektiven Kosten anpassen.
 
-Der Bund übernimmt die Kosten nur, wenn die Leistungen nach Anhang 6 durch folgende Leistungserbringer erbracht werden:
+<sup>3</sup> Für Analysen auf Sars-CoV-2 nach Anhang 6 müssen auf dem Auftrag an das Laboratorium die notwendigen Angaben für die elektronische Abrechnung, insbesondere die Versicherten- oder Kundennummer des Versicherers der getesteten Person vermerkt werden.
 
-- a.
+<sup>4</sup> Für die Leistungen nach Anhang 6 wird keine Kostenbeteiligung nach Artikel 64 des Bundesgesetzes vom 18. März 1994[^26-2] über die Krankenversicherung (KVG) erhoben.
 
-  folgende Leistungserbringer nach dem Bundesgesetz vom 18. März 1994[^26-4] über die Krankenversicherung (KVG):
+<sup>5</sup> Die Leistungserbringer dürfen den getesteten Personen im Rahmen der Leistungen nach Anhang 6 keine weiteren Kosten verrechnen. Sie müssen dem Schuldner der Vergütung zudem direkte oder indirekte Vergünstigungen auf den Kostenanteilen nach Anhang 6 weitergeben.
 
-  - 1\. Ärztinnen und Ärzte,
-  - 2\. Apothekerinnen und Apotheker,
-  - 3\. Spitäler,
-  - 4\. Laboratorien nach Artikel 54 Absatz 3 der Verordnung vom 27. Juni 1995[^26-5] über die Krankenversicherung (KVV) und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen,
-  - 5\. Pflegeheime,
-  - 6\. Organisationen der Krankenpflege und Hilfe zu Hause;
-
-- b. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden;
-- c. Altersheime;
-- d. sozialmedizinische Institutionen.[^26-6]
-
-<sup>3</sup> Auf dem Auftrag an das Laboratorium müssen die notwendigen Angaben für die elektronische Abrechnung, insbesondere die Versicherten- oder Kundennummer des Versicherers der getesteten Person vermerkt werden.[^26-7]
-
-<sup>4</sup> Für die Leistungen nach Anhang 6 wird keine Kostenbeteiligung nach Artikel 64 KVG erhoben.
-
-<sup>5</sup> Die Leistungserbringer nach Absatz 2 dürfen den getesteten Personen im Rahmen der Leistungen nach Anhang 6 keine weiteren Kosten verrechnen. Sie müssen dem Schuldner der Vergütung zudem direkte oder indirekte Vergünstigungen auf den Kostenanteilen nach Anhang 6 Ziffern 1–3 weitergeben.
-
-<sup>6</sup> Die Kosten der Analysen auf Sars-CoV-2, die bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 nicht erfüllen, werden nicht vom Bund übernommen.[^26-8]
-
-[^26-1]: Fassung gemäss Ziff. I der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests), in Kraft seit 2. Nov. 2020 ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)).
-[^26-2]: Siehe Fussnote zu Art. 24*b* Abs. 1.
-[^26-3]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-4]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26-5]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
-[^26-6]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-7]: Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26-8]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26-1]: Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^26-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 26a
 
-**Schuldner der Vergütung der Leistungen**[^26a-1]
+**Schuldner der Vergütungen der Leistungen**[^26a-1]
 
 <sup>1</sup>
 
-Wird die Analyse auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021[^26a-2] von einem Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, der über eine Zahlstellenregisternummer (ZSR-Nummer) verfügt, so wird die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG[^26a-3] von folgenden Versicherern geschuldet:
+Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über eine Zahlstellenregisternummer (ZSR-Nummer) verfügt, oder wird der Sars-CoV-2-Selbsttest nach Anhang 6 Ziffer 3.3 durch einen Leistungserbringer abgegeben, der über eine ZSR-Nummer verfügt, so wird die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG[^26a-2] von folgenden Versicherern geschuldet:
 
-- a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^26a-4], bei dem die getestete Person versichert ist;
+- a. bei Personen, die über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der Krankenkasse nach Artikel 2 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^26a-3], bei der die getestete Person versichert ist;
 - b. bei Personen, die bei der Militärversicherung gegen Krankheit versichert sind, von der Militärversicherung;
 - c. bei Personen, die nicht über eine obligatorische Krankenpflegeversicherung nach dem KVG verfügen, von der gemeinsamen Einrichtung nach Artikel 18 KVG.
 
-<sup>2</sup> Wird die Analyse auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021 von einem Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
+<sup>2</sup> Wird die Leistung im Rahmen einer Analyse auf Sars-CoV-2 nach Anhang 6 Ziffer 1 von einem Leistungserbringer durchgeführt, der über keine ZSR-Nummer verfügt, so schuldet der Kanton, in dem die Probenentnahme durchgeführt wird, die Vergütung der Leistungen.
 
 <sup>3</sup>
 
-Wird die Analyse auf Sars-CoV-2 zur Prävention von Covid-19 bei besonders gefährdeten Personen (Ziff. 4.4 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021) durchgeführt, so können die Leistungserbringer nach Artikel 26 Absatz 2 als Schuldner der Vergütung der Leistung wählen:
+Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1.1 Buchstaben i und j, 1.4.1 Buchstaben h und i und 3.1.1 Buchstabe a durchgeführt, so können die Leistungserbringer als Schuldner der Vergütung der Leistung wählen:
 
 - a. den Versicherer nach Absatz 1, der die Vergütung der Leistungen nach dem System des *Tiers payant* im Sinne von Artikel 42 Absatz 2 KVG schuldet; oder
-- b. den Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird.
+- b. den Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird.
 
-<sup>4</sup> Wird die Analyse auf Sars-CoV-2 in Situationen mit erhöhtem Übertragungsrisiko (Ziff. 4.5 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021) durchgeführt, so schuldet der Kanton, in dem die Analyse auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
+<sup>4</sup> Wird die Analyse auf Sars-CoV-2 nach Anhang 6 Ziffern 2, 3.1.1 Buchstaben b und c und 3.2.1 Buchstaben b und c durchgeführt, so schuldet der Kanton, in dem die Probenentnahme auf Sars-CoV-2 durchgeführt wird, die Vergütung der Leistungen.
 
-[^26a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Fassung gemäss Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
-[^26a-2]: Siehe Fussnote zu Art. 24*b* Abs. 1.
-[^26a-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26a-4]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^26a-1]: Eingefügt durch Ziff. I der V vom 24. Juni 2020 ([AS 2020 2549](https://fedlex.data.admin.ch/eli/oc/2020/467)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^26a-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^26a-3]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 
 #### Art. 26b
 
 **Verfahren, wenn der Versicherer Schuldner der Vergütung der Leistung ist**[^26b-1]
 
-<sup>1</sup> Ist nach Artikel 26*a* Absätze 1 und 3 Buchstabe a ein Versicherer Schuldner der Vergütung der Leistung, so senden die Leistungserbringer nach Artikel 26 Absatz 2 die Rechnung über Leistungen nach Anhang 6 pro getestete Person dem zuständigen Versicherer. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
+<sup>1</sup> Ist nach Artikel 26*a* Absätze 1 und 3 Buchstabe a ein Versicherer Schuldner der Vergütung der Leistung, so senden die Leistungserbringer die Rechnung über Leistungen nach Anhang 6 pro getestete Person einzelfallweise oder quartalsweise gesammelt spätestens neun Monate nach Erbringung der Leistungen dem zuständigen Versicherer. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
 
-<sup>2</sup> In Fällen nach Artikel 26*a* Absatz 1 kann die Rechnung einzelfallweise oder quartalsweise gesammelt gesendet werden. In Fällen nach Artikel 26*a* Absatz 3 Buchstabe a muss die Rechnung quartalsweise gesammelt gesendet werden. In jedem Fall ist die Rechnung spätestens neun Monate nach Erbringung der Leistungen zu senden.
+<sup>2</sup> Die Leistungserbringer dürfen Leistungen nach Anhang 6 nicht nach der Position 3186.00 von Anhang 3 der Krankenpflege-Leistungsverordnung vom 29. September 1995[^26b-2] (KLV) verrechnen.
 
-<sup>3</sup> Die Leistungserbringer nach Artikel 26 Absatz 2 dürfen Leistungen nach Anhang 6 nicht nach der Position 3186.00 von Anhang 3 der Krankenpflege-Leistungsverordnung vom 29. September 1995[^26b-2] (KLV) verrechnen.
+<sup>3</sup> Die Versicherer kontrollieren die Rechnungen und prüfen, ob der Leistungserbringer die Leistungen nach Anhang 6 korrekt abgerechnet hat. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84*b* KVG[^26b-3].
 
-<sup>4</sup> Die Versicherer kontrollieren die Rechnungen und prüfen, ob die Leistungen nach Anhang 6 von einem Leistungserbringer nach Artikel 26 Absatz 2 korrekt abgerechnet worden sind. Sie beachten bei der Bearbeitung der Daten die Artikel 84–84*b* KVG[^26b-3].
+<sup>4</sup> Sie melden dem BAG die Anzahl Analysen, die sie den Leistungserbringern vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober. Die externen Revisionsstellen der Versicherer prüfen jährlich die Meldungen und die Existenz geeigneter Kontrollen im Sinne von Absatz 3 und erstatten dem BAG Bericht. Das BAG kann von den Versicherern zusätzliche Informationen zu den vergüteten Beträgen je Leistungserbringer verlangen.
 
-<sup>5</sup> Sie melden dem BAG die Anzahl Analysen, die sie den Leistungserbringern nach Artikel 26 Absatz 2 vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober. Die externen Revisionsstellen der Versicherer prüfen jährlich die Meldungen und die Existenz geeigneter Kontrollen im Sinne von Absatz 4 und erstatten dem BAG Bericht. Das BAG kann von den Versicherern zusätzliche Informationen zu den vergüteten Beträgen je Leistungserbringer nach Artikel 26 Absatz 2 verlangen.
+<sup>5</sup> Der Bund zahlt den Versicherern die von ihnen vergüteten Leistungen quartalsweise.
 
-<sup>6</sup> Der Bund zahlt den Versicherern die von ihnen vergüteten Leistungen quartalsweise.
+<sup>6</sup> Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Versicherer bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 5 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Versicherer geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
 
-<sup>7</sup> Bei Verletzung der Meldepflichten nach Artikel 12 EpG bei Analysen auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1 und 1.3–1.6 durch den Leistungserbringer kann der Bund die Vergütung beim Leistungserbringer zurückfordern.
+<sup>7</sup> Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 26*a* Absätze 1 Buchstabe c und 3 Buchstabe a nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
 
-<sup>8</sup> Die gemeinsame Einrichtung stellt dem BAG quartalsweise ihre Verwaltungskosten für ihre Tätigkeit als Versicherer nach Artikel 26*a* Absätze 1 Buchstabe c und 3 Buchstabe a nach Aufwand in Rechnung. Der Stundenansatz beträgt 95 Franken und umfasst Lohnkosten, Sozialleistungen und Infrastrukturkosten. Für die in den Verwaltungskosten nicht enthaltenen Aufwendungen für allfällige Revisionen, Systemanpassungen und Negativzinsen werden die tatsächlichen Kosten vergütet.
+<sup>8</sup> Rechnungen für Analysen auf Sars-CoV-2, welche die Voraussetzungen von Anhang 6 nicht erfüllen, müssen mit dem Vermerk «Analyse auf Sars-CoV-2 ohne Erfüllung der Beprobungskriterien» versehen sein.
 
-<sup>9</sup> Die Rechnung für Analysen auf Sars-CoV-2, die bei Personen durchgeführt werden, die die Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021[^26b-4] nicht erfüllen, muss mit dem Vermerk «Analyse auf Sars-CoV-2 ohne Erfüllung der Beprobungskriterien» versehen sein.
-
-[^26b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26b-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26b-2]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 [^26b-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^26b-4]: Siehe Fussnote zu Art. 24*b* Abs. 1.
 
 #### Art. 26c
 
 **Verfahren, wenn der Kanton Schuldner der Vergütung der Leistung ist**[^26c-1]
 
-<sup>1</sup> Ist nach Artikel 26*a* Absätze 2, 3 Buchstabe b und 4 der Kanton Schuldner der Vergütung der Leistung, so senden die Leistungserbringer nach Artikel 26 Absatz 2 die Rechnung dem zuständigen Kanton spätestens neun Monate nach Erbringung der Leistungen quartalsweise gesammelt. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
+<sup>1</sup> Ist nach Artikel 26*a* Absätze 2, 3 Buchstabe b und 4 der Kanton Schuldner der Vergütung der Leistung, so senden die Leistungserbringer die Rechnung dem zuständigen Kanton spätestens neun Monate nach Erbringung der Leistungen quartalsweise gesammelt. Die Rechnung darf nur die Leistungen nach Anhang 6 beinhalten. Die Übermittlung erfolgt vorzugsweise elektronisch.
 
-<sup>2</sup> Die Leistungserbringer nach Artikel 26 Absatz 2 dürfen Leistungen nach Anhang 6 nicht nach der Position 3186.00 von Anhang 3 der KLV[^26c-2] verrechnen.
+<sup>2</sup> Die Leistungserbringer dürfen Leistungen nach Anhang 6 nicht nach der Position 3186.00 von Anhang 3 der KLV[^26c-2] verrechnen.
 
-<sup>3</sup> Die Kantone kontrollieren die Rechnungen und prüfen, ob die Leistungen nach Anhang 6 von einem Leistungserbringer nach Artikel 26 Absatz 2 korrekt abgerechnet worden sind. Sie haben die jeweiligen kantonalen Datenschutzbestimmungen zu beachten.
+<sup>3</sup> Die Kantone kontrollieren die Rechnungen und prüfen, ob der Leistungserbringer die Leistungen nach Anhang 6 korrekt abgerechnet hat. Sie haben die jeweiligen kantonalen Datenschutzbestimmungen zu beachten.
 
-<sup>4</sup> Sie melden dem BAG die Anzahl Analysen, die sie den Leistungserbringern nach Artikel 26 Absatz 2 vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober.
+<sup>4</sup> Sie melden dem BAG die Anzahl Analysen, die sie den Leistungserbringern vergütet haben, sowie den vergüteten Betrag jeweils auf Anfang Januar, April, Juli und Oktober.
 
-<sup>5</sup> Der Bund zahlt den Kantonen die von ihnen vergüteten Leistungen quartalsweise.
+<sup>5</sup> Der Bund zahlt den Kantonen die von ihnen vergüteten Leistungen quartalsweise. Er bezahlt zudem einmalig eine Anschubfinanzierung an Kantone, die eine gezielte und repetitive Testung der Bevölkerung aufbauen. Die Kantone stellen dem Bund dafür nur die tatsächlichen Kosten in Rechnung, höchstens aber 8 Franken pro Einwohnerin und Einwohner. Anrechenbar sind Kosten im Bereich Informatik und Logistik.
 
-<sup>6</sup> Bei Verletzung der Meldepflichten nach Artikel 12 EpG bei Analysen auf Sars-CoV-2 nach Anhang 6 Ziffern 1.1 und 1.3–1.6 durch den Leistungserbringer kann der Bund die Vergütung beim Leistungserbringer zurückfordern.
+<sup>6</sup> Wurde die Leistung vom Leistungserbringer zu Unrecht in Rechnung gestellt, so kann der Kanton bereits geleistete Vergütungen zurückfordern. Mit der Bezahlung der Leistung durch den Bund nach Absatz 5 geht ein allfälliger Rückforderungsanspruch auf den Bund über. Die Kantone geben dem Bund die Daten bekannt, die für die Wahrnehmung des Rückforderungsanspruchs erforderlich sind. Die Daten dürfen keine besonders schützenswerten Personendaten enthalten.
 
-[^26c-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^26c-1]: Eingefügt durch Ziff. I der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken) ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)). Fassung gemäss Ziff. I der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 [^26c-2]: [SR 832.112.31](https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964)
 
 ## 4. Kapitel: Versammlungen von Gesellschaften
@@ -663,7 +659,7 @@ Persönliche Schutzausrüstungen, die gestützt auf Artikel 24 des bisherigen Re
 [^29-2]: Aufgehoben durch Ziff. II der V vom 12. Aug. 2020 (Maskenpflicht in Luftfahrzeugen; Grossveranstaltungen), mit Wirkung seit 15. Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
 [^29-3]: Eingefügt durch Ziff. I der V vom 11. Sept. 2020 (Verlängerung; Testkosten), in Kraft seit 14. Sept. 2020 ([AS 2020 3695](https://fedlex.data.admin.ch/eli/oc/2020/671)).
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
 (Art. 3 Abs. 2)
 
@@ -690,11 +686,11 @@ Alle Staaten ausserhalb des Schengen-Raums, mit Ausnahme von:
 - – Zypern
 - [tab]
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 [^t-2]: Obsolet geworden durch die Aufhebung von Art. 8 (s. Art. 6 Ziff. 1 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 2. Juli 2020, [AS 2020 2737](https://fedlex.data.admin.ch/eli/oc/2020/496)).
 
-Anhang 3[^t-3]
+Anhang 3*[^t-3]*
 
 (Art. 9 Abs. 3)
 
@@ -704,7 +700,7 @@ Anhang 3[^t-3]
 
 Der Personenverkehr aus folgenden Staaten in die Schweiz ist untersagt:
 
-Anhang 4[^t-4]
+Anhang 4*[^t-4]*
 
 (Art. 11 Abs. 1, 19 Abs. 1 und 21 Abs. 2)
 
@@ -778,7 +774,7 @@ Anhang 4[^t-4]
 
 ### 3. Persönliche Schutzausrüstungen und weitere Ausrüstung
 
-### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017
+### 3.1 Persönliche Schutzausrüstungen im Sinne der PSA-Verordnung vom 25. Oktober 2017****
 
 [^annex4-lvlu1-lvl3-lvl31-1]
 
@@ -798,7 +794,7 @@ Anhang 4[^t-4]
 
 \4. Hygieneartikel in der Intensivmedizin (z. B. absorbierende Unterlagen, Windeln, Rectalkollektoren, Artikel zur Mund- und Rachenhygiene
 
-Anhang 5[^t-5]
+Anhang 5*[^t-5]*
 
 (Art. 21 Abs. 1 und 3 sowie 22 Abs. 1)
 
@@ -809,64 +805,122 @@ Anhang 5[^t-5]
 - 1\. Remdesivir
 - 2\. Tocilizumab
 
-Anhang 5a[^t-6]
+Anhang 5a*[^t-6]*
 
-(Art. 24*a* Abs. 1)
+(Art. 23*a* Abs. 2 Bst. e, 24 Abs. 4<sup>bis</sup> Bst. b und 24*a* Abs. 1)
 
 ## Mindestkriterien in Bezug auf die Zuverlässigkeit und Leistung von Sars-CoV-2-Schnelltests
 
-[^t-6]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests), in Kraft seit 21. Dez. 2020 ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)).
+[^t-6]: Eingefügt durch Ziff. III Abs. 1 der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 ### 1 Allgemeines
 
-- 1\.1 Alle zu validierenden Tests müssen mit einer Realtime-Reverse-Transkriptase-Polymerase-Kettenreaktion (RT-PCR) aus Nase-Rachen-Abstrich verglichen werden.
-- 1\.2 Für die Verwendung solcher Sars-CoV-2-Schnelltests wird eine unabhängige Validierung vorausgesetzt. Die Sars-CoV-2-Schnelltests werden grundsätzlich anhand der klinischen Validierungskriterien nach Ziffer 2 validiert. Ausnahme sind Sars-CoV-2-Antigen-Schnelltests aus dem Nasen-Rachen-Abstrich; für diese Tests ist eine technische Validierung nach Ziffer 3 möglich.
+- 1\.1 Die zu validierenden Tests müssen mit einer Realtime-Reverse-Transkriptase-Polymerase-Kettenreaktion (RT-PCR) aus Nase-Rachen-Abstrich verglichen werden. Für die Berechnung der Spezifität von auf molekularbiologischen Nachweisverfahren basierenden Sars-CoV-2-Schnelltests aus Speichelproben kann der zu validierende Test mit einer RT-PCR aus einer Speichelprobe verglichen werden.
+- 1\.2 Für die Verwendung von Sars-CoV-2-Schnelltests wird eine unabhängige Validierung vorausgesetzt.
 
-### 2 Kriterien für die klinische Validierung
+### 2 Kriterien für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard
 
-- 2\.1 Die Untersuchung von Sensitivität und Spezifität in der klinischen Validierung müssen auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren. Die verwendeten Proben müssen von symptomatischen Patientinnen und Patienten gemäss den klinischen Kriterien des BAG stammen, welche innerhalb von 0–4 Tagen nach Beginn der Symptomatik getestet worden sind.
-- 2\.2 Die Sensitivität des Tests muss bei mindestens 85 % und die Spezifität bei mindestens 99 % liegen.
+### 2.1 Kriterien für die klinische Validierung
 
-### 3 Kriterien für die technische Validierung von Sars-CoV-2- Antigen-Schnelltests aus Nasen-Rachen-Abstrich
+- 2\.1.1 Die Untersuchung von Sensitivität und Spezifität in der klinischen Validierung muss auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren. Die verwendeten Proben müssen von symptomatischen Patientinnen und Patienten gemäss den klinischen Kriterien des BAG stammen, welche innerhalb von 0–4 Tagen nach Beginn der Symptomatik getestet worden sind.
+- 2\.1.2 Die Sensitivität des Tests muss bei mindestens 85 Prozent und die Spezifität bei mindestens 99 Prozent liegen.
 
-- 3\.1 Die Bestimmung von Sensitivität und Spezifität in der technischen Validierung muss auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren, davon mindestens 50 Proben mit einer Viruslast von mindestens 10e5 Viruskopien/ml.
-- 3\.2
+### 2.2 Kriterien für die technische Validierung von Sars-CoV-2-Antigen-Schnelltests aus Nasen-Rachen-Abstrich
 
-  Die zu validierenden Antigen-Schnelltests haben folgende Mindestanforderungen betreffend die Sensitivität in Abhängigkeit der Kopienzahl des Ausgangsmaterials wie folgt zu erfüllen:
+- 2\.2.1 Die Untersuchung von Sensitivität und Spezifität in der technischen Validierung muss auf mindestens 100 Sars-CoV-2-positiven und 300 Sars-CoV-2-negativen Proben basieren, davon mindestens 50 Proben mit einer Viruslast von mindestens 10e5 Viruskopien/ml.
+- 2\.2.2
+
+  Die zu validierenden Sars-CoV-2-Antigen-Schnelltests haben folgende Mindestanforderungen betreffend die Sensitivität in Abhängigkeit der Kopienzahl des Ausgangsmaterials wie folgt zu erfüllen:
 
   - – für 10e7 Kopien/ml: 95 %
   - – für 10e6 Kopien/ml: 90 %
   - – für 10e5 Kopien/ml: 80 %
 
-- 3\.3 Die Anforderung an die Spezifität liegt bei mindestens 99 %.
+- 2\.2.3 Die Spezifität des Tests muss bei mindestens 99 Prozent liegen.
 
-Anhang 6[^t-7]
+### 3 Kriterien für die klinische Validierung von Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard und von Sars-CoV-2-Selbsttests
 
-(Art. 26, 26*b* und 26*c*)
+### 3.1 Sensitivität
+
+- 3\.1.1 Die Untersuchung der Sensitivität muss auf mindestens 100 Sars-CoV-2-positiven Proben basieren. Die verwendeten Proben müssen von symptomatischen Patientinnen und Patienten stammen, die innerhalb von 0–7 Tagen nach Beginn der Symptomatik getestet wurden.
+- 3\.1.2 Die Sensitivität des Tests muss bei mindestens 80 Prozent liegen.
+
+### 3.2 Spezifität
+
+- 3\.2.1 Die Untersuchung der Spezifität muss auf mindestens 100 Sars-CoV-2-negativen Proben basieren. Die verwendeten Proben müssen von symptomlosen Patientinnen und Patienten ohne konkretes Expositionsrisiko stammen.
+- 3\.2.2 Die Spezifität des Tests muss bei mindestens 97 Prozent liegen.
+- 3\.3 Kreuzreaktivität: Untersuchung auch von Proben mit hoher Konzentration an verwandten Humanen Coronaviren, darunter mindestens das Humane Coronavirus 229E, das Humane Coronavirus OC43, das Humane Coronavirus NL63 oder das Humane Coronavirus HKU1.
+- 3\.4 Interferenz: Untersuchung auch von Pathogen-positiven Proben, bei denen das Pathogen eine analoge Symptomatik hervorrufen kann (Influenza A, B; RSV) oder mit dem Testprinzip interferieren könnte (Protein-A-positive *Staphylococcus aureus* bei Nasenabstrichen als Probenmatrix).
+- [tab]
+
+Anhang 6*[^t-7]*
+
+(Art. 26, 26*a*, 26*b* und 26*c*)
 
 ## Übernommene Leistungen und Höchstbeträge bei Analysen auf Sars-CoV-2
 
-[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. II Abs. 2 der V vom 27. Jan. 2021 (Tests auf Sars-CoV-2 und Atemschutzmasken), in Kraft seit 28. Jan. 2021, Ziff. 1.5 und 4.3 in Kraft seit 1. Jan. 2021 ([AS 2021 54](https://fedlex.data.admin.ch/eli/oc/2021/54)).
+[^t-7]: Eingefügt durch Ziff. II der V vom 28. Okt. 2020 (Sars-CoV-2-Antigen-Schnelltests) ([AS 2020 4495](https://fedlex.data.admin.ch/eli/oc/2020/792)). Fassung gemäss Ziff. III der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
-### 1 Analysen auf Sars-CoV-2 nach den Ziffern 1–4.3 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Januar 2021
-
-[^annex6-lvlu1-lvl1-1]
-
-[^annex6-lvlu1-lvl1-1]: Siehe Fussnote zu Art. 24*b* Abs. 1.
+### 1 Regulärer Tarif für symptom- und fallorientierte Testungen
 
 ### 1.1 Molekularbiologische Analysen auf Sars-CoV-2
 
-- 1\.1.1 Für molekularbiologische Analysen auf Sars-CoV-2 übernimmt der Bund höchstens 156 Franken.
-- 1\.1.2.
+- 1\.1.1
 
-  Im Betrag nach Ziffer 1.1.1 sind folgende Leistungen und Kostenanteile enthalten:
+  Der Bund übernimmt die Kosten für molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
+
+  - a. bei Personen, die symptomatisch sind;
+  - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
+  - c. bei Personen, die die Kontaktquarantäne nach Artikel 3*e* der Covid-19-Verordnung besondere Lage vom 19. Juni 2020[^annex6-lvlu1-lvl1-lvl11-1] vorzeitig beenden möchten;
+  - d. bei Personen, die die Einreisequarantäne nach Artikel 7 Absatz 4 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vom 27. Januar 2021[^annex6-lvlu1-lvl1-lvl11-2] vorzeitig beenden möchten;
+  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test, der frühestens am fünften Tag nach Erhalt der Benachrichtigung der SwissCovid-App durchgeführt wird;
+  - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
+  - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen molekularbiologischen Testergebnisses auf Sars-CoV-2 angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
+  - h.
+
+    nach einem positiven Ergebnis bei einem:
+
+    - – Sars-CoV-2-Schnelltest zur Fachanwendung nach Ziffer 1.4.1 Buchstaben d und j, 2.1 oder 3.1, unabhängig davon, ob der Test mit einem Sars-CoV-2 Schnelltest gemäss diagnostischem Standard oder gemäss Screening-Standard durchgeführt wurde,
+    - – Sars-CoV-2-Selbsttest nach Ziffer 3.3;
+
+  - i. nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse nach Ziffer 1.2, 2.2 oder 3.2;
+  - j. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle.
+
+- 1\.1.2
+
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG[^annex6-lvlu1-lvl1-lvl11-3]:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 der Verordnung vom 27. Juni 1995[^annex6-lvlu1-lvl1-lvl11-4] über die Krankenversicherung (KVV) und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG[^annex6-lvlu1-lvl1-lvl11-5];
+
+  - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallabo-ratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+
+- 1\.1.3
+
+  Für molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 156 Franken. In diesem Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
-<tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials, durch den Leistungserbringer nach Artikel 26 Absatz 2</td><td>25 Fr.</td></tr>
-<tr><td>Für die Übermittlung des Testergebnisses durch den Leistungserbringer nach Artikel 26 Absatz 2 an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie für die Anforderung des Freischaltcodes, der vom Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System) generiert wird, bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
+<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie für die Anforderung des Freischaltcodes, der vom Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (PT-System) generiert wird, bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -874,24 +928,63 @@ Anhang 6[^t-7]
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV[^annex6-lvlu1-lvl1-lvl11-1] und Spitallaboratorien nach Artikel 54 Absatz 2 KVV im Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material</td><td>106 Fr. 82 Fr. 24 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV ohne Auftrag eines Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material</td><td>87 Fr. 82 Fr. 5 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon: – für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG, wenn die Anzahl durchgeführter Analysen während einer Kalenderwoche in der Schweiz und in Liechtenstein beträgt:</td><td>106 Fr.</td></tr>
+<tr><td>– &lt; 100 000</td><td>82 Fr.</td></tr>
+<tr><td>– 100 000 – &lt; 150 000</td><td>74 Fr.</td></tr>
+<tr><td>– 150 000 – &lt; 200 000</td><td>70 Fr.</td></tr>
+<tr><td>– &gt; 200 000</td><td>64 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon: – für die Analyse und Meldung an die Behörden nach Artikel 12 Absatz 2 EpG, wenn die Anzahl durchgeführter Analysen während einer Kalenderwoche in der Schweiz und in Liechtenstein beträgt:</td><td>87 Fr.</td></tr>
+<tr><td>– &lt; 100 000</td><td>82 Fr.</td></tr>
+<tr><td>– 100 000 – &lt; 150 000</td><td>74 Fr.</td></tr>
+<tr><td>– 150 000 – &lt; 200 000</td><td>70 Fr.</td></tr>
+<tr><td>– &gt; 200 000</td><td>64 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
 </table>
 
-[^annex6-lvlu1-lvl1-lvl11-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-1]: [SR 818.101.26](https://fedlex.data.admin.ch/eli/cc/2022/97)
+[^annex6-lvlu1-lvl1-lvl11-2]: [SR 818.101.27](https://fedlex.data.admin.ch/eli/cc/2021/380)
+[^annex6-lvlu1-lvl1-lvl11-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^annex6-lvlu1-lvl1-lvl11-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
+[^annex6-lvlu1-lvl1-lvl11-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 
-### 1. 2Gepoolte molekularbiologische Analysen auf Sars-CoV-2
+### 1.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
 
-- 1\.2.1 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt der Bund höchstens Fr. 273.50.
-- 1\.2.2.
+- 1\.2.1 Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur im Rahmen einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle.
+- 1\.2.2
 
-  Im Betrag nach Ziffer 1.2.1 sind folgende Leistungen und Kostenanteile enthalten:
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG;
+
+  - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+
+- 1\.2.3
+
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 279.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials, durch den Leistungserbringer nach Artikel 26 Absatz 2</td><td>25 Fr.</td></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
@@ -899,143 +992,355 @@ Anhang 6[^t-7]
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV im Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>226 Fr. 82 Fr. 24 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV ohne Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>207 Fr. 82 Fr. 5 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis zur Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
 </table>
 
-### 1.3 Analysen auf Sars-CoV-2- Antikörper
+### 1.3 Analysen auf Sars-CoV-2-Antikörper
 
-- 1\.3.1 Für die Analyse auf Sars-CoV-2-Antikörper übernimmt der Bund höchstens 99 Franken.
+- 1\.3.1 Der Bund übernimmt die Kosten für Analysen auf Sars-CoV-2-Antikörper nur auf Anordnung der zuständigen kantonalen Stelle.
 - 1\.3.2
 
-  Im Betrag nach Ziffer 1.3.1 sind folgende Leistungen und Kostenanteile enthalten:
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG;
+
+  - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+
+- 1\.3.3
+
+  Für die Analyse auf Sars-CoV-2-Antikörper übernimmt er höchstens 99 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
-<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für das ausführliche Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt</td><td>22.50 Fr.</td></tr>
-<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials, durch den Leistungserbringer nach Artikel 26 Absatz 2 Buchstabe a Ziffern 1, 3 und 4</td><td>25 Fr.</td></tr>
-<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG</td><td>2.50 Fr.</td></tr>
+<tr><th colspan="3">Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td colspan="3">Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
+<tr><td colspan="3">Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG</td><td>2.50 Fr.</td></tr>
+<tr><td colspan="3">Für das ausführliche Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
 - b. für die Analyse auf Sars-CoV-2-Antikörper:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV auf Anordnung der Kantonsärztin oder des Kantonsarztes, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>49 Fr. 25 Fr. 24 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>49 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>25 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>30 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>25 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
 </table>
 
-### 1.4 Immunologische Analysen auf Sars-CoV-2-Antigene und Sars-CoV-2-Schnelltests
+### 1.4 Immunologische Analysen auf Sars-CoV-2-Antigene und Sars-CoV-2-Schnelltests zur Fachanwendung
 
-- 1\.4.1 Für die immunologische Analyse auf Sars-CoV-2-Antigene und für einen Sars-CoV-2-Schnelltest übernimmt der Bund höchstens 99 Franken.
-- 1\.4.2
+- 1\.4.1.
 
-  Im Betrag nach Ziffer 1.4.1 sind folgende Leistungen und Kostenanteile enthalten:
+  Der Bund übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard nur in folgenden Fällen:
+
+  - a. bei Personen, die symptomatisch sind;
+  - b. bei Kontaktpersonen, die sich in Quarantäne befinden;
+  - c. bei Personen, die die Kontaktquarantäne nach Artikel 3*e* der Covid-19-Verordnung besondere Lage vorzeitig beenden möchten;
+  - d. bei Personen, die die Einreisequarantäne nach Artikel 7 Absatz 4 der Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs vorzeitig beenden möchten;
+  - e. bei Personen, die von der SwissCovid-App benachrichtigt werden, dass sie potenziell mit einer mit Sars-CoV-2 infizierten Person engeren Kontakt hatten; der Bund übernimmt die Kosten für einen einzigen Test, der frühestens am fünften Tag nach Erhalt der Benachrichtigung der SwissCovid-App durchgeführt wird;
+  - f. bei Personen mit Wohnsitz im Ausland, die in der Schweiz arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Wohnsitzstaat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
+  - g. bei Personen mit Wohnsitz in der Schweiz, die im Ausland arbeiten oder ausgebildet werden, sofern bei der Einreise in den ausländischen Staat eine Pflicht zum Vorlegen eines negativen Ergebnisses einer immunologischen Analyse auf Sars-CoV-2-Antigene oder eines Sars-CoV-2-Schnelltests zur Fachanwendung angeordnet ist und keine anderweitige Kostenübernahme vorliegt;
+  - h. bei nach einem positiven Ergebnis einer gepoolten molekularbiologischen Analyse nach Ziffer 1.2, 2.2 oder 3.2;
+  - i. bei einer ärztlich angeordneten Ausbruchsuntersuchung und -kontrolle;
+  - j.[^annex6-lvlu1-lvl1-lvl14-1] bei allen Personen, die nicht unter die Buchstaben a–i fallen.
+
+- 1\.4.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 1.4.1 Buchstaben f, g und j.
+- 1\.4.3
+
+  Er übernimmt die Kosten für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme und Analyse durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+  - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+  - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder. Beschäftigung aufnehmen,
+  - 4\. Assistenzpersonen nach dem IVG.
+
+- 1\.4.4
+
+  Für immunologische Analysen auf Sars-CoV-2-Antigene und für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard übernimmt er höchstens 95.50 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
-<tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials, durch den Leistungserbringer nach Artikel 26 Absatz 2</td><td>25 Fr.</td></tr>
-<tr><td>Für die Übermittlung des Testergebnisses durch den Leistungserbringer nach Artikel 26 Absatz 2 an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie Anforderung des vom PT-System generierten Freischaltcodes bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für das Patienten-Gespräch, die Probenentnahme, einschliesslich des Schutzmaterials</td><td>25 Fr.</td></tr>
+<tr><td>Für die Übermittlung des Testergebnisses an die getestete Person und an die zuständigen Behörden nach Artikel 12 Absatz 1 EpG sowie Anforderung des vom PT-System generierten Freischaltcodes bei nachgewiesener Infektion</td><td>2.50 Fr.</td></tr>
 <tr><td>Für ein ausführliches Arzt-Patienten-Gespräch zur Indikationsstellung durch die Ärztin oder den Arzt, sofern ein solches durchgeführt wird</td><td>22.50 Fr.</td></tr>
 </table>
 
-- b. für die immunologische Analyse auf Sars-CoV-2-Antigene und für einen Sars-CoV-2-Schnelltest:
+- b. für die immunologische Analyse auf Sars-CoV-2-Antigene und für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV ohne Auftrag eines Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung</td><td>30 Fr. 25 Fr. 5 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV im Auftrag eines Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overhead- kosten und das Probenentnahmematerial</td><td>49 Fr. 25 Fr. 24 Fr.</td></tr>
-<tr><td>Bei Durchführung durch einen anderen Leistungserbringer nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung</td><td>30 Fr. 25 Fr. 5 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers davon:</td><td>26.50 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>21.50 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung</td><td>5 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>45.50 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>21.50 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
-### 1.5 Mutationsspezifische Zweit-PCR auf Sars-CoV-2
+[^annex6-lvlu1-lvl1-lvl14-1]: In Kraft bis zum 31. Aug. 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
-- 1\.5.1 Für die mutationsspezifische Zweit-PCR auf Sars-CoV-2 übernimmt der Bund höchstens 106 Franken.
-- 1\.5.2 Im Betrag nach Ziffer 1.5.1 sind folgende Leistungen und Kostenanteile enthalten:
+### 1.5 Molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten
+
+- 1\.5.1 Der Bund übernimmt die Kosten für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten («Variant of Concern», VOC) nur nach einem positiven Ergebnis einer molekularbiologischen Analyse.
+- 1\.5.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+- 1\.5.3 Für den molekularbiologischen Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten übernimmt er 106 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV ohne Auftrag eines Leistungserbringers nach Artikel 26 Absatz 2 für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>82 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV im Auftrag eines Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overhead- kosten und das Probenentnahmematerial</td><td>106 Fr. 82 Fr. 24 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>82 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>106 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
-### 1.6 Sequenzierung auf Sars-CoV-2
+### 1.6 Diagnostische Sequenzierung auf Sars-CoV-2
 
-- 1\.6.1 Für die Sequenzierung auf Sars-CoV-2 übernimmt der Bund höchstens Fr. 243.50.
-- 1\.6.2. Im Betrag nach Ziffer 1.6.1 sind folgende Leistungen und Kostenanteile enthalten:
+- 1\.6.1 Der Bund übernimmt die Kosten für die diagnostische Sequenzierung auf Sars-CoV-2 nur bei einem begründeten Verdacht auf das Vorliegen einer besorgniserregenden Variante, für die noch keine Screening-Methode etabliert oder verfügbar ist, und nur auf spezifische Anordnung der zuständigen kantonalen Stelle.
+- 1\.6.2
+
+  Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch:
+
+  - a. mikrobiologische diagnostische Laboratorien mit einer Akkreditierung der Schweizerischen Akkreditierungsstelle (SAS) in Sequenzierung[^annex6-lvlu1-lvl1-lvl16-1];
+  - b. Referenzlaboratorien, die die Voraussetzungen nach Artikel 17 EpG erfüllen.
+
+- 1\.6.3 Für die Sequenzierung auf Sars-CoV-2 übernimmt er höchstens Fr. 243.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch mikrobiologische diagnostische Laboratorien mit einer Akkreditierung der Schweizerischen Akkreditierungsstelle (SAS) in Sequenzierung[^annex6-lvlu1-lvl1-lvl16-1] und Referenzlaboratorien, die die Voraussetzungen nach Artikel 17 EpG erfüllen, auf spezifische Anordnung der Kantonsärztin oder des Kantonsarztes, davon: für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material</td><td>243.50 Fr. 219.50 Fr. 24 Fr.</td></tr>
+<tr><td>Für die Durchführung der Analyse, davon:</td><td>243.50 Fr.</td></tr>
+<tr><td>– für die Analyse und die Meldung an die Behörden nach Artikel 12 Absatz 2 EpG</td><td>219.50 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
 </table>
 
 [^annex6-lvlu1-lvl1-lvl16-1]: Die Liste der SAS der akkreditierten diagnostischen Laboratorien in der Schweiz mit Erfahrung in Sequenzierung von mikrobiologischen Proben ist abrufbar unter www.sas.admin.ch.
 
-### 2 Analysen auf Sars-CoV-2 in Situationen mit erhöhtem Übertragungsrisiko (Ziff. 4.5 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021)
+### 2 Reduzierter Tarif für gezielte und repetitive Testungen
 
-### 2.1 Sars-CoV-2-Schnelltests
+### 2.1 Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard
 
-- 2\.1.1 Für einen Sars-CoV-2-Schnelltest in Situationen mit erhöhtem Übertragungsrisiko übernimmt der Bund höchstens 34 Franken.
-- 2\.1.2 Im Betrag nach Ziffer 2.1.1 sind folgende Leistungen und Kostenanteile enthalten:
+- 2\.1.1
+
+  Der Bund übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard und gemäss Screening-Standard nur in folgenden Fällen:
+
+  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
+
+- 2\.1.2
+
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme und Analyse durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG.
+
+- 2\.1.3 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard übernimmt er höchstens 34 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme und Testdurchführung mit einem Sars-CoV-2-Schnelltest, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und Auftragsabwicklung durch den Leistungserbringer nach Artikel 26 Absatz 2</td><td>34 Fr.</td></tr>
+<tr><td>Für die Probenentnahme und Testdurchführung, einschliesslich des Testmaterials, des Schutzmaterials und der Arbeitszeit, sowie für die Analyse und Auftragsabwicklung</td><td>34 Fr.</td></tr>
 </table>
 
 ### 2.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
 
-- 2\.2.1 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 in Situationen mit erhöhtem Übertragungsrisiko übernimmt der Bund höchstens Fr. 244.50.
-- 2\.2.2.
+- 2\.2.1
 
-  Im Betrag nach Ziffer 2.2.1 sind folgende Leistungen und Kostenanteile enthalten:
+  Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
+
+  - a. bei gezielten und repetitiven Testungen in Schulen, Universitäten und Ausbildungsstätten zur Prävention und Früherkennung von Ausbrüchen, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - b. in Situationen mit deutlich erhöhter Übertragungswahrscheinlichkeit, sofern die zuständige kantonale Stelle dies vorsieht und sie dem BAG ein Konzept vorlegt;
+  - c. im Rahmen von zeitlich begrenzten Testungen im Umfeld unkontrollierter Infektionsausbrüche, sofern die zuständige kantonale Stelle dies vorsieht.
+
+- 2\.2.2
+
+  Er übernimmt die Kosten nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden:
+
+  - a.
+
+    bei der Probenentnahme durch:
+
+    - 1\.
+
+      folgende Leistungserbringer nach dem KVG:
+
+      - – Ärztinnen und Ärzte
+      - – Apothekerinnen und Apotheker
+      - – Spitäler
+      - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+      - – Pflegeheime
+      - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+    - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden,
+    - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+    - 4\. Assistenzpersonen nach dem IVG;
+
+  - b. bei der Analyse durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+
+- 2\.2.3
+
+  Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens Fr. 250.50. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
   - a. für die Probenentnahme:
 
 <table>
 <tr><td>Leistung</td><td>Höchstbetrag</td></tr>
-<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und der Arbeitszeit und der Auftragsabwicklung durch den Leistungserbringer nach Artikel 26 Absatz 2</td><td>18.50 Fr.</td></tr>
+<tr><td>Für die Probenentnahme, einschliesslich des Schutzmaterials und der Arbeitszeit und der Auftragsabwicklung</td><td>18.50 Fr.</td></tr>
 </table>
 
 - b. für die gepoolte molekularbiologische Analyse:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV im Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>226 Fr. 82 Fr. 24 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV ohne Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>207 Fr. 82 Fr. 5 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
 </table>
 
-### 3 Analysen auf Sars-CoV-2 zur Prävention von Covid-19 bei besonders gefährdeten Personen (Ziff. 4.4 der Verdachts-, Beprobungs- und Meldekriterien des BAG vom 27. Jan. 2021)
+### 3 Basistarif für gezielte und repetitive Testungen
 
-### 3.1 Sars-CoV-2-Schnelltests
+### 3.1 Sars-CoV-2-Schnelltests zur Fachanwendung
 
-- 3\.1.1 Für einen Sars-CoV-2-Schnelltest zur Prävention von Covid-19 bei besonders gefährdeten Personen übernimmt der Bund höchstens 8 Franken.
-- 3\.1.2 Im Betrag nach Ziffer 3.1.1 sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.1.1
+
+  Der Bund übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss diagnostischem Standard nur in folgenden Fällen:
+
+  - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
+  - b. bei gezielten und repetitiven Testungen in Betrieben und Vereinen, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
+  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei 80 Prozent der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung durchgeführt wird.
+
+- 3\.1.2 Er übernimmt zudem die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung gemäss Screening-Standard in Fällen nach Ziffer 3.1.1 Buchstabe b.
+- 3\.1.3
+
+  Er übernimmt die Kosten für Sars-CoV-2-Schnelltests zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 nur, wenn die Leistungen durch folgende Leistungserbringer erbracht werden durch:
+
+  - 1\.
+
+    folgende Leistungserbringer nach KVG:
+
+    - – Ärztinnen und Ärzte
+    - – Apothekerinnen und Apotheker
+    - – Spitäler
+    - – Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen
+    - – Pflegeheime
+    - – Organisationen der Krankenpflege und Hilfe zu Hause,
+
+  - 2\. Testzentren, die vom Kanton oder in dessen Auftrag betrieben werden;
+  - 3\. sozialmedizinische Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen,
+  - 4\. Assistenzpersonen nach dem IVG.
+
+- 3\.1.4 Für einen Sars-CoV-2-Schnelltest zur Fachanwendung nach den Ziffern 3.1.1 und 3.1.2 übernimmt er höchstens 8 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Für die Testdurchführung Sars-CoV-2-Schnelltest durch den Leistungserbringer nach Artikel 26 Absatz 2, nur das Testmaterial</td><td>8 Fr.</td></tr>
+<tr><td>Für den Sars-CoV-2-Schnelltest zur Fachanwendung, nur das Testmaterial</td><td>8 Fr.</td></tr>
 </table>
 
 ### 3.2 Gepoolte molekularbiologische Analysen auf Sars-CoV-2
 
-- 3\.2.1 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 zur Prävention von Covid-19 bei besonders gefährdeten Personen übernimmt der Bund höchstens 226 Franken.
-- 3\.2.2 Im Betrag nach Ziffer 3.2.1 sind folgende Leistungen und Kostenanteile enthalten:
+- 3\.2.1
+
+  Der Bund übernimmt die Kosten für gepoolte molekularbiologische Analysen auf Sars-CoV-2 nur in folgenden Fällen:
+
+  - a. bei gezielten und repetitiven Testungen in Spitälern, Alters- und Pflegeheimen sowie anderen sozialmedizinischen Institutionen, die Personen zur Behandlung oder Betreuung, zur Rehabilitation oder zur Ausübung einer beruflichen und sozialen Rehabilitation oder Beschäftigung aufnehmen;
+  - b. bei gezielten und repetitiven Testungen in Betrieben, sofern die zuständige kantonale Stelle dem BAG ein Konzept vorlegt;
+  - c. bei einer Kontaktperson, die sich in Quarantäne befindet, und wenn bei 80 Prozent der Belegschaft des Betriebs, in dem die Kontaktperson arbeitet, eine gezielte und repetitive Testung durchgeführt wird.
+
+- 3\.2.2 Er übernimmt die Kosten nur, wenn die Leistungen erbracht werden durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV, die über eine Bewilligung nach Artikel 16 Absatz 1 EpG verfügen.
+- 3\.2.3 Für gepoolte molekularbiologische Analysen auf Sars-CoV-2 übernimmt er höchstens 232 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
 
 <table>
 <tr><th>Leistung</th><th>Höchstbetrag</th></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV im Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>226 Fr. 82 Fr. 24 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
-<tr><td>Bei Durchführung durch Laboratorien nach Artikel 54 Absatz 3 KVV und Spitallaboratorien nach Artikel 54 Absatz 2 KVV ohne Auftrag eines anderen Leistungserbringers nach Artikel 26 Absatz 2, davon: für die Analyse mit Mindestpool-Grösse 4 für die Auftragsabwicklung, die Overheadkosten und das Probenentnahme- material Zuschlag nach Poolgrösse: ab Poolgrösse &gt;4 ab Poolgrösse &gt;9 ab Poolgrösse &gt;14 ab Poolgrösse &gt;19</td><td>207 Fr. 82 Fr. 5 Fr. 30 Fr. 60 Fr. 90 Fr. 120 Fr.</td></tr>
+<tr><td>Bei Durchführung im Auftrag eines anderen Leistungserbringers, davon:</td><td>232 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>24 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
+<tr><td>Bei Durchführung ohne Auftrag eines anderen Leistungserbringers, davon:</td><td>213 Fr.</td></tr>
+<tr><td>– für die Analyse mit Mindestpoolgrösse 4</td><td>82 Fr.</td></tr>
+<tr><td>– für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial</td><td>5 Fr.</td></tr>
+<tr><td>– Zuschlag pro zusätzliche Probenentnahme bis Maximalpoolgrösse 25</td><td>6 Fr.</td></tr>
 </table>
 
-### 4 Kostenübernahme im Fall von mehreren Analysen bei einer Person
+### 3.3 Sars-CoV-2-Selbsttests
 
-- 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 1.3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.2 Buchstabe a und 1.3.2 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.1.2 Buchstabe b und 1.3.2 Buchstabe b nur einmal.
-- 4\.2 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine immunologische Analyse auf Sars-CoV-2-Antigene nach Ziffer 1.4 oder ein Sars-CoV-2-Schnelltest nach Ziffer 1.4 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.2 Buchstabe a und 1.4.2 Buchstabe a nur einmal.
-- 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine mutationsspezifische Zweit-PCR auf Sars-CoV-2 nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer nach Artikel 26 Absatz 2 durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.2 Buchstabe b und 1.5.2 Buchstabe a beziehungsweise 1.6.2 Buchstabe a nur einmal.
+- 3\.3.1 Der Bund übernimmt die Kosten von maximal fünf Sars-CoV-2-Selbsttests pro Person innerhalb von 30 Tagen.
+- 3\.3.2 Für einen Sars-CoV-2-Selbsttest übernimmt er höchstens 12 Franken. Im Betrag sind folgende Leistungen und Kostenanteile enthalten:
+
+<table>
+<tr><th>Leistung</th><th>Höchstbetrag</th></tr>
+<tr><td>Für den Sars-CoV-2-Selbsttest, nur das Testmaterial, darin enthalten: der Fabrikabgabepreis, ein Zuschlag von 80 % auf den Fabrikabgabepreis sowie die Mehrwertsteuer zu einem Satz von 7,7 %</td><td>12 Fr.</td></tr>
+</table>
+
+### 4 Limitationen
+
+- 4\.1 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine Analyse auf Sars-CoV-2-Antikörper nach Ziffer 1.3 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.3.3 Buchstabe a sowie denjenigen für die Auftragsabwicklung, die Overheadkosten und das Probenentnahmematerial nach den Ziffern 1.1.3 Buchstabe b und 1.3.3 Buchstabe b nur einmal.
+- 4\.2 Werden bei einer Person am gleichen Tag sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch eine immunologische Analyse auf Sars-CoV-2-Antigene oder ein Sars-CoV-2-Schnelltest zur Fachanwendung gemäss diagnostischem Standard oder gemäss Screening-Standard nach Ziffer 1.4 durchgeführt, so übernimmt der Bund den Kostenanteil für die Probenentnahme nach den Ziffern 1.1.3 Buchstabe a und 1.4.4 Buchstabe a nur einmal.
+- 4\.3 Werden bei einer Person sowohl eine molekularbiologische Analyse auf Sars-CoV-2 nach Ziffer 1.1 als auch ein molekularbiologischer Nachweis einer oder mehrerer besorgniserregender Sars-CoV-2-Varianten nach Ziffer 1.5 oder eine Sequenzierung auf Sars-CoV-2 nach Ziffer 1.6 vom selben Leistungserbringer durchgeführt, so übernimmt der Bund den Kostenanteil für die Auftragsabwicklung und die Overheadkosten nach den Ziffern 1.1.3 Buchstabe b und 1.5.3 beziehungsweise 1.6.3 nur einmal.
+- 4\.4 Bei Analysen auf Sars-CoV-2, bei denen die Probenentnahme durch die getestete Person selbst durchgeführt werden kann, darf die Probenentnahme nicht verrechnet werden.
+- [tab]
 - [tab]
 
 Anhang 7*[^t-8]*
