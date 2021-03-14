@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210301-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 1. März 2021)
+vom 19. Juni 2020 (Stand am 15. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -158,16 +158,19 @@ Von der Kontaktquarantäne ausgenommen sind Personen:
 
 Personen in Kontaktquarantäne können die Quarantäne vorzeitig beenden, wenn:
 
-- a.
+- a.[^3e-1]
 
-  sie der zuständigen kantonalen Behörde das negative Resultat einer der folgenden auf eigene Kosten durchgeführten Analysen vorlegen, wobei die Analyse frühestens am siebten Tag der Quarantäne durchgeführt worden sein darf:
+  sie der zuständigen kantonalen Behörde das negative Resultat einer der folgenden Analysen vorlegen, wobei die Analyse frühestens am siebten Tag der Quarantäne durchgeführt worden sein darf:
 
   - 1\. molekularbiologische Analyse auf Sars-CoV-2,
-  - 2\. Sars-CoV-2-Schnelltest; und
+  - 2\. Sars-CoV-2-Schnelltest gemäss diagnostischem Standard; und
 
 - b. die zuständige kantonale Behörde der vorzeitigen Beendigung der Quarantäne zustimmt.
 
-<sup>3</sup> Personen, die nach Absatz 2 die Kontaktquarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
+<sup>3</sup> Personen ab 12 Jahren, die nach Absatz 2 die Kontaktquarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.[^3e-2]
+
+[^3e-1]: Fassung gemäss Ziff. II 2 der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^3e-2]: Fassung gemäss Ziff. II 2 der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 3f
 

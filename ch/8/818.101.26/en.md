@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210301/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210301-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 1 March 2021)
+of 19 June 2020 (Status as of 15 March 2021)
 
 The Swiss Federal Council,
 
@@ -160,16 +160,19 @@ The following persons are exempted from contact quarantine:
 
 Persons in contact quarantine may leave quarantine early if:
 
-- a.
+- a.[^3e-1]
 
-  they provide the responsible cantonal authority with proof of a negative result for one of the following tests carried out at their own expense on or after the seventh day of quarantine:
+  they provide the responsible cantonal authority with proof of a negative result for one of the following tests on or after the seventh day of quarantine:
 
   - 1\. a molecular-biological test for Sars-CoV-2,
-  - 2\. a Sars-CoV-2-rapid test; and
+  - 2\. a Sars-CoV-2-rapid test according to the diagnostic standard; and
 
 - b. the responsible cantonal authority agrees to the early termination of quarantine.
 
-<sup>3</sup> Persons who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
+<sup>3</sup> Persons over the age of 12 who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine would have ended.[^3e-2]
+
+[^3e-1]: Amended by No II 2 of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^3e-2]: Amended by No II 2 of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 3f
 

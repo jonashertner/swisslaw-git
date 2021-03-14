@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 1<sup>er</sup> mars 2021)
+du 19 juin 2020 (Etat le 15 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -158,16 +158,19 @@ Sont exemptées de la quarantaine-contact les personnes:
 
 Les personnes en quarantaine-contact peuvent mettre fin à leur quarantaine de manière anticipée si:
 
-- a.
+- a.[^3e-1]
 
-  elles présentent à l’autorité cantonale compétente le résultat négatif d’une analyse effectuée à leurs propres frais; l’analyse peut avoir lieu au plus tôt le septième jour de la quarantaine au moyen:
+  elles présentent à l’autorité cantonale compétente le résultat négatif d’une des analyses suivantes, l’analyse pouvant avoir lieu au plus tôt le 7e jour de la quarantaine:
 
-  - 1\. d’une analyse de biologie moléculaire pour le SARS-CoV-2, ou
-  - 2\. d’un test rapide pour le SARS-CoV-2, et que
+  - 1\. analyse de biologie moléculaire pour le SARS-CoV-2,
+  - 2\. test rapide SARS-CoV-2 selon le «standard diagnostic», et que
 
 - b. l’autorité cantonale compétente donne son accord à la fin anticipée de la quarantaine.
 
-<sup>3</sup> Les personnes qui mettent fin à leur quarantaine de manière anticipée en vertu de l’al. 2 doivent, jusqu’à la date à laquelle la quarantaine était fixée, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
+<sup>3</sup> Les personnes dès l’âge de 12 ans qui mettent fin à leur quarantaine de manière anticipée en vertu de l’al. 2 doivent, jusqu’à la date à laquelle la quarantaine était fixée, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.[^3e-2]
+
+[^3e-1]: Nouvelle teneur selon le ch. II 2 de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^3e-2]: Nouvelle teneur selon le ch. II 2 de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 3f
 

@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-03-01
+version: 2021-03-15
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210301-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210301/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 1° marzo 2021)
+del 19 giugno 2020 (Stato 15 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -158,16 +158,19 @@ Sono esentate dalla quarantena dei contatti le persone che:
 
 Le persone sottoposte alla quarantena dei contatti possono concluderla anticipatamente se:
 
-- a.
+- a.[^3e-1]
 
-  presentano all’autorità cantonale competente il risultato negativo di una delle seguenti analisi eseguite a proprie spese, purché l’analisi sia stata eseguita a partire dal settimo giorno di quarantena:
+  presentano all’autorità cantonale competente il risultato negativo di una delle seguenti analisi, purché l’analisi sia stata eseguita al più presto il settimo giorno di quarantena:
 
-  - 1\. analisi di biologia molecolare per il SARS-CoV-2,
-  - 2\. test rapidi per il SARS-CoV-2; e
+  - [tab] 1. analisi di biologia molecolare per il SARS-CoV-2,
+  - [tab] 2. test rapido SARS-CoV-2 secondo lo standard diagnostico; e
 
 - b. l’autorità cantonale competente acconsente alla conclusione della quarantena.
 
-<sup>3</sup> Le persone che concludono anticipatamente la quarantena dei contatti secondo il capoverso 2 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.
+<sup>3</sup> Le persone a partire dai 12 anni che concludono anticipatamente la quarantena dei contatti secondo il capoverso 2 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena.[^3e-2]
+
+[^3e-1]: Nuovo testo giusta il n. II 2 dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
+[^3e-2]: Nuovo testo giusta il n. II 2 dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 3f
 
@@ -340,10 +343,6 @@ I luoghi chiusi accessibili al pubblico di strutture culturali, ricreative, per 
 #### Art. 5e e 5f
 
 [^5e5f-1]
-
-- d. gli sportelli delle strutture dei trasporti pubblici;
-- e. gli autonoleggi;
-- f. gli sportelli automatici per la fruizione di un servizio, in particolare il prelievo di denaro.
 
 [^5e5f-1]: Introdotti dal n. I dell’O del 13 gen. 2021 (Ulteriori inasprimenti dei provvedimenti), in vigore dal 18 gen. 2021 al 28 feb. 2021 ([RU 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)).
 
