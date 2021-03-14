@@ -4,11 +4,11 @@ title: "Ordinanza dell'11 aprile 2018 sulla registrazione delle malattie tumoral
 short: ORMT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: it
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/it"
 
 (ORMT)
 
-dell’11 aprile 2018 (Stato 1° gennaio 2020)
+dell’11 aprile 2018 (Stato 15 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -697,11 +697,13 @@ Tra il 1° gennaio 2020 e il 31 dicembre 2022 valgono i seguenti termini per la 
 
 <sup>2</sup> Gli articoli 36–38 e 40 (all. 2 n. 2) entrano in vigore il 1° giugno 2018.
 
-Allegato 1
+Allegato 1*[^t-1]*
 
 (art. 5 cpv. 1)
 
 ## Malattie tumorali soggette all’obbligo di notifica
+
+[^t-1]: Aggiornato dal n. I dell’O del DFI del 2 feb. 2021, in vigore dal 15 mar. 2021 ([RU 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
 
 Le seguenti malattie in conformità alla Classificazione internazionale delle malattie dell’OMS nella versione del 2010[^annex1-lvlu1-1] (ICD-10) devono essere notificate; fa stato la categoria della malattia definita con il codice a tre caratteri:
 
@@ -716,7 +718,7 @@ Le seguenti malattie in conformità alla Classificazione internazionale delle ma
 <tr><td>D01</td><td>Carcinoma in situ di altri e non specificati organi dell’apparato digerente</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D02</td><td>Carcinoma in situ dell’orecchio medio e dell’apparato respiratorio</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D03</td><td>Melanoma in situ</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
-<tr><td>D04</td><td>Carcinoma in situ della cute</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
+<tr><td>D04</td><td>...</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>D05</td><td>Carcinoma in situ della mammella</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D06</td><td>Carcinoma in situ della cervice uterina</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
 <tr><td>D07</td><td>Carcinoma in situ di altri e non specificati organi dell’apparato genitale</td><td>Sì</td><td colspan="2">Sì</td><td>No</td><td colspan="2">Sì</td></tr>
@@ -753,6 +755,6 @@ Allegato 2
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-…[^annex2-lvlu1-1]
+...[^annex2-lvlu1-1]
 
 [^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2018 2019](https://fedlex.data.admin.ch/eli/oc/2018/290).

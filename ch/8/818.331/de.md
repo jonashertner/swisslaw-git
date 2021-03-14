@@ -4,11 +4,11 @@ title: "Verordnung vom 11. April 2018 über die Registrierung von Krebserkrankun
 short: KRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: de
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/de"
 
 (Krebsregistrierungsverordnung, KRV)
 
-vom 11. April 2018 (Stand am 1. Januar 2020)
+vom 11. April 2018 (Stand am 15. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -697,11 +697,13 @@ Vom 1. Januar 2020 bis 31. Dezember 2022 gelten folgende Termine für die Bekann
 
 <sup>2</sup> Die Artikel 36–38 und 40 (Anhang 2 Ziff. 2) treten am 1. Juni 2018 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 5 Abs. 1)
 
 ## Zu meldende Krebserkrankungen
+
+[^t-1]: Bereinigt gemäss Ziff. I der V des EDI vom 2. Febr. 2021, in Kraft seit 15. März 2021 ([AS 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
 
 Folgende Erkrankungen gemäss der *International Classification of diseases* der WHO in der Fassung von 2010[^annex1-lvlu1-1] (ICD-10) müssen gemeldet werden; massgebend ist die mit dreistelligem Code definierte Krankheitsgruppe:
 
@@ -716,7 +718,7 @@ Folgende Erkrankungen gemäss der *International Classification of diseases* der
 <tr><td>D01</td><td>Carcinoma in situ sonstiger und nicht näher bezeichneter Verdauungsorgane</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D02</td><td>Carcinoma in situ des Mittelohrs und des Atmungssystems</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D03</td><td>Melanoma in situ</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
-<tr><td>D04</td><td>Carcinoma in situ der Haut</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
+<tr><td>D04</td><td>...</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
 <tr><td>D05</td><td>Carcinoma in situ der Brustdrüse</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D06</td><td>Carcinoma in situ der Cervix uteri</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>
 <tr><td>D07</td><td>Carcinoma in situ sonstiger und nicht näher bezeichneter Genitalorgane</td><td colspan="2">ja</td><td colspan="2">ja</td><td>nein</td><td>ja</td></tr>

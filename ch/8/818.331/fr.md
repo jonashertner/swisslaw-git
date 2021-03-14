@@ -4,11 +4,11 @@ title: "Ordonnance du 11 avril 2018 sur l'enregistrement des maladies oncologiqu
 short: OEMO
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/290"
 language: fr
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2018-04-11
 in_force: 2018-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/290/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2018-290-20210315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/290/20200101/fr"
 
 (OEMO)
 
-du 11 avril 2018 (Etat le 1<sup>er</sup> janvier 2020)
+du 11 avril 2018 (Etat le 15 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -697,11 +697,13 @@ Entre le 1<sup>er</sup> janvier 2020 et le 31 décembre 2022, les délais applic
 
 <sup>2</sup> Les art. 36 à 38 et 40 (annexe 2, ch. 2) entrent en vigueur le 1<sup>er</sup> juin 2018.
 
-Annexe 1
+Annexe 1*[^t-1]*
 
 (art. 5, al. 1)
 
 ## Maladies oncologiques soumises à déclaration
+
+[^t-1]: Mise à jour par le ch. I de l’O du DFI du 2 fév. 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 73](https://fedlex.data.admin.ch/eli/oc/2021/73)).
 
 Les maladies ci-après, citées dans la version 2010 de la Classification internationale des maladies de l’OMS (CIM‑10)[^annex1-lvlu1-1], sont soumises à déclaration. Le groupe de maladies défini par un code à trois caractères est déterminant.
 
@@ -716,7 +718,7 @@ Les maladies ci-après, citées dans la version 2010 de la Classification intern
 <tr><td>D01</td><td>Carcinome in situ des organes digestifs, autres et non précisés</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D02</td><td>Carcinome in situ de l’oreille moyenne et de l’appareil respiratoire</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D03</td><td>Mélanome in situ</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
-<tr><td>D04</td><td>Carcinome in situ de la peau</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
+<tr><td>D04</td><td>...</td><td></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
 <tr><td>D05</td><td>Carcinome in situ du sein</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D06</td><td>Carcinome in situ du col de l’utérus</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
 <tr><td>D07</td><td>Carcinome in situ d’organes génitaux, autres et non précisés</td><td>oui</td><td colspan="2">oui</td><td>non</td><td colspan="2">oui</td></tr>
