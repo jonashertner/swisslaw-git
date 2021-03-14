@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: "Accordo del 25 giugno 2009 tra la Confederazione Svizzera e la Comunità europea riguardante l'agevolazione dei controlli e delle formalità nei trasporti di merci e le misure doganali di sicurezza (con allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: it
-version: 2013-06-07
+version: 2021-03-15
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20130607/it/xml/fedlex-data-admin-ch-eli-cc-2011-150-20130607-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20130607/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Approvato dall’Assemblea federale il 18 giugno 2010[^t-1]
 
 Entrato in vigore mediante scambio di note il 1° gennaio 2011
 
-(Stato 7 giugno 2013)
+(Stato 15 marzo 2021)
 
 [^t-1]: [RU 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -170,6 +170,10 @@ Le parti contraenti si adoperano per realizzare ai posti di frontiera, ovunque c
 
 ## Capitolo III Misure doganali di sicurezza
 
+[^chapIII-1]
+
+[^chapIII-1]: Nuovo testo giusta l’art. 1 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
 #### Art. 9
 
 **Disposizioni generali in materia di sicurezza**
@@ -184,37 +188,54 @@ Le parti contraenti si adoperano per realizzare ai posti di frontiera, ovunque c
 
 **Dichiarazioni preliminari all’entrata e all’uscita delle merci**
 
-<sup>1.</sup> Le merci che entrano nel territorio doganale delle parti contraenti in provenienza da un Paese terzo sono accompagnate da una dichiarazione di entrata a fini di sicurezza (di seguito «dichiarazione sommaria di entrata»), salvo se trasportate con mezzi di trasporto che si limitano ad attraversare le acque territoriali o lo spazio aereo del territorio doganale senza fare scalo all’interno di tale territorio.
+<sup>1.</sup> A fini di sicurezza, le merci che entrano nei territori doganali delle parti contraenti in provenienza da un Paese terzo sono accompagnate da una dichiarazione sommaria di entrata, salvo se trasportate con mezzi di trasporto che si limitano ad attraversare le acque territoriali o lo spazio aereo dei territori doganali senza fare scalo all’interno di tali territori.
 
-<sup>2.</sup> Le merci che escono dal territorio doganale delle parti contraenti a destinazione di Paesi terzi sono accompagnate da una dichiarazione di uscita a fini di sicurezza (di seguito «dichiarazione sommaria di uscita»), salvo se trasportate con mezzi di trasporto che si limitano ad attraversare le acque territoriali o lo spazio aereo del territorio doganale senza fare scalo all’interno di tale territorio.
+<sup>2.</sup> A fini di sicurezza, le merci che escono dai territori doganali delle parti contraenti a destinazione di Paesi terzi sono accompagnate da una dichiarazione sommaria di uscita, salvo se trasportate con mezzi di trasporto che si limitano ad attraversare le acque territoriali o lo spazio aereo dei territori doganali senza fare scalo all’interno di tali territori.
 
-<sup>3.</sup> La dichiarazione sommaria di entrata o di uscita è presentata prima dell’introduzione delle merci sul territorio doganale delle parti contraenti o della loro uscita da tale territorio.
+<sup>3.</sup> La dichiarazione sommaria di entrata o di uscita è presentata prima dell’introduzione delle merci sui territori doganali delle parti contraenti o della loro uscita da tali territori.
 
-<sup>4.</sup> La presentazione delle dichiarazioni di entrata e di uscita di cui ai paragrafi 1 e 2 è facoltativa fino al 31 dicembre 2010 purché siano applicabili nella Comunità misure transitorie che derogano all’obbligo di presentare tali dichiarazioni.
+<sup>4.</sup> Nei casi in cui sussiste l’obbligo di presentare una dichiarazione sommaria di entrata o di uscita per le merci che entrano o escono dai territori doganali delle parti contraenti ma tale dichiarazione non è stata presentata, una delle persone di cui al paragrafo 5 o 6 presenta immediatamente tale dichiarazione o, se consentito dalle autorità doganali, presenta in sostituzione una dichiarazione doganale o una dichiarazione di custodia temporanea contenente almeno le indicazioni richieste per una dichiarazione sommaria di entrata o di uscita. In tali circostanze le autorità doganali procedono all’analisi dei rischi a fini di sicurezza per tali merci sulla base della dichiarazione doganale o della dichiarazione di custodia temporanea.
 
-Quando, ai sensi del primo comma, non è presentata una dichiarazione sommaria di entrata o di uscita, l’analisi del rischio di sicurezza menzionata all’articolo 12 deve essere condotta dalle autorità doganali al più tardi all’atto della presentazione delle merci all’arrivo o all’uscita sulla base delle dichiarazioni doganali riguardanti le suddette merci o di qualsiasi altra informazione a loro disposizione.
+<sup>5.</sup> Ciascuna parte contraente designa le persone tenute a presentare la dichiarazione sommaria di uscita nonché le autorità competenti a ricevere detta dichiarazione.
 
-<sup>5.</sup> Ciascuna parte contraente designa le persone tenute a presentare la dichiarazione sommaria di entrata o di uscita nonché le autorità competenti per ricevere detta dichiarazione.
+<sup>6.</sup> La dichiarazione sommaria di entrata è presentata dal vettore.
 
-<sup>6.</sup>
+In casi specifici, qualora non sia possibile ottenere tutte le indicazioni della dichiarazione sommaria di entrata necessarie per l’analisi dei rischi a fini di sicurezza dalle persone di cui al primo comma, è possibile richiedere di fornire tali indicazioni ad altre persone che dispongano di tali indicazioni e siano legittimate a fornirle.
+
+Ogni persona che presenta le indicazioni della dichiarazione sommaria di entrata è responsabile delle stesse.
+
+Nonostante gli obblighi del vettore, la dichiarazione sommaria di entrata può essere presentata anche:
+
+- (a) dall’importatore, dal destinatario o da un’altra persona in nome o per conto della quale agisce il vettore;
+- (b) da qualsiasi persona in grado di presentare o di far presentare le merci in questione presso l’ufficio doganale di prima entrata.
+
+<sup>7.</sup> In deroga al paragrafo 6 del presente articolo, fino alle date di introduzione del sistema elettronico di cui all’allegato I, articolo 1 paragrafo 1, ciascuna parte contraente determina le persone tenute a presentare la dichiarazione sommaria di entrata nonché le modalità di presentazione, di scambio di informazioni ad essa relative e di richiesta di modifica e/o invalidamento della stessa.
+
+<sup>8.</sup>
+
+Le autorità doganali delle parti contraenti possono definire i casi in cui una dichiarazione doganale o una dichiarazione di custodia temporanea possono essere utilizzate come dichiarazione sommaria di entrata o di uscita, a condizione che:
+
+- (a) la dichiarazione doganale o la dichiarazione di custodia temporanea contengano tutte le indicazioni richieste per una dichiarazione sommaria di entrata o di uscita; e
+- (b) la dichiarazione sostitutiva sia presentata entro i termini previsti presso l’ufficio doganale competente per la presentazione della dichiarazione sommaria di entrata o di uscita.
+
+<sup>9.</sup>
 
 L’allegato I del presente accordo stabilisce:
 
-- – la forma e il contenuto della dichiarazione sommaria di entrata e di uscita;
-- – le eccezioni alla presentazione della dichiarazione sommaria di entrata o di uscita;
+- – il sistema elettronico per la dichiarazione sommaria di entrata;
+- – la forma e le indicazioni della dichiarazione sommaria di entrata o di uscita;
+- – le eccezioni all’obbligo di presentare una dichiarazione sommaria di entrata o di uscita;
 - – il luogo della presentazione della dichiarazione sommaria di entrata o di uscita;
-- – il termine entro il quale la dichiarazione sommaria di entrata o di uscita deve essere presentata; e
-- – qualsiasi altra disposizione necessaria all’applicazione del presente articolo.
-
-<sup>7.</sup> Una dichiarazione doganale può essere utilizzata come dichiarazione sommaria di entrata o di uscita, purché soddisfi le condizioni stabilite per tale dichiarazione sommaria.
+- – i termini per la presentazione della dichiarazione sommaria di entrata o di uscita;
+- – le modalità tecniche per i sistemi elettronici utilizzati per la presentazione della dichiarazione sommaria di entrata;
+- – l’accordo di finanziamento relativo alle responsabilità, agli impegni e alle aspettative in merito all’attuazione e al funzionamento del sistema di controllo delle importazioni 2;
+- – qualsiasi altra disposizione necessaria per garantire l’applicazione del presente articolo.
 
 #### Art. 11
 
 **Operatore economico autorizzato**
 
-<sup>1.</sup> Ciascuna parte contraente concede la qualifica di «operatore economico autorizzato» in materia di sicurezza a qualsiasi operatore economico stabilito sul proprio territorio doganale, purché siano rispettati i criteri stabiliti nell’allegato II del presente accordo.
-
-Tuttavia, a determinate condizioni e per particolari categorie di operatori economici autorizzati, è possibile derogare all’obbligo di stabilimento nel territorio doganale della parte contraente in cui è chiesta la concessione della qualifica, tenuto conto in particolare di accordi con Paesi terzi. Ciascuna parte contraente decide inoltre se e a quali condizioni tale qualifica possa essere concessa a una società aerea o marittima che non ha sede nel proprio territorio, ma che dispone in esso di un ufficio regionale.
+<sup>1.</sup> Ciascuna parte contraente concede la qualifica di «*operatore economico auto**rizzato*» in materia di sicurezza a qualsiasi operatore economico stabilito sul proprio territorio doganale e, nel caso della Svizzera, sulle sue exclavi doganali Samnaun e Sampuoir, purché siano rispettati i criteri stabiliti nell’allegato II.
 
 L’operatore economico autorizzato fruisce di agevolazioni per quanto riguarda i controlli doganali inerenti alla sicurezza.
 
@@ -225,27 +246,22 @@ Nel rispetto delle norme e delle condizioni enunciate al paragrafo 2, la qualifi
 L’allegato II del presente accordo stabilisce:
 
 - – le norme relative alla concessione della qualifica di operatore economico autorizzato, in particolare i criteri di concessione di tale qualifica e le condizioni di applicazione di tali criteri;
-- – i tipi di agevolazioni che possono essere concesse;
-- – le norme relative alla sospensione e alla revoca della qualifica di operatore economico autorizzato;
+- – i tipi di agevolazioni che sono concesse;
+- – le norme relative alla sospensione, all’annullamento e alla revoca della qualifica di operatore economico autorizzato;
 - – le modalità dello scambio, fra le parti contraenti, di informazioni relative ai rispettivi operatori economici autorizzati;
 - – qualsiasi altra disposizione necessaria all’applicazione del presente articolo.
 
 #### Art. 12
 
-**Controlli doganali di sicurezza e gestione dei rischi in materia di sicurezza**
+**Controlli doganali in materia di sicurezza e gestione dei rischi in materia di sicurezza**
 
-<sup>1.</sup> I controlli doganali di sicurezza diversi dai controlli a campione sono fondati sull’analisi dei rischi utilizzando procedimenti informatici.
+<sup>1.</sup> I controlli doganali in materia di sicurezza diversi dai controlli a campione sono fondati principalmente sull’analisi dei rischi effettuata mediante procedimenti informatici al fine di identificare e valutare i rischi e di mettere a punto le contromisure necessarie, sulla base di criteri elaborati dalle parti contraenti.
 
-<sup>2.</sup> Ciascuna parte contraente definisce a tal fine un quadro in materia di gestione dei rischi e stabilisce criteri di rischio e settori di controllo doganale prioritari in materia di sicurezza.
+<sup>2.</sup> I controlli doganali in materia di sicurezza sono effettuati nell’ambito di un quadro comune in materia di gestione del rischio, basato sullo scambio di informazioni attinenti ai rischi e dei risultati dell’analisi dei rischi tra le autorità doganali delle parti contraenti. L’autorità doganale della Svizzera, partecipando al comitato del codice doganale di cui all’articolo 23, contribuisce a stabilire criteri e norme comuni di rischio, misure di controllo e settori di controllo prioritari in relazione alle indicazioni della dichiarazione sommaria di entrata o di uscita. I controlli basati su tali informazioni e criteri sono effettuati senza pregiudizio degli altri controlli doganali.
 
-<sup>3.</sup> Le parti contraenti riconoscono l’equivalenza dei loro sistemi di gestione dei rischi in materia di sicurezza.
+<sup>3.</sup> Le parti contraenti utilizzano un sistema comune di gestione dei rischi per lo scambio di informazioni relative ai rischi, all’attuazione di criteri e norme comuni di rischio, dei settori di controllo prioritari comuni e della gestione delle crisi doganali, nonché ai risultati dell’analisi dei rischi e dei controlli.
 
-<sup>4.</sup>
-
-Le parti contraenti collaborano al fine di:
-
-- – scambiarsi informazioni che consentano di migliorare e rafforzare l’analisi dei rischi e l’efficacia dei controlli doganali di sicurezza; e
-- – definire, entro termini appropriati, un quadro comune di gestione dei rischi, criteri di rischi comuni e settori di controllo prioritari comuni, nonché instaurare un sistema elettronico per l’attuazione di tale gestione comune dei rischi.
+<sup>4.</sup> Le parti contraenti riconoscono l’equivalenza dei loro sistemi di gestione dei rischi in materia di sicurezza.
 
 <sup>5.</sup> Il comitato misto adotta qualsiasi altra disposizione necessaria all’applicazione del presente articolo.
 
@@ -269,9 +285,9 @@ Il controllo di cui al paragrafo 1 può in particolare essere assicurato mediant
 
 **Protezione del segreto professionale e dei dati personali**
 
-Le informazioni scambiate dalle parti contraenti nell’ambito delle misure contemplate dal presente capitolo godono della tutela del segreto professionale e della protezione dei dati personali definite dalle leggi applicabili in materia nel territorio della parte contraente che le riceve.
+Le informazioni scambiate dalle parti contraenti nell’ambito delle misure contemplate dal presente capitolo godono della tutela del segreto professionale e della protezione dei dati personali definite dalle leggi applicabili in materia nel territorio della parte contraente che le riceve. La trasmissione di dati personali avviene in conformità dei requisiti delle disposizioni legali applicabili in materia di protezione dei dati della parte contraente che la effettua.
 
-Tali informazioni non possono in particolare essere trasmesse a persone diverse dagli organi competenti della parte contraente interessata né essere utilizzate da organi di quest’ultima per fini diversi da quelli previsti dal presente accordo.
+Tali informazioni non possono in particolare essere ulteriormente trasmesse a persone diverse dalle autorità competenti della parte contraente ricevente, né essere utilizzate da autorità di quest’ultima per fini diversi da quelli previsti dal presente accordo.
 
 ## Capitolo IV Cooperazione
 
@@ -474,126 +490,719 @@ Fatto a Bruxelles, il venticinque giugno duemilanove.
 <tr><td>Per la Confederazione Svizzera: Rudolf Dietrich</td><td>Per la Comunità europea: Milena Vicenova Walter Deffa</td></tr>
 </table>
 
-Allegato I*[^t-2]*
+Allegato I[^t-2]
 
 ## Dichiarazioni sommarie di entrata e di uscita
 
-[^t-2]: Aggiornato dall’art. 1 della dec. n. 1/2013 del Comitato misto UE-Svizzera del 6 giu. 2013, in vigore il 7 giu. 2013 ([RU 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)).
+[^t-2]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
+## Titolo I Dichiarazione sommaria di entrata
 
 #### Art. 1
 
-**Forme e contenuto della dichiarazione sommaria di entrata o di uscita**
-
-<sup>1.</sup> La dichiarazione sommaria di entrata o di uscita è effettuata per via informatica. Si possono anche usare documenti commerciali, portuali, o relativi al trasporto, purché contengano le indicazioni necessarie.
-
-<sup>2.</sup> La dichiarazione sommaria di entrata o di uscita contiene le indicazioni previste a tal fine nell’allegato 30<sup>bis</sup> del regolamento (CEE) n. 2454/93 della Commissione, del 2 luglio 1993[^annexI-lvlu1-1-1], che fissa talune disposizioni d’applicazione del regolamento (CEE) n. 2913/92 del Consiglio che istituisce il codice doganale comunitario [di seguito denominato «regolamento (CEE) n. 2454/93»], modificato da ultimo dal regolamento (UE) n. 430/2010 della Commissione[^annexI-lvlu1-1-2]. Essa è compilata conformemente alle note esplicative che figurano in detto allegato 30<sup>bis</sup> ed è autenticata dalla persona che la redige.
-
-<sup>3.</sup> sempreché si applichino a tali dichiarazioni livelli di gestione dei rischi equivalenti a quello applicato alle dichiarazioni sommarie di entrata o di uscita per via informatica.
-
-Le dichiarazioni sommarie di entrata o di uscita su carta sono firmate dalla persona che le ha redatte. Sono accompagnate, ove necessario, da distinte di carico o da altre idonee distinte e contengono le indicazioni di cui al paragrafo 2.
-
-Le autorità doganali accettano la presentazione di una dichiarazione sommaria di entrata o di uscita su supporto cartaceo o in altra forma soltanto in uno dei casi seguenti:
-
-- (a) quando il sistema informatico delle autorità doganali non funziona;
-- (b) quando l’applicazione elettronica della persona che presenta la dichiarazione sommaria di entrata o di uscita non funziona;
-
-<sup>4.</sup> Ogni parte contraente definisce le condizioni e le modalità in base alle quali la persona tenuta a presentare la dichiarazione sommaria di entrata o di uscita è autorizzata a modificare uno o più dati di tale dichiarazione una volta presentata.
-
-[^annexI-lvlu1-1-1]: GU L 253 dell’11.10.1993, pag. 1.
-[^annexI-lvlu1-1-2]: GU L 125 del 21.5.2010, pag. 10.
-
-#### Art. 2
-
-**Eccezioni alla presentazione della dichiarazione sommaria di entrata o di uscita**
+**Sistema elettronico relativo alla dichiarazione sommaria di entrata**
 
 <sup>1.</sup>
 
-Non è richiesta una dichiarazione sommaria di entrata o di uscita per le merci seguenti:
+Il sistema elettronico di controllo delle importazioni 2 (ICS2) è utilizzato per:
 
-- (a) energia elettrica;
-- (b) merci importate o esportate mediante conduttura;
-- (c) lettere, cartoline e stampe, anche in formato elettronico;
-- (d) merci trasportate in conformità delle disposizioni dell’Unione postale universale;
-- (e) merci per le quali è ammessa una dichiarazione doganale orale o con semplice attraversamento della frontiera, conformemente alle disposizioni emanate dalle parti contraenti, fatta eccezione per gli effetti o oggetti mobili, nonché per bancali, contenitori e mezzi di trasporto stradali, ferroviari, aerei, marittimi e fluviali» utilizzati nell’ambito di un contratto di trasporto;
-- (f) merci contenute nei bagagli personali dei viaggiatori;
-- (g) merci corredate di carnet ATA e CPD;
-- (h) merci che beneficiano delle franchigie conformemente alla convenzione di Vienna del 18 aprile 1961[^annexI-lvlu1-2-1] sulle relazioni diplomatiche, alla convenzione di Vienna del 24 aprile 1963[^annexI-lvlu1-2-2] sulle relazioni consolari od a altre convenzioni consolari, o alla convenzione di New York del 16 dicembre 1969[^annexI-lvlu1-2-3] sulle missioni speciali;
-- (i) armi e attrezzature militari introdotte o ritirate dal territorio doganale di una parte contraente dalle autorità competenti per la difesa militare di uno Stato membro o della Svizzera, nell’ambito di un trasporto militare o di un trasporto effettuato per le autorità militari;
-- (j)
+- (a) la presentazione, il trattamento e la conservazione delle indicazioni delle dichiarazioni sommarie di entrata e di altre informazioni inerenti a tali dichiarazioni, relative all’analisi dei rischi a fini di sicurezza doganale, compreso il sostegno alla sicurezza aerea, e relative alle misure che devono essere adottate sulla base dei risultati di tale analisi;
+- (b) lo scambio di informazioni riguardanti le indicazioni della dichiarazione sommaria di entrata e i risultati dell’analisi dei rischi delle dichiarazioni sommarie di entrata, le altre informazioni necessarie all’esecuzione dell’analisi dei rischi e le misure adottate sulla base di un’analisi dei rischi, comprese le raccomandazioni sui luoghi di controllo e i risultati di tali controlli;
+- (c) lo scambio di informazioni per il monitoraggio e la valutazione dell’attuazione dei criteri di rischio e delle norme comuni in materia di sicurezza, delle misure di controllo e dei settori di controllo prioritari.
 
-  le merci seguenti, introdotte o ritirate dal territorio doganale di una parte contraente direttamente a o da piattaforme di perforazione o di estrazione o da turbine eoliche, ad opera di una persona stabilita sul territorio doganale delle parti contraenti:
+<sup>2.</sup> Le date per lo sviluppo e l’avvio della distribuzione per fasi del sistema elettronico di cui al presente allegato sono indicate nel progetto di sistema di controllo delle importazioni 2 (ICS2) nell’ambito del Codice doganale dell´Unione che figura nell’allegato della decisione di esecuzione (UE) 2019/2151 della Commissione[^annexI-titI-1-1].
 
-  - – merci che sono incorporate in tali piattaforme o turbine eoliche ai fini della loro costruzione, riparazione, manutenzione o trasformazione,
-  - – merci utilizzate per attrezzare di tali piattaforme o turbine eoliche; altre merci utilizzate o consumate su tali piattaforme o turbine eoliche e i rifiuti non pericolosi da esse provenienti;
+Le parti contraenti dovrebbero essere pronte allo stesso momento per ciascuna versione all’inizio di ogni periodo di distribuzione. Se ritenuto opportuno, le parti contraenti possono consentire agli operatori economici di collegarsi gradualmente al sistema fino al termine del periodo di distribuzione previsto per ciascuna versione. Le parti contraenti pubblicano sul loro sito web le scadenze e le istruzioni destinate agli operatori economici.
 
-- (k) merci contenute in spedizioni il cui valore intrinseco non supera 22 EUR a condizione che le autorità doganali accettino, previo accordo dell’operatore economico, di effettuare un’analisi dei rischi utilizzando le informazioni contenute nel sistema utilizzato dall’operatore economico o da esso fornite;
-- (l) merci trasportate dall’isola di Helgoland, dalla Repubblica di San Marino e dallo Stato della Città del Vaticano nel territorio doganale di una parte contraente o spedite dal territorio doganale di una parte contraente verso detti territori.
+<sup>3.</sup> Gli operatori economici utilizzano un’interfaccia armonizzata per gli operatori, progettata dalle parti contraenti in accordo tra di loro, per le presentazioni, le domande di modifiche, le domande di invalidamento, il trattamento e la conservazione delle indicazioni delle dichiarazioni sommarie di entrata e lo scambio con le autorità doganali di informazioni correlate.
 
-<sup>2.</sup> Non è richiesta una dichiarazione sommaria di entrata o di uscita nei casi previsti da un accordo internazionale in materia di sicurezza tra una parte contraente ed un Paese terzo, fatta salva la procedura di cui all’articolo 9, paragrafo 3, del presente accordo.
+<sup>4.</sup> Le autorità doganali delle parti contraenti possono consentire l’uso di sistemi di informazione commerciali, portuali o relativi al trasporto per la presentazione delle indicazioni della dichiarazione sommaria di entrata, purché tali sistemi contengano le indicazioni necessarie e che tali indicazioni siano disponibili entro i termini di cui all’articolo 7.
 
-<sup>3.</sup> Non è richiesta una dichiarazione sommaria di entrata o di uscita nella Comunità per le merci di cui agli articoli 181<sup>quater</sup>, lettere i) e j), e 592<sup>bis</sup>, lettere i) e j), nonché nei casi di cui agli articoli 786, paragrafo 2, e 842<sup>bis</sup>, paragrafo 4, lettere b) e f), del regolamento (CEE) n. 2454/93.
+[^annexI-titI-1-1]: Finestra di introduzione della versione 1 dell’ICS2: dal 15.3.2021 all’1.10.2021; finestra di introduzione della versione 2 dell’ICS2: dall’1.3.2023 al 2.10.2023; finestra di introduzione della versione 3 dell’ICS2: dall’1.3.2024 all’1.10.2024; Decisione di esecuzione (UE) 2019/2151 della Commissione, del 13 dicembre 2019, che stabilisce il programma di lavoro relativo allo sviluppo e all’utilizzazione dei sistemi elettronici previsti dal codice doganale dell’Unione (GU UE L 325 del 16.12.2019, pag. 168).
 
-<sup>4.</sup>
+#### Art. 2
 
-Non è richiesta una dichiarazione sommaria di uscita:
+**Forma e contenuto della dichiarazione sommaria di entrata**
 
-- a)
+<sup>1.</sup> Le indicazioni della dichiarazione sommaria di entrata sono conformi ai rispettivi formati, codici e cardinalità di cui all’allegato B del regolamento di esecuzione (UE) 2015/2447 della Commissione[^annexI-titI-2-1] e sono compilate conformemente alle note contenute in tali allegati.
 
-  per le merci seguenti:
+La dichiarazione sommaria di entrata e la notifica di arrivo di una nave marittima o di un aeromobile contengono le indicazioni stabilite nelle colonne seguenti dell’allegato B del regolamento delegato (UE) 2015/2446 della Commissione[^annexI-titI-2-2]:
 
-  - – pezzi di ricambio e di sostituzione destinati alle navi e agli aeromobili a fini di riparazione,
-  - – lubrificanti e gas necessari per il funzionamento di navi o aeromobili, e
-  - – prodotti alimentari e altri articoli destinati ad essere consumati o venduti a bordo;
+- (a) da F10 a F16;
+- (b) da F20 a F33;
+- (c) da F40 a F45;
+- (d) F50 e F51;
+- (e) G2.
 
-- b) per le merci in regime doganale di transito, quando le indicazioni della dichiarazione sommaria di uscita sono contenute in una dichiarazione di transito elettronica, a condizione che l’ufficio di destinazione del transito sia anche l’ufficio doganale di uscita;
-- c) se, in un porto o in un aeroporto, le merci non sono scaricate dal mezzo di trasporto che le ha introdotte nel territorio doganale rispettivo delle parti contraenti e le trasporterà fuori da tale territorio;
-- d) se le merci sono state caricate in un altro porto o aeroporto nel territorio doganale rispettivo delle parti contraenti e rimangono sul mezzo di trasporto le trasporterà fuori da tale territorio;
-- e)
+<sup>2.</sup> Le indicazioni della dichiarazione sommaria di entrata possono essere fornite mediante l’invio di più insiemi di dati da parte di più di una persona.
 
-  se le merci che si trovano in custodia temporanea o in una zona franca sottoposta a controllo di tipo I sono trasbordate dal mezzo di trasporto che le ha portate in tale magazzino di custodia temporanea o zona franca, sotto la sorveglianza dello stesso ufficio doganale, su una nave, un aeromobile o un treno che le trasporterà da detto magazzino di custodia temporanea o zona franca fuori dal territorio doganale rispettivo delle parti contraenti, a condizione che:
+<sup>3.</sup> Il sistema elettronico di cui all’articolo 1 paragrafo 1 è utilizzato per la presentazione di una domanda di modifica o di invalidamento di una dichiarazione sommaria di entrata o delle indicazioni ivi contenute.
 
-  - i) il trasbordo sia effettuato entro quattordici giorni di calendario dalla data in cui le merci sono state presentate per custodia temporanea o in una zona franca sottoposta a controllo di tipo I; in circostanze eccezionali, le autorità doganali possono prolungare tale periodo al fine di tener conto di dette circostanze,
-  - ii) le informazioni relative alle merci siano messe a disposizione delle autorità doganali, e
-  - iii) per quanto a conoscenza del trasportatore, non vi sia alcun cambiamento della destinazione delle merci e del destinatario.
+Se più di una persona chiede una modifica o un invalidamento delle indicazioni della dichiarazione sommaria di entrata, ciascuna di dette persone è autorizzata a chiedere la modifica o l’invalidamento unicamente delle indicazioni da essa presentate.
 
-[^annexI-lvlu1-2-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^annexI-lvlu1-2-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^annexI-lvlu1-2-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+<sup>4.</sup> Le autorità doganali della parte contraente che hanno registrato la dichiarazione sommaria di entrata notificano immediatamente alla persona che ha presentato la domanda di modifica o di invalidamento la loro decisione di registrare o respingere tale domanda.
+
+Se le modifiche o l’invalidamento delle indicazioni della dichiarazione sommaria di entrata sono presentate da una persona diversa dal vettore, le autorità doganali ne informano anche quest’ultimo, a condizione che abbia chiesto di essere informato e abbia accesso al sistema elettronico di cui all’articolo 1 paragrafo 1.
+
+<sup>5.</sup> Conformemente all’articolo 10 paragrafo 8 dell’accordo, fino alla data di introduzione della versione 3 del sistema di cui al presente allegato, articolo 1 paragrafo 1, le parti contraenti possono effettuare l’analisi dei rischi in materia di sicurezza sulla base della dichiarazione di transito introdotta nel nuovo sistema di transito informatizzato (NCTS) in conformità della convenzione relativa ad un regime comune di transito[^annexI-titI-2-3], compreso lo scambio di informazioni relative all’analisi dei rischi tra le parti contraenti interessate, per le merci trasportate per via marittima, per vie navigabili interne, su strada e per ferrovia.
+
+L’NCTS è il sistema elettronico che consente la comunicazione tra le parti contraenti e tra le parti contraenti e gli operatori economici ai fini della presentazione della dichiarazione doganale di transito, comprese tutte le indicazioni richieste per una dichiarazione sommaria di entrata o di uscita e le notifiche relative a tali merci.
+
+Prima dell’introduzione della versione 3 del sistema di cui all’articolo 1 paragrafo 1 del presente allegato, le parti contraenti valutano se, dopo tale data, le autorità doganali possono continuare ad effettuare l’analisi dei rischi sulla base della dichiarazione di transito contenente le indicazioni di una dichiarazione sommaria di entrata presentata nell’NCTS[^annexI-titI-2-4] e, se necessario, modificano l´accordo.
+
+[^annexI-titI-2-1]: Regolamento di esecuzione (UE) 2015/2447 della Commissione, del 24 novembre 2015, recante modalità di applicazione di talune disposizioni del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio che istituisce il codice doganale dell’Unione (GU UE L 343 del 29.12.2015, pag. 558), modificato da ultimo dal regolamento di esecuzione (UE) 2021/235 della Commissione, dell’8 febbraio 2021 (GU UE L 63 del 23.2.2021, pag. 386).
+[^annexI-titI-2-2]: Regolamento delegato (UE) 2015/2446 della Commissione, del 28 luglio 2015, che integra il regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio in relazione alle modalità che specificano alcune disposizioni del codice doganale dell’Unione (GU UE L 343 del 29.12.2015, pag. 1), modificato da ultimo dal regolamento delegato (UE) 2021/234 della Commissione, del 7 dicembre 2020 (GU UE L 63 del 23.2.2021, pag. 1).
+[^annexI-titI-2-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308); Convenzione tra la Comunità economica europea, la Repubblica d’Austria, la Repubblica di Finlandia, la Repubblica d’Islanda, il Regno di Norvegia, il Regno di Svezia e la Confederazione svizzera, del 20 maggio 1987, relativa ad un regime comune di transito (GU CE L 226 del 13.8.1987, pag. 2, comprese le modifiche precedenti e future concordate dal comitato misto nell’ambito di detta convenzione).
+[^annexI-titI-2-4]: L’NCTS è aggiornato per comprendere i nuovi requisiti di sicurezza previsti dal regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio, del 9 ottobre 2013, che istituisce il codice doganale dell’Unione (GU UE L 269 del 10.10.2013, pag. 1), modificato da ultimo dal regolamento (UE) 2019/632 del Parlamento europeo e del Consiglio (GU UE L 111 del 25.4.2019, pag. 54). L’introduzione dell’aggiornamento graduale dell’NCTS è illustrata nell’allegato della decisione di esecuzione (UE) 2019/2151 della Commissione.
 
 #### Art. 3
 
-**Luogo di presentazione della dichiarazione sommaria di entrata o di uscita**
+**Esonero dall’obbligo di presentare una dichiarazione sommaria di entrata**
 
-<sup>1.</sup> La dichiarazione sommaria di entrata è presentata presso l’autorità competente della parte contraente sul cui territorio doganale sono introdotte le merci provenienti da Paesi terzi. Tale autorità effettua l’analisi dei rischi basandosi sulle indicazioni riportate in detta dichiarazione ed i controlli doganali ritenuti necessari in materia di sicurezza, anche qualora le merci siano destinate all’altra parte contraente.
+<sup>1.</sup>
 
-<sup>2.</sup> La dichiarazione sommaria di uscita è presentata presso l’autorità competente della parte contraente sul cui territorio doganale sono espletate le formalità di uscita a destinazione dei Paesi terzi. Tuttavia, una dichiarazione doganale di esportazione utilizzata come dichiarazione sommaria di uscita è presentata presso l’autorità competente della parte contraente sul cui territorio doganale sono espletate le formalità di esportazione a destinazione dei Paesi terzi. L’autorità competente in ciascuno dei casi effettua l’analisi dei rischi basandosi sulle indicazioni riportate in detta dichiarazione ed i controlli doganali ritenuti necessari in materia di sicurezza.
+Non è richiesta una dichiarazione sommaria di entrata per le merci seguenti:
 
-<sup>3.</sup> Quando le merci lasciano il territorio doganale di una parte contraente a destinazione di un Paese terzo attraversando il territorio doganale dell’altra parte contraente, le indicazioni di cui all’articolo 1, paragrafo 2, sono trasmesse dall’autorità competente della prima parte contraente all’autorità competente della seconda.
+- (a) energia elettrica;
+- (b) merci importate mediante conduttura;
+- (c) invii di corrispondenza, da intendersi come lettere, cartoline postali, lettere in braille e stampati non soggetti al dazio all’importazione o all’esportazione;
+- (d)
 
-Tuttavia, il comitato misto può determinare casi in cui la trasmissione di tali dati non è necessaria sempreché ciò non comprometta il livello di sicurezza garantito dal presente accordo.
+  merci trasportate all’interno di spedizioni postali in conformità delle disposizioni dell’Unione postale universale, come indicato di seguito:
 
-Le parti contraenti fanno in modo di mantenersi in contatto e di utilizzare un sistema comune di trasmissione dei dati che contenga le informazioni necessarie alla dichiarazione sommaria di uscita delle merci in questione.
+  - (1) se le spedizioni postali sono trasportate per via aerea e hanno come destinazione finale una parte contraente, fino alla data stabilita per l’introduzione della versione 1 del sistema elettronico di cui all’articolo 1 paragrafo 1,
+  - (2) se le spedizioni postali sono trasportate per via aerea e hanno come destinazione finale un Paese terzo o un territorio terzo, fino alla data stabilita per l’introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1,
+  - (3) se le spedizioni postali sono trasportate per via marittima, per vie navigabili interne, su strada o per ferrovia, fino alla data stabilita per l’introduzione della versione 3 del sistema elettronico di cui all’articolo 1 paragrafo 1;
 
-Qualora le parti contraenti non siano in grado di effettuare la trasmissione di cui al primo comma alla data di applicazione del presente accordo, la dichiarazione sommaria di uscita delle merci che lasciano una parte contraente a destinazione di un Paese terzo attraversando il territorio doganale dell’altra parte contraente, ad eccezione del traffico aereo diretto, è presentata unicamente presso l’autorità competente di questa seconda parte contraente.
+- (e) merci per le quali sono ammessi una dichiarazione doganale orale o il semplice attraversamento della frontiera, conformemente alle disposizioni emanate dalle parti contraenti, a condizione che non siano trasportate in applicazione di un contratto di trasporto;
+- (f) merci contenute nei bagagli personali dei viaggiatori;
+- (g) merci corredate di carnet ATA o CPD, a condizione che non siano trasportate in applicazione di un contratto di trasporto;
+- (h) merci che beneficiano delle franchigie conformemente alla Convenzione di Vienna del 18 aprile 1961[^annexI-titI-3-1] sulle relazioni diplomatiche, alla Convenzione di Vienna del 24 aprile 1963[^annexI-titI-3-2] sulle relazioni consolari o ad altre convenzioni consolari o alla Convenzione di New York del 16 dicembre 1969[^annexI-titI-3-3] sulle missioni speciali;
+- (i) armi e attrezzature militari introdotte nel territorio doganale di una delle parti contraenti dalle autorità competenti per la difesa militare di tale territorio nell’ambito di un trasporto militare o di un trasporto effettuato per uso esclusivo delle autorità militari;
+- (j)
+
+  le merci seguenti, introdotte nel territorio doganale di una delle parti contraenti direttamente da impianti offshore gestiti da un soggetto stabilito nel territorio doganale di una delle parti contraenti:
+
+  - (1) merci che sono state incorporate in tali impianti offshore ai fini della loro costruzione, riparazione, manutenzione o conversione,
+  - (2) merci che sono state utilizzate per attrezzare tali impianti offshore,
+  - (3) merci utilizzate o consumate su tali impianti offshore,
+  - (4) rifiuti non pericolosi provenienti da tali impianti offshore;
+
+- (k)
+
+  merci contenute in spedizioni il cui valore intrinseco non supera EUR 22, a condizione che le autorità doganali accettino, previo accordo dell’operatore economico, di effettuare un’analisi dei rischi utilizzando le informazioni contenute nel sistema utilizzato dall’operatore economico o da esso fornite, come indicato di seguito:
+
+  - (1) se le merci sono contenute in spedizioni trasportate da o sotto la responsabilità di un operatore che fornisce servizi integrati di raccolta, trasporto, sdoganamento e consegna di pacchi in maniera rapida e con una scadenza precisa che garantisca la tracciabilità e il controllo di tali articoli per tutta la durata della prestazione, di seguito «*spedizioni per espresso*», che sono trasportate per via aerea, fino alla data stabilita per l’introduzione della versione 1 del sistema elettronico di cui all’articolo 1, paragrafo 1,
+  - (2) se le merci sono trasportate per via aerea in spedizioni diverse da spedizioni postali o pe espresso, fino alla data stabilita per l’introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1,
+  - (3) se le merci sono trasportate per via marittima, per vie navigabili interne, su strada o per ferrovia, fino alla data stabilita per l’introduzione della versione 3 del sistema elettronico di cui all’articolo 1 paragrafo 1;
+
+- (l) merci trasportate in base al formulario NATO 302 previsto nel quadro della Convenzione tra gli Stati che hanno aderito al trattato del Nord Atlantico sullo statuto delle loro forze armate, firmata a Londra il 19 giugno 1951, o in base al formulario UE 302 di cui all’articolo 1 punto 51 del regolamento delegato (UE) 2015/2446 della Commissione;
+- (m) merci in provenienza da Ceuta e Melilla, dall’isola di Helgoland, dalla Repubblica di San Marino, dallo Stato della Città del Vaticano, dal Comune di Livigno e dalle exclavi doganali svizzere di Samnaun e Sampuoir introdotte in una delle parti contraenti;
+- (n)
+
+  le seguenti merci a bordo di navi e aeromobili:
+
+  - (1) merci che sono state fornite per essere incorporate come parti o accessori in tali navi e aeromobili,
+  - (2) merci destinate al funzionamento di motori, macchine e altre attrezzature di tali navi o aeromobili,
+  - (3) prodotti alimentari e altri articoli da consumare o vendere a bordo;
+
+- (o) i prodotti della pesca marittima e altri prodotti estratti dal mare al di fuori dei territori doganali delle parti contraenti da loro navi da pesca;
+- (p) le navi, e le merci in esse trasportate, che entrano nelle acque territoriali di una delle parti contraenti al solo scopo di rifornirsi senza utilizzare gli impianti portuali;
+- (q) effetti o oggetti mobili quali definiti nella legislazione delle rispettive parti contraenti, a condizione che non siano trasportati in applicazione di un contratto di trasporto.
+
+<sup>2.</sup> Non è richiesta una dichiarazione sommaria di entrata nei casi previsti da un accordo internazionale in materia di sicurezza concluso tra una parte contraente ed un paese terzo, fatta salva la procedura di cui all’articolo 9 paragrafo 3 dell´accordo.
+
+<sup>3.</sup> Non è richiesta una dichiarazione sommaria di entrata nei casi in cui le merci lasciano temporaneamente i territori doganali delle parti contraenti durante il trasporto marittimo o aereo tra due punti di tali territori doganali e senza soste in un paese terzo.
+
+[^annexI-titI-3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^annexI-titI-3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^annexI-titI-3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
 
 #### Art. 4
 
-**Termini per presentare la dichiarazione sommaria di entrata o di uscita**
+**Luogo di presentazione della dichiarazione sommaria di entrata**
 
-<sup>1.</sup> I termini per presentare la dichiarazione sommaria di entrata o di uscita sono quelli di cui agli articoli 184<sup>bis</sup> e 592<sup>ter</sup> del regolamento (CEE) n. 2454/93.
+<sup>1.</sup> La dichiarazione sommaria di entrata è presentata presso l’ufficio doganale competente per la vigilanza doganale nel luogo situato nel territorio doganale di una delle parti contraenti in cui il mezzo di trasporto che trasporta le merci arriva o, se del caso, è destinato ad arrivare, da un Paese terzo o da un territorio terzo (ufficio doganale di prima entrata).
+
+<sup>2.</sup> Se la dichiarazione sommaria di entrata è presentata mediante la presentazione di più insiemi di dati o la presentazione dell’insieme minimo di dati, la persona che presenta l’insieme di dati parziale o l’insieme minimo di dati espleta tale formalità presso l’ufficio doganale che, in base alle sue conoscenze, dovrebbe essere l’ufficio doganale di prima entrata. Se tale persona non conosce il luogo di primo arrivo del mezzo di trasporto che trasporta le merci nei territori doganali delle parti contraenti, l’ufficio doganale di prima entrata può essere determinato sulla base del luogo verso cui le merci sono spedite.
+
+<sup>3.</sup> Le autorità doganali delle parti contraenti possono autorizzare la presentazione della dichiarazione sommaria di entrata presso un altro ufficio doganale, a condizione che quest’ultimo comunichi immediatamente, o renda disponibili per via elettronica, le necessarie indicazioni all’ufficio doganale di prima entrata.
+
+#### Art. 5
+
+**Registrazione di una dichiarazione sommaria di entrata**
+
+<sup>1.</sup> Le autorità doganali registrano ogni presentazione di indicazioni della dichiarazione sommaria di entrata all’atto della sua ricezione e ne informano immediatamente il dichiarante o il suo rappresentante, comunicando a detta persona il numero di riferimento principale di tale presentazione e la data di registrazione.
+
+<sup>2.</sup> A decorrere dalla data di introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1 se la dichiarazione sommaria di entrata è presentata da una persona diversa dal vettore, le autorità doganali informano immediatamente della registrazione il vettore, a condizione che quest’ultimo ne abbia fatto richiesta e abbia accesso a tale sistema elettronico.
+
+#### Art. 6
+
+**Presentazione di una dichiarazione sommaria di entrata**
+
+Se nessuno degli esoneri dall’obbligo di presentare una dichiarazione sommaria di entrata di cui all’articolo 10 dell’accordo e all’articolo 3 del presente allegato è applicabile, le indicazioni della dichiarazione sommaria di entrata sono da fornire come segue:
+
+- (a) per le merci trasportate per via aerea,
+  - (1) i corrieri espresso presentano, per tutte le spedizioni, l’insieme minimo di dati a decorrere dalla data di introduzione della versione 1 del sistema elettronico di cui all’articolo 1 paragrafo 1 del presente allegato,
+  - (2) gli operatori postali presentano, per tutte le spedizioni aventi come destinazione finale una parte contraente, l’insieme minimo di dati a decorrere dalla data di introduzione della versione 1 del sistema elettronico di cui all’articolo 1 paragrafo 1 del presente allegato,
+  - (3) presentando uno o più insiemi di dati tramite il sistema elettronico di cui all’articolo 1 paragrafo 1 del presente allegato, a decorrere dalla data di introduzione della versione 2 di tale sistema;
+
+- (b) per le merci trasportate per via marittima, per vie navigabili interne, su strada e per ferrovia, presentando uno o più insiemi di dati tramite il sistema elettronico di cui all’articolo 1 paragrafo 1 del presente allegato, a decorrere dalla data di introduzione della versione 3 di tale sistema.
+
+#### Art. 7
+
+**Termini per presentare una dichiarazione sommaria di entrata**
+
+<sup>1.</sup>
+
+Se le merci sono introdotte nei territori doganali delle parti contraenti per via marittima, la dichiarazione sommaria di entrata è presentata entro i termini seguenti:
+
+- (a) per le merci containerizzate, tranne quando si applicano le lettere c) o d): almeno 24 ore prima del carico delle merci sulla nave a bordo della quale devono entrare nei territori doganali delle parti contraenti;
+- (b) per i carichi alla rinfusa/frazionati, tranne quando si applicano le lettere c) o d): almeno quattro ore prima dell’arrivo della nave al primo porto di entrata nei territori doganali delle parti contraenti;
+- (c)
+
+  al più tardi due ore prima dell’arrivo della nave al primo porto di entrata nei territori doganali delle parti contraenti in caso di merci provenienti da uno dei luoghi seguenti:
+
+  - (1) Groenlandia,
+  - (2) Isole Fær Øer,
+  - (3) Islanda,
+  - (4) i porti del Mar Baltico, del Mare del Nord, del Mar Nero e del Mar Mediterraneo,
+  - (5) tutti i porti del Marocco;
+
+- (d) per i trasporti effettuati, tranne quando si applica la lettera c), tra un territorio situato al di fuori dei territori doganali delle parti contraenti e i dipartimenti francesi d’oltremare, le Azzorre, Madera o le Isole Canarie, quando la durata del viaggio è inferiore alle 24 ore: almeno due ore prima dell’arrivo al primo porto di entrata nei territori doganali delle parti contraenti.
 
 <sup>2.</sup>
 
-In deroga al paragrafo 1, ogni parte contraente può fissare termini diversi:
+Se le merci sono introdotte nei territori doganali delle parti contraenti per via aerea, tutte le indicazioni della dichiarazione sommaria di entrata sono presentate il prima possibile e comunque entro i termini seguenti:
 
-- – nei casi del traffico di cui all’articolo 3, paragrafo 3, al fine di consentire un’analisi dei rischi affidabile ed intercettare le spedizioni per effettuare eventualmente i relativi controlli doganali di sicurezza;
-- – nel caso di un accordo internazionale tra detta parte contraente ed un Paese terzo, fatta salva la procedura di cui all’articolo 9, paragrafo 3, del presente accordo.
+- (a) per i voli di durata inferiore a quattro ore, al più tardi al momento della partenza effettiva dell’aeromobile;
+- (b) per gli altri voli, almeno quattro ore prima dell’arrivo dell’aeromobile al primo aeroporto nei territori doganali delle parti contraenti.
 
-Allegato II*[^t-3]*
+<sup>3.</sup> A decorrere dalla data di introduzione della versione 1 del sistema elettronico di cui all’articolo 1 paragrafo 1 gli operatori postali e i corrieri espresso presentano almeno l’insieme minimo di dati della dichiarazione sommaria di entrata il prima possibile e al più tardi prima che le merci siano caricate sull’aeromobile a bordo del quale devono essere introdotte nei territori doganali delle parti contraenti.
+
+<sup>4.</sup> A decorrere dalla data di introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1 gli operatori economici diversi dagli operatori postali e dai corrieri espresso presentano almeno l’insieme minimo di dati della dichiarazione sommaria di entrata il prima possibile e al più tardi prima che le merci siano caricate sull’aeromobile a bordo del quale devono essere introdotte nei territori doganali delle parti contraenti.
+
+<sup>5.</sup> A decorrere dalla data di introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1 se solo l’insieme minimo di dati della dichiarazione sommaria di entrata è stato presentato entro i termini di cui ai paragrafi 3 e 4 del presente articolo, le altre indicazioni sono fornite entro i termini di cui al paragrafo 2 del presente articolo.
+
+<sup>6.</sup> Fino alla data di introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1 l’insieme minimo di dati della dichiarazione sommaria di entrata presentato in conformità del paragrafo 3 del presente articolo è considerato come la dichiarazione sommaria di entrata completa per le merci contenute in spedizioni postali aventi come destinazione finale una parte contraente e per le merci contenute in spedizioni per espresso aventi un valore intrinseco non superiore a EUR 22.
+
+<sup>7.</sup>
+
+Se le merci sono introdotte nei territori doganali delle parti contraenti per ferrovia, la dichiarazione sommaria di entrata è presentata entro i termini indicati di seguito:
+
+- (a) se il tragitto del treno dall’ultima stazione in cui è stato composto il treno situata in un Paese terzo all’ufficio doganale di prima entrata è inferiore a due ore, al più tardi un’ora prima dell’arrivo delle merci nel luogo per cui è competente detto ufficio doganale;
+- (b) in tutti gli altri casi, al più tardi due ore prima dell’arrivo delle merci nel luogo per cui è competente l’ufficio doganale di prima entrata.
+
+<sup>8.</sup> Se le merci sono introdotte nei territori doganali delle parti contraenti mediante trasporto stradale, la dichiarazione sommaria di entrata è presentata al più tardi un’ora prima dell’arrivo delle merci nel luogo per cui è competente l’ufficio doganale di prima entrata.
+
+<sup>9.</sup> Se le merci sono introdotte nei territori doganali delle parti contraenti per vie navigabili interne, la dichiarazione sommaria di entrata è presentata al più tardi due ore prima dell’arrivo delle merci nel luogo per cui è competente l’ufficio doganale di prima entrata.
+
+<sup>10.</sup> Se le merci sono introdotte nei territori doganali delle parti contraenti su un mezzo di trasporto che è, a sua volta, trasportato su un mezzo di trasporto attivo, il termine per la presentazione della dichiarazione sommaria di entrata è il termine applicabile al mezzo di trasporto attivo.
+
+<sup>11.</sup> I termini di cui ai paragrafi da 1 a 10 non si applicano in caso di forza maggiore.
+
+<sup>12.</sup> Fatta salva la procedura di cui all’articolo 9 paragrafo 3 dell’accordo, i termini menzionati ai paragrafi da 1 a 10 del presente articolo non si applicano se un accordo internazionale in materia di sicurezza tra una parte contraente ed un Paese terzo prevede diversamente.
+
+#### Art. 8
+
+**Analisi dei rischi in materia di sicurezza e controlli doganali in materia di sicurezza relativi alle dichiarazioni sommarie di entrata**
+
+<sup>1.</sup> L’analisi dei rischi è completata prima dell’arrivo delle merci presso l’ufficio doganale di prima entrata a condizione che la dichiarazione sommaria di entrata sia stata presentata entro i termini previsti all’articolo 7, a meno che non sia identificato un rischio o non debba essere effettuata un’analisi dei rischi supplementare.
+
+Fatto salvo il primo comma del presente paragrafo, una prima analisi dei rischi sulle merci che devono essere introdotte nei territori doganali delle parti contraenti per via aerea è effettuata non appena possibile dopo la ricezione dell’insieme minimo di dati della dichiarazione sommaria di entrata di cui all’articolo 7 paragrafi 3 e 4.
+
+<sup>2.</sup>
+
+L’ufficio doganale di prima entrata completa l’analisi dei rischi a fini di sicurezza dopo il seguente scambio di informazioni tramite il sistema elettronico di cui all’articolo 1 paragrafo 1:
+
+- (a) immediatamente dopo la registrazione, l’ufficio doganale di prima entrata mette le indicazioni della dichiarazione sommaria di entrata a disposizione delle autorità doganali delle parti contraenti in esse menzionate e delle autorità doganali delle parti contraenti che hanno inserito nel sistema elettronico le informazioni relative ai rischi per la sicurezza corrispondenti a tale dichiarazione sommaria di entrata;
+- (b) entro i termini di cui all’articolo 7, le autorità doganali delle parti contraenti di cui alla lettera a) del presente paragrafo effettuano un’analisi dei rischi a fini di sicurezza e, se individuano un rischio, mettono i risultati a disposizione dell’ufficio doganale di prima entrata;
+- (c) l’ufficio doganale di prima entrata tiene conto delle informazioni sui risultati dell’analisi dei rischi fornite dalle autorità doganali delle parti contraenti di cui alla lettera a) per completare l’analisi dei rischi;
+- (d) l’ufficio doganale di prima entrata mette i risultati dell’analisi dei rischi completata a disposizione delle autorità doganali delle parti contraenti che hanno contribuito all’analisi dei rischi e di quelli potenzialmente interessati dal movimento delle merci;
+- (e)
+
+  l’ufficio doganale di prima entrata notifica il completamento dell’analisi dei rischi alle persone seguenti, a condizione che abbiano chiesto di ricevere una notifica e abbiano accesso al sistema elettronico di cui all’articolo 1 paragrafo 1:
+
+  - – il dichiarante o il suo rappresentante,
+  - – il vettore, se diverso dal dichiarante e dal suo rappresentante.
+
+<sup>3.</sup> Quando l’ufficio doganale di prima entrata necessita di ulteriori informazioni sulle indicazioni della dichiarazione sommaria di entrata per completare l’analisi dei rischi, tale analisi deve essere completata dopo che le informazioni sono state fornite.
+
+A tal fine l’ufficio doganale di prima entrata chiede le suddette informazioni alla persona che ha presentato la dichiarazione sommaria di entrata o, se del caso, alla persona che ha presentato le indicazioni della dichiarazione sommaria di entrata. Se tale persona è diversa dal vettore, l’ufficio doganale di prima entrata informa il vettore, a condizione che quest’ultimo ne abbia fatto richiesta e abbia accesso al sistema elettronico di cui all’articolo 1 paragrafo 1.
+
+<sup>4.</sup> se l’ufficio doganale di prima entrata ha fondati motivi di sospettare che le merci introdotte per via aerea possano costituire una grave minaccia per la sicurezza aerea, impone che la spedizione, prima di essere caricata su un aeromobile diretto verso i territori doganali delle parti contraenti, sia sottoposta a screening come merci e posta ad alto rischio in conformità del punto 4 dell’allegato dell’accordo[^annexI-titI-8-1] tra la Comunità europea e la Confederazione svizzera sul trasporto aereo che stabilisce disposizioni particolareggiate per l’attuazione delle norme fondamentali comuni sulla sicurezza aerea.
+
+Successivamente alla notifica, la persona che ha presentato la dichiarazione sommaria di entrata o, se del caso, la persona che ha presentato le indicazioni della dichiarazione sommaria di entrata fornisce all’ufficio doganale di prima entrata i risultati dello screening e tutte le altre informazioni pertinenti. L’analisi dei rischi è completata solo dopo che queste informazioni sono state fornite.
+
+L’ufficio doganale di prima entrata notifica le persone seguenti, a condizione che abbiano accesso al sistema elettronico di cui all’articolo 1 paragrafo 1:
+
+- – il dichiarante o il suo rappresentante,
+- – il vettore, se diverso dal dichiarante e dal suo rappresentante.
+
+<sup>5.</sup> Se l’ufficio doganale di prima entrata ha fondati motivi per ritenere che le merci trasportate per via aerea o le merci containerizzate trasportate per via marittima, di cui all’articolo 7 paragrafo 1 lettera a), costituiscano una grave minaccia per la sicurezza tale da richiedere un intervento immediato, esso dà istruzioni che le merci non siano caricate sul mezzo di trasporto pertinente.
+
+Tale notifica è effettuata subito dopo l’individuazione del rischio e, nel caso di merci containerizzate trasportate per via marittima, di cui all’articolo 7 paragrafo 1 lettera a), entro 24 ore dalla ricezione della dichiarazione sommaria di entrata o, se del caso, delle indicazioni della dichiarazione sommaria di entrata da parte del vettore.
+
+L’ufficio doganale di prima entrata informa inoltre immediatamente le autorità doganali delle parti contraenti in merito a tale notifica e mette a loro disposizione le pertinenti indicazioni della dichiarazione sommaria di entrata.
+
+L’ufficio doganale di prima entrata notifica le persone seguenti, a condizione che abbiano accesso al sistema elettronico di cui all’articolo 1 paragrafo 1:
+
+- – il dichiarante o il suo rappresentante,
+- – il vettore, se diverso dal dichiarante e dal suo rappresentante.
+
+<sup>6.</sup> Se in relazione a una spedizione è stato accertato che essa pone una minaccia tale da richiedere un’azione immediata al momento dell’arrivo del mezzo di trasporto, l’ufficio doganale di prima entrata adotta tale azione all’arrivo delle merci.
+
+<sup>7.</sup> Dopo aver completato l’analisi dei rischi, l’ufficio doganale di prima entrata può raccomandare, mediante il sistema elettronico di cui all’articolo 1 paragrafo 1, il luogo e le misure più appropriati per effettuare un controllo.
+
+L’ufficio doganale competente per il luogo raccomandato come il più appropriato per il controllo decide in merito al controllo e, tramite il sistema elettronico di cui all’articolo 1 paragrafo 1, mette i risultati di tale decisione a disposizione di tutti gli uffici doganali delle parti contraenti potenzialmente interessati dal movimento di merci, al più tardi al momento della presentazione delle merci all’ufficio doganale di prima entrata.
+
+<sup>8.</sup> Le parti contraenti si scambiano nel sistema di cui all’articolo 12 paragrafo 3 dell’accordo le informazioni sui rischi di cui alle lettere a) e b) del presente paragrafo.
+
+Gli uffici doganali mettono i risultati dei loro controlli doganali in materia di sicurezza a disposizione di altre autorità doganali delle parti contraenti attraverso il sistema di cui all’articolo 1 paragrafo 1 se:
+
+- (a) un’autorità doganale giudica che i rischi siano significativi e che richiedano un controllo doganale e i risultati del controllo indicano che l’evento che determina il rischio si è verificato; oppure
+- (b) i risultati del controllo non indicano che l’evento che determina il rischio si è verificato, ma l’autorità doganale in questione ritiene che la minaccia costituisca un rischio elevato altrove nei territori doganali delle parti contraenti; oppure
+- (c) è necessaria un’applicazione uniforme delle norme dell´accordo.
+
+<sup>9.</sup> Quando nei territori doganali delle parti contraenti sono introdotte merci esentate dall’obbligo di presentazione di una dichiarazione sommaria di entrata a norma dell’articolo 3 paragrafo 1 lettere da c) a f), da h) a m), o) e q), l’analisi dei rischi è effettuata al momento della presentazione delle merci.
+
+<sup>10.</sup> Le merci presentate in dogana possono essere svincolate non appena sia stata completata l’analisi dei rischi e i risultati dell’analisi dei rischi e, ove necessario, le misure adottate consentano lo svincolo.
+
+<sup>11.</sup> L’analisi dei rischi deve essere effettuata anche se le indicazioni della dichiarazione sommaria di entrata sono modificate conformemente all’articolo 2 paragrafi 3 e 4. In tal caso, fatto salvo il termine di cui al paragrafo 5 terzo comma del presente articolo per le merci containerizzate trasportate per via marittima, l’analisi dei rischi è completata subito dopo aver ricevuto tali indicazioni, a meno che non sia identificato un rischio o sia necessario effettuare un’ulteriore analisi dei rischi.
+
+[^annexI-titI-8-1]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258); Accordo tra la Comunità europea e la Confederazione svizzera sul trasporto aereo (GU CE L 114 del 30.4.2002, pag. 73, comprese le modifiche precedenti e future concordate dal comitato misto nell’ambito di detto accordo).
+
+#### Art. 9
+
+**Fornitura di indicazioni di una dichiarazione sommaria di entrata da parte di altre persone**
+
+<sup>1.</sup>
+
+A decorrere dalla data stabilita per l’introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1, se per le stesse merci trasportate per via aerea una o più persone diverse dal vettore hanno concluso uno o più contratti di trasporto coperti da una o più lettere di trasporto aereo, si applicano le norme seguenti:
+
+- (a) la persona che emette una lettera di trasporto aereo informa dell’emissione di tale lettera la persona con cui ha concluso un contratto di trasporto;
+- (b) nel caso di un accordo di co-loading di merci, la persona che emette la lettera di trasporto aereo informa dell’emissione di tale lettera la persona con cui ha concluso l’accordo;
+- (c) il vettore e tutte le persone che emettono una lettera di trasporto aereo forniscono, nelle indicazioni della dichiarazione sommaria di entrata, l’identità di qualsiasi persona che non abbia messo a loro disposizione le indicazioni richieste per la dichiarazione sommaria di entrata;
+- (d) se la persona che emette la lettera di trasporto aereo non rende disponibili le indicazioni richieste per la dichiarazione sommaria di entrata al proprio partner contrattuale che emette una lettera di trasporto aereo nei confronti di tale persona o del partner contrattuale con cui ha concluso un accordo di co-loading, la persona che non mette a disposizione le indicazioni richieste fornisce tali indicazioni all’ufficio doganale di prima entrata.
+
+<sup>2.</sup>
+
+A decorrere dalla data stabilita per l’introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1, se l’operatore postale non comunica le indicazioni richieste per la dichiarazione sommaria di entrata delle spedizioni postali al vettore tenuto a presentare il resto delle indicazioni della dichiarazione mediante tale sistema, si applicano le norme seguenti:
+
+- (a) l’operatore postale di destinazione, se le merci sono spedite verso le parti contraenti, o l’operatore postale delle parti contraenti di prima entrata, se le merci transitano attraverso le parti contraenti, fornisce tali indicazioni all’ufficio doganale di prima entrata; e
+- (b) il vettore fornisce, nelle indicazioni della dichiarazione sommaria di entrata, l’identità dell’operatore postale che non mette a sua disposizione le indicazioni richieste per la dichiarazione sommaria di entrata.
+
+<sup>3.</sup>
+
+A decorrere dalla data stabilita per l’introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1, se il corriere espresso non mette a disposizione del vettore le indicazioni richieste per la dichiarazione sommaria di entrata delle spedizioni per espresso trasportate per via aerea, si applicano le norme seguenti:
+
+- (a) il corriere espresso fornisce tali indicazioni all’ufficio doganale di prima entrata; e
+- (b) il vettore fornisce, nelle indicazioni della dichiarazione sommaria di entrata, l’identità del corriere espresso che non mette a sua disposizione le indicazioni richieste per la dichiarazione sommaria di entrata.
+
+<sup>4.</sup>
+
+A decorrere dalla data stabilita per l’introduzione della versione 3 del sistema elettronico di cui all’articolo 1 paragrafo 1, se, in caso di trasporto via mare o per vie navigabili interne, per le stesse merci uno o più contratti di trasporto supplementari coperti da una o più polizze di carico sono stati conclusi da una o più persone diverse dal trasportatore, si applicano le norme seguenti:
+
+- (a) la persona che emette la polizza di carico informa dell’emissione di tale polizza la persona con cui ha concluso un contratto di trasporto;
+- (b) nel caso di un accordo di co-loading di merci, la persona che emette la polizza di carico informa dell’emissione di tale polizza la persona con cui ha concluso l’accordo;
+- (c) il vettore e tutte le persone che emettono una polizza di carico forniscono, nelle indicazioni della dichiarazione sommaria di entrata, l’identità di qualsiasi persona che abbia concluso un contratto di trasporto con loro e non abbia messo a loro disposizione le indicazioni richieste per la dichiarazione sommaria di entrata;
+- (d) la persona che emette la polizza di carico fornisce, nelle indicazioni della dichiarazione sommaria di entrata, l’identità del destinatario indicato nella polizza di carico che non ha polizze di carico sottostanti e che non ha messo a sua disposizione le indicazioni richieste per la dichiarazione sommaria di entrata;
+- (e) se la persona che emette la polizza di carico non rende disponibili le indicazioni richieste per la dichiarazione sommaria di entrata al proprio partner contrattuale che emette una polizza di carico nei confronti di tale persona o del partner contrattuale con cui ha concluso un accordo di co-loading, la persona che non mette a disposizione le indicazioni richieste fornisce tali indicazioni all’ufficio doganale di prima entrata;
+- (f) se non rende disponibili le indicazioni richieste per la dichiarazione sommaria di entrata alla persona che emette la polizza di carico, il destinatario indicato nella polizza di carico che non ha polizze di carico sottostanti fornisce tali indicazioni all’ufficio doganale di prima entrata.
+
+#### Art. 10
+
+**Deviazione di una nave marittima o di un aeromobile che entra nel territorio doganale delle parti contraenti**
+
+<sup>1.</sup> A decorrere dalla data stabilita per la finestra di introduzione della versione 2 del sistema elettronico di cui all’articolo 1 paragrafo 1, se un aeromobile subisce una deviazione e il suo primo arrivo è previsto ad un ufficio doganale situato in un Paese non indicato come Paese di transito nella dichiarazione sommaria di entrata, l’ufficio doganale di prima entrata effettivo recupera, mediante tale sistema, le indicazioni della dichiarazione sommaria di entrata, i risultati dell’analisi dei rischi e le raccomandazioni di controllo formulate dall’ufficio doganale di prima entrata previsto.
+
+<sup>2.</sup> A decorrere dalla data stabilita per la finestra di introduzione della versione 3 del sistema elettronico di cui all’articolo 1 paragrafo 1, se una nave marittima subisce una deviazione e il suo primo arrivo è previsto ad un ufficio doganale situato in un Paese non indicato come Paese di transito nella dichiarazione sommaria di entrata, l’ufficio doganale di prima entrata effettivo recupera, mediante tale sistema, le indicazioni della dichiarazione sommaria di entrata, i risultati dell’analisi dei rischi e le raccomandazioni di controllo formulate dall’ufficio doganale di prima entrata previsto.
+
+## Titolo II Disposizioni tecniche per il sistema di controllo delle importazioni 2
+
+#### Art. 11
+
+**Sistema di controllo delle importazioni 2**
+
+<sup>1.</sup> Il sistema di controllo delle importazioni 2 (ICS2) supporta le comunicazioni tra gli operatori economici e le parti contraenti ai fini dell’adempimento dei requisiti relativi alla dichiarazione sommaria di entrata, all’analisi dei rischi a fini di sicurezza da parte delle autorità doganali delle parti contraenti e alle misure doganali volte ad attenuare tali rischi, compresi i controlli doganali in materia di sicurezza, e le comunicazioni tra le parti contraenti ai fini dell’adempimento dei requisiti relativi alla dichiarazione sommaria di entrata.
+
+<sup>2.</sup>
+
+L’ICS2 consta dei seguenti componenti comuni sviluppati a livello unionale:
+
+- (a) un’interfaccia condivisa per gli operatori;
+- (b) un repertorio comune.
+
+<sup>3.</sup> La Svizzera sviluppa un sistema nazionale di accesso come componente nazionale disponibile in Svizzera.
+
+<sup>4.</sup> La Svizzera può sviluppare un’interfaccia nazionale per gli operatori come componente nazionale disponibile in Svizzera.
+
+<sup>5.</sup>
+
+L’ICS2 è utilizzato per i seguenti scopi:
+
+- (a) la presentazione, il trattamento e la conservazione delle indicazioni delle dichiarazioni sommarie di entrata, delle domande di modifiche e di invalidamento in conformità dell’articolo 10 dell’accordo e del presente allegato;
+- (b) la ricezione, il trattamento e la conservazione delle indicazioni delle dichiarazioni sommarie di entrata estratte dalle dichiarazioni di cui all’articolo 10 dell’accordo e del presente allegato;
+- (c) la presentazione, il trattamento e la conservazione delle informazioni relative all’arrivo e alle notifiche di arrivo di navi marittime o aeromobili in conformità dell’articolo 10 dell’accordo e del presente allegato;
+- (d) la ricezione, il trattamento e la conservazione delle informazioni relative alla presentazione delle merci alle autorità doganali delle parti contraenti in conformità dell’articolo 10 dell’accordo e del presente allegato;
+- (e) la ricezione, il trattamento e la conservazione delle informazioni relative alle richieste e ai risultati dell’analisi dei rischi, alle raccomandazioni di controllo, alle decisioni sui controlli e ai risultati dei controlli in conformità degli articoli 10 e 12 dell’accordo e del presente allegato;
+- (f) la ricezione, il trattamento, la conservazione e la comunicazione delle notifiche e delle informazioni destinate agli operatori economici o provenienti da questi ultimi in conformità degli articoli 10 e 12 dell’accordo e del presente allegato;
+- (g) la presentazione, il trattamento e la conservazione delle informazioni da parte degli operatori economici richieste dalle autorità doganali delle parti contraenti in conformità degli articoli 10 e 12 dell’accordo e del presente allegato.
+
+<sup>6.</sup> L’ICS2 è utilizzato per supportare il monitoraggio e la valutazione da parte delle parti contraenti dell’attuazione dei criteri di rischio e delle norme comuni in materia di sicurezza, delle misure di controllo e dei settori di controllo prioritari di cui all’articolo 12 dell’accordo.
+
+<sup>7.</sup> L’autenticazione e la verifica dell’accesso degli operatori economici ai fini dell’accesso ai componenti comuni dell’ICS2 sono effettuate utilizzando la piattaforma di gestione uniforme degli utenti e firma digitale («UUM&DS») di cui all’articolo 13.
+
+<sup>8.</sup> L’autenticazione e la verifica dell’accesso dei funzionari delle parti contraenti ai fini dell’accesso ai componenti comuni dell’ICS2 sono effettuate utilizzando i servizi di rete forniti dall’Unione.
+
+<sup>9.</sup> L’interfaccia armonizzata per gli operatori costituisce un punto d’accesso all’ICS2 per gli operatori economici in conformità dell’articolo 1.
+
+<sup>10.</sup> L’interfaccia armonizzata per gli operatori interagisce con il repertorio comune dell’ICS2 di cui ai paragrafi da 12 a 14.
+
+<sup>11.</sup> L’interfaccia armonizzata per gli operatori è utilizzata per le presentazioni, le richieste di modifiche, le richieste di invalidamento, il trattamento e la conservazione delle indicazioni delle dichiarazioni sommarie di entrata e delle notifiche di arrivo, nonché per lo scambio di informazioni tra le parti contraenti e gli operatori economici.
+
+<sup>12.</sup> Il repertorio comune dell’ICS2 è utilizzato dalle parti contraenti per il trattamento delle indicazioni delle dichiarazioni sommarie di entrata, delle richieste di modifiche, delle richieste di invalidamento, delle notifiche di arrivo, delle informazioni relative alla presentazione delle merci, delle informazioni relative alle richieste e ai risultati dell’analisi dei rischi, delle raccomandazioni di controllo, delle decisioni di controllo, nonché dei risultati dei controlli e delle informazioni scambiate con gli operatori economici.
+
+<sup>13.</sup> Il repertorio comune dell’ICS2 è utilizzato dalle parti contraenti a fini statistici e di valutazione e per lo scambio di informazioni sulla dichiarazione sommaria di entrata tra le parti contraenti.
+
+<sup>14.</sup> Il repertorio comune dell’ICS2 interagisce con l’interfaccia armonizzata per gli operatori, le interfacce nazionali per gli operatori eventualmente sviluppate dalle parti contraenti e con i sistemi nazionali di accesso.
+
+<sup>15.</sup> L’autorità doganale di una parte contraente utilizza il repertorio comune per consultare l’autorità doganale dell’altra parte contraente in conformità degli articoli 10 e 12 dell’accordo e del presente allegato prima di completare l’analisi dei rischi a fini di sicurezza. L’autorità doganale di una parte contraente utilizza il repertorio comune anche per consultare l’altra parte contraente in merito ai controlli raccomandati, alle decisioni adottate in relazione ai controlli raccomandati e ai risultati dei controlli doganali in materia di sicurezza in conformità degli articoli 10 e 12 dell’accordo e del presente allegato.
+
+<sup>16.</sup> L’interfaccia nazionale per gli operatori eventualmente sviluppata dalle parti contraenti costituisce un punto d’accesso all’ICS2 per gli operatori economici in conformità dell’articolo 1 se la presentazione è indirizzata alla parte contraente che gestisce l’interfaccia nazionale per gli operatori.
+
+<sup>17.</sup> Per quanto riguarda le presentazioni, le modifiche, l’invalidamento, il trattamento, la conservazione delle indicazioni delle dichiarazioni sommarie di entrata e delle notifiche di arrivo nonché lo scambio di informazioni tra le parti contraenti e gli operatori economici, gli operatori economici possono scegliere di utilizzare l’interfaccia nazionale per gli operatori, ove sia stata sviluppata, o l’interfaccia armonizzata per gli operatori.
+
+<sup>18.</sup> L’interfaccia nazionale per gli operatori, ove sviluppata, interagisce con il repertorio comune dell’ICS2.
+
+<sup>19.</sup> Se la Svizzera sviluppa un’interfaccia nazionale per gli operatori, ne informa l’Unione.
+
+<sup>20.</sup> Le autorità doganali delle parti contraenti utilizzano un sistema nazionale di accesso per lo scambio di indicazioni delle dichiarazioni sommarie di entrata estratte dalle dichiarazioni di cui all’articolo 10 dell’accordo, lo scambio di informazioni e notifiche con il repertorio comune per quanto riguarda informazioni relative all’arrivo di navi marittime o aeromobili, informazioni relative alla presentazione delle merci, il trattamento delle richieste di analisi dei rischi, lo scambio e il trattamento delle informazioni relative ai risultati dell’analisi dei rischi, delle raccomandazioni di controllo, delle decisioni di controllo e dei risultati dei controlli.
+
+<sup>21.</sup> Il sistema nazionale di accesso è inoltre utilizzato nei casi in cui un’autorità doganale di una parte contraente chieda e riceva dagli operatori economici ulteriori informazioni.
+
+<sup>22.</sup> Il sistema nazionale di accesso interagisce con il repertorio comune.
+
+<sup>23.</sup> Il sistema nazionale di accesso interagisce con i sistemi sviluppati a livello nazionale per il recupero delle informazioni di cui al paragrafo 20.
+
+#### Art. 12
+
+**Funzionamento del sistema di controllo delle importazioni 2 e formazione al suo utilizzo**
+
+<sup>1.</sup> I componenti comuni sono sviluppati, sottoposti a prove, utilizzati e gestiti dall’Unione. I componenti nazionali sono sviluppati, sottoposti a prove, utilizzati e gestiti dalla Svizzera.
+
+<sup>2.</sup> La Svizzera assicura che i componenti nazionali siano compatibili con i componenti comuni.
+
+<sup>3.</sup> L’Unione esegue la manutenzione dei componenti comuni e la Svizzera esegue la manutenzione dei rispettivi componenti nazionali.
+
+<sup>4.</sup> Le parti contraenti assicurano il funzionamento ininterrotto dei sistemi elettronici.
+
+<sup>5.</sup> L’Unione può modificare i componenti comuni dei sistemi elettronici in caso di malfunzionamento, per aggiungere nuove funzionalità o modificare quelle esistenti.
+
+<sup>6.</sup> L’Unione informa la Svizzera di eventuali modifiche e aggiornamenti dei componenti comuni.
+
+<sup>7.</sup> La Svizzera comunica all’Unione le modifiche e gli aggiornamenti dei componenti nazionali che possono avere ripercussioni sul funzionamento dei componenti comuni.
+
+<sup>8.</sup> Le parti contraenti mettono a disposizione del pubblico le informazioni sulle modifiche e sugli aggiornamenti dei sistemi elettronici di cui ai paragrafi 6 e 7.
+
+<sup>9.</sup> In caso di guasto temporaneo dell’ICS2 si applica il piano di continuità operativa stabilito dalle parti contraenti.
+
+<sup>10.</sup> Le parti contraenti si informano reciprocamente qualora i sistemi elettronici non siano disponibili a causa di un guasto temporaneo.
+
+<sup>11.</sup> L’Unione assiste la Svizzera con riguardo all’uso e al funzionamento dei componenti comuni dei sistemi elettronici fornendo il materiale formativo appropriato.
+
+#### Art. 13
+
+**Piattaforma di gestione uniforme degli utenti e firma digitale**
+
+<sup>1.</sup> Una piattaforma di gestione uniforme degli utenti e firma digitale («UUM&DS») consente la comunicazione tra i sistemi di gestione dell’identità e dell’accesso delle parti contraenti di cui al paragrafo 6 allo scopo di fornire ai funzionari delle parti contraenti e agli operatori economici un accesso autorizzato e sicuro ai sistemi elettronici.
+
+<sup>2.</sup>
+
+La piattaforma UUM&DS consiste dei seguenti componenti comuni:
+
+- (a) un sistema di gestione dell’accesso;
+- (b) un sistema di gestione amministrativa.
+
+<sup>3.</sup>
+
+La piattaforma UUM&DS è utilizzata per assicurare l’autenticazione e la verifica dell’accesso:
+
+- (a) di operatori economici ai fini dell’accesso all’ICS2;
+- (b) dei funzionari delle parti contraenti ai fini dell’accesso ai componenti comuni dell’ICS2 nonché della manutenzione e gestione della piattaforma UUM&DS.
+
+<sup>4.</sup> Le parti contraenti istituiscono il sistema di gestione dell’accesso per convalidare le richieste di accesso presentate dagli operatori economici nell’ambito della piattaforma UUM&DS mediante l’interazione con i sistemi di gestione dell’identità e dell’accesso delle parti contraenti di cui al paragrafo 6.
+
+<sup>5.</sup> Le parti contraenti istituiscono il sistema di gestione amministrativa per gestire le modalità di autenticazione e autorizzazione per la convalida dei dati di identificazione degli operatori economici allo scopo di permettere l’accesso ai sistemi elettronici.
+
+<sup>6.</sup>
+
+Le parti contraenti istituiscono un sistema di gestione dell’identità e dell’accesso per assicurare:
+
+- (a) una registrazione e archiviazione sicura dei dati di identificazione degli operatori economici;
+- (b) uno scambio sicuro dei dati di identificazione firmati e criptati degli operatori economici.
+
+#### Art. 14
+
+**Gestione, proprietà e sicurezza dei dati**
+
+<sup>1.</sup> Le parti contraenti provvedono affinché i dati registrati a livello nazionale corrispondano ai dati registrati nei componenti comuni e siano tenuti aggiornati.
+
+<sup>2.</sup>
+
+In deroga al paragrafo 1, le parti contraenti provvedono affinché i dati seguenti corrispondano ai dati contenuti nel repertorio comune dell’ICS2 e siano tenuti aggiornati:
+
+- (a) dati registrati a livello nazionale e comunicati dal sistema nazionale di accesso al repertorio comune;
+- (b) dati ricevuti nel sistema nazionale di accesso dal repertorio comune.
+
+<sup>3.</sup> I dati contenuti nei componenti comuni dell’ICS2 che sono comunicati all’interfaccia condivisa per gli operatori o in essa registrati da un operatore economico possono essere consultati o trattati da tale operatore economico.
+
+<sup>4.</sup>
+
+I dati contenuti nei componenti comuni dell’ICS2:
+
+- (a) comunicati a una parte contraente da un operatore economico attraverso l’interfaccia armonizzata per gli operatori con inserimento nel repertorio comune possono essere consultati e trattati da tale parte contraente nel repertorio comune. Se necessario, la suddetta parte contraente può accedere anche a tali informazioni registrate nell’interfaccia armonizzata per gli operatori;
+- (b) comunicati o registrati nel repertorio comune da una parte contraente possono essere consultati o trattati da tale parte contraente;
+- (c) di cui alle precedenti lettere a) e b) del presente paragrafo possono essere consultati e trattati anche dall’altra parte contraente se quest’ultima è coinvolta nel processo di analisi dei rischi e/o controllo cui i dati si riferiscono in conformità degli articoli 10 e 12 dell’accordo e del presente allegato;
+- (d) possono essere trattati dalla Commissione in collaborazione con le parti contraenti ai fini di cui all’articolo 1 paragrafo 1 lettera c) e all’articolo 11 paragrafo 6. I risultati di tale trattamento possono essere consultati dalla Commissione e dalle parti contraenti.
+
+<sup>5.</sup> I dati contenuti nel componente comune dell’ICS2 registrati nel repertorio comune dall’Unione possono essere consultati dalle parti contraenti. Tali dati possono essere trattati dall’Unione.
+
+<sup>6.</sup> L’Unione è proprietaria dei componenti comuni del sistema.
+
+<sup>7.</sup> La Svizzera è proprietaria dei propri componenti nazionali del sistema.
+
+<sup>8.</sup> L’Unione garantisce la sicurezza dei componenti comuni mentre la Svizzera garantisce la sicurezza dei propri componenti nazionali.
+
+<sup>9.</sup>
+
+A tal fine le parti contraenti adottano almeno le misure necessarie per:
+
+- (a) impedire a qualsiasi persona non autorizzata di accedere alle installazioni utilizzate per il trattamento dei dati;
+- (b) impedire l’introduzione di dati e qualsiasi consultazione, modifica o cancellazione di dati da parte di persone non autorizzate;
+- (c) individuare qualsiasi attività di cui alle lettere a) e b).
+
+<sup>10.</sup> Le parti contraenti si informano reciprocamente in merito a qualsiasi attività che possa comportare una violazione o una sospetta violazione della sicurezza dei sistemi elettronici.
+
+<sup>11.</sup> Le parti contraenti stabiliscono piani di sicurezza per tutti i sistemi.
+
+<sup>12.</sup> I dati registrati nei componenti dell’ICS2 sono conservati per almeno tre anni dopo la registrazione. Le parti contraenti possono prorogare tale periodo se richiesto dalla pertinente legislazione nazionale.
+
+#### Art. 15
+
+**Trattamento dei dati personali**
+
+Per l’ICS2 e l’UUM&DS, in relazione al trattamento dei dati personali ivi contenuti:
+
+- (a) la Svizzera e gli Stati membri dell’Unione agiscono in qualità di titolari del trattamento in conformità delle disposizioni dell’articolo 14 dell’accordo;
+- (b) la Commissione agisce in qualità di responsabile del trattamento e assolve agli obblighi che le sono imposti a tale riguardo a norma del regolamento (UE) 2018/1725 del Parlamento europeo e del Consiglio[^annexI-titII-15-1], ad eccezione dei casi di trattamento dei dati per il monitoraggio e la valutazione dell’attuazione dei criteri di rischio e delle norme comuni in materia di sicurezza, delle misure di controllo e dei settori di controllo prioritari, nei quali la Commissione agisce in qualità di contitolare del trattamento.
+
+[^annexI-titII-15-1]: Regolamento (UE) 2018/1725 del Parlamento europeo e del Consiglio, del 23 ottobre 2018, sulla tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni, degli organi e degli organismi dell’Unione e sulla libera circolazione di tali dati, e che abroga il regolamento (CE) n. 45/2001 e la decisione n. 1247/2002/CE (GU UE L 295 del 21.11.2018, pag. 39).
+
+#### Art. 16
+
+**Partecipazione allo sviluppo, alla manutenzione e alla gestione dell’ICS2**
+
+L’Unione garantisce agli esperti svizzeri la partecipazione, in qualità di osservatori per le questioni che riguardano lo sviluppo, la manutenzione e la gestione dell’ICS2, alle riunioni del gruppo di esperti doganali e dei rispettivi gruppi di lavoro. L’Unione decide caso per caso in merito alla partecipazione degli esperti svizzeri alle riunioni dei gruppi di lavoro in cui è rappresentato solo un numero limitato di Stati membri dell’Unione e che riferiscono al gruppo di esperti doganali.
+
+## Titolo III
+
+#### Art. 17
+
+**Accordi di finanziamento relativi alle responsabilità, agli impegni e alle aspettative in merito all’attuazione e al funzionamento dell´ICS2**
+
+Per quanto riguarda l’estensione dell’uso dell’ICS2 alla Svizzera, e in considerazione del capitolo III e del presente allegato, il presente accordo di finanziamento («*ac**cordo*») definisce gli elementi di collaborazione tra le parti contraenti per quanto concerne l’ICS2.
+
+- (a) La Commissione svilupperà, sottoporrà a prove, utilizzerà, gestirà e manterrà operativi i componenti centrali dell’ICS2, consistenti in un’interfaccia condivisa per gli operatori e in un repertorio comune (componenti centrali dell’ICS2), comprese le applicazioni e i servizi necessari per il loro funzionamento e l’interconnessione con i sistemi informatici in Svizzera, quali TAPAS, UUM&DS, middleware CCN2ng, e si impegna a metterli a disposizione della Svizzera.
+- (b) La Svizzera svilupperà, sottoporrà a prove, utilizzerà, gestirà e manterrà operativi i componenti nazionali dell’ICS2.
+- (c)
+
+  La Svizzera e la Commissione convengono di ripartire i costi di sviluppo e i costi una tantum dei componenti centrali dell’ICS2 nonché i costi operativi dei componenti centrali dell’ICS2, delle applicazioni e dei servizi correlati necessari per il loro funzionamento e l’interconnessione, come indicato di seguito:
+
+  - (1) una parte dei costi di sviluppo dei componenti centrali dell’ICS2 sarà fatturata dalla Commissione alla Svizzera in conformità delle lettere d) ed e). I costi di sviluppo coprono lo sviluppo del software dei componenti centrali e l’acquisto e l’installazione della relativa infrastruttura (hardware, software, hosting, licenze ecc.). La chiave di ripartizione è pari al 4 per cento del totale dei costi legati ai servizi menzionati.
+  - (2) Il tetto massimo di spesa per i costi di sviluppo è di 550 000 (cinquecentocinquantamila) EUR per versione.
+  - (3) Una parte dei costi operativi dei sistemi ICS2 e TAPAS sarà fatturata dalla Commissione alla Svizzera in conformità delle lettere f), g) e h). I costi operativi coprono le prove di conformità e la manutenzione dell’infrastruttura (hardware, software, hosting, licenze ecc.) dei componenti centrali dell’ICS2 e delle applicazioni e dei servizi correlati necessari per il loro funzionamento e l’interconnessione (garanzia della qualità, helpdesk e gestione dei servizi informatici). La chiave di ripartizione è pari al 4 per cento del totale dei costi legati ai servizi menzionati.
+  - (4) Il tetto massimo di spesa per i costi operativi connessi all’utilizzo dell’ICS2 per la Svizzera è di 450 000 (quattrocentocinquantamila) EUR all’anno.
+  - (5) I costi di sviluppo e i costi operativi del componente nazionale o dei componenti nazionali saranno interamente a carico della Svizzera.
+  - (6) La Svizzera sarà tenuta al corrente dell’evoluzione prevista dei costi e dei principali elementi afferenti allo sviluppo dell’ICS2 che potrebbero ripercuotersi su tali costi.
+
+- (d)
+
+  La Svizzera accetta di partecipare ai costi legati allo sviluppo e alle prove di conformità dei componenti centrali dell’ICS2 sostenuti prima dell’esecuzione dell´accordo. A tale scopo:
+
+  - (1) la Commissione informerà la Svizzera dell’importo stimato del contributo necessario per gli anni precedenti l’esecuzione del presente accordo.
+  - (2) Entro il 15 maggio di ogni anno, a partire dal 15 maggio 2021, la Commissione chiederà alla Svizzera di versare il proprio contributo a tali costi pregressi in quote di pari importo nei primi quattro anni di utilizzo dell’ICS2.
+
+- (e)
+
+  La Svizzera accetta di partecipare ai costi di sviluppo dei componenti centrali dell’ICS2. A tale scopo:
+
+  - (1) la Svizzera accetta di versare la propria quota dei costi di sviluppo delle versioni 1, 2 e 3 dell’ICS2.
+  - (2) Entro il 15 maggio di ogni anno, a partire dal 15 maggio 2021, la Commissione chiederà alla Svizzera di versare il proprio contributo allo sviluppo dell’ultima versione sulla base di una nota di addebito, debitamente documentata, emessa dalla Commissione.
+
+- (f)
+
+  La Svizzera accetta di partecipare ai costi operativi dei componenti centrali dell’ICS2. A tale scopo:
+
+  - (1) entro il 31 luglio di ogni anno, a partire dal 31 luglio 2021, la Commissione informerà la Svizzera dei costi operativi stimati per l’anno successivo e invierà per scritto alla Svizzera l’importo stimato del contributo necessario per l’anno successivo. La Svizzera sarà informata secondo le stesse modalità e le stesse tempistiche con cui la Commissione informerà ciascuno degli altri membri dell’ICS2, anche in riferimento agli aspetti principali dello sviluppo dell’ICS2;
+  - (2) solo entro il 15 maggio 2021 la Commissione chiederà alla Svizzera di versare il proprio contributo annuale per i costi operativi dell’anno 2020, pari a 110 000 EUR, nonché il contributo annuale stimato per il 2021, pari a 280 000 EUR. Entro il 15 maggio di ogni anno, a partire dal 15 maggio 2022, la Commissione chiederà alla Svizzera di versare il proprio contributo annuale per tale anno sommato all’importo del saldo (negativo o positivo) dell’anno precedente sulla base di una nota di addebito, debitamente documentata, emessa dalla Commissione;
+  - (3)
+
+    entro il 31 gennaio di ogni anno, a partire dal 31 gennaio 2022 la Commissione:
+
+    - – procederà alla liquidazione dei conti relativi ai precedenti costi annuali per l’operatività dei sistemi ICS2 e TAPAS in base all’importo già pagato dalla Svizzera a fronte dei costi effettivi sostenuti dalla Commissione e fornirà alla Svizzera un estratto conto che indicherà la ripartizione dei costi per i vari servizi e la fornitura di software, e
+    - – fornirà alla Svizzera i costi annuali effettivi, vale a dire i costi operativi reali, per l’anno precedente. La Commissione calcolerà i costi effettivi e stimati conformemente ai propri contratti stipulati con gli appaltatori, definiti in base alle attuali procedure di aggiudicazione degli appalti.
+
+- Il saldo (negativo o positivo) tra i costi effettivi e l’importo stimato dell’anno precedente sarà calcolato e comunicato dalla Commissione alla Svizzera tramite un estratto conto. L’estratto conto includerà l’importo annuale stimato per il contributo, sommato all’importo del saldo (negativo o positivo), risultante in un importo netto che la Commissione fatturerà alla Svizzera tramite la nota di addebito annuale.
+- (g) Il pagamento da parte della Svizzera avverrà successivamente alla data di emissione della nota di addebito. Tutti i pagamenti sono da effettuarsi sul conto bancario della Commissione indicato nella nota di addebito, entro 60 giorni.
+- (h) Qualora la Svizzera paghi gli importi previsti alla lettera c) in ritardo rispetto alle date indicate alla lettera g), la Commissione potrà contabilizzare degli interessi sugli arretrati (al tasso d’interesse applicato dalla Banca centrale europea nelle operazioni in euro, pubblicato nella Gazzetta ufficiale dell´Unione europea, serie C, in vigore alla data prevista per il pagamento, maggiorato di un punto e mezzo). Lo stesso tasso sarà applicato ai pagamenti che effettuerà l’Unione.
+- (i) Nel caso in cui la Svizzera richieda adeguamenti specifici o nuovi prodotti informatici in relazione ai componenti centrali, alle applicazioni o ai servizi dell’ICS2, l’avvio e il completamento di tali sviluppi formano l’oggetto di un accordo separato e reciproco concernente il fabbisogno di risorse e i costi di sviluppo.
+- (j)
+
+  Tutto il materiale formativo creato e mantenuto dalle parti contraenti è condi-viso con tutte le parti gratuitamente per via elettronica. La Svizzera è autorizzat a copiare, distribuire, esporre ed eseguire gli elaborati e realizzare opere derivate sulla base dei materiali di formazione condivisi:
+
+  - (1) solo se questi attribuiscono la paternità dell’opera al rispettivo autore secondo le modalità specificate nel materiale formativo condiviso,
+  - (2) esclusivamente per scopi non commerciali.
+
+- (k) Le parti contraenti convengono di riconoscere e adempiere alle rispettive responsabilità in relazione all’uso dei componenti centrali dell’ICS2 di cui al presente allegato.
+- (l) In caso di gravi perplessità circa il corretto funzionamento del presente allegato o dell’ICS2, ciascuna parte contraente può sospendere l’applicazione del presente accordo di finanziamento, a condizione che l’altra parte contraente ne sia stata informata per scritto con tre mesi di anticipo.
+
+## Titolo IV Dichiarazione sommaria di uscita
+
+#### Art. 18
+
+**Forma e contenuto della dichiarazione sommaria di uscita**
+
+<sup>1.</sup> La dichiarazione sommaria di uscita è presentata per via informatica. Si possono anche usare documenti commerciali, portuali, o relativi al trasporto, purché contengano le indicazioni necessarie.
+
+<sup>2.</sup> La dichiarazione sommaria di uscita contiene le indicazioni previste per tale dichiarazione nell’allegato B capitolo 3 colonne A1 e A2 del regolamento delegato (UE) 2015/2446 della Commissione ed è conforme ai rispettivi formati, codici e cardinalità di cui all’allegato B del regolamento di esecuzione (UE) 2015/2447 della Commissione. Essa è compilata conformemente alle note che figurano in tali allegati. La dichiarazione sommaria di uscita è autenticata dalla persona che la redige.
+
+<sup>3.</sup>
+
+Le autorità doganali accettano la presentazione di una dichiarazione sommaria di uscita su carta o con qualsiasi altro mezzo sostitutivo convenuto tra le autorità doganali soltanto in uno dei casi seguenti:
+
+- (a) quando il sistema informatico delle autorità doganali non funziona;
+- (b) quando l’applicazione elettronica della persona che presenta la dichiarazione sommaria di uscita non funziona, a condizione che le autorità doganali applichino livelli di gestione dei rischi equivalenti a quello applicato alle dichiarazioni sommarie di uscita presentate per via informatica. La dichiarazione sommaria di uscita su carta è firmata dalla persona che l’ha redatta. Tali dichiarazioni sommarie di uscita su carta sono accompagnate, ove necessario, da distinte di carico o da altre idonee distinte e contengono le indicazioni di cui al paragrafo 2.
+
+<sup>4.</sup> Ogni parte contraente definisce le condizioni e le modalità in base alle quali la persona che presenta la dichiarazione sommaria di uscita è autorizzata a modificare una o più indicazioni di tale dichiarazione una volta presentata.
+
+#### Art. 19
+
+**Esonero dall’obbligo di presentare una dichiarazione sommaria di uscita**
+
+<sup>1.</sup>
+
+Non è richiesta una dichiarazione sommaria di uscita per le merci seguenti:
+
+- (a) energia elettrica;
+- (b) merci esportate mediante conduttura;
+- (c) invii di corrispondenza, da intendersi come lettere, cartoline postali, lettere in braille e stampati non soggetti al dazio all’importazione o all’esportazione;
+- (d) merci trasportate all’interno di spedizioni postali in conformità delle disposizioni dell’Unione postale universale;
+- (e) merci per le quali è ammessa una dichiarazione doganale orale o una dichiarazione con semplice attraversamento della frontiera, conformemente alla legislazione delle parti contraenti, fatta eccezione per bancali, contenitori, mezzi di trasporto nonché per pezzi di ricambio, accessori e attrezzature per tali articoli, se trasportate in applicazione di un contratto di trasporto;
+- (f) merci contenute nei bagagli personali dei viaggiatori;
+- (g) merci corredate di carnet ATA e CPD;
+- (h) merci che beneficiano di franchigia conformemente alla Convenzione di Vienna del 18 aprile 1961 sulle relazioni diplomatiche, alla Convenzione di Vienna del 24 aprile 1963 sulle relazioni consolari o ad altre convenzioni consolari, o alla Convenzione di New York del 16 dicembre 1969 sulle missioni speciali;
+- (i) armi e attrezzature militari ritirate dal territorio doganale di una parte contraente dalle autorità competenti per la difesa militare di tale territorio nell’ambito di un trasporto militare o di un trasporto effettuato per uso esclusivo delle autorità militari;
+- (j)
+
+  le merci seguenti, trasferite dal territorio doganale di una parte contraente direttamente ad impianti offshore gestiti da un soggetto stabilito nel territorio doganale di una delle parti contraenti:
+
+  - (1) merci da utilizzare per la costruzione, la riparazione, la manutenzione o la conversione di impianti offshore,
+  - (2) merci da utilizzare per attrezzare tali impianti offshore,
+  - (3) merci da utilizzare o consumare su impianti offshore;
+
+- (k) merci trasportate in base al formulario NATO 302 previsto nel quadro della Convenzione tra gli Stati che hanno aderito al trattato del Nord Atlantico sullo statuto delle loro forze armate, firmata a Londra il 19 giugno 1951, o in base al formulario UE 302 di cui all’articolo 1 punto 51 del regolamento delegato (UE) 2015/2446 della Commissione;
+- (l) merci destinate a essere incorporate come parti o accessori in navi o aeromobili e destinate al funzionamento di motori, macchine e altre attrezzature di navi o aeromobili, prodotti alimentari e altri articoli da consumare o vendere a bordo;
+- (m) effetti o oggetti mobili quali definiti nella legislazione delle rispettive parti contraenti, a condizione che non siano trasportati in applicazione di un contratto di trasporto;
+- (n) merci spedite dai territori doganali delle parti contraenti verso Ceuta e Melilla, l’isola di Helgoland, la Repubblica di San Marino, lo Stato della Città del Vaticano, i Comuni di Livigno e le exclavi doganali svizzere di Samnaun e Sampuoir;
+- (o) merci trasportate su navi che circolano tra porti delle parti contraenti senza effettuare uno scalo intermedio in un porto situato al di fuori dei territori doganali delle parti contraenti;
+- (p) merci trasportate su aeromobili che circolano tra aeroporti delle parti contraenti senza effettuare uno scalo intermedio in un aeroporto situato al di fuori dei territori doganali delle parti contraenti.
+
+<sup>2.</sup> Non è richiesta una dichiarazione sommaria di uscita nei casi previsti da un accordo internazionale in materia di sicurezza concluso tra una parte contraente ed un Paese terzo, fatta salva la procedura di cui all’articolo 9 paragrafo 3 del presente accordo.
+
+<sup>3.</sup>
+
+Non è richiesta dalle parti contraenti una dichiarazione sommaria di uscita per le merci nei casi seguenti:
+
+- (a) se una nave che trasporta le merci tra porti delle parti contraenti deve effettuare uno scalo in un porto situato al di fuori dei territori doganali delle parti contraenti e le merci devono rimanere a bordo della nave durante lo scalo in tale porto;
+- (b) se un aeromobile che trasporta le merci tra aeroporti delle parti contraenti deve effettuare uno scalo in un aeroporto situato al di fuori dei territori doganali delle parti contraenti e le merci devono rimanere a bordo dell’aeromobile durante lo scalo in tale aeroporto;
+- (c) se, in un porto o aeroporto, le merci non sono scaricate dal mezzo di trasporto che le ha introdotte nei territori doganali delle parti contraenti e che le trasporterà al di fuori di tali territori;
+- (d) se le merci sono state caricate in un precedente porto o aeroporto nei territori doganali delle parti contraenti con presentazione di una dichiarazione sommaria di uscita o in esonero dall’obbligo di presentare una dichiarazione pre-partenza, e rimangono sul mezzo di trasporto che le trasporterà al di fuori dei territori doganali delle parti contraenti;
+- (e)
+
+  se le merci che si trovano in custodia temporanea o che sono vincolate al regime di zona franca sono trasbordate dal mezzo di trasporto che le ha portate in tale deposito di custodia temporanea o zona franca, sotto la vigilanza dello stesso ufficio doganale, su una nave, un aeromobile o un treno che le trasporterà al di fuori dei territori doganali delle parti contraenti, a condizione che:
+
+  - (1) il trasbordo sia effettuato entro 14 giorni dalla presentazione delle merci in conformità della legislazione della rispettiva parte contraente o, in circostanze eccezionali, entro un periodo più lungo autorizzato dalle autorità doganali qualora il periodo di 14 giorni non sia sufficiente per far fronte a dette circostanze,
+  - (2) le informazioni relative alle merci siano messe a disposizione delle autorità doganali,
+  - (3) per quanto a conoscenza del trasportatore, non vi sia alcun cambiamento della destinazione delle merci e del destinatario;
+
+- (f) se le merci sono state introdotte nei territori doganali delle parti contraenti ma sono state respinte dall’autorità doganale competente e sono state immediatamente rispedite al Paese di esportazione.
+
+#### Art. 20
+
+**Luogo di presentazione della dichiarazione sommaria di uscita**
+
+<sup>1.</sup> La dichiarazione sommaria di uscita è presentata presso l’ufficio doganale competente nel territorio doganale della parte contraente in cui sono espletate le formalità di uscita delle merci a destinazione di Paesi terzi. Tuttavia, una dichiarazione doganale di esportazione utilizzata come dichiarazione sommaria di uscita è presentata presso l’autorità competente della parte contraente sul cui territorio doganale sono espletate le formalità relative all’esportazione a destinazione di un Paese terzo. In entrambi i casi, l’ufficio competente effettua l’analisi dei rischi in materia di sicurezza basandosi sulle indicazioni riportate in detta dichiarazione e i controlli doganali in materia di sicurezza ritenuti necessari.
+
+<sup>2.</sup> Quando le merci lasciano il territorio doganale di una delle parti contraenti a destinazione di un Paese terzo attraversando il territorio doganale dell’altra parte contraente e le formalità di esportazione sono seguite da un regime di transito in conformità della convenzione relativa ad un regime comune di transito, la trasmissione dei dati di cui all’articolo 18 paragrafo 2 alle autorità competenti della seconda parte contraente avviene utilizzando l’NCTS.
+
+Le parti contraenti si scambiano nel sistema di cui all’articolo 12 paragrafo 3 dell’accordo le informazioni sui rischi di cui alle lettere a) e b) del presente paragrafo.
+
+In tal caso l’ufficio doganale della prima parte contraente mette i risultati dei propri controlli doganali in materia di sicurezza a disposizione dell’autorità doganale della seconda parte contraente se:
+
+- (a) l’autorità doganale giudica che i rischi siano significativi e che richiedano un controllo doganale e i risultati del controllo indicano che l’evento che determina il rischio si è verificato; oppure
+- (b) i risultati del controllo non indicano che l’evento che determina il rischio si è verificato, ma l’autorità doganale in questione ritiene che la minaccia costituisca un rischio elevato altrove nei territori doganali delle parti contraenti; oppure
+- (c) è necessaria un’applicazione uniforme delle norme del presente accordo.
+
+<sup>3.</sup> In deroga al paragrafo 1, ad eccezione del trasporto aereo, quando le merci lasciano il territorio doganale di una parte contraente a destinazione di un Paese terzo attraverso il territorio doganale dell’altra parte contraente e le formalità di esportazione non sono seguite da un regime di transito conformemente alla convenzione relativa ad un regime comune di transito, la dichiarazione sommaria di uscita è presentata direttamente all’ufficio doganale competente di uscita della seconda parte contraente da cui le merci escono definitivamente verso un Paese terzo.
+
+#### Art. 21
+
+**Termini per presentare una dichiarazione sommaria di uscita**
+
+<sup>1.</sup>
+
+La dichiarazione sommaria di uscita è presentata entro i termini seguenti:
+
+- (a)
+
+  in caso di trasporto marittimo:
+
+  - (1) per i movimenti di merci containerizzate diversi da quelli di cui ai punti 2) e 3): almeno 24 ore prima del carico delle merci sulla nave a bordo della quale devono lasciare i territori doganali delle parti contraenti,
+  - (2) per i movimenti di merci containerizzate tra i territori doganali delle parti contraenti e la Groenlandia, le Isole Fær Øer, l’Islanda o i porti del Mar Baltico, del Mare del Nord, del Mar Nero o del Mar Mediterraneo e tutti i porti del Marocco: almeno due ore prima della partenza da un porto situato nei territori doganali delle parti contraenti,
+  - (3) per i movimenti di merci containerizzate effettuati tra i dipartimenti francesi d’oltremare, le Azzorre, Madera o le Isole Canarie e un territorio situato al di fuori dei territori doganali delle parti contraenti, quando la durata del viaggio è inferiore alle 24 ore: almeno due ore prima della partenza da un porto situato nei territori doganali delle parti contraenti,
+  - (4) per i movimenti non riguardanti merci containerizzate: almeno due ore prima della partenza da un porto situato nei territori doganali delle parti contraenti;
+
+- (b) in caso di trasporto aereo: almeno 30 minuti prima della partenza da un aeroporto situato nei territori doganali delle parti contraenti;
+- (c) in caso di trasporto stradale e per vie navigabili interne: almeno un’ora prima che le merci debbano lasciare i territori doganali delle parti contraenti;
+- (d)
+
+  in caso di trasporto ferroviario:
+
+  - (1) se il tragitto del treno dall’ultima stazione in cui è stato composto il treno all’ufficio doganale di uscita è inferiore a due ore: almeno un’ora prima dell’arrivo delle merci nel luogo per cui è competente l’ufficio doganale di uscita,
+  - (2) in tutti gli altri casi: almeno due ore prima che le merci debbano lasciare i territori doganali delle parti contraenti.
+
+<sup>2.</sup>
+
+Nei casi seguenti il termine ultimo per la presentazione della dichiarazione sommaria di uscita è quello applicabile al mezzo di trasporto attivo utilizzato per lasciare i territori doganali delle parti contraenti:
+
+- (a) se le merci sono arrivate all’ufficio doganale di uscita su un altro mezzo di trasporto da cui sono trasferite prima di lasciare i territori doganali delle parti contraenti (trasporto intermodale);
+- (b) se le merci sono arrivate all’ufficio doganale di uscita su un altro mezzo di trasporto che è a sua volta trasportato su un mezzo di trasporto attivo al momento di lasciare i territori doganali delle parti contraenti (trasporto combinato).
+
+<sup>3.</sup> I termini di cui ai paragrafi 1 e 2 non si applicano in caso di forza maggiore.
+
+<sup>4.</sup>
+
+In deroga ai paragrafi 1 e 2, ogni parte contraente può fissare termini diversi:
+
+- (a) nei casi del traffico di cui all’articolo 20 paragrafo 2, al fine di consentire un’analisi dei rischi affidabile ed intercettare le spedizioni per effettuare gli eventuali controlli doganali di sicurezza;
+- (b) nel caso di un accordo internazionale in materia di sicurezza tra detta parte contraente e un Paese terzo, fatta salva la procedura di cui all’articolo 9 paragrafo 3 dell’accordo.
+
+Allegato II[^t-3]
 
 ## Operatore economico autorizzato
 
-[^t-3]: Aggiornato dall’art. 2 della dec. n. 1/2013 del Comitato misto UE-Svizzera del 6 giu. 2013, in vigore il 7 giu. 2013 ([RU 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)).
+[^t-3]: Nuovo testo giusta l’art. 2 della Dec. n. 1/2021 del Comitato misto UE-Svizzera del 12 mar. 2021, applicata provvisoriamente dal 15 mar. 2021 ([RU 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
 
 ## Titolo I Concessione della qualifica di operatore economico autorizzato
 
@@ -601,148 +1210,193 @@ Allegato II*[^t-3]*
 
 **Osservazioni generali**
 
-<sup>1.</sup>
+I criteri per la concessione della qualifica di operatore economico autorizzato sono i seguenti:
 
-I criteri per la concessione della qualifica di «operatore economico autorizzato» comprendono:
-
-- (a) un’adeguata comprovata osservanza degli obblighi doganali;
-- (b) un sistema efficace di gestione delle scritture commerciali e, se del caso, relative ai trasporti, che consenta di effettuare adeguati controlli doganali di sicurezza;
-- (c) una comprovata solvibilità finanziaria; e
-- (d) norme adeguate di sicurezza.
-
-<sup>2.</sup> Ogni parte contraente stabilisce le procedure per la richiesta e la concessione della qualifica di operatore economico autorizzato, nonché gli effetti giuridici di tale qualifica.
-
-<sup>3.</sup> Le parti contraenti garantiscono che le autorità doganali verifichino il rispetto, da parte dell’operatore economico autorizzato, delle condizioni e dei criteri ad esso applicabili e procedono a riesaminare tali condizioni e criteri in particolare in seguito a modifiche importanti della normativa in materia o nel caso emergano elementi che inducono ragionevolmente a pensare che l’operatore economico autorizzato non soddisfi più le condizioni applicabili.
+- (a) assenza di violazioni gravi o ripetute della normativa doganale e fiscale, compresa l’assenza di trascorsi di reati gravi in relazione all’attività economica del richiedente;
+- (b) dimostrazione, da parte del richiedente, di un alto livello di controllo sulle sue operazioni e sul flusso di merci, mediante un sistema di gestione delle scritture commerciali e, se del caso, di quelle relative ai trasporti, che consenta adeguati controlli doganali;
+- (c) solvibilità finanziaria, che si considera comprovata se il richiedente si trova in una situazione finanziaria sana, che gli consente di adempiere ai propri impegni, tenendo in debita considerazione le caratteristiche del tipo di attività commerciale interessata;
+- (d) adeguati standard di sicurezza, che si considerano rispettati se il richiedente dimostra di disporre di misure idonee a garantire la sicurezza della catena internazionale di approvvigionamento anche per quanto riguarda l’integrità fisica e i controlli degli accessi, i processi logistici e le movimentazioni di specifici tipi di merci, il personale e l’identificazione dei partner commerciali.
 
 #### Art. 2
 
-**Precedenti**
+**Conformità**
 
 <sup>1.</sup>
 
-La comprovata osservanza degli obblighi doganali è considerata adeguata se, nel corso degli ultimi tre anni che precedono la presentazione della domanda, non è stata commessa un’infrazione grave o infrazioni ripetute alla regolamentazione doganale da parte di una delle seguenti persone:
+Il criterio di cui all’articolo 1 lettera a) è considerato soddisfatto se:
 
-- (a) il richiedente;
-- (b) le persone responsabili della società del richiedente o che ne esercitano il controllo della gestione;
-- (c) se del caso, il legale rappresentante del richiedente in materia doganale;
-- (d) la persona responsabile delle questioni doganali nella società del richiedente.
+- (a) non è stata adottata alcuna decisione da parte di un’autorità amministrativa o giudiziaria che concluda che una delle persone di cui alla lettera b) ha commesso, nel corso degli ultimi tre anni, violazioni gravi o ripetute della normativa doganale o fiscale in relazione alla propria attività economica; e
+- (b)
 
-<sup>2.</sup> L’osservanza degli obblighi doganali nel passato può tuttavia essere considerata soddisfacente se l’autorità doganale competente ritiene che l’infrazione sia di rilievo trascurabile rispetto al numero e all’ampiezza delle operazioni doganali e non susciti dubbi circa la buona fede del richiedente.
+  nessuna delle seguenti persone ha precedenti di reati gravi in relazione alla propria attività economica compresa, se del caso, l’attività economica del richiedente:
 
-<sup>3.</sup> Se le persone che esercitano il controllo sulla società del richiedente sono stabilite o residenti in un Paese terzo, le autorità doganali valutano la loro osservanza degli obblighi doganali in passato sulla base dei fascicoli e delle informazioni disponibili.
+  - (1) il richiedente,
+  - (2) il dipendente o i dipendenti responsabili delle questioni doganali del richiedente, e
+  - (3) la persona o le persone responsabili del richiedente o che esercitano il controllo sulla sua gestione.
 
-<sup>4.</sup> Se il richiedente è stabilito da meno di tre anni, le autorità doganali valutano l’osservanza degli obblighi doganali in passato sulla base dei fascicoli e delle informazioni disponibili.
+<sup>2.</sup> Tuttavia il criterio di cui all’articolo 1 lettera a) può essere considerato soddisfatto se l’autorità doganale competente a prendere la decisione ritiene che un’infrazione sia di rilievo trascurabile rispetto al numero o all’ampiezza delle operazioni doganali correlate e non ha dubbi circa la buona fede del richiedente.
+
+<sup>3.</sup> Se la persona di cui al paragrafo 1 lettera b) punto 3) diversa dal richiedente è stabilita o ha la propria residenza in un Paese terzo, l’autorità doganale competente a prendere la decisione valuta il rispetto del criterio di cui all’articolo 1 lettera a) sulla base delle scritture e delle informazioni disponibili.
+
+<sup>4.</sup> Se il richiedente risulta stabilito da meno di tre anni, l’autorità doganale competente a prendere la decisione valuta il rispetto del criterio di cui all’articolo 1 lettera a) sulla base delle scritture e delle informazioni disponibili.
 
 #### Art. 3
 
 **Sistema efficace di gestione delle scritture commerciali e relative ai trasporti**
 
-Al fine di permettere alle autorità doganali di accertarsi che dispone di un efficace sistema di gestione delle scritture commerciali e, se del caso, relative ai trasporti, il richiedente si conforma ai seguenti obblighi:
+Il criterio di cui all’articolo 1 lettera b) si considera soddisfatto se sono rispettate le condizioni seguenti:
 
-- (a) utilizzare un sistema contabile che sia compatibile con i principi contabili generalmente accettati applicati nel luogo in cui è tenuta la contabilità e che faciliterà i controlli doganali mediante audit;
-- (b) permettere l’accesso fisico o elettronico alle scritture doganali e, se del caso, relative ai trasporti, all’autorità doganale;
-- (c) disporre di un’organizzazione amministrativa che corrisponda al tipo e alla dimensione dell’impresa e che sia adatta alla gestione dei flussi di merci e di un sistema di controllo interno che permetta di individuare le transazioni illegali o fraudolente;
-- (d) se del caso, disporre di procedure soddisfacenti di gestione delle licenze e delle autorizzazioni di importazione e/o di esportazione;
-- (e) disporre di procedure soddisfacenti di archiviazione delle scritture e delle informazioni dell’impresa e di protezione contro la perdita dei dati;
-- (f) assicurare che i dipendenti siano consapevoli della necessità di informare le autorità doganali ogniqualvolta incontrino difficoltà nell’ottemperare alle norme doganali e prendano idonei contatti per informarne le autorità doganali;
-- (g) aver adottato adeguate misure di sicurezza delle tecnologie dell’informazione utilizzate, al fine di proteggere il sistema informatico del richiedente contro qualsiasi manipolazione non autorizzata e tutelare la sua documentazione.
+- (a) il richiedente tiene un sistema contabile compatibile con i principi contabili generalmente accettati applicati nelle parti contraenti in cui è tenuta la contabilità, consente i controlli doganali mediante audit e conserva una do-cumentazione cronologica dei dati che fornisce una pista di controllo dal momento dell’inserimento dei dati nel fascicolo;
+- (b) le scritture tenute dal richiedente a fini doganali sono integrate nel suo sistema contabile o consentono controlli incrociati di informazioni con tale sistema;
+- (c) il richiedente consente all’autorità doganale l’accesso fisico ai suoi sistemi contabili e, se del caso, alle scritture commerciali e relative ai trasporti;
+- (d) il richiedente consente all’autorità doganale l’accesso elettronico ai suoi sistemi contabili e, se del caso, alle sue scritture commerciali e relative ai trasporti se tali sistemi o scritture sono conservati su supporto elettronico;
+- (e) il richiedente dispone di un’organizzazione amministrativa che corrisponde al tipo e alla dimensione dell’impresa e che è adatta alla gestione dei flussi di merci, e di un sistema di controllo interno che consente di prevenire, individuare e correggere gli errori e di prevenire e individuare le transazioni illegali o fraudolente;
+- (f) ove applicabile, il richiedente dispone di procedure soddisfacenti che permettono di gestire le licenze e le autorizzazioni concesse in conformità delle misure di politica commerciale o relative agli scambi di prodotti agricoli;
+- (g) il richiedente dispone di procedure soddisfacenti di archiviazione delle proprie scritture e informazioni e di protezione contro la perdita dei dati;
+- (h) il richiedente provvede affinché i dipendenti responsabili siano incaricati di informare le autorità doganali ogniqualvolta incontrino difficoltà nell’ottemperare alle norme doganali e stabilisce procedure per informare le autorità doganali di tali difficoltà;
+- (i) il richiedente dispone di misure adeguate di sicurezza per proteggere il proprio sistema informatico contro qualsiasi manipolazione non autorizzata e tutelare la propria documentazione;
+- (j) ove applicabile, il richiedente dispone di procedure soddisfacenti per la gestione delle licenze di importazione e di esportazione di merci sottoposte a divieti o restrizioni, comprese misure per distinguere le merci soggette a divieti o restrizioni dalle altre merci e misure per garantire il rispetto di tali divieti e restrizioni.
 
 #### Art. 4
 
 **Solvibilità finanziaria**
 
-<sup>1.</sup> Ai fini del presente articolo, si intende per solvibilità finanziaria una situazione finanziaria sana, sufficiente per permettere al richiedente di adempiere ai propri obblighi, tenendo debitamente conto delle caratteristiche del tipo di attività commerciale.
+<sup>1.</sup>
 
-<sup>2.</sup> La condizione relativa alla solvibilità finanziaria del richiedente è considerata soddisfatta se tale solvibilità può essere attestata per gli ultimi tre anni.
+Il criterio di cui all’articolo 1 lettera c) si considera soddisfatto se il richiedente rispetta le seguenti condizioni:
 
-<sup>3.</sup> Se il richiedente è stabilito da meno di tre anni, la sua solvibilità finanziaria è giudicata sulla base delle scritture e delle informazioni disponibili.
+- (a) non è oggetto di una procedura fallimentare;
+- (b) nei tre anni precedenti la presentazione della domanda ha ottemperato ai propri obblighi finanziari per quanto riguarda il pagamento dei dazi doganali e di qualsiasi altro diritto, imposta o tassa riscossi per o in relazione all’importazione o all’esportazione di merci;
+- (c) dimostra, sulla base dei dati e delle informazioni disponibili per gli ultimi tre anni precedenti alla presentazione della domanda, che dispone di sufficiente capacità finanziaria per ottemperare ai propri obblighi e adempiere ai propri impegni tenuto conto del tipo e del volume di attività commerciale, incluso il fatto di non aver registrato un attivo netto negativo, salvo nei casi in cui questo può essere coperto.
+
+<sup>2.</sup> Se il richiedente è stabilito da meno di tre anni, la sua solvibilità finanziaria ai sensi dell’articolo 1 lettera c) è giudicata sulla base delle scritture e delle informazioni disponibili.
 
 #### Art. 5
 
-**Norme appropriate di sicurezza**
+**Norme di sicurezza**
 
 <sup>1.</sup>
 
-Le norme di sicurezza del richiedente sono considerate soddisfacenti se sono soddisfatte le condizioni seguenti:
+Il criterio di cui all’articolo 1 lettera d) si considera soddisfatto se sono rispettate le condizioni seguenti:
 
-- (a) gli edifici utilizzati nell’ambito delle operazioni oggetto del certificato sono costruiti con materiali che offrono resistenza contro un accesso non autorizzato e forniscono protezione contro le intrusioni illecite;
-- (b) sono attuate misure di controllo adeguate per prevenire un accesso illegale alle zone di spedizione, alle banchine di carico e alle zone di trasporto;
-- (c) le misure relative alla manutenzione delle merci si estendono alla protezione contro l’introduzione, la sostituzione o la perdita di materiali e l’alterazione di unità di trasporto;
-- (d) se applicabile, sono attuate procedure per garantire la gestione delle licenze di importazione/esportazione di merci sottoposte a divieti o restrizioni e distinguere queste ultime da altre merci;
-- (e) l’operatore economico ha adottato misure che permettono di individuare chiaramente i suoi partner commerciali, in modo da rendere sicura la catena internazionale di approvvigionamento;
-- (f) l’operatore economico effettua, nella misura consentita dalla legge, un’indagine di sicurezza presso i futuri lavoratori dipendenti che occuperanno posti sensibili sotto il profilo della sicurezza ed effettua controlli periodici dei loro precedenti;
-- (g) il richiedente assicura che il personale interessato partecipi attivamente ai programmi di sensibilizzazione alla sicurezza.
+- (a) gli edifici utilizzati nell’ambito delle operazioni relative all’autorizzazione forniscono protezione contro le intrusioni illecite e sono costruiti con materiali che resistono a un accesso non autorizzato;
+- (b) sono messe in atto misure appropriate per impedire l’accesso non autorizzato a uffici, zone di spedizione, zone di trasporto, banchine di carico e altre strutture;
+- (c) sono state adottate misure relative alla gestione delle merci che comprendono la protezione contro l’introduzione non autorizzata o lo scambio, l’errata gestione delle merci e la manomissione delle unità di carico;
+- (d) il richiedente ha adottato misure che consentono la chiara individuazione dei suoi partner commerciali e di garantire, tramite l’applicazione di idonei accordi contrattuali o di altre appropriate misure conformi al modello d’impresa del richiedente, che tali partner commerciali garantiscano la sicurezza della parte di loro competenza nella catena di approvvigionamento internazionale;
+- (e) il richiedente effettua, nella misura in cui il diritto nazionale lo consente, un’indagine di sicurezza presso i potenziali dipendenti che occuperanno posizioni sensibili sotto il profilo della sicurezza e svolge, periodicamente e quando ciò sia giustificato dalle circostanze, controlli sui precedenti dei dipendenti attuali che occupano tali posizioni;
+- (f) il richiedente dispone di adeguate procedure di sicurezza per tutti i fornitori esterni di servizi con i quali ha stipulato un contratto;
+- (g) il richiedente assicura che il proprio personale con responsabilità pertinenti alle questioni di sicurezza partecipi regolarmente a programmi volti ad accrescere la consapevolezza su tali questioni di sicurezza;
+- (h) il richiedente ha designato una persona di contatto competente per le questioni legate alla sicurezza.
 
-<sup>2.</sup> Se il richiedente, stabilito nella Comunità o in Svizzera, è titolare di un certificato di sicurezza tecnica e/o di protezione da atti illeciti riconosciuto su scala mondiale, rilasciato sulla base di convenzioni internazionali, di un certificato europeo di sicurezza tecnica e/o di protezione da atti illeciti, rilasciato sulla base della normativa comunitaria, di una norma internazionale dell’Organizzazione internazionale di normalizzazione o di una norma europea degli organismi di normalizzazione europei, o di un’altra certificazione riconosciuta, si considerano soddisfatti i criteri di cui al paragrafo 1 nella misura in cui i criteri di rilascio di detti certificati siano identici o comparabili a quelli previsti dal presente allegato.
+<sup>2.</sup> Se il richiedente è titolare di un certificato di sicurezza rilasciato sulla base di una convenzione internazionale o di una norma internazionale dell’Organizzazione internazionale per la standardizzazione o di una norma europea di un organismo europeo di normazione, tali certificati sono presi in considerazione in sede di verifica della conformità con i criteri di cui all’articolo 1 lettera d).
+
+I criteri sono considerati soddisfatti nella misura in cui sia accertato che i criteri per il rilascio del suddetto certificato sono identici o equivalenti a quelli previsti all’articolo 1 lettera d).
+
+<sup>3.</sup> Se il richiedente è un agente regolamentato o un mittente conosciuto nell’ambito della sicurezza dell’aviazione civile, i criteri di cui al paragrafo 1 sono considerati soddisfatti per quanto concerne i siti e le operazioni per i quali il richiedente ha ottenuto la qualifica di agente regolamentato o di mittente conosciuto, nella misura in cui i criteri per il rilascio della qualifica di agente regolamentato o di mittente conosciuto siano identici o equivalenti a quelli di cui all’articolo 1 lettera d).
 
 ## Titolo II Agevolazioni concesse agli operatori economici autorizzati
 
 #### Art. 6
 
-Le autorità doganali concedono in particolare le seguenti agevolazioni agli operatori economici autorizzati:
+**Agevolazioni concesse agli operatori economici autorizzati**
 
-- – le autorità doganali possono comunicare all’operatore economico autorizzato, prima dell’ingresso delle merci nel territorio doganale comunitario o dell’uscita da esso, quando, in esito a un’analisi del rischio di sicurezza, la spedizione è stata selezionata per essere sottoposta a un controllo fisico complementare, sempreché tale comunicazione non comprometta il controllo da effettuare; le autorità doganali possono tuttavia procedere ad un controllo fisico anche qualora un operatore economico autorizzato non sia stato preventivamente informato;
-- – l’operatore economico autorizzato può presentare dichiarazioni sommarie di entrata o di uscita contenenti un numero ridotto di dati obbligatori per quanto riguarda le informazioni di cui all’allegato 30<sup>bis</sup> del regolamento (CEE) n. 2454/93 della Commissione, del 2 luglio 1993[^annexII-titII-6-1], che fissa talune disposizioni d’applicazione del regolamento (CEE) n. 2913/92 del Consiglio, che istituisce il codice doganale comunitario, modificato da ultimo dal regolamento (UE) n. 430/2010 della Commissione[^annexII-titII-6-2]; tuttavia, nel caso in cui l’operatore economico autorizzato sia un vettore, uno spedizioniere o un agente doganale, gli è consentito di presentare un numero ridotto di dati obbligatori soltanto se partecipa all’importazione o all’esportazione di merci per conto di un operatore economico autorizzato;
-- – l’operatore economico autorizzato è sottoposto in minor misura ai controlli fisici e documentali rispetto ad altri operatori economici; nondimeno le autorità doganali possono decidere altrimenti per tener conto di una particolare minaccia o di obblighi di controllo derivanti da normative diverse da quelle doganali;
-- – qualora l’autorità doganale decida di procedere al controllo di una spedizione munita di una dichiarazione sommaria di entrata o di uscita presentata da un operatore economico autorizzato, detto controllo è effettuato in via prioritaria; inoltre, su richiesta dell’operatore economico autorizzato e con l’accordo dell’autorità doganale, tale controllo può essere effettuato in luogo diverso da quello dove l’autorità effettua solitamente i controlli.
+<sup>1.</sup> Se un operatore economico autorizzato per la sicurezza presenta per proprio conto una dichiarazione sommaria di uscita sotto forma di una dichiarazione doganale o di una dichiarazione di riesportazione, non sono necessarie indicazioni diverse da quelle riportate in tali dichiarazioni.
 
-[^annexII-titII-6-1]: GU L 253 dell’11.10.1993, pag. 1.
-[^annexII-titII-6-2]: GU L 125 del 21.5.2010, pag. 10.
-
-## Titolo III Sospensione e revoca della qualifica di operatore economico autorizzato
+<sup>2.</sup> Se un operatore economico autorizzato per la sicurezza presenta per conto di un’altra persona che è anch’essa un operatore economico autorizzato una dichiarazione sommaria di uscita sotto forma di una dichiarazione doganale o di una dichiarazione di riesportazione, non sono necessarie indicazioni diverse da quelle riportate in tali dichiarazioni.
 
 #### Art. 7
+
+**Trattamento più favorevole in materia di valutazione dei rischi e controllo**
+
+<sup>1.</sup> Un operatore economico autorizzato è sottoposto in minor misura a controlli fisici e documentali di sicurezza rispetto ad altri operatori economici.
+
+<sup>2.</sup> Se un operatore economico autorizzato ha presentato una dichiarazione sommaria di entrata o è stato autorizzato a presentare una dichiarazione doganale o una dichiarazione di custodia temporanea in sostituzione di una dichiarazione sommaria di entrata o se un operatore economico autorizzato è stato autorizzato a utilizzare sistemi di informazione commerciali, portuali o relativi al trasporto per la presentazione delle indicazioni di una dichiarazione sommaria di entrata di cui all’articolo 10 paragrafo 8 dell’accordo e all’articolo 1 paragrafo 4 dell’allegato I, l’autorità doganale competente, se la spedizione è stata selezionata per il controllo fisico, ne informa l’operatore economico autorizzato. Tale notifica ha luogo prima dell’arrivo delle merci nel territorio doganale delle parti contraenti.
+
+La notifica è messa a disposizione anche del vettore, se questi è diverso dall’operatore economico autorizzato di cui al primo comma, a condizione che il vettore sia un operatore economico autorizzato e sia collegato ai sistemi informatici relativi alle dichiarazioni di cui al primo comma.
+
+La notifica non è effettuata se può pregiudicare i controlli da effettuare o i relativi risultati.
+
+<sup>3.</sup> Se spedizioni dichiarate da un operatore economico autorizzato sono state selezionate per controlli fisici o documentali, tali controlli sono eseguiti in via prioritaria.
+
+Su richiesta dell’operatore economico autorizzato, i controlli possono svolgersi in un luogo diverso da quello in cui le merci devono essere presentate in dogana.
+
+#### Art. 8
+
+**Esonero dal trattamento favorevole**
+
+Il trattamento più favorevole di cui all’articolo 7 non si applica ai controlli doganali di sicurezza connessi a specifici livelli di minaccia elevati o agli obblighi di controllo derivanti da altre normative.
+
+Per le spedizioni dichiarate da un operatore economico autorizzato le autorità doganali effettuano comunque le procedure, le formalità e i controlli necessari in via prioritaria.
+
+## Titolo III Sospensione, annullamento e revoca della qualifica di operatore economico autorizzato
+
+#### Art. 9
 
 **Sospensione della qualifica**
 
 <sup>1.</sup>
 
-L’autorità doganale di rilascio sospende la qualifica di operatore economico autorizzato nei seguenti casi:
+L’autorità doganale competente sospende una decisione di concessione della qualifica di operatore economico autorizzato nei casi seguenti:
 
-- (a) qualora accerti l’inosservanza delle condizioni o dei criteri di concessione della qualifica di operatore economico autorizzato;
-- (b) qualora le autorità doganali abbiano sufficienti motivi di ritenere che sia stato commesso dall’operatore economico autorizzato un atto passibile di procedimento penale e connesso con una violazione delle norme doganali;
-- (c) qualora l’operatore economico autorizzato lo chieda perché si trova temporaneamente nell’incapacità di rispettare le condizioni o i criteri di concessione della qualifica.
+- (a) tale autorità doganale ritiene che possa sussistere un motivo sufficiente di annullamento o revoca della decisione, ma non dispone ancora di tutti gli elementi necessari per decidere in merito all’annullamento o alla revoca;
+- (b) tale autorità doganale ritiene che le condizioni relative alla decisione non siano soddisfatte o che il destinatario della decisione non rispetti gli obblighi imposti a norma di tale decisione e che sia opportuno consentire al destinatario della decisione di adottare provvedimenti per assicurare l’adempimento delle condizioni o il rispetto degli obblighi;
+- (c) il destinatario della decisione chiede tale sospensione perché si trova temporaneamente nell’incapacità di soddisfare le condizioni previste per la decisione o di rispettare gli obblighi imposti a norma di tale decisione.
 
-<sup>2.</sup> Nel caso di cui al paragrafo 1, lettera b), l’autorità doganale può decidere di non sospendere la qualifica di operatore economico autorizzato se ritiene che l’infrazione sia di rilievo trascurabile rispetto al numero e all’ampiezza delle operazioni doganali e non susciti dubbi circa la buona fede dell’operatore economico autorizzato.
+<sup>2.</sup> Nei casi di cui al paragrafo 1 lettere b) e c) il destinatario della decisione informa l’autorità doganale dei provvedimenti che adotterà per garantire l’adempimento delle condizioni o il rispetto degli obblighi nonché del periodo di tempo necessario per adottare detti provvedimenti.
 
-<sup>3.</sup> La sospensione prende corso immediatamente se la protezione della sicurezza dei cittadini, della salute pubblica o dell’ambiente lo rende necessario a motivo della natura o del livello della minaccia in causa.
+Quando l’operatore economico ha adottato, con soddisfazione delle autorità doganali, le misure necessarie per conformarsi alle condizioni e ai criteri da soddisfare da parte di ogni operatore economico autorizzato, l’autorità doganale di rilascio annulla la sospensione.
 
-<sup>4.</sup> La sospensione non incide su eventuali procedure doganali già avviate prima della data di sospensione e non ancora concluse.
+<sup>3.</sup> La sospensione non incide su eventuali procedure doganali già avviate prima della data di sospensione e non ancora concluse.
 
-<sup>5.</sup> Ogni parte contraente fissa la durata del periodo di sospensione in modo tale che l’operatore economico autorizzato possa prendere i provvedimenti necessari a regolarizzare la situazione.
+<sup>4.</sup> La sospensione è notificata al destinatario della decisione.
 
-<sup>6.</sup> Allorché l’operatore economico abbia adottato, con soddisfazione delle autorità doganali, le misure necessarie per conformarsi alle condizioni e ai criteri da soddisfare da parte di ogni operatore economico autorizzato, l’autorità doganale di rilascio annulla la sospensione.
+#### Art. 10
 
-#### Art. 8
+**Annullamento della qualifica**
+
+<sup>1.</sup>
+
+L’autorità doganale competente annulla una decisione di concessione della qualifica di operatore economico autorizzato se tutte le condizioni seguenti sono soddisfatte:
+
+- (a) la decisione è stata adottata sulla base di informazioni inesatte o incomplete;
+- (b) il destinatario della decisione sapeva o avrebbe dovuto ragionevolmente sapere che le informazioni erano inesatte o incomplete;
+- (c) se le informazioni fossero state esatte e complete, la decisione sarebbe stata diversa.
+
+<sup>2.</sup> L’annullamento della decisione è notificato al destinatario della decisione.
+
+<sup>3.</sup> Se non altrimenti specificato nella decisione in conformità della normativa doganale, gli effetti dell’annullamento decorrono dalla data da cui decorrevano gli effetti della decisione iniziale.
+
+#### Art. 11
 
 **Revoca della qualifica**
 
 <sup>1.</sup>
 
-L’autorità doganale di rilascio revoca il certificato di operatore economico autorizzato nei seguenti casi:
+L’autorità doganale competente revoca la decisione di concessione della qualifica di operatore economico autorizzato se:
 
-- (a) se l’operatore economico autorizzato ha commesso una grave violazione della regolamentazione doganale e sono esaurite le vie di impugnazione;
-- (b) se l’operatore economico autorizzato omette di adottare le misure necessarie nel corso del periodo di sospensione di cui all’articolo 7, paragrafo 5;
-- (c) se l’operatore economico autorizzato ne fa richiesta.
+- (a) non erano o non sono più soddisfatte una o più condizioni previste per la sua adozione; oppure
+- (b) il destinatario della decisione lo richiede; oppure
+- (c) il destinatario della decisione omette di adottare, entro il termine prescritto per la sospensione di cui all’articolo 9 paragrafo 1 lettere b) e c), le misure necessarie per soddisfare le condizioni previste per la decisione o per rispettare gli obblighi imposti ai sensi di tale decisione.
 
-<sup>2.</sup> Tuttavia, nel caso di cui alla lettera a), l’autorità doganale può decidere di non revocare il certificato di operatore economico autorizzato se ritiene che l’infrazione sia di rilievo trascurabile rispetto al numero e all’ampiezza delle operazioni doganali e non susciti dubbi circa la buona fede dell’operatore economico autorizzato.
+<sup>2.</sup> La revoca diventa effettiva il giorno successivo alla data della relativa notifica.
 
-<sup>3.</sup> La revoca diventa effettiva il giorno successivo alla data della relativa notificazione.
+<sup>3.</sup> La revoca della decisione è notificata al destinatario della decisione.
 
-## Titolo IV Scambio di informazioni
+## Titolo IV
 
-#### Art. 9
+#### Art. 12
 
-La Commissione e le competenti autorità svizzere si scambiano regolarmente informazioni sull’identità dei loro operatori economici autorizzati in materia di sicurezza, ivi compresi i dati seguenti:
+**Scambio di informazioni**
 
-- (a) numero di identificazione dell’operatore (TIN – Trader Identification Number), in un formato compatibile con la normativa EORI – Economic Operators Registration and Identification number (numero di registrazione e identificazione degli operatori economici);
+Le parti contraenti si scambiano regolarmente a fini di sicurezza informazioni sull’identità dei rispettivi operatori economici autorizzati, compresi i dati seguenti:
+
+- (a) numero di identificazione dell’operatore (TIN – Trader Identification Number) in un formato compatibile con la normativa EORI – Economic Operators Registration and Identification number (numero di registrazione e identificazione degli operatori economici);
 - (b) nome e indirizzo dell’operatore economico autorizzato;
 - (c) numero del documento con cui è stata concessa la qualifica di operatore economico autorizzato;
-- (d) situazione attuale (qualifica vigente, sospesa, revocata);
+- (d) situazione attuale (qualifica valida, sospesa, revocata);
 - (e) periodi di modifica della qualifica;
-- (f) data a decorrere dalla quale entra in vigore il certificato;
-- (g) autorità che ha rilasciato il certificato.
-- [tab]
+- (f) la data a decorrere dalla quale entrano in vigore la decisione e gli eventi successivi (sospensione e revoca);
+- (g) l’autorità che ha emesso la decisione.
 
 Allegato III
 
@@ -755,18 +1409,3 @@ Allegato III
 \3. I due arbitri designati nominano di comune accordo un super-arbitro che non abbia la nazionalità di una delle parti contraenti. Nel caso in cui gli arbitri non riescano a mettersi d’accordo nei due mesi che seguono la loro designazione, scelgono il super-arbitro in un elenco di sette persone compilato dal comitato misto. Il comitato misto compila e mantiene aggiornato tale elenco conformemente al proprio regolamento interno.
 
 \4. Salva decisione contraria delle parti contraenti, il tribunale arbitrale stabilisce in modo autonomo le proprie norme di procedura. Le decisioni sono adottate a maggioranza.
-
-## Dichiarazione comune****
-
-[^annexIII-lvlu2-1]
-
-[^annexIII-lvlu2-1]: [RU 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)
-
-Relativa all’allegato I, articolo 1, paragrafo 2, dell’Accordo
-
-In merito alle indicazioni previste per la dichiarazione sommaria di entrata o di uscita, le parti contraenti confermano che:
-
-- – le disposizioni concernenti il numero EORI; e
-- – i requisiti relativi alle richieste di deviazione (allegato 30A, numero 2.6 – tabella 6),
-
-introdotti dal regolamento (CE) n. 312/2009 della Commissione, del 16 aprile 2009, non si applicano alle dichiarazioni presentate alle autorità doganali svizzere.

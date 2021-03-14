@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: Abkommen vom 25. Juni 2009 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über die Erleichterung der Kontrollen und Formalitäten im Güterverkehr und über zollrechtliche Sicherheitsmassnahmen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: de
-version: 2013-06-07
+version: 2021-03-15
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20130607/de/xml/fedlex-data-admin-ch-eli-cc-2011-150-20130607-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20130607/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen am 25. Juni 2009 Von der Bundesversammlung genehmigt am 18. Juni 2010[^t-1] In Kraft getreten durch Notenaustausch am 1. Januar 2011
 
-(Stand am 7. Juni 2013)
+(Stand am 15. März 2021)
 
 [^t-1]: [AS 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -166,11 +166,15 @@ Die Vertragsparteien bemühen sich, überall dort, wo dies technisch möglich un
 
 ## Kapitel III Zollrechtliche Sicherheitsmassnahmen
 
+[^chapIII-1]
+
+[^chapIII-1]: Fassung gemäss Art. 1 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
 #### Art. 9
 
 **Allgemeine Bestimmungen zur Sicherheit**
 
-<sup>(1)</sup> Die Vertragsparteien verpflichten sich, für den Güterverkehr aus oder in Drittländer die in diesem Kapitel aufgeführten zollrechtlichen Sicherheitsmassnahmen einzuführen und anzuwenden und an ihren jeweiligen Aussengrenzen ein gleichwertiges Mass an Sicherheit zu gewährleisten.
+<sup>(1)</sup> Die Vertragsparteien verpflichten sich, für den Güterverkehr aus oder in Drittländer die in diesem Kapitel aufgeführten zollrechtlichen Sicherheitsmassnahmen einzuführen und anzuwenden und somit an ihren jeweiligen Aussengrenzen ein gleichwertiges Mass an Sicherheit zu gewährleisten.
 
 <sup>(2)</sup> Die Vertragsparteien verzichten darauf, die in diesem Kapitel aufgeführten Sicherheitsmassnahmen auf den Güterverkehr zwischen ihren jeweiligen Zollgebieten anzuwenden.
 
@@ -180,37 +184,54 @@ Die Vertragsparteien bemühen sich, überall dort, wo dies technisch möglich un
 
 **Vorabanmeldungen bei Ein- und Ausgang der Waren**
 
-<sup>(1)</sup> Für Waren, die aus einem Drittland in das Zollgebiet einer der Vertragsparteien verbracht werden, ist eine Eingangsanmeldung zu Sicherheitszwecken (nachfolgend «summarische Eingangsanmeldung») abzugeben; hiervon ausgenommen sind Waren, die mit Beförderungsmitteln transportiert werden, die die Hoheitsgewässer oder den Luftraum des Zollgebiets lediglich durchqueren, ohne dort einen Zwischenstopp einzulegen.
+<sup>(1)</sup> Zu Sicherheitszwecken ist für Waren, die aus einem Drittland in die Zollgebiete der Vertragsparteien verbracht werden, eine summarische Eingangsanmeldung abzugeben; hiervon ausgenommen sind Waren, die mit Beförderungsmitteln transportiert werden, die die Hoheitsgewässer oder den Luftraum der Zollgebiete lediglich durchqueren, ohne dort einen Zwischenstopp einzulegen.
 
-<sup>(2)</sup> Für Waren, die aus dem Zollgebiet einer der Vertragsparteien in ein Drittland verbracht werden, ist eine Ausgangsanmeldung zu Sicherheitszwecken (nachfolgend «summarische Ausgangsanmeldung») abzugeben; hiervon ausgenommen sind Waren, die mit Beförderungsmitteln transportiert werden, die die Hoheitsgewässer oder den Luftraum des Zollgebiets lediglich durchqueren, ohne dort einen Zwischenstopp einzulegen.
+<sup>(2)</sup> Zu Sicherheitszwecken ist für Waren, die aus den Zollgebieten der Vertragsparteien in ein Drittland verbracht werden, eine summarische Ausgangsanmeldung abzugeben; hiervon ausgenommen sind Waren, die mit Beförderungsmitteln transportiert werden, die die Hoheitsgewässer oder den Luftraum der Zollgebiete lediglich durchqueren, ohne dort einen Zwischenstopp einzulegen.
 
-<sup>(3)</sup> Die summarische Ein- oder Ausgangsanmeldung ist abzugeben, bevor die Waren in das oder aus dem Zollgebiet einer der Vertragsparteien verbracht werden.
+<sup>(3)</sup> Die summarische Eingangs- oder Ausgangsanmeldung ist abzugeben, bevor die Waren in die Zollgebiete oder aus den Zollgebieten der Vertragsparteien verbracht werden.
 
-<sup>(4)</sup> Bis zum 31. Dezember 2010 ist die Vorlage der Ein- und Ausgangsanmeldungen gemäss den Absätzen 1 und 2 nicht zwingend, solange in der Gemeinschaft Übergangsvorschriften anwendbar sind, die eine Befreiung von der Pflicht zur Vorlage solcher Anmeldungen vorsehen.
+<sup>(4)</sup> Besteht die Verpflichtung zur Abgabe einer summarischen Eingangs- oder Ausgangsanmeldung für Waren, die in die Zollgebiete oder aus den Zollgebieten der Vertragsparteien verbracht werden, und wurde diese Anmeldung nicht abgegeben, so hat eine der in den Absätzen 5 oder 6 genannten Personen unverzüglich eine solche Anmeldung oder mit Erlaubnis der Zollbehörden an ihrer Stelle eine Zollanmeldung oder eine Anmeldung zur vorübergehenden Verwahrung abzugeben, die mindestens die für eine summarische Eingangs- oder Ausgangsanmeldung erforderlichen Angaben enthält. In diesen Fällen führen die Zollbehörden die Risikoanalyse dieser Waren zu Sicherheitszwecken auf der Grundlage der Zollanmeldung oder der Anmeldung zur vorübergehenden Verwahrung durch.
 
-Wird entsprechend Unterabsatz 1 keine summarische Ein- oder Ausgangsanmeldung abgegeben, so haben die Zollbehörden die Risikoanalyse nach Artikel 12 spätestens bei der Gestellung der Waren bei ihrer Ankunft oder ihrem Ausgang auf der Grundlage der Zollanmeldungen für diese Waren oder auf der Grundlage aller sonstigen ihnen zur Verfügung stehenden Informationen vorzunehmen.
+<sup>(5)</sup> Jede Vertragspartei legt fest, welche Personen für die Abgabe summarischer Ausgangsanmeldungen verantwortlich sind und welche Behörden für die Entgegennahme solcher Anmeldungen zuständig sind.
 
-<sup>(5)</sup> Jede Vertragspartei legt fest, welche Personen summarische Ein- oder Ausgangserklärungen abzugeben haben und welche Behörden für die Entgegennahme solcher Erklärungen zuständig sind.
+<sup>(6)</sup> Die summarische Eingangsanmeldung ist vom Beförderer abzugeben.
 
-<sup>(6)</sup>
+In bestimmten Fällen, wenn nicht alle Angaben der summarischen Eingangsanmeldung, die für eine Risikoanalyse zu Sicherheitszwecken erforderlich sind, von den in Unterabsatz 1 genannten Personen zu erlangen sind, können andere Personen, die über diese Angaben und angemessene Rechte zu ihrer Bereitstellung verfügen, verpflichtet werden, diese Angaben vorzulegen.
 
-In Anhang I zum vorliegenden Abkommen wird Folgendes geregelt:
+Jede Person, die Angaben der summarischen Eingangsanmeldung vorlegt, ist für die von ihr vorgelegten Angaben verantwortlich.
 
-- – Form und Inhalt der summarischen Ein- und Ausgangsanmeldung;
-- – Ausnahmen von der Verpflichtung zur Abgabe der summarischen Ein- und Ausgangsanmeldung;
-- – Ort der Abgabe der summarischen Ein- und Ausgangsanmeldung;
-- – die Frist, innerhalb deren die summarische Ein- oder Ausgangsanmeldung abzugeben ist; und
+Unbeschadet der Verpflichtungen des Beförderers kann die summarische Eingangsanmeldung stattdessen von einer der folgenden Personen abgegeben werden:
+
+- a) vom Einführer oder Empfänger oder einer anderen Person, in deren Namen oder in deren Auftrag der Beförderer handelt;
+- b) von jeder Person, die in der Lage ist, die betreffenden Waren bei der ersten Eingangszollstelle zu gestellen oder gestellen zu lassen.
+
+<sup>(7)</sup> Abweichend von Absatz 6 des vorliegenden Artikels legt bis zu den Zeitpunkten der Inbetriebnahme des in Artikel 1 Absatz 1 des Anhangs I genannten elektronischen Systems jede Vertragspartei fest, welche Personen summarische Eingangsanmeldungen abzugeben haben, sowie die Mittel und Wege für die Abgabe der summarischen Eingangsanmeldung, für den Austausch diesbezüglicher Informationen und für Anträge auf Änderung und/oder Ungültigerklärung.
+
+<sup>(8)</sup>
+
+Die Zollbehörden der Vertragsparteien können die Fälle festlegen, in denen eine Zollanmeldung oder eine Anmeldung zur vorübergehenden Verwahrung als summarische Eingangs- oder Ausgangsanmeldung verwendet werden kann, sofern:
+
+- a) die Zollanmeldung oder die Anmeldung zur vorübergehenden Verwahrung alle für eine summarische Eingangs- oder Ausgangsanmeldung erforderlichen Angaben enthält; und
+- b) die Ersatzanmeldung vor Ablauf der Frist bei der für die Abgabe der summarischen Eingangs- oder Ausgangsanmeldung zuständigen Zollstelle abgegeben wird.
+
+<sup>(9)</sup>
+
+In Anhang I wird Folgendes festgelegt:
+
+- – das elektronische System für die summarische Eingangsanmeldung;
+- – Form und Inhalt der summarischen Eingangs- und Ausgangsanmeldung;
+- – Ausnahmen von der Verpflichtung zur Abgabe der Eingangs- oder Ausgangsanmeldung;
+- – Ort der Abgabe der Eingangs- bzw. Ausgangsanmeldung;
+- – die Fristen für die Abgabe der summarischen Eingangs- bzw. Ausgangsanmeldung;
+- – die technischen Modalitäten für die elektronischen Systeme für die Abgabe der summarischen Eingangsanmeldung;
+- – die Finanzierungsvereinbarung bezüglich der Verantwortlichkeiten, Verpflichtungen und Erwartungen an die Umsetzung und den Betrieb des Einfuhrkontrollsystems 2;
 - – alle sonstigen zur Anwendung dieses Artikels erforderlichen Bestimmungen.
-
-<sup>(7)</sup> Eine Zollanmeldung kann als summarische Ein- oder Ausgangsanmeldung verwendet werden, wenn sie die Anforderungen an eine solche summarische Anmeldung erfüllt.
 
 #### Art. 11
 
 **Zugelassener Wirtschaftsbeteiligter**
 
-<sup>(1)</sup> Vorausgesetzt, es sind alle in Anhang II dieses Abkommens festgelegten Kriterien erfüllt, erkennt eine Vertragspartei allen in ihrem Zollgebiet niedergelassenen Wirtschaftsbeteiligten den Status des hinsichtlich der Sicherheitsbelange «zugelassenen Wirtschaftsbeteiligten» zu.
-
-Für bestimmte Kategorien von Wirtschaftsbeteiligten kann unter bestimmten Voraussetzungen und insbesondere unter Berücksichtigung der Abkommen mit Drittländern von der Voraussetzung, dass der zugelassene Wirtschaftsbeteiligte im Zollgebiet derjenigen Vertragspartei ansässig sein muss, in der die Zuerkennung des Status beantragt wird, abgewichen werden. Zudem bestimmt jede Vertragspartei selbst, ob und unter welchen Voraussetzungen einer Luftverkehrsgesellschaft oder einer Schifffahrtsgesellschaft, die nicht in ihrem Gebiet ansässig ist, aber dort ein regionales Büro unterhält, der Status eines zugelassenen Wirtschaftsbeteiligten zuerkannt werden kann.
+<sup>(1)</sup> Vorausgesetzt, es sind alle in Anhang II festgelegten Kriterien erfüllt, erkennt eine Vertragspartei allen in ihrem Zollgebiet und im Falle der Schweiz in ihren Zollexklaven Samnaun und Sampuoir niedergelassenen Wirtschaftsbeteiligten den Status des hinsichtlich der Sicherheitsbelange «*zugelassenen Wirtschaftsbeteiligten*» zu.
 
 Einem zugelassenen Wirtschaftsbeteiligten werden Erleichterungen bei sicherheitsrelevanten Zollkontrollen gewährt.
 
@@ -218,11 +239,11 @@ Insbesondere im Hinblick auf die Durchführung von Abkommen mit Drittländern, d
 
 <sup>(2)</sup>
 
-In Anhang II des vorliegenden Abkommens wird folgendes geregelt:
+In Anhang II wird Folgendes geregelt:
 
 - – die Regeln für die Zuerkennung des Status des zugelassenen Wirtschaftsbeteiligten, insbesondere die Kriterien für die Zuerkennung und die Voraussetzungen für die Anwendung dieser Kriterien;
-- – die verschiedenen Arten von Erleichterungen, die gewährt werden können;
-- – die Regelungen über die Aussetzung oder den Widerruf des Status des zugelassenen Wirtschaftsbeteiligten;
+- – die verschiedenen Arten von Erleichterungen, die gewährt werden;
+- – die Regeln für die Aussetzung, die Rücknahme oder den Widerruf des Status des zugelassenen Wirtschaftsbeteiligten;
 - – die Art und Weise, wie die Vertragsparteien Informationen über ihre zugelassenen Wirtschaftsbeteiligten austauschen;
 - – alle sonstigen zur Anwendung dieses Artikels erforderlichen Bestimmungen.
 
@@ -230,20 +251,15 @@ In Anhang II des vorliegenden Abkommens wird folgendes geregelt:
 
 **Sicherheitsrelevante Zollkontrollen und sicherheitsrelevantes Risikomanagement**
 
-<sup>(1)</sup> Andere sicherheitsrelevante Zollkontrollen als Strichprobenkontrollen werden auf eine EDV-gestützte Risikoanalyse gestützt.
+<sup>(1)</sup> Sicherheitsrelevante Zollkontrollen mit Ausnahme von Stichprobenkontrollen basieren in erster Linie auf Risikoanalysen, die mit den Mitteln der elektronischen Datenverarbeitung mit dem Ziel, anhand der von den Vertragsparteien entwickelten Kriterien Risiken zu ermitteln und abzuschätzen und die erforderlichen Abwehrmassnahmen zu entwickeln, durchgeführt werden.
 
-<sup>(2)</sup> Zu diesem Zweck bestimmt jede Vertragspartei einen Rahmen für das Risikomanagement, Risikokriterien sowie prioritäre sicherheitsrelevante Kontrollbereiche.
+<sup>(2)</sup> Sicherheitsrelevante Zollkontrollen werden innerhalb eines gemeinsamen Rahmens für das Risikomanagement durchgeführt, der auf dem Austausch risikobezogener Informationen und der Ergebnisse von Risikoanalysen zwischen den Zollbehör-den der Vertragsparteien basiert. Die Zollbehörde der Schweiz trägt durch ihre Teilnahme am Ausschuss für den Zollkodex nach Artikel 23 zur Festlegung gemeinsamer Risikokriterien und Standards, Kontrollmassnahmen und prioritärer Kontrollbereiche in Bezug auf die Angaben in den summarischen Eingangs- und Ausgangsanmeldungen bei. Auf diesen Informationen und Kriterien beruhende Kontrollen werden unbeschadet anderer Zollkontrollen durchgeführt.
 
-<sup>(3)</sup> Die Vertragsparteien erkennen die Gleichwertigkeit ihrer sicherheitsrelevanten Risikomanagementsysteme an.
+\3) Die Vertragsparteien verwenden ein gemeinsames Risikomanagementsystem für den Austausch risikobezogener Informationen, von Informationen über die Umsetzung gemeinsamer Risikokriterien und Standards, über gemeinsame prioritäre Kontrollbereiche und über das Zollkrisenmanagement sowie über Ergebnisse von Risikoanalyse und über Kontrollergebnisse.
 
-<sup>(4)</sup>
+<sup>(4)</sup> Die Vertragsparteien erkennen die Gleichwertigkeit ihrer sicherheitsrelevanten Risikomanagementsysteme an.
 
-Die Vertragsparteien arbeiten zusammen, um:
-
-- – Informationen auszutauschen, mit dem Ziel, so ihre Risikoanalyse und die Effizienz der sicherheitsrelevanten Zollkontrollen zu verstärken; und
-- – innerhalb einer angemessenen Frist einen gemeinsamen Rahmen für das Risikomanagement, gemeinsame Risikokriterien sowie gemeinsame prioritäre Kontrollbereiche festzulegen und ein elektronisches System für die Umsetzung dieses gemeinsamen Risikomanagements einzurichten.
-
-<sup>(5)</sup> Der Gemischte Ausschuss beschliesst alle zur Anwendung dieses Artikels erforderlichen Bestimmungen.
+<sup>(5)</sup> Der Gemischte Ausschuss beschliesst alle anderen zur Anwendung dieses Artikels erforderlichen Bestimmungen.
 
 #### Art. 13
 
@@ -263,11 +279,11 @@ Die begleitenden Massnahmen nach Absatz 1 können insbesondere bestehen in:
 
 #### Art. 14
 
-**Schutz des Berufsgeheimnisses und persönlicher Daten**
+**Schutz des Berufsgeheimnisses und personenbezogener Daten**
 
-Die Informationen, die im Rahmen der mit diesem Kapitel eingeführten Massnahmen zwischen den Vertragsparteien ausgetauscht werden, unterliegen dem Schutz des Berufsgeheimnisses und dem Schutz personenbezogener Daten nach den im jeweiligen Gebiet der Vertragspartei, die die Information erhält, geltenden Gesetzen.
+Die Informationen, die im Rahmen der mit diesem Kapitel eingeführten Massnahmen zwischen den Vertragsparteien ausgetauscht werden, unterliegen dem Schutz des Berufsgeheimnisses und dem Schutz personenbezogener Daten nach den im jeweiligen Gebiet der Vertragspartei, die die Information erhält, geltenden Gesetzen. Die Übermittlung personenbezogener Daten erfolgt nach den Anforderungen des anwendbaren Datenschutzrechts der übermittelnden Vertragspartei.
 
-Insbesondere dürfen diese Informationen weder an andere Personen als an die zuständigen Organe der betreffenden Vertragspartei weitergegeben noch von diesen Organen zu anderen als den in diesem Abkommen vorgesehenen Zwecken benutzt werden.
+Insbesondere dürfen diese Informationen weder an andere Personen als an die zuständigen Behörden der Vertragspartei, die die Informationen erhält, weitergegeben noch von diesen Behörden zu anderen als den in diesem Abkommen vorgesehenen Zwecken benutzt werden.
 
 ## Kapitel IV Zusammenarbeit
 
@@ -470,126 +486,720 @@ Geschehen zu Brüssel am fünfundzwanzigsten Juni zweitausendundneun.
 <tr><td>Für die Schweizerische Eidgenossenschaft: Rudolf Dietrich</td><td>Für die Europäische Gemeinschaft: Milena Vicenova Walter Deffa</td></tr>
 </table>
 
-Anhang I*[^t-2]*
+Anhang I[^t-2]
 
 ## Summarische Eingangs- und Ausgangsanmeldungen
 
-[^t-2]: Bereinigt gemäss Art. 1 des Beschlusses Nr. 1/2013 des Gemischten Ausschusses EU-Schweiz vom 6. Juni 2013, in Kraft getreten am 7. Juni 2013 ([AS 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)).
+[^t-2]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
+## Titel I Summarische Eingangsanmeldung
 
 #### Art. 1
 
-**Form und Inhalt der summarischen Ein- und Ausgangsanmeldung**
-
-<sup>(1)</sup> Die summarische Ein- oder Ausgangsanmeldung ist elektronisch abzugeben. Es können auch Handels-, Hafen- oder Beförderungsdokumente verwendet werden, sofern sie die erforderlichen Angaben enthalten.
-
-<sup>(2)</sup> Die summarische Ein- oder Ausgangsanmeldung enthält die für diese Anmeldung entsprechend dem Anhang 30A der Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993[^annexI-lvlu1-1-1] mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften (nachfolgend die «Verordnung (EWG) Nr. 2454/93»), zuletzt geändert durch die Verordnung (EU) Nr. 430/2010 der Kommission[^annexI-lvlu1-1-2], vorgesehenen Angaben. Sie ist entsprechend den Erläuterungen im oben aufgeführten Anhang 30A auszufüllen. Sie ist von der Person, die sie abgibt, zu authentifizieren.
-
-<sup>(3)</sup> sofern sie auf diese Anmeldungen ein Risikomanagement anwenden, das dem auf elektronisch abgegebene summarische Ein- oder Ausgangsanmeldungen angewendeten Risikomanagement qualitativ gleichwertig ist.
-
-Die papiergestützten summarischen Ein- oder Ausgangsanmeldungen sind von der Person, die sie aufgestellt hat, zu unterzeichnen. Ihnen sind erforderlichenfalls Ladelisten oder andere Handelspapiere beizufügen, und sie haben die in Absatz 2 aufgeführten Angaben zu enthalten.
-
-Die Zollbehörden gestatten die Abgabe einer papiergestützten oder in anderer Form erfolgenden summarischen Ein- oder Ausgangsanmeldung nur in folgenden Fällen:
-
-- a) wenn das EDV-System der Zollbehörden nicht funktioniert;
-- b) wenn die EDV-Anwendung der Person, die die summarische Ein- oder Ausgangsanmeldung abgibt, nicht funktioniert;
-
-<sup>(4)</sup> Jede Vertragspartei setzt die Bedingungen und Modalitäten fest, nach denen die zur Abgabe der summarischen Ein- oder Ausgangsanmeldung verpflichtete Person eine oder mehrere Angaben in dieser Erklärung nach deren Abgabe ändern kann.
-
-[^annexI-lvlu1-1-1]: ABl. L 253 vom 11.10.1993, S. 1.
-[^annexI-lvlu1-1-2]: ABl. L 125 vom 21.5.2010, S. 10.
-
-#### Art. 2
-
-**Ausnahmen von der Verpflichtung zur Abgabe einer summarischen Ein- oder Ausgangsanmeldung**
+**Elektronisches System für die summarische Eingangsanmeldung**
 
 <sup>(1)</sup>
 
-Für folgende Waren braucht keine summarische Ein- oder Ausgangsanmeldung abgegeben zu werden:
+Das elektronische Einfuhrkontrollsystem 2 (ICS2) wird für Folgendes genutzt:
 
-- a) elektrische Energie;
-- b) durch Rohrleitungen beförderte Waren;
-- c) Briefe, Postkarten und Drucksachen, auch auf elektronischen Datenträgern;
-- d) nach den Vorschriften des Weltpostvereins beförderte Waren;
-- e) Waren, für die nach den von den Vertragsparteien festgelegten Vorschriften eine mündliche Zollanmeldung oder der einfache Grenzübertritt zulässig ist, mit Ausnahme von Hausrat sowie Paletten, Containern und Beförderungsmitteln des Strassen-, Schienen-, Luft-, See- oder Binnenschiffsverkehrs, die im Rahmen eines Beförderungsvertrags befördert werden;
-- f) Waren im persönlichen Gepäck von Reisenden;
-- g) Waren mit Carnet ATA und Carnet CPD;
-- h) Waren, die nach dem Wiener Übereinkommen vom 18. April 1961[^annexI-lvlu1-2-1] über diplomatische Beziehungen, dem Wiener Übereinkommen vom 24. April 1963[^annexI-lvlu1-2-2] über konsularische Beziehungen oder anderen Konsularübereinkommen oder dem New Yorker Übereinkommen vom 16. Dezember 1969[^annexI-lvlu1-2-3] über Sondermissionen zollbefreit sind;
-- i) Waffen und militärisches Gerät, die von den für die militärische Verteidigung eines Mitgliedstaats oder der Schweiz zuständigen Behörden sei es in einem Militärtransport, sei es in einer allein für die Militärbehörden durchgeführten Beförderung in das oder aus dem Zollgebiet einer Vertragspartei verbracht werden;
-- j)
+- a) Übermittlung, Verarbeitung und Speicherung der Angaben der summarischen Eingangsanmeldungen und anderer Informationen im Zusammenhang mit diesen Anmeldungen, mit der Risikoanalyse zu Sicherheitszwecken, einschliesslich der Unterstützung der Luftsicherheit, und mit den Massnahmen, die aufgrund der Ergebnisse dieser Analyse getroffen werden müssen;
+- b) Austausch von Informationen bezüglich der Angaben in der summarischen Eingangsanmeldung und der Ergebnisse der Risikoanalyse der summarischen Eingangsanmeldungen, bezüglich anderer Informationen, die zur Durchführung dieser Risikoanalyse erforderlich sind, und bezüglich der auf der Grundlage der Risikoanalyse getroffenen Massnahmen, einschliesslich Empfehlungen zu den Kontrollorten und den Ergebnissen dieser Kontrollen;
+- c) Austausch von Informationen zur Überwachung und Bewertung der Umsetzung der gemeinsamen Kriterien und Normen für das Sicherheitsrisiko und der Kontrollmassnahmen und prioritären Kontrollbereiche.
 
-  folgende Waren, die in das oder aus dem Zollgebiet einer Vertragspartei verbracht werden und zwar direkt zu oder von Bohr- oder Förderplattformen oder Windenergieanlagen, die von einer im Zollgebiet der Vertragsparteien niedergelassenen Person betrieben werden:
+<sup>(2)</sup> Die Daten für die Entwicklung und Releases für die schrittweise Inbetriebnahme des Systems nach diesem Anhang sind im Projekt Zollkodex der Union: Einfuhrkontrollsystem 2 (ICS2) im Anhang des Durchführungsbeschlusses (EU) 2019/2151 der Kommission[^annexI-titI-1-1] aufgeführt.
 
-  - – Waren, die bei der Errichtung, Reparatur, Wartung oder Umrüstung in solche Plattformen bzw. Anlagen eingebaut wurden,
-  - – Waren, die für die Ausrüstung dieser Plattformen bzw. Anlagen verwendet wurden, andere Güter, die auf den Plattformen bzw. Anlagen verwendet oder verbraucht werden und ungefährliche Abfälle von solchen Plattformen bzw. Anlagen;
+Von den Vertragsparteien wird erwartet, dass sie für die Inbetriebnahme eines jeden Release gleichzeitig zu Beginn des Zeitfensters bereit sind. Die Vertragsparteien können den Wirtschaftsbeteiligten gegebenenfalls gestatten, sich schrittweise bis zum Ende des für jedes Release festgelegten Inbetriebnahmefensters mit dem System zu verbinden. Die Vertragsparteien veröffentlichen die Fristen und die Anweisungen für die Wirtschaftsbeteiligten auf ihrer Webseite.
 
-- k) Waren in Sendungen, deren Sachwert 22 EUR nicht übersteigt, sofern die Zollbehörden sich damit einverstanden erklären, mit Zustimmung des Wirtschaftsbeteiligten anhand der in der Datenbank des Beteiligten enthaltenen Daten oder der Daten, die das von ihm verwendete EDV-System geliefert hat, eine Risikoanalyse durchzuführen;
-- l) Waren, die von Helgoland, der Republik San Marino und dem Staat Vatikanstadt in das Zollgebiet einer Vertragspartei oder aus dem Zollgebiet einer Vertragspartei in die genannten Gebiete verbracht werden.
+<sup>(3)</sup> Wirtschaftsbeteiligte verwenden eine von den Vertragsparteien in gegenseitigem Einvernehmen gestaltete harmonisierte Schnittstelle für Wirtschaftsbeteiligte für Einreichungen, Änderungsanträge, Anträge auf Ungültigerklärung, Verarbeitung und Speicherung der Angaben in den summarischen Eingangsanmeldungen und für den Austausch damit verbundener Informationen mit den Zollbehörden.
 
-<sup>(2)</sup> Die Abgabe einer summarischen Eingangs- oder Ausgangsanmeldung ist vorbehaltlich der Einhaltung des in Artikel 9 Absatz 3 dieses Abkommens festgelegten Verfahrens dann nicht zwingend, wenn ein internationales Sicherheitsabkommen zwischen einer Vertragspartei und einem Drittland etwas anderes vorsieht.
+<sup>(4)</sup> Die Zollbehörden der Vertragsparteien können gestatten, dass für die Abgabe der Angaben der summarischen Eingangsanmeldung Handels-, Hafen- oder Verkehrsinformationssysteme verwendet werden, sofern diese Systeme die für diese Anmeldung erforderlichen Angaben enthalten und diese Angaben innerhalb der in Artikel 7 genannten Fristen vorliegen.
 
-<sup>(3)</sup> Für die in Artikel 181*c* Buchstaben i und j sowie Artikel 592*a* Buchstaben i und j aufgeführten Waren und in den Fällen gemäss Artikel 786 Absatz 2 und Artikel 842*a* Absatz 4 Buchstaben b und f der Verordnung (EWG) Nr. 2454/93 ist in der Gemeinschaft keine summarische Ein- oder Ausgangsanmeldung erforderlich.
+[^annexI-titI-1-1]: Zeitfenster für die Inbetriebnahme von Release 1 des ICS2: 15.3.2021-1.10.2021; Zeitfenster für die Inbetriebnahme von Release 2 des ICS2: 1.3.2023-2.10.2023; Zeitfenster für die Inbetriebnahme von Release 3 des ICS2: 1.3.2024-1.10.2024; Durchführungsbeschluss (EU) 2019/2151 der Kommission vom 13. Dezember 2019 zur Festlegung des Arbeitsprogramms für die Entwicklung und Inbetriebnahme der im Zollkodex der Union vorgesehenen elektronischen Systeme (ABl. EU L 325 vom 16.12.2019, S. 168).
 
-<sup>(4)</sup>
+#### Art. 2
 
-Eine summarische Ausgangsanmeldung ist nicht erforderlich:
+**Form und Inhalt der summarischen Eingangsanmeldung**
 
-- a)
+<sup>(1)</sup> Die Angaben in der summarischen Eingangsanmeldung entsprechen den jeweiligen Formaten, Codes und Kardinalitäten in Anhang B der Durchführungsverordnung (EU) 2015/2447 der Kommission[^annexI-titI-2-1] und werden gemäss den Erläuterungen in diesen Anhängen ausgefüllt.
 
-  für folgende Waren:
+Die summarische Eingangsanmeldung und die Ankunftsmeldung eines Schiffs oder eines Luftfahrzeugs enthalten die in den folgenden Spalten von Anhang B der Delegierten Verordnung (EU) 2015/2446 der Kommission[^annexI-titI-2-2] vorgesehenen Angaben:
 
-  - – Ersatz- und Reparaturteile, die zwecks Reparatur zum Einbau in Schiffe und Flugzeuge bestimmt sind,
-  - – Schmierstoffe und Gas, die für den Betrieb des Schiffs oder Flugzeugs erforderlich sind, sowie
-  - – Lebensmittel und andere Erzeugnisse, die zum Verbrauch oder Verkauf an Bord bestimmt sind;
+- a) F10-F16;
+- b) F20-F33;
+- c) F40-F45;
+- d) F50 und F51;
+- e) G2.
 
-- b) für Waren im Durchfuhrverfahren, wenn eine elektronische Versandanmeldung die Angaben in der summarischen Ausgangsanmeldung enthält, sofern die Bestimmungsstelle auch die Ausgangszollstelle ist;
-- c) wenn die Waren in einem Hafen oder Flughafen nicht von dem Beförderungsmittel abgeladen werden, das sie in das jeweilige Zollgebiet der Vertragsparteien verbracht hat und wieder aus diesem Gebiet verbringen wird;
-- d) wenn die Waren in einem vorigen Hafen oder Flughafen im jeweiligen Zollgebiet der Vertragsparteien verladen wurden und an Bord des Beförderungsmittels verbleiben, das sie wieder aus diesem Gebiet verbringen wird;
-- e)
+<sup>(2)</sup> Die Angaben der summarischen Eingangsanmeldung können in mehr als einem Datensatz von mehr als einer Person vorgelegt werden.
 
-  wenn Waren, die sich in einem Verwahrungslager oder einer Freizone des Kontrolltyps I befinden, von dem Beförderungsmittel, mit dem sie unter Überwachung derselben Zollstelle zum Verwahrungslager oder der Freizone verbracht wurden, auf ein Schiff, Flugzeug oder eine Eisenbahn umgeladen werden, das bzw. die sie aus dem Verwahrungslager oder der Freizone und somit aus dem jeweiligen Zollgebiet der Vertragsparteien verbringt, sofern:
+<sup>(3)</sup> Für die Einreichung eines Antrags auf Änderung oder Ungültigerklärung einer summarischen Eingangsanmeldung oder der darin enthaltenen Angaben ist das in Artikel 1 Absatz 1 genannte elektronische System zu verwenden.
 
-  - i) das Umladen innerhalb von 14 Kalendertagen erfolgt, nachdem die Waren für ein Verwahrungslager oder in einer Freizone des Kontrolltyps I gestellt wurden; in aussergewöhnlichen Umständen können die Zollbehörden diesen Zeitraum verlängern, um diesen Umständen Rechnung zu tragen,
-  - ii) den Zollbehörden Angaben über die Waren zur Verfügung stehen, und
-  - iii) sich der Bestimmungsort und der Empfänger der Waren nach Kenntnis der Beförderers nicht geändert haben.
+Beantragen mehrere Personen eine Änderung oder Ungültigerklärung der Angaben in der summarischen Eingangsanmeldung, so kann jede dieser Personen nur die Änderung oder Ungültigerklärung der von ihr gemachten Angaben beantragen.
 
-[^annexI-lvlu1-2-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^annexI-lvlu1-2-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^annexI-lvlu1-2-3]: [SR 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+<sup>(4)</sup> Die Zollbehörden teilen der Person, die den Antrag auf Änderung oder Ungültigkeitserklärung gestellt hat, umgehend mit, ob sie den Antrag registrieren oder ablehnen.
+
+Werden die Änderungen oder die Ungültigerklärung der Angaben in der summarischen Eingangsanmeldung von einer Person eingereicht, die nicht mit dem Beförderer identisch ist, benachrichtigen die Zollbehörden auch den Beförderer, sofern dieser um eine Benachrichtigung ersucht hat und Zugang zu dem elektronischen System nach Artikel 1 Absatz 1 hat.
+
+<sup>(5)</sup> Gemäss Artikel 10 Absatz 8 des Abkommens können die Vertragsparteien bis zum Zeitpunkt der Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 des vorliegenden Anhangs genannten Systems die sicherheitsrelevante Risikoanalyse auf der Grundlage der im Neuen EDV-gestützten Versandverfahren (New Computerised Transit System – NCTS) nach dem Übereinkommen über ein gemeinsames Versandverfahren[^annexI-titI-2-3] abgegebenen Versandanmeldung für Waren, die auf dem See-, Binnenschiffs-, Strassen oder Schienenweg befördert werden, einschliesslich des Austauschs von Informationen über die Risikoanalyse zwischen den beteiligten Vertragsparteien durchführen.
+
+NCTS ist das elektronische System, das die Kommunikation zwischen den Vertragsparteien sowie zwischen den Vertragsparteien und den Wirtschaftsbeteiligten zum Zwecke der Abgabe einer Zollanmeldung für das Versandverfahren einschliesslich aller für eine summarische Eingangs- oder Ausgangsanmeldung erforderlichen Angaben und der sich auf diese Waren beziehenden Mitteilungen ermöglicht.
+
+Vor der Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 des vorliegenden Anhangs genannten Systems prüfen die Vertragsparteien, ob die Zollbehörden nach diesem Zeitpunkt die Risikoanalyse weiterhin auf der Grundlage der Versandanmeldung mit den Angaben einer im NCTS[^annexI-titI-2-4] abgegebenen summarischen Eingangsanmeldung durchführen dürfen, und ändern das Abkommen erforderlichenfalls.
+
+[^annexI-titI-2-1]: Durchführungsverordnung (EU) 2015/2447 der Kommission vom 24. November 2015 mit Einzelheiten zur Umsetzung von Bestimmungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates zur Festlegung des Zollkodex der Union (ABl. EU L 343 vom 29.12.2015, S. 558), zuletzt geändert durch die Durchführungsverordnung (EU) 2021/235 der Kommission vom 8. Februar 2021 (ABl. EU L 63 vom 23.2.2021, S. 386).
+[^annexI-titI-2-2]: Delegierte Verordnung (EU) 2015/2446 der Kommission vom 28. Juli 2015 zur Ergänzung der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates mit Einzelheiten zur Präzisierung der Bestimmungen des Zollkodex der Union (ABl. EU L 343 vom 29.12.2015, S. 1), zuletzt geändert durch die Delegierte Verordnung (EU) 2021/234 der Kommission vom 7. Dezember 2020 (ABl. EU L 63 vom 23.2.2021, S. 1).
+[^annexI-titI-2-3]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308); Übereinkommen zwischen der Europäischen Wirtschaftsgemeinschaft, der Republik Österreich, der Republik Finnland, der Republik Island, des Königreichs Norwegen, des Königreichs Schweden und der Schweizerischen Eidgenossenschaft über ein gemeinsames Versandverfahren vom 20. Mai 1987 (ABl. EG L 226 vom 13.8.1987, S. 2, einschliesslich vom Gemischten Ausschuss beschlossener bisheriger und künftiger Änderungen dieses Übereinkommens).
+[^annexI-titI-2-4]: Das NCTS wird aktualisiert, um die neuen Sicherheitsanforderungen der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates vom 9. Oktober 2013 zur Festlegung des Zollkodex der Union (ABl. L EU 269 vom 10.10.2013, S. 1), zuletzt geändert durch die Verordnung (EU) Nr. 2019/632 des Europäischen Parlaments und des Rates (ABl. EU L 111 vom 25.4.2019, S. 54), abzudecken. Die Einführung der schrittweisen Aktualisierung des NCTS ist im Anhang zum Durchführungsbeschluss (EU) 2019/2151 der Kommission dargelegt.
 
 #### Art. 3
 
-**Ort der Abgabe einer summarischen Ein- oder Ausgangsanmeldung**
+**Befreiung von der Verpflichtung zur Abgabe einer summarischen Eingangsanmeldung**
 
-<sup>(1)</sup> Die summarische Eingangsanmeldung ist bei der zuständigen Behörde derjenigen Vertragspartei abzugeben, in deren Zollgebiet die aus einem Drittland kommenden Waren verbracht werden. Diese Behörde führt auf der Grundlage der in dieser Anmeldung enthaltenen Angaben die Risikoanalyse und die für erforderlich erachteten zollrechtlichen Sicherheitskontrollen durch; sie tut dies auch dann, wenn diese Waren für die andere Vertragspartei bestimmt sind.
+<sup>(1)</sup>
 
-<sup>(2)</sup> Die summarische Ausgangsanmeldung ist bei der zuständigen Behörde derjenigen Vertragspartei abzugeben, in deren Zollgebiet die Ausgangsförmlichkeiten für die für ein Drittland bestimmten Waren erledigt werden. Jedoch ist eine Ausfuhranmeldung, die als summarische Ausgangsanmeldung verwendet wird, bei der zuständigen Behörde derjenigen Vertragspartei abzugeben, in deren Zollgebiet die Ausfuhrförmlichkeiten für die für ein Drittland bestimmten Waren erledigt werden. In dem einen wie dem anderen Fall führt die zuständige Behörde auf der Grundlage der in dieser Anmeldung enthaltenen Angaben die Risikoanalyse und die in Bezug auf die Sicherheit für erforderlich erachteten Zollkontrollen durch.
+Für folgende Waren braucht keine summarische Eingangsanmeldung abgegeben zu werden:
 
-<sup>(3)</sup> Überqueren für ein Drittland bestimmte Waren, die das Zollgebiet einer der Vertragsparteien verlassen haben, das Zollgebiet der anderen Vertragspartei, so werden die Angaben nach Artikel 1 Absatz 2 von der zuständigen Behörde der ersten Vertragspartei an die zuständige Behörde der zweiten Vertragspartei übermittelt.
+- a) elektrische Energie;
+- b) durch Rohrleitungen beförderte Waren;
+- c) Briefsendungen, das heisst Briefe, Postkarten, Blindenpost und Drucksachen, die nicht ein- oder ausfuhrabgabenpflichtig sind;
+- d)
 
-Der Gemischte Ausschuss kann jedoch Fälle bestimmen, in denen die Übermittlung dieser Angaben nicht erforderlich ist, soweit sie das durch dieses Abkommen garantierte Mass an Sicherheit nicht beeinträchtigen.
+  nach den Vorschriften des Weltpostvereins beförderte Waren in Postsendungen unter folgenden Voraussetzungen:
 
-Die Vertragsparteien bemühen sich, sich zu vernetzen und ein gemeinsames Datenübermittlungssystem zu benutzen, das die für die summarische Ausgangsanmeldung der betreffenden Waren erforderlichen Angaben enthält.
+  - 1\. wenn die Postsendungen auf dem Luftweg befördert werden und eine Vertragspartei als Endbestimmung haben, bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 1 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist,
+  - 2\. wenn die Postsendungen auf dem Luftweg befördert werden und ein Drittland oder Drittgebiet als Endbestimmung haben, bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist,
+  - 3\. wenn die Postsendungen auf dem See-, Binnenschiffs-, Strassen- oder Schienenweg befördert werden, bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist;
 
-Sind die Vertragsparteien zu dem Datum, an dem dieses Abkommen anwendbar wird, nicht in der Lage, die in Unterabsatz 1 vorgesehene Übermittlung durchzuführen, so ist die summarische Ausgangsanmeldung für Waren, die für ein Drittland bestimmt sind und nach Verlassen des Gebiets einer Vertragspartei das Zollgebiet der anderen Vertragspartei überqueren, ausschliesslich bei der zuständigen Behörde dieser anderen Vertragspartei abzugeben, es sei denn, die Überquerung erfolgt im direkten Luftverkehr.
+- e) Waren, für die nach den von den Vertragsparteien festgelegten Vorschriften eine mündliche Zollanmeldung oder der einfache Grenzübertritt zulässig ist, sofern sie nicht im Rahmen eines Beförderungsvertrags befördert werden;
+- f) Waren im persönlichen Gepäck von Reisenden;
+- g) Waren mit Carnet ATA und Carnet CPD, sofern sie nicht im Rahmen eines Beförderungsvertrags befördert werden;
+- h) Waren, die nach dem Wiener Übereinkommen vom 18. April 1961[^annexI-titI-3-1] über diplomatische Beziehungen, dem Wiener Übereinkommen vom 24. April 1963[^annexI-titI-3-2] über konsularische Beziehungen oder anderen Konsularübereinkommen oder dem New Yorker Übereinkommen vom 16. Dezember 1969[^annexI-titI-3-3] über Sondermissionen zollbefreit sind;
+- i) Waffen und militärisches Gerät, die von den für die militärische Verteidigung des Gebiets zuständigen Behörden sei es in einem Militärtransport, sei es in einer allein für die Militärbehörden durchgeführten Beförderung in das Zollgebiet einer Vertragspartei verbracht werden;
+- j)
+
+  die folgenden direkt von Offshore-Anlagen, die von einer im Zollgebiet einer Vertragspartei niedergelassenen Person betrieben werden, in das Zollgebiet einer Vertragspartei verbrachten Waren:
+
+  - 1\. Waren, die bei der Errichtung, Reparatur, Wartung oder Umrüstung in solchen Offshore-Anlagen eingebaut wurden,
+  - 2\. Waren, die für die Ausrüstung dieser Offshore-Anlagen verwendet wurden,
+  - 3\. Vorräte, die auf den Offshore-Anlagen verwendet oder verbraucht werden,
+  - 4\. ungefährliche Abfälle von solchen Offshore-Anlagen;
+
+- k)
+
+  Waren in Sendungen, deren Sachwert 22 EUR nicht übersteigt, sofern die Zollbehörden sich damit einverstanden erklären, mit Zustimmung des Wirtschaftsbeteiligten anhand der in der Datenbank des Beteiligten enthaltenen Daten oder der Daten, die das von ihm verwendete EDV-System geliefert hat, eine Risikoanalyse durchzuführen, unter folgenden Voraussetzungen:
+
+  - 1\. wenn die Waren in Sendungen auf dem Luftweg von einem Betreiber oder unter Verantwortung eines Betreibers befördert werden, der integ-rierte Dienstleistungen in Form einer beschleunigten bzw. zu einem festgelegten Termin erfolgenden Abholung, Beförderung, Zollabfertigung und Zustellung erbringt, wobei während der gesamten Dauer der Dienstleistung die Position des Pakets verfolgt werden kann und so die Kontrolle darüber gewahrt bleibt (im Folgenden «*Expressgutsendungen*»), bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 1 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist,
+  - 2\. wenn die Waren in anderen Sendungen als Post- oder Expressgutsendungen auf dem Luftweg befördert werden, bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist,
+  - 3\. wenn die Waren auf dem See-, Binnenschiffs-, Strassen- oder Schienenweg befördert werden, bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist;
+
+- l) Waren, die mit einem NATO-Vordruck 302 nach dem am 19. Juni 1951 in London unterzeichneten Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Streitkräfte oder mit einem EU-Vordruck 302 nach Artikel 1 Nummer 51 der Delegierten Verordnung (EU) 2015/2446 der Kommission befördert werden;
+- m) Waren, die aus Ceuta und Melilla, Helgoland, der Republik San Marino, dem Staat Vatikanstadt, der Gemeinde Livigno und den Schweizer Zollexklaven Samnaun und Sampuoir in das Zollgebiet einer der Vertragsparteien verbracht werden;
+- n)
+
+  die folgenden Waren an Bord von Schiffen und Luftfahrzeugen:
+
+  - 1\. Waren, die zum Einbau als Teile von oder Zubehör zu Schiffen und Luftfahrzeugen geliefert wurden,
+  - 2\. Waren für den Betrieb der Motoren, Maschinen und anderen Ausrüstungen dieser Schiffe oder Luftfahrzeuge,
+  - 3\. Lebensmittel und andere Gegenstände zum Verbrauch oder Verkauf an Bord;
+
+- o) Erzeugnisse der Seefischerei und andere Erzeugnisse, die von Fischereifahrzeugen einer der Vertragsparteien aus dem Meer ausserhalb der Zollgebiete der Vertragsparteien gewonnen werden;
+- p) Schiffe einschliesslich der darauf beförderten Waren, die in die Hoheitsgewässer einer der Vertragsparteien ausschliesslich mit dem Zweck einlaufen, Lieferungen zur Bevorratung an Bord zu nehmen und dabei keine Hafenanlagen nutzen;
+- q) Hausrat im Sinne des Rechts der Vertragsparteien, sofern er nicht im Rahmen eines Beförderungsvertrags befördert wird.
+
+<sup>(2)</sup> Eine summarische Eingangsanmeldung ist vorbehaltlich der Einhaltung des in Artikel 9 Absatz 3 des Abkommens festgelegten Verfahrens nicht erforderlich, wenn ein internationales Sicherheitsabkommen zwischen einer Vertragspartei und einem Drittland etwas anderes vorsieht.
+
+<sup>(3)</sup> Eine summarische Eingangsanmeldung ist nicht erforderlich, wenn die Waren bei der Beförderung auf dem See- oder Luftweg zwischen zwei Orten in den Zollgebieten der Vertragsparteien vorübergehend aus diesen Zollgebieten verbracht werden, ohne einen Zwischenstopp in einem Drittland einzulegen.
+
+[^annexI-titI-3-1]: [SR 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^annexI-titI-3-2]: [SR 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^annexI-titI-3-3]: [SR 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
 
 #### Art. 4
 
-**Frist für die Abgabe einer summarischen Ein- oder Ausgangsanmeldung**
+**Ort der Abgabe einer summarischen Eingangsanmeldung**
 
-<sup>(1)</sup> Die Fristen für die Abgabe einer summarischen Ein- oder Ausgangsanmeldung entsprechen den in Artikel 184*a* und in Artikel 592*b* der Verordnung (EWG) Nr. 2454/93 genannten Fristen.
+<sup>(1)</sup> Die summarische Eingangsanmeldung ist bei der Zollstelle abzugeben, die für die zollamtliche Überwachung an dem Ort im Zollgebiet einer der Vertragsparteien zuständig ist, an dem das die Waren befördernde Beförderungsmittel aus einem Drittland oder Drittgebiet eintrifft oder gegebenenfalls eintreffen soll (im Folgenden «erste Eingangszollstelle»).
+
+<sup>(2)</sup> Erfolgt die summarische Eingangsanmeldung durch die Einreichung von mehr als einem Datensatz oder durch die Einreichung des Mindestdatensatzes, so nimmt die den Teil- oder Mindestdatensatz einreichende Person dies bei der Zollstelle vor, die nach ihren Kenntnissen die erste Eingangszollstelle sein dürfte. Ist dieser Person der Ort in den Zollgebieten der Vertragsparteien, an dem das die Waren befördernde Beförderungsmittel voraussichtlich zuerst eintrifft, nicht bekannt, kann die erste Eingangszollstelle auf der Grundlage des Ortes bestimmt werden, an den die Waren versandt werden.
+
+<sup>(3)</sup> Die Zollbehörden der Vertragsparteien können zulassen, dass die summarische Eingangsanmeldung bei einer anderen Zollstelle abgegeben wird, sofern diese der ersten Eingangszollstelle die erforderlichen Angaben umgehend elektronisch übermittelt oder zur Verfügung stellt.
+
+#### Art. 5
+
+**Registrierung einer summarischen Eingangsanmeldung**
+
+<sup>(1)</sup> Die Zollbehörden registrieren jede Vorlage von Angaben der summarischen Eingangsanmeldung bei Erhalt, benachrichtigen den Anmelder oder seinen Vertreter umgehend über die Registrierung und teilen der betreffenden Person die Hauptbezugsnummer (Master Reference Number) der summarischen Eingangsanmeldung sowie das Registrierungsdatum mit.
+
+<sup>(2)</sup> Wird die summarische Eingangsanmeldung von einer anderen Person als dem Beförderer abgegeben, werden Beförderer, die um Benachrichtigung ersucht und Zugang zu diesem elektronischen System haben, ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, umgehend von der Registrierung in Kenntnis gesetzt.
+
+#### Art. 6
+
+**Abgabe einer summarischen Eingangsanmeldung**
+
+Gilt keine der Ausnahmen von der Verpflichtung zur Abgabe einer summarischen Eingangsanmeldung nach Artikel 10 des Abkommens, und findet Artikel 3 des vorliegenden Anhangs Anwendung, sind die Angaben in der summarischen Eingangsanmeldung wie folgt zu machen:
+
+- a)
+
+  für auf dem Luftweg beförderte Waren:
+
+  - 1\. reichen Expressbeförderer ab dem Zeitpunkt, der für die Inbetriebnahme von Release 1 des in Artikel 1 Absatz 1 des vorliegenden Anhangs genannten elektronischen Systems festgelegt ist, den Mindestdatensatz für alle Sendungen ein,
+  - 2\. reichen Postbetreiber ab dem Zeitpunkt, der für die Inbetriebnahme von Release 1 des in Artikel 1 Absatz 1 des vorliegenden Anhangs genannten elektronischen Systems festgelegt ist, den Mindestdatensatz für alle Sendungen mit einer Vertragspartei als Endbestimmungsort ein,
+  - 3\. durch die Übermittlung eines oder mehrerer Datensätze über das in Artikel 1 Absatz 1 des vorliegenden Anhangs genannte elektronische System ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 dieses Systems festgelegt ist;
+
+- b) für im See-, Binnenschiffs-, Strassen- oder Eisenbahnverkehr beförderte Waren durch die Übermittlung eines oder mehrerer Datensätze über das in Artikel 1 Absatz 1 des vorliegenden Anhangs genannte elektronische System ab dem Zeitpunkt, der für die Inbetriebnahme von Release 3 dieses Systems festgelegt ist.
+
+#### Art. 7
+
+**Fristen für die Abgabe einer summarischen Eingangsanmeldung**
+
+<sup>(1)</sup>
+
+Werden Waren auf dem Seeweg in die Zollgebiete der Vertragsparteien verbracht, ist die summarische Eingangsanmeldung innerhalb folgender Fristen abzugeben:
+
+- a) für Containerfracht, ausser wenn Buchstabe c oder d Anwendung findet, mindestens 24 Stunden vor dem Verladen der Waren auf das Schiff, auf dem sie in die Zollgebiete der Vertragsparteien verbracht werden;
+- b) für Massen- und Stückgut, ausser wenn Buchstabe c oder d Anwendung findet, mindestens vier Stunden vor dem Einlaufen des Schiffes im ersten Hafen in den Zollgebieten der Vertragsparteien;
+- c)
+
+  spätestens zwei Stunden vor dem Einlaufen des Schiffes in den ersten Eingangshafen in den Zollgebieten der Vertragsparteien für Beförderungen aus:
+
+  - 1\. Grönland,
+  - 2\. den Färöern,
+  - 3\. Island,
+  - 4\. Häfen an der Ostsee, Nordsee, dem Schwarzen Meer oder Mittelmeer,
+  - 5\. allen Häfen Marokkos;
+
+- d) für andere Beförderungen als den in Buchstabe c genannten zwischen einem Gebiet ausserhalb der Zollgebiete der Vertragsparteien und den französischen überseeischen Departements, den Azoren, Madeira oder den Kanarischen Inseln bei einer Fahrtdauer von weniger als 24 Stunden spätestens zwei Stunden vor dem Einlaufen im ersten Hafen in den Zollgebieten der Vertragsparteien.
 
 <sup>(2)</sup>
 
-Abweichend von Absatz 1 kann jede Vertragspartei in folgenden Fällen andere Fristen bestimmen:
+Werden die Waren auf dem Luftweg in die Zollgebiete der Vertragsparteien verbracht, so ist die vollständige summarische Eingangsanmeldung so früh wie möglich, in jedem Fall aber innerhalb folgender Fristen abzugeben:
 
-- – im Falle eines Versands nach Artikel 3 Absatz 3, um eine zuverlässige Risikoanalyse zu ermöglichen und Sendungen abzufangen mit dem Ziel, an diesen allfällige sicherheitsrelevante Zollkontrollen durchzuführen;
-- – wenn ein internationales Abkommen zwischen dieser Vertragspartei und einem Drittland besteht, vorausgesetzt, das in Artikel 9 Absatz 3 dieses Abkommens festgelegte Verfahren wurde eingehalten.
+- a) bei Flügen mit einer Dauer von weniger als vier Stunden spätestens zur tatsächlichen Abflugzeit des Luftfahrzeugs;
+- b) bei anderen Flügen spätestens vier Stunden vor Ankunft des Luftfahrzeugs am ersten Flughafen in den Zollgebieten der Vertragsparteien.
 
-Anhang II*[^t-3]*
+<sup>(3)</sup> Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 1 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist, reichen Postbetreiber und Expressbeförderer zumindest den Mindestdatensatz der summarischen Eingangsanmeldung so bald wie möglich ein, spätestens aber vor dem Verladen der Waren in das Luftfahrzeug, mit dem diese in die Zollgebiete der Vertragsparteien verbracht werden sollen.
+
+<sup>(4)</sup> Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist, reichen andere Wirtschaftsbeteiligte als Postbetreiber und Expressbeförderer zumindest den Mindestdatensatz der summarischen Eingangsanmeldung so bald wie möglich ein, spätestens aber vor dem Verladen der Waren in das Luftfahrzeug, mit dem diese in die Zollgebiete der Vertragsparteien verbracht werden sollen.
+
+<sup>(5)</sup> Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist, sind dann, wenn innerhalb der in den Absätzen 3 und 4 des vorliegenden Artikels genannten Fristen nur der Mindestdatensatz der summarischen Eingangsanmeldung eingereicht wurde, die übrigen Angaben innerhalb der in Absatz 2 des vorliegenden Artikels genannten Fristen einzureichen.
+
+<sup>(6)</sup> Bis zu dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten Systems festgelegt ist, gilt der gemäss Absatz 3 des vorliegenden Artikels eingereichte Mindestdatensatz der summarischen Eingangsanmeldung bei Waren in Postsendungen, deren Endbestimmung eine Vertragspartei ist, und bei Waren in Expressgutsendungen mit einem Einzelwert von nicht mehr als 22 EUR als vollständige summarische Eingangsanmeldung.
+
+<sup>(7)</sup>
+
+Werden Waren im Schienenverkehr in die Zollgebiete der Vertragsparteien verbracht, ist die summarische Eingangsanmeldung innerhalb folgender Fristen abzugeben:
+
+- a) dauert die Zugfahrt vom letzten in einem Drittland gelegenen Zugbildungsbahnhof bis zur ersten Eingangszollstelle weniger als zwei Stunden, spätestens eine Stunde vor Ankunft der Waren an dem Ort, für den diese Zollstelle zuständig ist;
+- b) in allen anderen Fällen spätestens zwei Stunden vor Ankunft der Waren an dem Ort, für den die erste Eingangszollstelle zuständig ist.
+
+<sup>(8)</sup> Werden Waren auf der Strasse in die Zollgebiete der Vertragsparteien verbracht, ist die summarische Eingangsanmeldung spätestens eine Stunde vor Ankunft der Waren an dem Ort, für den die erste Eingangszollstelle zuständig ist, abzugeben.
+
+<sup>(9)</sup> Werden Waren auf Binnenwasserstrassen in die Zollgebiete der Vertragsparteien verbracht, ist die summarische Eingangsanmeldung spätestens zwei Stunden vor Ankunft der Waren an dem Ort, für den die erste Eingangszollstelle zuständig ist, abzugeben.
+
+<sup>(10)</sup> Werden Waren mit einem Beförderungsmittel in die Zollgebiete der Vertragsparteien verbracht, das selbst auf einem aktiven Beförderungsmittel befördert wird, entspricht die Frist für die Abgabe der summarischen Eingangsanmeldung der für das aktive Beförderungsmittel geltenden Frist.
+
+<sup>(11)</sup> Die in den Absätzen 1–10 genannten Fristen gelten nicht im Falle höherer Gewalt.
+
+<sup>(12)</sup> Gemäss dem Verfahren nach Artikel 9 Absatz 3 des Abkommens gelten die in den Absätzen 1 bis 10 des vorliegenden Artikels genannten Fristen nicht, wenn ein internationales Sicherheitsabkommen zwischen einer Vertragspartei und einem Drittland etwas anderes vorsieht.
+
+#### Art. 8
+
+**Sicherheitsrelevante Risikoanalyse und sicherheitsrelevante Zollkontrollen im Zusammenhang mit den summarischen Eingangsanmeldungen**
+
+<sup>(1)</sup> Sofern die summarische Eingangsanmeldung innerhalb der in Artikel 7 genannten Fristen abgegeben wurde, ist die Risikoanalyse vor Ankunft der Waren bei der ersten Eingangszollstelle abzuschliessen, es sei denn, es wurde ein Risiko festgestellt oder es ist eine zusätzliche Risikoanalyse erforderlich.
+
+Unbeschadet des Unterabsatzes 1 des vorliegenden Absatzes wird eine erste Risikoanalyse für Waren, die auf dem Luftweg in die Zollgebiete der Vertragsparteien verbracht werden sollen, so bald wie möglich nach Erhalt des Mindestdatensatzes der summarischen Eingangsanmeldung gemäss Artikel 7 Absätze 3 und 4 durchgeführt.
+
+- (2)
+
+  Die erste Eingangszollstelle schliesst die Risikoanalyse zu Sicherheitszwecken nach dem folgenden Informationsaustausch über das in Artikel 1 Absatz 1 genannte System ab:
+
+  - a) unmittelbar nach der Registrierung stellt die erste Eingangszollstelle den Zollbehörden der in diesen Angaben angegebenen Vertragsparteien und den Zollbehörden der Vertragsparteien, die in dem System Informationen über Sicherheitsrisiken erfasst haben, die mit den Angaben in der summarischen Eingangsanmeldung übereinstimmen, die Angaben der summarischen Eingangsanmeldung zur Verfügung;
+  - b) innerhalb der in Artikel 7 festgelegten Fristen führen die Zollbehörden der unter Buchstabe a des vorliegenden Absatzes genannten Vertragsparteien eine Risikoanalyse zu Sicherheitszwecken durch; wird ein Risiko ermittelt, so stellen sie der ersten Eingangszollstelle die Ergebnisse zur Verfügung;
+  - c) die erste Eingangszollstelle berücksichtigt die Informationen zu den Ergebnissen der Risikoanalyse, die von den Zollbehörden der unter Buchstabe a genannten Vertragsparteien zum Abschluss der Risikoanalyse übermittelt werden;
+  - d) die erste Eingangszollstelle stellt den Zollbehörden der Vertragsparteien, die an der Risikoanalyse mitgewirkt haben, sowie den potenziell von dieser Warenbeförderung betroffenen Zollbehörden die Ergebnisse der abgeschlossenen Risikoanalyse zur Verfügung;
+  - e)
+
+    die erste Eingangszollstelle teilt den folgenden Personen den Abschluss der Risikoanalyse mit, sofern sie eine Benachrichtigung beantragt haben und Zugang zu dem in Artikel 1 Absatz 1 genannten elektronischen System haben:
+
+    - – dem Anmelder oder seinem Vertreter,
+    - – dem Beförderer, falls dieser weder der Anmelder noch der Vertreter ist.
+
+<sup>(3)</sup> Benötigt die erste Eingangszollstelle für den Abschluss der Risikoanalyse weitere Informationen zu den Angaben in der summarischen Eingangsanmeldung, so ist diese Analyse nach Vorlage dieser Informationen abzuschliessen.
+
+Zu diesem Zweck ersucht die erste Eingangszollstelle die Person, die die summarische Eingangsanmeldung abgegeben hat oder gegebenenfalls die Person, die die Angaben der summarischen Eingangsanmeldung vorgelegt hat, um Bereitstellung dieser Informationen. Ist diese Person nicht der Beförderer, unterrichtet die erste Eingangszollstelle den Beförderer, sofern dieser um Benachrichtigung ersucht hat und Zugang zu dem elektronischen System nach Artikel 1 Absatz 1 hat.
+
+<sup>(4)</sup> Besteht bei der ersten Eingangszollstelle der begründete Verdacht, dass auf dem Luftweg beförderte Waren eine ernstzunehmende Bedrohung für die Luftsicherheit darstellen könnten, so verlangt sie, dass die Sendung als Fracht und Post mit hohem Risiko gemäss Ziffer 4 des Anhangs des Abkommens zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Luftverkehr[^annexI-titI-8-1], im der detaillierte Massnahmen für die Durchführung der gemeinsamen Grundstandards für die Luftsicherheit festgelegt sind, zu kontrollieren ist, bevor sie an Bord eines Luftfahrzeugs verladen wird, dessen Ziel in den Zollgebieten der Vertragsparteien liegt.
+
+Im Anschluss an diese Benachrichtigung teilt die Person, die die summarische Eingangsanmeldung abgegeben hat, oder gegebenenfalls die Person, die die Angaben der summarischen Eingangsanmeldung vorgelegt hat, der ersten Eingangszollstelle die Ergebnisse dieser Prüfung sowie alle anderen damit zusammenhängenden relevanten Informationen mit. Die Risikoanalyse wird erst nach Übermittlung dieser Informationen abgeschlossen.
+
+Die erste Eingangszollstelle informiert die folgenden Personen, sofern diese Zugang zu dem in Artikel 1 Absatz 1 genannten elektronischen System haben:
+
+- – den Anmelder oder seinen Vertreter;
+- – den Beförderer, falls dieser weder der Anmelder noch der Vertreter ist.
+
+<sup>(5)</sup> Besteht bei der ersten Eingangszollstelle begründeter Anlass zu der Annahme, dass auf dem Luftweg beförderte Waren oder auf dem Seeweg beförderte Containerfracht im Sinne von Artikel 7 Absatz 1 Buchstabe a die Sicherheit so ernsthaft gefährden würden, dass sofortiges Eingreifen geboten ist, weist sie an, dass die Waren nicht auf das betreffende Beförderungsmittel verladen werden dürfen.
+
+Diese Benachrichtigung erfolgt unmittelbar nach Feststellung des entsprechenden Risikos und im Falle von Containerfracht, die gemäss Artikel 7 Absatz 1 Buchstabe a auf dem Seeweg befördert wird, spätestens innerhalb von 24 Stunden nach Eingang der summarischen Eingangsanmeldung oder gegebenenfalls der Angaben in der summarischen Eingangsanmeldung, die durch den Beförderer abgegeben wurde bzw. wurden.
+
+Die erste Eingangszollstelle unterrichtet ferner unverzüglich die Zollbehörden aller Vertragsparteien über diese Benachrichtigung und stellt ihnen die einschlägigen Angaben der summarischen Eingangsanmeldung zur Verfügung.
+
+Die erste Eingangszollstelle informiert die folgenden Personen, sofern diese Zugang zu dem in Artikel 1 Absatz 1 genannten elektronischen System haben:
+
+- – den Anmelder oder seinen Vertreter;
+- – den Beförderer, falls dieser weder der Anmelder noch der Vertreter ist.
+
+<sup>(6)</sup> Wird ein Risiko festgestellt, das eine so ernste Gefahr darstellt, dass bei Ankunft des Beförderungsmittels sofortiges Eingreifen geboten ist, ergreift die erste Eingangszollstelle diese Massnahme bei Ankunft der Waren.
+
+<sup>(7)</sup> Nach Abschluss der Risikoanalyse kann die erste Eingangszollstelle über das in Artikel 1 Absatz 1 genannte elektronische System den geeignetsten Ort und die geeignetsten Massnahmen zur Durchführung einer Kontrolle empfehlen.
+
+Die Zollstelle, die für den Ort zuständig ist, der als am geeignetsten für die Kontrolle empfohlen wurde, entscheidet über die Kontrolle und stellt die Ergebnisse dieser Entscheidung spätestens zum Zeitpunkt der Gestellung der Waren bei der ersten Eingangszollstelle allen potenziell von der Beförderung betroffenen Zollstellen über das in Artikel 1 Absatz 1 genannte elektronische System zur Verfügung.
+
+<sup>(8)</sup> Die Vertragsparteien tauschen über das in Artikel 12 Absatz 3 des Abkommens genannte System die Informationen über die unter den Buchstaben a und b des vorliegenden Absatzes genannten Risiken aus.
+
+Die Zollstellen stellen die Ergebnisse ihrer sicherheitsrelevanten Zollkontrollen anderen Zollbehörden der Vertragsparteien über das in Artikel 1 Absatz 1 genannte System zur Verfügung, wenn:
+
+- a) eine Zollbehörde die Risiken als beträchtlich einschätzt und eine Zollkontrolle für erforderlich erachtet und die Kontrolle ergeben hat, dass das Ereignis, das den Tatbestand eines Risikos schafft, eingetreten ist; oder
+- b) die Kontrolle zwar nicht ergeben hat, dass das Ereignis, das den Tatbestand eines Risikos schafft, eingetreten ist, die Zollbehörde jedoch der Auffassung ist, dass ein hohes Risiko an einem anderen Ort in den Zollgebieten der Vertragsparteien besteht; oder
+- c) es für eine einheitliche Anwendung der Regeln im Abkommen erforderlich ist.
+
+<sup>(9)</sup> Werden Waren, die gemäss Artikel 3 Absatz 1 Buchstaben c bis f, Buchstaben h bis m, Buchstaben o und q von der Verpflichtung zur Abgabe einer summarischen Eingangsanmeldung befreit sind, in die Zollgebiete der Vertragsparteien verbracht, so wird die Risikoanalyse bei der Gestellung der Waren vorgenommen.
+
+<sup>(10)</sup> Gestellte Waren dürfen überlassen werden, sobald die Risikoanalyse durchgeführt wurde und deren Ergebnisse sowie erforderlichenfalls die ergriffenen Massnahmen eine solche Überlassung erlauben.
+
+<sup>(11)</sup> Eine Risikoanalyse wird auch dann durchgeführt, wenn die Angaben der summarischen Eingangsanmeldung im Einklang mit Artikel 2 Absätze 3 und 4 geändert wurden. In diesem Fall ist unbeschadet der in Absatz 5 Unterabsatz 3 des vorliegenden Artikels festgelegten Frist für auf dem Seeweg beförderte Containerfracht die Risikoanalyse unmittelbar nach Erhalt dieser Angaben abzuschliessen, es sei denn, es wird ein Risiko festgestellt oder es muss eine zusätzliche Risikoanalyse durchgeführt werden.
+
+[^annexI-titI-8-1]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258), Abkommen zwischen der Europäischen Gemeinschaft und der Schweizerischen Eidgenossenschaft über den Luftverkehr (ABl. EG L 114 vom 30.4.2002, S. 73, einschliesslich vom Gemischten Ausschuss beschlossener bisheriger und künftiger Änderungen des genannten Abkommens).
+
+#### Art. 9
+
+**Vorlage von Angaben in der summarischen Eingangsanmeldung durch andere Personen**
+
+<sup>(1)</sup>
+
+Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, gelten, wenn für dieselben auf dem Luftweg beförderten Waren eine oder mehrere andere Personen als der Beförderer einen oder mehrere Beförderungsverträge abgeschlossen haben, die durch einen oder mehrere Luftfrachtbriefe abgedeckt sind, die folgenden Regeln:
+
+- a) die Person, die einen Luftfrachtbrief ausstellt, unterrichtet die Person, die mit ihr einen Beförderungsvertrag abgeschlossen hat, über die Ausstellung dieses Luftfrachtbriefs;
+- b) im Falle einer Vereinbarung über die Zuladung von Waren unterrichtet die Person, die den Luftfrachtbrief ausstellt, die Person, mit der sie diese Vereinbarung geschlossen hat, über die Ausstellung dieses Luftfrachtbriefs;
+- c) der Beförderer und jede Person, die einen Luftfrachtbrief ausstellt, gibt in den Angaben der summarischen Eingangsanmeldung die Identität jeder Person an, die ihnen die für die summarische Eingangsanmeldung erforderlichen Angaben nicht zur Verfügung gestellt hat;
+- d) stellt die den Luftfrachtbrief ausstellende Person die für die summarische Eingangsanmeldung erforderlichen Angaben nicht ihrem Vertragspartner zur Verfügung, der ihr einen Luftfrachtbrief ausstellt, oder ihrem Vertragspartner, mit dem sie eine Vereinbarung über die Zuladung von Waren geschlossen hat, so sind diese Angaben von der Person, die die erforderlichen Angaben nicht zur Verfügung gestellt hat, der ersten Eingangszollstelle vorzulegen.
+
+<sup>(2)</sup>
+
+Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, gelten, wenn der Postbetreiber die für die summarische Eingangsanmeldung von Postsendungen erforderlichen Angaben einem Beförderer, der verpflichtet ist, die übrigen Angaben der Anmeldung über dieses System vorzulegen, nicht zur Verfügung stellt, die folgenden Regeln:
+
+- a) diese Angaben werden der ersten Eingangszollstelle vom empfangenden Postbetreiber vorgelegt, wenn die Waren in die Vertragsparteien versandt werden, bzw. vom Postbetreiber der Vertragspartei des ersten Eingangs, wenn die Waren durch die Vertragsparteien verbracht werden; und
+- b) der Beförderer gibt in den Angaben der summarischen Eingangsanmeldung die Identität des Postbetreibers an, der ihm die für die summarische Eingangsanmeldung erforderlichen Angaben nicht zur Verfügung gestellt hat.
+
+<sup>(3)</sup>
+
+Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, gelten, wenn der Expressbeförderer die für die summarische Eingangsanmeldung von auf dem Luftweg beförderten Expressgutsendungen erforderlichen Angaben dem Beförderer nicht zur Verfügung stellt, die folgenden Regeln:
+
+- a) Der Expressbeförderer legt diese Angaben der ersten Eingangszollstelle vor; und
+- b) der Beförderer gibt in den Angaben der summarischen Eingangsanmeldung die Identität des Expressbeförderers an, der ihm die für die summarische Eingangsanmeldung erforderlichen Angaben nicht zur Verfügung gestellt hat.
+
+<sup>(4)</sup>
+
+Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, gelten, wenn im Falle der Beförderung auf dem Seeweg oder auf Binnenwasserstrassen eine oder mehrere andere Personen als der Beförderer einen oder mehrere zusätzliche Beförderungsverträge abgeschlossen haben, die durch ein oder mehrere Konnossemente verbrieft sind, die folgenden Regeln:
+
+- a) die das Konnossement ausstellende Person unterrichtet die Person, die mit ihr einen Beförderungsvertrag abgeschlossen hat, über die Konnossementausstellung;
+- b) bei Vereinbarungen über die Zuladung von Waren unterrichtet die das Konnossement ausstellende Person die Person, mit der sie diese Vereinbarung geschlossen hat, über die Konnossementausstellung;
+- c) der Beförderer und jede Person, die ein Konnossement ausstellt, gibt in den Angaben der summarischen Eingangsanmeldung die Identität jeder Person an, die mit ihnen einen Beförderungsvertrag abgeschlossen und ihnen die für die summarische Eingangsanmeldung erforderlichen Angaben nicht zur Verfügung gestellt hat;
+- d) die das Konnossement ausstellende Person gibt in den Angaben der summarischen Eingangsanmeldung die Identität des Empfängers an, der im Konnossement angegeben ist und zu dem keine sonstigen Konnossements gehören und der ihm die für die summarische Eingangsanmeldung erforderlichen Angaben nicht zur Verfügung gestellt hat;
+- e) stellt die das Konnossement ausstellende Person die für die summarische Eingangsanmeldung erforderlichen Angaben ihrem Vertragspartner, der ihr ein Konnossement ausstellt, oder ihrem Vertragspartner, mit dem sie eine Vereinbarung über die Zuladung von Waren geschlossen hat, nicht zur Verfügung, so sind diese Angaben von der Person, die die erforderlichen Angaben nicht zur Verfügung gestellt hat, der ersten Eingangszollstelle vorzulegen;
+- f) gehören zu dem Konnossement keine sonstigen Konnossemente und stellt der im Konnossement angegebene Empfänger der das Konnossement ausstellenden Person nicht die für die summarische Eingangsanmeldung erforderlichen Angaben zur Verfügung, so legt der Empfänger diese Angaben der ersten Eingangszollstelle vor.
+
+#### Art. 10
+
+**Umleitung eines in den Zollgebieten der Vertragsparteien eintreffenden Seeschiffs oder Luftfahrzeugs**
+
+<sup>(1)</sup> Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 2 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, ruft die tatsächliche erste Eingangszollstelle über dieses System die Angaben der summarischen Eingangsanmeldung, die Ergebnisse der Risikoanalyse und die von der voraussichtlichen ersten Eingangszollstelle ausgesprochenen Kontrollempfehlungen ab, sobald ein Flugzeug umgeleitet wird und bei einer Zollstelle in einem Land eintrifft, das in der summarischen Eingangsanmeldung nicht als zu durchquerendes Land angegeben war.
+
+<sup>(2)</sup> Ab dem Zeitpunkt, der für die Inbetriebnahme von Release 3 des in Artikel 1 Absatz 1 genannten elektronischen Systems festgelegt ist, ruft die tatsächliche erste Eingangszollstelle über dieses System die Angaben der summarischen Eingangsanmeldung, die Ergebnisse der Risikoanalyse und die von der voraussichtlichen ersten Eingangszollstelle ausgesprochenen Kontrollempfehlungen ab, sobald ein Seeschiff umgeleitet wird und bei einer Zollstelle in einem Land eintrifft, das in der summarischen Eingangsanmeldung nicht als zu durchquerendes Land angegeben war.
+
+## Titel II Technische Modalitäten für das Einfuhrkontrollsystem 2
+
+#### Art. 11
+
+**Einfuhrkontrollsystem 2**
+
+<sup>(1)</sup> Das Einfuhrkontrollsystem 2 (ICS2) unterstützt die Kommunikation zwischen den Wirtschaftsbeteiligten und den Vertragsparteien zum Zwecke der Erfüllung der Anforderungen an die summarische Eingangsanmeldung, die Risikoanalyse zu Sicherheitszwecken durch die Zollbehörden der Vertragsparteien und Zollmassnahmen zur Minderung dieser Risiken, einschliesslich sicherheitsrelevanter Zollkontrollen, sowie die Kommunikation zwischen den Vertragsparteien zum Zwecke der Erfüllung der Anforderungen an die summarische Eingangsanmeldung.
+
+<sup>(2)</sup>
+
+Das ICS2 besteht aus den folgenden auf Unionsebene entwickelten gemeinsamen Komponenten:
+
+- a) einer harmonisierten Schnittstelle für Wirtschaftsbeteiligte («Shared Trader Interface»);
+- b) einem gemeinsamen Datendepot («Common Repository»).
+
+<sup>(3)</sup> Die Schweiz entwickelt ein nationales Eingangssystem als eine in der Schweiz verfügbare nationale Komponente.
+
+<sup>(4)</sup> Die Schweiz kann eine nationale Schnittstelle für Wirtschaftsbeteiligte als eine in der Schweiz verfügbare nationale Komponente entwickeln.
+
+<sup>(5)</sup>
+
+Das ICS2 wird für folgende Zwecke verwendet:
+
+- a) Übermittlung, Verarbeitung und Speicherung der Angaben der summarischen Eingangsanmeldungen, Änderungs- und Ungültigerklärungen nach Artikel 10 des Abkommens und dem vorliegenden Anhang;
+- b) Empfang, Verarbeitung und Speicherung der Angaben der summarischen Eingangsanmeldungen, die den in Artikel 10 des Abkommens und dem vorliegenden Anhang genannten Anmeldungen entnommen werden;
+- c) Übermittlung, Verarbeitung und Speicherung von Informationen über die Ankunft und die Ankunftsmeldungen von Seeschiffen oder Luftfahrzeugen nach Artikel 10 des Abkommens und dem vorliegenden Anhang;
+- d) Empfang, Verarbeitung und Speicherung von Informationen über die Gestellung von Waren bei den Zollbehörden der Vertragsparteien nach Artikel 10 des Abkommens und dem vorliegenden Anhang;
+- e) Empfang, Verarbeitung und Speicherung von Informationen über Ersuchen um Risikoanalysen und deren Ergebnisse, Kontrollempfehlungen, Entscheidungen über Kontrollen und Kontrollergebnisse nach den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang;
+- f) Empfang, Verarbeitung, Speicherung und Meldung der Mitteilungen und Informationen an die und von den Wirtschaftsbeteiligten nach den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang;
+- g) Übermittlung, Verarbeitung und Speicherung von Informationen durch die Wirtschaftsbeteiligten, die von den Zollbehörden der Vertragsparteien nach den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang verlangt werden.
+
+<sup>(6)</sup> Das ICS2 unterstützt die Überwachung und Bewertung der Umsetzung der gemeinsamen Kriterien und Standards für die Sicherheitsrisiken und der Kontrollmassnahmen und prioritären Kontrollbereiche nach Artikel 12 des Abkommens durch die Vertragsparteien.
+
+<sup>(7)</sup> Die Authentifizierung und Zugangsprüfung von Wirtschaftsbeteiligten für die Zwecke des Zugangs zu den gemeinsamen Komponenten des ICS2 erfolgt unter Verwendung der in Artikel 13 genannten Plattform für einheitliches Nutzermanagement und digitale Signatur (im Folgenden «UUM&DS»).
+
+<sup>(8)</sup> Die Authentifizierung und Zugangsprüfung von Bediensteten der Vertragsparteien für die Zwecke des Zugangs zu den gemeinsamen Komponenten des ICS2 erfolgt unter Verwendung der von der Union bereitgestellten Netzwerkdienste.
+
+<sup>(9)</sup> Die harmonisierte Schnittstelle für Wirtschaftsbeteiligte gibt Wirtschaftsbeteiligten nach Artikel 1 Zugang zum ICS2.
+
+<sup>(10)</sup> Die harmonisierte Schnittstelle für Wirtschaftsbeteiligte interoperiert mit dem in den Absätzen 12–14 genannten gemeinsamen Datendepot des ICS2.
+
+<sup>(11)</sup> Die harmonisierte Schnittstelle für Wirtschaftsbeteiligte wird für Übermittlungen, Anträge auf Änderungen oder Ungültigerklärungen, die Verarbeitung und Speicherung der Angaben in den summarischen Eingangsanmeldungen und Ankunftsmeldungen sowie für den Informationsaustausch zwischen den Vertragsparteien und den Wirtschaftsbeteiligten genutzt.
+
+<sup>(12)</sup> Das gemeinsame Datendepot des ICS2 wird von den Vertragsparteien für die Verarbeitung der Angaben in den summarischen Eingangsanmeldungen, für Anträge auf Änderungen und Ungültigerklärungen, für Ankunftsmeldungen, für Informationen über die Gestellung der Waren, Informationen über Anträge und Ergebnisse von Risikoanalysen, für Kontrollempfehlungen, Kontrollentscheidungen sowie Kontrollergebnisse und Informationen, die mit den Wirtschaftsbeteiligten ausgetauscht werden, genutzt.
+
+<sup>(13)</sup> Das gemeinsame Datendepot des ICS2 wird von den Vertragsparteien für Statistik- und Bewertungszwecke sowie für den Austausch von Informationen über summarische Eingangsanmeldungen zwischen den Vertragsparteien genutzt.
+
+<sup>(14)</sup> Das gemeinsame Datendepot des ICS2 interoperiert mit der harmonisierten Schnittstelle für Wirtschaftsbeteiligte und den nationalen Schnittstellen für Wirtschaftsbeteiligte, sofern sie von den Vertragsparteien eingerichtet wurden, und mit den nationalen Eingangssystemen.
+
+<sup>(15)</sup> Die Zollbehörde einer Vertragspartei nutzt das gemeinsame Datendepot zur Konsultation der Zollbehörde der anderen Vertragspartei nach den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang, bevor sie die Risikoanalyse für Sicherheitszwecke abschliesst. Die Zollbehörde einer Vertragspartei nutzt das gemeinsame Datendepot auch, um die andere Vertragspartei zu den empfohlenen Kontrollen, zu den Entscheidungen über die empfohlenen Kontrollen und zu den Ergebnissen der sicherheitsrelevanten Zollkontrollen nach den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang zu konsultieren.
+
+<sup>(16)</sup> Sofern die Vertragsparteien eine nationale Schnittstelle für Wirtschaftsbeteiligte eingerichtet haben, stellt diese für die Wirtschaftsbeteiligten einen Zugang zum ICS2 nach Artikel 1 dar, wenn die Vorlage an die Vertragspartei gerichtet ist, die die nationale Schnittstelle für Wirtschaftsbeteiligte betreibt.
+
+<sup>(17)</sup> Für die Übermittlung, Änderung, Ungültigerklärung, Verarbeitung und Speicherung der Angaben der summarischen Eingangsanmeldungen und Ankunftsmeldungen sowie den Informationsaustausch zwischen den Vertragsparteien und den Wirtschaftsbeteiligten können die Wirtschaftsbeteiligten wählen, ob sie die nationale Schnittstelle für Wirtschaftsbeteiligte, sofern sie eingerichtet wurde, oder die harmonisierte Schnittstelle für Wirtschaftsbeteiligte verwenden wollen.
+
+<sup>(18)</sup> Sofern sie eingerichtet wurde, interoperiert die nationale Schnittstelle für Wirtschaftsbeteiligte mit dem gemeinsamen Datendepot des ICS2.
+
+<sup>(19)</sup> Richtet die Schweiz eine nationale Schnittstelle für Wirtschaftsbeteiligte ein, setzt sie die Union davon in Kenntnis.
+
+<sup>(20)</sup> Die Zollbehörden der Vertragsparteien nutzen ein nationales Eingangssystem für den Austausch der Angaben der summarischen Eingangsanmeldung aus Anmeldungen nach Artikel 10 des Abkommens, den Austausch von Informationen und Mitteilungen mit der zentralen Datenbank für Informationen über die Ankunft eines Seeschiffs oder eines Luftfahrzeugs, Informationen über die Gestellung von Waren, die Bearbeitung von Anträgen auf Risikoanalyse, den Austausch und die Bearbeitung von Informationen über die Ergebnisse der Risikoanalyse, von Kontrollempfehlungen, Kontrollentscheidungen und Kontrollergebnissen.
+
+<sup>(21)</sup> Das nationale Eingangssystem ist auch in den Fällen zu verwenden, in denen eine Zollbehörde einer Vertragspartei von den Wirtschaftsbeteiligten weitere Informationen anfordert und von diesen Informationen erhält.
+
+<sup>(22)</sup> Das nationale Eingangssystem interoperiert mit der zentralen Datenbank.
+
+<sup>(23)</sup> Das nationale Eingangssystem interoperiert mit den auf nationaler Ebene eingerichteten Systemen für das Abrufen der Informationen nach Absatz 20.
+
+#### Art. 12
+
+**Funktionsweise des Einfuhrkontrollsystems 2 und Schulung in seiner Anwendung**
+
+<sup>(1)</sup> Die gemeinsamen Komponenten werden von der Union entwickelt, getestet, in Betrieb genommen und verwaltet. Die nationalen Komponenten werden von der Schweiz entwickelt, getestet, in Betrieb genommen und verwaltet.
+
+<sup>(2)</sup> Die Schweiz sorgt dafür, dass die nationalen Komponenten mit den gemeinsamen Komponenten interoperabel sind.
+
+<sup>(3)</sup> Die Union wartet die gemeinsamen Komponenten, und die Schweiz wartet ihre nationalen Komponenten.
+
+<sup>(4)</sup> Die Vertragsparteien gewährleisten den unterbrechungsfreien Betrieb der elektronischen Systeme.
+
+<sup>(5)</sup> Die Union kann die gemeinsamen Komponenten der elektronischen Systeme ändern, um Störungen zu beheben, neue Funktionen hinzuzufügen oder bestehende Funktionen zu ändern.
+
+<sup>(6)</sup> Die Union unterrichtet die Schweiz über Änderungen und Aktualisierungen der gemeinsamen Komponenten.
+
+<sup>(7)</sup> Die Schweiz unterrichtet die Union über Änderungen und Aktualisierungen der nationalen Komponenten, die Auswirkungen auf das Funktionieren der gemeinsamen Komponenten haben könnten.
+
+<sup>(8)</sup> Die Vertragsparteien machen die Informationen über Änderungen und Aktualisierungen der elektronischen Systeme nach den Absätzen 6 und 7 öffentlich verfügbar.
+
+<sup>(9)</sup> Bei einem zeitweiligen Ausfall des ICS2 gilt der von den Vertragsparteien erstellte Plan zur Fortführung des Betriebskontinuitätsplans.
+
+<sup>(10)</sup> Die Vertragsparteien benachrichtigen einander, wenn die elektronischen Systeme wegen eines zeitweiligen Ausfalls nicht verfügbar sind.
+
+<sup>(11)</sup> Die Union unterstützt die Schweiz im Hinblick auf die Nutzung und die Funktionsweise der gemeinsamen Komponenten der elektronischen Systeme, indem sie geeignetes Schulungsmaterial bereitstellt.
+
+#### Art. 13
+
+**Plattform für einheitliches Nutzermanagement und digitale Signatur**
+
+<sup>(1)</sup> Eine Plattform für einheitliches Nutzermanagement und digitale Signatur (oder «*UUM&DS*») ermöglicht die Kommunikation zwischen den Identitäts- und Zugangsmanagementsystemen der Vertragsparteien nach Absatz 6 für die Zwecke der Gewährleistung eines sicheren, autorisierten Zugangs der Bediensteten und Wirtschaftsbeteiligten der Vertragsparteien zu den elektronischen Systemen.
+
+<sup>(2)</sup>
+
+Die UUM&DS-Plattform besteht aus den folgenden gemeinsamen Komponenten:
+
+- a) einem Zugangsmanagementsystem;
+- b) einem Verwaltungsmanagementsystem.
+
+<sup>(3)</sup>
+
+Die UUM&DS-Plattform wird genutzt, um die Authentifizierung und Zugangsprüfung sicherzustellen von:
+
+- a) Wirtschaftsbeteiligten für die Zwecke des Zugangs zum ICS2;
+- b) Bediensteten der Vertragsparteien für die Zwecke des Zugangs zu den gemeinsamen Komponenten des ICS2 sowie für die Zwecke der Wartung und der Verwaltung der UUM&DS-Plattform.
+
+<sup>(4)</sup> Die Vertragsparteien richten das Zugangsmanagementsystem ein, um Zugangsanfragen von Wirtschaftsbeteiligten in der UUM&DS-Plattform durch Interoperation mit den Identitäts- und Zugangsmanagementsystemen der Vertragsparteien nach Absatz 6 zu validieren.
+
+<sup>(5)</sup> Die Vertragsparteien richten das Verwaltungsmanagementsystem ein, um die Authentifizierungs- und Autorisierungsregeln für die Validierung der Daten zur Identifizierung von Wirtschaftsbeteiligten für die Zwecke des Zugangs zu den elektronischen Systemen zu verwalten.
+
+<sup>(6)</sup>
+
+Die Vertragsparteien richten ein Identitäts- und Zugangsmanagementsystem ein, um Folgendes zu gewährleisten:
+
+- a) eine sichere Erfassung und Speicherung von Daten zur Identifizierung der Wirtschaftsbeteiligten;
+- b) einen sicheren Austausch signierter und verschlüsselter Daten zur Identifizierung von Wirtschaftsbeteiligten.
+
+#### Art. 14
+
+**Datenverwaltung, -eigentum und -sicherheit**
+
+<sup>(1)</sup> Die Vertragsparteien tragen dafür Sorge, dass die auf nationaler Ebene gespeicherten Daten den in den gemeinsamen Komponenten gespeicherten Daten entsprechen und auf dem neuesten Stand gehalten werden.
+
+<sup>(2)</sup>
+
+Abweichend von Absatz 1 tragen die Vertragsparteien dafür Sorge, dass die folgenden Daten denjenigen in der zentralen Datenbank des ICS2 entsprechen und auf dem neuesten Stand gehalten werden:
+
+- a) auf nationaler Ebene gespeicherte und vom nationalen Eingangssystem an die zentrale Datenbank übermittelte Daten;
+- b) vom nationalen Eingangssystem von der zentralen Datenbank empfangene Daten.
+
+<sup>(3)</sup> Die Daten in den gemeinsamen Komponenten des ICS2, die durch einen Wirtschaftsbeteiligten an die harmonisierte Schnittstelle für Wirtschaftsbeteiligte übermittelt oder dort gespeichert werden, dürfen nur von diesem Wirtschaftsbeteiligten abgerufen oder verarbeitet werden.
+
+<sup>(4)</sup> Die Daten in den gemeinsamen Komponenten des ICS2,
+
+- a) die einer Vertragspartei von einem Wirtschaftsbeteiligten über die harmonisierte Schnittstelle für Wirtschaftsbeteiligte an das gemeinsame Datendepot übermittelt werden, dürfen nur von dieser Vertragspartei im gemeinsamen Datendepot abgerufen und verarbeitet werden. Bei Bedarf kann diese Vertragspartei auch auf diese in der harmonisierten Schnittstelle für Wirtschaftsbeteiligte gespeicherten Informationen zugreifen;
+- b) die durch eine Vertragspartei an das gemeinsame Datendepot übermittelt oder dort gespeichert wurden, dürfen nur von dieser Vertragspartei abgerufen oder verarbeitet werden;
+- c) nach den Buchstaben a und b des vorliegenden Absatzes können auch von der anderen Vertragspartei abgerufen und verarbeitet werden, wenn diese an dem Risikoanalyse- oder Kontrollverfahren beteiligt ist, auf das sich die Daten gemäss den Artikeln 10 und 12 des Abkommens und dem vorliegenden Anhang beziehen;
+- d) dürfen von der Kommission in Zusammenarbeit mit den Vertragsparteien für die in Artikel 1 Absatz 1 Buchstabe c und Artikel 11 Absatz 6 genannten Zwecke verarbeitet werden. Die Kommission und die Vertragsparteien dürfen auf die Ergebnisse der entsprechenden Verarbeitung zugreifen.
+
+<sup>(5)</sup> Die Daten in der gemeinsamen Komponente des ICS2, die durch die Union im gemeinsamen Datendepot gespeichert werden, dürfen von den Vertragsparteien abgerufen werden. Diese Daten dürfen von der Union verarbeitet werden.
+
+<sup>(6)</sup> Die Union ist Systemeigentümerin der gemeinsamen Komponenten.
+
+<sup>(7)</sup> Die Schweiz ist Systemeigentümerin ihrer nationalen Komponenten.
+
+<sup>(8)</sup> Die Union gewährleistet die Sicherheit der gemeinsamen Komponenten, die Schweiz die Sicherheit ihrer nationalen Komponenten.
+
+<sup>(9)</sup>
+
+Für diese Zwecke treffen die Vertragsparteien die erforderlichen Mindestmassnahmen, um:
+
+- a) zu verhindern, dass Unbefugte Zugang zu den Datenverarbeitungsanlagen haben;
+- b) zu verhindern, dass Unbefugte Daten eingeben, abfragen, ändern oder löschen;
+- c) etwaige Aktivitäten gemäss den Buchstaben a und b aufzudecken.
+
+<sup>(10)</sup> Die Vertragsparteien unterrichten einander über alle Aktivitäten, die zu einer Verletzung oder zum Verdacht einer Verletzung der Sicherheit der elektronischen Systeme führen können.
+
+<sup>(11)</sup> Die Vertragsparteien erstellen Sicherheitspläne für alle Systeme.
+
+<sup>(12)</sup> Die in den Komponenten des ICS2 gespeicherten Daten werden mindestens drei Jahre lang gespeichert. Die Vertragsparteien können diesen Zeitraum überschreiten, wenn dies nach den einschlägigen nationalen Rechtsvorschriften erforderlich ist.
+
+#### Art. 15
+
+**Verarbeitung personenbezogener Daten**
+
+Für das ICS2 und die UUM&DS gilt in Bezug auf die Verarbeitung darin enthaltener personenbezogener Daten Folgendes:
+
+- a) Die Schweiz und die Mitgliedstaaten der Union handeln als Verantwortliche im Einklang mit der Bestimmung von Artikel 14 des Abkommens.
+- b) Die Kommission handelt als Auftragsverarbeiterin und erfüllt die ihr in diesem Zusammenhang auferlegten Verpflichtungen gemäss der Verordnung (EU) Nr. 2018/1725 des Europäischen Parlaments und des Rates[^annexI-titII-15-1], mit Ausnahme, dass die Kommission bei der Verarbeitung der Daten zur Überwachung und Bewertung der Umsetzung der gemeinsamen Kriterien und Standards für die Sicherheitsrisiken sowie der Kontrollmassnahmen und des prioritären Kontrollbereichs als gemeinsam Verantwortliche handelt.
+
+[^annexI-titII-15-1]: Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe, Einrichtungen und sonstigen Stellen der Union, zum freien Datenverkehr und zur Aufhebung der Verordnung (EG) Nr. 45/2001 und des Beschlusses Nr. 1247/2002/EG (ABl. EU L 295 vom 21.11.2018, S. 39).
+
+#### Art. 16
+
+**Beteiligung an der Entwicklung, Wartung und Verwaltung des ICS2**
+
+Die Union ermöglicht es schweizerischen Sachverständigen, als Beobachter an den Sitzungen der Sachverständigengruppe für Zollfragen und der entsprechenden Arbeitsgruppen teilzunehmen, wenn es um Fragen der Entwicklung, Wartung und Verwaltung des ICS2 geht. Die Union entscheidet von Fall zu Fall über die Teilnahme der schweizerischen Sachverständigen an den Sitzungen der Arbeitsgruppen, in denen nur eine begrenzte Anzahl von Mitgliedstaaten der Union vertreten ist und die der Sachverständigengruppe für Zollfragen Bericht erstatten.
+
+## Titel III
+
+#### Art. 17
+
+**Finanzierungsvereinbarungen bezüglich der Verpflichtungen und Erwartungen an die Umsetzung und den Betrieb des ICS2**
+
+Im Hinblick auf die Ausdehnung der Nutzung des ICS2 auf die Schweiz und unter Berücksichtigung von Kapitel III und des vorliegenden Anhangs werden in diesen Finanzierungsvereinbarungen (im Folgenden «*Vereinbarung*») die Elemente der Zusammenarbeit zwischen den Vertragsparteien in Bezug auf das ICS2 definiert.
+
+- a) Die Kommission wird die zentralen Komponenten des ICS2, die aus einer harmonisierten Schnittstelle für Wirtschaftsbeteiligte und einer zentralen Datenbank bestehen (im Folgenden «zentrale Komponenten des ICS2»), einschliesslich der Anwendungen und Dienste, die für den Betrieb und die Verbindung mit den IT-Systemen in der Schweiz wie TAPAS, UUM&DS, CCN2ng-Middleware erforderlich sind, entwickeln, testen, bereitstellen, verwalten und betreiben und sich verpflichten, sie der Schweiz zur Verfügung zu stellen.
+- b) Die Schweiz wird die nationalen Komponenten des ICS2 entwickeln, testen, bereitstellen, verwalten und betreiben.
+- c)
+
+  Die Schweiz und die Kommission vereinbaren, die Entwicklungs- und einmaligen Kosten der zentralen ICS2-Komponenten sowie die Betriebskosten der zentralen ICS2-Komponenten, der zugehörigen Anwendungen und der für ihren Betrieb und ihre Zusammenschaltung erforderlichen Dienste wie folgt aufzuteilen:
+
+  - 1\. Ein Teil der ICS2-Entwicklungskosten für zentrale Komponenten wird der Schweiz von der Kommission gemäss den Buchstaben d und e in Rechnung gestellt. Die Entwicklungskosten umfassen die Softwareentwicklung der zentralen Komponenten sowie die Anschaffung und Installation der dazugehörigen Infrastruktur (Hardware, Software, Hosting, Lizenzen usw.). Der Verteilungsschlüssel betrifft 4 Prozent aller Kosten für die genannten Dienste.
+  - 2\. Die maximalen Entwicklungskosten sind auf 550 000 EUR (fünfhundertfünfzigtausend) pro Release begrenzt.
+  - 3\. Ein Teil der ICS2- und TAPAS-Betriebskosten wird der Schweiz von der Kommission gemäss den Buchstaben f, g und h in Rechnung gestellt. Die Betriebskosten umfassen die Konformitätsprüfung, die Wartung der Infrastruktur (Hardware, Software, Hosting, Lizenzen usw.) der zentralen Komponenten des ICS2 und der dazugehörigen Anwendungen und Dienste, die für deren Betrieb und Zusammenschaltung erforderlich sind (Qualitätssicherung, Helpdesk und IT-Service-Management). Der Verteilungsschlüssel betrifft 4 Prozent aller Kosten für die genannten Dienste.
+  - 4\. Die Betriebskosten im Zusammenhang mit der Nutzung des ICS2 für die Schweiz dürfen den Höchstbetrag von 450 000 EUR (vierhundertfünfzigtausend) pro Jahr nicht überschreiten.
+  - 5\. Die Kosten für die Entwicklung und den Betrieb der nationalen Komponente(n) werden vollständig von der Schweiz getragen.
+  - 6\. Die Schweiz wird über die geplante Kostenentwicklung auf dem Laufenden gehalten und über die wichtigsten Elemente für die Entwicklung des ICS2, die sich auf diese Kosten auswirken könnten, informiert.
+
+- d)
+
+  Die Schweiz erklärt sich bereit, sich an den Kosten für die Entwicklung und Konformitätstests der zentralen Komponenten des ICS2 zu beteiligen, die vor der Umsetzung des Abkommens anfallen. Zu diesem Zweck:
+
+  - 1\. unterrichtet die Kommission die Schweiz über die geschätzte Höhe des erforderlichen Beitrags aus den Jahren vor der Umsetzung des Abkommens;
+  - 2\. fordert die Kommission von der Schweiz zum 15. Mai eines jeden Jahres, beginnend mit dem 15. Mai 2021, die Zahlung ihres Beitrags zu diesen früheren Kosten in gleichen Raten über die ersten vier Jahre der Nutzung des ICS2.
+
+- e)
+
+  Die Schweiz erklärt sich bereit, sich an den Entwicklungskosten der zentralen Komponenten des ICS2 zu beteiligen. Zu diesem Zweck:
+
+  - 1\. erklärt sich die Schweiz bereit, sich an den Entwicklungskosten des Release 1, Release 2 und Release 3 zu beteiligen;
+  - 2\. fordert die Kommission von der Schweiz zum 15. Mai eines jeden Jahres, beginnend mit dem 15. Mai 2021, die Zahlung ihres Beitrags zur Entwicklung des neuesten Release auf der Grundlage einer ordnungsgemäss dokumentierten Belastungsanzeige der Kommission.
+
+- f)
+
+  Die Schweiz erklärt sich bereit, sich an den Betriebskosten der zentralen Komponenten des ICS2 zu beteiligen. Zu diesem Zweck:
+
+  - 1\. informiert die Kommission die Schweiz zum 31. Juli eines jeden Jahres, beginnend mit dem 31. Juli 2021, über die geschätzten Betriebskosten für das folgende Jahr, und übermittelt der Schweiz schriftlich die geschätzte Höhe des erforderlichen Beitrags für das nächste Jahr. Die Schweiz wird auf dieselbe Weise und zu demselben Zeitpunkt, wie die Kommission jedes andere Mitglied des ICS2 informiert, zudem über die wichtigsten Aspekte der Entwicklung des ICS2 informiert;
+  - 2\. fordert die Kommission die Schweiz einmalig zum 15. Mai 2021 zur Zahlung ihres Jahresbeitrags für die Betriebskosten für 2020 in Höhe von 110 000 EUR sowie des geschätzten Jahresbeitrags für 2021 in Höhe von 280 000 EUR auf. Zum 15. Mai eines jeden Jahres, beginnend mit dem 15. Mai 2022, fordert die Kommission die Schweiz zur Zahlung ihres Jahresbeitrags für das jeweilige Jahr zuzüglich des Betrags des (negativen oder positiven) Saldos des Vorjahrs auf der Grundlage einer ordnungsgemäss dokumentierten Zahlungsaufforderung der Kommission auf;
+  - 3\.
+
+    zum 31. Januar eines jeden Jahres, beginnend mit dem 31. Januar 2022, wird die Kommission:
+
+    - – über die bisherigen jährlichen Kosten für den Betrieb des ICS2 und TAPAS auf der Grundlage des von der Schweiz bereits gezahlten Betrags im Vergleich zu den der Kommission tatsächlich entstandenen Kosten Rechenschaft ablegen und der Schweiz einen Kontoauszug mit einer Aufschlüsselung der Kosten vorlegen, in dem die verschiedenen Dienste und die Lieferung von Software aufgeführt sind, und
+    - – der Schweiz die tatsächlichen jährlichen Kosten, das heisst die tatsächlichen Betriebskosten des vergangenen Jahres, mitteilen. Die Kommission wird die tatsächlichen und geschätzten Kosten in Übereinstimmung mit ihren Verträgen mit Auftragnehmern berechnen, die im Rahmen der geltenden Verfahren für die Auftragsvergabe festgelegt wurden.
+
+- Der (negative oder positive) Saldo zwischen den tatsächlichen Kosten und dem geschätzten Betrag des Vorjahres wird ermittelt und der Schweiz mittels eines Kontoauszugs der Kommission mitgeteilt. Der Kontoauszug enthält den geschätzten jährlichen Betrag für den Beitrag plus den Betrag des negativen oder positiven Saldos, woraus sich ein Nettobetrag ergibt, den die Kommission der Schweiz über die jährliche Zahlungsaufforderung in Rechnung stellt.
+- g) Die Zahlung durch die Schweiz erfolgt nach dem Ausstellungsdatum der Zahlungsaufforderung. Alle Zahlungen müssen innerhalb von 60 Tagen auf das auf der Zahlungsaufforderung angegebene Bankkonto der Kommission überwiesen werden.
+- h) Zahlt die Schweiz die in Buchstabe c vorgesehenen Beträge später als zu den in Buchstabe g genannten Terminen, so kann die Kommission Verzugszinsen erheben (zu dem von der Europäischen Zentralbank bei ihren Geschäften in Euro angewandten und im Amtsblatt der Europäischen Union, Reihe C, veröffentlichten Zinssatz, der am Tag des Ablaufs der Rückzahlungsfrist gilt, zuzüglich eineinhalb Prozent). Der gleiche Zinssatz gilt für die von der Union zu leistenden Zahlungen.
+- i) Falls die Schweiz spezifische Anpassungen oder neue IT-Produkte für die zentralen Komponenten, Anwendungen oder Dienste des ICS2 beantragt, unterliegen die Einleitung und der Abschluss dieser Entwicklungen einer separaten, gegenseitigen Vereinbarung über den Ressourcenbedarf und die Entwicklungskosten.
+- j)
+
+  Alle von den Vertragsparteien erstellten und gepflegten Schulungsmaterialien werden allen Parteien kostenlos auf elektronischem Weg zur Verfügung gestellt. Die Vervielfältigung, Verteilung, Darstellung und Nutzung dieser geteilten Schulungsmaterialien und die Erstellung darauf basierender Arbeiten durch die Schweiz ist nur dann erlaubt:
+
+  - 1\. wenn der Verfasser in der in den Schulungsunterlagen dargelegten Weise genannt wird;
+  - 2\. wenn dies zu nichtkommerziellen Zwecken erfolgt.
+
+- k) Die Vertragsparteien vereinbaren, ihre jeweiligen Verantwortlichkeiten in Bezug auf die Nutzung der zentralen Komponenten des ICS2 nach dem vorliegenden Anhang anzuerkennen und zu erfüllen.
+- l) Im Falle ernsthafter Bedenken hinsichtlich des ordnungsgemässen Funktionierens des vorliegenden Anhangs oder des ICS2 kann jede Vertragspartei die Anwendung dieser Vereinbarung aussetzen, sofern die andere Vertragspartei drei Monate im Voraus schriftlich davon in Kenntnis gesetzt wird.
+
+## Titel IV Summarische Ausgangsanmeldung
+
+#### Art. 18
+
+**Form und Inhalt der summarischen Ausgangsanmeldung**
+
+<sup>(1)</sup> Die summarische Ausgangsanmeldung ist mithilfe eines EDV-Verfahrens abzugeben. Es können auch Handels-, Hafen- oder Beförderungsunterlagen verwendet werden, sofern sie die erforderlichen Angaben enthalten.
+
+<sup>(2)</sup> Die summarische Ausgangsanmeldung muss die für eine solche Anmeldung festgelegten Angaben nach Anhang B Kapitel 3 Spalten A1 und A2 der Delegierten Verordnung (EU) 2015/2446 der Kommission enthalten und den jeweiligen Formaten, Codes und Kardinalitäten der Durchführungsverordnung (EU) 2015/2447 der Kommission entsprechen. Sie ist im Einklang mit den Erläuterungen in diesen Anhängen auszufüllen. Die summarische Ausgangsanmeldung ist von der Person, die sie ausfüllt, zu authentifizieren.
+
+<sup>(3)</sup>
+
+Die Zollbehörden gestatten die Abgabe einer papiergestützten summarischen Ausgangsanmeldung oder ersatzweise jedes andere zwischen den Zollbehörden vereinbarte Verfahren nur unter den folgenden Umständen:
+
+- a) wenn das EDV-System der Zollbehörden nicht funktioniert;
+- b) wenn die EDV-Anwendung der Person, die die summarische Ausgangsanmeldung abgibt, nicht funktioniert, sofern die Zollbehörden auf diese Anmeldungen ein Risikomanagement anwenden, das dem auf elektronisch abgegebene summarische Ausgangsanmeldungen angewendeten Risikomanagement gleichwertig ist. Die papiergestützte summarische Ausgangsanmeldung ist von der Person, die sie ausfüllt, zu unterzeichnen. Den papiergestützten summarischen Ausgangsanmeldungen sind gegebenenfalls Ladelisten oder andere geeignete Listen beizufügen, und sie müssen die Angaben nach Absatz 2 enthalten.
+
+<sup>(4)</sup> Jede Vertragspartei legt die Bedingungen und Modalitäten fest, nach denen die zur Abgabe der summarischen Ausgangsanmeldung verpflichtete Person eine oder mehrere Angaben in dieser Anmeldung nach deren Abgabe ändern kann.
+
+#### Art. 19
+
+**Befreiung von der Verpflichtung zur Abgabe einer summarischen Ausgangsanmeldung**
+
+<sup>(1)</sup>
+
+Für folgende Waren braucht keine summarische Ausgangsanmeldung abgegeben zu werden:
+
+- a) elektrische Energie;
+- b) durch Rohrleitungen beförderte Waren;
+- c) Briefsendungen, das heisst Briefe, Postkarten, Blindenpost und Drucksachen, die nicht ein- oder ausfuhrabgabenpflichtig sind;
+- d) nach den Vorschriften des Weltpostvereins beförderte Waren in Postsendungen;
+- e) Waren, für die nach den Rechtsvorschriften der Vertragsparteien eine mündliche Zollanmeldung oder eine Erklärung durch einfachen Grenzübertritt zulässig ist, mit Ausnahme von Paletten, Containern und Beförderungsmitteln des Strassen-, Schienen-, Luft-, See- oder Binnenschiffsverkehrs, die im Rahmen eines Beförderungsvertrags benutzt werden;
+- f) Waren im persönlichen Gepäck von Reisenden;
+- g) Waren mit Carnet ATA und Carnet CPD;
+- h) Waren, die nach dem Wiener Übereinkommen vom 18. April 1961 über diplomatische Beziehungen, dem Wiener Übereinkommen vom 24. April 1963 über konsularische Beziehungen oder anderen Konsularübereinkommen oder dem New Yorker Übereinkommen vom 16. Dezember 1969 über Sondermissionen zollbefreit sind;
+- i) Waffen und militärisches Gerät, die von den für die militärische Verteidigung der Vertragsparteien zuständigen Behörden aus dem Zollgebiet einer Vertragspartei verbracht werden, sei es in einem Militärtransport, sei es durch eine allein für die Militärbehörden durchgeführte Beförderung;
+- j)
+
+  die folgenden, direkt zu Offshore-Anlagen, die von einer im Zollgebiet einer Vertragspartei niedergelassenen Person betrieben werden, aus dem Zollgebiet einer Vertragspartei verbrachten Waren:
+
+  - 1\. Waren, die bei der Errichtung, Reparatur, Wartung oder Umrüstung der Offshore-Anlagen verwendet werden sollen,
+  - 2\. Waren, die für die Ausrüstung dieser Offshore-Anlagen verwendet werden sollen,
+  - 3\. Vorräte, die auf den Offshore-Anlagen verwendet oder verbraucht werden sollen;
+
+- k) Waren, die mit einem NATO-Vordruck 302 nach dem am 19. Juni 1951 in London unterzeichneten Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Streitkräfte oder mit einem EU-Vordruck 302 nach Artikel 1 Nummer 51 der Delegierten Verordnung (EU) 2015/2446 der Kommission befördert werden;
+- l) Waren, die zum Einbau als Teile von oder Zubehör zu Schiffen oder Luftfahrzeugen und für den Betrieb der Schiffe und Luftfahrzeuge geliefert werden, sowie Lebensmittel und andere Gegenstände zum Verbrauch oder Verkauf an Bord;
+- m) Hausrat im Sinne des Rechts der Vertragsparteien, sofern er nicht im Rahmen eines Beförderungsvertrags befördert wird;
+- n) Waren, die aus den Zollgebieten der Vertragsparteien nach Ceuta und Melilla, Helgoland, in die Republik San Marino und den Staat Vatikanstadt, die Gemeinden Livigno und die Schweizer Zollexklaven Samnaun und Sampuoir verbracht wurden;
+- o) Waren an Bord von Schiffen, die zwischen Häfen der Vertragsparteien verkehren, ohne einen Zwischenstopp in einem Hafen ausserhalb der Zollgebiete der Vertragsparteien einzulegen;
+- p) Waren an Bord von Luftfahrzeugen, die zwischen Flughäfen der Vertragsparteien verkehren, ohne einen Zwischenstopp auf einem Flughafen ausserhalb der Zollgebiete der Vertragsparteien einzulegen.
+
+<sup>(2)</sup> Eine summarische Ausgangsanmeldung ist vorbehaltlich der Einhaltung des in Artikel 9 Absatz 3 des Abkommens festgelegten Verfahrens nicht erforderlich, wenn ein internationales Sicherheitsabkommen zwischen einer Vertragspartei und einem Drittland etwas anderes vorsieht.
+
+<sup>(3)</sup>
+
+Bei Waren in den folgenden Situationen ist keine summarische Ausgangsanmeldung erforderlich:
+
+- a) wenn ein Schiff, das die Waren zwischen Häfen der Vertragsparteien befördert, einen Hafen ausserhalb der Zollgebiete der Vertragsparteien anlaufen soll und die Waren während des Aufenthalts im Hafen ausserhalb der Zollgebiete der Vertragsparteien an Bord des Schiffs verbleiben sollen;
+- b) wenn ein Luftfahrzeug, das die Waren zwischen Flughäfen der Vertragsparteien befördert, einen Flughafen ausserhalb der Zollgebiete der Vertragsparteien anfliegen soll und die Waren während des Aufenthalts auf dem Flughafen ausserhalb der Zollgebiete der Vertragsparteien an Bord des Luftfahrzeugs verbleiben sollen;
+- c) wenn die Waren in einem Hafen oder Flughafen nicht von dem Beförderungsmittel abgeladen werden, das sie in die Zollgebiete der Vertragsparteien verbracht hat und wieder aus diesen Gebieten verbringen wird;
+- d) wenn die Waren in einem vorigen Hafen oder Flughafen in den Zollgebieten der Vertragsparteien verladen wurden, eine Ausgangsanmeldung abgegeben wurde oder eine Befreiung von der Verpflichtung zur Abgabe einer Ausgangsanmeldung Anwendung gefunden hat und die Waren an Bord des Beförderungsmittels verbleiben, das sie aus den Zollgebieten der Vertragsparteien verbringen wird;
+- e)
+
+  wenn Waren, die sich in vorübergehender Verwahrung befinden oder in das Freizonenverfahren übergeführt wurden, von dem Beförderungsmittel, mit dem sie unter Überwachung durch dieselbe Zollstelle zum Verwahrungslager oder der Freizone verbracht wurden, auf ein Schiff, Flugzeug oder eine Eisenbahn umgeladen werden, das bzw. die sie aus dem Verwahrungslager oder der Freizone und somit aus den Zollgebieten der Vertragsparteien verbringt, sofern:
+
+  - 1\. die Umladung innerhalb von 14 Tagen nach der Gestellung der Waren nach dem Recht der jeweiligen Vertragspartei oder in aussergewöhnlichen Umständen, in denen die Frist von 14 Tagen nicht ausreicht, innerhalb eines längeren von den Zollbehörden bewilligten Zeitraums erfolgt,
+  - 2\. den Zollbehörden Angaben über die Waren zur Verfügung stehen,
+  - 3\. sich der Bestimmungsort und der Empfänger der Waren nach Kenntnis des Beförderers nicht geändert haben;
+
+- f) wenn in die Zollgebiete der Vertragsparteien verbrachte Waren von der zuständigen Zollbehörde abgelehnt und unverzüglich in das Ausfuhrland zurückgesendet wurden.
+
+#### Art. 20
+
+**Ort der Abgabe einer summarischen Ausgangsanmeldung**
+
+<sup>(1)</sup> Die Ausgangsanmeldung ist bei der zuständigen Behörde derjenigen Vertragspartei abzugeben, in deren Zollgebiet die Ausgangsförmlichkeiten für die für ein Drittland bestimmten Waren erledigt werden. Jedoch ist eine Ausfuhranmeldung, die als summarische Ausgangsanmeldung verwendet wird, bei der zuständigen Behörde derjenigen Vertragspartei abzugeben, in deren Zollgebiet die Ausfuhrförmlichkeiten für die für ein Drittland bestimmten Waren erledigt werden. In beiden Fällen führt die zuständige Behörde auf der Grundlage der in dieser Anmeldung enthaltenen Angaben die Risikoanalyse und die für erforderlich erachteten sicherheitsrelevanten Zollkontrollen durch.
+
+<sup>(2)</sup> Durchqueren für ein Drittland bestimmte Waren, die das Zollgebiet einer der Vertragsparteien verlassen haben, das Zollgebiet der anderen Vertragspartei, und folgt auf die Ausfuhrförmlichkeiten ein Versandverfahren in Anwendung des Übereinkommens über ein gemeinsames Versandverfahren, so werden die Angaben nach Artikel 18 Absatz 2 unter Verwendung des NCTS an die zuständige Behörde der zweiten Vertragspartei übermittelt.
+
+Die Vertragsparteien tauschen über das in Artikel 12 Absatz 3 des Abkommens genannte System die Informationen über die unter den Buchstaben a und b des vorliegenden Absatzes genannten Risiken aus.
+
+In diesem Fall stellt die Zollstelle der ersten Vertragspartei die Ergebnisse ihrer sicherheitsrelevanten Zollkontrollen der Zollbehörde der zweiten Vertragspartei zur Verfügung, wenn:
+
+- a) die Zollbehörde die Risiken als beträchtlich einschätzt und eine Zollkontrolle für erforderlich erachtet und die Kontrolle ergeben hat, dass das Ereignis, das den Tatbestand eines Risikos schafft, eingetreten ist; oder
+- b) die Kontrolle zwar nicht ergeben hat, dass das Ereignis, das den Tatbestand eines Risikos schafft, eingetreten ist, die Zollbehörde jedoch der Auffassung ist, dass ein hohes Risiko an einem anderen Ort in den Zollgebieten der Vertragsparteien besteht; oder
+- c) es für eine einheitliche Anwendung der Regeln im Abkommen erforderlich ist.
+
+<sup>(3)</sup> Abweichend von Absatz 1 ist die summarische Ausgangsanmeldung ausser im Luftverkehr direkt bei der zuständigen Ausgangszollstelle der zweiten Vertragspartei abzugeben, wenn die Waren das Zollgebiet einer Vertragspartei über das Zollgebiet der anderen Vertragspartei in ein Drittland verlassen und den Ausfuhrförmlichkeiten kein Versandverfahren gemäss dem Übereinkommen über ein gemeinsames Versandverfahren folgt.
+
+#### Art. 21
+
+**Fristen für die Abgabe einer summarischen Ausgangsanmeldung**
+
+<sup>(1)</sup>
+
+Die summarische Ausgangsanmeldung ist innerhalb der folgenden Fristen abzugeben:
+
+- a)
+
+  im Seeverkehr:
+
+  - 1\. für Beförderungen von Containerfracht, ausser für Beförderungen gemäss den Nummern 2 und 3, spätestens 24 Stunden vor dem Verladen der Waren auf das Schiff, auf dem sie die Zollgebiete der Vertragsparteien verlassen sollen,
+  - 2\. für Beförderungen von Containerfracht zwischen den Zollgebieten der Vertragsparteien und Grönland, den Färöern oder Island oder den Häfen an Ostsee, Nordsee, Schwarzem Meer oder Mittelmeer und allen Häfen Marokkos spätestens zwei Stunden vor dem Auslaufen aus einem Hafen in den Zollgebieten der Vertragsparteien,
+  - 3\. für Beförderungen von Containerfracht zwischen den französischen überseeischen Departements, den Azoren, Madeira oder den Kanarischen Inseln und Gebieten ausserhalb der Zollgebiete der Vertragsparteien bei einer Fahrtdauer von weniger als 24 Stunden spätestens zwei Stunden vor dem Auslaufen aus einem Hafen in den Zollgebieten der Vertragsparteien,
+  - 4\. bei Beförderungen ohne Containerfracht spätestens zwei Stunden vor dem Auslaufen aus einem Hafen in den Zollgebieten der Vertragsparteien;
+
+- b) im Luftverkehr spätestens 30 Minuten vor dem Abflug von einem Flughafen in den Zollgebieten der Vertragsparteien;
+- c) im Strassen- und Binnenschifffahrtsverkehr spätestens eine Stunde, bevor die Waren die Zollgebiete der Vertragsparteien verlassen;
+- d)
+
+  im Schienenverkehr:
+
+  - 1\. dauert die Zugfahrt vom letzten Zugbildungsbahnhof bis zur Ausgangszollstelle weniger als zwei Stunden, spätestens eine Stunde vor Ankunft der Waren an dem Ort, für den die Ausgangszollstelle zuständig ist,
+  - 2\. in allen anderen Fällen spätestens zwei Stunden, bevor die Waren die Zollgebiete der Vertragsparteien verlassen.
+
+<sup>(2)</sup>
+
+In den folgenden Fällen entspricht die Frist für die Abgabe der summarischen Ausgangsanmeldung der Frist, die für das beim Verlassen der Zollgebiete der Vertragsparteien genutzte aktive Beförderungsmittel gilt:
+
+- a) wenn die Waren bei der Ausgangszollstelle auf einem Beförderungsmittel eintreffen und vor dem Verlassen der Zollgebiete der Vertragsparteien auf ein anderes Beförderungsmittel umgeladen werden (intermodaler Verkehr);
+- b) wenn die Waren bei der Ausgangszollstelle auf einem Beförderungsmittel eintreffen, das beim Verlassen der Zollgebiete der Vertragsparteien selbst auf einem aktiven Beförderungsmittel befördert wird (Huckepack-Verkehr).
+
+<sup>(3)</sup> Die in den Absätzen 1 und 2 genannten Fristen gelten nicht im Fall höherer Gewalt.
+
+<sup>(4)</sup>
+
+Abweichend von den Absätzen 1 und 2 kann jede Vertragspartei in folgenden Fällen andere Fristen bestimmen:
+
+- a) im Falle eines Versands nach Artikel 20 Absatz 2, um eine zuverlässige Risikoanalyse zu ermöglichen und Sendungen mit dem Ziel abzufangen, an diesen allfällige sicherheitsrelevante Zollkontrollen durchzuführen;
+- b) wenn ein internationales Abkommen zwischen dieser Vertragspartei und einem Drittland besteht, vorausgesetzt, das in Artikel 9 Absatz 3 des vorliegenden Abkommens festgelegte Verfahren wurde eingehalten.
+
+Anhang II[^t-3]
 
 ## Zugelassener Wirtschaftsbeteiligter
 
-[^t-3]: Bereinigt gemäss Art. 2 des Beschlusses Nr. 1/2013 des Gemischten Ausschusses EU-Schweiz vom 6. Juni 2013, in Kraft getreten am 7. Juni 2013 ([AS 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)).
+[^t-3]: Fassung gemäss Art. 2 des Beschlusses Nr. 1/2021 des Gemischten Ausschusses EU-Schweiz vom 12. März 2021, vorläufig angewendet seit 15. März 2021 ([AS 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
 
 ## Titel I Zuerkennung des Status des zugelassenen Wirtschaftsbeteiligten
 
@@ -597,147 +1207,189 @@ Anhang II*[^t-3]*
 
 **Allgemeines**
 
-<sup>(1)</sup>
+Für die Bewilligung des Status eines zugelassenen Wirtschaftsbeteiligten sind folgende Voraussetzungen zu erfüllen:
 
-Die Kriterien für die Zuerkennung des Status des «zugelassenen Wirtschaftsbeteiligten» umfassen:
-
-- a) die bisherige zufriedenstellende Einhaltung der Zollvorschriften;
-- b) ein effizientes System der Führung der Geschäftsbücher und gegebenenfalls der Beförderungsunterlagen, das angemessene sicherheitsrelevante Zollkontrollen ermöglicht;
-- c) den Nachweis der Zahlungsfähigkeit; und
-- d) angemessene Sicherheitsstandards.
-
-<sup>(2)</sup> Jede Vertragspartei bestimmt das Verfahren für die Beantragung und Zuerkennung des Status des zugelassenen Wirtschaftsbeteiligten selbst, ebenso wie die Rechtswirkungen dieses Status.
-
-<sup>(3)</sup> Die Vertragsparteien stellen sicher, dass ihre Zollbehörden überwachen, ob der zugelassene Wirtschaftsbeteiligte die Voraussetzungen und Kriterien weiterhin erfüllt, und dass sie insbesondere bei wichtigen Gesetzesänderungen in diesem Bereich oder wenn begründete Hinweise darauf vorliegen, dass der zugelassene Wirtschaftsbeteiligte die einschlägigen Voraussetzungen nicht mehr erfüllt, eine erneute Prüfung der Voraussetzungen und Kriterien durchführen.
+- a) der Antragsteller darf keine schwerwiegenden oder wiederholten Verstösse gegen die zoll- oder steuerrechtlichen Vorschriften und keine schweren Straftaten im Rahmen seiner Wirtschaftstätigkeit begangen haben;
+- b) der Antragsteller muss ein erhöhtes Mass an Kontrolle seiner Tätigkeiten und der Warenbewegung mittels eines Systems der Führung der Geschäftsbücher und gegebenenfalls Beförderungsunterlagen, das geeignete Zollkontrollen ermöglicht, nachweisen;
+- c) Zahlungsfähigkeit, die als nachgewiesen gilt, wenn der Antragsteller sich in einer zufrieden stellenden finanziellen Lage befindet, die es ihm erlaubt, seinen Verpflichtungen in Zusammenhang mit der betreffenden Tätigkeit nachzukommen;
+- d) angemessene Sicherheitsstandards, die als erfüllt gelten, wenn der Antragsteller nachweist, dass er angemessene Massnahmen aufrecht erhält, um für die Sicherheit der internationalen Lieferkette zu sorgen, wozu auch die körperliche Unversehrtheit und Zugangskontrollen, logistische Prozesse und Umgang mit spezifischen Arten von Waren, Personal und die Feststellung seiner Handelspartner zählen.
 
 #### Art. 2
 
-**Bisherige Einhaltung**
+**Einhaltung der Vorschriften**
 
-<sup>(1)</sup>
+<sup>(1)</sup> Die Voraussetzung des Artikels 1 Buchstabe a gilt als erfüllt, wenn
 
-Die bisherige Einhaltung der Zollvorschriften gilt als zufriedenstellend, wenn folgende Personen in den drei Jahren vor der Antragstellung keine schweren oder wiederholten Zuwiderhandlungen gegen die Zollvorschriften begangen haben:
+- a) keine Entscheidung einer Verwaltungs- oder Justizbehörde vorliegt, gemäss der eine der Personen nach Buchstabe b in den letzten drei Jahren einen schwerwiegenden Verstoss oder wiederholte Verstösse gegen die zoll- oder steuerrechtlichen Vorschriften im Rahmen ihrer Wirtschaftstätigkeit begangen hat; und
+- b)
 
-- a) der Antragsteller;
-- b) die Personen, die für das antragstellende Unternehmen verantwortlich sind oder die Kontrolle über seine Leitung ausüben;
-- c) gegebenenfalls der gesetzliche Vertreter des Antragstellers in Zollangelegenheiten; und
-- d) die Person, die im antragstellenden Unternehmen für Zollangelegenheiten verantwortlich ist.
+  keine der folgenden Personen, falls zutreffend, eine schwere Straftat im Rahmen ihrer Wirtschaftstätigkeit, einschliesslich der Wirtschaftstätigkeit des Antragstellers, begangen hat:
 
-<sup>(2)</sup> Jedoch kann die Einhaltung der Zollvorschriften als zufriedenstellend beurteilt werden, wenn die zuständige Zollbehörde der Auffassung ist, dass etwaige Zuwiderhandlungen im Verhältnis zu Zahl oder Umfang der zollrelevanten Vorgänge geringfügig sind und keinen Zweifel am guten Glauben des Antragstellers aufkommen lassen.
+  - 1\. der Antragsteller,
+  - 2\. Beschäftigte des Antragstellers, die für dessen Zollangelegenheiten zuständig sind, und
+  - 3\. Personen, die für das antragstellende Unternehmen verantwortlich sind oder die Kontrolle über seine Leitung ausüben.
 
-<sup>(3)</sup> Sind die Personen, die die Kontrolle über das antragstellende Unternehmen ausüben, in einem Drittland ansässig oder wohnhaft, so beurteilen die Zollbehörden die Einhaltung der Zollvorschriften anhand der ihnen verfügbaren Aufzeichnungen und Informationen.
+<sup>(2)</sup> Jedoch kann die Voraussetzung des Artikels 1 Buchstabe a als erfüllt gelten, wenn die entscheidungsbefugte Zollbehörde der Auffassung ist, dass ein Verstoss im Verhältnis zu Zahl oder Umfang der betreffenden Vorgänge geringfügig ist, und sie nicht am guten Glauben des Antragstellers zweifelt.
 
-<sup>(4)</sup> Besteht der Antragsteller seit weniger als drei Jahren, so beurteilen die Zollbehörden anhand der ihnen vorliegenden Aufzeichnungen und Informationen, ob er die Zollvorschriften eingehalten hat.
+<sup>(3)</sup> Ist die in Absatz 1 Buchstabe b Nummer 3 genannte Person, bei der es sich nicht um den Antragsteller handelt, in einem Drittland ansässig oder wohnhaft, so beurteilt die entscheidungsbefugte Zollbehörde anhand der ihr verfügbaren Aufzeichnungen und Informationen, ob die Voraussetzung des Artikels 1 Buchstabe a erfüllt ist.
+
+<sup>(4)</sup> Ist der Antragsteller seit weniger als drei Jahren ansässig, beurteilt die entscheidungsbefugte Zollbehörde anhand der ihr verfügbaren Aufzeichnungen und Informationen, ob die Voraussetzung des Artikels 1 Buchstabe a erfüllt ist.
 
 #### Art. 3
 
-**Effizientes System für die Verwaltung der Geschäfts- und Beförderungsunterlagen**
+**Zufriedenstellendes System der Führung der Geschäftsbücher und Beförderungsunterlagen**
 
-Damit die Zollbehörden feststellen können, ob der Antragsteller über ein zufriedenstellendes System für die Verwaltung der Geschäfts- und gegebenenfalls der Beförderungsunterlagen verfügt, muss dieser folgenden Anforderungen genügen:
+Die Voraussetzung des Artikels 1 Buchstabe b gilt als erfüllt, wenn folgende Bedingungen erfüllt sind:
 
-- a) er muss ein Buchführungssystem verwenden, das den allgemein anerkannten Buchführungsgrundsätzen des Ortes, wo die Buchführung stattfindet, entspricht und das auf Buchprüfungen basierende Zollkontrollen erleichtert;
-- b) er muss der Zollbehörde den physischen oder elektronischen Zugang zu den Zoll- und gegebenenfalls den Beförderungsunterlagen ermöglichen;
-- c) er muss über eine der Art und Grösse des Unternehmens entsprechende und für die Verwaltung der Warenbewegungen geeignete Verwaltungsorganisation sowie über ein internes Kontrollsystem verfügen, mit dem illegale oder nicht ordnungsgemässe Geschäfte erkannt werden können;
-- d) gegebenenfalls über zufriedenstellende Verfahren für die Verwaltung von Einfuhr- bzw. Ausfuhrgenehmigungen oder -lizenzen verfügen;
-- e) er muss über ausreichende Verfahren für die Archivierung der Unterlagen und Informationen des Unternehmens und zum Schutz vor Datenverlust verfügen;
-- f) er muss sicherstellen, dass das Personal dafür sensibilisiert wird, dass in Fällen, in denen die Einhaltung der Vorschriften schwierig ist, die Zollbehörden zu unterrichten und geeignete Kontakte für die Unterrichtung der Zollbehörden herzustellen sind;
-- g) er muss geeignete IT-Schutzmassnahmen ergriffen haben, um sein Computersystem vor unbefugtem Eindringen zu schützen und seine Unterlagen zu sichern.
+- a) der Antragsteller verwendet ein Buchführungssystem, das den allgemein anerkannten Buchführungsgrundsätzen der Vertragspartei, in der die Bücher geführt werden, entspricht, das auf Buchprüfungen basierende Zollkontrollen ermöglicht und in dem die Daten so archiviert werden, dass zum Zeitpunkt der Dateneingabe ein Prüfpfad entsteht;
+- b) die Aufzeichnungen, die der Antragsteller für Zollzwecke führt, sind in sein Buchführungssystem integriert oder ermöglichen den Abgleich der Informationen mit den Angaben im Buchführungssystem;
+- c) der Antragsteller gestattet der Zollbehörde physischen Zugang zu seinen Buchführungssystemen sowie gegebenenfalls zu seinen Geschäftsbüchern und Beförderungsunterlagen;
+- d) der Antragsteller gestattet der Zollbehörde den elektronischen Zugang zu seinen Buchführungssystemen sowie gegebenenfalls zu seinen Geschäftsbüchern und Beförderungsunterlagen, sofern es sich um elektronische Systeme und Aufzeichnungen handelt;
+- e) der Antragsteller verfügt über eine Verwaltungsorganisation, die Art und Grösse des Unternehmens entspricht und für die Verwaltung der Warenbewegungen geeignet ist, sowie über interne Kontrollen, mit denen Fehler verhindert, erkannt und korrigiert sowie illegale oder nicht ordnungsgemässe Geschäfte verhindert und erkannt werden können;
+- f) der Antragsteller verfügt gegebenenfalls über ausreichende Verfahren für die Bearbeitung von Lizenzen und Genehmigungen, die auf der Grundlage handelspolitischer Massnahmen erteilt wurden oder sich auf den Handel mit landwirtschaftlichen Erzeugnissen beziehen;
+- g) der Antragsteller verfügt über ausreichende Verfahren für die Archivierung seiner Aufzeichnungen und Informationen und für den Schutz vor Informationsverlust;
+- h) der Antragsteller trägt dafür Sorge, dass das betreffende Personal angewiesen ist, die Zollbehörden über jegliches Problem hinsichtlich der Einhaltung der Vorschriften zu unterrichten, und legt Verfahren für diese Unterrichtung fest;
+- i) der Antragsteller verfügt über geeignete Sicherheitsmassnahmen zum Schutz seines Computersystems vor unbefugtem Eindringen und zur Sicherung seiner Unterlagen;
+- j) der Antragsteller verfügt gegebenenfalls über ausreichende Verfahren für die Bearbeitung von Einfuhr- und Ausfuhrlizenzen im Zusammenhang mit Verboten und Beschränkungen, einschliesslich Massnahmen zur Unterscheidung der Waren, die Verboten oder Beschränkungen unterliegen, von anderen Waren, und Massnahmen zur Gewährleistung der Einhaltung dieser Verbote und Beschränkungen.
 
 #### Art. 4
 
 **Zahlungsfähigkeit**
 
-<sup>(1)</sup> Für die Zwecke dieses Artikels gilt als Zahlungsfähigkeit eine gesicherte finanzielle Lage, die es dem Antragsteller unter Berücksichtigung der Art der Geschäftstätigkeit ermöglicht, seine Verpflichtungen zu erfüllen.
+<sup>(1)</sup>
 
-<sup>(2)</sup> Die Voraussetzung der Zahlungsfähigkeit des Antragstellers gilt als erfüllt, wenn diese Zahlungsfähigkeit für die letzten drei Jahre nachgewiesen werden kann.
+Die Voraussetzung des Artikels 1 Buchstabe c gilt als erfüllt, wenn auf den Antragsteller Folgendes zutrifft:
 
-<sup>(3)</sup> Besteht der Antragsteller seit weniger als drei Jahren, so wird seine Zahlungsfähigkeit anhand der verfügbaren Aufzeichnungen und Informationen beurteilt.
+- a) der Antragsteller befindet sich in keinem Insolvenzverfahren;
+- b) in den letzten drei Jahren vor Antragstellung ist der Antragsteller seinen finanziellen Verpflichtungen in Bezug auf die Zahlung von Zöllen, Steuern oder sonstigen Abgaben, die bei oder im Zusammenhang mit der Einfuhr oder Ausfuhr von Waren erhoben wurden, nachgekommen;
+- c) der Antragsteller weist anhand von Aufzeichnungen und Daten der letzten drei Jahre vor Antragstellung nach, dass er über eine ausreichende finanzielle Leistungsfähigkeit verfügt, um seinen Verpflichtungen in Bezug auf Art und Umfang seiner Geschäftstätigkeit nachzukommen, und dass sein Nettovermögen nicht negativ ist, es sei denn, der Negativsaldo kann ausgeglichen werden.
+
+<sup>(2)</sup> Besteht der Antragsteller seit weniger als drei Jahren, so wird seine Zahlungsfähigkeit im Sinne des Artikels 1 Buchstabe c anhand der verfügbaren Aufzeichnungen und Daten überprüft.
 
 #### Art. 5
 
-**Angemessene Sicherheitsstandards**
+**Sicherheitsstandards**
 
 <sup>(1)</sup>
 
-Die Sicherheitsstandards des Antragstellers gelten als zufriedenstellend, wenn folgende Voraussetzungen erfüllt sind:
+Die Voraussetzung des Artikels 1 Buchstabe d gilt als erfüllt, wenn die folgenden Bedingungen erfüllt sind:
 
-- a) Die Gebäude, die für die von dem Zertifikat erfassten Vorgänge verwendet werden sollen, sind aus Materialien gebaut, die unrechtmässiges Betreten verhindern und Schutz vor unrechtmässigem Eindringen bieten;
-- b) geeignete Zugangskontrollmassnahmen sind vorhanden, die den unbefugten Zugang zu Versandbereichen, Verladerampen und Frachträumen verhindern;
-- c) die Massnahmen für die Behandlung der Waren umfassen Schutz vor dem Einbringen, dem Austausch und dem Verlust von Materialien und vor Manipulationen an den Ladeeinheiten;
-- d) gegebenenfalls bestehen Verfahren für die Handhabung von Einfuhr- bzw. Ausfuhrgenehmigungen im Zusammenhang mit Verboten und Beschränkungen, mit denen diese Waren von anderen Waren unterschieden werden;
-- e) der Antragsteller hat Massnahmen getroffen, die eine eindeutige Feststellung seiner Handelspartner ermöglichen, um die internationale Lieferkette zu sichern;
-- f) der Antragsteller unterzieht, soweit gesetzlich zulässig, künftig in sicherheitsrelevanten Bereichen tätige Bedienstete einer Sicherheitsüberprüfung und nimmt regelmässig Hintergrundüberprüfungen vor;
-- g) der Antragsteller stellt sicher, dass die betreffenden Bediensteten aktiv an Programmen zur Sensibilisierung in Sicherheitsfragen teilnehmen.
+- a) die Gebäude, die für die Vorgänge im Zusammenhang mit der Bewilligung verwendet werden sollen, sind gegen unrechtmässiges Eindringen geschützt und bestehen aus Materialien, die unrechtmässiges Betreten verhindern;
+- b) der unbefugte Zugang zu Büroräumen, Versandbereichen, Verladerampen, Frachträumen und anderen einschlägigen Orten wird durch geeignete Massnahmen verhindert;
+- c) Massnahmen für die Behandlung der Waren wurden ergriffen, die Schutz vor unerlaubtem Einbringen oder Austausch, vor unzulässiger Handhabung von Waren und vor Manipulationen an den Ladeeinheiten bieten;
+- d) der Antragsteller hat Massnahmen ergriffen, die es ermöglichen, seine Handelspartner eindeutig festzustellen und durch geeignete vertragliche Vereinbarungen oder sonstige seinem Geschäftsmodell entsprechende geeignete Massnahmen zu gewährleisten, dass diese Handelspartner für die Sicherheit ihres Teils der internationalen Lieferkette sorgen;
+- e) der Antragsteller unterzieht, soweit nach nationalem Recht zulässig, künftig in sicherheitsrelevanten Bereichen tätige Mitarbeiter einer Sicherheitsüberprüfung und unterzieht Mitarbeiter, die bereits in solchen Bereichen arbeiten, regelmässig und bei Bedarf einer Hintergrundüberprüfung;
+- f) der Antragsteller verfügt über geeignete Sicherheitsverfahren für externe Dienstleister, die er unter Vertrag nimmt;
+- g) der Antragsteller sorgt dafür, dass seine Mitarbeiter mit sicherheitsrelevanten Zuständigkeiten regelmässig an Programmen teilnehmen, die ihr Bewusstsein für die jeweiligen Sicherheitsfragen weiter schärfen;
+- h) der Antragsteller hat eine für Sicherheitsfragen zuständige Kontaktperson benannt.
 
-<sup>(2)</sup> Ist der Antragsteller in der Gemeinschaft oder in der Schweiz ansässig und Inhaber eines auf der Grundlage einer internationalen Übereinkunft ausgestellten international anerkannten Sicherheitszeugnisses, eines europäischen Sicherheitszeugnisses auf der Grundlage des Gemeinschaftsrechts, einer internationalen Norm der Internationalen Organisation für Normung oder einer europäischen Norm der europäischen Normenorganisationen oder eines anderen anerkannten Zeugnisses, so gelten die in Absatz 1 genannten Kriterien als erfüllt, soweit für die Erteilung dieser Zeugnisse dieselben Kriterien oder denen des vorliegenden Anhangs vergleichbare Kriterien gelten.
+<sup>(2)</sup> Ist der Antragsteller Inhaber eines auf der Grundlage einer internationalen Übereinkunft, einer internationalen Norm der Internationalen Organisation für Normung oder einer europäischen Norm einer europäischen Normungsorganisation ausgestellten Sicherheitszeugnisses, so werden diese Zeugnisse bei der Prüfung, ob die Voraussetzungen des Artikels 1 Buchstabe d erfüllt sind, berücksichtigt.
+
+Die Voraussetzungen gelten als erfüllt, soweit feststeht, dass für die Ausstellung des betreffenden Zeugnisses dieselben oder entsprechende Voraussetzungen gelten wie in Artikel 1 Buchstabe d festgelegt.
+
+<sup>(3)</sup> Ist der Antragsteller reglementierter Beauftragter oder bekannter Versender im Bereich der Sicherheit in der Zivilluftfahrt, so gelten die in Absatz 1 genannten Voraussetzungen in Bezug auf die Örtlichkeiten und Aktivitäten, für die dem Antragsteller der Status eines reglementierten Beauftragten oder bekannten Versenders bewilligt wurde, als erfüllt, soweit für die Bewilligung des Status eines reglementierten Beauftragten oder bekannten Versenders dieselben oder entsprechende Voraussetzungen gelten wie in Artikel 1 Buchstabe d festgelegt.
 
 ## Titel II Erleichterungen für zugelassene Wirtschaftsbeteiligte
 
 #### Art. 6
 
-Die Zollbehörden gewähren zugelassenen Wirtschaftsbeteiligten unter anderem folgende Erleichterungen:
+**Erleichterungen für zugelassene Wirtschaftsbeteiligte**
 
-- – die zuständigen Zollstellen können dem zugelassenen Wirtschaftsbeteiligten vor Ankunft der Waren im Zollgebiet mitteilen, dass die Sendung nach einer Analyse des Sicherheitsrisikos für eine weitergehende Warenkontrolle ausgewählt wurde, wenn dies die durchzuführenden Kontrollen nicht beeinträchtigt; die zuständigen Zollstellen können aber auch dann eine Warenkontrolle vornehmen, wenn der zugelassene Wirtschaftsbeteiligte nicht vorab informiert wurde;
-- – der zugelassene Wirtschaftsbeteiligte darf summarische Eingangs- oder Ausgangsanmeldungen mit den reduzierten Anforderungen an die Datenelemente gemäss Anhang 30A der Verordnung (EWG) Nr. 2454/93 der Kommission vom 2. Juli 1993[^annexII-titII-6-1] mit Durchführungsvorschriften zu der Verordnung (EWG) Nr. 2913/92 des Rates zur Festlegung des Zollkodex der Gemeinschaften, zuletzt geändert durch die Verordnung (EU) Nr. 430/2010 der Kommission[^annexII-titII-6-2], abgeben; handelt es sich bei dem zugelassenen Wirtschaftsbeteiligten jedoch um einen Beförderer, einen Spediteur oder einen Zollagenten, so gelten die reduzierten Anforderungen für ihn nur dann, wenn er für Rechnung eines zugelassenen Wirtschaftsbeteiligten an der Ein- oder Ausfuhr von Waren beteiligt ist;
-- – der zugelassene Wirtschaftsbeteiligte wird weniger häufig einer Prüfung von Waren oder Unterlagen unterzogen als andere Wirtschaftsbeteiligte; die Zollbehörden können jedoch von dieser Regel abweichen, um einer besonderen Gefährdung oder in anderen Vorschriften vorgesehenen Kontrollverpflichtungen Rechnung zu tragen;
-- – entscheidet sich die Zollbehörde, eine Sendung mit einer von einem zugelassenen Wirtschaftsbeteiligten abgegebenen summarischen Eingangs- oder Ausgangsanmeldung zu kontrollieren, so räumt sie dieser Kontrolle Vorrang ein; im Übrigen kann diese Kontrolle auf Antrag des zugelassenen Wirtschaftsbeteiligten und mit Zustimmung der Zollbehörde an einem anderen als dem Ort stattfinden, an dem diese Behörde ihre Kontrollen normalerweise durchführt.
+<sup>(1)</sup> Gibt ein zugelassener Wirtschaftsbeteiligter zu Sicherheitszwecken für sich selbst eine summarische Ausgangsanmeldung in Form einer Zollanmeldung oder einer Wiederausfuhranmeldung ab, so sind keine weiteren Angaben als die in diesen Anmeldungen verlangten Angaben erforderlich.
 
-[^annexII-titII-6-1]: ABl. L 253 vom 11.10.1993, S. 1.
-[^annexII-titII-6-2]: ABl. L 125 vom 21.5.2010, S. 10.
-
-## Titel III Aussetzung und Widerruf des Status des zugelassenen Wirtschaftsbeteiligten
+<sup>(2)</sup> Gibt ein zugelassener Wirtschaftsbeteiligter zu Sicherheitszwecken für eine andere Person, die ebenfalls ein zugelassener Wirtschaftsbeteiligter ist, eine summarische Ausgangsanmeldung in Form einer Zollanmeldung oder einer Wiederausfuhranmeldung ab, so sind keine weiteren Angaben als die in diesen Anmeldungen verlangten Angaben erforderlich.
 
 #### Art. 7
+
+**Begünstigungen bei der Risikobewertung und Kontrolle**
+
+<sup>(1)</sup> Bei zugelassenen Wirtschaftsbeteiligten werden eine Warenbeschau und eine Prüfung der Unterlagen weniger häufig vorgenommen als bei anderen Wirtschaftsbeteiligten.
+
+<sup>(2)</sup> Hat ein zugelassener Wirtschaftsbeteiligter eine summarische Eingangsanmeldung abgegeben oder wurde ihm bewilligt, anstelle einer summarischen Eingangsanmeldung eine Zollanmeldung oder eine Anmeldung zur vorübergehenden Verwahrung abzugeben, oder wurde einem zugelassenen Wirtschaftsbeteiligten die Nutzung von Handels-, Hafen- oder Transportinformationssystemen für die Abgabe der Angaben einer summarischen Eingangsanmeldung nach Artikel 10 Absatz 8 des Abkommens und Artikel 1 Absatz 4 des Anhangs I bewilligt, so teilt die zuständige Zollbehörde es dem zugelassenen Wirtschaftsbeteiligten mit, wenn die Sendung für eine Warenbeschau ausgewählt wurde. Diese Mitteilung erfolgt vor Ankunft der Waren in den Zollgebieten der Vertragsparteien.
+
+Diese Mitteilung wird auch dem Beförderer zur Verfügung gestellt, falls dieser nicht mit dem zugelassenen Wirtschaftsbeteiligten nach Unterabsatz 1 identisch ist, sofern es sich bei dem Beförderer ebenfalls um einen zugelassenen Wirtschaftsbeteiligten handelt, der an die elektronischen Systeme für die Anmeldungen nach Unterabsatz 1 angeschlossen ist.
+
+Diese Mitteilung erfolgt nicht, wenn sie die durchzuführenden Kontrollen oder deren Ergebnisse beeinträchtigen könnte.
+
+<sup>(3)</sup> Werden von einem zugelassenen Wirtschaftsbeteiligten angemeldete Sendungen für eine Warenbeschau oder eine Prüfung von Unterlagen ausgewählt, so werden diese Kontrollen vorrangig durchgeführt.
+
+Auf Antrag des zugelassenen Wirtschaftsbeteiligten können diese Kontrollen an einem anderen Ort als dem der Gestellung der Waren vorgenommen werden.
+
+#### Art. 8
+
+**Ausnahmen von den Begünstigungen**
+
+Die Begünstigungen nach Artikel 7 werden nicht gewährt bei Zollkontrollen im Zusammenhang mit einem besonderen Gefährdungsniveau oder bei Kontrollverpflichtungen aufgrund anderer Rechtsvorschriften.
+
+Die Zollbehörden geben jedoch Sendungen, die von einem zugelassenen Wirtschaftsbeteiligten angemeldet werden, Vorrang bei der erforderlichen Bearbeitung und den erforderlichen Förmlichkeiten und Kontrollen.
+
+## Titel III Aussetzung, Rücknahme und Widerruf des Status als zugelassener Wirtschaftsbeteiligter
+
+#### Art. 9
 
 **Statusaussetzung**
 
 <sup>(1)</sup>
 
-Die erteilende Zollbehörde setzt den Status des zugelassenen Wirtschaftsbeteiligten aus, wenn:
+Eine Entscheidung zur Bewilligung des Status eines zugelassenen Wirtschaftsbeteiligten wird von der zuständigen Zollbehörde ausgesetzt, wenn:
 
-- a) festgestellt wurde, dass die Voraussetzungen und Kriterien für das Erteilen des Status des zugelassenen Wirtschaftsbeteiligten nicht mehr erfüllt sind;
-- b) die Zollbehörden hinreichenden Grund zu der Annahme haben, dass ein zugelassener Wirtschaftsbeteiligter eine Handlung begangen hat, die strafrechtlich verfolgt werden kann und mit einem Verstoss gegen die Zollvorschriften in Zusammenhang steht;
-- c) der zugelassene Wirtschaftsbeteiligte darum ersucht, weil er vorübergehend nicht in der Lage ist, die Voraussetzungen und Kriterien für die Zuerkennung des Status des zugelassenen Wirtschaftsbeteiligten zu erfüllen.
+- a) diese Zollbehörde der Auffassung ist, dass hinreichende Gründe für eine Rücknahme oder einen Widerruf der Entscheidung vorliegen könnten, sie aber noch nicht über alle erforderlichen Elemente verfügt, um über die Rücknahme oder den Widerruf entscheiden zu können;
+- b) diese Zollbehörde der Auffassung ist, dass die Bedingungen für die Entscheidung nicht erfüllt sind oder dass der Inhaber der Entscheidung nicht die ihm aus dieser Entscheidung erwachsenden Pflichten erfüllt und es angezeigt ist, dem Inhaber der Entscheidung Zeit für die Ergreifung von Massnahmen zu geben, damit er die Bedingungen oder Pflichten erfüllen kann;
+- c) der Inhaber der Entscheidung eine Aussetzung beantragt, da er vorübergehend nicht in der Lage ist, die mit der Entscheidung verbundenen Bedingungen oder aus ihr erwachsenden Pflichten zu erfüllen.
 
-<sup>(2)</sup> Liegt ein Fall nach Unterabsatz 1 Buchstabe b vor, kann die Zollbehörde jedoch entscheiden, den Status des zugelassenen Wirtschaftsbeteiligten nicht auszusetzen, wenn sie der Auffassung ist, dass ein Verstoss im Verhältnis zu Zahl oder Umfang der zollrelevanten Vorgänge geringfügig ist und keinen Zweifel am guten Glauben des zugelassenen Wirtschaftsbeteiligten aufkommen lässt.
+<sup>(2)</sup> In den in Absatz 1 Buchstaben b und c genannten Fällen teilt der Inhaber der Entscheidung der Zollbehörde die Massnahmen mit, die er ergreifen wird, um die Erfüllung der Bedingungen oder der Pflichten sicherzustellen, sowie den Zeitraum, den er für die Ergreifung dieser Massnahmen benötigt.
 
-<sup>(3)</sup> Die Aussetzung erfolgt mit sofortiger Wirkung, wenn die Art oder das Ausmass der Gefahr für die Sicherheit der Bürger, die Gesundheit der Bevölkerung oder die Umwelt dies erfordern.
+Hat der betreffende Wirtschaftsbeteiligte zur Zufriedenheit der Zollbehörden die erforderlichen Massnahmen getroffen, um die Voraussetzungen und Kriterien zu erfüllen, die jeder zugelassene Wirtschaftsbeteiligte erfüllen muss, hebt die erteilende Zollbehörde die Aussetzung auf.
 
-<sup>(4)</sup> Die Aussetzung hat keine Auswirkung auf laufende Zollverfahren, die bereits vor dem Zeitpunkt der Aussetzung eingeleitet wurden.
+<sup>(3)</sup> Die Aussetzung hat keine Auswirkung auf laufende Zollverfahren, die bereits vor dem Zeitpunkt der Aussetzung eingeleitet wurden.
 
-<sup>(5)</sup> Jede Vertragspartei setzt die Dauer der Aussetzung so fest, dass es dem zugelassenen Wirtschaftsbeteiligten möglich ist, Abhilfe zu schaffen.
+<sup>(4)</sup> Der Inhaber der Entscheidung wird von der Aussetzung der Entscheidung unterrichtet.
 
-<sup>(6)</sup> Hat der betreffende Wirtschaftsbeteiligte zur Zufriedenheit der Zollbehörden die notwendigen Massnahmen getroffen, die für die Erfüllung der Voraussetzungen und Kriterien durch einen zugelassenen Wirtschaftsbeteiligten erforderlich sind, widerruft die erteilende Zollbehörde die Aussetzung.
+#### Art. 10
 
-#### Art. 8
-
-**Widerruf des Status**
+**Rücknahme des Status**
 
 <sup>(1)</sup>
 
-Die erteilende Zollbehörde widerruft den Status des zugelassenen Wirtschaftsbeteiligten in folgenden Fällen:
+Eine Entscheidung zur Bewilligung des Status eines zugelassenen Wirtschaftsbeteiligten wird zurückgenommen, wenn alle folgenden Voraussetzungen erfüllt sind:
 
-- a) Der zugelassene Wirtschaftsbeteiligte hat einen schweren Verstoss gegen die Zollvorschriften begangen und die Möglichkeiten eines Rechtsmittels sind ausgeschöpft;
-- b) der zugelassene Wirtschaftsbeteiligte trifft während der Dauer der Aussetzung nicht die nach Artikel 7 Absatz 5 erforderlichen Massnahmen;
-- c) der zugelassene Wirtschaftsbeteiligte hat den Widerruf beantragt.
+- a) die Entscheidung wurde auf der Grundlage unrichtiger oder unvollständiger Informationen getroffen;
+- b) der Inhaber der Entscheidung wusste oder vernünftigerweise hätte wissen müssen, dass die Informationen unrichtig oder unvollständig waren;
+- c) wären die Angaben richtig und vollständig gewesen, so wäre eine andere Entscheidung erlassen worden.
 
-<sup>(2)</sup> In dem Fall nach Buchstabe a kann die Zollbehörde jedoch entscheiden, den Status des zugelassenen Wirtschaftsbeteiligten nicht zu widerrufen, wenn sie der Auffassung ist, dass die Zuwiderhandlungen im Verhältnis zu Zahl oder Umfang der zollrelevanten Vorgänge geringfügig sind und keinen Zweifel am guten Glauben des zugelassenen Wirtschaftsbeteiligten aufkommen lassen.
+<sup>(2)</sup> Der Inhaber der Entscheidung wird von der Rücknahme der Entscheidung unterrichtet.
 
-<sup>(3)</sup> Der Widerruf wird am Tag nach seiner Bekanntgabe wirksam.
+<sup>(3)</sup> Sofern in der Entscheidung in Übereinstimmung mit den zollrechtlichen Vorschriften nichts anderes bestimmt ist, wird die Rücknahme an dem Tag wirksam, an dem die ursprüngliche Entscheidung wirksam wurde.
 
-## Titel IV Informationsaustausch
+#### Art. 11
 
-#### Art. 9
+**Widerruf des Status**
 
-Die Kommission und die zuständige schweizerische Behörde tauschen regelmässig Informationen über die Identität ihrer in Sicherheitsbelangen zugelassenen Wirtschaftsbeteiligten aus und teilen auch folgende Informationen mit:
+<sup>(1)</sup> Eine Entscheidung zur Zulassung als zugelassener Wirtschaftsbeteiligter wird von den zuständigen Zollbehörden widerrufen, wenn
+
+- a) eine oder mehrere der Voraussetzungen für ihren Erlass nicht erfüllt waren oder nicht mehr erfüllt sind; oder
+- b) der Inhaber der Entscheidung einen entsprechenden Antrag stellt; oder
+- c) der Inhaber der Entscheidung innerhalb der gesetzten Frist nach Artikel 9 Absatz 1 Buchstaben b und c nicht die erforderlichen Massnahmen ergriffen hat, um die mit der Entscheidung verbundenen Bedingungen oder die aus dieser Entscheidung erwachsenden Pflichten zu erfüllen.
+
+<sup>(2)</sup> Der Widerruf wird am Tag nach seiner Mitteilung wirksam.
+
+<sup>(3)</sup> Der Inhaber der Entscheidung wird vom Widerruf der Entscheidung unterrichtet.
+
+## Titel IV
+
+#### Art. 12
+
+**Informationsaustausch**
+
+Die Vertragsparteien tauschen regelmässig Informationen über die Identität ihrer in Sicherheitsbelangen zugelassenen Wirtschaftsbeteiligten aus und teilen auch folgende Informationen mit:
 
 - a) die Kennnummer des Wirtschaftsbeteiligten (TIN – Trader Identification Number) in einem mit den Vorschriften über die EORI-Kennnummer kompatiblen Format;
 - b) den Namen und die Anschrift des zugelassenen Wirtschaftsbeteiligten;
 - c) die Nummer des Dokuments, durch das der Status des zugelassenen Wirtschaftsbeteiligten zuerkannt wurde;
 - d) den aktuellen Stand des Status (gültig, ausgesetzt, widerrufen);
-- e) die Perioden, in denen sich der Status geändert hat;
-- f) das Datum, ab dem das Zertifikat gültig ist;
-- g) die Behörde, die das Zertifikat ausgestellt hat.
+- e) die Zeiträume, in denen sich der Status geändert hat;
+- f) das Datum, ab dem die Entscheidung und nachfolgenden Vorgänge (Aussetzung und Widerruf) wirksam werden;
+- g) die Behörde, die die Entscheidung ausgestellt hat.
 
 Anhang III
 
@@ -750,18 +1402,3 @@ Anhang III
 (3) Die auf diese Weise bestimmten Schiedsrichter einigen sich auf einen Schiedsrichterobmann, der nicht die Staatsangehörigkeit einer der Vertragsparteien besitzt. Können letztere sich nicht innerhalb von zwei Monaten nach ihrer Ernennung auf den Schiedsrichterobmann einigen, so wird dieser von ihnen aus einer vom Gemischten Ausschuss aufgestellten Liste von sieben Personen ausgewählt. Der Gemischte Ausschuss erstellt und überprüft diese Liste nach Massgabe seiner Geschäftsordnung.
 
 (4) Sofern die Vertragsparteien nichts anderes beschliessen, erlässt das Schiedsgericht seine Verfahrensordnung. Es trifft seine Entscheidungen durch Mehrheitsbeschluss.
-
-## Gemeinsame Erklärung****
-
-[^annexIII-lvlu2-1]
-
-[^annexIII-lvlu2-1]: [AS 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)
-
-zu Anhang I Art. 1 Abs. 2 des Abkommens
-
-Hinsichtlich der für die summarische Eingangs- oder Ausgangsanmeldung vorgese-henen Angaben bestätigen die Vertragsparteien, dass:
-
-- – die Bestimmungen betreffend die EORI-Nummer; und
-- – die Anforderungen in Bezug auf Umleitungsanträge (Anhang 30A Num-mer 2.6 – Tabelle 6),
-
-die mit der Verordnung (EG) Nr. 312/2009 der Kommission vom 16. April 2009 eingeführt worden sind, nicht für die bei den schweizerischen Zollbehörden einge-reichten Anmeldungen gelten.

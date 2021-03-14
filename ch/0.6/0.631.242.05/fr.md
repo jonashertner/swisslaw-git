@@ -3,11 +3,11 @@ sr: "0.631.242.05"
 title: "Accord du 25 juin 2009 entre la Confédération suisse et la Communauté européenne relatif à la facilitation des contrôles et des formalités lors du transport des marchandises ainsi qu'aux mesures douanières de sécurité (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/150"
 language: fr
-version: 2013-06-07
+version: 2021-03-15
 adopted: 2009-06-25
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20130607/fr/xml/fedlex-data-admin-ch-eli-cc-2011-150-20130607-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20130607/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/150/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2011-150-20210315-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/150/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvé par l’Assemblée fédérale le 18 juin 2010[^t-1]
 
 Entré en vigueur par échange de notes le 1<sup>er</sup> janvier 2011
 
-(Etat le 7 juin 2013)
+(État le 15 mars 2021)
 
 [^t-1]: [RO 2011 981](https://fedlex.data.admin.ch/eli/oc/2011/149)
 
@@ -46,7 +46,7 @@ considérant que, pour des raisons de clarté et de renforcement de la sécurit�
 
 considérant l’accord de libre-échange conclu le 22 juillet 1972 entre la Communauté économique européenne et la Confédération suisse[^ingress-2];
 
-considérant la déclaration commune adoptée, le 9 avril 1984, par les ministres des pays de l’Association européenne de libre échange (AELE) et des Etats membres de la Communauté et par la Commission des Communautés européennes à Luxembourg, ainsi que la déclaration des ministres des pays de l’AELE et des ministres des Etats membres de la Communauté de Bruxelles, du 2 février 1988, visant à la création d’un espace économique européen dynamique, profitable à leurs pays;
+considérant la déclaration commune adoptée, le 9 avril 1984, par les ministres des pays de l’Association européenne de libre échange (AELE) et des États membres de la Communauté et par la Commission des Communautés européennes à Luxembourg, ainsi que la déclaration des ministres des pays de l’AELE et des ministres des États membres de la Communauté de Bruxelles, du 2 février 1988, visant à la création d’un espace économique européen dynamique, profitable à leurs pays;
 
 considérant que les Parties contractantes ont ratifié la Convention internationale sur l’harmonisation des contrôles des marchandises aux frontières[^ingress-3];
 
@@ -91,8 +91,8 @@ Aux fins du présent Accord, on entend par:
 
 - a) «contrôles»: toute opération par laquelle la douane ou tout autre service de contrôle procède à l’examen physique ou à l’inspection visuelle, soit du moyen de transport, soit des marchandises elles-mêmes afin de s’assurer que leur nature, leur origine, leur état, leur quantité ou leur valeur sont conformes aux données des documents présentés;
 - b) «formalités»: toute formalité à laquelle l’administration soumet l’opérateur et qui consiste en la présentation ou en l’examen des documents, des certificats accompagnant la marchandise ou, d’autres données, quel qu’en soit le mode ou le support, concernant la marchandise ou les moyens de transport;
-- c) «risque»: la probabilité que survienne, en liaison avec l’entrée, la sortie, le transit, le transfert et la destination particulière des marchandises circulant entre le territoire douanier de l’une des Parties contractantes et des pays tiers et la présence de marchandises n’étant pas en libre circulation sur le territoire de l’une des Parties contractantes, un événement qui constitue une menace pour la sécurité et la sûreté de la Communauté, de ses Etats membres ou de la Suisse, pour la santé publique, pour l’environnement ou pour les consommateurs;
-- d) «gestion des risques»: la détermination systématique des risques et la mise en œuvre de toutes les mesures nécessaires pour limiter l’exposition aux risques. Ce terme recouvre des activités comme la collecte de données et d’informations, l’analyse et l’évaluation des risques, la prescription et l’exécution de mesures ainsi que le contrôle et l’évaluation réguliers du processus et de ses résultats, sur la base de sources et de stratégies définies par la Communauté, ses Etats membres ou la Suisse, ou au niveau international.
+- c) «risque»: la probabilité que survienne, en liaison avec l’entrée, la sortie, le transit, le transfert et la destination particulière des marchandises circulant entre le territoire douanier de l’une des Parties contractantes et des pays tiers et la présence de marchandises n’étant pas en libre circulation sur le territoire de l’une des Parties contractantes, un événement qui constitue une menace pour la sécurité et la sûreté de la Communauté, de ses États membres ou de la Suisse, pour la santé publique, pour l’environnement ou pour les consommateurs;
+- d) «gestion des risques»: la détermination systématique des risques et la mise en œuvre de toutes les mesures nécessaires pour limiter l’exposition aux risques. Ce terme recouvre des activités comme la collecte de données et d’informations, l’analyse et l’évaluation des risques, la prescription et l’exécution de mesures ainsi que le contrôle et l’évaluation réguliers du processus et de ses résultats, sur la base de sources et de stratégies définies par la Communauté, ses États membres ou la Suisse, ou au niveau international.
 
 #### Art. 2
 
@@ -170,82 +170,97 @@ Les Parties contractantes s’efforcent de réaliser aux postes frontières, par
 
 ## Chapitre III Mesures douanières de sécurité
 
+[^chapIII-1]
+
+[^chapIII-1]: Nouvelle teneur selon l’art. 1 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
 #### Art. 9
 
-**Dispositions générales en matière de sécurité**
+**Dispositions générales en matière de sécurité et de sûreté**
 
-<sup>1.</sup> Les Parties contractantes s’engagent à mettre en place et à appliquer aux transports de marchandises en provenance ou à destination des pays tiers les mesures douanières de sécurité définies au présent chapitre et à garantir ainsi un niveau de sécurité équivalent à leurs frontières externes.
+<sup>1.</sup> Les Parties contractantes s’engagent à mettre en place et à appliquer aux transports de marchandises en provenance ou à destination des pays tiers les mesures douanières de sécurité définies au présent chapitre et à garantir ainsi un niveau de sécurité et de sûreté équivalent à leurs frontières extérieures.
 
 <sup>2.</sup> Les Parties contractantes renoncent à appliquer les mesures douanières de sécurité définies au présent chapitre lors du transport des marchandises entre leurs territoires douaniers.
 
 <sup>3.</sup> Les Parties contractantes se concertent préalablement à la conclusion de tout accord avec un pays tiers dans les domaines couverts par le présent chapitre, afin d’en garantir la cohérence avec le présent Accord, en particulier si l’accord envisagé comporte des dispositions dérogeant aux mesures douanières de sécurité définies au présent chapitre.
 
-#### Art. 10
+#### Art.10
 
 **Déclarations préalables à l’entrée et à la sortie des marchandises**
 
-<sup>1.</sup> Les marchandises introduites sur le territoire douanier des Parties contractantes en provenance d’un pays tiers font l’objet d’une déclaration d’entrée aux fins de sécurité (ci-après «déclaration sommaire d’entrée»), à l’exception des marchandises se trouvant à bord de moyens de transport qui ne font que transiter, sans interruption, par les eaux territoriales ou l’espace aérien du territoire douanier.
+<sup>1.</sup> Aux fins de la sécurité et de la sûreté, les marchandises introduites sur les territoires douaniers des Parties contractantes en provenance d’un pays tiers font l’objet d’une déclaration sommaire d’entrée, à l’exception des marchandises acheminées par des moyens de transport qui ne font que transiter, sans interruption, par les eaux territoriales ou l’espace aérien des territoires douaniers.
 
-<sup>2.</sup> Les marchandises qui sortent du territoire douanier des Parties contractantes à destination de pays tiers font l’objet d’une déclaration de sortie aux fins de sécurité (ci-après «déclaration sommaire de sortie»), à l’exception des marchandises acheminées par des moyens de transport qui ne font que transiter, sans interruption, par les eaux territoriales ou l’espace aérien du territoire douanier.
+<sup>2.</sup> Aux fins de la sécurité et de la sûreté, les marchandises qui sortent des territoires douaniers des Parties contractantes à destination de pays tiers font l’objet d’une déclaration sommaire de sortie, à l’exception des marchandises acheminées par des moyens de transport qui ne font que transiter, sans interruption, par les eaux territoriales ou l’espace aérien des territoires douaniers.
 
-<sup>3.</sup> La déclaration sommaire d’entrée ou de sortie est déposée avant l’introduction des marchandises sur le territoire douanier des Parties contractantes ou leur sortie de ce territoire.
+<sup>3.</sup> La déclaration sommaire d’entrée ou de sortie est déposée avant l’introduction des marchandises sur les territoires douaniers des Parties contractantes ou leur sortie de ces territoires.
 
-<sup>4.</sup> La présentation des déclarations d’entrée et de sortie visées aux par. 1 et 2 est facultative jusqu’au 31 décembre 2010 pour autant que des mesures transitoires dérogeant à l’obligation de présenter de telles déclarations soient applicables dans la Communauté.
+<sup>4.</sup> Lorsqu’il existe une obligation de déposer une déclaration sommaire d’entrée ou de sortie pour les marchandises entrant sur les territoires douaniers des Parties contractantes ou sortant de ces territoires, mais qu’aucune déclaration n’a été déposée, l’une des personnes mentionnées au par. 5 ou 6 procède au dépôt immédiat de cette déclaration ou, si les autorités douanières l’autorisent, présente à la place une déclaration en douane ou une déclaration de dépôt temporaire qui comprend au moins les énonciations requises pour une déclaration sommaire d’entrée ou de sortie. Dans ce cas, les autorités douanières soumettent ces marchandises à l’analyse de risque à des fins de sécurité et de sûreté sur la base de la déclaration en douane ou de la déclaration de dépôt temporaire.
 
-Lorsque, selon les termes de l’al. 1, il n’est pas déposé de déclaration sommaire d’entrée ou de sortie, l’analyse de risque en matière de sécurité telle que mentionnée à l’art. 12 doit être conduite par les autorités douanières au plus tard lors de la présentation des marchandises à l’arrivée ou à la sortie sur la base des déclarations en douane couvrant lesdites marchandises ou sur toute autre information à leur disposition.
+<sup>5.</sup> Chaque Partie contractante définit les personnes responsables du dépôt des déclarations sommaires de sortie ainsi que les autorités compétentes pour recevoir ces déclarations.
 
-<sup>5.</sup> Chaque Partie contractante définit les personnes qui sont tenues au dépôt de la déclaration sommaire d’entrée ou de sortie ainsi que les autorités compétentes pour recevoir cette déclaration.
+<sup>6.</sup> La déclaration sommaire d’entrée peut être déposée par le transporteur.
 
-<sup>6.</sup>
+Dans des cas spécifiques, lorsque toutes les énonciations de la déclaration sommaire d’entrée qui sont nécessaires à l’analyse de risque à des fins de sécurité et de sûreté ne peuvent pas être obtenues des personnes visées au premier alinéa, il peut être exigé d’autres personnes qu’elles communiquent ces énonciations dans la mesure où elles les détiennent et qu’elles disposent des droits nécessaires pour le faire.
 
-L’annexe I au présent Accord fixe:
+Chacune des personnes qui fournit les énonciations de la déclaration sommaire d’entrée est responsable des énonciations qu’elle a communiquées.
 
-- – la forme et le contenu de la déclaration sommaire d’entrée et de sortie;
-- – les exceptions au dépôt de la déclaration sommaire d’entrée ou de sortie;
+Nonobstant les obligations du transporteur, la déclaration sommaire d’entrée peut aussi être déposée par l’une des personnes suivantes:
+
+- a) l’importateur, le destinataire ou toute autre personne au nom ou pour le compte de laquelle le transporteur agit;
+- b) toute personne en mesure de présenter ou de faire présenter les marchandises en question au bureau de douane de première entrée.
+
+<sup>7.</sup> Par dérogation au par. 6 du présent article, jusqu’aux dates de déploiement du système électronique visé à l’art. 1, par. 1, de l’annexe I, chaque Partie contractante peut définir les personnes qui doivent déposer la déclaration sommaire d’entrée ainsi que les moyens pour le dépôt, l’échange d’informations et la demande de modification et/ou d’invalidation en ce qui concerne ladite déclaration.
+
+<sup>8.</sup>
+
+Les autorités douanières des Parties contractantes peuvent définir les cas dans lesquels une déclaration en douane ou une déclaration de dépôt temporaire peut être utilisée comme déclaration sommaire d’entrée ou de sortie, à condition que:
+
+- a) la déclaration en douane ou la déclaration de dépôt temporaire contienne toutes les énonciations nécessaires à une déclaration sommaire d’entrée ou de sortie, et
+- b) la déclaration de remplacement soit déposée au bureau de douane compétent avant l’expiration du délai de dépôt de la déclaration sommaire d’entrée ou de sortie.
+
+<sup>9.</sup> – toute autre disposition nécessaire à l’application du présent article..
+
+L’annexe I définit:
+
+- – le système électronique relatif à la déclaration sommaire d’entrée;
+- – la forme et les énonciations de la déclaration sommaire d’entrée ou de sortie;
+- – les exceptions à l’obligation de déposer une déclaration sommaire d’entrée ou de sortie;
 - – le lieu du dépôt de la déclaration sommaire d’entrée ou de sortie;
-- – le délai dans lequel la déclaration sommaire d’entrée ou de sortie est déposée, et
-- – toutes autres dispositions nécessaires à l’application du présent article.
-
-<sup>7.</sup> Une déclaration en douane peut être utilisée comme déclaration sommaire d’entrée ou de sortie à condition qu’elle réponde aux conditions fixées pour cette déclaration sommaire.
+- – les délais de dépôt de la déclaration sommaire d’entrée ou de sortie;
+- – les modalités techniques relatives aux systèmes électroniques utilisés pour déposer la déclaration sommaire d’entrée;
+- – les modalités de financement en ce qui concerne les responsabilités, les engagements et les attentes lors de la mise en œuvre et du fonctionnement du système de contrôle des importations 2;
 
 #### Art. 11
 
 **Opérateur économique agréé**
 
-<sup>1.</sup> Une Partie contractante accorde, sous réserve des critères fixés dans l’annexe II du présent Accord, le statut d’«opérateur économique agréé» en matière de sécurité à tout opérateur économique établi sur son territoire douanier.
-
-Il peut toutefois être dérogé, à certaines conditions et pour des catégories particulières d’opérateurs économiques agréés, à l’obligation d’être établi sur le territoire douanier de la Partie contractante où l’octroi du statut est sollicité, compte tenu, en particulier, d’accords avec des pays tiers. En outre, chaque Partie contractante détermine si et à quelles conditions une compagnie aérienne ou maritime non établie dans son territoire mais y disposant d’un bureau régional peut se voir accorder ce statut.
+<sup>1.</sup> Une Partie contractante accorde, sous réserve des critères fixés dans l’annexe II, le statut d’«*opérateur économique agréé*» en matière de sécurité à tout opérateur économique établi sur son territoire douanier et, dans le cas de la Suisse, dans ses exclaves douanières de Samnaun et Sampuoir.
 
 L’opérateur économique agréé bénéficie de facilités en ce qui concerne les contrôles douaniers touchant à la sécurité.
 
-Sous réserve des règles et conditions énoncées au par. 2, le statut d’opérateur économique agréé octroyé par une Partie contractante est reconnu par l’autre Partie contractante, sans préjudice des contrôles douaniers, en particulier en vue de la mise en œuvre d’accords avec des pays tiers prévoyant des mécanismes de reconnaissance mutuelle des statuts d’opérateurs économiques agréés.
+Sous réserve des règles et des conditions énoncées au par. 2, le statut d’opérateur économique agréé octroyé par une Partie contractante est reconnu par l’autre Partie contractante, sans préjudice des contrôles douaniers, en particulier en vue de la mise en œuvre d’accords avec des pays tiers prévoyant des mécanismes de reconnaissance mutuelle des statuts d’opérateurs économiques agréés.
 
 <sup>2.</sup>
 
-L’annexe II au présent Accord fixe:
+L’annexe II établit:
 
 - – les règles relatives à l’octroi du statut d’opérateur économique agréé, en particulier les critères d’octroi de ce statut et les conditions de mise en œuvre de ces critères;
-- – le type de facilités qui peuvent être accordées;
-- – les règles relatives à la suspension et à la révocation du statut d’opérateur économique agréé;
-- – les modalités concernant l’échange entre les Parties contractantes d’informations relatives à leurs opérateurs économiques agréés;
-- – toute autre disposition nécessaire à l’application du présent article.
+- – le type de facilités qui sont accordées;
+- – les règles relatives à la suspension, à l’annulation et à la révocation du statut d’opérateur économique agréé;
+- – les modalités concernant l’échange, entre les Parties contractantes, d’informa–tions relatives à leurs opérateurs économiques agréés;
+- – toute autre disposition nécessaire à l’application du présent article
 
 #### Art. 12
 
-**Contrôles douaniers de sécurité et gestion des risques en matière de sécurité**
+**Contrôles douaniers de sécurité et de sûreté et gestion des risques en matière de sécurité et de sûreté**
 
-<sup>1.</sup> Les contrôles douaniers de sécurité autres que les contrôles inopinés doivent reposer sur une analyse des risques utilisant des procédés informatiques.
+<sup>1.</sup> Les contrôles douaniers de sécurité et de sûreté autres que les contrôles inopinés sont fondés principalement sur l’analyse de risque pratiquée à l’aide de procédés informatiques de traitement des données, et visent à déceler et à évaluer les risques et à élaborer les contre-mesures nécessaires, sur la base des critères établis par les Parties contractantes.
 
-<sup>2.</sup> Chaque Partie contractante définit à cette fin un cadre de gestion des risques, des critères de risques ainsi que les domaines de contrôle douanier prioritaires en matière de sécurité.
+<sup>2.</sup> Les contrôles douaniers de sécurité et de sûreté sont réalisés dans un cadre commun de gestion des risques, qui repose sur l’échange d’informations sur les risques et des résultats des analyses de risques entre les autorités douanières des Parties contractantes. Grâce à sa participation au comité du code des douanes visé à l’art. 23, l’autorité douanière suisse contribue à établir des critères et normes de risque communs, des mesures de contrôle communes ainsi que des domaines de contrôle prioritaires communs en lien avec les énonciations des déclarations sommaires d’entrée et de sortie. Les contrôles fondés sur ces informations et critères sont effectués sans préjudice d’autres contrôles douaniers.
 
-<sup>3.</sup> Les Parties contractantes reconnaissent l’équivalence de leurs systèmes de gestion des risques en matière de sécurité.
+<sup>3.</sup> Les Parties contractantes utilisent un système commun de gestion des risques pour échanger des informations sur les risques, des renseignements sur la mise en œuvre des critères et normes de risque communs, des domaines de contrôle prioritaires communs et de la gestion des crises douanières, ainsi que sur les résultats de l’analyse de risque et des contrôles.
 
-<sup>4.</sup>
-
-Les Parties contractantes coopèrent en vue:
-
-- – d’échanger des informations permettant d’améliorer et de renforcer leur analyse des risques et l’efficacité des contrôles douaniers en matière de sécurité, et
-- – de définir dans des délais appropriés un cadre commun de gestion des risques, des critères de risques communs ainsi que des domaines de contrôle prioritaires communs et de mettre en place un système électronique pour la mise en œuvre de cette gestion commune des risques.
+<sup>4.</sup> Les Parties contractantes reconnaissent l’équivalence de leurs systèmes de gestion des risques en matière de sécurité et de sûreté.
 
 <sup>5.</sup> Le comité mixte adopte toute disposition nécessaire à l’application du présent article.
 
@@ -255,7 +270,9 @@ Les Parties contractantes coopèrent en vue:
 
 <sup>1.</sup> Le comité mixte définit les modalités selon lesquelles les Parties contractantes entendent assurer le suivi de la mise en œuvre du présent chapitre et vérifier le respect de ses dispositions ainsi que celles des annexes du présent Accord.
 
-<sup>2.</sup> Le suivi visé au par. 1 peut notamment être assuré par
+<sup>2.</sup>
+
+Le suivi visé au par. 1 peut notamment être assuré par:
 
 - – une évaluation périodique de la mise en œuvre du présent chapitre, en particulier de l’équivalence des mesures douanières de sécurité;
 - – un examen en vue d’en améliorer l’application ou d’en modifier les dispositions afin de mieux remplir ses objectifs;
@@ -267,9 +284,9 @@ Les Parties contractantes coopèrent en vue:
 
 **Protection du secret professionnel et des données personnelles**
 
-Les informations échangées par les Parties contractantes dans le cadre des mesures instaurées au présent chapitre bénéficient de la protection du secret professionnel et de la protection des données personnelles telle que définies par les lois applicables en la matière sur le territoire de la Partie contractante qui les reçoit.
+Les informations échangées par les Parties contractantes dans le cadre des mesures instaurées au présent chapitre bénéficient de la protection du secret professionnel et des données personnelles telle que définie par les lois applicables en la matière sur le territoire de la Partie contractante qui les reçoit. Le transfert de données personnelles respecte les exigences des lois applicables en matière de protection des données dans la Partie contractante qui procède au transfert.
 
-En particulier, ces informations ne peuvent pas être transférées à d’autres personnes que les organes compétents dans la Partie contractante concernée ni être utilisées par des organes de celle-ci à d’autres fins que celles prévues par le présent Accord.
+En particulier, ces informations ne peuvent pas être transférées à d’autres personnes que les autorités compétentes dans la Partie contractante destinataire ni être utilisées par ces autorités à d’autres fins que celles prévues par le présent Accord.
 
 ## Chapitre IV Coopération
 
@@ -304,7 +321,7 @@ La Partie contractante concernée veille à ce que les mesures prises en vue de 
 
 **Fluidité du trafic**
 
-<sup>1.</sup> Les Parties contractantes prennent les mesures nécessaires pour garantir que les temps d’attente causés par les différents contrôles et formalités n’excèdent pas les délais nécessaires à leur bonne exécution. A cet effet, elles organisent les horaires d’intervention des services appelés à effectuer les contrôles et formalités, les effectifs disponibles ainsi que les modalités pratiques de traitement des marchandises et des documents liées à l’exécution des contrôles et formalités, de manière à réduire dans toute la mesure du possible les temps d’attente dans le déroulement du trafic.
+<sup>1.</sup> Les Parties contractantes prennent les mesures nécessaires pour garantir que les temps d’attente causés par les différents contrôles et formalités n’excèdent pas les délais nécessaires à leur bonne exécution. À cet effet, elles organisent les horaires d’intervention des services appelés à effectuer les contrôles et formalités, les effectifs disponibles ainsi que les modalités pratiques de traitement des marchandises et des documents liées à l’exécution des contrôles et formalités, de manière à réduire dans toute la mesure du possible les temps d’attente dans le déroulement du trafic.
 
 <sup>2.</sup> Les autorités compétentes des pays sur le territoire desquels des perturbations sérieuses concernant le transport des marchandises de nature à compromettre les objectifs de facilitation et d’accélération du franchissement des frontières sont intervenues informent sans délai les autorités compétentes des autres pays concernés par ces perturbations.
 
@@ -352,7 +369,7 @@ La Partie contractante concernée veille à ce que les mesures prises en vue de 
 
 **Compétence du comité mixte**
 
-<sup>1.</sup> Le comité mixte est responsable de la gestion et de la bonne application du présent Accord. A cet effet, il formule des recommandations et arrête les décisions.
+<sup>1.</sup> Le comité mixte est responsable de la gestion et de la bonne application du présent Accord. À cet effet, il formule des recommandations et arrête les décisions.
 
 <sup>2.</sup> Le comité mixte peut modifier par voie de décision le chap. III et les annexes.
 
@@ -366,11 +383,11 @@ La Partie contractante concernée veille à ce que les mesures prises en vue de 
 
 **Développement du droit**
 
-<sup>1.</sup> Dès que la Communauté élabore une nouvelle législation dans un domaine régi par le chap. III, elle sollicite de manière informelle l’avis d’experts suisses, au même titre qu’elle demande l’avis d’experts des Etats membres.
+<sup>1.</sup> Dès que la Communauté élabore une nouvelle législation dans un domaine régi par le chap. III, elle sollicite de manière informelle l’avis d’experts suisses, au même titre qu’elle demande l’avis d’experts des États membres.
 
-<sup>2.</sup> Lorsque la Commission européenne transmet sa proposition aux Etats membres ou au Conseil de l’Union européenne, elle en adresse copie à la Suisse.
+<sup>2.</sup> Lorsque la Commission européenne transmet sa proposition aux États membres ou au Conseil de l’Union européenne, elle en adresse copie à la Suisse.
 
-A la demande de l’une des Parties contractantes, un échange de vues préliminaire a lieu au sein du comité mixte.
+À la demande de l’une des Parties contractantes, un échange de vues préliminaire a lieu au sein du comité mixte.
 
 <sup>3.</sup> Les Parties contractantes se consultent à nouveau, à la demande de l’une d’entre elles, au sein du comité mixte pendant la phase précédant l’adoption de l’acte communautaire dans un processus continu d’information et de consultation.
 
@@ -434,7 +451,7 @@ Lorsque tout retard risque de mettre en péril l’efficacité des mesures douan
 
 **Interdictions ou restrictions d’importation, d’exportation ou de transit des marchandises**
 
-Les dispositions du présent Accord ne font pas obstacle aux interdictions ou restrictions d’importation, d’exportation ou de transit des marchandises, édictées par les Parties contractantes ou par les Etats membres de la Communauté et justifiées pour des raisons d’ordre public, de sécurité publique et de moralité publique, de protection de la santé et de la vie des personnes, des animaux, des plantes ou de l’environnement, de protection des trésors nationaux possédant une valeur artistique, historique ou archéologique, ou de protection de la propriété industrielle ou commerciale.
+Les dispositions du présent Accord ne font pas obstacle aux interdictions ou restrictions d’importation, d’exportation ou de transit des marchandises, édictées par les Parties contractantes ou par les États membres de la Communauté et justifiées pour des raisons d’ordre public, de sécurité publique et de moralité publique, de protection de la santé et de la vie des personnes, des animaux, des plantes ou de l’environnement, de protection des trésors nationaux possédant une valeur artistique, historique ou archéologique, ou de protection de la propriété industrielle ou commerciale.
 
 #### Art. 31
 
@@ -472,274 +489,910 @@ Fait à Bruxelles, le vingt-cinq juin deux mille neuf.
 <tr><td>Pour la Confédération suisse: Rudolf Dietrich</td><td>Pour la Communauté européenne: Milena Vicenova Walter Deffa</td></tr>
 </table>
 
-Annexe I*[^t-2]*
+Annexe I[^t-2]
 
 ## Déclarations sommaires d’entrée et de sortie
 
-[^t-2]: Mise à jour par l’art. 1 de la Déc. n<sup>o</sup> 1/2013 du comité mixte UE-Suisse du 6 juin 2013, en vigueur depuis le 7 juin 2013 (RU **2018** 2921).
+[^t-2]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
+
+## Titre I Déclaration sommaire d’entrée
 
 #### Art. 1
 
-**Formes et contenu de la déclaration sommaire d’entrée ou de sortie**
-
-<sup>1.</sup> La déclaration sommaire d’entrée ou de sortie est effectuée par voie informatique. Il est également possible d’utiliser des documents commerciaux, portuaires ou de transport, à condition qu’ils contiennent les données nécessaires.
-
-<sup>2.</sup> La déclaration sommaire d’entrée ou de sortie contient les données prévues pour cette déclaration à l’annexe 30<sup>bis</sup> du règlement (CEE) n<sup>o</sup> 2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d’application du règlement (CEE) n<sup>o</sup> 2913/92 du Conseil établissant le code des douanes communautaire[^annexI-lvlu1-1-1] (ci-après dénommé «règlement (CEE) n<sup>o</sup> 2454/93»), règlement modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 430/2010 de la Commission[^annexI-lvlu1-1-2]. Elle est remplie conformément aux notes explicatives figurant dans ladite annexe 30<sup>bis</sup>. Elle est authentifiée par la personne qui l’établit.
-
-<sup>3.</sup> à condition qu’elles appliquent à ces déclarations un niveau de gestion des risques équivalent à celui qui est appliqué aux déclarations sommaires d’entrée ou de sortie par voie informatique.
-
-Les déclarations sommaires d’entrée ou de sortie sur support papier sont signées par la personne qui les a établies. Elles sont accompagnées, le cas échéant, de listes de chargement ou d’autres listes appropriées et contiennent les données visées au par. 2.
-
-Les autorités douanières n’acceptent le dépôt d’une déclaration sommaire d’entrée ou de sortie établie sur support papier ou par tout autre moyen que dans l’une des circonstances suivantes:
-
-- a) lorsque le système informatique des autorités douanières ne fonctionne pas;
-- b) lorsque l’application électronique de la personne procédant au dépôt de la déclaration sommaire d’entrée ou de sortie ne fonctionne pas;
-
-<sup>4.</sup> Chaque Partie contractante définit les conditions et modalités selon lesquelles la personne tenue au dépôt de la déclaration sommaire d’entrée ou de sortie est autorisée à modifier une ou plusieurs données de cette déclaration, après qu’elle a été déposée.
-
-[^annexI-lvlu1-1-1]: JO L 253 du 11.10.1993, p. 1.
-[^annexI-lvlu1-1-2]: JO L 125 du 21.5.2010, p. 10.
-
-#### Art. 2
-
-**Exceptions au dépôt de la déclaration sommaire d’entrée ou de sortie**
+**Système électronique relatif à la déclaration sommaire d’entrée**
 
 <sup>1.</sup>
 
-Une déclaration sommaire d’entrée ou de sortie n’est pas requise en ce qui concerne les marchandises suivantes:
+Le système électronique de contrôle des importations 2 (ICS2) est utilisé pour:
 
-- a) l’énergie électrique;
-- b) les marchandises entrant ou sortant par canalisation;
-- c) les lettres, cartes postales et imprimés, y compris sur support électronique;
-- d) les marchandises circulant sous le couvert des règles de l’Union postale universelle;
-- e) les marchandises pour lesquelles une déclaration en douane verbale ou par simple franchissement de la frontière est autorisée, conformément aux dispositions édictées par les parties contractantes, à l’exception, dans la mesure où ils sont acheminés dans le cadre d’un contrat de transport, des effets et objets mobiliers, ainsi que des palettes, des conteneurs et des moyens de transport routier, ferroviaire, aérien, maritime et fluvial;
-- f) les marchandises contenues dans les bagages personnels des voyageurs;
-- g) les marchandises couvertes par des carnets ATA et CPD;
-- h) les marchandises exonérées en vertu de la Convention de Vienne sur les relations diplomatiques[^annexI-lvlu1-2-1] du 18 avril 1961, de la Convention de Vienne sur les relations consulaires[^annexI-lvlu1-2-2] du 24 avril 1963 ou d’autres conventions consulaires, ou encore de la Convention de New York du 16 décembre 1969 sur les missions spéciales[^annexI-lvlu1-2-3];
-- i) les armements et les équipements militaires introduits sur ou acheminés hors du territoire douanier d’une Partie contractante par les autorités chargées de la défense militaire d’un Etat membre ou de la Suisse, dans le cadre d’un transport militaire ou d’un transport effectué exclusivement pour les autorités militaires;
-- j)
+- a) la communication, le traitement et le stockage des énonciations des déclarations sommaires d’entrée et d’autres informations relatives à ces déclarations, à l’analyse de risque réalisée par les douanes à des fins de sécurité et de sûreté, y compris le soutien à la sûreté aérienne, et aux mesures qui doivent être prises sur la base des résultats de cette analyse;
+- b) l’échange d’informations en ce qui concerne les énonciations de la déclaration sommaire d’entrée et les résultats de l’analyse de risque des déclarations sommaire d’entrée, d’autres informations nécessaires à la réalisation de cette analyse de risque et les mesures à prendre sur la base de l’analyse de risque, y compris des recommandations sur les lieux de contrôle et les résultats de ces contrôles;
+- c) l’échange d’informations aux fins du suivi et de l’évaluation de la mise en œuvre des normes et critères de risque communs en matière de sécurité et de sûreté ainsi que des mesures de contrôle et des domaines de contrôle prioritaires.
 
-  les marchandises suivantes, introduites sur ou acheminées hors du territoire douanier d’une partie contractante et transférées directement sur ou en provenance des plates-formes de forage ou de production ou d’éoliennes exploitées par une personne établie sur le territoire douanier des parties contractantes:
+<sup>2.</sup> Les dates de développement et de lancement du déploiement séquencé du système électronique visé dans la présente annexe sont celles indiquées dans le projet de système de contrôle des importations 2 (ICS2) dans le cadre du code des douanes de l’Unionqui figure à l’annexe de la décision d’exécution (UE) 2019/2151 de la Commission[^annexI-titI-1-1].
 
-  - – les marchandises qui ont été incorporées à ces plates-formes ou éoliennes aux fins de leur construction, de leur réparation, de leur entretien ou de leur conversion,
-  - – les marchandises qui ont été utilisées pour équiper ces plates-formes ou éoliennes; les produits d’avitaillement utilisés ou consommés sur ces plates-formes ou éoliennes et les déchets non dangereux produits sur ces plates-formes ou éoliennes;
+Pour chaque version, les Parties contractantes devraient être prêtes en même temps, au début de la fenêtre de déploiement. Lorsque cela est jugé approprié, les Parties contractantes peuvent permettre aux opérateurs économiques de se connecter progressivement au système jusqu’à la fin de la fenêtre de déploiement prévue pour chacune des versions. Les Parties contractantes publient les délais et instructions pour les opérateurs économiques sur leur site internet.
 
-- k) les marchandises contenues dans des envois dont la valeur intrinsèque n’excède pas 22 EUR à condition que les autorités douanières acceptent, avec l’accord de l’opérateur économique, d’effectuer une analyse de risques en utilisant les informations contenues dans, ou fournies par, le système utilisé par l’opérateur économique;
-- l) les marchandises acheminées à partir de l’île de Helgoland, de la République de Saint-Marin et de l’État de la Cité du Vatican à destination d’une partie contractante ou expédiées d’une partie contractante vers lesdits territoires.
+<sup>3.</sup> Les opérateurs économiques utilisent une interface opérateurs harmonisée, conçue par les Parties contractantes d’un commun accord, pour la communication, les demandes de rectification, les demandes d’invalidation, le traitement et le stockage des énonciations des déclarations sommaires d’entrée et pour l’échange des informations connexes avec les autorités douanières.
 
-<sup>2.</sup> Une déclaration sommaire d’entrée ou de sortie n’est pas requise dans les cas prévus par un accord international entre une Partie contractante et un pays tiers en matière de sécurité, sous réserve de la procédure prévue à l’art. 9, par. 3, du présent Accord.
+<sup>4.</sup> Les autorités douanières des Parties contractantes peuvent autoriser l’utilisation de systèmes d’information commerciaux, portuaires ou de transport pour déposer les énonciations d’une déclaration sommaire d’entrée, à condition que ces systèmes contiennent les énonciations nécessaires et que celles-ci soient disponibles dans les délais visés à l’art. 7.
 
-<sup>3.</sup> Une déclaration sommaire d’entrée ou de sortie n’est pas requise dans la Communauté en ce qui concerne les marchandises visées à l’art. 181<sup>quater</sup>, points i) et j), à l’art. 592<sup>bis</sup>, points i) et j), ainsi que dans les cas visés à l’art. 786, par. 2, et à l’art. 842<sup>bis</sup>, par. 4, points b) et f), du règlement (CEE) n<sup>o</sup> 2454/93.
+[^annexI-titI-1-1]: Fenêtre de déploiement de la version 1 de l’ICS2: du 15 mars 2021 au 1<sup>er</sup> octobre 2021; fenêtre de déploiement de la version 2 de l’ICS2: du 1<sup>er</sup> mars 2023 au 2 octobre 2023; fenêtre de déploiement de la version 3 de l’ICS2: du 1<sup>er</sup> mars 2024 au 1<sup>er</sup> octobre 2024; Décision d’exécution (UE) 2019/2151 de la Commission du 13 décembre 2019 établissant le programme de travail portant sur la conception et le déploiement des systèmes électroniques prévus dans le code des douanes de l’Union (JO UE L 325 du 16.12.2019, p. 168).
 
-<sup>4.</sup>
+#### Art. 2
 
-Une déclaration sommaire de sortie n’est pas requise:
+**Formes et contenu de la déclaration sommaire d’entrée**
 
-- a)
+<sup>1.</sup> Les énonciations de la déclaration sommaire d’entrée respectent les formats, codes et cardinalités respectifs définis à l’annexe B du règlement d’exécution (UE) 2015/2447 de la Commission[^annexI-titI-2-1] et sont indiquées conformément aux notes figurant dans ces annexes.
 
-  pour les marchandises suivantes:
+La déclaration sommaire d’entrée et la notification de l’arrivée d’un navire de mer ou d’un aéronef contiennent les données prévues dans les colonnes suivantes de l’annexe B du règlement délégué (UE) 2015/2446 de la Commission[^annexI-titI-2-2]:
 
-  - – les pièces détachées et de rechange destinées à être incorporées dans les navires et les aéronefs pour réparation,
-  - – les carburants, les lubrifiants et les gaz nécessaires au fonctionnement des navires ou des aéronefs, et
-  - – les denrées alimentaires et les autres produits destinés à être consommés ou vendus à bord;
+- a) F10 à F16;
+- b) F20 à F33;
+- c) F40 à F45;
+- d) F50 et F51;
+- e) G2.
 
-- b) pour les marchandises placées sous un régime de transit, lorsque les données de la déclaration sommaire de sortie sont contenues dans une déclaration de transit électronique, à condition que le bureau de destination du transit soit également le bureau de douane de sortie;
-- c) lorsque, dans un port ou un aéroport, les marchandises ne sont pas déchargées du moyen de transport qui les a introduites sur le territoire douanier respectif des parties contractantes et qui va les acheminer hors dudit territoire;
-- d) lorsque les marchandises ont été chargées dans un autre port ou aéroport sur le territoire douanier respectif des parties contractantes et restent à bord du moyen de transport qui va les acheminer hors dudit territoire;
-- e)
+<sup>2.</sup> Les énonciations de la déclaration sommaire d’entrée peuvent être communiquées par la présentation de plusieurs jeux de données par plus d’une personne.
 
-  lorsque des marchandises placées en dépôt temporaire ou dans une zone franche de type I sont transbordées du moyen de transport qui les a acheminées jusqu’au magasin de dépôt temporaire ou jusqu’à la zone franche, sous la supervision du même bureau de douane, sur un navire, un aéronef ou un train qui va les acheminer du dépôt temporaire ou de la zone franche hors du territoire douanier respectif des parties contractantes, à condition:
+<sup>3.</sup> Le système électronique visé à l’art. 1, par. 1, est utilisé pour introduire une demande de rectification ou d’invalidation d’une déclaration sommaire d’entrée ou des énonciations qu’elle contient.
 
-  - i) que le transbordement soit effectué dans un délai de quatorze jours civils à compter de la présentation des marchandises pour placement en dépôt temporaire ou dans une zone franche soumise aux modalités de contrôle du type I; dans des circonstances exceptionnelles, les autorités douanières peuvent prolonger ce délai pour tenir compte de ces circonstances,
-  - ii) que les informations relatives aux marchandises soient mises à la disposition des autorités douanières, et
-  - iii) qu’il n’y ait, à la connaissance du transporteur, aucun changement quant à la destination des marchandises et au destinataire.
+Lorsque plus d’une personne demande une rectification ou une invalidation des énonciations de la déclaration sommaire d’entrée, chacune de ces personnes est uniquement autorisée à demander la rectification ou l’invalidation des énonciations qu’elle a présentées.
 
-[^annexI-lvlu1-2-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
-[^annexI-lvlu1-2-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
-[^annexI-lvlu1-2-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
+<sup>4.</sup> Les autorités douanières de la Partie contractante, qui ont enregistré la déclaration sommaire d’entrée, informent immédiatement la personne qui a introduit la demande de rectification ou d’invalidation de leur décision d’enregistrer ou de rejeter la demande.
+
+Lorsque les rectifications à apporter aux énonciations de la déclaration sommaire d’entrée ou l’invalidation de ces énonciations sont introduites par une personne autre que le transporteur, les autorités douanières informent également le transporteur, à condition que ce dernier ait demandé à être notifié et dispose d’un accès au système informatique visé à l’art.1, par. 1.
+
+<sup>5.</sup> Conformément à l’art. 10, par. 8, de l’accord, jusqu’à la date de déploiement de la version 3 du système visé à l’art. 1, par. 1, de la présente annexe, les Parties contractantes peuvent réaliser l’analyse de risque en matière de sécurité et de sûreté sur la base de la déclaration de transit déposée dans le nouveau système de transit informatisé (NSTI), dans le respect de la convention relative à un régime de transit commun[^annexI-titI-2-3], y compris l’échange d’informations relatives à l’analyse de risque entre les Parties contractantes concernées, pour les marchandises transportées par voie maritime, fluviale, routière ou ferroviaire.
+
+Le système électronique NSTI permet aux Parties contractantes de communiquer entre elles et avec les opérateurs économiques aux fins du dépôt d’une déclaration en douane de transit, y compris toutes les énonciations nécessaires à une déclaration sommaire d’entrée ou de sortie et les notifications relatives à ces marchandises.
+
+Avant le déploiement de la version 3 du système visé à l’art. 1, par. 1, de la présente annexe, les Parties contractantes évaluent si, après cette date, les autorités douanières peuvent ou non continuer à effectuer l’analyse de risque sur la base de la déclaration de transit contenant les énonciations d’une déclaration sommaire d’entrée déposée dans le NSTI[^annexI-titI-2-4] et modifient l’accord si nécessaire.
+
+[^annexI-titI-2-1]: Règlement d’exécution (UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d’application de certaines dispositions du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil établissant le code des douanes de l’Union (JO UE L 343 du 29.12.2015, p. 558), modifié en dernier lieu par le règlement d’exécution (UE) 2021/235 de la Commission du 8 février 2021 (JO UE L 63 du 23.2.2021, p. 386).
+[^annexI-titI-2-2]: Règlement délégué (UE) 2015/2446 de la Commission du 28 juillet 2015 complétant le règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil au sujet des modalités de certaines dispositions du code des douanes de l’Union (JO UE L 343 du 29.12.2015, p. 1), modifié en dernier lieu par le règlement délégué (UE) 2021/234 de la Commission du 7 décembre 2020 (JO UE L 63 du 23.2.2021, p. 1).
+[^annexI-titI-2-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308),Convention du 20 mai 1987 entre la Communauté économique européenne, la République d’Autriche, la République de Finlande, la République d’Islande, le Royaume de Norvège, le Royaume de Suède et la Confédération suisse relative à un régime de transit commun (JO CE L 226 du 13.8.1987, p. 2, y compris les modifications antérieures et futures telles qu’elles sont approuvées par le comité mixte de la convention susmentionnée).
+[^annexI-titI-2-4]: Le NSTI est mis à niveau pour couvrir les nouvelles exigences en matière de sécurité découlant du règlement (UE) n<sup>o</sup> 952/2013 du Parlement européen et du Conseil du 9 octobre 2013 établissant le code des douanes de l’Union (JO UE L 269 du 10.10.2013, p. 1), modifié en dernier lieu par le règlement (UE) 2019/632 du Parlement européen et du Conseil (JO UE L 111 du 25.4.2019, p. 54). Le déploiement de la mise à jour progressive du NSTI est présenté dans l’annexe de la décision d’exécution (UE) 2019/2151 de la Commission.
 
 #### Art. 3
 
-**Lieu du dépôt de la déclaration sommaire d’entrée ou de sortie**
+**Dispense de l’obligation de déposer une déclaration sommaire d’entrée**
 
-<sup>1.</sup> La déclaration sommaire d’entrée est déposée auprès de l’autorité compétente de la Partie contractante sur le territoire douanier de laquelle les marchandises sont introduites en provenance de pays tiers. Cette autorité procède à l’analyse des risques à partir des données reprises dans cette déclaration et aux contrôles douaniers jugés nécessaires en matière de sécurité, y compris lorsque ces marchandises sont destinées à l’autre Partie contractante.
+<sup>1.</sup>
 
-<sup>2.</sup> La déclaration sommaire de sortie est déposée auprès de l’autorité compétente de la Partie contractante sur le territoire douanier de laquelle sont effectuées les formalités de sortie à destination de pays tiers. Toutefois, une déclaration en douane d’exportation utilisée comme déclaration sommaire de sortie est déposée auprès de l’autorité compétente de la Partie contractante sur le territoire douanier de laquelle sont effectuées les formalités d’exportation à destination de pays tiers. L’autorité compétente dans l’un ou l’autre cas procède à l’analyse des risques à partir des données reprises dans cette déclaration et aux contrôles douaniers jugés nécessaires en matière de sécurité.
+Une déclaration sommaire d’entrée n’est pas requise pour les marchandises suivantes:
 
-<sup>3.</sup> Lorsque des marchandises quittent le territoire douanier d’une Partie contractante à destination d’un pays tiers en traversant le territoire douanier de l’autre Partie contractante, les données visées à l’art. 1, par. 2, sont transmises par l’autorité compétente de la première Partie contractante à l’autorité compétente de la seconde.
+- a) l’énergie électrique;
+- b) les marchandises entrant par canalisation;
+- c) les envois de correspondance, à savoir les lettres, les cartes postales, les lettres en braille et les imprimés qui ne sont pas soumis à des droits à l’importation ou à l’exportation;
+- d)
 
-Toutefois, le comité mixte peut déterminer des cas dans lesquels la transmission de ces données n’est pas nécessaire pour autant qu’ils ne portent pas atteinte au niveau de sécurité garanti par le présent Accord.
+  les marchandises contenues dans des envois postaux et circulant sous le couvert des règles de l’Union postale universelle, dans les cas suivants:
 
-Les Parties contractantes s’efforcent de se connecter et d’utiliser un système commun de transmission des données qui contient les informations nécessaires pour la déclaration sommaire de sortie des marchandises en question.
+  - 1) lorsque les envois postaux sont transportés par voie aérienne et ont pour destination finale une Partie contractante, jusqu’à la date fixée pour le déploiement de la version 1 du système électronique visé à l’art. 1, par. 1;
+  - 2) lorsque les envois postaux sont transportés par voie aérienne et ont pour destination finale un pays ou territoire tiers, jusqu’à la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par.e 1;
+  - 3) lorsque les envois postaux sont transportés par voie maritime, par voies navigables intérieures, par route ou par voie ferroviaire, jusqu’à la date fixée pour le déploiement de la version 3 du système électronique visé à l’art. 1, par. 1;
 
-Dans le cas où les Parties contractantes ne sont pas en mesure d’effectuer la transmission visée à l’al. 1 à la date d’application du présent Accord, la déclaration sommaire de sortie des marchandises quittant une Partie contractante à destination d’un pays tiers en traversant le territoire douanier de l’autre Partie contractante, à l’exclusion du trafic aérien direct, est déposée exclusivement auprès de l’autorité compétente de cette seconde Partie contractante.
+- e) les marchandises pour lesquelles une déclaration en douane verbale ou par simple franchissement de la frontière est autorisée, conformément aux dispositions édictées par les Parties contractantes, à condition qu’elles ne soient pas transportées dans le cadre d’un contrat de transport;
+- f) les marchandises contenues dans les bagages personnels des voyageurs;
+- g) les marchandises couvertes par des carnets ATA ou CPD, à condition qu’elles ne soient pas transportées dans le cadre d’un contrat de transport;
+- h) les marchandises exonérées en vertu de la Convention de Vienne du 18 avril 1961 sur les relations diplomatiques[^annexI-titI-3-1], de la Convention de Vienne du 24 avril 1963 sur les relations consulaires[^annexI-titI-3-2] ou d’autres conventions consulaires, ou encore de la Convention de New York du 16 décembre 1969 sur les missions spéciales[^annexI-titI-3-3];
+- i) les armements et les équipements militaires introduits sur le territoire douanier de l’une des Parties contractantes par les autorités chargées de la défense militaire du territoire, dans le cadre d’un transport militaire ou d’un transport effectué exclusivement pour les autorités militaires;
+- j)
+
+  les marchandises ci-après, introduites sur le territoire douanier de l’une des Parties contractantes, qui proviennent directement des installations en mer exploitées par une personne établie sur le territoire douanier de l’une des Parties contractantes:
+
+  - 1) les marchandises qui ont été incorporées à ces installations en mer aux fins de leur construction, de leur réparation, de leur entretien ou de leur conversion;
+  - 2) les marchandises qui ont été utilisées pour équiper ces installations en mer;
+  - 3) les produits d’avitaillement utilisés ou consommés dans ces installations en mer;
+  - 4) les déchets non dangereux provenant de ces installations en mer;
+
+- k)
+
+  les marchandises contenues dans des envois dont la valeur intrinsèque n’excède pas 22 EUR, à condition que les autorités douanières acceptent, avec l’accord de l’opérateur économique, d’effectuer une analyse de risque en utilisant les informations contenues dans, ou fournies par, le système utilisé par l’opérateur économique, dans les cas suivants:
+
+  - 1) lorsque les marchandises sont contenues dans des envois acheminés par voie aérienne, par ou sous la responsabilité d’un opérateur qui fournit des services intégrés de collecte, de transport, de dédouanement et de livraison accélérés et dans des délais précis, ainsi que la localisation et le contrôle de cet article tout au long de son acheminement, désignés ci-après par le terme «envois express», jusqu’à la date fixée pour le déploiement de la version 1 du système électronique visé à l’art. 1, par. 1;
+  - 2) lorsque les marchandises sont transportées par voie aérienne dans des envois autres que des envois postaux ou express, jusqu’à la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par. 1;
+  - 3) lorsque les marchandises sont transportées par voie maritime, par voies navigables intérieures, par route ou par voie ferroviaire, jusqu’à la date fixée pour le déploiement de la version 3 du système électronique visé à l’art. 1, par. 1;
+
+- l) les marchandises circulant sous le couvert du formulaire OTAN 302 prévu dans la convention entre les États parties au Traité de l’Atlantique Nord sur le statut de leurs forces, signée à Londres le 19 juin 1951, ou sous le couvert du formulaire UE 302 défini à l’art. 1<sup>er</sup>, point 51), du règlement délégué (UE) 2015/2446 de la Commission;
+- m) les marchandises introduites dans l’une des Parties contractantes en provenance de Ceuta et Melilla, de Helgoland, de la République de Saint-Marin, de l’État de la Cité du Vatican, de la commune de Livigno et des exclaves douanières suisses de Samnaun et Sampuoir;
+- n)
+
+  les marchandises ci-après détenues à bord des navires et aéronefs:
+
+  - 1) les marchandises destinées à être incorporées en tant que pièces ou en tant qu’accessoires dans ces navires et aéronefs;
+  - 2) les marchandises destinées à faire fonctionner les moteurs, les machines et d’autres équipements de ces navires ou aéronefs;
+  - 3) les denrées alimentaires et les autres produits destinés à être consommés ou vendus à bord;
+
+- o) les produits de la pêche maritime et autres produits extraits de la mer en dehors des territoires douaniers des Parties contractantes par leurs navires de pêche;
+- p) les navires, et les marchandises qu’ils transportent à leur bord, entrant dans les eaux territoriales de l’une des Parties contractantes dans le seul but d’embarquer l’avitaillement sans se raccorder aux installations portuaires;
+- q) les effets et objets mobiliers définis dans la législation des Parties contractantes respectives, pour autant qu’ils ne soient pas acheminés dans le cadre d’un contrat de transport.
+
+<sup>2.</sup> Une déclaration sommaire d’entrée n’est pas requise dans les cas prévus par un accord international conclu entre une Partie contractante et un pays tiers en matière de sécurité, sous réserve de la procédure prévue à l’art. 9, par. 3, de l’accord.
+
+<sup>3.</sup> Une déclaration sommaire d’entrée n’est pas requise lorsque les marchandises quittent temporairement les territoires douaniers des Parties contractantes pendant un transport par voie maritime ou aérienne d’un point à un autre de ces territoires douaniers, mais n’ont pas fait escale dans un pays tiers.
+
+[^annexI-titI-3-1]: [RS 0.191.01](https://fedlex.data.admin.ch/eli/cc/1964/435_431_431)
+[^annexI-titI-3-2]: [RS 0.191.02](https://fedlex.data.admin.ch/eli/cc/1968/887_927_843)
+[^annexI-titI-3-3]: [RS 0.191.2](https://fedlex.data.admin.ch/eli/cc/1985/1260_1260_1260)
 
 #### Art. 4
 
-**Délais de la déclaration sommaire d’entrée ou de sortie**
+**Lieu du dépôt de la déclaration sommaire d’entrée**
 
-<sup>1.</sup> Les délais pour déposer la déclaration sommaire d’entrée ou de sortie sont ceux mentionnés aux art. 184<sup>bis</sup> et 592<sup>ter</sup> du règlement (CEE) n<sup>o</sup> 2454/93.
+<sup>1.</sup> La déclaration sommaire d’entrée est déposée auprès du bureau de douane compétent pour effectuer la surveillance douanière sur le territoire douanier de l’une des Parties contractantes au lieu où le moyen de transport qui a acheminé les marchandises arrive ou, le cas échéant, où il est prévu qu’il arrive, en provenance d’un pays ou territoire tiers (ci-après le «bureau de douane de première entrée»).
+
+<sup>2.</sup> Lorsque la déclaration sommaire d’entrée est déposée en présentant plusieurs jeux de données ou en présentant le jeu minimal de données, la personne qui présente le jeu partiel ou minimal de données accomplit cette formalité auprès du bureau de douane qui, à sa connaissance, devrait être le bureau de douane de première entrée. Si cette personne ne connaît pas le lieu prévu de première arrivée sur les territoires douaniers des Parties contractantes du moyen de transport acheminant les marchandises, le bureau de douane de première entrée peut être déterminé sur la base du lieu vers lequel les marchandises sont expédiées.
+
+<sup>3.</sup> Les autorités douanières des Parties contractantes peuvent permettre que la déclaration sommaire d’entrée soit déposée à un autre bureau de douane, à condition que ce dernier communique immédiatement ou met à disposition par la voie électronique les énonciations nécessaires au bureau de douane de première entrée.
+
+#### Art. 5
+
+**Enregistrement de la déclaration sommaire d’entrée**
+
+<sup>1.</sup> Les autorités douanières enregistrent chaque dépôt des énonciations d’une déclaration sommaire d’entrée dès sa réception, informent immédiatement de son enregistrement le déclarant ou son représentant et communiquent à cette personne le numéro de référence maître du dépôt et la date d’enregistrement.
+
+<sup>2.</sup> À partir de la date de déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, lorsque la déclaration sommaire d’entrée est déposée par une personne autre que le transporteur, les autorités douanières informent immédiatement le transporteur de l’enregistrement, à condition que ce dernier ait demandé à être notifié et dispose d’un accès à ce système électronique.
+
+#### Art. 6
+
+**Dépôt d’une déclaration sommaire d’entrée**
+
+Lorsqu’aucune des dispenses de l’obligation de déposer une déclaration sommaire d’entrée figurant à l’art. 10 de l’accord et à l’art. 3 de la présente annexe ne s’applique, les énonciations de la déclaration sommaire d’entrée sont fournies comme suit:
+
+- a) pour les marchandises transportées par voie aérienne,
+  - 1) les transporteurs express déposent, pour tous les envois, le jeu minimal de données à compter de la date de déploiement de la version 1 du système électronique visé à l’art. 1, par. 1, de la présente annexe;
+  - 2) les opérateurs postaux déposent, pour tous les envois ayant pour destination finale une Partie contractante, le jeu minimal de données à compter de la date de déploiement de la version 1 du système électronique visé à l’art. 1, par. 1, de la présente annexe;
+  - 3) par la présentation d’un ou plusieurs jeux de données au moyen du système électronique visé à l’art. 1, par. 1, de la présente annexe, à compter de la date de déploiement de la version 2 dudit système;
+
+- b) pour les marchandises transportées par voie maritime, par voies navigables intérieures, par route ou par voie ferroviaire, par la présentation d’un ou plusieurs jeux de données au moyen du système électronique visé à l’art. 1, par. 1, de la présente annexe, à compter de la date de déploiement de la version 3 dudit système.
+
+#### Art. 7
+
+**Délais de dépôt de la déclaration sommaire d’entrée**
+
+<sup>1.</sup>
+
+Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes par voie maritime, la déclaration sommaire d’entrée est déposée dans les délais suivants:
+
+- a) pour les cargaisons conteneurisées, autres que celles auxquelles s’appliquent le point c) ou le point d), au plus tard vingt-quatre heures avant le chargement des marchandises sur le navire à bord duquel elles doivent être introduites sur les territoires douaniers des Parties contractantes;
+- b) pour les cargaisons en vrac ou fractionnées, autres que celles auxquelles s’appliquent le point c) ou le point d), au plus tard quatre heures avant l’arrivée du navire au premier port d’entrée sur les territoires douaniers des Parties contractantes;
+- c)
+
+  au plus tard deux heures avant l’arrivée du navire au premier port d’entrée sur les territoires douaniers des Parties contractantes lorsque les marchandises proviennent de l’un des lieux suivants:
+
+  - 1) le Groenland;
+  - 2) les îles Féroé;
+  - 3) l’Islande;
+  - 4) les ports de la mer Baltique, de la mer du Nord, de la mer Noire et de la mer Méditerranée;
+  - 5) tous les ports du Maroc;
+
+- d) pour les mouvements, autre que ceux auxquels s’applique le point c), entre un territoire situé hors des territoires douaniers des Parties contractantes et les départements français d’outre-mer, les Açores, Madère ou les îles Canaries, lorsque la durée du voyage est inférieure à vingt-quatre heures, au plus tard deux heures avant l’arrivée au premier port d’entrée situé sur les territoires douaniers des Parties contractantes.
 
 <sup>2.</sup>
 
-Par dérogation au par. 1, chaque Partie contractante peut décider de délais différents:
+Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes par voie aérienne, les énonciations complètes de la déclaration sommaire d’entrée sont déposées dès possible et, en tout état de cause, dans les délais suivants:
 
-- – dans les cas du trafic visé à l’art. 3, par. 3, en vue de permettre une analyse de risques fiable et d’intercepter les envois afin de procéder aux éventuels contrôles douaniers de sécurité y afférents;
-- – dans le cas d’un accord international entre cette Partie contractante et un pays tiers, sous réserve de la procédure prévue à l’art. 9, par. 3, du présent Accord.
+- a) pour les vols d’une durée inférieure à quatre heures, au plus tard au moment du départ effectif de l’aéronef;
+- b) pour les autres vols, au plus tard quatre heures avant l’arrivée de l’aéronef au premier aéroport situé sur les territoires douaniers des Parties contractantes.
 
-Annexe II*[^t-3]*
+<sup>3.</sup> À compter de la date de déploiement de la version 1 du système électronique visé à l’art. 1, par. 1, les opérateurs postaux et les transporteurs express déposent au moins le jeu minimal de données de la déclaration sommaire d’entrée dans les plus brefs délais et au plus tard avant le chargement des marchandises dans l’aéronef à bord duquel elles seront introduites sur les territoires douaniers des Parties contractantes.
 
-## Opérateur économique agréé
+<sup>4.</sup> À compter de la date de déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, les opérateurs économiques autres que les opérateurs postaux et les transporteurs express déposent au moins le jeu minimal de données de la déclaration sommaire d’entrée dans les plus brefs délais et au plus tard avant le chargement des marchandises dans l’aéronef à bord duquel elles seront introduites sur les territoires douaniers des Parties contractantes.
 
-[^t-3]: Mise à jour par l’art. 2 de la Déc. n<sup>o</sup> 1/2013 du comité mixte UE-Suisse du 6 juin 2013, en vigueur depuis le 7 juin 2013 (RU **2018** 2921).
+<sup>5.</sup> À compter de la date de déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, lorsque seul le jeu minimal de données de la déclaration sommaire d’entrée a été fourni dans les délais visés aux paragraphes 3 et 4, du présent article, les autres énonciations sont transmises dans les délais indiqués au par. 2 du présent article.
+
+<sup>6.</sup> Jusqu’à la date de déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, le jeu minimal de données de la déclaration sommaire d’entrée déposé conformément au par. 3 du présent article est assimilé à la déclaration sommaire d’entrée complète pour les marchandises contenues dans des envois postaux ayant pour destination finale une Partie contractante et pour les marchandises contenues dans des envois express dont la valeur intrinsèque ne dépasse pas 22 EUR.
+
+<sup>7.</sup>
+
+Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes par voie ferroviaire, la déclaration sommaire d’entrée est déposée dans les délais suivants:
+
+- a) lorsque le trajet en train entre la dernière gare de formation du train située dans un pays tiers et le bureau de douane de première entrée dure moins de deux heures, au plus tard une heure avant l’arrivée des marchandises au lieu relevant de la compétence dudit bureau de douane;
+- b) dans tous les autres cas, au plus tard deux heures avant l’arrivée des marchandises au lieu relevant de la compétence du bureau de douane de première entrée.
+
+<sup>8.</sup> Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes par route, la déclaration sommaire d’entrée est déposée au plus tard une heure avant l’arrivée des marchandises au lieu relevant de la compétence du bureau de douane de première entrée.
+
+<sup>9.</sup> Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes par voies navigables intérieures, la déclaration sommaire d’entrée est déposée au plus tard deux heures avant l’arrivée des marchandises au lieu relevant de la compétence du bureau de douane de première entrée.
+
+<sup>10.</sup> Lorsque les marchandises sont introduites sur les territoires douaniers des Parties contractantes sur un moyen de transport qui est lui-même transporté par un moyen de transport actif, le délai de dépôt de la déclaration sommaire d’entrée est le délai applicable au moyen de transport actif.
+
+<sup>11.</sup> Les délais indiqués aux paragraphes 1 à 10 ne s’appliquent pas en cas de force majeure.
+
+<sup>12.</sup> Sous réserve de la procédure visée à l’art. 9, par. 3, de l’accord, les délais mentionnés aux paragraphes 1 à 10 du présent article ne s’appliquent pas lorsque les accords internationaux conclus en matière de sécurité entre une Partie contractante et des pays tiers en disposent autrement.
+
+#### Art. 8
+
+**Analyse de risque en matière de sécurité et de sûreté et contrôles douaniers de sécurité et de sûreté liés aux déclarations sommaires d’entrée**
+
+<sup>1.</sup> Une analyse de risque est achevée avant l’arrivée des marchandises au bureau de douane de première entrée, à condition que la déclaration sommaire d’entrée ait été déposée dans les délais prévus à l’art. 7, sauf si un risque est détecté ou s’il est nécessaire de procéder à une analyse de risque complémentaire.
+
+Sans préjudice du premier alinéa du présent paragraphe, une première analyse de risque concernant des marchandises destinées à être introduites sur les territoires douaniers des Parties contractantes par voie aérienne est effectuée dès que possible après réception du jeu minimal de données de la déclaration sommaire d’entrée visé à l’art. 7, par. 3 et 4.
+
+<sup>2.</sup>
+
+Le bureau de douane de première entrée achève l’analyse de risque à des fins de sécurité et de sûreté après l’échange d’informations ci-après au moyen du système électronique visé à l’art. 1, par. 1:
+
+- a) immédiatement après l’enregistrement, le bureau de douane de première entrée met les énonciations de la déclaration sommaire d’entrée à la disposition des autorités douanières des Parties contractantes indiquées dans ces énonciations ainsi que des autorités douanières des Parties contractantes qui ont enregistré dans le système électronique des informations relatives aux risques en matière de sécurité et de sûreté correspondant aux énonciations de cette déclaration sommaire d’entrée;
+- b) dans les délais prévus à l’art. 7, les autorités douanières des Parties contractantes visées au point a) du présent paragraphe effectuent une analyse de risque à des fins de sécurité et de sûreté et, si elles détectent un risque, mettent les résultats à la disposition du bureau de douane de première entrée;
+- c) le bureau de douane de première entrée tient compte des informations relatives aux résultats d’analyse de risque fournies par les autorités douanières des Parties contractantes visées au point a) aux fins de l’achèvement de l’analyse de risque;
+- d) le bureau de douane de première entrée met les résultats de l’analyse de risque achevée à la disposition des autorités douanières des Parties contractantes qui ont contribué à l’analyse de risque et de celles qui sont potentiellement concernées par la circulation des marchandises;
+- e)
+
+  le bureau de douane de première entrée informe de l’achèvement de l’analyse de risque les personnes suivantes, à condition qu’elles aient demandé à être notifiées et disposent d’un accès au système électronique visé à l’art. 1, par. 1:
+
+  - – le déclarant ou son représentant;
+  - – le transporteur, s’il n’est pas le déclarant ou son représentant.
+
+<sup>3.</sup> Lorsque le bureau de douane de première entrée exige des informations complémentaires sur les énonciations de la déclaration sommaire d’entrée aux fins de l’achèvement de l’analyse de risque, cette analyse est achevée après que ces informations ont été fournies.
+
+À cette fin, le bureau de douane de première entrée demande ces informations à la personne qui a déposé la déclaration sommaire d’entrée ou, le cas échéant, à la personne qui a fourni les énonciations de la déclaration sommaire d’entrée. Lorsque cette personne est différente du transporteur, le bureau de douane de première entrée informe le transporteur, à condition que ce dernier ait demandé à être notifié et dispose d’un accès au système électronique visé à l’art. 1, par. 1.
+
+<sup>4.</sup> Lorsque le bureau de douane de première entrée a des motifs raisonnables de soupçonner que les marchandises acheminées par voie aérienne risqueraient de menacer gravement la sûreté aérienne, il exige que l’envoi, avant d’être chargé à bord d’un aéronef à destination des territoires douaniers des Parties contractantes, fasse l’objet d’un filtrage en tant que fret et courrier à haut risque, conformément au point 4 de l’annexe à l’accord entre la Communauté européenne et la Confédération suisse sur le transport aérien[^annexI-titI-8-1] fixant des mesures détaillées pour la mise en œuvre des règles communes dans le domaine de la sûreté de l’aviation.
+
+À la suite de cette notification, la personne qui a déposé la déclaration sommaire d’entrée ou, le cas échéant, la personne qui a présenté les énonciations de la déclaration sommaire d’entrée fournit au bureau de douane de première entrée les résultats de ce filtrage et toutes les autres informations pertinentes connexes. L’analyse de risque n’est achevée qu’après la communication de ces informations.
+
+Le bureau de douane de première entrée adresse une notification aux personnes suivantes, à condition qu’elles disposent d’un accès au système électronique visé à l’art. 1, par. 1:
+
+- – le déclarant ou son représentant;
+- – le transporteur, s’il n’est pas le déclarant ou son représentant.
+
+<sup>5.</sup> Lorsque le bureau de douane de première entrée a des motifs raisonnables de considérer que les marchandises acheminées par voie aérienne ou les cargaisons conteneurisées acheminées par voie maritime, visées à l’art. 7, par. 1, point a), constitueraient une menace si grave pour la sécurité et la sûreté nécessitant une action immédiate, il ordonne que les marchandises ne soient pas chargées sur le moyen de transport concerné.
+
+Cette notification est effectuée immédiatement après la détection du risque pertinent et, dans le cas des cargaisons conteneurisées acheminées par voie maritime visées à l’art. 7, par. 1, point a), au plus tard dans les 24 heures suivant la réception de la déclaration sommaire d’entrée ou, le cas échéant, des énonciations de la déclaration sommaire d’entrée par le transporteur.
+
+Le bureau de douane de première entrée informe également immédiatement les autorités douanières des Parties contractantes de cette notification et met à leur disposition les énonciations pertinentes de la déclaration sommaire d’entrée.
+
+Le bureau de douane de première entrée adresse une notification aux personnes suivantes, à condition qu’elles disposent d’un accès au système électronique visé à l’art. 1, par. 1:
+
+- – le déclarant ou son représentant;
+- – le transporteur, s’il n’est pas le déclarant ou son représentant.
+
+<sup>6.</sup> Lorsqu’un envoi est considéré comme une menace telle qu’une action immédiate est nécessaire lors de l’arrivée du moyen de transport, le bureau de douane de première entrée agit en ce sens lors de l’arrivée des marchandises.
+
+<sup>7.</sup> Une fois l’analyse de risque achevée, le bureau de douane de première entrée peut recommander, au moyen du système électronique visé à l’art. 1, par. 1, le lieu et les mesures les plus appropriés pour effectuer un contrôle.
+
+Le bureau de douane compétent pour le lieu qui a été recommandé comme le plus approprié pour le contrôle décide du contrôle et met, au moyen du système électronique visé à l’art. 1, par. 1, les résultats de cette décision à la disposition de tous les bureaux de douane des Parties contractantes potentiellement concernés par la circulation des marchandises, au plus tard au moment de la présentation des marchandises au bureau de douane de première entrée.
+
+<sup>8.</sup> Les Parties contractantes échangent les informations sur les risques mentionnées aux points a) et b) du présent paragraphe dans le système visé à l’art. 12, par. 3, de l’accord.
+
+Les bureaux de douane mettent les résultats de leurs contrôles douaniers de sécurité et de sûreté à la disposition d’autres autorités douanières des Parties contractantes au moyen du système visé à l’art. 1, par. 1, lorsque:
+
+- a) les autorités douanières estiment que les risques sont significatifs et requièrent un contrôle douanier et que les résultats de ce contrôle indiquent que l’événement à l’origine des risques est survenu, ou
+- b) les résultats d’un contrôle n’indiquent pas que l’événement à l’origine des risques est survenu, mais les autorités douanières concernées estiment que la menace présente un risque élevé ailleurs sur les territoires douaniers des Parties contractantes, ou
+- c) cela est nécessaire à l’application uniforme des dispositions figurant dans l’accord.
+
+<sup>9.</sup> Lorsque des marchandises pour lesquelles l’obligation de déposer une déclaration sommaire d’entrée est levée conformément à l’art. 3, par. 1, points c) à f), h) à m), o) et q), sont introduites sur les territoires douaniers des Parties contractantes, l’analyse de risque est effectuée au moment de leur présentation.
+
+<sup>10.</sup> Les marchandises présentées en douane peuvent obtenir la mainlevée dès que l’analyse de risque a été effectuée et que les résultats de celle-ci et, le cas échéant, les mesures prises permettent l’octroi de cette mainlevée.
+
+<sup>11.</sup> Une analyse de risque est également effectuée si les énonciations de la déclaration sommaire d’entrée sont rectifiées conformément à l’art. 2, paragraphes 3 et 4. Dans ce cas, sans préjudice du délai prévu au par. 5, troisième alinéa, du présent article, pour les cargaisons conteneurisées acheminées par voie maritime, l’analyse de risque est achevée immédiatement après la réception de ces énonciations, sauf si un risque est détecté ou s’il est nécessaire d’effectuer une analyse de risque complémentaire.
+
+[^annexI-titI-8-1]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258), Accord entre la Communauté européenne et la Confédération suisse sur le transport aérien (JO CE L 114 du 30.4.2002, p. 73, y compris les modifications précédentes et futures telles qu’elles sont approuvées par le comité mixte de l’accord susmentionné).
+
+#### Art. 9
+
+**Communication des énonciations d’une déclaration sommaire d’entrée par d’autres personnes**
+
+<sup>1.</sup>
+
+À compter de la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, les dispositions suivantes s’appliquent lorsqu’une ou plusieurs personnes autres que le transporteur ont conclu un ou plusieurs contrats de transport couverts par une ou plusieurs lettres de transport aérien pour les mêmes marchandises acheminées par voie aérienne:
+
+- a) la personne émettant une lettre de transport aérien informe la personne qui a conclu un contrat de transport avec elle de l’émission de ladite lettre de transport aérien;
+- b) dans le cas d’un accord de co-chargement des marchandises, la personne qui émet la lettre de transport aérien informe de l’émission de ladite lettre de transport aérien la personne avec laquelle elle a conclu cet accord;
+- c) le transporteur et toute personne émettant une lettre de transport aérien indiquent, dans les énonciations de la déclaration sommaire d’entrée, l’identité de toute personne qui n’a pas mis à leur disposition les énonciations requises pour la déclaration sommaire d’entrée;
+- d) si la personne qui émet la lettre de transport aérien ne met pas les énonciations nécessaires à la déclaration sommaire d’entrée à la disposition de son partenaire contractuel qui délivre une lettre de transport aérien à celle-ci ou à son partenaire contractuel avec lequel elle a conclu un accord de co-chargement des marchandises, la personne qui ne met pas à disposition les énonciations nécessaires communique ces énonciations au bureau de douane de première entrée.
+
+<sup>2.</sup>
+
+À compter de la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, les dispositions suivantes s’appliquent lorsque l’opérateur postal ne met pas les énonciations requises aux fins de la déclaration sommaire d’entrée des envois postaux à la disposition du transporteur qui est tenu de déposer le reste des énonciations de la déclaration via ce système:
+
+- a) l’opérateur postal de destination, si les marchandises sont expédiées vers les Parties contractantes, ou l’opérateur postal des Parties contractantes de première entrée, si les marchandises transitent par les Parties contractantes, fournit ces énonciations au bureau de douane de première entrée, et
+- b) le transporteur indique, dans les énonciations de la déclaration sommaire d’entrée, l’identité de l’opérateur postal qui ne met pas à sa disposition les énonciations requises aux fins de la déclaration sommaire d’entrée.
+
+<sup>3.</sup>
+
+À compter de la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, les dispositions suivantes s’appliquent lorsque le transporteur express ne met pas les énonciations requises aux fins de la déclaration sommaire d’entrée des envois express transportés par voie aérienne à la disposition du transporteur:
+
+- a) le transporteur express fournit ces énonciations au bureau de douane de première entrée, et
+- b) le transporteur indique, dans les énonciations de la déclaration sommaire d’entrée, l’identité du transporteur express qui ne met pas à sa disposition les énonciations requises aux fins de la déclaration sommaire d’entrée.
+
+<sup>4.</sup>
+
+À compter de la date fixée pour le déploiement de la version 3 du système électronique visé à l’art. 1, par. 1, les dispositions suivantes s’appliquent lorsqu’en cas de transport par voie maritime ou par voies navigables intérieures, pour les mêmes marchandises, un ou plusieurs contrats de transport complémentaires couverts par un ou plusieurs connaissements ont été conclus par une ou plusieurs personnes autres que le transporteur:
+
+- a) la personne qui émet le connaissement informe la personne qui a conclu un contrat de transport avec celle-ci de l’émission dudit connaissement;
+- b) dans le cas d’un accord de co-chargement des marchandises, la personne qui émet le connaissement informe de l’émission dudit connaissement la personne avec laquelle elle a conclu cet accord;
+- c) le transporteur et toute personne émettant un connaissement indiquent, dans les énonciations de la déclaration sommaire d’entrée, l’identité de toute personne ayant conclu un contrat de transport avec eux et qui ne leur a pas communiqué les énonciations requises pour la déclaration sommaire d’entrée;
+- d) la personne qui émet le connaissement communique, dans les énonciations de la déclaration sommaire d’entrée, l’identité du destinataire indiqué dans le connaissement comme ne comportant aucun connaissement sous-jacent qui n’a pas mis à sa disposition les énonciations nécessaires à la déclaration sommaire d’entrée;
+- e) si la personne qui émet le connaissement ne met pas les énonciations nécessaires à la déclaration sommaire d’entrée à la disposition du partenaire contractuel qui lui délivre un connaissement ou du partenaire contractuel avec lequel elle a conclu un accord de co-chargement des marchandises, elle communique ces énonciations au bureau de douane de première entrée;
+- f) si le destinataire indiqué dans le connaissement qui ne comporte aucun connaissement sous-jacent ne met pas les énonciations nécessaires à la déclaration sommaire d’entrée à la disposition de la personne qui délivre ledit connaissement, il communique ces énonciations au bureau de douane de première entrée.
+
+#### Art. 10
+
+**Détournement d’un navire de mer ou d’un aéronef entrant sur le territoire douanier des Parties contractantes**
+
+<sup>1.</sup> À compter de la date fixée pour le déploiement de la version 2 du système électronique visé à l’art. 1, par. 1, lorsqu’un aéronef est détourné et arrive en premier lieu dans un bureau de douane situé dans un pays qui n’était pas indiqué en tant que pays de l’itinéraire dans la déclaration sommaire d’entrée, le bureau de douane de première entrée effectif obtient, grâce à ce système, les énonciations de cette déclaration, les résultats de l’analyse de risque et les recommandations de contrôle formulées par le bureau de douane qui était supposé être celui de première entrée.
+
+<sup>2.</sup> À compter de la date fixée pour le déploiement de la version 3 du système électronique visé à l’art. 1, par. 1, lorsqu’un navire de mer est détourné et arrive en premier lieu dans un bureau de douane situé dans un pays qui n’était pas indiqué en tant que pays de l’itinéraire dans la déclaration sommaire d’entrée, le bureau de douane de première entrée effectif récupère, par l’intermédiaire de ce système, les énonciations de cette déclaration, les résultats de l’analyse de risque et les recommandations en matière de contrôle formulées par le bureau de douane de première entrée prévu.
+
+## Titre II Modalités techniques du système de contrôle des importations 2
+
+#### Art. 11
+
+**Système de contrôle des importations 2**
+
+<sup>1.</sup> L’ICS2 facilite la communication entre les opérateurs économiques et les Parties contractantes en vue du respect des exigences de la déclaration sommaire d’entrée, de l’analyse de risque réalisée par les autorités douanières des Parties contractantes à des fins de sécurité et de sûreté et des mesures douanières destinées à réduire ces risques, y compris les contrôles douaniers de sécurité et de sûreté, ainsi qu’entre les Parties contractantes afin de satisfaire aux exigences de la déclaration sommaire d’entrée.
+
+<sup>2.</sup>
+
+L’ICS2 comporte les composantes communes suivantes, développées au niveau de l’Union:
+
+- a) une interface opérateurs partagée;
+- b) un répertoire commun.
+
+<sup>3.</sup> La Suisse développe un système national d’entrée en tant que composante nationale disponible dans ce pays.
+
+<sup>4.</sup> La Suisse peut concevoir une interface opérateurs nationale en tant que composante nationale disponible dans ce pays.
+
+<sup>5.</sup>
+
+L’ICS2 est utilisé aux fins suivantes:
+
+- a) communiquer, traiter et conserver les énonciations des déclarations sommaires d’entrée, demander leur modification ou leur invalidation conformément à l’art. 10 de l’accord et à la présente annexe;
+- b) recevoir, traiter et conserver les énonciations des déclarations sommaires d’entrée qui sont extraites des déclarations visées à l’art. 10 de l’accord et à la présente annexe;
+- c) communiquer, traiter et conserver les informations concernant l’arrivée d’un navire de mer ou d’un aéronef et les notifications d’arrivée correspondantes, conformément à l’art. 10 de l’accord et à la présente annexe;
+- d) recevoir, traiter et conserver les informations concernant la présentation des marchandises aux autorités douanières des Parties contractantes conformément à l’art. 10 de l’accord et à la présente annexe;
+- e) recevoir, traiter et conserver les informations concernant les demandes d’analyse de risque et les résultats correspondants, les recommandations de contrôle, les décisions relatives aux contrôles et les résultats de ces derniers, conformément aux art. 10 et 12 de l’accord et à la présente annexe;
+- f) recevoir, traiter, conserver et communiquer les notifications et les informations destinées aux opérateurs économiques ou provenant de ceux-ci, conformément aux art. 10 et 12 de l’accord et à la présente annexe;
+- g) communiquer, traiter et conserver des informations des opérateurs économiques que les autorités douanières des Parties contractantes ont demandées conformément aux art. 10 et 12 de l’accord et à la présente annexe.
+
+<sup>6.</sup> L’ICS2 sert à faciliter le suivi et l’évaluation, par les Parties contractantes, de la mise en œuvre des normes et critères de risque communs en matière de sécurité et de sûreté, ainsi que des mesures de contrôle et des domaines de contrôle prioritaires visés à l’art. 12 de l’accord.
+
+<sup>7.</sup> L’authentification et la vérification de l’accès des opérateurs économiques aux fins de l’accès aux composantes communes de l’ICS2 s’effectuent au moyen de la plateforme de gestion uniforme des utilisateurs et de signature électronique (ci-après «*UUM&DS*») visé à l’art. 13.
+
+<sup>8.</sup> L’authentification et la vérification de l’accès des fonctionnaires des Parties contractantes aux fins de l’accès aux composantes communes de l’ICS2 s’effectuent au moyen des services de réseaux fournis par l’Union.
+
+<sup>9.</sup> L’interface opérateurs harmonisée constitue un point d’entrée vers l’ICS2 pour les opérateurs économiques, conformément à l’art. 1.
+
+<sup>10.</sup> L’interface opérateurs harmonisée est interopérable avec le répertoire commun de l’ICS2 visé aux paragraphes 12 à 14.
+
+<sup>11.</sup> L’interface opérateurs harmonisée est utilisée pour communiquer, traiter et conserver les énonciations des déclarations sommaires d’entrée et les notifications d’arrivée, pour demander leur modification ou leur invalidation et pour échanger des informations entre les Parties contractantes et les opérateurs économiques.
+
+<sup>12.</sup> Le répertoire commun de l’ICS2 est utilisé par les Parties contractantes pour traiter les énonciations des déclarations sommaires d’entrée, les demandes de modification ou d’invalidation, les notifications d’arrivée, les informations relatives à la présentation des marchandises, les informations concernant les demandes d’analyse de risque et les résultats correspondants, les recommandations de contrôle, les décisions concernant les contrôles, les résultats de ces derniers ainsi que les informations échangées avec les opérateurs économiques.
+
+<sup>13.</sup> Le répertoire commun de l’ICS2 est utilisé par les Parties contractantes à des fins de statistiques et d’évaluation ainsi que pour l’échange mutuel d’informations sur les déclarations sommaires d’entrée.
+
+<sup>14.</sup> Le répertoire commun de l’ICS2 est interopérable avec l’interface opérateurs harmonisée, les interfaces opérateurs nationales éventuellement développées par les Parties contractantes et les systèmes nationaux d’entrée.
+
+<sup>15.</sup> L’autorité douanière d’une Partie contractante a recours au répertoire commun pour consulter une autorité douanière de l’autre Partie contractante conformément aux art. 10 et 12 de l’accord et à la présente annexe avant d’achever l’analyse de risque à des fins de sécurité et de sûreté. Elle utilise également le répertoire commun pour consulter l’autre Partie contractante en ce qui concerne les contrôles recommandés, les décisions prises en la matière et les résultats des contrôles douaniers de sécurité et de sûreté, conformément aux art. 10 et 12 de l’accord et à la présente annexe.
+
+<sup>16.</sup> Conformément à l’art. 1, l’interface opérateurs nationale, éventuellement développée par les Parties contractantes, constitue un point d’entrée vers l’ICS2 pour les opérateurs économiques lorsque la communication est adressée à la Partie contractante qui exploite cette interface.
+
+<sup>17.</sup> Les opérateurs économiques peuvent choisir d’utiliser l’interface opérateurs nationale, éventuellement développée, ou l’interface opérateurs harmonisée pour communiquer, modifier, invalider, traiter et conserver les énonciations des déclarations sommaires d’entrée et les notifications d’arrivée ainsi que pour échanger des informations avec les Parties contractantes.
+
+<sup>18.</sup> L’interface opérateurs nationale, éventuellement développée, est interopérable avec le répertoire commun de l’ICS2.
+
+<sup>19.</sup> Si la Suisse développe une interface opérateurs nationale, elle en informe l’Union.
+
+<sup>20.</sup> Un système national d’entrée est utilisé par les autorités douanières des Parties contractantes pour échanger les énonciations des déclarations sommaires d’entrée qui ont été extraites des déclarations visées à l’art. 10 de l’accord, pour échanger avec le répertoire commun des informations et des notifications sur l’arrivée d’un navire de mer ou d’un aéronef ou sur la présentation de marchandises, pour traiter des demandes d’analyse de risque, ainsi que pour échanger et traiter des informations sur les résultats d’analyse de risque, des recommandations de contrôle, des décisions concernant les contrôles et les résultats de ces derniers.
+
+<sup>21.</sup> Le système national d’entrée est également utilisé lorsque l’autorité douanière d’une Partie contractante demande des informations complémentaires aux opérateurs économiques et reçoit des informations de ces derniers.
+
+<sup>22.</sup> Le système national d’entrée est interopérable avec le répertoire commun.
+
+<sup>23.</sup> Le système national d’entrée est interopérable avec les systèmes développés au niveau national pour récupérer les informations visées au par. 20.
+
+#### Art. 12
+
+**Fonctionnement du système de contrôle des importations 2 et formation à son utilisation**
+
+<sup>1.</sup> Les composantes communes sont développées, testées, déployées et gérées par l’Union. Les composantes nationales sont développées, testées, déployées et gérées par la Suisse.
+
+<sup>2.</sup> La Suisse veille à l’interopérabilité des composantes nationales avec les composantes communes.
+
+<sup>3.</sup> L’Union assure la maintenance des composantes communes, tandis que la Suisse assure la maintenance de ses composantes nationales.
+
+<sup>4.</sup> Les Parties contractantes veillent au fonctionnement ininterrompu des systèmes électroniques.
+
+<sup>5.</sup> L’Union peut modifier les composantes communes des systèmes électroniques pour corriger des dysfonctionnements, ajouter de nouvelles fonctionnalités ou changer des fonctionnalités existantes.
+
+<sup>6.</sup> L’Union informe la Suisse des modifications et mises à jour apportées aux composantes communes.
+
+<sup>7.</sup> La Suisse informe l’Union des modifications et mises à jour apportées aux composantes nationales susceptibles d’avoir des répercussions sur le fonctionnement des composantes communes.
+
+<sup>8.</sup> Les Parties contractantes rendent publiquement accessibles les informations concernant les modifications et mises à jour des systèmes électroniques visées aux paragraphes 6 et 7.
+
+<sup>9.</sup> En cas de panne temporaire de l’ICS2, le plan de continuité des activités défini par les Parties contractantes s’applique.
+
+<sup>10.</sup> Les Parties contractantes s’informent mutuellement de l’indisponibilité des systèmes électroniques résultant d’une panne temporaire.
+
+<sup>11.</sup> L’Union soutient la Suisse en ce qui concerne l’utilisation et le fonctionnement des composantes communes des systèmes électroniques en fournissant le matériel de formation approprié.
+
+#### Art. 13
+
+**Plateforme de gestion uniforme des utilisateurs et de signature numérique**
+
+<sup>1.</sup> Une plateforme de gestion uniforme des utilisateurs et de signature électronique (ou «UUM&DS») permet la communication entre les systèmes de gestion des identités et des accès des Parties contractantes visés au par. 6 afin de fournir aux fonctionnaires des Parties contractantes et aux opérateurs économiques un accès autorisé et sécurisé aux systèmes électroniques.
+
+<sup>2.</sup>
+
+La plateforme UUM&DS comprend les composantes communes suivantes:
+
+- a) un système de gestion des accès;
+- b) un système de gestion de l’administration.
+
+<sup>3.</sup>
+
+La plateforme UUM&DS sert à assurer l’authentification et la vérification de l’accès:
+
+- a) des opérateurs économiques afin de leur permettre d’accéder à l’ICS2;
+- b) des fonctionnaires des Parties contractantes afin de leur permettre d’accéder aux composantes communes de l’ICS2 et d’effectuer les opérations de maintenance et de gestion de la plateforme UUM&DS.
+
+<sup>4.</sup> Les Parties contractantes mettent en place le système de gestion des accès destiné à valider les demandes d’accès soumises par des opérateurs économiques sur la plateforme UUM&DS en interaction avec les systèmes de gestion des identités et des accès des Parties contractantes visés au par. 6.
+
+<sup>5.</sup> Les Parties contractantes mettent en place le système de gestion de l’administration destiné à gérer les règles d’authentification et d’autorisation permettant de valider les données d’identification des opérateurs économiques afin de leur donner accès aux systèmes électroniques.
+
+<sup>6.</sup>
+
+Les Parties contractantes mettent en place un système de gestion des identités et des accès destiné à garantir:
+
+- a) l’enregistrement et le stockage sécurisés des données d’identification des opérateurs économiques;
+- b) l’échange sécurisé des données d’identification signées et chiffrées des opérateurs économiques.
+
+#### Art. 14
+
+**Gestion et propriété des données et sécurité**
+
+<sup>1.</sup> Les Parties contractantes veillent à ce que les données enregistrées au niveau national correspondent aux données enregistrées dans les composantes communes et soient tenues à jour.
+
+<sup>2.</sup>
+
+Par dérogation au par. 1, les Parties contractantes s’assurent que les données suivantes correspondent aux données figurant dans le répertoire commun de l’ICS2 et sont tenues à jour:
+
+- a) les données enregistrées au niveau national et communiquées au répertoire commun par le système national d’entrée;
+- b) les données du système national d’entrée provenant du répertoire commun.
+
+<sup>3.</sup> Les données des composantes communes de l’ICS2 qu’un opérateur économique communique ou enregistre dans l’interface opérateurs partagée peuvent être consultées ou traitées par ledit opérateur économique.
+
+<sup>4.</sup>
+
+Les données des composantes communes de l’ICS2:
+
+- a) qu’un opérateur économique communique à une Partie contractante dans le répertoire commun par l’intermédiaire de l’interface opérateurs harmonisée peuvent être consultées et traitées par ladite Partie contractante dans le répertoire commun. Au besoin, la Partie contractante concernée peut également accéder aux informations qui sont enregistrées dans l’interface opérateurs harmonisée;
+- b) qu’une Partie contractante communique ou enregistre dans le répertoire commun peuvent être consultées ou traitées par ladite Partie contractante;
+- c) qui sont visées aux points a) et b) du présent paragraphe peuvent également être consultées et traitées par l’autre Partie contractante lorsque cette dernière participe à l’analyse de risque et/ou au processus de contrôle en lien avec ces données, conformément aux art. 10 et 12 de l’accord et à la présente annexe;
+- d) qui peuvent être traitées par la Commission en coopération avec les Parties contractantes aux fins énoncées à l’art. 1, par. 1, point c), et à l’art. 11, par. 6,. La Commission et les Parties contractantes peuvent consulter les résultats de ce traitement.
+
+<sup>5.</sup> Les données des composantes communes de l’ICS2 que l’Union enregistre dans le répertoire commun peuvent être consultées par les Parties contractantes et traitées par l’Union. Ces données peuvent être traitées par l’Union.
+
+<sup>6.</sup> L’Union est le propriétaire du système pour les composantes communes.
+
+<sup>7.</sup> La Suisse est le propriétaire du système pour ses composantes nationales.
+
+<sup>8.</sup> L’Union assure la sécurité des composantes communes, tandis que la Suisse assure la sécurité de ses composantes nationales.
+
+<sup>9.</sup>
+
+À cet effet, les Parties contractantes prennent, au moins, les mesures nécessaires pour:
+
+- a) empêcher toute personne non autorisée d’accéder aux installations utilisées pour le traitement des données;
+- b) empêcher l’encodage de données et toute consultation, modification ou suppression de données par des personnes non autorisées;
+- c) détecter toute activité visée aux points a) et b).
+
+<sup>10.</sup> Les Parties contractantes s’informent mutuellement de toute activité qui pourrait entraîner une violation, réelle ou présumée, de la sécurité des systèmes électroniques.
+
+<sup>11.</sup> Les Parties contractantes définissent des plans de sécurité pour tous les systèmes.
+
+<sup>12.</sup> Les données enregistrées dans les composantes de l’ICS2 sont conservées pendant au moins trois ans après leur enregistrement. Les Parties contractantes peuvent les conserver plus longtemps lorsque la législation nationale applicable l’exige.
+
+#### Art. 15
+
+**Traitement des données à caractère personnel**
+
+Pour ce qui est du traitement des données à caractère personnel dans le cadre de l’ICS2 et de la plateforme UUM&DS:
+
+- a) la Suisse et les États membres de l’Union agissent en qualité de responsables du traitement, conformément aux dispositions de l’art. 14 de l’accord;
+- b) la Commission agit en qualité de sous-traitant et respecte les obligations qui lui incombent à cet égard en vertu du règlement (UE) 2018/1725 du Parlement européen et du Conseil[^annexI-titII-15-1], sauf lorsqu’elle traite des données aux fins du suivi et de l’évaluation de la mise en œuvre des critères et normes de risque communs en matière de sécurité et de sûreté, des mesures de contrôle et des domaines de contrôle prioritaires, auquel cas la Commission agit en qualité de co-responsable du traitement.
+
+[^annexI-titII-15-1]: Règlement (UE) 2018/1725 du Parlement européen et du Conseil du 23 octobre 2018 relatif à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les institutions, organes et organismes de l’Union et à la libre circulation de ces données, abrogeant le règlement (CE) n<sup>o</sup> 45/2001 et la décision n<sup>o</sup> 1247/2002/CE (JO UE L 295 du 21.11.2018, p. 39).
+
+#### Art. 16
+
+**Participation au développement, à la maintenance et à la gestion de l’ICS2**
+
+L’Union autorise des experts suisses à participer en tant qu’observateurs aux réunions du groupe d’experts douaniers et des groupes de travail respectifs lorsque des points de l’ordre du jour concernent le développement, la maintenance et la gestion de l’ICS2. Elle décide au cas par cas de la participation des experts suisses aux réunions des groupes de travail subordonnés au groupe d’experts douaniers dans lesquels seul un nombre limité d’États membres de l’Union sont représentés.
+
+## Titre III
+
+#### Art. 17
+
+**Modalités financières en ce qui concerne les responsabilités, les engagements et les attentes dans le cadre de la mise en œuvre et du fonctionnement de l’ICS2**
+
+En ce qui concerne l’extension de l’utilisation de l’ICS2 à la Suisse et compte tenu des dispositions du chapitre III et de la présente annexe, les présentes modalités financières (ci-après les «*modalités*») définissent les éléments de collaboration entre les Parties contractantes dans le cadre de l’ICS2.
+
+- a) La Commission développera, testera, déploiera, gérera et exploitera les composantes centrales de l’ICS2, qui englobent une interface opérateurs partagée et un répertoire commun (ci-après les «*composantes centrales de l’ICS2*»), y compris les applications et services nécessaires à leur fonctionnement et à leur interconnexion avec les systèmes informatiques suisses tels que TAPAS, UUM&DS et l’intergiciel CCN2ng, et s’engage à les mettre à la disposition de la Suisse.
+- b) La Suisse développera, testera, déploiera, gérera et exploitera les composantes nationales de l’ICS2.
+- c)
+
+  La Suisse et la Commission acceptent de partager comme suit les coûts de développement et les coûts ponctuels des composantes centrales de l’ICS2 ainsi que les coûts opérationnels des composantes centrales de l’ICS2 et des applications et services connexes qui sont nécessaires à leur fonctionnement et à leur interconnexion:
+
+  - 1) La Commission facturera à la Suisse une partie des coûts de développement des composantes centrales de l’ICS2 conformément aux points d) et e). Ces coûts de développement couvrent le développement logiciel des composantes centrales ainsi que l’acquisition et l’installation de l’infrastructure correspondante (matériel, logiciels, hébergement, licences, etc.). La clé de répartition correspond à 4 % des coûts totaux des services mentionnés.
+  - 2) Les coûts de développement maximaux seront plafonnés à 550 000 EUR (cinq cent cinquante mille euros) par version.
+  - 3) La Commission facturera à la Suisse une partie des coûts opérationnels de l’ICS2 et de TAPAS conformément aux points f), g) et h). Les coûts opérationnels couvrent les tests de conformité ainsi que la maintenance de l’infrastructure (matériel, logiciels, hébergement, licences, etc.) des composantes centrales de l’ICS2 et des applications et services connexes nécessaires à leur fonctionnement et à leur interconnexion (assurance-qualité, service d’assistance et gestion des services informatiques). La clé de répartition correspond à 4 % des coûts totaux des services mentionnés.
+  - 4) Les coûts opérationnels liés à l’utilisation de l’ICS2 n’excèdent pas un montant annuel maximal de 450 000 EUR (quatre cent cinquante mille euros) pour la Suisse.
+  - 5) Les coûts de développement et les coûts opérationnels de la/des composante(s) nationale(s) seront intégralement pris en charge par la Suisse.
+  - 6) La Suisse est tenue informée de l’évolution prévue des coûts et des principaux éléments du développement de l’ICS2 qui pourraient avoir une incidence sur ces coûts.
+
+- d)
+
+  La Suisse accepte de participer aux coûts de développement et liés aux tests de conformité des composantes centrales de l’ICS2 qui ont été occasionnés avant la mise en œuvre de l’accord. À cette fin:
+
+  - 1) la Commission informera la Suisse du montant estimé de la contribution requise pour les années antérieures à la mise en œuvre de l’accord;
+  - 2) le 15 mai de chaque année, à compter du 15 mai 2021, la Commission demandera à la Suisse de verser sa contribution à ces coûts antérieurs, en tranches égales, pendant les quatre premières années d’utilisation de l’ICS2.
+
+- e)
+
+  La Suisse accepte de participer aux coûts de développement des composantes centrales de l’ICS2. À cette fin:
+
+  - 1) la Suisse accepte de payer sa participation aux coûts de développement des versions 1, 2 et 3 de l’ICS2;
+  - 2) le 15 mai de chaque année, à compter du 15 mai 2021, la Commission demandera à la Suisse de verser sa contribution au développement de la dernière version, sur la base d’une note de débit dûment documentée émise par la Commission.
+
+- f)
+
+  La Suisse accepte de participer aux coûts opérationnels des composantes centrales de l’ICS2. À cette fin:
+
+  - 1) le 31 juillet de chaque année, à compter du 31 juillet 2021, la Commission informera la Suisse des coûts opérationnels estimés pour l’année suivante et lui transmettra par écrit le montant estimé de la contribution requise pour ladite année. La Suisse sera informée par la Commission de la même façon et au même moment que chacun des autres membres de l’ICS2; cela vaut également pour les principaux aspects du développement de l’ICS2;
+  - 2) le 15 mai 2021 uniquement, la Commission demandera à la Suisse de verser sa contribution annuelle pour les coûts opérationnels de l’année 2020, qui s’élève à 110 000 EUR, et la contribution annuelle estimée pour 2021, d’un montant de 280 000 EUR. Le 15 mai de chaque année, à compter du 15 mai 2022, la Commission demandera à la Suisse de verser sa contribution annuelle pour l’année concernée ainsi que le montant du solde (positif ou négatif) de l’année précédente, sur la base d’une note de débit dûment documentée émise par la Commission;
+  - 3)
+
+    le 31 janvier de chaque année, à compter du 31 janvier 2022, la Commission:
+
+    - – apurera les comptes relatifs aux coûts opérationnels de l’ICS2 et de TAPAS pour l’année écoulée, sur la base du montant déjà versé par la Suisse par rapport aux coûts réels supportés par la Commission, et fournira à la Suisse un relevé de compte récapitulant les coûts engendrés par les différents services et la fourniture de logiciels, et
+    - – indiquera à la Suisse les coûts annuels réels, c’est-à-dire les coûts opérationnels réels, pour l’année écoulée. La Commission calculera les coûts réels et estimés conformément aux contrats qu’elle a conclus avec des contractants, selon les procédures en vigueur pour l’attribution de marchés.
+
+- La Commission calculera et communiquera à la Suisse, à l’aide d’un relevé de compte, le solde (positif ou négatif) entre les coûts réels et le montant estimé pour l’année précédente. Ce relevé de compte comportera le montant annuel estimé de la contribution, majoré du montant du solde (positif ou négatif), le résultat correspondant au montant net que la Commission facturera à la Suisse dans une note de débit annuelle.
+- g) Le paiement de la Suisse sera exécuté après la date d’émission de la note de débit. Tous les paiements doivent être effectués dans les 60 jours sur le compte bancaire de la Commission indiqué dans la note de débit.
+- h) Si la Suisse verse les montants prévus au point c) après les dates fixées au point g), la Commission peut appliquer des intérêts de retard (au taux pratiqué par la Banque centrale européenne pour ses opérations en euros et publié au *Journal officiel de l’Union européenne*, série C, en vigueur à l’expiration du délai prévu pour effectuer le remboursement, majoré d’un point et demi). Le même taux s’appliquera aux paiements à effectuer par l’Union.
+- i) Si la Suisse demande des adaptations spécifiques ou de nouveaux produits informatiques pour les composantes centrales, les applications ou les services de l’ICS2, le lancement et l’achèvement de ces développements sont subordonnés à un accord mutuel distinct concernant les besoins en ressources et les coûts de développement.
+- j)
+
+  Tout le matériel de formation élaboré et conservé par les Parties contractantes est partagé gratuitement avec l’ensemble des parties par voie électronique. La Suisse peut copier, distribuer, présenter et utiliser l’ouvrage et élaborer des ouvrages dérivés sur la base du matériel de formation partagé :
+
+  - 1) uniquement si elle mentionne l’auteur comme indiqué dans le matériel de formation partagé;
+  - 2) seulement à des fins non commerciales.
+
+- k) Les Parties contractantes acceptent de reconnaître et d’assumer leurs responsabilités respectives liées à l’utilisation des composantes centrales de l’ICS2 comme indiqué dans la présente annexe.
+- l) En cas de doutes sérieux quant au bon fonctionnement de cette annexe ou de l’ICS2, chaque Partie contractante peut suspendre l’application de ces modalités, à condition que l’autre Partie contractante ait été notifiée par écrit trois mois à l’avance.
+
+## Titre IV Déclaration sommaire de sortie
+
+#### Art. 18
+
+**Formes et contenu de la déclaration sommaire de sortie**
+
+<sup>1.</sup> La déclaration sommaire de sortie est déposée par procédé informatique. Il est également possible d’utiliser des documents commerciaux, portuaires ou de transport, à condition qu’ils contiennent les énonciations nécessaires.
+
+<sup>2.</sup> La déclaration sommaire de sortie contient les énonciations prévues pour ce type de déclaration à l’annexe B, chapitre 3, colonnes A1 et A2, du règlement délégué (UE) 2015/2446 de la Commission et respecte les formats, codes et cardinalités respectifs définis à l’annexe B du règlement d’exécution (UE) 2015/2447 de la Commission. Elle est remplie conformément aux notes figurant dans ces annexes. La déclaration sommaire de sortie est authentifiée par la personne qui l’établit.
+
+<sup>3.</sup>
+
+Les autorités douanières n’acceptent le dépôt d’une déclaration sommaire de sortie établie sur support papier, ou toute autre procédure de remplacement convenue avec les autorités douanières, que dans l’une des circonstances suivantes:
+
+- a) lorsque le système informatique des autorités douanières ne fonctionne pas;
+- b) lorsque l’application électronique de la personne procédant au dépôt de la déclaration sommaire de sortie ne fonctionne pas, à condition que les autorités douanières appliquent à ces déclarations un niveau de gestion des risques équivalent à celui qui est appliqué aux déclarations sommaires de sortie par voie informatique. La déclaration sommaire de sortie établie sur support papier est signée par la personne qui l’établit. Ces déclarations sommaires de sortie sur support papier sont accompagnées, le cas échéant, de listes de chargement ou d’autres listes appropriées et contiennent les énonciations visées au par. 2.
+
+<sup>4.</sup> Chaque Partie contractante définit les conditions et les modalités selon lesquelles la personne procédant au dépôt de la déclaration sommaire de sortie peut modifier une ou plusieurs énonciations de cette déclaration, après qu’elle a été déposée.
+
+#### Art. 19
+
+**Dispense de l’obligation de déposer une déclaration sommaire de sortie**
+
+<sup>1.</sup>
+
+Une déclaration sommaire de sortie n’est pas requise pour les marchandises suivantes:
+
+- a) l’énergie électrique;
+- b) les marchandises sortant par canalisation;
+- c) les envois de correspondance, à savoir les lettres, les cartes postales, les lettres en braille et les imprimés qui ne sont pas soumis à des droits à l’importation ou à l’exportation;
+- d) les marchandises contenues dans des envois postaux qui circulent sous le couvert des règles de l’Union postale universelle;
+- e) les marchandises pour lesquelles une déclaration en douane verbale ou par simple franchissement de la frontière est autorisée, conformément aux législations des Parties contractantes, excepté les palettes, les conteneurs, les moyens de transport, ainsi que les pièces détachées, les accessoires et les équipements de ces produits, lorsqu’ils sont acheminés dans le cadre d’un contrat de transport;
+- f) les marchandises contenues dans les bagages personnels des voyageurs;
+- g) les marchandises couvertes par des carnets ATA et CPD;
+- h) les marchandises exonérées en vertu de la convention de Vienne sur les relations diplomatiques du 18 avril 1961, de la convention de Vienne sur les relations consulaires du 24 avril 1963 ou d’autres conventions consulaires, ou encore de la convention de New York du 16 décembre 1969 sur les missions spéciales;
+- i) les armements et les équipements militaires acheminés hors du territoire douanier d’une Partie contractante par les autorités chargées de la défense militaire des Parties contractantes, dans le cadre d’un transport militaire ou d’un transport effectué exclusivement pour les autorités militaires;
+- j)
+
+  les marchandises suivantes acheminées hors du territoire douanier d’une Partie contractante directement vers des installations en mer exploitées par une personne établie sur le territoire douanier de l’une des Parties contractantes:
+
+  - 1) les marchandises destinées à être utilisées pour la construction, la réparation, l’entretien ou la conversion des installations en mer;
+  - 2) les marchandises destinées à être utilisées pour équiper les installations en mer;
+  - 3) les produits d’avitaillement destinés à être utilisés ou consommés sur les installations en mer;
+
+- k) les marchandises circulant sous le couvert du formulaire OTAN 302 prévu dans la convention entre les États parties au Traité de l’Atlantique Nord sur le statut de leurs forces, signée à Londres le 19 juin 1951, ou sous le couvert du formulaire UE 302 défini à l’art. 1<sup>er</sup>, point 51), du règlement délégué (UE) 2015/2446 de la Commission;
+- l) les marchandises destinées à être incorporées en tant que pièces ou en tant qu’accessoires dans les navires ou les aéronefs et à être utilisées pour le fonctionnement des moteurs, des machines et des autres équipements des navires ou des aéronefs, ainsi que les denrées alimentaires et les autres produits destinés à être consommés ou vendus à bord;
+- m) les effets et objets mobiliers définis dans la législation des Parties contractantes respectives, pour autant qu’ils ne soient pas acheminés dans le cadre d’un contrat de transport;
+- n) les marchandises expédiées depuis les territoires douaniers des Parties contractantes vers Ceuta et Melilla, Helgoland, la République de Saint-Marin, l’État de la Cité du Vatican, la municipalité de Livigno et les exclaves douanières suisses de Samnaun et Sampuoir;
+- o) les marchandises acheminées à bord de navires circulant entre des ports des Parties contractantes sans effectuer d’escale dans un port situé hors des territoires douaniers des Parties contractantes;
+- p) les marchandises acheminées à bord d’aéronefs circulant entre des aéroports des Parties contractantes sans effectuer d’escale dans un aéroport situé hors des territoires douaniers des Parties contractantes.
+
+<sup>2.</sup> Une déclaration sommaire de sortie n’est pas requise dans les cas prévus par un accord international conclu entre une Partie contractante et un pays tiers en matière de sécurité, sous réserve de la procédure prévue à l’art. 9, par. 3, du présent Accord.
+
+<sup>3.</sup>
+
+Une déclaration sommaire de sortie n’est pas requise par les Parties contractantes pour les marchandises dans les situations suivantes:
+
+- a) lorsqu’un navire qui transporte des marchandises entre des ports des Parties contractantes doit faire escale dans un port situé en dehors des territoires douaniers des Parties contractantes et que les marchandises sont destinées à rester à bord du navire pendant l’escale dans le port situé en dehors des territoires douaniers des Parties contractantes;
+- b) lorsqu’un aéronef qui transporte des marchandises entre des aéroports des Parties contractantes doit faire escale dans un aéroport situé en dehors des territoires douaniers des Parties contractantes et que les marchandises sont destinées à rester à bord de l’aéronef pendant l’escale dans le port situé en dehors des territoires douaniers des Parties contractantes;
+- c) lorsque, dans un port ou un aéroport, les marchandises ne sont pas déchargées du moyen de transport qui les a introduites sur les territoires douaniers des Parties contractantes et qui va les acheminer hors desdits territoires;
+- d) lorsque les marchandises ont été chargées dans un autre port ou aéroport sur les territoires douaniers des Parties contractantes, si une déclaration sommaire de sortie a été déposée ou qu’une dérogation à l’obligation de dépôt d’une déclaration préalable à la sortie était applicable, et qu’elles restent à bord du moyen de transport qui va les acheminer hors desdits territoires;
+- e)
+
+  lorsque des marchandises placées en dépôt temporaire ou sous le régime de la zone franche sont transbordées du moyen de transport qui les a acheminées jusqu’à l’installation de stockage temporaire ou la zone franche, sous la supervision du même bureau de douane, sur un navire, un aéronef ou un train qui va les acheminer hors des territoires douaniers des Parties contractantes, pour autant que les conditions suivantes soient remplies:
+
+  - 1) le transbordement est effectué dans un délai de quatorze jours à compter de la présentation des marchandises, conformément à la législation de la Partie contractante respective ou, dans des cir-constances exceptionnelles, dans un délai plus long autorisé par les autorités douanières lorsque la période de quatorze jours n’est pas suffisante pour tenir compte de ces circonstances;
+  - 2) les informations relatives aux marchandises sont mises à la disposition des autorités douanières;
+  - 3) il n’y a, à la connaissance du transporteur, aucun changement quant à la destination des marchandises et au destinataire;
+
+- f) lorsque les marchandises ont été introduites sur les territoires douaniers des Parties contractantes, mais ont été refusées par l’autorité douanière compétente et immédiatement renvoyées dans le pays d’exportation.
+
+#### Art. 20
+
+**Lieu du dépôt de la déclaration sommaire de sortie**
+
+<sup>1.</sup> La déclaration sommaire de sortie est déposée auprès du bureau de douane compétent sur le territoire douanier de la Partie contractante où sont effectuées les formalités de sortie des marchandises à destination de pays tiers. Toutefois, une déclaration en douane d’exportation utilisée comme déclaration sommaire de sortie est déposée auprès de l’autorité compétente de la Partie contractante sur le territoire douanier de laquelle sont effectuées les formalités liées à l’exportation vers un pays tiers. Dans les deux cas, le bureau compétent procède à l’analyse de risque en matière de sécurité et de sûreté sur la base des données figurant dans la déclaration ainsi qu’aux contrôles douaniers de sécurité et de sûreté jugés nécessaires.
+
+<sup>2.</sup> Lorsque des marchandises quittent le territoire douanier d’une Partie contractante à destination d’un pays tiers en empruntant le territoire douanier de l’autre Partie contractante et que les formalités d’exportation sont suivies d’un régime de transit conformément à la convention relative à un régime de transit commun, le NSTI est utilisé pour transmettre les données visées à l’art. 18, par. 2, aux autorités compétentes de la seconde Partie contractante.
+
+Dans ce cas, le bureau de douane de la première Partie contractante met les résultats de ses contrôles douaniers de sécurité et de sûreté à la disposition de l’autorité douanière de la seconde Partie contractante lorsque:
+
+- a) les autorités douanières estiment que les risques sont significatifs et requièrent un contrôle douanier et que les résultats de ce contrôle indiquent que l’événement à l’origine des risques est survenu, ou
+- b) les résultats d’un contrôle n’indiquent pas que l’événement à l’origine des risques est survenu, mais les autorités douanières concernées estiment que la menace présente un risque élevé ailleurs sur les territoires douaniers des Parties contractantes, ou
+- c) cela est nécessaire à l’application uniforme des dispositions figurant dans l’accord.
+- Les Parties contractantes échangent les informations sur les risques mentionnées aux points a) et b) du présent paragraphe dans le système visé à l’art. 12, par. 3, de l’accord.
+
+<sup>3.</sup> Par dérogation au par. 1, à l’exception du transport aérien, lorsque les marchandises quittent le territoire douanier d’une Partie contractante à destination d’un pays tiers en empruntant le territoire douanier de l’autre Partie contractante et que les formalités d’exportation ne sont pas suivies d’un régime de transit conformément à la convention relative à un régime de transit commun, la déclaration sommaire de sortie est déposée directement auprès du bureau de douane de sortie compétent de la seconde Partie contractante du territoire de laquelle les marchandises sont finalement sorties à destination d’un pays tiers.
+
+#### Art. 21
+
+**Délais de dépôt de la déclaration sommaire de sortie**
+
+<sup>1.</sup>
+
+La déclaration sommaire de sortie est déposée dans les délais suivants:
+
+- a)
+
+  en cas de transport maritime:
+
+  - 1) pour les mouvements de cargaisons conteneurisées autres que ceux auxquels s’appliquent les points 2) et 3), au plus tard vingt-quatre heures avant le chargement des marchandises sur le navire à bord duquel elles doivent quitter les territoires douaniers des Parties contractantes;
+  - 2) pour les mouvements de cargaisons conteneurisées entre les territoires douaniers des Parties contractantes et le Groenland, les Îles Féroé ou l’Islande ou des ports de la mer Baltique, de la mer du Nord, de la mer Noire ou de la mer Méditerranée et tous les ports du Maroc, au plus tard deux heures avant le départ d’un port situé sur les territoires douaniers des Parties contractantes;
+  - 3) pour les mouvements de cargaisons conteneurisées entre les départements français d’outre-mer, les Açores, Madère ou les îles Canaries et un territoire situé hors des territoires douaniers des Parties contractantes, lorsque la durée du trajet est inférieure à vingt-quatre heures, au plus tard deux heures avant le départ d’un port situé sur les territoires douaniers des Parties contractantes;
+  - 4) pour les mouvements n’impliquant pas de cargaison conteneurisée, au plus tard deux heures avant le départ d’un port situé sur les territoires douaniers des Parties contractantes;
+
+- b) en cas de transport aérien, au plus tard trente minutes avant le départ d’un aéroport situé sur les territoires douaniers des Parties contractantes;
+- c) en cas de circulation routière et de navigation intérieure, au plus tard une heure avant que les marchandises quittent les territoires douaniers des Parties contractantes;
+- d)
+
+  en cas de transport ferroviaire:
+
+  - 1) lorsque le trajet en train depuis la dernière gare de formation du train jusqu’au bureau de douane de sortie prend moins de deux heures, au plus tard une heure avant l’arrivée des marchandises sur le lieu pour lequel le bureau de douane de sortie est compétent;
+  - 2) dans tous les autres cas, au plus tard deux heures avant que les marchandises quittent les territoires douaniers des Parties contractantes.
+
+<sup>2.</sup>
+
+Dans les cas suivants, le délai de dépôt de la déclaration sommaire de sortie est celui applicable au moyen de transport actif utilisé pour quitter les territoires douaniers des Parties contractantes:
+
+- a) les marchandises sont arrivées au bureau de douane de sortie sur un autre moyen de transport duquel elles sont transférées avant de quitter les territoires douaniers des Parties contractantes (transport intermodal);
+- b) les marchandises sont arrivées au bureau de douane de sortie sur un moyen de transport lui-même transporté par un moyen de transport actif au moment où elles quittent les territoires douaniers des Parties contractantes (transport combiné).
+
+<sup>3.</sup> Les délais visés aux paragraphes 1 et 2 ne s’appliquent pas en cas de force majeure.
+
+<sup>4.</sup>
+
+Par dérogation aux paragraphes 1 et 2, chaque Partie contractante peut décider de délais différents:
+
+- a) dans les cas du trafic visé à l’art. 20, par. 2, en vue de permettre une analyse de risque fiable et d’intercepter les envois afin de procéder aux éventuels contrôles douaniers de sécurité et de sûreté;
+- b) dans le cas d’un accord international en matière de sécurité entre cette Partie contractante et un pays tiers, sous réserve de la procédure prévue à l’art. 9, par. 3, du présent Accord.
+
+Annexe II[^t-3]
 
 ## Titre I Octroi du statut d’opérateur économique agréé
+
+[^t-3]: Nouvelle teneur selon l’art. 2 de la D n° 1/2021 du Comité mixte UE-Suisse du 12 mars 2021, appliquée provisoirement depuis le 15 mars 2021 ([RO 2021 250](https://fedlex.data.admin.ch/eli/oc/2021/250)).
 
 #### Art. 1
 
 **Généralités**
 
-<sup>1.</sup>
+Les critères relatifs à l’octroi du statut d’opérateur économique agréé sont les suivants:
 
-Les critères relatifs à l’octroi du statut d’opérateur économique agréé incluent:
-
-- a) des antécédents satisfaisants en matière de respect des exigences douanières;
-- b) un système efficace de gestion des écritures commerciales et, le cas échéant, des écritures de transport, permettant d’effectuer des contrôles douaniers de sécurité appropriés;
-- c) la preuve de la solvabilité financière; et
-- d) des normes appropriées de sécurité et de sûreté.
-
-<sup>2.</sup> Chaque Partie contractante détermine la procédure de demande et d’octroi du statut d’opérateur économique agréé, ainsi que les effets juridiques de ce statut.
-
-<sup>3.</sup> Les Parties contractantes s’assurent que leurs autorités douanières contrôlent le respect, par l’opérateur économique agréé, des conditions et critères qui lui sont applicables et procèdent à un réexamen de ces conditions et critères notamment en cas de modification importante de la législation en la matière ou d’existence d’éléments permettant raisonnablement de penser que l’opérateur économique agréé ne remplit plus les conditions applicables.
+- a) l’absence d’infractions graves ou répétées à la législation douanière et aux dispositions fiscales, y compris l’absence d’infractions pénales graves liées à l’activité économique du demandeur;
+- b) la démonstration par le demandeur qu’il exerce un niveau élevé de contrôle sur ses opérations et les mouvements de marchandises au moyen d’un système de gestion des écritures commerciales et, le cas échéant, des documents relatifs au transport, permettant d’exercer les contrôles douaniers nécessaires;
+- c) la solvabilité financière, qui est considérée comme prouvée dès lors que le demandeur présente une situation financière satisfaisante lui permettant de s’acquitter de ses engagements, en tenant dûment compte des caractéristiques du type de l’activité économique concernée;
+- d) l’existence de normes de sécurité et de sûreté appropriées, qui sont considérées comme respectées dès lors que le demandeur prouve qu’il a pris les mesures appropriées pour assurer la sécurité et la sûreté de la chaîne d’approvisionnement internationale, y compris pour ce qui est de l’intégrité physique et des contrôles d’accès, des processus logistiques et de la manutention de types spécifiques de marchandises, de son personnel et de ses partenaires commerciaux.
 
 #### Art. 2
 
-**Antécédents**
+**Conformité**
 
 <sup>1.</sup>
 
-Les antécédents en matière de respect des exigences douanières sont considérés comme satisfaisants si, au cours des trois dernières années précédant la présentation de la demande, aucune des personnes suivantes n’a commis d’infraction grave ou d’infractions répétées à la réglementation douanière:
+Le critère énoncé à l’art. 1, point a), est considéré comme rempli dès lors:
 
-- a) le demandeur;
-- b) les personnes responsables de la société du demandeur ou exerçant le contrôle sur sa gestion;
-- c) le cas échéant, le représentant légal du demandeur pour les questions douanières;
-- d) la personne responsable des questions douanières dans la société du demandeur.
+- a) qu’il n’existe aucune décision prise par une autorité administrative ou judiciaire concluant que l’une des personnes mentionnées au point b) a commis, au cours des trois années précédentes, une infraction grave ou répétée à la législation douanière ou aux dispositions fiscales liées à son activité économique, et
+- b)
 
-<sup>2.</sup> Les antécédents en matière de respect des exigences douanières peuvent être considérés comme satisfaisants si l’autorité douanière compétente estime que ces infractions sont d’une importance négligeable par rapport au nombre ou à l’ampleur des opérations douanières et ne suscitent pas de doutes quant à la bonne foi du demandeur.
+  qu’aucune des personnes suivantes ne s’est rendue coupable d’aucune infraction pénale grave liée à son activité économique, y compris à l’activité économique du demandeur:
 
-<sup>3.</sup> Si les personnes exerçant le contrôle sur la société du demandeur sont établies ou résident dans un pays tiers, les autorités douanières évaluent leur respect des exigences douanières sur la base des écritures et informations disponibles.
+  - 1) le demandeur;
+  - 2) le ou les employés responsables des questions douanières au nom du demandeur, et
+  - 3) la ou les personnes responsables du demandeur ou exerçant le contrôle de sa gestion.
 
-<sup>4.</sup> Si le demandeur est établi depuis moins de trois ans, les autorités douanières évaluent son respect des exigences douanières sur la base des écritures et informations disponibles.
+<sup>2.</sup> Le critère visé à l’art. 1, point a), peut toutefois être considéré comme rempli lorsque l’autorité douanière compétente pour arrêter la décision considère qu’une infraction est de moindre importance, par rapport au nombre ou à l’ampleur des opérations concernées, et que l’autorité douanière ne nourrit aucun doute sur la bonne foi du demandeur.
+
+<sup>3.</sup> Lorsque la personne visée au par. 1, point b), 3), autre que le demandeur, est établie ou réside dans un pays tiers, l’autorité douanière compétente pour arrêter la décision évalue le respect du critère visé à l’art. 1, point a), sur la base des écritures et des informations dont elle dispose.
+
+<sup>4.</sup> Lorsque le demandeur est établi depuis moins de trois ans, l’autorité douanière compétente pour arrêter la décision évalue le respect du critère visé à l’art. 1, point a), sur la base des écritures et des informations dont elle dispose.
 
 #### Art. 3
 
-**Système efficace de gestion des écritures commerciales et de transport**
+**Système efficace de gestion des écritures commerciales et des documents relatifs au transport**
 
-Pour permettre aux autorités douanières d’établir que le demandeur dispose d’un système efficace de gestion des écritures commerciales et, le cas échéant, des écritures de transport, le demandeur doit répondre aux exigences suivantes:
+Le critère énoncé à l’art. 1, point b), est considéré comme rempli dès lors que les conditions suivantes sont satisfaites:
 
-- a) utiliser un système comptable qui soit compatible avec les principes comptables généralement admis appliqués au lieu où la comptabilité est tenue et qui facilitera les contrôles douaniers par audit;
-- b) permettre l’accès physique ou électronique de l’autorité douanière à ses écritures douanières et, le cas échéant, à ses écritures de transport;
-- c) disposer d’une organisation administrative qui corresponde au type et à la taille de l’entreprise et qui soit adaptée à la gestion des flux de marchandises, et d’un système de contrôle interne permettant de déceler les transactions illégales ou irrégulières;
-- d) le cas échéant, disposer de procédures satisfaisantes de gestion des licences et des autorisations d’importation et/ou d’exportation;
-- e) disposer de procédures satisfaisantes d’archivage des écritures et des informations de l’entreprise et de protection contre la perte de données;
-- f) sensibiliser le personnel à la nécessité d’informer les autorités douanières en cas de difficulté à se conformer aux exigences et d’établir les contacts appropriés afin d’informer les autorités douanières de telles situations;
-- g) avoir pris des mesures adaptées de sécurité des technologies de l’information afin de protéger le système informatique du demandeur contre toute intrusion non autorisée et de sécuriser sa documentation.
+- a) le demandeur utilise un système comptable qui est compatible avec les principes généralement admis en matière comptable appliqués dans les Parties contractantes où la comptabilité est tenue, autorise les contrôles douaniers par audit et conserve un historique des données qui fournissent une piste d’audit depuis le moment où les données sont saisies dans le dossier;
+- b) les écritures conservées par le demandeur à des fins douanières sont intégrées dans le système comptable du demandeur ou permettent des contrôles croisés d’informations avec ce système;
+- c) le demandeur permet à l’autorité douanière d’accéder physiquement à ses systèmes comptables et, le cas échéant, à ses écritures commerciales et à ses documents relatifs au transport;
+- d) le demandeur permet à l’autorité douanière un accès électronique à ses systèmes comptables et, le cas échéant, à ses écritures commerciales et à ses documents relatifs au transport lorsque ces systèmes, ses écritures ou ses documents sont gérés électroniquement;
+- e) le demandeur dispose d’une organisation administrative qui correspond au type et à la taille de l’entreprise et qui est adaptée à la gestion des flux de marchandises, et d’un système de contrôle interne permettant de prévenir, de déceler et de corriger les erreurs et de prévenir et de détecter les transactions illégales ou irrégulières;
+- f) le cas échéant, le demandeur dispose de procédures satisfaisantes de gestion des licences et des autorisations accordées conformément aux mesures de politique commerciale ou concernant les échanges de produits agricoles;
+- g) le demandeur dispose de procédures satisfaisantes d’archivage de ses écritures et informations et de protection contre la perte de données;
+- h) le demandeur veille à ce que le personnel concerné ait pour instruction d’informer les autorités douanières en cas de difficultés à se conformer aux exigences et établit des procédures permettant d’informer les autorités douanières de telles difficultés;
+- i) le demandeur a mis en place des mesures de sécurité adaptées afin de protéger son système informatique contre toute intrusion non autorisée et de sécuriser sa documentation;
+- j) le cas échéant, le demandeur dispose de procédures satisfaisantes de traitement des certificats d’importation et d’exportation liés à des mesures de prohibition et de restriction, y compris des procédures visant à distinguer les marchandises soumises à des mesures de prohibition ou de restriction des autres marchandises et à assurer le respect desdites mesures.
 
 #### Art. 4
 
 **Solvabilité financière**
 
-<sup>1.</sup> Aux fins du présent article, on entend par solvabilité une situation financière saine, suffisante pour permettre au demandeur de remplir ses obligations, compte tenu des caractéristiques du type d’activité commerciale.
+<sup>1.</sup>
 
-<sup>2.</sup> La condition relative à la solvabilité financière du demandeur est réputée satisfaite si cette solvabilité peut être attestée pour les trois dernières années.
+Le critère énoncé à l’art. 1, point c), est considéré comme rempli dès lors que le demandeur satisfait aux conditions suivantes:
 
-<sup>3.</sup> Si le demandeur est établi depuis moins de trois ans, sa solvabilité financière est jugée sur la base des écritures et informations disponibles.
+- a) le demandeur ne fait pas l’objet d’une procédure de faillite;
+- b) au cours des trois dernières années précédant la présentation de la demande, le demandeur a respecté ses obligations financières en matière de paiement des droits de douane et tous autres droits, taxes ou impositions diverses qui sont perçus à l’importation ou à l’exportation ou en rapport avec l’importation ou l’exportation des marchandises;
+- c) le demandeur apporte la preuve, sur la base des écritures et des informations disponibles pour les trois dernières années précédant la présentation de la demande, qu’il dispose d’une capacité financière suffisante pour s’acquitter de ses obligations et remplir ses engagements eu égard au type et au volume de son activité commerciale, notamment qu’il n’a pas d’actifs nets négatifs, sauf si ceux-ci peuvent être couverts.
+
+<sup>2.</sup> Si le demandeur est établi depuis moins de trois ans, sa solvabilité financière, telle que visée à l’art. 1, point c), est vérifiée sur la base des écritures et des informations disponibles.
 
 #### Art. 5
 
-**Normes appropriées de sécurité et de sûreté**
+**Normes de sécurité et de sûreté**
 
 <sup>1.</sup>
 
-Les normes de sécurité et de sûreté du demandeur sont considérées comme satisfaisantes si les conditions suivantes sont remplies:
+Le critère énoncé à l’art. 1, point d), est considéré comme rempli dès lors que les conditions suivantes sont satisfaites:
 
-- a) les bâtiments utilisés dans le cadre des opérations couvertes par le certificat sont construits en matériaux qui résistent aux tentatives d’accès illicite et fournissent une protection contre les intrusions illicites;
-- b) il existe des mesures de contrôle adaptées pour empêcher l’accès non autorisé aux aires d’expédition, aux quais de chargement et aux zones de fret;
-- c) les mesures concernant la manutention des marchandises comprennent la protection contre l’introduction, la substitution ou la perte de matériels et l’altération d’unités de fret;
-- d) il existe, le cas échéant, des procédures permettant d’assurer la gestion des licences d’importation et/ou d’exportation liées à des interdictions ou à des restrictions et de distinguer ces marchandises d’autres marchandises;
-- e) le demandeur a pris des mesures permettant d’identifier avec précision ses partenaires commerciaux, de façon à sécuriser la chaîne logistique internationale;
-- f) le demandeur effectue, dans la mesure où la législation le permet, une enquête de sécurité concernant les éventuels futurs employés appelés à occuper des postes sensibles sur le plan de la sécurité et procède à un contrôle périodique de leurs antécédents;
-- g) le demandeur veille à ce que le personnel concerné participe activement à des programmes de sensibilisation aux questions de sécurité.
+- a) les bâtiments utilisés dans le cadre des opérations couvertes par l’autorisation fournissent une protection contre les intrusions illicites et sont construits en matériaux qui résistent aux tentatives d’accès illicite;
+- b) des mesures adaptées sont en place pour empêcher l’accès non autorisé aux bureaux, aux aires d’expédition, aux quais de chargement, aux zones de fret et aux autres secteurs sensibles;
+- c) des mesures concernant la manutention des marchandises ont été prises, à savoir notamment la protection contre toute introduction ou substitution non autorisée de marchandises, toute manipulation inappropriée des marchandises et toute intervention non autorisée sur les unités de fret;
+- d) le demandeur a pris des mesures permettant d’identifier clairement ses partenaires commerciaux et de garantir, grâce à la mise en œuvre de dispositions contractuelles appropriées ou d’autres mesures appropriées conformes au modèle d’entreprise du demandeur, que ces partenaires commerciaux garantissent la sécurité de leur partie de la chaîne logistique internationale;
+- e) le demandeur effectue, dans la mesure où la législation nationale le permet, une enquête de sécurité concernant les éventuels futurs employés appelés à occuper des postes sensibles sur le plan de la sécurité et procède à la vérification des antécédents du personnel en activité sur ce type de poste, à intervalles réguliers, et chaque fois que la situation le justifie;
+- f) le demandeur a mis en place des procédures de sécurité appropriées en ce qui concerne tous les prestataires de services externes travaillant pour son compte;
+- g) le demandeur veille à ce que le personnel exerçant des responsabilités en rapport avec les questions de sécurité participe régulièrement à des programmes de sensibilisation à ces questions;
+- h) le demandeur a désigné une personne de contact compétente pour les questions liées à la sécurité et à la sûreté.
 
-<sup>2.</sup> Si le demandeur, établi dans la Communauté ou en Suisse, est titulaire d’un certificat de sécurité et/ou de sûreté reconnu au niveau international, délivré sur la base de conventions internationales, d’un certificat de sécurité et/ou de sûreté européen, délivré sur la base de la législation communautaire, d’une norme internationale de l’Organisation internationale de normalisation ou d’une norme européenne des organismes de normalisation européens, ou encore d’une autre certification reconnue, les critères énoncés au par. 1 sont réputés remplis dans la mesure où les critères retenus pour la délivrance desdits certificats sont identiques ou comparables à ceux prévus par la présente annexe.
+<sup>2.</sup> Lorsque le demandeur est titulaire d’un certificat de sécurité et de sûreté délivré sur la base d’une convention internationale, d’une norme internationale de l’Organisation internationale de normalisation ou d’une norme européenne d’un organisme de normalisation européen, ces certificats sont pris en considération pour vérifier le respect des critères énoncés à l’art. 1, point d).
+
+Ces critères sont réputés remplis dans la mesure où il est établi que les critères retenus pour délivrer ledit certificat sont identiques ou équivalents à ceux prévus à l’art. 1, point d).
+
+<sup>3.</sup> Si le demandeur est un agent habilité ou un chargeur connu dans le domaine de la sécurité aérienne civile, les critères énoncés au par. 1 sont réputés remplis en ce qui concerne les sites et les opérations pour lesquels le demandeur a obtenu le statut d’agent habilité ou de chargeur connu, dans la mesure où les critères retenus pour délivrer le statut d’agent habilité ou de chargeur connu sont identiques ou équivalents à ceux énoncés à l’art. 1, point d).
 
 ## Titre II Facilités accordées aux opérateurs économiques agréés
 
 #### Art. 6
 
-Les autorités douanières accordent notamment les facilités suivantes aux opérateurs économiques agréés:
+**Facilités accordées aux opérateurs économiques agréés**
 
-- – les autorités douanières peuvent informer l’opérateur économique agréé, avant que les marchandises arrivent sur le territoire douanier ou quittent ce territoire, que l’envoi a été sélectionné pour un contrôle physique à la suite d’une analyse de risques en matière de sécurité ou de sûreté, pour autant que cela ne nuise pas au contrôle à effectuer; les autorités douanières peuvent toutefois procéder à un contrôle physique même lorsqu’un opérateur économique agréé n’a pas été informé préalablement;
-- – l’opérateur économique agréé peut déposer des déclarations sommaires d’entrée ou de sortie soumises aux exigences réduites en ce qui concerne les données à indiquer, mentionnées dans l’annexe 30<sup>bis</sup> du règlement (CEE) n<sup>o</sup> 2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d’application du règlement (CEE) n<sup>o</sup> 2913/92 du Conseil établissant le code des douanes communautaire[^annexII-titII-6-1], règlement modifié en dernier lieu par le règlement (UE) n<sup>o</sup> 430/2010 de la Commission[^annexII-titII-6-2]; toutefois, lorsque l’opérateur économique agréé est un transporteur, un commissionnaire de transport ou un commissionnaire en douane, il ne bénéficie de ces exigences réduites que s’il est impliqué dans l’importation ou l’exportation de marchandises pour le compte d’un opérateur économique agréé;
-- – l’opérateur économique agréé est soumis à moins de contrôles physiques et documentaires que d’autres opérateurs économiques; les autorités douanières peuvent toutefois en décider autrement afin de tenir compte d’une menace particulière ou des obligations de contrôle résultant de réglementations autres que douanières;
-- – dans le cas où l’autorité douanière décide de procéder au contrôle d’un envoi couvert par une déclaration sommaire d’entrée ou de sortie déposée par un opérateur économique agréé, ce contrôle est effectué en priorité; en outre, à la demande de l’opérateur économique agréé et avec l’accord de l’autorité douanière, ce contrôle peut être effectué dans un autre lieu que celui où cette autorité effectue normalement ses contrôles.
+<sup>1.</sup> Lorsqu’un opérateur économique agréé en matière de sécurité et de sûreté dépose pour son propre compte une déclaration sommaire de sortie sous la forme d’une déclaration en douane ou d’une déclaration de réexportation, aucune autre énonciation que celles figurant dans ces déclarations n’est exigée.
 
-[^annexII-titII-6-1]: JO L 253 du 11.10.1993, p. 1.
-[^annexII-titII-6-2]: JO L 125 du 21.5.2010, p. 10.
-
-## Titre III Suspension et révocation du statut d’opérateur économique agréé
+<sup>2.</sup> Lorsqu’un opérateur économique agréé en matière de sécurité et de sûreté dépose pour le compte d’une autre personne qui est également un opérateur économique agréé une déclaration sommaire de sortie sous la forme d’une déclaration en douane ou d’une déclaration de réexportation, aucune autre énonciation que celles figurant dans ces déclarations n’est exigée.
 
 #### Art. 7
+
+**Traitement plus favorable en matière d’évaluation du risque et de contrôle**
+
+<sup>1.</sup> Un opérateur économique agréé est soumis à moins de contrôles physiques et documentaires de sécurité que les autres opérateurs économiques.
+
+<sup>2.</sup> Si un opérateur économique agréé a déposé une déclaration sommaire d’entrée ou s’il a été autorisé à déposer une déclaration en douane ou une déclaration de dépôt temporaire au lieu d’une déclaration sommaire d’entrée ou à utiliser les systèmes informatiques des opérateurs commerciaux, portuaires ou de transport pour déposer les énonciations d’une déclaration sommaire d’entrée comme indiqué à l’art. 10, par. 8, de l’accord et à l’art. 1, par. 4, de l’annexe I, l’autorité douanière compétente adresse une notification à l’opérateur économique concerné lui indiquant que l’envoi a été sélectionné en vue d’un contrôle physique. Cette notification intervient avant l’arrivée des marchandises sur le territoire douanier des Parties contractantes.
+
+Elle est également mise à la disposition du transporteur si celui-ci est différent de l’opérateur économique agréé visé au premier alinéa, pour autant que le transporteur soit un opérateur économique agréé et dispose d’une connexion aux systèmes électroniques relatifs aux déclarations visées au premier alinéa.
+
+Cette notification n’est pas fournie lorsqu’elle est susceptible de compromettre les contrôles à effectuer ou les résultats de ceux-ci.
+
+<sup>3.</sup> Lorsque des envois déclarés par un opérateur économique agréé ont été sélectionnés en vue d’un contrôle physique ou documentaire, ces contrôles sont effectués en priorité.
+
+À la demande d’un opérateur économique agréé, les contrôles peuvent être effectués en un lieu autre que celui où les marchandises doivent être présentées en douane.
+
+#### Art. 8
+
+**Exemption *du traitement favorable***
+
+Le traitement plus favorable visé à l’art. 7 ne s’applique pas aux contrôles douaniers de sécurité liés à des niveaux de menace élevée spécifiques ou à des obligations de contrôle énoncées dans d’autres actes législatifs.
+
+Les autorités douanières accordent toutefois la priorité au traitement, aux formalités et aux contrôles nécessaires pour les envois déclarés par un opérateur économique agréé.
+
+## Titre III Suspension, annulation et révocation du statut d’opérateur économique d’opérateur économique agréé
+
+#### Art. 9
 
 **Suspension du statut**
 
 <sup>1.</sup>
 
-L’autorité douanière de délivrance suspend le statut d’opérateur économique agréé dans les cas suivants:
+L’autorité douanière compétente suspend une décision d’octroi du statut d’opérateur économique agréé lorsque:
 
-- a) lorsque le non-respect des conditions ou critères d’octroi du statut d’opérateur économique agréé a été établi;
-- b) lorsque les autorités douanières ont des raisons suffisantes de penser que l’opérateur économique agréé a commis un acte passible de poursuites pénales et lié à une infraction à la réglementation douanière;
-- c) lorsque l’opérateur économique agréé le demande parce qu’il se trouve temporairement dans l’incapacité de respecter les conditions ou critères d’octroi du statut.
+- a) l’autorité douanière concernée estime qu’il existe des motifs suffisants pour annuler ou révoquer la décision, mais ne dispose pas encore de tous les éléments nécessaires pour se prononcer sur l’annulation ou la révocation;
+- b) l’autorité douanière concernée considère que les conditions de la décision ne sont pas remplies ou que le titulaire de la décision ne respecte pas les obligations qu’impose cette décision et qu’il est approprié de laisser au titulaire de la décision suffisamment de temps pour prendre des mesures en vue de garantir le respect des conditions ou des obligations;
+- c) le titulaire de la décision demande cette suspension car il est temporairement dans l’incapacité de remplir les conditions fixées dans la décision ou de respecter les obligations imposées par ladite décision.
 
-<sup>2.</sup> Dans le cas visé au premier alinéa, point b), l’autorité douanière peut toutefois décider de ne pas suspendre le statut d’opérateur économique agréé si elle considère qu’une infraction revêt une importance négligeable au regard du nombre ou du volume des opérations douanières et ne suscite aucun doute quant à la bonne foi de l’opérateur économique agréé.
+<sup>2.</sup> Dans les cas visés au par. 1, points b) et c), le titulaire de la décision notifie à l’autorité douanière les mesures qu’il prendra pour garantir le respect des conditions ou des obligations ainsi que le délai qui lui est nécessaire pour prendre des mesures.
 
-<sup>3.</sup> La suspension prend effet immédiatement lorsque la nature ou le niveau de la menace pesant sur la sécurité et la sûreté des citoyens, sur la santé publique ou sur l’environnement l’exige.
+Lorsque l’opérateur économique concerné a pris, à la satisfaction des autorités douanières, les mesures nécessaires pour se conformer aux conditions et aux critères à respecter par tout opérateur économique agréé, l’autorité douanière de délivrance annule la suspension.
 
-<sup>4.</sup> La suspension n’a pas d’incidence sur les procédures douanières entamées avant la date de suspension et toujours en cours.
+<sup>3.</sup> La suspension n’a pas d’incidence sur les procédures douanières entamées avant la date de suspension et toujours en cours.
 
-<sup>5.</sup> Chaque Partie contractante fixe la durée de la période de suspension de manière à permettre à l’opérateur économique agréé de régulariser sa situation.
+<sup>4.</sup> Le titulaire de la décision est informé de la suspension de la décision.
 
-<sup>6.</sup> Lorsque l’opérateur économique a pris, à la satisfaction des autorités douanières, les mesures nécessaires pour se conformer aux conditions et critères à respecter par tout opérateur économique agréé, l’autorité douanière de délivrance annule la suspension.
+#### Art. 10
 
-#### Art. 8
+**Annulation du statut**
+
+<sup>1.</sup>
+
+Une décision d’octroi du statut d’opérateur économique agréé est annulée si toutes les conditions suivantes sont remplies:
+
+- a) la décision a été arrêtée sur la base d’éléments inexacts ou incomplets;
+- b) le titulaire de la décision connaissait ou devait raisonnablement connaître le caractère inexact ou incomplet des éléments;
+- c) la décision aurait été différente si les éléments avaient été exacts et complets.
+
+<sup>2.</sup> Le titulaire de la décision est informé de l’annulation de la décision.
+
+<sup>3.</sup> L’annulation prend effet à compter de la date à laquelle la décision initiale a pris effet, à moins que la décision arrêtée en application de la législation douanière n’en dispose autrement.
+
+#### Art. 11
 
 **Révocation du statut**
 
 <sup>1.</sup>
 
-L’autorité douanière de délivrance révoque le certificat d’opérateur économique agréé dans les cas suivants:
+Les autorités douanières compétentes révoquent une décision d’octroi du statut d’opérateur économique agréé lorsque:
 
-- a) lorsque l’opérateur économique agréé a commis une infraction grave à la réglementation douanière et que les voies de recours ont été épuisées;
-- b) lorsque l’opérateur économique agréé ne prend pas les mesures nécessaires au cours de la période de suspension visée à l’art. 7, par. 5;
-- c) lorsque l’opérateur économique agréé en fait la demande.
+- a) une ou plusieurs des conditions fixées pour son adoption ne sont pas ou plus respectées, ou
+- b) le titulaire de la décision en fait la demande, ou
+- c) le titulaire de la décision ne parvient pas à prendre, pendant la période de suspension visée à l’art. 9, par. 1, points b) et c), les mesures nécessaires pour satisfaire aux conditions fixées par la décision ou pour se conformer aux obligations qui lui incombent en vertu de cette décision.
 
-<sup>2.</sup> Toutefois, dans le cas visé au point a), l’autorité douanière peut décider de ne pas révoquer le certificat d’opérateur économique agréé si elle considère que l’infraction revêt une importance négligeable au regard du nombre ou du volume des opérations douanières et ne suscite aucun doute quant à la bonne foi de l’opérateur économique agréé concerné.
+<sup>2.</sup> La révocation prend effet le jour suivant celui de sa notification.
 
-<sup>3.</sup> La révocation prend effet le jour suivant celui de sa notification.
+<sup>3.</sup> Le titulaire de la décision est informé de la révocation de la décision.
 
-## Titre IV Echange d’informations
+## Titre IV
 
-#### Art. 9
+#### Art. 12
 
-La Commission et l’autorité compétente suisse s’échangent régulièrement l’identité de leurs opérateurs économiques agréés en matière de sécurité en incluant les informations suivantes:
+**Échange d’informations**
 
-- a) le numéro d’identification de l’opérateur (TIN – Trader Identification Number dans un format compatible avec la législation EORI – Economic Operator Registration and Identification);
+Les Parties contractantes s’échangent régulièrement l’identité de leurs opérateurs économiques agréés en matière de sécurité en incluant les informations suivantes:
+
+- a) le numéro d’identification de l’opérateur (TIN) dans un format compatible avec la législation en matière d’enregistrement et d’identification des opérateurs économiques (EORI);
 - b) le nom et l’adresse de l’opérateur économique agréé;
 - c) le numéro du document par lequel le statut d’opérateur économique agréé a été octroyé;
-- d) le statut actuel (en cours, suspendu, révoqué);
+- d) le statut actuel (valable, suspendu, révoqué);
 - e) les périodes de modification du statut;
-- f) la date à partir de laquelle le certificat entre en vigueur;
-- g) l’autorité qui a délivré le certificat.
+- f) la date à laquelle la décision et les événements subséquents (suspension et révocation) entrent en vigueur;
+- g) l’autorité qui a rendu la décision.
 
 Annexe III
 
@@ -751,19 +1404,4 @@ Annexe III
 
 \3. Les deux arbitres désignés nomment d’un commun accord un surarbitre qui n’est pas ressortissant d’une des Parties contractantes. Si les arbitres ne peuvent se mettre d’accord, dans un délai de deux mois suivant leur désignation, ils choisissent le surarbitre sur une liste de sept personnes établie par le comité mixte. Le comité mixte établit et tient à jour cette liste conformément à son règlement intérieur.
 
-\4. A moins que les Parties contractantes n’en décident autrement, le tribunal arbitral fixe lui-même ses règles de procédure. Il prend les décisions à la majorité.
-
-## Déclaration commune****
-
-[^annexIII-lvlu2-1]
-
-[^annexIII-lvlu2-1]: [RO 2018 2921](https://fedlex.data.admin.ch/eli/oc/2018/446)
-
-Ad Annexe I, art. 1, par. 2, de l’accord
-
-En ce qui concerne les données prévues pour la déclaration sommaire d’entrée ou de sortie, les parties contractantes confirment que:
-
-- – les dispositions relatives au numéro EORI, ainsi que
-- – les exigences relatives aux demandes de détournement (point 2.6 de l’annexe 30<sup>bis</sup> – tableau 6),
-
-introduites par le règlement (CE) n<sup>o</sup> 312/2009 de la Commission du 16 avril 2009 ne s’appliquent pas aux déclarations déposées auprès des autorités douanières suisses.
+\4. À moins que les Parties contractantes n’en décident autrement, le tribunal arbitral fixe lui-même ses règles de procédure. Il prend les décisions à la majorité.
