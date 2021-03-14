@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 14 octobre 2019 sur la mise en œuvre de la compens
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: fr
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20200101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/fr"
 
 (OCoR-DFI)
 
-du 14 octobre 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 14 octobre 2019 (Etat le 15 mars 2021)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -59,12 +59,13 @@ Les PCG sont hiérarchisés comme suit:
 
 #### Art. 4
 
-**Nombre minimal défini de doses quotidiennes standard**
+**Nombre minimal défini de doses quotidiennes standard de médicaments et nombre minimal défini d’emballages**[^4-1]
 
-Le nombre minimal défini de doses quotidiennes standard (DDD) nécessaire à l’attribution à un PCG est de 180. Font exception:
+<sup>1</sup> Un assuré peut être attribué à un PCG lorsqu’au moins 180 doses quotidiennes standard (DDD) de médicaments lui ont été remises.
 
-- a. le PCG «cancer complexe (KRK)»: nombre minimal de 15;
-- b. le PCG «cancer (KRE)»: nombre minimal de 3.
+<sup>2</sup> Il peut être attribuée au PCG «cancer (KRE)» et au PCG «cancer complexe (KRK)» lorsqu’ au moins trois emballages de médicaments lui ont été remis.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 22 janv. 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
 
 #### Art. 5
 
@@ -87,7 +88,7 @@ Un facteur de renchérissement des coûts est déterminé pour chaque canton; ce
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe
+Annexe*[^t-1]*
 
 (art. 1)
 
@@ -95,4 +96,5 @@ Annexe
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la liste des PCG n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Compensation des risques. La version applicable est celle du 14 mars 2019.
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFI du 22 janv. 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
+[^annexu1-lvlu1-1]: La liste des PCG n’est pas publiée au RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie &gt; Assureurs et surveillance &gt; Compensation des risques. La version applicable est celle du 22 janvier 2021.

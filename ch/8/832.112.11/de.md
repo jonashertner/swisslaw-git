@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 14. Oktober 2019 über die Umsetzung des Risikoaus
 short: VORA-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: de
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20200101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/de"
 
 (VORA-EDI)
 
-vom 14. Oktober 2019 (Stand am 1. Januar 2020)
+vom 14. Oktober 2019 (Stand am 15. März 2021)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -59,12 +59,13 @@ Es gelten folgende Hierarchisierungen:
 
 #### Art. 4
 
-**Mindestanzahl der standardisierten Tagesdosen**
+**Mindestanzahl der standardisierten Tagesdosen von Arzneimitteln und der Arzneimittelpackungen**[^4-1]
 
-Die Mindestanzahl der standardisierten Tagesdosen (DDD) für die Einteilung in eine PCG beträgt 180. Davon ausgenommen sind:
+<sup>1</sup> Für die Einteilung in eine PCG benötigt eine versicherte Person mindestens 180 standardisierte Tagesdosen (DDD) von Arzneimitteln.
 
-- a. PCG «Krebs komplex (KRK)»: Mindestanzahl 15;
-- b. PCG «Krebs (KRE)»: Mindestanzahl 3.
+<sup>2</sup> Für die Einteilung in die PCG «Krebs (KRE)» und in die PCG «Krebs komplex (KRK)» benötigt eine versicherte Person mindestens drei Arzneimittelpackungen.
+
+[^4-1]: Fassung gemäss Ziff. I der V des EDI vom 22. Jan. 2021, in Kraft seit 15. März 2021 ([AS 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
 
 #### Art. 5
 
@@ -87,7 +88,7 @@ Für jeden Kanton wird, ausgehend von den jeweils in den ersten 14 Monaten abger
 
 Diese Verordnung tritt am 1. Januar 2020 in Kraft.
 
-Anhang
+Anhang*[^t-1]*
 
 (Art. 1)
 
@@ -95,4 +96,5 @@ Anhang
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Die PCG-Liste wird nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie ist abrufbar unter: www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Risikoausgleich. Es gilt die Fassung vom 14. März 2019.
+[^t-1]: Fassung gemäss Ziff. II der V des EDI vom 22. Jan. 2021, in Kraft seit 15. März 2021 ([AS 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
+[^annexu1-lvlu1-1]: Die PCG-Liste wird in der AS nicht veröffentlicht. Sie kann eingesehen werden unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung &gt; Versicherer und Aufsicht &gt; Risikoausgleich. Es gilt die Fassung vom 22. Januar 2021.

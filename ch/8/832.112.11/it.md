@@ -4,11 +4,11 @@ title: "Ordinanza del DFI del 14 ottobre 2019 sull'attuazione della compensazion
 short: OCoR-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/618"
 language: it
-version: 2020-01-01
+version: 2021-03-15
 adopted: 2019-10-14
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20200101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/618/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2019-618-20210315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/618/20200101/it"
 
 (OCoR-DFI)
 
-del 14 ottobre 2019 (Stato 1° gennaio 2020)
+del 14 ottobre 2019 (Stato 15 marzo 2021)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -59,12 +59,13 @@ Vigono i seguenti ordini gerarchici:
 
 #### Art. 4
 
-**Numero minimo di dosi giornaliere standard**
+**Numero minimo di dosi giornaliere standard di medicamenti e di confezioni di medicamenti**[^4-1]
 
-Il numero minimo di dosi giornaliere standard (DDD) per l’attribuzione a un PCG è 180. Fanno eccezione:
+<sup>1</sup> Per l’attribuzione a un PCG un assicurato necessita di almeno 180 dosi giornaliere standard (DDD) di medicamenti.
 
-- a. il PCG «tumore complesso (KRK)»: numero minimo 15;
-- b. il PCG «tumore (KRE)»: numero minimo 3.
+<sup>2</sup> Per l’attribuzione al PCG «tumore (KRE)» e al PCG «tumore complesso (KRK)» un assicurato necessita di almeno tre confezioni.
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del DFI del 22 gen. 2021, in vigore dal 15 mar. 2021 ([RU 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
 
 #### Art. 5
 
@@ -87,7 +88,7 @@ Sulla base dei dati delle prestazioni fatturate durante i 14 mesi seguenti l'ini
 
 La presente ordinanza entra in vigore il 1° gennaio 2020.
 
-Allegato
+Allegato*[^t-1]*
 
 (art. 1)
 
@@ -95,4 +96,5 @@ Allegato
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: L’elenco dei PCG non è pubblicato nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**). Può essere consultato all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Compensazione dei rischi. Fa stato la versione del 14 mar. 2019.
+[^t-1]: Nuovo testo giusta il n. II dell’O del DFI del 22 gen. 2021, in vigore dal 15 mar. 2021 ([RU 2021 62](https://fedlex.data.admin.ch/eli/oc/2021/62)).
+[^annexu1-lvlu1-1]: L’elenco dei PCG non è pubblicato nella RU. Può essere consultato all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie &gt; Assicuratori e vigilanza &gt; Compensazione dei rischi. Fa stato la versione del 22 gen. 2021.
