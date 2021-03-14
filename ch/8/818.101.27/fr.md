@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-03-11
+version: 2021-03-15
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210311/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210311-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 11 mars 2021)
+du 27 janvier 2021 (Etat le 15 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -155,13 +155,13 @@ Les personnes visées à l’al. 1 qui ne peuvent pas présenter de résultat de
 - a. par une analyse de biologie moléculaire pour le SARS-CoV-2, ou
 - b. par un test rapide pour le SARS-CoV-2.
 
-<sup>4</sup> Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si elles font faire à leurs propres frais une analyse de biologie moléculaire ou un test rapide pour le SARS-CoV-2, et que le résultat est négatif. Le test peut être effectué au plus tôt le septième jour de la quarantaine.[^7-1]
+<sup>4</sup> Les personnes en quarantaine-voyage peuvent mettre fin à leur quarantaine de manière anticipée si elles font faire une analyse de biologie moléculaire ou un test rapide pour le SARS-CoV-2 selon le «standard diagnostic», et que le résultat est négatif. Le test peut être effectué au plus tôt le 7<sup>e</sup> jour de la quarantaine.[^7-1]
 
 <sup>5</sup> Les personnes qui mettent fin à la quarantaine-voyage de manière anticipée en vertu de l’al. 4 doivent, jusqu’à la date à laquelle la quarantaine était fixée en vertu de l’al. 2, porter un masque facial à l’extérieur de leur logement ou de leur lieu d’hébergement et garder une distance d’au moins 1,5 mètre par rapport aux autres personnes.
 
 <sup>6</sup> Si la personne est entrée en Suisse en passant par un État ou une zone ne présentant pas un risque élevé d’infection, l’autorité cantonale compétente peut réduire la durée de la quarantaine prévue à l’al. 2 de la durée du séjour dans cet État ou cette zone.
 
-[^7-1]: Nouvelle teneur selon le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^7-1]: Nouvelle teneur selon le ch. II 3 de l’O du 12 mars 2021, en vigueur depuis le 15 mars 2021 ([RO 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 8
 

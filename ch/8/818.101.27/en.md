@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-03-11
+version: 2021-03-15
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210311/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210311-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 11 March 2021)
+of 27 January 2021 (Status as of 15 March 2021)
 
 The Swiss Federal Council,
 
@@ -155,13 +155,13 @@ Persons under paragraph 1 who are unable to produce proof of a negative test on 
 - a. a molecular-biological test for Sars-CoV-2; or
 - b. a Sars-CoV-2 rapid test.
 
-<sup>4</sup> Persons required to quarantine on entry may leave quarantine within 10 days provided they undergo at their own expense either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine.[^7-1]
+<sup>4</sup> Persons required to quarantine on entry may leave quarantine within 10 days provided they undergo either a molecular-biological analysis for Sars-CoV-2 or a Sars-CoV-2-rapid test that meets the diagnostic standard and the result is negative. The test may be carried out at the earliest on the seventh day of quarantine.[^7-1]
 
 <sup>5</sup> Persons who leave quarantine early pursuant to paragraph 4 must wear a face mask and maintain a distance of at least 1.5 metres from other persons when outside their home or accommodation until the point in time at which quarantine under paragraph 2 would have ended.
 
 <sup>6</sup> If a person has entered Switzerland from a country or region that does not have an increased risk of infection, the responsible cantonal authority may take account of the duration of the person’s stay in that country or region when calculating the time to be spent in quarantine under paragraph 2.
 
-[^7-1]: Amended by No I of the O of 17 Feb. 2021 (Exceptions to the Requirement of a Negative Test Result), in force since 22 Feb. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^7-1]: Amended by No II 3 of the O of 12 March 2021, in force since 15 March 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 8
 

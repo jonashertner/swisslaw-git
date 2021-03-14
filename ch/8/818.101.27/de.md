@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-03-11
+version: 2021-03-15
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210311/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210311-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 11. März 2021)
+vom 27. Januar 2021 (Stand am 15. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -155,13 +155,13 @@ Personen nach Absatz 1, die bei der Einreise in die Schweiz keinen Test mit nega
 - a. mit einer molekularbiologischen Analyse auf Sars-CoV-2; oder
 - b. mit einem Sars-CoV-2-Schnelltest.
 
-<sup>4</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich auf eigene Kosten mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen.[^7-1]
+<sup>4</sup> Personen in Einreisequarantäne können die Quarantäne vorzeitig beenden, wenn sie sich mit einer molekularbiologischen Analyse auf Sars-CoV-2 oder mit einem Sars-CoV-2-Schnelltest gemäss diagnostischem Standard testen lassen und das Resultat negativ ausfällt. Der Test darf frühestens am siebten Tag der Quarantäne erfolgen.[^7-1]
 
 <sup>5</sup> Personen, die nach Absatz 4 die Einreisequarantäne vorzeitig beenden, müssen bis zu dem Zeitpunkt, bis zu dem die Quarantäne nach Absatz 2 gedauert hätte, ausserhalb ihrer Wohnung oder Unterkunft eine Gesichtsmaske tragen und einen Abstand von mindestens 1,5 Metern zu anderen Personen einhalten.
 
 <sup>6</sup> Ist die Person über einen Staat oder ein Gebiet ohne erhöhtes Ansteckungsrisiko eingereist, so kann die zuständige kantonale Behörde die Dauer des Aufenthalts in diesem Staat oder Gebiet an die Quarantäne nach Absatz 2 anrechnen.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 17. Febr. 2021 (Ausnahmen vom Erfordernis eines negativen Testergebnisses), in Kraft seit 22. Febr. 2021 ([AS 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^7-1]: Fassung gemäss Ziff. II 3 der V vom 12. März 2021, in Kraft seit 15. März 2021 ([AS 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 8
 
@@ -282,9 +282,9 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 Diese Verordnung tritt am 8. Februar 2021 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
-## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko****
+## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko
 
 [^annex1-lvlu1-1]
 

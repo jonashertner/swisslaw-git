@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinanza del 27 gennaio 2021 sui provvedimenti per combattere il coronavirus (COVID-19) nel settore del traffico internazionale viaggiatori (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: it
-version: 2021-03-11
+version: 2021-03-15
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210311/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210311-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210311/it"
 
 (Ordinanza COVID-19 provvedimenti nel settore del traffico internazionale viaggiatori)
 
-del 27 gennaio 2021 (Stato 11 marzo 2021)
+del 27 gennaio 2021 (Stato 15 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -155,13 +155,13 @@ Le persone di cui al capoverso 1 che all’entrata in Svizzera non possono prese
 - a. a un’analisi di biologia molecolare per il SARS-CoV-2; oppure
 - b. a un test rapido per il SARS-CoV-2.
 
-<sup>4</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a proprie spese a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 e se il risultato è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena.[^7-1]
+<sup>4</sup> Le persone sottoposte alla quarantena per le persone in entrata possono concluderla anticipatamente se si sottopongono a un’analisi di biologia molecolare o a un test rapido per il SARS-CoV-2 secondo lo standard diagnostico e se il risultato è negativo. Il test può essere effettuato non prima del settimo giorno di quarantena.[^7-1]
 
 <sup>5</sup> Le persone che concludono anticipatamente la quarantena per le persone in entrata secondo il capoverso 4 devono portare una mascherina facciale e tenersi a una distanza di almeno 1,5 metri da altre persone al di fuori del proprio domicilio o del proprio alloggio sino al giorno in cui sarebbe dovuta durare la quarantena secondo il capoverso 2.
 
 <sup>6</sup> Se la persona è entrata in Svizzera passando da uno Stato o una regione senza rischio elevato di contagio, l’autorità cantonale competente può considerare la durata del soggiorno in questo Stato o in questa regione nel calcolo del periodo di quarantena secondo il capoverso 2.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 17 feb. 2021 (Deroghe al requisito di un risultato negativo del test), in vigore dal 22 feb. 2021 ([RU 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
+[^7-1]: Nuovo testo giusta il n. II 3 dell’O del 12 mar. 2021, in vigore dal 15 mar. 2021 ([RU 2021 145](https://fedlex.data.admin.ch/eli/oc/2021/145)).
 
 #### Art. 8
 
