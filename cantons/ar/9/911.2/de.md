@@ -4,13 +4,13 @@ number: "911.2"
 title: Vorläufige Verordnung über Härtefallmassnahmen für Unternehmen im Zusammenhang mit der Covid-19-Epidemie
 short: kantonale Covid-19-Härtefallverordnung
 language: de
-version: 2021-02-01
-valid_until: 2021-03-15
-version_adopted: 2021-01-19
+version: 2021-03-16
+valid_until: 2021-07-05
+version_adopted: 2021-03-16
 adopted: 2021-01-19
 in_force: 2021-02-01
 url: "https://ar.clex.ch/app/de/texts_of_law/911.2"
-pdf: "https://ar.clex.ch/api/de/versions/1431/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ar.clex.ch/api/de/versions/1431/pdf_file"
 
 (kantonale Covid-19-Härtefallverordnung)
 
-vom 19.01.2021 (Stand 01.02.2021)
+vom 19.01.2021 (Stand 16.03.2021)
 
 Der Regierungsrat von Appenzell Ausserrhoden,
 
@@ -89,7 +89,7 @@ verordnet:
 
 <sup>1</sup> Die Solidarbürgschaften für Bankkredite belaufen sich auf höchstens 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 500‘000 Franken pro Unternehmen.
 
-<sup>2</sup> Die nicht rückzahlbaren Beiträge belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 100‘000 Franken pro Unternehmen.
+<sup>2</sup> Die nicht rückzahlbaren Beiträge belaufen sich auf höchstens 20 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und auf höchstens 300‘000 Franken pro Unternehmen.
 
 <sup>3</sup> Werden einem Unternehmen sowohl Solidarbürgschaften für Bankkredite als auch nicht rückzahlbare Beiträge gewährt, so dürfen diese gesamthaft 25 Prozent des durchschnittlichen Jahresumsatzes 2018 und 2019 und 500‘000 Franken pro Unternehmen nicht überschreiten.
 
@@ -117,12 +117,7 @@ verordnet:
 
 **Gewährung von nicht rückzahlbaren Beiträgen**
 
-<sup>1</sup> Die Höhe des nicht rückzahlbaren Beitrages wird unter Berücksichtigung folgender Umstände festgelegt:
-
-- a) ungedeckte Fixkosten;
-- b) volkswirtschaftliche Bedeutung des Unternehmens (Anzahl Mitarbeitende, Lernenden-Arbeitsplätze, regionale Wertschöpfung);
-- c) seit dem 15. März 2020 eingeleitete Massnahmen zur Umsatzförderung;
-- d) seit dem 15. März 2020 erfolgte Eigenkapitaleinlagen.
+<sup>1</sup> …
 
 <sup>2</sup> Der Kanton zahlt die Beiträge gemäss zusprechendem Entscheid einmalig oder gestaffelt an das Unternehmen aus.
 
@@ -130,7 +125,7 @@ verordnet:
 
 **Gesuchsverfahren**
 
-<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können einmalig ab 1. Februar 2021 bis zum 31. Juli 2021 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
+<sup>1</sup> Härtefallmassnahmen werden auf Gesuch hin gewährt. Gesuche können einmalig ab 1. Februar 2021 bis zum 30. September 2021 ausschliesslich elektronisch mittels des bereitgestellten Formulars beim Kanton eingereicht werden.
 
 <sup>2</sup> Das Unternehmen hat in geeigneter Form zu bestätigen, dass alle Angaben im eingereichten Formular vollständig und wahr sind.
 
@@ -189,5 +184,13 @@ verordnet:
 **Strafbestimmung**
 
 <sup>1</sup> Sofern keine schwerere strafbare Handlung nach dem Schweizerischen Strafgesetzbuch vorliegt, wird mit Busse bis zu 50'000 Franken bestraft, wer vorsätzlich mit falschen Angaben eine Härtefallmassnahme nach dieser Verordnung erwirkt oder die gewährten Mittel in Abweichung von Art. 6 der Covid-19-Härtefallverordnung verwendet.
+
+#### Art. 16
+
+**Übergangsbestimmung zur Teilrevision vom 16. März 2021**
+
+<sup>1</sup> Die Änderung von Art. 6 Abs. 2 wird rückwirkend auf den 1. Februar 2021 angewendet.
+
+<sup>2</sup> Gesuchsverfahren, die vor dem Inkrafttreten der Teilrevision rechtskräftig erledigt wurden, werden auf Gesuch hin wiederaufgenommen.
 
 Lf. Nr. / Abl. 1420 / 22.01.2021
