@@ -4,13 +4,13 @@ number: "853.11"
 title: Jagdverordnung
 short: JV
 language: de
-version: 2020-03-16
-valid_until: 2021-03-15
+version: 2021-03-16
+valid_until: 2022-12-31
 version_adopted: 2020-03-31
 adopted: 2015-05-19
 in_force: 2016-04-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/853.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2922/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3192/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2922/pdf_file"
 
 (JV)
 
-vom 19.05.2015 (Stand 16.03.2020)
+vom 19.05.2015 (Stand 16.03.2021)
 
 Die Regierung des Kantons St.Gallen
 
@@ -270,9 +270,9 @@ als Verordnung:[^ingress-3]
 
 <sup>1</sup> Die Jägerin oder der Jäger erbringt für jede von ihr oder von ihm verwendete Waffenart (Kugel oder Schrot) den periodischen Nachweis der Treffsicherheit.
 
-<sup>2</sup> Der Nachweis richtet sich nach dem Standard der Jagd- und Fischereiverwalterkonferenz (JFK-Standard). Er ist 24 Monate ab erfülltem Schiessprogramm gültig.
+<sup>2</sup> Der Nachweis richtet sich nach dem Standard der Jagd- und Fischereiverwalterkonferenz (JFK-Standard). Er ist zwölf Monate ab erfülltem Schiessprogramm gültig.
 
-<sup>3</sup> Der während der Jagdausbildung im Kanton erworbene Ausweis über die bestandenen Prüfungen im Schiessen gilt während 24 Monaten als Nachweis der Treffsicherheit.
+<sup>3</sup> Der während der Jagdausbildung im Kanton erworbene Ausweis über die bestandenen Prüfungen im Schiessen gilt während zwölf Monaten als Nachweis der Treffsicherheit.
 
 #### Art. 25
 
@@ -287,7 +287,7 @@ als Verordnung:[^ingress-3]
 
 **c) Ausserkantonaler oder ausländischer Nachweis**
 
-<sup>1</sup> Der ausserkantonale Nachweis nach JFK-Standard ist im Kanton gültig. Ein solcher Nachweis wird im Kanton noch während 12 Monaten ab Ablaufdatum als Nachweis der Treffsicherheit anerkannt.
+<sup>1</sup> Der ausserkantonale Nachweis nach JFK-Standard ist im Kanton gültig.
 
 <sup>2</sup> Andere ausserkantonale oder ausländische Nachweise sind erst nach Anerkennung durch das Amt für Natur, Jagd und Fischerei gültig.
 
