@@ -3,20 +3,19 @@ canton: GL
 number: V D/1/2
 title: Vollzugsreglement zum Sachversicherungsgesetz
 language: de
-version: 2011-01-01
-valid_until: 2021-03-16
-version_adopted: 2011-02-17
+version: 2021-03-17
+version_adopted: 2021-03-17
 adopted: 2011-02-17
 in_force: 2011-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/V-D.1.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/1040/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2406/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vollzugsreglement zum Sachversicherungsgesetz
 
-Vom 17.02.2011 (Stand 01.01.2011)
+Vom 17.02.2011 (Stand 17.03.2021)
 
 Der Verwaltungsrat der Glarnersach,
 
@@ -38,11 +37,13 @@ erlässt:
 
 **Rechnungsführung**
 
-<sup>1</sup> Die Rechnungsführung erfolgt nach den anerkannten Standards und Regeln.
+<sup>1</sup> Die Rechnungsführung erfolgt nach den anerkannten Standards von Swiss GAAP FER[^2-1], insbesondere dem Standard Swiss GAAP FER 41 für Gebäudeversicherungen.
 
 <sup>2</sup> Für die Gebäudeversicherung im Monopol, die Versicherung im Wettbewerb, den Kulturschadenfonds sowie für die Prävention (Brandschutz) und das Feuerwehrinspektorat werden getrennte Rechnungen geführt.
 
 <sup>3</sup> Eine Quersubventionierung der Versicherung im Wettbewerb ist untersagt. Der Verwaltungsrat bestimmt die weiteren Einzelheiten, insbesondere die verursachergerechte Verlegung der nicht direkt zuweisbaren Kosten.
+
+[^2-1]: https://www.fer.ch/standards/
 
 ## 2. Gebäudeversicherung im Monopol
 
