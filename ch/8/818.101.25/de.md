@@ -3,11 +3,11 @@ sr: "818.101.25"
 title: Verordnung vom 24. Juni 2020 über das Proximity-Tracing-System für das Coronavirus Sars-CoV-2 (VPTS)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/468"
 language: de
-version: 2020-11-19
+version: 2021-03-18
 adopted: 2020-06-24
 in_force: 2020-06-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20201119/de/xml/fedlex-data-admin-ch-eli-cc-2020-468-20201119-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20210318/de/xml/fedlex-data-admin-ch-eli-cc-2020-468-20210318-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20210318/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/de"
 
 (VPTS)
 
-vom 24. Juni 2020 (Stand am 19. November 2020)
+vom 24. Juni 2020 (Stand am 18. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -244,6 +244,33 @@ Das BAG stellt dem Bundesamt für Statistik (BFS) periodisch den aktuellen Besta
 <sup>1</sup> Beim Ausserkrafttreten dieser Verordnung deaktiviert das BAG die SwissCovid-App und fordert die teilnehmenden Personen auf, die SwissCovid-App auf dem Mobiltelefon zu deinstallieren.
 
 <sup>2</sup> Bis spätestens sechs Monate nach dem Ausserkrafttreten erstattet das BAG dem Bundesrat Bericht.
+
+#### Art. 15a
+
+**Verbindung des PT-Systems mit entsprechenden ausländischen Systemen**[^15a-1]
+
+<sup>1</sup> Das PT-System darf nur mit einem ausländischen System verbunden werden (Art. 62*a* EpG), wenn dieses die Voraussetzungen nach Artikel 60*a* Absatz 5 Buchstaben a–d EpG erfüllt.
+
+<sup>2</sup> Bei der Verbindung werden das VA-Backend und das ausländische System an ein Verbindungssystem zur gegenseitigen Übermittlung der privaten Schlüssel der infizierten teilnehmenden Personen angeschlossen.
+
+<sup>3</sup>
+
+Das Verbindungssystem untersteht den folgenden Regeln:
+
+- a. Es wird vom BAG oder von der zuständigen ausländischen Stelle betrieben.
+- b. Für den Quellcode und die technischen Spezifikationen der vom BAG betriebenen Verbindungssysteme gelten Artikel 60*a* Absatz 5 Buchstabe e EpG und Artikel 14 dieser Verordnung.
+- c. Die Bearbeitungszwecke richten sich nach Artikel 60*a* Absatz 2 EpG.
+- d. Die Daten des Systems können dem BFS und der zuständigen ausländischen Stelle zu Statistikzwecken in vollständig anonymisierter Form bekanntgegeben werden.
+- e. Sie werden vernichtet, sobald sie für die Benachrichtigung der teilnehmenden Personen nicht mehr erforderlich sind, spätestens aber 14 Tage nach ihrer Übermittlung an das System.
+
+<sup>4</sup>
+
+Ist das PT-System mit einem ausländischen System verbunden, so gilt zusätzlich zur Funktionsweise des PT-Systems nach den Artikeln 5 und 6 Folgendes:
+
+- a. Im Grundbetrieb ruft das VA-Backend die privaten Schlüssel der infizierten teilnehmenden Personen des ausländischen Systems sowie das Datum dieser Schlüssel aus dem Verbindungssystem ab und setzt sie auf seine Liste.
+- b. Nach einer Infektion übermittelt das VA-Backend die privaten Schlüssel der infizierten Personen mit dem jeweiligen Datum über das Verbindungssystem an das ausländische System.
+
+[^15a-1]: Eingefügt durch Ziff. I der V vom 12. März 2021, in Kraft seit 18. März 2021 ([AS 2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)).
 
 #### Art. 16
 

@@ -3,11 +3,11 @@ sr: "818.101.25"
 title: Ordonnance du 24 juin 2020 sur le système de traçage de proximité pour le coronavirus SARS-CoV-2 (OSTP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/468"
 language: fr
-version: 2020-11-19
+version: 2021-03-18
 adopted: 2020-06-24
 in_force: 2020-06-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20201119/fr/xml/fedlex-data-admin-ch-eli-cc-2020-468-20201119-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20210318/fr/xml/fedlex-data-admin-ch-eli-cc-2020-468-20210318-fr-xml.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20210318/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/fr"
 
 (OSTP)
 
-du 24 juin 2020 (Etat le 19 novembre 2020)
+du 24 juin 2020 (Etat le 18 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -136,7 +136,7 @@ Le système de gestion des codes contient les données suivantes:
 - b. la date à laquelle les premiers symptômes sont apparus ou, si la personne infectée ne présente aucun symptôme, la date du test;
 - c. la date de la destruction des données visées aux let. a et b.
 
-<sup>2</sup> Ces données ne permettent pas de remonter aux participants.^
+<sup>2</sup> Ces données ne permettent pas de remonter aux participants.
 
 #### Art. 8a
 
@@ -245,6 +245,33 @@ L’OFSP met régulièrement à la disposition de l’Office fédéral de la sta
 <sup>1</sup> Lors de l’abrogation de la présente ordonnance, l’OFSP désactive l’application SwissCovid et invite les participants à la désinstaller de leur téléphone portable.
 
 <sup>2</sup> Il fait rapport au Conseil fédéral au plus tard six mois après l’abrogation.
+
+#### Art. 15a
+
+**Liaison du système TP avec des systèmes étrangers correspondants**[^15a-1]
+
+<sup>1</sup> Le système TP ne peut être relié avec un système étranger (art. 62*a* LEp) que si celui-ci remplit les conditions visées à l’art. 60*a*, al. 5, let. a à d, LEp.
+
+<sup>2</sup> Lors de la liaison, le *back-end* GR et le système étranger sont raccordés à un système de liaison pour permettre la transmission réciproque des clés privées des participants infectés.
+
+<sup>3</sup>
+
+Le système de liaison est soumis aux règles suivantes:
+
+- a. il est administré par l’OFSP ou par l’autorité étrangère compétente;
+- b. concernant le code source et les spécifications techniques des systèmes de liaison exploités par l’OFSP, l’art. 60*a*, al. 5, let. e, LEp et l’art. 14 de la présente ordonnance s’appliquent;
+- c. les buts du traitement des données se fondent sur l’art. 60*a*, al. 2, LEp;
+- d. les données du système peuvent être communiquées à l’OFS ou à l’autorité étrangère compétente à des fins statistiques, sous forme entièrement anonymisée;
+- e. les données du système sont détruites dès qu’elles ne sont plus nécessaires pour informer les participants, mai au plus tard 14 jours après leur transmission au système.
+
+<sup>4</sup>
+
+Si le système TP est relié à un système étranger, les dispositions ci-après s’appliquent en plus des fonctionnements du système TP visés aux art. 5 et 6:
+
+- a. dans le fonctionnement de base, le *back-end* GR extrait du système de liaison les clés privées des participants infectés du système étranger et la date des clés afin d’inscrire ces données sur sa liste;
+- b. après une infection, le *back-end* GR transmet au système étranger, par le biais du système de liaison, les clés privées du participant infecté et la date de celles-ci.
+
+[^15a-1]: Intrododuit par le ch. I de l’O du 12 mars 2021, en vigueur depuis le 18 mars 2021 ([RO 2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)).
 
 #### Art. 16
 

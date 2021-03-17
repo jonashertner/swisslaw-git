@@ -3,11 +3,11 @@ sr: "818.101.25"
 title: Ordinanza del 24 giugno 2020 sul sistema di tracciamento della prossimità per il coronavirus SARS-CoV-2 (OSTP)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/468"
 language: it
-version: 2020-11-19
+version: 2021-03-18
 adopted: 2020-06-24
 in_force: 2020-06-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20201119/it/xml/fedlex-data-admin-ch-eli-cc-2020-468-20201119-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20210318/it/xml/fedlex-data-admin-ch-eli-cc-2020-468-20210318-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20210318/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/it"
 
 (OSTP)
 
-del 24 giugno 2020 (Stato 19 novembre 2020)
+del 24 giugno 2020 (Stato 18 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -245,6 +245,33 @@ L’UFSP mette periodicamente a disposizione dell’Ufficio federale di statisti
 <sup>1</sup> Al momento dell’abrogazione della presente ordinanza, l’UFSP disattiva l’app SwissCovid e chiede ai partecipanti di disinstallarla dal loro telefono cellulare.
 
 <sup>2</sup> Entro sei mesi dall’abrogazione l’UFSP fa rapporto al Consiglio federale.
+
+#### Art. 15a
+
+**Collegamento del sistema TP a sistemi esteri corrispondenti**[^15a-1]
+
+<sup>1</sup> Il sistema TP può essere collegato a un sistema estero (art. 62*a* LEp) soltanto se questo soddisfa le condizioni di cui all’articolo 60*a* capoverso 5 lettere a–d LEp.
+
+<sup>2</sup> Per il collegamento, il back end GP e il sistema estero sono collegati a un sistema di collegamento per la trasmissione reciproca delle chiavi private dei partecipanti infetti.
+
+<sup>3</sup>
+
+Il sistema di collegamento sottostà alle seguenti regole:
+
+- a. è gestito dall’UFSP o dal servizio estero competente;
+- b. al codice sorgente e alle specifiche tecniche dei sistemi di collegamento gestiti dall’UFSP si applicano l’articolo 60*a* capoverso 5 lettera e LEp e l’articolo 14 della presente ordinanza;
+- c. gli scopi dell’elaborazione sono retti dall’articolo 60*a* capoverso 2 LEp;
+- d. i dati del sistema possono essere resi noti all’UST e al servizio estero competente a scopi statistici in forma completamente anonimizzata;
+- e. i dati del sistema sono distrutti non appena non sono più necessari per l’informazione dei partecipanti, ma al più tardi 14 giorni dopo la loro trasmissione al sistema.
+
+<sup>4</sup>
+
+Se il sistema TP è collegato a un sistema estero, oltre alle modalità di funzionamento del sistema TP di cui agli articoli 5 e 6 vale quanto segue:
+
+- a. nel funzionamento di base, il back end GP richiama dal sistema di collegamento le chiavi private dei partecipanti infetti del sistema estero nonché la data di queste chiavi e le inserisce nel suo elenco;
+- b. dopo un’infezione, il back end GP trasmette la chiave privata della persona infetta con la rispettiva data al sistema estero mediante il sistema di collegamento.
+
+[^15a-1]: Introdotto dal n. I dell’O del 12 mar. 2021, in vigore dal 18 mar. 2021 ([RU 2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)).
 
 #### Art. 16
 

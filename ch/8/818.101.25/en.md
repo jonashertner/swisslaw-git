@@ -3,11 +3,11 @@ sr: "818.101.25"
 title: Ordinance of 24 June 2020 on the Proximity Tracing System for the Sars-CoV-2 coronavirus (PTSO)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/468"
 language: en
-version: 2020-11-19
+version: 2021-03-18
 adopted: 2020-06-24
 in_force: 2020-06-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20201119/en/xml/fedlex-data-admin-ch-eli-cc-2020-468-20201119-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20201119/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/468/20210318/en/xml/fedlex-data-admin-ch-eli-cc-2020-468-20210318-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/468/20210318/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PTSO)
 
-of 24 June 2020 (Status as of 19 November 2020)
+of 24 June 2020 (Status as of 18 March 2021)
 
 The Swiss Federal Council,
 
@@ -246,6 +246,33 @@ The FOPH shall regularly provide the Swiss Federal Statistical Office (FSO) with
 <sup>1</sup> When this Ordinance ceases to apply, the FOPH shall deactivate the SwissCovid app and instruct users of the SwissCovid app to remove the app from their mobile phones.
 
 <sup>2</sup> The FOPH shall submit a report to the Federal Council within six months of this Ordinance ceasing to apply.
+
+#### Art. 15a
+
+**Connection of the PT System to related foreign systems**[^15a-1]
+
+<sup>1</sup> The PT System may only be connected to a foreign system (Art. 62*a* EpidA) if that system meets the requirements of Article 60*a* paragraph 5 letters a–d EpidA.
+
+<sup>2</sup> When connected, the VA backend and the foreign system are linked to an interconnection system for the mutual transmission of the private keys of infected app users.
+
+<sup>3</sup>
+
+The connection system is subject to the following rules:
+
+- a. It is operated by the FOPH or the responsible foreign body.
+- b. Article 60*a* paragraph 5 letter e EpidA and Article 14 of this Ordinance apply to the source code and the technical specifications of the connection system that the FOPH operates.
+- c. The data processing purposes are governed by Article 60*a* paragraph 2 EpidA.
+- d. The data in the system may be passed on to the FSO and the responsible foreign body in completely anonymised form for statistical purposes.
+- e. The data shall be erased as soon as they are no longer required in order to notify app users, but at the latest 14 days after their transmission to the system.
+
+<sup>4</sup>
+
+If the PT System is connected to a foreign system, the following applies in relation to the PT System’s operating procedures in addition to Articles 5 and 6:
+
+- a. During basic operations, the VA backend retrieves the private keys of infected users of the foreign system and the date of these keys from the connection system and places them on its list.
+- b. Following an infection, the VA backend transmits the private keys of the infected persons with the relevant date to the foreign system via the connection system.
+
+[^15a-1]: Inserted by No I of the O of 12 March 2021, in force since 18 March 2021 ([AS 2021 144](https://fedlex.data.admin.ch/eli/oc/2021/144)).
 
 #### Art. 16
 
