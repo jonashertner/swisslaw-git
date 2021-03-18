@@ -3,18 +3,18 @@ sr: "916.443.102.1"
 title: Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/973"
 language: de
-version: 2021-03-12
+version: 2021-03-19
 adopted: 2020-12-15
 in_force: 2020-12-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210312/de/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210312-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210312/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/973/20210319/de/xml/fedlex-data-admin-ch-eli-cc-2020-973-20210319-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/973/20210319/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des BLV über Massnahmen zur Verhinderung der Einschleppung der Aviären Influenza aus bestimmten Mitgliedstaaten der Europäischen Union sowie Nordirland
 
-vom 15. Dezember 2020 (Stand am 12. März 2021)[^t-1]
+vom 15. Dezember 2020 (Stand am 19. März 2021)[^t-1]
 
 [^t-1]: Fassung gemäss Ziff. I der V des BLV vom 15. Febr. 2021, in Kraft seit 17. Febr. 2021 ([AS 2021 90](https://fedlex.data.admin.ch/eli/oc/2021/90)).
 
@@ -85,8 +85,8 @@ Erlaubt ist die Einfuhr von Bruteiern, wenn:
 - b.[^5-1] die zuständige Behörde des betroffenen Mitgliedstaates der Europäischen Union (EU) oder die zuständige Behörde von Nordirland die Ausfuhr nach den Bedingungen in Artikel 4 des Durchführungsbeschlusses (EU) 2020/ 1809[^5-2] genehmigt hat; und
 - c. die Sendung von einer Gesundheitsbescheinigung begleitet wird, die folgenden Hinweis enthält: «Diese Sendung erfüllt die Tiergesundheitsbedingungen des Durchführungsbeschlusses (EU) 2020/1809 der Kommission».
 
-[^5-1]: Fassung gemäss Ziff. I der V des BLV vom 10. März 2021, in Kraft seit 12. März 2021 ([AS 2021 142](https://fedlex.data.admin.ch/eli/oc/2021/142)).
-[^5-2]: Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/396, ABl. L 78 vom 5.3.2021, S. 1.
+[^5-1]: Fassung gemäss Ziff. I der V des BLV vom 17. März 2021, in Kraft seit 19. März 2021 ([AS 2021 149](https://fedlex.data.admin.ch/eli/oc/2021/149)).
+[^5-2]: Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/450, ABl. L 88 vom 15.3.2021, S. 1.
 
 #### Art. 6
 
@@ -108,7 +108,7 @@ Anhang*[^t-2]*
 
 ## Betroffene Mitgliedstaaten und Gebiete
 
-[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 10. März 2021, in Kraft seit 12. März 2021 ([AS 2021 142](https://fedlex.data.admin.ch/eli/oc/2021/142)).
+[^t-2]: Fassung gemäss Ziff. II der V des BLV vom 17. März 2021, in Kraft seit 19. März 2021 ([AS 2021 149](https://fedlex.data.admin.ch/eli/oc/2021/149)).
 
 ### 1 Schutz- und Überwachungszonen in den betroffenen Mitgliedstaaten der EU und in Nordirland
 
@@ -116,7 +116,7 @@ Die betroffenen Mitgliedstaaten der EU und weitere Gebiete sowie die dort festge
 
 <table>
 <tr><th>EU-Grunderlass</th><th>Titel und Publikationsdatum des Grunderlasses sowie Änderungserlasse mit Publikationsdaten</th></tr>
-<tr><td>Durchführungsbeschluss (EU) 2020/1809</td><td>Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/396, ABl. L 78 vom 5.3.2021, S. 1.</td></tr>
+<tr><td>Durchführungsbeschluss (EU) 2020/1809</td><td>Durchführungsbeschluss (EU) 2020/1809 der Kommission vom 30. November 2020 betreffend bestimmte Massnahmen zum Schutz vor Ausbrüchen der hochpathogenen Aviären Influenza in bestimmten Mitgliedstaaten, ABl. L 402 vom 1.12.2020, S. 144; zuletzt geändert durch Durchführungsbeschluss (EU) 2021/450, ABl. L 88 vom 15.3.2021, S. 1</td></tr>
 </table>
 
 Der Durchführungsbeschluss listet im Anhang die Schutz- und Überwachungszonen folgendermassen auf:
@@ -128,15 +128,11 @@ Der Durchführungsbeschluss listet im Anhang die Schutz- und Überwachungszonen 
 
 In folgenden Mitgliedstaaten der EU und in folgenden weiteren Gebieten bestehen Schutz- und Überwachungszonen:
 
-Bulgarien
-
 Dänemark
 
 Deutschland
 
 Estland
-
-Finnland
 
 Frankreich
 
