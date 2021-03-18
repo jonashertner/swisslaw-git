@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Ordinanza del 28 marzo 2018 che istituisce provvedimenti nei confronti del Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: it
-version: 2020-11-27
+version: 2021-03-19
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20201127/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20201127-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20201127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20210319/it/xml/fedlex-data-admin-ch-eli-cc-2018-191-20210319-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20210319/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Venezuela
 
-del 28 marzo 2018 (Stato 27 novembre 2020) (Stato 27 novembre 2020)
+del 28 marzo 2018 (Stato 19 marzo 2021) (Stato 19 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -181,7 +181,7 @@ Allegato 1*[^t-1]*
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Non è pubblicato né nella RU, né nella RS ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)[4005](https://fedlex.data.admin.ch/eli/oc/2018/645), [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)[3117](https://fedlex.data.admin.ch/eli/oc/2019/574)[3695](https://fedlex.data.admin.ch/eli/oc/2019/670), [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)e [4935](https://fedlex.data.admin.ch/eli/oc/2020/879)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Non è pubblicato né nella RU ([RU 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382), [4005](https://fedlex.data.admin.ch/eli/oc/2018/645); [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460), [3117](https://fedlex.data.admin.ch/eli/oc/2019/574)[3695](https://fedlex.data.admin.ch/eli/oc/2019/670); [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516), [4935](https://fedlex.data.admin.ch/eli/oc/2020/879); [2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)). È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 2
 

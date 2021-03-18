@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: Verordnung vom 28. März 2018 über Massnahmen gegenüber Venezuela
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: de
-version: 2020-11-27
+version: 2021-03-19
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20201127/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20201127-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20201127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20210319/de/xml/fedlex-data-admin-ch-eli-cc-2018-191-20210319-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20210319/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Venezuela
 
-vom 28. März 2018 (Stand am 27. November 2020) (Stand am 27. November 2020)
+vom 28. März 2018 (Stand am 19. März 2021) (Stand am 19. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -181,7 +181,7 @@ Anhang 1*[^t-1]*
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: In der AS nicht veröffentlicht ([AS 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)[4005](https://fedlex.data.admin.ch/eli/oc/2018/645), [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)[3117](https://fedlex.data.admin.ch/eli/oc/2019/574)[3695](https://fedlex.data.admin.ch/eli/oc/2019/670), [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)[4935](https://fedlex.data.admin.ch/eli/oc/2020/879)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: In der AS nicht veröffentlicht ([AS 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382), [4005](https://fedlex.data.admin.ch/eli/oc/2018/645); [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460), [3117](https://fedlex.data.admin.ch/eli/oc/2019/574), [3695](https://fedlex.data.admin.ch/eli/oc/2019/670); [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516), [4935](https://fedlex.data.admin.ch/eli/oc/2020/879); [2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 2
 

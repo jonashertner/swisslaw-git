@@ -3,18 +3,18 @@ sr: "946.231.178.5"
 title: "Ordonnance du 28 mars 2018 instituant des mesures à l'encontre du Venezuela"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/191"
 language: fr
-version: 2020-11-27
+version: 2021-03-19
 adopted: 2018-03-28
 in_force: 2018-03-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20201127/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20201127-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20201127/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/191/20210319/fr/xml/fedlex-data-admin-ch-eli-cc-2018-191-20210319-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/191/20210319/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Venezuela
 
-du 28 mars 2018 (Etat le 27 novembre 2020)
+du 28 mars 2018 (Etat le 19 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -178,7 +178,7 @@ Annexe 1*[^t-1]*
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
-[^t-1]: La présente annexe n’est publiée ni au RO, ni au RS ([RO 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382)[4005](https://fedlex.data.admin.ch/eli/oc/2018/645), [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460)[3117](https://fedlex.data.admin.ch/eli/oc/2019/574)[3695](https://fedlex.data.admin.ch/eli/oc/2019/670), [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516)[4935](https://fedlex.data.admin.ch/eli/oc/2020/879)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
+[^t-1]: La présente annexe n’est publiée ni au RO, ni au RS ([RO 2018 2571](https://fedlex.data.admin.ch/eli/oc/2018/382), [4005](https://fedlex.data.admin.ch/eli/oc/2018/645); [2019 2473](https://fedlex.data.admin.ch/eli/oc/2019/460), [3117](https://fedlex.data.admin.ch/eli/oc/2019/574), [3695](https://fedlex.data.admin.ch/eli/oc/2019/670); [2020 2833](https://fedlex.data.admin.ch/eli/oc/2020/516), [4935](https://fedlex.data.admin.ch/eli/oc/2020/879); [2021 155](https://fedlex.data.admin.ch/eli/oc/2021/155)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse.
 
 Annexe 2
 
