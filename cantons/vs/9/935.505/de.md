@@ -4,29 +4,30 @@ number: "935.505"
 title: Verordnung betreffend der Verteilung der Gewinne aus Lotterien
 short: VGL
 language: de
-version: 2001-07-01
-corrected: 2017-10-17
-version_adopted: 2001-07-04
+version: 2021-03-19
+valid_until: 2026-09-30
+version_adopted: 2021-03-10
 adopted: 2001-07-04
 in_force: 2001-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/935.505"
-pdf: "https://lex.vs.ch/api/de/versions/94/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/2864/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend der Verteilung der Gewinne aus Lotterien
 
-vom 4. Juli 2001
+vom 04.07.2001 (Stand 19.03.2021)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 der Kantonsverfassung;
 
-eingesehen Artikel 6ter des Gesetzes zur Vollziehung des Bundesgesetzes betreffend die Lotterien und die gewerbsmässigen Wetten vom 6. Februar 2001 (Änderung);
+eingesehen das Bundesgesetz über Geldspiele vom 29. September 2017 (BGS);
 
-auf Antrag des Departementes für Volkswirtschaft, Institutionen und Sicherheit,
+eingesehen das Ausführungsgesetz zum Bundesgesetz über Geldspiele vom 11. November 2020 (AGBGS);
+
+auf Antrag des für die Vorlkswirtschaft zuständigen Departementes,
 
 verordnet:
 
@@ -34,9 +35,15 @@ verordnet:
 
 **Ernennung, Zusammensetzung und Aufgabe des Verteilorgans**
 
-<sup>1</sup> Der Staatsrat ernennt ein Verteilorgan (nachstehend Delegation genannt), bestehend aus sieben Mitgliedern und unabhängig von der Kantonsverwaltung, welches mit der Verteilung der Gewinne, resultierend aus dem Betrieb von Lotterien, beauftragt ist.
+<sup>1</sup> Der Staatsrat ernennt ein Verteilorgan (nachstehend: Delegation), bestehend aus sieben Mitgliedern und unabhängig von der Kantonsverwaltung.
 
 <sup>2</sup> Bei der Ernennung der Mitglieder der Delegation ist eine ausgewogene regionale Vertretung zu gewährleisten.
+
+#### Art. 1a
+
+**Aufgabe der Delegation**
+
+<sup>1</sup> Die Delegation ist zuständig für die Verteilung des Kantonsanteil an den Erträgen aus Grossspielengemäss Artikel 6 Absatz 1 Buchstabe b AGBGS.
 
 #### Art. 2
 
@@ -44,7 +51,7 @@ verordnet:
 
 <sup>1</sup> Der Staatsrat ernennt den Präsidenten der Delegation. Im übrigen organisiert sich die Delegation selber.
 
-<sup>2</sup> Die Amtsdauer der Delegationsmitglieder beträgt höchstens zwölf Jahre.
+<sup>2</sup> Die Amtsdauer der Delegationsmitglieder beträgt höchstens 12 Jahre oder im Alter von 70 Jahren.
 
 <sup>3</sup> Jedes Mitglied kann schriftlich auf das Ende eines Kalenderjahres seine Demission einreichen.
 
@@ -70,7 +77,7 @@ verordnet:
 
 **Entscheidkompetenzen**
 
-<sup>1</sup> Die Delegation besitzt freies Ermessen.
+<sup>1</sup> Die Delegation besitzt freies Beiträge.
 
 <sup>2</sup> Es besteht kein Rechtsanspruch auf Zusprechung eines Beitrages der Delegation.
 
@@ -91,32 +98,25 @@ verordnet:
 <sup>1</sup> Grundsätzlich wird der Betrag am Anteil der Gewinne aus dem Betrieb von Lotterien zugunsten wohltätiger Aktionen und Werke sowie solcher im öffentlichen Nutzen zugesprochen:
 
 - a) welche Ziele im öffentlichen Interesse verfolgen, insbesondere solche im sozialen, kulturellen, künstlerischen, touristischen und wirtschaftlichen Bereich, im Behindertensport, der Erziehung, der Ausbildung und der Forschung, der Umwelt, der wissenschaftlichen Forschung, der Erhaltung des Allgemeingutes sowie im allgemeinen kantonalen Interesse;
-
 - b) deren Tätigkeit den lokalen Rahmen übersteigt, jedoch innerhalb der Grenzen des Kantons verbleibt;
-
 - c) welche keinen privaten gewinnbringenden Zweck verfolgen und keinen überwiegenden politischen oder religiösen Charakter aufweisen.
 
-<sup>2</sup> Der Ertrag aus dem Betrieb von Lotterien kann nicht zur Erfüllung öffentlich-rechtlicher Verpflichtungen von Gemeinwesen verwendet werden (Art. 5 BGLW).
+<sup>2</sup> Der Ertrag aus dem Betrieb von Lotterien kann nicht zur Erfüllung öffentlich-rechtlicher Verpflichtungen von Gemeinwesen verwendet werden (Art. 31 Abs.3 AGBGS).
 
 <sup>3</sup> Unter Einhaltung einschränkender Bedingungen können Beiträge gewährt werden an:
 
 - a) nebenberufliche künstlerische Aktivitäten;
-
 - b) Freizeitbeschäftigungen (mit Ausnahme von Behinderten);
-
 - c) privaten Personen oder Vereinigungen, welche einen wohltätigen oder einen im öffentlichen Interesse liegenden Zweck verfolgen;
-
 - d) Ausbildungen im sozialen und kulturellen Bereich;
-
-- e) Publikationen (Bücher, CD, etc.) von kantonalem Interesse;
-
+- e) Publikationen von kantonalem Interesse;
 - f) Bauten und Renovationen von Gütern von sozialem und kulturellem Interesse;
-
 - g) die Deckung von Löhnen, Sozialabgaben oder Defizite von Organisationen ohne gewinnbringenden Zweck;
-
 - h) ein neues Gesuch innerhalb desselben Kalenderjahres.
 
 <sup>4</sup> Die Verteilkriterien sind zu Beginn des Kalenderjahres im Amtsblatt zu veröffentlichen.
+
+<sup>5</sup> Der Staatsrat kann über seinen Hilfsfonds internationale Hilfe gewähren.
 
 #### Art. 8
 
@@ -130,30 +130,26 @@ verordnet:
 
 **Aufsicht und Genehmigung durch den Staatsrat**
 
-<sup>1</sup> Das Organisations-, Entschädigungs- und Verteilreglement, die Jahresrechnung, der Geschäftsbericht sowie die Entscheide der Delegation unterliegen der Genehmigung durch den Staatsrat.
+<sup>1</sup> Das Organisations-, Entschädigungs- und Verteilreglement, die Jahresrechnung sowie die Entscheide der Delegation unterliegen der Genehmigung durch den Staatsrat.
 
 <sup>2</sup> Die Delegation hat dem zuständigen Departement jedes Jahr am 30. April den schriftlichen Tätigkeitsbericht und den Kontrollbericht über das vergangene Geschäftsjahr abzuliefern.
 
-<sup>3</sup> Das kantonale Finanzinspektorat überprüft jährlich die Jahresrechnung der Delegation (Bilanz, Gewinn- und Verlustrechnung).
+<sup>3</sup> Das kantonale Finanzinspektorat überprüft die Jahresrechnung der Delegation (Bilanz, Gewinn- und Verlustrechnung).
 
 #### Art. 10
 
 **Rechtsmittel**
 
-Die durch den Staatsrat genehmigten Entscheide der Delegation sind endgültig und mit keinem Rechtsmittel anfechtbar.
+<sup>1</sup> Die durch den Staatsrat genehmigten Entscheide der Delegation sind endgültig und mit keinem Rechtsmittel anfechtbar.
 
 #### Art. 11
 
-**Übergangsbestimmung**
-
-Nach Ablauf einer Übergangsfrist von vier Jahren darf kein Mitglied der Kommission über mehr als zwölf Mitgliedschaftsjahre verfügen.
+**…**
 
 #### Art. 12
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung tritt am 1. Juli 2001 in Kraft und wird im Amtsblatt publiziert.
+<sup>1</sup> Die vorliegende Verordnung tritt am 1. Juli 2001 in Kraft und wird im Amtsblatt publiziert.
 
-So beschlossen im Staatsrat zu Sitten, den 4. Juli 2001.
-
-Der Präsident des Staatsrates: Wilhelm Schnyder Der Staatskanzler: Henri v. Roten
+CSW RO/AGS 2001 f 156 | d 162
