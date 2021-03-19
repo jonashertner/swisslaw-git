@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sull'assicurazione obbligatoria contro
 short: LADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: it
-version: 2021-01-01
+version: 2021-03-20
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210320/it/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210320-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210320/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/it"
 
 (Legge sull’assicurazione contro la disoccupazione, LADI**[^t-1]**)
 
-del 25 giugno 1982 (Stato 1° gennaio 2021) (Stato 1° gennaio 2021)
+del 25 giugno 1982 (Stato 20 marzo 2021) (Stato 20 marzo 2021)
 
 [^t-1]: Nuova abbreviazione giusta il n. I della LF del 5 ott. 1990, in vigore dal 1° gen. 1992 ([RU 1991 2125](https://fedlex.data.admin.ch/eli/oc/1991/2125_2125_2125); [FF 1989 III 325](https://fedlex.data.admin.ch/eli/fga/1989/3_377_369_325)). Di questa mod. è tenuto conto in tutto il presente testo.
 
@@ -2199,13 +2199,13 @@ L’assicurazione contro la disoccupazione è finanziata con:
 
 <sup>2</sup> ...[^90a-2]
 
-<sup>3</sup> Nel 2020 la Confederazione eroga un contributo straordinario al fondo di compensazione. L’importo totale del contributo straordinario è calcolato in base alle spese generate dall’indennità per lavoro ridotto nei periodi di conteggio dell’anno 2020.[^90a-3]
+<sup>3</sup> Nel 2020 e nel 2021 la Confederazione eroga un contributo straordinario al fondo di compensazione. Gli importi totali dei contributi straordinari per gli anni 2020 e 2021 sono calcolati in base alle spese generate dall’indennità per lavoro ridotto nei periodi di conteggio del pertinente anno.[^90a-3]
 
 <sup>4</sup> Se è prevedibile che alla fine del 2021 il debito del fondo di compensazione superi il 2,5 per cento della somma dei salari soggetti a contribuzione e se questo superamento è riconducibile all’epidemia di COVID-19, la Confederazione può erogare al fondo di compensazione un contributo straordinario.[^90a-4]
 
 [^90a-1]: Introdotto dal n. I della LF del 22 mar. 2002 ([RU 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 1967](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nuovo testo giusta il n. I della LF del 19 mar. 2010, in vigore dal 1° apr. 2011 ([RU 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 6761](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Introdotto dal n. I 3 della LF del 30 set. 2011 sulle misure per attenuare la forza del franco e migliorare la competitività, in vigore dal 1° ott. 2011 al 30 set. 2012 ([RU 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6005](https://fedlex.data.admin.ch/eli/fga/2011/1078)).
-[^90a-3]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione), in vigore dal 26 set. 2020 al 31 dic. 2022 ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
+[^90a-3]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione) ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nuovo testo giusta il n. I della LF del 19 mar. 2021 (Contributo straordinario 2021 al fondo di compensazione), in vigore dal 20 mar. 2021 al 31 dic. 2021 ([RU 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^90a-4]: Introdotto dal n. I della LF del 25 set. 2020 (Finanziamento supplementare dell’assicurazione contro la disoccupazione), in vigore dal 26 set. 2020 al 31 dic. 2022 ([RU 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 5879](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
 #### Art. 90b
@@ -2844,3 +2844,13 @@ Data dell’entrata in vigore: art. 51 a 58 e 109: 1° gennaio 1983[^122-2] disp
 [^u3-1]: [RU 2013 3519](https://fedlex.data.admin.ch/eli/oc/2013/654); [FF 2013 1645](https://fedlex.data.admin.ch/eli/fga/2013/328)
 
 Sino alla fine dell’anno nel quale il capitale proprio del fondo di compensazione, dedotto il capitale di esercizio necessario per la gestione, raggiunge almeno 0,5 miliardi di franchi, è riscosso un contributo dell’1 per cento sulla parte di salario che supera il guadagno massimo assicurato. La competenza del Consiglio federale di riscuotere un contributo massimo dell’1 per cento su tale parte di salario secondo l’articolo 90*c* capoverso 1 è soppressa.
+
+## Disposizione transitoria della modifica del 19 marzo 2021****
+
+[^u4-1]
+
+[^u4-1]: [RU 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)
+
+Tra il 1° gennaio 2021 e l’entrata in vigore della legge federale del 19 giugno 2020[^u4-2] sulle prestazioni transitorie per i disoccupati anziani i disoccupati che compiono 60 anni entro il 1° luglio 2021 e che hanno pagato i contributi all’AVS durante almeno 20 anni non esauriscono il diritto alle indennità di disoccupazione.
+
+[^u4-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373); [FF 2020 4935](https://fedlex.data.admin.ch/eli/fga/2020/1299)

@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l
 short: LACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: fr
-version: 2021-01-01
+version: 2021-03-20
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210320/fr/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210320-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210320/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/fr"
 
 (Loi sur l’assurance-chômage, LACI)
 
-du 25 juin 1982 (Etat le 1<sup>er</sup> janvier 2021)
+du 25 juin 1982 (Etat le 20 mars 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -2200,13 +2200,13 @@ L’assurance est financée par:
 
 <sup>2</sup> ...[^90a-2]
 
-<sup>3</sup> En 2020, la Confédération verse une participation extraordinaire au fonds de compensation. La somme totale de la participation extraordinaire est calculée sur la base des dépenses engagées pour l’indemnité en cas de réduction de l’horaire de travail pendant les périodes de décompte de l’année 2020.[^90a-3]
+<sup>3</sup> La Confédération verse une participation extraordinaire au fonds de compensation en 2020 et en 2021. La somme totale des participations extraordinaires versées en 2020 et en 2021 est calculée sur la base des dépenses engagées pour l’indemnité en cas de réduction de l’horaire de travail pendant les périodes de décompte de chacune de ces années.[^90a-3]
 
 <sup>4</sup> S’il est prévisible que la dette du fonds de compensation dépassera, à la fin de l’année 2021, 2,5 % de la somme des salaires soumis à cotisation et si ce dépassement est lié à l’épidémie de COVID-19, la Confédération peut verser une participation extraordinaire au fonds de compensation.[^90a-4]
 
 [^90a-1]: Introduit par le ch. I de la LF du 22 mars 2002 ([RO 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [FF 2001 2123](https://fedlex.data.admin.ch/eli/fga/2001/493)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2010, en vigueur depuis le 1<sup>er</sup> avr. 2011 ([RO 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [FF 2008 7029](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Introduit par le ch. I 3 de la LF du 30 sept. 2011 sur les mesures visant à atténuer les effets du franc fort et à améliorer la compétitivité, en vigueur du 1<sup>er</sup> oct. 2011 au 30 sept. 2012 ([RO 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [FF 2011 6217](https://fedlex.data.admin.ch/eli/fga/2011/1078)).
-[^90a-3]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage), en vigueur du 26 sept. 2020 au 31 déc. 2022 ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
+[^90a-3]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage) ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Nouvelle teneur selon le ch. I de la LF du 19 mars 2021 (Participation extraordinaire 2021 au fonds de compensation), en vigueur du 20 mars 2021 au 31 déc. 2021 ([RO 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^90a-4]: Introduit par le ch. I de la LF du 25 sept. 2020 (Financement additionnel de l’assurance-chômage), en vigueur du 26 sept. 2020 au 31 déc. 2022 ([RO 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [FF 2020 6465](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
 #### Art. 90b
@@ -2843,3 +2843,13 @@ Date de l’entrée en vigueur: Art. 51 à 58 et 109: 1<sup>er</sup> janvier 198
 [^u3-1]: [RO 2013 3519](https://fedlex.data.admin.ch/eli/oc/2013/654); [FF 2013 1715](https://fedlex.data.admin.ch/eli/fga/2013/328)
 
 Une cotisation de 1 % est prélevée sur les tranches de salaires supérieures au montant maximal du gain assuré, jusqu’à la fin de l’année au cours de laquelle le capital propre du fonds de compensation, sous déduction des fonds de roulement nécessaires à l’exploitation, atteint ou dépasse 0,5 milliard de francs. La compétence du Conseil fédéral de percevoir une cotisation de 1 % au plus sur ces tranches de salaires en vertu de l’art. 90*c*, al. 1, est alors supprimée.
+
+## Disposition transitoire de la modification du 19 mars 2021****
+
+[^u4-1]
+
+[^u4-1]: [RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)
+
+Les chômeurs, qui ont atteint l’âge de 60 ans jusqu’au 1<sup>er</sup> juillet 2021 et qui ont cotisé pendant au moins 20 ans à l’AVS, n’arrivent pas en fin de droit dans l’assurance-chômage à partir du 1<sup>er</sup> janvier 2021 jusqu’à l’entrée en vigueur de la loi fédérale du 19 juin 2020 sur les prestations transitoires pour les chômeurs âgés[^u4-2].
+
+[^u4-2]: [RS 837.2](https://fedlex.data.admin.ch/eli/cc/2021/373); [FF 2020 5357](https://fedlex.data.admin.ch/eli/fga/2020/1299)

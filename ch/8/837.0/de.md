@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die obligatorische Arbeitslosenvers
 short: AVIG
 eli: "https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184"
 language: de
-version: 2021-01-01
+version: 2021-03-20
 adopted: 1982-06-25
 in_force: 1983-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184/20210320/de/xml/fedlex-data-admin-ch-eli-cc-1982-2184_2184_2184-20210320-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210320/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1982/2184_2184_2184/20210101/de"
 
 (Arbeitslosenversicherungsgesetz, AVIG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2021)
+vom 25. Juni 1982 (Stand am 20. März 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -2195,13 +2195,13 @@ Die Versicherung wird finanziert durch:
 
 <sup>2</sup> ...[^90a-2]
 
-<sup>3</sup> Im Jahr 2020 leistet der Bund einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsumme des ausserordentlichen Beitrages bemisst sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des Jahres 2020.[^90a-3]
+<sup>3</sup> Der Bund leistet in den Jahren 2020 und 2021 jeweils einen ausserordentlichen Beitrag an den Ausgleichsfonds. Die Gesamtsummen der ausserordentlichen Beiträge für die Jahre 2020 und 2021 bemessen sich nach den Aufwendungen für die Kurzarbeitsentschädigung für die Abrechnungsperioden des jeweiligen Jahres.[^90a-3]
 
 <sup>4</sup> Ist vorauszusehen, dass der Schuldenstand des Ausgleichsfonds Ende des Jahres 2021 2,5 Prozent der von der Beitragspflicht erfassten Lohnsumme überschreiten wird, und ist diese Überschreitung auf die Covid-19-Epidemie zurückzuführen, so kann der Bund einen ausserordentlichen Beitrag an den Ausgleichsfonds leisten.[^90a-4]
 
 [^90a-1]: Eingefügt durch Ziff. I des BG vom 22. März 2002 ([AS 2003 1728](https://fedlex.data.admin.ch/eli/oc/2003/260); [BBl 2001 2245](https://fedlex.data.admin.ch/eli/fga/2001/493)). Fassung gemäss Ziff. I des BG vom 19. März 2010, in Kraft seit 1. April 2011 ([AS 2011 1167](https://fedlex.data.admin.ch/eli/oc/2011/171); [BBl 2008 7733](https://fedlex.data.admin.ch/eli/fga/2008/1319)).
 [^90a-2]: Eingefügt durch Ziff. I 3 des BG vom 30. Sept. 2011 über Massnahmen zur Abfederung der Frankenstärke und zur Verbesserung der Wettbewerbsfähigkeit, in Kraft vom 1. Okt. 2011 bis zum 30. Sept. 2012 ([AS 2011 4497](https://fedlex.data.admin.ch/eli/oc/2011/624); [BBl 2011 6749](https://fedlex.data.admin.ch/eli/fga/2011/1078)).
-[^90a-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung), in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
+[^90a-3]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung) ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)). Fassung gemäss Ziff. I des BG vom 19. März 2021 (Ausserordentlicher Beitrag 2021 an den Ausgleichsfonds), in Kraft vom 20. März 2021 bis zum 31. Dez. 2021 ([AS 2021 154](https://fedlex.data.admin.ch/eli/oc/2021/154); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^90a-4]: Eingefügt durch Ziff. I des BG vom 25. Sept. 2020 (Zusatzfinanzierung Arbeitslosenversicherung), in Kraft vom 26. Sept. 2020 bis zum 31. Dez. 2022 ([AS 2020 3847](https://fedlex.data.admin.ch/eli/oc/2020/713); [BBl 2020 6685](https://fedlex.data.admin.ch/eli/fga/2020/1729)).
 
 #### Art. 90b
