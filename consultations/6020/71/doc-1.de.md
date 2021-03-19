@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsbestimmungen zur Änderung des Bundesgesetzes über die Invalidenversicherung (Weiterentwicklung der IV)
 document: Vorlage 1
 language: de

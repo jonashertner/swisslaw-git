@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Dispositions d'exécution concernant la modification de la loi fédérale sur l'assurance-invalidité (Développement continu de l'AI)"
 document: Projet 2
 language: fr
