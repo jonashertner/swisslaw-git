@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: Ordinanza della SEFRI del 21 agosto 2020 sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: it
-version: 2021-01-01
+version: 2021-03-22
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210322-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210322/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Operatrice socioassistenziale / Operatore socioassistenziale con attestato federale di capacità (AFC)
 
-del 21 agosto 2020 (Stato 1° gennaio 2021)
+del 21 agosto 2020 (Stato 22 marzo 2021) (Stato 22 marzo 2021)
 
 <table>
 <tr><td>94308</td><td>Operatrice socioassistenziale AFC/ Operatore socioassistenziale AFC</td></tr>
@@ -163,15 +163,15 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
   - 2\. partecipare alla pianificazione delle offerte che favoriscono la formazione e lo sviluppo,
   - 3\. proporre e attuare offerte riferite a gruppi e a bambini,
   - 4\. partecipare all’analisi e alla valutazione delle offerte formative e di sviluppo,
-  - 5\. aiutare le persone con disabilità a esprimere le proprie richieste ed esigenze su come organizzare la propria vita,
+  - 5\.[^4-1] aiutare le persone con disabilità a esprimere le proprie richieste e i propri bisogni su come organizzare la propria vita,
   - 6\. partecipare alla pianificazione delle offerte e attività per persone con disabilità,
   - 7\. aiutare le persone con disabilità a sfruttare offerte e svolgere attività,
   - 8\. partecipare alla valutazione delle offerte e attività per persone con disabilità,
-  - 9\. partecipare all’identificazione delle esigenzei e degli interessi e riconoscere i contesti in cui le persone anziane hanno bisogno di assistenza,
+  - 9\.[^4-2] partecipare all’identificazione dei bisogni e degli interessi e riconoscere i contesti in cui le persone anziane hanno bisogno di assistenza,
   - 10\. partecipare alla pianificazione delle offerte e attività di assistenza per persone anziane,
   - 11\. aiutare le persone anziane a sfruttare offerte e svolgere attività,
   - 12\. partecipare alla valutazione delle offerte per persone anziane,
-  - 13\. partecipare all’identificazione delle esigenze e riconoscere i contesti in cui le persone assistite hanno bisogno di assistenza,
+  - 13\.[^4-3] partecipare all’identificazione dei bisogni e riconoscere i contesti in cui le persone assistite hanno bisogno di assistenza,
   - 14\. partecipare alla pianificazione delle offerte e attività per le persone assistite,
   - 15\. aiutare le persone assistite a sfruttare offerte e svolgere attività,
   - 16\. partecipare alla valutazione delle offerte e attività per le persone assistite.
@@ -184,6 +184,10 @@ La formazione prevede, nei campi di competenze operative sotto indicati, le comp
 <tr><td>Comportamento in specifiche situazioni di accompagnamento:</td><td>e1 – e4</td><td>e5 – e8</td><td>e9 – e12</td><td>e13 – e16</td></tr>
 <tr><td>Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita:</td><td>f1 – f4</td><td>f5 – f8</td><td>f9 – f12</td><td>f13 – f16</td></tr>
 </table>
+
+[^4-1]: Correzione del 22 mar. 2021 ([RU 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
+[^4-2]: Correzione del 22 mar. 2021 ([RU 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
+[^4-3]: Correzione del 22 mar. 2021 ([RU 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
 
 ## Sezione 3: Sicurezza sul lavoro, protezione della salute e dell’ambiente
 
@@ -269,9 +273,11 @@ Nel quadro della formazione di base organizzata dalla scuola la formazione profe
 <tr><td>**Totale** **giorni**</td><td></td><td></td><td></td><td>**20**</td><td>**20**</td><td>**20**</td><td>**20**</td></tr>
 </table>
 
-<sup>3</sup> I corsi 1, 4 e 7 non sono sprecificati in base agli indirizzi professionali.
+<sup>3</sup> I corsi 1, 4 e 7 vengono frequentati dalle persone in formazione di tutti gli indirizzi professionali.[^8-1]
 
 <sup>4</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+[^8-1]: Correzione del 22 mar. 2021 ([RU 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
 
 ## Sezione 5: Piano di formazione
 
@@ -397,7 +403,7 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 
 <table>
 <tr><td>Voce</td><td>Contenuto</td><td>Ponderazione</td></tr>
-<tr><td>1</td><td>Campi di competenze operative</td><td>70 %</td></tr>
+<tr><td>1</td><td>Tutti i campi di competenze operative[^17-1]</td><td>70 %</td></tr>
 <tr><td>2</td><td>Colloquio professionale</td><td>30 %</td></tr>
 </table>
 
@@ -414,11 +420,12 @@ Nella procedura di qualificazione con esame finale sono esaminate, nel modo sott
 <tr><td>2</td><td>Comportamento in specifiche situazioni di accompagnamento Sostegno alla formazione, allo sviluppo, al mantenimento e alla promozione della qualità di vita</td><td>60 min.</td><td></td><td>30 %</td></tr>
 </table>
 
-- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-1] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
+- c. «cultura generale»: a questo campo di qualificazione si applica l’ordinanza della SEFRI del 27 aprile 2006[^17-2] sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base.
 
 <sup>2</sup> Per ogni campo di qualificazione la valutazione è effettuata da almeno due periti d’esame.
 
-[^17-1]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
+[^17-1]: Correzione del 22 mar. 2021 ([RU 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
+[^17-2]: [RS 412.101.241](https://fedlex.data.admin.ch/eli/cc/2006/510)
 
 #### Art. 18
 
@@ -568,8 +575,8 @@ Sono equivalenti all’attestato federale di capacità di cui all’articolo 21:
     - – assistenza agli anziani
     - – operatore socioassistenziale,
 
-  - 2\. i certificati cantonali di capacità e i certificati riconosciuti dall’associazione *Schweizerischer Krippe**n**verband* *(SKV)* per educatori della prima infanzia (formazione triennale),
-  - 3\. i certificati riconosciuti dall’associazione *Verband für anthroposophische Heilpädagogik und Sozialth**e**rapie in der Schweiz (VaHS*) per l’assistenza agli handicappati (formazione triennale);
+  - 2\. i certificati cantonali di capacità e i certificati riconosciuti dall’associazione *Schweizerischer Krippenverband* *(SKV)* per educatori della prima infanzia (formazione triennale),
+  - 3\. i certificati riconosciuti dall’associazione *Verband für anthroposophische Heilpädagogik und Sozialtherapie in der Schweiz (VaHS*) per l’assistenza agli handicappati (formazione triennale);
 
 #### Art. 27
 

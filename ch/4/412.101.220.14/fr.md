@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: "Ordonnance du SEFRI du 21 août 2020 sur la formation professionnelle initiale d'assistante socio-éducative / assistant socio-éducatif avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: fr
-version: 2021-01-01
+version: 2021-03-22
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210322/fr/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210322-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’assistante socio-éducative / assistant socio-éducatif avec certificat fédéral de capacité (CFC)
 
-du 21 août 2020 (Etat le 1<sup>er</sup> janvier 2021)
+du 21 août 2020 (État le 22 mars 2021)
 
 <table>
 <tr><td>94308</td><td>Assistante socio-éducative CFC / assistant socio-éducatif CFC</td></tr>
@@ -34,7 +34,7 @@ arrête:
 
 [^ingress-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
 [^ingress-2]: [RS 412.101](https://fedlex.data.admin.ch/eli/cc/2003/748)
-[^ingress-3]: RS **822****.****115**
+[^ingress-3]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
 
 ## Section 1 Objet, orientations et durée
 
@@ -163,7 +163,7 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
   - 2\. participer à la planification de prestations favorisant l’éducation et le développement,
   - 3\. suggérer et mettre en œuvre des prestations adaptées aux groupes et aux enfants,
   - 4\. participer à l’analyse et à l’évaluation des prestations d’éducation et de développement,
-  - 5\. soutenir les personnes en situation de handicap dans l’expression de leurs préoccupations et de leurs besoins quant à l’organisation de leur vie,
+  - 5\.[^4-1] soutenir les personnes en situation de handicap dans l’expression de leurs préoccupations et de leurs besoins quant à l’organisation de leur vie,
   - 6\. participer à la planification de prestations et d’activités pour les personnes en situation de handicap,
   - 7\. accompagner les personnes en situation de handicap lors de la réalisation de prestations et d’activités,
   - 8\. participer à l’évaluation des prestations et des activités pour les personnes en situation de handicap,
@@ -184,6 +184,8 @@ La formation comprend les compétences opérationnelles ci-après dans les domai
 <tr><td>Gestes adéquats dans des situations d’accompagnement spécifiques</td><td>e1 – e4</td><td>e5 – e8</td><td>e9 – e12</td><td>e13 – e16</td></tr>
 <tr><td>Soutien à l’éducation et au développement, maintien et amélioration de la qualité de vie</td><td>f1 – f4</td><td>f5 – f8</td><td>f9 – f12</td><td>f13 – f16</td></tr>
 </table>
+
+[^4-1]: Erratum du 22 mars 2021, ne concerne que le texte italien ([RO 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
 
@@ -224,7 +226,7 @@ Dans le cadre d’une formation initiale en école, la formation à la pratique 
 <sup>1</sup> L’enseignement obligatoire dispensé à l’école professionnelle comprend 1600 périodes d’enseignement. Celles-ci sont réparties selon le tableau suivant:
 
 <table>
-<tr><td colspan="2">Enseignement</td><td colspan="2">1<sup><sup>re</sup></sup> année</td><td colspan="2">2<sup><sup>e</sup></sup> année</td><td colspan="2">3<sup><sup>e</sup></sup> année</td><td>Total</td></tr>
+<tr><th colspan="2">Enseignement</th><th colspan="2">1<sup><sup>re</sup></sup> année</th><th colspan="2">2<sup><sup>e</sup></sup> année</th><th colspan="2">3<sup><sup>e</sup></sup> année</th><th>Total</th></tr>
 <tr><td colspan="2">a. Connaissances professionnelles</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td></tr>
 <tr><td colspan="2">– Mise en œuvre de compétences transversales</td><td colspan="2">60</td><td colspan="2">120</td><td colspan="2">60</td><td>240</td></tr>
 <tr><td colspan="2">– Accompagnement au quotidien</td><td colspan="2">200</td><td colspan="2">40</td><td colspan="2"></td><td>240</td></tr>

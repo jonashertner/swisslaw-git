@@ -3,18 +3,18 @@ sr: "412.101.220.14"
 title: Verordnung des SBFI vom 21. August 2020 über die berufliche Grundbildung Fachfrau Betreuung / Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/678"
 language: de
-version: 2021-01-01
+version: 2021-03-22
 adopted: 2020-08-21
 in_force: 2021-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/678/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2020-678-20210322-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/678/20210322/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Fachfrau Betreuung / Fachmann Betreuung mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 21. August 2020 (Stand am 1. Januar 2021)
+vom 21. August 2020 (Stand am 22. März 2021)
 
 <table>
 <tr><td>94308</td><td>Fachfrau Betreuung EFZ / Fachmann Betreuung EFZ</td></tr>
@@ -163,7 +163,7 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
   - 2\. bei der Planung von bildungs- und entwicklungsunterstützenden Angeboten mitwirken,
   - 3\. gruppen- und kinderbezogene Angebote anregen und durchführen,
   - 4\. beim Analysieren und Auswerten der Bildungs- und Entwicklungsangebote mitwirken,
-  - 5\. Menschen mit Beeinträchtigung beim Ausdrücken ihrer Anliegen und Bedürfnisse in Bezug auf ihre Lebensgestaltung unterstützen,
+  - 5\.[^4-1] Menschen mit Beeinträchtigung beim Ausdrücken ihrer Anliegen und Bedürfnisse in Bezug auf ihre Lebensgestaltung unterstützen,
   - 6\. bei der Planung von Angeboten und Aktivitäten für Menschen mit Beeinträchtigung mitwirken,
   - 7\. Menschen mit Beeinträchtigung bei Angeboten und Aktivitäten begleiten,
   - 8\. bei der Auswertung von Angeboten und Aktivitäten für Menschen mit Beeinträchtigung mitwirken,
@@ -184,6 +184,8 @@ Die Ausbildung umfasst in den folgenden Handlungskompetenzbereichen die nachsteh
 <tr><td>Handeln in spezifischen Begleitsituationen:</td><td>e1–e4</td><td>e5–e8</td><td>e9–e12</td><td>e13–e16</td></tr>
 <tr><td>Unterstützen von Bildung und Entwicklung, Erhalten und Fördern von Lebensqualität:</td><td>f1–f4</td><td>f5–f8</td><td>f9–f12</td><td>f13–f16</td></tr>
 </table>
+
+[^4-1]: Die Berichtigung vom 22. März 2021 betrifft nur den italienischen Text ([AS 2021 161](https://fedlex.data.admin.ch/eli/oc/2021/161)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -295,7 +297,7 @@ Der Bildungsplan hat folgenden Inhalt:
 - c. Er bestimmt, an welchen Lernorten welche Handlungskompetenzen vermittelt und gelernt werden.
 - [tab] <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 21. August 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter www.bvz.admin.ch &gt; Berufe von A–Z.
+[^9-1]: Der Bildungsplan vom 21. August 2020 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe von A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
@@ -369,7 +371,7 @@ Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung 
   ausserhalb eines geregelten Bildungsganges und:
 
   - 1\. die nach Artikel 32 BBV erforderliche Erfahrung erworben hat,
-  - 2\. von dieser beruflichen Erfahrung mindestens zwei Jahre im Bereich der Fachfrau und des Fachmanns EFZ erworben hat, und
+  - 2\. von dieser beruflichen Erfahrung mindestens zwei Jahre im Bereich der Fachfrau und des Fachmanns Betreuung EFZ erworben hat, und
   - 3\. glaubhaft macht, den Anforderungen der jeweiligen Qualifikationsverfahren gewachsen zu sein.
 
 #### Art. 16
@@ -541,7 +543,7 @@ Die Verordnung des SBFI vom 16. Juni 2005[^24-1] über die berufliche Grundbildu
 
 **Übergangsbestimmungen und erstmalige Anwendung einzelner Bestimmungen**
 
-<sup>1</sup> Lernende, die ihre Bildung als Fachfrau oder Fachmann Betreuung vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2025
+<sup>1</sup> Lernende, die ihre Bildung als Fachfrau oder Fachmann Betreuung vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, längstens jedoch bis zum 31. Dezember 2025.
 
 <sup>2</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Fachfrau oder Fachmann Betreuung bis zum 31. Dezember 2025 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
 
