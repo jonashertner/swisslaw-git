@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordonnance du 27 janvier 2021 sur les mesures destinées à lutter contre le coronavirus (COVID-19) dans le domaine du transport international de voyageurs (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: fr
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210322/fr/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210322-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/fr"
 
 (Ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)
 
-du 27 janvier 2021 (Etat le 15 mars 2021)
+du 27 janvier 2021 (Etat le 22 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -216,16 +216,20 @@ Toute personne obligée de se mettre en quarantaine-voyage en vertu de la prése
 
 [^sec4a-1]: Introduite par le ch. I de l’O du 17 fév. 2021 (Exceptions à l’obligation de présenter un résultat de test négatif), en vigueur depuis le 22 fév. 2021 ([RO 2021 94](https://fedlex.data.admin.ch/eli/oc/2021/94)).
 
-**Art. 9**a
+#### Art. 9a
 
 <sup>1</sup> Les entreprises de transport aérien doivent informer les passagers qu’ils sont tenus de se faire tester pour le SARS-CoV-2 avant le départ et qu’ils ne seront autorisés à monter dans l’avion que s’ils peuvent présenter un résultat de test négatif.
 
-<sup>2</sup> Avant le départ, elles doivent vérifier l’existence d’un résultat de test négatif basé sur une analyse répondant à l’état de la science et de la technique. Le prélèvement ne doit pas avoir été réalisé depuis:
+<sup>2</sup>
+
+Avant le départ, elles doivent vérifier l’existence d’un résultat de test négatif basé sur une analyse répondant à l’état de la science et de la technique. Le prélèvement ne doit pas avoir été réalisé depuis:
 
 - a. plus de 72 heures dans le cas d’une analyse de biologie moléculaire pour le SARS-CoV-2;
 - b. plus de 24 heures dans le cas d’un test immunologique rapide SARS-CoV-2.
 
-<sup>3</sup> Le document contenant le résultat du test doit contenir les informations suivantes:
+<sup>3</sup>
+
+Le document contenant le résultat du test doit contenir les informations suivantes:
 
 - a. le nom, le prénom et la date de naissance de la personne testée;
 - b. la date et l’heure du prélèvement;
@@ -234,7 +238,9 @@ Toute personne obligée de se mettre en quarantaine-voyage en vertu de la prése
 
 <sup>4</sup> Les entreprises de transport aérien doivent refuser l’accès à l’avion à tous les passagers qui ne peuvent apporter la preuve d’un résultat de test négatif au sens de l’al. 2.
 
-<sup>5</sup> Elles peuvent transporter les passagers suivants en l’absence d’un résultat de test négatif:
+<sup>5</sup>
+
+Elles peuvent transporter les passagers suivants en l’absence d’un résultat de test négatif:
 
 - a. les enfants de moins de douze ans;
 - b. les personnes munies d’une attestation médicale prouvant qu’elles doivent être transportées d’urgence en Suisse pour des raisons médicales;
@@ -282,7 +288,7 @@ Annexe 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 mars 2021, en vigueur depuis le 11 mars 2021 ([RO 2021 139](https://fedlex.data.admin.ch/eli/oc/2021/139)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 10 mars 2021, en vigueur depuis le 22 mars 2021 ([RO 2021 140](https://fedlex.data.admin.ch/eli/oc/2021/140)).
 [^annex1-lvlu1-1]: Lorsqu’un État figure sur la liste, tous ses territoires, îles et territoires d’outre-mer sont concernés, même s’ils n’y sont pas nommés séparément.
 
 ### 1. États et zones
@@ -299,9 +305,15 @@ Bahreïn
 
 Barbade
 
+Belgique
+
 Brésil
 
+Bulgarie
+
 Chili
+
+Chypre
 
 Émirats arabes unis
 
@@ -309,9 +321,15 @@ Estonie
 
 États-Unis d’Amérique
 
+Hongrie
+
 Irlande
 
 Israël
+
+Jordanie
+
+Kosovo
 
 Koweït
 
@@ -322,6 +340,8 @@ Liban
 Lituanie
 
 Luxembourg
+
+Macédoine du Nord
 
 Maldives
 
@@ -336,6 +356,12 @@ Monténégro
 Pays-Bas (Royaume des)
 
 Pérou
+
+Pologne
+
+Qatar
+
+Roumanie
 
 Royaume-Uni
 
@@ -355,11 +381,20 @@ Suède
 
 Tchéquie
 
+Territoire palestinien occupé
+
+Uruguay
+
 ### 2. Zones des pays voisins
+
+Zones en Allemagne:
+
+- – Land Thüringen
 
 Zones en France:
 
 - – Région Centre-Val de Loire
+- – Région Corse
 - – Région Hauts-de-France
 - – Région Île-de-France
 - – Région Normandie
@@ -371,22 +406,28 @@ Zones en France:
 Zones en Italie:
 
 - – Regione Abruzzo
+- – Regione Basilicata
 - – Regione Campania
 - – Regione Emilia Romagna
 - – Regione Friuli Venezia Giulia
+- – Regione Lazio
 - – Regione Liguria
 - – Regione Marche
 - – Regione Molise
 - – Regione Puglia
 - – Regione Toscana
 - – Regione Umbria
+- – Regione Veneto
 
 Zones en Autriche:
 
+- – Land Burgenland
 - – Land Kärnten
 - – Land Niederösterreich
+- – Land Oberösterreich
 - – Land Salzburg
 - – Land Steiermark
+- – Land Wien
 
 Annexe 2
 

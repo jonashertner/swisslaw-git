@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210322/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210322-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 15 March 2021)
+of 27 January 2021 (Status as of 22 March 2021)
 
 The Swiss Federal Council,
 
@@ -290,7 +290,7 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by Annex No I of the O of the FDHA of 10 March 2021, in force since 11 March 2021 ([AS 2021 139](https://fedlex.data.admin.ch/eli/oc/2021/139)).
+[^t-1]: Amended by Annex No I of the O of the FDHA of 10 March 2021, in force since 22 March 2021 ([AS 2021 140](https://fedlex.data.admin.ch/eli/oc/2021/140)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
@@ -305,17 +305,29 @@ Bahrain
 
 Barbados
 
+Belgium
+
 Brazil
+
+Bulgaria
 
 Chile
 
 Czech Republic
 
+Cyprus
+
 Estonia
+
+Hungary
 
 Ireland
 
 Israel
+
+Jordan
+
+Kosovo
 
 Kuwait
 
@@ -339,7 +351,17 @@ Montenegro
 
 Netherlands
 
+North Macedonia
+
+Occupied Palestinian Territory
+
 Peru
+
+Poland
+
+Qatar
+
+Romania
 
 San Marino
 
@@ -351,9 +373,9 @@ Slovakia
 
 Slovenia
 
-St Lucia
-
 South Africa
+
+St Lucia
 
 Sweden
 
@@ -363,11 +385,18 @@ United Kingdom
 
 United States of America
 
+Uruguay
+
 ### 2. Regions in neighbouring countries
+
+Regions in Germany:
+
+- – State of Thüringen
 
 Regions in France:
 
 - – Centre-Val de Loire Region
+- – Corsica Region
 - – Hauts-de-France Region
 - – Île de France Region
 - – Normandy Region
@@ -380,21 +409,27 @@ Regions in Italy:
 
 - – Abruzzo Region
 - – Apulia Region
+- – Basilicata Region
 - – Emilia Romagna Region
 - – Friuli Venezia Giulia Region
 - – Campania Region
+- – Lazio Region
 - – Liguria Region
 - – Marche Region
 - – Molise Region
 - – Tuscany Region
 - – Umbria Region
+- – Veneto Region
 
 Regions in Austria:
 
+- – State of Burgenland
 - – State of Carinthia
 - – State of Lower Austria
+- – State of Upper Austria
 - – State of Salzburg
 - – State of Styria
+- – State of Vienna
 
 Annex 2
 

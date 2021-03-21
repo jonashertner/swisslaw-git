@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210315/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210315-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210322-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210315/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 15. März 2021)
+vom 27. Januar 2021 (Stand am 22. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -282,13 +282,13 @@ Die Grenzkontrollbehörden können Personen bei der Einreise aus Staaten oder Ge
 
 Diese Verordnung tritt am 8. Februar 2021 in Kraft.
 
-Anhang 1[^t-1]
+Anhang 1*[^t-1]*
 
-## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko
+## Liste der Staaten und Gebiete mit erhöhtem Ansteckungsrisiko****
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 10. März 2021, in Kraft seit 11. März 2021 ([AS 2021 139](https://fedlex.data.admin.ch/eli/oc/2021/139)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 10. März 2021, in Kraft seit 22. März 2021 ([AS 2021 140](https://fedlex.data.admin.ch/eli/oc/2021/140)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
@@ -303,7 +303,13 @@ Bahrain
 
 Barbados
 
+Belgien
+
+Besetztes Palästinensisches Gebiet
+
 Brasilien
+
+Bulgarien
 
 Chile
 
@@ -312,6 +318,12 @@ Estland
 Irland
 
 Israel
+
+Jordanien
+
+Katar
+
+Kosovo
 
 Kuwait
 
@@ -335,7 +347,13 @@ Montenegro
 
 Niederlande (Königreich der)
 
+Nordmazedonien
+
 Peru
+
+Polen
+
+Rumänien
 
 San Marino
 
@@ -355,19 +373,30 @@ Südafrika
 
 Tschechien
 
-Vereinigte Arabische Emirate
+Ungarn
 
-Vereinigtes Königreich
+Uruguay
+
+Vereinigte Arabische Emirate
 
 Vereinigte Staaten von Amerika
 
+Vereinigtes Königreich
+
+Zypern
+
 ### 2. Gebiete der Nachbarstaaten
+
+Gebiete in Deutschland:
+
+- – Land Thüringen
 
 Gebiete in Frankreich:
 
 - – Region Centre-Val de Loire
 - – Region Hauts-de-France
 - – Region Île-de-France
+- – Region Korsika
 - – Region Normandie
 - – Region Nouvelle-Aquitaine
 - – Region Occitanie
@@ -378,21 +407,27 @@ Gebiete in Italien:
 
 - – Region Abruzzen
 - – Region Apulien
+- – Region Basilikata
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien
 - – Region Kampanien
+- – Region Latium
 - – Region Ligurien
 - – Region Marken
 - – Region Molise
 - – Region Toskana
 - – Region Umbrien
+- – Region Venetien
 
 Gebiete in Österreich:
 
+- – Land Burgenland
 - – Land Kärnten
 - – Land Niederösterreich
+- – Land Oberösterreich
 - – Land Salzburg
 - – Land Steiermark
+- – Land Wien
 
 Anhang 2
 
