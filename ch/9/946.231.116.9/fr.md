@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: "Ordonnance instituant des mesures à l'encontre du Bélarus"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/932"
 language: fr
-version: 2020-12-21
+version: 2021-03-22
 adopted: 2020-12-11
 in_force: 2020-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20201221/fr/xml/fedlex-data-admin-ch-eli-cc-2020-932-20201221-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20201221/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20210322/fr/xml/fedlex-data-admin-ch-eli-cc-2020-932-20210322-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20210322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Bélarus
 
-du 11 décembre 2020 (Etat le 21 décembre 2020)
+du 11 décembre 2020 (Etat le 22 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -165,13 +165,13 @@ L’ordonnance du 28 juin 2006 instituant des mesures à l’encontre du Bélaru
 
 La présente ordonnance entre en vigueur le 11 décembre 2020 à 18 heures.
 
-Annexe 1[^t-1]
+Annexe 1*[^t-1]*
 
 (art. 2, al. 1, let. a, et 3, al. 1)
 
 ## Personnes physiques visées par les sanctions financières et par l’interdiction d’entrée et de transit, et entreprises et entités visées par les sanctions financières
 
-[^t-1]: La présente annexe n’est pas publiée au RO. Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
+[^t-1]: La présente annexe n’est pas publiée au RO ([RO 2020 5381](https://fedlex.data.admin.ch/eli/oc/2020/932);[2021 158](https://fedlex.data.admin.ch/eli/oc/2021/158)). Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur [www.seco.admin.ch](https://www.seco.admin.ch/seco/fr/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanctions &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
 
 Annexe 2
 

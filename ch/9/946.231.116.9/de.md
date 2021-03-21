@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Verordnung über Massnahmen gegenüber Belarus
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/932"
 language: de
-version: 2020-12-21
+version: 2021-03-22
 adopted: 2020-12-11
 in_force: 2020-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20201221/de/xml/fedlex-data-admin-ch-eli-cc-2020-932-20201221-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20201221/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/932/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2020-932-20210322-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/932/20210322/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Belarus
 
-vom 11. Dezember 2020 (Stand am 21. Dezember 2020)
+vom 11. Dezember 2020 (Stand am 22. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -171,7 +171,7 @@ Anhang 1*[^t-1]*
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht. Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2020 5381](https://fedlex.data.admin.ch/eli/oc/2020/932); [2021 158](https://fedlex.data.admin.ch/eli/oc/2021/158)). Der Inhalt des Anhangs kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 2
 
