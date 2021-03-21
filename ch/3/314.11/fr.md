@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 2019 sur les amendes d'ordre (OAO)"
 short: OAO
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/93"
 language: fr
-version: 2021-03-01
+version: 2021-03-22
 adopted: 2019-01-16
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210301-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/93/20210322/fr/xml/fedlex-data-admin-ch-eli-cc-2019-93-20210322-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/93/20210301/fr"
 
 (OAO)
 
-du 16 janvier 2019 (Etat le 1<sup>er</sup> mars 2021)
+du 16 janvier 2019 (Etat le 22 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -76,7 +76,7 @@ Il est permis d’épuiser le stock de quittances et de formules concernant le d
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2020.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 1, let. a)
 
@@ -221,9 +221,9 @@ Annexe 1*[^t-1]*
 <tr><td>2. S’arrêter sur le trottoir avant un passage pour piétons, lorsqu’il n’y a pas de ligne interdisant l’arrêt, à moins de 5 m avant le passage (art. 18, al. 2, let. e, OCR)</td><td>80</td></tr>
 <tr><td>238. 1. Stationner sur une surface interdite au trafic (art. 78 OSR) jusqu’à 60 minutes</td><td>120</td></tr>
 <tr><td>2. S’arrêter sur une surface interdite au trafic (art. 78 OSR)</td><td>80</td></tr>
-<tr><td>239. 1. Stationner sur une ligne en zigzag (art. 79, al. 3, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
-<tr><td>2. Gêner les transports publics en s’arrêtant sur une ligne en zigzag pour laisser monter ou descendre des passagers (art. 79, al. 3, OSR)</td><td>80</td></tr>
-<tr><td>3. S’arrêter sur une ligne en zigzag pour charger ou décharger des marchandises (art. 79, al. 3, OSR)</td><td>80</td></tr>
+<tr><td>239.[^annex1-lvlu1-lvlu1-8] 1. Stationner sur une ligne en zigzag (art. 79*a*, al. 3, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
+<tr><td>2. Gêner les transports publics en s’arrêtant sur une ligne en zigzag pour laisser monter ou descendre des passagers (art. 79*a*, al. 3, OSR)</td><td>80</td></tr>
+<tr><td>3. S’arrêter sur une ligne en zigzag pour charger ou décharger des marchandises (art. 79*a*, al. 3, OSR)</td><td>80</td></tr>
 <tr><td>240. 1. Stationner un véhicule non autorisé sur une case de stationnement réservée aux personnes handicapées (art. 65, al. 5, et 79, al. 4, OSR) jusqu’à 60 minutes</td><td>120</td></tr>
 <tr><td>2. Utiliser sans autorisation la «Carte de stationnement pour personnes handicapées» (art. 20*a* OCR)</td><td>120</td></tr>
 <tr><td>241. 1. Stationner sur une ligne interdisant l’arrêt (art. 79, al. 6, OSR et art. 19, al. 2, let. a, OCR) jusqu’à 60 minutes</td><td>120</td></tr>
@@ -426,10 +426,10 @@ Annexe 1*[^t-1]*
 <tr><td>342. Franchir une surface interdite au trafic ou empiéter sur elle à l’intérieur des localités (art. 27, al. 1, LCR et art. 78 OSR)</td><td>140</td></tr>
 <tr><td>4. Conducteurs de véhicules automobiles; prescriptions sur la construction et l’équipement</td><td></td></tr>
 <tr><td>400. Ne pas être muni</td><td></td></tr>
-<tr><td>1. du triangle de panne (art. 90, al. 2, OETV[^annex1-lvlu1-lvlu1-8])</td><td>40</td></tr>
+<tr><td>1. du triangle de panne (art. 90, al. 2, OETV[^annex1-lvlu1-lvlu1-9])</td><td>40</td></tr>
 <tr><td>2. de la cale pour les voitures automobiles lourdes (art. 114, al. 1, OETV)</td><td>40</td></tr>
 <tr><td>3. de la pharmacie de bord exigée sur les autocars (art. 123, al. 4, OETV)</td><td>40</td></tr>
-<tr><td>4. d’un extincteur exigé (art. 114, al. 2 et 3, OETV et section 8.1.4 ADR[^annex1-lvlu1-lvlu1-9])</td><td>40</td></tr>
+<tr><td>4. d’un extincteur exigé (art. 114, al. 2 et 3, OETV et section 8.1.4 ADR[^annex1-lvlu1-lvlu1-10])</td><td>40</td></tr>
 <tr><td>5. de la cale pour les remorques dont le poids total excède 0,75 t (art. 195, al. 3, OETV)</td><td>40</td></tr>
 <tr><td>401. Circuler ou stationner avec des plaques de contrôle fixées contrairement aux prescriptions (art. 45, al. 2, 96, 124, al. 1, 136, al. 4, 162, al. 1, 167 et 185 OETV)</td><td>60</td></tr>
 <tr><td>402. 1. Conduire un véhicule automobile dont un pneu est dans un état insuffisant (art. 58, al. 4, OETV)</td><td>100</td></tr>
@@ -584,16 +584,17 @@ Annexe 1*[^t-1]*
 [^annex1-lvlu1-lvlu1-5]: O du 6 mai 1981 sur la durée du travail et du repos des conducteurs de véhicules légers affectés au transport de personnes et de voitures de tourisme lourdes ([RS 822.222](https://fedlex.data.admin.ch/eli/cc/1981/480_480_480)).
 [^annex1-lvlu1-lvlu1-6]: O du 29 nov. 2002 relative au transport des marchandises dangereuses par route ([RS 741.621](https://fedlex.data.admin.ch/eli/cc/2002/685)).
 [^annex1-lvlu1-lvlu1-7]: O du 27 oct. 1976 réglant l’admission à la circulation routière ([RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)).
-[^annex1-lvlu1-lvlu1-8]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425))
-[^annex1-lvlu1-lvlu1-9]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous www.astra.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
+[^annex1-lvlu1-lvlu1-8]: Les renvois ont été adaptés au 1<sup>er</sup> janv. 2021 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^annex1-lvlu1-lvlu1-9]: O du 19 juin 1995 concernant les exigences techniques requises pour les véhicules routiers ([RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425))
+[^annex1-lvlu1-lvlu1-10]: Le texte des prescriptions «Allgemeine Vorschriften und Vorschriften für gefährliche Stoffe und Gegenstände» peut être consulté sous www.astra.admin.ch &gt; Public professionnel &gt; Véhicules et marchandises dangereuses &gt; Marchandises dangereuses &gt; Droit international
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 1, let. b)
 
 ## Liste des amendes 2
 
-[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur du 1<sup>er</sup> fév. au 31 déc. 2021, le ch. 16005 jusqu’au 28 fév. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)) et le ch. III de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^t-2]: Mise à jour par les errata du 5 nov. 2019 ([RO 2019 3437](https://fedlex.data.admin.ch/eli/oc/2019/625)), 19 nov. 2019 ([RO 2019 3681](https://fedlex.data.admin.ch/eli/oc/2019/666)), 5 mai 2020 ([RO 2020 1489](https://fedlex.data.admin.ch/eli/oc/2020/293)), l’annexe de l’O du 27 janv. 2021 (Extension des dispositions pénales et introduction de la procédure de l’amende d’ordre), en vigueur jusqu’au 31 déc. 2021 ([RO 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)), l’annexe 2 ch. 1 de l’O COVID-19 mesures dans le domaine du transport international de voyageurs du 27 janv. 2021 ([RO 2021 61](https://fedlex.data.admin.ch/eli/oc/2021/61)), le ch. III de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins) ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)) et le ch. III de l’O du 19 mars 2021 (Assouplissements pour les manifestations privées, prolongation des mesures limitées dans le temps), en vigueur depuis le 22 mars 2021 ([RO 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 ### Contraventions à d’autres actes normatifs
 
@@ -727,7 +728,7 @@ Annexe 2*[^t-2]*
 <tr><td>16002. Participation à une manifestation interdite (art. 13, let. d, en relation avec l’art. 6, al. 1 et 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16003. Infractions à l’obligation de porter un masque facial dans les véhicules des transports publics, dans les espaces clos et extérieurs accessibles au public des installations et des établissements, y compris les marchés, ainsi que dans les zones d’attente des gares, des arrêts de bus et de tram et des remontées mécaniques, dans les gares, les aéroports ou d’autres zones d’accès aux transports publics (art. 13, let. f, en relation avec les art. 3*a*, al. 1, et 3*b*, al. 1 et 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16004. Participation à un rassemblement dans l’espace public de plus de 15 personnes ou dépassant le nombre maximal de personnes fixé par le canton (art. 13, let. g, en relation avec les art. 3*c*, al. 1, et 8, al. 1, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 50</td></tr>
-<tr><td>16005. ...</td><td>[tab]</td></tr>
+<tr><td>16005. Infractions à l’obligation de consommer assis dans un établissement de restauration ou un bar réservé aux clients d’un hôtel (art. 13, let. h, en relation avec l’art. 5*a*, al. 2, let. d, ch. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>16006. Infractions à l’obligation de porter un masque facial lors de la participation à une manifestation politique ou de la société civile ou à une récolte de signatures (art. 13, let. i, en relation avec l’art. 6*c*, al. 2, de l’ordonnance COVID-19 situation particulière)</td><td>[tab] 100</td></tr>
 <tr><td>**XVII.** **Loi du 28 septembre 2012 sur les épidémies (LEp)**[^annex2-lvlu1-lvlu1-26]**, en relation avec l’ordonnance COVID-19 du 27 janvier 2021 mesures dans** **le domaine du transport international de voyageurs**[^annex2-lvlu1-lvlu1-27]</td><td>[tab]</td></tr>
 <tr><td>17001. Ne pas fournir la preuve d’un résultat négatif à une analyse de biologie moléculaire pour le SARS-CoV-2 lors de l’entrée en Suisse (art. 83, al. 1, let. k, LEp, en relation avec l’art. 7, al. 1, de l’ordonnance COVID-19 mesures dans le domaine du transport international de voyageurs)</td><td>[tab] 200</td></tr>
