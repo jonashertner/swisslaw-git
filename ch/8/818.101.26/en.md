@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Ordinance of 19 June 2020 on Measures during the Special Situation to combat the COVID-19 Epidemic (COVID-19 Ordinance Special Situation)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: en
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210322/en/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210322-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Special Situation Ordinance)
 
-of 19 June 2020 (Status as of 15 March 2021)
+of 19 June 2020 (Status as of 22 March 2021)
 
 The Swiss Federal Council,
 
@@ -74,7 +74,7 @@ Public transport vehicles under paragraph 1 are:
 - b. aircraft operated by companies holding an operating licence in accordance with Articles 27 or 29 of the Civil Aviation Act of 21 December 1948[^3a-7] that are used for scheduled or charter flights.
 
 [^3a-1]: Inserted by No I of the O of 2 July 2020 ([AS 2020 2735](https://fedlex.data.admin.ch/eli/oc/2020/495)). Amended by No I of the O of 12 Aug. 2020 (Requirement to wear Masks in Aircraft; Large-Scale Events), in force since 15 Aug. 2020 ([AS 2020 3547](https://fedlex.data.admin.ch/eli/oc/2020/625)).
-[^3a-2]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^3a-2]: Amended by No I of the O of 24 Feb.2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^3a-3]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 [^3a-4]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
 [^3a-5]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
@@ -100,7 +100,7 @@ The following persons are exempted from this requirement:
 
 [^3b-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3b-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^3b-3]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^3b-3]: Amended by No I of the O of 24 Feb.2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
 #### Art. 3c
 
@@ -119,7 +119,7 @@ All persons in the following public areas must wear a face mask:
 
 [^3c-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home), in force since 19 Oct. 2020 ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)).
 [^3c-2]: Amended by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^3c-3]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^3c-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^3c-4]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^3c-5]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
@@ -261,7 +261,7 @@ The prohibition does not apply to the following businesses:
 
 - [tab] <sup>3</sup> Businesses under paragraph 2 letters a and d may open between 6am and 11pm.
 
-[^5a-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5a-1]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -333,13 +333,13 @@ The cantons shall conduct regular checks on whether the precautionary measures p
 
 Publicly accessible indoor areas of businesses and establishments in the fields of culture, entertainment, leisure and sport shall be closed to the public; the foregoing does not apply to:
 
-- a. museums, libraries and archives,
-- b. equestrian facilities,
-- c. hotel facilities that are accessible to hotel guests only.
+- a. museums, libraries and archives;
+- b. equestrian facilities;
+- c. hotel facilities that are accessible to hotel guests only;
 - d. use for events and activities in accordance with Articles 6 paragraph 1 and 6*e*–6*g*.
 - [tab] <sup>2</sup> Indoor areas of businesses and establishments that are required in order that the outdoor areas may be used, in particular entrance areas, sanitary facilities and cloakrooms, may be kept open.
 
-[^5d-1]: Inserted by No I of the O of 18 Dec. 2020 (Tightening of Measures in December) ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5d-1]: Inserted by No I of the O of 18 Dec. 2020 (Tightening of Measures in December) ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5e and 5f
 
@@ -365,11 +365,12 @@ The holding of events is prohibited. The following are exempt from the prohibiti
 - h. events involving family and friends under paragraph 2.
 - i. meetings involving up to 10 persons of established self-help groups related to addiction and mental health.
 
-<sup>2</sup> In the case of events involving family members and friends (private events), a maximum of 5 persons may attend indoor events and a maximum of 15 persons may attend outdoor events. The requirement to draw up and implement a precautionary measures plan does not apply.
+<sup>2</sup> In the case of events involving family members and friends (private events), a maximum of 10 persons may attend indoor events and a maximum of 15 persons may attend outdoor events.[^6-2] The requirement to draw up and implement a precautionary measures plan does not apply.
 
 <sup>3</sup> It is prohibited to hold trade fairs indoors.
 
-[^6-1]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6-1]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6-2]: Amended by No I of the O of 19 March 2021 (Relaxation for Private Events, Extension of Temporary Measures), in force since 22 March 2021 ([AS 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6a and 6b
 
@@ -422,7 +423,7 @@ Events requiring physical presence in educational and training institutions are 
 [^6d-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 2 Nov. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^6d-2]: Amended by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
 [^6d-3]: Inserted by No I of the O of 4 Dec. 2020 (Special Arrangements for Public Holidays and Winter Sports Centres), in force since 9 Dec. 2020 ([AS 2020 5189](https://fedlex.data.admin.ch/eli/oc/2020/902)).
-[^6d-4]: Repealed by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6d-4]: Repealed by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^6d-5]: Inserted by No I of the O of 18 Dec. 2020 (Tightening of Measures in December), with effect from 22 Dec. 2020 till 28 Feb. 2021 ([AS 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)).
 
 #### Art. 6e
@@ -440,7 +441,7 @@ The following sports activities are permitted:
 
 <sup>2</sup> Sports activities in groups of up to 5 persons under paragraph 1 letters a and b are exempted from the requirement to draw up a precautionary measures plan under Article 4.
 
-[^6e-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6e-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6f
 
@@ -477,7 +478,7 @@ The following applies to the activities that involve singing:
 
 <sup>4</sup> Events under paragraph 2 letter a involving groups of up to 5 persons are exempt from the requirement to draw up a precautionary measures plan under Article 4.
 
-[^6f-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6f-1]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6g
 
@@ -494,7 +495,7 @@ Activities of organisations and institutions involved in public child and youth 
   - 1\. the permitted activities; parties, dancing events and the provision of food and drinks are not permitted at any time;
   - 2\. the maximum permitted number of children and young persons.
 
-[^6g-1]: Inserted by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6g-1]: Inserted by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force from 1 March 2021 until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 7
 
@@ -588,14 +589,14 @@ All persons must wear face masks indoors, including in vehicles in which more th
 
 <sup>4</sup> For the protection of particularly vulnerable employees, Article 27*a* of COVID-19 Ordinance 3 of 19 June 2020[^10-7] also applies.[^10-8]
 
-[^10-1]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^10-1]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^10-2]: Repealed by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), with effect from 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^10-3]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^10-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^10-4]: Inserted by No I of the O of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees), in force since 29 Oct. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
-[^10-5]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^10-6]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^10-5]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^10-6]: Inserted by No I of the O of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 [^10-7]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^10-8]: Inserted by No I of the O of 13 Jan. 2021 (Further Tightening of Measures), in force from 18 Jan. 2021 to 28 Feb. 2021 ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended
+[^10-8]: Inserted by No I of the O of 13 Jan. 2021 (Further Tightening of Measures) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
 #### Art. 11
 
@@ -644,9 +645,9 @@ Any person who commits any of the following acts shall be liable to a fine:
 - i. wilfully or negligently failing to wear a face mask at a political or civil society demonstration or when collecting signatures, unless an exception pursuant to Article 6*c* paragraph 2 second sentence applies.
 
 [^13-1]: Amended by No I of the O of 27 Jan. 2021 (Additional Criminal Provisions and Introduction of the Fixed Penalty Procedure), in force from 1 Feb. 2021 to 31 Dec. 2021 ([AS 2021 52](https://fedlex.data.admin.ch/eli/oc/2021/52)).
-[^13-2]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-3]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
-[^13-4]: Amended by No I of the O of 24 Feb 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-2]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-3]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^13-4]: Amended by No I of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
 
 ## Section 7 Final Provisions
 
@@ -698,7 +699,7 @@ Annex 1*[^t-1]*
 
 ## Requirements for precautionary measures plans
 
-[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) and No II para. 1 of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021, No 3.1<sup>ter</sup> in force until 31 March 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^t-1]: Originally: Annex. Revised by No II of the O of 2 Sept. 2020 (Large-Scale Events) ([AS 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), of 18 Oct. 2020 (Mandatory masks; Recommendation to work from home) ([AS 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), of 28 Oct. 2020 (Measures that apply to Persons, publicly accessible Establishments and Businesses and Events, and for the Protection of Employees) ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)) and No II para. 1 of the O of 24 Feb. 2021 (Extension of Measures and Relaxation of Measures related to Leisure, Culture, Sport and Shops), in force since 1 March 2021, No 3.1<sup>ter</sup> in force until 30 April 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 ### 1 General Remarks
 
@@ -762,7 +763,7 @@ Annex 1*[^t-1]*
   - d. In establishments in which there are several shops with a total floor area larger than 10,000 square metres (shopping centres), the maximum number of customers present in the shopping centre may not exceed the sum of the customers permitted in the individual shops.
   - e. In museums the restrictions in letters a and c apply by analogy.
   - f. In businesses and establishments other than shops and museums in which persons may move around freely, if several persons are present, each person must have at least 10 square metres of space; the lowest maximum number of customers, however, is 5. In establishments and businesses with an area of up to 30 square metres, a minimum area of 6 square metres of space for each person applies; these requirements do not apply to activities with children and young persons born in 2001 or later in the fields of culture or sport or that are organised by public child and youth work organisations and institutions
-  - e. In the case of seats arranged in rows or in a similar way, only every second seat or seats an equivalent distance apart may be occupied.
+  - g. In the case of seats arranged in rows or in a similar way, only every second seat or seats an equivalent distance apart may be occupied.
 
 - 3\.1<sup>ter</sup>
 

@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordonnance du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (Ordonnance COVID-19 situation particulière)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: fr
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210322/fr/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210322-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/fr"
 
 (Ordonnance COVID-19 situation particulière)
 
-du 19 juin 2020 (Etat le 15 mars 2021)
+du 19 juin 2020 (Etat le 22 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -122,7 +122,7 @@ Toute personne est tenue de porter un masque dans les domaines suivants de l’e
 [^3c-5]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés), en vigueur depuis le 29 oct. 2020 ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-## Section 2*a***** Mesures de quarantaine-contact et d’isolement
+## Section 2*a* Mesures de quarantaine-contact et d’isolement
 
 [^sec2a-1]
 
@@ -259,7 +259,7 @@ L’interdiction ne s’applique pas aux établissements suivants:
 
 <sup>3</sup> Les établissements visés à l’al. 2, let. a et d, peuvent rester ouverts entre 6 h 00 et 23 h 00.
 
-[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5a-1]: Introduit par le ch. I de l’O du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -338,7 +338,7 @@ Les espaces intérieurs accessibles au public des installations et des établiss
 
 <sup>2</sup> Les espaces intérieurs des installations et des établissements qui sont nécessaires à l’utilisation des espaces extérieurs, tels que entrées, installations sanitaires et vestiaires, peuvent demeurer ouverts.
 
-[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre) ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5d-1]: Introduit par le ch. I de l’O du 18 déc. 2020 (Renforcement des mesures, décembre) ([RO 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5e et 5f
 
@@ -364,11 +364,12 @@ Les manifestations sont interdites. Sont exceptées:
 - h. les manifestations dans le cercle familial et entre amis au sens de l’al. 2;
 - i. les réunions de groupes d’entraide établis dans les domaines de la lutte contre la dépendance et de la santé psychique jusqu’à 10 personnes.
 
-<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) sont limitées à 5 personnes à l’intérieur et à 15 personnes à l’extérieur. L’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.
+<sup>2</sup> Les manifestations organisées dans le cercle familial et entre amis (manifestations privées) sont limitées à 10 personnes à l’intérieur et à 15 personnes à l’extérieur.[^6-2] L’obligation d’élaborer et de mettre en œuvre un plan de protection ne s’applique pas.
 
 <sup>3</sup> L’organisation de foires dans des espaces clos est interdite.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 19 mars 2021 (Assouplissements pour les manifestations privées, prolongation des mesures limitées dans le temps), en vigueur du 22 mars 2021 ([RO 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6a et 6b
 
@@ -439,7 +440,7 @@ Dans le domaine du sport, les activités sportives suivantes sont autorisées:
 
 <sup>2</sup> Pour les activités sportives en groupes d’au maximum 5 personnes au sens de l’al. 1, let. a et b, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
 
-[^6e-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6e-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6f
 
@@ -476,7 +477,7 @@ Les activités de chant sont soumises aux règles suivantes:
 
 <sup>4</sup> Pour les manifestations visées à l’al. 2, let. a, regroupant au maximum 5 personnes, l’élaboration d’un plan de protection au sens de l’art. 4 n’est pas obligatoire.
 
-[^6f-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6f-1]: Introduit par le ch. I de l’O du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nouvelle teneur selon le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6g
 
@@ -493,7 +494,7 @@ Les activités des organisations et des institutions de l’animation sociocultu
   - 1\. les activités autorisées; sont de toute façon exclus les fêtes, les manifestations de danse et la distribution de nourriture et de boissons,
   - 2\. le nombre maximal autorisé des enfants et des adolescents.
 
-[^6g-1]: Introduit par le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6g-1]: Introduit par le ch. I de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur du 1<sup>er</sup> mars au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 7
 
@@ -697,7 +698,7 @@ Annexe 1*[^t-1]*
 
 ## Prescriptions pour les plans de protection
 
-[^t-1]: Anciennement annexe. Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), et du ch. II al. 1 de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021, le ch. 3.1<sup>ter</sup> jusqu’au 31 mars 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^t-1]: Anciennement annexe. Mise à jour par le ch. II des O du 2 sept. 2020 (Grandes manifestations) ([RO 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), du 18 oct. 2020 (Obligation de porter un masque; recommandation du travail à domicile) ([RO 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), du 28 oct. 2020 (Mesures visant les personnes, concernant les installations et établissements accessibles au public et les manifestations ainsi que la protection des employés) ([RO 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), et du ch. II al. 1 de l’O du 24 fév. 2021 (Prolongation des mesures limitées dans le temps et assouplissements dans les domaines des loisirs, de la culture et du sport ainsi que dans les magasins), en vigueur depuis le 1<sup>er</sup> mars 2021, le ch. 3.1<sup>ter</sup> jusqu’au 30 avr. 2021 ([RO 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 ### 1 Généralités
 

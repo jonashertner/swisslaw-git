@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-03-15
+version: 2021-03-22
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210315/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210315-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210322-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210315/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 15 marzo 2021)
+del 19 giugno 2020 (Stato 22 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -259,7 +259,7 @@ Il divieto non vige per le strutture seguenti:
 
 <sup>3</sup> Le strutture di cui al capoverso 2 lettere a e d possono restare aperte tra le ore 06.00 e le ore 23.00.
 
-[^5a-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5a-1]: Introdotto dal n. I dell’O del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5a<sup>bis</sup>
 
@@ -338,7 +338,7 @@ I luoghi chiusi accessibili al pubblico di strutture culturali, ricreative, per 
 
 <sup>2</sup> I luoghi chiusi di strutture necessari per l’utilizzazione delle aree esterne, segnatamente l’area di entrata, gli impianti sanitari e gli spogliatoi, possono essere tenuti aperti.
 
-[^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre) ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^5d-1]: Introdotto dal n. I dell’O del 18 dic. 2020 (Inasprimento dei provvedimenti, dicembre) ([RU 2020 5813](https://fedlex.data.admin.ch/eli/oc/2020/978)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 5e e 5f
 
@@ -364,11 +364,12 @@ Lo svolgimento di manifestazioni è vietato. Sono esclusi dal divieto:
 - h. le manifestazioni che hanno luogo nella cerchia familiare o di amici secondo il capoverso 2;
 - i. gli incontri di gruppi di auto aiuto attivi nei settori della lotta alle dipendenze e della salute psichica con non più di dieci persone.
 
-<sup>2</sup> Alle manifestazioni che hanno luogo nella cerchia familiare o di amici (manifestazioni private) possono partecipare al massimo cinque persone se si svolgono in luoghi chiusi e al massimo 15 persone se si svolgono in aree esterne. Non vige l’obbligo di elaborare e attuare un piano di protezione.
+<sup>2</sup> Alle manifestazioni nella cerchia familiare e di amici (manifestazioni private) possono partecipare al massimo 10 persone nei luoghi chiusi e al massimo 15 persone nelle aree esterne.[^6-2] Non vige l’obbligo di elaborare e attuare un piano di protezione.
 
 <sup>3</sup> Lo svolgimento di fiere in luoghi chiusi è vietato.
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6-2]: Nuovo testo giusta il n. I dell’O del 19 mar. 2021 (Allentamenti per manifestazioni private, proroga dei provvedimenti limitati nel tempo), in vigore dal 22 mar. 2021 ([RU 2021 157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6a e 6b
 
@@ -439,7 +440,7 @@ Nel settore dello sport sono ammesse le attività seguenti:
 
 <sup>2</sup> Per le attività sportive in gruppi fino a cinque persone di cui al capoverso 1 lettere a e b non vige l’obbligo di elaborare un piano di protezione secondo l’articolo 4.
 
-[^6e-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori) ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6e-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori) ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6f
 
@@ -476,7 +477,7 @@ Alle attività di canto si applica quanto segue:
 
 <sup>4</sup> Per le manifestazioni di cui al capoverso 2 lettera a in gruppi fino a cinque persone non vige l’obbligo di elaborare un piano di protezione secondo l’articolo 4.
 
-[^6f-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori) ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6f-1]: Introdotto dal n. I dell’O del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori) ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)). Nuovo testo giusta il n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 6g
 
@@ -493,7 +494,7 @@ Le attività di organizzazioni o istituzioni di animazione socioculturale dell�
   - 1\. le attività ammesse: non sono ammesse in nessun caso le feste, le manifestazioni di ballo e la distribuzione di cibi e bevande,
   - 2\. il numero massimo consentito di bambini e giovani presenti.
 
-[^6g-1]: Introdotto dal n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^6g-1]: Introdotto dal n. I dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021 al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 #### Art. 7
 
@@ -695,7 +696,7 @@ Allegato 1*[^t-1]*
 
 ## Prescrizioni relative ai piani di protezione
 
-[^t-1]: Originario all. Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), e dal n. II cpv. 1 dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021, il n. 3.1<sup>ter</sup> fino al 31 mar. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
+[^t-1]: Originario all. Aggiornato dal n. II delle O del 2 set. 2020 (Grandi manifestazioni) ([RU 2020 3679](https://fedlex.data.admin.ch/eli/oc/2020/668)), del 18 ott. 2020 (Obbligo della mascherina; raccomandazione del telelavoro) ([RU 2020 4159](https://fedlex.data.admin.ch/eli/oc/2020/762)), del 28 ott. 2020 (Provvedimenti nei confronti delle persone, concernenti le strutture accessibili al pubblico e le manifestazioni, nonché la protezione dei lavoratori ([RU 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)), e dal n. II cpv. 1 dell’O del 24 feb. 2021 (Proroga dei provvedimenti limitati nel tempo e allentamenti nei settori del tempo libero, della cultura e dello sport e per i negozi), in vigore dal 1° mar. 2021, il n. 3.1<sup>ter</sup> fino al 30 apr. 2021 ([RU 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110), [157](https://fedlex.data.admin.ch/eli/oc/2021/157)).
 
 ### 1 In generale
 
