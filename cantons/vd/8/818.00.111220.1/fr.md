@@ -3,7 +3,7 @@ canton: VD
 number: "818.00.111220.1"
 title: "ARRÊTÉ du 11.12.2020 d'application de l'ordonnance fédérale sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière et sur certaines mesures cantonales complémentaires"
 language: fr
-version: 2021-03-01
+version: 2021-03-23
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/818.00.111220.1?id=12f9065b-b9e7-411e-bfbd-73e104c00e53"
 ---
 
@@ -17,23 +17,27 @@ LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
 vu l'articule 40 de la loi fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies - LEp)
 
-vu l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière
+vu l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière [^ingress-1]
 
 arrête
+
+[^ingress-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 1
 
 **Objet**
 
-<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière).
+<sup>1</sup> Le présent arrêté contient les dispositions d'application de l'ordonnance fédérale du 19 juin 2020 sur les mesures destinées à lutter contre l'épidémie de COVID-19 en situation particulière (ordonnance COVID-19 situation particulière)[^1-1].
 
 <sup>2</sup> Il contient également les mesures cantonales complémentaires prises en vertu de l'article 40 de la loi du 28 septembre 2012 fédérale sur la lutte contre les maladies transmissibles de l'homme (loi sur les épidémies; LEp).
+
+[^1-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 2
 
 **Situation extraordinaire**
 
-<sup>1</sup> Le canton se trouve en situation extraordinaire au sens de l'article 12 de la loi du 23 novembre 2004 sur le protection de la population et l'état de nécessité est déclaré.
+<sup>1</sup> Le canton se trouve en situation extraordinaire au sens de l'article 12 de la loi du 23 novembre 2004 sur le protection de la population[^2-1] et l'état de nécessité est déclaré.
 
 <sup>2</sup> Le plan ORCA est mis en oeuvre.
 
@@ -41,37 +45,40 @@ arrête
 
 <sup>4</sup> La protection civile est mise sur pied dans son ensemble. Les membres appartenant au système de santé du canton peuvent être dispensés. Le chef de l'EMCC peut prévoir d'autres catégories de dispenses.
 
+[^2-1]: Loi du 23.11.2004 sur la protection de la population ([BLV 510.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/510.11?id=daef13a5-078d-4ee6-a464-4998d97b530a))
+
 #### Art. 3
 
-**Établissements de restauration [^2-1]**
+**Établissements de restauration [^2-2]**
 
 ...
 
-[^2-1]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021
+[^2-2]: Modif. 1 du 21.12.2020: Modification Al. 1; entrée en vigueur au 22.12.2020; Modification Al. 1, a; entrée en vigueur au 22.12.2020; Modification Al. 2; entrée en vigueur au 22.12.2020; Introduction Al. 2bis; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1,2,2bis,3; entrée en vigueur au 18.01.2021
 
 #### Art. 3a
 
 **Restaurants pour collaborateurs travaillant à l'extérieur [^3-1]**
 
-<sup>1</sup> Les restaurants peuvent fonctionner comme restaurants d'entreprise au sens de l'article 5a , alinéa 2, lettre b, de l'ordonnance COVID -19 situation particulière pour les employés travaillant à l'extérieur.
+<sup>1</sup> Les restaurants peuvent fonctionner comme restaurants d'entreprise au sens de l'article 5a , alinéa 2, lettre b, de l'ordonnance COVID -19 situation particulière[^3a-1] pour les employés travaillant à l'extérieur.
 
 <sup>2</sup> Le Département de l'économie, de l'innovation et du sport fixe les conditions et les modalités d'application de l'alinéa 1er.
 
 [^3-1]: Modif. 3 du 03.03.2021: Introduction tArt; entrée en vigueur au 01.03.2021; Introduction Al. 1-2; entrée en vigueur au 01.03.2021; Introduction Art. 3a; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021; Introduction Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021
+[^3a-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 4
 
-**Autres établissements publics [^3a-1]**
+**Autres établissements publics [^3a-2]**
 
 ...
 
-[^3a-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021
+[^3a-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1-3; entrée en vigueur au 18.01.2021
 
 #### Art. 5
 
 **Marchés [^4-1]**
 
-<sup>1</sup> Les marchés en milieu ouvert qui demeurent possibles selon l'ordonnance COVID-19 Situation particulière peuvent être organisés aux conditions suivantes.
+<sup>1</sup> Les marchés en milieu ouvert qui demeurent possibles selon l'ordonnance COVID-19 Situation particulière[^5-1] peuvent être organisés aux conditions suivantes.
 
 - a. le port du masque par les clients et les tenanciers de stands est obligatoire;
 - b. les stands doivent être situés à une distance raisonnable les uns des autres;
@@ -95,44 +102,47 @@ arrête
 <sup>5</sup> Les communes sont responsables du contrôle et du respect de l'application du présent article.
 
 [^4-1]: Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1, b; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021
+[^5-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 6
 
-**Domaines skiables [^5-1]**
+**Domaines skiables [^5-2]**
 
-<sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser l'exploitation d'un domaine skiable, conformément à l'article 5c de l'ordonnance COVID-19 Situation particulière. Il consulte préalablement le Médecin cantonal.
+<sup>1</sup> Le Chef de l'EMCC est l'autorité compétente pour autoriser l'exploitation d'un domaine skiable, conformément à l'article 5c de l'ordonnance COVID-19 Situation particulière[^6-1]. Il consulte préalablement le Médecin cantonal.
 
 <sup>1bis</sup> ...
 
 <sup>2</sup> ...
 
-[^5-1]: Modif. 1 du 21.12.2020: Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Abrogation Al. 2; entrée en vigueur au 22.12.2020 · Modif. 3 du 03.03.2021: Abrogation Al. 1bis; entrée en vigueur au 01.03.2021
+[^5-2]: Modif. 1 du 21.12.2020: Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Abrogation Al. 2; entrée en vigueur au 22.12.2020 · Modif. 3 du 03.03.2021: Abrogation Al. 1bis; entrée en vigueur au 01.03.2021
+[^6-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 7
 
-**Manifestations [^6-1]**
+**Manifestations [^6-2]**
 
-<sup>1</sup> Les manifestations politiques ou de la société civile au sens de l'article 6c, alinéa 2 de l'ordonnance COVID-19 Situation particulière sont autorisées jusqu'à 15 personnes.
+<sup>1</sup> Les manifestations politiques ou de la société civile au sens de l'article 6c, alinéa 2 de l'ordonnance COVID-19 Situation particulière[^7-1] sont autorisées jusqu'à 15 personnes.
 
 <sup>2</sup> ...
 
 <sup>3</sup> Les manifestations visant à la libre formation de l'opinion politique organisées à l'extérieur (stands d'information et de campagne) sont limitées à 20 personnes.
 
-[^6-1]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
+[^6-2]: Modif. 2 du 13.01.2021: Abrogation Al. 2; entrée en vigueur au 18.01.2021; Introduction Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 1; entrée en vigueur au 19.04.2021; Abrogation Al. 3; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Modification Al. 1; entrée en vigueur au 09.06.2021; Introduction Art. 7a; entrée en vigueur au 09.06.2021
+[^7-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 8
 
-**Activités et installations sportives [^7-1]**
+**Activités et installations sportives [^7-2]**
 
 ...
 
-[^7-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
+[^7-2]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Introduction Al. 1bis; entrée en vigueur au 22.12.2020; Modification Al. 4; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Abrogation Al. 1bis,4; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Abrogation Al. 1-3; entrée en vigueur au 01.03.2021
 
 #### Art. 9
 
 **Activités et établissements culturels [^8-1]**
 
-<sup>1</sup> Les institutions culturelles fermées au public en vertu de l'ordonnance COVID-19 Situation particulière demeurent accessibles aux classes d'école visées par l'article 6d, alinéa 1, lettre a de ladite ordonnance.
+<sup>1</sup> Les institutions culturelles fermées au public en vertu de l'ordonnance COVID-19 Situation particulière[^9-1] demeurent accessibles aux classes d'école visées par l'article 6d, alinéa 1, lettre a de ladite ordonnance.
 
 - a. ...
 - b. ...
@@ -143,26 +153,29 @@ arrête
 <sup>3</sup> ...
 
 [^8-1]: Modif. 1 du 21.12.2020: Modification tArt; entrée en vigueur au 22.12.2020; Modification Al. 3; entrée en vigueur au 22.12.2020 · Modif. 2 du 13.01.2021: Modification Al. 1; entrée en vigueur au 18.01.2021; Abrogation Al. 1, a-c; entrée en vigueur au 18.01.2021; Abrogation Al. 3; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Abrogation tArt; entrée en vigueur au 19.04.2021; Abrogation Al. 1-2; entrée en vigueur au 19.04.2021
+[^9-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 10
 
-**Rassemblements dans l'espace public [^9-1]**
+**Rassemblements dans l'espace public [^9-2]**
 
 ...
 
-[^9-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021
+[^9-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021
 
 #### Art. 11
 
 **Zones à forte affluence**
 
-<sup>1</sup> Les communes définissent les zones de forte affluence au sens de l'article 3c, alinéa 2 de l'ordonnance COVID-19 Situation particulière dans lesquelles le port du masque est obligatoire, ainsi que les horaires auxquels cette obligation s'applique.
+<sup>1</sup> Les communes définissent les zones de forte affluence au sens de l'article 3c, alinéa 2 de l'ordonnance COVID-19 Situation particulière[^11-1] dans lesquelles le port du masque est obligatoire, ainsi que les horaires auxquels cette obligation s'applique.
 
 <sup>2</sup> L'entrée de ces zones, ainsi que l'obligation du port du masque qui y est imposée, doivent être dûment signalées.
 
+[^11-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+
 #### Art. 12
 
-**Mesures dans le cadre professionnel [^11-1]**
+**Mesures dans le cadre professionnel [^11-2]**
 
 <sup>1</sup> ...
 
@@ -178,9 +191,10 @@ arrête
 
 <sup>5</sup> Le Chef de l'EMCC est compétent pour octroyer des dérogations au nombre limite fixé à l'alinéa 3 si la tenue de la réunion en présentiel est indispensable à l'activité de l'entité considérée.
 
-<sup>6</sup> Lorsque des entreprises et institutions publiques ou parapubliques accueillent des élèves de dixième et de onzième année de la scolarité obligatoire pour des stages préprofessionnels au sens de l'article 76 de la loi sur l'enseignement obligatoire, ces élèves ne sont pas pris en compte dans le nombre limite fixé à l'alinéa 3.
+<sup>6</sup> Lorsque des entreprises et institutions publiques ou parapubliques accueillent des élèves de dixième et de onzième année de la scolarité obligatoire pour des stages préprofessionnels au sens de l'article 76 de la loi sur l'enseignement obligatoire[^12-1], ces élèves ne sont pas pris en compte dans le nombre limite fixé à l'alinéa 3.
 
-[^11-1]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
+[^11-2]: Modif. 2 du 13.01.2021: Abrogation Al. 1; entrée en vigueur au 18.01.2021 · Modif. 3 du 03.03.2021: Modification Al. 5; entrée en vigueur au 01.03.2021; Introduction Al. 6; entrée en vigueur au 01.03.2021 · Modif. 5 du 21.04.2021: Introduction Art. 2a; entrée en vigueur au 19.04.2021; Introduction Art. 2b; entrée en vigueur au 19.04.2021; Introduction Art. 3a, Al. 3; entrée en vigueur au 19.04.2021; Introduction Art. 3b; entrée en vigueur au 19.04.2021; Modification Al. 3-4; entrée en vigueur au 19.04.2021 · Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021; Abrogation Al. 5-6; entrée en vigueur au 09.06.2021
+[^12-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
 
 #### Art. 13
 
@@ -192,25 +206,38 @@ arrête
 
 **Allégements ponctuels**
 
-<sup>1</sup> Le Département de la santé et l'action sociale est l'autorité compétente pour octroyer les allégements au sens de l'article 7, alinéa 1er de l'Ordonnance COVID-19 situation particulière.
+<sup>1</sup> Le Département de la santé et l'action sociale est l'autorité compétente pour octroyer les allégements au sens de l'article 7, alinéa 1er de l'Ordonnance COVID-19 situation particulière[^14-1].
+
+[^14-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
+
+#### Art. 14a
+
+**Vaccination [^14-2]**
+
+<sup>1</sup> Les communes mettent gratuitement à disposition des services de l'Etat les locaux nécessaires à la campagne de vaccination itinérante, sans frais pour le canton.
+
+[^14-2]: Modif. 4 du 17.03.2021: Introduction tArt; entrée en vigueur au 23.03.2021; Introduction Al. 1; entrée en vigueur au 23.03.2021; Introduction Art. 14a; entrée en vigueur au 23.03.2021
 
 #### Art. 15
 
-**Surveillance et sanctions [^14-1]**
+**Surveillance et sanctions [^14a-1]**
 
-<sup>1</sup> Sous la supervision de l'EMCC, les services de l'Etat et les communes, ainsi que les polices cantonale et communales effectuent les contrôles requis pour assurer la bonne exécution de l'ordonnance COVID-19 situation particulière et du présent arrêté.
+<sup>1</sup> Sous la supervision de l'EMCC, les services de l'Etat et les communes, ainsi que les polices cantonale et communales effectuent les contrôles requis pour assurer la bonne exécution de l'ordonnance COVID-19 situation particulière[^15-1] et du présent arrêté.
 
 <sup>2</sup> Les communes et associations de communes sont tenues de fournir à cet effet tout le personnel nécessaire à l'EMCC et à la Police cantonale du commerce, sur réquisition de ces derniers.
 
 <sup>3</sup> Si l'EMCC constate qu'il n'existe pas de plan de protection suffisant ou que ce plan n'est pas mis en oeuvre, ou que le présent arrêté ou ses dispositions d'application sont violés, il prend des mesures appropriées. Il peut fermer des installations et des établissements et interdire ou disperser des manifestations.
 
-[^14-1]: Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021
+[^14a-1]: Modif. 6 du 09.06.2021: Introduction Art. 7a; entrée en vigueur au 09.06.2021; Modification Al. 3; entrée en vigueur au 09.06.2021
+[^15-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 16
 
 **Autorités pénales compétentes**
 
-<sup>1</sup> Les préfets et le Ministère public sont compétents pour prononcer les amendes au sens de l'article 13 de l'ordonnance COVID-19 situation particulière.
+<sup>1</sup> Les préfets et le Ministère public sont compétents pour prononcer les amendes au sens de l'article 13 de l'ordonnance COVID-19 situation particulière[^16-1].
+
+[^16-1]: Ordonnance du 19.06.2020 sur les mesures destinées à lutter contre l’épidémie de COVID-19 en situation particulière (RS 818.101.26)
 
 #### Art. 17
 
