@@ -5,12 +5,12 @@ title: Loi sur le Conseil de la magistrature
 short: LCDM
 language: fr
 version: 2020-09-01
-valid_until: 2022-12-31
+corrected: 2021-03-24
 version_adopted: 2019-09-13
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/fr/versions/2872/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2859/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -476,7 +476,7 @@ ordonne:[^ingress-1]
 
 **Principe**
 
-<sup>1</sup> Les juges cantonaux et les procureurs membres du Bureau du ministère public sont élus par le Grand Conseil sur proposition de la commission de justice après rapport du Conseil de la magistrature. Sont éligibles par le Grand Conseil toutes les candidatures déposées en bonne et due forme et en temps voulu auprès du Conseil de la magistrature.
+<sup>1</sup> Les juges cantonaux et les procureurs membres du Bureau du ministère public sont élus par le Grand Conseil sur proposition de la commission de justice après rapport du Conseil de la magistrature. Sont éligibles par le Grand Conseil toutes les candatures déposées en bonne et due forme et en temps voulu auprès du Conseil de la magistrature.
 
 #### Art. 47
 

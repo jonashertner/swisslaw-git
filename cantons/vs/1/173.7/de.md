@@ -5,12 +5,12 @@ title: Gesetz über den Justizrat
 short: GJR
 language: de
 version: 2020-09-01
-valid_until: 2022-12-31
+corrected: 2021-03-24
 version_adopted: 2019-09-13
 adopted: 2019-09-13
 in_force: 2020-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/173.7"
-pdf: "https://lex.vs.ch/api/de/versions/2872/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2859/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
