@@ -3,10 +3,11 @@ canton: ZH
 number: "182.42"
 title: Reglement über den Einsatz der Informatikmittel in der Römisch-katholischen Körperschaft des Kantons Zürich (ICT-Reglement)
 language: de
-nachtrag: "106"
-valid_until: 2021-03-24
+version: "2021-01-18"
+nachtrag: "112"
+valid_until: 2025-10-01
 adopted: 2025-07-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_42-2019_05_20-2019_10_01-106.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-182_42-2019_05_20-2019_10_01-112.html"
 text: pdf
 ---
 
@@ -29,11 +30,13 @@ beschliesst:
 
 ### I. Gegenstand
 
+[^hIGegenstand-1]: Fassung gemäss B vom 18. Januar 2021 (OS 76, 65; ABl 2021-02-05). In Kraft seit 18. Januar 2021.
+
 #### § 1
 
 **Zweck**
 
-<sup>1</sup> Dieses Reglement regelt für alle Mitarbeitenden der Römisch-katholischen Körperschaft des Kantons Zürich die Nutzung der elektronischen Infrastrukturen und die Nutzung von Internet mit Informatikmitteln der Organisation sowie die Nutzung von E-Mail und Sozialen Medien.
+<sup>1</sup> Dieses Reglement regelt für alle Mitarbeitenden und die Mitglieder des Synodalrats der Römisch-katholischen Körperschaft des Kantons Zürich die Nutzung der elektronischen Infrastrukturen und die Nutzung von Internet mit Informatikmitteln der Organisation sowie die Nutzung von E-Mail und Sozialen Medien.[^hIGegenstand-1]
 
 <sup>2</sup> Das Interesse der Körperschaft liegt dabei in der Sicherstellung der Datensicherheit und im Datenschutz, in einer möglichst wenig belasteten betrieblichen Informatikinfrastruktur (Speicherplatz, Netzwerkbandbreite) sowie in finanziellen (der Arbeitnehmer schuldet dem Arbeitgeber seine Arbeitszeit) und ideellen Interessen (Schutz vor Reputationsschäden). Dem stehen das Informations- und Kommunikationsinteresse sowie der Persönlichkeitsschutz der Arbeitnehmenden gegenüber.
 
@@ -41,7 +44,7 @@ beschliesst:
 
 **1**
 
-- 1\. 10. 19 - 106
+- 1\. 4. 21 - 112
 
 ### II. Nutzungsvorschriften
 
@@ -113,7 +116,7 @@ Zur Wahrung der Daten- und Anwendungssicherheit (Verfügbarkeit, Integrität, Ve
 
 **3**
 
-- 1\. 10. 19 - 106 § 8. Dokumente, Videos und Bilder sowie E-Mails, Webseiten und andere Webinhalte mit rassistischen, pornografischen, sexistischen, gewaltverherrlichenden oder ganz allgemein rechtswidrigen Inhalten dürfen weder konsumiert noch heruntergeladen oder weiterverbreitet werden. Ganz allgemein sind Handlungen, die nach Schweizerischem Strafgesetzbuch unter Strafe stehen, zu unterlassen.
+- 1\. 4. 21 - 112 § 8. Dokumente, Videos und Bilder sowie E-Mails, Webseiten und andere Webinhalte mit rassistischen, pornografischen, sexistischen, gewaltverherrlichenden oder ganz allgemein rechtswidrigen Inhalten dürfen weder konsumiert noch heruntergeladen oder weiterverbreitet werden. Ganz allgemein sind Handlungen, die nach Schweizerischem Strafgesetzbuch unter Strafe stehen, zu unterlassen.
 
 #### § 9
 
@@ -165,11 +168,13 @@ Die Online-Präsenz der Mitarbeitenden beeinflusst auch das Image der Katholisch
 
 <sup>2</sup> Durch Vertrag oder Weisung wird sichergestellt, dass die Betreiberstellen die rechtskonforme und sichere Nutzung der elektronischen Infrastruktur und der Dienste der Körperschaft ermöglichen.
 
+[^13-1]: Fassung gemäss B vom 18. Januar 2021 (OS 76, 65; ABl 2021-02-05). In Kraft seit 18. Januar 2021.
+
 #### § 14
 
-**Zuständigkeit ICT-Stabsstelle Verwaltung**
+**Zuständigkeit Bereich ICT der Verwaltung**
 
-<sup>1</sup> Die ICT-Stabsstelle der Verwaltung ist zuständig für den Betrieb des körperschaftseigenen Servers in der Verwaltung und die an ihn angeschlossenen Peripheriegeräte.
+Der Bereich ICT der Verwaltung ist zuständig für den Betrieb des körperschaftseigenen Servers, die körperschaftseigene Netzwerkinfrastruktur in den Fach- und Dienststellen und Missionen sowie alle Clients (Desktop-PCs und Laptops) der Körperschaft.[^13-1]
 
 <sup>2</sup> Sie ist mithilfe der Betreiberstelle insbesondere zuständig für:
 
@@ -189,7 +194,7 @@ Die Online-Präsenz der Mitarbeitenden beeinflusst auch das Image der Katholisch
 
 **5**
 
-- 1\. 10. 19 - 106 § 15. <sup>1</sup> Die vorgesetzte Stelle ist bei längerer Abwesenheit einer bzw. eines Mitarbeitenden (Unfall, Krankheit oder sonstigen ausserordentlichen Ereignissen) berechtigt, nach Rücksprache oder versuchter Rücksprache auf deren bzw. dessen geschäftliche Daten zuzugreifen. Sie macht es unter Mitwirkung der Bereichsleiterin bzw. des Bereichsleiters Personal und der bzw. des Datenschutzverantwortlichen.
+- 1\. 4. 21 - 112 § 15. <sup>1</sup> Die vorgesetzte Stelle ist bei längerer Abwesenheit einer bzw. eines Mitarbeitenden (Unfall, Krankheit oder sonstigen ausserordentlichen Ereignissen) berechtigt, nach Rücksprache oder versuchter Rücksprache auf deren bzw. dessen geschäftliche Daten zuzugreifen. Sie macht es unter Mitwirkung der Bereichsleiterin bzw. des Bereichsleiters Personal und der bzw. des Datenschutzverantwortlichen.
 
 **Zugang zu geschäftlichen Daten bei Abwesenheiten**
 
@@ -269,7 +274,7 @@ Die Generalsekretärin bzw. der Generalsekretär weist die betroffenen Mitarbeit
 
 **7**
 
-- 1\. 10. 19 - 106 § 24. Wird keine Administrativuntersuchung eingeleitet, werden die personenbezogenen Berichte und Protokolle nach 30 Tagen vernichtet und die Mitarbeitenden informiert.
+- 1\. 4. 21 - 112 § 24. Wird keine Administrativuntersuchung eingeleitet, werden die personenbezogenen Berichte und Protokolle nach 30 Tagen vernichtet und die Mitarbeitenden informiert.
 
 **Prüfung und Vernichtung der Unterlagen**
 
