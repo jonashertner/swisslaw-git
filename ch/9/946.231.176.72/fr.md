@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 27 août 2014 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/486"
 language: fr
-version: 2020-10-15
+version: 2021-03-25
 adopted: 2014-08-27
 in_force: 2014-08-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20201015/fr/xml/fedlex-data-admin-ch-eli-cc-2014-486-20201015-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20201015/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20210325/fr/xml/fedlex-data-admin-ch-eli-cc-2014-486-20210325-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20210325/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures visant à empêcher le contournement de sanctions internationales en lien avec la situation en Ukraine
 
-du 27 août 2014 (Etat le 15 octobre 2020)
+du 27 août 2014 (Etat le 25 mars 2021)
 
 Le Conseil fédéral suisse,
 
@@ -473,7 +473,7 @@ Annexe 3*[^t-3]*
 
 ## Personnes physiques, entreprises et organisations visées par les mesures financières
 
-[^t-3]: Cette annexe n’est publiée ni <sup>au RO, ni au RS</sup> (**2014** 4059 4701, **2015** 809 1015 3821, **2016** 995 3435 3881, **2017** 1681 4037 5065 7657, **2018** 1177 2139 2535 3025 3259 5341, **2019** 613 1085 3089, **2020** 449 1153 3889 4157)<sup>.</sup> Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
+[^t-3]: Cette annexe n’est publiée ni <sup>au RO, ni au RS</sup> (**2014** 4059, 4701; **2015** 809, 1015, 3821; **2016** 995, 3435, 3881; **2017** 1681, 4037, 5065, 7657; **2018** 1177, 2139, 2535, 3025, 3259, 5341; **2019** 613, 1085, 3089; **2020** 449, 1153, 3889, 4157; **2021** 175)<sup>.</sup> Le texte de l’annexe peut être commandé au SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne ou consulté sur www.seco.admin.ch &gt; Economie extérieure et Coopération économique &gt; Relations économiques &gt; Contrôles à l’exportation et sanction &gt; Sanctions/Embargos &gt; Sanctions de la Suisse
 
 Annexe 4*[^t-4]*
 

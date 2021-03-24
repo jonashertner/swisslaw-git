@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 27. August 2014 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/486"
 language: de
-version: 2020-10-15
+version: 2021-03-25
 adopted: 2014-08-27
 in_force: 2014-08-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20201015/de/xml/fedlex-data-admin-ch-eli-cc-2014-486-20201015-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20201015/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20210325/de/xml/fedlex-data-admin-ch-eli-cc-2014-486-20210325-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20210325/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen zur Vermeidung der Umgehung internationaler Sanktionen im Zusammenhang mit der Situation in der Ukraine
 
-vom 27. August 2014 (Stand am 15. Oktober 2020)
+vom 27. August 2014 (Stand am 25. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -473,7 +473,7 @@ Anhang 3*[^t-3]*
 
 ## Natürliche Personen, Unternehmen und Organisationen, gegen die sich die Finanzmassnahmen richten
 
-[^t-3]: Der Anhang wird weder in der AS noch in der SR veröffentlicht ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)[4701](https://fedlex.data.admin.ch/eli/oc/2014/791), [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)[1015](https://fedlex.data.admin.ch/eli/oc/2015/194)[3821](https://fedlex.data.admin.ch/eli/oc/2015/642), [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)[3435](https://fedlex.data.admin.ch/eli/oc/2016/578)[3881](https://fedlex.data.admin.ch/eli/oc/2016/659), [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)[4037](https://fedlex.data.admin.ch/eli/oc/2017/476)[5065](https://fedlex.data.admin.ch/eli/oc/2017/553)[7657](https://fedlex.data.admin.ch/eli/oc/2017/835), [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)[2139](https://fedlex.data.admin.ch/eli/oc/2018/303)[2535](https://fedlex.data.admin.ch/eli/oc/2018/369)[3025](https://fedlex.data.admin.ch/eli/oc/2018/472)[3259](https://fedlex.data.admin.ch/eli/oc/2018/525)[5341](https://fedlex.data.admin.ch/eli/oc/2018/806), [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)[1085](https://fedlex.data.admin.ch/eli/oc/2019/207)[3089](https://fedlex.data.admin.ch/eli/oc/2019/566), [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)[1153](https://fedlex.data.admin.ch/eli/oc/2020/212)[3889](https://fedlex.data.admin.ch/eli/oc/2020/723)[4157](https://fedlex.data.admin.ch/eli/oc/2020/761)). Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-3]: Der Anhang wird weder in der AS noch in der SR veröffentlicht ([AS 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681), [4701](https://fedlex.data.admin.ch/eli/oc/2014/791); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)). Der Text kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern bestellt werden oder unter www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Wirtschaftsbeziehungen &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 4*[^t-4]*
 

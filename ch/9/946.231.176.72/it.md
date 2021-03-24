@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 27 agosto 2014 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/486"
 language: it
-version: 2020-10-15
+version: 2021-03-25
 adopted: 2014-08-27
 in_force: 2014-08-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20201015/it/xml/fedlex-data-admin-ch-eli-cc-2014-486-20201015-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20201015/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/486/20210325/it/xml/fedlex-data-admin-ch-eli-cc-2014-486-20210325-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/486/20210325/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti per impedire l’aggiramento delle sanzioni internazionali in relazione alla situazione in Ucraina
 
-del 27 agosto 2014 (Stato 15 ottobre 2020) (Stato 15 ottobre 2020)
+del 27 agosto 2014 (Stato 25 marzo 2021) (Stato 25 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -46,7 +46,7 @@ In relazione alla situazione in Ucraina, la Segreteria di Stato dell’economia 
 <sup>4</sup> Le notifiche devono contenere indicazioni dettagliate sulle parti coinvolte nell’affare, nonché sull’oggetto e sul valore dello stesso.
 
 [^1-1]: Nuovo testo giusta il n. I dell’O del 12 nov. 2014, in vigore dal 12 nov. 2014 ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)).
-[^1-2]: Il contenuto degli all. 2 e 3 OBDI non è pubblicato né nella RU, né nella RS. Può essere consultato sul sito: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
+[^1-2]: Il contenuto degli all. 2 e 3 OBDI non è pubblicato nella RU. Può essere consultato sul sito: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Prodotti industriali e beni militari speciali &gt; Legge e elenchi dei beni.
 [^1-3]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
 [^1-4]: Il rimando è stato adattato in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), con effetto dal 1° lug. 2016.
 
@@ -465,7 +465,7 @@ Allegato 2*[^t-2]*
 
 ## Banche e altre imprese o organizzazioni soggette a restrizioni sui mercati monetari e finanziari
 
-[^t-2]: L’all. non è pubblicato né nella RU, né nella RS ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi.
+[^t-2]: L’all. non è pubblicato né nella RU né nella RS ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi.
 
 Allegato 3*[^t-3]*
 
@@ -473,7 +473,7 @@ Allegato 3*[^t-3]*
 
 ## Persone fisiche, imprese e organizzazioni soggette alle misure finanziarie
 
-[^t-3]: L’all. non è pubblicato né nella RU, né nella RS ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)[4701](https://fedlex.data.admin.ch/eli/oc/2014/791), [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154)[1015](https://fedlex.data.admin.ch/eli/oc/2015/194)[3821](https://fedlex.data.admin.ch/eli/oc/2015/642), [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179)[3435](https://fedlex.data.admin.ch/eli/oc/2016/578)[3881](https://fedlex.data.admin.ch/eli/oc/2016/659), [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176)[4037](https://fedlex.data.admin.ch/eli/oc/2017/476)[5065](https://fedlex.data.admin.ch/eli/oc/2017/553)[7657](https://fedlex.data.admin.ch/eli/oc/2017/835), [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176)[2139](https://fedlex.data.admin.ch/eli/oc/2018/303)[2535](https://fedlex.data.admin.ch/eli/oc/2018/369)[3025](https://fedlex.data.admin.ch/eli/oc/2018/472)[3259](https://fedlex.data.admin.ch/eli/oc/2018/525)[5341](https://fedlex.data.admin.ch/eli/oc/2018/806), [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106)[1085](https://fedlex.data.admin.ch/eli/oc/2019/207)[3089](https://fedlex.data.admin.ch/eli/oc/2019/566), [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79)[1153](https://fedlex.data.admin.ch/eli/oc/2020/212)[3889](https://fedlex.data.admin.ch/eli/oc/2020/723)e [4157](https://fedlex.data.admin.ch/eli/oc/2020/761)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-3]: L’all. non è pubblicato né nella RU né nella RS ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681), [4701](https://fedlex.data.admin.ch/eli/oc/2014/791); [2015 809](https://fedlex.data.admin.ch/eli/oc/2015/154), [1015](https://fedlex.data.admin.ch/eli/oc/2015/194), [3821](https://fedlex.data.admin.ch/eli/oc/2015/642); [2016 995](https://fedlex.data.admin.ch/eli/oc/2016/179), [3435](https://fedlex.data.admin.ch/eli/oc/2016/578), [3881](https://fedlex.data.admin.ch/eli/oc/2016/659); [2017 1681](https://fedlex.data.admin.ch/eli/oc/2017/176), [4037](https://fedlex.data.admin.ch/eli/oc/2017/476), [5065](https://fedlex.data.admin.ch/eli/oc/2017/553), [7657](https://fedlex.data.admin.ch/eli/oc/2017/835); [2018 1177](https://fedlex.data.admin.ch/eli/oc/2018/176), [2139](https://fedlex.data.admin.ch/eli/oc/2018/303), [2535](https://fedlex.data.admin.ch/eli/oc/2018/369), [3025](https://fedlex.data.admin.ch/eli/oc/2018/472), [3259](https://fedlex.data.admin.ch/eli/oc/2018/525), [5341](https://fedlex.data.admin.ch/eli/oc/2018/806); [2019 613](https://fedlex.data.admin.ch/eli/oc/2019/106), [1085](https://fedlex.data.admin.ch/eli/oc/2019/207), [3089](https://fedlex.data.admin.ch/eli/oc/2019/566); [2020 449](https://fedlex.data.admin.ch/eli/oc/2020/79), [1153](https://fedlex.data.admin.ch/eli/oc/2020/212), [3889](https://fedlex.data.admin.ch/eli/oc/2020/723), [4157](https://fedlex.data.admin.ch/eli/oc/2020/761); [2021 175](https://fedlex.data.admin.ch/eli/oc/2021/175)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg È possibile ordinare il contenuto dell’allegato presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: www.seco.admin.ch &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 4*[^t-4]*
 
@@ -481,4 +481,4 @@ Allegato 4*[^t-4]*
 
 ## Imprese e organizzazioni soggette a vincoli relativi a beni a duplice impiego e a beni militari speciali
 
-[^t-4]: Introdotto dal n. II cpv. 3 dell’O del 12 nov. 2014, in vigore dal 12 nov. 2014 ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). L’all. non è pubblicato né nella RU, né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo sul sito: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi.
+[^t-4]: Introdotto dal n. II cpv. 3 dell’O del 12 nov. 2014, in vigore dal 12 nov. 2014 ([RU 2014 4059](https://fedlex.data.admin.ch/eli/oc/2014/681)). L’all. non è pubblicato né nella RU né nella RS. È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo sul sito: www.seco.admin.ch &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi.
