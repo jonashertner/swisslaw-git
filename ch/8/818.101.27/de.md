@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Verordnung vom 27. Januar 2021 über Massnahmen zur Bekämpfung des Coronavirus (Covid-19) im Bereich des internationalen Personenverkehrs (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: de
-version: 2021-03-22
+version: 2021-03-25
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210325/de/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210325-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210325/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/de"
 
 (Covid-19-Verordnung Massnahmen im Bereich des internationalen Personenverkehrs)
 
-vom 27. Januar 2021 (Stand am 22. März 2021)
+vom 27. Januar 2021 (Stand am 25. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -288,7 +288,7 @@ Anhang 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 10. März 2021, in Kraft seit 22. März 2021 ([AS 2021 140](https://fedlex.data.admin.ch/eli/oc/2021/140)).
+[^t-1]: Fassung gemäss Ziff. I der V des EDI vom 24. März 2021, in Kraft seit 25. März 2021 ([AS 2021 168](https://fedlex.data.admin.ch/eli/oc/2021/168)).
 [^annex1-lvlu1-1]: Steht ein Staat auf der Liste, so schliesst dies all seine Gebiete, Inseln und Überseegebiete ein, auch wenn diese nicht separat aufgeführt sind.
 
 ### 1. Staaten und Gebiete
@@ -297,15 +297,9 @@ Albanien
 
 Andorra
 
-Antigua und Barbuda
-
 Bahrain
 
-Barbados
-
 Belgien
-
-Besetztes Palästinensisches Gebiet
 
 Brasilien
 
@@ -315,13 +309,9 @@ Chile
 
 Estland
 
-Irland
-
 Israel
 
 Jordanien
-
-Katar
 
 Kosovo
 
@@ -331,15 +321,13 @@ Lettland
 
 Libanon
 
-Litauen
-
 Luxemburg
 
 Malediven
 
 Malta
 
-Moldawien
+Moldova
 
 Monaco
 
@@ -348,6 +336,8 @@ Montenegro
 Niederlande (Königreich der)
 
 Nordmazedonien
+
+Palästinensisches Gebiet (Besetztes)
 
 Peru
 
@@ -367,8 +357,6 @@ Slowakei
 
 Slowenien
 
-St. Lucia
-
 Südafrika
 
 Tschechien
@@ -378,10 +366,6 @@ Ungarn
 Uruguay
 
 Vereinigte Arabische Emirate
-
-Vereinigte Staaten von Amerika
-
-Vereinigtes Königreich
 
 Zypern
 
@@ -398,7 +382,6 @@ Gebiete in Frankreich:
 - – Region Île-de-France
 - – Region Korsika
 - – Region Normandie
-- – Region Nouvelle-Aquitaine
 - – Region Occitanie
 - – Region Pays de la Loire
 - – Region Provence-Alpes-Côte d’Azur
@@ -406,7 +389,6 @@ Gebiete in Frankreich:
 Gebiete in Italien:
 
 - – Region Abruzzen
-- – Region Apulien
 - – Region Basilikata
 - – Region Emilia Romagna
 - – Region Friaul / Julisch Venetien

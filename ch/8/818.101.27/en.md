@@ -3,11 +3,11 @@ sr: "818.101.27"
 title: Ordinance of 27 January 2021 on Measures to Combat the Coronavirus (COVID-19) in International Passenger Transport (COVID-19 Ordinance on International Passenger Transport Measures)
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/61"
 language: en
-version: 2021-03-22
+version: 2021-03-25
 adopted: 2021-01-27
 in_force: 2021-02-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210322/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210322-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210322/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/61/20210325/en/xml/fedlex-data-admin-ch-eli-cc-2021-61-20210325-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/61/20210325/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -18,7 +18,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (COVID-19 Ordinance on International Passenger Transport Measures)
 
-of 27 January 2021 (Status as of 22 March 2021)
+of 27 January 2021 (Status as of 25 March 2021)
 
 The Swiss Federal Council,
 
@@ -290,7 +290,7 @@ Annex 1*[^t-1]*
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by Annex No I of the O of the FDHA of 10 March 2021, in force since 22 March 2021 ([AS 2021 140](https://fedlex.data.admin.ch/eli/oc/2021/140)).
+[^t-1]: Amended by Annex No I of the O of the FDHA of 24 March 2021, in force since 25 March 2021 ([AS 2021 168](https://fedlex.data.admin.ch/eli/oc/2021/168)).
 [^annex1-lvlu1-1]: If a state is on the list, this includes all its areas, islands and overseas territories, even if these are not separately listed.
 
 ### 1. Countries and regions
@@ -299,11 +299,7 @@ Albania
 
 Andorra
 
-Antigua and Barbuda
-
 Bahrain
-
-Barbados
 
 Belgium
 
@@ -321,8 +317,6 @@ Estonia
 
 Hungary
 
-Ireland
-
 Israel
 
 Jordan
@@ -334,8 +328,6 @@ Kuwait
 Latvia
 
 Lebanon
-
-Lithuania
 
 Luxembourg
 
@@ -353,13 +345,11 @@ Netherlands
 
 North Macedonia
 
-Occupied Palestinian Territory
+Palestinian Territory (Occupied)
 
 Peru
 
 Poland
-
-Qatar
 
 Romania
 
@@ -375,15 +365,9 @@ Slovenia
 
 South Africa
 
-St Lucia
-
 Sweden
 
 United Arab Emirates
-
-United Kingdom
-
-United States of America
 
 Uruguay
 
@@ -400,7 +384,6 @@ Regions in France:
 - – Hauts-de-France Region
 - – Île de France Region
 - – Normandy Region
-- – Nouvelle-Aquitaine Region
 - – Occitanie Region
 - – Pays de la Loire Region
 - – Provence-Alpes-Côte d’Azur Region
@@ -408,7 +391,6 @@ Regions in France:
 Regions in Italy:
 
 - – Abruzzo Region
-- – Apulia Region
 - – Basilicata Region
 - – Emilia Romagna Region
 - – Friuli Venezia Giulia Region
