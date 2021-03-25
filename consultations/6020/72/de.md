@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben
 document: Vorentwurf
 language: de

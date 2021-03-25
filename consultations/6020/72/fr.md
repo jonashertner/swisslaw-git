@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Loi fédérale sur l'utilisation des moyens électroniques pour l'exécution des tâches des autorités"
 document: Projet
 language: fr

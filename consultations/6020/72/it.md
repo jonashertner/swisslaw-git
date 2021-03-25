@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Legge federale concernente l'impiego di mezzi elettronici nell'amministrazione per l'adempimento dei compiti delle autorità"
 document: Avamprogetto
 language: it
