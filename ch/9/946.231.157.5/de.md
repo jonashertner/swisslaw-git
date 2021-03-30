@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Verordnung vom 17. Oktober 2018 über Massnahmen gegenüber Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: de
-version: 2020-08-25
+version: 2021-03-31
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20200825/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20200825-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20200825/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210331/de/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210331-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210331/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Myanmar
 
-vom 17. Oktober 2018 (Stand am 25. August 2020)
+vom 17. Oktober 2018 (Stand am 31. März 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -198,7 +198,7 @@ Der Inhalt von Anhang 1 wird weder in der Amtlichen Sammlung des Bundesrechts (A
 
 Die Verordnung vom 28. Juni 2006[^13-1] über Massnahmen gegenüber Myanmar wird aufgehoben.
 
-[^13-1]: [[AS 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637), [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
+[^13-1]: [[AS 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
 
 #### Art. 14
 
@@ -218,7 +218,7 @@ Anhang 1*[^t-1]*
 
 ## Natürliche Personen, gegen die sich die Finanzsanktionen und das Ein- und Durchreiseverbot richten, sowie Unternehmen und Organisationen, gegen die sich die Finanzsanktionen richten
 
-[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)[1569](https://fedlex.data.admin.ch/eli/oc/2019/295), [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)). Sein Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
+[^t-1]: Dieser Anhang wird in der AS nicht veröffentlicht ([AS 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)). Sein Inhalt kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt oder unter [www.seco.admin.ch](https://www.seco.admin.ch/seco/de/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos &gt; Sanktionsmassnahmen eingesehen werden.
 
 Anhang 2
 

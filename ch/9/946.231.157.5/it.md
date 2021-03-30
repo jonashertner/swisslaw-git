@@ -3,18 +3,18 @@ sr: "946.231.157.5"
 title: Ordinanza del 17 ottobre 2018 che istituisce provvedimenti nei confronti del Myanmar
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/560"
 language: it
-version: 2020-08-25
+version: 2021-03-31
 adopted: 2018-10-17
 in_force: 2018-10-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20200825/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20200825-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20200825/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/560/20210331/it/xml/fedlex-data-admin-ch-eli-cc-2018-560-20210331-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/560/20210331/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Myanmar
 
-del 17 ottobre 2018 (Stato 25 agosto 2020)
+del 17 ottobre 2018 (Stato 31 marzo 2021)
 
 Il Consiglio federale svizzero,
 
@@ -142,7 +142,7 @@ Sono vietati la vendita, la fornitura, l’esportazione, il transito e il traspo
 - c. persone fisiche, imprese e organizzazioni in Myanmar;
 - d. persone fisiche, imprese e organizzazioni operanti su incarico o in favore di una persona, un’impresa o un’organizzazione di cui alle lettere a‒c.
 
-[^7-1]: [RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637), [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
+[^7-1]: [RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637); [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)
 
 #### Art. 8
 
@@ -198,7 +198,7 @@ La pubblicazione delle voci di cui all’allegato 1 non è prevista né nella Ra
 
 L’ordinanza del 28 giugno 2006[^13-1] che istituisce provvedimenti nei confronti del Myanmar è abrogata.
 
-[^13-1]: [[RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429), [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637)n. II, [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
+[^13-1]: [[RU 2006 2759](https://fedlex.data.admin.ch/eli/oc/2006/429); [2008 4549](https://fedlex.data.admin.ch/eli/oc/2008/637)n. II; [2012 2885](https://fedlex.data.admin.ch/eli/oc/2012/342)]
 
 #### Art. 14
 
@@ -218,7 +218,7 @@ Allegato 1*[^t-1]*
 
 ## Persone fisiche soggette alle sanzioni finanziarie e al divieto di entrata e di transito e imprese e organizzazioni soggette alle sanzioni finanziarie
 
-[^t-1]: Non è pubblicato nella RU ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36)[1569](https://fedlex.data.admin.ch/eli/oc/2019/295), [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
+[^t-1]: Non è pubblicato né nella RU né nella RS ([RU 2019 227](https://fedlex.data.admin.ch/eli/oc/2019/36), [1569](https://fedlex.data.admin.ch/eli/oc/2019/295); [2020 1497](https://fedlex.data.admin.ch/eli/oc/2020/297); [2021 185](https://fedlex.data.admin.ch/eli/oc/2021/185)). È possibile ordinarne il contenuto presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarlo al seguente indirizzo Internet: [www.seco.admin.ch](https://www.seco.admin.ch/seco/it/home/Aussenwirtschaftspolitik_Wirtschaftliche_Zusammenarbeit/Wirtschaftsbeziehungen/exportkontrollen-und-sanktionen/sanktionen-embargos/sanktionsmassnahmen.html) &gt; Politica esterna e cooperazione economica &gt; Relazioni economiche &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni/Embarghi &gt; Sanzioni della Svizzera.
 
 Allegato 2
 
