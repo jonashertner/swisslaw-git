@@ -4,13 +4,13 @@ number: "819.879"
 title: Verordnung betreffend Unterstützungsprogramm insbesondere für Hotellerie und Gastronomie
 short: COVID-19-Verordnung Unterstützung Hotellerie Gastronomie
 language: de
-version: 2021-01-27
-valid_until: 2021-03-30
-version_adopted: 2021-01-26
+version: 2021-03-31
+valid_until: 2021-04-20
+version_adopted: 2021-03-30
 adopted: 2021-04-20
 in_force: 2021-04-21
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/819.879"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5176/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Covid-19 Unterstützung Hotellerie Gastronomie: Verordnung | Arbeitsmarkt und Ar
 
 (COVID-19-Verordnung Unterstützung Hotellerie Gastronomie)
 
-Vom 27. Oktober 2020 (Stand 27. Januar 2021)
+Vom 27. Oktober 2020 (Stand 31. März 2021)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -74,6 +74,8 @@ beschliesst:
 <sup>13</sup> Beitragsberechtigt sind Unternehmen mit spezialisierten handwerklichen und gestalterischen Tätigkeiten, die einen überwiegenden Teil des Umsatzes aus dem Verkauf von Leistungen für die Durchführung der Basler Fasnacht erzielen.
 
 <sup>14</sup> Beitragsberechtigt sind Unternehmen, die ein Detailhandelsgeschäft betreiben.
+
+<sup>15</sup> Beitragsberechtigt sind Taxiunternehmen mit Sitz im Kanton Basel-Stadt.
 
 #### § 3
 
@@ -147,7 +149,7 @@ beschliesst:
 
 <sup>3</sup> Mit dem Gesuchformular ermächtigen die Gesuchstellerinnen und Gesuchsteller das zuständige Departement, sämtliche im Gesuch enthaltenen Daten mit anderen Behörden (Bund, Kanton) auszutauschen. Zu diesem Zweck entbinden sie diese von ihrem Amts-, Bank- und Steuergeheimnis im Zusammenhang mit der Bearbeitung dieser Daten.
 
-<sup>4</sup> Das Gesuch ist beim zuständigen Departement bis spätestens 31. März 2021 einzureichen.
+<sup>4</sup> Das Gesuch ist beim zuständigen Departement bis spätestens 31. Mai 2021 einzureichen.
 
 #### § 8
 
