@@ -3,11 +3,11 @@ sr: "837.033"
 title: "Ordinanza del 20 marzo 2020 sulle misure nel settore dell'assicurazione contro la disoccupazione riguardo al coronavirus (COVID-19) (Ordinanza COVID-19 assicurazione contro la disoccupazione)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: it
-version: 2021-01-21
+version: 2021-04-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210121/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210121-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/it"
 
 (Ordinanza COVID-19 assicurazione contro la disoccupazione)
 
-del 20 marzo 2020 (Stato 21 gennaio 2021)
+del 20 marzo 2020 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -188,11 +188,15 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 
 <sup>4bis</sup> La durata di validità secondo il capoverso 4 è prorogata fino al 31 marzo 2021.[^9-6]
 
-<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-7]
+<sup>4ter</sup> La durata di validità secondo i capoversi 4 e 4<sup>bis</sup> è prorogata fino al 30 giugno 2021.[^9-7]
 
-<sup>6</sup> L’articolo 3 ha effetto sino al 31 marzo 2021.[^9-8]
+<sup>5</sup> L’articolo 8*f* ha effetto sino al 30 giugno 2021.[^9-8]
 
-<sup>7</sup> L’articolo 4 ha effetto sino al 30 giugno 2021.[^9-9]
+<sup>6</sup> L’articolo 3 ha effetto sino al 31 marzo 2021.[^9-9]
+
+<sup>6bis</sup> La durata di validità secondo il capoverso 6 è prorogata fino al 30 giugno 2021.[^9-10]
+
+<sup>7</sup> L’articolo 4 ha effetto sino al 30 giugno 2021.[^9-11]
 
 [^9-1]: Nuovo testo giusta dal n. I 1 dell’O dell’8 apr. 2020 sui provvedimenti complementari nel settore dell’assicurazione contro la disoccupazione in relazione al coronavirus, in vigore dal 9 apr. 2020 ([RU 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [RU 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
@@ -200,6 +204,8 @@ In deroga all’articolo 38 capoverso 3 lettere b e c LADI[^7-1], il datore di l
 [^9-4]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^9-5]: Introdotto dal n. I dell’O del 12 ago. 2020, in vigore dal 1° set. 2020 ([RU 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 [^9-6]: Introdotto dal n. I dell’O del 18 dic. 2020, in vigore dal 1° gen. 2021 ([RU 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
-[^9-7]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
-[^9-8]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-7]: Introdotto dal n. I dell’O del 19 mar. 2021 (Prolungamento della procedura semplificata e dell’abolizione del periodo d’attesta), in vigore dal 1° apr. 2021 ([RU 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-8]: Introdotto dal n. I dell’O del 28 ott. 2020, in vigore dal 1° set. 2020 ([RU 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
 [^9-9]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-10]: Introdotto dal n. I dell’O del 19 mar. 2021 (Prolungamento della procedura semplificata e dell’abolizione del periodo d’attesta), in vigore dal 1° apr. 2021 ([RU 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-11]: Introdotto dal n. I dell’O del 20 gen. 2021, in vigore dal 21 gen. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).

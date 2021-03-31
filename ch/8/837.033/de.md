@@ -3,11 +3,11 @@ sr: "837.033"
 title: Verordnung vom 20. März 2020 über Massnahmen im Bereich der Arbeitslosenversicherung im Zusammenhang mit dem Coronavirus (Covid-19) (Covid-19-Verordnung Arbeitslosenversicherung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/169"
 language: de
-version: 2021-01-21
+version: 2021-04-01
 adopted: 2020-03-20
 in_force: 2020-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210121/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210121-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/169/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-169-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/169/20210121/de"
 
 (Covid-19-Verordnung Arbeitslosenversicherung)**[^t-1]**
 
-vom 20. März 2020 (Stand am 21. Januar 2021)
+vom 20. März 2020 (Stand am 1. April 2021)
 
 [^t-1]: Ausdruck gemäss Ziff. I 8 der V vom 7. Okt. 2020 über die Abstützung der Covid-19-Verordnungen auf das Covid-19-Gesetz, in Kraft seit 8. Okt. 2020 ([AS 2020 3971](https://fedlex.data.admin.ch/eli/oc/2020/737)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
@@ -190,11 +190,15 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 
 <sup>4bis</sup> Die Geltungsdauer nach Absatz 4 wird bis zum 31. März 2021 verlängert.[^9-6]
 
-<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-7]
+<sup>4</sup> <sup>ter</sup> Die Geltungsdauer nach den Absätzen 4 und 4<sup>bis</sup> wird bis zum 30. Juni 2021 verlängert.[^9-7]
 
-<sup>6</sup> Artikel 3 gilt bis zum 31. März 2021.[^9-8]
+<sup>5</sup> Artikel 8*f* gilt bis zum 30. Juni 2021.[^9-8]
 
-<sup>7</sup> Artikel 4 gilt bis zum 30. Juni 2021.[^9-9]
+<sup>6</sup> Artikel 3 gilt bis zum 31. März 2021.[^9-9]
+
+<sup>6bis</sup> Die Geltungsdauer nach Absatz 6 wird bis zum 30. Juni 2021 verlängert.[^9-10]
+
+<sup>7</sup> Artikel 4 gilt bis zum 30. Juni 2021.[^9-11]
 
 [^9-1]: Fassung gemäss Ziff. I 1 der V vom 8. April 2020 über ergänzende Massnahmen im Zusammenhang mit dem Coronavirus im Bereich der Arbeitslosenversicherung, in Kraft vom 9. April 2020 ([AS 2020 1201](https://fedlex.data.admin.ch/eli/oc/2020/226)).
 [^9-2]: [AS 2020 877](https://fedlex.data.admin.ch/eli/oc/2020/169)[1075](https://fedlex.data.admin.ch/eli/oc/2020/193)[1201](https://fedlex.data.admin.ch/eli/oc/2020/226)
@@ -202,6 +206,8 @@ In Abweichung von Artikel 38 Absatz 3 Buchstaben b und c AVIG[^7-1] reicht der A
 [^9-4]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 [^9-5]: Eingefügt durch Ziff. I der V vom 12. Aug. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 3569](https://fedlex.data.admin.ch/eli/oc/2020/634)).
 [^9-6]: Eingefügt durch Ziff. I der V vom 18. Dez. 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
-[^9-7]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
-[^9-8]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-7]: Eingefügt durch Ziff. I der V vom 19. März 2021 (Verlängerung des vereinfachten Verfahrens und der Aufhebung der Karenzzeit), in Kraft seit 1. April 2021 ([AS 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-8]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020, in Kraft seit 1. Sept. 2020 ([AS 2020 4517](https://fedlex.data.admin.ch/eli/oc/2020/795)).
 [^9-9]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^9-10]: Eingefügt durch Ziff. I der V vom 19. März 2021 (Verlängerung des vereinfachten Verfahrens und der Aufhebung der Karenzzeit), in Kraft seit 1. April 2021 ([AS 2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
+[^9-11]: Eingefügt durch Ziff. I der V vom 20. Jan. 2021, in Kraft seit 21. Jan. 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
