@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: "Ordonnance du 18 novembre 2015 sur le système d'information relatif au service VIP (Ordonnance SIVIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: fr
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-797-20160101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2015-797-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/fr"
 
 (Ordonnance SIVIP)
 
-du 18 novembre 2015 (Etat le 1<sup>er</sup> janvier 2016)
+du 18 novembre 2015 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -32,7 +32,7 @@ arrête:
 
 **Objet**
 
-La présente ordonnance règle l’exploitation et l’utilisation du système d’information relatif au service VIP (SIVIP) du Protocole du Département fédéral des affaires étrangères (DFAE) au sein du Secrétariat d’Etat du DFAE.
+La présente ordonnance règle l’exploitation et l’utilisation du système d’information relatif au service VIP (SIVIP) du Protocole du Département fédéral des affaires étrangères (DFAE) au sein du Secrétariat d’État du DFAE.
 
 #### Art. 2
 
@@ -150,13 +150,18 @@ Les entités suivantes peuvent consulter toutes les données dans le SIVIP (droi
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données et la sécurité informatique sont régies par l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1], par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^11-2] et par les directives du Conseil fédéral du 1<sup>er</sup> juillet 2015 concernant la sécurité informatique dans l’administration fédérale[^11-3].
+<sup>1</sup>
+
+La sécurité des données et la sécurité informatique sont régies par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^11-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^11-2].[^11-3]
 
 <sup>2</sup> Le Protocole du DFAE édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
-[^11-1]: [RS [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: [RS [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-3]: [FF 2015 5313](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-3]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 4 Conservation, archivage et destruction des données
 
@@ -182,8 +187,8 @@ Annexe
 
 - 1\.1 Souverain
 - 1\.2 Conjoint du souverain
-- 1\.3 Chef d’Etat
-- 1\.4 Conjoint du chef d’Etat
+- 1\.3 Chef d’État
+- 1\.4 Conjoint du chef d’État
 - 1\.5 Secrétaire général de l’ONU
 - 1\.6 Membre de maison royale ou princière
 - 1\.7 Chef de gouvernement (niveau national)
@@ -193,7 +198,7 @@ Annexe
 ### 2 Visite bilatérale (à l’invitation d’une autorité fédérale)
 
 - 2\.1 Souverain
-- 2\.2 Chef d’Etat
+- 2\.2 Chef d’État
 - 2\.3 Secrétaire général de l’ONU
 - 2\.4 Membre de maison royale ou princière
 - 2\.5 Chef de gouvernement (niveau national)
@@ -207,7 +212,7 @@ Annexe
 - 2\.12 a Président de la Commission européenne ou commissaire européen
 - 2\.12 b Président de la Commission de l’Union africaine ou commissaire de l’Union africaine
 - 2\.13 Vice-ministre
-- 2\.14 Secrétaire d’Etat
+- 2\.14 Secrétaire d’État
 - 2\.15 Haut dignitaire religieux
 - 2\.16 Haut dignitaire militaire
 - 2\.17 Haut représentant du pouvoir judiciaire
@@ -217,7 +222,7 @@ Annexe
 ### 3 Participation à un événement multilatéral en Suisse
 
 - 3\.1 Souverain
-- 3\.2 Chef d’Etat
+- 3\.2 Chef d’État
 - 3\.3 Secrétaire général de l’ONU
 - 3\.4 Membre de maison royale ou princière
 - 3\.5 Chef de gouvernement (niveau national)

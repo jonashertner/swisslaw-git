@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: "Ordinanza del 18 novembre 2015 sul sistema d'informazione concernente il servizio VIP (Ordinanza SSVIP)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: it
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-797-20160101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2015-797-20210401-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/it"
 
 (Ordinanza SSVIP)
 
-del 18 novembre 2015 (Stato 1° gennaio 2016)
+del 18 novembre 2015 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -150,13 +150,18 @@ I seguenti servizi possono consultare tutti i dati nel SSVIP per gli scopi indic
 
 **Sicurezza dei dati**
 
-<sup>1</sup> La sicurezza dei dati e la sicurezza informatica sono rette dall’ordinanza del 14 giugno 1993[^11-1] relativa alla legge federale sulla protezione dei dati, dall’ordinanza del 9 dicembre 2011[^11-2] sull’informatica nell’Amministrazione federale e dalle istruzioni del Consiglio federale del 1º luglio 2015[^11-3] sulla sicurezza TIC nell’Amministrazione federale.
+<sup>1</sup>
+
+La sicurezza dei dati e la sicurezza informatica sono rette:
+
+- a. dall’ordinanza del 14 giugno 1993[^11-1] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^11-2] sui ciber-rischi.[^11-3]
 
 <sup>2</sup> Il Protocollo del DFAE emana un regolamento sul trattamento dei dati. Il regolamento disciplina le misure tecniche e organizzative volte ad assicurare la sicurezza dei dati e il controllo del trattamento dei dati.
 
-[^11-1]: [RS [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: [RS [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-3]: [FF 2015 4787](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^11-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-3]: Nuovo testo giusta l’all. n. 7 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 4: Conservazione, archiviazione e distruzione dei dati
 

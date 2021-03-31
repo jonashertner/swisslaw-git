@@ -3,11 +3,11 @@ sr: "172.211.21"
 title: Verordnung vom 18. November 2015 über das Informationssystem VIP-Service (IVIPS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/797"
 language: de
-version: 2016-01-01
+version: 2021-04-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-797-20160101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/797/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2015-797-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/797/20160101/de"
 
 (IVIPS-Verordnung)
 
-vom 18. November 2015 (Stand am 1. Januar 2016)
+vom 18. November 2015 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -150,13 +150,18 @@ Die folgenden Stellen können für die nachstehenden Zwecke alle Daten im IVIPS 
 
 **Datensicherheit**
 
-<sup>1</sup> Die Daten- und Informatiksicherheit richtet sich nach der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz, der Bundesinformatikverordnung vom 9. Dezember 2011[^11-2] sowie den Weisungen des Bundesrates vom 1. Juli 2015[^11-3] über die IKT-Sicherheit in der Bundesverwaltung.
+<sup>1</sup>
+
+Die Daten- und die Informatiksicherheit richten sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^11-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^11-2].[^11-3]
 
 <sup>2</sup> Das Protokoll EDA erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
-[^11-1]: [SR [235.11](http://www.admin.ch/ch/d/sr/c235_11.html)](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^11-2]: [SR [172.010.58](http://www.admin.ch/ch/d/sr/c172_010_58.html)](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^11-3]: [BBl 2015 5795](https://fedlex.data.admin.ch/eli/fga/2015/1323)
+[^11-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
+[^11-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^11-3]: Fassung gemäss Anhang Ziff. 7 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 4. Abschnitt: Aufbewahrung, Archivierung und Vernichtung von Daten
 
