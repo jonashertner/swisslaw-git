@@ -4,7 +4,7 @@ number: "916.125.2"
 title: RÈGLEMENT du 27.05.2009 sur les vins vaudois (RVV)
 short: RVV
 language: fr
-version: 2021-02-01
+version: 2021-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.2?id=b58c3698-5558-41cf-beba-72e8ff39a804"
 ---
 
@@ -18,21 +18,28 @@ du 27 mai 2009
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu la loi du 21 novembre 1973 sur la viticulture
+vu la loi du 21 novembre 1973 sur la viticulture [^ingress-1]
 
-vu la loi fédérale du 29 avril 1998 sur l'agriculture
+vu la loi fédérale du 29 avril 1998 sur l'agriculture [^ingress-2]
 
-vu la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels
+vu la loi fédérale du 20 juin 2014 sur les denrées alimentaires et les objets usuels [^ingress-3]
 
-vu la loi du 12 décembre 1994 relative à l'exécution de la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels
+vu la loi du 12 décembre 1994 relative à l'exécution de la loi fédérale du 9 octobre 1992 sur les denrées alimentaires et les objets usuels [^ingress-4]
 
-vu l'ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin
+vu l'ordonnance du 14 novembre 2007 sur la viticulture et l'importation de vin [^ingress-5]
 
-vu l'ordonnance du DFI du 6 décembre 2016 sur les boissons
+vu l'ordonnance du DFI du 6 décembre 2016 sur les boissons [^ingress-6]
 
 vu le préavis du Département de l'économie, de l'innovation et du sport (ci-après : le département)
 
 arrête
+
+[^ingress-1]: Loi du 21.11.1973 sur la viticulture ([BLV 916.125](https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125?id=2beb0e29-f8db-4fc7-af95-1481419bb6cc))
+[^ingress-2]: Loi fédérale du 29.04.1998 sur l’agriculture (RS 910.1)
+[^ingress-3]: Loi fédérale du 20.06.2014 sur les denrées alimentaires et les objets usuels (RS 817.0)
+[^ingress-4]: Loi du 12.12.1994 relative à l'exécution de la loi fédérale du 09.10.1992 sur les denrées alimentaires et les objets usuels ([BLV 817.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/817.01?id=1f199d65-72e3-4491-8c7c-88bc40db6cb3))
+[^ingress-5]: Ordonnance fédérale du 14.11.2007 sur la viticulture et l’importation de vin (RS 916.140)
+[^ingress-6]: Ordonnance du 06.12.2016 du DFI sur les boissons (RS 817.022.12)
 
 ## Titre I AIRES GEOGRAPHIQUES DES VINS VAUDOIS
 
@@ -66,7 +73,7 @@ arrête
 - b. la région de Lavaux comprend toutes les communes viticoles des districts de Lavaux-Oron et de la Riviera-Pays-d'Enhaut ainsi que la commune de Lausanne ;
 - c. la région de La Côte comprend toutes les communes viticoles des districts de l'Ouest lausannois, Nyon et Morges (hormis les communes de La Sarraz, Pompaples, Orny et Eclépens) ;
 - d. la région des Côtes-de-l'Orbe comprend les communes de Agiez, Arnex-sur-Orbe, Baulmes, Bavois, Belmont-sur-Yverdon, Chamblon, Champvent, Chavornay, Eclépens, La Sarraz, Mathod, Montcherand, Orbe, Orny, Pompaples, Rances, Suscévaz, Valeyres-sous-Rances, Yverdon-les-Bains et Yvonand ;
-- e. la région de Bonvillars comprend les communes de Bonvillars, Concise, Corcelles-près-Concise, Fiez, Grandson, Montagny-près-Yverdon, Onnens et Valeyres-sous-Montagny ;
+- e. la région de Bonvillars comprend les communes de Bonvillars, Champagne Concise, Corcelles-près-Concise, Fiez, Grandson, Montagny-près-Yverdon, Onnens et Valeyres-sous-Montagny ;
 - f. la région du Vully comprend la commune viticole vaudoise de Vully-les-Lacs et la commune viticole déterminée par la législation fribourgeoise, soit Mont-Vully ;
 - g. la région du Dézaley comprend le territoire de la commune de Puidoux délimité :
 - - à l'ouest, par la coulisse de la Chenalettaz, jusqu'à la route de la Corniche et de là par la limite communale jusqu'au lac ;
@@ -74,21 +81,21 @@ arrête
 - - à l'est, par le ruisseau du Forestay ;
 - - au sud, par le lac ;
 - h. la région du Calamin comprend le territoire de l'ancienne commune d'Epesses sis au sud de la route de la Corniche ;
-- i. la région de Champagne comprend le territoire de la commune de Champagne.
+- i. ...
 
-[^2-1]: Modif. 2 du 29.06.2011: Modification Al. 1 f; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Introduction Al. 1 g,h; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Modification Al. 1, d,f,h; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Modification Al. 1, e; entrée en vigueur au 01.04.2021; Introduction Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^2-1]: Modif. 2 du 29.06.2011: Modification Al. 1 f; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Introduction Al. 1 g,h; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Modification Al. 1, d; entrée en vigueur au 01.02.2021; Modification Al. 1, e; entrée en vigueur au 01.04.2021; Modification Al. 1, f,h; entrée en vigueur au 01.02.2021; Introduction Al. 1, i; entrée en vigueur au 01.04.2021
 
 #### Art. 4
 
 **Appellation d'origine contrôlée de région viticole [^3-1]**
 
-<sup>1</sup> Le vin issu des raisins récoltés sur le territoire d'une région viticole a droit à l'appellation d'origine contrôlée de cette région, savoir "Chablais", "Lavaux", "La Côte", "Côtes-de-l'Orbe", "Bonvillars", "Vully", "Dézaley Grand cru", "Calamin Grand cru" ou « Commune de Champagne » pour autant qu'il réponde aux exigences des articles 14 à 21d.
+<sup>1</sup> Le vin issu des raisins récoltés sur le territoire d'une région viticole a droit à l'appellation d'origine contrôlée de cette région, savoir "Chablais", "Lavaux", "La Côte", "Côtes-de-l'Orbe", "Bonvillars", "Vully", "Dézaley Grand cru", "Calamin Grand cru" pour autant qu'il réponde aux exigences des articles 14 à 21d.
 
 <sup>2</sup> Le vin issu des raisins récoltés sur le territoire de la commune de Puidoux sis au nord de la route de la Corniche entre le chemin de la Chapotannaz et la coulisse de la Chenalettaz a également droit à l'appellation d'origine contrôlée "Dézaley-Marsens Grand cru", pour autant qu'il réponde aux exigences des articles 14 à 21.
 
 <sup>3</sup> Les vins provenant des régions du Dézaley ou de Calamin ont droit à l'appellation Lavaux. Le Dézaley peut exclusivement porter la mention communale "Puidoux" et le Calamin "Epesses", au sens de l'article 32.
 
-[^3-1]: Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013; Introduction Al. 2-3; entrée en vigueur au 01.04.2013 · Modif. 5 du 26.08.2015: Modification Al. 3; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^3-1]: Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013; Introduction Al. 2-3; entrée en vigueur au 01.04.2013 · Modif. 5 du 26.08.2015: Modification Al. 3; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 ### Chapitre III Lieux de production
 
@@ -120,7 +127,7 @@ arrête
 - 4\. Mention "Ollon" : commune d'Ollon.
 - 5\. Mention "Bex" : communes de Bex et de Lavey-Morcles.
 
-[^6-1]: Modif. 8 du 13.01.2021: Modification Al. 1, 5; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^6-1]: Modif. 8 du 13.01.2021: Modification Al. 1, 5; entrée en vigueur au 01.02.2021
 
 #### Art. 8
 
@@ -137,7 +144,7 @@ arrête
 - 7\. ...
 - 8\. ...
 
-[^7-1]: Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Modification Al. 1, 2-3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^7-1]: Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Modification Al. 1, 2-3; entrée en vigueur au 01.02.2021
 
 #### Art. 9
 
@@ -158,7 +165,7 @@ arrête
 - 11\. Mention "Begnins" : territoire viticole des communes de Begnins, Vich et Gland, hormis le territoire de la commune de Begnins et de la commune de Gland concédé au lieu de production "Luins".
 - 12\. Mention "Nyon" : territoire viticole des communes sises entre les rivières de la Sérine et de la Promenthouse d'une part et la frontière Vaud-Genève d'autre part.
 
-[^8-1]: Modif. 8 du 13.01.2021: Modification Al. 1, 1; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^8-1]: Modif. 8 du 13.01.2021: Modification Al. 1, 1; entrée en vigueur au 01.02.2021
 
 #### Art. 10
 
@@ -196,11 +203,13 @@ arrête
 
 [^12a-1]: Modif. 3 du 20.03.2013: Introduction Art. 12b; entrée en vigueur au 01.04.2013
 
-#### Art.12c
+#### Art. 12c
 
-**Lieux de production de la région Champagne**
+**... [^12b-1]**
 
-<sup>1</sup> La région de Champagne constitue un seul lieu de production.
+<sup>1</sup> ...
+
+[^12b-1]: Modif. 8 du 13.01.2021: Introduction Art. 12c; entrée en vigueur au 01.04.2021
 
 ## Titre II APPELLATIONS D'ORIGINE CONTRÔLEES
 
@@ -214,11 +223,9 @@ arrête
 
 **[^13-1]**
 
-<sup>1</sup> L'appellation d'origine contrôlée « Commune de Champagne » est réservée aux vins blancs tranquilles d'appellation d'origine contrôlée issus de raisins du cépage Chasselas exclusivement récoltés sur le territoire de cette commune, et qui ne peuvent être coupés.
+<sup>1</sup> ...
 
-<sup>2</sup> Les vins provenant de la région de Champagne ont droit à l'appellation Bonvillars, pour autant qu'ils satisfassent aux exigences de l'article 18 se rapportant à cette région, ainsi qu'aux articles 14 à 21d.
-
-[^13-1]: Modif. 8 du 13.01.2021: Introduction Art. 13a; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^13-1]: Modif. 8 du 13.01.2021: Introduction Art. 13a; entrée en vigueur au 01.02.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 2; entrée en vigueur au 01.02.2021
 
 ### Chapitre II Encépagement
 
@@ -226,11 +233,12 @@ arrête
 
 **Cépages admis [^chapterChapitreII-1]**
 
-<sup>1</sup> Seuls sont admis les cépages figurant à l'annexe du présent règlement, ainsi que d'autres cépages proposés par l'Interprofession et agréés par le service en charge de la viticulture (ci-après : le service) . Celui-ci en tient la liste à jour et la publie chaque année jusqu'au 31 juillet.
+<sup>1</sup> Seuls sont admis les cépages figurant à l'annexe du présent règlement, ainsi que d'autres cépages proposés par l'Interprofession et agréés par le service en charge de la viticulture (ci-après : le service)[^14-1] . Celui-ci en tient la liste à jour et la publie chaque année jusqu'au 31 juillet.
 
 <sup>2</sup> Pour le vignoble du Vully, seuls sont admis les cépages figurant à l'annexe de l'ordonnance fribourgeoise du 1er octobre 2009 sur la vigne et le vin.
 
 [^chapterChapitreII-1]: Modif. 2 du 29.06.2011: Modification Al. 2; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 1; entrée en vigueur au 01.01.2016
+[^14-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ### Chapitre III Méthodes de culture
 
@@ -258,7 +266,7 @@ arrête
 
 <sup>3</sup> L'arrosage de vignes dont le raisin est destiné à produire du vin AOC est interdit au-delà de la véraison.
 
-[^16-1]: Modif. 2 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Modification Al. 2; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Abrogation Al. 1-2; entrée en vigueur au 01.02.2021; Modification Al. 3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^16-1]: Modif. 2 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Modification Al. 2; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Abrogation Al. 1-2; entrée en vigueur au 01.02.2021; Modification Al. 3; entrée en vigueur au 01.02.2021
 
 ### Chapitre IV Teneurs naturelles minimales en sucre
 
@@ -266,15 +274,15 @@ arrête
 
 **Exigences [^chapterChapitreIV-1]**
 
-<sup>1</sup> Les teneurs naturelles minimales en sucre (% Brix ) sont les suivantes :
+<sup>1</sup> Les teneurs naturelles minimales en sucre (% Brix) sont les suivantes :
 
-Cépages blancs Gamay Autres cépages rouges Chablais 15,9 (65° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Lavaux 15,9 (65° Oe) 17,0 (70° Oe) 18,2 (75° Oe) La Côte 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Côtes-de-l'Orbe 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Bonvillars 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Dézaley Grand cru 17,3 (71° Oe) 19,3 (80° Oe) 20,5 (85° Oe) Calamin Grand cru 17,3 (71° Oe) 19,3 (80° Oe) 20,5 (85° Oe) Commune de Champagne Chasselas 15,7 (64° Oe)
+Cépages blancs Gamay Autres cépages rouges Chablais 15,9 (65° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Lavaux 15,9 (65° Oe) 17,0 (70° Oe) 18,2 (75° Oe) La Côte 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Côtes-de-l'Orbe 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Bonvillars 15,7 (64° Oe) 17,0 (70° Oe) 18,2 (75° Oe) Dézaley Grand cru 17,3 (71° Oe) 19,3 (80° Oe) 20,5 (85° Oe) Calamin Grand cru 17,3 (71° Oe) 19,3 (80° Oe) 20,5 (85° Oe)
 
 <sup>2</sup> Pour la région du Vully, les teneurs naturelles minimales en sucre (% Brix) sont les suivantes :
 
 Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) Autres rouges 17,0 (70° Oe)
 
-[^chapterChapitreIV-1]: Modif. 2 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011; Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^chapterChapitreIV-1]: Modif. 2 du 29.06.2011: Modification Al. 1; entrée en vigueur au 01.07.2011; Introduction Al. 2; entrée en vigueur au 01.07.2011 · Modif. 3 du 20.03.2013: Modification Al. 1; entrée en vigueur au 01.04.2013 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 19
 
@@ -344,17 +352,18 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>2</sup> On entend par méthodes particulières les productions de vins doux tels que définis par l'article 21b du présent règlement, de vendanges tardives et de sélection de grains nobles.
 
-<sup>3</sup> Pour le surplus, les limites pour la teneur en acidité volatile des vins telles que fixées en annexe à l'ordonnance fédérale sur les boissons s'applique.
+<sup>3</sup> Pour le surplus, les limites pour la teneur en acidité volatile des vins telles que fixées en annexe à l'ordonnance fédérale sur les boissons[^21c-1] s'applique.
 
-[^21b-1]: Modif. 5 du 26.08.2015: Introduction Art. 21c; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^21b-1]: Modif. 5 du 26.08.2015: Introduction Art. 21c; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 3; entrée en vigueur au 01.02.2021
+[^21c-1]: Ordonnance du 06.12.2016 du DFI sur les boissons (RS 817.022.12)
 
 #### Art. 21d
 
-**Edulcoration des vins [^21c-1]**
+**Edulcoration des vins [^21c-2]**
 
 <sup>1</sup> Pour les vins AOC tranquilles, l'édulcoration à l'aide de moût de raisins, de moût de raisins concentré, de moût de raisins concentré rectifié ou tout autre produit similaire est interdite.
 
-[^21c-1]: Modif. 5 du 26.08.2015: Introduction Art. 21d; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^21c-2]: Modif. 5 du 26.08.2015: Introduction Art. 21d; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021
 
 #### Art. 21e
 
@@ -370,11 +379,12 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>5</sup> L'addition de moût de raisin concentré ou de moût de raisin concentré rectifié ne peut pas augmenter de plus de 8 % le volume initial de la cuvée.
 
-<sup>6</sup> Pour le surplus, l'appendice 12 de l'annexe 9 de l'ordonnance sur les boissons s'applique.
+<sup>6</sup> Pour le surplus, l'appendice 12 de l'annexe 9 de l'ordonnance sur les boissons[^21e-1] s'applique.
 
 <sup>7</sup> Les vins mousseux travaillés selon la présente disposition ne peuvent pas être réutilisés dans les vins tranquilles de la catégorie AOC.
 
-[^21d-1]: Modif. 5 du 26.08.2015: Introduction Art. 21e; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Introduction Al. 2-7; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^21d-1]: Modif. 5 du 26.08.2015: Introduction Art. 21e; entrée en vigueur au 01.09.2015 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Introduction Al. 2-7; entrée en vigueur au 01.02.2021
+[^21e-1]: Ordonnance du 06.12.2016 du DFI sur les boissons (RS 817.022.12)
 
 ### Chapitre VII Conditions particulières
 
@@ -476,7 +486,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Il décide du retrait de l'appellation d'origine contrôlée aux vins qui ne satisfont pas aux conditions du présent règlement et de leur déclassement en classes inférieures.
 
-[^chapterChapitreIX-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^chapterChapitreIX-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021
 
 #### Art. 28
 
@@ -496,7 +506,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>7</sup> Pour l'examen organoleptique des vins du Vully, l'organisme désigné par la législation fribourgeoise exerce les fonctions réservées à la commission de dégustation, notamment celles prévues aux alinéas 5 et 6 du présent article.
 
-[^27-1]: Modif. 2 du 29.06.2011: Introduction Al. 7; entrée en vigueur au 01.07.2011 · Modif. 8 du 13.01.2021: Modification Al. 5-6; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^27-1]: Modif. 2 du 29.06.2011: Introduction Al. 7; entrée en vigueur au 01.07.2011 · Modif. 8 du 13.01.2021: Modification Al. 5-6; entrée en vigueur au 01.02.2021
 
 #### Art. 29
 
@@ -508,7 +518,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Lorsqu'ils sont prélevés à la source, les échantillons sont fournis en tous les cas sans contrepartie.
 
-[^28-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^28-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021
 
 #### Art. 30
 
@@ -520,7 +530,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Le service et la commission de dégustation appliquent les dispositions du règlement fixant les émoluments perçus par le Service de la viticulture et la Commission de dégustation des vins d'appellation d'origine contrôlée lors de dégustation.
 
-[^29-1]: Modif. 3 du 20.03.2013: Modification Al. 3; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 3; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Modification Al. 1-3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^29-1]: Modif. 3 du 20.03.2013: Modification Al. 3; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 3; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Modification Al. 1-3; entrée en vigueur au 01.02.2021
 
 #### Art. 31
 
@@ -544,7 +554,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>4</sup> Les noms des communes ici visés sont ceux des communes existantes au 1er juin 2009. Lorsque des communes viticoles ont fusionné, le vin qui est issu du nouveau territoire peut également porter le nom de la nouvelle commune.
 
-[^chapterChapitreI-2]: Modif. 1 du 10.11.2010: Modification Al. 4; entrée en vigueur au 15.11.2010 · Modif. 8 du 13.01.2021: Abrogation Al. 3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^chapterChapitreI-2]: Modif. 1 du 10.11.2010: Modification Al. 4; entrée en vigueur au 15.11.2010 · Modif. 8 du 13.01.2021: Abrogation Al. 3; entrée en vigueur au 01.02.2021
 
 ### Chapitre II Autres mentions
 
@@ -595,15 +605,15 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>2</sup> La mention d'un nom cadastral peut être étendue à une ou plusieurs parcelles contiguës aux parcelles considérées pour autant qu'elles bénéficient des mêmes conditions de sol et d'exposition.
 
-[^36-1]: Modif. 8 du 13.01.2021: Introduction Al. 2; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^36-1]: Modif. 8 du 13.01.2021: Introduction Al. 2; entrée en vigueur au 01.02.2021
 
 #### Art. 37a
 
-**Appellation Commune de Champagne [^37-1]**
+**... [^37-1]**
 
-<sup>1</sup> Les vins de l'appellation d'origine contrôlée « Commune de Champagne » doivent comporter la mention « Vin suisse » dans le même champ visuel que celui de l'appellation.
+<sup>1</sup> ...
 
-[^37-1]: Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction tArt; entrée en vigueur au 01.04.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^37-1]: Modif. 8 du 13.01.2021: Introduction tArt; entrée en vigueur au 01.04.2021; Introduction Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
 
 #### Art. 38
 
@@ -627,7 +637,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>2</sup> ...
 
-[^39-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Abrogation Al. 2; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^39-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Abrogation Al. 2; entrée en vigueur au 01.02.2021
 
 ### Chapitre III Organisation administrative
 
@@ -725,7 +735,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Peuvent aussi bénéficier de la mention "Premier grand cru" les vins issus d'une parcelle comportant, outre les cépages rouges admis, 5% d'autres cépages rouges.
 
-[^46-1]: Modif. 1 du 10.11.2010: Modification Al. 2; entrée en vigueur au 15.11.2010; Introduction Al. 3; entrée en vigueur au 15.11.2010 · Modif. 3 du 20.03.2013: Modification Al. 1,2 a-b; entrée en vigueur au 01.04.2013; Abrogation Al. 2 c; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^46-1]: Modif. 1 du 10.11.2010: Modification Al. 2; entrée en vigueur au 15.11.2010; Introduction Al. 3; entrée en vigueur au 15.11.2010 · Modif. 3 du 20.03.2013: Modification Al. 1,2 a-b; entrée en vigueur au 01.04.2013; Abrogation Al. 2 c; entrée en vigueur au 01.04.2013 · Modif. 6 du 16.12.2015: Modification Al. 2; entrée en vigueur au 01.01.2016 · Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021
 
 #### Art. 47a
 
@@ -811,7 +821,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>3</sup> Le service en charge de la consommation applique son tarif.
 
-[^53-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Introduction Al. 2-3; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^53-1]: Modif. 8 du 13.01.2021: Modification Al. 1; entrée en vigueur au 01.02.2021; Introduction Al. 2-3; entrée en vigueur au 01.02.2021
 
 #### Art. 55
 
@@ -865,7 +875,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>2</sup> La mention « Grande réserve » n'est pas admise.
 
-[^58-2]: Modif. 8 du 13.01.2021: Introduction tArt; entrée en vigueur au 01.02.2021; Introduction Al. 1-2; entrée en vigueur au 01.02.2021; Introduction Art. 58a; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^58-2]: Modif. 8 du 13.01.2021: Introduction tArt; entrée en vigueur au 01.02.2021; Introduction Al. 1-2; entrée en vigueur au 01.02.2021; Introduction Art. 58a; entrée en vigueur au 01.02.2021
 
 ## Titre VI DISPOSITIONS PÉNALES, TRANSITOIRES, ABROGATOIRES ET FINALES
 
@@ -892,7 +902,7 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 
 <sup>1</sup> La mention « Grand vin » n'est plus admise. Elle peut toutefois, dans un délai de deux ans dès l'entrée en vigueur du règlement modifiant le règlement du 27 mai 2009 sur les vins vaudois, être encore autorisée lorsqu'elle a fait l'objet d'un long usage paisible et que la qualité du vin est égale ou supérieure à une AOC.
 
-[^60-1]: Modif. 8 du 13.01.2021: Introduction Art. 60a; entrée en vigueur au 01.02.2021 · Modif. 8 du 13.01.2021: Introduction Art. 3, Al. 1, i; entrée en vigueur au 01.04.2021; Introduction Art. 12c; entrée en vigueur au 01.04.2021; Introduction Art. 13a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a, tArt; entrée en vigueur au 01.04.2021; Introduction Art. 37a, Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 37a; entrée en vigueur au 01.04.2021
+[^60-1]: Modif. 8 du 13.01.2021: Introduction Art. 60a; entrée en vigueur au 01.02.2021
 
 #### Art. 61
 
@@ -917,6 +927,6 @@ Annexes [^62-1]
 
 1
 
-[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.02.2021)
+[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.04.2021)
 
 [^62-1]: Modif. 3 du 20.03.2013: Modification Ann; entrée en vigueur au 01.08.2012 · Modif. 4 du 28.06.2013: Modification Ann; entrée en vigueur au 01.07.2013 · Modif. 7 du 13.07.2018: Modification Ann; entrée en vigueur au 13.07.2018
