@@ -4,11 +4,11 @@ title: Verordnung vom 7. November 2012 über den ausserprozessualen Zeugenschutz
 short: ZeugSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: de
-version: 2013-01-01
+version: 2021-04-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20130101/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20130101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/de"
 
 (ZeugSV)
 
-vom 7. November 2012 (Stand am 1. Januar 2013)
+vom 7. November 2012 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -235,14 +235,15 @@ Die Zeugenschutzstelle informiert die Empfängerinnen und Empfänger bei jeder B
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a. die Verordnung vom 14. Juni 1993[^15-1] zum Bundesgesetz über den Datenschutz;
-- b. die Bundesinformatikverordnung vom 9. Dezember 2011[^15-2];
-- c. die Weisungen des Informatikrates Bund vom 27. September 2004[^15-3] über die Informatiksicherheit in der Bundesverwaltung.
+- b.[^15-2] die Cyberrisikenverordnung vom 27. Mai 2020[^15-3];
+- c.[^15-4] ...
 
 <sup>2</sup> Die Zeugenschutzstelle trifft die weiteren erforderlichen organisatorischen und technischen Massnahmen, um den Zugriff unbefugter Personen auf die Daten zu verhindern.
 
 [^15-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^15-3]: www.isb.admin.ch &gt; Themen &gt; Sicherheit &gt; Sicherheitsgrundlagen
+[^15-2]: Fassung gemäss Anhang Ziff. 14 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-4]: Aufgehoben durch Anhang Ziff. 14 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 6. Abschnitt: Zusammenarbeit mit dem Ausland
 
@@ -369,6 +370,6 @@ Anhang
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
 [^annexu1-lvlu1-1]: Die Änderungen können unter [AS 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815)konsultiert werden.

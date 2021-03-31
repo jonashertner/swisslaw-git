@@ -4,11 +4,11 @@ title: Ordinanza del 7 novembre 2012 sulla protezione extraprocessuale dei testi
 short: OPTes
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: it
-version: 2013-01-01
+version: 2021-04-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20130101/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20130101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/it"
 
 (OPTes)
 
-del 7 novembre 2012 (Stato 1° gennaio 2013)
+del 7 novembre 2012 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -235,14 +235,15 @@ In occasione di ogni trasmissione di dati il Servizio di protezione dei testimon
 Per garantire la sicurezza dei dati si applicano:
 
 - a. l’ordinanza del 14 giugno 1993[^15-1] relativa alla legge federale sulla protezione dei dati;
-- b. l’ordinanza del 9 dicembre 2011[^15-2] sull’informatica nell’Amministrazione federale;
-- c. le istruzioni del Consiglio informatico della Confederazione del 27 settembre 2004[^15-3] sulla sicurezza informatica nell’Amministrazione federale.
+- b.[^15-2] l’ordinanza del 27 maggio 2020[^15-3] sui ciber-rischi;
+- c.[^15-4] ...
 
 <sup>2</sup> Il Servizio di protezione dei testimoni adotta le ulteriori misure organizzative e tecniche necessarie per impedire che persone non autorizzate accedano ai dati.
 
 [^15-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^15-3]: www.isb.admin.ch &gt; Temi &gt; Sicurezza &gt; Basi per la sicurezza
+[^15-2]: Nuovo testo giusta l’all. n. 14 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-4]: Abrogata dall’all. n. 14 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Sezione 6: Cooperazione con l’estero
 
@@ -369,6 +370,6 @@ Allegato
 
 Le ordinanze qui appresso sono modificate come segue:
 
-…[^annexu1-lvlu1-1]
+...[^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Le modifiche possono essere consultate alla [RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815).
+[^annexu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2012 6731](https://fedlex.data.admin.ch/eli/oc/2012/815).

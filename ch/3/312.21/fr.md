@@ -4,11 +4,11 @@ title: Ordonnance du 7 novembre 2012 sur la protection extraprocédurale des té
 short: OTém
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/815"
 language: fr
-version: 2013-01-01
+version: 2021-04-01
 adopted: 2012-11-07
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20130101/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20130101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/815/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-815-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/815/20130101/fr"
 
 (OTém)
 
-du 7 novembre 2012 (Etat le 1<sup>er</sup> janvier 2013)
+du 7 novembre 2012 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -39,7 +39,7 @@ La présente ordonnance règle:
 - d. la coopération du Service de protection des témoins avec l’étranger;
 - e. la répartition des frais entre les cantons et l’indemnisation, par les cantons, des prestations de conseil et de soutien de la Confédération.
 
-## Section 2 Elaboration du programme de protection des témoins
+## Section 2 Élaboration du programme de protection des témoins
 
 #### Art. 2
 
@@ -235,14 +235,15 @@ Lors de toute communication de données, le Service de protection des témoins i
 La sécurité des données est garantie par:
 
 - a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^15-1];
-- b. l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^15-2];
-- c. les directives du CI du 27 septembre 2004 concernant la sécurité informatique dans l’administration fédérale[^15-3].
+- b.[^15-2] l’ordonnance du 27 mai 2020 sur les cyberrisques[^15-3];
+- c.[^15-4] …
 
 <sup>2</sup> Le Service de protection des témoins prend les autres mesures nécessaires du point de vue organisationnel et technique pour empêcher les tiers non autorisés d’accéder aux données.
 
 [^15-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^15-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^15-3]: www.isb.admin.ch &gt; Thèmes &gt; Sécurité &gt; Bases de sécurité
+[^15-2]: Nouvelle teneur selon l’annexe ch. 14 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^15-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^15-4]: Abrogée par l’annexe ch. 14 de l’O du 24 fév. 2021, avec effet au 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 6 Coopération internationale
 
