@@ -3,20 +3,20 @@ canton: SG
 number: "331.43"
 title: Regierungsbeschluss über die Spitalliste Rehabilitation
 language: de
-version: 2018-04-01
-valid_until: 2021-03-31
-version_adopted: 2018-03-27
+version: 2021-04-01
+valid_until: 2023-12-31
+version_adopted: 2021-03-09
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.43"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2415/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3159/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsbeschluss über die Spitalliste Rehabilitation
 
-vom 27.03.2018 (Stand 01.04.2018)
+vom 27.03.2018 (Stand 01.04.2021)
 
 Die Regierung des Kantons St.Gallen
 
