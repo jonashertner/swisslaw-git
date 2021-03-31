@@ -4,13 +4,12 @@ number: "901.1"
 title: "Loi sur le développement de l'économie"
 short: LDE
 language: fr
-version: 2005-01-01
-valid_until: 2021-03-31
-version_adopted: 2002-03-26
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-03-12
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/901.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/579/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2187/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/579/pdf_file"
 
 (LDE)
 
-du 12.03.1997 (état au 01.01.2005)
+du 12.03.1997 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -66,13 +65,13 @@ arrête:
 
 <sup>2</sup> Elle peut encourager la réalisation de nouveaux projets d'entreprises bernoises ainsi que la création ou l'implantation de nouvelles entreprises dans le canton de Berne par l'octroi d'argent ou d'autres prestations (subventions).
 
-<sup>3</sup> Elle met en Ðuvre les programmes d'encouragement de l'économie de la Confédération.
+<sup>3</sup> Elle met en œuvre les programmes d'encouragement de l'économie de la Confédération.
 
 #### Art. 4
 
 **Exécution**
 
-<sup>1</sup> La Direction de l’économie publique assume la tâche de la promotion économique.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement assume la tâche de la promotion économique.
 
 <sup>2</sup> Dans le domaine de la promotion économique, les compétences en matière d’autorisation de dépenses du peuple et du Grand Conseil sont déléguées au Conseil-exécutif.
 
@@ -126,7 +125,7 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif désigne les immeubles appartenant au canton qu'il met à la disposition de la Promotion économique pour les procurer à des entreprises selon les conditions qu'il fixe dans un mandat.
 
-<sup>3</sup> La Direction de l'économie publique peut faire des propositions au Conseil-exécutif en matière de politique immobilière.
+<sup>3</sup> La Direction de l’économie, de l’énergie et de l’environnement peut faire des propositions au Conseil-exécutif en matière de politique immobilière.
 
 #### Art. 10
 
@@ -203,7 +202,7 @@ arrête:
 
 <sup>1</sup> Un montant de trois millions de francs au plus à prélever sur le Fonds pour les affaires foncières est mis en réserve pour les contributions au sens de l'article 7.
 
-<sup>2</sup> Le Fonds pour l'encouragement de l'économie et le Fonds pour les affaires foncières sont progressivement réduits, dès l'entrée en vigueur de la présente loi, au montant couvrant les engagements en cours ainsi que d'éventuelles pertes sur cautionnements et sont dissous par un arrêté de la Direction de l'économie publique une fois toutes les affaires définitivement réglées.
+<sup>2</sup> Le Fonds pour l'encouragement de l'économie et le Fonds pour les affaires foncières sont progressivement réduits, dès l'entrée en vigueur de la présente loi, au montant couvrant les engagements en cours ainsi que d'éventuelles pertes sur cautionnements et sont dissous par un arrêté de la Direction de l’économie, de l’énergie et de l’environnement une fois toutes les affaires définitivement réglées.
 
 <sup>3</sup> Les immeubles du Fonds pour les affaires foncières sont transférés au patrimoine financier conformément à la législation sur les finances.
 

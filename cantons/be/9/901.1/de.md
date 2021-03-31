@@ -4,13 +4,12 @@ number: "901.1"
 title: Wirtschaftsförderungsgesetz
 short: WFG
 language: de
-version: 2005-01-01
-valid_until: 2021-03-31
-version_adopted: 2002-03-26
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-03-12
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/901.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/579/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2187/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/579/pdf_file"
 
 (WFG)
 
-vom 12.03.1997 (Stand 01.01.2005)
+vom 12.03.1997 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -72,7 +71,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Die Förderung der Wirtschaft ist Aufgabe der Volkswirtschaftsdirektion.
+<sup>1</sup> Die Förderung der Wirtschaft ist Aufgabe der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Die Ausgabenbefugnisse des Volks und des Grossen Rates werden im Bereich der Wirtschaftsförderung dem Regierungsrat übertragen.
 
@@ -126,7 +125,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat bezeichnet die dazu bestimmten Liegenschaften des Kantons, legt die Konditionen fest und beauftragt die Wirtschaftsförderung mit deren Vermittlung.
 
-<sup>3</sup> Die Volkswirtschaftsdirektion kann dem Regierungsrat Anträge zur Grundstückpolitik stellen.
+<sup>3</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann dem Regierungsrat Anträge zur Grundstückpolitik stellen.
 
 #### Art. 10
 
@@ -203,7 +202,7 @@ beschliesst:
 
 <sup>1</sup> Vom Bestand des Grundstückfonds werden höchstens drei Millionen Franken für Beiträge gemäss Artikel 7 zurückgestellt.
 
-<sup>2</sup> Der Wirtschaftsförderungs- und der Grundstückfonds werden nach Inkrafttreten dieses Gesetzes regelmässig auf den Betrag reduziert, der die bestehenden Verpflichtungen sowie mögliche Bürgschaftsverluste abdeckt, und nach vollständigem Abschluss aller Geschäfte durch einen Beschluss der Volkswirtschaftsdirektion aufgelöst.
+<sup>2</sup> Der Wirtschaftsförderungs- und der Grundstückfonds werden nach Inkrafttreten dieses Gesetzes regelmässig auf den Betrag reduziert, der die bestehenden Verpflichtungen sowie mögliche Bürgschaftsverluste abdeckt, und nach vollständigem Abschluss aller Geschäfte durch einen Beschluss der Wirtschafts-, Energie- und Umweltdirektion aufgelöst.
 
 <sup>3</sup> Die Liegenschaften des Grundstückfonds werden dem Finanzvermögen im Sinne der Finanzhaushaltgesetzgebung zugeordnet.
 
