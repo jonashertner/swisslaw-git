@@ -4,11 +4,11 @@ title: "Ordinanza del 4 dicembre 2009 sulle misure di polizia amministrativa del
 short: OMPAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: it
-version: 2013-02-01
+version: 2021-04-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20130201/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20130201-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20130201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2009-847-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20130201/it"
 
 (OMPAH)**[^t-1]**
 
-del 4 dicembre 2009 (Stato 1° febbraio 2013) (Stato 1° febbraio 2013)
+del 4 dicembre 2009 (Stato 1° aprile 2021)
 
-[^t-1]: Nuovo testo giusta il n. 1 dell’appendice 2 all’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^t-1]: Nuovo testo giusta l’appendice 2 n. 1 all’O del 21 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 Il Consiglio federale svizzero,
 
@@ -42,13 +42,13 @@ La presente ordinanza disciplina:
 - b. il sistema d’informazione HOOGAN di fedpol;
 - c.[^1-1] ...
 
-[^1-1]: Abrogata dal n. 1 dell’appendice 2 all’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^1-1]: Abrogata dell’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 #### Art. 2
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. 1 dell’appendice 2 all’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^2-1]: Abrogato dAll’appendice 2 n. 1 dell’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Sezione 2: Misure di polizia amministrativa contro il materiale di propaganda
 
@@ -296,7 +296,7 @@ Fedpol avverte il destinatario che:
 La sicurezza dei dati è retta:
 
 - a. dall’articolo 20 dell’ordinanza del 14 giugno 1993[^13-1] relativa alla legge federale sulla protezione dei dati (OLPD);
-- b. dall’ordinanza del 26 settembre 2003[^13-2] sull’informatica nell’Amministrazione federale (OIAF).
+- b.[^13-2] dall’ordinanza del 27 maggio 2020[^13-3] sui ciber-rischi.
 
 <sup>2</sup>
 
@@ -307,7 +307,8 @@ Fedpol disciplina in un regolamento sul trattamento dei dati:
 - c. le esigenze tecniche che devono essere soddisfatte dai terminali degli utenti.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^13-2]: Nuovo testo giusta l’all. n. 1 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
 ## Sezione 5: ...
 
@@ -315,7 +316,7 @@ Fedpol disciplina in un regolamento sul trattamento dei dati:
 
 [^1428-1]
 
-[^1428-1]: Abrogati dal n. 1 dell’appendice 2 all’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
+[^1428-1]: Abrogati dell’appendice 2 n. 1 all’O del 21 nov. 2012, con effetto dal 1° gen. 2013 ([RU 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
 ## Sezione 6: Entrata in vigore
 
@@ -356,8 +357,8 @@ R = Polizia cantonale
 <table>
 <tr><td></td><td></td><td></td><td></td><td colspan="7">**Accesso integrale - HOOGAN Sistema operativo**</td><td colspan="2">**Accesso limitato a HOOGAN via RIPOL**</td></tr>
 <tr><td></td><td></td><td></td><td>**Servizio**</td><td>fedpol STF</td><td>fedpol STF</td><td>AFD, Cantoni, SCTF</td><td>fedpol STF</td><td>fedpol STF, CSI</td><td>Cantoni, SCTF</td><td>SCTF</td><td colspan="2">Unità organizzative E, F, R</td></tr>
-<tr><td></td><td></td><td></td><td>**Scopo trattame****n****to**</td><td>fedpol Analisi preliminare − −&gt;</td><td>fedpol Garanzia della qualità − −&gt;</td><td>Utente − −&gt;</td><td>Amminis tratore − −&gt;</td><td>Amministra tore tecnico − −&gt;</td><td>Collaboratore responsabile − −&gt;</td><td>Collaboratore responsabile SCTF − −&gt;</td><td>Utente via RIPOL</td><td>Amministratore utenti RIPOL</td></tr>
-<tr><td>**Settore dei dati**</td><td>**Campi** **di dati**</td><td>**Diritti di trattamento**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>**Scopo trattamento**</td><td>fedpol Analisi preliminare − −&gt;</td><td>fedpol Garanzia della qualità − −&gt;</td><td>Utente − −&gt;</td><td>Amminis tratore − −&gt;</td><td>Amministra tore tecnico − −&gt;</td><td>Collaboratore responsabile − −&gt;</td><td>Collaboratore responsabile SCTF − −&gt;</td><td>Utente via RIPOL</td><td>Amministratore utenti RIPOL</td></tr>
+<tr><td>**Settore dei dati**</td><td>**Campi di dati**</td><td>**Diritti di trattamento**</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Persona</td><td>Generalità, indirizzo, misure, violazioni delle misure, evento legato alla persona, relazione</td><td colspan="2">inserire provvisoriamente</td><td>LAE</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LAE</td><td>LAE</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">verificare</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LA</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">inserire</td><td>-</td><td>LA</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>

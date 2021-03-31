@@ -4,18 +4,18 @@ title: Verordnung vom 4. Dezember 2009 über verwaltungspolizeiliche Massnahmen 
 short: VVMH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: de
-version: 2013-02-01
+version: 2021-04-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20130201/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20130201-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20130201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2009-847-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über verwaltungspolizeiliche Massnahmen des Bundesamtes für Polizei und über das Informationssystem HOOGAN (VVMH)****
 
-vom 4. Dezember 2009 (Stand am 1. Februar 2013)[^t-1]
+vom 4. Dezember 2009 (Stand am 1. April 2021)[^t-1]
 
 [^t-1]: Fassung gemäss Beilage 2 Ziff. 1 der V vom 21. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -38,7 +38,7 @@ Diese Verordnung regelt:
 
 - a. die Durchführung verwaltungspolizeilicher Massnahmen, gestützt auf das BWIS, durch das Bundesamt für Polizei (fedpol);
 - b. das Informationssystem HOOGAN von fedpol;
-- c. …[^1-1]
+- c. ...[^1-1]
 
 [^1-1]: Aufgehoben durch Beilage 2 Ziff. 1 der V vom 21. Nov. 2012, mit Wirkung seit 1. Jan. 2013 ([AS 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -294,7 +294,7 @@ Es weist den Empfänger oder die Empfängerin darauf hin, dass:
 Für die Gewährleistung der Datensicherheit gelten:
 
 - a. Artikel 20 der Verordnung vom 14. Juni 1993[^13-1] zum Bundesgesetz über den Datenschutz (VDSG);
-- b. die Verordnung vom 26. September 2003[^13-2] (BinfV) über die Informatik und Telekommunikation in der Bundesverwaltung.
+- b.[^13-2] die Cyberrisikenverordnung vom 27. Mai 2020[^13-3].
 
 <sup>2</sup>
 
@@ -305,9 +305,10 @@ Fedpol regelt in einem Bearbeitungsreglement:
 - c. die technischen Anforderungen, denen die Endgeräte der Benutzerinnen und Benutzer genügen müssen.
 
 [^13-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^13-2]: Fassung gemäss Anhang Ziff. 1 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^13-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
 
-## 5. Abschnitt: …
+## 5. Abschnitt: ...
 
 #### Art. 14–28
 

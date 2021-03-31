@@ -4,11 +4,11 @@ title: "Ordonnance du 4 décembre 2009 sur les mesures de police administrative 
 short: OMAH
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/847"
 language: fr
-version: 2013-02-01
+version: 2021-04-01
 adopted: 2009-12-04
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20130201/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20130201-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20130201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/847/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2009-847-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/847/20130201/fr"
 
 (OMAH)**[^t-1]**
 
-du 4 décembre 2009 (Etat le 1<sup>er</sup> février 2013)
+du 4 décembre 2009 (Etat le 1<sup>er</sup> avril 2021)
 
 [^t-1]: Nouvelle teneur selon le ch. 1 de l’appendice 2 à l’O du 21 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -40,7 +40,7 @@ La présente ordonnance règle:
 
 - a. l’exécution de mesures de police administrative par l’Office fédéral de la police (fedpol) sur la base de la LMSI;
 - b. le système d’information HOOGAN de fedpol;
-- c.[^1-1] …
+- c.[^1-1] ...
 
 [^1-1]: Abrogée par le ch. 1 de l’appendice 2 à l’O du 21 nov. 2012, avec effet au 1<sup>er</sup> janv. 2013 ([RO 2012 6781](https://fedlex.data.admin.ch/eli/oc/2012/820)).
 
@@ -295,7 +295,7 @@ Il signale au destinataire que:
 Pour garantir la sécurité des données, sont applicables:
 
 - a. l’art. 20 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données (OLPD)[^13-1];
-- b. l’ordonnance du 26 septembre 2003 sur l’informatique et la télécommunication dans l’administration fédérale (OIAF)[^13-2].
+- b.[^13-2] l’ordonnance du 27 mai 2020 sur les cyberrisques.
 
 <sup>2</sup>
 
@@ -306,9 +306,9 @@ Fedpol précise dans un règlement de traitement:
 - c. les exigences techniques auxquelles doivent satisfaire les terminaux des utilisateurs.
 
 [^13-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^13-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^13-2]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
-## Section 5 …
+## Section 5 ...
 
 #### Art. 14 à 28
 
@@ -363,7 +363,7 @@ R = Police cantonale
 <tr><td></td><td></td><td colspan="2">renvoyer</td><td>-</td><td>LM</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LM</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">effacer</td><td>-</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">archiver</td><td>-</td><td>LMS</td><td>-</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
-<tr><td>Manifestations</td><td>Evénement</td><td colspan="2">saisir</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td></tr>
+<tr><td>Manifestations</td><td>Événement</td><td colspan="2">saisir</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">effacer</td><td>-</td><td>LMS</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
 <tr><td></td><td>Rapport relatif à une manifestation sportive</td><td colspan="2">présaisir</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LMS</td><td>LMS</td><td>-</td><td>-</td></tr>
 <tr><td></td><td></td><td colspan="2">vérifier</td><td>-</td><td>LM</td><td>-</td><td>-</td><td>-</td><td>-</td><td>LM</td><td>-</td><td>-</td></tr>
