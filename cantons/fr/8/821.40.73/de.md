@@ -3,13 +3,13 @@ canton: FR
 number: "821.40.73"
 title: Verordnung über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus
 language: de
-version: 2021-03-01
-valid_until: 2021-03-31
-version_adopted: 2021-03-02
+version: 2021-04-01
+valid_until: 2021-04-18
+version_adopted: 2021-03-22
 adopted: 2020-11-10
 in_force: 2020-11-10
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.73"
-pdf: "https://bdlf.fr.ch/api/de/versions/6784/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6813/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6784/pdf_file"
 
 COVID-19, kantonale Massnahmen – V
 
-vom 10.11.2020 (Fassung in Kraft getreten am 01.03.2021)
+vom 10.11.2020 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -208,7 +208,7 @@ beschliesst:
 
 **Geltungsdauer**
 
-<sup>1</sup> Diese Massnahmen gelten bis 31. März 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
+<sup>1</sup> Diese Massnahmen gelten bis 30. April 2021. Je nach gesundheitlicher Situation können die Massnahmen angepasst oder kann ihre Gültigkeitsdauer verlängert werden. Allfällige spätere bundesrechtliche Massnahmen bleiben vorbehalten.
 
 <sup>2</sup> Sie ersetzen die Massnahmen gemäss Beschluss vom 3. November 2020 über kantonale Massnahmen zur Eindämmung der Ausbreitung des Coronavirus, der im Amtsblatt vom 6. November 2020 veröffentlicht wurde.
 
