@@ -4,13 +4,12 @@ number: "873.11"
 title: Loi sur l’assurance immobilière
 short: LAIm
 language: fr
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-06-16
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/873.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/217/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2186/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/217/pdf_file"
 
 (LAIm)
 
-du 09.06.2010 (état au 01.01.2012)
+du 09.06.2010 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -450,7 +449,7 @@ arrête:
 
 <sup>1</sup> En cas de litige entre l’AIB et le ou la propriétaire du bâtiment, l’AIB rend une décision selon la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^43-1].
 
-<sup>2</sup> Les décisions de l’AIB peuvent être attaquées par un recours devant la Direction de l’économie publique.
+<sup>2</sup> Les décisions de l’AIB peuvent être attaquées par un recours devant la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>3</sup> Au surplus, la LPJA est applicable.
 

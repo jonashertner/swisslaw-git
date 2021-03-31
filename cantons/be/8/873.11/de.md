@@ -4,13 +4,12 @@ number: "873.11"
 title: Gebäudeversicherungsgesetz
 short: GVG
 language: de
-version: 2012-01-01
-valid_until: 2021-03-31
-version_adopted: 2011-06-16
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2010-06-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/873.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/217/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2186/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/217/pdf_file"
 
 (GVG)
 
-vom 09.06.2010 (Stand 01.01.2012)
+vom 09.06.2010 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -450,7 +449,7 @@ beschliesst:
 
 <sup>1</sup> Bei Streitigkeiten zwischen der GVB und der Hauseigentümerin oder dem Hauseigentümer erlässt jene eine Verfügung gemäss dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^43-1].
 
-<sup>2</sup> Gegen Verfügungen der GVB kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>2</sup> Gegen Verfügungen der GVB kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
 <sup>3</sup> Im Übrigen gilt das VRPG.
 
