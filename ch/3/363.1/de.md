@@ -3,11 +3,11 @@ sr: "363.1"
 title: Verordnung vom 3. Dezember 2004 über die Verwendung von DNA-Profilen im Strafverfahren und zur Identifizierung von unbekannten oder vermissten Personen (DNA-Profil-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: de
-version: 2018-01-01
+version: 2021-04-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20180101/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20180101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20180101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2004-812-20210401-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20180101/de"
 
 (DNA-Profil-Verordnung)
 
-vom 3. Dezember 2004 (Stand am 1. Januar 2018)
+vom 3. Dezember 2004 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -354,14 +354,20 @@ Wird ein Strafverfahren nach Artikel 30 der Strafprozessordnung[^15a-2] getrennt
 
 **Datensicherheit**
 
-<sup>1</sup> Die Datensicherheit richtet sich nach den Artikeln 20–23 der Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz, nach der Bundesinformatikverordnung vom 26. September 2003[^19-2] und nach den Empfehlungen des Informatikstrategieorgans des Bundes.
+<sup>1</sup>
+
+Die Datensicherheit richtet sich nach:
+
+- a. den Artikeln 20–23 der Verordnung vom 14. Juni 1993[^19-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^19-2].[^19-3]
 
 <sup>2</sup> Die Kantone gewährleisten die Datensicherheit in ihrem Bereich gemäss den Vorgaben nach Absatz 1. Weitergehende kantonale Bestimmungen zur Datensicherheit bleiben vorbehalten.
 
 <sup>3</sup> Die AFIS DNA Services und die Koordinationsstelle treffen in ihrem Bereich die erforderlichen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
 
 [^19-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^19-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-3]: Fassung gemäss Anhang Ziff. 23 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## 5. Abschnitt: Schlussbestimmungen
 
@@ -375,7 +381,7 @@ Das EJPD und die Kantone vollziehen diese Verordnung in ihrem jeweiligen Bereich
 
 **Änderung bisherigen Rechts**
 
-…[^21-1]
+...[^21-1]
 
 [^21-1]: Die Änderung kann unter [AS 2004 5279](https://fedlex.data.admin.ch/eli/oc/2004/812)konsultiert werden.
 

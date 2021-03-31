@@ -3,11 +3,11 @@ sr: "363.1"
 title: "Ordonnance du 3 décembre 2004 sur l'utilisation de profils d'ADN dans les procédures pénales et sur l'identification de personnes inconnues ou disparues (Ordonnance sur les profils d'ADN)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/812"
 language: fr
-version: 2018-01-01
+version: 2021-04-01
 adopted: 2004-12-03
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20180101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20180101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20180101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/812/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2004-812-20210401-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/812/20180101/fr"
 
 (Ordonnance sur les profils d’ADN)
 
-du 3 décembre 2004 (Etat le 1<sup>er</sup> janvier 2018)
+du 3 décembre 2004 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -354,14 +354,20 @@ Si une procédure pénale est disjointe ou jointe, en vertu de l’art. 30 du co
 
 **Sécurité des données**
 
-<sup>1</sup> La sécurité des données est régie par les art. 20 à 23 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1], par l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^19-2] et par les recommandations de l’Unité de stratégie informatique de la Confédération.
+<sup>1</sup>
+
+La sécurité des données est régie par:
+
+- a. les art. 20 à 23 de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^19-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^19-2].[^19-3]
 
 <sup>2</sup> Les cantons garantissent la sécurité des données dans leur domaine conformément aux règles visées à l’al. 1. Les dispositions cantonales plus strictes relatives à la sécurité des données sont réservées.
 
 <sup>3</sup> Les Services AFIS ADN et le Service de coordination prennent, dans leurs domaines d’activité respectifs, les mesures organisationnelles et techniques nécessaires pour assurer la sécurité des données personnelles.
 
 [^19-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^19-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^19-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^19-3]: Nouvelle teneur selon l’annexe ch. 23 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 ## Section 5 Dispositions finales
 
