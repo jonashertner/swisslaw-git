@@ -4,13 +4,13 @@ number: "913.111"
 title: Ordonnance sur la procédure des améliorations foncières et forestières
 short: OPAF
 language: fr
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+valid_until: 2021-05-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1783/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2195/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1783/pdf_file"
 
 (OPAF)
 
-du 05.11.1997 (état au 01.01.2020)
+du 05.11.1997 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,9 +45,9 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> Le Service des améliorations structurelles et de la production (SASP) est le service compétent de la Direction de l'économie publique pour les améliorations foncières.
+<sup>1</sup> Le Service des améliorations structurelles et de la production (SASP) est le service compétent de la Direction de l’économie, de l’énergie et de l’environnement pour les améliorations foncières.
 
-<sup>2</sup> L'Office des forêts et des dangers naturels (OFDN) est le service compétent de la Direction de l'économie publique pour les améliorations forestières.
+<sup>2</sup> L'Office des forêts et des dangers naturels (OFDN) est le service compétent de la Direction de l’économie, de l’énergie et de l’environnement pour les améliorations forestières.
 
 <sup>3</sup> En cas de projet mixte, les deux services administratifs désignent d'un commun accord celui qui est compétent.
 
@@ -249,9 +249,9 @@ arrête:
 
 <sup>2</sup> La décision d'approbation oblige tous les intéressés à collaborer.
 
-<sup>3</sup> Les projets de communes, de consortages, de corporations et d'autres collectivités, qui incluent aussi des immeubles de tiers, ainsi que de corporations d'alpage au sens des articles 103 et 104 de la loi sur l'introduction du Code civil suisse[^24-1], requièrent l'approbation par la Direction de l'économie publique au même titre qu'un projet collectif.
+<sup>3</sup> Les projets de communes, de consortages, de corporations et d'autres collectivités, qui incluent aussi des immeubles de tiers, ainsi que de corporations d'alpage au sens des articles 103 et 104 de la loi du 28 mai 1911 sur l'introduction du Code civil suisse (LiCCS)[^24-1], requièrent l'approbation par la Direction de l’économie, de l’énergie et de l’environnement au même titre qu'un projet collectif.
 
-[^24-1]: RSB 211.1
+[^24-1]: RSB [211.1](https://www.belex.sites.be.ch/data/211.1/fr)
 
 ## 3 Syndicat d'améliorations foncières ou forestières
 
@@ -363,7 +363,7 @@ arrête:
 
 <sup>3</sup> Pour des modifications du périmètre de moindre importance, le consentement écrit des propriétaires fonciers directement intéressés remplace la mise à l'enquête. Sont réputées de moindre importance les modifications portant sur moins de dix pour cent de la surface du périmètre, l'adaptation du pourtour du périmètre aux mesures de construction ainsi que les rectifications de limites.
 
-<sup>4</sup> Les décisions prises selon le 1<sup>er</sup> alinéa ainsi que les modifications importantes du périmètre requièrent l'approbation de la Direction de l'économie publique.
+<sup>4</sup> Les décisions prises selon le 1<sup>er</sup> alinéa ainsi que les modifications importantes du périmètre requièrent l'approbation de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>5</sup> Le service compétent approuve les modifications du périmètre de moindre importance.
 
@@ -377,7 +377,7 @@ arrête:
 
 <sup>1</sup> Pour faciliter la réalisation du projet, l'organisme responsable peut acquérir de gré à gré des immeubles et des droits réels limités.
 
-<sup>2</sup> La Direction de l'économie publique peut ordonner la mention au registre foncier d'une restriction de droit public de la propriété en vue d'assurer la cession ultérieure de terrains en faveur des ouvrages publics concernés.
+<sup>2</sup> La Direction de l’économie, de l’énergie et de l’environnement peut ordonner la mention au registre foncier d'une restriction de droit public de la propriété en vue d'assurer la cession ultérieure de terrains en faveur des ouvrages publics concernés.
 
 #### Art. 34
 
@@ -401,7 +401,7 @@ arrête:
 
 **Modifications ultérieures**
 
-<sup>1</sup> Pour corriger des vices constatés ultérieurement ou en cas de changement des conditions, la Direction de l'économie publique peut modifier d'office des plans passés en force tant qu'ils n'ont pas été approuvés.
+<sup>1</sup> Pour corriger des vices constatés ultérieurement ou en cas de changement des conditions, la Direction de l’économie, de l’énergie et de l’environnement peut modifier d'office des plans passés en force tant qu'ils n'ont pas été approuvés.
 
 <sup>2</sup> Le droit d'opposition des propriétaires fonciers concernés demeure garanti.
 
@@ -409,7 +409,7 @@ arrête:
 
 **Approbation de projets achevés**
 
-<sup>1</sup> La Direction de l'économie publique peut exceptionnellement se limiter à approuver des parties du périmètre, des immeubles déterminés ou des modifications des limites s'imposant ultérieurement pour des raisons de construction.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement peut exceptionnellement se limiter à approuver des parties du périmètre, des immeubles déterminés ou des modifications des limites s'imposant ultérieurement pour des raisons de construction.
 
 <sup>2</sup> Dans le délai d'un mois à compter de l'approbation, le service compétent dépose au bureau du registre foncier les documents approuvés en vue de l'inscription du nouvel état de propriété et des modifications de droit en découlant.
 
@@ -551,7 +551,7 @@ arrête:
 
 <sup>3</sup> La mise à l’enquête est publiée, pour le lancement du projet par le conseil communal, et dans les autres cas par le comité, dans la feuille officielle d’avis; elle mentionne que les oppositions doivent être motivées et déposées par écrit au secrétariat communal durant le délai de mise à l’enquête de 30 jours.
 
-<sup>4</sup> Pour les projets nécessitant une étude d'impact sur l'environnement, le rapport d'impact sur l'environnement et le rapport de l’Office de la coordination environnementale et de l’énergie sont également mis à l'enquête publique.
+<sup>4</sup> Pour les projets nécessitant une étude d'impact sur l'environnement, le rapport d'impact sur l'environnement et le rapport de l’Office de l’environnement et de l’énergie sont également mis à l'enquête publique.
 
 #### Art. 52
 

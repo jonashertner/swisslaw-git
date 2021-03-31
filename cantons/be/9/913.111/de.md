@@ -4,13 +4,13 @@ number: "913.111"
 title: Verordnung über das Verfahren bei Boden- und Waldverbesserungen
 short: VBWV
 language: de
-version: 2020-01-01
-valid_until: 2021-03-31
-version_adopted: 2019-10-23
+version: 2021-04-01
+valid_until: 2021-05-31
+version_adopted: 2021-02-17
 adopted: 1997-11-05
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/913.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1783/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2195/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1783/pdf_file"
 
 (VBWV)
 
-vom 05.11.1997 (Stand 01.01.2020)
+vom 05.11.1997 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -45,9 +45,9 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Abteilung Strukturverbesserungen und Produktion (ASP) ist die zuständige Stelle der Volkswirtschaftsdirektion für Bodenverbesserungen.
+<sup>1</sup> Die Abteilung Strukturverbesserungen und Produktion (ASP) ist die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion für Bodenverbesserungen.
 
-<sup>2</sup> Das Amt für Wald und Naturgefahren (AWN) ist die zuständige Stelle der Volkswirtschaftsdirektion für Waldverbesserungen.
+<sup>2</sup> Das Amt für Wald und Naturgefahren (AWN) ist die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion für Waldverbesserungen.
 
 <sup>3</sup> Bei gemischten Unternehmen bezeichnen die beiden Amtsstellen nach gegenseitiger Absprache die zuständige Stelle.
 
@@ -250,9 +250,9 @@ beschliesst:
 
 <sup>2</sup> Der Genehmigungsbeschluss verpflichtet alle Beteiligten zur Mitwirkung.
 
-<sup>3</sup> Vorhaben von Gemeinden, Bäuerten, Korporationen und anderen Körperschaften, bei denen auch Grundstücke Dritter beigezogen werden, sowie von Alpkorporationen im Sinne von Artikel 103 und 104 des Einführungsgesetzes zum Zivilgesetzbuch[^24-1] bedürfen der Genehmigung durch die Volkswirtschaftsdirektion wie ein genossenschaftliches Unternehmen.
+<sup>3</sup> Vorhaben von Gemeinden, Bäuerten, Korporationen und anderen Körperschaften, bei denen auch Grundstücke Dritter beigezogen werden, sowie von Alpkorporationen im Sinne von Artikel 103 und 104 des Gesetzes vom 28. Mai 1911 betreffend die Einführung des Schweizerischen Zivilgesetzbuches (EG ZGB)[^24-1] bedürfen der Genehmigung durch die Wirtschafts-, Energie- und Umweltdirektion wie ein genossenschaftliches Unternehmen.
 
-[^24-1]: BSG 211.1
+[^24-1]: BSG [211.1](https://www.belex.sites.be.ch/data/211.1/de)
 
 ## 3 Die Boden- oder Waldverbesserungsgenossenschaft
 
@@ -364,7 +364,7 @@ beschliesst:
 
 <sup>3</sup> Bei unwesentlichen Perimeteränderungen genügt an Stelle der Auflage die schriftliche Zustimmung der direkt beteiligten Grundeigentümerinnen und Grundeigentümer. Als unwesentlich gelten Änderungen, die weniger als zehn Prozent der Perimeterfläche ausmachen, die Anpassung des Perimeterrandes an bauliche Massnahmen sowie Grenzbereinigungen.
 
-<sup>4</sup> Die nach Absatz 1 gefassten Beschlüsse und die wesentlichen Perimeteränderungen bedürfen der Genehmigung durch die Volkswirtschaftsdirektion.
+<sup>4</sup> Die nach Absatz 1 gefassten Beschlüsse und die wesentlichen Perimeteränderungen bedürfen der Genehmigung durch die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>5</sup> Die zuständige Stelle genehmigt unwesentliche Perimeteränderungen.
 
@@ -378,7 +378,7 @@ beschliesst:
 
 <sup>1</sup> Um die Durchführung des Unternehmens zu erleichtern, kann die Trägerin Grundstücke und beschränkte dingliche Rechte freihändig erwerben.
 
-<sup>2</sup> Die Volkswirtschaftsdirektion kann die Verpflichtung zu einer späteren Landabtretung für die genannten Werke als öffentlichrechtliche Eigentumsbeschränkung im Grundbuch anmerken lassen.
+<sup>2</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann die Verpflichtung zu einer späteren Landabtretung für die genannten Werke als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anmerken lassen.
 
 #### Art. 34
 
@@ -402,7 +402,7 @@ beschliesst:
 
 **Nachträgliche Änderungen**
 
-<sup>1</sup> Zur Behebung nachträglich festgestellter Mängel oder bei veränderten Verhältnissen kann die Volkswirtschaftsdirektion rechtskräftige Pläne bis zur Genehmigung von Amtes wegen abändern.
+<sup>1</sup> Zur Behebung nachträglich festgestellter Mängel oder bei veränderten Verhältnissen kann die Wirtschafts-, Energie- und Umweltdirektion rechtskräftige Pläne bis zur Genehmigung von Amtes wegen abändern.
 
 <sup>2</sup> Das Einspracherecht der betroffenen Grundeigentümerinnen und Grundeigentümer bleibt gewahrt.
 
@@ -410,7 +410,7 @@ beschliesst:
 
 **Genehmigung abgeschlossener Unternehmen**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion kann ausnahmsweise die Genehmigung nur für einzelne Teile des Beizugsgebietes, für einzelne Grundstücke oder für spätere baubedingte Grenzänderungen verfügen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion kann ausnahmsweise die Genehmigung nur für einzelne Teile des Beizugsgebietes, für einzelne Grundstücke oder für spätere baubedingte Grenzänderungen verfügen.
 
 <sup>2</sup> Die genehmigten Akten sind durch die zuständige Stelle innert 30 Tagen nach der Genehmigung dem Grundbuchamt für die Aufnahme des Neuzustandes und der damit zusammenhängenden Rechtsänderungen einzureichen.
 
@@ -552,7 +552,7 @@ beschliesst:
 
 <sup>3</sup> Die Auflage ist für die Gründung des Unternehmens vom Gemeinderat und in den übrigen Fällen vom Vorstand im amtlichen Anzeiger bekannt zu machen mit dem Hinweis, dass Einsprachen während der Auflagefrist von 30 Tagen schriftlich mit Begründung bei der Gemeindeschreiberei einzureichen sind.
 
-<sup>4</sup> Bei Unternehmen, die der Umweltverträglichkeitsprüfung unterliegen, ist in jedem Fall zusätzlich der Umweltverträglichkeitsbericht und der Bericht des Amts für Umweltkoordination und Energie aufzulegen.
+<sup>4</sup> Bei Unternehmen, die der Umweltverträglichkeitsprüfung unterliegen, sind in jedem Fall zusätzlich der Umweltverträglichkeitsbericht und der Bericht des Amts für Umwelt und Energie aufzulegen.
 
 #### Art. 52
 
