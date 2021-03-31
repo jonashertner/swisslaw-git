@@ -4,13 +4,12 @@ number: "935.211"
 title: Tourismusentwicklungsgesetz
 short: TEG
 language: de
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2017-09-12
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2005-06-20
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1442/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1442/pdf_file"
 
 (TEG)
 
-vom 20.06.2005 (Stand 01.05.2018)
+vom 20.06.2005 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -278,7 +277,7 @@ beschliesst:
 
 **Leistungsziele**
 
-<sup>1</sup> Bei wiederkehrend ausgerichteten Finanzhilfen legt die zuständige Stelle der Volkswirtschaftsdirektion periodisch die Leistungsziele fest.
+<sup>1</sup> Bei wiederkehrend ausgerichteten Finanzhilfen legt die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion periodisch die Leistungsziele fest.
 
 #### Art. 18
 
@@ -286,7 +285,7 @@ beschliesst:
 
 <sup>1</sup> Hat die Ausführung des Vorhabens zum Zeitpunkt der Gesuchseinreichung schon begonnen, können Finanzhilfen nur gewährt werden, wenn
 
-- a die zuständige Stelle der Volkswirtschaftsdirektion der Ausführung vorgängig zugestimmt hat oder
+- a die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion der Ausführung vorgängig zugestimmt hat oder
 - b nicht vorhersehbare Umstände nachträglich eine kantonale Unterstützung erfordern.
 
 #### Art. 19
@@ -295,7 +294,7 @@ beschliesst:
 
 <sup>1</sup> Für die Zwecksicherung gilt die Gesetzgebung über Staatsbeiträge.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann den Anteil einer Destination am Ertrag der Beherbergungsabgabe vorübergehend verringern, wenn diese ihren Beitrag an die Gesellschaft gemäss Artikel 4a nicht vollständig geleistet hat oder den ihr zur Verfügung stehenden Anteil nicht vollständig für die Marktbearbeitung einsetzt.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann den Anteil einer Destination am Ertrag der Beherbergungsabgabe vorübergehend verringern, wenn diese ihren Beitrag an die Gesellschaft gemäss Artikel 4a nicht vollständig geleistet hat oder den ihr zur Verfügung stehenden Anteil nicht vollständig für die Marktbearbeitung einsetzt.
 
 ## 3 Beherbergungsabgabe und Tourismusfonds
 
@@ -413,9 +412,9 @@ beschliesst:
 
 **Verfahren und Rechtsschutz**
 
-<sup>1</sup> Verfügungen der zuständigen Stelle unterliegen der Beschwerde an die Volkswirtschaftsdirektion.
+<sup>1</sup> Verfügungen der zuständigen Stelle unterliegen der Beschwerde an die Wirtschafts-, Energie- und Umweltdirektion.
 
-<sup>2</sup> Im Übrigen gilt für das Verfahren und den Rechtsschutz das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG[^30-1]).
+<sup>2</sup> Im Übrigen gilt für das Verfahren und den Rechtsschutz das Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^30-1].
 
 [^30-1]: BSG 155.21
 

@@ -4,13 +4,12 @@ number: "935.211"
 title: Loi sur le développement du tourisme
 short: LDT
 language: fr
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2017-09-12
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2005-06-20
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1442/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2210/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1442/pdf_file"
 
 (LDT)
 
-du 20.06.2005 (état au 01.05.2018)
+du 20.06.2005 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -278,7 +277,7 @@ arrête:
 
 **Objectifs de prestation**
 
-<sup>1</sup> Le service compétent de laDirection de l’économie publique fixe régulièrement les objectifs de prestation pour les aides financières versées périodiquement.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fixe régulièrement les objectifs de prestation pour les aides financières versées périodiquement.
 
 #### Art. 18
 
@@ -286,7 +285,7 @@ arrête:
 
 <sup>1</sup> Lorsque l’exécution d’un projet a déjà débuté au moment du dépôt de la demande, les aides financières peuvent être accordées uniquement si
 
-- a le service compétent de la Direction de l’économie publique a préalablement approuvé l’exécution ou
+- a le service compétent de la Direction de l’économie, de l’énergie et de l’environnement a préalablement approuvé l’exécution ou
 - b des circonstances imprévisibles rendent a posteriori nécessaire un soutien cantonal.
 
 #### Art. 19
@@ -295,7 +294,7 @@ arrête:
 
 <sup>1</sup> La législation sur les subventions cantonales s’applique à la garantie de l’affectation.
 
-<sup>2</sup> Le service compétent de la Direction de l’économie publique peut réduire provisoirement la part du produit de la taxe d’hébergement attribuée à une destination lorsque celle-ci n'a pas apporté intégralement sa contribution à la société au sens de l'article 4a ou n'affecte pas intégralement la part dont elle dispose à la prospection du marché.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut réduire provisoirement la part du produit de la taxe d’hébergement attribuée à une destination lorsque celle-ci n'a pas apporté intégralement sa contribution à la société au sens de l'article 4a ou n'affecte pas intégralement la part dont elle dispose à la prospection du marché.
 
 ## 3 Taxe d’hébergement et Fonds du tourisme
 
@@ -413,7 +412,7 @@ arrête:
 
 **Procédure et voies de recours**
 
-<sup>1</sup> Les décisions du service compétent sont susceptibles de recours auprès de la Direction de l’économie publique.
+<sup>1</sup> Les décisions du service compétent sont susceptibles de recours auprès de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> La procédure et les voies de recours sont au surplus régies par la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^30-1].
 
