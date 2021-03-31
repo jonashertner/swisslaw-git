@@ -3,29 +3,27 @@ canton: AR
 number: "811.112"
 title: Verordnung über die Gesundheitsvorsorge in Schulen und Heimen für Kinder und Jugendliche
 language: de
-version: 2016-01-01
-valid_until: 2021-03-31
-version_adopted: 2015-05-11
+version: 2021-04-01
+version_adopted: 2021-03-30
 adopted: 1994-03-08
 in_force: 1994-03-08
 url: "https://ar.clex.ch/app/de/texts_of_law/811.112"
-pdf: "https://ar.clex.ch/api/de/versions/1040/pdf_file"
+pdf: "https://ar.clex.ch/api/de/versions/1642/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Gesundheitsvorsorge in Schulen und Heimen für Kinder und Jugendliche
 
-vom 08.03.1994 (Stand 01.01.2016)
+vom 08.03.1994 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Appenzell A.Rh.,
 
-gestützt auf Art. 32 des Schulgesetzes vom 26. April 1981[^ingress-1] sowie auf Art. 12 der Verordnung vom 8. Dezember 1986 zum Gesundheitsgesetz[^ingress-2],
+gestützt auf Art. 32 des Schulgesetzes vom 26. April 1981[^ingress-1] sowie auf Art. 12 der Verordnung vom 8. Dezember 1986 zum Gesundheitsgesetz,
 
 verordnet:
 
-[^ingress-1]: bGS [411.0](https://ar.clex.ch/data/411.0/de)
-[^ingress-2]: bGS [811.11](https://ar.clex.ch/data/811.11/de)
+[^ingress-1]: Siehe heute Art. 42 Schulverordnung (bGS [411.1](https://ar.clex.ch/data/411.1/de))
 
 ## I. Ärztlicher Dienst an öffentlichen Schulen und Kindergärten
 
@@ -35,7 +33,7 @@ verordnet:
 
 <sup>1</sup> Der ärztliche Dienst berät Eltern, Behörden und Lehrerschaft in Fragen der Gesundheitserziehung und -vorsorge.
 
-<sup>2</sup> Für jede Gemeinde wählt die Sanitätskommission auf Antrag des Gemeinderates einen oder mehrere Schulärztinnen oder Schulärzte.
+<sup>2</sup> …
 
 <sup>3</sup> Die Schulkommission ist für die Organisation und Durchführung des schulärztlichen Dienstes verantwortlich.
 
@@ -73,6 +71,8 @@ verordnet:
 
 <sup>1</sup> Bei ansteckenden Krankheiten und Parasiten treffen die Schulärztinnen und Schulärzte die erforderlichen Massnahmen in Absprache mit dem Kantonsarzt.
 
+<sup>2</sup> Das Departement Bildung und Kultur erlässt nötigenfalls Weisungen zur Organisation des Schulbetriebs.
+
 #### Art. 6
 
 **Freie Arztwahl**
@@ -109,9 +109,7 @@ verordnet:
 
 **Tarif**
 
-<sup>1</sup> Der Regierungsrat erlässt einen Tarif für den schulärztlichen und -zahnärztlichen Dienst.[^9-1]
-
-[^9-1]: Gemäss Beschluss vom 14. Mai 2013 (Abl. 2013; S. 572) legt der Regierungsrat die Tarife, gültig ab 1. Januar 2013, für die Eintrittsuntersuchungen auf pauschal Fr. 50.- pro Kind und bei Austrittsuntersuchungen auf pauschal Fr. 30.- pro Kind fest.
+<sup>1</sup> Der Regierungsrat erlässt einen Tarif für den schulärztlichen und -zahnärztlichen Dienst.
 
 #### Art. 10
 
@@ -127,7 +125,7 @@ verordnet:
 
 **Zuständigkeit; Rechenschaftsberichte**
 
-<sup>1</sup> Die Sanitätskommission beaufsichtigt die ärztlichen und zahnärztlichen Dienste in den Schulen und Heimen; sie orientiert gegebenenfalls das Departement Bildung und Kultur.
+<sup>1</sup> Das Departement Gesundheit und Soziales beaufsichtigt die ärztlichen und zahnärztlichen Dienste in den Schulen und Heimen; es orientiert gegebenenfalls das Departement Bildung und Kultur.
 
 <sup>2</sup> Die ärztlichen und zahnärztlichen Dienste erstatten dem Departement Gesundheit und Soziales und der Schulkommission jährlich einen Bericht über ihre Tätigkeit.
 
