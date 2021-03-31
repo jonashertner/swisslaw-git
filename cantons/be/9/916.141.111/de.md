@@ -4,13 +4,13 @@ number: "916.141.111"
 title: Rebbauverordnung
 short: RebV
 language: de
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 1996-05-29
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/916.141.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1568/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2198/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1568/pdf_file"
 
 (RebV)
 
-vom 29.05.1996 (Stand 01.01.2019)
+vom 29.05.1996 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -92,7 +92,7 @@ beschliesst:
 
 **Delegation von Rechtssetzungsbefugnissen**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion erlässt nach Anhören der Berufsorganisationen Bestimmungen über die Weinlesekontrolle sowie über das Flächeninventar.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion erlässt nach Anhören der Berufsorganisationen Bestimmungen über die Weinlesekontrolle sowie über das Flächeninventar.
 
 #### Art. 9
 

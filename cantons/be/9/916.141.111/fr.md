@@ -4,13 +4,13 @@ number: "916.141.111"
 title: Ordonnance sur la viticulture
 short: OVit
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2022-12-31
+version_adopted: 2021-02-17
 adopted: 1996-05-29
 in_force: 1996-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/916.141.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1568/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2198/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1568/pdf_file"
 
 (OVit)
 
-du 29.05.1996 (état au 01.01.2019)
+du 29.05.1996 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -92,7 +92,7 @@ arrête:
 
 **Délégation de compétences législatives**
 
-<sup>1</sup> Après consultation des organisations professionnelles, la Direction de l'économie publique édicte des dispositions concernant le contrôle de la vendange et l'inventaire des surfaces.
+<sup>1</sup> Après consultation des organisations professionnelles, la Direction de l’économie, de l’énergie et de l’environnement édicte des dispositions concernant le contrôle de la vendange et l'inventaire des surfaces.
 
 #### Art. 9
 
