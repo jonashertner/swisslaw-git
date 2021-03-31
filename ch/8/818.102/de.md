@@ -3,11 +3,11 @@ sr: "818.102"
 title: Bundesgesetz vom 25. September 2020 über die gesetzlichen Grundlagen für Verordnungen des Bundesrates zur Bewältigung der Covid-19-Epidemie (Covid-19-Gesetz)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: de
-version: 2021-03-20
+version: 2021-04-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210320/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210320-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210320/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210320/de"
 
 (Covid-19-Gesetz)
 
-vom 25. September 2020 (Stand am 20. März 2021)
+vom 25. September 2020 (Stand am 1. April 2021)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -337,7 +337,7 @@ Der Bundesrat erlässt für Härtefallmassnahmen zugunsten von Unternehmen mit e
 - a. die einzufordernden Belege;
 - b. die Beitragsbemessung; der Beitrag hat sich an den ungedeckten Kosten aus dem Umsatzrückgang zu orientieren;
 - c. die Höchstgrenzen für Beiträge; für Unternehmen mit einem Umsatzrückgang von mehr als 70 Prozent sieht der Bundesrat höhere Höchstbeiträge vor;
-- d. die von den Eignerinnen und Eignern der Unternehmen zu erbringende Eigenleistung, wenn der Betrag 5 Millionen Franken übersteigt; bei der Bemessung der Eigenleistung werden Eigenleistungen. die seit dem 1. März 2020 erbracht worden sind, sowie Absatz 1<sup>b</sup><sup>is</sup> berücksichtigt;
+- d. die von den Eignerinnen und Eignern der Unternehmen zu erbringende Eigenleistung, wenn der Betrag 5 Millionen Franken übersteigt; bei der Bemessung der Eigenleistung werden Eigenleistungen. die seit dem 1. März 2020 erbracht worden sind, sowie Absatz 1<sup>bis</sup> berücksichtigt;
 - e. die Abwicklung von Darlehen, Bürgschaften und Garantien.[^12-6]
 
 <sup>1sexies</sup> Voraussetzung für die Unterstützung kantonaler Massnahmen für Unternehmen mit einem Jahresumsatz bis 5 Millionen Franken ist, dass die Mindestanforderungen des Bundes eingehalten werden. Für Unternehmen mit einem Jahresumsatz von über 5 Millionen Franken müssen in allen Kantonen die Anspruchsvoraussetzungen des Bundesrechts unverändert eingehalten werden; vorbehalten bleiben weitergehende Härtefallmassnahmen eines Kantons, die dieser vollständig selber finanziert.[^12-7]
@@ -494,7 +494,7 @@ Der Bundesrat ergreift im Medienbereich die folgenden Massnahmen:
 
 **Massnahmen zur Entschädigung des Erwerbsausfalls**
 
-<sup>1</sup> Der Bundesrat kann die Ausrichtung von Entschädigungen des Erwerbsausfalls bei Personen vorsehen, die ihre Erwerbstätigkeit aufgrund von Massnahmen im Zusammenhang mit der Bewältigung der Covid-19-Epidemie unterbrechen oder massgeblich einschränken müssen. Nur Personen mit einem Erwerbs- oder Lohnausfall, die in ihrer Unternehmung eine Umsatzeinbusse von mindestens 40 Prozent im Vergleich zum durchschnittlichen Umsatz in den Jahren 2015–2019 haben, gelten in ihrer Erwerbstätigkeit als massgeblich eingeschränkt.[^15-1]
+<sup>1</sup> Der Bundesrat kann die Ausrichtung von Entschädigungen des Erwerbsausfalls bei Personen vorsehen, die ihre Erwerbstätigkeit aufgrund von Massnahmen im Zusammenhang mit der Bewältigung der Covid-19-Epidemie unterbrechen oder massgeblich einschränken müssen. Nur Personen mit einem Erwerbs- oder Lohnausfall, die in ihrer Unternehmung eine Umsatzeinbusse von mindestens 30 Prozent im Vergleich zum durchschnittlichen Umsatz in den Jahren 2015–2019 haben, gelten in ihrer Erwerbstätigkeit als massgeblich eingeschränkt.[^15-1]
 
 <sup>2</sup> Zu den Anspruchsberechtigten gehören insbesondere auch Selbstständige nach Artikel 12 des Bundesgesetzes vom 6. Oktober 2000[^15-2] über den Allgemeinen Teil des Sozialversicherungsrechts (ATSG) sowie Personen in arbeitgeberähnlicher Stellung.
 
@@ -512,7 +512,7 @@ Der Bundesrat kann Bestimmungen erlassen über:
 
 <sup>5</sup> Der Bundesrat kann die Bestimmungen des ATSG anwendbar erklären. Er kann Abweichungen von Artikel 24 Absatz 1 ATSG betreffend das Erlöschen des Anspruchs und Artikel 49 Absatz 1 ATSG betreffend die Anwendbarkeit des formlosen Verfahrens vorsehen.
 
-[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 18. Dez. 2020 (Kultur, Härtefälle, Sport, Arbeitslosenversicherung, Ordnungsbussen), in Kraft vom 19. Dez. 2020 bis zum 31. Dez. 2021 ([AS 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [BBl 2020 8819](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^15-1]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 19. März 2021 (Härtefälle, Arbeitslosenversicherung, familienergänzende Kinderbetreuung, Kulturschaffende, Veranstaltungen), in Kraft vom 1. April 2021 bis zum 30.Juni 2021 ([AS 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [BBl 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-2]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 16

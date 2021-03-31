@@ -3,11 +3,11 @@ sr: "818.102"
 title: "Loi fédérale du 25 septembre 2020 sur les bases légales des ordonnances du Conseil fédéral visant à surmonter l'épidémie de COVID-19 (Loi COVID-19)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/711"
 language: fr
-version: 2021-03-20
+version: 2021-04-01
 adopted: 2020-09-25
 in_force: 2020-09-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210320/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210320-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210320/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/711/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2020-711-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/711/20210320/fr"
 
 (Loi COVID-19)
 
-du 25 septembre 2020 (Etat le 20 mars 2021)
+du 25 septembre 2020 (Etat le 1<sup>er</sup> avril 2021)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -492,7 +492,7 @@ Le Conseil fédéral prend les mesures suivantes dans le domaine des médias:
 
 **Mesures en cas de perte de gain**
 
-<sup>1</sup> Le Conseil fédéral peut prévoir le versement d’allocations pour perte de gain aux personnes qui doivent interrompre ou limiter de manière significative leur activité lucrative à cause de mesures prises pour surmonter l’épidémie de COVID-19. Seules les personnes frappées par une perte de gain ou de salaire et qui, dans leur entreprise, ont subi une perte de chiffre d’affaires d’au moins 40 % par rapport au chiffre d’affaires moyen des années 2015 à 2019 sont considérées comme ayant dû limiter de manière significative leur activité lucrative.[^15-1]
+<sup>1</sup> Le Conseil fédéral peut prévoir le versement d’allocations pour perte de gain aux personnes qui doivent interrompre ou limiter de manière significative leur activité lucrative à cause de mesures prises pour surmonter l’épidémie de COVID-19. Seules les personnes frappées par une perte de gain ou de salaire et qui, dans leur entreprise, ont subi une perte de chiffre d’affaires d’au moins 30 % par rapport au chiffre d’affaires moyen des années 2015 à 2019 sont considérées comme ayant dû limiter de manière significative leur activité lucrative.[^15-1]
 
 <sup>2</sup> Ont également droit à l’allocation notamment les personnes qui exercent une activité lucrative indépendante au sens de l’art. 12 de la loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA)[^15-2] et les personnes qui occupent une position assimilable à celle d’un employeur.
 
@@ -510,7 +510,7 @@ Le Conseil fédéral peut édicter des dispositions sur:
 
 <sup>5</sup> Le Conseil fédéral peut déclarer les dispositions de la LPGA applicables. Il peut prévoir des dérogations à l’art. 24, al. 1, LPGA concernant l’extinction du droit et à l’art. 49, al. 1, LPGA concernant l’applicabilité de la procédure simplifiée.
 
-[^15-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 18 déc. 2020 (Culture, cas de rigueur, sport, assurance-chômage, amendes d’ordre), en vigueur du 19 déc. 2020 au 31 déc. 2021 ([RO 2020 5821](https://fedlex.data.admin.ch/eli/oc/2020/980); [FF 2020 8505](https://fedlex.data.admin.ch/eli/fga/2020/2359)).
+[^15-1]: Nouvelle teneur de la phrase selon le ch. I de la LF du 19 mars 2021 (Cas de rigueur, assurance-chômage, accueil extra-familial pour enfants, acteurs culturels, manifesta-tions), en vigueur du 1<sup>er</sup> avr. 2021 au 30 juin 2021 ([RO 2021 153](https://fedlex.data.admin.ch/eli/oc/2021/153); [FF 2021 285](https://fedlex.data.admin.ch/eli/fga/2021/285)).
 [^15-2]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 16
