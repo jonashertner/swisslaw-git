@@ -4,13 +4,13 @@ number: "121.111"
 title: Ordonnance sur le droit de cité cantonal et le droit de cité communal
 short: "Ordonnance sur le droit de cité, ODC"
 language: fr
-version: 2018-01-01
-valid_until: 2021-03-31
-version_adopted: 2017-09-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2017-09-20
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/121.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1336/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2217/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1336/pdf_file"
 
 (Ordonnance sur le droit de cité, ODC)
 
-du 20.09.2017 (état au 01.01.2018)
+du 20.09.2017 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -45,12 +45,12 @@ arrête:
 
 **Compétences**
 
-<sup>1</sup> La Direction de la police et des affaires militaires a compétence pour
+<sup>1</sup> La Direction de la sécurité a compétence pour
 
 - a octroyer le droit de cité cantonal en vertu de l'article 22, alinéa 3 LDC;
 - b annuler une naturalisation ordinaire (art. 36, al. 3 de la loi du 20 juin 2014 sur la nationalité suisse, LN[^2-1]).
 
-<sup>2</sup> L'Office de la population et des migrations (OPM) a compétence pour
+<sup>2</sup> L'Office de la population (OPOP) a compétence pour
 
 - a traiter les demandes formulées sur la base des articles 3, alinéa 2 et 31 LDC;
 - b approuver les décisions communales en vertu de l'article 8, alinéa 2 LDC;
@@ -70,7 +70,7 @@ arrête:
 
 **Droit de cité en cas de une fusion de communes**
 
-<sup>1</sup> Les demandes formulées sur la base des articles 3, alinéa 2 et 31 LDC doivent être soumises par écrit à l'OPM, au moyen du formulaire officiel accompagné d'une copie du passeport ou de la carte d'identité.
+<sup>1</sup> Les demandes formulées sur la base des articles 3, alinéa 2 et 31 LDC doivent être soumises par écrit à l'OPOP, au moyen du formulaire officiel accompagné d'une copie du passeport ou de la carte d'identité.
 
 <sup>2</sup> Les personnes qui sont mariées ou liées par un partenariat enregistré et possèdent le même lieu d'origine peuvent déposer une demande individuelle ou conjointe.
 
@@ -92,7 +92,7 @@ arrête:
 
 <sup>1</sup> La demande d'admission au droit de cité ou au droit de bourgeoisie doit être déposée auprès de la commune concernée au moyen du formulaire officiel accompagné des documents requis.
 
-<sup>2</sup> Les personnes de nationalité suisse et les communes doivent utiliser le formulaire officiel mis à leur disposition par l'OPM.
+<sup>2</sup> Les personnes de nationalité suisse et les communes doivent utiliser le formulaire officiel mis à leur disposition par l'OPOP.
 
 <sup>3</sup> La demande d'admission au droit de cité ou au droit de bourgeoisie doit être accompagnée des documents suivants:
 
@@ -119,9 +119,9 @@ arrête:
 
 <sup>1</sup> Les communes consignent les faits déterminants pour l'admission au droit de cité ou au droit de bourgeoisie dans leur décision de préavis favorable.
 
-<sup>2</sup> Elles doivent utiliser le formulaire officiel mis à leur disposition par l'OPM pour rendre leur décision de préavis favorable à l'admission au droit de cité ou au droit de bourgeoisie.
+<sup>2</sup> Elles doivent utiliser le formulaire officiel mis à leur disposition par l'OPOP pour rendre leur décision de préavis favorable à l'admission au droit de cité ou au droit de bourgeoisie.
 
-<sup>3</sup> Elles transmettent à l'OPM toutes les décisions finales entrées en force, accompagnées du dossier complet de la procédure.
+<sup>3</sup> Elles transmettent à l'OPOP toutes les décisions finales entrées en force, accompagnées du dossier complet de la procédure.
 
 ### 2.2 Personnes étrangères
 
@@ -165,7 +165,7 @@ arrête:
 
 <sup>1</sup> Une attestation est émise en cas de réussite au test de naturalisation.
 
-<sup>2</sup> L'attestation de réussite au test de naturalisation ne dispense pas les communes ni l'OPM de contrôler que la personne étrangère s'est familiarisée avec les conditions de vie suisses et locales conformément à l'article 12, alinéa 1, lettre b LDC.
+<sup>2</sup> L'attestation de réussite au test de naturalisation ne dispense pas les communes ni l'OPOP de contrôler que la personne étrangère s'est familiarisée avec les conditions de vie suisses et locales conformément à l'article 12, alinéa 1, lettre b LDC.
 
 <sup>3</sup> En cas d'échec au test de naturalisation, la personne étrangère se voit recommander de suivre un cours de naturalisation.
 
@@ -192,7 +192,7 @@ arrête:
 
 <sup>3</sup> Pour les personnes étrangères majeures, les communes contrôlent le respect de la sécurité et de l'ordre publics sous l'angle de la délinquance sur la base d'un extrait du casier judiciaire pour les particuliers; pour les personnes âgées de 10 à 25 ans révolus, elles se fondent également sur le bordereau des pièces du Ministère public des mineurs.
 
-<sup>4</sup> Les communes peuvent demander à l'OPM, par écrit et sur présentation d'une copie de la demande de naturalisation et de l'extrait du casier judiciaire pour les particuliers qui leur ont été remis, des informations sur d'éventuelles inscriptions dans le casier judiciaire informatisé VOSTRA qui pourraient revêtir une pertinence pour la procédure de naturalisation en cours.
+<sup>4</sup> Les communes peuvent demander à l'OPOP, par écrit et sur présentation d'une copie de la demande de naturalisation et de l'extrait du casier judiciaire pour les particuliers qui leur ont été remis, des informations sur d'éventuelles inscriptions dans le casier judiciaire informatisé VOSTRA qui pourraient revêtir une pertinence pour la procédure de naturalisation en cours.
 
 #### Art. 12
 
@@ -244,7 +244,7 @@ arrête:
 
 <sup>1</sup> La demande de naturalisation doit être déposée auprès de la commune dont le droit de cité est sollicité au moyen du formulaire officiel accompagné des documents requis.
 
-<sup>2</sup> Les personnes étrangères et les communes doivent utiliser le formulaire officiel mis à leur disposition par l'OPM.
+<sup>2</sup> Les personnes étrangères et les communes doivent utiliser le formulaire officiel mis à leur disposition par l'OPOP.
 
 #### Art. 16
 
@@ -279,13 +279,13 @@ arrête:
 
 <sup>1</sup> Les communes mènent les enquêtes nécessaires à l'évaluation de l'intégration en vertu des prescriptions cantonales; elles ont un entretien de naturalisation avec la personne étrangère et examinent le respect des conditions de naturalisation.
 
-<sup>2</sup> Elles consignent les faits pertinents pour la naturalisation dans un rapport d'enquête officiel, qu'elles mettent à jour sur demande de l'OPM. Pour les enfants mineurs, elles y consignent les faits déterminants en fonction de l'âge et du stade de développement.
+<sup>2</sup> Elles consignent les faits pertinents pour la naturalisation dans un rapport d'enquête officiel, qu'elles mettent à jour sur demande de l'OPOP. Pour les enfants mineurs, elles y consignent les faits déterminants en fonction de l'âge et du stade de développement.
 
-<sup>3</sup> Elles remettent à l'OPM les décisions de préavis sur l'octroi ou le refus du droit de cité communal une fois qu'elles sont entrées en force, accompagnées du dossier complet de la procédure.
+<sup>3</sup> Elles remettent à l'OPOP les décisions de préavis sur l'octroi ou le refus du droit de cité communal une fois qu'elles sont entrées en force, accompagnées du dossier complet de la procédure.
 
-<sup>4</sup> L'OPM examine la demande après le préavis communal, mène d'autres enquêtes si nécessaire et requiert l'autorisation fédérale de naturalisation.
+<sup>4</sup> L'OPOP examine la demande après le préavis communal, mène d'autres enquêtes si nécessaire et requiert l'autorisation fédérale de naturalisation.
 
-<sup>5</sup> Les communes doivent utiliser les formulaires officiels mis à leur disposition par l'OPM pour établir le rapport d'enquête et la décision relative au préavis sur l'octroi du droit de cité communal.
+<sup>5</sup> Les communes doivent utiliser les formulaires officiels mis à leur disposition par l'OPOP pour établir le rapport d'enquête et la décision relative au préavis sur l'octroi du droit de cité communal.
 
 #### Art. 19
 
@@ -329,7 +329,7 @@ arrête:
 
 **Communication**
 
-<sup>1</sup> L'OPM communique
+<sup>1</sup> L'OPOP communique
 
 - a la décision d'admission au droit de cité ou au droit de bourgeoisie à la commune concernée, après son entrée en force,
 - b la décision d'admission au droit de cité ou au droit de bourgeoisie à l'office de l'état civil responsable de l'enregistrement, après son entrée en force,
@@ -343,7 +343,7 @@ arrête:
 
 **Demande**
 
-<sup>1</sup> La demande de libération du droit de cité d'une commune municipale ou mixte doit être soumise à l'OPM.
+<sup>1</sup> La demande de libération du droit de cité d'une commune municipale ou mixte doit être soumise à l'OPOP.
 
 <sup>2</sup> La demande de libération du droit de bourgeoisie doit être soumise à la commune bourgeoise.
 
@@ -351,9 +351,9 @@ arrête:
 
 **Communication**
 
-<sup>1</sup> La commune bourgeoise communique la libération du droit de bourgeoisie à l'OPM après son entrée en force et y joint le dossier complet de la procédure.
+<sup>1</sup> La commune bourgeoise communique la libération du droit de bourgeoisie à l'OPOP après son entrée en force et y joint le dossier complet de la procédure.
 
-<sup>2</sup> L'OPM communique la libération du droit de cité ou du droit de bourgeoisie à l'office de l'état civil responsable de l'enregistrement après son entrée en force.
+<sup>2</sup> L'OPOP communique la libération du droit de cité ou du droit de bourgeoisie à l'office de l'état civil responsable de l'enregistrement après son entrée en force.
 
 ## 4 Archivage et consultation des dossiers, émoluments
 
@@ -361,7 +361,7 @@ arrête:
 
 **Archivage et consultation des dossiers**
 
-<sup>1</sup> Les dossiers relatifs aux procédures d'admission au droit de cité ou au droit de bourgeoisie et de libération sont conservés par l'OPM.
+<sup>1</sup> Les dossiers relatifs aux procédures d'admission au droit de cité ou au droit de bourgeoisie et de libération sont conservés par l'OPOP.
 
 <sup>2</sup> Les communes peuvent consulter gratuitement les dossiers qui les concernent.
 
@@ -373,7 +373,7 @@ arrête:
 
 <sup>2</sup> La procédure de naturalisation ne se poursuit qu'une fois que les émoluments facturés ont été acquittés.
 
-<sup>3</sup> L'OPM exige des communes au moins une fois par année qu'elles lui reversent les émoluments cantonaux qu'elles ont encaissés.
+<sup>3</sup> L'OPOP exige des communes au moins une fois par année qu'elles lui reversent les émoluments cantonaux qu'elles ont encaissés.
 
 <sup>4</sup> Le montant des émoluments cantonaux est régi par l'ordonnance du 22 février 1995 fixant les émoluments de l'administration cantonale (ordonnance sur les émoluments, OEmo)[^27-1].
 

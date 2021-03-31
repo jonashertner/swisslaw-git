@@ -4,13 +4,13 @@ number: "121.111"
 title: Verordnung über das Kantons- und Gemeindebürgerrecht
 short: "Kantonale Bürgerrechtsverordnung, KBüV"
 language: de
-version: 2018-01-01
-valid_until: 2021-03-31
-version_adopted: 2017-09-20
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2017-09-20
 in_force: 2018-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/121.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1336/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2217/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,13 +19,13 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1336/pdf_file"
 
 (Kantonale Bürgerrechtsverordnung, KBüV)
 
-vom 20.09.2017 (Stand 01.01.2018)
+vom 20.09.2017 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
 gestützt auf Artikel 22 Absatz 3 und Artikel 29 des Gesetzes vom 13. Juni 2017 über das Kantons- und Gemeindebürgerrecht (Kantonales Bürgerrechtsgesetz, KBüG)[^ingress-1],
 
-auf Antrag der Polizei- und Militärdirektion
+auf Antrag der Polizei- und Militärdirektion,
 
 beschliesst:
 
@@ -45,12 +45,12 @@ beschliesst:
 
 **Zuständigkeiten**
 
-<sup>1</sup> Die Polizei- und Militärdirektion ist zuständig für
+<sup>1</sup> Die Sicherheitsdirektion ist zuständig für
 
 - a die Erteilung des Kantonsbürgerrechts nach Artikel 22 Absatz 3 KBüG,
 - b die Nichtigerklärung der ordentlichen Einbürgerung (Art. 36 Abs. 3 des Bundesgesetzes vom 20. Juni 2014 über das Schweizer Bürgerrecht [Bürgerrechtsgesetz, BüG][^2-1]).
 
-<sup>2</sup> Das Amt für Migration und Personenstand (MIP) ist zuständig für
+<sup>2</sup> Das Amt für Bevölkerungsdienste (ABEV) ist zuständig für
 
 - a die Behandlung der Anträge nach Artikel 3 Absatz 2 KBüG und Artikel 31 KBüG,
 - b die Genehmigung des kommunalen Entscheids nach Artikel 8 Absatz 2 KBüG,
@@ -70,7 +70,7 @@ beschliesst:
 
 **Bürgerrecht nach Gemeindezusammenschlüssen**
 
-<sup>1</sup> Die Anträge nach Artikel 3 Absatz 2 KBüG und Artikel 31 KBüG sind auf dem amtlichen Formular unter Beilage einer Kopie des Reisepasses oder der Identitätskarte schriftlich beim MIP einzureichen.
+<sup>1</sup> Die Anträge nach Artikel 3 Absatz 2 KBüG und Artikel 31 KBüG sind auf dem amtlichen Formular unter Beilage einer Kopie des Reisepasses oder der Identitätskarte schriftlich beim ABEV einzureichen.
 
 <sup>2</sup> Personen, die miteinander verheiratet sind oder in eingetragener Partnerschaft leben, können bei gemeinsamem Heimatort den Antrag einzeln oder gemeinsam stellen.
 
@@ -92,7 +92,7 @@ beschliesst:
 
 <sup>1</sup> Das Einbürgerungsgesuch oder das Einburgerungsgesuch ist auf dem amtlichen Gesuchsformular zusammen mit den erforderlichen Unterlagen bei der Gemeinde einzureichen, um deren Bürgerrecht oder Burgerrecht ersucht wird.
 
-<sup>2</sup> Schweizerinnen und Schweizer sowie die Gemeinden sind verpflichtet, das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+<sup>2</sup> Schweizerinnen und Schweizer sowie die Gemeinden sind verpflichtet, das vom ABEV zur Verfügung gestellte amtliche Formular zu verwenden.
 
 <sup>3</sup> Dem Einbürgerungsgesuch oder Einburgerungsgesuch sind folgende Unterlagen beizulegen:
 
@@ -119,9 +119,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden halten die für die Einbürgerung oder Einburgerung massgebenden Sachverhalte im Entscheid über die Zusicherung des Gemeindebürgerrechts oder des Gemeindeburgerrechts fest.
 
-<sup>2</sup> Die Gemeinden sind verpflichtet, für den Entscheid über die Zusicherung des Gemeindebürgerrechts oder des Gemeindeburgerrechts das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+<sup>2</sup> Die Gemeinden sind verpflichtet, für den Entscheid über die Zusicherung des Gemeindebürgerrechts oder des Gemeindeburgerrechts das vom ABEV zur Verfügung gestellte amtliche Formular zu verwenden.
 
-<sup>3</sup> Die Gemeinden leiten dem MIP sämtliche rechtskräftige verfahrensabschliessende Entscheide mit den vollständigen Verfahrensakten weiter.
+<sup>3</sup> Die Gemeinden leiten dem ABEV sämtliche rechtskräftige verfahrensabschliessende Entscheide mit den vollständigen Verfahrensakten weiter.
 
 ### 2.2 Ausländerinnen und Ausländer
 
@@ -165,7 +165,7 @@ beschliesst:
 
 <sup>1</sup> Über das erfolgreiche Bestehen des Einbürgerungstests wird eine Bestätigung ausgestellt.
 
-<sup>2</sup> Der Nachweis des erfolgreich bestandenen Einbürgerungstests befreit die Gemeinden und das MIP nicht von der Überprüfung des Vertrautseins mit den schweizerischen und örtlichen Lebensverhältnissen nach Artikel 12 Absatz 1 Buchstabe b KBüG.
+<sup>2</sup> Der Nachweis des erfolgreich bestandenen Einbürgerungstests befreit die Gemeinden und das ABEV nicht von der Überprüfung des Vertrautseins mit den schweizerischen und örtlichen Lebensverhältnissen nach Artikel 12 Absatz 1 Buchstabe b KBüG.
 
 <sup>3</sup> Wird der Einbürgerungstest nicht bestanden, wird den Ausländerinnen und Ausländern der Besuch eines Einbürgerungskurses empfohlen.
 
@@ -192,7 +192,7 @@ beschliesst:
 
 <sup>3</sup> Die Gemeinden prüfen die Beachtung der öffentlichen Sicherheit und Ordnung im Bereich Straffälligkeit bei volljährigen Ausländerinnen und Ausländern aufgrund des Strafregisterauszugs für Privatpersonen sowie bei Ausländerinnen und Ausländern zwischen dem vollendeten 10. und 25. Altersjahr aufgrund des Voraktenverzeichnisses der Jugendanwaltschaft.
 
-<sup>4</sup> Die Gemeinden können unter Beilage einer Kopie des Einbürgerungsgesuchs und des eingereichten Strafregisterauszugs für Privatpersonen beim MIP schriftlich Auskunft über allfällige Einträge im Strafregister-Informationssystem VOSTRA verlangen, die für das hängige Einbürgerungsverfahren von Bedeutung sein können.
+<sup>4</sup> Die Gemeinden können unter Beilage einer Kopie des Einbürgerungsgesuchs und des eingereichten Strafregisterauszugs für Privatpersonen beim ABEV schriftlich Auskunft über allfällige Einträge im Strafregister-Informationssystem VOSTRA verlangen, die für das hängige Einbürgerungsverfahren von Bedeutung sein können.
 
 #### Art. 12
 
@@ -244,7 +244,7 @@ beschliesst:
 
 <sup>1</sup> Das Einbürgerungsgesuch ist auf dem amtlichen Gesuchsformular zusammen mit den erforderlichen Unterlagen bei der Gemeinde einzureichen, um deren Bürgerrecht ersucht wird.
 
-<sup>2</sup> Ausländerinnen und Ausländer sowie die Gemeinden sind verpflichtet, das vom MIP zur Verfügung gestellte amtliche Formular zu verwenden.
+<sup>2</sup> Ausländerinnen und Ausländer sowie die Gemeinden sind verpflichtet, das vom ABEV zur Verfügung gestellte amtliche Formular zu verwenden.
 
 #### Art. 16
 
@@ -279,13 +279,13 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden treffen die nach kantonalen Vorgaben für die Integrationsprüfung erforderlichen Erhebungen, führen mit den Ausländerinnen und Ausländern ein Einbürgerungsgespräch und prüfen die Einbürgerungsvoraussetzungen.
 
-<sup>2</sup> Sie halten die für die Einbürgerung massgebenden Sachverhalte im amtlichen Erhebungsbericht fest. Dieser wird auf Verlangen des MIP aktualisiert. Die massgebenden Sachverhalte sind bei minderjährigen Kindern dem Alter und Entwicklungsstand entsprechend im Erhebungsbericht festzuhalten.
+<sup>2</sup> Sie halten die für die Einbürgerung massgebenden Sachverhalte im amtlichen Erhebungsbericht fest. Dieser wird auf Verlangen des ABEV aktualisiert. Die massgebenden Sachverhalte sind bei minderjährigen Kindern dem Alter und Entwicklungsstand entsprechend im Erhebungsbericht festzuhalten.
 
-<sup>3</sup> Sie leiten die rechtskräftigen Entscheide über die Zusicherung des Gemeindebürgerrechts oder deren Verweigerung mit den vollständigen Verfahrensakten an das MIP weiter.
+<sup>3</sup> Sie leiten die rechtskräftigen Entscheide über die Zusicherung des Gemeindebürgerrechts oder deren Verweigerung mit den vollständigen Verfahrensakten an das ABEV weiter.
 
-<sup>4</sup> Das MIP prüft das Gesuch nach kommunalen Zusicherungen, trifft allenfalls weitere Erhebungen und holt die eidgenössische Einbürgerungsbewilligung ein.
+<sup>4</sup> Das ABEV prüft das Gesuch nach kommunalen Zusicherungen, trifft allenfalls weitere Erhebungen und holt die eidgenössische Einbürgerungsbewilligung ein.
 
-<sup>5</sup> Die Gemeinden sind verpflichtet, für den Erhebungsbericht sowie den Entscheid über die Zusicherung des Gemeindebürgerrechts die vom MIP zur Verfügung gestellten amtlichen Formulare zu verwenden.
+<sup>5</sup> Die Gemeinden sind verpflichtet, für den Erhebungsbericht sowie den Entscheid über die Zusicherung des Gemeindebürgerrechts die vom ABEV zur Verfügung gestellten amtlichen Formulare zu verwenden.
 
 #### Art. 19
 
@@ -329,7 +329,7 @@ beschliesst:
 
 **Mitteilungen**
 
-<sup>1</sup> Das MIP teilt mit
+<sup>1</sup> Das ABEV teilt mit
 
 - a den Einbürgerungsgemeinden oder Einburgerungsgemeinden den rechtskräftigen Entscheid über die Einbürgerung oder Einburgerung,
 - b dem für die Beurkundung zuständigen Zivilstandsamt die rechtskräftige Einbürgerung oder Einburgerung,
@@ -343,7 +343,7 @@ beschliesst:
 
 **Gesuch**
 
-<sup>1</sup> Das Gesuch um Entlassung aus dem Bürgerrecht einer Einwohnergemeinde oder gemischten Gemeinde ist beim MIP einzureichen.
+<sup>1</sup> Das Gesuch um Entlassung aus dem Bürgerrecht einer Einwohnergemeinde oder gemischten Gemeinde ist beim ABEV einzureichen.
 
 <sup>2</sup> Das Gesuch um Entlassung aus dem Burgerrecht ist bei der Burgergemeinde einzureichen.
 
@@ -351,9 +351,9 @@ beschliesst:
 
 **Mitteilungen**
 
-<sup>1</sup> Die Burgergemeinde teilt dem MIP die rechtskräftige Entlassung aus dem Burgerrecht unter Beilage der vollständigen Verfahrensakten mit.
+<sup>1</sup> Die Burgergemeinde teilt dem ABEV die rechtskräftige Entlassung aus dem Burgerrecht unter Beilage der vollständigen Verfahrensakten mit.
 
-<sup>2</sup> Das MIP teilt dem für die Beurkundung zuständigen Zivilstandsamt die rechtskräftige Entlassung aus dem Bürgerrecht oder Burgerrecht mit.
+<sup>2</sup> Das ABEV teilt dem für die Beurkundung zuständigen Zivilstandsamt die rechtskräftige Entlassung aus dem Bürgerrecht oder Burgerrecht mit.
 
 ## 4 Aktenaufbewahrung und -einsicht sowie Gebühren
 
@@ -361,7 +361,7 @@ beschliesst:
 
 **Aktenaufbewahrung und -einsicht**
 
-<sup>1</sup> Die Akten von Einbürgerungs- und Einburgerungsverfahren sowie von Entlassungsverfahren werden durch das MIP aufbewahrt.
+<sup>1</sup> Die Akten von Einbürgerungs- und Einburgerungsverfahren sowie von Entlassungsverfahren werden durch das ABEV aufbewahrt.
 
 <sup>2</sup> Die Gemeinden können kostenfrei in die Akten Einsicht nehmen, die ihre Gemeinde betreffen.
 
@@ -373,7 +373,7 @@ beschliesst:
 
 <sup>2</sup> Das Einbürgerungsverfahren wird erst dann fortgesetzt, wenn die in Rechnung gestellten Gebühren bezahlt worden sind.
 
-<sup>3</sup> Das MIP fordert mindestens einmal jährlich die von den Gemeinden erhobenen kantonalen Gebühren bei den Gemeinden ein.
+<sup>3</sup> Das ABEV fordert mindestens einmal jährlich die von den Gemeinden erhobenen kantonalen Gebühren bei den Gemeinden ein.
 
 <sup>4</sup> Die kantonalen Gebührensätze richten sich nach der Verordnung vom 22. Februar 1995 über die Gebühren der Kantonsverwaltung (Gebührenverordnung, GebV)[^27-1].
 
