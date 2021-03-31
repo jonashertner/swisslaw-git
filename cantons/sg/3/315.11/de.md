@@ -4,13 +4,12 @@ number: "315.11"
 title: Verordnung über die Lebensmittelkontrolle
 short: VLK
 language: de
-version: 2011-06-21
-valid_until: 2021-03-31
-version_adopted: 2011-06-21
+version: 2021-04-01
+version_adopted: 2021-03-30
 adopted: 1996-05-29
 in_force: 1996-07-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/315.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1455/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3149/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1455/pdf_file"
 
 (VLK)
 
-vom 29.05.1996 (Stand 21.06.2011)
+vom 29.05.1996 (Stand 01.04.2021)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -49,33 +48,33 @@ als Verordnung:[^ingress-3]
 
 **Selbstkontrolle der öffentlichen Wasserversorgungen**
 
-<sup>1</sup> Die öffentlichen Wasserversorgungen lassen im Rahmen der Selbstkontrolle nach Art. 23 des eidgenössischen Lebensmittelgesetzes vom 9. Oktober 1992[^2a-1] und Art. 49 ff. der eidgenössischen Lebensmittel- und Gebrauchsgegenständeverordnung vom 23. November 2005[^2a-2] Analysen durch Laboratorien durchführen, die nach der europäischen Norm EN ISO/ IEC 17025 über die allgemeinen Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien oder nach einer vergleichbaren Norm bewertet und zugelassen sind.
+<sup>1</sup> Die öffentlichen Wasserversorgungen lassen im Rahmen der Selbstkontrolle nach Art. 26 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 20. Juni 2014[^2a-1] und Art. 73 ff. der eidgenössischen Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^2a-2] Analysen durch Laboratorien durchführen, die nach der europäischen Norm EN ISO/IEC 17025 über die allgemeinen Anforderungen an die Kompetenz von Prüf- und Kalibrierlaboratorien oder nach einer vergleichbaren Norm bewertet und zugelassen sind.
 
-<sup>2</sup> Sie stellen dem Amt für Verbraucherschutz und Veterinärwesen die Untersuchungsergebnisse bis zum Ende jedes Kalenderjahres zu.
+<sup>2</sup> Sie stellen dem Amt für Verbraucherschutz und Veterinärwesen die Untersuchungsergebnisse eines Kalenderjahres jeweils bis zum 31. Januar des Folgejahres zu.
 
-[^2a-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de).
+[^2a-1]: SR [817.0](https://db.clex.ch/link/Bund/817.0/de); abgekürzt LMG.
 [^2a-2]: SR [817.02](https://db.clex.ch/link/Bund/817.02/de).
 
 #### Art. 3
 
 **Gebühren[^3-1]**
 
-<sup>1</sup> Die Höhe der Gebühren wird nach dem Gebührentarif für die amtliche Lebensmittelkontrolle des Verbandes der Kantonschemiker der Schweiz vom 1./2. Dezember 1994[^3-2] bestimmt. Der Aufwandpunktwert wird im Regierungsbeschluss über den Aufwandpunktwert nach der Verordnung über die Lebensmittelkontrolle[^3-3] festgelegt.
+<sup>1</sup> Die Höhe der Gebühren wird nach dem Gebührentarif für die amtliche Lebensmittelkontrolle des Verbandes der Kantonschemiker der Schweiz[^3-2] bestimmt. Der Aufwandpunktwert wird im Regierungsbeschluss über den Aufwandpunktwert nach der Verordnung über die Lebensmittelkontrolle[^3-3] festgelegt.
 
-<sup>2</sup> Bei geringfügigen Beanstandungen kann auf die Erhebung der Gebühr verzichtet werden.
+<sup>2</sup> …
 
 <sup>3</sup> Der Stundenansatz für besondere Dienstleistungen und Kontrollen[^3-4] beträgt:
 
-- a) für den Kantonschemiker: 105 Aufwandpunkte
-- b) für Lebensmittelinspektoren: 80 Aufwandpunkte
+- a) für den Kantonschemiker und seine Stellvertretung: 105 Aufwandpunkte
+- b) für Lebensmittel-, Trink- und Badewasserinspektoren sowie leitende Mitarbeitende des kantonalen Labors: 80 Aufwandpunkte
 - c) für weitere Personen: 60 Aufwandpunkte
 
-<sup>4</sup> Enthält der Gebührentarif für die amtliche Lebensmittelkontrolle des Verbandes der Kantonschemiker der Schweiz keine Regelung, namentlich für Nachkontrollen und administrative Arbeiten, werden Gebühren nach dem Gebührentarif für die Staats- und Gemeindeverwaltung vom 4. Juli 1995[^3-5] erhoben.
+<sup>4</sup> Enthält der Gebührentarif für die amtliche Lebensmittelkontrolle des Verbandes der Kantonschemiker der Schweiz keine Regelung, namentlich für Nachkontrollen und administrative Arbeiten, werden Gebühren nach dem Gebührentarif für die Kantons- und Gemeindeverwaltung vom 2. Mai 2000[^3-5] erhoben.
 
-[^3-1]: Art. 45 des eidg Lebensmittelgesetzes vom 9. Oktober 1992, SR [817.0](https://db.clex.ch/link/Bund/817.0/de); V über die Gebühren für die Lebensmittelkontrolle vom 1. März 1995, SR [817.51](https://db.clex.ch/link/Bund/817.51/de).
-[^3-2]: In der Gesetzessammlung nicht veröffentlicht. Zu beziehen beim Amt für Lebensmittelkontrolle, Frohbergstrasse 3, 9000 St.Gallen.
+[^3-1]: [Art. 58](https://db.clex.ch/link/Bund/817.0/de) LMG.
+[^3-2]: In der Gesetzessammlung nicht veröffentlicht. Zu beziehen beim Amt für Verbraucherschutz und Veterinärwesen, Blarerstrasse 2, 9001 St.Gallen.
 [^3-3]: sGS [315.111](https://www.gesetzessammlung.sg.ch/data/315.111/de).
-[^3-4]: Art. 15 Abs. 3 der V über die Gebühren für die Lebensmittelkontrolle vom 1. März 1995, SR [817.51](https://db.clex.ch/link/Bund/817.51/de).
+[^3-4]: [Art. 112 f.](https://db.clex.ch/link/Bund/817.042/de) der eidg. Verordnung über den Vollzug der Lebensmittelgesetzgebung vom 27. Mai 2020, SR [817.042](https://db.clex.ch/link/Bund/817.042/de).
 [^3-5]: sGS [821.5](https://www.gesetzessammlung.sg.ch/data/821.5/de).
 
 #### Art. 4
@@ -85,6 +84,14 @@ als Verordnung:[^ingress-3]
 <sup>1</sup> Die politische Gemeinde kann für die Durchführung der Pilzkontrolle nicht gewerbsmässig gesammelter Pilze Pilzkontrolleure bezeichnen.
 
 <sup>2</sup> Sie meldet diese dem Amt für Verbraucherschutz und Veterinärwesen.
+
+#### Art. 4a
+
+**Schlachtung von kranken Tieren**
+
+<sup>1</sup> Die Schlachtung von krankem Vieh wird in der nächstgelegenen, dafür bezeichneten Schlachtanlage durchgeführt.
+
+<sup>2</sup> Schlachttierkörper werden bis zur abschliessenden Beurteilung durch die Fleischkontrolle gekühlt und räumlich getrennt von anderen Schlachttierkörpern aufbewahrt.
 
 #### Art. 5
 
