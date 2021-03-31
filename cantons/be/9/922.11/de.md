@@ -4,13 +4,13 @@ number: "922.11"
 title: Gesetz über Jagd und Wildtierschutz
 short: JWG
 language: de
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2017-12-06
+version: 2021-04-01
+valid_until: 2026-01-31
+version_adopted: 2021-02-17
 adopted: 2002-03-25
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1373/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2205/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1373/pdf_file"
 
 (JWG)
 
-vom 25.03.2002 (Stand 01.05.2018)
+vom 25.03.2002 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -70,7 +70,7 @@ beschliesst:
 
 <sup>2</sup> Sie legt für jede Tierart mittelfristig anzustrebende Bestandesgrössen sowie die jährlichen Jagdkontingente fest. Bei zu hohen oder zu tiefen Wildbeständen werden regional differenzierte Kontingente festgelegt.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion stellt die erforderlichen Grundlagen bereit, hört die betroffenen Kreise an und plant die Jagd. Sie informiert die betroffenen Kreise in geeigneter Weise über die Jagdplanung und ihre Umsetzung.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion stellt die erforderlichen Grundlagen bereit, hört die betroffenen Kreise an und plant die Jagd. Sie informiert die betroffenen Kreise in geeigneter Weise über die Jagdplanung und ihre Umsetzung.
 
 ### 2.2 Jagdberechtigung
 
@@ -101,7 +101,7 @@ beschliesst:
 
 <sup>2</sup> Sie wird verweigert, wenn die Person durch Gerichtsurteil oder administrative Massnahmen von der Jagd ausgeschlossen worden ist oder wenn die Person aus gesundheitlichen Gründen Dritte gefährden oder die Jagd nicht ausüben könnte.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion ist berechtigt, von der gesuchstellenden Person nötigenfalls ein vertrauensärztliches Zeugnis zu verlangen.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion ist berechtigt, von der gesuchstellenden Person nötigenfalls ein vertrauensärztliches Zeugnis zu verlangen.
 
 ### 2.3 Jagdbewilligungen
 
@@ -126,7 +126,7 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat bestimmt durch Verordnung die Wildtierarten, die mit dem Basispatent allein bzw. nur in Verbindung mit einem anderen Patent erlegt werden dürfen.
 
-<sup>5</sup> Die zuständige Stelle der Volkswirtschaftsdirektion teilt die jagdbaren Tierarten in Kategorien ein und legt nach Massgabe der Jagdplanung fest, welche Kategorien mit den Patenten bejagt werden dürfen.
+<sup>5</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion teilt die jagdbaren Tierarten in Kategorien ein und legt nach Massgabe der Jagdplanung fest, welche Kategorien mit den Patenten bejagt werden dürfen.
 
 #### Art. 8
 
@@ -134,7 +134,7 @@ beschliesst:
 
 <sup>1</sup> Zu einem Patent A oder B kann für jede weitere Gämse oder jedes weitere Reh ein Zusatzpatent erteilt werden.
 
-<sup>2</sup> Die zuständige Stelle der Volkswirtschaftsdirektion legt nach Massgabe der Jagdplanung und der voraussichtlichen Nachfrage nach Patenten die jährlichen Kontingente für Zusatzpatente fest.
+<sup>2</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion legt nach Massgabe der Jagdplanung und der voraussichtlichen Nachfrage nach Patenten die jährlichen Kontingente für Zusatzpatente fest.
 
 <sup>3</sup> Sie kann den örtlichen und zeitlichen Geltungsbereich der Zusatzpatente abweichend von Patent A oder B festlegen.
 
@@ -176,9 +176,9 @@ beschliesst:
 
 <sup>2</sup> Die Gebühren für Spezialbewilligungen betragen 50 bis 200 Franken.
 
-<sup>3</sup> Für Wildtiere, die mit einer Spezialbewilligung abgeschossen worden sind, kann die zuständige Stelle der Volkswirtschaftsdirektion je nach dem Wert des erlegten Wildtieres zusätzlich besondere Abschussgebühren von 100 bis 1000 Franken erheben.
+<sup>3</sup> Für Wildtiere, die mit einer Spezialbewilligung abgeschossen worden sind, kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion je nach dem Wert des erlegten Wildtieres zusätzlich besondere Abschussgebühren von 100 bis 1000 Franken erheben.
 
-<sup>4</sup> Die Regalabgaben für Personen ohne Wohnsitz im Kanton Bern betragen das Dreifache der Ansätze gemäss Absatz 1.
+<sup>4</sup> Die Regalabgaben für Personen ohne Wohnsitz im Kanton betragen das Dreifache der Ansätze gemäss Absatz 1.
 
 #### Art. 12
 
@@ -242,7 +242,7 @@ beschliesst:
 
 **Kontrollpflichten**
 
-<sup>1</sup> Wer die Jagd ausübt, führt zuhanden der zuständigen Stelle der Volkswirtschaftsdirektion eine Abschusskontrolle.
+<sup>1</sup> Wer die Jagd ausübt, führt zuhanden der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion eine Abschusskontrolle.
 
 <sup>2</sup> Der Regierungsrat kann auf Antrag der Kommission für Jagd und Wildtierschutz durch Verordnung die Vorweisungspflicht für erlegtes Wild einführen.
 
@@ -284,7 +284,7 @@ beschliesst:
 
 **Wildschadenfonds**
 
-<sup>1</sup> Der Kanton führt im Sinne einer Spezialfinanzierung einen Wildschadenfonds, der von der zuständigen Stelle der Volkswirtschaftsdirektion verwaltet wird.
+<sup>1</sup> Der Kanton führt im Sinne einer Spezialfinanzierung einen Wildschadenfonds, der von der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion verwaltet wird.
 
 <sup>2</sup> Der Wildschadenfonds wird geäufnet durch
 
@@ -300,7 +300,7 @@ beschliesst:
 
 **Hegekasse**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion beauftragt eine geeignete Stelle ausserhalb der Kantonsverwaltung mit der Errichtung und Verwaltung einer Hegekasse.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion beauftragt eine geeignete Stelle ausserhalb der Kantonsverwaltung mit der Errichtung und Verwaltung einer Hegekasse.
 
 <sup>2</sup> Sie legt die jährlichen Einnahmen aus dem Hegezuschlag in die Hegekasse ein.
 
@@ -318,7 +318,7 @@ beschliesst:
 
 **Aufgaben der kantonalen Verwaltung**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion stellt den Vollzug der eidgenössischen und kantonalen Gesetzgebung über Jagd und Wildtierschutz sowie die Wahrung der öffentlichen Interessen sicher.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion stellt den Vollzug der eidgenössischen und kantonalen Gesetzgebung über Jagd und Wildtierschutz sowie die Wahrung der öffentlichen Interessen sicher.
 
 <sup>2</sup> Die nicht jagdbedingte Nachsuche obliegt den Wildhüterinnen und Wildhütern.
 
@@ -346,21 +346,21 @@ beschliesst:
 
 <sup>2</sup> Er kann mit anderen Kantonen Vereinbarungen über eine gemeinsame Aufgabenerfüllung abschliessen.
 
-<sup>3</sup> Die zuständige Stelle der Volkswirtschaftsdirektion kann im Rahmen des Vollzuges dieser Gesetzgebung mittels Leistungsverträgen geeignete Dritte beiziehen.
+<sup>3</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion kann im Rahmen des Vollzuges dieser Gesetzgebung durch Leistungsverträge geeignete Dritte beiziehen.
 
 #### Art. 29
 
 **Kommission für Jagd und Wildtierschutz**
 
-<sup>1</sup> Die Volkswirtschaftsdirektion wählt für eine Amtsdauer von vier Jahren eine Kommission für Jagd und Wildtierschutz, bestehend aus höchstens elf Personen.
+<sup>1</sup> Die Wirtschafts-, Energie- und Umweltdirektion wählt für eine Amtsdauer von vier Jahren eine Kommission für Jagd und Wildtierschutz, bestehend aus höchstens elf Personen.
 
 #### Art. 30
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Volkswirtschaftsdirektion oder ermächtigter Dritter, die gestützt auf die Gesetzgebung über Jagd und Wildtierschutz erlassen werden, kann bei der Volkswirtschaftsdirektion Beschwerde geführt werden.
+<sup>1</sup> Gegen Verfügungen der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion oder ermächtigter Dritter, die gestützt auf die Gesetzgebung über Jagd und Wildtierschutz erlassen werden, kann bei der Wirtschafts-, Energie- und Umweltdirektion Beschwerde geführt werden.
 
-<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege[^30-1].
+<sup>2</sup> Das Verfahren richtet sich nach dem Gesetz vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^30-1].
 
 [^30-1]: BSG 155.21
 
@@ -372,14 +372,14 @@ beschliesst:
 
 <sup>1</sup> Soweit nicht bundesrechtliche Strafnormen zur Anwendung gelangen, wird mit Busse bis zu 20'000 Franken bestraft,
 
-- a wer gegen die ausführenden oder ergänzenden Vorschriften des Regierungsrates oder der Volkswirtschaftsdirektion über die Weidgerechtigkeit, die Kontroll- oder Meldepflichten sowie den Gebrauch von Transportmitteln, Waffen oder Munition verstösst,
+- a wer gegen die ausführenden oder ergänzenden Vorschriften des Regierungsrates oder der Wirtschafts-, Energie- und Umweltdirektion über die Weidgerechtigkeit, die Kontroll- oder Meldepflichten sowie den Gebrauch von Transportmitteln, Waffen oder Munition verstösst,
 - b wer durch unwahre Angaben oder Verheimlichung von Tatsachen die Erteilung einer Jagdbewilligung erwirkt,
 - c wer die verbindlichen Anordnungen zum Schutz von Wildtieren missachtet,
 - d wer vorsätzlich für Wildforschungsprojekte markierte Tiere erlegt.
 
 <sup>2</sup> Der Versuch und die Gehilfenschaft sind ebenfalls strafbar.
 
-<sup>3</sup> Die Strafjustizbehörden geben der zuständigen Stelle der Volkswirtschaftsdirektion von allen gestützt auf die Jagdgesetzgebung erlassenen, rechtskräftig gewordenen Urteilen unverzüglich Kenntnis.
+<sup>3</sup> Die Strafjustizbehörden geben der zuständigen Stelle der Wirtschafts-, Energie- und Umweltdirektion von allen gestützt auf die Jagdgesetzgebung erlassenen, rechtskräftig gewordenen Urteilen unverzüglich Kenntnis.
 
 #### Art. 32
 
@@ -391,7 +391,7 @@ beschliesst:
 
 **Administrative Massnahmen**
 
-<sup>1</sup> Bei Verstössen gegen diese Gesetzgebung kann die zuständige Stelle der Volkswirtschaftsdirektion die folgenden administrativen Massnahmen ergreifen:
+<sup>1</sup> Bei Verstössen gegen diese Gesetzgebung kann die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion die folgenden administrativen Massnahmen ergreifen:
 
 - a schriftliche Ermahnung,
 - b Wertersatz,
@@ -420,7 +420,7 @@ beschliesst:
 - l Wildtierhaltung,
 - m Zusammensetzung und Aufgaben der Kommission für Jagd und Wildtierschutz.
 
-<sup>3</sup> Er kann seine Befugnisse durch Verordnung an die Volkswirtschaftsdirektion übertragen.
+<sup>3</sup> Er kann seine Befugnisse durch Verordnung an die Wirtschafts-, Energie- und Umweltdirektion übertragen.
 
 ## 8 Übergangs- und Schlussbestimmungen
 

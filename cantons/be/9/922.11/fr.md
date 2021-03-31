@@ -4,13 +4,13 @@ number: "922.11"
 title: Loi sur la chasse et la protection de la faune sauvage
 short: LCh
 language: fr
-version: 2018-05-01
-valid_until: 2021-03-31
-version_adopted: 2017-12-06
+version: 2021-04-01
+valid_until: 2026-01-31
+version_adopted: 2021-02-17
 adopted: 2002-03-25
 in_force: 2003-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1373/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2205/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1373/pdf_file"
 
 (LCh)
 
-du 25.03.2002 (état au 01.05.2018)
+du 25.03.2002 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -70,7 +70,7 @@ arrête:
 
 <sup>2</sup> Elle fixe pour chaque espèce les effectifs de populations à atteindre à moyen terme ainsi que les contingents annuels d'animaux pouvant être chassés. Des contingents différenciés par régions sont fixés lorsque certains effectifs de la faune sauvage se révèlent trop élevés ou trop bas.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique prépare les documents nécessaires, entend les parties concernées et planifie la chasse. Il informe les parties concernées de manière appropriée sur la planification de la chasse et sur sa mise en application.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement prépare les documents nécessaires, entend les parties concernées et planifie la chasse. Il informe les parties concernées de manière appropriée sur la planification de la chasse et sur sa mise en application.
 
 ### 2.2 Droit de chasse
 
@@ -101,7 +101,7 @@ arrête:
 
 <sup>2</sup> Elle est refusée aux personnes qui ont été privées du droit de chasse par jugement ou par mesure administrative ou à celles qui, pour des raisons de santé, pourraient représenter une menace pour des tiers ou ne pourraient pas exercer la chasse.
 
-<sup>3</sup> Le service compétent de la Direction de l'économie publique est habilité, au besoin, à exiger du requérant ou de la requérante le certificat d'un médecin-conseil.
+<sup>3</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement est habilité, au besoin, à exiger du requérant ou de la requérante le certificat d'un médecin-conseil.
 
 ### 2.3 Autorisations de chasse
 
@@ -126,7 +126,7 @@ arrête:
 
 <sup>4</sup> Le Conseil-exécutif désigne par voie d'ordonnance les espèces d'animaux sauvages qui peuvent être tirées avec la patente de base seule et celles qui ne peuvent l'être qu'avec une patente supplémentaire.
 
-<sup>5</sup> Le service compétent de la Direction de l'économie publique répartit en catégories les espèces pouvant être chassées et définit les catégories qui peuvent être chassées avec les différentes patentes conformément à la planification de la chasse.
+<sup>5</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement répartit en catégories les espèces pouvant être chassées et définit les catégories qui peuvent être chassées avec les différentes patentes conformément à la planification de la chasse.
 
 #### Art. 8
 
@@ -134,7 +134,7 @@ arrête:
 
 <sup>1</sup> Une patente supplémentaire peut être délivrée en complément à une patente A ou B pour chaque chamois supplémentaire ou pour chaque chevreuil supplémentaire.
 
-<sup>2</sup> Le service compétent de la Direction de l'économie publique fixe les contingents annuels de patentes supplémentaires conformément à la planification de la chasse et à l'estimation de la demande de patentes.
+<sup>2</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement fixe les contingents annuels de patentes supplémentaires conformément à la planification de la chasse et à l'estimation de la demande de patentes.
 
 <sup>3</sup> Il peut fixer le champ d'application spatial et temporel des patentes supplémentaires différemment de celui des patentes A ou B.
 
@@ -176,9 +176,9 @@ arrête:
 
 <sup>2</sup> Les émoluments pour les autorisations spéciales se montent de 50 à 200 francs.
 
-<sup>3</sup> Pour les animaux tirés avec une autorisation spéciale, le service compétent de la Direction de l'économie publique peut en outre percevoir, selon la valeur de l'animal tiré, des taxes particulières de tir d'une valeur allant de 100 à 1000 francs.
+<sup>3</sup> Pour les animaux tirés avec une autorisation spéciale, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut en outre percevoir, selon la valeur de l'animal tiré, des taxes particulières de tir d'une valeur allant de 100 à 1000 francs.
 
-<sup>4</sup> Les taxes régaliennes pour les personnes n'ayant pas leur domicile dans le canton de Berne sont le triple du barème fixé à l'alinéa 1.
+<sup>4</sup> Les taxes régaliennes pour les personnes n'ayant pas leur domicile dans le canton sont le triple du barème fixé à l'alinéa 1.
 
 #### Art. 12
 
@@ -202,7 +202,7 @@ arrête:
 
 **Ethique de la chasse**
 
-<sup>1</sup> Les chasseurs et les chasseuses épargnent à l'animal tou tes souffrances et tous dérangements inutiles, et respectent sa dignité.
+<sup>1</sup> Les chasseurs et les chasseuses épargnent à l'animal toutes souffrances et tous dérangements inutiles, et respectent sa dignité.
 
 <sup>2</sup> Ils ont en particulier la responsabilité de rechercher les animaux blessés en temps voulu et dans les règles.
 
@@ -242,7 +242,7 @@ arrête:
 
 **Obligations de contrôle**
 
-<sup>1</sup> Le chasseur ou la chasseuse doit remplir une carte de contrôle du gibier tiré à l'attention du service compétent de la Direction de l'économie publique.
+<sup>1</sup> Le chasseur ou la chasseuse doit remplir une carte de contrôle du gibier tiré à l'attention du service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Sur proposition de la Commission de la chasse et de la protection de la faune sauvage, le Conseil-exécutif peut introduire par voie d'ordonnance l'obligation de présenter le gibier tiré.
 
@@ -284,7 +284,7 @@ arrête:
 
 **Fonds pour les dommages causés par la faune sauvage**
 
-<sup>1</sup> Le canton gère à titre de financement spécial le Fonds pour les dommages causés par la faune sauvage, qui est administré par le service compétent de la Direction de l'économie publique.
+<sup>1</sup> Le canton gère à titre de financement spécial le Fonds pour les dommages causés par la faune sauvage, qui est administré par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Le fonds est alimenté par
 
@@ -300,7 +300,7 @@ arrête:
 
 **Caisse pour la protection de la faune sauvage**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique charge un service approprié externe à l'administration cantonale de créer et de gérer une caisse pour la protection de la faune sauvage.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement charge un service approprié externe à l'administration cantonale de créer et de gérer une caisse pour la protection de la faune sauvage.
 
 <sup>2</sup> Il y verse les recettes annuelles provenant du supplément pour les mesures de protection.
 
@@ -318,7 +318,7 @@ arrête:
 
 **Tâches de l'administration cantonale**
 
-<sup>1</sup> Le service compétent de la Direction de l'économie publique garantit l'exécution des législations fédérale et cantonale sur la chasse et la protection de la faune sauvage ainsi que la défense des intérêts publics.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement garantit l'exécution des législations fédérale et cantonale sur la chasse et la protection de la faune sauvage ainsi que la défense des intérêts publics.
 
 <sup>2</sup> La recherche d'animaux sauvages blessés indépendamment de la chasse incombe aux gardes-faune.
 
@@ -346,19 +346,19 @@ arrête:
 
 <sup>2</sup> Il peut conclure des conventions avec d'autres cantons concernant l'exécution commune de tâches.
 
-<sup>3</sup> Dans le cadre de l'exécution de la présente législation, le service compétent de la Direction de l'économie publique peut faire appel à des tiers appropriés au moyen de contrats de prestations.
+<sup>3</sup> Dans le cadre de l'exécution de la présente législation, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut faire appel à des tiers appropriés au moyen de contrats de prestations.
 
 #### Art. 29
 
 **Commission de la chasse et de la protection de la faune sauvage**
 
-<sup>1</sup> La Direction de l'économie publique élit pour une durée de quatre ans la Commission de la chasse et de la protection de la faune sauvage, constituée de onze personnes au plus.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement élit pour une durée de quatre ans la Commission de la chasse et de la protection de la faune sauvage, constituée de onze personnes au plus.
 
 #### Art. 30
 
 **Voies de droit**
 
-<sup>1</sup> Recours peut être formé auprès de la Direction de l'économie publique contre les décisions rendues par le service compétent de la Direction de l'économie publique ou par des tiers habilités en application de la législation sur la chasse et la protection de la faune sauvage.
+<sup>1</sup> Recours peut être formé auprès de la Direction de l’économie, de l’énergie et de l’environnement contre les décisions rendues par le service compétent de la Direction de l’économie, de l’énergie et de l’environnement ou par des tiers habilités en application de la législation sur la chasse et la protection de la faune sauvage.
 
 <sup>2</sup> La procédure est régie par la loi du 23 mai 1989 sur la procédure et la juridiction administratives[^30-1].
 
@@ -372,14 +372,14 @@ arrête:
 
 <sup>1</sup> Dans la mesure où les normes pénales fédérales ne sont pas applicables, est passible d'une amende n'excédant pas 20'000 francs toute personne qui
 
-- a aura contrevenu aux dispositions d'exécution ou aux dispositions complémentaires édictées par le Conseil-exécutif ou la Direction de l'économie publique en matière d'éthique de la chasse, d'obligation de contrôle et de déclaration ainsi que de moyens de transport, d'armes ou de munitions;
+- a aura contrevenu aux dispositions d'exécution ou aux dispositions complémentaires édictées par le Conseil-exécutif ou la Direction de l’économie, de l’énergie et de l’environnement en matière d'éthique de la chasse, d'obligation de contrôle et de déclaration ainsi que de moyens de transport, d'armes ou de munitions;
 - b aura obtenu une autorisation de chasse au moyen de fausses indications ou en dissimulant des faits;
 - c aura violé la réglementation sur la protection de la faune sauvage;
 - d aura tiré intentionnellement des animaux marqués dans le cadre de programmes de recherche sur la faune sauvage.
 
 <sup>2</sup> La tentative et la complicité sont également punissables.
 
-<sup>3</sup> Les autorités de justice pénale communiquent immédiatement au service compétent de la Direction de l'économie publique tous les jugements entrés en force, prononcés en application de la législation sur la chasse.
+<sup>3</sup> Les autorités de justice pénale communiquent immédiatement au service compétent de la Direction de l’économie, de l’énergie et de l’environnement tous les jugements entrés en force, prononcés en application de la législation sur la chasse.
 
 #### Art. 32
 
@@ -391,7 +391,7 @@ arrête:
 
 **Mesures administratives**
 
-<sup>1</sup> En cas d'infractions à la présente législation, le service compétent de la Direction de l'économie publique peut prendre les mesures administratives suivantes:
+<sup>1</sup> En cas d'infractions à la présente législation, le service compétent de la Direction de l’économie, de l’énergie et de l’environnement peut prendre les mesures administratives suivantes:
 
 - a avertissement écrit,
 - b remboursement de la valeur du gibier,
@@ -420,7 +420,7 @@ arrête:
 - l la détention d'animaux sauvages,
 - m la composition et les tâches de la Commission de la chasse et de la protection de la faune sauvage.
 
-<sup>3</sup> Il peut déléguer ses compétences par voie d'ordonnance à la Direction de l'économie publique.
+<sup>3</sup> Il peut déléguer ses compétences par voie d'ordonnance à la Direction de l’économie, de l’énergie et de l’environnement.
 
 ## 8 Dispositions transitoires et dispositions finales
 
