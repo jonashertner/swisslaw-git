@@ -3,11 +3,11 @@ sr: "362.0"
 title: Verordnung vom 8. März 2013 über den nationalen Teil des Schengener Informationssystems (N-SIS) und das SIRENE-Büro (N-SIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210101/de"
 
 (N-SIS-Verordnung)
 
-vom 8. März 2013 (Stand am 1. Januar 2021)
+vom 8. März 2013 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -1001,15 +1001,14 @@ Die Datensicherheit richtet sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^53-1] zum Bundesgesetz über den Datenschutz;
 - b.[^53-2] der Cyberrisikenverordnung vom 27. Mai 2020[^53-3];
-- c.[^53-4] den Weisungen des Bundesrates vom 16. Januar 2019[^53-5] über die IKT-Sicherheit in der Bundesverwaltung.
+- c.[^53-4] ...
 
 <sup>2</sup> Fedpol legt im Bearbeitungsreglement nach Artikel 3 Absatz 2 die organisatorischen und technischen Massnahmen gegen unbefugtes Bearbeiten der Daten fest und regelt die automatische Protokollierung der Datenbearbeitung und der Dateneinsicht.
 
 [^53-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^53-2]: Fassung gemäss Anhang Ziff. 12 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^53-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^53-4]: Fassung gemäss Anhang Ziff. 12 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-5]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^53-4]: Aufgehoben durch Anhang Ziff. 22 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 54
 

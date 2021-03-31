@@ -3,11 +3,11 @@ sr: "362.0"
 title: "Ordinanza dell' 8 marzo 2013 sulla parte nazionale del Sistema d'informazione di Schengen (N-SIS) e sull'ufficio SIRENE (Ordinanza N-SIS)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/179"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2013-03-08
 in_force: 2013-04-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/179/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2013-179-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/179/20210101/it"
 
 (Ordinanza N-SIS)
 
-dell’8 marzo 2013 (Stato 1° gennaio 2021)
+dell’8 marzo 2013 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -1003,15 +1003,14 @@ La sicurezza dei dati è retta da:
 
 - a. l’ordinanza del 14 giugno 1993[^53-1] relativa alla legge federale sulla protezione dei dati;
 - b.[^53-2] l’ordinanza del 27 maggio 2020[^53-3] sui ciber-rischi;
-- c.[^53-4] le istruzioni del Consiglio federale del 16 gennaio 2019[^53-5] sulla sicurezza TIC nell’Amministrazione federale.
+- c.[^53-4] ...
 
 <sup>2</sup> Fedpol statuisce nel regolamento sul trattamento dei dati di cui all’articolo 3 capoverso 2 le misure organizzative e tecniche da adottare per evitare il trattamento non autorizzato dei dati e disciplina la verbalizzazione automatica del trattamento e della consultazione dei dati.
 
 [^53-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^53-2]: Nuovo testo giusta l’all. n. 12 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^53-3]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^53-4]: Nuovo testo giusta l’all. n. 12 dell’O del 25 nov. 2020 sulla trasformazione digitale e l’informatica, in vigore dal 1° gen. 2021 ([RU 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^53-5]: [FF 2019 1173](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^53-4]: Abrogata dall’all. n. 22 dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 54
 
