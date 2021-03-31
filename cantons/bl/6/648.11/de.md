@@ -3,20 +3,19 @@ canton: BL
 number: "648.11"
 title: Verordnung über das Raumprogramm für Sekundarschulanlagen
 language: de
-version: 2013-07-01
-valid_until: 2021-03-31
-version_adopted: 2013-06-18
+version: 2021-04-01
+version_adopted: 2021-03-16
 adopted: 2009-06-16
 in_force: 2009-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/648.11"
-pdf: "https://bl.clex.ch/api/de/versions/2894/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/2968/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Raumprogramm für Sekundarschulanlagen
 
-Vom 16.06.2009 (Stand 01.07.2013)
+Vom 16.06.2009 (Stand 01.04.2021)
 
 Der Regierungsrat,
 
