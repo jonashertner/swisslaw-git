@@ -3,13 +3,13 @@ canton: FR
 number: "917.16"
 title: "Arrêté concernant les subventions cantonales en faveur d'améliorations foncières"
 language: fr
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2013-11-11
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-02
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8566/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8567/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/8566/pdf_file"
 
 Améliorations foncières, subventions cantonales – A
 
-du 19.12.1995 (version entrée en vigueur le 01.01.2014)
+du 19.12.1995 (version entrée en vigueur le 01.04.2021)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -108,6 +108,8 @@ Arrête:
 <sup>1</sup> Les entreprises d'améliorations foncières réalisées par un seul propriétaire et dont le devis des coûts subventionnables ou le montant de la subvention est inférieur respectivement à 20'000 francs ou à 6000 francs ainsi que celles qui sont réalisées par plusieurs propriétaires, par un syndicat d'améliorations foncières ou par une ou plusieurs communes et dont le devis des coûts subventionnables ou le montant de la subvention n'atteint pas respectivement 40'000 francs ou 12'000 francs ne sont pas subventionnées.
 
 <sup>2</sup> Toutefois, pour les constructions rurales il n'est pas versé de subvention lorsque le montant de celle-ci est inférieur à 12'000 francs.
+
+<sup>3</sup> Les montants minimaux de la subvention et des coûts subventionnables prévus aux alinéas 1 et 2 ne s'appliquent pas aux mesures de construction ni aux installations qui contribuent à réaliser les objectifs relevant de la protection de l'environnement ou à remplir les exigences de la protection du patrimoine et du paysage.
 
 ## 3 Fonds des améliorations foncières
 

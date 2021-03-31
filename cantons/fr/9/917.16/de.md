@@ -3,13 +3,13 @@ canton: FR
 number: "917.16"
 title: Beschluss über die Kantonsbeiträge an die Bodenverbesserungen
 language: de
-version: 2014-01-01
-valid_until: 2021-03-31
-version_adopted: 2013-11-11
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-03-02
 adopted: 1995-12-19
 in_force: 1996-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/917.16"
-pdf: "https://bdlf.fr.ch/api/de/versions/8566/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8567/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8566/pdf_file"
 
 Bodenverbesserungen, Kantonsbeiträge – B
 
-vom 19.12.1995 (Fassung in Kraft getreten am 01.01.2014)
+vom 19.12.1995 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -108,6 +108,8 @@ beschliesst:
 <sup>1</sup> An die von einem einzigen Eigentümer realisierten Bodenverbesserungsunternehmen, deren anrechenbare Kosten auf unter 20'000 Franken veranschlagt werden bzw. deren Beitrag auf unter 6000 Franken veranschlagt wird, sowie an die von mehreren Eigentümern, einer Bodenverbesserungskörperschaft oder mehreren Gemeinden realisierten Unternehmen, deren beitragsberechtigte Kosten auf unter 40'000 Franken veranschlagt werden bzw. deren Beitrag auf unter 12'000 Franken veranschlagt wird, werden keine Beiträge ausgerichtet.
 
 <sup>2</sup> Für landwirtschaftliche Hochbauten werden jedoch keine Beiträge unter 12'000 Franken gewährt.
+
+<sup>3</sup> Die Minimalbeträge nach Absatz 1 und 2 der Beiträge und der anrechenbaren Kosten gelten nicht für bauliche Massnahmen und Einrichtungen, mit denen ökologische Ziele verwirklicht und Anforderungen des Heimat- und Landschaftsschutzes erfüllt werden.
 
 ## 3 Fonds für Bodenverbesserungen
 
