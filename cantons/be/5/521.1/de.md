@@ -4,13 +4,13 @@ number: "521.1"
 title: Kantonales Bevölkerungsschutz- und Zivilschutzgesetz
 short: KBZG
 language: de
-version: 2015-01-01
-valid_until: 2021-03-31
-version_adopted: 2014-03-19
+version: 2021-04-01
+valid_until: 2024-03-31
+version_adopted: 2021-02-24
 adopted: 2024-09-11
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/521.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/790/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2228/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/790/pdf_file"
 
 (KBZG)
 
-vom 19.03.2014 (Stand 01.01.2015)
+vom 19.03.2014 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -173,7 +173,7 @@ beschliesst:
 - b Notfallplanungen,
 - c die Bereithaltung und Koordination von Material und Infrastrukturen durch alle Partnerorganisationen.
 
-<sup>2</sup> Die zuständige Stelle der Polizei- und Militärdirektion koordiniert die Vorbereitungsmassnahmen.
+<sup>2</sup> Die zuständige Stelle der Sicherheitsdirektion koordiniert die Vorbereitungsmassnahmen.
 
 <sup>3</sup> Der Kanton kann finanzielle Beiträge an die Erstellung der Notfallplanungen leisten. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
 
@@ -181,7 +181,7 @@ beschliesst:
 
 **Alarmierung**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion ist im Bereich der Alarmierung zuständig für die Beschallungsplanung und für die Koordination der Beschaffung der Sirenenanlagen nach den Vorgaben des Bundes.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion ist im Bereich der Alarmierung zuständig für die Beschallungsplanung und für die Koordination der Beschaffung der Sirenenanlagen nach den Vorgaben des Bundes.
 
 <sup>2</sup> Die Gemeinden sind zuständig für die Alarmierung der Bevölkerung gemäss den Vorgaben des Kantons.
 
@@ -259,7 +259,7 @@ beschliesst:
 
 <sup>2</sup> Sie erfüllen bei Katastrophen, in Notlagen und bei Grossereignissen Führungs- und Koordinationsaufgaben in ihrem Zuständigkeitsbereich.
 
-<sup>3</sup> Sie überprüfen periodisch die Vorbereitungen und die Einsatzbereitschaft der kommunalen Führungsorgane und Einsatzformationen sowie der Alarmstellen der Gemeinden nach den Vorgaben und in Zusammenarbeit mit der zuständigen Stelle der Polizei- und Militärdirektion.
+<sup>3</sup> Sie überprüfen periodisch die Vorbereitungen und die Einsatzbereitschaft der kommunalen Führungsorgane und Einsatzformationen sowie der Alarmstellen der Gemeinden nach den Vorgaben und in Zusammenarbeit mit der zuständigen Stelle der Sicherheitsdirektion.
 
 #### Art. 21
 
@@ -283,7 +283,7 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Die Gemeinden ermitteln periodisch das vorhandene Gefahren- und Gefährdungspotenzial nach den Vorgaben der zuständigen Stelle der Polizei- und Militärdirektion.
+<sup>1</sup> Die Gemeinden ermitteln periodisch das vorhandene Gefahren- und Gefährdungspotenzial nach den Vorgaben der zuständigen Stelle der Sicherheitsdirektion.
 
 <sup>2</sup> Sie treffen die erforderlichen Vorbereitungsmassnahmen gemäss Artikel 13 und stellen die Mittel zur Ereignisbewältigung bereit.
 
@@ -313,7 +313,7 @@ beschliesst:
 
 <sup>1</sup> Mehrere Gemeinden können innerhalb eines Verwaltungskreises gemeinsam ein regionales Führungsorgan (RFO) bilden.
 
-<sup>2</sup> Die Bildung eines RFO, das Gemeinden verschiedener Verwaltungskreise umfasst, erfordert die vorgängige Bewilligung der Polizei- und Militärdirektion.
+<sup>2</sup> Die Bildung eines RFO, das Gemeinden verschiedener Verwaltungskreise umfasst, erfordert die vorgängige Bewilligung der Sicherheitsdirektion.
 
 #### Art. 26
 
@@ -368,7 +368,7 @@ beschliesst:
 
 <sup>1</sup> Der KSD koordiniert bei Katastrophen, in Notlagen und bei Grossereignissen die eingesetzten sanitätsdienstlichen Mittel des öffentlichen Gesundheitswesens, privater Organisationen und des Bundes.
 
-<sup>2</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion leitet den KSD und ordnet die notwendigen Massnahmen an. Artikel 31 bleibt vorbehalten.
+<sup>2</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion leitet den KSD und ordnet die notwendigen Massnahmen an. Artikel 31 bleibt vorbehalten.
 
 #### Art. 31
 
@@ -382,7 +382,7 @@ beschliesst:
 
 <sup>2</sup> Er kann den Kanton in sanitätsdienstliche Räume unterteilen.
 
-<sup>3</sup> Die zuständige Stelle der Gesundheits- und Fürsorgedirektion legt nach Vorgabe des Bundes und in Absprache mit der zuständigen Stelle der Polizei- und Militärdirektion sowie den Eigentümerinnen und Eigentümern Anzahl, Standorte, Ausrüstung und Betriebsbereitschaft der geschützten sanitätsdienstlichen Einrichtungen fest und regelt deren Unterhalt durch einen Leistungsvertrag.
+<sup>3</sup> Die zuständige Stelle der Gesundheits-, Sozial- und Integrationsdirektion legt nach Vorgabe des Bundes und in Absprache mit der zuständigen Stelle der Sicherheitsdirektion sowie den Eigentümerinnen und Eigentümern Anzahl, Standorte, Ausrüstung und Betriebsbereitschaft der geschützten sanitätsdienstlichen Einrichtungen fest und regelt deren Unterhalt durch einen Leistungsvertrag.
 
 ### 2.4.4 Technische Betriebe
 
@@ -482,7 +482,7 @@ beschliesst:
 
 <sup>1</sup> Die dem Kanton obliegenden Aufgaben werden von den in der Sache zuständigen Direktionen, der Staatskanzlei und den Regierungsstatthalterinnen und Regierungsstatthaltern wahrgenommen.
 
-<sup>2</sup> Die zuständige Stelle der Polizei- und Militärdirektion leitet, koordiniert und beaufsichtigt die Massnahmen der Vollzugsorgane.
+<sup>2</sup> Die zuständige Stelle der Sicherheitsdirektion leitet, koordiniert und beaufsichtigt die Massnahmen der Vollzugsorgane.
 
 <sup>3</sup> Der Regierungsrat kann den zuständigen kantonalen Vollzugsorganen je nach Situation und so lange erforderlich weiteres Personal aus der kantonalen Verwaltung samt Infrastruktur zuteilen.
 
@@ -492,7 +492,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden bezeichnen eine zuständige Stelle und legen deren Organisation nach den Vorgaben des Kantons fest.
 
-<sup>2</sup> Sie bereiten auf Anweisung der zuständigen Stelle der Polizei- und Militärdirektion den Bewirtschaftungsfall vor.
+<sup>2</sup> Sie bereiten auf Anweisung der zuständigen Stelle der Sicherheitsdirektion den Bewirtschaftungsfall vor.
 
 #### Art. 43
 
@@ -518,7 +518,7 @@ beschliesst:
 
 <sup>2</sup> Bei Katastrophen, in Notlagen und bei Grossereignissen dient das kantonale Sicherheitskommunikationsnetz vor allem den Bedürfnissen der Partnerorganisationen und der Verwaltung von Kanton, Verwaltungskreisen und Gemeinden.
 
-<sup>3</sup> Die Benützerinnen und Benützer stellen das erforderliche Bedienungspersonal für die Kommunikationsmittel sicher und sorgen nach den Richtlinien der zuständigen Stelle der Polizei- und Militärdirektion für die fachliche Ausbildung.
+<sup>3</sup> Die Benützerinnen und Benützer stellen das erforderliche Bedienungspersonal für die Kommunikationsmittel sicher und sorgen nach den Richtlinien der zuständigen Stelle der Sicherheitsdirektion für die fachliche Ausbildung.
 
 #### Art. 46
 
@@ -540,19 +540,19 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden bilden eigene oder regionale Zivilschutzorganisationen.
 
-<sup>2</sup> Die Zivilschutzorganisationen umfassen mindestens 11 000 Einwohnerinnen und Einwohner mit mindestens 80 aktiv eingeteilten Schutzdienstpflichtigen.
+<sup>2</sup> Die Zivilschutzorganisationen umfassen mindestens 11'000 Einwohnerinnen und Einwohner mit mindestens 80 aktiv eingeteilten Schutzdienstpflichtigen.
 
 <sup>3</sup> Der Regierungsrat legt die Standardstruktur fest.
 
 <sup>4</sup> Regionale Zivilschutzorganisationen haben die Grenzen der Verwaltungskreise einzuhalten.
 
-<sup>5</sup> In besonderen Fällen kann die Polizei- und Militärdirektion Ausnahmen bewilligen.
+<sup>5</sup> In besonderen Fällen kann die Sicherheitsdirektion Ausnahmen bewilligen.
 
 #### Art. 48
 
 **Kantonale Formation**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion bildet kantonale Formationen für besondere, in der Zuständigkeit des Kantons liegende Aufgaben.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion bildet kantonale Formationen für besondere, in der Zuständigkeit des Kantons liegende Aufgaben.
 
 #### Art. 49
 
@@ -560,15 +560,15 @@ beschliesst:
 
 <sup>1</sup> Alle Schutzdienstpflichtigen werden anlässlich der Rekrutierung durch den Bund einer Grundfunktion zugeteilt und in diejenige Zivilschutzorganisation eingeteilt, der ihre Wohngemeinde angehört.
 
-<sup>2</sup> Personen, die eingebürgert werden und bei der Einbürgerung älter als 25 Jahre sind, werden von den Gemeinden der zuständigen Stelle der Polizei- und Militärdirektion zur Rekrutierung gemeldet.
+<sup>2</sup> Personen, die eingebürgert werden und bei der Einbürgerung älter als 25 Jahre sind, werden von den Gemeinden der zuständigen Stelle der Sicherheitsdirektion zur Rekrutierung gemeldet.
 
 <sup>3</sup> Die Zivilschutzorganisation entscheidet je nach Bedarf über die Einteilung zur Dienstleistung in der eigenen Zivilschutzorganisation bzw. über die direkte Einteilung in die nicht ausgebildete Reserve oder auf Ersuchen hin über die Einteilung zur Dienstleistung in einer benachbarten Zivilschutzorganisation.
 
-<sup>4</sup> Gegen den Entscheid der Zivilschutzorganisation kann beim zuständigen Gemeindeorgan und gegen dessen Entscheid bei der Polizei- und Militärdirektion Beschwerde geführt werden. Diese entscheidet kantonal letztinstanzlich.
+<sup>4</sup> Gegen den Entscheid der Zivilschutzorganisation kann beim zuständigen Gemeindeorgan und gegen dessen Entscheid bei der Sicherheitsdirektion Beschwerde geführt werden. Diese entscheidet kantonal letztinstanzlich.
 
-<sup>5</sup> Die zuständige Stelle der Polizei- und Militärdirektion entscheidet über die Einteilung in die kantonalen Formationen.
+<sup>5</sup> Die zuständige Stelle der Sicherheitsdirektion entscheidet über die Einteilung in die kantonalen Formationen.
 
-<sup>6</sup> Die zuständige Stelle der Polizei- und Militärdirektion und die Gemeinden führen die Kontrolle über die bei ihnen eingeteilten Schutzdienstpflichtigen.
+<sup>6</sup> Die zuständige Stelle der Sicherheitsdirektion und die Gemeinden führen die Kontrolle über die bei ihnen eingeteilten Schutzdienstpflichtigen.
 
 #### Art. 50
 
@@ -578,21 +578,21 @@ beschliesst:
 
 <sup>2</sup> Die Zivilschutzorganisation entscheidet über die vorzeitige Einteilung in die ausgebildete Reserve.
 
-<sup>3</sup> Die zuständige Stelle der Polizei- und Militärdirektion entscheidet aufgrund der bundesrechtlichen Vorgaben auf Ersuchen hin über die Befreiung von der Schutzdienstpflicht zugunsten einer Partnerorganisation.
+<sup>3</sup> Die zuständige Stelle der Sicherheitsdirektion entscheidet aufgrund der bundesrechtlichen Vorgaben auf Ersuchen hin über die Befreiung von der Schutzdienstpflicht zugunsten einer Partnerorganisation.
 
 #### Art. 51
 
 **Freiwilliger Schutzdienst**
 
-<sup>1</sup> Über den freiwilligen Schutzdienst entscheiden nach Massgabe des Bedarfs die Zivilschutzorganisationen der Gemeinden und für Dienstleistungen in den kantonalen Formationen die zuständige Stelle der Polizei- und Militärdirektion.
+<sup>1</sup> Über den freiwilligen Schutzdienst entscheiden nach Massgabe des Bedarfs die Zivilschutzorganisationen der Gemeinden und für Dienstleistungen in den kantonalen Formationen die zuständige Stelle der Sicherheitsdirektion.
 
 ### 3.2 Zuständigkeiten
 
 #### Art. 52
 
-**Polizei- und Militärdirektion**
+**Sicherheitsdirektion**
 
-<sup>1</sup> Der zuständigen Stelle der Polizei- und Militärdirektion obliegen der Vollzug des Zivilschutzes, dessen Systemsteuerung und das Controlling.
+<sup>1</sup> Der zuständigen Stelle der Sicherheitsdirektion obliegen der Vollzug des Zivilschutzes, dessen Systemsteuerung und das Controlling.
 
 #### Art. 53
 
@@ -622,19 +622,19 @@ beschliesst:
 
 **2. Instandstellungsarbeiten**
 
-<sup>1</sup> Instandstellungsarbeiten erfordern eine vorgängige Bewilligung der zuständigen Stelle der Polizei- und Militärdirektion.
+<sup>1</sup> Instandstellungsarbeiten erfordern eine vorgängige Bewilligung der zuständigen Stelle der Sicherheitsdirektion.
 
 <sup>2</sup> Sie werden auf 21 Tage pro Jahr und Schutzdienstleistenden beschränkt.
 
 <sup>3</sup> Der Zivilschutz darf während dreier Jahre nach einem Ereignis für dessen Instandstellungsarbeiten eingesetzt werden.
 
-<sup>4</sup> Die zeitliche Obergrenze nach Absatz 2 und die Frist nach Absatz 3 können unter Berücksichtigung der Vorgaben des Bundes in Ausnahmefällen verlängert werden. Über Ausnahmen entscheidet die zuständige Stelle der Polizei- und Militärdirektion.
+<sup>4</sup> Die zeitliche Obergrenze nach Absatz 2 und die Frist nach Absatz 3 können unter Berücksichtigung der Vorgaben des Bundes in Ausnahmefällen verlängert werden. Über Ausnahmen entscheidet die zuständige Stelle der Sicherheitsdirektion.
 
 #### Art. 57
 
 **3. Einsätze zugunsten der Gemeinschaft**
 
-<sup>1</sup> Einsätze zugunsten der Gemeinschaft erfordern eine vorgängige Bewilligung der zuständigen Stelle der Polizei- und Militärdirektion.
+<sup>1</sup> Einsätze zugunsten der Gemeinschaft erfordern eine vorgängige Bewilligung der zuständigen Stelle der Sicherheitsdirektion.
 
 <sup>2</sup> Die Dauer der Einsätze zugunsten der Gemeinschaft wird wie folgt festgelegt:
 
@@ -667,7 +667,7 @@ beschliesst:
 
 <sup>3</sup> Personen, die eingebürgert werden und bei der Einbürgerung älter als 25 Jahre sind, absolvieren die Grundausbildung bis spätestens zum Ende des Jahres, in dem sie 30 Jahre alt werden.
 
-<sup>4</sup> Personen, die freiwillig Schutzdienst leisten, absolvieren die Grundausbildung innerhalb von drei Jahren nach der Rekrutierung. Verfügt eine Person bereits über eine gleichwertige Ausbildung, so bestimmt die zuständige Stelle der Polizei- und Militärdirektion, ob sie die Grundausbildung absolvieren muss.
+<sup>4</sup> Personen, die freiwillig Schutzdienst leisten, absolvieren die Grundausbildung innerhalb von drei Jahren nach der Rekrutierung. Verfügt eine Person bereits über eine gleichwertige Ausbildung, so bestimmt die zuständige Stelle der Sicherheitsdirektion, ob sie die Grundausbildung absolvieren muss.
 
 #### Art. 60
 
@@ -675,7 +675,7 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen der Vorgaben des Bundes nach Artikel 33 bis 38 BZG sind die Gemeinden zuständig für die Durchführung der Grund-, Zusatz- und Kaderausbildung sowie für die Wiederholungskurse der Schutzdienstpflichtigen.
 
-<sup>2</sup> Im gleichen Rahmen ist die zuständige Stelle der Polizei- und Militärdirektion für die Ausbildung der Angehörigen der kantonalen Formationen, für Teile der Ausbildung der Kommandantinnen und Kommandanten und für die Weiterbildung der Schutzdienstpflichtigen gemäss Artikel 35 Absatz 2 BZG zuständig.
+<sup>2</sup> Im gleichen Rahmen ist die zuständige Stelle der Sicherheitsdirektion für die Ausbildung der Angehörigen der kantonalen Formationen, für Teile der Ausbildung der Kommandantinnen und Kommandanten und für die Weiterbildung der Schutzdienstpflichtigen gemäss Artikel 35 Absatz 2 BZG zuständig.
 
 #### Art. 61
 
@@ -729,7 +729,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden beschaffen das Einsatzmaterial und die persönliche Ausrüstung der Schutzdienstleistenden.
 
-<sup>2</sup> Die zuständige Stelle der Polizei- und Militärdirektion unterstützt die Gemeinden bei der Evaluation des Materials und koordiniert die Beschaffung im Hinblick auf die Interoperabilität.
+<sup>2</sup> Die zuständige Stelle der Sicherheitsdirektion unterstützt die Gemeinden bei der Evaluation des Materials und koordiniert die Beschaffung im Hinblick auf die Interoperabilität.
 
 <sup>3</sup> Sie beschafft das für die kantonalen Formationen benötigte Material.
 
@@ -753,9 +753,9 @@ beschliesst:
 
 #### Art. 68
 
-**Aufgaben der Polizei- und Militärdirektion**
+**Aufgaben der Sicherheitsdirektion**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion ist zuständig für die Steuerung und das Controlling im Bereich des Kulturgüterschutzes.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion ist zuständig für die Steuerung und das Controlling im Bereich des Kulturgüterschutzes.
 
 #### Art. 69
 
@@ -767,15 +767,15 @@ beschliesst:
 
 #### Art. 70
 
-**Aufgaben der Polizei- und Militärdirektion**
+**Aufgaben der Sicherheitsdirektion**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion vollzieht die Steuerung des Schutzraumbaus nach den Vorgaben des Bundes, ist zuständig für das Inkasso der Ersatzbeiträge und führt als Spezialfinanzierung den Ersatzbeitragsfonds gemäss Artikel 47 BZG.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion vollzieht die Steuerung des Schutzraumbaus nach den Vorgaben des Bundes, ist zuständig für das Inkasso der Ersatzbeiträge und führt als Spezialfinanzierung den Ersatzbeitragsfonds gemäss Artikel 47 BZG.
 
 #### Art. 71
 
 **Aufgaben der Gemeinden**
 
-<sup>1</sup> Die Gemeinden führen die periodische Schutzraumkontrolle gemäss den Vorgaben von Bund und Kanton durch und reichen das Ergebnis bei der zuständigen Stelle der Polizei- und Militärdirektion gemäss deren Vorgaben ein.
+<sup>1</sup> Die Gemeinden führen die periodische Schutzraumkontrolle gemäss den Vorgaben von Bund und Kanton durch und reichen das Ergebnis bei der zuständigen Stelle der Sicherheitsdirektion gemäss deren Vorgaben ein.
 
 <sup>2</sup> Sie erstellen die Zuweisungsplanung gemäss den Vorgaben von Bund und Kanton.
 
@@ -795,7 +795,7 @@ beschliesst:
 
 **Höhe der Ersatzbeiträge**
 
-<sup>1</sup> Für jeden nicht erstellten Schutzplatz ist ein Ersatzbeitrag zu leisten. Der Regierungsrat legt dessen Höhe im Rahmen der bundesrechtlichen Vorgaben durch Verordnung fest. Er kann seine Befugnisse an die Polizei- und Militärdirektion übertragen.
+<sup>1</sup> Für jeden nicht erstellten Schutzplatz ist ein Ersatzbeitrag zu leisten. Der Regierungsrat legt dessen Höhe im Rahmen der bundesrechtlichen Vorgaben durch Verordnung fest. Er kann seine Befugnisse an die Sicherheitsdirektion übertragen.
 
 #### Art. 74
 
@@ -803,7 +803,7 @@ beschliesst:
 
 <sup>1</sup> Die Ersatzbeiträge sind nach erfolgter Schnurgerüstabnahme gemäss den Vorschriften der Baugesetzgebung zu entrichten.
 
-<sup>2</sup> Die Gemeinden melden der zuständigen Stelle der Polizei- und Militärdirektion den Vollzug der Schnurgerüstabnahme.
+<sup>2</sup> Die Gemeinden melden der zuständigen Stelle der Sicherheitsdirektion den Vollzug der Schnurgerüstabnahme.
 
 #### Art. 75
 
@@ -811,7 +811,7 @@ beschliesst:
 
 <sup>1</sup> Sämtliche Ersatzbeiträge fliessen in den Ersatzbeitragsfonds des Kantons.
 
-<sup>2</sup> Die Verwendung der Ersatzbeiträge wird gemäss den Vorgaben des Bundes durch den Regierungsrat geregelt. Dieser kann seine Befugnisse an die Polizei- und Militärdirektion übertragen.
+<sup>2</sup> Die Verwendung der Ersatzbeiträge wird gemäss den Vorgaben des Bundes durch den Regierungsrat geregelt. Dieser kann seine Befugnisse an die Sicherheitsdirektion übertragen.
 
 <sup>3</sup> Die durch die Verwaltung des Ersatzbeitragsfonds entstehenden Kosten gehen zulasten dieser Spezialfinanzierung.
 
@@ -823,7 +823,7 @@ beschliesst:
 
 **Gemeinsame Schutzräume**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion kann anordnen, dass die für einzelne Gebäude zu erstellenden Schutzplätze bei Neubauten zu gemeinsamen Schutzräumen zusammengelegt werden.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion kann anordnen, dass die für einzelne Gebäude zu erstellenden Schutzplätze bei Neubauten zu gemeinsamen Schutzräumen zusammengelegt werden.
 
 <sup>2</sup> Für jedes einzelne Gebäude ist vor dessen Baubeginn eine Sicherheitsleistung im Umfang des Ersatzbeitrags zu entrichten.
 
@@ -843,7 +843,7 @@ beschliesst:
 
 **Schutzanlagen**
 
-<sup>1</sup> Die zuständige Stelle der Polizei- und Militärdirektion legt nach den Vorgaben des Bundes den Bedarf an Schutzanlagen fest.
+<sup>1</sup> Die zuständige Stelle der Sicherheitsdirektion legt nach den Vorgaben des Bundes den Bedarf an Schutzanlagen fest.
 
 <sup>2</sup> Sie sorgt für die Erstellung, die Ausrüstung, den Unterhalt und die Erneuerung der kantonseigenen Schutzanlagen.
 

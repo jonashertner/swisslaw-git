@@ -4,13 +4,13 @@ number: "521.1"
 title: Loi cantonale sur la protection de la population et sur la protection civile
 short: LCPPCi
 language: fr
-version: 2015-01-01
-valid_until: 2021-03-31
-version_adopted: 2014-03-19
+version: 2021-04-01
+valid_until: 2024-03-31
+version_adopted: 2021-02-24
 adopted: 2024-09-11
 in_force: 2026-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/521.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/790/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2228/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/790/pdf_file"
 
 (LCPPCi)
 
-du 19.03.2014 (état au 01.01.2015)
+du 19.03.2014 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -173,7 +173,7 @@ arrête:
 - b l’établissement de plans d’urgence,
 - c la mise à disposition et la coordination, par toutes les organisations partenaires, du matériel et des infrastructures nécessaires.
 
-<sup>2</sup> Le service compétent de la Direction de la police et des affaires militaires coordonne les mesures préparatoires.
+<sup>2</sup> Le service compétent de la Direction de la sécurité coordonne les mesures préparatoires.
 
 <sup>3</sup> Le canton peut apporter une contribution financière à l’élaboration de plans d’urgence. Le Conseil-exécutif règle les détails par voie d’ordonnance.
 
@@ -181,7 +181,7 @@ arrête:
 
 **Alarme**
 
-<sup>1</sup> Pour l’alarme, le service compétent de la Direction de la police et des affaires militaires établit le plan de sonorisation et coordonne l’acquisition des sirènes conformément aux prescriptions fédérales.
+<sup>1</sup> Pour l’alarme, le service compétent de la Direction de la sécurité établit le plan de sonorisation et coordonne l’acquisition des sirènes conformément aux prescriptions fédérales.
 
 <sup>2</sup> Les communes assurent la transmission de l’alarme à la population conformément aux prescriptions cantonales.
 
@@ -259,7 +259,7 @@ arrête:
 
 <sup>2</sup> En cas de catastrophe, de situation d’urgence ou d’événement majeur, il ou elle accomplit les tâches de conduite et de coordination qui entrent dans son domaine de compétence.
 
-<sup>3</sup> Il ou elle vérifie périodiquement la préparation et la capacité d’engagement des OCCne, des formations d’engagement communales et des postes d’alarme des communes, selon les prescriptions du service compétent de la Direction de la police et des affaires militaires et en collaboration avec elle.
+<sup>3</sup> Il ou elle vérifie périodiquement la préparation et la capacité d’engagement des OCCne, des formations d’engagement communales et des postes d’alarme des communes, selon les prescriptions du service compétent de la Direction de la sécurité et en collaboration avec elle.
 
 #### Art. 21
 
@@ -283,7 +283,7 @@ arrête:
 
 **Tâches**
 
-<sup>1</sup> La commune recense périodiquement les risques et les dangers potentiels, selon les prescriptions du service compétent de la Direction de la police et des affaires militaires.
+<sup>1</sup> La commune recense périodiquement les risques et les dangers potentiels, selon les prescriptions du service compétent de la Direction de la sécurité.
 
 <sup>2</sup> Elle prend les mesures préparatoires nécessaires conformément à l’article 13 et met en place les moyens requis pour faire face aux événements.
 
@@ -313,7 +313,7 @@ arrête:
 
 <sup>1</sup> Plusieurs communes d’un même arrondissement administratif peuvent créer ensemble un organe de conduite régional (OCRég).
 
-<sup>2</sup> La création d’un OCRég impliquant des communes de différents arrondissements administratifs requiert l’accord préalable de la Direction de la police et des affaires militaires.
+<sup>2</sup> La création d’un OCRég impliquant des communes de différents arrondissements administratifs requiert l’accord préalable de la Direction de la sécurité.
 
 #### Art. 26
 
@@ -368,7 +368,7 @@ arrête:
 
 <sup>1</sup> Le Service sanitaire coordonné assure, en cas de catastrophe, en situation d’urgence ou lors d’événement majeur, la coordination des moyens sanitaires engagés par le service public, les organisations privées et la Confédération.
 
-<sup>2</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale dirige le Service sanitaire coordonné et ordonne les mesures requises. L’article 31 est réservé.
+<sup>2</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration dirige le Service sanitaire coordonné et ordonne les mesures requises. L’article 31 est réservé.
 
 #### Art. 31
 
@@ -382,7 +382,7 @@ arrête:
 
 <sup>2</sup> Il peut diviser le canton en secteurs du service sanitaire.
 
-<sup>3</sup> Le service compétent de la Direction de la santé publique et de la prévoyance sociale fixe, conformément aux prescriptions fédérales et d’entente avec le service compétent de la Direction de la police et des affaires militaires ainsi qu’avec les propriétaires, le nombre, l’emplacement, l’équipement et le degré de préparation des installations protégées du service sanitaire, et règle leur entretien par contrat de prestations.
+<sup>3</sup> Le service compétent de la Direction de la santé, des affaires sociales et de l’intégration fixe, conformément aux prescriptions fédérales et d’entente avec le service compétent de la Direction de la sécurité ainsi qu’avec les propriétaires, le nombre, l’emplacement, l’équipement et le degré de préparation des installations protégées du service sanitaire, et règle leur entretien par contrat de prestations.
 
 ### 2.4.4 Services techniques
 
@@ -482,7 +482,7 @@ arrête:
 
 <sup>1</sup> Les tâches qui incombent au canton sont assumées par les Directions compétentes en la matière, par la Chancellerie d’Etat et par les préfets et préfètes.
 
-<sup>2</sup> Le service compétent de la Direction de la police et des affaires militaires dirige, coordonne et surveille les mesures adoptées par les organes d’exécution.
+<sup>2</sup> Le service compétent de la Direction de la sécurité dirige, coordonne et surveille les mesures adoptées par les organes d’exécution.
 
 <sup>3</sup> Le Conseil-exécutif peut, en fonction de la situation et aussi longtemps que nécessaire, attribuer aux organes d’exécution cantonaux compétents du personnel de l’administration cantonale avec son infrastructure.
 
@@ -492,7 +492,7 @@ arrête:
 
 <sup>1</sup> Les communes désignent un organe compétent et en fixent l’organisation selon les prescriptions cantonales.
 
-<sup>2</sup> Sur injonction du service compétent de la Direction de la police et des affaires militaires, elles prennent les mesures qui s’imposent pour préparer l’approvisionnement économique.
+<sup>2</sup> Sur injonction du service compétent de la Direction de la sécurité, elles prennent les mesures qui s’imposent pour préparer l’approvisionnement économique.
 
 #### Art. 43
 
@@ -518,7 +518,7 @@ arrête:
 
 <sup>2</sup> En cas de catastrophe, en situation d’urgence ou lors d’événement majeur, le réseau cantonal de communications sécurisées sert en premier lieu aux besoins des organisations partenaires et administratives du canton, des arrondissements administratifs et des communes.
 
-<sup>3</sup> Les utilisateurs et utilisatrices garantissent la disponibilité du personnel assurant le fonctionnement des moyens de communication et se chargent de la formation technique, conformément aux directives du service compétent de la Direction de la police et des affaires militaires.
+<sup>3</sup> Les utilisateurs et utilisatrices garantissent la disponibilité du personnel assurant le fonctionnement des moyens de communication et se chargent de la formation technique, conformément aux directives du service compétent de la Direction de la sécurité.
 
 #### Art. 46
 
@@ -540,19 +540,19 @@ arrête:
 
 <sup>1</sup> Les communes créent leur propre organisation de protection civile, ou des organisations régionales de protection civile.
 
-<sup>2</sup> Ces organisations couvrent un bassin de population de 11 000 habitants au moins chacune et comprennent au moins 80 personnes astreintes, incorporées et actives.
+<sup>2</sup> Ces organisations couvrent un bassin de population de 11'000 habitants au moins chacune et comprennent au moins 80 personnes astreintes, incorporées et actives.
 
 <sup>3</sup> Le Conseil-exécutif détermine la structure de base.
 
 <sup>4</sup> Les organisations régionales respectent les limites des arrondissements administratifs.
 
-<sup>5</sup> La Direction de la police et des affaires militaires peut autoriser des dérogations dans des cas particuliers.
+<sup>5</sup> La Direction de la sécurité peut autoriser des dérogations dans des cas particuliers.
 
 #### Art. 48
 
 **Formations cantonales**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires met sur pied des formations cantonales pour accomplir les tâches spéciales qui incombent au canton.
+<sup>1</sup> Le service compétent de la Direction de la sécurité met sur pied des formations cantonales pour accomplir les tâches spéciales qui incombent au canton.
 
 #### Art. 49
 
@@ -560,15 +560,15 @@ arrête:
 
 <sup>1</sup> Lors du recrutement auquel elle procède, la Confédération affecte les personnes astreintes au service à une fonction de base et les incorpore à l’organisation de protection civile à laquelle leur commune de domicile est affiliée.
 
-<sup>2</sup> Les personnes qui, au moment de leur naturalisation, sont âgées de plus de 25 ans sont annoncées par la commune au service compétent de la Direction de la police et des affaires militaires en vue du recrutement.
+<sup>2</sup> Les personnes qui, au moment de leur naturalisation, sont âgées de plus de 25 ans sont annoncées par la commune au service compétent de la Direction de la sécurité en vue du recrutement.
 
 <sup>3</sup> Selon ses besoins, l’organisation de protection civile décide de les incorporer en son sein, ou directement dans la réserve non formée, ou encore, sur demande, dans une organisation voisine.
 
-<sup>4</sup> La décision de l’organisation de protection civile peut faire l’objet d’un recours devant l’organe communal compétent; la décision sur recours rendue par ce dernier peut être contestée devant la Direction de la police et des affaires militaires, qui statue en qualité de dernière instance cantonale.
+<sup>4</sup> La décision de l’organisation de protection civile peut faire l’objet d’un recours devant l’organe communal compétent; la décision sur recours rendue par ce dernier peut être contestée devant la Direction de la sécurité, qui statue en qualité de dernière instance cantonale.
 
-<sup>5</sup> Le service compétent de la Direction de la police et des affaires militaires décide de l’incorporation dans les formations cantonales.
+<sup>5</sup> Le service compétent de la Direction de la sécurité décide de l’incorporation dans les formations cantonales.
 
-<sup>6</sup> Le service compétent de la Direction de la police et des affaires militaires et les communes tiennent le contrôle des personnes astreintes qui leur sont attribuées.
+<sup>6</sup> Le service compétent de la Direction de la sécurité et les communes tiennent le contrôle des personnes astreintes qui leur sont attribuées.
 
 #### Art. 50
 
@@ -578,21 +578,21 @@ arrête:
 
 <sup>2</sup> L’organisation de protection civile décide d’un transfert anticipé dans la réserve formée.
 
-<sup>3</sup> Le service compétent de la Direction de la police et des affaires militaires statue, sur la base des prescriptions du droit fédéral, sur les demandes de libération de service au profit d’une organisation partenaire.
+<sup>3</sup> Le service compétent de la Direction de la sécurité statue, sur la base des prescriptions du droit fédéral, sur les demandes de libération de service au profit d’une organisation partenaire.
 
 #### Art. 51
 
 **Volontariat**
 
-<sup>1</sup> Pour le service volontaire, la décision est rendue par l’organisation de protection civile de la commune en fonction des besoins, ou par le service compétent de la Direction de la police et des affaires militaires dans le cas du service dans les formations cantonales.
+<sup>1</sup> Pour le service volontaire, la décision est rendue par l’organisation de protection civile de la commune en fonction des besoins, ou par le service compétent de la Direction de la sécurité dans le cas du service dans les formations cantonales.
 
 ### 3.2 Compétences
 
 #### Art. 52
 
-**Direction de la police et des affaires militaires**
+**Direction de la sécurité**
 
-<sup>1</sup> L’exécution de la protection civile, le pilotage du système et le controlling incombent au service compétent de la Direction de la police et des affaires militaires.
+<sup>1</sup> L’exécution de la protection civile, le pilotage du système et le controlling incombent au service compétent de la Direction de la sécurité.
 
 #### Art. 53
 
@@ -622,19 +622,19 @@ arrête:
 
 **2. Travaux de remise en état**
 
-<sup>1</sup> Les travaux de remise en état requièrent l’autorisation du service compétent de la Direction de la police et des affaires militaires.
+<sup>1</sup> Les travaux de remise en état requièrent l’autorisation du service compétent de la Direction de la sécurité.
 
 <sup>2</sup> Ils sont limités à 21 jours par année et par personne astreinte.
 
 <sup>3</sup> La protection civile peut être engagée pour des travaux de remise en état durant les trois années qui suivent un événement.
 
-<sup>4</sup> Dans des situations exceptionnelles et dans le respect des prescriptions fédérales, la durée prévue à l’alinéa 2 et le délai prévu à l’alinéa 3 peuvent être prolongés. Le Service compétent de la Direction de la police et des affaires militaires décide des exceptions.
+<sup>4</sup> Dans des situations exceptionnelles et dans le respect des prescriptions fédérales, la durée prévue à l’alinéa 2 et le délai prévu à l’alinéa 3 peuvent être prolongés. Le Service compétent de la Direction de la sécurité décide des exceptions.
 
 #### Art. 57
 
 **3. Interventions en faveur de la collectivité**
 
-<sup>1</sup> Les interventions en faveur de la collectivité requièrent l’autorisation de la Direction de la police et des affaires militaires.
+<sup>1</sup> Les interventions en faveur de la collectivité requièrent l’autorisation de la Direction de la sécurité.
 
 <sup>2</sup> La durée des interventions en faveur de la collectivité est fixée comme suit:
 
@@ -667,7 +667,7 @@ arrête:
 
 <sup>3</sup> Les personnes qui, au moment de leur naturalisation, sont âgées de plus de 25 ans accomplissent l’instruction de base au plus tard à la fin de l’année de leurs 30 ans révolus.
 
-<sup>4</sup> Les personnes qui accomplissent un service volontaire doivent achever l’instruction de base dans les trois ans suivant le recrutement. Si une personne dispose déjà d’une formation similaire, le service compétent de la Direction de la police et des affaires militaires décide si elle peut en être dispensée.
+<sup>4</sup> Les personnes qui accomplissent un service volontaire doivent achever l’instruction de base dans les trois ans suivant le recrutement. Si une personne dispose déjà d’une formation similaire, le service compétent de la Direction de la sécurité décide si elle peut en être dispensée.
 
 #### Art. 60
 
@@ -675,7 +675,7 @@ arrête:
 
 <sup>1</sup> Les communes sont compétentes pour l’organisation de l’instruction de base, de l’instruction complémentaire, de l’instruction des cadres et des cours de répétition des personnes astreintes, dans le cadre prévu par les articles 33 à 38 LPPCi.
 
-<sup>2</sup> Dans le même cadre, le service compétent de la Direction de la police et des affaires militaires est responsable de l’instruction des membres des formations cantonales, pour une partie de la formation des personnes assumant la fonction de commandant, ainsi que pour le perfectionnement des personnes astreintes visées à l’article 35, alinéa 2 LPPCi.
+<sup>2</sup> Dans le même cadre, le service compétent de la Direction de la sécurité est responsable de l’instruction des membres des formations cantonales, pour une partie de la formation des personnes assumant la fonction de commandant, ainsi que pour le perfectionnement des personnes astreintes visées à l’article 35, alinéa 2 LPPCi.
 
 #### Art. 61
 
@@ -729,7 +729,7 @@ arrête:
 
 <sup>1</sup> Les communes fournissent le matériel d’engagement et l’équipement des personnes astreintes.
 
-<sup>2</sup> Le service compétent de la Direction de la police et des affaires militaires soutient les communes lors de l’évaluation du matériel et coordonne l’acquisition en vue de l’interopérabilité.
+<sup>2</sup> Le service compétent de la Direction de la sécurité soutient les communes lors de l’évaluation du matériel et coordonne l’acquisition en vue de l’interopérabilité.
 
 <sup>3</sup> Il acquiert le matériel nécessaire pour les formations cantonales.
 
@@ -753,9 +753,9 @@ arrête:
 
 #### Art. 68
 
-**Tâches de la Direction de la police et des affaires militaires**
+**Tâches de la Direction de la sécurité**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires est responsable du pilotage et du controlling de la protection des biens culturels.
+<sup>1</sup> Le service compétent de la Direction de la sécurité est responsable du pilotage et du controlling de la protection des biens culturels.
 
 #### Art. 69
 
@@ -767,15 +767,15 @@ arrête:
 
 #### Art. 70
 
-**Tâches de la Direction de la police et des affaires militaires**
+**Tâches de la Direction de la sécurité**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires assume la régulation de la construction d’abris dans le cadre des prescriptions fédérales, est responsable de l’encaissement des contributions de remplacement et gère le financement spécial que constitue le fonds des contributions de remplacement au sens de l’article 47 LPPCi.
+<sup>1</sup> Le service compétent de la Direction de la sécurité assume la régulation de la construction d’abris dans le cadre des prescriptions fédérales, est responsable de l’encaissement des contributions de remplacement et gère le financement spécial que constitue le fonds des contributions de remplacement au sens de l’article 47 LPPCi.
 
 #### Art. 71
 
 **Tâches des communes**
 
-<sup>1</sup> Les communes procèdent au contrôle périodique des abris dans le cadre des prescriptions fédérales et cantonales, et en fournissent le résultat au service compétent de la Direction de la police et des affaires militaires selon les directives de celui-ci.
+<sup>1</sup> Les communes procèdent au contrôle périodique des abris dans le cadre des prescriptions fédérales et cantonales, et en fournissent le résultat au service compétent de la Direction de la sécurité selon les directives de celui-ci.
 
 <sup>2</sup> Elles établissent le plan d’affectation, dans le cadre des prescriptions fédérales et cantonales.
 
@@ -795,7 +795,7 @@ arrête:
 
 **Montant de la contribution de remplacement**
 
-<sup>1</sup> Une contribution de remplacement est due pour chaque place protégée manquante. Le Conseil-exécutif en fixe le montant par voie d’ordonnance dans le cadre des prescriptions fédérales. Il peut déléguer cette compétence à la Direction de la police et des affaires militaires.
+<sup>1</sup> Une contribution de remplacement est due pour chaque place protégée manquante. Le Conseil-exécutif en fixe le montant par voie d’ordonnance dans le cadre des prescriptions fédérales. Il peut déléguer cette compétence à la Direction de la sécurité.
 
 #### Art. 74
 
@@ -803,7 +803,7 @@ arrête:
 
 <sup>1</sup> Les contributions de remplacement sont dues dès la réception du banquetage au sens de la législation sur les constructions.
 
-<sup>2</sup> La commune informe le service compétent de la Direction de la police et des affaires militaires de la réception du banquetage.
+<sup>2</sup> La commune informe le service compétent de la Direction de la sécurité de la réception du banquetage.
 
 #### Art. 75
 
@@ -811,7 +811,7 @@ arrête:
 
 <sup>1</sup> Toutes les contributions de remplacement sont versées au fonds des contributions de remplacement du canton.
 
-<sup>2</sup> L’affectation des contributions de remplacement est réglée par le Conseil-exécutif, dans le cadre des prescriptions fédérales. Ce dernier peut déléguer ses compétences à la Direction de la police et des affaires militaires.
+<sup>2</sup> L’affectation des contributions de remplacement est réglée par le Conseil-exécutif, dans le cadre des prescriptions fédérales. Ce dernier peut déléguer ses compétences à la Direction de la sécurité.
 
 <sup>3</sup> Les coûts de gestion du fonds sont à la charge de celui-ci.
 
@@ -823,7 +823,7 @@ arrête:
 
 **Abris communs**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires peut ordonner que les places protégées prescrites, prévues pour de nouveaux bâtiments individuels, soient réunies en abris communs.
+<sup>1</sup> Le service compétent de la Direction de la sécurité peut ordonner que les places protégées prescrites, prévues pour de nouveaux bâtiments individuels, soient réunies en abris communs.
 
 <sup>2</sup> Une sûreté équivalant à la contribution de remplacement doit être versée avant le début de la construction de chaque bâtiment.
 
@@ -843,7 +843,7 @@ arrête:
 
 **Constructions protégées**
 
-<sup>1</sup> Le service compétent de la Direction de la police et des affaires militaires définit les besoins en constructions protégées, dans le cadre des prescriptions fédérales.
+<sup>1</sup> Le service compétent de la Direction de la sécurité définit les besoins en constructions protégées, dans le cadre des prescriptions fédérales.
 
 <sup>2</sup> Il est responsable de la réalisation, de l’équipement, de l’entretien et de la modernisation des constructions protégées appartenant au canton.
 
