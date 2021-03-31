@@ -4,20 +4,20 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210401/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’assicurazione obbligatoria contro la disoccupazione e l’indennità per insolvenza
 
-(Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
+(Ordinanza sull’assicurazione contro la disoccupazione, OADI**[^t-1]**)
 
-del 31 agosto 1983 (Stato 1° gennaio 2021)
+del 31 agosto 1983 (Stato 1° aprile 2021)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -32,7 +32,7 @@ ordina:
 [^ingress-3]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Nuovo testo giusta il n. I dell’O del 2 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Titolo 1: Applicabilità della LPGA ai provvedimenti collettivi inerenti al mercato del lavoro
+## Titolo 1:**** Applicabilità della LPGA ai provvedimenti collettivi inerenti al mercato del lavoro
 
 [^tit1-1]
 
@@ -48,7 +48,7 @@ Sono considerati provvedimenti collettivi inerenti al mercato del lavoro ai sens
 - b. i provvedimenti collettivi di occupazione (art. 64*a* cpv. 1 LADI);
 - c. i provvedimenti collettivi speciali che, in base alla legislazione federale sull’assicurazione contro la disoccupazione, i Cantoni o l’ufficio di compensazione dell’assicurazione contro la disoccupazione prendono a favore delle persone disoccupate o minacciate dalla disoccupazione.
 
-## Titolo 1*a*: Contributi
+## Titolo 1*a*:**** Contributi
 
 [^tit1a-1]
 
@@ -489,7 +489,7 @@ Vi è situazione eccezionale ai sensi dell’articolo 16 capoverso 2 lettera i L
 
 [^17-1]: Nuovo testo giusta il n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### Sezione 2: Consulenza e controllo
+### Sezione 2: Consulenza e controllo****
 
 [^tit2-chap1-sec2-1]
 
@@ -1210,7 +1210,7 @@ Vi è colpa grave se l’assicurato, senza valido motivo:
 <sup>4</sup> e <sup>5</sup> ...[^46-2]
 
 [^46-1]: Nuovo testo giusta il n. I dell’O del 24 nov. 1999, in vigore dal 1° gen. 2000 ([RU 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Abrogati dal n. I dell’O del 26 ago. 2020, con effetto dal 1° set. 2020 al 31 mar. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^46-2]: Abrogati dal n. I dell’O del 26 ago. 2020, con effetto dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 
 #### Art. 46a
 
@@ -1304,7 +1304,7 @@ Il servizio cantonale può dare il suo consenso soltanto se il perfezionamento p
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Nuovo testo giusta il n. I dell’O del 28 mag. 2003, in vigore dal 1° lug. 2003 ([RU 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Abrogato dal n. II dell’O del 20 gen. 2021, con effetto dal 1°sett. 2020 al 31 mar. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^50-2]: Abrogato dal n. II dell’O del 20 gen. 2021, con effetto dal 1°sett. 2020 al 30 giu. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16), [169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 [^50-3]: Introdotto dal n. I dell’O del 19 set. 2003 ([RU 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 al 31 lug. 2017 ([RU 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1435,12 +1435,11 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 ### (art. 35 cpv. 1<sup><sup>bis</sup></sup> LADI)
 
-<sup>1</sup> ...[^57a-2]
+<sup>1</sup> Se, durante il termine quadro, la perdita di lavoro supera l’85 per cento dell’orario normale di lavoro dell’azienda per più di quattro periodi di conteggio consecutivi o singoli, il diritto all’indennità per lavoro ridotto è dato soltanto per i primi quattro periodi di conteggio.
 
 <sup>2</sup> L’orario normale di lavoro dell’azienda è definito nell’articolo 46.
 
 [^57a-1]: Introdotto dal n. I dell’O dell’11 dic. 1995, in vigore dal 1° gen. 1996 ([RU 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^57a-2]: Abrogato dal n. II dell’O del 20 gen. 2021, con effetto dal 1°sett. 2020 al 31 mar. 2021 ([RU 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 57b
 
@@ -1541,7 +1540,7 @@ I contributi padronali all’AVS/AI/IPG/AD per i periodi di perdita di lavoro so
 
 Il reddito conseguito con un’occupazione provvisoria non è computato nel calcolo della perdita di guadagno
 
-[^63-1]: Nuovo testo gisuta il n. I dell’O del 26 ago. 2020, in vigore dal 1° set. 2020 al 31 mar. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^63-1]: Nuovo testo gisuta il n. I dell’O del 26 ago. 2020, in vigore dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 
 #### Art. 64
 
@@ -1826,7 +1825,7 @@ La cassa può proporre procedimenti che le possono provocare spese soltanto con 
 
 <sup>2</sup> La SECO può autorizzare la cassa a rinunciare all’esercizio dei suoi diritti, se l’esigibilità del credito appare dubbia o se sono prevedibili complicazioni oppure spese sproporzionate.
 
-### Capitolo 5: Provvedimenti inerenti al mercato del lavoro
+### Capitolo 5: Provvedimenti inerenti al mercato del lavoro****
 
 [^tit2-chap5-1]
 
@@ -3180,19 +3179,19 @@ L’ordinanza 25 febbraio 1986[^130-2] sui ricorsi delle casse di disoccupazione
 
 [^132-1]: [RU 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Disposizione finale della modifica del 25 aprile 1985
+## Disposizione finale della modifica del 25 aprile 1985****
 
 [^u1-1]
 
 [^u1-1]: [RU 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Abrogata dal n. IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione finale della modifica del 6 novembre 1996
+## Disposizione finale della modifica del 6 novembre 1996****
 
 [^u2-1]
 
 [^u2-1]: [RU 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Abrogata dal n. IV 55 dell’O del 22 ago. 2007 concernente l’aggiornamento formale del diritto federale, con effetto dal 1° gen. 2008 ([RU 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Disposizione transitoria della modifica del 2 marzo 2012
+## Disposizione transitoria della modifica del 2 marzo 2012****
 
 [^u3-1]
 
@@ -3203,7 +3202,7 @@ Per quanto riguarda l’Islanda, il Lichtenstein e la Norvegia, fino all’entra
 [^u3-2]: [RU 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [RS 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Allegato[^t-2]
+Allegato*[^t-2]*
 
 (art. 41*c* cpv. 9)
 

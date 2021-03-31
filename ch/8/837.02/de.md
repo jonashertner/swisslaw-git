@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20210401/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20210101/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. Januar 2021)
+vom 31. August 1983 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -30,7 +30,7 @@ verordnet:
 [^ingress-3]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 2. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1203](https://fedlex.data.admin.ch/eli/oc/2012/179)).
 
-## Erster Titel: Anwendbarkeit des ATSG auf kollektive arbeitsmarktliche Massnahmen
+## Erster Titel:**** Anwendbarkeit des ATSG auf kollektive arbeitsmarktliche Massnahmen
 
 [^tit1-1]
 
@@ -46,7 +46,7 @@ Als kollektive arbeitsmarktliche Massnahmen im Sinne von Artikel 1 Absatz 3 AVIG
 - b. die kollektiven Beschäftigungsmassnahmen (Art. 64*a* Abs. 1 AVIG);
 - c. die besonderen kollektiven Massnahmen der Kantone oder der Ausgleichsstelle der Arbeitslosenversicherung, gestützt auf die Bundesgesetzgebung über die Arbeitslosenversicherung zu Gunsten von arbeitslosen oder von Arbeitslosigkeit bedrohten Personen.
 
-## Titel 1*a*: Beiträge
+## Titel 1*a*:**** Beiträge
 
 [^tit1a-1]
 
@@ -485,7 +485,7 @@ Ausnahmefälle nach Artikel 16 Absatz 2 Buchstabe i AVIG liegen insbesondere vor
 
 [^17-1]: Fassung gemäss Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
 
-### 2. Abschnitt: Beratung und Kontrolle
+### 2. Abschnitt: Beratung und Kontrolle****
 
 [^tit2-chap1-sec2-1]
 
@@ -1134,7 +1134,7 @@ Wird das Arbeitsverhältnis innerhalb eines Jahres zwischen den gleichen Parteie
 
 #### Art. 44
 
-**[^44-1]Selbstverschuldete Arbeitslosigkeit[^44-2]**
+**Selbstverschuldete Arbeitslosigkeit[^44-2]**[^44-1]
 
 ### (Art. 30 Abs. 1 Bst. a AVIG)
 
@@ -1207,7 +1207,7 @@ Ein schweres Verschulden liegt vor, wenn die versicherte Person ohne entschuldba
 <sup>4</sup> und <sup>5</sup> ...[^46-2]
 
 [^46-1]: Fassung gemäss Ziff. I der V vom 24. Nov. 1999, in Kraft seit 1. Jan. 2000 ([AS 2000 174](https://fedlex.data.admin.ch/eli/oc/2000/28)).
-[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 31. März 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^46-2]: Aufgehoben durch Ziff. I der V vom 26. Aug. 2020, mit Wirkung vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 
 #### Art. 46a
 
@@ -1301,7 +1301,7 @@ Als voller Arbeitstag gilt der fünfte Teil der normalen wöchentlichen Arbeitsz
 <sup>3</sup> ...[^50-3]
 
 [^50-1]: Fassung gemäss Ziff. I der V vom 28. Mai 2003, in Kraft seit 1. Juli 2003 ([AS 2003 1828](https://fedlex.data.admin.ch/eli/oc/2003/274)).
-[^50-2]: Aufgehoben durch Ziff. II der V vom 20. Jan. 2021, mit Wirkung vom 1. Sept. 2020 bis zum 31. März 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
+[^50-2]: Aufgehoben durch Ziff. II der V vom 20. Jan. 2021, mit Wirkung vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16), [169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 [^50-3]: Eingefügt durch Ziff. I der V vom 19. Sept. 2003 ([AS 2003 3491](https://fedlex.data.admin.ch/eli/oc/2003/494)). Fassung gemäss Ziff. I der V vom 13. Jan. 2016, in Kraft vom 1. Febr. 2016 bis zum 31. Juli 2017 ([AS 2016 351](https://fedlex.data.admin.ch/eli/oc/2016/47)).
 
 #### Art. 51
@@ -1430,12 +1430,11 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 ### (Art. 35 Abs. 1<sup>bis</sup> AVIG)
 
-<sup>1</sup> ...[^57a-2]
+<sup>1</sup> Überschreitet der Arbeitsausfall innerhalb der Rahmenfrist während mehr als vier zusammenhängenden oder einzelnen Abrechnungsperioden 85 Prozent der normalen betrieblichen Arbeitszeit, besteht nur für die vier ersten Abrechnungsperioden ein Anspruch auf Kurzarbeitsentschädigung.
 
 <sup>2</sup> Die normale betriebliche Arbeitszeit bestimmt sich nach Artikel 46.
 
 [^57a-1]: Eingefügt durch Ziff. I der V vom 11. Dez. 1995, in Kraft seit 1. Jan. 1996 ([AS 1996 295](https://fedlex.data.admin.ch/eli/oc/1996/295_295_295)).
-[^57a-2]: Aufgehoben durch Ziff. II der V vom 20. Jan. 2021, mit Wirkung vom 1. Sept. 2020 bis zum 31. März 2021 ([AS 2021 16](https://fedlex.data.admin.ch/eli/oc/2021/16)).
 
 #### Art. 57b
 
@@ -1536,7 +1535,7 @@ Die auf die Ausfallzeiten entfallenden Arbeitgeberbeiträge an die AHV/IV/ EO/ A
 
 Das Einkommen aus Zwischenbeschäftigung wird bei der Berechnung des Verdienstausfalls nicht angerechnet.
 
-[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 31. März 2021 ([[AS 2020 3611](http://www.admin.ch/ch/d/as/2020/3611.pdf)](https://fedlex.data.admin.ch/eli/oc/2020/651)[6449](https://fedlex.data.admin.ch/eli/oc/2020/1058)).
+[^63-1]: Fassung gemäss Ziff. I der V vom 26. Aug. 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 3611](https://fedlex.data.admin.ch/eli/oc/2020/651), [6449](https://fedlex.data.admin.ch/eli/oc/2020/1058); [2021 169](https://fedlex.data.admin.ch/eli/oc/2021/169)).
 
 #### Art. 64
 
@@ -1817,7 +1816,7 @@ Verfahrensanträge, die für die Kasse mit einem Kostenrisiko verbunden sind, da
 
 <sup>2</sup> Erscheint die Durchsetzung der Forderung zweifelhaft oder muss mit Umtrieben gerechnet werden, die in keinem vertretbaren Verhältnis zum Ergebnis stehen, so kann das SECO die Kasse ermächtigen, auf die Geltendmachung der Forderung zu verzichten.
 
-### Fünftes Kapitel: Arbeitsmarktliche Massnahmen
+### Fünftes Kapitel: Arbeitsmarktliche Massnahmen****
 
 [^tit2-chap5-1]
 
@@ -3170,19 +3169,19 @@ Die Verordnung vom 25. Februar 1986[^130-2] über die Verwaltungskostenbeschwerd
 
 [^132-1]: [AS 2011 1241](https://fedlex.data.admin.ch/eli/oc/2011/184)
 
-## Schlussbestimmung der Änderung vom 25. April 1985
+## Schlussbestimmung der Änderung vom 25. April 1985****
 
 [^u1-1]
 
 [^u1-1]: [AS 1985 648](https://fedlex.data.admin.ch/eli/oc/1985/648_648_648). Aufgehoben durch Ziff. IV 55 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Schlussbestimmungen der Änderung vom 6. November 1996
+## Schlussbestimmungen der Änderung vom 6. November 1996****
 
 [^u2-1]
 
 [^u2-1]: [AS 1996 3071](https://fedlex.data.admin.ch/eli/oc/1996/3071_3071_3071). Aufgehoben durch Ziff. IV 55 der V vom 22. Aug. 2007 zur formellen Bereinigung des Bundesrechts, mit Wirkung seit 1. Jan. 2008 ([AS 2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)).
 
-## Übergangsbestimmung zur Änderung vom 2. März 2012
+## Übergangsbestimmung zur Änderung vom 2. März 2012****
 
 [^u3-1]
 
@@ -3193,7 +3192,7 @@ In Bezug auf Island, Liechtenstein, und Norwegen gilt bis zum Inkrafttreten der 
 [^u3-2]: [AS 2015 5877](https://fedlex.data.admin.ch/eli/oc/2015/901)
 [^u3-3]: [SR 0.632.31](https://fedlex.data.admin.ch/eli/cc/1960/590_635_621)
 
-Anhang[^t-1]
+Anhang*[^t-1]*
 
 (Art. 41*c* Abs. 9)
 
