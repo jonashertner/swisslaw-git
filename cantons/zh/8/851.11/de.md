@@ -4,11 +4,11 @@ number: "851.11"
 title: Verordnung zum Sozialhilfegesetz (SHV)
 short: SHV
 language: de
-version: "2021-01-01"
-nachtrag: "111"
-valid_until: 2021-04-01
+version: "2021-04-01"
+nachtrag: "112"
+valid_until: 2021-07-01
 adopted: 1981-10-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-111.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-851_11-1981_10_21-1982_01_01-112.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ Besorgen Gemeinden Aufgaben der Sozialhilfe gemeinsam in einem Zweckverband, mü
 
 **1**
 
-- 1\. 1. 21 - 111 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
+- 1\. 4. 21 - 112 § 6. Stellen die Referenten Mängel fest, dringen sie auf Abhilfe. Nötigenfalls bewirken sie einen Beschluss des Bezirksrates, welcher der Sicherheitsdirektion<sup>11</sup> bekanntzugeben ist.
 
 #### § 7
 
@@ -150,7 +150,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **3**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 21 - 112
 
 ### C. Wirtschaftliche Hilfe
 
@@ -170,7 +170,7 @@ Personen, die Hilfesuchende beraten und betreuen, müssen aufgrund ihrer Ausbild
 
 **Soziales Existenzminimum**
 
-§ 17. <sup>1</sup> Die wirtschaftliche Hilfe trägt den persönlichen und örtlichen Verhältnissen Rechnung und gewährleistet das soziale Existenzminimum des Hilfesuchenden. Sie bemisst sich nach den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien) in der ab 1. Januar 2021 geltenden Fassung\*. Vorbehalten bleiben begründete Abweichungen im Einzelfall.<sup>22</sup>
+§ 17. <sup>1</sup> Die wirtschaftliche Hilfe trägt den persönlichen und örtlichen Verhältnissen Rechnung und gewährleistet das soziale Existenzminimum des Hilfesuchenden. Sie bemisst sich nach den Richtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS-Richtlinien) in der ab 1. Januar 2021 geltenden Fassung (einschliesslich der ab diesem Datum geltenden Teuerungsanpassung für den Grundbedarf für den Lebensunterhalt)\*. Vorbehalten bleiben begründete Abweichungen im Einzelfall.<sup>22</sup>
 
 <sup>2</sup> Soweit in Abs. 1 nichts anderes geregelt wird, gelangt die in den SKOS-Richtlinien vorgesehene Teuerungsanpassung nicht zur Anwendung.
 
@@ -224,7 +224,7 @@ Mit der wirtschaftlichen Hilfe können insbesondere folgende Auflagen und Weisun
 
 **5**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 21 - 112
 
 - b. ärztliche oder therapeutische Untersuchung oder Behandlung,
 
@@ -326,7 +326,7 @@ Die Fürsorgebehörde überprüft periodisch, mindestens einmal jährlich, alle 
 
 **7**
 
-- 1\. 1. 21 - 111
+- 1\. 4. 21 - 112
 
 <sup>3</sup> Nimmt die Wohngemeinde ihre Hilfeleistung nach einem Unterbruch von weniger als einem Jahr wieder auf, ist keine neue Anzeige erforderlich.
 
@@ -402,7 +402,7 @@ Die nachstehenden Verordnungen werden aufgehoben:
 
 **9**
 
-- 1\. 1. 21 - 111 § 45. Diese Verordnung tritt am 1. Januar 1982 in Kraft.
+- 1\. 4. 21 - 112 § 45. Diese Verordnung tritt am 1. Januar 1982 in Kraft.
 
 **Inkrafttreten**
 
@@ -450,6 +450,12 @@ Die Gemeinden wenden die Teuerungsanpassung spätestens nach vier Monaten nach I
 
 Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien spätestens ab dem 1. Mai 2021 an.
 
+### Übergangsbestimmungen zur Änderung vom 16. Dezember 2020
+
+(OS 76, 60)
+
+Die Gemeinden wenden die Teuerungsanpassung spätestens drei Monate nach Inkrafttreten der Verordnungsänderung an.
+
 ## Weitere Fussnoten
 
 - [*] Bezugsquelle: Schweizerische Konferenz für Sozialhilfe, Monbijoustrasse 22, Postfach, 3000 Bern 14. Einsicht in die Richtlinien unter www.skos.ch.
@@ -459,10 +465,10 @@ Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien späteste
 - [4] LS 175.2.
 - [5] LS 851.1.
 - [6] SR 851.1.
-- [7] OS 33, 511; heute aufgehoben.
+- [7] OS 33, 511; heute aufgehoben. 1. 4. 21 - 112 11
 - [8] Fassung gemäss RRB vom 19. Dezember 1990 (OS 51, 384). In Kraft seit 1. Januar 1991.
 - [9] Fassung gemäss RRB vom 11. Februar 1998 (OS 54, 494). In Kraft seit 1. Januar 1998.
-- [10] Fassung gemäss RRB vom 2. März 2005 (OS 60, 74). In Kraft seit 1. April 2005. 1. 1. 21 - 111 11
+- [10] Fassung gemäss RRB vom 2. März 2005 (OS 60, 74). In Kraft seit 1. April 2005.
 - [11] Fassung gemäss RRB vom 15. März 2006 (OS 61, 112; ABl 2006, 348). In Kraft seit 1. Mai 2006.
 - [12] Fassung gemäss RRB vom 29. November 2006 (OS 61, 499; ABl 2006, 1696). In Kraft seit 1. Januar 2007.
 - [13] Eingefügt durch RRB vom 16. Juli 2008 (OS 63, 423; ABl 2008, 1339). In Kraft seit 1. September 2008.
@@ -474,4 +480,4 @@ Die Gemeinden wenden die geänderten Bestimmungen der SKOS-Richtlinien späteste
 - [19] Aufgehoben durch RRB vom 5. Oktober 2011 (OS 66, 904; ABl 2011, 2886). In Kraft seit 1. Januar 2012.
 - [20] Fassung gemäss RRB vom 7. November 2012 (OS 67, 619; ABl 2012-11-16). In Kraft seit 1. Januar 2013.
 - [21] Fassung gemäss RRB vom 4. Dezember 2012 (OS 68, 96; ABl 2012-12-14). In Kraft seit 1. April 2013.
-- [22] Fassung gemäss RRB vom 23. September 2020 (OS 75, 544; ABl 2020-10-02). In Kraft seit 1. Januar 2021.
+- [22] Fassung gemäss RRB vom 16. Dezember 2020 (OS 76, 60; ABl 2020-12-24). In Kraft seit 1. April 2021.
