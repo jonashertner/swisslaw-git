@@ -4,13 +4,13 @@ number: "930.11"
 title: "Ordonnance sur le commerce et l'industrie"
 short: OCI
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2021-06-30
+version_adopted: 2021-02-17
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1565/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2208/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1565/pdf_file"
 
 (OCI)
 
-du 24.01.2007 (état au 01.01.2019)
+du 24.01.2007 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -210,7 +210,7 @@ arrête:
 
 **Exécution de la LCI**
 
-<sup>1</sup> Le beco est le service compétent pour autoriser des exceptions temporaires selon l’article 14, alinéa 2 LCI et pour exécuter les tâches selon l’article 21 LCI.
+<sup>1</sup> L'Office de l'économie (OEC) est le service compétent pour autoriser des exceptions temporaires selon l’article 14, alinéa 2 LCI et pour exécuter les tâches selon l’article 21 LCI.
 
 <sup>2</sup> Le préfet ou la préfète est le service compétent pour ordonner des fermetures selon l’article 14, alinéa 3 et l’article 18a LCI.
 
@@ -218,7 +218,7 @@ arrête:
 
 **Exécution du droit fédéral**
 
-<sup>1</sup> Le beco est le service compétent pour
+<sup>1</sup> L'OEC est le service compétent pour
 
 - a exécuter la législation fédérale sur le crédit à la consommation;
 - b délivrer les autorisations pour les activités foraines et les cirques selon l’article 2, alinéa 1, lettre c de la loi fédérale sur le commerce itinérant;
@@ -235,13 +235,13 @@ arrête:
 
 <sup>1</sup> Les services compétents demandent les documents nécessaires à leur appréciation, tels que des extraits du casier judiciaire, du registre du commerce ou du registre des poursuites.
 
-<sup>2</sup> Le beco peut demander d’autres documents, notamment un corapport de la commune-siège ou une prise de position des salariés ou de leurs organisations.
+<sup>2</sup> L'OEC peut demander d’autres documents, notamment un corapport de la commune-siège ou une prise de position des salariés ou de leurs organisations.
 
 #### Art. 17
 
 **Juridiction**
 
-<sup>1</sup> La Direction de l’économie publique statue sur les recours formés contre des décisions du préfet ou de la préfète.
+<sup>1</sup> La Direction de l’économie, de l’énergie et de l’environnement statue sur les recours formés contre des décisions du préfet ou de la préfète.
 
 <sup>2</sup> Au surplus, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^17-1] sont applicables.
 

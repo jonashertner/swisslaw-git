@@ -4,13 +4,13 @@ number: "930.11"
 title: Verordnung über Handel und Gewerbe
 short: HGV
 language: de
-version: 2019-01-01
-valid_until: 2021-03-31
-version_adopted: 2018-11-14
+version: 2021-04-01
+valid_until: 2021-06-30
+version_adopted: 2021-02-17
 adopted: 2007-01-24
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/930.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1565/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2208/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1565/pdf_file"
 
 (HGV)
 
-vom 24.01.2007 (Stand 01.01.2019)
+vom 24.01.2007 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -212,7 +212,7 @@ beschliesst:
 
 **Vollzug des HGG**
 
-<sup>1</sup> Das beco ist die zuständige Stelle für die Bewilligung von befristeten Ausnahmen gemäss Artikel 14 Absatz 2 und die Aufgaben gemäss Artikel 21 HGG.
+<sup>1</sup> Das Amt für Wirtschaft (AWI) ist die zuständige Stelle für die Bewilligung von befristeten Ausnahmen gemäss Artikel 14 Absatz 2 und die Aufgaben gemäss Artikel 21 HGG.
 
 <sup>2</sup> Die Regierungsstatthalterin oder der Regierungsstatthalter ist die zuständige Stelle für die Schliessung gemäss Artikel 14 Absatz 3 und Artikel 18a HGG.
 
@@ -220,7 +220,7 @@ beschliesst:
 
 **Vollzug von Bundesrecht**
 
-<sup>1</sup> Das beco ist die zuständige Stelle für
+<sup>1</sup> Das AWI ist die zuständige Stelle für
 
 - a den Vollzug der Bundesgesetzgebung über den Konsumkredit,
 - b Bewilligungen für Schaustellergewerbe und Zirkusse gemäss Artikel 2 Absatz 1 Buchstabe c des Bundesgesetzes über das Gewerbe der Reisenden,
@@ -237,13 +237,13 @@ beschliesst:
 
 <sup>1</sup> Die zuständigen Stellen verlangen die für die Beurteilung erforderlichen Unterlagen wie Auszüge aus dem Zentralstrafregister, dem Handelsregister oder dem Betreibungsregister.
 
-<sup>2</sup> Das beco kann weitere Unterlagen verlangen, insbesondere einen Mitbericht der Standortgemeinde oder eine Stellungnahme der Arbeitnehmerinnen und Arbeitnehmer oder ihrer Organisationen.
+<sup>2</sup> Das AWI kann weitere Unterlagen verlangen, insbesondere einen Mitbericht der Standortgemeinde oder eine Stellungnahme der Arbeitnehmerinnen und Arbeitnehmer oder ihrer Organisationen.
 
 #### Art. 17
 
 **Rechtspflege**
 
-<sup>1</sup> Beschwerden gegen Verfügungen der Regierungsstatthalterin oder des Regierungsstatthalters beurteilt die Volkswirtschaftsdirektion.
+<sup>1</sup> Beschwerden gegen Verfügungen der Regierungsstatthalterin oder des Regierungsstatthalters beurteilt die Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^17-1].
 
