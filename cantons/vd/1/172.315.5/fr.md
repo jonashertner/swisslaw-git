@@ -4,7 +4,7 @@ number: "172.315.5"
 title: RÈGLEMENT du 04.12.2013 sur la Commission d’évaluation des fonctions (RCEv.Fonc.)
 short: RCEv.Fonc.
 language: fr
-version: 2014-01-01
+version: 2021-04-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.315.5?id=ccfcf2e1-5baf-487d-a144-ae618e534d0d"
 ---
 
@@ -22,12 +22,13 @@ vu l'article 24, alinéa 3 de la loi du 12 novembre 2001 sur le personnel de l'E
 
 vu l'article 38 du règlement du 9 décembre 2002 d'application de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud [^ingress-2]
 
-vu le préavis du Département des infrastructures et des ressources humaines
+vu le préavis du Département des infrastructures et des ressources humaines [^ingress-3]
 
 arrête
 
 [^ingress-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
 [^ingress-2]: Règlement du 09.12.2002 d'application de la loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31.1?id=6859cebf-d400-4969-b36d-0e936886b34c))
+[^ingress-3]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre I Compétences et désignation
 
@@ -41,25 +42,30 @@ arrête
 
 **Compétences [^1-1]**
 
-<sup>1</sup> La Commission examine les demandes d'évaluation et de réévaluation d'une fonction répertoriée dans la grille des fonctions au sens du règlement du 28 novembre 2008 relatif à la classification des fonctions[^2-1] ou dans le catalogue des fonctions spécifiques et transmet ses propositions au Conseil d'Etat.
+<sup>1</sup> La Commission est compétente pour:
 
-<sup>2</sup> La Commission se prononce sur :
+- a. Évaluer un nouveau métier;
+- b. Réévaluer un métier répertorié dans le recueil des emplois-types ou dans le catalogue des fonctions spécifiques, lorsque le métier a évolué de manière substantielle, en particulier en termes d'exigences de formation;
+- c. La création et la suppression d'une chaîne.
 
-- a. l'évaluation d'une nouvelle fonction ;
-- b. la modification d'un profil de fonction (réévaluation, réexamen) ;
-- c. la création ou la suppression d'une chaîne ;
-- d. la modification de la nomenclature de la grille des fonctions.
+<sup>2</sup> La Commission n'est pas compétente pour évaluer des postes.
 
-[^1-1]: Modif. 1 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 1, a-c; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Abrogation Al. 2, a-d; entrée en vigueur au 01.04.2021; Introduction Al. 3; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
-[^2-1]: Règlement du 28.11.2008 relatif à la classification des fonctions [(BLV 172.315.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.315.1?id=29dc2037-a780-452e-90a8-90cec53472e2))
+- a. ...
+- b. ...
+- c. ...
+- d. ...
+
+<sup>3</sup> Le service en charge du personnel informe la Commission de toute modification formelle de la grille des fonctions.
+
+[^1-1]: Modif. 1 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 1, a-c; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Abrogation Al. 2, a-d; entrée en vigueur au 01.04.2021; Introduction Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 3
 
-**Définition [^2-2]**
+**Définition [^2-1]**
 
-<sup>1</sup> L'évaluation ou la réévaluation d'une fonction consiste à procéder à la notation des critères résultant de la méthode d'évaluation des fonctions en vigueur de manière à intégrer le résultat obtenu dans la grille des fonctions ou dans le catalogue des fonctions spécifiques.
+<sup>1</sup> L'évaluation ou la réévaluation d'un métier consiste à procéder à la notation des critères résultant de la méthode d'évaluation des fonctions en vigueur.
 
-[^2-2]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
+[^2-1]: Modif. 1 du 03.03.2021: Modification Al. 1; entrée en vigueur au 01.04.2021
 
 #### Art. 4
 
@@ -91,9 +97,11 @@ arrête
 
 **Secrétariat**
 
-<sup>1</sup> Le secrétariat de la Commission est assuré par le Service du personnel de l'Etat de Vaud (ci-après : SPEV) sous la conduite du président.
+<sup>1</sup> Le secrétariat de la Commission est assuré par le Service du personnel de l'Etat de Vaud (ci-après : SPEV)[^7-1] sous la conduite du président.
 
 <sup>2</sup> Le SPEV fournit le support technique et logistique nécessaire. Il transmet les référentiels et tout autre document jugé utile par la Commission.
+
+[^7-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 8
 
@@ -123,61 +131,65 @@ arrête
 
 **Saisine [^chapterChapitreII-1]**
 
-<sup>1</sup> La Commission peut être saisie d'une demande au sens de l'article 2 par le Conseil d'Etat ou par les syndicats et associations.
+<sup>1</sup> La Commission peut être saisie par le Conseil d'Etat ou les syndicats et associations du personnel.
 
-<sup>2</sup> Les demandes sont adressées au président de la Commission.
+<sup>2</sup> La demande est adressée au président de la Commission. Elle doit être dûment motivée et prévoir des conclusions. A défaut, un délai supplémentaire est accordé au demandeur pour la compléter. Si l'argumentaire reste insuffisant, la Commission refuse d'entrer en matière.
 
-<sup>3</sup> Le président convoque la Commission dans les deux mois suivant la réception de la demande.
+<sup>3</sup> ...
 
-[^chapterChapitreII-1]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Modification Al. 1-2; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
+[^chapterChapitreII-1]: Modif. 1 du 03.03.2021: Modification Al. 1-2; entrée en vigueur au 01.04.2021; Abrogation Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 12
 
-**Traitement de la demande [^11-1]**
+**Examen de sa compétence [^11-1]**
 
-*a) Procédure*
+*...*
 
-<sup>1</sup> La Commission détermine sa compétence.
+<sup>1</sup> Le président convoque la Commission dans le mois qui suit la réception de la demande.
 
-<sup>2</sup> Lorsque la demande relève de sa compétence, elle la transmet au SPEV pour analyse.
+<sup>2</sup> La Commission statue sur sa compétence au plus tard un mois après s'être réunie.
 
-<sup>3</sup> Elle peut solliciter l'avis d'un expert. Dans ce cas, elle en informe préalablement le Conseil d'Etat.
+<sup>3</sup> Lorsque la compétence de la Commission est établie, cette dernière transmet la demande au service en charge du personnel pour analyse.
 
-<sup>4</sup> Elle peut procéder à des auditions.
+<sup>4</sup> Lorsque la Commission ne s'estime pas compétente, elle en informe la partie qui l'a saisie.
 
-[^11-1]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-4; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
+[^11-1]: Modif. 1 du 03.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-4; entrée en vigueur au 01.04.2021
 
 #### Art. 13
 
-**b) Analyse du SPEV [^12-1]**
+**Analyse du service en charge du personnel [^12-1]**
 
-<sup>1</sup> Le SPEV procède à l'évaluation de la fonction selon la méthode d'évaluation en vigueur.
+<sup>1</sup> Le service en charge du personnel procède à l'évaluation selon la méthode d'évaluation en vigueur.
 
-<sup>2</sup> Il communique à la Commission ses conclusions ainsi que les référentiels et documents techniques sur lesquels il s'est fondé.
+<sup>2</sup> Dans un délai de six mois à compter de la fin des travaux d'instruction et d'analyse, il transmet à la Commission un rapport contenant ses conclusions ainsi que les référentiels et documents techniques sur lesquels il s'est fondé.
 
-<sup>3</sup> La Commission peut demander des compléments au SPEV ainsi que tous les documents nécessaires qu'elle juge utiles.
+<sup>3</sup> La Commission peut requérir du service en charge du personnel des compléments ainsi que documents qu'elle juge utiles.
 
-[^12-1]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-3; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
+[^12-1]: Modif. 1 du 03.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1-3; entrée en vigueur au 01.04.2021
 
 #### Art. 14
 
-**c) Rapport de la Commission [^13-1]**
+**Examen de la Commission [^13-1]**
 
-<sup>1</sup> La Commission rédige un rapport contenant sa proposition et ses conclusions qu'elle adresse au Conseil d'Etat avec ses annexes.
+<sup>1</sup> La Commission peut procéder à des auditions en vue de la rédaction de son rapport. A défaut, elle peut demander des renseignements écrits.
 
-<sup>2</sup> L'analyse effectuée par le SPEV ainsi que les documents qui ont servi à l'analyse sont joints au rapport transmis au Conseil d'Etat.
+<sup>1bis</sup> Elle adresse son rapport contenant sa proposition et ses annexes au Conseil d'Etat dans un délai de trois mois dès réception du rapport du service en charge du personnel.
 
-[^13-1]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 1bis; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021; Introduction Art. 15, Al. 3; entrée en vigueur au 01.04.2021
+<sup>2</sup> L'analyse effectuée par le service en charge du personnel ainsi que les documents sur lesquels elle est fondée sont joints au rapport.
+
+[^13-1]: Modif. 1 du 03.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Modification Al. 1; entrée en vigueur au 01.04.2021; Introduction Al. 1bis; entrée en vigueur au 01.04.2021; Modification Al. 2; entrée en vigueur au 01.04.2021
 
 #### Art. 15
 
-**d) Décision du Conseil d'Etat [^14-1]**
+**Décision du Conseil d'Etat [^14-1]**
 
 <sup>1</sup> Le Conseil d'Etat statue sur la base du rapport de la Commission.
 
 <sup>2</sup> Il informe la Commission de sa décision, ainsi que le syndicat ou l'association qui l'a saisie.
 
-[^14-1]: Modif. 1 du 03.03.2021: Introduction Art. 2, Al. 1, a-c; entrée en vigueur au 01.04.2021; Introduction Art. 2, Al. 3; entrée en vigueur au 01.04.2021; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.04.2021; Modification tArt; entrée en vigueur au 01.04.2021; Introduction Al. 3; entrée en vigueur au 01.04.2021
+<sup>3</sup> Le service en charge du personnel adapte la grille des fonctions conformément à la décision du Conseil d'Etat.
+
+[^14-1]: Modif. 1 du 03.03.2021: Modification tArt; entrée en vigueur au 01.04.2021; Introduction Al. 3; entrée en vigueur au 01.04.2021
 
 #### Art. 16
 
@@ -210,4 +222,6 @@ arrête
 
 **Entrée en vigueur**
 
-<sup>1</sup> Le Département des infrastructures et des ressources humaines est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2014.
+<sup>1</sup> Le Département des infrastructures et des ressources humaines[^19-1] est chargé de l'exécution du présent règlement qui entre en vigueur le 1er janvier 2014.
+
+[^19-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
