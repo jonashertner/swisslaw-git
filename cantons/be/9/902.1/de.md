@@ -4,13 +4,12 @@ number: "902.1"
 title: Kantonales Gesetz über Investitionshilfe für Berggebiete
 short: KIHG
 language: de
-version: 2010-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-06-11
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/902.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/214/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2189/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/214/pdf_file"
 
 (KIHG)
 
-vom 16.06.1997 (Stand 01.01.2010)
+vom 16.06.1997 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -101,7 +100,7 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat genehmigt das kantonale Umsetzungsprogramm gemäss Artikel 15 des Bundesgesetzes über Regionalpolitik und bewilligt regelmässig den Rahmenkredit für die Infrastrukturvorhaben und -programme.
 
-<sup>3</sup> In allen übrigen Fällen verfügt das zuständige Amt der Volkswirtschaftsdirektion.
+<sup>3</sup> In allen übrigen Fällen verfügt das zuständige Amt der Wirtschafts-, Energie- und Umweltdirektion.
 
 #### Art. 5a
 

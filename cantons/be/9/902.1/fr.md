@@ -4,13 +4,12 @@ number: "902.1"
 title: "Loi cantonale sur l'aide aux investissements dans les régions de montagne *"
 short: LCIM
 language: fr
-version: 2010-01-01
-valid_until: 2021-03-31
-version_adopted: 2009-06-11
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1997-06-16
 in_force: 1998-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/902.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/214/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2189/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/214/pdf_file"
 
 (LCIM)
 
-du 16.06.1997 (état au 01.01.2010)
+du 16.06.1997 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -101,7 +100,7 @@ arrête:
 
 <sup>2</sup> Le Conseil-exécutif approuve le programme cantonal de mise en œuvre selon l’article 15 de la loi fédérale sur la politique régionale et octroie régulièrement un crédit-cadre pour les projets et programmes d'infrastructures.
 
-<sup>3</sup> L'office compétent de la Direction de l'économie publique décide dans tous les autres cas.
+<sup>3</sup> L'office compétent de la Direction de l’économie, de l’énergie et de l’environnement décide dans tous les autres cas.
 
 #### Art. 5a
 
