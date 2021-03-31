@@ -3,20 +3,19 @@ canton: SO
 number: "431.115"
 title: Verordnung über das Kuratorium für Kulturförderung
 language: de
-version: 2004-07-01
-valid_until: 2021-03-31
-version_adopted: 2004-01-26
+version: 2021-04-01
+version_adopted: 2021-01-25
 adopted: 2004-01-26
 in_force: 2004-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/431.115"
-pdf: "https://bgs.so.ch/api/de/versions/3716/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5068/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Kuratorium für Kulturförderung
 
-Vom 26.01.2004 (Stand 01.07.2004)
+Vom 26.01.2004 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -68,7 +67,7 @@ beschliesst:
 
 - a) Bildende Kunst und Architektur;
 - b) Foto und Film;
-- c) Kulturaustausch;
+- c) Kulturpflege;
 - d) Literatur;
 - e) Musik;
 - f) Theater und Tanz.
@@ -76,9 +75,9 @@ beschliesst:
 <sup>2</sup> Die Fachkommissionen setzen sich zusammen aus:
 
 - a) dem Leiter oder der Leiterin;
-- b) zwei bis sechs weiteren Mitgliedern.
+- b) zwei bis vier weiteren Mitgliedern.
 
-<sup>3</sup> Mindestens ein Mitglied je Fachkommission muss Kunstschaffender oder Kunstschaffende sein.
+<sup>3</sup> Mindestens ein Mitglied je Fachkommission muss Kunst- beziehungsweise Kulturschaffender oder Kunst- beziehungsweise Kulturschaffende sein.
 
 <sup>4</sup> Die Fachkommissionen sind beschlussfähig, wenn wenigstens die Hälfte der Mitglieder anwesend ist. Beschlüsse werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit hat der Leiter oder die Leiterin den Stichentscheid.
 
@@ -161,7 +160,7 @@ beschliesst:
 
 - a) schöpferische Aufträge im Bereiche der Kultur;
 - b) die Vergabe von Auszeichnungspreisen für Verdienste im Bereich des künstlerischen und kulturellen Schaffens;
-- c) die Gewährung von Produktions- und Publikationsbeiträgen sowie Defizitdeckungsgarantien zulasten des Lotterie-Fonds;
+- c) die Gewährung von Produktions- und Publikationsbeiträgen sowie Defizitdeckungsgarantien zulasten des Swisslos-Fonds;
 - d) den Ankauf von Kunstwerken;
 - e) die Realisierung von Projekten mit grosser kulturpolitischer Bedeutung.
 
@@ -188,7 +187,7 @@ beschliesst:
 
 **Fachkommissionen**
 
-<sup>1</sup> Die Fachkommissionen unterstützen und fördern das zeitgenössische Kunstschaffen und die Leistungen von Kulturvermittelnden, indem sie Produktionsbeiträge, Publikationsbeiträge und Defizitdeckungsgarantien beantragen sowie Anträge auf Ankauf von Kunstwerken einreichen und Kulturschaffenden und kulturellen Institutionen, Veranstaltern und Veranstalterinnen Beratungen anbieten oder an solchen Beratungen Dritter partizipieren.
+<sup>1</sup> Die Fachkommissionen unterstützen und fördern das zeitgenössische Kunst- und Kulturschaffen und die Leistungen von Kulturvermittelnden, indem sie Produktionsbeiträge, Publikationsbeiträge und Defizitdeckungsgarantien beantragen sowie Anträge auf Ankauf von Kunstwerken einreichen und Kulturschaffenden und kulturellen Institutionen, Veranstaltern und Veranstalterinnen Beratungen anbieten oder an solchen Beratungen Dritter partizipieren.
 
 <sup>2</sup> Sie beantragen dem Leitenden Ausschuss u.a. Vorschläge auf Verleihung von Auszeichnungspreisen, die Gewährung von Werkjahrbeiträgen, die Organisation von Künstlerbegegnungen und die Durchführung von Wettbewerben zur Förderung des kulturellen Schaffens.
 
