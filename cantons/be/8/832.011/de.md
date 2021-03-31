@@ -4,13 +4,12 @@ number: "832.011"
 title: Einführungsverordnung zur eidgenössischen Arbeitsgesetzgebung
 short: EV ArG
 language: de
-version: 2016-11-01
-valid_until: 2021-03-31
-version_adopted: 2016-08-31
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 2016-08-31
 in_force: 2016-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/832.011"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1156/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1156/pdf_file"
 
 (EV ArG)
 
-vom 31.08.2016 (Stand 01.11.2016)
+vom 31.08.2016 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -43,7 +42,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Amt für Berner Wirtschaft (beco) ist für den Vollzug zuständig.
+<sup>1</sup> Das Amt für Wirtschaft (AWI) ist für den Vollzug zuständig.
 
 <sup>2</sup> Es erteilt insbesondere Plangenehmigungen und Betriebsbewilligungen nach Artikel 7 ArG.
 
@@ -55,8 +54,8 @@ beschliesst:
 
 <sup>1</sup> Die Plangenehmigung nach Artikel 7 ArG ist
 
-- a ein Amtsbericht des beco im Baubewilligungsverfahren,
-- b eine Bewilligung des beco nach dieser Verordnung, wenn ein Vorhaben keine Baubewilligung benötigt.
+- a ein Amtsbericht des AWI im Baubewilligungsverfahren,
+- b eine Bewilligung des AWI nach dieser Verordnung, wenn ein Vorhaben keine Baubewilligung benötigt.
 
 #### Art. 4
 
@@ -82,7 +81,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinde nimmt die formelle Prüfung der Unterlagen vor und verlangt gegebenenfalls deren Ergänzung.
 
-<sup>2</sup> Sie leitet die vollständigen Unterlagen an das beco weiter.
+<sup>2</sup> Sie leitet die vollständigen Unterlagen an das AWI weiter.
 
 <sup>3</sup> Ergibt die Prüfung, dass für das Vorhaben eine Baubewilligung nötig ist, führt sie das Verfahren als Baubewilligungsverfahren fort.
 
@@ -90,13 +89,13 @@ beschliesst:
 
 **Fachberichte**
 
-<sup>1</sup> Das beco holt die erforderlichen Fachberichte ein, insbesondere bei der Schweizerischen Unfallversicherungsanstalt (SUVA).
+<sup>1</sup> Das AWI holt die erforderlichen Fachberichte ein, insbesondere bei der Schweizerischen Unfallversicherungsanstalt (SUVA).
 
 #### Art. 8
 
 **Entscheid und Eröffnung**
 
-<sup>1</sup> Das beco erteilt die Plangenehmigung.
+<sup>1</sup> Das AWI erteilt die Plangenehmigung.
 
 <sup>2</sup> Es eröffnet diese der Gesuchstellerin oder dem Gesuchsteller und informiert Stellen, die einen Fachbericht eingereicht haben.
 
@@ -106,7 +105,7 @@ beschliesst:
 
 **Entscheid**
 
-<sup>1</sup> Das beco erteilt die Betriebsbewilligung gestützt auf die Abnahme des Vorhabens.
+<sup>1</sup> Das AWI erteilt die Betriebsbewilligung gestützt auf die Abnahme des Vorhabens.
 
 #### Art. 10
 
