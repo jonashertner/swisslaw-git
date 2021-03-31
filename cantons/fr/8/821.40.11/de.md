@@ -3,13 +3,12 @@ canton: FR
 number: "821.40.11"
 title: Gesetz zur Genehmigung der Sofortmassnahmen des Staatsrats zur Bewältigung der COVID-19-Epidemie
 language: de
-version: 2020-11-06
-valid_until: 2021-03-31
-version_adopted: 2020-10-14
+version: 2021-04-01
+version_adopted: 2021-03-23
 adopted: 2020-10-14
 in_force: 2020-11-06
 url: "https://bdlf.fr.ch/app/de/texts_of_law/821.40.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/6619/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/6812/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/6619/pdf_file"
 
 COVID-19, Genehmigung der Sofortmassnahmen des Staatsrats – G
 
-vom 14.10.2020 (Fassung in Kraft getreten am 06.11.2020)
+vom 14.10.2020 (Fassung in Kraft getreten am 01.04.2021)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -96,7 +95,7 @@ beschliesst:
 
 <sup>1</sup> Der Staatsrat kann zusätzliche Massnahmen für Härtefälle beschliessen, sofern im Rahmen der Sofortmassnahmen nach Artikel 2 Abs. 1 nicht vollständig verwendete Beträge aus den aufgehobenen Massnahmen vorhanden sind.
 
-<sup>2</sup> Der Staatsrat bestimmt die Härtefälle unter Berücksichtigung namentlich der volkswirtschaftlichen Gegebenheiten des Kantons und der Steuersituation der wirtschaftlich berechtigten Personen, die von den Massnahmen profitieren. Die Unterstützung wird nur gewährt, wenn die Unternehmen vor Beginn der COVID-19-Krise rentabel und überlebensfähig waren.
+<sup>2</sup> Der Staatsrat bestimmt die Härtefälle unter Berücksichtigung namentlich der volkswirtschaftlichen Gegebenheiten des Kantons. Die Unterstützung wird nur gewährt, wenn die Unternehmen vor Beginn der COVID-19-Krise rentabel und überlebensfähig waren.
 
 <sup>3</sup> Die Gesamtkosten der zusätzlichen Massnahmen für Härtefälle dürfen 15 Millionen Franken nicht überschreiten.
 

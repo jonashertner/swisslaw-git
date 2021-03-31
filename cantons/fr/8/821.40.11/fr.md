@@ -3,13 +3,12 @@ canton: FR
 number: "821.40.11"
 title: "Loi approuvant les mesures urgentes du Conseil d'Etat visant à surmonter l'épidémie de COVID-19"
 language: fr
-version: 2020-11-06
-valid_until: 2021-03-31
-version_adopted: 2020-10-14
+version: 2021-04-01
+version_adopted: 2021-03-23
 adopted: 2020-10-14
 in_force: 2020-11-06
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/821.40.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6619/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/6812/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +17,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/6619/pdf_file"
 
 COVID-19, approbation des mesures urgentes du Conseil d'Etat – L
 
-du 14.10.2020 (version entrée en vigueur le 06.11.2020)
+du 14.10.2020 (version entrée en vigueur le 01.04.2021)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -96,7 +95,7 @@ Décrète:
 
 <sup>1</sup> Le Conseil d'Etat peut décider de mesures complémentaires pour des cas de rigueur s'il subsiste des montants provenant de mesures abrogées non entièrement utilisés dans le cadre des mesures d'urgence décrites à l'article 2 al. 1.
 
-<sup>2</sup> Le Conseil d'Etat définit les cas de rigueur en tenant notamment compte des réalités économiques du canton et de la situation fiscale des ayants droit économiques bénéficiaires des mesures. Le soutien n'est accordé que si les entreprises étaient rentables ou viables avant le début de la crise du COVID-19.
+<sup>2</sup> Le Conseil d'Etat définit les cas de rigueur en tenant notamment compte des réalités économiques du canton. Le soutien n'est accordé que si les entreprises étaient rentables ou viables avant le début de la crise du COVID-19.
 
 <sup>3</sup> Le montant total du coût des mesures complémentaires pour des cas de rigueur ne peut dépasser 15 millions de francs.
 
