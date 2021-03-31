@@ -4,13 +4,12 @@ number: "341.13"
 title: "Loi sur les mesures restreignant la liberté des mineurs dans le cadre de l'exécution judiciaire et de l'exécution de mesures de protection de l'enfant *"
 short: LMMin
 language: fr
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-01-23
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2011-06-16
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/341.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/1548/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2222/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/1548/pdf_file"
 
 (LMMin)
 
-du 16.06.2011 (état au 01.12.2018)
+du 16.06.2011 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -276,7 +275,7 @@ arrête:
 
 **Recours**
 
-<sup>1</sup> La personne mineure concernée ou la personne qui la représente légalement peut recourir par écrit auprès de la Direction de la police et des affaires militaires contre une décision portant sur des mesures restreignant la liberté dans les dix jours à compter de sa notification.
+<sup>1</sup> La personne mineure concernée ou la personne qui la représente légalement peut recourir par écrit auprès de la Direction de la sécurité contre une décision portant sur des mesures restreignant la liberté dans les dix jours à compter de sa notification.
 
 <sup>2</sup> Le délai est respecté lorsque le recours est transmis à temps au personnel de l’établissement.
 
@@ -290,13 +289,13 @@ arrête:
 
 **Procédure de conciliation**
 
-<sup>1</sup> La Direction de la police et des affaires militaires transmet immédiatement le recours au service compétent de la Direction chargée de la surveillance de l’établissement.
+<sup>1</sup> La Direction de la sécurité transmet immédiatement le recours au service compétent de la Direction chargée de la surveillance de l’établissement.
 
 <sup>2</sup> Le service compétent tente de trouver un accord à l’amiable.
 
 <sup>3</sup> Il demande à l’instance précédente de prendre position et peut entendre la personne mineure personnellement.
 
-<sup>4</sup> S’il ne réussit pas à trouver un accord à l’amiable dans les 30 jours à compter du dépôt du recours, le service compétent transmet le dossier à la Direction de la police et des affaires militaires qui traite l’affaire et statue.
+<sup>4</sup> S’il ne réussit pas à trouver un accord à l’amiable dans les 30 jours à compter du dépôt du recours, le service compétent transmet le dossier à la Direction de la sécurité qui traite l’affaire et statue.
 
 <sup>5</sup> La procédure de conciliation n’est pas engagée en cas de demande d’octroi de l’effet suspensif ni en cas de recours contre une décision au sens de l’article 10, alinéa 2.
 
@@ -304,7 +303,7 @@ arrête:
 
 **Recours auprès de la Cour suprême**
 
-<sup>1</sup> Les décisions sur recours de la Direction de la police et des affaires militaires sont susceptibles de recours auprès de la Cour suprême dans les 30 jours à compter de leur notification.
+<sup>1</sup> Les décisions sur recours de la Direction de la sécurité sont susceptibles de recours auprès de la Cour suprême dans les 30 jours à compter de leur notification.
 
 #### Art. 24
 

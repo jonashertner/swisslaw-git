@@ -4,13 +4,12 @@ number: "341.13"
 title: Gesetz über freiheitsbeschränkende Massnahmen im Justizvollzug bei Jugendlichen und im Vollzug von Kindesschutzmassnahmen
 short: FMJG
 language: de
-version: 2018-12-01
-valid_until: 2021-03-31
-version_adopted: 2018-01-23
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2011-06-16
 in_force: 2012-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/341.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/1548/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/1548/pdf_file"
 
 (FMJG)
 
-vom 16.06.2011 (Stand 01.12.2018)
+vom 16.06.2011 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -276,7 +275,7 @@ beschliesst:
 
 **Beschwerde**
 
-<sup>1</sup> Gegen Verfügungen über freiheitsbeschränkende Massnahmen kann die oder der Jugendliche oder die gesetzliche Vertretung innert zehn Tagen seit Eröffnung schriftlich Beschwerde bei der Polizei- und Militärdirektion einreichen.
+<sup>1</sup> Gegen Verfügungen über freiheitsbeschränkende Massnahmen kann die oder der Jugendliche oder die gesetzliche Vertretung innert zehn Tagen seit Eröffnung schriftlich Beschwerde bei der Sicherheitsdirektion einreichen.
 
 <sup>2</sup> Die Frist ist gewahrt, wenn die Beschwerde rechtzeitig einer Mitarbeiterin oder einem Mitarbeiter der Institution übergeben wird.
 
@@ -290,13 +289,13 @@ beschliesst:
 
 **Einigungsverfahren**
 
-<sup>1</sup> Die Polizei- und Militärdirektion leitet die Beschwerde unverzüglich an die zuständige Stelle der Direktion, deren Aufsicht die Institution untersteht, weiter.
+<sup>1</sup> Die Sicherheitsdirektion leitet die Beschwerde unverzüglich an die zuständige Stelle der Direktion, deren Aufsicht die Institution untersteht, weiter.
 
 <sup>2</sup> Die zuständige Stelle versucht, eine gütliche Einigung herbeizuführen.
 
 <sup>3</sup> Sie holt eine Stellungnahme der Vorinstanz ein und kann die Jugendliche oder den Jugendlichen persönlich anhören.
 
-<sup>4</sup> Gelingt die gütliche Einigung nicht innerhalb von 30 Tagen seit dem Eingang der Beschwerde, leitet die zuständige Stelle die Akten zur weiteren Behandlung und zum Entscheid an die Polizei- und Militärdirektion weiter.
+<sup>4</sup> Gelingt die gütliche Einigung nicht innerhalb von 30 Tagen seit dem Eingang der Beschwerde, leitet die zuständige Stelle die Akten zur weiteren Behandlung und zum Entscheid an die Sicherheitsdirektion weiter.
 
 <sup>5</sup> Das Einigungsverfahren wird nicht durchgeführt, wenn die Erteilung der aufschiebenden Wirkung beantragt wird und wenn eine Beschwerde gegen eine Verfügung im Sinne von Artikel 10 Absatz 2 eingereicht wird.
 
@@ -304,7 +303,7 @@ beschliesst:
 
 **Beschwerde an das Obergericht**
 
-<sup>1</sup> Gegen den Beschwerdeentscheid der Polizei- und Militärdirektion kann innert 30 Tagen seit der Eröffnung beim Obergericht Beschwerde geführt werden.
+<sup>1</sup> Gegen den Beschwerdeentscheid der Sicherheitsdirektion kann innert 30 Tagen seit der Eröffnung beim Obergericht Beschwerde geführt werden.
 
 #### Art. 24
 
