@@ -3,18 +3,18 @@ sr: "235.24"
 title: Verordnung vom 9. Dezember 2011 über das Informationssystem EDAssist+
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/21"
 language: de
-version: 2016-09-01
+version: 2021-04-01
 adopted: 2011-12-09
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/21/20160901/de/xml/fedlex-data-admin-ch-eli-cc-2012-21-20160901-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/21/20160901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/21/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2012-21-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/21/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über das Informationssystem EDAssist+
 
-vom 9. Dezember 2011 (Stand am 1. September 2016)
+vom 9. Dezember 2011 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -187,14 +187,20 @@ EDAssist+ besteht aus den folgenden Bereichen:
 
 **Daten- und Informatiksicherheit**
 
-<sup>1</sup> Die Daten- und Informatiksicherheit richtet sich nach der Verordnung vom 14. Juni 1993[^16-1] zum Bundesgesetz über den Datenschutz und nach Artikel 10 der Bundesinformatikverordnung vom 9. Dezember 2011[^16-2].
+<sup>1</sup>
+
+Die Daten- und die Informatiksicherheit richten sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^16-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^16-2].[^16-3]
 
 <sup>2</sup> Die KD erlässt ein Bearbeitungsreglement. Dieses regelt die organisatorischen und technischen Massnahmen zur Gewährleistung der Datensicherheit sowie die Kontrolle der Datenbearbeitung.
 
 <sup>3</sup> Sie trifft organisatorische und technische Massnahmen gegen das unbefugte Bearbeiten sowie das Entwenden von Daten.
 
 [^16-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^16-2]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^16-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^16-3]: Fassung gemäss Anhang Ziff. 13 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 17
 
@@ -216,7 +222,7 @@ Die Zugriffe und die Änderungen in EDAssist+ werden laufend protokolliert. Die 
 
 **Änderung bisherigen Rechts**
 
-…[^19-1]
+...[^19-1]
 
 [^19-1]: Die Änderung kann unter [AS 2012 337](https://fedlex.data.admin.ch/eli/oc/2012/21)konsultiert werden.
 

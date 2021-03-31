@@ -3,18 +3,18 @@ sr: "235.24"
 title: "Ordonnance du 9 décembre 2011 sur le système d'information EDAssist+"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/21"
 language: fr
-version: 2016-09-01
+version: 2021-04-01
 adopted: 2011-12-09
 in_force: 2012-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/21/20160901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-21-20160901-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/21/20160901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/21/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2012-21-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/21/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance sur le système d’information EDAssist+
 
-du 9 décembre 2011 (Etat le 1<sup>er</sup> septembre 2016)
+du 9 décembre 2011 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -187,14 +187,20 @@ Le système EDAssist+ se compose des domaines suivants:
 
 **Sécurité des données et sécurité informatique**
 
-<sup>1</sup> La sécurité des données et la sécurité informatique doivent être assurées conformément à l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^16-1] ainsi qu’à l’art. 10 de l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^16-2].
+<sup>1</sup>
+
+La sécurité des données et la sécurité informatique sont régies par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^16-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^16-2].[^16-3]
 
 <sup>2</sup> La DC édicte un règlement relatif au traitement des données. Ce dernier définit les mesures techniques et organisationnelles requises pour assurer la sécurité des données ainsi que le contrôle du traitement des données.
 
 <sup>3</sup> La DC prend des mesures techniques et organisationnelles contre le traitement non autorisé et le vol de données.
 
 [^16-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^16-2]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
+[^16-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^16-3]: Nouvelle teneur selon l’annexe ch. 13 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 17
 
@@ -260,12 +266,12 @@ Annexe 2
 - 8\. Lieux d’origine
 - 9 Nationalités
 - 10\. Numéro d’assuré selon l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annex2-lvlu1-1] (numéro d’assuré AVS)
-- 11\. Evènement
+- 11\. Évènement
 - 12\. Assistance nécessaire
 - 13\. Informations concernant la personne de contact (noms, prénoms, adresses, coordonnées, langues et sexe)
 - 14\. Lien entre la personne portée disparue et la personne de contact
 - 15\. Lieu de séjour
-- 16\. Etat (décédé/e, blessé/e, malade, en bonne santé)
+- 16\. État (décédé/e, blessé/e, malade, en bonne santé)
 - 17\. Date du dernier contact
 - 18\. Numéro de passeport
 
@@ -301,12 +307,12 @@ Annexe 4
 - 8\. Lieux d’origine
 - 9\. Nationalités
 - 10\. Numéro d’assuré selon l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annex4-lvlu1-1] (numéro d’assuré AVS)
-- 11\. Evènement
+- 11\. Évènement
 - 12\. Assistance nécessaire
 - 13\. Informations concernant la personne de contact (noms, prénoms, adresses, coordonnées, langues et sexe)
 - 14\. Lien entre la personne portée disparue et la personne de contact
 - 15\. Lieu de séjour
-- 16\. Etat (décédé/e, blessé/e, malade, en bonne santé)
+- 16\. État (décédé/e, blessé/e, malade, en bonne santé)
 - 17\. Date du dernier contact
 - 18\. Lieu de rassemblement
 - 19\. Moyen de transport
@@ -344,13 +350,13 @@ Annexe 6
 - 8\. Lieux d’origine
 - 9\. Nationalités
 - 10\. Numéro d’assuré selon l’art. 50*c* de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^annex6-lvlu1-1] (numéro d’assuré AVS)
-- 11\. Evènement
+- 11\. Évènement
 - 12\. Informations concernant la personne de contact (noms, prénoms, adresses, coordonnées, langues et sexe)
 - 13\. Lien entre la personne portée disparue et la personne de contact
 - 14\. Assurances
 - 15\. Bénéficiaire d’une rente AI
 - 16\. Obligation de s’annoncer (militaires)
-- 17\. Etat (décédé/e, blessé/e, malade, en bonne santé)
+- 17\. État (décédé/e, blessé/e, malade, en bonne santé)
 - 18\. Données portant sur des mesures d’aide sociale et des poursuites ou sanctions pénales et administratives selon l’art. 4, al. 3, let. b, de la loi
 - 19\. Numéro de passeport
 
