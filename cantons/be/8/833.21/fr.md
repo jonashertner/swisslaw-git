@@ -4,13 +4,12 @@ number: "833.21"
 title: "Loi concernant la Chambre de conciliation *"
 short: LCC
 language: fr
-version: 2013-06-01
-valid_until: 2021-03-31
-version_adopted: 2012-11-20
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1978-02-07
 in_force: 1978-11-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/833.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/261/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2178/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/261/pdf_file"
 
 (LCC)
 
-du 07.02.1978 (état au 01.06.2013)
+du 07.02.1978 (état au 01.04.2021)
 
 Le Grand Conseil du canton de Berne,
 
@@ -105,7 +104,7 @@ arrête:
 
 **Secrétariat**
 
-<sup>1</sup> Le service compétent de la Direction de l’économie publique assure le secrétariat.
+<sup>1</sup> Le service compétent de la Direction de l’économie, de l’énergie et de l’environnement assure le secrétariat.
 
 #### Art. 9
 
@@ -239,7 +238,7 @@ arrête:
 
 **Exécution**
 
-<sup>1</sup> La Chambre de conciliation est soumise à la surveillance administrative de la Direction de l'économie publique.
+<sup>1</sup> La Chambre de conciliation est soumise à la surveillance administrative de la Direction de l’économie, de l’énergie et de l’environnement.
 
 <sup>2</sup> Le Conseil-exécutif édicte les dispositions nécessaires à l'exécution de la présente loi.
 

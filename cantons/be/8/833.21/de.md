@@ -4,13 +4,12 @@ number: "833.21"
 title: Gesetz über das Einigungsamt
 short: EAG
 language: de
-version: 2013-06-01
-valid_until: 2021-03-31
-version_adopted: 2012-11-20
+version: 2021-04-01
+version_adopted: 2021-02-17
 adopted: 1978-02-07
 in_force: 1978-11-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/833.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/261/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2178/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/261/pdf_file"
 
 (EAG)
 
-vom 07.02.1978 (Stand 01.06.2013)
+vom 07.02.1978 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -105,7 +104,7 @@ beschliesst:
 
 **Sekretariat**
 
-<sup>1</sup> Die zuständige Stelle der Volkswirtschaftsdirektion führt das Sekretariat.
+<sup>1</sup> Die zuständige Stelle der Wirtschafts-, Energie- und Umweltdirektion führt das Sekretariat.
 
 #### Art. 9
 
@@ -241,7 +240,7 @@ beschliesst:
 
 **Vollzug**
 
-<sup>1</sup> Das Einigungsamt untersteht der administrativen Aufsicht der Volkswirtschaftsdirektion.
+<sup>1</sup> Das Einigungsamt untersteht der administrativen Aufsicht der Wirtschafts-, Energie- und Umweltdirektion.
 
 <sup>2</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes notwendigen Ausführungsvorschriften.
 
