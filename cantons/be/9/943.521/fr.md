@@ -4,13 +4,12 @@ number: "943.521"
 title: Ordonnance relative à la loi fédérale sur les substances explosibles
 short: "Ordonnance cantonale sur les explosifs, OCExpl"
 language: fr
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2008-10-29
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2004-12-15
 in_force: 2005-03-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/943.521"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/620/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2244/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/620/pdf_file"
 
 (Ordonnance cantonale sur les explosifs, OCExpl)
 
-du 15.12.2004 (état au 01.01.2009)
+du 15.12.2004 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -42,12 +41,12 @@ arrête:
 
 #### Art. 2
 
-**Office de l’économie bernoise**
+**Office de l’économie**
 
-<sup>1</sup> Lorsque des mesures de protection des travailleurs doivent être prises dans des entreprises soumises à la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail, LTr)[^2-1], l’exécution de la loi sur les explosifs incombe à l’Office de l’économie bernoise (beco) (art. 23 et 34 LExpl)[^2-2].
+<sup>1</sup> Lorsque des mesures de protection des travailleurs doivent être prises dans des entreprises soumises à la loi fédérale du 13 mars 1964 sur le travail dans l’industrie, l’artisanat et le commerce (loi sur le travail, LTr)[^2-1], l’exécution de la loi sur les explosifs incombe à l’Office de l’économie (OEC) (art. 23 et 34 LExpl[^2-2]).
 
-[^2-1]: RS 822.11
-[^2-2]: RS 941.41
+[^2-1]: RS [822.11](https://db.clex.ch/link/Bund/822.11/fr)
+[^2-2]: RS [941.41](https://db.clex.ch/link/Bund/941.41/fr)
 
 ## 2 Autorisations de vente, permis d’acquisition et autorisations exceptionnelles
 
@@ -84,7 +83,7 @@ arrête:
 
 **Voies de recours**
 
-<sup>1</sup> Les décisions de la Police cantonale peuvent faire l’objet d’un recours auprès de la Direction de la police et des affaires militaires.
+<sup>1</sup> Les décisions de la Police cantonale peuvent faire l’objet d’un recours auprès de la Direction de la sécurité.
 
 <sup>2</sup> Au reste, les dispositions de la loi du 23 mai 1989 sur la procédure et la juridiction administratives (LPJA)[^6-1] s’appliquent.
 

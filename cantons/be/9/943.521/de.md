@@ -4,13 +4,12 @@ number: "943.521"
 title: Verordnung zum Bundesgesetz über explosionsgefährliche Stoffe
 short: "Kantonale Sprengstoffverordnung, KSprstV"
 language: de
-version: 2009-01-01
-valid_until: 2021-03-31
-version_adopted: 2008-10-29
+version: 2021-04-01
+version_adopted: 2021-02-24
 adopted: 2004-12-15
 in_force: 2005-03-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/943.521"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/620/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2244/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/620/pdf_file"
 
 (Kantonale Sprengstoffverordnung, KSprstV)
 
-vom 15.12.2004 (Stand 01.01.2009)
+vom 15.12.2004 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -42,12 +41,12 @@ beschliesst:
 
 #### Art. 2
 
-**Amt für Berner Wirtschaft**
+**Amt für Wirtschaft**
 
-<sup>1</sup> Soweit Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer in Betrieben, die dem Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG)[^2-1] unterliegen, betroffen sind, obliegt der Vollzug dem Amt für Berner Wirtschaft (beco) (Art. 23 und 34 SprstG)[^2-2].
+<sup>1</sup> Soweit Massnahmen zum Schutz der Arbeitnehmerinnen und Arbeitnehmer in Betrieben, die dem Bundesgesetz vom 13. März 1964 über die Arbeit in Industrie, Gewerbe und Handel (Arbeitsgesetz, ArG)[^2-1] unterliegen, betroffen sind, obliegt der Vollzug dem Amt für Wirtschaft (AWI) (Art. 23 und 34 SprstG[^2-2]).
 
-[^2-1]: SR 822.11
-[^2-2]: SR 941.41
+[^2-1]: SR [822.11](https://db.clex.ch/link/Bund/822.11/de)
+[^2-2]: SR [941.41](https://db.clex.ch/link/Bund/941.41/de)
 
 ## 2 Verkaufsbewilligungen, Erwerbsscheine und Ausnahmebewilligungen
 
@@ -84,7 +83,7 @@ beschliesst:
 
 **Rechtspflege**
 
-<sup>1</sup> Gegen Verfügungen der Kantonspolizei kann bei der Polizei- und Militärdirektion Beschwerde erhoben werden.
+<sup>1</sup> Gegen Verfügungen der Kantonspolizei kann bei der Sicherheitsdirektion Beschwerde erhoben werden.
 
 <sup>2</sup> Im Übrigen gelten die Vorschriften des Gesetzes vom 23. Mai 1989 über die Verwaltungsrechtspflege (VRPG)[^6-1].
 
