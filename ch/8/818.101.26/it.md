@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: "Ordinanza del 19 giugno 2020 sui provvedimenti per combattere l'epidemia di COVID-19 nella situazione particolare (Ordinanza COVID-19 situazione particolare)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: it
-version: 2021-03-22
+version: 2021-04-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210322/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210322-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/it"
 
 (Ordinanza COVID-19 situazione particolare)
 
-del 19 giugno 2020 (Stato 22 marzo 2021)
+del 19 giugno 2020 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 

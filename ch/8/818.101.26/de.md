@@ -3,11 +3,11 @@ sr: "818.101.26"
 title: Verordnung vom 19. Juni 2020 über Massnahmen in der besonderen Lage zur Bekämpfung der Covid-19-Epidemie (Covid-19-Verordnung besondere Lage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/439"
 language: de
-version: 2021-03-22
+version: 2021-04-01
 adopted: 2020-06-19
 in_force: 2020-06-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210322/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210322-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/439/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2020-439-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/439/20210322/de"
 
 (Covid-19-Verordnung besondere Lage)
 
-vom 19. Juni 2020 (Stand am 22. März 2021)
+vom 19. Juni 2020 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -122,7 +122,7 @@ Jede Person muss im öffentlichen Raum in folgenden Bereichen eine Gesichtsmaske
 [^3c-5]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 [^3c-6]: Eingefügt durch Ziff. I der V vom 28. Okt. 2020 (Massnahmen gegenüber Personen, betreffend öffentlich zugängliche Einrichtungen und Betriebe und Veranstaltungen sowie zum Arbeitnehmerschutz), in Kraft seit 29. Okt. 2020 ([AS 2020 4503](https://fedlex.data.admin.ch/eli/oc/2020/793)).
 
-## 2*a*. Abschnitt: Massnahmen betreffend die Kontaktquarantäne und die Absonderung
+## 2*a*. Abschnitt:**** Massnahmen betreffend die Kontaktquarantäne und die Absonderung
 
 [^sec2a-1]
 
@@ -798,6 +798,6 @@ Anhang 1*[^t-1]*
 - 4\.5 Bei Familien oder anderen Gruppen mit untereinander bekannten Personen sowie in Restaurations-, Bar- und Clubbetrieben genügt die Erfassung der Kontaktdaten nur einer Person der betreffenden Familie oder Gruppe.
 - 4\.6 Der Betreiber oder Organisator muss die Vertraulichkeit der Kontaktdaten bei der Erhebung und die Datensicherheit namentlich bei der Aufbewahrung der Daten gewährleisten.
 
-Anhang 2[^t-2]
+Anhang 2*[^t-2]*
 
 [^t-2]: Eingefügt durch Ziff. II der V vom 13. Jan. 2021 (Weitere Massnahmenverschärfungen) ([AS 2021 7](https://fedlex.data.admin.ch/eli/oc/2021/7)). Aufgehoben durch Ziff. II Abs. 2 der V vom 24. Febr. 2021 (Verlängerung befristeter Massnahmen sowie Lockerungen in den Bereichen Freizeit, Kultur, Sport und Einkaufsläden), mit Wirkung seit 1. März 2021 ([AS 2021 110](https://fedlex.data.admin.ch/eli/oc/2021/110)).
