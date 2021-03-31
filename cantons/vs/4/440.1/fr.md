@@ -4,13 +4,13 @@ number: "440.1"
 title: Loi sur la promotion de la culture
 short: LPrC
 language: fr
-version: 2019-01-01
-valid_until: 2021-03-31
+version: 2021-04-01
+valid_until: 2024-12-31
 version_adopted: 2018-06-15
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/fr/versions/2480/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/2880/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2480/pdf_file"
 
 (LPrC)
 
-du 15.11.1996 (état 01.01.2019)
+du 15.11.1996 (état 01.04.2021)
 
 Le Grand Conseil du canton du Valais
 
@@ -161,13 +161,15 @@ ordonne:
 
 #### Art. 15
 
-**Animation artistique des bâtiments**
+**Intervention artistique sur les constructions**
 
-<sup>1</sup> Les budgets de construction ou de rénovation importante de bâtiments de l'Etat ou de ses institutions comprennent un montant réservé à l'animation artistique.
+<sup>1</sup> Lorsque l’Etat, ses institutions ou ses établissements en sont les maîtres d’ouvrage, les budgets de construction ou de restauration importante de bâtiments, d’ouvrages d’art ainsi que de constructions et aménagements de génie civil qui représentent un intérêt social, culturel ou touristique comprennent un montant réservé à l’intervention artistique. Ce montant représente un pourcentage de l’ensemble du budget dédié à la construction qui figure dans le règlement sur la promotion de la culture. La somme réservée à l'intervention artistique n'est cependant jamais supérieure à 600'000 francs (indice des prix à la consommation mai 2020 = 100).
 
-<sup>2</sup> Le Conseil d'Etat édicte des dispositions sur le mode de calcul des montants à réserver, compte tenu de l'affectation du bâtiment ainsi que du genre et du coût des travaux.
+<sup>2</sup> Lorsque le maître d’ouvrage d’une construction ou d’une rénovation importante au sens de l’alinéa 1 est une commune, une association de communes ou une institution de droit public et que cette construction est subventionnée par l’Etat, le maître d’ouvrage peut prévoir une intervention artistique, le cas échéant, celle-ci est mise au bénéfice de la subvention cantonale au même titre que la construction elle-même.
 
-<sup>3</sup> Lorsque la construction ou la rénovation d'un bâtiment communal ou intercommunal affecté à l'usage public est subventionnée par l'Etat, les dépenses relatives à l'animation artistique sont subventionnées dans la même proportion que les autres dépenses et ce conformément aux dispositions de l'alinéa 2.
+<sup>3</sup> Le Conseil d’Etat édicte un règlement sur le mode de calcul des montants à réserver et sur les taux et la nature des constructions et travaux qui peuvent faire l’objet d’une subvention.
+
+<sup>4</sup> Le Conseil d’Etat fixe dans le règlement les modalités de conservation des interventions artistiques.
 
 ### 2.2 Organisation
 

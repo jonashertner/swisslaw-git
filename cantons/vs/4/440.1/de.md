@@ -4,13 +4,13 @@ number: "440.1"
 title: Kulturförderungsgesetz
 short: KFG
 language: de
-version: 2019-01-01
-valid_until: 2021-03-31
+version: 2021-04-01
+valid_until: 2024-12-31
 version_adopted: 2018-06-15
 adopted: 1996-11-15
 in_force: 1997-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/440.1"
-pdf: "https://lex.vs.ch/api/de/versions/2480/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/2880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://lex.vs.ch/api/de/versions/2480/pdf_file"
 
 (KFG)
 
-vom 15.11.1996 (Stand 01.01.2019)
+vom 15.11.1996 (Stand 01.04.2021)
 
 Der Grosse Rat des Kantons Wallis
 
-eingesehen die Artikel 31 und 42 der kantonalen Verfassung;
+eingesehen die Artikel 31 und 42 der Kantonsverfassung;
 
 auf Antrag des Staatsrates,
 
@@ -161,13 +161,15 @@ verordnet:
 
 #### Art. 15
 
-**Künstlerische Gestaltung von Gebäuden**
+**Kunst am Bau**
 
-<sup>1</sup> Die Voranschläge für den Bau oder für bedeutende Renovierungen von Gebäuden des Staates oder seiner Institutionen enthalten einen Betrag für die künstlerische Gestaltung.
+<sup>1</sup> Treten der Staat, seine Institutionen oder Anstalten als Bauherr auf, so ist im Budget für den Bau oder die bedeutende Renovierung von Gebäuden, Kunstbauten sowie Tiefbauarbeiten, die von sozialem, kulturellem oder touristischem Interesse sind, ein Betrag für Kunst am Bau vorzusehen. Dieser Betrag entspricht einem Prozentsatz des gesamten Baubudgets, der im Reglement zur Kulturförderung festgehalten ist. Die Summe für Kunst am Bau beträgt jedoch nie mehr als 600'000 Franken (LIK Mai 2020 = 100).
 
-<sup>2</sup> Der Staatsrat erlässt Bestimmungen über die Berechnung des einzusetzenden Betrages unter Berücksichtigung der Zweckbestimmung des Gebäudes sowie der Art und der Kosten der Arbeiten.
+<sup>2</sup> Ist der Bauherr eines vom Staat subventionierten Bauvorhabens oder einer bedeutenden Renovierung gemäss Absatz 1 eine Gemeinde, ein Gemeindeverband oder eine öffentlich-rechtliche Institution, so kann der Bauherr eine Kunst-am-Bau-Intervention vorsehen. In diesem Fall wird die staatliche Subvention für Kunst am Bau zum gleichen Satz wie für den Rest des Bauwerkes berechnet.
 
-<sup>3</sup> Wird der Bau oder die Renovation eines kommunalen oder interkommunalen Gebäudes, das zum öffentlichen Gebrauch bestimmt ist, vom Staat subventioniert, so werden die Ausgaben für die künstlerische Gestaltung im gleichen Verhältnis subventioniert wie die übrigen Ausgaben, gemäss den Bestimmungen in Absatz 2.
+<sup>3</sup> Der Staatsrat erlässt ein Reglement über die Berechnungsweise der vorzusehenden Beträge sowie über die Ansätze und die Art der Bauwerke und Arbeiten, die subventioniert werden können.
+
+<sup>4</sup> Der Staatsrat legt auf dem Reglementsweg die Modalitäten für die Erhaltung von Kunst am Bau fest.
 
 ### 2.2 Organisation
 
