@@ -4,11 +4,11 @@ title: Verordnung vom 31. Oktober 2007 über die Familienzulagen (Familienzulage
 short: FamZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/52"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2007-10-31
 in_force: 2009-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/52/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2008-52-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/52/20210101/de"
 
 (Familienzulagenverordnung, FamZV)
 
-vom 31. Oktober 2007 (Stand am 1. Januar 2021)
+vom 31. Oktober 2007 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -435,15 +435,14 @@ Der Datenschutz und die Informatiksicherheit richten sich nach:
 
 - a. der Verordnung vom 14. Juni 1993[^18h-1] zum Bundesgesetz über den Datenschutz;
 - b.[^18h-2] der Cyberrisikenverordnung vom 27. Mai 2020[^18h-3];
-- c.[^18h-4] den Weisungen des Bundesrates vom 16. Januar 2019[^18h-5] über die IKT-Sicherheit in der Bundesverwaltung.
+- c.[^18h-4] ...
 
 <sup>2</sup> Die Zentrale Ausgleichsstelle, die Stellen nach Artikel 21*c* FamZG und die Arbeitgeber treffen die notwendigen organisatorischen und technischen Massnahmen zur Sicherung der Daten.
 
 [^18h-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
 [^18h-2]: Fassung gemäss Anhang Ziff. 18 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
 [^18h-3]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
-[^18h-4]: Fassung gemäss Anhang Ziff. 18 der V vom 25. Nov. 2020 über die digitale Transformation und die Informatik, in Kraft seit 1. Jan. 2021 ([AS 2020 5871](https://fedlex.data.admin.ch/eli/oc/2020/988)).
-[^18h-5]: [BBl 2019 1303](https://fedlex.data.admin.ch/eli/fga/2019/278)
+[^18h-4]: Aufgehoben durch Anhang Ziff. 32 der V vom 24. Febr. 2021, mit Wirkung seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
 
 #### Art. 18i
 
