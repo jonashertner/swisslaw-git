@@ -4,11 +4,11 @@ title: Verordnung vom 6. Juni 2014 über die Informationssysteme für den öffen
 short: ISVet-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: de
-version: 2020-07-01
+version: 2021-04-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20200701/de/xml/fedlex-data-admin-ch-eli-cc-2014-325-20200701-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/de"
 
 (ISVet-V)
 
-vom 6. Juni 2014 (Stand am 1. Juli 2020)
+vom 6. Juni 2014 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -496,14 +496,15 @@ Die Behörden oder die anerkannten Laboratorien, welche die Daten in ASAN, ALIS 
 
 **Informatiksicherheit**
 
-<sup>1</sup> Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Bundesinformatikverordnung vom 9. Dezember 2011[^28-1].
+<sup>1</sup> Die Massnahmen zur Gewährleistung der Informatiksicherheit richten sich nach der Cyberrisikenverordnung vom 27. Mai 2020[^28-1].[^28-2]
 
-<sup>2</sup> Die Bestimmungen über die Systemsicherheit müssen Teil der für die technische Wartung von ASAN, von ALIS und von Fleko mit Dritten abgeschlossenen Leistungsvereinbarungen sowie der Nutzungsvereinbarungen mit den Kantonen sein.[^28-2]
+<sup>2</sup> Die Bestimmungen über die Systemsicherheit müssen Teil der für die technische Wartung von ASAN, von ALIS und von Fleko mit Dritten abgeschlossenen Leistungsvereinbarungen sowie der Nutzungsvereinbarungen mit den Kantonen sein.[^28-3]
 
 <sup>3</sup> Die Kantone und die anerkannten Laboratorien sorgen für die Informatiksicherheit in ihrem Bereich.
 
-[^28-1]: [SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^28-2]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^28-1]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^28-2]: Fassung gemäss Anhang Ziff. 34 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^28-3]: Fassung gemäss Ziff. I der V vom 31. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 29
 

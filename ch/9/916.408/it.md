@@ -4,11 +4,11 @@ title: "Ordinanza del 6 giugno 2014 concernente i sistemi d&#700;informazione pe
 short: O-SISVet
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: it
-version: 2020-07-01
+version: 2021-04-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20200701/it/xml/fedlex-data-admin-ch-eli-cc-2014-325-20200701-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/it"
 
 (O-SISVet)
 
-del 6 giugno 2014 (Stato 1° luglio 2020) (Stato 1° luglio 2020)
+del 6 giugno 2014 (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -67,11 +67,11 @@ Essa comprende in particolare disposizioni riguardanti:
 
 Si intendono per:
 
-- a. *sistema d’infor**mazione centrale comune*: sistema d’informazione centrale lungo la filiera alimentare comune allʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) e allʼUfficio federale dellʼagricoltura (UFAG), finalizzato a garantire la sicurezza delle derrate alimentari e degli alimenti per animali, la salute e la protezione degli animali nonché una produzione primaria ineccepibile;
+- a. *sistema d’informazione centrale comune*: sistema d’informazione centrale lungo la filiera alimentare comune allʼUfficio federale della sicurezza alimentare e di veterinaria (USAV) e allʼUfficio federale dellʼagricoltura (UFAG), finalizzato a garantire la sicurezza delle derrate alimentari e degli alimenti per animali, la salute e la protezione degli animali nonché una produzione primaria ineccepibile;
 - b*.* *sottosistema:* sistema dʼinformazione facente parte del sistema d’informazione centrale comune;
 - c. *gestione:* prestazioni ricorrenti e messa a disposizione dellʼinfrastruttura tecnica che garantiscono il corretto funzionamento di un sistema dʼinformazione;
 - d. *sviluppo:* ampliamento di un sistema dʼinformazione, in particolare adeguamenti per adempiere nuove disposizioni legali;
-- e. *postazione dʼaccesso*: licenza che consente lʼaccesso a un sistema dʼinformazione;
+- e. *postazione dʼac**cesso*: licenza che consente lʼaccesso a un sistema dʼinformazione;
 - f *terzi incaricati:* persone od organizzazioni cui lʼautorità competente affida per contratto lo svolgimento di compiti dʼesecuzione previsti per legge nei settori della salute e della protezione degli animali nonché dellʼigiene delle derrate alimentari;
 - g. *produzione primaria:* produzione di derrate alimentari e alimenti per animali non trasformati.
 
@@ -495,14 +495,15 @@ Le autorità o i laboratori riconosciuti che hanno inserito o trasmesso i dati a
 
 **Sicurezza informatica**
 
-<sup>1</sup> Le misure atte a garantire la sicurezza informatica sono rette dallʼordinanza del 9 dicembre 2011[^28-1] sullʼinformatica nellʼAmministrazione federale.
+<sup>1</sup> Le misure atte a garantire la sicurezza informatica sono rette dall’ordinanza del 27 maggio 2020[^28-1] sui ciber-rischi.[^28-2]
 
-<sup>2</sup> Le disposizioni concernenti la sicurezza dei sistemi devono costituire parte integrante degli accordi di prestazione conclusi con terzi volti a garantire la manutenzione tecnica di ASAN, ALIS e Fleko nonché degli accordi di utilizzazione conclusi con i Cantoni.[^28-2]
+<sup>2</sup> Le disposizioni concernenti la sicurezza dei sistemi devono costituire parte integrante degli accordi di prestazione conclusi con terzi volti a garantire la manutenzione tecnica di ASAN, ALIS e Fleko nonché degli accordi di utilizzazione conclusi con i Cantoni.[^28-3]
 
 <sup>3</sup> I Cantoni e i laboratori riconosciuti provvedono alla sicurezza informatica nel proprio settore.
 
-[^28-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^28-2]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^28-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^28-2]: Nuovo testo giusta l’all. n. 34 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^28-3]: Nuovo testo giusta il n. I dell’O del 31 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 29
 

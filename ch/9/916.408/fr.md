@@ -4,11 +4,11 @@ title: "Ordonnance du 6 juin 2014 concernant les systèmes d'information du serv
 short: OSIVét
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/325"
 language: fr
-version: 2020-07-01
+version: 2021-04-01
 adopted: 2014-06-06
 in_force: 2014-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20200701/fr/xml/fedlex-data-admin-ch-eli-cc-2014-325-20200701-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/325/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2014-325-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/325/20200701/fr"
 
 (OSIVét)
 
-du 6 juin 2014 (Etat le 1<sup>er</sup> juillet 2020)
+du 6 juin 2014 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -496,14 +496,15 @@ Les autorités ou les laboratoires agréés qui ont saisi des données dans ASAN
 
 **Sécurité informatique**
 
-<sup>1</sup> Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 9 décembre 2011 sur l’informatique dans l’administration fédérale[^28-1].
+<sup>1</sup> Les mesures pour garantir la sécurité informatique sont régies par l’ordonnance du 27 mai 2020 sur les cyberrisques[^28-1].[^28-2]
 
-<sup>2</sup> Les dispositions régissant la sécurité informatique du système doivent être intégrées dans les contrats de maintenance d’ASAN, d’ALIS et de Fleko conclues avec des tiers et dans les conventions d’utilisation passées avec les cantons.[^28-2]
+<sup>2</sup> Les dispositions régissant la sécurité informatique du système doivent être intégrées dans les contrats de maintenance d’ASAN, d’ALIS et de Fleko conclues avec des tiers et dans les conventions d’utilisation passées avec les cantons.[^28-3]
 
 <sup>3</sup> Les cantons et les laboratoires agréés veillent à la sécurité informatique dans leur domaine d’activité.
 
-[^28-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
-[^28-2]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
+[^28-1]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^28-2]: Nouvelle teneur selon l’annexe ch. 34 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^28-3]: Nouvelle teneur selon le ch. I de l’O du 31 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4543](https://fedlex.data.admin.ch/eli/oc/2018/708)).
 
 #### Art. 29
 
