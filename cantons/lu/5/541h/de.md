@@ -3,20 +3,20 @@ canton: LU
 number: 541h
 title: Studien- und Prüfungsordnung (SPO) für den Studiengang Bachelor of Arts in Religionspädagogik (BA Religionspädagogik)
 language: de
-version: 2011-08-01
-valid_until: 2021-03-31
-version_adopted: 2011-06-29
+version: 2021-04-01
+valid_until: 2022-07-31
+version_adopted: 2021-03-24
 adopted: 2011-06-29
 in_force: 2011-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/541h"
-pdf: "https://srl.lu.ch/api/de/versions/3728/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/3729/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung (SPO) für den Studiengang Bachelor of Arts in Religionspädagogik (BA Religionspädagogik)
 
-vom 29.06.2011 (Stand 01.08.2011)
+vom 29.06.2011 (Stand 01.04.2021)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -54,9 +54,7 @@ beschliesst:
 
 **Die Leitung des Studiengangs**
 
-<sup>1</sup> Für die Leitung des Studiengangs BA Religionspädagogik sind die Organe gemäss §§ 7–13 der Studien- und Prüfungsordnung des Religionspädagogischen Instituts[^4-1] (nachfolgend SPO RPI) zuständig.
-
-[^4-1]: SRL Nr. [542b](https://srl.lu.ch/data/542b/de)
+<sup>1</sup> Für die Leitung des Studiengangs BA Religionspädagogik sind die Organe gemäss Institutsreglement des Religionspädagogischen lnstituts zuständig.
 
 #### § 5
 
@@ -65,6 +63,16 @@ beschliesst:
 <sup>1</sup> Der BA Religionspädagogik umfasst 180 Credits und hat eine Normalstudiendauer von 6 Semestern. Eine längere Studiendauer ist möglich.
 
 <sup>2</sup> Das Studium BA Religionspädagogik kann jeweils im Herbstsemester begonnen werden.
+
+#### § 5a
+
+**Mobilitäts- und Gaststudien**
+
+<sup>1</sup> Mobilitäts- und Gaststudierenden steht das Lehrangebot des Religionspädagogischen Instituts (RPI) offen. Ausgeschlossen davon sind praktische Studien, Praxisreflexion und Supervision.
+
+<sup>2</sup> Im Übrigen gelten die Bestimmungen der Theologischen Fakultät der Universität Luzern (Rahmenstudienordnung vom 24. April 2013[^5a-1], §§ 17 und 30).
+
+[^5a-1]: SRL Nr. [541i](https://srl.lu.ch/data/541i/de)
 
 ## 2 Zulassungs- und Studienvoraussetzungen
 
@@ -78,9 +86,9 @@ beschliesst:
 
 **Studiengangsspezifische Voraussetzungen**
 
-<sup>1</sup> In einem Aufnahmeverfahren werden die studiengangsspezifischen Voraussetzungen für ein pädagogisches Studium gemäss SPO RPI § 14 Absatz 1c abgeklärt.
+<sup>1</sup> In einem Aufnahmeverfahren werden die studiengangsspezifischen Voraussetzungen für ein pädagogisches Studium wie auch die überfachlichen Kompetenzen abgeklärt (Details regelt der Studienplan).
 
-<sup>2</sup> Zur Klärung des Vorliegens eines strafrechtlichen Vorbehalts, der die Ausübung eines pädagogischen Berufs in Frage stellen würde, legen die Interessenten einen Auszug aus dem eidgenössischen Zentralstrafregister vor.
+<sup>2</sup> Zur Klärung des Vorliegens eines strafrechtlichen Vorbehalts legen die Interessentinnen und Interessenten einen Auszug aus dem eidgenössischen Zentralstrafregister sowie einen Sonderprivatauszug vor. Dies ist Voraussetzung für die Vergabe der Praxisstelle im Aufbaustudium.
 
 <sup>3</sup> Die Leitung des Studiengangs BA Religionspädagogik entscheidet darüber, ob die studiengangsspezifischen Voraussetzungen erfüllt sind.
 
@@ -105,7 +113,7 @@ beschliesst:
 - a. Grundstudium — 60 Cr
 - b. Aufbaustudium — 120 Cr
 
-<sup>2</sup> Im Studium kann ein Schwerpunkt in Theologie oder in Religionswissenschaft gesetzt werden.
+<sup>2</sup> …
 
 #### § 10
 
@@ -119,7 +127,7 @@ beschliesst:
 
 **Berufsspezifische Eignung**
 
-<sup>1</sup> Im Rahmen der pädagogischen und berufspraktischen Ausbildung findet eine Eignungsbeurteilung gemäss den Richtlinien für pädagogische Berufe statt[^11-1]. Es werden für das religionspädagogische Berufsfeld relevante allgemeine und persönliche Eigenschaften wie Kommunikations- und Sozialkompetenz, Lern- und Arbeitsverhalten, pädagogische Haltung, Reflexionsfähigkeit und Berufsrollenübernahme beurteilt.
+<sup>1</sup> Im Rahmen der pädagogischen und berufspraktischen Ausbildung findet eine Eignungsbeurteilung gemäss den Richtlinien für pädagogische Berufe statt[^11-1]. Es werden für das religionspädagogische Berufsfeld relevante überfachliche Kompetenzen beurteilt.
 
 <sup>2</sup> Wird bei einer Studentin oder einem Studenten festgestellt, dass sie oder er sich für das religionspädagogische Berufsfeld nur bedingt oder nicht eignet, verfügt die Leitung des Studiengangs auf Antrag der Dozierendenkonferenz Auflagen oder den Ausschluss vom weiteren Studium.
 
@@ -135,7 +143,7 @@ beschliesst:
 
 <sup>2</sup> Wenn der Übertritt an Auflagen geknüpft ist, müssen diese in den ersten beiden Semestern des Aufbaustudiums erfüllt werden. Werden sie nicht fristgerecht erfüllt, muss das Aufbaustudium unterbrochen werden. Das Studium kann erst fortgesetzt werden, wenn die Auflagen erfüllt sind.
 
-<sup>3</sup> Kann die Eignung für eine religionspädagogische Tätigkeit nicht fristgerecht nachgewiesen werden, muss das Studium abgebrochen werden. Frühestens nach einer Frist von zwei Jahren kann sich der Student bzw. die Studentin für eine Wiederaufnahme bewerben unter der Bedingung, dass die in den Auflagen beschriebenen Mängel aufgearbeitet sind.
+<sup>3</sup> Kann die Eignung für eine religionspädagogische Tätigkeit nicht fristgerecht nachgewiesen werden, muss das Studium abgebrochen werden. Frühestens nach einer Frist von zwei Jahren kann sich die Studentin bzw. der Student für eine Wiederaufnahme bewerben unter der Bedingung, dass die in den Auflagen beschriebenen Mängel aufgearbeitet sind.
 
 #### § 13
 
@@ -143,21 +151,22 @@ beschliesst:
 
 <sup>1</sup> Das Aufbaustudium umfasst
 
-- a. das religionspädagogische Modul Grundlagen und Integration,
-- b. zwei der drei fachdidaktischen Wahlpflichtmodule:
-  - 1\. Schulischer Religionsunterricht,
-  - 2\. Gemeindekatechese,
+- a. den religionspädagogischen Kompetenzbereich Religionspädagogische Grundlagen und Vernetzung,
+- b. zwei der drei fachdidaktischen Wahlpflichtkompetenzbereiche:
+  - 1\. Religionsunterricht,
+  - 2\. Katechese,
   - 3\. Kirchliche Jugendarbeit,
 - c. Hauptvorlesungen mit benoteten Prüfungen,
 - d. die berufspraktischen Studien,
-- e. die Bachelorarbeit.
+- e. die Bachelorprüfung,
+- f. die Bachelorarbeit.
 
-<sup>2</sup> Die Aufteilung auf Fachbereiche und das Verfassen von schriftlichen Seminararbeiten in den Modulen a und b richten sich nach den Vorgaben der Professur für Religionspädagogik/Katechetik.
+<sup>2</sup> Die Aufteilung auf Fachbereiche und das Verfassen von zwei umfangreichen schriftlichen Arbeiten in den Kompetenzbereichen a und b richten sich nach den Vorgaben der Professur für Religionspädagogik/Katechetik.
 
-<sup>3</sup> Vier Hauptvorlesungen (c) mit benoteten Prüfungen sind an den Professuren der Theologischen Fakultät oder am Religionswissenschaftlichen Seminar der Kultur- und Sozialwissenschaftlichen Fakultät in folgenden Fachbereichen zu -belegen:
+<sup>3</sup> Vier Hauptvorlesungen mit benoteten Prüfungen sind an den Professuren der Theologischen Fakultät in folgenden Fachbereichen zu belegen:
 
 - a. biblischer und historischer Bereich,
-- b. Bereich Dogmatik oder Religionswissenschaft (je nach Schwerpunktsetzung vgl. § 9 Abs. 2),
+- b. Bereich Dogmatik oder Religionswissenschaft,
 - c. Bereich Ethik,
 - d. frei wählbar.
 
@@ -203,9 +212,9 @@ beschliesst:
 
 **Nichtbestehen und Wiederholen von Leistungsnachweisen**
 
-<sup>1</sup> Bei Nichtbestehen kann der Leistungsnachweis einmal wiederholt werden. Wird die Wiederholung erneut nicht bestanden, werden keine Credits vergeben. Die Lehrveranstaltung und der Leistungsnachweis müssen wiederholt oder durch eine andere Veranstaltung im selben Fach ersetzt werden.
+<sup>1</sup> Bei Nichtbestehen kann jeder Leistungsnachweis einmal wiederholt werden. Wird die Wiederholung erneut nicht bestanden, werden keine Credits vergeben. Die Lehrveranstaltung und der Leistungsnachweis können einmal wiederholt oder durch eine andere Veranstaltung im selben Fach ersetzt werden.
 
-<sup>2</sup> Wird der Leistungsnachweis nach dem wiederholten Besuch der Veranstaltung oder in der Ersatzveranstaltung wiederum wiederholt nicht bestanden, so kann das Bachelorstudium nicht fortgesetzt werden. Der Student bzw. die Studentin wird vom BA Religionspädagogik ausgeschlossen. Die Ausschlussverfügung erfolgt schriftlich durch die Leitung des Studiengangs. Das rechtliche Gehör und die Rechtsmittel gemäss § 22 werden gewährt.
+<sup>2</sup> Wird der Leistungsnachweis nach dem wiederholten Besuch der Veranstaltung oder in der Ersatzveranstaltung wiederum wiederholt nicht bestanden, so kann das Bachelorstudium nicht fortgesetzt werden. Die Studentin bzw. der Student wird vom BA Religionspädagogik ausgeschlossen. Die Ausschlussverfügung erfolgt schriftlich durch die Leitung des Studiengangs. Das rechtliche Gehör und die Rechtsmittel gemäss § 22 werden gewährt.
 
 <sup>3</sup> Die Examinatoren ziehen bei der Wiederholung eines Leistungsnachweises einen weiteren Dozenten oder eine weitere Dozentin als Zweitgutachter bei.
 
@@ -232,7 +241,7 @@ beschliesst:
 - a. der Durchschnittsnote aller Benotungen des Grundstudiums,
 - b. der Note der Seminararbeit im Grundstudium,
 - c. der Noten von vier Hauptvorlesungen mit benoteten Prüfungen des Aufbaustudiums,
-- d. der Noten der drei Seminararbeiten im Aufbaustudium,
+- d. der Noten der zwei umfangreichen schriftlichen Arbeiten im Aufbaustudium,
 - e. der fünffach gezählten Note der Bachelorarbeit.
 
 #### § 21
