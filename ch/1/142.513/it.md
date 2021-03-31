@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordinanza del 12 aprile 2006 concernente il sistema d'informazione centrale sulla migrazione (Ordinanza SIMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: it
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210101/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210101-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/it/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/it"
 
 (Ordinanza SIMIC)
 
-del 12 aprile 2006 (Stato 1° gennaio 2021)
+del 12 aprile 2006 (Stato 1° aprile 2021) (Stato 1° aprile 2021)
 
 Il Consiglio federale svizzero,
 
@@ -522,13 +522,19 @@ A tali servizi possono essere eccezionalmente comunicati anche dati personali no
 
 ### (art. 5 cpv. 1 LSISA)
 
-<sup>1</sup> La sicurezza dei dati è retta dalle disposizioni dell’ordinanza del 14 giugno 1993[^17-1] relativa alla legge federale sulla protezione dei dati, dalla sezione sulla sicurezza informatica dell’ordinanza del 26 settembre 2003[^17-2] sull’informatica nell’Amministrazione federale e dalle raccomandazioni dell’Organo strategia informatica della Confederazione.
+<sup>1</sup>
 
-<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-3], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
+La sicurezza dei dati è retta:
+
+- a. dall’ordinanza del 14 giugno 1993[^17-1] relativa alla legge federale sulla protezione dei dati;
+- b. dall’ordinanza del 27 maggio 2020[^17-2] sui ciber-rischi.[^17-3]
+
+<sup>2</sup> La SEM, le autorità di cui agli articoli 9 e 10, l’Ufficio federale di statistica, l’Organizzazione svizzera d’aiuto ai rifugiati, i terzi incaricati della tenuta dei conti di garanzia secondo la LAsi[^17-4], la Cassa di compensazione svizzera e le casse di compensazione cantonali adottano, ciascuno nel proprio ambito specifico, le misure d’organizzazione e d’ordine tecnico atte a salvaguardare la sicurezza dei dati personali.
 
 [^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [[RU 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)art. 22 cpv. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)all. n. 2, **2011** 449. [RU 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29]. Vedi ora l’O del 9 dic. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988))
-[^17-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-3]: Nuovo testo giusta l’all. n. 5 dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 

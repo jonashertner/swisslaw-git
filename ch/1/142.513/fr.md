@@ -3,11 +3,11 @@ sr: "142.513"
 title: "Ordonnance du 12 avril 2006 sur le système d'information central sur la migration (Ordonnance SYMIC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: fr
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210101-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/fr/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/fr"
 
 (Ordonnance SYMIC)
 
-du 12 avril 2006 (Etat le 1<sup>er</sup> janvier 2021)
+du 12 avril 2006 (Etat le 1<sup>er</sup> avril 2021)
 
 Le Conseil fédéral suisse,
 
@@ -532,13 +532,19 @@ Exceptionnellement, des données personnelles peuvent être communiquées à ces
 
 ### (art. 5, al. 1, LDEA)
 
-<sup>1</sup> La sécurité des données est régie par les dispositions de l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^17-1], la section 3 de l’ordonnance du 26 septembre 2003 sur l’informatique dans l’administration fédérale[^17-2] ainsi que par les recommandations de l’organe stratégique de la Confédération.
+<sup>1</sup>
 
-<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-3], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
+La sécurité des données est régie par:
+
+- a. l’ordonnance du 14 juin 1993 relative à la loi fédérale sur la protection des données[^17-1];
+- b. l’ordonnance du 27 mai 2020 sur les cyberrisques[^17-2].[^17-3]
+
+<sup>2</sup> Le SEM, les autorités visées aux art. 9 et 10, l’Office fédéral de la statistique, l’Organisation suisse d’aide aux réfugiés, les tiers mandatés pour la gestion des comptes de sûreté en vertu de la LAsi[^17-4], la Caisse suisse de compensation et les caisses cantonales de compensation prennent, chacun dans leur secteur, les mesures organisationnelles et techniques propres à assurer la sécurité des données.
 
 [^17-1]: [RS 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [[RO 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), 2007 3401 art. 22 al. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)annexe ch. 2, **2011** 449. [RO 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)art. 29]. Voir actuellement l’O du 9 déc. 2011 ([RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
-[^17-3]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-2]: [RS 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-3]: Nouvelle teneur selon l’annexe ch. 5 de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-4]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
@@ -717,7 +723,7 @@ Les champs de données suivants de l’annexe 1 entrent en vigueur le 1<sup>er</
 - – «Date de naissance du partenaire enregistré (ch. IV., 2., i.);
 - – «Partenaire enregistré est suisse (ch. IV., 2., i.).
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 4, al. 3)
 
@@ -1135,7 +1141,7 @@ Unités organisationnelles
 [^annex1-lvlu1-lvlu2-3]: [RS 141.0](https://fedlex.data.admin.ch/eli/cc/2016/404)
 [^annex1-lvlu1-lvlu2-4]: Ordonnance du 22 mai 2002 sur l’introduction de la libre circulation des personnes ([RS 142.203](https://fedlex.data.admin.ch/eli/cc/2002/261))
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 13, al. 2)
 
@@ -1187,7 +1193,7 @@ Annexe 3
 
 [^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2006 1945](https://fedlex.data.admin.ch/eli/oc/2006/303).
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 (art. 2, let. a, ch. 5)
 

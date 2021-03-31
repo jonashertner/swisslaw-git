@@ -3,11 +3,11 @@ sr: "142.513"
 title: Verordnung vom 12. April 2006 über das Zentrale Migrationsinformationssystem (ZEMIS-Verordnung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/303"
 language: de
-version: 2021-01-01
+version: 2021-04-01
 adopted: 2006-04-12
 in_force: 2006-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210101/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210101-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/303/20210401/de/xml/fedlex-data-admin-ch-eli-cc-2006-303-20210401-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210401/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/303/20210101/de"
 
 (ZEMIS-Verordnung)
 
-vom 12. April 2006 (Stand am 1. Januar 2021)
+vom 12. April 2006 (Stand am 1. April 2021)
 
 Der Schweizerische Bundesrat,
 
@@ -536,13 +536,19 @@ Ausnahmsweise können diesen Stellen auch nicht anonymisierte Personendaten beka
 
 ### (Art. 5 Abs. 1 BGIAA)
 
-<sup>1</sup> Die Datensicherheit richtet sich nach den Bestimmungen der Verordnung vom 14. Juni 1993[^17-1] zum Bundesgesetz über den Datenschutz und den Abschnitt über die Informatiksicherheit in der Bundesinformatikverordnung vom 26. September 2003[^17-2] sowie nach den Empfehlungen des Informatikstrategieorgans Bund.
+<sup>1</sup>
 
-<sup>2</sup> Das SEM, die Behörden nach den Artikeln 9 und 10, das Bundesamt für Statistik, die Schweizerische Flüchtlingshilfe, die mit der Führung der Sicherheitskonti nach dem AsylG[^17-3] beauftragten Dritten, die Schweizerische Ausgleichskasse und die kantonalen Ausgleichskassen treffen in ihrem Bereich die angemessenen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
+Die Datensicherheit richtet sich nach:
+
+- a. der Verordnung vom 14. Juni 1993[^17-1] zum Bundesgesetz über den Datenschutz;
+- b. der Cyberrisikenverordnung vom 27. Mai 2020[^17-2].[^17-3]
+
+<sup>2</sup> Das SEM, die Behörden nach den Artikeln 9 und 10, das Bundesamt für Statistik, die Schweizerische Flüchtlingshilfe, die mit der Führung der Sicherheitskonti nach dem AsylG[^17-4] beauftragten Dritten, die Schweizerische Ausgleichskasse und die kantonalen Ausgleichskassen treffen in ihrem Bereich die angemessenen organisatorischen und technischen Massnahmen zur Sicherung der Personendaten.
 
 [^17-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568)
-[^17-2]: [[AS 2003 3687](https://fedlex.data.admin.ch/eli/oc/2003/525), [2007 3401](https://fedlex.data.admin.ch/eli/oc/2007/414)Art. 22 Abs. 2, [2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)Anhang Ziff. 2, **2011** 449. [AS 2011 6093](https://fedlex.data.admin.ch/eli/oc/2011/844)Art. 29]. Siehe heute: die V vom 9 Dez. 2011 ([SR 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)).
-[^17-3]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^17-2]: [SR 120.73](https://fedlex.data.admin.ch/eli/cc/2020/416)
+[^17-3]: Fassung gemäss Anhang Ziff. 5 der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)).
+[^17-4]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 18
 
