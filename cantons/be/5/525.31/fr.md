@@ -3,20 +3,20 @@ canton: BE
 number: "525.31"
 title: Ordonnance sur les installations de tir sportif
 language: fr
-version: 2007-01-01
-valid_until: 2021-03-31
-version_adopted: 2006-10-25
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/525.31"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2230/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Ordonnance sur les installations de tir sportif
 
-du 25.10.2006 (état au 01.01.2007)
+du 25.10.2006 (état au 01.04.2021)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -38,9 +38,9 @@ arrête:
 
 #### Art. 2
 
-<sup>1</sup> Le service compétent pour le domaine de la sécurité des installations de tir sportif est l’Office de la sécurité civile, du sport et des affaires militaires (OSSM) de la Direction de la police et des affaires militaires.
+<sup>1</sup> Le service compétent pour le domaine de la sécurité des installations de tir sportif est l’Office de la sécurité civile, du sport et des affaires militaires (OSSM) de la Direction de la sécurité.
 
-<sup>2</sup> L’OSSM désigne l’expert cantonal ou l’experte cantonale des installations de tir ainsi que son suppléant ou sa suppléante.
+<sup>2</sup> Il désigne l’expert cantonal ou l’experte cantonale des installations de tir ainsi que son suppléant ou sa suppléante.
 
 <sup>3</sup> Cette personne
 

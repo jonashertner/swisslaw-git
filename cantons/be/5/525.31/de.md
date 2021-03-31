@@ -3,20 +3,20 @@ canton: BE
 number: "525.31"
 title: Verordnung über die Sportschiessanlagen
 language: de
-version: 2007-01-01
-valid_until: 2021-03-31
-version_adopted: 2006-10-25
+version: 2021-04-01
+valid_until: 2021-12-31
+version_adopted: 2021-02-24
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/525.31"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/657/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Sportschiessanlagen
 
-vom 25.10.2006 (Stand 01.01.2007)
+vom 25.10.2006 (Stand 01.04.2021)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -38,9 +38,9 @@ beschliesst:
 
 #### Art. 2
 
-<sup>1</sup> Das Amt für Bevölkerungsschutz, Sport und Militär (BSM) der Polizei- und Militärdirektion ist die Fachstelle für den sicherheitstechnischen Bereich von Sportschiessanlagen.
+<sup>1</sup> Das Amt für Bevölkerungsschutz, Sport und Militär (BSM) der Sicherheitsdirektion ist die Fachstelle für den sicherheitstechnischen Bereich von Sportschiessanlagen.
 
-<sup>2</sup> Das BSM bezeichnet die kantonale Schiessanlagenexpertin oder den kantonalen Schiessanlagenexperten und deren oder dessen Stellvertretung.
+<sup>2</sup> Es bezeichnet die kantonale Schiessanlagenexpertin oder den kantonalen Schiessanlagenexperten und deren oder dessen Stellvertretung.
 
 <sup>3</sup> Die kantonale Schiessanlagenexpertin oder der kantonale Schiessanlagenexperte
 
